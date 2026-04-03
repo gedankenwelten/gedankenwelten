@@ -1,3 +1,19 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+.page {
+  max-width: 1900px;
+}
+
+.page-title {
+  font-size: 2.2rem;
+  font-family: var(--headerFont);
+  letter-spacing: -0.01em;
+}
+
+.explorer-content ul li {
+  padding: 0.5rem 0;
+}
+
+.explorer-content .folder-container {
+  padding: 0.5rem 0;
+}
