@@ -22,7 +22,6 @@ aliases:
 # Andreas Kemper — Faschismen im 21. Jahrhundert
 
 Quelle: Vortrag [Andreas Kemper - Faschismen im 21. Jahrhundert (Voller Vortrag)](https://www.youtube.com/watch?v=ug4UAdnGH54) — Kultreff, Universität Paderborn, ca. 2026
-Transkript: `Gedankenwelten/Transkripte/Kemper_Faschismus21_Transkript.txt`
 
 Begleitnote: [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 

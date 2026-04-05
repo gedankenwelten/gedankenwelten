@@ -16,7 +16,6 @@ aliases:
 # Mario Buchinger — Lügen der Kernenergie (3/6): Kernenergie ist wirtschaftlich
 
 Quelle: [Lügen der Kernenergie — Folge 3/6: Kernenergie ist wirtschaftlich](https://www.youtube.com/watch?v=Kr9L65ZBZes) (#RestartThinking)
-Transkript: `Gedankenwelten/Transkripte/Buchinger_Kernenergie_F3_Wirtschaftlichkeit_Transkript.txt`
 Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 > [!info] Wer spricht?

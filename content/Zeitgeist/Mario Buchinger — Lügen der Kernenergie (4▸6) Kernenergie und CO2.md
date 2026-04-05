@@ -20,7 +20,6 @@ aliases:
 # Mario Buchinger — Lügen der Kernenergie (4/6): Kernenergie ist CO₂-arm oder gar CO₂-frei
 
 Quelle: [Lügen der Kernenergie — Folge 4/6](https://www.youtube.com/watch?v=3sc6b0Wf0FQ) (#RestartThinking)
-Transkript: `Gedankenwelten/Transkripte/Buchinger_Kernenergie_F4_CO2_Transkript.txt`
 Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 > [!info] Wer spricht?

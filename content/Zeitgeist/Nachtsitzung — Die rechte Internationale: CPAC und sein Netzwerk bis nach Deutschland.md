@@ -18,7 +18,6 @@ aliases:
 # Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland
 
 Quelle: [Die rechte Internationale: Ihr Netzwerk reicht bis nach Deutschland](https://www.youtube.com/watch?v=rDhu7VJf4Bs) (Nachtsitzung, 2026)
-Transkript: `Gedankenwelten/Transkripte/Nachtsitzung_RechteInternationale_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Benjamin Biersky** — Betreiber des YouTube-Kanals *Nachtsitzung* (seit März 2024, ~16.000 Abonnenten). Ehemaliger Kreisgeschäftsführer einer Partei (linkes Spektrum), Podcaster (*Linkes Gerede*, Rosa-Luxemburg-Club Oberberg).

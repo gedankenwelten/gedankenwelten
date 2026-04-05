@@ -27,7 +27,6 @@ aliases:
 # Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt
 
 Quelle: [Weiterdenken mit Aladin El-Mafaalani – taz FUTURZWEI-Talk](https://www.youtube.com/watch?v=5ba1RfeNeP0)
-Transkript: `Gedankenwelten/Transkripte/ElMafaalani_tazTalk_Transkript.txt`
 Gesprächspartner: Peter Unfried (Chefredakteur taz FUTURZWEI)
 
 > [!info] Wer spricht?

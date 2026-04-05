@@ -19,7 +19,6 @@ aliases:
 # Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung
 
 Quelle: [Ines Schwerdtner Entlarvt Merz & Die Heuchelei Der Politik!](https://www.youtube.com/watch?v=Pc4sHX1f1Fc) (Hyperpolitik, März 2026)
-Transkript: `Gedankenwelten/Transkripte/Schwerdtner_Energiekrise_Merz_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Ines Schwerdtner** — Co-Vorsitzende der Partei Die Linke (seit Oktober 2024, gemeinsam mit Jan van Aken), seit 2025 direkt gewähltes Mitglied des Bundestags für Berlin-Lichtenberg. Zuvor Chefredakteurin der deutschen Ausgabe des sozialistischen Magazins *Jacobin* (2019–2023). Demokratische Sozialistin, Fokus auf soziale Ungleichheit, Umverteilung und Klassenpolitik. Steht für eine Linke, die sich klar von Ampel-Sozialdemokratie und CDU-Establishment abgrenzt.

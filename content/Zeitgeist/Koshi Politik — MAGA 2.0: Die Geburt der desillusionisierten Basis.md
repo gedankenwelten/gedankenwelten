@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis
 
 Datum: 11.03.2026
-Video: [MAGA 2.0 — Die Geburt einer neuen Bewegung?](https://www.youtube.com/watch?v=pn8fJV_k3JA)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_MAGA_Neues_Transkript.txt`
+Quelle: [MAGA 2.0 — Die Geburt einer neuen Bewegung?](https://www.youtube.com/watch?v=pn8fJV_k3JA)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.

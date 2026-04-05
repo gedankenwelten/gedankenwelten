@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — Truth Social 15: Töten als Ehrensache
 
 Datum: 13.03.2026
-Video: [Truth Social Folge 15: „Jetzt töte ich sie als der 47. Präsident"](https://www.youtube.com/watch?v=YPsDSTd0Fl8)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_TS15_Toeten_Transkript.txt`
+Quelle: [Truth Social Folge 15: „Jetzt töte ich sie als der 47. Präsident"](https://www.youtube.com/watch?v=YPsDSTd0Fl8)
 
 > [!info] Wer ist Koshi Politik?
 > Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Dieses Video ist erkennbar verstört im Ton — Koshi nennt den zweiten Post das „Verstörendste", was er auf Truth Social gesehen hat.

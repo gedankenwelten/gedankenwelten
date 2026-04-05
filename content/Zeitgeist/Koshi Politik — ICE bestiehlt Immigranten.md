@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — ICE bestiehlt Immigranten
 
 Datum: 10.03.2026
-Video: [ICE Agents bestehlen systematisch Immigranten?](https://www.youtube.com/watch?v=6PwIPqiFXeg)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Bestehlen_Transkript.txt`
+Quelle: [ICE Agents bestehlen systematisch Immigranten?](https://www.youtube.com/watch?v=6PwIPqiFXeg)
 
 ---
 

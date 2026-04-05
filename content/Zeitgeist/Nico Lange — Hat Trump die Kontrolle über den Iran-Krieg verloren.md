@@ -20,7 +20,6 @@ aliases:
 # Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren?
 
 Quelle: Der Standard Podcast „Thema des Tages", ca. 19.–21. März 2026
-Transkript: `Gedankenwelten/Transkripte/Lange_Iran_Kontrolle_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Nico Lange** (geb. 1975) ist Senior Fellow der Zeitenwende-Initiative bei der Münchner Sicherheitskonferenz (MSC) und ehemaliger Chef des Ministerbüros im Bundesverteidigungsministerium unter AKK (2019–2022). Als früherer Leiter der Konrad-Adenauer-Stiftung in Kyiv und Russland-/Ukrainekenner mit fließenden Sprachkenntnissen gilt er als einer der profiliertesten deutschen Stimmen zur westlichen Sicherheitspolitik. Seine Positionen sind dezidiert pro-westlich und transatlantisch; er fordert entschlossenes Handeln gegen autoritäre Regime und kritisiert die europäische Rüstungspolitik scharf. Im März 2026 war er einer der meistzitierten deutschen Experten zum Iran-Krieg.

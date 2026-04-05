@@ -20,7 +20,6 @@ aliases:
 # Götz Aly — Wie konnte das geschehen? Deutschland 1933 bis 1945
 
 Quelle: Vortrag [Wie konnte das geschehen? Deutschland 1933 bis 1945](https://www.youtube.com/watch?v=Q9iDpKty2dk) — DHI Heidelberg / Literarisches Zentrum, 03.12.2025
-Transkript: `Gedankenwelten/Transkripte/Goetz_Aly_Deutschland_1933_1945_Transkript.txt`
 
 > [!info] Zur Person
 > Götz Aly (* 1947) ist einer der bedeutendsten deutschen Zeithistoriker. Er hat sein Forscherleben dem Nationalsozialismus gewidmet — immer unter neuen Fragestellungen. Sein neues Buch *Wie konnte das geschehen?* gilt als sein Opus Magnum, eine Quintessenz seines Lebenswerkes. Persönlicher Bezug: Sein Vater war als Reserveoffizier 1943 in Warschau verletzt worden — direkt neben dem Ghetto, das gerade liquidiert wurde. Aly selbst ist Jahrgang 1947, der Generation der Kriegskinder.

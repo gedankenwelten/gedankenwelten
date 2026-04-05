@@ -21,7 +21,6 @@ aliases:
 # ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)
 
 Quelle: [Woher bekommen wir saubere Energie? | Gute Nachrichten vom Planeten | ARTE](https://www.youtube.com/watch?v=CTlzdwQCKkU)
-Transkript: `Gedankenwelten/Transkripte/ARTE_GuteNachrichten_Energie_Transkript.txt`
 
 > [!info] Über diese Doku
 > **ARTE** — deutsch-französisches Kulturfernsehen, Koproduktion D/F, keine Werbefinanzierung. Diese Folge der Reihe *Gute Nachrichten vom Planeten* (44 Min., D 2025) zeigt fünf konkrete Projekte, die zeigen: Die Lösungen für die Energiewende existieren bereits — es hapert an Umsetzung und Akzeptanz, nicht an Ideen.

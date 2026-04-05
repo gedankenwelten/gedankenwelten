@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — ICE-Anhörung im Kongress
 
 Datum: 12.02.2026
-Video: [ICE Bosse werden GEGRILLT! Anhörung gerät völlig aus den Fugen!](https://www.youtube.com/watch?v=RTU_TeCoT9M)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Anhoerung_Transkript.txt`
+Quelle: [ICE Bosse werden GEGRILLT! Anhörung gerät völlig aus den Fugen!](https://www.youtube.com/watch?v=RTU_TeCoT9M)
 
 ---
 

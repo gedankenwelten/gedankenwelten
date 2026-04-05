@@ -20,7 +20,6 @@ aliases:
 
 Quelle: [Wie Israel Trump in den Krieg trieb | Max Blumenthal](https://www.youtube.com/watch?v=1SxRTX5WFSQ) (acTVism Munich, 18. März 2026)
 Original: [Chris Hedges YouTube Channel](https://www.youtube.com/watch?v=XQGnWJ8lVT8)
-Transkript: `Gedankenwelten/Transkripte/Blumenthal_IsraelTrumpKrieg_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Max Blumenthal** — US-amerikanischer Journalist, Autor und Dokumentarfilmer (* 1977). Sohn von Sidney Blumenthal (Clinton-Kommunikationsstratege). Frühere Karriere bei NYT, Guardian, HuffPost, Al Jazeera. Gründer von **The Grayzone** (2015), einem antiimperialistischen Investigativmedium. Autor von *Republican Gomorrah* (2009, NYT-Bestseller), *Goliath* (2013, Israel/Palästina), *The Management of Savagery* (2019). **Politische Einordnung:** Linksaußen-Antiimperialismus mit konsistent pro-russischer, pro-iranischer, pro-Assad-Stoßrichtung. The Grayzone wird von Media Bias/Fact Check als extremes Links-Framing mit niedrigem Faktenscore eingestuft. Gründungsreise nach Moskau 2015 zur RT-Jubiläumsgala (mit Putin, Michael Flynn, Jill Stein). OSINT-Analyse (Molfar) seiner Ukraine-Posts: 55% Falschinformationen. Ehefrau Anya Parampil: ehemalige RT-Korrespondentin.

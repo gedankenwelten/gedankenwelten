@@ -21,7 +21,6 @@ aliases:
 # Claus-Christian Carbon — Wahrnehmung und Wirklichkeit
 
 Quelle: Podcast-Interview [Warum du die Welt nie so siehst, wie sie wirklich ist](https://www.youtube.com/watch?v=-8gPB16_R_Y) (1:40:44)
-Transkript: `Gedankenwelten/Transkripte/Carbon_Wahrnehmung_Wirklichkeit_Transkript.txt`
 
 > [!info] Zur Person
 > Prof. Dr. Claus-Christian Carbon (CCC) ist Professor für Allgemeine Psychologie und Methodenlehre an der Universität Bamberg. Er leitet die Forschungsgruppe **EPEK** (Ergonomie, Psychologische Ästhetik, Gestalt) und forscht zu Wahrnehmung, Ästhetik, optischen Täuschungen und Kognition. Er ist u.a. bekannt für seine Arbeiten zu Schönheitsurteilen, Stereotypen und der Konstruiertheit von Realität.

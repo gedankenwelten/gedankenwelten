@@ -23,8 +23,7 @@ aliases:
 # Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will
 
 Datum: ca. März 2026
-Video: [ICE- Flughafenterror: Was Trump wirklich erreichen will!](https://www.youtube.com/watch?v=wXaW37yu7Hk)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Flughafenterror_Transkript.txt`
+Quelle: [ICE- Flughafenterror: Was Trump wirklich erreichen will!](https://www.youtube.com/watch?v=wXaW37yu7Hk)
 
 > [!info] Wer spricht?
 > **Koshi Politik** — deutschsprachiger YouTube-Kanal eines in den USA lebenden Kommentators (New York / Buffalo-Raum). Erklärt US-Politik für ein deutsches Publikum, das mit dem amerikanischen System weniger vertraut ist. Schwerpunkte: Trump-Administration, ICE, MAGA-Bewegung. Klar linksliberal positioniert; kein Anspruch auf Neutralität, aber sachlich nachvollziehbar eingeordnet. Green-Card-Inhaber — selbst direkt von ICE-Politik betroffen.

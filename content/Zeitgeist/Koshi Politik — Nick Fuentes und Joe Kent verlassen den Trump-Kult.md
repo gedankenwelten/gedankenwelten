@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult
 
 Datum: 20.03.2026
-Video: [Nick Fuentes, Joe Kent — und das Ende des Personenkults](https://www.youtube.com/watch?v=eAgxjKZ4W3g)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_MAGA_Civilwar_Transkript.txt`
+Quelle: [Nick Fuentes, Joe Kent — und das Ende des Personenkults](https://www.youtube.com/watch?v=eAgxjKZ4W3g)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Eigene Einschätzung: links-liberal, faktenbasiert. Koshi ist hier explizit gut gelaunt — das ist erkennbar in der Wortwahl.

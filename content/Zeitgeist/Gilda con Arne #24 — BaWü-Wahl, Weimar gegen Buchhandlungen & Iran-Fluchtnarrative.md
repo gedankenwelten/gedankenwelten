@@ -20,7 +20,6 @@ aliases:
 
 Quelle: Podcast „Gilda con Arne", Folge 24
 Aufnahme: Mittwoch, 12. März 2026 (wenige Tage nach der BaWü-Wahl vom 8. März)
-Transkript: `Gedankenwelten/Transkripte/GCA24_BaWu_Wahl_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Gilda Sahebi** — deutsch-iranische Journalistin und Autorin, Baden-Württembergerin

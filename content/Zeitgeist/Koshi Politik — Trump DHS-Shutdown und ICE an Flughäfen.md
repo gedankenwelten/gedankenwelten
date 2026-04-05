@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen
 
 Quelle: YouTube-Kanal **Koshi Politik**, Teil 2 eines zweiteiligen Videos vom März 2026
-Video: [110% PSYCHOPATH! Trumps totaler Online AUSRASTER am Wochenende! Teil 2](https://www.youtube.com/watch?v=raV4Loqu4hg)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_Trump_Ausraster2_Transkript.txt`
+Quelle: [110% PSYCHOPATH! Trumps totaler Online AUSRASTER am Wochenende! Teil 2](https://www.youtube.com/watch?v=raV4Loqu4hg)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, US-Innenpolitik, Kongress-Geschehen. Erklärt US-Politikprozesse für deutsches Publikum; produziert schnell und nah am Tagesgeschehen. Eigene Einschätzung: politisch tendenziell links-liberal, aber mit faktenbasiertem Ansatz — **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.

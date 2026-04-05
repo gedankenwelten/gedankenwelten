@@ -17,7 +17,6 @@ aliases:
 # Hannah Arendt — Denken ohne Geländer
 
 Quelle: [Hannah Arendt: »Denken ohne Geländer« — Herbert und Elsbert Weichmann-Stiftung Hamburg](https://www.youtube.com/watch?v=uNPOVaeawJ0)
-Transkript: `Gedankenwelten/Transkripte/Arendt_Denken_ohne_Gelaender_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Hannah Arendt** (*1906, Hannover — 1975, New York*) — Politische Philosophin, die aus dem Scheitern der Zivilisation eine Theorie des Denkens, Handelns und der Verantwortung destillierte.

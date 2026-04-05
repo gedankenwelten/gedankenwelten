@@ -23,7 +23,6 @@ aliases:
 # Annette Kehnel — Vom Mittelalter für die Zukunft lernen
 
 Quelle: [YouTube — SRF Kultur, Sternstunde Philosophie](https://www.youtube.com/watch?v=LrIOfHssI_k)
-Transkript: `Gedankenwelten/Transkripte/Mittelalter_Zukunft_Transkript.txt`
 Moderation: Wolfram Eilenberger | Ausgestrahlt: 22. März 2026, SRF 1
 
 > [!info] Wer spricht?

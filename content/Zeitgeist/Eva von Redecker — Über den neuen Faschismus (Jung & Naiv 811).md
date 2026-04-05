@@ -24,7 +24,6 @@ aliases:
 
 Quelle: Jung & Naiv, Folge 811 (ca. März 2026, 2:39h)
 Gesprächspartner: Tilo Jung
-Transkript: `Gedankenwelten/Transkripte/Redecker_JungNaiv_Transkript.txt`
 
 Begleitnote: [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
 

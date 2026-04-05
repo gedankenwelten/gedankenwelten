@@ -22,7 +22,6 @@ aliases:
 # Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)
 
 Quelle: [Warum Tech-Eliten so denken und was das für dich bedeutet – scobel im Gespräch: Anna-Verena Nosthoff](https://www.youtube.com/watch?v=cvZW3TD2jNE)
-Transkript: `Gedankenwelten/Transkripte/Scobel_Kybernetik_Nosthoff_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Gert Scobel** — Philosoph (M.A. UC Berkeley), Journalist, zweifacher Grimme-Preisträger, Prof. für Philosophie & Interdisziplinarität (H-BRS Bonn-Rhein-Sieg). Leitete die 3sat-Sendung *scobel* 17 Jahre lang (2008–2025). Seit Sept. 2025 eigener YouTube-Kanal (produziert von Friedrich Küppersbusch / Probono Köln, gefördert durch Stiftungen) — dieses Video stammt aus dem neuen Kanal.

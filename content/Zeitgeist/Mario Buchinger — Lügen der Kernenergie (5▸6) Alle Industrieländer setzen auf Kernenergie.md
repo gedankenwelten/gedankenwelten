@@ -16,7 +16,6 @@ aliases:
 # Mario Buchinger — Lügen der Kernenergie (5/6): Alle Industrieländer setzen auf Kernenergie
 
 Quelle: [Lügen der Kernenergie — Folge 5/6](https://www.youtube.com/watch?v=dBUrGeF_ZEg) (#RestartThinking)
-Transkript: `Gedankenwelten/Transkripte/Buchinger_Kernenergie_F5_Industrielaender_Transkript.txt`
 Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 > [!info] Wer spricht?

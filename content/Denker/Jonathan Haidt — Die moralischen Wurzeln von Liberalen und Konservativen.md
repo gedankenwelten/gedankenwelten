@@ -19,7 +19,6 @@ aliases:
 # Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen
 
 Quelle: [The moral roots of liberals and conservatives — TED 2008](https://www.youtube.com/watch?v=8SOQduoLgRw)
-Transkript: `Gedankenwelten/Transkripte/Haidt_Moral_Roots_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Jonathan Haidt** (*1963, New York City*) — Sozialpsychologe, der die politische Psychologie der westlichen Welt dauerhaft verändert hat. Kein klassischer Akademiker im Elfenbeinturm, sondern jemand, dem die Frage nicht losließ: *Warum sind gute Menschen so tief über Moral uneins?*

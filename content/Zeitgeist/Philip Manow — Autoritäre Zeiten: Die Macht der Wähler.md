@@ -20,7 +20,6 @@ aliases:
 # Philip Manow — Autoritäre Zeiten: Die Macht der Wähler
 
 Quelle: Körber-Stiftung Hamburg, Auftaktveranstaltung der Reihe „Autoritäre Zeiten", aufgezeichnet März 2026
-Transkript: `Gedankenwelten/Transkripte/Manow_Autoritaere_Zeiten_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Philip Manow** — Politikwissenschaftler, Professor für vergleichende politische Ökonomie und Demokratieforschung an der Universität Siegen; zuvor Konstanz, Heidelberg, Bremen; seit 2018 Mitglied der Berlin-Brandenburgischen Akademie der Wissenschaften. Bücher: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp) und demnächst *Spaltungslinien. Europas Parteiensysteme und die Dekonsolidierung des Nationalstaats*. Skeptisch gegenüber dem dominanten „autoritären Wende"-Diskurs — strukturell-ökonomische Erklärung statt Einstellungsdiagnose.

@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — DHS-Shutdown: Keine Einigung
 
 Datum: 13.02.2026
-Video: [Keine Einigung! DHS Finanzierung endet HEUTE – Was passiert mit ICE?](https://www.youtube.com/watch?v=4CC9uNRCP_M)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_DHS_Finanzierung_Transkript.txt`
+Quelle: [Keine Einigung! DHS Finanzierung endet HEUTE – Was passiert mit ICE?](https://www.youtube.com/watch?v=4CC9uNRCP_M)
 
 ---
 

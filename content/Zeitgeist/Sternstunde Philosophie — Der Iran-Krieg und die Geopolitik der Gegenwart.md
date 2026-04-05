@@ -25,7 +25,6 @@ aliases:
 # Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart
 
 Quelle: [YouTube — SRF Kultur](https://www.youtube.com/watch?v=RypSj1hEdvE)
-Transkript: `Gedankenwelten/Transkripte/SRF_IranKrieg_Geopolitik_Transkript.txt`
 Moderation: Yves Bossart | Ausgestrahlt: 13./14. März 2026
 
 > [!info] Wer spricht?

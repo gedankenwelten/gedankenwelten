@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — Epstein-Akten: Was wir jetzt wissen
 
 Datum: 01.02.2026
-Video: [Epstein-Akten Tag 2: Musk, Lutnick und die Überlebenden](https://www.youtube.com/watch?v=wIanoMg6wmg)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_Epstein_Wissen_Transkript.txt`
+Quelle: [Epstein-Akten Tag 2: Musk, Lutnick und die Überlebenden](https://www.youtube.com/watch?v=wIanoMg6wmg)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Koshi betont Unparteilichkeit — „Wenn die Leute schuldig sind, sollen die zur Rechenschaft gezogen werden" — gilt für alle politischen Lager.

@@ -23,7 +23,6 @@ aliases:
 # Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes
 
 Quelle: [Sternstunde Philosophie — Matthieu Ricard: Vom Wissenschaftler zum buddhistischen Mönch](https://youtu.be/CGlHR9hcb5A) (SRF / WDR, 2021)
-Transkript: `Gedankenwelten/Transkripte/Ricard_Weisheiten_Transkript.txt`
 Gesprächspartnerin: Barbara Bleisch (Philosophin, SRF Sternstunde Philosophie)
 
 > [!info] Wer spricht?

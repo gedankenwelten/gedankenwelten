@@ -18,8 +18,7 @@ aliases:
 # Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11
 
 Datum: 13.02.2026
-Video: [Truth Social Folge 11: Trump und die Epstein-Anhörung](https://www.youtube.com/watch?v=qdoC-Vsv-KA)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_Epstein_Bondi_TS11_Transkript.txt`
+Quelle: [Truth Social Folge 11: Trump und die Epstein-Anhörung](https://www.youtube.com/watch?v=qdoC-Vsv-KA)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal — Truth-Social-Segment: Trump-Posts im Original auf Deutsch gelesen und eingeordnet. Koshi bleibt auch hier ironisch-sachlich.

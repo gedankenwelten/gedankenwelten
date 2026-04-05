@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — ICE Buffalo — Tod eines Flüchtlings
 
 Datum: 27.02.2026
-Video: [ICE Tragödie in MEINER Wahlheimat, Buffalo NY!](https://www.youtube.com/watch?v=gO4CqnTIMZk)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Buffalo_Transkript.txt`
+Quelle: [ICE Tragödie in MEINER Wahlheimat, Buffalo NY!](https://www.youtube.com/watch?v=gO4CqnTIMZk)
 
 > [!note] Persönliche Note
 > Koshi lebt seit über 8 Jahren mit seiner Familie in Buffalo, New York. Dieses Video unterscheidet sich im Ton von seinen anderen Videos — kein sachliches Intro, direkte Betroffenheit. Buffalo, "The City of Good Neighbors", war für ihn eine unpolitische Gemeinschaft. Seit Ende der Biden-Amtszeit hat sich das verändert.

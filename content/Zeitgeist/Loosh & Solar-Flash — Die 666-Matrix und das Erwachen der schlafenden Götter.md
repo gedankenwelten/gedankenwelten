@@ -20,7 +20,6 @@ aliases:
 # Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter
 
 Quelle: [Der Solar-Flash und das Erwachen der schlafenden Götter](https://www.youtube.com/watch?v=0skaq7E8jcE) (YouTube, 2026)
-Transkript: `Gedankenwelten/Transkripte/Loosh_Seelenernte_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Anonymer KI-Kanal** — Das Video ist vollständig KI-generiert: Skript via LLM (ChatGPT-Stil), Voiceover via AI-Synthesizer (erkennbar an Versprechern wie „ähm" und inkonsistenter Betonung), Visuals via Bildgenerierungs-KI. Kein realer Sprecher, kein Kanal-Impressum. Typisches Produkt der seit 2023 explodierenden KI-Esoterik-Content-Fabrik: mehrere Videos pro Woche, generische Thumbnails mit Pyramiden/Weltall/Augen, Kanalnamen à la „Awakening Truth" oder „Hidden Knowledge". Der eigentliche Autor ist anonym — die Quelle ist das destillierte Kondensat eines spezifischen Conspiracy-Ökosystems, nicht eine Einzelperson.

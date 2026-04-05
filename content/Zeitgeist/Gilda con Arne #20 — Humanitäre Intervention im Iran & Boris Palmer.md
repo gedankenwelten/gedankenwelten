@@ -19,7 +19,6 @@ aliases:
 
 Quelle: Gilda con Arne — Der Politik-Podcast, Folge #20
 Produziert von Gilda Sahebi & Arne Semsrott, unabhängig/werbefrei über Steady finanziert
-Transkript: `Gedankenwelten/Transkripte/GCA20_Iran_Kai_Ambos_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Gilda Sahebi** — Moderatorin und Co-Hosterin; Journalistin und Iran-Expertin mit iranischem Vater; kennt die Zivilgesellschaft von innen, hat aktive Kontakte in den Iran.

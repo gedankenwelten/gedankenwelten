@@ -18,7 +18,6 @@ aliases:
 # Verliert Trump den Iran-Krieg in Amerika?
 
 Quelle: Thema des Tages — Der Standard Podcast, März 2026
-Transkript: `Gedankenwelten/Transkripte/zeitgeist_Verliert_Trump_den_Iran-Krieg_in_Amerika_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Daniel Rtschezecker** — Moderator, Thema des Tages (Der Standard)

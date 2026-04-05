@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union
 
 Datum: 26.02.2026
-Video: [Truth Social Folge 14: Trump nach der State of the Union](https://www.youtube.com/watch?v=8tdgkj5Q83g)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_TS14_Handy_Transkript.txt`
+Quelle: [Truth Social Folge 14: Trump nach der State of the Union](https://www.youtube.com/watch?v=8tdgkj5Q83g)
 
 > [!info] Wer ist Koshi Politik?
 > Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Koshi wohnt in Buffalo, das an den Bundesstaat Minnesota angrenzt — Trumps Privatfehde mit Minnesota hat für ihn persönlichen Kontext.

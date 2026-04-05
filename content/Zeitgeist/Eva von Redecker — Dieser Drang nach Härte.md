@@ -22,7 +22,6 @@ aliases:
 # Eva von Redecker — Dieser Drang nach Härte
 
 Quelle: taz Talk meets Buchmesse Leipzig, März 2026 (Buchvorstellung bei S. Fischer)
-Transkript: `Gedankenwelten/Transkripte/Redecker_Haerte_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Eva von Redecker** — Philosophin und freie Autorin; promoviert an der Humboldt-Universität Berlin bei Rahel Jaeggi über Praxis und Revolution. Lebt in Brandenburg, Lehrauftrag an der HFBK Hamburg. Vorherige Bücher: *Revolution für das Leben* (2020, über Klima- und Antirassismusbewegungen) und *Bleibefreiheit* (2023). Ihr neues Buch *Dieser Drang nach Härte. Über den neuen Faschismus* erscheint bei S. Fischer. Gesprächspartnerin: **Ulrike Winkelmann**, Chefredakteurin der taz.

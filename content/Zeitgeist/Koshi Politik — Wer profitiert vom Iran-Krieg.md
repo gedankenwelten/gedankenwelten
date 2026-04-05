@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — Wer profitiert vom Iran-Krieg?
 
 Datum: 01.03.2026
-Video: [Wer profitiert wirklich vom Iran-Krieg?](https://www.youtube.com/watch?v=AVma8mzPm7A)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_Iran_Geld_Transkript.txt`
+Quelle: [Wer profitiert wirklich vom Iran-Krieg?](https://www.youtube.com/watch?v=AVma8mzPm7A)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, US-Innenpolitik, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, aber faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.

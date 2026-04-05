@@ -17,7 +17,6 @@ aliases:
 # Ernst Gelegs — Ist das Regime Orbán am Ende?
 
 Quelle: [Ist das Regime Orbán am Ende? | Ernst Gelegs](https://www.youtube.com/watch?v=Aj3Z0XatLwA) — Der Standard, *Thema des Tages*
-Transkript: `Gedankenwelten/Transkripte/Gelegs_Orban_Ungarn_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Ernst Gelegs** — österreichischer Journalist, langjähriger ORF-Korrespondent für Osteuropa.

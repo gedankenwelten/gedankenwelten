@@ -26,7 +26,6 @@ aliases:
 # Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)
 
 Quelle: [Iran-Forscherin Diba Mirzaei zum Irankrieg & zur Geschichte — Jung & Naiv: Folge 815](https://www.youtube.com/watch?v=RgL4bAh8YoM)
-Transkript: `Gedankenwelten/Transkripte/Mirzaei_Iran_JungNaiv_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Diba Mirzaei** ist Politikwissenschaftlerin und Iran-Forscherin am GIGA-Institut Hamburg (German Institute for Global and Area Studies) sowie Doktorandin an der Universität Hamburg. Ihre Dissertation analysiert Irans Außenpolitik gegenüber Saudi-Arabien unter dem Schah (1968–1979) — Frage: Wie autonom war der Schah gegenüber den USA? Zuvor arbeitete sie im Deutschen Auswärtigen Amt (Humanitäre Hilfe, 2018–2020) und war Zahedi Family Fellow an der Stanford University (Herbst 2025). Iranische Wurzeln, in Hamburg aufgewachsen. Bezeichnet sich selbst lieber als „Forscherin" denn als „Expertin" — weil Forschen fundiertere Selbstdaten bedeutet als bloße Sprechfähigkeit.

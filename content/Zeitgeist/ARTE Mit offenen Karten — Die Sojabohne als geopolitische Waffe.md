@@ -19,7 +19,6 @@ aliases:
 # ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe
 
 Quelle: [Die Sojabohne, eine geopolitische Pflanze | Mit offenen Karten | ARTE](https://www.youtube.com/watch?v=MXhIqO4MEds)
-Transkript: `Gedankenwelten/Transkripte/ARTE_Soja_Geopolitik_Transkript.txt`
 
 > [!info] Was ist das?
 > **ARTE „Mit offenen Karten"** — Geopolitik-Magazin des europäischen Kultursenders ARTE. Das Format erklärt geopolitische Zusammenhänge anhand von Karten und Daten, kurz und dicht (ca. 12 Min.). Diese Episode (F 2025) behandelt die Sojabohne als strategische Ressource im globalen Handelssystem.

@@ -22,7 +22,6 @@ aliases:
 # Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle
 
 Quelle: [Pentagon vs. Anthropic: Wer kontrolliert die KI?](https://www.youtube.com/watch?v=3wizXzdTQCc) — Surplus (Lukas Scholle), März 2026
-Transkript: `Gedankenwelten/Transkripte/Tooze_KI_Kontrolle_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Adam Tooze** — Wirtschaftshistoriker, Professor an der Columbia University New York. Einer der einflussreichsten wirtschaftspolitischen Intellektuellen im deutschsprachigen Raum — bekannt durch *Crashed* (Finanzkrise 2008) und *Shutdown* (Covid). Mitherausgeber von *Surplus*, einem linken Wirtschaftsmagazin. Tooze verbindet historische Tiefe mit politökonomischer Analyse — kein ideologischer Agitator, sondern präziser Strukturdenker.

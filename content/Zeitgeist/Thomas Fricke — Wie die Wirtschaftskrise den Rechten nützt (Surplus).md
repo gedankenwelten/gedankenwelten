@@ -22,7 +22,6 @@ aliases:
 # Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)
 
 Quelle: [Wie die Wirtschaftskrise den Rechten nützt | Mit Thomas Fricke](https://www.youtube.com/watch?v=YAfKuRf6YKk)
-Transkript: `Gedankenwelten/Transkripte/Fricke_Wirtschaftskrise_Rechte_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Thomas Fricke** — Geb. 1965, deutscher Wirtschaftsjournalist und Ökonom. Studium der Politikwissenschaft und VWL in Aachen und Paris (Université Paris I, Sciences Po). Von 2002 bis 2012 Chefvolkswirt der *Financial Times Deutschland* (FTD). Seit 2013 Chief Economist der European Climate Foundation. 2019 Gründer und Direktor des **Forum for a New Economy** — ein Think-Tank, der Ökonomen für neue Antworten auf die großen gesellschaftlichen Herausforderungen zusammenbringt. Kolumnist bei *Spiegel Online*, schreibt für *Project Syndicate* und *The Guardian*. Gründer und Herausgeber des *Surplus*-Magazins (surplusmagazin.de). Buch: *Wie viel Bank braucht der Mensch?* (2013).

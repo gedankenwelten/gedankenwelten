@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund
 
 Datum: 09.03.2026
-Video: [Neue Führung, neue Tote, MAGA bricht weg](https://www.youtube.com/watch?v=HcM8Iso48-c)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_Iran_MAGA_Revolte_Transkript.txt`
+Quelle: [Neue Führung, neue Tote, MAGA bricht weg](https://www.youtube.com/watch?v=HcM8Iso48-c)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.

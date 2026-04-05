@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest
 
 Datum: 17.03.2026
-Video: [NATO sagt Nein — Was kann Trump jetzt noch gewinnen?](https://www.youtube.com/watch?v=Aq5iO6nDbuQ)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_Iran_NATO_Transkript.txt`
+Quelle: [NATO sagt Nein — Was kann Trump jetzt noch gewinnen?](https://www.youtube.com/watch?v=Aq5iO6nDbuQ)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.

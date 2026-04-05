@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — Truth Social 13: Supreme Court und Zölle
 
 Datum: 23.02.2026
-Video: [Truth Social Folge 13: Trump vs. Supreme Court](https://www.youtube.com/watch?v=S4RBO7tVxbA)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_TS13_Gericht_Transkript.txt`
+Quelle: [Truth Social Folge 13: Trump vs. Supreme Court](https://www.youtube.com/watch?v=S4RBO7tVxbA)
 
 > [!info] Wer ist Koshi Politik?
 > Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Koshi erklärt auch den rechtlichen Kontext des Birthright Citizenship-Streits.

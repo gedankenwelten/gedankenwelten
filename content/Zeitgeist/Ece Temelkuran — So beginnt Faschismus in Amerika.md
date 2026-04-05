@@ -19,7 +19,6 @@ aliases:
 # Ece Temelkuran — So beginnt Faschismus in Amerika
 
 Quelle: [A Fascism Expert Warns: This Is How It Starts in America](https://www.youtube.com/watch?v=ey92mOHeuKo) — Zeteo (Mehdi Hasan), ca. März 2026
-Transkript: `Gedankenwelten/Transkripte/Temelkuran_Faschismus_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Ece Temelkuran** — türkische Journalistin, Autorin und politische Kommentatorin, im Gespräch mit **Mehdi Hasan** (Zeteo)

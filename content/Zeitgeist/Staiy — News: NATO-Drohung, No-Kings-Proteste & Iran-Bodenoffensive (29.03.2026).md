@@ -18,7 +18,6 @@ aliases:
 # Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)
 
 Quelle: [🗞️ NEWS: Trump droht (schon wieder) mit ENDE der NATO?!](https://www.youtube.com/watch?v=XnhZMe3ddto) — YouTube, 29.03.2026
-Transkript: `Gedankenwelten/Transkripte/Staiy_News_NATOTrump_Transkript.txt`
 
 > [!info] Wer spricht?
 > **STAIY** (bürgerl. **Marcel Krustin**, geb. 27. Juli 1987 in Magdeburg) — einer der größten deutschsprachigen Twitch-Streamer, seit 2013 aktiv. Wohnhaft in der Schweiz. Kommentiert Politik, Gesellschaft und aktuelle Nachrichten aus einer klar linksprogessiven Perspektive — direkt, unverblümt, ohne diplomatisches Weichspülen. Betreibt neben dem Hauptkanal auch „Auch Staiy" und einen Podcast (*Almanara Bica*). Bekannt für die Charity-Reihe *Im März gegen Merz*. Betreibt das Nachrichtenportal **meinungsmache.de**.

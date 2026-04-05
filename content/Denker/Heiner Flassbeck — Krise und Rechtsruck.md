@@ -20,7 +20,6 @@ aliases:
 # Heiner Flassbeck — Krise und Rechtsruck
 
 Quelle: Vortrag bei der SPD Remscheid — aufgenommen und kommentiert von Maurice Höfgen (Geld für die Welt)
-Transkript: `Gedankenwelten/Transkripte/Flassbeck_Krise_Rechtsruck_Transkript.txt`
 
 > [!info] Zur Quelle
 > Heiner Flassbeck ist Ökonom, ehemaliger Staatssekretär im Bundesfinanzministerium unter Oskar Lafontaine (1998–1999), war Chefökonom der UNCTAD und gilt als einer der schärfsten Kritiker der deutschen Wirtschaftspolitik. Er hat frühzeitig den Zusammenhang zwischen Agenda 2010 und der europäischen Schuldenkrise beschrieben. Dieser Vortrag bei der SPD legt in ~30 Minuten die makroökonomischen Grundlagen der europäischen Krise dar — und erklärt, warum sie den Rechtsruck befördert.

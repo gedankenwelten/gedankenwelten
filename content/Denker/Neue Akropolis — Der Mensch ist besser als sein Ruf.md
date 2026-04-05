@@ -21,7 +21,6 @@ aliases:
 # Neue Akropolis — Der Mensch ist besser als sein Ruf
 
 Quelle: Vortrag der Neuen Akropolis — Schule der Philosophie
-Transkript: `Gedankenwelten/Transkripte/Mensch_Kooperation_Konkurrenz_Transkript.txt`
 
 > [!info] Zur Quelle
 > Neue Akropolis ist eine internationale philosophische Organisation mit dem Ziel, Philosophie als praktische Lebenshaltung zu vermitteln — nicht als akademisches Fach, sondern als Werkzeug der persönlichen Entwicklung. Der Vortrag stellt eine These auf und begründet sie aus Krisenforschung, Biologie, Entwicklungspsychologie und Philosophie.

@@ -20,8 +20,7 @@ aliases:
 # Koshi Politik — ICE, Palantir und der Überwachungsstaat
 
 Datum: 03.02.2026
-Video: [ICE, Palantir & Gesichtsscans – welche Überwachung mit Milliarden möglich wird](https://www.youtube.com/watch?v=SuEpbWL7FFU)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Palantir_Transkript.txt`
+Quelle: [ICE, Palantir & Gesichtsscans – welche Überwachung mit Milliarden möglich wird](https://www.youtube.com/watch?v=SuEpbWL7FFU)
 
 ---
 

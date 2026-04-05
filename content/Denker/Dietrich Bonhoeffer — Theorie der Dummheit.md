@@ -24,9 +24,7 @@ aliases:
 # Dietrich Bonhoeffer — Theorie der Dummheit
 
 Quelle: *Widerstand und Ergebung — Briefe und Aufzeichnungen aus der Haft* (1951), Abschnitt „Nach zehn Jahren: Rechenschaft an der Wende zum Jahr 1943"
-Transkript: `Gedankenwelten/Transkripte/Bonhoeffer_Theorie_der_Dummheit_Transkript.txt`
 Ergänzende Quelle: [Dietrich Bonhoeffer: A Story of Courage and Faith](https://www.youtube.com/watch?v=bCqk-vG31wI) (The Incredible Journey, Gary Kent)
-Transkript: `Gedankenwelten/Transkripte/Bonhoeffer_Biografie_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Dietrich Bonhoeffer** (*4. Februar 1906, Breslau — 9. April 1945, KZ Flossenbürg*) — lutherischer Theologe, Pastor, Seminarleiter und aktiver Widerstandskämpfer gegen den Nationalsozialismus.

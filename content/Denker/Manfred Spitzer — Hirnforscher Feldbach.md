@@ -22,7 +22,6 @@ aliases:
 # Manfred Spitzer — Hirnforscher Vortrag in Feldbach
 
 Quelle: Vortrag in Feldbach, Österreich
-Transkript: `Gedankenwelten/Transkripte/Spitzer_Hirnforscher_Feldbach_Transkript.txt`
 
 > [!info] Zur Quelle
 > Manfred Spitzer ist Psychiater, Neurowissenschaftler und Direktor der Universitätsklinik Ulm. Dieser Vortrag vor einem österreichischen Allgemeinpublikum in Feldbach umfasst Neuroplastizität, die Bedeutung von Bildung im frühen Kindesalter, Demenzprävention, das Lernzentrum im Gehirn — und endet mit einem deutlichen Plädoyer gegen Smartphones in Kindheit und Jugend.

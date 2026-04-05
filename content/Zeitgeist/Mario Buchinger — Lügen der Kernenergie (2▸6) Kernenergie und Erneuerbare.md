@@ -16,7 +16,6 @@ aliases:
 # Mario Buchinger — Lügen der Kernenergie (2/6): Kernenergie ergänzt sich gut mit erneuerbaren Energien
 
 Quelle: [Lügen der Kernenergie — Folge 2/6](https://www.youtube.com/watch?v=X33O_YLMhCs) (#RestartThinking)
-Transkript: `Gedankenwelten/Transkripte/Buchinger_Kernenergie_F2_Erneuerbare_Transkript.txt`
 Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 > [!info] Wer spricht?

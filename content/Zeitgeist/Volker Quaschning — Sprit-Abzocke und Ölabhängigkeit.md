@@ -20,7 +20,6 @@ aliases:
 # Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit
 
 Quelle: [Sprit-Abzocke⛽📈 – Warum Sprit erst mal teuer bleibt und was uns jetzt wirklich hilft](https://www.youtube.com/watch?v=_6KsORHax98) (März 2026)
-Transkript: `Gedankenwelten/Transkripte/Quaschning_Sprit_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Prof. Dr.-Ing. Volker Quaschning** — Professor für Regenerative Energiesysteme an der HTW Berlin (seit 2004), Autor des Standardwerks *Regenerative Energiesysteme*, Mitgründer von **Scientists for Future** (2019). Betreibt gemeinsam mit Cornelia Quaschning den Podcast *„Das ist eine gute Frage"*. Träger des Deutschen Solarpreises (2020). Positioniert sich bewusst als aktivistischer Wissenschaftler: Klimaschutz ist für ihn kein neutrales Thema, sondern moralische Verpflichtung. Klar gegen Kernkraft-Propaganda und fossile Übergangstechnologien.

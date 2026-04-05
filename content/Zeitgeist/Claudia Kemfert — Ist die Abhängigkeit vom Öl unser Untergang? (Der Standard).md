@@ -21,7 +21,6 @@ aliases:
 # Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)
 
 Quelle: [Ist die Abhängigkeit vom Öl unser Untergang? | Claudia Kemfert](https://www.youtube.com/watch?v=aeSqJvlhE8s)
-Transkript: `Gedankenwelten/Transkripte/Kemfert_Oel_Abhaengigkeit_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Claudia Kemfert** — Geb. 1968 in Delmenhorst. Energieökonomin und eine der bekanntesten deutschen Klimaexpertinnen. Leiterin der Abteilung Energie, Verkehr, Umwelt am **DIW Berlin** (seit 2004); Professorin für Energiewirtschaft an der **Leuphana Universität Lüneburg**; Co-Vorsitzende des **Deutschen Rats für Umweltfragen** (seit 2016). Seit 20+ Jahren konsequente Verfechterin der Energiewende — damals oft belächelt, heute bestätigt. Prägte den Begriff der **„Fossilokratie"** — das fossil-industrielle Machtnetzwerk, das immer wieder Rückfälle in fossile Muster produziert. Bücher: *Kampf um Strom* (2013), *Das fossile Imperium schlägt zurück* (2017), *Schockwellen* (2023), und neu: ***Kurzschluss — Wie wir unsere Energiezukunft verspielen*** (Campus Verlag, 2026). Auszeichnungen: DFG Spitzenforscherin (2006), Deutscher Solarpreis (2016), Umweltmedienpreis (2022), Adam-Smith-Preis. Regelmäßig in ARD, ZDF, Spiegel, taz. Das Interview führt Daniel Richetsecker im Podcast *Thema des Tages* des österreichischen *Der Standard*.

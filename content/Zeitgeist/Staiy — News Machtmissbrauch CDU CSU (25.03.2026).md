@@ -20,7 +20,6 @@ aliases:
 # Staiy — News: Krasser Machtmissbrauch von CDU/CSU (25.03.2026)
 
 Quelle: [🗞️ NEWS: Krasser Machtmissbrauch von der CDU/CSU…](https://www.youtube.com/watch?v=cd8rCzl3Uvs) — YouTube, 25.03.2026
-Transkript: `Gedankenwelten/Transkripte/Staiy_News_Machtmissbrauch_Transkript.txt`
 
 > [!info] Wer spricht?
 > **STAIY** (bürgerl. **Marcel Krustin**, geb. 27. Juli 1987 in Magdeburg) — einer der größten deutschsprachigen Twitch-Streamer, seit 2013 aktiv. Wohnhaft in der Schweiz. Kommentiert Politik, Gesellschaft und aktuelle Nachrichten aus einer klar linksprogessiven Perspektive — direkt, unverblümt, ohne diplomatisches Weichspülen. Betreibt neben dem Hauptkanal auch „Auch Staiy" und einen Podcast (*Almanara Bica*). Bekannt für die Charity-Reihe *Im März gegen Merz*.

@@ -19,7 +19,6 @@ aliases:
 # Erich Fromm — Haben oder Sein
 
 Quelle: [Gespräch zu „Haben oder Sein" (Interview, 1977)](https://www.youtube.com/watch?v=L_2mn39AU0c)
-Transkript: `Gedankenwelten/Transkripte/Fromm_Haben_oder_Sein_Transkript.txt`
 
 Psychoanalytiker, Sozialphilosoph, Humanist. Fromm verbindet Freud, Marx und die prophetische jüdische Tradition zu einer radikalen Kritik der modernen Industriegesellschaft — und fragt: Wozu leben wir eigentlich?
 

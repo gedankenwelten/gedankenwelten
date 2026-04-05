@@ -15,7 +15,6 @@ aliases:
 # Jonathan Haidt — Kann ein gespaltenes Amerika heilen?
 
 Quelle: TED Talk mit Chris Anderson, aufgezeichnet 2016
-Transkript: `Gedankenwelten/Transkripte/Haidt_Divided_America_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Jonathan Haidt** — Sozialpsychologe an der New York University (Stern School of Business); Autor von *The Righteous Mind: Why Good People Are Divided by Politics and Religion* (2012). Einer der bedeutendsten Denker zur Moralpsychologie und politischen Polarisierung. Positioniert sich als jemand, der beide Seiten verstehen will — weder links noch rechts.

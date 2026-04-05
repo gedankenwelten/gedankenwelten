@@ -18,8 +18,7 @@ aliases:
 # Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien
 
 Datum: 31.01.2026
-Video: [Epstein-Akten: Was das DOJ veröffentlicht hat](https://www.youtube.com/watch?v=Meq7PnMy80o)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_Epstein_Dokumente_Transkript.txt`
+Quelle: [Epstein-Akten: Was das DOJ veröffentlicht hat](https://www.youtube.com/watch?v=Meq7PnMy80o)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Koshi ist in diesem Video erkennbar vorsichtig mit Aussagen über unverifizierten Inhalt — verweist auf Links statt selbst zu zitieren. **Meinungen von Fakten trennen** bleibt zentral.

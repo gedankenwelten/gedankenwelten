@@ -16,7 +16,6 @@ aliases:
 # Andreas Zimpel — Neurodiversität
 
 Quelle: Vortrag von Andreas Zimpel (Neurodiversitätsforscher, Hamburg)
-Transkript: `Gedankenwelten/Transkripte/Neurodiversitaet_Transkript.txt`
 
 Zimpel ist selbst Synästhet und Nachkomme einer Orgelbauerfamilie. Er forscht am Zentrum für Neurodiversitätsforschung in Hamburg und verbindet Neurowissenschaften, Pädagogik und Gesellschaftskritik zu einem radikalen Plädoyer für die Anerkennung der Einzigartigkeit jedes menschlichen Gehirns.
 

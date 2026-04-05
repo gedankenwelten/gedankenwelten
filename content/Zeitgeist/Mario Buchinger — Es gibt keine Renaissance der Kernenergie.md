@@ -20,7 +20,6 @@ aliases:
 # Mario Buchinger — Es gibt keine Renaissance der Kernenergie
 
 Quelle: [Es gibt keine Renaissance der Kernenergie — Ursula von der Leyen und die pinken Einhörner](https://www.youtube.com/watch?v=g7i05d9_xGc) (#RestartThinking, März 2026)
-Transkript: `Gedankenwelten/Transkripte/Klimapolitik_Kernenergie_Renaissance_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Mario Buchinger** — Physiker, Transformationsexperte, Autor. Österreicher, betreibt den YouTube-Kanal *#RestartThinking*. Format: *GesternKleber Fails* — kritische Auseinandersetzung mit Desinformation und wissenschaftlichem Populismus. Hat 2024/25 eine sechsteilige Serie zu den Mythen der Kernenergie produziert.

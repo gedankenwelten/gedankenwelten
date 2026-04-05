@@ -20,7 +20,6 @@ aliases:
 # Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst
 
 Quelle: Podcast-Interview [Narzissmus-Experte: Warum Narzissten innerlich so leer sind — Jakobsweg Podcast](https://www.youtube.com/watch?v=gw-ZOrlqt_g)
-Transkript: `Gedankenwelten/Transkripte/Hagemeyer_Narzissmus_Transkript.txt`
 
 > [!info] Zur Person
 > Dr. Pablo Hagemeyer ist Facharzt für Psychiatrie und Psychotherapie mit Spezialisierung auf Narzissmus. Er ist selbst offen mit seinen eigenen narzisstischen Zügen — und positioniert sich bewusst als „netter Narzisst", um das Thema aus der Pathologie ins Allgemeinverständnis zu bringen. Er bezeichnet sich als biologischen Psychiater mit psychotherapeutischer Erweiterung: empirisch-wissenschaftlich denkend, aber mit dem Werkzeugkasten der Psychotherapie.

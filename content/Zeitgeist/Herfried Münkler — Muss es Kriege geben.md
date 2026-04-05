@@ -23,7 +23,6 @@ aliases:
 # Herfried Münkler — Muss es Kriege geben?
 
 Quelle: [Muss es Kriege geben, Herfried Münkler?](https://www.youtube.com/watch?v=8mUq5dH47Y0) — Podcast "Nur eine Frage" (DIE ZEIT)
-Transkript: `Gedankenwelten/Transkripte/Muenkler_Kriege_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Herfried Münkler** — Politikwissenschaftler, emeritierter Professor der Humboldt-Universität Berlin. Der einflussreichste lebende deutsche Politologe (laut DIE ZEIT). Autor von über 30 Büchern, darunter Standardwerke über Machiavelli, Imperien, den Dreißigjährigen Krieg, hybride Kriege und die neue Weltordnung. Hat Bundeskanzler beraten. War lange Zeit eine Gegenstimme zur Naivität der Friedensdividende-Epoche.

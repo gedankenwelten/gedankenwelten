@@ -20,7 +20,6 @@ aliases:
 # taz Reingehen — Wer das Öl hat, hat das Sagen
 
 Quelle: [Wer das Öl hat, hat das Sagen — Podcast Reingehen](https://www.youtube.com/watch?v=m2ktiuohK_s)
-Transkript: `Gedankenwelten/Transkripte/taz_Reingehen_Oel_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Ulrike Herrmann** (*1964, Hamburg*) — Wirtschaftskorrespondentin bei der taz (seit 2000). Ausbildung zur Bankkauffrau, Henri-Nannen-Journalistenschule, Studium Geschichte und Philosophie an der FU Berlin. Kernthese: Wachstum und Klimaschutz sind unvereinbar — sie plädiert für ein „grünes Schrumpfen". Bücher: *Deutschland, ein Wirtschaftsmärchen* (2019), *Das Ende des Kapitalismus* (2022), *Geld als Waffe* (2026). Auszeichnungen: Keynes-Gesellschaft Preis (2015), Otto-Brenner-Preis Spezial (2019). Regelmäßig in Talkshows — erklärt komplexe Zusammenhänge ungewöhnlich direkt.

@@ -18,7 +18,6 @@ aliases:
 # Nicholas Potter — Die neue autoritäre Linke (taz Talk)
 
 Quelle: [Die neue autoritäre Linke – Buchpremiere mit Nicholas Potter im taz Talk](https://www.youtube.com/live/SvWnC0wfpHQ)
-Transkript: `Gedankenwelten/Transkripte/Potter_AuthoritaereLinke_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Nicholas Potter** — 1990 in Großbritannien geboren, Journalist und Redakteur bei der *taz* (Ressort Gesellschaft & Medien). Studium Englische und Deutsche Literatur am King's College London und der Humboldt-Universität Berlin. Langjährige Arbeit zu Rechtsextremismus und Antisemitismus, u.a. für *Tagesspiegel*, *Guardian* und *Jüdische Allgemeine*. Mitarbeit bei der Amadeu Antonio Stiftung. 2024 für den Theodor-Wolff-Preis nominiert (Recherche zu Antisemitismus bei Fridays for Future); erhielt stattdessen den Elnet-Preis. Herausgeber (mit Stefan Lauer) von *Judenhass: Antisemitismus in emanzipatorischen Subkulturen und Bewegungen* (2023).

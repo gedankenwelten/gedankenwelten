@@ -20,7 +20,6 @@ aliases:
 # MONITOR — Irankrieg und das Ende des Völkerrechts?
 
 Quelle: MONITOR studioM — WDR/ARD, aufgezeichnet 10.03.2026
-Transkript: `Gedankenwelten/Transkripte/Monitor_Irankrieg_Voelkerrecht_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Georg Restle** — Leiter MONITOR (WDR/ARD), moderiert. Kritisch-links, klar pro-Völkerrecht.

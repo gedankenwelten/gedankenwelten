@@ -16,7 +16,6 @@ aliases:
 # Hartmut Rosa — Resonanz und Unverfügbarkeit
 
 Quelle: Vortrag und Diskussion, Europa-Universität Flensburg (YouTube)
-Transkript: `Gedankenwelten/Transkripte/Rosa_Resonanz_Unverfuegbarkeit_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Hartmut Rosa** (*1965, Lörrach, Schwarzwald*) — Soziologe, der nicht fragt: Wie wird Gesellschaft gerechter? Sondern: Wie wird Leben *lebendig*?

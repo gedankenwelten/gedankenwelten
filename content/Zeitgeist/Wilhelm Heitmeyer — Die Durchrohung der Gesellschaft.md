@@ -19,7 +19,6 @@ aliases:
 # Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft
 
 Quelle: Stiftung Demokratie Saarland, Kooperationsveranstaltung mit Gegenvergessen für Demokratie e.V., 16. März 2026
-Transkript: `Gedankenwelten/Transkripte/Heitmeyer_Verrohung_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Wilhelm Heitmeyer** — Seniorprofessor an der Universität Bielefeld; bis 2013 Gründungsdirektor des Instituts für interdisziplinäre Konflikt- und Gewaltforschung (IKG). Größte Langzeitstudie zur gruppenbezogenen Menschenfeindlichkeit in Deutschland: *Deutsche Zustände* (10 Bände, Suhrkamp). Forschungsschwerpunkte: Gewalt, Rechtsextremismus, soziale Desintegration. Bundesverdienstkreuz erster Klasse. Bekannt für strukturelle, nicht attitüdinale Analyse gesellschaftlicher Verrohung.

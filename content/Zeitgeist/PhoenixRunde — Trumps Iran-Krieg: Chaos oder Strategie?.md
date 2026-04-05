@@ -18,7 +18,6 @@ aliases:
 # PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?
 
 Quelle: [phoenixRunde — Trumps Iran-Krieg - Chaos oder Strategie? (25. März 2026)](https://www.youtube.com/watch?v=qWZxskne9J8)
-Transkript: `Gedankenwelten/Transkripte/PhoenixRunde_Iran_Krieg_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Moderation: Lena Mosel** (phoenix)

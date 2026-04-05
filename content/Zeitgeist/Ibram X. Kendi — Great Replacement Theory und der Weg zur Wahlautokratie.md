@@ -19,7 +19,6 @@ aliases:
 # Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie
 
 Quelle: ['This Is the Same Idea Hitler Pushed' — Ibram X. Kendi on MAGA Politics](https://www.youtube.com/watch?v=7gdxmcg3JCg) — Zeteo / Mehdi Unfiltered, März 2026
-Transkript: `Gedankenwelten/Transkripte/Kendi_GreatReplacement_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Ibram X. Kendi** — amerikanischer Historiker, Antirassismus-Forscher und Autor, im Gespräch mit **Mehdi Hasan** (Zeteo)

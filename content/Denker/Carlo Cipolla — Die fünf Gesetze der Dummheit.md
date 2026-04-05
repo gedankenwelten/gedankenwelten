@@ -23,7 +23,6 @@ aliases:
 
 Quelle: *The Basic Laws of Human Stupidity* (Essay, 1976, dt. veröffentlicht in: *Allegro ma non troppo*, Il Mulino 1988)
 Erklärvideo: [Die 5 Gesetze der Dummheit — Wahre Worte](https://www.youtube.com/watch?v=5VNHIxbAz6Q)
-Transkript: `Gedankenwelten/Transkripte/Cipolla_Fuenf_Gesetze_der_Dummheit_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Carlo Maria Cipolla** (*15. August 1922, Pavia — 5. September 2000, Pavia*) — Wirtschaftshistoriker von internationalem Rang, dessen ernsthaftestes Werk über Dummheit als privater Witz begann.

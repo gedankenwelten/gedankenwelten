@@ -20,8 +20,7 @@ aliases:
 # Koshi Politik — ICE Whistleblower packt aus
 
 Datum: 25.02.2026
-Video: [Das kann Sie doch UNMÖGLICH überstehen oder? ICE Whistleblower packt aus!](https://www.youtube.com/watch?v=IuXL4daZAOo)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Whistleblower_Transkript.txt`
+Quelle: [Das kann Sie doch UNMÖGLICH überstehen oder? ICE Whistleblower packt aus!](https://www.youtube.com/watch?v=IuXL4daZAOo)
 
 ---
 

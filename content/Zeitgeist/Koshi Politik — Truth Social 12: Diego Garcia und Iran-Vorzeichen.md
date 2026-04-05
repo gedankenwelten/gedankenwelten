@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen
 
 Datum: 19.02.2026
-Video: [Truth Social Folge 12: Diego Garcia und das Zeichen für den Iran-Krieg](https://www.youtube.com/watch?v=-Z7t_s04vWo)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_TS12_Iran_Transkript.txt`
+Quelle: [Truth Social Folge 12: Diego Garcia und das Zeichen für den Iran-Krieg](https://www.youtube.com/watch?v=-Z7t_s04vWo)
 
 > [!info] Wer ist Koshi Politik?
 > Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Dieses Video wurde vor dem Iran-Krieg produziert — Koshi erkannte früh die Vorzeichen.

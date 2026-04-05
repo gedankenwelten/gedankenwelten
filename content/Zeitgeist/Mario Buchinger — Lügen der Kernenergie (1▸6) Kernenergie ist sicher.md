@@ -16,7 +16,6 @@ aliases:
 # Mario Buchinger — Lügen der Kernenergie (1/6): Kernenergie ist sicher
 
 Quelle: [Lügen der Kernenergie — Folge 1/6: Kernenergie ist sicher](https://www.youtube.com/watch?v=iId8UaXcQ88) (#RestartThinking)
-Transkript: `Gedankenwelten/Transkripte/Buchinger_Kernenergie_F1_Sicherheit_Transkript.txt`
 Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 > [!info] Wer spricht?

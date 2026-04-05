@@ -18,7 +18,6 @@ aliases:
 # Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus
 
 Quelle: [Jung & Naiv: Folge 818](https://www.youtube.com/watch?v=DY_LgqIh40k)
-Transkript: `Gedankenwelten/Transkripte/Mühlhoff_KI_Faschismus_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Rainer Mühlhoff** — Philosoph und Mathematiker, Professor für Ethik der Künstlichen Intelligenz an der Universität Osnabrück.

@@ -20,8 +20,7 @@ aliases:
 # Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump
 
 Datum: 14.03.2026
-Video: [Die drei Musketiere des Iran-Krieges](https://www.youtube.com/watch?v=fHcBSoruMow)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_Iran_Kriegstreiber_Transkript.txt`
+Quelle: [Die drei Musketiere des Iran-Krieges](https://www.youtube.com/watch?v=fHcBSoruMow)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.

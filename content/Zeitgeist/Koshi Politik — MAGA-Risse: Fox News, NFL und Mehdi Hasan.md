@@ -19,8 +19,7 @@ aliases:
 # Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan
 
 Datum: 12.03.2026
-Video: [The wheels are coming off — Fox News stellt Trump in Frage](https://www.youtube.com/watch?v=BaSQeevMZGc)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_MAGA_Risse_Transkript.txt`
+Quelle: [The wheels are coming off — Fox News stellt Trump in Frage](https://www.youtube.com/watch?v=BaSQeevMZGc)
 
 > [!info] Wer ist Koshi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Eigene Einschätzung: links-liberal, faktenbasiert. **Meinungen von Fakten trennen** bleibt wichtig.

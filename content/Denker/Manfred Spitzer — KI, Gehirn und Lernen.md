@@ -19,7 +19,6 @@ aliases:
 # Manfred Spitzer — KI, Gehirn und Lernen
 
 Quelle: Interview mit Prof. Dr. Manfred Spitzer (psychiatrische Uniklinik Ulm)
-Transkript: `Gedankenwelten/Transkripte/Spitzer_KI_Gehirn_Lernen_Transkript.txt`
 
 Psychiater, Neurowissenschaftler, Autor. Spitzer ist Direktor der psychiatrischen Universitätsklinik Ulm und Gründer des dortigen Transferzentrums für Neurowissenschaft und Lernen — das erste weltweit, noch vor Harvard und Oxford. Er ist Autor von *Digitale Demenz* (2012, Bestseller) und *Künstliche Intelligenz — den Menschen überlegen* (2024). Bekannt für konsequente Popularisierung von Hirnforschung — und für Anecken.
 

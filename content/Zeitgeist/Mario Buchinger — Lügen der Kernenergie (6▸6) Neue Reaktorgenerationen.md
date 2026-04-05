@@ -20,7 +20,6 @@ aliases:
 # Mario Buchinger — Lügen der Kernenergie (6/6): Neue Generationen von Reaktoren lösen alle Probleme
 
 Quelle: [Lügen der Kernenergie — Folge 6/6](https://www.youtube.com/watch?v=bY5bK82_vzU) (#RestartThinking)
-Transkript: `Gedankenwelten/Transkripte/Buchinger_Kernenergie_F6_Neue_Reaktoren_Transkript.txt`
 Serie: [[Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 > [!info] Wer spricht?

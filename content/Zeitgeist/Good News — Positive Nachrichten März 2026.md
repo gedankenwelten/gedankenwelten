@@ -17,7 +17,6 @@ aliases:
 # Good News — Positive Nachrichten März 2026
 
 Quelle: [Your Monthly Dose of Good News | March](https://www.youtube.com/watch?v=tVEw04BWgxU)
-Transkript: `Gedankenwelten/Transkripte/GoodNews_Maerz2026_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Freddy Leppin** — Moderator und Gründer des YouTube-Kanals *Good News*. Leppin produziert gemeinsam mit seinem Partner Luis monatliche Zusammenfassungen der besten positiven Neuigkeiten aus aller Welt — aus Naturschutz, Wissenschaft, Gesundheit und globaler Politik. Neben *Good News* betreibt er den Ingenieurkanal *MegaBuilds* (über 1,5 Mio. Abonnenten). Sein Ziel: dem medialen Negativitätsbias mit verifizierten Erfolgsmeldungen entgegenwirken.

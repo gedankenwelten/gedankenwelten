@@ -18,8 +18,7 @@ aliases:
 # Koshi Politik — Truth Social 10: Super Bowl und Bad Bunny
 
 Datum: 09.02.2026
-Video: [Truth Social Folge 10: Trump über die Super Bowl Halftime Show](https://www.youtube.com/watch?v=YsQ31mFgM_g)
-Transkript: `Gedankenwelten/Transkripte/KoshiPolitik_TS10_SuperBowl_Transkript.txt`
+Quelle: [Truth Social Folge 10: Trump über die Super Bowl Halftime Show](https://www.youtube.com/watch?v=YsQ31mFgM_g)
 
 > [!info] Wer ist Koshi Politik?
 > Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Format: Originalpost im Bild, deutsche Übersetzung vorgelesen. Koshi wohnt in Buffalo, NY.

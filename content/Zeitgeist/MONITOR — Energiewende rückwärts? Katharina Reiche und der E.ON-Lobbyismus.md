@@ -20,7 +20,6 @@ aliases:
 # MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus
 
 Quelle: [Wirtschaftsministerin Reiche: Energiewende rückwärts? – MONITOR](https://www.youtube.com/watch?v=ZV0uy_le-Uk)
-Transkript: `Gedankenwelten/Transkripte/Monitor_Energiewende_Reiche_Transkript.txt`
 
 > [!info] Wer spricht?
 > **MONITOR** (WDR/ARD) — investigatives Politmagazin, seit 1965, Grimme-Preis-Träger. Ausrichtung: linksliberal, kritisch gegenüber Lobbyismus und Konzerneinfluss. Autoren dieses Beitrags: **Lutz Polanz** und **Samira El Hattab**.

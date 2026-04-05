@@ -20,7 +20,6 @@ aliases:
 
 Quelle: Podcast „Gilda con Arne", Folge 23
 Aufnahme: Dienstag, 4. März 2026 (4. Kriegstag)
-Transkript: `Gedankenwelten/Transkripte/GCA23_AfD_Gericht_Iran_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Gilda Sahebi** — deutsch-iranische Journalistin und Autorin; Spezialistin für Iran und Nahostpolitik

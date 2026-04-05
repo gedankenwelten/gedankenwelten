@@ -22,7 +22,6 @@ aliases:
 # Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)
 
 Quelle: [taz lab 2025: Kein Herz für Kinder — die Diskriminierung der GenZ mit Aladin El-Mafaalani](https://www.youtube.com/watch?v=Iip-CLJ-DR8)
-Transkript: `Gedankenwelten/Transkripte/ElMafaalani_Panel_tazLab2025_Transkript.txt`
 Gesprächspartnerin: Paulina Unfried (Politikwissenschaftlerin und Autorin, taz)
 
 > [!info] Wer spricht?
