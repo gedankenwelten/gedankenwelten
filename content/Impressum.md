@@ -12,7 +12,7 @@ Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 c/o IP-Management #10397, Ludwig-Erhard-Str. 18
 20459 Hamburg
 
-**E-Mail:** luc [at] gedankenwelten.net
+**E-Mail:** [luc@gedankenwelten.net](mailto:luc@gedankenwelten.net)
 
 ---
 
