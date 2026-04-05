@@ -1,4 +1,5 @@
 ---
+date: 2026-03-31
 title: "Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit"
 tags:
   - zeitgeist

@@ -1,4 +1,5 @@
 ---
+date: 2026-03-23
 title: "Mario Buchinger — Lügen der Kernenergie (1/6): Kernenergie ist sicher"
 tags:
   - zeitgeist

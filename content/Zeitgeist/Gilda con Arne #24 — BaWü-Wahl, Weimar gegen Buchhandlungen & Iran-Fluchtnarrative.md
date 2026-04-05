@@ -1,4 +1,5 @@
 ---
+date: 2026-03-25
 title: "Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative"
 tags:
   - zeitgeist

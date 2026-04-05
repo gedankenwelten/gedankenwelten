@@ -1,4 +1,5 @@
 ---
+date: 2026-03-29
 title: "Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)"
 tags:
   - zeitgeist

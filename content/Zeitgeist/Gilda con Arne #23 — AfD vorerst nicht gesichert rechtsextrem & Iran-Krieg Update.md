@@ -1,4 +1,5 @@
 ---
+date: 2026-03-27
 title: "Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update"
 tags:
   - zeitgeist

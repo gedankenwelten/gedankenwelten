@@ -1,4 +1,5 @@
 ---
+date: 2026-03-27
 title: "Eva von Redecker — Dieser Drang nach Härte"
 tags:
   - zeitgeist

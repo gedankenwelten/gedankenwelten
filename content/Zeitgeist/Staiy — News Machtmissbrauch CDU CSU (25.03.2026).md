@@ -1,4 +1,5 @@
 ---
+date: 2026-03-25
 title: "Staiy — News: Krasser Machtmissbrauch von CDU/CSU (25.03.2026)"
 tags:
   - zeitgeist

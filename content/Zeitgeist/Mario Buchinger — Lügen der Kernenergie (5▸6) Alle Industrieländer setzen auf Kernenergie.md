@@ -1,4 +1,5 @@
 ---
+date: 2026-03-23
 title: "Mario Buchinger — Lügen der Kernenergie (5/6): Alle Industrieländer setzen auf Kernenergie"
 tags:
   - zeitgeist

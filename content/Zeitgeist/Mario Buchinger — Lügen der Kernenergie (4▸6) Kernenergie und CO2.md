@@ -1,4 +1,5 @@
 ---
+date: 2026-03-23
 title: "Mario Buchinger — Lügen der Kernenergie (4/6): Kernenergie ist CO₂-arm"
 tags:
   - zeitgeist

@@ -1,4 +1,5 @@
 ---
+date: 2026-03-25
 title: "Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer"
 tags:
   - zeitgeist

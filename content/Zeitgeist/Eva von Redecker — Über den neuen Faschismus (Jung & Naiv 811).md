@@ -1,4 +1,5 @@
 ---
+date: 2026-04-02
 title: "Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)"
 tags:
   - zeitgeist

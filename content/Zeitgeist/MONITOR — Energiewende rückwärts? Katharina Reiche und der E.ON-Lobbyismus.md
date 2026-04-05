@@ -1,4 +1,5 @@
 ---
+date: 2026-03-31
 title: "MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus"
 tags:
   - zeitgeist

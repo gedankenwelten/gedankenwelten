@@ -1,4 +1,5 @@
 ---
+date: 2026-04-02
 title: "Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland"
 tags:
   - zeitgeist

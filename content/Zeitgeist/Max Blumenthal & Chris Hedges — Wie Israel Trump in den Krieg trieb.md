@@ -1,4 +1,5 @@
 ---
+date: 2026-03-27
 title: "Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb"
 tags:
   - zeitgeist

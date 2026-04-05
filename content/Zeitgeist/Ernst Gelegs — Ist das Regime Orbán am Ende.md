@@ -1,4 +1,5 @@
 ---
+date: 2026-04-02
 title: "Ernst Gelegs — Ist das Regime Orbán am Ende?"
 tags:
   - zeitgeist

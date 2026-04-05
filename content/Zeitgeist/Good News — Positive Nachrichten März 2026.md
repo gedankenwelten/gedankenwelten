@@ -1,4 +1,5 @@
 ---
+date: 2026-03-31
 title: "Good News — Positive Nachrichten März 2026"
 tags:
   - zeitgeist

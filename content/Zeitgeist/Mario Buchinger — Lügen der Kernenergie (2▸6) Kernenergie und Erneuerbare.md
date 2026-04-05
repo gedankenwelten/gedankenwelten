@@ -1,4 +1,5 @@
 ---
+date: 2026-03-31
 title: "Mario Buchinger — Lügen der Kernenergie (2/6): Kernenergie und Erneuerbare"
 tags:
   - zeitgeist

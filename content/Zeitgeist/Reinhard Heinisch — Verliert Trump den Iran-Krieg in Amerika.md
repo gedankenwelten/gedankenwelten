@@ -1,4 +1,5 @@
 ---
+date: 2026-04-01
 title: Verliert Trump den Iran-Krieg in Amerika?
 tags:
   - zeitgeist

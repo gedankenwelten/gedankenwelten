@@ -1,4 +1,5 @@
 ---
+date: 2026-04-02
 title: "Ece Temelkuran — So beginnt Faschismus in Amerika"
 tags:
   - zeitgeist

@@ -1,4 +1,5 @@
 ---
+date: 2026-04-02
 title: "Philip Manow — Autoritäre Zeiten: Die Macht der Wähler"
 tags:
   - zeitgeist

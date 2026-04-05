@@ -1,4 +1,5 @@
 ---
+date: 2026-04-01
 title: MONITOR — Irankrieg und das Ende des Völkerrechts?
 tags:
   - zeitgeist

@@ -1,4 +1,5 @@
 ---
+date: 2026-03-27
 title: "Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)"
 tags:
   - zeitgeist
