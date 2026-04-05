@@ -144,7 +144,9 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
           // actually uses it. we only keep it in the index as we need it
           // for the RSS feed
           delete content.description
-          delete content.date
+          if (content.date) {
+            ;(content as any).date = (content.date as Date).getTime()
+          }
           return [slug, content]
         }),
       )
