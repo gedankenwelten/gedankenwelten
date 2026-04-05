@@ -6,10 +6,18 @@ tags: []
 
 # Impressum
 
-Angaben gemäß § 5 TMG und § 18 Abs. 2 MStV:
+Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 
 **Andreas Schmieder**
 Hebelstr. 1
 79104 Freiburg im Breisgau
 
 **E-Mail:** luc@gedankenwelten.net
+
+---
+
+Verantwortlicher für den Inhalt nach § 18 Abs. 2 MStV:
+
+**Andreas Schmieder**
+Hebelstr. 1
+79104 Freiburg im Breisgau
