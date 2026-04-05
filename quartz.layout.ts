@@ -41,8 +41,8 @@ export const defaultContentPageLayout: PageLayout = {
       sortFn: (a, b) => {
         if (a.isFolder && !b.isFolder) return -1
         if (!a.isFolder && b.isFolder) return 1
-        const aDate = a.data?.dates?.modified?.getTime() ?? 0
-        const bDate = b.data?.dates?.modified?.getTime() ?? 0
+        const aDate = a.data?.date ? new Date(a.data.date).getTime() : 0
+        const bDate = b.data?.date ? new Date(b.data.date).getTime() : 0
         if (aDate !== bDate) return bDate - aDate
         return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
       },
@@ -82,8 +82,8 @@ export const defaultListPageLayout: PageLayout = {
       sortFn: (a, b) => {
         if (a.isFolder && !b.isFolder) return -1
         if (!a.isFolder && b.isFolder) return 1
-        const aDate = a.data?.dates?.modified?.getTime() ?? 0
-        const bDate = b.data?.dates?.modified?.getTime() ?? 0
+        const aDate = a.data?.date ? new Date(a.data.date).getTime() : 0
+        const bDate = b.data?.date ? new Date(b.data.date).getTime() : 0
         if (aDate !== bDate) return bDate - aDate
         return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
       },
