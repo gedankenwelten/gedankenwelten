@@ -8,8 +8,8 @@ tags: []
 
 Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 
-**Andreas Schmieder**
-c/o IP-Management #10397, Ludwig-Erhard-Str. 18
+**Andreas Schmieder**<br>
+c/o IP-Management #10397, Ludwig-Erhard-Str. 18<br>
 20459 Hamburg
 
 **E-Mail:** [luc@gedankenwelten.net](mailto:luc@gedankenwelten.net)
@@ -18,6 +18,6 @@ c/o IP-Management #10397, Ludwig-Erhard-Str. 18
 
 Verantwortlicher für den Inhalt nach § 18 Abs. 2 MStV:
 
-**Andreas Schmieder**
-c/o IP-Management #10397, Ludwig-Erhard-Str. 18
+**Andreas Schmieder**<br>
+c/o IP-Management #10397, Ludwig-Erhard-Str. 18<br>
 20459 Hamburg
