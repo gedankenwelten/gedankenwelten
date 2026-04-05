@@ -1,4 +1,5 @@
 ---
+date: 2026-03-23
 title: "Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien"
 tags:
   - zeitgeist

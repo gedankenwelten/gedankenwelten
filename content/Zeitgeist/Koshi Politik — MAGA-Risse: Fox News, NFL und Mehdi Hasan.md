@@ -1,4 +1,5 @@
 ---
+date: 2026-03-23
 title: "Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan"
 tags:
   - zeitgeist

@@ -1,4 +1,5 @@
 ---
+date: 2026-03-23
 title: "Koshi Politik — Wer profitiert vom Iran-Krieg?"
 tags:
   - zeitgeist

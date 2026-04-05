@@ -1,4 +1,5 @@
 ---
+date: 2026-03-23
 title: "Koshi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen"
 tags:
   - zeitgeist

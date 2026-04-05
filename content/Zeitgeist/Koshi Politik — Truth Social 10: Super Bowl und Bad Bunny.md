@@ -1,4 +1,5 @@
 ---
+date: 2026-03-23
 title: "Koshi Politik — Truth Social 10: Super Bowl und Bad Bunny"
 tags:
   - zeitgeist

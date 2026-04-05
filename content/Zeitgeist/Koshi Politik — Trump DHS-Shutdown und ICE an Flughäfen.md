@@ -1,4 +1,5 @@
 ---
+date: 2026-03-23
 title: "Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen"
 tags:
   - zeitgeist
