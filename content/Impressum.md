@@ -12,7 +12,7 @@ Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 Hebelstr. 1
 79104 Freiburg im Breisgau
 
-**E-Mail:** luc [at] gedankenwelten.net
+**E-Mail:** [luc@gedankenwelten.net](mailto:luc@gedankenwelten.net)
 
 ---
 
