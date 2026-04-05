@@ -6,10 +6,18 @@ tags: []
 
 # Impressum
 
-Angaben gemäß § 5 TMG und § 18 Abs. 2 MStV:
+Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 
 **Andreas Schmieder**
 c/o IP-Management #10397, Ludwig-Erhard-Str. 18
 20459 Hamburg
 
 **E-Mail:** luc@gedankenwelten.net
+
+---
+
+Verantwortlicher für den Inhalt nach § 18 Abs. 2 MStV:
+
+**Andreas Schmieder**
+c/o IP-Management #10397, Ludwig-Erhard-Str. 18
+20459 Hamburg
