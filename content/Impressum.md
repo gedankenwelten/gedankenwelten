@@ -8,8 +8,8 @@ tags: []
 
 Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 
-**Andreas Schmieder**
-Hebelstr. 1
+**Andreas Schmieder**<br>
+Hebelstr. 1<br>
 79104 Freiburg im Breisgau
 
 **E-Mail:** [luc@gedankenwelten.net](mailto:luc@gedankenwelten.net)
@@ -18,6 +18,6 @@ Hebelstr. 1
 
 Verantwortlicher für den Inhalt nach § 18 Abs. 2 MStV:
 
-**Andreas Schmieder**
-Hebelstr. 1
+**Andreas Schmieder**<br>
+Hebelstr. 1<br>
 79104 Freiburg im Breisgau
