@@ -14,6 +14,8 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "umami",
+      host: "https://analytics.gedankenwelten.org",
+      websiteId: "a4a71367-eeb4-42a6-b570-ef915b848718",
     },
     locale: "de-DE",
     baseUrl: "gedankenwelten.org",
