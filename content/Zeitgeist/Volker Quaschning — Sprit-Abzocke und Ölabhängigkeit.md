@@ -215,3 +215,6 @@ Konkrete Beweise für Quaschnings These: Der Wechsel weg von fossilen Energien i
 
 ### → [[Zeitgeist/taz Reingehen — Wer das Öl hat, hat das Sagen]]
 Ulrike Herrmann zeigt die geopolitische Dimension hinter Quaschnings Preisanalyse: Öl und Gas als Waffe schwacher Staaten — wer Hormus kontrolliert, kontrolliert Weltmarktpreise. Quaschnings Konsumentenebene und Herrmanns Machtpolitik sind zwei Seiten derselben fossilen Abhängigkeit.
+
+### → [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+Felix zeigt den Investorenblick auf Quaschnings Diagnose: Batteriespeicher als konkrete technische Antwort auf fossile Abhängigkeit — 81 Mrd. €/Jahr Importe vs. heimische Wertschöpfung durch Speicher; Quaschning beschreibt das Problem, Felix den Markt der Lösung.

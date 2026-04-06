@@ -174,3 +174,6 @@ Reiche nennt Strompreissenkung als Ziel und verfolgt eine Politik, die Experten 
 ### → [[Zeitgeist/ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]
 Die Gegenerzählung zur politischen Kritik: Was Bundesregierung und Lobbyismus versäumen, wird von Bürgerinnen und Gemeinschaften selbst umgesetzt — Großbardorf, B Energy, Energiegarten Grensfeen
 
+### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+Felix zeigt konkret, welche Technologie-Entscheidungen falsch getroffen werden (Gaskraftwerke statt Speicher) — Schwerdtner benennt das politische Versagen, Felix die technische Alternative, die Reiche ignoriert
+

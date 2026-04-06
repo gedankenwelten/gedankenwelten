@@ -159,3 +159,4 @@ Nebenwirkung: Wo Menschen keine Angst mehr haben müssen, sinkt auch der Jagddru
 - [[Erwin Thoma — Strategien der Natur]] — Der Energiegarten als praktische Umsetzung von Thoma-Prinzipien: Natur als Partner, nicht als Ressource; Synergie statt Monokultur
 - [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Buchinger zeigt, dass die Kernenergie-Debatte eine politische Ablenkung ist; diese Doku zeigt, welche Lösungen stattdessen schon existieren
 - [[Good News — Positive Nachrichten März 2026]] — 2025-Datenpunkt: Wind & Solar überholen erstmals fossile Brennstoffe in der EU (30% vs. 29%) — die empirische Bestätigung, dass die Energiewende ankommt
+- [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] — Felix liefert den Investoren- und Technologieblick auf die ARTE-Doku-Energie: Batteriespeicher als das fehlende Puzzlestück, das die in der Doku gezeigten Communities skalierbar macht
