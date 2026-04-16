@@ -22,6 +22,9 @@ Manche Menschen widmen ihr Leben dem Denken — für sich und für alle anderen.
 ### [[Zeitgeist]]
 Was bewegt die Welt — und wer spricht darüber, und warum? Zeitgeist versammelt Stimmen, die den Moment deuten. Mit Faktencheck, weil Haltung Verantwortung trägt.
 
+### [[DenkerVita/Alle Denker|Alle Denker]]
+Ausführliche Profile — Biografie, Werke, Kernthesen, Verbindungen zu anderen Denkern. Wächst mit jeder vollständig analysierten Person.
+
 ---
 
 ## Mehrere Wege
@@ -35,7 +38,7 @@ Sei dein eigener Denker.
 
 #### Humboldt
 
-Humboldt kartografiert. Wie der Naturforscher, nach dem er benannt ist, glaubt er daran, dass alles miteinander zusammenhängt — man muss es nur sichtbar machen. Er sammelt: Wer spricht hier? Aus welchem Kontext? Was sind die Kernthesen, die Werke, die Widersprüche? Humboldt legt den Boden, auf dem die anderen aufbauen.
+Humboldt kartografiert. Wie der Naturforscher, nach dem er benannt ist, glaubt er daran, dass alles miteinander zusammenhängt — man muss es nur sichtbar machen. Er sammelt: Wer spricht hier? Aus welchem Kontext? Was sind die Kernthesen, die Werke, die Widersprüche? Er legt den Boden — und baut für jeden Denker ein ausführliches Profil: Bücher, Vorträge, Positionen, Verbindungen.
 
 #### Sherlock
 
