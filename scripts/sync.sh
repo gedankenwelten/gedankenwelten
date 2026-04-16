@@ -14,19 +14,15 @@ if [[ "$1" == "--dry-run" ]]; then
 fi
 
 echo "Syncing Denker..."
-rsync -av --delete $DRY \
-  --exclude="*.vtt" \
-  --exclude="*.mp3" \
-  --exclude="index.md" \
-  "$CORTEX/Denker/" "$QUARTZ/Denker/"
+rsync -av --delete $DRY   --exclude="*.vtt"   --exclude="*.mp3"   --exclude="index.md"   "$CORTEX/Denker/" "$QUARTZ/Denker/"
 
 echo ""
 echo "Syncing Zeitgeist..."
-rsync -av --delete $DRY \
-  --exclude="*.vtt" \
-  --exclude="*.mp3" \
-  --exclude="index.md" \
-  "$CORTEX/Zeitgeist/" "$QUARTZ/Zeitgeist/"
+rsync -av --delete $DRY   --exclude="*.vtt"   --exclude="*.mp3"   --exclude="index.md"   "$CORTEX/Zeitgeist/" "$QUARTZ/Zeitgeist/"
+
+echo ""
+echo "Syncing DenkerVita..."
+rsync -av --delete $DRY   --exclude="*.vtt"   --exclude="*.mp3"   "$CORTEX/DenkerVita/" "$QUARTZ/DenkerVita/"
 
 echo ""
 echo "Sync abgeschlossen."
