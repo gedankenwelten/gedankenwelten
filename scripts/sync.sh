@@ -4,7 +4,7 @@
 
 set -e
 
-CORTEX="$HOME/Documents/Cortex/Gedankenwelten"
+CORTEX="$HOME/Cortex/Gedankenwelten"
 QUARTZ="$(cd "$(dirname "$0")/.." && pwd)/content"
 
 DRY=""

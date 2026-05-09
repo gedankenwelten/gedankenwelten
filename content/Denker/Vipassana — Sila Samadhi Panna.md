@@ -89,3 +89,6 @@ Arendts Unterscheidung zwischen Denken und Urteilen — echtes Denken ereignet s
 ### → [[S.N. Goenka — Vipassana]]
 
 Die drei Säulen sind der Rahmen für alle anderen Konzepte: [[Vipassana — Ānāpāna|Ānāpāna]] baut Samādhi, [[Vipassana — Anicca|Anicca]] ist der Kern von Paññā.
+
+- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Adriaans Stufenmodell (Atem → Körper → Gefühle → Geist → Welt) spiegelt den Dreifuß Sila-Samadhi-Panna

@@ -19,6 +19,9 @@ aliases:
 
 Quelle: [Die neue autoritäre Linke – Buchpremiere mit Nicholas Potter im taz Talk](https://www.youtube.com/live/SvWnC0wfpHQ)
 
+> [!tip] Redaktion unterstützen
+> Die *taz* ist spendenfinanziert und genossenschaftlich organisiert — unabhängiger Journalismus ohne Konzerninteressen. Unterstützenswert: [taz.de/genossenschaft](https://taz.de/die-taz-genossenschaft/!t5145360/)
+
 > [!info] Wer spricht?
 > **Nicholas Potter** — 1990 in Großbritannien geboren, Journalist und Redakteur bei der *taz* (Ressort Gesellschaft & Medien). Studium Englische und Deutsche Literatur am King's College London und der Humboldt-Universität Berlin. Langjährige Arbeit zu Rechtsextremismus und Antisemitismus, u.a. für *Tagesspiegel*, *Guardian* und *Jüdische Allgemeine*. Mitarbeit bei der Amadeu Antonio Stiftung. 2024 für den Theodor-Wolff-Preis nominiert (Recherche zu Antisemitismus bei Fridays for Future); erhielt stattdessen den Elnet-Preis. Herausgeber (mit Stefan Lauer) von *Judenhass: Antisemitismus in emanzipatorischen Subkulturen und Bewegungen* (2023).
 >
@@ -198,13 +201,54 @@ Potters Sorgen für die Zukunft: Wie verhält sich dieses Weltbild bei Taiwan/Ch
 
 ## Verbindungen
 
-- [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Beide Notes analysieren gesellschaftliche Verrohung und Gewaltbereitschaft als politisches Phänomen; Potters «neue autoritäre Linke» ist ein konkreter Ausdruck jener enthemmten Gruppengewalt, die Heitmeyer als Symptom des Kontrollverlusts demokratischer Institutionen beschreibt.
-- [[Eva von Redecker — Dieser Drang nach Härte]] — Redeckers These, dass autoritäre Härte als Kompensation für Ohnmachtsgefühle fungiert, erklärt die psychologische Struktur hinter Potters manichäischem antiimperialistischen Weltbild: klare Feindbilder, Gewaltromantik, Ablehnung von Differenzierung.
-- [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Manow und Potter untersuchen parallel, wie demokratische Bewegungen in autoritäre Strukturen kippen — Manow von rechts, Potter von links; zusammen ergeben sie ein vollständiges Bild der autoritären Versuchung quer durchs politische Spektrum.
-- [[Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kempers Analyse von Faschismus als Klassen- und Ideologiephänomen des 21. Jahrhunderts korrespondiert direkt mit Potters Beschreibung von «Klasse gegen Klasse» und «Young Struggle» als ideologisch aufgeladene Kadergruppen.
-- [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]] — Haidts Stammeslogik erklärt, wie postkoloniale Theorie als moralisches Fundierungssystem funktioniert: sie liefert eine klare In-group/Out-group-Struktur, die Potters Beschreibung der Radikalisierungsdynamik psychologisch untermauert.
-- [[Götz Aly — Wie konnte das geschehen]] — Alys Frage nach dem kollektiven Schweigen und Mitläufertum im Nationalsozialismus spiegelt sich in Potters Beobachtung, dass die deutsche Clubszene nach dem 7. Oktober schwieg — beide analysieren institutionelles Versagen angesichts von Antisemitismus.
-- [[Dietrich Bonhoeffer — Theorie der Dummheit]] — Bonhoeffers Einsicht, dass Dummheit weniger ein intellektuelles als ein soziales Phänomen ist (erzeugt durch Gruppenkonformität und Macht), trifft präzise auf Potters Beschreibung zu, wie postkoloniale Narrative in Echokammern zur unreflektierten Übernahme von Feindbildern führen.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfelds Analyse, wie Propaganda demokratische Öffentlichkeiten manipuliert, ergänzt Potters Befund zu Red Media und russischen Propagandanetzwerken, die linke Radikalisierung gezielt befeuern.
-- [[Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]] — Blumenthal (The Grayzone) ist ein Paradebeispiel des Phänomens, das Potter beschreibt: ein «antiimperialistisches» Medium, das in Teilen russische Narrative bedient und bei Antisemitismus-Codierungen (Epstein-Baal-Komplex) die Grenze überschreitet.
-- [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — Ebenfalls ein taz Talk; El-Mafaalani erklärt, warum jede lagerpolitische Reaktion auf Misstrauensgemeinschaften — von rechts wie von links — scheitert. Potter zeigt das Phänomen für die Linke konkret; El-Mafaalani liefert die soziologische Erklärung.
+### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+
+Beide Notes analysieren gesellschaftliche Verrohung und Gewaltbereitschaft als politisches Phänomen; Potters «neue autoritäre Linke» ist ein konkreter Ausdruck jener enthemmten Gruppengewalt, die Heitmeyer als Symptom des Kontrollverlusts demokratischer Institutionen beschreibt.
+
+### → [[Eva von Redecker — Dieser Drang nach Härte]]
+
+Redeckers These, dass autoritäre Härte als Kompensation für Ohnmachtsgefühle fungiert, erklärt die psychologische Struktur hinter Potters manichäischem antiimperialistischen Weltbild: klare Feindbilder, Gewaltromantik, Ablehnung von Differenzierung.
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Manow und Potter untersuchen parallel, wie demokratische Bewegungen in autoritäre Strukturen kippen — Manow von rechts, Potter von links; zusammen ergeben sie ein vollständiges Bild der autoritären Versuchung quer durchs politische Spektrum.
+
+### → [[Andreas Kemper — Faschismen im 21. Jahrhundert]]
+
+Kempers Analyse von Faschismus als Klassen- und Ideologiephänomen des 21. Jahrhunderts korrespondiert direkt mit Potters Beschreibung von «Klasse gegen Klasse» und «Young Struggle» als ideologisch aufgeladene Kadergruppen.
+
+### → [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
+
+Haidts Stammeslogik erklärt, wie postkoloniale Theorie als moralisches Fundierungssystem funktioniert: sie liefert eine klare In-group/Out-group-Struktur, die Potters Beschreibung der Radikalisierungsdynamik psychologisch untermauert.
+
+### → [[Götz Aly — Wie konnte das geschehen]]
+
+Alys Frage nach dem kollektiven Schweigen und Mitläufertum im Nationalsozialismus spiegelt sich in Potters Beobachtung, dass die deutsche Clubszene nach dem 7. Oktober schwieg — beide analysieren institutionelles Versagen angesichts von Antisemitismus.
+
+### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
+
+Bonhoeffers Einsicht, dass Dummheit weniger ein intellektuelles als ein soziales Phänomen ist (erzeugt durch Gruppenkonformität und Macht), trifft präzise auf Potters Beschreibung zu, wie postkoloniale Narrative in Echokammern zur unreflektierten Übernahme von Feindbildern führen.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Mausfelds Analyse, wie Propaganda demokratische Öffentlichkeiten manipuliert, ergänzt Potters Befund zu Red Media und russischen Propagandanetzwerken, die linke Radikalisierung gezielt befeuern.
+
+### → [[Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]]
+
+Blumenthal (The Grayzone) ist ein Paradebeispiel des Phänomens, das Potter beschreibt: ein «antiimperialistisches» Medium, das in Teilen russische Narrative bedient und bei Antisemitismus-Codierungen (Epstein-Baal-Komplex) die Grenze überschreitet.
+
+### → [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]]
+
+Ebenfalls ein taz Talk; El-Mafaalani erklärt, warum jede lagerpolitische Reaktion auf Misstrauensgemeinschaften — von rechts wie von links — scheitert. Potter zeigt das Phänomen für die Linke konkret; El-Mafaalani liefert die soziologische Erklärung.
+
+### → [[Torsten Heinrich — Was die Tagesschau verschweigt]]
+
+Beide analysieren Doppelstandards im Israel-Diskurs: Heinrich aus geopolitisch-militärischer Perspektive (Wortwahl, Existenzrecht, Medienvergleich), Potter aus der kulturpolitischen (postkoloniale Narrative, „linker Antisemitismus"). Beide zeigen: Die Maßstäbe sind ungleich
+
+### → [[StreitClub — Europa allein zu Haus]]
+
+Friedman verortet Antisemitismus strukturell rechtsaußen — ergänzt Potters Analyse des linken Antisemitismus
+
+### → [[Liya Yu — Der neuropolitische Gesellschaftsvertrag]]
+
+Yu kritisiert Cancel Culture als „potenziell totalitär", weil sie Mentalisierung verhindert; beide sehen die Linke in einem Reinheitsparadox gefangen

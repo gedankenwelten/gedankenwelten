@@ -149,3 +149,16 @@ Manuel: Das klingt wie ein Drehbuch-Skript — nicht wie ein Verteidigungsminist
 - [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Redeckers These "You know, because you can" — wer stark genug ist, braucht keine liberale Ordnung mehr zu simulieren; Hegseth als Militär-Exemplar dieser Logik
 - [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]] — Heinisch beschreibt Hegseth als Frontmann und potenziellen Sündenbock: bewusst exponiert, damit Trump sich bei Scheitern distanzieren kann
 - [[Adam Tooze — Pentagon vs. Anthropic]] — Tooze zeigt das Pentagon als Instrument zur Neuordnung amerikanischer Institutionen — die strukturelle Verlängerung von Hegseths kultureller Gleichschaltung
+- [[Markus Reisner — Strasse von Hormus fragil]] — Die Entlassung des Marineministers als konkretes Symptom ideologischer Personalpolitik im US-Militär
+
+### → [[Koschi Politik — Hochmut vor dem Fall: Iran trifft Trump]]
+Manuel zeigt am 13.04.2026 Hegseths Alkohol-Skandal und die Prognose: Trump wird Hegseth als Sündenbock für das Iran-Desaster feuern — der sadistische Ton ("more fun shooting them down") passt zu Hegseths Profil aus dieser Note.
+
+### → [[Koschi Politik — Trump gegen Papst Leo]]
+Der nächste Schritt: Hegseth baut die christlich-nationale Armee, Trump posiert als Jesus Christus. Aus institutioneller Gleichschaltung wird offener Gottköniganspruch — derselbe religiöse Nationalismus, jetzt als Konfrontation mit der Kirche selbst.
+
+### → [[Koschi Politik — Trump GAGA auf FOX und Hormuz-Blockade (15.04.2026)]]
+Hegseth als institutioneller Kontext für Trumps Kriegsverbrechens-Drohungen: Ein ideologisiertes Militär unter christlich-nationalem Vorzeichen normalisiert die Ankündigung, Kraftwerke und Brücken zu zerstören — aus "war culture" wird öffentliche Straffreiheit.
+
+### → [[Koschi Politik — TACO Tuesday, Operation Freedom abgesagt]]
+Hegseths Kommunikationsversagen auf neuer Stufe: Er verteidigt Operation Freedom den ganzen Tag — Trump zieht sie am Abend per Truth Social zurück. Hegseth kann die Widersprüche beim Atomzeitrahmen nicht auflösen.

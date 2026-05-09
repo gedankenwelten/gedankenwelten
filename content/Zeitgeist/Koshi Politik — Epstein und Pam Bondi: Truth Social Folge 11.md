@@ -29,6 +29,9 @@ Quelle: [Truth Social Folge 11: Trump und die Epstein-Anhörung](https://www.you
 
 ### Pam Bondis Kongress-Anhörung
 
+[▶ 0:01](https://www.youtube.com/watch?v=qdoC-Vsv-KA&t=1)
+
+
 **Pam Bondi** (Attorney General der USA) sagte vor dem **House Judiciary Committee** aus — über die Epstein-Akten-Veröffentlichung und DOJ-Handhabung. Die Anhörung war politisch hitzig.
 
 Koshi: Bondi hat ihre Rolle nicht als Attorney General ausgefüllt, sondern als „Stiefellecker von Donald Trump" — sie verteidigte Trump statt aufzuklären.
@@ -36,6 +39,9 @@ Koshi: Bondi hat ihre Rolle nicht als Attorney General ausgefüllt, sondern als 
 **Thomas Massey** (republikanischer Abgeordneter aus Kentucky, als „RINO" von Trump bezeichnet) stellte kritische Fragen.
 
 ### Der Trump-Post
+
+[▶ 1:01](https://www.youtube.com/watch?v=qdoC-Vsv-KA&t=61)
+
 
 Trump's Truth Social-Post über die Anhörung (deutsche Übersetzung):
 
@@ -79,6 +85,9 @@ Direkte Verbindung: Trump reagiert auf die Epstein-Veröffentlichung, die Bondi 
 
 ### → [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein-Akten: Was wir jetzt wissen]]
 Inhaltliche Grundlage: Was ist in den Akten, über das Bondi nicht sprechen wollte?
+
+### → [[Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration]]
+Fortsetzung: Bondis Entlassung und was daraus folgt — sie bleibt zur Aussage verpflichtet; Opferanwalt kommentiert.
 
 ### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Trumps Post-Muster: Selbst-Entlastung, Feind-Markierung (Massey als RINO), Loyalitätsprüfung (Bondi loben). Hagemeyers narzisstische Dynamik in komprimierter Form.

@@ -32,6 +32,9 @@ Moderation: Wolfram Eilenberger | Ausgestrahlt: 22. März 2026, SRF 1
 
 ## Das "dunkle Mittelalter" als Erfindung der Moderne
 
+[▶ 0:01](https://www.youtube.com/watch?v=LrIOfHssI_k&t=1)
+
+
 Das Bild vom finsteren, rückständigen Mittelalter ist nicht historisch gewachsen, sondern wurde im 18./19. Jahrhundert gezielt konstruiert. In einer Epoche, die sich selbst als Höhepunkt der Geschichte betrachtete, brauchte man eine möglichst dunkle Vorzeit — damit die eigene Gegenwart umso heller erstrahlt.
 
 > "Je dunkler die Vorzeit war, desto heller erstrahlt die eigene Gegenwart."
@@ -44,6 +47,9 @@ Auch die Hexenverbrennung gehört zu diesen Verzerrungen: Das große Zeitalter d
 
 ## Konsensual statt absolut — Herrschaft im Mittelalter
 
+[▶ 1:31](https://www.youtube.com/watch?v=LrIOfHssI_k&t=91)
+
+
 Absolut wurde erst im **Absolutismus** regiert — dem Zeitalter der weißen Seidenstrümpfe und Perücken (Ludwig XIV., 17. Jahrhundert). Im Mittelalter hingegen wurde konsensual regiert: Kein König, nicht einmal der Kaiser, konnte ohne seine Peers regieren.
 
 > "Ein König, der konnte nicht ohne seine Piier regieren."
@@ -53,6 +59,9 @@ Diese Erinnerung ist politisch relevant: Die Sehnsucht nach "Klarheit" und "Füh
 ---
 
 ## Arbeitszeit und Erholung
+
+[▶ 2:16](https://www.youtube.com/watch?v=LrIOfHssI_k&t=136)
+
 
 Im Mittelalter arbeiteten Menschen ca. **1600 Stunden pro Jahr** — heute sind es 1800–2000. Das dramatische Ansteigen der Arbeitszeiten geschah im **19. Jahrhundert** mit der Industrialisierung.
 
@@ -64,6 +73,9 @@ Mittelalterliche Innovationen der Entschleunigung:
 ---
 
 ## Commons und Almende — 500 Jahre nachhaltiges Wirtschaften am Bodensee
+
+[▶ 20:31](https://www.youtube.com/watch?v=LrIOfHssI_k&t=1231)
+
 
 Das berühmteste Beispiel aus Kehnels Forschung: Der **Bodensee** wurde 500 Jahre lang nicht überfischt — obwohl die technischen Mittel zur Überfischung vorhanden gewesen wären. Warum gelang das?
 
@@ -85,6 +97,9 @@ Es war kein konfliktfreier Ponyhof: Es gab Spannungen zwischen Kleinfischern (ko
 
 ## Beginenhöfe — Städte der Frauen
 
+[▶ 26:43](https://www.youtube.com/watch?v=LrIOfHssI_k&t=1603)
+
+
 Ein weiteres Vorurteil: Das Mittelalter sei besonders frauenfeindlich gewesen. Die historische Realität ist komplexer.
 
 Die **Beginenhöfe** (13.–15. Jahrhundert) waren selbstorganisierte Frauengemeinschaften in den wirtschaftlichen Boomzentren Europas (Flandern, Niederlande, Deutschland, Schweiz):
@@ -101,6 +116,9 @@ Die frühe Wissenschaft (20. Jh.) erklärte diese Gemeinschaften mit einem "Frau
 
 ## Gender und soziale Diversität im Mittelalter
 
+[▶ 32:01](https://www.youtube.com/watch?v=LrIOfHssI_k&t=1921)
+
+
 Gerichtsakten belegen Fälle von Menschen, die über Jahrzehnte in einer anderen Geschlechterrolle als der körperlichen lebten — und erst durch Ehekonflikte vor Gericht kamen. Kehnel interpretiert das nicht nur als Unterdrückung, sondern als Zeichen:
 
 > "Es war möglich, 30, 40 Jahre in dieser Rolle alt zu werden, bevor man vor Gericht gestellt wird."
@@ -114,6 +132,9 @@ Universitäten entstanden um 1200 spontan, emergent — **niemand gründete sie 
 ---
 
 ## Das Fegefeuer als intergenerationaler Vertrag
+
+[▶ 35:06](https://www.youtube.com/watch?v=LrIOfHssI_k&t=2106)
+
 
 Das **Purgatorium** (Fegefeuer) — eine Erfindung des 11./12. Jahrhunderts — war theologisch zunächst eine Gnadengeste: Statt Himmel oder Hölle gab es nun einen Reinigungsraum für lässliche Sünden.
 
@@ -132,6 +153,9 @@ Heute wird lanfristiges nachhaltiges Handeln steuerlich und wirtschaftlich bestr
 ---
 
 ## Kollektive Rhythmen — Fasten und Ernährung
+
+[▶ 43:31](https://www.youtube.com/watch?v=LrIOfHssI_k&t=2611)
+
 
 Bis zur Reformation kannte Europa kollektive Ernährungsrhythmen:
 - **Wöchentlich**: 2–3 fleischlose Tage (Mittwoch und/oder Freitag)
@@ -176,6 +200,9 @@ Kehnels Gegenstrategie: Das emanzipatorische, diverse, progressive Potenzial des
 
 ## Der Phönixeffekt — Kehnel im Schreiben
 
+[▶ 49:39](https://www.youtube.com/watch?v=LrIOfHssI_k&t=2979)
+
+
 Ihr neues Buch: *Der Phönixeffekt* fragt, wie Kulturen sich aus dem Stand zu etwas radikal Neuem entscheiden können.
 
 Ihre Antwort ist ehrlich uneindeutig:
@@ -218,16 +245,82 @@ Kulturen der Verdrängung zahlen irgendwann den Preis — manchmal das eigene Le
 
 ## Verbindungen
 
-- [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosa's "gestörte Weltbeziehung" wird im Interview direkt angesprochen; Sehnsucht nach Einfachheit und "echter" Weltbeziehung als Gegenbewegung zur Beschleunigung
-- [[Erich Fromm — Haben oder Sein]] — Fromms Kritik der "Haben"-Gesellschaft spiegelt sich in Kehnels Kritik an quartalsgetriebenen Wirtschaftslogiken und kurzfristigen Eigentumsinteressen
-- [[Erwin Thoma — Strategien der Natur]] — Langfristiges Denken und Nachhaltigkeit als Prinzip; was die Natur kennt, kannte auch das mittelalterliche Commons-Wirtschaften
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — Die legitimen Sehnsüchte nach Sicherheit und Gemeinschaft, die Kehnel beschreibt, sind dieselben Kräfte, die Flassbeck als Treibstoff des Rechtsrucks analysiert
-- [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Populismus als Reaktion auf Entfremdung und Ohnmacht; Kehnel zeigt, wie Mittelalter-Nostalgie politisch instrumentalisiert wird
-- [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Der "Drang nach Härte" und klaren Ordnungen; Kehnel zeigt das emanzipatorische Gegenbild
-- [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Verlust von Gemeinschaft und kollektiven Ritualen als Grundlage der Verrohung; Kehnel zeigt, was wir verloren haben
-- [[Hannah Arendt — Denken ohne Geländer]] — Politisches Handeln in Gemeinschaft, Pluralität als Grundlage des Politischen; Commons als Praxis des Miteinanders
-- [[Leonhard Horowski — Adel, Klassen und Gesellschaft]] — Soziale Strukturen und Mobilität in der Vormoderne; Gegenthese zur starren Feudalgesellschaft
-- [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschnings Forderung nach günstigem ÖPNV und Umverteilung statt Tankrabatt ist eine moderne Commons-Logik: kollektive Infrastruktur statt Subvention privaten Konsums — das historische Modell, das Kehnel im Mittelalter zeigt.
-- [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]] — Die Soja-Dokumentation zeigt, wohin globale Monokulturen und Exportabhängigkeit führen: genau das, was Kehnel mit zirkulären, lokalen Wirtschaftsmodellen überwinden will.
-- [[Good News — Positive Nachrichten März 2026]] — High Seas Treaty und Naturrechte für Bienen (Peru) sind zeitgenössische Ausprägungen der Commons-Logik: Schutz geteilter Güter als kollektive Verantwortung — Kehnels Mittelalter-Modell in moderner Politik.
-- [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] — Felix argumentiert für Batteriespeicher als heimische Wertschöpfung statt fossiler Kapitalabflüsse — das ist Kehnels Commons-Logik in Investitionsform: Wert im Land halten statt ins Ausland exportieren
+### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
+
+Rosa's "gestörte Weltbeziehung" wird im Interview direkt angesprochen; Sehnsucht nach Einfachheit und "echter" Weltbeziehung als Gegenbewegung zur Beschleunigung
+
+### → [[Erich Fromm — Haben oder Sein]]
+
+Fromms Kritik der "Haben"-Gesellschaft spiegelt sich in Kehnels Kritik an quartalsgetriebenen Wirtschaftslogiken und kurzfristigen Eigentumsinteressen
+
+### → [[Erwin Thoma — Strategien der Natur]]
+
+Langfristiges Denken und Nachhaltigkeit als Prinzip; was die Natur kennt, kannte auch das mittelalterliche Commons-Wirtschaften
+
+### → [[Heiner Flassbeck — Krise und Rechtsruck]]
+
+Die legitimen Sehnsüchte nach Sicherheit und Gemeinschaft, die Kehnel beschreibt, sind dieselben Kräfte, die Flassbeck als Treibstoff des Rechtsrucks analysiert
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Populismus als Reaktion auf Entfremdung und Ohnmacht; Kehnel zeigt, wie Mittelalter-Nostalgie politisch instrumentalisiert wird
+
+### → [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
+
+Der "Drang nach Härte" und klaren Ordnungen; Kehnel zeigt das emanzipatorische Gegenbild
+
+### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+
+Verlust von Gemeinschaft und kollektiven Ritualen als Grundlage der Verrohung; Kehnel zeigt, was wir verloren haben
+
+### → [[Hannah Arendt — Denken ohne Geländer]]
+
+Politisches Handeln in Gemeinschaft, Pluralität als Grundlage des Politischen; Commons als Praxis des Miteinanders
+
+### → [[Leonhard Horowski — Adel, Klassen und Gesellschaft]]
+
+Soziale Strukturen und Mobilität in der Vormoderne; Gegenthese zur starren Feudalgesellschaft
+
+### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Quaschnings Forderung nach günstigem ÖPNV und Umverteilung statt Tankrabatt ist eine moderne Commons-Logik: kollektive Infrastruktur statt Subvention privaten Konsums — das historische Modell, das Kehnel im Mittelalter zeigt.
+
+### → [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
+
+Die Soja-Dokumentation zeigt, wohin globale Monokulturen und Exportabhängigkeit führen: genau das, was Kehnel mit zirkulären, lokalen Wirtschaftsmodellen überwinden will.
+
+### → [[Good News — Positive Nachrichten März 2026]]
+
+High Seas Treaty und Naturrechte für Bienen (Peru) sind zeitgenössische Ausprägungen der Commons-Logik: Schutz geteilter Güter als kollektive Verantwortung — Kehnels Mittelalter-Modell in moderner Politik.
+
+### → [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+
+Felix argumentiert für Batteriespeicher als heimische Wertschöpfung statt fossiler Kapitalabflüsse — das ist Kehnels Commons-Logik in Investitionsform: Wert im Land halten statt ins Ausland exportieren
+
+### → [[Good News — Gute Nachrichten April 2026]]
+
+Guineawurm-Ausrottung: kein Medikament, kein Impfstoff — nur Wasserfilter und Gemeinschaftsaufklärung durch das Carter Center. Das reinste Gegenbeispiel zu High-Tech-Solutionismus: kollektives, low-tech Handeln als wirksamster Fortschrittstyp — Kehnels Mittelalter-These in der globalen Gesundheitspolitik.
+
+### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+
+30-Hills-Sumatra als integrierte Bewirtschaftung: Naturschutz nur dort wirksam, wo Gesundheitsversorgung, Schule und Tierschutz als ein einziger Vertrag gedacht werden. Kehnels Commons-Logik im tropischen Regenwald — direkter Beleg, dass Ordnungsmodelle aus dem Mittelalter heute funktionieren.
+
+### → [[Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]]
+
+Kehnel und Bücker denken denselben Gegensatz: mittelalterliche Muße und zirkuläre Zeit vs. moderne Beschleunigungslogik. Bücker nennt die Zeitbanken in Italien (seit den 1980ern kommunal verankert) — eine Institution, die direkt aus Kehnels Commons-Tradition stammt: Zeit als gemeinsames Gut statt als Produktionsfaktor.
+
+### → [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]]
+
+Thomas Wagners Rojava/Bookchin als modernes Pendant zu Kehnels mittelalterlichen Commons und dezentraler Selbstverwaltung
+
+### → [[Clara Mattei — Geschichte der Austeritaetspolitik]]
+
+Mattei zeigt, warum die Zerstörung der Commons (Privatisierung) strukturell zum Kapitalismus gehört
+
+### → [[Walther Ziegler — Smith in 60 Minuten]]
+
+Smith forderte Abschaffung der Zünfte und Gilden — Kehnel zeigt, dass deren Commons-Modelle funktioniert haben
+
+### → [[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]
+
+Öffentliche Räume als Refugien der Leichtigkeit — Kehnels Commons als historisches Vorbild.

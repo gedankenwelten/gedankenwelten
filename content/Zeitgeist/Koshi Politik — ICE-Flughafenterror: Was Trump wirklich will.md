@@ -40,6 +40,9 @@ FBI und Polizei erklären: kein Zusammenhang mit dem DHS-Shutdown. Koshi lässt 
 
 ## Teil 2 — Das eigentliche Thema: Chaos als Druckmittel
 
+[▶ 14:37](https://www.youtube.com/watch?v=wXaW37yu7Hk&t=877)
+
+
 > [!quote] Koshis Kernthese
 > *Der Donald geht's nicht um die Sicherheit am Flughäfen, dem geht's um den Save America Act. Er versucht bei der Wahl zu betrügen.*
 
@@ -69,6 +72,9 @@ Am San Francisco International Airport (SFO) verhaften ICE-Agents eine Frau, die
 Im Hintergrund: 20–30 Polizisten stehen daneben, keiner greift ein. Koshi erklärt: Gavin Newsom, Gouverneur von Kalifornien, hat lokalen Behörden signalisiert, dass sie **nicht zur Kooperation mit ICE verpflichtet** sind. Für die Polizisten könnte das noch Nachspiel haben.
 
 ### Trumps eigentliche Strategie: Der Save America Act
+
+[▶ 14:37](https://www.youtube.com/watch?v=wXaW37yu7Hk&t=877)
+
 
 Hier liegt der Kern des Videos — und der ist entlarvend:
 
@@ -154,3 +160,10 @@ Mausfeld analysiert, wie Chaos und Überforderung gezielt eingesetzt werden, um 
 
 ### → [[Hannah Arendt — Denken ohne Geländer]]
 Arendts Begriff des Bösen als Handeln ohne Nachdenken trifft auf die ICE-Beamten am SFO: keine Ausweise gezeigt, Kind getrennt — Banalität der Gewalt im institutionellen Vollzug.
+
+### → [[Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]]
+ICE als verlängerter Arm des Trump-Netzwerks — im Ungaro-Fall für einen privaten Sorgerechtsstreit: das ICE-Flughafen-Muster findet sein Pendant im persönlichen Machtmissbrauch durch Trump-Verbündete.
+
+### → [[taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
+
+Konkretestes Fallbeispiel zu ICE-Terror: Marina Klimchuk berichtet vom vor Ort Erlebten nach der größten ICE-Razzia an einem Einzelstandort (Hyundai Ellabell, 475 Verhaftungen, 316 Südkoreaner). Lokale Reaktion: Desinteresse und Normalisierung statt Empörung.

@@ -79,3 +79,11 @@ David Hume kam durch Introspektion zur selben Einsicht: Wenn man nach dem Selbst
 ### → [[S.N. Goenka — Vipassana]]
 
 Anattā ist das dritte der drei Merkmale (*Ti-Lakkhaṇa*), direkt aufbauend auf [[Vipassana — Anicca|Anicca]] und [[Vipassana — Dukkha|Dukkha]]. Ohne die direkte Erfahrung von Anicca bleibt Anattā eine Idee.
+
+### → [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]]
+
+Adriaan übersetzt Anattā in Retreatsprache: "Ich bin wütend" vs. "Wut wird wahrgenommen im Wahrnehmungsfeld" — das ist Anattā nicht als Theorie, sondern als gelebte Satipatthana-Praxis. Derselbe Kern, andere Tradition (Mahayana statt Goenka-Theravada).
+
+- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[Walther Ziegler — Buddha in 60 Minuten]] — Buddhas Lehre vom Bedingten Entstehen als philosophische Grundlage der Anattā-Erfahrung: Wenn das synthetisierende Ichbewusstsein die Bedingung des Begehrens ist, muss es überschritten werden. Ziegler zeigt die erkenntnistheoretische Kausalkette, die Goenka als Praxis lehrt
+- [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)]] — Gabriel überträgt Anattā-Logik auf KI: KI existiert nicht *im* Gerät, sondern im Beziehungsraum zwischen Mensch und Gerät. Das ist Anattā auf technologischer Ebene — kein festes Subjekt, sondern ein Prozessphänomen. Gabriels Mu (buddhistisches Non-Sein als wechselseitige Abhängigkeit) ist die Mahāyāna-Entsprechung zu Theravāda-Anattā.

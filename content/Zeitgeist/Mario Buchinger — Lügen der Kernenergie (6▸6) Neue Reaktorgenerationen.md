@@ -29,6 +29,9 @@ Serie: [[Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie
 
 ## Einleitung: Die Wundertechnologien der Atomlobby
 
+[▶ 2:19](https://www.youtube.com/watch?v=bY5bK82_vzU&t=139)
+
+
 Buchinger nennt die immer wiederkehrenden Versprechen neuer Reaktorkonzepte konsequent **„pinke Einhörner"**: Fabelwesen, die theoretisch denkbar, aber in der Realität nicht existent sind — oder jedenfalls weit von industrieller Anwendbarkeit entfernt. Sein Urteil im Voraus: *„Fast gar nichts daran ist dran."*
 
 Das Grundproblem all dieser Technologien:
@@ -40,6 +43,9 @@ Das Grundproblem all dieser Technologien:
 ---
 
 ## Pinkes Einhorn 1: Transmutation
+
+[▶ 6:05](https://www.youtube.com/watch?v=bY5bK82_vzU&t=365)
+
 
 **Idee:** Hochradioaktiven Atommüll durch Neutronenbeschuss in mittel- oder schwachradioaktiven Müll umwandeln. Einlagerungszeit sinkt von Millionen auf wenige hundert bis tausend Jahre.
 
@@ -59,6 +65,9 @@ Das Grundproblem all dieser Technologien:
 ---
 
 ## Pinkes Einhorn 2: Flüssigsalzreaktor (und Thoriumreaktor)
+
+[▶ 6:52](https://www.youtube.com/watch?v=bY5bK82_vzU&t=412)
+
 
 **Zwei verwandte Konzepte:**
 - **Thoriumreaktor**: Thorium als Brennstoff. Durch Neutronenbeschuss wird aus Thorium das spaltbare Uran-233 erzeugt — das in der Natur nicht vorkommt. Der Brennstoff entsteht quasi im Reaktorbetrieb selbst.
@@ -96,6 +105,9 @@ Das Grundproblem all dieser Technologien:
 
 ## Pinkes Einhorn 4: Small Modular Reactors (SMR)
 
+[▶ 15:15](https://www.youtube.com/watch?v=bY5bK82_vzU&t=915)
+
+
 **Idee:** Kleine Reaktoren (200–300 MW statt 1 GW), die modular am Fließband produziert und dezentral eingesetzt werden können. Friedrich Merz warb im Bundestagswahlkampf 2024/25 dafür; im Koalitionsvertrag der neuen CDU/CSU+SPD-Regierung landete es schließlich nicht.
 
 **Buchinger nennt SMR konsequent „PowerPoint-Reaktoren".**
@@ -115,6 +127,9 @@ Das Grundproblem all dieser Technologien:
 ---
 
 ## Warum hält die Atomi-Szene trotzdem daran fest?
+
+[▶ 23:36](https://www.youtube.com/watch?v=bY5bK82_vzU&t=1416)
+
 
 Buchinger nennt zwei Erklärungsebenen, die er bereits in der Hauptnote zur Serie ausführlich diskutiert:
 
@@ -195,10 +210,30 @@ Die sechs behandelten Lügen im Überblick:
 
 ## Verbindungen
 
-- [[Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Hauptnote zur Serie: Die drei Falschaussagen (bezahlbar, versorgungssicher, emissionsarm) werden dort detailliert widerlegt; diese Folge schließt die Serie mit dem Zukunftsversprechen-Mythos ab.
-- [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]] — Buchinger beschreibt die Kernenergie-Fans als eine Art Sekte: *„Es ist schwierig mit Sektierern zu diskutieren."* Bonhoeeffers Diagnose — wer aus Gruppenidentität denkt, ist durch Fakten nicht erreichbar — trifft den Kern der Atomi-Psychologie, die Buchinger hier seziert.
-- [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Die Fossil-Lobby, die Kernenergie propagiert obwohl sie selbst davon nicht profitiert, sondern nur Zeit gewinnt, ist ein Paradefall für Cipollas Analyse strategischer Schadensmuster: man schadet der Gesellschaft (verhinderte Energiewende) und gibt vor, ihr zu nützen.
-- [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] — Kemper beschreibt, wie rechte Akteure Technologie instrumentalisieren. Buchinger zeigt den Spiegelfall: Kernenergie als politisches Werkzeug zur Blockade des Fortschritts — nicht aus technischer Überzeugung, sondern aus Lobby-Interesse.
-- [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Die Desinformationsstrategie der Fossil-Lobby (Kapital binden, Zeitgewinn, Agenda-Setting via willfährige Meinungsmacher wie Stelter/Wendland) ist ein lehrbuchhaftes Beispiel für Mausfelds Analyse politischer Manipulation unterhalb der Bewusstseinsschwelle.
-- [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]] — Tooze analysiert, wie Technologieversprechen (KI, Militär) politische Entscheidungen präformieren, lange bevor die Technologie lieferbar ist. Das gleiche Muster liegt bei SMR, Thorium und Kernfusion vor: Das Versprechen wirkt politisch schon heute, obwohl die Realität Jahrzehnte entfernt ist.
-- [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Kemfert und Buchinger kommen unabhängig zum selben SMR-Schluss: IEA frühestens 2040–2050, extrem teuer, "Technologieoffenheit" als politische Ausrede zur Verzögerung wirksamer Lösungen
+### → [[Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Hauptnote zur Serie: Die drei Falschaussagen (bezahlbar, versorgungssicher, emissionsarm) werden dort detailliert widerlegt; diese Folge schließt die Serie mit dem Zukunftsversprechen-Mythos ab.
+
+### → [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]]
+
+Buchinger beschreibt die Kernenergie-Fans als eine Art Sekte: *„Es ist schwierig mit Sektierern zu diskutieren."* Bonhoeeffers Diagnose — wer aus Gruppenidentität denkt, ist durch Fakten nicht erreichbar — trifft den Kern der Atomi-Psychologie, die Buchinger hier seziert.
+
+### → [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+
+Die Fossil-Lobby, die Kernenergie propagiert obwohl sie selbst davon nicht profitiert, sondern nur Zeit gewinnt, ist ein Paradefall für Cipollas Analyse strategischer Schadensmuster: man schadet der Gesellschaft (verhinderte Energiewende) und gibt vor, ihr zu nützen.
+
+### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
+
+Kemper beschreibt, wie rechte Akteure Technologie instrumentalisieren. Buchinger zeigt den Spiegelfall: Kernenergie als politisches Werkzeug zur Blockade des Fortschritts — nicht aus technischer Überzeugung, sondern aus Lobby-Interesse.
+
+### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Die Desinformationsstrategie der Fossil-Lobby (Kapital binden, Zeitgewinn, Agenda-Setting via willfährige Meinungsmacher wie Stelter/Wendland) ist ein lehrbuchhaftes Beispiel für Mausfelds Analyse politischer Manipulation unterhalb der Bewusstseinsschwelle.
+
+### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+
+Tooze analysiert, wie Technologieversprechen (KI, Militär) politische Entscheidungen präformieren, lange bevor die Technologie lieferbar ist. Das gleiche Muster liegt bei SMR, Thorium und Kernfusion vor: Das Versprechen wirkt politisch schon heute, obwohl die Realität Jahrzehnte entfernt ist.
+
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+
+Kemfert und Buchinger kommen unabhängig zum selben SMR-Schluss: IEA frühestens 2040–2050, extrem teuer, "Technologieoffenheit" als politische Ausrede zur Verzögerung wirksamer Lösungen

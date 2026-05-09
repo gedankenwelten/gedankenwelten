@@ -31,6 +31,9 @@ Quelle: [Sprit-Abzocke⛽📈 – Warum Sprit erst mal teuer bleibt und was uns 
 
 ## Kontext: Warum steigt der Sprit?
 
+[▶ 2:19](https://www.youtube.com/watch?v=_6KsORHax98&t=139)
+
+
 Der **Iran-Krieg** (USA/Israel gegen Iran, ab Februar 2026) hat die **Straße von Hormus** blockiert — eine der wichtigsten Meerengen der Welt. Rund 20 % der weltweiten Ölproduktion nehmen diesen Weg. Als Reaktion griff der Iran auch Öl- und Gasproduktionsanlagen im Nahen Osten an.
 
 **Der entscheidende Mechanismus**: Deutschland bezieht nur **6,1 % seines Erdöls** aus dem Nahen Osten (Stand 2025). Die größten Lieferanten sind Norwegen, USA, Libyen, Kasachstan, Großbritannien. Trotzdem explodieren die Preise — weil **Ölpreise global bestimmt werden**. Asien braucht dringend Ersatz, bietet anderen Lieferländern viel Geld, und Deutschland muss mithalten, damit die Öltanker nicht umgeleitet werden.
@@ -46,6 +49,9 @@ Der **Iran-Krieg** (USA/Israel gegen Iran, ab Februar 2026) hat die **Straße vo
 
 ## Das Billionen-Problem: Fossile Abhängigkeit
 
+[▶ 4:37](https://www.youtube.com/watch?v=_6KsORHax98&t=277)
+
+
 Seit **1990** hat Deutschland fast **2 Billionen Euro** für den Import von Erdöl, Erdgas und Kohle ausgegeben — Geld, das weitgehend ins Ausland geflossen ist. Wertschöpfung in Deutschland: minimal. Die schicken Hochhäuser und dicken Autos in Ölförderländern? „Die haben wir praktisch mitbezahlt."
 
 Das ist kein Zufallsproblem. **Die Politik hat Deutschland strukturell abhängig gemacht**: durch Jahrzehnte pro-Verbrenner, pro-fossile Energie, anti-ÖPNV.
@@ -58,6 +64,9 @@ Durch die Iran-Krise ist auch **Erdgas** betroffen: Flüssiggastanker kommen ebe
 
 ### AfD: 60 Cent Senkung (Weidel)
 
+[▶ 14:33](https://www.youtube.com/watch?v=_6KsORHax98&t=873)
+
+
 **Kosten:** 25–30 Mrd. Euro pro Jahr (40–50 Mrd. Liter × 60 Cent).
 **Gegenfinanzierung:** keine. Möglichkeiten: neue Schulden ("Sondervermögen") oder ein Viertel der Bundeszuschüsse zur Rentenkasse streichen.
 **Ökonomisches Problem:** Hohe Preise sind ein Knappheitssignal — sie sollen Nachfrage reduzieren. Subventioniert man dagegen an, bleibt die Nachfrage hoch, Preise klettern weiter, der Staat muss noch mehr subventionieren.
@@ -65,9 +74,15 @@ Durch die Iran-Krise ist auch **Erdgas** betroffen: Flüssiggastanker kommen ebe
 
 ### Söder: Einmal täglich erhöhen
 
+[▶ 16:04](https://www.youtube.com/watch?v=_6KsORHax98&t=964)
+
+
 Populär, wird im April gesetzlich umgesetzt. Österreich hat es vorgemacht — kurzfristig kleine Einsparungen, aber: Ölkonzerne werden sich auf den neuen Rhythmus einstellen und dann einmal täglich "richtig kräftig" erhöhen. **Nullsummenspiel** laut den meisten Ökonomen. Nicht schädlich, aber keine echte Hilfe.
 
 ### Strategische Ölreserven freigeben (Söder)
+
+[▶ 17:34](https://www.youtube.com/watch?v=_6KsORHax98&t=1054)
+
 
 Wurde bereits teilweise gemacht. Effekt: überschaubar. Das Problem: Niemand weiß, wie lange der Iran-Konflikt dauert. Wenn die Reserven aufgebraucht sind und es noch schlimmer kommt, "sehen wir ganz schön alt aus."
 
@@ -81,6 +96,9 @@ Landet nicht bei Verbrauchern, gibt dem Staat aber Spielraum. Wurde 2022 schon u
 
 ### Tankrabatt / Steuersenkung
 
+[▶ 21:20](https://www.youtube.com/watch?v=_6KsORHax98&t=1280)
+
+
 „Ein Tankrabatt." Quaschning erinnert: 2022 hat das nicht funktioniert. Viel Steuergeld versenkt, Effekt schnell verpufft, Ölkonzerne haben einen Teil der Rabatte kassiert. „Können wir das Geld auch gleich verbrennen oder in Koffern in die Ölländer schicken."
 
 ---
@@ -88,6 +106,9 @@ Landet nicht bei Verbrauchern, gibt dem Staat aber Spielraum. Wurde 2022 schon u
 ## Die echten Lösungen
 
 ### Sofort & billig: Tempolimit
+
+[▶ 22:06](https://www.youtube.com/watch?v=_6KsORHax98&t=1326)
+
 
 Ein **deutschlandweites Tempolimit** würde laut Berechnungen **5–10 % Spritkosten einsparen** — sofort, ohne massive Staatsausgaben, fast kostenfrei. Quaschning mit trockenem Humor: *„Wir haben in Deutschland nicht genug Schilder dafür"* (Wissing).
 
@@ -104,6 +125,9 @@ Das System in Skandinavien: Verbrenner werden durch hohe Steuern teuer gemacht, 
 Die jetzige Bundesregierung hat das 65%-Erneuerbare-Heizungsziel gestrichen. Quaschning: *„Fakten spielen in der Heizungsdiskussion offenbar gar keine Rolle mehr."* Trotzdem gilt: Neue Öl- und Gasheizungen sind ökonomisch wie ökologisch falsch.
 
 ### Soziale Gerechtigkeit: ÖPNV und Umverteilung
+
+[▶ 25:10](https://www.youtube.com/watch?v=_6KsORHax98&t=1510)
+
 
 Ein wichtiger blinder Fleck in der Spritpreisdebatte: Es gibt **viele Menschen, die sich kein Auto leisten können**. Die sind auf den ÖPNV angewiesen — und das Deutschlandticket ist in zwei Jahren von 9 € auf 63 € gestiegen. **Mehr als der Benzinpreis gestiegen ist.** Wo war der öffentliche Aufschrei?
 
@@ -218,3 +242,9 @@ Ulrike Herrmann zeigt die geopolitische Dimension hinter Quaschnings Preisanalys
 
 ### → [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 Felix zeigt den Investorenblick auf Quaschnings Diagnose: Batteriespeicher als konkrete technische Antwort auf fossile Abhängigkeit — 81 Mrd. €/Jahr Importe vs. heimische Wertschöpfung durch Speicher; Quaschning beschreibt das Problem, Felix den Markt der Lösung.
+
+### → [[Zeitgeist/Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]]
+BP Q1/2026: Aktuelle Bestätigung des Mechanismus Krise → Preissprung → Konzernmargen-Explosion.
+
+### → [[Akkudoktor — Lanz und die Energiewende]]
+Identisches Desinformationsmuster: Was Quaschning bei AfD-Narrativen widerlegt, adressiert Akkudoktor bei ZDF-Narrativen

@@ -30,6 +30,9 @@ Quelle: [Ines Schwerdtner Entlarvt Merz & Die Heuchelei Der Politik!](https://ww
 
 ## Kontext: Warum die Preise steigen
 
+[▶ 4:39](https://www.youtube.com/watch?v=Pc4sHX1f1Fc&t=279)
+
+
 Der Iran-Krieg (USA/Israel gegen Iran, Frühjahr 2026) hat die **Straße von Hormus** blockiert — eine der wichtigsten Ölrouten der Welt. Schwerdtner betont: Das war ein **völkerrechtswidriger Angriffskrieg**. Weder das iranische Atomprogramm noch laufende Verhandlungen hätten die USA oder Israel zur Gewalt ermächtigt. Und — das ist entscheidend — es gab offensichtlich **keinen Plan für danach**: Die Vorstellung, man könne wie in Venezuela einfach das Regime stürzen, indem man den Führer tötet, ist nicht aufgegangen.
 
 Folgen dieser Planlosigkeit:
@@ -43,6 +46,9 @@ Folgen dieser Planlosigkeit:
 ---
 
 ## Versagen der Bundesregierung — Postpolitik
+
+[▶ 8:25](https://www.youtube.com/watch?v=Pc4sHX1f1Fc&t=505)
+
 
 Schwerdtner benennt das Muster präzise als **Postpolitik**: Politiker so tun, als seien politische Krisen technische Probleme, die durch Verwaltungshandeln lösbar sind.
 
@@ -68,11 +74,17 @@ Schwerdtner setzt dem Postpolitik-Muster konkrete staatliche Eingriffe entgegen:
 - **9-Euro-Ticket zurückbringen** — das Deutschlandticket ist inzwischen so teuer, dass viele wieder auf das Auto wechseln; das 9-Euro-Ticket hat gezeigt, dass Menschen umsteigen, wenn es bezahlbar ist
 
 ### Markteingriffe
+
+[▶ 16:48](https://www.youtube.com/watch?v=Pc4sHX1f1Fc&t=1008)
+
 - **Übergewinnsteuer** auf Mineralölkonzerne und Supermarktketten, die die Krise für Rekordgewinne nutzen — nicht als Geheimrezept, sondern als bewährtes Instrument, das viele Länder in vergleichbaren Krisen angewendet haben
 - **Spritpreisdeckel** nach dem Modell, das Österreich (und andere europäische Länder) bereits eingeführt haben
 - **G7/EU-Absprachen** entlang der Öl- und Gaslieferkette: Raffinerien und Mineralölkonzerne müssen wissen, dass Staaten bereit sind, auch auf der Lieferketten-Ebene Preise zu deckeln
 
 ### Strukturelle Reform
+
+[▶ 19:04](https://www.youtube.com/watch?v=Pc4sHX1f1Fc&t=1144)
+
 - Schärfere Kartellrechtsregeln (echte Preisaufsicht, nicht nur Anfragen)
 - **Vergesellschaftung der Energiekonzerne** — gesellschaftliche Kontrolle über die Energieproduktion als demokratische Diskussion führen
 - Konsequenter Ausbau erneuerbarer Energien + **Verkehrswende** — bezahlbar für alle
@@ -80,6 +92,9 @@ Schwerdtner setzt dem Postpolitik-Muster konkrete staatliche Eingriffe entgegen:
 ---
 
 ## Katharina Reiche als Sicherheitsproblem
+
+[▶ 19:04](https://www.youtube.com/watch?v=Pc4sHX1f1Fc&t=1144)
+
 
 Schwerdtner greift Wirtschaftsministerin Reiche frontal an: Als Staatssekretärin vor 14 Jahren hat Reiche maßgeblich dazu beigetragen, dass die Solarindustrie in Deutschland zugrunde gegangen ist. Als Gaslobbyistin hat sie die fossile Abhängigkeit strukturell verfestigt. Jetzt — in einer Krise, die genau diese Abhängigkeit schmerzhaft sichtbar macht — verstärkt Reiche durch neue Gesetze die fossile Bindung weiter, anstatt in Energiesouveränität zu investieren.
 
@@ -165,8 +180,14 @@ Katharina Reiche und die Gaslobby als Kontinuität fossiler Blockade: Buchinger 
 ### → [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
 Zeitlich unmittelbar benachbart: CDU/CSU und SPD als Blockierer progressiver Energiepolitik. Beide Notes dokumentieren denselben politischen Moment aus verschiedenen Blickwinkeln.
 
+### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+Sahebi/Semsrott analysieren dasselbe Bundesregierungsversagen — Übergewinnsteuer blockiert, Tempolimit verweigert, Outsourcing statt Strukturreform — aus liberaler Perspektive. Schwerdtner liefert die linke politökonomische Rahmung; GCA #28 den journalistischen Echtzeit-Kommentar.
+
 ### → [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 Heitmeyer analysiert, wie staatliche Untätigkeit und erlebte Ohnmacht zur sozialen Erosion führen. Schwerdtners Beschreibung der öffentlichen Frustration über die Bundesregierung ist ein konkretes Fallbeispiel dieser Dynamik.
+
+### → [[Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]]
+STAIYs MwSt-Debatte und Rentenanalyse zeigen dieselbe Logik wie Schwerdtners Energiepolitik-Kritik: Bundesregierung greift zu regressiven Instrumenten (MwSt statt Vermögenssteuer) statt zu strukturellen Eingriffen. Das Muster der Belastungsverschiebung nach unten ist das verbindende Element.
 
 ### → [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
 Reiche nennt Strompreissenkung als Ziel und verfolgt eine Politik, die Experten als preistreibend einordnen — ein konkretes Beispiel des politischen Versagens, das Schwerdtner strukturell analysiert.
@@ -177,3 +198,12 @@ Die Gegenerzählung zur politischen Kritik: Was Bundesregierung und Lobbyismus v
 ### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 Felix zeigt konkret, welche Technologie-Entscheidungen falsch getroffen werden (Gaskraftwerke statt Speicher) — Schwerdtner benennt das politische Versagen, Felix die technische Alternative, die Reiche ignoriert
 
+- [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]] — Jan van Aken tritt zurück, Pantisano kandidiert als Schwerdtners neuer Ko-Vorsitzender; Kanzleramts-Streichliste beim Sozialen
+- [[Heiner Flassbeck — Nachfragekrise und Schuldenlogik]] — Schwerdtner argumentiert politisch, Flassbeck volkswirtschaftlich: Ölpreise entziehen Nachfrage, der Staat muss gegensteuern. Beide konvergieren bei der Diagnose — fiskalpolitisches Versagen in der Energiekrise.
+- [[Bundestalk — Iran USA und die Strasse von Hormus]] — Herrmanns ökonomische Hormuz-Analyse ergänzt Schwerdtners politische Ökonomie: Doppeldiagnose deutscher Handlungsunfähigkeit
+- [[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]] — BPs Gewinnverdopplung Q1/2026 als empirischer Beleg für die geforderte Übergewinnsteuer.
+- [[Follow This — Die grüne Horzel in Big Oil]] — Follow This als komplementärer Ansatz zur Übergewinnsteuer: Transformation durch Aktionärsdruck statt Regulierung.
+- [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]] — Bürgerenergie als komplementärer Ansatz zur Übergewinnsteuer: strukturelle Demokratisierung statt nachträgliche Korrektur.
+- [[Maja Goepel — Mut zur Zukunft]] — Göpel zeigt, wie dezentrale Energieversorgung Agency freisetzen kann — das konstruktive Gegenstück zu Schwerdtners Krisendiagnose.
+
+- [[Michael Sterner — Energiewende-Studie und Reiche-Blockade]] — Sterner konkretisiert Schwerdtners Postpolitik-Diagnose: Das Ministerium versteckt aktiv Studien, die der eigenen Linie widersprechen. Beide konvergieren bei der Übergewinnsteuer als blockierter Lösung.

@@ -19,7 +19,7 @@ aliases:
 
 # MONITOR — Irankrieg und das Ende des Völkerrechts?
 
-Quelle: MONITOR studioM — WDR/ARD, aufgezeichnet 10.03.2026
+Quelle: [MONITOR studioM — WDR/ARD](https://www.youtube.com/watch?v=UW9QwrPSuP0), aufgezeichnet 10.03.2026
 
 > [!info] Wer spricht?
 > **Georg Restle** — Leiter MONITOR (WDR/ARD), moderiert. Kritisch-links, klar pro-Völkerrecht.
@@ -35,6 +35,9 @@ Quelle: MONITOR studioM — WDR/ARD, aufgezeichnet 10.03.2026
 
 ## Kontext: Was ist passiert?
 
+[▶ 2:23](https://www.youtube.com/watch?v=UW9QwrPSuP0&t=143)
+
+
 Am **28. Februar 2026** starteten die USA und Israel **„Operation Epic Fury"** — rund 900 Luftangriffe in 12 Stunden gegen Irans Militär, Luftabwehr, Atomprogramm und politische Führung.
 
 - **Khamenei getötet** — der Oberste Führer Ali Khamenei starb im ersten Angriffswellenrunde, als das Nationale Sicherheitsratsbüro getroffen wurde
@@ -48,6 +51,9 @@ Am **28. Februar 2026** starteten die USA und Israel **„Operation Epic Fury"**
 ## Der Diskurs
 
 ### Wie groß ist die Hoffnung auf Demokratie im Iran?
+
+[▶ 7:00](https://www.youtube.com/watch?v=UW9QwrPSuP0&t=420)
+
 
 **Mirzaei** ist nüchtern:
 
@@ -68,6 +74,9 @@ Die Bevölkerung ist traumatisiert — von den brutalen Niederschlagungen der Ja
 ---
 
 ### Ist der Angriff völkerrechtswidrig?
+
+[▶ 37:43](https://www.youtube.com/watch?v=UW9QwrPSuP0&t=2263)
+
 
 **Ambos** ist eindeutig: **Ja — ein klarer Völkerrechtsbruch.**
 
@@ -189,6 +198,9 @@ Hegseths Chaos-Kommunikation zum Iran-Krieg als innenpolitischer Spiegel des Vö
 ### → [[Zeitgeist/Herfried Münkler — Muss es Kriege geben]]
 Münkler liefert den strukturellen Erklärungsrahmen für das, was Ambos normativ beklagt: Kriege entstehen, wenn kein "Hüter der friedlichen Ordnung" existiert — die UNO als "Geschichte des Versagens". Der Iran-Krieg ist genau dieser Moment. Münkler ergänzt: Das Budapest-Memorandum-Versagen (Ukraine) hat die Nonproliferationslogik unterlaufen — was für den Iran-Kontext ebenfalls direkt relevant ist.
 
+### → [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE]]
+Sudan/El Fashir und Iran zeigen zwei Gesichter derselben Erosion internationaler Normen: das Völkerrecht als zahnloser Mechanismus, wenn Großmächte oder wohlhabende Mittelmächte wie die VAE strategische Interessen haben. Beide Notes kreisen um das strukturelle Versagen der Weltgemeinschaft.
+
 ### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 Derselbe Akteur — das Pentagon unter Hegseth — tritt im Iran-Krieg als militärische Gewalt auf und im Tooze-Fall als Erzwinger militärischer KI-Nutzung. Ambos beklagt den „Disregard" gegenüber internationalem Recht; Tooze zeigt, dass dieselbe Logik innenpolitisch gegen privatwirtschaftliche Akteure angewandt wird. Kein Recht, keine Verträge, keine Bedingungen — nur Macht.
 
@@ -240,3 +252,24 @@ Blumenthal/Hedges liefern die politische Architektur hinter dem Kriegsbeginn: Me
 
 ### → [[Zeitgeist/taz Reingehen — Wer das Öl hat, hat das Sagen]]
 Herrmann ergänzt MONITORs völkerrechtliche Analyse um die wirtschaftliche Druckmechanik: Die Hormus-Blockade ist nicht nur ein Kriegsakt — sie ist ein ökonomischer Hebel, der Trump zur Kapitulation zwingt. Warum rechtliche Normen scheitern, wenn die andere Seite die Energieversorgung kontrolliert.
+
+### → [[Konstantin Flemig — US-Seeblockade gegen Iran]]
+Flemig liefert das militärische Lagebild zur US-Seeblockade vom 13.04.2026: Blockade aller Schiffe in internationalen Gewässern, iranische Seeminen, brüchiger Waffenstillstand — und bestätigt MONITORs These: Völkerrecht ist zur Fußnote geworden, die niemanden mehr interessiert.
+
+### → [[Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz]]
+22 getötete Rotkreuz-Mitarbeitende in roten Schutzwesten sind der konkrete Beleg für MONITORs Kernthese: Die Erosion des Völkerrechts tötet Menschen, die auf Basis dieses Rechts glaubten, geschützt zu sein. Sudan und Iran-Krieg zeigen zwei Gesichter derselben Normzerstörung.
+
+- [[Helen Keller — Voelkerrecht zahnloser Tiger]] — Keller beantwortet die MONITOR-Kernfrage direkt: Das Völkerrecht ist nicht am Ende — aber es braucht mutigere Stellungnahmen der Staaten, um die regelbasierte Ordnung zu verteidigen.
+- [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]] — Die Nachrichtenlage der Episode thematisiert das EU-Schweigen zum Iran-Krieg — Spanien als einzige Ausnahme. Die völkerrechtliche Dimension, die MONITOR analysiert, bleibt auch hier unbeantwortet.
+- [[Bundestalk — Iran USA und die Strasse von Hormus]] — Bundestalk fokussiert Realpolitik statt Völkerrecht — komplementäre Perspektive auf denselben Hegemoniebruch
+- [[Torsten Heinrich — Was die Tagesschau verschweigt]] — Heinrichs Völkerrechts-Rahmen (Jus ad bellum vs. Jus in bello) lässt sich direkt auf MONITORs Iran-Analyse übertragen: Wo beginnt die Rechtswidrigkeit, und kann ein Staat innerhalb eines illegitimen Krieges noch legal handeln?
+- [[StreitClub — Europa allein zu Haus]] — StreitClub-Debatte über die Erosion des Völkerrechts durch Schweigen
+- [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Steinke analysiert Völkerrechtsverletzungen bei Waffenlieferungen nach Gaza und die juristische Doppelmoral der deutschen Regierung — dieselbe Erosion, die MONITOR beim Iran-Krieg dokumentiert
+
+### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]
+
+Der Nachfolgebeitrag: Während diese Note den Völkerrechtsbruch analysiert — *was* getan wird —, zeigt der neue Beitrag die Bereicherung — *warum* es getan wird. Zusammen ergibt sich das Bild eines Krieges, der als Geschäftsmodell funktioniert: Drohnen-Investments, Krypto-Deals, Insider-Wetten.
+
+### → [[Koschi Politik — TACO Tuesday, Operation Freedom abgesagt]]
+
+Reuters belegt: Der Krieg hat den Iran-Atomzeitrahmen nicht verändert (weiterhin 9–12 Monate). Die operative Sinnlosigkeit des Krieges — den MONITOR völkerrechtlich einordnet — wird hier empirisch bestätigt.

@@ -19,7 +19,7 @@ aliases:
 
 # Philip Manow — Autoritäre Zeiten: Die Macht der Wähler
 
-Quelle: Körber-Stiftung Hamburg, Auftaktveranstaltung der Reihe „Autoritäre Zeiten", aufgezeichnet März 2026
+Quelle: [Körber-Stiftung Hamburg — Auftaktveranstaltung „Autoritäre Zeiten"](https://www.youtube.com/watch?v=K94RUVrqjEU), aufgezeichnet März 2026
 
 > [!info] Wer spricht?
 > **Philip Manow** — Politikwissenschaftler, Professor für vergleichende politische Ökonomie und Demokratieforschung an der Universität Siegen; zuvor Konstanz, Heidelberg, Bremen; seit 2018 Mitglied der Berlin-Brandenburgischen Akademie der Wissenschaften. Bücher: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp) und demnächst *Spaltungslinien. Europas Parteiensysteme und die Dekonsolidierung des Nationalstaats*. Skeptisch gegenüber dem dominanten „autoritären Wende"-Diskurs — strukturell-ökonomische Erklärung statt Einstellungsdiagnose.
@@ -34,6 +34,9 @@ Quelle: Körber-Stiftung Hamburg, Auftaktveranstaltung der Reihe „Autoritäre 
 
 ## Kontext: Worum geht es?
 
+[▶ 0:21](https://www.youtube.com/watch?v=K94RUVrqjEU&t=21)
+
+
 Die Körber-Stiftung startet 2026 eine neue Veranstaltungsreihe „Autoritäre Zeiten", die der Frage nachgeht, warum autoritäre Ideen und Bewegungen in demokratischen Gesellschaften erstarken. Auftaktgast ist Philip Manow — bewusst gewählt als jemand, der den Standarddiskurs **nicht** teilt. Statt „autoritäre Einstellungen" und „Demokratiefeindschaft" als Haupterklärung zu akzeptieren, fragt er nach den strukturellen und ökonomischen Ursachen des Populismusaufstiegs.
 
 Zeitrahmen: Die Veranstaltung findet kurz nach dem Beginn des Irankrieges (28. Februar 2026) und unmittelbar nach der Landtagswahl Baden-Württemberg (8. März 2026) statt.
@@ -43,6 +46,9 @@ Zeitrahmen: Die Veranstaltung findet kurz nach dem Beginn des Irankrieges (28. F
 ## Der Diskurs
 
 ### Souveränitätsverlust → Protestwahl: Die strukturelle Diagnose
+
+[▶ 12:39](https://www.youtube.com/watch?v=K94RUVrqjEU&t=759)
+
 
 Manows Ausgangspunkt ist nicht Einstellung, sondern Kompetenz-Verschiebung:
 
@@ -58,6 +64,9 @@ Deshalb: Protestwahl ist **legitim** — ein rationales Signal, keine Pathologie
 
 ### Skepsis gegenüber dem „autoritären" Diskurs
 
+[▶ 19:31](https://www.youtube.com/watch?v=K94RUVrqjEU&t=1171)
+
+
 Manow hält den Begriff „autoritär" für eine **Abwertungsvokabel**, die Verständnis verhindert:
 
 > *„Das ist eine relativ krasse Abwertungsvokabel. Und vielleicht ist das selbst Teil der Polarisierung."*
@@ -69,6 +78,9 @@ Die Diagnose „Aufstieg des Autoritarismus" klingt merkwürdig, wenn die Einste
 ---
 
 ### Westdeutsche Demophobie vs. ostdeutsche Demokratieerfahrung
+
+[▶ 27:07](https://www.youtube.com/watch?v=K94RUVrqjEU&t=1627)
+
 
 Manow beschreibt einen fundamentalen Unterschied in Demokratieverständnissen:
 
@@ -83,6 +95,9 @@ Manow bezeichnet es als **besondere Tragik des deutschen Diskurses**, dass zwei 
 ---
 
 ### Rechtspopulisten als neue Arbeiterparteien
+
+[▶ 50:06](https://www.youtube.com/watch?v=K94RUVrqjEU&t=3006)
+
 
 Bei der BaWü-Landtagswahl 2026 wählten rund 55% der Arbeiter die AfD *(Faktencheck: s.u.)* — 5% die SPD. Der Schnitt lag damit sogar unter dem SPD-Gesamtergebnis von 5,4%.
 
@@ -126,6 +141,9 @@ Die frühere Koalition von Linken und Arbeitern — Bildungsexpansion der 70er, 
 
 ### Fukuyama — halb recht
 
+[▶ 55:25](https://www.youtube.com/watch?v=K94RUVrqjEU&t=3325)
+
+
 Manows unerwartete These: Fukuyama hatte *in gewisser Weise* Recht.
 
 Der **Kapitalismus** hat sich als einziges konkurrenzloses Wirtschaftssystem durchgesetzt — auch China. Es gibt keine Zentralverwaltungswirtschaft mehr (außer Nordkorea). Die **Demokratie** — als kollektive Selbstregierung — ist dagegen weniger eindeutig gesiebt: Putin hält Wahlen ab, Belarus auch. Autokratien imitieren demokratische Formen, weil Demokratie als Legitimationsprinzip konkurrenzlos ist.
@@ -147,6 +165,9 @@ Manow vermutet zudem eine strukturelle **Mittelschichtsverzerrung** in Bürgerr�
 ---
 
 ### Bildung als Erklärung — und seine Grenzen
+
+[▶ 85:07](https://www.youtube.com/watch?v=K94RUVrqjEU&t=5107)
+
 
 Ein Zuschauer plädiert für bessere politische Bildung als Lösung. Manow hält dagegen:
 
@@ -269,6 +290,9 @@ Das ist der Gegenpunkt zur rein formal-bildungsbürgerlichen Lösung. Das Proble
 ### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
 Mausfeld beschreibt, wie Eliten Meinungskorridore setzen und den Demos klein halten. Manow beschreibt die andere Seite derselben Realität: Die Gewinnerklasse ist Deutungsklasse. Beide analysieren strukturelle Asymmetrie — Mausfeld von der Medienseite, Manow von der Klassenstruktur her.
 
+### → [[Zeitgeist/Heinz Bude — Gesellschaft der Angst]]
+Bude diagnostiziert 2014 dieselbe Grundkonstellation wie Manow: Globalisierungsverlierer, illiberale Tendenzen, Misstrauensbewegungen. Beide warnen vor dem illiberalen Staat als wahrscheinlichere Gefahr als das Chaos.
+
 ### → [[Zeitgeist/Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]
 Manow zeigt, wie demokratische Bewegungen von rechts in autoritäre Strukturen kippen; Potter zeigt dasselbe Phänomen von links. Beide zusammen ergeben das vollständige Bild der autoritären Versuchung quer durchs politische Spektrum.
 
@@ -305,6 +329,9 @@ Manows Analyse des populistischen Reflexes gegen Globalisierung erklärt Trumps 
 ### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will]]
 Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblöcke zu mobilisieren, passt exakt auf Trumps Kalkül beim DHS-Shutdown: Das Flughafen-Chaos ist kein Fehler, sondern Mittel zum Zweck — der Save America Act als Wahlkampf mit staatlichen Mitteln.
 
+- [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Lehnerts „länger arbeiten, weniger Urlaub" illustriert Manows Öffnung/Schließung-Modell konkret
+- [[Clara Mattei — Geschichte der Austeritaetspolitik]] — Mattei erklärt die systematische Entmachtung der Arbeiterklasse durch industrielle Austerität
+
 ---
 
 ## Weiterführend
@@ -322,3 +349,11 @@ Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblö
 - [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Schwerdtners Postpolitik-Begriff illustriert Manows These: wenn Regierungen auf Krisen nur mit technokratischer Symbolpolitik reagieren, schließt sich der politische Raum — und öffnet sich für Populisten.
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — El-Mafaalani liefert die komplementäre Erklärungsebene: Manow erklärt die strukturellen Öffnungsverlierer, El-Mafaalani erklärt die Vergemeinschaftungsprozesse des Misstrauens, die diese Verlierer zu einer politischen Kraft machen.
 - [[Good News — Positive Nachrichten März 2026]] — EU-Mercosur und EU-Indien als Globalisierungsschübe mit Milliarden-Reichweite verschärfen Manows Öffnungs-Schließungs-Konflikt weiter — die Good-News-Perspektive auf exakt jene Dynamiken, die Manow als Populismus-Treiber analysiert
+- [[Martyna Linartas — Unverdiente Ungleichheit]] — Linartas ergänzt Manows Makrosoziologie um die Verteilungsebene: die "Öffnungsverlierer" entstehen strukturell durch Erbschafts- und Vermögensungleichheit, die soziale Mobilität blockiert
+
+- [[Helen Keller — Voelkerrecht zahnloser Tiger]] — Keller ergänzt Manows Innenperspektive auf Demokratieerosion um die Außendimension: Trump ist nicht nur Symptom einer gespaltenen Wählerschaft, sondern ein global wirksamer Rechtsstaatszerstörer — Manow erklärt den Aufstieg, Keller die institutionellen Folgen.
+- [[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz]] — Höfgens Reallohn- und Vermögensdaten liefern die materielle Grundlage für Manows These der materiellen Abstiegsängste als AfD-Treiber
+- [[MONITOR — Minijobs als Armutsfalle]] — Minijobber ohne Arbeitslosenschutz und Rentenansprüche sind exakt die „Abgehängten", deren Frustration in Manows Analyse autoritäre Wahlerfolge befeuert
+- [[Steffen Mau — Spaltung der Gesellschaft]] — Maus Triggerpunkte-Studie ergänzt Manows Wähleranalyse soziologisch: nicht die Gesellschaft ist gespalten, sondern gezielte Triggerpunkte erzeugen Erregungszustände, die Polarisierungsunternehmer in Wahlstimmen übersetzen
+- [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Mau liefert mit der Triggerpunkte-Theorie den Mikromechanismus zu Manows Makroanalyse des Rechtspopulismus: Wie genau Verunsicherung in Wählerverhalten übersetzt wird
+- [[Nico Semsrott — Bruessel sehen und sterben]] — Semsrotts EU-Parlamentsbericht ist ein Fallbeispiel für Manows „autoritären Drift im Gewand parlamentarischer Normalität": Die CDU/CSU nutzt ihre Mehrheitsposition nicht, um Regeln abzuschaffen, sondern um sie wirkungslos zu machen — schleichende Erosion der Kontrollmechanismen von innen

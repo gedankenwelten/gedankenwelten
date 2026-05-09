@@ -102,6 +102,9 @@ Fromm fand eine tiefe strukturelle Übereinstimmung zwischen Marx' Begriff der *
 > [!note] Eigene Einschätzung
 > Die Unterscheidung Haben/Sein ist bestechend einfach — und erklärt erschreckend viel. Warum kaufen Menschen Dinge, die sie nicht brauchen? Weil der Besitz das Gefühl gibt, *mehr zu sein*. Warum ist Lernen in der Schule oft so leblos? Weil es auf das Besitzen von Noten reduziert ist. Warum fühlen sich viele nach Erfolgserlebnissen seltsam leer? Weil der Erfolg im Haben-Modus sofort akkumuliert und abgehakt ist — aber keine lebendige Beziehung hinterlässt. Das Haben-Modell ist wie eine leere Trophäe: Es beweist, dass man gewonnen hat. Aber das Gefühl des Lebens — das war im Spiel, nicht in der Trophäe.
 
+> [!question] Weitergedacht
+> Fromm unterscheidet scharf zwischen Haben und Sein. Aber *gibt es ein gesundes Haben?* Braucht der Mensch ein Minimum an Besitz und Sicherheit, bevor Sein überhaupt möglich wird — oder ist das bereits die Logik des Systems, die sich ins Denken einschleicht?
+
 ---
 
 ## 3. Die Gesellschaft notorisch unglücklicher Menschen
@@ -204,6 +207,9 @@ Das christliche Ideal wurde vom Gewand des Christentums umhüllt — aber das Ge
 > [!note] Eigene Einschätzung
 > Das gesellschaftliche Unbewusste ist Fromms vielleicht originellster Beitrag. Es erklärt ein scheinbares Paradox: Wie können Menschen so vieles sehen — und gleichzeitig so wenig Konsequenzen ziehen? Die Antwort ist nicht Dummheit. Es ist organisierte Verdrängung: Dinge, die man weiß, aber *nicht wissen darf*, weil die Konsequenzen zu bedrohlich wären. Das ist heute genauso aktuell — Klimakrise, Ungleichheit, Demokratieabbau. Die Daten sind da. Das Wissen ist da. Aber kollektiv wird verdrängt, weil wirkliches Hinsehen das eigene Handeln verändern müsste.
 
+> [!question] Weitergedacht
+> Fromm sagt: Gesellschaften verdrängen kollektiv. Aber *wer profitiert von der Verdrängung — und wer organisiert sie?* Ist kollektive Verdrängung ein spontaner psychischer Mechanismus, oder wird sie durch Medien, Institutionen und Macht aktiv hergestellt? [[Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld]] würde sagen: hergestellt.
+
 ---
 
 ## 8. Die 2-Prozent-Chance — Fromms Haltung zur Hoffnung
@@ -234,6 +240,9 @@ Fromm ist nicht unbestreitbar. Drei echte Einwände:
 > [!note] Eigene Einschätzung
 > Marcuses Einwand ist ernst zu nehmen. Es gibt eine Gefahr beim Frommschen Humanismus: Man therapiert den Einzelnen ins Gleichgewicht, während die Strukturen unverändert bleiben. Aber Fromm selbst würde antworten: Strukturelle Änderung ohne innere Transformation ist leer — das hat die Sowjetunion bewiesen. Beide Ebenen sind notwendig. Die Frage ist, welche zuerst.
 
+> [!question] Weitergedacht
+> Fromm sagt: Der Mensch ist *grundsätzlich* zum Guten fähig — Destruktivität sei immer Ausdruck von Entfremdung. Aber *was, wenn das zu optimistisch ist?* Was, wenn es eine primäre Aggression gibt, die nicht Produkt der Gesellschaft ist? Wäre Fromms gesamtes System dann hinfällig — oder nur unvollständig?
+
 ---
 
 ## Verbindungen
@@ -247,6 +256,33 @@ Rosa's Mediopassiv (*„es hat mich berührt"*) = Fromms Sein-Modus. Man kann Re
 ### → [[Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 
 Hagemeyers Narzissmus ist der Haben-Modus in seiner psychopathologischen Reinform: Der Narzisst *ist*, was er darstellt, besitzt, kontrolliert. Seine innere Leere ist das direkte Ergebnis der Orientierung am Schein statt am Sein. Fromms gesellschaftliche Diagnose und Hagemeyers klinische Diagnose beschreiben dasselbe Phänomen auf verschiedenen Ebenen: Die Gesellschaft produziert Menschen, die ihre Identität aus Außenwirkung und Besitz beziehen — weil das die einzigen verfügbaren Währungen sind.
+
+### → [[Walther Ziegler — Sartre in 60 Minuten]]
+
+Sartre und Fromm teilen die Ablehnung des determinierten Menschen. Fromms Sein-Modus ist der aktive Selbstentwurf — Sartres Projekt der absoluten Freiheit. Der Unterschied: Fromm glaubt an eine menschliche Natur (das Bedürfnis nach Verbindung, Wachstum, Liebe), Sartre verneint jede vorgegebene Essenz. Fromm liefert die psychologische Theorie, Sartre die ontologische Begründung.
+
+### → [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
+"Escape from Freedom" (Flucht vor der Freiheit) ist Theoriebasis dieser Note über Elitenerziehung. Fromms autoritärer Charakter — Ohnmacht durch Dominanzausübung ersetzen — erhält hier eine strukturell-biographische Fundierung: Kontrolle als Ersatz für Bindungsfähigkeit, die durch Trauma nie entwickelt werden konnte.
+
+### → [[Walther Ziegler — Nietzsche in 60 Minuten]]
+
+Nietzsche's Kritik am Kapitalismus als falschem Gott ist Fromm in anderer Sprache: Wer seinen Selbstwert nach Reichtum und Besitz bemisst, hat den Wert einer Sache zum Götzen gemacht. Fromm's Haben-Modus ist genau das, was Nietzsche mit dem „Götzen Markt" meint. Beide fordern dasselbe: die Selbstverwirklichung (Sein-Modus / Übermensch) statt die Akkumulation.
+
+### → [[Heinz Bude — Gesellschaft der Angst]]
+
+Budes „schuldig werden an sich selbst" — die depressive Angst der Optionengesellschaft — ist Fromms Haben-Modus in seiner krisenhaften Zuspitzung. Wer sein Selbst über Status und Karriere definiert, verliert den inneren Kompass. Fromms marktorientierter Charakter erklärt Budes Null-Fehler-Generation.
+
+### → [[Walther Ziegler — Marx in 60 Minuten]]
+
+Marx liefert Fromms theoretisches Fundament: Der Haben-Modus ist die psychische Form der Mehrwertproduktion — die Kapitalakkumulation erzeugt Menschen, die ihren Wert nur noch über Besitz definieren. Fromms Entfremdungsbegriff stammt direkt aus Marx' *Ökonomisch-philosophischen Manuskripten*. Marx' Vision des „Reichs der Freiheit" — Arbeitszeitverkürzung, Selbstentfaltung als Selbstzweck — ist genau Fromms Sein-Modus in gesellschaftlicher Umsetzung.
+
+### → [[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]
+
+Leichtigkeit als Sein-Modus: Die Unbeschwertheit der 70er/80er war ein Moment vor der neoliberalen Haben-Orientierung.
+
+### → [[Hartwin Maas — Bildung NEU DENKEN]]
+
+Maas' Bildungskritik ist Fromm in Bildungspolitik übersetzt: Kognitives Outsourcing an KI ist Haben-Modus — ich habe das Ergebnis, ohne es erlebt zu haben. Echtes Lernen (Synapsenbildung durch Anstrengung) ist Sein-Modus — das Verstandene wird Teil meiner selbst. Adornos Halbbildung als "Todfeind echter Bildung" ist dieselbe Diagnose wie Fromms Analyse der Marktcharakter-Gesellschaft.
 
 ### → [[S.N. Goenka — Vipassana]]
 
@@ -272,6 +308,29 @@ Das kybernetische Datensubjekt ist Fromms *Haben*-Modus in Reinform: Der Mensch 
 
 Alys historische Analyse der NS-Zustimmung ergänzt Fromms Theorie der kollektiven Verdrängung: Fromm erklärt den psychologischen Mechanismus (Verdrängung aus Angst vor Konsequenzen), Aly erklärt die materiellen Anreize (Profitieren am System, Mitläufer-Rationalität). Beide enden beim selben Befund: Gewöhnliche Menschen tun Schreckliches, wenn das System es ermöglicht und das Wissen darum kollektiv verdrängt wird.
 
+### → [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]]
+
+Haidts Moral Foundations Theory beschreibt die psychologischen Kanäle (Loyalität, Autorität, Reinheit), über die Stammeslogik wirkt. Fromms Analyse des autoritären Charakters erklärt, *warum* manche Menschen diese Kanäle nicht selbst regulieren können: ihnen fehlt die innere Bezogenheit, die Eigenständigkeit ermöglicht. Haidt zeigt die Mechanik, Fromm zeigt die Charakterstruktur dahinter.
+
+### → [[Andreas Zimpel — Neurodiversität]]
+
+Fromm: Selbsteinschätzung als ehrlicher Blick auf das eigene Leben — statt der Maske des Zufriedenseins. Zimpel: Selbsteinschätzung ist der stärkste Faktor für Bildungserfolg. Beide betonen, dass das, was von innen kommt, echter ist als externe Bewertung — und beide diagnostizieren, dass das System diese innere Wahrheit unterdrückt: Fromm durch den Marktcharakter, Zimpel durch das Schulsystem.
+
+- [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Heinickes Sinnfluencer-Konsumkritik und Oyamadas Arbeitswelt-Entfremdung als zeitgenössische Varianten von Fromms Analyse
+- [[Clara Mattei — Geschichte der Austeritaetspolitik]] — Mattei zeigt, wie die neoklassische Ökonomie die „Haben"-Orientierung legitimiert — der Unternehmer als „tugendhafter Sparer"
+- [[Walther Ziegler — Rawls in 60 Minuten]] — Fromm fragt ob die Fixierung auf Güter selbst das Problem ist — Rawls fragt nur wie Güter verteilt werden sollen
+
+---
+
+## Weiterdenken
+
+> [!question] Was Aristoteles vielleicht gefragt hätte
+> - Fromm kritisiert den Haben-Modus — aber *ist Wissen nicht auch eine Form des Habens?* Wenn ich ein Buch lese und es „verstanden" habe — besitze ich dann eine Erkenntnis, oder lebe ich sie? Wo genau verläuft die Grenze zwischen Haben und Sein im intellektuellen Bereich?
+> - Die 2-Prozent-Chance als ethische Haltung: *Ab welchem Punkt wird Hoffnung zur Verdrängung?* Wenn die Chancen bei 0,01% liegen — ist Weiterkämpfen dann Verantwortung oder Selbstbetrug?
+> - Fromm, [[S.N. Goenka — Vipassana|Goenka]] und Marx sagen alle: Der Mensch muss sich von Anhaftung befreien. Aber *kann eine Gesellschaft ohne jede Anhaftung funktionieren?* Ist nicht auch Liebe — Fromms höchster Wert — eine Form der Bindung?
+> - Fromm sagt: Die Normalsten sind die Kränksten. *Aber wer diagnostiziert die Gesellschaft?* Wenn der Diagnostiker selbst in ihr lebt — kann er den Fisch im Wasser erkennen, während er selbst Fisch ist?
+> - Strukturwandel oder Bewusstseinswandel zuerst? *Gibt es historische Beispiele, wo innere Transformation gesellschaftlichen Wandel ausgelöst hat — ohne dass äußere Strukturen sich zuerst änderten?*
+
 ---
 
 ## Weiterführend
@@ -283,6 +342,25 @@ Alys historische Analyse der NS-Zustimmung ergänzt Fromms Theorie der kollektiv
 - Fromm: *Anatomie der menschlichen Destruktivität* (1973) — sein letztes großes wissenschaftliches Werk: reaktive vs. maligne Aggression; Grausamkeit nicht als Instinkt, sondern als Produkt einer zerstörerischen Gesellschaft
 - Fromm & D.T. Suzuki: *Zen-Buddhismus und Psychoanalyse* (1960) — die direkte Brücke zum östlichen Denken
 - Ernst Bloch: *Das Prinzip Hoffnung* — der religiös-atheistische Marxismus, auf den Fromm sich bezieht
+- [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] — Die Megayacht als reinste Verkörperung des Haben-Modus: Man besitzt nicht nur Dinge, sondern die Fähigkeit, dem Austausch mit der Welt zu entgehen. Osnos' Satz "the ultimate luxury good is not having to make compromises" ist Fromm ohne Theorie. Der Bunker als finales Haben-Objekt — man besitzt sogar die Zukunft.
 - [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Kehnel zeigt mittelalterliche Commons-Wirtschaft als historisches Gegenbild zur Haben-Gesellschaft; intergenerationelles Denken als Sein statt Quartalsdenken
 - [[Zeitgeist/Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Die Verbrenner-Lobby als Haben-Logik: Besitzstandswahrung verhindert strukturellen Wandel. Das Auto als Statussymbol — Fromms Entfremdung durch Warenbesitz im Alltag sichtbar
 - [[Zeitgeist/Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]] — Fromms „Flucht aus der Freiheit": Das Loosh-Narrativ bietet vollständige Welterklärung und kosmische Mission — Entlastung von autonomer Existenz als Entfremdungssymptom
+- [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Butterwegges Kritik am neoliberalen Leistungsbegriff (»Was rentiert sich?«) ist Fromms Haben-Modus im politischen Alltag: Gesellschaft, die nach Rendite fragt statt nach Würde
+- [[Denker/Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke]] — Schmitz/Maio zeigen den anthropologischen Kern dessen, was Fromm als psychologischen Habitus beschreibt: Der Mythos der Autarkie ist nicht nur neurotisch, er ist eine Fehldeutung des Menschseins. Fromms Haben-Modus als Selbstfestung entspricht exakt dem Autonomiemythos, den Maio kritisiert — Sein-Modus bedeutet Angewiesenheit zulassen.
+- [[Erich Fromm — Die Welt lieben, SRF 1979]] — Schwester-Note: Das 1979er Gespräch ist persönlicher und synthetischer — Fromm über Weltbürgertum, Prophet als Warner, Psychoanalyse-Krise und die Liebe zur Welt als biologische Grundlage des Lebens
+- [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]] — Bückers Zeitkultur-Kritik ist Fromms Haben-Modus für eine politische Agenda übersetzt: Zeit wird "optimiert" und "gefüllt" statt gelebt. Die Kolonialisierung der Freizeit durch Produktivitätsnormen (Sport für den Job, Filme wegen sozialer Pflicht) ist Haben-Modus im Freizeitsektor. Bückers Zeitwohlstand = Fromms Sein-Modus als gesellschaftliches Recht.
+- [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]] — Enders' Entspannungsphilosophie und KI-als-Befreiung berühren Fromms Kernunterscheidung Haben vs. Sein
+- [[Erich Fromm — Menschliches Wachstum]] — Der 1971er Vortrag als Vorstufe: Passiver Konsum vs. aktive Lebendigkeit, die Diagnose des „ewigen Säuglings" — fünf Jahre vor der systematischen Haben/Sein-Theorie
+- [[Walther Ziegler — Adorno in 60 Minuten]] — Fromm und Adorno teilten die Frankfurter Schule und die Kapitalismuskritik, aber Adorno hielt Fromms Glaube an die Liebesfähigkeit für naiv — im Verblendungszusammenhang kann niemand mehr richtig lieben. Fromm setzt auf den Ausweg, Adorno auf die Diagnose
+- [[Walther Ziegler — Heidegger in 60 Minuten]] — Fromms Haben/Sein-Dualismus als alltagssprachliche Übersetzung von Heideggers Uneigentlichkeit/Eigentlichkeit
+- [[Walther Ziegler — Smith in 60 Minuten]] — Smiths rationales Eigeninteresse als Ursprung des pathologischen Haben-Modus
+- [[Gerald Huether — Lebendigkeit und das Ende der Hierarchien]] — Hüther beschreibt aus der Neurobiologie, was Fromm psychoanalytisch fasst: Was Fromm *Haben-Modus* nennt, nennt Hüther *Verwicklung* — kurzfristige Ich-Lösungen, die langfristig das Leben versauen. Beide setzen ein anderes Existenz-Prinzip dagegen: Fromm den Sein-Modus, Hüther das *Gelingen* statt Erfolg und die *Lebendigkeit*.
+- [[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]] — BPs fossile Gewinnmaximierung als Haben-Modus in Reinform — Follow This als Versuch, Sein einzufordern.
+- [[Follow This — Die grüne Horzel in Big Oil]] — Van Baals Divestment-Kritik als Fromm in Reinform: Wer verkauft, gibt Handlungsmacht ab. Bleiben und kämpfen ist Sein-Modus.
+- [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]] — Energiegenossenschaft als gelebter Sein-Modus: Förderung der Mitglieder statt Gewinnmaximierung.
+- [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Buddhistischer Parallelbefund zu Fromms Seins-Modus: Loslassen von Anhaftungen als aktive Lebenshaltung in der Welt
+- [[Markus Gabriel — Ethischer Kapitalismus]] — Gabriel diagnostiziert dieselbe Verdinglichung wie Fromm, fragt aber, wie der Sein-Modus ökonomisch rational werden kann — Fromm hielt das innerhalb des Kapitalismus für unmöglich
+- [[Walther Ziegler — Camus in 60 Minuten]] — Fromms „produktive Orientierung" und Camus' Revolte treffen sich: Beide fordern, im Konkreten Werte zu schaffen, ohne einem übergeordneten System zu folgen. Aber Fromm glaubt an eine menschliche Natur (das Bedürfnis nach Verbindung) — Camus nicht
+- [[Walther Ziegler — Konfuzius in 60 Minuten]] — Fromms Seins-Orientierung spiegelt Konfuzius' Ren-Konzept: Liebe als aktive Praxis, nicht als Besitz. Beide sehen Mitmenschlichkeit als Tätigkeit, die den Anderen braucht — nicht als Zustand, den man „hat"
+- [[Walther Ziegler — Freud in 60 Minuten]] — Fromms Gesellschaftspsychologie ist ohne Freud undenkbar — und gleichzeitig eine direkte Kritik. Während Freud den Charakter aus libidinösen Fixierungen ableitet, setzt Fromm das *soziale Unbewusste* dagegen: Beziehungsstrukturen, nicht Triebe, formen die Psyche.

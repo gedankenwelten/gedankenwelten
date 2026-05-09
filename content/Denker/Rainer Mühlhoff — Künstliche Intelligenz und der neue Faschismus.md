@@ -217,7 +217,7 @@ Die eigentliche Frage ist eine andere: Wie viel Staatsmacht hat sich die Industr
 
 ## Verbindungen
 
-- [[Denker/Francesca Bria — The Authoritarian Stack]] — Brias Studie ist Mühlhoffs explizite Hauptreferenz für die These der Staatsübernahme durch Tech; Mühlhoff referiert sie als Kurzfassung seiner eigenen These. Bria liefert die Datenbasis: 250+ Akteure, $45Mrd Finanzflüsse, fünf Domänen privatisierter Souveränität
+- [[Denker/Francesca Bria — The Authoritarian Stack]] — Brias Studie ist Mühlhoffs explizite Hauptreferenz für die These der Staatsübernahme durch Tech; Mühlhoff referiert sie als Kurzfassung seiner eigenen These. Bria liefert die Datenbasis: 250+ Akteure, \$45Mrd Finanzflüsse, fünf Domänen privatisierter Souveränität
 - [[Andreas Kemper — Technofaschismus und die AfD]] — direkter thematischer Zwilling: Kemper analysiert Technofaschismus von der AfD-Seite, Mühlhoff von der Silicon-Valley-Seite; zusammen ergibt sich das Gesamtbild
 - [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — von Redecker und Mühlhoff teilen die Diagnose eines strukturellen Neofaschismus; von Redecker aus politisch-philosophischer, Mühlhoff aus tech-kritischer Perspektive
 - [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Nosthoff analysiert, wie kybernetisches Denken Staatslogik untergräbt; direkte historische Vorgeschichte zu Mühlhoffs Desouveränisierungs-These
@@ -228,3 +228,6 @@ Die eigentliche Frage ist eine andere: Wie viel Staatsmacht hat sich die Industr
 - [[Manfred Spitzer — KI, Gehirn und Lernen]] — beide analysieren KI-Auswirkungen: Mühlhoff politisch/strukturell, Spitzer neurowissenschaftlich/pädagogisch; Spitzers Kritik an KI in der Schule wird durch Mühlhoffs Diagnose staatlicher Schul-Privatisierung politisch gerahmt
 - [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas Beschleunigungskritik als Parallele: das System, das exponentiell wächst, muss Demokratie und Resonanz gleichermaßen eliminieren
 - [[Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck analysiert die ökonomische Basis des Rechtsrucks; Mühlhoff zeigt, wie Tech-Kapital diese Basis aktiv verstärkt und ideologisch ausnutzt
+- [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] — Mühlhoffs Analyse in Echtzeit: KI als Instrument autoritärer Machterhaltung, erstmals von einem amtierenden EU-Regierungschef im Wahlkampf eingesetzt — nicht Zukunftsszenario, sondern April 2026
+- [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Vivian Wangs China-KI-Analyse im NZ-Salon: Staatsvertrauen als KI-Vertrauen — bestätigt Mühlhoffs autoritäre KI-These
+- [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung fordert: KI-Monopole müssen vergesellschaftet werden — LLMs basieren auf kollektivem Wissen, dürfen nicht privatisiert sein

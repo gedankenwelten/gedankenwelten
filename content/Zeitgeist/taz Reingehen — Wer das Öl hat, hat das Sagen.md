@@ -21,6 +21,9 @@ aliases:
 
 Quelle: [Wer das Öl hat, hat das Sagen — Podcast Reingehen](https://www.youtube.com/watch?v=m2ktiuohK_s)
 
+> [!tip] Redaktion unterstützen
+> Die *taz* ist spendenfinanziert und genossenschaftlich organisiert — unabhängiger Journalismus ohne Konzerninteressen. Unterstützenswert: [taz.de/genossenschaft](https://taz.de/die-taz-genossenschaft/!t5145360/)
+
 > [!info] Wer spricht?
 > **Ulrike Herrmann** (*1964, Hamburg*) — Wirtschaftskorrespondentin bei der taz (seit 2000). Ausbildung zur Bankkauffrau, Henri-Nannen-Journalistenschule, Studium Geschichte und Philosophie an der FU Berlin. Kernthese: Wachstum und Klimaschutz sind unvereinbar — sie plädiert für ein „grünes Schrumpfen". Bücher: *Deutschland, ein Wirtschaftsmärchen* (2019), *Das Ende des Kapitalismus* (2022), *Geld als Waffe* (2026). Auszeichnungen: Keynes-Gesellschaft Preis (2015), Otto-Brenner-Preis Spezial (2019). Regelmäßig in Talkshows — erklärt komplexe Zusammenhänge ungewöhnlich direkt.
 >
@@ -194,14 +197,82 @@ Ein Boykott von Bangladesch-Produkten hilft nicht — er würde nur Arbeitsplät
 
 ## Verbindungen
 
-- [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — direkte Parallele: beide analysieren fossile Abhängigkeit als geopolitischen Hebel; Kemfert aus Energiewendeperspektive, Herrmann aus machtpolitischer
-- [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschning und Herrmann kommen zu ähnlichen Schlüssen über Ölpreisschocks, aber Herrmann legt den Fokus auf geopolitische Machtasymmetrien statt Klimaschutz
-- [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]] — vertieft die geopolitische Einordnung des Iran-Konflikts, die Herrmann hier ökonomisch beschreibt
-- [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]] — Herrmanns These (Trump in der Öl-Falle) ergänzt die politisch-strategische Analyse der PhoenixRunde
-- [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — historischer und gesellschaftlicher Kontext des Iran, den Herrmanns Strukturanalyse voraussetzt
-- [[MONITOR — Irankrieg und das Ende des Völkerrechts]] — rechtliche Dimension des Konflikts, den Herrmann wirtschaftlich einordnet
-- [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Frickes These: wirtschaftliche Not stärkt Rechte — Herrmanns Szenario einer Iran-induzierten Rezession schreibt diese Logik weiter
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — strukturelle Parallele: beide zeigen, wie wirtschaftliche Fehlkalkulationen politisch destabilisieren
-- [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]] — methodisch verwandt: Rohstoffe als geopolitische Hebel — Öl und Soja als parallele Fallstudien
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — die Aushöhlung des Lieferkettengesetzes folgt dem gleichen Muster: Lobbyismus untergräbt Schutzgesetze
-- [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — die systematische Nicht-Strafverfolgung von Gewalt am Arbeitsplatz (wie im Fall Begum) ist Teil der gesellschaftlichen Verrohung, die Heitmeyer beschreibt
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+
+direkte Parallele: beide analysieren fossile Abhängigkeit als geopolitischen Hebel; Kemfert aus Energiewendeperspektive, Herrmann aus machtpolitischer
+
+### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Quaschning und Herrmann kommen zu ähnlichen Schlüssen über Ölpreisschocks, aber Herrmann legt den Fokus auf geopolitische Machtasymmetrien statt Klimaschutz
+
+### → [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
+
+vertieft die geopolitische Einordnung des Iran-Konflikts, die Herrmann hier ökonomisch beschreibt
+
+### → [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
+
+Herrmanns These (Trump in der Öl-Falle) ergänzt die politisch-strategische Analyse der PhoenixRunde
+
+### → [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
+
+historischer und gesellschaftlicher Kontext des Iran, den Herrmanns Strukturanalyse voraussetzt
+
+### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
+
+rechtliche Dimension des Konflikts, den Herrmann wirtschaftlich einordnet
+
+### → [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+
+Frickes These: wirtschaftliche Not stärkt Rechte — Herrmanns Szenario einer Iran-induzierten Rezession schreibt diese Logik weiter
+
+### → [[Heiner Flassbeck — Krise und Rechtsruck]]
+
+strukturelle Parallele: beide zeigen, wie wirtschaftliche Fehlkalkulationen politisch destabilisieren
+
+### → [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
+
+methodisch verwandt: Rohstoffe als geopolitische Hebel — Öl und Soja als parallele Fallstudien
+
+### → [[Norio — Kupferschiefer-Mine in der Lausitz]]
+
+Kupfer-Importabhängigkeit als dritte Rohstoff-Verwundbarkeit: gleiche Grundthese „Ressourcenkontrolle = Macht", andere Ressource, selbes strukturelles Problem
+
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+die Aushöhlung des Lieferkettengesetzes folgt dem gleichen Muster: Lobbyismus untergräbt Schutzgesetze
+
+### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+
+die systematische Nicht-Strafverfolgung von Gewalt am Arbeitsplatz (wie im Fall Begum) ist Teil der gesellschaftlichen Verrohung, die Heitmeyer beschreibt
+
+### → [[Konstantin Flemig — US-Seeblockade gegen Iran]]
+
+Flemig zeigt die Hormus-Eskalation in Echtzeit: US-Seeblockade, 102 USD/Barrel Brent, Düngemittelengpass — die konkrete Materialisierung von Herrmanns These, dass Öl Macht bedeutet
+
+### → [[Konstantin Flemig — Sudan Massaker el Fashir und die VAE]]
+
+Die Goldader Sudans spiegelt das Prinzip dieser Note direkt: Wer die Rohstoffe kontrolliert, formt die Geopolitik — die VAE-Beteiligung an der RSF ist kein humanitäres Versagen, sondern ressourcenpolitisches Kalkül (Gold-Exporte fast verdoppelt seit Kriegsbeginn)
+
+### → [[Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz]]
+
+Johnen beschreibt die humanitäre Konsequenz der Rohstofflogik: 1,5 Milliarden Euro Nothilfe, weil politische Akteure keine Waffenstillstandsinteressen haben — Ressourcenkontrolle und humanitäres Versagen sind zwei Seiten derselben Kalkulation
+
+### → [[Die Neuen Zwanziger — Salon Lektueren Februar 2026]]
+
+Im Februar-Salon kritisieren Schmitt/Schulz Herrmanns Buch „Geld als Waffe" fundamental: Die Ablenkungsthese widerspricht ihrer eigenen Hormus-Analyse aus dieser Note
+
+### → [[Markus Reisner — Strasse von Hormus fragil]]
+
+Militärisches Gegenstück: Wer Energierouten kontrolliert, kann sie auch asymmetrisch angreifen
+
+### → [[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]]
+
+BP Q1/2026: Konkreter Gewinn-Beleg für die hier analysierte Hormus-Blockade und Öl als Machtinstrument.
+
+### → [[Follow This — Die grüne Horzel in Big Oil]]
+
+Follow This stellt die Gegenfrage: Was passiert mit der Ölmacht, wenn die Nachfrage sinkt?
+
+### → [[taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
+
+Gleicher Podcast, andere Perspektive: Beide Reingehen-Episoden zeigen wie globale Machtstrukturen auf das Leben Einzelner durchschlagen — Öl als geopolitisches Instrument, ICE als innenpolitisches. Und wie lokale Bevölkerungen das schweigend normalisieren.

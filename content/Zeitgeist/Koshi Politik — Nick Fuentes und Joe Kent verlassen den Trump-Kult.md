@@ -30,6 +30,9 @@ Quelle: [Nick Fuentes, Joe Kent — und das Ende des Personenkults](https://www.
 
 ### Die große Freude: Nick Fuentes und Joe Kent
 
+[▶ 13:24](https://www.youtube.com/watch?v=eAgxjKZ4W3g&t=804)
+
+
 **Joe Kent** (ehemaliger Trump-Verbündeter, trat zurück) äußert sich bei Tucker Carlson: Trump ist voll auf Schild — nicht mehr alle Tassen im Schrank.
 
 **Nick Fuentes** — Sprachrohr der jungen weißen Rechten, größte Trump-Zustimmungsgruppe:
@@ -114,3 +117,6 @@ Die Fatwa-Information war bekannt. Der Krieg wurde trotzdem geführt. Das ist da
 
 ### → [[Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]
 Heinisch: Trump verliert innenpolitisch — dieser Moment ist der Kulminationspunkt: selbst die eigene Wählergruppe (junge weiße Männer, Nick Fuentes) dreht sich gegen ihn.
+
+### → [[Nachtsitzung — Trumps Machtbasis bricht zusammen]]
+Biersky nutzt Nick Fuentes' Abkehr als zentrales Beispiel für den Kollaps der Influencer-Ebene in seiner Pyramiden-Analyse — diese Note liefert die strukturelle Einordnung dieses Moments.

@@ -27,6 +27,9 @@ aliases:
 
 Quelle: [Iran-Forscherin Diba Mirzaei zum Irankrieg & zur Geschichte — Jung & Naiv: Folge 815](https://www.youtube.com/watch?v=RgL4bAh8YoM)
 
+> [!tip] Kanal unterstützen
+> *Jung & Naiv* ist spendenfinanziert und werbefrei — einer der wichtigsten deutschsprachigen Interview-Podcasts. Unterstützenswert: [jungundnaiv.de/mitglied-werden](https://www.jungundnaiv.de/mitglied-werden/)
+
 > [!info] Wer spricht?
 > **Diba Mirzaei** ist Politikwissenschaftlerin und Iran-Forscherin am GIGA-Institut Hamburg (German Institute for Global and Area Studies) sowie Doktorandin an der Universität Hamburg. Ihre Dissertation analysiert Irans Außenpolitik gegenüber Saudi-Arabien unter dem Schah (1968–1979) — Frage: Wie autonom war der Schah gegenüber den USA? Zuvor arbeitete sie im Deutschen Auswärtigen Amt (Humanitäre Hilfe, 2018–2020) und war Zahedi Family Fellow an der Stanford University (Herbst 2025). Iranische Wurzeln, in Hamburg aufgewachsen. Bezeichnet sich selbst lieber als „Forscherin" denn als „Expertin" — weil Forschen fundiertere Selbstdaten bedeutet als bloße Sprechfähigkeit.
 
@@ -87,6 +90,9 @@ Mirzaei: Das Narrativ war nicht erfunden — die westliche Unterstützung für d
 
 ### Die nukleare Frage und westliche blinde Flecken
 
+[▶ 85:25](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=5125)
+
+
 **Nuklearfreie Zone:** Mirzaei hält eine nuklearfreie Zone am Persischen Golf / Nahen Osten für das langfristig richtige Ziel — war auch deutsche Haltung. Aber: Das erfordert, Israels Atombewaffnung (das offene Geheimnis) anzusprechen. Die Bundesregierung drückt sich darum.
 
 **Doppelstandards:** Sicherheit darf nicht nur für einen Staat gedacht werden. Langfristige Sicherheit — auch für Israel — entsteht durch regionale Kooperationsstrukturen, nicht durch Hegemonie. Vorstellung: eine Sicherheitsorganisation wie die KSZE/OSZE für den Nahen Osten, an der auch Iran und Israel teilnähmen.
@@ -104,6 +110,9 @@ Mirzaei: Das Narrativ war nicht erfunden — die westliche Unterstützung für d
 ---
 
 ### Pahlavi Junior: Drei kritische Fragen
+
+[▶ 209:06](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=12546)
+
 
 Am Ende des Interviews nennt Mirzaei drei Fragen, die sie Reza Pahlavi stellen würde:
 
@@ -157,19 +166,84 @@ Methodisch wertvoll: Ihre Unterscheidung zwischen *Forschen* (Selbstdaten sammel
 
 ## Verbindungen
 
-- [[MONITOR — Irankrieg und das Ende des Völkerrechts]] — Mirzaei war auch dort Gesprächspartnerin; direkte Ergänzung zu Kai Ambos' Völkerrechtsperspektive
-- [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]] — aktuelle Kriegsdynamik, Rolle der USA und Eskalationskontrolle
-- [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]] — komplementär: Heinisch aus US-Innenpolitik-Sicht, Mirzaei aus iranisch-historischer
-- [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]] — beide behandeln Nuklearfrage, Sicherheitsdilemma und israelische Atomwaffen
-- [[Herfried Münkler — Muss es Kriege geben]] — Mirzaeis Kriegsanalyse berührt Münklers Fragen nach Kriegslogik und postheroischer Sicherheitspolitik
-- [[Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]] — Iran-Krieg und Völkerrechtsfragen
+### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
+
+Mirzaei war auch dort Gesprächspartnerin; direkte Ergänzung zu Kai Ambos' Völkerrechtsperspektive
+
+### → [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
+
+aktuelle Kriegsdynamik, Rolle der USA und Eskalationskontrolle
+
+### → [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]
+
+komplementär: Heinisch aus US-Innenpolitik-Sicht, Mirzaei aus iranisch-historischer
+
+### → [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
+
+beide behandeln Nuklearfrage, Sicherheitsdilemma und israelische Atomwaffen
+
+### → [[Herfried Münkler — Muss es Kriege geben]]
+
+Mirzaeis Kriegsanalyse berührt Münklers Fragen nach Kriegslogik und postheroischer Sicherheitspolitik
+
+### → [[Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+
+Iran-Krieg und Völkerrechtsfragen
+
 - [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
-- [[Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]] — Iran-Fluchtnarrative verbinden sich mit Mirzaeis Diaspora-Perspektive
-- [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — beide Jung-&-Naiv-Folgen; Redeckers Phantombesitz-Begriff anschlussfähig an IRGC-Regime
-- [[Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kempers Klerikalfaschismus-Typologie direkt auf die Islamische Republik anwendbar
-- [[Hannah Arendt — Denken ohne Geländer]] — Mirzaeis Auseinandersetzung mit Diaspora und institutionellem Versagen schließt an Arendts Denken über Staatenlosigkeit an
-- [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschning zeigt, warum die Straße von Hormus ein so mächtiges Druckmittel ist: 20% der weltweiten Ölproduktion. Mirzaeis Iran-Expertise liefert den geopolitischen Rahmen für Quaschnings Energieanalyse.
-- [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]] — Fathollah-Nejad (CMEG) bestätigt Mirzaeis Einschätzung: Iran als strategischer Sieger, Regime geschwächt aber nicht gebrochen, 80% Ablehnung in der Bevölkerung. Jäger/Reinicke ergänzen mit Bodentruppen-Szenarien und Golfstaaten-Analyse.
-- [[Zeitgeist/Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]] — Blumenthal/Hedges analysieren die US-Innenpolitik hinter dem Kriegsbeginn (Mega Group, Kushner, Netanyahu-Lobby). Ergänzt Mirzaeis historische Iran-Perspektive um die amerikanische Lobby-Dimension — mit starkem Quellenvorbehalt.
-- [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — STAIY liefert aktuelles Lagebild (25.03.2026): Spott des iranischen Militärs, 15-Punkte-Plan, Bodentruppen-Eskalation. Bestätigt Mirzaeis These: Iran fühlt sich stark genug, Verhandlungen auf US-Bedingungen abzulehnen.
-- [[taz Reingehen — Wer das Öl hat, hat das Sagen]] — Herrmanns ökonomische Analyse bestätigt Mirzaeis Befund: Iran ist militärisch schwach, aber durch Hormus-Kontrolle strategisch stark — Mirzaei liefert die historische Tiefe, Herrmann die wirtschaftliche Mechanik
+
+### → [[Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+
+Iran-Fluchtnarrative verbinden sich mit Mirzaeis Diaspora-Perspektive
+
+### → [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
+
+beide Jung-&-Naiv-Folgen; Redeckers Phantombesitz-Begriff anschlussfähig an IRGC-Regime
+
+### → [[Andreas Kemper — Faschismen im 21. Jahrhundert]]
+
+Kempers Klerikalfaschismus-Typologie direkt auf die Islamische Republik anwendbar
+
+### → [[Hannah Arendt — Denken ohne Geländer]]
+
+Mirzaeis Auseinandersetzung mit Diaspora und institutionellem Versagen schließt an Arendts Denken über Staatenlosigkeit an
+
+### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Quaschning zeigt, warum die Straße von Hormus ein so mächtiges Druckmittel ist: 20% der weltweiten Ölproduktion. Mirzaeis Iran-Expertise liefert den geopolitischen Rahmen für Quaschnings Energieanalyse.
+
+### → [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
+
+Fathollah-Nejad (CMEG) bestätigt Mirzaeis Einschätzung: Iran als strategischer Sieger, Regime geschwächt aber nicht gebrochen, 80% Ablehnung in der Bevölkerung. Jäger/Reinicke ergänzen mit Bodentruppen-Szenarien und Golfstaaten-Analyse.
+
+### → [[Zeitgeist/Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]]
+
+Blumenthal/Hedges analysieren die US-Innenpolitik hinter dem Kriegsbeginn (Mega Group, Kushner, Netanyahu-Lobby). Ergänzt Mirzaeis historische Iran-Perspektive um die amerikanische Lobby-Dimension — mit starkem Quellenvorbehalt.
+
+### → [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+
+STAIY liefert aktuelles Lagebild (25.03.2026): Spott des iranischen Militärs, 15-Punkte-Plan, Bodentruppen-Eskalation. Bestätigt Mirzaeis These: Iran fühlt sich stark genug, Verhandlungen auf US-Bedingungen abzulehnen.
+
+### → [[taz Reingehen — Wer das Öl hat, hat das Sagen]]
+
+Herrmanns ökonomische Analyse bestätigt Mirzaeis Befund: Iran ist militärisch schwach, aber durch Hormus-Kontrolle strategisch stark — Mirzaei liefert die historische Tiefe, Herrmann die wirtschaftliche Mechanik
+
+### → [[Koschi Politik — Trump GAGA auf FOX und Hormuz-Blockade (15.04.2026)]]
+
+Koschis Kommentar zur US-Seeblockade ab 13.04.2026: Manuels "Piraterie"-Einordnung braucht Mirzaeis historischen Unterbau — warum der Iran so reagiert und was das über jahrzehntelange US-Feindbilder aussagt
+
+### → [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]]
+
+Haberman/Swans Rekonstruktion der Situation-Room-Sitzungen ergänzt Mirzaeis historische Perspektive um die US-Entscheidungsmechanik: Wie Trump in 22 Minuten den Angriffsbefehl gab
+
+### → [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]]
+
+NZ-Salon zieht Parallelen zwischen Venezuela-Regime-Change und Iran — ergänzt die historische Einordnung
+
+### → [[Bundestalk — Iran USA und die Strasse von Hormus]]
+
+El-Gawhary bestätigt Mirzaeis Prognosen: Iran pokert rational, Golfstaaten diversifizieren, US-Hegemonie am Ende
+
+### → [[Natalie Amiri — Hoelle auf Erden im Iran]]
+
+Amiri liefert die aktuelle Innensicht zur Lage 2026: Internet-Blackout, Übergang zur Militärdiktatur, wirtschaftliche Katastrophe. Ergänzt Mirzaeis historische Einordnung mit Echtzeitbeobachtungen.

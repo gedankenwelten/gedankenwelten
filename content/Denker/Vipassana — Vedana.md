@@ -122,3 +122,5 @@ Neurowissenschaftliche Bestätigung: Damasio zeigt, dass Entscheidungen immer so
 ### → [[S.N. Goenka — Vipassana]]
 
 Vedanā ist die operative Mitte der gesamten Technik. [[Vipassana — Anicca|Anicca]] wird durch Vedanā erfahren. [[Vipassana — Sankara|Sankhāra]] entsteht durch Reaktion auf Vedanā. [[Vipassana — Upekkha|Upekkha]] ist die richtige Haltung gegenüber Vedanā.
+
+- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis

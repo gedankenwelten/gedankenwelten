@@ -31,12 +31,18 @@ Quelle: [Die drei Musketiere des Iran-Krieges](https://www.youtube.com/watch?v=f
 
 ### Der Widerspruch am Anfang
 
+[▶ 0:47](https://www.youtube.com/watch?v=fHcBSoruMow&t=47)
+
+
 **Caroline Levitt** (Pressesprecherin des Weißen Hauses):
 > *„Eine Bedrohung vom Iran gegen unser Heimatland existiert nicht und hat auch nie existiert."*
 
 Das FBI hatte die Bevölkerung zuvor gewarnt, der Iran könne Racheanschläge mit Drohnen und Raketen durchführen. Die Pressesprecherin widerspricht dem eigenen FBI — während man gleichzeitig gegen den Iran Krieg führt, der angeblich wegen dieser Bedrohung geführt wird.
 
 ### Steven Miller — die Quittungen
+
+[▶ 3:06](https://www.youtube.com/watch?v=fHcBSoruMow&t=186)
+
 
 **Steven Miller im Interview 2026:** Jubiliert über die „größte einseitige Vernichtung in der Geschichte der Welt" — Marine, Raketen, Führungsstrukturen.
 
@@ -57,12 +63,18 @@ Auf die Frage nach dem Team:
 
 ### Trump und Genetik
 
+[▶ 9:21](https://www.youtube.com/watch?v=fHcBSoruMow&t=561)
+
+
 Trump auf einer Pressekonferenz:
 > *„Die Leute, die reinkommen, die sind einfach schlecht. Deren Gene sind einfach nicht das, was deine Gene z.B. sind oder meine Gene."*
 
 Koshi: Trump hat jetzt laut ausgesprochen, was längst klar war — es geht nicht um Kriminalität, nicht um illegalen Status, sondern um **Gene**. Das ist biologischer Rassismus.
 
 ### Pete Hegseth: Medienkritik und Kontrolle
+
+[▶ 11:43](https://www.youtube.com/watch?v=fHcBSoruMow&t=703)
+
 
 Hegseth bei der Pentagon-Pressekonferenz:
 - Rügt CNN und andere Medien für „negative" Berichterstattung
@@ -76,6 +88,9 @@ Hegseth bei der Pentagon-Pressekonferenz:
 - Übernahme von Warner Bros./Discovery in Vorbereitung → würde bedeuten: **CNN, HBO, Max, DC Comics, Harry Potter, TikTok, Comedy Central**
 
 ### Pete Hegseth: Straße von Hormuz — Wortsalat
+
+[▶ 14:01](https://www.youtube.com/watch?v=fHcBSoruMow&t=841)
+
 
 Auf die Frage, warum die USA trotz militärischer Überlegenheit die Schiffe nicht eskortieren:
 > *„We plan for it. We recognize it. Because ultimately we want to do it sequentially [...] shaping operations and setting conditions. Foolish political leaders will hang an exact deadline on it."*
@@ -136,8 +151,15 @@ MONITOR analysiert den Rechtsrahmen; Koshi zeigt die Akteure und ihre Widersprü
 ### → [[Zeitgeist/Koshi Politik/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]]
 Direkte Fortsetzung: Was passiert, wenn Hormuz nicht geöffnet werden kann und die NATO nicht hilft?
 
+### → [[Koschi Politik — Weißes Haus löscht Trumps Privatvideo]]
+Das Privatvideo zeigt die Entscheidungslogik der Musketiere in der Praxis: Militärbudget +40 %, Kongress-Umgehung bei der Bildungspolitik, Krieg finanziert durch Sozialabbau — alles ohne demokratische Legitimation.
+
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 Kemper: Faschismus als Kontrolle über Information und Infrastruktur. Hegseths Forderung nach CNN-Übernahme durch Trump-freundliche Milliardäre ist ein direktes Beispiel.
 
 ### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Trumps Aussage über „schlechte Gene" von Migranten — Hagemeyer: Narzissmus konstruiert eine biologische Überlegenheit gegenüber dem Anderen, um die eigene Größenfantasie zu stabilisieren.
+
+### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]
+
+Hegseths Rolle als Kriegsminister bekommt hier eine finanzielle Dimension: 1,1 Milliarden Dollar Drohnen-Budget, an dem die Trump-Söhne über drei Firmenbeteiligungen mitverdienen. Die Musketiere führen nicht nur ideologisch Krieg — sie profitieren direkt finanziell davon.

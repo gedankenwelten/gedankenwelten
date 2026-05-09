@@ -212,3 +212,455 @@ Filtered out 0 files in 312μs
 Emitting files
 Emitted 873 files to `public` in 30s
 Done processing 112 files in 38s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 55ms
+Found 112 input files from `content` in 30ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 246μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 38s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 53ms
+Found 112 input files from `content` in 30ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 242μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 38s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 80ms
+Found 112 input files from `content` in 27ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 7s
+Filtered out 0 files in 300μs
+Emitting files
+Emitted 873 files to `public` in 29s
+Done processing 112 files in 37s
+npm notice
+npm notice New minor version of npm available! 11.11.0 -> 11.12.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.12.1
+npm notice To update run: npm install -g npm@11.12.1
+npm notice
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 35ms
+Found 112 input files from `content` in 29ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 254μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 38s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 54ms
+Found 112 input files from `content` in 30ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 245μs
+Emitting files
+Emitted 873 files to `public` in 29s
+Done processing 112 files in 37s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 106ms
+Found 112 input files from `content` in 29ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 265μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 38s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 51ms
+Found 112 input files from `content` in 29ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 246μs
+Emitting files
+Emitted 873 files to `public` in 29s
+Done processing 112 files in 37s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 88ms
+Found 112 input files from `content` in 28ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 338μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 38s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 58ms
+Found 112 input files from `content` in 30ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 279μs
+Emitting files
+Emitted 873 files to `public` in 31s
+Done processing 112 files in 39s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 56ms
+Found 112 input files from `content` in 29ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 239μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 38s
+npm notice
+npm notice New minor version of npm available! 11.11.0 -> 11.13.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.13.0
+npm notice To update run: npm install -g npm@11.13.0
+npm notice
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 71ms
+Found 112 input files from `content` in 27ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 246μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 37s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 53ms
+Found 112 input files from `content` in 32ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 267μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 37s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 56ms
+Found 112 input files from `content` in 29ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 264μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 38s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 70ms
+Found 112 input files from `content` in 26ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 239μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 38s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 74ms
+Found 112 input files from `content` in 35ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 256μs
+Emitting files
+Emitted 873 files to `public` in 31s
+Done processing 112 files in 39s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 53ms
+Found 112 input files from `content` in 30ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 261μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 38s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 83ms
+Found 112 input files from `content` in 27ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 250μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 39s
+npm notice
+npm notice New minor version of npm available! 11.11.0 -> 11.13.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.13.0
+npm notice To update run: npm install -g npm@11.13.0
+npm notice
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 87ms
+Found 112 input files from `content` in 27ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 267μs
+Emitting files
+Emitted 873 files to `public` in 31s
+Done processing 112 files in 39s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 64ms
+Found 112 input files from `content` in 29ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 260μs
+Emitting files
+Emitted 873 files to `public` in 31s
+Done processing 112 files in 39s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 62ms
+Found 112 input files from `content` in 29ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 258μs
+Emitting files
+Emitted 873 files to `public` in 31s
+Done processing 112 files in 39s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 92ms
+Found 112 input files from `content` in 25ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 274μs
+Emitting files
+Emitted 873 files to `public` in 31s
+Done processing 112 files in 39s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 64ms
+Found 112 input files from `content` in 29ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 263μs
+Emitting files
+Emitted 873 files to `public` in 31s
+Done processing 112 files in 40s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 80ms
+Found 112 input files from `content` in 28ms
+Parsing input files using 1 threads
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+Parsed 112 Markdown files in 8s
+Filtered out 0 files in 264μs
+Emitting files
+Emitted 873 files to `public` in 30s
+Done processing 112 files in 38s

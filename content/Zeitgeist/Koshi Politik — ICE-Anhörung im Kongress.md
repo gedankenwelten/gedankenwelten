@@ -27,6 +27,9 @@ Quelle: [ICE Bosse werden GEGRILLT! Anhörung gerät völlig aus den Fugen!](htt
 
 ### DHS-Struktur
 
+[▶ 0:02](https://www.youtube.com/watch?v=RTU_TeCoT9M&t=2)
+
+
 Das **Department of Homeland Security (DHS)** unter Secretary **Christi Noem** umfasst:
 - **CBP** — Customs and Border Protection (Grenzkontrolle)
 - **ICE** — Immigration and Customs Enforcement
@@ -35,6 +38,9 @@ Das **Department of Homeland Security (DHS)** unter Secretary **Christi Noem** u
 - **Coast Guard** — Küstenwache
 
 ### Racial Profiling — "Gezielte Operationen"
+
+[▶ 2:26](https://www.youtube.com/watch?v=RTU_TeCoT9M&t=146)
+
 
 ICE behauptet, nur "gezielte Operationen" durchzuführen. In der Anhörung wird die Definition von "gezielt" hinterfragt: Tausende Videos zeigen ICE-Agents, die Menschen auf offener Straße und an Highway-Checkpoints nach ihrer Staatsbürgerschaft fragen — ohne konkreten Verdacht, nur aufgrund von Erscheinungsbild und Akzent.
 
@@ -80,6 +86,14 @@ Ein Kongressmitglied fordert Lines auf zurückzutreten: Er habe eine ehrenvolle 
 
 ## Verbindungen
 
-- [[Zeitgeist/Koshi Politik/Koshi Politik — ICE, Palantir und der Überwachungsstaat]] — technologische Ausstattung derselben Behörde
-- [[Zeitgeist/Koshi Politik/Koshi Politik — DHS-Shutdown: Keine Einigung]] — tags darauf läuft das DHS-Budget aus
-- [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]] — Maskierung, Anonymität, fehlende Rechenschaftspflicht als strukturelle Merkmale des neuen Autoritarismus
+### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE, Palantir und der Überwachungsstaat]]
+
+technologische Ausstattung derselben Behörde
+
+### → [[Zeitgeist/Koshi Politik/Koshi Politik — DHS-Shutdown: Keine Einigung]]
+
+tags darauf läuft das DHS-Budget aus
+
+### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+
+Maskierung, Anonymität, fehlende Rechenschaftspflicht als strukturelle Merkmale des neuen Autoritarismus

@@ -34,6 +34,9 @@ Quelle: [Neue Führung, neue Tote, MAGA bricht weg](https://www.youtube.com/watc
 
 ### Weitere amerikanische Tote
 
+[▶ 1:34](https://www.youtube.com/watch?v=HcM8Iso48-c&t=94)
+
+
 **2 weitere US-Soldaten** bestätigt vom US Central Command:
 - **Major Sifide Davius** aus Queens, New York — starb in Kuwait, nicht-kampfbedingter Vorfall, wird untersucht
 - Major Davius diente auch beim NYPD und der New Yorker Feuerwehr
@@ -67,6 +70,9 @@ Pete Hegseth bei 60 Minutes: „Wir sind uns allem bewusst, wir haben die beste 
 - Russland hilft dem Iran dabei, Amerikaner zu töten
 
 ### Demokraten scheitern politisch
+
+[▶ 11:01](https://www.youtube.com/watch?v=HcM8Iso48-c&t=661)
+
 
 Das MSNow-Panel kritisiert: Demokraten (Schumer, Jeffries) bringen nur **prozedurale Einwände** — „Trump hätte Kongress fragen müssen" — anstatt die moralische Kernbotschaft zu liefern:
 
@@ -128,5 +134,15 @@ Heinisch analysiert denselben innenpolitischen Erosionsprozess aus österreichis
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 Die Russland-Dimension ergänzt den MONITOR-Beitrag: Der Iran-Krieg ist eingebettet in eine größere Achse Iran-Russland-Ukraine.
 
+### → [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
+Flemig zeigt die Ukraine-Seite derselben Achse: Während der Iran-Krieg Russlands Öleinnahmen kurzfristig stützt, ist die russische Wirtschaft strukturell auf dem Weg zur Iranisierung — Isolation, Abhängigkeit, technologischer Rückstand.
+
 ### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Trumps „Not at all" auf die Frage, ob ihn die Toten erschüttern — Hagemeyer: fehlende Empathie als narzisstisches Kernsymptom. Nicht Stärke, sondern emotionale Abschottung.
+
+### → [[Koschi Politik — Hochmut vor dem Fall: Iran trifft Trump]]
+Manuel zeigt am 13.04.2026 den nächsten MAGA-Riss: Komplettes Schweigen von Hegseth, JD Vance, Rubio und Kayleigh McEnany nach den Flugzeugverlusten — während Trump selbst nur einen Post absetzte.
+
+### → [[Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]]
+Staiy kommentiert am 12.04.2026 das Ende der Islamabad-Verhandlungen: JD Vance reist ohne Deal ab — parallel zu den MAGA-Rissen, die hier analysiert werden.
+- [[Gerdes — Ukraine Zelensky wird staerker]] — Gerdes ergänzt die Gegenrichtung: Trumps sinkender Wert für Moskau und Chodorkowskis „System ohne Bremsen" zeigen, dass Russlands Manövrierspielraum schrumpft — während beide Notes Russland als Hintergrund-Akteur analysieren

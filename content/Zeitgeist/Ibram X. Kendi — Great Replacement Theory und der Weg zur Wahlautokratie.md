@@ -33,6 +33,9 @@ Quelle: ['This Is the Same Idea Hitler Pushed' — Ibram X. Kendi on MAGA Politi
 
 ## 1. Was ist die Great Replacement Theory?
 
+[▶ 2:18](https://www.youtube.com/watch?v=7gdxmcg3JCg&t=138)
+
+
 Die **Great Replacement Theory (GRT)** ist eine politische Verschwörungstheorie mit Wurzeln im europäischen Rechtsextremismus. Ihr Kern:
 
 - **Globale Eliten** (in der Originalfassung: jüdische Eliten) ermöglichen systematisch die Verdrängung weißer Bevölkerungen durch Menschen of Color
@@ -50,6 +53,9 @@ Die Theorie ist kein Selbstzweck — sie ist ein **Machtinstrument**: Wer die Le
 
 ## 2. Gewalttaten als direkte Folge
 
+[▶ 5:23](https://www.youtube.com/watch?v=7gdxmcg3JCg&t=323)
+
+
 GRT ist nicht nur Rhetorik. Kendi und Hasan benennen explizit:
 
 - **Tree of Life Synagoge, Pittsburgh (2018):** Täter glaubte, die Hebrew Immigration Society (HIAS) bringe bewusst Einwanderer ins Land, um weiße Christen zu ersetzen — und erschoss 11 Menschen
@@ -61,6 +67,9 @@ GRT ist nicht nur Rhetorik. Kendi und Hasan benennen explizit:
 ---
 
 ## 3. Vom Rand in den Mainstream
+
+[▶ 8:26](https://www.youtube.com/watch?v=7gdxmcg3JCg&t=506)
+
 
 **Der entscheidende Schritt: GRT wurde TV-Unterhaltung.**
 
@@ -97,6 +106,9 @@ GRT verbindet ökonomischen Schmerz mit vorhandenen rassistischen, islamophoben 
 
 ## 5. Der Rassenkern — es geht nicht um Immigration
 
+[▶ 9:11](https://www.youtube.com/watch?v=7gdxmcg3JCg&t=551)
+
+
 Ein zentrales Argument des Interviews:
 
 > *„It's not just about immigration because you don't fear being replaced by white people."*
@@ -111,6 +123,9 @@ Kendi: Man muss präziser sein — nicht „Einwanderer" werden dämonisiert, so
 ---
 
 ## 6. Wahlautokratie — das politische Ziel
+
+[▶ 12:15](https://www.youtube.com/watch?v=7gdxmcg3JCg&t=735)
+
 
 Kendi zieht eine direkte Linie von GRT zur **Wahlautokratie**:
 
@@ -127,6 +142,9 @@ GRT bringt Menschen dazu, **ihrer eigenen Beherrschung zuzustimmen** — in dem 
 
 ## 7. Die NS-Parallele
 
+[▶ 14:32](https://www.youtube.com/watch?v=7gdxmcg3JCg&t=872)
+
+
 Kendi zieht den historischen Vergleich explizit:
 
 > *„This is the same idea that Hitler pushed about Jews — that these people were alien to the nation and that there was this global conspiracy for Jews to destroy the nation. [...] That is precisely what these Great Replacement politicians are pushing now."*
@@ -142,6 +160,9 @@ Eine traurige Ironie: Teile der jüdisch-republikanischen Rechten (Laura Loomer,
 ---
 
 ## 8. Hoffnung — Verstehen als Befreiung
+
+[▶ 19:04](https://www.youtube.com/watch?v=7gdxmcg3JCg&t=1144)
+
 
 Kendis persönliche Erfahrung mit der Frage nach Hoffnung:
 
@@ -174,6 +195,9 @@ Verstehen als Voraussetzung für Handeln: Wenn das Haus überflutet wird und man
 ---
 
 ## Weiterführende Quellen
+
+[▶ 19:49](https://www.youtube.com/watch?v=7gdxmcg3JCg&t=1189)
+
 
 *Aus der Video-Beschreibung:*
 
@@ -218,3 +242,12 @@ Kemper klassifiziert die verschiedenen Faschismen der Gegenwart (Klerikalfaschis
 ### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 
 Heitmeyer analysiert gesellschaftliche Verrohung als Klimawandel der Menschenwürde. GRT ist der Ideologiemotor dieser Verrohung: Wenn eine ganze Gruppe als Gefahr, als Invasoren, als Replacers gilt, verlieren diese Menschen ihren moralischen Schutzstatus. Kendi und Heitmeyer beschreiben zwei Seiten desselben Prozesses.
+
+### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
+Kendi beschreibt den Weg zur Wahlautokratie als Projekt; Navidi zeigt, wo dieses Projekt ankommt: Midterms-Manipulation, mögliche Wahlaussetzung unter Kriegsvorwand, Internierungslager für 100.000. Aus Kendis Prognose wird Navidis Bestandsaufnahme.
+- [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] — Empirischer Beleg für Kendis Wahlautokratie-These: Ein amtierender EU-Regierungschef setzt erstmals systematisch KI-Fakes ein, um demokratische Wahlen zu untergraben
+- [[StreitClub — Europa allein zu Haus]] — Rubinos Zivilisationsnarrativ als europäische Variante des Great-Replacement-Framings
+
+### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]
+
+MONITORs Recherche zeigt den ökonomischen Motor der Wahlautokratie, die Kendi als politisches Projekt beschreibt: Wenn die Präsidentschaft so profitabel ist — 1,4 Milliarden Vermögenszuwachs in einem Jahr —, wird die Perpetuierung der Macht zum finanziellen Imperativ. Kleptokratie als Selbsterhaltungsmechanismus der Autokratie.

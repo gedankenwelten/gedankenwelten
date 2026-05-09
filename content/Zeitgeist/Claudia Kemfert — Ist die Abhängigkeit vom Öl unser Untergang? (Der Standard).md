@@ -31,6 +31,9 @@ Quelle: [Ist die Abhängigkeit vom Öl unser Untergang? | Claudia Kemfert](https
 
 ### Die größte fossile Energiekrise aller Zeiten
 
+[▶ 0:49](https://www.youtube.com/watch?v=aeSqJvlhE8s&t=49)
+
+
 IEA-Chef Fatih Birol warnt vor der **größten Energiekrise seit Jahrzehnten** — Kemfert geht weiter: Es ist die fundamentalste fossile Energiekrise, die wir je erlebt haben. Gleichzeitig sind Öl, Gas, Lieferketten und Landwirtschaft betroffen — eine Dimension, die frühere Ölkrisen (1970er, Ukraine-Gaskrise) nicht hatten.
 
 Für Europa: höhere Preise, mehr Volatilität, Inflationsdruck — auch ohne direkte Versorgungsunterbrechungen.
@@ -73,11 +76,17 @@ Kemfert: *"Wenn wir dieses Geld in die Alternativen investieren würden, würde 
 
 ### Fossil = Droge, Mensch = Junkie
 
+[▶ 10:45](https://www.youtube.com/watch?v=aeSqJvlhE8s&t=645)
+
+
 Kemferts zentrales Bild für unsere Situation: Fossilenergie ist eine **fundamentale Droge**. Die Gesellschaft ist der Abhängige. Und alle, die fossile Energie verbilligen — Politiker, Lobbyisten, Subventionsempfänger — sind die **Dealer**, die den Junkie am Tropf halten.
 
 Der Weg raus: **Kalter Entzug** — aber abgefedert durch ein **Methadonprogramm** (gezielte Förderung der Alternativen). Clean sein ist das Ziel. Wir sind es noch nicht.
 
 ### Das Versagen der deutschen Autoindustrie
+
+[▶ 18:20](https://www.youtube.com/watch?v=aeSqJvlhE8s&t=1100)
+
 
 Kemfert hat vor 20+ Jahren öffentlich vor Autokonzernmanagern für Elektromobilität plädiert — und wurde verlacht. Das Ergebnis:
 
@@ -96,6 +105,9 @@ Kombination: Solar auf dem Dach + E-Auto + Heimspeicher + Smart Meeter = **Prosu
 
 ### Kernkraft: Nein — aus vier Gründen
 
+[▶ 34:59](https://www.youtube.com/watch?v=aeSqJvlhE8s&t=2099)
+
+
 Auf Von der Leyens Behauptung, der Atomausstieg sei ein Fehler gewesen:
 
 1. **Grundlast-Problem**: Atomkraft läuft durch — in einem System mit viel Erneuerbarer braucht man aber *Flexibilität*, nicht Grundlast. Atomkraft kann man nicht schnell hoch- und runterfahren.
@@ -106,6 +118,9 @@ Auf Von der Leyens Behauptung, der Atomausstieg sei ein Fehler gewesen:
 **Small Modular Reactors (SMRs)**: "Technologieoffenheit" als politische Ausrede zur Verzögerung wirksamer Lösungen. IEA: frühestens ab 2040–2050. Extrem teuer, kein Beitrag zur kurzfristigen Lösung.
 
 ### Die Lösung: Heimische Friedenstechnologien
+
+[▶ 37:17](https://www.youtube.com/watch?v=aeSqJvlhE8s&t=2237)
+
 
 Kemferts Fazit: Die **billigste Energie der Zukunft ist nicht fossil**, sondern heimische Erneuerbare.
 
@@ -165,19 +180,118 @@ Und: Erneuerbare Energien sind **Friedenstechnologien** — sie entziehen uns de
 
 ## Verbindungen
 
-- [[Mario Buchinger — Lügen der Kernenergie (2▸6) Kernenergie und Erneuerbare]] — Buchinger zeigt empirisch, warum Kernkraft und Erneuerbare nicht kompatibel sind; Kemfert bestätigt dasselbe aus ökonomischer Sicht: Grundlast vs. Flexibilität
-- [[Mario Buchinger — Lügen der Kernenergie (3▸6) Kernenergie ist wirtschaftlich]] — Buchinger widerlegt die Wirtschaftlichkeit, Kemfert ergänzt: Erneuerbare sind schon heute billiger als neue Atomkraftwerke
-- [[Mario Buchinger — Lügen der Kernenergie (6▸6) Neue Reaktorgenerationen]] — SMRs als Zukunftsversprechen: Kemfert und Buchinger kommen unabhängig zum selben Schluss — IEA erst 2040–2050, extrem teuer, keine kurzfristige Lösung
-- [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Von der Leyens "Renaissance der Kernenergie" trifft auf Kemferts Analyse: Die wirtschaftliche und systemische Realität widerspricht dem politischen Narrativ vollständig
-- [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschnings und Kemferts Analyse greifen ineinander: Quaschning zur Preisentwicklung und Konzerngewinnen; Kemfert zu den strukturellen Fehlanreizen fossiler Subventionen und warum Preisdämpfung die falsche Antwort ist
-- [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]] — Der Iran-Krieg ist der direkte Auslöser dieser Energiekrise: Kemfert analysiert die energiepolitischen Folgen (Hormuz, Ölpreis, Abhängigkeit), die Runde analysiert die geopolitischen
-- [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Fricke: Inflation als Populismus-Treiber; Kemfert: Fossile Energiekrisen produzieren Inflationsschocks. Beide zeigen: Wer die fossile Abhängigkeit nicht beendet, befeuert auch den Rechtsruck
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck analysiert die makroökonomischen Abhängigkeiten; Kemfert die energiepolitische Dimension: Fossile Energieimporte sind ein permanentes Transferproblem, das Volkswirtschaften destabilisiert
-- [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Schwerdtner fordert die konkreten politischen Eingriffe, die Kemferts Struktur-Diagnose impliziert: Übergewinnsteuer, Energiekrisengeld, Vergesellschaftung. Kemfert liefert die Ursachenanalyse, Schwerdtner den Handlungsrahmen.
-- [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — STAIY berichtet über Bodentruppen-Pläne zur Sicherung der Straße von Hormus — der konkrete Eskalationspunkt, für den Kemferts Energieabhängigkeits-Analyse den Rahmen liefert
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Reiches Pläne verlängern die fossile Abhängigkeit aktiv: Ein verlangsamter Ausbau der Erneuerbaren ist direkt das, was Kemfert als gefährlichste politische Entscheidung beschreibt.
-- [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]] — Öl wie Soja sind geopolitische Hebel: wer Produktion kontrolliert, kontrolliert Politik — strukturell dasselbe Abhängigkeitsmuster in zwei Rohstoffsektoren.
-- [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] — Konkrete Ausstiegspfade aus der fossilen Abhängigkeit: Großbardorf (kommunale Energieautarkie), B Energy (Biogas für Afrika), Solarlaternen (dezentrale Versorgung ohne Netz)
-- [[Good News — Positive Nachrichten März 2026]] — China und Indien 2025 erstmals seit 1973 gleichzeitig mit weniger Kohle: direkte empirische Antwort auf Kemferts Kernthese der fossilen Abhängigkeit
-- [[taz Reingehen — Wer das Öl hat, hat das Sagen]] — Ulrike Herrmann ergänzt Kemferts Energieperspektive um die machtpolitische Dimension: Iran und Russland nutzen fossile Ressourcen als geopolitische Waffe — Kemfert zeigt den Ausstiegspfad, Herrmann die Kosten des Zögerns
-- [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] — Felix liefert die Investorenperspektive zu Kemferts volkswirtschaftlicher Diagnose: 81 Mrd. €/Jahr fossile Importe, Speicher als heimische Wertschöpfung — beide zeigen denselben Ausweg aus der Abhängigkeit
+### → [[Mario Buchinger — Lügen der Kernenergie (2▸6) Kernenergie und Erneuerbare]]
+
+Buchinger zeigt empirisch, warum Kernkraft und Erneuerbare nicht kompatibel sind; Kemfert bestätigt dasselbe aus ökonomischer Sicht: Grundlast vs. Flexibilität
+
+### → [[Mario Buchinger — Lügen der Kernenergie (3▸6) Kernenergie ist wirtschaftlich]]
+
+Buchinger widerlegt die Wirtschaftlichkeit, Kemfert ergänzt: Erneuerbare sind schon heute billiger als neue Atomkraftwerke
+
+### → [[Mario Buchinger — Lügen der Kernenergie (6▸6) Neue Reaktorgenerationen]]
+
+SMRs als Zukunftsversprechen: Kemfert und Buchinger kommen unabhängig zum selben Schluss — IEA erst 2040–2050, extrem teuer, keine kurzfristige Lösung
+
+### → [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Von der Leyens "Renaissance der Kernenergie" trifft auf Kemferts Analyse: Die wirtschaftliche und systemische Realität widerspricht dem politischen Narrativ vollständig
+
+### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Quaschnings und Kemferts Analyse greifen ineinander: Quaschning zur Preisentwicklung und Konzerngewinnen; Kemfert zu den strukturellen Fehlanreizen fossiler Subventionen und warum Preisdämpfung die falsche Antwort ist
+
+### → [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
+
+Der Iran-Krieg ist der direkte Auslöser dieser Energiekrise: Kemfert analysiert die energiepolitischen Folgen (Hormuz, Ölpreis, Abhängigkeit), die Runde analysiert die geopolitischen
+
+### → [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+
+Fricke: Inflation als Populismus-Treiber; Kemfert: Fossile Energiekrisen produzieren Inflationsschocks. Beide zeigen: Wer die fossile Abhängigkeit nicht beendet, befeuert auch den Rechtsruck
+
+### → [[Heiner Flassbeck — Krise und Rechtsruck]]
+
+Flassbeck analysiert die makroökonomischen Abhängigkeiten; Kemfert die energiepolitische Dimension: Fossile Energieimporte sind ein permanentes Transferproblem, das Volkswirtschaften destabilisiert
+
+### → [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
+
+Schwerdtner fordert die konkreten politischen Eingriffe, die Kemferts Struktur-Diagnose impliziert: Übergewinnsteuer, Energiekrisengeld, Vergesellschaftung. Kemfert liefert die Ursachenanalyse, Schwerdtner den Handlungsrahmen.
+
+### → [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+
+STAIY berichtet über Bodentruppen-Pläne zur Sicherung der Straße von Hormus — der konkrete Eskalationspunkt, für den Kemferts Energieabhängigkeits-Analyse den Rahmen liefert
+
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+Reiches Pläne verlängern die fossile Abhängigkeit aktiv: Ein verlangsamter Ausbau der Erneuerbaren ist direkt das, was Kemfert als gefährlichste politische Entscheidung beschreibt.
+
+### → [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
+
+Öl wie Soja sind geopolitische Hebel: wer Produktion kontrolliert, kontrolliert Politik — strukturell dasselbe Abhängigkeitsmuster in zwei Rohstoffsektoren.
+
+### → [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]
+
+Konkrete Ausstiegspfade aus der fossilen Abhängigkeit: Großbardorf (kommunale Energieautarkie), B Energy (Biogas für Afrika), Solarlaternen (dezentrale Versorgung ohne Netz)
+
+### → [[Good News — Positive Nachrichten März 2026]]
+
+China und Indien 2025 erstmals seit 1973 gleichzeitig mit weniger Kohle: direkte empirische Antwort auf Kemferts Kernthese der fossilen Abhängigkeit
+
+### → [[taz Reingehen — Wer das Öl hat, hat das Sagen]]
+
+Ulrike Herrmann ergänzt Kemferts Energieperspektive um die machtpolitische Dimension: Iran und Russland nutzen fossile Ressourcen als geopolitische Waffe — Kemfert zeigt den Ausstiegspfad, Herrmann die Kosten des Zögerns
+
+### → [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+
+Felix liefert die Investorenperspektive zu Kemferts volkswirtschaftlicher Diagnose: 81 Mrd. €/Jahr fossile Importe, Speicher als heimische Wertschöpfung — beide zeigen denselben Ausweg aus der Abhängigkeit
+
+### → [[Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
+
+Konkrete Technologie, die Kemferts Diagnose beantwortet: kein Öl, kein Import, Energie aus dem Boden — und gleichzeitig CO₂-Entsorgung. Ein Ausweg, der zwei Krisen gleichzeitig adressiert.
+
+### → [[Norio — Kupferschiefer-Mine in der Lausitz]]
+
+Kupfer-Importabhängigkeit als strukturell identisches Problem neben Öl: 1,3 Mio. t/Jahr, null Primärförderung — der EU Critical Raw Materials Act als verspätete Antwort auf Kemferts Grunddiagnose
+
+### → [[Good News — Gute Nachrichten April 2026]]
+
+Das Nordsee-Energienetz (10 Länder, 11 Mrd. $, 100 GW bis 2050) liefert den empirischen Beweis für Kemferts normatives Argument: Russlands Invasion beschleunigt Energieautonomie schneller als Klimaargumente — fossile Abhängigkeit ist jetzt auch sicherheitspolitisch nicht mehr vertretbar.
+
+### → [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]]
+
+IEA-Chef warnt: 6 Wochen Kerosin für Europa — Kemferts Warnung vor fossiler Abhängigkeit wird Realität
+
+### → [[Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
+
+Flassbeck analysiert Ölpreise als Nachfrageentzug — die makroökonomische Konsequenz von Kemferts struktureller Abhängigkeitsdiagnose. Was Kemfert als Versorgungsrisiko beschreibt, wird bei Flassbeck zum Konjunkturkiller.
+
+### → [[Bundestalk — Iran USA und die Strasse von Hormus]]
+
+Empirische Bestätigung der Fossilokratie-These: 20% Öl blockiert, Europa hilflos, Herrmann fordert denselben Ausweg wie Kemfert
+
+### → [[Markus Reisner — Strasse von Hormus fragil]]
+
+Konkreter Eskalationsfall für Kemferts abstrakte Warnung: 6 Monate Minenräumung = akute europäische Versorgungskrise
+
+### → [[Presseclub — Reiches Energiewende]]
+
+Presseclub diskutiert Reiches Gaskraftwerk-Strategie: genau der fossile Lock-in, vor dem Kemfert warnt
+
+### → [[Daniel - Weidel beim Schwurblertreff AWEF]]
+
+Weidels Fossil-zuerst-Agenda beim AWEF als Gegenposition zu Kemferts Analyse
+
+### → [[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]]
+
+BPs Krisengewinne zeigen die konkrete Konsequenz der hier beschriebenen strukturellen Ölabhängigkeit.
+
+### → [[Follow This — Die grüne Horzel in Big Oil]]
+
+Follow This versucht, die strukturelle Ölabhängigkeit von innen aufzubrechen — Shareholder Activism als Transformationshebel.
+
+### → [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
+
+Bürgerenergie als systematische Auflösung der strukturellen Ölabhängigkeit — jede Genossenschaft ist ein Stück weniger Dependenz.
+
+### → [[Natalie Amiri — Hoelle auf Erden im Iran]]
+
+Kemferts Warnung vor Energieabhängigkeit wird durch Amiri konkret: Iran sitzt auf Ölreserven, kann aber nicht liefern — Hormus-Blockade als Realitätscheck.

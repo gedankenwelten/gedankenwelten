@@ -33,6 +33,9 @@ Die Republikaner schieben die Verantwortung den Demokraten zu. Koshi hält dageg
 
 ### Das Muster: Persönliche Gegenstände verschwinden
 
+[▶ 0:01](https://www.youtube.com/watch?v=6PwIPqiFXeg&t=1)
+
+
 Zunehmend melden sich Menschen, die von ICE **fälschlicherweise** in Abschiebehaft genommen und dann freigelassen wurden — mit einer übereinstimmenden Aussage: Ihre persönlichen Gegenstände wurden nicht zurückgegeben.
 
 Darunter: Handys, Bargeld, Bankkarten, Führerschein, **Aufenthaltsgenehmigungen und Green Cards**.
@@ -74,7 +77,16 @@ Koshi beschreibt die Konsequenz: Wer seine Green Card verloren hat, traut sich n
 
 ## Verbindungen
 
-- [[Zeitgeist/Koshi Politik/Koshi Politik — DHS-Shutdown: Keine Einigung]] — der Shutdown im Kontext, der dieses Video produziert
-- [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Whistleblower packt aus]] — strukturelle Grundlage: Behörde ohne Rechenschaftspflicht
+### → [[Zeitgeist/Koshi Politik/Koshi Politik — DHS-Shutdown: Keine Einigung]]
+
+der Shutdown im Kontext, der dieses Video produziert
+
+### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Whistleblower packt aus]]
+
+strukturelle Grundlage: Behörde ohne Rechenschaftspflicht
+
 - [[Zeitgeist/Trump DHS-Shutdown und ICE an Flughäfen]] → [[Zeitgeist/Koshi Politik/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]] — Endpunkt der Serie: Trump schickt ICE an Flughäfen
-- [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Cipolla: Der Böse schadet anderen zum eigenen Vorteil. Dieses Muster — Wegnehmen von Besitz ohne Konsequenzen — ist genau das: nicht Dummheit, sondern kalkulierter Schaden.
+
+### → [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+
+Cipolla: Der Böse schadet anderen zum eigenen Vorteil. Dieses Muster — Wegnehmen von Besitz ohne Konsequenzen — ist genau das: nicht Dummheit, sondern kalkulierter Schaden.

@@ -30,6 +30,9 @@ Quelle: [Truth Social Folge 14: Trump nach der State of the Union](https://www.y
 
 ### Der Tag danach: Trump ist abgetaucht
 
+[▶ 0:02](https://www.youtube.com/watch?v=8tdgkj5Q83g&t=2)
+
+
 Nach seiner **State of the Union Rede**, bei der Trump:
 - Die Demokraten als „Crazy People" bezeichnete
 - Eine Lüge nach der anderen brachte
@@ -38,6 +41,9 @@ Nach seiner **State of the Union Rede**, bei der Trump:
 — tauchte Trump komplett ab. War den ganzen Tag nirgendswo zu sehen. Dann: Truth Social.
 
 ### Der Post — Angriff auf Ilhan Omar und Rashida Tlaib
+
+[▶ 1:33](https://www.youtube.com/watch?v=8tdgkj5Q83g&t=93)
+
 
 Deutsche Übersetzung:
 > *„Wenn ihr gestern Abend die niedrig-IQ Ilhan Omar und Rashida Tlaib gesehen hast, wie sie bei der eleganten Rede zur Lage der Nation unkontrolliert schrienen, hatten sie blut-unterlaufene Augen, verrückter Menschen, wahnsinniger, geistig verwirrter und kranker, die ehrlich gesagt so aussehen, als gehörten sie in eine Anstalt eingewiesen. Wenn Menschen sich so verhalten [...] dann sollten wir sie so schnell wie möglich dorthin zurückschicken, wo sie hergekommen sind."*
@@ -51,6 +57,9 @@ Deutsche Übersetzung:
 Koshi: Trump fordert die Abschiebung von US-Staatsbürgerinnen.
 
 ### Minnesota: Medicaid-Entzug als Privatfehde
+
+[▶ 5:22](https://www.youtube.com/watch?v=8tdgkj5Q83g&t=322)
+
 
 Trump kürzt dem Staat Minnesota die **Medicaid-Mittel** — Gesundheitsversorgung für die Ärmsten:
 

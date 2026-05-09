@@ -40,11 +40,17 @@ Quelle: [phoenixRunde — Trumps Iran-Krieg - Chaos oder Strategie? (25. März 2
 
 ### Ultimatum, Verschiebung und die Frage der Verhandlungen
 
+[▶ 0:14](https://www.youtube.com/watch?v=qWZxskne9J8&t=14)
+
+
 Trump stellte dem Iran ein Ultimatum — verschob es dann, weil es angeblich „gute Gespräche" gebe. Teheran dementiert. Fathollah-Nejad: Man befindet sich noch nicht in echten Verhandlungen, sondern tauscht öffentlich Maximalpositionen aus. Der 15-Punkte-Plan der USA (über Pakistan übermittelt) fordert mehr als die Genfer Vorverhandlungen vor dem Krieg: Waffenstillstand, Ende des ballistischen Raketenprogramms, Öffnung der Straße von Hormuz. Die iranische Gegenseite fordert Waffenstillstand, Sicherheitsgarantien, Reparationen und Souveränität über die Straße von Hormuz.
 
 Reinicke: Direkte Verhandlungen bleiben unausweichlich — Vermittlerdiplomatie kann nur der Einstieg sein. Er glaubt nicht, dass es sich bereits um echte Gespräche handelt.
 
 ### Straße von Hormuz als strategischer Hebel
+
+[▶ 7:49](https://www.youtube.com/watch?v=qWZxskne9J8&t=469)
+
 
 Die Blockade der Straße von Hormuz ist das zentrale Druckmittel Irans. Fathollah-Nejad:
 > „Die arabischen Golfstaaten sind im Schwitzkasten, auch die Weltwirtschaft."
@@ -82,6 +88,9 @@ Jäger: Regimewechsel als Ziel wurde erst spät formuliert. Alles Improvisieren 
 
 ### Nachfolge und Verhandlungspartner im Iran
 
+[▶ 13:53](https://www.youtube.com/watch?v=qWZxskne9J8&t=833)
+
+
 Ali Chamenei wurde in den ersten Kriegsminuten eliminiert. Sein Sohn Mojtaba Chamenei wurde zum neuen Obersten Führer ernannt — ist aber offenbar verletzt oder in medizinischer Behandlung in Moskau, nicht öffentlich präsent. Ali Larijani (jahrelanger Atomunterhändler, ehemalige rechte Hand Chameneis zu Moskau und Peking) ebenfalls eliminiert.
 
 Ghalibaf (Revolutionsgardist, mehrfach Präsidentschaftskandidat) rückt als mögliche Verhandlungsperson in den Vordergrund. Fathollah-Nejad: Er vertrat intern die Position, dass Interessen des Regimes besser durch Verhandlungen als durch Krieg gesichert werden können. Reinicke: Die entscheidende Frage ist nicht ob er geeignet erscheint, sondern ob er ein **Entscheider** ist.
@@ -97,6 +106,9 @@ Golfstaaten: Zurückhaltend aus rationalen Gründen — Iran liegt nach dem Krie
 Einflussreiche Podcaster und Influencer der MAGA-Bewegung äußern sich zunehmend kritisch — der Iran-Krieg widerspricht Trumps Wahlkampfversprechen (kein Krieg, bezahlbares Leben). Benzinpreise in den USA so stark gestiegen wie seit Jahrzehnten nicht. Ob das zu echten politischen Absatzbewegungen führt, ist noch offen.
 
 ### Die drei Beteiligten und ihre Strategie
+
+[▶ 28:18](https://www.youtube.com/watch?v=qWZxskne9J8&t=1698)
+
 
 Fathollah-Nejad bringt es auf den Punkt:
 > „Netanjahu sagt selbst, seit 40 Jahren träumt er davon, den Iran anzugreifen. Die Iraner bereiten sich seit 45 Jahren darauf vor. Nur Trump hat keine Strategie."
@@ -132,17 +144,74 @@ Israel und Iran haben je eine klare, langfristige Strategie. Trump und die USA i
 
 ## Verbindungen
 
-- [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]] — Nico Langes Analyse deckt sich mit Jägers These: USA wissen was sie im Krieg wollen, nicht was sie mit dem Krieg wollen
-- [[MONITOR — Irankrieg und das Ende des Völkerrechts]] — Strukturell verwandte Frage: Was bedeutet dieser Krieg für internationale Normen und das Völkerrecht?
-- [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Historische Tiefe zum Iran: Warum das Regime resilienter ist als westliche Einschätzungen annehmen
-- [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]] — Breiterer geopolitischer Rahmen: Verschiebung der Weltordnung durch den Krieg
-- [[Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]] — Frühere Diskussion zur humanitären Frage: Wann ist Eingreifen legitim?
-- [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]] — Iran-Krieg Update aus ähnlichem Zeitraum
-- [[Herfried Münkler — Muss es Kriege geben]] — Münklers Kriegstheorie: Was legitimiert Kriege, wann sind sie beendbar?
-- [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]] — Innenpolitische Dimension: MAGA-Basis und Trumps wachsende Probleme zu Hause
-- [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Strukturelle Abhängigkeit von fossilen Energien als geopolitische Verwundbarkeit
-- [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Kemfert analysiert die energiepolitischen Folgen des Iran-Kriegs direkt: Hormuz-Blockade, Ölpreisschock, fossile Abhängigkeit als zivilisatorisches Risiko — Erneuerbare als Ausweg
-- [[KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika]] — Trumps innenpolitische Kommunikationsstrategie: Schuld externalisieren statt Verantwortung übernehmen
-- [[Zeitgeist/Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]] — Blumenthal/Hedges liefern die parteiische Gegenperspektive zur PhoenixRunde: Lobby-Netzwerke und Netanyahu-Einfluss als Kriegsursache. Starke Quellenkritik notwendig.
-- [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — STAIY liefert aktuelles Lagebild (25.03.2026): iranischer Spott, 15-Punkte-Plan, Bodentruppen-Pläne. Bestätigt die Eskalationsdynamik der PhoenixRunde.
-- [[taz Reingehen — Wer das Öl hat, hat das Sagen]] — Herrmann ergänzt die geopolitische PhoenixRunde um die ökonomische Innenperspektive: Warum Trump den Iran-Sanktionen aufheben *musste* und wie der Ölpreis zur innenpolitischen Waffe wird
+### → [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
+
+Nico Langes Analyse deckt sich mit Jägers These: USA wissen was sie im Krieg wollen, nicht was sie mit dem Krieg wollen
+
+### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
+
+Strukturell verwandte Frage: Was bedeutet dieser Krieg für internationale Normen und das Völkerrecht?
+
+### → [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
+
+Historische Tiefe zum Iran: Warum das Regime resilienter ist als westliche Einschätzungen annehmen
+
+### → [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
+
+Breiterer geopolitischer Rahmen: Verschiebung der Weltordnung durch den Krieg
+
+### → [[Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+
+Frühere Diskussion zur humanitären Frage: Wann ist Eingreifen legitim?
+
+### → [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+
+Iran-Krieg Update aus ähnlichem Zeitraum
+
+### → [[Herfried Münkler — Muss es Kriege geben]]
+
+Münklers Kriegstheorie: Was legitimiert Kriege, wann sind sie beendbar?
+
+### → [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]
+
+Innenpolitische Dimension: MAGA-Basis und Trumps wachsende Probleme zu Hause
+
+### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Strukturelle Abhängigkeit von fossilen Energien als geopolitische Verwundbarkeit
+
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+
+Kemfert analysiert die energiepolitischen Folgen des Iran-Kriegs direkt: Hormuz-Blockade, Ölpreisschock, fossile Abhängigkeit als zivilisatorisches Risiko — Erneuerbare als Ausweg
+
+### → [[KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika]]
+
+Trumps innenpolitische Kommunikationsstrategie: Schuld externalisieren statt Verantwortung übernehmen
+
+### → [[Zeitgeist/Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]]
+
+Blumenthal/Hedges liefern die parteiische Gegenperspektive zur PhoenixRunde: Lobby-Netzwerke und Netanyahu-Einfluss als Kriegsursache. Starke Quellenkritik notwendig.
+
+### → [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+
+STAIY liefert aktuelles Lagebild (25.03.2026): iranischer Spott, 15-Punkte-Plan, Bodentruppen-Pläne. Bestätigt die Eskalationsdynamik der PhoenixRunde.
+
+### → [[taz Reingehen — Wer das Öl hat, hat das Sagen]]
+
+Herrmann ergänzt die geopolitische PhoenixRunde um die ökonomische Innenperspektive: Warum Trump den Iran-Sanktionen aufheben *musste* und wie der Ölpreis zur innenpolitischen Waffe wird
+
+### → [[Konstantin Flemig — US-Seeblockade gegen Iran]]
+
+Flemig liefert das militärische Lagebild zur US-Seeblockade (13.04.2026): konkrete Blockade-Mechanik, Seeminen, Waffenstillstandsbruch — die Eskalation, die in der PhoenixRunde als Szenario diskutiert wurde
+
+### → [[Bundestalk — Iran USA und die Strasse von Hormus]]
+
+Bundestalk bestätigt Chaos-Diagnose: unbefristeter Waffenstillstand ohne Verhandlungsziel = strategische Leere
+
+### → [[Markus Reisner — Strasse von Hormus fragil]]
+
+Reisners Afghanistan-Vergleich beantwortet die Leitfrage: Es ist strukturelles Chaos, kein strategischer Plan
+
+### → [[Natalie Amiri — Hoelle auf Erden im Iran]]
+
+Amiri beantwortet die Titelfrage implizit: weder Chaos noch Strategie, sondern ein Akteur der raus will, aber von Israel festgehalten wird. Plus: Qalibafs „Good Cop/Bad Cop"-Strategie.

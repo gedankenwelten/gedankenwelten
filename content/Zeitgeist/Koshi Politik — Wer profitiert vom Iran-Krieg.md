@@ -47,6 +47,9 @@ Während Koshi das Video aufnimmt, kommt die Breaking News: Der **Oberste Führe
 
 ### Der MSNow-Clip: Wer profitiert?
 
+[▶ 10:01](https://www.youtube.com/watch?v=AVma8mzPm7A&t=601)
+
+
 Rachel Maddow (MSNow-Analystin) stellt die Profiteur-Frage:
 
 **Golfstaaten als Iran-Rivalen:**
@@ -145,6 +148,13 @@ Die finanzielle Entblößung des Iran-Krieges ist der Auslöser für MAGA 2.0 �
 ### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Hagemeyer: Narzissten brauchen externe Bestätigung und sind manipulierbar durch Schmeichelei und Geld. Die Golfstaaten haben genau das ausgenutzt.
 
+### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
+Navidi ergänzt Koshis Profiteurs-Analyse um die Finanzebene: Insider-Trading auf Polymarket und Kalshi vor dem Iran-Angriff, Pete Hegseths Broker bei BlackRock, siebenstellige Wetten aus dem Trump-Umfeld. Dieselbe Kriegsentscheidung — Koschi: wer strategisch profitiert; Navidi: wer finanziell profitiert.
+
+### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]
+
+MONITOR ergänzt Koshis Profiteurs-Analyse um die direkte familiäre Bereicherung: Die Trump-Söhne als Investoren bei Drohnen-Firmen, World Liberty Financial als Krypto-Korruptionsvehikel, die 950-Millionen-Ölwette am Tag der Eskalation. Koshi fragt *wer* profitiert; MONITOR zeigt: die Familie des Präsidenten selbst.
+
 ---
 
 ## Serie: Koshi Politik — Iran-Krieg
@@ -155,3 +165,7 @@ Hagemeyer: Narzissten brauchen externe Bestätigung und sind manipulierbar durch
 | 2 | MAGA-Risse und Russland im Hintergrund | 09.03.2026 | [[Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund]] |
 | 3 | Die drei Musketiere: Miller, Hegseth, Trump | 14.03.2026 | [[Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]] |
 | 4 | NATO verweigert, Trump steckt fest | 17.03.2026 | [[Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]] |
+- [[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]] — BP als Energie-Profiteur des Irankriegs — dasselbe Muster der Krisengewinnler auf Konzernebene.
+- [[Follow This — Die grüne Horzel in Big Oil]] — Follow This stellt die Systemfrage an die Krisengewinnler: Wie lange noch profitabel, wenn Ölnachfrage sinkt?
+- [[Martin Sonneborn — Endloser Krieg]] — Sonneborn stellt dieselbe Cui-bono-Frage für den Ukraine-Krieg: 290 Milliarden EU-Gelder als Kriegsgewinngeschäft. Dasselbe Muster wie Koshis Iran-Analyse, aber ohne die konkrete Belegführung — eher rhetorische Empörung als investigative Recherche.
+- [[Koschi Politik — TACO Tuesday, Operation Freedom abgesagt]] — Reuters bestätigt: Der Krieg hat den Atomzeitrahmen nicht verändert. Die Frage „wer profitiert?" wird damit umso dringlicher — der Krieg verfehlt sein erklärtes Ziel.

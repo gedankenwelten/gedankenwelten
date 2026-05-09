@@ -32,6 +32,9 @@ Quelle: [ICE Tragödie in MEINER Wahlheimat, Buffalo NY!](https://www.youtube.co
 
 ### Vorgeschichte
 
+[▶ 6:14](https://www.youtube.com/watch?v=gO4CqnTIMZk&t=374)
+
+
 Nurul Alam lebte seit Dezember 2024 als anerkannter Flüchtling in den USA. Vor fast einem Jahr verlor er die Orientierung, klopfte an eine fremde Tür, wurde wegen des Gehstocks (einer Gardinenstange) als bewaffnet gemeldet, von der Polizei geschlagen und wegen Körperverletzung, Waffenbesitz (der Stock) und Hausfriedensbruch angeklagt. Er verstand die Polizisten nicht — er spricht kein Englisch.
 
 Nach über einem Jahr Untersuchungshaft erzielte er eine Einigung mit der Staatsanwaltschaft: Freilassung **ohne** Übergabe an ICE. Die Einrichtung kontaktierte trotzdem CBP.
@@ -50,6 +53,9 @@ Die Familie sucht das gesamte Wochenende. Vermisstenanzeige bei der Polizei — 
 **22. Februar:** Nurul Alam wird tot aufgefunden — medizinischer Notfall auf offener Straße, wahrscheinlich Erfrieren.
 
 ### DHS-Antwort auf Twitter
+
+[▶ 10:06](https://www.youtube.com/watch?v=gO4CqnTIMZk&t=606)
+
 
 DHS veröffentlicht eine Twitter-Stellungnahme:
 > *"Er zeigte keinerlei Anzeichen von Verzweiflung, eingeschränkter Mobilität oder Behinderungen, die besondere Unterstützung erforderten."*
@@ -85,6 +91,14 @@ Journalist **Nikolaj Christoph** widerlegt das öffentlich mit 6 Fragen:
 
 ## Verbindungen
 
-- [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Whistleblower packt aus]] — zwei Tage zuvor: Ausbildungsdefizite, die solche Situationen strukturell produzieren
-- [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Heitmeyer: Institutionelle Roheit als systemisches Phänomen. Dieser Fall ist kein Einzelfall — er ist Produkt einer Behörde, die Konsequenzen nicht einkalkuliert, weil es keine gibt.
-- [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]] — Härte als politisches Versprechen — und Nurul Alam als sein Preis
+### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Whistleblower packt aus]]
+
+zwei Tage zuvor: Ausbildungsdefizite, die solche Situationen strukturell produzieren
+
+### → [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+
+Heitmeyer: Institutionelle Roheit als systemisches Phänomen. Dieser Fall ist kein Einzelfall — er ist Produkt einer Behörde, die Konsequenzen nicht einkalkuliert, weil es keine gibt.
+
+### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+
+Härte als politisches Versprechen — und Nurul Alam als sein Preis

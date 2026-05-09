@@ -151,12 +151,46 @@ Nebenwirkung: Wo Menschen keine Angst mehr haben müssen, sinkt auch der Jagddru
 
 ## Verbindungen
 
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Direkter Kontrast: dort politischer Rückschritt durch Lobbyismus, hier konkrete Fortschritte durch Bürger- und Gemeinschaftsinitiativen — beide Pole der Energiewende-Realität
-- [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] — Politisch-ökonomischer Rahmen: warum Erneuerbare trotz Marktreife strukturell benachteiligt werden; diese Doku zeigt, was trotzdem entsteht
-- [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschning fordert Systemwechsel weg von fossilen; diese Doku zeigt, dass der Wechsel in konkreten Projekten längst passiert — das Argument, es fehle an Alternativen, ist widerlegt
-- [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Kemfert analysiert die systemische Abhängigkeit; Großbardorf und B Energy zeigen konkrete Ausstiegspfade auf lokaler und globaler Ebene
-- [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Die Doku gibt der politischen Kritik eine Gegenerzählung: Was die Politik nicht tut, wird von Bürgerinnen selbst umgesetzt
-- [[Erwin Thoma — Strategien der Natur]] — Der Energiegarten als praktische Umsetzung von Thoma-Prinzipien: Natur als Partner, nicht als Ressource; Synergie statt Monokultur
-- [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Buchinger zeigt, dass die Kernenergie-Debatte eine politische Ablenkung ist; diese Doku zeigt, welche Lösungen stattdessen schon existieren
-- [[Good News — Positive Nachrichten März 2026]] — 2025-Datenpunkt: Wind & Solar überholen erstmals fossile Brennstoffe in der EU (30% vs. 29%) — die empirische Bestätigung, dass die Energiewende ankommt
-- [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] — Felix liefert den Investoren- und Technologieblick auf die ARTE-Doku-Energie: Batteriespeicher als das fehlende Puzzlestück, das die in der Doku gezeigten Communities skalierbar macht
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+Direkter Kontrast: dort politischer Rückschritt durch Lobbyismus, hier konkrete Fortschritte durch Bürger- und Gemeinschaftsinitiativen — beide Pole der Energiewende-Realität
+
+### → [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+
+Politisch-ökonomischer Rahmen: warum Erneuerbare trotz Marktreife strukturell benachteiligt werden; diese Doku zeigt, was trotzdem entsteht
+
+### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Quaschning fordert Systemwechsel weg von fossilen; diese Doku zeigt, dass der Wechsel in konkreten Projekten längst passiert — das Argument, es fehle an Alternativen, ist widerlegt
+
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+
+Kemfert analysiert die systemische Abhängigkeit; Großbardorf und B Energy zeigen konkrete Ausstiegspfade auf lokaler und globaler Ebene
+
+### → [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
+
+Die Doku gibt der politischen Kritik eine Gegenerzählung: Was die Politik nicht tut, wird von Bürgerinnen selbst umgesetzt
+
+### → [[Erwin Thoma — Strategien der Natur]]
+
+Der Energiegarten als praktische Umsetzung von Thoma-Prinzipien: Natur als Partner, nicht als Ressource; Synergie statt Monokultur
+
+### → [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Buchinger zeigt, dass die Kernenergie-Debatte eine politische Ablenkung ist; diese Doku zeigt, welche Lösungen stattdessen schon existieren
+
+### → [[Good News — Positive Nachrichten März 2026]]
+
+2025-Datenpunkt: Wind & Solar überholen erstmals fossile Brennstoffe in der EU (30% vs. 29%) — die empirische Bestätigung, dass die Energiewende ankommt
+
+### → [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+
+Felix liefert den Investoren- und Technologieblick auf die ARTE-Doku-Energie: Batteriespeicher als das fehlende Puzzlestück, das die in der Doku gezeigten Communities skalierbar macht
+
+### → [[Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
+
+Vertieft einen in dieser ARTE-Note nur angerissenen Pfad: CO₂-Geothermie als grundlastfähige Erneuerbare, die gleichzeitig CO₂-Speicherung ermöglicht
+
+### → [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
+
+Zöcklers Bürgerenergie-Modell als deutsches Pendant zu Großbardorf und Energiegarten Grensfeen.

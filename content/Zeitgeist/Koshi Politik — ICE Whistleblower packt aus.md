@@ -32,6 +32,9 @@ Der **ehemalige stellvertretende Chefjurist von ICE** kündigt seinen Job, um vo
 
 ### Was er enthüllt
 
+[▶ 8:04](https://www.youtube.com/watch?v=IuXL4daZAOo&t=484)
+
+
 **1. Kadetten werden gelehrt, die Verfassung zu ignorieren**
 
 Im Ausbildungsmaterial 2025 wurde explizit gelehrt: Der **4. Zusatzartikel** der US-Verfassung (Schutz vor Hausdurchsuchungen ohne richterlichen Beschluss) gilt für ICE-Agents **nicht**. Das war laut Whistleblower nie zuvor in seiner Karriere so formuliert worden.
@@ -58,6 +61,9 @@ Viele der ~12.000 neu rekrutierten Agents wurden nicht nach Qualifikation, Ausbi
 ICE-Direktor **Todd Lines** behauptet in der Anhörung, das Memo sei offiziell per Email an alle Ausbilder verteilt worden. Das widerspricht direkt der Whistleblower-Aussage. Der Whistleblower war anwesend, als ihm gesagt wurde, das Memo mündlich weiterzugeben und zurückzugeben.
 
 ### Steven Millers Ziel: 3.000 Deportationen pro Tag
+
+[▶ 9:47](https://www.youtube.com/watch?v=IuXL4daZAOo&t=587)
+
 
 **Steven Miller** — Trumps Chefberater für Immigration — hat das Ziel formuliert: **3.000 Abschiebungen pro Tag**. Um das ansatzweise zu erreichen, wurden Kadetten so schnell wie möglich auf die Straße gebracht — was die halbierten Ausbildungszeiten erklärt und laut Koshi die zwei Toten in Minnesota direkt mitverursacht hat.
 
@@ -93,7 +99,22 @@ Koshi: Klassische Trump-Wähler auf dem Land — die jetzt zwei Stunden zum näc
 
 ## Verbindungen
 
-- [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Buffalo — Tod eines Flüchtlings]] — zwei Tage später: konkreter Fall, der zeigt, wohin fehlende Ausbildung führt
-- [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]] — dieselbe Anhörungsperiode: Todd Lines' Aussagen
-- [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] — Kemper: ICE als Prototyp einer technofaschistischen Durchsetzungsstruktur — hier sieht man die ideologische Seite: Loyalität statt Qualifikation, Verfassungsbruch als Lehrinhalt
-- [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]] — "Dummheit" als systemische Entmündigung: Kadetten werden aktiv darin geschult, nicht zu fragen, nicht zu wissen, was sie dürfen und was nicht
+### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Buffalo — Tod eines Flüchtlings]]
+
+zwei Tage später: konkreter Fall, der zeigt, wohin fehlende Ausbildung führt
+
+### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]]
+
+dieselbe Anhörungsperiode: Todd Lines' Aussagen
+
+### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
+
+Kemper: ICE als Prototyp einer technofaschistischen Durchsetzungsstruktur — hier sieht man die ideologische Seite: Loyalität statt Qualifikation, Verfassungsbruch als Lehrinhalt
+
+### → [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]]
+
+"Dummheit" als systemische Entmündigung: Kadetten werden aktiv darin geschult, nicht zu fragen, nicht zu wissen, was sie dürfen und was nicht
+
+### → [[taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
+
+taz-Recherche vor Ort in Ellabell, Georgia: Die größte ICE-Razzia an einem Einzelstandort (475 Verhaftungen). Zeigt, wie Verhaftungen weit über die legale Grundlage hinausgehen — und wie lokale Communities das verschweigen.

@@ -29,6 +29,9 @@ Quelle: [Truth Social Folge 10: Trump über die Super Bowl Halftime Show](https:
 
 ### NFL und Bad Bunny: Kontext
 
+[▶ 0:01](https://www.youtube.com/watch?v=YsQ31mFgM_g&t=1)
+
+
 Die NFL ist längst **internationales Geschäft**: Spiele in Mexico City, Brasilien, London, Deutschland. Die Halftime Show 2026 mit **Bad Bunny** (Puerto Rico) auf Spanisch — strategische Entscheidung:
 
 - Muttersprachler Englisch: ~350 Millionen
@@ -41,6 +44,9 @@ Bad Bunny trägt **zwei Botschaften** in die Show:
 2. **Liam Ramos gewidmet** — der Fünfjährige aus Minnesota, den ICE zusammen mit seinem Vater nach Mexiko deportiert hatte
 
 ### Trump's Post
+
+[▶ 5:40](https://www.youtube.com/watch?v=YsQ31mFgM_g&t=340)
+
 
 Deutsche Übersetzung:
 > *„Die Super Bowl Halftime Show ist absolut schrecklich, einer der schlechtesten überhaupt. Sie ergibt keinen Sinn, ist eine Beleidigung für die Größe Amerikas. Niemand versteht ein Wort von dem, was dieser Typ sagt, und der Tanz ist widerwertig, besonders für junge Kinder [...]. Diese Show ist ein Schlag ins Gesicht für unser Land. Und übrigens, die NFL sollte sofort die lächerliche neue Kickoff-Regel ersetzen. Make America great again."*

@@ -36,6 +36,9 @@ Quelle: [Muss es Kriege geben, Herfried Münkler?](https://www.youtube.com/watch
 
 ## Was ist Krieg? — Die Definition
 
+[▶ 13:53](https://www.youtube.com/watch?v=8mUq5dH47Y0&t=833)
+
+
 Münkler beginnt mit Begriffspräzision — für ihn zentral:
 
 **Thomas Hobbes** unterschied zwischen:
@@ -59,6 +62,9 @@ Die Unterscheidung Krieg/Frieden entstand mit Ackerbau und Sesshaftigkeit (~7000
 Belege: Archäologische Knochen- und Gräberanalysen (z.B. die erste bekannte europäische Feldschlacht an der Tollense in Mecklenburg-Vorpommern, ~5.000 Teilnehmer).
 
 ### Frauenraub als Kriegsursache
+
+[▶ 46:53](https://www.youtube.com/watch?v=8mUq5dH47Y0&t=2813)
+
 Ein biologisch-historisches Motiv: Die deutlich höhere Sterblichkeit von Frauen im Kindbett führte strukturell dazu, dass Frauen das "knappe Gut" waren. Ergebnis: Gruppen notorisch sexuell frustrierter Männer — mit dem Krieg als Lizenz zum Zugriff auf Frauen eroberter Städte.
 
 Münkler zieht die Linie von der Ilias (Helena, Agamemnon–Achill-Streit) bis zum Nibelungenlied. Heute: Massenvergewaltigungen durch russische Soldaten in der Ukraine — UNO-dokumentiert — dienen zusätzlich der Einschüchterung der Bevölkerung.
@@ -97,6 +103,9 @@ Das klassische Kriegsbild (reguläre Armeen, Kriegserklärung, Friedensvertrag, 
 
 ## Postheroische Gesellschaft — Münklers Eigenbegriff
 
+[▶ 66:51](https://www.youtube.com/watch?v=8mUq5dH47Y0&t=4011)
+
+
 Münkler hat den Begriff *postheroische Gesellschaft* geprägt. Zwei Merkmale:
 
 1. **Demographisches Loch** — zu wenige junge Männer, um Kriege zu bevölkern
@@ -110,6 +119,9 @@ Kontrast: **Heroische Gesellschaften** haben Geburtenüberschuss *und* religiös
 ---
 
 ## Nuklearzeitalter und die gescheiterte Nonproliferation
+
+[▶ 74:28](https://www.youtube.com/watch?v=8mUq5dH47Y0&t=4468)
+
 
 Die Nuklearwaffe sollte das *Ende aller Kriege* sein — wechselseitige nukleare Geiselnahme als Kriegsverhinderer. Das funktioniert nicht mehr zuverlässig:
 
@@ -184,6 +196,8 @@ Beide haben recht — auf verschiedenen Ebenen:
 
 **Iran-Krieg-Realität (NATO verweigert):** [[Zeitgeist/Koshi Politik/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]] — Münklers These, dass Kriege an Siegesbedingungen und Exit-Strategien gemessen werden müssen, findet hier konkrete Antworten: NATO verweigert, kein Endzustand definiert, drei nicht-gewinnbare Optionen. Der fehlende „Hüter der friedlichen Ordnung" ist nicht nur die UNO — es ist NATO, das sich verweigert.
 
+**Sudan/El Fashir — Ressource und Völkermord:** [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE]] — El Fashir zeigt, wie die RSF Münklers Logik des perpetuierten Krieges instrumentalisiert: ein Konflikt, der nicht enden soll, weil er Goldminen und Machtstrukturen konserviert — die VAE als externer Akteur, der an dieser Perpetuierung verdient.
+
 **Wer treibt den Krieg?:** [[Zeitgeist/Koshi Politik/Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]] — Münkler: Einzelpersonen können trotz aller Strukturen Krieg erzwingen. Hier: Miller, Hegseth und Trump als konkretes Trio, das den Krieg gegen alle internen Warnungen durchsetzte. Hegseths Inkompetenz und Millers ideologische Triebfeder sind die menschliche Ebene von Münklers Strukturanalyse.
 
 **Strategische Sackgasse:** [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]] — Lange zeigt, wie der Ordnungshüter USA (Trump) selbst zum Unkalkulierbaren wird — und andere Akteure (Russland, Iran) das gezielt ausnutzen. Münklers Strukturanalyse findet hier ihren konkreten Ausdruck.
@@ -192,4 +206,21 @@ Beide haben recht — auf verschiedenen Ebenen:
 Sirus Schyek (Historiker, Genf) und Kamran Safiarian (ZDF-Journalist) — beide mit iranischen Wurzeln — analysieren denselben Konflikt aus persönlicher und historischer Perspektive: das ethisch-moralische Dilemma (böses Regime vs. Völkerrechtsbruch), die Sicherheitsdilemma-Spirale seit 2003, humanitäre Lage und Szenarien.
 
 - [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Iran-Forscherin mit historischer Tiefe; Perspektive auf Revolutionsgeschichte, IRGC, Golfstaaten-Dilemma und westliche Doppelstandards
+- [[Konstantin Flemig — Ukraine Gebietsgewinne 2026]] — Flemig zeigt Münklers Strukturanalyse in Echtzeit: Putin führt den Krieg weiter, um innenpolitischer Realität auszuweichen — Krieg als Mittel zur Machtsicherung, nicht zur territorialen Logik
 - [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]] — Münklers These (USA wissen was sie im Krieg wollen, nicht was sie mit dem Krieg wollen) wird hier von Jäger nahezu wörtlich bestätigt. Bodentruppen-Debatte, Exit-Strategie-Dilemma und die Frage des Regimewechsels illustrieren Münklers Strukturanalyse am konkreten Fall.
+- [[Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz]] — Johnen bestätigt Münklers Grundthese aus der humanitären Praxis: Drei Jahre DRK-Hilfe, 1,5 Milliarden Spenden, 22 getötete Rotkreuz-Mitarbeitende — und kein Ende in Sicht, weil Kriege nicht durch Leid enden, sondern durch politische Erschöpfung oder Machtverschiebungen
+
+- [[Helen Keller — Voelkerrecht zahnloser Tiger]] — Keller ergänzt Münklers Strukturanalyse um die Rechtsdimension: Die dezentrale Völkerrechtsordnung (Eigeninteresse der Staaten) ist das normative Pendant zu Münklers Realismus — und Kellers Iran-Analyse bestätigt Münklers Exit-Strategie-Dilemma.
+- [[Gerdes — Ukraine Zelensky wird staerker]] — Gerdes zeigt Münklers Kriegstypologie als Update: KI-Kriegsführung (Budanow), Wissenstransfer zwischen Armeen (Ukraine → Bundeswehr), hybride Diplomatie-Kriegs-Verschränkung — der Ukraine-Krieg 2026 ist der „neue Krieg", den Münkler antizipiert
+- [[Bundestalk — Iran USA und die Strasse von Hormus]] — Anwendungsfall für postheroische Kriegsführung: Iran, Gaza, Libanon — konventionelle Militärmacht scheitert durchgehend an asymmetrischen Gegnern
+- [[Torsten Heinrich — Was die Tagesschau verschweigt]] — Heinrichs Trichter-Argument (nordeuropäische Tiefebene → Moskau muss strategische Tiefe gewinnen) ist Münklers Strukturanalyse als konkreter geographischer Anwendungsfall; beide trennen sauber zwischen moralischer Bewertung und geopolitischer Logik
+- [[Markus Reisner — Strasse von Hormus fragil]] — Reisners Afghanistan-Vergleich und Hormus-Patt als empirische Illustration der postheroischen Kriegsführungsthese
+- [[StreitClub — Europa allein zu Haus]] — EU-Verteidigungsautonomie als praktische Anwendung von Münklers geopolitischem Realismus
+
+### → [[Torsten Heinrich — Ukraine bewusst geopfert]]
+
+Heinrich formuliert Münklers Strukturanalyse als konkrete Diagnose: „Eskalationsmanagement ist keine Strategie" — das ist Münklers fehlender Ordnungshüter in der Praxis. Die USA hätten die Entscheidung erzwingen können, wollten aber nicht. Das Ergebnis — ein Krieg im „mittleren Niveau", der niemandes Ziel war — ist genau der perpetuierte Konflikt, den Münkler theoretisch beschreibt.
+
+### → [[Martin Sonneborn — Endloser Krieg]]
+
+Sonneborns These des „endlosen Krieges" als Geschäftsmodell nutzt intuitiv Münklers Konzept des perpetuierten Konflikts — aber ohne die entscheidende Ergänzung: Münkler fragt, was passiert, wenn dem Aggressor *nicht* entgegengetreten wird. Sonneborn fordert Frieden, ohne Friedensbedingungen zu benennen.

@@ -26,6 +26,9 @@ Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 ## Format und Zweck
 
+[▶ 0:02](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=2)
+
+
 Buchinger belebt das „Kommentarspalte"-Format nach längerer Pause wieder — diesmal mit den Reaktionen auf den Sechsteiler *Lügen der Kernenergie* (Playlist-Link in der Videobeschreibung, Quellen als PDF im Download). Das Format hat drei Funktionen:
 
 1. **Korrektur & Ergänzung:** Eigene Fehler richtigstellen, von Zuschauern ergänzte Fakten vorstellen.
@@ -43,6 +46,9 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 
 ### 1. „Ohne Atomstrom aus Frankreich wäre Europa längst dunkel"
 
+[▶ 7:38](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=458)
+
+
 **Kommentar (RM5003):** „Ohne tote Pferde aus Frankreich wäre es in Deutschland und anderen Teilen Europas schon lange dunkel."
 
 **Buchingers Widerlegung:**
@@ -54,6 +60,9 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 ---
 
 ### 2. „SMRs lösen das Sicherheits- und Kostenproblem"
+
+[▶ 9:09](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=549)
+
 
 **Kommentar (Uwe Hedmann 2320):** „Was ich mich bei SMRs immer frage, wie bekommt man tausende SMRs gegen Terroristen abgesichert? Je mehr Reaktoren, desto höher das Angriffsrisiko. Letztendlich wird jeder SMR dadurch richtig teuer."
 
@@ -68,6 +77,9 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 
 ### 3. „Kernenergie ist gesundheitlich vergleichbar mit Wind oder Solar"
 
+[▶ 11:28](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=688)
+
+
 **Kommentar:** Indirekten Folgen wie Leukämie müsse man die Gesundheitsfolgen anderer Energieträger gegenüberstellen (CO₂-Belastung, Infraschall bei Windkraft). Dazu Fragen nach Dual-Fluid-Reaktoren und Fusionsreaktoren.
 
 **Buchingers Widerlegung:**
@@ -78,6 +90,9 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 ---
 
 ### 4. „Alle Argumente gegen Kernenergie sind längst widerlegt — Renaissance kommt"
+
+[▶ 16:02](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=962)
+
 
 **Kommentar (Olaf von Lindequist 4114):** „Alle Argumente gegen Kernenergie sind widerlegt. Das ständige Wiederholen alter längst entwerteter Argumente wird die Renaissance der Kernenergie nicht aufhalten. Niemand außerhalb Deutschlands folgt euren Argumenten."
 
@@ -90,6 +105,9 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 
 ### 5. „Deutsche AKW waren die sichersten und effizientesten der Welt"
 
+[▶ 17:33](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=1053)
+
+
 **Kommentar (Horst Gotta 1326):** Die letzten deutschen AKW seien unter den betriebseffizientesten weltweit gewesen, gehörten zu den sichersten. Man redet über Frankreich, um diesen unbequemen Fakt zu umschiffen.
 
 **Buchingers Widerlegung:**
@@ -101,6 +119,9 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 ---
 
 ### 6. „PV ist eigentlich auch Kernkraft — die Sonne als Fusionsreaktor"
+
+[▶ 19:04](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=1144)
+
 
 **Kommentar (Adam Zimmermann 5632):** PV ist keine grünversiffte erneuerbare Energie, sondern allerbeste Kernkraft — Fusion der Sonne. Das kabellose Verteilnetz ist gleich eingebaut.
 
@@ -135,6 +156,9 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 
 ### 9. „Deutschland hat die höchsten Strompreise wegen der Energiewende — Skandinavien mit AKW ist billiger"
 
+[▶ 26:44](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=1604)
+
+
 **Kommentar (WCAT 2):** Warum hat Deutschland die höchsten Strompreise, wenn nicht Kernenergie schuld ist? Liegt das an falschen Systemkosten bei Fraunhofer ISE?
 
 **Buchingers Widerlegung:**
@@ -146,6 +170,9 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 ---
 
 ### 10. „Wen stört Atommüll — ich bin dann tot"
+
+[▶ 28:14](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=1694)
+
 
 **Kommentar (Friedolin Roh 7zk):** „Wen stört die Kontamination? Ich bin dann tot. Das kann strahlen, solange es will."
 
@@ -168,6 +195,9 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 
 ### 12. „22 Staaten haben bei COP28 Verdreifachung der Kernkapazitäten bis 2050 beschlossen"
 
+[▶ 33:33](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=2013)
+
+
 **Kommentar (Puffitz 665):** Bei der COP in Dubai haben 22 Staaten erklärt, die Kernkraftkapazitäten zu verdreifachen. Nahezu alle großen westlichen Industriestaaten. Kernenergie sei Schlüssel für das 1,5°C-Ziel.
 
 **Buchingers Widerlegung:**
@@ -180,6 +210,9 @@ Ein übergeordnetes Thema: KI-generierte Kommentare werden unkritisch gepostet �
 ---
 
 ### 13. „Man sollte Anlagen bis zu ihrem Lebensende nutzen"
+
+[▶ 38:04](https://www.youtube.com/watch?v=6eIDO1_y_U0&t=2284)
+
 
 **Kommentar (Mario Malich 828):** Die Menschen brauchen kostengünstigen Strom. Wichtig wäre, was investiert und installiert wurde bis zum Lebensende zu nutzen — egal ob Windkraft oder Kernenergie.
 
@@ -247,10 +280,30 @@ Buchinger identifiziert wiederkehrende Denkmuster, die quer durch alle Kommentar
 
 ## Verbindungen
 
-- [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Übergeordnete Note: UvdL-Analyse und die drei großen Falschaussagen (bezahlbar, versorgungssicher, emissionsarm). Die Kommentarspalte ist das Nachfolgevideo zur gesamten Serie.
-- [[Mario Buchinger — Lügen der Kernenergie (2▸6) Kernenergie und Erneuerbare]] — Folge 2 der Serie, auf die viele hier diskutierten Kommentare inhaltlich Bezug nehmen.
-- [[Mario Buchinger — Lügen der Kernenergie (3▸6) Kernenergie ist wirtschaftlich]] — Folge 3; die Wirtschaftlichkeits-Argumente (Gestehungskosten, Gösgen-Gewinn, „3 Cent nach Abschreibung") nehmen direkt darauf Bezug.
-- [[Dietrich Bonhoeffer — Theorie der Dummheit]] — Bonhoeffers Kerndiagnose: Fakten verfangen nicht bei Menschen, die sie schlicht nicht wahrhaben wollen. Der Abschluss-Kommentar von „Reiner Unsinn 828" formuliert genau das: Die Debatte ist nicht mehr faktisch, sie ist religiös. AKW-Fans, die den Beitrag nicht hören und dieselben widerlegten Argumente wiederholen, sind ein Paradefall.
-- [[Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Cipollas viertes Gesetz: Dumme schaden anderen und sich selbst ohne erkennbaren Eigennutzen. Der Kommentar von Friedolin Roh — „ich bin dann tot, kann strahlen, solange es will" — ist ein extremes Beispiel: aktiver Schaden an zukünftigen Generationen ohne jeden persönlichen Nutzen.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Die Fossil- und Atomlobby setzt genau die Agenda-Setting-Techniken ein, die Mausfeld als unterhalb der Bewusstseinsschwelle wirksam beschreibt. „Issue Ownership" (Kernenergie als Klimaalibifür Fossil-Freunde) ist eine dieser Techniken.
-- [[Andreas Kemper — Technofaschismus und die AfD]] — Kemper zeigt, wie die Verbindung zwischen Fossil-Lobby und reaktionärer Politik funktioniert. Buchinger macht denselben Zusammenhang explizit: Kernenergie-Propaganda ist strukturell Fossil-Propaganda. Die COP-28-Erklärung entstand unter starkem fossilen Einfluss.
+### → [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Übergeordnete Note: UvdL-Analyse und die drei großen Falschaussagen (bezahlbar, versorgungssicher, emissionsarm). Die Kommentarspalte ist das Nachfolgevideo zur gesamten Serie.
+
+### → [[Mario Buchinger — Lügen der Kernenergie (2▸6) Kernenergie und Erneuerbare]]
+
+Folge 2 der Serie, auf die viele hier diskutierten Kommentare inhaltlich Bezug nehmen.
+
+### → [[Mario Buchinger — Lügen der Kernenergie (3▸6) Kernenergie ist wirtschaftlich]]
+
+Folge 3; die Wirtschaftlichkeits-Argumente (Gestehungskosten, Gösgen-Gewinn, „3 Cent nach Abschreibung") nehmen direkt darauf Bezug.
+
+### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
+
+Bonhoeffers Kerndiagnose: Fakten verfangen nicht bei Menschen, die sie schlicht nicht wahrhaben wollen. Der Abschluss-Kommentar von „Reiner Unsinn 828" formuliert genau das: Die Debatte ist nicht mehr faktisch, sie ist religiös. AKW-Fans, die den Beitrag nicht hören und dieselben widerlegten Argumente wiederholen, sind ein Paradefall.
+
+### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+
+Cipollas viertes Gesetz: Dumme schaden anderen und sich selbst ohne erkennbaren Eigennutzen. Der Kommentar von Friedolin Roh — „ich bin dann tot, kann strahlen, solange es will" — ist ein extremes Beispiel: aktiver Schaden an zukünftigen Generationen ohne jeden persönlichen Nutzen.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Die Fossil- und Atomlobby setzt genau die Agenda-Setting-Techniken ein, die Mausfeld als unterhalb der Bewusstseinsschwelle wirksam beschreibt. „Issue Ownership" (Kernenergie als Klimaalibifür Fossil-Freunde) ist eine dieser Techniken.
+
+### → [[Andreas Kemper — Technofaschismus und die AfD]]
+
+Kemper zeigt, wie die Verbindung zwischen Fossil-Lobby und reaktionärer Politik funktioniert. Buchinger macht denselben Zusammenhang explizit: Kernenergie-Propaganda ist strukturell Fossil-Propaganda. Die COP-28-Erklärung entstand unter starkem fossilen Einfluss.

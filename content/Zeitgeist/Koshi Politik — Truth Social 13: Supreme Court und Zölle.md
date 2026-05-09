@@ -30,6 +30,9 @@ Quelle: [Truth Social Folge 13: Trump vs. Supreme Court](https://www.youtube.com
 
 ### Der Post
 
+[▶ 0:48](https://www.youtube.com/watch?v=S4RBO7tVxbA&t=48)
+
+
 Trump schreibt über ein **Supreme-Court-Urteil zu Zöllen** — das Gericht hatte bestimmte Zoll-Lizenzmechanismen eingeschränkt:
 
 Deutsche Übersetzung des Posts:

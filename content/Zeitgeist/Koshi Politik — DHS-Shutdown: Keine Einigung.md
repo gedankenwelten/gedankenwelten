@@ -53,7 +53,7 @@ Das sind die Mindeststandards, die für **jede andere** US-Polizeibehörde gelte
 
 ### ICE-Signing-Bonus: 50.000 Dollar mit Haken
 
-Neue ICE-Agents bekommen einen **$50.000 Signing Bonus** — aber im Kleingedruckten: Wer vor 5 Jahren kündigt, muss den Bonus zurückzahlen. Koshi: Das erklärt, warum Agents nicht einfach kündigen.
+Neue ICE-Agents bekommen einen **\$50.000 Signing Bonus** — aber im Kleingedruckten: Wer vor 5 Jahren kündigt, muss den Bonus zurückzahlen. Koshi: Das erklärt, warum Agents nicht einfach kündigen.
 
 ---
 
@@ -69,7 +69,7 @@ Neue ICE-Agents bekommen einen **$50.000 Signing Bonus** — aber im Kleingedruc
 > **"Kinder 6 Wochen über Weihnachten in Abschiebehaft"** — Murphys Aussage in der Anhörung. Fälle von Kindern in ICE-Haft sind dokumentiert; die genaue Zahl und Dauer dieser spezifischen Fälle konnte nicht unabhängig verifiziert werden.
 
 > [!warning] Vereinfacht
-> **$50.000 Signing Bonus mit 5-Jahres-Rückzahlungspflicht** — Koshi nennt diese Details als bekannt. ICE-Signing-Bonuses wurden berichtet; die genauen Bedingungen variieren und sollten verifiziert werden.
+> **\$50.000 Signing Bonus mit 5-Jahres-Rückzahlungspflicht** — Koshi nennt diese Details als bekannt. ICE-Signing-Bonuses wurden berichtet; die genauen Bedingungen variieren und sollten verifiziert werden.
 
 > [!success] Bestätigt
 > **ICE-Ausbildung dauert ca. 42 Tage** — Zum Vergleich: Polizeiakademie im US-Durchschnitt ~21 Wochen. Koshis Zahl ist plausibel und konsistent mit Whistleblower-Aussagen in späteren Videos.
@@ -78,6 +78,14 @@ Neue ICE-Agents bekommen einen **$50.000 Signing Bonus** — aber im Kleingedruc
 
 ## Verbindungen
 
-- [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]] — tags zuvor: was in der Anhörung ans Licht kam
-- [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Whistleblower packt aus]] — 12 Tage später: interne Details zur Ausbildung
-- [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Manow erklärt Migration als Verteilungsfrage; hier zeigt sich die institutionelle Seite: ICE als politisch instrumentalisierte Behörde
+### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]]
+
+tags zuvor: was in der Anhörung ans Licht kam
+
+### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Whistleblower packt aus]]
+
+12 Tage später: interne Details zur Ausbildung
+
+### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Manow erklärt Migration als Verteilungsfrage; hier zeigt sich die institutionelle Seite: ICE als politisch instrumentalisierte Behörde

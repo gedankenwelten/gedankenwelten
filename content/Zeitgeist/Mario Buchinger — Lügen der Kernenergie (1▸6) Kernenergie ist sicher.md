@@ -25,6 +25,9 @@ Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 ## Kontext & Einleitung
 
+[▶ 9:51](https://www.youtube.com/watch?v=iId8UaXcQ88&t=591)
+
+
 Buchinger eröffnet seine sechsteilige Serie *„Lügen der Kernenergie"* mit der Grundfrage: Ist Kernenergie sicher? Er positioniert sich explizit als Physiker, der die Technologie nicht ignoriert oder nicht versteht — sondern gerade *weil* er sie kennt, zu dem Schluss kommt: Sie ist eine **Hochrisikotechnologie**.
 
 Das Dakota-Sprichwort, das er eingangs zitiert, gibt die Rahmung vor: „Wenn du merkst, dass du ein totes Pferd reitest, steig ab." Kernenergie ist dieses tote Pferd. Trotzdem wird es von einer Bubble hartgesottener AKW-Fans weiter geritten — und genau diese Bubble bedient er mit dieser Serie.
@@ -34,6 +37,9 @@ Vorab hält er eine politische Korrektur fest, die ihm wichtig ist: **Den deutsc
 ---
 
 ## Historische Einordnung: Kernspaltung und ihre Herkunft
+
+[▶ 13:37](https://www.youtube.com/watch?v=iId8UaXcQ88&t=817)
+
 
 Buchinger gibt einen physikhistorischen Abriss, der gezielt eine Verbindung zieht, die in der Pro-Kernenergie-Debatte gerne verschwiegen wird:
 
@@ -68,6 +74,9 @@ Die Versicherungslogik ist eindeutig: Eine Versicherung berechnet ihre Prämie a
 Das ist keine linksgrüne Meinung, sondern schlichte Versicherungsmathematik.
 
 ### 3. Tschernobyl: Die offiziellen 4.000 Toten vs. die Realität
+
+[▶ 14:23](https://www.youtube.com/watch?v=iId8UaXcQ88&t=863)
+
 
 AKW-Fans verweisen gerne auf eine Metrik: **offizielle Todesopfer pro erzeugte Kilowattstunde** — und Kernenergie sieht dabei bemerkenswert gut aus.
 
@@ -126,7 +135,18 @@ Buchinger fasst zusammen: Kernenergie ist keine sichere Energieform — weder be
 
 ## Verbindungen
 
-- [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Überblicksnote zur sechsteiligen Serie. Diese Folge liefert das Fundament für Buchingers Gesamtthese: Kernenergie ist nicht nur teuer und nicht skalierbar, sondern grundlegend unsicher.
-- [[Dietrich Bonhoeffer — Theorie der Dummheit]] — Das Beharren auf der Erzählung „Kernenergie ist sicher" trotz gegenteiliger Datenlage illustriert Bonhoeffers Beobachtung: Fakten verfangen nicht mehr, wenn jemand sich kollektiver Überzeugungen versichert hat. Die AKW-Fanbubble ist genau jene Gemeinschaft, gegen die Argumente abprallen.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Die Differenz zwischen offiziellen 4.000 und realistisch 30.000–1.400.000 Tschernobyl-Todesopfern ist ein Musterbeispiel für das, was Mausfeld als Manipulation der öffentlichen Wahrnehmung durch selektive Informationsbewirtschaftung beschreibt. Wer nur den offiziellen IAEA-Wert kommuniziert, betreibt aktive Rahmensetzung.
-- [[Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Die Strategie der AKW-Fans, offiziell gezählte Todesopfer durch erzeugte kWh zu teilen und daraus „Sicherheit" zu konstruieren, ist eine methodisch unehrliche Metrik — die schadet der gesellschaftlichen Debatte, ohne irgendjemanden zu nützen. Cipollas dritter Typus.
+### → [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Überblicksnote zur sechsteiligen Serie. Diese Folge liefert das Fundament für Buchingers Gesamtthese: Kernenergie ist nicht nur teuer und nicht skalierbar, sondern grundlegend unsicher.
+
+### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
+
+Das Beharren auf der Erzählung „Kernenergie ist sicher" trotz gegenteiliger Datenlage illustriert Bonhoeffers Beobachtung: Fakten verfangen nicht mehr, wenn jemand sich kollektiver Überzeugungen versichert hat. Die AKW-Fanbubble ist genau jene Gemeinschaft, gegen die Argumente abprallen.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Die Differenz zwischen offiziellen 4.000 und realistisch 30.000–1.400.000 Tschernobyl-Todesopfern ist ein Musterbeispiel für das, was Mausfeld als Manipulation der öffentlichen Wahrnehmung durch selektive Informationsbewirtschaftung beschreibt. Wer nur den offiziellen IAEA-Wert kommuniziert, betreibt aktive Rahmensetzung.
+
+### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+
+Die Strategie der AKW-Fans, offiziell gezählte Todesopfer durch erzeugte kWh zu teilen und daraus „Sicherheit" zu konstruieren, ist eine methodisch unehrliche Metrik — die schadet der gesellschaftlichen Debatte, ohne irgendjemanden zu nützen. Cipollas dritter Typus.

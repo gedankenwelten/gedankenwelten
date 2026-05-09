@@ -23,6 +23,9 @@ aliases:
 
 Quelle: [Warum Tech-Eliten so denken und was das für dich bedeutet – scobel im Gespräch: Anna-Verena Nosthoff](https://www.youtube.com/watch?v=cvZW3TD2jNE)
 
+> [!tip] Kanal unterstützen
+> Gert Scobels YouTube-Kanal ist stiftungsgefördert und werbefrei — philosophische Tiefe in Zeiten der Oberflächlichkeit. Unterstützenswert: [YouTube @scobel](https://www.youtube.com/@scobel)
+
 > [!info] Wer spricht?
 > **Gert Scobel** — Philosoph (M.A. UC Berkeley), Journalist, zweifacher Grimme-Preisträger, Prof. für Philosophie & Interdisziplinarität (H-BRS Bonn-Rhein-Sieg). Leitete die 3sat-Sendung *scobel* 17 Jahre lang (2008–2025). Seit Sept. 2025 eigener YouTube-Kanal (produziert von Friedrich Küppersbusch / Probono Köln, gefördert durch Stiftungen) — dieses Video stammt aus dem neuen Kanal.
 >
@@ -33,6 +36,9 @@ Quelle: [Warum Tech-Eliten so denken und was das für dich bedeutet – scobel i
 ## Inhalt
 
 ### Das vergessene Zauberwort: Kybernetik
+
+[▶ 2:19](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=139)
+
 
 Kybernetik = die Wissenschaft von Steuerung und Regelung im Mensch und in der Maschine. Entstanden in den 1940er–50er Jahren, heute kaum noch als Begriff bekannt — gerade weil sie sich in alles eingeschrieben hat: Informatik, Robotik, Soziologie, Politikwissenschaft, KI. Alex Pentland (MIT): *"Der Begriff Kybernetik verschwand am MIT, weil Kybernetik über alles ist wie Luft."*
 
@@ -59,6 +65,9 @@ Daraus entstanden zwei Grundkonzepte der digitalen Gegenwart:
 Spannung: Wiener selbst konfliktierte mit John von Neumann darüber, ob Forschungsergebnisse der US-Regierung zugänglich gemacht werden sollten.
 
 ### Kernbegriffe der kybernetischen Logik
+
+[▶ 28:08](https://www.youtube.com/watch?v=cvZW3TD2jNE&t=1688)
+
 
 **Feedback / Rückkopplung** — Das Medium des anpassenden Verhaltens. Modell: Thermostat. Sollwert → Rückmeldung ob erreicht → Verhaltenskorrektur. *Purposeful behavior.*
 
@@ -132,16 +141,90 @@ Nosthoff plädiert für:
 
 ## Verbindungen
 
-- [[Andreas Kemper — Technofaschismus und die AfD]] — Kemper analysiert Technofaschismus als rechts-libertären Ideologiekomplex; Nosthoff liefert die ideengeschichtliche Grundlage: von Kybernetik zu Silicon-Valley-Autoritarismus. Beide Analysen zusammen: Wie Technologiediskurs zu politischer Agenda wird
-- [[Adam Tooze — Pentagon vs. Anthropic]] — Tooze zeigt den aktuellen Kampf um KI-Kontrolle zwischen Militär und Tech-Konzernen; Nosthoff erklärt die historische Linie dahinter: Kybernetik entstand militärisch, KI entstand militärisch — der Kreis schließt sich
-- [[Eva von Redecker — Dieser Drang nach Härte]] — Redeckers Phantombesitz-Begriff als Eigentumsanspruch auf die Welt berührt Nosthoffs Analyse: Tech-Eliten beanspruchen kybernetisch die Steuerung gesellschaftlicher Systeme als ihr *Recht*
-- [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Beide analysieren die Verschränkung von Kapitalismus, Autoritarismus und Technologie als Merkmal des 21. Jahrhunderts
-- [[Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kempers Klerikalfaschismus und Technofaschismus-Typen finden in Nosthoffs kybernetischer Herrschaftsgeschichte ihren Ursprungsnarrativ
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfelds Analyse der Zähmung demokratischer Gesellschaften durch Propaganda und Mediensteuerung passt zur Nosthoff-These: Kybernetische Feedback-Systeme als Domestizierungswerkzeug. Nosthoff liefert den technikhistorischen Unterbau
-- [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas Begriff der *Unverfügbarkeit* trifft den Kern der Nosthoff-Kritik: Kybernetische Systeme wollen alles verfügbar, vorhersehbar, steuerbar machen. Das Unverfügbare — das echte Subjekt, das lebendige Gegenüber — fällt heraus
-- [[Erich Fromm — Haben oder Sein]] — Nosthoffs Datensubjekt ist Fromms *Haben*-Modus in Reinform: Der Mensch reduziert auf akkumulierte Datenpunkte, nicht auf sein Sein. Das algorithmische Profil ist das Haben-Äquivalent im digitalen Kapitalismus
-- [[Manfred Spitzer — KI, Gehirn und Lernen]] — Spitzers und Wolf Singers Warnung vor der Gehirn-Computer-Analogie wird von Nosthoff historisch eingebettet: Diese Analogie entstand in den Macy-Konferenzen der 1940er Jahre als kybernetisches Kernprojekt
-- [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Heitmeyers These der gesellschaftlichen Verrohung findet in Nosthoff eine strukturelle Erklärung: Wenn Menschen auf Datenpunkte reduziert werden, verliert sich die Grundlage für Würde und Mitgefühl
-- [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Manow betont die Wahlentscheidung; Nosthoff zeigt, wie kybernetische Systeme demokratische Deliberation strukturell umgehen — der Steuermann braucht keine Zustimmung
-- [[Hannah Arendt — Denken ohne Geländer]] — Arendts Unterscheidung zwischen *Denken* und *Kognition* trifft Nosthoffs Kernkritik: Kybernetik reduziert Denken auf neuronale Signalübertragung. Was Arendt als Denken beschreibt — das ungesicherte Urteilen ohne Geländer — verschwindet im Datensubjekt
-- [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — OpenAI/Sora-Einstellung als Symptom der Macht-Konzentrations-Dynamik, die Nosthoff analysiert; Anthropic vs. Pentagon als Gegenstück zu Nosthoffs Steuerungsambition
+### → [[Andreas Kemper — Technofaschismus und die AfD]]
+
+Kemper analysiert Technofaschismus als rechts-libertären Ideologiekomplex; Nosthoff liefert die ideengeschichtliche Grundlage: von Kybernetik zu Silicon-Valley-Autoritarismus. Beide Analysen zusammen: Wie Technologiediskurs zu politischer Agenda wird
+
+### → [[Adam Tooze — Pentagon vs. Anthropic]]
+
+Tooze zeigt den aktuellen Kampf um KI-Kontrolle zwischen Militär und Tech-Konzernen; Nosthoff erklärt die historische Linie dahinter: Kybernetik entstand militärisch, KI entstand militärisch — der Kreis schließt sich
+
+### → [[Eva von Redecker — Dieser Drang nach Härte]]
+
+Redeckers Phantombesitz-Begriff als Eigentumsanspruch auf die Welt berührt Nosthoffs Analyse: Tech-Eliten beanspruchen kybernetisch die Steuerung gesellschaftlicher Systeme als ihr *Recht*
+
+### → [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
+
+Beide analysieren die Verschränkung von Kapitalismus, Autoritarismus und Technologie als Merkmal des 21. Jahrhunderts
+
+### → [[Andreas Kemper — Faschismen im 21. Jahrhundert]]
+
+Kempers Klerikalfaschismus und Technofaschismus-Typen finden in Nosthoffs kybernetischer Herrschaftsgeschichte ihren Ursprungsnarrativ
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Mausfelds Analyse der Zähmung demokratischer Gesellschaften durch Propaganda und Mediensteuerung passt zur Nosthoff-These: Kybernetische Feedback-Systeme als Domestizierungswerkzeug. Nosthoff liefert den technikhistorischen Unterbau
+
+### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
+
+Rosas Begriff der *Unverfügbarkeit* trifft den Kern der Nosthoff-Kritik: Kybernetische Systeme wollen alles verfügbar, vorhersehbar, steuerbar machen. Das Unverfügbare — das echte Subjekt, das lebendige Gegenüber — fällt heraus
+
+### → [[Erich Fromm — Haben oder Sein]]
+
+Nosthoffs Datensubjekt ist Fromms *Haben*-Modus in Reinform: Der Mensch reduziert auf akkumulierte Datenpunkte, nicht auf sein Sein. Das algorithmische Profil ist das Haben-Äquivalent im digitalen Kapitalismus
+
+### → [[Manfred Spitzer — KI, Gehirn und Lernen]]
+
+Spitzers und Wolf Singers Warnung vor der Gehirn-Computer-Analogie wird von Nosthoff historisch eingebettet: Diese Analogie entstand in den Macy-Konferenzen der 1940er Jahre als kybernetisches Kernprojekt
+
+### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+
+Heitmeyers These der gesellschaftlichen Verrohung findet in Nosthoff eine strukturelle Erklärung: Wenn Menschen auf Datenpunkte reduziert werden, verliert sich die Grundlage für Würde und Mitgefühl
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Manow betont die Wahlentscheidung; Nosthoff zeigt, wie kybernetische Systeme demokratische Deliberation strukturell umgehen — der Steuermann braucht keine Zustimmung
+
+### → [[Hannah Arendt — Denken ohne Geländer]]
+
+Arendts Unterscheidung zwischen *Denken* und *Kognition* trifft Nosthoffs Kernkritik: Kybernetik reduziert Denken auf neuronale Signalübertragung. Was Arendt als Denken beschreibt — das ungesicherte Urteilen ohne Geländer — verschwindet im Datensubjekt
+
+### → [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+
+OpenAI/Sora-Einstellung als Symptom der Macht-Konzentrations-Dynamik, die Nosthoff analysiert; Anthropic vs. Pentagon als Gegenstück zu Nosthoffs Steuerungsambition
+
+### → [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
+
+Navidi zeigt, wie der kybernetische Machtanspruch der Tech-Eliten (Nosthoff) in konkreten Regierungsstrukturen ankommt: DOGE als regulierungsfreie Zone, SEC-Entmachtung, Staatsaufträge als Loyalitätsprämien
+
+### → [[scobel — Luhmann Abklaerung der Aufklaerung]]
+
+Luhmanns Systemtheorie ist ohne Kybernetik nicht denkbar — er lernte sie bei Parsons in Harvard. Nosthoff zeigt, wie dieselbe Denkfigur heute in Tech-Eliten-Ideologie umgebaut wird: Gesellschaft als kybernetisches System, das "optimiert" werden kann. Luhmann hätte das für eine gefährliche Vereinfachung gehalten — er beschrieb Systeme als operational geschlossen, nicht als steuerbar von außen.
+
+### → [[Gilda con Arne — Rechte Milliardaere kaufen Medien]]
+
+Nosthoffs kybernetischer Machtanspruch der Tech-Eliten, konkret manifestiert: Ellison kauft CBS/WBD, Bezos diszipliniert die WaPo — Steuerungsambition wird Medienkontrolle
+
+### → [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]]
+
+Daubs Silicon-Valley-Kritik ergänzt Nosthoffs kybernetische Analyse: „Creeps" als Tech-Herrschaftsform, kryptische Billboards als Zeichen einer Kaste, die nur noch mit sich selbst spricht
+
+### → [[Erich Fromm — Psychoanalyse des Faschismus]]
+
+Fromms "kategorischer Imperativ der Technik" (1975): was machbar ist, wird gemacht. Nosthoff zeigt seine extremste Gegenwartsform — Tech-Milliardäre als neue anonyme Autorität ohne demokratische Kontrolle
+
+### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+
+Das EU-Verfahren gegen TikToks Suchtdesign ist die regulatorische Gegenbewegung zur kybernetischen Steuerungslogik, die Nosthoff theoretisch beschreibt: Plattformen als Verhaltensmodifikations-Maschinen — die EU bricht das Tabu, dass „Code is Law" über staatlicher Souveränität steht.
+
+### → [[Markus Gabriel — Ethische Intelligenz (scobel)]]
+
+Gegenposition zu Nosthoffs Tech-Kritik: Wo Nosthoff kybernetische Steuerungsambition als Bedrohung analysiert, sieht Gabriel in KI einen Ko-Evolutionspartner. Beide bei scobel, beide zur Frage der Technik-Kontrolle — aber diametral verschiedene Schlussfolgerungen
+
+### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]
+
+Trumps World Liberty Financial als konkretes Beispiel für Nosthoffs These: Wenn politische Macht und Fintech-Infrastruktur in einer Hand liegen, entsteht eine neue Form der Kontrolle. Der Unterschied zu Silicon-Valley-Oligarchen: Trump kontrolliert zusätzlich den Staat.
+
+### → [[Markus Gabriel — Soziale Netzwerke Neue Theorie]]
+
+Gabriels ontologische Analyse ergänzt Nosthoffs technikhistorischen Zugang: Wo Nosthoff die kybernetische Genealogie der Verhaltenssteuerung freilegt, zeigt Gabriel, dass sozialen Netzwerken die *Triangulation* fehlt — der korrigierende Gegenstand. Sein Mindestlohn-Vorschlag ist eine konkret-juristische Antwort auf dieselbe Machtkonzentration, die Nosthoff beschreibt.

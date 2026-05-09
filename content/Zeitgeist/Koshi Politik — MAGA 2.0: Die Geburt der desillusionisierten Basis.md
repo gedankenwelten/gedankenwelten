@@ -40,6 +40,9 @@ Koshi definiert **MAGA 2.0**: Menschen, die sich **der Botschaft treu** fühlen 
 
 ### Was ist MAGA-Personenkult?
 
+[▶ 10:51](https://www.youtube.com/watch?v=pn8fJV_k3JA&t=651)
+
+
 Koshi charakterisiert Hardcore-MAGA durch fehlende Prinzipienreue:
 - „Wir hassen Kommunismus" → Trump fordert Zölle und staatliche Intel-Beteiligung
 - „Wir sind für Recht und Ordnung" → January 6, Überfall auf Polizisten, Trump begnadigt Verurteilte
@@ -48,6 +51,9 @@ Koshi charakterisiert Hardcore-MAGA durch fehlende Prinzipienreue:
 MAGA 2.0 hat das erkannt: **Trump ist genau das, was er 2016 abschaffen wollte** — ein Neokon.
 
 ### Das Pierce-Morgan-Panel
+
+[▶ 17:47](https://www.youtube.com/watch?v=pn8fJV_k3JA&t=1067)
+
 
 Drei ehemalige Hardcore-MAGA bei Pierce Morgan:
 - **Will Chamberlain:** Noch im Personenkult. „Das war der größte Militärschlag aller Zeiten." Ignoriert alle Fragen nach dem Ziel.
@@ -71,6 +77,9 @@ Caroline Levitt: „Die Tür muss man sich offenhalten." Trump deutete mögliche
 Trendender Hashtag: **#SendBaron** — Schick deinen eigenen Sohn.
 
 ### Warum „kein Krieg" semantisch wichtig ist
+
+[▶ 20:06](https://www.youtube.com/watch?v=pn8fJV_k3JA&t=1206)
+
 
 Koshi erklärt: Trump nennt es „Spezialoperation" oder „excursion" — nicht „Krieg" — weil:
 1. Krieg offiziell Kongress-Genehmigung erfordert (die Trump nicht will)
@@ -119,5 +128,11 @@ Manow erklärt die MAGA-Basis strukturell-ökonomisch. Koshi zeigt, wie dieselbe
 ### → [[Zeitgeist/Koshi Politik/Koshi Politik — Wer profitiert vom Iran-Krieg]]
 Die Korruptions-Enthüllung (Qatar, Kushner, Witkoff) ist der inhaltliche Kern dessen, was MAGA als Verrat wahrnimmt.
 
+### → [[Koschi Politik — Trump gegen Papst Leo]]
+Nächste Eskalation: Trump posiert als Jesus auf Truth Social — und selbst diehard-MAGA reagiert irritiert. Die Desillusionierung hat eine neue Dimension erreicht: nicht mehr Kriegsmüdigkeit, sondern religiöser Ekelreflex.
+
 ### → [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]]
 Bonhoeffer: Dummheit als gesellschaftliche Entmündigung — Personenkult ist ihre reinste Form. MAGA 2.0 wäre dann der Moment der Befreiung von dieser Entmündigung.
+
+### → [[Nachtsitzung — Trumps Machtbasis bricht zusammen]]
+Biersky liefert die Strukturanalyse dazu: MAGA 2.0 ist nicht nur ein Stimmungsumschwung, sondern ein systematisches Wegbrechen auf allen Ebenen der Machtpyramide — von der Basis bis zu den Influencern.

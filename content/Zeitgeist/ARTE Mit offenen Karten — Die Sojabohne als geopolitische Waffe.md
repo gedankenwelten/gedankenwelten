@@ -173,4 +173,14 @@ China sichert seine südamerikanischen Lieferketten parallel ab — über Invest
 
 [[Good News — Positive Nachrichten März 2026]] — EU-Mercosur-Abkommen Januar 2026 ist ein direktes Produkt derselben Handelsdynamiken: Trump-Zölle erzwingen globale Kooperationsverschiebungen — dasselbe geopolitische Muster wie bei der Soja.
 
+[[Good News — Gute Nachrichten April 2026 Teil 2]] — Konkreter Bruchpunkt im Soja-System: 1.000 indigene Munduruku-Aktivisten haben Cargills Hafenausbau am Tapajós gestoppt. Die ARTE-Note erklärt das System, die Cargill-Story den Widerstand gegen genau diese Logik — David gegen Goliath in der Soja-Geopolitik.
+
 [[taz Reingehen — Wer das Öl hat, hat das Sagen]] — Öl und Soja als parallele Fallstudien geopolitischer Rohstoffmacht: Herrmann zeigt, wie Iran die Hormus-Straße als Waffe einsetzt — dasselbe Muster wie Brasilien/USA im Sojahandel, nur mit direktem militärischem Eskalationspotenzial
+
+[[Norio — Kupferschiefer-Mine in der Lausitz]] — Kupfer als dritte Rohstoff-Fallstudie neben Soja und Öl: Deutschlands Importabhängigkeit bei 1,3 Mio. t/Jahr, Chinas Monopol auf seltene Erden — dasselbe geopolitische Muster, andere Ressource
+
+[[Die Neuen Zwanziger — Salon Lektueren Februar 2026]] — Die Sojabohne zeigt methodisch, was Schmitt/Schulz an Herrmann kritisieren: Geopolitische Interessen (Nahrungssicherheit, Handelsmonopole) sind eigenständige Realitäten, nicht aus ökonomischer Schwäche ableitbar
+
+### → [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]]
+
+Kaczmarczyks Handelsbilanz-Kritik zeigt das System hinter den Rohstoffströmen, die ARTE am Beispiel Soja konkretisiert

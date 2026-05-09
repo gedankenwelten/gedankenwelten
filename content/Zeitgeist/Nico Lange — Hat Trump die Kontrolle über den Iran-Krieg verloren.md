@@ -309,3 +309,9 @@ Blumenthal/Hedges beleuchten die Hintergrundmechanismen (Mega Group, Netanyahu-L
 
 ### → [[Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)]]
 Aktualisierung 29.03.2026: Tucker Carlsons öffentlicher Kurswechsel gegen Israel markiert die sichtbare Institutionalisierung der MAGA-Spaltung über den Iran-Krieg, die Lange beschreibt. Drei konkrete Bodenoffensiv-Szenarien (Chark, Uranlager, Küste), NATO-Drohung, Pistorius „nicht unser Krieg".
+
+### → [[Koschi Politik — Hochmut vor dem Fall: Iran trifft Trump]]
+Manuel dokumentiert am 13.04.2026 die konkrete Antwort auf Langes Titelthese: drei US-Flugzeuge in 24 Stunden vom Himmel geholt, ein Pilot vermisst — mit 50 Jahre alten Nixon-Waffen. Der Hochmut ("complete air dominance") trifft auf die Realität.
+
+- [[Bundestalk — Iran USA und die Strasse von Hormus]] — Vier Wochen nach Langes Analyse: alle drei Auswege gescheitert, unbefristeter Waffenstillstand als Bankrotterklärung
+- [[Markus Reisner — Strasse von Hormus fragil]] — Militärstrategische Bestätigung der Kontrollverlust-These: Bauchgefühl-Entscheidung, Entlassung des Marineministers, Patt am Hormus

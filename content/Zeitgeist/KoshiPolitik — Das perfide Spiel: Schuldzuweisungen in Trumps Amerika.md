@@ -102,12 +102,42 @@ Das "perfide Spiel" im Titel ist präzise: Es geht nicht nur um Fehler, sondern 
 
 ## Verbindungen
 
-- [[MONITOR — Irankrieg und das Ende des Völkerrechts]] — Völkerrechtlicher Rahmen des Iran-Krieges; Ergänzung zu Koshis Innenperspektive
-- [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]] — Strategische Analyse: Trump verliert Kontrolle; deckt sich mit Hegseth-Debakel
-- [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]] — Innenpolitische Erosion der Trump-Unterstützung; direkte Parallele zu Koshis Beobachtungen
-- [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Iranische Perspektive auf den Krieg; Hintergrund zu Trumps "konstruktiven Gesprächen"
-- [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]] — Geopolitischer Kontext des Konflikts
-- [[Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]] — Trumps Muster, Verantwortung auf andere zu schieben, ist ein klassisches narzisstisches Abwehrmuster
-- [[Dietrich Bonhoeffer — Theorie der Dummheit]] — Bonhoeffers "eingespannte Dummheit": Kabinettsmitglieder wie Hegseth, die trotz offensichtlicher Inkompetenz Macht behalten, weil das System sie trägt
-- [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Strukturelle Bedingungen für Trumps Regierungsstil: Populismus und Erosion demokratischer Normen
-- [[Koschi Politik — Pete Hegseth und das christlich-nationalistische Militär]] — Gleicher Kanal; hier institutionelle Umsetzung von Trumps Schuldzuweisungen im Militär — Hegseth als Sündenbock und Frontmann
+### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
+
+Völkerrechtlicher Rahmen des Iran-Krieges; Ergänzung zu Koshis Innenperspektive
+
+### → [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
+
+Strategische Analyse: Trump verliert Kontrolle; deckt sich mit Hegseth-Debakel
+
+### → [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]
+
+Innenpolitische Erosion der Trump-Unterstützung; direkte Parallele zu Koshis Beobachtungen
+
+### → [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
+
+Iranische Perspektive auf den Krieg; Hintergrund zu Trumps "konstruktiven Gesprächen"
+
+### → [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
+
+Geopolitischer Kontext des Konflikts
+
+### → [[Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+
+Trumps Muster, Verantwortung auf andere zu schieben, ist ein klassisches narzisstisches Abwehrmuster
+
+### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
+
+Bonhoeffers "eingespannte Dummheit": Kabinettsmitglieder wie Hegseth, die trotz offensichtlicher Inkompetenz Macht behalten, weil das System sie trägt
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Strukturelle Bedingungen für Trumps Regierungsstil: Populismus und Erosion demokratischer Normen
+
+### → [[Koschi Politik — Pete Hegseth und das christlich-nationalistische Militär]]
+
+Gleicher Kanal; hier institutionelle Umsetzung von Trumps Schuldzuweisungen im Militär — Hegseth als Sündenbock und Frontmann
+
+### → [[Paul Lance — Amerikaner fragt Deutsche ueber Trump]]
+
+Lance beschreibt dieselbe Sündenbockstrategie aus der Innenperspektive: Deutsche erkennen das Muster sofort (Migranten, Muslime, Somalier) als historisch identisch mit der NS-Propaganda

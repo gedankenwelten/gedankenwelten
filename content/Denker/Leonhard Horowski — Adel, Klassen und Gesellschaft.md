@@ -230,10 +230,14 @@ Und Liselottes Schwestern: Sie blieben ihr Leben lang unverheiratet. Nicht weil 
 
 ## Verbindungen
 
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Boarding Schools als modernes Äquivalent aristokratischer Erziehung: Klassenreproduktion durch Charakterformung. Bourdieus Habitus-Konzept ist der theoretische Brückenbau zwischen Horowski (historisch) und dieser Gegenwarts-Analyse.
 - [[Götz Aly — Wie konnte das geschehen]] — Klassenzugehörigkeit als Schutzmechanismus gegen moralisches Urteilen; Volksgemeinschaft als geronnene Interessen
 - [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kemper dokumentiert 186 adlige Akteure im organisierten Antifeminismus (Beatrix von Storch, Edmund von Waldstein, TFP, Piusbrüderschaft): Die Adelsnetzwerke, die Horowski historisch beschreibt, sind politisch aktiv. Heirat, Blut und Kapital als Mechanismen von Machtreproduktion — genau das, was Horowski für das 17./18. Jahrhundert zeigt, wirkt heute weiter.
 - [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Macht braucht keine Gewalt, wenn die Unterwerfung internalisiert ist; höfische Gesellschaft als Vorbild modernen Elite-Managements
 - [[Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] — Modelle strukturieren, was wir überhaupt als Möglichkeit wahrnehmen; Selbstverständlichkeiten als blinde Flecken
 - [[Neue Akropolis — Der Mensch ist besser als sein Ruf]] — Kooperation vs. Statuswettbewerb; Rang als Spiel, das alle spielen müssen
 - [[Vipassana — Zehn Tage]] — Konditionierungen, die so tief sitzen, dass sie wie Natur wirken; das Sankhara des Standes
+- [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Butterwegge belegt, wie Klassenreproduktion im modernen Finanzkapitalismus strukturell fortgeführt wird: Erbschaftssteuer-Ausnahmen, Holding-Privilegien, Vermögensteuer-Aussetzung — Horowskis historische Analyse findet ihre Gegenwart
 - [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Kehnel zeigt soziale Mobilität als Kernthema mittelalterlicher Geschichte (Universitäten als Motoren); Gegenthese zur Vorstellung starrer Feudalhierarchien — Ergänzung zu Horowskis Analyse des Absolutismus als Kulminationspunkt von Klassenfixierung
+- [[Florian Homm - Ich war eine Leistungsmaschine]] — Homm beschreibt die *moderne* Version von Horowskis Dynastienlogik: Kapital reproduziert sich über Generationen, Talente werden gezielt selektiert und geformt. Die Kontinuität von "Klasse als Formierungsprogramm" verbindet Ancien Régime und heutiges Elite-Milieu.
+- [[Steffen Mau — Spaltung der Gesellschaft]] — Maus „Spermienlotterie" zeigt: Horowskis Prinzip der Privilegienvererbung gilt weiter — in Hamburg wird mehr Erbschaftssteuer bezahlt als in ganz Ostdeutschland, 95% aller ostdeutschen Betriebe gingen an Westdeutsche

@@ -35,6 +35,9 @@ Begleitnote: [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 
 ## Faschismus-Begriff: Warum Genauigkeit zählt
 
+[▶ 3:49](https://www.youtube.com/watch?v=ug4UAdnGH54&t=229)
+
+
 Kemper orientiert seinen Faschismus-Begriff am **Schwur von Buchenwald**: die befreiten Häftlinge sagten *„Nie wieder Faschismus"* — also etwas, das es nie wieder geben *darf*, nicht etwas, das es nie wieder *geben wird*. Der Begriff ist damit normativ aufgeladen, nicht rein historisch.
 
 > [!warning] Zwei Richtungen von Ungenauigkeit
@@ -42,6 +45,9 @@ Kemper orientiert seinen Faschismus-Begriff am **Schwur von Buchenwald**: die be
 > 2. **Verharmlosung**: Faschisten nicht als solche benennen aus falscher Höflichkeit — das arbeitet dem Buchenwald-Schwur entgegen.
 
 ### Faschismustheorien im Überblick
+
+[▶ 7:38](https://www.youtube.com/watch?v=ug4UAdnGH54&t=458)
+
 
 Kemper bezieht sich vor allem auf **Roger Griffin** (Großbritannien): Faschismus als Ideologie, deren Wesensmerkmal er präzise benennt:
 
@@ -57,6 +63,9 @@ Daneben nennt Kemper:
 ---
 
 ## Psychoanalyse: Machiavelli und die Identifikation mit dem Aggressor
+
+[▶ 19:53](https://www.youtube.com/watch?v=ug4UAdnGH54&t=1193)
+
 
 Einen zentralen theoretischen Einschub macht Kemper über **Niccolò Machiavelli** — als Schlüssel zur Psychologie des Faschismus:
 
@@ -78,6 +87,9 @@ Das erklärt auch, warum Machiavellis *Principe* bei Faschisten so beliebt ist �
 
 ### 1. Völkischer Nationalismus — Höcke und die AfD
 
+[▶ 27:33](https://www.youtube.com/watch?v=ug4UAdnGH54&t=1653)
+
+
 Kemper untersucht Höcke seit 2014, als er von ostdeutschen AfD-Mitgliedern gewarnt wurde: *„Da ist ein neuer Landesvorsitzender in Thüringen, der radikale Positionen als Lehrer besonders gut verpacken kann."* Das war Höcke.
 
 **Nachweis des Faschismus via Roger Griffin**: Höcke erfüllt alle Merkmale des palingenetischen Ultranationalismus so präzise, dass es wirkte, als habe er Griffins Bücher gelesen und seine Ideologie danach ausgerichtet. Griffin bestätigte Kempers Analyse und bat ihn, das Vorwort zu seinem neuen Buch zu schreiben.
@@ -93,6 +105,9 @@ Heise hat innerhalb der NPD den noch weiter rechten völkischen Flügel organisi
 ---
 
 ### 2. Klerikalfaschismus — das aristokratische Netzwerk
+
+[▶ 43:36](https://www.youtube.com/watch?v=ug4UAdnGH54&t=2616)
+
 
 Parallel zum Nationalsozialismus gab es den **Austrofaschismus** (1933–1938): ein katholisch-aristokratisches System gegen die Demokratie — verfeindet mit den Nazis, aber ebenfalls faschistisch. Kemper sieht dieses Ideologiestrang heute wieder im Aufwind.
 
@@ -135,6 +150,9 @@ Kemper wendet Beatrix von Storchs eigene Logik an: Sie betont Blutsverwandtschaf
 ---
 
 ### 3. Technofaschismus — KI und der postfordistische Faschismus
+
+[▶ 78:55](https://www.youtube.com/watch?v=ug4UAdnGH54&t=4735)
+
 
 > [!info] Begriffsklärung
 > Kemper bevorzugt *„postfordistischer Faschismus"* über *„Technofaschismus"*, weil er die zugrundeliegende **Kapitalform** betonen will, nicht nur das technische Mittel. (In seiner früheren Interview-Note verwendet er beide Begriffe.)
@@ -201,6 +219,8 @@ Musk ließ Wikipedia von Grok umschreiben zu *„Grokipedia"* — mit verfälsch
 
 **Entsolidarisierung als Boden:** [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Heitmeyers These der institutionellen Desintegration als Treiber von Verrohung erklärt das psychosoziale Milieu, in dem alle drei Faschismus-Formen Wurzeln schlagen.
 
+**Praktische Illustration:** [[Daniel - Weidel beim Schwurblertreff AWEF]] — das AWEF-Teilnehmerfeld (Sellner, Bhakdi, Jebsen) als konkretes Beispiel für Kempers Faschismus-Typologie
+
 **Macht und Propaganda:** [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfelds Analyse, wie Eliten Meinungsbildung steuern, fügt sich zu Kempers Befund über die mediale Konstruktion von Sarrazin und die Tech-Milliardäre als neue Informationsmonopolisten.
 
 **Totalitarismustheorie:** [[Denker/Hannah Arendt — Denken ohne Geländer]] — Arendts Totalitarismusanalyse ist der klassische Rahmen, innerhalb dessen Kempers drei Spielarten einzuordnen sind.
@@ -209,11 +229,58 @@ Musk ließ Wikipedia von Grok umschreiben zu *„Grokipedia"* — mit verfälsch
 
 **Technofaschismus konkret — Pentagon vs. Anthropic:** [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]] — Tooze analysiert den Fall aus wirtschaftshistorischer Sicht: Das Pentagon verlangt Claude für autonome Kampfroboter und Massenüberwachung. Das sind nicht zufällig Kempers zwei Kernmerkmale postfordistischer faschistischer Herrschaft — KI als Machtinstrument ohne Massenmobilisierung. Tooze liefert die politökonomische Einordnung zu Kempers Theorie.
 
-- [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]] — Temelkuran und Kemper teilen dieselbe Diagnose: Faschismus muss beim Namen genannt werden; beide warnen vor Verharmlosung durch Lachen — Temelkuran aus gelebter Exil-Perspektive
-- [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Jung & Naiv Kollegin (Folge 815); Iran-Forscherin, Klerikalfaschismus-Analyse ergänzend zur Kempers Faschismus-Typologisierung
-- [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschnings Analyse der AfD-Scheinsolution (60ct-Senkung) illustriert Kempers Theorem: populistische Bewegungen instrumentalisieren wirtschaftliche Frustration durch substanzlose Symbolpolitik ohne Gegenfinanzierung.
-- [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Fricke liefert die ökonomische Basis für Kempers Faschismus-Typen: Kontrollverlust durch Marktliberalismus schafft den Nährboden, auf dem Technofaschismus und Klerikalfaschismus gedeihen
-- [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — STAIY dokumentiert Kempers These in der Praxis: Institutioneller Machtmissbrauch (Förderentzug ohne Begründung) als Merkmal autoritärer Konsolidierung; Demokratieabbau durch „Demokratie Leben"-Streichung
-- [[Zeitgeist/Nicholas Potter — Die neue autoritäre Linke (taz Talk)]] — Potter beschreibt strukturell ähnliche autoritäre Muster von links («Klasse gegen Klasse», «Young Struggle»): ideologisch aufgeladene Kadergruppen, die Kempers Faschismus-Analyse um das linke Spektrum ergänzen.
-- [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — GRT als ideologisches Bindeglied zwischen Kempers Faschismus-Typen: Kendi zeigt, wie dieselbe Theorie von Bukele bis Trump, von Farage bis Meloni jeweils angepasst wird.
-- [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]] — CPAC Hungary als empirische Bestätigung von Kempers These: moderner Faschismus operiert in Institutionen (Konferenzen, NGOs, Stiftungen), nicht auf der Straße — genau die neue institutionelle Form, die Kemper theoretisch beschreibt
+### → [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]]
+
+Temelkuran und Kemper teilen dieselbe Diagnose: Faschismus muss beim Namen genannt werden; beide warnen vor Verharmlosung durch Lachen — Temelkuran aus gelebter Exil-Perspektive
+
+### → [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
+
+Jung & Naiv Kollegin (Folge 815); Iran-Forscherin, Klerikalfaschismus-Analyse ergänzend zur Kempers Faschismus-Typologisierung
+
+### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Quaschnings Analyse der AfD-Scheinsolution (60ct-Senkung) illustriert Kempers Theorem: populistische Bewegungen instrumentalisieren wirtschaftliche Frustration durch substanzlose Symbolpolitik ohne Gegenfinanzierung.
+
+### → [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+
+Fricke liefert die ökonomische Basis für Kempers Faschismus-Typen: Kontrollverlust durch Marktliberalismus schafft den Nährboden, auf dem Technofaschismus und Klerikalfaschismus gedeihen
+
+### → [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+
+STAIY dokumentiert Kempers These in der Praxis: Institutioneller Machtmissbrauch (Förderentzug ohne Begründung) als Merkmal autoritärer Konsolidierung; Demokratieabbau durch „Demokratie Leben"-Streichung
+
+### → [[Zeitgeist/Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]
+
+Potter beschreibt strukturell ähnliche autoritäre Muster von links («Klasse gegen Klasse», «Young Struggle»): ideologisch aufgeladene Kadergruppen, die Kempers Faschismus-Analyse um das linke Spektrum ergänzen.
+
+### → [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
+
+GRT als ideologisches Bindeglied zwischen Kempers Faschismus-Typen: Kendi zeigt, wie dieselbe Theorie von Bukele bis Trump, von Farage bis Meloni jeweils angepasst wird.
+
+### → [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
+
+CPAC Hungary als empirische Bestätigung von Kempers These: moderner Faschismus operiert in Institutionen (Konferenzen, NGOs, Stiftungen), nicht auf der Straße — genau die neue institutionelle Form, die Kemper theoretisch beschreibt
+
+### → [[Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
+
+Putins Umbenennung von "Spezialoperation" zu "metaphysischem Krieg gegen den Westen" ist Kempers Faschisierungs-Rhetorik in Reinform: sakralisierter Krieg als Herrschaftsmittel
+
+### → [[Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]]
+
+Kempers These der AfD als identitäre Systemopposition in Aktion: Chrupalla nutzt die Aktuelle Stunde nicht für Sachpolitik, sondern als Bühne zur Systemdestabilisierung und NGO-Delegitimierung
+
+### → [[Tilo Jung — Erben Wirtschaft AfD-Strategie]]
+
+Jung warnt: AfD-Intellektuelle adaptieren Gramscis Hegemonietheorie — Kempers Analyse in einem 3,5h-Streitgespräch popularisiert
+
+### → [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
+
+Steinke beleuchtet den Verfassungsschutz aus juristischer Perspektive: V-Leute-Problem, Seehofers Intervention beim AfD-Gutachten, historische Kontinuität von Gestapo-Personal — ergänzt Kempers soziologische AfD-Analyse um die institutionelle Dimension
+
+### → [[Zeitgeist/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Teufelspakt zwischen Volk und Führung]]
+
+Aly warnt vor pauschalen Faschismus-Begriffen, liefert aber mit dem Chemie-Modell ein differenzierteres Werkzeug: harmlose Einzelelemente (Sozialpolitik, Rassismus, Propaganda) werden unter Druck explosiv. Sein historischer Befund — die NSDAP nutzte linke Forderungen als Loyalitätsinstrument — ergänzt Kempers Analyse der AfD-Taktik.
+
+### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]
+
+MONITORs Recherche zeigt eine Variante, die in Kempers Faschismus-Taxonomie fehlt: Kleptofaschismus — ein System, in dem autoritäre Machtkonzentration nicht primär ideologisch, sondern ökonomisch motiviert ist. MAGA als Vehikel, Bereicherung als Ziel.
