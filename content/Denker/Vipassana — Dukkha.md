@@ -90,3 +90,15 @@ Bonhoeffer: Dummheit ist kein intellektueller Mangel — sie entsteht, wenn jema
 ### → [[S.N. Goenka — Vipassana]]
 
 Dukkha ist die erste Edle Wahrheit — der Ausgangspunkt. Ohne ehrliche Diagnose kein Heilungsweg. [[Vipassana — Anicca|Anicca]] ist die Antwort: Wer die Vergänglichkeit aller Empfindungen direkt erlebt, löst die Anhaftung auf — und damit die Ursache des Leidens.
+
+### → [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]]
+
+Adriaans Kernthese ("Wunden als Schatz") geht über Goenkas Diagnose hinaus: Leiden ist nicht nur das, wovon man sich befreit — es ist die Brücke zu anderen. Dukkha als Ressource, nicht nur als Feind.
+
+### → [[Thich Nhat Hanh — Die Vier Edlen Wahrheiten]]
+
+Thay zeigt Dukkha als untrennbar mit Wohlbefinden verbunden (*Sahabhū*): wer Leiden bestätigt, bestätigt gleichzeitig die Möglichkeit der Befreiung. Derselbe Ausgangspunkt wie Goenka — andere Herangehensweise: Interbeing statt Vedanā-Analyse.
+
+- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[Walther Ziegler — Schopenhauer in 60 Minuten]] — Schopenhauers „Leben heißt Leiden" ist die erste Edle Wahrheit in westlicher Sprache. Die Diagnose ist identisch: Alles bedingte Dasein ist dukkha. Der Unterschied: Der Buddhismus bietet einen konkreten Übungsweg, Schopenhauer bleibt beim intellektuellen Erkennen
+- [[Walther Ziegler — Buddha in 60 Minuten]] — Zieglers systematische Darstellung der Ersten Edlen Wahrheit als philosophischer Rahmen: Leben heißt Leiden, aber nicht als Pessimismus, sondern als Diagnose. Die Alltagsbeispiele (Anti-Aging, Rolling Stones) machen Dukkha greifbar für Nicht-Meditierende

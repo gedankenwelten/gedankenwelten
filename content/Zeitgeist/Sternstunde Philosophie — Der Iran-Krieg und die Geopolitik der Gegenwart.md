@@ -50,6 +50,9 @@ Schayegh widerspricht: Kein Dilemma. Die Grausamkeit des iranischen Regimes und 
 
 ### Das Sicherheitsdilemma (Schayegh)
 
+[▶ 21:20](https://www.youtube.com/watch?v=RypSj1hEdvE&t=1280)
+
+
 2003 besetzte Amerika den Irak und bedrohte den Iran als nächstes. Teherans defensive Reaktion:
 - Ausbau schiitischer Proxis in der Region (Libanon, Irak)
 - Beschleunigung des Atomprogramms als Abschreckung
@@ -95,6 +98,9 @@ Safiarian beobachtet täglich Handyvideos aus dem Iran: Menschen stehen am Fenst
 
 ## Menschen vs. Regime
 
+[▶ 29:46](https://www.youtube.com/watch?v=RypSj1hEdvE&t=1786)
+
+
 Safiarian betont: Israelis und Iraner hatten auf menschlicher Ebene nie ein Problem miteinander. Im Iran gibt es die größte jüdische Gemeinde außerhalb Israels im Nahen Osten — zu Schahzeiten 200.000 Menschen, heute noch 20.000. Mehrere Synagogen in Teheran, ein jüdisches Krankenhaus, koschere Restaurants, einen jüdischen Vertreter im Parlament. Vor der islamischen Revolution war die israelisch-iranische Beziehung sogar exzellent — israelische Waffenfabrik im Iran, Militärberater.
 
 > "Das alles ist ein Problem der Regime miteinander. Nicht der Menschen."
@@ -127,6 +133,9 @@ Selbst wenn das Regime fällt: **Kein Post-War-Plan.** Weder die USA noch Israel
 
 ## Die Oppositionslandschaft
 
+[▶ 33:33](https://www.youtube.com/watch?v=RypSj1hEdvE&t=2013)
+
+
 - **~80% der Bevölkerung** sind laut Safiarian Regimegegner
 - Strukturen fehlen: Das Regime hat zivilgesellschaftliche Netzwerke im Keim erstickt
 - **Shirin Ebadi** (Friedensnobelpreis, Exil London)
@@ -139,6 +148,9 @@ Selbst wenn das Regime fällt: **Kein Post-War-Plan.** Weder die USA noch Israel
 ---
 
 ## Die Revolutionsgarden — Machtzentrum mit Eigeninteressen
+
+[▶ 35:05](https://www.youtube.com/watch?v=RypSj1hEdvE&t=2105)
+
 
 Laut Journalistin Natalie Amiri die mächtigste Institution der islamischen Republik:
 - Eigenes Heer, Marine, Luftstreitkräfte, Geheimdienst
@@ -173,17 +185,70 @@ Das "Betchberie"-System (Büro des obersten Führers) hat Fühler in unzähligen
 
 ## Verbindungen
 
-- [[MONITOR — Irankrieg und das Ende des Völkerrechts]] — Völkerrechtsfrage und israelisch-amerikanischer Angriff ohne UN-Mandat
-- [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]] — Trumps schwindender Handlungsspielraum
-- [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]] — Innenpolitische Risse in den USA
-- [[Herfried Münkler — Muss es Kriege geben]] — Philosophische Grundlage von Krieg als Instrument der Politik (Clausewitz)
-- [[Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]] — Humanitäre Intervention: Legitimitätsfrage
-- [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]] — Iran-Krieg im deutschen politischen Diskurs
-- [[Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]] — Iran-Flucht und westliche Reaktionen
+### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
 
-- [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Iran-Forscherin mit historischer Tiefe; Perspektive auf Revolutionsgeschichte, IRGC, Golfstaaten-Dilemma und westliche Doppelstandards
-- [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschning ergänzt die geopolitische Analyse um die ökonomische Dimension: Der Iran-Krieg macht Europas fossile Abhängigkeit schmerzhaft sichtbar. Das Sicherheitsdilemma (Sternstunde) und die Energiepolitik (Quaschning) sind zwei Seiten derselben Verwundbarkeit.
-- [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]] — Vier Experten (Fathollah-Nejad, Reinicke, Jäger, Kormbaki) debattieren Chaos vs. Strategie. Komplementär zur Sternstunde: wo Schyek/Safiarian den historisch-philosophischen Rahmen liefern, analysiert die PhoenixRunde konkrete Verhandlungsoptionen, Bodentruppen-Szenarien und die Hormuz-Blockade als aktuellen Druckhebel.
-- [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — STAIY zum aktuellen Stand (25.03.2026): Iran verspottet Trump, 82. Luftlandedivision, Bodentruppen-Eskalation. Bestätigt die Sicherheitsdilemma-Spirale der Sternstunde.
-- [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]] — Beide kartieren dieselbe Weltordnung: wirtschaftliche Abhängigkeiten (Energie, Nahrung) werden zu militärisch-politischen Waffen, multilaterale Institutionen versagen dabei.
-- [[taz Reingehen — Wer das Öl hat, hat das Sagen]] — Ulrike Herrmann liefert die ökonomische Detailanalyse zur geopolitischen Diagnose der Sternstunde: warum die Straße von Hormus Trump machtlos macht und der Iran strategisch gewinnt — Zahlen und Mechanismen hinter der Machtverschiebung
+Völkerrechtsfrage und israelisch-amerikanischer Angriff ohne UN-Mandat
+
+### → [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
+
+Trumps schwindender Handlungsspielraum
+
+### → [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]
+
+Innenpolitische Risse in den USA
+
+### → [[Herfried Münkler — Muss es Kriege geben]]
+
+Philosophische Grundlage von Krieg als Instrument der Politik (Clausewitz)
+
+### → [[Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+
+Humanitäre Intervention: Legitimitätsfrage
+
+### → [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+
+Iran-Krieg im deutschen politischen Diskurs
+
+### → [[Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+
+Iran-Flucht und westliche Reaktionen
+
+### → [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
+
+Iran-Forscherin mit historischer Tiefe; Perspektive auf Revolutionsgeschichte, IRGC, Golfstaaten-Dilemma und westliche Doppelstandards
+
+### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Quaschning ergänzt die geopolitische Analyse um die ökonomische Dimension: Der Iran-Krieg macht Europas fossile Abhängigkeit schmerzhaft sichtbar. Das Sicherheitsdilemma (Sternstunde) und die Energiepolitik (Quaschning) sind zwei Seiten derselben Verwundbarkeit.
+
+### → [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
+
+Vier Experten (Fathollah-Nejad, Reinicke, Jäger, Kormbaki) debattieren Chaos vs. Strategie. Komplementär zur Sternstunde: wo Schyek/Safiarian den historisch-philosophischen Rahmen liefern, analysiert die PhoenixRunde konkrete Verhandlungsoptionen, Bodentruppen-Szenarien und die Hormuz-Blockade als aktuellen Druckhebel.
+
+### → [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+
+STAIY zum aktuellen Stand (25.03.2026): Iran verspottet Trump, 82. Luftlandedivision, Bodentruppen-Eskalation. Bestätigt die Sicherheitsdilemma-Spirale der Sternstunde.
+
+### → [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
+
+Beide kartieren dieselbe Weltordnung: wirtschaftliche Abhängigkeiten (Energie, Nahrung) werden zu militärisch-politischen Waffen, multilaterale Institutionen versagen dabei.
+
+### → [[taz Reingehen — Wer das Öl hat, hat das Sagen]]
+
+Ulrike Herrmann liefert die ökonomische Detailanalyse zur geopolitischen Diagnose der Sternstunde: warum die Straße von Hormus Trump machtlos macht und der Iran strategisch gewinnt — Zahlen und Mechanismen hinter der Machtverschiebung
+
+### → [[Helen Keller — Voelkerrecht zahnloser Tiger]]
+
+Keller (SRF, 19.04.2026) führt die Sternstunde-Reihe zum Iran-Kontext weiter: Wo Schyek/Safiarian geopolitisch analysieren, liefert Keller die völkerrechtliche Tiefenanalyse — R2P, Haftbefehle, Verhältnismäßigkeit.
+
+### → [[Die Neuen Zwanziger — Salon Lektueren Februar 2026]]
+
+Schmitt/Schulz zum Iran-Kontext: Herrmanns Passivitäts-Narrativ des Westens ignoriert, dass die JCPOA-Kündigung die Eskalation *verursachte*
+
+### → [[Bundestalk — Iran USA und die Strasse von Hormus]]
+
+taz-Runde konkretisiert das Sicherheitsdilemma: Trump muss besseres Abkommen als den zerrissenen JCPOA vorlegen
+
+### → [[Torsten Heinrich — Was die Tagesschau verschweigt]]
+
+Heinrich ergänzt die Sternstunde-Geopolitik um die Ukraine-Dimension: identisches analytisches Werkzeug (Völkerrecht, geographische Logik, Medienkritik), angewandt auf den europäischen Konflikt statt den nahöstlichen

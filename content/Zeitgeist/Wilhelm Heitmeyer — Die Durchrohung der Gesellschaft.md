@@ -268,6 +268,9 @@ Flassbeck: Verfehlte Wirtschaftspolitik erzeugt Rechtsruck. Heitmeyer: Kapitalis
 ### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
 Mausfeld analysiert, wie Mediendiskurse die Deutungshoheit sichern und den Demos klein halten. Heitmeyers Diagnose, dass Medien das Gesamtbild der Durchrohung nicht verbreiten und damit zur Selbsttäuschung beitragen, ist die andere Seite: nicht nur Propaganda, sondern auch strukturelles Schweigen über ein systemisches Problem.
 
+### → [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
+Heitmeyer beschreibt die gesellschaftliche Symptomebene (Verrohung als kollektives Phänomen), die neue Note die biographische Ursachenebene (Verrohung als durch Eliteerziehung individuell produziertes Charaktermerkmal). Boarding School Syndrome und "rohe Bürgerlichkeit" sind zwei Seiten desselben strukturellen Prozesses.
+
 ### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
 Redecker zitiert Heitmeyer explizit als Grundlage. Ihre Phantombesitz-Theorie erklärt das *Warum* der Gewaltbereitschaft — die psychische Logik hinter dem, was Heitmeyer soziologisch kartiert. Er liefert das empirische Gerüst; sie den philosophisch-kritischen Unterbau.
 
@@ -286,6 +289,13 @@ NFL/Iran-Propagandavideo und der Moment, wo Fox News Trump konfrontiert: Hasan n
 ### → [[Zeitgeist/Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]
 Potters «neue autoritäre Linke» ist ein konkreter Ausdruck der von Heitmeyer beschriebenen Enthemmungsdynamik: Mordaufrufe gegen Journalisten, Gewalt auf Demos, Jubel für Terroranschläge — Heitmeyers institutionelle Verrohung zeigt sich hier im linken Spektrum.
 
+### → [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]]
+
+Haidts Abscheu-vs-Wut-Unterscheidung liefert den psychologischen Mechanismus für Heitmeyers Verrohungs-Diagnose: Wenn politische Gegner nicht mehr als falsch, sondern als *widerlich* markiert werden, kippt die Dynamik von Konflikt zu Dehumanisierung. Haidt beschreibt den Anfang (Stammeslogik aktiviert Abscheu), Heitmeyer beschreibt das Ergebnis (systematischer Abbau von Empathie und demokratischen Normen).
+
+- [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Mel Robbins' Let-Them-Philosophie als Symptom der von Heitmeyer beschriebenen Entsolidarisierung und Individualisierung
+- [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — NZ-Salon spannt Bogen von Teheran über kriminalisierte Aktivisten bis normalisierten Tabubruch — Heitmeyers Verrohungs-Framework
+
 ---
 
 ## Weiterführend
@@ -300,6 +310,7 @@ Potters «neue autoritäre Linke» ist ein konkreter Ausdruck der von Heitmeyer 
 - [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschning macht sichtbar, wie Menschen ohne Auto in der Spritpreisdebatte politisch unsichtbar sind — ein konkretes Beispiel für Heitmeyers "institutionelle Diskriminierung": soziale Gruppen, die systematisch aus dem Diskurs fallen.
 - [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Frickes Kontrollverlust-These und Heitmeyers Verrohungsdiagnose ergänzen sich: Wer das Gefühl verliert, Herr der eigenen Lage zu sein, verliert auch die Grundlage für Empathie und soziale Bindung
 - [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — konkretes Fallbeispiel institutioneller Verrohung: Dobrindt/Wüst stoppen Antiextremismus-Förderung ohne Begründung, Demokratie-Leben-Programm läuft aus — Heitmeyers These in der Praxis
+- [[Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]] — Morddrohungen gegen Coline Fernandez und Luisa Neubauer als direktes Fallbeispiel von Heitmeyers Verrohungsthese: digitale Gewalt, Todesdrohungen gegen Frauen, die öffentlich sprechen — institutionell nicht geahndet
 - [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Schwerdtner beschreibt, wie staatliche Untätigkeit in der Energiekrise die öffentliche Frustration steigert — genau die Ohnmachtsdynamik, die Heitmeyer als Erosionskraft für demokratische Bindung analysiert.
 - [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]] — Temelkurans Stufe 4 (Scham aus dem öffentlichen Raum verbannen) und Heitmeyers institutionelle Enthemmung beschreiben denselben Prozess aus verschiedenen Beobachtungsperspektiven
 - [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — GRT als Ideologiemotor von Heitmeyers Verrohung: Wenn eine Gruppe als Replacers gilt, verlieren ihre Mitglieder den moralischen Schutzstatus — das ist Verrohung als politisches Programm.
@@ -307,3 +318,16 @@ Potters «neue autoritäre Linke» ist ein konkreter Ausdruck der von Heitmeyer 
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — El-Mafaalani ergänzt Heitmeyers Verrohungsdiagnose um den Mechanismus der Vergemeinschaftung: Misstrauen ist die bindende Kraft, die aus vereinzelten Ressentiments eine kollektive Bewegung macht.
 - [[taz Reingehen — Wer das Öl hat, hat das Sagen]] — Der Fall Nazma Begum ist ein Lehrstück für Heitmeyers "institutionelle Desensibilisierung": Gewalt am Arbeitsplatz, BAFA-Untätigkeit, politischer Wille zur Gesetzesaufweichung — Verrohung als Systemmerkmal, nicht Einzelfall
 - [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]] — El-Mafaalani benennt den sozialen Ort, wo Heitmeyers Verrohung strukturell erzeugt wird: Kinder ohne physische Räume, ohne politische Stimme, ohne gesellschaftliche Sichtbarkeit — das ist die gelebte Grundlage einer verrohenden Gesellschaft.
+- [[MONITOR — AfD-Erfolg trotz Skandalen]] — Küppers Remigrations-Normalisierungsbeobachtung ist ein konkreter Fall von Heitmeyers Verrohungs-Dynamik: was vor 2 Jahren noch erschreckte, geht heute flüssig über die Lippen.
+- [[Christoph Butterwegge — Armut NEU DENKEN]] — Butterwegge liefert die strukturelle Erklärung für Heitmeyers Verrohungsdiagnose: soziale Desintegration durch materielle Ungleichheit schafft den Nährboden, auf dem Verrohung gedeiht
+- [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]] — NIUS-Kommentarspalten mit Nazi-Referenzen und „Problem selbst lösen"-Fantasien sind Heitmeyers Verrohungsthese live dokumentiert: medial erzeugte Enthemmung als sichtbares Symptom
+- [[ARTE — Forschung Fake und faule Tricks]] — Agnotologie beschleunigt Heitmeyers institutionelle Enthemmung: wenn Wissenschaftsautorität gezielt untergraben wird, verlieren gemeinsame Realitätsgrundlagen ihre normative Kraft — Verrohung braucht keine Monster, nur organisierte Verwirrung
+- [[Martyna Linartas — Unverdiente Ungleichheit]] — Linartas' Erbengesellschaft erklärt einen strukturellen Treiber von Heitmeyers Desintegration: wachsende Vermögensschere erzeugt das Gefühl des Abgehängtseins, das soziale Bindungen auflöst und Verrohung ermöglicht
+- [[Walther Ziegler — Kafka in 60 Minuten]] — Kafkas Seil-Metapher ist die literarische Grundlage für Heitmeyers These: Wenn Kapitalismus die Seile systematisch kappt, folgt Verrohung — Entsolidarisierung als strukturelles Programm
+- [[Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]] — Pörksens „Gamifizierung von Grausamkeit" beschreibt kommunikativ, was Heitmeyer strukturell analysiert: die Normalisierung des Empathieverlusts in digitalisierten Öffentlichkeiten
+- [[Steffen Mau — Spaltung der Gesellschaft]] — Maus „Polarisierungsunternehmer" benennt die politischen Akteure, die Heitmeyers gesellschaftliches Substrat der Menschenfeindlichkeit gezielt aktivieren und in elektorale Erfolge übersetzen
+- [[Liya Yu — Neuropolitik und die Grenzen der Moral]] — Heitmeyers soziologische „Verrohung" und Yus neurowissenschaftliche „Dehumanisierung" beschreiben dasselbe Phänomen aus komplementären Perspektiven
+- [[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]] — Das fragile „Wir" bei Petersdorff/Seydack spiegelt Heitmeyers Diagnose des Empathieverlusts.
+- [[Markus Gabriel — Universelle Moral]] — Heitmeyer beschreibt die Symptome (Verrohung, Kontrollverlust), Gabriel die philosophische Therapie (Ethical Literacy, Diskursmonetarisierung)
+- [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Steinke beschreibt die rechtliche Seite der Verrohung: wie eine Paragraphenflut und selektive Strafverfolgung den gesellschaftlichen Diskursraum einschränken — Heitmeyers Empathieverlust als institutionalisierte Praxis
+- [[Markus Gabriel — Soziale Netzwerke Neue Theorie]] — Gabriel zeigt die ontologische Ursache dessen, was Heitmeyer empirisch als digitale Verrohung misst: Sozialen Netzwerken fehlt die Triangulation — der korrigierende Gegenstand. Wo nichts korrigieren kann, erodiert Empathie strukturell.

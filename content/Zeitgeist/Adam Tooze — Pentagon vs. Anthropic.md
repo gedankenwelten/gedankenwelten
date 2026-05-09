@@ -64,6 +64,9 @@ Das ist keine normale linke oder rechte Politik mehr. Das ist eine **Inversion**
 
 ### „Investable America"
 
+[▶ 10:47](https://www.youtube.com/watch?v=3wizXzdTQCc&t=647)
+
+
 Tooze verweist auf eine breitere Debatte im Investitionsumfeld: Internationale Investoren stellen zunehmend die Frage, ob Amerika unter Trump noch **investierbar** ist. Die Willkür, mit der Unternehmen unter Druck gesetzt werden (Huawei-Drohung, Klage, Regulierungsaggressivität), untergräbt die Berechenbarkeit des Marktes.
 
 Gleichzeitig: Diese Sorge bleibt bisher **hypothetisch**. Es gibt keine Kapitalflucht aus den USA nach Europa — was Tooze als Beleg dafür nimmt, wie naiv ordoliberale Erwartungen sind.
@@ -71,6 +74,9 @@ Gleichzeitig: Diese Sorge bleibt bisher **hypothetisch**. Es gibt keine Kapitalf
 ---
 
 ## Die Europa-Frage: Attraktiv genug?
+
+[▶ 13:08](https://www.youtube.com/watch?v=3wizXzdTQCc&t=788)
+
 
 **EU AI Act 2024** — die europäische KI-Regulierung ist umstritten. Auf beiden Seiten: Trump-Administration attackiert sie als Diskriminierung gegen amerikanische Firmen und Einschränkung der Meinungsfreiheit. Gleichzeitig mobilisieren europäische Wirtschaftsinteressen *gegen* die Regulierung — es ist kein einfaches Schwarz-Weiß.
 
@@ -93,6 +99,9 @@ Toozes prägnanteste These über das, was in Amerika passiert:
 Die Klage Anthropics gegen die US-Regierung läuft voraussichtlich über Jahre. In dieser Zeit: Reputationsschaden, Unsicherheit für Investoren, Abschreckung anderer Unternehmen. Das Recht als **Ausblutungsstrategie** — nicht als Gerechtigkeit.
 
 ### Frankfurter Schule im Hintergrund
+
+[▶ 14:41](https://www.youtube.com/watch?v=3wizXzdTQCc&t=881)
+
 
 Tooze ordnet das explizit ein: Diese Fragen — was ist das Verhältnis zwischen progressiver Politik und Rechtsstaatlichkeit? — haben die Frankfurter Schule (Horkheimer, Adorno, Benjamin) bereits in der **Zwischenkriegszeit** umgetrieben. Es sind keine neuen Fragen.
 
@@ -149,6 +158,9 @@ Manow analysiert, wie demokratische Regression durch Wahlen legitimiert wird. To
 ### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
 Mausfeld beschreibt, wie Meinungskorridore durch Bedrohung und Sanktion aufrechterhalten werden. Hegseth's Huawei-Drohung ist ein Lehrstück: Du musst keinen Zensurbefehl erlassen — es reicht, die wirtschaftliche Existenz eines Unternehmens zu bedrohen. Das Schweigen der anderen KI-Unternehmen (OpenAI's Kapitulation ohne Widerstand) ist genau das Ergebnis, das Mausfeld beschreibt.
 
+### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
+Navidi zeigt die finanzielle Seite derselben Tech-Staat-Konvergenz, die Tooze institutionell beschreibt: Musk-Aufträge über DOGE, SEC-Entmachtung, Golden Dome als erfundenes Beschaffungsprogramm für Verbündete. Tooze: Pentagon erzwingt KI-Kooperation. Navidi: Oligarchen erhalten Staatsaufträge als Gegenleistung für Loyalität.
+
 ### → [[Denker/Manfred Spitzer — KI, Gehirn und Lernen]]
 Spitzer analysiert KI aus neuropsychologischer und pädagogischer Perspektive — die Frage, was KI mit dem menschlichen Gehirn macht. Tooze fragt das politökonomische Gegenstück: Wer kontrolliert KI — und zu welchem Zweck? Beide Perspektiven zusammen ergeben das vollständige Bild: KI verändert sowohl das individuelle Denken (Spitzer) als auch die Machtstrukturen des Staates (Tooze).
 
@@ -175,3 +187,8 @@ Beide beschreiben KI als Machtinstrument — Tooze geopolitisch-realistisch (Pen
 - **EU AI Act** (in Kraft seit August 2024): Risikobasierte KI-Regulierung der EU
 - [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — STAIY kommentiert OpenAI/Sora-Einstellung und Anthropic/Claude als Konkurrenz: die Marktverschiebung, die Tooze im Pentagon-Kontext analysiert, zeigt sich im öffentlichen Diskurs
 - [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]] — Bayer/BASF als Saatgut-Oligopol ist die analoge Struktur zur KI-Machtkonzentration: wer Schlüsseltechnologien besitzt, besitzt geopolitischen Hebel.
+- [[Die Neuen Zwanziger — Salon Lektueren Februar 2026]] — Tooze wird direkt zitiert als Gegenposition zu Herrmanns „Überkapazitäten"-These: Seine Chartbook-Analysen zeigen, dass der Westen nicht passiv ist
+- [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]] — Dario Amodeis „Adolescence of Technology" als Insider-Perspektive zu dem, was Tooze von außen analysiert
+- [[Gerdes — Ukraine Zelensky wird staerker]] — Budanows Briefing zum KI-Drohnenkrieg auf dem Kiewer Sicherheitsforum zeigt die *operative Realität*: Die Ukraine setzt bereits ein, worüber das Pentagon noch verhandelt — Tooze analysiert den institutionellen Kampf, Gerdes die Feldanwendung
+- [[StreitClub — Europa allein zu Haus]] — Europäische Perspektive auf Tech-Sicherheitsabhängigkeit und Regulierungsmacht
+- [[Markus Gabriel — Ethische Intelligenz (scobel)]] — Gabriel beurteilt denselben Anthropic-Pentagon-Konflikt aus philosophischer Perspektive: Anthropics Constitutional AI ist richtig, aber zu eng (kalifornisch). Was Tooze als geopolitischen Machtkampf beschreibt, sieht Gabriel als Symptom einer fehlenden europäischen KI-Vision

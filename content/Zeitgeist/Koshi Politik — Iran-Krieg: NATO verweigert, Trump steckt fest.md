@@ -44,6 +44,9 @@ Super-Tanker sind zu groß und zu langsam. Die gesamte militärische Feuerkraft 
 
 ### Trump verlangt NATO-Hilfe — und bekommt ein Nein
 
+[▶ 8:42](https://www.youtube.com/watch?v=Aq5iO6nDbuQ&t=522)
+
+
 **Trump am Wochenende (per Post):** Druck auf NATO-Partner, bei der Straße von Hormuz zu helfen.
 
 **Trumps widersprüchliche Pressekonferenz dazu:**
@@ -62,6 +65,9 @@ Alles in einer einzigen Pressekonferenz.
 **Koshi:** Artikel 5 greift nicht — die USA haben **proaktiv** angegriffen, nicht reagiert. Wer Hilfe will, muss vorher konsultieren.
 
 ### Was kann jetzt noch gewonnen werden?
+
+[▶ 14:07](https://www.youtube.com/watch?v=Aq5iO6nDbuQ&t=847)
+
 
 MSNow-Experte nennt drei realistische Ziele:
 1. **Irans nukleares/Raketenprogramm 5 Jahre zurückversetzen** — Abschussrampen und Einrichtungen zerstören
@@ -127,3 +133,6 @@ Heinisch analysiert denselben Verlauf: Trump verliert innenpolitisch, weil der K
 
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 MONITOR liefert den rechtlichen Rahmen: Trumps Verweigerung, den Kongress einzubeziehen. Koshi zeigt die politische Konsequenz: keine Alliierten, keine Legitimität.
+
+### → [[Koschi Politik — Weißes Haus löscht Trumps Privatvideo]]
+Trumps Privataussage bestätigt die Verweigerungsanalyse: Er sagt offen, seine Beziehungen zu Russland und China seien besser als die zur NATO — und die NATO wäre bei Konflikten mit „The Big Ones" sowieso nicht da.

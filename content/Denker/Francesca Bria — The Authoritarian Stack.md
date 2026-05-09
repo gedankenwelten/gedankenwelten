@@ -48,7 +48,7 @@ Quelle: [authoritarian-stack.info](https://www.authoritarian-stack.info/)
 
 ### Der Ausgangspunkt: Der Vertrag, der alles veränderte
 
-Im Juli 2025 unterzeichnete die US Army einen **$10-Milliarden-Vertrag** mit Palantir Technologies — einen der größten in der Geschichte des Pentagon. Offiziell: Effizienzsteigerung, Konsolidierung von 75 Beschaffungsverträgen. Tatsächlich:
+Im Juli 2025 unterzeichnete die US Army einen **\$10-Milliarden-Vertrag** mit Palantir Technologies — einen der größten in der Geschichte des Pentagon. Offiziell: Effizienzsteigerung, Konsolidierung von 75 Beschaffungsverträgen. Tatsächlich:
 
 > *„A strategic handover of core military functions to a private company whose founder, Peter Thiel, has declared that 'freedom and democracy are no longer compatible.'"*
 
@@ -62,10 +62,10 @@ Bria zeigt, wie fünf kritische Staatsinfrastrukturen systematisch privatisiert 
 
 | Domäne | Akteure | Kern-Contracts (2025) |
 |---|---|---|
-| **KI & Daten** | Palantir (Gotham, Foundry, ImmigrationOS) | $10B US Army, ICE Immigration Platform, NHS £330M |
-| **Autonome Kriegsführung** | Anduril (Lattice OS, Ghost Shark, Barracuda) | $22B DoD-Portfolio, Rheinmetall JV (Deutschland) |
+| **KI & Daten** | Palantir (Gotham, Foundry, ImmigrationOS) | \$10B US Army, ICE Immigration Platform, NHS £330M |
+| **Autonome Kriegsführung** | Anduril (Lattice OS, Ghost Shark, Barracuda) | \$22B DoD-Portfolio, Rheinmetall JV (Deutschland) |
 | **Orbitale Infrastruktur** | SpaceX (Starlink, Starshield, Starship) | DoD, NASA, NATO, Ukraine, Italien, UK |
-| **Nuklear-KI-Komplex** | OpenAI, Anthropic, AWS GovCloud, Azure Gov | ~$200M OpenAI (nationale Sicherheit), Atomkraft-Deregulierung |
+| **Nuklear-KI-Komplex** | OpenAI, Anthropic, AWS GovCloud, Azure Gov | ~\$200M OpenAI (nationale Sicherheit), Atomkraft-Deregulierung |
 | **Krypto-Souveränität** | Stablecoins (GENIUS Act), $TRUMP, Circle, Tether | Executive Order 14178: US-CBDC verboten, private Digital Assets gefördert |
 
 > [!note] Eigene Einschätzung
@@ -79,10 +79,10 @@ Bria identifiziert eine kleine Gruppe von Schlüsselfiguren, die das Netzwerk zu
 
 | Person | Rolle (Bria) | Kernposition |
 |---|---|---|
-| **Peter Thiel** | The Architect | Founders Fund; Palantir-Gründer; Thiel Capital; Finanzier von J.D. Vance ($15M) |
+| **Peter Thiel** | The Architect | Founders Fund; Palantir-Gründer; Thiel Capital; Finanzier von J.D. Vance (\$15M) |
 | **Elon Musk** | Voice of Right-Wing Techno-Populism | SpaceX/Starlink; xAI; Neuralink; DoGE |
 | **Marc Andreessen** | Ideologue of Acceleration | a16z „American Dynamism Fund"; Rally Silicon Valley zu Trump 2024 |
-| **J.D. Vance** | The Political Vehicle | Vizepräsident; $15M Thiel-Finanzierung; Policy-Schnittstelle |
+| **J.D. Vance** | The Political Vehicle | Vizepräsident; \$15M Thiel-Finanzierung; Policy-Schnittstelle |
 | **Alex Karp** | Palantir CEO | Staatliche KI-Infrastruktur; „nicht mehr um Profit, sondern Herrschaft" |
 | **David Sacks** | The Crypto Czar | Regulierung von Stablecoins; GENIUS Act |
 | **Palmer Luckey** | Anduril, Automated Warfare | Autonome Drohnen; Rheinmetall JV |
@@ -97,7 +97,7 @@ Das Entscheidende ist nicht nur die Finanzierung, sondern die **personelle Versc
 - **Gregory Barbaccia** (10 Jahre Palantir) → Federal Chief Information Officer
 - **Clark Minor** (Palantir) → CIO des Gesundheitsministeriums (HHS)
 - **Jacob Helberg** (Senior Advisor bei Alex Karp/Palantir) → Under Secretary of State für Economic Growth
-- **Michael Obadal** (Anduril-Manager, bis zu $1M Unternehmensaktien) → Army Under-Secretary nominiert
+- **Michael Obadal** (Anduril-Manager, bis zu \$1M Unternehmensaktien) → Army Under-Secretary nominiert
 
 **Detachment 201** — Juni 2025: Vier Tech-Führungskräfte wurden direkt als Lt. Colonels der US Army vereidigt: Shyam Sankar (Palantir), Andrew Bosworth (Meta), Kevin Weil (OpenAI), Bob McGrew (OpenAI).
 
@@ -140,10 +140,10 @@ Bria dokumentiert, wie das Modell bereits nach Europa exportiert wird:
 ## Faktencheck
 
 > [!success] Bestätigt
-> $10B Palantir Army-Vertrag (Juli 2025), NHS £330M, Detachment 201 (Juni 2025), Jacob Helberg Under Secretary of State — alles öffentlich dokumentiert.
+> \$10B Palantir Army-Vertrag (Juli 2025), NHS £330M, Detachment 201 (Juni 2025), Jacob Helberg Under Secretary of State — alles öffentlich dokumentiert.
 
 > [!success] Bestätigt
-> Finanzielle Größenordnungen: $22.45B/yr Staatsausgaben an diese Unternehmen, $1.58T Gesamtbewertungen, $120.4B VC-Assets — aus öffentlichen Quellen aggregiert.
+> Finanzielle Größenordnungen: \$22.45B/yr Staatsausgaben an diese Unternehmen, \$1.58T Gesamtbewertungen, \$120.4B VC-Assets — aus öffentlichen Quellen aggregiert.
 
 > [!warning] Vereinfacht / Nicht eindeutig belegt
 > Die Darstellung Thiels als zentraler „Architect" des gesamten Netzwerks: Thiel ist zweifellos zentral, aber das Netzwerk hat mehrere unabhängige Machtzentren. Die radiale Visualisierung unterschätzt die Eigendynamik der Akteure.
@@ -160,10 +160,19 @@ Bria dokumentiert, wie das Modell bereits nach Europa exportiert wird:
 
 ## Verbindungen
 
+- [[Renee DiResta — Invisible Rulers]] — Bria analysiert die politökonomische Struktur der Tech-Plattformen (Palantir, staatliche Kooperation); DiResta die Propaganda-Mechanik, die auf dieser Struktur operiert: zwei Ebenen desselben Problems
+- [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Bria analysiert die tech-politische Machtstruktur von außen (Palantir, Silicon Valley); diese Note liefert die psychologische Innenperspektive der gleichen Akteure (Thiel, Musk). Zusammen: strukturelle Macht + die Charakterformation derer, die sie ausüben.
 - [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — Mühlhoff referiert Brias Studie als kompakte Version seiner eigenen These; ihre Datenbasis gibt seiner Analyse empirische Tiefe. Sein Konzept der „Desouveränisierung" = Brias „Privatized Sovereignty"
 - [[Andreas Kemper — Technofaschismus und die AfD]] — Kemper beschreibt dieselben Akteure (Thiel-Netzwerk, Musk) auf der ideologischen Ebene; Bria liefert die Finanzdaten und Vertragsstruktur dazu
 - [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Nosthoff zeigt die historische Genealogie (Kybernetik → Governance); Bria zeigt die aktuelle Realisierung
 - [[Adam Tooze — Pentagon vs. Anthropic]] — Tooze analysiert dieselbe Pentagon-KI-Dynamik aus wirtschaftshistorischer Perspektive; ergänzt Brias Netzwerkkartierung
+- [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] — Osnos gibt Brias Abstraktion journalistisches Fleisch: "CEO of humanity", Citizens United, DOGE als Selbst-Regulierungsabbau — das sind die konkreten Manifestationen von Brias "Authoritarian Stack" durch Personen, die Osnos direkt getroffen hat.
 - [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Redeckers Phantombesitz-Begriff und Brias Privatized Sovereignty sind strukturell parallel: beides beschreibt Machtansprüche, die sich durch vermeintliche Eigentumsverhältnisse legitimieren
 - [[Hannah Arendt — Denken ohne Geländer]] — Brias Beobachtung, dass „Democracy persists as a legacy interface" ist eine konkrete Realisierung von Arendts Warnung vor totaler Herrschaft ohne Widerspruch
 - [[Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck erklärt die ökonomische Basis (Finanzkrise → Vermögenskonzentration); Bria zeigt, wie diese Konzentration jetzt direkt in Staatsmacht umgewandelt wird
+- [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026]] — Flemig zeigt Brias These konkret: Musk entzieht russischen Truppen den Starlink-Zugang — privatisierte Infrastruktur als Kriegswaffe, die einem einzelnen Tech-Milliardär obliegt
+- [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] — Orbáns Megafon-Netzwerk + KI-Propaganda ist der 'authoritarian stack' in Aktion: Tech-Infrastruktur als Machterhaltungsapparat eines EU-Regierungschefs
+- [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]] — Daubs Silicon-Valley-Analyse ergänzt Brias Authoritarian Stack: Tech-Oligarchen als „Creeps", die strategisch Fürsorge verweigern und privatisierte Souveränität ausüben
+- [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung argumentiert aus Brias Perspektive: Tech-Kapitalisten klauen kollektives Wissen und versklaven damit die Gesellschaft
+- [[Klarsprech — Peter Thiel und ObjectionAI]] — Klarsprech erzählt Brias Authoritarian Stack als Einzelakteur-Biografie: Thiel als Architekt aller vier Schichten (Politik via Vance, Überwachung via Palantir, Justiz via Kaufkraft, Wahrheit via ObjectionAI). ObjectionAI fügt eine Dimension hinzu, die Bria noch nicht kartiert hatte: die Privatisierung der Wahrheitsfindung per KI.
+- [[Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]] — Flemig zeigt Brias Rheinmetall-Anduril-These in der industriellen Realität: Rheinmetall expandiert massiv, baut Werke bis in die Ukraine, vernetzt Infanterie mit KI-Systemen. Die privatisierte Rüstungslogik, die Bria theoretisch kartiert, ist bei Flemig konkret sichtbar.

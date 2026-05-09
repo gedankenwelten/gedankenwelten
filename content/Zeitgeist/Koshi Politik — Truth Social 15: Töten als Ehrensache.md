@@ -30,6 +30,9 @@ Quelle: [Truth Social Folge 15: „Jetzt töte ich sie als der 47. Präsident"](
 
 ### Post 1: Die USA verdienen an steigendem Ölpreis
 
+[▶ 1:33](https://www.youtube.com/watch?v=YPsDSTd0Fl8&t=93)
+
+
 Trump über die Benzinpreise (die wegen des Iran-Krieges angestiegen sind):
 
 > *„Die Vereinigten Staaten sind mit großem Abstand der größte Ölproduzent der Welt. Daher verdienen wir viel Geld, wenn die Ölpreise steigen. Aber von weit größerem Interesse und größerer Bedeutung für mich als Präsident ist es, ein böses Imperium daran zu hindern, Atomwaffen zu besitzen."*
@@ -42,6 +45,9 @@ Trump über die Benzinpreise (die wegen des Iran-Krieges angestiegen sind):
 - Genau wie bei Zöllen: Trump versteht nicht (oder gibt vor, nicht zu verstehen), dass die Kosten die eigene Bevölkerung treffen
 
 ### Post 2: Töten als Ehrensache
+
+[▶ 3:05](https://www.youtube.com/watch?v=YPsDSTd0Fl8&t=185)
+
 
 Deutscher Text des Posts:
 

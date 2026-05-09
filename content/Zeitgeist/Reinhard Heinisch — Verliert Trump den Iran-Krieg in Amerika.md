@@ -196,8 +196,16 @@ Sirus Schyek (Historiker, Genf) und Kamran Safiarian (ZDF-Journalist) — beide 
 ### → [[KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika]]
 Koshi bestätigt Heinischs These in Echtzeit: Hegseth als gezielter Sündenbock (Heinisch: "er wird zur Verantwortung gezogen, Trump sagt: der Plan war gut, Umsetzung schlecht"), DHS-Chaos, Insider Trading-Vorwürfe — Trump verliert auch innenpolitisch die Narrative-Kontrolle.
 
+### → [[Koschi Politik — Weißes Haus löscht Trumps Privatvideo]]
+Trumps Privatvideo ist die stärkste empirische Bestätigung von Heinischs These: Trump gibt offen zu, dass Krieg Sozialabbau bedeutet — Childcare, Medicaid, Medicare. Die 180°-Kehrtwende gegenüber den Wahlkampfversprechen ist nun dokumentiert.
+
 ### → [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
 Komplementär zu Heinisch: Während Heinisch Trumps innenpolitischen Vertrauensverlust analysiert, zeigt die PhoenixRunde (Jäger, Reinicke) die strategische Ahnungslosigkeit von außen. Kernbefund deckungsgleich: MAGA-Basis bröckelt durch Benzinpreise und Versprechen-Bruch. Fathollah-Nejad: „Netanjahu träumt seit 40 Jahren davon. Iran bereitet sich seit 45 Jahren vor. Nur Trump hat keine Strategie."
 
 ### → [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
 STAIY teilt Heinischs Einschätzung: Bodentruppen im Iran wären Trumps politisches Ende — *sofern* es noch faire Wahlen gibt. Aktuelles Lagebild (25.03.2026) bestätigt Heinischs These vom innenpolitischen Kontrollverlust.
+
+### → [[Koschi Politik — Hochmut vor dem Fall: Iran trifft Trump]]
+Manuel liefert am 13.04.2026 den empirischen Beleg für Heinischs These: drei US-Flugzeuge in 24 Stunden verloren, ein Pilot vermisst — und sofort beginnt Trump, Hegseth als Sündenbock aufzubauen, exakt wie Heinisch es vorhergesagt hatte.
+
+- [[Bundestalk — Iran USA und die Strasse von Hormus]] — Bundestalk dokumentiert das geopolitische Ergebnis der innenpolitischen Zwangslage, die Heinisch analysiert hat

@@ -211,6 +211,12 @@ Tooze zeigt den Technofaschismus aus wirtschaftspolitischer Perspektive in Aktio
 
 Transhumanismus als Versklavungsnarrativ (Graphenoxid, Smart Cities, KI-Überwachung) in der Loosh-Note trifft Kempers Analyse von Technologie als totalem Kontrollmittel. Die Stoßrichtungen sind entgegengesetzt — Kemper analytisch, die Loosh-Note paranoid-mythologisch — aber die Diagnose desselben Phänomens (Technologie als Machtinstrument) macht die Gegenüberstellung erhellend.
 
+### → [[Daniel - Weidel beim Schwurblertreff AWEF]]
+
+Weidel neben Markus Krall beim AWEF: praktische Illustration der libertär-faschistischen Netzwerke, die Kemper analysiert
+
+- [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Die intellektuellen Protagonisten (Mohler, Kubitschek, Lehnert) sprechen hier selbst über ihre Strategie
+
 ---
 
 ## Faktencheck
@@ -252,3 +258,8 @@ Transhumanismus als Versklavungsnarrativ (Graphenoxid, Smart Cities, KI-Überwac
 - [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Nosthoff liefert die ideengeschichtliche Grundlage für Kempers Technofaschismus-Begriff: von Wieners Kybernetik (1940er) über Silicon Valley-Ideologie bis zu Musk als autoritärem Kybernetes. Kybernetik als Herrschaftstechnik — das ist der historische Boden, auf dem Kempers Technofaschismus wächst.
 - [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — CDU/CSU stoppt Antiextremismus-Förderung (Radikale Töchter) und Demokratie-Leben-Programm: institutionelle Repression gegen Zivilgesellschaft — Kempers Muster von Machterhalt durch Zerstörung demokratischer Strukturen
 - [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]] — CPAC ist der transatlantische Institutionenrahmen hinter Kempers Technofaschismus-Analyse: Heritage Foundation, Atlas-Netzwerk, Bannon als formelle Konferenzinfrastruktur für die Netzwerke, die Kemper informell beschreibt
+- [[Daniel - Lena Kotré plant private Abschiebeindustrie]] — Kotrés Privatarmeeplan ist ein konkretes Beispiel für Kempers These: Die AfD baut schrittweise verfassungsfeindliche Parallelstrukturen auf — hier in Form einer privaten "Abschiebeindustrie" mit Zugriffs-, Transport- und Haftfunktionen- [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] — Ungarn-Wahl als Kempers Technofaschismus in Praxis: KI-Deepfakes als Wahlkampfwaffe eines amtierenden EU-Regierungschefs — nicht mehr Theorie, sondern europäischer April 2026
+- [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]] — Dagmar Herzogs Analyse der AfD-Bildpropaganda als akademische Unterfütterung von Kempers Forschungsfeld
+- [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung fordert Vergesellschaftung von KI-Monopolen — Kempers Technofaschismus-Diagnose als praktische politische Forderung
+- [[Steffen Mau — Spaltung der Gesellschaft]] — Mau liefert den soziologischen Rahmen für Kempers AfD-Analyse: die AfD als „Polarisierungsunternehmer", die gezielt Triggerpunkte abscannen und Sollbruchstellen im Diskurs eskalieren
+- [[Klarsprech — Peter Thiel und ObjectionAI]] — Klarsprech dokumentiert denselben Thiel-Nexus, den Kemper analysiert, auf der US-Seite: PayPal-Mafia, Palantir, Vance-Mentoring, ObjectionAI. Kemper beschreibt die ideologische Ebene (Technofaschismus); Klarsprech zeigt die operative Umsetzung in vier Machtdimensionen.

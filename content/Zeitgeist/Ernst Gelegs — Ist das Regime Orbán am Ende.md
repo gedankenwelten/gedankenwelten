@@ -178,9 +178,50 @@ Der Bevölkerung sind Rechtsstaatsfragen weitgehend egal — sie kämpfen mit In
 
 ## Verbindungen
 
-- [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — Beide analysieren denselben Mechanismus: die schrittweise Aushöhlung demokratischer Institutionen durch legale Wahlen, die in Wahlautokratie enden. Kendi das US-Muster, Gelegs das ungarische — direkter Systemvergleich.
-- [[Ece Temelkuran — So beginnt Faschismus in Amerika]] — Temelkuran kennt den türkischen Präzedenzfall (Erdoğan) und beschreibt dieselbe Logik: charismatischer Populist nutzt demokratische Legitimität, um demokratische Substanz auszuhöhlen. Orbán ist ihr europäisches Gegenstück.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld fragt, wie Eliten Zustimmung organisieren und Widerstand unsichtbar machen. Warum trägt Ungarns Bevölkerung Orbán so lange? Dieser Mechanismus unter illiberalen Bedingungen.
-- [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Manow analysiert, wie Globalisierungsverlierer populistische Parteien wählen und dadurch Systemautoritarismus ermöglichen. Ungarn ist sein Musterfall in Reinform.
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck zeigt, wie EU-Austeritätspolitik Osteuropa wirtschaftlich marginalisiert hat — der ökonomische Unterbau von Orbáns Aufstieg. Gelegs' EU-Strukturversagen-These bekommt hier ihre wirtschaftspolitische Erklärung.
-- [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]] — Orbán ist kein Sonderfall, sondern Knotenpunkt der transnationalen rechten Internationale (CPAC Budapest, Bannon-Netzwerk, russische Verbindungen). Diese Note liefert den Netzwerkkontext, den Gelegs von innen beschreibt.
+### → [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
+
+Beide analysieren denselben Mechanismus: die schrittweise Aushöhlung demokratischer Institutionen durch legale Wahlen, die in Wahlautokratie enden. Kendi das US-Muster, Gelegs das ungarische — direkter Systemvergleich.
+
+### → [[Ece Temelkuran — So beginnt Faschismus in Amerika]]
+
+Temelkuran kennt den türkischen Präzedenzfall (Erdoğan) und beschreibt dieselbe Logik: charismatischer Populist nutzt demokratische Legitimität, um demokratische Substanz auszuhöhlen. Orbán ist ihr europäisches Gegenstück.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Mausfeld fragt, wie Eliten Zustimmung organisieren und Widerstand unsichtbar machen. Warum trägt Ungarns Bevölkerung Orbán so lange? Dieser Mechanismus unter illiberalen Bedingungen.
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Manow analysiert, wie Globalisierungsverlierer populistische Parteien wählen und dadurch Systemautoritarismus ermöglichen. Ungarn ist sein Musterfall in Reinform.
+
+### → [[Heiner Flassbeck — Krise und Rechtsruck]]
+
+Flassbeck zeigt, wie EU-Austeritätspolitik Osteuropa wirtschaftlich marginalisiert hat — der ökonomische Unterbau von Orbáns Aufstieg. Gelegs' EU-Strukturversagen-These bekommt hier ihre wirtschaftspolitische Erklärung.
+
+### → [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
+
+Orbán ist kein Sonderfall, sondern Knotenpunkt der transnationalen rechten Internationale (CPAC Budapest, Bannon-Netzwerk, russische Verbindungen). Diese Note liefert den Netzwerkkontext, den Gelegs von innen beschreibt.
+
+### → [[phoenix — Orbán abgewählt]]
+
+Die Antwort auf Gelegs' Titelfrage: Ja, das Regime ist am Ende. Wahlabend 12.04.2026 mit Analysen zu Magyars Zweidrittelmehrheit, Orbáns friedlichem Rückzug und den EU-Konsequenzen.
+
+### → [[Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]]
+
+Staiys Kommentar am Wahltag; ergänzt Gelegs' Strukturanalyse mit einer Echtzeit-Einschätzung und dem EU-Reformbedarf (Abkehr vom Einstimmigkeitsprinzip)
+
+### → [[Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]]
+
+Ukrainische Akademikerin dokumentiert, was Gelegs in seiner Analyse nur angedeutet hat: die Szijjártó-Lawrow-Verbindung mit Audiomaterial und Dokument-Weitergabe — konkrete Belege für Gelegs' These von Ungarn als russischem Vorposten
+
+### → [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]]
+
+Dokumentiert Orbáns letztes Mittel: die KI-Propagandamaschinerie, die Gelegs' Strukturanalyse von 16 Jahren Autokratie in konkrete Wahlkampfhandlungen übersetzt
+
+### → [[Gilda con Arne — Rechte Milliardaere kaufen Medien]]
+
+Die internationale Einordnung zu Gelegs: Medienkontrolle als gemeinsames Playbook von Orbán, Bolloré (Frankreich) und Ellison (USA) — Ungarn als Blaupause, die adaptiert wird
+
+### → [[StreitClub — Europa allein zu Haus]]
+
+Paneldebatte über die EU-Dimension der Orbán-Abwahl

@@ -134,12 +134,29 @@ Zwei Erklärungslinien (Buchinger + Christian Stöcker, *Männer, die die Welt v
 
 ## Verbindungen
 
-- [[Dietrich Bonhoeffer — Theorie der Dummheit]] — Buchinger verwendet explizit die „Dummheits"-Rhetorik: Wer 2026 noch die Kernenergie-Platte spielt, zeigt „elementare Verständnisprobleme in Mathematik, Physik und logischem Denken." Bonhoeffers Diagnose — Fakten verfangen nicht, wenn jemand sie schlicht nicht wahrhaben will — beschreibt genau das von Buchinger beklagte Phänomen.
-- [[Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Die Frustration über Menschen, die trotz klarer Datenlage immer wieder die gleichen falschen Argumente vorbringen, ist ein Paradefall für Cipollas viertes Gesetz: Dumme schaden anderen und sich selbst ohne erkennbaren Eigennutzen.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Die Fossil- und Atomlobby operiert nach dem Muster systematischer Desinformation, das Mausfeld als „unterhalb der Bewusstseinsschwelle" wirkend beschreibt. „Issue Ownership" ist eine Form von Agenda-Setting, die Mausfeld als Kerntechnik politischer Manipulation analysiert.
-- [[Andreas Kemper — Technofaschismus und die AfD]] — Kemper beschreibt, wie die AfD und der rechte Flügel Technologie (insb. KI, Fossile) als Instrumente zur Machterhaltung nutzen. Die Verbindung zwischen Fossil-Lobby und reaktionärer Politik findet sich bei Buchinger explizit: Kernenergie-Propaganda = Fossil-Propaganda.
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — Die ökonomischen Fehler in der Energiepolitik (zu langsamer Ausbau Erneuerbarer, fossile Abhängigkeit) haben laut Flassbeck Anteil am politischen Rechtsruck. Buchinger beschreibt, wie die neue Bundesregierung (CDU-FDP) die Energiewende aktiv sabotiert.
-- [[Eva von Redecker — Dieser Drang nach Härte]] — Das Beharren auf Kernenergie und Fossilem als „harte Realität" gegen „grünen Idealismus" ist eine Form der Härte-Fetischisierung, die Redecker als charakteristisch für neofaschistische Zeitströmungen beschreibt.
+### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
+
+Buchinger verwendet explizit die „Dummheits"-Rhetorik: Wer 2026 noch die Kernenergie-Platte spielt, zeigt „elementare Verständnisprobleme in Mathematik, Physik und logischem Denken." Bonhoeffers Diagnose — Fakten verfangen nicht, wenn jemand sie schlicht nicht wahrhaben will — beschreibt genau das von Buchinger beklagte Phänomen.
+
+### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+
+Die Frustration über Menschen, die trotz klarer Datenlage immer wieder die gleichen falschen Argumente vorbringen, ist ein Paradefall für Cipollas viertes Gesetz: Dumme schaden anderen und sich selbst ohne erkennbaren Eigennutzen.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Die Fossil- und Atomlobby operiert nach dem Muster systematischer Desinformation, das Mausfeld als „unterhalb der Bewusstseinsschwelle" wirkend beschreibt. „Issue Ownership" ist eine Form von Agenda-Setting, die Mausfeld als Kerntechnik politischer Manipulation analysiert.
+
+### → [[Andreas Kemper — Technofaschismus und die AfD]]
+
+Kemper beschreibt, wie die AfD und der rechte Flügel Technologie (insb. KI, Fossile) als Instrumente zur Machterhaltung nutzen. Die Verbindung zwischen Fossil-Lobby und reaktionärer Politik findet sich bei Buchinger explizit: Kernenergie-Propaganda = Fossil-Propaganda.
+
+### → [[Heiner Flassbeck — Krise und Rechtsruck]]
+
+Die ökonomischen Fehler in der Energiepolitik (zu langsamer Ausbau Erneuerbarer, fossile Abhängigkeit) haben laut Flassbeck Anteil am politischen Rechtsruck. Buchinger beschreibt, wie die neue Bundesregierung (CDU-FDP) die Energiewende aktiv sabotiert.
+
+### → [[Eva von Redecker — Dieser Drang nach Härte]]
+
+Das Beharren auf Kernenergie und Fossilem als „harte Realität" gegen „grünen Idealismus" ist eine Form der Härte-Fetischisierung, die Redecker als charakteristisch für neofaschistische Zeitströmungen beschreibt.
 
 ---
 

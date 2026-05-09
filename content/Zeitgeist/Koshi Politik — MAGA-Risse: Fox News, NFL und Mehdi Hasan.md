@@ -40,6 +40,9 @@ Koshi: Das Weiße Haus dachte, Amerikaner lieben NFL und Videospiele — lass un
 
 ### Peter Doocy (Fox News!) stellt Trump in Frage
 
+[▶ 5:42](https://www.youtube.com/watch?v=BaSQeevMZGc&t=342)
+
+
 Trump hatte den Krieg einmal **„Ausflug" (excursion)** genannt und kurz danach **„Krieg"** — als der Ölpreis angesprochen wurde.
 
 Peter Doocy, Fox-News-Korrespondent, konfrontiert Trump direkt:
@@ -56,6 +59,9 @@ Koshi: MAGA weiß jetzt: ihr habt **erwartet**, dass die Preise steigen. Das ist
 
 ### Mehdi Hasan vs. Pierce Morgan
 
+[▶ 8:47](https://www.youtube.com/watch?v=BaSQeevMZGc&t=527)
+
+
 Pierce Morgan (alter Trump-Freund, Celebrity-Apprentice-Sieger) versteht Trumps Kalkül nicht — glaubt noch, Trump sei ein „vierdimensionaler Schachspieler".
 
 **Mehdi Hasan** widerlegt das systematisch:
@@ -69,6 +75,9 @@ Zu Lindsay Graham:
 > *„Lindsay Graham bragged to the Wall Street Journal that he treated Donald Trump like a child. He spoke to him with a word association game to get him to come along with war. He flew to Israel and coached Netanyahu on how to manipulate Donald Trump into war."*
 
 ### Wahlunterdrückung als Plan B
+
+[▶ 10:19](https://www.youtube.com/watch?v=BaSQeevMZGc&t=619)
+
 
 Weil der Krieg unpopulär ist und die Midterms gefährdet sind: Die Lösung ist nicht der Kurswechsel — sondern der **SAFE Act** (Voter ID + Citizenship Proof + kein Mail-In-Voting).
 

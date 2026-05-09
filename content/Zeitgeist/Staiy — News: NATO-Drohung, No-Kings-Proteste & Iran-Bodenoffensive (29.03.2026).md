@@ -162,14 +162,22 @@ Staiy: Die Auszeichnung zur Exzellenzuniversität stehe in hartem Kontrast zum K
 
 ## Verbindungen
 
-- [[Manfred Spitzer — KI, Gehirn und Lernen]] — Das Schüler-Experiment und die DAK-Studie sind empirische Feldbestätigung für Spitzers These: digitale Überreizung verdrängt echte soziale Kompetenz. Dass jeder 10. Jugendliche KI als empathischer erlebt als Menschen, treibt Spitzers Argument auf eine neue Spitze — nicht mehr nur Ablenkung, sondern Beziehungsersatz.
+### → [[Manfred Spitzer — KI, Gehirn und Lernen]]
 
-- [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas Resonanztheorie erklärt, warum Handy-Sucht und KI-Empathie-Erlebnis strukturell zusammenhängen: das Smartphone verspricht dauernde Verfügbarkeit, zerstört dabei aber echte Resonanzerfahrungen. Die Jugendlichen, die KI „verstehender" finden, beschreiben präzise das Fehlen von Resonanz in ihren menschlichen Beziehungen.
+Das Schüler-Experiment und die DAK-Studie sind empirische Feldbestätigung für Spitzers These: digitale Überreizung verdrängt echte soziale Kompetenz. Dass jeder 10. Jugendliche KI als empathischer erlebt als Menschen, treibt Spitzers Argument auf eine neue Spitze — nicht mehr nur Ablenkung, sondern Beziehungsersatz.
 
-- [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]] — Die drei Szenarien (Chark, Uranlager, Küste) und Tucker Carlsons Kurswechsel gegen Israel schreiben Langes Analyse konkret fort: Die MAGA-interne Spaltung über den Iran-Krieg, die Lange beschreibt, wird durch den Carlson-Schwenk sichtbar institutionalisiert.
+### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
+
+Rosas Resonanztheorie erklärt, warum Handy-Sucht und KI-Empathie-Erlebnis strukturell zusammenhängen: das Smartphone verspricht dauernde Verfügbarkeit, zerstört dabei aber echte Resonanzerfahrungen. Die Jugendlichen, die KI „verstehender" finden, beschreiben präzise das Fehlen von Resonanz in ihren menschlichen Beziehungen.
+
+### → [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
+
+Die drei Szenarien (Chark, Uranlager, Küste) und Tucker Carlsons Kurswechsel gegen Israel schreiben Langes Analyse konkret fort: Die MAGA-interne Spaltung über den Iran-Krieg, die Lange beschreibt, wird durch den Carlson-Schwenk sichtbar institutionalisiert.
 
 - [[MONITOR — Irankrieg und das Ende des Völkerrechts]] / [[Herfried Münkler — Muss es Kriege geben]] — Pistorius' Aussage „nicht unser Krieg" und die Hormus-Blockade stellen die völkerrechtliche Frage neu: Ab wann zieht eine Seeblockade globaler Infrastruktur automatisch andere Akteure hinein? Münkler liefert die strategische Grammatik, MONITOR den Rechtsrahmen.
 
 - [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] / [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Die No-Kings-Proteste und Trumps 36%-Zustimmung sind ein Datenpunkt im größeren Argument beider Notes: Wann kippt Proteststimmung in strukturelle Gegenmacht?
 
-- [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Der TU-München-Fall ist kein Randthema: Heitmeyer argumentiert, dass Verrohung und Machtmissbrauch in Institutionen beginnen, die sich für immun halten — Exzellenzuniversitäten inklusive. Das fehlende Krisenmanagement der TU ist ein Schulbeispiel institutioneller Desensibilisierung.
+### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+
+Der TU-München-Fall ist kein Randthema: Heitmeyer argumentiert, dass Verrohung und Machtmissbrauch in Institutionen beginnen, die sich für immun halten — Exzellenzuniversitäten inklusive. Das fehlende Krisenmanagement der TU ist ein Schulbeispiel institutioneller Desensibilisierung.

@@ -30,6 +30,9 @@ Quelle: [110% PSYCHOPATH! Trumps totaler Online AUSRASTER am Wochenende! Teil 2]
 
 ### Der DHS Partial Government Shutdown
 
+[▶ 1:33](https://www.youtube.com/watch?v=raV4Loqu4hg&t=93)
+
+
 Seit dem **14. Februar 2026** betrifft ein Partial Government Shutdown spezifisch das **Department of Homeland Security (DHS)**. Der Streit dreht sich um die Finanzierung der Einwanderungsbehörden ICE (Immigration and Customs Enforcement) und CBP (Customs and Border Protection).
 
 **Demokraten-Vorschlag** (Rosa DeLauro, Repräsentantenhaus / Chuck Schumer, Senat):
@@ -48,6 +51,9 @@ Ablehnung der Teillösung. Forderung: vollständige DHS-Finanzierung inklusive I
 
 ### Trumps Truth-Social-Posts
 
+[▶ 3:05](https://www.youtube.com/watch?v=raV4Loqu4hg&t=185)
+
+
 Trump veröffentlichte am Wochenende eine Serie von Posts, in denen er drohte, ICE-Agents zu den Flughäfen zu schicken:
 
 > *„Wenn die radikalen linken Demokraten nicht sofort eine Vereinbarung unterzeichnen [...] werde ich unsere brillanten und patriotischen Eisbeamten zu den Flughäfen schicken. Dort werden sie Sicherheitsmaßnahmen durchführen, wie Sie noch nie zuvor jemand gesehen hat, einschließlich der sofortigen Verhaftung aller illegalen Einwanderer."* — Trump, Truth Social
@@ -57,6 +63,9 @@ In einem späteren Post bezeichnete Trump die Demokraten als **„größten verb
 ---
 
 ### Tom Homans CNN-Interview
+
+[▶ 9:09](https://www.youtube.com/watch?v=raV4Loqu4hg&t=549)
+
 
 Trumps Grenzbeauftragter **Tom Homan** räumt im CNN-Interview ein, dass ICE-Agents **nicht für TSA-Sicherheitskontrollen ausgebildet** sind:
 

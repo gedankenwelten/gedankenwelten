@@ -28,9 +28,15 @@ Quelle: [ICE, Palantir & Gesichtsscans – welche Überwachung mit Milliarden m�
 
 ### ICE — Die teuerste Strafverfolgungsbehörde aller Zeiten
 
+[▶ 0:02](https://www.youtube.com/watch?v=SuEpbWL7FFU&t=2)
+
+
 ICE hat laut Koshi ein Budget von **85 Milliarden Dollar über mehrere Jahre** — mehr als die Polizei, mehr als das FBI, mehr als die CIA. Der größte Teil davon fließt nicht nur in Personal, sondern in Technologie.
 
 ### Mobile Fortify — Gesichtserkennung per Handy
+
+[▶ 4:36](https://www.youtube.com/watch?v=SuEpbWL7FFU&t=276)
+
 
 ICE nutzt die App **"Mobile Fortify"**: Ein Agent fotografiert ein Gesicht mit dem Handy, die Software gleicht es in Bruchteilen einer Sekunde mit einer Datenbank ab und liefert Aufenthaltsstatus und biographische Daten.
 
@@ -90,6 +96,18 @@ Die Trump-Administration plant laut Koshi eine **nationale Datenbank aller Ameri
 
 ## Verbindungen
 
-- [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] — Kemper beschreibt die Verbindung von Thiel/Musk/Tech-Kapital mit faschistischen Bewegungen. Hier sieht man den konkreten Infrastruktur-Arm: Palantir als technologische Rüstung eines autoritären Staats.
-- [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]] — Derselbe Thiel-Vance-Nexus: Tech-Kapital greift nach staatlicher Macht. Tooze beschreibt es für KI und Pentagon; hier zeigt sich dasselbe Muster bei Immigration Enforcement.
-- [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]] — Folgevideo: Was in der Anhörung ans Licht kommt über ICE-Verhaltensweisen.
+### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
+
+Kemper beschreibt die Verbindung von Thiel/Musk/Tech-Kapital mit faschistischen Bewegungen. Hier sieht man den konkreten Infrastruktur-Arm: Palantir als technologische Rüstung eines autoritären Staats.
+
+### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+
+Derselbe Thiel-Vance-Nexus: Tech-Kapital greift nach staatlicher Macht. Tooze beschreibt es für KI und Pentagon; hier zeigt sich dasselbe Muster bei Immigration Enforcement.
+
+### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]]
+
+Folgevideo: Was in der Anhörung ans Licht kommt über ICE-Verhaltensweisen.
+
+### → [[Klarsprech — Peter Thiel und ObjectionAI]]
+
+Klarsprech zeigt den Architekten hinter Palantir: Peter Thiel und sein Gesamtsystem aus Politik (Vance), Überwachung (Palantir), Justiz und jetzt Wahrheitskontrolle (ObjectionAI). Während Koshi die Opfer von Palantirs ICE-Software dokumentiert, zeigt Klarsprech die strategische Absicht dahinter.

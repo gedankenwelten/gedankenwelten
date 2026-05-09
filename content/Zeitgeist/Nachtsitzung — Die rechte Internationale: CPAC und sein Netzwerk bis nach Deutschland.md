@@ -149,16 +149,66 @@ Das macht es gleichzeitig gefährlich **und** verwundbar: Es sind nur eine Handv
 
 ## Verbindungen
 
-- [[Andreas Kemper — Technofaschismus und die AfD]] — Direkte Verlängerung: Wo Kemper zeigt, wie Musk und Tech-Eliten die AfD strukturell stützen, liefert die CPAC-Note den transatlantischen Institutionenrahmen — Heritage Foundation, Atlas-Netzwerk, Bannon. Beide Notes zusammen: informelle Netzwerke + formelle Konferenzinfrastruktur
-- [[Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kempers These, dass moderner Faschismus nicht mehr in Stiefeln marschiert, sondern in Institutionen operiert, wird durch CPAC empirisch unterfüttert: CPAC Hungary als europäisches Einfallstor ist genau jene neue institutionelle Form
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld analysiert, wie Eliten demokratische Zustimmung durch Manipulation organisieren; die CPAC-Note liefert den konkreten Apparat: Denkfabriken, NGOs, Staatsgelder als Instrumente zur Erzeugung scheinbarer Graswurzelbewegungen
-- [[Ece Temelkuran — So beginnt Faschismus in Amerika]] — Temelkuran fragt *wie* demokratische Erosion passiert; CPAC erklärt *wer* und *womit* — der organisatorische Unterbau, der diese Erosion grenzüberschreitend koordiniert
-- [[Götz Aly — Wie konnte das geschehen]] — Aly zeigt, dass der Nationalsozialismus kein Unfall war, sondern vorbereitet und organisiert wurde. Die CPAC-Note stellt dieselbe Frage in die Gegenwart: Faschismus als Elitenprojekt ist keine neue Erkenntnis — sie wird strukturell wiederholt
-- [[Leonhard Horowski — Adel, Klassen und Gesellschaft]] — Horowskis historische Analyse der Klassenreproduktion durch exklusive Netzwerke (Adel, Hofgesellschaft) hat eine direkte strukturelle Analogie in der CPAC-Infrastruktur: Internationale Eliten reproduzieren Macht nicht durch Erbfolge, sondern durch institutionalisierte Vernetzung
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Beide Notes zeigen denselben Mechanismus auf verschiedenen Feldern: Think Tanks und NGOs als Scharniere zwischen Industrieinteressen und politischer Agenda — einmal Energie, einmal Kulturkampf. Prometheus Institut und E.ON-Lobbyismus sind strukturelle Geschwister
-- [[Ernst Gelegs — Ist das Regime Orbán am Ende]] — Gelegs liefert die Innenperspektive auf Orbán als CPAC-Knotenpunkt: Ungarn als europäischer Brückenkopf der rechten Internationale — das, was CPAC als Netzwerk beschreibt, ist in Ungarn bereits staatliche Realität
-- [[Hannah Arendt — Denken ohne Geländer]] — Arendts Begriff des *banalen Bösen* als Systemfunktion ohne persönliche Verantwortungsübernahme findet in der CPAC-Netzwerklogik seine zeitgenössische Form: Keiner der Akteure trägt allein Verantwortung, das System produziert die Wirkung
-- [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — Great Replacement und Anti-Immigrations-Agenda sind die Kernthemen bei CPAC-Treffen
-- [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Wirtschaftskrise als Nährboden, den CPAC-Netzwerke gezielt ausnutzen und narrativ verarbeiten
-- [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Manow analysiert den Aufstieg rechter Parteien; CPAC liefert die transnationale Infrastruktur, die diesen Aufstieg koordiniert
-- [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Heitmeyers "Roheit von oben durch Autoritarismus" — Benjamins Eliten-These ergänzt die Erklärung: Es sind bewusste, finanzierte Strategien, keine spontane Kulturentwicklung
+### → [[Andreas Kemper — Technofaschismus und die AfD]]
+
+Direkte Verlängerung: Wo Kemper zeigt, wie Musk und Tech-Eliten die AfD strukturell stützen, liefert die CPAC-Note den transatlantischen Institutionenrahmen — Heritage Foundation, Atlas-Netzwerk, Bannon. Beide Notes zusammen: informelle Netzwerke + formelle Konferenzinfrastruktur
+
+### → [[Andreas Kemper — Faschismen im 21. Jahrhundert]]
+
+Kempers These, dass moderner Faschismus nicht mehr in Stiefeln marschiert, sondern in Institutionen operiert, wird durch CPAC empirisch unterfüttert: CPAC Hungary als europäisches Einfallstor ist genau jene neue institutionelle Form
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Mausfeld analysiert, wie Eliten demokratische Zustimmung durch Manipulation organisieren; die CPAC-Note liefert den konkreten Apparat: Denkfabriken, NGOs, Staatsgelder als Instrumente zur Erzeugung scheinbarer Graswurzelbewegungen
+
+### → [[Ece Temelkuran — So beginnt Faschismus in Amerika]]
+
+Temelkuran fragt *wie* demokratische Erosion passiert; CPAC erklärt *wer* und *womit* — der organisatorische Unterbau, der diese Erosion grenzüberschreitend koordiniert
+
+### → [[Götz Aly — Wie konnte das geschehen]]
+
+Aly zeigt, dass der Nationalsozialismus kein Unfall war, sondern vorbereitet und organisiert wurde. Die CPAC-Note stellt dieselbe Frage in die Gegenwart: Faschismus als Elitenprojekt ist keine neue Erkenntnis — sie wird strukturell wiederholt
+
+### → [[Leonhard Horowski — Adel, Klassen und Gesellschaft]]
+
+Horowskis historische Analyse der Klassenreproduktion durch exklusive Netzwerke (Adel, Hofgesellschaft) hat eine direkte strukturelle Analogie in der CPAC-Infrastruktur: Internationale Eliten reproduzieren Macht nicht durch Erbfolge, sondern durch institutionalisierte Vernetzung
+
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+Beide Notes zeigen denselben Mechanismus auf verschiedenen Feldern: Think Tanks und NGOs als Scharniere zwischen Industrieinteressen und politischer Agenda — einmal Energie, einmal Kulturkampf. Prometheus Institut und E.ON-Lobbyismus sind strukturelle Geschwister
+
+### → [[Ernst Gelegs — Ist das Regime Orbán am Ende]]
+
+Gelegs liefert die Innenperspektive auf Orbán als CPAC-Knotenpunkt: Ungarn als europäischer Brückenkopf der rechten Internationale — das, was CPAC als Netzwerk beschreibt, ist in Ungarn bereits staatliche Realität
+
+### → [[Hannah Arendt — Denken ohne Geländer]]
+
+Arendts Begriff des *banalen Bösen* als Systemfunktion ohne persönliche Verantwortungsübernahme findet in der CPAC-Netzwerklogik seine zeitgenössische Form: Keiner der Akteure trägt allein Verantwortung, das System produziert die Wirkung
+
+### → [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
+
+Great Replacement und Anti-Immigrations-Agenda sind die Kernthemen bei CPAC-Treffen
+
+### → [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+
+Wirtschaftskrise als Nährboden, den CPAC-Netzwerke gezielt ausnutzen und narrativ verarbeiten
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Manow analysiert den Aufstieg rechter Parteien; CPAC liefert die transnationale Infrastruktur, die diesen Aufstieg koordiniert
+
+### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+
+Heitmeyers "Roheit von oben durch Autoritarismus" — Benjamins Eliten-These ergänzt die Erklärung: Es sind bewusste, finanzierte Strategien, keine spontane Kulturentwicklung
+
+### → [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
+
+NIUS als Teil desselben rechten Medienökosystems, das CPAC institutionell koordiniert — Boulevard-Aktivismus und Think-Tank-Netzwerk als zwei Seiten derselben Infrastruktur
+
+### → [[Nachtsitzung — Trumps Machtbasis bricht zusammen]]
+
+Direkte Fortsetzung: Was die CPAC-Note als Infrastruktur beschreibt, zeigt Biersky hier in der Auflösung — Heritage Foundation zieht sich zurück, die Milliardäre distanzieren sich, das Netzwerk wendet sich vom scheiternden Instrument ab
+
+### → [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]]
+
+Orbáns KI-Propaganda-Netzwerk (Megafon + Storm-1516) als konkreter Arm der rechten Internationale; CPAC-Ungarn koordiniert die Strukturen, die rabbit hole im Wahlkampf dokumentiert

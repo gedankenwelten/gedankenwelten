@@ -3,6 +3,7 @@ date: 2026-03-25
 title: "Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative"
 tags:
   - zeitgeist
+  - gespräch
   - podcast
   - bawue-wahl
   - gruene
@@ -20,6 +21,9 @@ aliases:
 
 Quelle: Podcast „Gilda con Arne", Folge 24
 Aufnahme: Mittwoch, 12. März 2026 (wenige Tage nach der BaWü-Wahl vom 8. März)
+
+> [!tip] Kanal unterstützen
+> Gilda Sahebi und Arne Semsrott machen mit *Gilda con Arne* einen der informiertesten deutschsprachigen Politik-Podcasts — spendenfinanziert und werbefrei. Unterstützenswert: [YouTube](https://www.youtube.com/@GildaconArne) · [Apple Podcasts](https://podcasts.apple.com/de/podcast/gilda-con-arne-der-politik-podcast/id1839234585)
 
 > [!info] Wer spricht?
 > **Gilda Sahebi** — deutsch-iranische Journalistin und Autorin, Baden-Württembergerin
@@ -210,7 +214,12 @@ Manow: Diejenigen, die von der Öffnung profitieren, sind die Deutungsklasse und
 ### → [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
 GCA 24 behandelt Iran-Fluchtnarrative als europäische Reaktion; Lange liefert die militärisch-strategische Erklärung, warum der Krieg nicht endet: Trumps strategische Sackgasse (keine freie Straße von Hormus, kein Regimewechsel) treibt die humanitären Konsequenzen, die GCA 24 beschreibt.
 
+### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+GCA #24 behandelt Iran-Fluchtnarrative und Zivilgesellschaft unter Druck; #28 zeigt vier Wochen später den konkreten staatlichen Angriff auf genau diese Zivilgesellschaft (Demokratie leben!-Förderstopp) — und die wirtschaftlichen Konsequenzen des Krieges für den Globalen Süden.
+
 ### → [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
 Sirus Schyek (Historiker, Genf) und Kamran Safiarian (ZDF-Journalist) — beide mit iranischen Wurzeln — analysieren denselben Konflikt aus persönlicher und historischer Perspektive: das ethisch-moralische Dilemma (böses Regime vs. Völkerrechtsbruch), die Sicherheitsdilemma-Spirale seit 2003, humanitäre Lage und Szenarien.
 
 - [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Iran-Forscherin mit historischer Tiefe; Perspektive auf Revolutionsgeschichte, IRGC, Golfstaaten-Dilemma und westliche Doppelstandards
+- [[Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] — direkte Nachfolgefolge; BaWü-Wahl-Analyse aus #24 mündet in #27 in die bundespolitische SPD-Krise und Schröder-Nostalgie
+- [[Natalie Amiri — Hoelle auf Erden im Iran]] — Amiri verkörpert das Fluchtnarrativ: Journalistin, die über ein Land berichtet, in das sie nicht zurück kann. Ihre „geographische Amputation" ist das Muster, das GCA diskutiert.

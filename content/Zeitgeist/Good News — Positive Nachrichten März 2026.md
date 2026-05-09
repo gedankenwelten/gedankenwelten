@@ -108,11 +108,46 @@ Quelle: [Your Monthly Dose of Good News | March](https://www.youtube.com/watch?v
 
 ## Verbindungen
 
-- [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] — Direktes Pendant: ARTE zeigt die technischen Wege zu sauberer Energie, diese Note liefert die Bestätigung, dass Wind & Solar 2025 erstmals fossile Brennstoffe in der EU überholt haben — Weg und Ankunft der Energiewende.
-- [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Kemfert warnt vor fossiler Abhängigkeit; die Daten hier (China + Indien 2025 gleichzeitig weniger Kohle) sind die empirische Antwort auf ihre Kernthese.
-- [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]] — Beide Notes zeigen wie Trump-Zölle globale Kooperationen erzwingen. Das EU-Mercosur-Abkommen ist ein direktes Produkt derselben Handelsdynamiken.
-- [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Kehnel setzt auf Commons als Zukunftsmodell; High Seas Treaty und Naturrechte (Bienen in Peru, NZ-Fluss) sind zeitgenössische Ausprägungen dieser Commons-Logik.
-- [[Erwin Thoma — Strategien der Natur]] — Thoma beschreibt Natur als intelligentes System; die Bewegung der Naturrechte (Bienen als Rechtssubjekte) ist die politisch-juridische Konsequenz dieser Weltanschauung.
-- [[Mario Buchinger — Lügen der Kernenergie (2▸6) Kernenergie und Erneuerbare]] — Buchinger argumentiert, Kernenergie und Erneuerbare seien unvereinbar; 2025-Daten belegen, dass Erneuerbare fossile Energie ohne Kernkraft-Renaissance überholt haben — empirische Validierung.
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — MONITOR zeigt politischen Widerstand gegen die Energiewende; diese Note dokumentiert, dass die Energiewende trotz dieses Gegenwinds messbare Erfolge erzielt.
-- [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Manow analysiert Globalisierung als Treiber des Rechtsrucks; EU-Mercosur und EU-Indien mit Milliarden-Reichweite sind genau jene Globalisierungsschübe, die Manows Öffnungs-Schließungs-Konflikt weiter verschärfen.
+### → [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]
+
+Direktes Pendant: ARTE zeigt die technischen Wege zu sauberer Energie, diese Note liefert die Bestätigung, dass Wind & Solar 2025 erstmals fossile Brennstoffe in der EU überholt haben — Weg und Ankunft der Energiewende.
+
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+
+Kemfert warnt vor fossiler Abhängigkeit; die Daten hier (China + Indien 2025 gleichzeitig weniger Kohle) sind die empirische Antwort auf ihre Kernthese.
+
+### → [[ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
+
+Beide Notes zeigen wie Trump-Zölle globale Kooperationen erzwingen. Das EU-Mercosur-Abkommen ist ein direktes Produkt derselben Handelsdynamiken.
+
+### → [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
+
+Kehnel setzt auf Commons als Zukunftsmodell; High Seas Treaty und Naturrechte (Bienen in Peru, NZ-Fluss) sind zeitgenössische Ausprägungen dieser Commons-Logik.
+
+### → [[Erwin Thoma — Strategien der Natur]]
+
+Thoma beschreibt Natur als intelligentes System; die Bewegung der Naturrechte (Bienen als Rechtssubjekte) ist die politisch-juridische Konsequenz dieser Weltanschauung.
+
+### → [[Mario Buchinger — Lügen der Kernenergie (2▸6) Kernenergie und Erneuerbare]]
+
+Buchinger argumentiert, Kernenergie und Erneuerbare seien unvereinbar; 2025-Daten belegen, dass Erneuerbare fossile Energie ohne Kernkraft-Renaissance überholt haben — empirische Validierung.
+
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+MONITOR zeigt politischen Widerstand gegen die Energiewende; diese Note dokumentiert, dass die Energiewende trotz dieses Gegenwinds messbare Erfolge erzielt.
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Manow analysiert Globalisierung als Treiber des Rechtsrucks; EU-Mercosur und EU-Indien mit Milliarden-Reichweite sind genau jene Globalisierungsschübe, die Manows Öffnungs-Schließungs-Konflikt weiter verschärfen.
+
+### → [[Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration]]
+
+Paralleles Format, US-Perspektive: Institutionelle Gegenkräfte (Supreme Court, Meinungswandel) als Gegengewicht zur Trump-Herrschaft — gute Nachrichten aus einer anderen Weltregion.
+
+### → [[Good News — Gute Nachrichten April 2026]]
+
+Fortsetzung der Reihe: April liefert Eisbär-Resilienz, Nordsee-Energienetz, US-Medizinschulden, Guineawurm-Ausrottung und Natrium-Ionen-Batterien — im Längsschnitt mit März lässt sich ablesen, welche Themenfelder der Kanal systematisch beobachtet.
+
+### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+
+Zweite April-Episode: Indigene Munduruku stoppen Cargill, Yoon Suk-yeol lebenslänglich, EU-Verfahren gegen TikToks Suchtdesign, Floreana-Schildkröte zurück, Microsoft Project Silica — der Kanon der Kategorien (Demokratie, Naturschutz, Tier-Comebacks, Tech) wiederholt sich in Variationen.

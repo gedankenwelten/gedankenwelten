@@ -31,6 +31,9 @@ Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 ### Lüge Nr. 4: „Kernenergie ist CO₂-frei"
 
+[▶ 3:06](https://www.youtube.com/watch?v=3sc6b0Wf0FQ&t=186)
+
+
 Die Behauptung, Kernenergie sei CO₂-frei, ist nach Buchinger schon logisch unhaltbar: **Keine Energieform ist CO₂-frei.** Die sinnvolle Frage ist, ob eine Energiequelle ihren Treibhausgasrucksack — der beim Bau, Betrieb und Abbau entsteht — über die Lebensdauer kompensieren kann.
 
 - Erneuerbare Energien (Wind, PV) kompensieren diesen Rucksack: Eine Windkraftanlage hat die Emissionen ihrer Herstellung nach **wenigen Monaten** Betrieb kompensiert, läuft dann 30+ Jahre und ist weitgehend recyclebar.
@@ -39,6 +42,9 @@ Die Behauptung, Kernenergie sei CO₂-frei, ist nach Buchinger schon logisch unh
 ---
 
 ### Die IPCC-Daten und wie sie missbraucht werden
+
+[▶ 6:08](https://www.youtube.com/watch?v=3sc6b0Wf0FQ&t=368)
+
 
 Die Pro-AKW-Community zitiert selektiv aus dem **IPCC AR5** (Fünfter Sachstandsbericht, 2014/15):
 
@@ -61,6 +67,9 @@ Die Bandbreite bleibt so groß, weil sie von zwei schwer berechenbaren Faktoren 
 ---
 
 ### Was der IPCC AR6 wirklich sagt
+
+[▶ 10:41](https://www.youtube.com/watch?v=3sc6b0Wf0FQ&t=641)
+
 
 Der neueste IPCC-Bericht (AR6, 2021–2023) bewertet Energiequellen nach ihrem **Beitrag zur Treibhausgasreduktion** in Relation zu den **Kosten**:
 
@@ -86,6 +95,9 @@ Uran wächst nicht auf Bäumen:
 ---
 
 ### Atommüll: Die zweite planetare Grenze
+
+[▶ 13:43](https://www.youtube.com/watch?v=3sc6b0Wf0FQ&t=823)
+
 
 Jenseits der CO₂-Bilanz verletzt Kernenergie eine weitere **planetare Grenze** des Stockholm Resilience Institute: das Einbringen **neuartiger Substanzen** in die Natur. Radioaktivität ist explizit Teil davon.
 
@@ -124,7 +136,22 @@ Jenseits der CO₂-Bilanz verletzt Kernenergie eine weitere **planetare Grenze**
 
 ## Verbindungen
 
-- [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Hauptnote zur Serie. Diese Folge vertieft Falschaussage 3 aus dem Überblicksvideo und liefert die methodische Detailarbeit zur CO₂-Bilanz, auf die die Hauptnote verweist.
-- [[Dietrich Bonhoeffer — Theorie der Dummheit]] — Die Frustration Buchingers über das ständige Wiederholen längst widerlegter Argumente (IPCC AR5 Median, „CO₂-frei") illustriert Bonhoeffers Diagnose: Wer etwas nicht wahrhaben will, lässt Fakten nicht an sich heran.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Die selektive Nutzung wissenschaftlicher Daten (nur der Medianwert, nicht die Streuung) ist eine klassische Form von Agenda-Setting, wie Mausfeld sie als Kerntechnik politischer Desinformation beschreibt.
-- [[Andreas Kemper — Technofaschismus und die AfD]] — Kempers Analyse, dass Technologieversprechen als politisches Instrument eingesetzt werden, gilt auch für Kernenergie: Die Verzögerung der Energiewende durch unrealistische Atomversprechen begünstigt den fossilen Status quo.
+### → [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Hauptnote zur Serie. Diese Folge vertieft Falschaussage 3 aus dem Überblicksvideo und liefert die methodische Detailarbeit zur CO₂-Bilanz, auf die die Hauptnote verweist.
+
+### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
+
+Die Frustration Buchingers über das ständige Wiederholen längst widerlegter Argumente (IPCC AR5 Median, „CO₂-frei") illustriert Bonhoeffers Diagnose: Wer etwas nicht wahrhaben will, lässt Fakten nicht an sich heran.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Die selektive Nutzung wissenschaftlicher Daten (nur der Medianwert, nicht die Streuung) ist eine klassische Form von Agenda-Setting, wie Mausfeld sie als Kerntechnik politischer Desinformation beschreibt.
+
+### → [[Andreas Kemper — Technofaschismus und die AfD]]
+
+Kempers Analyse, dass Technologieversprechen als politisches Instrument eingesetzt werden, gilt auch für Kernenergie: Die Verzögerung der Energiewende durch unrealistische Atomversprechen begünstigt den fossilen Status quo.
+
+### → [[Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
+
+Direkte Antwort auf Buchingers CO₂-Bilanz-Argumentation: CPG-Geothermie sequestriert CO₂ dauerhaft im Gestein — nicht nur CO₂-arm, sondern aktiv CO₂-senkend, während Kernkraft nur das Netto-CO₂ aus Bau und Uranförderung vermeiden kann.

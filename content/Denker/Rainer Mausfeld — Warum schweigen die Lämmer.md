@@ -84,6 +84,9 @@ Am Ende des Vortrags kommt Mausfeld zu dem, was eigentlich das Ziel ist. Nicht K
 
 **Kreativität ist für Mausfeld kein Talent und kein Luxus.** Sie ist der Naturzustand des Menschen in Würde. Angst blockiert sie — nicht weil sie böse ist, sondern weil das Gehirn unter Bedrohung in Überlebensmodus schaltet. Kreativität braucht Sicherheit.
 
+> [!question] Weitergedacht
+> Mausfeld sagt: Kreativität braucht Angstfreiheit. Aber *hat Angst nicht auch Menschen zu außerordentlicher Kreativität getrieben?* Kafka, Kierkegaard, Arendt selbst — alle schufen aus der Angst heraus. Ist Mausfelds Gleichung zu einfach, oder meint er eine andere Art von Angst?
+
 ---
 
 ---
@@ -115,6 +118,9 @@ Das ist der Trick. Darauf beruht Sprache, Mathematik, Kunst, Musik — und die F
 
 > [!warning] Die Doppelnatur
 > Ein Choral von Bach und die Folter — beide sind humanspezifisch. Beides ist nur dem Menschen vorbehalten. Die Frage „ist der Mensch gut oder böse?" ist schlicht unsinnig. Der Mensch ist ein **Möglichkeitsorgan** — unbegrenzt in beide Richtungen.
+
+> [!question] Weitergedacht
+> Mausfeld sagt: Der Mensch ist ein Möglichkeitsorgan — unbegrenzt in beide Richtungen. Aber *wenn das stimmt, warum dominiert historisch das Destruktive so oft?* Ist die Asymmetrie zufällig — oder gibt es einen strukturellen Vorteil des Bösen gegenüber dem Guten (Schnelligkeit, Einfachheit, niedrigere Kosten)?
 
 ---
 
@@ -155,9 +161,16 @@ Mausfelds Thesen wurden von sehr unterschiedlichen Lagern vereinnahmt — darunt
 > [!warning] Vorsicht
 > „Alles ist Manipulation" kann paradoxerweise selbst zur Manipulationsgrundlage werden — und jeden Faktencheck immunisieren. Die Theorie erklärt zu viel und wird damit unüberprüfbar.
 
+> [!question] Weitergedacht
+> Die kritische Einschränkung trifft: Wer alles als Manipulation deutet, immunisiert sich gegen Korrektur. Aber *wie unterscheidet man berechtigte Systemkritik von paranoidem Denken?* Gibt es ein Kriterium — oder ist die Grenze selbst ein politisches Schlachtfeld?
+
 ---
 
 ## Verbindungen in der Gedankenwelt
+
+### → [[Renee DiResta — Invisible Rulers]]
+
+Mausfeld analysiert strukturelle Manipulation durch Eliten (top-down): Konzerne, Medienkonglomerate, Regierungen als Instrumente der Demobilisierung. DiResta zeigt das dezentralisierte Pendant: tausende Influencer ohne zentrale Steuerung erzielen denselben Effekt. Beide kommen zu ähnlichen Diagnosen über den Verfall demokratischer Öffentlichkeit — aber auf komplett verschiedenen Wegen.
 
 ### → [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
@@ -166,6 +179,17 @@ Mausfeld diagnostiziert Bewusstseinskontrolle durch Medien und Elitenkommunikati
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Mausfeld: Angst macht den Menschen zur Statue — sie blockiert Kreativität und politisches Handeln. Rosa: Beschleunigung und Verfügbarkeitsdruck machen Resonanz strukturell unwahrscheinlich. Beide diagnostizieren eine Gesellschaft, die das Lebendigste am Menschen systematisch unterdrückt — auf verschiedenen Wegen. Mausfeld sieht die externe Steuerung als Ursache, Rosa die innere Logik des Steigerungssystems. Zusammen entsteht ein vollständigeres Bild: Das System erzeugt die Bedingungen, die Mausfelds Schweigelamm und Rosas resonanzlose Optimierungsmaschine hervorbringen.
+
+### → [[Immanuel Kant — Was ist Aufklärung?]]
+
+Kants „Faulheit und Feigheit" als Ursache von Unmündigkeit ist das anthropologische Substrat, das Mausfeld durch externe Mechanismen (Medien, Eliten, Angst) systematisch ausgebeutet sieht. Kant diagnostiziert Unmündigkeit als Willensproblem des Einzelnen; Mausfeld zeigt, dass dieser Wille strukturell gebrochen wird. Kant glaubt, Aufklärung sei durch freie Rede lösbar — Mausfeld zeigt, dass genau dieser Raum des freien Sprechens verhindert wird. Kant liefert die Philosophie des Symptoms; Mausfeld benennt die Täter.
+
+### → [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE]]
+
+Mausfeld fragt, warum demokratische Öffentlichkeiten staatliche Gewalt dulden; Flemigs Sudan-Bericht zeigt das Pendant auf globaler Ebene: Warum schweigt die Weltgemeinschaft beim Völkermord in Sudan? — weil die wirtschaftlichen Beziehungen zu den Täter-Sponsoren (VAE als "strategischer Partner" Deutschlands) nie wirklich hinterfragt werden. Mausfeld beschreibt die Mechanismen; El Fashir ist ein konkreter Beweis.
+
+### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
+Citizens United ist für Navidi der historische Beweis für Mausfelds These: Der Moment, in dem oligarchische Einflussnahme auf Demokratie nicht mehr verborgen, sondern legalisiert wurde. Navidi beschreibt, wie Bezos die Washington Post zum Schweigen bringt — nicht durch Zensurbefehl, sondern durch wirtschaftliche Abhängigkeit. Genau das ist Mausfelds Meinungskorridorstruktur in der Praxis.
 
 ### → [[Ernst Gelegs — Ist das Regime Orbán am Ende]]
 
@@ -201,6 +225,23 @@ Nosthoff liefert die technische Infrastruktur für Mausfelds politische Analyse:
 
 KI-generierter Conspiracy-Content, der Angst als Loosh-Ernte narrativiert — die kosmische Variante von Mausfelds Analyse der Angst als politischem Steuerungsinstrument. Das Mastermind-Narrativ (Administratoren/Anunnaki) lenkt Aufmerksamkeit weg von realen Machtstrukturen.
 
+### → [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]]
+
+Haidt beschreibt die innere Psychologie der Stammeslogik — die Anfälligkeit, die Mausfeld von außen manipuliert sieht. Haidt zeigt, warum Menschen in moralischen Matrizen gefangen sind; Mausfeld zeigt, wer diese Matrizen gezielt konstruiert und verstärkt. Innere Anfälligkeit × äußere Manipulation = Polarisierung als System.
+
+- [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Zupančičs Verleugnen im NZ-Salon als philosophische Mikro-Analyse von Mausfelds demokratischer Selbsttäuschung
+
+---
+
+## Weiterdenken
+
+> [!question] Was Aristoteles vielleicht gefragt hätte
+> - Mausfeld sagt: Angst ist das älteste Machtinstrument. Aber *gibt es eine Form von Angst, die befreit statt lähmt?* [[Hannah Arendt — Denken ohne Geländer|Arendt]] beschreibt die Angst vor sich selbst (mit einem Mörder zusammenzuleben) als moralisch produktiv. Gibt es also *gute* Angst — und wenn ja, *wer entscheidet, welche Angst welche ist?*
+> - Mausfeld nennt Demokratie einen „Schutzbalken". Aber *schützt Demokratie vor Manipulation — oder ermöglicht sie sie erst?* Bernays' Propaganda funktioniert *nur* in offenen Gesellschaften mit freien Medien. In einer Diktatur braucht man keine PR — man hat Gewalt.
+> - Der Mensch als Möglichkeitsorgan: unbegrenzt in beide Richtungen. Aber [[Erich Fromm — Haben oder Sein|Fromm]] sagt: Destruktivität ist *immer* Ausdruck von Entfremdung, nie primär. Mausfeld lässt die Frage offen. *Wer hat recht — und was folgt politisch daraus?*
+> - Mausfeld diagnostiziert brillant — aber *was ist sein Therapievorschlag?* Aufklärung? Selbstdenken? [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Ricard]] würde fragen: Reicht intellektuelle Einsicht — oder braucht es eine Praxis, die den ganzen Menschen transformiert?
+> - *Wer aufklärt, hat Macht.* Mausfeld selbst formt Rahmen, innerhalb derer Menschen denken. Ist Aufklärung jemals neutral — oder ist sie immer auch ein Akt der Gegenmanipulation mit anderen Mitteln?
+
 ---
 
 ## Weiterführend
@@ -220,4 +261,32 @@ KI-generierter Conspiracy-Content, der Angst als Loosh-Ernte narrativiert — di
 - [[Zeitgeist/Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]] — Das Grayzone-Interview illustriert Mausfelds These aus einer anderen Richtung: Fox News als Netanyahu-Sprachrohr, NYT als Geheimdienstkanal — konkrete Mechanismen medialer Kriegsvorbereitung.
 - [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — Tucker Carlson als Maschine zur Normalisierung von GRT ist Mausfelds Medienkontrolle in der Praxis: 400 Erwähnungen in 50 Stunden Primetime schaffen einen neuen Meinungskorridor.
 - [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Der Drehtür-Effekt Reiche/E.ON: Lobbyinteressen formen politische Entscheidungen unterhalb der öffentlichen Wahrnehmungsschwelle — Reiche löschte den Post, aber Monitor fand die Spur.
+- [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]] — ZEW-Befunde (AfD-Wähler unter Geringverdienenden trotz wirtschaftlich nachteiligem Programm) sind ein Lehrbuchbeispiel für Mausfelds These: Bevölkerungen werden gezielt dazu gebracht, gegen ihre eigenen Interessen zu handeln.
+- [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]] — Mausfelds Zustimmungsproduktion in Reinform: Eine vollständig erfundene Geschichte, gezielt emotional aufgeladen verbreitet, konditioniert Millionen Menschen gegen eine schutzberechtigte Gruppe — und lähmt am Ende sogar staatliches Handeln
 - [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]] — CPAC ist Mausfelds Meinungskorridor-Mechanismus in seiner organisatorischen Form: Denkfabriken, NGOs, Staatsgelder erzeugen scheinbare Graswurzelbewegungen — Mausfeld liefert die Theorie, CPAC den Apparat
+- [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Butterwegge beschreibt die konkreten Steuerpolitiken, die Mausfelds Elite-Macht materiell absichern: Erbschaftssteuer-Ausnahmen, Kapitalgewinnprivileg, Vermögensteuer-Aussetzung — Theorie und Praxis der Deutungshoheit
+- [[Zeitgeist/ARTE — Forschung Fake und faule Tricks]] — Agnotologie ist Mausfelds Zustimmungsproduktion in ihrer reinsten Form: Industrien produzieren gezielt Unwissen, um Handlungsfähigkeit zu verhindern — das Ziel ist identisch, nur die Mittel sind wissenschaftlich verkleidet
+
+- [[Walther Ziegler — Platon in 60 Minuten]] — Platons Höhlengleichnis ist die älteste Beschreibung von Mausfelds Manipulationsthese: Die Gefangenen halten die Schatten für real und verteidigen sie gegen die Befreiten. 2400 Jahre vor Mausfeld hat Platon bereits diagnostiziert, dass die Unterdrückung nicht nur durch Gewalt funktioniert — sondern durch das Einverständnis der Unterdrückten
+- [[Andreas Zimpel — Neurodiversität]] — Zimpel beweist mathematisch, was Mausfeld politisch diagnostiziert: Die Vorstellung homogener Gruppen (normal/anormal, wir/die anderen) ist eine Illusion — nicht aus rhetorischer Empörung, sondern aus der Mathematik der Normalverteilung. Beide zeigen: Die Kategorien, mit denen Herrschaft arbeitet, sind ontologisch nicht haltbar.
+
+- [[Martyna Linartas — Unverdiente Ungleichheit]] — Linartas konkretisiert Mausfelds Bewusstseinsbewirtschaftung am empirischen Beispiel: die "Leistungsgesellschaft"-Erzählung ist das neoliberale Narrativ, das Vermögenskonzentration legitimiert, obwohl es empirisch widerlegt ist
+- [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]] — Baberowskis Kritik der liberalen Demokratie als Fassade trifft auf Mausfelds Elitendemokratie-Analyse: beide sehen institutionelle Demokratie als Legitimationskulisse für Oligarchie
+- [[Torsten Heinrich — Was die Tagesschau verschweigt]] — Komplementäre Werkzeuge: Mausfeld analysiert die Propagandastrukturen (wie wird manipuliert?), Heinrich lehrt die praktische Gegenwehr — Quellenkritik, Cross-Referencing pro-russischer und pro-ukrainischer Kanäle, Offenlegung der eigenen Position statt vorgetäuschter Neutralität
+- [[Erich Fromm — Menschliches Wachstum]] — Fromm diagnostiziert 1971 den passiven Konsumenten als „ewigen Säugling" — Mausfelds „schweigende Lämmer" sind dessen politische Konsequenz
+
+- [[Erich Fromm — Psychoanalyse des Faschismus]] — Fromm liefert die psychologische Unterseite zu Mausfelds Systemanalyse: Die "anonyme Autorität" ist genau der Mechanismus, den Mausfeld auf Elitenebene beschreibt. Beide kommen zum selben Befund: Gehorsam wird nicht erzwungen, er wird gewünscht
+- [[Walther Ziegler — Adorno in 60 Minuten]] — Adornos Kulturindustrie und Verblendungszusammenhang liefern das theoretische Fundament für Mausfelds empirische Analyse: wie Medien und Sprache systematisch Unmündigkeit produzieren. Adorno beschrieb die Mechanismen 1944 — Mausfeld zeigt, dass sie perfektioniert wurden
+- [[Walther Ziegler — Heidegger in 60 Minuten]] — Heideggers Man-Analyse als philosophischer Unterbau für Mausfelds Medien- und Manipulationskritik
+- [[Walther Ziegler — Smith in 60 Minuten]] — Smiths Menschenbild des rationalen Egoisten als historischer Ausgangspunkt für die Naturalisierung von Herrschaft
+- [[Steffen Mau — Spaltung der Gesellschaft]] — Mau liefert empirische Evidenz für Mausfelds These: 80% erkennen Ungleichheit, aber „folgenloses Bewusstsein" — asymmetrisches Agenda Setting verhindert politische Konsequenzen
+- [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Mau zeigt empirisch den Mechanismus, den Mausfeld theoretisch beschreibt: Polarisierungsunternehmer als die konkreten Akteure hinter Mausfelds „kognitiven Managementtechniken"
+- [[Follow This — Die grüne Horzel in Big Oil]] — Exxons Klage gegen Follow This als Meinungsmanagement: Nicht der Prozessausgang zählt, sondern der Chilling Effect.
+- [[Maja Goepel — Mut zur Zukunft]] — Göpels Agency-Agenda als Gegenmittel zu Mausfelds Ohnmachtstechniken. „Wirklichkeitsraum kuratieren" als Antwort auf „Warum schweigen die Lämmer".
+- [[Liya Yu — Neuropolitik und die Grenzen der Moral]] — Yu zeigt die neuronalen Mechanismen, die Mausfelds psychologische Demobilisierung erst ermöglichen
+- [[Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Mausfelds unsichtbare Machttechniken konkretisieren Foucaults Gouvernementalität für die Gegenwart: Die „Lämmer" sind die erfolgreich regierten Subjekte, die ihre Lenkung als eigene Überzeugung erleben
+- [[Martin Sonneborn — Endloser Krieg]] — Sonneborn nutzt Mausfelds Analyse einseitig: Medien erzeugen Zustimmung zur Ukraine-Finanzierung zugunsten der Rüstungsindustrie. Die Note zeigt, dass Mausfelds Werkzeug in beide Richtungen schneidet — auch anti-westliche Gegennarrative können gesteuerte Framings sein.
+- [[Nico Semsrott — Bruessel sehen und sterben]] — Semsrott erlebt Mausfelds „Demokratie-Management" als konkreten EU-Parlamentsalltag: zahnlose Kontrollgremien, Transparenz-Attrappen, ein freies Mandat als Schild gegen Rechenschaft. Was Mausfeld theoretisch als „kognitives Management" beschreibt, benennt Semsrott als „Regeln, die nur dafür da sind, nach außen den Eindruck zu vermitteln, die Abgeordneten hielten sich an irgendwelche Regeln."
+- [[Heinz Bude — Gesellschaft der Angst]] — Budes Beobachtung, dass immer mehr Menschen in einer „Postdemokratie" zu leben glauben, findet bei Mausfeld die strukturelle Erklärung: kognitive Managementtechniken erzeugen die Ohnmacht, die Bude als diffuse Angst diagnostiziert
+- [[Julie Pagis — Psychologie der charismatischen Kontrolle]] — Pagis zeigt die brutale Mikroversion von Mausfelds sanftem Herrschaftsmodell: charismatische Kontrolle durch Selbstkritik, Isolation und Schuldgefühle. Beide arbeiten mit der Einsicht, dass wirksame Herrschaft internalisiert wird — die Beherrschten kontrollieren sich am Ende selbst
+- [[Walther Ziegler — Rawls in 60 Minuten]] — Rawls liefert das Ideal (Urzustand, Schleier des Nichtwissens), Mausfeld erklärt, warum es in der Realität scheitert: Kognitive Managementtechniken und asymmetrisches Agenda-Setting verhindern die faire Abstimmung, die Rawls fordert

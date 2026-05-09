@@ -186,10 +186,50 @@ Im letzten Teil führt Blumenthal Jeffrey Epstein als «Symbol für eine dekaden
 
 ## Verbindungen
 
-- [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]] — Lange analysiert die strategische Dimension des Iran-Konflikts aus westlicher Sicherheitsperspektive, während Blumenthal/Hedges die Hintergrundmechanismen (Lobby, Netanyahu) beleuchten, die diesen Krieg überhaupt erst möglich machten.
-- [[MONITOR — Irankrieg und das Ende des Völkerrechts]] — Beide Notes behandeln den Iran-Krieg als Bruch mit internationalem Recht; MONITOR liefert den völkerrechtlichen Rahmen, Blumenthal/Hedges die politische Architektur dahinter.
-- [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]] — Die PhoenixRunde fragt nach Chaos vs. Strategie — Blumenthal/Hedges liefern eine klare (einseitige) Antwort: keine Trumpsche Strategie, sondern israelische Agenda. Direkte Gegenthese zum Chaos-Narrativ.
-- [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Mirzaei gibt den historischen und iranischen Kontext, den Blumenthal/Hedges voraussetzen; zusammen entsteht ein vollständigeres Bild von Ursachen und Akteuren.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld analysiert Medienpropaganda strukturell; Blumenthal/Hedges illustrieren konkret, wie dieser Mechanismus (Fox News, NYT-Geheimdienstquellen) im Iran-Krieg eingesetzt wurde.
-- [[Nicholas Potter — Die neue autoritäre Linke (taz Talk)]] — Potter thematisiert den Antisemitismusbegriff als politisches Instrument im Nahost-Diskurs — relevant für die Einordnung Blumenthals als kontroverser Quelle und die Frage, wo legitime Israel-Kritik endet.
-- [[Götz Aly — Wie konnte das geschehen]] — Alys Frage nach institutionellem Schweigen angesichts offensichtlicher Fakten gilt auch für den US-Kongress angesichts des Lobby-Einflusses — und warnt vor Antisemitismus, der sich als Systemkritik tarnt (Epstein-Baal-Komplex).
+### → [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
+
+Lange analysiert die strategische Dimension des Iran-Konflikts aus westlicher Sicherheitsperspektive, während Blumenthal/Hedges die Hintergrundmechanismen (Lobby, Netanyahu) beleuchten, die diesen Krieg überhaupt erst möglich machten.
+
+### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
+
+Beide Notes behandeln den Iran-Krieg als Bruch mit internationalem Recht; MONITOR liefert den völkerrechtlichen Rahmen, Blumenthal/Hedges die politische Architektur dahinter.
+
+### → [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
+
+Die PhoenixRunde fragt nach Chaos vs. Strategie — Blumenthal/Hedges liefern eine klare (einseitige) Antwort: keine Trumpsche Strategie, sondern israelische Agenda. Direkte Gegenthese zum Chaos-Narrativ.
+
+### → [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
+
+Mirzaei gibt den historischen und iranischen Kontext, den Blumenthal/Hedges voraussetzen; zusammen entsteht ein vollständigeres Bild von Ursachen und Akteuren.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Mausfeld analysiert Medienpropaganda strukturell; Blumenthal/Hedges illustrieren konkret, wie dieser Mechanismus (Fox News, NYT-Geheimdienstquellen) im Iran-Krieg eingesetzt wurde.
+
+### → [[Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]
+
+Potter thematisiert den Antisemitismusbegriff als politisches Instrument im Nahost-Diskurs — relevant für die Einordnung Blumenthals als kontroverser Quelle und die Frage, wo legitime Israel-Kritik endet.
+
+### → [[Götz Aly — Wie konnte das geschehen]]
+
+Alys Frage nach institutionellem Schweigen angesichts offensichtlicher Fakten gilt auch für den US-Kongress angesichts des Lobby-Einflusses — und warnt vor Antisemitismus, der sich als Systemkritik tarnt (Epstein-Baal-Komplex).
+
+### → [[Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
+
+Trumps Iran-Pivot hat direkte Ukraine-Konsequenzen: US-Aufmerksamkeit weg, Russland-Sanktionen gelockert — Flemig zeigt, wie die Ukraine-Lage dadurch beeinflusst wird
+
+### → [[Konstantin Flemig — Sudan Massaker el Fashir und die VAE]]
+
+Strukturelle Parallele: wie westliche Demokratien durch Allianzlogik und wirtschaftliche Verflechtungen zum Mittäter werden, ohne je formal Krieg zu führen — die VAE-Deutschland-Achse im Sudan ist strukturell analog zur US-Israel-Dynamik: Waffen, Schweigen, Legitimation durch Partnerschaft
+
+### → [[Torsten Heinrich — Was die Tagesschau verschweigt]]
+
+Produktive Spannung: Heinrich argumentiert pro-Israel mit Nuancen (Existenzrecht, Doppelstandards in der Berichterstattung), Blumenthal/Hedges kritisch (Lobbying, AIPAC). Der Vergleich beider Perspektiven schärft das eigene Urteil
+
+### → [[Markus Reisner — Strasse von Hormus fragil]]
+
+Reisner bestätigt aus militäranalytischer Sicht: Netanyahus Präsentation als Auslöser der Kriegsentscheidung
+
+### → [[Natalie Amiri — Hoelle auf Erden im Iran]]
+
+Bestätigt von iranischer Seite: „Trump will raus, Israel nicht." Amiris Einschätzung, dass Iran einen Deal braucht, zeigt die Verhandlungsasymmetrie.

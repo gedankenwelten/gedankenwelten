@@ -3,6 +3,7 @@ date: 2026-03-27
 title: "Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update"
 tags:
   - zeitgeist
+  - gespräch
   - podcast
   - afd
   - verfassungsschutz
@@ -20,6 +21,9 @@ aliases:
 
 Quelle: Podcast „Gilda con Arne", Folge 23
 Aufnahme: Dienstag, 4. März 2026 (4. Kriegstag)
+
+> [!tip] Kanal unterstützen
+> Gilda Sahebi und Arne Semsrott machen mit *Gilda con Arne* einen der informiertesten deutschsprachigen Politik-Podcasts — spendenfinanziert und werbefrei. Unterstützenswert: [YouTube](https://www.youtube.com/@GildaconArne) · [Apple Podcasts](https://podcasts.apple.com/de/podcast/gilda-con-arne-der-politik-podcast/id1839234585)
 
 > [!info] Wer spricht?
 > **Gilda Sahebi** — deutsch-iranische Journalistin und Autorin; Spezialistin für Iran und Nahostpolitik
@@ -197,3 +201,4 @@ Sirus Schyek (Historiker, Genf) und Kamran Safiarian (ZDF-Journalist) — beide 
 
 - [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Iran-Forscherin mit historischer Tiefe; Perspektive auf Revolutionsgeschichte, IRGC, Golfstaaten-Dilemma und westliche Doppelstandards
 - [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — STAIY berichtet über denselben Eskalationsmoment (25.03.2026): 82. Luftlandedivision, iranischer Spott, Bodentruppen-Pläne
+- [[Daniel - Lena Kotré plant private Abschiebeindustrie]] — Kotrés Plan und ihr Auftritt mit Sellner (Jan. 2026) trotz Parteidrucks sind ein Lehrstück für das offene Verfassungsschutz-Problem: Das Gericht ließ die Einstufung offen — die Partei baut unterdessen weiter an verfassungsfeindlichen Konzepten

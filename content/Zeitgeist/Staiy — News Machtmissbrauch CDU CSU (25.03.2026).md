@@ -34,6 +34,9 @@ Das Video vom 25. März 2026 behandelt sechs aktuelle Themen aus Politik und Tec
 
 ### 1. Klimaschutzprogramm der Bundesregierung
 
+[▶ 3:59](https://www.youtube.com/watch?v=cd8rCzl3Uvs&t=239)
+
+
 *Quelle: [Kabinett verabschiedet neues Klimaschutzprogramm](https://meinungsmache.de/article/kabinett-verabschiedet-neues-klimaschutzprogramm) — meinungsmache.de*
 
 Das Bundeskabinett hat ein neues Klimaschutzprogramm verabschiedet. Umweltminister **Carsten Schneider (SPD)** verkündete 8 Milliarden Euro zusätzlich über vier Jahre — für Windkraft, Fernwärmenetze, Industrie-Dekarbonisierung, Deutschlandticket bis 2030 und E-Auto-Förderung.
@@ -51,6 +54,9 @@ STAIY's Einordnung: *„8 Milliarden über 4 Jahre ist fast nichts. Peanuts."*
 
 ### 2. Iran verspottet Trump — drohende Bodentruppen
 
+[▶ 6:17](https://www.youtube.com/watch?v=cd8rCzl3Uvs&t=377)
+
+
 *Quelle: [Irans Militär reagiert mit Spott auf Trumps Aussagen](https://meinungsmache.de/article/irans-militaer-reagiert-mit-spott-auf-trumps-aussagen) — meinungsmache.de*
 
 **Diplomatischer Schlagabtausch:**
@@ -66,6 +72,9 @@ STAIY's Analyse: *„Das wird das nächste Afghanistan."* Der Angriff auf den Ir
 ---
 
 ### 3. Klingbeil: Mehr Arbeit, spätere Rente
+
+[▶ 17:45](https://www.youtube.com/watch?v=cd8rCzl3Uvs&t=1065)
+
 
 *Quelle: [Klingbeil will Ehegattensplitting abschaffen und spätere Rente](https://meinungsmache.de/article/klingbeil-will-ehegattensplitting-abschaffen-und-spaetere-rente) — meinungsmache.de*
 
@@ -96,6 +105,9 @@ STAIY's Einordnung: *„850 Milliarden ist eine Fantasiezahl. OpenAI macht null 
 
 ### 5. Machtmissbrauch: Innenministerium stoppt Antiextremismus-Förderung
 
+[▶ 29:10](https://www.youtube.com/watch?v=cd8rCzl3Uvs&t=1750)
+
+
 *Quelle: [Bundesinnenministerium stoppt Fördergelder für Anti-Extremismusprojekt](https://meinungsmache.de/article/bundesinnenministerium-stoppt-foerdergelder-fuer-anti-extremismusprojekt) — meinungsmache.de | Recherche: Report Mainz (ARD)*
 
 Das schwerste Thema des Videos. Die Organisation **Radikale Töchter** — bekannt und preisgekrönt für Antiextremismus-Workshops auf dem Land (*„Mut-Muskel-Training"* für demokratische Mitbestimmung) — hatte fristgerecht Fördergelder für 2025/2026 beantragt. Ergebnis der Prüfung durch Fachbehörden: **förderungswürdig**, alle Anforderungen erfüllt. Organisation erhielt schriftliche Zusage, die Workshops könnten beginnen.
@@ -111,6 +123,9 @@ STAIY's Reaktion: Dobrindt gehöre vor Gericht gestellt. Die Radikalen Töchter 
 ---
 
 ### 6. Demokratie Leben — Förderprogramm läuft aus
+
+[▶ 31:28](https://www.youtube.com/watch?v=cd8rCzl3Uvs&t=1888)
+
 
 *Quelle: [Bund ändert Förderbedingungen für Demokratie Leben](https://meinungsmache.de/article/bund-aendert-foerderbedingungen-fuer-demokratie-leben) — meinungsmache.de*
 
@@ -157,32 +172,109 @@ STAIY's Fazit: Das bestärkt ihn darin, dass die Charity-Aktion *Im März gegen 
 ## Verbindungen
 
 **Iran-Krieg & Trump:**
-- [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]] — militärische Einschätzung zur Eskalationsdynamik
-- [[MONITOR — Irankrieg und das Ende des Völkerrechts]] — völkerrechtliche Dimension des Iran-Konflikts
-- [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — iranische Perspektive & historischer Kontext
-- [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]] — geopolitische Einordnung
-- [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]] — multiperspektivische Diskussion
-- [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]] — innenpolitische Konsequenzen für Trump
-- [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]] — Iran-Update aus GCA
-- [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Öl & Straße von Hormus
+
+### → [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
+
+militärische Einschätzung zur Eskalationsdynamik
+
+### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
+
+völkerrechtliche Dimension des Iran-Konflikts
+
+### → [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
+
+iranische Perspektive & historischer Kontext
+
+### → [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
+
+geopolitische Einordnung
+
+### → [[PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
+
+multiperspektivische Diskussion
+
+### → [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]
+
+innenpolitische Konsequenzen für Trump
+
+### → [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+
+Iran-Update aus GCA
+
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+
+Öl & Straße von Hormus
 
 **Demokratieabbau & autoritäre Tendenzen:**
-- [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — systematische Erosion demokratischer Normen
-- [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — strukturelle Schwäche liberaler Demokratien
-- [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — theoretische Einordnung autoritärer Züge
-- [[Eva von Redecker — Dieser Drang nach Härte]] — CDU/CSU-Rhetorik als Symptom
-- [[Andreas Kemper — Technofaschismus und die AfD]] — Verbindung von Rechtsruck und Institutionsmacht
-- [[Andreas Kemper — Faschismen im 21. Jahrhundert]] — historische Parallelen
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Mechanismen der Meinungsbeeinflussung
+
+### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+
+systematische Erosion demokratischer Normen
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+strukturelle Schwäche liberaler Demokratien
+
+### → [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
+
+theoretische Einordnung autoritärer Züge
+
+### → [[Eva von Redecker — Dieser Drang nach Härte]]
+
+CDU/CSU-Rhetorik als Symptom
+
+### → [[Andreas Kemper — Technofaschismus und die AfD]]
+
+Verbindung von Rechtsruck und Institutionsmacht
+
+### → [[Andreas Kemper — Faschismen im 21. Jahrhundert]]
+
+historische Parallelen
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Mechanismen der Meinungsbeeinflussung
 
 **Wirtschaft & Arbeit:**
-- [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — ökonomische Grundlage des Rechtsrucks
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — makroökonomische Perspektive
+
+### → [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+
+ökonomische Grundlage des Rechtsrucks
+
+### → [[Heiner Flassbeck — Krise und Rechtsruck]]
+
+makroökonomische Perspektive
 
 **KI & Tech:**
-- [[Adam Tooze — Pentagon vs. Anthropic]] — Pentagon-Anthropic-Deal, OpenAI als Kontrast
-- [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Macht der Tech-Konzerne
+
+### → [[Adam Tooze — Pentagon vs. Anthropic]]
+
+Pentagon-Anthropic-Deal, OpenAI als Kontrast
+
+### → [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+
+Macht der Tech-Konzerne
 
 **Energiekrise & Postpolitik:**
-- [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Schwerdtner analysiert dieselbe Bundesregierung aus Sicht der Linken: Nicht-Handeln bei der Energiekrise als Fortsetzung des Machtmissbrauchs.
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Der Drehtür-Effekt Reiche/E.ON ist ein konkretes Fallbeispiel des von Staiy strukturell analysierten CDU/CSU-Machtmissbrauchs.
+
+### → [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
+
+Schwerdtner analysiert dieselbe Bundesregierung aus Sicht der Linken: Nicht-Handeln bei der Energiekrise als Fortsetzung des Machtmissbrauchs.
+
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+Der Drehtür-Effekt Reiche/E.ON ist ein konkretes Fallbeispiel des von Staiy strukturell analysierten CDU/CSU-Machtmissbrauchs.
+
+**Fortsetzung:**
+
+### → [[Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]]
+
+zwei Tage später: Merz instrumentalisiert die Demo gegen Gewalt an Frauen für Rassismus; MwSt-Debatte als weitere regressive Politik — dasselbe CDU/CSU-Muster, neue Felder
+
+### → [[Staiy — News: Die Regierung zockt euch ab (02.04.2026)]]
+
+eine Woche später: Steuerpläne der Bundesregierung in Zahlen — dasselbe Muster, jetzt mit konkreter Analyse des Netzwerks Steuergerechtigkeit
+
+### → [[Nico Semsrott — Bruessel sehen und sterben]]
+
+Semsrott dokumentiert CDU/CSU-Machtmissbrauch auf EU-Ebene aus fünf Jahren Innensicht: Die EVP kontrolliert seit 25 Jahren die Parlamentsregeln und blockiert systematisch Transparenzreformen. Der Lobbyismus-Drehtüreffekt (Wieland, Schwab, Voss als gleichzeitig aktive Anwälte und MEPs) ist die EU-Version des nationalen CDU-Machtmissbrauchs, den Staiy bei Katharina Reiche aufdeckt.

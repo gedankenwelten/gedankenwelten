@@ -20,6 +20,9 @@ aliases:
 Quelle: Gilda con Arne — Der Politik-Podcast, Folge #20
 Produziert von Gilda Sahebi & Arne Semsrott, unabhängig/werbefrei über Steady finanziert
 
+> [!tip] Kanal unterstützen
+> Gilda Sahebi und Arne Semsrott machen mit *Gilda con Arne* einen der informiertesten deutschsprachigen Politik-Podcasts — spendenfinanziert und werbefrei. Unterstützenswert: [YouTube](https://www.youtube.com/@GildaconArne) · [Apple Podcasts](https://podcasts.apple.com/de/podcast/gilda-con-arne-der-politik-podcast/id1839234585)
+
 > [!info] Wer spricht?
 > **Gilda Sahebi** — Moderatorin und Co-Hosterin; Journalistin und Iran-Expertin mit iranischem Vater; kennt die Zivilgesellschaft von innen, hat aktive Kontakte in den Iran.
 > **Kai Ambos** — Völkerrechtler und Völkerstrafrechtler, Universität Göttingen; Richter am Kosovo-Sondertribunal in Den Haag; auch in der MONITOR-Note zu Irankieg und Völkerrecht vertreten. Juristische Präzision ohne ideologische Färbung.
@@ -175,3 +178,4 @@ Lange liefert die militärisch-strategische Tiefenanalyse zur selben Phase des I
 Sirus Schyek (Historiker, Genf) und Kamran Safiarian (ZDF-Journalist) — beide mit iranischen Wurzeln — analysieren denselben Konflikt aus persönlicher und historischer Perspektive: das ethisch-moralische Dilemma (böses Regime vs. Völkerrechtsbruch), die Sicherheitsdilemma-Spirale seit 2003, humanitäre Lage und Szenarien.
 
 - [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Iran-Forscherin mit historischer Tiefe; Perspektive auf Revolutionsgeschichte, IRGC, Golfstaaten-Dilemma und westliche Doppelstandards
+- [[Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz]] — Johnen bewegt sich auf genau der Grenze, die dieser Podcast für den Iran diskutiert: politischen Druck fordern, aber keine militärische Intervention. Sudan als Parallele: humanitäre Hilfe ohne Interventionsanspruch — und trotzdem kein Frieden in Sicht

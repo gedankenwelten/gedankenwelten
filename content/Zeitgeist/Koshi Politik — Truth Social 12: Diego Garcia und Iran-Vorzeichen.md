@@ -30,6 +30,9 @@ Quelle: [Truth Social Folge 12: Diego Garcia und das Zeichen für den Iran-Krieg
 
 ### Erster Post: Dominion Voting Machines (wieder)
 
+[▶ 2:20](https://www.youtube.com/watch?v=-Z7t_s04vWo&t=140)
+
+
 Trump postet erneut Behauptungen über Dominion Voting Machines (Wahlautomaten):
 - 435.000 Stimmen von Trump auf Biden umgestellt
 - 2,7 Millionen Trump-Stimmen gelöscht
@@ -45,6 +48,9 @@ Trump postet erneut Behauptungen über Dominion Voting Machines (Wahlautomaten):
 Jetzt verbreitet Trump denselben Schwachsinn erneut.
 
 ### Hauptpost: Diego Garcia als Iran-Vorzeichen
+
+[▶ 3:06](https://www.youtube.com/watch?v=-Z7t_s04vWo&t=186)
+
 
 **Diego Garcia** — Insel im Indischen Ozean (Chagos-Archipel), ehemaliges britisches Kolonialgebiet. UK hat die Insel an Mauritius zurückgegeben, aber einen **100-jährigen Pachtvertrag** für eine **US/UK-Militärbasis** abgeschlossen.
 

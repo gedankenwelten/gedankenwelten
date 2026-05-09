@@ -35,6 +35,9 @@ Diese Behauptung ist laut Buchinger nicht nur physikalisch falsch — sie wird v
 
 ### Das Betreiber-Zitat: RWE gegen Kernenergie
 
+[▶ 0:47](https://www.youtube.com/watch?v=X33O_YLMhCs&t=47)
+
+
 Markus Krebber, Vorstandsvorsitzender von RWE (einem der größten europäischen Energiekonzerne, ehemals selbst AKW-Betreiber), sagte explizit:
 
 > *„Basedelad Kernkraft passt nicht zu erneuerbaren. Die Erneuerbaren machen die Ökonomie des Kernkraftwerks kaputt."*
@@ -44,6 +47,9 @@ Dieser Satz kommt nicht von einem „linksgrünen" Kritiker, sondern vom Chef ei
 ---
 
 ### Warum Kernenergie und Erneuerbare strukturell unvereinbar sind
+
+[▶ 3:05](https://www.youtube.com/watch?v=X33O_YLMhCs&t=185)
+
 
 **Das Grundproblem: Trägheit vs. Volatilität**
 
@@ -88,6 +94,9 @@ Jedes Mal wenn der Marktpreis unter den garantierten Einkaufspreis fällt — wa
 
 ### Das Ende des Grundlastdenkens
 
+[▶ 6:55](https://www.youtube.com/watch?v=X33O_YLMhCs&t=415)
+
+
 > *„Grundlast brauchen wir nicht mehr. Grundlast ist die alte Welt."*
 
 Das Konzept der Grundlast — konstante Dauererzeugung als Fundament des Netzes — stammt aus den 1950er–60er Jahren und ist auf eine Welt mit zentralisierten Großkraftwerken zugeschnitten.
@@ -126,12 +135,42 @@ Ein hoher Anteil exportierter Energie — oft als Stärke Frankreichs präsentie
 
 ## Verbindungen
 
-- [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Hauptnote zur Serie. Die dort behandelten Falschaussagen zu Wirtschaftlichkeit und Versorgungssicherheit ergänzen direkt diese Folge: Das Grundlastproblem ist in der Hauptnote unter „Falschaussage 2" bereits angesprochen, hier wird es mit Zahlen vertieft.
-- [[Dietrich Bonhoeffer — Theorie der Dummheit]] — Der LinkedIn-„Energieexperte", der manipulierte Grafiken verbreitet und Schlussfolgerungen in Quellen hineinliest, die dort nicht stehen, ist ein Paradebeispiel für die Bonhoeffer'sche Dummheit: Fakten verfangen nicht, wenn man sie schlicht nicht zur Kenntnis nehmen will.
-- [[Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Wer bewusst irreführende Grafiken verbreitet, um eine Position zu stützen, die selbst die eigene Industrie längst aufgegeben hat, schadet anderen (durch schlechte Energiepolitik) und letztlich auch sich selbst — Cipollas Definition des Dummen trifft hier präzise.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Die Technik des selektiven Ausschnitts (nur den roten Balken zeigen, Rest weglassen) ist ein klassisches Werkzeug der Desinformation. Mausfeld beschreibt, wie solche Techniken systematisch eingesetzt werden, um Meinungen unterhalb der Bewusstseinsschwelle zu formen.
-- [[Adam Tooze — Pentagon vs. Anthropic]] — Tooze thematisiert, wie technologische Entscheidungen von Machtinteressen geleitet werden, nicht von technischer Rationalität. Das gilt auch hier: Die Kernenergie-Lobby setzt auf Narrative, nicht auf Zahlen.
-- [[Mario Buchinger — Lügen der Kernenergie (Kommentarspalte)]] — Antwort-Video zur Serie: Buchinger widerlegt typische Pro-AKW-Kommentare aus der Kommentarspalte, darunter das SMR-Sicherheits-/Kostenargument und das Infraschall-Windrad-Mythos, der hier in Folge 2 bereits implizit mitschwingt.
-- [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Kemfert bestätigt aus ökonomischer Perspektive: Atomkraft und Erneuerbare sind systemisch inkompatibel (Grundlast vs. Flexibilität); Erneuerbare sind bereits heute die günstigere Option
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Reiches Gesetzentwurf könnte als politisches Werkzeug gelesen werden, die Inkompatibilität von Kernenergie und Erneuerbaren durch Netzrestriktionen künstlich herzustellen.
-- [[Good News — Positive Nachrichten März 2026]] — 2025-Daten: Wind & Solar 30% des EU-Stroms vs. 29% fossile, Kohle unter 10% — empirische Validierung von Buchangers Hauptthese: Erneuerbare haben ohne Kernkraft-Renaissance die fossile Energie überholt
+### → [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Hauptnote zur Serie. Die dort behandelten Falschaussagen zu Wirtschaftlichkeit und Versorgungssicherheit ergänzen direkt diese Folge: Das Grundlastproblem ist in der Hauptnote unter „Falschaussage 2" bereits angesprochen, hier wird es mit Zahlen vertieft.
+
+### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
+
+Der LinkedIn-„Energieexperte", der manipulierte Grafiken verbreitet und Schlussfolgerungen in Quellen hineinliest, die dort nicht stehen, ist ein Paradebeispiel für die Bonhoeffer'sche Dummheit: Fakten verfangen nicht, wenn man sie schlicht nicht zur Kenntnis nehmen will.
+
+### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+
+Wer bewusst irreführende Grafiken verbreitet, um eine Position zu stützen, die selbst die eigene Industrie längst aufgegeben hat, schadet anderen (durch schlechte Energiepolitik) und letztlich auch sich selbst — Cipollas Definition des Dummen trifft hier präzise.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Die Technik des selektiven Ausschnitts (nur den roten Balken zeigen, Rest weglassen) ist ein klassisches Werkzeug der Desinformation. Mausfeld beschreibt, wie solche Techniken systematisch eingesetzt werden, um Meinungen unterhalb der Bewusstseinsschwelle zu formen.
+
+### → [[Adam Tooze — Pentagon vs. Anthropic]]
+
+Tooze thematisiert, wie technologische Entscheidungen von Machtinteressen geleitet werden, nicht von technischer Rationalität. Das gilt auch hier: Die Kernenergie-Lobby setzt auf Narrative, nicht auf Zahlen.
+
+### → [[Mario Buchinger — Lügen der Kernenergie (Kommentarspalte)]]
+
+Antwort-Video zur Serie: Buchinger widerlegt typische Pro-AKW-Kommentare aus der Kommentarspalte, darunter das SMR-Sicherheits-/Kostenargument und das Infraschall-Windrad-Mythos, der hier in Folge 2 bereits implizit mitschwingt.
+
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+
+Kemfert bestätigt aus ökonomischer Perspektive: Atomkraft und Erneuerbare sind systemisch inkompatibel (Grundlast vs. Flexibilität); Erneuerbare sind bereits heute die günstigere Option
+
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+Reiches Gesetzentwurf könnte als politisches Werkzeug gelesen werden, die Inkompatibilität von Kernenergie und Erneuerbaren durch Netzrestriktionen künstlich herzustellen.
+
+### → [[Good News — Positive Nachrichten März 2026]]
+
+2025-Daten: Wind & Solar 30% des EU-Stroms vs. 29% fossile, Kohle unter 10% — empirische Validierung von Buchangers Hauptthese: Erneuerbare haben ohne Kernkraft-Renaissance die fossile Energie überholt
+
+### → [[Akkudoktor — Lanz und die Energiewende]]
+
+Umgekehrte Stoßrichtung, gleiche Methodik: Akkudoktor entlarvt statistische Manipulation contra Erneuerbare, Buchinger pro Kernenergie

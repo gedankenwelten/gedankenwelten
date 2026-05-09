@@ -30,6 +30,9 @@ Quelle: [Epstein-Akten Tag 2: Musk, Lutnick und die Überlebenden](https://www.y
 
 ### Was die Dateien über bekannte Personen zeigen
 
+[▶ 4:45](https://www.youtube.com/watch?v=wIanoMg6wmg&t=285)
+
+
 **Elon Musk:**
 - E-Mails zeigen, dass Musk **mehrfach versucht hat, Besuche auf Epsteins Privatinsel zu koordinieren**
 - 2013 fragte Musk Epstein: *„When should we head to your island? What day would be the wild party on your island?"*
@@ -46,6 +49,9 @@ Quelle: [Epstein-Akten Tag 2: Musk, Lutnick und die Überlebenden](https://www.y
   - 2015: Epstein eingeladen zu einem demokratischen Fundraiser für Hillary Clinton
 
 ### Was die Überlebenden sagen
+
+[▶ 9:52](https://www.youtube.com/watch?v=wIanoMg6wmg&t=592)
+
 
 Caitlyn Collins (CNN) interviewt Überlebende:
 
@@ -98,3 +104,10 @@ Trump verteidigt Pam Bondi gegen Kongress-Anhörung — die genau um diese Epste
 
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 Kemper: Musk als Technofaschist. Die Epstein-Verbindung ist ein weiteres Element des Musters: Elite-Netzwerke, die über Kontrolle von Informationen und Institutionen funktionieren.
+
+- [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Pascal Reinhardts strukturelles Argument im NZ-Salon: Milliardäre und Epstein als System, nicht Zufall
+- [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]] — Wolfgang und Stefan diskutieren die Epstein-Files ausführlich mit Fokus auf die Rolle der US-Demokraten und die deutsche Medienbilanz
+
+### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]
+
+Dieselbe Netzwerkstruktur — Elite-Verflechtungen über persönliche Beziehungen und finanzielle Abhängigkeiten — manifestiert sich bei Trump-Witkoff als geschäftliche Symbiose: Der Sondergesandte für den Nahen Osten ist gleichzeitig Geschäftspartner in der Familien-Kryptobank.

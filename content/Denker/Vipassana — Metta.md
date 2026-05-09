@@ -80,3 +80,14 @@ Fromm: *„Liebe ist eine aktive Tätigkeit."* Kein Besitz, kein Festhalten, kei
 ### → [[S.N. Goenka — Vipassana]]
 
 Mettā ist der Abschluss — und der Übergang ins Leben. [[Vipassana — Upekkha|Upekkha]] schafft die innere Stille. Mettā ist die Bewegung nach außen, die daraus entsteht. Kein Ende der Praxis — ihr natürliche Frucht.
+
+### → [[Denker/Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke]]
+
+Maios *Zärtlichkeit als moralische Haltung* ist die westlich-philosophische Entsprechung zu Mettā: Nicht sentimentale Empfindsamkeit, sondern die Fähigkeit, das Leid des anderen als real zu empfangen ohne auszuweichen. Goenka beschreibt den meditativen Weg dorthin; Schmitz und Maio formulieren die ethische Sollensaufforderung. Zwei Sprachsysteme — eine Bewegung.
+
+### → [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]]
+
+Das Bodhisattva-Ideal steht in direkter Spannung zu Goenkas Mettā: Bei Goenka ist Mettā Frucht persönlicher Reinigung — am Ende des Weges. Bei Adriaan ist der Bodhisattva-Eid Verpflichtung vor vollständiger Befreiung. Der Richtungspfeil ist umgekehrt.
+
+- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Metta als Grundlage für Adriaans These: Wenn du mitfühlend bist, wie kannst du NICHT engagiert sein?

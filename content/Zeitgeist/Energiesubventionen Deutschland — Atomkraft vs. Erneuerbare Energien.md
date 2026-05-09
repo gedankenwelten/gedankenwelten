@@ -171,13 +171,50 @@ Atomkraft hinterlässt eine **Kostenstruktur auf Generationen**:
 
 ## Verbindungen
 
-- [[Mario Buchinger — Lügen der Kernenergie (3▸6) Kernenergie ist wirtschaftlich]] — Buchinger führt dieselbe Subventionsasymmetrie aus und ergänzt sie mit konkreten Neubauprojekten (Flamanville, Olkiluoto, Hinkley Point C) sowie dem Argument, dass ein Teil der EEG-Umlage gar keine Erneuerbaren-Förderung war, sondern Entlastung energieintensiver Betriebe.
-- [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Überblicksnote zur Buchinger-Serie; der Subventionsvergleich ist dort angerissen, hier mit Quellenangaben vertieft.
-- [[Mario Buchinger — Lügen der Kernenergie (1▸6) Kernenergie ist sicher]] — Sicherheitskosten sind Teil der versteckten Atomsubvention: Höhere Sicherheitsanforderungen = höhere Baukosten, die nie marktlich gepreist wurden.
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck argumentiert, dass wirtschaftliche Fehlsteuerung gesellschaftliche Kosten produziert. Die Atomsubventionspolitik ist ein Paradebeispiel: Unsichtbare Kosten, vergesellschaftete Risiken, privatisierte Gewinne.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Die öffentliche Wahrnehmung, Atomstrom sei „günstig", ist ein Musterfall für Agenda-Setting: Das Narrativ wurde stabilisiert, indem Kosten systematisch unsichtbar gehalten wurden. Die EEG-Kritik war das sichtbare Gegennarrativ — emotional wirksam, strukturell unvollständig.
-- [[Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Energiepolitik, die trotz klarer ökonomischer Daten an Kernkraft-Narrativen festhält, fügt anderen (Steuerzahlern, zukünftigen Generationen) Kosten zu, ohne dem Handelnden zu nützen — außer ideologisch.
-- [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschnings 2-Billionen-Zahl für fossile Energie-Importe seit 1990 ergänzt den Subventionsvergleich: Nicht nur wurden Fossile subventioniert — es floss zusätzlich enormes Kapital ins Ausland.
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Reiche macht das Risiko der Erneuerbaren sichtbar und das Versagen der Netzbetreiber unsichtbar — Fortsetzung der Subventionsasymmetrie in Echtzeit-Politik.
-- [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] — Zeigt, was trotz struktureller Benachteiligung der Erneuerbaren bereits entsteht: Gemeinschaftsenergie, Biogas, Solarparks — die Lösungen sind da, die Politik fehlt
-- [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] — Felix macht den Subventions-Bias konkret: Fossile bekommen 1,4 Bio. $/Jahr weltweit — und trotzdem sind Erneuerbare + Speicher laut Fraunhofer günstiger; zeigt, wie groß die politische Verzerrung wirklich ist
+### → [[Mario Buchinger — Lügen der Kernenergie (3▸6) Kernenergie ist wirtschaftlich]]
+
+Buchinger führt dieselbe Subventionsasymmetrie aus und ergänzt sie mit konkreten Neubauprojekten (Flamanville, Olkiluoto, Hinkley Point C) sowie dem Argument, dass ein Teil der EEG-Umlage gar keine Erneuerbaren-Förderung war, sondern Entlastung energieintensiver Betriebe.
+
+### → [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Überblicksnote zur Buchinger-Serie; der Subventionsvergleich ist dort angerissen, hier mit Quellenangaben vertieft.
+
+### → [[Mario Buchinger — Lügen der Kernenergie (1▸6) Kernenergie ist sicher]]
+
+Sicherheitskosten sind Teil der versteckten Atomsubvention: Höhere Sicherheitsanforderungen = höhere Baukosten, die nie marktlich gepreist wurden.
+
+### → [[Heiner Flassbeck — Krise und Rechtsruck]]
+
+Flassbeck argumentiert, dass wirtschaftliche Fehlsteuerung gesellschaftliche Kosten produziert. Die Atomsubventionspolitik ist ein Paradebeispiel: Unsichtbare Kosten, vergesellschaftete Risiken, privatisierte Gewinne.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Die öffentliche Wahrnehmung, Atomstrom sei „günstig", ist ein Musterfall für Agenda-Setting: Das Narrativ wurde stabilisiert, indem Kosten systematisch unsichtbar gehalten wurden. Die EEG-Kritik war das sichtbare Gegennarrativ — emotional wirksam, strukturell unvollständig.
+
+### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+
+Energiepolitik, die trotz klarer ökonomischer Daten an Kernkraft-Narrativen festhält, fügt anderen (Steuerzahlern, zukünftigen Generationen) Kosten zu, ohne dem Handelnden zu nützen — außer ideologisch.
+
+### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Quaschnings 2-Billionen-Zahl für fossile Energie-Importe seit 1990 ergänzt den Subventionsvergleich: Nicht nur wurden Fossile subventioniert — es floss zusätzlich enormes Kapital ins Ausland.
+
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+Reiche macht das Risiko der Erneuerbaren sichtbar und das Versagen der Netzbetreiber unsichtbar — Fortsetzung der Subventionsasymmetrie in Echtzeit-Politik.
+
+### → [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]
+
+Zeigt, was trotz struktureller Benachteiligung der Erneuerbaren bereits entsteht: Gemeinschaftsenergie, Biogas, Solarparks — die Lösungen sind da, die Politik fehlt
+
+### → [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+
+Felix macht den Subventions-Bias konkret: Fossile bekommen 1,4 Bio. $/Jahr weltweit — und trotzdem sind Erneuerbare + Speicher laut Fraunhofer günstiger; zeigt, wie groß die politische Verzerrung wirklich ist
+
+### → [[Presseclub — Reiches Energiewende]]
+
+Presseclub debattiert Solarförderungs-Streichung — vor dem Hintergrund der hier dokumentierten historischen Subventionsasymmetrie
+
+### → [[Daniel - Weidel beim Schwurblertreff AWEF]]
+
+Weidel fordert beim AWEF Rückkehr zur Kernkraft — ohne die historischen Subventionskosten zu erwähnen

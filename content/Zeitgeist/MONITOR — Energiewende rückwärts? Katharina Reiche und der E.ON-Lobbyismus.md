@@ -147,19 +147,114 @@ Reiche hält trotzdem an den Plänen fest.
 
 ## Verbindungen
 
-- [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] — Die Subventionsasymmetrie ist hier strukturell dieselbe: Wer Netzinfrastruktur kontrolliert und wessen Kosten unsichtbar gehalten werden, bestimmt das Narrativ. Reiche macht das Risiko der Erneuerbaren sichtbar und das Versagen der Netzbetreiber unsichtbar — Fortsetzung eines bekannten Musters.
-- [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (3▸6) Kernenergie ist wirtschaftlich]] — Buchinger beschreibt, wie Energiekonzerne ihre Kosten externalisieren und staatliche Förderung als selbstverständlich behandeln. Reiches Gesetzentwurf folgt derselben Logik: Risiken der dezentralen Erzeuger erhöhen, Risiken der zentralen Netzbetreiber senken.
-- [[Zeitgeist/Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Schwerdtner analysiert das politische Versagen bei der Energiepreiskrise. Reiche führt dieses Versagen fort: Sie nennt Strompreissenkung als Ziel und verfolgt eine Politik, die Experten als preistreibend einordnen.
-- [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Kemfert argumentiert für Energieunabhängigkeit durch Erneuerbare. Reiches Pläne wirken in die entgegengesetzte Richtung: Ein verlangsamter Ausbau verlängert die fossile Abhängigkeit — gerade im Kontext der Energiekrise durch den Iran-Krieg.
-- [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Der Drehtür-Effekt (Konzern → Ministerium) ist ein Lehrstück dafür, wie politische Entscheidungen von Lobbyinteressen geformt werden, ohne dass das öffentlich problematisiert wird. Reiche löschte den LinkedIn-Post — die Spur wurde verwischt, aber Monitor fand sie.
-- [[Zeitgeist/Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschning zeigt, wie teure fossile Energie direkt auf Verbraucher durchschlägt. Reiches Energiewende-Bremse würde genau das verlängern: höhere Volatilität durch mehr Gasabhängigkeit im Strommix.
-- [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — Der Drehtür-Effekt Reiche/E.ON ist ein konkretes Fallbeispiel institutionellen Machtmissbrauchs, den Staiy strukturell analysiert.
-- [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Wenn die Energiewende durch Lobby-Gesetzgebung gebremst wird und Strompreise steigen, nährt das genau die Wirtschaftsfrustration, die Fricke als Rechtsruck-Beschleuniger identifiziert.
-- [[Denker/Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck und Reiche besetzen dasselbe Terrain von verschiedenen Seiten: wirtschaftspolitische Weichenstellungen, die unter dem Deckmantel von „Sachzwängen" politische Machtverhältnisse zementieren.
-- [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (2▸6) Kernenergie und Erneuerbare]] — Buchinger zeigt, dass Kernenergie und Erneuerbare strukturell inkompatibel sind; Reiches Gesetzentwurf könnte als politisches Werkzeug gelesen werden, genau diese Inkompatibilität durch Netzrestriktionen künstlich herzustellen.
-- [[Denker/Hannah Arendt — Denken ohne Geländer]] — Arendts Kern: wenn institutionelle Strukturen das Denken ersetzen, verschwindet politische Verantwortung. Reiche verkörpert das: Ministerin und Ex-Lobbyistin im selben Amt, ohne dass die Öffentlichkeit das als Skandal erkennt.
-- [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bits nach Deutschland]] — Das Prometheus Institut (FDP, Atlas-Netzwerk) und der E.ON-Lobbyismus sind strukturelle Geschwister: Think Tanks und NGOs als Scharniere zwischen Industrieinteressen und politischer Agenda — einmal Energie, einmal Kulturkampf
-- [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] — Der direkte Gegenpol: während Reiche die Energiewende politisch bremst, zeigt diese Doku, dass Bürgerinnen und Gemeinschaften sie längst vorantreiben — Großbardorf, Energiegarten Grensfeen, B Energy
-- [[Good News — Positive Nachrichten März 2026]] — Trotz Reiches politischem Gegenwind: 2025 überholen Wind & Solar erstmals fossile Energie in der EU — die Energiewende läuft, nicht wegen der Politik, sondern trotz ihr
-- [[taz Reingehen — Wer das Öl hat, hat das Sagen]] — Herrmann zeigt die geopolitischen Kosten von Reiches Energiewende-Bremse: Wer fossile Abhängigkeit verlängert, verlängert auch die Erpressbarkeit durch Iran und Russland — das ist nicht nur Klimapolitik, sondern Sicherheitspolitik
-- [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] — Felix zeigt konkret, was Reiche als Wirtschaftsministerin ignoriert: Batteriespeicher-Kapazität um Faktor 8 unterschätzt (2 GW statt 16,6 GW), während sie Gaskraftwerke fordert — Monitor deckt die Lobby-Vergangenheit auf, Felix den technischen Irrsinn
+### → [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+
+Die Subventionsasymmetrie ist hier strukturell dieselbe: Wer Netzinfrastruktur kontrolliert und wessen Kosten unsichtbar gehalten werden, bestimmt das Narrativ. Reiche macht das Risiko der Erneuerbaren sichtbar und das Versagen der Netzbetreiber unsichtbar — Fortsetzung eines bekannten Musters.
+
+### → [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (3▸6) Kernenergie ist wirtschaftlich]]
+
+Buchinger beschreibt, wie Energiekonzerne ihre Kosten externalisieren und staatliche Förderung als selbstverständlich behandeln. Reiches Gesetzentwurf folgt derselben Logik: Risiken der dezentralen Erzeuger erhöhen, Risiken der zentralen Netzbetreiber senken.
+
+### → [[Zeitgeist/Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
+
+Schwerdtner analysiert das politische Versagen bei der Energiepreiskrise. Reiche führt dieses Versagen fort: Sie nennt Strompreissenkung als Ziel und verfolgt eine Politik, die Experten als preistreibend einordnen.
+
+### → [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+
+Kemfert argumentiert für Energieunabhängigkeit durch Erneuerbare. Reiches Pläne wirken in die entgegengesetzte Richtung: Ein verlangsamter Ausbau verlängert die fossile Abhängigkeit — gerade im Kontext der Energiekrise durch den Iran-Krieg.
+
+### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Der Drehtür-Effekt (Konzern → Ministerium) ist ein Lehrstück dafür, wie politische Entscheidungen von Lobbyinteressen geformt werden, ohne dass das öffentlich problematisiert wird. Reiche löschte den LinkedIn-Post — die Spur wurde verwischt, aber Monitor fand sie.
+
+### → [[Zeitgeist/Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+
+Quaschning zeigt, wie teure fossile Energie direkt auf Verbraucher durchschlägt. Reiches Energiewende-Bremse würde genau das verlängern: höhere Volatilität durch mehr Gasabhängigkeit im Strommix.
+
+### → [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+
+Der Drehtür-Effekt Reiche/E.ON ist ein konkretes Fallbeispiel institutionellen Machtmissbrauchs, den Staiy strukturell analysiert.
+
+### → [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+
+Wenn die Energiewende durch Lobby-Gesetzgebung gebremst wird und Strompreise steigen, nährt das genau die Wirtschaftsfrustration, die Fricke als Rechtsruck-Beschleuniger identifiziert.
+
+### → [[Denker/Heiner Flassbeck — Krise und Rechtsruck]]
+
+Flassbeck und Reiche besetzen dasselbe Terrain von verschiedenen Seiten: wirtschaftspolitische Weichenstellungen, die unter dem Deckmantel von „Sachzwängen" politische Machtverhältnisse zementieren.
+
+### → [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (2▸6) Kernenergie und Erneuerbare]]
+
+Buchinger zeigt, dass Kernenergie und Erneuerbare strukturell inkompatibel sind; Reiches Gesetzentwurf könnte als politisches Werkzeug gelesen werden, genau diese Inkompatibilität durch Netzrestriktionen künstlich herzustellen.
+
+### → [[Denker/Hannah Arendt — Denken ohne Geländer]]
+
+Arendts Kern: wenn institutionelle Strukturen das Denken ersetzen, verschwindet politische Verantwortung. Reiche verkörpert das: Ministerin und Ex-Lobbyistin im selben Amt, ohne dass die Öffentlichkeit das als Skandal erkennt.
+
+### → [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bits nach Deutschland]]
+
+Das Prometheus Institut (FDP, Atlas-Netzwerk) und der E.ON-Lobbyismus sind strukturelle Geschwister: Think Tanks und NGOs als Scharniere zwischen Industrieinteressen und politischer Agenda — einmal Energie, einmal Kulturkampf
+
+### → [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]
+
+Der direkte Gegenpol: während Reiche die Energiewende politisch bremst, zeigt diese Doku, dass Bürgerinnen und Gemeinschaften sie längst vorantreiben — Großbardorf, Energiegarten Grensfeen, B Energy
+
+### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+
+GCA #28 zeigt Reiche in der Krise: kein Tempolimit, Pendlerpauschale statt Strukturreform, Outsourcing ans Ministerium — die Lobbyismus-Prägung aus dem MONITOR-Bericht wird hier in politische Entscheidungen übersetzt
+
+### → [[Good News — Positive Nachrichten März 2026]]
+
+Trotz Reiches politischem Gegenwind: 2025 überholen Wind & Solar erstmals fossile Energie in der EU — die Energiewende läuft, nicht wegen der Politik, sondern trotz ihr
+
+### → [[Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
+
+Strukturelle Parallele: Factor 2 Energy muss sein erstes Kraftwerk im Ausland bauen, weil CCS in Deutschland lange verboten war — derselbe regulatorische Rückstand, den MONITOR bei der Energiewende insgesamt diagnostiziert
+
+### → [[taz Reingehen — Wer das Öl hat, hat das Sagen]]
+
+Herrmann zeigt die geopolitischen Kosten von Reiches Energiewende-Bremse: Wer fossile Abhängigkeit verlängert, verlängert auch die Erpressbarkeit durch Iran und Russland — das ist nicht nur Klimapolitik, sondern Sicherheitspolitik
+
+### → [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+
+Felix zeigt konkret, was Reiche als Wirtschaftsministerin ignoriert: Batteriespeicher-Kapazität um Faktor 8 unterschätzt (2 GW statt 16,6 GW), während sie Gaskraftwerke fordert — Monitor deckt die Lobby-Vergangenheit auf, Felix den technischen Irrsinn
+
+### → [[ARTE — Forschung Fake und faule Tricks]]
+
+Die Tabak-Blueprint-Strategie aus der ARTE-Doku ist das Playbook hinter Energielobbyismus: Gegenexpertise kaufen, Zweifel säen, Regulierung verzögern — Reiche ist ein konkretes deutsches Fallbeispiel für industrielle Agnotologie
+
+### → [[Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]]
+
+Staiy berichtet am 12.04.2026 über den CDU-Sozialflügel, der Reiches Entlassung fordert — Reaktion auf denselben Lobbyismus-Hintergrund, den Monitor dokumentiert
+
+### → [[Good News — Gute Nachrichten April 2026]]
+
+Das Nordsee-Netz (100 GW, 10 Länder, 11 Mrd. $) zeigt das konzeptuelle Spannungsfeld: Auf EU-Ebene beschleunigt sich die Energiewende strukturell, auf nationaler Ebene sabotiert Lobbypolitik (Reiche) exakt diese Infrastruktur — Fortschritt und Regression laufen parallel.
+
+### → [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]]
+
+Spiegel-Enthüllung: Reiches Ministerium forderte bei EnBW/RWE aktiv Argumente gegen Batteriespeicher an
+
+### → [[MONITOR — Minijobs als Armutsfalle]]
+
+Strukturelles CDU-Muster: wirtschaftsfreundliche Positionen gegen wissenschaftlichen Konsens verteidigen (IAB/ifo/OECD bei Minijobs, Klimaforschung bei Energie) — identische Lobbyismus-Mechanik
+
+### → [[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]]
+
+BPs „Back to Black"-Strategie als Beispiel für fossilen Lobbyismus, der Transformation blockiert.
+
+### → [[Follow This — Die grüne Horzel in Big Oil]]
+
+Follow This als Gegenspieler zum fossilen Lobbyismus — Aktionärsdruck von außen vs. Drehtür von innen.
+
+### → [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
+
+Bürgerenergie als das dezentrale Modell, das Reiches Konzern-Lobbyismus strukturell blockiert.
+
+### → [[Akkudoktor — Lanz und die Energiewende]]
+
+Mediale Verlängerung der Lobby-Pipeline: Was MONITOR als Politik-Lobbyismus dokumentiert, normalisiert Lanz im Talkshow-Format
+
+### → [[Michael Sterner — Reiche gegen Marktwirtschaft]]
+
+Sterner konkretisiert die MONITOR-Kritik in Gesetzesform: Das StromVKG schließt Batterien durch die 10+1-Stunden-Regel und Resilienz-Klausel gezielt aus — die legislative Umsetzung des Drehtür-Lobbyismus.

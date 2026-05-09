@@ -236,6 +236,8 @@ Die Bhagavad Gita taucht hier als "rechte Handlung" auf: handeln unabhängig von
 
 Zimpels IQ-Kritik: Tests messen möglicherweise soziale Anpassung, nicht Intelligenz. Dieser Vortrag: Was als "ökonomische Intelligenz" gilt (Gier, Geiz, strategischer Egoismus), ist sozial erlerntes Verhalten — nicht Ausdruck von Stärke. Beide dekonstruieren die Bewertungsmaßstäbe des Systems.
 
+- [[Walther Ziegler — Smith in 60 Minuten]] — Smith als Stammvater des homo oeconomicus, dessen Egoismus-These hier empirisch widerlegt wird
+
 ---
 
 ## Weiterführend

@@ -257,3 +257,24 @@ Carbon erwähnt am Ende seine eigene KI-Company (PSYAIhands.com) für neurodiver
 - Viktor Frankl: *Man's Search for Meaning* (1946) — Sinn als Überlebensfaktor; Carbon verweist implizit auf diese Erkenntnis im KZ-Kontext
 - Daniel Kahneman: *Thinking, Fast and Slow* (2011) — System-1-Denken als Quelle von Wahrnehmungsverzerrungen; ergänzt Carbon um die ökonomische Perspektive
 - Carbons Forschungsgruppe EPEK, Universität Bamberg — ergonomie-psychologische-aesthetik.de
+- [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] — Deepfakes nutzen Carbons kognitive Mechanismen gezielt: wenn Mimik täuschend echt wirkt und das Gehirn nicht zwischen Original und Fälschung unterscheiden kann, kapituliert das Wahrnehmungssystem
+
+### → [[Albert Moukheiber — Mein Hirn und die anderen]]
+
+Carbons Erkenntnis, dass Wahrnehmung sozial geformt wird, findet in Moukheibers Teil 2 ihre direkte klinische Fortsetzung: Stereotypenbedrohung zeigt, dass das bloße Wissen um eine Gruppenerwartung die tatsächlich messbare kognitive Leistung verändert — Wahrnehmung und Kognition sind immer schon sozial. Carbons Top-down-Verarbeitung ist der mechanistische Grund, warum soziale Erwartungen so tief in die Wahrnehmung eingreifen können.
+
+### → [[ARTE — Neurodivers Anders denken besser arbeiten]]
+
+Die ARTE-Reportage zeigt Carbons These in der Praxis: Synästhesie (Zimpel sieht Zahlen in Farben) und Bilddenken bei Autismus sind keine "Fehler", sondern alternative Top-down-Modelle — gleichwertige Konstruktionen derselben Realität. Carbons Befund, dass es keine "normale" Wahrnehmung gibt (nur dominante), ist das neurowissenschaftliche Fundament der Neurodiversitätsbewegung.
+
+### → [[Albert Moukheiber — Mein Hirn und ich]]
+
+Thematischer Zwilling: Beide beschreiben Wahrnehmung als aktive Konstruktion des Gehirns — Carbon mit dem Befund der 10:1-Rückwärtsverdrahtung (das Gehirn schickt mehr Signale zum Sehorgan zurück als es empfängt), Moukheiber mit optischen Täuschungen und kognitiven Verzerrungen. Carbon gibt den theoretischen Rahmen (Top-down-Verarbeitung), Moukheiber bringt ihn für ein breites Publikum zugänglich durch Magie, Experimente und Alltagsbeispiele. Wo Carbon die kognitive Mechanik beschreibt, zeigt Moukheiber ihre evolutionären Wurzeln (Kahneman/Tversky, Überlebensverzerrung, Optimismusverzerrung).
+
+### → [[Markus Gabriel — Was ist Realitaet]]
+
+Direkter philosophischer Gegenspieler: Carbon untersucht die konstruktivistische Seite der Wahrnehmung (das Gehirn konstruiert top-down, 10:1-Rückwärtsverdrahtung). Gabriel verwirft genau dieses „Welt des Zuschauers"-Modell als eines von drei überholten Realitätskonzepten. Sein Neuer Realismus argumentiert: Perspektiven sind objektiv real, keine Gehirnkonstruktionen — die Wirklichkeit strahlt Perspektiven ab. Carbons Befunde beschreiben WIE Wahrnehmung konstruiert; Gabriel fragt, ob die Konstruktion selbst bereits Realität ist.
+
+### → [[Rebecca Boehme — So trickst du dein Gehirn aus]]
+
+Böhme als empirische Gegenposition: Wo Carbon betont, dass wir die Welt nie sehen „wie sie ist" (10:1-Rückwärtsverdrahtung als Beweis), distanziert sich Böhme explizit von der Halluzinations-These. Ihre Argumentation: Evolution hat unsere Sinne *in Interaktion* mit der realen Welt optimiert — Wahrnehmung ist Konstruktion, aber eine, die real verankert ist. Produktive Spannung: Carbon zeigt das Ausmaß der Konstruktion, Böhme zeigt deren Realitätsanbindung.

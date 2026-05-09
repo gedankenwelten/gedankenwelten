@@ -33,6 +33,9 @@ Buchinger widerlegt die Behauptung auf drei Ebenen: Stromgestehungskosten, konkr
 
 ### 1. Stromgestehungskosten — Kernenergie ist am teuersten
 
+[▶ 0:48](https://www.youtube.com/watch?v=Kr9L65ZBZes&t=48)
+
+
 Die **Stromgestehungskosten** (Installations- und Betriebskosten, umgerechnet auf die erzeugte Energiemenge) zeigen ein eindeutiges Bild. Eine aktuelle Studie des **Fraunhofer Instituts** beziffert die Gestehungskosten für Kernenergie auf:
 
 - Untergrenze: **~15 Cent/kWh**
@@ -45,6 +48,9 @@ Ein konkretes Beispiel für unterschätzte Entsorgungskosten: Der Rückbau des *
 ---
 
 ### 2. Neubauprojekte — Jedes AKW ist ein Milliardendesaster
+
+[▶ 2:20](https://www.youtube.com/watch?v=Kr9L65ZBZes&t=140)
+
 
 Buchinger listet die aktuellen Baufiaskos:
 
@@ -66,6 +72,9 @@ Das Argument, die hohen Kosten lägen an unnötiger Bürokratie oder Überreguli
 ---
 
 ### 3. Subventionen — Kernenergie schlägt alles
+
+[▶ 7:37](https://www.youtube.com/watch?v=Kr9L65ZBZes&t=457)
+
 
 Das Argument, Erneuerbare seien „massiv subventioniert" und Kernenergie komme ohne aus, ist laut Buchinger faktisch umgekehrt:
 
@@ -107,11 +116,34 @@ Das Argument, Erneuerbare seien „massiv subventioniert" und Kernenergie komme 
 
 ## Verbindungen
 
-- [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Die Hauptnote zur Serie fasst alle drei Falschaussagen zusammen. Die Wirtschaftlichkeitsfrage wird dort auf Basis derselben Fraunhofer-Daten angerissen; diese Note vertieft sie erheblich mit den konkreten Projektbeispielen und Subventionszahlen.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Die anhaltende öffentliche Wahrnehmung, Kernenergie sei wirtschaftlich, obwohl jedes Neubauprojekt das Gegenteil demonstriert, ist ein Paradefall für das von Mausfeld beschriebene Agenda-Setting: Narrative überdauern Fakten, wenn die institutionellen Strukturen sie stützen.
-- [[Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Buchangers wiederkehrende Frustration über das Ignorieren klarer ökonomischer Daten durch AKW-Befürworter entspricht Cipollas Diagnose: Handeln, das den Anderen (Steuerzahlern) schadet, ohne dem Handelnden zu nützen — außer ideologisch.
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — Fehlinvestitionen in Kernenergie binden staatliche Ressourcen, die für den Ausbau Erneuerbarer fehlen. Flassbeck argumentiert, dass wirtschaftliche Fehlsteuerung in der Energiepolitik direkte gesellschaftliche Kosten erzeugt — Buchinger liefert die konkreten Zahlen dazu.
-- [[Mario Buchinger — Lügen der Kernenergie (Kommentarspalte)]] — Antwort-Video zur Serie: Mehrere Kommentare greifen direkt die Wirtschaftlichkeitsfrage auf (Gösgen-Gewinn, „3 Cent nach Abschreibung", Fraunhofer-Systemkosten, Netzentgelt-Debatte), die hier in Folge 3 vertieft behandelt werden.
-- [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] — Vertieft den Subventionsvergleich aus dieser Note mit historischen Gesamtzahlen (FÖS 2020, Bundestag WD 5/2021): Atom 287 Mrd. € real / 4,3 Ct/kWh vs. EEG 275 Mrd. € / 2,0 Ct/kWh — und analysiert, warum die Atomsubvention auf Stromrechnungen nie sichtbar war.
-- [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Kemfert ergänzt Buchangers Kostenanalyse mit aktuellen Zahlen: 80–90 Mrd. fossile Subventionen in Deutschland; Erneuerbare sind schon heute billiger als neue Atomkraft
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Buchinger beschreibt, wie Energiekonzerne ihre Kosten externalisieren; Reiche setzt das als Ministerin fort — Risiken der dezentralen Erzeuger erhöhen, Risiken der zentralen Netzbetreiber senken.
+### → [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Die Hauptnote zur Serie fasst alle drei Falschaussagen zusammen. Die Wirtschaftlichkeitsfrage wird dort auf Basis derselben Fraunhofer-Daten angerissen; diese Note vertieft sie erheblich mit den konkreten Projektbeispielen und Subventionszahlen.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Die anhaltende öffentliche Wahrnehmung, Kernenergie sei wirtschaftlich, obwohl jedes Neubauprojekt das Gegenteil demonstriert, ist ein Paradefall für das von Mausfeld beschriebene Agenda-Setting: Narrative überdauern Fakten, wenn die institutionellen Strukturen sie stützen.
+
+### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+
+Buchangers wiederkehrende Frustration über das Ignorieren klarer ökonomischer Daten durch AKW-Befürworter entspricht Cipollas Diagnose: Handeln, das den Anderen (Steuerzahlern) schadet, ohne dem Handelnden zu nützen — außer ideologisch.
+
+### → [[Heiner Flassbeck — Krise und Rechtsruck]]
+
+Fehlinvestitionen in Kernenergie binden staatliche Ressourcen, die für den Ausbau Erneuerbarer fehlen. Flassbeck argumentiert, dass wirtschaftliche Fehlsteuerung in der Energiepolitik direkte gesellschaftliche Kosten erzeugt — Buchinger liefert die konkreten Zahlen dazu.
+
+### → [[Mario Buchinger — Lügen der Kernenergie (Kommentarspalte)]]
+
+Antwort-Video zur Serie: Mehrere Kommentare greifen direkt die Wirtschaftlichkeitsfrage auf (Gösgen-Gewinn, „3 Cent nach Abschreibung", Fraunhofer-Systemkosten, Netzentgelt-Debatte), die hier in Folge 3 vertieft behandelt werden.
+
+### → [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+
+Vertieft den Subventionsvergleich aus dieser Note mit historischen Gesamtzahlen (FÖS 2020, Bundestag WD 5/2021): Atom 287 Mrd. € real / 4,3 Ct/kWh vs. EEG 275 Mrd. € / 2,0 Ct/kWh — und analysiert, warum die Atomsubvention auf Stromrechnungen nie sichtbar war.
+
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+
+Kemfert ergänzt Buchangers Kostenanalyse mit aktuellen Zahlen: 80–90 Mrd. fossile Subventionen in Deutschland; Erneuerbare sind schon heute billiger als neue Atomkraft
+
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+Buchinger beschreibt, wie Energiekonzerne ihre Kosten externalisieren; Reiche setzt das als Ministerin fort — Risiken der dezentralen Erzeuger erhöhen, Risiken der zentralen Netzbetreiber senken.

@@ -21,7 +21,6 @@ aliases:
 # Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende
 
 Quelle: [Warum ignoriert Frau Reiche diese Lösung für die Energiewende?](https://www.youtube.com/watch?v=VlLWLXub7WU)
-Transkript: `Gedankenwelten/Transkripte/Felix_Batteriespeicher_Transkript.txt`
 
 > [!info] Wer spricht?
 > **Felix Goldbach** (Hannover) — Betriebswirt und ausgebildeter Bankkaufmann, Gründer des YouTube-Kanals *"Verbrennen ist vorbei"* / *Money for Future* (@MoneyForFuture20, >800 Videos). Kein Wissenschaftler, sondern Energie-Kommunikator und bezahlter Speaker mit Branchennetzwerk (u.a. Kooperation mit enerix-Solarfranchise). Hintergrundarbeit: Bachelorarbeit über Kostendegression in der Photovoltaik, davor im Vertrieb von Batteriespeichern tätig.
@@ -117,10 +116,56 @@ Lieblingskommentar auf TikTok: *„Nachts scheint die Sonne nicht."*
 
 ## Verbindungen
 
-- [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] — Beide Notes behandeln erneuerbare Energien mit Fokus auf konkrete technologische Lösungen und deren wirtschaftliche Machbarkeit — Felix liefert den Investorenblick, ARTE die Bürgerperspektive
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Direkte inhaltliche Brücke: Reiche tritt in beiden Notes auf — Monitor deckt die Lobby-Vergangenheit auf, Felix den technischen Irrsinn (Speicherkapazität Faktor 8 unterschätzt, trotzdem Gaskraftwerke gefordert)
-- [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Beide analysieren die volkswirtschaftlichen Kosten fossiler Importe und argumentieren für heimische erneuerbare Alternativen als Ausweg aus energiepolitischer Abhängigkeit
-- [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] — Beide thematisieren die wirtschaftliche Konkurrenzfähigkeit Erneuerbarer gegenüber konventionellen Quellen und die politische Verzerrung durch Subventionen und Lobbying
-- [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Beide dekonstruieren verbreitete Mythen über Erneuerbaren-Unzulänglichkeiten (Dunkelflaute, Speicherbarkeit) und entlarven politisch motivierte Desinformation als Energiewende-Hemmnis
-- [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Beide kritisieren energiepolitische Fehlentscheidungen auf Bundesebene, die wirtschaftliche Belastungen erzeugen, obwohl günstigere heimische Alternativen verfügbar wären
-- [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Thematische Brücke über Wertschöpfung: Kehnel argumentiert für gemeinschaftlich verankerte Wirtschaftsformen, Felix für Speicher-Investitionen als doppelte heimische Wertschöpfung statt fossiler Kapitalabflüsse
+### → [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]
+
+Beide Notes behandeln erneuerbare Energien mit Fokus auf konkrete technologische Lösungen und deren wirtschaftliche Machbarkeit — Felix liefert den Investorenblick, ARTE die Bürgerperspektive
+
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+Direkte inhaltliche Brücke: Reiche tritt in beiden Notes auf — Monitor deckt die Lobby-Vergangenheit auf, Felix den technischen Irrsinn (Speicherkapazität Faktor 8 unterschätzt, trotzdem Gaskraftwerke gefordert)
+
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+
+Beide analysieren die volkswirtschaftlichen Kosten fossiler Importe und argumentieren für heimische erneuerbare Alternativen als Ausweg aus energiepolitischer Abhängigkeit
+
+### → [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+
+Beide thematisieren die wirtschaftliche Konkurrenzfähigkeit Erneuerbarer gegenüber konventionellen Quellen und die politische Verzerrung durch Subventionen und Lobbying
+
+### → [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Beide dekonstruieren verbreitete Mythen über Erneuerbaren-Unzulänglichkeiten (Dunkelflaute, Speicherbarkeit) und entlarven politisch motivierte Desinformation als Energiewende-Hemmnis
+
+### → [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
+
+Beide kritisieren energiepolitische Fehlentscheidungen auf Bundesebene, die wirtschaftliche Belastungen erzeugen, obwohl günstigere heimische Alternativen verfügbar wären
+
+### → [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
+
+Thematische Brücke über Wertschöpfung: Kehnel argumentiert für gemeinschaftlich verankerte Wirtschaftsformen, Felix für Speicher-Investitionen als doppelte heimische Wertschöpfung statt fossiler Kapitalabflüsse
+
+### → [[Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
+
+Konzeptueller Gegenentwurf: Felix plädiert für Batteriespeicher als Lösung der Verfügbarkeitslücke, CO₂-Geothermie löst dasselbe Problem durch Grundlastfähigkeit — zwei komplementäre Wege zur 24/7-Versorgung ohne Fossile
+
+### → [[Good News — Gute Nachrichten April 2026]]
+
+Natrium-Ionen-Batterien als empirisches Gegenstück: China bringt sie in Serie (400 km Reichweite, kein Lithium-Bottleneck) — Goldbachs These über ignorierte Speichertechnologien bekommt hier das konkrete Fallbeispiel geliefert.
+
+### → [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]]
+
+Staiy berichtet über Spiegel-Enthüllung: Wirtschaftsministerium ließ Gaslobby Kriterien definieren, die Batteriespeicher benachteiligen
+
+### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+
+EV-Adoption als Speicherergänzung: Wenn 96 % der US-Fahrer beim Elektroauto bleiben, wachsen die rollenden Batteriespeicher exponentiell — Bidirectional Charging (V2G) wird damit zur unausweichlichen Konsequenz von Goldbachs These.
+
+### → [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
+
+Zöcklers Quartiersversorgung (Solar + Speicher + Ladesäulen) als konkretes Beispiel für Goldbachs dezentrales Flexibilitätssystem.
+
+### → [[Michael Sterner — Reiche gegen Marktwirtschaft]]
+
+Sterner liefert die politischen Hürden (StromVKG, drei Paragraphen gegen Speicher) und zwei konkrete Technologie-Alternativen (CO2-Batterie, Eisen-Luft), die Goldbachs Marktzahlen ergänzen: Die Technologie ist nicht nur marktreif — sie wird aktiv ausgesperrt.
+
+

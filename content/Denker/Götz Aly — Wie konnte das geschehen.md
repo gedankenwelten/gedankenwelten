@@ -215,6 +215,9 @@ Die Niederlage, von der sich die meisten Deutschen nicht befreit *fühlten* (sie
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
+Beide Notes fragen nach den Ermöglichungsbedingungen von Systemverbrechen durch "normale" Akteure. Aly historisch-kollektiv für den Holocaust; diese Note strukturell-biographisch für gegenwärtige Machtfiguren. Die methodologische Grundfrage — Erklären ohne Entschuldigen — steht in beiden im Zentrum.
+
 ### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
 
 Bonhoeffer schrieb seine Theorie der Dummheit genau in dieser Zeit — 1943, in Haft. Er sah dasselbe, was Aly historisch rekonstruiert: Normale Menschen, die ihr Urteil abgeben. Aber Bonhoeffer fragt *warum* es passiert (Propaganda, Angst, Gruppenlogik). Aly zeigt *wie* es funktionierte: durch materielle Einbeziehung, durch die Logik des gemeinsamen Kerbholzes, durch Angst vor den Konsequenzen des eigenen Handelns.
@@ -267,6 +270,12 @@ Das einzige wirksame Gegenmittel, das Aly zeigt, ist erschreckend einfach: **Kü
 
 ---
 
+### → [[Zeitgeist/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Der Teufelspakt zwischen Volk und Führung (Jung & Naiv)]]
+
+Dasselbe Buch, andere Form: fast fünf Stunden Interview bei Jung & Naiv (Folge 781), in dem Aly durch Tilos Nachhaken Nuancen entfaltet, die im Vortrag fehlen — das Chemie-Modell, die KPD-Kritik, die Geschichte seines Vaters am Warschauer Ghetto, die Warnung vor westlicher Überheblichkeit.
+
+---
+
 ## Weiterführend
 
 - Götz Aly: *Wie konnte das geschehen? Deutschland 1933 bis 1945* (2025) — das Opus Magnum, Primärquelle
@@ -277,3 +286,7 @@ Das einzige wirksame Gegenmittel, das Aly zeigt, ist erschreckend einfach: **Kü
 - [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Frickes Brüning-Parallele (Austerität → NSDAP-Aufstieg) ist dieselbe historische Verbindung, die Aly im Detail analysiert. Fricke aktualisiert sie für die Gegenwart: Lindner → AfD
 - [[Zeitgeist/Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]] — Alys historische Warnung vor Antisemitismus, der sich als Systemkritik tarnt, ist der Prüfstein für Blumenthals Epstein-Baal-Komplex: reale Kritik an Lobbyeinfluss kippt in antisemitisch codierte Symbolik.
 - [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — Kendi zieht die direkte Linie von Alys historischer NS-Analyse in die Gegenwart: Great Replacement Theory als Wiederkehr derselben Ideologie mit neuen Opfern.
+
+- [[Erich Fromm — Psychoanalyse des Faschismus]] — Aly erklärt das materielle Interesse des Kleinbürgertums am NS-Regime; Fromm das psychische Bedürfnis dahinter. Beide zusammen machen das "Warum" vollständig: Klasse + Charakter
+- [[Steffen Mau — Spaltung der Gesellschaft]] — Mau zeigt eine modernisierte Variante von Alys NS-Mechanismus: statt materieller Teilhabe erkauft die Meritokratie-Ideologie Loyalität durch Selbstbindung — wer an Leistungsgerechtigkeit glaubt, hat keinen Grund zur Revolte
+- [[Liya Yu — Der neuropolitische Gesellschaftsvertrag]] — Yu liefert das neurowissenschaftliche Substrat zur historischen Mittäterschaft: Dehumanisierung als kognitive Fähigkeit, die unter bestimmten Bedingungen systematisch aktiviert wird

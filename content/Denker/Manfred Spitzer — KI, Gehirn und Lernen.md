@@ -211,6 +211,10 @@ Mausfeld: Die Tabakindustrie als Modell für industrielle Meinungsmanipulation. 
 
 Beide betonen: Schule und Bildungssystem sind nicht für alle Gehirne gebaut — und produzieren systematisch Potenzialverlust. Zimpel über Bild-Denker, Spitzer über Kinder ohne Vorstellungskraft weil nie vorgelesen.
 
+### → [[Hartwin Maas — Bildung NEU DENKEN]]
+
+Maas ist der pädagogische Bruder Spitzers: Spitzer zeigt neurobiologisch, was Cognitive Offloading mit dem Gehirn macht; Maas beschreibt dieselbe Dynamik als Bildungspolitik und Generationenforschung. Wo Spitzer die Evidenz liefert, liefert Maas die gesellschaftliche Einbettung.
+
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Rosas Mediopassiv: Man öffnet sich, das Erleben kommt von woanders. Spitzers Intuition/Kreativität: Man füllt das Gehirn wochenlang — und morgens beim Jogging kommt plötzlich der Einfall. Beides beschreibt denselben Prozess: man kann Einsicht nicht befehlen, nur vorbereiten.
@@ -229,3 +233,17 @@ Feldbestätigung für Spitzers These: Berliner Schüler-Experiment (3 Wochen ohn
 - Demis Hassabis / DeepMind: *AlphaGo* (2017), *AlphaFold* (2020/2022)
 - John von Neumann: *Die Rechenmaschine und das Gehirn* — der Klassiker zur Differenz
 - *Lancet Commission on Dementia Prevention* (2020)
+
+---
+
+## Verbindung zu [[Albert Moukheiber — Mein Hirn und die anderen]]
+
+Moukheibers Teil 2 ergänzt Spitzers KI-Skepsis um die soziale Dimension: Laurence Devillers zeigt, dass Kinder Robotern mehr vertrauen als Menschen — und dass KI soziale Funktionen übernimmt, ohne die kognitiven Konsequenzen zu tragen. Spitzer befürchtet kognitive Atrophie durch Auslagerung; Moukheiber zeigt, dass dabei auch Vertrauensinfrastruktur und soziale Kognition beschädigt werden.
+
+## Verbindung zu [[Albert Moukheiber — Mein Hirn und ich]]
+
+Beide arbeiten an der Schnittstelle von Neurowissenschaft und gesellschaftlicher Relevanz — und beide popularisieren Hirnforschung für ein breites Publikum. Spitzer legt den Fokus auf Neuroplastizität, Lernverlust durch Bildschirme und KI; Moukheiber auf kognitive Verzerrungen, Wahrnehmungskonstruktion und Automatismen. Ein konkretes Überschneidungsfeld: Spitzers Trampelpfad-Metapher für synaptische Bahnen ist strukturidentisch mit Moukheibers umgekehrtem Fahrrad als Demonstration eingefahrener Automatismen — beide zeigen, dass einmal gelernte neuronale Muster sich gegen Veränderung sperren. Moukheiber ergänzt Spitzers KI-Vergleich (Student braucht 1000x weniger Energie als ChatGPT) mit der neurobiologischen Erklärung: kognitive Verzerrungen sind genau diese ressourcensparenden Abkürzungen.
+
+## Verbindung zu [[Gerald Huether — Lebendigkeit und das Ende der Hierarchien]]
+
+Beide sind Hirnforscher mit pädagogischem Anspruch — und beide kritisieren Schulroutine, KI-getriebene Außensteuerung und das Funktionieren-ohne-Lebendigkeit. Aber die Methode unterscheidet sich grundlegend: Spitzer arbeitet studien- und faktengetrieben (Smartphone-Nutzung → messbarer kognitiver Abbau), Hüther phänomenologisch-existenziell (das Hirn als Selbstorganisationssystem, das Lebendigkeit braucht). Wo Spitzer Smartphones verbieten würde, würde Hüther die Jugendlichen *einladen*, selbst die Konsequenzen zu spüren — Verbote wären für ihn schon wieder Objektivierung. Beide Diagnosen treffen sich, die pädagogischen Konsequenzen gehen auseinander.

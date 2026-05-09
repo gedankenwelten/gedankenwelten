@@ -25,6 +25,9 @@ aliases:
 Quelle: Jung & Naiv, Folge 811 (ca. März 2026, 2:39h)
 Gesprächspartner: Tilo Jung
 
+> [!tip] Kanal unterstützen
+> *Jung & Naiv* ist spendenfinanziert und werbefrei — einer der wichtigsten deutschsprachigen Interview-Podcasts. Unterstützenswert: [jungundnaiv.de/mitglied-werden](https://www.jungundnaiv.de/mitglied-werden/)
+
 Begleitnote: [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
 
 > [!info] Wer spricht?
@@ -250,3 +253,16 @@ Die letzte Frage des Interviews: Marx' 11. Feuerbach-These — *die Philosophen 
 - [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Iran-Forscherin bei Jung & Naiv (Folge 815); Redeckers Phantombesitz anwendbar auf IRGC-Regime und dessen Legitimierungsnarrative
 - [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Die Verteidigung des "billigen Sprits" als Phantombesitz: Das Festhalten an fossiler Normalität, die strukturell längst nicht mehr tragbar ist — Redeckers Begriff trifft genau die Benzinpreisdebatte.
 - [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — Dobrindt/CDU stoppen Antiextremismus-Förderung: Phantombesitz-Logik (Bedrohung der eigenen Dominanz durch Zivilgesellschaft) treibt die Willkürentscheidung
+- [[scobel — Foucault Aufklaerung als Haltung]] — Redeckers "Phantombesitz" und Foucaults Paradox des Befreiers greifen ineinander: Wer Freiheit als Besitz begreift und gegen Verlust verteidigt, reproduziert genau die Autoritätsstruktur, aus der er sich befreien wollte.
+- [[Gilda con Arne — Rechte Milliardaere kaufen Medien]] — Redeckers Phantombesitz: Milliardäre beanspruchen Besitz über den öffentlichen Diskurs, der ein Gemeingut ist — Medien als konkretestes Beispiel dieses Anspruchs
+- [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Kubitschek und Lehnert liefern die Innensicht der neurechten Ideologie, die Redecker von außen als Neofaschismus analysiert
+- [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — NZ-Salon verbindet Phantombesitz (Reinhardt/Milliardäre) mit normalisiertem Tabubruch (Zupančič/Trump)
+- [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]] — Dagmar Herzogs „sexy Rassismus" und AfD-Körperpolitik als konkretes Beispiel für Redeckers Phantombesitz-Theorie
+- [[Clara Mattei — Geschichte der Austeritaetspolitik]] — Mattei belegt die historische Konvergenz von Liberalismus und Faschismus in der Wirtschaftspolitik
+
+- [[Erich Fromm — Psychoanalyse des Faschismus]] — Fromms Kleinbürgerthese (1975) ist der historische Vorläufer von Redeckers Phantombesitz: ökonomische Ohnmacht → Sündenbocklogik. Redecker modernisiert Fromm, verschiebt den Fokus von Klassenstruktur zu Identitätsverlust
+- [[Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Redeckers Phantombesitz ist die subjektive Kehrseite neoliberaler Gouvernementalität: Wenn das unternehmerische Selbst scheitert, kippt die versprochene Freiheit in faschistisches Ressentiment
+- [[Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt]] — Redecker analysiert mit Hannah Arendt, wie Freiheit durch Technofaschismus bedroht wird — die konkrete Gegenwart zu Zieglers philosophischer Freiheitsgeschichte
+- [[Steffen Mau — Spaltung der Gesellschaft]] — Maus Meritokratie-Illusion (Arbeiterklasse verteidigt ein System, das gegen ihre Interessen arbeitet) ergänzt Redeckers „Phantombesitz" empirisch: Verteidigung von Privilegien, die man nie hatte
+- [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Maus Gleichbehandlungs-Trigger (Empörung über vermeintliche Privilegierung) ist die empirische Messung von Redeckers „Phantombesitzverteidigung"
+- [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Ebenfalls Jung & Naiv: Steinke beschreibt die rechtliche Dimension der von Redecker analysierten autoritären Tendenzen — wie der Staat über Paragraphen, Verfassungsschutz und selektive Strafverfolgung Grundrechte aushöhlt

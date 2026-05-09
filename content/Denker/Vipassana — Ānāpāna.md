@@ -85,3 +85,6 @@ Der Haben-Modus will den Atem kontrollieren, optimieren, verlängern — Atemüb
 ### → [[S.N. Goenka — Vipassana]]
 
 Ānāpāna ist der Eingang. Ohne diese drei Tage kein Vipassana. Ohne Vipassana keine direkte Erfahrung von [[Anicca — Vergänglichkeit|Anicca]].
+
+- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Ānāpāna als Fundament von Adriaans Stufenmodell der Vipassana-Praxis

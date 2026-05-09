@@ -29,6 +29,9 @@ Quelle: [Epstein-Akten: Was das DOJ veröffentlicht hat](https://www.youtube.com
 
 ### Die Veröffentlichung
 
+[▶ 0:02](https://www.youtube.com/watch?v=Meq7PnMy80o&t=2)
+
+
 Das **Department of Justice (DOJ)** veröffentlicht über **3 Millionen Epstein-Akten** — Fotos, Videos, Ermittlungsakten, E-Mails, Interviewzusammenfassungen.
 
 **Todd Blanche** (Stellvertretender Leiter des DOJ) hält eine Pressekonferenz:
@@ -47,6 +50,9 @@ Das **Department of Justice (DOJ)** veröffentlicht über **3 Millionen Epstein-
 Koshi kritisiert: Das DOJ hat keine Klienten — *warum* beruft man sich auf anwaltliche Schweigepflicht?
 
 ### Das verschwundene Dokument
+
+[▶ 9:13](https://www.youtube.com/watch?v=Meq7PnMy80o&t=553)
+
 
 Eine **PDF-Datei** mit Zusammenfassung von Anklagepunkten erschien auf der DOJ-Website — verschwand kurz danach — und tauchte dann durch Meidas Touch (die es heruntergeladen hatten) wieder auf.
 

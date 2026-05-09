@@ -72,6 +72,9 @@ Der bestehende Reaktorpark ist **alt**: die größten Altersgruppen sind 31–40
 
 ### 5. IEA-Projektionen: keine Renaissance in keinem Szenario
 
+[▶ 17:35](https://www.youtube.com/watch?v=dBUrGeF_ZEg&t=1055)
+
+
 Die IEA veröffentlichte einen Bericht mit dem vollmundigen Titel *"The Pathway to a New Era of Nuclear Energy"* — und zeigt darin dennoch:
 
 | Szenario | Kernenergieanteil 2050 | Wahrscheinlichkeit |
@@ -142,9 +145,30 @@ Wer in Kernenergie investiert, begibt sich oft in Abhängigkeit von **Rosatom**,
 
 ## Verbindungen
 
-- [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] — Hauptnote der Serie. Die Folge 5 vertieft insbesondere die dort gemachten Aussagen zu IEA-Projektionen (sinkender Nuklearanteil im STEPS-Szenario) und zur Fossil-Lobby-Verflechtung.
-- [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Buchingers Analyse der „Atomi-Fanbubble" — Menschen, die trotz Datenlage die gleichen Falschaussagen wiederholen — ist ein Lehrstück in Mausfelds Theorie: Agenda-Setting und selektive Informationsverarbeitung als Werkzeuge politischer Meinungsformung.
-- [[Andreas Kemper — Technofaschismus und die AfD]] — Kemper zeigt, wie reaktionäre Politik und Tech-/Energielobby verschmelzen. Buchingers Rosatom-Analyse ergänzt dies um eine geopolitische Dimension: Kernenergie-Propaganda kann gleichzeitig russische Einflusspolitik sein.
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck analysiert, wie falsche Wirtschaftspolitik politischen Rechtsruck befeuert. Die Kernenergie-Debatte als wirtschaftspolitische Sackgasse (Milliarden in unwirtschaftliche Projekte) passt direkt in dieses Muster.
-- [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Manow untersucht, wie populistische Narrative Realität ersetzen. „Alle Industrieländer setzen auf Kernenergie" ist ein klassisches populistisches Narrativ: eingängig, emotional, empirisch falsch.
-- [[Adam Tooze — Pentagon vs. Anthropic]] — Tooze analysiert geopolitische Abhängigkeiten in der Technologiepolitik. Buchingers Rosatom-Falle ist das energiepolitische Äquivalent: strategische Infrastrukturabhängigkeit als Machtmittel autoritärer Staaten.
+### → [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+
+Hauptnote der Serie. Die Folge 5 vertieft insbesondere die dort gemachten Aussagen zu IEA-Projektionen (sinkender Nuklearanteil im STEPS-Szenario) und zur Fossil-Lobby-Verflechtung.
+
+### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
+
+Buchingers Analyse der „Atomi-Fanbubble" — Menschen, die trotz Datenlage die gleichen Falschaussagen wiederholen — ist ein Lehrstück in Mausfelds Theorie: Agenda-Setting und selektive Informationsverarbeitung als Werkzeuge politischer Meinungsformung.
+
+### → [[Andreas Kemper — Technofaschismus und die AfD]]
+
+Kemper zeigt, wie reaktionäre Politik und Tech-/Energielobby verschmelzen. Buchingers Rosatom-Analyse ergänzt dies um eine geopolitische Dimension: Kernenergie-Propaganda kann gleichzeitig russische Einflusspolitik sein.
+
+### → [[Heiner Flassbeck — Krise und Rechtsruck]]
+
+Flassbeck analysiert, wie falsche Wirtschaftspolitik politischen Rechtsruck befeuert. Die Kernenergie-Debatte als wirtschaftspolitische Sackgasse (Milliarden in unwirtschaftliche Projekte) passt direkt in dieses Muster.
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Manow untersucht, wie populistische Narrative Realität ersetzen. „Alle Industrieländer setzen auf Kernenergie" ist ein klassisches populistisches Narrativ: eingängig, emotional, empirisch falsch.
+
+### → [[Adam Tooze — Pentagon vs. Anthropic]]
+
+Tooze analysiert geopolitische Abhängigkeiten in der Technologiepolitik. Buchingers Rosatom-Falle ist das energiepolitische Äquivalent: strategische Infrastrukturabhängigkeit als Machtmittel autoritärer Staaten.
+
+### → [[Norio — Kupferschiefer-Mine in der Lausitz]]
+
+Uran-Importabhängigkeit und Kupfer-Importabhängigkeit als parallele Fälle: beide entlarven den Mythos energiepolitischer Autarkie rohstoffarmer Industrieländer

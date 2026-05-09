@@ -32,6 +32,9 @@ Quelle: [Wie die Wirtschaftskrise den Rechten nützt | Mit Thomas Fricke](https:
 
 ### Die Hilflosigkeit der Erklärungen
 
+[▶ 2:19](https://www.youtube.com/watch?v=YAfKuRf6YKk&t=139)
+
+
 Trotz globaler Demokratiegefährdung (USA, Frankreich, Deutschland) gibt es erschreckend wenig belastbare Analyse der Ursachen. Die gängigen Erklärungen:
 
 - **Migration / 2015** — Fricke: Scheinargument. Populismus ist ein Phänomen in fast allen westlichen Industrieländern, viele davon hatten kein "2015". Zudem: AfD ist dort am stärksten, wo der Ausländeranteil am niedrigsten ist.
@@ -39,6 +42,9 @@ Trotz globaler Demokratiegefährdung (USA, Frankreich, Deutschland) gibt es ersc
 - **Bürgergeld / Bürokratie** — Empirie zeigt: Asylrechtsverschärfungen und Bürgergelddebatte haben die AfD nicht gebremst, eher gestärkt.
 
 ### Empirische Forschung: Kontrollverlust als Kern
+
+[▶ 8:25](https://www.youtube.com/watch?v=YAfKuRf6YKk&t=505)
+
 
 Populismusforschung (Timo Fetzer, David Sydekum, Robert Gold u.a.) kommt durchgängig zu einem Befund: Menschen wählen überproportional Autoritäre und Populisten, wenn sie **Umbrüche erlebt haben** und das Gefühl entwickeln, **die Kontrolle über ihr Leben zu verlieren**.
 
@@ -61,6 +67,9 @@ Timo Fetzer (UK-Studie): In Regionen mit wirtschaftlichen Umbrüchen *und* zusä
 
 ### Inflation als direkter Auslöser
 
+[▶ 14:31](https://www.youtube.com/watch?v=YAfKuRf6YKk&t=871)
+
+
 Isabella Weber (und andere) haben die Inflationserfahrung als entscheidenden Faktor für den Trump-Sieg 2024 nachgewiesen: 31% der Trump-Wähler nannten Inflation als ihre Hauptsorge (vs. 13% bei Harris-Wählern).
 
 Deutschland: Der markanteste AfD-Anstieg folgt unmittelbar auf den Inflationspeak Herbst 2022. Historische Studien über viele Länder: Inflationsschocks → überproportional mehr Populismus-Wahl + erhöhte Protestbereitschaft.
@@ -76,6 +85,9 @@ Das Versprechen: *„Wenn ihr fleißig seid und euch selbst in die Hand nehmt, w
 Problem: Das neue Paradigma, das das Vakuum des Marktliberalismus füllt, fehlt noch.
 
 ### Die Anti-Ohnmacht Agenda
+
+[▶ 17:33](https://www.youtube.com/watch?v=YAfKuRf6YKk&t=1053)
+
 
 Frickes Leitgedanke für eine Antwort: Was müssen Menschen erleben, um das Gefühl der Kontrolle zurückzubekommen?
 
@@ -121,15 +133,114 @@ Konkrete Ansätze:
 
 ## Verbindungen
 
-- [[Heiner Flassbeck — Krise und Rechtsruck]] — Direkteste Parallele: Flassbeck analysiert ebenfalls die wirtschaftlichen Ursachen des Rechtsrucks. Beide teilen die Kritik am Marktliberalismus; Flassbeck legt Schwerpunkt auf Lohnpolitik und Handelsungleichgewichte, Fricke auf Kontrollverlust und Austerität
-- [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Manow analysiert die Wahlentscheidung, Fricke liefert die psychologisch-ökonomische Erklärung dahinter: Wer wählt aus welchem Erleben heraus Populisten?
-- [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Heitmeyers Verrohungsthese und Frickes Kontrollverlust-These greifen ineinander: Wenn Menschen das Gefühl verlieren, Herr ihrer Lage zu sein, sinkt auch die Hemmschwelle zu Gewalt und Desintegration
-- [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]] — Haidt erklärt, welche moralischen Grundmuster Menschen zu Autoritären ziehen; Fricke liefert den ökonomischen Trigger: Kontrollverlust aktiviert genau diese autoritären Grundmuster
-- [[Götz Aly — Wie konnte das geschehen]] — Alys historische Analyse der Nazi-Machtübernahme berührt sich mit Frickes Brüning-Parallele: Austerität und Kontrollverlust als Brandbeschleuniger für autoritäre Bewegungen
-- [[Eva von Redecker — Dieser Drang nach Härte]] — Redeckers Analyse des Wunsches nach Härte als Reaktion auf wahrgenommenen Kontrollverlust und Phantombesitz passt direkt zu Frickes Befund: Die Ohnmacht sucht sich einen Macker
-- [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas Beschleunigungstheorie erklärt den strukturellen Hintergrund von Frickes "unpredictable stress": Hochgeschwindigkeitsgesellschaft produziert systematisch Kontrollverlust
-- [[Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kempers Typologisierung des Technofaschismus und Klerikalfaschismus findet in Frickes Analyse eine ökonomische Grundlage: Diese Bewegungen wachsen nicht im Vakuum, sondern auf dem Nährboden gescheiterter Marktliberalismus-Versprechen
-- [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — Klingbeils Arbeitsmarktpolitik (mehr arbeiten, spätere Rente) als Frickes Kontrollverlust-Treiber: Wer der Mittelschicht sagt, sie soll mehr leisten, ohne Strukturen zu verändern, reproduziert die Ohnmacht, die Rechte mobilisiert
-- [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Schwerdtner liefert das politische Gegenprogramm zu Frickes Diagnose: Wenn linke Parteien keine echten Eingriffe anbieten, landet die Frustration bei den Rechten — Schwerdtner benennt dieses Risiko explizit.
-- [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — El-Mafaalani ergänzt Frickes ökonomische Erklärung um die soziologische Dimension: Kontrollverlust und Austerität liefern die strukturelle Grundlage, aber erst Vergemeinschaftungsprozesse des Misstrauens machen daraus eine politische Kraft.
-- [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Wenn Lobby-Gesetzgebung die Energiewende bremst und Strompreise steigen, nährt das die Wirtschaftsfrustration, die Fricke als Rechtsruck-Beschleuniger identifiziert.- [[taz Reingehen — Wer das Öl hat, hat das Sagen]] — Herrmanns Iran-Szenario ist Frickes Kontrollverlust-These in Echtzeit: Ein Ölpreisschock durch Hormus-Blockade würde Aktienblasen platzen lassen, die US-Mittelklasse treffen und Midterm-Wahlen kippen — ökonomischer Trigger für politische Destabilisierung
+### → [[Heiner Flassbeck — Krise und Rechtsruck]]
+
+Direkteste Parallele: Flassbeck analysiert ebenfalls die wirtschaftlichen Ursachen des Rechtsrucks. Beide teilen die Kritik am Marktliberalismus; Flassbeck legt Schwerpunkt auf Lohnpolitik und Handelsungleichgewichte, Fricke auf Kontrollverlust und Austerität
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Manow analysiert die Wahlentscheidung, Fricke liefert die psychologisch-ökonomische Erklärung dahinter: Wer wählt aus welchem Erleben heraus Populisten?
+
+### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+
+Heitmeyers Verrohungsthese und Frickes Kontrollverlust-These greifen ineinander: Wenn Menschen das Gefühl verlieren, Herr ihrer Lage zu sein, sinkt auch die Hemmschwelle zu Gewalt und Desintegration
+
+### → [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
+
+Haidt erklärt, welche moralischen Grundmuster Menschen zu Autoritären ziehen; Fricke liefert den ökonomischen Trigger: Kontrollverlust aktiviert genau diese autoritären Grundmuster
+
+### → [[Götz Aly — Wie konnte das geschehen]]
+
+Alys historische Analyse der Nazi-Machtübernahme berührt sich mit Frickes Brüning-Parallele: Austerität und Kontrollverlust als Brandbeschleuniger für autoritäre Bewegungen
+
+### → [[Eva von Redecker — Dieser Drang nach Härte]]
+
+Redeckers Analyse des Wunsches nach Härte als Reaktion auf wahrgenommenen Kontrollverlust und Phantombesitz passt direkt zu Frickes Befund: Die Ohnmacht sucht sich einen Macker
+
+### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
+
+Rosas Beschleunigungstheorie erklärt den strukturellen Hintergrund von Frickes "unpredictable stress": Hochgeschwindigkeitsgesellschaft produziert systematisch Kontrollverlust
+
+### → [[Andreas Kemper — Faschismen im 21. Jahrhundert]]
+
+Kempers Typologisierung des Technofaschismus und Klerikalfaschismus findet in Frickes Analyse eine ökonomische Grundlage: Diese Bewegungen wachsen nicht im Vakuum, sondern auf dem Nährboden gescheiterter Marktliberalismus-Versprechen
+
+### → [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+
+Klingbeils Arbeitsmarktpolitik (mehr arbeiten, spätere Rente) als Frickes Kontrollverlust-Treiber: Wer der Mittelschicht sagt, sie soll mehr leisten, ohne Strukturen zu verändern, reproduziert die Ohnmacht, die Rechte mobilisiert
+
+### → [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
+
+Schwerdtner liefert das politische Gegenprogramm zu Frickes Diagnose: Wenn linke Parteien keine echten Eingriffe anbieten, landet die Frustration bei den Rechten — Schwerdtner benennt dieses Risiko explizit.
+
+### → [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]]
+
+El-Mafaalani ergänzt Frickes ökonomische Erklärung um die soziologische Dimension: Kontrollverlust und Austerität liefern die strukturelle Grundlage, aber erst Vergemeinschaftungsprozesse des Misstrauens machen daraus eine politische Kraft.
+
+### → [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+
+Wenn Lobby-Gesetzgebung die Energiewende bremst und Strompreise steigen, nährt das die Wirtschaftsfrustration, die Fricke als Rechtsruck-Beschleuniger identifiziert.
+
+### → [[taz Reingehen — Wer das Öl hat, hat das Sagen]]
+
+Herrmanns Iran-Szenario ist Frickes Kontrollverlust-These in Echtzeit: Ein Ölpreisschock durch Hormus-Blockade würde Aktienblasen platzen lassen, die US-Mittelklasse treffen und Midterm-Wahlen kippen — ökonomischer Trigger für politische Destabilisierung
+
+### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+
+Sahebi/Semsrott belegen Frickes These in Echtzeit: Wirtschaftskrise (Hormuz), Bundesregierung ohne Strukturantwort, parallele Angriffe auf Zivilgesellschaft — alle drei Elemente, die bei Fricke den Rechtsruck beschleunigen
+
+### → [[Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]]
+
+MwSt-Erhöhung als Frickes Kontrollverlust-These in Echtzeit: Regressive Steuerverschiebung trifft die Geringverdiener, die Fricke als politisch entfremdete Kerngruppe identifiziert
+
+### → [[Christoph Butterwegge — Armut NEU DENKEN]]
+
+Butterwegge benennt die strukturellen Ursachen der Ungleichheit, die Fricke als Rechtsruck-Treibstoff identifiziert: Hartz IV, Matthäus-Prinzip, Vermögensteuer-Aussetzung — beide Analysen ergänzen sich zur vollständigen Kausalkette
+
+### → [[Staiy — News: Die Regierung zockt euch ab (02.04.2026)]]
+
+Frickes These in Echtzeit: Eine Steuerpolitik, die Geringverdiener per MwSt-Erhöhung belastet und Reiche entlastet, ist der Nährboden für genau die politische Entfremdung, die Fricke als Rechtsruck-Treiber identifiziert
+
+### → [[Martyna Linartas — Unverdiente Ungleichheit]]
+
+Linartas liefert die strukturelle Vorgeschichte zu Frickes Rechtsruck-These: der neoliberale Paradigmenwechsel der 1980er erzeugte erst die Vermögenskonzentration, aus der die Kontrollverlierer entstehen, die Fricke analysiert
+
+### → [[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz]]
+
+Konkretisiert Frickes Wirtschaftskrise→Rechtsruck-These für Deutschland 2026: Einkommensungleichheit→AfD
+
+### → [[Die Neuen Zwanziger — Salon Lektueren Februar 2026]]
+
+Schmitt/Schulz drehen Herrmanns Kausalrichtung um: Nicht Russlands/Chinas Schwäche erzeugt Krieg, sondern *westliche* Austeritätspolitik erzeugt die Bedingungen für Autoritarismus — Frickes Analyse bestätigt das
+
+### → [[Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
+
+Flassbeck zeigt am Beispiel der Rentenreform dieselbe makroökonomische Blindheit, die bei Fricke den Rechtsruck erklärt
+
+### → [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]]
+
+Kaczmarczyks IWF/Weltbank-Kritik als globale Dimension dessen, was Fricke für den europäischen Norden beschreibt
+
+### → [[Tilo Jung — Erben Wirtschaft AfD-Strategie]]
+
+Jung konkretisiert Frickes These: Zukunfts- und Gegenwartsangst der Mittelschicht als AfD-Treiber, Erbschaftssteuer als Hebel
+
+### → [[Clara Mattei — Geschichte der Austeritaetspolitik]]
+
+Mattei liefert die historische Tiefenanalyse zur Austeritätspolitik, die Fricke als Treiber des Rechtsrucks identifiziert
+
+### → [[Presseclub — Reiches Energiewende]]
+
+Presseclub diskutiert Energiewende-Subventionsabbau — die Austeritätspolitik, die Fricke als populistischen Nährboden identifiziert
+
+### → [[Steffen Mau — Spaltung der Gesellschaft]]
+
+Maus „Veränderungsmüdigkeit" ergänzt Frickes Kontrollverlust-These soziologisch: die 40% Transformationsmüden sind „extrem gut ansprechbar für alle Trigger, die Abwehr von Veränderungszumutung heißen"
+
+### → [[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]]
+
+BPs Krisengewinne → Energiepreise → Unzufriedenheit → rechtspopulistische Instrumentalisierung.
+
+### → [[Maja Goepel — Mut zur Zukunft]]
+
+Göpels Agency-Agenda und Gemeinwohlprodukt als progressive Gegenerzählung zu Frickes Ohnmachtsdiagnose.

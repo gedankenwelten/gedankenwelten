@@ -86,3 +86,10 @@ Rosas Resonanz setzt Upekkha voraus: Nur wer nicht krampfhaft kontrolliert und f
 ### → [[S.N. Goenka — Vipassana]]
 
 Upekkha ist die operative Haltung der gesamten Praxis. [[Vipassana — Vedana|Vedanā]] beobachten — mit Upekkha. [[Vipassana — Sankara|Sankhāra]] auflösen — durch Upekkha. [[Vipassana — Metta|Mettā]] entsteht aus Upekkha.
+
+### → [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]]
+
+Theravada vs. Mahayana in direktem Kontrast: Goenkas Upekkha als höchste Praxis (Gleichmut als Ziel) vs. Adriaans Bodhisattva-Ideal (Gleichmut muss sich in aktives Mitgehen transformieren). Beide haben recht — auf verschiedenen Stufen des Weges.
+
+- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Gleichmut als Brücke zwischen Kissen- und Alltagspraxis: engagiert handeln ohne Reaktivität
