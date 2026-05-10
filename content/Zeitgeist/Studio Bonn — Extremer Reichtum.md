@@ -30,6 +30,8 @@ Quelle: [Studio Bonn – Talk: Extremer Reichtum](https://www.youtube.com/watch?
 > **Fabian Pfeffer** — Soziologieprofessor an der LMU München, Gründungsdirektor des Munich International Stone Center for Inequality Research (ISI). Forscht zu Vermögensungleichheit und intergenerationalen Effekten.
 >
 > Moderation: Sven Sappelt, Studio Bonn / Bundeskunsthalle
+>
+> DenkerVitas: [[Gedankenwelten/DenkerVita/Kevin Kuehnert|Kevin Kühnert]] · [[Gedankenwelten/DenkerVita/Marlene Engelhorn|Marlene Engelhorn]] · [[Gedankenwelten/DenkerVita/Julia Friedrichs|Julia Friedrichs]] · [[Gedankenwelten/DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]
 
 ---
 

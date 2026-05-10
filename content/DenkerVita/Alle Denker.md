@@ -23,6 +23,9 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## Niklas Luhmann
 [[Gedankenwelten/DenkerVita/Niklas Luhmann]] — Soziologe, Systemtheoretiker; Komplexitätsreduktion als Aufgabe der Aufklärung, Kontingenz, Systemdifferenzierung, Zettelkasten-Pionier
 
+## Fabian Pfeffer
+[[Gedankenwelten/DenkerVita/Fabian Pfeffer]] — Soziologieprofessor LMU München, Gründungsdirektor ISI; Münzstapel-Visualisierung: reichste Deutsche = 1/3 Weg zum Mond; dynastische Persistenz von Reichtum über 100 Jahre
+
 ## Paul Lance
 [[Gedankenwelten/DenkerVita/Paul Lance]] — Amerikanischer Aktivist; Trump als Faschismus-Muster, Apathie als Enabler, Ex-Republikaner, Perspektive aus dem amerikanischen Innenleben
 
@@ -35,6 +38,9 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## Teresa Bücker
 [[Gedankenwelten/DenkerVita/Teresa Bücker]] — Journalistin, Autorin; Zeitgerechtigkeit, Zeitwohlstand, Sorgearbeit, NDR Sachbuchpreis 2023 für *Alle_Zeit*
 
+## Marlene Engelhorn
+[[Gedankenwelten/DenkerVita/Marlene Engelhorn]] — Österreichische BASF-Erbin, Gründerin Tax Me Now; verteilte 25 Mio. Euro per Bürgerrat; relationale Kapitalismuskritik: Geld arbeitet nicht, Menschen arbeiten
+
 ## Evan Osnos
 [[Gedankenwelten/DenkerVita/Evan Osnos]] — Journalist (*New Yorker*); Dokumentarist der Ultrareichen, Autor *The Haves and Have-Yachts*; Zuckerberg-Biograph, National Book Award
 
@@ -43,6 +49,9 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## Martyna Linartas
 [[Gedankenwelten/DenkerVita/Martyna Linartas]] — Ungleichheitsforscherin; Erbengesellschaft, Vermögensungleichheit, Grunderbe als demokratische Antwort
+
+## Kevin Kühnert
+[[Gedankenwelten/DenkerVita/Kevin Kuehnert]] — Ehemaliger SPD-Generalsekretär, Juso-Vorsitzender; Verteilungspolitik und Steuern bei Finanzwende; 6%-Rendite-Besteuerung, Vermögenskonzentration als Demokratiegefahr
 
 ## S.N. Goenka
 [[Gedankenwelten/DenkerVita/S.N. Goenka]] — Laienlehrer, Vipassana-Meditation; Industrieller aus Burma, der durch Migräne zu U Ba Khin fand und eine globale Bewegung aufbaute — 340+ Zentren in 94 Ländern, alle kostenlos
@@ -94,6 +103,9 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## Albert Camus
 [[Gedankenwelten/DenkerVita/Albert Camus]] — Schriftsteller, Philosoph (*1913, Mondovi – †1960, Villeblevin); *Der Mythos des Sisyphos* (1942), *Der Fremde* (1942), *Der Mensch in der Revolte* (1951) — Absurdismus, Revolte statt Revolution, „Wir müssen uns Sisyphos als einen glücklichen Menschen vorstellen"
+
+## Julia Friedrichs
+[[Gedankenwelten/DenkerVita/Julia Friedrichs]] — Preisgekrönte Journalistin, Dokumentarfilmerin (ARD, ZDF, Die Zeit); Autorin *Crazy Rich* (2024); Kategorienfehler Einkommen vs. Vermögen, Steuervermeidungsindustrie, Parallelgesellschaft der Überreichen, kognitive Grenzen der Demokratie
 
 ## Arthur Schopenhauer
 [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]] — Philosoph; Wille zum Leben, sechsfaches Leiden, Pessimismus, Brücke zum Buddhismus
@@ -186,7 +198,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 [[Gedankenwelten/DenkerVita/Michael Sterner]] — Professor Energiespeicher/Energiesysteme OTH Regensburg, Mitentwickler Power-to-Gas, Bayerischer Energiebeirat; Fachbücher bei Springer, YouTube-Kommunikator
 
 ## Heinz Bude
-[[Gedankenwelten/DenkerVita/Heinz Bude]] — Soziologe, em. Professor Makrosoziologie (Universität Kassel), Gründungsdirektor documenta-Institut (*1954, Wuppertal); *Deutsche Karrieren* (1987), *Gesellschaft der Angst* (2014), *Abschied von den Boomern* (2024)
+[[Gedankenwelten/DenkerVita/Heinz Bude]] — Soziologe, em. Professor Makrosoziologie (Universität Kassel), Gründungsdirektor documenta-Institut (*1954, Wuppertal); *Deutsche Karrieren* (1987), *Gesellschaft der Angst* (2014), *Abschied von den Boomers* (2024)
 
 ## Daniel Markovits
 [[Gedankenwelten/DenkerVita/Daniel Markovits]] — Jurist, Rechtsphilosoph, Yale Law School (*1969, Bukarest); *The Meritocracy Trap* (2019) — die meritokratische Falle als systemische Analyse von Kastenbildung, Selbstausbeutung und Populismus

@@ -664,3 +664,173 @@ Filtered out 0 files in 264μs
 Emitting files
 Emitted 873 files to `public` in 30s
 Done processing 112 files in 38s
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 87ms
+Found 323 input files from `content` in 42ms
+Parsing input files using 3 threads
+
+Warning: found invalid date "19.04.2026" in `Denker/Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "19.04.2026" in `Denker/Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "19.04.2026" in `Denker/Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "17.04.2026" in `Zeitgeist/MONITOR — Trumps Milliarden mit der Praesidentschaft.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "17.04.2026" in `Zeitgeist/MONITOR — Trumps Milliarden mit der Praesidentschaft.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "17.04.2026" in `Zeitgeist/MONITOR — Trumps Milliarden mit der Praesidentschaft.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "17.04.2026" in `Denker/Albert Moukheiber — Mein Hirn und die anderen.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "17.04.2026" in `Denker/Albert Moukheiber — Mein Hirn und die anderen.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "17.04.2026" in `Denker/Albert Moukheiber — Mein Hirn und die anderen.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "16.04.2026" in `Denker/Albert Moukheiber — Mein Hirn und ich.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "16.04.2026" in `Denker/Albert Moukheiber — Mein Hirn und ich.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "16.04.2026" in `Denker/Albert Moukheiber — Mein Hirn und ich.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "25.04.2026" in `Denker/Erich Fromm — Menschliches Wachstum.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "25.04.2026" in `Denker/Erich Fromm — Menschliches Wachstum.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "25.04.2026" in `Denker/Erich Fromm — Menschliches Wachstum.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "14.07.2014" in `Zeitgeist/David Chalmers — Das Hard Problem des Bewusstseins.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "14.07.2014" in `Zeitgeist/David Chalmers — Das Hard Problem des Bewusstseins.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "14.07.2014" in `Zeitgeist/David Chalmers — Das Hard Problem des Bewusstseins.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "30.04.2026" in `Denker/Markus Gabriel — Universelle Moral.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "30.04.2026" in `Denker/Markus Gabriel — Universelle Moral.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "30.04.2026" in `Denker/Markus Gabriel — Universelle Moral.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "28.04.2026" in `Denker/Steffen Mau — Spaltung der Gesellschaft.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "25.09.2025" in `Zeitgeist/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "28.04.2026" in `Denker/Steffen Mau — Spaltung der Gesellschaft.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "28.04.2026" in `Denker/Steffen Mau — Spaltung der Gesellschaft.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "25.09.2025" in `Zeitgeist/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "25.09.2025" in `Zeitgeist/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "16.01.2024" in `Zeitgeist/Heinz Bude — Boomer-Soziologie.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "16.01.2024" in `Zeitgeist/Heinz Bude — Boomer-Soziologie.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "16.01.2024" in `Zeitgeist/Heinz Bude — Boomer-Soziologie.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "22.12.2021" in `Denker/Walther Ziegler — Adorno in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "19.11.2014" in `Zeitgeist/Heinz Bude — Gesellschaft der Angst.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "19.11.2014" in `Zeitgeist/Heinz Bude — Gesellschaft der Angst.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "19.11.2014" in `Zeitgeist/Heinz Bude — Gesellschaft der Angst.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "22.12.2021" in `Denker/Walther Ziegler — Adorno in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "22.12.2021" in `Denker/Walther Ziegler — Adorno in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Descartes in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Descartes in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Descartes in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Foucault in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Foucault in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Foucault in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "20.03.2026" in `Denker/Walther Ziegler — Habermas in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "20.03.2026" in `Denker/Walther Ziegler — Habermas in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "20.03.2026" in `Denker/Walther Ziegler — Habermas in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "29.06.2023" in `Denker/Walther Ziegler — Hegel in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "29.06.2023" in `Denker/Walther Ziegler — Hegel in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "29.06.2023" in `Denker/Walther Ziegler — Hegel in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Kafka in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Kafka in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Kafka in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Kant in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Kant in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "26.04.2026" in `Denker/Walther Ziegler — Kant in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "22.02.2018" in `Denker/Walther Ziegler — Nietzsche in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "22.02.2018" in `Denker/Walther Ziegler — Nietzsche in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "22.02.2018" in `Denker/Walther Ziegler — Nietzsche in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "29.03.2024" in `Denker/Walther Ziegler — Platon in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "29.03.2024" in `Denker/Walther Ziegler — Platon in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "29.03.2024" in `Denker/Walther Ziegler — Platon in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "27.04.2026" in `Denker/Walther Ziegler — Rawls in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "27.04.2026" in `Denker/Walther Ziegler — Rawls in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "27.04.2026" in `Denker/Walther Ziegler — Rawls in 60 Minuten.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "19.04.2026" in `Denker/scobel — Foucault Aufklaerung als Haltung.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "19.04.2026" in `Denker/scobel — Foucault Aufklaerung als Haltung.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "19.04.2026" in `Denker/scobel — Foucault Aufklaerung als Haltung.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "23.04.2026" in `Denker/scobel — Luhmann Abklaerung der Aufklaerung.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "23.04.2026" in `Denker/scobel — Luhmann Abklaerung der Aufklaerung.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "23.04.2026" in `Denker/scobel — Luhmann Abklaerung der Aufklaerung.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "«" (171) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "Ü" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "»" (187) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ü" used in math mode [unicodeTextInMathMode]
+No character metrics for '«' in style 'Main-Regular' and mode 'text'
+No character metrics for '»' in style 'Main-Regular' and mode 'text'
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ö" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "ß" (223) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "—" (8212) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Accented Unicode text character "ä" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "–" (8211) [unknownSymbol]
+Parsed 323 Markdown files in 19s
+Filtered out 0 files in 439μs
+Emitting files
+Emitted 1729 files to `public` in 1m
+Done processing 323 files in 2m
+npm notice
+npm notice New minor version of npm available! 11.11.0 -> 11.14.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.14.1
+npm notice To update run: npm install -g npm@11.14.1
+npm notice
