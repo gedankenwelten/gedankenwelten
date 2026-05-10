@@ -446,6 +446,7 @@ Wir haben beachtliche Fortschritte bei den Menschenrechten erzielt. Das menschli
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — El-Mafaalani beschreibt den gesellschaftlichen Vertrauensverlust als strukturelles Problem; Ricard benennt auf individueller Ebene den Weg zurück: Absicht und Gesinnung als Grundlage von Vertrauen
 - [[Wolfram Eilenberger — Die größte Lüge der Philosophie]] — Eilenbergers "Mystik als Sandfluss" und Ricards Meditationspraxis sind konzeptuell dasselbe: nicht-sprachliche, präzise Methoden der Geistesgegenwart. Eilenberger beschreibt das philosophisch; Ricard verkörpert und lehrt es.
 - [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]] — Ricard und Adriaan teilen das Bodhisattva-Verständnis von Mitgefühl als aktivem Abstieg in fremdes Leiden. Unterschied: Ricard aus der Vajrayāna/Nyingma-Tradition, Adriaan aus Thich-Nhat-Hanh/Plum Village — beide Mahayana, verschiedene Schulen.
+- [[Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen]] — Adriaans Paradox der leeren Fürsorge (alle geben, alle bleiben leer) ist Ricards These praktisch demonstriert: Wer aus dem Haben-Modus gibt, erschöpft sich. Wer bei sich angekommen ist, gibt aus Fülle. Ricards "Altruismus ist identisch mit Wohlbefinden" wird hier zur gelebten Beziehungsdiagnose.
 - [[Erich Fromm — Menschliches Wachstum]] — Fromms Unterscheidung zwischen destruktivem Konsum und lebendigem Wachstum ist Ricards Meditation vs. Anhaftung in säkularer Sprache
 
 **Panorama-Synthese:**
