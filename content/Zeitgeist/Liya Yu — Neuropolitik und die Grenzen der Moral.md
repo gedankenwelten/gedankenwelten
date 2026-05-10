@@ -156,6 +156,10 @@ Beide diagnostizieren tribalistische Dynamiken; Yu ergänzt Haidts sozialpsychol
 
 Moukheiber beschreibt das soziale Gehirn und kognitive Verzerrungen; Yu politisiert genau diese Mechanismen und fragt, was sie für demokratisches Zusammenleben bedeuten
 
+### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+
+Yus neurologische Erklärung, warum liberal/konservativ tiefer liegt als rationale Überzeugung, unterfüttert Möllers' Prämisse, dass Demokratie unauflösbaren Dissens institutionell anerkennen muss — und erklärt, warum Posschardts Kulturkritik so schwer in politische Lösungen übersetzt.
+
 ### → [[Albert Moukheiber — Mein Hirn und ich]]
 
 Moukheibers kognitive Verzerrungen sind die individuelle Ebene dessen, was Yu als kollektive Dehumanisierungsmechanismen beschreibt

@@ -184,6 +184,10 @@ Redeckers Analyse des Neofaschismus als Phantombesitz-Verteidigung deckt sich mi
 
 Kemper analysiert das intellektuelle Vorfeld der AfD systematisch — hier hört man die Protagonisten (Kubitschek, Lehnert, Mohler) selbst sprechen
 
+### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+
+Der Begriff des Herrn Hegemon — wer bestimmt, wer Rechtfertigungspflichten hat — ist direkte Folie zu Möllers' demokratischer Aushandlungstheorie und Posschardts Milieu-Kritik: Wie der Staat zum Kampffeld wird statt zum Rahmen des Handelns.
+
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
 Cipolla und Žižek (Idiot/Debiler) liefern komplementäre Dummheits-Taxonomien: Cipolla klassifiziert nach Nutzen/Schaden, Žižek nach Verhältnis zum „gesunden Menschenverstand"

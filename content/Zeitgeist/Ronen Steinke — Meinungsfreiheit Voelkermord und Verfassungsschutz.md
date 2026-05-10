@@ -218,6 +218,10 @@ Ebenfalls Jung & Naiv, überschneidende Themen: Freiheitsbegriff, Grundrechte, s
 
 ### → [[Andreas Kemper — Faschismen im 21. Jahrhundert]]
 
+### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+
+Möllers fragt philosophisch, was Freiheit in der Demokratie bedeutet; Steinke zeigt empirisch, wie der freiheitliche Staat selbst (Verfassungsschutz, Strafparagraphen) Meinungsfreiheit einschränkt — beide kreisen um dieselbe Paradoxie des liberalen Staates.
+
 Verfassungsschutz-Perspektive auf die AfD vs. Kempers soziologische Klassifikation
 
 ### → [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
