@@ -130,3 +130,7 @@ Jung und Flassbeck konvergieren: Vermögensungleichheit als Demokratiegefährdun
 ### → [[Heiner Flassbeck — Die Wahrheit ueber Staatsschulden]]
 
 Flassbeck liefert hier das Fundament für die Rentenkritik: den geschlossenen Zinskreislauf zwischen Steuerzahler und Sparer — warum es keinen externen Zinszahler geben kann.
+
+### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
+
+Flassbeck liefert die makroökonomische Mechanik (Sparparadoxon, r > g) für Kühnerts 6%-Rendite-Unterstellungs-Modell in Studio Bonn. Beide decken denselben blinden Fleck: Wer nur Einkommen analysiert, übersieht die selbstverstärkende Logik der Kapitalbestände.

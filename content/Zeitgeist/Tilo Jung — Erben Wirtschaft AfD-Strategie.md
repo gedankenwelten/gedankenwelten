@@ -315,3 +315,7 @@ Desinformations-Ökosystem als Gegenstück zu Jungs transparentem Journalismus-I
 ### → [[Clara Mattei — Geschichte der Austeritaetspolitik]]
 
 Mattei gibt dem Thema Wirtschaftsdemokratie den historischen und theoretischen Rahmen
+
+### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
+
+Studio Bonn bringt Engelhorn ins Gespräch — eine Erbin, die freiwillig umverteilt, wo Jung strukturellen Zwang fordert. Jungs "das System muss sich ändern" vs. Engelhorns "ich ändere mich innerhalb des Systems": zwei Antworten auf dieselbe Diagnose.
