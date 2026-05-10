@@ -183,6 +183,10 @@ Konzeptuelles Gegenstück: Wo Petersdorff/Seydack den Verlust der Leichtigkeit d
 
 Leichtigkeit als Sein-Modus: Die kulturelle Leichtigkeit der 70er/80er war ein Moment, in dem das Sein dem Haben noch nicht vollständig untergeordnet war. Der neoliberale Shift zur Selbstoptimierung ist Fromms Diagnose der Haben-Orientierung.
 
+### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+
+Petersdorffs Kulturgeschichte der Leichtigkeit ist direktes kulturelles Gedächtnis zu Posschardts Diagnose: Der neoliberale Freiheitsbegriff war für eine Generation zunächst als Befreiung erlebt — bevor er sich in Selbstoptimierungsdruck und moralische Bevormundung umwandelte.
+
 ### → [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
 
 Die erste Generation, der es schlechter geht als den Eltern, trifft auf El-Mafaalanis Analyse der strukturellen Benachteiligung junger Menschen. Generationengerechtigkeit von der kulturell-emotionalen vs. strukturell-politischen Seite.

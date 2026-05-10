@@ -11,6 +11,12 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ---
 
+## Christoph Möllers
+[[Gedankenwelten/DenkerVita/Christoph Moellers]] — Staatsrechtler und Rechtsphilosoph; Freiheitsgrade, Demokratie als Aushandlungsverfahren, Staat als Ermöglichungsbedingung der Freiheit, Rektor Wissenschaftskolleg Berlin 2026
+
+## Ulf Poschardt
+[[Gedankenwelten/DenkerVita/Ulf Poschardt]] — Publizist und Journalist; Schitbürgertum-Diagnose, Kritik am linksliberalen Milieu, kulturelle Hegemonie, Kittler-Schüler, Herausgeber der Welt
+
 ## Konstantin Flemig
 [[Gedankenwelten/DenkerVita/Konstantin Flemig]] — Kriegsreporter, Dokumentarfilmer, Buchautor; Ukraine-Berichterstattung, Rheinmetall/Zeitenwende, vergessene Kriege
 

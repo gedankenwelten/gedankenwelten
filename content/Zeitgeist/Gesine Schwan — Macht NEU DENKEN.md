@@ -242,6 +242,10 @@ beide zitieren Hannah Arendt als Zeugin der Gegenwart; Redecker beschreibt den n
 
 ### → [[Gedankenwelten/Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 
+### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+
+Schwans Unterscheidung von Herrschaftsmacht und Gestaltungsmacht kartiert denselben Spannungsraum wie Möllers: Demokratie als Ermöglichungsbedingung von Freiheit — nicht als ihr Gegenpol. Posschardts Staatsnähekritik würde Schwan als Fehldeutung von Macht lesen.
+
 Hagemeyer liefert die klinische Innenperspektive auf Narzissmus, die Schwan politisch anwendet: warum narzisstische Persönlichkeiten gerade in Machtpositionen katastrophisch sind
 
 ### → [[Gedankenwelten/Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]

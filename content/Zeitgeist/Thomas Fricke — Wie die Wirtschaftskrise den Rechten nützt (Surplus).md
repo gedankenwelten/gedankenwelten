@@ -145,6 +145,10 @@ Manow analysiert die Wahlentscheidung, Fricke liefert die psychologisch-ökonomi
 
 Heitmeyers Verrohungsthese und Frickes Kontrollverlust-These greifen ineinander: Wenn Menschen das Gefühl verlieren, Herr ihrer Lage zu sein, sinkt auch die Hemmschwelle zu Gewalt und Desintegration
 
+### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+
+Frickes empirische Analyse der wirtschaftlichen Stagnation liefert den materiellen Unterbau zu Posschardts Kulturkritik: Dieselbe Erschöpfung des Gegenwartsmodells — bei Poschardt kulturell-ästhetisch, bei Fricke ökonomisch gefasst.
+
 ### → [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
 
 Haidt erklärt, welche moralischen Grundmuster Menschen zu Autoritären ziehen; Fricke liefert den ökonomischen Trigger: Kontrollverlust aktiviert genau diese autoritären Grundmuster
