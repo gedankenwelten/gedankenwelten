@@ -240,3 +240,7 @@ Klarsprech zeigt, wohin Osnos' Ultrareiche gehen, wenn Megayachten nicht mehr re
 ### → [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025]]
 
 Markovits' *Meritocracy Trap* liefert die strukturelle Erklärung für Osnos' Befund: Der geographische, kulturelle und lebensweltliche Separatismus der Ultrareichen — die Bunker, die Megayachten, die Parallelwelten — ist die räumliche Manifestation einer ökonomischen Kastenbildung. Osnos beobachtet von außen; Markovits erklärt die Mechanik.
+
+### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
+
+Komplementäre Winkel: Osnos seziert die Psychologie der Ultrareichen von außen ("principal"-Struktur, Devothaltung im Umfeld); Studio Bonn benennt denselben Mechanismus von innen — mit Engelhorns Insider-Erfahrung. Wo Osnos fragt "Wie werden Milliardäre so?", fragt Studio Bonn "Was macht das mit der Demokratie?"

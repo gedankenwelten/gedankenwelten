@@ -223,3 +223,7 @@ Matteis Austeritätslogik in individueller Form: Die 10.000-Euro-Schulden der Fl
 ### → [[Walther Ziegler — Rawls in 60 Minuten]]
 
 Rawls' Differenzprinzip als Gegenmodell zu Matteis Austeritätslogik: Wo Rawls fordert, dass Ungleichheit den Schwächsten nützen muss, zeigt Mattei historisch, dass Austerität die Schwächsten gezielt belastet, um die Kapitalordnung zu stabilisieren — ein systematischer Verstoß gegen beide Grundsätze der Gerechtigkeit.
+
+### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
+
+Mattei liefert die historische Tiefe zur Steuervermeidungsindustrie, die Studio Bonn für die Gegenwart beschreibt. Die $900/h-Berater sind die modernen Erben von Matteis Austeritätsmaschinerie: Beide sichern Kapitalinteressen gegen demokratische Umverteilung — einmal historisch, einmal aktuell.

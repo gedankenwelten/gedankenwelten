@@ -276,3 +276,7 @@ Butterwegge wird im Salon explizit als idealer Vorwort-Autor für die deutsche A
 ### → [[Walther Ziegler — Rawls in 60 Minuten]]
 
 Rawls' Differenzprinzip liefert das theoretische Fundament für Butterwegges empirische Analyse: Ungleichheit ist nur dann zulässig, wenn sie den am wenigsten Begünstigten den größtmöglichen Vorteil bringt. Butterwegges Daten zeigen, dass genau das Gegenteil geschieht — wachsende Armut bei explodierenden Spitzeneinkommen.
+
+### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
+
+Studio Bonn beschreibt die Oberseite der Schere, die Butterwegge von unten analysiert: Dynastien die Weltkriege überdauern, Steuervermeidungsindustrie als System, Vermögen als Demokratiegefahr. Beide zeigen: Die Schere entsteht durch politische Entscheidungen, nicht durch Naturgesetze.
