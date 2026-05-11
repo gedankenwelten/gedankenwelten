@@ -11,216 +11,190 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ---
 
-## Christoph Möllers
-[[Gedankenwelten/DenkerVita/Christoph Moellers]] — Staatsrechtler und Rechtsphilosoph; Freiheitsgrade, Demokratie als Aushandlungsverfahren, Staat als Ermöglichungsbedingung der Freiheit, Rektor Wissenschaftskolleg Berlin 2026
+## A
 
-## Ulf Poschardt
-[[Gedankenwelten/DenkerVita/Ulf Poschardt]] — Publizist und Journalist; Schitbürgertum-Diagnose, Kritik am linksliberalen Milieu, kulturelle Hegemonie, Kittler-Schüler, Herausgeber der Welt
+**[[Gedankenwelten/DenkerVita/Albrecht von Lucke|Albrecht von Lucke]]** — Publizist, Journalist; Blätter-Redakteur; Nischengesellschaft, Konfliktunfähigkeit, Merz-Regierung als Führungsvakuum
 
-## Konstantin Flemig
-[[Gedankenwelten/DenkerVita/Konstantin Flemig]] — Kriegsreporter, Dokumentarfilmer, Buchautor; Ukraine-Berichterstattung, Rheinmetall/Zeitenwende, vergessene Kriege
+**[[Gedankenwelten/DenkerVita/Christoph Moellers|Christoph Möllers]]** — Staatsrechtler und Rechtsphilosoph; Freiheitsgrade, Demokratie als Aushandlungsverfahren, Staat als Ermöglichungsbedingung der Freiheit, Rektor Wissenschaftskolleg Berlin 2026
 
-## Jürgen Habermas
-[[Gedankenwelten/DenkerVita/Juergen Habermas]] — Philosoph, Frankfurt School; Kommunikatives Handeln, Diskursethik, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, letzter großer Geschichtsphilosoph
+**[[Gedankenwelten/DenkerVita/Ulf Poschardt|Ulf Poschardt]]** — Publizist und Journalist; Schitbürgertum-Diagnose, Kritik am linksliberalen Milieu, kulturelle Hegemonie, Kittler-Schüler, Herausgeber der Welt
 
-## Georg Wilhelm Friedrich Hegel
-[[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel]] — Philosoph, Deutscher Idealismus; Dialektik, Weltgeist, Aufhebung, Geschichte als Fortschritt im Bewusstsein der Freiheit, Staat als Verwirklichung der Freiheit
+## B
 
-## Niklas Luhmann
-[[Gedankenwelten/DenkerVita/Niklas Luhmann]] — Soziologe, Systemtheoretiker; Komplexitätsreduktion als Aufgabe der Aufklärung, Kontingenz, Systemdifferenzierung, Zettelkasten-Pionier
+**[[Gedankenwelten/DenkerVita/Bernhard Poerksen|Bernhard Pörksen]]** — Medienwissenschaftler, Professor Tübingen; Filterclash, Redaktionelle Gesellschaft, respektvolle Konfrontation
 
-## Fabian Pfeffer
-[[Gedankenwelten/DenkerVita/Fabian Pfeffer]] — Soziologieprofessor LMU München, Gründungsdirektor ISI; Münzstapel-Visualisierung: reichste Deutsche = 1/3 Weg zum Mond; dynastische Persistenz von Reichtum über 100 Jahre
+## C
 
-## Paul Lance
-[[Gedankenwelten/DenkerVita/Paul Lance]] — Amerikanischer Aktivist; Trump als Faschismus-Muster, Apathie als Enabler, Ex-Republikaner, Perspektive aus dem amerikanischen Innenleben
+**[[Gedankenwelten/DenkerVita/Clara Mattei|Clara Mattei]]** — Ökonomin; Austerität als Kern des Kapitalismus, Liberalismus-Faschismus-Konvergenz, *The Capital Order*
 
-## Gesine Schwan
-[[Gedankenwelten/DenkerVita/Gesine Schwan]] — Politikwissenschaftlerin; Gestaltungsmacht vs. Herrschaftsmacht, demokratische Kultur, kommunale Entwicklungsbeiräte, zweifache Bundespräsidentschaftskandidatin
+**[[Gedankenwelten/DenkerVita/Christoph Moellers|Christoph Möllers]]** — siehe unter A
 
-## Maja Göpel
-[[Gedankenwelten/DenkerVita/Maja Goepel]] — Politische Ökonomin; Systemwandel, planetare Grenzen, Narrative des Wandels, NEU DENKEN-Podcast, Scientists for Future
+## D
 
-## Teresa Bücker
-[[Gedankenwelten/DenkerVita/Teresa Bücker]] — Journalistin, Autorin; Zeitgerechtigkeit, Zeitwohlstand, Sorgearbeit, NDR Sachbuchpreis 2023 für *Alle_Zeit*
+**[[Gedankenwelten/DenkerVita/Darin L. Gerdes|Darin L. Gerdes]]** — Leadership-Professor; Ukraine-Krieg aus Leadership-Perspektive, „Reagan-Republican who fully supports Ukraine", tägliche YouTube-Analysen
 
-## Marlene Engelhorn
-[[Gedankenwelten/DenkerVita/Marlene Engelhorn]] — Österreichische BASF-Erbin, Gründerin Tax Me Now; verteilte 25 Mio. Euro per Bürgerrat; relationale Kapitalismuskritik: Geld arbeitet nicht, Menschen arbeiten
+**[[Gedankenwelten/DenkerVita/David Chalmers|David Chalmers]]** — Philosoph des Geistes; Hard Problem of Consciousness, Panpsychismus, Extended Mind
 
-## Evan Osnos
-[[Gedankenwelten/DenkerVita/Evan Osnos]] — Journalist (*New Yorker*); Dokumentarist der Ultrareichen, Autor *The Haves and Have-Yachts*; Zuckerberg-Biograph, National Book Award
+**[[Gedankenwelten/DenkerVita/Dirk Specht|Dirk Specht]]** — Unternehmer, Dozent; Merit Order, Batteriespeicher, Dekarbonisierungsstrategien, Datenjournalismus vs. Lobbying
 
-## Clara Mattei
-[[Gedankenwelten/DenkerVita/Clara Mattei]] — Ökonomin; Austerität als Kern des Kapitalismus, Trinität fiskalisch/industriell/monetär, Liberalismus-Faschismus-Konvergenz, FREE
+**[[Gedankenwelten/DenkerVita/Dirk von Petersdorff|Dirk von Petersdorff]]** — Literaturwissenschaftler, Lyriker; Freiheitsgewinn durch Wahrheitsverlust, Ironie, Leichtigkeit als historisches Lebensgefühl der 70er-90er
 
-## Martyna Linartas
-[[Gedankenwelten/DenkerVita/Martyna Linartas]] — Ungleichheitsforscherin; Erbengesellschaft, Vermögensungleichheit, Grunderbe als demokratische Antwort
+**[[Gedankenwelten/DenkerVita/Dominik Finkelde|Dominik Finkelde]]** — (Vollanalyse vorhanden, Details ausstehend)
 
-## Kevin Kühnert
-[[Gedankenwelten/DenkerVita/Kevin Kuehnert]] — Ehemaliger SPD-Generalsekretär, Juso-Vorsitzender; Verteilungspolitik und Steuern bei Finanzwende; 6%-Rendite-Besteuerung, Vermögenskonzentration als Demokratiegefahr
+## E
 
-## S.N. Goenka
-[[Gedankenwelten/DenkerVita/S.N. Goenka]] — Laienlehrer, Vipassana-Meditation; Industrieller aus Burma, der durch Migräne zu U Ba Khin fand und eine globale Bewegung aufbaute — 340+ Zentren in 94 Ländern, alle kostenlos
+**[[Gedankenwelten/DenkerVita/Erich Fromm|Erich Fromm]]** — Psychoanalytiker, Sozialphilosoph; Haben/Sein-Modus, Biophilie, humanistischer Sozialismus, Prophet als Warner
 
-## Thich Nhat Hanh
-[[Gedankenwelten/DenkerVita/Thich Nhat Hanh]] — Zen-Meister, Engaged Buddhism, Plum Village; Vier Edle Wahrheiten als Interbeing-Verbund, Sahabhū, Vier Nährstoffe
+**[[Gedankenwelten/DenkerVita/Evan Osnos|Evan Osnos]]** — Journalist (*New Yorker*); Dokumentarist der Ultrareichen, Autor *The Haves and Have-Yachts*; Zuckerberg-Biograph, National Book Award
 
-## Adriaan van Wagensveld
-[[Gedankenwelten/DenkerVita/Adriaan van Wagensveld]] — Vipassana-Lehrer (Plum Village-Tradition), Bodhisattva-Ideal, Ksitigarbha: Wunden als Schatz
+## F
 
-## Helen Keller
+**[[Gedankenwelten/DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]** — Soziologieprofessor LMU München, Gründungsdirektor ISI; Münzstapel-Visualisierung: reichste Deutsche = 1/3 Weg zum Mond; dynastische Persistenz von Reichtum über 100 Jahre
+
+## G
+
+**[[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel|Georg Wilhelm Friedrich Hegel]]** — Philosoph, Deutscher Idealismus; Dialektik, Weltgeist, Aufhebung, Geschichte als Fortschritt im Bewusstsein der Freiheit, Staat als Verwirklichung der Freiheit
+
+**[[Gedankenwelten/DenkerVita/Gerald Hüther|Gerald Hüther]]** — Neurobiologe, Bestsellerautor; Selbstorganisation, Potenzialentfaltung statt Anpassung, Schule im Aufbruch, Akademie für Potentialentfaltung
+
+**[[Gedankenwelten/DenkerVita/Gesine Schwan|Gesine Schwan]]** — Politikwissenschaftlerin; Gestaltungsmacht vs. Herrschaftsmacht, demokratische Kultur, kommunale Entwicklungsbeiräte, zweifache Bundespräsidentschaftskandidatin
+
+**[[Gedankenwelten/DenkerVita/Gilda Sahebi|Gilda Sahebi]]** — Deutsch-iranische Journalistin, Autorin; Expertise: autoritäre Systeme, Rassismus, Iran; Politikjournalistin des Jahres 2022
+
+**[[Gedankenwelten/DenkerVita/Götz Aly|Götz Aly]]** — Historiker, Journalist; NS-Forschung; "Hitlers Volksstaat"; Täterforschung
+
+## H
+
+**[[Gedankenwelten/DenkerVita/Heinz Bude|Heinz Bude]]** — Soziologe, em. Professor Kassel, Gründungsdirektor documenta-Institut; Generationssoziologie als Schlüssel zur Bundesrepublik, kommunikatives Beschweigen
+
+**[[Gedankenwelten/DenkerVita/Heiner Flassbeck|Heiner Flassbeck]]** — Ökonom, ehem. Staatssekretär BMF unter Lafontaine, Chefökonom UNCTAD; Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden; Keynesianischer Einzelkämpfer im ordoliberalen Deutschland
+
 **[[Gedankenwelten/DenkerVita/Helen Keller|Helen Keller]]** — Völkerrechtlerin, Professorin an der Uni Zürich, neun Jahre Richterin am EGMR
 
-## Erich Fromm
-[[Gedankenwelten/DenkerVita/Erich Fromm]] — Psychoanalytiker, Sozialphilosoph; Haben/Sein-Modus, Biophilie, humanistischer Sozialismus, Prophet als Warner
+## I
 
-## Maurice Höfgen
-[[Gedankenwelten/DenkerVita/Maurice Hoefgen]] — Ökonom, YouTuber; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse, Forbes 30 Under 30
+**[[Gedankenwelten/DenkerVita/Immanuel Kant|Immanuel Kant]]** — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, "Was ist Aufklärung?"
 
-## Michel Foucault
-[[Gedankenwelten/DenkerVita/Michel Foucault]] — Macht, Diskurs, Disziplinargesellschaft, Aufklärung als Ethos
+**[[Gedankenwelten/DenkerVita/Isabell Lorey|Isabell Lorey]]** — Politikwissenschaftlerin, Professorin Queer Studies KHM Köln; Prekarisierung als Regierungstechnik, Immunisierung als Herrschaftslogik, Sorgebeziehungen als Gegenentwurf
+
+## J
+
+**[[Gedankenwelten/DenkerVita/John Rawls|John Rawls]]** — Politischer Philosoph; Schleier des Nichtwissens, Urzustand, Gleichheitsprinzip, Differenzprinzip
+
+**[[Gedankenwelten/DenkerVita/Julie Pagis|Julie Pagis]]** — Soziologin CNRS/IRIS-EHESS; Mai 68 und charismatische Herrschaft; Herrschaft vs. Beherrschen, biographische Sackgasse
+
+**[[Gedankenwelten/DenkerVita/Julia Friedrichs|Julia Friedrichs]]** — Preisgekrönte Journalistin und Dokumentarfilmerin (ARD, ZDF, Die Zeit); Gründerin Tell Me Why; Autorin *Crazy Rich*; Kategorienfehler Einkommen vs. Vermögen, Steuervermeidungsindustrie, Parallelgesellschaft der Überreichen
+
+**[[Gedankenwelten/DenkerVita/Juergen Habermas|Jürgen Habermas]]** — Philosoph, Frankfurt School; Kommunikatives Handeln, Diskursethik, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, letzter großer Geschichtsphilosoph
+
+## K
+
+**[[Gedankenwelten/DenkerVita/Kevin Kuehnert|Kevin Kühnert]]** — Ehemaliger SPD-Generalsekretär, Juso-Vorsitzender; Verteilungspolitik und Steuern bei Finanzwende; 6%-Rendite-Besteuerung, Vermögenskonzentration als Demokratiegefahr
+
+**[[Gedankenwelten/DenkerVita/Konfuzius|Konfuzius]]** — Philosoph, Ethiker; Achsenzeit-Denker neben Sokrates und Buddha; Ren (仁, Mitmenschlichkeit), Goldene Regel, fünf Kardinaltugenden, Junzi, Widerstandspflicht gegen unmenschliche Herrscher
+
+**[[Gedankenwelten/DenkerVita/Konstantin Flemig|Konstantin Flemig]]** — Kriegsreporter, Dokumentarfilmer, Buchautor; Faktenjournalismus über Ukraine-Krieg, Zeitenwende-Industrialisierung, vergessene Kriege
+
+## L
+
+**[[Gedankenwelten/DenkerVita/Liya Yu|Liya Yu]]** — Politikwissenschaftlerin, neuropolitische Philosophin; Mitbegründerin Neuropolitik; Mentalisierung statt Moralisierung, Dehumanisierung als kognitive Fähigkeit, In-Group-Erweiterung
+
+**[[Gedankenwelten/DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]]** — Philosoph, Begründer Sprachphilosophie; Linguistic Turn, "Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen
+
+## M
+
+**[[Gedankenwelten/DenkerVita/Marc Felix Serrao|Marc Felix Serrao]]** — Deutsch-brasilianischer Journalist; Chefredakteur NZZ Deutschland; Konservativ-liberales Korrektiv zum deutschen Mainstream
+
+**[[Gedankenwelten/DenkerVita/Markus Gabriel|Markus Gabriel]]** — Philosoph, Bestsellerautor, Professor NRW; Sinnfeldontologie, Neuer Realismus, moralischer Universalismus, ethischer Kapitalismus
+
+**[[Gedankenwelten/DenkerVita/Markus Reisner|Markus Reisner]]** — Oberst des Generalstabs, Militäranalyst, Österreichisches Bundesheer; Drohne als Paradigmenwechsel, Asymmetrie moderner Kriegsführung, Drohnenabwehr als kritische Lücke
+
+**[[Gedankenwelten/DenkerVita/Martyna Linartas|Martyna Linartas]]** — Ungleichheitsforscherin; Erbengesellschaft, Vermögensungleichheit, Grunderbe als demokratische Antwort
+
+**[[Gedankenwelten/DenkerVita/Martin Heidegger|Martin Heidegger]]** — Philosoph, Begründer Fundamentalontologie; Dasein, In-der-Welt-Sein, Sorge, Das Man, Sein-zum-Tode, Gestell der Technik
+
+**[[Gedankenwelten/DenkerVita/Martin Sonneborn|Martin Sonneborn]]** — Satiriker, Ex-Chefredakteur *Titanic*, Die PARTEI, MdEP 2014–2024; Krieg als Geschäftsmodell, Medien erzeugen Zustimmung, Satire als politisches Instrument
+
+**[[Gedankenwelten/DenkerVita/Maurice Hoefgen|Maurice Höfgen]]** — Ökonom, YouTuber ("Geld für die Welt", 251.000+ Abonnenten), Kolumnist Berliner Zeitung; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse
+
+**[[Gedankenwelten/DenkerVita/Michael Sterner|Michael Sterner]]** — Professor Energiespeicher/Energiesysteme OTH Regensburg, Mitentwickler Power-to-Gas, Bayerischer Energiebeirat; dezentrale Wertschöpfung, Technologieoffenheit, wissenschaftliche Freiheit
+
+**[[Gedankenwelten/DenkerVita/Michel Foucault|Michel Foucault]]** — Macht, Diskurs, Disziplinargesellschaft, Aufklärung als Ethos
+
+**[[Gedankenwelten/DenkerVita/Michel Friedman|Michel Friedman]]** — Jurist, Publizist, Fernsehmoderator; Kind polnisch-jüdischer Holocaust-Überlebender; Heuchelei als demokratischer Befund, Antisemitismus als Querspektrum-Phänomen
+
+## N
+
+**[[Gedankenwelten/DenkerVita/Niclas Seydack|Niclas Seydack]]** — Freier Reporter und Publizist, schreibt für Die Zeit, Spiegel, SZ Magazin; Autor von *Geile Zeit*; Scharnier-Generation zwischen Sorglosigkeit und Dauerkrise
+
+**[[Gedankenwelten/DenkerVita/Nicole Deitelhoff|Nicole Deitelhoff]]** — Politikwissenschaftlerin, Professorin für Internationale Beziehungen, Goethe-Universität Frankfurt; Geschäftsführende Direktorin PRIF/HSFK, Co-Moderatorin StreitClub
+
+**[[Gedankenwelten/DenkerVita/Niklas Luhmann|Niklas Luhmann]]** — Soziologe, Systemtheoretiker; Komplexitätsreduktion als Aufgabe der Aufklärung, Kontingenz, Systemdifferenzierung, Zettelkasten-Pionier
+
+## O
+
+## P
+
+**[[Gedankenwelten/DenkerVita/Paul Lance|Paul Lance]]** — Amerikanischer Aktivist; Trump als Faschismus-Muster, Apathie als Enabler, Ex-Republikaner, Perspektive aus dem amerikanischen Innenleben
+
+## R
+
+**[[Gedankenwelten/DenkerVita/Rebecca Boehme|Rebecca Böhme]]** — Neurowissenschaftlerin, Assistenzprofessorin Universität Linköping; Gehirn als bayesianische Vorhersagemaschine, Sprache als neuronaler Schalter, Freiheit trainierbar
+
+**[[Gedankenwelten/DenkerVita/Renee DiResta|Renée DiResta]]** — Forscherin am Stanford Internet Observatory; *Invisible Rulers: The People Who Turn Lies into Reality*; Propaganda dezentralisiert, Verstärkung statt Überzeugung
+
+**[[Gedankenwelten/DenkerVita/Ronen Steinke|Ronen Steinke]]** — Journalist, Sachbuchautor, Jurist; SZ-Korrespondent; Meinungsfreiheit, Verfassungsschutz als Demokratieproblem, Fritz Bauer als Kompass
+
+## S
+
+**[[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz]]** — Soziologe, Autor; Die Neuen Zwanziger (mit Wolfgang M. Schmitt), ehem. Aufwachen! (mit Tilo Jung); Demografie, Spontanhistorisierung, Medienwandel
+
+**[[Gedankenwelten/DenkerVita/Steffen Mau|Steffen Mau]]** — Makrosoziologe, Professor HU Berlin, seit 2025 Direktor MPI Göttingen; Triggerpunkte statt Spaltung, Polarisierungsunternehmer, Sortiermaschinen
+
+## T
+
+**[[Gedankenwelten/DenkerVita/Teresa Bücker|Teresa Bücker]]** — Journalistin, Autorin; Zeitgerechtigkeit, Zeitwohlstand, Sorgearbeit; NDR Sachbuchpreis 2023 für *Alle_Zeit*
+
+**[[Gedankenwelten/DenkerVita/Thich Nhat Hanh|Thich Nhat Hanh]]** — Zen-Meister, Engaged Buddhism, Plum Village; Vier Edle Wahrheiten als Interbeing-Verbund, Sahabhū, Vier Nährstoffe
+
+**[[Gedankenwelten/DenkerVita/Tilo Jung|Tilo Jung]]** — Politikjournalist, Gründer Jung & Naiv; transparenter Journalismus, Suffizienz statt Wachstum, marxistische Kapitalismuskritik, Grimme Online Award
+
+**[[Gedankenwelten/DenkerVita/Torsten Heinrich|Torsten Heinrich]]** — Historiker, YouTuber „Militär & Geschichte"; Neutralität vs. Objektivität, Quellenkritik, Jus ad bellum vs. Jus in bello
+
+## U
+
+## V
+
+## W
+
+**[[Gedankenwelten/DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
+
+**[[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]]** — Filmkritiker, YouTuber, Marxist; Die Filmanalyse, Wohlstand für Alle, Die Neuen Zwanziger; Ideologiekritische Filmanalyse, Kulturindustrie 2.0
+
+## X
+
+## Y
+
+## Z
 
 ---
-- [[Gedankenwelten/DenkerVita/Gilda Sahebi|Gilda Sahebi]] — Deutsch-iranische Journalistin, Autorin. Expertise: autoritäre Systeme, Rassismus, Iran. Politikjournalistin des Jahres 2022.
-- [[Gedankenwelten/DenkerVita/Arne Semsrott|Arne Semsrott]] — Journalist, Aktivist, Projektleiter FragDenStaat. Pressefreiheit, Informationsfreiheit, Anti-Rechtsextremismus.
-- [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]] — Filmkritiker, YouTuber, Marxist. Ideologiekritische Kulturanalyse, Die Filmanalyse, Wohlstand für Alle, Die Neuen Zwanziger.
-- [[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz]] — Soziologe, Autor. Demografie, Medienwandel, Spontanhistorisierung, Die Neuen Zwanziger.
 
-## Heiner Flassbeck
-[[Gedankenwelten/DenkerVita/Heiner Flassbeck]] — Ökonom, ehem. Staatssekretär BMF unter Lafontaine, Chefökonom UNCTAD. Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden. Keynesianischer Einzelkämpfer im ordoliberalen Deutschland.
-
-## Darin L. Gerdes
-[[Gedankenwelten/DenkerVita/Darin L. Gerdes]] — Leadership-Professor; Ukraine-Krieg aus Leadership-Perspektive, „Reagan-Republican who fully supports Ukraine", tägliche YouTube-Analysen
-
-## Tilo Jung
-[[Gedankenwelten/DenkerVita/Tilo Jung]] — Politikjournalist, Gründer Jung & Naiv; transparenter Journalismus, Suffizienz statt Wachstum, marxistische Kapitalismuskritik, Grimme Online Award
-
-## Torsten Heinrich
-[[Gedankenwelten/DenkerVita/Torsten Heinrich]] — Historiker, YouTuber „Militär & Geschichte"; Neutralität vs. Objektivität, Quellenkritik, Jus ad bellum vs. Jus in bello, Ex-AfD, lebt in Panama
-
-## Markus Reisner
-[[Gedankenwelten/DenkerVita/Markus Reisner]] — Militäranalyst, Oberst des Generalstabs; Drohne als Paradigmenwechsel, Asymmetrie moderner Kriegsführung, Drohnenabwehr als kritische Lücke, sechs Auslandseinsätze
-
-## Bernhard Pörksen
-[[Gedankenwelten/DenkerVita/Bernhard Poerksen]] — Medienwissenschaftler; Filterclash, Konstruktivismus als Korrektiv, Du-Ohr-Zuhören
-
-## Theodor W. Adorno
-[[Gedankenwelten/DenkerVita/Theodor W. Adorno]] — Philosoph, Soziologe, Mitbegründer der Kritischen Theorie; Negative Dialektik, Kulturindustrie, Verblendungszusammenhang, „Es gibt kein richtiges Leben im Falschen"
-
-## Albert Camus
-[[Gedankenwelten/DenkerVita/Albert Camus]] — Schriftsteller, Philosoph (*1913, Mondovi – †1960, Villeblevin); *Der Mythos des Sisyphos* (1942), *Der Fremde* (1942), *Der Mensch in der Revolte* (1951) — Absurdismus, Revolte statt Revolution, „Wir müssen uns Sisyphos als einen glücklichen Menschen vorstellen"
-
-## Julia Friedrichs
-[[Gedankenwelten/DenkerVita/Julia Friedrichs]] — Preisgekrönte Journalistin, Dokumentarfilmerin (ARD, ZDF, Die Zeit); Autorin *Crazy Rich* (2024); Kategorienfehler Einkommen vs. Vermögen, Steuervermeidungsindustrie, Parallelgesellschaft der Überreichen, kognitive Grenzen der Demokratie
-
-## Arthur Schopenhauer
-[[Gedankenwelten/DenkerVita/Arthur Schopenhauer]] — Philosoph; Wille zum Leben, sechsfaches Leiden, Pessimismus, Brücke zum Buddhismus
-
-## Immanuel Kant
-[[Gedankenwelten/DenkerVita/Immanuel Kant]] — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, Ding an sich, Sapere aude — Begründer der modernen Erkenntnistheorie und universellen Ethik
-
-## Karl Marx
-[[Gedankenwelten/DenkerVita/Karl Marx]] — Philosoph, Ökonom; Historischer Materialismus, Basis-Überbau, Mehrwerttheorie, Akkumulation, Verelendung, Klassenkampf — „Das Sein bestimmt das Bewusstsein"
-
-## Walther Ziegler
-[[Gedankenwelten/DenkerVita/Walther Ziegler]] — Philosoph, Hochschuldozent; Reihe „Große Denker in 60 Minuten" (25+ Titel), philosophische Tiefe in allgemeinverständlicher Sprache, 9 Notes im Vault
-
-## Marie-Agnes Strack-Zimmermann
-[[Gedankenwelten/DenkerVita/Marie-Agnes Strack-Zimmermann]] — FDP-Politikerin, MdEP; Vorsitzende EP-Verteidigungsausschuss, lauteste Stimme für europäische Verteidigungsautonomie und Ukraine-Unterstützung
-
-## Marc Felix Serrao
-[[Gedankenwelten/DenkerVita/Marc Felix Serrao]] — Journalist, Chefredakteur NZZ Deutschland; konservativ-liberale Stimme, Differenzierung vs. Pauschalisierung, Aufklärungserbe als europäischer Kern
-
-## Nicole Deitelhoff
-[[Gedankenwelten/DenkerVita/Nicole Deitelhoff]] — Politikwissenschaftlerin, PRIF/HSFK; Internationale Normen, Opposition als produktive Kraft, Streitkultur, Co-Moderatorin StreitClub
-
-## Michel Friedman
-[[Gedankenwelten/DenkerVita/Michel Friedman]] — Jurist, Publizist, Fernsehmoderator; Holocaust-Überlebende als Eltern, radikaler Aufklärer, Antisemitismus-Kritik, Streitkultur als Demokratiepraxis
-
-## Franz Kafka
-[[Gedankenwelten/DenkerVita/Franz Kafka]] — Schriftsteller, philosophischer Anthropologe (1883–1924); Seil-Metapher, Totsagen/sozialer Tod, kafkaeskes Ausgeliefertsein, Seinszuspruch und Potenzialität — „Niemand kann seine eigene Sonne sein"
-
-## Martin Heidegger
-[[Gedankenwelten/DenkerVita/Martin Heidegger]] — Philosoph (1889–1976); Begründer der Fundamentalontologie, Autor von *Sein und Zeit*, Technik-Kritiker (Gestell), umstritten wegen NSDAP-Mitgliedschaft
-
-## John Rawls
-[[Gedankenwelten/DenkerVita/John Rawls]] — Politischer Philosoph (1921–2002); bedeutendster des 20. Jahrhunderts, Schleier des Nichtwissens, Urzustand, Differenzprinzip, *A Theory of Justice* — „Die Gerechtigkeit ist die erste Tugend sozialer Institutionen"
-
-## René Descartes
-[[Gedankenwelten/DenkerVita/Rene Descartes]] — Philosoph, Mathematiker (1596–1650); Begründer des Rationalismus, „Vater der modernen Philosophie", Cogito ergo sum, methodischer Zweifel, Cartesischer Dualismus
-
-## Markus Gabriel
-[[Gedankenwelten/DenkerVita/Markus Gabriel]] — Philosoph, Bestsellerautor (*1980, Remagen); Sinnfeldontologie, Neuer Realismus, moralischer Universalismus, ethischer Kapitalismus, Ethical Literacy — „Die anderen könnten recht haben"
-
-## Steffen Mau
-[[Gedankenwelten/DenkerVita/Steffen Mau]] — Makrosoziologe (*1968, Rostock); Triggerpunkte statt Spaltung, Polarisierungsunternehmer, Veränderungsmüdigkeit, Sortiermaschinen, ideologische Verwirrung der Meritokratie — *Triggerpunkte*, *Lütten Klein*, *Ungleich vereint*
-
-## Götz Aly
-[[Gedankenwelten/DenkerVita/Götz Aly]] — Zeithistoriker, Journalist; Entmystifizierung des NS, materielle Integration als Herrschaftsinstrument, Antisemitismus als Neidstruktur, Chemie-Modell — *Hitlers Volksstaat* (2005), *Wie konnte das geschehen?* (2025)
-
-## Gerald Hüther
-[[Gedankenwelten/DenkerVita/Gerald Hüther]] — Neurobiologe, Bestsellerautor (*1951, Emleben/Thüringen); Selbstorganisation und Kohärenz, Subjekt-vs-Objekt, Potenzialentfaltung, Hierarchien am Ende, Lebendigkeit, Einladen-Ermutigen-Inspirieren — Akademie für Potentialentfaltung, *Würde*, *Was wir sind und was wir sein könnten*
-
-## Liya Yu
-[[Gedankenwelten/DenkerVita/Liya Yu]] — Politikwissenschaftlerin, neuropolitische Philosophin (Hunan/Deutschland); Mitbegründerin der Neuropolitik, Dehumanisierung als kognitive Fähigkeit, Mentalisierung als Schlüssel zur In-Group-Erweiterung — *Vulnerable Minds* (2022), *Hirn statt Moral* (2026)
-
-## Renée DiResta
-[[Gedankenwelten/DenkerVita/Renee DiResta]] — Forscherin, Autorin (*1983, USA); dezentralisierte Propaganda, Influencer-Mechanik, Algorithmen als Verstärker, Lawfare gegen Forschung — *Invisible Rulers: The People Who Turn Lies into Reality* (2024)
-
-## Dirk von Petersdorff
-[[Gedankenwelten/DenkerVita/Dirk von Petersdorff]] — Literaturwissenschaftler, Lyriker (*1966, Kiel); Freiheitsgewinn durch Wahrheitsverlust, Ironie als produktive Selbstdistanz, Leichtigkeit als historisches Lebensgefühl — *Wir Kinder der Leichtigkeit* (2025), *Geschichte der deutschen Lyrik* (2008)
-
-## Niclas Seydack
-[[Gedankenwelten/DenkerVita/Niclas Seydack]] — Publizist, Reporter (*1990, Ostsee); Scharnier-Generation zwischen Sorglosigkeit und Dauerkrise, Neoliberalismus als letzte große Erzählung, Humor als Notwehr — *Geile Zeit* (2024)
-
-## Natalie Amiri
-[[Gedankenwelten/DenkerVita/Natalie Amiri]] — Deutsch-iranische Journalistin, ARD-Weltspiegel-Moderatorin (*1978, München); Gottesstaat → Militärdiktatur, doppelte Innenperspektive, Exil-Journalismus, Regime vs. Bevölkerung — *Zwischen den Welten* (2021), *Der Nahost-Komplex* (2025)
-
-## Isabell Lorey
-[[Gedankenwelten/DenkerVita/Isabell Lorey]] — Politikwissenschaftlerin, Professorin für Queer Studies an der KHM Köln (*1964); gouvernementale Prekarisierung, Biopolitik, Immunisierung, präsentistische Demokratie, Sorgebeziehungen — *Die Regierung der Prekären* (2012), *Demokratie im Präsens* (2020)
-
-## Alex Demirović
-[[Gedankenwelten/DenkerVita/Alex Demirovic]] — Sozialwissenschaftler, Kritische Theorie, Senior Fellow Rosa-Luxemburg-Stiftung (*1952, Darmstadt); materialistische Staatstheorie (Poulantzas), Demokratietheorie, Host des tl;dr Podcasts — *Der nonkonformistische Intellektuelle* (1999/2023), *Marx als Demokrat* (2025)
-
-## Ronen Steinke
-[[Gedankenwelten/DenkerVita/Ronen Steinke]] — Journalist, Sachbuchautor, Jurist (*1983, Erlangen); SZ-Korrespondent, Lehrbeauftragter Goethe-Universität Frankfurt; Meinungsfreiheit, Verfassungsschutz, Klassenjustiz, Fritz Bauer — *Fritz Bauer. Oder: Auschwitz vor Gericht* (2013), *Meinungsfreiheit* (2026)
-
-## Dominik Finkelde
-[[Gedankenwelten/DenkerVita/Dominik Finkelde]] — Philosophieprofessor, Jesuit (SJ), Hochschule für Philosophie München; Erkenntnistheorie, Philosophie des Geistes, Lacan, Žižek, Subjektivität als Exzess — *Excessive Subjectivity* (2020), *Das Objekt, das zu viel wusste* (2022)
-
-## Rebecca Böhme
-[[Gedankenwelten/DenkerVita/Rebecca Boehme]] — Neurowissenschaftlerin, Assistenzprofessorin Universität Linköping (Schweden); Predictive Brain, Embodied Self, Berührung, Reappraisal, Resilienz — *Human Touch* (2019), *Resilienz* (2021), *The Power of the Mind* (2025)
-
-## Christian Jakob
-[[Gedankenwelten/DenkerVita/Christian Jakob]] — Journalist taz, Ressort Reportage und Recherche (*1979, Quakenbrück); Migration, Menschenrechte, Desinformation, Asylpolitik — *Die Bleibenden* (taz), *Europa macht dicht* (2011)
-
-## Marina Klimchuk
-[[Gedankenwelten/DenkerVita/Marina Klimchuk]] — Freie Journalistin (ZEIT, taz, Stern, GEO); Migration, Erinnerungskultur, USA; VDRJ-Preis 2025 für *Der Bus*, Helmut-Stegmann-Preis für *Nahes fernes Heimatland*
-
-## Martin Sonneborn
-[[Gedankenwelten/DenkerVita/Martin Sonneborn]] — Satiriker, Ex-Chefredakteur *Titanic*, Gründer Die PARTEI, MdEP 2014–2024; EU-Intransparenz, Rüstungslobbyismus, Anti-Militarismus — *Herr Sonneborn geht nach Brüssel* (2019)
-
-## Michael Sterner
-[[Gedankenwelten/DenkerVita/Michael Sterner]] — Professor Energiespeicher/Energiesysteme OTH Regensburg, Mitentwickler Power-to-Gas, Bayerischer Energiebeirat; Fachbücher bei Springer, YouTube-Kommunikator
-
-## Heinz Bude
-[[Gedankenwelten/DenkerVita/Heinz Bude]] — Soziologe, em. Professor Makrosoziologie (Universität Kassel), Gründungsdirektor documenta-Institut (*1954, Wuppertal); *Deutsche Karrieren* (1987), *Gesellschaft der Angst* (2014), *Abschied von den Boomers* (2024)
-
-## Daniel Markovits
-[[Gedankenwelten/DenkerVita/Daniel Markovits]] — Jurist, Rechtsphilosoph, Yale Law School (*1969, Bukarest); *The Meritocracy Trap* (2019) — die meritokratische Falle als systemische Analyse von Kastenbildung, Selbstausbeutung und Populismus
-
-## David Chalmers
-[[Gedankenwelten/DenkerVita/David Chalmers]] — Philosoph des Geistes, NYU (*1966, Sydney); *The Conscious Mind* (1996), *Reality+* (2022) — Hard Problem of Consciousness, Panpsychismus, Philosophical Zombies
-
-## Nico Semsrott
-[[Gedankenwelten/DenkerVita/Nico Semsrott]] — Kabarettist, Satiriker, ehem. EU-Abgeordneter (*1986, Hamburg); *Brüssel sehen und sterben* (2024) — Transparenz-Aktivismus, EU-Parlamentskritik, PRÜF-Kampagne
-
-## Julie Pagis
-[[Gedankenwelten/DenkerVita/Julie Pagis]] — Soziologin am CNRS/IRIS-EHESS (*1980, Reilhanette); *Le prophète rouge* (2024) — charismatische Herrschaft, Herrschaft vs. Beherrschen, Weber-Analyse am politischen Einzelfall
-
-## Konfuzius
-[[Gedankenwelten/DenkerVita/Konfuzius]] — Philosoph, Ethiker (*551 v. Chr., Qufu — †479 v. Chr.); Achsenzeit-Denker neben Sokrates und Buddha — Ren (Mitmenschlichkeit), Goldene Regel, fünf Kardinaltugenden, Junzi (edler Mensch), Dao als aktive Selbstkultivierung
-[[Gedankenwelten/DenkerVita/Sigmund Freud]] — Arzt und Begründer der Psychoanalyse (*1856 Freiberg/Mähren — †1939 London); *Die Traumdeutung* (1900), *Das Ich und das Es* (1923) — Unbewusstes, Triebtheorie, Ödipuskomplex, Es/Ich/Über-Ich, Psychoanalyse als reines Gespräch
-
-## Ludwig Wittgenstein
-[[Gedankenwelten/DenkerVita/Ludwig Wittgenstein]] — Philosoph (*1889, Wien — †1951, Cambridge); Begründer der Sprachphilosophie, Linguistic Turn — Bildtheorie des Tractatus, Sprachspiele als Lebensformen, „Wovon man nicht sprechen kann, darüber muss man schweigen"
+### Siehe auch
+- [[Gedankenwelten/DenkerVita/Adriaan van Wagensveld|Adriaan van Wagensveld]] — Vipassana-Lehrer (Plum Village-Tradition); Bodhisattva-Ideal, Ksitigarbha: Wunden als Schatz
+- [[Gedankenwelten/DenkerVita/Albert Camus|Albert Camus]] — (Vollanalyse vorhanden)
+- [[Gedankenwelten/DenkerVita/Alex Demirovic|Alex Demirović]] — Sozialwissenschaftler, Senior Fellow Rosa-Luxemburg-Stiftung; Staat als Verdichtung von Kräfteverhältnissen, Wirtschaftsdemokratie
+- [[Gedankenwelten/DenkerVita/Arne Semsrott|Arne Semsrott]] — Journalist, Aktivist, Projektleiter FragDenStaat; Pressefreiheit, Informationsfreiheit, Anti-Rechtsextremismus
+- [[Gedankenwelten/DenkerVita/Arthur Schopenhauer|Arthur Schopenhauer]] — Philosoph; Blinder Wille zum Leben, sechsfaches Leiden, Mitleid als Moralbasis
+- [[Gedankenwelten/DenkerVita/Christian Jakob|Christian Jakob]] — Journalist taz; Migrationsframing als Rechtsverschiebung, Kulturkampf in Ministerien, Zivilgesellschaft
+- [[Gedankenwelten/DenkerVita/Daniel Markovits|Daniel Markovits]] — Jurist, Rechtsphilosoph Yale Law School; Meritokratische Falle, Income Defense Industry, Populismus als rationale Reaktion
+- [[Gedankenwelten/DenkerVita/Franz Kafka|Franz Kafka]] — Schriftsteller; Existenzielle Angewiesenheit, Totsagen als sozialer Tod, Seinszuspruch
+- [[Gedankenwelten/DenkerVita/Maja Goepel|Maja Göpel]] — Politische Ökonomin; Systemwandel, planetare Grenzen, Narrative des Wandels, Scientists for Future
+- [[Gedankenwelten/DenkerVita/Marlene Engelhorn|Marlene Engelhorn]] — Österreichische BASF-Erbin; Tax Me Now; relationale Kritik: Geld arbeitet nicht, Menschen arbeiten
+- [[Gedankenwelten/DenkerVita/Marie-Agnes Strack-Zimmermann|Marie-Agnes Strack-Zimmermann]] — FDP-Politikerin, MdEP; Europäische Verteidigungsautonomie, panneuropäische Allianzbildung
+- [[Gedankenwelten/DenkerVita/Natalie Amiri|Natalie Amiri]] — Deutsch-iranische Journalistin, ARD-Weltspiegel-Moderatorin; Gottesstaat → Militärdiktatur, doppelte Innenperspektive
+- [[Gedankenwelten/DenkerVita/Nico Semsrott|Nico Semsrott]] — (Vollanalyse vorhanden)
+- [[Gedankenwelten/DenkerVita/René Descartes|René Descartes]] — Philosoph, Mathematiker; Begründer Rationalismus, „Vater der modernen Philosophie"
+- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka]] — Laienlehrer, Vipassana-Meditation; industrieller aus Burma; 340+ Zentren in 94 Ländern, alle kostenlos
+- [[Gedankenwelten/DenkerVita/Sigmund Freud|Sigmund Freud]] — Arzt, Neurologe, Begründer der Psychoanalyse; Unbewusstes, Ödipuskomplex, Sublimierung
+- [[Gedankenwelten/DenkerVita/Karl Marx|Karl Marx]] — Philosoph, Ökonom; Historischer Materialismus, Basis-Überbau-Theorie, Mehrwerttheorie
+- [[Gedankenwelten/DenkerVita/Marina Klimchuk|Marina Klimchuk]] — Freie Journalistin; USA, Migration, Erinnerungskultur; VDRJ-Preis 2025

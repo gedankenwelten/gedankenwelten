@@ -218,3 +218,7 @@ Presseclub debattiert Solarförderungs-Streichung — vor dem Hintergrund der hi
 ### → [[Daniel - Weidel beim Schwurblertreff AWEF]]
 
 Weidel fordert beim AWEF Rückkehr zur Kernkraft — ohne die historischen Subventionskosten zu erwähnen
+
+### → [[Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
+
+Sterner setzt die Subventionsgeschichte in politische Handlung um: Söders Forderung nach Kernkraft und Fossilen ignoriert die 287 Mrd. € historische Förderung. Der Vergleich zeigt, warum Erneuerbare trotz scheinbarer Startkosten die günstigere Option sind.

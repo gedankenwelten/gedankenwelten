@@ -295,3 +295,7 @@ Bürgerenergie als systematische Auflösung der strukturellen Ölabhängigkeit �
 ### → [[Natalie Amiri — Hoelle auf Erden im Iran]]
 
 Kemferts Warnung vor Energieabhängigkeit wird durch Amiri konkret: Iran sitzt auf Ölreserven, kann aber nicht liefern — Hormus-Blockade als Realitätscheck.
+
+### → [[Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
+
+Sterner wendet Kemferts 'Fossilokratie'-Diagnose auf den konkreten Fall Söder an: Wer Kernkraft und Fossil fordert, macht sich von russischem Uran und nahöstlichem Öl abhängig — das ist der Kern des erpressbaren Deutschlands.

@@ -205,3 +205,7 @@ Direkte Verbindung zur Ellabell-Razzia: Hier packt ein ICE-Whistleblower über s
 ### → [[MONITOR — Abschiebungen vs. Fachkräfte]]
 
 Deutsches Pendant zur Ellabell-Logik: Hochqualifizierte Fachkräfte werden abgeschoben, während die Wirtschaft nach Arbeitskräften schreit. Südkoreanische Ingenieure in Georgia, Fachkräfte in Deutschland — in beiden Ländern wird die Abschiebungslogik gegen ökonomische Rationalität durchgesetzt.
+
+### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+
+Beide ziehen dieselbe Jahresbilanz Schwarz-Rot — diese Note von innen (Ministerien), der Entscheidende Punkt von außen. Katharina Reiche als Klimakonsens-Brecherin ist in beiden Notes zentrales Symptom von Merz' Führungsversagen.

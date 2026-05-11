@@ -169,3 +169,11 @@ Zöcklers Quartiersversorgung (Solar + Speicher + Ladesäulen) als konkretes Bei
 Sterner liefert die politischen Hürden (StromVKG, drei Paragraphen gegen Speicher) und zwei konkrete Technologie-Alternativen (CO2-Batterie, Eisen-Luft), die Goldbachs Marktzahlen ergänzen: Die Technologie ist nicht nur marktreif — sie wird aktiv ausgesperrt.
 
 
+
+### → [[Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
+
+Sterners Power-to-Gas + Biogas (Langzeit) ergänzt Goldbachs Batterien (Kurzzeit) zum vollständigen Speicher-Portfolio. Zusammen entkräften sie Söders 'Erneuerbare reichen nicht' — aus zwei unabhängigen wissenschaftlichen Perspektiven.
+
+### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
+
+Specht liefert die systemische Erklärung für Goldbachs Kernthese: Batteriespeicher werden nicht aus Unwissenheit ignoriert, sondern weil sie im direkten Wettbewerb mit Gaskraftwerken stehen — und die Lobby dagegenhält. Specht bestätigt Goldbachs internationale Perspektive durch Marktdaten aus Kalifornien, Texas und Australien.

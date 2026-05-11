@@ -133,6 +133,10 @@ Butterwegge ist klar: Steuern und Umsteuern alleine reichen nicht. Es braucht ei
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
+
+Butterwegge analysiert Armut als Strukturproblem; Steinhaus bringt dasselbe Argument in die phoenix-Runde — die Runde zeigt die politischen Kräfte, die Butterwegges Forderungen blockieren.
+
 ### → [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 Fricke analysiert denselben Mechanismus: wirtschaftliche Unsicherheit und Ungleichheit als Treibstoff für den Rechtsruck; Butterwegge benennt die strukturellen Ursachen, Fricke die politischen Konsequenzen

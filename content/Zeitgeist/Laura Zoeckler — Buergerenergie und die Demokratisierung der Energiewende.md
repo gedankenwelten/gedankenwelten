@@ -200,3 +200,11 @@ Göpels Agency-Konzept liefert den theoretischen Rahmen für Zöcklers Bürgeren
 ### → [[Akkudoktor — Lanz und die Energiewende]]
 
 Dezentrale Realität widerlegt Lanz-Narrativ: Was als „Stillstand" geframt wird, zeigt sich in 47% Erneuerbaren-Kapazität in Bürgerhand
+
+### → [[Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
+
+Sterners regionale Wertschöpfungs-Argument (Erneuerbare als heimische Industrie) findet bei Zöckler seine politische Konsequenz: 40% Erneuerbaren-Kapazität in Bürgerhand untermauert das Strauß-Autarkie-Argument empirisch.
+
+### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
+
+Zöcklers Bürgerenergiegenossenschaften sind das europäische Gegenstück zu Spechts chinesischem Direktversorgungsmodell: beide umgehen die Merit-Order-Strombörse — einmal durch staatliche Festpreisauktionen, einmal durch demokratisch organisierte Eigenversorgung zu Produktionskosten.

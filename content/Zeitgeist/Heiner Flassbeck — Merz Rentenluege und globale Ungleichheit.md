@@ -91,6 +91,10 @@ Flassbeck entlarvt den logischen Kurzschluss mit seinem Lieblingsargument, dem S
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
+
+Gottschalks Flat-Tax-Vorschlag (25% auf alles) steht in direktem Widerspruch zu Flassbecks Analyse: Kapitalerträge bevorzugen, schwächt die Nachfrageseite und verschärft die Ungleichheit, die die Runde zu beheben vorgibt.
+
 ### → [[Heiner Flassbeck — Krise und Rechtsruck]]
 
 Das Sparparadoxon hier ist eine direkte Anwendung der Saldenmechanik aus der Denker-Note: Kapitaldeckung bei Renten widerspricht der eigenen Logik. Die neue Note liefert den konkreten Politikfall (Merz' Rentenreform) zum theoretischen Framework.
@@ -134,3 +138,7 @@ Flassbeck liefert hier das Fundament für die Rentenkritik: den geschlossenen Zi
 ### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Flassbeck liefert die makroökonomische Mechanik (Sparparadoxon, r > g) für Kühnerts 6%-Rendite-Unterstellungs-Modell in Studio Bonn. Beide decken denselben blinden Fleck: Wer nur Einkommen analysiert, übersieht die selbstverstärkende Logik der Kapitalbestände.
+
+### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+
+Flassbecks Sparparadoxon demontiert theoretisch, was Herrmann in der Bilanz-Runde praktisch benennt: Steuergeschenke für Reiche erzeugen keine Investitionen — weil Kapital ohne Nachfrage nicht investiert wird.
