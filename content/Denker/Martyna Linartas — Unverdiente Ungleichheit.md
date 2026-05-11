@@ -163,6 +163,10 @@ Quelle: [Ungleichheitsforscherin Martyna Linartas über Umverteilung von Reichtu
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
+
+Steinhaus' Satz „Deutschland ist keine Leistungsgesellschaft, sondern eine Erbengesellschaft" ist fast wörtlich Linartas' Kernthese — die phoenix Runde illustriert die politischen Widerstände gegen ihre Befunde in Echtzeit.
+
 - [[Christoph Butterwegge — Armut NEU DENKEN]] — Butterwegge analysiert Armut als Strukturproblem; Linartas ergänzt die Vermögensseite — beide zeigen, dass die Schere aktiv politisch produziert wird, nicht "natürlich" entsteht
 - [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Fricke zeigt, wie Austeritätspolitik den Rechtsruck befördert; Linartas liefert die Vorgeschichte: die neoliberale Vermögensumverteilung nach oben
 - [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Manow: Globalisierungsverlierer wählen autoritär; Linartas: Die Verlierer entstehen durch Erbschafts- und Vermögensungleichheit — strukturelle Verbindung

@@ -194,3 +194,7 @@ Vertieft einen in dieser ARTE-Note nur angerissenen Pfad: CO₂-Geothermie als g
 ### → [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
 
 Zöcklers Bürgerenergie-Modell als deutsches Pendant zu Großbardorf und Energiegarten Grensfeen.
+
+### → [[Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
+
+Sterner beschreibt theoretisch, was die ARTE-Doku in Großbardorf zeigt: Biogas als bayerischer 'Max' (Pik-Ass). Das fränkische 100%-Dorf ist der empirische Beweis für Sterners Biogas-als-Speicher-Argument gegen Söder.

@@ -352,6 +352,7 @@ Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblö
 - [[Martyna Linartas — Unverdiente Ungleichheit]] — Linartas ergänzt Manows Makrosoziologie um die Verteilungsebene: die "Öffnungsverlierer" entstehen strukturell durch Erbschafts- und Vermögensungleichheit, die soziale Mobilität blockiert
 
 - [[Helen Keller — Voelkerrecht zahnloser Tiger]] — Keller ergänzt Manows Innenperspektive auf Demokratieerosion um die Außendimension: Trump ist nicht nur Symptom einer gespaltenen Wählerschaft, sondern ein global wirksamer Rechtsstaatszerstörer — Manow erklärt den Aufstieg, Keller die institutionellen Folgen.
+- [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]] — Von Luckes Selbstkritik ("Ich hatte Hoffnung in die Lernfähigkeit") ist genau der demokratische Optimismus, den Manow als strukturell naiv demontiert: Parteien lernen nicht, wenn Souveränitätsverluste die Anreize verzerren.
 - [[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz]] — Höfgens Reallohn- und Vermögensdaten liefern die materielle Grundlage für Manows These der materiellen Abstiegsängste als AfD-Treiber
 - [[MONITOR — Minijobs als Armutsfalle]] — Minijobber ohne Arbeitslosenschutz und Rentenansprüche sind exakt die „Abgehängten", deren Frustration in Manows Analyse autoritäre Wahlerfolge befeuert
 - [[Steffen Mau — Spaltung der Gesellschaft]] — Maus Triggerpunkte-Studie ergänzt Manows Wähleranalyse soziologisch: nicht die Gesellschaft ist gespalten, sondern gezielte Triggerpunkte erzeugen Erregungszustände, die Polarisierungsunternehmer in Wahlstimmen übersetzen

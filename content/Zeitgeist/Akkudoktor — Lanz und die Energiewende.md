@@ -144,3 +144,7 @@ Spiegelbildliche Methodik: Buchinger entlarvt statistische Manipulation pro Kern
 ### → [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
 
 Die 47 % Erneuerbaren-Kapazität in Bürgerhand ist das stärkste Gegenargument zur Lanz-These „Energiewende dreht sich im Kreis": Was medial als Scheitern geframt wird, ist dezentral bereits Realität.
+
+### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
+
+Spechts "Primärenergieirrtum" ist die systemische Erklärung für Akkudoktors "Primärenergie-Falle": Beide benennen denselben statistischen Mechanismus, mit dem effiziente Erneuerbare kleiner erscheinen als sie sind — Specht von der ökonomischen, Akkudoktor von der medienkritischen Seite.

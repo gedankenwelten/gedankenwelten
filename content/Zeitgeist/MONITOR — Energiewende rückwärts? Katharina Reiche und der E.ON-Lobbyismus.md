@@ -258,3 +258,15 @@ Mediale Verlängerung der Lobby-Pipeline: Was MONITOR als Politik-Lobbyismus dok
 ### → [[Michael Sterner — Reiche gegen Marktwirtschaft]]
 
 Sterner konkretisiert die MONITOR-Kritik in Gesetzesform: Das StromVKG schließt Batterien durch die 10+1-Stunden-Regel und Resilienz-Klausel gezielt aus — die legislative Umsetzung des Drehtür-Lobbyismus.
+
+### → [[Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
+
+Sterner zeigt Reiche und Söder als zwei Seiten desselben politischen Blocks: Söder liefert das Narrativ (Erneuerbare sind ein Traum), Reiche blockiert legislativ — MONITOR dokumentiert den strukturellen Drehtür-Mechanismus dahinter.
+
+### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
+
+Specht liefert die marktwirtschaftliche Analyse des von MONITOR dokumentierten Lobbyismus: Kraftwerksbetreiber blockieren Batteriespeicher, weil das ihr Geschäftsmodell bedroht. MONITOR zeigt den politischen Mechanismus (Drehtür), Specht die ökonomische Logik dahinter.
+
+### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+
+Die Bilanz-Runde nennt Reiche "Kommunikationsdesaster" und Symptom von Merz' Führungsvakuum — diese MONITOR-Recherche liefert den investigativen Hintergrund: Drehtür zwischen CDU-Politik und E.ON-Lobby als strukturelle Erklärung für ihre Energiepolitik.

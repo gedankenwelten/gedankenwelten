@@ -206,3 +206,7 @@ Sterner liefert die wissenschaftliche Innensicht zur Reiche-Kritik: Als Forscher
 ### → [[Michael Sterner — Reiche gegen Marktwirtschaft]]
 
 Sterner analysiert das StromVKG im Detail: drei Paragraphen, die Batteriespeicher durch die 10+1-Stunden-Regel, Resilienz-Klausel und H2-Readiness-Vorgaben aussperren. Die Presseclub-Kritik an selektiver „Technologieoffenheit" bekommt hier den konkreten Gesetzestext — und zwei Technologie-Alternativen (CO2-Batterie, Eisen-Luft), die bei echtem Wettbewerb antreten könnten.
+
+### → [[Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
+
+Sterner liefert den wissenschaftlichen Faktencheck zu Söders Position — die der Presseclub aus journalistischer Metaperspektive debattiert. Die Netzpaket-Kritik und der Batteriespeicher-Streit werden hier mit Studienlage und Bayern-Ranking belegt.

@@ -172,3 +172,7 @@ Presseclub zeigt dasselbe CDU-Muster: Expertenkonsens ignorieren zugunsten indus
 ### → [[MONITOR — Fleischindustrie Menschen als Ware]]
 
 Globale Dimension des Minijob-Prinzips: Hier der Minijobber in Altersarmut, dort der indische Arbeiter mit 10.000 Euro Schulden bei 14,50 EUR Stundenlohn. Die Fleischindustrie-Recherche zeigt den Extremfall, Minijobs die Normalisierung — beides Varianten derselben Logik: Menschen als disponible Kostenfaktoren.
+
+### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+
+Minijobs als Mikrobeispiel für Herrmanns Makro-Diagnose: "Oben wird gegeben, unten wird genommen." CDU verteidigt das Minijob-System gegen IAB/ifo/OECD-Konsens — dieselbe Struktur wie bei der Steuerreform.
