@@ -12,12 +12,16 @@
 Beim ersten Message des Users in einer neuen Session:
 
 ```bash
-find content/{Denker,Zeitgeist,Gedanken,Panorama,Vipassana} -name "*.md" 2>/dev/null | wc -l
+test -f .claude/.welcomed && echo "returning" || echo "new"
 ```
 
-**0 Notes (frischer Clone):** Den User willkommen heißen. Kurz erklären was Gedankenwelten ist, was hier entsteht und wie man loslegt. Auf `/gedankenwelten-note-pipeline` und `docker compose up` hinweisen. Fragen womit er starten möchte — erstes Video, einen bestehenden Text, oder erstmal die Wiki hochfahren.
+**`new` (Datei fehlt — frischer Clone):**
+Den User willkommen heißen. Kurz erklären was Gedankenwelten ist, was hier entsteht und wie man loslegt. Auf `/gedankenwelten-note-pipeline` und `docker compose up` hinweisen. Fragen womit er starten möchte. Danach die Datei anlegen:
+```bash
+touch .claude/.welcomed
+```
 
-**Notes vorhanden:** Direkt in die Arbeit — kein Begrüßungs-Overhead.
+**`returning` (Datei existiert):** Direkt in die Arbeit — kein Begrüßungs-Overhead.
 
 ---
 
