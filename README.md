@@ -126,11 +126,45 @@ Die vollständige Pipeline-Dokumentation (8 Schritte, Qualitätsstandard, Tag-Ta
 
 ---
 
-## Mitmachen
+## Mitmachen — Fork & Pull Request
 
-Contributions willkommen — als Pull Request mit neuer Note oder Ergänzung.
+Gedankenwelten lebt von Beiträgen. Das Modell ist einfach: **Fork → eigene Note schreiben → Pull Request**.
 
-Qualitätskriterien: Faktencheck vorhanden, Quellen verlinkt, analytisch statt zusammenfassend.
+```
+1. Fork: github.com/gedankenwelten/gedankenwelten → "Fork" oben rechts
+2. Clone deinen Fork:
+   git clone https://github.com/DEIN-USERNAME/gedankenwelten
+   cd gedankenwelten
+
+3. Wiki starten (optional, zum lokalen Vorschauen):
+   docker compose up   →   http://localhost:9999
+
+4. KI-Tool starten und Note erstellen:
+   claude              →   /gedankenwelten-note-pipeline
+   gemini / codex / aider — funktionieren genauso
+
+5. Commit & Push in deinen Fork:
+   git add -A && git commit -m "note-pipeline: Autor — Thema"
+   git push origin main
+
+6. Pull Request auf GitHub öffnen
+   github.com/gedankenwelten/gedankenwelten → "New Pull Request"
+```
+
+**Was reviewed wird:**
+- Ist es eine Analyse, keine Zusammenfassung?
+- Faktencheck vorhanden bei Zeitgeist-Notes?
+- Quellen verlinkt, Zitate mit Timestamps?
+- `## Weiterdenken` mit echten offenen Fragen?
+
+Die KI-Pipeline (Aristoteles, Sokrates, Sherlock, Montaigne) hilft beim Einhalten des Standards — sie ist genau dafür da.
+
+**Tipp:** Wer das Repo forkt und regelmäßig Beiträge plant, sollte es mit dem Original synchron halten:
+
+```bash
+git remote add upstream https://github.com/gedankenwelten/gedankenwelten.git
+git pull upstream main
+```
 
 ---
 
