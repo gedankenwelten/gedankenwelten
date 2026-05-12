@@ -379,6 +379,8 @@ git add -A && git commit -m "note-pipeline: <Autor> — <Thema>"
 git push origin main
 ```
 
+> **Lokale Wiki:** Wenn `docker compose up` läuft, wird die Wiki **automatisch neu gebaut** sobald die Note-Datei gespeichert wird — kein Extra-Schritt nötig. Wiki öffnen: http://localhost:8080
+
 ---
 
 ## Checkliste
