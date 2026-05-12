@@ -12,7 +12,7 @@ Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 Straße<br>
 Postleitzahl Stadt
 
-**E-Mail:** [luc@gedankenwelten.net](mailto:luc@gedankenwelten.org)
+**E-Mail:** [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org)
 
 ---
 
