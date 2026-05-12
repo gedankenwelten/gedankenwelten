@@ -14,6 +14,7 @@ const defaultOptions: Options = {
 
 // YYYY-MM-DD
 const iso8601DateOnlyRegex = /^\d{4}-\d{2}-\d{2}$/
+const germanDateRegex = /^(\d{2})\.(\d{2})\.(\d{4})$/ // DD.MM.YYYY
 
 function coerceDate(fp: string, d: any): Date {
   // check ISO8601 date-only format
@@ -21,6 +22,12 @@ function coerceDate(fp: string, d: any): Date {
   // js date ctor treats YYYY-MM-DD as UTC midnight
   if (typeof d === "string" && iso8601DateOnlyRegex.test(d)) {
     d = `${d}T00:00:00`
+  }
+
+  // convert German DD.MM.YYYY -> ISO before parsing
+  if (typeof d === "string") {
+    const gm = d.match(germanDateRegex)
+    if (gm) d = gm[3] + "-" + gm[2] + "-" + gm[1] + "T00:00:00"
   }
 
   const dt = new Date(d)
