@@ -9,19 +9,45 @@
 
 ## Session-Start
 
-Beim ersten Message des Users in einer neuen Session:
+Beim ersten Message des Users in einer neuen Session folgende Schritte **immer ausführen**:
 
+### 1 — Git Pull
+```bash
+git pull --ff-only origin main 2>&1 | tail -3
+```
+Wenn neue Commits: kurz melden welche Notes neu sind (`git log --oneline ORIG_HEAD..HEAD -- content/`).
+
+### 2 — Docker-Status prüfen
+```bash
+docker ps --filter "name=gedankenwelten" --format "{{.Names}} {{.Status}}" 2>/dev/null
+```
+- **Läuft:** Wiki ist unter http://localhost:9999 erreichbar — neue Notes erscheinen automatisch.
+- **Läuft nicht:** Hinweis geben: `docker compose up -d` startet die Wiki im Hintergrund.
+
+### 3 — Willkommen oder direkt arbeiten
 ```bash
 test -f .claude/.welcomed && echo "returning" || echo "new"
 ```
 
-**`new` (Datei fehlt — frischer Clone):**
-Den User willkommen heißen. Kurz erklären was Gedankenwelten ist, was hier entsteht und wie man loslegt. Auf `/gedankenwelten-note-pipeline` und `docker compose up` hinweisen. Fragen womit er starten möchte. Danach die Datei anlegen:
+**`new` (frischer Clone):**
+Kurz willkommen heißen. Erklären was Gedankenwelten ist. Auf `/gedankenwelten-note-pipeline` hinweisen. Den Fork-Workflow erwähnen (PR auf GitHub). Fragen womit gestartet werden soll. Dann:
 ```bash
 touch .claude/.welcomed
 ```
 
-**`returning` (Datei existiert):** Direkt in die Arbeit — kein Begrüßungs-Overhead.
+**`returning`:** Direkt in die Arbeit — kein Begrüßungs-Overhead.
+
+---
+
+## Community & Fork-Workflow
+
+Gedankenwelten ist ein offenes Projekt. Das Modell:
+- Nutzer **forken** das Repo, erstellen Notes mit der Pipeline, öffnen einen **Pull Request**
+- Der Maintainer reviewed und merged
+- Qualitätskriterien: Aristoteles-Standard, Faktencheck, Quellen verlinkt
+
+Wenn ein Nutzer eine neue Note erstellt hat und fragt wie er sie einreichen soll:
+→ `git push` in seinen Fork + PR auf `github.com/gedankenwelten/gedankenwelten` öffnen.
 
 ---
 
