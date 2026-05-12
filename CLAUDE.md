@@ -1,8 +1,14 @@
-# CLAUDE.md — Gedankenwelten-Online
+# CLAUDE.md — Gedankenwelten
 
-Gedankenwelten-Online ist die öffentliche, community-getriebene Plattform, die aus dem privaten Gedankenwelten-Vault hervorgeht.
+@.claude/rules/gedankenwelten.md
+@.claude/rules/pipeline.md
+@.claude/rules/tags.md
 
-**Vision:** Ein offener Ort für politisches und philosophisches Denken — der nicht nur erklärt was ist, sondern Menschen hilft, handlungsfähig und resilient zu bleiben. Gegenmodell zum algorithmischen Outrage-Loop.
+---
+
+Gedankenwelten ist eine offene Wissensplattform für politisches und philosophisches Denken — faktengeprüft, vernetzt, analytisch.
+
+**Vision:** Ein Gegenmodell zum algorithmischen Outrage-Loop. Nicht neutral, sondern dokumentierte Perspektive mit Faktencheck. Nicht nur Kritik, sondern Einordnung und Denkanstöße.
 
 **Fundament:** Vipassana — Beobachten ohne zu reagieren, Verstehen ohne zu urteilen.
 
@@ -11,82 +17,82 @@ Gedankenwelten-Online ist die öffentliche, community-getriebene Plattform, die 
 ## Projektstruktur
 
 ```
-Gedankenwelten-Online/
-  CLAUDE.md           ← diese Datei
-  Agents.md           ← Beschreibung aller Agenten und Skills
-  docs/               ← Konzeptdokumente, Spezifikationen
-  templates/          ← Note-Templates für Contributors
-  scripts/            ← GitHub Actions, Hash-Generierung, Validierung
-  quartz/             ← Quartz-Konfiguration für öffentliche Website
+gedankenwelten/
+  content/
+    Denker/          ← Tiefenanalysen einzelner Denker/Quellen
+    Zeitgeist/       ← Interviews, Vorträge, Podcasts
+    DenkerVita/      ← Biografische Profile
+    Panorama/        ← Thematische Synthese-Notes
+    Transkripte/     ← VTT + TXT Rohmaterial (nicht auf Website)
+    known-speakers.md
+    Quellen & Links.md
+  .claude/
+    rules/           ← Projektregeln (Ordner, Tags, Pipeline)
+    skills/          ← Claude Code Skills (Pipeline, Aristoteles, Heraklit, Obsidian)
+    agents/          ← Sub-Agenten (Humboldt, Sherlock, Montaigne)
+    scripts/         ← Python-Hilfsskripte (vtt_to_txt.py, merge_vtt_chunks.py)
+    settings.json    ← Erlaubte Bash-Befehle
+  quartz/            ← Quartz-Konfiguration für die Website
+  CLAUDE.md          ← diese Datei
 ```
 
 ---
 
-## Note-Struktur
+## Mit Claude Code arbeiten
 
-Jede öffentliche Note hat folgende Pflicht-Sektionen:
+### Neue Note aus YouTube/Podcast erstellen
 
-```markdown
-## Inhalt
-[Kern-Content, faktengeprüft, hash-geschützt]
-
-## Faktencheck
-[!success] Bestätigt ...
-[!warning] Vereinfacht ...
-[!danger] Falsch ...
-
-## Lösungen
-[Konkrete Handlungsoptionen, lokale Initiativen, was funktioniert]
-
-## Eigene Stimmen
-### [@username] — YYYY-MM-DD
-[Freie Meinung, Essay, Widerspruch — außerhalb des Hash-Schutzes]
-
-## Positive Erfahrungen
-[Persönliche Alltagserfahrungen, was trägt, was heilt]
+```
+/gedankenwelten-note-pipeline
 ```
 
+Startet die vollständige Pipeline: Download → Transkription → Note-Erstellung → Faktencheck → Cross-Linking.
+
+### Note vertiefen
+
+```
+/aristoteles
+```
+Für neue Notes (Tiefenanalyse ab Transkript).
+
+```
+/heraklit
+```
+Für bestehende Notes die mehr Substanz brauchen.
+
+### Verfügbare Agenten
+
+| Agent | Aufruf | Aufgabe |
+|---|---|---|
+| **Humboldt** | `/agent humboldt` | Sprecher recherchieren, DenkerVita anlegen |
+| **Sherlock** | `/agent sherlock` | Faktencheck mit Quellenverifikation |
+| **Montaigne** | `/agent montaigne` | Cross-Linking zwischen Notes |
+
 ---
 
-## Integritätssystem (zwei Schichten)
+## Note-Qualitätsstandard
 
-**Schicht 1 — Skill (lokal):**
-- Skill generiert `skill_hash` aus Content + PUBLIC_SALT
-- Beweist Skill-Nutzung, erkennt manuelle Nachbearbeitung
-- Wer ohne Skill schreibt oder danach editiert: Hash ungültig
+Jede Note folgt dem **Aristoteles-Standard**:
 
-**Schicht 2 — GitHub Action (server):**
-- Action generiert `verified_hash` serverseitig mit SECRET_SALTs aus GitHub Secrets
-- Salts verlassen den Server nie
-- Erst nach bestandener Validierung wird signiert und gemergt
-
----
-
-## Community-Prozess
-
-1. Contributor verwendet den offiziellen Skill → Note mit `skill_hash` entsteht
-2. PR einreichen — ohne `verified_hash`
-3. GitHub Action prüft: Template korrekt? Faktencheck vorhanden? Skill-Hash valide?
-4. Community-Upvotes (Mindestanzahl von verifizierten Contributoren)
-5. Maintainer-Review
-6. Action signiert mit `verified_hash` und merged
+- **Inhalt ≥ 1.200 Wörter** — Analyse, keine Zusammenfassung
+- **6–8 Abschnitte** à ≥ 120 Wörter mit eigener Einordnung
+- **≥ 5 direkte Zitate** mit Zeitstempel-Link
+- **Faktencheck** (Pflicht bei Zeitgeist-Notes)
+- **Weiterdenken-Abschnitt** mit Aristoteles-Fragen
 
 ---
 
 ## Geist des Projekts
 
 - Nicht neutral — sondern **dokumentierte Perspektive mit Faktencheck**
-- Nicht nur Kritik — immer auch Lösungen und positive Erfahrungen
-- Nicht anonym — jede Stimme hat einen Namen
-- Nicht algorithmisch — keine Engagement-Optimierung, keine Outrage-Mechanik
-- Verbunden mit **Breathe** — Körper und Geist als vollständiger Ansatz zur Resilienz
+- Nicht nur Kritik — Einordnung, Kontext, Denkanstöße
+- Analytisch statt reaktiv: Beobachten ohne sofort zu urteilen
+- Vernetzt: Jede Note ist Teil eines größeren Gesprächs
 
 ---
 
-## Verbindung mit anderen Projekten
+## Integritätssystem
 
-| Projekt | Verbindung |
-|---|---|
-| **Gedankenwelten** (privat) | Ursprung und laufender Content-Pool |
-| **Breathe** | Körperliche Resilienz als Gegenstück zur mentalen |
-| **Pi** | Hosting der öffentlichen Website via Quartz |
+**Skill-Hash:** Der `gedankenwelten-note-pipeline`-Skill generiert einen `skill_hash` aus dem Note-Content. Das beweist Skill-Nutzung und erkennt unvalidierte manuelle Nachbearbeitung.
+
+**GitHub Action:** Validiert Template-Einhaltung, Faktencheck-Pflicht und Hash-Konsistenz bei PRs.
