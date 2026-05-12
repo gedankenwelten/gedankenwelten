@@ -130,6 +130,15 @@ Die vollständige Pipeline-Dokumentation (8 Schritte, Qualitätsstandard, Tag-Ta
 
 Gedankenwelten lebt von Beiträgen. Das Modell ist einfach: **Fork → eigene Note schreiben → Pull Request**.
 
+> **Clone vs. Fork — was ist der Unterschied?**
+>
+> Ein **Clone** reicht zum Lesen, Philosophieren und lokalen Ausprobieren — aber `git push` schlägt fehl, weil du keine Schreibrechte auf das Original hast.
+>
+> Ein **Fork** erstellt deine eigene Kopie des Repos auf GitHub. Dort hast du vollen Schreibzugriff, kannst pushen und einen Pull Request ans Original stellen.
+>
+> → Nur zum Lesen und Erkunden: `git clone` genügt.
+> → Beitrag einreichen: Fork nötig.
+
 ```
 1. Fork: github.com/gedankenwelten/gedankenwelten → "Fork" oben rechts
 2. Clone deinen Fork:
