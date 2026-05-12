@@ -1,8 +1,17 @@
 #!/bin/bash
-# Sync Notes aus dem privaten Cortex-Vault ins öffentliche Quartz-Repo.
+# Maintainer-only: Sync Notes aus dem privaten Cortex-Vault ins öffentliche Repo.
+# Setzt $HOME/Cortex/Gedankenwelten voraus — nur für den Repo-Maintainer gedacht.
+# Externe Nutzer: einfach `git clone` + `docker compose up` — Content ist bereits im Repo.
 # Aufruf: ./scripts/sync.sh [--dry-run]
 
 set -e
+
+if [ ! -d "$HOME/Cortex/Gedankenwelten" ]; then
+  echo "Cortex nicht gefunden unter $HOME/Cortex/Gedankenwelten"
+  echo "Dieses Script ist nur für den Repo-Maintainer gedacht."
+  echo "Externe Nutzer: Content ist bereits im Repo — einfach docker compose up."
+  exit 1
+fi
 
 CORTEX="$HOME/Cortex/Gedankenwelten"
 QUARTZ="$(cd "$(dirname "$0")/.." && pwd)/content"
