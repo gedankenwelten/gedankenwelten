@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     },
     locale: "de-DE",
     baseUrl: "gedankenwelten.org",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Transkripte"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

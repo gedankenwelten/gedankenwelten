@@ -1,0 +1,13 @@
+services:
+  wiki:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./content:/usr/src/app/content
+      - ./attachments:/usr/src/app/attachments
+    environment:
+      # Polling aktivieren damit File-Watcher mit Docker-Volumes funktioniert (Mac/Windows)
+      - CHOKIDAR_USEPOLLING=true
+      - CHOKIDAR_INTERVAL=1000
+    restart: unless-stopped
