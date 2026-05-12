@@ -14,4 +14,4 @@ COPY quartz.config.ts quartz.layout.ts tsconfig.json globals.d.ts index.d.ts ./
 # content/ und attachments/ werden via docker-compose als Volumes gemountet
 
 EXPOSE 8080
-CMD ["node", "./quartz/bootstrap-cli.mjs", "build", "--serve", "--port", "8080", "--host", "0.0.0.0"]
+CMD ["node", "./quartz/bootstrap-cli.mjs", "build", "--serve", "--port", "8080"]
