@@ -92,6 +92,23 @@ content/
 
 ---
 
+## Mit KI arbeiten
+
+Dieses Repo enthält fertige Konfigurationen für alle gängigen KI-CLI-Tools — einfach klonen und loslegen:
+
+| Tool | Konfigurationsdatei | Befehl |
+|---|---|---|
+| [Claude Code](https://claude.ai/code) | `CLAUDE.md` + `.claude/` | `claude` |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | `GEMINI.md` + `AGENTS.md` | `gemini` |
+| [OpenAI Codex](https://github.com/openai/codex) | `AGENTS.md` | `codex` |
+| [Aider](https://aider.chat) | `AGENTS.md` | `aider` |
+| [Cursor](https://cursor.com) | `.cursor/rules/gedankenwelten.mdc` | Cursor öffnen |
+| [GitHub Copilot](https://github.com/features/copilot) | `.github/copilot-instructions.md` | im Editor |
+
+Die vollständige Pipeline-Dokumentation (8 Schritte, Qualitätsstandard, Tag-Taxonomie) liegt in **`AGENTS.md`** und ist für jedes Tool lesbar — kein spezielles Format, plain Markdown.
+
+---
+
 ## Mitmachen
 
 Contributions willkommen — als Pull Request mit neuer Note oder Ergänzung.
