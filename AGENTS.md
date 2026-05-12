@@ -5,6 +5,16 @@ Claude Code · Gemini CLI · OpenAI Codex · Aider · Cline · Cursor
 
 ---
 
+## Session Start (always)
+
+At the start of every session:
+1. `git pull --ff-only origin main` — get latest notes
+2. Check if Docker is running: `docker ps --filter "name=gedankenwelten" --format "{{.Names}} {{.Status}}"`
+   - Running → wiki at http://localhost:9999, new notes appear automatically
+   - Not running → suggest `docker compose up -d`
+
+---
+
 ## Project Overview
 
 Gedankenwelten is an open knowledge platform for political and philosophical thinking — fact-checked, interconnected, analytical.
