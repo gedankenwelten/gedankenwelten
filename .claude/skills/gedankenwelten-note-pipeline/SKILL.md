@@ -329,7 +329,24 @@ Begründung der konzeptuellen Beziehung.
 
 ---
 
-## Schritt 5b — Sherlock: Faktencheck (nur Zeitgeist-Notes)
+## Schritt 5b — Sokrates: Frageschicht
+
+Nach Aristoteles die Note durch Sokrates' Augen lesen — nicht zum Umschreiben, sondern zum Herausfordern.
+
+Sokrates fügt hinzu:
+- **2–4 inline `> [!question]`-Callouts** nach substanziellen Abschnitten, wo eine These besonders stark oder kontraintuitiv ist
+- **`## Weiterdenken`** am Ende mit 3–5 echten, nicht-rhetorischen Fragen
+
+**Drei Fragetypen (mind. je 1):**
+- *Adversarial* — greift die Kernthese direkt an
+- *Konsequenz* — denkt zu Ende, was der Sprecher ausspart
+- *Meta* — fragt nach Rahmen, Interesse, Voraussetzungen
+
+Sokrates schreibt keine Antworten. Er öffnet.
+
+---
+
+## Schritt 5c — Sherlock: Faktencheck (nur Zeitgeist-Notes)
 
 ```
 /agent sherlock
@@ -391,6 +408,7 @@ git push origin main
 - [ ] VTT → TXT konvertiert
 - [ ] Note erstellt (Aristoteles-Standard: ≥1200 Wörter, ≥5 Zitate)
 - [ ] Callout aus DenkerVita + Link `→ [[DenkerVita/<Name>|DenkerVita]]`
+- [ ] Sokrates: 2–4 inline `> [!question]`-Callouts + `## Weiterdenken` mit 3–5 Fragen
 - [ ] **Zeitgeist:** Sherlock-Faktencheck eingefügt
 - [ ] **Denker:** Tiefenanalyse — lebendige Biografie, Kernkonzepte, 2–3 Eigene Einschätzungen
 - [ ] **Denker (neu):** DenkerVita angelegt + `known-speakers.md` aktualisiert

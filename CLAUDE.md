@@ -46,6 +46,7 @@ docker compose up   # → http://localhost:9999 (Auto-Rebuild bei Dateiänderung
 |---|---|
 | `/gedankenwelten-note-pipeline` | Neue Note aus YouTube / Podcast / Artikel |
 | `/aristoteles` | Tiefenanalyse ab Transkript (Schritt 5 der Pipeline) |
+| `/sokrates` | Frageschicht ergänzen — Gegenfragen, Widersprüche, Kernthesen herausfordern |
 | `/heraklit` | Bestehende Note vertiefen |
 | `/agent humboldt` | Sprecher recherchieren, DenkerVita anlegen |
 | `/agent sherlock` | Faktencheck mit Quellenverifikation |
