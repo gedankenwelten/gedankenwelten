@@ -7,6 +7,20 @@
 
 ---
 
+## Session-Start
+
+Beim ersten Message des Users in einer neuen Session:
+
+```bash
+find content/{Denker,Zeitgeist,Gedanken,Panorama,Vipassana} -name "*.md" 2>/dev/null | wc -l
+```
+
+**0 Notes (frischer Clone):** Den User willkommen heißen. Kurz erklären was Gedankenwelten ist, was hier entsteht und wie man loslegt. Auf `/gedankenwelten-note-pipeline` und `docker compose up` hinweisen. Fragen womit er starten möchte — erstes Video, einen bestehenden Text, oder erstmal die Wiki hochfahren.
+
+**Notes vorhanden:** Direkt in die Arbeit — kein Begrüßungs-Overhead.
+
+---
+
 ## Projektstruktur
 
 ```
