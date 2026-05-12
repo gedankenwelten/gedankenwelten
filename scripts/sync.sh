@@ -25,5 +25,17 @@ echo "Syncing DenkerVita..."
 rsync -av --delete $DRY   --exclude="*.vtt"   --exclude="*.mp3"   "$CORTEX/DenkerVita/" "$QUARTZ/DenkerVita/"
 
 echo ""
+echo "Syncing Gedanken..."
+rsync -av --delete $DRY   --exclude="*.vtt"   --exclude="*.mp3"   --exclude="index.md"   "$CORTEX/Gedanken/" "$QUARTZ/Gedanken/"
+
+echo ""
+echo "Syncing Panorama..."
+rsync -av --delete $DRY   --exclude="*.vtt"   --exclude="*.mp3"   --exclude="index.md"   "$CORTEX/Panorama/" "$QUARTZ/Panorama/"
+
+echo ""
+echo "Syncing Vipassana..."
+rsync -av --delete $DRY   --exclude="*.vtt"   --exclude="*.mp3"   --exclude="*.mp4"   --exclude="index.md"   "$CORTEX/Vipassana/" "$QUARTZ/Vipassana/"
+
+echo ""
 echo "Sync abgeschlossen."
 echo "Nächste Schritte: git add -A && git commit -m 'sync: Notes aktualisiert' && git push"
