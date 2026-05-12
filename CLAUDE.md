@@ -3,6 +3,7 @@
 @.claude/rules/gedankenwelten.md
 @.claude/rules/pipeline.md
 @.claude/rules/tags.md
+@.claude/rules/setup.md
 
 ---
 
