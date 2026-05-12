@@ -176,3 +176,7 @@ Bria dokumentiert, wie das Modell bereits nach Europa exportiert wird:
 - [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung argumentiert aus Brias Perspektive: Tech-Kapitalisten klauen kollektives Wissen und versklaven damit die Gesellschaft
 - [[Klarsprech — Peter Thiel und ObjectionAI]] — Klarsprech erzählt Brias Authoritarian Stack als Einzelakteur-Biografie: Thiel als Architekt aller vier Schichten (Politik via Vance, Überwachung via Palantir, Justiz via Kaufkraft, Wahrheit via ObjectionAI). ObjectionAI fügt eine Dimension hinzu, die Bria noch nicht kartiert hatte: die Privatisierung der Wahrheitsfindung per KI.
 - [[Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]] — Flemig zeigt Brias Rheinmetall-Anduril-These in der industriellen Realität: Rheinmetall expandiert massiv, baut Werke bis in die Ukraine, vernetzt Infanterie mit KI-Systemen. Die privatisierte Rüstungslogik, die Bria theoretisch kartiert, ist bei Flemig konkret sichtbar.
+
+### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+
+Grenzgänger Studios erzählt investigativ, was Bria als Netzwerkkarte abstrahiert: Thiels Biografie von der Apartheid über In-Q-Tel bis DOGE ist der Authoritarian Stack als Einzelakteur-Genealogie. Brias Finanzdaten und Vertragsstrukturen bekommen hier das narrative Fleisch — inklusive der These, dass die Silicon-Valley-Milliardäre State-Made-Produkte sind, nicht Selfmade-Genies.

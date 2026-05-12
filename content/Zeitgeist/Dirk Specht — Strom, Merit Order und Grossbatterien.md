@@ -260,6 +260,10 @@ Zöcklers Bürgerenergiegenossenschaften sind das europäische Gegenstück zu Sp
 
 Kemferts Begriff der "Fossilokratie" — das fossil-industrielle Machtnetzwerk, das Rückfälle in fossile Muster erzeugt — ist die politökonomische Erklärung für das, was Specht marktstrukturell beschreibt: Gaskraftwerksbetreiber, die Batteriespeicher regulatorisch blockieren, weil sie ihr Geschäftsmodell bedrohen.
 
+### → [[Tim Meyer und Jan Hegenberg — China Energiewende]]
+
+Meyer und Hegenberg berichten live aus China, was Specht bereits im Geladen-Podcast als Vergleichsfolie nutzte: Chinas Modell (staatlicher Rahmen + brutaler Wettbewerb) produziert die günstigsten Batterien und PV der Welt. Spechts Frage „Was kauft man mit dem europäischen Regulierungschaos?" bekommt hier eine empirische Antwort: die Differenz kostet Europa den technologischen Anschluss.
+
 ---
 
 ## Weiterdenken

@@ -201,3 +201,11 @@ Mattei zeigt den strukturellen Mechanismus hinter Budes Diagnose: Wenn Bude sagt
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 
 Mausfeld beschreibt die kognitive Infrastruktur für Budes „Postdemokratie"-Diagnose: Beide analysieren, wie die Ohnmacht gegenüber ökonomischen Mächten politisch hergestellt wird. Budes Beobachtung, dass immer mehr Menschen sagen „wir leben in einer Postdemokratie", findet bei Mausfeld die strukturelle Erklärung.
+
+### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
+
+Beneckes Sinus-Jugendstudie 2026 zeigt das Paradox: Die Generation mit dem größten Grund zur Klimaangst zeigt die geringste Beunruhigung — die Angst hat sich von den realen Bedrohungen entkoppelt.
+
+### → [[Mark Benecke — Fragerunde Time Is Up 2026]]
+
+Pöttingers umweltpsychologische Einsicht (Scham vs. Wut als divergierende Handlungstreiber) vertieft Budes Emotionsanalyse: Die Angstgesellschaft reagiert nicht nur mit Rückzug, sondern — bei kollektiver Organisierung — auch mit Wut, die Bewegungen antreibt.

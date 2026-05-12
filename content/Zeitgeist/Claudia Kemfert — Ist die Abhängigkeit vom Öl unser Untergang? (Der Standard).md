@@ -299,3 +299,11 @@ Kemferts Warnung vor Energieabhängigkeit wird durch Amiri konkret: Iran sitzt a
 ### → [[Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
 
 Sterner wendet Kemferts 'Fossilokratie'-Diagnose auf den konkreten Fall Söder an: Wer Kernkraft und Fossil fordert, macht sich von russischem Uran und nahöstlichem Öl abhängig — das ist der Kern des erpressbaren Deutschlands.
+
+### → [[Tim Meyer und Jan Hegenberg — China Energiewende]]
+
+Meyer/Hegenberg bestätigen Kemferts Kernthese aus chinesischer Perspektive: China reduziert Gas-Abhängigkeit auf 3–4% im Strommix, minimiert Öl-Import durch Elektromobilität — exakt weil Transportwege (Taiwan-Straße, Hormuz) geopolitische Verwundbarkeit erzeugen. Was Kemfert für Europa fordert, praktiziert China bereits als industrielle Strategie.
+
+### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
+
+Benecke zeigt forensisch, was Kemfert ökonomisch analysiert: Die CO₂-Vorhersagen der 1970er trafen exakt ein, die Ölstaaten fördern bis zum letzten Tropfen — die Daten sind seit 50 Jahren eindeutig.

@@ -198,3 +198,7 @@ Flassbeck liefert die makroökonomische Grundlage für Trugers Position: Wenn de
 ### → [[Michael Sterner — Energiewende-Studie und Reiche-Blockade]]
 
 Sterners BMWK-Studie liefert ein konkretes Beispiel für Göpels/Trugers These: 21 Mrd. € regionale Wertschöpfung durch Erneuerbare — Wohlstand, der nicht nur im BIP auftaucht, sondern durch kommunale Teilhabe, lokale Jobs und Akzeptanz echten Wohlstandszuwachs schafft.
+
+### → [[Tim Meyer und Jan Hegenberg — China Energiewende]]
+
+China liefert eine unbequeme Antwort auf Göpels Wachstumskritik: Das Land wächst *und* dekarbonisiert gleichzeitig — durch brutale Industriepolitik, nicht durch Suffizienz. Das stellt die Degrowth-These vor ein Dilemma: Ist Entkopplung doch möglich, wenn der politische Wille radikal genug ist? Oder erkauft China den grünen Wandel mit sozialen Kosten, die Göpel ablehnen würde?

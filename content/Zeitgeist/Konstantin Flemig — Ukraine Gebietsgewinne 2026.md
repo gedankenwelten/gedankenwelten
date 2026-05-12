@@ -171,6 +171,10 @@ Heinrich analysiert die Frage, ob die westliche Unterstützungspolitik den Krieg
 
 Sonneborn liefert die Gegenthese zu Flemigs Perspektive: EU-Ukraine-Hilfen als Kriegsgewinngeschäft des militärisch-industriellen Komplexes. Wo Flemig den Aggressor Putin dokumentiert und ukrainische Gebietsgewinne zeigt, blendet Sonneborn den Angreifer komplett aus und reduziert den Krieg auf ein Finanzierungsmodell. Beide zusammen ergeben erst das vollständige Bild.
 
+### → [[Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet]]
+
+Historisches Fundament für das aktuelle Video: Warum Russlands imperiale Logik keine Ausnahme ist, sondern Tradition. Die Muster — Großmächte teilen auf, kleine Völker zahlen — waren schon 1939 Moskaus Position. Polen damals, Ukraine heute.
+
 ### → [[Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]]
 
 Die Produktionsseite des Ukraine-Krieges: Während dieser Video die Frontlage zeigt, analysiert das Rüstungs-Großmacht-Video, was Rheinmetall in Deutschland aufbaut, um genau diesen Bedarf zu decken. Verbrauch hier, Produktion dort.

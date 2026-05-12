@@ -175,3 +175,7 @@ Die Ultrareichen fliehen in Bunker; Göpel zeigt den Gegenentwurf: Agency statt 
 ### → [[Architekten des Lebendigen — Systeme die dem Leben dienen]]
 
 Göpels „menschenzentrierte Fortschrittsagenda" und Gemeinwohlprodukt sind die metrische Übersetzung der philosophischen These: Systeme müssen dem Leben dienen, nicht umgekehrt.
+
+### → [[Mark Benecke — Fragerunde Time Is Up 2026]]
+
+Göpels „Agency gegen Ohnmacht" ist die akademische Fassung von Beneckes pragmatischem „Was machst du in den nächsten 5 Minuten?". Beide antworten auf Hoffnungslosigkeit nicht mit Trost, sondern mit Handlungsspielraum.

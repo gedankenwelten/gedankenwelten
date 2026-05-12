@@ -244,3 +244,7 @@ Markovits' *Meritocracy Trap* liefert die strukturelle Erklärung für Osnos' Be
 ### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Komplementäre Winkel: Osnos seziert die Psychologie der Ultrareichen von außen ("principal"-Struktur, Devothaltung im Umfeld); Studio Bonn benennt denselben Mechanismus von innen — mit Engelhorns Insider-Erfahrung. Wo Osnos fragt "Wie werden Milliardäre so?", fragt Studio Bonn "Was macht das mit der Demokratie?"
+
+### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+
+Thiel als konkretes Fallbeispiel für Osnos' Analyse der Ultrareichen-Psychologie: Die schwimmenden Mikrostaaten, in die Thiel investiert, sind Osnos' Megayachten in ihrer politischen Konsequenz. Grenzgänger Studios zeigt, was passiert, wenn ein Ultrareicher nicht nur flieht, sondern aktiv umbaut — Palantir, Vance, ObjectionAI als Infrastruktur einer Parallelwelt ohne demokratische Regeln.

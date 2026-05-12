@@ -272,3 +272,6 @@ Beide analysieren Doppelstandards im Israel-Diskurs: Heinrich aus geopolitisch-m
 ### → [[MONITOR — AfD-Erfolg trotz Skandalen]]
 
 Heinrichs Biografie (Gründung der JA 2013, Austritt 2014, „Partei der Spinner") ist die Insider-Perspektive zu MONITORs externer Analyse der AfD-Normalisierung. Wer dabei war und ging, versteht die Dynamik anders als wer von außen zuschaut
+
+### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
+Beiderseitiges Medienschweigen-Thema: Staiy analysiert die Täter-Ethnie-Logik bei Leipzig/Aschaffenburg — ergänzt Heinrichs Kritik am Tagesschau-Schweigen zu Kriegsthemen um eine weitere Richtung der selektiven Sichtbarkeit.

@@ -263,3 +263,7 @@ Weidel neben Markus Krall beim AWEF: praktische Illustration der libertär-fasch
 - [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung fordert Vergesellschaftung von KI-Monopolen — Kempers Technofaschismus-Diagnose als praktische politische Forderung
 - [[Steffen Mau — Spaltung der Gesellschaft]] — Mau liefert den soziologischen Rahmen für Kempers AfD-Analyse: die AfD als „Polarisierungsunternehmer", die gezielt Triggerpunkte abscannen und Sollbruchstellen im Diskurs eskalieren
 - [[Klarsprech — Peter Thiel und ObjectionAI]] — Klarsprech dokumentiert denselben Thiel-Nexus, den Kemper analysiert, auf der US-Seite: PayPal-Mafia, Palantir, Vance-Mentoring, ObjectionAI. Kemper beschreibt die ideologische Ebene (Technofaschismus); Klarsprech zeigt die operative Umsetzung in vier Machtdimensionen.
+
+### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+
+Grenzgänger Studios liefert das investigative Gesamtbild zu Kempers Technofaschismus-Analyse: Thiels Weg von der Apartheid-Kindheit über Stanford-Isolation und PayPal-Mafia bis zur These „Freiheit und Demokratie sind unvereinbar". Kemper beschreibt die ideologische Struktur des Technofaschismus — Grenzgänger Studios dokumentiert seinen prominentesten Architekten in voller biografischer Tiefe.

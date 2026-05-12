@@ -164,3 +164,15 @@ Göpel und Truger hinterfragen das BIP als Wohlstandsmaß. Sterners Studie liefe
 ### → [[Michael Sterner — Reiche gegen Marktwirtschaft]]
 
 Direkter Nachfolger — Teil 2 der Sterner-Analyse. Während diese Note die Bestandsaufnahme liefert (verschwiegene Studie, vier Gesetze), geht die Folge-Note in die juristische Tiefe: drei Paragraphen des StromVKG, die Batterien aussperren, plus zwei Technologie-Alternativen (CO2-Batterie, Eisen-Luft-Speicher), die bei echtem Wettbewerb antreten könnten. ACER und DIHK liefern vernichtende Urteile über die Legitimationsgrundlage.
+
+### → [[Tim Meyer und Jan Hegenberg — China Energiewende]]
+
+Meyer/Hegenberg liefern den internationalen Kontrast zu Sterners deutscher Frustration: Während Reiche die Energiewende blockiert, exekutiert China mit „Gelinghaltung" und kennzahlenbasiertem Wettbewerb. Sterners Ruf nach mehr Industriepolitik bekommt hier die empirische Untermauerung — und die unbequeme Frage: Was passiert, wenn Europa zu langsam aufwacht?
+
+### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
+
+Benecke zeigt die ökologischen Konsequenzen der Blockade: Die Zeitfenster für wirksame Maßnahmen sind geschlossen, während die Policies verschleppt oder rückgängig gemacht werden.
+
+### → [[Mark Benecke — Fragerunde Time Is Up 2026]]
+
+Pöttingers marxistische Analyse bestätigt Sterners Kernbefund von der politischen Gegenseite: Die Lösungen existieren, aber Profitinteressen verhindern ihre Umsetzung. Was Sterner ökonomisch zeigt, benennt Pöttinger als Systemlogik des Kapitalismus.

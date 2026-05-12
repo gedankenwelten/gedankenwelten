@@ -121,3 +121,6 @@ Chrupallas Inszenierung als Misstrauensproduktion ohne Argument: El-Mafaalanis M
 ### → [[Daniel - Weidel beim Schwurblertreff AWEF]]
 
 Weidel unter Gleichgesinnten beim AWEF: wie die AfD-Spitze in Verschwörungskreisen kommuniziert
+
+### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
+Staiy zeigt das Magdeburg-Demokratiefest der Amadeo Antonio Stiftung als gelebte Zivilgesellschaft — Daniel dokumentiert, wie die AfD genau diese Institution parallel im Bundestag angreift und delegitimiert.
