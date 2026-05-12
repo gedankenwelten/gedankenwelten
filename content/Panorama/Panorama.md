@@ -1,0 +1,34 @@
+---
+title: Panorama — Übersicht
+tags:
+  - meta
+  - panorama
+---
+
+# Panorama
+
+Panoramas sind thematische Synthese-Seiten in den Gedankenwelten. Sie bündeln mehrere Zeitgeist- und Denker-Notes rund ein gemeinsames Thema — keine Nachrichtenindizes, sondern verdichtete Perspektiven: Was ist das Problem? Woher kommt es? Was sind mögliche Antworten?
+
+## Wann entsteht ein Panorama?
+
+Manuell — nie automatisch. Ein Panorama wird angelegt, wenn mindestens drei Notes dasselbe Thema aus verschiedenen Winkeln beleuchten und eine Synthese mehr Erkenntnis liefert als die Summe der Einzelnotes.
+
+## Struktur
+
+Jedes Panorama folgt diesem Aufbau:
+
+1. **Warum dieses Thema?** — gesellschaftliche Relevanz, Größenordnung, Warum jetzt
+2. **Das Problem** — mit Anker-Links direkt zu den passenden Lösungsansätzen
+3. **Ursachen** — Woher kommt es? Historisch, strukturell, politisch
+4. **Lösungsansätze** — bewertet mit ✅ trägt bei · ⚠️ umstritten · ❌ löst es nicht
+5. **Offene Fragen** — was bleibt ungeklärt, wo fehlt Content
+6. **Notes** — Tabelle mit Schwerpunkt-Spalte (Problem / Ursache / Lösung / Kontext)
+
+## Panoramas
+
+| Thema | Datei | Notes |
+|---|---|---|
+| Rente | [[Rente]] | 8 |
+| Energie | [[Energie]] | 15 |
+| NoAfD | [[NoAfD]] | 33 |
+| Autoritärer Internationalismus | [[Autoritaerer Internationalismus]] | 38 |
