@@ -102,4 +102,12 @@ Qualitätskriterien: Faktencheck vorhanden, Quellen verlinkt, analytisch statt z
 
 ## Lizenz
 
-[LICENSE](LICENSE)
+**Inhalte** (`content/`) — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — teilen und anpassen, auch kommerziell, solange die gleiche Lizenz weitergegeben wird.
+
+**Code & Tooling** — [MIT](LICENSE)
+
+Die Gedanken sind frei.
+
+---
+
+Gebaut mit [Quartz](https://github.com/jackyzha0/quartz) © Jacky Zhao, MIT License.
