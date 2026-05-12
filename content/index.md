@@ -4,16 +4,17 @@ title: Gedankenwelten
 
 # Gedankenwelten
 
-Jeder Mensch hat seine eigene Gedankenwelt. Geformt von erlerntem und Erfahrung schaffen wir daraus unsere eigene Welt.
+Jeder Mensch hat seine eigene Gedankenwelt. Geformt von Erlerntem und Erfahrung schaffen wir daraus unsere eigene Welt.
 Von dort aus blicken wir nach draussen.
 
 Eine eigene Welt ganz gewiss. Aber wir vernetzen unsere Welten mit jeder Interaktion. Es entsteht ein stetiger Wandel.
-In unserem Selbst und im Aussen. Wir alle sind mitgestalter der Gedankenwelten. Und somit reiht sich jeder Einzelne ein, 
+In unserem Selbst und im Aussen. Wir alle sind Mitgestalter der Gedankenwelten. Und somit reiht sich jeder Einzelne ein,
 ein Komponist der Welt zu sein, in der wir leben.
 
 Eine vollständige Welt.
 
 Die Gedankenwelten (luc)
+
 ---
 
 ### [[Denker]]
@@ -21,6 +22,12 @@ Manche Menschen widmen ihr Leben dem Denken — für sich und für alle anderen.
 
 ### [[Zeitgeist]]
 Was bewegt die Welt — und wer spricht darüber, und warum? Zeitgeist versammelt Stimmen, die den Moment deuten. Mit Faktencheck, weil Haltung Verantwortung trägt.
+
+### [[Panorama]]
+Wenn mindestens drei Notes dasselbe Thema aus verschiedenen Winkeln beleuchten, entsteht eine verdichtete Perspektive. Kein Überblick um des Überblicks willen — sondern: Was ergibt sich, wenn man die Einzelstimmen zusammenhält?
+
+### [[Gedanken]]
+Persönliche Reflexionen, Essays und Denkanstöße. Keine fertigen Antworten — Denkbewegungen. Hier entsteht, was entsteht.
 
 ### [[DenkerVita/Alle Denker|Alle Denker]]
 Ausführliche Profile — Biografie, Werke, Kernthesen, Verbindungen zu anderen Denkern. Wächst mit jeder vollständig analysierten Person.
@@ -30,7 +37,6 @@ Ausführliche Profile — Biografie, Werke, Kernthesen, Verbindungen zu anderen 
 ## Mehrere Wege
 
 Alle Notes entstehen mit Hilfe von KI — analysiert, eingeordnet, vernetzt. Nichts, was du hier liest, hat den Anspruch vollständig oder Wahrheit zu sein.
-
 
 Sei dein eigener Denker.
 
@@ -47,6 +53,18 @@ Sherlock beobachtet scharf und glaubt erst, wenn er Belege hat. Er prüft Behaup
 #### Montaigne
 
 Montaigne sucht Verbindungen. Wie Michel de Montaigne, der im 16. Jahrhundert als Erster das persönliche Denken zur Kunstform machte, bewegt er sich zwischen den Gedankenwelten — und findet, wo Fromm mit Arendt spricht, wo Goenka und Rosa einander berühren, wo ein Zeitgeist-Interview eine alte These bestätigt oder widerlegt. Er ist das Netz, das die Notes zusammenhält.
+
+#### Sokrates
+
+Sokrates fragt. Nicht um Antworten zu geben — sondern um die Fragen zu finden, die unter den Antworten liegen. Er ist unbequem: Wo eine These als selbstverständlich gilt, hakt er nach. Wo ein Argument schlüssig klingt, sucht er den Widerspruch. Seine Methode ist die Hebammenkunst des Denkens — er gebiert keine Gedanken, er hilft sie ans Licht.
+
+#### Aristoteles
+
+Aristoteles analysiert. Aus einem Transkript, einem Gespräch, einem Vortrag destilliert er das Wesentliche — nicht als Zusammenfassung, sondern als Durchdringung. Er strukturiert, kontextualisiert, ordnet ein. Eine Note, die durch seine Hände gegangen ist, hat mehr Wert als das Original: weil sie das Gesagte mit dem Gedachten verbindet.
+
+#### Heraklit
+
+Heraklit vertieft. *„Alles fließt"* — und auch eine Note ist nie fertig. Heraklit kehrt zurück zu dem, was schon geschrieben wurde, und fragt: Was fehlt noch? Welcher Gedanke ist nur angedeutet? Welche Verbindung liegt unausgesprochen im Raum? Er bringt die zweite Schicht — die Tiefe, die beim ersten Durchgang nicht sichtbar war.
 
 #### Claude
 
