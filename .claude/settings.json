@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add*)",
+      "Bash(git commit*)",
+      "Bash(git push*)",
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(git pull*)",
+      "Bash(ls*)",
+      "Bash(find*)",
+      "Bash(grep*)",
+      "Bash(cat*)",
+      "Bash(wc*)",
+      "Bash(sed*)",
+      "Bash(python3 .claude/scripts/*)",
+      "Bash(yt-dlp*)",
+      "Bash(ffmpeg*)",
+      "Bash(ffprobe*)",
+      "Bash(mlx_whisper*)",
+      "Bash(mkdir*)",
+      "Bash(rm /tmp/whisper_chunks*)",
+      "Bash(curl -s https://*)"
+    ]
+  }
+}
