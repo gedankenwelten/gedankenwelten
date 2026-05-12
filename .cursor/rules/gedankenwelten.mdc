@@ -1,0 +1,32 @@
+---
+description: Gedankenwelten project rules for Cursor
+globs: ["content/**/*.md", "*.md"]
+alwaysApply: true
+---
+
+# Gedankenwelten — Cursor Rules
+
+Read `AGENTS.md` in the repository root for the complete project guide.
+
+## Quick Reference
+
+**Note locations:**
+- Zeitgeist (interviews, talks): `content/Zeitgeist/`
+- Denker (deep thinker analysis): `content/Denker/`
+- DenkerVita (biographical profiles): `content/DenkerVita/`
+- Personal reflections: `content/Gedanken/`
+
+**Filename rules:**
+- Use simple hyphen `-` as separator (NOT em-dash `—`)
+- No umlauts: ä→ae, ö→oe, ü→ue, ß→ss
+- No colons `:`, no parentheses `()` for dates
+
+**Quality standard (Aristoteles):**
+- ≥ 1,200 words · 6–8 sections · ≥ 5 quotes with timestamps
+- Zeitgeist: `## Faktencheck` required
+- Every note: `## Weiterdenken` with 3–5 open questions
+
+**Wikilinks:**
+- Always `[[DenkerVita/<Name>]]` — NOT `[[<Name>]]`
+
+**Local wiki:** `docker compose up` → http://localhost:8080
