@@ -92,6 +92,23 @@ content/
 
 ---
 
+## Die KI als Gesprächspartner
+
+Wer dieses Repo mit einem KI-Tool öffnet, bekommt nicht nur eine Pipeline zur Note-Erstellung — sondern einen Gesprächspartner, der den gesamten Inhalt kennt.
+
+**Was möglich ist:**
+
+- *„Was sagt Hannah Arendt über den Ursprung des Totalitarismus — und wie verhält sich das zu dem, was Staiy letzte Woche über die AfD gesagt hat?"*
+- *„Welche Notes widersprechen einander? Wo gibt es echte Spannungen im Denken?"*
+- *„Ich habe gerade Frankls Satz über den Raum zwischen Reiz und Reaktion gelesen — kannst du das mit dem Vipassana-Fundament verknüpfen?"*
+- *„Schreib mir eine Gegenfrage zu dieser These, die Aristoteles gestellt hätte."*
+
+Das ist kein Chatbot über abstrakte Themen — die KI spricht über *diese* Notes, *diese* Denker, *diesen* Wissensstand. Jede neue Note, die hinzukommt, erweitert den Gesprächsraum.
+
+**Das Fundament bleibt:** Beobachten ohne zu reagieren. Verstehen ohne zu urteilen. Die KI liefert Perspektiven und Widersprüche — das Urteilen bleibt beim Menschen.
+
+---
+
 ## Mit KI arbeiten
 
 Dieses Repo enthält fertige Konfigurationen für alle gängigen KI-CLI-Tools — einfach klonen und loslegen:
