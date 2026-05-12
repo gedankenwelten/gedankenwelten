@@ -262,3 +262,6 @@ NZ-Salon zu Carla Hinrichs: §129-Kriminalisierung als konkretes Beispiel des An
 ### → [[Bundestalk — Iran USA und die Strasse von Hormus]]
 
 taz-Runde rahmt geopolitisch, was Gilda als wirtschaftspolitische Kaskade in Deutschland konkretisiert (Lieferketten, Düngemittel)
+
+### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
+Staiys Magdeburg-Demokratiefest (Amadeo Antonio Stiftung) zeigt die Praxis zivilgesellschaftlichen Engagements — GCA #28 analysiert den strukturellen Angriff auf genau diese Initiativen (Finanzierungskürzungen, parlamentarische Delegitimierung).

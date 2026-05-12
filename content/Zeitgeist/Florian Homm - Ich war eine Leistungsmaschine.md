@@ -193,3 +193,7 @@ Kurz davor: ein überlebtes Attentat. Dann: die Begegnung mit seiner heutigen Fr
 ### → [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]]
 
 Epstein-Diskussion: Homms Insider-Erfahrung als Kontext für die Systemfrage, die Wolfgang und Stefan stellen
+
+### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+
+Hübsch und Chaudhry verwenden MK Ultra als historisch belegte CIA-Forschung und ziehen die Linie zur Kybernetik und Social Media. Homm verwendet denselben Begriff als subjektive Deutungsfolie für seine eigene Elite-Formierung. Beide kreisen um dieselbe Kernfrage — ob systematische Bewusstseinsformierung ein Feature des Systems ist — nur von verschiedenen Seiten: Homm von innen (Phänomenologie), Grenzgänger von außen (Investigativrecherche).

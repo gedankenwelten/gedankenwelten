@@ -265,3 +265,7 @@ Weidels CO2-Falschbehauptungen beim AWEF als Praxisbeispiel für strategische De
 ### → [[Akkudoktor — Lanz und die Energiewende]]
 
 Live-Beispiel für Agnotologie im ÖRR: Statistische Verzerrung zur Energiewende bleibt unwidersprochen vor Millionenpublikum
+
+### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
+
+Benecke praktiziert das Gegenmittel zur wissenschaftlichen Desinformation: forensische Beweisführung mit Originaldaten, Quellenangaben und nüchternem Befund statt Moralisierung.

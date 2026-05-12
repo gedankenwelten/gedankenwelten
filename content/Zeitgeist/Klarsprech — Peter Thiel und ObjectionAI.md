@@ -184,3 +184,7 @@ Thiel ist ein Schlüsselakteur im autoritären Internationalismus: CPAC-Netzwerk
 ### → [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 
 Redeckers Konzept des „Phantombesitzes" — Machtansprüche, die sich durch vermeintliche Eigentumsverhältnisse legitimieren — beschreibt exakt Thiels Selbstverständnis: Wer Palantir besitzt, *besitzt* auch das Recht, über Wahrheit zu urteilen. ObjectionAI macht aus Redeckers Theorie ein Geschäftsmodell.
+
+### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+
+Grenzgänger Studios erzählt Thiels Geschichte als 4,5-Stunden-Tiefengespräch mit historischem Bogen — von der Apartheid-Kindheit über CIA-Finanzierung bis zum Technofeudalismus. Wo Klarsprech die vier Machtdimensionen (Politik, Überwachung, Justiz, Wahrheit) systematisch kartiert, liefern Chaudhry und Hübsch die investigative Gesamtbiografie: State-Made statt Selfmade, PayPal-Mafia als politisches Projekt.

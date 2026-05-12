@@ -79,6 +79,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## J
 
+**[[Gedankenwelten/DenkerVita/Jan Hegenberg|Jan Hegenberg]]** — Blogger ("Der Graslutscher"), Autor; Energiewendemythen entkräften, Optimismus durch Fakten, Chinas CO₂-Trendwende
+
 **[[Gedankenwelten/DenkerVita/John Rawls|John Rawls]]** — Politischer Philosoph; Schleier des Nichtwissens, Urzustand, Gleichheitsprinzip, Differenzprinzip
 
 **[[Gedankenwelten/DenkerVita/Julie Pagis|Julie Pagis]]** — Soziologin CNRS/IRIS-EHESS; Mai 68 und charismatische Herrschaft; Herrschaft vs. Beherrschen, biographische Sackgasse
@@ -103,7 +105,11 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## M
 
+**[[Gedankenwelten/DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]]** — Deutschsprachiger YouTube-Kommentator für US-Politik; lebt in Buffalo, New York; anti-Trump, faktenorientiert, unabhängig; erklärt Amerika von innen für deutschsprachiges Publikum
+
 **[[Gedankenwelten/DenkerVita/Marc Felix Serrao|Marc Felix Serrao]]** — Deutsch-brasilianischer Journalist; Chefredakteur NZZ Deutschland; Konservativ-liberales Korrektiv zum deutschen Mainstream
+
+**[[Gedankenwelten/DenkerVita/Mark Benecke|Mark Benecke]]** — Kriminalbiologe, forensischer Entomologe, Wissenschaftskommunikator; „Herr der Maden", Klimadaten mit forensischer Genauigkeit, Twitch/YouTube-Wissenschaftsvermittlung
 
 **[[Gedankenwelten/DenkerVita/Markus Gabriel|Markus Gabriel]]** — Philosoph, Bestsellerautor, Professor NRW; Sinnfeldontologie, Neuer Realismus, moralischer Universalismus, ethischer Kapitalismus
 
@@ -147,6 +153,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## S
 
+**[[Gedankenwelten/DenkerVita/Staiy|Staiy (Karim Staiy)]]** — YouTuber, Medienkritiker; meinungsmache.de, Almanara-Bica-Podcast, „NEWS"-Format; Medienschwigen, Rechtsextremismus, Demokratie aus deutsch-arabischer Perspektive
+
 **[[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz]]** — Soziologe, Autor; Die Neuen Zwanziger (mit Wolfgang M. Schmitt), ehem. Aufwachen! (mit Tilo Jung); Demografie, Spontanhistorisierung, Medienwandel
 
 **[[Gedankenwelten/DenkerVita/Steffen Mau|Steffen Mau]]** — Makrosoziologe, Professor HU Berlin, seit 2025 Direktor MPI Göttingen; Triggerpunkte statt Spaltung, Polarisierungsunternehmer, Sortiermaschinen
@@ -158,6 +166,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[Gedankenwelten/DenkerVita/Thich Nhat Hanh|Thich Nhat Hanh]]** — Zen-Meister, Engaged Buddhism, Plum Village; Vier Edle Wahrheiten als Interbeing-Verbund, Sahabhū, Vier Nährstoffe
 
 **[[Gedankenwelten/DenkerVita/Tilo Jung|Tilo Jung]]** — Politikjournalist, Gründer Jung & Naiv; transparenter Journalismus, Suffizienz statt Wachstum, marxistische Kapitalismuskritik, Grimme Online Award
+
+**[[Gedankenwelten/DenkerVita/Tim Meyer|Tim Meyer]]** — Unabhängiger Energieexperte, Autor *Strom*; ehem. dena-Geschäftsführer; Chinas Cleantech als industrielogische Transformation, Europa muss aufwachen
 
 **[[Gedankenwelten/DenkerVita/Torsten Heinrich|Torsten Heinrich]]** — Historiker, YouTuber „Militär & Geschichte"; Neutralität vs. Objektivität, Quellenkritik, Jus ad bellum vs. Jus in bello
 
@@ -198,3 +208,4 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 - [[Gedankenwelten/DenkerVita/Sigmund Freud|Sigmund Freud]] — Arzt, Neurologe, Begründer der Psychoanalyse; Unbewusstes, Ödipuskomplex, Sublimierung
 - [[Gedankenwelten/DenkerVita/Karl Marx|Karl Marx]] — Philosoph, Ökonom; Historischer Materialismus, Basis-Überbau-Theorie, Mehrwerttheorie
 - [[Gedankenwelten/DenkerVita/Marina Klimchuk|Marina Klimchuk]] — Freie Journalistin; USA, Migration, Erinnerungskultur; VDRJ-Preis 2025
+- [[Gedankenwelten/DenkerVita/Mark Benecke|Mark Benecke]] — Kriminalbiologe, forensischer Entomologe; überträgt forensische Beweisführung auf Klimadaten-Kommunikation

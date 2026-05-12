@@ -185,3 +185,6 @@ Mau benennt BILD als „Triggermedium" und liefert den soziologischen Rahmen: Tr
 ### → [[Steffen Mau — Triggerpunkte Konsens und Konflikt]]
 
 Maus Theorie der Polarisierungsunternehmer liefert den soziologischen Rahmen für das, was Topfvollgold an BILD/NIUS konkret dokumentiert: systematische Triggerpunkt-Aktivierung
+
+### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
+Staiys Medienschweigen-Analyse dokumentiert dasselbe Asymmetrie-Muster auf Macro-Ebene: weniger Berichterstattung bei deutschen Tätern als bei Tätern mit Migrationshintergrund — Topfvollgold zeigt den Mechanismus auf Artikel-Ebene (Bild/NIUS-Fabrikation).

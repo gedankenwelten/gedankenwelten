@@ -225,6 +225,10 @@ Gegenposition zu Nosthoffs Tech-Kritik: Wo Nosthoff kybernetische Steuerungsambi
 
 Trumps World Liberty Financial als konkretes Beispiel für Nosthoffs These: Wenn politische Macht und Fintech-Infrastruktur in einer Hand liegen, entsteht eine neue Form der Kontrolle. Der Unterschied zu Silicon-Valley-Oligarchen: Trump kontrolliert zusätzlich den Staat.
 
+### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+
+Hübsch zieht die Kybernetik-Linie weiter als Nosthoff: von den Macy-Konferenzen nicht nur in die Informatik, sondern auch in MK Ultra — und von dort in Social Media als skalierte Bewusstseinskontrolle. Nosthoff liefert die akademische Genealogie (Wiener, von Foerster, Stafford Beer), Hübsch die investigativ-journalistische Verlängerung bis zu Palantir und Peter Thiel. Zusammen: Kybernetik als Herrschaftstechnik von 1948 bis 2026.
+
 ### → [[Markus Gabriel — Soziale Netzwerke Neue Theorie]]
 
 Gabriels ontologische Analyse ergänzt Nosthoffs technikhistorischen Zugang: Wo Nosthoff die kybernetische Genealogie der Verhaltenssteuerung freilegt, zeigt Gabriel, dass sozialen Netzwerken die *Triangulation* fehlt — der korrigierende Gegenstand. Sein Mindestlohn-Vorschlag ist eine konkret-juristische Antwort auf dieselbe Machtkonzentration, die Nosthoff beschreibt.

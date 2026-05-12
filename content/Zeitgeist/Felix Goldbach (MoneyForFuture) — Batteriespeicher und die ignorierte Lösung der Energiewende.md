@@ -177,3 +177,7 @@ Sterners Power-to-Gas + Biogas (Langzeit) ergänzt Goldbachs Batterien (Kurzzeit
 ### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
 
 Specht liefert die systemische Erklärung für Goldbachs Kernthese: Batteriespeicher werden nicht aus Unwissenheit ignoriert, sondern weil sie im direkten Wettbewerb mit Gaskraftwerken stehen — und die Lobby dagegenhält. Specht bestätigt Goldbachs internationale Perspektive durch Marktdaten aus Kalifornien, Texas und Australien.
+
+### → [[Tim Meyer und Jan Hegenberg — China Energiewende]]
+
+Meyer und Hegenberg berichten aus chinesischen Batteriefabriken und bestätigen Goldbachs These aus der Produktionsperspektive: China hat bei Lithium-Batterien die Markteintrittsbarrieren perfektioniert (Technologie-Know-how, Materialreinheit, Skaleneffekte). Flowbatterien als europäische Langzeitspeicher-Nische könnten die von Goldbach geforderte Speicher-Revolution um eine Dimension erweitern.

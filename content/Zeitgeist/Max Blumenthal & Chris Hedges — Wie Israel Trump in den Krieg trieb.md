@@ -233,3 +233,8 @@ Reisner bestätigt aus militäranalytischer Sicht: Netanyahus Präsentation als 
 ### → [[Natalie Amiri — Hoelle auf Erden im Iran]]
 
 Bestätigt von iranischer Seite: „Trump will raus, Israel nicht." Amiris Einschätzung, dass Iran einen Deal braucht, zeigt die Verhandlungsasymmetrie.
+
+
+### → [[Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedraengt]]
+
+Netanyahus 60-Minutes-Auftritt ist die aktuellste Instanz der Strategie, die Blumenthal/Hedges historisch rekonstruieren: Netanyahu nutzt US-Medien, um Trump in Kriegspositionen zu manövrieren — diesmal nicht hinter verschlossenen Türen, sondern live vor Millionen Zuschauern. Koschi liefert den Echtzeit-Beweis für Blumenthals Architektur.

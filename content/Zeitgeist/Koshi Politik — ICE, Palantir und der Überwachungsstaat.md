@@ -111,3 +111,7 @@ Folgevideo: Was in der Anhörung ans Licht kommt über ICE-Verhaltensweisen.
 ### → [[Klarsprech — Peter Thiel und ObjectionAI]]
 
 Klarsprech zeigt den Architekten hinter Palantir: Peter Thiel und sein Gesamtsystem aus Politik (Vance), Überwachung (Palantir), Justiz und jetzt Wahrheitskontrolle (ObjectionAI). Während Koshi die Opfer von Palantirs ICE-Software dokumentiert, zeigt Klarsprech die strategische Absicht dahinter.
+
+### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+
+Grenzgänger Studios liefert den historisch-investigativen Rahmen zu Palantirs ICE-Einsatz: Thiels CIA-Startfinanzierung, die PayPal-Mafia als politisches Netzwerk und die These, dass Palantir kein Überwachungs-Startup war, sondern von Anfang an als staatliche Kontrollinfrastruktur konzipiert wurde. Koshi zeigt die Opfer — Grenzgänger Studios den Architekten und seine Biografie.

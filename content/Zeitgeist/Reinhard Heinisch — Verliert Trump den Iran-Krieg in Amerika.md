@@ -209,3 +209,8 @@ STAIY teilt Heinischs Einschätzung: Bodentruppen im Iran wären Trumps politisc
 Manuel liefert am 13.04.2026 den empirischen Beleg für Heinischs These: drei US-Flugzeuge in 24 Stunden verloren, ein Pilot vermisst — und sofort beginnt Trump, Hegseth als Sündenbock aufzubauen, exakt wie Heinisch es vorhergesagt hatte.
 
 - [[Bundestalk — Iran USA und die Strasse von Hormus]] — Bundestalk dokumentiert das geopolitische Ergebnis der innenpolitischen Zwangslage, die Heinisch analysiert hat
+
+
+### → [[Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedraengt]]
+
+Koschi dokumentiert Heinischs Thesen in Echtzeit: Fox Business beginnt zu warnen (das von Heinisch beschriebene Bröckeln der Medienbasis), Netanyahu manövriert Trump live auf 60 Minutes in eine Bodentruppen-Logik (Heinischs Szenario des außenpolitischen Kontrollverlusts), und die 35%-Zustimmungsrate bestätigt den innenpolitischen Schaden — nicht als Prognose, sondern als Gegenwart.

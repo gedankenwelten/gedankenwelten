@@ -231,3 +231,7 @@ Die eigentliche Frage ist eine andere: Wie viel Staatsmacht hat sich die Industr
 - [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] — Mühlhoffs Analyse in Echtzeit: KI als Instrument autoritärer Machterhaltung, erstmals von einem amtierenden EU-Regierungschef im Wahlkampf eingesetzt — nicht Zukunftsszenario, sondern April 2026
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Vivian Wangs China-KI-Analyse im NZ-Salon: Staatsvertrauen als KI-Vertrauen — bestätigt Mühlhoffs autoritäre KI-These
 - [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung fordert: KI-Monopole müssen vergesellschaftet werden — LLMs basieren auf kollektivem Wissen, dürfen nicht privatisiert sein
+
+### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+
+Grenzgänger Studios dokumentiert Thiels Gesamtbiografie als konkretes Fallbeispiel für Mühlhoffs Desouveränisierungs-These: CIA-Startfinanzierung → Palantir → DOGE-Datenzugriff → ObjectionAI. Was Mühlhoff als strukturelle Logik beschreibt (exponentielles KI-Wachstum erzwingt antidemokratische Governance), hat Thiel Schritt für Schritt realisiert.

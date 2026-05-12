@@ -273,3 +273,8 @@ Der Nachfolgebeitrag: Während diese Note den Völkerrechtsbruch analysiert — 
 ### → [[Koschi Politik — TACO Tuesday, Operation Freedom abgesagt]]
 
 Reuters belegt: Der Krieg hat den Iran-Atomzeitrahmen nicht verändert (weiterhin 9–12 Monate). Die operative Sinnlosigkeit des Krieges — den MONITOR völkerrechtlich einordnet — wird hier empirisch bestätigt.
+
+
+### → [[Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedraengt]]
+
+Netanyahu aktiviert die Bodentruppen-Logik öffentlich auf 60 Minutes — die politische Ereigniskette, die MONITORs völkerrechtliche Warnung vom März in aktuellen Handlungsdruck übersetzt. Was Kai Ambos als „disregard for international law" diagnostizierte, bekommt hier eine diplomatische Schnittstelle: Trump wurde öffentlich gebunden, ohne dass ein formeller Entscheid gefallen ist.

@@ -206,3 +206,7 @@ Lithium im Oberrheingraben und Kupfer in der Lausitz als zwei Seiten derselben F
 ### → [[Erwin Thoma — Strategien der Natur]]
 
 Thoma denkt in biologischen Systemen und Kreislauflogik; der Thermosyphon-Effekt in CPG folgt demselben Prinzip: nicht gegen Naturkräfte arbeiten, sondern mit ihnen.
+
+### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
+
+Benecke kontextualisiert die CO₂-Technologien: Net Zero hätte vor zwei Jahren erreicht werden müssen, die Treppenstufen der Erwärmung lassen sich technologisch nicht rückgängig machen.
