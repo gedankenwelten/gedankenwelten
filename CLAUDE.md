@@ -37,7 +37,7 @@ content/
 ## Lokale Wiki
 
 ```bash
-docker compose up   # → http://localhost:8080 (Auto-Rebuild bei Dateiänderungen)
+docker compose up   # → http://localhost:9999 (Auto-Rebuild bei Dateiänderungen)
 ```
 
 ## Skills & Agenten

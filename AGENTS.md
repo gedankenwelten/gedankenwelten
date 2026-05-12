@@ -10,7 +10,7 @@ Claude Code · Gemini CLI · OpenAI Codex · Aider · Cline · Cursor
 Gedankenwelten is an open knowledge platform for political and philosophical thinking — fact-checked, interconnected, analytical.
 Vision: counter-model to the algorithmic outrage loop. Not neutral, but documented perspective with fact-checks.
 
-**Local wiki:** `docker compose up` → http://localhost:8080 (auto-rebuilds on file changes)
+**Local wiki:** `docker compose up` → http://localhost:9999 (auto-rebuilds on file changes)
 
 ---
 

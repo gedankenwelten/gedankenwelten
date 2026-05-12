@@ -18,7 +18,7 @@ cd gedankenwelten
 docker compose up
 ```
 
-Wiki öffnen: **http://localhost:8080**
+Wiki öffnen: **http://localhost:9999**
 
 Die Wiki baut sich bei jeder Dateiänderung in `content/` automatisch neu.
 

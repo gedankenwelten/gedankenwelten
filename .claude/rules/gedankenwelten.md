@@ -27,7 +27,7 @@ content/
 Die Wiki läuft als Docker-Container und baut sich bei Dateiänderungen automatisch neu:
 
 ```bash
-docker compose up        # Wiki starten → http://localhost:8080
+docker compose up        # Wiki starten → http://localhost:9999
 docker compose up -d     # Im Hintergrund starten
 docker compose down      # Stoppen
 ```
