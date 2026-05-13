@@ -1,12 +1,12 @@
 ---
 title: Rainer Mausfeld — Warum schweigen die Lämmer?
 tags:
+  - denker
   - philosophie
   - macht
   - psychologie
   - demokratie
   - menschenbild
-  - quelle
 aliases:
   - Mausfeld
   - Lämmer
@@ -14,9 +14,12 @@ aliases:
 
 # Rainer Mausfeld — Warum schweigen die Lämmer?
 
-Quellen:
-- Vortrag im DAI Heidelberg — `Gedankenwelten/Transkripte/Mausfeld_Warum_schweigen_die_Laemmer_Transkript.txt`
-- Vortrag *Demokratie und Menschenbild* (21.04.2023) — `Gedankenwelten/Transkripte/Mausfeld_Demokratie_Menschenbild_Transkript.txt`
+| | |
+|---|---|
+| **Vortrag** | [Warum schweigen die Lämmer? — DAI Heidelberg](https://www.youtube.com/watch?v=-kLzmatet8w) |
+| **Vortrag** | [Demokratie und Menschenbild (21.04.2023)](https://www.youtube.com/watch?v=TCZ24kdcs6E) |
+| **Transkript 1** | `Gedankenwelten/Transkripte/Mausfeld_Warum_schweigen_die_Laemmer_Transkript.txt` |
+| **Transkript 2** | `Gedankenwelten/Transkripte/Mausfeld_Demokratie_Menschenbild_Transkript.txt` |
 
 Professor für Wahrnehmungs- und Kognitionspsychologie, Universität Kiel (emeritiert). Mausfeld erklärt, wie politische Macht systematisch Angst einsetzt — und warum wir das so selten durchschauen.
 
@@ -25,7 +28,7 @@ Professor für Wahrnehmungs- und Kognitionspsychologie, Universität Kiel (emeri
 
 ---
 
-## 1. Angst als ältestes Machtinstrument
+## 1. Angst als ältestes Machtinstrument [▶ 2:30](https://www.youtube.com/watch?v=-kLzmatet8w&t=150)
 
 Schon der griechische Historiker Polybius erkannte: Die Masse muss durch *diffuse Angst und Schrecken* im Zaum gehalten werden. Für die Mächtigen gab es immer nur zwei Optionen:
 
@@ -39,7 +42,7 @@ Demokratie entstand historisch als zivilisatorischer Versuch, die Exzesse der Ma
 
 ---
 
-## 2. Wie neurotische Angst erzeugt wird
+## 2. Wie neurotische Angst erzeugt wird [▶ 9:34](https://www.youtube.com/watch?v=-kLzmatet8w&t=574)
 
 Angstquellen wirken auf mehreren Ebenen:
 
@@ -54,9 +57,27 @@ Was Angst im Menschen auslöst:
 > [!tip] Das Kalkül
 > Die entstehende psychische Energie muss **umgelenkt** werden — auf Ablenkziele, auf Feindbilder — damit sie sich nicht gegen die tatsächlichen Machtzentren richtet. Das wurde nicht heimlich erfunden. Es wurde offen diskutiert, dokumentiert und systematisiert.
 
+### Soziale Atomisierung — gewollte Isolation [▶ 20:22](https://www.youtube.com/watch?v=-kLzmatet8w&t=1222)
+
+Angst entsteht nicht nur durch Feindbilder von außen — sie entsteht auch durch das systematische Auflösen sozialer Bindungen. Mausfeld benennt es direkt:
+
+> *„Die soziale Atomisierung — wir haben soziale Bindungen verloren, die uns halt geben und die damit immer auch angst-reduzierend wirken. Die Einbettung in natürliche soziale Strukturen ist sozusagen das natürliche Gegenmittel gegen die Entstehung von diffusen Ängsten."*
+
+Die natürliche Gegenstrategie gegen neurotische Ängste wäre kollektive Einbettung — genau diese wird durch Flexibilitätsdruck, Prekarisierung und die Auflösung von Gemeinschaftsstrukturen systematisch untergraben. Das ist kein Nebeneffekt: Atomisierte Gesellschaften können sich nicht kollektiv wehren.
+
+**Apathie als Systemziel.** Was wie eine unbeabsichtigte Dysfunktion aussieht, war in der frühen Demokratietheorie der Machteliten explizit formuliertes Ziel. Mausfeld zitiert den politisch unverdächtigen Johannes Agnoli (1970/2002):
+
+> [!quote] Agnoli, 2002 [▶ 69:47](https://www.youtube.com/watch?v=-kLzmatet8w&t=4187)
+> „Der neue Autoritarismus ist für die Bevölkerung kaum noch zu bemerken — sie kriegen es gar nicht mit. Worin liegt er? Entscheidend: möglichst apathische Bevölkerung, Verstummen des demokratischen Diskurses, die Exekutive entzieht sich dem Volk und seinen gewählten Vertretern. Das ist das Hauptkennzeichen und wichtigste Indikator für einen Übergang zu einem autoritären System."
+
+Mittlerweile sei es laut Mausfeld weitgehend Konsens unter Politologen: Die Exekutive hat sich von demokratischer Konsensbildung fast vollständig frei gemacht. Der Autoritarismus beruht gerade auf dem *freiwilligen Verzicht* der Bevölkerung auf Partizipation — und auf ihrer Apathie.
+
+> [!question] Weitergedacht
+> Wenn Apathie das *Ziel* des Systems ist — wer ist dann der Gegner? Nicht der Diktator, der offen unterdrückt, sondern das System, das Teilnahmslosigkeit produziert und Zustimmung simuliert. *Wie kämpft man gegen einen Feind, der einem zunächst das Kämpfen abgewöhnt hat?*
+
 ---
 
-## 3. Meinungsmanagement — die unsichtbare Propaganda
+## 3. Meinungsmanagement — die unsichtbare Propaganda [▶ 24:12](https://www.youtube.com/watch?v=-kLzmatet8w&t=1452)
 
 Mausfeld bezieht sich auf **Edward Bernays**, den Begründer der modernen PR:
 
@@ -73,9 +94,28 @@ Drei zentrale Techniken:
 > [!quote] Platons Höhlengleichnis — aktualisiert
 > Die Höhle ist heute kein physischer Raum. Sie ist der Algorithmus, die Bubble, das Smartphone. Und sie ist komfortabel.
 
+### Kapitalismus und Demokratie — das strukturelle Spannungsfeld [▶ 53:29](https://www.youtube.com/watch?v=-kLzmatet8w&t=3209)
+
+Hinter dem Meinungsmanagement steckt eine strukturelle Ursache. Mausfeld nennt sie offen:
+
+> *„Kapitalismus und Demokratie stehen in einem Spannungsverhältnis. Und es droht immer, dass dieses Spannungsverhältnis zu offenkundig wird. Deswegen ist Passion-Management gerade wichtig in kapitalistischen Demokratien — damit nicht so richtig auffällt, dass sich das eigentlich beißt."*
+
+Chomsky formuliert es zugespitzt, und Mausfeld zitiert ihn zustimmend:
+
+> *„Der Begriff 'kapitalistische Demokratie' ist gleichsam ein Widerspruch in sich — wenn wir darunter ein System verstehen, in dem normale Leute ausreichende Mittel besitzen, an den Entscheidungen teilzunehmen, die ihr Leben betreffen."*
+
+**Die Gilens-Page-Studie** liefert den empirischen Befund. Martin Gilens und Benjamin Page (Princeton) untersuchten über 25 Jahre, welche Präferenzen tatsächlich in politische Entscheidungen einfließen. Das Ergebnis: [▶ 55:01](https://www.youtube.com/watch?v=-kLzmatet8w&t=3301)
+
+> Die untersten 70 Prozent der Einkommensskala haben nahezu **null Einfluss** auf politische Entscheidungen. Politische Entscheidungen werden von mächtigen Wirtschaftsorganisationen und einer kleinen Anzahl wohlhabender Amerikaner dominiert — die USA sind faktisch eine **Elite-Wahl-Oligarchie**.
+
+Mausfeld kommentiert nüchtern: *„Damit ist eigentlich die Idee der kapitalistischen Demokratie erledigt."*
+
+> [!note] Warum Angst systembedingt ist
+> Kapitalismus bedeutet existenzielle Abhängigkeit vom Verkauf der eigenen Arbeitskraft — Unterwerfung unter fremdes Eigentum. Diese strukturelle Abhängigkeit produziert zwangsläufig Angst. Das Meinungsmanagement ist deshalb nicht bloß Herrschaftsinteresse — es ist eine **Systemnotwendigkeit**: Ohne es würde die Unverträglichkeit von Kapitalismus und Demokratie zu offensichtlich.
+
 ---
 
-## 4. Das kreative Potenzial des Menschen — der Schlüsselsatz
+## 4. Das kreative Potenzial des Menschen — der Schlüsselsatz [▶ 86:12](https://www.youtube.com/watch?v=-kLzmatet8w&t=5172)
 
 Am Ende des Vortrags kommt Mausfeld zu dem, was eigentlich das Ziel ist. Nicht Kritik um der Kritik willen — sondern ein Bild davon, was möglich wäre:
 
@@ -91,7 +131,7 @@ Am Ende des Vortrags kommt Mausfeld zu dem, was eigentlich das Ziel ist. Nicht K
 
 ---
 
-## 5. Das Menschenbild als politisches Schlachtfeld
+## 5. Das Menschenbild als politisches Schlachtfeld [▶ 18:01](https://www.youtube.com/watch?v=TCZ24kdcs6E&t=1081)
 
 *(aus: Demokratie und Menschenbild, 2023)*
 
@@ -105,7 +145,7 @@ Das Menschenbild — die Grundannahme, was der Mensch ist — hat immer ein Dopp
 
 ---
 
-## 6. Was der Mensch wirklich ist — die Doppelnatur
+## 6. Was der Mensch wirklich ist — die Doppelnatur [▶ 34:30](https://www.youtube.com/watch?v=TCZ24kdcs6E&t=2070)
 
 Der entscheidende evolutionäre Schritt: Das menschliche Gehirn hat sich von *rigider Instinktbindung* befreit. Einige psychische Kapazitäten laufen nicht mehr mechanisch ab — sie sind **freigesetzt** für symbolisches Operieren.
 
@@ -124,7 +164,7 @@ Das ist der Trick. Darauf beruht Sprache, Mathematik, Kunst, Musik — und die F
 
 ---
 
-## 7. Mangelwesen und Überschusswesen
+## 7. Mangelwesen und Überschusswesen [▶ 44:53](https://www.youtube.com/watch?v=TCZ24kdcs6E&t=2693)
 
 Der Mensch ist beides zugleich:
 
@@ -139,7 +179,7 @@ Der Mensch ist beides zugleich:
 
 ---
 
-## 8. Schutzbalken — warum Demokratie unverzichtbar ist
+## 8. Schutzbalken — warum Demokratie unverzichtbar ist [▶ 46:25](https://www.youtube.com/watch?v=TCZ24kdcs6E&t=2785)
 
 Was fehlt (biologische Selbstregulierung), muss zivilisatorisch ersetzt werden: durch **Schutzbalken**.
 
@@ -154,7 +194,27 @@ Demokratie ist kein Selbstzweck — sie ist der zivilisatorische Schutzschild ge
 
 ---
 
-## 9. Kritische Einschränkung
+## 9. Der ideologische Käfig — und Mausfelds ehrliche Antwort [▶ 100:17](https://www.youtube.com/watch?v=TCZ24kdcs6E&t=6017)
+
+*(aus: Demokratie und Menschenbild, 2023)*
+
+Am Ende des zweiten Vortrags stellt jemand die naheliegende Frage: *Was können wir tun?* Mausfeld antwortet ungewöhnlich offen:
+
+> [!quote] Mausfeld, Schluss des Vortrags
+> „Wenn Ihnen jemand auf diese Frage eine Antwort gibt — verlassen Sie bitte den Raum. Es gibt keine autoritären Handbücher. Das einzige, was wir tun können: Wir müssen aus dem ideologischen Käfig raus. Wie das passiert — das können Kindergartengruppen machen, das können Schulen machen. Eine Bewegung muss von innen kommen. Wenn es nicht von innen kommt, können wir es vergessen."
+
+Und dann folgt sein dunkelster Satz:
+
+> *„Meine einzige Hoffnung ist: Irgendwann wird der Druck so groß, dass der ideologische Käfig brüchig wird. Wenn ich auf die Geschichte zurückgehe — das ist fast immer nur nach großen Blutspuren passiert. Nach dem Dreißigjährigen Krieg kam die Aufklärung. Nach dem Zweiten Weltkrieg die allgemeinen Menschenrechte. Die Menschen brauchen erst die Blutspuren, bis sie zusammenzucken — weil sie durch Konsumismus, durch billige Unterhaltung, durch Verflachung so eingebunden sind in den ideologischen Käfig, dass sie da gar nicht rauskommen."*
+
+Das ist kein Nihilismus — es ist historisches Bewusstsein. Mausfeld gibt keine Antwort auf die Handlungsfrage, weil ehrliche Systemanalyse keine einfachen Rezepte erlaubt. Der ideologische Käfig ist so konstruiert, dass die Suche nach dem Ausgang selbst noch innerhalb des Käfigs stattfindet.
+
+> [!question] Weitergedacht
+> Mausfeld sagt: Veränderung kam historisch fast immer erst nach Katastrophen. Aber *gibt es Gegenbeispiele — Gesellschaften, die den Käfig ohne Blutspuren verlassen haben?* Und wenn nicht: Bedeutet das, dass wir warten müssen — oder dass wir die Bedingungen aktiv verändern können, unter denen Erkenntnis entsteht?
+
+---
+
+## 10. Kritische Einschränkung
 
 Mausfelds Thesen wurden von sehr unterschiedlichen Lagern vereinnahmt — darunter russlandnahe Plattformen und Verschwörungsideologen.
 
@@ -230,6 +290,25 @@ KI-generierter Conspiracy-Content, der Angst als Loosh-Ernte narrativiert — di
 Haidt beschreibt die innere Psychologie der Stammeslogik — die Anfälligkeit, die Mausfeld von außen manipuliert sieht. Haidt zeigt, warum Menschen in moralischen Matrizen gefangen sind; Mausfeld zeigt, wer diese Matrizen gezielt konstruiert und verstärkt. Innere Anfälligkeit × äußere Manipulation = Polarisierung als System.
 
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Zupančičs Verleugnen im NZ-Salon als philosophische Mikro-Analyse von Mausfelds demokratischer Selbsttäuschung
+
+---
+
+## Sokrates im Verhör
+
+> [!question] Was Sokrates Mausfeld gefragt hätte
+> Sokrates würde nicht widersprechen — er würde fragen, bis das System bricht.
+>
+> **„Du sagst, Manipulation operiert unterhalb der Bewusstseinsschwelle. Aber wie weißt du das — du, Rainer Mausfeld — bist du selbst nicht manipuliert? Wenn der Käfig wirklich unsichtbar ist, *woran erkennst du, dass du außerhalb bist?*"**
+>
+> Mausfeld würde antworten: Durch reflexive Distanz, wissenschaftliche Methode, historische Analyse.
+>
+> Sokrates: *„Und diese Methode — hat sie dir dein Milieu, deine Universität, deine Gesellschaft beigebracht? Ist die Wissenschaft nicht selbst ein Schutzbalken — der manchmal auch käfig ist?"*
+>
+> **„Du sagst, der Mensch ist ein Möglichkeitsorgan. Gut. Dann ist er auch fähig, freiwillig im Käfig zu bleiben — nicht aus Unwissenheit, sondern aus Wahl. Wie unterscheidest du die Schafe, die nicht wissen dass sie Schafe sind, von denen, die es wissen und trotzdem schweigen?"**
+>
+> Und zuletzt:
+>
+> **„Du weißt alles über den Käfig. Du hast seit Jahrzehnten Vorträge gehalten. Was hat das geändert? Wenn dein Wissen keine Veränderung bewirkt — *ist es dann Wissen, oder ist es nur ein weiteres Stück Käfig?*"**
 
 ---
 
