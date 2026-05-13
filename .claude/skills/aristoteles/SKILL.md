@@ -134,44 +134,23 @@ Bei Zeitgeist-Notes: eingebettete Einordnung im Fließtext (subtiler, aber vorha
 
 ---
 
-## Phase 5 — Aristoteles-Fragen: Denkbewegung auslösen
+## Phase 5 — Sokrates: Denkbewegung auslösen
 
-### Inline-Fragen (2–4 pro Note)
+Nach dem Schreiben der Analyse wird der **Sokrates-Skill** aufgerufen (Modus 1 — Note-Fragen):
 
-```markdown
-### [Abschnittstitel]
-
-[... Analyse ...]
-
-> [!question] Weitergedacht
-> Wenn [These aus dem Abschnitt] — *was bedeutet das für [konkreten Aspekt]?*
+```
+Aristoteles Phase 1–4: Analyse fertig
+     ↓
+→ Sokrates (Modus 1): Inline-Fragen + ## Weiterdenken generieren
+     ↓
+Aristoteles Qualitäts-Gate: Prüft Sokrates-Output
 ```
 
-**Auswahlkriterien für inline:**
-- Abschnitt enthält kontraintuitive These → Frage stellen
-- Sprecher zieht Konsequenz nicht zu Ende → Frage stellt sie
-- Offensichtlicher Widerspruch zu anderem Denker → Brücken-Frage
-- NICHT nach jedem Abschnitt (ermüdet) — 2–4 reicht
+Sokrates generiert:
+- **2–4 inline** `> [!question] Weitergedacht`-Callouts an substanziellen Stellen
+- **`## Weiterdenken`** mit 3–5 übergreifenden Fragen (adversarial, verbindend, Konsequenz)
 
-### `## Weiterdenken` — Abschluss
-
-```markdown
----
-
-## Weiterdenken
-
-> [!question] Was Aristoteles vielleicht gefragt hätte
-> - [Übergreifende Frage 1 — fordert Kernthese heraus]
-> - [Frage 2 — Brücke zu anderem Denker oder Note]
-> - [Frage 3 — praktische Konsequenz für den Leser]
-> - [Frage 4 — stärkstes Gegenargument]
-```
-
-**Qualität der Fragen:**
-- Nicht rhetorisch — echte offene Fragen ohne offensichtliche Antwort
-- Mindestens eine *adversariale* Frage (das stärkste Gegenargument)
-- Mindestens eine *verbindende* Frage (Brücke zu anderem Denker/Note)
-- 3–5 Fragen, keine trivial oder googlebar
+Alle Details zu Fragetypen, Qualitätsregeln und Format → siehe **Sokrates-Skill** (`sokrates`).
 
 ---
 
@@ -183,6 +162,7 @@ Bei Zeitgeist-Notes: eingebettete Einordnung im Fließtext (subtiler, aber vorha
 □ ≥ 5 direkte Zitate mit Timestamp?
 □ Jeder Abschnitt hat eigene Einordnung (nicht nur Referat)?
 □ Kein Abschnitt der nur "X sagte Y" ist ohne Kommentar?
+□ Sokrates-Skill ausgeführt (Fragen + Weiterdenken)?
 □ 2–4 inline > [!question]-Callouts an substanziellen Stellen?
 □ ## Weiterdenken mit 3–5 übergreifenden Fragen vorhanden?
 □ Mindestens 1 adversariale + 1 verbindende Frage?

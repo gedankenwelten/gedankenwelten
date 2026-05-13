@@ -70,7 +70,7 @@ tags: [denker-vita, <thema>]
 
 ## Pflicht-Checkliste: Neue Note abschließen
 
-1. **Aristoteles-Fragen**: 2–4 inline `> [!question]`-Callouts + `## Weiterdenken` am Ende.
+1. **Sokrates-Fragen**: 2–4 inline `> [!question]`-Callouts + `## Weiterdenken` am Ende. → Sokrates-Skill aufrufen.
 2. **Sherlock-Faktencheck**: Pflicht bei Zeitgeist-Notes.
 3. **Montaigne Cross-Linking**: Verbindungen zu bestehenden Notes.
 4. **Quellen & Links.md**: Eintrag anlegen.
@@ -78,7 +78,9 @@ tags: [denker-vita, <thema>]
 
 Die lokale Wiki baut sich beim nächsten File-Save automatisch neu — kein Extra-Schritt nötig.
 
-## Aristoteles-Fragen
+## Sokrates-Fragen
+
+Jede Note bekommt Fragen — verteilt im Text UND gesammelt am Ende. **Der Sokrates-Skill (`sokrates`) ist die Referenz für Fragetypen, Qualität und Format.**
 
 ### Inline-Fragen (2–4 pro Note)
 ```markdown
@@ -92,7 +94,7 @@ Die lokale Wiki baut sich beim nächsten File-Save automatisch neu — kein Extr
 
 ## Weiterdenken
 
-> [!question] Was Aristoteles vielleicht gefragt hätte
+> [!question] Was Sokrates vielleicht gefragt hätte
 > - Wenn [Kernthese] stimmt — *was folgt daraus?*
 > - [Sprecher] sagt [X] — aber widerspricht das nicht [Y]?
 > - Wem nützt es, wenn wir [Annahme] für selbstverständlich halten?

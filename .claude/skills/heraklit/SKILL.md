@@ -72,28 +72,19 @@ Das Transkript gezielt durchsuchen — nicht nochmal alles lesen, sondern:
 - Verbindungen oder Faktencheck ändern (das ist nicht sein Job)
 - Die Struktur der Note komplett umbauen
 
-### Schritt 4 — Aristoteles-Fragen nachrüsten
+### Schritt 4 — Sokrates: Fragen nachrüsten
 
-Wenn die Note **keine** `> [!question]`-Callouts und keinen `## Weiterdenken`-Abschnitt hat, fügt Heraklit diese hinzu:
+Wenn die Note **keine** `> [!question]`-Callouts und keinen `## Weiterdenken`-Abschnitt hat, ruft Heraklit den **Sokrates-Skill** auf (Modus 1 — Note-Fragen):
 
-**Inline-Fragen (2–4):**
-- Fertige Abschnitte durchgehen: Wo provoziert der Inhalt eine offene Frage?
-- `> [!question] Weitergedacht` nach den substanziellsten Stellen
-
-**Abschluss-Abschnitt:**
-```markdown
----
-
-## Weiterdenken
-
-> [!question] Was Aristoteles vielleicht gefragt hätte
-> - [3–5 übergreifende, nicht-rhetorische Fragen]
+```
+Heraklit Schritt 1–3: Diagnose → Transkript → Vertiefen
+     ↓
+→ Sokrates (Modus 1): Inline-Fragen + ## Weiterdenken generieren
+     ↓
+Heraklit Schritt 5: Qualitäts-Check
 ```
 
-**Qualitäts-Check für Fragen:**
-- Mindestens 1 adversariale Frage (Herausforderung)
-- Mindestens 1 verbindende Frage (Brücke zu anderem Denker/Note)
-- Keine Frage ist trivial oder googlebar
+Alle Details zu Fragetypen, Platzierung und Qualitätsregeln → siehe **Sokrates-Skill** (`sokrates`).
 
 ### Schritt 5 — Qualitäts-Check
 
@@ -103,6 +94,7 @@ Nach dem Vertiefen erneut prüfen:
 □ Jeder Abschnitt ≥ 120 Wörter?
 □ ≥ 5 direkte Zitate mit Timestamp?
 □ Keine „Zusammenfassungs-Absätze" mehr ohne Substanz?
+□ Sokrates-Skill ausgeführt (Fragen vorhanden)?
 □ 2–4 inline > [!question]-Callouts vorhanden?
 □ ## Weiterdenken mit 3–5 Fragen vorhanden?
 ```
@@ -122,6 +114,6 @@ git push origin main
 - [ ] Transkript gezielt durchsucht
 - [ ] Dünne Abschnitte vertieft (Zitate, Herleitungen)
 - [ ] Eventuell neuen Abschnitt für übergangenes Thema
-- [ ] Aristoteles-Fragen nachrüsten (inline + Weiterdenken)
+- [ ] Sokrates-Fragen nachrüsten (inline + Weiterdenken)
 - [ ] Qualitäts-Check bestanden (≥1200 Wörter Inhalt)
 - [ ] Commit & Push
