@@ -179,3 +179,7 @@ Göpels „menschenzentrierte Fortschrittsagenda" und Gemeinwohlprodukt sind die
 ### → [[Mark Benecke — Fragerunde Time Is Up 2026]]
 
 Göpels „Agency gegen Ohnmacht" ist die akademische Fassung von Beneckes pragmatischem „Was machst du in den nächsten 5 Minuten?". Beide antworten auf Hoffnungslosigkeit nicht mit Trost, sondern mit Handlungsspielraum.
+
+### → [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
+
+Göpel als Gastgeberin und Sparringspartnerin — ihr „Forwardlash"-Begriff verschärft Quents These: Die Klimakrise ist keine Nebensache für Rechtsextremismus, sondern sein Auslöser. Faschismus ist die Antwort der extremen Rechten auf die planetaren Grenzen
