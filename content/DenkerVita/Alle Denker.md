@@ -121,6 +121,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Martin Sonneborn|Martin Sonneborn]]** — Satiriker, Ex-Chefredakteur *Titanic*, Die PARTEI, MdEP 2014–2024; Krieg als Geschäftsmodell, Medien erzeugen Zustimmung, Satire als politisches Instrument
 
+**[[Gedankenwelten/DenkerVita/Matthias Quent|Matthias Quent]]** — Soziologe, Rechtsextremismusforscher, Professor HS Magdeburg-Stendal; Verherrlichung der Ohnmacht, NSU als Gesellschaftsdiagnose, Normalisierung als Strategie, wehrhafte Demokratie
+
 **[[Gedankenwelten/DenkerVita/Maurice Hoefgen|Maurice Höfgen]]** — Ökonom, YouTuber ("Geld für die Welt", 251.000+ Abonnenten), Kolumnist Berliner Zeitung; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse
 
 **[[Gedankenwelten/DenkerVita/Michael Sterner|Michael Sterner]]** — Professor Energiespeicher/Energiesysteme OTH Regensburg, Mitentwickler Power-to-Gas, Bayerischer Energiebeirat; dezentrale Wertschöpfung, Technologieoffenheit, wissenschaftliche Freiheit
