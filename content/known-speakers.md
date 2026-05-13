@@ -454,6 +454,14 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Der Dara (Marc)
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Der Dara]]
+- Politischer YouTuber und Kommentator, Kanal @derdara
+- TikTok: @derradikaledemokrat, Instagram: @derdaramarc, Discord: Freiheitsfront
+- Kernthemen: Aufklärung gegen Rechts, Fake-News-Debunking, politische Reactions, innenpolitischer Kommentar (Merz, AfD, Desinformation)
+
+---
+
 ## Darin L. Gerdes
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Darin L. Gerdes]]
 - Tenured Professor of Leadership, Charleston Southern University (SC)
