@@ -122,6 +122,10 @@ Aber es gibt noch eine vierte Reaktion — eine, die *vor* dem Bauen kommt und e
 
 Die Architekten bauen Systeme. Aber wer baut die Architekten? Die Antwort: andere Menschen. Durch die Art, wie sie ihnen begegnen. Durch Samen, die sie pflanzen — unsichtbar, unterirdisch, vernetzt wie Myzel. Das Netzwerk ist die Voraussetzung für das Bauen. Ohne Menschen, die einander Mut machen und Selbstwirksamkeit erfahren lassen, gibt es keine Architekten.
 
+Matthias Quent liefert die empirische Vermessung dieser Verteilung. Seine Clusteranalyse ([[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Quent/Göpel — Extremismus NEU DENKEN]]) zeigt: **~30%** der Bevölkerung sind umfassend ohnmächtig. Weitere **~30%** resigniert. **~20%** reagieren situativ — mal engagiert, mal passiv. Und nur **~16%** gehören zu den „Kämpfenden" — die sich organisieren, diskutieren, handeln. Diese sechzehn Prozent *sind* die Demokratie-Infrastruktur. Nicht der Staat, nicht die Parteien — Graswurzelbürger:innen.
+
+Quents entscheidender Befund: **Hoffnung kommt vom Machen.** Die Daten zeigen, dass diejenigen, die am besten mit Krisen umgehen, nicht die Privilegiertesten sind — sondern die Handelnden. Und: Nicht jeder muss in der ersten Reihe stehen. Bei den Omas gegen Rechts einen Kuchen backen *kann* ein Akt der Selbstbemächtigung sein — für jemanden, der sein ganzes Leben ohnmächtig war. Das ist die konkreteste Antwort auf Mausfelds düsteres *„Erst nach großen Blutspuren"*: Nicht die Katastrophe bringt die Wende, sondern das beharrliche Handeln. Graswurzelprozesse. Immer wieder.
+
 > [!note] Eigene Einschätzung
 > Die Architekten des Lebendigen sind keine Helden und keine Heiligen. Es sind Menschen wie Laura Zöckler (Politikwissenschaftlerin, die morgens gerne ins Büro geht) oder Mark van Baal (Ex-Journalist mit acht Leuten und einem Hund). Der Unterschied zu den Gefangenen ist nicht Intelligenz oder Moral — es ist die **Entscheidung, weder zu erstarren noch zu fliehen, sondern zu bauen**. Das ist das, was Fromm „produktive Orientierung" nennt, was Rosa „Resonanz" nennt, was Hüther „Lebendigkeit" nennt.
 >
@@ -418,6 +422,10 @@ Architekten denkt in Systemen (top-down: Genossenschaften, Bürgerenergie, Bildu
 ### → [[Rebecca Boehme — So trickst du dein Gehirn aus]]
 
 Der neurowissenschaftliche Beweis, dass Schockstarre kein Schicksal ist: Predictive Coding, Reappraisal, der trainierbare Raum zwischen Reiz und Reaktion. Böhme liefert das Werkzeug, mit dem Einzelne sich aus der Erstarrung befreien — und damit zur vierten Reaktion (Begegnen) fähig werden.
+
+### → [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
+
+Quent liefert die empirische Vermessung der Ohnmacht: 30% umfassend ohnmächtig, 30% resigniert, 16% kämpfend. Sein Kernbefund — „Hoffnung kommt vom Machen" — ist die empirische Bestätigung des Architekten-Prinzips: Nicht die Privilegiertesten kommen am besten durch Krisen, sondern die Handelnden. Und sein „Nicht jeder muss in der ersten Reihe stehen" übersetzt die vierte Reaktion (Begegnen) in den Alltag: Ein Kuchen bei den Omas gegen Rechts kann Selbstbemächtigung sein.
 
 ---
 
