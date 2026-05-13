@@ -8,6 +8,14 @@ tags:
 
 # Quellen & Links
 
+## Der Dara — Merz plant 72-Stunden-Arbeitswoche
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Merz Plant 72-Stunden-Arbeitswoche Und Wird Dafür Heftig ZERLEGT!](https://www.youtube.com/watch?v=5UkPzz8gCys) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Dara_Merz_72h_Arbeitswoche_Transkript.txt` |
+
 ## Tim Meyer & Jan Hegenberg — In China lachen sie über unsere Energiewende
 
 | | |
