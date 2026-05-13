@@ -460,7 +460,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
-## Der Dara (Marc)
+## Der Dara (Dara Marc Sasmaz)
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Der Dara]]
 - Politischer YouTuber und Kommentator, Kanal @derdara
 - TikTok: @derradikaledemokrat, Instagram: @derdaramarc, Discord: Freiheitsfront
