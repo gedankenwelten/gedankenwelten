@@ -183,3 +183,7 @@ Göpels Agency-Agenda als Heilmittel gegen die „Verherrlichung der Ohnmacht". 
 ### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 MONITORs empirischer Befund (AfD-Wähler suchen den Bruch, nicht kompetente Regierung) erklärt, warum von Luckes institutioneller Optimismus scheitern musste — und warum Merz' Rechtsruck-Imitation die AfD stärkt statt schwächt.
+
+### → [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
+
+Quent ist in der MONITOR-Reportage als Experte vertreten — im NEU DENKEN Gespräch entfaltet er die dort angerissene These der „Verherrlichung der Ohnmacht" systematisch: vier Reaktionsmuster, empirische Clusteranalyse (30% ohnmächtig, 16% kämpfend), Faschismus als Technik der Emotionalisierung

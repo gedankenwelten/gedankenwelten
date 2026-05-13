@@ -330,6 +330,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Matthias Quent
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Matthias Quent]]
+- Soziologe, Rechtsextremismusforscher, HS Magdeburg-Stendal; Gründungsdirektor IDZ Jena
+- "Rassismus, Radikalisierung, Rechtsterrorismus" (2016), "Deutschland rechts außen" (2019), "Keine Macht der Ohnmacht" (2026)
+- Kernthesen: Verherrlichung der Ohnmacht, NSU als Gesellschaftsdiagnose, Normalisierung als Strategie, wehrhafte Demokratie
+
 ## Matthieu Ricard
 **Status:** Stub
 - Französischer Mönch, Autor, Wissenschaftsberater des Dalai Lama

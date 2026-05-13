@@ -322,3 +322,4 @@ Mausfelds Thesen wurden von sehr unterschiedlichen Lagern vereinnahmt — darunt
 - RAND Corporation: *Firehose of Falsehood* — russische Desinformationsstrategie
 - Sophokles: *Antigone* — *deinon*, das Ungeheuerliche des Menschen
 - Humboldt: von endlichen Mitteln unendlichen Gebrauch machen
+- [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]] — Mausfeld beschreibt die Erzeugung von Ohnmacht durch Eliten; Quent untersucht die Reaktionen der Ohnmächtigen (Fromms vier Muster) und den Ausweg: „Hoffnung kommt vom Machen" — die Gegenposition zu Mausfelds „erst nach großen Blutspuren"
