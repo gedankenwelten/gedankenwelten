@@ -8,16 +8,16 @@ tags: []
 
 Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 
-**>Name**<br>
-Straße<br>
-Postleitzahl Stadt
+**Andreas Schmieder**<br>
+Hebelstr. 1<br>
+79104 Freiburg im Breisgau
 
-**E-Mail:** [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org)
+**E-Mail:** [luc@gedankenwelten.net](mailto:luc@gedankenwelten.net)
 
 ---
 
 Verantwortlicher für den Inhalt nach § 18 Abs. 2 MStV:
 
-**Name**<br>
-Straße<br>
-Postleitzahl Stadt
+**Andreas Schmieder**<br>
+Hebelstr. 1<br>
+79104 Freiburg im Breisgau
