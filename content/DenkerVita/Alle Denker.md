@@ -25,6 +25,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## C
 
+**[[Gedankenwelten/DenkerVita/Christoph Hein|Christoph Hein]]** — Wirtschaftsjournalist (FAZ); 25 Jahre Asien-Korrespondent, Geoökonomie, Weltwirtschaft als geopolitisches Machtinstrument
+
 **[[Gedankenwelten/DenkerVita/Clara Mattei|Clara Mattei]]** — Ökonomin; Austerität als Kern des Kapitalismus, Liberalismus-Faschismus-Konvergenz, *The Capital Order*
 
 **[[Gedankenwelten/DenkerVita/Christoph Moellers|Christoph Möllers]]** — siehe unter A

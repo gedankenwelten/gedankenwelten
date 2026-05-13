@@ -174,6 +174,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 - Armutsforschung, Sozialpolitik-Kritik; "Armut in Deutschland" (2016)
 - Links
 
+## Christoph Hein
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christoph Hein]]
+- Wirtschaftsjournalist, FAZ seit 1997; 25 Jahre Asien-Korrespondent (Singapur)
+- Geoökonomie, Weltwirtschaft als geopolitisches Machtinstrument; F.A.Z. PRO Weltwirtschaft Newsletter
+- Kernthesen: Globalisierung ist vorbei, Wirtschaft als Waffe, westliche Resilienz, Asiens Machtverschiebung
+
 ## Claus-Christian Carbon
 **Status:** Stub
 - Psychologe, Wahrnehmungsforscher, Universität Bamberg

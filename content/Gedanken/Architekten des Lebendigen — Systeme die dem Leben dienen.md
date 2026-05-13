@@ -427,6 +427,10 @@ Der neurowissenschaftliche Beweis, dass Schockstarre kein Schicksal ist: Predict
 
 Quent liefert die empirische Vermessung der Ohnmacht: 30% umfassend ohnmächtig, 30% resigniert, 16% kämpfend. Sein Kernbefund — „Hoffnung kommt vom Machen" — ist die empirische Bestätigung des Architekten-Prinzips: Nicht die Privilegiertesten kommen am besten durch Krisen, sondern die Handelnden. Und sein „Nicht jeder muss in der ersten Reihe stehen" übersetzt die vierte Reaktion (Begegnen) in den Alltag: Ein Kuchen bei den Omas gegen Rechts kann Selbstbemächtigung sein.
 
+### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
+
+Heins geoökonomische Analyse ist das Architekten-Prinzip auf geopolitischer Ebene: Europa als Kontinent, der „hohe Lebensqualität bei geringstem Fußabdruck" bietet — Systeme, die dem Leben dienen statt Ressourcen zu rauben. Seine Röpke-vs.-Dix-Unterscheidung mappt auf die Architekten-Logik: Das Fundament ist wählbar.
+
 ---
 
 *Dieser Essay ist ein Fundament — kein fertiges Gebäude. Er wird wachsen, wie der Cortex wächst.*

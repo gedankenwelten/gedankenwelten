@@ -208,3 +208,7 @@ Bürgerenergie als Gegenstück: Follow This demokratisiert die Konzern-Governanc
 ### → [[Markus Gabriel — Ethischer Kapitalismus]]
 
 Follow This als praktische Operationalisierung von Gabriels Theorie: Shareholder-Aktivismus nutzt die kapitalistische Eigenlogik für ethische Ziele — moralischer Realismus als Geschäftsargument
+
+### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
+
+Follow This' Judo-Technik im Kleinen ist, was Hein für Europa im Großen fordert: vorhandene Strukturen als Wettbewerbsvorteil nutzen statt konfrontieren

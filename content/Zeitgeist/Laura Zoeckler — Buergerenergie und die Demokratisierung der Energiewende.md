@@ -208,3 +208,7 @@ Sterners regionale Wertschöpfungs-Argument (Erneuerbare als heimische Industrie
 ### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
 
 Zöcklers Bürgerenergiegenossenschaften sind das europäische Gegenstück zu Spechts chinesischem Direktversorgungsmodell: beide umgehen die Merit-Order-Strombörse — einmal durch staatliche Festpreisauktionen, einmal durch demokratisch organisierte Eigenversorgung zu Produktionskosten.
+
+### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
+
+Bürgerenergie als gelebte Geoökonomie von unten: Die dezentrale Energieversorgung ist exakt die Ressourcenunabhängigkeit, die Hein als europäischen Standortvorteil beschreibt

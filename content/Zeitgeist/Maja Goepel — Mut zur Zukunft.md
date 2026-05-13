@@ -183,3 +183,7 @@ Göpels „Agency gegen Ohnmacht" ist die akademische Fassung von Beneckes pragm
 ### → [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
 
 Göpel als Gastgeberin und Sparringspartnerin — ihr „Forwardlash"-Begriff verschärft Quents These: Die Klimakrise ist keine Nebensache für Rechtsextremismus, sondern sein Auslöser. Faschismus ist die Antwort der extremen Rechten auf die planetaren Grenzen
+
+### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
+
+Göpel als Gastgeberin im NEU-DENKEN-Podcast. Ihre „hohe Lebensqualität bei geringstem Fußabdruck"-Formel wird hier zur geoökonomischen Befriedungsstrategie: Wer weniger Ressourcen braucht, muss weniger annexieren

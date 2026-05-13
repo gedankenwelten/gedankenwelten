@@ -227,3 +227,7 @@ Rawls' Differenzprinzip als Gegenmodell zu Matteis Austeritätslogik: Wo Rawls f
 ### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Mattei liefert die historische Tiefe zur Steuervermeidungsindustrie, die Studio Bonn für die Gegenwart beschreibt. Die $900/h-Berater sind die modernen Erben von Matteis Austeritätsmaschinerie: Beide sichern Kapitalinteressen gegen demokratische Umverteilung — einmal historisch, einmal aktuell.
+
+### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
+
+Matteis These (Austerität als politisches Disziplinierungsinstrument) ergänzt Heins Analyse der westlichen Doppelmoral: Liberalisierung im globalen Süden fordern, Subventionen zu Hause schützen. Beide zeigen: „Regelbasierte Ordnung" war immer auch Machtinstrument
