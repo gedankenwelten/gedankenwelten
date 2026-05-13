@@ -176,3 +176,7 @@ Globale Dimension des Minijob-Prinzips: Hier der Minijobber in Altersarmut, dort
 ### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 Minijobs als Mikrobeispiel für Herrmanns Makro-Diagnose: "Oben wird gegeben, unten wird genommen." CDU verteidigt das Minijob-System gegen IAB/ifo/OECD-Konsens — dieselbe Struktur wie bei der Steuerreform.
+
+### → [[Der Dara — Merz 72-Stunden-Arbeitswoche]]
+
+Merz beim DGB-Kongress: Fordert längere Arbeitszeiten, während seine Partei das Minijob-System verteidigt. Der Dara zeigt den Widerspruch aus Arbeitnehmersicht — die Gewerkschaften buhen Merz aus und benennen die Machtverschiebung hinter der Rhetorik.

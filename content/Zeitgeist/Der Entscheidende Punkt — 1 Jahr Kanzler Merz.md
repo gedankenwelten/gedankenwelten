@@ -228,3 +228,7 @@ Die Minijob-Note zeigt denselben CDU-Widerspruch in der Arbeitspolitik, den die 
 > - Die Diskussion über Israel/Gaza zeigt: Selbst enge politische Mitstreiter können über Kernfragen tief zerstritten sein. *Welche Konflikte lassen sich in einem politischen Gespräch noch produktiv führen — und bei welchen ist der Dialog selbst das Problem?*
 > - Herrmann: Wohlstand kommt aus Technik, nicht Arbeit. *Folgt daraus, dass Vollbeschäftigung keine sinnvolle politische Zielvorgabe mehr ist?*
 > - Söder rasiert den Bart. Von Lucke lacht. Dennoch: *Ist Söder wirklich unregierbar auf Bundesebene — oder nur ungewählt?*
+
+### → [[Der Dara — Merz 72-Stunden-Arbeitswoche]]
+
+Konkrete Eskalation der Jahresbilanz-Dynamik: Merz wird beim DGB-Kongress (Mai 2026) ausgebuht, als er die Aufweichung des 8-Stunden-Tags und Rentenreform ankündigt. Die Gewerkschaften rebellieren — ein Symptom der Entfremdung zwischen Regierung und Arbeitnehmerschaft.

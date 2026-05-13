@@ -193,3 +193,7 @@ Flassbeck fundiert akademisch, was Höfgen popularisiert: Staatsschulden als dur
 ### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 Höfgens DIW-Dezildaten und Arbeitsmarktanalyse liefern den empirischen Unterbau für die Jahresbilanz-Diskussion: Herrmanns These "Reiche reicher, unten gespart" bekommt hier die konkreten Zahlen.
+
+### → [[Der Dara — Merz 72-Stunden-Arbeitswoche]]
+
+Komplementäre Perspektive auf die Merz-Regierung: Während Höfgen die makroökonomischen Widersprüche aufzeigt, dokumentiert Der Dara den Widerstand der Gewerkschaften beim DGB-Kongress (Mai 2026) — Merz wird ausgebuht, als er Sozialabbau und Arbeitszeitverlängerung fordert.

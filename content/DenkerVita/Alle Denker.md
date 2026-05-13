@@ -31,6 +31,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## D
 
+**[[Gedankenwelten/DenkerVita/Der Dara|Der Dara (Marc)]]** — YouTuber, politischer Kommentator; Aufklärung gegen Rechts, Fake-News-Debunking, Reaction-Format als politische Bildung
+
 **[[Gedankenwelten/DenkerVita/Darin L. Gerdes|Darin L. Gerdes]]** — Leadership-Professor; Ukraine-Krieg aus Leadership-Perspektive, „Reagan-Republican who fully supports Ukraine", tägliche YouTube-Analysen
 
 **[[Gedankenwelten/DenkerVita/David Chalmers|David Chalmers]]** — Philosoph des Geistes; Hard Problem of Consciousness, Panpsychismus, Extended Mind

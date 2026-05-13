@@ -284,3 +284,7 @@ Rawls' Differenzprinzip liefert das theoretische Fundament für Butterwegges emp
 ### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Studio Bonn beschreibt die Oberseite der Schere, die Butterwegge von unten analysiert: Dynastien die Weltkriege überdauern, Steuervermeidungsindustrie als System, Vermögen als Demokratiegefahr. Beide zeigen: Die Schere entsteht durch politische Entscheidungen, nicht durch Naturgesetze.
+
+### → [[Der Dara — Merz 72-Stunden-Arbeitswoche]]
+
+Der Dara dokumentiert die praktische Umsetzung der von Butterwegge analysierten Dynamik: Merz' Arbeitszeitreform und Sozialabbau beim DGB-Kongress (Mai 2026) als Umverteilung nach oben im Gewand von „Wirtschaftsreform". Die Gewerkschaften leisten Widerstand.
