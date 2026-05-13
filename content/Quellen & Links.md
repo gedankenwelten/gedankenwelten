@@ -2394,3 +2394,11 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [Extremismus NEU DENKEN mit Matthias Quent und Maja Göpel](https://www.youtube.com/watch?v=ysX7UyTNiXY) |
 | **Notiz** | [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Quent_Extremismus_Transkript.txt` |
+
+## Christoph Hein — Geoökonomie
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Geoökonomie NEU DENKEN — Christoph Hein](https://www.youtube.com/watch?v=fTgbkpywf8c) |
+| **Notiz** | [[Christoph Hein — Geooekonomie NEU DENKEN]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Hein_Geooekonomie_Transkript.txt` |
