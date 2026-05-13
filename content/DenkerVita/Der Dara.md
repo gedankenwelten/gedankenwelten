@@ -1,6 +1,8 @@
 ---
 title: Der Dara — DenkerVita
 tags: [denker-vita, politik, youtube, deutschland]
+aliases:
+  - Dara Marc Sasmaz
 ---
 
 # Der Dara — DenkerVita
@@ -8,7 +10,7 @@ tags: [denker-vita, politik, youtube, deutschland]
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Marc** (Eigenbezeichnung: **Sadara**), bekannt als **Der Dara** — Social-Media-Berater und politischer YouTuber. Berät u.a. Die Linke im Bundestag. Betreibt den YouTube-Kanal **[@derdara](https://www.youtube.com/@derdara)** mit dem Schwerpunkt Aufklärung „gegen Rechts, Geschwurbel und Fake News". Macht politische Reactions und Kommentare zu aktuellen Themen der deutschen Innenpolitik.
+> **Dara Marc Sasmaz**, bekannt als **Der Dara** — Social-Media-Berater und politischer YouTuber. Berät u.a. Die Linke im Bundestag. Betreibt den YouTube-Kanal **[@derdara](https://www.youtube.com/@derdara)** mit dem Schwerpunkt Aufklärung „gegen Rechts, Geschwurbel und Fake News". Macht politische Reactions und Kommentare zu aktuellen Themen der deutschen Innenpolitik.
 >
 > **Kanal:** [@derdara](https://www.youtube.com/@derdara) (YouTube)
 > **Instagram:** [@derdaramarc](https://www.instagram.com/derdaramarc)
@@ -23,11 +25,11 @@ tags: [denker-vita, politik, youtube, deutschland]
 
 ## Biografie
 
-Marc, bekannt als „Der Dara" (Eigenbezeichnung: „Sadara"), ist Social-Media-Berater und berät unter anderem die Partei Die Linke im Bundestag. Sein Kanal positioniert sich im wachsenden Feld der deutschsprachigen politischen YouTube-Kommentatoren — einer Szene, die seit den späten 2010er-Jahren zunehmend als Gegenöffentlichkeit zum klassischen Politikjournalismus fungiert.
+Dara Marc Sasmaz, bekannt als „Der Dara", ist Social-Media-Berater und berät unter anderem die Partei Die Linke im Bundestag. Sein Kanal positioniert sich im wachsenden Feld der deutschsprachigen politischen YouTube-Kommentatoren — einer Szene, die seit den späten 2010er-Jahren zunehmend als Gegenöffentlichkeit zum klassischen Politikjournalismus fungiert.
 
 Der TikTok-Handle **@derradikaledemokrat** und der Discord-Server **Freiheitsfront** geben Hinweise auf sein Selbstverständnis: radikale Demokratie als Gegenbewegung zu autoritären Tendenzen — nicht Radikalismus als Extremismus, sondern als konsequentes Eintreten für demokratische Grundwerte.
 
-Marc ist auf mehreren Plattformen aktiv (YouTube, Instagram, TikTok, Discord) und nutzt damit eine Cross-Plattform-Strategie, die vor allem jüngere Zielgruppen erreicht.
+Dara ist auf mehreren Plattformen aktiv (YouTube, Instagram, TikTok, Discord) und nutzt damit eine Cross-Plattform-Strategie, die vor allem jüngere Zielgruppen erreicht.
 
 ---
 

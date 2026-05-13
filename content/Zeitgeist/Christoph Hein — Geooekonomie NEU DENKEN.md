@@ -215,6 +215,52 @@ Die Berichtspflichten hingegen — CSRD, Finanztaxonomie, Klimatransitionsberich
 
 ---
 
+## Fragen aus dem Publikum
+
+### Europäische Wirtschaft in Asien — spielt sie überhaupt eine Rolle?
+
+**Frage:** *Wie sehen Sie die Einflussnahme europäischer Wirtschaft auf die geopolitische Situation in Asien? Bewegt sich da was — oder macht Asien einfach sein Ding?*
+
+Hein bestätigt: Beides stimmt. Asien *macht* sein Ding und freut sich über Investitionen — das sind souveräne Länder. Aber die europäische Präsenz ist massiv, weil Asien die Wachstumsregion der Welt ist. Für europäische Industrie ist China unverzichtbar.
+
+Das Problem: China als Parteidiktatur ist *schnell* — klare Vorgaben, keine Abstimmungsschleifen. Europa ist im Vergleich langsam, hält aber eigene Standards ein (ein Werk in China muss ungefähr so strukturiert sein wie in Europa). Dazu: Chinas Wachstum schwächt sich ab, Verlagerung nach Vietnam und Indonesien, aber dort warten Bürokratie, Korruption und schwache Rechtsstaatlichkeit. Die europäischen Handelskammern vor Ort sind das entscheidende Austauschforum.
+
+> [!note] Eigene Einschätzung
+> Die Frage legt einen blinden Fleck offen: Wir reden viel über *politische* Geoökonomie, aber die Unternehmen vor Ort navigieren täglich in einem Feld, das hier kaum vorkommt. Heins Antwort zeigt: Die Praxis ist viel pragmatischer als die Debatte.
+
+### Das große Bild in den Medien — warum fehlt es?
+
+**Frage** (Philip Bergerau, DLR): *Wir bewegen uns in Bubbles. Müssten die Medien nicht öfter das große Bild zeichnen — nicht nur Trump, sondern Trump UND China UND Kolumbien?*
+
+Hein antwortet diplomatisch (*„Abonnieren Sie unseren Newsletter Weltwirtschaft"* [Gelächter]), wird dann aber grundsätzlich: Die AfD spielt hier eine Rolle. Je fordernder die Transformation, desto mehr Menschen laufen weg — weil keine klaren Lösungen gezeigt werden. In diesem Klima der Überforderung ist der Ruf nach Einfachheit und nach jemandem, „der sagt, wo es lang geht", verständlich. Der Kampfbegriff „Überbürokratisierung" fällt dann schnell — und differenziertes Hinschauen unterbleibt.
+
+### Göpels Debattenkompass — ein konstruktives Gerüst
+
+Göpel schließt mit einem konkreten Vorschlag für bessere Berichterstattung:
+
+1. **Worum geht's eigentlich?** — Zielbild halten: Nachhaltige Gesellschaft hat soziale, ökologische *und* ökonomische Versprechen
+2. **Was passiert, wenn wir nicht handeln?** — Die Nicht-Handelnden müssen sich nie rechtfertigen, nur die Alternativen. Das verzerrt die Debatte
+3. **Wer tut schon was?** — Scheinwerfer auf Lösungen statt auf Tabubrüche. In Europa passieren Dinge, die den „Zumutungs"-Anwurf erden können
+4. **Was ist der nächstmögliche Schritt?** — Wer könnte das bei uns umsetzen?
+
+> *„Dieses ständige ‚Nee, eigentlich meinen wir es nicht, eigentlich wollen wir vielleicht doch anders' — das überfordert mehr als ein klarer Kurs."* — Göpel [(82:13)](https://www.youtube.com/watch?v=fTgbkpywf8c&t=4933)
+
+### Bürokratie — der falsche Feind?
+
+Göpel differenziert scharf zwischen zwei Arten von „Bürokratie":
+
+- **Alltagsbarrieren** (der eigentliche Frust): Elektroauto-Kabel darf nicht über den Bordstein. 32cm-Ofen-Abstandsregel. Recyclinghof darf Reparables nicht rausgeben. Das sind *Verhaltensvorschriften*, die Menschen ausbremsen, die mitmachen wollen
+- **Berichtspflichten** (der Kampfbegriff): Die tatsächlichen Kosten für ESG-Reporting sind *„richtig klein"*. Aber sie kamen als letztes dazu und werden zum Sündenbock für angestauten Frust
+
+> [!note] Eigene Einschätzung
+> Der klügste Moment des Panels: Göpel trennt den legitimen Frust (absurde Einzelvorschriften) vom instrumentalisierten Kampfbegriff (Berichtspflichten als Wirtschaftsfeind). Das eine ist ein Bürokratieproblem, das andere ein Lobbying-Narrativ.
+
+### Heins Schlusssatz
+
+> *„Der Befund ist vielleicht sehr drastisch, aber es kommt auf die Menschen und ihre Fähigkeiten an, was wir daraus machen. Geoökonomie kann bedeuten: Ich nutze meine Stärke, um mir machtvoll zu sichern, was ich will. Oder Europa sagt: Wir haben ein Angebot, wo für viele Menschen Platz sein soll."* — Hein [(89:51)](https://www.youtube.com/watch?v=fTgbkpywf8c&t=5391)
+
+---
+
 ## Verbindungen
 
 ### → [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
