@@ -324,3 +324,8 @@ Smith forderte Abschaffung der Zünfte und Gilden — Kehnel zeigt, dass deren C
 ### → [[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]
 
 Öffentliche Räume als Refugien der Leichtigkeit — Kehnels Commons als historisches Vorbild.
+
+
+### → [[Gedankenwelten/Panorama/Demokratische Wertschoepfung]]
+
+Kehnels Commons-Forschung und Ostrom-Referenz sind das historische Fundament des Panoramas: Gemeinschaftliches Wirtschaften ist kein modernes Experiment, sondern eine erprobte Organisationsform mit Jahrhunderten Praxis.
