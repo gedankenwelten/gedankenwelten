@@ -6,7 +6,9 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
 .quartz-cache
 private/
 .replit
