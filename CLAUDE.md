@@ -41,14 +41,7 @@ Nach jeder Note-Erstellung oder Sync: Wiki rebuilden.
 test -f .mnemosyne.md && cat .mnemosyne.md || echo "no-profile"
 ```
 
-**`profile-exists`:** Datei lesen, Nutzer mit Name ansprechen, in bevorzugter Sprache kommunizieren, Präferenzen beachten.
-
-Wenn `notify_new_notes: true` gesetzt ist:
-```bash
-git log --oneline --since="7 days ago" -- content/ | head -10
-```
-Neue Notes gegen `interests` abgleichen. Bei Treffern kurz empfehlen:
-> *„Hey [Name], letzte Woche ist eine Note reingekommen, die dich interessieren könnte: [[Titel]] — [Einzeiler]. Soll ich kurz zusammenfassen?"*
+**`profile-exists`:** Datei lesen, Nutzer mit Name ansprechen, in bevorzugter Sprache kommunizieren, Präferenzen beachten. Weiter mit Schritt 3b (GoodNews) und 3c (Notes).
 
 **`no-profile` (und kein `.claude/.no-profile`):** Onboarding starten — **eine Frage nach der anderen**, nicht alles auf einmal:
 
@@ -88,13 +81,51 @@ notify_new_notes: [true/false]
 
 ## Erinnerungen
 <!-- Via "merke dir das bitte" ergänzen -->
+
+## Gelesene News
+<!-- Automatisch verwaltet — nicht manuell bearbeiten -->
 ```
 
 ### „Merke dir das" — Remember-Skill
-Wenn der Nutzer sagt *„merke dir das"*, *„remember this"*, *„notier dir"* oder ähnliches:
-1. `.mnemosyne.md` öffnen (erstellen falls nicht vorhanden)
-2. Unter `## Erinnerungen` als Bullet-Point ergänzen: `- **[DD.MM.YYYY]** Inhalt`
-3. Kurz bestätigen: *„Notiert ✓"*
+
+→ Wird durch den Skill `.claude/skills/remember/SKILL.md` gesteuert.
+Trigger: *„merke dir das"*, *„remember this"*, *„notier dir"*, *„das ist wichtig"*.
+Security-Check inkludiert — keine Credentials speichern.
+
+### 3b — GoodNews prüfen
+```bash
+ls project-news/*.md 2>/dev/null | grep -v README
+```
+Ungelesene News ermitteln: Alle `.md`-Dateien in `project-news/` (außer README.md) abgleichen gegen `## Gelesene News` in `.mnemosyne.md`.
+
+**Ungelesene vorhanden:** Kompakt anzeigen:
+```
+🌱 [Anzahl] neue GoodNews aus der Community
+```
+
+Auf Nachfrage: Titel und Kurzinhalt zeigen, dann in `.mnemosyne.md` unter `## Gelesene News` eintragen:
+```markdown
+- YYYY-MM-DD-kurztitel.md
+```
+
+**Archivierung:** Wenn News älter als 30 Tage:
+```bash
+# News älter als 30 Tage nach archive/YYYY-MM/ verschieben
+find project-news/ -maxdepth 1 -name "*.md" ! -name "README.md" -mtime +30 -exec bash -c '
+  f="{}"; d=$(echo "$f" | grep -oE "[0-9]{4}-[0-9]{2}");
+  mkdir -p "project-news/archive/$d" && mv "$f" "project-news/archive/$d/"
+' \;
+```
+
+### 3c — Neue Notes empfehlen (wenn `notify_new_notes: true`)
+```bash
+git log --oneline --since="7 days ago" -- content/ | head -10
+```
+Neue Notes gegen `interests` aus `.mnemosyne.md` abgleichen. Kompakt zusammenfassen:
+```
+📝 [Anzahl] neue Notes diese Woche ([Anzahl] zu deinen Interessen)
+```
+Auf Nachfrage: Titel + Einzeiler zeigen, bei Wunsch zusammenfassen.
 
 ### 4 — Willkommen oder direkt arbeiten
 ```bash
@@ -102,12 +133,16 @@ test -f .claude/.welcomed && echo "returning" || echo "new"
 ```
 
 **`new` (frischer Clone):**
-Kurz willkommen heißen — wenn Profil vorhanden, mit Namen. Erklären was Gedankenwelten ist. Auf `/gedankenwelten-note-pipeline` hinweisen. Den Fork-Workflow erwähnen (PR auf GitHub). Fragen womit gestartet werden soll. Dann:
+Kurz willkommen heißen — wenn Profil vorhanden, mit Namen. Erklären was Gedankenwelten ist. Drei Dinge erwähnen:
+1. `/gedankenwelten-note-pipeline` für neue Notes
+2. Fork-Workflow (PR auf GitHub) für Beiträge
+3. `project-news/` — GoodNews-Board für positive Nachrichten aus der Community
+Fragen womit gestartet werden soll. Dann:
 ```bash
 touch .claude/.welcomed
 ```
 
-**`returning`:** Direkt in die Arbeit. Wenn Profil vorhanden: kurz mit Namen grüßen, dann arbeiten.
+**`returning`:** Direkt in die Arbeit. Wenn Profil vorhanden: kurz mit Namen grüßen. GoodNews + Note-Updates kompakt anzeigen (wenn vorhanden), dann arbeiten.
 
 ---
 
@@ -155,6 +190,20 @@ Nach `git pull` wird automatisch rebuilt, wenn der Hook installiert ist:
 | `/agent humboldt` | Sprecher recherchieren, DenkerVita anlegen |
 | `/agent sherlock` | Faktencheck mit Quellenverifikation |
 | `/agent montaigne` | Cross-Linking zwischen Notes |
+| *"merke dir das"* | Remember-Skill — speichert Erinnerungen in `.mnemosyne.md` |
+
+## GoodNews — Community-Board
+
+`project-news/` enthält positive Nachrichten aus der Community. Nutzer können GoodNews per Pull Request einreichen.
+
+**KI als erste Schleuse:** Wenn jemand eine GoodNews schreiben möchte:
+- ✅ Positive Erlebnisse, gute Nachrichten, Dankbarkeit, Beeindruckendes
+- ✅ Im Vipassana-Sinne hilfreich — auch wenn nicht perfekt positiv
+- ❌ Klagen, Theorien, Spam, Werbung, Selbstdarstellung
+- Immer freundlich umlenken, nie harsch ablehnen
+- Im Zweifelsfall: Wenn es jemandem helfen könnte, es zu lesen — darf es stehen
+
+Details: `project-news/README.md`
 
 ## Commit-Konvention
 
