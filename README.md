@@ -1,12 +1,41 @@
 # Gedankenwelten
 
-Eine offene Wissensplattform für politisches und philosophisches Denken — faktengeprüft, vernetzt, analytisch.
+Jeder Mensch hat seine eigene Gedankenwelt. Geformt von Erlerntem und Erfahrung schaffen wir daraus unsere eigene Welt. Von dort aus blicken wir nach draußen.
 
-**Vision:** Gegenmodell zum algorithmischen Outrage-Loop. Nicht neutral, sondern dokumentierte Perspektive mit Faktencheck. Nicht nur Kritik — Einordnung, Kontext, Denkanstöße.
-
-**Fundament:** Vipassana — Beobachten ohne zu reagieren, Verstehen ohne zu urteilen.
+Eine eigene Welt ganz gewiss. Aber wir vernetzen unsere Welten mit jeder Interaktion. Es entsteht ein stetiger Wandel — in unserem Selbst und im Außen. Wir alle sind Mitgestalter der Gedankenwelten. Und somit reiht sich jeder Einzelne ein, ein Komponist der Welt zu sein, in der wir leben.
 
 → [gedankenwelten.org](https://gedankenwelten.org)
+
+---
+
+### Was du hier findest
+
+**[[Denker]]** — Manche Menschen widmen ihr Leben dem Denken. Hier begegnen sie einander: ihre Ideen, ihre Fragen, ihre Widersprüche. Vernetzt, weil Denken nie allein entsteht.
+
+**[[Zeitgeist]]** — Was bewegt die Welt — und wer spricht darüber, und warum? Stimmen, die den Moment deuten. Mit Faktencheck, weil Haltung Verantwortung trägt.
+
+**[[Panorama]]** — Wenn mindestens drei Notes dasselbe Thema aus verschiedenen Winkeln beleuchten, entsteht eine verdichtete Perspektive. Was ergibt sich, wenn man die Einzelstimmen zusammenhält?
+
+**[[Gedanken]]** — Persönliche Reflexionen und Denkanstöße. Keine fertigen Antworten — Denkbewegungen.
+
+**[[DenkerVita]]** — Ausführliche Profile: Biografie, Werke, Kernthesen, Verbindungen. Wächst mit jeder analysierten Person.
+
+### Das KI-Team
+
+Alle Notes entstehen mit Hilfe von KI — analysiert, eingeordnet, vernetzt. Jeder Agent hat eine Rolle:
+
+| Agent | Aufgabe |
+|---|---|
+| **Aristoteles** | Analysiert. Destilliert aus einem Transkript nicht eine Zusammenfassung, sondern eine Durchdringung. |
+| **Sokrates** | Fragt. Sucht unter den Antworten die Fragen, die noch niemand gestellt hat. |
+| **Sherlock** | Prüft. Glaubt erst, wenn er Belege hat — Skepsis ohne Zynismus. |
+| **Montaigne** | Vernetzt. Findet, wo Fromm mit Arendt spricht und wo Rosa Goenka berührt. |
+| **Humboldt** | Kartografiert. Baut für jeden Denker ein ausführliches Profil. |
+| **Heraklit** | Vertieft. Kehrt zurück und bringt die zweite Schicht — die Tiefe, die beim ersten Mal nicht sichtbar war. |
+
+> *Nichts, was du hier liest, hat den Anspruch, vollständig oder Wahrheit zu sein. Sei dein eigener Denker.*
+
+**Fundament:** [Vipassana](https://www.dhamma.org) — Beobachten ohne zu reagieren, Verstehen ohne zu urteilen.
 
 ---
 
@@ -124,14 +153,6 @@ Die Pipeline führt durch den gesamten Prozess:
 5. Cross-Linking zu bestehenden Notes (Montaigne-Agent)
 6. Commit & Push + Wiki-Rebuild — Note erscheint in der lokalen Wiki
 
-### Weitere Skills
-
-| Befehl | Aufgabe |
-|---|---|
-| `/aristoteles` | Note aus Transkript tiefenanalytisch schreiben |
-| `/heraklit` | Bestehende Note vertiefen |
-| `/obsidian-markdown` | Callouts, Wikilinks, Frontmatter-Referenz |
-
 ### Voraussetzungen für Transkription
 
 ```bash
@@ -166,20 +187,6 @@ Jede Note folgt dem **Aristoteles-Standard**:
 - **≥ 5 direkte Zitate** mit Zeitstempel-Link ins Original
 - **Faktencheck** mit verifizierten Quellenlinks (Pflicht bei Zeitgeist-Notes)
 - **`## Weiterdenken`** mit offenen Fragen am Ende jeder Note
-
----
-
-## Struktur
-
-```
-content/
-  Denker/       ← Tiefenanalysen einzelner Denker und Quellen
-  Zeitgeist/    ← Interviews, Vorträge, Podcasts
-  DenkerVita/   ← Biografische Profile
-  Panorama/     ← Thematische Synthese (min. 3 Notes zum Thema)
-  Gedanken/     ← Persönliche Reflexionen
-  Vipassana/    ← Vipassana-Konzepte und Meditationspraxis
-```
 
 ---
 
