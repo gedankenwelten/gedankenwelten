@@ -79,17 +79,19 @@ content/
 
 ## Skills & Agents
 
-| Task | Description |
-|---|---|
-| New note from YouTube/Podcast/Article | Follow the 8-step pipeline below |
-| Deep analysis from transcript | Aristoteles standard (≥1,200 words, ≥5 quotes, 6–8 sections) |
-| Add question layer to a note | Sokrates: inline challenges, contradictions, open questions |
-| Deepen an existing note | Heraklit: find what's hidden, add substance and quotes |
-| Research speaker → DenkerVita | Web research, create biographical profile |
-| Fact-check | Verify claims with sources (Zeitgeist notes only) |
-| Cross-link notes | Find thematic connections between existing notes |
-| Write a GoodNews entry | Epikur: conversation → condensation → cross-linking → file |
-| Sync content from private vault | `./scripts/sync.sh` — syncs all sections from Cortex |
+| Task | Agent | Description |
+|---|---|---|
+| New note from YouTube/Podcast/Article | **Hermes** | Follow the 8-step pipeline below |
+| Deep analysis from transcript | **Aristoteles** | ≥1,200 words, ≥5 quotes, 6–8 sections |
+| Add question layer to a note | **Sokrates** | Inline challenges, contradictions, open questions |
+| Deepen an existing note | **Heraklit** | Find what's hidden, add substance and quotes |
+| Write a GoodNews entry | **Epikur** | Conversation → condensation → cross-linking → file |
+| Write a personal reflection | **Pascal** | Capture thoughts — own voice, own thesis, cross-linked |
+| Explain Gedankenwelten | **Vergil** | Guide: philosophy, tech setup, how to contribute |
+| Research speaker → DenkerVita | **Humboldt** | Web research, create biographical profile |
+| Fact-check | **Sherlock** | Verify claims with sources (Zeitgeist notes only) |
+| Cross-link notes | **Montaigne** | Find thematic connections between existing notes |
+| Sync content from private vault | — | `./scripts/sync.sh` — syncs all sections from Cortex |
 
 ---
 

@@ -1,9 +1,11 @@
 ---
-name: gedankenwelten-note-pipeline
-description: Full pipeline for processing external sources (YouTube, podcasts, articles) into Gedankenwelten Obsidian notes. Use when the user wants to add a new source — video, podcast episode, interview, or talk — to the Gedankenwelten vault. Covers download, transcription, VTT conversion, note creation, cross-linking, and Quellen & Links.md update.
+name: hermes
+description: Vollständige Pipeline vom Rohmaterial zur fertigen Note. YouTube, Podcast, Artikel → Transkript → Tiefenanalyse → Cross-Linking. Benannt nach Hermes — Bote zwischen den Welten, Namensgeber der Hermeneutik. Trigger — URL einfügen, "verarbeite", "neue note aus", "hermes".
 ---
 
-# Gedankenwelten Note Pipeline
+# Hermes — Note-Pipeline
+
+> *Hermes übersetzt zwischen den Welten — vom gesprochenen Wort zur geschriebenen Erkenntnis. Die Kunst der Interpretation, Hermeneutik, trägt seinen Namen.*
 
 Vollständiger Prozess vom Rohmaterial zur fertigen, vernetzten Note.
 Genutzte Agenten: **Humboldt · Sherlock · Montaigne**

@@ -26,12 +26,16 @@ Alle Notes entstehen mit Hilfe von KI — analysiert, eingeordnet, vernetzt. Jed
 
 | Agent | Aufgabe |
 |---|---|
+| **Hermes** | Übersetzt. Verwandelt Rohmaterial — YouTube, Podcast, Artikel — in vernetzte Notes. |
 | **Aristoteles** | Analysiert. Destilliert aus einem Transkript nicht eine Zusammenfassung, sondern eine Durchdringung. |
 | **Sokrates** | Fragt. Sucht unter den Antworten die Fragen, die noch niemand gestellt hat. |
 | **Sherlock** | Prüft. Glaubt erst, wenn er Belege hat — Skepsis ohne Zynismus. |
 | **Montaigne** | Vernetzt. Findet, wo Fromm mit Arendt spricht und wo Rosa Goenka berührt. |
 | **Humboldt** | Kartografiert. Baut für jeden Denker ein ausführliches Profil. |
 | **Heraklit** | Vertieft. Kehrt zurück und bringt die zweite Schicht — die Tiefe, die beim ersten Mal nicht sichtbar war. |
+| **Epikur** | Sammelt. Begleitet beim Teilen guter Nachrichten — Freude durch Einfachheit. |
+| **Pascal** | Denkt. Hält persönliche Reflexionen fest — Fragmente, nicht fertige Werke. |
+| **Vergil** | Führt. Erklärt die Gedankenwelten — philosophisch und technisch, geduldig und einladend. |
 
 > *Nichts, was du hier liest, hat den Anspruch, vollständig oder Wahrheit zu sein. Sei dein eigener Denker.*
 
@@ -262,7 +266,7 @@ Gedankenwelten lebt von Beiträgen. Das Modell ist einfach: **Fork → eigene No
 - Quellen verlinkt, Zitate mit Timestamps?
 - `## Weiterdenken` mit echten offenen Fragen?
 
-Die KI-Pipeline (Aristoteles, Sokrates, Sherlock, Montaigne) hilft beim Einhalten des Standards — sie ist genau dafür da.
+Die KI-Pipeline (Hermes, Aristoteles, Sokrates, Sherlock, Montaigne) hilft beim Einhalten des Standards — sie ist genau dafür da.
 
 **Tipp:** Wer das Repo forkt und regelmäßig Beiträge plant, sollte es mit dem Original synchron halten:
 
