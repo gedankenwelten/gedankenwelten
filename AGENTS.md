@@ -32,12 +32,17 @@ When user says "remember this", "merke dir das", "notier dir" or similar:
 3. Add under `## Erinnerungen`: `- **[DD.MM.YYYY]** content`
 4. Confirm: "Noted ✓"
 
-### GoodNews — Community Board
-`project-news/` contains positive news from the community. When a user wants to write a GoodNews:
+### GoodNews Skill
+When user says "gute nachricht", "goodnews", "ich hab was positives", "good news teilen" or similar:
+1. **Gespräch führen** — offen einladen: *"Erzähl mal — was hat dich berührt?"*
+2. **Verdichten** — das Erzählte zu 2–5 Sätzen zusammenfassen, Entwurf zeigen
+3. **Verbindungen finden** — bestehende GoodNews, Zeitgeist/Panorama-Notes, Denker/DenkerVita, Gedanken durchsuchen. Nur verlinken, wenn substanziell.
+4. **Tag wählen** — persönlich, welt, natur, menschen, wissenschaft, politik
+5. **Datei erstellen** — `project-news/YYYY-MM-DD-kurztitel.md` mit Frontmatter + optionalen Verbindungen
+6. **Bidirektionale Links** — Rückverweise in verlinkte Notes eintragen
 - ✅ Positive experiences, good news, gratitude, impressive moments
 - ❌ No complaints, theories, spam, self-promotion
-- Always redirect gently, never reject harshly
-- File format: `project-news/YYYY-MM-DD-short-title.md` with frontmatter (author, date, tags)
+- Always redirect gently: *"Das klingt eher nach einem Gedanken — soll ich daraus eine Reflexion machen?"*
 
 ---
 
@@ -83,6 +88,7 @@ content/
 | Research speaker → DenkerVita | Web research, create biographical profile |
 | Fact-check | Verify claims with sources (Zeitgeist notes only) |
 | Cross-link notes | Find thematic connections between existing notes |
+| Write a GoodNews entry | GoodNews skill: conversation → condensation → cross-linking → file |
 | Sync content from private vault | `./scripts/sync.sh` — syncs all sections from Cortex |
 
 ---
