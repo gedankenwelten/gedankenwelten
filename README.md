@@ -20,6 +20,8 @@ Eine eigene Welt ganz gewiss. Aber wir vernetzen unsere Welten mit jeder Interak
 
 **[[DenkerVita]]** — Ausführliche Profile: Biografie, Werke, Kernthesen, Verbindungen. Wächst mit jeder analysierten Person.
 
+**[[GoodNews]]** — Gute Nachrichten aus der Community. Persönliche Erlebnisse, positive Entwicklungen, Momente der Dankbarkeit. Im Geist von Epikur: Freude durch Einfachheit und Freundschaft.
+
 ### Das KI-Team
 
 Alle Notes entstehen mit Hilfe von KI — analysiert, eingeordnet, vernetzt. Jeder Agent hat eine Rolle:
