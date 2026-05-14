@@ -21,5 +21,13 @@
   "audio-recorder": false,
   "slides": false,
   "publish": false,
-  "sync": false
+  "sync": false,
+  "footnotes": false,
+  "slash-command": false,
+  "markdown-importer": false,
+  "zk-prefixer": false,
+  "random-note": false,
+  "workspaces": false,
+  "bases": true,
+  "webviewer": false
 }
