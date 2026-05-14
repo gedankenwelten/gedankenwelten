@@ -72,6 +72,20 @@ Ohne diese Tools funktioniert die Transkriptions-Pipeline nicht — Notes lesen,
 
 ---
 
+## 🌱 GoodNews — Community-Board
+
+In `project-news/` können alle, die Gedankenwelten nutzen, positive Nachrichten teilen — persönliche Erlebnisse, gute Nachrichten aus der Welt, Momente der Dankbarkeit.
+
+```bash
+# GoodNews einreichen:
+# 1. Datei anlegen: project-news/2026-05-14-mein-titel.md
+# 2. Per Pull Request einreichen
+```
+
+Die KI zeigt neue GoodNews beim Session-Start automatisch an. Details: [`project-news/README.md`](project-news/README.md)
+
+---
+
 ## Note-Qualitätsstandard
 
 Jede Note folgt dem **Aristoteles-Standard**:
