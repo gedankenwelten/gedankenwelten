@@ -9,9 +9,35 @@ Claude Code · Gemini CLI · OpenAI Codex · Aider · Cline · Cursor
 
 At the start of every session:
 1. `git pull --ff-only origin main` — get latest notes
-2. Check if Docker is running: `docker ps --filter "name=gedankenwelten" --format "{{.Names}} {{.Status}}"`
-   - Running → wiki at http://localhost:9999, new notes appear automatically
+2. Check Docker: `docker ps --filter "name=gedankenwelten" --format "{{.Names}} {{.Status}}"`
+   - Running → wiki at http://localhost:9999
    - Not running → suggest `docker compose up -d`
+3. Check rebuild hook: `test -f .git/hooks/post-merge && echo "ok" || ./scripts/rebuild.sh`
+4. Check persona: `test -f .mnemosyne.md && cat .mnemosyne.md || echo "no-profile"`
+   - **Profile exists:** Greet by name, use preferred language, check for new notes matching interests
+   - **No profile (and no `.claude/.no-profile`):** Offer onboarding — ask one question at a time:
+     1. "May I ask a few questions? Everything stays local, nothing is shared."
+     2. Name & preferred language
+     3. Interests (freeform → store as tags)
+     4. "Should I notify you about new notes matching your interests?"
+     → Create `.mnemosyne.md` with: `name`, `language`, `interests`, `notify_new_notes`
+     → If declined: create `.claude/.no-profile`, never ask again
+5. Check GoodNews: `ls project-news/*.md 2>/dev/null | grep -v README`
+   - Show unread community GoodNews (compare against `## Gelesene News` in `.mnemosyne.md`)
+
+### Remember Skill
+When user says "remember this", "merke dir das", "notier dir" or similar:
+1. Security check — reject credentials (passwords, tokens, API keys)
+2. Open `.mnemosyne.md` (create if needed)
+3. Add under `## Erinnerungen`: `- **[DD.MM.YYYY]** content`
+4. Confirm: "Noted ✓"
+
+### GoodNews — Community Board
+`project-news/` contains positive news from the community. When a user wants to write a GoodNews:
+- ✅ Positive experiences, good news, gratitude, impressive moments
+- ❌ No complaints, theories, spam, self-promotion
+- Always redirect gently, never reject harshly
+- File format: `project-news/YYYY-MM-DD-short-title.md` with frontmatter (author, date, tags)
 
 ---
 
@@ -20,7 +46,7 @@ At the start of every session:
 Gedankenwelten is an open knowledge platform for political and philosophical thinking — fact-checked, interconnected, analytical.
 Vision: counter-model to the algorithmic outrage loop. Not neutral, but documented perspective with fact-checks.
 
-**Local wiki:** `docker compose up` → http://localhost:9999 (auto-rebuilds on file changes)
+**Local wiki:** `docker compose up -d` → http://localhost:9999. Rebuild after changes: `./scripts/rebuild.sh`
 
 ---
 
@@ -316,11 +342,12 @@ Conceptual relationship — not just "both deal with X".
 
 ---
 
-### Step 8 — Commit & Push
+### Step 8 — Commit, Push & Rebuild
 
 ```bash
 git add -A && git commit -m "note-pipeline: <Author> — <Topic>"
 git push origin main
+./scripts/rebuild.sh   # rebuilds local wiki with new note
 ```
 
 The local wiki auto-rebuilds when Docker is running — no extra step needed.

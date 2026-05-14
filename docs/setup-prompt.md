@@ -88,8 +88,9 @@ docker compose up -d
 
 **Obsidian öffnen:**
 1. Obsidian starten
-2. "Open folder as vault" → den `content/` Ordner im geklonten Repo wählen
+2. "Open folder as vault" → das gesamte `gedankenwelten/`-Repo wählen
 3. Graph-View öffnen (Ctrl/Cmd + G) — die Vernetzung der Notes erkunden
+4. Quartz-Code wird automatisch ausgeblendet (via `.obsidianignore`)
 
 ### 6. Optionale Extras
 
