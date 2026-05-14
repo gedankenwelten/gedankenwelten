@@ -36,39 +36,64 @@ Nach jeder Note-Erstellung oder Sync: Wiki rebuilden.
 ./scripts/rebuild.sh
 ```
 
-### 3 — Persona laden oder einrichten
+### 3 — Mnemosyne: Persona laden oder einrichten
 ```bash
-test -f .mnemosyne.md && echo "profile-exists" || echo "no-profile"
+test -f .mnemosyne.md && cat .mnemosyne.md || echo "no-profile"
 ```
 
-**`profile-exists`:** Datei lesen, Nutzer mit Name ansprechen, Präferenzen beachten.
+**`profile-exists`:** Datei lesen, Nutzer mit Name ansprechen, in bevorzugter Sprache kommunizieren, Präferenzen beachten.
 
-**`no-profile`:** Freundlich fragen:
-> *„Hey! Ich kann mir merken, wie du heißt, welche Sprache du bevorzugst und was dich interessiert — das macht die Zusammenarbeit persönlicher. Soll ich ein kurzes Profil anlegen?"*
+Wenn `notify_new_notes: true` gesetzt ist:
+```bash
+git log --oneline --since="7 days ago" -- content/ | head -10
+```
+Neue Notes gegen `interests` abgleichen. Bei Treffern kurz empfehlen:
+> *„Hey [Name], letzte Woche ist eine Note reingekommen, die dich interessieren könnte: [[Titel]] — [Einzeiler]. Soll ich kurz zusammenfassen?"*
 
-Bei Ja: Name, Sprache und Interessen abfragen, `.mnemosyne.md` erstellen. Template:
+**`no-profile` (und kein `.claude/.no-profile`):** Onboarding starten — **eine Frage nach der anderen**, nicht alles auf einmal:
+
+**Frage 1 — Vertrauen aufbauen:**
+> *„Willkommen bei Gedankenwelten! 👋 Bevor wir loslegen — ich kann mir ein paar Dinge merken, damit ich besser mit dir arbeiten kann. Das bleibt alles lokal bei dir auf dem Rechner, wird nicht geteilt und nicht committed. Darf ich dir drei kurze Fragen stellen?"*
+
+Bei Nein: Respektieren, `.claude/.no-profile` erstellen, nie wieder fragen. Weiter mit Schritt 4.
+
+**Frage 2 — Name & Sprache:**
+> *„Wie heißt du? Und in welcher Sprache möchtest du am liebsten arbeiten?"*
+
+Choices anbieten: Deutsch, English, Français, Español, andere.
+
+**Frage 3 — Interessen:**
+> *„Was interessiert dich? Einfach ein paar Stichworte oder einen Satz — ich merke mir das und kann dir passende Notes empfehlen. Zum Beispiel: Klimapolitik, Philosophie, KI, Demokratie..."*
+
+Freitext — kompakt als Tags speichern.
+
+**Frage 4 — Benachrichtigungen:**
+> *„Soll ich dich am Anfang einer Session darauf hinweisen, wenn neue Notes reingekommen sind, die zu deinen Interessen passen?"*
+
+Choices: Ja, gerne / Nein danke.
+
+Dann `.mnemosyne.md` erstellen:
 ```markdown
 ---
 name: [Vorname]
-language: [de/en]
-style: direkt
+language: [de/en/fr/es/...]
+interests: [klimapolitik, philosophie, ki]
+notify_new_notes: [true/false]
 ---
 
-# Persönliches Profil
+# Mnemosyne
 
-## Interessen
-[Was beschäftigt den Nutzer? Welche Themen, Denker, Perspektiven?]
+> Göttin der Erinnerung, Mutter der Musen.
+> Diese Datei speichert dein persönliches Profil — lokal, nicht committed.
 
 ## Erinnerungen
 <!-- Via "merke dir das bitte" ergänzen -->
 ```
 
-Bei Nein: Respektieren, nicht nochmal fragen. `.claude/.no-profile` erstellen.
-
 ### „Merke dir das" — Remember-Skill
-Wenn der Nutzer sagt *„merke dir das"*, *„remember this"* oder ähnliches:
+Wenn der Nutzer sagt *„merke dir das"*, *„remember this"*, *„notier dir"* oder ähnliches:
 1. `.mnemosyne.md` öffnen (erstellen falls nicht vorhanden)
-2. Unter `## Erinnerungen` als Bullet-Point ergänzen mit Datum
+2. Unter `## Erinnerungen` als Bullet-Point ergänzen: `- **[DD.MM.YYYY]** Inhalt`
 3. Kurz bestätigen: *„Notiert ✓"*
 
 ### 4 — Willkommen oder direkt arbeiten
