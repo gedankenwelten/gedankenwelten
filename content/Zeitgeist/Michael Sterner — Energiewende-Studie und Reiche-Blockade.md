@@ -169,6 +169,10 @@ Direkter Nachfolger — Teil 2 der Sterner-Analyse. Während diese Note die Best
 
 Meyer/Hegenberg liefern den internationalen Kontrast zu Sterners deutscher Frustration: Während Reiche die Energiewende blockiert, exekutiert China mit „Gelinghaltung" und kennzahlenbasiertem Wettbewerb. Sterners Ruf nach mehr Industriepolitik bekommt hier die empirische Untermauerung — und die unbequeme Frage: Was passiert, wenn Europa zu langsam aufwacht?
 
+### → [[erneuerbare tv — Sommerwaerme im Erdreich]]
+
+Kupferzell ist die lebendige Empirie zu Sterners politischer These: Ein Mittelständler mit 200 Mitarbeitern hat genau die regionale Energiesouveränität realisiert, die Sterners unterdrückte Studie als volkswirtschaftlichen Gewinn beschreibt — ohne Fördergelder, mit 3,5 Jahren Amortisation. Was Sterner politisch fordert, rechnet sich in Kupferzell bereits.
+
 ### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
 
 Benecke zeigt die ökologischen Konsequenzen der Blockade: Die Zeitfenster für wirksame Maßnahmen sind geschlossen, während die Policies verschleppt oder rückgängig gemacht werden.

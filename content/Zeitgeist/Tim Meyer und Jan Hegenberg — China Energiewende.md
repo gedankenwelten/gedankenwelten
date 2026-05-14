@@ -190,6 +190,10 @@ Göpel/Truger fragen: Wie kann ökonomisches Wachstum innerhalb planetarer Grenz
 
 Benecke kontrastiert nationale Fortschritte mit der globalen Realität: Auch massive Aufforstungen ändern nichts daran, dass wir weltweit im Worst-Case-Szenario der IPCC-Modelle liegen.
 
+### → [[erneuerbare tv — Sommerwaerme im Erdreich]]
+
+Kupferzell ist die deutsche Entsprechung zur chinesischen Wirtschaftlichkeitslogik: kein Ökologie-Argument, sondern ein ROI von 3,5 Jahren. Meyer und Hegenberg zeigen, dass China Erneuerbare wegen der Kosten baut — das Familienunternehmen in Kupferzell auch. Dieselbe Rationalität, andere Maßstab.
+
 ### → [[Good News — Gute Nachrichten Mai 2026]]
 
 Die Gegenseite zu Beneckes Daten: 19 Städte senken Luftverschmutzung um 20 %+, Plastikhandel -66 %, Ecuadors Wildtierkorridor. Benecke liefert den forensischen Befund, Good News die empirischen Gegenbeispiele — zusammen ein vollständigeres Bild.
