@@ -38,7 +38,7 @@ Nach jeder Note-Erstellung oder Sync: Wiki rebuilden.
 
 ### 3 — Persona laden oder einrichten
 ```bash
-test -f .copilot-user.md && echo "profile-exists" || echo "no-profile"
+test -f .mnemosyne.md && echo "profile-exists" || echo "no-profile"
 ```
 
 **`profile-exists`:** Datei lesen, Nutzer mit Name ansprechen, Präferenzen beachten.
@@ -46,7 +46,7 @@ test -f .copilot-user.md && echo "profile-exists" || echo "no-profile"
 **`no-profile`:** Freundlich fragen:
 > *„Hey! Ich kann mir merken, wie du heißt, welche Sprache du bevorzugst und was dich interessiert — das macht die Zusammenarbeit persönlicher. Soll ich ein kurzes Profil anlegen?"*
 
-Bei Ja: Name, Sprache und Interessen abfragen, `.copilot-user.md` erstellen. Template:
+Bei Ja: Name, Sprache und Interessen abfragen, `.mnemosyne.md` erstellen. Template:
 ```markdown
 ---
 name: [Vorname]
@@ -67,7 +67,7 @@ Bei Nein: Respektieren, nicht nochmal fragen. `.claude/.no-profile` erstellen.
 
 ### „Merke dir das" — Remember-Skill
 Wenn der Nutzer sagt *„merke dir das"*, *„remember this"* oder ähnliches:
-1. `.copilot-user.md` öffnen (erstellen falls nicht vorhanden)
+1. `.mnemosyne.md` öffnen (erstellen falls nicht vorhanden)
 2. Unter `## Erinnerungen` als Bullet-Point ergänzen mit Datum
 3. Kurz bestätigen: *„Notiert ✓"*
 
