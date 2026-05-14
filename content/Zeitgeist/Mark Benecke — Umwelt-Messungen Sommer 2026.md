@@ -241,3 +241,7 @@ Hegenberg und Meyer dokumentieren Chinas Energiewende-Fortschritte. Benecke zeig
 ### → [[Mark Benecke — Fragerunde Time Is Up 2026]]
 
 Direkte Fortsetzung: Die Fragerunde vertieft den Vortrag mit Margarita Hartlieb (Biodiversität), Lisa Pöttinger (Systemkritik) und Dekarldent. Vom Datenbefund zur politischen Konsequenz — Konsumkritik vs. Klassenkampf, 2050-Horizont, Hoffnung als Handlungsspielraum.
+
+### → [[Good News — Gute Nachrichten Mai 2026]]
+
+Good News Mai liefert die empirischen Gegengewichte zu Beneckes Worst-Case-Befund: Peking -50 % Feinstaub, Plastikhandel -66 %, Kākāpō-Rekordsaison. Beneckes Daten und die Good-News-Reihe zusammen ergeben ein realistischeres Gesamtbild als jede Perspektive allein.
