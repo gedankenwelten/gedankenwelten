@@ -257,3 +257,6 @@ Staiy erwähnt das Magdeburg Demokratiefest der Amadeo Antonio Stiftung als Zivi
 
 ### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 Beide Notes zeigen den Konflikt zwischen zivilgesellschaftlichen Demokratieinitiativen und rechten Delegitimierungsstrategien. GCA #28 analysiert den strukturellen Angriff auf Stiftungsfinanzierung; Staiy's Magdeburg-Demokratiefest zeigt, was diese Initiativen konkret tun. GCA sieht den Angriff als gezielte Strategie; Staiy beschreibt die Gegenöffentlichkeit in der Praxis.
+
+### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+Fallstudie zum Triggermedium-Mechanismus, den Staiy auf Makroebene beschreibt: NiUS erfindet eine islamfeindliche Geschichte (Ramadan-Buffet = "Unterwerfung unter den Islam"), Influencer und AfD-Politiker verstärken — der Teufelskreis aus Angstproduktion und Klickrelevanz in Echtzeit dokumentiert.

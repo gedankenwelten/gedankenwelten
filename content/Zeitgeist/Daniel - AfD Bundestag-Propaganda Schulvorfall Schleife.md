@@ -124,3 +124,6 @@ Weidel unter Gleichgesinnten beim AWEF: wie die AfD-Spitze in Verschwörungskrei
 
 ### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 Staiy zeigt das Magdeburg-Demokratiefest der Amadeo Antonio Stiftung als gelebte Zivilgesellschaft — Daniel dokumentiert, wie die AfD genau diese Institution parallel im Bundestag angreift und delegitimiert.
+
+### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+Dasselbe Drei-Schritt-Muster auf anderer Bühne: NiUS erfindet islamfeindlichen "Skandal" → YouTuber und AfD-Politiker übernehmen ohne Prüfung → Morddrohungen gegen eine Privatperson (Kantinenpächterin Frau A). Die Note dokumentiert, wie Reichelt Propagandaarchitektur ohne Parlament betreibt — Chrupalla macht dasselbe mit parlamentarischer Bühne.
