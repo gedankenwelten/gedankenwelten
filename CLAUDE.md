@@ -24,6 +24,12 @@ docker ps --filter "name=gedankenwelten" --format "{{.Names}} {{.Status}}" 2>/de
 - **Läuft:** Wiki ist unter http://localhost:9999 erreichbar — neue Notes erscheinen automatisch.
 - **Läuft nicht:** Hinweis geben: `docker compose up -d` startet die Wiki im Hintergrund.
 
+### 2b — Rebuild nach neuen Notes
+Nach jeder Note-Erstellung oder Sync: Wiki rebuilden.
+```bash
+./scripts/rebuild.sh
+```
+
 ### 3 — Willkommen oder direkt arbeiten
 ```bash
 test -f .claude/.welcomed && echo "returning" || echo "new"
@@ -63,7 +69,13 @@ content/
 ## Lokale Wiki
 
 ```bash
-docker compose up   # → http://localhost:9999 (Auto-Rebuild bei Dateiänderungen)
+docker compose up -d     # → http://localhost:9999
+./scripts/rebuild.sh     # Wiki neu bauen (nach git pull oder neuer Note)
+```
+
+Nach `git pull` wird automatisch rebuilt, wenn der Hook installiert ist:
+```bash
+./scripts/setup-hooks.sh   # einmalig nach Clone/Fork
 ```
 
 ## Skills & Agenten
