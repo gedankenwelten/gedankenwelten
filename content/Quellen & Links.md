@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Topfvollgold — NiUS erfindet Islam-Skandal
+
+| | |
+|---|---|
+| **Vortrag / Video** | [NiUS erfindet Islam-Skandal](https://www.youtube.com/watch?v=XiC0qsyka0M) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Topfvollgold_NiUS_Islam_Transkript.txt` |
+
 ## Good News — Mai 2026
 
 | | |

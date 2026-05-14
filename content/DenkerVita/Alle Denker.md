@@ -111,6 +111,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]]** — Deutschsprachiger YouTube-Kommentator für US-Politik; lebt in Buffalo, New York; anti-Trump, faktenorientiert, unabhängig; erklärt Amerika von innen für deutschsprachiges Publikum
 
+**[[Gedankenwelten/DenkerVita/Mats Schoenauer|Mats Schoenauer]]** — Journalist, YouTuber, Buchautor; Betreiber YouTube-Kanal Topfvollgold; Gründer Topfvollgold (mit Moritz Tschermak, 2013); Medienmanipulation, Desinformation als Geschäftsmodell, Faktencheck-Journalismus
+
 **[[Gedankenwelten/DenkerVita/Marc Felix Serrao|Marc Felix Serrao]]** — Deutsch-brasilianischer Journalist; Chefredakteur NZZ Deutschland; Konservativ-liberales Korrektiv zum deutschen Mainstream
 
 **[[Gedankenwelten/DenkerVita/Mark Benecke|Mark Benecke]]** — Kriminalbiologe, forensischer Entomologe, Wissenschaftskommunikator; „Herr der Maden", Klimadaten mit forensischer Genauigkeit, Twitch/YouTube-Wissenschaftsvermittlung
