@@ -151,3 +151,7 @@ Fortsetzung der Reihe: April liefert Eisbär-Resilienz, Nordsee-Energienetz, US-
 ### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
 
 Zweite April-Episode: Indigene Munduruku stoppen Cargill, Yoon Suk-yeol lebenslänglich, EU-Verfahren gegen TikToks Suchtdesign, Floreana-Schildkröte zurück, Microsoft Project Silica — der Kanon der Kategorien (Demokratie, Naturschutz, Tier-Comebacks, Tech) wiederholt sich in Variationen.
+
+### → [[Good News — Gute Nachrichten Mai 2026]]
+
+Mai-Ausgabe setzt die Serie fort: Ecuador-Korridor, Kākāpō-Rekordsaison, Plastikhandel-Rückgang, CERN-Antimaterie, Chile eliminiert Lepra — erstmals Grundlagenphysik als neue Dimension im Nachrichtenkanon.

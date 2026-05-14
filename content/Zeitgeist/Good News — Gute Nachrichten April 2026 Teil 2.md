@@ -214,3 +214,7 @@ Südkoreas Selbstputsch-Antwort ist das Gegenmodell zu Maus „Triggerpunkten": 
 ### → [[Helen Keller — Voelkerrecht zahnloser Tiger]]
 
 Die Cargill-Brasilien-Story und der Yoon-Prozess sind beide empirische Belege für Kellers These: Recht funktioniert dezentral, durch Eigeninteressen und Druck von unten — nicht durch eine zentrale Weltautorität. Indigene Munduruku und südkoreanische Demonstranten sind die *Träger* dieses dezentralen Rechts.
+
+### → [[Good News — Gute Nachrichten Mai 2026]]
+
+Mai-Ausgabe: Ecuadors Wildtierkorridor und Indonesiens Elefantenreit-Verbot als Artenschutz-Parallelen zu Floreana-Schildkröte und Cargill-Stopp — lokale Naturschutz-Erfolge gegen globale Strukturprobleme.

@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Good News — Mai 2026
+
+| | |
+|---|---|
+| **Video** | [Your Monthly Dose of Good News · May](https://www.youtube.com/watch?v=EV-_E8_DI68) |
+| **Notiz** | [[Good News — Gute Nachrichten Mai 2026]] |
+| **Transkript** | `Gedankenwelten/Transkripte/GoodNews_May_Transkript.txt` |
+
 # Quellen & Links
 
 ## Der Dara — Merz plant 72-Stunden-Arbeitswoche
