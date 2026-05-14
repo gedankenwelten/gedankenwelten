@@ -264,6 +264,10 @@ Kemferts Begriff der "Fossilokratie" — das fossil-industrielle Machtnetzwerk, 
 
 Meyer und Hegenberg berichten live aus China, was Specht bereits im Geladen-Podcast als Vergleichsfolie nutzte: Chinas Modell (staatlicher Rahmen + brutaler Wettbewerb) produziert die günstigsten Batterien und PV der Welt. Spechts Frage „Was kauft man mit dem europäischen Regulierungschaos?" bekommt hier eine empirische Antwort: die Differenz kostet Europa den technologischen Anschluss.
 
+### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
+
+V2G ist der dezentrale Speicher in Spechts Kraftwerk-vs.-Speicher-These — das Utrechter Modell zeigt, was passiert, wenn man den Markt tatsächlich entscheiden lässt. Dass Deutschland diese Technologie durch Doppelbesteuerung hemmt, ist dieselbe Logik wie die regulatorische Knebelung stationärer Batterien.
+
 ---
 
 ## Weiterdenken

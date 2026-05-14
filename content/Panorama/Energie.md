@@ -141,9 +141,11 @@ Verbundene Notes: [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltsku
 
 ✅ **Trägt bei** — [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] zeigt: Großbardorf produziert das 35-fache seines Eigenbedarfs, der Energiegarten Grensfeen kombiniert 1,5 MW mit Naturschutz und Restaurant. Dezentrale Bürgerenergiegenossenschaften schaffen Akzeptanz, verteilen Gewinne lokal und machen die Energiewende greifbar. Der Presseclub-Bürgerrat-Vorschlag und Schwans kommunale Entwicklungsbeiräte liefern den demokratietheoretischen Rahmen.
 
-Verbundene Notes: [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] · [[Gesine Schwan — Macht NEU DENKEN]] · [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
+Verbundene Notes: [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] · [[Gesine Schwan — Macht NEU DENKEN]] · [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]] · [[erneuerbare tv — Sommerwaerme im Erdreich]]
 
 Die Bürgerwerke bündeln inzwischen fast 100 lokale Energiegenossenschaften — [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]] zeigt, wie das konkret funktioniert: 100 € Eintritt, eine Person = eine Stimme, Insolvenzquote 0,1 %, und die HEG hat letztes Jahr so viel zugebaut wie in neun Jahren zuvor zusammen. 47 % der Erneuerbaren-Kapazität war 2012 in Bürgerhand. Das ist nicht idealistisches Wunschdenken — es ist die Realität, die politisch zu wenig gefördert wird.
+
+[[erneuerbare tv — Sommerwaerme im Erdreich]] liefert den industriellen Zwilling: **MEFA Kupferzell**, ein familiengeführtes Metallverarbeitungsunternehmen mit 200 Mitarbeitenden, das beim Neubau der Fabrik bewusst auf jeden Gasanschluss verzichtet hat. Erdabsorber speichern Sommerwärme im Erdreich, Betonkernaktivierung macht das Gebäude selbst zur thermischen Batterie, ein Eisspeicher liefert kostenfreie Kühlung als Nebenprodukt — gesteuert von einem KI-basierten Energiemanagementsystem. Das Ergebnis: **2,5 ct/kWh Wärme** (Gasmarktpreis: 6–8 ct), **1,6 ct/kWh Strom**, Amortisation in **3,5 Jahren**. Kein Förderprojekt — eine unternehmerische Entscheidung mit klarer Rendite. Was Zöckler für Bürger formuliert, gilt für den Mittelstand genauso: Dezentrale Energie bedeutet Unabhängigkeit vom Energiemarkt, lokale Wertschöpfung und — entscheidend — kein Kapitalabfluss mehr zu Energiekonzernen. Dass der Bauherr beim Bauamt erklären musste, warum er keinen Gasanschluss beantragt, sagt alles über die institutionellen Standardannahmen.
 
 ---
 
@@ -160,6 +162,64 @@ Verbundene Notes: [[Breaking Lab — CO2-Geothermie und Factor 2 Energy]] · [[N
 ✅ **Trägt bei** — Kernenergie-Mythen entlarven, realistische Kostenvergleiche publizieren, SMR-Zeitrahmen kommunizieren (2040–2050). Die „Technologieoffenheit"-Rhetorik wird als Verzögerungsstrategie erkannt, wenn die empirischen Fakten auf dem Tisch liegen: Solar/Wind/Speicher sind heute günstiger, schneller und skalierbarer als jede Alternative.
 
 Verbundene Notes: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] · [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+
+---
+
+### Energiewende als Industriepolitik — Fachkräfte und Wertschöpfung
+
+✅ **Trägt bei** — Die Debatte um Deindustrialisierung konzentriert sich auf Energie*preise* — aber übersieht die andere Seite: Die Energiewende ist selbst eine Industrie, die noch in den Kinderschuhen steckt. [[erneuerbare tv — Sommerwaerme im Erdreich]] macht das sichtbar: MEFA Kupferzell ist nicht nur Anwender der Erdabsorber-Technologie — das Unternehmen **stellt sie selbst her** (MEFA multiQ geo). Das Energiesystem ist zugleich ein Produkt. Aus einem Metallverarbeitungsbetrieb ist ein Technologieanbieter geworden.
+
+Das beschreibt ein Muster mit erheblichem Skalierungspotenzial:
+
+**Fachkräfte — nicht einmalig, sondern dauerhaft.** Eine installierte Anlage wie in Kupferzell braucht Planung, Einbau, Inbetriebnahme, KI-Kalibrierung und laufende Wartung. Das sind keine Einmal-Jobs wie bei einer Gas-Heizungsinstallation, sondern Serviceketten über Jahrzehnte — ähnlich dem Windkraft-Servicesektor, der heute schon mehr Beschäftigte hat als der Kraftwerksbau.
+
+**Wissenstransfer als Engpass und als Chance.** Der eigentliche Skalierungsblock ist nicht die Technologie — die ist ausgereift und bezahlbar. Es fehlen Architekten, Energieberater und Ingenieure, die Systemintegration in dieser Komplexität beherrschen. Das ist eine Bildungs- und Ausbildungsfrage. Wer in dieses Wissen investiert — Hochschulen, Handwerkskammern, betriebliche Weiterbildung — erschließt einen Markt, der gerade erst entsteht.
+
+**Zulieferindustrie als Deindustrialisierungs-Antidot.** Erdabsorber, PVT-Kollektoren, Wärmetauscher, Regelungstechnik, Betonkernaktivierungs-Systeme — das ist alles fertigungsintensiv und standortgebunden. China kann Lithium-Zellen billiger produzieren. Aber Erdabsorber für ein spezifisches Gebäude in Kupferzell zu fertigen und einzubauen — das ist lokale Industrie per Definition. MEFA zeigt, dass aus einem Metallverarbeitungsbetrieb ein Systemanbieter werden kann. Dieses Muster ist übertragbar.
+
+Gas wird auch langfristig Teil des Energiemixes bleiben — als Backup, als Übergangstechnologie, als Flexibilitätsreserve. Das ist keine Schwäche, sondern Diversifikation: Ein robustes Energiesystem braucht mehrere Standbeine, keine ideologische Monokultur. Die Frage ist nicht Gas oder Erneuerbare, sondern welche Technologie für welchen Zweck — und ob die Förderstruktur diese Entscheidung dem Markt überlässt oder durch gezielte Ausschlüsse verzerrt.
+
+Was Reiches Ansatz jedoch historisch gefährlich macht, ist das Muster dahinter — nicht die Entscheidung für Gas an sich, sondern das aktive Herausschreiben konkurrierender Technologien aus dem Wettbewerb. Das ist keine Industriepolitik, das ist Marktverzerrung zugunsten etablierter Konzerne. Das Ergebnis ist absehbar eine **Lose-Lose-Situation**: Die neuen Industrien (Speicher, Systemintegration, Wärmepumpen) entstehen woanders, die alten Konzerne bekommen Schutz statt Transformationsdruck — und Deutschland verliert auf beiden Seiten.
+
+Das Lehrstück dazu hat Peter Altmaier 2012/2013 geliefert. Die berüchtigte EEG-Novelle vom Februar 2012 — der sogenannte **„Altmaierknick"** — brach der deutschen Solarindustrie das Genick: Die Beschäftigtenzahl kollabierte von **157.000 (2011) auf 44.000 (2016)** — über 110.000 verlorene Arbeitsplätze in fünf Jahren. Q-Cells, ehemals Weltmarktführer aus dem „Solar Valley" in Sachsen-Anhalt, meldete 2012 Insolvenz an und ging an den südkoreanischen Konzern Hanwha. Solarworld folgte 2017. Solon war schon 2011 weg. China füllte die Lücke — nicht weil chinesische Panels besser waren, sondern weil der deutsche Heimatmarkt weggebrochen war. Deutschland hat damit nicht nur eine Industrie verloren, sondern die Technologieführerschaft in einem Sektor, den es selbst entwickelt hatte. Das Ergebnis: maximaler Schaden auf beiden Seiten — Industrie weg, Energiewende verzögert, Abhängigkeit von Importen erhöht.
+
+Dass Altmaier nun offenbar wieder in der Nähe dieser energiepolitischen Entscheidungen auftaucht, ist kein beruhigendes Zeichen. Dasselbe Muster, zweiter Akt: nicht offene Ablehnung, sondern technische Kriterien (10-Stunden-Mindestlaufzeit, 50%-Resilienzklausel), die gezielt Technologien ausschließen — während der Rahmen als „Technologieoffenheit" verkauft wird. Journalisten sprechen bereits vom **„Reiche-Rutsch"** und der **„Reiche-Schlucht"** als Analogie zum Altmaierknick.
+
+Ein echter Technologiemix hingegen wäre ein **Win-Win**: Gas als Rückgrat der Versorgungssicherheit, Erneuerbare und Speicher als Kostensenkung und Unabhängigkeitshebel, lokale Industrie als Wertschöpfung — und kein Unternehmen, das aktiv gegen den Wettbewerb geschützt werden muss, weil es die Konkurrenz nicht mehr fürchten muss.
+
+Verbundene Notes: [[erneuerbare tv — Sommerwaerme im Erdreich]] · [[Michael Sterner — Reiche gegen Marktwirtschaft]] · [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
+
+---
+
+### Strukturwandel als stille Chance — Demografie, Ausbildung und Demokratisierung der Industrie
+
+✅ **Trägt bei** — Die Debatte um Deindustrialisierung erzeugt das Bild eines Nullsummenspiels: alte Jobs weg, neue Jobs noch nicht da. Aber die Zahlen erzählen eine andere Geschichte — und der demografische Wandel ist ein unterschätzter Hebel.
+
+**Die Bilanz: Energiewende wächst, Altindustrie schrumpft**
+
+Die Energiewende hat von 2019 bis 2024 die Stellenanzeigen mehr als verdoppelt: von 173.000 auf 372.500 — **jeder 26. Job in Deutschland ist heute ein Energiewende-Job**. Solar allein: von 41.500 auf 102.000 ausgeschriebene Stellen (+146 %). Wasserstoff hat sich in sechs Jahren verfünffacht. Die Infrastruktur (Netze, Speicher) braucht nochmal doppelt so viele Arbeitskräfte wie die Erneuerbare-Erzeugung selbst. Auf der anderen Seite: Die Automobilindustrie hat seit 2019 bereits 100.000 Stellen abgebaut, der VDA rechnet mit weiteren 125.000 bis 2035. Maschinenbau: -17.000 im letzten Jahr. Metallerzeugung: -12.000.
+
+Auf dem Papier gleicht sich das fast aus — aber die entscheidende Frage ist nicht die Zahl, sondern der Übergang.
+
+**Der demografische Hebel: Boomer-Rente als stiller Umbau**
+
+Hier liegt eine historische Gelegenheit, die in der politischen Debatte kaum vorkommt: Die geburtenstarken Jahrgänge verlassen den Arbeitsmarkt. Viele Stellen in den schrumpfenden Industrien — Automobilbau, Metallerzeugung, konventionelle Energieversorgung — werden schlicht nicht mehr neu besetzt, wenn die Stelleninhaberin in Rente geht. Das ist kein schmerzhafter Kahlschlag, sondern ein natürliches Auslaufen — wenn gleichzeitig in den wachsenden Sektoren neue Ausbildungsplätze entstehen.
+
+Das IHK-System ist dafür strukturell bereit: Berufsschulen, Handwerkskammern, duale Ausbildung — all das lässt sich auf neue Technologiefelder ausrichten. Wärmepumpeninstallateur, Photovoltaik-Systemintegrator, Netztechniker für Speicheranlagen — das sind Berufe, die gerade entstehen. Wer jetzt in Ausbildungsinfrastruktur investiert, füllt die demografische Lücke mit Zukunftsjobs statt mit Verdrängung.
+
+**Dezentralisierung als Demokratisierung der Industrie**
+
+Die schrumpfenden Industrien sind strukturell zentralisiert: Wenige Konzerne, wenige Standorte, starke Lobbyverbände. VW in Wolfsburg, BASF in Ludwigshafen, RWE im Rheinland — Industriepolitik wird dort gemacht, wo die meisten Stimmen auf dem Spiel stehen. Das hat eine politische Konsequenz: Subventionen fließen zu den Bestehenden, Regulierung schützt Etablierte.
+
+Erneuerbare Energie und Energiesystemintegration funktionieren anders. Windparks entstehen in Brandenburg und Schleswig-Holstein. Erdabsorber werden in Kupferzell gebaut. Bürgergenossenschaften in Großbardorf. Wärmepumpeninstallateure in jedem Landkreis. Diese Dezentralisierung ist nicht nur geografisch — sie ist auch politisch. **Tausende Mittelständler und Handwerksbetriebe haben kein gemeinsames Lobbybüro in Berlin.** Sie sind kein monolithischer Block, der Gesetze schreiben lässt. Ihr Wachstum ist flächig, nicht konzentriert — und damit demokratischer in seinem Wirkungsprinzip.
+
+Das schließt globale Player nicht aus — im Gegenteil. Technologieführerschaft bei Speichersystemen, Geothermie oder Wasserstoff-Infrastruktur ist ein Exportgut. Aber der Unterschied zum alten Modell: Die Wertschöpfungskette ist breiter verteilt. Nicht ein Konzern mit einer Fabrik, sondern ein Ökosystem aus Herstellern, Installateuren, Wartungsbetrieben, Softwareanbietern — regional verwurzelt und exportfähig.
+
+**Vertrauen in Zukunftstechnologien**
+
+Die Geschichte der Energiewende lehrt Pessimismus: Altmaierknick, Solardeckel, Reiche-Schlucht. Aber sie lehrt auch, dass Märkte schneller wachsen als Prognosen: Solar-Zubau in China 2025 — 210 GW in einem Halbjahr, mehr als Deutschland in 25 Jahren. Batteriekosten gefallen auf ein Zehntel. Wasserstoff-Stellenanzeigen verfünffacht. Die Technologien sind real, die Märkte entstehen — mit oder ohne politische Rückendeckung. Die Frage ist nur, ob Deutschland dabei ist oder wieder zuschaut.
+
+Verbundene Notes: [[erneuerbare tv — Sommerwaerme im Erdreich]] · [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]] · [[Maja Goepel — Mut zur Zukunft]] · [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 
 ---
 
@@ -228,3 +288,6 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 | [[Follow This — Die grüne Horzel in Big Oil]] | Lösung · Shareholder Activism |
 | [[Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]] | Lösung · Bürgerenergie |
 | [[Maja Goepel — Mut zur Zukunft]] | Lösung · Agency · Narrative |
+| [[erneuerbare tv — Sommerwaerme im Erdreich]] | Lösung · Geothermie · Mittelstand · Zulieferindustrie |
+| [[erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]] | Lösung · V2G · Speicher · Niederlande · Deutschland |
+| Bertelsmann Stiftung — Energiewende als Jobmotor (2025) | Lösung · Arbeitsmarkt · Strukturwandel |

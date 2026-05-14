@@ -213,6 +213,10 @@ Goldbach sieht Batteriespeicher als unterschätzte Infrastruktur. Kupferzell zei
 
 Zöckler argumentiert für dezentrale Energiewertschöpfung als demokratisches Projekt. Kupferzell ist der industrielle Zwilling: nicht Bürger, sondern ein Unternehmen als autonomer Energieproduzent — mit denselben strukturellen Konsequenzen: Unabhängigkeit vom Energiemarkt, lokale Wertschöpfung, kein Kapitalabfluss zu Energiekonzernen.
 
+### → [[Gedankenwelten/Panorama/Energie]]
+
+Kupferzell ist ein konkreter Beweis für die Kernthese des Panoramas: Die Lösungen existieren, die Blockade ist politisch. Während Berlin über Gaskraftwerke debattiert, zahlt ein Mittelständler in Baden-Württemberg 2,5 ct/kWh — ein Drittel des Marktpreises.
+
 ### → [[Gedankenwelten/Zeitgeist/Presseclub — Reiches Energiewende]]
 
 Der Presseclub diskutiert, ob Katharina Reiches Energiepolitik wirtschaftlich rational ist. Kupferzell antwortet implizit: Unternehmen, die frühzeitig auf Erneuerbare gesetzt haben, zahlen 2,5 ct/kWh. Unternehmen, die auf Gas warten, zahlen das Siebenfache. Die Frage nach "Wirtschaftlichkeit" der Energiewende hat eine empirische Antwort — sie heißt Kupferzell.
