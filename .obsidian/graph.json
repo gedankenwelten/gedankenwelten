@@ -9,15 +9,24 @@
   "colorGroups": [
     {
       "query": "tag:#denker",
-      "color": { "a": 1, "rgb": 5287002 }
+      "color": {
+        "a": 1,
+        "rgb": 5287002
+      }
     },
     {
       "query": "tag:#zeitgeist",
-      "color": { "a": 1, "rgb": 3329382 }
+      "color": {
+        "a": 1,
+        "rgb": 3329382
+      }
     },
     {
       "query": "tag:#gedanke",
-      "color": { "a": 1, "rgb": 10066329 }
+      "color": {
+        "a": 1,
+        "rgb": 10066329
+      }
     }
   ],
   "collapse-display": false,
@@ -30,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 200,
-  "scale": 1,
+  "scale": 0.13169049786339815,
   "close": true
 }
