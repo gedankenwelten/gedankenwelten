@@ -37,6 +37,8 @@ cd gedankenwelten
 claude
 ```
 
+Die KI merkt sich deinen Namen, deine Sprache und Interessen in einer lokalen `.copilot-user.md` (gitignored). Beim ersten Start wirst du gefragt — danach passt sich die Zusammenarbeit an. Per *„merke dir das"* kannst du jederzeit Notizen hinterlegen.
+
 ### Pipeline: Neue Note aus YouTube / Podcast / Artikel
 
 ```
