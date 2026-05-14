@@ -44,7 +44,7 @@ Durchsuche das bestehende Wissen nach thematischen Anknüpfungspunkten:
 
 ### 3a — Andere GoodNews
 ```bash
-ls project-news/*.md | grep -v README
+ls content/GoodNews/*.md | grep -v README
 ```
 Lies die bestehenden GoodNews und prüfe: Gibt es thematische Brücken? Ähnliche Erfahrungen? Ergänzende Perspektiven?
 
@@ -88,7 +88,7 @@ Mehrere Tags sind erlaubt.
 
 ## Schritt 5 — Datei erstellen
 
-**Dateiname:** `project-news/YYYY-MM-DD-kurztitel.md`
+**Dateiname:** `content/GoodNews/YYYY-MM-DD-kurztitel.md`
 
 **Format:**
 
@@ -108,7 +108,7 @@ tags: [tag1, tag2]
 
 - [[content/Zeitgeist/Note Name|Kurztitel]] — warum relevant
 - [[content/DenkerVita/Denker Name|Denker]] — konzeptuelle Brücke
-- [Andere GoodNews](../project-news/YYYY-MM-DD-titel.md) — thematische Nähe
+- [Andere GoodNews](../content/GoodNews/YYYY-MM-DD-titel.md) — thematische Nähe
 ```
 
 **Verbindungen-Abschnitt nur einfügen, wenn Verbindungen gefunden wurden.** Keine leeren Abschnitte.
@@ -123,15 +123,15 @@ Bei Änderungswünschen: anpassen und nochmal zeigen.
 
 ## Schritt 7 — Ablegen und berichten
 
-1. Datei in `project-news/` erstellen
+1. Datei in `content/GoodNews/` erstellen
 2. Falls Verbindungen zu bestehenden Notes gefunden:
    - In der verlinkten Note unter `## Verbindungen` einen Rückverweis ergänzen (bidirektional)
 3. Kurz berichten:
-   > *"Deine GoodNews liegt in `project-news/YYYY-MM-DD-titel.md`. Verbunden mit [X Notes]. Per `git add -A && git commit && git push` kannst du sie teilen."*
+   > *"Deine GoodNews liegt in `content/GoodNews/YYYY-MM-DD-titel.md`. Verbunden mit [X Notes]. Per `git add -A && git commit && git push` kannst du sie teilen."*
 
 ---
 
-## Qualitätsfilter (aus project-news/README.md)
+## Qualitätsfilter (aus content/GoodNews/README.md)
 
 ### ✅ Ja
 - Positive Erlebnisse, gute Nachrichten, Dankbarkeit
