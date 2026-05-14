@@ -1,0 +1,19 @@
+#!/bin/bash
+# post-merge Hook — wird nach jedem erfolgreichen `git pull` ausgeführt.
+# Triggert einen Quartz-Rebuild wenn sich Content-Dateien geändert haben.
+
+# Prüfe ob sich content/ geändert hat
+CHANGED_CONTENT=$(git diff-tree -r --name-only ORIG_HEAD HEAD -- content/ 2>/dev/null | head -5)
+
+if [ -n "$CHANGED_CONTENT" ]; then
+    COUNT=$(git diff-tree -r --name-only ORIG_HEAD HEAD -- content/ 2>/dev/null | wc -l | tr -d ' ')
+    echo ""
+    echo "📝 ${COUNT} Note(s) aktualisiert — triggere Wiki-Rebuild..."
+    
+    SCRIPT_DIR="$(cd "$(dirname "$0")/../scripts" && pwd)"
+    if [ -x "${SCRIPT_DIR}/rebuild.sh" ]; then
+        "${SCRIPT_DIR}/rebuild.sh"
+    else
+        echo "⚠ rebuild.sh nicht gefunden — manuell ausführen: ./scripts/rebuild.sh"
+    fi
+fi
