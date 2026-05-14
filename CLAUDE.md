@@ -96,13 +96,13 @@ Security-Check inkludiert — keine Credentials speichern.
 
 → Wird durch den Skill `.claude/skills/epikur/SKILL.md` gesteuert.
 Trigger: *„gute nachricht"*, *„goodnews"*, *„epikur"*, *„ich hab was positives"*.
-Gesprächsweise Begleitung → Verdichtung → Cross-Links zu Notes, Denkern, DenkerVita → Datei in `project-news/`.
+Gesprächsweise Begleitung → Verdichtung → Cross-Links zu Notes, Denkern, DenkerVita → Datei in `content/GoodNews/`.
 
 ### 3b — GoodNews prüfen
 ```bash
-ls project-news/*.md 2>/dev/null | grep -v README
+ls content/GoodNews/*.md 2>/dev/null | grep -v README
 ```
-Ungelesene News ermitteln: Alle `.md`-Dateien in `project-news/` (außer README.md) abgleichen gegen `## Gelesene News` in `.mnemosyne.md`.
+Ungelesene News ermitteln: Alle `.md`-Dateien in `content/GoodNews/` (außer README.md) abgleichen gegen `## Gelesene News` in `.mnemosyne.md`.
 
 **Ungelesene vorhanden:** Kompakt anzeigen:
 ```
@@ -117,9 +117,9 @@ Auf Nachfrage: Titel und Kurzinhalt zeigen, dann in `.mnemosyne.md` unter `## Ge
 **Archivierung:** Wenn News älter als 30 Tage:
 ```bash
 # News älter als 30 Tage nach archive/YYYY-MM/ verschieben
-find project-news/ -maxdepth 1 -name "*.md" ! -name "README.md" -mtime +30 -exec bash -c '
+find content/GoodNews/ -maxdepth 1 -name "*.md" ! -name "README.md" -mtime +30 -exec bash -c '
   f="{}"; d=$(echo "$f" | grep -oE "[0-9]{4}-[0-9]{2}");
-  mkdir -p "project-news/archive/$d" && mv "$f" "project-news/archive/$d/"
+  mkdir -p "content/GoodNews/archive/$d" && mv "$f" "content/GoodNews/archive/$d/"
 ' \;
 ```
 
@@ -142,7 +142,7 @@ test -f .claude/.welcomed && echo "returning" || echo "new"
 Kurz willkommen heißen — wenn Profil vorhanden, mit Namen. Erklären was Gedankenwelten ist. Drei Dinge erwähnen:
 1. `/hermes` für neue Notes
 2. Fork-Workflow (PR auf GitHub) für Beiträge
-3. `project-news/` — GoodNews-Board für positive Nachrichten aus der Community
+3. `content/GoodNews/` — GoodNews-Board für positive Nachrichten aus der Community
 Fragen womit gestartet werden soll. Dann:
 ```bash
 touch .claude/.welcomed
@@ -203,7 +203,7 @@ Nach `git pull` wird automatisch rebuilt, wenn der Hook installiert ist:
 
 ## GoodNews — Community-Board
 
-`project-news/` enthält positive Nachrichten aus der Community. Nutzer können GoodNews per Pull Request einreichen.
+`content/GoodNews/` enthält positive Nachrichten aus der Community. Nutzer können GoodNews per Pull Request einreichen.
 
 **KI als erste Schleuse:** Wenn jemand eine GoodNews schreiben möchte:
 - ✅ Positive Erlebnisse, gute Nachrichten, Dankbarkeit, Beeindruckendes
@@ -212,7 +212,7 @@ Nach `git pull` wird automatisch rebuilt, wenn der Hook installiert ist:
 - Immer freundlich umlenken, nie harsch ablehnen
 - Im Zweifelsfall: Wenn es jemandem helfen könnte, es zu lesen — darf es stehen
 
-Details: `project-news/README.md`
+Details: `content/GoodNews/README.md`
 
 ## Commit-Konvention
 

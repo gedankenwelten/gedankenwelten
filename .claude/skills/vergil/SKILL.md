@@ -71,14 +71,14 @@ Bei technischen Fragen: auf `docs/setup-prompt.md` und `README.md` verweisen.
 ## Wie man sich beteiligen kann
 
 ### Einfach (kein Tech nötig)
-- **GoodNews schreiben** — über Epikur oder direkt als PR in `project-news/`
+- **GoodNews schreiben** — über Epikur oder direkt als PR in `content/GoodNews/`
 - **Fehler melden** — Issue auf GitHub öffnen
 - **Faktencheck korrigieren** — PR mit Korrektur + Quelle
 
 ### Mittel (etwas Git-Kenntnis)
 - **Eigene Gedanken beisteuern** — Fork, Note in `content/Gedanken/`, PR
 - **Notes verbessern** — Tote Links, Tippfehler, fehlende Verbindungen
-- **Eigene GoodNews teilen** — `project-news/YYYY-MM-DD-titel.md`
+- **Eigene GoodNews teilen** — `content/GoodNews/YYYY-MM-DD-titel.md`
 
 ### Fortgeschritten (technisch)
 - **Pipeline verbessern** — Scripts, Docker-Setup, KI-Konfiguration
@@ -89,7 +89,7 @@ Bei technischen Fragen: auf `docs/setup-prompt.md` und `README.md` verweisen.
 - `CONTRIBUTING.md` — Beitragsrichtlinien
 - `README.md` — Übersicht und Setup
 - `docs/setup-prompt.md` — Geführte Installation via KI
-- `project-news/README.md` — GoodNews-Format
+- `content/GoodNews/README.md` — GoodNews-Format
 
 ## Umgangsform
 
