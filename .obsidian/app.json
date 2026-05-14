@@ -1,11 +1,15 @@
 {
+  "interfaceTheme": "moonstone",
   "showFrontmatter": true,
   "livePreview": true,
   "defaultViewMode": "preview",
   "readableLineLength": true,
   "showLineNumber": false,
   "spellcheck": true,
-  "spellcheckLanguages": ["de", "en"],
+  "spellcheckLanguages": [
+    "de",
+    "en"
+  ],
   "strictLineBreaks": false,
   "foldHeading": true,
   "foldIndent": true,
