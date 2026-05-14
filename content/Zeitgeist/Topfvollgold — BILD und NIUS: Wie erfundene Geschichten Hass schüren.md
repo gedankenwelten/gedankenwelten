@@ -188,3 +188,6 @@ Maus Theorie der Polarisierungsunternehmer liefert den soziologischen Rahmen fü
 
 ### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 Staiys Medienschweigen-Analyse dokumentiert dasselbe Asymmetrie-Muster auf Macro-Ebene: weniger Berichterstattung bei deutschen Tätern als bei Tätern mit Migrationshintergrund — Topfvollgold zeigt den Mechanismus auf Artikel-Ebene (Bild/NIUS-Fabrikation).
+
+### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+Direktes Folgevideo zum selben Muster: NiUS erfindet im März 2026 einen "Islam-Skandal" aus einer harmlosen Kantineneröffnung — identisches Playbook wie beim "Shopping-Skandal" mit den Afghanen. Reichelt steigert diesmal auf "Vollendung der deutschen Unterwerfung unter den Islam".
