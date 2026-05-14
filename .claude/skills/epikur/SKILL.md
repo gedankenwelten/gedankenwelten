@@ -1,9 +1,11 @@
 ---
-name: goodnews
-description: Hilft beim Verfassen einer GoodNews-Nachricht. Begleitet im Gespräch, formatiert, findet Verbindungen zu bestehenden Notes, Denkern und DenkerVita-Profilen. Trigger — "gute nachricht", "goodnews", "ich hab was positives", "good news teilen".
+name: epikur
+description: Begleitet beim Verfassen einer GoodNews-Nachricht — gesprächsweise, heilsam, mit Verbindungen zu Notes, Denkern und DenkerVita. Benannt nach Epikur — Freude durch Einfachheit, Freundschaft und den offenen Garten. Trigger — "gute nachricht", "goodnews", "epikur", "ich hab was positives".
 ---
 
-# GoodNews — Gute Nachrichten aufbereiten
+# Epikur — Gute Nachrichten aufbereiten
+
+> *Epikur öffnete seinen Garten für alle — Frauen, Sklaven, Fremde. Nicht Konsum bringt Freude, sondern Einfachheit und Freundschaft. In diesem Geist sammeln wir gute Nachrichten.*
 
 Begleitet den Nutzer beim Schreiben einer GoodNews-Nachricht — gesprächsweise, nicht als Formular. Findet Verbindungen zum bestehenden Wissen.
 

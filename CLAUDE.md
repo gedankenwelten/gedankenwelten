@@ -92,10 +92,10 @@ notify_new_notes: [true/false]
 Trigger: *„merke dir das"*, *„remember this"*, *„notier dir"*, *„das ist wichtig"*.
 Security-Check inkludiert — keine Credentials speichern.
 
-### „Gute Nachricht" — GoodNews-Skill
+### „Gute Nachricht" — Epikur-Skill
 
-→ Wird durch den Skill `.claude/skills/goodnews/SKILL.md` gesteuert.
-Trigger: *„gute nachricht"*, *„goodnews"*, *„ich hab was positives"*, *„good news teilen"*.
+→ Wird durch den Skill `.claude/skills/epikur/SKILL.md` gesteuert.
+Trigger: *„gute nachricht"*, *„goodnews"*, *„epikur"*, *„ich hab was positives"*.
 Gesprächsweise Begleitung → Verdichtung → Cross-Links zu Notes, Denkern, DenkerVita → Datei in `project-news/`.
 
 ### 3b — GoodNews prüfen

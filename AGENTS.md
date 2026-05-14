@@ -32,8 +32,8 @@ When user says "remember this", "merke dir das", "notier dir" or similar:
 3. Add under `## Erinnerungen`: `- **[DD.MM.YYYY]** content`
 4. Confirm: "Noted ✓"
 
-### GoodNews Skill
-When user says "gute nachricht", "goodnews", "ich hab was positives", "good news teilen" or similar:
+### Epikur — GoodNews Skill
+When user says "gute nachricht", "goodnews", "epikur", "ich hab was positives" or similar:
 1. **Gespräch führen** — offen einladen: *"Erzähl mal — was hat dich berührt?"*
 2. **Verdichten** — das Erzählte zu 2–5 Sätzen zusammenfassen, Entwurf zeigen
 3. **Verbindungen finden** — bestehende GoodNews, Zeitgeist/Panorama-Notes, Denker/DenkerVita, Gedanken durchsuchen. Nur verlinken, wenn substanziell.
@@ -88,7 +88,7 @@ content/
 | Research speaker → DenkerVita | Web research, create biographical profile |
 | Fact-check | Verify claims with sources (Zeitgeist notes only) |
 | Cross-link notes | Find thematic connections between existing notes |
-| Write a GoodNews entry | GoodNews skill: conversation → condensation → cross-linking → file |
+| Write a GoodNews entry | Epikur: conversation → condensation → cross-linking → file |
 | Sync content from private vault | `./scripts/sync.sh` — syncs all sections from Cortex |
 
 ---
