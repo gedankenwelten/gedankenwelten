@@ -36,18 +36,53 @@ Nach jeder Note-Erstellung oder Sync: Wiki rebuilden.
 ./scripts/rebuild.sh
 ```
 
-### 3 — Willkommen oder direkt arbeiten
+### 3 — Persona laden oder einrichten
+```bash
+test -f .copilot-user.md && echo "profile-exists" || echo "no-profile"
+```
+
+**`profile-exists`:** Datei lesen, Nutzer mit Name ansprechen, Präferenzen beachten.
+
+**`no-profile`:** Freundlich fragen:
+> *„Hey! Ich kann mir merken, wie du heißt, welche Sprache du bevorzugst und was dich interessiert — das macht die Zusammenarbeit persönlicher. Soll ich ein kurzes Profil anlegen?"*
+
+Bei Ja: Name, Sprache und Interessen abfragen, `.copilot-user.md` erstellen. Template:
+```markdown
+---
+name: [Vorname]
+language: [de/en]
+style: direkt
+---
+
+# Persönliches Profil
+
+## Interessen
+[Was beschäftigt den Nutzer? Welche Themen, Denker, Perspektiven?]
+
+## Erinnerungen
+<!-- Via "merke dir das bitte" ergänzen -->
+```
+
+Bei Nein: Respektieren, nicht nochmal fragen. `.claude/.no-profile` erstellen.
+
+### „Merke dir das" — Remember-Skill
+Wenn der Nutzer sagt *„merke dir das"*, *„remember this"* oder ähnliches:
+1. `.copilot-user.md` öffnen (erstellen falls nicht vorhanden)
+2. Unter `## Erinnerungen` als Bullet-Point ergänzen mit Datum
+3. Kurz bestätigen: *„Notiert ✓"*
+
+### 4 — Willkommen oder direkt arbeiten
 ```bash
 test -f .claude/.welcomed && echo "returning" || echo "new"
 ```
 
 **`new` (frischer Clone):**
-Kurz willkommen heißen. Erklären was Gedankenwelten ist. Auf `/gedankenwelten-note-pipeline` hinweisen. Den Fork-Workflow erwähnen (PR auf GitHub). Fragen womit gestartet werden soll. Dann:
+Kurz willkommen heißen — wenn Profil vorhanden, mit Namen. Erklären was Gedankenwelten ist. Auf `/gedankenwelten-note-pipeline` hinweisen. Den Fork-Workflow erwähnen (PR auf GitHub). Fragen womit gestartet werden soll. Dann:
 ```bash
 touch .claude/.welcomed
 ```
 
-**`returning`:** Direkt in die Arbeit — kein Begrüßungs-Overhead.
+**`returning`:** Direkt in die Arbeit. Wenn Profil vorhanden: kurz mit Namen grüßen, dann arbeiten.
 
 ---
 

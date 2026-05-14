@@ -1,5 +1,6 @@
-.DS_Store
+.copilot-user.md
 .claude/.welcomed
+.claude/.no-profile
 .gitignore
 node_modules
 public
