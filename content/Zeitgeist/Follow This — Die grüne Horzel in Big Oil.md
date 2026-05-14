@@ -209,6 +209,10 @@ Bürgerenergie als Gegenstück: Follow This demokratisiert die Konzern-Governanc
 
 Follow This als praktische Operationalisierung von Gabriels Theorie: Shareholder-Aktivismus nutzt die kapitalistische Eigenlogik für ethische Ziele — moralischer Realismus als Geschäftsargument
 
+### → [[Good News — Gute Nachrichten Mai 2026]]
+
+Amsterdams Werbeverbot für fossile Brennstoffe (Mai 2026) ist die regulatorische Seite dessen, was Follow This von der Aktionärsseite angreift: Die gesellschaftliche Akzeptanz für Öl, Gas und Kohle erodiert gleichzeitig von oben (Verbote) und von innen (Shareholder Activism).
+
 ### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
 
 Follow This' Judo-Technik im Kleinen ist, was Hein für Europa im Großen fordert: vorhandene Strukturen als Wettbewerbsvorteil nutzen statt konfrontieren

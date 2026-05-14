@@ -190,3 +190,7 @@ Göpel/Truger fragen: Wie kann ökonomisches Wachstum innerhalb planetarer Grenz
 
 Benecke kontrastiert nationale Fortschritte mit der globalen Realität: Auch massive Aufforstungen ändern nichts daran, dass wir weltweit im Worst-Case-Szenario der IPCC-Modelle liegen.
 
+### → [[Good News — Gute Nachrichten Mai 2026]]
+
+Die Gegenseite zu Beneckes Daten: 19 Städte senken Luftverschmutzung um 20 %+, Plastikhandel -66 %, Ecuadors Wildtierkorridor. Benecke liefert den forensischen Befund, Good News die empirischen Gegenbeispiele — zusammen ein vollständigeres Bild.
+

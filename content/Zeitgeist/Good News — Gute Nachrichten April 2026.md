@@ -180,3 +180,7 @@ Der Guineawurm-Fall ist das reinste Beispiel für Kehnels Commons-These: Ausrott
 ### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 
 Nordsee-Netz als direkte Reaktion auf Russlands Invasion: Fossile Abhängigkeit erzeugt geopolitische Erpressbarkeit, und Krisen beschleunigen die Loslösung schneller als Klimaargumente. Kemferts normatives Argument bekommt durch diese Note den empirischen Beweis, dass der Druck gerade wirkt.
+
+### → [[Good News — Gute Nachrichten Mai 2026]]
+
+Mai-Ausgabe: Ecuador-Korridor, Kākāpō-Rekordsaison, Amsterdams Werbeverbot für Fossile, CERN transportiert Antimaterie, Chile eliminiert Lepra — Energie und Artenschutz als rote Fäden der Serie.
