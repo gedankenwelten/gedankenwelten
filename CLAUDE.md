@@ -17,12 +17,18 @@ git pull --ff-only origin main 2>&1 | tail -3
 ```
 Wenn neue Commits: kurz melden welche Notes neu sind (`git log --oneline ORIG_HEAD..HEAD -- content/`).
 
-### 2 — Docker-Status prüfen
+### 2 — Docker-Status & Hook prüfen
 ```bash
 docker ps --filter "name=gedankenwelten" --format "{{.Names}} {{.Status}}" 2>/dev/null
 ```
-- **Läuft:** Wiki ist unter http://localhost:9999 erreichbar — neue Notes erscheinen automatisch.
+- **Läuft:** Wiki ist unter http://localhost:9999 erreichbar.
 - **Läuft nicht:** Hinweis geben: `docker compose up -d` startet die Wiki im Hintergrund.
+
+```bash
+test -f .git/hooks/post-merge && echo "hook-ok" || echo "hook-missing"
+```
+- **hook-ok:** Nichts tun.
+- **hook-missing:** `./scripts/rebuild.sh` ausführen — installiert den Hook automatisch und rebuildet die Wiki. Kurz erklären: *„Hab den Auto-Rebuild-Hook installiert — ab jetzt rebuildet die Wiki nach jedem git pull automatisch."*
 
 ### 2b — Rebuild nach neuen Notes
 Nach jeder Note-Erstellung oder Sync: Wiki rebuilden.
