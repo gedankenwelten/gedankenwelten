@@ -15,12 +15,16 @@ Eine offene Wissensplattform für politisches und philosophisches Denken — fak
 ```bash
 git clone https://github.com/gedankenwelten/gedankenwelten
 cd gedankenwelten
-docker compose up
+docker compose up -d
+./scripts/setup-hooks.sh   # Git-Hook installieren (einmalig)
 ```
 
 Wiki öffnen: **http://localhost:9999**
 
-Die Wiki baut sich bei jeder Dateiänderung in `content/` automatisch neu.
+### Automatischer Rebuild
+
+Nach `git pull` wird die Wiki automatisch rebuilt (via Git `post-merge` Hook).
+Manuell rebuilden: `./scripts/rebuild.sh`
 
 ---
 
@@ -45,7 +49,7 @@ Die Pipeline führt durch den gesamten Prozess:
 3. Analytische Note schreiben (Aristoteles-Standard: ≥1.200 Wörter, ≥5 Zitate)
 4. Faktencheck (Sherlock-Agent)
 5. Cross-Linking zu bestehenden Notes (Montaigne-Agent)
-6. Commit & Push — Note erscheint sofort in der lokalen Wiki
+6. Commit & Push + Wiki-Rebuild — Note erscheint in der lokalen Wiki
 
 ### Weitere Skills
 
