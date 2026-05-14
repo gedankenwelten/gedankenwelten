@@ -1,0 +1,24 @@
+# Quartz-Infrastruktur (nicht im Graph anzeigen)
+quartz/
+node_modules/
+public/
+prof/
+docs/
+docs-project/
+scripts/
+project-news/archive/
+.claude/
+.github/
+.git/
+
+# Build-Artefakte
+tsconfig.tsbuildinfo
+*.js
+*.ts
+*.json
+!content/**/*.json
+
+# Sonstiges
+.DS_Store
+build.log
+private/

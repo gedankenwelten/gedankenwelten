@@ -119,12 +119,10 @@ Alternativ oder ergänzend zur Docker-Wiki:
 
 1. [Obsidian](https://obsidian.md/download) installieren
 2. Obsidian starten → **„Open folder as vault"**
-3. Den `content/`-Ordner im geklonten Repo wählen
+3. Das **gesamte `gedankenwelten/`-Repo** als Vault öffnen
 4. Graph-View öffnen: `Ctrl/Cmd + G`
 
-Die `.obsidian/`-Konfiguration ist im Repo enthalten — Graph-Farben (Denker, Zeitgeist, Gedanken), Backlinks, Tags funktionieren sofort.
-
-> **Tipp:** Obsidian und Docker-Wiki ergänzen sich. Obsidian für schnelles Suchen, Graph-Exploration und Schreiben — Docker-Wiki für die gerenderte Ansicht mit Quartz.
+Die `.obsidian/`-Konfiguration und `.obsidianignore` sind im Repo enthalten — Graph-Farben (Denker, Zeitgeist, Gedanken), Backlinks und Tags funktionieren sofort. Quartz-Code wird automatisch ausgeblendet.
 
 ---
 
