@@ -75,8 +75,7 @@ tags: [denker-vita, <thema>]
 3. **Montaigne Cross-Linking**: Verbindungen zu bestehenden Notes.
 4. **Quellen & Links.md**: Eintrag anlegen.
 5. **Commit & Push**: `git add -A && git commit -m "note-pipeline: …" && git push`
-
-Die lokale Wiki baut sich beim nächsten File-Save automatisch neu — kein Extra-Schritt nötig.
+6. **Wiki-Rebuild**: `./scripts/rebuild.sh` — baut die lokale Wiki mit der neuen Note neu.
 
 ## Sokrates-Fragen
 
