@@ -22,7 +22,7 @@ At the start of every session:
      4. "Should I notify you about new notes matching your interests?"
      → Create `.mnemosyne.md` with: `name`, `language`, `interests`, `notify_new_notes`
      → If declined: create `.claude/.no-profile`, never ask again
-5. Check GoodNews: `ls project-news/*.md 2>/dev/null | grep -v README`
+5. Check GoodNews: `ls content/GoodNews/*.md 2>/dev/null | grep -v README`
    - Show unread community GoodNews (compare against `## Gelesene News` in `.mnemosyne.md`)
 
 ### Remember Skill
@@ -38,7 +38,7 @@ When user says "gute nachricht", "goodnews", "epikur", "ich hab was positives" o
 2. **Verdichten** — das Erzählte zu 2–5 Sätzen zusammenfassen, Entwurf zeigen
 3. **Verbindungen finden** — bestehende GoodNews, Zeitgeist/Panorama-Notes, Denker/DenkerVita, Gedanken durchsuchen. Nur verlinken, wenn substanziell.
 4. **Tag wählen** — persönlich, welt, natur, menschen, wissenschaft, politik
-5. **Datei erstellen** — `project-news/YYYY-MM-DD-kurztitel.md` mit Frontmatter + optionalen Verbindungen
+5. **Datei erstellen** — `content/GoodNews/YYYY-MM-DD-kurztitel.md` mit Frontmatter + optionalen Verbindungen
 6. **Bidirektionale Links** — Rückverweise in verlinkte Notes eintragen
 - ✅ Positive experiences, good news, gratitude, impressive moments
 - ❌ No complaints, theories, spam, self-promotion

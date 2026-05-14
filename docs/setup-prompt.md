@@ -107,7 +107,7 @@ Die KI stellt sich vor, fragt nach deinem Namen und Interessen, und hilft dir No
 ```
 
 **GoodNews teilen:**
-Erstelle eine Datei in `project-news/` mit einer positiven Nachricht und öffne einen Pull Request.
+Erstelle eine Datei in `content/GoodNews/` mit einer positiven Nachricht und öffne einen Pull Request.
 
 ### 7. Abschluss
 

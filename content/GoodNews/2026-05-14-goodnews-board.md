@@ -11,6 +11,6 @@ Jeder der Gedankenwelten nutzt, kann hier teilen, was ihn positiv berührt hat. 
 
 Die Idee kommt aus dem Projekt selbst: Wir kuratieren monatlich die *Good News*-Reihe mit positiven Nachrichten aus Umwelt, Wissenschaft und Gesellschaft. Warum nicht auch einen Raum für die eigenen guten Nachrichten schaffen?
 
-Einfach eine `.md`-Datei in `project-news/` anlegen und per Pull Request einreichen. Die KI zeigt neue GoodNews beim Session-Start automatisch an.
+Einfach eine `.md`-Datei in `content/GoodNews/` anlegen und per Pull Request einreichen. Die KI zeigt neue GoodNews beim Session-Start automatisch an.
 
 > *„Im Geist von Vipassana: beobachten, was gut ist — nicht nur, was schmerzt."*
