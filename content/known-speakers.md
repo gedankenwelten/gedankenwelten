@@ -275,6 +275,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 - Deutschsprachiger YouTube-Kommentator für US-Politik, lebt in Buffalo, New York; ~24.900 Abonnenten (Stand April 2026)
 - Kernthesen: Missverstehen Amerikas durch Fernberichterstattung, Trump als Symptom struktureller Ursachen, FOX/TRUTH Social als Desinformationssystem, Außenpolitik als Ego-Projektion
 
+## Mats Schoenauer
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Mats Schoenauer]]
+- Journalist, YouTuber, Buchautor (*1989) — Betreiber YouTube-Kanal Topfvollgold, Medienkritik, Faktencheck
+- Gründer Topfvollgold (mit Moritz Tschermak, 2013), Chefredakteur BILDblog (2013–2016), Alternativer Medienpreis 2017
+- Kernthesen: Medienmanipulation ist systematisch, YouTube repliziert BILD-Methoden, Desinformation als Geschäftsmodell, Quellenforschung ist handwerklich lösbar
+
 ## Immanuel Kant
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Immanuel Kant]]
 - Philosoph (1724–1804), Königsberg
