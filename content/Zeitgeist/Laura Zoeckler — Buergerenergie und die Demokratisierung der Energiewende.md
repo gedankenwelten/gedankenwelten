@@ -209,6 +209,10 @@ Sterners regionale Wertschöpfungs-Argument (Erneuerbare als heimische Industrie
 
 Zöcklers Bürgerenergiegenossenschaften sind das europäische Gegenstück zu Spechts chinesischem Direktversorgungsmodell: beide umgehen die Merit-Order-Strombörse — einmal durch staatliche Festpreisauktionen, einmal durch demokratisch organisierte Eigenversorgung zu Produktionskosten.
 
+### → [[erneuerbare tv — Sommerwaerme im Erdreich]]
+
+Kupferzell ist Zöcklers Bürgerenergie-Vision auf Unternehmensebene: Nicht eine Genossenschaft, sondern ein Familienunternehmen zieht sich aus dem Energiemarkt zurück und produziert selbst. Beide Modelle — Genossenschaft und Eigenversorgung — realisieren dieselbe Logik: Energiesouveränität als wirtschaftliche Entscheidung, nicht als Ideologie.
+
 ### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
 
 Bürgerenergie als gelebte Geoökonomie von unten: Die dezentrale Energieversorgung ist exakt die Ressourcenunabhängigkeit, die Hein als europäischen Standortvorteil beschreibt

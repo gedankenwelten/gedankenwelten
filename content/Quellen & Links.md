@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## erneuerbare tv — Sommerwärme im Erdreich (MEFA Kupferzell)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Unternehmen speichert Sommerwärme und reduziert massiv Energiepreise](https://www.youtube.com/watch?v=RIlsuqnhw10) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/erneuerbare tv — Sommerwaerme im Erdreich]] |
+| **Transkript** | `Gedankenwelten/Transkripte/ErneuerbareTV_Sommerwaerme_Transkript.txt` |
+
 ## Topfvollgold — NiUS erfindet Islam-Skandal
 
 | | |
