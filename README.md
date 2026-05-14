@@ -41,6 +41,39 @@ Alle Notes entstehen mit Hilfe von KI — analysiert, eingeordnet, vernetzt. Jed
 
 **Fundament:** [Vipassana](https://www.dhamma.org) — Beobachten ohne zu reagieren, Verstehen ohne zu urteilen.
 
+### Skills nutzen
+
+Die Agenten reagieren auf **Slash-Befehle** oder **natürliche Sprache** — je nachdem, was deine KI unterstützt. Die Skills liegen in `.claude/skills/` und werden von Claude Code, GitHub Copilot und anderen Coding-Assistenten automatisch erkannt. In Chat-KIs (ChatGPT, Gemini) kannst du stattdessen einfach beschreiben, was du möchtest — die `AGENTS.md` gibt ihnen die nötige Anleitung.
+
+**Per Slash-Befehl** (Claude Code, Copilot CLI):
+
+```
+/hermes https://youtube.com/watch?v=abc123
+/epikur
+/pascal
+/vergil
+```
+
+**Per natürlicher Sprache** (funktioniert überall):
+
+```
+"Verarbeite dieses Video: https://youtube.com/watch?v=abc123"
+"Ich hab eine gute Nachricht"
+"Ich hab da einen Gedanken..."
+"Wie funktioniert das hier?"
+"Merke dir, dass ich mich besonders für Philosophie interessiere"
+```
+
+**Automatische Erkennung:** Manche Skills aktivieren sich auch von selbst — wenn du z.B. im Gespräch über eine Note einen eigenen Gedanken formulierst, bietet Pascal an, ihn festzuhalten. Epikur erkennt, wenn jemand etwas Positives teilen möchte. Vergil springt ein, wenn jemand orientierungslos wirkt.
+
+| Situation | Was passiert |
+|---|---|
+| Du fügst einen YouTube-Link ein | → Hermes startet die Pipeline |
+| Du sagst *"gute Nachricht"* | → Epikur begleitet dich |
+| Du sagst *"ich denke, dass..."* | → Pascal bietet an, den Gedanken festzuhalten |
+| Du fragst *"wie beteilige ich mich?"* | → Vergil erklärt |
+| Du sagst *"merke dir das"* | → Mnemosyne speichert die Erinnerung |
+
 ---
 
 ## 🚀 Loslegen — mit KI-Begleitung
