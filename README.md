@@ -10,7 +10,63 @@ Eine offene Wissensplattform für politisches und philosophisches Denken — fak
 
 ---
 
-## Lokale Wiki starten
+## 🚀 Loslegen — mit KI-Begleitung
+
+Du brauchst kein Vorwissen. Kopiere den folgenden Prompt in deine bevorzugte KI (ChatGPT, Claude, Gemini, etc.) — sie führt dich durch alles: Fork, Installation, Docker oder Obsidian, erste Schritte.
+
+<details>
+<summary><strong>📋 Setup-Prompt kopieren (klick zum Aufklappen)</strong></summary>
+
+```
+Ich möchte das Open-Source-Projekt "Gedankenwelten" einrichten — eine offene
+Wissensplattform für politisches und philosophisches Denken.
+
+Projekt: https://github.com/gedankenwelten/gedankenwelten
+Website: https://gedankenwelten.org
+
+Bitte führe mich Schritt für Schritt durch das Setup:
+
+1. Frage mein Betriebssystem (macOS, Windows, Linux)
+2. Prüfe ob Git installiert ist, wenn nicht: Installationsanleitung zeigen
+3. Frage wie ich die Notes lesen möchte:
+   a) Docker-Wiki (Webseite lokal im Browser, wie gedankenwelten.org)
+   b) Obsidian (interaktiver Graph, Backlinks, lokale Suche)
+   c) Beides
+4. Frage ob ich nur lesen oder auch beitragen möchte
+   - Nur lesen → git clone reicht
+   - Beitragen → Fork auf GitHub erklären, dann clone
+5. Führe durch die Installation:
+   - Docker: docker compose up -d → http://localhost:9999
+     Danach: ./scripts/setup-hooks.sh (Auto-Rebuild nach git pull)
+   - Obsidian: "Open folder as vault" → den content/ Ordner wählen
+6. Zeige mir am Ende, wie ich anfangen kann:
+   - Im Graph stöbern, eine Note lesen
+   - Optional: Claude Code / Gemini CLI für neue Notes
+   - Optional: GoodNews schreiben (project-news/)
+
+Sei geduldig, erkläre verständlich, biete immer Alternativen an.
+```
+
+</details>
+
+> **Oder direkt loslegen** — die manuelle Anleitung findest du weiter unten.
+
+---
+
+## Drei Wege zu Gedankenwelten
+
+| | 🌐 Webseite | 🐳 Docker lokal | 🗂️ Obsidian |
+|---|---|---|---|
+| **Was** | gedankenwelten.org lesen | Eigene Wiki im Browser | Interaktiver Vault |
+| **Setup** | Keins | `docker compose up -d` | Ordner als Vault öffnen |
+| **Graph** | ✓ | ✓ | ✓ (interaktiv) |
+| **Suche** | ✓ | ✓ | ✓ (schneller) |
+| **Beitragen** | ✗ | ✓ (mit Fork) | ✓ (mit Fork) |
+| **Offline** | ✗ | ✓ | ✓ |
+
+---
+
+## Lokale Wiki starten (Docker)
 
 ```bash
 git clone https://github.com/gedankenwelten/gedankenwelten
@@ -25,6 +81,21 @@ Wiki öffnen: **http://localhost:9999**
 
 Nach `git pull` wird die Wiki automatisch rebuilt (via Git `post-merge` Hook).
 Manuell rebuilden: `./scripts/rebuild.sh`
+
+---
+
+## Obsidian-Vault öffnen
+
+Alternativ oder ergänzend zur Docker-Wiki:
+
+1. [Obsidian](https://obsidian.md/download) installieren
+2. Obsidian starten → **„Open folder as vault"**
+3. Den `content/`-Ordner im geklonten Repo wählen
+4. Graph-View öffnen: `Ctrl/Cmd + G`
+
+Die `.obsidian/`-Konfiguration ist im Repo enthalten — Graph-Farben (Denker, Zeitgeist, Gedanken), Backlinks, Tags funktionieren sofort.
+
+> **Tipp:** Obsidian und Docker-Wiki ergänzen sich. Obsidian für schnelles Suchen, Graph-Exploration und Schreiben — Docker-Wiki für die gerenderte Ansicht mit Quartz.
 
 ---
 
