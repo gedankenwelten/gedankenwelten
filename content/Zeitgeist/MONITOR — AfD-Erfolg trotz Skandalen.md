@@ -187,3 +187,6 @@ MONITORs empirischer Befund (AfD-Wähler suchen den Bruch, nicht kompetente Regi
 ### → [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
 
 Quent ist in der MONITOR-Reportage als Experte vertreten — im NEU DENKEN Gespräch entfaltet er die dort angerissene These der „Verherrlichung der Ohnmacht" systematisch: vier Reaktionsmuster, empirische Clusteranalyse (30% ohnmächtig, 16% kämpfend), Faschismus als Technik der Emotionalisierung
+
+### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+Reichelts "Zu 100 Prozent stimmt alles" nach dem Gerichtsurteil illustriert die Normalisierungs-These: Rechte Medienarbeit braucht keine Faktentreue, nur Dauerbeschallung. Die Korrekturen — Faktencheck, Klarstellung, Gerichtsbeschluss — ändern das NiUS-Narrativ in seiner Zielgruppe nicht.

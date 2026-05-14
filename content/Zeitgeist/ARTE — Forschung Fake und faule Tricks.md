@@ -269,3 +269,6 @@ Live-Beispiel für Agnotologie im ÖRR: Statistische Verzerrung zur Energiewende
 ### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
 
 Benecke praktiziert das Gegenmittel zur wissenschaftlichen Desinformation: forensische Beweisführung mit Originaldaten, Quellenangaben und nüchternem Befund statt Moralisierung.
+
+### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+Reichelts Reaktion auf das Gerichtsurteil ist ein Lehrstück angewandter Agnotologie: Statt die Lüge einzuräumen, baut er neue Wahrheitsketten ("Kantine ist ja indirekt staatlich finanziert"). Das Tabak-Blueprint — Zweifel säen statt widerlegen — wird hier auf islamfeindliche Propaganda übertragen.
