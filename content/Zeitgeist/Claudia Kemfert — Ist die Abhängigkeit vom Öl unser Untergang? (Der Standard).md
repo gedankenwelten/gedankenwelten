@@ -307,3 +307,7 @@ Meyer/Hegenberg bestätigen Kemferts Kernthese aus chinesischer Perspektive: Chi
 ### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
 
 Benecke zeigt forensisch, was Kemfert ökonomisch analysiert: Die CO₂-Vorhersagen der 1970er trafen exakt ein, die Ölstaaten fördern bis zum letzten Tropfen — die Daten sind seit 50 Jahren eindeutig.
+
+### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
+
+V2G verlängert Kemferts These vom E-Auto als Ausstiegstechnologie: Nicht nur kein fossiler Kraftstoff, sondern das E-Auto als aktiver Netzpuffer — der Wagen, der nicht nur fährt, sondern die Energiewende mitträgt. Die Doppelbesteuerung in Deutschland blockiert genau diesen nächsten Schritt.

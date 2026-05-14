@@ -202,3 +202,8 @@ Sterners BMWK-Studie liefert ein konkretes Beispiel für Göpels/Trugers These: 
 ### → [[Tim Meyer und Jan Hegenberg — China Energiewende]]
 
 China liefert eine unbequeme Antwort auf Göpels Wachstumskritik: Das Land wächst *und* dekarbonisiert gleichzeitig — durch brutale Industriepolitik, nicht durch Suffizienz. Das stellt die Degrowth-These vor ein Dilemma: Ist Entkopplung doch möglich, wenn der politische Wille radikal genug ist? Oder erkauft China den grünen Wandel mit sozialen Kosten, die Göpel ablehnen würde?
+
+
+### → [[Gedankenwelten/Panorama/Demokratische Wertschoepfung]]
+
+Göpels These — BIP misst nicht Wohlstand — ist die ökonomische Begründung, warum Genossenschaftsleistung politisch unsichtbar bleibt. Das Panorama zeigt die institutionelle Antwort.

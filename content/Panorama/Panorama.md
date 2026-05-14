@@ -32,3 +32,4 @@ Jedes Panorama folgt diesem Aufbau:
 | Energie | [[Energie]] | 15 |
 | NoAfD | [[NoAfD]] | 33 |
 | Autoritärer Internationalismus | [[Autoritaerer Internationalismus]] | 38 |
+| Demokratische Wertschöpfung | [[Demokratische Wertschoepfung]] | 8 |

@@ -148,3 +148,7 @@ Die 47 % Erneuerbaren-Kapazität in Bürgerhand ist das stärkste Gegenargument 
 ### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
 
 Spechts "Primärenergieirrtum" ist die systemische Erklärung für Akkudoktors "Primärenergie-Falle": Beide benennen denselben statistischen Mechanismus, mit dem effiziente Erneuerbare kleiner erscheinen als sie sind — Specht von der ökonomischen, Akkudoktor von der medienkritischen Seite.
+
+### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
+
+Wo Akkudoktor die Statistik-Falle entlarvt, zeigt die V2G-Note die regulatorische Falle: Beide Mechanismen machen funktionierende Energielösungen unsichtbar — einer durch Zahlen, einer durch Steuern. Das Ergebnis ist dasselbe: Technologien, die die Energiewende beschleunigen könnten, werden ausgebremst.

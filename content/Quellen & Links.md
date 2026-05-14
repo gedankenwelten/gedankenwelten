@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## erneuerbare tv — Bidirektionales Laden / Vehicle-to-Grid
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Geld verdienen mit E-Auto und bidirektionalem Laden](https://www.youtube.com/watch?v=1W6-mThc8_k) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]] |
+| **Transkript** | `Gedankenwelten/Transkripte/ErneuerbareTv_Bidirektional_Transkript.txt` |
+
 ## erneuerbare tv — Sommerwärme im Erdreich (MEFA Kupferzell)
 
 | | |
