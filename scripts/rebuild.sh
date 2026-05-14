@@ -34,6 +34,17 @@ log()  { echo -e "${GREEN}▸${NC} $1"; }
 warn() { echo -e "${YELLOW}▸${NC} $1"; }
 err()  { echo -e "${RED}✗${NC} $1" >&2; }
 
+# --- Auto-Install: Git-Hook einrichten falls nicht vorhanden ---
+HOOK_TARGET="${PROJECT_DIR}/.git/hooks/post-merge"
+HOOK_SOURCE="${SCRIPT_DIR}/post-merge"
+if [ -d "${PROJECT_DIR}/.git/hooks" ] && [ -f "$HOOK_SOURCE" ]; then
+    if [ ! -f "$HOOK_TARGET" ] || ! diff -q "$HOOK_SOURCE" "$HOOK_TARGET" >/dev/null 2>&1; then
+        cp "$HOOK_SOURCE" "$HOOK_TARGET"
+        chmod +x "$HOOK_TARGET"
+        log "Git post-merge Hook installiert — Wiki wird nach 'git pull' automatisch rebuilt."
+    fi
+fi
+
 # Prüfe ob Docker läuft
 if ! docker info >/dev/null 2>&1; then
     err "Docker läuft nicht. Bitte Docker starten."
