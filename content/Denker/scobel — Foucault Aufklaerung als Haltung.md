@@ -183,3 +183,4 @@ Und:
 - [[Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Foucaults Mittelwerk: Gouvernementalität als Regierungskunst, Neoliberalismus als antifaschistische Selbstbegrenzung, Humankapital und Prekarisierung — ergänzt das Spätwerk (Aufklärung als Ethos) um die Machtanalyse der Ökonomie
 
 - [[Dominik Finkelde — Nietzsche Ueber Wahrheit und Luege]] — Finkelde zeigt, wie Foucaults Aufklärungskritik bei Nietzsche beginnt: Die „Drehscheibe der Moderne" stellt genau die Frage, ob Vernunftkritik ohne Selbstaufhebung möglich ist
+- [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit]] — Lyotard und Foucault reagieren aus derselben intellektuellen Generation heraus auf den Zusammenbruch universaler Vernunftgewissheit. Foucault antwortet mit einer Praxis (Aufklärung als tägliche Haltung), Lyotard mit einer Diagnose des Unauflösbaren (der Widerstreit). Beide kritisieren Habermas' Konsensideal — als zu einfache Lösung für einen tiefen Riss.
