@@ -265,6 +265,10 @@ Aly zeigt historisch, wohin Flassbecks Dynamik führen kann: Die Weltwirtschafts
 
 Gelegs beschreibt das EU-Dilemma: Orbáns Stimme mit Fördergeldern „abkaufen". Flassbeck liefert den Unterbau: EU-Austeritätspolitik hat Osteuropa wirtschaftlich marginalisiert — das ist der Nährboden, auf dem Orbáns Populismus gewachsen ist. Wer nur Orbán bekämpft, ohne die Strukturursachen anzugehen, bekämpft die Symptome.
 
+### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn]]
+
+Aktueller Beleg für die in dieser Note entwickelte Kausalkette: Merz behauptet beim DGB-Gewerkschaftstag, Arbeitskosten seien zu hoch — und liegt laut Lohnstückkosten-Daten fundamental falsch. Der „Lohn-Irrsinn" buchstabiert den Mechanismus (Schröder-Ära, Lohnstückkosten, Deflationsrisiko) aus, den diese Note als politisches Muster benennt: ökonomische Fehlkonstruktionen, die niemand korrigiert, erzeugen Rechtsruck.
+
 ### → [[Neue Akropolis — Der Mensch ist besser als sein Ruf]]
 
 Neue Akropolis: Das kapitalistische Menschenbild (Hobbes, Locke, Friedman, Hayek) wurde zur Leitdoktrin — Gier als Tugend, Solidarität als Naivität. Flassbeck: Die Agenda 2010 ist die wirtschaftspolitische Umsetzung genau dieses Menschenbildes. Lohndrückung als "Tüchtigkeit", Exportüberschuss als "Erfolg", Schulden der anderen als ihr Versagen. Die Werteumkehrung, die Neue Akropolis philosophisch beschreibt, zeigt Flassbeck in ihrer ökonomischen Wirkung.

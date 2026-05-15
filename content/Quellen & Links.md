@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Heiner Flassbeck — Deutschlands Lohn-Irrsinn
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Flassbeck spricht: ALLES FALSCH! Deutschlands Lohn-Irrsinn \| Folge 08](https://www.youtube.com/watch?v=Z_02tf3pSpw) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Flassbeck_Lohn_Irrsinn_Transkript.txt` |
+
 ## Heiner Flassbeck — Deutschlands größtes Tabu
 
 | | |

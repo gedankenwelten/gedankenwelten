@@ -195,6 +195,10 @@ Thematische Zwillingsnote: Beide kreisen um das Sparparadoxon. Das Tabu-Gespräc
 
 Butterwegge und Flassbeck diagnostizieren denselben Mechanismus aus verschiedenen Winkeln: Lohndumping → Prekarität → politische Radikalisierung. Butterwegge betont die sozialpolitische Seite, Flassbeck die makroökonomische Ursache.
 
+### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn]]
+
+Direkter Nachfolger: Dasselbe Kernargument — Schröders Lohndumping als 25-jähriges europäisches Problem — wird hier an einem konkreten politischen Ereignis festgemacht: Merz behauptet beim Gewerkschaftstag zu hohe Arbeitskosten, obwohl Lohnstückkosten-Daten das Gegenteil zeigen. Der „Lohn-Irrsinn" ist die Alltagsprobe des hier entwickelten historischen Arguments.
+
 ### → [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 Direkte Parallelthese: Fricke argumentiert für *Surplus* (das Online-Magazin von Flassbeck u.a.) ebenfalls, dass wirtschaftliche Stagnation den Rechten nützt. Die beiden Notes ergänzen sich konzeptuell.
