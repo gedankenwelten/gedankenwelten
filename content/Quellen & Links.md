@@ -2434,3 +2434,11 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [Geoökonomie NEU DENKEN — Christoph Hein](https://www.youtube.com/watch?v=fTgbkpywf8c) |
 | **Notiz** | [[Christoph Hein — Geooekonomie NEU DENKEN]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Hein_Geooekonomie_Transkript.txt` |
+
+## SPIEGEL TV — Spahns Maskendeal und das Spendendinner
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Jens Spahns Maskendeal: Spendendinner und ein millionenschwerer Auftrag | SPIEGEL TV](https://www.youtube.com/watch?v=SgTmJFlZyqw) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner]] |
+| **Transkript** | `Gedankenwelten/Transkripte/SpiegelTV_Spahn_Maskendeal_Transkript.txt` |

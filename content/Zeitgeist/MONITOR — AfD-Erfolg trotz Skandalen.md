@@ -190,3 +190,7 @@ Quent ist in der MONITOR-Reportage als Experte vertreten — im NEU DENKEN Gespr
 
 ### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Reichelts "Zu 100 Prozent stimmt alles" nach dem Gerichtsurteil illustriert die Normalisierungs-These: Rechte Medienarbeit braucht keine Faktentreue, nur Dauerbeschallung. Die Korrekturen — Faktencheck, Klarstellung, Gerichtsbeschluss — ändern das NiUS-Narrativ in seiner Zielgruppe nicht.
+
+### → [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|SPIEGEL TV — Spahns Maskendeal]]
+
+Der Maskendeal ist ein Paradebeispiel für das in dieser MONITOR-Note analysierte Muster: Vetternwirtschaft ohne Konsequenzen nährt das Gefühl „die sind alle gleich" — und genau dieses Äquivalenzgefühl treibt AfD-Wähler an. Die Spahn-Note ist damit nicht nur Korruptionsdokumentation, sondern auch Demokratie-Erosions-Dokument.
