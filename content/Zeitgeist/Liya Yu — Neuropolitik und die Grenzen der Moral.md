@@ -188,6 +188,10 @@ Mausfeld analysiert, wie Machtstrukturen unsere Wahrnehmung manipulieren; Yu zei
 
 Yu stellt Kants rationalistisches Menschenbild direkt in Frage: Aufklärung durch Verstand allein reicht nicht, wenn die Mechanismen unter der Schädeldecke dem Verstand vorauseilen
 
+### → [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]]
+
+Mbembe radikalisiert Foucaults Biopolitik zur Nekropolitik — "wer muss sterben?" statt "wer darf leben?". Yus mPFC-Abschaltung und Dehumanisierungsforschung liefert die neurobiologische Grundlage für Mbembes historisch-strukturelle Analyse: Was Mbembe als jahrhundertelange politische Infrastruktur der Tötbarkeit beschreibt, braucht die neuronalen Mechanismen, die Yu freilegt, um zu funktionieren — Nekropolitik ist nicht möglich ohne neuronale Normalisierung der Dehumanisierung.
+
 ### → [[Neue Akropolis — Der Mensch ist besser als sein Ruf]]
 
 Spannende Gegenposition zu Yu: Wo „Neue Akropolis" auf evolutionäre Kooperation setzt, warnt Yu, dass kooperative Fähigkeiten an In-Group-Grenzen enden
