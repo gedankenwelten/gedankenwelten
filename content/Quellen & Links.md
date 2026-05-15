@@ -5,6 +5,18 @@ tags:
   - quellen
   - links
 ---
+## Kojin Karatani — Tauschformen und die Überwindung der Triade
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Beyond the Trinity of Capital, Nation and State — Lecture 1](https://www.youtube.com/watch?v=X8suZQGC-tk) |
+| **Video** | [2022 Berggruen Prize Laureate](https://www.youtube.com/watch?v=dSdfmqZK3rc) |
+| **Transkript Lecture 1** | `Gedankenwelten/Transkripte/Karatani_Lecture1_Transkript.txt` |
+| **Transkript Berggruen** | `Gedankenwelten/Transkripte/Karatani_Modes_Exchange_Transkript.txt` |
+| **Notiz** | [[Gedankenwelten/Denker/Kojin Karatani — Tauschformen und die Ueberwindung der Triade]] |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Kojin Karatani]] |
+
+
 
 ## Achille Mbembe — The Earthly Community
 

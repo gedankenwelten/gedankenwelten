@@ -98,6 +98,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[Gedankenwelten/DenkerVita/Juergen Habermas|Jürgen Habermas]]** — Philosoph, Frankfurt School; Kommunikatives Handeln, Diskursethik, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, letzter großer Geschichtsphilosoph
 
 ## K
+**[[Gedankenwelten/DenkerVita/Kojin Karatani|Kojin Karatani]]** — Japanischer Philosoph, Literaturtheoretiker; Berggruen Prize 2022; Tauschformen-Theorie statt Produktionsweisen, Capital-Nation-State-Triade, Isonomia vs. Platonismus, Transkritik (Kant + Marx), Associationism
+
 
 **[[Gedankenwelten/DenkerVita/Kevin Kuehnert|Kevin Kühnert]]** — Ehemaliger SPD-Generalsekretär, Juso-Vorsitzender; Verteilungspolitik und Steuern bei Finanzwende; 6%-Rendite-Besteuerung, Vermögenskonzentration als Demokratiegefahr
 

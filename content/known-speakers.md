@@ -47,6 +47,13 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 - Kernthesen: Vier Geltungsansprüche, Kommunikatives Handeln, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, Diskursethik
 
 ---
+## Kojin Karatani
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kojin Karatani]]
+- Japanischer Philosoph, Literaturtheoretiker, Kulturtheoretiker (*1941) — Berggruen Prize 2022 (erste asiatische Laureatin)
+- Kernthesen: Tauschformen (Mode A/B/C/D) statt Produktionsweisen erklären Geschichte; Capital-Nation-State-Triade als unheilbares Verschlungensystem; Isonomia statt Platonismus; Transkritik (Kant + Marx); Associationism als praktische Politik
+
+---
+
 
 ## Jean-François Lyotard
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jean-Francois Lyotard]]

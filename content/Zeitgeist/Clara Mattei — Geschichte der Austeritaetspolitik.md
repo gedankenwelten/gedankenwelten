@@ -231,3 +231,7 @@ Mattei liefert die historische Tiefe zur Steuervermeidungsindustrie, die Studio 
 ### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
 
 Matteis These (Austerität als politisches Disziplinierungsinstrument) ergänzt Heins Analyse der westlichen Doppelmoral: Liberalisierung im globalen Süden fordern, Subventionen zu Hause schützen. Beide zeigen: „Regelbasierte Ordnung" war immer auch Machtinstrument
+
+### → [[Kojin Karatani — Tauschformen und die Ueberwindung der Triade]]
+
+Mattei liefert die empirische Anatomie für Karatnais strukturelle These: Kapital, Staat und Nation kooperieren — die Brüsseler Konferenz 1920 zeigt das Borromäische Muster in Reinform. Karatani erklärt theoretisch, warum das so sein muss (Mode B und Mode C verstärken sich gegenseitig), Mattei zeigt es historisch an einem konkreten Fall.
