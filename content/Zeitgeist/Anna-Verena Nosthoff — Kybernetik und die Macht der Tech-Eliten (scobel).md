@@ -177,6 +177,10 @@ Nosthoffs Datensubjekt ist Fromms *Haben*-Modus in Reinform: Der Mensch reduzier
 
 Spitzers und Wolf Singers Warnung vor der Gehirn-Computer-Analogie wird von Nosthoff historisch eingebettet: Diese Analogie entstand in den Macy-Konferenzen der 1940er Jahre als kybernetisches Kernprojekt
 
+### → [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]]
+
+Mbembe liefert die kolonialhistorische Herkunft der kybernetischen Sortierlogik: Die Klassifizierung von Menschen in "produktiv/unentbehrlich" und "Abfall/waste" wurde nicht im Silicon Valley erfunden — sie wurde in der atlantischen Sklaverei und kolonialen Lohnarbeit erprobt. Nosthoffs kybernetische Genealogie (Wiener, von Foerster, Stafford Beer) gewinnt durch Mbembes Genealogie eine koloniale Vorgeschichte, die im akademischen Technik-Diskurs regelmäßig ausgeblendet wird.
+
 ### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 
 Heitmeyers These der gesellschaftlichen Verrohung findet in Nosthoff eine strukturelle Erklärung: Wenn Menschen auf Datenpunkte reduziert werden, verliert sich die Grundlage für Würde und Mitgefühl
