@@ -166,9 +166,10 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 - Neurodiversität, inklusive Bildung, Lernforschung
 
 ## Carlo Cipolla
-**Status:** Stub
-- Wirtschaftshistoriker (1922–2000), UC Berkeley
-- "Die fünf Gesetze der menschlichen Dummheit"; mittelalterliche Wirtschaftsgeschichte
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carlo Cipolla]]
+- Wirtschaftshistoriker (1922–2000), UC Berkeley; Balzan-Preis 1995
+- *Guns, Sails, and Empires* (1965), *Clocks and Culture* (1967), *The Basic Laws of Human Stupidity* (1976)
+- Kernthesen: Vier-Quadranten-Modell, Asymmetrie-Problem, Zivilisationsverfall durch Kompositionsverschiebung
 
 ## Christof Johnen
 **Status:** Stub
@@ -739,7 +740,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Ludwig Wittgenstein
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ludwig Wittgenstein]]
 - Philosoph und Begründer der Sprachphilosophie (*1889, Wien — †1951, Cambridge)
-- Kernthesen: Linguistic Turn, Bildtheorie der Sprache, „Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen, Bedeutung als Gebrauch, beredetes Schweigen
+- Kernthesen: Linguistic Turn, Bildtheorie der Sprache, „Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen, Bedeutung als Gebrauch, beredtes Schweigen
 
 ---
 
