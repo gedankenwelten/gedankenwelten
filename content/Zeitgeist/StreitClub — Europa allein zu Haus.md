@@ -230,3 +230,7 @@ Sonneborn kritisiert EU-Verteidigungsausgaben als Kriegsgewinnlertum — der Str
 ### → [[Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]]
 
 Flemig liefert die industrielle Realität, die der StreitClub fordert: Rheinmetall als Umsetzung europäischer Verteidigungsautonomie in Stahl und Munition. Die politische Debatte hier, die Fabrikhallen dort.
+
+### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
+
+Krastev benennt die vier zerschlagenen Annahmen europäischer Sicherheit und vertieft die Verteidigungsfähigkeitsdebatte: *„Budgets führen keine Kriege, Menschen führen Kriege."* Sein Befund — Europa hat seinen Erfolg (Krieg undenkbar machen) zur größten Schwachstelle gemacht — ist die strukturelle Begründung für den StreitClub-Befund.
