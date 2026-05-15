@@ -217,6 +217,8 @@ Musk ließ Wikipedia von Grok umschreiben zu *„Grokipedia"* — mit verfälsch
 
 **Ökonomischer Unterbau des Rechtsrucks:** [[Denker/Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck analysiert die wirtschaftlichen Ursachen; Kemper fügt die ideologischen Träger und Netzwerke hinzu.
 
+**Koloniale Herkunft faschistischer Techniken:** [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]] — Mbembes Nekropolitik-Begriff schärft Kempers Analyse um die koloniale Dimension: Kemper zeigt die ideologischen Typen des gegenwärtigen Faschismus, Mbembe zeigt ihre historische Herkunft — die kolonialen Kriegsführungstechniken, die als "Ausnahmezustand" erprobt wurden, bevor sie nach Europa zurückkehrten. Hannah Arendts Boomerang-These (Totalitarismus als Rückkehr kolonialer Gewalt) und Mbembes Nekropolitik sind dieselbe These mit verschiedenem Ausgangspunkt.
+
 **Entsolidarisierung als Boden:** [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Heitmeyers These der institutionellen Desintegration als Treiber von Verrohung erklärt das psychosoziale Milieu, in dem alle drei Faschismus-Formen Wurzeln schlagen.
 
 **Praktische Illustration:** [[Daniel - Weidel beim Schwurblertreff AWEF]] — das AWEF-Teilnehmerfeld (Sellner, Bhakdi, Jebsen) als konkretes Beispiel für Kempers Faschismus-Typologie

@@ -178,6 +178,26 @@ Das ist kein Reformprogramm — es ist eine Erfindungsaufgabe.
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/Liya Yu — Neuropolitik und die Grenzen der Moral]]
+
+Beide analysieren den Mechanismus, durch den Menschen zu "töt-baren" oder aus der Moral ausgegrenzten Wesen werden — aber auf radikal verschiedenen Ebenen. Yu erklärt neurobiologisch, wie der präfrontale Kortex abschaltet und Dehumanisierung zur kognitiven Routine wird. Mbembe zeigt, dass dieselbe Dehumanisierung keine individuelle Fehlfunktion ist, sondern eine historisch gewachsene politische Infrastruktur — erprobt in Kolonialkriegen, perfektioniert in der atlantischen Sklaverei. Yus Neuropolitik liefert den Mechanismus, Mbembes Nekropolitik die Architektur: Beide brauchen einander, um das vollständige Bild zu erklären.
+
+### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+
+Nosthoff zeigt, wie kybernetische Steuerungslogik — Gesellschaft als optimierbares Feedback-System — in Silicon-Valley-Ideologie umgebaut wurde. Mbembe liefert die historische Tiefendimension: Die algorithmische Sortierung von Menschen in "produktiv" und "Abfall/waste" ist keine digitale Erfindung, sondern die Neuauflage der kolonialen Marktlogik, die versklavte Afrikaner zuerst als zurechenbare, dann als entbehrliche Waren klassifizierte. Beide fragen, wem die Artefakte der Vernunft dienen — und beide diagnostizieren eine Verschiebung von Souveränität weg von demokratischer Kontrolle.
+
+### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
+
+Kempers Faschismus-Typen (völkisch, klerikalistisch, technofaschistisch) und Mbembes Nekropolitik konvergieren in einer zentralen Erkenntnis: Die politischen Techniken des 20. und 21. Jahrhunderts sind keine Anomalien, sondern Importe. Mbembe zeigt, dass Konzentrationslager, Ausnahmezustand und Bevölkerungsvernichtung zuerst in den Kolonien erprobt wurden, bevor sie nach Europa zurückkehrten — das ist Arendts "Boomerang-These" in konsequenter Ausarbeitung.
+
+### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Nosthoff — Kybernetik und Tech-Eliten]]
+
+*Verbindung bereits oben beschrieben.*
+
+### → [[Gedankenwelten/DenkerVita/Isabell Lorey]]
+
+Lorey und Mbembe gehen beide von Foucaults Biopolitik aus, schärfen sie aber in entgegengesetzte Richtungen. Lorey betont die Seite der Immunisierung: Wer wird durch gouvernementale Prekarisierung "geschützt" — und damit normiert? Mbembe betont die Seite der Tötbarkeit: Wessen Tod wird zur Bedingung des Schutzes der anderen? Zusammen bilden sie eine vollständige Karte der biopolitischen Sortierung: Prekarisierung ist die weiche Kontinuumsvariante dessen, was Mbembe als Nekropolitik beschreibt — der Unterschied ist graduell, nicht kategorial.
+
 ---
 
 ## Weiterdenken
