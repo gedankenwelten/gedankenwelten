@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Barbara Tversky — Denken beginnt nicht im Kopf
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Thought doesn't just happen in the brain \| Barbara Tversky](https://www.youtube.com/watch?v=Tprm0UpCKTY) |
+| **Notiz** | [[Gedankenwelten/Denker/Barbara Tversky — Denken beginnt nicht im Kopf]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Tversky_Embodied_Thinking_Transkript.txt` |
+
 ## Yanis Varoufakis — Trump Has Lost Everything
 
 | | |

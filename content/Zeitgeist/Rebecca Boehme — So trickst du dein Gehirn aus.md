@@ -220,3 +220,7 @@ Reappraisal als Schlüssel zum Verlassen der Schockstarre: Die Architekten könn
 ### → [[Das unsichtbare Netzwerk — Gravitation statt Revolution]]
 
 Das Netzwerk-Essay als Praxisform von Böhmes Theorie: Jede aufrichtige Begegnung aktualisiert die Vorhersage des Gegenübers positiv (Prediction Error). Das ist Reappraisal im Sozialen — nicht am Kissen trainiert, sondern in der Begegnung. Die Myzel-Metapher als Bild für das, was neurowissenschaftlich messbar ist.
+
+### → [[Gedankenwelten/Denker/Barbara Tversky — Denken beginnt nicht im Kopf]]
+
+Böhmes Milkshake-Studie und Tverskys Embodied Cognition treffen sich im selben Befund: Der Körper ist nicht passiver Empfänger, sondern aktiver Mitgestalter von Wahrnehmung und Kognition. Böhme zeigt, wie mentale Modelle den Körper physisch verändern (Ghrelin-Ausschüttung). Tversky zeigt, wie der Körper das Denken erst ermöglicht (Gesten, Deprivations-Experiment). Zwei-Wege-Kanal, beide Richtungen empirisch belegt.
