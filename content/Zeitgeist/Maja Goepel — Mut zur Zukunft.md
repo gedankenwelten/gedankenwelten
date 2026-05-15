@@ -187,3 +187,7 @@ Göpel als Gastgeberin und Sparringspartnerin — ihr „Forwardlash"-Begriff ve
 ### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
 
 Göpel als Gastgeberin im NEU-DENKEN-Podcast. Ihre „hohe Lebensqualität bei geringstem Fußabdruck"-Formel wird hier zur geoökonomischen Befriedungsstrategie: Wer weniger Ressourcen braucht, muss weniger annexieren
+
+### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+
+Göpels Donut-Ökonomie ist im NANO Talk der explizite Referenzrahmen: Schaupp und Redecker übersetzen Göpels Theorie in politische Forderungen — Arbeitszeitverkürzung als ökologischer Imperativ, nicht nur als Gerechtigkeitsfrage.

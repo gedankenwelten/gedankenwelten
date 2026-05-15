@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## NANO Talk — Arbeiten wir zu wenig oder völlig falsch?
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Arbeiten wir zu wenig – oder völlig falsch? \| NANO Talk (3sat)](https://www.youtube.com/watch?v=PCPoI5vGb6s) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] |
+| **Transkript** | `Gedankenwelten/Transkripte/NANO_Arbeit_Transkript.txt` |
+
 ## Gilda Sahebi und Arne Semsrott — GCA #33: Liegenddemos, Schwarz-Rot, Sea-Watch
 
 | | |

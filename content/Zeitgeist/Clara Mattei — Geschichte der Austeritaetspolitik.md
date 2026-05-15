@@ -235,3 +235,7 @@ Matteis These (Austerität als politisches Disziplinierungsinstrument) ergänzt 
 ### → [[Kojin Karatani — Tauschformen und die Ueberwindung der Triade]]
 
 Mattei liefert die empirische Anatomie für Karatnais strukturelle These: Kapital, Staat und Nation kooperieren — die Brüsseler Konferenz 1920 zeigt das Borromäische Muster in Reinform. Karatani erklärt theoretisch, warum das so sein muss (Mode B und Mode C verstärken sich gegenseitig), Mattei zeigt es historisch an einem konkreten Fall.
+
+### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+
+Matteis Austeritätspolitik als Arbeitsdisziplinierung verbindet sich mit Schaupps "halbe Demokratie"-Kritik: Wir wählen Regierungen, nicht Arbeitsbedingungen — und das ist kein Versehen, sondern historisch konstruiert.

@@ -53,7 +53,11 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Evan Osnos|Evan Osnos]]** — Journalist (*New Yorker*); Dokumentarist der Ultrareichen, Autor *The Haves and Have-Yachts*; Zuckerberg-Biograph, National Book Award
 
+**[[Gedankenwelten/DenkerVita/Eva von Redecker|Eva von Redecker]]** — Philosophin, kritische Theoretikerin; Sorgearbeit-Theorie, Bleibefreiheit als Freiheitsbegriff, neuer Faschismus als Phantombesitz-Logik; Autorin *Revolution für das Leben*, *Bleibefreiheit*, *Dieser Drang nach Härte*
+
 ## F
+
+**[[Gedankenwelten/DenkerVita/Fabian Braesemann|Fabian Braesemann]]** — Ökonom, Datenanalyst (Oxford Internet Institute); KI und Arbeitsmärkte, komplexe Systeme, empirische Forschung zu Arbeitsmarktübergängen und KI-Integration
 
 **[[Gedankenwelten/DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]** — Soziologieprofessor LMU München, Gründungsdirektor ISI; Münzstapel-Visualisierung: reichste Deutsche = 1/3 Weg zum Mond; dynastische Persistenz von Reichtum über 100 Jahre
 
@@ -98,8 +102,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[Gedankenwelten/DenkerVita/Juergen Habermas|Jürgen Habermas]]** — Philosoph, Frankfurt School; Kommunikatives Handeln, Diskursethik, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, letzter großer Geschichtsphilosoph
 
 ## K
-**[[Gedankenwelten/DenkerVita/Kojin Karatani|Kojin Karatani]]** — Japanischer Philosoph, Literaturtheoretiker; Berggruen Prize 2022; Tauschformen-Theorie statt Produktionsweisen, Capital-Nation-State-Triade, Isonomia vs. Platonismus, Transkritik (Kant + Marx), Associationism
 
+**[[Gedankenwelten/DenkerVita/Kojin Karatani|Kojin Karatani]]** — Japanischer Philosoph, Literaturtheoretiker; Berggruen Prize 2022; Tauschformen-Theorie statt Produktionsweisen, Capital-Nation-State-Triade, Isonomia vs. Platonismus, Transkritik (Kant + Marx), Associationism
 
 **[[Gedankenwelten/DenkerVita/Kevin Kuehnert|Kevin Kühnert]]** — Ehemaliger SPD-Generalsekretär, Juso-Vorsitzender; Verteilungspolitik und Steuern bei Finanzwende; 6%-Rendite-Besteuerung, Vermögenskonzentration als Demokratiegefahr
 
@@ -168,6 +172,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[Gedankenwelten/DenkerVita/Ronen Steinke|Ronen Steinke]]** — Journalist, Sachbuchautor, Jurist; SZ-Korrespondent; Meinungsfreiheit, Verfassungsschutz als Demokratieproblem, Fritz Bauer als Kompass
 
 ## S
+
+**[[Gedankenwelten/DenkerVita/Simon Schaupp|Simon Schaupp]]** — Arbeitsforscher und Soziologe (KU Leuven); kybernetische Proletarisierung, algorithmische Arbeitssteuerung, Gewerkschaften und digitale Transformation, Ökologie und Arbeitzeitverkürzung; Autor *Technopolitik von unten*
 
 **[[Gedankenwelten/DenkerVita/Staiy|Staiy (Karim Staiy)]]** — YouTuber, Medienkritiker; meinungsmache.de, Almanara-Bica-Podcast, „NEWS"-Format; Medienschwigen, Rechtsextremismus, Demokratie aus deutsch-arabischer Perspektive
 

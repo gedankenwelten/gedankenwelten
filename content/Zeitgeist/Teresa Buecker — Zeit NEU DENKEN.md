@@ -229,3 +229,7 @@ KI-Diskussion über Bullshit-Jobs und Automatisierung als Befreiung führt direk
 ### → [[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]
 
 Verlust der Leichtigkeit als Zeitarmut: neoliberale Leistungsverdichtung zerstört zweckfreies Erleben.
+
+### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+
+Der NANO Talk ist Bückers unmittelbarste Parallele: Schaupp und Redecker benennen dieselbe Struktur — Sorgearbeit als unsichtbarer Kern — und liefern die politökonomische Erklärung, warum Zeitungerechtigkeit kein Zufall ist.
