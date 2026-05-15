@@ -230,4 +230,4 @@ Homm verwendet „MK Ultra" als Deutungsfolie für seine eigene Elite-Formierung
 
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
-Varoufakis erklärt systemisch, was Grenzgänger Studios an Thiel exemplifiziert: Cloud Capital — finanziert durch QE nach 2008 — ersetzt Märkte durch feudale Plattformen. Thiel ist der paradigmatische Cloud-Feudalherr in Varoufakis' Analyse: Palantir produziert keine Waren, sondern extrahiert Rente.
+Varoufakis erklärt systemisch, was Grenzgänger Studios an Thiel exemplifiziert: Cloud Capital — finanziert durch QE nach 2008 — ersetzt Märkte durch feudale Plattformen. Thiel ist der paradigmatische Cloud-Feudalherr in Varoufakis' Analyse: Palantir produziert keine Waren, sondern schöpft Tribut ab.
