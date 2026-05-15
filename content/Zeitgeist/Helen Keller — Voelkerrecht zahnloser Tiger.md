@@ -224,3 +224,7 @@ Heinrich illustriert Kellers These am konkreten Fall: Das ATACMS-Einsatzverbot g
 ### → [[Martin Sonneborn — Endloser Krieg]]
 
 Sonneborn impliziert, die regelbasierte Ordnung sei nur Fassade für Kapitalinteressen. Keller liefert den nüchternen Gegenentwurf: Völkerrecht wirkt auch ohne zentrale Durchsetzung — durch Normsetzung und zivilgesellschaftlichen Druck. Sonneborns Souveränitätsforderung braucht genau die Ordnung, die er als Fassade abtut.
+
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
+
+Die Sea-Watch-Sequenz — Schiff beschossen, 35.000 Tote, EU kooperiert aktiv mit libyschen Milizen — ist der Fall, den Keller mit "normativer Erosion durch Duldung" beschreibt: Nicht das Völkerrecht versagt, sondern die Staaten, die es finanzieren und gleichzeitig aushöhlen.

@@ -232,3 +232,7 @@ Die Minijob-Note zeigt denselben CDU-Widerspruch in der Arbeitspolitik, den die 
 ### → [[Der Dara — Merz 72-Stunden-Arbeitswoche]]
 
 Konkrete Eskalation der Jahresbilanz-Dynamik: Merz wird beim DGB-Kongress (Mai 2026) ausgebuht, als er die Aufweichung des 8-Stunden-Tags und Rentenreform ankündigt. Die Gewerkschaften rebellieren — ein Symptom der Entfremdung zwischen Regierung und Arbeitnehmerschaft.
+
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
+
+Sahebi und Semsrott benennen denselben Empathiemangel an einem konkreten Fall, den Herrmann hier strukturell fasst: Merz, der öffentlich über eine sterbende Frau hinweggeht und gleichzeitig Diätenerhöhung durchsetzt — Ausdruck einer politischen Klasse, die den Kontakt zur Lebensrealität verloren hat.

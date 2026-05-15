@@ -209,3 +209,7 @@ Deutsches Pendant zur Ellabell-Logik: Hochqualifizierte Fachkräfte werden abges
 ### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 Beide ziehen dieselbe Jahresbilanz Schwarz-Rot — diese Note von innen (Ministerien), der Entscheidende Punkt von außen. Katharina Reiche als Klimakonsens-Brecherin ist in beiden Notes zentrales Symptom von Merz' Führungsversagen.
+
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
+
+GCA 33 zieht dieselbe Bilanz von außen, die Jakobs Ministeriums-Quellen von innen stützen: ca. 87% Unzufriedenheit, AfD auf Allzeithoch, Migrationsverschärfung als Scheinlösung. Beide Notes dokumentieren, dass Schwarz-Rot ihr zentrales Versprechen — AfD halbieren — in sein Gegenteil verkehrt hat.
