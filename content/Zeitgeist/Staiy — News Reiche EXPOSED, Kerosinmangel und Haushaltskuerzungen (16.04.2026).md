@@ -174,3 +174,7 @@ Presseclub diskutiert die Batterie-Diskriminierung, die hier als EXPOSED dokumen
 ### → [[Michael Sterner — Reiche gegen Marktwirtschaft]]
 
 Die laut Spiegel angeforderten Anti-Batterie-Argumente manifestieren sich im StromVKG: Sterner zeigt drei konkrete Paragraphen (10+1h-Regel, Resilienz-Klausel, H2-Readiness), die als legislativer Niederschlag der hier enthüllten Lobbypapiere gelesen werden können.
+
+### → [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|SPIEGEL TV — Spahns Maskendeal]]
+
+Katharina Reiche und Jens Spahn: zwei Varianten desselben CDU-Drehtür-Musters. Dort EnBW und Gaskraftwerke-Lobby, hier Maskenhersteller und Pandemieprofite. Das verbindende Prinzip: die systematische Privatisierung staatlicher Entscheidungsmacht durch Parteinetzwerke — reproduzierbar, nicht zufällig.

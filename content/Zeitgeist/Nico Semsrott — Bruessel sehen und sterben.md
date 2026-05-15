@@ -195,3 +195,7 @@ Nicos Bruder Arne analysiert mit Gilda Sahebi den Angriff auf zivilgesellschaftl
 ### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 
 Manow analysiert, wie demokratische Institutionen autoritäre Tendenzen entwickeln können — nicht durch Putsch, sondern durch schleichende Erosion der Kontrollmechanismen. Semsrotts EU-Bericht ist ein Fallbeispiel: Die CDU/CSU nutzt ihre Mehrheitsposition nicht, um offen demokratische Regeln abzuschaffen, sondern um sie so zu gestalten, dass sie wirkungslos bleiben. Es ist der „autoritäre Drift" im Gewand parlamentarischer Normalität.
+
+### → [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|SPIEGEL TV — Spahns Maskendeal]]
+
+Semsrotts „Transparenz-Attrappen" auf EU-Ebene haben ihr nationales Gegenstück: Das 9.999-Euro-Spendenlimit ist kein Zufall, sondern ein bewusst offengelassenes Schlupfloch im deutschen Parteiengesetz — analog zu den Kontrollmechanismen im EU-Parlament, die absichtlich zahnlos konstruiert sind. Beide Notes zeigen: Wer die Regeln schreibt, kontrolliert das Spiel.
