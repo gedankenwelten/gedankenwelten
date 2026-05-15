@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Heiner Flassbeck — Deutschlands größtes Tabu
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Heiner Flassbeck: Warum Deutschlands größtes TABU uns ruiniert](https://www.youtube.com/watch?v=HGMKulV8mNg) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Flassbeck_Tabu_Transkript.txt` |
+
 ## NANO Talk — Arbeiten wir zu wenig oder völlig falsch?
 
 | | |

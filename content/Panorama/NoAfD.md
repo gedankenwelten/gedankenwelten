@@ -227,6 +227,7 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Martyna Linartas — Unverdiente Ungleichheit]] | Ursache · Erbengesellschaft |
 | [[Christoph Butterwegge — Armut NEU DENKEN]] | Ursache · Soziale Ungleichheit |
 | [[Heiner Flassbeck — Krise und Rechtsruck]] | Ursache · Ökonomische Wurzeln |
+| [[Heiner Flassbeck — Deutschlands groesstes Tabu]] | Ursache · Sparparadox, Exportwahn, Demokratiegift Schuldenbremse |
 | [[Clara Mattei — Geschichte der Austeritätspolitik]] | Ursache · Historische Kontinuität |
 | [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] | Ursache · Demokratiedefizit |
 | [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] | Ursache · Psychologische Produktion |
