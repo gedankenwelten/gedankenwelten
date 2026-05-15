@@ -28,7 +28,7 @@ Alle Notes entstehen mit Hilfe von KI — analysiert, eingeordnet, vernetzt. Jed
 
 | Agent | Aufgabe |
 |---|---|
-| **Hermes** | Übersetzt. Verwandelt Rohmaterial — YouTube, Podcast, Artikel — in vernetzte Notes. |
+| **Gedankenwelt** | Übersetzt. Verwandelt Rohmaterial — YouTube, Podcast, Artikel — in vernetzte Notes. |
 | **Aristoteles** | Analysiert. Destilliert aus einem Transkript nicht eine Zusammenfassung, sondern eine Durchdringung. |
 | **Sokrates** | Fragt. Sucht unter den Antworten die Fragen, die noch niemand gestellt hat. |
 | **Sherlock** | Prüft. Glaubt erst, wenn er Belege hat — Skepsis ohne Zynismus. |
@@ -50,7 +50,7 @@ Die Agenten reagieren auf **Slash-Befehle** oder **natürliche Sprache** — je 
 **Per Slash-Befehl** (Claude Code, Copilot CLI):
 
 ```
-/hermes https://youtube.com/watch?v=abc123
+/gedankenwelt https://youtube.com/watch?v=abc123
 /epikur
 /pascal
 /vergil
@@ -70,7 +70,7 @@ Die Agenten reagieren auf **Slash-Befehle** oder **natürliche Sprache** — je 
 
 | Situation | Was passiert |
 |---|---|
-| Du fügst einen YouTube-Link ein | → Hermes startet die Pipeline |
+| Du fügst einen YouTube-Link ein | → Gedankenwelt startet die Pipeline |
 | Du sagst *"gute Nachricht"* | → Epikur begleitet dich |
 | Du sagst *"ich denke, dass..."* | → Pascal bietet an, den Gedanken festzuhalten |
 | Du fragst *"wie beteilige ich mich?"* | → Vergil erklärt |
@@ -301,7 +301,7 @@ Gedankenwelten lebt von Beiträgen. Das Modell ist einfach: **Fork → eigene No
 - Quellen verlinkt, Zitate mit Timestamps?
 - `## Weiterdenken` mit echten offenen Fragen?
 
-Die KI-Pipeline (Hermes, Aristoteles, Sokrates, Sherlock, Montaigne) hilft beim Einhalten des Standards — sie ist genau dafür da.
+Die KI-Pipeline (Gedankenwelt, Aristoteles, Sokrates, Sherlock, Montaigne) hilft beim Einhalten des Standards — sie ist genau dafür da.
 
 **Tipp:** Wer das Repo forkt und regelmäßig Beiträge plant, sollte es mit dem Original synchron halten:
 
