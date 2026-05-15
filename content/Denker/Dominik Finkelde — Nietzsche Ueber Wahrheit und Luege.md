@@ -160,3 +160,7 @@ Scobels Foucault-Behandlung thematisiert dieselbe Spannung: Kann man die Aufklä
 ### → [[Demirovic und Lorey — Foucaults Gouvernementalitaet]]
 
 Die Gouvernementalitäts-Analyse ist eine direkte Anwendung von Nietzsches These: Wenn Wahrheit ein Produkt von Kräfteverhältnissen ist, dann sind Regierungstechniken immer auch Wahrheitsregime. Finkelde liefert die philosophische Grundlegung dafür.
+
+### → [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit]]
+
+Lyotard ist einer der Züge, die von Finkeldes "Drehscheibe Nietzsche" abfahren. Das postmoderne Misstrauen gegenüber Metaerzählungen ist die direkte Weiterführung von Nietzsches These: Wahrheit ist ein bewegliches Heer von Metaphern. Die Finkelde-Note vergleicht Nietzsche bereits mit Habermas — dieselbe Spannung, die auch den Lyotard-Habermas-Konflikt strukturiert.

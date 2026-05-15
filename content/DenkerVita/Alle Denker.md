@@ -85,6 +85,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Jan Hegenberg|Jan Hegenberg]]** — Blogger ("Der Graslutscher"), Autor; Energiewendemythen entkräften, Optimismus durch Fakten, Chinas CO₂-Trendwende
 
+**[[Gedankenwelten/DenkerVita/Jean-Francois Lyotard|Jean-François Lyotard]]** — Philosoph der Postmoderne; Gegenspieler Habermas', Ende der Metaerzählungen, Widerstreit, Sprachspiele ohne universale Schiedsrichter, Inkommensurabilität
+
 **[[Gedankenwelten/DenkerVita/John Rawls|John Rawls]]** — Politischer Philosoph; Schleier des Nichtwissens, Urzustand, Gleichheitsprinzip, Differenzprinzip
 
 **[[Gedankenwelten/DenkerVita/Julie Pagis|Julie Pagis]]** — Soziologin CNRS/IRIS-EHESS; Mai 68 und charismatische Herrschaft; Herrschaft vs. Beherrschen, biographische Sackgasse

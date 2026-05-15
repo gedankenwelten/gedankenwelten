@@ -41,6 +41,13 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Jean-François Lyotard
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jean-Francois Lyotard]]
+- Philosoph der Postmoderne (Versailles, 1924–1998) — Gegenspieler Habermas', Begründer der Postmoderne-Philosophie
+- Kernthesen: Tod der Metaerzählungen, Sprachspiele ohne universale Schiedsrichter, Widerstreit (Différend) als unauflösbar, Inkommensurabilität, Performativitätskriterium statt Wahrheit
+
+---
+
 ## Franz Kafka
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Franz Kafka]]
 - Schriftsteller, philosophischer Anthropologe (Prag, 1883–1924)

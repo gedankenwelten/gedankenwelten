@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## scobel — Lyotard: Das Ende der Wahrheit?
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Das Ende der Wahrheit? Lyotards gefährliche Idee – scobel](https://www.youtube.com/watch?v=znQGE0qelew) |
+| **Notiz** | [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Scobel_Lyotard_Transkript.txt` |
+
 ## erneuerbare tv — Bidirektionales Laden / Vehicle-to-Grid
 
 | | |
