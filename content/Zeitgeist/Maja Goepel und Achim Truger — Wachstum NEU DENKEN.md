@@ -123,6 +123,10 @@ Ein wichtiger Punkt: Göpel und Truger diskutieren nicht, ob die Wirtschaft „w
 
 Flassbeck zeigt keynesianisch präzise die Unmöglichkeit, in Nachfragekrisen sparen zu können — exakt das, was Trügers Schuldenbremsen-Kritik ökonomisch verlangt. Die mathematische Logik der sektoralen Finanzierungssalden bestätigt: Die „Schwarze Null" ist nicht nur falsch, sondern mathematisch unmöglich.
 
+### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu]]
+
+Das Tabu-Gespräch ergänzt Trugers institutionelle Schuldenbremsen-Analyse um die historische und globale Dimension: Wie das Sparparadox durch Schröders Lohnpolitik exportiert wurde, das China-Gegenmodell, und warum Maastricht kein deutsches Exportprodukt ist, sondern ein deutsch-französischer Kompromiss.
+
 ### → [[Gedankenwelten/Denker/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
 
 Konkrete Policy-Versagen (Sparparadoxon bei Renten): Wenn die Schwarze Null heilig ist, scheitert auch Rentenreform an der Dogmatik. Goepel/Trüger: Das ist das Paradoxon des Spardogmas.
