@@ -5,6 +5,16 @@ tags:
   - quellen
   - links
 ---
+## Abdolkarim Soroush — Reformation des Glaubens von innen
+
+| | |
+|---|---|
+| **Vortrag / Video A** | [Reason, Freedom and Democracy in Islam](https://www.youtube.com/watch?v=S04GZ7e8ovk) |
+| **Vortrag / Video B** | [Discussion on Revelation, Reform, and Secularism](https://www.youtube.com/watch?v=riwmwcgo6_o) |
+| **Notiz** | [[Gedankenwelten/Denker/Abdolkarim Soroush — Reformation des Glaubens von innen]] |
+| **Transkript A** | `Gedankenwelten/Transkripte/Soroush_Reason_Freedom_Democracy_Transkript.txt` |
+| **Transkript B** | `Gedankenwelten/Transkripte/Soroush_Revelation_Reform_Transkript.txt` |
+
 ## Barbara Tversky — Denken beginnt nicht im Kopf
 
 | | |
