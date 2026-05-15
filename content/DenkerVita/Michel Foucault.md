@@ -120,5 +120,6 @@ Sein Spätwerk interessierte sich für liberale Gouvernementalität und wurde �
 ## Cortex-Notes
 
 - [[scobel — Foucault Aufklaerung als Haltung]] — Foucaults Aufklärungsessay: Unmündigkeit, Befreier-Paradox, Aufklärung als tägliche Haltung
+- [[Gedankenwelten/Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]] — Soroushs Qabz va Bast als islamisches Äquivalent zu Foucaults Machtanalytik des Diskurses: Wer das Verstehen kontrolliert, kontrolliert die Religion
 - [[Walther Ziegler — Foucault in 60 Minuten]] — Foucaults Frühwerk kompakt: Panoptikum, Wahnsinn und Gesellschaft, Episteme, Dispositiv und Tod des Subjekts
 - [[Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Foucaults Mittelwerk: Gouvernementalität als Regierungskunst, Neoliberalismus als antifaschistische Selbstbegrenzung, Humankapital und Prekarisierung — tl;dr Podcast #51 mit Isabell Lorey

@@ -89,3 +89,4 @@ Rawls wird oft als Theoretiker der Sozialdemokratie oder des linken Liberalismus
 ## Cortex-Notes
 
 - [[Walther Ziegler — Rawls in 60 Minuten]] — Einführung in die Theorie der Gerechtigkeit (Vortrag)
+- [[Gedankenwelten/Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]] — Soroushs Befund aus der islamischen Tradition als Komplement zu Rawls' Overlapping Consensus: Demokratie ist nicht aus dem Islam ableitbar, aber Muslime können über Gerechtigkeit konvergieren
