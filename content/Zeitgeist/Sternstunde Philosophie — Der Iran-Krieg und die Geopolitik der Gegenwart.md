@@ -252,3 +252,7 @@ taz-Runde konkretisiert das Sicherheitsdilemma: Trump muss besseres Abkommen als
 ### → [[Torsten Heinrich — Was die Tagesschau verschweigt]]
 
 Heinrich ergänzt die Sternstunde-Geopolitik um die Ukraine-Dimension: identisches analytisches Werkzeug (Völkerrecht, geographische Logik, Medienkritik), angewandt auf den europäischen Konflikt statt den nahöstlichen
+
+### → [[Gedankenwelten/Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]]
+
+Soroushs intellektuelle Biografie ist der persönliche Unterbau zur geopolitischen Analyse: Was Schayegh und Safiarian strukturell über das Regime beschreiben, hat Soroush am eigenen Leib erfahren — Lehrverbot, Exil, Verfolgung. Die Islamische Republik als Feind jeder innerislamischen Reform.

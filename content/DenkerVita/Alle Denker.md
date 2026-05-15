@@ -13,6 +13,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
+**[[Gedankenwelten/DenkerVita/Abdolkarim Soroush|Abdolkarim Soroush]]** — Iranischer Religionsphilosoph, pro-Demokratie-Aktivist; Qabz va Bast (Kontraktion/Expansion religiösen Wissens), religiöser Pluralismus, Kritik am velayat-e faqih, Reformislam; Erasmus-Preis 2004, Time 100 2005
+
 **[[Gedankenwelten/DenkerVita/Albrecht von Lucke|Albrecht von Lucke]]** — Publizist, Journalist; Blätter-Redakteur; Nischengesellschaft, Konfliktunfähigkeit, Merz-Regierung als Führungsvakuum
 
 **[[Gedankenwelten/DenkerVita/Christoph Moellers|Christoph Möllers]]** — Staatsrechtler und Rechtsphilosoph; Freiheitsgrade, Demokratie als Aushandlungsverfahren, Staat als Ermöglichungsbedingung der Freiheit, Rektor Wissenschaftskolleg Berlin 2026

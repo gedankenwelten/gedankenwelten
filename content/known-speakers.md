@@ -13,6 +13,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Abdolkarim Soroush
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Abdolkarim Soroush]]
+
+---
+
 ## Achille Mbembe
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Achille Mbembe]]
 
