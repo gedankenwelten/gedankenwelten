@@ -13,6 +13,13 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Achille Mbembe
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Achille Mbembe]]
+- Kamerunischer Historiker und Politiktheoretiker (Otélé, Kamerun, *1957) — Research Professor, Wits Institute for Social and Economic Research (Johannesburg)
+- Holberg Prize 2024; Kernthesen: Necropolitics (Souveränität als Macht über Tod und Leben), Postkolonialtheorie, Planetare Ethik, Kritik der epistemischen Gewalt des Rassialismus, Brutalismus als gegenwärtige Herrschaftsform
+
+---
+
 ## Albrecht von Lucke
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Albrecht von Lucke]]
 - Publizist, Journalist (Ingelheim am Rhein, *1967) — Redakteur Blätter für deutsche und internationale Politik seit 2003

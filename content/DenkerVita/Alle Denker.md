@@ -113,6 +113,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## M
 
+**[[Gedankenwelten/DenkerVita/Achille Mbembe|Achille Mbembe]]** — Kamerunischer Historiker und Politiktheoretiker; Necropolitics, Postkolonialtheorie, Planetare Ethik; Holberg Prize 2024 für *The Earthly Community*
+
 **[[Gedankenwelten/DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]]** — Deutschsprachiger YouTube-Kommentator für US-Politik; lebt in Buffalo, New York; anti-Trump, faktenorientiert, unabhängig; erklärt Amerika von innen für deutschsprachiges Publikum
 
 **[[Gedankenwelten/DenkerVita/Mats Schoenauer|Mats Schoenauer]]** — Journalist, YouTuber, Buchautor; Betreiber YouTube-Kanal Topfvollgold; Gründer Topfvollgold (mit Moritz Tschermak, 2013); Medienmanipulation, Desinformation als Geschäftsmodell, Faktencheck-Journalismus
