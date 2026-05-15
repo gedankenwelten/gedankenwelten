@@ -87,6 +87,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Isabell Lorey|Isabell Lorey]]** — Politikwissenschaftlerin, Professorin Queer Studies KHM Köln; Prekarisierung als Regierungstechnik, Immunisierung als Herrschaftslogik, Sorgebeziehungen als Gegenentwurf
 
+**[[Gedankenwelten/DenkerVita/Ivan Krastev|Ivan Krastev]]** — Bulgarischer Politikwissenschaftler (Wien/Sofia); Illiberale Welle als Imitations-Rebellion, Demokratie braucht Zukunftsglauben, "unsere Träume europäisch — unsere Albträume national"
+
 ## J
 
 **[[Gedankenwelten/DenkerVita/Jan Hegenberg|Jan Hegenberg]]** — Blogger ("Der Graslutscher"), Autor; Energiewendemythen entkräften, Optimismus durch Fakten, Chinas CO₂-Trendwende

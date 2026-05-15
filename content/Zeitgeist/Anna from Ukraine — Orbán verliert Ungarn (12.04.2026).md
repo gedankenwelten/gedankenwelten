@@ -169,3 +169,7 @@ Gerdes zeigt den *externen* Druck auf Orbán (Tusk-Kritik, Szijjártós Isolatio
 ### → [[StreitClub — Europa allein zu Haus]]
 
 StreitClub diskutiert Orbáns Abwahl als Testfall für europäische Demokratie-Selbstkorrektur
+
+### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
+
+Krastev ergänzt Annas ukrainische Außenperspektive um eine analytische Langzeit-Einordnung: Was bedeutet Orbáns Niederlage für Europa strukturell? Sein Skeptizismus (*„Die Gesichter ändern sich, aber die Ärsche bleiben"*) dämpft den Optimismus, den Anna formuliert.

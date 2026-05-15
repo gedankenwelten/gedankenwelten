@@ -228,3 +228,7 @@ Paneldebatte über die EU-Dimension der Orbán-Abwahl
 
 ### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 Staiy feiert Magyars Vereidigung — Gelegs warnt vor verfrühtem Optimismus: Orbáns institutionelle Hinterlassenschaft (Haushaltsrat, Verfassungsgericht, Medienkontrolle) bleibt als strukturelles Erbe.
+
+### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
+
+Krastev analysiert Orbáns Niederlage als Präzedenzfall mit begrenzter Reichweite — mit demselben nüchternen Blick wie Gelegs: Magyar ist kein Liberaler, sondern ein Fidesz-Produkt. Krastev liefert die geopolitische Einbettung, Gelegs die Verfassungsarchitektur.

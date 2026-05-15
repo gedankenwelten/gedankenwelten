@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Ivan Krastev — Wie zukunftsfähig ist Europa?
+
+| | |
+|---|---|
+| **Gespräch / Video** | [Ivan Krastev, wie zukunftsfähig ist Europa? \| Sternstunde Philosophie \| SRF Kultur](https://www.youtube.com/watch?v=xHf0YIVfhKQ) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Krastev_Europa_Transkript.txt` |
+
 ## Heiner Flassbeck — Deutschlands Lohn-Irrsinn
 
 | | |

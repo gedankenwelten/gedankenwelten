@@ -179,6 +179,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Isabell Lorey
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Isabell Lorey]]
 
+## Ivan Krastev
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ivan Krastev]]
+
 ## Jan Hegenberg
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jan Hegenberg]]
 

@@ -213,3 +213,7 @@ Pöttingers umweltpsychologische Einsicht (Scham vs. Wut als divergierende Handl
 ### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
 Das BR-Feature "Der Arbeiter und die AfD" über Peter aus Köln ist die empirische Bestätigung von Budes Dienstleistungsproletariat-Analyse aus 2014: Arbeit als Identitätskern, Verachtung der Sozialleistungsempfänger, kein Solidaritätspotential nach unten — der Nährboden für Rechtspopulismus, 12 Jahre später dokumentiert.
+
+### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
+
+Krastev beschreibt dieselbe affektive Enttäuschungsstruktur im Ost-West-Verhältnis, die Bude 2014 als Angstgesellschaft analysierte — nur auf geopolitischer Ebene. Bude liefert die emotionale Grammatik, Krastev die geopolitische Erzählung.

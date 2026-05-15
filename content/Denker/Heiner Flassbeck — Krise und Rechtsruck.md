@@ -314,3 +314,7 @@ Die Ölpreis- und Düngemittelkrise als Kriegsfolge, die Lange skizziert, ist ge
 ### → [[Heiner Flassbeck — Die Wahrheit ueber Staatsschulden]]
 
 Flassbeck erklärt den ökonomischen Mechanismus hinter dem Exportmodell: Leistungsbilanzüberschüsse erzwingen Verschuldung der Partner — mit 20–25 Krisen seit 1990 als Ergebnis.
+
+### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
+
+Krastev beschreibt den Braindrain aus Osteuropa als Kernwunde der Ost-West-Enttäuschung — Flassbeck liefert den ökonomischen Mechanismus: EU-Austerität und Lohngefälle als Treiber der Emigration, die Krastev als politisches Trauma beschreibt.
