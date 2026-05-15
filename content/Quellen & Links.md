@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Achille Mbembe — The Earthly Community
+
+| | |
+|---|---|
+| **Vortrag / Video** | [The Holberg Lecture — "The Earthly Community"](https://www.youtube.com/watch?v=omx5NuYBxIk) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Mbembe_Earthly_Community_Transkript.txt` |
+
 ## scobel — Lyotard: Das Ende der Wahrheit?
 
 | | |
