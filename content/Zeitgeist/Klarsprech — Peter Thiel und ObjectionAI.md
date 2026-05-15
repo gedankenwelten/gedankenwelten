@@ -188,3 +188,7 @@ Redeckers Konzept des „Phantombesitzes" — Machtansprüche, die sich durch ve
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
 Grenzgänger Studios erzählt Thiels Geschichte als 4,5-Stunden-Tiefengespräch mit historischem Bogen — von der Apartheid-Kindheit über CIA-Finanzierung bis zum Technofeudalismus. Wo Klarsprech die vier Machtdimensionen (Politik, Überwachung, Justiz, Wahrheit) systematisch kartiert, liefern Chaudhry und Hübsch die investigative Gesamtbiografie: State-Made statt Selfmade, PayPal-Mafia als politisches Projekt.
+
+### → [[Yanis Varoufakis — Technofeudalism]]
+
+Varoufakis liefert die makroökonomische Erklärung dafür, *warum* Akteure wie Thiel ihre Machtposition aufbauen konnten: QE-Liquidität nach 2008 floss in Cloud Capital. ObjectionAI — KI, die über Wahrheit richtet — ist Cloud Capital in Reinform: kein Produktionsmittel, sondern feudale Infrastruktur, die Rente extrahiert.

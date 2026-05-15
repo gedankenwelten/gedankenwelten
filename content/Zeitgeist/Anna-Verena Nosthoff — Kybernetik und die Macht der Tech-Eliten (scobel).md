@@ -236,3 +236,7 @@ Hübsch zieht die Kybernetik-Linie weiter als Nosthoff: von den Macy-Konferenzen
 ### → [[Markus Gabriel — Soziale Netzwerke Neue Theorie]]
 
 Gabriels ontologische Analyse ergänzt Nosthoffs technikhistorischen Zugang: Wo Nosthoff die kybernetische Genealogie der Verhaltenssteuerung freilegt, zeigt Gabriel, dass sozialen Netzwerken die *Triangulation* fehlt — der korrigierende Gegenstand. Sein Mindestlohn-Vorschlag ist eine konkret-juristische Antwort auf dieselbe Machtkonzentration, die Nosthoff beschreibt.
+
+### → [[Yanis Varoufakis — Technofeudalism]]
+
+Varoufakis benennt, was Nosthoffs kybernetische Verhaltenssteuerung *ökonomisch* produziert: Cloud Rent. Seine „produzierten Mittel der Verhaltensmodifikation" — Alexa, Siri, algorithmische Empfehlungssysteme — sind die konkrete Gegenwartsform dessen, was Nosthoff technikhistorisch von Wieners Antiaircraft Predictor herleitet.

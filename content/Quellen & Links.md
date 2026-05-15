@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Yanis Varoufakis — Technofeudalism
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Yanis Varoufakis welcomes us to the age of Technofeudalism \| FULL INTERVIEW](https://www.youtube.com/watch?v=X3FdIyNMaFY) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Technofeudalism]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Varoufakis_Technofeudalism_Transkript.txt` |
+
 ## Ivan Krastev — Wie zukunftsfähig ist Europa?
 
 | | |

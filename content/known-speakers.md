@@ -382,3 +382,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Wolfram Eilenberger
 **Status:** Stub
+
+## Yanis Varoufakis
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Yanis Varoufakis]]

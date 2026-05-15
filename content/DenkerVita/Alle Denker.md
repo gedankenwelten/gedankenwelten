@@ -199,6 +199,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## V
 
+**[[Gedankenwelten/DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Ökonom, Politiker, ehem. griechischer Finanzminister; Technofeudalism — Kapitalismus ist tot, Cloud Capital ersetzt Märkte, Big Tech verwandelt Profit in feudale Rente
+
 ## W
 
 **[[Gedankenwelten/DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
@@ -208,6 +210,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## X
 
 ## Y
+
+**[[Gedankenwelten/DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Ökonom, Autor, ehemaliger griechischer Finanzminister; Technofeudalism, Cloud Capital, Cloud Rent, Globaler Minotaurus, DiEM25
 
 ## Z
 
