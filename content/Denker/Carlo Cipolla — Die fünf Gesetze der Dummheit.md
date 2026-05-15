@@ -38,6 +38,8 @@ Erklärvideo: [Die 5 Gesetze der Dummheit — Wahre Worte](https://www.youtube.c
 > Die erste autorisierte Veröffentlichung in Buchform erfolgte 1988 im Rahmen von *Allegro ma non troppo* — ein Bestseller, 350.000 Exemplare in Italien, 13 Sprachen. 2019 schrieb Nassim Nicholas Taleb das Vorwort zur modernen englischen Ausgabe: *„Ein meisterhaftes Buch über eine mächtige dunkle Kraft."*
 >
 > Kernkonzepte: Vier-Quadranten-Modell, Fünf Gesetze der Dummheit, Asymmetrie-Problem, Zivilisationsverfall durch Kompositionsverschiebung
+>
+> → [[Gedankenwelten/DenkerVita/Carlo Cipolla|DenkerVita]]
 
 ---
 
