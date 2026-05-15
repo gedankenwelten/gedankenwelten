@@ -1,11 +1,11 @@
 ---
-name: hermes
-description: Vollständige Pipeline vom Rohmaterial zur fertigen Note. YouTube, Podcast, Artikel → Transkript → Tiefenanalyse → Cross-Linking. Benannt nach Hermes — Bote zwischen den Welten, Namensgeber der Hermeneutik. Trigger — URL einfügen, "verarbeite", "neue note aus", "hermes".
+name: gedankenwelt
+description: Vollständige Pipeline vom Rohmaterial zur fertigen Note. YouTube, Podcast, Artikel → Transkript → Tiefenanalyse → Cross-Linking. Vollständige Note-Pipeline. Trigger — URL einfügen, "verarbeite", "neue note aus", "gedankenwelt".
 ---
 
-# Hermes — Note-Pipeline
+# Gedankenwelt — Note-Pipeline
 
-> *Hermes übersetzt zwischen den Welten — vom gesprochenen Wort zur geschriebenen Erkenntnis. Die Kunst der Interpretation, Hermeneutik, trägt seinen Namen.*
+> *Vom Rohmaterial zur vernetzten Erkenntnis. YouTube, Podcast, Artikel — alles wird zur Gedankenwelt.*
 
 Vollständiger Prozess vom Rohmaterial zur fertigen, vernetzten Note.
 Genutzte Agenten: **Humboldt · Sherlock · Montaigne**

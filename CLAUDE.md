@@ -140,7 +140,7 @@ test -f .claude/.welcomed && echo "returning" || echo "new"
 
 **`new` (frischer Clone):**
 Kurz willkommen heißen — wenn Profil vorhanden, mit Namen. Erklären was Gedankenwelten ist. Drei Dinge erwähnen:
-1. `/hermes` für neue Notes
+1. `/gedankenwelt` für neue Notes
 2. Fork-Workflow (PR auf GitHub) für Beiträge
 3. `content/GoodNews/` — GoodNews-Board für positive Nachrichten aus der Community
 Fragen womit gestartet werden soll. Dann:
@@ -189,7 +189,7 @@ Nach `git pull` wird automatisch rebuilt, wenn der Hook installiert ist:
 
 | Befehl | Aufgabe |
 |---|---|
-| `/hermes` | Neue Note aus YouTube / Podcast / Artikel (Pipeline) |
+| `/gedankenwelt` | Neue Note aus YouTube / Podcast / Artikel (Pipeline) |
 | `/aristoteles` | Tiefenanalyse ab Transkript (Schritt 5 der Pipeline) |
 | `/sokrates` | Frageschicht ergänzen — Gegenfragen, Widersprüche, Kernthesen herausfordern |
 | `/heraklit` | Bestehende Note vertiefen |
