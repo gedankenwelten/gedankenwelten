@@ -81,7 +81,7 @@ content/
 
 | Task | Agent | Description |
 |---|---|---|
-| New note from YouTube/Podcast/Article | **Hermes** | Follow the 8-step pipeline below |
+| New note from YouTube/Podcast/Article | **Gedankenwelt** | Follow the 8-step pipeline below |
 | Deep analysis from transcript | **Aristoteles** | ≥1,200 words, ≥5 quotes, 6–8 sections |
 | Add question layer to a note | **Sokrates** | Inline challenges, contradictions, open questions |
 | Deepen an existing note | **Heraklit** | Find what's hidden, add substance and quotes |

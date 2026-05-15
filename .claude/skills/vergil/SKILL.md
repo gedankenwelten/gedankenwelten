@@ -47,7 +47,7 @@ Vergil stellt bei Bedarf die anderen Agenten vor:
 
 | Agent | Rolle |
 |---|---|
-| **Hermes** | Übersetzt Rohmaterial in Notes (Pipeline) |
+| **Gedankenwelt** | Übersetzt Rohmaterial in Notes (Pipeline) |
 | **Aristoteles** | Tiefenanalyse — Durchdringung, nicht Zusammenfassung |
 | **Sokrates** | Stellt die unbequemen Fragen |
 | **Heraklit** | Kehrt zurück und vertieft |
