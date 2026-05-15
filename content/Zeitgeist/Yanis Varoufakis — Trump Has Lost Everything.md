@@ -156,6 +156,16 @@ Zentralbanken, die jetzt Zinsen erhöhen, begehen „gross negligence" — energ
 
 ---
 
+## Weiterführende Quellen
+
+*Im Interview zitierte / relevante Quellen:*
+
+- Yanis Varoufakis: *Raise Your Soul* (2025) — [Genialokal](https://www.genialokal.de/suche/?q=Raise+Your+Soul+Varoufakis)
+- Yanis Varoufakis: *Technofeudalism: What Killed Capitalism* (2023) — [Genialokal](https://www.genialokal.de/suche/?q=Technofeudalism+Varoufakis)
+- [The Exchange — New Statesman Podcast](https://www.youtube.com/@NewStatesman) — Oli Dugmores Interview-Format
+
+---
+
 ## Verbindungen
 
 ### → [[Yanis Varoufakis — Technofeudalism]]
@@ -185,4 +195,20 @@ Varoufakis' Analyse der europäischen Stagnation (fehlendes Wachstumsmodell, Aus
 ### → [[Christoph Butterwegge — Armut NEU DENKEN]]
 
 Varoufakis' „socialism for the bankers and austerity for everybody else" nach 2008 ist die internationale Rahmung von Butterwegges empirischem Befund: 13,3 Mio. Armutsgefährdete in Deutschland als Ergebnis politischer Entscheidungen.
+
+### → [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
+
+Mirzaei liefert die iranische Innenperspektive zu dem, was Varoufakis geopolitisch analysiert: Wie der Iran-Krieg innenpolitisch wirkt, warum die Bevölkerung zwischen Regime und Bombardierung zerrieben wird. Varoufakis' Außenperspektive (Trump von Netanyahu hineingezogen, Europa als Komplize über Akrotiri und Ramstein) ergänzt Mirzaeis historische Tiefe zur iranischen Revolution und IRGC-Machtstruktur.
+
+### → [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
+
+Beide kommen zum selben Schluss — Trump hat die Kontrolle verloren — aber aus verschiedenen analytischen Traditionen: Lange als Sicherheitspolitiker (Eskalationslogik, militärische Dynamik, Hegseths Inkompetenz), Varoufakis als Ökonom (Benzinpreise als MAGA-Killer, KI-Investitionswelle abgeebbt, Stagflationsrisiko). Zusammen: das vollständige Bild, warum der Iran-Krieg Trumps politisches Projekt beendet.
+
+### → [[Philip Manow — Autoritäre Zeiten]]
+
+Manow erklärt empirisch, was Varoufakis historisch herleitet: Warum Wähler autoritäre Parteien wählen — nicht aus Irrationalität, sondern als rationale Reaktion auf Globalisierungsverlierer-Erfahrungen. Varoufakis' Faschismus-Sequenz (Bankenkollaps → Austerität → populistische Mimikry) ist der Mechanismus hinter Manows Daten. Manow liefert die Empirie, Varoufakis die Genealogie.
+
+### → [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
+
+Redeckers Phantombesitz-Konzept (Machtansprüche, die sich durch vermeintliche Eigentumsverhältnisse legitimieren) trifft auf Varoufakis' Beobachtung, dass Faschisten sich heute mit Big Business verbünden. Beide analysieren denselben neuen Faschismus — Redecker philosophisch über Eigentum und Gewalt, Varoufakis ökonomisch über die Stufen der Machtergreifung. Redeckers „Phantombesitz" erklärt, *warum* Tech-Oligarchen sich als Eigentümer des Gemeinwesens verstehen.
 
