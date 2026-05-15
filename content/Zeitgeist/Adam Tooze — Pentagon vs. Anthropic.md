@@ -192,3 +192,7 @@ Beide beschreiben KI als Machtinstrument — Tooze geopolitisch-realistisch (Pen
 - [[Gerdes — Ukraine Zelensky wird staerker]] — Budanows Briefing zum KI-Drohnenkrieg auf dem Kiewer Sicherheitsforum zeigt die *operative Realität*: Die Ukraine setzt bereits ein, worüber das Pentagon noch verhandelt — Tooze analysiert den institutionellen Kampf, Gerdes die Feldanwendung
 - [[StreitClub — Europa allein zu Haus]] — Europäische Perspektive auf Tech-Sicherheitsabhängigkeit und Regulierungsmacht
 - [[Markus Gabriel — Ethische Intelligenz (scobel)]] — Gabriel beurteilt denselben Anthropic-Pentagon-Konflikt aus philosophischer Perspektive: Anthropics Constitutional AI ist richtig, aber zu eng (kalifornisch). Was Tooze als geopolitischen Machtkampf beschreibt, sieht Gabriel als Symptom einer fehlenden europäischen KI-Vision
+
+### → [[Yanis Varoufakis — Technofeudalism]]
+
+Zwei Makroökonomen, die Big Tech aus verschiedenen Winkeln analysieren: Tooze beschreibt den geopolitischen Machtkampf zwischen Staat und KI-Unternehmen; Varoufakis die ökonomische Mutation des Kapitalismus selbst. Toozes *Crashed* zur Finanzkrise ist die historische Vorarbeit zu Varoufakis' These — QE als Geburtshelferin des Technofeudalism.

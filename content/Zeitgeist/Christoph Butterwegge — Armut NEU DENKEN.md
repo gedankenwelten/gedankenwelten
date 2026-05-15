@@ -288,3 +288,7 @@ Studio Bonn beschreibt die Oberseite der Schere, die Butterwegge von unten analy
 ### → [[Der Dara — Merz 72-Stunden-Arbeitswoche]]
 
 Der Dara dokumentiert die praktische Umsetzung der von Butterwegge analysierten Dynamik: Merz' Arbeitszeitreform und Sozialabbau beim DGB-Kongress (Mai 2026) als Umverteilung nach oben im Gewand von „Wirtschaftsreform". Die Gewerkschaften leisten Widerstand.
+
+### → [[Yanis Varoufakis — Technofeudalism]]
+
+Varoufakis erklärt den Mechanismus hinter Butterwegges empirischem Befund: Cloud Rent entzieht der Realwirtschaft Kaufkraft — Big Tech zahlt unter 1% als Löhne (vs. 85% bei klassischen Kapitalisten), das Geld verlässt den Wirtschaftskreislauf. Was Butterwegge als politisch konstruierte Armut analysiert, rahmt Varoufakis als systemischen Effekt des Technofeudalism.

@@ -180,3 +180,7 @@ Bria dokumentiert, wie das Modell bereits nach Europa exportiert wird:
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
 Grenzgänger Studios erzählt investigativ, was Bria als Netzwerkkarte abstrahiert: Thiels Biografie von der Apartheid über In-Q-Tel bis DOGE ist der Authoritarian Stack als Einzelakteur-Genealogie. Brias Finanzdaten und Vertragsstrukturen bekommen hier das narrative Fleisch — inklusive der These, dass die Silicon-Valley-Milliardäre State-Made-Produkte sind, nicht Selfmade-Genies.
+
+### → [[Yanis Varoufakis — Technofeudalism]]
+
+Varoufakis liefert die ökonomische Erklärung für Brias Authoritarian Stack: Cloud Capital entstand nicht durch geniale Unternehmer, sondern durch QE-Liquidität nach 2008. Bria kartiert die politische Machtstruktur; Varoufakis erklärt, warum diese Struktur ökonomisch zwangsläufig entstand — Profit wird zu Rente, Märkte werden durch Plattformen ersetzt, Kapitalismus mutiert zu Technofeudalism.

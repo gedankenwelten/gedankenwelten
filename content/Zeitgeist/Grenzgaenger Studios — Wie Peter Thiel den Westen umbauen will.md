@@ -227,3 +227,7 @@ Die akademische Tiefenbohrung zu Hübschs MK-Ultra-Kybernetik-These: Nosthoff do
 ### → [[Florian Homm - Ich war eine Leistungsmaschine]]
 
 Homm verwendet „MK Ultra" als Deutungsfolie für seine eigene Elite-Formierung — die Faktencheck-Note stellt klar, dass das historisch nicht haltbar ist. Aber die Resonanz ist kein Zufall: Hübschs These, dass MK-Ultra-Techniken sich in Social Media manifestieren, und Homms Erfahrung, als Hochbegabter „gebrochen und neu aufgebaut" worden zu sein, kreisen um denselben Kern — die Frage, ob systematische Bewusstseinsformierung ein Feature oder ein Bug des Systems ist.
+
+### → [[Yanis Varoufakis — Technofeudalism]]
+
+Varoufakis erklärt systemisch, was Grenzgänger Studios an Thiel exemplifiziert: Cloud Capital — finanziert durch QE nach 2008 — ersetzt Märkte durch feudale Plattformen. Thiel ist der paradigmatische Cloud-Feudalherr in Varoufakis' Analyse: Palantir produziert keine Waren, sondern extrahiert Rente.
