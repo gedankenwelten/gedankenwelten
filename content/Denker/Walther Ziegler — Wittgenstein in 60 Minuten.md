@@ -279,6 +279,10 @@ Adorno und die Frankfurter Schule übernahmen Wittgensteins Sprachkritik — und
 
 Sartre und Wittgenstein teilen die Diagnose der Kontingenz — die Welt hätte auch anders sein können — und ziehen entgegengesetzte Konsequenzen. Sartre: Radikale Freiheit und Verantwortung folgen daraus, in einer sinnlosen Welt Sinn zu setzen. Wittgenstein: Schweigen über das, was nicht gesagt werden kann — und Sprachkritik statt Ontologie.
 
+### → [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit]]
+
+Lyotard radikalisiert Wittgensteins Sprachspiel-Begriff zu einer Gesellschaftstheorie: Wo Wittgenstein noch beschreibt (Philosophie darf Sprachspiele nur beschreiben, nicht hierarchisieren), macht Lyotard daraus eine Diagnose — es gibt keine Metasprache, die über allen Sprachspielen steht. Das ist die postmoderne Konsequenz aus dem Spätwerk, die Wittgenstein selbst nie gezogen hätte.
+
 ---
 
 ## Weiterdenken
