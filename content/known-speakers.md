@@ -53,6 +53,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Arthur Schopenhauer
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]]
 
+## Barbara Tversky
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Barbara Tversky]]
+
 ## Carlo Cipolla
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carlo Cipolla]]
 

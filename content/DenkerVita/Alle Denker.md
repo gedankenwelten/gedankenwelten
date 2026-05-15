@@ -23,6 +23,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Bernhard Poerksen|Bernhard Pörksen]]** — Medienwissenschaftler, Professor Tübingen; Filterclash, Redaktionelle Gesellschaft, respektvolle Konfrontation
 
+**[[Gedankenwelten/DenkerVita/Barbara Tversky|Barbara Tversky]]** — Kognitionspsychologin (Stanford, Columbia Teachers College); Spatial Cognition als Fundament der Menschheit, Mind in Motion, Embodied Thinking, Gesten als externe Kognition
+
 ## C
 
 **[[Gedankenwelten/DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (UC Berkeley); Vier-Quadranten-Modell (Intelligent/Bandit/Hilflos/Dumm), Asymmetrie-Problem, Dummheit als strukturelle Handlungslogik, Zivilisationsverfall durch Kompositionsverschiebung, *The Basic Laws of Human Stupidity* (1976)
@@ -30,8 +32,6 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[Gedankenwelten/DenkerVita/Christoph Hein|Christoph Hein]]** — Wirtschaftsjournalist (FAZ); 25 Jahre Asien-Korrespondent, Geoökonomie, Weltwirtschaft als geopolitisches Machtinstrument
 
 **[[Gedankenwelten/DenkerVita/Clara Mattei|Clara Mattei]]** — Ökonomin; Austerität als Kern des Kapitalismus, Liberalismus-Faschismus-Konvergenz, *The Capital Order*
-
-**[[Gedankenwelten/DenkerVita/Christoph Moellers|Christoph Möllers]]** — siehe unter A
 
 ## D
 
@@ -211,23 +211,20 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## Y
 
-**[[Gedankenwelten/DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Ökonom, Autor, ehemaliger griechischer Finanzminister; Technofeudalism, Cloud Capital, Cloud Rent, Globaler Minotaurus, DiEM25
-
 ## Z
 
 ---
 
-### Siehe auch
+### Weitere prominente Denker (Stubs / In Progress)
+
 - [[Gedankenwelten/DenkerVita/Adriaan van Wagensveld|Adriaan van Wagensveld]] — Vipassana-Lehrer (Plum Village-Tradition); Bodhisattva-Ideal, Ksitigarbha: Wunden als Schatz
 - [[Gedankenwelten/DenkerVita/Albert Camus|Albert Camus]] — (Vollanalyse vorhanden)
 - [[Gedankenwelten/DenkerVita/Alex Demirovic|Alex Demirović]] — Sozialwissenschaftler, Senior Fellow Rosa-Luxemburg-Stiftung; Staat als Verdichtung von Kräfteverhältnissen, Wirtschaftsdemokratie
 - [[Gedankenwelten/DenkerVita/Arne Semsrott|Arne Semsrott]] — Journalist, Aktivist, Projektleiter FragDenStaat; Pressefreiheit, Informationsfreiheit, Anti-Rechtsextremismus
 - [[Gedankenwelten/DenkerVita/Arthur Schopenhauer|Arthur Schopenhauer]] — Philosoph; Blinder Wille zum Leben, sechsfaches Leiden, Mitleid als Moralbasis
 - [[Gedankenwelten/DenkerVita/Christian Jakob|Christian Jakob]] — Journalist taz; Migrationsframing als Rechtsverschiebung, Kulturkampf in Ministerien, Zivilgesellschaft
-- [[Gedankenwelten/DenkerVita/Daniel Markovits|Daniel Markovits]] — Jurist, Rechtsphilosoph Yale Law School; Meritokratische Falle, Income Defense Industry, Populismus als rationale Reaktion
 - [[Gedankenwelten/DenkerVita/Franz Kafka|Franz Kafka]] — Schriftsteller; Existenzielle Angewiesenheit, Totsagen als sozialer Tod, Seinszuspruch
 - [[Gedankenwelten/DenkerVita/Maja Goepel|Maja Göpel]] — Politische Ökonomin; Systemwandel, planetare Grenzen, Narrative des Wandels, Scientists for Future
-- [[Gedankenwelten/DenkerVita/Marlene Engelhorn|Marlene Engelhorn]] — Österreichische BASF-Erbin; Tax Me Now; relationale Kritik: Geld arbeitet nicht, Menschen arbeiten
 - [[Gedankenwelten/DenkerVita/Marie-Agnes Strack-Zimmermann|Marie-Agnes Strack-Zimmermann]] — FDP-Politikerin, MdEP; Europäische Verteidigungsautonomie, panneuropäische Allianzbildung
 - [[Gedankenwelten/DenkerVita/Natalie Amiri|Natalie Amiri]] — Deutsch-iranische Journalistin, ARD-Weltspiegel-Moderatorin; Gottesstaat → Militärdiktatur, doppelte Innenperspektive
 - [[Gedankenwelten/DenkerVita/Nico Semsrott|Nico Semsrott]] — (Vollanalyse vorhanden)
@@ -236,4 +233,3 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 - [[Gedankenwelten/DenkerVita/Sigmund Freud|Sigmund Freud]] — Arzt, Neurologe, Begründer der Psychoanalyse; Unbewusstes, Ödipuskomplex, Sublimierung
 - [[Gedankenwelten/DenkerVita/Karl Marx|Karl Marx]] — Philosoph, Ökonom; Historischer Materialismus, Basis-Überbau-Theorie, Mehrwerttheorie
 - [[Gedankenwelten/DenkerVita/Marina Klimchuk|Marina Klimchuk]] — Freie Journalistin; USA, Migration, Erinnerungskultur; VDRJ-Preis 2025
-- [[Gedankenwelten/DenkerVita/Mark Benecke|Mark Benecke]] — Kriminalbiologe, forensischer Entomologe; überträgt forensische Beweisführung auf Klimadaten-Kommunikation
