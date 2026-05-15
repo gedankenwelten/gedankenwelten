@@ -315,3 +315,7 @@ Manuel dokumentiert am 13.04.2026 die konkrete Antwort auf Langes Titelthese: dr
 
 - [[Bundestalk — Iran USA und die Strasse von Hormus]] — Vier Wochen nach Langes Analyse: alle drei Auswege gescheitert, unbefristeter Waffenstillstand als Bankrotterklärung
 - [[Markus Reisner — Strasse von Hormus fragil]] — Militärstrategische Bestätigung der Kontrollverlust-These: Bauchgefühl-Entscheidung, Entlassung des Marineministers, Patt am Hormus
+
+### → [[Yanis Varoufakis — Trump Has Lost Everything]]
+
+Beide kommen zum selben Schluss — Trump hat die Kontrolle verloren — aber aus verschiedenen Traditionen: Lange als Sicherheitspolitiker (Eskalationslogik, Hegseths Inkompetenz), Varoufakis als Ökonom (Benzinpreise als MAGA-Killer, Stagflationsrisiko). Varoufakis ergänzt den innenpolitischen Blick: die drei MAGA-Säulen, das Big Beautiful Bill als Klassenkrieg gegen die eigene Basis, den Iran als finalen Wendepunkt.

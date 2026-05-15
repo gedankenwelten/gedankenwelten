@@ -267,3 +267,7 @@ Die letzte Frage des Interviews: Marx' 11. Feuerbach-These — *die Philosophen 
 - [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Maus Gleichbehandlungs-Trigger (Empörung über vermeintliche Privilegierung) ist die empirische Messung von Redeckers „Phantombesitzverteidigung"
 - [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Ebenfalls Jung & Naiv: Steinke beschreibt die rechtliche Dimension der von Redecker analysierten autoritären Tendenzen — wie der Staat über Paragraphen, Verfassungsschutz und selektive Strafverfolgung Grundrechte aushöhlt
 - [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] — Im NANO Talk vertieft Redecker die Faschismus-Analyse um die ökonomisch-feministische Dimension: Sorgearbeit-Entwertung als strukturelle Vorbedingung des Faschismus
+
+### → [[Yanis Varoufakis — Trump Has Lost Everything]]
+
+Beide analysieren denselben neuen Faschismus: Redecker philosophisch über Eigentum und Gewalt (Phantombesitz, autoritäre Härte), Varoufakis ökonomisch über die zehn Stufen der Machtergreifung. Redeckers Phantombesitz erklärt, *warum* Tech-Oligarchen sich als Eigentümer des Gemeinwesens verstehen — Varoufakis zeigt, *wie* sie als moderne Pendants der Industriellen in den 1920ern die Faschisten finanzieren.

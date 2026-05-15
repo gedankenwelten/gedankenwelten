@@ -366,3 +366,7 @@ Sahebi/Semsrott benennen das empirische Muster, das Manow theoretisch erklärt: 
 ### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
 
 Krastev liefert die geopolitische Metaebene zu Manows Wähleranalyse: Trumps Wochenrhythmus ist nicht nur eine persönliche Eigenart, sondern ein Symptom eines Demokratiesystems, das strukturell Kurzfristigkeit belohnt — genau Manows institutionelle These.
+
+### → [[Yanis Varoufakis — Trump Has Lost Everything]]
+
+Varoufakis' Faschismus-Sequenz (Bankenkollaps → Austerität → Scheitern der Linken → populistische Mimikry → Big-Business-Allianz) liefert den historischen Mechanismus hinter Manows empirischen Daten. Manow erklärt *warum* Wähler autoritäre Parteien wählen; Varoufakis erklärt *wie* der Prozess strukturell abläuft — und warum die Tech-Oligarchen-Allianz die entscheidende neue Stufe ist.

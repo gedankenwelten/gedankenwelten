@@ -247,3 +247,7 @@ El-Gawhary bestätigt Mirzaeis Prognosen: Iran pokert rational, Golfstaaten dive
 ### → [[Natalie Amiri — Hoelle auf Erden im Iran]]
 
 Amiri liefert die aktuelle Innensicht zur Lage 2026: Internet-Blackout, Übergang zur Militärdiktatur, wirtschaftliche Katastrophe. Ergänzt Mirzaeis historische Einordnung mit Echtzeitbeobachtungen.
+
+### → [[Yanis Varoufakis — Trump Has Lost Everything]]
+
+Varoufakis liefert die geopolitische Außenperspektive zu Mirzaeis iranischer Innensicht: Trump von Netanyahu in den Krieg gezogen, Europa als Komplize über Akrotiri und Ramstein, Griechenland als israelischer Satellit mit Fregatten vor Zypern. Mirzaei erklärt *warum* der Iran so reagiert; Varoufakis erklärt *wessen Interessen* der Krieg dient.
