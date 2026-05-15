@@ -358,3 +358,7 @@ Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblö
 - [[Steffen Mau — Spaltung der Gesellschaft]] — Maus Triggerpunkte-Studie ergänzt Manows Wähleranalyse soziologisch: nicht die Gesellschaft ist gespalten, sondern gezielte Triggerpunkte erzeugen Erregungszustände, die Polarisierungsunternehmer in Wahlstimmen übersetzen
 - [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Mau liefert mit der Triggerpunkte-Theorie den Mikromechanismus zu Manows Makroanalyse des Rechtspopulismus: Wie genau Verunsicherung in Wählerverhalten übersetzt wird
 - [[Nico Semsrott — Bruessel sehen und sterben]] — Semsrotts EU-Parlamentsbericht ist ein Fallbeispiel für Manows „autoritären Drift im Gewand parlamentarischer Normalität": Die CDU/CSU nutzt ihre Mehrheitsposition nicht, um Regeln abzuschaffen, sondern um sie wirkungslos zu machen — schleichende Erosion der Kontrollmechanismen von innen
+
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
+
+Sahebi/Semsrott benennen das empirische Muster, das Manow theoretisch erklärt: Die AfD steigt trotz historisch niedriger Asylzahlen — weil sie kein Migrations-, sondern ein Souveränitätsproblem adressiert. Die Schwarz-Rot-Migrationsverschärfung löst dieses Grundproblem strukturell nicht.

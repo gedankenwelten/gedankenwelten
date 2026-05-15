@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Gilda Sahebi und Arne Semsrott — GCA #33: Liegenddemos, Schwarz-Rot, Sea-Watch
+
+| | |
+|---|---|
+| **Podcast** | [Gilda con Arne #33 — RSS Feed](https://anchor.fm/s/10c9476b0/podcast/rss) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]] |
+| **Transkript** | `Gedankenwelten/Transkripte/GildaArne_33_Liegenddemos_SchwarzRot_Transkript.txt` |
+
 ## Kojin Karatani — Tauschformen und die Überwindung der Triade
 
 | | |

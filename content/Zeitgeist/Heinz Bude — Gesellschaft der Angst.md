@@ -209,3 +209,7 @@ Beneckes Sinus-Jugendstudie 2026 zeigt das Paradox: Die Generation mit dem grö�
 ### → [[Mark Benecke — Fragerunde Time Is Up 2026]]
 
 Pöttingers umweltpsychologische Einsicht (Scham vs. Wut als divergierende Handlungstreiber) vertieft Budes Emotionsanalyse: Die Angstgesellschaft reagiert nicht nur mit Rückzug, sondern — bei kollektiver Organisierung — auch mit Wut, die Bewegungen antreibt.
+
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
+
+Das BR-Feature "Der Arbeiter und die AfD" über Peter aus Köln ist die empirische Bestätigung von Budes Dienstleistungsproletariat-Analyse aus 2014: Arbeit als Identitätskern, Verachtung der Sozialleistungsempfänger, kein Solidaritätspotential nach unten — der Nährboden für Rechtspopulismus, 12 Jahre später dokumentiert.

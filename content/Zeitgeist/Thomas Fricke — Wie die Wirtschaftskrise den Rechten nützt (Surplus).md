@@ -252,3 +252,7 @@ Göpels Agency-Agenda und Gemeinwohlprodukt als progressive Gegenerzählung zu F
 ### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 Frickes Kontrollverlust-These ist die Erklärungsfolie für das Paradox der Bilanz-Runde: Die AfD wächst auf 27%, obwohl (oder weil?) die Regierung nach rechts rückt. Fricke liefert den Mechanismus, die Bilanz-Runde beschreibt das Symptom.
+
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
+
+Das BR-Feature "Der Arbeiter und die AfD" über "Peter aus Köln" ist Frickes Kontrollverlust-These als journalistisches Einzelporträt: Ein Mensch, der seine Identität über körperliche Arbeit definiert, erlebt den ökonomischen Strukturwandel als Selbstverlust — und findet in der AfD nicht ein Programm, sondern eine Form der Wut.
