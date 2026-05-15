@@ -155,3 +155,7 @@ Osnos' Analyse der Ultrareichen-Psychologie ergänzt Der Daras einfachere Darste
 
 Die Rentenreform, die Merz beim DGB ankündigte, ist Teil des in der Panorama-Note dokumentierten systematischen Umbaus der Alterssicherung — von solidarisch-umlagefinanziert zu kapitalgedeckt-individualisiert.
 
+### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+
+Der NANO Talk liefert die theoretische Rahmung zur Merz-Debatte: Nicht zu wenig, sondern falsch arbeiten. Schaupp und Redecker zeigen, warum "mehr Arbeit" empirisch und historisch gescheitert ist, bevor die Politik es fordert.
+
