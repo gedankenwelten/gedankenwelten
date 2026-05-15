@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Yanis Varoufakis — Trump Has Lost Everything
+
+| | |
+|---|---|
+| **Interview / Video** | ["Trump has lost everything" \| Yanis Varoufakis \| The Exchange](https://www.youtube.com/watch?v=JXeBY86ATJk) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Trump Has Lost Everything]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Varoufakis_Exchange_Transkript.txt` |
+
 ## Yanis Varoufakis — Technofeudalism
 
 | | |
