@@ -192,3 +192,7 @@ Die Gegenprobe zu Gabriels These: In einem System, das über den Preis konkurrie
 ### → [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)]]
 
 Die kulturelle Grundlage von Deep Innovation: Gabriel zeigt, warum Japan Philosophie und Wirtschaft ohne Barriere denkt — und warum das der Schlüssel zur Umsetzung des ethischen Kapitalismus im KI-Zeitalter ist. Schumachers kreative Zerstörung erscheint dort als ökonomische Grundlage dafür, dass KI „Kreativität" sein kann.
+
+### → [[Yanis Varoufakis — Technofeudalism]]
+
+Diametraler Gegensatz: Gabriel will den Kapitalismus durch Ethik retten; Varoufakis hält die Frage für obsolet, weil Kapitalismus bereits tot sei — ersetzt durch Cloud-Feudalismus, in dem Profit zu Rente wurde. Gabriels „true profit" setzt ein funktionierendes Profitsystem voraus; Varoufakis bestreitet, dass ein solches noch existiert.
