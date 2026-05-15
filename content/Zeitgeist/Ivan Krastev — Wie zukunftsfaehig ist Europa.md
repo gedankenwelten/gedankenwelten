@@ -199,23 +199,29 @@ Krastev dreht das um: Wenn er gute Laune hat, liest er Romane. Wenn er schlechte
 
 ## Faktencheck
 
-> [!success] Bestätigt — Militär: Keine Waffen vorhanden
-> Krastevs Aussage, Europa habe der Ukraine keine Waffen geben können, weil keine vorhanden waren, ist treffend. Quellen: [Reuters: EU defense stocks (2022)](https://www.reuters.com/world/europe/europe-has-little-ammunition-spare-ukraine-2022-05-20/), [European Parliamentary Research Service: EU defense gaps](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2022)733681).
+> [!warning] Vereinfacht — Havel-Zitat: Hoffnung vs. Optimismus
+> Krastev zitiert Havel sinngemäß korrekt, aber der genaue Wortlaut weicht vom belegten Original ab. Havels kanonische Formulierung lautet: *„Hoffnung ist nicht die Überzeugung, dass etwas gut ausgeht, sondern die Gewissheit, dass etwas Sinn hat, egal wie es ausgeht."* Der zweite Satzteil in der Note ist eine sinngemäße Paraphrase aus *Disturbing the Peace* (1986), kein belegbares Direktzitat — der Geist trifft Havel, der Wortlaut nicht. Quellen: [Václav Havel Center](https://havelcenter.org/2015/05/04/disturbing-the-peace/) · [The Marginalian — Havel on Hope](https://www.themarginalian.org/2019/09/22/vaclav-havel-hope/)
 
-> [!success] Bestätigt — Demografischer Rückgang Rumänien/Bulgarien
-> Die Angabe, 10–15% der Bevölkerung hätten Rumänien/Bulgarien verlassen, ist gut belegt. Rumänien verlor seit EU-Beitritt ca. 17–20% durch Emigration, Bulgarien ca. 15%. Quellen: [Eurostat: Population change](https://ec.europa.eu/eurostat/statistics-explained/index.php/Population_and_population_change_statistics), [World Bank Eastern Europe migration data](https://www.worldbank.org/en/topic/migrationremittancesdiasporaissues).
+> [!warning] Vereinfacht — Orbáns 1989-Rede "Russen geht nach Hause"
+> Orbán forderte am 16. Juni 1989 auf dem Heldenplatz den Abzug der sowjetischen Truppen, aber die Formel *„Russen, geht nach Hause"* ist eine nachträgliche populäre Verdichtung — er verwendete sie wörtlich nicht. Inhaltlich korrekt, philologisch als Direktzitat ungenau. Quellen: [Ungarnreal.de — Orbáns Heldenplatz-Rede 1989](https://ungarnreal.de/rede-von-viktor-orban-auf-dem-heldenplatz-am-16-juni-1989/) · [Tenyleg Faktencheck](https://tenyleg.com/en/2025/12/17/did-the-russians-really-have-to-be-sent-home/)
 
-> [!success] Bestätigt — Havel-Zitat über Hoffnung
-> Das Zitat *„Hoffnung ist nicht dasselbe wie Optimismus. Es bedeutet, das zu tun, was man für richtig hält, ohne genau zu wissen, wie es ausgeht"* ist Havel zuzuschreiben. Quellen: [Václav Havel: Disturbing the Peace (1986/1990)](https://www.amazon.de/Disturbing-Peace-Conversation-Karel-Hvizdala/dp/0679738460).
+> [!warning] Vereinfacht — Levada-Umfrage: Afghanistan-Abzug als wichtigstes Ereignis 1989
+> Der Kern ist korrekt: In der Levada-Umfrage von Juli 2019 nannten die Befragten den sowjetischen Truppenabzug aus Afghanistan als bedeutendstes Ereignis des Jahres 1989. Die genannte Zahl 53% ist leicht ungenau — die Originaltabellen weisen 54% aus. Zudem ließ die Frage Mehrfachnennungen zu, d.h. es handelt sich nicht um *das* einzige wichtigste Ereignis. Quelle: [Levada Center](https://www.levada.ru) · Sekundär: [Journal of Democracy — Krastev](https://www.journalofdemocracy.org/articles/is-east-central-europe-backsliding-the-strange-death-of-the-liberal-consensus/)
 
-> [!success] Bestätigt — Petrov-Vorfall 1983
-> Krastevs Verweis auf den sowjetischen Oberst Stanislaw Petrow (Krastev sagt „Petrov"), der 1983 einen Fehlalarm als solchen erkannte und nicht zurückschoss, ist historisch korrekt und gut dokumentiert. Quellen: [BBC: The man who saved the world](https://www.bbc.com/news/world-europe-24280831).
+> [!success] Bestätigt — Petrow-Vorfall 1983
+> Krastevs Verweis auf den sowjetischen Oberst Stanislaw Petrow, der 1983 einen Fehlalarm als solchen erkannte und nicht zurückschoss, ist historisch korrekt und gut dokumentiert. Quelle: [BBC: The man who saved the world](https://www.bbc.com/news/world-europe-24280831)
+
+> [!success] Bestätigt — Marcel Reich-Ranicki im Warschauer Ghetto
+> Reich-Ranicki war nachweislich im Warschauer Ghetto (Deportation aus Berlin 1938, Zwangsumsiedlung November 1940, Flucht Februar 1943). Belegt durch seine Autobiografie *Mein Leben* (1999) und seine Bundestagsrede 2012. Quelle: Marcel Reich-Ranicki, *Mein Leben* (1999)
+
+> [!warning] Nicht verifizierbar — Kurzgeschichten-Anekdote im Ghetto
+> Die Anekdote, Reich-Ranicki habe aus Todesangst nur noch Kurzgeschichten gelesen, weil er fürchtete, einen Roman nicht zu beenden, ist in seinen Primärquellen nicht belegt. Verwandte Motive (Erzählen ums Überleben) sind dokumentiert, aber nicht diese genaue Aussage — möglicherweise mündliche Überlieferung. Keine unabhängige Quelle gefunden.
+
+> [!warning] Vereinfacht — Braindrain: 10–15% aus Rumänien/Bulgarien
+> Die tatsächlichen Verluste liegen erheblich höher. Rumänien verlor ca. 23% seiner Bevölkerung durch Emigration (3,15 Mio. im EU-Ausland), Bulgarien verlor seit 1985 fast 30% der Gesamtbevölkerung (von 8,95 auf 6,44 Mio.). Die Zahl 10–15% trifft allenfalls auf spezifische Zeiträume oder Berufsgruppen zu — der Gesamtbefund ist dramatisch unterschätzt. Quellen: [Eurostat Population Statistics](https://ec.europa.eu/eurostat) · [CEU Open Research — Rumänische Migration](https://openresearch.ceu.edu/bitstreams/9e7959ab-6a66-42e0-a8fc-e700359f3d71/download)
 
 > [!success] Bestätigt — Orbán-Soros-Verbindung
-> Die George-Soros-Foundation (Open Society) finanzierte in den frühen 1990ern tatsächlich Stipendien für osteuropäische Akademiker, darunter Orbán (Oxford-Stipendium 1989). Quellen: [The Guardian: Orbán Oxford grant](https://www.theguardian.com/world/2019/feb/07/viktor-orban-defiant-soros-eu-and-liberals).
-
-> [!warning] Vereinfacht — Levada-Umfrage 1989/Wichtigstes Ereignis
-> Krastev erwähnt eine Levada-Umfrage von 2019, in der 53% der Russen den Abzug aus Afghanistan als wichtigstes Ereignis von 1989 nannten. Die genaue Zahl und das genaue Datum dieser Umfrage ließ sich nicht abschließend verifizieren, der Grundtenor (Afghanistan > Mauerfall in russischer Selbstwahrnehmung) ist aber durch andere Levada-Studien gut belegt. *Keine unabhängige direkte Quelle für exakt diese Umfrage gefunden.*
+> Die Open-Society-Foundation finanzierte in den frühen 1990ern tatsächlich ein Oxford-Stipendium für Orbán. Quelle: [The Guardian: Orbán Oxford grant](https://www.theguardian.com/world/2019/feb/07/viktor-orban-defiant-soros-eu-and-liberals)
 
 ---
 
@@ -227,9 +233,11 @@ Krastev dreht das um: Wenn er gute Laune hat, liest er Romane. Wenn er schlechte
 
 - Ivan Krastev & Stephen Holmes: *[The Light that Failed](https://www.genialokal.de/Suche/?q=krastev+holmes+light+failed)* (2019) — Krastevs Hauptwerk zur Imitationskrise liberaler Demokratien
 - Ivan Krastev: *[After Europe](https://www.genialokal.de/Suche/?q=krastev+after+europe)* (2017) — EU-Krise durch Migration, Demografie, Nationalismus
-- Václav Havel: *[Disturbing the Peace](https://www.genialokal.de/Suche/?q=havel+disturbing+peace)* (1990) — Quelle des Hoffnungs-Zitats
+- Václav Havel: *[Disturbing the Peace](https://www.genialokal.de/Suche/?q=havel+disturbing+peace)* (1990) — Quelle des Hoffnungs-Zitats; kanonische Formulierung: [The Marginalian — Havel on Hope](https://www.themarginalian.org/2019/09/22/vaclav-havel-hope/)
 - Marcel Reich-Ranicki: *[Mein Leben](https://www.genialokal.de/Suche/?q=reich-ranicki+mein+leben)* (1999) — Memoiren mit Warschauer-Ghetto-Passagen, auf die Krastev anspielt
 - Drama-Serie *„M — Der Sohn des Jahrhunderts"* (2024, Apple TV+) — Krastev empfiehlt diese Mussolini-Adaption für historische Perspektive auf die 1920er/30er
+- [Ungarnreal.de — Orbáns Heldenplatz-Rede 1989](https://ungarnreal.de/rede-von-viktor-orban-auf-dem-heldenplatz-am-16-juni-1989/) — Originaltext der Rede vom 16. Juni 1989
+- [Journal of Democracy — Krastev: Strange Death of the Liberal Consensus](https://www.journalofdemocracy.org/articles/is-east-central-europe-backsliding-the-strange-death-of-the-liberal-consensus/) — Krastevs Essayistik zur Levada-Umfrage und illiberalem Backlash
 
 ---
 
@@ -238,6 +246,34 @@ Krastev dreht das um: Wenn er gute Laune hat, liest er Romane. Wenn er schlechte
 ### → [[StreitClub — Europa allein zu Haus]]
 
 Beide Gespräche stellen die Frage: Was wird aus Europa ohne amerikanische Sicherheitsgarantien? Krastev analysiert die strukturellen Ursachen (vier zerschlagene Annahmen), der StreitClub die unmittelbaren strategischen Optionen. Krastevs Befund — *Budgets führen keine Kriege, Menschen führen Kriege* — vertieft die StreitClub-Debatte um Verteidigungsetats.
+
+### → [[Ernst Gelegs — Ist das Regime Orbán am Ende]]
+
+Krastev analysiert Orbáns Niederlage als Präzedenzfall mit begrenzter Reichweite — Gelegs hat zuvor genau die Verfassungsfallen und institutionellen Blockaden beschrieben, die erklären, warum ein Wahlsieg allein das System nicht überwindet. Gelegs liefert die Architektur, Krastev die geopolitische Konsequenz.
+
+### → [[Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]]
+
+Anna betrachtet Orbáns Fall aus ukrainischer Außenperspektive — als Verlust für Moskau und Gewinn für Kiew. Krastev ergänzt diesen Blick durch die tiefere Frage, ob Orbáns Niederlage den Reflex-Charakter Europas überwindet oder bloß ein Element austauscht.
+
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+
+Manow beschreibt den strukturellen Grund, warum Demokratien in kurzen Wahlzyklen denken und Langfristiges unterschätzen — das ist der institutionelle Unterbau von Krastevs Zeithorizont-These: Trumps Wochenrhythmus ist nicht persönliche Marotte, sondern Ausdruck eines Systems, das Langfristigkeit nicht belohnt.
+
+### → [[Hannah Arendt — Denken ohne Geländer]]
+
+Krastevs Unterscheidung zwischen Hoffnung (Havel) und Optimismus trifft den Kern von Arendts *Denken ohne Geländer*: Beide beschreiben eine Form politischen Handelns, die keine Garantien braucht. Arendt nach dem Totalitarismus, Krastev nach dem Ende der liberalen Weltordnung — dieselbe Geste, zwei historische Brüche.
+
+### → [[Ece Temelkuran — So beginnt Faschismus in Amerika]]
+
+Temelkuran kennt aus der Türkei den Moment, wenn demokratische Normalität nicht gestört, sondern gebrochen wird — genau Krastevs Rupture-Begriff. Temelkuran benennt den Bruch aus der Exilerfahrung, Krastev analysiert ihn als strukturelle Kategorie; zusammen zeigen sie, dass Trump kein Ausreißer ist, sondern ein Systemwechsel.
+
+### → [[Heinz Bude — Gesellschaft der Angst]]
+
+Bude beschreibt den Mechanismus, durch den relative Deprivation politische Enttäuschung produziert — Krastev beschreibt dieselbe Enttäuschung im Ost-West-Verhältnis: Der Westen enttäuschte Osteuropa durch Arroganz, Osteuropa den Westen durch Illiberalismus. Bude liefert die affektive Grammatik, Krastev die geopolitische Erzählung.
+
+### → [[Gedankenwelten/Denker/Heiner Flassbeck — Krise und Rechtsruck|Heiner Flassbeck — Krise und Rechtsruck]]
+
+Flassbeck erklärt den Braindrain aus Osteuropa als wirtschaftspolitische Konsequenz — EU-Austerität und Lohngefälle haben qualifizierte Menschen nach Westen gezogen. Das ist der materielle Unterbau der wechselseitigen Enttäuschung, die Krastev als zentrale osteuropäische Wunde beschreibt.
 
 ---
 

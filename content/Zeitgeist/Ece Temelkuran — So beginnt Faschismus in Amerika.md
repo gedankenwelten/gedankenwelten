@@ -258,3 +258,7 @@ Pagis zeigt Temelkurans Eskalationslogik im Mikrokosmos einer maoistischen Grupp
 ### → [[Walther Ziegler — Popper in 60 Minuten]]
 
 Poppers Warnung als philosophischer Unterbau für Temelkurans empirisches Stufenmodell: Offene Gesellschaften können in geschlossene zurückfallen. Der Nationalsozialismus war für Popper ein Rückfall in die Stammesgesellschaft — Temelkuran zeigt, dass dasselbe Muster in der Türkei, Ungarn und den USA wiederkehrt
+
+### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
+
+Krastevs Rupture-Begriff ist die analytische Kategorie hinter Temelkurans empirischem Stufenmodell: Wenn Demokratie nicht gestört, sondern gebrochen wird. Temelkuran beschreibt das aus der Exilerfahrung, Krastev als strukturelle politische Wissenschaft.

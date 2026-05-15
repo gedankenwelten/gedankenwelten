@@ -246,3 +246,7 @@ Arendt fordert Denken ohne das Geländer der Tradition. Ricard zeigt, dass der B
 - [[Markus Gabriel — Universelle Moral]] — Arendts eigenständiges Urteilen resoniert mit Gabriels Forderung nach Ethical Literacy; beide misstrauen institutionalisierter Moraldiktatur
 - [[Markus Gabriel — Was ist Realitaet]] — Gabriel liefert das ontologische Fundament für Arendts politische Forderung: „Denken ist genauso real wie das, wovon es handelt" — Denken ist keine neuronale Begleiterscheinung, sondern eine reale Kraft. Sein Anti-Neurozentrismus („Ich ist nicht Gehirn") stützt Arendts Bestehen darauf, dass eigenständiges Denken irreduzibler Schutz gegen das Böse ist
 - [[Walther Ziegler — Popper in 60 Minuten]] — Arendt und Popper analysieren denselben Befund — Moderne kippt in Totalitarismus —, aber mit verschiedenen Werkzeugen: Popper setzt auf Institutionen (abwählbare Regierungen, offene Gesellschaft), Arendt auf eigenständiges Urteilen. Popper ist Ingenieur, Arendt ist Denkerin
+
+### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
+
+Krastevs Hoffnungs-Begriff (via Havel) trifft Arendts *Denken ohne Geländer*: beide beschreiben politisches Handeln ohne Garantien des Gelingens. Arendt nach dem Totalitarismus, Krastev nach dem Ende der liberalen Weltordnung — dieselbe Geste, zwei historische Brüche.

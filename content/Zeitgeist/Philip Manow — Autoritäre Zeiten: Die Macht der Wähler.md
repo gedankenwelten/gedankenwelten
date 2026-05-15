@@ -362,3 +362,7 @@ Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblö
 ### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
 Sahebi/Semsrott benennen das empirische Muster, das Manow theoretisch erklärt: Die AfD steigt trotz historisch niedriger Asylzahlen — weil sie kein Migrations-, sondern ein Souveränitätsproblem adressiert. Die Schwarz-Rot-Migrationsverschärfung löst dieses Grundproblem strukturell nicht.
+
+### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
+
+Krastev liefert die geopolitische Metaebene zu Manows Wähleranalyse: Trumps Wochenrhythmus ist nicht nur eine persönliche Eigenart, sondern ein Symptom eines Demokratiesystems, das strukturell Kurzfristigkeit belohnt — genau Manows institutionelle These.
