@@ -89,6 +89,7 @@ Marx, Keynes, Joan Robinson, Michał Kalecki, John Kenneth Galbraith, Paul Sweez
 ## Cortex-Notes
 
 - [[Yanis Varoufakis — Technofeudalism]] — IAI-Interview: Cloud Capital, Cloud Rent und das Ende des Kapitalismus
+- [[Yanis Varoufakis — Trump Has Lost Everything]] — New Statesman Exchange: Kindheit unter Junta, Faschismus-Sequenz, Trump/Iran, Zypern, Energiemärkte
 - [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]] *(Technofeudalism als Querverweis)*
 - [[Klarsprech — Peter Thiel und ObjectionAI]] *(Technofeudalism-Kontext)*
 

@@ -190,3 +190,7 @@ Zwei Makroökonomen, die Big Tech aus verschiedenen Winkeln analysieren: Tooze b
 
 ObjectionAI — ein KI-System, das über Wahrheit richtet und nur Vermögenden zugänglich ist — ist Cloud Capital in seiner reinsten Form: kein Produktionsmittel, sondern ein Machtmittel, das Märkte umgeht und Rente extrahiert. Varoufakis' These erklärt, warum Thiel solche Projekte bauen *kann*: weil QE-Liquidität Cloud Capital finanziert hat, das nun als feudale Infrastruktur fungiert.
 
+### → [[Yanis Varoufakis — Trump Has Lost Everything]]
+
+Die politisch-biografische Ergänzung: Wo die IAI-Note den ökonomischen Mechanismus erklärt, zeigt das Exchange-Interview Varoufakis als historischen Akteur — Kindheit unter der Junta, Faschismus-Sequenz in zehn Stufen, Trump/Iran als Wendepunkt, Zypern als geopolitischer Brennpunkt.
+

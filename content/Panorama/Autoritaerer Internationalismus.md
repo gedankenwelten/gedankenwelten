@@ -254,3 +254,4 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[scobel — Luhmann: Abklärung der Aufklärung]] | Theorie · Autopoiesis |
 | [[S.N. Goenka — Vipassana]] | Resilienz · Sankhāra/Vedanā |
 | [[Matthieu Ricard — Altruismus als Vernunft]] | Resilienz · Trainierbares Mitgefühl |
+| [[Yanis Varoufakis — Trump Has Lost Everything]] | Empirie · Faschismus-Sequenz |

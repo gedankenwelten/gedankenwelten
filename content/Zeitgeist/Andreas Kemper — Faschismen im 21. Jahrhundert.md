@@ -286,3 +286,7 @@ Aly warnt vor pauschalen Faschismus-Begriffen, liefert aber mit dem Chemie-Model
 ### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]
 
 MONITORs Recherche zeigt eine Variante, die in Kempers Faschismus-Taxonomie fehlt: Kleptofaschismus — ein System, in dem autoritäre Machtkonzentration nicht primär ideologisch, sondern ökonomisch motiviert ist. MAGA als Vehikel, Bereicherung als Ziel.
+
+### → [[Yanis Varoufakis — Trump Has Lost Everything]]
+
+Varoufakis' Faschismus-Sequenz in zehn Stufen ergänzt Kempers Taxonomie um den historischen Mechanismus: Bankenkollaps → Austerität → Scheitern der Linken → populistische Mimikry → Big-Business-Allianz. Beide betonen: Faschismus ist kein Rückfall, sondern eine Mutation — Kemper ordnet theoretisch ein, Varoufakis liefert die ökonomische Genealogie.
