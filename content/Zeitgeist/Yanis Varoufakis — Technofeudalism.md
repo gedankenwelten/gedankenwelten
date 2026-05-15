@@ -55,17 +55,17 @@ Varoufakis betont: Niemand hat das geplant. Es gab keine Verschwörung. Die Zent
 
 ---
 
-## Profit wird zu Rente — Der feudale Mechanismus
+## Profit wird zu Tribut — Der feudale Mechanismus
 
-[▶ 5:21](https://www.youtube.com/watch?v=X3FdIyNMaFY&t=321) — Die zentrale These: Profit — das definierende Merkmal des Kapitalismus — wird durch Rente ersetzt. Varoufakis nennt es *Cloud Rent*, in Analogie zur feudalen Grundrente.
+[▶ 5:21](https://www.youtube.com/watch?v=X3FdIyNMaFY&t=321) — Die zentrale These: Profit — das definierende Merkmal des Kapitalismus — wird durch Tributzahlungen ersetzt. Varoufakis nennt es *Cloud Rent*, in Analogie zur feudalen Grundrente.
 
-Das Beispiel Amazon: Zwischen 20 und 40 Prozent des Kaufpreises werden von Jeff Bezos abgeschöpft — nicht als Gewinn aus eigener Produktion, sondern als Tribut dafür, dass Verkäufer Zugang zu den Kunden erhalten. Der Kapitalist, der tatsächlich produziert, wird zum *Vasall-Kapitalisten*, der dem Cloud-Feudalherren Rente zahlen muss.
+Das Beispiel Amazon: Zwischen 20 und 40 Prozent des Kaufpreises werden von Jeff Bezos abgeschöpft — nicht als Gewinn aus eigener Produktion, sondern als Tribut dafür, dass Verkäufer Zugang zu den Kunden erhalten. Der Kapitalist, der tatsächlich produziert, wird zum *Vasall-Kapitalisten*, der dem Cloud-Feudalherren Tribut zahlen muss.
 
-[▶ 7:37](https://www.youtube.com/watch?v=X3FdIyNMaFY&t=457) — Warum das nicht nur ein moralisches, sondern ein strukturelles Problem ist: Wenn ein großer Teil des Wirtschaftskreislaufs als Rente abgezogen wird, verlässt diese Energie den Kreislauf. General Motors oder Volkswagen zahlen etwa 85 Prozent ihrer Einnahmen als Löhne — dieses Geld zirkuliert in der Wirtschaft. Meta zahlt weniger als ein Prozent.
+[▶ 7:37](https://www.youtube.com/watch?v=X3FdIyNMaFY&t=457) — Warum das nicht nur ein moralisches, sondern ein strukturelles Problem ist: Wenn ein großer Teil des Wirtschaftskreislaufs als Tribut abgeschöpft wird, verlässt diese Energie den Kreislauf. General Motors oder Volkswagen zahlen etwa 85 Prozent ihrer Einnahmen als Löhne — dieses Geld zirkuliert in der Wirtschaft. Meta zahlt weniger als ein Prozent.
 
 > *„Do you know what the percentage is that Mr. Zuckerberg pays his employees in Meta? Less than one percent goes to workers."*
 
-Das Geld, das bei Big Tech als Rente ankommt, wird *nicht* reinvestiert — es verschwindet aus dem produktiven Kreislauf. Das zwingt Zentralbanken, immer weiter Geld zu drucken, um die verlorene wirtschaftliche Aktivität zu ersetzen *(Faktencheck: vereinfacht)*.
+Das Geld, das bei Big Tech als Tribut ankommt, wird *nicht* reinvestiert — es verschwindet aus dem produktiven Kreislauf. Das zwingt Zentralbanken, immer weiter Geld zu drucken, um die verlorene wirtschaftliche Aktivität zu ersetzen *(Faktencheck: vereinfacht)*.
 
 ---
 
@@ -95,7 +95,7 @@ Seine Lösung ist explizit nicht der Rückzug: Wer dem Feudalismus entkommen wil
 
 ## Der Doom Loop — Zentralbanken in der Falle
 
-[▶ 9:10](https://www.youtube.com/watch?v=X3FdIyNMaFY&t=550) — Varoufakis beschreibt einen sich selbst verstärkenden Kreislauf: Je mehr Cloud Rent aus der Wirtschaft extrahiert wird, desto mehr müssen Zentralbanken drucken, um die verlorene Nachfrage zu ersetzen. Dieses gedruckte Geld landet erneut bei Big Tech. Die Rente steigt weiter. Der Kreislauf beschleunigt sich.
+[▶ 9:10](https://www.youtube.com/watch?v=X3FdIyNMaFY&t=550) — Varoufakis beschreibt einen sich selbst verstärkenden Kreislauf: Je mehr Cloud Rent aus der Wirtschaft extrahiert wird, desto mehr müssen Zentralbanken drucken, um die verlorene Nachfrage zu ersetzen. Dieses gedruckte Geld landet erneut bei Big Tech. Die Abschöpfung steigt weiter. Der Kreislauf beschleunigt sich.
 
 [▶ 15:17](https://www.youtube.com/watch?v=X3FdIyNMaFY&t=917) — Die Rolle der Zentralbanken war dabei nie intentional. 2008/2009 waren sie in Panik. Regierungen waren handlungsunfähig. Die Zentralbanken mussten als „only game in town" agieren, durften aber laut ihren Statuten das Geld nicht direkt in produktive Investitionen lenken. Das Versagen lag bei den Parlamenten, die keine öffentlichen Investitionsbanken geschaffen hatten.
 
@@ -119,7 +119,7 @@ Gleichzeitig verschlechtert die Qualität der Arbeit: Uber, Deliveroo, Amazon-La
 
 **1. Zinsen schnell rauf, aber weiter drucken — gezielt.** Varoufakis kritisiert, dass Zentralbanken Quantitative Tightening als einfache Umkehrung von QE behandeln. Sein Gegenvorschlag: Zinsen sofort von nahe Null auf 3,5 Prozent anheben, um Inflation zu bekämpfen — aber *gleichzeitig* weiter Geld drucken, diesmal nicht für Staatsanleihen, sondern für Bonds öffentlicher Investitionsbanken (wie die Europäische Investitionsbank). Eine halbe Billion Euro pro Jahr für grüne Transition.
 
-**2. Cloud Tax statt OECD-Kosmetik.** Die bestehende internationale Besteuerung sei wirkungslos — Bezos zahle effektiv null, weil er IP-Lizenzen nach Belieben verschieben könne. Stattdessen brauche es eine direkte Cloud-Steuer auf Renten-Extraktion.
+**2. Cloud Tax statt OECD-Kosmetik.** Die bestehende internationale Besteuerung sei wirkungslos — Bezos zahle effektiv null, weil er IP-Lizenzen nach Belieben verschieben könne. Stattdessen brauche es eine direkte Cloud-Steuer auf die Tribut-Abschöpfung.
 
 **3. Aggregate Demand wiederherstellen.** Das Geld aus Cloud Tax und grüner Investition müsse gezielt die Gesamtnachfrage stützen — besonders angesichts der Klimakrise. COP28 sei ein „major cop out", weil niemand ernsthaft über die Finanzierung nachdenke.
 
@@ -164,7 +164,7 @@ Gleichzeitig verschlechtert die Qualität der Arbeit: Uber, Deliveroo, Amazon-La
 
 ### → [[Francesca Bria — The Authoritarian Stack]]
 
-Bria kartiert die politische Machtarchitektur von Big Tech — privatisierte Souveränität, Palantir-Verträge, DOGE. Varoufakis liefert die ökonomische Erklärung *warum* diese Machtkonzentration entstand: Cloud Capital als Produkt von QE, Rente statt Profit. Bria sieht den Authoritarian Stack als politische Konstruktion; Varoufakis sieht ihn als systemischen Effekt des post-2008-Kapitalismus. Zusammen: die vollständige Diagnose — ökonomische Ursache (Varoufakis) und politische Konsequenz (Bria).
+Bria kartiert die politische Machtarchitektur von Big Tech — privatisierte Souveränität, Palantir-Verträge, DOGE. Varoufakis liefert die ökonomische Erklärung *warum* diese Machtkonzentration entstand: Cloud Capital als Produkt von QE, Tribut statt Profit. Bria sieht den Authoritarian Stack als politische Konstruktion; Varoufakis sieht ihn als systemischen Effekt des post-2008-Kapitalismus. Zusammen: die vollständige Diagnose — ökonomische Ursache (Varoufakis) und politische Konsequenz (Bria).
 
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
@@ -188,7 +188,7 @@ Zwei Makroökonomen, die Big Tech aus verschiedenen Winkeln analysieren: Tooze b
 
 ### → [[Klarsprech — Peter Thiel und ObjectionAI]]
 
-ObjectionAI — ein KI-System, das über Wahrheit richtet und nur Vermögenden zugänglich ist — ist Cloud Capital in seiner reinsten Form: kein Produktionsmittel, sondern ein Machtmittel, das Märkte umgeht und Rente extrahiert. Varoufakis' These erklärt, warum Thiel solche Projekte bauen *kann*: weil QE-Liquidität Cloud Capital finanziert hat, das nun als feudale Infrastruktur fungiert.
+ObjectionAI — ein KI-System, das über Wahrheit richtet und nur Vermögenden zugänglich ist — ist Cloud Capital in seiner reinsten Form: kein Produktionsmittel, sondern ein Machtmittel, das Märkte umgeht und Tribut extrahiert. Varoufakis' These erklärt, warum Thiel solche Projekte bauen *kann*: weil QE-Liquidität Cloud Capital finanziert hat, das nun als feudale Infrastruktur fungiert.
 
 ### → [[Yanis Varoufakis — Trump Has Lost Everything]]
 

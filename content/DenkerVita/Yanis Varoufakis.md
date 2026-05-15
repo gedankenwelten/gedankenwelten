@@ -39,13 +39,13 @@ Marx, Keynes, Joan Robinson, Michał Kalecki, John Kenneth Galbraith, Paul Sweez
 | [Adults in the Room](https://www.genialokal.de/suche/?q=Adults+in+the+Room+Varoufakis) | 2017 | Autobiografischer Insider-Bericht aus den Verhandlungen mit der Troika — Guardian Top 100 Bücher des 21. Jahrhunderts (#86) |
 | [Talking to My Daughter About the Economy](https://www.genialokal.de/suche/?q=Talking+to+My+Daughter+Economy+Varoufakis) | 2017 | Ökonomie erklärt für junge Menschen — wie Ungleichheit, Schulden und Märkte wirklich funktionieren |
 | [Another Now](https://www.genialokal.de/suche/?q=Another+Now+Varoufakis) | 2020 | Utopischer Roman — eine alternative Gegenwart ohne Konzernkapitalismus, mit demokratisierter Technologie |
-| [Technofeudalism: What Killed Capitalism](https://www.genialokal.de/suche/?q=Technofeudalism+Varoufakis) | 2023 | **Hauptwerk der aktuellen Phase:** Kapitalismus ist bereits tot — ersetzt durch Cloud-Feudalismus, in dem Big Tech Profit in Rente verwandelt |
+| [Technofeudalism: What Killed Capitalism](https://www.genialokal.de/suche/?q=Technofeudalism+Varoufakis) | 2023 | **Hauptwerk der aktuellen Phase:** Kapitalismus ist bereits tot — ersetzt durch Cloud-Feudalismus, in dem Big Tech Profit in Tribut verwandelt |
 | [Raise Your Soul](https://www.genialokal.de/suche/?q=Raise+Your+Soul+Varoufakis) | 2025 | Persönliche Geschichte des Widerstands — eine Art politische Memoiren |
 
 ## Empfehlenswerte Videos & Vorträge
 
 - [Capitalism is Dead. Now We Have Something Much Worse — IAI / Eshe Nelson (NYT)](https://www.youtube.com/watch?v=RmuKn_RKVS4) — Das Kerninterview zu Technofeudalism: QE, Cloud Capital, das Ende des Kapitalismus (2025)
-- [Technofeudalism Explained — IAI Live Event](https://www.youtube.com/watch?v=X3FdIyNMaFY) — Ausführliches Gespräch: Wie Zentralbanken Technofeudalism erschufen, warum Geräte süchtig machen, was Cloud-Rente ist
+- [Technofeudalism Explained — IAI Live Event](https://www.youtube.com/watch?v=X3FdIyNMaFY) — Ausführliches Gespräch: Wie Zentralbanken Technofeudalism erschufen, warum Geräte süchtig machen, was Cloud Rent ist
 - [Technofeudalism — Chris Hedges Interview](https://www.youtube.com/watch?v=sZDh8JvUG1Q) — Tiefgehend, linke Perspektive, Varoufakis im Gespräch mit einem der schärfsten US-Systemkritiker (2025)
 - [Žižek meets Varoufakis](https://www.youtube.com/watch?v=dd4VnL81wI0) — Zwei intellektuelle Schwergewichte im Gespräch über Kapitalismus, Ideologie und die Zukunft der Linken (2024)
 - [Returning to Pre-1945 — BBC Interview](https://www.youtube.com/watch?v=Q9aD1ViB0BE) — Varoufakis warnt vor der Rückkehr zu Vorkriegsverhältnissen (2025)
@@ -58,7 +58,7 @@ Marx, Keynes, Joan Robinson, Michał Kalecki, John Kenneth Galbraith, Paul Sweez
 - **Kapitalismus ist bereits tot** — aber nicht durch Revolution, sondern durch seine eigene Mutation. Was ihn ablöst, ist schlimmer.
 - **Quantitative Easing als Geburtshelfer:** Seit 2008 pumpten Zentralbanken Billionen in die Finanzmärkte. Dieses Geld floss nicht in die Realwirtschaft, sondern in die Taschen von Big Tech — es wurde zu **Cloud Capital**.
 - **Cloud Capital vs. traditionelles Kapital:** Klassisches Kapital (Fabriken, Maschinen) produziert Waren auf Märkten. Cloud Capital (Plattformen wie Amazon, Google, Apple) **ersetzt** den Markt selbst — es entsteht ein digitales Lehen, auf dem andere wirtschaften müssen.
-- **Profit → Rente:** Der entscheidende Wandel: Big Tech verdient nicht mehr durch Profite im kapitalistischen Sinne (Produktion + Verkauf), sondern durch **Rente** — wie ein Feudalherr, der Land verpachtet. Amazon ist kein Marktplatz, sondern ein Lehensgut. Jeder Verkäufer zahlt „Tribut".
+- **Profit → Tribut:** Der entscheidende Wandel: Big Tech verdient nicht mehr durch Profite im kapitalistischen Sinne (Produktion + Verkauf), sondern durch **Tributabschöpfung** — wie ein Feudalherr, der Land verpachtet. Amazon ist kein Marktplatz, sondern ein Lehensgut. Jeder Verkäufer zahlt „Tribut".
 - **Cloud-Leibeigene (Cloud Serfs):** Nutzer arbeiten unbezahlt für die Plattformen — jeder Klick, jede Bewertung, jeder Post ist unbezahlte Arbeit, die Cloud Capital vermehrt. Geräte sind so gestaltet, dass sie süchtig machen.
 - **Zwei Klassen des Technofeudalism:** Cloud-Feudalherren (Bezos, Zuckerberg, Cook) und Cloud-Leibeigene (alle anderen — inklusive der klassischen Kapitalisten, die nun auch Tribut zahlen müssen).
 

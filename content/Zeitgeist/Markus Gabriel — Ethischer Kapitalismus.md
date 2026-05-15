@@ -195,4 +195,4 @@ Die kulturelle Grundlage von Deep Innovation: Gabriel zeigt, warum Japan Philoso
 
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
-Diametraler Gegensatz: Gabriel will den Kapitalismus durch Ethik retten; Varoufakis hält die Frage für obsolet, weil Kapitalismus bereits tot sei — ersetzt durch Cloud-Feudalismus, in dem Profit zu Rente wurde. Gabriels „true profit" setzt ein funktionierendes Profitsystem voraus; Varoufakis bestreitet, dass ein solches noch existiert.
+Diametraler Gegensatz: Gabriel will den Kapitalismus durch Ethik retten; Varoufakis hält die Frage für obsolet, weil Kapitalismus bereits tot sei — ersetzt durch Cloud-Feudalismus, in dem Profit zu Tribut wurde. Gabriels „true profit" setzt ein funktionierendes Profitsystem voraus; Varoufakis bestreitet, dass ein solches noch existiert.

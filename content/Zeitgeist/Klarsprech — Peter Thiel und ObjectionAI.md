@@ -191,4 +191,4 @@ Grenzgänger Studios erzählt Thiels Geschichte als 4,5-Stunden-Tiefengespräch 
 
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
-Varoufakis liefert die makroökonomische Erklärung dafür, *warum* Akteure wie Thiel ihre Machtposition aufbauen konnten: QE-Liquidität nach 2008 floss in Cloud Capital. ObjectionAI — KI, die über Wahrheit richtet — ist Cloud Capital in Reinform: kein Produktionsmittel, sondern feudale Infrastruktur, die Rente extrahiert.
+Varoufakis liefert die makroökonomische Erklärung dafür, *warum* Akteure wie Thiel ihre Machtposition aufbauen konnten: QE-Liquidität nach 2008 floss in Cloud Capital. ObjectionAI — KI, die über Wahrheit richtet — ist Cloud Capital in Reinform: kein Produktionsmittel, sondern feudale Infrastruktur, die Tribut abschöpft.

@@ -127,7 +127,7 @@ Die Grünen unter Zack Polanski füllten das Vakuum, indem sie sich als ökosozi
 
 [▶ 50:32](https://www.youtube.com/watch?v=JXeBY86ATJk&t=3032) — Varoufakis warnt vor einem dreifachen ökonomischen Schock: Die KI-Investitionswelle ebbt ab (Energiekosten), die Zinsen steigen nicht mehr, und der Iran-Krieg treibt Energiepreise. Die Tarif-Schocks waren abfederbar, weil Oligopole die Kosten absorbierten — der Iran-Schock ist es nicht.
 
-Zentralbanken, die jetzt Zinsen erhöhen, begehen „gross negligence" — energiegetriebene Inflation lässt sich nicht durch Nachfragezerstörung bekämpfen, sondern nur durch Begrenzung der Monopolprofite. Direkt anschlussfähig an seine Technofeudalism-Analyse: Cloud Rent und Energiekartelle als zwei Varianten derselben Rentenextraktion.
+Zentralbanken, die jetzt Zinsen erhöhen, begehen „gross negligence" — energiegetriebene Inflation lässt sich nicht durch Nachfragezerstörung bekämpfen, sondern nur durch Begrenzung der Monopolprofite. Direkt anschlussfähig an seine Technofeudalism-Analyse: Cloud Rent und Energiekartelle als zwei Varianten derselben Tributabschöpfung.
 
 ---
 
