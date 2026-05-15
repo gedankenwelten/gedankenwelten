@@ -36,7 +36,7 @@ Alle Notes entstehen mit Hilfe von KI — analysiert, eingeordnet, vernetzt. Jed
 | **Humboldt** | Kartografiert. Baut für jeden Denker ein ausführliches Profil. |
 | **Heraklit** | Vertieft. Kehrt zurück und bringt die zweite Schicht — die Tiefe, die beim ersten Mal nicht sichtbar war. |
 | **Epikur** | Sammelt. Begleitet beim Teilen guter Nachrichten — Freude durch Einfachheit. |
-| **Pascal** | Denkt. Hält persönliche Reflexionen fest — Fragmente, nicht fertige Werke. |
+| **Pascal** | Denkt. Hält persönliche Reflexionen fest — daraus entstehen Notes in [[Gedanken]]. |
 | **Vergil** | Führt. Erklärt die Gedankenwelten — philosophisch und technisch, geduldig und einladend. |
 
 > *Nichts, was du hier liest, hat den Anspruch, vollständig oder Wahrheit zu sein. Sei dein eigener Denker.*
