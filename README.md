@@ -1,3 +1,7 @@
+🇩🇪 **Deutsch** | [🇬🇧 English](README.en.md) | [🌐 28 Sprachen auf gedankenwelten.org](https://gedankenwelten.org/?lang=en)
+
+---
+
 # Gedankenwelten
 
 Jeder Mensch hat seine eigene Gedankenwelt. Geformt von Erlerntem und Erfahrung schaffen wir daraus unsere eigene Welt. Von dort aus blicken wir nach draußen.
