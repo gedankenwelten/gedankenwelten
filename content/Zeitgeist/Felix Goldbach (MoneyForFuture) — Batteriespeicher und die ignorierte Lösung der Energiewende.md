@@ -185,3 +185,8 @@ Kupferzell zeigt eine Speicherstrategie, die Goldbachs Batterie-These ergänzt s
 ### → [[Tim Meyer und Jan Hegenberg — China Energiewende]]
 
 Meyer und Hegenberg berichten aus chinesischen Batteriefabriken und bestätigen Goldbachs These aus der Produktionsperspektive: China hat bei Lithium-Batterien die Markteintrittsbarrieren perfektioniert (Technologie-Know-how, Materialreinheit, Skaleneffekte). Flowbatterien als europäische Langzeitspeicher-Nische könnten die von Goldbach geforderte Speicher-Revolution um eine Dimension erweitern.
+
+
+### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+
+Goldbach und Großmann beschreiben strukturell dasselbe Valley-of-Death-Phänomen: Technologisch überlegene Lösungen scheitern nicht an Physik, sondern daran, dass sie etablierte Akteure bedrohen. Großmanns Kampf mit der Förderbürokratie ist Goldbachs Batterie-Blockade in Stahl.

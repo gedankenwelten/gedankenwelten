@@ -160,3 +160,8 @@ Sánchez de Lozada als Fallbeispiel für ultrareiche Ressourcenbesitzer, die üb
 ### → [[Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]]
 
 Rheinmetalls Expansion auf 1,1 Millionen Artilleriegeschosse/Jahr ist nicht denkbar ohne Rohstoffsouveränität. Kupfer, Stahl, Explosivstoffe: Norio zeigt die Ressourcengrundlage, Flemig die industrielle Spitze dieser Lieferkette.
+
+
+### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+
+Beide Notes kreisen um dasselbe ostdeutsche Paradox: Die Lausitz als Ort ungenutzter Potenziale — Kupfer unter der Erde, Höhenwind über dem Braunkohle-Abrissgebiet. In beiden Fällen scheitert die Hebung nicht an der Technologie, sondern an Kapital und Bürokratie.

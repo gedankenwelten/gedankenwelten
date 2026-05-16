@@ -154,6 +154,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Giovanni Maio
 **Status:** Stub
 
+## Jochen Großmann
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jochen Grossmann]]
+
 ## Götz Aly
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Götz Aly]]
 
