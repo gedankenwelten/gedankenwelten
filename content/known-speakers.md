@@ -401,3 +401,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Yanis Varoufakis
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Yanis Varoufakis]]
+
+## Zhao Tingyang
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Zhao Tingyang]]

@@ -237,6 +237,10 @@ Strukturelle Gegenspannung: Popper glaubt an Falsifikation als universelles Wahr
 
 Gabriel verwendet Postmoderne als "gegenstandslose Sozialität" und positioniert sich damit gegen Lyotards Auflösung von Triangulation. Wo Lyotard das Ende der legitimierenden Metaerzählungen diagnostiziert, macht Gabriel die Konsequenz zum Problem: Ohne Gegenstand kollabiert der Dissens zur bloßen Sozialität — eine direkte Auseinandersetzung mit Lyotards Erbe, ohne seinen Namen zu nennen.
 
+### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
+
+Zhao Tingyangs «Neue Enzyklopädie» und sein Syntextualisierungsprojekt sind der direkte Gegenentwurf zu Lyotards Inkommensurabilität. Lyotard besteht darauf, dass Wissensformen nicht auf einen Nenner gebracht werden können, ohne dass eine Machtasymmetrie den «focal point» definiert. Zhao glaubt, dass epistemologische Gerechtigkeit durch radikale Öffnung aller Wissensbestände füreinander möglich ist. Die Weiterdenken-Frage der Zhao-Note stellt genau das: Ist Tianxia selbst die letzte Metaerzählung?
+
 ---
 
 ## Weiterdenken

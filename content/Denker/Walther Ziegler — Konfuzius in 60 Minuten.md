@@ -235,4 +235,8 @@ Gabriels These einer universellen, nicht-relativen Moral findet in Konfuzius' Go
 
 Der Disput Konfuzius vs. Daoismus bildet die Trennlinie zwischen Rosas Resonanztheorie (sich von der Welt berühren lassen) und politischem Aktivismus ab. Konfuzius' Dao als Fuß+Kopf (Theorie und Praxis vereinen) bietet eine mögliche Synthese: Nicht entweder Kontemplation oder Aktion, sondern beides in Harmonie.
 
+### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
+
+Zhao Tingyang ist der zeitgenössische Denker, der Konfuzius' *Ren*-Prinzip (Mensch als relationales Wesen) in eine vollständige Weltordnungstheorie übersetzt. Seine «konfuzianische Verbesserung» als kooperationstheoretisches Prinzip und die ontologische Kritik am Individualismus als «politische Fiktion» sind direkt aus der konfuzianischen Grundlage entwickelt. Diese Note zeigt die Tradition; die Zhao-Note zeigt, was daraus als globaler Designvorschlag werden kann.
+
 - [[Walther Ziegler — Buddha in 60 Minuten]] — Buddhas Achsenzeit-Genosse mit gegensätzlicher Strategie: Konfuzius kultiviert Tugend in der Gesellschaft, Buddha zieht sich in die Meditation zurück. Derselbe Befund (Leiden an der menschlichen Kondition), aber Rückzug vs. Engagement als Grundentscheidung

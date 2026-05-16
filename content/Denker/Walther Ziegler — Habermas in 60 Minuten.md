@@ -189,6 +189,10 @@ Habermas antwortet auf den ersten Einwand mit der *operativ wirksamen Fiktion*. 
 
 ---
 
+- [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]] — Forst (Habermas-Schüler) trifft auf Zhao Tingyang im direkten Clash: Habermas' kommunikative Vernunft als Gegenmittel zur Kolonisierung der Lebenswelt vs. Zhaos Diagnose der «neuen Despotie», die institutionelles Redesign erfordert. Die Kolonialisierungs-These und die Tianxia-Demokratiekritik überschneiden sich — die Konsequenzen könnten verschiedener nicht sein.
+
+---
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

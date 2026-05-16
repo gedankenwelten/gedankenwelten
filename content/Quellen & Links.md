@@ -5,6 +5,17 @@ tags:
   - quellen
   - links
 ---
+## Zhao Tingyang / Forst / Williams — Tianxia und die Bedeutungen der Demokratie
+
+| | |
+|---|---|
+| **Vortrag / Video A** | [The Meanings of Democracy — Beijing Forum (Nov 2021)](https://www.youtube.com/watch?v=_zUnIiMv8rY) |
+| **Vortrag / Video B** | [GIP Lectures: A New Understanding of Tianxia (2022)](https://www.youtube.com/watch?v=FBljLrMk5Bg) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]] |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Zhao Tingyang]] |
+| **Transkript A** | `Gedankenwelten/Transkripte/ZhaoForst_Democracy_Transkript.txt` |
+| **Transkript B** | `Gedankenwelten/Transkripte/Zhao_GIP_Tianxia_Transkript.txt` |
+
 ## Arnd Henze — Bonhoeffer und die Neue Rechte
 
 | | |

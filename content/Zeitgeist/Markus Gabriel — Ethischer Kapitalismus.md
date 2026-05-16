@@ -193,6 +193,10 @@ Die Gegenprobe zu Gabriels These: In einem System, das über den Preis konkurrie
 
 Die kulturelle Grundlage von Deep Innovation: Gabriel zeigt, warum Japan Philosophie und Wirtschaft ohne Barriere denkt — und warum das der Schlüssel zur Umsetzung des ethischen Kapitalismus im KI-Zeitalter ist. Schumachers kreative Zerstörung erscheint dort als ökonomische Grundlage dafür, dass KI „Kreativität" sein kann.
 
+### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
+
+Beide diagnostizieren finanziellen Kapitalismus als Bedrohung der Demokratie — Zhao nennt ihn «ontologisches Verbrechen» und «neue Despotie». Gabriels Lösung (Ethikpflichten im Unternehmen, «true profit») bleibt innerhalb des bestehenden Rahmens; Zhao hält das für strukturell unzureichend und entwirft eine neue Weltordnung. Zhaos Individualismus-Kritik (Individualismus als politische Fiktion) herausfordert Gabriels Moraluniversalismus, der vom einzelnen Akteur ausgeht.
+
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
 Diametraler Gegensatz: Gabriel will den Kapitalismus durch Ethik retten; Varoufakis hält die Frage für obsolet, weil Kapitalismus bereits tot sei — ersetzt durch Cloud-Feudalismus, in dem Profit zu Tribut wurde. Gabriels „true profit" setzt ein funktionierendes Profitsystem voraus; Varoufakis bestreitet, dass ein solches noch existiert.

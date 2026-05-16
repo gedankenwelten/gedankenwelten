@@ -225,6 +225,7 @@ Mausfelds Thesen wurden von sehr unterschiedlichen Lagern vereinnahmt — darunt
 
 ## Verbindungen
 
+- [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]] — Zhao beschreibt denselben Mechanismus der demokratischen Selbstuntergrabung: «neue Despotie» als struktureller Bund aus Technologie, Finanzkapitalismus und Intermediären. Mausfeld sieht den Feind als gesteuerte Eliten, Zhao als selbstorganisierenden Systemeffekt — beide landen bei derselben Diagnose: Der ideologische Käfig und das Trojanische Pferd beschreiben dieselbe Pathologie aus West und Ost.
 - [[Renee DiResta — Invisible Rulers]] — Mausfeld analysiert Manipulation top-down (Eliten, Medienkonglomerate); DiResta zeigt das dezentralisierte Pendant: tausende Influencer ohne zentrale Steuerung erzielen denselben Effekt
 - [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — Mausfeld diagnostiziert Bewusstseinskontrolle als Weg zur Aushöhlung; Mühlhoff den nächsten Schritt: wenn die Verwaltung selbst privatisiert wird, braucht es keine Bewusstseinskontrolle mehr
 - [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Beide diagnostizieren eine Gesellschaft, die das Lebendigste am Menschen systematisch unterdrückt: Mausfeld durch externe Steuerung, Rosa durch die innere Logik des Steigerungssystems
