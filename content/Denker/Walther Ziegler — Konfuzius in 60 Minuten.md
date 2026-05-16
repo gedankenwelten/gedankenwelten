@@ -240,3 +240,6 @@ Der Disput Konfuzius vs. Daoismus bildet die Trennlinie zwischen Rosas Resonanzt
 Zhao Tingyang ist der zeitgenössische Denker, der Konfuzius' *Ren*-Prinzip (Mensch als relationales Wesen) in eine vollständige Weltordnungstheorie übersetzt. Seine «konfuzianische Verbesserung» als kooperationstheoretisches Prinzip und die ontologische Kritik am Individualismus als «politische Fiktion» sind direkt aus der konfuzianischen Grundlage entwickelt. Diese Note zeigt die Tradition; die Zhao-Note zeigt, was daraus als globaler Designvorschlag werden kann.
 
 - [[Walther Ziegler — Buddha in 60 Minuten]] — Buddhas Achsenzeit-Genosse mit gegensätzlicher Strategie: Konfuzius kultiviert Tugend in der Gesellschaft, Buddha zieht sich in die Meditation zurück. Derselbe Befund (Leiden an der menschlichen Kondition), aber Rückzug vs. Engagement als Grundentscheidung
+
+### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
+Zhao entwickelt das konfuzianische relationale Denken sprachphilosophisch weiter: Das Schriftzeichen 仁 (Ren) — Mensch plus Zwei — ist selbst kein Substantiv-Konzept, sondern ein Beziehungsverb. Verb-Denken als philosophisches Programm reaktiviert diese Intuition mit modernen Mitteln: nicht Substanzen, sondern Prozesse und Relationen als Grundkategorien des Denkens.

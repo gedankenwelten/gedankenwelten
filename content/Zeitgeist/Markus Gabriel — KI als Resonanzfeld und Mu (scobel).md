@@ -240,3 +240,8 @@ Mu als wechselseitige Abhängigkeit ist die Mahāyāna-Entsprechung zu Anattā: 
 > - Die USA haben eine höhere geistige Freiheit, die an Dummheit grenzt. Japan hat Tiefe ohne westlichen Individualismus. Europa hat Denkverbote. *Welche Kombination wäre erstrebenswert — und ist eine Synthese überhaupt denkbar ohne Verlust der Vorteile jedes Teils?*
 > - Mu löst die Substanzfrage auf: Alles existiert nur in Relationen. *Wenn das gilt — wie kann Markus Gabriel dann davon überzeugt sein, dass moralische Tatsachen real und universal sind?* Universale Werte setzen doch Substanzen (Personen, Handlungen) voraus, die sie tragen.
 > - Gabriel nennt Europa den gefesselten Prometheus. Prometheus wurde bestraft, weil er Feuer stahl. *Ist Europas Fesselung also möglicherweise kein Versagen, sondern eine Warnung — das kollektive Gedächtnis an einen früheren Übermut?*
+
+---
+
+### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
+Gabriel entwickelt über Mu (無) eine fast deckungsgleiche Diagnose: Westliches Denken ist substanzfixiert, während Mu — wie Zhaos Verb-Denken — Relationen und Prozesse als primär setzt. Gabriels Schlüsselsatz „KI ist nicht im Gerät, sondern im Resonanzfeld" ist eine angewandte Verb-Ontologie. Gleichzeitig zeigt sich ein produktiver Widerspruch: Gabriel operiert weiterhin mit Hegelscher Begrifflichkeit — also mit einer hochentwickelten *Nomen*-Logik, die Bewegung nur dialektisch denkt. Zhao würde fragen: Ist Hegels Werden schon Verb-Denken, oder noch Übersetzung ins Nomen?
