@@ -251,3 +251,8 @@ Zhao Tingyangs «Neue Enzyklopädie» und sein Syntextualisierungsprojekt sind d
 > - Der Widerstreit beschreibt Konflikte, die nicht lösbar sind. *Gibt es eine politische Praxis, die mit dieser Unlösbarkeit ehrlich umgeht, ohne in Paralyse zu verfallen?*
 > - Lyotard und Habermas führten einen der wichtigsten philosophischen Streite des 20. Jahrhunderts. *War Habermas' Kritik falsch — oder war sie die notwendige Gegenbewegung zu einem Denken, das zu leicht in Resignation kippt?*
 > - Wissen wird zur Ware, Bildung verliert ihre Legitimationserzählung. *Was wäre heute ein tragfähiges Argument für Bildung — eines, das ohne Metaerzählung auskommt?*
+
+---
+
+### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
+Zhaos „Neue Enzyklopädie" und sein Verb-Denken-Programm sind der optimistische Gegenentwurf zu Lyotards Diagnose. Wo Lyotard auf der radikalen Inkommensurabilität der Sprachspiele besteht, sucht Zhao nach „focal points" — epistemologisch robusten Punkten, die alle Wissensbestände überleben. Lyotard würde einwenden: Schon die Infrastruktur dieser Suche ist ungleich verteilt. Die Verb-Logik ist Zhaos Antwort auf die postmoderne Paralyse — aber auch sie ist eine Art Meta-Sprache.

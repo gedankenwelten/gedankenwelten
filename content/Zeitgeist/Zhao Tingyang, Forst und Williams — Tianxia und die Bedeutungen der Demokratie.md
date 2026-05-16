@@ -221,3 +221,8 @@ Zhaos These, dass das westfälische Nationalstaatensystem keine negativen Extern
 > - "Smarte Demokratie" vertraut einem Wissenschaftskomitee mit Veto-Recht. Forst fragt: Wer kontrolliert die Kontrolleure? Zhao hat keine Antwort. Ist das ein Konstruktionsfehler — oder ist das Innehalten vor dem Abgrund des Regierens ehrlicher als jede Antwort?
 > - Zhaos neue Enzyklopädie klingt nach dem humanistischen Traum des 18. Jahrhunderts in neuem Gewand. Wäre das Gegenteil — radikale epistemische Inkommensurabilität, im Sinne Lyotards — nicht ehrlicher, wenn auch unpraktischer?
 > - [[scobel — Lyotard das Ende der Wahrheit]] beschreibt das Scheitern der Meta-Erzählungen. Ist Tianxia selbst eine solche — eine letzte große Erzählung, die antritt, alle anderen zu umfassen?
+
+---
+
+### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
+Dieser Vortrag zeigt Zhao in einem anderen Modus: nicht als Weltordnungstheoretiker, sondern als Sprachphilosoph. Verb-Denken und Tianxia hängen tief zusammen — wer ontologisch von Koexistenz ausgeht (Tianxia), braucht eine Philosophie des Werdens und der Relation, nicht des Seins und der Substanz. Das Verb-Denken ist das erkenntnistheoretische Fundament, auf dem Tianxia als politische Theorie steht.
