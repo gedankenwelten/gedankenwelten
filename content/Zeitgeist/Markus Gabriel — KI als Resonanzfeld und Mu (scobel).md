@@ -243,5 +243,5 @@ Mu als wechselseitige Abhängigkeit ist die Mahāyāna-Entsprechung zu Anattā: 
 
 ---
 
-### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
+### → [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
 Gabriel entwickelt über Mu (無) eine fast deckungsgleiche Diagnose: Westliches Denken ist substanzfixiert, während Mu — wie Zhaos Verb-Denken — Relationen und Prozesse als primär setzt. Gabriels Schlüsselsatz „KI ist nicht im Gerät, sondern im Resonanzfeld" ist eine angewandte Verb-Ontologie. Gleichzeitig zeigt sich ein produktiver Widerspruch: Gabriel operiert weiterhin mit Hegelscher Begrifflichkeit — also mit einer hochentwickelten *Nomen*-Logik, die Bewegung nur dialektisch denkt. Zhao würde fragen: Ist Hegels Werden schon Verb-Denken, oder noch Übersetzung ins Nomen?

@@ -254,5 +254,5 @@ Zhao Tingyangs «Neue Enzyklopädie» und sein Syntextualisierungsprojekt sind d
 
 ---
 
-### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
+### → [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
 Zhaos „Neue Enzyklopädie" und sein Verb-Denken-Programm sind der optimistische Gegenentwurf zu Lyotards Diagnose. Wo Lyotard auf der radikalen Inkommensurabilität der Sprachspiele besteht, sucht Zhao nach „focal points" — epistemologisch robusten Punkten, die alle Wissensbestände überleben. Lyotard würde einwenden: Schon die Infrastruktur dieser Suche ist ungleich verteilt. Die Verb-Logik ist Zhaos Antwort auf die postmoderne Paralyse — aber auch sie ist eine Art Meta-Sprache.
