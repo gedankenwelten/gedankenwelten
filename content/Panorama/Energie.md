@@ -291,3 +291,4 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 | [[erneuerbare tv — Sommerwaerme im Erdreich]] | Lösung · Geothermie · Mittelstand · Zulieferindustrie |
 | [[erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]] | Lösung · V2G · Speicher · Niederlande · Deutschland |
 | Bertelsmann Stiftung — Energiewende als Jobmotor (2025) | Lösung · Arbeitsmarkt · Strukturwandel |
+| [[Norio — GICON Hoehenwindturm revolutioniert Windkraft]] | Lösung · Höhenwind · Innovation · Bürgerbeteiligung |
