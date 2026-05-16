@@ -5,6 +5,15 @@ tags:
   - quellen
   - links
 ---
+## Zhao Tingyang — Verbales Denken und Neo-Aufklärung
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Verbal Thinking and Neo-Enlightenment (Berggruen, 2025)](https://www.youtube.com/watch?v=8_gea_85sK0) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung]] |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Zhao Tingyang]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Zhao_VerbalThinking_Transkript.txt` |
+
 ## Zhao Tingyang / Forst / Williams — Tianxia und die Bedeutungen der Demokratie
 
 | | |
