@@ -217,6 +217,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## Z
 
+**[[Gedankenwelten/DenkerVita/Zhao Tingyang|Zhao Tingyang]]** — Politischer Philosoph (CASS Peking); Tianxia-System als Weltordnung, Ontologie der Koexistenz, Verbdenken, Smart Democracy, Neo-Universalismus jenseits westfälischem Staatensystem
+
 ---
 
 ### Weitere prominente Denker (Stubs / In Progress)
