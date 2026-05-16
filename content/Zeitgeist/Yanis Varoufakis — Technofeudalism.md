@@ -190,6 +190,10 @@ Zwei Makroökonomen, die Big Tech aus verschiedenen Winkeln analysieren: Tooze b
 
 ObjectionAI — ein KI-System, das über Wahrheit richtet und nur Vermögenden zugänglich ist — ist Cloud Capital in seiner reinsten Form: kein Produktionsmittel, sondern ein Machtmittel, das Märkte umgeht und Tribut extrahiert. Varoufakis' These erklärt, warum Thiel solche Projekte bauen *kann*: weil QE-Liquidität Cloud Capital finanziert hat, das nun als feudale Infrastruktur fungiert.
 
+### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
+
+Zhao beschreibt denselben Mechanismus mit anderen Begriffen: Finanzkapitalismus als «ontologisches Verbrechen» (Handel mit Nichtseiendem) und als «neue Despotie» — den strukturellen Bund aus Technologie, Finanzkapital und Intermediären. Varoufakis nennt es Technofeudalism (Cloud Rent ersetzt Profit), Zhao nennt es strukturellen Kollaps der Demokratie von innen. Der Unterschied: Varoufakis diagnostiziert den Kapitalismus als bereits tot; Zhao sucht noch nach institutionellen Gegenmitteln.
+
 ### → [[Yanis Varoufakis — Trump Has Lost Everything]]
 
 Die politisch-biografische Ergänzung: Wo die IAI-Note den ökonomischen Mechanismus erklärt, zeigt das Exchange-Interview Varoufakis als historischen Akteur — Kindheit unter der Junta, Faschismus-Sequenz in zehn Stufen, Trump/Iran als Wendepunkt, Zypern als geopolitischer Brennpunkt.
