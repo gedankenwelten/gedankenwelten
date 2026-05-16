@@ -180,6 +180,10 @@ Insider-Perspektive: Heinrich war Gründungsvorsitzender der JA (2013), trat 201
 
 Göpels Agency-Agenda als Heilmittel gegen die „Verherrlichung der Ohnmacht". Der Backlash auf der S-Kurve hat ein Gesicht.
 
+### → [[Gedankenwelten/Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]]
+
+Henze liefert den erinnerungspolitischen Unterbau für MONITORs Normalisierungsbefund: Die AfD-Resistenz speist sich auch aus der Doppelkontinuitäts-Strategie — wer sich als legitimer Erbe des Widerstands gegen Diktatur inszeniert (Bekennende Kirche → DDR-Dissidenten → AfD), bleibt trotz Skandalen wählbar.
+
 ### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 MONITORs empirischer Befund (AfD-Wähler suchen den Bruch, nicht kompetente Regierung) erklärt, warum von Luckes institutioneller Optimismus scheitern musste — und warum Merz' Rechtsruck-Imitation die AfD stärkt statt schwächt.

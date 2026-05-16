@@ -5,6 +5,15 @@ tags:
   - quellen
   - links
 ---
+## Arnd Henze — Bonhoeffer und die Neue Rechte
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Bonhoeffer und „Die Neue Rechte" – Ein Gespräch mit Arnd Henze](https://www.youtube.com/watch?v=pXzHAvf5kRU) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]] |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Arnd Henze]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Henze_Bonhoeffer_Transkript.txt` |
+
 ## Prof. Jochen Großmann / GICON — Höhenwindturm
 
 | | |

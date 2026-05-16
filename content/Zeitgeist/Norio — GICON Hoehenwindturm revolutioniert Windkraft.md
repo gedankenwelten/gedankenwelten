@@ -170,6 +170,9 @@ Ob diese Zahl realistisch ist, hängt davon ab, ob das erste Exemplar hält, was
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Panorama/Demokratische Wertschoepfung]]
+Das Klettwitz-Modell — 80 €/Einwohner/Jahr aus Windparkgewinnen, kein Eigenkapital, keine Mitgliedschaft — ist ein neues Muster demokratischer Teilhabe an Infrastruktur. Wer direkt profitiert, kämpft nicht dagegen: Interessengleichrichtung statt Überzeugungsarbeit.
+
 ### → [[Gedankenwelten/Panorama/Energie]]
 Das Energie-Panorama kartiert das Systemfeld, in das Großmanns GICON-Turm eingreift: Redispatch-Kosten durch fehlenden Netzausbau, politische Blockaden der Energiewende. Der GICON-Turm durchbricht den Redispatch-Teufelskreis strukturell: Höhere Vollaststunden bedeuten gleichmäßigere Einspeisung statt Spitzen — weniger Netzengpässe, geringere Systemkosten.
 

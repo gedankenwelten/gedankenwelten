@@ -178,6 +178,10 @@ Kernforderung: **KI muss demokratischer Kontrolle unterliegen.** Alle Macht vom 
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]]
+
+Henze zeigt die religiöse Dimension des Phänomens, das Kemper strukturell beschreibt: Die Vereinnahmung von Bonhoeffer durch evangelikale Kreise ist nicht zufällig, sondern Teil derselben Legitimationsbeschaffung. Kemper analysiert den ideologischen Rahmen — Henze zeigt, wie dieser durch symbolische Aneignung historischer Widerstandsfiguren Bürgerlichkeit imitiert.
+
 ### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 Volller Vortrag an der Uni Paderborn — liefert die Theoriebasis, die diesem Interview zugrunde liegt: Roger Griffins palingenetischer Ultranationalismus, Theweleits Körperpolitik, Machiavelli und Identifikation mit dem Aggressor. Außerdem: Klerikalfaschismus und das aristokratische Netzwerk (Beatrix von Storch, Edmund von Waldstein, JD Vance) als zweiter Faschismus-Typ.
 

@@ -13,6 +13,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Arnd Henze
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Arnd Henze]]
+
+---
+
 ## Abdolkarim Soroush
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Abdolkarim Soroush]]
 

@@ -85,6 +85,10 @@ Das Großbardorf-Modell (aus [[ARTE — Woher bekommen wir saubere Energie? (Gut
 
 [[erneuerbare tv — Sommerwaerme im Erdreich]] zeigt den industriellen Zwilling: MEFA Kupferzell ist kein Genossenschaftsprojekt, aber die Logik ist dieselbe — ein Mittelständler wird zum Systemanbieter, produziert seine Technologie selbst, schafft lokale Arbeitsplätze und zahlt 2,5 ct/kWh statt 8 ct an einen Energiekonzern. Wertschöpfung bleibt dort, wo sie entsteht.
 
+[[Norio — GICON Hoehenwindturm revolutioniert Windkraft]] führt ein drittes Modell ein, das weder Genossenschaft noch Mittelstandsprojekt ist: **kommunale Gewinnbeteiligung als Infrastrukturpolitik**. In Klettwitz (Lausitz) erhalten Bürger 80 € pro Person und Jahr direkt aus den Windparkgewinnen — eine Familie mit zwei Kindern bekommt kurz vor Weihnachten 320 €. Keine Einlage, keine Mitgliedschaft, keine bürokratische Hürde. Der Windpark zahlt in die Gemeinde zurück, weil die Gemeinde ihn trägt. Das Ergebnis ist eine Akzeptanz, die kein Informationsabend je erzeugt hätte: Wer vom Windrad profitiert, kämpft nicht dagegen. Und 2/3 der Aufträge gehen an regionale Stahlbauer — der gleiche Grundsatz auf der Produktionsseite. Nicht nur die Rendite, auch die Arbeit bleibt in der Region.
+
+Das ist strukturell anders als die Genossenschaft: kein Eigentum, keine Stimmrechte — aber direkte, spürbare Teilhabe. Eine Win-Win-Logik, die Akzeptanzprobleme der Energiewende nicht durch Überzeugung löst, sondern durch Interessengleichrichtung.
+
 ---
 
 ## Die neue digitale Genossenschaft
@@ -168,6 +172,9 @@ China als Kontrastfolie: kollektive Wirtschaftslogik ohne Demokratie. Zeigt, das
 
 ### → [[Gedankenwelten/Zeitgeist/Maja Goepel — Mut zur Zukunft]]
 Agency gegen Ohnmacht. Dezentrale Energie als Gegenmacht. Die Genossenschaft als institutionelle Form dieser Agency.
+
+### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+Klettwitz-Modell: 80 €/Einwohner/Jahr aus Windparkgewinnen, 2/3 Aufträge regional. Kein Genossenschaftsmodell, aber dieselbe Logik: Wer profitiert, akzeptiert. Kommunale Gewinnbeteiligung als neue Form demokratischer Teilhabe an Infrastruktur.
 
 ### → [[Gedankenwelten/Panorama/Energie]]
 Energiegenossenschaften als konkrete Umsetzung. Bürgerenergie, MEFA Kupferzell, Strukturwandel als Demokratisierung.
