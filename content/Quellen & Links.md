@@ -5,6 +5,15 @@ tags:
   - quellen
   - links
 ---
+## Prof. Jochen Großmann / GICON — Höhenwindturm
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Wahnsinn: Ostdeutscher Ingenieur revolutioniert Windkraft!](https://www.youtube.com/watch?v=kKoYDAMzd4o) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]] |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Jochen Grossmann]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Grossmann_GICON_Hoehenwindturm_Transkript.txt` |
+
 ## Abdolkarim Soroush — Reformation des Glaubens von innen
 
 | | |

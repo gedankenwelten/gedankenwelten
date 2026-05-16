@@ -216,3 +216,8 @@ Kupferzell ist Zöcklers Bürgerenergie-Vision auf Unternehmensebene: Nicht eine
 ### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
 
 Bürgerenergie als gelebte Geoökonomie von unten: Die dezentrale Energieversorgung ist exakt die Ressourcenunabhängigkeit, die Hein als europäischen Standortvorteil beschreibt
+
+
+### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+
+Großmanns Klettwitz-Modell (80€/Einwohner/Jahr Direktausschüttung) ist das praktische Pendant zu Zöcklers Bürgerbeteiligungs-Vision. Beide beantworten dieselbe Frage — wer profitiert von Windkraft? — mit derselben Antwort: die Menschen vor Ort.

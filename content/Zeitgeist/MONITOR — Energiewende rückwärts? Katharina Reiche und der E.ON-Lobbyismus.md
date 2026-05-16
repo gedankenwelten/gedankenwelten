@@ -270,3 +270,8 @@ Specht liefert die marktwirtschaftliche Analyse des von MONITOR dokumentierten L
 ### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 Die Bilanz-Runde nennt Reiche "Kommunikationsdesaster" und Symptom von Merz' Führungsvakuum — diese MONITOR-Recherche liefert den investigativen Hintergrund: Drehtür zwischen CDU-Politik und E.ON-Lobby als strukturelle Erklärung für ihre Energiepolitik.
+
+
+### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+
+Großmanns GICON-Turm mit 55% Vollaststunden entzieht dem Netzengpass-Argument, das Reiche nutzt, die Grundlage: Gleichmäßigere Einspeisung reduziert Redispatch-Kosten und den Netzausbau-Bedarf, auf den der Lobbyismus setzt.

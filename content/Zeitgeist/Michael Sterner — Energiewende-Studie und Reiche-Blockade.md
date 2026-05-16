@@ -180,3 +180,8 @@ Benecke zeigt die ökologischen Konsequenzen der Blockade: Die Zeitfenster für 
 ### → [[Mark Benecke — Fragerunde Time Is Up 2026]]
 
 Pöttingers marxistische Analyse bestätigt Sterners Kernbefund von der politischen Gegenseite: Die Lösungen existieren, aber Profitinteressen verhindern ihre Umsetzung. Was Sterner ökonomisch zeigt, benennt Pöttinger als Systemlogik des Kapitalismus.
+
+
+### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+
+Großmann setzt Sterners wissenschaftliche These — 2/3 Wertschöpfung lokal möglich — als bewusstes Designprinzip um: 2/3 der Aufträge gehen an regionale Stahlbauer. Sterner liefert die Grundlage, Großmann die praktische Umsetzung.

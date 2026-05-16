@@ -287,3 +287,8 @@ Schwans demokratisch-kooperativer Machtbegriff ist der normative Gegenentwurf zu
 ### → [[Markus Gabriel — Universelle Moral]]
 
 Beide teilen die Überzeugung, dass demokratische Werte aktiv bottom-up gelebt werden müssen; Europa in der Identitätskrise
+
+
+### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+
+Großmanns SPRIND-Erfahrung — 15 statt 1000 Fragen — ist institutionalisierte Gestaltungsmacht im Sinne Schwans: Der Staat als Ermöglicher statt Verhinderer. Die Bürgerbeteiligung in Klettwitz ist Schwans kommunale Partizipationsidee im Energiesektor.
