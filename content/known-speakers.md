@@ -407,3 +407,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Zhao Tingyang
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Zhao Tingyang]]
+
+## Morpheus (Cedric Mössner)
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Morpheus]]

@@ -245,3 +245,7 @@ Mu als wechselseitige Abhängigkeit ist die Mahāyāna-Entsprechung zu Anattā: 
 
 ### → [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
 Gabriel entwickelt über Mu (無) eine fast deckungsgleiche Diagnose: Westliches Denken ist substanzfixiert, während Mu — wie Zhaos Verb-Denken — Relationen und Prozesse als primär setzt. Gabriels Schlüsselsatz „KI ist nicht im Gerät, sondern im Resonanzfeld" ist eine angewandte Verb-Ontologie. Gleichzeitig zeigt sich ein produktiver Widerspruch: Gabriel operiert weiterhin mit Hegelscher Begrifflichkeit — also mit einer hochentwickelten *Nomen*-Logik, die Bewegung nur dialektisch denkt. Zhao würde fragen: Ist Hegels Werden schon Verb-Denken, oder noch Übersetzung ins Nomen?
+
+### → [[Morpheus — Warum alle chinesische KI nutzen]]
+
+Gabriel argumentiert, KI sei nicht im Gerät, sondern im Resonanzfeld zwischen Nutzer und System. Morpheus' Bias-Tests konkretisieren das: Wenn das Resonanzfeld eines chinesischen Modells bei "Tiananmen" systematisch bricht, ist nicht nur das Modell betroffen — sondern das Denken desjenigen, der sich auf es einlässt. Gabriels philosophische These wird zur politischen Konsequenz.

@@ -202,3 +202,7 @@ Die Gegenseite zu Beneckes Daten: 19 Städte senken Luftverschmutzung um 20 %+, 
 ### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
 
 Die PhoenixRunde benennt Seltene Erden als Chinas stärkste Waffe — diese Note erklärt den industriepolitischen Unterbau: Jahrzehnte Fünfjahresplan-Strategie in grüner Technologie. Instrument und Entstehungsgeschichte zusammen.
+
+### → [[Morpheus — Warum alle chinesische KI nutzen]]
+
+Morpheus' erste Subventionsebene — Industriestrom 50% günstiger als in der EU — hat ihre Vorgeschichte in Chinas grüner Industriestrategie. Die Preiswaffe bei KI-Tokens ist das ökonomische Ergebnis der Energiewende, die Meyer und Hegenberg analysieren.
