@@ -159,3 +159,7 @@ Die Rentenreform, die Merz beim DGB ankündigte, ist Teil des in der Panorama-No
 
 Der NANO Talk liefert die theoretische Rahmung zur Merz-Debatte: Nicht zu wenig, sondern falsch arbeiten. Schaupp und Redecker zeigen, warum "mehr Arbeit" empirisch und historisch gescheitert ist, bevor die Politik es fordert.
 
+### → [[Gedankenwelten/Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit — Demokratie tiefer als das Wählen]]
+
+Der 8-Stunden-Tag als Anker: was erkämpft wurde, ist nicht vom Himmel gefallen — und kann wieder abgeschafft werden. Die Demokratie als Gewebe, das man nicht stückweise zerstören kann, ohne das Ganze zu gefährden.
+

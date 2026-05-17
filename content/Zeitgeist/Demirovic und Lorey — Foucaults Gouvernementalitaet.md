@@ -198,3 +198,6 @@ Foucault saß buchstäblich in der zweiten Reihe am Tunix-Kongress 1978 — dem 
 ### → [[Julie Pagis — Psychologie der charismatischen Kontrolle]]
 
 Pagis' Fall zeigt Foucaults Selbstregierung im Extrem: Die maoistische Selbstkritik als Instrument, durch das die Gruppenmitglieder Fernandos Bewertungsmaßstäbe so vollständig internalisierten, dass sie sich gegenseitig überwachten. Foucaults Theorie als erschreckender Praxisfall.
+
+### → [[Gedankenwelten/Panorama/Politik - Verstehen|Panorama — Politik verstehen]]
+Gouvernementalität als Mechanik hinter politischer Macht: Macht ohne Verbot, Freiheit als Regierungsinstrument — die strukturelle Erklärung dafür, warum Bürger still bleiben ohne Zwang.
