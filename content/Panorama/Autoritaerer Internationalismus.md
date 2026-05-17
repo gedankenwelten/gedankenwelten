@@ -255,4 +255,5 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[S.N. Goenka — Vipassana]] | Resilienz · Sankhāra/Vedanā |
 | [[Matthieu Ricard — Altruismus als Vernunft]] | Resilienz · Trainierbares Mitgefühl |
 | [[Yanis Varoufakis — Trump Has Lost Everything]] | Empirie · Faschismus-Sequenz |
+| [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]] | Ursache · 2008 als ökonomischer Nährboden des Autoritarismus |
 | [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]] | Gegentheorie · Tianxia als systemische Antwort auf Westfalia |

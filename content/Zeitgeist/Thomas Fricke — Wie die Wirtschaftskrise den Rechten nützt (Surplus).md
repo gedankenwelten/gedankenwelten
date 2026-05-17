@@ -137,6 +137,10 @@ Konkrete Ansätze:
 
 Direkteste Parallele: Flassbeck analysiert ebenfalls die wirtschaftlichen Ursachen des Rechtsrucks. Beide teilen die Kritik am Marktliberalismus; Flassbeck legt Schwerpunkt auf Lohnpolitik und Handelsungleichgewichte, Fricke auf Kontrollverlust und Austerität
 
+### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+
+Varoufakis stellt dieselbe Grundthese auf — 2008 als Mutterkrise des Rechtspopulismus — und kommt aus der politökonomischen Richtung zum selben Befund: Wer Bailout-Kosten sozialisiert, zerstört die Legitimation der liberalen Mitte. Frickes Kontrollverlust-These und Varoufakis' EU-Strukturkritik ergänzen einander.
+
 ### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 
 Manow analysiert die Wahlentscheidung, Fricke liefert die psychologisch-ökonomische Erklärung dahinter: Wer wählt aus welchem Erleben heraus Populisten?

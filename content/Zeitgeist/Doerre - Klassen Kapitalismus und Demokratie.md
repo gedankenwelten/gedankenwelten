@@ -227,6 +227,9 @@ Flassbeck und Dörre diagnostizieren beide die Verbindung von wirtschaftlicher K
 ### → [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 Butterwegge konzentriert sich auf Armutsforschung und soziale Ungleichheit; Dörre ergänzt die Klassenperspektive mit Betriebsebene und Kapitalismuskritik. Dörres „untere Klasse" und Butterwegges Armutsanalyse beschreiben dasselbe Phänomen aus verschiedenen analytischen Winkeln.
 
+### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+Produktiver konzeptueller Widerspruch: Beide sehen in 2008 den Wendepunkt zum autoritären Kapitalismus — Dörre verortet den Motor in der Klassenstruktur, Varoufakis im Designfehler der Eurozone. Dörres "Faschismus wächst in der Demokratie" trifft auf Varoufakis' "Bankenbailout als crime against Europe" — strukturell dieselbe Diagnose, analytisch verschiedene Achsen.
+
 ### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 Kemper analysiert Faschismus als strukturelles Phänomen moderner Gesellschaften — Dörres These, Faschismus sei in liberalen Demokratien angelegt und wachse von innen, schließt direkt an Kempers Analyse an.
 
