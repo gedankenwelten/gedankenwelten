@@ -385,3 +385,4 @@ Das gleiche Reframing-Werkzeug, das gegen das SIO eingesetzt wurde, wird jetzt g
 - [[Gedankenwelten/Denker/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] — Carbon erklärt kognitiv, wie Wahrnehmung konstruiert wird; DiResta zeigt, wie Propagandisten diese Konstruktion systematisch ausnutzen
 - [[Gedankenwelten/Zeitgeist/ARTE — Forschung Fake und faule Tricks]] — Wie Industrien Zweifel säen (Agnotologie); DiResta: Influencer-Crowds tun dasselbe dezentralisiert — strukturell verwandt
 - [[Gedankenwelten/Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien]] — Rechte Milliardäre kaufen Medienkanäle (sichtbar) + Influencer-Netzwerke (unsichtbar) + Regierungsbeamte nutzen Crowd-Rumors als Policy-Grundlage (2025) — drei Schichten desselben Systems
+- [[Gedankenwelten/Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — Bernays' Prinzip (Gruppenidentität als Hebel) und algorithmische Verstärkung: wie politische Narrative heute gebaut werden

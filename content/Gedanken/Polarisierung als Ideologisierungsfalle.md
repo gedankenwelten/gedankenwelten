@@ -88,3 +88,6 @@ Mausfeld: Polarisierung ist kein Zufall, sondern wird durch Meinungskorridore ak
 
 ### → [[Vipassana/Vipassana — Zehn Tage]]
 Reaktivität als persönliches wie gesellschaftliches Problem. Die Praxis der Beobachtung ohne Reaktion ist das Gegenmittel — auf der individuellen Ebene.
+
+### → [[Gedankenwelten/Gedanken/Die Wurzel verstehen - Politik jenseits des Konsums|Die Wurzel verstehen — Politik jenseits des Konsums]]
+Fortsetzung: Wenn Überzeugung zur Identität wird, ist man nicht mehr Bürger, sondern Untertan. Die Wurzel-Note fragt, wie man aus diesem Modus herauskommt.
