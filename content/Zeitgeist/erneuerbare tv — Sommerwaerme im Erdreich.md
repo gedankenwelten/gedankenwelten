@@ -213,6 +213,10 @@ Goldbach sieht Batteriespeicher als unterschätzte Infrastruktur. Kupferzell zei
 
 Zöckler argumentiert für dezentrale Energiewertschöpfung als demokratisches Projekt. Kupferzell ist der industrielle Zwilling: nicht Bürger, sondern ein Unternehmen als autonomer Energieproduzent — mit denselben strukturellen Konsequenzen: Unabhängigkeit vom Energiemarkt, lokale Wertschöpfung, kein Kapitalabfluss zu Energiekonzernen.
 
+### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+
+Kupferzell und Burgbernheim — zwei Metallverarbeitungsbetriebe, zwei gegensätzliche Ausgänge. MEFA hat sich vollständig unabhängig gemacht, Thomas Reisges steckt in der Netzsackgasse. Der Vergleich stellt eine Frage, die beide Notes nicht beantworten: Was ist der entscheidende Unterschied?
+
 ### → [[Gedankenwelten/Panorama/Energie]]
 
 Kupferzell ist ein konkreter Beweis für die Kernthese des Panoramas: Die Lösungen existieren, die Blockade ist politisch. Während Berlin über Gaskraftwerke debattiert, zahlt ein Mittelständler in Baden-Württemberg 2,5 ct/kWh — ein Drittel des Marktpreises.

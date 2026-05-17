@@ -152,3 +152,7 @@ Spechts "Primärenergieirrtum" ist die systemische Erklärung für Akkudoktors "
 ### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
 
 Wo Akkudoktor die Statistik-Falle entlarvt, zeigt die V2G-Note die regulatorische Falle: Beide Mechanismen machen funktionierende Energielösungen unsichtbar — einer durch Zahlen, einer durch Steuern. Das Ergebnis ist dasselbe: Technologien, die die Energiewende beschleunigen könnten, werden ausgebremst.
+
+### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+
+Die Altmaier-Delle hat den PV-Ausbau politisch verlangsamt — die Kontrovers-Note zeigt die nachgelagerte Konsequenz: Betriebe, die jetzt investieren, treffen auf eine Netzinfrastruktur, die nie für dieses Ausmaß ausgelegt wurde. Erst wird ausgebremst, dann fehlt die Infrastruktur.
