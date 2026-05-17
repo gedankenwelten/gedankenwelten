@@ -318,3 +318,7 @@ Flassbeck erklärt den ökonomischen Mechanismus hinter dem Exportmodell: Leistu
 ### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
 
 Krastev beschreibt den Braindrain aus Osteuropa als Kernwunde der Ost-West-Enttäuschung — Flassbeck liefert den ökonomischen Mechanismus: EU-Austerität und Lohngefälle als Treiber der Emigration, die Krastev als politisches Trauma beschreibt.
+
+### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+
+Varoufakis liefert die Krisendramatik (Bankenbailout, 91% zu deutschen/französischen Banken, OXI-Referendum), Flassbeck die buchhalterische Mechanik (Lohnkosten-Dumping als primärer Regelverstoß). Zusammen ergeben sie die vollständige EU-Krisenerzählung.

@@ -152,6 +152,10 @@ Fricke zeigt, wie Austeritätspolitik den Rechtsruck befeuert; Mattei liefert di
 
 Redecker analysiert den „Drang nach Härte" als Phantombesitz; Mattei zeigt den ökonomischen Unterbau: Austerität diszipliniert die Bevölkerung, damit die Kapitalordnung stabil bleibt
 
+### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+
+Varoufakis nennt die Griechenland-Krise einen "Bankenbailout through the back door". Mattei liefert die historische Dimension: Austerität war nie eine Notmaßnahme, sondern das strukturelle Werkzeug zur Wiederherstellung der Klassenverhältnisse — Varoufakis' "crime against Europe" erhält dadurch eine dunklere Dimension: vielleicht kein Irrtum, sondern ein Feature.
+
 ### → [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 
 Matteis These der liberalen-faschistischen Konvergenz ergänzt Redeckers Analyse des Technofaschismus: beide zeigen, wie Faschismus und Liberalismus ökonomisch konvergieren
