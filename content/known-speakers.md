@@ -90,6 +90,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Claus-Christian Carbon
 **Status:** Stub
 
+## Klaus Dörre
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Klaus Doerre]]
+
 ## Konfuzius
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Konfuzius]]
 

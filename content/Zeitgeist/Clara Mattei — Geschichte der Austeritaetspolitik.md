@@ -239,3 +239,6 @@ Mattei liefert die empirische Anatomie für Karatnais strukturelle These: Kapita
 ### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
 Matteis Austeritätspolitik als Arbeitsdisziplinierung verbindet sich mit Schaupps "halbe Demokratie"-Kritik: Wir wählen Regierungen, nicht Arbeitsbedingungen — und das ist kein Versehen, sondern historisch konstruiert.
+### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+
+Dörres Begriff des autoritären Liberalismus (Heller 1932) ist das theoretische Pendant zu Matteis empirischer Austeritätsgeschichte: Mattei zeigt, wie liberale Regierungen den Faschismus begrüßten, um die Arbeiterklasse zu disziplinieren — Dörre zeigt, dass diese Konfiguration (Freiheit für Kapital + Repression der Folgen) strukturell wiederkehrt, nicht historische Ausnahme ist.
