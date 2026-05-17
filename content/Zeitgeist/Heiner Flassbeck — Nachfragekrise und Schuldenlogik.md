@@ -132,3 +132,7 @@ Linartas zeigt die Vermögensseite der Ungleichheit, Flassbeck die Einkommenssei
 ### → [[Heiner Flassbeck — Die Wahrheit ueber Staatsschulden]]
 
 Schwester-Video mit Fokus auf den Zinskreislauf: Staatsschulden als notwendiger Gegenpol zum privaten Sparen, wenn Unternehmen nicht mehr investieren.
+
+### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+
+Direkteste Parallelanalyse zur Iran-Stagflationswelle: Varoufakis prognostiziert 2026 eine stagflationary wave durch den Iran-Krieg; Flassbeck analysiert denselben Mechanismus buchhalterisch — steigende Energiepreise als Nachfrageentzug. Beide warnen vor prozyklischen Zinserhöhungen der EZB auf einen Energiepreisschock.

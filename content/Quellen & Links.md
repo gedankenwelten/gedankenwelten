@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Yanis Varoufakis — 2008 Crash, Populismus und Europa
+
+| | |
+|---|---|
+| **Vortrag / Video** | [From the 2008 Crash to the Rise of Populism (Russ Politics)](https://www.youtube.com/watch?v=QEgpcMSf56g) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Varoufakis_2008Crash_Transkript.txt` |
+
 ## Klaus Dörre — Klassen, Kapitalismus & Demokratie
 
 | | |
