@@ -210,3 +210,7 @@ Sterner analysiert das StromVKG im Detail: drei Paragraphen, die Batteriespeiche
 ### → [[Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
 
 Sterner liefert den wissenschaftlichen Faktencheck zu Söders Position — die der Presseclub aus journalistischer Metaperspektive debattiert. Die Netzpaket-Kritik und der Batteriespeicher-Streit werden hier mit Studienlage und Bayern-Ranking belegt.
+
+### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+
+Die ~580 Mio. Euro Entschädigungen für abgeregelte Anlagen aus dem Bericht sind ein konkreter Datenpunkt im größeren Redispatch-Kostenbild (bis zu 3 Mrd. € jährlich). Beide Notes zeigen: Die Kosten landen beim Bürger.

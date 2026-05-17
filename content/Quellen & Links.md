@@ -2582,3 +2582,11 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [Jens Spahns Maskendeal: Spendendinner und ein millionenschwerer Auftrag | SPIEGEL TV](https://www.youtube.com/watch?v=SgTmJFlZyqw) |
 | **Notiz** | [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner]] |
 | **Transkript** | `Gedankenwelten/Transkripte/SpiegelTV_Spahn_Maskendeal_Transkript.txt` |
+
+## BR24 Kontrovers — Energiewende Solarabschaltung Mittelstand
+
+| | |
+|---|---|
+| **Bericht / Video** | [Energiewende mit Tücken: Versorger stellt Unternehmen den Strom ab](https://www.youtube.com/watch?v=g8j017ZKTPw) |
+| **Notiz** | [[Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kontrovers_Energiewende_Transkript.txt` |

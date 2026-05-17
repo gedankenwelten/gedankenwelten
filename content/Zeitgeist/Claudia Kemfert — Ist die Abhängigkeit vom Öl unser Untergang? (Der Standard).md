@@ -311,3 +311,7 @@ Benecke zeigt forensisch, was Kemfert ökonomisch analysiert: Die CO₂-Vorhersa
 ### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
 
 V2G verlängert Kemferts These vom E-Auto als Ausstiegstechnologie: Nicht nur kein fossiler Kraftstoff, sondern das E-Auto als aktiver Netzpuffer — der Wagen, der nicht nur fährt, sondern die Energiewende mitträgt. Die Doppelbesteuerung in Deutschland blockiert genau diesen nächsten Schritt.
+
+### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+
+Kemferts „Fossilokratie" zeigt sich hier in einer neuen Variante: nicht durch direkte Ablehnung von Erneuerbaren, sondern durch regulatorisches Unterlassen. Ein Unternehmer investiert in Solarenergie — und wird durch Netzversagen daran gehindert, sie zu nutzen.
