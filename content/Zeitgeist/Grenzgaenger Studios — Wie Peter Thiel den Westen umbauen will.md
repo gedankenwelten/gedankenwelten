@@ -231,3 +231,14 @@ Homm verwendet „MK Ultra" als Deutungsfolie für seine eigene Elite-Formierung
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
 Varoufakis erklärt systemisch, was Grenzgänger Studios an Thiel exemplifiziert: Cloud Capital — finanziert durch QE nach 2008 — ersetzt Märkte durch feudale Plattformen. Thiel ist der paradigmatische Cloud-Feudalherr in Varoufakis' Analyse: Palantir produziert keine Waren, sondern schöpft Tribut ab.
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Chaudhry und Hübsch beschreiben Thiel als Architekten einer kohärenten Strategie — aber was, wenn er weniger bewusster Planer ist als Symptom? Wenn dasselbe System dieselben Strukturen ohne Thiel produzieren würde — ändert das die Diagnose, oder nur die Erzählung?
+> - Die These: Social Media ist MK Ultra in reduzierter Form. MK Ultra scheiterte — war das System zu direkt, zu brutal, zu sichtbar? Was macht algorithmische Verhaltenssteuerung strukturell stabiler — und was könnte sie ähnlich scheitern lassen?
+> - Thiel sagt: „Freedom and democracy are not compatible." Wenn er damit recht hat, dass realer Kapitalismus und liberale Demokratie in fundamentaler Spannung geraten — ist die Antwort mehr Demokratie oder weniger Kapitalismus? Oder verkennt die Frage selbst schon etwas?
+> - Die Grenzgänger-Analyse ist stark in Biographie und Ideologie. Aber: Wem nützt es, Thiel als singuläres Genie des Bösen zu erzählen? Gibt es strukturelle Kräfte — [[Yanis Varoufakis — Technofeudalism|Cloud Capital]], Rentensysteme, Quantitative Easing — die keine einzelne Figur brauchen?
+> - Wenn Thiel morgen verschwände — welche Strukturen blieben? Und welche Strukturen *brauchen* eine Thiel-Figur, um zu funktionieren?

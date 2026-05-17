@@ -5,6 +5,26 @@ tags:
   - quellen
   - links
 ---
+## PhoenixRunde — Machtpoker in Peking: Trump trifft Xi
+
+| | |
+|---|---|
+| **Sendung** | [phoenixRunde — Machtpoker in Peking: Trump trifft Xi](https://www.youtube.com/live/phyiRABRDmM) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]] |
+| **Transkript** | `Gedankenwelten/Transkripte/PhoenixRunde_Trump_Xi_Transkript.txt` |
+
+## B.R. Ambedkar — Kaste als Ontologie
+
+| | |
+|---|---|
+| **Vortrag A** | [Ananya Vajpeyi — Life of the Mind & Life in Politics (Library of Congress)](https://www.youtube.com/watch?v=imzO0eNziD4) |
+| **Vortrag B** | [Arundhati Roy — The Doctor and the Saint](https://www.youtube.com/watch?v=CrN8PgZzc6k) |
+| **Vortrag C** | [Suraj Yengde — Dalitality in Du Bois and Ambedkar (Harvard)](https://www.youtube.com/watch?v=kzHmvSrbSm0) |
+| **Notiz** | [[Gedankenwelten/Denker/Ambedkar - Kaste als Ontologie]] |
+| **Transkript A** | `Gedankenwelten/Transkripte/Vajpeyi_Ambedkar_LoC_Transkript.txt` |
+| **Transkript B** | `Gedankenwelten/Transkripte/Roy_Doctor_Saint_Transkript.txt` |
+| **Transkript C** | `Gedankenwelten/Transkripte/Yengde_DuBois_Ambedkar_Transkript.txt` |
+
 ## Zhao Tingyang — Verbales Denken und Neo-Aufklärung
 
 | | |

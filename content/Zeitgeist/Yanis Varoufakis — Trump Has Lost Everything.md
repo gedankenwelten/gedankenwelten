@@ -212,3 +212,7 @@ Manow erklärt empirisch, was Varoufakis historisch herleitet: Warum Wähler aut
 
 Redeckers Phantombesitz-Konzept (Machtansprüche, die sich durch vermeintliche Eigentumsverhältnisse legitimieren) trifft auf Varoufakis' Beobachtung, dass Faschisten sich heute mit Big Business verbünden. Beide analysieren denselben neuen Faschismus — Redecker philosophisch über Eigentum und Gewalt, Varoufakis ökonomisch über die Stufen der Machtergreifung. Redeckers „Phantombesitz" erklärt, *warum* Tech-Oligarchen sich als Eigentümer des Gemeinwesens verstehen.
 
+
+### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+
+Konvergierende Diagnose: Die PhoenixRunde zeigt, wie Chinas Kalkül genau auf Trumps Schwäche durch den Irankrieg setzt — dasselbe, was Varoufakis als „Trump has lost everything" analysiert. Xi wartet gelassen ab, während die MAGA-Basis erodiert.

@@ -141,6 +141,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Francesca Bria
 **Status:** Stub
 
+## Frank Sieren
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Frank Sieren]]
+
 ## Franz Kafka
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Franz Kafka]]
 

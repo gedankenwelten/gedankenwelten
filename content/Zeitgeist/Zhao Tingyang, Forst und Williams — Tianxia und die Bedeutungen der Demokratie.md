@@ -226,3 +226,7 @@ Zhaos These, dass das westfälische Nationalstaatensystem keine negativen Extern
 
 ### → [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
 Dieser Vortrag zeigt Zhao in einem anderen Modus: nicht als Weltordnungstheoretiker, sondern als Sprachphilosoph. Verb-Denken und Tianxia hängen tief zusammen — wer ontologisch von Koexistenz ausgeht (Tianxia), braucht eine Philosophie des Werdens und der Relation, nicht des Seins und der Substanz. Das Verb-Denken ist das erkenntnistheoretische Fundament, auf dem Tianxia als politische Theorie steht.
+
+### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+
+Xis Schweigen und Geduld im Gipfel ist Tianxia in Aktion: keine kurzfristigen Konzessionen, nur das große Bild. Was die PhoenixRunde als Chinas „strategische Überlegenheit" beschreibt, ist in Zhaos Kategorien die Logik eines Systems, das Koexistenz als Grundzustand und Konfrontation als Ausnahme versteht.
