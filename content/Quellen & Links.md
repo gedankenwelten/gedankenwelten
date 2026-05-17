@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Morpheus — Whistleblower mundtot machen
+
+| | |
+|---|---|
+| **Video** | [Whistleblower MUNDTOT machen (powered by AI)](https://www.youtube.com/watch?v=Pre7Smb0cSc) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Morpheus_Whistleblower_Transkript.txt` |
+
 ## Chantal Mouffe — Das Politische und die Politik
 
 | | |

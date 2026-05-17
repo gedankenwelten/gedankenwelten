@@ -326,3 +326,4 @@ Mausfelds Thesen wurden von sehr unterschiedlichen Lagern vereinnahmt — darunt
 - Sophokles: *Antigone* — *deinon*, das Ungeheuerliche des Menschen
 - Humboldt: von endlichen Mitteln unendlichen Gebrauch machen
 - [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]] — Mausfeld beschreibt die Erzeugung von Ohnmacht durch Eliten; Quent untersucht die Reaktionen der Ohnmächtigen (Fromms vier Muster) und den Ausweg: „Hoffnung kommt vom Machen" — die Gegenposition zu Mausfelds „erst nach großen Blutspuren"
+- [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]] — Objection.ai als technologischer Skalierungssprung von Mausfelds Chilling-Effect-Analyse: Der Honor Index ist gesteuerte Apathie als industrielles Produkt — algorithmische Einschüchterung statt teure Einzelklage

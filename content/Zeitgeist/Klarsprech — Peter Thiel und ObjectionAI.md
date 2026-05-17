@@ -177,6 +177,10 @@ Osnos liefert die psychologische Innenperspektive der Klasse, zu der Thiel gehö
 
 Mühlhoffs Konzept der „Desouveränisierung" — die Entmachtung demokratischer Souveränität durch KI-Systeme — trifft auf ObjectionAI als konkretes Produkt. Was Mühlhoff theoretisch beschreibt, hat Thiel gebaut: ein KI-System, das über Wahrheit richtet und nur Vermögenden zugänglich ist.
 
+### → [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]]
+
+Morpheus' empirischer Gegenbeweis: Er baut Objection.ai selbst nach (370 API-Calls), zeigt dass das Tribunal nicht Wahrheit sucht, sondern auf Anfrage produziert — 2.407 "verläumderische" Phrasen in 100 normalen Tech-Artikeln. Klarsprech kartiert die Machtdimensionen; Morpheus demontiert die technische Fassade dahinter.
+
 ### → [[Autoritaerer Internationalismus]]
 
 Thiel ist ein Schlüsselakteur im autoritären Internationalismus: CPAC-Netzwerk, Heritage Foundation, Vance als politischer Arm, Palantir als technologische Infrastruktur. Dieses Video dokumentiert den Einzelakteur; das Panorama ordnet ihn in das globale Netzwerk ein.
