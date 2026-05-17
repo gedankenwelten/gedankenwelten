@@ -214,3 +214,7 @@ Amiri konkretisiert die Hormus-Analyse mit Zahlen aus iranischer Perspektive: 5.
 ### → [[Koschi Politik — TACO Tuesday, Operation Freedom abgesagt]]
 
 Operation Freedom als innenpolitische Farce: Trump unterminiert am selben Tag seine eigene Hormus-Operation. Der Bundestalk analysierte die geopolitische Zäsur — Koschi zeigt die operative Dysfunktionalität dahinter.
+
+### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+
+Der Bundestalk analysiert die Hormuz-Blockade als geopolitische Zäsur — die PhoenixRunde zeigt, wie genau diese Blockade Chinas Machtinstrument (Seltene Erden, Eisenbahnroute) und Trumps Schwäche im Xi-Gipfel bedingt. Mikro-Ökonomie und Makro-Geopolitik desselben Konflikts.

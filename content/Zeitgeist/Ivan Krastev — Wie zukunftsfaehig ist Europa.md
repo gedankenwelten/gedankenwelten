@@ -285,3 +285,7 @@ Flassbeck erklärt den Braindrain aus Osteuropa als wirtschaftspolitische Konseq
 > - Krastev analysiert Populismus als Rebellion gegen erzwungene Imitation. Aber was kommt nach der Rebellion? Gibt es eine konstruktive illiberale Alternative — oder ist Populismus strukturell nur negativ (Nein sagen), ohne eigene Zukunftsvision?
 > - Die Reich-Ranicki-Geschichte am Schluss: Ist das eine Methode — sich auf das Kleinere, Fertigbare zu konzentrieren, wenn das Große überwältigend wird? Oder ist das eine Form der Kapitulation?
 > - Wenn Putin tatsächlich der *Vater der neuen ukrainischen Identität* ist — was sagt das über die Fähigkeit politischer Akteure, bewusst Identitäten zu schaffen, im Unterschied zu unbewussten Reaktionen?
+
+### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+
+Die PhoenixRunde zeigt den Zeithorizontkonflikt live: Trump als kurzfristiger Dealmaker gegen Xi, der in Dekaden denkt. Krastevs Analyse — wer in Wahlzyklen denkt, verliert gegen Systeme die in Generationen planen — bekommt im Trump-Xi-Gipfel sein konkretes Bild.

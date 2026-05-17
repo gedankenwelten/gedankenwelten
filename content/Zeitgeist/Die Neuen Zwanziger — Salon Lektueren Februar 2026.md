@@ -144,3 +144,7 @@ zeigt methodisch, was die Note fordert: Geopolitische Interessen sind eigenstän
 ### → [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 Spiegelargument: Während Herrmann Russland/China Ablenkungskriege unterstellt, zeigt Fricke, dass *westliche* Austeritätspolitik die Bedingungen für Autoritarismus schafft
+
+### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+
+Die PhoenixRunde aktualisiert das Taiwan-Kapitel: Trump als erstes macht Waffenlieferungen nach Taiwan zur Verhandlungsmasse. Was im Salon-Lektüren-Gespräch als theoretische Frage stand, ist jetzt geopolitische Realität.

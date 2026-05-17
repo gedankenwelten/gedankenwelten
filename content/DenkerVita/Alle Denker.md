@@ -229,6 +229,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 - [[Gedankenwelten/DenkerVita/Arne Semsrott|Arne Semsrott]] — Journalist, Aktivist, Projektleiter FragDenStaat; Pressefreiheit, Informationsfreiheit, Anti-Rechtsextremismus
 - [[Gedankenwelten/DenkerVita/Arthur Schopenhauer|Arthur Schopenhauer]] — Philosoph; Blinder Wille zum Leben, sechsfaches Leiden, Mitleid als Moralbasis
 - [[Gedankenwelten/DenkerVita/Christian Jakob|Christian Jakob]] — Journalist taz; Migrationsframing als Rechtsverschiebung, Kulturkampf in Ministerien, Zivilgesellschaft
+- [[Gedankenwelten/DenkerVita/Frank Sieren|Frank Sieren]] — Journalist, China-Experte; 32 Jahre Peking, liberale Globalisierung als Mittel (nicht Zweck), Chinas strategische Klarheit
 - [[Gedankenwelten/DenkerVita/Franz Kafka|Franz Kafka]] — Schriftsteller; Existenzielle Angewiesenheit, Totsagen als sozialer Tod, Seinszuspruch
 - [[Gedankenwelten/DenkerVita/Maja Goepel|Maja Göpel]] — Politische Ökonomin; Systemwandel, planetare Grenzen, Narrative des Wandels, Scientists for Future
 - [[Gedankenwelten/DenkerVita/Marie-Agnes Strack-Zimmermann|Marie-Agnes Strack-Zimmermann]] — FDP-Politikerin, MdEP; Europäische Verteidigungsautonomie, panneuropäische Allianzbildung
