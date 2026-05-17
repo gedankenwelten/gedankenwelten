@@ -174,3 +174,7 @@ Mau sieht den entscheidenden Unterschied: Brandt operierte vor dem Hintergrund e
 
 ### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Empirischer Beleg für die Polarisierungsunternehmer-These: NiUS transformiert ein harmloses Buffet in einen "Islam-Triggerpunkt" — die Arena Innen/Außen wird gezielt aktiviert, indem Reichelt aus einer Kantineneröffnung die "Vollendung der deutschen Unterwerfung unter den Islam" konstruiert.
+
+### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+
+Dörres VW-Forschung liefert die Betriebsebene zu Maus demobilisierter Klassengesellschaft: Selbst im am besten organisierten Unternehmen Europas wird ein schlechter Kompromiss akzeptiert. Outlaw-Stolz (Dörre/Hochschild) und Maus Triggerpunkte-Modell beschreiben denselben emotionalen Mechanismus aus verschiedenen Perspektiven — das Nicht-gesehen-Werden als Grundierung des Rechtsrucks.
