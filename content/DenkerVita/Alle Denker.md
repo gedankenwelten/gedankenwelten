@@ -45,6 +45,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/David Chalmers|David Chalmers]]** — Philosoph des Geistes; Hard Problem of Consciousness, Panpsychismus, Extended Mind
 
+**[[Gedankenwelten/DenkerVita/Klaus Doerre|Klaus Dörre]]** — Industriesoziologe, Professor Jena (2005–2025); Kapitalistische Landnahme, Prekarisierung, Konfliktpartnerschaft, arbeitende Klassen; Mitbegründer DFG-Kollegforschungsgruppe „Postwachstumsgesellschaften" mit Hartmut Rosa; Klassenkritik aus Betriebsrealität
+
 **[[Gedankenwelten/DenkerVita/Dirk Specht|Dirk Specht]]** — Unternehmer, Dozent; Merit Order, Batteriespeicher, Dekarbonisierungsstrategien, Datenjournalismus vs. Lobbying
 
 **[[Gedankenwelten/DenkerVita/Dirk von Petersdorff|Dirk von Petersdorff]]** — Literaturwissenschaftler, Lyriker; Freiheitsgewinn durch Wahrheitsverlust, Ironie, Leichtigkeit als historisches Lebensgefühl der 70er-90er

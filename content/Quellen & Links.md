@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Klaus Dörre — Klassen, Kapitalismus & Demokratie
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Jung & Naiv, Folge 793 (YouTube)](https://www.youtube.com/watch?v=E0vTcXBKIFw) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Doerre_Klassen_Kapitalismus_Transkript.txt` |
+
 ## Morpheus — Whistleblower mundtot machen
 
 | | |
