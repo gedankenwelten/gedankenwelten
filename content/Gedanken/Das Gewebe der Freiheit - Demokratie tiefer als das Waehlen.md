@@ -114,6 +114,7 @@ Und dann vielleicht: *Was möchte ich weitergeben?*
 - [[Gedankenwelten/Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Steffen Mau — Triggerpunkte]] — warum Menschen, die am meisten verlieren würden, trotzdem für die Erosion stimmen: Statusangst
 - [[Gedankenwelten/Gedanken/Polarisierung als Ideologisierungsfalle|Polarisierung als Ideologisierungsfalle]] — der Mechanismus, der das Gewebeverständnis verhindert: wenn Überzeugung zur Identität wird
 - [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]] — Crouchs Goldman-Sachs-Beispiel ist das Gewebe-Argument von der institutionellen Seite: Postdemokratie zieht Fäden heraus, die man nicht sieht — bis zum Systemversagen 2008
+- [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]] — Objection.ai als direkter Angriff auf das demokratische Gewebe: Wenn Pressefreiheit und Whistleblower-Schutz algorithmisch aushöhlbar werden, verliert Demokratie einen ihrer tragenden Fäden
 
 ---
 

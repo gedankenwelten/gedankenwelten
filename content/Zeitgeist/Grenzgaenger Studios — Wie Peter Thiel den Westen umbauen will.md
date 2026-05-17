@@ -232,6 +232,10 @@ Homm verwendet „MK Ultra" als Deutungsfolie für seine eigene Elite-Formierung
 
 Varoufakis erklärt systemisch, was Grenzgänger Studios an Thiel exemplifiziert: Cloud Capital — finanziert durch QE nach 2008 — ersetzt Märkte durch feudale Plattformen. Thiel ist der paradigmatische Cloud-Feudalherr in Varoufakis' Analyse: Palantir produziert keine Waren, sondern schöpft Tribut ab.
 
+### → [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]]
+
+Morpheus analysiert Objection.ai als Endprodukt der Network-State-Logik: private Schiedsgerichtsbarkeit für Wahrheit, skaliert mit KI. Die Balaji-Srinivasan-Verbindung ist direkt — der Network-State-Denker investiert in das Instrument, das seine These praktisch umsetzt.
+
 ---
 
 ## Weiterdenken
