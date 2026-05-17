@@ -83,7 +83,7 @@ Das ist keine Kritik. Das ist die Struktur.
 
 ## Das Auenland und sein dunkler Unterton
 
-Ich lebe in Freiburg. Eine kleine Oase — Wirtschaftskraft, akademische Vielfalt, überwiegend friedliches Zusammenleben. Ein bisschen wie das Auenland in Tolkiens Welt.
+Vielleicht kennst du so einen Ort. Eine kleine Oase — ruhig, divers, überwiegend friedlich. Ein bisschen wie das Auenland in Tolkiens Welt.
 
 Aber Tolkien gibt uns auch den dunklen Unterton mit: Die Hobbits leben in Frieden, weil andere an den Rändern kämpfen. Der Shire ist schützenswert. Aber er überlebt nicht allein.
 
@@ -113,6 +113,7 @@ Und dann vielleicht: *Was möchte ich weitergeben?*
 - [[Gedankenwelten/Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche|Der Dara — Merz 72-Stunden-Arbeitswoche]] — der konkrete Anlass: der 8-Stunden-Tag als erkämpfte, nicht natürliche Errungenschaft
 - [[Gedankenwelten/Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Steffen Mau — Triggerpunkte]] — warum Menschen, die am meisten verlieren würden, trotzdem für die Erosion stimmen: Statusangst
 - [[Gedankenwelten/Gedanken/Polarisierung als Ideologisierungsfalle|Polarisierung als Ideologisierungsfalle]] — der Mechanismus, der das Gewebeverständnis verhindert: wenn Überzeugung zur Identität wird
+- [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]] — Crouchs Goldman-Sachs-Beispiel ist das Gewebe-Argument von der institutionellen Seite: Postdemokratie zieht Fäden heraus, die man nicht sieht — bis zum Systemversagen 2008
 
 ---
 

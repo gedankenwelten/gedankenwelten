@@ -91,3 +91,6 @@ Reaktivität als persönliches wie gesellschaftliches Problem. Die Praxis der Be
 
 ### → [[Gedankenwelten/Gedanken/Die Wurzel verstehen - Politik jenseits des Konsums|Die Wurzel verstehen — Politik jenseits des Konsums]]
 Fortsetzung: Wenn Überzeugung zur Identität wird, ist man nicht mehr Bürger, sondern Untertan. Die Wurzel-Note fragt, wie man aus diesem Modus herauskommt.
+
+### → [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]]
+Mouffe bietet den theoretischen Rahmen für die Ideologisierungsfalle: Wenn echter politischer Streit aus dem Zentrum verdrängt wird, sucht sich der Antagonismus perifere, unkontrollierbare Wege. Polarisierung als Identitätsfalle ist die Bürger-Perspektive auf das, was Mouffe strukturell diagnostiziert.

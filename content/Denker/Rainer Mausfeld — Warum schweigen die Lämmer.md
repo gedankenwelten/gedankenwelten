@@ -243,6 +243,8 @@ Mausfelds Thesen wurden von sehr unterschiedlichen Lagern vereinnahmt — darunt
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Zupančičs Verleugnen als philosophische Mikro-Analyse von Mausfelds demokratischer Selbsttäuschung
 - [[Walther Ziegler — Adorno in 60 Minuten]] — Adornos Kulturindustrie und Verblendungszusammenhang liefern das theoretische Fundament; Mausfeld zeigt die Perfektionierung
 - [[Walther Ziegler — Platon in 60 Minuten]] — Platons Höhlengleichnis als älteste Beschreibung der Manipulationsthese: Die Gefangenen verteidigen die Schatten gegen die Befreiten
+- [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]] — Mouffe erklärt, warum die "schweigenden Lämmer" keine pathologische Ausnahme sind, sondern das Produkt eines Systems, das echten Antagonismus systematisch aus der Politik verbannt — Mausfeld zeigt die Technik der Unterdrückung, Mouffe die strukturelle Leerstelle
+- [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]] — Crouchs Revolving-Door-Analyse (Goldman Sachs → Treasury) ist das institutionelle Gegenstück zu Mausfelds Meinungskorridor: Beide beschreiben Mechanismen, durch die Eliten-Interessen demokratische Kontrolle umgehen
 - [[Walther Ziegler — Heidegger in 60 Minuten]] — Heideggers Man-Analyse als philosophischer Unterbau für Mausfelds Medien- und Manipulationskritik
 - [[Walther Ziegler — Smith in 60 Minuten]] — Smiths Menschenbild des rationalen Egoisten als historischer Ausgangspunkt für die Naturalisierung von Herrschaft
 - [[Walther Ziegler — Rawls in 60 Minuten]] — Rawls liefert das Ideal (Schleier des Nichtwissens); Mausfeld erklärt, warum es in der Realität scheitert

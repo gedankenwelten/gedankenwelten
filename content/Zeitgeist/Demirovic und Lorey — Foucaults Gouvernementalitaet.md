@@ -174,6 +174,14 @@ Matteis These, dass Austerität gezielte Disziplinierung ist, ist Gouvernemental
 
 Mausfelds unsichtbare Machttechniken konkretisieren Foucaults Gouvernementalität für die Gegenwart: Die „Lämmer" sind die erfolgreich regierten Subjekte, die ihre Lenkung als eigene Überzeugung erleben
 
+### → [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]]
+
+Mouffe und Foucault sind komplementäre Kritiken des liberalen Konsens-Projekts: Foucault zeigt, wie neoliberale Gouvernementalität das Subjekt als unternehmerisches Selbst konstituiert; Mouffe zeigt, was dabei politisch verloren geht — der Antagonismus, der produktive Konflikt, das Politische selbst
+
+### → [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]]
+
+Crouchs Postdemokratie ist die institutionelle Seite des Gouvernementalitäts-Projekts: Foucaults "Freiheit als Köder" und Crouchs "neoliberale leere Hülle" beschreiben denselben Mechanismus — einmal als Subjektivierungsform, einmal als Systemdiagnose
+
 ### → [[Christoph Butterwegge — Armut NEU DENKEN]]
 
 Butterwegge dokumentiert empirisch, was Demirović/Lorey theoretisieren: Prekarisierung nicht als Politikversagen, sondern als neoliberaler Regierungsmodus
