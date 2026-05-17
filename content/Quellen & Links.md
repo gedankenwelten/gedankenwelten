@@ -5,6 +5,22 @@ tags:
   - quellen
   - links
 ---
+## Chantal Mouffe — Das Politische und die Politik
+
+| | |
+|---|---|
+| **Video** | [Über Chantal Mouffe — Das Politische und die Politik (Philosophische Praxis im Netz)](https://www.youtube.com/watch?v=xflMX2cKqf8) |
+| **Notiz** | [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Mouffe_Politische_Transkript.txt` |
+
+## Colin Crouch — Postdemokratie nach den Krisen
+
+| | |
+|---|---|
+| **Vortrag** | [Postdemokratie nach den Krisen — Prof. Colin Crouch — Ringvorlesung](https://www.youtube.com/watch?v=T9lir14D2h0) |
+| **Notiz** | [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Crouch_Postdemokratie_Transkript.txt` |
+
 ## PhoenixRunde — Machtpoker in Peking: Trump trifft Xi
 
 | | |
@@ -2610,3 +2626,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Bericht / Video** | [Energiewende mit Tücken: Versorger stellt Unternehmen den Strom ab](https://www.youtube.com/watch?v=g8j017ZKTPw) |
 | **Notiz** | [[Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kontrovers_Energiewende_Transkript.txt` |
+
+## Morpheus (Cedric Mössner) — Chinesische KI, Bias und europäische Souveränität
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Warum plötzlich alle chinesische KI nutzen](https://www.youtube.com/watch?v=LyqaUUs0o-M) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Morpheus_ChinaKI_Transkript.txt` |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Morpheus]] |

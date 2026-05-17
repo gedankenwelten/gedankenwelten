@@ -196,3 +196,7 @@ Beide beschreiben KI als Machtinstrument — Tooze geopolitisch-realistisch (Pen
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
 Zwei Makroökonomen, die Big Tech aus verschiedenen Winkeln analysieren: Tooze beschreibt den geopolitischen Machtkampf zwischen Staat und KI-Unternehmen; Varoufakis die ökonomische Mutation des Kapitalismus selbst. Toozes *Crashed* zur Finanzkrise ist die historische Vorarbeit zu Varoufakis' These — QE als Geburtshelferin des Technofeudalism.
+
+### → [[Morpheus — Warum alle chinesische KI nutzen]]
+
+Tooze zeigt, wie das Pentagon Anthropic zur Kooperation zwang — Morpheus dokumentiert die chinesische Spiegelung: 24.000 Fake-Accounts die Anthropic-Modelle für Destillation ausbeuten. Der Anthropic-Bericht ist das verbindende Ereignis: einmal als US-Machtkampf, einmal als industrieller Technologieklau.

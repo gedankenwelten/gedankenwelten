@@ -234,6 +234,10 @@ Direkte Mikro-Ökonomie: Die Hormuz-Blockade kostet 20% des Weltölhandels und g
 
 Zhao Tingyangs Tianxia-Konzept ist Chinas philosophische Antwort auf die liberale Weltordnung: hierarchisches Koexistenzmodell statt Nationalstaaten-Konkurrenz. Was die PhoenixRunde als Chinas „strategische Überlegenheit" beschreibt, hat in Zhao seinen intellektuellen Unterbau — Xi denkt in Kategorien, die westliche Verhandlungsführer nicht kennen.
 
+### → [[Morpheus — Warum alle chinesische KI nutzen]]
+
+Die PhoenixRunde nennt KI-Regulierung als ungelöste Frage des Xi-Trump-Gipfels. Morpheus liefert das technische Substrat: Chinas "Deliberate Industrial Scale Campaigns" zum Abgreifen westlicher KI-Systeme sind exakt das, was Xi Trump als Verhandlungsmasse nicht auf den Tisch legt.
+
 ---
 
 ## Weiterdenken
