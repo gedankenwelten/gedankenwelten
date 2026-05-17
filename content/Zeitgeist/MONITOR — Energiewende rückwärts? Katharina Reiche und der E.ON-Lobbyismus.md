@@ -275,3 +275,7 @@ Die Bilanz-Runde nennt Reiche "Kommunikationsdesaster" und Symptom von Merz' Fü
 ### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
 Großmanns GICON-Turm mit 55% Vollaststunden entzieht dem Netzengpass-Argument, das Reiche nutzt, die Grundlage: Gleichmäßigere Einspeisung reduziert Redispatch-Kosten und den Netzausbau-Bedarf, auf den der Lobbyismus setzt.
+
+### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+
+Der konkrete Unternehmensfall aus Burgbernheim zeigt, was Reiches Netzverschleppungspolitik für kleine Betriebe bedeutet: Ein Metallverarbeiter mit 500.000 € PV-Investition wird täglich abgeschaltet, während die Politik über Technologieoffenheit diskutiert.

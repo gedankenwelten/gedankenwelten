@@ -190,3 +190,7 @@ Meyer und Hegenberg berichten aus chinesischen Batteriefabriken und bestätigen 
 ### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
 Goldbach und Großmann beschreiben strukturell dasselbe Valley-of-Death-Phänomen: Technologisch überlegene Lösungen scheitern nicht an Physik, sondern daran, dass sie etablierte Akteure bedrohen. Großmanns Kampf mit der Förderbürokratie ist Goldbachs Batterie-Blockade in Stahl.
+
+### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+
+Ein Unternehmer in Burgbernheim hat bereits einen 220-kWh-Speicher installiert — und darf ihn nicht nutzen. Goldbachs These über die regulatorisch blockierte Speicherlösung wird hier zur konkreten Betriebstragödie: Das technische Problem ist gelöst, das regulatorische nicht.
