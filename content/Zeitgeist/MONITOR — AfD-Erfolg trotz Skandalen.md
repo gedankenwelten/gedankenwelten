@@ -198,3 +198,7 @@ Reichelts "Zu 100 Prozent stimmt alles" nach dem Gerichtsurteil illustriert die 
 ### → [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|SPIEGEL TV — Spahns Maskendeal]]
 
 Der Maskendeal ist ein Paradebeispiel für das in dieser MONITOR-Note analysierte Muster: Vetternwirtschaft ohne Konsequenzen nährt das Gefühl „die sind alle gleich" — und genau dieses Äquivalenzgefühl treibt AfD-Wähler an. Die Spahn-Note ist damit nicht nur Korruptionsdokumentation, sondern auch Demokratie-Erosions-Dokument.
+
+### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+
+Marinić erklärt, warum AfD-Skandale keine Wähler kosten: Die algorithmische Amplitude hat keine Beziehung mehr zur inhaltlichen Relevanz. Jede Empörungsreaktion — ob pro oder contra — verstärkt die Normalisierung, die MONITOR dokumentiert. Steinkes Befund über die aktivistische Justiz ergänzt MONITORs Aktivisten-unter-Druck-Abschnitt: Wenn Bürger kriminalisiert werden, die Politiker beleidigen, zieht sich der Graubereich weiter zurück.

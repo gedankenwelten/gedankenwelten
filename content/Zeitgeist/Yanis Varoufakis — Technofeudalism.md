@@ -198,3 +198,6 @@ Zhao beschreibt denselben Mechanismus mit anderen Begriffen: Finanzkapitalismus 
 
 Die politisch-biografische Ergänzung: Wo die IAI-Note den ökonomischen Mechanismus erklärt, zeigt das Exchange-Interview Varoufakis als historischen Akteur — Kindheit unter der Junta, Faschismus-Sequenz in zehn Stufen, Trump/Iran als Wendepunkt, Zypern als geopolitischer Brennpunkt.
 
+### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+
+Marinić zitiert Technofeudalismus explizit als Erklärung für das Ohnmachtsgefühl der Bürger: Superreiche machen feudal, was sie wollen — das demokratische Versprechen verflüchtigt sich, und Meinungsfreiheitsdebatten werden zu Ohnmachtsschreien. Varoufakis' "produzierte Mittel der Verhaltensmodifikation" (Algorithmen) sind Steinkes "Durchlauferhitzer" in ökonomischer Beschreibung: Nicht neutral, sondern absichtlich so designt, dass sie Empörung maximieren statt deliberative Demokratie ermöglichen.

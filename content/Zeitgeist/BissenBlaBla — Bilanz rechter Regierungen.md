@@ -222,6 +222,10 @@ Manow argumentiert, Protestwahl sei rational, weil etablierte Parteien auf der G
 
 ---
 
+### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+
+Steinkes "Teilzeitliberalismus"-Begriff (Meinungsfreiheit nur solange die Meinung passt) ist die diskurstheoretische Fassung von BissenBlaBlas empirischem Befund: Orbáns Ungarn — Hauptbeispiel bei Steinke/Marinić für Freiheitskämpfer-Pose — landet bei Freedom House als einziges EU-Land nur "teilweise frei". Die Methode "Regierungen an ihren eigenen Versprechen messen" ist das analytische Werkzeug hinter Marinićs Frage: Warum hält das Freiheitskämpfer-Image?
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

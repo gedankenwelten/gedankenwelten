@@ -202,6 +202,10 @@ Yu erklärt neurologisch, warum das linksliberale Menschenbild scheitert — das
 
 ---
 
+### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+
+Steinkes Justiz-Aktivismus-These und Marinićs "Teilzeitliberalismus"-Begriff sind die empirischen Belege für den abstrakten Freiheitsdiskurs bei Möllers/Poschardt. Posschardts Diagnose des gekaperten Freiheitsbegriffs bekommt durch Steinkes konkreten Welt-Fall (Musk-Wahlaufruf als unpopuläre Meinung, aber Kriminalisierung pro-palästinensischer Filmemacher) seinen schärfsten Ausdruck. Möllers' institutioneller Freiheitsbegriff wird durch Steinkes Befund bestätigt und provoziert: Auch der progressive Staat schränkt Meinungsfreiheit ein — nicht nur der konservative.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

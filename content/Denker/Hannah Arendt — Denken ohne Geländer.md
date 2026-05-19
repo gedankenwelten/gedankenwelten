@@ -172,6 +172,10 @@ Kants Sapere aude und Arendts Denken ohne Geländer sind dieselbe Geste — sich
 
 Arendts „Denken ohne Geländer" und Sartres Verurteiltsein zur Freiheit sind dieselbe Diagnose in zwei Sprachen: Es gibt keine Autorität, die einem das Denken oder Entscheiden abnimmt. Sartre setzt das ontologisch — der Mensch hat kein vorgegebenes Wesen. Arendt setzt es politisch — wer aufhört zu denken, wird zum Instrument des Bösen. Beide haben dasselbe Ideal: das Subjekt, das sein Urteil niemals delegiert.
 
+### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Katharina Nocun — KI-Content und die extreme Rechte]]
+
+Nocun dokumentiert empirisch, was Arendts Geländer-Metapher theoretisch beschreibt. Decline Porn, KI-Fake-Vox-Pops, koordinierte Parallelrealitäten — das ist kein Angriff auf einzelne Fakten, sondern auf die geteilte Faktizität selbst: das Geländer, das Urteilen erst ermöglicht. Wenn Menschen nicht mehr wissen, ob das Interview echt ist oder das Familienbild generiert — verlieren sie genau die Fähigkeit, *vom Standpunkt des anderen aus zu denken*, die Arendt als demokratisches Minimum beschreibt. Die „Erschöpfung der Faktizität" ist der technologische Name für den Einriss ins Geländer.
+
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Rosa zitiert Arendts Begriff der **Natalität** explizit als anthropologischen Grund seiner Resonanztheorie: Weil Menschen die Fähigkeit haben, dass aus jeder Begegnung etwas Neues, Unvorhersehbares entsteht, ist Resonanz überhaupt möglich — und nicht planbar. Arendt liefert den Menschenbegriff, für den Rosa die gesellschaftliche Diagnose schreibt.

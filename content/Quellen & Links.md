@@ -5,6 +5,23 @@ tags:
   - quellen
   - links
 ---
+
+## Steinke & Marinić — Quo vadis Meinungsfreiheit? (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Quo vadis Meinungsfreiheit? — re:publica 26 (YouTube)](https://www.youtube.com/watch?v=cJSMIQL9A_Y) |
+| **Session-Seite** | [re:publica 26](https://re-publica.com/de/session/quo-vadis-meinungsfreiheit) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Steinke_Marinic_Meinungsfreiheit_Transkript.txt` |
+
+## Jagoda Marinić — Schriftstellerin & FREIHEIT DELUXE
+
+| | |
+|---|---|
+| **Podcast** | [FREIHEIT DELUXE — ARD Sounds](https://www.ardsounds.de/sendung/freiheit-deluxe-mit-jagoda-marinic/) |
+| **Webseite** | [jagodamarinic.com](https://jagodamarinic.com/) |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Jagoda Marinic]] |
 ## Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt
 
 | | |
