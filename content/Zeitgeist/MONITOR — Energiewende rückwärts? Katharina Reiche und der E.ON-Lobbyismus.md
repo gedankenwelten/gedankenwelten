@@ -171,6 +171,10 @@ Der Drehtür-Effekt (Konzern → Ministerium) ist ein Lehrstück dafür, wie pol
 
 Quaschning zeigt, wie teure fossile Energie direkt auf Verbraucher durchschlägt. Reiches Energiewende-Bremse würde genau das verlängern: höhere Volatilität durch mehr Gasabhängigkeit im Strommix.
 
+### → [[Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
+
+Beide Notes zeigen Lobby-Interessen, die sich als wirtschaftspolitische Sachargumente tarnen. MONITOR: Drehtür-Effekt Konzern→Ministerium. Höfgen/Bauer: Lobbyverband, der Subventionsabbau fordert und AfD-nah ist. In beiden Fällen wird die Interessenstruktur nur durch kritischen Journalismus sichtbar.
+
 ### → [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
 
 Der Drehtür-Effekt Reiche/E.ON ist ein konkretes Fallbeispiel institutionellen Machtmissbrauchs, den Staiy strukturell analysiert.

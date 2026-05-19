@@ -178,6 +178,10 @@ Beide analysieren 2026 dieselbe Regierung Merz aus progressiver Perspektive: Sta
 
 El-Mafaalani identifiziert Vertrauensverlust als Treiber des AfD-Erfolgs; Höfgen liefert mit der Einkommensschere den materiellen Grund *für* diesen Vertrauensverlust.
 
+### → [[Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
+
+Direktes Nachfolgevideo — gleicher YouTuber, gleiches Format. Während die Heute-Show-Note Merz' Arbeitsmarktnarrative dekonstruiert, zeigt die Familienunternehmer-Note dasselbe Muster bei Lobbyverbänden: Phrasen ohne Substanz, die Bauer (statt Höfgen) im Kreuzfeuer vorführt.
+
 ### → [[MONITOR — Minijobs als Armutsfalle]]
 
 Beide entlarven denselben CDU-Widerspruch: Merz fordert „mehr Arbeit", hält aber an Minijobs fest, die reguläre Beschäftigung verhindern — unterschiedliche Formate, identische systemische Analyse

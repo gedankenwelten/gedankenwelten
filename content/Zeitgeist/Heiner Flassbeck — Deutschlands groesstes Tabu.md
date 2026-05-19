@@ -235,6 +235,10 @@ Navidi konkretisiert Flassbecks These, dass Trumps Zölle keine neue Erfindung s
 
 Das Panorama nimmt Flassbecks Kausalkette (Schröder-Reformen → Lohndumping → Rechtsruck) als eine von mehreren AfD-Entstehungsursachen auf. Die Note liefert die ökonomische Detailbegründung für das, was das Panorama als „ökonomische Entsicherung" zusammenfasst.
 
+### → [[Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
+
+Höfgen führt Flassbecks antizyklisches Kernargument am konkreten Streitfall vor: Wenn Staat und private Akteure gleichzeitig sparen, verstärkt das den Abschwung. Die Familienunternehmer-Lobby fordert genau das — Höfgen zeigt, warum das gegen die eigenen Mitgliederinteressen geht.
+
 ---
 
 ## Weiterdenken

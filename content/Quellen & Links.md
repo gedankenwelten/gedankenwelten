@@ -5,6 +5,15 @@ tags:
   - quellen
   - links
 ---
+## Maurice Höfgen — Florian Bauer entlarvt Familienunternehmer-Lobby
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Gebt diesem Moderator eine Talkshow! (YouTube)](https://www.youtube.com/watch?v=-3ExL3SqIaU) |
+| **Originalinterview** | [Phoenix — Florian Bauer / Marie-Christine Ostermann](https://www.youtube.com/watch?v=IRtL6B3__1g) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Hoefgen_Haushalt_Transkript.txt` |
+
 ## Wolfram Schultz — Dopamin: Mehr als ein Glückshormon
 
 | | |

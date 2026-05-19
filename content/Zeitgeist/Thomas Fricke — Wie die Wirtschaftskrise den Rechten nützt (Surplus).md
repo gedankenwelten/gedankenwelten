@@ -141,6 +141,10 @@ Direkteste Parallele: Flassbeck analysiert ebenfalls die wirtschaftlichen Ursach
 
 Varoufakis stellt dieselbe Grundthese auf — 2008 als Mutterkrise des Rechtspopulismus — und kommt aus der politökonomischen Richtung zum selben Befund: Wer Bailout-Kosten sozialisiert, zerstört die Legitimation der liberalen Mitte. Frickes Kontrollverlust-These und Varoufakis' EU-Strukturkritik ergänzen einander.
 
+### → [[Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
+
+Höfgen entlarvt die Familienunternehmer als organisierte AfD-Annäherung — Fricke liefert den Mechanismus: wirtschaftliche Ohnmacht treibt Wähler nach rechts, und Verbände wie die Familienunternehmer bedienen diese Dynamik mit ihrer Austeritätsrhetorik.
+
 ### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 
 Manow analysiert die Wahlentscheidung, Fricke liefert die psychologisch-ökonomische Erklärung dahinter: Wer wählt aus welchem Erleben heraus Populisten?

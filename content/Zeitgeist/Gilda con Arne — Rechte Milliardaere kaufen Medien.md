@@ -164,6 +164,10 @@ Nosthoff theoretisiert die systemische Macht der Tech-Eliten; diese Note zeigt d
 
 Spiegelung: Sozialkürzungen bei gleichzeitiger Entlastung Besserverdienender. Butterwegge liefert die strukturelle Analyse — neoliberale Umverteilung nach oben braucht Medien, die diese Politik normalisieren.
 
+### → [[Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
+
+Höfgen lobt Florian Bauer als seltene Ausnahme und kritisiert Illner/Maischberger als substanzarme Talkshow-Kultur. Gilda con Arne erklärt strukturell, warum es so wenige Bauers gibt: Medienkonzentration und Eigentümerinteressen engen das journalistische Spektrum ein.
+
 ### → [[ARTE — Forschung Fake und faule Tricks]]
 
 ARTE analysiert Agnotologie — die industrielle Produktion von Unwissen. Diese Note zeigt das mediale Vehikel: Wenn Milliardäre Medien kaufen, können sie Desinformation skalieren.
