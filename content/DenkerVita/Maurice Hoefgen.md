@@ -104,5 +104,6 @@ Kritiker werfen ihm Vereinfachung vor — was teilweise stimmt (YouTube-Format b
 
 ## Cortex-Notes
 
+- [[Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
 - [[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz]]
 - [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]

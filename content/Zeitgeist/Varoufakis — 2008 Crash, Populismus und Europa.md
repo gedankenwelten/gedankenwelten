@@ -241,6 +241,10 @@ Bria kartiert, wie Tech-Oligarchen Staatsfunktionen übernehmen; Varoufakis erkl
 
 Direkteste wirtschaftspolitische Parallelanalyse: Varoufakis prognostiziert 2026 eine Stagflationswelle durch den Iran-Krieg; Flassbeck analysiert denselben Mechanismus buchhalterisch. Beide halten Zinserhöhungen auf einen Energiepreisschock für wirtschaftspolitisch unverantwortlich — ein konkreter Knotenpunkt, der bidirektionale Verlinkung rechtfertigt.
 
+### → [[Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
+
+Varoufakis nennt Mainstream-Ökonomie "eine Religion mit Gleichungen" — Höfgen, als MMT-Ökonom, operiert auf demselben Terrain der heterodoxen Gegenöffentlichkeit. Beide kritisieren, dass Frames wie "Schuldenbremse" und "Haushaltsdisziplin" nie selbst zur Debatte stehen.
+
 ---
 
 ## Weiterdenken

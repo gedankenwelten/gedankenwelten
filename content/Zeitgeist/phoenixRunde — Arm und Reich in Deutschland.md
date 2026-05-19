@@ -358,6 +358,10 @@ Heitmeyers Diagnose, dass strukturelle Enthemmung das Arm-gegen-Arm-Spiel begün
 
 Deißners Unterscheidung „gebundenes Betriebsvermögen vs. Finanzkapital" als strategische Weichenstellung illustriert Mausfelds These: Die Verteilungsfrage wird durch Fachsemantik aus dem öffentlichen Diskurs gedrängt, bevor sie als politische Frage überhaupt gestellt werden kann.
 
+### → [[Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
+
+David Deißner von der Stiftung Familienunternehmen tritt in der phoenixRunde unwidersprochen auf — Höfgen zeigt in seiner Note, was in diesem Format fehlt: kritische Einordnung der Interessen hinter den Positionen. Florian Bauer macht beim Phoenix-Interview genau das, was Talkshow-Formate wie die phoenixRunde regelmäßig auslassen.
+
 ---
 
 ## Weiterdenken
