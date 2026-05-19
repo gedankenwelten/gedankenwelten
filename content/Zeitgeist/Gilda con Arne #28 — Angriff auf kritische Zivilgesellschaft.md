@@ -265,3 +265,7 @@ taz-Runde rahmt geopolitisch, was Gilda als wirtschaftspolitische Kaskade in Deu
 
 ### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 Staiys Magdeburg-Demokratiefest (Amadeo Antonio Stiftung) zeigt die Praxis zivilgesellschaftlichen Engagements — GCA #28 analysiert den strukturellen Angriff auf genau diese Initiativen (Finanzierungskürzungen, parlamentarische Delegitimierung).
+
+### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
+
+Das GFF-Gutachten ist selbst ein Akt zivilgesellschaftlicher Demokratieverteidigung — durch 18.000 Einzelspenden finanziert, von einer NGO geleistet, die eigentlich staatliche Aufgaben übernimmt. GCA #28 beschreibt den strukturellen Druck auf genau diese Zivilgesellschaft: Wer Demokratieprojekte kappt, schwächt auch die Institutionen, die das GFF-Gutachten ermöglichten.

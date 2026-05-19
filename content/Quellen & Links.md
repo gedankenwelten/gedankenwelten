@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Moini & Chiofalo — GFF AfD-Verbotsgutachten (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26 — GFF AfD-Gutachten](https://www.youtube.com/watch?v=FpGnlpjD-A4) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Moini_Chiofalo_AfD_Gutachten_Transkript.txt` |
+
 ## Amlinger & Nachtwey — Zerstörungslust: Demokratischer Faschismus (re:publica 26)
 
 | | |
