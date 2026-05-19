@@ -26,6 +26,8 @@ Quelle: [re:publica 26 — Nach einem Jahr Arbeit ist unser Gutachten zur AfD so
 >
 > → [[Gedankenwelten/DenkerVita/Bijan Moini|DenkerVita Bijan Moini]]
 
+> → [[Gedankenwelten/DenkerVita/Valentina Chiofalo|DenkerVita Valentina Chiofalo]]
+
 ---
 
 ## Das Manko der Verbotsdebatte

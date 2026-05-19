@@ -56,7 +56,8 @@ Quent ist parteilich ungebunden, aber klar demokratisch positioniert. Er forscht
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[Gedankenwelten/DenkerVita/Valentina Chiofalo]] — Quent analysiert soziologisch, warum die AfD Ohnmacht instrumentalisiert und Normalisierung rechter Positionen vorantreibt; Chiofalo prüft juristisch, ob die AfD verfassungswidrig handelt. Beide kämpfen für wehrhafte Demokratie, aber mit völlig unterschiedlichen Werkzeugen — Quent erklärt das Warum, Chiofalo arbeitet am juristischen Ob.
+- [[Gedankenwelten/DenkerVita/Bijan Moini]] — Beide zivilgesellschaftliche Akteure gegen die AfD: Moini rechtlich-strategisch (GFF), Quent soziologisch-präventiv (IDZ, Rechtsextremismusforschung). Unterschiedliche Fronten desselben Projekts: Demokratieschutz.
 
 ## Cortex-Notes
 
