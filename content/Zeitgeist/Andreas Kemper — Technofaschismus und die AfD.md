@@ -178,6 +178,10 @@ Kernforderung: **KI muss demokratischer Kontrolle unterliegen.** Alle Macht vom 
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+
+Nocun liefert die empirische Substanz zu Kempers Technofaschismus-These: KI-Fake-Frauen (Larissa Wagner, Jessica Foster), koordinierte Sockenpuppen-Netzwerke (190 Profile, 22 Personas) und Verfallporn als Realitätskonstruktion — das ist Kempers Werkzeugkasten in live dokumentierten Fällen.
+
 ### → [[Gedankenwelten/Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]]
 
 Henze zeigt die religiöse Dimension des Phänomens, das Kemper strukturell beschreibt: Die Vereinnahmung von Bonhoeffer durch evangelikale Kreise ist nicht zufällig, sondern Teil derselben Legitimationsbeschaffung. Kemper analysiert den ideologischen Rahmen — Henze zeigt, wie dieser durch symbolische Aneignung historischer Widerstandsfiguren Bürgerlichkeit imitiert.

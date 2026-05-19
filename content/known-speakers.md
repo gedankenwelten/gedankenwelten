@@ -219,6 +219,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Jürgen Habermas
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Juergen Habermas]]
 
+## Katharina Nocun
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Katharina Nocun]]
+
 ## Julia Friedrichs
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Julia Friedrichs]]
 

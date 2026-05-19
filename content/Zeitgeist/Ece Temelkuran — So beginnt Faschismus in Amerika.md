@@ -159,6 +159,10 @@ Die Logik dahinter: Wer Grenzen testet — erst an einem Ort, wo die Welt wegsch
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+
+Nocun zeigt Temelkurans Stufen 3 und 4 als technologische Infrastruktur: die algorithmisch beschleunigte Auflösung von Faktizität durch KI-Slop ist genau das Stören der Rationalität und Normalisieren der Enthemmung, die Temelkuran als politischen Prozess beschreibt — nur in Echtzeit skaliert.
+
 ### → [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 
 Redecker analysiert Faschismus als „Phantombesitzverteidigung" und betont ebenfalls die schleichende Normalisierung; Temelkurans 7-Stufen-Modell ist ein konkretes Pendant zu Redeckers theoretischem Rahmen

@@ -130,6 +130,10 @@ Hornung stellte das Interview über WhatsApp durch eine NGO. Er zweifelt nicht d
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+
+Topfvollgold dokumentiert den manuellen Vorgänger des Phänomens — erfundene Migrationsgeschichten von BILD, aufgepeppt mit KI-Fakebildern. Bei Nocun ist diese Pipeline vollständig automatisiert: der Fake entsteht per Prompt, die Verbreitung läuft über Sockenpuppen-Netzwerke. BILD/NIUS machen manuell, was KI-Slop industriell kann.
+
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 
 Mausfelds Analyse der Zustimmungsproduktion durch Medien: BILD/NIUS als Paradebeispiel für gezielte Meinungssteuerung durch emotionale Aufladung statt Faktenvermittlung
