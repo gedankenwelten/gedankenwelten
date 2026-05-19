@@ -240,3 +240,7 @@ Gabriels ontologische Analyse ergänzt Nosthoffs technikhistorischen Zugang: Wo 
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
 Varoufakis benennt, was Nosthoffs kybernetische Verhaltenssteuerung *ökonomisch* produziert: Cloud Rent. Seine „produzierten Mittel der Verhaltensmodifikation" — Alexa, Siri, algorithmische Empfehlungssysteme — sind die konkrete Gegenwartsform dessen, was Nosthoff technikhistorisch von Wieners Antiaircraft Predictor herleitet.
+
+### → [[Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]
+
+Schultz liefert die neuronale Grammatik für das, was Nosthoff als Machtstrategie beschreibt: Soziale Medien sind als RPE-Maschinen gebaut — variables Intervall-Scheduling maximiert die Rate positiver Prediction Errors und erzeugt damit biologisch fundierte Abhängigkeit. Schultz' Biochemie macht Nosthoffs kybernetische Verhaltenssteuerung greifbar: Die Plattformen haben nicht nur ein Geschäftsmodell optimiert, sondern eine neuronale Architektur instrumentalisiert.

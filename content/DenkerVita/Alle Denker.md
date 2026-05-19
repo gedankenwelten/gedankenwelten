@@ -213,6 +213,9 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]]** — Filmkritiker, YouTuber, Marxist; Die Filmanalyse, Wohlstand für Alle, Die Neuen Zwanziger; Ideologiekritische Filmanalyse, Kulturindustrie 2.0
 
+**[[Gedankenwelten/DenkerVita/Wolfram Schultz|Wolfram Schultz]]** — Neurowissenschaftler, Professor Cambridge; Dopamin-Forschung, Reward Prediction Error als fundamentaler Lernmechanismus, Neuroökonomie; Brain Prize 2017, FRS
+
+
 ## X
 
 ## Y

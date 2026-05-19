@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## Wolfram Schultz — Dopamin: Mehr als ein Glückshormon
+
+| | |
+|---|---|
+| **Podcast** | [Bild der Wissenschaft Podcast — Dopamin: Mehr als ein Glückshormon](https://bildderwissenschaft.podigee.io/28-neue-episode) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Wolfram Schultz — Dopamin mehr als ein Glueckshormon]] |
+| **Transkript** | Online-Transkript auf Podigee (kein lokaler Download nötig) |
+
 ## BissenBlaBla — Bilanz rechter Regierungen
 
 | | |
