@@ -278,6 +278,11 @@ Spitzer: Der Lernturbo geht nicht an, wenn man etwas Erwartetes bekommt — nur 
 
 Mausfeld analysiert, wie Meinungsmacht unsichtbar wirkt. Spitzer: Der Marktkapitalismus der Smartphone-Konzerne formt die Lernumwelt von Kindern — mit 2.500 Milliarden Euro Marktwert und täglicher PR-Maschinerie. Was Mausfeld strukturell für die politische Sphäre beschreibt, gilt hier für die Bildungssphäre.
 
+
+### → [[Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]
+
+Spitzers "Lernturbo" (Dopamin geht an, wenn Realität die Erwartung übertrifft) und Schultz' Reward Prediction Error (RPE) sind dasselbe Prinzip — nur beschreibt Schultz den Mechanismus präziser: Es ist nicht Freude, sondern die *Abweichung* von der Erwartung, die Dopamin triggert. Olds & Milner (1954) tauchen in beiden Notes auf als Ausgangspunkt — Schultz hat diesen Fund 30 Jahre später quantitativ ausgearbeitet.
+
 ---
 
 ## Weiterführend
