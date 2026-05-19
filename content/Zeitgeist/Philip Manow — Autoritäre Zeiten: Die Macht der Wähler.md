@@ -370,3 +370,7 @@ Krastev liefert die geopolitische Metaebene zu Manows Wähleranalyse: Trumps Woc
 ### → [[Yanis Varoufakis — Trump Has Lost Everything]]
 
 Varoufakis' Faschismus-Sequenz (Bankenkollaps → Austerität → Scheitern der Linken → populistische Mimikry → Big-Business-Allianz) liefert den historischen Mechanismus hinter Manows empirischen Daten. Manow erklärt *warum* Wähler autoritäre Parteien wählen; Varoufakis erklärt *wie* der Prozess strukturell abläuft — und warum die Tech-Oligarchen-Allianz die entscheidende neue Stufe ist.
+
+### → [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
+
+BissenBlaBla schließt Manows Analyse zur Kehrseite: Die Protestwahl hat gewählt — und liefert auf der Globalisierungsdimension ebenfalls nicht. Das Dilemma wird sichtbar: Gute Gründe, alte Parteien abzuwählen; schlechte Ergebnisse mit den neuen. Manows Ursachenanalyse + BissenBlaBlas Machtbilanz ergeben das vollständige Bild.
