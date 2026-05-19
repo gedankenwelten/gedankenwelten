@@ -29,6 +29,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Barbara Tversky|Barbara Tversky]]** — Kognitionspsychologin (Stanford, Columbia Teachers College); Spatial Cognition als Fundament der Menschheit, Mind in Motion, Embodied Thinking, Gesten als externe Kognition
 
+**[[Gedankenwelten/DenkerVita/Bijan Moini|Bijan Moini]]** — Jurist und Menschenrechtsanwalt (GFF); Überwachungs-Asymmetrie, digitale Grundrechte, automatisiertes Data Mining, BND-Auslandsüberwachung; Literarisierung juristischer Sorgen im Roman *Der Würfel* (2019)
+
 ## C
 
 **[[Gedankenwelten/DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (UC Berkeley); Vier-Quadranten-Modell (Intelligent/Bandit/Hilflos/Dumm), Asymmetrie-Problem, Dummheit als strukturelle Handlungslogik, Zivilisationsverfall durch Kompositionsverschiebung, *The Basic Laws of Human Stupidity* (1976)

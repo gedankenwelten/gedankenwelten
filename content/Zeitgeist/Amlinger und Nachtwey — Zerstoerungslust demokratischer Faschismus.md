@@ -63,6 +63,8 @@ Destruktivität wirkt als klaustrophobisches Weltgefühl — aktiviertes Ressent
 
 [▶ 7:56](https://www.youtube.com/watch?v=yM_or9mYaXM&t=476) — Dieses Motiv ist alt. Das Manifest des Futurismus (Marinetti, 1909) feierte Geschwindigkeit, Gewalt, Industrie und Krieg. *„Wir wollen die Museen, die Bibliotheken und die Akademien jeder Art zerstören und gegen den Moralismus, den Feminismus und gegen jede Feigheit kämpfen."* Nachtwey: *„Was Marinetti 1909 schrieb, könnte in jedem Dokument von Trump oder der AfD stehen."*
 
+Nachtwey betont dabei, dass Destruktivität kein rechtes Monopol ist. [▶ 7:56](https://www.youtube.com/watch?v=yM_or9mYaXM&t=476) — Es gibt auch eine *linke* Destruktivität: Ton Steine Scherben sangen in den 1970ern *„Macht kaputt, was euch kaputt macht"* — Destruktivität als Befreiungsimpuls gegen Herrschaft und Hierarchie. Diese linke Variante ist von einer anderen Qualität: Sie richtet sich *gegen* die Mächtigen. Die heutige rechte Destruktivität dagegen geschieht im Rahmen der *Identifikation* mit überkommenen kapitalistischen Hierarchien. Sie will nicht die Mächtigen zerstören, sondern die normativen Einbettungen des Kapitalismus — die Sperrklinken gegen Diskriminierung, gegen Gewalt, gegen Unterdrückung — die über Jahrzehnte eingebaut wurden.
+
 Die Destruktivität ist also keine Regression in Irrationalität — sie ist eine Rebellion gegen normative Einbettungen des Kapitalismus. Sie zielt auf einen „neuen, entfesselten, muskulären Kapitalismus" und die Restauration klarer Hierarchien. Kevin Roberts, Präsident der Heritage Foundation und Hauptarchitekt von Project 2025, veröffentlichte ein programmatisches Bekenntnisdokument mit dem Titel: *Im Morgengrauen: Washington in Brand setzen, um Amerika zu retten* — das ursprüngliche Cover zeigte ein Streichholz.
 
 ---
@@ -102,7 +104,13 @@ In den Interviews zeigten sich häufig Häufungen von Schicksalsschlägen: Schei
 
 [▶ 20:10](https://www.youtube.com/watch?v=yM_or9mYaXM&t=1210) — Jetzt übernimmt Carolin Amlinger. Die Zerstörungslust, so irrational sie erscheint, kommt nicht aus dem Nichts. Sie speist sich aus einem Gefühl, „im Leben fundamental blockiert zu sein."
 
-Amlinger illustriert das mit dem Fallbeispiel „Annette Kowalski" (Pseudonym), 55, Sozialplanerin, 1988 aus Polen eingewandert. Ihre Berufskarriere steht für das liberale Fortschrittsversprechen — Aufstieg durch individuelle Leistung. Und doch erlebt sie die Gegenwart als „Welt nach dem Fortschritt". Keine langen Verbesserungshorizonte mehr. Ein Katastrophenmodus, der nur durch radikalen Bruch aufgelöst werden kann. Das Bild, das sie verwendet, ist präzise: Man muss nach einem Erdrutsch mit dem Bagger kommen — auch wenn man dabei noch mehr zerstört. Das Ergebnis zählt. Annette Kowalski befürwortet autokratische Regierungsformen und wählt die AfD.
+Amlinger illustriert das mit dem Fallbeispiel „Annette Kowalski" (Pseudonym), 55, Sozialplanerin, 1988 aus Polen eingewandert. Ihre Berufskarriere steht für das liberale Fortschrittsversprechen — Aufstieg durch individuelle Leistung. Und doch erlebt sie die Gegenwart als „Welt nach dem Fortschritt". Keine langen Verbesserungshorizonte mehr. Ein Katastrophenmodus, der nur durch radikalen Bruch aufgelöst werden kann. Das Bild, das sie verwendet, ist präzise: Man muss nach einem Erdrutsch mit dem Bagger kommen — auch wenn man dabei noch mehr zerstört. Das Ergebnis zählt.
+
+[▶ 23:14](https://www.youtube.com/watch?v=yM_or9mYaXM&t=1394) — Klaus Theweleit hatte diese Schlamm-Metaphorik bereits in *Männerfantasien* kulturtheoretisch analysiert:
+
+> *„Schlamm scheint die Folge des Umsturzes zu sein, wie die Flut die Folge von Dammbrüchen."*
+
+Der Schlamm überzieht Hab und Gut — man hat keine Luft mehr zum Atmen. Die Klaustrophobie, die Nachtwey zu Beginn als emotionale Grundstruktur beschreibt, wird hier körperlich: Man ist buchstäblich verschüttet. Der Bagger ist deshalb keine Metapher für Irrationalität, sondern für eine grausame Rationalität — wenn alle normalen Wege blockiert sind, bleibt nur das große Gerät. Annette Kowalski befürwortet autokratische Regierungsformen und wählt die AfD.
 
 [▶ 24:46](https://www.youtube.com/watch?v=yM_or9mYaXM&t=1486) — Warum wird das Leben als blockiert erlebt? Die moderne Gesellschaft hat ein Versprechen gemacht: Identität und Lebensführung beruhen auf kontinuierlichem Zuwachs — mehr Einkommen, tiefere Beziehungen, erweiterte Bildung. Handlungen werden zu Investitionen in eine offene Zukunft. Doch was, wenn es schlecht läuft, obwohl man alles richtig gemacht hat? Die Welt verändert sich so rasch, dass viele sich nicht mehr als Teil von ihr begreifen. Identitäten bleiben Resultate erlebter Erfahrungen — die nun als Teile einer untergehenden Welt wahrgenommen werden. Das Zeitgefühl kondensiert in einem Satz:
 
@@ -113,6 +121,12 @@ Amlinger illustriert das mit dem Fallbeispiel „Annette Kowalski" (Pseudonym), 
 > *„Destruktivität ist das Ergebnis ungelebten Lebens."* — Erich Fromm
 
 Amlinger und Nachtwey wenden diesen Satz auf die Gegenwart an: Aus einem kollektiven Gefühl des Niedergangs entstehen Allianzen der Verlustabwehr — quer zu klassenstrukturierten Verteilungskonflikten. Das erklärt, warum nicht nur die materiell Abgehängten destruktiv werden, sondern auch Menschen aus ganz unterschiedlichen Soziallagen.
+
+[▶ 37:41](https://www.youtube.com/watch?v=yM_or9mYaXM&t=2261) — Amlinger kehrt am Ende ihres Vortragsblocks ein letztes Mal zu Annette Kowalski zurück. Kowalski möchte den Staat nach dem ethischen Ordnungsgrundsatz *„Jedem das Seine"* organisieren. Der Satz klingt nach ausgleichender Gerechtigkeit — er stammt aus Platons *Politeia*. Er befand sich aber auch als Inschrift am Lagertor des Konzentrationslagers Buchenwald.
+
+> *„Und genau diese Grausamkeit, diese pädagogische Grausamkeit wird eben hier nicht nur toleriert, sondern noch aktiv bejaht. Diese Grausamkeit sagt: Da gehörst du hin und da hast du zu bleiben."*
+
+Der Staat soll in dieser Vorstellung nicht Schaden abwenden und seine Mitglieder vor Leid schützen — er soll gerade das Leben anderer vereiteln, um das Eigene zu schützen. Das ist der destruktive Kern in seiner reinsten Form: nicht passive Gleichgültigkeit, sondern aktive Freude an der Bestrafung anderer als Bedingung des eigenen Gedeihens. Das blockierte Leben schlägt um in den Wunsch, andere zu blockieren.
 
 > [!question] Weitergedacht
 > Fromms Beobachtung ist 85 Jahre alt. Hat sich die Form "ungelebten Lebens" in der Spätmoderne verändert — oder ist das Prinzip dasselbe, nur die Bühne eine andere? Und: Wer entscheidet, welches Leben als "gelebt" gilt?
@@ -148,6 +162,12 @@ Das desynchrone Verhältnis zwischen materieller Unsicherheit und normativem Wan
 Das Neue an der gegenwärtigen Formation liegt gerade darin, dass sie sich auf Demokratie *beruft* — aber auf eine ganz andere Demokratie: eine homogene Mehrheitsherrschaft im Sinne Carl Schmitts, wo Volk und Führung eine Einheit bilden und Minderheiten aktiv bekämpft werden. Man bekennt sich zur Demokratie und lehnt gleichzeitig den inklusiven Liberalismus fundamental ab. Das ist für Nachtwey und Amlinger der qualitativ neue Kern: faschistischer Impuls *in* und *durch* demokratische Sprache.
 
 [▶ 49:13](https://www.youtube.com/watch?v=yM_or9mYaXM&t=2953) — Gleichzeitig wollen sie betonen, dass der gegenwärtige Faschismus strukturell verschieden ist von den historischen Formen: keine Massenarbeitslosigkeit, keine Straßenkämpfe, keine Rassenbiologie als offizielle Ideologie. Der demokratische Faschismus entsteht *in* einer liberalen Demokratie — und benutzt ihre Institutionen und Sprache, um sie auszuhöhlen.
+
+[▶ 49:58](https://www.youtube.com/watch?v=yM_or9mYaXM&t=2998) — Die Moderatorin stellt eine Kausalitätsfrage, die direkt in den analytischen Kern trifft: Ist der demokratische Faschismus das Resultat destruktiver Einstellungen — oder sind die destruktiven Einstellungen das Resultat einer faschistischen Mobilmachung, die erst die Gefühlsstrukturen hervorbringt?
+
+Nachtweys Antwort ist bewusst unbequem: Es ist beides. Die Weltwirtschaft hat ein Altmodell sozialer Integration — Wachstum, Aufstieg, offene Zukunft — für die westlichen Gesellschaften abgewirtschaftet. Das produziert das Nullsummendenken. Gleichzeitig liefen viele liberale Emanzipationen, die absolut richtig waren — aber die Grundstimmung vieler Menschen ist klaustrophobisch, und in diesem Zustand ist man für rechte Mobilisierung offen wie nie zuvor. Die Faschisten haben die Gefühle nicht aus dem Nichts erfunden; sie haben sie gebündelt und politisch nutzbar gemacht.
+
+Entscheidend ist dabei der Unterschied zur historischen Konstellation: Die 1920er und 30er Jahre brachten Massenarbeitslosigkeit und Hunderttausende bewaffneter Kriegsveteranen, die keinen Platz in der Gesellschaft fanden. Trumps Aufstieg dagegen geschah bei der *höchsten Beschäftigungsrate* der amerikanischen Geschichte — aber ohne Perspektive auf ein *gutes* Leben. Vollbeschäftigung ohne Würde, Zugehörigkeit und Zukunftsoffenheit: Das ist die neue Brutstätte.
 
 Wenn man das Kernmerkmal des Faschismus auf einen Satz bringen müsste: Es ist für Nachtwey „das organisierte Genießen von Gewalt". Das sieht man bei Trump, Musk und Höcke (*„Abschiebungen müssen mit wohltemperierter Grausamkeit stattfinden"*) deutlicher als bei Meloni oder Le Pen — die er eher als autoritäre Rechtspopulistinnen einordnet, die an einem maskulinen Ideal der Härte partizipieren, ohne den Lustgewinn an der Zerstörung in den Vordergrund zu stellen.
 

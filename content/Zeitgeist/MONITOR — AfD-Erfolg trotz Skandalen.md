@@ -202,3 +202,7 @@ Der Maskendeal ist ein Paradebeispiel für das in dieser MONITOR-Note analysiert
 ### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Marinić erklärt, warum AfD-Skandale keine Wähler kosten: Die algorithmische Amplitude hat keine Beziehung mehr zur inhaltlichen Relevanz. Jede Empörungsreaktion — ob pro oder contra — verstärkt die Normalisierung, die MONITOR dokumentiert. Steinkes Befund über die aktivistische Justiz ergänzt MONITORs Aktivisten-unter-Druck-Abschnitt: Wenn Bürger kriminalisiert werden, die Politiker beleidigen, zieht sich der Graubereich weiter zurück.
+
+### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
+
+Während MONITOR die Skandal-Immunität der AfD empirisch dokumentiert, liefert das GFF-Gutachten den juristischen Gegenansatz: nicht Empörung, sondern Beweisdichte. Beide Perspektiven zeigen die Spannung zwischen politischer Wirklichkeit und rechtsstaatlicher Reaktionsfähigkeit.
