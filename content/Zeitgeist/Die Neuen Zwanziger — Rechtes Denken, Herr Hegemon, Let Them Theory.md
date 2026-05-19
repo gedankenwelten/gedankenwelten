@@ -223,3 +223,7 @@ Mausfelds Medien- und Manipulationsanalyse ist das akademische Gegenstück zu Ku
 ### → [[Die Neuen Zwanziger — Salon Lektueren Februar 2026]]
 
 Vorgänger-Salon: Ulrike Herrmanns „Geld als Waffe" — Russland, China, westliche Passivität
+
+### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+
+Kubitscheks "politischer Staat, in dem über bestimmte Dinge nicht mehr diskutiert wird" ist die ideologische Zielbeschreibung für das, was Marinić als "Meinungsfreiheit als Waffe der Autoritären" analysiert. Der Hegemon-Begriff erklärt das Paradox: Wer bestimmt, wer Rechtfertigungspflichten hat, kann "Freiheit" als Hebel nutzen, um unerwünschte Meinungen aus dem Diskurs zu drängen — unter dem Banner der Meinungsfreiheit selbst.

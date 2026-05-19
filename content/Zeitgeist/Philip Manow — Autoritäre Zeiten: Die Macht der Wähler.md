@@ -334,6 +334,10 @@ Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblö
 
 ---
 
+### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+
+Marinićs Ohnmachtsgefühl — das demokratische Versprechen der Mitbestimmung als gebrochenes Versprechen — ist dieselbe Erfahrung wie Manows Souveränitätsverlust durch EU/WTO-Verlagerung. Steinkes "Kamikaze-Lösungen" für 30% AfD-Umfragen sind Manows strukturelle Protestwahl-Logik. Das Debattenproblem Deutschland, das Manow ("erbärmlicher Zustand politischer Kultur") und Steinke/Marinić ("Lösungslust statt Schaufenster-Debatte") unabhängig voneinander benennen, ist ein gemeinsamer blinder Fleck.
+
 ## Weiterführend
 
 - **Philip Manow**: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp, 2023)

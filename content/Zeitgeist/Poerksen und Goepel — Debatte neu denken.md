@@ -190,3 +190,7 @@ Praxisbeispiel für Erregungsökonomie: Lanz belohnt populistische Zuspitzung zu
 ### → [[Markus Gabriel — Soziale Netzwerke Neue Theorie]]
 
 Gabriel liefert die ontologische Grundlage für Pörksens Filterclash: Soziale Netzwerke bieten „Sozialität ohne Triangulation" — reine Perspektivenvielfalt ohne korrigierenden Gegenstand. Das ist die strukturelle Ursache der „großen Gereiztheit", die Pörksen kommunikationswissenschaftlich beschreibt.
+
+### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+
+Steinke und Marinić diagnostizieren dieselbe Krankheit wie Pörksen — aber von der politisch-juristischen Seite. Marinićs "Durchlauferhitzer" ist Pörksens "Filterclash" im Demokratiekontext; ihre "performative Meinungsfreiheitsdebatte" ist Pörksens "Spektakelpolarisierung" mit konkretem politischen Inhalt. Wo Pörksen Kommunikationswerkzeuge liefert, benennen Steinke/Marinić die politischen Akteure, die diese Werkzeuge strategisch einsetzen.

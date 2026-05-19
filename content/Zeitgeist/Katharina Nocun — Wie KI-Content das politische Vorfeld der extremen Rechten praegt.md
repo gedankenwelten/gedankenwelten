@@ -72,6 +72,62 @@ Der nächste Schritt heißt **Identity-Switching**: Der Account sammelt Reichwei
 
 ---
 
+## Fake-Supporter: Gespräche und Konfrontationen, die es nie gab
+
+Der übergreifende Oberbegriff in Nocuns Vortrag: **Fake-Supporter** — KI-generierte Inhalte, die real wirkende Menschen mit rechten Positionen zeigen, ohne dass diese Menschen je existiert haben. Darunter fallen zwei Formate:
+
+### Fake-Gespräche: Das Vox-Pop-Problem
+
+[▶ 22:31](https://www.youtube.com/watch?v=xcn64f3byyk&t=1351) — Das **Vox-Pop-Format** — „wir lassen mal die Straße reden" — hat journalistische Glaubwürdigkeit eingebaut. KI-generierte Straßenumfragen nutzen genau das aus.
+
+![[Gedankenwelten/assets/Nocun_republica26_1351.jpg|700]]
+
+Das Muster ist präzise kalibriert: Sehr häufig werden blonde Frauen interviewt, gerne mit einem kleinen Mädchen an der Hand, zum Thema Kriminalität und Migration — und wie viel Angst sie angeblich hätten. ZDF heute dokumentierte 2025 die Reichweite: Millionen Menschen auf TikTok, fremdenfeindliche Untertöne, erkennbar erst beim genauen Hinsehen als KI-generiert.
+
+Nocun erklärt, warum das Format besonders gefährlich ist:
+
+> *„Das klassische Vox-Pop-Format wirkt besonders anschlussfähig für rechtsextreme Narrative. Wenn so etwas jemand dort sagt, dann kann ich das ja auch sagen — das verschiebt die gefühlte rote Linie dafür, was sagbar ist und was nicht."*
+
+Der Mechanismus ist normalisierend: Wer nicht weiß, dass das Video fake ist, nimmt es als gesellschaftlichen Stimmungsindikator wahr. *„Was ist normal, was ist nicht normal?"* — diese Wahrnehmung verschiebt sich durch die schiere Menge solcher Videos, die der Algorithmus in Serien ausspielt.
+
+### Fake-Konfrontationen: Der inszenierte Beschützermoment
+
+[▶ 24:02](https://www.youtube.com/watch?v=xcn64f3byyk&t=1442) — Aus den USA schwappt ein zweites Fake-Supporter-Format herüber: konstruierte Konfrontationen.
+
+![[Gedankenwelten/assets/Nocun_republica26_1442.jpg|700]]
+
+Die Story ist immer dieselbe: Ein Mann steht vor einer Frauentoilette. Drinnen seine Frau, seine Tochter, seine Freundin. Herein will eine queere Person. Der Mann im MAGA-Cap hält sie auf. Snopes hat ein konkretes Beispiel als KI-generiert entlarvt — der Grok-Prompt wurde zurückverfolgt. Das Video kursiert in diversen Varianten, nie als erkennbare Kampagne.
+
+Was dieses Format so effektiv macht: Es bedient **zwei Narrative gleichzeitig** — queere Menschen als Bedrohung, der Trump-Supporter als heroischer Beschützer. Nocun dazu:
+
+> *„Ich würde mich zehn mal sicherer mit einer queeren Person auf meinem Nachbarklo fühlen als mit diesem Typen mit der Cappy vor dem Klo."*
+
+In Deutschland noch nicht direkt angekommen — *„aber ich bin mir sicher, das kommt früher oder später."*
+
+> [!question] Weitergedacht
+> Beim Vox-Pop-Format ist die Glaubwürdigkeit im Format eingebaut — die Erschütterung kommt, wenn man es erkennt. Aber was bleibt, wenn jedes Straßeninterview grundsätzlich unter Fake-Verdacht steht? Zerstört das Format seine eigene Legitimität?
+
+---
+
+## Popkultur Remix — Vertraut & Niedlich?
+
+[▶ 24:49](https://www.youtube.com/watch?v=xcn64f3byyk&t=1489) — Der nächste Trend trägt das Gegenteil von Bedrohlichkeit im Gesicht: **Niedlichkeit**. Das Weiße Haus postete 2025 ein Ghibli-Style-Bild zur Verhaftung eines Fentanyl-Dealers — süß, animiert, mit dem ästhetischen Fingerabdruck eines der feministischsten, friedlichsten Filmstudios der Welt. Nocun, selbst erklärter Ghibli-Fan, findet es bitter:
+
+![[Gedankenwelten/assets/Nocun_republica26_1534.jpg|700]]
+
+> *„Das ist eine Verniedlichung von der Situation, die eigentlich überhaupt nicht niedlich ist. Ich bin mir ziemlich sicher, dass die Macher nicht approven, dass solche Akteure diesen Stil benutzen, um ihre Narrative zu verniedlichen."*
+
+Im deutschsprachigen Raum ist das Modell längst kopiert. AfD-nahe Accounts verwenden den **Simpsons-Stil** für Spitzenkandidaten und Migrationsinhalte — in Zahlen: 35.800, 93.500 und 36.200 Abrufe für einzelne Posts. Die Simpsons-Macher approven diese Botschaften ebenfalls nicht. Aber der Stil appelliert an **Kindheitserinnerungen**, an das heimische Gefühl von *„damit bin ich aufgewachsen"* — und macht dadurch Inhalte palatable, die ohne diesen Verpackungstrick abgestoßen würden.
+
+Der Account „AfD Freunde Beckum" auf Facebook bringt noch eine weitere Variante: verkitschte Familienbilder im AI-Slop-Stil — Frau mit Ausschnitt, Mann mit Bier, beeindruckende Oberarme. In den Kommentaren schreiben, wie Nocun dokumentiert, ältere Männer anzügliche Nachrichten. Das rechte Weltbild wird in einen Wohlfühl-Rahmen gegossen — **zwischen Werbung und Radikalisierung** ist die Grenze unsichtbar.
+
+Das doppelte Ziel der Niedlichkeit: Immunisierung gegen Kritik (*„das ist doch nur Spaß"*) und gleichzeitig maximaler Medienecho durch gezielte Provokation. Wer sich empört, boosted den Post — Social Media unterscheidet nicht zwischen positiver und negativer Reaktion.
+
+> [!question] Weitergedacht
+> Wenn Niedlichkeit als Verpackung für Ideologie funktioniert — schützt Medienkompetenz vor dem Effekt, oder schützt sie nur *über* ihn hinweg, während die emotionale Wirkung bereits eingetreten ist?
+
+---
+
 ## Koordinierte KI-Netzwerke: Die Korrektiv-Recherche 2026
 
 [▶ 19:27](https://www.youtube.com/watch?v=xcn64f3byyk&t=1167) — Erst zwei Wochen vor dem Vortrag veröffentlichte **Korrektiv** eine systematische Analyse: **190 Profile gehören zu 22 Personas** — alles KI-generierte Fake-Frauen. Die Technologie hat sich so weit entwickelt, dass man sie nicht mehr auf den ersten, zweiten oder dritten Blick erkennt. Besonders: Die Accounts **interagieren miteinander**, reagieren aufeinander, teilen fast identische Inhalte mit leicht variiertem Prompt.
@@ -87,21 +143,56 @@ Und sie bedient sich aller demografischen Muster der extremen Rechten mit perfid
 
 ---
 
-## Realitätskonstruktion: Verfallporn und das Reality Distortion Field
+## Realitätskonstruktion: Stereotype, Verfallporn und das Reality Distortion Field
 
-[▶ 30:12](https://www.youtube.com/watch?v=xcn64f3byyk&t=1812) — Nocun beschreibt einen weiteren systematischen Einsatz von KI-Slop: **„Verfallporn"** (auch: Kleinporn) — Accounts, die ausschließlich Inhalte posten, die suggerieren, Städte wie Berlin seien unbewohnbar, Kriminalität sei allgegenwärtig, Frauen könnten nicht mehr sicher auf die Straße. Die BBC hat das für UK dokumentiert. AfD-nahe Accounts machen dasselbe für Deutschland.
+[▶ 29:25](https://www.youtube.com/watch?v=xcn64f3byyk&t=1765) — Auf AfD-Instagram ist mittlerweile fast jeder Post KI-generiert. Mit kleiner Kennzeichnung, die auf kleinen Bildschirmen niemand sieht. Nocun nennt es offen: *„Überlegt mal, wie abgebrüht man sein muss, um ein kleines Kind mit dem Messer KI zu generieren."*
 
-Der Mechanismus ist psychologisch brutal effizient: Menschen, die ohnehin ängstlich sind oder auf dem Land wohnen und Berlin kaum kennen, nehmen das für Realität. Nocun erlebt es persönlich in Polen — Menschen fragen sie, ob es in Berlin wirklich so schlimm sei wie in rechten Medien dargestellt.
+![[Gedankenwelten/assets/Nocun_republica26_1760.jpg|700]]
 
-Das ist nicht Lüge als Ausnahme. Das ist die **systematische Konstruktion einer Parallelrealität**.
-
-[▶ 29:25](https://www.youtube.com/watch?v=xcn64f3byyk&t=1765) — Auf AfD-Instagram ist mittlerweile fast jeder Post KI-generiert. Mit kleiner Kennzeichnung, die auf kleinen Bildschirmen niemand sieht. Was da gezeigt wird: Geflüchtetenunterkünfte als Luxushotels, wütende dunkelhäutige Männer, blonde Frauen in Angstposen. Eine konstant wiederholte Bildsprache produziert eine Normalität, die es nicht gibt.
+Was da gezeigt wird: Schüler und Lehrer in Angst vor Gewalt an Schulen — mit Jugendlichen in bedrohlichen Posen, KI-generiert, mit rotem Kreuz als Kennzeichnung die kaum jemand bemerkt. Daneben: Geflüchtetenunterkünfte als Luxushotels. Eine konstant wiederholte Bildsprache produziert eine Normalität, die es nicht gibt.
 
 > *„Wenn Gruppen von Menschen mit Migrationshintergrund gezeigt werden — fast immer Männer, fast immer wütend, aggressiv. Irgendwelche blonden Frauen verstecken sich in der Ecke. Das ist die Realität, die da konstruiert wird."*
 
 ![[Gedankenwelten/assets/Nocun_republica26_1672.jpg|700]]
 
 Hinzu kommt ein Paradox: Wer dagegen kommentiert, boosted den Post. Social Media unterscheidet nicht zwischen positiven und negativen Reaktionen. Empörung ist Engagement. Der AfD-KI-Slop profitiert von seiner eigenen Kritik.
+
+[▶ 30:12](https://www.youtube.com/watch?v=xcn64f3byyk&t=1812) — Nocun beschreibt den systematischsten Ausdruck dieser Bildstrategie: **„Decline Porn"** (auch: Verfallporn) — Accounts, die ausschließlich Inhalte posten, die suggerieren, Städte wie Berlin seien unbewohnbar, Kriminalität sei allgegenwärtig, Frauen könnten nicht mehr sicher auf die Straße.
+
+![[Gedankenwelten/assets/Nocun_republica26_1857.jpg|700]]
+
+Das Framing ist immer dasselbe: *„Ich zeige dir, was die großen Medien dir verheimlichen."* Oder: *„So wird es in 10 Jahren aussehen, wenn linksgrün..."* Einige Accounts geben Migration die Schuld an Missständen — oder beklagen schlicht die **bloße Anwesenheit von nicht-weißen Menschen**. Das BBC hat das für den UK-Raum dokumentiert; AfD-nahe Accounts kopieren das Modell für Deutschland.
+
+Besonders raffiniert: Diese Inhalte werden auch über **Reisewillige** verbreitet. Menschen, die Berlin als Reiseziel recherchieren, landen über den Empfehlungsalgorithmus in Decline-Porn-Feeds — und bauen ihre Erwartungen auf konstruierten Horrorszenarien auf. Nocun erlebt das in Polen persönlich: Menschen fragen sie, ob es in Berlin wirklich so schlimm sei. Auf die Nachricht, dass Kreuzberg und Neukölln zu den teuersten Berliner Kiezen gehören, reagieren sie mit Unglauben.
+
+Das ist nicht Lüge als Ausnahme. Das ist die **systematische Konstruktion einer Parallelrealität**.
+
+---
+
+## Die Prompts: Viel Aufwand, für das angebliche Normal
+
+[▶ 32:29](https://www.youtube.com/watch?v=xcn64f3byyk&t=1949) — Wie viel Arbeit steckt hinter einem einzigen KI-Propaganda-Bild? Die Antwort liefert eine Recherche von **De Groene Amsterdammer** in Zusammenarbeit mit der **Data School der Universität Utrecht**: Sie konnten die Prompts eines PVV-Fanaccounts (Geert Wilders) auf Facebook rekonstruieren — weil der Admin sie auf einer Plattform mit öffentlicher Standardeinstellung eingegeben hatte. **174 Prompts**, für jeden sichtbar.
+
+Nocun führt die Prompt-Kette Schritt für Schritt vor. Erster Versuch: *„Erstellen Sie ein Bild einer niederländischen Familie. Sie stehen vor ihrem Haus. Eine niederländische Flagge weht. Es ist ein realistisches Foto."* — Klingt harmlos.
+
+**Vorher** — erste KI-Ausgabe, dem Admin zu unecht und zu wenig arisch:
+
+![[Gedankenwelten/assets/Nocun_republica26_1949.jpg|700]]
+
+Doch der Admin war unzufrieden. Der Junge hatte rote Haare. Die Frau war nicht blond. Also: Nachprompt. Die Frau muss blond sein. Den Jungen bitte auch anders. Noch ein Nachprompt: Das Bild sieht zu unecht aus. Realistischer bitte. Und dann, Schritt drei:
+
+**Nachher** — finale Version, nach dem letzten Prompt:
+
+![[Gedankenwelten/assets/Nocun_republica26_prompts_hübscher.png|700]]
+
+Das Mädchen in der KI-generierten Propagandafamilie wurde nachgeprompt, um attraktiver auszusehen. Nocun kommentiert das nicht mehr — sie hält inne, lässt den Satz im Raum stehen. Die Audience versteht. Und Nocun schließt daraus:
+
+> *„Der derzeitige Zustand ist so abgefuckt, das kann ich gar nicht mehr in Worte fassen. Es ist einfach nur kaputt."*
+
+Was die Prompts offenbaren: Hinter dem Bild einer vermeintlich normalen niederländischen Familie steckt ein **ideologisches Pflichtenheft** — blonde Haare, kein Rotschopf, und ein sexualisierter Blick auf ein Kind. Das Bild soll nicht einfach eine Familie zeigen. Es soll eine **bestimmte** Familie zeigen: die imaginäre ethnisch homogene Norm, die es zu verteidigen gilt. KI macht dieses Bild produzierbar — die Fantasie dahinter ist menschlich.
+
+> [!question] Weitergedacht
+> Der Admin promtete das Mädchen hübscher. Was sagt das über den Blick, mit dem diese Propaganda produziert wird — und über die Normalität, die sie zu konstruieren vorgibt?
 
 ---
 
@@ -156,7 +247,7 @@ Das ist das eigentliche Ziel von KI-Slop: nicht Überzeugung, sondern **Erschöp
 - [Washington Post — Thousands have swooned over this MAGA dream girl. She's made with AI.](https://www.washingtonpost.com/technology/2026/03/20/jessica-foster-maga-dream-girl-ai-fake/) — März 2026
 - [BBC Panorama — Overseas AI fakers push UK-decline narrative](https://www.bbc.co.uk/news/articles/c4g8r23yv71o) — 15.05.2026
 - [BuzzFeed News — Macedonia's Pro-Trump Fake News Industry Had American Links](https://www.buzzfeednews.com/article/craigsilverman/american-conservatives-fake-news-macedonia-paris-wade-libert) — Veles-Recherche, 2016
-- De Groene Amsterdammer + Data School Universität Amsterdam: PVV-Fanaccount-Prompts rekonstruiert (genaue URL nicht gefunden)
+- [De Groene Amsterdammer — Maak haar blond, onschuldig en knap](https://www.groene.nl/artikel/maak-haar-blond-onschuldig-en-knap) — PVV-Fanaccount-Prompts rekonstruiert, Data School Universität Utrecht
 
 ---
 
@@ -189,6 +280,14 @@ Kendi zeigt, wie die Great Replacement Theory als Machtinstrument funktioniert: 
 ### → [[Gedankenwelten/Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
 
 Topfvollgold dokumentiert den manuellen Vorgänger: erfundene Migrationsgeschichten von BILD, weitergetragen von AfD-Politikerinnen, aufgepeppt mit KI-Fakebildern. Bei Nocun ist diese Pipeline vollständig automatisiert — der Fake entsteht per Prompt, die Verbreitung läuft über koordinierte Sockenpuppen-Netzwerke. BILD/NIUS machen manuell, was KI-Slop industriell kann.
+
+### → [[Gedankenwelten/Denker/Hannah Arendt — Die Banalität des Bösen]]
+
+Arendts Kernentdeckung: Das größte Böse entsteht nicht aus Hass, sondern aus dem **Aufhören zu denken** — aus bloßem Funktionieren innerhalb eines Systems. Der PVV-Admin, der „mach sie hübscher" in ein Promptfeld tippt, ist kein Monster. Er führt eine Workflow-Aufgabe aus. Die 190 koordinierten Fake-Frauen-Accounts sind kein dämonisches Projekt — sie sind Infrastruktur, betrieben von jemandem, der seine Arbeit erledigt. Arendts Pilz-Metapher trifft es genau: Das Böse *breitet sich an der Oberfläche aus* — und KI-Slop ist die technische Oberfläche, auf der diese Ausbreitung industriell skaliert.
+
+### → [[Gedankenwelten/Denker/Hannah Arendt — Denken ohne Geländer]]
+
+Das Geländer bei Arendt ist die gemeinsame Faktizität — die geteilte Realität, die es uns ermöglicht, selbst zu urteilen, ohne jeden Einzelfall von Grund auf neu zu durchdenken. Nocuns gesamter Vortrag ist eine Dokumentation davon, wie dieses Geländer systematisch zerstört wird: Decline Porn, Fake-Vox-Pops, KI-Slop-Parallelrealitäten. Wenn Menschen nicht mehr wissen, ob das Interview echt ist, ob das Familienbild real ist, ob Berlin wirklich brennt — verlieren sie genau das, was Arendt als die demokratische Mindestkompetenz beschreibt: die Fähigkeit, zwischen wahr und falsch zu unterscheiden. Die Erschöpfung der Faktizität ist die technologische Ausführung von Arendts schlimmstem Szenario.
 
 ---
 
