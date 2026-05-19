@@ -45,11 +45,15 @@ Was sich in den letzten Monaten dramatisch verändert hat: Diese Accounts, früh
 
 [▶ 11:08](https://www.youtube.com/watch?v=xcn64f3byyk&t=668) — Ein vollständig KI-generiertes Profil namens **„Jessica Foster"** erreichte zeitweise **1,1 Millionen Follower** auf Instagram. Sie postete als Soldatin der US Army, immer schick hergerichtet, immer mit einem klaren politischen Subtext: Trump-Unterstützerin, bereit für ihn in den Krieg zu ziehen. Wer weiterklickte, landete auf ihrem OnlyFans-Account.
 
+![[Gedankenwelten/assets/Nocun_republica26_668.jpg|700]]
+
 Das Prinzip dahinter ist einfach: Attraktive, junge, normschöne KI-Frauen transportieren rechte Narrative wirkungsvoller als alte weiße Männer. Sie aktivieren das **Beschützernarrativ** bei männlichen Wählern — und können gleichzeitig Antifeminismus propagieren, ohne die offensichtliche Heuchelei eines männlichen Kommentators.
 
 [▶ 13:25](https://www.youtube.com/watch?v=xcn64f3byyk&t=805) — In Deutschland war **„Larissa Wagner"** ein bekannter Fall: ein KI-Fake-Account auf X (erkennbar am kleinen KI-Maus-Symbol, das die meisten übersahen), der offen für die AfD warb, migrationsfeindliche Narrative verbreitete — und sich sogar mit dem Compact-Magazin für ein Interview zusammensetzte, in dem die KI-Figur über Medienhetze klagte:
 
 > *„Kaum sagt man, was man denkt, kommt so ein alter ungepflegter Mann von der FAZ und stellt einen als 'rechte Verführerin' dar."*
+
+![[Gedankenwelten/assets/Nocun_republica26_850.jpg|700]]
 
 Das ist kein Fehler, sondern Strategie. Die Figur hat eine vollständige Biografie: 22 Jahre alt, wohnt in Brandenburg, hat einen Schäferhund, fährt Diesel, Mama kommt aus Magdeburg. Diese **Illusion von Nähe** fördert parasoziale Beziehungen. Menschen glauben, sie kennen Larissa. Und Larissa wird nie einen AfD-Korruptionsskandal kritisieren — weil die Admins sie loyal halten.
 
@@ -72,6 +76,8 @@ Der nächste Schritt heißt **Identity-Switching**: Der Account sammelt Reichwei
 
 [▶ 19:27](https://www.youtube.com/watch?v=xcn64f3byyk&t=1167) — Erst zwei Wochen vor dem Vortrag veröffentlichte **Korrektiv** eine systematische Analyse: **190 Profile gehören zu 22 Personas** — alles KI-generierte Fake-Frauen. Die Technologie hat sich so weit entwickelt, dass man sie nicht mehr auf den ersten, zweiten oder dritten Blick erkennt. Besonders: Die Accounts **interagieren miteinander**, reagieren aufeinander, teilen fast identische Inhalte mit leicht variiertem Prompt.
 
+![[Gedankenwelten/assets/Nocun_republica26_1167.jpg|700]]
+
 Das ist kein Einzeltäter mehr. Das ist **Infrastruktur**.
 
 Und sie bedient sich aller demografischen Muster der extremen Rechten mit perfider Konsequenz — bis zu dem Satz über ein angeblich 19-jähriges KI-Mädchen „Luisa", das Interesse an Männern zwischen 36 und 86 Jahren hege. Nocun dazu: „Glaubt mir, das sieht man."
@@ -93,6 +99,8 @@ Das ist nicht Lüge als Ausnahme. Das ist die **systematische Konstruktion einer
 
 > *„Wenn Gruppen von Menschen mit Migrationshintergrund gezeigt werden — fast immer Männer, fast immer wütend, aggressiv. Irgendwelche blonden Frauen verstecken sich in der Ecke. Das ist die Realität, die da konstruiert wird."*
 
+![[Gedankenwelten/assets/Nocun_republica26_1672.jpg|700]]
+
 Hinzu kommt ein Paradox: Wer dagegen kommentiert, boosted den Post. Social Media unterscheidet nicht zwischen positiven und negativen Reaktionen. Empörung ist Engagement. Der AfD-KI-Slop profitiert von seiner eigenen Kritik.
 
 ---
@@ -100,6 +108,8 @@ Hinzu kommt ein Paradox: Wer dagegen kommentiert, boosted den Post. Social Media
 ## Hannah Arendt und das Ende der Faktizität
 
 [▶ 34:00](https://www.youtube.com/watch?v=xcn64f3byyk&t=2040) — Nocun schließt mit einem Arendt-Zitat, das der amtierende Papst Franziskus in seiner letzten Enzyklika zitierte — eine unerwartete intellektuelle Kette:
+
+![[Gedankenwelten/assets/Nocun_republica26_2040.jpg|700]]
 
 > *„Der ideale Untertan totalitärer Herrschaft ist nicht der überzeugte Nazi oder engagierte Kommunist, sondern Menschen, für die der Unterschied zwischen Fakt und Fiktion, zwischen wahr und falsch nicht länger existiert."*
 
