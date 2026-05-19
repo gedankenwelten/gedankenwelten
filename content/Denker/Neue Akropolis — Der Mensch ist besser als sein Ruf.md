@@ -238,6 +238,11 @@ Zimpels IQ-Kritik: Tests messen möglicherweise soziale Anpassung, nicht Intelli
 
 - [[Walther Ziegler — Smith in 60 Minuten]] — Smith als Stammvater des homo oeconomicus, dessen Egoismus-These hier empirisch widerlegt wird
 
+
+### → [[Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]
+
+Der "Korrumpierungseffekt" (äußere Belohnung zerstört intrinsische Motivation) in diesem Vortrag bekommt durch Schultz seinen biologischen Mechanismus: Wenn Belohnung *erwartet* wird, bleibt der Dopamin-RPE aus — das Belohnungssystem feuert nur bei Überraschung. Das erklärt neurobiologisch, warum angekündigte Belohnungen intrinsische Motivation aushöhlen: Sie machen das System unempfindlich, weil die Abweichung von der Erwartung verschwindet.
+
 ---
 
 ## Weiterführend

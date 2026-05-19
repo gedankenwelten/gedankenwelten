@@ -405,6 +405,10 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Wolfram Eilenberger
 **Status:** Stub
 
+## Wolfram Schultz
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wolfram Schultz]]
+
+
 ## Yanis Varoufakis
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Yanis Varoufakis]]
 
