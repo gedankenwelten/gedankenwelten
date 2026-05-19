@@ -241,3 +241,4 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Ernst Gelegs — Ist das Regime Orbán am Ende]] | Kontext · Ungarn |
 | [[ARTE — Forschung Fake und faule Tricks]] | Ursache · Agnotologie |
 | [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] | Konsequenzen · Machtbilanz der AfD-Vorbilder |
+| [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] | Instrument · GFF-Gutachten zur Verfassungswidrigkeit — juristische Operationalisierung des Verbotsdiskurses |

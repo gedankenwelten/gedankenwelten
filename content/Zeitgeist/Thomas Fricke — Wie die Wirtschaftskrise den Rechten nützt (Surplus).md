@@ -264,3 +264,7 @@ Frickes Kontrollverlust-These ist die Erklärungsfolie für das Paradox der Bila
 ### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
 Das BR-Feature "Der Arbeiter und die AfD" über "Peter aus Köln" ist Frickes Kontrollverlust-These als journalistisches Einzelporträt: Ein Mensch, der seine Identität über körperliche Arbeit definiert, erlebt den ökonomischen Strukturwandel als Selbstverlust — und findet in der AfD nicht ein Programm, sondern eine Form der Wut.
+
+### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
+
+Frickes These — AfD-Wähler präferieren die Irrationalität — erklärt, warum das GFF-Gutachten auf "Ergebnisoffenheit" angewiesen ist: Ein Verbotsverfahren, das auf juristischer Rationalität basiert, muss über jeden Parteilichkeitsverdacht erhaben sein, weil die Kraft der AfD-Bewegung gerade aus der Ablehnung institutioneller Rationalität schöpft.

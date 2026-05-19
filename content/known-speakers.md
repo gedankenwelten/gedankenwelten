@@ -66,6 +66,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Barbara Tversky
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Barbara Tversky]]
 
+## Bijan Moini
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Bijan Moini]]
+
 ## Carlo Cipolla
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carlo Cipolla]]
 
