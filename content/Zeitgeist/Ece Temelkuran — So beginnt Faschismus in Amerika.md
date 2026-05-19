@@ -175,6 +175,10 @@ Temelkurans Beobachtung, dass Figuren wie Musk und Vance die AfD fördern, schl�
 
 ähnliche Beobachtung: Ablenkungsmanöver und Kulisse vs. Bühne
 
+### → [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
+
+BissenBlaBla liefert die empirische Querschnittsanalyse zu Temelkurans Sieben-Stufen-Modell: Institutionenabbau (Stufe 6) ist bei Orbán, Kaczyński, Bolsonaro und Erdoğan das konstanteste Muster. Die konzeptuelle Spannung: Temelkuran betont Erdoğans langsames Vorgehen — BissenBlaBla zeigt, dass er trotzdem am meisten zerstört hat.
+
 ### → [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 
 Heitmeyers Konzept der institutionellen Enthemmung deckt sich mit Temelkurans Stufe 4 (Scham aus dem öffentlichen Raum verbannen)
