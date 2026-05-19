@@ -405,6 +405,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Ulf Poschardt
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ulf Poschardt]]
 
+## Valentina Chiofalo
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Valentina Chiofalo]]
+
 ## Volker Quaschning
 **Status:** Stub
 
