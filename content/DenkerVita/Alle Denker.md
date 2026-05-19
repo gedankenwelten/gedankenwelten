@@ -111,6 +111,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[Gedankenwelten/DenkerVita/Katharina Nocun|Katharina Nocun]]** — Deutsch-polnische Netzaktivistin, Autorin, Konspirationsmythologen-Forscherin; Digitale Bürgerrechte, Verschwörungstheorien, esoterische Vorfeld-Organisationen der extremen Rechten, KI-generierte Desinformation; Piratenpartei-Policy-Coordinator 2013–2016, Kampagnen für Campact und FSFE, Snowden-Supporter
+
 **[[Gedankenwelten/DenkerVita/Kojin Karatani|Kojin Karatani]]** — Japanischer Philosoph, Literaturtheoretiker; Berggruen Prize 2022; Tauschformen-Theorie statt Produktionsweisen, Capital-Nation-State-Triade, Isonomia vs. Platonismus, Transkritik (Kant + Marx), Associationism
 
 **[[Gedankenwelten/DenkerVita/Kevin Kuehnert|Kevin Kühnert]]** — Ehemaliger SPD-Generalsekretär, Juso-Vorsitzender; Verteilungspolitik und Steuern bei Finanzwende; 6%-Rendite-Besteuerung, Vermögenskonzentration als Demokratiegefahr
@@ -240,7 +242,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 - [[Gedankenwelten/DenkerVita/Marie-Agnes Strack-Zimmermann|Marie-Agnes Strack-Zimmermann]] — FDP-Politikerin, MdEP; Europäische Verteidigungsautonomie, panneuropäische Allianzbildung
 - [[Gedankenwelten/DenkerVita/Natalie Amiri|Natalie Amiri]] — Deutsch-iranische Journalistin, ARD-Weltspiegel-Moderatorin; Gottesstaat → Militärdiktatur, doppelte Innenperspektive
 - [[Gedankenwelten/DenkerVita/Nico Semsrott|Nico Semsrott]] — (Vollanalyse vorhanden)
-- [[Gedankenwelten/DenkerVita/René Descartes|René Descartes]] — Philosoph, Mathematiker; Begründer Rationalismus, „Vater der modernen Philosophie"
+- [[Gedankenwelten/DenkerVita/Rene Descartes|René Descartes]] — Philosoph, Mathematiker; Begründer Rationalismus, „Vater der modernen Philosophie"
 - [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka]] — Laienlehrer, Vipassana-Meditation; industrieller aus Burma; 340+ Zentren in 94 Ländern, alle kostenlos
 - [[Gedankenwelten/DenkerVita/Sigmund Freud|Sigmund Freud]] — Arzt, Neurologe, Begründer der Psychoanalyse; Unbewusstes, Ödipuskomplex, Sublimierung
 - [[Gedankenwelten/DenkerVita/Karl Marx|Karl Marx]] — Philosoph, Ökonom; Historischer Materialismus, Basis-Überbau-Theorie, Mehrwerttheorie

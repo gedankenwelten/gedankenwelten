@@ -5,6 +5,15 @@ tags:
   - quellen
   - links
 ---
+## Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26: Jung, blond, rechts... & KI-generiert (YouTube)](https://www.youtube.com/watch?v=xcn64f3byyk) |
+| **Session-Seite** | [re:publica 26](https://re-publica.com/de/session/jung-blond-rechts-ki-generiert-wie-ai-content-das-politische-vorfeld-der-extremen-rechten) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Nocun_KI_Rechtsextremismus_republica26_Transkript.txt` |
+
 ## Maurice Höfgen — Florian Bauer entlarvt Familienunternehmer-Lobby
 
 | | |

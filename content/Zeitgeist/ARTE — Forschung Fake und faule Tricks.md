@@ -214,6 +214,10 @@ Das ist Agnotologie ohne Akteur — produziertes Unwissen durch strukturelle Anr
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+
+Nocuns „Erschöpfung der Faktizität" ist Agnotologie mit KI skaliert: Was das Tabak-Blueprint manuell über Jahrzehnte betrieb, macht KI-Slop in Echtzeit — Zweifel industrialisieren, epistemischen Boden wegziehen, Parallelrealitäten bauen.
+
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 
 Mausfeld analysiert, wie Eliten Meinung formen; Agnotologie ist die industrielle Variante derselben Strategie: nicht Überzeugung, sondern Apathie und Verwirrung als Ziel
