@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Amlinger & Nachtwey — Zerstörungslust: Demokratischer Faschismus (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Zerstörungslust — re:publica 26](https://www.youtube.com/watch?v=yM_or9mYaXM) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Amlinger_Nachtwey_Zerstoerungslust_Transkript.txt` |
+
 ## Steinke & Marinić — Quo vadis Meinungsfreiheit? (re:publica 26)
 
 | | |

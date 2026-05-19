@@ -69,6 +69,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Carlo Cipolla
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carlo Cipolla]]
 
+## Carolin Amlinger
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carolin Amlinger]]
+
 ## Christian Jakob
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christian Jakob]]
 
@@ -317,6 +320,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Niklas Luhmann
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Niklas Luhmann]]
+
+## Oliver Nachtwey
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Oliver Nachtwey]]
 
 ## Natalie Amiri
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Natalie Amiri]]

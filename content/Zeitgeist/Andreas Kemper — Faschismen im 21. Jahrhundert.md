@@ -231,6 +231,7 @@ Musk ließ Wikipedia von Grok umschreiben zu *„Grokipedia"* — mit verfälsch
 
 **Technofaschismus konkret — Pentagon vs. Anthropic:** [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]] — Tooze analysiert den Fall aus wirtschaftshistorischer Sicht: Das Pentagon verlangt Claude für autonome Kampfroboter und Massenüberwachung. Das sind nicht zufällig Kempers zwei Kernmerkmale postfordistischer faschistischer Herrschaft — KI als Machtinstrument ohne Massenmobilisierung. Tooze liefert die politökonomische Einordnung zu Kempers Theorie.
 
+- [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]] — Kempers Drei-Typen-Schema (völkisch, klerikalfaschistisch, technofaschistisch) und A/Ns Drei-Typen-Schema (Erneuerer, Zerstörer, Libertäre Autoritäre) typologisieren denselben Gegenstand entlang verschiedener Achsen: Kemper nach ideologischer Trägerschaft, A/N nach emotionaler Funktion. Die Allianz der Destruktiven bei A/N (Trump, Musk, AfD, Evangelikale) umfasst Kempers alle drei Typen.
 ### → [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]]
 
 Temelkuran und Kemper teilen dieselbe Diagnose: Faschismus muss beim Namen genannt werden; beide warnen vor Verharmlosung durch Lachen — Temelkuran aus gelebter Exil-Perspektive

@@ -137,6 +137,7 @@ Die alte linke Utopie (Marcuse: Technologie befreit uns von Arbeit) war schon im
 
 ---
 
+- [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]] — Beide Analysen kreisen um das Zerstörungsprinzip, aber Redecker fragt: *Was wird verteidigt?* (Phantombesitz), A/N fragen: *Was wird genossen?* (Zerstörungslust als Gefühlsstruktur). Redeckers Zerstörung als Eigentumserweis und A/Ns Allianz der Destruktiven beschreiben dieselbe Praxis — aus Eigentumslogik vs. aus Affektlogik.
 ## Faktencheck
 
 > [!success] Bestätigt — 7 Millionen Obdachlose nach 2008 in den USA
