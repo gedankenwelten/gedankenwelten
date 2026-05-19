@@ -216,6 +216,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Jonathan Haidt
 **Status:** Stub
 
+## Jagoda Marinić
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jagoda Marinic]]
+
 ## Jürgen Habermas
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Juergen Habermas]]
 

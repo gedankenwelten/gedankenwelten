@@ -73,3 +73,4 @@ Steinke verortet sich selbst nicht parteipolitisch, ist aber klar progressiv-lib
 ## Cortex-Notes
 
 - [[Gedankenwelten/Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] — Jung & Naiv Folge 823 (2026)
+- [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke & Marinić — Quo vadis Meinungsfreiheit?]] — re:publica 26 Gespräch (2026)
