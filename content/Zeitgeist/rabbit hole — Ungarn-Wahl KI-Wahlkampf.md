@@ -137,6 +137,10 @@ Woher das Geld kommt, ist unklar — Presseanfragen blieben unbeantwortet.
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+
+Nocun zeigt die privatwirtschaftliche Komplementärseite: Während rabbit hole staatlich orchestrierte KI-Propaganda (Orbán/Fidesz) dokumentiert, analysiert Nocun das Ecosystem privater Akteure — Fake-Frauen, Fake-Rabbiner, Verfallporn. Zusammen das vollständige Bild: KI-Propaganda als Zwei-Sektor-Infrastruktur aus Staat und Markt.
+
 ### → [[Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]]
 
 Gleiche Wahl, persönliche Perspektive einer Ukrainerin in Ungarn; ergänzt den KI-Fake-Fokus um Stimmungsbericht vom Wahltag

@@ -207,6 +207,10 @@ Verstehen als Voraussetzung für Handeln: Wenn das Haus überflutet wird und man
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+
+Nocuns KI-Fake-Frauen in Angstposen, wütende dunkelhäutige Männer als Dauerschleife, Berlin als Albtraum-Realität — das ist die visuell-algorithmische Umsetzungsschicht von Kendis Great-Replacement-Analyse. Kendi erklärt das politische Warum, Nocun zeigt das technologische Wie.
+
 ### → [[Götz Aly — Wie konnte das geschehen]]
 
 Alys historische Analyse trifft Kendis Gegenwartsdiagnose: Die Parallelen zur NS-Ideologie, die Kendi explizit zieht, sind genau das, was Aly für die 1930er rekonstruiert — ein Minderheit wird als alien zur Nation dargestellt, als globale Verschwörung, als Ursache aller Übel. Kendi zeigt: Die Theorie hat überlebt, die Opfer haben sich verschoben.

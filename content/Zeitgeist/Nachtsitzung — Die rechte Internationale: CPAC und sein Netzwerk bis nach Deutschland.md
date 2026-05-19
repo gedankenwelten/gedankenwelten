@@ -149,6 +149,10 @@ Das macht es gleichzeitig gefährlich **und** verwundbar: Es sind nur eine Handv
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+
+Nocuns KI-Fake-Frauen und Verfallporn-Accounts sind das taktische Ausführungslevel der Infrastruktur, die die CPAC-Note beschreibt: Heritage Foundation und Atlas-Netzwerk liefern die Agenda, KI-Sockenpuppen skalieren sie auf Social Media.
+
 ### → [[Andreas Kemper — Technofaschismus und die AfD]]
 
 Direkte Verlängerung: Wo Kemper zeigt, wie Musk und Tech-Eliten die AfD strukturell stützen, liefert die CPAC-Note den transatlantischen Institutionenrahmen — Heritage Foundation, Atlas-Netzwerk, Bannon. Beide Notes zusammen: informelle Netzwerke + formelle Konferenzinfrastruktur
