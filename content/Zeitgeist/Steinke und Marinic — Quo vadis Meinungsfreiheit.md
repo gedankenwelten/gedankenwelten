@@ -62,6 +62,14 @@ Ihr Argument: Ein Tweet, der aufgeregt wird, übersetzt sich in gigantische medi
 
 Das Paradox: [▶ 9:14](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=554) Wir diskutieren über Meinungsfreiheit, während die eigentlichen demokratischen Fragen — Wohnen, soziale Ungleichheit, Demokratieerosion — in Nischen verschwinden. Die Debatten über *das Recht zu reden* verdrängen die Debatten über *das, worüber geredet werden sollte*.
 
+Die Gegenthese, die Steinke zu Marinić einbringt: [▶ 10:44](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=644) Nicht Erschlaffung, sondern Delegierung. Am 7. Oktober 2023 schrieben Menschen auf Instagram "toller Tag des Widerstands" — während israelische Zivilisten ermordet wurden. In München folgte, aus *guten Intentionen*, die Hausdurchsuchung, das eingekassierte Handy, das Strafverfahren. Steinkes Frage: Bringt uns das weiter?
+
+> *„Ich glaube, gerade ich als jemand, der das empörend findet — ich würde sagen, das bringt uns nicht weiter. Weil das Nachdenken dieses Menschen ist danach zu. Der wird dann erst recht sagen, wir sind hier im autoritären Staat."*
+
+[▶ 11:30](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=690) Das ist kein Plädoyer für die Meinung. Es ist ein Plädoyer für die Wirksamkeit: Viele Menschen sagen empörende, rassistische Dinge, weil sie noch nicht lang genug mit anderen darüber reflektiert haben, weil sie unter Gruppendruck stehen. Die Strafverfolgung nimmt diesen Menschen als Gesprächspartner, bevor das Gespräch beginnen kann. *For the benefit of the audience* — das Gespräch nützt nicht nur dem, der überzeugt werden soll, sondern allen Zuhörenden.
+
+Marinić schärft das zum strukturellen Befund: [▶ 16:47](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=1007) Wir befinden uns in einem *demokratieverschleißenden Schaukampf*, in dem Streit auch der Selbstinszenierung dient und für manche ein Geschäftsmodell ist. Das Gegenbild: *deliberative Demokratie* — Probleme auf den Tisch, Meinungsvielfalt der Lösungswege diskutieren, ein besseres Morgen versprechen. Was fehlt, ist eine *zielorientierte Streitkultur*, eine **Lösungslust**: Wir streiten um etwas, und dann gehen wir raus und haben einen Konsens — auch wenn er manchen weniger gefällt.
+
 ---
 
 ## Der Durchlauferhitzer — Algorithmus als Demokratiekiller
@@ -104,6 +112,10 @@ Corona war der Wendepunkt: Massiver Eingriff in den Alltag, Meinungen wurden ge�
 
 [▶ 39:41](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=2381) — Steinke ergänzt: 30% AfD-Umfragen nicht als Problem der falschen Meinung behandeln, sondern analysieren: Warum übersetzt sich dieses Ohnmachtsgefühl in diese Lösung? Solange Meinungsfreiheitsdiskurse keine Exit-Strategien aus dem Ohnmachtsgefühl bieten, kommen Leute zu dem, was Steinke *Kamikaze-Lösungen* nennt.
 
+[▶ 40:27](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=2427) — Steinkes Einwand gegen Marinićs Analyse: Wenn man die Meinungsfreiheitsdebatte noch weiter theoretisiert und intellektualisiert, verliert man genau die Menschen, um die es eigentlich geht. Die 30%, die Umfragen erschrecken, sagen nicht: *Ich brauche erstmal eine saftige Diskussion über Meinungsfreiheit*. Die sind pragmatisch. Die AfD hat — überspitzt gesagt — die Funktion der Arbeiterpartei übernommen: sie ersetzt das Bedürfnis, dass jemand Lösung für *meinen Alltag* hat, nicht für Debatten, mit denen ich nichts am Hut habe.
+
+[▶ 41:59](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=2519) — Marinić gibt ein konkretes Beispiel für das, was fehlt: Die letzte große Grundstückspreisdebatte in Deutschland hat Hans Jochen Vogel angestoßen. Seitdem — nichts. Dabei ist die Frage täglich präsent: Ich kann mein Leben lang arbeiten und keine Wohnung kaufen. Das wäre ein Thema, über das in der Breite wirklich diskutiert werden müsste, mit Experten und Nichtexperten gleichermaßen. Die Frage für Journalisten, Debattengestalter, Medien: *Wie reden wir über die Dinge, die uns demokratisch das Gefühl geben, wieder wirkmächtig zu werden?*
+
 ---
 
 ## Das Debattenproblem: Deutschland kann nicht streiten
@@ -113,6 +125,21 @@ Corona war der Wendepunkt: Massiver Eingriff in den Alltag, Meinungen wurden ge�
 [▶ 32:47](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=1967) — An Universitäten wird es konkreter. Benny Morris, israelischer Historiker, konnte an der Uni Leipzig nicht sprechen — zu pro-israelisch. Nancy Fraser, amerikanische Philosophin, durfte in Köln nicht reden — zu anti-israelisch. Gerade wenn es interessant werden könnte, wenn Meinungen aufeinanderprallen und man etwas lernen könnte — kriegen Leute kalte Füße. Steinke nennt das *Debattenschwäche*: unverzeihlich, besonders an Institutionen, die sich keinen Einschaltquoten rechtfertigen müssen.
 
 Marinić unterscheidet: Wir sind nicht *erschlafft*, sondern *hyper-aroused*. Wir führen zu viele Debatten — nur die falschen. Es fehlt eine *zielorientierte* Streitkultur, eine *Lösungslust*: Wir streiten um etwas, und dann gehen wir raus und haben einen Konsens, auch wenn er manchen weniger gefällt.
+
+---
+
+## Meinungsfreiheit vs. Freedom of Speech — der transatlantische Irrtum
+
+[▶ 24:25](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=1465) — Ein überraschender Nebenstrang des Gesprächs: Steinke warnt davor, das amerikanische Modell zu idealisieren. Bürgerrechtlich gesinnte US-Aktivisten, die Trump aktiv bekämpfen, hätten ihm gesagt: *ihr größter Albtraum wäre, wenn Amerika die deutschen Gesetze übernähme*. Stell dir vor, was Donald Trump mit einem deutschen Beleidigungsparagraphen machen könnte — *Trump lick* sagen, und morgens früh steht die Polizei mit Waffe am Gürtel vor der Tür. Das Signal, das von deutschen Hausdurchsuchungen für Internet-Kommentare ausgeht, wird im internationalen Vergleich zum Warnsignal für Demokratierückschritt.
+
+[▶ 25:11](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=1511) — Marinić bremst. Sie selbst kann unter Umständen nicht in die USA einreisen — aufgrund von Tweets. Das amerikanische System hat andere, eigene Mechanismen der Machtausübung. Und es gibt einen konzeptuellen Grundunterschied: *Freedom of Speech* meint Redefreiheit, fast unbeschränkt — deswegen ist Holocaustleugnung dort nicht verboten. *Meinungsfreiheit* im deutschen Sinne ist ein ausdifferenzierteres Konzept. Man kann das eine kritisieren wie das andere. Der falsche Lokalpatriotismus — *unser Team, euer Team* — bringt nichts.
+
+> *„Wir sind Bürger. Wir sind froh, dass wir die Probleme in Amerika nicht haben in der Ausprägung — aber benennen wir trotzdem unsere Probleme."*
+
+[▶ 27:29](https://www.youtube.com/watch?v=cJSMIQL9A_Y&t=1649) — Steinke klärt sein Argument: Er versucht nicht, Deutschland mit Amerika zu vergleichen und Amerika zu favorisieren. Er zeigt, dass es sich um dieselbe *demokratische Bewegung* handelt, die überall demokratische Gesellschaften betrifft — die Symptome zeigen sich nur unterschiedlich, je nachdem wie Länder aufgestellt sind. In den USA: Einreiseverweigerung für Tweets. In Deutschland: §188 StGB und koordinierte Hausdurchsuchungstage. Verschiedene Formen derselben Erosion.
+
+> [!question] Weitergedacht
+> Wenn Freedom of Speech und Meinungsfreiheit grundlegend verschiedene Konzepte sind — *wie können wir dann transatlantisch sinnvoll über Meinungsfreiheit diskutieren, ohne aneinander vorbeizureden?*
 
 ---
 

@@ -250,6 +250,7 @@ Mau beschreibt die *demobilisierte Klassengesellschaft*: Klasse strukturiert Leb
 
 ---
 
+- [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]] — A/Ns These des demokratischen Faschismus ist das emotionale Pendant zu Dörres struktureller Beobachtung, dass Faschismus in liberalen Demokratien von innen wächst. Dörres Outlaw-Stolz und A/Ns Zerstörungslust beschreiben denselben affektiven Boden — aus Klassen- vs. Gefühlsstruktur-Perspektive.
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

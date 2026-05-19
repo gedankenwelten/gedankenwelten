@@ -149,6 +149,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Martin Heidegger|Martin Heidegger]]** — Philosoph, Begründer Fundamentalontologie; Dasein, In-der-Welt-Sein, Sorge, Das Man, Sein-zum-Tode, Gestell der Technik
 
+**[[Gedankenwelten/DenkerVita/Carolin Amlinger|Carolin Amlinger]]** — Soziologin & Literaturwissenschaftlerin (Uni Basel); libertärer Autoritarismus, demokratischer Faschismus, Zerstörungslust; Geschwister-Scholl-Preis 2025
+
+**[[Gedankenwelten/DenkerVita/Oliver Nachtwey|Oliver Nachtwey]]** — Soziologe, Prof. für Sozialstrukturanalyse (Uni Basel); Abstiegsgesellschaft, demokratischer Faschismus; Geschwister-Scholl-Preis 2025
+
 **[[Gedankenwelten/DenkerVita/Martin Sonneborn|Martin Sonneborn]]** — Satiriker, Ex-Chefredakteur *Titanic*, Die PARTEI, MdEP 2014–2024; Krieg als Geschäftsmodell, Medien erzeugen Zustimmung, Satire als politisches Instrument
 
 **[[Gedankenwelten/DenkerVita/Matthias Quent|Matthias Quent]]** — Soziologe, Rechtsextremismusforscher, Professor HS Magdeburg-Stendal; Verherrlichung der Ohnmacht, NSU als Gesellschaftsdiagnose, Normalisierung als Strategie, wehrhafte Demokratie
