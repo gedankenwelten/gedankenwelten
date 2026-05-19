@@ -240,3 +240,4 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]] | Kontext · Wahlautokratie wankt |
 | [[Ernst Gelegs — Ist das Regime Orbán am Ende]] | Kontext · Ungarn |
 | [[ARTE — Forschung Fake und faule Tricks]] | Ursache · Agnotologie |
+| [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] | Konsequenzen · Machtbilanz der AfD-Vorbilder |

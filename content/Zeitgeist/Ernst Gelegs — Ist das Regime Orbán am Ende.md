@@ -190,6 +190,10 @@ Temelkuran kennt den türkischen Präzedenzfall (Erdoğan) und beschreibt diesel
 
 Mausfeld fragt, wie Eliten Zustimmung organisieren und Widerstand unsichtbar machen. Warum trägt Ungarns Bevölkerung Orbán so lange? Dieser Mechanismus unter illiberalen Bedingungen.
 
+### → [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
+
+Externe Messung mit internationalen Indizes (Freedom House, Transparency International, IWF): Ungarn ist das korrumpteste Land der EU, mit 19 Mrd. eingefrorenen EU-Geldern und stagnierender Wirtschaft. Gelegs erklärt die innere Architektur — BissenBlaBla die äußere Bilanz.
+
 ### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 
 Manow analysiert, wie Globalisierungsverlierer populistische Parteien wählen und dadurch Systemautoritarismus ermöglichen. Ungarn ist sein Musterfall in Reinform.

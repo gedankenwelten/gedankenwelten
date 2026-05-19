@@ -121,6 +121,10 @@ Analysiert die faschistische Drift in Europa; Ungarns demokratische Wende ist da
 
 Manows These, dass Wähler unter autoritären Bedingungen trotzdem Korrektive setzen können, bestätigt sich in Ungarn eindrücklich
 
+### → [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
+
+Liefert die systematische Machtbilanz: Ungarn ist einer von zehn Fällen, in denen rechte Regierungen an ihren eigenen Versprechen gemessen werden — und scheitern. Das Video erklärt retrospektiv mit internationalen Indizes, warum Orbáns Abwahl keine Überraschung war.
+
 ### → [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 
 Kendi beschreibt, wie Wahlautokratien institutionell abgesichert werden; Gawrich greift genau diesen Punkt auf: Institutionen, Verfassungsgericht, Nationalbank als Orbán-Festungen

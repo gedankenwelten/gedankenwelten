@@ -5,6 +5,14 @@ tags:
   - quellen
   - links
 ---
+## BissenBlaBla — Bilanz rechter Regierungen
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Ich analysiere die Erfolge rechter Regierungen (YouTube)](https://www.youtube.com/watch?v=F75_QIoKYsI) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/BissenBlaBla_Rechte_Regierungen_Transkript.txt` |
+
 ## Yanis Varoufakis — 2008 Crash, Populismus und Europa
 
 | | |
