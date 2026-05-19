@@ -34,7 +34,7 @@ Quelle: [re:publica 26 — Nach einem Jahr Arbeit ist unser Gutachten zur AfD so
 
 > *„Die ganze Debatte um ein AfD-Verbot leidet daran, dass niemand so richtig beantworten kann, ob denn ein Verbotsantrag Erfolg haben würde oder nicht."*
 
-Das Bundesamt für Verfassungsschutz (BfV) hatte 2024 ein 1.108-seitiges Gutachten vorgelegt, das die AfD als *gesichert rechtsextremistisch* einstufte. *(Moini nennt im Talk "118 Seiten" — vermutlich ein Versprecher für "eintausendeinhundertacht".)* Dieses Gutachten hat aber nach Moinis Analyse erhebliche strukturelle Schwächen: Es behandelt nur den Bundesverband, ignoriert die teils radikaleren Landesverbände. Es berücksichtigt Parlamentsvorgänge überhaupt nicht — keine Reden, keine Anträge, keine Gesetzentwürfe. Und es beantwortet eine andere Frage: nicht ob die AfD verfassungswidrig ist, sondern ob sie *gesichert rechtsextremistisch* ist. Für diese Frage gelten andere, niedrigere Beweismaßstäbe.
+Das Bundesamt für Verfassungsschutz (BfV) hatte 2024 ein 1.108-seitiges Gutachten vorgelegt, das die AfD als *gesichert rechtsextremistisch* einstufte. Dieses Gutachten hat aber nach Moinis Analyse erhebliche strukturelle Schwächen: Es behandelt nur den Bundesverband, ignoriert die teils radikaleren Landesverbände. Es berücksichtigt Parlamentsvorgänge überhaupt nicht — keine Reden, keine Anträge, keine Gesetzentwürfe. Und es beantwortet eine andere Frage: nicht ob die AfD verfassungswidrig ist, sondern ob sie *gesichert rechtsextremistisch* ist. Für diese Frage gelten andere, niedrigere Beweismaßstäbe.
 
 Das Verwaltungsgericht Köln hat dem BfV zwischenzeitlich untersagt, die AfD so zu bezeichnen — vorläufig bis zum Abschluss des Hauptverfahrens. Dieser Beschluss leidet nach Moini an denselben Mängeln. Ein prägnantes Beispiel: Das Gericht stellt fest, dass die AfD muslimfeindlich ist, meint aber, diese Muslimfeindlichkeit *präge* die Partei nicht. Moinis Einschätzung dazu ist deutlich:
 
@@ -139,9 +139,6 @@ Ende Juni 2026 soll das Ergebnis veröffentlicht werden.
 ---
 
 ## Faktencheck
-
-> [!danger] Falsch — Seitenanzahl BfV-Gutachten
-> Moini nennt "118 Seiten" für das BfV-Gutachten zur AfD. Das Gutachten umfasst tatsächlich **1.108 Seiten** — die Zahl ist um den Faktor 10 zu niedrig. Vermutlich ein Versprecher im Vortrag ("eintausend einhundertacht" vs. "einhundertacht"). Quelle: [fragdenstaat.de — Erste Belege zur AfD-Einstufung öffentlich](https://fragdenstaat.de/artikel/exklusiv/2025/05/afd-gutachten-ausschnitt-verfassungsfeindlich/)
 
 > [!success] Bestätigt — VG Köln stoppt "gesichert rechtsextremistisch"
 > Das Verwaltungsgericht Köln erließ am 26. Februar 2026 eine einstweilige Verfügung: Das BfV darf die AfD bis zum Abschluss des Hauptsacheverfahrens nicht als "gesichert rechtsextremistische Bestrebung" einstufen. Quelle: [VG Köln — Pressemitteilung 26.02.2026](https://www.vg-koeln.nrw.de/behoerde/presse/Pressemitteilungen/05_26022026/index.php?print=1)
