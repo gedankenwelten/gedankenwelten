@@ -236,3 +236,7 @@ Die eigentliche Frage ist eine andere: Wie viel Staatsmacht hat sich die Industr
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
 Grenzgänger Studios dokumentiert Thiels Gesamtbiografie als konkretes Fallbeispiel für Mühlhoffs Desouveränisierungs-These: CIA-Startfinanzierung → Palantir → DOGE-Datenzugriff → ObjectionAI. Was Mühlhoff als strukturelle Logik beschreibt (exponentielles KI-Wachstum erzwingt antidemokratische Governance), hat Thiel Schritt für Schritt realisiert.
+
+### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+
+Kurz und Görlitz liefern den deutschen Rechtsfall zu Mühlhoffs Desouveränisierungsthese: Palantir übernimmt staatliche Kernfunktionen (Polizei, Gefahrenabwehr) ohne demokratische Kontrolle — der Vendor Lock-in und das Scheitern der Gesetze an Verfassungsstandards ist die empirische Verifikation seiner strukturellen Kritik.

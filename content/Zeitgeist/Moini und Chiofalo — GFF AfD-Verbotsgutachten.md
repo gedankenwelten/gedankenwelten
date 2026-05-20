@@ -200,6 +200,10 @@ Fricke zeigt, dass AfD-Wähler "nicht für ein rationales Programm wählen, sond
 
 Das Gutachten ringt juristisch mit dem, was diese Note analytisch aufdeckt: Remigration ist als Dog Whistle so konstruiert, dass er juridisch unangreifbar bleibt — pseudowissenschaftlicher Klang statt expliziter Gewaltandrohung. Brockschmidt nennt den Mechanismus, Moini/Chiofalo treffen genau an dieser Grenze seine rechtliche Konsequenz.
 
+### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+
+Die GFF ist in beiden Notes die handelnde Rechtsschutzorganisation: Görlitz koordiniert die Palantir-Verfassungsbeschwerden, Moini/Chiofalo das AfD-Verbotsgutachten — die GFF bespielt algorithmische Polizeiüberwachung und demokratischen Schutz vor Rechtsextremismus aus derselben strategischen Prozessführungslogik.
+
 ### → [[Gedankenwelten/Zeitgeist/Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 Semsrott und Sahebi dokumentieren den systematischen Angriff auf zivilgesellschaftliche Strukturen — genau die, aus denen die GFF hervorgeht. Das GFF-Gutachten ist selbst ein Akt zivilgesellschaftlicher Demokratieverteidigung: Eine NGO übernimmt die juristische Vorarbeit, die eigentlich dem Bundestag oblegen hätte, aber politisch blockiert wurde. Die Note illustriert, wie demokratische Aufgaben an die Zivilgesellschaft verschoben werden — und welche Risiken damit verbunden sind.

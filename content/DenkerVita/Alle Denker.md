@@ -41,6 +41,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Clara Mattei|Clara Mattei]]** — Ökonomin; Austerität als Kern des Kapitalismus, Liberalismus-Faschismus-Konvergenz, *The Capital Order*
 
+
+**[[Gedankenwelten/DenkerVita/Constanze Kurz|Constanze Kurz]]** — Informatikerin, CCC-Sprecherin, netzpolitik.org-Redakteurin; Technologiekritik, Datenschutz, Überwachung durch Polizei-Software wie Palantir; Vortragende zu Grundrechten im digitalen Zeitalter, technische Sachverständige vor Bundesverfassungsgericht; Theodor-Heuss-Medaille 2013
 ## D
 
 **[[Gedankenwelten/DenkerVita/Der Dara|Der Dara (Marc)]]** — YouTuber, politischer Kommentator; Aufklärung gegen Rechts, Fake-News-Debunking, Reaction-Format als politische Bildung

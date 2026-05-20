@@ -244,3 +244,7 @@ Varoufakis benennt, was Nosthoffs kybernetische Verhaltenssteuerung *ökonomisch
 ### → [[Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]
 
 Schultz liefert die neuronale Grammatik für das, was Nosthoff als Machtstrategie beschreibt: Soziale Medien sind als RPE-Maschinen gebaut — variables Intervall-Scheduling maximiert die Rate positiver Prediction Errors und erzeugt damit biologisch fundierte Abhängigkeit. Schultz' Biochemie macht Nosthoffs kybernetische Verhaltenssteuerung greifbar: Die Plattformen haben nicht nur ein Geschäftsmodell optimiert, sondern eine neuronale Architektur instrumentalisiert.
+
+### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+
+Palantir Gotham ist die direkte Realisierung von Nosthoffs kybernetischer Prädiktionslogik: statt feindlicher Piloten "vorausberechnet" der Algorithmus Verdächtige — dasselbe Maschinenmodell, angewendet auf Kriminalität statt Krieg. Kurz und Görlitz liefern den deutschen Rechtsfall zur technikhistorischen These.

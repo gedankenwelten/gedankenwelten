@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Kurz & Görlitz — Palantir und die deutsche Polizei (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Immer mehr neue Palantir-Gesetze](https://www.youtube.com/watch?v=wM7_nI9ZLCE) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]] |
+| **Transkript** | `Gedankenwelten/Transkripte/KurzGoerlitz_Palantir_Transkript.txt` |
+
+---
+
 ## Arne Semsrott — Zur Gegenmacht (re:publica 26)
 
 | | |

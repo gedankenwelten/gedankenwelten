@@ -185,3 +185,7 @@ Grenzgänger Studios erzählt investigativ, was Bria als Netzwerkkarte abstrahie
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
 Varoufakis liefert die ökonomische Erklärung für Brias Authoritarian Stack: Cloud Capital entstand nicht durch geniale Unternehmer, sondern durch QE-Liquidität nach 2008. Bria kartiert die politische Machtstruktur; Varoufakis erklärt, warum diese Struktur ökonomisch zwangsläufig entstand — Profit wird zu Tribut, Märkte werden durch Plattformen ersetzt, Kapitalismus mutiert zu Technofeudalism.
+
+### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+
+Kurz und Görlitz dokumentieren Brias "State Capture" als konkreten Vertragstext: Der Palantir-Vertrag in Baden-Württemberg (25 Mio. Euro, ohne Ausstiegsklausel) *vor* dem Polizeigesetz ist Vendor Lock-in als politische Fait Accompli — das Geld erzeugt den Willen, nicht umgekehrt.
