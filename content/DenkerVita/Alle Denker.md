@@ -13,6 +13,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
+**[[Gedankenwelten/DenkerVita/Annika Brockschmidt|Annika Brockschmidt]]** — Journalistin und Autorin, freie Mitarbeiterin *Die Zeit*, *Tagesspiegel*, *Frankfurter Rundschau*; Senior Correspondent Religion Dispatches; Expertise: Religiöse Rechte in USA, Rechtsextremismus, Dog Whistles und Codes; Bestseller-Autorin *Amerikas Gotteskrieger* (2021), *Die Brandstifter* (2024); Transatlantic Media Fellow Heinrich-Böll-Stiftung 2022
+
 **[[Gedankenwelten/DenkerVita/Arnd Henze|Arnd Henze]]** — Investigativer WDR-Journalist, evangelischer Theologe; christlicher Nationalismus, antidemokratisches protestantisches Erbe, Bonhoeffer-Vereinnahmung durch die Neue Rechte; EKD-Synode seit 2020
 
 **[[Gedankenwelten/DenkerVita/Abdolkarim Soroush|Abdolkarim Soroush]]** — Iranischer Religionsphilosoph, pro-Demokratie-Aktivist; Qabz va Bast (Kontraktion/Expansion religiösen Wissens), religiöser Pluralismus, Kritik am velayat-e faqih, Reformislam; Erasmus-Preis 2004, Time 100 2005

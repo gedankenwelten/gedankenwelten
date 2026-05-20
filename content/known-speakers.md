@@ -39,6 +39,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Albert Moukheiber
 **Status:** Stub
 
+## Annika Brockschmidt
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Annika Brockschmidt]]
+
 ## Alex Demirović
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Alex Demirovic]]
 
