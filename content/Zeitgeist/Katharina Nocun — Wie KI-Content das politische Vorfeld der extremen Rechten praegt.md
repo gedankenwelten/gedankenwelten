@@ -285,6 +285,10 @@ Topfvollgold dokumentiert den manuellen Vorgänger: erfundene Migrationsgeschich
 
 Arendts Kernentdeckung: Das größte Böse entsteht nicht aus Hass, sondern aus dem **Aufhören zu denken** — aus bloßem Funktionieren innerhalb eines Systems. Der PVV-Admin, der „mach sie hübscher" in ein Promptfeld tippt, ist kein Monster. Er führt eine Workflow-Aufgabe aus. Die 190 koordinierten Fake-Frauen-Accounts sind kein dämonisches Projekt — sie sind Infrastruktur, betrieben von jemandem, der seine Arbeit erledigt. Arendts Pilz-Metapher trifft es genau: Das Böse *breitet sich an der Oberfläche aus* — und KI-Slop ist die technische Oberfläche, auf der diese Ausbreitung industriell skaliert.
 
+### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+
+Nocuns KI-Analyse und diese Note sind zwei Seiten derselben Praxis: Während Nocun zeigt, wie KI-Slop Great-Replacement-Bildwelten algorithmisch skaliert, dekodieren Brockschmidt und Nocun hier die Codes dahinter. Produktionsmethode und Symbolsystem gehören zusammen.
+
 ### → [[Gedankenwelten/Denker/Hannah Arendt — Denken ohne Geländer]]
 
 Das Geländer bei Arendt ist die gemeinsame Faktizität — die geteilte Realität, die es uns ermöglicht, selbst zu urteilen, ohne jeden Einzelfall von Grund auf neu zu durchdenken. Nocuns gesamter Vortrag ist eine Dokumentation davon, wie dieses Geländer systematisch zerstört wird: Decline Porn, Fake-Vox-Pops, KI-Slop-Parallelrealitäten. Wenn Menschen nicht mehr wissen, ob das Interview echt ist, ob das Familienbild real ist, ob Berlin wirklich brennt — verlieren sie genau das, was Arendt als die demokratische Mindestkompetenz beschreibt: die Fähigkeit, zwischen wahr und falsch zu unterscheiden. Die Erschöpfung der Faktizität ist die technologische Ausführung von Arendts schlimmstem Szenario.

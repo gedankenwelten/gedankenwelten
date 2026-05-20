@@ -216,3 +216,7 @@ Direkte Fortsetzung: Was die CPAC-Note als Infrastruktur beschreibt, zeigt Biers
 ### → [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]]
 
 Orbáns KI-Propaganda-Netzwerk (Megafon + Storm-1516) als konkreter Arm der rechten Internationale; CPAC-Ungarn koordiniert die Strukturen, die rabbit hole im Wahlkampf dokumentiert
+
+### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+
+Die CPAC-Infrastruktur ist der transatlantische Kanal, über den die hier dekodierten Codes reisen: Heritage Foundation, Bannon-Netzwerk und CPAC Hungary exportieren US-Strategien (Dog Whistles, Fashwave, Remigration) nach Europa. Was Brockschmidt/Nocun als Sprach- und Bildsprache analysieren, ist hier als institutionelle Infrastruktur dokumentiert.

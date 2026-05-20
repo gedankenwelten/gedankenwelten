@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Brockschmidt & Nocun — Codes der extremen US-Rechten (re:publica 26)
+
+| | |
+|---|---|
+| **Gespräch / Video** | [Denkangebot Podcast: Codes der extremen US-Rechten (re:publica 26)](https://www.youtube.com/watch?v=VJp0VZP7dRg) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Brockschmidt_Nocun_Codes_USRechte_Transkript.txt` |
+
 ## Udo Marquardt — Zeit als Schlüssel zum guten Leben (SRF Sternstunde Philosophie)
 
 | | |

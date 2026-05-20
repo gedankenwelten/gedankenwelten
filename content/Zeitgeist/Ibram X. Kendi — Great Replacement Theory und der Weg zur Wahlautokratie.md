@@ -255,3 +255,7 @@ Kendi beschreibt den Weg zur Wahlautokratie als Projekt; Navidi zeigt, wo dieses
 ### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]
 
 MONITORs Recherche zeigt den ökonomischen Motor der Wahlautokratie, die Kendi als politisches Projekt beschreibt: Wenn die Präsidentschaft so profitabel ist — 1,4 Milliarden Vermögenszuwachs in einem Jahr —, wird die Perpetuierung der Macht zum finanziellen Imperativ. Kleptokratie als Selbsterhaltungsmechanismus der Autokratie.
+
+### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+
+Brockschmidt/Nocun liefern die Codierungsebene zu Kendis ideologischer Analyse: Die 14 Wörter, Fashwave, Remigration und Kreuzzugsrhetorik sind GRT nicht als Theorie, sondern als gelebte Kommunikationspraxis — die Sprache, in der Kendis Weltanschauung tagtäglich zirkuliert.
