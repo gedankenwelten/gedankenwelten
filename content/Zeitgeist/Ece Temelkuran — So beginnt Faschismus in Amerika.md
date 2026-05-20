@@ -271,3 +271,7 @@ Poppers Warnung als philosophischer Unterbau für Temelkurans empirisches Stufen
 ### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
 
 Krastevs Rupture-Begriff ist die analytische Kategorie hinter Temelkurans empirischem Stufenmodell: Wenn Demokratie nicht gestört, sondern gebrochen wird. Temelkuran beschreibt das aus der Exilerfahrung, Krastev als strukturelle politische Wissenschaft.
+
+### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+
+Brockschmidt/Nocun liefern die US-deutschen Fallbeispiele zu Temelkurans Stufenmodell in Echtzeit: Remigration als Normalisierungsprozess über 10 Jahre, Fashwave als kulturelle Infiltration, 14 Wörter in DHS-Pressemitteilungen — das sind Temelkurans Stufen 2–4 als dokumentiertes Material.

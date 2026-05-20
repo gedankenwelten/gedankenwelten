@@ -196,6 +196,10 @@ Das Panorama kartiert die globalen Netzwerke (CPAC, Heritage, Atlas), in die die
 
 Fricke zeigt, dass AfD-Wähler "nicht für ein rationales Programm wählen, sondern die Irrationalität präferieren". Das hat eine direkte Konsequenz für das Gutachten: Ein Verbotsverfahren, das auf juristischer Rationalität und Beweisdichte beruht, trifft auf eine Bewegung, deren Kraft aus der Ablehnung dieser Rationalität schöpft. Frickes Kontrollverlust-These erklärt, warum Moini/Chiofalo auf "Ergebnisoffenheit" pochen — das Gutachten muss über jeden Zweifel an Parteilichkeit erhaben sein.
 
+### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+
+Das Gutachten ringt juristisch mit dem, was diese Note analytisch aufdeckt: Remigration ist als Dog Whistle so konstruiert, dass er juridisch unangreifbar bleibt — pseudowissenschaftlicher Klang statt expliziter Gewaltandrohung. Brockschmidt nennt den Mechanismus, Moini/Chiofalo treffen genau an dieser Grenze seine rechtliche Konsequenz.
+
 ### → [[Gedankenwelten/Zeitgeist/Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 Semsrott und Sahebi dokumentieren den systematischen Angriff auf zivilgesellschaftliche Strukturen — genau die, aus denen die GFF hervorgeht. Das GFF-Gutachten ist selbst ein Akt zivilgesellschaftlicher Demokratieverteidigung: Eine NGO übernimmt die juristische Vorarbeit, die eigentlich dem Bundestag oblegen hätte, aber politisch blockiert wurde. Die Note illustriert, wie demokratische Aufgaben an die Zivilgesellschaft verschoben werden — und welche Risiken damit verbunden sind.
