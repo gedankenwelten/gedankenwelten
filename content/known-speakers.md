@@ -435,3 +435,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Morpheus (Cedric Mössner)
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Morpheus]]
+
+## Udo Marquardt
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Udo Marquardt]]
