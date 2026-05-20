@@ -36,6 +36,14 @@ Der Begriff stammt nicht von ihm, sondern von Hans-Georg Gadamer. Marquardt übe
 
 Das Gefühl der Zeitvergessenheit ist paradoxerweise das Zeichen, dass Zeit gerade am intensivsten erlebt wird. Nicht das Festhalten, sondern das Loslassen schafft Erinnerung.
 
+Marquardt kennt diesen Moment auch persönlich — nicht aus einem Konzert, sondern aus dem Radio. Abends, im November, kam die Nachricht, dass George Harrison gestorben war. Man spielte *My Sweet Lord*.
+
+[▶ 5:26](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=326)
+
+> *„Und plötzlich war ich in dem Zimmer der Kindheit, in dem ich dieses Lied gehört habe — und konnte mich in diesem Zimmer bewegen, als würde ich drin stehen, und sah alles, und sah plötzlich Dinge, die völlig aus meinem Gedächtnis waren."*
+
+Das ist sein Madeleine-Moment — nicht durch Geschmack wie bei Proust, sondern durch Klang. Musik ist besonders eng mit emotionalem Gedächtnis verknüpft; sie öffnet Räume im Palast der Erinnerung, die man nicht willentlich aufsuchen kann. Das Erfüllende solcher Momente liegt darin, dass sie einem *passieren* — sie lassen sich nicht durch Absicht erzwingen.
+
 > [!question] Weitergedacht
 > Wenn erfüllte Momente gerade dadurch entstehen, dass man die Zeit *vergisst* — was sagt das über alle Versuche, Zeit bewusst zu „erleben" und zu „gestalten"? Sabotiert die Absicht das Erlebnis?
 
@@ -52,6 +60,24 @@ Dies ist das Herzstück von Marquardts Denken und das Zentrum seines Buches: **W
 Zeit ist nicht ein abstraktes Behältnis, in das man Dinge füllt oder aus dem man etwas herausholt. Zeit kann man nicht sparen — nicht im Sinne von aufheben. Wenn man Zeitmanagement-Seminare besucht und Dinge priorisiert, hat man am Ende des Tages kein Behältnis mit fünf gesparten Lebensstunden. Man hat nur weniger Stress — nicht mehr Zeit.
 
 Was man hat, ist die Spanne zwischen Geburt und Tod. *Das* ist die Zeit. Und wie man diese Spanne lebt, bestimmt ob man sein Leben als sinnvoll empfindet. Hannah Arendt formuliert das ähnlich: Man schlägt seinen Faden ins Gewebe der Welt — und zieht ihn bis zum Tod.
+
+Historisch setzt dieses Vergessen bei Newton ein. Marquardts Diagnose ist präzise:
+
+[▶ 52:51](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=3171)
+
+Newton definiert Zeit nicht — er stellt sie einfach als *absolut* fest: *losgelöst* von uns, gleichmäßig fließend, unabhängig von allem Äußerem. Diese metaphysische Deklaration — Zeit als Ding da draußen — schuf die Grundlage für die Industrielle Revolution. Wer Zeit als externe Ressource begreift, kann sie koordinieren, synchronisieren, handeln.
+
+> *„Von dieser absoluten Zeit, von dieser physikalischen Revolution, die Newton ja war — von da an sind Dinge möglich geworden wie die Dampfmaschine. Und das hat Zeit zu einem unglaublich erfolgreichen Wirtschaftskonzept gemacht."*
+
+[▶ 53:36](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=3216)
+
+Das Resultat ist heute in jedem Liefersystem sichtbar. Als 2021 der Frachter *Ever Given* im Suezkanal feststeckte, kollabierte ein Teil der globalen Wirtschaft — weil alles auf synchronisierte Zeit angewiesen ist. Just-in-time, Lieferketten, Fahrpläne: Zivilisation als Zeitarchitektur.
+
+> *„Unsere Containerschiffe sind erstaunliche Zeitmaschinen."*
+
+[▶ 54:21](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=3261)
+
+Das ist die Ironie: Newton wollte Physik machen, keine Lebensphilosophie. Aber die Deklaration der absoluten Zeit hat ein Weltbild erzeugt, in dem Zeit nicht mehr *meine* Zeit ist — sondern eine externe Ressource, die man verwaltet, optimiert, spart. Diese Weltanschauung sitzt so tief, dass Zeitmanagement-Seminare sie nicht einmal hinterfragen — sie setzen sie voraus.
 
 > [!question] Weitergedacht
 > Wenn Zeit immer „meine Zeit" ist — was bedeutet das für strukturelle Zeitarmut? Wenn die Bedingungen eines Lebens (Armut, Pflege, Lohnarbeit) keine Wahl über die eigene Zeit lassen: ist „Zeit als Lebenszeit" dann Privileg-Philosophie?
@@ -78,6 +104,33 @@ Der Bezug zu Vipassana liegt auf der Hand: Die Praxis des Beobachtens des gegenw
 
 > [!question] Weitergedacht
 > Augustinus und der Vipassana-Pfad landen fast am selben Ort: Zeit entsteht in uns, nicht außerhalb. Aber Augustinus denkt das christlich-narrativ (Lebensgeschichte vor Gott), Vipassana denkt es erfahrungsbezogen-empirisch (dieser Atemzug). Was folgt aus diesem Unterschied — für die Praxis?
+
+---
+
+## Das Erinnerungsparadox — Neuheit, Langeweile und das Gedächtnis
+
+[▶ 32:55](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=1975)
+
+Ein Phänomen, das Marquardt nicht nur theoretisch beschreibt: **Erlebte Zeit und erinnerte Zeit folgen entgegengesetzten Gesetzen.**
+
+Zwei Wochen Ferien. Erste Woche: alles neu — neue Geschmäcker, der Markt, das Meer. Die Tage sind *unendlich lang*. Zweite Woche: Routine, der gewohnte Pool, dieselbe Strandbar — im Erleben ziehen sich die Tage hin. Aber in der Erinnerung ist die zweite Woche *ausgelöscht*. „Wie einfach vorbei." Die erste Woche trägt hundert Episoden. Die zweite kaum eine.
+
+Was fehlt: Neuheit. Nicht Anspannung, nicht Intensität im konventionellen Sinn — sondern *erste Male*. Erste Erfahrungen schaffen Erinnerungsanker; Routine hinterlässt keinen Abdruck. Das ist auch Rosas Beobachtung aus anderer Richtung: Beschleunigung tötet Resonanz, weil sie Erstmaligkeit verhindert. Man erledigt alles — aber erlebt nichts.
+
+[▶ 33:41](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=2021)
+
+> *„Ältere Menschen sagen, die Tage vergehen so schnell, die Jahre gehen so schnell vorbei."*
+
+Marquardt nennt zwei mögliche Erklärungen: Erstens ein Proportionseffekt — ein Jahr ist für einen Zehnjährigen ein Zehntel seines Lebens, für einen Achtzigjährigen ein Achtzigstel. Die Verhältnismäßigkeit verändert sich, unabhängig davon, was man erlebt. Zweitens schlicht: weniger erste Male.
+
+[▶ 34:27](https://www.youtube.com/watch?v=tHLhqbmfGkg&t=2067)
+
+Kinder sind *Experten im Sich-Langweilen* — und das ist kein Defizit, sondern eine Form von Zeitreichtum. Langeweile ist die Erfahrung von Zeit als elastisch, dehnbar, ungerichtet. Marquardt stellt bei sich selbst fest: Er langweilt sich nicht mehr. Die Geduld für leere Zeit ist ihm abhanden gekommen — und damit auch ein Stück jener Wahrnehmungsqualität, die Kindern noch vollständig zur Verfügung steht.
+
+Das führt zu einer stillen Herausforderung an alle Achtsamkeitspraxis: Nicht bewusstes *Erleben* ist das Ziel, sondern die Bereitschaft für Neuheit. Wer jeden Moment kontrolliert wahrnehmen will, bricht paradoxerweise die Offenheit, die Resonanz erst ermöglicht. Wer sich langweilen kann, hat Zeit.
+
+> [!question] Weitergedacht
+> Wenn Langeweile die Zeitwahrnehmung so temporal reich macht — ist das Nicht-Tun der Meditation eigentlich eine Rückkehr zu dieser Offenheit? Oder ist die Praxis selbst schon zu absichtsvoll, um echte Leere zu erzeugen?
 
 ---
 
@@ -231,6 +284,25 @@ Die Frage „Wer möchte ich gewesen sein?" und der Augustinus'sche Zeitbegriff 
 ### → [[Gedankenwelten/Gedanken/Blaise Pascal — Wette und Unruhe]]
 
 Marquardt zitiert explizit die pascalsche Wette als persönliche Lebenshaltung: auf Ewigkeit setzen nimmt den Druck aus dem Kessel. Pascal selbst diagnostizierte die *divertissement*-Falle — die Beschleunigung als Flucht vor dem Sein. Marquardt wiederholt diese Diagnose 400 Jahre später.
+### → [[Gedankenwelten/Denker/Wolfram Eilenberger — Die größte Lüge der Philosophie]]
+
+Eilenbergers „Geistesgegenwart" (Ontologie der Gegenwart — das Vermögen zu sagen, *was jetzt ist*) ist der erkenntnistheoretische Rahmen für das, was Marquardt phänomenologisch als „erfüllte Momente" beschreibt. Marquardt zeigt, wie man dorthin kommt (Rituale, Genügsamkeit, Sich-anrufen-lassen); Eilenberger benennt, was man dort tut (Diagnostizieren der eigenen Gegenwart ohne Flucht in Systeme). Beide bei SRF Sternstunde Philosophie, beide gegen den Zeitfetisch der Moderne — aus verschiedenen Himmelsrichtungen.
+
+### → [[Gedankenwelten/Zeitgeist/Teresa Buecker — Zeit NEU DENKEN]]
+
+Bücker und Marquardt stellen dieselbe Grundfrage von entgegengesetzten Seiten: Marquardt fragt *wie* man Zeit erfüllt erlebt — Bücker fragt *wer* überhaupt das Recht auf Zeit hat. Marquardts Kloster-Genügsamkeit setzt Wahlfreiheit voraus; Bückers Zeitpolitik macht sichtbar, dass diese Wahlfreiheit strukturell verteilt ist. Das ist der produktive Widerspruch: Ohne Bückers Zeitgerechtigkeit bleibt Marquardts Zeitphilosophie Privileg-Denken.
+
+### → [[Gedankenwelten/Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
+
+Marquardt im christlichen Aschram Kurishumala, Ricard im himalayischen Kloster Shechen — beide beschreiben denselben Befund: Genügsamkeit und Rhythmus verändern die Qualität von Zeit grundlegend, ohne Zeit als Ressource zu vermehren. Marquardt zeigt dies philosophiegeschichtlich, Ricard liefert den neurowissenschaftlichen Beleg (Davidson-Studien: Langzeitmeditation verändert die Zeitwahrnehmungsarchitektur des Gehirns).
+
+### → [[Gedankenwelten/Denker/Erich Fromm — Haben oder Sein]]
+
+Fromms „Haben-Modus" — Identität durch Besitz, Kontrolle, Anhäufung — ist genau das, was Marquardt als Zeitfetisch beschreibt: Zeit als abstraktes Behältnis, das man füllen, sparen und optimieren kann. Marquardts Gegenthese (*Zeit bin ich selbst*) ist Fromms „Sein-Modus" auf das Phänomen Zeit angewandt. Fromm fragt: Was *hat* man? Marquardt fragt: Was *ist* man — in der Zeit?
+
+### → [[Gedankenwelten/Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
+
+Kehnel zeigt das Mittelalter als gelebtes Archiv anderer Zeitstrukturen — Commons-Denken, Jahreszeitenrhythmus, liturgische Zeit statt linearer Produktionszeit. Das ist das historische Material für Marquardts These, dass die Moderne einen spezifischen (und falschen) Zeitbegriff erfunden hat. Kehnels Befund: Es gab andere Möglichkeiten. Marquardts Befund: Wir haben sie vergessen.
 
 ---
 

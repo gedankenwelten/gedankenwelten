@@ -233,3 +233,7 @@ Verlust der Leichtigkeit als Zeitarmut: neoliberale Leistungsverdichtung zerstö
 ### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
 Der NANO Talk ist Bückers unmittelbarste Parallele: Schaupp und Redecker benennen dieselbe Struktur — Sorgearbeit als unsichtbarer Kern — und liefern die politökonomische Erklärung, warum Zeitungerechtigkeit kein Zufall ist.
+
+### → [[Gedankenwelten/Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]]
+
+Marquardt stellt dieselbe Zeitfrage aus entgegengesetzter Richtung: Wo Bücker fragt *wer* das Recht auf Zeit hat (Machtfrage), fragt Marquardt *wie* Zeit erfüllt erlebt wird (Phänomenologie). Der produktive Widerspruch: Ohne Bückers Zeitgerechtigkeit bleibt Marquardts Zeitphilosophie Privileg-Denken — ohne Marquardts Tiefendimension bleibt Bückers Zeitpolitik strukturell, aber leer von gelebtem Sinn.
