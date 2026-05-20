@@ -13,6 +13,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Franziska Görlitz
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Franziska Goerlitz]]
+
+---
+
 ## Arnd Henze
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Arnd Henze]]
 
@@ -98,6 +103,10 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Claus-Christian Carbon
 **Status:** Stub
+
+
+## Constanze Kurz
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Constanze Kurz]]
 
 ## Klaus Dörre
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Klaus Doerre]]

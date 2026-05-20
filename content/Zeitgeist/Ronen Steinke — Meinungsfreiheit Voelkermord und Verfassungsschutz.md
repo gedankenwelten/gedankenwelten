@@ -235,3 +235,7 @@ Gesellschaftliche Verrohung als Kontext für die Meinungsfreiheitsdebatte
 ### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Moini/Chiofalo lösen methodisch das Problem, das Steinke beschreibt: Wie baut man eine gerichtsfeste Beweisbasis für ein Parteiverbot auf, ohne auf V-Mann-Informationen angewiesen zu sein? Das GFF-Gutachten mit 2 Mio. öffentlich zugänglichen Datenpunkten ist die direkte Antwort auf die von Steinke analysierte institutionelle Vorgeschichte.
+
+### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+
+Steinke und Görlitz beschreiben denselben Mechanismus aus verschiedenen Richtungen: Steinke analysiert den Chilling-Effekt geheimdienstlicher Beobachtung auf politisches Verhalten, Görlitz denselben Effekt durch algorithmische Polizeidatenanalyse — zwei verschiedene Instrumente, dieselbe verfassungsrechtliche Pathologie.
