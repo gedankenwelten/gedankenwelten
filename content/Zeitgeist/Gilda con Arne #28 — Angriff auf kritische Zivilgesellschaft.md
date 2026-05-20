@@ -269,3 +269,7 @@ Staiys Magdeburg-Demokratiefest (Amadeo Antonio Stiftung) zeigt die Praxis zivil
 ### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Das GFF-Gutachten ist selbst ein Akt zivilgesellschaftlicher Demokratieverteidigung — durch 18.000 Einzelspenden finanziert, von einer NGO geleistet, die eigentlich staatliche Aufgaben übernimmt. GCA #28 beschreibt den strukturellen Druck auf genau diese Zivilgesellschaft: Wer Demokratieprojekte kappt, schwächt auch die Institutionen, die das GFF-Gutachten ermöglichten.
+
+### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
+
+Semsrott entwickelt hier die strategische Antwort auf den in #28 dokumentierten Angriff auf die Zivilgesellschaft: Freiheitsfonds, Gegenrechtsschutz und Transparenz als offensive Instrumente, nicht nur defensive Reaktion. Die 551 Fragen der Union werden zur Vorlage — Semsrott macht daraus die Aufgabenliste der Gegenmacht.

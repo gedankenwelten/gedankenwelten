@@ -74,6 +74,11 @@ Es ist das seltene Eingeständnis aus dem Inneren des Systems: Die Codes veränd
 
 [▶ 17:07](https://www.youtube.com/watch?v=VJp0VZP7dRg&t=1027)
 
+![[Gedankenwelten/assets/brockschmidt_codes_1718.png|700]]
+
+> [!info] Quelle
+> @WhiteHouse auf X — öffentlicher Regierungspost vom 14. Januar 2026
+
 Am 14. Januar 2026 postete das Weiße Haus ein Bild: zwei Hundeschlitten mit grönländischer Flagge an einer Weggabelung. Links führt der Weg ins sonnige Washington, rechts zur Großen Mauer, russischen und chinesischen Flaggen, apokalyptischen Blitzen. Der Text: *Which way Greenland man?*
 
 Für Uneingeweihte: eine schlichte Propaganda-Visualisierung der Trump'schen Grönland-Ambitionen. Für Eingeweihte: eine direkte Referenz auf *Which way Western Man?* — eine antisemitische, faschistische Hetzschrift von **1978** des White Nationalist William Galey Simpson, seit 2003 in Neuauflage des National Vanguard Books erhältlich — dem Verlag des Turner-Diaries-Autors William Luther Pierce, der auch die Neonazi-Organisation National Alliance gründete. Die Turner Diaries sind Standardlektüre amerikanischer Neonazis und haben mehrere Attentate inspiriert, darunter den Oklahoma City Bombing.
@@ -106,7 +111,12 @@ Der Post wurde nach Medienberichterstattung gelöscht — die Musikunterlegung a
 
 [▶ 33:11](https://www.youtube.com/watch?v=VJp0VZP7dRg&t=1991)
 
-Ein anderes DHS-Bild zeigt Soldaten aus dem Unabhängigkeitskrieg als schwarze Silhouetten, die sich durch Nebel heranpirschen, Drohnenschwärme über ihnen, leuchtend weiße Augen. Überall lila-pinke Prismaeffekte. Das Wort *American Dynamism* schwebt über der Szene.
+![[Gedankenwelten/assets/brockschmidt_code_3228.png|700]]
+
+> [!info] Quelle
+> @DoWCTO (Department of War CTO) auf X — öffentlicher Regierungspost vom 14. Januar 2026
+
+Ein anderes Bild zeigt Soldaten aus dem Unabhängigkeitskrieg als schwarze Silhouetten, die sich durch Nebel heranpirschen, Drohnenschwärme über ihnen, leuchtend weiße Augen. Überall lila-pinke Prismaeffekte. Das Wort *American Dynamism* schwebt über der Szene.
 
 Brockschmidt identifiziert das als *Fashwave* — ein ästhetisches Online-Subgenre, das um 2016 entstand und heute von US-Behörden aktiv genutzt wird. Die Erkennungsmerkmale: Violett- und Lilatöne, Prismaeffekte, VHS-Körnung, 80er-Jahre-Technoästhetik, nostalgische Retro-Bilder. Der Medienwissenschaftler Simon Strick hat das Phänomen in seinem Buch *Rechte Gefühle* ausführlich analysiert.
 
@@ -120,6 +130,25 @@ Nostalgie als politisches Programm: Was als harmloses Retro-Ästhetik erscheint,
 
 > [!question] Weitergedacht
 > Fashwave macht Faschismus ästhetisch konsumierbar — *gibt es eine defensive Ästhetik, die Demokratie genauso emotional auflädt, oder ist linke Politik strukturell gegen Nostalgie-Appelle immunisiert?*
+
+---
+
+## „One Homeland, One People, One Heritage" — Das Labor Department und das Resegregationsprogramm
+
+[▶ 42:17](https://www.youtube.com/watch?v=VJp0VZP7dRg&t=2537)
+
+Das US-Arbeitsministerium (Department of Labor) schaltete eine Social-Media-Kampagne mit Postern im WPA-Stil der 1930er-Jahre — muskelbepackte, entschlossen blickende Arbeiter in Blauhemd und Overalls, vor Freiheitsstatue und Baukränen. Die Slogans: *Build America's Future!*, *Make America Skilled Again!*, *Defend Homeland's Future!*, *Your Nation Needs You!*, *American Workers First!*
+
+Das Problem war sofort sichtbar: Nahezu ausschließlich weiße Männer. Kein einziger Black Man, keine Latina, keine Frau — außer als späterer Zusatz, nachdem Medien die Homogenität berichteten. Ein Tweet der Behörde hatte dazu die Bildunterschrift: *One Homeland, One People, One Heritage.*
+
+> *„Die Bildsprache — sei es sowjetische Propaganda, Nazipropaganda — das Feeling ist eher so 30er, würde ich sagen. Und wir sehen hier ausschließlich weiße Männer. Das ist ganz eindeutig die Bildwerdung eines Resegregationsprogramms."* — Annika Brockschmidt
+
+Der Anklang an *Ein Volk, ein Reich, ein Führer* liegt angesichts dieser Bildsprache auf der Hand. Der Journalist Jamelle Bouie hat das Anti-DEI-Projekt der Trump-Regierung prägnant formuliert: Es ist kein Projekt gegen Diversity, sondern ein *Resegregationsprogramm* — und dieses Labor-Department-Bildmaterial ist seine visuelle Manifestation. Brückenschlag zur Southern Strategy: Wer hat Anrecht auf Jobs? *American Jobs for Americans* ist ein klassischer NPD-Slogan. Die Gleichzeitigkeit ist kein Zufall.
+
+Dass die Kampagne das Anti-DEI-Programm visualisiert — also eine Politik, die die Errungenschaften der Bürgerrechtsbewegung rückabwickelt, während der Supreme Court gerade den Rest des Voting Rights Act aushöhlt —, macht die Propagandabilder nicht harmloser. Sie machen das Programm sichtbar für alle, die sehen wollen.
+
+> [!question] Weitergedacht
+> Das Labor Department muss alle Arbeitnehmer vertreten — *ab wann ist staatliche Kommunikation, die bestimmte Gruppen unsichtbar macht, juristisch angreifbar, und ab wann bleibt sie als "Ästhetik" im rechtlichen Graubereich?*
 
 ---
 
@@ -221,6 +250,7 @@ Es ist die klassische Spannung zwischen Aufmerksamkeitsökonomie und demokratisc
 
 - [Southern Poverty Law Center (SPLC)](https://www.splcenter.org) — Dokumentation rechtsextremer Gruppen und Symbole in den USA
 - [ADL Hate Symbols Database](https://www.adl.org/resources/hate-symbols) — Nachschlagewerk für rechtsextreme Codes
+- [Washington Post: Labor Department social media campaign depicts a White male workforce (7. Nov. 2025)](https://www.washingtonpost.com/politics/2025/11/07/labor-white-male-images-social-media/) — Reportage mit Screenshots der Kampagnenbilder
 
 ---
 

@@ -199,3 +199,7 @@ Manow analysiert, wie demokratische Institutionen autoritäre Tendenzen entwicke
 ### → [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|SPIEGEL TV — Spahns Maskendeal]]
 
 Semsrotts „Transparenz-Attrappen" auf EU-Ebene haben ihr nationales Gegenstück: Das 9.999-Euro-Spendenlimit ist kein Zufall, sondern ein bewusst offengelassenes Schlupfloch im deutschen Parteiengesetz — analog zu den Kontrollmechanismen im EU-Parlament, die absichtlich zahnlos konstruiert sind. Beide Notes zeigen: Wer die Regeln schreibt, kontrolliert das Spiel.
+
+### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
+
+Arnes Gegenmacht-Vortrag ist die Antwort auf Nicos EU-Diagnose von unten: Wo Nico die strukturelle Entleerung der EU-Demokratie dokumentiert, zeigt Arne konkrete Gegenmacht-Strategien auf nationalem Terrain — Freiheitsfonds, Gegenrechtsschutz, Organisierung von unten. Beide Brüder kommen zur selben Schlussfolgerung aus verschiedenen Ebenen: Institutionelle Kontrolle funktioniert nur mit zivilgesellschaftlichem Druck.

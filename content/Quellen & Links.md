@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Arne Semsrott — Zur Gegenmacht (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26 — Zur Gegenmacht](https://www.youtube.com/watch?v=7waHkzEHcuw) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Semsrott_Gegenmacht_Transkript.txt` |
+
 ## Brockschmidt & Nocun — Codes der extremen US-Rechten (re:publica 26)
 
 | | |

@@ -191,3 +191,7 @@ Redeckers Konzept des Phantombesitzes: Milliardäre beanspruchen Besitz über de
 ### → [[Torsten Heinrich — Was die Tagesschau verschweigt]]
 
 Heinrich analysiert Medien-Bias auf der Mikroebene (Wortwahl, Konnotation im Spiegel), GCA auf der Makroebene (Eigentümerstruktur). Zusammen: Wer die Medien besitzt, bestimmt die Wortwahl — und damit die Wahrnehmung
+
+### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
+
+Semsrott benennt die konstruktive Antwort auf die hier dokumentierte Medienkonzentration: neue Räume schaffen — Bibliotheken, Podcasts, gemeinnützige Medien. FragDenStaat als Transparenz-Infrastruktur ist das Gegenstück zu Orbáns 80%-Medienkontrolle und der Bolloré-Strategie.
