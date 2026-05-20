@@ -47,6 +47,9 @@ Was sich in den letzten Monaten dramatisch verändert hat: Diese Accounts, früh
 
 ![[Gedankenwelten/assets/Nocun_republica26_668.jpg|700]]
 
+> [!info] Abbildungen
+> Alle Screenshots aus der re:publica-26-Session von Katharina Nocun, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 Das Prinzip dahinter ist einfach: Attraktive, junge, normschöne KI-Frauen transportieren rechte Narrative wirkungsvoller als alte weiße Männer. Sie aktivieren das **Beschützernarrativ** bei männlichen Wählern — und können gleichzeitig Antifeminismus propagieren, ohne die offensichtliche Heuchelei eines männlichen Kommentators.
 
 [▶ 13:25](https://www.youtube.com/watch?v=xcn64f3byyk&t=805) — In Deutschland war **„Larissa Wagner"** ein bekannter Fall: ein KI-Fake-Account auf X (erkennbar am kleinen KI-Maus-Symbol, das die meisten übersahen), der offen für die AfD warb, migrationsfeindliche Narrative verbreitete — und sich sogar mit dem Compact-Magazin für ein Interview zusammensetzte, in dem die KI-Figur über Medienhetze klagte:
