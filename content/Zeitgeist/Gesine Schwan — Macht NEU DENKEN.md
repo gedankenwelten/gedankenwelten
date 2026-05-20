@@ -292,3 +292,7 @@ Beide teilen die Überzeugung, dass demokratische Werte aktiv bottom-up gelebt w
 ### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
 Großmanns SPRIND-Erfahrung — 15 statt 1000 Fragen — ist institutionalisierte Gestaltungsmacht im Sinne Schwans: Der Staat als Ermöglicher statt Verhinderer. Die Bürgerbeteiligung in Klettwitz ist Schwans kommunale Partizipationsidee im Energiesektor.
+
+### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
+
+Semsrott konkretisiert Schwans "Gestaltungsmacht" durch die Praxis: Freiheitsfonds, Gegenrechtsschutz, Transparenz-Recherchen als Werkzeuge. Wo Schwan auf institutionelle Einbettung setzt (kommunale Beiräte, deliberative Demokratie), vertraut Semsrott auf außerinstitutionellen Druck — beide fragen: Wie schafft man neue demokratische Räume, wenn die alten besetzt oder blockiert sind?

@@ -250,6 +250,10 @@ Orbán und Vance sind bei Steinke/Marinić die Hauptbeispiele für "Teilzeitlibe
 
 Marinić zitiert Technofeudalismus explizit: Superreiche machen feudal, was sie wollen, das demokratische Versprechen verflüchtigt sich — und übersetzt sich in Ohnmachtsschreie, die als Meinungsfreiheitsdebatten auftreten. Varoufakis liefert den strukturellen Mechanismus (Cloud Rent, algorithmische Verhaltensmodifikation), den Marinić als politische Erfahrung beschreibt. Der Algorithmus als "Durchlauferhitzer" ist bei Varoufakis die Cloud Capital-Infrastruktur, die aus wirtschaftlichen Gründen süchtig machend gestaltet wird.
 
+### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
+
+Semsrott praktiziert das Gegenteil performativer Meinungsfreiheitsdebatten: Transparenz als Tat — Dokumente veröffentlichen, IFG-Anfragen stellen, §353d-Grenzen austesten. Die IFG-Einschränkung als direkte Staatsreaktion auf FragDenStaat-Veröffentlichungen ist das beste Argument für Marinićs These: Real umkämpfte Handlungsräume sind wichtiger als abstrakte Freiheitsdiskurse.
+
 ---
 
 ## Weiterdenken

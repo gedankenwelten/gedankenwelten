@@ -206,3 +206,7 @@ Marinić erklärt, warum AfD-Skandale keine Wähler kosten: Die algorithmische A
 ### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Während MONITOR die Skandal-Immunität der AfD empirisch dokumentiert, liefert das GFF-Gutachten den juristischen Gegenansatz: nicht Empörung, sondern Beweisdichte. Beide Perspektiven zeigen die Spannung zwischen politischer Wirklichkeit und rechtsstaatlicher Reaktionsfähigkeit.
+
+### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
+
+Semsrott benennt das in MONITOR diagnostizierte Problem als "Mehrheitslüge": Nur 27% stehen hinter der Regierungskoalition — und trotzdem setzt CDU/SPD AfD-Inhalte um. Wo MONITOR die Diagnose liefert (Skandale ohne Wählerkonsequenzen), gibt Semsrott die strategische Antwort: versteckte progressive Mehrheiten sichtbar machen und Gegenmacht aufbauen.
