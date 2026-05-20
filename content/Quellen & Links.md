@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Udo Marquardt — Zeit als Schlüssel zum guten Leben (SRF Sternstunde Philosophie)
+
+| | |
+|---|---|
+| **Gespräch / Video** | [Jetzt! – Die Zeit als Schlüssel zum guten Leben](https://www.youtube.com/watch?v=tHLhqbmfGkg) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Marquardt_Zeit_Transkript.txt` |
+
 ## Moini & Chiofalo — GFF AfD-Verbotsgutachten (re:publica 26)
 
 | | |
