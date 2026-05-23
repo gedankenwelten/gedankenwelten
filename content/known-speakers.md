@@ -162,6 +162,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Francesca Bria
 **Status:** Stub
 
+## Maximilian Fichtner
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Maximilian Fichtner]]
+
 ## Frank Sieren
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Frank Sieren]]
 
