@@ -144,3 +144,4 @@ Ein starkes Argument sagt: Nein — prinzipiell nicht.
 - [[Walther Ziegler — Descartes in 60 Minuten]] — Historischer Ausgangspunkt: Substanzdualismus
 - [[Hans-Peter Dürr — Die neue Physik]] — Quantenphysik trifft Bewusstseinsphilosophie
 - [[Platon — Das Höhlengleichnis]] — Erscheinung vs. Wirklichkeit — die älteste Bewusstseinsfrage
+- [[Gedankenwelten/Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]] — Neurowissenschaftliche Evidenz für fluideres Selbst, willkürlich dämpfbaren Parietallappen, nicht-duales Gewahrsein; Predictive Processing erklärt veränderte Schmerzverarbeitung
