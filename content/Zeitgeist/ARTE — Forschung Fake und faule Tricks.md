@@ -276,3 +276,6 @@ Benecke praktiziert das Gegenmittel zur wissenschaftlichen Desinformation: foren
 
 ### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Reichelts Reaktion auf das Gerichtsurteil ist ein Lehrstück angewandter Agnotologie: Statt die Lüge einzuräumen, baut er neue Wahrheitsketten ("Kantine ist ja indirekt staatlich finanziert"). Das Tabak-Blueprint — Zweifel säen statt widerlegen — wird hier auf islamfeindliche Propaganda übertragen.
+
+### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
+Fichtners Podcast ist ein zeitgenössisches Fallbeispiel angewandter Agnotologie-Bekämpfung: Er benennt explizit, dass die Batterie-Mythen nicht durch Unwissenheit, sondern durch Lobbyinteressen verbreitet werden — der Mechanismus ist das Tabak-Blueprint in Echtzeit, angewandt auf Energiepolitik.

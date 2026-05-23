@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Fichtner — Zehn Batteriemythen (Geladen Podcast)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Prof. Fichtner: Diese Lügen über Batterien kosten uns Milliarden](https://www.youtube.com/watch?v=CAwLEgeqKN0) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Fichtner_Batterie_Mythen_Transkript.txt` |
+
+---
+
 ## Kurz & Görlitz — Palantir und die deutsche Polizei (re:publica 26)
 
 | | |

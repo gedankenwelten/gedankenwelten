@@ -194,3 +194,6 @@ Goldbach und Großmann beschreiben strukturell dasselbe Valley-of-Death-Phänome
 ### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
 
 Ein Unternehmer in Burgbernheim hat bereits einen 220-kWh-Speicher installiert — und darf ihn nicht nutzen. Goldbachs These über die regulatorisch blockierte Speicherlösung wird hier zur konkreten Betriebstragödie: Das technische Problem ist gelöst, das regulatorische nicht.
+
+### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
+Fichtner liefert die wissenschaftliche Grundlage für Goldbachs Investorenthesen: Die LCOS-Parität (Batteriespeicher günstiger als Gaskraftwerk-Regelenergie) und das Markt-Wachstum von 70 % werden von Fichtner datengestützt bestätigt. Goldbach adressiert die politische Blockade (Reiche), Fichtner die epistemische (Mythen und Lobbyinteressen).

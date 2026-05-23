@@ -156,3 +156,6 @@ Wo Akkudoktor die Statistik-Falle entlarvt, zeigt die V2G-Note die regulatorisch
 ### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
 
 Die Altmaier-Delle hat den PV-Ausbau politisch verlangsamt — die Kontrovers-Note zeigt die nachgelagerte Konsequenz: Betriebe, die jetzt investieren, treffen auf eine Netzinfrastruktur, die nie für dieses Ausmaß ausgelegt wurde. Erst wird ausgebremst, dann fehlt die Infrastruktur.
+
+### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
+Strukturell parallele Mythen-Dekonstruktion: Fichtner widerlegt Batterie-Mythen im Wissenschafts-Podcast, Akkudoktor widerlegt Energiewende-Mythen im ZDF-Talkshow-Format — beide zeigen denselben Mechanismus (statistische Verzerrung, Cherry-Picking, Interessenlage), nur auf verschiedenen Bühnen.

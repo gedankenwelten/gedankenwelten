@@ -315,3 +315,6 @@ V2G verlängert Kemferts These vom E-Auto als Ausstiegstechnologie: Nicht nur ke
 ### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
 
 Kemferts „Fossilokratie" zeigt sich hier in einer neuen Variante: nicht durch direkte Ablehnung von Erneuerbaren, sondern durch regulatorisches Unterlassen. Ein Unternehmer investiert in Solarenergie — und wird durch Netzversagen daran gehindert, sie zu nutzen.
+
+### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
+Fichtner widerlegt den Rohstoff-Mythos mit demselben Argument, das Kemferts Struktur-Analyse zugrunde liegt: Batterie-Rohstoffe sind einmalig nötig und bleiben im System, fossile Brennstoffe werden jährlich verbrannt und erfordern permanente Importabhängigkeit. Beide benennen die „Fossilokratie" als politisch aufrechterhaltenes System, nicht als technisches Schicksal.
