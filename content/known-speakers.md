@@ -180,6 +180,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Gesine Schwan
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Gesine Schwan]]
 
+## Gert Scobel
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Gert Scobel]]
+
 ## Gilda Sahebi
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Gilda Sahebi]]
 
