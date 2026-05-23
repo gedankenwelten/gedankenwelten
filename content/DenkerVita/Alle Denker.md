@@ -73,6 +73,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]** — Soziologieprofessor LMU München, Gründungsdirektor ISI; Münzstapel-Visualisierung: reichste Deutsche = 1/3 Weg zum Mond; dynastische Persistenz von Reichtum über 100 Jahre
 
+**[[Gedankenwelten/DenkerVita/Maximilian Fichtner|Maximilian Fichtner]]** — Festkörperchemiker, Professor Universität Ulm, Direktor Helmholtz-Institut Ulm (HIU); Batterieforscher und Mythen-Aufklärer; E-Autos ökobilanzlich überlegen, Rohstoffverfügbarkeit technisch lösbar, europäische Batterieproduktion strategische Notwendigkeit; Sprecher POLiS (Post Lithium Energy Storage), wissenschaftlicher Direktor CELEST; Podcast *Geladen*
+
 ## G
 
 **[[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel|Georg Wilhelm Friedrich Hegel]]** — Philosoph, Deutscher Idealismus; Dialektik, Weltgeist, Aufhebung, Geschichte als Fortschritt im Bewusstsein der Freiheit, Staat als Verwirklichung der Freiheit

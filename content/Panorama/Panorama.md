@@ -28,6 +28,7 @@ Jedes Panorama folgt diesem Aufbau:
 
 | Thema | Datei | Notes |
 |---|---|---|
+| Kaufkraft | [[Kaufkraft]] | 9 |
 | Rente | [[Rente]] | 8 |
 | Energie | [[Energie]] | 15 |
 | NoAfD | [[NoAfD]] | 33 |

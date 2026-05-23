@@ -267,6 +267,8 @@ Meyer und Hegenberg berichten live aus China, was Specht bereits im Geladen-Podc
 ### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
 
 V2G ist der dezentrale Speicher in Spechts Kraftwerk-vs.-Speicher-These — das Utrechter Modell zeigt, was passiert, wenn man den Markt tatsächlich entscheiden lässt. Dass Deutschland diese Technologie durch Doppelbesteuerung hemmt, ist dieselbe Logik wie die regulatorische Knebelung stationärer Batterien.
+### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
+Fichtner und Specht sind konzeptuelle Zwillinge im *Geladen*-Podcast: Fichtner dekonstruiert zehn Batterie-Mythen, Specht den Primärenergieirrtum — beide kommen zur selben Kernthese, dass Merit Order + Batteriespeicher + Erneuerbare die einzige kohärente Antwort auf fossile Preissetzung sind.
 
 ---
 

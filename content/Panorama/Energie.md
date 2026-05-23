@@ -274,6 +274,7 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 | [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]] | Problem · Lobbyismus |
 | [[Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]] | Kontext · CDU-Konflikt |
 | [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] | Lösung · Speicher |
+| [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]] | Grundlage · Mythen · Lobbyismus · Batterien |
 | [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] | Ursache · Subventionen |
 | [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] | Problem · Kernenergie |
 | [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] | Problem · Fossile |
