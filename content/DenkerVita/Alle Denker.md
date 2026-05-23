@@ -85,6 +85,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Gilda Sahebi|Gilda Sahebi]]** — Deutsch-iranische Journalistin, Autorin; Expertise: autoritäre Systeme, Rassismus, Iran; Politikjournalistin des Jahres 2022
 
+**[[Gedankenwelten/DenkerVita/Gert Scobel|Gert Scobel]]** — Philosoph, Moderator (3sat *scobel*); Meditationsforschung, Bewusstsein, Neurophilosophie, epistemische Demut, 40 Jahre Meditationserfahrung
+
 **[[Gedankenwelten/DenkerVita/Götz Aly|Götz Aly]]** — Historiker, Journalist; NS-Forschung; "Hitlers Volksstaat"; Täterforschung
 
 ## H

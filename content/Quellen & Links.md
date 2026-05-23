@@ -2754,6 +2754,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner]] |
 | **Transkript** | `Gedankenwelten/Transkripte/SpiegelTV_Spahn_Maskendeal_Transkript.txt` |
 
+## Gert Scobel — Meditation kann gefährlich sein
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Meditation kann gefährlich sein! – scobel](https://www.youtube.com/watch?v=aFb1JkIqN6U) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Scobel_Meditation_Transkript.txt` |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Gert Scobel]] |
+
 ## BR24 Kontrovers — Energiewende Solarabschaltung Mittelstand
 
 | | |
