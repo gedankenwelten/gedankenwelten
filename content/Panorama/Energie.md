@@ -67,6 +67,44 @@ Buchinger zeigt: Die Kernenergie-Debatte ist ein **Fossil-Lobby-Werkzeug** — s
 
 ---
 
+### Die zehn Batterie-Mythen — Was Desinformation kostet
+
+[[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]] liefert die wissenschaftliche Grundlage für das, was dieser Panorama-Abschnitt politisch dokumentiert: Die Narrative, die Energiewende und E-Mobilität bremsen, halten einer Faktenkontrolle nicht stand. Prof. Maximilian Fichtner (Helmholtz-Institut Ulm) nimmt im Geladen-Podcast zehn Kommentare auseinander — und zeigt, dass die Mythen nicht aus Unwissenheit stammen, sondern wirtschaftlich nützen.
+
+**Mythos 1 — Zellherstellung in Europa gescheitert, lieber Hybride.**
+Northvolt scheiterte an unrealistischen Zeitplänen und ungeduldigen Investoren, nicht am Markt. LG (Polen), Samsung SDI (Ungarn), CATL (Dresden) laufen weiter. Plugin-Hybride haben einen realen Verbrauch dreimal über dem Herstellerwert — sie sind vor allem ein Steuer-Konstrukt. China: 2 % Zuwachs Hybride, 46 % Vollelectrische (2024).
+
+**Mythos 2 — Wir haben keine Rohstoffe für E-Autos.**
+Deutschland importiert 80 Mrd. € Rohstoffe jährlich — für Verbrenner und EVs gleichermaßen. Der Unterschied: Batterie-Rohstoffe werden einmal verbaut und halten 10–15 Jahre. Öl verbrennt jedes Jahr neu. Strukturell ist das ein völlig anderes Abhängigkeitsproblem.
+
+**Mythos 3 — China setzt auf Kohle, Großbatterien sind teuer.**
+China hat 38–42 % Erneuerbare im Mix und installierte 2025 über 315 GW Solar und 119 GW Wind — mehr als jedes andere Land, in einem Jahr. Batteriespeicher sind bereits günstiger als Gaskraftwerk-Regelenergie; der globale Investitionsmarkt wuchs 2025 um über 40 %. Deutschland bremst durch Regulierung.
+
+**Mythos 4 — Merit Order: Batterien nützen nichts, solange Gas den Preis setzt.**
+Das Prinzip stimmt — aber es ist kein Naturgesetz, sondern ein Mechanismus, der veränderbar ist. Die Ukraine-Krise 2022 zeigte, wie Gaspreise die Stromrechnung dominierten, obwohl die Versorgung stabil blieb. Die Lösung: Erneuerbare plus Speicher verdrängen Gas Schritt für Schritt aus dem Preissetzungsmechanismus — nur zusammen, nicht getrennt.
+
+**Mythos 5 — Dunkelflauten können nur Biogas lösen.**
+Biogas als Regelenergie ist eine gute Idee — Dänemark macht es vor. Aber die Infrastruktur fehlt, Aufreinigung ist teuer, regionale Verfügbarkeit ungleich. Batterien können Sekunden bis Stunden überbrücken; Biogas wäre eine sinnvolle Ergänzung, kein Ersatz.
+
+**Mythos 6 — Wir laden E-Autos mit Kohlestrom aus Polen.**
+60 % der deutschen Stromimporte kommen aus Dänemark und Skandinavien — also Grünstrom. Frankreichs Atomstrom-Anteil liegt bei 1–2 %. Gleichzeitig importiert Deutschland 98 % seines Erdöls und Erdgases aus Ländern mit „seltsamen Herrschersystemen" — dort schlägt niemand Alarm.
+
+**Mythos 7 — E-Auto-Batterien verlieren 20 % beim Laden.**
+Die Rundlaufeffizienz liegt bei 10–15 %, nicht 20 %. Das eigentliche Problem ist der Ladekartendschungel: fehlende Preistransparenz an öffentlichen Säulen. Italien zeigt, wie es geht — Preis an der Säule, Zahlung per EC-Karte, wie beim Tanken.
+
+**Mythos 8 — Elektrifizierung treibt den Strompreis.**
+Der Strompreis hängt am Gaspreis, nicht an der Stromnachfrage (Merit Order). Mehr EVs allein machen Strom nicht teurer — der Gaspreis tut es. Die Lösung ist dieselbe wie in Mythos 4.
+
+**Mythos 9 — Altes Auto fahren ist umweltfreundlicher als ein neues E-Auto kaufen.**
+Über den Lebenszyklus stößt ein E-Auto im deutschen Strommix ca. 60–65 % weniger CO₂ aus als ein Verbrenner. Der Herstellungsaufwand ist im Vergleich zu kumulierten Auspuffemissionen über die Lebensdauer klein — und mit steigendem Erneuerbare-Anteil wächst der Vorteil jedes Jahr.
+
+**Mythos 10 — Batterieschrott landet in Kinderhänden in Afrika.**
+Die Bilder sind real — aber sie zeigen Blei-Akkus aus Verbrennern und Consumer-Electronics, keine 500-kg-Traktionsbatterien. EV-Batterien sind durch die EU-Batterierichtlinie reguliert: Pflicht-Rücknahmesysteme, 65 % Recyclingquote (steigend), 38 spezialisierte Recycler in Europa. Das eigentliche Problem: Die Batterien halten länger als erwartet — zu wenige kommen bisher überhaupt im Recycling an.
+
+→ [Lösungsansatz ↓](#speicher-first-strategie)
+
+---
+
 ### Batteriespeicher: Die ignorierte Lösung
 
 [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] liefert die Zahlen, die in Reiches Gesetzentwürfen fehlen: Batteriespeicher wachsen weltweit mit 50 % p.a., sind systemstabilisierend und durch den Lithium-Ionen-Preisverfall radikal günstiger geworden. Die Bundesnetzagentur unterschätzt den Ausbau systematisch (2 GW statt tatsächlich 16,6 GW).
