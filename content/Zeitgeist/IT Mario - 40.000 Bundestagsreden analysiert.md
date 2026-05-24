@@ -184,7 +184,9 @@ Gedankenwelten macht keinen Hehl daraus: Es gibt eine Perspektive. Aufklärung, 
 Der Bias ist real — hier wie dort. Die Frage ist nicht, ob er existiert. Die Frage ist, ob er transparent gemacht wird und ob die unbequemen Wahrheiten trotzdem reingelassen werden. Die AfD-Wortschatz-Überraschung, BSWs Vorwurfsführung, die Methodikgrenzen des eigenen Ansatzes — IT Mario lässt sie alle rein. Das ist die Bedingung: nicht Neutralität, sondern Ehrlichkeit. *Die Gedanken sind frei* — aber erst recht, wenn man weiß, welcher Garten sie wachsen lässt.
 
 > [!note] Eigene Einschätzung
-> Was IT Mario in 18 Minuten macht, teilt dieselbe Grundhaltung wie dieses Archiv: Man schaut sich die Dinge an. Man lässt sich von dem überraschen, was man findet. Man benennt den eigenen Standpunkt, statt ihn hinter Neutralitätsvokabular zu verstecken. Die schmerzhaften Wahrheiten sind dabei keine Fehler der Methode — sie sind ihr Beweis.
+> Was IT Mario in 18 Minuten macht, teilt eine Grundhaltung mit diesem Archiv: Man benennt den eigenen Standpunkt, statt ihn hinter Neutralitätsvokabular zu verstecken — und man lässt trotzdem rein, was der Wahrheit dient, auch wenn es die eigene Position belastet. Das AfD-Wortschatz-Ergebnis, BSWs Vorwurfsführung, die Methodikgrenzen des eigenen Ansatzes: IT Mario zeigt sie alle. Nicht weil er naiv offen ist, sondern weil er methodisch konsequent ist.
+>
+> Die Hürde ist nicht: *Bin ich offen?* Die Hürde ist: *Hat dieser Befund sein Dogma abgelegt — oder dient er nur einer Erzählung?* Wer das unterscheiden kann, braucht keine starre Mauer. Eine elastische reicht — und hält mehr aus.
 
 ---
 
@@ -257,3 +259,6 @@ Das Panorama bündelt das gesamte AfD-Analysecorpus des Cortex. IT Marios Datena
 > - Die AfD hat laut IT Mario den größten Wortschatz aller Parteien im Plenum. Gleichzeitig den höchsten Populismus-Score. *Widerspricht das der These, Populismus sei eine Vereinfachungsstrategie — oder bestätigt es sie?*
 > - PopBERT und IT Mario kommen zu vergleichbaren Ergebnissen auf verschiedenen Wegen. *Was sagt uns diese Konvergenz? Dass die Methode gut ist — oder dass das Ergebnis so offensichtlich ist, dass jeder Ansatz es findet?*
 > - *Dürfen wir auf Basis von KI-generierten Scores politische Urteile fällen — und wenn nein: warum vertrauen wir dann Meinungsumfragen, die ähnliche Schwächen haben?*
+
+### → [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+Aus der Reflexion über dieses Video entstand der Gedanke zur elastischen Brandmauer: IT Marios AfD-Wortschatz-Überraschung und BSW-Befund als Beispiele für unbequeme Wahrheiten, die durch eine ehrliche Methode kommen — und damit zeigen, dass hier nicht nach Lager sortiert wird.
