@@ -260,3 +260,6 @@ Beide Notes zeigen den Konflikt zwischen zivilgesellschaftlichen Demokratieiniti
 
 ### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Fallstudie zum Triggermedium-Mechanismus, den Staiy auf Makroebene beschreibt: NiUS erfindet eine islamfeindliche Geschichte (Ramadan-Buffet = "Unterwerfung unter den Islam"), Influencer und AfD-Politiker verstärken — der Teufelskreis aus Angstproduktion und Klickrelevanz in Echtzeit dokumentiert.
+
+### → [[Marcant — Ausstieg aus der rechten Szene]]
+Innenperspektive zur rechten Mediabubble: Marcant beschreibt den Sogmechanismus des TikTok-Algorithmus aus Eigenerfahrung von Felix. Sein Deradikalisierungsansatz *„Die Flut"* ist eine Praxisantwort auf den Parasozialitäts-Mechanismus, den Staiy bei Tucker Carlson & Co. analysiert — Gegencontent der denselben emotionalen Kanal nutzt, aber mit anderen Werten.

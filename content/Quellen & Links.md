@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Marcant — Ausstieg aus der rechten Szene (YouTube)
+
+| | |
+|---|---|
+| **Video** | [1 Mio Klicks: Unser Interview ließ ihn aussteigen](https://www.youtube.com/watch?v=NZcdZVmZd1A) |
+| **Kanal** | [vollmarcant](https://www.youtube.com/@vollmarcant) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Marcant_Ausstieg_Transkript.txt` |
+
 ## Fichtner — Zehn Batteriemythen (Geladen Podcast)
 
 | | |
