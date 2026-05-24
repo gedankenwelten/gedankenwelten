@@ -306,3 +306,7 @@ Das Geländer bei Arendt ist die gemeinsame Faktizität — die geteilte Realit�
 > - Nocun zitiert Arendt über das Ende der Faktizität als Ziel — aber Arendt schrieb das über organisierte Staatsmacht. Ist eine demokratisch produzierte Erschöpfung der Faktizität schlimmer oder besser als eine zentralisierte?
 > - Wer Rage-Bait kommentiert, boosted ihn. Wer ihn ignoriert, lässt ihn unwidersprochen. Wie kommt man aus dieser Falle heraus?
 > - Ist Medienkompetenz als Antwort naiv — oder ist sie das Einzige, was am Ende bleibt?
+
+### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+
+Spiegelverkehrte Perspektive auf KI und politische Sprache: Nocun zeigt, wie KI rechte Propaganda *produziert* — IT Mario nutzt KI um rechte Rhetorik zu *messen*. Dasselbe Werkzeug, zwei entgegengesetzte Rollen im selben politischen Feld.

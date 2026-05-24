@@ -459,3 +459,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Udo Marquardt
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Udo Marquardt]]
+
+## IT Mario
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/IT Mario]]

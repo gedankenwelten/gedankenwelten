@@ -279,3 +279,7 @@ Grenzgänger Studios liefert das investigative Gesamtbild zu Kempers Technofasch
 ### → [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]]
 
 Morpheus zeigt Kempers Technofaschismus als Produkt: Objection.ai ist SLAPP als Service — algorithmische Einschüchterung, die keine Massenaufmärsche braucht, sondern 2.000 Dollar und eine KI, die auf jedem Artikel Angriffspunkte findet.
+
+### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+
+IT Mario weist mit KI-Sprachanalyse nach, was Kemper durch linguistische Sprachmarker zeigt: AfD-Rhetorik folgt systematischen Mustern. Zwei unabhängige Methoden — Corpus-Linguistik und LLM-Scoring — konvergieren zu derselben Diagnose.

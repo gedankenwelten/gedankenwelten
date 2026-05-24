@@ -210,3 +210,7 @@ Während MONITOR die Skandal-Immunität der AfD empirisch dokumentiert, liefert 
 ### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Semsrott benennt das in MONITOR diagnostizierte Problem als "Mehrheitslüge": Nur 27% stehen hinter der Regierungskoalition — und trotzdem setzt CDU/SPD AfD-Inhalte um. Wo MONITOR die Diagnose liefert (Skandale ohne Wählerkonsequenzen), gibt Semsrott die strategische Antwort: versteckte progressive Mehrheiten sichtbar machen und Gegenmacht aufbauen.
+
+### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+
+IT Mario quantifiziert empirisch, was MONITOR qualitativ dokumentiert: Komplexitätsreduktion als messbares Populismus-Merkmal. Die 45.000 analysierten Bundestags-Reden geben dem Quent-Argument über „Erlösung von Komplexität" eine datengestützte Grundlage.

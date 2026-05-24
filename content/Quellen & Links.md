@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## IT Mario — 40.000 Bundestagsreden analysiert
+
+| | |
+|---|---|
+| **Video** | [40.000 Reden analysiert: Welche Partei ist WIRKLICH gefährlich?](https://www.youtube.com/watch?v=1LH7PZAPq-Y) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] |
+| **Transkript** | `Gedankenwelten/Transkripte/ITMario_Bundestag_Transkript.txt` |
+
 ## Marcant — Ausstieg aus der rechten Szene (YouTube)
 
 | | |

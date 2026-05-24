@@ -33,12 +33,12 @@ Quelle: [1 Mio Klicks: Unser Interview ließ ihn aussteigen](https://www.youtube
 
 Fünf Monate später sitzt derselbe Felix im Willy-Brandt-Haus und sagt: *„Ich bin komplett aus der rechten Szene draus."*
 
-Was in diesen fünf Monaten passierte, ist der Kern dieses Videos — und es ist ungewöhnlich präzise protokolliert. Marcant hat nicht nur Felix, sondern auch dessen Freund Max interviewt, der die Entwicklung von außen beobachtet hat. Dadurch entsteht eine Innenperspektive, die selten zu sehen ist: Wir hören vom Prozeß der Radikalisierung, vom Schock des viralen Moments, vom langsamen Umdenken und schließlich vom vollständigen Ausstieg — von zwei Stimmen gleichzeitig.
+Was in diesen fünf Monaten passierte, ist der Kern dieses Videos — und es ist ungewöhnlich präzise protokolliert. Marcant hat nicht nur Felix, sondern auch dessen Freund Max interviewt, der die Entwicklung von außen beobachtet hat. Dadurch entsteht eine Innenperspektive, die selten zu sehen ist: Wir hören vom Prozess der Radikalisierung, vom Schock des viralen Moments, vom langsamen Umdenken und schließlich vom vollständigen Ausstieg — von zwei Stimmen gleichzeitig.
 
 Was dieses Video so interessant macht, ist das, was es über die *Architektur* von Radikalisierung enthüllt. Felix wurde nicht durch tiefe ideologische Überzeugung zum Neonazi. Er wurde es durch Zufall, Peer-Einfluss und einen Algorithmus — und er kam wieder heraus, weil eine zufällige Begegnung auf einer Demo die Konsequenzen seines Denkens für ihn unübersehbar machte.
 
 > [!question] Weitergedacht
-> Felix sagt, er war auf der *ersten Demo seines Lebens* — und traf dort Marcant. Wäre er bei der nächsten Demo geblieben, hätten ihn die „Altkader-Nazis" eingefangen. Verändert das, wie wir über Deradikalisierung denken? Ist der Ausstieg weniger Transformation als zufältig eingefangener Zeitpunkt?
+> Felix sagt, er war auf der *ersten Demo seines Lebens* — und traf dort Marcant. Wäre er bei der nächsten Demo geblieben, hätten ihn die „Altkader-Nazis" eingefangen. Verändert das, wie wir über Deradikalisierung denken? Ist der Ausstieg weniger Transformation als zufällig eingefangener Zeitpunkt?
 
 ---
 
@@ -71,7 +71,7 @@ Das hat weitreichende Konsequenzen für Gegenstrategien. Wenn jemand rechts ist,
 
 ---
 
-### Das virales Interview als Konfrontation mit sich selbst
+### Das virale Interview als Konfrontation mit sich selbst
 
 [▶ 10:34](https://www.youtube.com/watch?v=NZcdZVmZd1A&t=634) — Felix wusste nicht, dass das Interview hochgeladen werden würde. Er hatte es vergessen. Die ersten Tage waren überraschend normal — nur ein, zwei Menschen in der Schule fragten. Dann explodierte das Video.
 
@@ -91,7 +91,7 @@ Was das Umdenken auslöste, war nicht ein einziges Gespräch, sondern eine Kumul
 
 Gleichzeitig macht er klar, dass ein Freund entscheidend war: *„Ich würde sagen, ich glaube, es wäre ohne ihn nicht wirklich gegangen."* Dieser Freund — der anonym bleibt — ist selbst Fan von Marcants Kanal. Er hat Felix nicht verlassen, als die Radikalisierung offensichtlich wurde. Er hat geredet.
 
-Marcants Freund Max beschreibt den Wendepunkt nüchtern: Es war eine Kombination aus Schule, Freundesgruppe, Therapiegesprächen und dem wiederholten Gefühl der Peinlichkeit. *„Ich glaube, er hat glaube ich selber gemerkt, dass es echt ein Quatsch war, dass er da geredet hat."*
+Felix' Freund Max beschreibt den Wendepunkt nüchtern: Es war eine Kombination aus Schule, Freundesgruppe, Therapiegesprächen und dem wiederholten Gefühl der Peinlichkeit. *„Ich glaube, er hat glaube ich selber gemerkt, dass es echt ein Quatsch war, dass er da geredet hat."*
 
 Die entscheidende Frage, die Marcant stellt: Was wäre passiert, wenn der Freund die Tür zugemacht hätte? *„Das weiß ich nicht. Das hätte alles möglich passieren können."* Marcant macht daraus einen expliziten Appell an alle Zuschauer: Wer jemanden aus dem näheren Umfeld radikalisiert sieht — die Tür offenhalten. Nicht um das Verhalten zu akzeptieren, aber um dem Menschen nicht den einzigen möglichen Rückweg zu versperren.
 
@@ -196,4 +196,4 @@ Maas beschreibt die Voraussetzungen, unter denen Radikalisierung möglich wird: 
 > - Marcants Methode — Radikalisierung durch Peinlichkeit stoppen — funktioniert nach eigener Aussage nicht bei ideologisch Gefestigten. Aber hat er ein Modell, wie man *erkennt*, ob jemand noch trendrechts oder schon ideologisch gefestigt ist? Oder bleibt das Intuition?
 > - Die Radikalisierung kam durch Freunde + TikTok. Der Ausstieg kam durch Freund + Spiegel (virales Video). Wenn Soziales beides ermöglicht — welche Rolle spielt die Gesellschaft in der *Prävention*, nicht erst der Deradikalisierung?
 > - Marcant kämpft mit algorithmischen Mitteln gegen algorithmische Radikalisierung. Verändert er damit das Spiel — oder normalisiert er, dass emotionale Mobilisierung die einzige Form wirksamen Gegendiskurses ist?
-> - Was wäre wenn Felix nicht auf Marcant getroffen wäre? Die Geschichte wird als Erfolg erzählt. Wieviele Felixe gibt es, über die niemand ein Video macht?
+> - Was wäre wenn Felix nicht auf Marcant getroffen wäre? Die Geschichte wird als Erfolg erzählt. Wie viele Felixe gibt es, über die niemand ein Video macht?

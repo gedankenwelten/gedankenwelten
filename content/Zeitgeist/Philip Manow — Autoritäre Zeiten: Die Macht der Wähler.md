@@ -378,3 +378,7 @@ Varoufakis' Faschismus-Sequenz (Bankenkollaps → Austerität → Scheitern der 
 ### → [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
 
 BissenBlaBla schließt Manows Analyse zur Kehrseite: Die Protestwahl hat gewählt — und liefert auf der Globalisierungsdimension ebenfalls nicht. Das Dilemma wird sichtbar: Gute Gründe, alte Parteien abzuwählen; schlechte Ergebnisse mit den neuen. Manows Ursachenanalyse + BissenBlaBlas Machtbilanz ergeben das vollständige Bild.
+
+### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+
+IT Mario macht Manows Populismus-Nährboden-Theorie empirisch messbar: Der Populismus-Score der 45.000 Bundestags-Reden zeigt die AfD an der Spitze — exakt das, was Manows Analyse auf der Wählerseite beschreibt, ist hier auf der Redner-Seite quantifiziert.
