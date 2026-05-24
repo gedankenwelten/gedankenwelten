@@ -234,3 +234,7 @@ Steinkes "Teilzeitliberalismus"-Begriff (Meinungsfreiheit nur solange die Meinun
 > - Erdoğan und Netanyahu begannen mit echten Erfolgen und zerstörten sie durch Machtkonzentration. Ist das eine Eigenschaft von Personen — oder von Systemen ohne Kontrolle? Was hält Demokratien davon ab, diesen Weg zu gehen?
 > - Der Kanal misst Regierungen an ihren Versprechen — aber Versprechen werden an Wähler gerichtet. Was sagt es über die Wähler, wenn die Versprechen nicht gehalten werden, die Zustimmung aber teilweise trotzdem bleibt?
 > - Milei senkt die Inflation, erhöht die Armut, bricht die Pressefreiheit — und wird international von rechten Bewegungen als Erfolgsmodell gehandelt. Was genau wird hier als Erfolg definiert?
+
+### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+
+Beide Formate teilen denselben epistemischen Ansatz: politische Analyse durch öffentlich zugängliche, methodisch transparente Daten — BissenBlaBla via internationale Indizes, IT Mario via offene Spreadsheets und Zenodo-Archiv. Methodische Transparenz als gemeinsame Gegenstrategie gegen den Neutralitätsmythos.

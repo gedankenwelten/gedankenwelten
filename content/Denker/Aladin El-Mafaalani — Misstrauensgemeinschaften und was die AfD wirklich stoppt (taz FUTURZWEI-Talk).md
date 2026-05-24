@@ -256,3 +256,5 @@ El-Mafaalani hält es für wahrscheinlich, dass Europa demokratisch bleibt — a
 - [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Maus Vier-Arenen-Modell und Polarisierungsunternehmer-Konzept zeigt den Mechanismus hinter El-Mafaalanis Misstrauensgemeinschaften: gezielte Aktivierung von Identitäts- und Migrationskonflikten
 - [[Heinz Bude — Gesellschaft der Angst]] — Bude beschreibt 2014 Misstrauen als neue Form politischer Mobilisierung (Tea Party, Piraten, AfD als „unbestimmte Negation"); El-Mafaalani systematisiert 2025 diesen Befund zur Theorie der Misstrauensgemeinschaften
 - [[Liya Yu — Neuropolitik und die Grenzen der Moral]] — Yu liefert die kognitive Erklärung für El-Mafaalanis Misstrauensgemeinschaften: Warum Vertrauen so fragil und Misstrauen so leicht aktivierbar ist
+
+- [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — IT Marios Datenanalyse illustriert El-Mafaalanis Dilemma: ein sachlicher, datengestützter Befund über die AfD wird von AfD-Sympathisanten nicht als Argument wahrgenommen, sondern als Bestätigung des Misstrauens gegenüber „Systemanalysen".
