@@ -266,3 +266,4 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 - [[Gedankenwelten/DenkerVita/Karl Marx|Karl Marx]] — Philosoph, Ökonom; Historischer Materialismus, Basis-Überbau-Theorie, Mehrwerttheorie
 - [[Gedankenwelten/DenkerVita/Marina Klimchuk|Marina Klimchuk]] — Freie Journalistin; USA, Migration, Erinnerungskultur; VDRJ-Preis 2025
 - [[Gedankenwelten/DenkerVita/Morpheus|Morpheus (Cedric Mössner)]] — Informatik-Educator, YouTuber (TheMorpheus407); Bootstrap Academy, European Alternatives, KI-Bias-Tests
+- [[Gedankenwelten/DenkerVita/IT Mario|IT Mario]] — Datenanalyst und Data-Science-YouTuber; KI-gestützte politische Sprachanalyse, Bundestags-Rhetorik, methodische Transparenz
