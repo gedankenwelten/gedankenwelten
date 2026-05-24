@@ -197,3 +197,6 @@ Maas beschreibt die Voraussetzungen, unter denen Radikalisierung möglich wird: 
 > - Die Radikalisierung kam durch Freunde + TikTok. Der Ausstieg kam durch Freund + Spiegel (virales Video). Wenn Soziales beides ermöglicht — welche Rolle spielt die Gesellschaft in der *Prävention*, nicht erst der Deradikalisierung?
 > - Marcant kämpft mit algorithmischen Mitteln gegen algorithmische Radikalisierung. Verändert er damit das Spiel — oder normalisiert er, dass emotionale Mobilisierung die einzige Form wirksamen Gegendiskurses ist?
 > - Was wäre wenn Felix nicht auf Marcant getroffen wäre? Die Geschichte wird als Erfolg erzählt. Wie viele Felixe gibt es, über die niemand ein Video macht?
+
+### → [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+Marcant ist das lebendige Beispiel: keine Angriffsfläche, kein Dogma, keine ideologische Flanke. Was auf den ersten Blick wie Schwäche aussieht, ist die Stärke einer elastischen Brandmauer — Informationen werden nach Dogma-Freiheit selektiert, nicht nach politischer Zugehörigkeit.

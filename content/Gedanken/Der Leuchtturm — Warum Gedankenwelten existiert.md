@@ -102,3 +102,6 @@ Resonanz als das, was der Stack systematisch eliminiert; der Leuchtturm als Reso
 ### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
 
 Bonhoeffer im Gefängnis, ohne Aussicht auf Sieg, schreibt trotzdem. Leuchtturm.
+
+### → [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+Der Leuchtturm beschreibt das *Warum* von Gedankenwelten — die elastische Brandmauer beschreibt das *Wie*: kein Neutralitätsanspruch, aber eine Membran, die Wahrheit von Erzählung unterscheidet.
