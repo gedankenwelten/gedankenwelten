@@ -65,7 +65,7 @@ In ihren neueren Werken konzentriert sie sich auf die **Dekonstruktion rechtsext
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Nocun - Jung blond rechts und KI-generiert - re:publica 26|Nocun — Jung, blond, rechts & KI-generiert (re:publica 26)]]
+- [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Nocun — Jung, blond, rechts & KI-generiert (re:publica 26)]]
 
 ---
 

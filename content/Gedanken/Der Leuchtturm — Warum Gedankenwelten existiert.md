@@ -87,6 +87,10 @@ das *Wie* zum *Warum* des Leuchtturms — wie die leise Kraft der aufrichtigen B
 
 Haben-Modus als Neoliberalismus-Erkenntnistheorie; Sein-Modus als Voraussetzung für den Leuchtturm
 
+### → [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lehrlings]]
+
+Der Leuchtturm ist selbst ein Verb-Projekt: nicht „wir sind Aufklärer" (Nomen, besetzbar), sondern *wir klären auf* — immer noch, nicht fertig. Zhao Tingyangs Verb-Denken als philosophisches Fundament des Gedankenwelten-Selbstverständnisses.
+
 ### → [[S.N. Goenka — Vipassana]]
 
 die Erfahrung, ohne Status und ohne äußere Bestätigung glücklich zu sein: nicht als Argument, sondern als Referenz

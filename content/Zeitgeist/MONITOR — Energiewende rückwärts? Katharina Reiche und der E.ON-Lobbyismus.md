@@ -147,7 +147,7 @@ Reiche hält trotzdem an den Plänen fest.
 
 ## Verbindungen
 
-### → [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+### → [[Gedankenwelten/Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 
 Die Subventionsasymmetrie ist hier strukturell dieselbe: Wer Netzinfrastruktur kontrolliert und wessen Kosten unsichtbar gehalten werden, bestimmt das Narrativ. Reiche macht das Risiko der Erneuerbaren sichtbar und das Versagen der Netzbetreiber unsichtbar — Fortsetzung eines bekannten Musters.
 
@@ -175,7 +175,7 @@ Quaschning zeigt, wie teure fossile Energie direkt auf Verbraucher durchschlägt
 
 Beide Notes zeigen Lobby-Interessen, die sich als wirtschaftspolitische Sachargumente tarnen. MONITOR: Drehtür-Effekt Konzern→Ministerium. Höfgen/Bauer: Lobbyverband, der Subventionsabbau fordert und AfD-nah ist. In beiden Fällen wird die Interessenstruktur nur durch kritischen Journalismus sichtbar.
 
-### → [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+### → [[Gedankenwelten/Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
 
 Der Drehtür-Effekt Reiche/E.ON ist ein konkretes Fallbeispiel institutionellen Machtmissbrauchs, den Staiy strukturell analysiert.
 

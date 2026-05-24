@@ -157,7 +157,7 @@ Das ist der entscheidende Unterschied zu proprietären Insellösungen: Nur Inter
 
 Das Energie-Panorama dokumentiert die politischen Blockaden der deutschen Energiewende: Drehtür-Lobbyismus (Reiche), Batterie-Ausschluss durch 10-Stunden-Regel, Doppelbesteuerung. Utrecht zeigt das komplementäre Bild: Was möglich ist, wenn der regulatorische Rahmen passt. Die 800 eingesparten Trafohäuschen sind das direkte Gegenstück zur deutschen Redispatch-Misere.
 
-### → [[Gedankenwelten/Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Loesung der Energiewende]]
+### → [[Gedankenwelten/Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 
 Goldbach zeigt, warum Batteriespeicher in Deutschland politisch ausgebremst werden (10-Stunden-Mindestlaufzeit). Vehicle-to-Grid ist die mobile Variante desselben Prinzips — und scheitert in Deutschland am selben Mechanismus: der Doppelbesteuerung. Zwei Hemmnisse, dieselbe Logik.
 

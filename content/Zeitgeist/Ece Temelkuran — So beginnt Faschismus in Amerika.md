@@ -168,7 +168,7 @@ Nocun zeigt Temelkurans Stufen 3 und 4 als technologische Infrastruktur: die alg
 
 Redecker analysiert Faschismus als „Phantombesitzverteidigung" und betont ebenfalls die schleichende Normalisierung; Temelkurans 7-Stufen-Modell ist ein konkretes Pendant zu Redeckers theoretischem Rahmen
 
-### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
+### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 
 Kemper und Temelkuran teilen die Diagnose: Faschismus muss beim Namen genannt werden; beide wenden sich gegen Verharmlosung durch Lachen
 
