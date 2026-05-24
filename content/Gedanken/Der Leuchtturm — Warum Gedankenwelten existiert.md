@@ -79,7 +79,7 @@ Wenn jemand diese Notes liest — in einem Jahr, in zehn — soll er nicht nur I
 
 der Ausgleichsmechanismus ist nicht Kampf, sondern Integration des Gegenteils
 
-### → [[Das unsichtbare Netzwerk — Gravitation statt Revolution]]
+### → [[Das unsichtbare Netzwerk — Die Macht in Dir]]
 
 das *Wie* zum *Warum* des Leuchtturms — wie die leise Kraft der aufrichtigen Begegnung wirkt, unsichtbar wie Gravitation, aber stark genug, um Netzwerke zu bilden
 
@@ -87,7 +87,7 @@ das *Wie* zum *Warum* des Leuchtturms — wie die leise Kraft der aufrichtigen B
 
 Haben-Modus als Neoliberalismus-Erkenntnistheorie; Sein-Modus als Voraussetzung für den Leuchtturm
 
-### → [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lehrlings]]
+### → [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
 
 Der Leuchtturm ist selbst ein Verb-Projekt: nicht „wir sind Aufklärer" (Nomen, besetzbar), sondern *wir klären auf* — immer noch, nicht fertig. Zhao Tingyangs Verb-Denken als philosophisches Fundament des Gedankenwelten-Selbstverständnisses.
 
