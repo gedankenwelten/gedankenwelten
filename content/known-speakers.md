@@ -285,6 +285,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Marc Felix Serrao
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marc Felix Serrao]]
 
+## Marcant
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marcant]]
+
 ## Marie-Agnes Strack-Zimmermann
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Marie-Agnes Strack-Zimmermann]]
 

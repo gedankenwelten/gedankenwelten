@@ -217,3 +217,6 @@ Bude beschreibt den kollektiven Bildungsaufstieg als *die* prägende Boomer-Erfa
 
 ### → [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
 Maas' Unterscheidung Bild-Denker vs. Sprach-Denker ist eine empirische Bestätigung von Zhaos philosophischer These: Sprache ist nomenbasiert und bevorzugt Sprach-Denker systematisch. Bild-Denker arbeiten in einem Modus, der dem Verb-Denken näher ist — Prozesse, Transformationen, räumliche Dynamiken vor statischen Kategorien. Zhaos Neo-Aufklärung müsste deshalb auch neue Bildungssysteme mitdenken: Das paläolithische Sprachsystem, das er kritisiert, wird genau im Schulapparat reproduziert. Hinton/Wilson-Zitat trifft Maas-Befund: „mittelalterliche Institutionen" als Schulen.
+
+### → [[Marcant — Ausstieg aus der rechten Szene]]
+Empirischer Einzelfall zu Maas' Strukturdiagnose: fehlende epistemische Resilienz und algorithmische Konditionierung schaffen Radikalisierungsrisiko. Marcants Fallstudie zeigt, was Maas als Lösung fordert — die Fähigkeit, den eigenen Urteilsweg zu befragen, wird hier nicht im Klassenzimmer, sondern durch Beziehung und Scham ausgelöst.

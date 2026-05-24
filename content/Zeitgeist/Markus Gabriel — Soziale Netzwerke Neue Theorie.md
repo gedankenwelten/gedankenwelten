@@ -178,3 +178,7 @@ Pörksens „Filterclash" — das permanente Aufeinanderprallen verschiedener We
 ### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 
 Heitmeyers Diagnose digitaler Plattformen als „Verrohungsmaschinen" ist die empirische Bestätigung von Gabriels Strukturanalyse: Wo die Triangulation fehlt und reine gegenstandslose Sozialität herrscht, erodiert Empathie. Heitmeyer beschreibt die Symptome, Gabriel die architektonische Ursache.
+
+### → [[Marcant — Ausstieg aus der rechten Szene]]
+
+Erfahrungsbericht zur Triangulations-These: Marcant beschreibt die algorithmische Radikalisierungsspirale als Erlebnisprotokoll dessen, was Gabriel als „Sozialität ohne korrigierenden Gegenstand" analysiert. *„Die Flut"* als Gegenstrategie (Community-Gegencontent) ist der Versuch, Triangulation in gegenstandslosen Räumen künstlich herzustellen.
