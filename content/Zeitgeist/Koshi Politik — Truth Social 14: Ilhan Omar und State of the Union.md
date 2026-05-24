@@ -101,5 +101,5 @@ Heitmeyer beschreibt institutionelle Verrohung — der Einsatz staatlicher Resso
 ### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
 Redecker: Härte als Reaktion auf Unsicherheit. Trumps Sprache über Omar und Tlaib — „zurückschicken", „Anstalt" — ist die Inszenierung von Härte als politisches Versprechen.
 
-### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Gedankenwelten/Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Der Post ist ein Lehrstück: Feind-Markierung, Abwertung, Größe durch Vernichtung des anderen. Hagemeyer hätte an diesem Post Freude.

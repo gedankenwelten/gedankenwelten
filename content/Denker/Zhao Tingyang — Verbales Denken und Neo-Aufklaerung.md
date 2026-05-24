@@ -161,7 +161,7 @@ Gabriel spricht von einer „zweiten Aufklärung" mit ethischen Parametern. Zhao
 ### → [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Technofeudalism|Varoufakis — Technofeudalism]]
 Varoufakis und Zhao teilen die Beobachtung, dass KI und Technologie qualitativ neue Phänomene produzieren, die mit alten Kategorien nicht erfassbar sind — Varoufakis nennt es Feudalismus statt Kapitalismus, Zhao nennt es das Scheitern des Nomen-Denkens. Beide suchen neue konzeptionelle Werkzeuge. Aber Varoufakis vertraut dem politischen Begriff (Feudalismus), Zhao vertraut dem philosophischen Strukturprinzip (Verb-Logik).
 
-### → [[Gedankenwelten/Zeitgeist/Markus Gabriel — KI als Resonanzfeld und Mu|Markus Gabriel — KI als Resonanzfeld und Mu]]
+### → [[Gedankenwelten/Zeitgeist/Markus Gabriel — KI als Resonanzfeld und Mu|Markus Gabriel — KI als Resonanzfeld und Mu (scobel)]]
 Gabriel entwickelt über den japanischen Begriff *Mu* eine fast deckungsgleiche Diagnose: Westliches Denken ist substanzfixiert (Dinge mit Eigenschaften), während Mu — wie Zhaos Verb-Denken — Relationen und Prozesse als primär setzt. Gabriels Satz „KI ist nicht im Gerät, sondern im Resonanzfeld" ist eine angewandte Verb-Ontologie: Existenz als Geschehen zwischen Dingen, nicht als Zustand in Dingen. Gleichzeitig zeigt die Note einen produktiven Widerspruch: Gabriel operiert weiterhin mit Hegelscher Begrifflichkeit — also mit einer hochentwickelten *Nomen*-Logik, die Bewegung nur dialektisch, nicht wirklich verbal denkt.
 
 ### → [[Gedankenwelten/Zeitgeist/Hartwin Maas — Bildung NEU DENKEN|Hartwin Maas — Bildung NEU DENKEN]]

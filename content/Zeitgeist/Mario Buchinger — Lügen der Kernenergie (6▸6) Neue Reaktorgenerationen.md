@@ -230,7 +230,7 @@ Kemper beschreibt, wie rechte Akteure Technologie instrumentalisieren. Buchinger
 
 Die Desinformationsstrategie der Fossil-Lobby (Kapital binden, Zeitgewinn, Agenda-Setting via willfährige Meinungsmacher wie Stelter/Wendland) ist ein lehrbuchhaftes Beispiel für Mausfelds Analyse politischer Manipulation unterhalb der Bewusstseinsschwelle.
 
-### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 
 Tooze analysiert, wie Technologieversprechen (KI, Militär) politische Entscheidungen präformieren, lange bevor die Technologie lieferbar ist. Das gleiche Muster liegt bei SMR, Thorium und Kernfusion vor: Das Versprechen wirkt politisch schon heute, obwohl die Realität Jahrzehnte entfernt ist.
 
