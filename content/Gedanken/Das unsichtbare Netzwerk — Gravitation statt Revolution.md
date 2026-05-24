@@ -156,6 +156,10 @@ Der neurowissenschaftliche Unterbau: Reappraisal, predictive coding, der trainie
 
 Die kognitive Gegenseite: Warum wir an falschen Überzeugungen festhalten und warum eine einzige authentische Erfahrung (Prediction Error) stärker wirkt als hundert Argumente.
 
+### → [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lehrlings]]
+
+Verb-Denken und Gravitation haben dieselbe Struktur: keine Fahne, kein Programm, aber kumulierte Wirkung. „Fragend statt behauptend" wirkt wie Gravitation — leise, unsichtbar, aber konsequent über Zeit.
+
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Resonanz als Name für das, was in aufrichtiger Begegnung passiert. Rosas Steigerungslogik als Erklärung, warum wir die leise Kraft nicht wahrnehmen.

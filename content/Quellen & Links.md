@@ -289,7 +289,7 @@ tags:
 | **Notiz** | [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Flassbeck_Tabu_Transkript.txt` |
 
-## NANO Talk — Arbeiten wir zu wenig oder völlig falsch?
+## NANO Talk — Arbeiten wir zu wenig oder voellig falsch?
 
 | | |
 |---|---|
@@ -1321,7 +1321,7 @@ tags:
 | | |
 |---|---|
 | **Diskurse** | [dhamma.org — Aufnahmen (Deutsch)](https://discourses.dhamma.org/recordings/discourses?languages%5Biso_code%5D=de&event_days%5Bshortcode%5D=) |
-| **Notiz** | [[Denker/S.N. Goenka — Vipassana]] |
+| **Notiz** | [[Gedankenwelten/Denker/S.N. Goenka — Vipassana]] |
 | **Transkripte** | `Gedankenwelten/Vipassana/Day01–Day11_Deutsch_Discourse_10day.txt` |
 
 ---
@@ -1341,7 +1341,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | ['This Is the Same Idea Hitler Pushed' — Ibram X. Kendi on MAGA Politics](https://www.youtube.com/watch?v=7gdxmcg3JCg) |
-| **Notiz** | [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kendi_GreatReplacement_Transkript.txt` |
 
 ---
@@ -1586,7 +1586,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Narzissmus-Experte: Warum Narzissten innerlich so leer sind — Jakobsweg Podcast](https://www.youtube.com/watch?v=gw-ZOrlqt_g) |
-| **Notiz** | [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]] |
+| **Notiz** | [[Gedankenwelten/Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Hagemeyer_Narzissmus_Transkript.txt` |
 
 ---
@@ -1670,7 +1670,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Andreas Kemper — Faschismen im 21. Jahrhundert (Voller Vortrag)](https://www.youtube.com/watch?v=ug4UAdnGH54) |
-| **Notiz** | [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kemper_Faschismus21_Transkript.txt` |
 | **Kontext** | Vortrag beim Kultreff, Universität Paderborn — Theoriebasis (Griffin, Theweleit) + drei Faschismus-Typen |
 
@@ -1692,7 +1692,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Pentagon vs. Anthropic: Wer kontrolliert die KI?](https://www.youtube.com/watch?v=3wizXzdTQCc) |
-| **Notiz** | [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]] |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Tooze_KI_Kontrolle_Transkript.txt` |
 | **Spektrum** | Links-wirtschaftsanalytisch — Surplus-Magazin (Adam Tooze, Lukas Scholle) |
 
@@ -2027,7 +2027,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 |---|---|
 | **Studie** | [FÖS — Staatliche Förderungen der Atomenergie (2020)](https://foes.de/publikationen/2020/2020-10_FoES_Fossile-Subventionen_Atomkraft.pdf) |
 | **Parlamentsdienst** | Bundestag Wissenschaftliche Dienste WD 5/2021 |
-| **Notiz** | [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] |
 
 ---
 
@@ -2130,7 +2130,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [🗞️ NEWS: Krasser Machtmissbrauch von der CDU/CSU…](https://www.youtube.com/watch?v=cd8rCzl3Uvs) |
-| **Notiz** | [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Staiy_News_Machtmissbrauch_Transkript.txt` |
 
 ---

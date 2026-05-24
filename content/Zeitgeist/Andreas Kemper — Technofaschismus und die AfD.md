@@ -186,7 +186,7 @@ Nocun liefert die empirische Substanz zu Kempers Technofaschismus-These: KI-Fake
 
 Henze zeigt die religiöse Dimension des Phänomens, das Kemper strukturell beschreibt: Die Vereinnahmung von Bonhoeffer durch evangelikale Kreise ist nicht zufällig, sondern Teil derselben Legitimationsbeschaffung. Kemper analysiert den ideologischen Rahmen — Henze zeigt, wie dieser durch symbolische Aneignung historischer Widerstandsfiguren Bürgerlichkeit imitiert.
 
-### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
+### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 Volller Vortrag an der Uni Paderborn — liefert die Theoriebasis, die diesem Interview zugrunde liegt: Roger Griffins palingenetischer Ultranationalismus, Theweleits Körperpolitik, Machiavelli und Identifikation mit dem Aggressor. Außerdem: Klerikalfaschismus und das aristokratische Netzwerk (Beatrix von Storch, Edmund von Waldstein, JD Vance) als zweiter Faschismus-Typ.
 
 ### → [[Denker/Heiner Flassbeck — Krise und Rechtsruck]]
@@ -210,7 +210,7 @@ Arendt: Banalität des Bösen — das Böse braucht keine Monster, sondern Gedan
 ### → [[Denker/Götz Aly — Wie konnte das geschehen]]
 Aly analysiert die gesellschaftlichen Bedingungen des NS. Kemper schlägt die Brücke zur Gegenwart: Dieselbe Ungleichzeitigkeit (Ernst Bloch), dieselbe Technologienutzung (IBM → KI), dieselbe Verbindung von rückwärtsgewandter Rhetorik und moderner Infrastruktur.
 
-### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 Tooze zeigt den Technofaschismus aus wirtschaftspolitischer Perspektive in Aktion: Das Pentagon unter Hegseth fordert Claude für autonome Kampfroboter und Massenüberwachung — exakt die beiden Anwendungsfelder, die Kemper als Kern postfordistischer faschistischer Herrschaft beschreibt. Kemper liefert die Theorie, Tooze den aktuellen Casus.
 
 ---

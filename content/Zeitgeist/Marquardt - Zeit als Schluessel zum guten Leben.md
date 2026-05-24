@@ -273,7 +273,7 @@ Das ist keine Frage, die man beantwortet — sondern eine, nach der man lebt. Si
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Denker/Hartmut Rosa — Resonanz und Entfremdung]]
+### → [[Gedankenwelten/Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Rosa ist das explizite Gegenstück: Marquardt beschreibt phänomenologisch, was Rosa soziologisch analysiert. „Sich anrufen lassen" (Marquardt) ist dasselbe wie Resonanz (Rosa) — nur aus der subjektiven statt der systemischen Perspektive.
 
