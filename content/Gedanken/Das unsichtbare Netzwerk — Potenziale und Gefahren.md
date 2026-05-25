@@ -15,7 +15,7 @@ aliases:
 
 # Das unsichtbare Netzwerk — Potenziale und Gefahren
 
-> Zweiter Teil einer Reihe. Fundament: [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]]
+> Zweiter Teil einer Reihe. Fundament: [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] · Weiter: [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
 > Entstanden am 24.05.2026 aus einem Gespräch über die Doppelnatur des unsichtbaren Netzwerks.
 
 ---

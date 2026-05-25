@@ -258,3 +258,4 @@ El-Mafaalani hält es für wahrscheinlich, dass Europa demokratisch bleibt — a
 - [[Liya Yu — Neuropolitik und die Grenzen der Moral]] — Yu liefert die kognitive Erklärung für El-Mafaalanis Misstrauensgemeinschaften: Warum Vertrauen so fragil und Misstrauen so leicht aktivierbar ist
 
 - [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — IT Marios Datenanalyse illustriert El-Mafaalanis Dilemma: ein sachlicher, datengestützter Befund über die AfD wird von AfD-Sympathisanten nicht als Argument wahrgenommen, sondern als Bestätigung des Misstrauens gegenüber „Systemanalysen".
+- [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] — Romy Arnold und Melanie Stein ergänzen El-Mafaalanis Misstrauensgemeinschaft-Theorie um die strukturelle Dimension: Unterrepräsentation von Ostdeutschen (3% Justiz, 4% Wirtschaft) als historisch berechtigter Grund für Systemskepsis
