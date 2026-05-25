@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## re:publica 26 — Inside AI's Human Assembly Line (Kloiber, Kinyua)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Inside AI's Human Assembly Line – re:publica 26](https://www.youtube.com/watch?v=lSd8vuTz9so) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kinyua_Kanyugi_AI_Assembly_Line_Transkript.txt` |
+
 ## re:publica 26 — Stresstest für die Demokratie (Stein, Günther, Prinz, Arnold, Mitschke)
 
 | | |

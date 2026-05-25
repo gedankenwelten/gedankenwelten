@@ -200,6 +200,12 @@ Lorey und Mbembe gehen beide von Foucaults Biopolitik aus, schärfen sie aber in
 
 ---
 
+### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+
+Die Visumsverweigering für Ephantus Kanyugi ist bei Mbembe strukturell lesbar: Deine Arbeit gehört uns — deine Stimme nicht. KI-Systeme lernen auf Kosten von Millionen Menschen aus dem Globalen Süden; ihre politische Teilhabe bleibt ausgesperrt. Colonialism with digital characteristics.
+
+---
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
