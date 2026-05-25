@@ -248,3 +248,7 @@ Schultz liefert die neuronale Grammatik für das, was Nosthoff als Machtstrategi
 ### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Palantir Gotham ist die direkte Realisierung von Nosthoffs kybernetischer Prädiktionslogik: statt feindlicher Piloten "vorausberechnet" der Algorithmus Verdächtige — dasselbe Maschinenmodell, angewendet auf Kriminalität statt Krieg. Kurz und Görlitz liefern den deutschen Rechtsfall zur technikhistorischen These.
+
+### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+
+Das „Clickwork"-Framing ist kybernetische Kategorisierung in ihrer reinsten Form: Hochqualifizierte Arbeit wird als mechanische Input-Tätigkeit umdefiniert, damit sie als unsichtbar und rechtslos gelten kann. Nosthoffs Analyse der Verhaltenssteuerung von oben findet in der Data-Labor-Note ihr Spiegelbild von unten.

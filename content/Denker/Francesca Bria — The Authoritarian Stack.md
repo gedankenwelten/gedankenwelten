@@ -189,3 +189,7 @@ Varoufakis liefert die ökonomische Erklärung für Brias Authoritarian Stack: C
 ### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Kurz und Görlitz dokumentieren Brias "State Capture" als konkreten Vertragstext: Der Palantir-Vertrag in Baden-Württemberg (25 Mio. Euro, ohne Ausstiegsklausel) *vor* dem Polizeigesetz ist Vendor Lock-in als politische Fait Accompli — das Geld erzeugt den Willen, nicht umgekehrt.
+
+### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+
+Kloibers „Invisibility by Design" ist Brias Subcontracting-Kette von unten gesehen: Wer an Verantwortungsverschleppung nicht interessiert ist, baut Systeme, in denen 150–430 Mio. Data Workers strukturell unsichtbar bleiben. Bria kartiert die Machtarchitektur oben; diese Note zeigt, wen sie unten trifft.

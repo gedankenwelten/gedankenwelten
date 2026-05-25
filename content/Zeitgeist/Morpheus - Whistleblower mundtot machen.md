@@ -270,6 +270,12 @@ Gabriel argumentiert, dass KI keine ethischen Entscheidungen treffen kann, weil 
 
 ---
 
+### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+
+Die Massenkündigung von 1.100+ Data Workers nach investigativem Journalismus über Meta ist dieselbe Retaliation-Logik: Wer Einblick gibt oder aufdeckt, wird eliminiert. Meta kündigte alle, die mit schwedischen Journalisten über Ray-Ban-Daten gesprochen hatten — Whistleblower-Mundtotmachen, diesmal gegen Arbeitskräfte statt gegen Journalisten.
+
+---
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
