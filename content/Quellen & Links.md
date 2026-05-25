@@ -6,6 +6,22 @@ tags:
   - links
 ---
 
+## re:publica 26 — Stresstest für die Demokratie (Stein, Günther, Prinz, Arnold, Mitschke)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26: Stresstest für die Demokratie](https://www.youtube.com/watch?v=TE-e2JIcie0) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] |
+| **Transkript** | `Gedankenwelten/Transkripte/GuentherPrinzArnoldMitschke_Demokratie_Ostdeutschland_Transkript.txt` |
+
+## Dobusch und Zaboura — Ganz normale Medien (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26: Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus](https://www.youtube.com/watch?v=-dgKKrGmbkM) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]] |
+| **Transkript** | `Gedankenwelten/Transkripte/DobuschZaboura_Medien_Faschismus_Transkript.txt` |
+
 ## IT Mario — 40.000 Bundestagsreden analysiert
 
 | | |

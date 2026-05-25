@@ -195,3 +195,6 @@ Staiys Medienschweigen-Analyse dokumentiert dasselbe Asymmetrie-Muster auf Macro
 
 ### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Direktes Folgevideo zum selben Muster: NiUS erfindet im März 2026 einen "Islam-Skandal" aus einer harmlosen Kantineneröffnung — identisches Playbook wie beim "Shopping-Skandal" mit den Afghanen. Reichelt steigert diesmal auf "Vollendung der deutschen Unterwerfung unter den Islam".
+
+### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
+D/Z liefern den theoretischen Rahmen für das, was Topfvollgold konkret dokumentiert: Sain-Washing und Bewertungsverweigerung als strukturelle Muster. Der Satz „Die Politik handelt aus Angst vor NIUS" ist das Paradebeispiel für D/Zs Teufelskreis — Angst vor dem Aktivismus-Vorwurf treibt Qualitätsmedien in die Unterwerfung unter Propagandastandards. Topfvollgold zeigt NIUS in der Fabrikation, D/Z erklärt, warum sie damit durchkommen.

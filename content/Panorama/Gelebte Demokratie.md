@@ -148,3 +148,4 @@ Die Defensive als Hintergrundfolie: Was in *Gelebte Demokratie* aufgebaut wird, 
 | [[Gedankenwelten/Gedanken/Architekten des Lebendigen — Systeme die dem Leben dienen\|Architekten des Lebendigen]] | Theoretisches Fundament: Systeme, die dem Leben dienen |
 | [[Gedankenwelten/Panorama/Demokratische Wertschoepfung\|Demokratische Wertschöpfung]] | Wirtschaftliche Dimension: Genossenschaften, Bürgerenergie |
 | [[Gedankenwelten/Panorama/NoAfD\|NoAfD]] | Die Defensive: Was gelebte Demokratie verteidigt |
+| [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland\|rp26 — Stresstest Demokratie Ostdeutschland]] | Mangelbedingungen · Demokratie ohne staatliche Förderstruktur im Osten |

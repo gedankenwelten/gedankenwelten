@@ -195,3 +195,7 @@ Heinrich analysiert Medien-Bias auf der Mikroebene (Wortwahl, Konnotation im Spi
 ### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Semsrott benennt die konstruktive Antwort auf die hier dokumentierte Medienkonzentration: neue Räume schaffen — Bibliotheken, Podcasts, gemeinnützige Medien. FragDenStaat als Transparenz-Infrastruktur ist das Gegenstück zu Orbáns 80%-Medienkontrolle und der Bolloré-Strategie.
+
+### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
+
+GCA kartiert die externe Bedrohung (Milliardäre kaufen Redaktionen — Orbán/KESMA, Bolloré/CNews, Ellison/CBS), D/Z kartiert das innere Strukturversagen des Qualitätsjournalismus. Zusammen ergibt sich eine vollständige Mediendiagnose: Demokratische Öffentlichkeit kann durch Übernahme oder durch systemische Logikfehler korrumpiert werden — D/Zs Befund ist der unbequemere, weil er zeigt, dass Qualitätsmedien ohne jeden Besitzerwechsel bereits mitdriften.

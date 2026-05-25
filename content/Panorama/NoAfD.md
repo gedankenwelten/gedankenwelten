@@ -243,3 +243,4 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] | Konsequenzen · Machtbilanz der AfD-Vorbilder |
 | [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] | Instrument · GFF-Gutachten zur Verfassungswidrigkeit — juristische Operationalisierung des Verbotsdiskurses |
 | [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] | Empirie · KI-gestützte Quantifizierung von Populismus und Lügen in 45.000 Bundestags-Reden |
+| [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] | Praxis · Resilienz, MDR-Szenario, Verbotsverfahren, Demokratieprojekte |

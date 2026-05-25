@@ -263,3 +263,6 @@ Fallstudie zum Triggermedium-Mechanismus, den Staiy auf Makroebene beschreibt: N
 
 ### → [[Marcant — Ausstieg aus der rechten Szene]]
 Innenperspektive zur rechten Mediabubble: Marcant beschreibt den Sogmechanismus des TikTok-Algorithmus aus Eigenerfahrung von Felix. Sein Deradikalisierungsansatz *„Die Flut"* ist eine Praxisantwort auf den Parasozialitäts-Mechanismus, den Staiy bei Tucker Carlson & Co. analysiert — Gegencontent der denselben emotionalen Kanal nutzt, aber mit anderen Werten.
+
+### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
+Dobusch/Zaboura formulieren auf der re:publica 26 denselben Teufelskreis, den Staiy an der Leipzig/Aschaffenburg-Medienanalyse aufzeigt: strukturelle Medienlogik ohne böse Absicht erzeugt systematisch Bias. Staiy nennt es Klick-Ökonomie, D/Z nennen es „Performing balance by practicing bias" — beide beschreiben denselben Mechanismus, nur auf verschiedenen Qualitätsstufen. Staiys Boulevard-Befund und D/Zs Qualitätsjournalismus-Befund zusammen: Der Teufelskreis gilt überall.

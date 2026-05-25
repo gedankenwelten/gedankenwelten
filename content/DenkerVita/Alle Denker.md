@@ -41,8 +41,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Clara Mattei|Clara Mattei]]** — Ökonomin; Austerität als Kern des Kapitalismus, Liberalismus-Faschismus-Konvergenz, *The Capital Order*
 
-
 **[[Gedankenwelten/DenkerVita/Constanze Kurz|Constanze Kurz]]** — Informatikerin, CCC-Sprecherin, netzpolitik.org-Redakteurin; Technologiekritik, Datenschutz, Überwachung durch Polizei-Software wie Palantir; Vortragende zu Grundrechten im digitalen Zeitalter, technische Sachverständige vor Bundesverfassungsgericht; Theodor-Heuss-Medaille 2013
+
 ## D
 
 **[[Gedankenwelten/DenkerVita/Der Dara|Der Dara (Marc)]]** — YouTuber, politischer Kommentator; Aufklärung gegen Rechts, Fake-News-Debunking, Reaction-Format als politische Bildung
@@ -134,6 +134,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[Gedankenwelten/DenkerVita/Konstantin Flemig|Konstantin Flemig]]** — Kriegsreporter, Dokumentarfilmer, Buchautor; Faktenjournalismus über Ukraine-Krieg, Zeitenwende-Industrialisierung, vergessene Kriege
 
 ## L
+
+**[[Gedankenwelten/DenkerVita/Leonhard Dobusch|Leonhard Dobusch]]** — Österreichischer Wirtschaftswissenschaftler, Professor für Organisation (Universität Innsbruck); Öffentlich-rechtliche Medien als Demokratie-Infrastruktur, mediale Immunisierung gegen Faschismus, digitale Gemeinschaften und Offenheit als Organisationsprinzip; ZDF-Verwaltungsrat, Co-Founder Momentum Institut; Bert-Donnepp-Preis 2019 für Transparenz im öffentlich-rechtlichen Mediensystem
 
 **[[Gedankenwelten/DenkerVita/Liya Yu|Liya Yu]]** — Politikwissenschaftlerin, neuropolitische Philosophin; Mitbegründerin Neuropolitik; Mentalisierung statt Moralisierung, Dehumanisierung als kognitive Fähigkeit, In-Group-Erweiterung
 
@@ -234,7 +236,6 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]]** — Filmkritiker, YouTuber, Marxist; Die Filmanalyse, Wohlstand für Alle, Die Neuen Zwanziger; Ideologiekritische Filmanalyse, Kulturindustrie 2.0
 
 **[[Gedankenwelten/DenkerVita/Wolfram Schultz|Wolfram Schultz]]** — Neurowissenschaftler, Professor Cambridge; Dopamin-Forschung, Reward Prediction Error als fundamentaler Lernmechanismus, Neuroökonomie; Brain Prize 2017, FRS
-
 
 ## X
 

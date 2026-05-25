@@ -268,3 +268,7 @@ Das BR-Feature "Der Arbeiter und die AfD" über "Peter aus Köln" ist Frickes Ko
 ### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Frickes These — AfD-Wähler präferieren die Irrationalität — erklärt, warum das GFF-Gutachten auf "Ergebnisoffenheit" angewiesen ist: Ein Verbotsverfahren, das auf juristischer Rationalität basiert, muss über jeden Parteilichkeitsverdacht erhaben sein, weil die Kraft der AfD-Bewegung gerade aus der Ablehnung institutioneller Rationalität schöpft.
+
+### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+
+Das rp26-Panel konkretisiert Frickes Kontrollverlust-These ostdeutsch: Die Erbschaftslücke (10.000 € Ost vs. 250.000 € Bayern/BW) ist kein gefühlter, sondern strukturell kumulierter Kontrollverlust — Frickes Makroanalyse bekommt ein präzises empirisches Fundament.

@@ -273,3 +273,7 @@ Das GFF-Gutachten ist selbst ein Akt zivilgesellschaftlicher Demokratieverteidig
 ### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Semsrott entwickelt hier die strategische Antwort auf den in #28 dokumentierten Angriff auf die Zivilgesellschaft: Freiheitsfonds, Gegenrechtsschutz und Transparenz als offensive Instrumente, nicht nur defensive Reaktion. Die 551 Fragen der Union werden zur Vorlage — Semsrott macht daraus die Aufgabenliste der Gegenmacht.
+
+### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+
+Das rp26-Panel zeigt die menschlichen Kosten der hier dokumentierten Demokratie-Leben-Kürzungen: Romy Arnold belegt, wie Thüringen und Sachsen-Anhalt ohne alternative Auffangstrukturen dastehen — was GCA #28 als Berliner Mechanismus beschreibt, wird hier zu konkreter Handlungslosigkeit im Krisengebiet.

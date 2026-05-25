@@ -267,6 +267,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Konstantin Flemig
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Konstantin Flemig]]
 
+## Leonhard Dobusch
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Leonhard Dobusch]]
+
 ## Leonhard Horowski
 **Status:** Stub
 
@@ -344,6 +347,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Niklas Luhmann
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Niklas Luhmann]]
+
+## Nadia Zaboura
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Nadia Zaboura]]
 
 ## Oliver Nachtwey
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Oliver Nachtwey]]
