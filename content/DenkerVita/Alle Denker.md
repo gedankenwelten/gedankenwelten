@@ -115,6 +115,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/John Rawls|John Rawls]]** — Politischer Philosoph; Schleier des Nichtwissens, Urzustand, Gleichheitsprinzip, Differenzprinzip
 
+**[[Gedankenwelten/DenkerVita/Joan Kinyua|Joan Kinyua]]** — Kenianische Datenarbeiter-Aktivistin, Gründungspräsidentin Data Labelers Association Kenya (seit Februar 2024, 1.100+ Mitglieder); 8+ Jahre Erfahrung mit KI-Annotation (autonome Fahrzeuge, medizinische Bilder, extreme Content Moderation, Meta Ray-Ban Footage); Zeugin vor Bundestag April 2026 zu Data Labor Rights; investigative Zusammenarbeit mit schwedischen Medien zu Meta-Privatsphäre; Co-Referentin re:publica 26 mit Julia Kloiber; Kernbotschaft: KI ist keine Magie — es sind Menschen
+
 **[[Gedankenwelten/DenkerVita/Julie Pagis|Julie Pagis]]** — Soziologin CNRS/IRIS-EHESS; Mai 68 und charismatische Herrschaft; Herrschaft vs. Beherrschen, biographische Sackgasse
 
 **[[Gedankenwelten/DenkerVita/Julia Friedrichs|Julia Friedrichs]]** — Preisgekrönte Journalistin und Dokumentarfilmerin (ARD, ZDF, Die Zeit); Gründerin Tell Me Why; Autorin *Crazy Rich*; Kategorienfehler Einkommen vs. Vermögen, Steuervermeidungsindustrie, Parallelgesellschaft der Überreichen
@@ -128,6 +130,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[Gedankenwelten/DenkerVita/Kojin Karatani|Kojin Karatani]]** — Japanischer Philosoph, Literaturtheoretiker; Berggruen Prize 2022; Tauschformen-Theorie statt Produktionsweisen, Capital-Nation-State-Triade, Isonomia vs. Platonismus, Transkritik (Kant + Marx), Associationism
 
 **[[Gedankenwelten/DenkerVita/Kevin Kuehnert|Kevin Kühnert]]** — Ehemaliger SPD-Generalsekretär, Juso-Vorsitzender; Verteilungspolitik und Steuern bei Finanzwende; 6%-Rendite-Besteuerung, Vermögenskonzentration als Demokratiegefahr
+
+**[[Gedankenwelten/DenkerVita/Julia Kloiber|Julia Kloiber]]** — Co-Gründerin SUPERRR Lab; Aktivistin für digitale Gerechtigkeit und feministische Tech-Politiken; Gründerin Prototype Fund und Code for Germany; Expertise: Data Labor Rights, KI-Mythen, unsichtbare Arbeit in KI-Lieferketten, Feminist Digital Futures; Projekt "KI: Macht, Mythen, Missverstände" mit Bibliotheken Berlin; April 2026 Bundestag-Fachgespräch zu Data Labeler Bedingungen mit Joan Kinyua; re:publica 26 "Inside AI's Human Assembly Line"
 
 **[[Gedankenwelten/DenkerVita/Konfuzius|Konfuzius]]** — Philosoph, Ethiker; Achsenzeit-Denker neben Sokrates und Buddha; Ren (仁, Mitmenschlichkeit), Goldene Regel, fünf Kardinaltugenden, Junzi, Widerstandspflicht gegen unmenschliche Herrscher
 

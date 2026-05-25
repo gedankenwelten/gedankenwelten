@@ -240,3 +240,7 @@ Grenzgänger Studios dokumentiert Thiels Gesamtbiografie als konkretes Fallbeisp
 ### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Kurz und Görlitz liefern den deutschen Rechtsfall zu Mühlhoffs Desouveränisierungsthese: Palantir übernimmt staatliche Kernfunktionen (Polizei, Gefahrenabwehr) ohne demokratische Kontrolle — der Vendor Lock-in und das Scheitern der Gesetze an Verfassungsstandards ist die empirische Verifikation seiner strukturellen Kritik.
+
+### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+
+Kloiber und Kinyua liefern das menschliche Fundament von Mühlhoffs Kolonialismus-These: Die 150–430 Mio. Data Workers sind nicht Randnotiz, sondern die Rohstoff-Basis des KI-Regimes — Extraktion ohne Kompensation, Süd-Nord-Wertschöpfung in Reinform.

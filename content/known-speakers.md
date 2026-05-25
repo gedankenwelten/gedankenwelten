@@ -237,6 +237,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## John Rawls
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/John Rawls]]
 
+## Joan Kinyua
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Joan Kinyua]]
+
 ## Jonathan Haidt
 **Status:** Stub
 
@@ -251,6 +254,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Julia Friedrichs
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Julia Friedrichs]]
+
+## Julia Kloiber
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Julia Kloiber]]
 
 ## Julie Pagis
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Julie Pagis]]

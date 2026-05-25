@@ -201,3 +201,7 @@ Die politisch-biografische Ergänzung: Wo die IAI-Note den ökonomischen Mechani
 ### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Marinić zitiert Technofeudalismus explizit als Erklärung für das Ohnmachtsgefühl der Bürger: Superreiche machen feudal, was sie wollen — das demokratische Versprechen verflüchtigt sich, und Meinungsfreiheitsdebatten werden zu Ohnmachtsschreien. Varoufakis' "produzierte Mittel der Verhaltensmodifikation" (Algorithmen) sind Steinkes "Durchlauferhitzer" in ökonomischer Beschreibung: Nicht neutral, sondern absichtlich so designt, dass sie Empörung maximieren statt deliberative Demokratie ermöglichen.
+
+### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+
+Kinyua und Kloiber zeigen Varoufakis' Cloud-Rent-These von unten: 20 $/Woche für 18-20 Stunden tägliche Data-Labor-Arbeit ist der Tribut, den die Cloudbesitzer aus dem Globalen Süden extrahieren — Cloud Capital in seiner archaischsten Form.
