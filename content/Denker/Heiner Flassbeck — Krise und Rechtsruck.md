@@ -322,3 +322,7 @@ Krastev beschreibt den Braindrain aus Osteuropa als Kernwunde der Ost-West-Entt�
 ### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
 
 Varoufakis liefert die Krisendramatik (Bankenbailout, 91% zu deutschen/französischen Banken, OXI-Referendum), Flassbeck die buchhalterische Mechanik (Lohnkosten-Dumping als primärer Regelverstoß). Zusammen ergeben sie die vollständige EU-Krisenerzählung.
+
+### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+
+Daniel Günthers institutionelle Strategie — Bundesrat-Resilienz, Digitalabgabe, Big-Tech-Exit — ist der Gegenentwurf zu Flassbecks makroökonomischer Ohnmachts-Diagnose: Strukturen gegen den Ernstfall härten, bevor er eintritt, statt auf Bewusstseinswandel zu warten.

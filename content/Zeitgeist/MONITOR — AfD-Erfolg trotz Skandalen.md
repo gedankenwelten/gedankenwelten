@@ -214,3 +214,7 @@ Semsrott benennt das in MONITOR diagnostizierte Problem als "Mehrheitslüge": Nu
 ### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
 
 IT Mario quantifiziert empirisch, was MONITOR qualitativ dokumentiert: Komplexitätsreduktion als messbares Populismus-Merkmal. Die 45.000 analysierten Bundestags-Reden geben dem Quent-Argument über „Erlösung von Komplexität" eine datengestützte Grundlage.
+
+### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+
+Wo MONITOR die AfD-Stärke trotz Skandalen diagnostiziert, fragt das rp26-Panel: was tun wenn sie bei 41 % steht? Daniel Günther, Romy Arnold und Lina Mitschke denken die MONITOR-Diagnose als Ernstfall-Szenario mit konkreten Resilienzstrategien weiter.

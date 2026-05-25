@@ -259,3 +259,6 @@ MONITORs Recherche zeigt den ökonomischen Motor der Wahlautokratie, die Kendi a
 ### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
 
 Brockschmidt/Nocun liefern die Codierungsebene zu Kendis ideologischer Analyse: Die 14 Wörter, Fashwave, Remigration und Kreuzzugsrhetorik sind GRT nicht als Theorie, sondern als gelebte Kommunikationspraxis — die Sprache, in der Kendis Weltanschauung tagtäglich zirkuliert.
+
+### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
+Dobusch/Zaboura erklären den journalistischen Transmissionsriemen, durch den GRT Mainstream wurde: Nicht Propaganda, sondern strukturelle Bewertungsverweigerung und falsche Balance. Tucker Carlsons 400 GRT-Sendungen wurden möglich, weil Qualitätsmedien Carlson als legitimen Diskursakteur rahmten, statt die Theorie journalistisch einzuordnen — die Browning/Kühl-Analogie gilt auch für Carlsons Produzenten: ganz normale Medienmacher. Kendis Befund ist die politische Wirkung, D/Zs Analyse der strukturelle Grund.

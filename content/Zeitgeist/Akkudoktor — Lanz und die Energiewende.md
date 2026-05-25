@@ -159,3 +159,6 @@ Die Altmaier-Delle hat den PV-Ausbau politisch verlangsamt — die Kontrovers-No
 
 ### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
 Strukturell parallele Mythen-Dekonstruktion: Fichtner widerlegt Batterie-Mythen im Wissenschafts-Podcast, Akkudoktor widerlegt Energiewende-Mythen im ZDF-Talkshow-Format — beide zeigen denselben Mechanismus (statistische Verzerrung, Cherry-Picking, Interessenlage), nur auf verschiedenen Bühnen.
+
+### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
+D/Z liefern den akademischen Rahmen für das, was Akkudoktor mit seiner Programmbeschwerde konkret belegt: Bewertungsverlagerung im Qualitätsjournalismus. Lanz lässt Altmeiers rassifizierende Energie-Narrative stehen, weil er sich als neutraler Moderator versteht — das ist D/Zs „Performing balance by practicing bias" in Reinform. Aus Sicht von D/Z ist Lanz kein böser Mensch, sondern ein ganz normaler Journalist, der ganz normal falsch liegt.
