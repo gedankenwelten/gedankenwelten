@@ -189,3 +189,7 @@ Die Ernährungskrise, die Benecke global beschreibt, hat eine innergesellschaftl
 ### → [[Gedankenwelten/DenkerVita/Mark Benecke|Mark Benecke — DenkerVita]]
 
 Alle Cortex-Notes zu Mark Benecke im Überblick.
+
+### → [[Gedankenwelten/GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
+
+Produktivste Gegenperspektive: Benecke beschreibt Bodenkollaps, Hunger und Meeresströmungs-Probleme — die Good-News-Note dokumentiert gleichzeitig Mpox-Sieg, Juan-Fernández-Meeresschutzgebiet und 60% weniger Kindertode. Wer beide liest, erhält ein ehrlicheres Bild als jede Note für sich.

@@ -382,6 +382,14 @@ tags:
 | **Notiz** | [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Topfvollgold_NiUS_Islam_Transkript.txt` |
 
+## Good News — Mai 2026 Teil 2
+
+| | |
+|---|---|
+| **Video** | [Your Monthly Dose of Good News \| May (Teil 2)](https://www.youtube.com/watch?v=OZoNgNBmsjs) |
+| **Notiz** | [[Gedankenwelten/GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]] |
+| **Transkript** | `Gedankenwelten/Transkripte/GoodNews_Mai2026_Teil2_Transkript.txt` |
+
 ## Good News — Mai 2026
 
 | | |

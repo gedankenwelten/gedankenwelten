@@ -155,3 +155,7 @@ Zweite April-Episode: Indigene Munduruku stoppen Cargill, Yoon Suk-yeol lebensl�
 ### → [[Good News — Gute Nachrichten Mai 2026]]
 
 Mai-Ausgabe setzt die Serie fort: Ecuador-Korridor, Kākāpō-Rekordsaison, Plastikhandel-Rückgang, CERN-Antimaterie, Chile eliminiert Lepra — erstmals Grundlagenphysik als neue Dimension im Nachrichtenkanon.
+
+### → [[Gedankenwelten/GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
+
+Zweiter Teil der Mai-Ausgabe: Kindersterblichkeit −60% seit 1990 und Mpox-Sieg im DRC als stärkste Gesundheitsnachrichten der Serie bisher — die direkte thematische Fortsetzung der Krebs-Überlebensraten aus dieser März-Note. Beide dokumentieren denselben stillen, jahrzehntelangen Fortschritt der globalen Gesundheit.
