@@ -73,6 +73,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]** — Soziologieprofessor LMU München, Gründungsdirektor ISI; Münzstapel-Visualisierung: reichste Deutsche = 1/3 Weg zum Mond; dynastische Persistenz von Reichtum über 100 Jahre
 
+**[[Gedankenwelten/DenkerVita/Freddy Leppin|Freddy Leppin]]** — Content Creator, Gründer YouTube-Kanäle *Good News* (monatliche positive Nachrichten) und *MegaBuilds* (>1,5 Mio. Abonnenten); Negativitätsbias-Gegenentwurf, Kuratierung verifizierten Fortschritts; Engineering und Innovation als narrative Kraft
+
 **[[Gedankenwelten/DenkerVita/Maximilian Fichtner|Maximilian Fichtner]]** — Festkörperchemiker, Professor Universität Ulm, Direktor Helmholtz-Institut Ulm (HIU); Batterieforscher und Mythen-Aufklärer; E-Autos ökobilanzlich überlegen, Rohstoffverfügbarkeit technisch lösbar, europäische Batterieproduktion strategische Notwendigkeit; Sprecher POLiS (Post Lithium Energy Storage), wissenschaftlicher Direktor CELEST; Podcast *Geladen*
 
 ## G

@@ -184,3 +184,7 @@ Nordsee-Netz als direkte Reaktion auf Russlands Invasion: Fossile Abhängigkeit 
 ### → [[Good News — Gute Nachrichten Mai 2026]]
 
 Mai-Ausgabe: Ecuador-Korridor, Kākāpō-Rekordsaison, Amsterdams Werbeverbot für Fossile, CERN transportiert Antimaterie, Chile eliminiert Lepra — Energie und Artenschutz als rote Fäden der Serie.
+
+### → [[Gedankenwelten/GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
+
+Zweiter Teil der Mai-Ausgabe: Solar-Langzeitstudie (0,5% Degradation statt 1%/Jahr) als direktes Gegenstück zur Nordsee-Wind-Chronik in dieser April-Note — beide revidieren Wirtschaftlichkeitsannahmen für Erneuerbare nach oben und schreiben denselben Faden fort.
