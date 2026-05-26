@@ -168,6 +168,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Frank Sieren
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Frank Sieren]]
 
+## Freddy Leppin
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Freddy Leppin]]
+
 ## Franz Kafka
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Franz Kafka]]
 
