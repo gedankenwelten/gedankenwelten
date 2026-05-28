@@ -267,6 +267,10 @@ GCA #27 erklärt, warum Kühnerts klare Forderungen in Studio Bonn politisch fol
 
 ---
 
+### → [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
+
+Wesche kommt von der Eigentumstheorie zum selben Befund: Eigentumsrecht ist nicht nur Freiheitsrecht, sondern strukturiert Entscheidungsmacht — wer viel besitzt, entscheidet über mehr. Die Naturrechts-These radikalisiert das: Wenn die Natur selbst Eigentümerin ist, monetarisieren Konzerne wie RWE fremdes Eigentum. Das Vermögensungleichheitsproblem (Engelhorn, Studio Bonn) vertieft sich in einen Eigentumskonflikt zwischen Menschen und Natur.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

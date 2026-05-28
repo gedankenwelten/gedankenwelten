@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus (Jung & Naiv 829)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Jung & Naiv Folge 829](https://www.youtube.com/watch?v=JPPvdyFyw4U) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Wesche_Rechte_Natur_Transkript.txt` |
+
 ## Gilda Sahebi & Arne Semsrott — GCA #35 (Selbstzerstörung der Sozialdemokratie)
 
 | | |

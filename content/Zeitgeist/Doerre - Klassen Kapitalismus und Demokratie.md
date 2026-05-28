@@ -224,6 +224,9 @@ Rosa ist Dörres langjähriger Co-Autor (Postwachstumsgesellschaften, Kollegfors
 ### → [[Gedankenwelten/Denker/Heiner Flassbeck — Krise und Rechtsruck]]
 Flassbeck und Dörre diagnostizieren beide die Verbindung von wirtschaftlicher Krise und politischem Rechtsruck — Flassbeck eher aus makroökonomischer Lohn-Exportmodell-Perspektive, Dörre aus Klassen- und Industriesoziologie. Ergänzung: Was Flassbeck auf Exportüberschüsse zurückführt, erklärt Dörre durch den Zerfall der Konfliktpartnerschaft.
 
+### → [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
+Dörres Begriff der „kapitalistischen Landnahme" und Wesches Nachweis, dass Eigentumsrecht historisch als Enteignungsinstrument fungierte, ergänzen sich: Dörre erklärt die systemische Logik, Wesche benennt das juristische Vehikel. Beide lesen Art. 14 Abs. 2 GG als unausgeschöpfte Ressource — Dörre für Wirtschaftsdemokratie, Wesche für Naturrechte.
+
 ### → [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 Butterwegge konzentriert sich auf Armutsforschung und soziale Ungleichheit; Dörre ergänzt die Klassenperspektive mit Betriebsebene und Kapitalismuskritik. Dörres „untere Klasse" und Butterwegges Armutsanalyse beschreiben dasselbe Phänomen aus verschiedenen analytischen Winkeln.
 

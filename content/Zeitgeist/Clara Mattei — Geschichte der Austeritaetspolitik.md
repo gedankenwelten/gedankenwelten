@@ -246,3 +246,7 @@ Matteis Austeritätspolitik als Arbeitsdisziplinierung verbindet sich mit Schaup
 ### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 
 Dörres Begriff des autoritären Liberalismus (Heller 1932) ist das theoretische Pendant zu Matteis empirischer Austeritätsgeschichte: Mattei zeigt, wie liberale Regierungen den Faschismus begrüßten, um die Arbeiterklasse zu disziplinieren — Dörre zeigt, dass diese Konfiguration (Freiheit für Kapital + Repression der Folgen) strukturell wiederkehrt, nicht historische Ausnahme ist.
+
+### → [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
+
+Mattei zeigt, dass Liberalismus und Faschismus historisch die kapitalistische Eigentumsordnung gegen Systemveränderung verteidigten. Wesche liefert den vorgelagerten Schritt: Das Eigentumsrecht war schon bei seiner kolonialen Ausrollung als Machtinstrument konstruiert. Beide beschreiben denselben Mechanismus — Eigentumsordnung als Schutzwall — auf verschiedenen Zeitebenen.

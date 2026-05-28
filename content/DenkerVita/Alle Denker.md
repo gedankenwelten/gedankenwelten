@@ -225,6 +225,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Tilo Jung|Tilo Jung]]** — Politikjournalist, Gründer Jung & Naiv; transparenter Journalismus, Suffizienz statt Wachstum, marxistische Kapitalismuskritik, Grimme Online Award
 
+**[[Gedankenwelten/DenkerVita/Tilo Wesche|Tilo Wesche]]** — Philosoph, Professor Praktische Philosophie Universität Oldenburg; Kritische Theorie (Adorno), Eigentumstheorie, Naturrechte; *Die Rechte der Natur — Vom nachhaltigen Eigentum* (2023); aufgewachsen in Namibia unter Apartheid, daher besonderer Fokus auf Kolonialismus und Enteignungslogiken
+
 **[[Gedankenwelten/DenkerVita/Tim Meyer|Tim Meyer]]** — Unabhängiger Energieexperte, Autor *Strom*; ehem. dena-Geschäftsführer; Chinas Cleantech als industrielogische Transformation, Europa muss aufwachen
 
 **[[Gedankenwelten/DenkerVita/Torsten Heinrich|Torsten Heinrich]]** — Historiker, YouTuber „Militär & Geschichte"; Neutralität vs. Objektivität, Quellenkritik, Jus ad bellum vs. Jus in bello
