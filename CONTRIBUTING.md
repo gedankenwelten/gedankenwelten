@@ -51,6 +51,26 @@ Verbesserungen an Tooling, Scripts, Docker-Setup oder KI-Konfiguration sind will
 
 ---
 
+## 🛡️ Automatische Sicherheitsprüfung
+
+Jeder Pull Request wird automatisch auf **versteckten Text** geprüft (`injection-scan`). Hintergrund: Gedankenwelten-Notes werden auch von KI-Assistenten gelesen und weiterverarbeitet. Versteckter Text könnte versuchen, diese Assistenten zu manipulieren (*Prompt Injection*) — oder auf der veröffentlichten Seite unsichtbar mitlaufen.
+
+Der Check **blockiert** einen PR bei:
+
+- HTML-Kommentaren (verstecktem Text in `<!--`-Markern)
+- unsichtbarem Text (weiße Schrift, Schriftgröße ≤ 1px, `display:none`)
+- unsichtbaren Unicode-Zeichen (Zero-Width, Tag-Characters, Bidi-Override)
+
+Das ist nichts Persönliches — es betrifft nur die Tarnung, nie den Inhalt. Schreib offen, was du denkst; sichtbarer Text wird nie blockiert. Wer über KI-Sicherheit schreibt und dabei Beispiel-Phrasen zitiert, bekommt höchstens einen **Hinweis** (keine Blockade).
+
+Der Scanner liegt offen unter [`scripts/injection_scan.py`](scripts/injection_scan.py) — du kannst ihn vor dem Einreichen lokal laufen lassen:
+
+```bash
+python3 scripts/injection_scan.py content/**/*.md
+```
+
+---
+
 ## 🤝 Umgangsformen
 
 Gedankenwelten hat keinen ausufernden Code of Conduct — nur drei Prinzipien:
