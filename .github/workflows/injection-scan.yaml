@@ -1,0 +1,43 @@
+name: Prompt Injection Scan
+
+# Schützt das Repo vor Prompt-Injection in eingereichten Notes.
+# Läuft auf jeden PR gegen main und scannt nur die im PR geänderten .md-Dateien.
+
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  injection-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (volle History für Diff)
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Geänderte .md-Dateien im PR ermitteln
+        id: changed
+        run: |
+          BASE="${{ github.event.pull_request.base.sha }}"
+          HEAD="${{ github.event.pull_request.head.sha }}"
+          # Nur hinzugefügte/geänderte Markdown-Dateien (keine gelöschten)
+          FILES=$(git diff --name-only --diff-filter=ACM "$BASE" "$HEAD" -- '*.md' | tr '\n' ' ')
+          echo "files=$FILES" >> "$GITHUB_OUTPUT"
+          echo "Geänderte .md-Dateien: $FILES"
+
+      - name: Injection-Scan
+        if: steps.changed.outputs.files != ''
+        run: |
+          python3 scripts/injection_scan.py ${{ steps.changed.outputs.files }}
+
+      - name: Keine .md-Änderungen
+        if: steps.changed.outputs.files == ''
+        run: echo "Keine geänderten Markdown-Dateien — Scan übersprungen."
