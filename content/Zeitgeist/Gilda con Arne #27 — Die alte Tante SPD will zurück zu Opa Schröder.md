@@ -222,3 +222,7 @@ der strukturelle Kontrollverlust (keine Ersparnisse, steigende Mieten, keine The
 ### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 GCA #27 erklärt, warum Kühnerts Forderungen aus Studio Bonn politisch folgenlos bleiben: Die SPD hat seit Schröder systematisch die Interessen der Vermögenden bevorzugt. Kühnert fordert Erbschaftssteuerreform — GCA #27 dokumentiert, warum seine eigene Partei diesen Weg verweigert.
+
+### → [[Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]]
+
+GCA #35 erweitert die GCA #27-Analyse auf die internationale Ebene: Dasselbe Muster (Sozialstaatskürzungen, fehlende Ideologie, Übernahme rechter Erzählungen) zeigt sich bei Labour UK und der dänischen Sozialdemokratie. Oxford-Professor Tarik Abu-Chadi liefert den akademischen Erklärungsrahmen: Valenzpolitik statt Vision seit Blair/Schröder.

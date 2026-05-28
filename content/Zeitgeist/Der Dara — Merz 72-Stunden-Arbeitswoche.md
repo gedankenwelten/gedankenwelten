@@ -163,3 +163,7 @@ Der NANO Talk liefert die theoretische Rahmung zur Merz-Debatte: Nicht zu wenig,
 
 Der 8-Stunden-Tag als Anker: was erkämpft wurde, ist nicht vom Himmel gefallen — und kann wieder abgeschafft werden. Die Demokratie als Gewebe, das man nicht stückweise zerstören kann, ohne das Ganze zu gefährden.
 
+### → [[Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]]
+
+Beide Notes beschreiben denselben Aufgabe-Mechanismus aus verschiedenen Winkeln: GCA #35 zeigt, wie Sozialdemokratien durch Sozialstaatskürzungen ihre eigene Klientel verlieren; Der Dara zeigt, wie konservative Regierungen aktiv Arbeitnehmerrechte demontieren. Zusammen: die politische Mitte gibt die Arbeiterklasse von links und rechts gleichzeitig auf.
+
