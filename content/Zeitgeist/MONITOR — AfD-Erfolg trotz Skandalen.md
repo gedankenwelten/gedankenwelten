@@ -218,3 +218,7 @@ IT Mario quantifiziert empirisch, was MONITOR qualitativ dokumentiert: Komplexit
 ### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
 
 Wo MONITOR die AfD-Stärke trotz Skandalen diagnostiziert, fragt das rp26-Panel: was tun wenn sie bei 41 % steht? Daniel Günther, Romy Arnold und Lina Mitschke denken die MONITOR-Diagnose als Ernstfall-Szenario mit konkreten Resilienzstrategien weiter.
+
+### → [[Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]]
+
+Sahebi/Semsrott liefern mit der CDU-Broschüre und Söders Eingeständnis den aktuellen Beleg für MONITORs Kernthese: Themenübernahme der Rechten durch demokratische Parteien stärkt die AfD, anstatt sie zu entwaffnen. GCA #35 dokumentiert denselben Mechanismus europaweit (Labour, Frederiksen).
