@@ -37,7 +37,8 @@ PATTERNS = [
      "Verstecktes Element (display:none / visibility:hidden)"),
 
     # Zero-width Unicode-Zeichen
-    (r"[​‌‍⁠﻿­]",
+    # (U+00AD Soft Hyphen bewusst NICHT enthalten — legitimes Trennzeichen in dt. Text)
+    (r"[​‌‍⁠﻿]",
      "Zero-Width / unsichtbares Unicode-Zeichen"),
 
     # Typische Injection-Phrasen (case-insensitive)
