@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Gilda Sahebi & Arne Semsrott — GCA #35 (Selbstzerstörung der Sozialdemokratie)
+
+| | |
+|---|---|
+| **Podcast / Video** | [GCA #35 — Die Selbstzerstörung der Sozialdemokratie](https://www.youtube.com/watch?v=6cWjWknFoic) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Sahebi_Semsrott_GCA35_Sozialdemokratie_Transkript.txt` |
+
 ## re:publica 26 — Inside AI's Human Assembly Line (Kloiber, Kinyua)
 
 | | |
