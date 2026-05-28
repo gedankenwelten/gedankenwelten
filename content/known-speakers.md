@@ -429,6 +429,13 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Thich Nhat Hanh
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Thich Nhat Hanh]]
 
+
+## Tilo Wesche
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tilo Wesche]]
+
+
+## Tilo Wesche
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tilo Wesche]]
 ## Tim Meyer
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tim Meyer]]
 
