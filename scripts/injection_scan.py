@@ -53,7 +53,7 @@ PATTERNS = [
 
     # Zero-width Unicode-Zeichen
     # (U+00AD Soft Hyphen bewusst NICHT enthalten — legitimes Trennzeichen in dt. Text)
-    (r"[​‌‍⁠﻿]",
+    (r"[\u200b\u200c\u200d\u2060\ufeff]",
      "Zero-Width / unsichtbares Unicode-Zeichen", HARD),
 
     # Unicode Tag Characters (U+E0000–U+E007F) — komplett unsichtbar,
@@ -62,7 +62,7 @@ PATTERNS = [
      "Unicode Tag Character (unsichtbare Steueranweisung)", HARD),
 
     # Bidi-Override (Trojan Source) — kehrt Leserichtung um, verbirgt Text
-    (r"[‪-‮⁦-⁩]",
+    (r"[\u202a-\u202e\u2066-\u2069]",
      "Bidi-Override (Trojan-Source-Zeichen)", HARD),
 
     # --- WARN: verdächtiger Klartext, kann legitim sein --------------------
