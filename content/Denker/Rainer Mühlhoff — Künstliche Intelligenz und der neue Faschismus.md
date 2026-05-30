@@ -203,6 +203,149 @@ Die eigentliche Frage ist eine andere: Wie viel Staatsmacht hat sich die Industr
 
 ---
 
+### Zuschauerfragen — wo der Chat die Theorie konkretisiert
+
+[▶ ~2:45:00](https://www.youtube.com/watch?v=DY_LgqIh40k&t=9900) — Im zweiten Teil übernimmt Hans Jessen die Fragen aus dem Live-Chat. Bei einer so dichten Theorie wie Mühlhoffs Synergie-These zwischen KI und Neuer Rechten wird besonders sichtbar, wie sie an konkreten Fällen tragen muss — an Schul-KI, an Klickarbeit im globalen Süden, an Palantir, am Zirkelschluss zwischen staatlichem Regulator und staatlicher KI-Anwendung.
+
+#### Sind Trainingsdaten der materielle Urgrund von KI?
+
+Hans Jessens Einstieg: Du sprichst vom „Trainingsdaten-Paradigma" — sind die Trainingsdaten der *materielle Urgrund* dessen, was wir heute als KI erleben?
+
+Mühlhoffs Antwort: Ja, im Groben. Die KI-Technologie, die heute groß und erfolgreich geworden ist, folgt dem Paradigma des *maschinellen Lernens* — und das braucht *gewaltige* Datensätze. Die Idee ist alt (geht auf Turing zurück), aber technisch erst seit ~15 Jahren machbar: Rechenleistung *und* Speicher *und* vor allem die Daten selbst.
+
+> *„Die bessere Frage ist nicht *warum* haben wir die Daten, sondern *wo* haben wir sie. Bei den Unternehmen, die seit den frühen 2000ern die Infrastruktur etabliert haben, über die wir heute alle Daten produzieren — Amazon, Google, Microsoft, Meta, Apple. Deswegen sind das auch die Unternehmen, die jetzt KI machen können."*
+
+Eine strukturelle Pointe: KI-Macht ist eine Folge von *Dateninfrastruktur-Eigentum* — kein Zufall, kein Wettbewerbsergebnis.
+
+#### Warum ist der Unterschied zwischen Wahrheit und Wahrscheinlichkeit so wichtig?
+
+Wenn KI-Outputs sich „schlüssig und plausibel" lesen — warum ist es so entscheidend, dass sie auf *Wahrscheinlichkeit* (nicht Wahrheit) optimiert sind?
+
+Mühlhoffs Antwort ist fundamental: KI-Systeme sind darauf optimiert, *das auszugeben, was am wahrscheinlichsten gut ankommt*. Beispiel Klappentext: Es gibt keine *wahre* Version — es gibt die, die am besten performt. ChatGPT wird über Nutzerfeedback trainiert (Daumen hoch, Nachfrage, Schweigen). Das System lernt, Antworten zu *plappern, die am wahrscheinlichsten Zustimmung bringen*. Wahrheit ist kein Kriterium — und kann es im Trainingsdesign auch gar nicht sein.
+
+#### Was ist mit KI in der Medizin? Wäre das nicht legitim?
+
+Eine Chat-Frage mit positivem Bezug zu KI: In der ärztlichen Diagnostik kann KI doch Risiken erkennen — was wäre schlecht daran?
+
+Mühlhoff differenziert scharf: In der ärztlichen Diagnostik *ja*, dort sicher vielversprechend. Aber dasselbe Modell wandert weiter — *„nicht die behandelnde Ärztin, sondern die Versicherung lässt es laufen, bevor sie den Vertrag abschließt. Oder der Arbeitgeber bei der Bewerbung."* Es gibt KI-Forschung zur Erkennung von Depressionen aus Stimmaufnahmen — anfangs medizinisch, dann in Bewerbungsgesprächen.
+
+Klassisches *Function Creep*: Ein System wird für einen unproblematischen Zweck gebaut und mutiert in problematische Anwendungsfelder, *„die meistens Bevölkerungsgruppen treffen, die groß sind und keine Stimme haben."*
+
+> *„Ethik-Debatten müssen immer Verteilungsfragen stellen. Die Frage ist nicht: Was ist, wenn man einen Piloten mit Depression übersieht? Die größte Frage ist: Auf welche Bevölkerungsgruppen wird so ein System angewendet werden?"*
+
+Der oft bemühte Andreas-Lubitz-Fall (Germanwings 2015) ist die *Rosine*, die als Legitimation für eine viel breitere, schädlichere Anwendung herhält.
+
+#### Wodurch unterscheidet sich KI-„Lernen" von menschlichem Lernen?
+
+Mühlhoffs Antwort kommt über **Timnit Gebrus** Bild des *stochastischen Papageien*: Ein großes Sprachmodell ist ein automatisierter Papagei — er plappert nach, was er hundertmal gehört hat, kann es ein bisschen variieren. *„Das ist nicht Lernen. Das ist wie wenn ich in der Schule den Stoff nicht verstehe, sondern nur performativ reproduziere — ein typischer Quatschkopf, der eigentlich nichts versteht, aber ganz gut quatschen kann."*
+
+Auf Tilos Nachfrage, ob Imitations-Lernen nicht der Anfang *jedes* menschlichen Lernens sei: Mühlhoff weicht der Philosophie-des-Geistes-Debatte aus und antwortet *empirisch* — die Technikgeschichte zeigt, dass Extrapolation von einzelnen Erfolgen auf zukünftige durchgehend gescheitert ist. *„Eine exponentielle Entwicklungskurve sieht an jedem Punkt gleich krass aus."* Sie verführt zur Projektion. Aus Erfolgsschritten in den nächsten zu schließen — falsch.
+
+Wichtig: Auch *politische Gegenentwürfe* erben die Denkstrukturen der Gegenwart — *„die 68er wollten sich gegen Unterdrückung auflehnen, aber..."* Kritik muss Selbstkritik einschließen — Hinterfragen der eigenen *Episteme*.
+
+#### Faschismus = KI + Old Right? Lenin lässt grüßen
+
+Tilo wirft ein, Mühlhoffs Formel klinge wie Lenins berühmtes *„Kommunismus ist die Herrschaft der Räte plus Elektrifizierung des ganzen Landes"* — nur als negative Variante.
+
+Mühlhoff präzisiert: Er rede *nicht* von einem Faschismus, der „da" sei, sondern von Faschismus als *Prozess der Radikalisierung*. Wenn die Synergien zwischen KI-Industrie und ultrarechter Ideologie gemeinsame Sache machen, kann eine gesellschaftliche Radikalisierung in Gang kommen — *„technokratisch mechanisierte Menschen-Selektionsprozesse zum Kern unseres politischen Systems machen"*, ideologisch legitimiert durch das Narrativ der dekadenten Gegenwart, die zur nationalen Überlegenheit hin „repariert" werden soll.
+
+#### Was können künstliche neuronale Netze nicht lernen?
+
+Eine konkrete philosophische Frage. Mühlhoffs Antwort ist überraschend:
+
+> *„Das weiß ich nicht. Es tut mir leid. Es ist mir egal."*
+
+Warum? Weil seine Wissenschaft *nicht* fragt, was KI *wirklich* kann — sondern *was über KI behauptet wird* und welche Macht-Wirkung diese Behauptung in der Gesellschaft entfaltet.
+
+Beispiel: Eines seiner Forschungsprojekte untersucht KI-Tools, die die Hälfte der deutschen Bundesländer für die *automatische Bewertung von Schüler-Aufsätzen* eingekauft hat. Die Unternehmen behaupten, die KI könne das. Ein Hauptbefund: *„Nur Texte, die Schüler:innen mit ChatGPT geschrieben haben, werden von diesen Tools am besten bewertet. Mit einem rein menschlich geschriebenen Text schaffst du keine Bestbewertung."*
+
+> *„Es ist egal, ob die KI wirklich benoten kann. Sie wird damit verkauft. Und dadurch transformiert sich, was *Benoten* überhaupt heißt."*
+
+#### Klickarbeit im globalen Süden — der unsichtbare Unterbau
+
+Tilo erinnert an Mühlhoffs Buch-Kapitel zur *digitalen Neokolonialismus*-Dimension von KI: Hinter den großen Modellen stehen Klickarbeiter:innen, die Daten labeln. Mühlhoff weitet das aus auf *Commercial Content Moderation*: Bei Facebook/Instagram filtert KI ~80 % der harmlosen Inhalte aus — der *Rest* (Grenzfälle: Gewalt, Pornografie, Mord, Krieg) geht an menschliche Moderator:innen, meist im globalen Süden.
+
+> *„Diese Menschen haben nach drei Monaten posttraumatische Belastungsstörung. Aber in den Sozialsystemen der Länder, wo das gemacht wird, kann man das einfach mit den Leuten machen — die kriegen keine Gesundheitsversorgung, die Firmen bezahlen sie auch nicht. Man beutet sie psychologisch und gesundheitlich aus."*
+
+Verweis: *Sarah Roberts* hat das wissenschaftlich aufgearbeitet. Analog zu Kindern auf afrikanischen Müllhalden, die Kupfer aus Kabeln brennen — eine Ausbeutungsform, die in westlichen Industrienationen rechtlich undenkbar wäre.
+
+#### Wo kann man Geisteswissenschaft + KI-Kritik studieren?
+
+Praktische Studienberatung im Chat. Mühlhoffs Tipps: *Kognitionswissenschaft* (sein eigener Standort Osnabrück), allgemein das interdisziplinäre Feld **Science and Technology Studies (STS)** — zwischen Philosophie, Sozialwissenschaften und Informatik — oder **AI Ethics**. Pragmatischer Tipp: *„Lies ein paar Bücher oder Papers, die Ansätze, die dir gefallen — guck, wo die Leute sind, an welcher Uni."*
+
+#### Wie schaffe ich gesellschaftlichen Mehrwert mit KI, solange sie privatisiert ist?
+
+Eine klassisch linke Frage aus dem Chat. Mühlhoff antwortet zweispurig:
+
+1. **Vergesellschaftung** — langfristig, weil KI eigentlich *Infrastruktur* ist.
+2. **Bis dahin: harte Regulierung.** Konkret an der Schwelle, wo KI *staatliche Funktionen* übernimmt (Bürokratieabbau, Polizei, *Palantir*). Predictive Policing ist *„egal, ob europäisch oder amerikanisch, immer menschenverachtend und grundrechtsgefährdend."*
+
+> *„Wir können nicht den Tech Pros überlassen, die eigenen Beschränkungen zu entwerfen. Wir brauchen Geisteswissenschaften, normative Wissenschaften, die diese Beschränkungen in den Diskurs und in die Politik einbringen — und eine Wahlbevölkerung, die das dann auch implementiert."*
+
+#### Vergleich mit China — staatlicher Zugriff als Alternative?
+
+Tilos Nachfrage: China hat doch staatliche Kontrolle. Mühlhoff bremst: *„China hat keine demokratisch-rechtsstaatliche Tradition — das ist ganz schwierig, diese Systeme zu vergleichen."* Wichtiger noch: In China *vertraut* die Gesellschaft dem Staat und *misstraut* der Industrie. In den USA umgekehrt. Bevor man über Social Credit Systems urteilt, muss man diese *Valenz-Differenzen* verstehen. Was nicht heißt, dass China kein totalitärer Staat ist, der politische Opponenten unterdrückt — *„das sollte skandalisiert werden"*. Aber der reflexhafte China-Vergleich verbiegt die eigene Debatte.
+
+#### Gibt es neutrale Datensätze?
+
+Frage nach Open-Source-KI auf „neutralen" Daten. Mühlhoffs Antwort ist eindeutig:
+
+> *„Es gibt keine neutralen Daten. Alle Daten sind ausgewählt, geschöpft, kuratiert aus einer bestimmten Perspektive. Die Idee, Daten seien objektiv, ist eines der zentralen Stücke der gegenwärtigen Technikideologie."*
+
+Stichwort *Automation Bias*: Menschen glauben Computer-Entscheidungen eher als Mensch-Entscheidungen, weil sie *„auf Datengrundlage"* erscheinen. Klassisches Zitat eines Ex-Google-Mitarbeiters: **„All data is credit data."** Alle Daten sind potenziell Credit-Scoring-Daten. Es gibt keine Gott-Perspektive auf Welt — also auch keine Daten, die aus dem Nichts kommen.
+
+#### Brauchen wir KI nicht zur Komplexitätsbewältigung?
+
+Eine in Tech-Debatten häufige Annahme. Mühlhoffs Antwort: *„Nö. Easy-Argument, Shortcut."*
+
+Sein Beispiel: Nach ChatGPT 2023 wurden massiv Software-Entwickler:innen entlassen. *„Jetzt werden die wieder eingestellt — weil die KI so viel AI-Slop produziert hat, dass jetzt erstmal Menschen den Shit aufräumen müssen."* Chaotischer, schlecht dokumentierter Code, Folge-Fehler, die niemand mehr beherrscht — die KI macht Komplexität *nicht* beherrschbar, sondern *vermehrt* sie.
+
+Tilo schließt mit Goethes *Zauberlehrling* (1797): *„Die Geister, die ich rief..."* Mühlhoff präzisiert: Bei Goethe kommt der Meister zurück. *Hier* gibt es keinen Meister.
+
+#### Kann man KI nicht für Demokratie nutzen?
+
+Eine wohlwollende Chat-Frage. Mühlhoff dreht sie um: *„Hätte gerne kurz ein Beispiel."* Tilo improvisiert: Elterninitiativen suchen nach Erfolgsbeispielen gegen verkommende Schulen. Mühlhoffs zwei Antworten:
+
+1. *„Warum googelst du das jetzt nicht? Google ist auch KI, aber wenigstens nicht LLM. Bei ChatGPT ist das Halluzinations-Risiko zu groß, und der Ressourcenverbrauch zu hoch."*
+2. Wenn es *systematisch* wird, *„wollt ihr OpenAI wirklich so viel Macht geben, das Betriebssystem aller Elterninitiativen zu werden?"*
+
+Die zentrale Pointe: *„Man kann diese KI nicht losgelöst vom Unternehmen besprechen, von dem man sie kauft."*
+
+#### Welche KI nutzt du selbst?
+
+Eine sympathische Chat-Frage. Mühlhoffs ehrliche Antwort: **Voice-to-Text** auf dem Smartphone. Er mag Soft-Keyboards nicht, will keinem Sprachnachrichten schicken („verlangt dem Gegenüber zu viel ab"). *„Übrigens kann das Ding nach acht Jahren immer noch nicht die Namen meiner Kinder in der richtigen Rechtschreibung."*
+
+Sein Prinzip: KI als *Werkzeug* benutzen — Zweck klar, Eignung geprüft — ist völlig legitim. Etwas anderes ist es, *als Gesellschaft* in eine schleichende KI-Abhängigkeit zu rutschen, in der immer mehr Zwecke unreflektiert auf KI verlagert werden.
+
+#### Werden Wahlen durch KI manipuliert?
+
+Mühlhoff differenziert: Donald Trump wurde mit *breiter Mehrheit* gewählt — das nicht klein zu reden. *Aber*: In sozialen Medien wird massiv politische Desinformation betrieben, die Wahlen beeinflusst. *„Das darf man nicht unterschätzen — das muss man regulieren, dafür haben wir in der EU eigentlich den Digital Services Act."* Ein *systemisches* Risiko.
+
+#### Hochmut kommt vor dem Fall — können wir uns nicht darauf verlassen?
+
+Mühlhoffs Antwort ist düster:
+
+> *„Ja, der Fall wird kommen. Das Problem ist: Diese Akteure werden sich bis dahin so sehr mit dem Kern unserer demokratischen Rechtsstaaten verbinden, dass sie dieselben mit hineinreißen bei ihrem Fall."*
+
+Sein Begriff dafür: **„AI goes state"** — KI hat aufgehört, eine Ziviltechnologie zu sein. Sie übernimmt Staatsmacht, um sich *unersetzbar* zu machen — *too big to fail, too important to fail*. Wenn sie fällt, fallen die Staaten mit. Eine eigene Dystopie.
+
+#### Der Zirkelschluss: Staat reguliert, was er selber nutzt
+
+Eine pointierte Frage am Ende. Mühlhoff verweist auf die Rechtswissenschaftlerin **Hannah Ruschemeier** (im Buch zitiert): Genau diesen Interessenkonflikt diskutiert er explizit — *„Staaten wollen KI benutzen *und* sind gleichzeitig diejenigen, die KI regulieren und ihre Übermacht einhegen sollten."*
+
+Seine Konsequenz: *„Der Staat muss sich zurückhalten, privatwirtschaftliche KI-Technologie zu benutzen. Die Regulierung muss zuerst erfolgen — die Einhegung der Macht. Erst danach kann man diese Services im Rahmen der Regulierung benutzen. Wenn man zuerst die Services benutzt und dann meint, irgendwann noch regulieren zu können — daran glaube ich nicht."*
+
+#### Macht man im Rechtsstaat Kompromisse?
+
+Hans Jessen widerspricht abschließend einer Mühlhoff-Formulierung aus dem ersten Teil. Mühlhoff korrigiert: Innerhalb des parteipolitischen Spektrums *natürlich* — demokratische Politik *ist* Kompromissbildung. Aber: *„Wenn es um rechtsstaatliche Prinzipien geht, gibt es keine Kompromissbereitschaft. Der demokratische Rechtsstaat ist der Rahmen, innerhalb dessen Politik stattfindet. Den anzuzweifeln, ist verfassungsfeindlich."*
+
+Hans schließt mit dem Verfassungsväter-Satz: **„Keine Freiheit für die Feinde der Freiheit."**
+
+> [!question] Weitergedacht
+> Wenn Mühlhoff sagt *„AI goes state — und wenn sie fällt, fällt der Staat mit"* — *was bedeutet das für die liberale Hoffnung auf Selbstkorrektur der Technologie durch Märkte? Ist die Entkopplung von KI und Staat schon möglich, oder hat sich der Zeitpunkt für sanfte Lösungen bereits geschlossen?*
+
+---
+
 ## Weiterführende Quellen
 
 *Aus dem Gespräch:*

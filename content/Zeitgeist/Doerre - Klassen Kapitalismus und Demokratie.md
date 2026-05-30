@@ -245,6 +245,10 @@ Crouch beschreibt, wie formale demokratische Institutionen bestehen, während Ma
 ### → [[Gedankenwelten/Denker/Erich Fromm — Psychoanalyse des Faschismus]]
 Fromm erklärt Faschismus psychodynamisch als Flucht vor Freiheit in autoritäre Unterwerfung. Dörre ergänzt die sozialstrukturelle Seite: Es ist nicht nur Charakter, es sind auch materielle Verhältnisse — Outlaw-Stolz, Abwertungsempfinden, Heimatverlust.
 
+### → [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
+
+Hartmanns Elitenbegriff (Macht als einziges Kriterium) und Dörres Kapitalismuskritik beschreiben denselben Widerspruch aus verschiedenen Winkeln: Formale Demokratie und faktische Machtkonzentration schließen sich zunehmend aus. Dörres „autoritärer Liberalismus" ist das strukturelle Substrat von Hartmanns Diagnose: Eliten schaffen ihre eigenen Regeln — nicht trotz, sondern wegen der liberalen Ordnung.
+
 ### → [[Gedankenwelten/Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
 Matteis Kernthese: Austerität ist kein Politikfehler, sondern struktureller Mechanismus zur Wiederherstellung der Klassenverhältnisse — und liberale Demokratien haben den Faschismus dafür eingesetzt. Das ist Dörres autoritärer Liberalismus historisch aufgefüllt: Was Heller 1932 beschreibt, war nicht Ausnahme, sondern Muster.
 

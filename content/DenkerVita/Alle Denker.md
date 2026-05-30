@@ -159,25 +159,9 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Mats Schoenauer|Mats Schoenauer]]** — Journalist, YouTuber, Buchautor; Betreiber YouTube-Kanal Topfvollgold; Gründer Topfvollgold (mit Moritz Tschermak, 2013); Medienmanipulation, Desinformation als Geschäftsmodell, Faktencheck-Journalismus
 
-**[[Gedankenwelten/DenkerVita/Mark Benecke|Mark Benecke]]** — Kriminalbiologe, forensischer Entomologe, Wissenschaftskommunikator; „Herr der Maden", Klimadaten mit forensischer Genauigkeit, Twitch/YouTube-Wissenschaftsvermittlung
-
-**[[Gedankenwelten/DenkerVita/Markus Gabriel|Markus Gabriel]]** — Philosoph, Bestsellerautor, Professor NRW; Sinnfeldontologie, Neuer Realismus, moralischer Universalismus, ethischer Kapitalismus
-
-**[[Gedankenwelten/DenkerVita/Markus Reisner|Markus Reisner]]** — Oberst des Generalstabs, Militäranalyst, Österreichisches Bundesheer; Drohne als Paradigmenwechsel, Asymmetrie moderner Kriegsführung, Drohnenabwehr als kritische Lücke
-
-**[[Gedankenwelten/DenkerVita/Martyna Linartas|Martyna Linartas]]** — Ungleichheitsforscherin; Erbengesellschaft, Vermögensungleichheit, Grunderbe als demokratische Antwort
-
-**[[Gedankenwelten/DenkerVita/Martin Heidegger|Martin Heidegger]]** — Philosoph, Begründer Fundamentalontologie; Dasein, In-der-Welt-Sein, Sorge, Das Man, Sein-zum-Tode, Gestell der Technik
-
-**[[Gedankenwelten/DenkerVita/Carolin Amlinger|Carolin Amlinger]]** — Soziologin & Literaturwissenschaftlerin (Uni Basel); libertärer Autoritarismus, demokratischer Faschismus, Zerstörungslust; Geschwister-Scholl-Preis 2025
-
-**[[Gedankenwelten/DenkerVita/Oliver Nachtwey|Oliver Nachtwey]]** — Soziologe, Prof. für Sozialstrukturanalyse (Uni Basel); Abstiegsgesellschaft, demokratischer Faschismus; Geschwister-Scholl-Preis 2025
-
-**[[Gedankenwelten/DenkerVita/Martin Sonneborn|Martin Sonneborn]]** — Satiriker, Ex-Chefredakteur *Titanic*, Die PARTEI, MdEP 2014–2024; Krieg als Geschäftsmodell, Medien erzeugen Zustimmung, Satire als politisches Instrument
-
-**[[Gedankenwelten/DenkerVita/Matthias Quent|Matthias Quent]]** — Soziologe, Rechtsextremismusforscher, Professor HS Magdeburg-Stendal; Verherrlichung der Ohnmacht, NSU als Gesellschaftsdiagnose, Normalisierung als Strategie, wehrhafte Demokratie
-
 **[[Gedankenwelten/DenkerVita/Maurice Hoefgen|Maurice Höfgen]]** — Ökonom, YouTuber ("Geld für die Welt", 251.000+ Abonnenten), Kolumnist Berliner Zeitung; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse
+
+**[[Gedankenwelten/DenkerVita/Michael Hartmann|Michael Hartmann]]** — Soziologe, Elitenforscher, em. Professor TU Darmstadt; Elite = Macht (nicht Netzwerk); soziale Herkunft determiniert Elitenpositionen; neoliberale Elite-Politik erzeugt Rechtspopulismus; Myth of Performance Elites empirisch widerlegt; Habitus, Erbgesellschaft, Studiengebühren als Demokratiegefahr
 
 **[[Gedankenwelten/DenkerVita/Michael Sterner|Michael Sterner]]** — Professor Energiespeicher/Energiesysteme OTH Regensburg, Mitentwickler Power-to-Gas, Bayerischer Energiebeirat; dezentrale Wertschöpfung, Technologieoffenheit, wissenschaftliche Freiheit
 
