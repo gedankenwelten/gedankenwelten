@@ -336,6 +336,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Maurice Höfgen
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Maurice Hoefgen]]
 
+## Michael Hartmann
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Michael Hartmann]]
+
 ## Michael Sterner
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Michael Sterner]]
 

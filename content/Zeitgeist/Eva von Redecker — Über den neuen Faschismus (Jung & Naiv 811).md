@@ -200,19 +200,98 @@ Die Massen werden auf die Straße gehen — weil Trump sie auf den Sack geht, we
 
 ---
 
-## Zur Entstehung des Begriffs
+## Zuschauerfragen — wo Begriffsarbeit auf den Lackmustest trifft
 
-Auf Tilos Frage, wann der Begriff *Phantombesitz* entstand:
+Im zweiten Teil übernimmt Hans Jessen die Fragen aus dem Chat. Bei einer dichten Theorie wie Redeckers Phantombesitz-These wird besonders sichtbar, ob die Begriffe tragen — die Fragen testen sie an Adorno, Arendt, am Taliban-Modell, an der Otto-Normalbürger-Frage und am eigenen Hoffnungsbegriff.
 
-2017, bei einer Konferenz in Brighton — Redecker hält erstmals öffentlich einen Vortrag über Phantombesitz. Aus dem Publikum meldet sich **Judith Butler**:
+### Der Drang nach Härte — eine Sehnsucht nach Weichheit?
+
+[▶ 136:30](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8190) — Die erste Chat-Frage zielt direkt auf den Titel: Ist die faschistische Sehnsucht nach Härte umgekehrt eine *Sehnsucht nach den eigenen weichen Anteilen*, die man sich nicht zugestehen darf?
+
+Redeckers Antwort: *„Du hast Adorno gelesen."* Genau diese psychoanalytische Sicht trägt die frühe Faschismustheorie — bei Adorno die *Ich-Schwäche*: innen ist gewissermaßen nur Brei, deshalb braucht es *„ganz viel Stützen von außen"*. Wichtig ist nicht Härte an sich, sondern der *Drang nach immer größerer Härte* — und ihre Zuspitzung in *„der ultimativen Härte des gekränkten Eigentümers, der sich rechen darf und die Feinde massakrieren"*.
+
+### War die Neuzeit eigentlich schon immer protofaschistisch?
+
+[▶ 138:05](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8285) — Die These im Chat: In der unausgesprochenen Annahme, es gäbe *bessere Menschen als andere*, sei die Neuzeit von Anfang an protofaschistisch.
+
+Redecker präzisiert: Die Idee an sich ist viel älter (jedes Feudalsystem). Das *Verrückte* an der Neuzeit sei: Sie behauptet Gleichheit *und* zieht trotzdem ständig neue Hierarchien ein — vor allem über die *Eigentumsform*. *„Manchen Leuten gehört ihr Land gar nicht, manche Leute gehören sich nicht mal selber — die darf man versklaven. Manche Menschen sind zumindest zur Hälfte aneigenbar — Frauen."*
+
+Ja, in diesem Sinn protofaschistisch — *„ein Potenzial, das sich dann entfesseln lässt"*. Aber: *„Es wurde eine Tür gebaut und geöffnet, durch die man nicht zwangsläufig durchgehen muss."* Tendenz, kein Automatismus.
+
+### Befinden wir uns in zivilisatorisch regressiven Zeiten?
+
+[▶ 140:22](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8422) — Redecker ist skeptisch gegenüber zivilisatorischen Fortschrittsnarrativen. Sie zieht aber den Regressionsbegriff von **Rahel Jaeggi** heran — wichtig: nicht als „Zurückgehen", sondern als *„Sich-Rauskatapultieren aus einer Geschichte des Lernens"*. Eine Bastion-Bildung, eine Schrumpfform von Gesellschaft als *entfesselte Eigentumslogik*. Auf Tilos Nachfrage, ob Regress nicht selbst eine Reaktion auf *enttäuschte Hoffnung* sei, ergänzt sie:
+
+> *„Ja, aber eine, die sich als solche nicht erkennt. Die glaubt, das wird sowieso nie was — und dann hasse ich die Leute, die ihre kleine separate Befreiung als was auch immer Queers oder Ökos feiern, weil es wird sowieso nie so gut, dass es auch für mich gut wird. Und deswegen darf diese Hoffnung gar nicht im Raum stehen."*
+
+Regress als Rückzug aufs *Recht des Stärkeren* — weil die Hoffnung auf gemeinsame Befreiung enttäuscht wurde.
+
+### „Hoffnung ist ein Fehler"
+
+[▶ 141:54](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8514) — Ein Vier-Wort-Post aus dem Chat. Redeckers Antwort ist überraschend zustimmend:
+
+> *„Ich komme ganz gut aus ohne den Hoffnungsbegriff. Aber das müssen vielleicht manche für sich selber entscheiden. Ich finde Sinn viel wichtiger."*
+
+Eine kleine, aber programmatisch wichtige Differenzierung: Nicht *Hoffnung* trägt die Kritik, sondern *Sinn* — also die Frage, was man tut, weil es sich richtig anfühlt, unabhängig davon, ob es funktioniert.
+
+### Ist der Ruf nach Autoritarismus eine Reaktion auf parlamentarische Handlungsunfähigkeit?
+
+[▶ 142:39](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8559) — Redeckers Antwort hält die Frage offen: Wer die Konstellation *nur* mit „Parlament kommt nicht zur Potte" beschreibt, hat strukturelle Zwänge ausgeblendet. Aber *teilweise* stimmt sie zu: Wenn Politik nicht einmal mehr versucht, der realen Probleme Herr zu werden, befeuert das eine Politik, die *„offensiv die Probleme einfach für inexistent erklärt"* — Trumps *„Green New Scam"*, *„beautiful clean coal"*. Verabschiedung als Entlastung.
+
+Die Antwort liegt für Redecker in *außerparlamentarischer Macht* — Organisierung, Politik haftbar machen.
+
+### Macht — Willen durchsetzen oder geteilte Handlungsfähigkeit?
+
+[▶ 144:12](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8652) — Eine frühe Chat-Kritik, hier nachgereicht: Redeckers Macht-Definition sei falsch — Macht sei doch, *seinen Willen gegen den Wunsch anderer durchsetzen zu können*.
+
+Redecker korrigiert sanft: Das ist die *Weber'sche* Definition (Macht-über), nicht ihre — sie folgt **Hannah Arendt**: *Macht als geteilte Handlungsfähigkeit*. Mit der Weber-Definition allein wäre die Energiewende „völlig machtlos", weil sie niemanden zwingt — sie ist aber kollektive Handlungsmacht. Tilo Jung ergänzt schön: *Ermächtigung*, *Selbstermächtigung* — in beiden Begriffen steckt diese andere Macht-Idee.
+
+### Kann ein Otto Normalbürger ohne Faschisierung leben?
+
+[▶ 145:42](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8742) — Die Chat-Frage ist konkret: ETFs, Vermieten, Verbrenner fahren, CDU wählen, fliegen — gibt es eine Möglichkeit, *nicht* zur Faschisierung beizutragen?
+
+Redeckers Differenzierung ist wichtig: Es gibt keine Möglichkeit zu leben *ohne irgendeinen Schaden* — *aber*: Es gibt einen großen Unterschied zwischen *passiv etwas mittragen* (schlimm genug, dagegen muss man agitieren) und *offen und affirmativ bejahen*. **Nur das Zweite würde Redecker „Faschismus" nennen.** „Diesel jetzt erst recht" — das ist was anderes als auf dem Land mangels Nahverkehr Auto fahren zu müssen.
+
+Sie zitiert Adornos berühmten Satz *„Es gibt kein richtiges Leben im falschen"* — und korrigiert die Rezeption: Bezogen war er *nicht* auf Politik, sondern auf bürgerliche Wohnungseinrichtung. Eine kleine philologische Pointe.
+
+### Entwickelt sich Faschismus zwangsläufig zum Totalitarismus?
+
+[▶ 147:14](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8834) — Redecker antwortet mit historischem Beispiel: Der italienische Faschismus war ein anderer als der deutsche — *u.a. weil es Reste organisierter Arbeiterschaft und Linkskatholizismus gab*. Sie nennt das ein *äußeres* Begrenzungspotenzial. Ihr aktuelles Szenario ist nicht Nordkorea, sondern Lateinamerika — *„wo sich linkspopulistische mit faschistisch-autoritären Regimen ziemlich schnell abwechseln, mal durch Wahl, mal durch Putsch"*. Schlimm genug — aber nicht zwangsläufig totalitärer Kipppunkt.
+
+### Ist der Islamismus / sind die Taliban Klerikalfaschismus?
+
+[▶ 149:33](https://www.youtube.com/watch?v=5J13r4WxCDw&t=8973) — Redecker bestätigt zögernd: *„Kann man gut so bezeichnen."* Aber sie verteidigt die Begriffsschärfe: *Faschismus ist nicht das einzige Wort, um etwas furchtbar zu finden.*
+
+Das Taliban-Modell sei *nicht so sehr* eines der Phantombesitz-Verteidigung, sondern *brachialer Sachherrschaft* — *„wo wirklich quasi Versklavung von Frauen gefordert wird."* Eine andere Abstraktionsstufe von Gewalt als die *ambivalente* westliche Logik („Frauen haben Rechte — aber wenn sie nicht kuschen, darf ich auch zuschlagen"). Querverbindungen gibt es — aber die Begriffe sollten unterscheidbar bleiben.
+
+### „Frage an die Feministin": Kapitalismus ohne Patriarchat? Matriarchat besser?
+
+[▶ 150:18](https://www.youtube.com/watch?v=5J13r4WxCDw&t=9018) — Redecker antwortet differenziert: Realistisch hält sie ein patriarchatsfreien Kapitalismus *nicht* — aber *möglich*. Der Kapitalismus brauche *„irgendwelche Formen von Differenzausbeutung"*, aber nicht zwangsläufig die *vergeschlechtete*.
+
+Zum Matriarchat eine schöne anthropologische Pointe: Es wäre *nicht*, weil Frauen besser sind, sondern weil *patrilineare* Erbfolge historisch *Gewalt* braucht (die Frau muss eingehegt werden, damit die Vaterschaft sicher ist). In einer matrilinearen Ordnung *„kannst du viel mehr Freiheit und Promiskuität walten lassen"*. Im Zeitalter des DNA-Tests obsolet — aber strukturell aufschlussreich.
+
+### Wann fiel Phantombesitz dir eigentlich ein?
+
+[▶ 151:48](https://www.youtube.com/watch?v=5J13r4WxCDw&t=9108) — Hans Jessens eigene Frage zur Begriffsgenese. 2017, bei einer Konferenz in Brighton — Redecker hält erstmals öffentlich einen Vortrag über Phantombesitz. Aus dem Publikum meldet sich **Judith Butler**:
 
 > *„Alright, so that's your thing with Phantom Possession, but Eva — what do you do about the fantasm?"*
 
-Das war der Impuls: Butler hat selbst später ein Buch zum Antigenderismus geschrieben, in dem es nur das Fantasma gibt, keinen Phantombesitz. Redeckers Ergänzung: Mit beiden zusammen — Phantombesitz *und* Fantasma — erhält man ein kompletteres Bild.
+Das war der Impuls. Butler veröffentlichte später selbst ein Buch zum Antigenderismus, in dem nur das *Fantasma* vorkommt, kein Phantombesitz. Redeckers Ergänzung: Mit beiden zusammen erhält man ein kompletteres Bild des Patriarchats.
 
-Die letzte Frage des Interviews: Marx' 11. Feuerbach-These — *die Philosophen haben die Welt nur interpretiert; es kommt aber darauf an, sie zu verändern*. Redecker antwortet:
+Weiterer Einfluss: **Elisabeth Young-Bruehl**, Psychoanalytikerin, deren Analyse Redecker sehr schätzt — *„dass unterschiedliche Charaktertypen unterschiedliche Gewaltmuster pflegen und dass diese auslöschende Gewalt, was ich Liquidierung oder Fantasma nenne, eine bestimmte obsessive Form ist."*
 
-> *„Marx hat nicht gesagt, es kommt darauf an zu... sondern es kommt darauf an, sie zu verändern. Eine andere Beschreibung ist schon ein Teil der Veränderung. Ich versuche zu sehen, wie Veränderung schon durchzubrechen versucht — und biete Beschreibungen an, die das artikulieren helfen."*
+### Die 11. Feuerbach-These — und nun?
+
+[▶ 154:07](https://www.youtube.com/watch?v=5J13r4WxCDw&t=9247) — Hans' allerletzte Frage: Marx' These — *die Philosophen haben die Welt nur interpretiert; es kommt darauf an, sie zu verändern.* Redecker schreibt, für sie sei *Begriffsfindung* das Entscheidende. Was folgt daraus für Leser, die sagen: Schön, und jetzt?
+
+Redecker antwortet:
+
+> *„Marx hat nicht gesagt, es kommt darauf an zu... sondern es kommt darauf an, sie zu verändern. Eine andere Beschreibung ist schon ein Teil der Veränderung. Oft würde ich meine Arbeit sogar so verstehen, dass ich gucke, wie Veränderung schon durchzubrechen versucht — und dann Beschreibungen anbiete, die das in noch verständlicher artikulieren oder zeigen, was da passiert."*
+
+Sie versteht sich nicht als Vorgabe-Geberin, sondern als *Diagnostikerin von Bewegung* — Erkennen von dem, was man schon selber macht.
+
+> [!question] Weitergedacht
+> Wenn Redecker sagt *„Sinn ist wichtiger als Hoffnung"* — *trägt das in Zeiten, in denen kollektive Sinngebung selbst erodiert? Oder ist Sinn nur eine privatisierte Variante von Hoffnung, die sich gegen die eigene Ohnmacht abdichtet?*
 
 ---
 

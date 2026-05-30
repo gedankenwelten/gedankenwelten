@@ -133,6 +133,10 @@ Butterwegge ist klar: Steuern und Umsteuern alleine reichen nicht. Es braucht ei
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
+
+Hartmann und Butterwegge beschreiben zwei Seiten derselben Ungleichheit: Hartmann die Oberseite (wer Macht hat und wie sie vererbt wird), Butterwegge die Unterseite (wer ausgeschlossen bleibt). Hartmanns Befund — Studienstiftung erreicht echte Machteliten nicht, Deutschland ist Erbgesellschaft — ist das strukturelle Korrelat zu Butterwegges Armutsanalyse.
+
 ### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
 
 Butterwegge analysiert Armut als Strukturproblem; Steinhaus bringt dasselbe Argument in die phoenix-Runde — die Runde zeigt die politischen Kräfte, die Butterwegges Forderungen blockieren.
