@@ -19,7 +19,7 @@ aliases:
 Quelle: [Nietzsche in 60 Minuten](https://www.youtube.com/watch?v=gDERe48hvgs)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Nietzsche-Vortrag gilt als Einstieg, der zeigt: Nietzsche ist weder Faschist noch Wahnsinniger — sondern der schonungsloseste Diagnostiker der modernen Seele. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Nietzsche-Vortrag gilt als Einstieg, der zeigt: Nietzsche ist weder Faschist noch Wahnsinniger — sondern der schonungsloseste Diagnostiker der modernen Seele. → [[DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > Ziegler zitiert aus der wissenschaftlich renommierten *Kritischen Studienausgabe (KSA) in 15 Bänden*, hrsg. von Giorgio Colli und Mazzino Montinari — alle Zitate sind mehrfach geprüft.
 >

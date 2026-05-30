@@ -17,7 +17,7 @@ Quelle: [Heidegger in 60 Minuten](https://www.youtube.com/watch?v=cG3ol6AYAWI)
 > **Dr. Walther Ziegler** — Promovierter Philosoph, Journalist (ehem. Nachrichtenchef ProSieben) und Hochschuldozent. Autor der Buchreihe *„Große Denker in 60 Minuten"* (in 6 Sprachen übersetzt). Verbindet akademische Philosophie mit journalistischer Vermittlung.
 >
 > **Gegenstand:** Martin Heidegger (1889–1976), einer der einflussreichsten Philosophen des 20. Jahrhunderts. Sein Hauptwerk *Sein und Zeit* (1927) begründete die Fundamentalontologie und beeinflusste Existenzialismus, Hermeneutik und Dekonstruktion.
-> → [[Gedankenwelten/DenkerVita/Martin Heidegger|DenkerVita]]
+> → [[DenkerVita/Martin Heidegger|DenkerVita]]
 
 ---
 

@@ -42,9 +42,30 @@ echo "Syncing Panorama..."
 rsync -av --delete $DRY   --exclude="*.vtt"   --exclude="*.mp3"   --exclude="index.md"   "$CORTEX/Panorama/" "$QUARTZ/Panorama/"
 
 echo ""
+echo "Syncing GoodNews..."
+rsync -av $DRY   --exclude="*.vtt"   --exclude="*.mp3"   --exclude="index.md"   "$CORTEX/GoodNews/" "$QUARTZ/GoodNews/"
+
+echo ""
 echo "Syncing Vipassana..."
 rsync -av --delete $DRY   --exclude="*.vtt"   --exclude="*.mp3"   --exclude="*.mp4"   --exclude="index.md"   "$CORTEX/Vipassana/" "$QUARTZ/Vipassana/"
 
 echo ""
 echo "Sync abgeschlossen."
+
+# Post-Sync: Wikilink-Prefix "Gedankenwelten/" strippen
+# Im Cortex-Vault sind Pfade wie [[Gedankenwelten/DenkerVita/Name]] korrekt,
+# aber im Quartz-Content gibt es kein Gedankenwelten/-Verzeichnis.
+if [[ -z "$DRY" ]]; then
+  echo ""
+  echo "Fixing wikilinks (stripping Gedankenwelten/ prefix)..."
+  find "$QUARTZ" -name "*.md" -exec sed -i '' 's/\[\[Gedankenwelten\//\[\[/g' {} +
+  FIXED=$(grep -rl '\[\[Gedankenwelten/' "$QUARTZ" --include="*.md" 2>/dev/null | wc -l | tr -d ' ')
+  if [[ "$FIXED" -gt 0 ]]; then
+    echo "⚠ Noch $FIXED Dateien mit Gedankenwelten/-Prefix übrig"
+  else
+    echo "✓ Alle Gedankenwelten/-Prefixe entfernt"
+  fi
+fi
+
+echo ""
 echo "Nächste Schritte: git add -A && git commit -m 'sync: Notes aktualisiert' && git push"

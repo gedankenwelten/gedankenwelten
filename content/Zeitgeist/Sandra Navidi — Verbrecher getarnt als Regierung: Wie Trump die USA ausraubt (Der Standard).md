@@ -272,6 +272,6 @@ Sonneborn behauptet abstrakt, was Navidi für den Iran-Krieg konkret belegt: Kri
 
 MONITOR liefert die investigative Detailarbeit zu Navidis Gesamtdiagnose: Wo Navidi das System als Ganzes beschreibt — Trump als kleptokratischer Präsident —, zeichnet MONITOR einzelne Deals nach: Emirate-Chips gegen Krypto-Millionen, Drohnen-Investments 12 Tage vor dem Iran-Krieg, Ölpreis-Wetten am Tag der Eskalation.
 
-### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
+### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Navidi zeigt das US-Extremszenario dessen, was Studio Bonn als Demokratiegefahr erst abstrakt benennt: Wenn Lobbymacht ungehemmt wirkt, entsteht ein System, in dem Korruption legalisierter Mechanismus wird. Studio Bonns legale Steuervermeidungsindustrie ist Navidis USA schon einen Schritt voraus.

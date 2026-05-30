@@ -21,7 +21,7 @@ Quelle: [Historiker Götz Aly über die Nazis & Deutschland 1933 bis 1945 — Ju
 > **Götz Aly** (*1947, Heidelberg*) — Einer der bedeutendsten deutschen Zeithistoriker. Sein Forscherleben galt dem Nationalsozialismus, immer unter neuen Fragestellungen: Rassenhygiene, Holocaust, Wirtschaftspolitik der Diktatur, Antisemitismus des 19. und 20. Jahrhunderts. Das Buch *Wie konnte das geschehen?* (2025) gilt als sein selbsterklärtes Spät- und Endwerk — die Kuppel über 40 Jahren Forschung. Persönlicher Bezug: Sein Vater war als Reserveoffizier 1943 in Warschau schwerverwundet worden — direkt neben dem Ghetto, das gerade liquidiert wurde.
 >
 > Wichtigste Werke: *Hitlers Volksstaat* (2005), *Warum die Deutschen? Warum die Juden?* (2011), *Europa gegen die Juden* (2017), *Wie konnte das geschehen?* (2025)
-> → [[Gedankenwelten/DenkerVita/Götz Aly|DenkerVita]]
+> → [[DenkerVita/Götz Aly|DenkerVita]]
 
 > [!tip] Das komplette Interview ansehen
 > Dieses fast fünfstündige Gespräch mit Tilo Jung ist eines der dichtesten Interviews, die Götz Aly je gegeben hat. Die folgende Analyse destilliert Kernthesen — ersetzt aber nicht das Original. Sehenswert: [Jung & Naiv, Folge 781](https://www.youtube.com/watch?v=86Ljg_-KeIo)

@@ -72,10 +72,10 @@ Descartes selbst war kein politischer Denker — aber sein Werk hat enorme polit
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Walther Ziegler]] — Vermittler: Descartes ist Teil der Reihe „Große Denker in 60 Minuten"
-- [[Gedankenwelten/DenkerVita/Immanuel Kant]] — Kant synthetisiert Descartes' Rationalismus mit dem Empirismus und überwindet den Dualismus von Anschauung und Verstand
-- [[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel]] — Hegel überwindet Descartes' Dualismus dialektisch: Geist und Natur sind Momente desselben Prozesses
-- [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]] — Schopenhauer ersetzt Descartes' Primat des Denkens durch den blinden Willen als Weltprinzip
+- [[DenkerVita/Walther Ziegler]] — Vermittler: Descartes ist Teil der Reihe „Große Denker in 60 Minuten"
+- [[DenkerVita/Immanuel Kant]] — Kant synthetisiert Descartes' Rationalismus mit dem Empirismus und überwindet den Dualismus von Anschauung und Verstand
+- [[DenkerVita/Georg Wilhelm Friedrich Hegel]] — Hegel überwindet Descartes' Dualismus dialektisch: Geist und Natur sind Momente desselben Prozesses
+- [[DenkerVita/Arthur Schopenhauer]] — Schopenhauer ersetzt Descartes' Primat des Denkens durch den blinden Willen als Weltprinzip
 
 ---
 

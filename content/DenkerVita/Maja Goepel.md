@@ -46,13 +46,13 @@ Heute ist sie Professorin, öffentliche Intellektuelle und Gastgeberin von **NEU
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Bernhard Poerksen]] — Gemeinsamer NEU-DENKEN-Podcast; verbindet Konstruktivismus (Pörksen) mit Transformationsforschung (Göpel) — die Frage, wie Kommunikation Wandel ermöglicht oder verhindert
-- [[Gedankenwelten/DenkerVita/Gesine Schwan]] — Göpel ist Schwans Gesprächspartnerin im NEU DENKEN-Podcast. Beide teilen die Überzeugung: Demokratie braucht gelebte Erfahrung, nicht nur Institutionen. Göpel bringt die ökonomische und systemische Dimension, Schwan die politiktheoretische und psychologische.
-- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Göpel und Fromm verbindet die Frage nach dem Verhältnis von Wirtschaftssystem und menschlicher Psychologie. Fromms Haben-Modus ist das psychologische Spiegelbild von Göpels Wachstumssystem.
+- [[DenkerVita/Bernhard Poerksen]] — Gemeinsamer NEU-DENKEN-Podcast; verbindet Konstruktivismus (Pörksen) mit Transformationsforschung (Göpel) — die Frage, wie Kommunikation Wandel ermöglicht oder verhindert
+- [[DenkerVita/Gesine Schwan]] — Göpel ist Schwans Gesprächspartnerin im NEU DENKEN-Podcast. Beide teilen die Überzeugung: Demokratie braucht gelebte Erfahrung, nicht nur Institutionen. Göpel bringt die ökonomische und systemische Dimension, Schwan die politiktheoretische und psychologische.
+- [[DenkerVita/Erich Fromm]] — Göpel und Fromm verbindet die Frage nach dem Verhältnis von Wirtschaftssystem und menschlicher Psychologie. Fromms Haben-Modus ist das psychologische Spiegelbild von Göpels Wachstumssystem.
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]] — Über Debattenkultur, Konstruktivismus und Zuhören
-- [[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN]] — Gespräch über Gestaltungsmacht und demokratische Kultur
-- [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Gespräch über Vermögensungleichheit und strukturelle Machtkonzentration
-- [[Gedankenwelten/Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]] — Keynote über Agency gegen Ohnmacht, BIP-Kritik und die Verteidigung des Green Deal
+- [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]] — Über Debattenkultur, Konstruktivismus und Zuhören
+- [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]] — Gespräch über Gestaltungsmacht und demokratische Kultur
+- [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Gespräch über Vermögensungleichheit und strukturelle Machtkonzentration
+- [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]] — Keynote über Agency gegen Ohnmacht, BIP-Kritik und die Verteidigung des Green Deal

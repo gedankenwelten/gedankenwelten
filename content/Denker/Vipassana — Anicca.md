@@ -118,4 +118,4 @@ Arendts Natalität — dass aus jeder Begegnung etwas Unvorhersehbares entstehen
 
 Anicca ist das Herzstück. Alle anderen Konzepte — [[Vedanā — Körperempfindungen|Vedanā]], [[Sankhāra — Mentale Konditionierungen|Sankhāra]], [[Dukkha — Das Leiden|Dukkha]] — bauen auf der direkten Erfahrung der Vergänglichkeit auf.
 
-- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
