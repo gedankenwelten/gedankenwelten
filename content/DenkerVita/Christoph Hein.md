@@ -56,9 +56,9 @@ Christoph Hein ist als FAZ-Journalist dem **liberal-konservativen Spektrum** zuz
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Maja Goepel]] — Göpel ist Gastgeberin des NEU-DENKEN-Podcasts, in dem Hein zu Gast war. Beide teilen die Diagnose, dass Wirtschaft neu gedacht werden muss — Göpel aus der Transformationsforschung (planetare Grenzen), Hein aus der geopolitischen Praxis (Machtverschiebung). Heins Buchtitel *Unsere Wirtschaft neu denken* spiegelt Göpels *Unsere Welt neu denken*.
-- [[Gedankenwelten/DenkerVita/Tim Meyer]] — Beide analysieren Chinas Rolle in der globalen Wirtschaft. Meyer fokussiert auf Cleantech und Energiepolitik als industrielogische Transformation, Hein auf die geopolitische Instrumentalisierung von Wirtschaftsbeziehungen.
-- [[Gedankenwelten/DenkerVita/Heiner Flassbeck]] — Komplementäre Perspektiven auf die Weltwirtschaft: Flassbeck argumentiert aus keynesianischer Makroökonomie (Lohnstückkosten, Leistungsbilanzen), Hein aus der geostrategischen Beobachtung vor Ort.
+- [[DenkerVita/Maja Goepel]] — Göpel ist Gastgeberin des NEU-DENKEN-Podcasts, in dem Hein zu Gast war. Beide teilen die Diagnose, dass Wirtschaft neu gedacht werden muss — Göpel aus der Transformationsforschung (planetare Grenzen), Hein aus der geopolitischen Praxis (Machtverschiebung). Heins Buchtitel *Unsere Wirtschaft neu denken* spiegelt Göpels *Unsere Welt neu denken*.
+- [[DenkerVita/Tim Meyer]] — Beide analysieren Chinas Rolle in der globalen Wirtschaft. Meyer fokussiert auf Cleantech und Energiepolitik als industrielogische Transformation, Hein auf die geopolitische Instrumentalisierung von Wirtschaftsbeziehungen.
+- [[DenkerVita/Heiner Flassbeck]] — Komplementäre Perspektiven auf die Weltwirtschaft: Flassbeck argumentiert aus keynesianischer Makroökonomie (Lohnstückkosten, Leistungsbilanzen), Hein aus der geostrategischen Beobachtung vor Ort.
 
 ## Cortex-Notes
 

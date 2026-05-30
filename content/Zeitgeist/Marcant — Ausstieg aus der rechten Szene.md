@@ -21,7 +21,7 @@ Quelle: [1 Mio Klicks: Unser Interview ließ ihn aussteigen](https://www.youtube
 >
 > Interviewpartner ist **Felix** (anonymisiert) — ein Jugendlicher, den Marcant 5 Monate zuvor auf seiner ersten Neonazi-Demo am Berliner Ostkreuz getroffen hatte. Felix hatte damals offen antisemitische Positionen vertreten, den Holocaust relativiert und rechtsextreme Gewalt befürwortet. Im Follow-up-Interview berichtet er von seinem vollständigen Ausstieg.
 >
-> → [[Gedankenwelten/DenkerVita/Marcant|DenkerVita]]
+> → [[DenkerVita/Marcant|DenkerVita]]
 
 ---
 
@@ -171,19 +171,19 @@ Das Unkomfortable daran: Marcants Methode funktioniert mit denselben algorithmis
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
+### → [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
 
 Quent analysiert denselben Radikalisierungsmechanismus von der Außenperspektive: Ohnmacht als Einfallstor, Faschismus als Technik der Emotionalisierung. Marcant beschreibt ihn von innen. Und beider Gegenrezept konvergiert: Quents *„Hoffnung kommt vom Machen"* und Marcants Freundschaft als Rettungsanker sind beide Formen wiederhergestellter Selbstwirksamkeit.
 
-### → [[Gedankenwelten/Zeitgeist/Markus Gabriel — Soziale Netzwerke Neue Theorie]]
+### → [[Zeitgeist/Markus Gabriel — Soziale Netzwerke Neue Theorie]]
 
 Gabriel erklärt die Architektur, die Felix am eigenen Leib erfahren hat: Der TikTok-Algorithmus ist das Paradebeispiel von *„Sozialität ohne Triangulation"* — es gibt keinen korrigierenden Gegenstand, nur Bestätigungsfeedback. Marcants Beschreibung der algorithmischen Radikalisierungsspirale ist der Erfahrungsbericht zu Gabriels struktureller Diagnose.
 
-### → [[Gedankenwelten/Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
+### → [[Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 
 Staiy analysiert den Mechanismus, den Marcant von innen kennt: Angst als Klicktreiber, parasoziale Nähe als Vertrauensersatz. Marcants *„Die Flut"* als Gegenstrategie antwortet auf genau den Medienbubble-Mechanismus, den Staiy beschreibt — mit denselben Kanälen, aber anderen Werten.
 
-### → [[Gedankenwelten/Zeitgeist/Hartwin Maas — Bildung NEU DENKEN]]
+### → [[Zeitgeist/Hartwin Maas — Bildung NEU DENKEN]]
 
 Maas beschreibt die Voraussetzungen, unter denen Radikalisierung möglich wird: Jugendliche ohne epistemische Resilienz, mit erlernter Hilflosigkeit und Algorithmus-Exponierung. Marcants Fallstudie illustriert, was fehlt — und wie der Wiedererwerb dieser Reflexionsfähigkeit nicht im Klassenzimmer, sondern durch Beziehung und Scham ausgelöst wird.
 
@@ -198,5 +198,5 @@ Maas beschreibt die Voraussetzungen, unter denen Radikalisierung möglich wird: 
 > - Marcant kämpft mit algorithmischen Mitteln gegen algorithmische Radikalisierung. Verändert er damit das Spiel — oder normalisiert er, dass emotionale Mobilisierung die einzige Form wirksamen Gegendiskurses ist?
 > - Was wäre wenn Felix nicht auf Marcant getroffen wäre? Die Geschichte wird als Erfolg erzählt. Wie viele Felixe gibt es, über die niemand ein Video macht?
 
-### → [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
 Marcant ist das lebendige Beispiel: keine Angriffsfläche, kein Dogma, keine ideologische Flanke. Was auf den ersten Blick wie Schwäche aussieht, ist die Stärke einer elastischen Brandmauer — Informationen werden nach Dogma-Freiheit selektiert, nicht nach politischer Zugehörigkeit.

@@ -90,5 +90,5 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]] — re:publica 26 Vortrag mit Franziska Görlitz (GFF): technisch-juridische Analyse der Palantir-Gesetze in Deutschland
+- [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]] — re:publica 26 Vortrag mit Franziska Görlitz (GFF): technisch-juridische Analyse der Palantir-Gesetze in Deutschland
 

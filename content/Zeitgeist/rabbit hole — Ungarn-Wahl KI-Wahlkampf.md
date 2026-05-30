@@ -137,7 +137,7 @@ Woher das Geld kommt, ist unklar — Presseanfragen blieben unbeantwortet.
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocun zeigt die privatwirtschaftliche Komplementärseite: Während rabbit hole staatlich orchestrierte KI-Propaganda (Orbán/Fidesz) dokumentiert, analysiert Nocun das Ecosystem privater Akteure — Fake-Frauen, Fake-Rabbiner, Verfallporn. Zusammen das vollständige Bild: KI-Propaganda als Zwei-Sektor-Infrastruktur aus Staat und Markt.
 

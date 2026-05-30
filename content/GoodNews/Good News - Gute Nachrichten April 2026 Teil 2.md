@@ -2,7 +2,7 @@
 date: 2026-04-26
 title: "Good News — Gute Nachrichten April 2026 (Teil 2)"
 tags:
-  - zeitgeist
+  - goodnews
   - umwelt
   - gesundheit
   - tiere
@@ -219,6 +219,6 @@ Die Cargill-Brasilien-Story und der Yoon-Prozess sind beide empirische Belege f�
 
 Mai-Ausgabe: Ecuadors Wildtierkorridor und Indonesiens Elefantenreit-Verbot als Artenschutz-Parallelen zu Floreana-Schildkröte und Cargill-Stopp — lokale Naturschutz-Erfolge gegen globale Strukturprobleme.
 
-### → [[Gedankenwelten/GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
+### → [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
 
 Zweiter Teil der Mai-Ausgabe: Juan-Fernández-Seebär (800-faches Wachstum, Meeresschutzgebiet Finnland-Größe) und Vogelkorridore (133 Staaten) als direkte Fortsetzung des Artenschutz-Schwerpunkts aus diesem April-Teil. Rumäniens Urwald-Korruption (Mai) spiegelt die Cargill-Story: Globale Wirtschaftsinteressen gegen lokale Schutzgemeinschaften.

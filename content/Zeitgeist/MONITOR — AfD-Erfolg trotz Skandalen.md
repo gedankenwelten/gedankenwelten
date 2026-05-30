@@ -180,7 +180,7 @@ Insider-Perspektive: Heinrich war Gründungsvorsitzender der JA (2013), trat 201
 
 Göpels Agency-Agenda als Heilmittel gegen die „Verherrlichung der Ohnmacht". Der Backlash auf der S-Kurve hat ein Gesicht.
 
-### → [[Gedankenwelten/Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]]
+### → [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]]
 
 Henze liefert den erinnerungspolitischen Unterbau für MONITORs Normalisierungsbefund: Die AfD-Resistenz speist sich auch aus der Doppelkontinuitäts-Strategie — wer sich als legitimer Erbe des Widerstands gegen Diktatur inszeniert (Bekennende Kirche → DDR-Dissidenten → AfD), bleibt trotz Skandalen wählbar.
 
@@ -192,30 +192,30 @@ MONITORs empirischer Befund (AfD-Wähler suchen den Bruch, nicht kompetente Regi
 
 Quent ist in der MONITOR-Reportage als Experte vertreten — im NEU DENKEN Gespräch entfaltet er die dort angerissene These der „Verherrlichung der Ohnmacht" systematisch: vier Reaktionsmuster, empirische Clusteranalyse (30% ohnmächtig, 16% kämpfend), Faschismus als Technik der Emotionalisierung
 
-### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Reichelts "Zu 100 Prozent stimmt alles" nach dem Gerichtsurteil illustriert die Normalisierungs-These: Rechte Medienarbeit braucht keine Faktentreue, nur Dauerbeschallung. Die Korrekturen — Faktencheck, Klarstellung, Gerichtsbeschluss — ändern das NiUS-Narrativ in seiner Zielgruppe nicht.
 
-### → [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|SPIEGEL TV — Spahns Maskendeal]]
+### → [[Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|SPIEGEL TV — Spahns Maskendeal]]
 
 Der Maskendeal ist ein Paradebeispiel für das in dieser MONITOR-Note analysierte Muster: Vetternwirtschaft ohne Konsequenzen nährt das Gefühl „die sind alle gleich" — und genau dieses Äquivalenzgefühl treibt AfD-Wähler an. Die Spahn-Note ist damit nicht nur Korruptionsdokumentation, sondern auch Demokratie-Erosions-Dokument.
 
-### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Marinić erklärt, warum AfD-Skandale keine Wähler kosten: Die algorithmische Amplitude hat keine Beziehung mehr zur inhaltlichen Relevanz. Jede Empörungsreaktion — ob pro oder contra — verstärkt die Normalisierung, die MONITOR dokumentiert. Steinkes Befund über die aktivistische Justiz ergänzt MONITORs Aktivisten-unter-Druck-Abschnitt: Wenn Bürger kriminalisiert werden, die Politiker beleidigen, zieht sich der Graubereich weiter zurück.
 
-### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
+### → [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Während MONITOR die Skandal-Immunität der AfD empirisch dokumentiert, liefert das GFF-Gutachten den juristischen Gegenansatz: nicht Empörung, sondern Beweisdichte. Beide Perspektiven zeigen die Spannung zwischen politischer Wirklichkeit und rechtsstaatlicher Reaktionsfähigkeit.
 
-### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
+### → [[Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Semsrott benennt das in MONITOR diagnostizierte Problem als "Mehrheitslüge": Nur 27% stehen hinter der Regierungskoalition — und trotzdem setzt CDU/SPD AfD-Inhalte um. Wo MONITOR die Diagnose liefert (Skandale ohne Wählerkonsequenzen), gibt Semsrott die strategische Antwort: versteckte progressive Mehrheiten sichtbar machen und Gegenmacht aufbauen.
 
-### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+### → [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
 
 IT Mario quantifiziert empirisch, was MONITOR qualitativ dokumentiert: Komplexitätsreduktion als messbares Populismus-Merkmal. Die 45.000 analysierten Bundestags-Reden geben dem Quent-Argument über „Erlösung von Komplexität" eine datengestützte Grundlage.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+### → [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
 
 Wo MONITOR die AfD-Stärke trotz Skandalen diagnostiziert, fragt das rp26-Panel: was tun wenn sie bei 41 % steht? Daniel Günther, Romy Arnold und Lina Mitschke denken die MONITOR-Diagnose als Ernstfall-Szenario mit konkreten Resilienzstrategien weiter.
 

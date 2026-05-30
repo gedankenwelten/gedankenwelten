@@ -21,7 +21,7 @@ Quelle: [Prof. Dr. Maja Göpel - Mut zur Zukunft | Sustainable Economy Summit 20
 >
 > Wichtigste Werke: *Unsere Welt neu denken* (2020), *Wir können auch anders* (2022)
 > Kernkonzepte: Wirtschaftstransformation, planetare Grenzen, Narrative des Wandels, Gestaltungsmacht
-> → [[Gedankenwelten/DenkerVita/Maja Goepel|DenkerVita]]
+> → [[DenkerVita/Maja Goepel|DenkerVita]]
 
 ---
 
@@ -188,6 +188,6 @@ Göpel als Gastgeberin und Sparringspartnerin — ihr „Forwardlash"-Begriff ve
 
 Göpel als Gastgeberin im NEU-DENKEN-Podcast. Ihre „hohe Lebensqualität bei geringstem Fußabdruck"-Formel wird hier zur geoökonomischen Befriedungsstrategie: Wer weniger Ressourcen braucht, muss weniger annexieren
 
-### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+### → [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
 Göpels Donut-Ökonomie ist im NANO Talk der explizite Referenzrahmen: Schaupp und Redecker übersetzen Göpels Theorie in politische Forderungen — Arbeitszeitverkürzung als ökologischer Imperativ, nicht nur als Gerechtigkeitsfrage.

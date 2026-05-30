@@ -69,7 +69,7 @@ Buchinger zeigt: Die Kernenergie-Debatte ist ein **Fossil-Lobby-Werkzeug** — s
 
 ### Die zehn Batterie-Mythen — Was Desinformation kostet
 
-[[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]] liefert die wissenschaftliche Grundlage für das, was dieser Panorama-Abschnitt politisch dokumentiert: Die Narrative, die Energiewende und E-Mobilität bremsen, halten einer Faktenkontrolle nicht stand. Prof. Maximilian Fichtner (Helmholtz-Institut Ulm) nimmt im Geladen-Podcast zehn Kommentare auseinander — und zeigt, dass die Mythen nicht aus Unwissenheit stammen, sondern wirtschaftlich nützen.
+[[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]] liefert die wissenschaftliche Grundlage für das, was dieser Panorama-Abschnitt politisch dokumentiert: Die Narrative, die Energiewende und E-Mobilität bremsen, halten einer Faktenkontrolle nicht stand. Prof. Maximilian Fichtner (Helmholtz-Institut Ulm) nimmt im Geladen-Podcast zehn Kommentare auseinander — und zeigt, dass die Mythen nicht aus Unwissenheit stammen, sondern wirtschaftlich nützen.
 
 **Mythos 1 — Zellherstellung in Europa gescheitert, lieber Hybride.**
 Northvolt scheiterte an unrealistischen Zeitplänen und ungeduldigen Investoren, nicht am Markt. LG (Polen), Samsung SDI (Ungarn), CATL (Dresden) laufen weiter. Plugin-Hybride haben einen realen Verbrauch dreimal über dem Herstellerwert — sie sind vor allem ein Steuer-Konstrukt. China: 2 % Zuwachs Hybride, 46 % Vollelectrische (2024).
@@ -312,7 +312,7 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 | [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]] | Problem · Lobbyismus |
 | [[Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]] | Kontext · CDU-Konflikt |
 | [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] | Lösung · Speicher |
-| [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]] | Grundlage · Mythen · Lobbyismus · Batterien |
+| [[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]] | Grundlage · Mythen · Lobbyismus · Batterien |
 | [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] | Ursache · Subventionen |
 | [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] | Problem · Kernenergie |
 | [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] | Problem · Fossile |

@@ -152,7 +152,7 @@ Karatani ist **kein konventioneller Marxist**, obgleich Marx zentral für sein D
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Denker/Kojin Karatani — Tauschformen und die Ueberwindung der Triade]]
+- [[Denker/Kojin Karatani — Tauschformen und die Ueberwindung der Triade]]
 
 ---
 

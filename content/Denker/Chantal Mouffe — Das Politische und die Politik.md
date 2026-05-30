@@ -153,12 +153,12 @@ Das schließt den Kreis zu den Gedankenwelten-Gedanken über Demokratie als Gewe
 
 ## Verbindungen
 
-- [[Gedankenwelten/Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — Mouffes Agonismus-Begriff ist die fehlende Dimension: nicht nur verstehen warum Macht verdrängt, sondern warum die Demokratie den Konflikt braucht
-- [[Gedankenwelten/Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen|Haidt — Moralische Wurzeln]] — Haidt zeigt empirisch, dass politische Zugehörigkeit affektiv ist, nicht rational — genau das, was Mouffe Habermas vorwirft zu übersehen
-- [[Gedankenwelten/Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet|Demirović — Foucaults Gouvernementalität]] — Foucaults Machtanalyse und Mouffes Demokratietheorie ergänzen sich: Foucault zeigt, wie Macht ohne Konflikt operiert; Mouffe warum das demokratisch problematisch ist
-- [[Gedankenwelten/Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Mau — Triggerpunkte]] — Maus Beschreibung der deutschen Konsens-Gesellschaft und ihrer Risse ist die empirische Bestätigung von Mouffes Theorie
-- [[Gedankenwelten/Gedanken/Polarisierung als Ideologisierungsfalle|Polarisierung als Ideologisierungsfalle]] — Mouffe würde sagen: Das Problem ist nicht Polarisierung per se, sondern fehlender agonistischer Raum. Polarisierung ist das Symptom, nicht die Krankheit
-- [[Gedankenwelten/Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]] — Mouffes Radikale Demokratie als theoretisches Fundament: Das Gewebe entsteht durch Kämpfe, nicht durch Konsens
+- [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — Mouffes Agonismus-Begriff ist die fehlende Dimension: nicht nur verstehen warum Macht verdrängt, sondern warum die Demokratie den Konflikt braucht
+- [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen|Haidt — Moralische Wurzeln]] — Haidt zeigt empirisch, dass politische Zugehörigkeit affektiv ist, nicht rational — genau das, was Mouffe Habermas vorwirft zu übersehen
+- [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet|Demirović — Foucaults Gouvernementalität]] — Foucaults Machtanalyse und Mouffes Demokratietheorie ergänzen sich: Foucault zeigt, wie Macht ohne Konflikt operiert; Mouffe warum das demokratisch problematisch ist
+- [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Mau — Triggerpunkte]] — Maus Beschreibung der deutschen Konsens-Gesellschaft und ihrer Risse ist die empirische Bestätigung von Mouffes Theorie
+- [[Gedanken/Polarisierung als Ideologisierungsfalle|Polarisierung als Ideologisierungsfalle]] — Mouffe würde sagen: Das Problem ist nicht Polarisierung per se, sondern fehlender agonistischer Raum. Polarisierung ist das Symptom, nicht die Krankheit
+- [[Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]] — Mouffes Radikale Demokratie als theoretisches Fundament: Das Gewebe entsteht durch Kämpfe, nicht durch Konsens
 
 ---
 

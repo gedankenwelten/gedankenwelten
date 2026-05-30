@@ -19,7 +19,7 @@ Quelle: [Nico Semsrott: Brüssel sehen und sterben - Die Show](https://www.youtu
 
 > [!info] Wer spricht?
 > **Nico Semsrott** (*1986, Hamburg*) — Kabarettist, Satiriker und ehemaliger EU-Abgeordneter. 2017–2019 Ensemble der ZDF *heute-show*. 2019 über Die PARTEI (Listenplatz 2 hinter Martin Sonneborn) ins Europäische Parlament gewählt, dort Mitglied der Grünen/EFA-Fraktion und im Haushaltskontrollausschuss. 2021 Austritt aus Die PARTEI nach Bruch mit Sonneborn über dessen Umgang mit Rassismuskritik. 2024 nicht erneut angetreten. Bruder von Arne Semsrott (FragDenStaat). Seit November 2025 Initiator der PRÜF-Kampagne für ein AfD-Verbotsverfahren. Leidet offen an Depressionen — die depressive Bühnenfigur im schwarzen Kapuzenpulli ist zugleich Kunstfigur und Realität.
-> → [[Gedankenwelten/DenkerVita/Nico Semsrott|DenkerVita]]
+> → [[DenkerVita/Nico Semsrott|DenkerVita]]
 
 ---
 
@@ -176,7 +176,7 @@ Die Beschreibung enthält detaillierte Kapitelmarken, aber keine externen Quelle
 
 Die beiden Seiten derselben EU-Münze. Sonneborn und Semsrott saßen 2019–2021 gemeinsam für Die PARTEI im EU-Parlament — bis der Bruch kam. Sonneborn zelebriert die Absurdität als Performance (abwechselnd Ja und Nein stimmen), Semsrott liefert die systemische Analyse: *warum* es absurd ist, *wer* davon profitiert und *welche Strukturen* den Missbrauch ermöglichen. Semsrotts Stärke ist die Transparenz-Kampagne (alle Budgets veröffentlicht), Sonneborns Stärke die Reichweite (Millionen YouTube-Views). Dass beide am Ende aus dem Parlament ausscheiden — der eine nicht wiedergewählt, der andere freiwillig — zeigt die Grenzen individueller Intervention gegen ein selbstschützendes System.
 
-### → [[Gedankenwelten/DenkerVita/Arne Semsrott]]
+### → [[DenkerVita/Arne Semsrott]]
 
 Die Brüder Semsrott kämpfen auf verschiedenen Ebenen gegen dasselbe Problem: institutionelle Intransparenz. Arne mit FragDenStaat auf nationaler Ebene (IFG-Anfragen, §353d-Verfahren, Ersatzfreiheitsstrafen), Nico auf EU-Ebene (Bürokostenpauschale, Reisekostenerschleichung, Qatargate). Die gemeinsame Prägung ist greifbar — schon als Schüler gründeten sie zusammen die verbotene Schülerzeitung *Sophies Unterwelt*. Arnes Kernthese „Transparenz ist eine Voraussetzung für Demokratie" ist exakt Nicos Bühnenprogramm in einem Satz.
 
@@ -196,10 +196,10 @@ Nicos Bruder Arne analysiert mit Gilda Sahebi den Angriff auf zivilgesellschaftl
 
 Manow analysiert, wie demokratische Institutionen autoritäre Tendenzen entwickeln können — nicht durch Putsch, sondern durch schleichende Erosion der Kontrollmechanismen. Semsrotts EU-Bericht ist ein Fallbeispiel: Die CDU/CSU nutzt ihre Mehrheitsposition nicht, um offen demokratische Regeln abzuschaffen, sondern um sie so zu gestalten, dass sie wirkungslos bleiben. Es ist der „autoritäre Drift" im Gewand parlamentarischer Normalität.
 
-### → [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|SPIEGEL TV — Spahns Maskendeal]]
+### → [[Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|SPIEGEL TV — Spahns Maskendeal]]
 
 Semsrotts „Transparenz-Attrappen" auf EU-Ebene haben ihr nationales Gegenstück: Das 9.999-Euro-Spendenlimit ist kein Zufall, sondern ein bewusst offengelassenes Schlupfloch im deutschen Parteiengesetz — analog zu den Kontrollmechanismen im EU-Parlament, die absichtlich zahnlos konstruiert sind. Beide Notes zeigen: Wer die Regeln schreibt, kontrolliert das Spiel.
 
-### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
+### → [[Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Arnes Gegenmacht-Vortrag ist die Antwort auf Nicos EU-Diagnose von unten: Wo Nico die strukturelle Entleerung der EU-Demokratie dokumentiert, zeigt Arne konkrete Gegenmacht-Strategien auf nationalem Terrain — Freiheitsfonds, Gegenrechtsschutz, Organisierung von unten. Beide Brüder kommen zur selben Schlussfolgerung aus verschiedenen Ebenen: Institutionelle Kontrolle funktioniert nur mit zivilgesellschaftlichem Druck.

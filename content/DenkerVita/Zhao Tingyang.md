@@ -201,7 +201,7 @@ Zhaos Gegenargument: Tianxia ist eine **philosophische Utopie der Koexistenz**, 
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]]
+- [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]]
 
 ---
 

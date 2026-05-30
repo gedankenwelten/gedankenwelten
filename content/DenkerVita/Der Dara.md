@@ -19,7 +19,7 @@ aliases:
 > **Format:** Politische Reactions, Kommentare, Fact-Checking
 > **Selbstbeschreibung:** „Gegen Rechts, Geschwurbel und Fake News"
 >
-> → [[Gedankenwelten/DenkerVita/Der Dara|DenkerVita]]
+> → [[DenkerVita/Der Dara|DenkerVita]]
 
 ---
 

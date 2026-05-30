@@ -189,7 +189,7 @@ Quaschnings Vorschlag: statt Spritsubventionen → Umverteilung. Wer ein Auto f�
 ### → [[Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 Buchinger und Quaschning beschreiben dasselbe Muster aus verschiedenen Winkeln: Die fossile Lobby verzögert die Energiewende — bei Buchinger durch Kernenergie-Propaganda, bei Quaschning durch Verbrenner-Lobby und Tankrabatt-Politik. Beide betonen: Die Technik für die Wende ist da, der politische Wille fehlt.
 
-### → [[Gedankenwelten/Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+### → [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 Quaschnings 2-Billionen-Zahl für fossile Importe seit 1990 ergänzt die Subventionsanalyse: Nicht nur wurden Fossile subventioniert — es floss zusätzlich enormes Geld ins Ausland. Das macht das Subventions-Ungleichgewicht noch krasser.
 
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
@@ -216,7 +216,7 @@ Kehnel zeigt anhand historischer Commons-Modelle, dass Ressourcenteilung und kol
 ### → [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 Heitmeyer analysiert, wie soziale Desintegration und Ungleichheit politische Radikalisierung befeuern. Quaschnings Beobachtung, dass Menschen ohne Auto politisch vergessen werden und die AfD daraus Kapital schlägt, ist ein konkretes Fallbeispiel dieser Dynamik.
 
-### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
+### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 Kemper zeigt, wie populistische Bewegungen gezielt wirtschaftliche Frustration instrumentalisieren. Quaschnings Analyse der AfD-Scheinsolution (60ct-Senkung) ist genau diese Strategie: substanzlose Symbolpolitik als Mobilisierungswerkzeug.
 
 ### → [[Denker/Erich Fromm — Haben oder Sein]]
@@ -231,7 +231,7 @@ Kemfert und Quaschning analysieren dasselbe Problem aus verschiedenen Winkeln: Q
 ### → [[Zeitgeist/Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
 Schwerdtner liefert die politische Handlungsdimension zur selben Krise: Übergewinnsteuer, Energiekrisengeld, Vergesellschaftung — während Quaschning die wissenschaftliche Einordnung liefert. Zusammen: vollständiges Bild von Diagnose und Lösungsansatz.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+### → [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
 Reiches Energiewende-Bremse verlängert die fossile Gasabhängigkeit, die Quaschning als Hauptpreistreiber identifiziert — politische Entscheidung, die Quaschnings Warnung zur Selbsterfüllung macht.
 
 ### → [[Zeitgeist/ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]

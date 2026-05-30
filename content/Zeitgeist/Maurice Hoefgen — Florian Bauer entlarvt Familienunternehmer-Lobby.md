@@ -23,7 +23,7 @@ Originalinterview: [Phoenix — Florian Bauer interviewt Marie-Christine Osterma
 >
 > In diesem Video kommentiert er ein Phoenix-Interview, in dem Moderator **Florian Bauer** die Präsidentin des Lobbyverbandes „Die Familienunternehmer", **Marie-Christine Ostermann** (FDP), zu Haushaltseinsparungen und dem Krisenbonus befragt.
 >
-> → [[Gedankenwelten/DenkerVita/Maurice Hoefgen|DenkerVita]]
+> → [[DenkerVita/Maurice Hoefgen|DenkerVita]]
 
 ---
 

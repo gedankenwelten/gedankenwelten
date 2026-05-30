@@ -25,7 +25,7 @@ Quelle: [Warum plötzlich alle chinesische KI nutzen](https://www.youtube.com/wa
 >
 > Master in Computer Science mit Schwerpunkten Machine Learning und IT-Sicherheit. Betreibt über 2.000 YouTube-Videos zu Informatik, Programmierung und IT-Sicherheit. Bekannt für empirische, datenbetriebene Analysen — er nutzt selbst täglich chinesische KI-Modelle und hat für dieses Video über 6.000 Tests systematisch durchgeführt.
 >
-> → [[Gedankenwelten/DenkerVita/Morpheus|DenkerVita]]
+> → [[DenkerVita/Morpheus|DenkerVita]]
 
 ---
 

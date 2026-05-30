@@ -25,7 +25,7 @@ Quelle: [Immer mehr neue Palantir-Gesetze](https://www.youtube.com/watch?v=wM7_n
 >
 > Gemeinsam bringen sie das, was in der Debatte über Palantir fehlt: technische Durchdringung *und* juristische Schärfe. Kurz liefert die Architektur-Kritik, Görlitz die Grundrechtsdogmatik — und beide Seiten brauchen einander.
 >
-> → [[Gedankenwelten/DenkerVita/Constanze Kurz|DenkerVita]] · → [[Gedankenwelten/DenkerVita/Franziska Goerlitz|DenkerVita]]
+> → [[DenkerVita/Constanze Kurz|DenkerVita]] · → [[DenkerVita/Franziska Goerlitz|DenkerVita]]
 
 ---
 
@@ -183,31 +183,31 @@ Die Eskalationsspirale ist nicht theoretisch — sie läuft gerade.
 
 Direkte thematische Parallele: Während Koshi Politik die ICE-Kooperation und die US-Dimension beleuchtet, zeigen Kurz und Görlitz die deutsche Seite derselben Software-Infrastruktur. Zusammen ergibt sich das vollständige Bild — transnationaler Konzern, nationale Strafverfolgungsbehörden, dieselbe Logik.
 
-### → [[Gedankenwelten/Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
 Mühlhoffs Konzept der "Desouveränisierung des Staates" ist der theoretische Rahmen für das, was Kurz/Görlitz empirisch dokumentieren: Palantir übernimmt staatliche Kernfunktionen (Polizei, Strafverfolgung) ohne demokratische Kontrolle — die Note ist ein Lehrbuchfall seiner These.
 
-### → [[Gedankenwelten/Denker/Francesca Bria — The Authoritarian Stack]]
+### → [[Denker/Francesca Bria — The Authoritarian Stack]]
 
 Bria kartiert Palantir explizit als eine der fünf Domänen privatisierter Souveränität. Der Vendor Lock-in ohne Ausstiegsklausel, den Kurz und Görlitz in Baden-Württemberg nachweisen, ist Brias Begriff "State Capture" als konkreter Vertragstext.
 
-### → [[Gedankenwelten/Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+### → [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
 Grenzgänger Studios rekonstruiert die Unternehmensgenese (CIA-Finanzierung, Kill-Chain-Automatisierung), die erklärt, *warum* Palantir so gebaut ist, wie es gebaut ist — Kurz/Görlitz zeigen, wohin dasselbe Werkzeug in Deutschland zeigt.
 
-### → [[Gedankenwelten/Zeitgeist/Klarsprech — Peter Thiel und ObjectionAI]]
+### → [[Zeitgeist/Klarsprech — Peter Thiel und ObjectionAI]]
 
 Klarsprech analysiert dieselbe Palantir-Infrastruktur aus der Perspektive der Konzernideologie (Karp: "I think in domination"); während Kurz/Görlitz die Rechtslage sezieren, legt Klarsprech die dahinterliegende Absicht frei.
 
-### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 
 Nosthoff zeigt, dass prädiktive Analytik direkt aus Wieners Antiaircraft-Predictor stammt — Palantir Gotham ist die Realisierung derselben kybernetischen Logik, die statt feindlicher Piloten nun Verdächtige "vorausberechnet".
 
-### → [[Gedankenwelten/Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
+### → [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
 
 Steinke analysiert den Chilling-Effekt geheimdienstlicher Beobachtung auf legales politisches Verhalten; Kurz/Görlitz benennen denselben Mechanismus bei Palantir — zwei verschiedene Instrumente, dieselbe verfassungsrechtliche Pathologie: Verhaltensveränderung ohne einen einzigen konkreten Eingriff.
 
-### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
+### → [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Die GFF ist in beiden Notes die handelnde Rechtsschutzorganisation: Görlitz koordiniert die Palantir-Verfassungsbeschwerden, Moini/Chiofalo leiten das AfD-Verbotsgutachten — die GFF bespielt algorithmische Polizeiüberwachung und demokratischen Schutz vor Rechtsextremismus aus derselben Rechtsschutzlogik.
 

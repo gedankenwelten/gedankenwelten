@@ -332,5 +332,5 @@ Haidts Abscheu-vs-Wut-Unterscheidung liefert den psychologischen Mechanismus fü
 - [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Steinke beschreibt die rechtliche Seite der Verrohung: wie eine Paragraphenflut und selektive Strafverfolgung den gesellschaftlichen Diskursraum einschränken — Heitmeyers Empathieverlust als institutionalisierte Praxis
 - [[Markus Gabriel — Soziale Netzwerke Neue Theorie]] — Gabriel zeigt die ontologische Ursache dessen, was Heitmeyer empirisch als digitale Verrohung misst: Sozialen Netzwerken fehlt die Triangulation — der korrigierende Gegenstand. Wo nichts korrigieren kann, erodiert Empathie strukturell.
 
-### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Konkreter Fallbeleg für institutionalisierte Enthemmung: Zwei Tage nach dem NiUS-Artikel erhält Kantinenpächterin Frau A Morddrohungen. Nicht einzelne Schreiber sind das Problem — NiUS ist die Struktur, die Heitmeyers "Durchrohung" betreibt: Gewaltfantasien werden systematisch stimuliert, nicht trotz, sondern durch das Medienformat.

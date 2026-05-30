@@ -59,11 +59,14 @@ function sluggify(s: string): string {
     .split("/")
     .map((segment) =>
       segment
+        .replace(/—/g, "-")    // em-dash → hyphen
         .replace(/\s/g, "-")
         .replace(/&/g, "-and-")
         .replace(/%/g, "-percent")
         .replace(/\?/g, "")
-        .replace(/#/g, ""),
+        .replace(/#/g, "")
+        .replace(/-+/g, "-")        // collapse multiple hyphens
+        .replace(/^-|-$/g, ""),
     )
     .join("/") // always use / as sep
     .replace(/\/$/, "")

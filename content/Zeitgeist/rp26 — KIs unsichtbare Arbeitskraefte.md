@@ -25,8 +25,8 @@ Quelle: [Inside AI's Human Assembly Line – re:publica 26](https://www.youtube.
 >
 > **Ephantus Kanyugi** — Vizepräsident der Data Labelers Association, sollte gemeinsam mit Joan sprechen. Ihm wurde das Visum für Deutschland verweigert. Dieser Umstand eröffnet den Talk — und ist kein Zufall.
 >
-> → [[Gedankenwelten/DenkerVita/Julia Kloiber|DenkerVita Julia Kloiber]]
-> → [[Gedankenwelten/DenkerVita/Joan Kinyua|DenkerVita Joan Kinyua]]
+> → [[DenkerVita/Julia Kloiber|DenkerVita Julia Kloiber]]
+> → [[DenkerVita/Joan Kinyua|DenkerVita Joan Kinyua]]
 
 ---
 
@@ -205,35 +205,35 @@ Julia Kloibers Antwort ist scharf: Die Unternehmen haben Milliarden investiert u
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
 Mühlhoffs Kolonialismus-Analogie — Extraktion ohne Kompensation, Süd-Nord-Wertschöpfung — ist die theoretische Rahmung genau dessen, was Kloiber und Kinyua empirisch zeigen: Data Workers sind kein Randproblem, sondern die Rohstoff-Basis des KI-Regimes. Mühlhoff liefert die Diagnose (strukturelle Kontinuität), diese Note das Gesicht (150–430 Mio. Menschen).
 
-### → [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Technofeudalism]]
+### → [[Zeitgeist/Yanis Varoufakis — Technofeudalism]]
 
 Varoufakis' These, dass Big Tech weniger als 1 % als Löhne zahlt, trifft sich mit 20 $/Woche für Data Workers: Die Cloud-Feudalherren akkumulieren Tribut, die unsichtbare Arbeit darunter ist systemisch. Varoufakis nennt es Cloud Rent — diese Note zeigt, wie die Extraktionskette bis zum Globalen Süden reicht.
 
-### → [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]]
+### → [[Zeitgeist/Mbembe — The Earthly Community]]
 
 Mbembes Kern: Koloniale Logiken überführen sich in neue Technologiestrukturen, das Globale Süd-Nord-Gefälle wird digital fortgeschrieben. Die Visumsverweigering für Ephantus Kanyugi ist bei Mbembe strukturell lesbar: Deine Arbeit gehört uns — deine Stimme nicht.
 
-### → [[Gedankenwelten/Denker/Francesca Bria — The Authoritarian Stack]]
+### → [[Denker/Francesca Bria — The Authoritarian Stack]]
 
 Brias „Personnel Pipeline" und die Unternehmens-Militär-Verflechtung ergänzen, was Kloiber „Invisibility by Design" nennt: Wer an Subcontracting-Ketten nicht interessiert ist, baut Systeme, in denen Verantwortung strukturell verschwindet. Bria kartiert die Machtarchitektur oben — diese Note zeigt, wen sie unten trifft.
 
-### → [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]]
+### → [[Zeitgeist/Morpheus - Whistleblower mundtot machen]]
 
 Die Massenkündigung von 1.100+ Arbeitern nach investigativem Journalismus über Meta ist strukturell dieselbe Logik: Wer Einblick gibt oder aufdeckt, wird eliminiert. Retaliation als systematisches Instrument — dort gegen Journalisten, hier gegen Data Workers.
 
-### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+### → [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
 „So eine KI fällt ja nicht vom Himmel" — dahinter stehen spezifische Produktionsverhältnisse. Diese Note liefert genau das konkrete Hinter-dem-Himmel: 150–430 Mio. Menschen, 18–20 Stunden/Tag, $20/Woche. Beide Notes zusammen: Diagnose (NANO) plus Evidenz (rp26).
 
-### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 
 Nosthoff zeigt, wie die kybernetische Logik Menschen als optimierbare Inputs klassifiziert. Das „Clickwork"-Framing ist genau das: hochqualifizierte Arbeit wird durch Kategorisierung als mechanische Input-Tätigkeit unsichtbar gemacht — das kybernetische Deutungsmuster in seiner reinsten Anwendung.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+### → [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
 
 Beide Notes entstammen der re:publica 26 und kreisen um Machtasymmetrien — dort zwischen ostdeutscher Bevölkerung und westdeutschen Eliten, hier zwischen Global-South-Arbeitskräften und Silicon-Valley-Konzernen. Die strukturelle Frage ist dieselbe: Wessen Erfahrung zählt in demokratischen und wirtschaftlichen Entscheidungen?
 
@@ -246,4 +246,4 @@ Beide Notes entstammen der re:publica 26 und kreisen um Machtasymmetrien — dor
 > - Joan sagt: „Behandle Menschen so, wie du behandelt werden wolltest." — Aber was, wenn die Architektur des Systems sicherstellt, dass man nie in Joans Position kommen kann? *Ist Empathie dann Lösung oder Ablenkung?*
 > - Ephantus durfte nicht kommen, weil er kein Visum bekam. Joans Arbeit durfte nach Europa — ihre Stimme fast nicht. *Wie können wir von „globaler KI-Governance" sprechen, wenn die betroffensten Menschen aus dem Raum ausgesperrt bleiben?*
 > - Die Data Labelers Association kämpft für Anerkennung im bestehenden System. *Ist das der richtige Kampf — oder sollte die Forderung sein, das System grundlegend umzustrukturieren?*
-> - → Vergleich mit [[Gedankenwelten/Denker/Byung-Chul Han|Byung-Chul Hans]] Transparenzgesellschaft: Wenn alles sichtbar werden soll — wessen Unsichtbarkeit wird als normal akzeptiert?
+> - → Vergleich mit [[Denker/Byung-Chul Han|Byung-Chul Hans]] Transparenzgesellschaft: Wenn alles sichtbar werden soll — wessen Unsichtbarkeit wird als normal akzeptiert?

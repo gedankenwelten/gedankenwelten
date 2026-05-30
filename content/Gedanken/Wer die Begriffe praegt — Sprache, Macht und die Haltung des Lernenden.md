@@ -16,8 +16,8 @@ aliases:
 
 # Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden
 
-> Dritter Teil einer Reihe. Fundament: [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] · [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]]
-> Entstanden am 24.05.2026. Aus einem Gespräch über [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — Höckes Selbstbeschreibung als Auslöser, Zhao Tingyangs Sprachphilosophie als Tiefenschicht.
+> Dritter Teil einer Reihe. Fundament: [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] · [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]]
+> Entstanden am 24.05.2026. Aus einem Gespräch über [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — Höckes Selbstbeschreibung als Auslöser, Zhao Tingyangs Sprachphilosophie als Tiefenschicht.
 
 ---
 
@@ -151,17 +151,17 @@ Der Lehrling definiert durch Abgrenzung: noch kein Geselle, noch kein Meister. D
 
 ## Verbindungen
 
-- [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung]] — Nomenbasiertes vs. verbales Denken: das philosophische Fundament dieser Reflexion. Nominalisierung friert ein; Verb-Denken hält in Bewegung.
-- [[Gedankenwelten/Denker/Walther Ziegler — Wittgenstein in 60 Minuten]] — „Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt." Höcke macht Wittgenstein zur Machtformel — das zeigt, wie neutral das Werkzeug ist.
-- [[Gedankenwelten/Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Sprache als Herrschaftsinstrument. Mausfeld beschreibt das System, das von Höckes Prinzip profitiert. Die Weigerung, im Begriffe-Krieg mitzumachen, ist auch politische Intervention.
-- [[Gedankenwelten/Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — „Alternativ" als umgedrehtes Wort. Fancy Kommunikation stärkt Misstrauen. Marcants Ansatz als Gegenmodell.
-- [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — Auslöser: Höckes Zitat über Begriffshoheit. Und IT Marios eigene Weigerung, Neutralität vorzutäuschen.
-- [[Gedankenwelten/Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] — Keine Angriffsfläche als Stärke. Verb statt Nomen in der Praxis.
-- [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]] — Schwestergedanke: die Membran als Selektion zwischen Wahrheit und Erzählung. Die Brandmauer funktioniert nur, wenn sie selbst kein Nomen ist — keine starre Kategorie, sondern ein laufender Prozess.
-- [[Gedankenwelten/Gedanken/Polarisierung als Ideologisierungsfalle]] — Die Falle, in die Nomen-Denken führt: wer einen Begriff verteidigt, extremisiert sich.
-- [[Gedankenwelten/Denker/Walther Ziegler — Habermas in 60 Minuten]] — Die akademische Antwort auf dasselbe Problem: Diskursethik als Versuch, Diskurs ohne Machtasymmetrie zu denken. Verb-Denken ist pragmatischer — es setzt keine ideale Sprechsituation voraus.
-- [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] — Verb-Denken als Praxis hat denselben Charakter wie Gravitation: kein Programm, keine Fahne, aber Wirkung durch konsistentes Sein. Fragend statt behauptend — leise, aber kumulativ.
-- [[Gedankenwelten/Gedanken/Der Leuchtturm — Warum Gedankenwelten existiert]] — Der Leuchtturm ist selbst ein Verb-Projekt: nicht „wir sind Aufklärer", sondern *wir klären auf* — immer noch, nicht fertig.
+- [[Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung]] — Nomenbasiertes vs. verbales Denken: das philosophische Fundament dieser Reflexion. Nominalisierung friert ein; Verb-Denken hält in Bewegung.
+- [[Denker/Walther Ziegler — Wittgenstein in 60 Minuten]] — „Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt." Höcke macht Wittgenstein zur Machtformel — das zeigt, wie neutral das Werkzeug ist.
+- [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Sprache als Herrschaftsinstrument. Mausfeld beschreibt das System, das von Höckes Prinzip profitiert. Die Weigerung, im Begriffe-Krieg mitzumachen, ist auch politische Intervention.
+- [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — „Alternativ" als umgedrehtes Wort. Fancy Kommunikation stärkt Misstrauen. Marcants Ansatz als Gegenmodell.
+- [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — Auslöser: Höckes Zitat über Begriffshoheit. Und IT Marios eigene Weigerung, Neutralität vorzutäuschen.
+- [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] — Keine Angriffsfläche als Stärke. Verb statt Nomen in der Praxis.
+- [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]] — Schwestergedanke: die Membran als Selektion zwischen Wahrheit und Erzählung. Die Brandmauer funktioniert nur, wenn sie selbst kein Nomen ist — keine starre Kategorie, sondern ein laufender Prozess.
+- [[Gedanken/Polarisierung als Ideologisierungsfalle]] — Die Falle, in die Nomen-Denken führt: wer einen Begriff verteidigt, extremisiert sich.
+- [[Denker/Walther Ziegler — Habermas in 60 Minuten]] — Die akademische Antwort auf dasselbe Problem: Diskursethik als Versuch, Diskurs ohne Machtasymmetrie zu denken. Verb-Denken ist pragmatischer — es setzt keine ideale Sprechsituation voraus.
+- [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] — Verb-Denken als Praxis hat denselben Charakter wie Gravitation: kein Programm, keine Fahne, aber Wirkung durch konsistentes Sein. Fragend statt behauptend — leise, aber kumulativ.
+- [[Gedanken/Der Leuchtturm — Warum Gedankenwelten existiert]] — Der Leuchtturm ist selbst ein Verb-Projekt: nicht „wir sind Aufklärer", sondern *wir klären auf* — immer noch, nicht fertig.
 
 ---
 
