@@ -27,7 +27,7 @@ Quelle: [Das Ende der Wahrheit? Lyotards gefährliche Idee – scobel](https://w
 >
 > Gert Scobel, der Moderator und Philosoph des gleichnamigen Kanals, begegnete Lyotard persönlich mehrfach vor dessen Tod 1998. Diese Episode präsentiert Lyotards Denken mit direkter Insider-Perspektive und einer klaren Gegenwartslektüre.
 >
-> → [[Gedankenwelten/DenkerVita/Jean-Francois Lyotard|DenkerVita]]
+> → [[DenkerVita/Jean-Francois Lyotard|DenkerVita]]
 
 ---
 
@@ -209,35 +209,35 @@ Lyotards Vermächtnis ist keine große Lösung. Es ist — wie Scobel es nennt �
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Denker/scobel — Foucault Aufklaerung als Haltung]]
+### → [[Denker/scobel — Foucault Aufklaerung als Haltung]]
 
 Beide Denker fragen nach der Legitimation von Wissen und der Möglichkeit von Aufklärung unter modernen Bedingungen. Während Foucault die *Genealogie* von Wahrheitsregimen analysiert (Macht produziert Wahrheit), radikalisiert Lyotard die Pluralitätsthese: Es gibt keine Instanz mehr, die Diskurse legitimieren könnte — auch die Kritische Theorie nicht. Foucaults Genealogie und Lyotards Sprachspielanalyse sind komplementäre Werkzeuge, aber ihre politischen Schlussfolgerungen divergieren.
 
-### → [[Gedankenwelten/Denker/scobel — Luhmann Abklaerung der Aufklaerung]]
+### → [[Denker/scobel — Luhmann Abklaerung der Aufklaerung]]
 
 Scobel selbst macht die Verbindung explizit: Lyotard und Luhmann teilen eine Diagnose (steigende Komplexität, Zerfall universaler Vernunft), ohne voneinander abzuleiten. Luhmann systemtheoretisch, Lyotard sprachphilosophisch. Lyotards Widerstreit ist das, was in Luhmanns Systemtheorie als strukturelle Inkommensurabilität zwischen Funktionssystemen beschreibbar ist — aber Luhmann würde nie von Opfern sprechen.
 
-### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 
 Nosthoffs Analyse der kybernetischen Steuerungslogik ist die technologiehistorische Konkretisierung von Lyotards Performativitätskriterium: Wissen wird zur Ware, Optimierung zum Maßstab. Was Lyotard 1979 als abstrakte These formulierte, rekonstruiert Nosthoff als konkrete Herrschaftstechnologie der Tech-Eliten.
 
-### → [[Gedankenwelten/Denker/Walther Ziegler — Wittgenstein in 60 Minuten]]
+### → [[Denker/Walther Ziegler — Wittgenstein in 60 Minuten]]
 
 Die konzeptuell dichteste Verbindung: Lyotard übernimmt Wittgensteins Begriff der Sprachspiele direkt und radikalisiert ihn politisch. Wo Wittgenstein noch beschreibt (Philosophie darf Sprachspiele nur beschreiben, nicht bewerten), macht Lyotard daraus eine Gesellschaftstheorie: Es gibt keine Metasprache, die über allen Sprachspielen steht.
 
-### → [[Gedankenwelten/Denker/Dominik Finkelde — Nietzsche Ueber Wahrheit und Luege]]
+### → [[Denker/Dominik Finkelde — Nietzsche Ueber Wahrheit und Luege]]
 
 Finkelde bezeichnet Nietzsche als "Drehscheibe", von der Poststrukturalismus und Postmoderne abfahren — Lyotard ist einer dieser Züge. Das postmoderne Misstrauen gegenüber Metaerzählungen ist die direkte Weiterführung von Nietzsches These: Wahrheit ist ein bewegliches Heer von Metaphern. Beide enden im Konflikt mit Habermas.
 
-### → [[Gedankenwelten/Denker/Walther Ziegler — Popper in 60 Minuten]]
+### → [[Denker/Walther Ziegler — Popper in 60 Minuten]]
 
 Strukturelle Gegenspannung: Popper glaubt an Falsifikation als universelles Wahrheitskriterium — genau das, was Lyotard als illegitime Metaerzählung der Wissenschaft dekonstruiert. Gleichzeitig teilen beide das Ende der Geschichtsteleologie: Poppers Historizismus-Kritik und Lyotards Ende der großen Erzählungen sind strukturell verwandt, kommen aber aus entgegengesetzten Richtungen.
 
-### → [[Gedankenwelten/Zeitgeist/Markus Gabriel — Soziale Netzwerke Neue Theorie]]
+### → [[Zeitgeist/Markus Gabriel — Soziale Netzwerke Neue Theorie]]
 
 Gabriel verwendet Postmoderne als "gegenstandslose Sozialität" und positioniert sich damit gegen Lyotards Auflösung von Triangulation. Wo Lyotard das Ende der legitimierenden Metaerzählungen diagnostiziert, macht Gabriel die Konsequenz zum Problem: Ohne Gegenstand kollabiert der Dissens zur bloßen Sozialität — eine direkte Auseinandersetzung mit Lyotards Erbe, ohne seinen Namen zu nennen.
 
-### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
+### → [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
 
 Zhao Tingyangs «Neue Enzyklopädie» und sein Syntextualisierungsprojekt sind der direkte Gegenentwurf zu Lyotards Inkommensurabilität. Lyotard besteht darauf, dass Wissensformen nicht auf einen Nenner gebracht werden können, ohne dass eine Machtasymmetrie den «focal point» definiert. Zhao glaubt, dass epistemologische Gerechtigkeit durch radikale Öffnung aller Wissensbestände füreinander möglich ist. Die Weiterdenken-Frage der Zhao-Note stellt genau das: Ist Tianxia selbst die letzte Metaerzählung?
 
@@ -254,5 +254,5 @@ Zhao Tingyangs «Neue Enzyklopädie» und sein Syntextualisierungsprojekt sind d
 
 ---
 
-### → [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
+### → [[Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
 Zhaos „Neue Enzyklopädie" und sein Verb-Denken-Programm sind der optimistische Gegenentwurf zu Lyotards Diagnose. Wo Lyotard auf der radikalen Inkommensurabilität der Sprachspiele besteht, sucht Zhao nach „focal points" — epistemologisch robusten Punkten, die alle Wissensbestände überleben. Lyotard würde einwenden: Schon die Infrastruktur dieser Suche ist ungleich verteilt. Die Verb-Logik ist Zhaos Antwort auf die postmoderne Paralyse — aber auch sie ist eine Art Meta-Sprache.

@@ -22,7 +22,7 @@ Quelle: [Jung & Naiv: Folge 823](https://www.youtube.com/watch?v=XXvx3bgszsk)
 > Seit 2011 bei der *Süddeutschen Zeitung* — zunächst Außenpolitik-Redakteur, seit 2017 rechtspolitischer Korrespondent in Berlin. Interviewte Radovan Karadžić, berichtete als erster Journalist aus dem UN-Gefängnis Scheveningen. Seit 2023 Lehrbeauftragter an der Goethe-Universität Frankfurt (Kriminalwissenschaften/Rechtsphilosophie). Mitglied der Jüdischen Gemeinde Berlin.
 >
 > Wichtigste Werke: *Fritz Bauer. Oder: Auschwitz vor Gericht* (2013, Vorlage für den Kinofilm), *Terror gegen Juden* (2020), *Vor dem Gesetz sind nicht alle gleich* (2022), *Meinungsfreiheit* (2026, Piper)
-> → [[Gedankenwelten/DenkerVita/Ronen Steinke|DenkerVita]]
+> → [[DenkerVita/Ronen Steinke|DenkerVita]]
 
 ---
 
@@ -218,7 +218,7 @@ Ebenfalls Jung & Naiv, überschneidende Themen: Freiheitsbegriff, Grundrechte, s
 
 ### → [[Andreas Kemper — Faschismen im 21. Jahrhundert]]
 
-### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
 Möllers fragt philosophisch, was Freiheit in der Demokratie bedeutet; Steinke zeigt empirisch, wie der freiheitliche Staat selbst (Verfassungsschutz, Strafparagraphen) Meinungsfreiheit einschränkt — beide kreisen um dieselbe Paradoxie des liberalen Staates.
 
@@ -232,10 +232,10 @@ AfD-Verfassungsschutzkampf, den Steinke aus juristischer Sicht analysiert
 
 Gesellschaftliche Verrohung als Kontext für die Meinungsfreiheitsdebatte
 
-### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
+### → [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Moini/Chiofalo lösen methodisch das Problem, das Steinke beschreibt: Wie baut man eine gerichtsfeste Beweisbasis für ein Parteiverbot auf, ohne auf V-Mann-Informationen angewiesen zu sein? Das GFF-Gutachten mit 2 Mio. öffentlich zugänglichen Datenpunkten ist die direkte Antwort auf die von Steinke analysierte institutionelle Vorgeschichte.
 
-### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Steinke und Görlitz beschreiben denselben Mechanismus aus verschiedenen Richtungen: Steinke analysiert den Chilling-Effekt geheimdienstlicher Beobachtung auf politisches Verhalten, Görlitz denselben Effekt durch algorithmische Polizeidatenanalyse — zwei verschiedene Instrumente, dieselbe verfassungsrechtliche Pathologie.

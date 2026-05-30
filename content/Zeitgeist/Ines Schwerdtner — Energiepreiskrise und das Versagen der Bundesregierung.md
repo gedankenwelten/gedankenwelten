@@ -177,7 +177,7 @@ TINA als Schließung des politischen Raums → Populismus als Reaktion. Manows �
 ### → [[Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 Katharina Reiche und die Gaslobby als Kontinuität fossiler Blockade: Buchinger zeigt den Subventions- und Desinformationskontext. Reiche ist personeller Ausdruck dieser strukturellen Blockade.
 
-### → [[Gedankenwelten/Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+### → [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
 Zeitlich unmittelbar benachbart: CDU/CSU und SPD als Blockierer progressiver Energiepolitik. Beide Notes dokumentieren denselben politischen Moment aus verschiedenen Blickwinkeln.
 
 ### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
@@ -189,7 +189,7 @@ Heitmeyer analysiert, wie staatliche Untätigkeit und erlebte Ohnmacht zur sozia
 ### → [[Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]]
 STAIYs MwSt-Debatte und Rentenanalyse zeigen dieselbe Logik wie Schwerdtners Energiepolitik-Kritik: Bundesregierung greift zu regressiven Instrumenten (MwSt statt Vermögenssteuer) statt zu strukturellen Eingriffen. Das Muster der Belastungsverschiebung nach unten ist das verbindende Element.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+### → [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
 Reiche nennt Strompreissenkung als Ziel und verfolgt eine Politik, die Experten als preistreibend einordnen — ein konkretes Beispiel des politischen Versagens, das Schwerdtner strukturell analysiert.
 
 ### → [[Zeitgeist/ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]

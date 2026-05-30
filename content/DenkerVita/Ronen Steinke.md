@@ -65,13 +65,13 @@ Steinke verortet sich selbst nicht parteipolitisch, ist aber klar progressiv-lib
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Valentina Chiofalo]] — Beide Juristen, die Verfassungsschutz als demokratische Praxis begreifen; Steinke legt institutionelle Schwachstellen des Verfassungsschutzes journalistisch frei (V-Leute-Problem), Chiofalo ersetzt den staatsinternen Beweis durch zivile Massendatenanalyse — methodisch unterschiedlich, strukturell komplementär.
-- [[Gedankenwelten/DenkerVita/Helen Keller|Helen Keller]] — Beide Völkerrechtler mit Praxiserfahrung an internationalen Gerichten; Keller als EGMR-Richterin, Steinke am Jugoslawien-Tribunal
-- [[Gedankenwelten/DenkerVita/Gesine Schwan|Gesine Schwan]] — Demokratietheorie: Schwans Betonung demokratischer Partizipation ergänzt Steinkes Warnung vor staatlicher Meinungseinschränkung
+- [[DenkerVita/Valentina Chiofalo]] — Beide Juristen, die Verfassungsschutz als demokratische Praxis begreifen; Steinke legt institutionelle Schwachstellen des Verfassungsschutzes journalistisch frei (V-Leute-Problem), Chiofalo ersetzt den staatsinternen Beweis durch zivile Massendatenanalyse — methodisch unterschiedlich, strukturell komplementär.
+- [[DenkerVita/Helen Keller|Helen Keller]] — Beide Völkerrechtler mit Praxiserfahrung an internationalen Gerichten; Keller als EGMR-Richterin, Steinke am Jugoslawien-Tribunal
+- [[DenkerVita/Gesine Schwan|Gesine Schwan]] — Demokratietheorie: Schwans Betonung demokratischer Partizipation ergänzt Steinkes Warnung vor staatlicher Meinungseinschränkung
 
 ---
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] — Jung & Naiv Folge 823 (2026)
-- [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke & Marinić — Quo vadis Meinungsfreiheit?]] — re:publica 26 Gespräch (2026)
+- [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]] — Jung & Naiv Folge 823 (2026)
+- [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke & Marinić — Quo vadis Meinungsfreiheit?]] — re:publica 26 Gespräch (2026)

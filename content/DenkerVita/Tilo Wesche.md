@@ -62,7 +62,7 @@ Wesche arbeitet in der Tradition der Frankfurter Schule (Adorno, Horkheimer, Hab
 
 *(Alle Notes im Vault, die diese Person oder ihre Thesen behandeln)*
 
-- [[Gedankenwelten/Zeitgeist/Jung and Naiv 829 - Tilo Wesche Rechte der Natur]] *(geplant — bei Transkription anlegen)*
+- [[Zeitgeist/Jung and Naiv 829 - Tilo Wesche Rechte der Natur]] *(geplant — bei Transkription anlegen)*
 
 ---
 

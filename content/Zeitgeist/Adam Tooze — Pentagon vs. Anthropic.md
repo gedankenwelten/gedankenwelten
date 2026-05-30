@@ -143,7 +143,7 @@ Das wäre mehr als ein wirtschaftlicher Verlust. Es wäre ein Beweis dafür, das
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 Kemper beschreibt den Technofaschismus als Phänomen, bei dem Tech-Milliardäre (Musk) die staatliche Macht für ihre Zwecke instrumentalisieren. Tooze zeigt die Kehrseite: Der Staat (Hegseth/Pentagon) instrumentalisiert die Tech-Unternehmen für militärische Zwecke — und bestraft diejenigen, die sich weigern. Zwei Seiten derselben Machtkonstellation: der rechte Staat und das Tech-Kapital verschmelzen.
 
-### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
+### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 Kempers Typus des Technofaschismus (KI als Machtinstrument, kein Massenmobilisierungsbedarf) findet im Pentagon-Anthropic-Konflikt eine konkrete Ausprägung: Autonome Kampfroboter und Massenüberwachung sind die technologischen Formen, gegen die Anthropic sich wehrt — und die Kemper als Kern technofaschistischer Herrschaft beschreibt.
 
 ### → [[Zeitgeist/Herfried Münkler — Muss es Kriege geben]]

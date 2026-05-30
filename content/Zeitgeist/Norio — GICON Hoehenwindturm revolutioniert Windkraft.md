@@ -22,7 +22,7 @@ Quelle: [Wahnsinn: Ostdeutscher Ingenieur revolutioniert Windkraft!](https://www
 >
 > Sein zentrales Lebenswerk: der **GICON-Höhenwindturm** — eine 365m hohe Windkraftanlage, die mit einem Teleskop-Gitterturm das jahrzehntelange ingenieurtechnische Hindernis der Krantechnik umgeht und Offshore-Erträge an Land ermöglicht.
 >
-> → [[Gedankenwelten/DenkerVita/Jochen Grossmann|DenkerVita]]
+> → [[DenkerVita/Jochen Grossmann|DenkerVita]]
 
 ---
 
@@ -170,28 +170,28 @@ Ob diese Zahl realistisch ist, hängt davon ab, ob das erste Exemplar hält, was
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Panorama/Demokratische Wertschoepfung]]
+### → [[Panorama/Demokratische Wertschoepfung]]
 Das Klettwitz-Modell — 80 €/Einwohner/Jahr aus Windparkgewinnen, kein Eigenkapital, keine Mitgliedschaft — ist ein neues Muster demokratischer Teilhabe an Infrastruktur. Wer direkt profitiert, kämpft nicht dagegen: Interessengleichrichtung statt Überzeugungsarbeit.
 
-### → [[Gedankenwelten/Panorama/Energie]]
+### → [[Panorama/Energie]]
 Das Energie-Panorama kartiert das Systemfeld, in das Großmanns GICON-Turm eingreift: Redispatch-Kosten durch fehlenden Netzausbau, politische Blockaden der Energiewende. Der GICON-Turm durchbricht den Redispatch-Teufelskreis strukturell: Höhere Vollaststunden bedeuten gleichmäßigere Einspeisung statt Spitzen — weniger Netzengpässe, geringere Systemkosten.
 
-### → [[Gedankenwelten/Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
+### → [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
 Zöckler zeigt, wie Bürgerbeteiligung die Akzeptanz von Windparks fundamental verändert. Großmanns Klettwitz-Modell (80 €/Einwohner/Jahr Direktausschüttung) ist das praktische Pendant: Beide beantworten dieselbe Frage — wer profitiert? — mit derselben Antwort: die Menschen vor Ort. Der Unterschied: Zöckler denkt in Genossenschaften, Großmann in kommunaler Direktbeteiligung.
 
-### → [[Gedankenwelten/Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade]]
+### → [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade]]
 Sterner belegt wissenschaftlich, dass 2/3 der Wertschöpfung in Windparkregionen lokal bleiben können. Großmann setzt diesen Maßstab mit seinen 2/3 regional vergebenen Aufträgen als bewusstes Designprinzip um — nicht als Nebeneffekt. Beide stoßen gegen dieselbe institutionelle Blockade: ein System, das technische Innovation durch Finanzierungslücken und Bürokratie ausbremst.
 
-### → [[Gedankenwelten/Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 Goldbach und Großmann beschreiben strukturell dasselbe Phänomen: Eine technologisch überlegene, wirtschaftlich stichhaltige Lösung scheitert nicht an Physik oder Ökonomie, sondern daran, dass sie etablierte Akteure (Netzbetreiber, Windturm-Hersteller) aus der Komfortzone drängt. Großmanns „Valley of Death" ist Goldbachs Batterie-Blockade in Stahl statt Silizium.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+### → [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
 MONITOR dokumentiert, wie fehlender Netzausbau politisch als Bremse für neue Windanlagen instrumentalisiert wird. Großmanns 365-Meter-Turm entzieht diesem Argument die Grundlage: Weniger Anlagen mit höheren Vollaststunden erzeugen stabilere Einspeisung — der Redispatch-Kostentreiber, den Reiche als Argument nutzt, verliert seinen Hebel.
 
-### → [[Gedankenwelten/Zeitgeist/Norio — Kupferschiefer-Mine in der Lausitz]]
+### → [[Zeitgeist/Norio — Kupferschiefer-Mine in der Lausitz]]
 Beide Notes kreisen um dasselbe ostdeutsche Paradox: Die Lausitz beherbergt ungehobene wirtschaftliche Potenziale — Kupfer unter der Erde, Höhenwind über dem Braunkohle-Abrissgebiet in Klettwitz — während Deutschland Rohstoff- und Energieabhängigkeiten beklagt. In beiden Fällen scheitert die Hebung nicht an der Technologie, sondern an Kapital und Bürokratie.
 
-### → [[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
+### → [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
 Schwan unterscheidet Herrschaftsmacht (Nullsumme) von Gestaltungsmacht (kooperativ). Großmanns SPRIND-Erfahrung — 15 statt 1000 Fragen — ist institutionalisierte Gestaltungsmacht: Der Staat als Ermöglicher statt Verhinderer. Und seine Bürgerbeteiligung in Klettwitz ist Schwans kommunale Partizipationsidee im Energiesektor, direkt angewandt.
 
 ---

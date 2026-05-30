@@ -26,7 +26,7 @@ Quelle: [Ökonomin Clara Mattei über die Geschichte von Austeritätspolitik —
 > Auszeichnungen: Herbert Baxter Adams Prize (2023), FT Best Book Economics 2022
 > Gründerin: FREE — Forum for Real Economic Emancipation ([freefreeforum.org](http://freefreeforum.org))
 > Kernthemen: Politische Ökonomie, Geschichte des Kapitalismus, Austerität als strukturelles Merkmal, Kontinuität zwischen Liberalismus und Faschismus
-> → [[Gedankenwelten/DenkerVita/Clara Mattei|DenkerVita]]
+> → [[DenkerVita/Clara Mattei|DenkerVita]]
 
 ---
 
@@ -152,7 +152,7 @@ Fricke zeigt, wie Austeritätspolitik den Rechtsruck befeuert; Mattei liefert di
 
 Redecker analysiert den „Drang nach Härte" als Phantombesitz; Mattei zeigt den ökonomischen Unterbau: Austerität diszipliniert die Bevölkerung, damit die Kapitalordnung stabil bleibt
 
-### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+### → [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
 
 Varoufakis nennt die Griechenland-Krise einen "Bankenbailout through the back door". Mattei liefert die historische Dimension: Austerität war nie eine Notmaßnahme, sondern das strukturelle Werkzeug zur Wiederherstellung der Klassenverhältnisse — Varoufakis' "crime against Europe" erhält dadurch eine dunklere Dimension: vielleicht kein Irrtum, sondern ein Feature.
 
@@ -228,7 +228,7 @@ Matteis Austeritätslogik in individueller Form: Die 10.000-Euro-Schulden der Fl
 
 Rawls' Differenzprinzip als Gegenmodell zu Matteis Austeritätslogik: Wo Rawls fordert, dass Ungleichheit den Schwächsten nützen muss, zeigt Mattei historisch, dass Austerität die Schwächsten gezielt belastet, um die Kapitalordnung zu stabilisieren — ein systematischer Verstoß gegen beide Grundsätze der Gerechtigkeit.
 
-### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
+### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Mattei liefert die historische Tiefe zur Steuervermeidungsindustrie, die Studio Bonn für die Gegenwart beschreibt. Die $900/h-Berater sind die modernen Erben von Matteis Austeritätsmaschinerie: Beide sichern Kapitalinteressen gegen demokratische Umverteilung — einmal historisch, einmal aktuell.
 
@@ -240,13 +240,13 @@ Matteis These (Austerität als politisches Disziplinierungsinstrument) ergänzt 
 
 Mattei liefert die empirische Anatomie für Karatnais strukturelle These: Kapital, Staat und Nation kooperieren — die Brüsseler Konferenz 1920 zeigt das Borromäische Muster in Reinform. Karatani erklärt theoretisch, warum das so sein muss (Mode B und Mode C verstärken sich gegenseitig), Mattei zeigt es historisch an einem konkreten Fall.
 
-### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+### → [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
 Matteis Austeritätspolitik als Arbeitsdisziplinierung verbindet sich mit Schaupps "halbe Demokratie"-Kritik: Wir wählen Regierungen, nicht Arbeitsbedingungen — und das ist kein Versehen, sondern historisch konstruiert.
-### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+### → [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 
 Dörres Begriff des autoritären Liberalismus (Heller 1932) ist das theoretische Pendant zu Matteis empirischer Austeritätsgeschichte: Mattei zeigt, wie liberale Regierungen den Faschismus begrüßten, um die Arbeiterklasse zu disziplinieren — Dörre zeigt, dass diese Konfiguration (Freiheit für Kapital + Repression der Folgen) strukturell wiederkehrt, nicht historische Ausnahme ist.
 
-### → [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
+### → [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
 
 Mattei zeigt, dass Liberalismus und Faschismus historisch die kapitalistische Eigentumsordnung gegen Systemveränderung verteidigten. Wesche liefert den vorgelagerten Schritt: Das Eigentumsrecht war schon bei seiner kolonialen Ausrollung als Machtinstrument konstruiert. Beide beschreiben denselben Mechanismus — Eigentumsordnung als Schutzwall — auf verschiedenen Zeitebenen.

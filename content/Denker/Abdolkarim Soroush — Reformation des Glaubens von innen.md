@@ -27,7 +27,7 @@ Quelle B: [Discussion on Revelation, Reform, and Secularism](https://www.youtube
 > Hauptwerke: *Qabz va Bast* (Kontraktion und Expansion des religiösen Wissens), *Reason, Freedom and Democracy in Islam* (Oxford University Press, 2000), *The Expansion of Prophetic Experience* (Brill, 2009)
 > Kernkonzepte: Historizität religiösen Wissens, Kontingenz der Offenbarung, minimales Glaubensfundament, Reform von innen
 >
-> → [[Gedankenwelten/DenkerVita/Abdolkarim Soroush|DenkerVita]]
+> → [[DenkerVita/Abdolkarim Soroush|DenkerVita]]
 
 ---
 
@@ -155,31 +155,31 @@ Soroush überlebt, im Exil, weiter schreibend, weiter lehrend. Das ist seine For
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Denker/scobel — Foucault Aufklaerung als Haltung|scobel — Foucault: Aufklärung als Haltung]]
+### → [[Denker/scobel — Foucault Aufklaerung als Haltung|scobel — Foucault: Aufklärung als Haltung]]
 
 Foucaults Kernunterscheidung zwischen Dogma und kritischer Haltung spiegelt Soroushs These direkt: Beide trennen das historisch-kontingente Wissen über Religion vom religiösen Kern — und plädieren für Aufklärung von innen, nicht als äußere Absage. Für Foucault ist Aufklärung eine Ethos, keine Epoche; für Soroush ist Reform eine Berufung, kein Systemwechsel.
 
-### → [[Gedankenwelten/DenkerVita/Michel Foucault]]
+### → [[DenkerVita/Michel Foucault]]
 
 Foucaults Machtanalytik des Diskurses erklärt, warum Soroushs Qabz va Bast so brisant ist: Wer das Verstehen kontrolliert, kontrolliert die Religion. Die iranische Staatstheologie ist in Foucaults Begriffen eine Diskursmacht, die sich als transzendente Wahrheit tarnt — Soroush demontiert genau diese Tarnung.
 
-### → [[Gedankenwelten/Denker/Erich Fromm — Haben oder Sein]]
+### → [[Denker/Erich Fromm — Haben oder Sein]]
 
 Fromm befreit die prophetische jüdische Tradition von ihrer institutionellen Erstarrung und verbindet Marx mit Meister Eckhart. Derselbe intellektuelle Schritt wie Soroush: das Wesentliche einer religiösen Tradition vom Historischen und Institutionellen trennen. Reform aus Liebe zur Tradition, nicht Bruch mit ihr.
 
-### → [[Gedankenwelten/Denker/Walther Ziegler — Rawls in 60 Minuten]]
+### → [[Denker/Walther Ziegler — Rawls in 60 Minuten]]
 
 Rawls' "Overlapping Consensus" ist das westlich-liberale Komplement zu Soroushs Befund: Demokratie kann nicht aus dem Islam abgeleitet werden — aber Muslime können sich, wie alle anderen, auf gemeinsame Gerechtigkeitsprinzipien einigen. Soroush kommt philosophisch zum selben Ergebnis, aber von innen der Tradition.
 
-### → [[Gedankenwelten/DenkerVita/John Rawls]]
+### → [[DenkerVita/John Rawls]]
 
 Rawls' "Public Reason" ist der westliche Versuch derselben Übersetzungsarbeit, die Soroush von innen betreibt: Wie kann religiöse Überzeugung — mit ihrer Sprache der Pflichten — im pluralistischen öffentlichen Raum sprechen, ohne zu dominieren? Soroush beantwortet es epistemologisch; Rawls politisch-philosophisch.
 
-### → [[Gedankenwelten/Zeitgeist/Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
+### → [[Zeitgeist/Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
 
 Soroushs intellektuelle Biografie — Verfolgung, Lehrverbot, Exil — ist der persönliche Hintergrund zu dem, was diese Note strukturell analysiert: wie das Regime der Islamischen Republik jeden Versuch einer innerislamischen Reform vernichtet. Geopolitik und Epistemologie greifen ineinander.
 
-### → [[Gedankenwelten/DenkerVita/Konfuzius]]
+### → [[DenkerVita/Konfuzius]]
 
 Strukturell analoges Problem: Wie bewahrt man den lebendigen Kern einer Tradition gegen ihre institutionelle Erstarrung? Konfuzius trennt Ritual (Li) von echter Mitmenschlichkeit (Ren) — Soroush trennt kontingente Koraninterpretation vom wesentlichen Glaubensfundament. Reform als Rückkehr zum Kern, nicht als Bruch.
 

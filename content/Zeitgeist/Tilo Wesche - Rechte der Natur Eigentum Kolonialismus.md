@@ -23,7 +23,7 @@ Quelle: [Jung & Naiv Folge 829](https://www.youtube.com/watch?v=JPPvdyFyw4U)
 >
 > Forschungsschwerpunkte: Kritische Theorie (Frankfurt School), Eigentumstheorie, politische Philosophie, Nachhaltigkeit. Hauptwerk: *Die Rechte der Natur — Vom nachhaltigen Eigentum* (Suhrkamp 2023).
 >
-> → [[Gedankenwelten/DenkerVita/Tilo Wesche|DenkerVita]]
+> → [[DenkerVita/Tilo Wesche|DenkerVita]]
 
 ---
 
@@ -384,22 +384,22 @@ Das fügt der Naturrechts-These eine wichtige Dimension hinzu: Sie zielt genau a
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+### → [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 Dörres Begriff der „kapitalistischen Landnahme" und Wesches These, dass Eigentumsrecht historisch als Enteignungsinstrument fungierte, ergänzen sich zu einer vollständigen Kritik: Dörre erklärt die systemische Logik (Kapitalismus muss ständig neue Räume kolonisieren), Wesche benennt das juristische Vehikel. Beide verweisen auf Art. 14 Abs. 2 GG als unausgeschöpfte Ressource — Dörre für Wirtschaftsdemokratie, Wesche für Naturrechte: zwei verschiedene Lektüren desselben Satzes.
 
-### → [[Gedankenwelten/Denker/Kojin Karatani — Tauschformen und die Ueberwindung der Triade]]
+### → [[Denker/Kojin Karatani — Tauschformen und die Ueberwindung der Triade]]
 Karatаnis Mode-A-Tausch (Reziprozität, gemeinschaftliches Eigentum ohne Kodifizierung) ist strukturell identisch mit dem indigenen Eigentumsmodell, das der Kolonialismus als „herrenloses Land" deklarierte. Karatani erklärt theoretisch, warum dieser Umsturz systemisch war: Der europäische Mode-C-Tausch (Warentausch, kodifiziertes Privatrecht) erklärt den eigenen Rahmen für universell und macht andere Tauschformen unsichtbar — was Wesche als historischen Rechts-Trick beschreibt.
 
-### → [[Gedankenwelten/Denker/Martyna Linartas — Unverdiente Ungleichheit]]
+### → [[Denker/Martyna Linartas — Unverdiente Ungleichheit]]
 Linartas analysiert, wie erbliches Privateigentum Ungleichheit perpetuiert und das Leistungsnarrativ als Legitimationsideologie produziert. Wesche ergänzt: Auch das Eigentumsrecht an natürlichen Ressourcen war von Anfang an eine historische Zuschreibung, keine naturgegebene Tatsache. Beide erschüttern denselben Mythos — dass Eigentum eine verdiente, neutrale Ordnungskategorie ist. Linartas sozioökonomisch, Wesche rechtsphilosophisch und kolonialhistorisch.
 
-### → [[Gedankenwelten/Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
+### → [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
 Mattei zeigt, dass Liberalismus und Faschismus historisch die kapitalistische Eigentumsordnung gegen Systemveränderung verteidigten. Wesche liefert den vorgelagerten Schritt: Das Eigentumsrecht selbst wurde schon bei seiner kolonialen Ausrollung als Machtinstrument konstruiert. Matteis Austeritätspolitik und Wesches Kolonialismus-Analyse beschreiben denselben Mechanismus auf verschiedenen Zeitebenen — Eigentumsordnung als Schutzwall.
 
-### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
+### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
 Das Panel diskutiert, wie extreme Vermögenskonzentration Demokratie aushöhlt. Wesche kommt von der anderen Seite zum selben Befund: Eigentumsrecht ist nicht nur Freiheitsrecht, sondern strukturiert Entscheidungsmacht. Die Naturrechts-These radikalisiert das: Wenn die Natur selbst Eigentümerin ist, monetarisieren Konzerne wie RWE fremdes Eigentum — das Vermögensungleichheitsproblem vertieft sich in einen Eigentumskonflikt zwischen Menschen und Natur.
 
-### → [[Gedankenwelten/DenkerVita/Zhao Tingyang]]
+### → [[DenkerVita/Zhao Tingyang]]
 Zhaos Tianxia-System denkt Weltordnung von relationaler Einschließung — die Welt als primäres Ordnungsprinzip, nicht souveräne Einzelsubjekte. Wesches Naturrechte operieren implizit ähnlich: Der Mensch ist Nutzer einer Natur, der er zugehört — nicht umgekehrt. Beide brechen mit dem westlichen Subjektmodell, das zuerst ein autonomes Rechtssubjekt setzt und dann fragt, ob es Pflichten hat.
 
 ---

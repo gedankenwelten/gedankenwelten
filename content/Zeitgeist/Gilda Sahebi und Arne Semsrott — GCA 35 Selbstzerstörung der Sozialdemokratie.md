@@ -26,10 +26,10 @@ Quelle: [GCA #35 — Die Selbstzerstörung der Sozialdemokratie](https://www.you
 
 > [!info] Wer spricht?
 > **Gilda Sahebi** (*1984 in Teheran*) — Journalistin, Autorin, Co-Host. Studium der Humanmedizin und Politikwissenschaft. Freie Journalistin für ARD, Spiegel, taz. Autorin von *Wie wir uns Rassismus beibringen* (2024) und *Verbinden statt spalten* (2025). Schwerpunkte: struktureller Rassismus, Polarisierung als Herrschaftsinstrument, feministische Politik.
-> → [[Gedankenwelten/DenkerVita/Gilda Sahebi|DenkerVita]]
+> → [[DenkerVita/Gilda Sahebi|DenkerVita]]
 >
 > **Arne Semsrott** (*1988 in Hamburg*) — Journalist, Aktivist, Projektleiter von FragDenStaat. Autor von *Machtübernahme* (2024). Co-Host seit September 2025.
-> → [[Gedankenwelten/DenkerVita/Arne Semsrott|DenkerVita]]
+> → [[DenkerVita/Arne Semsrott|DenkerVita]]
 >
 > *Format:* Wöchentlicher Politik-Podcast als gleichberechtigtes Gespräch zwischen zwei Journalist:innen — kein Interviewer/Interviewter-Gefälle, echte gegenseitige Reaktion.
 
@@ -236,7 +236,7 @@ Die CDU-Broschüre und Söders Eingeständnis, dass Migrationsthemenübernahme d
 
 Die "Missbrauchserzählung" als politisches Werkzeug — von Reagan's Welfare Queen über Labour bis zur SPD — ist das narrative Herzstück dieser Note. Amlinger/Nachtwey zeigen, warum solche Erzählungen als emotionale Infrastruktur funktionieren: Sie liefern keine Sachanalyse, sondern ein Gefühlsskript, das die Ecological Fallacy stabil hält.
 
-### → [[Gedankenwelten/Panorama/NoAfD]]
+### → [[Panorama/NoAfD]]
 
 Das Panorama bündelt den Kontext für die CDU-Broschüre und Söders Kurs: Die Brandmauer-Erosion ist kein taktisches Problem, sondern Strukturproblem. GCA #35 liefert neue Primärquellen für das Panorama-Argument, dass Themenübernahme die AfD stärkt statt schwächt.
 

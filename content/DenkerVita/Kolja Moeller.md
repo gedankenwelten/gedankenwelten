@@ -68,7 +68,7 @@ Möller ist **nicht einfach einer Strömung zuzuordnen**. Seine Position ist:
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten zwischen Machtmissbrauch und Verantwortung|NANO Talk – Eliten zwischen Machtmissbrauch und Verantwortung]] (3sat, 28.05.2026)
+- [[Zeitgeist/NANO Talk - Eliten zwischen Machtmissbrauch und Verantwortung|NANO Talk – Eliten zwischen Machtmissbrauch und Verantwortung]] (3sat, 28.05.2026)
 
 ---
 

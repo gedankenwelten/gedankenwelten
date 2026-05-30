@@ -22,7 +22,7 @@ Quelle: [Heiner Flassbeck: Warum Deutschlands größtes TABU uns ruiniert](https
 > **Heiner Flassbeck** (*1950, Birkenfeld*) — Ökonom und ehemaliger Staatssekretär im Bundesfinanzministerium unter Lafontaine. Von 2003 bis 2012 Chefökonom der UNCTAD in Genf. Seitdem unermüdlicher Kritiker der deutschen Wirtschaftspolitik — keynesianischer Einzelkämpfer im ordoliberalen Mainstream.
 >
 > Kernkonzepte: Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden
-> → [[Gedankenwelten/DenkerVita/Heiner Flassbeck|DenkerVita]]
+> → [[DenkerVita/Heiner Flassbeck|DenkerVita]]
 
 ---
 
@@ -195,7 +195,7 @@ Thematische Zwillingsnote: Beide kreisen um das Sparparadoxon. Das Tabu-Gespräc
 
 Butterwegge und Flassbeck diagnostizieren denselben Mechanismus aus verschiedenen Winkeln: Lohndumping → Prekarität → politische Radikalisierung. Butterwegge betont die sozialpolitische Seite, Flassbeck die makroökonomische Ursache.
 
-### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn]]
+### → [[Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn]]
 
 Direkter Nachfolger: Dasselbe Kernargument — Schröders Lohndumping als 25-jähriges europäisches Problem — wird hier an einem konkreten politischen Ereignis festgemacht: Merz behauptet beim Gewerkschaftstag zu hohe Arbeitskosten, obwohl Lohnstückkosten-Daten das Gegenteil zeigen. Der „Lohn-Irrsinn" ist die Alltagsprobe des hier entwickelten historischen Arguments.
 
@@ -207,31 +207,31 @@ Direkte Parallelthese: Fricke argumentiert für *Surplus* (das Online-Magazin vo
 
 Mattei dokumentiert historisch, was Flassbeck theoretisch beschreibt: Austeritätspolitik ist kein Versagen, sondern ein Werkzeug — zur Disziplinierung von Arbeit und Demokratie. Flassbecks Frustration über 100 Jahre deutsches Nichtbegreifen erhält durch Mattei eine dunklere Lesart.
 
-### → [[Gedankenwelten/Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN]]
+### → [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN]]
 
 Truger liefert die institutionelle Ergänzung zu Flassbecks Schuldenbremsen-Kritik: Beide diagnostizieren die Schuldenbremse als wirtschaftspolitische Falle, aber Truger zeigt zusätzlich, warum das Narrativ „Schulden sind immer schlecht" als politisch konstruiertes Dogma — nicht als ökonomisches Gesetz — behandelt werden muss.
 
-### → [[Gedankenwelten/Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 
 Manow und Flassbeck stellen dieselbe These auf zwei Ebenen: Flassbeck liefert die ökonomische Ursache des Rechtsrucks (Lohndrückung → Ungleichgewichte), Manow die politikwissenschaftliche Konsequenz (Souveränitätsverlust → Protestwahl als rationale Reaktion). Beide weigern sich, AfD-Wähler zu moralisieren.
 
-### → [[Gedankenwelten/DenkerVita/Maurice Hoefgen]]
+### → [[DenkerVita/Maurice Hoefgen]]
 
 Höfgen denkt Flassbecks Sparparadoxon in die MMT-Richtung weiter: Wo Flassbeck sagt „350 Mrd. Ersparnisse finden keinen Schuldner", sagt Höfgen „Geld ist kein knappes Gut — der Staat muss als Schuldner einspringen." Beide gegen die Schuldenbremse, aber aus unterschiedlichen theoretischen Schulen (postkeynesianisch vs. MMT).
 
-### → [[Gedankenwelten/DenkerVita/Ulrike Herrmann]]
+### → [[DenkerVita/Ulrike Herrmann]]
 
 Herrmann teilt Flassbecks Exportkritik, zieht aber eine radikalere Konsequenz: Wo Flassbeck höhere Löhne und ausgeglichene Leistungsbilanzen als Lösung sieht, argumentiert Herrmann, Wachstum selbst sei das Problem. Eine produktive Spannung im selben postkeynesianischen Fundament.
 
-### → [[Gedankenwelten/Denker/Martyna Linartas — Unverdiente Ungleichheit]]
+### → [[Denker/Martyna Linartas — Unverdiente Ungleichheit]]
 
 Linartas und Flassbeck beschreiben dieselbe Schere von zwei Seiten: Flassbeck zeigt, wie Lohndrückung die Kaufkraft der Unterschicht zerstört (Einkommensseite), Linartas, wie gleichzeitig Vermögen durch Erbschaft oben konzentriert bleibt (Vermögensseite).
 
-### → [[Gedankenwelten/Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
+### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
 
 Navidi konkretisiert Flassbecks These, dass Trumps Zölle keine neue Erfindung sind, sondern eine 25 Jahre alte Leistungsbilanz-Beschwerde ins Extrem treiben. Navidi zeigt: Trumps Zölle sind kein Handelsinstrument, sondern Erpressung — was Flassbecks Punkt bestätigt, dass die strukturelle Ursache (US-Defizite durch deutschen Merkantilismus) dabei ungelöst bleibt.
 
-### → [[Gedankenwelten/Panorama/NoAfD]]
+### → [[Panorama/NoAfD]]
 
 Das Panorama nimmt Flassbecks Kausalkette (Schröder-Reformen → Lohndumping → Rechtsruck) als eine von mehreren AfD-Entstehungsursachen auf. Die Note liefert die ökonomische Detailbegründung für das, was das Panorama als „ökonomische Entsicherung" zusammenfasst.
 

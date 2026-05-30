@@ -205,7 +205,7 @@ Dezentrale Realität widerlegt Lanz-Narrativ: Was als „Stillstand" geframt wir
 
 Sterners regionale Wertschöpfungs-Argument (Erneuerbare als heimische Industrie) findet bei Zöckler seine politische Konsequenz: 40% Erneuerbaren-Kapazität in Bürgerhand untermauert das Strauß-Autarkie-Argument empirisch.
 
-### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
+### → [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
 
 Zöcklers Bürgerenergiegenossenschaften sind das europäische Gegenstück zu Spechts chinesischem Direktversorgungsmodell: beide umgehen die Merit-Order-Strombörse — einmal durch staatliche Festpreisauktionen, einmal durch demokratisch organisierte Eigenversorgung zu Produktionskosten.
 
@@ -218,6 +218,6 @@ Kupferzell ist Zöcklers Bürgerenergie-Vision auf Unternehmensebene: Nicht eine
 Bürgerenergie als gelebte Geoökonomie von unten: Die dezentrale Energieversorgung ist exakt die Ressourcenunabhängigkeit, die Hein als europäischen Standortvorteil beschreibt
 
 
-### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+### → [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
 Großmanns Klettwitz-Modell (80€/Einwohner/Jahr Direktausschüttung) ist das praktische Pendant zu Zöcklers Bürgerbeteiligungs-Vision. Beide beantworten dieselbe Frage — wer profitiert von Windkraft? — mit derselben Antwort: die Menschen vor Ort.

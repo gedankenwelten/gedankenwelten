@@ -26,7 +26,7 @@ Quelle: [From the 2008 Crash to the Rise of Populism | Yanis Varoufakis](https:/
 >
 > Das Gespräch führen **Rory Stewart** (ehemaliger konservativer Abgeordneter und Außenminister) und **Alistair Campbell** (ehemaliger Spin Doctor unter Tony Blair) im Podcast „Russ Politics" — ein Format, das bewusst kontroverse Stimmen aus verschiedenen politischen Lagern einlädt.
 >
-> → [[Gedankenwelten/DenkerVita/Yanis Varoufakis|DenkerVita]]
+> → [[DenkerVita/Yanis Varoufakis|DenkerVita]]
 
 ---
 
@@ -213,31 +213,31 @@ Das IAI-Interview vertiefte Technofeudalism als eigenständige Theorie. Hier ski
 
 Im New Statesman Exchange sprach Varoufakis über die Faschismus-Sequenz (Demokratie → Liberalismus stirbt → Faschismus als Antwort). Dieses Interview ergänzt das mit der ökonomischen Ur-Erzählung: 2008 als Brandbeschleuniger, der genau diese Sequenz möglich machte.
 
-### → [[Gedankenwelten/Denker/Heiner Flassbeck — Krise und Rechtsruck]]
+### → [[Denker/Heiner Flassbeck — Krise und Rechtsruck]]
 
 Flassbeck ist Varoufakis' analytische Entsprechung auf der Eurozone-Ebene — aber mit anderem Ursprungsnarrativ. Varoufakis zeigt, wie der Bankenbailout 91% des Geldes zu deutschen und französischen Gläubigerbanken leitete; Flassbeck sieht das Lohnkosten-Dumping der Agenda 2010 als primären Regelverstoß. Zusammen ergeben sie die vollständige EU-Krisenerzählung: Varoufakis liefert die Krisendramatik, Flassbeck die buchhalterische Mechanik dahinter.
 
-### → [[Gedankenwelten/Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+### → [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 Fricke stellt dieselbe Grundthese auf wie Varoufakis — 2008 ist die Mutterkrise des Rechtspopulismus — und kommt aus der anderen Richtung zum selben Befund. Fricke erklärt den Rechtsruck psychologisch über "unpredictable stress"; Varoufakis politökonomisch: Wenn eine liberale Mitte die Bailout-Kosten sozialisiert, zerstört sie ihre eigene Legitimation. Beide fordern fiskalpolitische Gegenwehr, ohne sie ganz auszubuchstabieren.
 
-### → [[Gedankenwelten/Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
+### → [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
 
 Mattei liefert die historische Tiefe zu Varoufakis' Gegenwartskritik. Varoufakis nennt die Griechenland-Krise einen "Bankenbailout through the back door" — Mattei würde ergänzen: Austerität war nie eine Notmaßnahme, sondern das strukturelle Werkzeug zur Wiederherstellung der Klassenverhältnisse nach einem Schock. Varoufakis' "crime against Europe" erhält durch Matteis historische Linie eine dunklere Dimension: vielleicht kein Irrtum, sondern ein Feature.
 
-### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+### → [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 
 Ein produktiver Widerspruch: Beide sehen in 2008 den Wendepunkt zum autoritären Kapitalismus — aber Dörre verortet den Motor in der Klassenstruktur und der Erosion der Konfliktpartnerschaft, Varoufakis im Designfehler der Eurozone. Dörres "Faschismus wächst in der Demokratie, nicht von außen" lässt sich mit Varoufakis' Populismuskritik reiben: Wenn alle Seiten dasselbe Symptom bekämpfen, ohne die Ursache zu benennen — sind Dörres polarisierte Klassen die unvermeidliche Konsequenz einer Währungsunion ohne Fiskalunion?
 
-### → [[Gedankenwelten/Panorama/Autoritaerer Internationalismus]]
+### → [[Panorama/Autoritaerer Internationalismus]]
 
 Das Panorama beschreibt die globale Rechte als koordiniertes Netzwerk — Varoufakis liefert die ökonomische Grundlegung dafür. Erst 2008 hat die liberale Mitte ihre Glaubwürdigkeit zerstört, danach konnte der autoritäre Internationalismus in das entstandene Vakuum einziehen. Das Panorama erklärt die Infrastruktur (CPAC, Heritage, Atlas Network); Varoufakis erklärt den Nährboden — Ursache und Wirkung.
 
-### → [[Gedankenwelten/Denker/Francesca Bria — The Authoritarian Stack]]
+### → [[Denker/Francesca Bria — The Authoritarian Stack]]
 
 Bria kartiert, wie Tech-Oligarchen Staatsfunktionen übernehmen; Varoufakis erklärt, warum das strukturell kein Zufall ist: Cloud Rent hat Profit als Extraktionsmechanismus abgelöst. Brias "privatized sovereignty" und Varoufakis' "Technofeudalism" sind zwei Namen für denselben Machttransfer — nur auf verschiedene Akteursebenen bezogen.
 
-### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
+### → [[Zeitgeist/Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
 
 Direkteste wirtschaftspolitische Parallelanalyse: Varoufakis prognostiziert 2026 eine Stagflationswelle durch den Iran-Krieg; Flassbeck analysiert denselben Mechanismus buchhalterisch. Beide halten Zinserhöhungen auf einen Energiepreisschock für wirtschaftspolitisch unverantwortlich — ein konkreter Knotenpunkt, der bidirektionale Verlinkung rechtfertigt.
 
