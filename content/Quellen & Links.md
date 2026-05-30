@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## NANO Talk — Eliten: Zwischen Machtmissbrauch und Verantwortung (3sat, 2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Eliten: Zwischen Machtmissbrauch und Verantwortung \| NANO Talk](https://www.youtube.com/watch?v=Jfg69dF8Ybo) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Hartmann_Eliten_Transkript.txt` |
+
 ## Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus (Jung & Naiv 829)
 
 | | |

@@ -109,16 +109,119 @@ Mirzaei: Das Narrativ war nicht erfunden — die westliche Unterstützung für d
 
 ---
 
-### Pahlavi Junior: Drei kritische Fragen
+### Zuschauerfragen — wo der Chat die Analyse herausfordert
 
-[▶ 209:06](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=12546)
+Jung & Naiv übergibt das Mikrofon im zweiten Teil an Hans Jessen, der Fragen aus dem Live-Chat sammelt. Bei Mirzaei wird besonders deutlich, dass das iranisch-stämmige Publikum eigene Erfahrung und teils heftige Emotionen ins Format einbringt — und dass präzise Begriffe (Mullah-Regime, Separatismus, der Iran) selbst zum Streitpunkt werden.
 
+#### Hate-Erfahrung und das Verteidigen wissenschaftlicher Sprache
 
-Am Ende des Interviews nennt Mirzaei drei Fragen, die sie Reza Pahlavi stellen würde:
+[▶ 179:13](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=10753) — Hans Jessen eröffnet mit einer Beobachtung: Vorab hatte Mirzaei viel Hass im Chat erwartet. Tatsächlich war er auffällig gering — eher kritische Rückfragen, etwa 5 % wirklich unverschämte Kommentare, die gelöscht wurden.
+
+Spannend wird, was *als* Hass im Chat verhandelt wurde: Einige Stimmen warfen Mirzaei vor, sie sei „keine Expertin", rede von „Glauben" statt zu „wissen", sei „nicht sattelfest historisch". Andere Kommentator:innen verteidigten sie aktiv mit dem Hinweis, sie habe sich selbst als *Forscherin* (nicht Expertin) eingeführt und „ich glaube" sei in der Wissenschaft eine valide Hypothesenformulierung — *„Wissenschaft basiert ja auf Hypothesen, das umgangssprachliche Wort für Annahme ist glaube."*
+
+> *„Wissenschaft und Forschung — das ist ein Prozess der Suche. Und Suche verläuft selten geradlinig."*
+
+Implizite Pointe: Die Messlatte für eine junge Wissenschaftlerin wird höher gelegt als für männliche Kollegen — *„hätten Sie das beim Kerl auch gemacht?"*
+
+#### „Der Iran" oder „Iran"? — eine grammatikalische Randnotiz
+
+[▶ 182:16](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=10936) — Mirzaei räumt freimütig ein: Im Gespräch sagt sie umgangssprachlich „der Iran", grammatikalisch korrekt wäre nur „Iran" (anders als „der Irak"). Der Artikel kommt vermutlich aus dem Französischen („l'Iran"). Eine kleine Selbstkorrektur — gerade weil im persischen wie im englischen Sprachgebrauch der Artikel fehlt.
+
+#### Wie wird Trumps erratischer Kurs im Iran wahrgenommen?
+
+[▶ 183:49](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=11029) — Trumps nächtliche Volten — abends Ankündigung, morgens Rückzieher. Wie wird das im iranischen Regime und in der Zivilbevölkerung gesehen?
+
+Auf Regimeseite: *„Donald Trump wird sehr belächelt, auch im Staatsfernsehen."* Witze auf seine Kosten, Rückzieher als Beweis, dass die iranische Taktik aufgehe — Iran habe die Macht, *„entscheidet, was da passiert."*
+
+In der Zivilbevölkerung: kaum belastbare Daten. Aber eine Beobachtung — *„viele von denen, die anfangs gedacht haben, dass US-Bomben, israelische Bomben wirklich zu Freiheit führen können, sehen das jetzt viel kritischer."* Erkennbar werde eine *Planlosigkeit auf US-amerikanischer Seite*, die für die Menschen vieles verschlimmert habe.
+
+#### Gibt es Übergangsstrukturen im Iran?
+
+[▶ 185:20](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=11120) — Hans Jessens systemische Frage: Falls die Macht der jetzigen Elite zerfällt — existieren Organisationsformen, die einen *friedlichen* Übergang tragen könnten?
+
+Mirzaeis Antwort ist nüchtern: *„Wir sehen nicht wirklich Risse in diesem Macht- und Sicherheitsapparat. Wir sehen eher Kohäsion — dass sie noch mal stärker zusammengerückt sind."* Zivilgesellschaftliche Akteure gibt es kaum — nicht weil die Menschen es nicht wollten, sondern weil Organisationsversuche systematisch zerschlagen werden (Verhaftung, Verbot, Folter).
+
+Und selbst *wenn* Risse entstünden: Mirzaei rechnet damit, dass interne Machtfraktionen versuchen würden, die Macht an sich zu reißen — nicht, sie der Zivilgesellschaft zu übergeben. *„Ich denke nicht, dass irgendjemand, der dort an der Macht ist, das Interesse hat, diese Macht zu verlieren."*
+
+#### Erkenntnisse aus dem 12-Tage-Krieg (2025)
+
+[▶ 188:23](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=11303) — Mirzaei hat zum 12-Tage-Krieg eine eigene Publikation veröffentlicht. Drei Befunde:
+
+1. **Apparat-Resilienz:** Nach den initialen Enthauptungsschlägen brauchte das Regime *zwei, drei Tage*, dann hatte es sich gefangen. Der Apparat funktionierte unabhängig von der Führungsschicht weiter — ein wichtiges Signal für die Frage, ob „top-down decapitation" überhaupt funktioniert.
+2. **Rally around the flag:** Auch Menschen, die das Regime ablehnen, rückten zumindest *„geeint darin"* zusammen, dass sie einen gemeinsamen Feind hatten. Mirzaei selbst hält den Effekt für kurzfristig — der Graben zwischen Regierung und Bevölkerung ist zu tief.
+3. **Keine internen Risse:** Keine wichtige Machtfigur versuchte nach den Tötungen, die Macht an sich zu reißen — auch das war eine Überraschung.
+
+#### Wurde das iranische Atomprogramm wirklich zerstört?
+
+[▶ 190:41](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=11441) — Der neue Krieg wurde damit begründet, das Atomprogramm sei zerstört worden. Mirzaeis Befund: US-Geheimdienstberichte sagten *„sehr klar"* das Gegenteil. Bunkerbrechende Bomben können ein Programm nicht eliminieren — *das technische Knowhow bleibt*. Offen ist bis heute: Wo ist das hochangereicherte Uran? Vermutet wird, *„ein erheblicher Teil wurde rausgeschafft"*, vergraben oder ausgelagert. *„Das weiß jetzt wirklich niemand."*
+
+#### Deutschland als Großmutter des iranischen Atomprogramms?
+
+[▶ 192:12](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=11532) — Hans Jessens historische Frage: Unter Helmut Schmidt gab es einen Vertrag zur Lieferung von Reaktoren und Anreicherungstechnologie an das Schah-Regime. Wirkt das bis heute nach?
+
+Mirzaei ist vorsichtig: Sie müsse in die 70er-Jahre-Quellen schauen, *ob* diese Lieferungen tatsächlich vollzogen wurden — die Reaktorbauten wurden nach der Revolution 1979 nicht realisiert. Nach der Revolution spielten *Pakistan* (zentrale Rolle), Frankreich, Russland und China die Hauptrollen, kaum noch westliche Staaten. Aber: *„Was da an Know-how vorgeflossen ist, wäre noch mal eine historische Analyse."*
+
+#### Bekommst du persönlich Probleme durch deine Forschung?
+
+[▶ 195:15](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=11715) — Eine fürsorgliche Chat-Frage: Riskiert sie als iranischstämmige Forscherin Repressalien — in Deutschland, im Iran, gegen ihre Familie?
+
+Mirzaeis Antwort ist behutsam, weil nicht alles vorhersehbar ist. Bisher: keine Auswirkungen auf Arbeit oder Familie. Was sie an Anfeindungen erlebt, kommt *„aus der eigenen Community, vor allem von iranischstämmigen Menschen"* — eine Projektion von Emotionen, nicht von politischer Verfolgung. Sie hat *„noch nichts bemerkt, wo ich sagen würde, ich habe jetzt Angst, auf die Straße zu gehen."*
+
+#### Die „westliche Brille" — wo verzerrt sie den Iran?
+
+[▶ 196:46](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=11806) — Eine grundsätzliche Frage zur eigenen Begriffsarbeit. Mirzaeis zwei Hauptkritikpunkte:
+
+1. **„Mullah-Regime"** verkennt die *Natur* des Regimes und verkürzt die Analyse. Und es legt nahe: *„Wenn dieses Regime weg ist, wird schon alles gut."* Falsch — denn schon unter dem Schah hatte Iran eine *hegemoniale, alles andere als friedliche* Außenpolitik. Es gibt *Kontinuitäten*, die kein Regimewechsel auflöst.
+2. **Romantisierung der Schah-Zeit** — als wäre die Revolution 1979 *„aus dem Nichts"* gekommen. Sie kam aus einer autoritären Geschichte heraus, mit kurzen demokratischen Fenstern, die jedes Mal — auch unter westlicher Beteiligung — zerstört wurden.
+
+Korruption, Wasser- und Ressourcen-Missmanagement waren auch unter dem Schah schon Themen. Ein anderes politisches System wird sie nicht einfach lösen.
+
+#### Hat die Schah-Romantisierung eine deutsche Komponente?
+
+[▶ 199:05](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=11945) — Hans Jessen erinnert an die 50er/60er: Soraya, die Frau des Schah, hatte eine deutsche Mutter — *„ein Teil der deutschen Öffentlichkeit hat den Schah und das Regime fast adoptiert."* Wirkt das generationenübergreifend nach?
+
+Mirzaei kann sich dazu generationenpsychologisch nicht festlegen, sieht aber die Romantisierung *nicht spezifisch deutsch*: Es ist die generelle westliche Identifikation mit einem Herrscher, der „im westlichen Gewand kam" — einfacher zu unterstützen als das jetzige Regime, das *„allein schon optisch ganz anders aussieht."*
+
+#### Ist „Separatismus" der richtige Begriff für die Kurden?
+
+[▶ 200:36](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=12036) — Eine Chat-Frage mit eigener Verortung: *„Ich bin Kurde."* Aus kurdischer Perspektive seien die Grenzen für die im Iran lebenden Kurden nie legitim gewesen — sei „Separatismus" nicht eine problematische Fremdzuschreibung?
+
+Mirzaei stimmt zu: *„Absolut problematisch."* Das Separatismus-Narrativ verkennt, dass es bei vielen Kurd:innen um *Selbstbestimmung, Autonomie und kulturelle Ausübung* geht — nicht um Sezession. Aber im iranischen Sicherheitsdiskurs werden alle in einen Topf geworfen.
+
+Historische Pointe: Die *Republik Mahabad* (1945/46), der letzte kurdische Staat überhaupt — auf iranischem Boden, unterstützt von der Sowjetunion, nach knapp einem Jahr von Briten und USA mit zurückgedrängt — wird seitdem von jedem iranischen Regime als Beweis genutzt, dass „die Kurden es immer wieder versuchen werden". Eine Kontinuität jenseits des Regimes.
+
+#### Geht es ethnischen Minderheiten heute schlechter als unter dem Schah?
+
+[▶ 203:42](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=12222) — Mirzaei zögert beim direkten Vergleich. Auch unter dem Schah wurden Minderheiten *„massiv unterdrückt"* — nach 1946 war es für Kurden kaum noch möglich, sich politisch zu organisieren. Khomeinis erste Amtshandlung war 1979 ein Krieg gegen die eigenen Kurden.
+
+Ihr eigener Maßstab: *„Den geht es schon sehr lange sehr schlecht."* Auf dem Papier garantiert die iranische Verfassung kulturelle und sprachliche Rechte — in der Praxis nicht. Aktuell verschärft sich die Lage: Minderheiten gelten als *„Separatisten, die mit dem Feind kooperieren"* — und werden bei jedem Konflikt stärker diskriminiert.
+
+#### War der Tod Khameneis Sohn / der iranischen Generäle ein „guter Tod"?
+
+[▶ 205:15](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=12315) — Mirzaei hatte im ersten Teil gesagt, der Tod eines hochrangigen Iraners durch einen israelischen Schlag sei für ihn *„der beste Tod, den er sich wünschen konnte"* (Märtyrerstatus). Chat-Nachfrage: Befürwortet sie also Anschläge gegen *„terroristische Unterdrücker"*?
+
+Mirzaeis Antwort ist klar und prinzipiell:
+
+> *„Ich verstehe, warum Leute sich gefreut haben. Aber es ist nicht mein Ansatz. Ich glaube an Rechtsstaatlichkeit und Gerechtigkeit. Für mich wäre es gut gewesen, dass er und ganz viele andere in dieser Führung vor einem Gericht gestanden hätten."*
+
+Mehr noch — sie zieht eine universelle Linie: *„Mittel anzuwenden, die diese autoritären Führer und Staaten anwenden, macht uns nicht unbedingt besser. Wenn uns Rechtsstaatlichkeit wichtig ist, dann muss das einfach immer gelten."* Das ist ihre Doppelmoral-Kritik, konsequent zu Ende gedacht.
+
+#### Wie wird Steinmeiers Völkerrechts-Rede im Iran gelesen?
+
+[▶ 206:48](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=12408) — Bundespräsident Steinmeier hatte im Festakt zum 75. Jahrestag der Wiedereröffnung des Auswärtigen Amts den Iran-Krieg explizit als *völkerrechtswidrig* bezeichnet — eine doppelte Ohrfeige Richtung Bundesregierung. Hans Jessens Frage: Nimmt man das im Iran wahr?
+
+Mirzaeis Einschätzung: Staatsmedien werden berichten, aber *„nicht so viel Gewicht geben"* — Steinmeier hat keine operative Macht. Eher werde es genutzt als Bestätigung: *„Guck mal, jetzt sogar die Deutschen sprechen davon, dass es völkerrechtswidrig ist."* Legitimationsgewinn für das Regime, kein realer Politik-Hebel.
+
+#### Drei Fragen an Pahlavi Junior
+
+[▶ 209:06](https://www.youtube.com/watch?v=RgL4bAh8YoM&t=12546) — Zum Abschluss eine Frage von Hans Jessen selbst: Welche drei Fragen würde Mirzaei Reza Pahlavi stellen, wenn sie ihn interviewen könnte?
 
 1. **Warum bündelt er so viel Macht in seiner Person** — laut Übergangsplan?
 2. **Warum hat er in 40+ Jahren im Exil kein Oppositionsbündnis geschaffen?**
 3. **Warum distanziert er sich nicht stärker von antidemokratischen Tendenzen** in Teilen seiner Anhängerschaft — was seinen demokratischen Anspruch unglaubwürdig macht?
+
+> [!question] Weitergedacht
+> Wenn — wie Mirzaei zeigt — Kontinuitäten autoritärer Strukturen und hegemonialer Außenpolitik unabhängig vom Regime weiterlaufen, *was bedeutet das für die westliche Hoffnung auf „Regime Change"?* Ist sie nicht selbst Teil derselben Romantisierung, die schon die Schah-Zeit beschönigt hat?
 
 ---
 

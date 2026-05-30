@@ -214,6 +214,87 @@ In den 1970ern hat Schweden dem König alle Machtbefugnisse entzogen — formal 
 
 ---
 
+## Zuschauerfragen — wo Adelsgeschichte auf Gegenwart trifft
+
+[▶ 173:21](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=10401) — Im zweiten Teil übernimmt Hans Jessen die Fragen aus dem Live-Chat. Bei Horowski zeigt sich besonders schön, wie Adelsgeschichte plötzlich aktuelle Begriffe befeuert (Neofeudalismus, Hohenzollern-Streit, Marx) — und wie viel scheinbar Anekdotisches strukturell wichtig ist.
+
+### Sprezzatura im Boxring? Mohammed Ali als Aristokrat des Ringes
+
+[▶ 174:53](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=10493) — Eine schöne Erweiterung des *Sprezzatura*-Begriffs durch Hans: *„Fly like a butterfly, sting like a bee."* Horowski stimmt zu: Der klassische Sprezzatura-Edelmann ist nicht im abstrakten Raum elegant — er ist *körperbeherrscht*. Das Ballett wurde *genau in dieser Zeit für genau diese Leute* erfunden. Kampfsport gehörte zentral dazu — und Aristokraten des 17./18. Jahrhunderts würden bei Boxkämpfen sehr wohl unterscheiden, *„wer es so macht, wie man es machen muss, und wer einfach drauf haut"*.
+
+### Gibt es Adelstinder?
+
+[▶ 176:25](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=10585) — Eine sehr konkrete Gegenwartsfrage. Horowskis Antwort: Statistisch ist es unwahrscheinlich, dass jemand aus 0,1 % der Bevölkerung einen Partner aus *denselben* 0,1 % findet — es sei denn, *sie werden zusammengeführt*. Klassische Lösung: standesgemäße Bälle. Eine deutsche skurile Variante: *„Adel auf dem Radel"* — organisierte Radtouren von Schloss zu Schloss für 13–15-jährige Adelskinder, dokumentiert sogar in Wolfgang Herrndorfs *Tschick*.
+
+Der entscheidende Faktor heute, sichtbar im *Genealogischen Handbuch des Adels* (GHdA): *Land und Schloss*. Wer es hat, kann *Jagden* und *Feste* geben, zu denen andere Familien desselben Typs eingeladen werden — der ganze Heiratsmarkt organisiert sich um diese verbliebenen Inseln aristokratischer Geselligkeit.
+
+### Adel und Rechtsradikalismus — wie eng war die Verbindung?
+
+[▶ 181:48](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=10908) — Hans erinnert an Victoria Luise von Preußen, die jüngste Kaisertochter, die in Hannover bis in die 70er Jahre verehrte Persönlichkeit war — *und* aktive Hitler-Unterstützerin.
+
+Horowskis differenzierte Antwort: Stefan Malinowski hat das maßgebliche Buch *Adel und Nationalsozialismus* geschrieben. Die große Linie: Seit 1789, verschärft seit 1918, hat sich die Adels-Position tendenziell verschlechtert. Gleichzeitig wurden es *mehr* Adlige — weil Klerus-Wege wegbrachen und alle Söhne heirateten. *„Wo bringt man die alle unter?"*
+
+Daraus erklärt sich die Anfälligkeit für rechte Narrative: *„Damals ist irgendwas schiefgegangen, irgendeine böse Kabale, irgendwelche Kräfte hinter den Kulissen haben eine Revolution ausgelöst, und das muss jetzt rückgängig gemacht werden."* Nach 1945 sei der Adel allerdings *nicht anfälliger als der Rest* der Gesellschaft gewesen — der Zweite Weltkrieg habe ihn vergleichbar erschüttert. Ausnahmen wie Prinz Heinrich XIII. Reuß (Reichsbürger-Verschwörung) sind atypisch — *„seine Familie hat tatsächlich erst innerhalb von Menschengedenken die Landesherrschaft verloren."*
+
+### Der Hohenzollern-Entschädigungsstreit
+
+[▶ 184:51](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=11091) — Hans fragt nach den Hohenzollern-Klagen gegen die Stiftung Preußischer Kulturbesitz. Horowski klärt zuerst eine systemische Unterscheidung auf: *Herrscherhäuser* (regierende Könige, Großherzöge) vs. *Adel* (privilegierte Untertanen).
+
+Der Hohenzollern-Fall ist ein *Herrscherhaus*-Sonderproblem. Preußen wurde seit 1415 *„zu 100 % um die Herrscherfamilie herumgebaut"* — bis 1815 hielt allein die Dynastie die Territorien zusammen. Daraus folgte das fast unlösbare Problem nach 1918: Wie trennt man *Privatbesitz* vom *Staatsbesitz*, wenn beides historisch verschränkt war? Im 19. Jahrhundert hatte man das mit einer hohen jährlichen Geldzahlung gelöst — die nach 1918 nicht mehr funktionierte. Hinzu kamen NS-Belastung, DDR-Enteignung östlich der Elbe und die schwer juristisch fassbare Frage: *Sollen sie für den Ersten Weltkrieg und das Dritte Reich bestraft werden?*
+
+> *„Und dann hat die Familie eben auch sehr über die Stränge geschlagen und angefangen, Historiker zu verklagen dafür, dass die Tatsachen feststellen."*
+
+### Adoption als Thronfolge — warum nicht in Europa?
+
+[▶ 189:25](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=11365) — In Asien (Japan, China, Indien) wurde adoptiert, meist Verwandte. In Europa nicht. Horowski: Aus *nicht ganz geklärten Gründen* hat die christliche Kirche die Adoption im Mittelalter mehr oder weniger ausgeschaltet. Da die europäische Erbfolge weibliche Linien einbezog, gab es im Notfall immer jemanden — Adoption war strukturell entbehrlich. *„Wir reden über eine super-patriarchale Gesellschaft."*
+
+### Konnte ein Monarch mehrerer Länder werden?
+
+[▶ 190:56](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=11456) — Horowskis schönes Beispiel: 1744 wurde Prinz Karl Peter Ulrich von Schleswig-Holstein-Gottorf von der russischen Zarin zum Erben Russlands bestimmt — er war zuvor schon Erbe Schwedens. Die Schweden enterbten ihn *sofort*, weil sie nicht mit Russland vereinigt werden wollten. Heute machen Verfassungen das schwer — übrig bleibt der historische Sonderfall des britischen Monarchen als König von Australien, Neuseeland, Kanada.
+
+### Warum konnte der europäische Adel keine Strukturen in den USA aufbauen?
+
+[▶ 191:42](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=11502) — *„Eine super interessante Frage."* Er hat es versucht — Maryland gehörte den Lords Baltimore (daher die Stadt Baltimore). Aber feudale Strukturen brauchen *Untertanen, die das Land bearbeiten*. In Amerika hatte jeder Pächter immer die Option, *jenseits der Kolonialgrenze* in neues Land zu ziehen, das die britische Krone für ihn freihalten würde (auf Kosten der Ureinwohner).
+
+Eine erhellende Parallele: Genau dasselbe Problem führte in Russland zur *Leibeigenschaft* — auch dort gab es eine *Open Frontier* nach Sibirien, vor der man Bauern festbinden musste. Die *„Lords Proprietor"* in Amerika wussten von Anfang an, dass sie Kolonisten *bessere Bedingungen* bieten müssen — feudale Oberherrschaft war nicht durchsetzbar.
+
+### Akzeptierten Bauern die Adelsherrschaft als legitim?
+
+[▶ 194:47](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=11687) — Mischung aus beidem. Horowskis Differenzierung ist klug: Es waren *keine totalitären Diktaturen*, also gab es Gerichtsklagen von Untertanen, die *auf altes Recht pochten*. Das setzt voraus, dass sie das System grundsätzlich für legitim hielten — sonst hätten sie nicht *innerhalb* des Systems geklagt.
+
+Zwei Stützen der Akzeptanz:
+1. *Kirchliche Vermittlung* (göttliche Ordnung).
+2. *Bäuerliche Hierarchie* selbst — Großbauern sahen sich *analog* zu Adligen, wollten auch nicht, dass die Kleinen aufmucken, vererbten ihre Positionen.
+
+> *„Diese Systeme hätten nicht funktionieren können, wenn die ganze Zeit ununterbrochen der größere Teil der bäuerlichen Bevölkerung das Gefühl gehabt hätte, das ist total illegitim. Es waren ausgehandelte Gemengelagen."*
+
+### Neofeudalismus — ist der Begriff präzise?
+
+[▶ 197:03](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=11823) — Horowski ist zwiespältig. Das *Phänomen* sieht er — Social-Media-Eigentümer, riesige Konzerne, die unter Trump die Weichen für quasi-fürstliche Strukturen gestellt bekommen. Aber der *Begriff* sei unglücklich: Feudalismus war kein Geld-, sondern ein *Lehnssystem* — *„kann gar nicht koexistieren dauerhaft mit der Existenz von immer reicheren Städten und Kaufleuten."* Schon die frühe Neuzeit, mit der er sich beschäftigt, ist eigentlich *Postfeudalismus*. Phänomen real, Etikett irreführend.
+
+### Marx' These — Geschichte als Geschichte von Klassenkämpfen?
+
+[▶ 199:18](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=11958) — Der berühmte erste Satz des Kommunistischen Manifests. Horowski würdigt die Bedeutung: Marx und sein Milieu haben die *Klassen-Perspektive* in die Geschichtswissenschaft gebracht — *„erstaunlicherweise hatte das vorher kaum eine Rolle gespielt."*
+
+Aber er warnt vor der Verallgemeinerung: Auf das *19. Jahrhundert* selbst angewandt, drängt sich die Perspektive auf. Je weiter zurück, desto mehr *übersieht* man, wenn man *nur* sie anwendet. *„Eine Perspektive, die man nicht wegblenden darf — wenn man sie nicht hat, übersieht man wichtige Dinge. Wenn man nur die hat, übersieht man noch mehr."*
+
+### Zeitmaschine — wohin?
+
+[▶ 201:36](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=12096) — Eine spielerische Frage mit ernsten Schichten. Horowski wählt *1648–1789* — und reflektiert sofort über die Probleme: *„Selbst ich, der ich wirklich viel über Versailles weiß, würde sofort auffliegen."* Die *Aussprache* des Französischen war damals fundamental anders — rekonstruierbar aus Stücken von Molière und Racine, die heute von einigen Helden korrekt aufgeführt werden. Auch das Englische klingt völlig anders.
+
+Sein Trick wäre, *eine Rolle einzunehmen*: Ein Vorfahr von ihm war ein württembergischer Theologe, der als *Prinzenerzieher* zwei Teenager durch Europa begleiten musste. *„Ich wüsste, dass ich da der hinterste Statist bin — wäre nicht so im Blick."* Verdächtig würde er nur durch seine *Größe* — nicht durch Übergewicht oder Zähne.
+
+### Höchstrangiger Adliger, dem du persönlich begegnet bist?
+
+[▶ 205:25](https://www.youtube.com/watch?v=lr1JYQ6ULaU&t=12325) — Eine wunderbar verspielte Schlussfrage. Horowski als 17-Jähriger im Konfirmationsanzug auf einem Schlosskonzert in Burghundern — kurzer Händedruck mit *Prinz Ferdinand von Preußen*, *„der Kaiser geworden wäre, wenn es nicht alles anders gekommen wäre."*
+
+Daraus folgt das aristokratische Spiel **„How many handshakes to Napoleon"**: Horowski schafft es in vier Händedrücken (Ferdinand → Großtante Luise → Stéphanie de Beauharnais [Adoptivnichte Napoleons] → Napoleon). Marion Gräfin Dönhoff schaffte es in zwei — *„weil sie 1909 als Tochter eines 60-jährigen Vaters geboren wurde und ihr Großvater Napoleon als 13-Jähriger getroffen hat."*
+
+> [!question] Weitergedacht
+> Wenn — wie Horowski zeigt — selbst der „Neofeudalismus" eine analytische Unschärfe trägt, *brauchen wir einen neuen Begriff für die Tech-Oligarchie? Oder bleibt jeder historisierende Vergleich strukturell verzerrend, weil unsere Gegenwart Geld, Plattformmacht und Staat anders verbindet, als es jede frühere Epoche tat?*
+
+---
+
 ## Reflexion
 
 Was Horowski zeigt: **Adel und Dynastien sind geronnene Systemlogik — keine Laune der Geschichte.**

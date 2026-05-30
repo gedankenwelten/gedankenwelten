@@ -141,6 +141,10 @@ Nosthoff plädiert für:
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
+
+Hartmann beschreibt im NANO Talk politisch, was Nosthoff ideengeschichtlich begründet: Tech-Oligarchen nutzen kybernetisches Steuerungsdenken als Selbstlegitimation. Hartmann fordert Antitrust; Nosthoff erklärt, warum diese Überzeugung ideologisch so stabil ist.
+
 ### → [[Andreas Kemper — Technofaschismus und die AfD]]
 
 Kemper analysiert Technofaschismus als rechts-libertären Ideologiekomplex; Nosthoff liefert die ideengeschichtliche Grundlage: von Kybernetik zu Silicon-Valley-Autoritarismus. Beide Analysen zusammen: Wie Technologiediskurs zu politischer Agenda wird

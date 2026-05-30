@@ -111,6 +111,99 @@ Dabei wird das meiste Vermögen in Deutschland vererbt, nicht erarbeitet. Die Le
 
 ---
 
+### Zuschauerfragen — wo Soziologie konkret werden muss
+
+[▶ 171:28](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=10288) — Im zweiten Teil übernimmt Hans Jessen die Fragen aus dem Live-Chat. Bei Mau testet das Publikum die Soziologie der Triggerpunkte am Migrationskonsens, am Wissenschaftsbetrieb (*#IchbinHanna*), am DDR-Erbe und an Grundsatzfragen wie Cancel Culture, Grundeinkommen und Wagenknechts politischem Potenzial.
+
+#### Das Teufelsrad — sind wir gesellschaftlich überschleudert?
+
+[▶ 172:58](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=10378) — Hans Jessen bringt zum Einstieg sein eigenes Bild ein: Das *Teufelsrad* auf alten Jahrmärkten — eine Scheibe, die immer schneller dreht, bis die Leute reihenweise herunterfliegen. Passt das auf die heutige Beschleunigungsgesellschaft mit ihren vielfachen Krisen?
+
+Mau bestätigt vorsichtig: Wandel ist *für viele Leute eine Befreiung*, aber für viele auch eine *„extreme Umstellungsanforderung"*. In seiner Studie fanden sich *Kategorien-Unsicherheiten* — viele wissen nicht mehr, ob „queer" und „quer" dasselbe ist, welche Sprache opportun ist. Dazu kommt der Wegfall der *Kontinuitätsversprechen* (ein Leben lang ein Beruf), der *Fortschrittsoptimismus* ist verschwunden, und die alten *Bindungskräfte* der Parteimilieus und Vereine wirken nicht mehr.
+
+Daraus erklärt sich die ostdeutsche AfD-Stärke nicht durch Armut, sondern durch *„veränderungserschöpfte Punkte"*: Leute, die in 30 Jahren unglaubliche Turbulenzen hinter sich haben und jetzt *„festen Grund unter den Füßen"* wollen — keine Migration, keine ökologische Transformation. Mau verweist auf eine Lausitz-Studie zu *„moral rifts"*: Die Transformationsbereitschaft heute hängt extrem stark mit den oft enttäuschenden Transformationserfahrungen der 90er zusammen.
+
+> *„Man muss versuchen, an den Alltagssinn für Gerechtigkeit anzuschließen — und verstehen, aus welcher Perspektive die Leute Veränderungsprozesse betrachten. Das ist eine andere Perspektive als die von jemandem, der sagt: Ich bin jung, gut gebildet, spreche drei Sprachen — wo ist das Problem?"*
+
+#### „Gesunde" und „ungesunde" Migration?
+
+[▶ 181:23](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=10883) — Mau lehnt diese Begrifflichkeit ab. Wichtig ist ihm der *gesellschaftliche Status quo*: Die allermeisten Leute akzeptieren mittlerweile, dass Deutschland *Einwanderungsgesellschaft* ist und Migration braucht. Die Debatte dreht sich nicht *ob*, sondern *wie* — Verteilung, Integration, Regulierung.
+
+Mau wirft den großen Parteien *Imitations-Rhetorik* gegenüber Rechtspopulisten vor: Eine Million Geflüchtete in einem Jahr klingt gewaltig, sind aber 0,2 % der europäischen Bevölkerung — *„Das soll nicht zu schaffen sein? Ich kann es mir nicht vorstellen."*
+
+#### Geht Einwanderung mit starkem Sozialstaat zusammen?
+
+[▶ 185:15](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=11115) — Die alte These (homogene Gesellschaft = stärkerer Sozialstaat) bekommt Mau klar zurückgewiesen: *Belgien* (mehrsprachig) und *die Schweiz* sind heterogen und haben starke Sozialstaaten. Die amerikanische Prophezeiung, Europa würde sich „unter Migrations-Druck" auf US-Niveau absenken, hat sich nirgendwo bewahrheitet.
+
+Mau dreht die Frage um: Bei *gut organisierter* Migration ist es eben *keine* Einwanderung in die Sozialsysteme, sondern *in den Arbeitsmarkt, über den die Sozialsysteme finanziert werden*. Konkret: 30 % der Beschäftigten im Gesundheitswesen haben Migrationshintergrund (in der 24-Stunden-Pflege 60–70 %), 28 % der Ärztinnen und Ärzte. *„Würde man die abziehen, würde die gesundheitliche Daseinsvorsorge zusammenbrechen — man bekäme keinen Zahnarzttermin mehr."*
+
+#### Sind wir habituell unfähig, migrantische Erfahrung zu verstehen?
+
+[▶ 188:20](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=11300) — Mau zitiert seine Kollegin **Naika Foroutan**: *„Migranten haben ihr Land verlassen — die Ostdeutschen wurden von ihrem Land verlassen."* Schon zwischen West- und Ostdeutschen ist gegenseitiges Verstehen schwer. Migrantische Erfahrung — biographischer Bruch, sprachliche Neuorientierung, sozialer Kontext — ist *noch* schwerer zu rekonstruieren. *„Da haben wir habituelle, mentale, kognitive Grenzen."*
+
+#### #IchbinHanna — Ungleichheit im Wissenschaftssystem
+
+[▶ 189:51](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=11391) — Eine spitze Chat-Frage: Wie viele *#IchbinHannas* kennt Mau eigentlich, und was tut er gegen die Prekarisierung dieser Arbeit?
+
+Mau antwortet selbstkritisch und engagiert: Er hat sich wissenschaftspolitisch immer für Reformen eingesetzt — *„leider nicht erfolgreich"*. Sein Vorschlag: *Department-Strukturen* mit Associate und Assistant Professorships, dauerhafte Stellen unterhalb der Professur (Lecturer, Researcher).
+
+> *„Es ist ungesund, in Institutionen zu arbeiten, in denen 90 % der Leute befristet beschäftigt sind. Das würde sich kein Unternehmen leisten — weil der Wissensumschlag und der Wissenstransfer einfach verloren gehen. Jeder fängt immer wieder von Null an."*
+
+#### Klimawandel und soziale Konflikte
+
+[▶ 192:54](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=11574) — Eine kurze, aber programmatisch wichtige Selbstauskunft: Im Buch *Triggerpunkte* sind die *Klima- und Nachhaltigkeitsfragen* eine der vier zentralen Arenen — nicht nur die Verteilung. Mau hält das *Klimakapitel* für eines der innovativsten des Buches, weil es Ungleichheitsforschung und ökologische Konflikte zusammendenkt.
+
+#### Kann der Staat Parallelgesellschaften aufbrechen?
+
+[▶ 193:39](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=11619) — Mau mag den Begriff nicht — *„die obersten 10.000 sind natürlich auch eine Parallelgesellschaft"*. Aber die Frage trifft etwas: Die Forschung zu ethnischen Vorurteilen zeigt eindeutig — *je intensiver der Kontakt, desto geringer die Vorurteile*. Gute Durchmischung (Wohnraumpolitik, Belegungspolitik, Daseinsvorsorge, Arbeitsmarktintegration) ist der beste Prädiktor für gelungene Integration. Auf die provokante Neukölln-Frage antwortet Mau ehrlich: *„Ich bin zu selten in Neukölln, um da kompetent zu sein. Es war auch eine unfaire Frage."*
+
+#### Resonanz auf *Lütten Klein*
+
+[▶ 198:57](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=11937) — Mau erzählt biographisch: *Lütten Klein* ist *nicht* sein meistzitiertes, aber sein *meistgelesenes* Buch. Mehrere hundert Briefe, oft 10–20 Seiten lang. Lesungen in Plattenbaugebieten — Halle Neustadt, Hellersdorf. Im Chat schreibt jemand: *„Ich war auf der gleichen Schule wie Steffen — es stimmt alles."* Diese Resonanz war Mau wichtig als *Realitätscheck*. Sein Ziel: die DDR weder als reine Diktatur abhaken noch nostalgisch verklären — *„DDR-Diktatur sozialisiert" und „Transformationstrauma" als Erklärung erklären beide allein nichts.*
+
+#### „Menschen stillgelegt" — eine Generationen-Diagnose
+
+[▶ 202:48](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=12168) — Zitat aus *Lütten Klein*: *„So wie Betriebe wurden auch Menschen in ihren beruflichen Biografien stillgelegt."* Frage: Gilt das für ganze Generationen?
+
+Mau bestätigt: Es war massive *Generationsschichtung*. Eine fast unvorstellbare Statistik: Innerhalb von 2,5 Jahren gingen *75 % der ostdeutschen Industriearbeitsplätze* verloren, *80 % aller ostdeutschen Familien* erlebten bis 1995 Langzeitarbeitslosigkeit. *Anderthalb Millionen* wurden vorzeitig in den Vorruhestand geschickt — bei einer Erwerbsbevölkerung von ~10 Millionen. *„Wenn morgen jemand käme und sagte: Du bist jetzt stillgestellt, du kommst in ein biografisches Moratorium, du wirst eigentlich nie wieder relevante Verwendung finden — das muss man auch erstmal mental verkraften."*
+
+#### Trauma-Weitergabe — Warum hatte Ostdeutschland kein 68er?
+
+[▶ 205:51](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=12351) — Maus interessante These: 68er war im Westen eine *Herausforderung der Eliten* durch die Nachkriegsgeneration. In Ostdeutschland *waren die Eliten und die Generation der Altvorderen* (NS-Belastete) *bereits abgeräumt*. Das hat eine Art *Stockholmsyndrom* befördert: Die Nachfolgegenerationen entwickelten *Mitgefühl* mit ihren Eltern als Opfern statt sie zu konfrontieren. Das *generationale Auseinandersetzungsdefizit* wirkt bis heute. *„Da gibt's ja so Bücher von Anne Rabe, das findet jetzt ein bisschen statt — aber lange Zeit war das ein Beschweigen."*
+
+#### Wissenschaft und Öffentlichkeit — wie verhindere ich Vereinnahmung?
+
+[▶ 207:23](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=12443) — Mau beschreibt sein eigenes Modell: *„Halbwegs öffentlicher Soziologe"* — Öffentlichkeit suchen, wenn man wirklich was zu sagen hat, aber kein *„Allerweltssoziologe"* sein. Russland-Ukraine-Krieg, Palästina-Konflikt: Hat er Meinungen zu, *„auch starke"*, würde sie aber öffentlich *nicht positionieren*. Das ist nicht Zurückhaltung aus Angst, sondern wissenschaftliche Selbstdisziplin: Auf das beschränken, wofür man fachlich einstehen kann.
+
+#### Kriegssoziologie — was wissen wir über Gewaltexzesse?
+
+[▶ 208:55](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=12535) — Eine erstaunliche Antwort: Es gibt sie, aber in Friedenszeiten ist sie schwach gefördert worden. Mau verweist auf **Hans Joas** und **Wolfgang Knöbl** (Hamburger Institut für Sozialforschung). Vor dem Hintergrund des Hamas-Angriffs auf Israel betont er einen Strang, der die *Gewaltexzesse* und *Blutrausch-Zustände* untersucht — Phänomene, die *kausal-deterministisch* nicht erklärbar sind. *„Da muss etwas anderes noch dazu kommen — wie spontane, fast rauschhafte Zustände entstehen können."* Die Brücke zur Sozialpsychologie.
+
+#### Precht / Cancel Culture
+
+[▶ 211:11](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=12671) — Mau kennt den konkreten Fall (Prechts Rücktritt von der Honorarprofessur) nicht im Detail. Allgemein: Er sei *Freund der freien Rede* und unterschiedlicher Positionen — *„auch ein bisschen aus DDR-Erfahrung."* Es gebe Positionen, die er für nicht satisfaktionsfähig hält (das N-Wort, rassistische Äußerungen). Aber ansonsten skeptisch gegenüber pauschalem Abräumen. Auf Nachfrage zu Prechts Lanz-Aussagen: *„Die einzige Frage, die man sich stellen sollte, ist, warum ein Richard David Precht überhaupt eine Honorarprofessur braucht."*
+
+#### Woher kommt der Begriff „Trigger"?
+
+[▶ 213:28](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=12808) — Mau bestätigt: nicht aus der Trauma-Psychologie, sondern aus der *Waffenkunde* (der Abzug) und der *Körpertherapie* (Triggerpunkte als Druck- und Verspannungszonen). Genau diese körperliche Metapher trägt das Buch: *„neuralgische, inflammatorische Zonen der Gesellschaft, wo Erregungszustände — positive wie negative Gefühle — entstehen."*
+
+#### Ist DDR-Deutschnationalismus ein Wurzelboden für heute?
+
+[▶ 214:59](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=12899) — Mau sagt überraschend klar: *„Ja. In der DDR konnte man Deutscher sein, stärker als in der Bundesrepublik der 80er Jahre."* Trotz aller offiziellen Völkerfreundschafts-Rhetorik prägte und pflegte die DDR ein DDR-spezifisches Deutsch-Sein — *„auf dem sich dann später nochmal was entwickeln konnte."* Rechte Netzwerke und Neonazi-Jugendszenen seien in der späten DDR *sehr stark* gewesen.
+
+#### Ziviler Ungehorsam, Bedingungsloses Grundeinkommen, Wagenknecht
+
+[▶ 217:18](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=13038) — Schneller Durchlauf:
+
+- **Ziviler Ungehorsam:** Legitimes politisches Mittel, solange keine Angriffe auf Personen/Sachen.
+- **Bedingungsloses Grundeinkommen (BGE):** Skeptisch. Er sieht die *befreiende Dimension*, aber: ~800 Milliarden pro Jahr, *zwei Sozialsysteme parallel*, die Höhe würde zum politischen Spielball. *„Ich bin vielleicht zu sehr traditioneller Sozialstaats-Anhänger."*
+- **Wagenknecht (BSW, 2023):** Erster Auftritt *moderater* als erwartet. Bestimmtes Potenzial. Ob es trägt mit etablierter Organisation und einem Programm über 25–30 Seiten — *„das muss ich erst noch zeigen."*
+
+> [!question] Weitergedacht
+> Wenn Mau zeigt, dass die ostdeutsche *„Veränderungserschöpfung"* nicht aus Armut, sondern aus realer Transformationserfahrung stammt — *was bedeutet das für die aktuelle Klimadebatte? Verlangt eine echte ökologische Transformation nicht genau jene Erschütterung von Lebensgrundlagen, deren erste Welle in den 90ern halbe Familien zerlegt hat?*
+
+---
+
 ### Sortiermaschinen — Grenzen im 21. Jahrhundert
 
 [▶ 198:11](https://www.youtube.com/watch?v=Xx_VaB_dqZA&t=11891) — In den 80er Jahren waren 5% aller Landgrenzen weltweit fortifiziert. Heute sind es 20%. Paradox: Genau als die Berliner Mauer fiel, begannen weltweit neue Grenzen zu entstehen. Europa, einst als „Festung" verspottet, hat heute fast keine nicht-fortifizierte Außengrenze mehr.

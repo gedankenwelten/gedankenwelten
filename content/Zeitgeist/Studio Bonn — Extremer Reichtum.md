@@ -267,6 +267,10 @@ GCA #27 erklärt, warum Kühnerts klare Forderungen in Studio Bonn politisch fol
 
 ---
 
+### → [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
+
+Hartmann liefert den soziologischen Rahmen für das, was Studio Bonn im konkreten Fall zeigt: 80% der deutschen Milliardenvermögen stammen aus Erbschaft (nicht Eigenleistung), Studienstiftung erreicht echte Machteliten nicht. Engelhorns freiwillige Umverteilung ist bei Hartmann kein strukturelles Gegenmodell — er bleibt skeptisch: ohne Kontrolle und Regulierung ändern gute Beispiele nichts an der Machtverteilung.
+
 ### → [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
 
 Wesche kommt von der Eigentumstheorie zum selben Befund: Eigentumsrecht ist nicht nur Freiheitsrecht, sondern strukturiert Entscheidungsmacht — wer viel besitzt, entscheidet über mehr. Die Naturrechts-These radikalisiert das: Wenn die Natur selbst Eigentümerin ist, monetarisieren Konzerne wie RWE fremdes Eigentum. Das Vermögensungleichheitsproblem (Engelhorn, Studio Bonn) vertieft sich in einen Eigentumskonflikt zwischen Menschen und Natur.
