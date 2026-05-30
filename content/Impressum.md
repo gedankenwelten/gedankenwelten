@@ -1,6 +1,6 @@
 ---
 title: Impressum
-date: 2026-04-05
+date: 2026-05-30
 tags: []
 ---
 
@@ -9,15 +9,17 @@ tags: []
 Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz):
 
 **Andreas Schmieder**<br>
-Hebelstr. 1<br>
-79104 Freiburg im Breisgau
+c/o IP-Management #10397<br>
+Ludwig-Erhard-Str. 18<br>
+20459 Hamburg
 
 **E-Mail:** [luc@gedankenwelten.net](mailto:luc@gedankenwelten.net)
 
 ---
 
-Verantwortlicher für den Inhalt nach § 18 Abs. 2 MStV:
+Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:
 
 **Andreas Schmieder**<br>
-Hebelstr. 1<br>
-79104 Freiburg im Breisgau
+c/o IP-Management #10397<br>
+Ludwig-Erhard-Str. 18<br>
+20459 Hamburg

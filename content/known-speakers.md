@@ -44,11 +44,17 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Albert Moukheiber
 **Status:** Stub
 
+## Anabel Ternès von Hattburg
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Anabel Ternes von Hattburg]]
+
 ## Annika Brockschmidt
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Annika Brockschmidt]]
 
 ## Alex Demirović
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Alex Demirovic]]
+
+## Alena Buyx
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Alena Buyx]]
 
 ## Aladin El-Mafaalani
 **Status:** Stub
@@ -272,6 +278,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Kojin Karatani
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kojin Karatani]]
+
+## Kolja Möller
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kolja Moeller]]
 
 ## Konstantin Flemig
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Konstantin Flemig]]

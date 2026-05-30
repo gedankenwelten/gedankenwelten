@@ -42,9 +42,6 @@ Benecke benennt das Phänomen als *Baseline Shift*: Wer nie eine Wiese voller In
 
 [▶ 9:06](https://www.youtube.com/watch?v=W27dbdQlyNA&t=546) — Einer der stärksten Momente des Vortrags: Benecke zeigt eine Science-Veröffentlichung von 1975, in der ein Kollege der Columbia University die Erwärmung mit verblüffender Genauigkeit voraussagte. Die Temperaturkurve, die der Forscher damals berechnete — mit den begrenzten Rechnerkapazitäten der 1970er — entspricht nahezu exakt dem, was wir heute messen.
 
-![Temperaturvorhersage 1975 — Columbia University](attachments/benecke-umwelt-2026/Temperaturabweichung-langfristig.jpg)
-*Langfristige Temperaturabweichung: Die 1975 vorhergesagte Kurve trifft die Realität.*
-
 > *„Lasst euch nicht erzählen, dass irgendeiner das nicht gewusst hätte. Eure Eltern und Großeltern, solange die Zugang zu Bildung hatten und Fernsehen geguckt haben, wussten das auch."* [▶ 15:57](https://www.youtube.com/watch?v=W27dbdQlyNA&t=957)
 
 [▶ 12:07](https://www.youtube.com/watch?v=W27dbdQlyNA&t=727) — Derselbe Kollege legte 1997 in einer weniger bekannten Zeitschrift nach und prognostizierte den CO₂-Gehalt für 2025 bei „irgendwas über 400 ppm". Die tatsächlichen Werte, die Benecke bis zum 3. Mai 2026 von der NOAA herunterlud: exakt dieser Bereich. Die Vorhersage war nicht nur qualitativ, sondern quantitativ richtig — über fast 50 Jahre hinweg.
@@ -57,9 +54,6 @@ Benecke benennt das Phänomen als *Baseline Shift*: Wer nie eine Wiese voller In
 ## CO₂ — Die unwiderlegbare Kurve
 
 [▶ 14:26](https://www.youtube.com/watch?v=W27dbdQlyNA&t=866) — Benecke zeigt die täglichen globalen CO₂-Daten des Global Monitoring Laboratory (NOAA/Mauna Loa). Die Kurve steigt ungebrochen — und zwar genau so, wie vor Jahrzehnten berechnet.
-
-![CO₂ Mauna Loa — Daily Global](attachments/benecke-umwelt-2026/CO2-Mauna-Loa-Daily-Global.jpg)
-*Daily Global CO₂ (Global Monitoring Laboratory): Barrow, Mauna Loa, American Samoa, Südpol — alle Messstellen zeigen denselben Anstieg. Stand Mai 2026: 427,63 ppm.*
 
 Ein beunruhigendes Detail: Am Tag des Vortrags (9. Mai 2026) waren die Mauna-Loa-Daten plötzlich nicht mehr abrufbar. Benecke hofft, dass „sie denen nicht den Saft abgedreht haben" — die US-Regierung hatte angekündigt, dass die Erhebung von CO₂-Daten „nicht mehr erwünscht" sei. Die Washington Post wich für ihren El-Niño-Bericht bereits auf europäische Daten aus.
 
@@ -74,17 +68,11 @@ Ein beunruhigendes Detail: Am Tag des Vortrags (9. Mai 2026) waren die Mauna-Loa
 
 [▶ 20:32](https://www.youtube.com/watch?v=W27dbdQlyNA&t=1232) — Mit einer detaillierten Visualisierung von Peter Carter zeigt Benecke, wo wir im Spektrum der IPCC-Szenarien stehen: im Worst Case (SSP5-8.5). Die Modelle haben sich noch nicht weit aufgespalten, aber der Trend ist eindeutig.
 
-![IPCC Worst Case Szenario](attachments/benecke-umwelt-2026/IPCC-Worst-Case-Szenario.jpg)
-*Detailansicht der IPCC-Modelle: Die gemessenen Werte folgen dem schlimmsten Szenario.*
-
 > *„Alle ölfördernden Länder haben gesagt: Wir werden jeden Tropfen Öl fördern bis zum letzten Tropfen. Das haben nicht nur die arabischen gesagt, sondern auch die nordischen Länder in Europa."* [▶ 22:49](https://www.youtube.com/watch?v=W27dbdQlyNA&t=1369)
 
 Das IPCC selbst berichtet das nicht in dieser Deutlichkeit. Benecke erklärt warum: Damit die ölfördernden Staaten die Erklärungen mitunterschreiben, wurde der Ton „ein bisschen mild". Diplomatische Rücksichtnahme auf Staaten, die aktiv die Zerstörung vorantreiben, verwässert die Kommunikation der Dringlichkeit.
 
 [▶ 63:02](https://www.youtube.com/watch?v=W27dbdQlyNA&t=3782) — Ed Hawkins (University of Reading) hat die Klimastreifen um Zukunftsszenarien erweitert: Selbst bei „Rapid Action" landen wir in einer 2°C-Welt — die man nach dem Pariser Abkommen „auf gar keinen Fall" erreichen wollte. Bei „Delayed Action" — dem, was tatsächlich passiert — landen wir bei 3°C oder mehr. Im Worst Case in einer „tiefvioletten Welt, wo die menschlichen Kulturen, die wir kennen, absolut ausgeschlossen sind".
-
-![Klimastreifen mit Zukunftsszenarien — Ed Hawkins](attachments/benecke-umwelt-2026/Klimastreifen-Zukunftsszenarien-Hawkins.jpg)
-*Ed Hawkins' erweiterte Klimastreifen: Rapid Action → 2°C, Delayed Action → 3°C+, Worst Case → unbewohnbar.*
 
 ---
 
@@ -92,15 +80,9 @@ Das IPCC selbst berichtet das nicht in dieser Deutlichkeit. Benecke erklärt war
 
 [▶ 23:37](https://www.youtube.com/watch?v=W27dbdQlyNA&t=1417) — Die Ozeantemperaturen erreichen 2025 „All-Time High Levels with no Insight". Das PIK Potsdam meldet: 50–64% der gigantischen Hitzewellen sind durch die Erwärmung der Küstengewässer getrieben — nicht einfach durch Sonneneinstrahlung.
 
-![Ozeantemperaturen All-Time High](attachments/benecke-umwelt-2026/Ozeantemperaturen-All-Time-High.jpg)
-*Globale Ozeantemperaturen: neue Höchststände ohne Aussicht auf Rückkehr.*
-
 [▶ 40:19](https://www.youtube.com/watch?v=W27dbdQlyNA&t=2419) — Die Kipppunkte, für die „Letzte Generation und Extinction Rebellion immer belächelt wurden", sind jetzt messbar eingetreten. Der riesige Eisberg A23A löste sich und schmolz innerhalb von zwei Jahren vollständig. Die „Doomsday Glaciers" zeigen erstmals seismische Erschütterungen — Vorzeichen für schnelles, schlagartiges Schmelzen.
 
 [▶ 54:44](https://www.youtube.com/watch?v=W27dbdQlyNA&t=3284) — Die arktische Eismenge liegt 2026 unterhalb aller jemals gemessenen Werte. Japanisches Polar Research Institute, europäische Messstationen, Sam Carana — alle zeigen: Record Low.
-
-![Arktis Eismenge historisch](attachments/benecke-umwelt-2026/Arktis-Eismenge-historisch.jpg)
-*Tägliche arktische Eisfläche: 2026 liegt konstant unter allen bisherigen Messungen.*
 
 Der Meeresspiegel wurde obendrein falsch gemessen — er ist „viel, viel höher, als wir Anfang des Jahres noch dachten" (Yale University, April 2026). Dutzende Millionen Menschen, die als sicher galten, sind von Überflutung bedroht.
 
@@ -112,15 +94,9 @@ Der Meeresspiegel wurde obendrein falsch gemessen — er ist „viel, viel höhe
 
 [▶ 49:26](https://www.youtube.com/watch?v=W27dbdQlyNA&t=2966) — Der Dürremonitor des Helmholtz-Zentrums zeigt Deutschland in tiefvioletter außergewöhnlicher Dürre — und die Skala beginnt bereits bei „ungewöhnlich trocken". Von Normalzustand ist keine Rede mehr.
 
-![Dürremonitor Deutschland](attachments/benecke-umwelt-2026/Duerremonitor-Deutschland.jpg)
-*Dürremonitor des Helmholtz-Zentrums: Deutschland in außergewöhnlicher Winterdürre.*
-
 Brandenburg und Berlin: 10. April 2026, schon im Frühling zu trocken — obwohl es im Winter „so viel Schnee" gab. Aber der Schnee reicht nicht mehr, um den Wasserverlust auszugleichen. „Die ganze Erde trocknet uns komplett weg."
 
 [▶ 51:41](https://www.youtube.com/watch?v=W27dbdQlyNA&t=3101) — Eine der eindringlichsten Visualisierungen des Vortrags: Wenn man die Erwärmungsgeschwindigkeit nicht als glatte Kurve darstellt, sondern die Rohdaten betrachtet, sieht man keine graduelle Erwärmung — sondern einen **Stufensprung** um 2012/2013.
-
-![Erwärmungsgeschwindigkeit — Stufensprung](attachments/benecke-umwelt-2026/Erwaermungsgeschwindigkeit-Stufensprung.jpg)
-*Rate of Global Warming: Kein gradueller Anstieg, sondern ein Stufensprung — der Kipppunkt in den Daten.*
 
 > *„Es ist wie in so einer kaputten Beziehung, wo man sagt, mein Partner überschreitet jede rote Linie, und ich wäre schon mal froh, wenn die zehnte rote Linie wieder zurückgenommen würde bis zur neunten."* [▶ 84:20](https://www.youtube.com/watch?v=W27dbdQlyNA&t=5060)
 
@@ -134,9 +110,6 @@ Die Studie dahinter stammt von einer internationalen Arbeitsgruppe: Brüssel, Ox
 ## Albedo und die sich selbst verstärkende Spirale
 
 [▶ 66:04](https://www.youtube.com/watch?v=W27dbdQlyNA&t=3964) — Die Rückstrahlungskraft (Albedo) der Erde sinkt mit derselben rasanten Geschwindigkeit wie alle anderen Messwerte steigen. Weniger Eis und Schnee bedeuten weniger Reflexion der Sonnenstrahlung, was zu mehr Erwärmung führt, die noch mehr Eis schmelzen lässt.
-
-![Albedo Rückstrahlungskraft 2003-2026](attachments/benecke-umwelt-2026/Albedo-Rueckstrahlungskraft-2003-2026.jpg)
-*Albedo: Die Rückstrahlungskraft der Erde sinkt seit 2003 stetig — ein sich selbst verstärkender Kreislauf.*
 
 Die Kombination aus Regen in der Antarktis, falsch geschätztem Meeresspiegel, Methan-Freilegung aus dem Permafrost und wegschmelzender Albedo erzeugt „ineinandergreifende, kaskadierende, sich vernetzende kipppunktartige Vorgänge" — die jetzt alle gleichzeitig messbar vorliegen, „in der schlimmstmöglichen Weise".
 
