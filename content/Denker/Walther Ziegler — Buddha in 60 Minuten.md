@@ -18,7 +18,7 @@ Quelle: [Buddha in 60 Minuten](https://www.youtube.com/watch?v=4xrc6ZFEHb0)
 > [!info] Wer spricht?
 > **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Buchreihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen (und östlichen) Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorlesungen verbinden akademische Strenge mit lebendigen Alltagsbeispielen.
 >
-> → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
+> → [[DenkerVita/Walther Ziegler|DenkerVita]]
 
 ---
 

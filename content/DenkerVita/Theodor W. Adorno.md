@@ -66,11 +66,11 @@ Adorno war Marxist in dem Sinne, dass er den Kapitalismus als strukturelles Grun
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Mitglied der Frankfurter Schule; teilte die Kapitalismuskritik, aber setzte auf die Liebesfähigkeit des Menschen als Ausweg — genau das, was Adorno für verloren hielt
-- [[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel]] — Adornos wichtigster Gesprächspartner: „Das Ganze ist das Unwahre" kehrt Hegels „Das Wahre ist das Ganze" um. Adorno denkt mit Hegel gegen Hegel
-- [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]] — Beide sind Kulturpessimisten, beide sehen im Leiden die Grundwahrheit der Existenz. Aber Schopenhauer sucht den Ausweg in der individuellen Askese, Adorno in der gesellschaftlichen Kritik
-- [[Gedankenwelten/DenkerVita/Michel Foucault]] — Beide analysieren Herrschaft als in Institutionen und Sprache eingebettet, nicht nur als offene Gewalt. Foucaults „Diskurs" und Adornos „Verblendungszusammenhang" sind Geschwister
-- [[Gedankenwelten/DenkerVita/Niklas Luhmann]] — Luhmann beobachtet Gesellschaft als System von außen, ohne normativen Anspruch — das exakte Gegenteil von Adornos kritischer Theorie, die immer urteilt
+- [[DenkerVita/Erich Fromm]] — Mitglied der Frankfurter Schule; teilte die Kapitalismuskritik, aber setzte auf die Liebesfähigkeit des Menschen als Ausweg — genau das, was Adorno für verloren hielt
+- [[DenkerVita/Georg Wilhelm Friedrich Hegel]] — Adornos wichtigster Gesprächspartner: „Das Ganze ist das Unwahre" kehrt Hegels „Das Wahre ist das Ganze" um. Adorno denkt mit Hegel gegen Hegel
+- [[DenkerVita/Arthur Schopenhauer]] — Beide sind Kulturpessimisten, beide sehen im Leiden die Grundwahrheit der Existenz. Aber Schopenhauer sucht den Ausweg in der individuellen Askese, Adorno in der gesellschaftlichen Kritik
+- [[DenkerVita/Michel Foucault]] — Beide analysieren Herrschaft als in Institutionen und Sprache eingebettet, nicht nur als offene Gewalt. Foucaults „Diskurs" und Adornos „Verblendungszusammenhang" sind Geschwister
+- [[DenkerVita/Niklas Luhmann]] — Luhmann beobachtet Gesellschaft als System von außen, ohne normativen Anspruch — das exakte Gegenteil von Adornos kritischer Theorie, die immer urteilt
 
 ## Cortex-Notes
 

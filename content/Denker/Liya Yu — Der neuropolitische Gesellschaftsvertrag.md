@@ -23,7 +23,7 @@ Quelle: [Neuropolitics with Dr. Liya Yu | Nu Rho Psi 2025 Keynote](https://www.y
 > Wichtigste Werke: *Vulnerable Minds* (2022), *Hirn statt Moral* (2026)
 > Kernkonzepte: Neuropolitik, Mentalisierung, Dehumanisierung, In-Group/Out-Group-Erweiterung
 >
-> → [[Gedankenwelten/DenkerVita/Liya Yu|DenkerVita]]
+> → [[DenkerVita/Liya Yu|DenkerVita]]
 
 ---
 

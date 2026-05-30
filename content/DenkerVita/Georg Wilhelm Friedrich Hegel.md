@@ -116,9 +116,9 @@ Hegel ist politisch nicht eindeutig einzuordnen — und genau das macht ihn so w
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Michel Foucault]] — historisiert wie Hegel, aber ohne teleologischen Optimismus; für Foucault gibt es keinen Weltgeist, nur Machtdispositive
-- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromms Entfremdungsbegriff wurzelt in der Hegel-Marx-Tradition; die Unterscheidung Haben/Sein berührt Hegels Selbstentfaltung des Geistes
-- [[Gedankenwelten/DenkerVita/Niklas Luhmann]] — Systemtheorie als Alternative zum Hegelianismus: Luhmann ersetzt die dialektische Einheit durch funktionale Differenzierung
+- [[DenkerVita/Michel Foucault]] — historisiert wie Hegel, aber ohne teleologischen Optimismus; für Foucault gibt es keinen Weltgeist, nur Machtdispositive
+- [[DenkerVita/Erich Fromm]] — Fromms Entfremdungsbegriff wurzelt in der Hegel-Marx-Tradition; die Unterscheidung Haben/Sein berührt Hegels Selbstentfaltung des Geistes
+- [[DenkerVita/Niklas Luhmann]] — Systemtheorie als Alternative zum Hegelianismus: Luhmann ersetzt die dialektische Einheit durch funktionale Differenzierung
 
 ---
 

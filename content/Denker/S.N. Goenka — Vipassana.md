@@ -14,7 +14,7 @@ aliases:
 
 # S.N. Goenka — Vipassana
 
-→ DenkerVita: [[Gedankenwelten/DenkerVita/S.N. Goenka]]
+→ DenkerVita: [[DenkerVita/S.N. Goenka]]
 
 Quelle: Abendliche Dhamma-Diskurse, 10-Tages-Kurs (Deutsch)
 Diskurse: [dhamma.org — Aufnahmen](https://discourses.dhamma.org/recordings/discourses?languages%5Biso_code%5D=de&event_days%5Bshortcode%5D=)

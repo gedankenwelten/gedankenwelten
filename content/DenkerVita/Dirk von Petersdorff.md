@@ -79,7 +79,7 @@ Petersdorff ist kein politischer Denker im engeren Sinne, aber seine Positionen 
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Niklas Luhmann]] — Kontingenzbegriff als theoretisches Fundament für Petersdorffs Ironie-Konzept
+- [[DenkerVita/Niklas Luhmann]] — Kontingenzbegriff als theoretisches Fundament für Petersdorffs Ironie-Konzept
 - Richard Rorty — Entwurf der Ironikerin als philosophische Basis
 - Hans Magnus Enzensberger — Gemeinsame Tübinger Poetik-Dozentur 2013; engagierte Lyrik vs. ironische Leichtigkeit
 - Michel de Montaigne — *(Verbindung ausstehend)*
@@ -88,4 +88,4 @@ Petersdorff ist kein politischer Denker im engeren Sinne, aber seine Positionen 
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]
+- [[Zeitgeist/Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]

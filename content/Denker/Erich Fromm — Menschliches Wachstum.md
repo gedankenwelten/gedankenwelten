@@ -25,7 +25,7 @@ Quelle: [Erich Fromm – Menschliches Wachstum (Vortrag, 1971)](https://www.yout
 >
 > Wichtigste Werke: *Die Furcht vor der Freiheit* (1941), *Die Kunst des Liebens* (1956), *Haben oder Sein* (1976)
 > Kernkonzepte: Haben-Modus / Sein-Modus, Entfremdung, biophile vs. nekrophile Orientierung, gesellschaftliches Unbewusstes
-> → [[Gedankenwelten/DenkerVita/Erich Fromm|DenkerVita]]
+> → [[DenkerVita/Erich Fromm|DenkerVita]]
 
 ---
 

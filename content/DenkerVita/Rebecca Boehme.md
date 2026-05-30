@@ -57,8 +57,8 @@ Böhme vertritt keine explizit politische Position, argumentiert aber klar für 
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Albert Moukheiber|Albert Moukheiber]] — Forscht ebenfalls an der Konstruiertheit von Wahrnehmung; Böhme ergänzt die Interventions-Perspektive (wie ändert man Modelle aktiv?)
-- [[Gedankenwelten/DenkerVita/Claus-Christian Carbon|Claus-Christian Carbon]] — Vertritt stärkeren Konstruktivismus; Böhme distanziert sich explizit von der „Halluzinations"-These
+- [[DenkerVita/Albert Moukheiber|Albert Moukheiber]] — Forscht ebenfalls an der Konstruiertheit von Wahrnehmung; Böhme ergänzt die Interventions-Perspektive (wie ändert man Modelle aktiv?)
+- [[DenkerVita/Claus-Christian Carbon|Claus-Christian Carbon]] — Vertritt stärkeren Konstruktivismus; Böhme distanziert sich explizit von der „Halluzinations"-These
 - Karl Friston — Begründer des Predictive Processing / Free Energy Principle, auf dem Böhmes Arbeit aufbaut
 - Daniel Kahneman — psychologische Evidenz für kognitive Biases, die Böhmes neurowissenschaftliche Erklärungen ergänzen
 

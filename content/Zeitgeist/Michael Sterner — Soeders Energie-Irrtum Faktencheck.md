@@ -19,7 +19,7 @@ Quelle: [Söders Energie-Irrtum? Der fundierte Faktencheck](https://www.youtube.
 > [!info] Wer spricht?
 > **Michael Sterner** (*1974*) — Professor für Energiespeicher und Energiesysteme an der OTH Regensburg. Mitentwickler des Power-to-Gas-Konzepts, Mitglied des Bayerischen Energiebeirats. Autor zweier Standardwerke zu Energiespeichern bei Springer. Ist persönlich mit Katharina Reiche aneinandergeraten, als sie Texte von ihm strich — erst die Androhung von Öffentlichkeit und Klage stellte seine wissenschaftliche Freiheit wieder her.
 >
-> → [[Gedankenwelten/DenkerVita/Michael Sterner|DenkerVita]]
+> → [[DenkerVita/Michael Sterner|DenkerVita]]
 
 ---
 
@@ -197,43 +197,43 @@ Söder hat einen Begriff richtig verwendet: "Realität". Nur ist die Realität n
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade|Sterner — Energiewende-Studie und Reiche-Blockade]]
+### → [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade|Sterner — Energiewende-Studie und Reiche-Blockade]]
 
 Direkte Vorläufer-Note: Sterner deckt auf, wie das BMWK eine eigene Studie zur regionalen Wertschöpfung durch Erneuerbare nicht kommuniziert — dasselbe Muster von politischem Verschweigen unbequemer Fakten, das auch diese Note adressiert.
 
-### → [[Gedankenwelten/Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft|Sterner — Reiche gegen Marktwirtschaft]]
+### → [[Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft|Sterner — Reiche gegen Marktwirtschaft]]
 
 Die Katharina-Reiche-Kritik zieht sich durch alle Sterner-Notes. Dort geht es um das StromVKG als Instrument gegen Batteriespeicher; hier um ihre Zustimmung zu Söders Energiepolitik als "mutig und richtig".
 
-### → [[Gedankenwelten/Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie|Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+### → [[Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie|Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 Buchinger widerlegt das Kernenergie-Narrativ von der Leyens empirisch (Kosten, Bauzeiten, Sicherheit) — Sterner wendet dieselbe Logik auf Söders bayerische Variante an. Beide zeigen: Die Kernkraft-Forderung ist eine Verzögerungsstrategie, keine ernsthafte Alternative.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus|MONITOR — Katharina Reiche und der E.ON-Lobbyismus]]
+### → [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus|MONITOR — Katharina Reiche und der E.ON-Lobbyismus]]
 
 Reiche erscheint in Sterners Faktencheck als konkrete Blockade des Netzpakets. Die MONITOR-Note dokumentiert denselben Mechanismus von außen: eine Wirtschaftsministerin, die wissenschaftliche Expertise ignoriert. Söder und Reiche sind zwei Seiten desselben politischen Blocks.
 
-### → [[Gedankenwelten/Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien|Energiesubventionen — Atomkraft vs. Erneuerbare Energien]]
+### → [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien|Energiesubventionen — Atomkraft vs. Erneuerbare Energien]]
 
 Sterners Argument, Kernkraft sei zu teuer, bekommt hier den historischen Beleg: 287 Mrd. € reale Subventionen über 67 Jahre für die Atomkraft, kein privatwirtschaftlich rentabler Business Case weltweit — genau die Kostendimension, auf die Sterner gegenüber Söder verweist.
 
-### → [[Gedankenwelten/Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende|Felix Goldbach — Batteriespeicher und die ignorierte Lösung]]
+### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende|Felix Goldbach — Batteriespeicher und die ignorierte Lösung]]
 
 Komplementäre Speicher-Perspektiven: Sterner zeigt Power-to-Gas und Biogas als Langzeitspeicher (der "bayerische Max"), Goldbach zeigt Batterien als kurzfristigen Ausgleich. Zusammen ergibt sich das vollständige Speicher-Portfolio, das Söders "Erneuerbare reichen nicht"-Argument entkräftet.
 
-### → [[Gedankenwelten/Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)|Claudia Kemfert — Die Fossilokratie]]
+### → [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)|Claudia Kemfert — Die Fossilokratie]]
 
 Kemferts "Fossilokratie"-Begriff trifft den Kern von Sterners Kritik: Wer auf Kernkraft und fossile Energien mit CCS setzt, macht Deutschland erpressbar — russisches Uran, nahöstliches Öl. Kemfert liefert den systematischen Begriff für das, was Sterner am konkreten Söder-Fall vorführt.
 
-### → [[Gedankenwelten/Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende]]
+### → [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende]]
 
 Sterners regionaler Wertschöpfungs-Gedanke (Erneuerbare als heimische Industrie gegen Importabhängigkeit) findet bei Zöckler seine politische Konsequenz: 40% der deutschen Erneuerbaren-Kapazität in Bürgerhand untermauert das Strauß-Argument (Autarkie als konservatives Kernanliegen) empirisch.
 
-### → [[Gedankenwelten/Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende]]
+### → [[Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende]]
 
 Der Presseclub verhandelt dieselbe Grundfrage — ist Reiches und Söders Kurs wirtschaftlich vernünftig oder Rückschritt? — aber aus journalistischer Metaperspektive statt wissenschaftlicher. Die Debatte über Netzausbau und Speicheralternativen spiegelt Sterners technische Argumentation im politischen Diskurs.
 
-### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
+### → [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
 
 Specht entzaubert denselben "Primärenergieirrtum" wie Sterner Söders Kernkraft-Mythos: Beide zeigen, wie falsche Kategorien politisch instrumentalisiert werden. Wo Sterner auf Söder und Bayern zoomt, liefert Specht die systemische Marktanalyse — Merit Order, Speicherblockaden, das chinesische Direktversorgungsmodell.
 

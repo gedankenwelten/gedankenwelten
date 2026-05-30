@@ -116,10 +116,10 @@ Er nutzt **marxistische Relationsanalyse** (Brecht), ohne sich ideologisch zu ve
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]] — Panel-Diskussion mit Pfeffer zur Vermögenskonzentration in Deutschland
-- [[Gedankenwelten/DenkerVita/Martyna Linartas]] — Ungleichheitsforscherin mit komplementärem Fokus: Erbengesellschaft, Unverdiente Ungleichheit
-- [[Gedankenwelten/DenkerVita/John Rawls]] — Theoretisches Fundament: Differenzprinzip, Schleier des Nichtwissens
-- [[Gedankenwelten/DenkerVita/Karl Marx]] — Relationale Perspektive auf Kapitalakkumulation, die Pfeffer empirisch aktualisiert
+- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Panel-Diskussion mit Pfeffer zur Vermögenskonzentration in Deutschland
+- [[DenkerVita/Martyna Linartas]] — Ungleichheitsforscherin mit komplementärem Fokus: Erbengesellschaft, Unverdiente Ungleichheit
+- [[DenkerVita/John Rawls]] — Theoretisches Fundament: Differenzprinzip, Schleier des Nichtwissens
+- [[DenkerVita/Karl Marx]] — Relationale Perspektive auf Kapitalakkumulation, die Pfeffer empirisch aktualisiert
 
 ---
 

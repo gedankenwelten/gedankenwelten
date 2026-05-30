@@ -8,7 +8,7 @@ aliases:
 
 # S.N. Goenka — DenkerVita
 
-→ Cortex-Notes: [[Gedankenwelten/Denker/S.N. Goenka — Vipassana]]
+→ Cortex-Notes: [[Denker/S.N. Goenka — Vipassana]]
 
 ---
 
@@ -174,25 +174,25 @@ Goenka betonte unermüdlich: Dies ist kein Buddhismus. Kein Ritual, kein Dogma, 
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Thich Nhat Hanh]] — Zeitgenossen aus verwandten Theravada-Wurzeln; Thay analysiert Leiden über Interbeing und Achtsamkeit im Alltag, Goenka über Körperempfindungen und stille Klausur. Thay ist Mönch und Dichter, Goenka Geschäftsmann und Techniker. Beide insistieren auf Nicht-Sektiererismus — aber auf ganz verschiedenen Wegen
-- [[Gedankenwelten/Denker/S.N. Goenka — Vipassana]] — Hauptnote zur Lehre: Die drei Säulen, der Mechanismus des Leidens, Anicca, Vedanā, Sankhāra
-- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromms Biophilie und Goenkas Mettā-Praxis beschreiben denselben Grundimpuls: Liebe als aktive Haltung, nicht als Emotion. Fromms *Haben oder Sein* ist die soziologische Beschreibung dessen, was Goenka als Tanhā (Verlangen) und Dvesha (Ablehnung) analysiert
-- [[Gedankenwelten/Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] — Ricard verbindet tibetische Meditation mit Neurowissenschaft; Goenka besteht auf der Theravada-Reinheit. Beide zeigen: Meditation ist empirisch überprüfbar
-- [[Gedankenwelten/Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas „stumme Welt" ist Goenkas blinde Reaktion auf Sankhāras; Resonanz ist die soziologische Entsprechung von Upekkhā — nicht Gleichgültigkeit, sondern offenes Empfangen
-- [[Gedankenwelten/Denker/Hans-Peter Dürr — Die neue Physik]] — Dürr kommt über die Quantenphysik zum selben Ergebnis: Es gibt keine Substanz. Was Buddha als Anattā und Anicca lehrte, bestätigt die Physik
+- [[DenkerVita/Thich Nhat Hanh]] — Zeitgenossen aus verwandten Theravada-Wurzeln; Thay analysiert Leiden über Interbeing und Achtsamkeit im Alltag, Goenka über Körperempfindungen und stille Klausur. Thay ist Mönch und Dichter, Goenka Geschäftsmann und Techniker. Beide insistieren auf Nicht-Sektiererismus — aber auf ganz verschiedenen Wegen
+- [[Denker/S.N. Goenka — Vipassana]] — Hauptnote zur Lehre: Die drei Säulen, der Mechanismus des Leidens, Anicca, Vedanā, Sankhāra
+- [[DenkerVita/Erich Fromm]] — Fromms Biophilie und Goenkas Mettā-Praxis beschreiben denselben Grundimpuls: Liebe als aktive Haltung, nicht als Emotion. Fromms *Haben oder Sein* ist die soziologische Beschreibung dessen, was Goenka als Tanhā (Verlangen) und Dvesha (Ablehnung) analysiert
+- [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] — Ricard verbindet tibetische Meditation mit Neurowissenschaft; Goenka besteht auf der Theravada-Reinheit. Beide zeigen: Meditation ist empirisch überprüfbar
+- [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas „stumme Welt" ist Goenkas blinde Reaktion auf Sankhāras; Resonanz ist die soziologische Entsprechung von Upekkhā — nicht Gleichgültigkeit, sondern offenes Empfangen
+- [[Denker/Hans-Peter Dürr — Die neue Physik]] — Dürr kommt über die Quantenphysik zum selben Ergebnis: Es gibt keine Substanz. Was Buddha als Anattā und Anicca lehrte, bestätigt die Physik
 
 ---
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Denker/S.N. Goenka — Vipassana]] — Hauptnote: Lehre, Technik, Mechanismus des Leidens, Verbindungen zu Arendt, Bonhoeffer, Platon, Dürr
-- [[Gedankenwelten/Denker/Vipassana — Anicca]] — Vergänglichkeit als Kernlehre
-- [[Gedankenwelten/Denker/Vipassana — Vedana]] — Körperempfindungen als Schlüssel
-- [[Gedankenwelten/Denker/Vipassana — Sankara]] — Mentale Konditionierungen
-- [[Gedankenwelten/Denker/Vipassana — Upekkha]] — Gleichmut
-- [[Gedankenwelten/Denker/Vipassana — Sila Samadhi Panna]] — Die drei Säulen
-- [[Gedankenwelten/Denker/Vipassana — Ānāpāna]] — Der Anker
-- [[Gedankenwelten/Denker/Vipassana — Dukkha]] — Das Leiden
-- [[Gedankenwelten/Denker/Vipassana — Anatta]] — Nicht-Selbst
-- [[Gedankenwelten/Denker/Vipassana — Metta]] — Liebende Güte
-- [[Gedankenwelten/Denker/Vipassana — Zehn Tage]] — Der Kursablauf
+- [[Denker/S.N. Goenka — Vipassana]] — Hauptnote: Lehre, Technik, Mechanismus des Leidens, Verbindungen zu Arendt, Bonhoeffer, Platon, Dürr
+- [[Denker/Vipassana — Anicca]] — Vergänglichkeit als Kernlehre
+- [[Denker/Vipassana — Vedana]] — Körperempfindungen als Schlüssel
+- [[Denker/Vipassana — Sankara]] — Mentale Konditionierungen
+- [[Denker/Vipassana — Upekkha]] — Gleichmut
+- [[Denker/Vipassana — Sila Samadhi Panna]] — Die drei Säulen
+- [[Denker/Vipassana — Ānāpāna]] — Der Anker
+- [[Denker/Vipassana — Dukkha]] — Das Leiden
+- [[Denker/Vipassana — Anatta]] — Nicht-Selbst
+- [[Denker/Vipassana — Metta]] — Liebende Güte
+- [[Denker/Vipassana — Zehn Tage]] — Der Kursablauf
