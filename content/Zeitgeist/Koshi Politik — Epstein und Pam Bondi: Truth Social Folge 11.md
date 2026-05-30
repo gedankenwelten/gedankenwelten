@@ -89,5 +89,5 @@ Inhaltliche Grundlage: Was ist in den Akten, über das Bondi nicht sprechen woll
 ### → [[Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration]]
 Fortsetzung: Bondis Entlassung und was daraus folgt — sie bleibt zur Aussage verpflichtet; Opferanwalt kommentiert.
 
-### → [[Gedankenwelten/Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Trumps Post-Muster: Selbst-Entlastung, Feind-Markierung (Massey als RINO), Loyalitätsprüfung (Bondi loben). Hagemeyers narzisstische Dynamik in komprimierter Form.

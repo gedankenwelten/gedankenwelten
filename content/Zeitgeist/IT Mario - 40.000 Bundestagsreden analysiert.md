@@ -24,7 +24,7 @@ Quelle: [40.000 Reden analysiert: Welche Partei ist WIRKLICH gefährlich?](https
 >
 > Einordnung: Techniker-Perspektive auf politische Sprache — keine Parteilinie, keine akademische Agenda. Wert liegt in der Transparenz und Reproduzierbarkeit, Grenze in der fehlenden politikwissenschaftlichen Validierung.
 >
-> → [[Gedankenwelten/DenkerVita/IT Mario|DenkerVita]]
+> → [[DenkerVita/IT Mario|DenkerVita]]
 
 ---
 
@@ -225,28 +225,28 @@ Der Bias ist real — hier wie dort. Die Frage ist nicht, ob er existiert. Die F
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
+### → [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
 Matthias Quents These, die AfD werde für die „Erlösung von der Komplexität" gewählt, deckt sich präzise mit IT Marios empirischem Befund: Komplexitätsreduktion ist eines der drei messbaren Populismus-Merkmale. Die MONITOR-Note liefert die politische Einordnung, IT Mario die quantitative Untermauerung.
 
-### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
+### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 Kemper weist Höckes Pseudonym durch linguistische Sprachmarker nach — ein vordigitales Äquivalent zu IT Marios KI-gestützter Rhetorik-Analyse. Beide nutzen Sprache als Beweis für politische Identität, mit verschiedenen Methoden aber ähnlichem Erkenntnisziel.
 
-### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 Spiegelverkehrte Perspektive: Nocun analysiert, wie KI rechte Propaganda *produziert* — IT Mario analysiert, wie KI rechte Rhetorik *misst*. Dasselbe Werkzeug, zwei entgegengesetzte Rollen. Zusammen ergibt sich ein vollständigeres Bild vom Verhältnis zwischen KI und politischer Sprache.
 
-### → [[Gedankenwelten/Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 Manow diagnostiziert den strukturellen Populismus-Nährboden (Souveränitätsverlust, Komplexitätsdruck), den IT Marios Populismus-Score auf Redeebene messbar macht. Theorie (Manow) und Empirie (IT Mario) schließen sich hier direkt zusammen.
 
-### → [[Gedankenwelten/Denker/Jonathan Haidt — Kann ein gespaltenes Amerika heilen]]
+### → [[Denker/Jonathan Haidt — Kann ein gespaltenes Amerika heilen]]
 Haidts Stammespsychologie erklärt, warum Antielitarismus und Antipluralismus so wirkmächtig sind: Wer das Stammesgefühl anspricht, gewinnt, weil das limbische System schneller reagiert als der präfrontale Kortex. Die drei Populismus-Merkmale sind Haidts Theorie in angewandter Form.
 
-### → [[Gedankenwelten/Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]]
+### → [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]]
 El-Mafaalanis Befund über wachsendes Misstrauen gegenüber Expertise erklärt das Dilemma von IT Marios Methode: Ein datengestützter Befund über die AfD wird von AfD-Wählern nicht als Argument wahrgenommen, sondern als Beweis für „Systemmedien".
 
-### → [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]]
+### → [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]]
 Beide teilen denselben epistemischen Ansatz: politische Analyse durch öffentlich zugängliche, methodisch transparente Daten — BissenBlaBla via internationale Indizes, IT Mario via offene Spreadsheets und Zenodo. Methodische Transparenz als gemeinsame Gegenstrategie.
 
-### → [[Gedankenwelten/Panorama/NoAfD]]
+### → [[Panorama/NoAfD]]
 Das Panorama bündelt das gesamte AfD-Analysecorpus des Cortex. IT Marios Datenanalyse ergänzt die qualitativen Analysen (Kemper, Quent, Manow) um eine quantitative Schicht — eine der wenigen empirisch gestützten Aussagen im Corpus.
 
 ---
@@ -260,5 +260,5 @@ Das Panorama bündelt das gesamte AfD-Analysecorpus des Cortex. IT Marios Datena
 > - PopBERT und IT Mario kommen zu vergleichbaren Ergebnissen auf verschiedenen Wegen. *Was sagt uns diese Konvergenz? Dass die Methode gut ist — oder dass das Ergebnis so offensichtlich ist, dass jeder Ansatz es findet?*
 > - *Dürfen wir auf Basis von KI-generierten Scores politische Urteile fällen — und wenn nein: warum vertrauen wir dann Meinungsumfragen, die ähnliche Schwächen haben?*
 
-### → [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
 Aus der Reflexion über dieses Video entstand der Gedanke zur elastischen Brandmauer: IT Marios AfD-Wortschatz-Überraschung und BSW-Befund als Beispiele für unbequeme Wahrheiten, die durch eine ehrliche Methode kommen — und damit zeigen, dass hier nicht nach Lager sortiert wird.

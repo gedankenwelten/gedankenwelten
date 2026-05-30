@@ -23,7 +23,7 @@ Quelle: [Yanis Varoufakis welcomes us to the age of Technofeudalism | FULL INTER
 > Wichtigste Werke: *The Global Minotaur* (2011), *Adults in the Room* (2017), *Technofeudalism: What Killed Capitalism* (2023)
 > Kernkonzepte: Cloud Capital, Cloud Rent, Technofeudalism, Globaler Minotaurus
 >
-> → [[Gedankenwelten/DenkerVita/Yanis Varoufakis|DenkerVita]]
+> → [[DenkerVita/Yanis Varoufakis|DenkerVita]]
 
 **Interviewerin:** Eshe Nelson, Wirtschaftsreporterin der New York Times (London).
 
@@ -190,7 +190,7 @@ Zwei Makroökonomen, die Big Tech aus verschiedenen Winkeln analysieren: Tooze b
 
 ObjectionAI — ein KI-System, das über Wahrheit richtet und nur Vermögenden zugänglich ist — ist Cloud Capital in seiner reinsten Form: kein Produktionsmittel, sondern ein Machtmittel, das Märkte umgeht und Tribut extrahiert. Varoufakis' These erklärt, warum Thiel solche Projekte bauen *kann*: weil QE-Liquidität Cloud Capital finanziert hat, das nun als feudale Infrastruktur fungiert.
 
-### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
+### → [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
 
 Zhao beschreibt denselben Mechanismus mit anderen Begriffen: Finanzkapitalismus als «ontologisches Verbrechen» (Handel mit Nichtseiendem) und als «neue Despotie» — den strukturellen Bund aus Technologie, Finanzkapital und Intermediären. Varoufakis nennt es Technofeudalism (Cloud Rent ersetzt Profit), Zhao nennt es strukturellen Kollaps der Demokratie von innen. Der Unterschied: Varoufakis diagnostiziert den Kapitalismus als bereits tot; Zhao sucht noch nach institutionellen Gegenmitteln.
 
@@ -198,10 +198,10 @@ Zhao beschreibt denselben Mechanismus mit anderen Begriffen: Finanzkapitalismus 
 
 Die politisch-biografische Ergänzung: Wo die IAI-Note den ökonomischen Mechanismus erklärt, zeigt das Exchange-Interview Varoufakis als historischen Akteur — Kindheit unter der Junta, Faschismus-Sequenz in zehn Stufen, Trump/Iran als Wendepunkt, Zypern als geopolitischer Brennpunkt.
 
-### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Marinić zitiert Technofeudalismus explizit als Erklärung für das Ohnmachtsgefühl der Bürger: Superreiche machen feudal, was sie wollen — das demokratische Versprechen verflüchtigt sich, und Meinungsfreiheitsdebatten werden zu Ohnmachtsschreien. Varoufakis' "produzierte Mittel der Verhaltensmodifikation" (Algorithmen) sind Steinkes "Durchlauferhitzer" in ökonomischer Beschreibung: Nicht neutral, sondern absichtlich so designt, dass sie Empörung maximieren statt deliberative Demokratie ermöglichen.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Kinyua und Kloiber zeigen Varoufakis' Cloud-Rent-These von unten: 20 $/Woche für 18-20 Stunden tägliche Data-Labor-Arbeit ist der Tribut, den die Cloudbesitzer aus dem Globalen Süden extrahieren — Cloud Capital in seiner archaischsten Form.

@@ -56,7 +56,7 @@ Er arbeitet an der Schnittstelle von Arbeitssoziologie, kritischer Theorie und �
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+- [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
 ---
 

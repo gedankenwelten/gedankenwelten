@@ -23,11 +23,11 @@ Quelle: [Geoökonomie NEU DENKEN — Christoph Hein](https://www.youtube.com/wat
 > Wichtigstes Werk: *Unsere Wirtschaft neu denken* (Brandstätter, 2025)
 > Kernkonzepte: Geoökonomie, Wirtschaft als geopolitische Waffe, multipolare Weltordnung, Asiens Aufstieg, wirtschaftliche Resilienz
 >
-> → [[Gedankenwelten/DenkerVita/Christoph Hein|DenkerVita]]
+> → [[DenkerVita/Christoph Hein|DenkerVita]]
 >
 > **Maja Göpel** (*1976*) — Politische Ökonomin, Transformationsforscherin, Gastgeberin des Podcasts **NEU DENKEN** (Mission Wertvoll).
 >
-> → [[Gedankenwelten/DenkerVita/Maja Goepel|DenkerVita]]
+> → [[DenkerVita/Maja Goepel|DenkerVita]]
 
 ---
 

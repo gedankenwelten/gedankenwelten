@@ -354,7 +354,7 @@ Bonhoeffers sozialisierter Dummer hat aufgehört, sich selbst zu entwerfen — e
 Dürr zeigt die physikalische Konsequenz von Bonhoeffers Diagnose: *„Wir können den Menschen degradieren, dass er wie ein Computer wirkt. Dann ist er kein Mensch mehr."* Bonhoeffer beschreibt, wie der Mensch sein Urteil verliert (sozial-psychologisch). Dürr beschreibt, was passiert, wenn eine ganze Gesellschaft den Menschen als Maschine behandelt — sie vernichtet seine Lebendigkeit und damit das Einzige, was ihn vom Unbelebten unterscheidet. Die Datenspeicher-Schule produziert Bonhoeffers Dumme.
 
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Bonhoeffers These der Dummheit als soziologisches Phänomen findet sich in Stefans Hegemon-Analyse wieder: Der Debile reagiert aus dem Stegreif
-- [[Gedankenwelten/Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]] — Henze zeigt die Kehrseite: Wenn Bonhoeffer zur inhaltsleeren Ikone wird, ist er für jeden verfügbar — auch für die Neue Rechte. Dummheit als soziale Entmächtigung erklärt, warum diese Vereinnahmung wirkt; Entkontextualisierung erklärt, warum sie möglich wurde.
+- [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]] — Henze zeigt die Kehrseite: Wenn Bonhoeffer zur inhaltsleeren Ikone wird, ist er für jeden verfügbar — auch für die Neue Rechte. Dummheit als soziale Entmächtigung erklärt, warum diese Vereinnahmung wirkt; Entkontextualisierung erklärt, warum sie möglich wurde.
 
 ---
 

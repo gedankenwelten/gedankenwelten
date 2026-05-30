@@ -21,7 +21,7 @@ Quelle: [1. Vorlesung: Friedrich Nietzsche: Über Wahrheit und Lüge (Philosophi
 >
 > Kernkonzepte: Wahrheit als stabilisierte Metapher, Doppelmetapher (Reiz→Bild→Wort), Begriffsmensch vs. intuitiver Mensch, Friedensschluss durch Sprache
 >
-> → [[Gedankenwelten/DenkerVita/Dominik Finkelde|DenkerVita]]
+> → [[DenkerVita/Dominik Finkelde|DenkerVita]]
 
 ---
 
@@ -161,6 +161,6 @@ Scobels Foucault-Behandlung thematisiert dieselbe Spannung: Kann man die Aufklä
 
 Die Gouvernementalitäts-Analyse ist eine direkte Anwendung von Nietzsches These: Wenn Wahrheit ein Produkt von Kräfteverhältnissen ist, dann sind Regierungstechniken immer auch Wahrheitsregime. Finkelde liefert die philosophische Grundlegung dafür.
 
-### → [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit]]
+### → [[Denker/scobel — Lyotard das Ende der Wahrheit]]
 
 Lyotard ist einer der Züge, die von Finkeldes "Drehscheibe Nietzsche" abfahren. Das postmoderne Misstrauen gegenüber Metaerzählungen ist die direkte Weiterführung von Nietzsches These: Wahrheit ist ein bewegliches Heer von Metaphern. Die Finkelde-Note vergleicht Nietzsche bereits mit Habermas — dieselbe Spannung, die auch den Lyotard-Habermas-Konflikt strukturiert.

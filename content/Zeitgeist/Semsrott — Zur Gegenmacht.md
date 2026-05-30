@@ -23,7 +23,7 @@ Quelle: [re:publica 26 — Zur Gegenmacht](https://www.youtube.com/watch?v=7waHk
 >
 > Dieser Vortrag erscheint am letzten Tag der re:publica 26 als Abschluss — und als Gegenprogramm zur politischen Lähmung.
 >
-> → [[Gedankenwelten/DenkerVita/Arne Semsrott|DenkerVita]]
+> → [[DenkerVita/Arne Semsrott|DenkerVita]]
 
 > [!tip] CC BY-SA 4.0
 > Dieser re:publica-Vortrag steht unter Creative Commons Attribution-ShareAlike 4.0 International.
@@ -232,31 +232,31 @@ Das Schlussbild: Zivilgesellschaftliches Engagement nicht als Bürgerpflicht ver
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Zeitgeist/Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 "Zur Gegenmacht" ist die strategische Antwort auf die dort dokumentierte Repressionsstrategie: Förderstopps, IFG-Einschränkungen, Extremismusklauseln. Hier sind Ursache und Gegenmittel — Semsrott benennt Freiheitsfonds, Gegenrechtsschutz und Transparenz als offensive Instrumente, nicht nur defensive Reaktion.
 
-### → [[Gedankenwelten/Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien]]
+### → [[Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien]]
 
 Semsrott fordert "neue Räume schaffen" — diese Note zeigt, was zerstört wird: systematische Medienkonzentration durch Kapital (Orbán: 80% der Medien, Bolloré, Musk). FragDenStaat als Transparenz-Infrastruktur ist das Gegenstück zur Medienkontrolle als Gegenmacht-Unterdrückung.
 
-### → [[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
+### → [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
 
 Schwan entwickelt "Gestaltungsmacht" als kooperative Kraft von oben (kommunale Beiräte, deliberative Institutionen). Semsrott denkt Gegenmacht von unten: Streik, Freiheitsfonds, direkte Solidarität ohne Staat. Schwans "Bürger sind keine Käufer"-These ist der Rahmen, in dem Semsrotts 4 Millionen Engagierte 2015 konzeptionell verortet werden können.
 
-### → [[Gedankenwelten/Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
+### → [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
 
 Quents "Hoffnung kommt vom Machen" und seine Kämpfer-These sind das Substrat von Semsrotts Gegenmacht-Konzept: Die 1.700 Freigekauten des Freiheitsfonds, die 4 Millionen Engagierten 2015 sind empirische Belege. Quent liefert den sozialwissenschaftlichen Unterbau für das, was Semsrott praktisch umsetzt — zusammen ergibt sich: Theorie der Ohnmacht + Praxis der Überwindung.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
+### → [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
 
 MONITOR diagnostiziert exakt das Problem, das Semsrott "Mehrheitslüge" nennt: Die Bevölkerung wählt nicht das, was ihr nützt, weil verzerrte Machtverhältnisse das Mögliche verdecken. Semsrott geht weiter — er zeigt, dass versteckte progressive Mehrheiten (Vermögenssteuer, Klimaschutz) existieren und sichtbar gemacht werden können.
 
-### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit?]]
+### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit?]]
 
 Steinke/Marinić analysieren, wie Staat und Justiz in den Meinungsraum eingreifen. Semsrott praktiziert das Gegenteil performativer Meinungsfreiheitsdebatten: Transparenz als Tat — Dokumente veröffentlichen, IFG-Anfragen stellen, Gerichtsentscheidungen trotz §353d publizieren. Die IFG-Einschränkung als direkte Staatsreaktion ist das beste Argument für die Dringlichkeit echter Handlungsräume.
 
-### → [[Gedankenwelten/Zeitgeist/Nico Semsrott — Bruessel sehen und sterben]]
+### → [[Zeitgeist/Nico Semsrott — Bruessel sehen und sterben]]
 
 Geschwister-Perspektive: Nico zeigt die EU als demokratisch entleerte Bürokratie, Arne die Bundesrepublik als Ort, wo demokratische Mehrheiten aktiv ignoriert werden. Beide kommen zur selben Diagnose von unterschiedlichen Ebenen — Arne national (IFG, FragDenStaat), Nico europäisch (Bürokostenpauschale, Reisekosten).
 

@@ -62,8 +62,8 @@ Die "Gefangene des Systems"-These ist das Yin-Yang-Prinzip angewendet auf Macht:
 ### → [[Denker/Erich Fromm — Haben oder Sein]]
 Fromm analysiert, wie das Haben-Prinzip selbst in seinen Stärken (Sicherheit, Struktur) seine Pathologie trägt. Kein Modus ist rein.
 
-### → [[Gedankenwelten/Gedanken/Die Wurzel verstehen - Politik jenseits des Konsums|Die Wurzel verstehen — Politik jenseits des Konsums]]
+### → [[Gedanken/Die Wurzel verstehen - Politik jenseits des Konsums|Die Wurzel verstehen — Politik jenseits des Konsums]]
 Wer politische Strömungen nur als gut oder böse kategorisiert, verliert die Fähigkeit, ihre jeweils eigene Wahrheit zu sehen. Das Yin-Yang-Prinzip ist eine Schutzimpfung gegen politische Ideologiefallen.
 
-### → [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
 Die elastische Brandmauer operationalisiert das Yin-Yang-Prinzip für die Erkenntnisarbeit: Weil keine Seite rein gut oder rein falsch ist, braucht es ein Selektionsprinzip jenseits von Links/Rechts. Die Membran fragt nicht nach Herkunft, sondern nach Dogma-Freiheit.

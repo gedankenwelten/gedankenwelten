@@ -18,7 +18,7 @@ Quelle: [Warum Lars Klingbeil Blödsinn redet — Heiner Flassbeck](https://www.
 > **Heiner Flassbeck** (*1950, Birkenfeld*) — Ökonom und ehemaliger Staatssekretär im Bundesfinanzministerium unter Lafontaine. Von 2003 bis 2012 Chefökonom der UNCTAD in Genf. Seitdem unermüdlicher Kritiker der deutschen Wirtschaftspolitik — keynesianischer Einzelkämpfer im ordoliberalen Mainstream.
 >
 > Kernkonzepte: Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden
-> → [[Gedankenwelten/DenkerVita/Heiner Flassbeck|DenkerVita]]
+> → [[DenkerVita/Heiner Flassbeck|DenkerVita]]
 
 ---
 
@@ -133,6 +133,6 @@ Linartas zeigt die Vermögensseite der Ungleichheit, Flassbeck die Einkommenssei
 
 Schwester-Video mit Fokus auf den Zinskreislauf: Staatsschulden als notwendiger Gegenpol zum privaten Sparen, wenn Unternehmen nicht mehr investieren.
 
-### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+### → [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
 
 Direkteste Parallelanalyse zur Iran-Stagflationswelle: Varoufakis prognostiziert 2026 eine stagflationary wave durch den Iran-Krieg; Flassbeck analysiert denselben Mechanismus buchhalterisch — steigende Energiepreise als Nachfrageentzug. Beide warnen vor prozyklischen Zinserhöhungen der EZB auf einen Energiepreisschock.

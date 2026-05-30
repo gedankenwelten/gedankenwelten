@@ -30,7 +30,7 @@ Primärtext: Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), in: *B
 > Wichtigste Werke: *Kritik der reinen Vernunft* (1781), *Grundlegung zur Metaphysik der Sitten* (1785), *Kritik der praktischen Vernunft* (1788), *Kritik der Urteilskraft* (1790)
 > Kernkonzepte: Unmündigkeit, Sapere aude, öffentlicher Vernunftgebrauch, kategorischer Imperativ, Weltbürgertum
 >
-> → [[Gedankenwelten/DenkerVita/Immanuel Kant|DenkerVita]]
+> → [[DenkerVita/Immanuel Kant|DenkerVita]]
 
 ---
 
@@ -187,7 +187,7 @@ Und der Schlusssatz des Essays ist überraschend schlicht: Der Mensch ist **mehr
 
 ## Verbindungen
 
-- [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]] — Zhao greift Kants kategorischen Imperativ direkt an: Er scheitere am Hume-Problem und setze das westeuropäische Vernunftsubjekt als verdecktes universales Modell. Forst, als Habermas-Schüler, verteidigt die Tradition des diskursiven Universalismus und macht die Spannung im Gespräch sichtbar. Kants Konzept des Weltbürgertums ist die historische Vorläufer-Frage zu dem, was Zhao und Forst im 21. Jahrhundert verhandeln: Wie ist globale politische Legitimität möglich?
+- [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]] — Zhao greift Kants kategorischen Imperativ direkt an: Er scheitere am Hume-Problem und setze das westeuropäische Vernunftsubjekt als verdecktes universales Modell. Forst, als Habermas-Schüler, verteidigt die Tradition des diskursiven Universalismus und macht die Spannung im Gespräch sichtbar. Kants Konzept des Weltbürgertums ist die historische Vorläufer-Frage zu dem, was Zhao und Forst im 21. Jahrhundert verhandeln: Wie ist globale politische Legitimität möglich?
 - [[Walther Ziegler — Hegel in 60 Minuten]] — Hegel knüpft direkt an Kant an: Die Aufklärung ist für ihn die Geistgestalt, die den Absolutismus dialektisch überwindet. Aber wo Kant die Vernunft als zeitlos versteht, historisiert Hegel sie radikal — auch die Vernunft ist in Bewegung, und die Wahrheit hat Prozesscharakter
 - [[Walther Ziegler — Nietzsche in 60 Minuten]] — Nietzsche ist Kants direkter Nachfolger und radikaler Kritiker zugleich. Kant befreit die Vernunft — Nietzsche sagt: Das reicht nicht. Auch die Vernunft ist ein Götze, wenn sie das Dionysische und den Körper verdrängt. Sapere aude ist die Hälfte: Denk selbst. Nietzsche fordert mehr: Lebe selbst, aus deiner tiefsten inneren Natur heraus.
 

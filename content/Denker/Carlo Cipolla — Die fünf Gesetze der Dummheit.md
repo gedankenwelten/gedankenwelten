@@ -39,7 +39,7 @@ Erklärvideo: [Die 5 Gesetze der Dummheit — Wahre Worte](https://www.youtube.c
 >
 > Kernkonzepte: Vier-Quadranten-Modell, Fünf Gesetze der Dummheit, Asymmetrie-Problem, Zivilisationsverfall durch Kompositionsverschiebung
 >
-> → [[Gedankenwelten/DenkerVita/Carlo Cipolla|DenkerVita]]
+> → [[DenkerVita/Carlo Cipolla|DenkerVita]]
 
 ---
 

@@ -90,16 +90,16 @@ Seine Nähe zur GFF ordnet ihn zivilgesellschaftlich ein — aber nicht als Akti
 
 *(Zu ergänzen durch Montaigne-Analyse)*
 
-- [[Gedankenwelten/DenkerVita/Valentina Chiofalo]] — Direkte Mitstreiterin in der GFF: Chiofalo leitet die empirische Grundlagenarbeit des AfD-Gutachtens (2 Mio. Datenpunkte), Moini die strategische Prozessführung. Beide stehen für dasselbe Ethos — Grundrechtsschutz durch handwerkliche Präzision, nicht durch politischen Affekt.
-- [[Gedankenwelten/DenkerVita/Ronen Steinke]] — Beide Juristen und Rechtsaktivisten; Steinke publizistisch, Moini strategisch; gemeinsam eine Verantwortung für Verfassungsschutz gegen staatliche Übergriffe
-- [[Gedankenwelten/DenkerVita/Helen Keller]] — Beide haben praktische Erfahrung mit internationaler Rechtspraxis und deren Grenzen
-- [[Gedankenwelten/DenkerVita/Arne Semsrott]] — Beide zivilgesellschaftlich tätig, aber unterschiedliche Werkzeuge: Semsrott Transparenz/Informationsfreiheit, Moini strategische Klagen zum Grundrechtsschutz
+- [[DenkerVita/Valentina Chiofalo]] — Direkte Mitstreiterin in der GFF: Chiofalo leitet die empirische Grundlagenarbeit des AfD-Gutachtens (2 Mio. Datenpunkte), Moini die strategische Prozessführung. Beide stehen für dasselbe Ethos — Grundrechtsschutz durch handwerkliche Präzision, nicht durch politischen Affekt.
+- [[DenkerVita/Ronen Steinke]] — Beide Juristen und Rechtsaktivisten; Steinke publizistisch, Moini strategisch; gemeinsam eine Verantwortung für Verfassungsschutz gegen staatliche Übergriffe
+- [[DenkerVita/Helen Keller]] — Beide haben praktische Erfahrung mit internationaler Rechtspraxis und deren Grenzen
+- [[DenkerVita/Arne Semsrott]] — Beide zivilgesellschaftlich tätig, aber unterschiedliche Werkzeuge: Semsrott Transparenz/Informationsfreiheit, Moini strategische Klagen zum Grundrechtsschutz
 
 ---
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — GFF-Analyse zur AfD-Verbotsfrage (2024–2025)
+- [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — GFF-Analyse zur AfD-Verbotsfrage (2024–2025)
 
 ---
 

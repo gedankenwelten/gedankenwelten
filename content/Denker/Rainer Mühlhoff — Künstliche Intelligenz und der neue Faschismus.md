@@ -374,16 +374,16 @@ Hans schließt mit dem Verfassungsväter-Satz: **„Keine Freiheit für die Fein
 - [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] — Mühlhoffs Analyse in Echtzeit: KI als Instrument autoritärer Machterhaltung, erstmals von einem amtierenden EU-Regierungschef im Wahlkampf eingesetzt — nicht Zukunftsszenario, sondern April 2026
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Vivian Wangs China-KI-Analyse im NZ-Salon: Staatsvertrauen als KI-Vertrauen — bestätigt Mühlhoffs autoritäre KI-These
 - [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung fordert: KI-Monopole müssen vergesellschaftet werden — LLMs basieren auf kollektivem Wissen, dürfen nicht privatisiert sein
-- [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]] — Objection.ai als konkretes Produkt von Mühlhoffs Desouveränisierungs-These: KI richtet über journalistische Wahrheit, niemand befiehlt mehr — ein Algorithmus hat errechnet
+- [[Zeitgeist/Morpheus - Whistleblower mundtot machen]] — Objection.ai als konkretes Produkt von Mühlhoffs Desouveränisierungs-These: KI richtet über journalistische Wahrheit, niemand befiehlt mehr — ein Algorithmus hat errechnet
 
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
 Grenzgänger Studios dokumentiert Thiels Gesamtbiografie als konkretes Fallbeispiel für Mühlhoffs Desouveränisierungs-These: CIA-Startfinanzierung → Palantir → DOGE-Datenzugriff → ObjectionAI. Was Mühlhoff als strukturelle Logik beschreibt (exponentielles KI-Wachstum erzwingt antidemokratische Governance), hat Thiel Schritt für Schritt realisiert.
 
-### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Kurz und Görlitz liefern den deutschen Rechtsfall zu Mühlhoffs Desouveränisierungsthese: Palantir übernimmt staatliche Kernfunktionen (Polizei, Gefahrenabwehr) ohne demokratische Kontrolle — der Vendor Lock-in und das Scheitern der Gesetze an Verfassungsstandards ist die empirische Verifikation seiner strukturellen Kritik.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Kloiber und Kinyua liefern das menschliche Fundament von Mühlhoffs Kolonialismus-These: Die 150–430 Mio. Data Workers sind nicht Randnotiz, sondern die Rohstoff-Basis des KI-Regimes — Extraktion ohne Kompensation, Süd-Nord-Wertschöpfung in Reinform.

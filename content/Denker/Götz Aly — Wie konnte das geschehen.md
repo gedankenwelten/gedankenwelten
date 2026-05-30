@@ -232,7 +232,7 @@ Mausfeld beschreibt moderne Techniken der Bewusstseinskontrolle — wie Bevölke
 
 Der Erbhofbauer, der auf geraubtem polnischem Land träumen will und sagt: „Wir müssen ihn gewinnen" — das ist Cipollas Quadrant. Er schadet anderen (massiv) und sich selbst (letztlich: Niederlage, Zerstörung, Flucht). Weder Bandit noch Intelligent. Das kollektive Handeln von Millionen im Verbund des Nationalsozialismus fällt in Cipollas fünftes Gesetz: Die unbewusste kollektive Verstärkung.
 
-### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
+### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 
 Kemper schlägt die Brücke von Alys historischer Analyse in die Gegenwart: Er zeigt, dass faschistische Strukturen — Klerikalfaschismus (Beatrix von Storch, Edmund von Waldstein), völkischer Nationalismus (Höcke), Technofaschismus (Musk, Thiel) — heute wieder im Entstehen sind. Alys Frage *„Wie konnte das geschehen?"* erhält bei Kemper eine Antwort in Echtzeit.
 
@@ -285,7 +285,7 @@ Dasselbe Buch, andere Form: fast fünf Stunden Interview bei Jung & Naiv (Folge 
 - Victor Klemperer: *LTI — Notizbuch eines Philologen* (1947) — wie Sprache die Wahrnehmung formte; das NS-Sprachsystem als Wahrnehmungsmaschine
 - [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Frickes Brüning-Parallele (Austerität → NSDAP-Aufstieg) ist dieselbe historische Verbindung, die Aly im Detail analysiert. Fricke aktualisiert sie für die Gegenwart: Lindner → AfD
 - [[Zeitgeist/Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]] — Alys historische Warnung vor Antisemitismus, der sich als Systemkritik tarnt, ist der Prüfstein für Blumenthals Epstein-Baal-Komplex: reale Kritik an Lobbyeinfluss kippt in antisemitisch codierte Symbolik.
-- [[Gedankenwelten/Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — Kendi zieht die direkte Linie von Alys historischer NS-Analyse in die Gegenwart: Great Replacement Theory als Wiederkehr derselben Ideologie mit neuen Opfern.
+- [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — Kendi zieht die direkte Linie von Alys historischer NS-Analyse in die Gegenwart: Great Replacement Theory als Wiederkehr derselben Ideologie mit neuen Opfern.
 
 - [[Erich Fromm — Psychoanalyse des Faschismus]] — Aly erklärt das materielle Interesse des Kleinbürgertums am NS-Regime; Fromm das psychische Bedürfnis dahinter. Beide zusammen machen das "Warum" vollständig: Klasse + Charakter
 - [[Steffen Mau — Spaltung der Gesellschaft]] — Mau zeigt eine modernisierte Variante von Alys NS-Mechanismus: statt materieller Teilhabe erkauft die Meritokratie-Ideologie Loyalität durch Selbstbindung — wer an Leistungsgerechtigkeit glaubt, hat keinen Grund zur Revolte

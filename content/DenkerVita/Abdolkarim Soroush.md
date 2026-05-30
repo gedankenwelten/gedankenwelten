@@ -136,9 +136,9 @@ Soroush war 1979 revolutionär gesinnt, wurde aber schnell zum Kritiker der theo
 ## Cortex-Notes
 
 Suche nach Notes im Vault, die Soroush oder seine Thesen behandeln:
-- `[[Gedankenwelten/Zeitgeist/...]]` — (nach Videonotes zu Soroush-Interviews suchen)
-- `[[Gedankenwelten/Denker/...]]` — (nach Notizen zur iranischen Reformbewegung suchen)
-- `[[Gedankenwelten/Panorama/...]]` — (ggf. „Islam und Demokratie", „Religionsphilosophie")
+- `[[Zeitgeist/...]]` — (nach Videonotes zu Soroush-Interviews suchen)
+- `[[Denker/...]]` — (nach Notizen zur iranischen Reformbewegung suchen)
+- `[[Panorama/...]]` — (ggf. „Islam und Demokratie", „Religionsphilosophie")
 
 ---
 

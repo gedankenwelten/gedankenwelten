@@ -54,4 +54,4 @@ Keine bekannten Buchveröffentlichungen. Alle Inhalte über YouTube-Kanal.
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+- [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]

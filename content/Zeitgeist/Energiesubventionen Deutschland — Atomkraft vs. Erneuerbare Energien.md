@@ -223,6 +223,6 @@ Weidel fordert beim AWEF Rückkehr zur Kernkraft — ohne die historischen Subve
 
 Sterner setzt die Subventionsgeschichte in politische Handlung um: Söders Forderung nach Kernkraft und Fossilen ignoriert die 287 Mrd. € historische Förderung. Der Vergleich zeigt, warum Erneuerbare trotz scheinbarer Startkosten die günstigere Option sind.
 
-### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
+### → [[Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
 
 Die Doppelbesteuerung beim bidirektionalen Laden ist die zeitgenössische Variante der Subventionsasymmetrie: Statt offener Förderung für Fossile wirkt hier ein versteckter regulatorischer Nachteil für eine neue grüne Technologie — durch ihre Unsichtbarkeit besonders wirksam. Utrecht zeigt, was ohne diese Asymmetrie möglich wäre.

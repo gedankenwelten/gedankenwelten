@@ -87,7 +87,7 @@ das *Wie* zum *Warum* des Leuchtturms — wie die leise Kraft der aufrichtigen B
 
 Haben-Modus als Neoliberalismus-Erkenntnistheorie; Sein-Modus als Voraussetzung für den Leuchtturm
 
-### → [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
+### → [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
 
 Der Leuchtturm ist selbst ein Verb-Projekt: nicht „wir sind Aufklärer" (Nomen, besetzbar), sondern *wir klären auf* — immer noch, nicht fertig. Zhao Tingyangs Verb-Denken als philosophisches Fundament des Gedankenwelten-Selbstverständnisses.
 
@@ -107,5 +107,5 @@ Resonanz als das, was der Stack systematisch eliminiert; der Leuchtturm als Reso
 
 Bonhoeffer im Gefängnis, ohne Aussicht auf Sieg, schreibt trotzdem. Leuchtturm.
 
-### → [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
 Der Leuchtturm beschreibt das *Warum* von Gedankenwelten — die elastische Brandmauer beschreibt das *Wie*: kein Neutralitätsanspruch, aber eine Membran, die Wahrheit von Erzählung unterscheidet.

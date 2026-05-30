@@ -133,11 +133,11 @@ Butterwegge ist klar: Steuern und Umsteuern alleine reichen nicht. Es braucht ei
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
+### → [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
 
 Hartmann und Butterwegge beschreiben zwei Seiten derselben Ungleichheit: Hartmann die Oberseite (wer Macht hat und wie sie vererbt wird), Butterwegge die Unterseite (wer ausgeschlossen bleibt). Hartmanns Befund — Studienstiftung erreicht echte Machteliten nicht, Deutschland ist Erbgesellschaft — ist das strukturelle Korrelat zu Butterwegges Armutsanalyse.
 
-### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
+### → [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
 
 Butterwegge analysiert Armut als Strukturproblem; Steinhaus bringt dasselbe Argument in die phoenix-Runde — die Runde zeigt die politischen Kräfte, die Butterwegges Forderungen blockieren.
 
@@ -205,7 +205,7 @@ Linartas ergänzt Butterwegges Armuts-Fokus um die Vermögensseite: Wer besitzt,
 
 Bücker ergänzt um die Zeitdimension: Zeitarmut als dritte Freiheitsberaubung neben materieller Armut. Gleiche Podcast-Serie (NEU DENKEN / Mission Wertvoll). Butterwegge (Armut) + Linartas (Vermögen) + Bücker (Zeit) = vollständige Theorie der Ungleichheit.
 
-### → [[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
+### → [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
 
 viertes NEU DENKEN-Gespräch im Vault; Schwan analysiert demokratische Gegenmacht gegen die Machtkonzentration, die Butterwegge strukturell beschreibt — ökonomische Diagnose trifft politiktheoretische Therapie
 
@@ -285,7 +285,7 @@ Butterwegge wird im Salon explizit als idealer Vorwort-Autor für die deutsche A
 
 Rawls' Differenzprinzip liefert das theoretische Fundament für Butterwegges empirische Analyse: Ungleichheit ist nur dann zulässig, wenn sie den am wenigsten Begünstigten den größtmöglichen Vorteil bringt. Butterwegges Daten zeigen, dass genau das Gegenteil geschieht — wachsende Armut bei explodierenden Spitzeneinkommen.
 
-### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
+### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Studio Bonn beschreibt die Oberseite der Schere, die Butterwegge von unten analysiert: Dynastien die Weltkriege überdauern, Steuervermeidungsindustrie als System, Vermögen als Demokratiegefahr. Beide zeigen: Die Schere entsteht durch politische Entscheidungen, nicht durch Naturgesetze.
 
