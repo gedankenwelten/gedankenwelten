@@ -64,12 +64,12 @@ Mau versteht sich als empirischer Soziologe, nicht als politischer Aktivist. Er 
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Aladin El-Mafaalani]] — Meritokratie-Kritik aus Bildungsperspektive, ergänzt Maus empirische Befunde zur ideologischen Verwirrung der Arbeiterklasse
-- [[Gedankenwelten/DenkerVita/Hartmut Rosa]] — Resonanztheorie als mögliche Antwort auf Maus Veränderungsmüdigkeit: Wer resonante Beziehungen zur Welt hat, kann Wandel besser ertragen
+- [[DenkerVita/Aladin El-Mafaalani]] — Meritokratie-Kritik aus Bildungsperspektive, ergänzt Maus empirische Befunde zur ideologischen Verwirrung der Arbeiterklasse
+- [[DenkerVita/Hartmut Rosa]] — Resonanztheorie als mögliche Antwort auf Maus Veränderungsmüdigkeit: Wer resonante Beziehungen zur Welt hat, kann Wandel besser ertragen
 
 ---
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Denker/Steffen Mau — Spaltung der Gesellschaft]]
-- [[Gedankenwelten/Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt]]
+- [[Denker/Steffen Mau — Spaltung der Gesellschaft]]
+- [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt]]

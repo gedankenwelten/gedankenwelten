@@ -318,43 +318,43 @@ Keine Zuschauerfragen in dieser Sendung — phoenix Runde ist ein geschlossenes 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
+### → [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 
 Butterwegge argumentiert wie Steinhaus: Armut ist kein individuelles Versagen, sondern eine strukturelle Folge von Vermögenskonzentration und Deregulierung. Die Runde illustriert genau die politischen Widerstände, die Butterwegge beschreibt.
 
-### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
+### → [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
 
 Flassbeck dekonstruiert die Rentenpolitik als Symptom desselben Problems: Kapitalerträge werden systematisch bevorzugt gegenüber Löhnen. Gottschalks Argument für niedrigere Kapitalbesteuerung steht in direktem Widerspruch zu Flassbecks Analyse.
 
-### → [[Gedankenwelten/Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
+### → [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
 
 Mattei zeigt historisch, wie Austeritätspolitik Arbeit diszipliniert und Kapital schützt — genau das beschreibt Steinhaus als aktuellen Mechanismus: Bürgergeld-Kürzungen schwächen die Verhandlungsmacht der Beschäftigten.
 
-### → [[Gedankenwelten/Zeitgeist/Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]]
+### → [[Zeitgeist/Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]]
 
 Das „Let Them"-Prinzip als rechtes Weltbild: wer scheitert, dem wurde nicht geholfen und das ist selbst schuld. Gottschalks Narrative bedienen genau diese Logik — und Steinhaus benennt explizit das politische Kalkül dahinter.
 
-### → [[Gedankenwelten/Denker/Martyna Linartas — Unverdiente Ungleichheit]]
+### → [[Denker/Martyna Linartas — Unverdiente Ungleichheit]]
 
 Steinhaus' Satz „Deutschland ist keine Leistungsgesellschaft, sondern eine Erbengesellschaft" ist fast wörtlich Linartas' wissenschaftliche Kernthese. Die phoenix Runde liefert die politische Bühne für das, was Linartas empirisch fundiert.
 
-### → [[Gedankenwelten/Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+### → [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 Gottschalks Migrations-Framing als Erklärung für Sozialstaatsprobleme ist exakt das Scheinargument, das Fricke empirisch zerlegt: AfD ist dort am stärksten, wo der Ausländeranteil am niedrigsten ist — die Korrelation zwischen Migration und Sozialstaatserosion ist statistisch nicht haltbar.
 
-### → [[Gedankenwelten/Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt]]
+### → [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt]]
 
 Mau zeigt, dass die Arbeiterklasse der Meritokratie stärker zustimmt als die Oberschicht. Das erklärt, warum eine Sendung über Gini 0,7 mit einer Migrationskontroverse endet statt mit einer Erbschaftssteuerdebatte — das Migration-Framing kappt den Weg von der Wahrnehmung zur naheliegenden Schlussfolgerung.
 
-### → [[Gedankenwelten/Zeitgeist/Tilo Jung — Erben Wirtschaft AfD-Strategie]]
+### → [[Zeitgeist/Tilo Jung — Erben Wirtschaft AfD-Strategie]]
 
 Direktes parlamentarisches Pendant: Die Grundkonflikte um Erbschaft, Unternehmervermögen und AfD-Ursachen, die Jung dort herausarbeitet, werden in der phoenix Runde live ausgetragen — Klose vs. Gottschalk spiegelt den Diskurs auf politischer Bühne.
 
-### → [[Gedankenwelten/Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+### → [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 
 Heitmeyers Diagnose, dass strukturelle Enthemmung das Arm-gegen-Arm-Spiel begünstigt, erhält in Kloses Analyse seinen politischen Namen. Heitmeyer liefert den soziologischen Mechanismus für das, was Steinhaus als aktive politische Strategie benennt.
 
-### → [[Gedankenwelten/Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
+### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
 
 Deißners Unterscheidung „gebundenes Betriebsvermögen vs. Finanzkapital" als strategische Weichenstellung illustriert Mausfelds These: Die Verteilungsfrage wird durch Fachsemantik aus dem öffentlichen Diskurs gedrängt, bevor sie als politische Frage überhaupt gestellt werden kann.
 

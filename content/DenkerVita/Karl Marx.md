@@ -81,13 +81,13 @@ Marx ist der Begründer des wissenschaftlichen Sozialismus und des Kommunismus a
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel]] — Marx steht auf Hegels Schultern: Er übernimmt die Dialektik, dreht sie aber materialistisch um. Nicht der Weltgeist treibt die Geschichte, sondern die Produktionsverhältnisse.
-- [[Gedankenwelten/DenkerVita/Theodor W. Adorno]] — Die Frankfurter Schule (Adorno, Horkheimer, Marcuse) ist der intellektuelle Erbe des Marxismus. Adorno radikalisiert die Ideologiekritik: Auch die Aufklärung selbst kann zum Herrschaftsinstrument werden.
-- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromm verbindet Marx' Entfremdungsbegriff mit Freuds Psychoanalyse: Die Haben-Orientierung ist die psychische Form des Kapitalismus.
-- [[Gedankenwelten/DenkerVita/Michel Foucault]] — Foucault erweitert Marx' Machtanalyse: Macht operiert nicht nur über ökonomische Klassen, sondern über Diskurse, Institutionen und Wissensformen.
-- [[Gedankenwelten/DenkerVita/Clara Mattei]] — Mattei liefert den empirischen Beleg für Marx' Thesen: Austeritätspolitik als systematische Disziplinierung der Arbeiterklasse.
-- [[Gedankenwelten/DenkerVita/Immanuel Kant]] — Marx kritisiert den Idealismus, den Kant begründet hat. Nicht die Vernunft bestimmt die Geschichte, sondern die materiellen Bedingungen.
-- [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]] — Schopenhauer teilt mit Marx die Skepsis gegenüber dem Idealismus, zieht aber die entgegengesetzte Konsequenz: nicht Revolution, sondern Resignation.
+- [[DenkerVita/Georg Wilhelm Friedrich Hegel]] — Marx steht auf Hegels Schultern: Er übernimmt die Dialektik, dreht sie aber materialistisch um. Nicht der Weltgeist treibt die Geschichte, sondern die Produktionsverhältnisse.
+- [[DenkerVita/Theodor W. Adorno]] — Die Frankfurter Schule (Adorno, Horkheimer, Marcuse) ist der intellektuelle Erbe des Marxismus. Adorno radikalisiert die Ideologiekritik: Auch die Aufklärung selbst kann zum Herrschaftsinstrument werden.
+- [[DenkerVita/Erich Fromm]] — Fromm verbindet Marx' Entfremdungsbegriff mit Freuds Psychoanalyse: Die Haben-Orientierung ist die psychische Form des Kapitalismus.
+- [[DenkerVita/Michel Foucault]] — Foucault erweitert Marx' Machtanalyse: Macht operiert nicht nur über ökonomische Klassen, sondern über Diskurse, Institutionen und Wissensformen.
+- [[DenkerVita/Clara Mattei]] — Mattei liefert den empirischen Beleg für Marx' Thesen: Austeritätspolitik als systematische Disziplinierung der Arbeiterklasse.
+- [[DenkerVita/Immanuel Kant]] — Marx kritisiert den Idealismus, den Kant begründet hat. Nicht die Vernunft bestimmt die Geschichte, sondern die materiellen Bedingungen.
+- [[DenkerVita/Arthur Schopenhauer]] — Schopenhauer teilt mit Marx die Skepsis gegenüber dem Idealismus, zieht aber die entgegengesetzte Konsequenz: nicht Revolution, sondern Resignation.
 
 ---
 

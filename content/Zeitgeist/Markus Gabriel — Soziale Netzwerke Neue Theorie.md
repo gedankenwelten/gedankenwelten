@@ -22,7 +22,7 @@ Quelle: [Prof Dr. Markus Gabriel – Was die sozialen Netzwerke mit uns machen: 
 >
 > Wichtigste Werke: *Warum es die Welt nicht gibt* (2013), *Fiktionen* (2020), *Moralischer Fortschritt in dunklen Zeiten* (2020)
 > Kernkonzepte: Sinnfeldontologie, Neuer Realismus, Sozialontologie, Triangulation
-> → [[Gedankenwelten/DenkerVita/Markus Gabriel|DenkerVita]]
+> → [[DenkerVita/Markus Gabriel|DenkerVita]]
 
 ---
 

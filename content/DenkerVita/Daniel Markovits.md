@@ -15,7 +15,7 @@ tags: [denker-vita, kapitalismus, usa, demokratie]
 > Wichtigste Werke: *The Meritocracy Trap* (2019)
 > Kernkonzepte: Meritokratische Falle, Income Defense Industry, Superordinate Working Class, Selbstausbeutung der Elite
 >
-> → [[Gedankenwelten/DenkerVita/Daniel Markovits|DenkerVita]]
+> → [[DenkerVita/Daniel Markovits|DenkerVita]]
 
 ---
 
@@ -66,7 +66,7 @@ Markovits ist kein Marxist im engeren Sinne, obwohl er Marx ausgiebig zitiert �
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Karl Marx]] — Markovits' „angestellte Kapitalisten" erweitern Marx' Klassentheorie um eine Kategorie, die Marx nicht voraussehen konnte
+- [[DenkerVita/Karl Marx]] — Markovits' „angestellte Kapitalisten" erweitern Marx' Klassentheorie um eine Kategorie, die Marx nicht voraussehen konnte
 - Michael Sandel (*The Tyranny of Merit*, 2020) — Parallel entstandene Meritokratie-Kritik, stärker philosophisch argumentierend
 - Pierre Bourdieu (*Die feinen Unterschiede*) — Distinktionsmechanismen als Vorarbeit zu Markovits' Kastenanalyse
 - Thorstein Veblen (*The Theory of the Leisure Class*, 1899) — Historische Kontrastfolie: Veblens müßige Elite vs. Markovits' erschöpfte Elite

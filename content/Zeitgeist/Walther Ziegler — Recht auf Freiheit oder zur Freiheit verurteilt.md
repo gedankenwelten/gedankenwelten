@@ -18,7 +18,7 @@ Quelle: [Recht auf Freiheit oder zur Freiheit verurteilt? Dr. Walther Ziegler](h
 > **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Buchreihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen (und östlichen) Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorlesungen verbinden akademische Strenge mit lebendigen Alltagsbeispielen.
 >
 > Kernleistung: Philosophische Tiefe in allgemeinverständlicher Sprache — nicht als Popularisierung, sondern als Demokratisierung des Denkens.
-> → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
+> → [[DenkerVita/Walther Ziegler|DenkerVita]]
 
 ---
 

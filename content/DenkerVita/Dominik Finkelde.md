@@ -47,10 +47,10 @@ Akademisch-links im Sinne der kritischen Theorie, aber kein politischer Aktivist
 
 ## Verbindungen zu anderen Denkern
 
-### → [[Gedankenwelten/DenkerVita/Walther Ziegler]]
+### → [[DenkerVita/Walther Ziegler]]
 
 Beide vermitteln Philosophie der Neuesten Zeit — Ziegler populärwissenschaftlich (60-Minuten-Reihe), Finkelde akademisch (Universitätsvorlesung). Ergänzen sich: Ziegler für den Überblick, Finkelde für die Tiefe.
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Denker/Dominik Finkelde — Nietzsche Ueber Wahrheit und Luege|Dominik Finkelde — Nietzsche: Über Wahrheit und Lüge]]
+- [[Denker/Dominik Finkelde — Nietzsche Ueber Wahrheit und Luege|Dominik Finkelde — Nietzsche: Über Wahrheit und Lüge]]

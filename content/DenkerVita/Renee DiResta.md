@@ -74,4 +74,4 @@ Die Instrumentalisierung ihrer Person als "Zensorin" durch Tucker Carlson, Jim J
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Denker/Renee DiResta — Invisible Rulers]]
+- [[Denker/Renee DiResta — Invisible Rulers]]

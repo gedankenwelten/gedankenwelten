@@ -55,7 +55,7 @@ Lucke vertritt eine **kritisch-linke Perspektive** im Sinne der Blätter-Traditi
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+- [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 ---
 

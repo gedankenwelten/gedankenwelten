@@ -20,7 +20,7 @@ Quelle: [Markus Gabriel: Was ist Realität? (phil.COLOGNE)](https://www.youtube.
 >
 > Wichtigste Werke: *Warum es die Welt nicht gibt* (2013), *Ich ist nicht Gehirn* (2015), *Moralischer Fortschritt in dunklen Zeiten* (2020)
 > Kernkonzepte: Sinnfeldontologie, Neuer Realismus, Neo-Existentialismus, Moralischer Universalismus
-> → [[Gedankenwelten/DenkerVita/Markus Gabriel|DenkerVita]]
+> → [[DenkerVita/Markus Gabriel|DenkerVita]]
 
 ---
 

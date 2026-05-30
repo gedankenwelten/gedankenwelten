@@ -85,7 +85,7 @@ Post-keynesianisch orientiert; kritisch gegenüber:
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+- [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 ---
 

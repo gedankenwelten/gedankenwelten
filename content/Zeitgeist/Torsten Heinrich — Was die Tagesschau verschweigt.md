@@ -24,7 +24,7 @@ Quelle: [Was dir die Tagesschau verschweigt (Militär-Experte)](https://www.yout
 > Studierte Geschichte an der Uni Würzburg (Magister), diente bei der Bundeswehr. Seit Kindheitstagen von Militärgeschichte besessen — über 30 Jahre Beschäftigung mit Panzern, Waffentechnik und Konflikten. Gründete 2013 die Junge Alternative (Jugendorganisation der AfD), trat 2014 aus und nannte die Partei öffentlich „Partei der Spinner". Wanderte nach Panama aus (ca. 2017). Startete am 24.02.2022 — dem Tag des russischen Einmarsches — den YouTube-Kanal „Militär & Geschichte" (heute 345.000+ Abonnenten). Sammelte über 600.000 Euro für humanitäre Hilfe in der Ukraine. Pro-ukrainisch positioniert, betont aber radikal die Unterscheidung zwischen Position und Objektivität.
 >
 > Kernkonzepte: Quellenkritik als historische Methode, Neutralität vs. Objektivität, Jus ad bellum vs. Jus in bello
-> → [[Gedankenwelten/DenkerVita/Torsten Heinrich|DenkerVita]]
+> → [[DenkerVita/Torsten Heinrich|DenkerVita]]
 
 Aufnahmedatum: 8. April 2026. 4:23h-Gespräch auf dem Podcast *ungeskriptet* (Ben).
 

@@ -26,7 +26,7 @@ Quelle: [Kann es eine „universelle Moral" geben, Markus Gabriel? (Über den Ta
 > Wichtigste Werke: *Warum es die Welt nicht gibt* (2013), *Ich ist nicht Gehirn* (2015), *Moralischer Fortschritt in dunklen Zeiten* (2020), *Ethische Intelligenz* (2026)
 > Kernkonzepte: Sinnfeldontologie, Neuer Realismus, Moralischer Universalismus, Ethischer Kapitalismus
 >
-> → [[Gedankenwelten/DenkerVita/Markus Gabriel|DenkerVita]]
+> → [[DenkerVita/Markus Gabriel|DenkerVita]]
 
 ---
 

@@ -20,7 +20,7 @@ aliases:
 Quelle: [Hegel in 60 Minuten](https://www.youtube.com/watch?v=qoTngm8b7kQ)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Hegel-Vortrag ist eine der zugänglichsten Einführungen in ein Denken, das für seine Unzugänglichkeit berüchtigt ist — Schopenhauer nannte Hegels Sprache die, „die man in Irrenhäusern und Tollhäusern hört." → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Hegel-Vortrag ist eine der zugänglichsten Einführungen in ein Denken, das für seine Unzugänglichkeit berüchtigt ist — Schopenhauer nannte Hegels Sprache die, „die man in Irrenhäusern und Tollhäusern hört." → [[DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > Ziegler zitiert aus Hegels Originalwerken und ordnet sie mit konkreten Beispielen ein — vom Fliegenpilz bis zur Französischen Revolution.
 >
@@ -31,7 +31,7 @@ Quelle: [Hegel in 60 Minuten](https://www.youtube.com/watch?v=qoTngm8b7kQ)
 > Wichtigste Werke: *Phänomenologie des Geistes* (1807), *Wissenschaft der Logik* (1812–16), *Enzyklopädie der philosophischen Wissenschaften* (1817), *Grundlinien der Philosophie des Rechts* (1820)
 > Kernkonzepte: Dialektik, Weltgeist, Aufhebung, Zeitgeist, Freiheit als Ziel der Geschichte, List der Vernunft
 >
-> → [[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel|DenkerVita]]
+> → [[DenkerVita/Georg Wilhelm Friedrich Hegel|DenkerVita]]
 
 ---
 

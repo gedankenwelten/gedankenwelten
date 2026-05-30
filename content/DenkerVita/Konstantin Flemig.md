@@ -62,8 +62,8 @@ Sein Buch *Freiheit unter Feuer* erscheint beim Heyne Verlag — ein Bericht üb
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026]] — Frontanalyse Ukraine, Drohnenkrieg, russische Verluste
-- [[Gedankenwelten/Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE]] — Sudan-Krieg, VAE-Rolle, vergessene Krisenregion
-- [[Gedankenwelten/Zeitgeist/Konstantin Flemig — US-Seeblockade gegen Iran]] — Geopolitik Straße von Hormuz, US-Militärpräsenz
-- [[Gedankenwelten/Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]] — Rheinmetall, Zeitenwende als Industriemotor, Munitionsproduktion
-- [[Gedankenwelten/Zeitgeist/Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet]] — Rapallo 1922, Hitler-Stalin-Pakt 1939, Basis Nord, Gestapo-NKWD, Katin — Geschichtsfälschung als Putin-Staatspropaganda
+- [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026]] — Frontanalyse Ukraine, Drohnenkrieg, russische Verluste
+- [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE]] — Sudan-Krieg, VAE-Rolle, vergessene Krisenregion
+- [[Zeitgeist/Konstantin Flemig — US-Seeblockade gegen Iran]] — Geopolitik Straße von Hormuz, US-Militärpräsenz
+- [[Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]] — Rheinmetall, Zeitenwende als Industriemotor, Munitionsproduktion
+- [[Zeitgeist/Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet]] — Rapallo 1922, Hitler-Stalin-Pakt 1939, Basis Nord, Gestapo-NKWD, Katin — Geschichtsfälschung als Putin-Staatspropaganda

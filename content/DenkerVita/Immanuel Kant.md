@@ -92,13 +92,13 @@ Kant ist kein Parteipolitiker, aber seine Philosophie hat tiefgreifende politisc
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel]] — Baut auf Kants Erkenntnistheorie auf, radikalisiert sie aber dialektisch: Wo Kant Grenzen setzt (Ding an sich), sieht Hegel Bewegung
-- [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]] — Übernimmt das „Ding an sich", benennt es als blinden Willen zum Leben. Anti-Hegelianer, aber Kant-Nachfolger
-- [[Gedankenwelten/DenkerVita/Theodor W. Adorno]] — Radikalisiert Kants Aufklärungsprogramm in der *Dialektik der Aufklärung*: Vernunft wird selbst zum Herrschaftsinstrument
-- [[Gedankenwelten/DenkerVita/Michel Foucault]] — Relektüre Kants: Aufklärung nicht als Projekt, sondern als permanente Haltung und Selbstsorge
-- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Der Haben-Modus macht kantianisches Handeln unmöglich; Fromms „kategorischer Imperativ der Technik" als dystopisches Echo
-- [[Gedankenwelten/DenkerVita/Niklas Luhmann]] — Luhmanns Systemtheorie als Radikalisierung von Kants Konstruktivismus: Nicht nur der Einzelne konstruiert — Systeme tun es
-- [[Gedankenwelten/DenkerVita/S.N. Goenka]] — Vipassana als östliches Pendant zu Kants epistemischer Demut: Beide erkennen die Grenzen menschlicher Wahrnehmung
+- [[DenkerVita/Georg Wilhelm Friedrich Hegel]] — Baut auf Kants Erkenntnistheorie auf, radikalisiert sie aber dialektisch: Wo Kant Grenzen setzt (Ding an sich), sieht Hegel Bewegung
+- [[DenkerVita/Arthur Schopenhauer]] — Übernimmt das „Ding an sich", benennt es als blinden Willen zum Leben. Anti-Hegelianer, aber Kant-Nachfolger
+- [[DenkerVita/Theodor W. Adorno]] — Radikalisiert Kants Aufklärungsprogramm in der *Dialektik der Aufklärung*: Vernunft wird selbst zum Herrschaftsinstrument
+- [[DenkerVita/Michel Foucault]] — Relektüre Kants: Aufklärung nicht als Projekt, sondern als permanente Haltung und Selbstsorge
+- [[DenkerVita/Erich Fromm]] — Der Haben-Modus macht kantianisches Handeln unmöglich; Fromms „kategorischer Imperativ der Technik" als dystopisches Echo
+- [[DenkerVita/Niklas Luhmann]] — Luhmanns Systemtheorie als Radikalisierung von Kants Konstruktivismus: Nicht nur der Einzelne konstruiert — Systeme tun es
+- [[DenkerVita/S.N. Goenka]] — Vipassana als östliches Pendant zu Kants epistemischer Demut: Beide erkennen die Grenzen menschlicher Wahrnehmung
 
 ---
 

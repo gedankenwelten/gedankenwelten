@@ -91,5 +91,5 @@ Upekkha ist die operative Haltung der gesamten Praxis. [[Vipassana — Vedana|Ve
 
 Theravada vs. Mahayana in direktem Kontrast: Goenkas Upekkha als höchste Praxis (Gleichmut als Ziel) vs. Adriaans Bodhisattva-Ideal (Gleichmut muss sich in aktives Mitgehen transformieren). Beide haben recht — auf verschiedenen Stufen des Weges.
 
-- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Gleichmut als Brücke zwischen Kissen- und Alltagspraxis: engagiert handeln ohne Reaktivität

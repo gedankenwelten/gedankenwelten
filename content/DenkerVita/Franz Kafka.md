@@ -76,10 +76,10 @@ Kafka lebte in einer dreifachen Minderheitensituation: deutsch in Prag, jüdisch
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromms *Haben oder Sein* und seine Analyse der Entfremdung in der modernen Gesellschaft sind die sozialpsychologische Fortschreibung von Kafkas Diagnose. Beide sehen den Menschen als gefangen in Systemen, die Anerkennung verweigern.
-- [[Gedankenwelten/DenkerVita/Martin Heidegger]] — Heideggers *Sein-zum-Tode*, das *Man* und die Frage nach der Eigentlichkeit sind das ontologische Framework für das, was Kafka literarisch zeigt: Was bedeutet es, eigentlich zu existieren?
-- [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]] — Schopenhauer als Kafkas philosophischer Vorläufer: Beide zeigen die Dunkelheit der menschlichen Existenz, aber während Schopenhauer den Ausweg in der Willensverneinung sieht, bleibt Kafka verbunden — sogar in der Vernichtung.
-- [[Gedankenwelten/DenkerVita/Michel Foucault]] — Foucaults Panoptikum und Disziplinargesellschaft sind die machtanalytische Systematisierung dessen, was Kafka im *Prozess* vorwegnimmt: ein System, das den Einzelnen kontrolliert, ohne dass es eine greifbare Instanz gibt.
+- [[DenkerVita/Erich Fromm]] — Fromms *Haben oder Sein* und seine Analyse der Entfremdung in der modernen Gesellschaft sind die sozialpsychologische Fortschreibung von Kafkas Diagnose. Beide sehen den Menschen als gefangen in Systemen, die Anerkennung verweigern.
+- [[DenkerVita/Martin Heidegger]] — Heideggers *Sein-zum-Tode*, das *Man* und die Frage nach der Eigentlichkeit sind das ontologische Framework für das, was Kafka literarisch zeigt: Was bedeutet es, eigentlich zu existieren?
+- [[DenkerVita/Arthur Schopenhauer]] — Schopenhauer als Kafkas philosophischer Vorläufer: Beide zeigen die Dunkelheit der menschlichen Existenz, aber während Schopenhauer den Ausweg in der Willensverneinung sieht, bleibt Kafka verbunden — sogar in der Vernichtung.
+- [[DenkerVita/Michel Foucault]] — Foucaults Panoptikum und Disziplinargesellschaft sind die machtanalytische Systematisierung dessen, was Kafka im *Prozess* vorwegnimmt: ein System, das den Einzelnen kontrolliert, ohne dass es eine greifbare Instanz gibt.
 
 ---
 
