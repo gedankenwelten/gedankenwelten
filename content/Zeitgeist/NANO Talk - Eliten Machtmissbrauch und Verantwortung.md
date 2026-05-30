@@ -26,10 +26,13 @@ Quelle: [Eliten: Zwischen Machtmissbrauch und Verantwortung | NANO Talk](https:/
 > → [[Gedankenwelten/DenkerVita/Michael Hartmann|DenkerVita]]
 >
 > **Kolja Möller** — Politikwissenschaftler und Demokratietheoretiker an der Goethe-Universität Frankfurt am Main. Forscht zu Populismus und demokratischer Legitimation. Definiert Elite über sektorenübergreifende Vernetzung und gesamtgesellschaftlichen Führungsanspruch.
+> → [[Gedankenwelten/DenkerVita/Kolja Moeller|DenkerVita]]
 >
 > **Anabel Ternès von Hattburg** — Zukunftsforscherin und Psychologin, SRH Berlin. Unternehmerin und Gründerin von we Empower. Vertritt einen normativen Elitebegriff: Elite sollte Fähigkeit und Gemeinwohl verbinden, nicht Macht um der Macht willen.
+> → [[Gedankenwelten/DenkerVita/Anabel Ternes von Hattburg|DenkerVita]]
 >
 > **Alena Buyx** (Moderation) — Medizinethikerin, ehemals Vorsitzende des Deutschen Ethikrats. Führte durch die Diskussion mit eigenem akademischen Hintergrund (selbst Stipendiatin der Studienstiftung).
+> → [[Gedankenwelten/DenkerVita/Alena Buyx|DenkerVita]]
 
 ---
 
