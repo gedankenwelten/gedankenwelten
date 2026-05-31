@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr"><head><title>Panorama — Gelebte Demokratie · Gedankenwelten</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Inter:ital,wght@0,400;0,600;1,400;1,600&amp;family=JetBrains Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Gedankenwelten"/><meta property="og:title" content="Panorama — Gelebte Demokratie · Gedankenwelten"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Panorama — Gelebte Demokratie · Gedankenwelten"/><meta name="twitter:description" content="Gelebte Demokratie Warum dieses Thema? Demokratie ist kein Zustand — sie ist eine Praxis. Man kann sie nicht einmal erkämpfen und dann aufbewahren."/><meta property="og:description" content="Gelebte Demokratie Warum dieses Thema? Demokratie ist kein Zustand — sie ist eine Praxis. Man kann sie nicht einmal erkämpfen und dann aufbewahren."/><meta property="og:image:alt" content="Gelebte Demokratie Warum dieses Thema? Demokratie ist kein Zustand — sie ist eine Praxis. Man kann sie nicht einmal erkämpfen und dann aufbewahren."/><meta property="twitter:domain" content="gedankenwelten.org"/><meta property="og:url" content="https://gedankenwelten.org/Panorama/Gelebte-Demokratie"/><meta property="twitter:url" content="https://gedankenwelten.org/Panorama/Gelebte-Demokratie"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Gelebte Demokratie Warum dieses Thema? Demokratie ist kein Zustand — sie ist eine Praxis. Man kann sie nicht einmal erkämpfen und dann aufbewahren."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvbHVjL3NlcnZpY2VzL2dlZGFua2Vud2VsdGVuL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://gedankenwelten.org/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://gedankenwelten.org/Panorama/Gelebte-Demokratie-og-image.webp"/><meta property="og:image:url" content="https://gedankenwelten.org/Panorama/Gelebte-Demokratie-og-image.webp"/><meta name="twitter:image" content="https://gedankenwelten.org/Panorama/Gelebte-Demokratie-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Panorama/Gelebte-Demokratie"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Gedankenwelten</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Suche</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Suche nach etwas" placeholder="Suche nach etwas"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dunkler Modus"><title>Dunkler Modus</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Heller Modus"><title>Heller Modus</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Lesemodus"><title>Lesemodus</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>{if(a.isFolder&amp;&amp;!b.isFolder)return-1;if(!a.isFolder&amp;&amp;b.isFolder)return 1;let aDate=a.data?.date?new Date(a.data.date).getTime():0,bDate=b.data?.date?new Date(b.data.date).getTime():0;return aDate!==bDate?bDate-aDate:a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;})}&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-518"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-518" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Panorama/">Panorama</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Panorama — Gelebte Demokratie</a></div></nav><h1 class="article-title">Panorama — Gelebte Demokratie</h1><p show-comma="true" class="content-meta"><time datetime="2026-05-31T09:02:38.000Z">31. Mai 2026</time><span>8 Min. Lesezeit</span></p><ul class="tags"><li><a href="../tags/panorama" class="internal tag-link">panorama</a></li><li><a href="../tags/demokratie" class="internal tag-link">demokratie</a></li><li><a href="../tags/widerstand" class="internal tag-link">widerstand</a></li><li><a href="../tags/zivilgesellschaft" class="internal tag-link">zivilgesellschaft</a></li><li><a href="../tags/deutschland" class="internal tag-link">deutschland</a></li></ul></div></div><article class="popover-hint"><h1 id="gelebte-demokratie">Gelebte Demokratie<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gelebte-demokratie" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h2 id="warum-dieses-thema">Warum dieses Thema?<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#warum-dieses-thema" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Demokratie ist kein Zustand — sie ist eine Praxis. Man kann sie nicht einmal erkämpfen und dann aufbewahren. Sie muss täglich gemacht werden: in Transparenzanfragen, Streiks, Volksbegehren, Rechtsstreitigkeiten, Bibliotheken, Bürgergeldfällen. Nicht von Institutionen, die Demokratie verwalten — sondern von Menschen, die sie <em>leben</em>.</p>
+<p>Das ist der blinde Fleck des politischen Diskurses: Er fragt, wer gewählt hat, wer regiert, wer die Brandmauer hält. Er fragt nicht: Wer baut gerade, während diskutiert wird? Wer kauft Menschen aus dem Knast frei, wer stellt IFG-Anfragen, wer gewinnt Volksbegehren, wer verschiebt Konfliktachsen in Streiks? Das ist die andere Seite der Demokratie — nicht die repräsentative, sondern die <strong>gelebte</strong>.</p>
+<p>Dieses Panorama versammelt Quellen, die genau das dokumentieren: Institutionen und Praktiken, die Demokratie nicht einfordern, sondern <em>herstellen</em>.</p>
+<hr/>
+<h2 id="die-mehrheitslüge--wessen-demokratie">Die Mehrheitslüge — Wessen Demokratie?<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#die-mehrheitslüge--wessen-demokratie" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Bevor man verstehen kann, warum gelebte Demokratie nötig ist, muss man verstehen, wie sehr die formale Demokratie das Volk verfehlt.</p>
+<p><a href="../Gedankenwelten/Zeitgeist/Semsrott-Zur-Gegenmacht" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Semsrott-Zur-Gegenmacht">Arne Semsrott</a> rechnet es auf: Die aktuelle Bundesregierung steht hinter <strong>27% der Bevölkerung</strong> — nicht der Wähler, sondern aller Menschen, die in Deutschland leben. Ausgeblendet werden: Menschen ohne deutschen Pass (mehr als die AfD Stimmen bekam), Minderjährige (größte Gruppe, für die Klimapolitik gemacht wird, ohne Mitspracherecht), Nichtwähler (überwiegend armutsbetroffene Menschen). Die <strong>Mehrheitslüge</strong> ist strukturell eingebaut.</p>
+<p>Und die Inhalte? Tempolimit: Zwei-Drittel-Mehrheit. Vermögenssteuer: steigende Mehrheit. Legalisierung von Schwangerschaftsabbrüchen: sehr große Mehrheit. <strong>Deutsche Wohnen &amp; Co enteignen</strong>: 59,1% in Berlin — mehr als CDU und SPD zusammen bei der Abgeordnetenhauswahl. Nichts davon wird umgesetzt.</p>
+<p><a href="../Gedankenwelten/Zeitgeist/Zhao-Tingyang,-Forst-und-Williams-Tianxia-und-die-Bedeutungen-der-Demokratie" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Zhao-Tingyang,-Forst-und-Williams-Tianxia-und-die-Bedeutungen-der-Demokratie">Zhao Tingyang, Forst und Williams</a> liefern den theoretischen Rahmen: Demokratie kann majoritär oder deliberativ verstanden werden. Was gerade geschieht — Familienministerin Prien: <em>„Vielfalt ist kein staatliches Förderziel”</em> — ist der Übergang vom pluralistischen zum majoritären Demokratieverständnis. Die Mehrheit hat nicht einfach recht. Die Mehrheit darf auch über Minderheiten hinweg entscheiden.</p>
+<p>Gelebte Demokratie ist die Antwort darauf: <em>Wenn die Repräsentation versagt, muss die Praxis einspringen.</em></p>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Weitergedacht </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Wenn 59,1% für Enteignung stimmen und CDU/SPD blockieren — <em>wie nennen wir das eigentlich? Ist das Demokratie oder ihr Gegenteil?</em></p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="transparenz-als-politische-waffe">Transparenz als politische Waffe<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#transparenz-als-politische-waffe" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Die demokratischste Waffe, die es gibt, ist Information. Und sie ist legal.</p>
+<p><a href="../Gedankenwelten/Zeitgeist/Semsrott-Zur-Gegenmacht" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Semsrott-Zur-Gegenmacht">Semsrott</a> zeigt, wie <a href="../Gedankenwelten/DenkerVita/Arne-Semsrott" class="internal alias" data-slug="Gedankenwelten/DenkerVita/Arne-Semsrott">FragDenStaat</a> das Informationsfreiheitsgesetz (IFG) systematisch als Angriffsinstrument nutzt — nicht als Bitte, sondern als Recht:</p>
+<ul>
+<li><strong>Gewerbesteueroasen</strong>: IFG-Anfrage deckt auf, dass Tochterfirmen der Deutschen Bank im Gerätehaus der freiwilligen Feuerwehr in Lützen sitzen. Kosten der Recherche: 40–50.000 €. Schadenpotenzial für das Netz aller Oasen: ~1 Mrd. Euro. Erste Razzia: wenige Monate nach Veröffentlichung.</li>
+<li><strong>Berliner Antisemitismus-Fördergeldaffäre</strong>: Interne Chats zwischen CDU-Kultursenatorin und CDU-Abgeordnetem zeigen gezielte Umleitung von Fördermitteln. Direkte Reaktion: SPD und CDU schränken das Berliner IFG ein.</li>
+<li><strong>Das Haberverfahren</strong>: 8 Jahre Kampf gegen einen geheimen Erlass — der jetzt vor Gericht gewonnen wurde.</li>
+</ul>
+<p>Das Muster: Der Staat reagiert auf Transparenz mit <strong>Einschränkung von Transparenz</strong>. Das ist keine Panne — das ist das System.</p>
+<p>[[Gilda con Arne 28|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] dokumentiert die andere Seite: die 551 Fragen der Union zur Zivilgesellschaft, die Extremismusklauseln, die Förderstopps. Die Transparenzwaffe wird von oben gefürchtet — und deshalb bekämpft.</p>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Weitergedacht </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>FragDenStaat-Recherchen werden durch IFG-Einschränkungen beantwortet. <em>Was sagt es über ein System, wenn es auf legale Transparenz mit der Einschränkung von Transparenz reagiert?</em></p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="praktische-solidarität--nicht-auf-den-staat-warten">Praktische Solidarität — Nicht auf den Staat warten<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#praktische-solidarität--nicht-auf-den-staat-warten" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Das zweite Prinzip gelebter Demokratie: Nicht fordern, was der Staat tun soll — sondern <em>selbst tun</em>, was der Staat nicht tut.</p>
+<p><strong>Sanktionsfrei</strong> geht in konkrete Fälle: Ein Darlehen für einen Kühlschrank verweigert, weil „Leistungsempfänger Lebensmittel auf dem Balkon lagern können.” Bürgergeld gestrichen, weil eine Geburtsurkunde nicht rechtzeitig vorlag. Sanktionsfrei hilft — nicht als Charity, sondern als <strong>praktische Solidarität</strong>. Menschen als Subjekte mit politischen Ansichten begegnen, nicht als Objekte von Mitleid. Aus dieser Position spricht Helena Steinhaus dann in Medienrunden auf Augenhöhe mit Milliardenlobbyisten.</p>
+<p><strong>Freiheitsfonds</strong> kauft Menschen aus Gefängnissen frei, die dort sitzen, weil Fahren ohne Ticket — seit 1935 eine Straftat — zur Ersatzfreiheitsstrafe führt. ~9.000 Menschen jährlich. Knapp 1.700 wurden freigekauft, ~300 Hafttage vermieden. Gleichzeitig: 14 Kommunen haben beschlossen, keine Strafanzeigen mehr zu stellen. Die Straftat bleibt — aber niemand kommt mehr in den Knast. <strong>Symptom mildern und System angreifen, gleichzeitig.</strong></p>
+<p><a href="../Gedankenwelten/Zeitgeist/Christoph-Butterwegge-Armut-NEU-DENKEN" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Christoph-Butterwegge-Armut-NEU-DENKEN">Butterwegge</a> liefert die strukturelle Einordnung: Armut ist kein Versagen von Individuen, sondern politisch produziert. Sanktionsfrei und Freiheitsfonds machen das sichtbar — nicht durch Analyse, sondern durch Tat.</p>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Weitergedacht </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Sanktionsfrei hilft Menschen, die das Jobcenter gequält hat — <em>macht das das System erträglicher, ohne es zu verändern?</em> Wann ist praktische Solidarität politisch produktiv und wann stabilisiert sie das Problem?</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="organisierung--konfliktachsen-verschieben">Organisierung — Konfliktachsen verschieben<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#organisierung--konfliktachsen-verschieben" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Das dritte Prinzip: Eigene Themen setzen, eigene Konflikte wählen, nicht auf die Agenda der anderen reagieren.</p>
+<p>Der <strong>ver.di-Streik am DHL-Frachtflughafen</strong> in Schkeuditz (Leipzig) ist Semsrotts stärkstes Beispiel: Belegschaft mit geringem Organisationsgrad, Milliardenkonzern, Gebiet mit hoher AfD-Stimmanteile und starker Migrationsgeschichte. ver.di fragte zuerst <em>alle</em> — nicht nur Mitglieder: Was würdet ihr ändern? Dann streikten die wenigen für die Forderungen aller. Ergebnis: Hunderte neue Mitglieder, zwei Tage Stillstand, 11% mehr Lohn. Das Entscheidende: Es gelang, die Konfliktachse von <strong>innen/außen</strong> (deutsch/nichtdeutsch) auf <strong>unten/oben</strong> zu verschieben.</p>
+<p><strong>Deutsche Wohnen &amp; Co enteignen</strong> als politisches Modell: Eigenes Thema setzen (nicht auf AfD-Themen reagieren), 59,1%-Volksbegehren gewinnen, Cheerleader-Gruppen gründen, nach der Blockade durch SPD/CDU einen eigenen Gesetzesvorschlag entwickeln. Und: Spaß dabei haben.</p>
+<p><a href="../Gedankenwelten/Zeitgeist/Gesine-Schwan-Macht-NEU-DENKEN" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Gesine-Schwan-Macht-NEU-DENKEN">Gesine Schwan</a> nennt das <strong>Gestaltungsmacht</strong>: nicht die reaktive Kraft des Protests, sondern die konstruktive Kraft des Schaffens. Kommunale Entwicklungsbeiräte, deliberative Räume, Bürgerentscheide — Demokratie als Praxis, nicht als Verwaltung. Schwan denkt von oben (institutionell), Semsrott von unten (zivilgesellschaftlich). Beides braucht das andere.</p>
+<hr/>
+<h2 id="demokratische-räume--orte-ohne-konsumzwang">Demokratische Räume — Orte ohne Konsumzwang<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#demokratische-räume--orte-ohne-konsumzwang" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Demokratie braucht Orte. Orte, an denen Menschen zusammenkommen können, ohne etwas kaufen zu müssen.</p>
+<p>Semsrott nennt <strong>Bibliotheken</strong>: Leihräder, Saatgutbibliotheken, Kunstzugänge, Akkubohrer. Orte der Demokratie — gerade weil die Stadtbibliothek Magdeburg ihn nach einer AfD-Anfrage ausgeladen hat. Der öffentliche Raum wird zur Kampfarena: Wer darf ihn nutzen? Wer wird ausgeladen? Und: Kann der Anspruch, dass öffentliche Räume für alle da sind, praktisch verteidigt werden?</p>
+<p><a href="../Gedankenwelten/Zeitgeist/Liya-Yu-Der-neuropolitische-Gesellschaftsvertrag" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Liya-Yu-Der-neuropolitische-Gesellschaftsvertrag">Liya Yus</a> Konzept des <strong>Spatial Awe</strong> ergänzt das: Räume, die Ehrfurcht auslösen — gemeinsame Gärten, Plätze, Begegnungsarchitektur — aktivieren neuronal das Gefühl, zu etwas Größerem zu gehören. In-Group-Grenzen verschieben sich. Keine Diskussion nötig, keine Argumente. Manchmal reicht ein gemeinsamer Raum.</p>
+<p>Und <strong>Netzwerk Pulilux</strong> — ein Netzwerk, das kritische Zivilgesellschaft im Osten finanziert — baut genau das: Infrastruktur, die politische Teilhabe möglich macht, wo sie strukturell schwach ist.</p>
+<hr/>
+<h2 id="die-16--wer-ist-die-demokratische-infrastruktur">Die 16% — Wer ist die demokratische Infrastruktur?<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#die-16--wer-ist-die-demokratische-infrastruktur" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="../Gedankenwelten/Zeitgeist/Matthias-Quent-und-Maja-Goepel-Extremismus-NEU-DENKEN" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Matthias-Quent-und-Maja-Goepel-Extremismus-NEU-DENKEN">Quent und Goepel</a> liefern die nüchterne Vermessung: <strong>~30%</strong> der Bevölkerung sind umfassend ohnmächtig. Weitere <strong>~30%</strong> resigniert. <strong>~20%</strong> reagieren situativ. Nur <strong>~16%</strong> gehören zu den „Kämpfenden” — die sich organisieren, diskutieren, handeln.</p>
+<p>Diese 16% <em>sind</em> die demokratische Infrastruktur. Nicht der Staat, nicht die Parteien — Graswurzelbürger:innen. Und Quents entscheidender Befund: <strong>Hoffnung kommt vom Machen.</strong> Diejenigen, die am besten durch Krisen kommen, sind nicht die Privilegiertesten — sondern die Handelnden. Nicht jeder muss in der ersten Reihe stehen. Einen Kuchen bei Omas gegen Rechts backen kann ein Akt der Selbstbemächtigung sein.</p>
+<p>Beim Sommer der Migration 2015 engagierten sich mehr als <strong>4 Millionen Menschen</strong> in Deutschland aktiv — Essen gebracht, Wohnungen organisiert, gehandelt. Diese Menschen sind nicht verschwunden. Die letzten 10 Jahre brachten die größten zivilgesellschaftlichen Bewegungen der Bundesrepublik: größte Bürgerrechtsbewegung, größte antirassistische Proteste, größte Klimaschutz-Bewegung, größte Protestwelle überhaupt (2024 — über 3,6 Millionen Teilnehmende bis März).</p>
+<blockquote>
+<p><em>„Wir sind alle da und wir sind viele. Wir sind die Gegenmacht, wenn wir uns auf unsere Kraft besinnen.”</em>
+— Arne Semsrott, re:publica 26</p>
+</blockquote>
+<hr/>
+<h2 id="verbindungen">Verbindungen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#verbindungen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="-architekten-des-lebendigen">→ <a href="../Gedankenwelten/Gedanken/Architekten-des-Lebendigen-Systeme-die-dem-Leben-dienen" class="internal alias" data-slug="Gedankenwelten/Gedanken/Architekten-des-Lebendigen-Systeme-die-dem-Leben-dienen">Architekten des Lebendigen</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-architekten-des-lebendigen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Philosophisch-theoretisches Pendant: Während dieser Panorama konkrete Institutionen und Praktiken versammelt, fragt <em>Architekten</em> nach den Architekturprinzipien, die lebendige Systeme auszeichnen. Semsrotts Freiheitsfonds, Sanktionsfrei und FragDenStaat sind Bausteine im Architekten-Sinn — aber noch nicht dort dokumentiert. Gelebte Demokratie ist die politische Praxis dessen, was Architekten als Theorie entfaltet.</p>
+<h3 id="-demokratische-wertschöpfung">→ <a href="../Gedankenwelten/Panorama/Demokratische-Wertschoepfung" class="internal alias" data-slug="Gedankenwelten/Panorama/Demokratische-Wertschoepfung">Demokratische Wertschöpfung</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-demokratische-wertschöpfung" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Das wirtschaftliche Gegenstück: Wo dieses Panorama politische Praxis versammelt (FragDenStaat, Streik, Volksbegehren), versammelt <em>Demokratische Wertschöpfung</em> wirtschaftliche Praxis (Genossenschaften, Mondragón, Bürgerenergie). Beides ist gelebte Demokratie — in unterschiedlichen Arenen.</p>
+<h3 id="-noafd">→ <a href="../Gedankenwelten/Panorama/NoAfD" class="internal alias" data-slug="Gedankenwelten/Panorama/NoAfD">NoAfD</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-noafd" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Die Defensive als Hintergrundfolie: Was in <em>Gelebte Demokratie</em> aufgebaut wird, ist auch das, was in <em>NoAfD</em> verteidigt wird. Beide Panoramen brauchen einander — das Eine zeigt die Bedrohung, das Andere die Antwort.</p>
+<hr/>
+<h2 id="weiterdenken">Weiterdenken<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#weiterdenken" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Was Sokrates vielleicht gefragt hätte </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ul>
+<li>Die meisten Institutionen hier lösen keine systemischen Probleme — sie mildern deren Folgen. <em>Ist das politisch wirksam genug, oder macht es das System erträglicher, ohne es zu verändern?</em> Und: Wann genau kippt das?</li>
+<li>Semsrott sagt, Engagement braucht Spaß und Freude. <em>Ist das eine echte politische Strategie — oder eine Schutzbehauptung gegen Burnout?</em> Wie verhält sich das zur Ernsthaftigkeit der Bedrohung?</li>
+<li>Die Konfliktachse von „innen/außen” auf „unten/oben” zu verschieben gelingt im DHL-Streik — aber nicht in der Bundestagspolitik. <em>Was macht Gewerkschaften in diesem Moment demokratischer als Parteien?</em></li>
+<li>Wenn 16% die demokratische Infrastruktur sind — <em>welche Pflicht haben die anderen 84%, diese 16% nicht allein zu lassen?</em></li>
+<li>8 Jahre Geduld beim Haberverfahren, am Ende ein Sieg. <em>Wie unterscheidet man strategische Geduld von politischer Erschöpfung?</em></li>
+</ul>
+</div>
+</blockquote>
+<hr/>
+<h2 id="alle-verlinkten-notes">Alle verlinkten Notes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#alle-verlinkten-notes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Note</th><th>Beitrag</th></tr></thead><tbody><tr><td><a href="../Gedankenwelten/Zeitgeist/Semsrott-Zur-Gegenmacht" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Semsrott-Zur-Gegenmacht">Semsrott — Zur Gegenmacht</a></td><td>Hauptquelle: Mehrheitslüge, FragDenStaat, Sanktionsfrei, Freiheitsfonds, ver.di, Bibliotheken</td></tr><tr><td><a href="../Gedankenwelten/Zeitgeist/Gesine-Schwan-Macht-NEU-DENKEN" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Gesine-Schwan-Macht-NEU-DENKEN">Gesine Schwan — Macht NEU DENKEN</a></td><td>Gestaltungsmacht als demokratische Praxis von unten</td></tr><tr><td><a href="../Gedankenwelten/Zeitgeist/Matthias-Quent-und-Maja-Goepel-Extremismus-NEU-DENKEN" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Matthias-Quent-und-Maja-Goepel-Extremismus-NEU-DENKEN">Quent &amp; Goepel — Extremismus NEU DENKEN</a></td><td>16% als demokratische Infrastruktur; Hoffnung kommt vom Machen</td></tr><tr><td>[[Gilda con Arne 28|Gilda con Arne #28 — Angriff auf Zivilgesellschaft]]</td><td>Was gelebte Demokratie bekämpft: Förderstopps, Einschüchterung</td></tr><tr><td><a href="../Gedankenwelten/Zeitgeist/Moini-und-Chiofalo-GFF-AfD-Verbotsgutachten" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Moini-und-Chiofalo-GFF-AfD-Verbotsgutachten">Moini &amp; Chiofalo — GFF AfD-Verbotsgutachten</a></td><td>Rechtsstaat als demokratisches Instrument; GFF als Gegenrechtsschutz</td></tr><tr><td><a href="../Gedankenwelten/Zeitgeist/Zhao-Tingyang,-Forst-und-Williams-Tianxia-und-die-Bedeutungen-der-Demokratie" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Zhao-Tingyang,-Forst-und-Williams-Tianxia-und-die-Bedeutungen-der-Demokratie">Zhao, Forst &amp; Williams — Bedeutungen der Demokratie</a></td><td>Majoritäre vs. deliberative Demokratie; philosophischer Rahmen</td></tr><tr><td><a href="../Gedankenwelten/Zeitgeist/Christoph-Butterwegge-Armut-NEU-DENKEN" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Christoph-Butterwegge-Armut-NEU-DENKEN">Butterwegge — Armut NEU DENKEN</a></td><td>Strukturelle Einordnung: Armut als politisch produziertes Problem</td></tr><tr><td><a href="../Gedankenwelten/Zeitgeist/Liya-Yu-Der-neuropolitische-Gesellschaftsvertrag" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Liya-Yu-Der-neuropolitische-Gesellschaftsvertrag">Liya Yu — Neuropolitischer Gesellschaftsvertrag</a></td><td>Spatial Awe: demokratische Räume als neuropolitisches Instrument</td></tr><tr><td><a href="../Gedankenwelten/Gedanken/Architekten-des-Lebendigen-Systeme-die-dem-Leben-dienen" class="internal alias" data-slug="Gedankenwelten/Gedanken/Architekten-des-Lebendigen-Systeme-die-dem-Leben-dienen">Architekten des Lebendigen</a></td><td>Theoretisches Fundament: Systeme, die dem Leben dienen</td></tr><tr><td><a href="../Gedankenwelten/Panorama/Demokratische-Wertschoepfung" class="internal alias" data-slug="Gedankenwelten/Panorama/Demokratische-Wertschoepfung">Demokratische Wertschöpfung</a></td><td>Wirtschaftliche Dimension: Genossenschaften, Bürgerenergie</td></tr><tr><td><a href="../Gedankenwelten/Panorama/NoAfD" class="internal alias" data-slug="Gedankenwelten/Panorama/NoAfD">NoAfD</a></td><td>Die Defensive: Was gelebte Demokratie verteidigt</td></tr><tr><td><a href="../Gedankenwelten/Zeitgeist/rp26-Stresstest-fuer-die-Demokratie-Ostdeutschland" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/rp26-Stresstest-fuer-die-Demokratie-Ostdeutschland">rp26 — Stresstest Demokratie Ostdeutschland</a></td><td>Mangelbedingungen · Demokratie ohne staatliche Förderstruktur im Osten</td></tr></tbody></table></div></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-251" aria-expanded="true"><h3>Inhaltsverzeichnis</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#gelebte-demokratie" data-for="gelebte-demokratie">Gelebte Demokratie</a></li><li class="depth-1"><a href="#warum-dieses-thema" data-for="warum-dieses-thema">Warum dieses Thema?</a></li><li class="depth-1"><a href="#die-mehrheitslüge--wessen-demokratie" data-for="die-mehrheitslüge--wessen-demokratie">Die Mehrheitslüge — Wessen Demokratie?</a></li><li class="depth-1"><a href="#transparenz-als-politische-waffe" data-for="transparenz-als-politische-waffe">Transparenz als politische Waffe</a></li><li class="depth-1"><a href="#praktische-solidarität--nicht-auf-den-staat-warten" data-for="praktische-solidarität--nicht-auf-den-staat-warten">Praktische Solidarität — Nicht auf den Staat warten</a></li><li class="depth-1"><a href="#organisierung--konfliktachsen-verschieben" data-for="organisierung--konfliktachsen-verschieben">Organisierung — Konfliktachsen verschieben</a></li><li class="depth-1"><a href="#demokratische-räume--orte-ohne-konsumzwang" data-for="demokratische-räume--orte-ohne-konsumzwang">Demokratische Räume — Orte ohne Konsumzwang</a></li><li class="depth-1"><a href="#die-16--wer-ist-die-demokratische-infrastruktur" data-for="die-16--wer-ist-die-demokratische-infrastruktur">Die 16% — Wer ist die demokratische Infrastruktur?</a></li><li class="depth-1"><a href="#verbindungen" data-for="verbindungen">Verbindungen</a></li><li class="depth-2"><a href="#-architekten-des-lebendigen" data-for="-architekten-des-lebendigen">→ Architekten des Lebendigen</a></li><li class="depth-2"><a href="#-demokratische-wertschöpfung" data-for="-demokratische-wertschöpfung">→ Demokratische Wertschöpfung</a></li><li class="depth-2"><a href="#-noafd" data-for="-noafd">→ NoAfD</a></li><li class="depth-1"><a href="#weiterdenken" data-for="weiterdenken">Weiterdenken</a></li><li class="depth-1"><a href="#alle-verlinkten-notes" data-for="alle-verlinkten-notes">Alle verlinkten Notes</a></li><li class="overflow-end"></li></ul></div></div><footer class><div class="footer-logo"><img src="/static/gedankenwelten-logo.svg" alt="Gedankenwelten"/></div><p>Erstellt mit <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="/Impressum">Impressum</a></li><li><a href="/graph">Graph</a></li><li><a href="https://github.com/gedankenwelten/gedankenwelten">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

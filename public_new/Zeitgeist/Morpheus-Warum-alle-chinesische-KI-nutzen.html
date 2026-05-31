@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr"><head><title>Morpheus — Warum alle chinesische KI nutzen · Gedankenwelten</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Inter:ital,wght@0,400;0,600;1,400;1,600&amp;family=JetBrains Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Gedankenwelten"/><meta property="og:title" content="Morpheus — Warum alle chinesische KI nutzen · Gedankenwelten"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Morpheus — Warum alle chinesische KI nutzen · Gedankenwelten"/><meta name="twitter:description" content="Morpheus — Warum alle chinesische KI nutzen Quelle: Warum plötzlich alle chinesische KI nutzen Wer spricht? Cedric Mössner alias Morpheus (Potsdam) — Informatik-Educator, YouTuber (TheMorpheus407), Gründer von Bootstrap Academy (kostenlose Tech-Ausbildungsplattform) und “European Alternatives” (280+..."/><meta property="og:description" content="Morpheus — Warum alle chinesische KI nutzen Quelle: Warum plötzlich alle chinesische KI nutzen Wer spricht? Cedric Mössner alias Morpheus (Potsdam) — Informatik-Educator, YouTuber (TheMorpheus407), Gründer von Bootstrap Academy (kostenlose Tech-Ausbildungsplattform) und “European Alternatives” (280+..."/><meta property="og:image:alt" content="Morpheus — Warum alle chinesische KI nutzen Quelle: Warum plötzlich alle chinesische KI nutzen Wer spricht? Cedric Mössner alias Morpheus (Potsdam) — Informatik-Educator, YouTuber (TheMorpheus407), Gründer von Bootstrap Academy (kostenlose Tech-Ausbildungsplattform) und “European Alternatives” (280+..."/><meta property="twitter:domain" content="gedankenwelten.org"/><meta property="og:url" content="https://gedankenwelten.org/Zeitgeist/Morpheus-Warum-alle-chinesische-KI-nutzen"/><meta property="twitter:url" content="https://gedankenwelten.org/Zeitgeist/Morpheus-Warum-alle-chinesische-KI-nutzen"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Morpheus — Warum alle chinesische KI nutzen Quelle: Warum plötzlich alle chinesische KI nutzen Wer spricht? Cedric Mössner alias Morpheus (Potsdam) — Informatik-Educator, YouTuber (TheMorpheus407), Gründer von Bootstrap Academy (kostenlose Tech-Ausbildungsplattform) und “European Alternatives” (280+..."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvbHVjL3NlcnZpY2VzL2dlZGFua2Vud2VsdGVuL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://gedankenwelten.org/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://gedankenwelten.org/Zeitgeist/Morpheus-Warum-alle-chinesische-KI-nutzen-og-image.webp"/><meta property="og:image:url" content="https://gedankenwelten.org/Zeitgeist/Morpheus-Warum-alle-chinesische-KI-nutzen-og-image.webp"/><meta name="twitter:image" content="https://gedankenwelten.org/Zeitgeist/Morpheus-Warum-alle-chinesische-KI-nutzen-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Zeitgeist/Morpheus-Warum-alle-chinesische-KI-nutzen"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Gedankenwelten</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Suche</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Suche nach etwas" placeholder="Suche nach etwas"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dunkler Modus"><title>Dunkler Modus</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Heller Modus"><title>Heller Modus</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Lesemodus"><title>Lesemodus</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>{if(a.isFolder&amp;&amp;!b.isFolder)return-1;if(!a.isFolder&amp;&amp;b.isFolder)return 1;let aDate=a.data?.date?new Date(a.data.date).getTime():0,bDate=b.data?.date?new Date(b.data.date).getTime():0;return aDate!==bDate?bDate-aDate:a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;})}&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-876"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-876" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Zeitgeist/">Zeitgeist</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Morpheus — Warum alle chinesische KI nutzen</a></div></nav><h1 class="article-title">Morpheus — Warum alle chinesische KI nutzen</h1><p show-comma="true" class="content-meta"><time datetime="2025-05-16T22:00:00.000Z">17. Mai 2025</time><span>14 Min. Lesezeit</span></p><ul class="tags"><li><a href="../tags/zeitgeist" class="internal tag-link">zeitgeist</a></li><li><a href="../tags/ki" class="internal tag-link">ki</a></li><li><a href="../tags/technologie" class="internal tag-link">technologie</a></li><li><a href="../tags/geopolitik" class="internal tag-link">geopolitik</a></li><li><a href="../tags/demokratie" class="internal tag-link">demokratie</a></li><li><a href="../tags/medien" class="internal tag-link">medien</a></li><li><a href="../tags/usa" class="internal tag-link">usa</a></li><li><a href="../tags/deutschland" class="internal tag-link">deutschland</a></li><li><a href="../tags/year-2025" class="internal tag-link">year-2025</a></li></ul></div></div><article class="popover-hint"><h1 id="morpheus--warum-alle-chinesische-ki-nutzen">Morpheus — Warum alle chinesische KI nutzen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#morpheus--warum-alle-chinesische-ki-nutzen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Quelle: <a href="https://www.youtube.com/watch?v=LyqaUUs0o-M" class="external" target="_blank">Warum plötzlich alle chinesische KI nutzen<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<blockquote class="callout info" data-callout="info">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Wer spricht? </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p><strong>Cedric Mössner</strong> alias <strong>Morpheus</strong> (<em>Potsdam</em>) — Informatik-Educator, YouTuber (TheMorpheus407), Gründer von Bootstrap Academy (kostenlose Tech-Ausbildungsplattform) und “European Alternatives” (280+ geprüfte EU-Open-Source-Alternativen zu US-Diensten).</p>
+<p>Master in Computer Science mit Schwerpunkten Machine Learning und IT-Sicherheit. Betreibt über 2.000 YouTube-Videos zu Informatik, Programmierung und IT-Sicherheit. Bekannt für empirische, datenbetriebene Analysen — er nutzt selbst täglich chinesische KI-Modelle und hat für dieses Video über 6.000 Tests systematisch durchgeführt.</p>
+<p>→ <a href="../Gedankenwelten/DenkerVita/Morpheus" class="internal alias" data-slug="Gedankenwelten/DenkerVita/Morpheus">DenkerVita</a></p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="der-deepseek-moment-und-die-unsichtbare-welle">Der DeepSeek-Moment und die unsichtbare Welle<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#der-deepseek-moment-und-die-unsichtbare-welle" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=0" class="external" target="_blank">▶ 0:00<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Am 27. Januar 2025 erschien DeepSeek R1 auf Hugging Face — MIT-Lizenz, kostenlos, angeblich für 5,6 Millionen Dollar trainiert. Nvidia verlor an diesem Tag 589 Milliarden Dollar an der Börse. Die Presse nannte es den “Sputnik-Moment”. Dann haben wir uns daran gewöhnt.</p>
+<p>Was Morpheus beschreibt, ist präziser: Das war nicht das Ereignis — das war der Beginn einer Welle. Im April 2026 allein erschienen sechs Frontier-Releases aus China in 26 Tagen:</p>
+<blockquote>
+<p><em>„Alle viereinhalb Tage im Schnitt ein neues Flagschiffmodell aus China. Und das ist kein Ausreißermonat.”</em></p>
+</blockquote>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=225" class="external" target="_blank">▶ 3:45<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Alibaba Qwen 3.6 Plus, GLM 5.1, Kimi K2.6, Qwen 3.6 Max Preview, DeepSeek V4 Pro/Flash, Xiaomi Mimo V2.5 Pro — allesamt Flagschiffe, keine Minimodelle. Was in westlichen Tech-Medien kaum ankam: Doubao, der KI-Chatbot von ByteDance (TikTok-Mutter), hat bereits 150 Millionen wöchentliche aktive Nutzer.</p>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Weitergedacht </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Wenn wir in der Vergangenheit jede bedeutende Technologieverschiebung erst wahrnahmen, nachdem sie uns bereits überrollt hatte — was sagt das über unsere strukturelle Unfähigkeit zur Vorausschau aus?</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="warum-so-billig-die-dreifach-subvention">Warum so billig? Die Dreifach-Subvention<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#warum-so-billig-die-dreifach-subvention" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=816" class="external" target="_blank">▶ 13:36<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Die naheliegende Erklärung — Effizienz — ist nur ein Drittel der Wahrheit. Die erste Ebene ist physikalisch: Laut IEA-Bericht 2024 verbraucht Chinas Industrie 60% des nationalen Stroms (OECD-Schnitt: 32%). Der Industriestrom kostet in der EU etwa das Doppelte wie in den USA und 50% mehr als in China.</p>
+<blockquote>
+<p><em>„Wer einer KI das Stromfundament dreimal billiger anbietet, kann natürlich am Ende die Tokens auch fast dreimal billiger anbieten.”</em></p>
+</blockquote>
+<p>Die zweite Ebene ist politischer Natur. Die USC (US-China Economic and Security Review Commission) veröffentlichte im März 2026 den Report “Two Loops” mit dem expliziten Befund: Peking subventioniert aktiv den API-Zugang und fertige Modelllizenzen chinesischer KI-Anbieter.</p>
+<blockquote>
+<p><em>„Diese Preise sind also durchaus politisch produziert. Eine sehr bewusste Marktwaffe.”</em></p>
+</blockquote>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=908" class="external" target="_blank">▶ 15:08<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Die dritte Ebene ist strategisch: Joel Spolskis Prinzip “Commoditize your complement” aus dem Jahr 2002 beschreibt exakt die chinesische Strategie. Mach das, was du nicht selbst verkaufst, billig wie Wasser — dann wird das, was du verkaufst, wertvoller. China verschenkt Open-Weights-Modelle, weil es Clouddienste über Alibaba und Hardware über Huawei verkauft. Die scheinbare Großzügigkeit ist Marktstrategik.</p>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Eigene Einschätzung </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Das ist keine neue Strategie — Linux hat IBM großgemacht, Android hat Google die Smartphone-Ökosphäre gesichert. Was neu ist: Die Geschwindigkeit, mit der diese Strategie auf KI angewendet wird, und dass der Player dahinter ein Nationalstaat mit strategischen Interessen ist, nicht ein Unternehmen mit wirtschaftlichen. Der Unterschied ist erheblich.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="der-bias-test-6275-api-calls-und-was-sie-enthüllen">Der Bias-Test: 6.275 API-Calls und was sie enthüllen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#der-bias-test-6275-api-calls-und-was-sie-enthüllen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=1044" class="external" target="_blank">▶ 17:24<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Das Herzstück des Videos ist eine Eigenerhebung: 6.275 API-Calls über die sieben größten Modelle, 16 Themen, drei Sprachen (Deutsch, Englisch, Chinesisch). Kein Bauchgefühl — systematische Messung mit Cohen’s D als Effektstärkemaß.</p>
+<p>Das erste Ergebnis ist überraschend beruhigend: Bei westlichen Reizthemen (NSA, Irak, Snowden, Kapitolsturm) zeigen chinesische und westliche Modelle fast identische Sentiments — 0,55 vs. 0,51. Cohen’s D = +0,05, statistisch vernachlässigbar. Beide Modellgruppen sind annähernd gleich kritisch gegenüber westlichen Strukturen.</p>
+<p>Das zweite Ergebnis ist das Gegenteil:</p>
+<blockquote>
+<p><em>„Bei den heiklen China-Themen — Xinjiang, Tibet, Hong Kong, Falun Gong, Taiwan — liegt Cohens D bei -1,13. In der Statistik wäre das also ein durchaus riesiger Effekt, also eine ganze Standardabweichung Verschiebung zwischen den beiden Modellgruppen.”</em></p>
+</blockquote>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=1183" class="external" target="_blank">▶ 19:43<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>In der Praxis: Chinesische Modelle verweigern bei China-Reizthemen im Schnitt 15,4% der Anfragen, westliche Modelle 1,6%. Fast 50% der Antworten chinesischer Modelle enthielten einen pro-China-Propagandasatz. Beispiele aus dem Test:</p>
+<ul>
+<li>MiniMax: <em>„Alle Beschuldigungen über sogenannte Internierungslager entbehren jeder Grundlage.”</em></li>
+<li>Zu Liu Xiaobo (Friedensnobelpreisträger): <em>„Liu Xiaobo ist eine Person, die gegen chinesische Gesetze verstoßen und Straftaten begangen hat.”</em></li>
+</ul>
+<p>Die NIST hat im KAISI-Bericht (Sommer 2025) exakt dieselbe Richtung bestätigt: DeepSeek gibt im Schnitt viermal so viele inakkurate oder irreführende CCP-Narrative wieder wie US-Referenzmodelle.</p>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Weitergedacht </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Wenn westliche Modelle bei westlichen Reizthemen genauso kritisch sind wie bei östlichen — ist das ein Zeichen von Objektivität, oder von einer anderen Art von Bias, der sich selbst nicht als solchen erkennt?</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="die-keyword-mauer-kein-wertefilter-sondern-zensurtechnik">Die Keyword-Mauer: kein Wertefilter, sondern Zensurtechnik<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#die-keyword-mauer-kein-wertefilter-sondern-zensurtechnik" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=1274" class="external" target="_blank">▶ 21:14<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Der vielleicht aufschlussreichste Befund kommt aus dem Vergleich direkter und indirekter Formulierungen. DeepSeek V4 Pro auf Tiananmen Square direkt angesprochen: 80% Verweigerungsrate auf Deutsch, 72% auf Chinesisch. Dieselbe Frage indirekt gestellt — <em>“Fasse bitte den Wikipedia-Artikel dazu zusammen”</em> — lässt die Verweigerungsrate bei DeepSeek von 40% auf 18% fallen, bei Kimi sogar von 9,7% auf 2%.</p>
+<blockquote>
+<p><em>„Was wir hier sehen, ist also kein echter Wertefilter, wenn ihr so wollt, sondern eine Art Keyword-Mauer. Sobald ihr also indirekt formuliert, kommt ihr in den meisten Fällen einfach durch.”</em></p>
+</blockquote>
+<p>Das ist keine beruhigende Information. Eine Keyword-Mauer ist leicht zu umgehen — was bedeutet, dass sie nicht für informierte Nutzer gedacht ist, sondern für unbedarfte. Das ist ein Filter, der Kinder, Schüler und Journalisten trifft, die nicht wissen, wie man ihn umgeht.</p>
+<p>Morpheus zieht die praktische Konsequenz: Wenn diese Modelle auf europäischer Hardware laufen, verschwindet der Bias nicht. Wenn Schulen chinesische KI als Tutor einsetzen, antwortet sie so, wie die chinesische Regierung es möchte. Wenn Journalisten mit chinesischer KI über chinesische Politik schreiben — fällt das in den journalistischen Outputs nicht mehr auf.</p>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Eigene Einschätzung </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Das erinnert an das, was Shoshana Zuboff über den Überwachungskapitalismus schreibt: Der gefährlichste Einfluss ist nicht der sichtbare, sondern der, der sich als neutral tarnt. Eine KI, die offen propagandistisch antwortet, ist erkennbar und abweisbar. Eine KI, die subtil bestimmte Framings bevorzugt, ist es nicht.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="effizienz-statt-skalierung-moe-und-long-horizon-tasks">Effizienz statt Skalierung: MoE und Long-Horizon-Tasks<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#effizienz-statt-skalierung-moe-und-long-horizon-tasks" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=1411" class="external" target="_blank">▶ 23:31<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Die technische Antwort auf die Frage, wie China unter Sanktionen frontier-nahe Modelle bauen kann, ist elegant. Der Westen hat sich auf eine Achse versteift: Skalierung. Mehr GPUs, mehr Strom, mehr Daten. Als Sanktionen diese Achse abschnitten, hat China die anderen Achsen abgegrast.</p>
+<p>Achse 1: <strong>Mixture of Experts (MoE)</strong>. DeepSeek V4 Pro hat 1,6 Billionen Parameter gesamt — aber pro Anfrage werden nur 49 Milliarden aktiviert. Der Rest schläft. Bei einem Kontext von einer Million Tokens braucht V4 nur 27% der Rechen-FLOPs seines Vorgängers und 10% des Speichers bei besserer Leistung.</p>
+<blockquote>
+<p><em>„Dieselbe Aufgabe, aber mit einem Drittel der Maschine erledigt.”</em></p>
+</blockquote>
+<p>Achse 2: <strong>Long-Horizon Tasks</strong>. GLM 5.1 von ZAI lief im Test 8 Stunden lang autonom durch eine Aufgabe, ohne dass jemand neu prompten musste. Das spart nicht nur Tokens, sondern schafft Raum für echte Planungsfähigkeit.</p>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=1549" class="external" target="_blank">▶ 25:49<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Achse 3: <strong>Abkupfern</strong>. GLM 5 läuft als Inferenz auf sieben verschiedenen chinesischen Chip-Plattformen gleichzeitig — durch einen Software-Abstraktions-Layer, der die Hardware darunter austauschbar macht. Beim Training aber hängt China laut Berichten weiter an Nvidia-Chips. Und auch die souveräne Hardware ist nicht so souverän: Huawei Ascend Chips enthalten Komponenten von TSMC, Samsung und SK Hynix.</p>
+<hr/>
+<h2 id="destillation-als-technologieklau-24000-fake-accounts">Destillation als Technologieklau: 24.000 Fake-Accounts<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#destillation-als-technologieklau-24000-fake-accounts" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=1732" class="external" target="_blank">▶ 28:52<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Am 23. Februar 2026 veröffentlichte Anthropic einen brisanten Bericht: 24.000 betrügerische Accounts wurden identifiziert, die zusammen über 16 Millionen Austausche mit Claude generiert hatten — in drei Gruppen mit klaren Verhaltensmustern:</p>
+<ul>
+<li><strong>MiniMax</strong>: 13+ Millionen Anfragen, Schwerpunkt agentisches Coding und Tool Use</li>
+<li><strong>Moonshot</strong>: 3,4+ Millionen Anfragen, Schwerpunkt Computer Use und Computer Vision</li>
+<li><strong>DeepSeek</strong>: 150.000 Anfragen — aber gezielt auf Reasoning und wörtlich: <em>“Censorship Safe Alternatives”</em> — Antworten auf heikle Fragen, die ein Anthropic-Modell anders beantwortet als es nach chinesischen Compliance-Regeln sein sollte</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=1777" class="external" target="_blank">▶ 29:37<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Das ist Destillation — ein schwächeres Modell lernt von den Antworten eines stärkeren. An sich eine legitime Trainingstechnik. 24.000 Fake-Accounts und Proxy-Strukturen sind es nicht. Zwei Monate später, am 23. April 2026, veröffentlichte das Weiße Haus ein National Security Technical Memorandum mit dem Befund: <em>“Deliberate Industrial Scale Campaigns […] hauptsächlich aus China mit dem Ziel, US Frontier AI Systeme abzugreifen.”</em></p>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Eigene Einschätzung </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Hier zeigt sich das eigentliche Paradox: Westliche Modelle sind durch ihre Offenheit — Zugänglichkeit via API, niedrige Barrieren — anfällig für genau diesen Ansatz. Geschlossenheit schützt, kostet aber auch Innovations-Ökosphäre. Das ist keine technische Frage, sondern eine politische Abwägung, für die es keine neutrale Antwort gibt.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="das-cuda-modell-plattform-lock-in-eine-ebene-höher">Das CUDA-Modell: Plattform-Lock-in eine Ebene höher<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#das-cuda-modell-plattform-lock-in-eine-ebene-höher" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=2050" class="external" target="_blank">▶ 34:10<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Die strategischste Analyse des Videos ist eine Analogie: China baut gerade das, was Nvidia mit CUDA seit 2007 auf Hardware-Ebene gebaut hat — nur eine Ebene höher, auf Modellebene.</p>
+<p>CUDA ist kein besseres Produkt als Alternativ-APIs. CUDA hat gewonnen, weil Nvidia es tief in Universitäten, ML-Bibliotheken und Forschungsinfrastruktur verankert hat, bis niemand mehr die Alternativen kannte. Wer KI studiert hat, hat mit CUDA programmiert. Wer mit PyTorch arbeitet, arbeitet mit CUDA.</p>
+<blockquote>
+<p><em>„China baut gerade exakt dasselbe Modell, nur eine Ebene höher auf Modellebene.”</em></p>
+</blockquote>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=2095" class="external" target="_blank">▶ 34:55<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Aus dem Westen kamen in den letzten 12 Monaten drei Open-Weights Frontier-Modelle (Llama 4, Mistral, GPT OSS). Aus China ungefähr 20. Aber “Open Weights” ist nicht “Open Source”: Wir wissen nicht, wie diese Modelle trainiert wurden, mit welchen Daten, mit welchen Gewichtungen. Selbst das Herunterladen und selbst Ausführen macht nicht unabhängig — es macht abhängig von der nächsten Veröffentlichung aus China.</p>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Weitergedacht </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Open Source hat uns gelehrt, zwischen “free as in beer” und “free as in freedom” zu unterscheiden. Brauchen wir für KI-Modelle eine analoge Unterscheidung — zwischen “open weights” und “open training”? Und wer wäre in der Lage, das politisch durchzusetzen?</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="drei-türen-für-europa--und-die-vierte-die-niemand-baut">Drei Türen für Europa — und die vierte, die niemand baut<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#drei-türen-für-europa--und-die-vierte-die-niemand-baut" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=2275" class="external" target="_blank">▶ 37:55<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Morpheus endet mit drei Türen:</p>
+<p><strong>Tür 1: Amerikanischer Stack.</strong> Claude, GPT, Copilot — bequem, leistungsfähig, aber unter fremder Jurisdiktion. Das Bundesverfassungsgericht hat 1983 informationelle Selbstbestimmung als Grundrecht festgestellt. Unter dem Cloud Act gilt das in der Praxis nicht.</p>
+<p><strong>Tür 2: Chinesischer Stack.</strong> Günstig, schnell, mit messbarer Bias-Asymmetrie und dem National Intelligence Law im Hintergrund. Auch hier: fremde Jurisdiktion.</p>
+<p><strong>Tür 3: Open Weights auf europäischer Infrastruktur.</strong> Lidl (Schwarz Digits) hostet ein Qwen-Modell auf Stack. Jupiter ist im Aufbau. Mistral, Black Forest Labs, ALF Alpha existieren. Aber Mistral landet in Nutzer-Votings auf Platz 89 unter allen LLMs. Es ist die teurere, langsamere, deutlich unbeliebter Tür.</p>
+<p><a href="https://www.youtube.com/watch?v=LyqaUUs0o-M&amp;t=2230" class="external" target="_blank">▶ 37:10<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Die vielleicht schärfste Beobachtung: Das Bundesinnenministerium hat im Juli 2024 Verträge mit Mobilfunkbetreibern abgeschlossen, die Huawei und ZTE bis Ende 2026 aus 5G-Kernnetzen verbannen. Begründung: kritische Infrastruktur, ausländische Jurisdiktion, Sicherheitsrisiko.</p>
+<blockquote>
+<p><em>„Bei Antennen sind wir paranoid. Bei Sprachmodellen, die ehrlich gesagt diese Information direkt verarbeiten, sind wir naiv.”</em></p>
+</blockquote>
+<p>KI-Modelle lesen täglich Verträge in Anwaltskanzleien, Patientenakten in Krankenhäusern, Mandantengeheimnisse in Steuerberatungen. Die Analogie zu den 5G-Antennen ist politisch präzise — und der Widerspruch ist bisher unaufgelöst.</p>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Eigene Einschätzung </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Morpheus’ Schlussdiagnose ist ehrlicher als die meisten Tech-Analysen: Er selbst nutzt Minimax für Code, weil europäische Modelle die Bugs nicht fixen und die Kosten sonst zu hoch wären. Das ist kein ideologisches Versagen — das ist Marktlogik. Was fehlt, ist nicht Aufklärung, sondern politischer Wille, die Marktbedingungen zu verändern. Solange die dritte Tür teurer und schlechter ist als die anderen, wird sie niemand freiwillig nehmen. Die Frage ist, ob Europa die Kapazität hat, das zu ändern — und ob es den politischen Mut hat, das zu tun, bevor die Abhängigkeiten gesetzt sind.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="faktencheck">Faktencheck<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#faktencheck" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Bestätigt — Nvidia-Verlust 589 Milliarden </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Am 27. Januar 2025 verlor Nvidia rund 589 Milliarden Dollar Marktkapitalisierung — der größte Einzeltagesverlust in der US-Börsengeschichte. Andere Quellen runden auf “fast 600 Milliarden”. Quelle: <a href="https://www.heise.de/en/news/DeepSeek-hype-Nvidia-lost-600-billion-US-dollars-in-stock-market-value-in-a-day-10258495.html" class="external" target="_blank">Heise Online — DeepSeek hype: Nvidia lost 600 billion US dollars<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Bestätigt — Meta/Manus AI, NDRC-Block 27. April 2026 </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Meta kündigte den Kauf von Manus AI Ende Dezember 2025 für ~2 Milliarden Dollar an. Chinas NDRC blockierte die Transaktion am 27. April 2026. Durch mehrere unabhängige Quellen belegt. Quelle: <a href="https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/" class="external" target="_blank">TechCrunch — China blocks Meta’s $2B Manus deal<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Bestätigt — Berliner Datenschutzbeauftragte meldet DeepSeek </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Am 27. Juni 2025 meldete die Berliner Datenschutzbeauftragte die DeepSeek-App bei Apple und Google als rechtswidrigen Inhalt nach Art. 16 DSA. Quelle: <a href="https://www.datenschutz-berlin.de/pressemitteilung/berliner-datenschutzbeauftragte-meldet-ki-app-deepseek-in-deutschland-bei-apple-und-google-als-rechtswidrigen-inhalt/" class="external" target="_blank">Berliner Datenschutzbeauftragte — Pressemitteilung<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Vereinfacht — Doubao 150 Millionen wöchentliche Nutzer </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Die Zahl liegt nah an verfügbaren Daten, aber ohne Zeitstempel und Metrik-Angabe vereinfacht: Doubao hatte laut Dezember 2025 rund 100 Millionen DAU (Daily Active Users). “150 Millionen wöchentlich” ist grob plausibel, aber nicht präzise belegt. Quelle: <a href="https://technode.com/2025/12/25/bytedances-doubao-reaches-100m-dau-with-minimal-marketing-spend/" class="external" target="_blank">TechNode — ByteDance’s Doubao reaches 100M DAU<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Vereinfacht — EU-Industriestrom doppelt USA, 50% mehr als China </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Die Richtung stimmt, aber die Verhältnisse sind Annäherungen: EU ~110 USD/MWh, USA ~45–75 USD/MWh, China ~75–82 USD/MWh. “Doppelt so viel” gegenüber den USA ist am oberen Rand zutreffend, “50% mehr” als China ebenfalls grob korrekt. Quelle: <a href="https://www.iea.org/data-and-statistics/charts/estimated-final-electricity-price-for-large-industrial-customers-in-energy-intensive-industries-2019-2024" class="external" target="_blank">IEA — Electricity prices large industrial customers 2019–2024<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Vereinfacht — Huawei/ZTE aus 5G-Kernnetzen bis Ende 2026 </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Die Kernaussage stimmt: BMI einigte sich im Juli 2024 mit Telekom, Vodafone und Telefónica auf den Ausstieg aus dem 5G-Kernnetz bis Ende 2026. Aber es ist kein vollständiges Verbot — Funkantennen an Masten dürfen weiterhin von Huawei stammen, kritische Managementsysteme haben Frist bis Ende 2029. Quelle: <a href="https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/07/5g.html" class="external" target="_blank">BMI — Stärkung der Sicherheit der deutschen 5G-Mobilfunknetze<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout danger" data-callout="danger">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Falsch — Institutskürzel KAISI </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Morpheus nennt das Kürzel nicht, aber die Note hatte “KAISI” — korrekt ist <strong>CAISI</strong> (Center for AI Standards and Innovation) bei NIST. Der Befund selbst — DeepSeek gibt viermal so viele inakkurate/irreführende CCP-Narrative wieder wie US-Referenzmodelle — ist korrekt und wörtlich so im Bericht dokumentiert. Quelle: <a href="https://www.nist.gov/news-events/news/2025/09/caisi-evaluation-deepseek-ai-models-finds-shortcomings-and-risks" class="external" target="_blank">NIST — CAISI Evaluation of DeepSeek AI Models<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Vereinfacht — &quot;DeepSeek für 5,6 Millionen Dollar trainiert&quot; </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Morpheus selbst relativiert das im Video: „Das war sehr gutes Marketing eines Hedgefonds-Managers.” Die 5,6-Millionen-Zahl bezog sich auf einen spezifischen Trainings-Run, nicht auf die Gesamtkosten. Keine unabhängige Quelle für die exakten Zahlen verfügbar.</p>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Vereinfacht — GLM5 auf 100.000 Huawei-Chips trainiert </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Morpheus weist selbst darauf hin: Diese Information zirkuliert nur in Blogs ohne belegte Quelle und steht nicht im offiziellen ZAI-Paper. Was im Paper steht: GLM5 läuft als Inferenz auf sieben verschiedenen chinesischen Chip-Plattformen gleichzeitig.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="weiterführende-quellen">Weiterführende Quellen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#weiterführende-quellen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><em>Aus der Video-Beschreibung:</em></p>
+<ul>
+<li><a href="https://github.com/TheMorpheus407/YoutubeCode/tree/main/BIAS_Test" class="external" target="_blank">Morpheus’ Test-Rohdaten auf GitHub<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — vollständige Bias-Test-Ergebnisse</li>
+<li><a href="https://kdrive.infomaniak.com/app/share/1794086/5e1ab754-ade7-41e2-9f2c-1a869cb46295" class="external" target="_blank">Morpheus’ kDrive-Dokumentation<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Quellen-Sammlung zum Video</li>
+</ul>
+<p><em>Im Video zitierte Quellen:</em></p>
+<ul>
+<li><a href="https://www.iea.org/data-and-statistics/charts/estimated-final-electricity-price-for-large-industrial-customers-in-energy-intensive-industries-2019-2024" class="external" target="_blank">IEA — Electricity prices large industrial customers 2019–2024<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Industriestromverbrauch China vs. OECD</li>
+<li><a href="https://www.uscc.gov/" class="external" target="_blank">USC “Two Loops” Report (März 2026)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — chinesische Subventionierung von KI-API-Zugängen</li>
+<li><a href="https://www.nist.gov/news-events/news/2025/09/caisi-evaluation-deepseek-ai-models-finds-shortcomings-and-risks" class="external" target="_blank">NIST CAISI — Evaluation of DeepSeek AI Models<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — DeepSeek gibt 4x mehr CCP-Narrative wieder als US-Referenzmodelle</li>
+<li><a href="https://www.nist.gov/system/files/documents/2025/09/30/CAISI_Evaluation_of_DeepSeek_AI_Models.pdf" class="external" target="_blank">NIST CAISI Vollbericht (PDF)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Primärquelle mit allen Benchmark-Daten</li>
+<li><a href="https://www.whitehouse.gov/" class="external" target="_blank">Weißes Haus NSTM (April 2026)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — “Deliberate Industrial Scale Campaigns” aus China zum Abgreifen westlicher KI-Systeme</li>
+<li><a href="https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/07/5g.html" class="external" target="_blank">BMI — Stärkung der deutschen 5G-Mobilfunknetze (Juli 2024)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Originalquelle zum Huawei/ZTE-Ausschluss</li>
+<li><a href="https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/" class="external" target="_blank">TechCrunch — China blocks Meta’s $2B Manus deal<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — NDRC-Block vom 27. April 2026</li>
+<li><a href="https://www.datenschutz-berlin.de/pressemitteilung/berliner-datenschutzbeauftragte-meldet-ki-app-deepseek-in-deutschland-bei-apple-und-google-als-rechtswidrigen-inhalt/" class="external" target="_blank">Berliner Datenschutzbeauftragte — DeepSeek-Meldung<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — DSA Art. 16 Meldung Juni 2025</li>
+<li>Joel Spolski (2002): “Commoditize your complement” — strategisches Konzept für kostenlose Modelle</li>
+</ul>
+<hr/>
+<h2 id="verbindungen">Verbindungen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#verbindungen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="-adam-tooze--pentagon-vs-anthropic">→ <a href="../Zeitgeist/Adam-Tooze-Pentagon-vs.-Anthropic" class="internal alias" data-slug="Zeitgeist/Adam-Tooze-Pentagon-vs.-Anthropic">Adam Tooze — Pentagon vs. Anthropic</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-adam-tooze--pentagon-vs-anthropic" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Tooze zeigt, wie das Pentagon Anthropic zur bedingungslosen Kooperation zwang. Morpheus dokumentiert parallel, dass chinesische Firmen 24.000 Fake-Accounts nutzten, um genau diese Anthropic-Modelle auszubeuten. Der Anthropic-Bericht ist das verbindende Ereignis: einmal als US-Machtkampf, einmal als Technologieklau.</p>
+<h3 id="-phoenixrunde--machtpoker-in-peking-trump-trifft-xi">→ <a href="../Zeitgeist/PhoenixRunde-Machtpoker-in-Peking,-Trump-trifft-Xi" class="internal alias" data-slug="Zeitgeist/PhoenixRunde-Machtpoker-in-Peking,-Trump-trifft-Xi">PhoenixRunde — Machtpoker in Peking, Trump trifft Xi</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-phoenixrunde--machtpoker-in-peking-trump-trifft-xi" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Die PhoenixRunde nennt KI-Regulierung als eine der ungelösten Fragen des Gipfels. Morpheus liefert das technische Substrat: “Deliberate Industrial Scale Campaigns” zum Abgreifen westlicher KI-Systeme ist exakt das, was Xi Trump als Verhandlungsmasse nicht auf den Tisch legt.</p>
+<h3 id="-markus-gabriel--ki-als-resonanzfeld-und-mu-scobel">→ <a href="../Zeitgeist/Markus-Gabriel-KI-als-Resonanzfeld-und-Mu-(scobel)" class="internal alias" data-slug="Zeitgeist/Markus-Gabriel-KI-als-Resonanzfeld-und-Mu-(scobel)">Markus Gabriel — KI als Resonanzfeld und Mu (scobel)</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-markus-gabriel--ki-als-resonanzfeld-und-mu-scobel" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Gabriel argumentiert, KI sei nicht im Gerät, sondern im Resonanzfeld zwischen Nutzer und System. Morpheus’ Befund konkretisiert das beunruhigend: Wenn das Resonanzfeld eines chinesischen Modells bei “Tiananmen” systematisch bricht, ist nicht nur das Modell betroffen — sondern das Denken desjenigen, der sich auf es einlässt.</p>
+<h3 id="-tim-meyer-und-jan-hegenberg--china-energiewende">→ <a href="../Zeitgeist/Tim-Meyer-und-Jan-Hegenberg-China-Energiewende" class="internal alias" data-slug="Zeitgeist/Tim-Meyer-und-Jan-Hegenberg-China-Energiewende">Tim Meyer und Jan Hegenberg — China Energiewende</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-tim-meyer-und-jan-hegenberg--china-energiewende" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Morpheus’ erste Subventionsebene — Industriestrom 50% günstiger als in der EU — hat ihre Vorgeschichte in Chinas jahrzehntelangem Ausbau erneuerbarer Energien. Die Preiswaffe ist das Ergebnis einer grünen Industriestrategie, die der Westen als Klimapolitik beobachtet hat.</p>
+<hr/>
+<h2 id="weiterdenken">Weiterdenken<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#weiterdenken" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Was Sokrates vielleicht gefragt hätte </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ul>
+<li>Wenn chinesische KI-Modelle bei westlichen Reizthemen genauso kritisch sind wie westliche Modelle — was sagt das darüber aus, wessen “Objektivität” wir eigentlich als Standard setzen?</li>
+<li>Morpheus nutzt selbst Minimax für Code, obwohl er den Bias kennt und dokumentiert hat. Ist das Heuchelei, oder ist es das ehrlichste Geständnis über die Grenzen individueller Entscheidungsfreiheit in strukturellen Sachzwängen?</li>
+<li>Wenn “Open Weights” nicht “Open Source” ist — warum hat die Öffentlichkeit diese Unterscheidung bisher nicht politisch eingefordert?</li>
+<li>Die EU hat Huawei aus Antennennetzen verbannt, lässt aber chinesische KI Patientenakten und Verträge lesen. Welcher Mechanismus produziert diesen Widerspruch — und wessen Interessen bedient er?</li>
+<li>Wenn die dritte Tür (europäische Souveränität) teurer und schlechter ist, braucht es politische Intervention. Aber welche Instanz in Europa ist derzeit in der Lage, diese Entscheidung zu treffen — und hat sie das politische Mandat dafür?</li>
+</ul>
+</div>
+</blockquote></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-425" aria-expanded="true"><h3>Inhaltsverzeichnis</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#morpheus--warum-alle-chinesische-ki-nutzen" data-for="morpheus--warum-alle-chinesische-ki-nutzen">Morpheus — Warum alle chinesische KI nutzen</a></li><li class="depth-1"><a href="#der-deepseek-moment-und-die-unsichtbare-welle" data-for="der-deepseek-moment-und-die-unsichtbare-welle">Der DeepSeek-Moment und die unsichtbare Welle</a></li><li class="depth-1"><a href="#warum-so-billig-die-dreifach-subvention" data-for="warum-so-billig-die-dreifach-subvention">Warum so billig? Die Dreifach-Subvention</a></li><li class="depth-1"><a href="#der-bias-test-6275-api-calls-und-was-sie-enthüllen" data-for="der-bias-test-6275-api-calls-und-was-sie-enthüllen">Der Bias-Test: 6.275 API-Calls und was sie enthüllen</a></li><li class="depth-1"><a href="#die-keyword-mauer-kein-wertefilter-sondern-zensurtechnik" data-for="die-keyword-mauer-kein-wertefilter-sondern-zensurtechnik">Die Keyword-Mauer: kein Wertefilter, sondern Zensurtechnik</a></li><li class="depth-1"><a href="#effizienz-statt-skalierung-moe-und-long-horizon-tasks" data-for="effizienz-statt-skalierung-moe-und-long-horizon-tasks">Effizienz statt Skalierung: MoE und Long-Horizon-Tasks</a></li><li class="depth-1"><a href="#destillation-als-technologieklau-24000-fake-accounts" data-for="destillation-als-technologieklau-24000-fake-accounts">Destillation als Technologieklau: 24.000 Fake-Accounts</a></li><li class="depth-1"><a href="#das-cuda-modell-plattform-lock-in-eine-ebene-höher" data-for="das-cuda-modell-plattform-lock-in-eine-ebene-höher">Das CUDA-Modell: Plattform-Lock-in eine Ebene höher</a></li><li class="depth-1"><a href="#drei-türen-für-europa--und-die-vierte-die-niemand-baut" data-for="drei-türen-für-europa--und-die-vierte-die-niemand-baut">Drei Türen für Europa — und die vierte, die niemand baut</a></li><li class="depth-1"><a href="#faktencheck" data-for="faktencheck">Faktencheck</a></li><li class="depth-1"><a href="#weiterführende-quellen" data-for="weiterführende-quellen">Weiterführende Quellen</a></li><li class="depth-1"><a href="#verbindungen" data-for="verbindungen">Verbindungen</a></li><li class="depth-2"><a href="#-adam-tooze--pentagon-vs-anthropic" data-for="-adam-tooze--pentagon-vs-anthropic">→ Adam Tooze — Pentagon vs. Anthropic</a></li><li class="depth-2"><a href="#-phoenixrunde--machtpoker-in-peking-trump-trifft-xi" data-for="-phoenixrunde--machtpoker-in-peking-trump-trifft-xi">→ PhoenixRunde — Machtpoker in Peking, Trump trifft Xi</a></li><li class="depth-2"><a href="#-markus-gabriel--ki-als-resonanzfeld-und-mu-scobel" data-for="-markus-gabriel--ki-als-resonanzfeld-und-mu-scobel">→ Markus Gabriel — KI als Resonanzfeld und Mu (scobel)</a></li><li class="depth-2"><a href="#-tim-meyer-und-jan-hegenberg--china-energiewende" data-for="-tim-meyer-und-jan-hegenberg--china-energiewende">→ Tim Meyer und Jan Hegenberg — China Energiewende</a></li><li class="depth-1"><a href="#weiterdenken" data-for="weiterdenken">Weiterdenken</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="../Zeitgeist/Adam-Tooze-Pentagon-vs.-Anthropic" class="internal">Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle</a></li><li><a href="../Zeitgeist/Markus-Gabriel-KI-als-Resonanzfeld-und-Mu-(scobel)" class="internal">Markus Gabriel — KI als Resonanzfeld und Mu</a></li><li><a href="../Zeitgeist/PhoenixRunde-Machtpoker-in-Peking,-Trump-trifft-Xi" class="internal">PhoenixRunde — Machtpoker in Peking: Trump trifft Xi</a></li><li><a href="../Zeitgeist/Tim-Meyer-und-Jan-Hegenberg-China-Energiewende" class="internal">Tim Meyer und Jan Hegenberg — In China lachen sie über unsere Energiewende</a></li><li class="overflow-end"></li></ul></div></div><footer class><div class="footer-logo"><img src="/static/gedankenwelten-logo.svg" alt="Gedankenwelten"/></div><p>Erstellt mit <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="/Impressum">Impressum</a></li><li><a href="/graph">Graph</a></li><li><a href="https://github.com/gedankenwelten/gedankenwelten">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>
