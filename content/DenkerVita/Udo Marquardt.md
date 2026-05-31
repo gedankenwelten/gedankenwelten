@@ -105,30 +105,30 @@ Marquardt positioniert sich nicht explizit politisch, aber seine Philosophie hat
 
 ### Hartmut Rosa — Resonanz vs. Entfremdung
 
-[[DenkerVita/Hartmut Rosa]] (Stub) — Marquardt beschreibt phänomenologisch, was Rosa soziologisch analysiert. „Sich anrufen lassen" (Marquardt) entspricht *Resonanz* (Rosa) aus der subjektiven Perspektive. Beide diagnostizieren denselben Problem: Weltverlust durch Beschleunigung.
+[[Gedankenwelten/DenkerVita/Hartmut Rosa]] (Stub) — Marquardt beschreibt phänomenologisch, was Rosa soziologisch analysiert. „Sich anrufen lassen" (Marquardt) entspricht *Resonanz* (Rosa) aus der subjektiven Perspektive. Beide diagnostizieren denselben Problem: Weltverlust durch Beschleunigung.
 
 ### S.N. Goenka — Vipassana und innere Zeit
 
-[[DenkerVita/S.N. Goenka]] (Stub) — Marquardts Augustinus-Lektüre (Zeit entsteht in mir) und Goenkos Vipassana-Praxis landen beim selben Ort: Bewusstsein als Gegenwärtigkeit. Marquardt von oben (christliche Philosophie), Goenka von unten (Praxiserfahrung).
+[[Gedankenwelten/DenkerVita/S.N. Goenka]] (Stub) — Marquardts Augustinus-Lektüre (Zeit entsteht in mir) und Goenkos Vipassana-Praxis landen beim selben Ort: Bewusstsein als Gegenwärtigkeit. Marquardt von oben (christliche Philosophie), Goenka von unten (Praxiserfahrung).
 
 ### Blaise Pascal — Wette und Unruhe
 
-[[DenkerVita/Blaise Pascal]] — Marquardt zitiert die pascalsche Wette als persönliche Lebenshaltung: Auf Ewigkeit setzen nimmt den Druck aus dem Kessel (entgegen der modernen Angst „das ist alles" = alles jetzt tun). Pascal diagnostizierte die *divertissement*-Falle (Flucht vor dem Sein durch Beschäftigung); Marquardt 400 Jahre später wiederholt diese Diagnose als Beschleunigungskritik.
+[[Gedankenwelten/DenkerVita/Blaise Pascal]] — Marquardt zitiert die pascalsche Wette als persönliche Lebenshaltung: Auf Ewigkeit setzen nimmt den Druck aus dem Kessel (entgegen der modernen Angst „das ist alles" = alles jetzt tun). Pascal diagnostizierte die *divertissement*-Falle (Flucht vor dem Sein durch Beschäftigung); Marquardt 400 Jahre später wiederholt diese Diagnose als Beschleunigungskritik.
 
 ### Michel Foucault — Zeitregime und Macht
 
-[[DenkerVita/Michel Foucault]] (Vollanalyse) — Foucaults Analyse von Zeitdisziplinierung (Fabriken, Schulen, Gefängnisse) und Marquardts Kulturgeschichte der Beschleunigung könnten zusammengespannt werden. Marquardt phänomenologisch, Foucault genealogisch.
+[[Gedankenwelten/DenkerVita/Michel Foucault]] (Vollanalyse) — Foucaults Analyse von Zeitdisziplinierung (Fabriken, Schulen, Gefängnisse) und Marquardts Kulturgeschichte der Beschleunigung könnten zusammengespannt werden. Marquardt phänomenologisch, Foucault genealogisch.
 ### Erich Fromm — Haben oder Sein
 
-[[DenkerVita/Erich Fromm]] — Fromms Haben/Sein-Unterscheidung findet in Marquardts Zeitphilosophie ihre direkteste Anwendung: Der moderne Zeitfetisch (Zeit sparen, managen, optimieren als Ressource) ist Fromms Haben-Modus auf das Phänomen Zeit angewandt. Marquardts These — *Zeit bin ich selbst* — ist der Sein-Modus als Zeitverständnis. Fromm psychoanalytisch, Marquardt phänomenologisch-philosophisch.
+[[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromms Haben/Sein-Unterscheidung findet in Marquardts Zeitphilosophie ihre direkteste Anwendung: Der moderne Zeitfetisch (Zeit sparen, managen, optimieren als Ressource) ist Fromms Haben-Modus auf das Phänomen Zeit angewandt. Marquardts These — *Zeit bin ich selbst* — ist der Sein-Modus als Zeitverständnis. Fromm psychoanalytisch, Marquardt phänomenologisch-philosophisch.
 
 ### Teresa Bücker — Zeitgerechtigkeit als Gegenstimme
 
-[[DenkerVita/Teresa Bücker]] — Bücker und Marquardt stellen dieselbe Zeitfrage aus entgegengesetzten Himmelsrichtungen: Marquardt fragt *wie* Zeit erfüllt erlebt wird; Bücker fragt *wer* überhaupt das Recht auf Zeit hat. Der produktive Widerspruch: Marquardts Kloster-Genügsamkeit setzt Wahlfreiheit voraus, die Bücker als ungleich verteilt nachweist. Zusammen ergeben sie eine vollständige Zeittheorie — die phänomenologische Tiefe und die politische Dimension.
+[[Gedankenwelten/DenkerVita/Teresa Bücker]] — Bücker und Marquardt stellen dieselbe Zeitfrage aus entgegengesetzten Himmelsrichtungen: Marquardt fragt *wie* Zeit erfüllt erlebt wird; Bücker fragt *wer* überhaupt das Recht auf Zeit hat. Der produktive Widerspruch: Marquardts Kloster-Genügsamkeit setzt Wahlfreiheit voraus, die Bücker als ungleich verteilt nachweist. Zusammen ergeben sie eine vollständige Zeittheorie — die phänomenologische Tiefe und die politische Dimension.
 
 ### Martin Heidegger — Zeitlichkeit des Seins
 
-[[DenkerVita/Martin Heidegger]] — Heideggers Zeitlichkeit des Daseins (das Vorlaufen-zu-dem-Tode als Modus der Authentizität) ist der existenzphilosophische Unterbau für Marquardts Frage „Wer möchte ich gewesen sein?": Beide denken Zeit von der Endlichkeit her. Marquardt ist zugänglicher und spirituell offener; Heideggers Begriff des „Geworfenseins" erklärt, warum Marquardts Zeitfrage zugleich eine Frage nach dem Sinn des Lebens ist.
+[[Gedankenwelten/DenkerVita/Martin Heidegger]] — Heideggers Zeitlichkeit des Daseins (das Vorlaufen-zu-dem-Tode als Modus der Authentizität) ist der existenzphilosophische Unterbau für Marquardts Frage „Wer möchte ich gewesen sein?": Beide denken Zeit von der Endlichkeit her. Marquardt ist zugänglicher und spirituell offener; Heideggers Begriff des „Geworfenseins" erklärt, warum Marquardts Zeitfrage zugleich eine Frage nach dem Sinn des Lebens ist.
 
 
 
@@ -138,7 +138,7 @@ Marquardt positioniert sich nicht explizit politisch, aber seine Philosophie hat
 
 Alle Gedankenwelten-Notes die Marquardt behandeln:
 
-- [[Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]] — Vollständige Analyse des SRF-Gesprächs mit Yves Bossart (Mai 2026)
+- [[Gedankenwelten/Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]] — Vollständige Analyse des SRF-Gesprächs mit Yves Bossart (Mai 2026)
 
 ---
 

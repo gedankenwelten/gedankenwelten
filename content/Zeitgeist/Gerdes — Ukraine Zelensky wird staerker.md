@@ -21,7 +21,7 @@ Quelle: [Zelensky Gets Stronger—Russia Refuses to Back Down](https://www.youtu
 > [!info] Wer spricht?
 > **Dr. Darin L. Gerdes** (*Charleston Southern University, SC*) — Tenured Professor of Leadership, Ph.D. in Organizational Leadership. Analysiert den Ukraine-Krieg aus einer Leadership-Perspektive mit regelmäßigen YouTube-Updates. Selbstbeschrieben als „Reagan-Republican who fully supports Ukraine". Autor eines Kindle-Buchs über Zelenskyy.
 > YouTube: [Professor Gerdes Explains 🇺🇦](https://www.youtube.com/@Professor-Gerdes)
-> → [[DenkerVita/Darin L. Gerdes|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Darin L. Gerdes|DenkerVita]]
 
 ---
 

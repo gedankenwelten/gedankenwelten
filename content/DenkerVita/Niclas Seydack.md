@@ -67,11 +67,11 @@ Seydack lässt sich nicht in ein klassisches politisches Schema pressen. Er ist 
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Dirk von Petersdorff]] — Generationen-Dialog: Petersdorff (Boomer, Leichtigkeit als kulturhistorische Kategorie) trifft Seydack (Millennial, Leichtigkeit als bedrohte Erfahrung). Gemeinsamer Auftritt bei der Körber-Stiftung. Wo Petersdorff die Makroepoche vermisst, diagnostiziert Seydack die Mikro-Erfahrung.
+- [[Gedankenwelten/DenkerVita/Dirk von Petersdorff]] — Generationen-Dialog: Petersdorff (Boomer, Leichtigkeit als kulturhistorische Kategorie) trifft Seydack (Millennial, Leichtigkeit als bedrohte Erfahrung). Gemeinsamer Auftritt bei der Körber-Stiftung. Wo Petersdorff die Makroepoche vermisst, diagnostiziert Seydack die Mikro-Erfahrung.
 - *Michel de Montaigne* — Der Essayist als Urvater des persönlichen Zugangs: Seydacks Methode — das Große im Kleinen suchen, vom Ich aus denken, ohne egozentrisch zu werden — steht in montaignescher Tradition.
 
 ---
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]
+- [[Gedankenwelten/Zeitgeist/Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]

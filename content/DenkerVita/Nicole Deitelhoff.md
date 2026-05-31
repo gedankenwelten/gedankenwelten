@@ -49,8 +49,8 @@ Als Direktorin des PRIF/HSFK leitet sie eines der führenden europäischen Fried
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Helen Keller]] — Beide analysieren Völkerrecht und internationale Normen, Keller aus juristischer, Deitelhoff aus politikwissenschaftlicher Perspektive
-- [[DenkerVita/Gesine Schwan]] — Beide forschen zu demokratischer Legitimität, Schwan auf kommunaler Ebene, Deitelhoff im internationalen System
+- [[Gedankenwelten/DenkerVita/Helen Keller]] — Beide analysieren Völkerrecht und internationale Normen, Keller aus juristischer, Deitelhoff aus politikwissenschaftlicher Perspektive
+- [[Gedankenwelten/DenkerVita/Gesine Schwan]] — Beide forschen zu demokratischer Legitimität, Schwan auf kommunaler Ebene, Deitelhoff im internationalen System
 
 ---
 

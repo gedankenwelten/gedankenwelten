@@ -18,13 +18,13 @@ aliases:
 Quelle: [Foucault in 60 Minuten](https://www.youtube.com/watch?v=mY8xqn9MYbI)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Denker lebendig und ohne akademischen Jargon einem breiten Publikum zugänglich macht. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Denker lebendig und ohne akademischen Jargon einem breiten Publikum zugänglich macht. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Michel Foucault** (*1926, Poitiers – 1984, Paris*) — einer der einflussreichsten Philosophen des 20. Jahrhunderts. Studierte an der École Normale Supérieure bei Althusser und Hyppolite. Litt früh unter Depressionen und kannte die Innenperspektive psychiatrischer Institutionen — seine spätere Analyse von Normalisierung und Disziplinierung kam nicht aus akademischer Distanz. 1970 Lehrstuhl für „Geschichte der Denksysteme" am Collège de France. Mitgründer des GIP (Groupe d'Information sur les Prisons) — Gefangenen eine Stimme geben statt über sie zu sprechen. Sein Spätwerk verschob sich von der Machtanalyse zur Frage der Selbstkonstitution: Wie kann ein Mensch sich selbst regieren, ohne in neue Unterwerfungsformen zu verfallen?
 >
 > Wichtigste Werke: *Überwachen und Strafen* (1975), *Wahnsinn und Gesellschaft* (1961), *Die Ordnung der Dinge* (1966)
 > Kernkonzepte: Panoptismus, Normalisierungszwang, Episteme/Wahrheitsproduktion, Dispositiv, Mikrophysik der Macht, Tod des Subjekts
-> → [[DenkerVita/Michel Foucault|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Michel Foucault|DenkerVita]]
 
 ---
 

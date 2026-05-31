@@ -22,7 +22,7 @@ Quelle: [Heute Show entlarvt Kanzler Merz!](https://www.youtube.com/watch?v=u38Z
 > Wichtigste Werke: *Mythos Geldknappheit* (2020), *Der neue Wirtschaftskrieg* (2022), *Teuer!* (2023)
 > Kernkonzepte: Modern Monetary Theory (MMT), progressive Wirtschaftspolitik, Inflationsanalyse
 >
-> → [[DenkerVita/Maurice Hoefgen|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Maurice Hoefgen|DenkerVita]]
 
 ---
 

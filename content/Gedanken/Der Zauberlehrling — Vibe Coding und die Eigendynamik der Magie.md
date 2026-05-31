@@ -148,10 +148,10 @@ Das ist auch die Antwort auf naive KI-Skepsis (*"KI ist gefährlich"*) wie auf n
 ### → [[Opus/Projekte/Azubi-AI-Learning]]
 Die Zauberlehrling-Parabel ist das Leitbild des gesamten Ausbildungskonzepts. Der Sokrates-Ansatz (KI gibt keine Antwort solange der Azubi noch denken kann) ist die direkte pädagogische Antwort auf das Lehrling-Problem. Reflexions-Bottlenecks statt Langsamkeit.
 
-### → [[Zeitgeist/Hartwin Maas — Bildung NEU DENKEN]]
+### → [[Gedankenwelten/Zeitgeist/Hartwin Maas — Bildung NEU DENKEN]]
 Maas beschreibt dieselbe Spannung: Technologie als Werkzeug das Bildung beschleunigen kann — aber nur wenn das Fundament stimmt. Das Zauberlehrling-Bild ist die Diagnose; Maas' Ansatz ist ein möglicher Lösungsrahmen.
 
-### → [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]]
+### → [[Gedankenwelten/Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]]
 Vibe Coding trägt sein Gegenteil in sich: Die Leichtigkeit des Promptens produziert die Schwere des unkontrollierbaren Wachstums. Die Stärke (Geschwindigkeit, Niedrigschwelligkeit) enthält den Keim der Schwäche (Kontrollverlust, fehlende Tiefe).
 
 ### → Manfred Spitzer — Digitale Demenz / Lernen

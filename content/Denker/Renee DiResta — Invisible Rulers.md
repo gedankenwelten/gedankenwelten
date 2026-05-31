@@ -29,7 +29,7 @@ Quellen:
 > Wichtigste Werke: *Invisible Rulers: The People Who Turn Lies into Reality* (2024, 2. Auflage 2026)
 > Kernkonzepte: Influencer-Propaganda, Crowd-Mechanik, Algorithmen als Verstärker, Bridging-Algorithmen, Exclusionary Populism
 >
-> → [[DenkerVita/Renee DiResta|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Renee DiResta|DenkerVita]]
 
 ---
 
@@ -375,15 +375,15 @@ Das gleiche Reframing-Werkzeug, das gegen das SIO eingesetzt wurde, wird jetzt g
 
 ## Verbindungen
 
-- [[Denker/Jonathan Haidt — Kann ein gespaltenes Amerika heilen]] — Haidt erklärt das psychologische Fundament: Stammeslogik und moralische Identität machen Menschen für Widerlegungen unzugänglich — DiResta bestätigt das empirisch über 10 Jahre Forschung
-- [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]] — Die "Moral Foundations" sind die Hebel, an denen Propagandisten ziehen; DiRestas Trolls-Kapitel ist eine praktische Anwendung von Haidts Theorie
-- [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]] — Dummheit als soziale Infektion durch Gruppenidentität — die Frau aus Springfield und die Wayfair-Crowd sind moderne Lehrbuchbeispiele
-- [[Denker/Francesca Bria — The Authoritarian Stack]] — Bria: Tech-Plattformen als politökonomische Machtstruktur; DiResta: die Propaganda-Mechanik auf dieser Struktur; 2025 verschmelzen beide Ebenen (Musk/Trump)
-- [[Denker/Hannah Arendt — Denken ohne Geländer]] — Arendt: Totalitarismus zerstört Institutionen, die gemeinsame Realität sichern; DiResta dokumentiert denselben Prozess digital — ohne Staat, durch dezentralisierte Crowds
-- [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld: Elite-gesteuerte Meinungsmache (top-down); DiResta: die Crowd ist selbst der Propagandaapparat (dezentralisiert) — zwei Modelle desselben Phänomens
-- [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — KI senkt die Produktionshürde für Propaganda; Mühlhoff zeigt die strukturelle Seite, DiResta die operative
-- [[Denker/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] — Carbon erklärt kognitiv, wie Wahrnehmung konstruiert wird; DiResta zeigt, wie Propagandisten diese Konstruktion systematisch ausnutzen
-- [[Zeitgeist/ARTE — Forschung Fake und faule Tricks]] — Wie Industrien Zweifel säen (Agnotologie); DiResta: Influencer-Crowds tun dasselbe dezentralisiert — strukturell verwandt
-- [[Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien]] — Rechte Milliardäre kaufen Medienkanäle (sichtbar) + Influencer-Netzwerke (unsichtbar) + Regierungsbeamte nutzen Crowd-Rumors als Policy-Grundlage (2025) — drei Schichten desselben Systems
-- [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — Bernays' Prinzip (Gruppenidentität als Hebel) und algorithmische Verstärkung: wie politische Narrative heute gebaut werden
-- [[Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]] — Mouffe erklärt die Leerstelle, in die DiRestas Invisible Rulers eindringen: Wenn echte politische Auseinandersetzung aus dem Zentrum verdrängt wird, füllt Propaganda-Content den entstandenen Vakuum — dezentralisiert, affektgesteuert, unkontrollierbar
+- [[Gedankenwelten/Denker/Jonathan Haidt — Kann ein gespaltenes Amerika heilen]] — Haidt erklärt das psychologische Fundament: Stammeslogik und moralische Identität machen Menschen für Widerlegungen unzugänglich — DiResta bestätigt das empirisch über 10 Jahre Forschung
+- [[Gedankenwelten/Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]] — Die "Moral Foundations" sind die Hebel, an denen Propagandisten ziehen; DiRestas Trolls-Kapitel ist eine praktische Anwendung von Haidts Theorie
+- [[Gedankenwelten/Denker/Dietrich Bonhoeffer — Theorie der Dummheit]] — Dummheit als soziale Infektion durch Gruppenidentität — die Frau aus Springfield und die Wayfair-Crowd sind moderne Lehrbuchbeispiele
+- [[Gedankenwelten/Denker/Francesca Bria — The Authoritarian Stack]] — Bria: Tech-Plattformen als politökonomische Machtstruktur; DiResta: die Propaganda-Mechanik auf dieser Struktur; 2025 verschmelzen beide Ebenen (Musk/Trump)
+- [[Gedankenwelten/Denker/Hannah Arendt — Denken ohne Geländer]] — Arendt: Totalitarismus zerstört Institutionen, die gemeinsame Realität sichern; DiResta dokumentiert denselben Prozess digital — ohne Staat, durch dezentralisierte Crowds
+- [[Gedankenwelten/Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld: Elite-gesteuerte Meinungsmache (top-down); DiResta: die Crowd ist selbst der Propagandaapparat (dezentralisiert) — zwei Modelle desselben Phänomens
+- [[Gedankenwelten/Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — KI senkt die Produktionshürde für Propaganda; Mühlhoff zeigt die strukturelle Seite, DiResta die operative
+- [[Gedankenwelten/Denker/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] — Carbon erklärt kognitiv, wie Wahrnehmung konstruiert wird; DiResta zeigt, wie Propagandisten diese Konstruktion systematisch ausnutzen
+- [[Gedankenwelten/Zeitgeist/ARTE — Forschung Fake und faule Tricks]] — Wie Industrien Zweifel säen (Agnotologie); DiResta: Influencer-Crowds tun dasselbe dezentralisiert — strukturell verwandt
+- [[Gedankenwelten/Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien]] — Rechte Milliardäre kaufen Medienkanäle (sichtbar) + Influencer-Netzwerke (unsichtbar) + Regierungsbeamte nutzen Crowd-Rumors als Policy-Grundlage (2025) — drei Schichten desselben Systems
+- [[Gedankenwelten/Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — Bernays' Prinzip (Gruppenidentität als Hebel) und algorithmische Verstärkung: wie politische Narrative heute gebaut werden
+- [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]] — Mouffe erklärt die Leerstelle, in die DiRestas Invisible Rulers eindringen: Wenn echte politische Auseinandersetzung aus dem Zentrum verdrängt wird, füllt Propaganda-Content den entstandenen Vakuum — dezentralisiert, affektgesteuert, unkontrollierbar

@@ -20,7 +20,7 @@ aliases:
 Quelle: [Adorno in 60 Minuten](https://www.youtube.com/watch?v=2sNlmGneXmM)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Wie schon beim [[Walther Ziegler — Hegel in 60 Minuten|Hegel-Vortrag]] gelingt Ziegler auch hier eine seltene Verbindung: philosophische Tiefe in allgemeinverständlicher Sprache, durchsetzt mit Alltagsbeispielen — vom SUV-Fahrer im Biomarkt bis zur politischen Sprachmanipulation. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Wie schon beim [[Walther Ziegler — Hegel in 60 Minuten|Hegel-Vortrag]] gelingt Ziegler auch hier eine seltene Verbindung: philosophische Tiefe in allgemeinverständlicher Sprache, durchsetzt mit Alltagsbeispielen — vom SUV-Fahrer im Biomarkt bis zur politischen Sprachmanipulation. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Theodor W. Adorno** (*1903, Frankfurt am Main — †1969, Visp, Schweiz*) — einer der brillantesten und widersprüchlichsten Denker des 20. Jahrhunderts. Sohn eines jüdischen Weinhändlers und einer italienisch-katholischen Sängerin, promovierte er mit 21 über Husserl, studierte Komposition bei Alban Berg in Wien und emigrierte 1934 vor den Nazis — erst nach Oxford, dann über New York nach Los Angeles.
 >
@@ -29,7 +29,7 @@ Quelle: [Adorno in 60 Minuten](https://www.youtube.com/watch?v=2sNlmGneXmM)
 > Wichtigste Werke: *Dialektik der Aufklärung* (1944, mit Horkheimer), *Minima Moralia* (1951), *Negative Dialektik* (1966), *Ästhetische Theorie* (1970, posthum)
 > Kernkonzepte: Negative Dialektik, Kulturindustrie, Verblendungszusammenhang, Verdinglichung, Bestimmte Negation
 >
-> → [[DenkerVita/Theodor W. Adorno|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Theodor W. Adorno|DenkerVita]]
 
 ---
 

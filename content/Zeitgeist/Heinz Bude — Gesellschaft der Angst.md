@@ -19,7 +19,7 @@ Quelle: [Heinz Bude: Gesellschaft der Angst | Wiener Stadtgespräch](https://www
 > **Heinz Bude** (*1954, Wuppertal*) — Soziologe, emeritierter Professor für Makrosoziologie an der Universität Kassel, Gründungsdirektor des documenta-Instituts. Einer der profiliertesten öffentlichen Soziologen Deutschlands, ausgezeichnet 2016 mit dem DGS-Preis für öffentliche Wirksamkeit der Soziologie. Seine Arbeit kreist um Generationen, Exklusion und die affektive Infrastruktur der Bundesrepublik.
 >
 > Wichtigste Werke: *Die Ausgeschlossenen* (2008), *Gesellschaft der Angst* (2014), *Abschied von den Boomern* (2024)
-> → [[DenkerVita/Heinz Bude|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Heinz Bude|DenkerVita]]
 
 ---
 
@@ -210,7 +210,7 @@ Beneckes Sinus-Jugendstudie 2026 zeigt das Paradox: Die Generation mit dem grö�
 
 Pöttingers umweltpsychologische Einsicht (Scham vs. Wut als divergierende Handlungstreiber) vertieft Budes Emotionsanalyse: Die Angstgesellschaft reagiert nicht nur mit Rückzug, sondern — bei kollektiver Organisierung — auch mit Wut, die Bewegungen antreibt.
 
-### → [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
 Das BR-Feature "Der Arbeiter und die AfD" über Peter aus Köln ist die empirische Bestätigung von Budes Dienstleistungsproletariat-Analyse aus 2014: Arbeit als Identitätskern, Verachtung der Sozialleistungsempfänger, kein Solidaritätspotential nach unten — der Nährboden für Rechtspopulismus, 12 Jahre später dokumentiert.
 

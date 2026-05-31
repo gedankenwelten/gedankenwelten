@@ -22,7 +22,7 @@ Quelle: [phoenix persönlich: Natalie Amiri (Nahost-Expertin und Journalistin) z
 >
 > Wichtigste Werke: *Zwischen den Welten* (2021), *Der Nahost-Komplex* (2025)
 > Auszeichnungen: Bayerischer Verfassungsorden (2024), Walter-Lübcke-Demokratie-Preis (2024), dreifache Medium-Magazin-Preisträgerin
-> → [[DenkerVita/Natalie Amiri|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Natalie Amiri|DenkerVita]]
 
 ---
 

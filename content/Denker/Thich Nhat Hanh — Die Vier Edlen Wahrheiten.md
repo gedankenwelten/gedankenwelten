@@ -25,7 +25,7 @@ Quelle: [The Four Noble Truths — Teaching by Thich Nhat Hanh](https://www.yout
 > Wichtigste Werke: *Das Wunder der Achtsamkeit* (1975), *Interbeing* (1987), *Das Herz-Sutra* (1988), *Wie Siddhartha zum Buddha wurde* (1997)
 > Kernkonzepte: Interbeing (Interabhängigkeit), Engaged Buddhism, Achtsamkeit als Lebensform, Vier Edle Wahrheiten als Verbund
 >
-> → [[DenkerVita/Thich Nhat Hanh|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Thich Nhat Hanh|DenkerVita]]
 
 ---
 

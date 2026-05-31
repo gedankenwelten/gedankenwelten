@@ -19,7 +19,7 @@ Quelle: [Was Moskau gern verschweigt: So eng waren Nazis und Sowjets verbündet!
 > [!info] Wer spricht?
 > **Konstantin Flemig** (geb. 1988, Böblingen) — Kriegsreporter, Dokumentarfilmer, Buchautor. Ausgebildet an der Deutschen Journalistenschule München und der Filmakademie Baden-Württemberg; Mitglied der Rogue Film School (Werner Herzog). Host von *CRISIS – Hinter der Front* (funk/ARD/ZDF), seit 2024 unabhängig. ~220.000 YouTube-Abonnenten. Buch: *Freiheit unter Feuer* (Heyne). Dozent für Krisenjournalismus an der DJS.
 >
-> → [[DenkerVita/Konstantin Flemig|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Konstantin Flemig|DenkerVita]]
 
 ---
 

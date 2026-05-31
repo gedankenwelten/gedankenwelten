@@ -131,31 +131,31 @@ Ein Unternehmer, der guten Willens in die Energiewende investiert hat — und je
 
 ## Verbindungen
 
-### → [[Panorama/Energie]]
+### → [[Gedankenwelten/Panorama/Energie]]
 
 Die Kontrovers-Note liefert den konkreten Unternehmensfall, den das Panorama abstrakt als Strukturproblem beschreibt: Netzausbau-Verschleppung, Redispatch-Kosten und die Asymmetrie zwischen schnellem EE-Ausbau und langsamem Netzausbau. Das Panorama gibt den systemischen Rahmen — die Kontrovers-Note das menschliche Gesicht dazu.
 
-### → [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+### → [[Gedankenwelten/Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
 
 MONITOR dokumentiert denselben Strukturfehler aus der Windkraft-Perspektive: Netze können Strom nicht aufnehmen, Entschädigungen werden politisch zum Sparproblem umdefiniert, das Risiko wird auf Erzeuger abgewälzt. Der bayerische Mittelständler und der Windparkbetreiber stehen vor identischen regulatorischen Zumutungen — beide zahlen für ein Versagen, das die Politik zu verantworten hat.
 
-### → [[Zeitgeist/Presseclub — Reiches Energiewende]]
+### → [[Gedankenwelten/Zeitgeist/Presseclub — Reiches Energiewende]]
 
 Der Presseclub beziffert den Redispatch-Aufwand (bis zu 3 Mrd. € jährlich) und benennt das Netzausbau-Dilemma strukturell. Die ~580 Mio. Euro Entschädigungen für abgeregelte Anlagen aus der Kontrovers-Note sind ein konkreter Datenpunkt in diesem größeren Kostenbild. Beide Notes zeigen: Die Kosten landen beim Bürger — ob als Strompreis oder als verlorene Investition.
 
-### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+### → [[Gedankenwelten/Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 
 Goldbach argumentiert, dass Batteriespeicher das Netzproblem durch dezentrale Pufferung lösen könnten — der Mittelständler in Burgbernheim hat sogar bereits einen 220-kWh-Speicher installiert, darf ihn aber nicht nutzen. Das ist kein technisches, sondern ein regulatorisches Problem. Goldbachs These über die politisch ignorierte Speicherlösung wird hier zur konkreten Unternehmenstragödie.
 
-### → [[Zeitgeist/erneuerbare tv — Sommerwaerme im Erdreich]]
+### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Sommerwaerme im Erdreich]]
 
 MEFA Kupferzell ist das konzeptuelle Gegenbild: ein Metallverarbeitungsbetrieb, der seine Energieinfrastruktur vollständig eigenständig löst. Beide Notes zeigen Mittelstand und Energiewende — einmal als Erfolgsgeschichte trotz Politik, einmal als Scheitern an ihr. Was macht den Unterschied zwischen Kupferzell und Burgbernheim?
 
-### → [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+### → [[Gedankenwelten/Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 
 Kemferts Diagnose der „Fossilokratie" bekommt hier einen konkreten Widerspruch: Erneuerbare werden nicht durch offene Ablehnung behindert, sondern durch Netzausbau-Versagen und Abregelungspraxis. Der Unternehmer hat 500.000 Euro investiert, um weniger fossil-abhängig zu sein — und wird von der Regulierung daran gehindert.
 
-### → [[Zeitgeist/Akkudoktor — Lanz und die Energiewende]]
+### → [[Gedankenwelten/Zeitgeist/Akkudoktor — Lanz und die Energiewende]]
 
 Der Akkudoktor zeigt, wie die Altmaier-Delle den PV-Ausbau politisch abgewürgt hat. Die Kontrovers-Note zeigt die nachgelagerte Konsequenz: Betriebe, die jetzt investieren, treffen auf eine Netzinfrastruktur, die nie für dieses Ausmaß ausgelegt wurde. Erst wird der Ausbau verlangsamt, dann fehlt die Infrastruktur für das, was trotzdem gebaut wurde.
 

@@ -22,13 +22,13 @@ Quelle: [Debatte NEU DENKEN mit Bernhard Pörksen und Maja Göpel](https://www.y
 >
 > Wichtigste Werke: *Wahrheit ist die Erfindung eines Lügners* (1998), *Die große Gereiztheit* (2018), *Die Kunst des Miteinander-Redens* (2020, mit Schulz von Thun), *Zuhören* (2025)
 > Kernkonzepte: Filterclash, Redaktionelle Gesellschaft, Ich-Ohr/Du-Ohr, Medienmündigkeit
-> → [[DenkerVita/Bernhard Poerksen|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Bernhard Poerksen|DenkerVita]]
 >
 > **Maja Göpel** (*1976, Bielefeld*) — Transformationsforscherin, Honorarprofessorin an der Leuphana Universität Lüneburg, Mitbegründerin Scientists for Future, Gründerin Mission Wertvoll. Ehemalige Generalsekretärin des WBGU. Verbindet Systemtheorie, politische Ökonomie und Nachhaltigkeitsforschung mit dem Ziel, gesellschaftliche Transformation demokratisch und kooperativ zu gestalten.
 >
 > Wichtigste Werke: *Unsere Welt neu denken* (2020), *Wir können auch anders* (2022), *Werte* (2025)
 > Kernkonzepte: Great Mindshift, Transformative Literacy, Zukunftsgerechtigkeit
-> → [[DenkerVita/Maja Goepel|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Maja Goepel|DenkerVita]]
 
 ---
 
@@ -191,6 +191,6 @@ Praxisbeispiel für Erregungsökonomie: Lanz belohnt populistische Zuspitzung zu
 
 Gabriel liefert die ontologische Grundlage für Pörksens Filterclash: Soziale Netzwerke bieten „Sozialität ohne Triangulation" — reine Perspektivenvielfalt ohne korrigierenden Gegenstand. Das ist die strukturelle Ursache der „großen Gereiztheit", die Pörksen kommunikationswissenschaftlich beschreibt.
 
-### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Steinke und Marinić diagnostizieren dieselbe Krankheit wie Pörksen — aber von der politisch-juristischen Seite. Marinićs "Durchlauferhitzer" ist Pörksens "Filterclash" im Demokratiekontext; ihre "performative Meinungsfreiheitsdebatte" ist Pörksens "Spektakelpolarisierung" mit konkretem politischen Inhalt. Wo Pörksen Kommunikationswerkzeuge liefert, benennen Steinke/Marinić die politischen Akteure, die diese Werkzeuge strategisch einsetzen.

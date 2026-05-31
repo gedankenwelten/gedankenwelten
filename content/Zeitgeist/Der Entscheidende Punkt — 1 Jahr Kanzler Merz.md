@@ -24,10 +24,10 @@ Quelle: [DER ENTSCHEIDENDE PUNKT: 1 Jahr Kanzler Merz & Groko | Mit Albrecht von
 > **Hans Jessen** — Journalist, langjähriger Moderator und Redakteur, bekannt für präzise historische Einordnungen und pointierte Einwürfe im politischen Diskurs.
 >
 > **Albrecht von Lucke** (*1967, Ingelheim am Rhein*) — Publizist, Jurist und Diplom-Politologe. Seit 2003 Redakteur der *Blätter für deutsche und internationale Politik*, die 2026 ihr 70-jähriges Jubiläum feiern. Regelmäßiger TV-Gast (Anne Will, Maybrit Illner, Markus Lanz). Kernthesen: Demokratie ist durch Nischenrückzug und Konfliktunfähigkeit gefährdet; Merz-Regierung als Führungsvakuum. Wichtigste Bücher: *68 oder neues Biedermeier* (2008), *Die schwarze Republik* (2015).
-> → [[DenkerVita/Albrecht von Lucke|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Albrecht von Lucke|DenkerVita]]
 >
 > **Ulrike Herrmann** (*1964, Hamburg*) — Wirtschaftskorrespondentin der *taz* seit 2006, Bankkauffrau, Henri-Nannen-Absolventin, Studium Geschichte & Philosophie (FU Berlin). Otto-Brenner-Preis 2019. Kernthesen: Kapitalismus muss wachsen — deshalb sind Wachstum und Klimaschutz strukturell unvereinbar; grünes Schrumpfen statt grünes Wachstum; Wohlstand entsteht durch Technik, nicht durch Arbeit allein. Aktuelles Buch: *Geld als Waffe. Wie die Wirtschaft über Krieg und Frieden entscheidet* (März 2026).
-> → [[DenkerVita/Ulrike Herrmann|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Ulrike Herrmann|DenkerVita]]
 
 ---
 
@@ -233,6 +233,6 @@ Die Minijob-Note zeigt denselben CDU-Widerspruch in der Arbeitspolitik, den die 
 
 Konkrete Eskalation der Jahresbilanz-Dynamik: Merz wird beim DGB-Kongress (Mai 2026) ausgebuht, als er die Aufweichung des 8-Stunden-Tags und Rentenreform ankündigt. Die Gewerkschaften rebellieren — ein Symptom der Entfremdung zwischen Regierung und Arbeitnehmerschaft.
 
-### → [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
 Sahebi und Semsrott benennen denselben Empathiemangel an einem konkreten Fall, den Herrmann hier strukturell fasst: Merz, der öffentlich über eine sterbende Frau hinweggeht und gleichzeitig Diätenerhöhung durchsetzt — Ausdruck einer politischen Klasse, die den Kontakt zur Lebensrealität verloren hat.

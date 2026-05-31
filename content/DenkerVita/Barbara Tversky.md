@@ -234,7 +234,7 @@ Insgesamt: Die Kritik ist gering. Sie ist eine established, highly cited researc
 
 ## Cortex-Notes
 
-- [[Denker/Barbara Tversky — Denken beginnt nicht im Kopf]] — IAI-Interview über Embodied Cognition, Gesten als Denkwerkzeug, Gerechtigkeit als visceral-körperliche Reaktion
+- [[Gedankenwelten/Denker/Barbara Tversky — Denken beginnt nicht im Kopf]] — IAI-Interview über Embodied Cognition, Gesten als Denkwerkzeug, Gerechtigkeit als visceral-körperliche Reaktion
 
 ---
 

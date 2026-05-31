@@ -19,7 +19,7 @@ Quelle: ["Trump has lost everything" | Yanis Varoufakis | The Exchange](https://
 > [!info] Wer spricht?
 > **Yanis Varoufakis** (*1961, Athen*) — Ökonom, Autor, ehemaliger griechischer Finanzminister (2015). Sein neuestes Buch *Raise Your Soul* (2025) erzählt die Geschichte der letzten 100 Jahre durch die Augen von fünf Frauen, die ihn prägten.
 >
-> → [[DenkerVita/Yanis Varoufakis|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Yanis Varoufakis|DenkerVita]]
 
 **Interviewer:** Oli Dugmore, New Statesman (The Exchange). Aufgenommen nach Varoufakis' 65. Geburtstag, den er mit 2.000 Gästen in London feierte — darunter Jeremy Corbyn und Zack Polanski.
 
@@ -213,6 +213,6 @@ Manow erklärt empirisch, was Varoufakis historisch herleitet: Warum Wähler aut
 Redeckers Phantombesitz-Konzept (Machtansprüche, die sich durch vermeintliche Eigentumsverhältnisse legitimieren) trifft auf Varoufakis' Beobachtung, dass Faschisten sich heute mit Big Business verbünden. Beide analysieren denselben neuen Faschismus — Redecker philosophisch über Eigentum und Gewalt, Varoufakis ökonomisch über die Stufen der Machtergreifung. Redeckers „Phantombesitz" erklärt, *warum* Tech-Oligarchen sich als Eigentümer des Gemeinwesens verstehen.
 
 
-### → [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
 
 Konvergierende Diagnose: Die PhoenixRunde zeigt, wie Chinas Kalkül genau auf Trumps Schwäche durch den Irankrieg setzt — dasselbe, was Varoufakis als „Trump has lost everything" analysiert. Xi wartet gelassen ab, während die MAGA-Basis erodiert.

@@ -29,7 +29,7 @@ Quelle: [Thought doesn't just happen in the brain | Barbara Tversky](https://www
 >
 > Kernkonzepte: Spatial Cognition, Embodied Cognition, Geste als Kognitionswerkzeug, räumliche Metapher, verkörperte Abstraktion
 >
-> → [[DenkerVita/Barbara Tversky|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Barbara Tversky|DenkerVita]]
 
 ---
 
@@ -220,35 +220,35 @@ Philosophie als Begriffsklärungsapparat vor dem Experiment. Nicht als eigenstä
 
 ## Verbindungen
 
-### → [[Zeitgeist/David Chalmers — Das Hard Problem des Bewusstseins]]
+### → [[Gedankenwelten/Zeitgeist/David Chalmers — Das Hard Problem des Bewusstseins]]
 
 Chalmers stellt die Frage, warum überhaupt *subjektives Erleben* existiert. Tversky beantwortet diese Frage nicht — sie arbeitet auf der Ebene darunter: Wie ist das kognitive System strukturiert, das dieses Erleben hervorbringt? Beide Fragen brauchen einander. Tverskeys embodied Kognition ohne Chalmers' phänomenales Bewusstsein bleibt funktionalistisch — Chalmers ohne Tverskeys Körper-Kognition bleibt körperlos.
 
-### → [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
+### → [[Gedankenwelten/Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
 Ricard beschreibt aus der kontemplativen Perspektive, was Tversky empirisch untersucht: die körperliche Basis des Geistes. Atembeobachtung, Körper-Scanning, Gehmeditation sind praktische Techniken, die den Körper als Stabilisator des Geistes nutzen — was Tverskeys Deprivations-Experiment aus einer anderen Richtung bestätigt. Beide beschreiben denselben Körper-Geist-Nexus: der eine experimentell, der andere kontemplativen Ursprungs.
 
-### → [[Zeitgeist/ARTE — Neurodivers Anders denken besser arbeiten]]
+### → [[Gedankenwelten/Zeitgeist/ARTE — Neurodivers Anders denken besser arbeiten]]
 
 Die Frage individueller Denkstile — Menschen, die räumlich-bildhaft denken vs. solche mit innerem Monolog — korrespondiert direkt mit Tverskeys Beobachtung, dass es diese Unterschiede gibt, ihre empirische Erforschung aber noch aussteht. Neurodiversität könnte teilweise als Variation in der Gewichtung von embodied vs. sprachlichem Denken verstanden werden.
 
-### → [[Denker/Manfred Spitzer — KI, Gehirn und Lernen]]
+### → [[Gedankenwelten/Denker/Manfred Spitzer — KI, Gehirn und Lernen]]
 
 Spitzer argumentiert für verkörpertes Lernen als pädagogischen Imperativ — Kinder lernen durch Bewegung, Handlung, Sensorik. Das ist Tverskeys Embodied Cognition in pädagogischer Anwendung: Wenn Denken körperlich ist, dann kann Lernen nicht auf das Stillsitzen reduziert werden.
 
-### → [[Denker/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
+### → [[Gedankenwelten/Denker/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
 
 Tversky zeigt, dass 50% des Cortex räumlicher Verarbeitung dienen — das Gehirn ist baulich auf Raum ausgerichtet. Carbon liefert die exakte neuronale Mechanik dazu: 10–20 Millionen Rückwärts-Fasern gegen 1 Million Eingangssignale. Beide kommen zur selben Grundaussage — das Gehirn konstruiert Welt, statt sie abzubilden — aber Tversky geht einen Schritt weiter: Diese Konstruktion beginnt im Körper, nicht erst im Cortex.
 
-### → [[Denker/Albert Moukheiber — Mein Hirn und ich]]
+### → [[Gedankenwelten/Denker/Albert Moukheiber — Mein Hirn und ich]]
 
 Moukheiber beschreibt das Gehirn als Rekonstruktionsmaschine mit A-priori-Annahmen — ein Vorhersageorgan, das Lücken füllt. Tversky ergänzt die verkörperte Dimension, die Moukheiber auslässt: Gesten denken mit, Abstraktion wurzelt im Körperlichen, der Körper ist nicht nur Input-Kanal sondern Mit-Denker. Der Kontrast ist produktiv — Moukheibers Gehirn ist kopflastig, Tverskys Kognition geht in die Glieder.
 
-### → [[Zeitgeist/Rebecca Boehme — So trickst du dein Gehirn aus]]
+### → [[Gedankenwelten/Zeitgeist/Rebecca Boehme — So trickst du dein Gehirn aus]]
 
 Böhmes Milkshake-Studie ist ein direkter empirischer Beleg für Tverskys These: Erwartung und Sprache verändern nicht nur die Wahrnehmung, sondern den Körper selbst — Ghrelin-Ausschüttung folgt dem mentalen Modell, nicht dem physischen Reiz. Beide beschreiben denselben Zwei-Wege-Kanal zwischen Körper und Kognition, Böhme allerdings aus der Interventions-Perspektive.
 
-### → [[Denker/Vipassana — Anatta]]
+### → [[Gedankenwelten/Denker/Vipassana — Anatta]]
 
 Tversky beschreibt den Körper als Anker des Bewusstseins — im Deprivationsexperiment verliert das Ich ohne Körpersignale seinen Halt. Goenka dreht diese These philosophisch um: Was wir für den Anker halten, ist selbst vergänglich — Anattā. Kein festes Ich, nur ein Geist-Materie-Phänomen in Bewegung. Tversky fragt empirisch, was Kognition braucht. Vipassana fragt praktisch, was passiert, wenn man diesen Anker loslässt.
 

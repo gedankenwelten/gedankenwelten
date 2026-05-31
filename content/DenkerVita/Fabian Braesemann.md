@@ -52,7 +52,7 @@ Keine starre ideologische Verankerung erkennbar. Braesemann vertritt eine pragma
 
 ## Cortex-Notes
 
-- [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+- [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
 ---
 

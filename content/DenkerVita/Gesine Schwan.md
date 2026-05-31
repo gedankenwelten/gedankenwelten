@@ -52,7 +52,7 @@ Schwan ist Sozialdemokratin — aber intellektuell weit über Parteipolitik hina
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Erich Fromm]] — Schwan zitiert Fromm explizit zur Psychologie des Narzissmus. Fromms Analyse des "autoritären Charakters" und Schwans Diagnose narzisstischer Autokraten beschreiben denselben Mechanismus: Menschen, die Beziehung nur über Destruktion herstellen können.
+- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Schwan zitiert Fromm explizit zur Psychologie des Narzissmus. Fromms Analyse des "autoritären Charakters" und Schwans Diagnose narzisstischer Autokraten beschreiben denselben Mechanismus: Menschen, die Beziehung nur über Destruktion herstellen können.
 
 - **Hannah Arendt** — Schwan zitiert Arendts Begriff der Tatsachenwahrheit (*Wahrheit und Lüge in der Politik*): Trump versucht, empirische Fakten wegzudrängen. Arendt wie Schwan sehen darin eine besondere Gefahr — denn Tatsachenwahrheiten sind die Grundlage demokratischer Deliberation.
 
@@ -64,4 +64,4 @@ Schwan ist Sozialdemokratin — aber intellektuell weit über Parteipolitik hina
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]] — Gespräch mit Maja Göpel über Gestaltungsmacht, Narzissmus der Autokraten und demokratische Kultur
+- [[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN]] — Gespräch mit Maja Göpel über Gestaltungsmacht, Narzissmus der Autokraten und demokratische Kultur

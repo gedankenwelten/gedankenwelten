@@ -109,7 +109,7 @@ Flassbeck ist **Post-Keynesianer** — kein Marxist, kein Sozialdemokrat alter S
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Maurice Hoefgen]] — Höfgen ist Flassbecks intellektueller Erbe in der nächsten Generation: gleiche keynesianische Denkschule, aber mit YouTube-Reichweite und MMT-Erweiterung. Flassbeck liefert die theoretische Tiefe, Höfgen die mediale Durchschlagskraft. Höfgen hat Flassbecks SPD-Remscheid-Vortrag auf seinem Kanal veröffentlicht — ein Zeichen gegenseitiger Wertschätzung.
+- [[Gedankenwelten/DenkerVita/Maurice Hoefgen]] — Höfgen ist Flassbecks intellektueller Erbe in der nächsten Generation: gleiche keynesianische Denkschule, aber mit YouTube-Reichweite und MMT-Erweiterung. Flassbeck liefert die theoretische Tiefe, Höfgen die mediale Durchschlagskraft. Höfgen hat Flassbecks SPD-Remscheid-Vortrag auf seinem Kanal veröffentlicht — ein Zeichen gegenseitiger Wertschätzung.
 
 ---
 

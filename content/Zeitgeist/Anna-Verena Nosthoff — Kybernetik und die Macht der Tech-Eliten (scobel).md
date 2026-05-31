@@ -141,7 +141,7 @@ Nosthoff plädiert für:
 
 ## Verbindungen
 
-### → [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
+### → [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
 
 Hartmann beschreibt im NANO Talk politisch, was Nosthoff ideengeschichtlich begründet: Tech-Oligarchen nutzen kybernetisches Steuerungsdenken als Selbstlegitimation. Hartmann fordert Antitrust; Nosthoff erklärt, warum diese Überzeugung ideologisch so stabil ist.
 
@@ -181,7 +181,7 @@ Nosthoffs Datensubjekt ist Fromms *Haben*-Modus in Reinform: Der Mensch reduzier
 
 Spitzers und Wolf Singers Warnung vor der Gehirn-Computer-Analogie wird von Nosthoff historisch eingebettet: Diese Analogie entstand in den Macy-Konferenzen der 1940er Jahre als kybernetisches Kernprojekt
 
-### → [[Zeitgeist/Mbembe — The Earthly Community]]
+### → [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]]
 
 Mbembe liefert die kolonialhistorische Herkunft der kybernetischen Sortierlogik: Die Klassifizierung von Menschen in "produktiv/unentbehrlich" und "Abfall/waste" wurde nicht im Silicon Valley erfunden — sie wurde in der atlantischen Sklaverei und kolonialen Lohnarbeit erprobt. Nosthoffs kybernetische Genealogie (Wiener, von Foerster, Stafford Beer) gewinnt durch Mbembes Genealogie eine koloniale Vorgeschichte, die im akademischen Technik-Diskurs regelmäßig ausgeblendet wird.
 
@@ -249,10 +249,10 @@ Varoufakis benennt, was Nosthoffs kybernetische Verhaltenssteuerung *ökonomisch
 
 Schultz liefert die neuronale Grammatik für das, was Nosthoff als Machtstrategie beschreibt: Soziale Medien sind als RPE-Maschinen gebaut — variables Intervall-Scheduling maximiert die Rate positiver Prediction Errors und erzeugt damit biologisch fundierte Abhängigkeit. Schultz' Biochemie macht Nosthoffs kybernetische Verhaltenssteuerung greifbar: Die Plattformen haben nicht nur ein Geschäftsmodell optimiert, sondern eine neuronale Architektur instrumentalisiert.
 
-### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Palantir Gotham ist die direkte Realisierung von Nosthoffs kybernetischer Prädiktionslogik: statt feindlicher Piloten "vorausberechnet" der Algorithmus Verdächtige — dasselbe Maschinenmodell, angewendet auf Kriminalität statt Krieg. Kurz und Görlitz liefern den deutschen Rechtsfall zur technikhistorischen These.
 
-### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Das „Clickwork"-Framing ist kybernetische Kategorisierung in ihrer reinsten Form: Hochqualifizierte Arbeit wird als mechanische Input-Tätigkeit umdefiniert, damit sie als unsichtbar und rechtslos gelten kann. Nosthoffs Analyse der Verhaltenssteuerung von oben findet in der Data-Labor-Note ihr Spiegelbild von unten.

@@ -7,7 +7,7 @@ tags: [denker-vita, migration, usa, erinnerungskultur, journalismus]
 
 > [!info] Wer ist das?
 > **Marina Klimchuk** — Freie Journalistin, schreibt für ZEIT, taz, Stern, WOZ, GEO und weitere. Kam in den 1990ern als jüdische Kontingentflüchtlingin nach Deutschland. Lebte zwei Jahre in den USA — zwischen Greyhound-Bussen, Depression und demokratischem Niedergang. Schwerpunkte: Migration, Erinnerungskultur, internationale Konflikte.
-> → [[DenkerVita/Marina Klimchuk|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Marina Klimchuk|DenkerVita]]
 
 ## Biografie
 

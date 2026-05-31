@@ -58,8 +58,8 @@ Schwer einzuordnen: Biographisch CDU, aber in der öffentlichen Debatte position
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Nicole Deitelhoff]] — Co-Moderator im StreitClub, gemeinsames Projekt zur demokratischen Streitkultur
-- [[DenkerVita/Gesine Schwan]] — Beide verbindet die Frage nach demokratischer Substanz jenseits institutioneller Formen
+- [[Gedankenwelten/DenkerVita/Nicole Deitelhoff]] — Co-Moderator im StreitClub, gemeinsames Projekt zur demokratischen Streitkultur
+- [[Gedankenwelten/DenkerVita/Gesine Schwan]] — Beide verbindet die Frage nach demokratischer Substanz jenseits institutioneller Formen
 
 ---
 

@@ -62,11 +62,11 @@ Pagis kommt aus dem Umfeld der kritischen französischen Soziologie (EHESS, *Gen
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Erich Fromm]] — Fromms Analyse des autoritären Charakters und der „Flucht vor der Freiheit" ist das psychoanalytische Gegenstück zu Pagis' soziologischem Ansatz. Beide fragen: Warum unterwerfen sich Menschen freiwillig?
-- [[DenkerVita/Eva von Redecker]] — Von Redeckers Arbeit über autoritäre Persönlichkeitsstrukturen und den „Drang nach Härte" ergänzt Pagis' Analyse der Gefolgschaftsseite.
+- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromms Analyse des autoritären Charakters und der „Flucht vor der Freiheit" ist das psychoanalytische Gegenstück zu Pagis' soziologischem Ansatz. Beide fragen: Warum unterwerfen sich Menschen freiwillig?
+- [[Gedankenwelten/DenkerVita/Eva von Redecker]] — Von Redeckers Arbeit über autoritäre Persönlichkeitsstrukturen und den „Drang nach Härte" ergänzt Pagis' Analyse der Gefolgschaftsseite.
 
 ---
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Julie Pagis — Psychologie der charismatischen Kontrolle|Julie Pagis — Psychologie der charismatischen Kontrolle]]
+- [[Gedankenwelten/Zeitgeist/Julie Pagis — Psychologie der charismatischen Kontrolle|Julie Pagis — Psychologie der charismatischen Kontrolle]]

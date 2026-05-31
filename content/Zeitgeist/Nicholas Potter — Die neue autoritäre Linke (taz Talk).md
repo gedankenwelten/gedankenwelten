@@ -219,7 +219,7 @@ Kempers Analyse von Faschismus als Klassen- und Ideologiephänomen des 21. Jahrh
 
 ### → [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
 
-### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
 Potters empirische Analyse der neuen autoritären Linken ist das Fallbeispiel zu Posschardts Schitbürgertum-These: Wo Poschardt das Phänomen kulturkritisch benennt, seziert Potter es journalistisch von innen.
 

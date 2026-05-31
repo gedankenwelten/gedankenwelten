@@ -19,7 +19,7 @@ Quelle: [Bild der Wissenschaft Podcast — Dopamin: Mehr als ein Glückshormon](
 > [!info] Wer spricht?
 > **Wolfram Schultz** (*1949, Deutschland*) — Professor of Neuroscience an der University of Cambridge und einer der führenden Dopaminforscher weltweit. Schultz entdeckte den **Reward Prediction Error** (Belohnungsvorhersagefehler) — das fundamentale Prinzip, nach dem das Gehirn nicht Belohnungen selbst, sondern die *Abweichung von Erwartungen* codiert. Er arbeitete als Postdoktorand unter Nobelpreisträger John C. Eccles, am Max-Planck-Institut und am Karolinska-Institut, bevor er 40 Jahre lang an der Universität Fribourg und seit 2001 in Cambridge forschte. 2017 erhielt er den **Brain Prize** der Lundbeck Foundation (1 Mio. Euro) — den weltweit größten Neurowissenschaftspreis. Über 600 Publikationen, h-Index 101.
 >
-> → [[DenkerVita/Wolfram Schultz|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Wolfram Schultz|DenkerVita]]
 
 ---
 

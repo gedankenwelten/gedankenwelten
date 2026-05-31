@@ -22,7 +22,7 @@ Quelle: [Die Neuen Zwanziger — Salon Lektüren März 2026](https://steady.page
 
 > [!info] Wer spricht?
 > **Wolfgang M. Schmitt** und **Stefan Schulz** — Hosts des Podcasts "Die Neuen Zwanziger". Zweiwöchentlicher Lektüre-Salon, in dem sie Bücher, Artikel und Essays diskutieren. In dieser Ausgabe: zwei große Buchbesprechungen (Sloterdijk, Daub) und sieben kürzere Texte — zusammengehalten durch den roten Faden der **Banalität des Großen**: wie Macht durch Loyalität, Gewöhnlichkeit und institutionelles Versagen operiert.
-> → [[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
 
 ---
 

@@ -18,14 +18,14 @@ aliases:
 Quelle: [Freud in 60 Minuten](https://www.youtube.com/watch?v=RcCL4OathoE)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Denker einem breiten Publikum erschließt. Im Freud-Vortrag zeigt Ziegler, wie ein Wiener Arzt das Selbstverständnis des modernen Menschen radikal verändert hat — und warum das „Ich" dabei am schlechtesten wegkommt. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Denker einem breiten Publikum erschließt. Im Freud-Vortrag zeigt Ziegler, wie ein Wiener Arzt das Selbstverständnis des modernen Menschen radikal verändert hat — und warum das „Ich" dabei am schlechtesten wegkommt. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Sigmund Freud** (*1856, Freiberg/Mähren — †1939, London*) — Arzt, Neurologe und Begründer der Psychoanalyse. Studierte in Wien, wo er zeitlebens arbeitete bis zur Vertreibung durch den Nationalsozialismus 1938. Schüler des Neurologen Jean-Martin Charcot in Paris; entwickelte aus der Hypnose die freie Assoziation und schließlich die Gesprächstherapie. Von den Lesern der *New York Times* zum bedeutendsten Denker des 20. Jahrhunderts gewählt. Dabei fürchterlich umstritten: Philosophen hielten seine Theorie des Unbewussten für logisch widersprüchlich, Biologen für nicht messbar, Feministen für patriarchal. Und doch hat kaum jemand so tief verändert, wie wir über uns selbst sprechen.
 >
 > Wichtigste Werke: *Die Traumdeutung* (1900), *Drei Abhandlungen zur Sexualtheorie* (1905), *Das Ich und das Es* (1923), *Totem und Tabu* (1913), *Die Zukunft einer Illusion* (1927), *Das Unbehagen in der Kultur* (1930)
 > Kernkonzepte: Unbewusstes, Triebtheorie, Ödipuskomplex, Es/Ich/Über-Ich, Libido, Sublimierung, Verdrängung, Übertragung, Psychoanalyse
 >
-> → [[DenkerVita/Sigmund Freud|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Sigmund Freud|DenkerVita]]
 
 ---
 

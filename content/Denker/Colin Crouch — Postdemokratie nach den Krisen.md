@@ -145,12 +145,12 @@ Und die paradoxe Verbindung: Trump, Orbán, Bolsonaro — populistisch in der Rh
 
 ## Verbindungen
 
-- [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — Postdemokratie ist die strukturelle Erklärung für das "leere Gewebe": Die Institutionen sind da, aber die Macht liegt anderswo
-- [[Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]] — Mouffe und Crouch sind komplementär: Mouffe erklärt warum Populismus entsteht (fehlender agonistischer Raum), Crouch erklärt wie er instrumentalisiert wird (politische Unternehmer)
-- [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet|Demirović — Foucaults Gouvernementalität]] — Foucaults "Freiheit als Köder" und Crouchs "neoliberale Postdemokratie" beschreiben denselben Mechanismus von verschiedenen Seiten
-- [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld — Warum schweigen die Lämmer?]] — Mausfeld: Elite-Meinungsmanagement von oben; Crouch: institutionelle Entleerung durch Revolving Door. Zwei Beschreibungen derselben Struktur
-- [[Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]] — Crouchs Goldman-Sachs-Beispiel ist die institutionelle Version des Gewebe-Arguments: Postdemokratie zieht Fäden heraus, die man nicht sieht — bis zum Systemversagen 2008
-- [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Mau — Triggerpunkte]] — Maus "left behind"-Analyse des deutschen Kontexts ist Crouchs theoretischer Rahmen empirisch gefüllt
+- [[Gedankenwelten/Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — Postdemokratie ist die strukturelle Erklärung für das "leere Gewebe": Die Institutionen sind da, aber die Macht liegt anderswo
+- [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]] — Mouffe und Crouch sind komplementär: Mouffe erklärt warum Populismus entsteht (fehlender agonistischer Raum), Crouch erklärt wie er instrumentalisiert wird (politische Unternehmer)
+- [[Gedankenwelten/Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet|Demirović — Foucaults Gouvernementalität]] — Foucaults "Freiheit als Köder" und Crouchs "neoliberale Postdemokratie" beschreiben denselben Mechanismus von verschiedenen Seiten
+- [[Gedankenwelten/Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld — Warum schweigen die Lämmer?]] — Mausfeld: Elite-Meinungsmanagement von oben; Crouch: institutionelle Entleerung durch Revolving Door. Zwei Beschreibungen derselben Struktur
+- [[Gedankenwelten/Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]] — Crouchs Goldman-Sachs-Beispiel ist die institutionelle Version des Gewebe-Arguments: Postdemokratie zieht Fäden heraus, die man nicht sieht — bis zum Systemversagen 2008
+- [[Gedankenwelten/Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Mau — Triggerpunkte]] — Maus "left behind"-Analyse des deutschen Kontexts ist Crouchs theoretischer Rahmen empirisch gefüllt
 
 ---
 

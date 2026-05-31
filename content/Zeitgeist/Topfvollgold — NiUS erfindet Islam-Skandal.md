@@ -21,7 +21,7 @@ Quelle: [NiUS erfindet Islam-Skandal](https://www.youtube.com/watch?v=XiC0qsyka0
 > [!info] Wer spricht?
 > **Topfvollgold** — YouTube-Kanal von **Mats Schoenauer**, Journalist und Medienkritiker. Schoenauer recherchiert für seinen Kanal über Medien, YouTube und Social Media. Zusammen mit **Moritz Tschermak** veröffentlichte er das Buch *Ohne Rücksicht auf Verluste* (KiWi Verlag) — eine Analyse der Bild-Zeitung und ihrer Methoden.
 >
-> → [[DenkerVita/Mats Schoenauer|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Mats Schoenauer|DenkerVita]]
 
 ---
 
@@ -176,31 +176,31 @@ Prewalt beschreibt das Phänomen:
 
 ## Verbindungen
 
-### → [[Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
+### → [[Gedankenwelten/Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
 
 Direktes Vorgängervideo von Topfvollgold zu derselben Methode: BILD und NiUS als Maschinerie zur Produktion islamfeindlicher Fake-Meldungen. Dort: der "Shopping-Skandal" mit den Afghanen. Hier: das Ramadan-Buffet. Dasselbe Playbook, zwei Monate später.
 
-### → [[Zeitgeist/Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]]
+### → [[Gedankenwelten/Zeitgeist/Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]]
 
 Identische Propagandaarchitektur auf verschiedenen Bühnen: NiUS erfindet den Islam-Skandal, AfD-Politiker übernehmen ohne Prüfung und machen Parlamentsthemen daraus — genau wie Chrupalla den Schulvorfall in Schleife. In beiden Fällen folgen Morddrohungen gegen Unbeteiligte als direkte Konsequenz der Hetze.
 
-### → [[Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
+### → [[Gedankenwelten/Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 
 Staiy analysiert NiUS als strukturelles Triggermedium im Teufelskreis aus Klick-Anreizen und Angstproduktion — diese Note liefert den konkreten Fallbeweis: NiUS produziert nicht nur Migration negativ, sondern erfindet islamfeindliche Inhalte gezielt, um den Kreislauf am Laufen zu halten.
 
-### → [[Zeitgeist/ARTE — Forschung Fake und faule Tricks]]
+### → [[Gedankenwelten/Zeitgeist/ARTE — Forschung Fake und faule Tricks]]
 
 Der Agnotologie-Blueprint gilt auch hier: Reichelts Reaktion auf das Gerichtsurteil — statt zu widerlegen, neue Wahrheitsketten bauen ("Kantine ist staatlich finanziert, also...") — ist das klassische Tabak-Muster: Zweifel ist das Produkt, nicht die Widerlegung der Lüge.
 
-### → [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt]]
+### → [[Gedankenwelten/Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt]]
 
 Mau zeigt, dass Islam und Migration zur Arena "Innen/Außen" gehören — mit besonders niedrigen Triggerschwellen. NiUS betreibt gezielt Triggerpunkt-Aktivierung: Ein harmloses Buffet wird zur "Unterwerfung unter den Islam" aufgeladen, weil genau diese Arena maximale emotionale Reaktanz erzeugt.
 
-### → [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+### → [[Gedankenwelten/Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 
 Die Morddrohungen gegen Frau A innerhalb von zwei Tagen nach dem NiUS-Artikel sind kein Zufall, sondern institutionalisierte Enthemmung: NiUS ist eine der Strukturen, die Heitmeyer mit "Durchrohung" meint — nicht einzelne böse Kommentatoren, sondern ein Medium, das Gewaltfantasien systematisch stimuliert.
 
-### → [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
+### → [[Gedankenwelten/Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
 
 MONITOR zeigt, dass rechte Medienarbeit durch Dauerbeschallung normalisiert, nicht durch Überzeugung. Diese Note ist ein Einzelfall-Beleg dafür: Selbst nach Gerichtsurteil, Klarstellung und Schoenauers Dokumentation ändert NiUS nichts — weil Normalisierung keine Korrektheit braucht, nur Lautstärke.
 

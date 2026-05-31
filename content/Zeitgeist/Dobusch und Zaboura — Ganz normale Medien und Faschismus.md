@@ -24,7 +24,7 @@ Quelle: [re:publica 26 — Ganz normale Medien und ihr Beitrag zum Comeback des 
 >
 > Beide präsentieren auf der re:publica 26 einen systematisch belegten Befund: Nicht nur rechtspopulistische Randmedien, sondern die strukturellen Logiken des Qualitätsjournalismus selbst tragen aktiv zum Erstarken neofaschistischer Politik bei.
 >
-> → [[DenkerVita/Leonhard Dobusch|DenkerVita]] · → [[DenkerVita/Nadia Zaboura|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Leonhard Dobusch|DenkerVita]] · → [[Gedankenwelten/DenkerVita/Nadia Zaboura|DenkerVita]]
 
 ---
 

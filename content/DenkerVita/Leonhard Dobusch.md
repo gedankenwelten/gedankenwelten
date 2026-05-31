@@ -70,7 +70,7 @@ Der Wendepunkt zu seinem jetzigen Profil: 2016 wurde Dobusch auf Vorschlag von C
 
 Dobusch wird dem progressiven, der **Linken nahestehenden Spektrum** zugeordnet — sowohl biografisch (Sozialistische Jugend Österreich), als auch institutionell (Momentum Institut, SPD-nahe D64). Allerdings ist seine Haltung nicht ideologisch, sondern **analytisch-institutionell**: Seine Kritik am ZDF-Fernsehrat, an Oligopolen, an medialer Schwachheit kommt nicht aus dogmatischem Anti-Kapitalismus, sondern aus einer Diagnose des Systemversagens.
 
-Er wird in Diskursen um Faschismus und Mediendemokratie mit [[DenkerVita/Götz Aly]], [[DenkerVita/Hannah Arendt]] und [[DenkerVita/Eva von Redecker]] genannt — nicht weil sie dieselbe Politik vertreten, sondern weil sie das gleiche Erkenntnisinteresse teilen: *Wie wird Faschismus möglich, und wo müssten Institutionen gegensteuern?*
+Er wird in Diskursen um Faschismus und Mediendemokratie mit [[Gedankenwelten/DenkerVita/Götz Aly]], [[Gedankenwelten/DenkerVita/Hannah Arendt]] und [[Gedankenwelten/DenkerVita/Eva von Redecker]] genannt — nicht weil sie dieselbe Politik vertreten, sondern weil sie das gleiche Erkenntnisinteresse teilen: *Wie wird Faschismus möglich, und wo müssten Institutionen gegensteuern?*
 
 ---
 
