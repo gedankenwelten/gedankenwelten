@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Impressum: "/Impressum",
+      Graph: "/graph",
       GitHub: "https://github.com/gedankenwelten/gedankenwelten",
     },
   }),
@@ -24,6 +25,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    // Graph NUR auf der dedizierten /graph-Ansicht rendern. Auf normalen Notes
+    // startete der Graph sonst eine dauerhafte PIXI/WebGL-Render-Schleife und lud
+    // den 7,4-MB-contentIndex eager — das ließ iOS-Safari den Tab abschießen.
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: { depth: -1, showTags: true },
+        globalGraph: { showTags: true },
+      }),
+      condition: (page) => page.fileData.slug === "graph",
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -50,15 +61,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.Graph({
-      localGraph: {
-        depth: 2,
-        showTags: false,
-      },
-      globalGraph: {
-        showTags: false,
-      },
-    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
