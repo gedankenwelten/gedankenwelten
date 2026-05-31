@@ -43,6 +43,15 @@
   }
 }
 
+// Mobile: etwas größere Grundschrift fürs angenehmere Lesen langer Inhalte.
+// Da Quartz in rem misst, skalieren Fließtext, Listen, Callouts & Blockquotes
+// proportional mit. Desktop bleibt unverändert.
+@media (max-width: 800px) {
+  html {
+    font-size: 18px;
+  }
+}
+
 // Dedizierte /graph-Ansicht: Graph füllt fast die ganze Seitenhöhe und nutzt
 // die volle Breite (die rechte Spalte wird hier nicht gebraucht).
 body[data-slug="graph"] {
