@@ -50,6 +50,29 @@
   html {
     font-size: 18px;
   }
+
+  // Fix: horizontaler Seiten-Overflow. Quartz setzt .center auf min-width:100%,
+  // wodurch die einspaltige Content-Spalte NICHT unter die min-content-Breite
+  // ihres breitesten Kindes schrumpfen kann. Ein breites Element (Tabelle,
+  // Code-Block, lange URL) sprengt dann die Seite über den Viewport hinaus →
+  // mobile Safari zoomt raus → der ganze Text wirkt winzig. min-width:0 erlaubt
+  // das Schrumpfen; breite Kinder brechen um bzw. scrollen intern.
+  .center,
+  .center > article {
+    min-width: 0 !important;
+    max-width: 100%;
+  }
+
+  article {
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+
+  article table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+  }
 }
 
 // Dedizierte /graph-Ansicht: Graph füllt fast die ganze Seitenhöhe und nutzt
