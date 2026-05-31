@@ -411,6 +411,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Sandra Navidi
 **Status:** Stub
 
+## Silke Stremlau
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Silke Stremlau]]
+
 ## Sigmund Freud
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sigmund Freud]]
 
