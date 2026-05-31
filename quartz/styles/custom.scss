@@ -42,3 +42,18 @@
     line-height: 1.3rem;
   }
 }
+
+// Dedizierte /graph-Ansicht: Graph füllt fast die ganze Seitenhöhe und nutzt
+// die volle Breite (die rechte Spalte wird hier nicht gebraucht).
+body[data-slug="graph"] {
+  .page > #quartz-body {
+    @media (min-width: 1200px) {
+      grid-template-columns: 400px auto !important;
+    }
+  }
+
+  .graph > .graph-outer {
+    height: calc(100vh - 13rem);
+    max-height: none;
+  }
+}
