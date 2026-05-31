@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr"><head><title>Erwin Thoma — Strategien der Natur · Gedankenwelten</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Inter:ital,wght@0,400;0,600;1,400;1,600&amp;family=JetBrains Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Gedankenwelten"/><meta property="og:title" content="Erwin Thoma — Strategien der Natur · Gedankenwelten"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Erwin Thoma — Strategien der Natur · Gedankenwelten"/><meta name="twitter:description" content="Erwin Thoma — Strategien der Natur Quelle: Vortrag von Erwin Thoma (Holzbauunternehmer, Autor, ehemaliger Förster) Zur Person Erwin Thoma war mit 20 Jahren der jüngste Förster Österreichs, zuständig für das einsamste Revier des Landes im Karwendelgebirge — wochenlang eingeschneit, kein Strom, kein T..."/><meta property="og:description" content="Erwin Thoma — Strategien der Natur Quelle: Vortrag von Erwin Thoma (Holzbauunternehmer, Autor, ehemaliger Förster) Zur Person Erwin Thoma war mit 20 Jahren der jüngste Förster Österreichs, zuständig für das einsamste Revier des Landes im Karwendelgebirge — wochenlang eingeschneit, kein Strom, kein T..."/><meta property="og:image:alt" content="Erwin Thoma — Strategien der Natur Quelle: Vortrag von Erwin Thoma (Holzbauunternehmer, Autor, ehemaliger Förster) Zur Person Erwin Thoma war mit 20 Jahren der jüngste Förster Österreichs, zuständig für das einsamste Revier des Landes im Karwendelgebirge — wochenlang eingeschneit, kein Strom, kein T..."/><meta property="twitter:domain" content="gedankenwelten.org"/><meta property="og:url" content="https://gedankenwelten.org/Denker/Erwin-Thoma-Strategien-der-Natur"/><meta property="twitter:url" content="https://gedankenwelten.org/Denker/Erwin-Thoma-Strategien-der-Natur"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Erwin Thoma — Strategien der Natur Quelle: Vortrag von Erwin Thoma (Holzbauunternehmer, Autor, ehemaliger Förster) Zur Person Erwin Thoma war mit 20 Jahren der jüngste Förster Österreichs, zuständig für das einsamste Revier des Landes im Karwendelgebirge — wochenlang eingeschneit, kein Strom, kein T..."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvbHVjL3NlcnZpY2VzL2dlZGFua2Vud2VsdGVuL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://gedankenwelten.org/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://gedankenwelten.org/Denker/Erwin-Thoma-Strategien-der-Natur-og-image.webp"/><meta property="og:image:url" content="https://gedankenwelten.org/Denker/Erwin-Thoma-Strategien-der-Natur-og-image.webp"/><meta name="twitter:image" content="https://gedankenwelten.org/Denker/Erwin-Thoma-Strategien-der-Natur-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Denker/Erwin-Thoma-Strategien-der-Natur"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Gedankenwelten</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Suche</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Suche nach etwas" placeholder="Suche nach etwas"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dunkler Modus"><title>Dunkler Modus</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Heller Modus"><title>Heller Modus</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Lesemodus"><title>Lesemodus</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>{if(a.isFolder&amp;&amp;!b.isFolder)return-1;if(!a.isFolder&amp;&amp;b.isFolder)return 1;let aDate=a.data?.date?new Date(a.data.date).getTime():0,bDate=b.data?.date?new Date(b.data.date).getTime():0;return aDate!==bDate?bDate-aDate:a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;})}&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-52"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-52" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Denker/">Denker</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Erwin Thoma — Strategien der Natur</a></div></nav><h1 class="article-title">Erwin Thoma — Strategien der Natur</h1><p show-comma="true" class="content-meta"><time datetime="2026-05-09T21:13:59.000Z">09. Mai 2026</time><span>12 Min. Lesezeit</span></p><ul class="tags"><li><a href="../tags/natur" class="internal tag-link">natur</a></li><li><a href="../tags/wald" class="internal tag-link">wald</a></li><li><a href="../tags/bäume" class="internal tag-link">bäume</a></li><li><a href="../tags/holz" class="internal tag-link">holz</a></li><li><a href="../tags/bauen" class="internal tag-link">bauen</a></li><li><a href="../tags/ökologie" class="internal tag-link">ökologie</a></li><li><a href="../tags/wirtschaft" class="internal tag-link">wirtschaft</a></li><li><a href="../tags/kommunikation" class="internal tag-link">kommunikation</a></li><li><a href="../tags/pilze" class="internal tag-link">pilze</a></li><li><a href="../tags/chlorophyll" class="internal tag-link">chlorophyll</a></li><li><a href="../tags/nachhaltigkeit" class="internal tag-link">nachhaltigkeit</a></li><li><a href="../tags/gesellschaft" class="internal tag-link">gesellschaft</a></li><li><a href="../tags/quelle" class="internal tag-link">quelle</a></li></ul></div></div><article class="popover-hint"><h1 id="erwin-thoma--strategien-der-natur">Erwin Thoma — Strategien der Natur<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#erwin-thoma--strategien-der-natur" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Quelle: Vortrag von Erwin Thoma (Holzbauunternehmer, Autor, ehemaliger Förster)</p>
+<blockquote class="callout info" data-callout="info">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Zur Person </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Erwin Thoma war mit 20 Jahren der jüngste Förster Österreichs, zuständig für das einsamste Revier des Landes im Karwendelgebirge — wochenlang eingeschneit, kein Strom, kein Telefon. Dort begann seine Beziehung zum Wald. Mit seinem über 80-jährigen Großvater (Zimmermann der alten Schule) gründete er ein Holzbauunternehmen, das heute zu den innovativsten der Welt gehört — ohne synthetischen Leim, ohne Giftstoffe, mit Häusern die sich selbst heizen und kühlen. Fabrik bei Freiburg läuft vollständig auf Solarstrom vom eigenen Dach.</p>
+</div>
+</blockquote>
+<blockquote class="callout quote" data-callout="quote">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Eröffnung </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p><em>„Wie gut, du lieber Kirschbaum, dass du an keiner Wirtschaftsuniversität warst.”</em></p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="1-bäume-sind-luft--der-größte-irrtum-des-biologieunterrichts">1. Bäume sind Luft — der größte Irrtum des Biologieunterrichts<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1-bäume-sind-luft--der-größte-irrtum-des-biologieunterrichts" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Als Kind kletterte Thoma auf eine große Fichte. Der Biologieprofessor hatte erklärt, Bäume wachsen indem sie Nährstoffe aus dem Boden nehmen. Thoma dachte: Dann müsste neben jedem Baum ein riesiges Loch sein.</p>
+<blockquote>
+<p><em>„Aus dem Boden kommt an Materie die man dann im Holz wiederfindet: genau 0,5%. Ein halbes Prozent. Und mehr als 99% der Bäume sind Luft und Wasser.”</em></p>
+</blockquote>
+<p>Bäume sind Wesen, die sich <strong>aus der Luft vor unseren Augen materialisieren</strong>. Wie Rumpelstilzchen, der aus Stroh Gold spinnen konnte — Bäume machen aus Luft Wälder.</p>
+<h3 id="chlorophyll--das-erste-grüne-molekül">Chlorophyll — das erste grüne Molekül<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#chlorophyll--das-erste-grüne-molekül" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Vor langer Zeit, als die Erde noch wüst war: In einer kleinen Alge entstand durch Zufall das erste <strong>Chlorophyll-Molekül</strong>. Es konnte Sonnenlicht so nutzen, dass CO2 aus der Luft gespalten werden konnte — Kohlenstoff als Nahrung, Sauerstoff wird ausgeatmet.</p>
+<p>Das Molekül ist eine geometrische Figur wie ein Schneekristall, Kohlenstoff und Wasserstoff im genauen Raster. In der Mitte: <strong>Magnesium</strong>.</p>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Chlorophyll → Hämoglobin — wir sind Cousins </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Nimm das Magnesium aus der Mitte. Ersetze es durch Eisen — so wenig massenrelevant wie ein Salzkorn statt Zuckerkorn auf einem Tisch. Das Molekül färbt sich sofort rot. Es ist jetzt <strong>Hämoglobin</strong> — der Stoff, der in unserem Blut Sauerstoff transportiert.</p>
+<p>Der Baum und mein Körper unterscheiden sich nur darin, dass <strong>dieselben Bausteine anders zusammengesetzt</strong> sind. Wie Lego: dieselben Steine, einmal ein Männchen, einmal ein Haus, einmal ein Baum.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="2-das-wurzelwerk--mikroorganismen-als-händler">2. Das Wurzelwerk — Mikroorganismen als Händler<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-das-wurzelwerk--mikroorganismen-als-händler" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Wurzeln sind <strong>keine Bergarbeiter</strong>, die im Boden schürfen. Sie können selbst gar nichts aus dem Humus holen.</p>
+<p>In einem Teelöffel Walderde leben <strong>10 Millionen Viren und 1 Million Bakterien</strong>. Diese Mikroorganismen wissen immer, was der Baum gerade braucht — und liefern es im richtigen Moment an die Wurzelspitze.</p>
+<blockquote>
+<p><em>„Wie wissen Milliarden Mikroorganismen, dass da oben gerade der Hirsch beim Baum vorbeigegangen ist und ihn verwundet hat — und schicken innerhalb von 10 Minuten Wundheilsubstanz statt Wachstumssubstanz?”</em></p>
+</blockquote>
+<h3 id="das-pilznetzwerk--internet-des-waldes">Das Pilznetzwerk — Internet des Waldes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#das-pilznetzwerk--internet-des-waldes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Die Pilze (Mykorrhiza) haben im Waldboden ein unglaubliches Leitungssystem. Entlang dieser Leitungen werden Spurenelemente von Bakterien zur Wurzelspitze transportiert. Und die Pilzleitungen können <strong>biochemische Informationsimpulse</strong> von Baum zu Baum weitergeben — wie das Internet bei uns.</p>
+<blockquote>
+<p><em>„Viren ohne Viren gibt es kein Leben. Die Viren sind die größten Freunde der Menschheit. Das sind die, die das Leben erst bilden.”</em></p>
+</blockquote>
+<hr/>
+<h2 id="3-zucker--die-währung-des-waldes">3. Zucker — die Währung des Waldes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3-zucker--die-währung-des-waldes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Bei der Fotosynthese bilden die Bäume <strong>Zucker (C₆H₁₂O₆)</strong>. Zucker ist das Gold des Waldes — denn das große Leben ist unter der Erde, und wo kein Sonnenlicht hinkommt, kommt kein Zucker. Alle da unten sind Junkies:</p>
+<blockquote>
+<p><em>„Die Pilze, die Mikroorganismen — alle, alle, alle brauchen Zucker. Die Wurzel ist so was wie ein Handelsplatz.”</em></p>
+</blockquote>
+<p>Der Baum tauscht: Zucker gegen Spurenelemente. Ohne Zucker → keine Nährstoffe → kein Wachstum.</p>
+<h3 id="die-anlagestrategie-des-baumes">Die Anlagestrategie des Baumes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#die-anlagestrategie-des-baumes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Der Mensch will möglichst viel Geld ansammeln. Der Baum macht das <strong>genaue Gegenteil</strong>:</p>
+<blockquote>
+<p><em>„Das schlechteste was du im Leben hast, ist viel Geld bei dir zu behalten. Die Anlagestrategie der Bäume: möglichst viele Freunde finden — nicht möglichst viel Geld haben.”</em></p>
+</blockquote>
+<p>Der gesündeste und erfolgreichste Baum ist der, der sein Geld am schnellsten zu seinen Freunden bringt. Das zieht sich wie ein roter Faden durch das Baumleben.</p>
+<hr/>
+<h2 id="4-das-ziel-des-baumes--nicht-wachstum-sondern-dienst">4. Das Ziel des Baumes — nicht Wachstum, sondern Dienst<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4-das-ziel-des-baumes--nicht-wachstum-sondern-dienst" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Bäume wissen vom ersten Tag an, was sie auf Erden wollen — und vergessen es nie:</p>
+<ol>
+<li>Erst: <strong>Existenz absichern</strong> (Kronraum erreichen, Wurzeln ausbilden)</li>
+<li>Dann: <strong>Nur noch ein einziges Ziel</strong> — die Erde muss ein guter Ort sein</li>
+</ol>
+<blockquote>
+<p><em>„Der Lebensraum muss so behandelt werden, dass er nach mir möglichst besser ausschaut als vor mir. Das ist das einzige Ziel.”</em></p>
+</blockquote>
+<p>Die Bilanz eines Baumes lautet nicht: <em>Wie groß ist mein Imperium?</em> Sondern:</p>
+<ul>
+<li>Hast du den Berghang gesichert?</li>
+<li>Hast du sauberes Wasser gemacht?</li>
+<li>Hast du neuen Boden gebildet?</li>
+</ul>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Der Kontrast zur Wirtschaftslehre </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>An jeder Wirtschaftsuniversität der Welt lernt man das genaue Gegenteil: auf das Gemeinwohl pfeifen, den persönlichen Gewinn maximieren. Eine Handvoll Unternehmen hat mehr Wirtschaftskraft als ganze Länder. Das ist die Folge dieser Logik.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="5-kommunikation--duftmoleküle-statt-schallwellen">5. Kommunikation — Duftmoleküle statt Schallwellen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#5-kommunikation--duftmoleküle-statt-schallwellen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Wenn ein Borkenkäfer einen Baum überfällt, reagiert der Wald kollektiv:</p>
+<blockquote>
+<p><em>„Der Baum lässt eine ganze Wolke von Duftmolekülen los — Angstschweiß. Die anderen riechen das sofort: Borkenkäfer-Überfall bei der Fichte links unten. Stopp! Alle hören auf zu wachsen, alle produzieren Harz.”</em></p>
+</blockquote>
+<p>Wir Menschen verwenden Schallwellen um uns zu unterhalten. Bäume verwenden Duftmoleküle.</p>
+<h3 id="kollektives-handeln-bei-wassermangel">Kollektives Handeln bei Wassermangel<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kollektives-handeln-bei-wassermangel" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Wenn einem Baum das Wasser ausgeht, verschweigt er es nicht (wie ein Unternehmen vor dem Bankrott, das seine Krise versteckt). Er <strong>informiert sofort alle anderen</strong>. Die anderen hören auf zu wachsen — obwohl sie noch genug haben. Kollektives Sparen.</p>
+<blockquote>
+<p><em>„Wenn es gefährlich wird, wird aus dem Individuum ein vollkommen kollektives gemeinsames Handeln.”</em></p>
+</blockquote>
+<p>Das Wachstum wird über <strong>Spaltöffnungen</strong> (Millionen winziger Lippen an den Blättern) stufenlos reguliert — gesteuert vom Wasserstand des Baumes.</p>
+<hr/>
+<h2 id="6-der-borkenkäfer--ökologisches-gleichgewicht">6. Der Borkenkäfer — ökologisches Gleichgewicht<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#6-der-borkenkäfer--ökologisches-gleichgewicht" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Der Borkenkäfer allein ist machtlos: Ein einzelner Käfer der in einen gesunden Stamm bohrt, wird mit Harz verklebt und erstickt.</p>
+<p>Also lauern die Käfer — und suchen nach <strong>dem Schwachen</strong>. Wenn ein kranker Baum entdeckt wird, kommt nicht einer, sondern sie rufen alle zusammen.</p>
+<blockquote>
+<p><em>„Das nennt man ökologisches Gleichgewicht.”</em></p>
+</blockquote>
+<p>Gegen einen gesunden, kommunizierenden Wald hat der Käfer keine Chance. Schwäche entsteht durch Isolation, Monokultur, Klimastress.</p>
+<hr/>
+<h2 id="7-der-kirschbaum--die-kunst-der-verschwendung">7. Der Kirschbaum — die Kunst der Verschwendung<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#7-der-kirschbaum--die-kunst-der-verschwendung" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Der Kirschbaum blüht jedes Jahr mit 10.000 Blüten — obwohl drei oder vier Bäumchen genügen würden. Wirtschaftsuniversitäts-Logik würde sagen: Ressourcenverschwendung. SWOT-Analyse, Risikominimierung, gestaffelte Blüte.</p>
+<p>Aber: Was passiert wirklich?</p>
+<blockquote>
+<p><em>„Es gibt keinen Teilnehmer des ganzen Ökosystems, der von dem Kirschbaum nicht profitiert. Und deshalb gibt es keinen, der nicht drauf achtet, dass es dem Kirschbaum gut geht.”</em></p>
+</blockquote>
+<p>Die Investition in 10.000 Blüten — Insekten, Vögel, Dachse — ist die Investition in ein <strong>Netzwerk des gegenseitigen Schützens</strong>.</p>
+<blockquote class="callout quote" data-callout="quote">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Der tiefste Satz des Abends </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Thoma saß einmal 24 Stunden lang unter einem blühenden Kirschbaum bei Vollmond und beobachtete. Dann musste er an seine sterbende Mutter denken:</p>
+<p><em>„Du kannst Millionen auf dem Konto haben, Versicherungspolizen — es ist wertlos im Vergleich dazu, wenn du nur zwei oder drei Menschen hast, auf die du dich verlassen kannst.”</em></p>
+<p>Der Kirschbaum weiß das. Er fördert das Leben mit seiner Hingabe — und verliert dabei jede Angst.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="8-mondholz--was-die-wissenschaft-nicht-erklären-kann">8. Mondholz — was die Wissenschaft nicht erklären kann<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#8-mondholz--was-die-wissenschaft-nicht-erklären-kann" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Der Opa (Zimmermann, über 80) sagte: Ernten zur richtigen Zeit. Thoma war skeptisch.</p>
+<p>Dann erntete er seine erste <strong>Mondholz-Partie im Winter bei abnehmenden Mond</strong> — und die daneben liegende Partie bei zunehmendem Mond. Als im Frühjahr der große Borkenkäferflug kam: In der Mondholz-Partie kein einziger Käfer. Im anderen Lager: alle.</p>
+<blockquote>
+<p><em>„Ich stand oben und dachte: Was war das?”</em></p>
+</blockquote>
+<p>Wissenschaftlich nicht vollständig erklärt. Aber: reproduzierbar. Das Wissen des Großvaters deckt sich mit den Archivaufzeichnungen des <strong>ältesten Holzbaus der Menschheit</strong> — einem 1.650 Jahre alten Kloster in Japan. Ein buddhistischer Mönch reiste eigens aus Japan an, um das zu überprüfen.</p>
+<blockquote>
+<p><em>„Lernen kann man nur, was man tut.”</em> — Der Opa</p>
+</blockquote>
+<hr/>
+<h2 id="9-das-holzhaus--natur-als-ingenieur">9. Das Holzhaus — Natur als Ingenieur<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#9-das-holzhaus--natur-als-ingenieur" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Thoma baute die Welt des Holzes konsequent von der Natur her:</p>
+<h3 id="statik">Statik<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#statik" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Eine 40-50m hohe Fichte mit 80 km/h Sturm auf die Krone — in weichem Waldboden, mit einem kleinen Wurzelwerk. Kein Statiker auf Erden könnte das replizieren.</p>
+<h3 id="brand">Brand<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#brand" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Holz brennt dünn und luftgepumpt. Ein massiver Holzbauteil <strong>verkohlt</strong> — mit konstant 0,5–0,7 mm/Minute. Das ist <strong>berechenbar</strong>. Stahlbeton platzt bei 1000°C ab, die Armierung erhitzt sich, das Gebäude bricht zusammen.</p>
+<blockquote>
+<p>Beim japanischen Erdbebenzertifikat (strengste Prüfung der Welt): Beim maximalen Test war <strong>nichts kaputt gegangen</strong> — Thoma bekam das Zertifikat erst, nachdem er absichtlich Innenlagen schwächte.</p>
+</blockquote>
+<h3 id="heizen-und-kühlen--der-ameisenhaufen">Heizen und Kühlen — der Ameisenhaufen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#heizen-und-kühlen--der-ameisenhaufen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Das Filmarchiv der Republik Österreich: 70.000 historische Nitrofilm-Rollen müssen ganzjährig bei +2°C gelagert werden.</p>
+<p>Die Lösung kam vom Beobachten der Ameisen:</p>
+<ul>
+<li>Im Zentrum jedes Ameisenhaufens: Geburtstation bei konstanter Temperatur (Amplitude max. 2°C) — auch bei Wettersturz von +30°C auf Schnee am nächsten Morgen</li>
+<li>Wie? 20cm Holzkonstruktion + Stäbchen und Nudeln = thermische Trägheit + intelligente Belüftung</li>
+</ul>
+<p>Das Filmarchiv läuft seit <strong>12–14 Jahren ohne eine einzige Kilowattstunde externer Energie</strong> — immer +2°C.</p>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>EU-Green Deal </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Die Bauwirtschaft verursacht <strong>mehr als 40% des globalen Energieverbrauchs</strong> und 40% der CO2-Emissionen (ohne den bauwirtschaftlich induzierten Verkehr). Die EU-Agenda: Transformation von Stahl und Beton zu nachwachsenden Rohstoffen. Pflicht: giftfrei und wiederverwertbar.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="10-städte-als-co2-speicher--die-größte-chance">10. Städte als CO2-Speicher — die größte Chance<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#10-städte-als-co2-speicher--die-größte-chance" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote>
+<p><em>„Die Wälder der Erde haben in Milliarden Jahren Milliarden Kubikmeter Holz gebildet. Für jeden Kubikmeter Holz wird der Luft eine Tonne CO2 entnommen. Dieses Holz ist als Kohle, Erdöl, Erdgas eingelagert worden. In 200 Jahren haben wir das mit idiotischer Geschwindigkeit zurückgegeben.”</em></p>
+</blockquote>
+<p>Die einzige Möglichkeit: <strong>Städte aus Holz bauen = Städte als neue CO2-Speicher</strong>.</p>
+<p>Nur die Bauwirtschaft bewegt so viel Masse, dass es relevant ist. Wenn die Städte aus Holz gebaut werden, wird der gespeicherte Kohlenstoff der Atmosphäre dauerhaft entnommen.</p>
+<p>Bedingung: kein Wegwerfbau. Häuser, die 5× so lang halten. Verbindungen, die trennbar sind — keine giftigen Kleber, nur mechanische Dübel. Was am Haus war, wird wieder Haus.</p>
+<hr/>
+<h2 id="11-das-zuckerprinzip-als-lebensphilosophie">11. Das Zuckerprinzip als Lebensphilosophie<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#11-das-zuckerprinzip-als-lebensphilosophie" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Als Thoma das erste Buch schreiben wollte (mit dem Wissen des Großvaters), riet sein Steuerberater dringend ab: Das ist dein Alleinstellungsmerkmal, das darfst du nicht preisgeben.</p>
+<blockquote>
+<p><em>„Da ist mir der Baum eingefallen. Was habe ich schon zu verlieren?”</em></p>
+</blockquote>
+<p>Er veröffentlichte alles. Ergebnis: Japanische Delegation, Buchübersetzung, mehr Häuser in Japan als in Österreich, 100% Vorauszahlung. Und: 150 Partnerbetriebe im deutschsprachigen Raum, die sein Wissen weiterentwickeln und zurückgeben.</p>
+<blockquote>
+<p><em>„Wir haben mindestens so viel von denen zurückbekommen wie die von uns. Es gibt keine Einbahn. Aber man muss immer trauen, diesen Kreislauf zu öffnen.”</em></p>
+</blockquote>
+<h3 id="kein-kompromiss">Kein Kompromiss<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kein-kompromiss" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Thoma hat in seinem ganzen Leben nie einen Tropfen synthetischen Leim in ein Holz gegeben.</p>
+<blockquote>
+<p><em>„Der Pinsel mit Holzschutzmittel gehört dem Maler — nicht dem Zimmermann.”</em></p>
+</blockquote>
+<hr/>
+<h2 id="12-die-erde-ist-kein-ort-des-mangels">12. Die Erde ist kein Ort des Mangels<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#12-die-erde-ist-kein-ort-des-mangels" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote>
+<p><em>„Diese Vorstellung, dass die Erde ein Ort des Mangels ist — das ist der größte Wahnsinn.”</em></p>
+</blockquote>
+<p>Wir haben kein technisches Problem. Wir haben kein Ressourcenproblem. Was wir haben:</p>
+<ul>
+<li>Eine Gesellschaft, in der Angst omnipräsent ist</li>
+<li>Ständig wird von Mangel gesprochen</li>
+<li>Das Leben <strong>abseits unserer menschlichen Zivilisation</strong> funktioniert genau gegenteilig</li>
+</ul>
+<blockquote>
+<p><em>„Es geht nicht um Vollkommenheit. Niemand muss die Welt retten. Es geht darum: Was ist das, was ich heute tun kann? Ich gehe heim und schmeiße das stinkende synthetische Kopfpolster aus dem Schlafzimmer. Damit fange ich an.”</em></p>
+</blockquote>
+<hr/>
+<h2 id="verbindungen-in-der-gedankenwelt">Verbindungen in der Gedankenwelt<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#verbindungen-in-der-gedankenwelt" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="-hans-peter-dürr--die-neue-physik">→ <a href="../Denker/Hans-Peter-Dürr-Die-neue-Physik" class="internal alias" data-slug="Denker/Hans-Peter-Dürr-Die-neue-Physik">Hans-Peter Dürr — Die neue Physik</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-hans-peter-dürr--die-neue-physik" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Dürr: <em>Es gibt keine Materie — nur Beziehungsstruktur.</em> Thoma zeigt das konkret: 99,5% des Baumes sind Luft und Wasser — die Substanz ist minimal, die <strong>Verbindung</strong> ist alles. Dürrs abstraktes Physikbild und Thoma’s biologisches Naturbild beschreiben dasselbe.</p>
+<h3 id="-erich-fromm--haben-oder-sein">→ <a href="../Denker/Erich-Fromm-Haben-oder-Sein" class="internal alias" data-slug="Denker/Erich-Fromm-Haben-oder-Sein">Erich Fromm — Haben oder Sein</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-erich-fromm--haben-oder-sein" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Fromm: Das Haben-Denken strebt nach Substanz, nach Besitz, nach Sicherheit durch Akkumulation. Der Baum lebt das reine Sein: <strong>Sofort verteilen, nichts halten, Freunde statt Konto.</strong> Die Anlagestrategie des Baumes ist das Gegenteil jeder Wirtschaftsuniversität — und genau das macht ihn stark.</p>
+<h3 id="-hartmut-rosa--resonanz-und-unverfügbarkeit">→ <a href="../Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit" class="internal alias" data-slug="Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit">Hartmut Rosa — Resonanz und Unverfügbarkeit</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-hartmut-rosa--resonanz-und-unverfügbarkeit" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Rosa: Resonanz entsteht, wenn man sich öffnet — man kann sie nicht erzwingen, nur ermöglichen. Thoma: Er saß 24 Stunden unter dem blühenden Kirschbaum und ließ die Welt auf sich einwirken. Das Wissen, das daraus entstand, kam nicht aus Analyse — es kam aus Hingabe und Stille.</p>
+<h3 id="-rainer-mausfeld--warum-schweigen-die-lämmer">→ <a href="../Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer" class="internal alias" data-slug="Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer">Rainer Mausfeld — Warum schweigen die Lämmer</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-rainer-mausfeld--warum-schweigen-die-lämmer" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Mausfeld: Macht braucht Fragmentierung und Abhängigkeit. Dürr: Solarenergie ist dezentral — deshalb politisch unbequem. Thoma: Holzbauen ist dezentral, regional, ohne Konzernlogik. Das Zuckerprinzip — Wissen teilen statt schützen — ist das direkte Gegenteil von Machtkonzentration.</p>
+<h3 id="-andreas-zimpel--neurodiversität">→ <a href="../Denker/Andreas-Zimpel-Neurodiversität" class="internal alias" data-slug="Denker/Andreas-Zimpel-Neurodiversität">Andreas Zimpel — Neurodiversität</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-andreas-zimpel--neurodiversität" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Zimpels Kritik an Schule als Datenspeicher. Thoma’s Großvater: <em>„Lernen kann man nur, was man tut.”</em> Zimpels Bild-Denker lernen durch Anschauung und Tun — nicht durch Lehrplan. Thoma lernte alles was er weiß durch jahrelanges Alleinsein im Wald, durch Beobachten, durch Scheitern.</p>
+<h3 id="-manfred-spitzer--ki-gehirn-und-lernen">→ <a href="../Denker/Manfred-Spitzer-KI,-Gehirn-und-Lernen" class="internal alias" data-slug="Denker/Manfred-Spitzer-KI,-Gehirn-und-Lernen">Manfred Spitzer — KI, Gehirn und Lernen</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-manfred-spitzer--ki-gehirn-und-lernen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Spitzer: <em>„Wenn ein Kind 10 Stunden am Tag am Tablet sitzt…”</em> Thoma: <em>„Unsere Kinder statt in Betonkindergärten in Weidausschicken.”</em> Beide sagen: Der Körper, die echte Natur, das haptische Erleben — das ist die Bedingung für gesundes Wachstum. Digitale Distanz und Beton sind zwei Seiten derselben Entfremdung.</p>
+<hr/>
+<h2 id="weiterführend">Weiterführend<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#weiterführend" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Thoma: <em>Die Geheimsprache der Bäume</em> — das erste Buch, mit dem alles begann</li>
+<li>Thoma: <em>Die grüne Medizin des Waldes</em> — Heilwirkungen des Waldes</li>
+<li>Peter Wohlleben: <em>Das geheime Leben der Bäume</em> — ähnliches Thema, breitere Resonanz</li>
+<li>Suzanne Simard: <em>Finding the Mother Tree</em> — wissenschaftliche Grundlagen der Waldkommunikation</li>
+<li>Thoma-Holz100: Bausystem, Fabrik bei Freiburg — <a href="https://www.thoma.at" class="external" target="_blank">thoma.at<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></li>
+<li><a href="../Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen" class="internal alias" data-slug="Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen">Annette Kehnel — Vom Mittelalter für die Zukunft lernen</a> — Kehnels mittelalterliche Commons-Wirtschaft und der Bodensee als gelebtes Zuckerprinzip: Ressource teilen ohne zu zerstören; Langfristigkeit als Grundprinzip</li>
+<li><a href="../Zeitgeist/ARTE-Mit-offenen-Karten-Die-Sojabohne-als-geopolitische-Waffe" class="internal alias" data-slug="Zeitgeist/ARTE-Mit-offenen-Karten-Die-Sojabohne-als-geopolitische-Waffe">ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe</a> — GMO-Sojamonokultur mit Amazonas-Abholzung ist das industrielle Negativ-Beispiel zu Thomas Naturstrategien: Monokultur verstößt gegen jedes Prinzip der Resilienz.</li>
+<li><a href="../Zeitgeist/ARTE-Woher-bekommen-wir-saubere-Energie-(Gute-Nachrichten-vom-Planeten)" class="internal alias" data-slug="Zeitgeist/ARTE-Woher-bekommen-wir-saubere-Energie-(Gute-Nachrichten-vom-Planeten)">ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)</a> — Der Energiegarten Grensfeen ist praktische Umsetzung von Thoma-Prinzipien: Schafe zwischen Solarpanelen, 34 heimische Pflanzenarten, Synergie statt Monokultur — Energie produzieren <em>und</em> Natur fördern</li>
+<li><a href="../Zeitgeist/Good-News-Positive-Nachrichten-März-2026" class="internal alias" data-slug="Zeitgeist/Good-News-Positive-Nachrichten-März-2026">Good News — Positive Nachrichten März 2026</a> — Amazonian bees als erste Insekten mit Rechten: die politisch-juridische Konsequenz, Natur nicht als Ressource sondern als Akteur zu behandeln — Thoma-Denken im Gesetzgebungsprozess</li>
+<li><a href="../Zeitgeist/Breaking-Lab-CO2-Geothermie-und-Factor-2-Energy" class="internal alias" data-slug="Zeitgeist/Breaking-Lab-CO2-Geothermie-und-Factor-2-Energy">Breaking Lab — CO2-Geothermie und Factor 2 Energy</a> — Der Thermosyphon-Effekt als Naturprinzip: CPG-Geothermie nutzt den natürlichen Dichteunterschied von CO₂ statt gegen physikalische Kräfte zu pumpen — Mit-Natur-Denken in konkreter Ingenieursanwendung</li>
+<li><a href="../Zeitgeist/Good-News-Gute-Nachrichten-April-2026" class="internal alias" data-slug="Zeitgeist/Good-News-Gute-Nachrichten-April-2026">Good News — Gute Nachrichten April 2026</a> — Eisbären in Svalbard: trotz Eisschwund schwerer und gesünder ab 2000 durch Ernährungsanpassung — ein Lehrbuchbeispiel für Thomas These, dass Natur Redundanz und Lernfähigkeit besitzt, die lineare Katastrophenprognosen systematisch unterschätzen.</li>
+<li><a href="../Zeitgeist/Good-News-Gute-Nachrichten-April-2026-Teil-2" class="internal alias" data-slug="Zeitgeist/Good-News-Gute-Nachrichten-April-2026-Teil-2">Good News — Gute Nachrichten April 2026 Teil 2</a> — Floreana-Riesenschildkröte (180 Jahre „ausgestorben”) und das patagonische Tiefsee-Korallenriff (28 neue Arten) illustrieren Thomas Kernthese radikal: Natur hat Redundanzen und Refugien, die unsere linearen Modelle systematisch unterschätzen — was wir als ausgestorben oder leer kartieren, ist oft nur unsichtbar.</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-22" aria-expanded="true"><h3>Inhaltsverzeichnis</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#erwin-thoma--strategien-der-natur" data-for="erwin-thoma--strategien-der-natur">Erwin Thoma — Strategien der Natur</a></li><li class="depth-1"><a href="#1-bäume-sind-luft--der-größte-irrtum-des-biologieunterrichts" data-for="1-bäume-sind-luft--der-größte-irrtum-des-biologieunterrichts">1. Bäume sind Luft — der größte Irrtum des Biologieunterrichts</a></li><li class="depth-2"><a href="#chlorophyll--das-erste-grüne-molekül" data-for="chlorophyll--das-erste-grüne-molekül">Chlorophyll — das erste grüne Molekül</a></li><li class="depth-1"><a href="#2-das-wurzelwerk--mikroorganismen-als-händler" data-for="2-das-wurzelwerk--mikroorganismen-als-händler">2. Das Wurzelwerk — Mikroorganismen als Händler</a></li><li class="depth-2"><a href="#das-pilznetzwerk--internet-des-waldes" data-for="das-pilznetzwerk--internet-des-waldes">Das Pilznetzwerk — Internet des Waldes</a></li><li class="depth-1"><a href="#3-zucker--die-währung-des-waldes" data-for="3-zucker--die-währung-des-waldes">3. Zucker — die Währung des Waldes</a></li><li class="depth-2"><a href="#die-anlagestrategie-des-baumes" data-for="die-anlagestrategie-des-baumes">Die Anlagestrategie des Baumes</a></li><li class="depth-1"><a href="#4-das-ziel-des-baumes--nicht-wachstum-sondern-dienst" data-for="4-das-ziel-des-baumes--nicht-wachstum-sondern-dienst">4. Das Ziel des Baumes — nicht Wachstum, sondern Dienst</a></li><li class="depth-1"><a href="#5-kommunikation--duftmoleküle-statt-schallwellen" data-for="5-kommunikation--duftmoleküle-statt-schallwellen">5. Kommunikation — Duftmoleküle statt Schallwellen</a></li><li class="depth-2"><a href="#kollektives-handeln-bei-wassermangel" data-for="kollektives-handeln-bei-wassermangel">Kollektives Handeln bei Wassermangel</a></li><li class="depth-1"><a href="#6-der-borkenkäfer--ökologisches-gleichgewicht" data-for="6-der-borkenkäfer--ökologisches-gleichgewicht">6. Der Borkenkäfer — ökologisches Gleichgewicht</a></li><li class="depth-1"><a href="#7-der-kirschbaum--die-kunst-der-verschwendung" data-for="7-der-kirschbaum--die-kunst-der-verschwendung">7. Der Kirschbaum — die Kunst der Verschwendung</a></li><li class="depth-1"><a href="#8-mondholz--was-die-wissenschaft-nicht-erklären-kann" data-for="8-mondholz--was-die-wissenschaft-nicht-erklären-kann">8. Mondholz — was die Wissenschaft nicht erklären kann</a></li><li class="depth-1"><a href="#9-das-holzhaus--natur-als-ingenieur" data-for="9-das-holzhaus--natur-als-ingenieur">9. Das Holzhaus — Natur als Ingenieur</a></li><li class="depth-2"><a href="#statik" data-for="statik">Statik</a></li><li class="depth-2"><a href="#brand" data-for="brand">Brand</a></li><li class="depth-2"><a href="#heizen-und-kühlen--der-ameisenhaufen" data-for="heizen-und-kühlen--der-ameisenhaufen">Heizen und Kühlen — der Ameisenhaufen</a></li><li class="depth-1"><a href="#10-städte-als-co2-speicher--die-größte-chance" data-for="10-städte-als-co2-speicher--die-größte-chance">10. Städte als CO2-Speicher — die größte Chance</a></li><li class="depth-1"><a href="#11-das-zuckerprinzip-als-lebensphilosophie" data-for="11-das-zuckerprinzip-als-lebensphilosophie">11. Das Zuckerprinzip als Lebensphilosophie</a></li><li class="depth-2"><a href="#kein-kompromiss" data-for="kein-kompromiss">Kein Kompromiss</a></li><li class="depth-1"><a href="#12-die-erde-ist-kein-ort-des-mangels" data-for="12-die-erde-ist-kein-ort-des-mangels">12. Die Erde ist kein Ort des Mangels</a></li><li class="depth-1"><a href="#verbindungen-in-der-gedankenwelt" data-for="verbindungen-in-der-gedankenwelt">Verbindungen in der Gedankenwelt</a></li><li class="depth-2"><a href="#-hans-peter-dürr--die-neue-physik" data-for="-hans-peter-dürr--die-neue-physik">→ Hans-Peter Dürr — Die neue Physik</a></li><li class="depth-2"><a href="#-erich-fromm--haben-oder-sein" data-for="-erich-fromm--haben-oder-sein">→ Erich Fromm — Haben oder Sein</a></li><li class="depth-2"><a href="#-hartmut-rosa--resonanz-und-unverfügbarkeit" data-for="-hartmut-rosa--resonanz-und-unverfügbarkeit">→ Hartmut Rosa — Resonanz und Unverfügbarkeit</a></li><li class="depth-2"><a href="#-rainer-mausfeld--warum-schweigen-die-lämmer" data-for="-rainer-mausfeld--warum-schweigen-die-lämmer">→ Rainer Mausfeld — Warum schweigen die Lämmer</a></li><li class="depth-2"><a href="#-andreas-zimpel--neurodiversität" data-for="-andreas-zimpel--neurodiversität">→ Andreas Zimpel — Neurodiversität</a></li><li class="depth-2"><a href="#-manfred-spitzer--ki-gehirn-und-lernen" data-for="-manfred-spitzer--ki-gehirn-und-lernen">→ Manfred Spitzer — KI, Gehirn und Lernen</a></li><li class="depth-1"><a href="#weiterführend" data-for="weiterführend">Weiterführend</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="../Denker/Manfred-Spitzer-Hirnforscher-Feldbach" class="internal">Manfred Spitzer — Hirnforscher Feldbach</a></li><li><a href="../Denker/Neue-Akropolis-Der-Mensch-ist-besser-als-sein-Ruf" class="internal">Neue Akropolis — Der Mensch ist besser als sein Ruf</a></li><li><a href="../GoodNews/Good-News-Gute-Nachrichten-April-2026-Teil-2" class="internal">Good News — Gute Nachrichten April 2026 (Teil 2)</a></li><li><a href="../GoodNews/Good-News-Gute-Nachrichten-April-2026-Teil-3" class="internal">Good News — Gute Nachrichten April 2026 (Teil 2)</a></li><li><a href="../GoodNews/Good-News-Gute-Nachrichten-April-2026" class="internal">Good News — Gute Nachrichten April 2026</a></li><li><a href="../GoodNews/Good-News-Gute-Nachrichten-April-2027" class="internal">Good News — Gute Nachrichten April 2026</a></li><li><a href="../GoodNews/Good-News-Positive-Nachrichten-März-2026" class="internal">Good News — Positive Nachrichten März 2026</a></li><li><a href="../GoodNews/Good-News-Positive-Nachrichten-März-2027" class="internal">Good News — Positive Nachrichten März 2026</a></li><li><a href="../Quellen-and-Links" class="internal">Quellen &amp; Links</a></li><li><a href="../Zeitgeist/ARTE-Mit-offenen-Karten-Die-Sojabohne-als-geopolitische-Waffe" class="internal">ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe</a></li><li><a href="../Zeitgeist/ARTE-Woher-bekommen-wir-saubere-Energie-(Gute-Nachrichten-vom-Planeten)" class="internal">ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)</a></li><li><a href="../Zeitgeist/Annette-Kehnel-Vom-Mittelalter-für-die-Zukunft-lernen" class="internal">Annette Kehnel — Vom Mittelalter für die Zukunft lernen</a></li><li><a href="../Zeitgeist/Breaking-Lab-CO2-Geothermie-und-Factor-2-Energy" class="internal">Breaking Lab — CO₂-Geothermie und Factor 2 Energy</a></li><li class="overflow-end"></li></ul></div></div><footer class><div class="footer-logo"><img src="/static/gedankenwelten-logo.svg" alt="Gedankenwelten"/></div><p>Erstellt mit <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="/Impressum">Impressum</a></li><li><a href="/graph">Graph</a></li><li><a href="https://github.com/gedankenwelten/gedankenwelten">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

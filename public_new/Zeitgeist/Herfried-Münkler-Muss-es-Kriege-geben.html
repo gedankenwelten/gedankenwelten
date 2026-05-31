@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr"><head><title>Herfried Münkler — Muss es Kriege geben? · Gedankenwelten</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Inter:ital,wght@0,400;0,600;1,400;1,600&amp;family=JetBrains Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Gedankenwelten"/><meta property="og:title" content="Herfried Münkler — Muss es Kriege geben? · Gedankenwelten"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Herfried Münkler — Muss es Kriege geben? · Gedankenwelten"/><meta name="twitter:description" content="Herfried Münkler — Muss es Kriege geben? Quelle: Muss es Kriege geben, Herfried Münkler? — Podcast “Nur eine Frage” (DIE ZEIT) Wer spricht? Herfried Münkler — Politikwissenschaftler, emeritierter Professor der Humboldt-Universität Berlin."/><meta property="og:description" content="Herfried Münkler — Muss es Kriege geben? Quelle: Muss es Kriege geben, Herfried Münkler? — Podcast “Nur eine Frage” (DIE ZEIT) Wer spricht? Herfried Münkler — Politikwissenschaftler, emeritierter Professor der Humboldt-Universität Berlin."/><meta property="og:image:alt" content="Herfried Münkler — Muss es Kriege geben? Quelle: Muss es Kriege geben, Herfried Münkler? — Podcast “Nur eine Frage” (DIE ZEIT) Wer spricht? Herfried Münkler — Politikwissenschaftler, emeritierter Professor der Humboldt-Universität Berlin."/><meta property="twitter:domain" content="gedankenwelten.org"/><meta property="og:url" content="https://gedankenwelten.org/Zeitgeist/Herfried-Münkler-Muss-es-Kriege-geben"/><meta property="twitter:url" content="https://gedankenwelten.org/Zeitgeist/Herfried-Münkler-Muss-es-Kriege-geben"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Herfried Münkler — Muss es Kriege geben? Quelle: Muss es Kriege geben, Herfried Münkler? — Podcast “Nur eine Frage” (DIE ZEIT) Wer spricht? Herfried Münkler — Politikwissenschaftler, emeritierter Professor der Humboldt-Universität Berlin."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvbHVjL3NlcnZpY2VzL2dlZGFua2Vud2VsdGVuL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://gedankenwelten.org/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://gedankenwelten.org/Zeitgeist/Herfried-Münkler-Muss-es-Kriege-geben-og-image.webp"/><meta property="og:image:url" content="https://gedankenwelten.org/Zeitgeist/Herfried-Münkler-Muss-es-Kriege-geben-og-image.webp"/><meta name="twitter:image" content="https://gedankenwelten.org/Zeitgeist/Herfried-Münkler-Muss-es-Kriege-geben-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Zeitgeist/Herfried-Münkler-Muss-es-Kriege-geben"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Gedankenwelten</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Suche</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Suche nach etwas" placeholder="Suche nach etwas"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dunkler Modus"><title>Dunkler Modus</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Heller Modus"><title>Heller Modus</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Lesemodus"><title>Lesemodus</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>{if(a.isFolder&amp;&amp;!b.isFolder)return-1;if(!a.isFolder&amp;&amp;b.isFolder)return 1;let aDate=a.data?.date?new Date(a.data.date).getTime():0,bDate=b.data?.date?new Date(b.data.date).getTime():0;return aDate!==bDate?bDate-aDate:a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;})}&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-688"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-688" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Zeitgeist/">Zeitgeist</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Herfried Münkler — Muss es Kriege geben?</a></div></nav><h1 class="article-title">Herfried Münkler — Muss es Kriege geben?</h1><p show-comma="true" class="content-meta"><time datetime="2026-03-26T23:00:00.000Z">27. März 2026</time><span>11 Min. Lesezeit</span></p><ul class="tags"><li><a href="../tags/zeitgeist" class="internal tag-link">zeitgeist</a></li><li><a href="../tags/krieg" class="internal tag-link">krieg</a></li><li><a href="../tags/politik" class="internal tag-link">politik</a></li><li><a href="../tags/geopolitik" class="internal tag-link">geopolitik</a></li><li><a href="../tags/machiavelli" class="internal tag-link">machiavelli</a></li><li><a href="../tags/frieden" class="internal tag-link">frieden</a></li><li><a href="../tags/sicherheit" class="internal tag-link">sicherheit</a></li><li><a href="../tags/ukraine" class="internal tag-link">ukraine</a></li><li><a href="../tags/nuklear" class="internal tag-link">nuklear</a></li><li><a href="../tags/postheroisch" class="internal tag-link">postheroisch</a></li><li><a href="../tags/philosophie" class="internal tag-link">philosophie</a></li><li><a href="../tags/year-2026" class="internal tag-link">year-2026</a></li></ul></div></div><article class="popover-hint"><h1 id="herfried-münkler--muss-es-kriege-geben">Herfried Münkler — Muss es Kriege geben?<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#herfried-münkler--muss-es-kriege-geben" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Quelle: <a href="https://www.youtube.com/watch?v=8mUq5dH47Y0" class="external" target="_blank">Muss es Kriege geben, Herfried Münkler?<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Podcast “Nur eine Frage” (DIE ZEIT)</p>
+<blockquote class="callout info" data-callout="info">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Wer spricht? </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p><strong>Herfried Münkler</strong> — Politikwissenschaftler, emeritierter Professor der Humboldt-Universität Berlin. Der einflussreichste lebende deutsche Politologe (laut DIE ZEIT). Autor von über 30 Büchern, darunter Standardwerke über Machiavelli, Imperien, den Dreißigjährigen Krieg, hybride Kriege und die neue Weltordnung. Hat Bundeskanzler beraten. War lange Zeit eine Gegenstimme zur Naivität der Friedensdividende-Epoche.</p>
+<p>Interviewer: Journalist des ZEIT-Podcasts “Nur eine Frage”.</p>
+</div>
+</blockquote>
+<blockquote class="callout quote" data-callout="quote">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Kernsatz </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p><em>„Muss ist ein schwieriges Wort. Normativ: Nein, soll es nicht geben. Als Sozialwissenschaftler: Angesichts der Strukturen der Ordnung und dem Fehlen eines Hüters des Friedens kann die Antwort eigentlich nur Ja lauten.”</em></p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="was-ist-krieg--die-definition">Was ist Krieg? — Die Definition<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#was-ist-krieg--die-definition" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=8mUq5dH47Y0&amp;t=833" class="external" target="_blank">▶ 13:53<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Münkler beginnt mit Begriffspräzision — für ihn zentral:</p>
+<p><strong>Thomas Hobbes</strong> unterschied zwischen:</p>
+<ul>
+<li><em>Latenz des Krieges</em> — das ständige Eingestelltsein auf die Möglichkeit von Krieg (wie Regen in England: es regnet nicht immer, aber man trägt einen Schirm)</li>
+<li><em>Manifester Krieg</em> — das tatsächliche Aufeinandertreffen konfligierender Parteien</li>
+</ul>
+<p>Dazwischen steht der Satz des römischen Militärschriftstellers Vegetius:</p>
+<blockquote>
+<p><strong>Si vis pacem, para bellum</strong> — Wenn du Frieden willst, bereite dich auf den Krieg vor.</p>
+</blockquote>
+<p><strong>Clausewitz</strong>: Der Krieg beginnt nicht mit dem Angriff, sondern mit der <em>Verteidigung</em>. Der Angreifer zieht gerne unter Friedensbekundungen ein — der Verteidigte aber kämpft zum absoluten Zweck. Daraus folgt: Hätten die Ukrainer im Februar 2022 keinen Widerstand geleistet, hätte es den Krieg im technischen Sinn nicht gegeben. Nicht <em>Krieg</em> wäre es dann gewesen — sondern Unterwerfung.</p>
+<blockquote>
+<p>Putin hat diesen Clausewitz-Gedanken offenbar verstanden: Im Tucker-Carlson-Interview sagte er, hätten die Polen 1939 klug gewesen, hätten sie Hitler den Korridor überlassen — der Zweite Weltkrieg hätte nicht stattgefunden.</p>
+</blockquote>
+<hr/>
+<h2 id="ursprünge-des-krieges--sesshaftigkeit-biologie-ressentiment">Ursprünge des Krieges — Sesshaftigkeit, Biologie, Ressentiment<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ursprünge-des-krieges--sesshaftigkeit-biologie-ressentiment" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="die-neolithische-revolution">Die neolithische Revolution<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#die-neolithische-revolution" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Die Unterscheidung Krieg/Frieden entstand mit Ackerbau und Sesshaftigkeit (~7000–8000 v. Chr.). Nomaden kannten den Frieden nicht als Kategorie — sie wichen aus. Sesshafte Ackerbaukulturen mussten ihre Vorräte <em>verteidigen</em> und entwickelten so die Präferenz für Frieden als dauerhaften Zustand. Gleichzeitig machte der Besitz sie zur Beute.</p>
+<p>Belege: Archäologische Knochen- und Gräberanalysen (z.B. die erste bekannte europäische Feldschlacht an der Tollense in Mecklenburg-Vorpommern, ~5.000 Teilnehmer).</p>
+<h3 id="frauenraub-als-kriegsursache">Frauenraub als Kriegsursache<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#frauenraub-als-kriegsursache" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><a href="https://www.youtube.com/watch?v=8mUq5dH47Y0&amp;t=2813" class="external" target="_blank">▶ 46:53<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Ein biologisch-historisches Motiv: Die deutlich höhere Sterblichkeit von Frauen im Kindbett führte strukturell dazu, dass Frauen das “knappe Gut” waren. Ergebnis: Gruppen notorisch sexuell frustrierter Männer — mit dem Krieg als Lizenz zum Zugriff auf Frauen eroberter Städte.</p>
+<p>Münkler zieht die Linie von der Ilias (Helena, Agamemnon–Achill-Streit) bis zum Nibelungenlied. Heute: Massenvergewaltigungen durch russische Soldaten in der Ukraine — UNO-dokumentiert — dienen zusätzlich der Einschüchterung der Bevölkerung.</p>
+<h3 id="frieden-als-ursache-des-krieges">Frieden als Ursache des Krieges<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#frieden-als-ursache-des-krieges" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Die bemerkenswerteste These: <strong>Bestimmte Friedenszeiten erzeugen Krieg.</strong></p>
+<ul>
+<li><strong>Tolstoi</strong> (<em>Krieg und Frieden</em>): Im Krieg entsteht Friedenssehnsucht. Im Frieden — bei den Bällen, in der Gesellschaft — entstehen Enttäuschungen junger Männer, die nicht ankommen. Krieg wird zur Flucht aus dem frustrierenden Frieden.</li>
+<li><strong>Die Thukydides-Falle</strong> (Graham Allison, Bezug auf Thukydides zum Peloponnesischen Krieg): <em>„Der wahrste Grund des Krieges war, dass die Spartaner fürchteten, dass die Athener im Frieden noch mächtiger werden.”</em> — Eine Gewichtsverschiebung zwischen Mächten führt zur Logik des Präventivkriegs: <em>Wir müssen jetzt handeln, sonst haben wir die Auseinandersetzung ohne Krieg verloren.</em></li>
+</ul>
+<blockquote>
+<p>Der Fall der Sowjetunion zeigt: Die Thukydides-Falle ist keine Naturgewalt. Gorbatschow wählte <em>nicht</em> den Präventivkrieg, obwohl die Sowjets das Wettrüsten verloren. Kriege sind Entscheidungen — keine Zwangsläufigkeiten.</p>
+</blockquote>
+<p>Aber: Österreich-Ungarn 1914 ist das Gegenbeispiel. Franz Josef kam zu dem Schluss, nur durch Krieg lasse sich die Donaumonarchie noch zusammenhalten. <strong>Endzeitstimmung</strong> ist kriegsfördernd.</p>
+<hr/>
+<h2 id="neue-kriege--das-30-jährige-krieg-modell">Neue Kriege — Das 30-jährige-Krieg-Modell<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#neue-kriege--das-30-jährige-krieg-modell" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Das klassische Kriegsbild (reguläre Armeen, Kriegserklärung, Friedensvertrag, Schutz der Zivilbevölkerung) gilt für viele heutige Konflikte nicht mehr. Münkler unterscheidet:</p>
+<p><strong>Regulierte Kriege</strong> (19. Jh., klassische Staatenkriege):</p>
+<ul>
+<li>Entscheidungsschlacht auf freiem Feld</li>
+<li>Danach Friedensverhandlungen</li>
+<li>Mehr Opfer durch Krankheit (Seuchen, Unterernährung) als durch direkten Kampf</li>
+<li>Mit Penicillin, Sanitätswesen: Erstmals mehr Tode durch kinetische Gewalt als durch Krankheit</li>
+</ul>
+<p><strong>Neue Kriege</strong> (Ränder der Wohlstandszonen, Sahelzone, Mittelamerika):</p>
+<ul>
+<li>Bürgerkriegscharakter</li>
+<li>Zivilbevölkerung als Hauptopfer — und als Ressource</li>
+<li>Bereicherungskriege: Söldner, Beute, Vergewaltigung als Methode</li>
+<li>Besser beschrieben durch das <strong>Modell des 30-Jährigen Krieges</strong> als durch das Bild regulierter Staatskriege</li>
+</ul>
+<blockquote>
+<p>Der 30-Jährige Krieg tötete ein Drittel der Bevölkerung Deutschlands — aber die Mehrheit der Opfer starb nicht auf dem Schlachtfeld, sondern an den Folgewirkungen.</p>
+</blockquote>
+<hr/>
+<h2 id="postheroische-gesellschaft--münklers-eigenbegriff">Postheroische Gesellschaft — Münklers Eigenbegriff<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#postheroische-gesellschaft--münklers-eigenbegriff" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=8mUq5dH47Y0&amp;t=4011" class="external" target="_blank">▶ 66:51<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Münkler hat den Begriff <em>postheroische Gesellschaft</em> geprägt. Zwei Merkmale:</p>
+<ol>
+<li><strong>Demographisches Loch</strong> — zu wenige junge Männer, um Kriege zu bevölkern</li>
+<li><strong>Religiöse Erkaltung</strong> — Religion als Bewirtschafter des Opfergedankens ist verschwunden. Postheroische Gesellschaften denken in <em>Tausch</em>, nicht <em>Opfer</em></li>
+</ol>
+<p>Kontrast: <strong>Heroische Gesellschaften</strong> haben Geburtenüberschuss <em>und</em> religiöse Intensität — z.B. der Gazastreifen.</p>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Paradox des Dealmakers </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Ironisch: Trump — der Dealmaker par excellence (Tausch-Denker) — hat das Verteidigungsministerium in <em>Kriegsministerium</em> umbenannt. Das ist symbolisch inkohärent mit postheroischer Logik.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="nuklearzeitalter-und-die-gescheiterte-nonproliferation">Nuklearzeitalter und die gescheiterte Nonproliferation<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#nuklearzeitalter-und-die-gescheiterte-nonproliferation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=8mUq5dH47Y0&amp;t=4468" class="external" target="_blank">▶ 74:28<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Die Nuklearwaffe sollte das <em>Ende aller Kriege</em> sein — wechselseitige nukleare Geiselnahme als Kriegsverhinderer. Das funktioniert nicht mehr zuverlässig:</p>
+<ul>
+<li>Das <strong>Budapest-Memorandum</strong> (1994): Ukraine gab ihre sowjetischen Atomwaffen ab. USA, Großbritannien und Russland garantierten die Unverletzlichkeit der ukrainischen Grenzen. Russland brach die Garantie 2014 und 2022.</li>
+<li>Folge: Alle Staaten weltweit überlegen, wie sie Atomwaffen bekommen. Nonproliferation als Logik ist unterlaufen.</li>
+<li>Münklers Position: Deutschland braucht keine eigenen Atomwaffen, aber <strong>europäische</strong> Atomwaffen — glaubwürdig und gemeinsam. Der amerikanische Nuklearschirm unter Trump ist zu löchrig.</li>
+</ul>
+<hr/>
+<h2 id="faktencheck">Faktencheck<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#faktencheck" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Bestätigt — Thukydides-Falle </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Graham Allisons Konzept ist in <em>Destined for War</em> (2017) ausgearbeitet. Der Bezug auf Thukydides’ Beschreibung des Peloponnesischen Krieges ist belegt.</p>
+</div>
+</blockquote>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Bestätigt — Tollense-Schlachtfeld </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Die Tollenseschlacht (~1200 v. Chr., Mecklenburg-Vorpommern) gilt tatsächlich als die früheste archäologisch nachgewiesene Feldschlacht in Europa mit mehreren tausend Beteiligten.</p>
+</div>
+</blockquote>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Bestätigt — Budapest-Memorandum und sein Scheitern </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Das Memorandum von 1994 ist historisch belegt. Die russische Verletzung 2014/2022 ist eine Tatsache. Die Nonproliferationsfolgen sind Gegenstand breiter sicherheitspolitischer Debatte.</p>
+</div>
+</blockquote>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Bestätigt — UNO-Dokumentation russischer Vergewaltigungen in der Ukraine </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Die UN Monitoring Mission on Human Rights in Ukraine hat Vergewaltigungen als Kriegsverbrechen dokumentiert.</p>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Vereinfacht — Frieden als Ursache des Krieges </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Die Tolstoi/Thukydides-These ist ein wichtiges analytisches Werkzeug, aber keine Gesetzmäßigkeit. Münkler selbst illustriert die Kontingenz: Gorbatschow hat die Thukydides-Falle bewusst <em>nicht</em> bedient. Es ist eine Tendenz, keine Zwangsläufigkeit.</p>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Vereinfacht — postheroische Gesellschaft </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Der Begriff ist analytisch fruchtbar, aber als Dichotomie vereinfachend. Gaza als “heroische Gesellschaft” zu bezeichnen überblendet die Tatsache, dass Geburtenrate und Religiosität durch Kolonisierung, Vertreibung und Belagerung geformt wurden — und nicht primär durch eine kulturelle Disposition.</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="die-machiavelli-verbindung-zu-kemper">Die Machiavelli-Verbindung (zu Kemper)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#die-machiavelli-verbindung-zu-kemper" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote class="callout abstract" data-callout="abstract">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Münkler und Machiavelli — ein intellektuelles Fundament </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Herfried Münkler ist <em>der</em> führende deutsche Machiavelli-Experte. Sein 1982 erschienenes Werk <em>Machiavelli: Die Begründung des politischen Denkens der Neuzeit aus der Krise der Republik</em> ist das deutschsprachige Standardwerk. Münklers gesamte Kriegsanalyse fußt auf machiavellianischen Kategorien — auch wenn im Interview der Name nicht fällt.</p>
+</div>
+</blockquote>
+<p><strong>Wo Münkler und Kemper denselben Machiavelli lesen — aber anders:</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Konzept bei Machiavelli</th><th>Kemper liest es so</th><th>Münkler liest es so</th></tr></thead><tbody><tr><td><strong>Virtu</strong> (männliche Machtenergie)</td><td>Psychopathologie: Identifikation mit dem Aggressor; Quelle faschistischer Männlichkeit</td><td>Politische Realität: Gesellschaften brauchen eine Bereitschaft zum Kampf — <em>postheroische</em> Gesellschaften verlieren diese Virtu und werden verwundbar</td></tr><tr><td><strong>Si vis pacem, para bellum</strong></td><td>Aufrüstungslogik, die Faschismus ermöglicht</td><td>Unvermeidliche Realität staatlicher Selbstbehauptung — Vegetius vor Machiavelli, aber dieselbe Logik</td></tr><tr><td><strong>Fortuna</strong> (Schicksalsgöttin, das Unberechenbare)</td><td>Faschismus reproduziert sich durch Gewalt — die Virtu schafft ihre eigene Scheinwelt</td><td>Emergente Dynamik: Kriege entstehen oft ohne dass sie jemand wollte — aus Missverständnissen, Spiralen, Zufällen</td></tr><tr><td><strong>Der Fürst als Uomo Virtuoso</strong></td><td>Der Führer-Kult als Faschismus-Kern</td><td>Einzelpersonen (Putin) können trotz aller Strukturen Krieg erzwingen — Agentschaft bleibt relevant</td></tr><tr><td><strong>Frieden verweichlicht</strong></td><td>— (Kemper thematisiert das nicht)</td><td>Frieden als Ursache des Krieges: Frustration, Thukydides-Falle, Verlust des Opfergedankens</td></tr></tbody></table></div>
+<p><strong>Kernspannung</strong>: Kemper <em>kritisiert</em> Machiavelli als Ursprung faschistischer Gewaltideologie (Virtu → Il Principe → Mussolini → Faschismus). Münkler <em>denkt mit</em> Machiavelli als realistischem Politiktheoretiker, der die Strukturbedingungen von Macht und Krieg beschreibt.</p>
+<p>Beide haben recht — auf verschiedenen Ebenen:</p>
+<ul>
+<li>Kemper fragt: <em>Was macht Machiavelli mit den Menschen, die ihn lesen?</em></li>
+<li>Münkler fragt: <em>Was beschreibt Machiavelli über die Welt, wie sie ist?</em></li>
+</ul>
+<hr/>
+<h2 id="verbindungen">Verbindungen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#verbindungen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><strong>Kempers Machiavelli-Kritik:</strong> <a href="../Gedankenwelten/Zeitgeist/Andreas-Kemper-Faschismen-im-21.-Jahrhundert" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Andreas-Kemper-Faschismen-im-21.-Jahrhundert">Andreas Kemper — Faschismen im 21. Jahrhundert</a> — Kemper liest Machiavelli als Pathologie: Identifikation mit dem Aggressor, Virtu als Quelle faschistischer Männlichkeit. Münkler liefert das Gegenstück: Machiavelli als Realismus-Fundament und Beschreibung struktureller Kriegsdynamik. Die Note oben enthält eine detaillierte Vergleichstabelle beider Zugänge.</p>
+<p><strong>Kempers Interview (Technofaschismus):</strong> <a href="../Zeitgeist/Andreas-Kemper-Technofaschismus-und-die-AfD" class="internal alias" data-slug="Zeitgeist/Andreas-Kemper-Technofaschismus-und-die-AfD">Andreas Kemper — Technofaschismus und die AfD</a> — Beide sehen strukturelle Ursachen von Rechtsruck: Kemper ökonomisch (Finanzkrise, Postfordismus), Münkler machtpolitisch (Ressentiment, heroische vs. postheroische Gesellschaft).</p>
+<p><strong>Philosophin über neuen Faschismus:</strong> <a href="../Zeitgeist/Eva-von-Redecker-Über-den-neuen-Faschismus-(Jung-and-Naiv-811)" class="internal alias" data-slug="Zeitgeist/Eva-von-Redecker-Über-den-neuen-Faschismus-(Jung-and-Naiv-811)">Eva von Redecker — Über den neuen Faschismus (Jung &amp; Naiv 811)</a> — Redeckers “Phantombesitz” erklärt die Verlustangst, die Münklers Ressentiment-Begriff auffüllt. Beide beschreiben dieselbe psychosoziale Energie, die politische Gewalt antreibt — aus verschiedenen Richtungen.</p>
+<p><strong>Autoritarismus und Wahlen:</strong> <a href="../Zeitgeist/Philip-Manow-Autoritäre-Zeiten:-Die-Macht-der-Wähler" class="internal alias" data-slug="Zeitgeist/Philip-Manow-Autoritäre-Zeiten:-Die-Macht-der-Wähler">Philip Manow — Autoritäre Zeiten: Die Macht der Wähler</a> — Manow ist skeptischer bezüglich Faschismus-Begriffen, betont die Wahlentscheidung. Münkler beschreibt strukturelle Zwangsläufigkeiten (Thukydides-Falle, demographische Faktoren), die Einzelentscheidungen rahmen.</p>
+<p><strong>NS-Geschichte:</strong> <a href="../Denker/Götz-Aly-Wie-konnte-das-geschehen" class="internal alias" data-slug="Denker/Götz-Aly-Wie-konnte-das-geschehen">Götz Aly — Wie konnte das geschehen</a> — Alys Frage, wie normale Menschen Kriegsverbrechen mittrugen, findet in Münklers Krieg-Frieden-Analyse eine strukturelle Antwort: Das System des Krieges macht Normalität unmöglich.</p>
+<p><strong>Iran-Krieg und Völkerrecht:</strong> <a href="../Zeitgeist/MONITOR-Irankrieg-und-das-Ende-des-Völkerrechts" class="internal alias" data-slug="Zeitgeist/MONITOR-Irankrieg-und-das-Ende-des-Völkerrechts">MONITOR — Irankrieg und das Ende des Völkerrechts</a> — Münklers These, dass Kriege entstehen, wenn kein “Hüter der friedlichen Ordnung” existiert, findet im Iran-Krieg direkte Bestätigung. Die UNO als “Geschichte des Versagens”.</p>
+<p><strong>Macht und Propaganda:</strong> <a href="../Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer" class="internal alias" data-slug="Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer">Rainer Mausfeld — Warum schweigen die Lämmer</a> — Münkler: Bevölkerungen können durch Ressentiment-Bewirtschaftung in Kriege geführt werden. Mausfeld zeigt, wie das medial strukturiert wird.</p>
+<p><strong>KI-Kontrolle und Militarisierung:</strong> <a href="../Gedankenwelten/Zeitgeist/Adam-Tooze-Pentagon-vs.-Anthropic" class="internal alias" data-slug="Gedankenwelten/Zeitgeist/Adam-Tooze-Pentagon-vs.-Anthropic">Adam Tooze — Pentagon vs. Anthropic</a> — Münklers Begriff des „Kriegsministeriums” (Trump benennt das DoD symbolisch um) und sein Paradox des Dealmakers finden im Tooze-Fall Fleisch: Das Kriegsministerium unter Hegseth erzwingt die militärische Nutzung von KI — autonome Kampfroboter, Massenüberwachung. Münkler beschreibt die Logik, Tooze den konkreten Konflikt.</p>
+<p><strong>Iran-Krieg-Realität (NATO verweigert):</strong> <a href="../Zeitgeist/Koshi-Politik/Koshi-Politik-Iran-Krieg:-NATO-verweigert,-Trump-steckt-fest" class="internal alias" data-slug="Zeitgeist/Koshi-Politik/Koshi-Politik-Iran-Krieg:-NATO-verweigert,-Trump-steckt-fest">Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest</a> — Münklers These, dass Kriege an Siegesbedingungen und Exit-Strategien gemessen werden müssen, findet hier konkrete Antworten: NATO verweigert, kein Endzustand definiert, drei nicht-gewinnbare Optionen. Der fehlende „Hüter der friedlichen Ordnung” ist nicht nur die UNO — es ist NATO, das sich verweigert.</p>
+<p><strong>Sudan/El Fashir — Ressource und Völkermord:</strong> <a href="../Zeitgeist/Konstantin-Flemig-Sudan-Massaker-el-Fashir-und-die-VAE" class="internal alias" data-slug="Zeitgeist/Konstantin-Flemig-Sudan-Massaker-el-Fashir-und-die-VAE">Konstantin Flemig — Sudan Massaker el Fashir und die VAE</a> — El Fashir zeigt, wie die RSF Münklers Logik des perpetuierten Krieges instrumentalisiert: ein Konflikt, der nicht enden soll, weil er Goldminen und Machtstrukturen konserviert — die VAE als externer Akteur, der an dieser Perpetuierung verdient.</p>
+<p><strong>Wer treibt den Krieg?:</strong> <a href="../Zeitgeist/Koshi-Politik/Koshi-Politik-Die-drei-Musketiere:-Miller,-Hegseth-und-Trump" class="internal alias" data-slug="Zeitgeist/Koshi-Politik/Koshi-Politik-Die-drei-Musketiere:-Miller,-Hegseth-und-Trump">Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump</a> — Münkler: Einzelpersonen können trotz aller Strukturen Krieg erzwingen. Hier: Miller, Hegseth und Trump als konkretes Trio, das den Krieg gegen alle internen Warnungen durchsetzte. Hegseths Inkompetenz und Millers ideologische Triebfeder sind die menschliche Ebene von Münklers Strukturanalyse.</p>
+<p><strong>Strategische Sackgasse:</strong> <a href="../Zeitgeist/Nico-Lange-Hat-Trump-die-Kontrolle-über-den-Iran-Krieg-verloren" class="internal alias" data-slug="Zeitgeist/Nico-Lange-Hat-Trump-die-Kontrolle-über-den-Iran-Krieg-verloren">Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren</a> — Lange zeigt, wie der Ordnungshüter USA (Trump) selbst zum Unkalkulierbaren wird — und andere Akteure (Russland, Iran) das gezielt ausnutzen. Münklers Strukturanalyse findet hier ihren konkreten Ausdruck.</p>
+<h3 id="-sternstunde-philosophie--der-iran-krieg-und-die-geopolitik-der-gegenwart">→ <a href="../Zeitgeist/Sternstunde-Philosophie-Der-Iran-Krieg-und-die-Geopolitik-der-Gegenwart" class="internal alias" data-slug="Zeitgeist/Sternstunde-Philosophie-Der-Iran-Krieg-und-die-Geopolitik-der-Gegenwart">Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-sternstunde-philosophie--der-iran-krieg-und-die-geopolitik-der-gegenwart" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Sirus Schyek (Historiker, Genf) und Kamran Safiarian (ZDF-Journalist) — beide mit iranischen Wurzeln — analysieren denselben Konflikt aus persönlicher und historischer Perspektive: das ethisch-moralische Dilemma (böses Regime vs. Völkerrechtsbruch), die Sicherheitsdilemma-Spirale seit 2003, humanitäre Lage und Szenarien.</p>
+<ul>
+<li>
+<p><a href="../Zeitgeist/Diba-Mirzaei-Irankrieg-and-Geschichte-(Jung-and-Naiv-815)" class="internal alias" data-slug="Zeitgeist/Diba-Mirzaei-Irankrieg-and-Geschichte-(Jung-and-Naiv-815)">Diba Mirzaei — Irankrieg &amp; Geschichte (Jung &amp; Naiv 815)</a> — Iran-Forscherin mit historischer Tiefe; Perspektive auf Revolutionsgeschichte, IRGC, Golfstaaten-Dilemma und westliche Doppelstandards</p>
+</li>
+<li>
+<p><a href="../Zeitgeist/Konstantin-Flemig-Ukraine-Gebietsgewinne-2026" class="internal alias" data-slug="Zeitgeist/Konstantin-Flemig-Ukraine-Gebietsgewinne-2026">Konstantin Flemig — Ukraine Gebietsgewinne 2026</a> — Flemig zeigt Münklers Strukturanalyse in Echtzeit: Putin führt den Krieg weiter, um innenpolitischer Realität auszuweichen — Krieg als Mittel zur Machtsicherung, nicht zur territorialen Logik</p>
+</li>
+<li>
+<p><a href="../Zeitgeist/PhoenixRunde-Trumps-Iran-Krieg:-Chaos-oder-Strategie" class="internal alias" data-slug="Zeitgeist/PhoenixRunde-Trumps-Iran-Krieg:-Chaos-oder-Strategie">PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?</a> — Münklers These (USA wissen was sie im Krieg wollen, nicht was sie mit dem Krieg wollen) wird hier von Jäger nahezu wörtlich bestätigt. Bodentruppen-Debatte, Exit-Strategie-Dilemma und die Frage des Regimewechsels illustrieren Münklers Strukturanalyse am konkreten Fall.</p>
+</li>
+<li>
+<p><a href="../Zeitgeist/Christof-Johnen-Sudan-Humanitaere-Lage-und-DRK-Einsatz" class="internal alias" data-slug="Zeitgeist/Christof-Johnen-Sudan-Humanitaere-Lage-und-DRK-Einsatz">Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz</a> — Johnen bestätigt Münklers Grundthese aus der humanitären Praxis: Drei Jahre DRK-Hilfe, 1,5 Milliarden Spenden, 22 getötete Rotkreuz-Mitarbeitende — und kein Ende in Sicht, weil Kriege nicht durch Leid enden, sondern durch politische Erschöpfung oder Machtverschiebungen</p>
+</li>
+<li>
+<p><a href="../Zeitgeist/Helen-Keller-Voelkerrecht-zahnloser-Tiger" class="internal alias" data-slug="Zeitgeist/Helen-Keller-Voelkerrecht-zahnloser-Tiger">Helen Keller — Voelkerrecht zahnloser Tiger</a> — Keller ergänzt Münklers Strukturanalyse um die Rechtsdimension: Die dezentrale Völkerrechtsordnung (Eigeninteresse der Staaten) ist das normative Pendant zu Münklers Realismus — und Kellers Iran-Analyse bestätigt Münklers Exit-Strategie-Dilemma.</p>
+</li>
+<li>
+<p><a href="../Zeitgeist/Gerdes-Ukraine-Zelensky-wird-staerker" class="internal alias" data-slug="Zeitgeist/Gerdes-Ukraine-Zelensky-wird-staerker">Gerdes — Ukraine Zelensky wird staerker</a> — Gerdes zeigt Münklers Kriegstypologie als Update: KI-Kriegsführung (Budanow), Wissenstransfer zwischen Armeen (Ukraine → Bundeswehr), hybride Diplomatie-Kriegs-Verschränkung — der Ukraine-Krieg 2026 ist der „neue Krieg”, den Münkler antizipiert</p>
+</li>
+<li>
+<p><a href="../Zeitgeist/Bundestalk-Iran-USA-und-die-Strasse-von-Hormus" class="internal alias" data-slug="Zeitgeist/Bundestalk-Iran-USA-und-die-Strasse-von-Hormus">Bundestalk — Iran USA und die Strasse von Hormus</a> — Anwendungsfall für postheroische Kriegsführung: Iran, Gaza, Libanon — konventionelle Militärmacht scheitert durchgehend an asymmetrischen Gegnern</p>
+</li>
+<li>
+<p><a href="../Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt" class="internal alias" data-slug="Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt">Torsten Heinrich — Was die Tagesschau verschweigt</a> — Heinrichs Trichter-Argument (nordeuropäische Tiefebene → Moskau muss strategische Tiefe gewinnen) ist Münklers Strukturanalyse als konkreter geographischer Anwendungsfall; beide trennen sauber zwischen moralischer Bewertung und geopolitischer Logik</p>
+</li>
+<li>
+<p><a href="../Zeitgeist/Markus-Reisner-Strasse-von-Hormus-fragil" class="internal alias" data-slug="Zeitgeist/Markus-Reisner-Strasse-von-Hormus-fragil">Markus Reisner — Strasse von Hormus fragil</a> — Reisners Afghanistan-Vergleich und Hormus-Patt als empirische Illustration der postheroischen Kriegsführungsthese</p>
+</li>
+<li>
+<p><a href="../Zeitgeist/StreitClub-Europa-allein-zu-Haus" class="internal alias" data-slug="Zeitgeist/StreitClub-Europa-allein-zu-Haus">StreitClub — Europa allein zu Haus</a> — EU-Verteidigungsautonomie als praktische Anwendung von Münklers geopolitischem Realismus</p>
+</li>
+</ul>
+<h3 id="-torsten-heinrich--ukraine-bewusst-geopfert">→ <a href="../Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert" class="internal alias" data-slug="Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert">Torsten Heinrich — Ukraine bewusst geopfert</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-torsten-heinrich--ukraine-bewusst-geopfert" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Heinrich formuliert Münklers Strukturanalyse als konkrete Diagnose: „Eskalationsmanagement ist keine Strategie” — das ist Münklers fehlender Ordnungshüter in der Praxis. Die USA hätten die Entscheidung erzwingen können, wollten aber nicht. Das Ergebnis — ein Krieg im „mittleren Niveau”, der niemandes Ziel war — ist genau der perpetuierte Konflikt, den Münkler theoretisch beschreibt.</p>
+<h3 id="-martin-sonneborn--endloser-krieg">→ <a href="../Zeitgeist/Martin-Sonneborn-Endloser-Krieg" class="internal alias" data-slug="Zeitgeist/Martin-Sonneborn-Endloser-Krieg">Martin Sonneborn — Endloser Krieg</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-martin-sonneborn--endloser-krieg" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Sonneborns These des „endlosen Krieges” als Geschäftsmodell nutzt intuitiv Münklers Konzept des perpetuierten Konflikts — aber ohne die entscheidende Ergänzung: Münkler fragt, was passiert, wenn dem Aggressor <em>nicht</em> entgegengetreten wird. Sonneborn fordert Frieden, ohne Friedensbedingungen zu benennen.</p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-333" aria-expanded="true"><h3>Inhaltsverzeichnis</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#herfried-münkler--muss-es-kriege-geben" data-for="herfried-münkler--muss-es-kriege-geben">Herfried Münkler — Muss es Kriege geben?</a></li><li class="depth-1"><a href="#was-ist-krieg--die-definition" data-for="was-ist-krieg--die-definition">Was ist Krieg? — Die Definition</a></li><li class="depth-1"><a href="#ursprünge-des-krieges--sesshaftigkeit-biologie-ressentiment" data-for="ursprünge-des-krieges--sesshaftigkeit-biologie-ressentiment">Ursprünge des Krieges — Sesshaftigkeit, Biologie, Ressentiment</a></li><li class="depth-2"><a href="#die-neolithische-revolution" data-for="die-neolithische-revolution">Die neolithische Revolution</a></li><li class="depth-2"><a href="#frauenraub-als-kriegsursache" data-for="frauenraub-als-kriegsursache">Frauenraub als Kriegsursache</a></li><li class="depth-2"><a href="#frieden-als-ursache-des-krieges" data-for="frieden-als-ursache-des-krieges">Frieden als Ursache des Krieges</a></li><li class="depth-1"><a href="#neue-kriege--das-30-jährige-krieg-modell" data-for="neue-kriege--das-30-jährige-krieg-modell">Neue Kriege — Das 30-jährige-Krieg-Modell</a></li><li class="depth-1"><a href="#postheroische-gesellschaft--münklers-eigenbegriff" data-for="postheroische-gesellschaft--münklers-eigenbegriff">Postheroische Gesellschaft — Münklers Eigenbegriff</a></li><li class="depth-1"><a href="#nuklearzeitalter-und-die-gescheiterte-nonproliferation" data-for="nuklearzeitalter-und-die-gescheiterte-nonproliferation">Nuklearzeitalter und die gescheiterte Nonproliferation</a></li><li class="depth-1"><a href="#faktencheck" data-for="faktencheck">Faktencheck</a></li><li class="depth-1"><a href="#die-machiavelli-verbindung-zu-kemper" data-for="die-machiavelli-verbindung-zu-kemper">Die Machiavelli-Verbindung (zu Kemper)</a></li><li class="depth-1"><a href="#verbindungen" data-for="verbindungen">Verbindungen</a></li><li class="depth-2"><a href="#-sternstunde-philosophie--der-iran-krieg-und-die-geopolitik-der-gegenwart" data-for="-sternstunde-philosophie--der-iran-krieg-und-die-geopolitik-der-gegenwart">→ Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart</a></li><li class="depth-2"><a href="#-torsten-heinrich--ukraine-bewusst-geopfert" data-for="-torsten-heinrich--ukraine-bewusst-geopfert">→ Torsten Heinrich — Ukraine bewusst geopfert</a></li><li class="depth-2"><a href="#-martin-sonneborn--endloser-krieg" data-for="-martin-sonneborn--endloser-krieg">→ Martin Sonneborn — Endloser Krieg</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="../Quellen-and-Links" class="internal">Quellen &amp; Links</a></li><li><a href="../Zeitgeist/Adam-Tooze-Pentagon-vs.-Anthropic" class="internal">Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle</a></li><li><a href="../Zeitgeist/Andreas-Kemper-Faschismen-im-21.-Jahrhundert" class="internal">Andreas Kemper — Faschismen im 21. Jahrhundert</a></li><li><a href="../Zeitgeist/Bundestalk-Iran-USA-und-die-Strasse-von-Hormus" class="internal">Bundestalk — Iran, USA und die Straße von Hormus</a></li><li><a href="../Zeitgeist/Christof-Johnen-Sudan-Humanitaere-Lage-und-DRK-Einsatz" class="internal">Sudan: Humanitäre Lage und DRK-Einsatz — Christof Johnen (phoenix)</a></li><li><a href="../Zeitgeist/Diba-Mirzaei-Irankrieg-and-Geschichte-(Jung-and-Naiv-815)" class="internal">Diba Mirzaei — Irankrieg &amp; Geschichte (Jung &amp; Naiv 815)</a></li><li><a href="../Zeitgeist/Gerdes-Ukraine-Zelensky-wird-staerker" class="internal">Gerdes — Ukraine: Zelensky wird stärker</a></li><li><a href="../Zeitgeist/Helen-Keller-Voelkerrecht-zahnloser-Tiger" class="internal">Helen Keller — Völkerrecht: Ein zahnloser Tiger?</a></li><li><a href="../Zeitgeist/Konstantin-Flemig-Deutschland-als-Ruestungs-Grossmacht" class="internal">Konstantin Flemig — Deutschland als Rüstungs-Großmacht</a></li><li><a href="../Zeitgeist/Konstantin-Flemig-Sudan-Massaker-el-Fashir-und-die-VAE" class="internal">Sudan: Das Massaker von El Fashir und die Rolle der VAE</a></li><li><a href="../Zeitgeist/Konstantin-Flemig-US-Seeblockade-gegen-Iran" class="internal">Konstantin Flemig — US-Seeblockade gegen Iran</a></li><li><a href="../Zeitgeist/Konstantin-Flemig-Ukraine-Gebietsgewinne-2026" class="internal">Konstantin Flemig — Ukraine Gebietsgewinne 2026</a></li><li><a href="../Zeitgeist/Koschi-Politik-Trump-GAGA-auf-FOX-und-Hormuz-Blockade-(15.04.2026)" class="internal">Koschi Politik — Trump GAGA auf FOX und Hormuz-Blockade (15.04.2026)</a></li><li><a href="../Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt" class="internal">Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedrängt</a></li><li><a href="../Zeitgeist/MONITOR-Irankrieg-und-das-Ende-des-Völkerrechts" class="internal">MONITOR — Irankrieg und das Ende des Völkerrechts?</a></li><li><a href="../Zeitgeist/Markus-Reisner-Strasse-von-Hormus-fragil" class="internal">Markus Reisner — Lage an der Straße von Hormus ist fragil</a></li><li><a href="../Zeitgeist/Martin-Sonneborn-Endloser-Krieg" class="internal">Martin Sonneborn — Endloser Krieg</a></li><li><a href="../Zeitgeist/Nico-Lange-Hat-Trump-die-Kontrolle-über-den-Iran-Krieg-verloren" class="internal">Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren?</a></li><li><a href="../Zeitgeist/PhoenixRunde-Trumps-Iran-Krieg:-Chaos-oder-Strategie" class="internal">PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?</a></li><li><a href="../Zeitgeist/Staiy-News:-NATO-Drohung,-No-Kings-Proteste-and-Iran-Bodenoffensive-(29.03.2026)" class="internal">Staiy — News: NATO-Drohung, No-Kings-Proteste &amp; Iran-Bodenoffensive (29.03.2026)</a></li><li><a href="../Zeitgeist/Sternstunde-Philosophie-Der-Iran-Krieg-und-die-Geopolitik-der-Gegenwart" class="internal">Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart</a></li><li><a href="../Zeitgeist/StreitClub-Europa-allein-zu-Haus" class="internal">StreitClub #17 — Europa allein zu Haus</a></li><li><a href="../Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert" class="internal">Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?</a></li><li><a href="../Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt" class="internal">Torsten Heinrich — Was dir die Tagesschau verschweigt</a></li><li class="overflow-end"></li></ul></div></div><footer class><div class="footer-logo"><img src="/static/gedankenwelten-logo.svg" alt="Gedankenwelten"/></div><p>Erstellt mit <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="/Impressum">Impressum</a></li><li><a href="/graph">Graph</a></li><li><a href="https://github.com/gedankenwelten/gedankenwelten">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>

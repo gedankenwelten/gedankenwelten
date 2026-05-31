@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr"><head><title>Giulia Enders — Körper als Verbündeter · Gedankenwelten</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Inter:ital,wght@0,400;0,600;1,400;1,600&amp;family=JetBrains Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Gedankenwelten"/><meta property="og:title" content="Giulia Enders — Körper als Verbündeter · Gedankenwelten"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Giulia Enders — Körper als Verbündeter · Gedankenwelten"/><meta name="twitter:description" content="Giulia Enders — Körper als Verbündeter Quelle: Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders Wer spricht? Dr."/><meta property="og:description" content="Giulia Enders — Körper als Verbündeter Quelle: Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders Wer spricht? Dr."/><meta property="og:image:alt" content="Giulia Enders — Körper als Verbündeter Quelle: Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders Wer spricht? Dr."/><meta property="twitter:domain" content="gedankenwelten.org"/><meta property="og:url" content="https://gedankenwelten.org/Zeitgeist/Giulia-Enders-Koerper-als-Verbuendeter"/><meta property="twitter:url" content="https://gedankenwelten.org/Zeitgeist/Giulia-Enders-Koerper-als-Verbuendeter"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Giulia Enders — Körper als Verbündeter Quelle: Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders Wer spricht? Dr."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvbHVjL3NlcnZpY2VzL2dlZGFua2Vud2VsdGVuL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://gedankenwelten.org/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://gedankenwelten.org/Zeitgeist/Giulia-Enders-Koerper-als-Verbuendeter-og-image.webp"/><meta property="og:image:url" content="https://gedankenwelten.org/Zeitgeist/Giulia-Enders-Koerper-als-Verbuendeter-og-image.webp"/><meta name="twitter:image" content="https://gedankenwelten.org/Zeitgeist/Giulia-Enders-Koerper-als-Verbuendeter-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Zeitgeist/Giulia-Enders-Koerper-als-Verbuendeter"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Gedankenwelten</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Suche</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Suche nach etwas" placeholder="Suche nach etwas"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dunkler Modus"><title>Dunkler Modus</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Heller Modus"><title>Heller Modus</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Lesemodus"><title>Lesemodus</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>{if(a.isFolder&amp;&amp;!b.isFolder)return-1;if(!a.isFolder&amp;&amp;b.isFolder)return 1;let aDate=a.data?.date?new Date(a.data.date).getTime():0,bDate=b.data?.date?new Date(b.data.date).getTime():0;return aDate!==bDate?bDate-aDate:a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;})}&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-663"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-663" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Zeitgeist/">Zeitgeist</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Giulia Enders — Körper als Verbündeter</a></div></nav><h1 class="article-title">Giulia Enders — Körper als Verbündeter</h1><p show-comma="true" class="content-meta"><time datetime="2024-12-31T23:00:00.000Z">01. Jan. 2025</time><span>11 Min. Lesezeit</span></p><ul class="tags"><li><a href="../tags/zeitgeist" class="internal tag-link">zeitgeist</a></li><li><a href="../tags/gespräch" class="internal tag-link">gespräch</a></li><li><a href="../tags/year-2025" class="internal tag-link">year-2025</a></li><li><a href="../tags/psychologie" class="internal tag-link">psychologie</a></li><li><a href="../tags/achtsamkeit" class="internal tag-link">achtsamkeit</a></li><li><a href="../tags/gesundheit" class="internal tag-link">gesundheit</a></li><li><a href="../tags/embodiment" class="internal tag-link">embodiment</a></li></ul></div></div><article class="popover-hint"><h1 id="giulia-enders--körper-als-verbündeter">Giulia Enders — Körper als Verbündeter<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#giulia-enders--körper-als-verbündeter" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Quelle: <a href="https://www.youtube.com/watch?v=s6asGzLT1c8" class="external" target="_blank">Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<blockquote class="callout info" data-callout="info">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Wer spricht? </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p><strong>Dr. Giulia Enders</strong> (*1986, Deutschland) — promovierte Ärztin, Wissenschaftskommunikatorin und Bestsellerautorin. 2012 gewann sie dreimal den Science Slam mit ihrem Vortrag über den Darm; 2014 erschien <em>Darm mit Charme</em> (8 Millionen Exemplare weltweit, 40 Sprachen). Ihr zweites Buch <em>Organisch</em> erschien 2025. Enders forscht an der Schnittstelle von Gastroenterologie, Neurobiologie und Körperpsychologie — und kommuniziert Wissenschaft so, dass sie wieder fühlbar wird.</p>
+<p>→ <a href="../Gedankenwelten/DenkerVita/Giulia-Enders" class="internal alias" data-slug="Gedankenwelten/DenkerVita/Giulia-Enders">DenkerVita</a></p>
+</div>
+</blockquote>
+<p>Hotel Matze ist ein Gesprächsformat auf Augenhöhe — Matze Hielscher trifft Menschen zu langen, persönlichen Unterhaltungen. Diese Folge gehört zu einer Januar-Miniserie über Achtsamkeit, Gesundheit und Finanzen.</p>
+<hr/>
+<h2 id="kognition-und-gefühl--die-falsche-hierarchie">Kognition und Gefühl — Die falsche Hierarchie<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kognition-und-gefühl--die-falsche-hierarchie" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=s6asGzLT1c8&amp;t=182" class="external" target="_blank">▶ 3:02<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Die westliche Kultur hat eine hartnäckige Fehleinschätzung verinnerlicht: Verstand und Ratio stehen oben, Körper und Gefühl stehen unten. Giulia Enders dreht diese Hierarchie neurobiologisch um — und das mit konkreten Zahlen.</p>
+<p>In emotionalen Hirnbereichen sind einzelne Nervenzellen mit bis zu <strong>10.000 anderen verknüpft</strong>. Im präfrontalen Kortex, dem Sitz des bewussten Denkens, sind es 3.000 oder weniger. Die emotionalen Regionen des Gehirns sind älter, energiereicher, verschaltungsmächtiger. Sie verarbeiten in Bruchteilen von Sekunden, was das Bewusstsein nicht einmal formulieren kann.</p>
+<blockquote>
+<p><em>„Es ist viel aufwendiger, einen Ball zu werfen, als eine Schachweltmeisterschaft zu gewinnen. Das ist aufwendiger — viel aufwendiger.”</em></p>
+</blockquote>
+<p>Das Beispiel ist brillant: Computer spielen heute makellos Schach, aber kein Roboter spielt smooth Basketball. Nicht weil Ingenieuren die Intelligenz fehlte, sondern weil die Simulation von Schwerkraft, Bewegung, Wind, Mitspielerverhalten in Echtzeit neurologisch um Größenordnungen komplexer ist als lineare Rechenoperationen.</p>
+<p>Enders zieht daraus eine praktische Konsequenz: Der bewusste Verstand ist keine Chefetage, sondern ein Consulting-Büro — gut für neue Situationen und logische Abgleiche, aber nicht befugt, dem Rest des Systems zu befehlen.</p>
+<blockquote>
+<p><em>„Dieses bewusste Rumdenki-Denki muss ich bisschen mal ab und zu zurücknehmen und nicht denken, es könnte ja hier allen sagen, wie was läuft.”</em></p>
+</blockquote>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Weitergedacht </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Wenn Gefühle die ältere, mächtigere Architektur sind — <em>warum hat die westliche Moderne so hartnäckig das Gegenteil geglaubt?</em> Welche sozialen und ökonomischen Interessen stecken hinter der Aufwertung des kognitiven und der Abwertung des Körperlichen?</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="emotionale-intelligenz-als-trainierbare-fertigkeit">Emotionale Intelligenz als trainierbare Fertigkeit<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#emotionale-intelligenz-als-trainierbare-fertigkeit" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=s6asGzLT1c8&amp;t=590" class="external" target="_blank">▶ 9:50<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Wir gehen 12 Jahre in die Schule und trainieren fast ausschließlich kognitive Intelligenz. Emotionale Intelligenz wird kaum geübt — obwohl Studien konsistent zeigen, dass sie einen <em>größeren messbaren Effekt</em> auf Lebensqualität, Gesundheit und Beziehungen hat als kognitive Intelligenz.</p>
+<p>Das erste Hindernis: viele Menschen können ihre Gefühle nicht präzise benennen. Der Unterschied zwischen Wut, Frustration und Angst-geleiteter Abwehraggressivität klingt akademisch, hat aber konkrete Konsequenzen im Umgang mit sich selbst.</p>
+<p>Enders schlägt ein einfaches Sortiermodell vor: Zuerst Energieniveau (viel/wenig), dann Valenz (angenehm/unangenehm). Aus dieser 2×2-Matrix lassen sich bereits viele Emotionen einordnen — von wachsam/konzentriert bis erschöpft/traurig. Apps mit Emotionstaxonomien können helfen, die eigene emotionale Landkarte zu verfeinern.</p>
+<p><a href="https://www.youtube.com/watch?v=s6asGzLT1c8&amp;t=1184" class="external" target="_blank">▶ 19:44<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Das eigentliche Ziel: einen Spalt zwischen Situation und Reaktion öffnen. Nicht Unterdrückung, sondern Verstehen. Wut ist dann nicht mehr eine fehlgeleitete Emotion, sondern Energie, die bereit gestellt wird, um für etwas einzustehen, das wichtig ist.</p>
+<blockquote>
+<p><em>„Als ich das verstanden habe, dann wird Wut plötzlich nicht mal eine doofe, zu viel Emotion… sondern dann sage ich so: ‘Oh, wow. Krass. Also danke schön erstmal. Mir wird Energie bereitgestellt.‘”</em></p>
+</blockquote>
+<p>Diese Haltung gegenüber den eigenen Emotionen — Neugier statt Verurteilung — ist für Enders der Marker, ob jemand anfängt, mit seinem Körper intelligenter umzugehen. Nicht Selbstkontrolle, sondern Selbstgespräch.</p>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Weitergedacht </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Wenn emotionale Intelligenz trainierbar ist — <em>welche gesellschaftlichen Strukturen verhindern systematisch ihre Kultivierung?</em> Schule? Arbeitsmarkt? Das Modell des rational-autonomen Individuums?</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="der-körper-als-verbündeter--symptome-lesen-statt-bekämpfen">Der Körper als Verbündeter — Symptome lesen statt bekämpfen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#der-körper-als-verbündeter--symptome-lesen-statt-bekämpfen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=s6asGzLT1c8&amp;t=2277" class="external" target="_blank">▶ 37:57<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Enders erzählt von einer Patientin mit chronisch entzündlicher Darmerkrankung, die nach einer schweren EHEC-Infektion entstand. Das Immunsystem hatte beim ersten Mal einen gefährlichen Angriff erlebt — und blieb danach in Daueralarmbereitschaft.</p>
+<p>Anstatt dies als “Körper kämpft gegen sich selbst” zu framen, formulierte Enders es um: Die Immunzellen wollen übermäßig beschützen. Sie haben etwas Traumatisches erlebt und sind jetzt zu vorsichtig — wie überbehütende Eltern. Das ist kein böser Körper, das ist ein Missverständnis im System.</p>
+<blockquote>
+<p><em>„Das ist nicht der Körper, der sich jetzt angreift… die Immunzellen sind jetzt nicht böse oder auf Krawallkurs oder so gemeint zu einem selbst, sondern eigentlich wollen die übermäßig beschützen.”</em></p>
+</blockquote>
+<p>Diese Umdeutung ist nicht nur emotional wirksam — sie hat Konsequenzen für die Compliance: Wer Medikamente als “Zurückschlagen gegen den bösen Körper” versteht, nimmt sie anders als jemand, der sie als “Einladung zur Beruhigung” versteht. Zwei Modi, die bei einer lebenslangen Erkrankung einen realen Unterschied machen.</p>
+<p>Das Prinzip gilt universeller: Erkältungssymptome macht nicht der Erreger — er würde unerkannt bleiben wollen. Schnupfen und Halsschmerzen sind das Immunsystem bei der Arbeit. Juckreiz nachts ist das Immunsystem, das endlich ungestört Zellnachschub liefern kann. Wer das weiß, kann <em>verhandeln</em> — Nasenspray ja, aber mit Verständnis statt Feindschaft.</p>
+<p><a href="https://www.youtube.com/watch?v=s6asGzLT1c8&amp;t=5514" class="external" target="_blank">▶ 91:54<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Sicherheit, so Enders, wird im Körper anders definiert als in der Öffentlichkeit: nicht als Abwehr alles Schlechten, sondern als Selbstkenntnis, Neugier, Kooperation. Auch mit Bakterien, die auf uns leben, lässt sich zusammenarbeiten — das Immunsystem weiß das.</p>
+<hr/>
+<h2 id="das-belohnungssystem--dopaminfalle-und-wie-man-sie-versteht">Das Belohnungssystem — Dopaminfalle und wie man sie versteht<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#das-belohnungssystem--dopaminfalle-und-wie-man-sie-versteht" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=s6asGzLT1c8&amp;t=4372" class="external" target="_blank">▶ 72:52<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Hier wird Enders besonders präzise. Das Belohnungssystem besteht nicht aus einem einzigen Zelltyp, sondern aus mehreren, die unterschiedlich reagieren.</p>
+<p><strong>Die Lockzellen (dopaminerg):</strong> Ursprünglich dafür da, durch unbekannte Landschaften voranzutreiben — noch ein Schritt, vielleicht gibt’s dahinter etwas Essbares. Heute werden genau diese Zellen von der Nahrungsmittelindustrie und Social-Media-Firmen mit chirurgischer Präzision angesprochen. Der Scroll-Feed imitiert das Erkunden eines fremden Territoriums: noch ein Post, noch einer. Die Zellen schütten weiter Lockreize aus, aber nie das Zufriedenheitssignal.</p>
+<p><strong>Die “Genug-Zellen” (endogen-opioid, serotonerg):</strong> Diese springen an, wenn etwas dem Körper wirklich gut getan hat. Nach einer Wanderung sagt niemand: “Nochmal zwei Stunden!” — aber nach dem nächsten Instagram-Post sofort schon. Chips triggern diese Zellen kaum; dunkle Schokolade und getrocknete Sauerkirschen schon eher.</p>
+<blockquote>
+<p><em>„Zellen können stumpfer werden, wenn die immer wieder Dopin auswuppen müssen… warum wir nach einer Weile immer krassere Videos brauchen, damit es noch lustig ist.”</em></p>
+</blockquote>
+<p>Der physiologische Mechanismus: Überstimulierte dopaminerge Zellen erhöhen ihre Reizschwelle, um sich selbst zu schützen — wie Hornhaut auf der Haut. Reizarmut dagegen macht sie empfindlicher. Wer Langeweile zulässt, erlaubt diesen Zellen, sich zu erholen — und plötzlich wird ein Apfel, ein Lächeln, ein schöner Himmel wieder wirklich belohnend.</p>
+<blockquote>
+<p><em>„Wenn ich immer mehr von etwas will, ist es nicht das, was ich brauche.”</em></p>
+</blockquote>
+<p>Dieser Satz — er gilt für Süßigkeiten, Social Media, toxische Beziehungen. Was wirklich Bedürfnisse erfüllt, erzeugt das Gegenteil: Zufriedenheit, die das “Mehr-Mehr-Mehr” beendet.</p>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Weitergedacht </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Wenn die Dopaminfalle ein gesellschaftliches Problem ist — <em>wäre es dann Regulierungsversagen, dass Social-Media-Algorithmen gezielt auf suchterzeugende Mechanismen optimiert werden dürfen?</em> Oder liegt die Verantwortung beim Individuum?</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="schlaf-als-machtübergabe">Schlaf als Machtübergabe<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#schlaf-als-machtübergabe" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=s6asGzLT1c8&amp;t=5832" class="external" target="_blank">▶ 97:12<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Enders nennt Schlaf “eine Machtübergabe” — und diese Formulierung ist nicht metaphorisch gemeint, sondern neurobiologisch präzise.</p>
+<p>Tagsüber sind die jüngeren, evolutionär späteren Hirnbereiche (präfrontaler Kortex, rationales Denken, Selbstkontrolle) die Hauptakteure. Beim Einschlafen übergeben sie schrittweise die Kontrolle an ältere Hirnregionen: autonome Regulation von Blutdruck, Herzschlag, Atmung, Immunaktivierung. Tief im Schlaf geschieht noch eine weitere Übergabe — auch diese Regionen treten zurück, und der REM-Schlaf (in der zweiten Nachthälfte) erlaubt dem präfrontalen Kortex eine Art Mini-Meditation: völlige Abschaltung, kein Denken.</p>
+<p>Fehlt dieser REM-Schlaf, ist die Emotionsregulation am nächsten Tag messbar schlechter. Wer kennt nicht das Phänomen: Wut vom Vortag schläft nicht mit ein — und ist morgens noch da, als wäre sie frisch. Das ist kein Charakter-Versagen, sondern Schlafarchitektur.</p>
+<blockquote>
+<p><em>„Es zeigt uns eigentlich, dass im Gehirn nicht einfach ein Gehirn da oben sitzt und über alles befiehlt, sondern erstens verschiedenste Nervenzellen miteinander klarkommen.”</em></p>
+</blockquote>
+<p><a href="https://www.youtube.com/watch?v=s6asGzLT1c8&amp;t=6288" class="external" target="_blank">▶ 104:48<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Praktisch: Nachts auf die Uhr zu schauen aktiviert sofort wieder das Denkhirn. Die Zahlen werden übersetzt, bewertet, kommentiert — und schon ist die Machtübergabe unterbrochen. Stattdessen: dem Körper klare Signale geben, wann Nacht ist (Licht, Rhythmus, spätes Essen vermeiden) und Sicherheitsgefühl kultivieren — denn der Körper bleibt wachsam, wenn er sich allein und ungeschützt fühlt.</p>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Weitergedacht </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Schlaf als <em>Loslassen</em> von Kontrolle — <em>was sagt das über unsere kulturelle Schwierigkeit mit Kontrollverlust?</em> Schlafstörungen als Symptom einer Gesellschaft, die Kontrolle fetischisiert?</p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="fühlbares-wissen--das-kommunikationsprojekt">Fühlbares Wissen — Das Kommunikationsprojekt<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#fühlbares-wissen--das-kommunikationsprojekt" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=s6asGzLT1c8&amp;t=1592" class="external" target="_blank">▶ 26:32<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Enders benennt ihr eigentliches Projekt: In einer Welt, in der fast nichts mehr direkt spürbar ist (Lebensmittelherkunft, Klimawandel, Lieferketten), ist reines Faktenwissen nicht mehr ausreichend. Wir brauchen <em>fühlbares Wissen</em> — Wissenschaft, die dem Körper erklärt wird, nicht dem Kopf.</p>
+<p>Das Klima-Beispiel ist eindringlich: Beide Seiten im Klimastreit könnten sich vielleicht einigen auf “Zu viel Schmutz einatmen finde ich auch nicht Käse.” Und von da — konkret, körperlich, messbar — lässt sich eine Brücke bauen. Keine abstrakte CO₂-Debatte, sondern: Was macht diese Luft mit dieser Lunge?</p>
+<blockquote>
+<p><em>„Wenn ich was wirklich verantwortungsvoll, tief genug gut verstanden habe und ich kann es Leuten so erklären, dass sie es wieder fühlen… dann biete ich hier wirklich was an.”</em></p>
+</blockquote>
+<p>Enders’ Oma war ihr frühes Vorbild: intellektuell hochgebildet, aber kommunizierend in Neugier und Leichtigkeit, nie in Imponiergehabe. Die Mutter: dokumentarische Ernsthaftigkeit, das Richtige sagen auch wenn es unbequem ist. Beides vereint sich in ihrer Herangehensweise.</p>
+<hr/>
+<h2 id="erfolg-glück-und-das-außen">Erfolg, Glück und das Außen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#erfolg-glück-und-das-außen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><a href="https://www.youtube.com/watch?v=s6asGzLT1c8&amp;t=3775" class="external" target="_blank">▶ 62:55<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Eine bemerkenswert ehrliche Passage: Nach dem weltweiten Erfolg von <em>Darm mit Charme</em> saß Enders bei einem Dinner mit Berühmten und bemerkte: sie war zu etwa 30 % glücklich. Nicht 100 %.</p>
+<p>Das Belohnungssystem liefert die Erklärung: Berühmtsein war ein Ziel, das von außen aufgelegt wurde, ohne konkretes Bild, ohne selbst gesetztes Kriterium. Die Zellen, die “genug, danke” sagen, springen dabei weniger an als bei einer Zwiebel, die man monatelang gehegt hat und die endlich die gewünschten Eigenschaften erfüllt.</p>
+<blockquote>
+<p><em>„Weil ich mein Außenleben da zwar irgendwie bestens gestaltet habe, aber was ist hier so? Was passiert in mir statt?”</em></p>
+</blockquote>
+<p>Das Innen entscheidet mehr als das Außen — aber das lässt sich nicht aus zweiter Hand lernen. Es braucht die eigene Erfahrung, und Enders sieht das ohne Zynismus: Es ist kein Scheitern des Wissens, sondern sein Limit.</p>
+<hr/>
+<h2 id="weiterführende-quellen">Weiterführende Quellen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#weiterführende-quellen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><em>Aus der Video-Beschreibung:</em></p>
+<ul>
+<li><a href="https://bit.ly/4qHMWPV" class="external" target="_blank">Giulia Enders: <em>Darm mit Charme</em><svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Ullstein</li>
+<li><a href="https://bit.ly/4aosZqH" class="external" target="_blank">Giulia Enders: <em>Organisch</em><svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Ullstein, 2025</li>
+<li><a href="https://spoti.fi/3U3ZySC" class="external" target="_blank">Hotel Matze — Spotify<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> — Gesprächs-Podcast von Matze Hielscher</li>
+</ul>
+<hr/>
+<h2 id="faktencheck">Faktencheck<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#faktencheck" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Bestätigt — Emotionale Intelligenz und Lebensqualität </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Enders behauptet, Studien zeigen messbare Effekte emotionaler Intelligenz auf Lebensqualität, Gesundheit und Beziehungen, größer als kognitive Intelligenz. Meta-Analysen (u.a. Mayer, Salovey, Caruso 2008; Joseph &amp; Newman 2010) bestätigen dies im Wesentlichen. Quelle: <a href="https://onlinelibrary.wiley.com/doi/10.1002/job.742" class="external" target="_blank">Journal of Organizational Behavior, EI meta-analysis<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Bestätigt — Dopaminzellen und Gewöhnung (Sensitivierung/Desensitivierung) </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Die beschriebene Abschwächung der Belohnungsreaktion bei Überreizung entspricht dem neurobiologischen Konzept der dopaminergen Desensitivierung und ist gut belegt. Quelle: <a href="https://www.nature.com/articles/nrn2919" class="external" target="_blank">Robison &amp; Nestler, Nature Reviews Neuroscience 2011<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout success" data-callout="success">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Bestätigt — Schnupfen ist Immunreaktion, nicht Erreger direkt </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Das stimmt: Rhinoviren verursachen Schnupfen indirekt — die Symptome entstehen durch die Immunantwort (Gefäßerweiterung, Schleimsekret). Quelle: <a href="https://www.niaid.nih.gov/diseases-conditions/common-cold" class="external" target="_blank">Common Cold — NIH<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Vereinfacht — REM-Schlaf und präfrontaler Kortex </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Enders beschreibt REM-Schlaf als “Mini-Meditation des präfrontalen Kortex”. Das ist populärwissenschaftlich vereinfacht — neuere Forschung zeigt, dass der präfrontale Kortex im REM-Schlaf tatsächlich weniger aktiv ist als im Wachzustand, aber die Mechanismen sind komplexer als die Metapher suggeriert. Quelle: <a href="https://www.sleepdiplomat.com/" class="external" target="_blank">Walker, <em>Why We Sleep</em> 2017; <em>(vereinfachend)</em><svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+</div>
+</blockquote>
+<blockquote class="callout warning" data-callout="warning">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Vereinfacht — Körperwert in Billionen Euro </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>Enders berechnet im Gespräch, ein Mensch wäre beim Nachbau “wertvoller als die zehn größten Firmen weltweit”. Die ursprüngliche Kalkulationsgrundlage (Auge: 3 Mio. € Nachbaukosten) ist eine Schätzung, keine wissenschaftlich verifizierbarer Wert. Die Metapher funktioniert kommunikativ, aber die konkrete Zahl sollte nicht als Faktum zitiert werden. <em>(Keine unabhängige Quelle für den exakten Wert gefunden)</em></p>
+</div>
+</blockquote>
+<hr/>
+<h2 id="verbindungen">Verbindungen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#verbindungen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="-adriaan-van-wagensveld--fuer-dich-sorgen-heisst-fuer-andere-sorgen">→ <a href="../Zeitgeist/Adriaan-van-Wagensveld-Fuer-dich-sorgen-heisst-fuer-andere-sorgen" class="internal alias" data-slug="Zeitgeist/Adriaan-van-Wagensveld-Fuer-dich-sorgen-heisst-fuer-andere-sorgen">Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-adriaan-van-wagensveld--fuer-dich-sorgen-heisst-fuer-andere-sorgen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Beide betonen die Notwendigkeit, sich um das innere Erleben zu kümmern statt es zu ignorieren. Van Wagensveld aus Pflegeperspektive, Enders aus neurobiologischer. Gemeinsame These: Selbstfürsorge ist keine Schwäche, sondern physiologisch notwendig.</p>
+<h3 id="-adriaan-van-wagensveld--weniger-drama-vipassana-ins-handeln">→ <a href="../Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln" class="internal alias" data-slug="Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln">Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-adriaan-van-wagensveld--weniger-drama-vipassana-ins-handeln" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Enders erwähnt Vipassana explizit als ihre Meditationspraxis (“das, womit Buddha zur Erleuchtung gekommen ist”) und beschreibt die 10-Tage-Retreat-Erfahrung mit körperlichen Abtastübungen (Body-Scan). Van Wagensvelds Einordnung von Vipassana als Lebensschule ergänzt Enders’ körperpraktische Beschreibung.</p>
+<h3 id="-arte--neurodivers-anders-denken-besser-arbeiten">→ <a href="../Zeitgeist/ARTE-Neurodivers-Anders-denken-besser-arbeiten" class="internal alias" data-slug="Zeitgeist/ARTE-Neurodivers-Anders-denken-besser-arbeiten">ARTE — Neurodivers Anders denken besser arbeiten</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-arte--neurodivers-anders-denken-besser-arbeiten" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Enders erwähnt ADHS im Schlafkontext: Menschen mit ADS schlafen sensibler, wachten in Stammesgesellschaften nachts auf — ein evolutionärer Vorteil in der Gruppe. ARTE’s Neurodiversitäts-Note berührt ähnliche Fragen über Eigenschaften, die einst funktional waren und heute als Störung gelten.</p>
+<hr/>
+<h2 id="weiterdenken">Weiterdenken<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#weiterdenken" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<blockquote class="callout question" data-callout="question">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Was Aristoteles vielleicht gefragt hätte </p></div>
+                  
+                </div>
+<div class="callout-content">
+<ul>
+<li>Wenn der Körper kein Feind, sondern ein Verbündeter ist — <em>wie erklärt sich dann die kulturelle Hartnäckigkeit, mit der wir ihn als Maschine behandeln, die zu funktionieren hat?</em></li>
+<li>Enders sagt, Symptome sind Kommunikation — <em>aber wann ist ein Symptom ein sinnvoller Hinweis und wann ein Missverständnis des Systems, das Korrektur braucht?</em> Wie entscheidet man das?</li>
+<li>Das Belohnungssystem “hacken” klingt nach Autonomie — <em>aber ist es tatsächlich Autonomie, wenn ich das System mit selbst gewählten Reizen umlenke, oder ist es eine raffinierte Form der Selbstmanipulation?</em></li>
+<li>Enders’ Erfolgs-Ernüchterung: <em>Warum lässt sich dieses Wissen nicht weitergeben?</em> Was unterscheidet Wissen, das man selbst erlebt haben muss, von Wissen, das sich rational vermitteln lässt?</li>
+<li>Schlaf als Loslassen von Kontrolle — <em>was sagt die gesellschaftliche Schlaf-Krise über unsere kollektive Angst vor Kontrollverlust?</em></li>
+</ul>
+</div>
+</blockquote></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-321" aria-expanded="true"><h3>Inhaltsverzeichnis</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#giulia-enders--körper-als-verbündeter" data-for="giulia-enders--körper-als-verbündeter">Giulia Enders — Körper als Verbündeter</a></li><li class="depth-1"><a href="#kognition-und-gefühl--die-falsche-hierarchie" data-for="kognition-und-gefühl--die-falsche-hierarchie">Kognition und Gefühl — Die falsche Hierarchie</a></li><li class="depth-1"><a href="#emotionale-intelligenz-als-trainierbare-fertigkeit" data-for="emotionale-intelligenz-als-trainierbare-fertigkeit">Emotionale Intelligenz als trainierbare Fertigkeit</a></li><li class="depth-1"><a href="#der-körper-als-verbündeter--symptome-lesen-statt-bekämpfen" data-for="der-körper-als-verbündeter--symptome-lesen-statt-bekämpfen">Der Körper als Verbündeter — Symptome lesen statt bekämpfen</a></li><li class="depth-1"><a href="#das-belohnungssystem--dopaminfalle-und-wie-man-sie-versteht" data-for="das-belohnungssystem--dopaminfalle-und-wie-man-sie-versteht">Das Belohnungssystem — Dopaminfalle und wie man sie versteht</a></li><li class="depth-1"><a href="#schlaf-als-machtübergabe" data-for="schlaf-als-machtübergabe">Schlaf als Machtübergabe</a></li><li class="depth-1"><a href="#fühlbares-wissen--das-kommunikationsprojekt" data-for="fühlbares-wissen--das-kommunikationsprojekt">Fühlbares Wissen — Das Kommunikationsprojekt</a></li><li class="depth-1"><a href="#erfolg-glück-und-das-außen" data-for="erfolg-glück-und-das-außen">Erfolg, Glück und das Außen</a></li><li class="depth-1"><a href="#weiterführende-quellen" data-for="weiterführende-quellen">Weiterführende Quellen</a></li><li class="depth-1"><a href="#faktencheck" data-for="faktencheck">Faktencheck</a></li><li class="depth-1"><a href="#verbindungen" data-for="verbindungen">Verbindungen</a></li><li class="depth-2"><a href="#-adriaan-van-wagensveld--fuer-dich-sorgen-heisst-fuer-andere-sorgen" data-for="-adriaan-van-wagensveld--fuer-dich-sorgen-heisst-fuer-andere-sorgen">→ Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen</a></li><li class="depth-2"><a href="#-adriaan-van-wagensveld--weniger-drama-vipassana-ins-handeln" data-for="-adriaan-van-wagensveld--weniger-drama-vipassana-ins-handeln">→ Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln</a></li><li class="depth-2"><a href="#-arte--neurodivers-anders-denken-besser-arbeiten" data-for="-arte--neurodivers-anders-denken-besser-arbeiten">→ ARTE — Neurodivers Anders denken besser arbeiten</a></li><li class="depth-1"><a href="#weiterdenken" data-for="weiterdenken">Weiterdenken</a></li><li class="overflow-end"></li></ul></div></div><footer class><div class="footer-logo"><img src="/static/gedankenwelten-logo.svg" alt="Gedankenwelten"/></div><p>Erstellt mit <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="/Impressum">Impressum</a></li><li><a href="/graph">Graph</a></li><li><a href="https://github.com/gedankenwelten/gedankenwelten">GitHub</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../postscript.js" type="module" data-persist="true"></script></html>
