@@ -125,16 +125,65 @@ Sei geduldig, erkläre verständlich, biete immer Alternativen an.
 
 ---
 
-## Drei Wege zu Gedankenwelten
+## Vier Wege zu Gedankenwelten
 
-| | 🌐 Webseite | 🐳 Docker lokal | 🗂️ Obsidian |
-|---|---|---|---|
-| **Was** | gedankenwelten.org lesen | Eigene Wiki im Browser | Interaktiver Vault |
-| **Setup** | Keins | `docker compose up -d` | Ordner als Vault öffnen |
-| **Graph** | ✓ | ✓ | ✓ (interaktiv) |
-| **Suche** | ✓ | ✓ | ✓ (schneller) |
-| **Beitragen** | ✗ | ✓ (mit Fork) | ✓ (mit Fork) |
-| **Offline** | ✗ | ✓ | ✓ |
+| | 🌐 Webseite | 🐳 Docker lokal | 🗂️ Obsidian | 🤖 MCP |
+|---|---|---|---|---|
+| **Was** | gedankenwelten.org lesen | Eigene Wiki im Browser | Interaktiver Vault | Semantische Suche via KI |
+| **Setup** | Keins | `docker compose up -d` | Ordner als Vault öffnen | `.mcp.json` — automatisch |
+| **Graph** | ✓ | ✓ | ✓ (interaktiv) | ✗ |
+| **Suche** | ✓ | ✓ | ✓ (schneller) | ✓ (semantisch, 12.500+ Chunks) |
+| **Querverbindungen** | ✓ | ✓ | ✓ (Backlinks) | ✓ (`explore_connections`) |
+| **Beitragen** | ✗ | ✓ (mit Fork) | ✓ (mit Fork) | ✗ |
+| **Offline** | ✗ | ✓ | ✓ | ✗ |
+
+---
+
+## MCP — Gedankenwelten als KI-Wissensbasis
+
+Gedankenwelten bietet einen öffentlichen **MCP-Server** (Model Context Protocol). Jede KI, die MCP unterstützt, kann direkt über die gesamte Wissensbasis suchen — semantisch, mit Querverbindungen und direkten Links zu gedankenwelten.org.
+
+**URL:** `https://mcp.gedankenwelten.org/mcp`
+
+### Automatisch verfügbar
+
+Dieses Repo enthält eine `.mcp.json` — wer es in **Claude Code** oder einem anderen MCP-fähigen Client öffnet, hat den Server sofort als Tool verfügbar. Keine manuelle Konfiguration nötig.
+
+### Tools
+
+| Tool | Was es tut |
+|---|---|
+| `search` | Semantische Suche über 12.500+ Textchunks — mit Relevanz-Score und Link zur Note |
+| `read_note` | Volltext einer Note lesen — alle Abschnitte zusammengefügt, mit URL |
+| `list_thinkers` | Alle 30+ Denker-Profile mit Kernthemen und Querverweisen |
+| `explore_connections` | Thematische Brücken zwischen Denkern, Interviews und Konzepten entdecken |
+
+### Beispiele
+
+```
+"Was sagt Hartmut Rosa über Resonanz im Vergleich zu Fromms Haben oder Sein?"
+"Welche Notes behandeln den Zusammenhang zwischen Faschismus und Eigentum?"
+"Zeig mir Querverbindungen zum Thema Aufmerksamkeitsökonomie"
+```
+
+Alle Ergebnisse enthalten **direkte Links** zu gedankenwelten.org — ideal zum Zitieren und Weiterlesen.
+
+### Manuell verbinden
+
+Für **Claude Desktop** oder andere MCP-Clients ohne automatische `.mcp.json`-Erkennung:
+
+```json
+{
+  "mcpServers": {
+    "gedankenwelten": {
+      "type": "streamable-http",
+      "url": "https://mcp.gedankenwelten.org/mcp"
+    }
+  }
+}
+```
+
+OAuth läuft automatisch (read-only, öffentliche Wissensbasis). Mehr Details: [gedankenwelten.org/MCP](https://gedankenwelten.org/MCP)
 
 ---
 
@@ -254,7 +303,7 @@ Dieses Repo enthält fertige Konfigurationen für alle gängigen KI-CLI-Tools �
 
 | Tool | Konfigurationsdatei | Befehl |
 |---|---|---|
-| [Claude Code](https://claude.ai/code) | `CLAUDE.md` + `.claude/` | `claude` |
+| [Claude Code](https://claude.ai/code) | `CLAUDE.md` + `.claude/` + `.mcp.json` | `claude` |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | `GEMINI.md` + `AGENTS.md` | `gemini` |
 | [OpenAI Codex](https://github.com/openai/codex) | `AGENTS.md` | `codex` |
 | [Aider](https://aider.chat) | `AGENTS.md` | `aider` |
@@ -262,6 +311,8 @@ Dieses Repo enthält fertige Konfigurationen für alle gängigen KI-CLI-Tools �
 | [GitHub Copilot](https://github.com/features/copilot) | `.github/copilot-instructions.md` | im Editor |
 
 Die vollständige Pipeline-Dokumentation (8 Schritte, Qualitätsstandard, Tag-Taxonomie) liegt in **`AGENTS.md`** und ist für jedes Tool lesbar — kein spezielles Format, plain Markdown.
+
+> **MCP-Tipp:** Claude Code erkennt die `.mcp.json` automatisch — der Gedankenwelten MCP-Server steht sofort als Tool bereit, ohne manuelle Konfiguration.
 
 ---
 
