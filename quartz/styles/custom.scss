@@ -51,20 +51,24 @@
     font-size: 18px;
   }
 
-  // Fix: horizontaler Seiten-Overflow. Quartz setzt .center auf min-width:100%,
-  // wodurch die einspaltige Content-Spalte NICHT unter die min-content-Breite
-  // ihres breitesten Kindes schrumpfen kann. Ein breites Element (Tabelle,
-  // Code-Block, lange URL) oder die Titelzeile sprengt dann die Seite über den
-  // Viewport hinaus → mobile Safari zoomt raus → der ganze Text wirkt winzig.
-  // Harte Begrenzung: nichts darf breiter als der Viewport werden.
-  html,
-  body {
-    max-width: 100vw;
-    overflow-x: hidden;
+  // KERN-FIX horizontaler Overflow: Das mobile Grid ist eine einzelne "auto"-
+  // Spalte. "auto" wächst auf die min-content-Breite des breitesten Items — und
+  // das ist die mobile Titelzeile (.sidebar.left als nowrap-Flexrow: Titel +
+  // Suche + Icons). Dadurch wurde die ganze Spalte (inkl. Fließtext) breiter als
+  // der Viewport. minmax(0, 1fr) zwingt die Spalte auf exakt Containerbreite, sodass
+  // kein Kind sie mehr sprengen kann.
+  .page > #quartz-body {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+
+  // Titelzeile darf umbrechen/schrumpfen statt die Spalte zu sprengen
+  .page > #quartz-body .sidebar.left {
+    flex-wrap: wrap;
+    min-width: 0;
+    max-width: 100%;
   }
 
   .page,
-  .page > #quartz-body,
   .center,
   .center > article {
     min-width: 0 !important;
@@ -87,7 +91,6 @@
     overflow-x: auto;
   }
 
-  // Titelzeile: kleiner + umbrechbar, damit sie nicht die Suche rausschiebt
   .page-title {
     font-size: 1.5rem;
     overflow-wrap: anywhere;
