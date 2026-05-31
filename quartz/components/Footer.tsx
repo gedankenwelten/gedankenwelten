@@ -5,6 +5,7 @@ import { i18n } from "../i18n"
 
 interface Options {
   links: Record<string, string>
+  logo?: string
 }
 
 export default ((opts?: Options) => {
@@ -13,6 +14,11 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
+        {opts?.logo && (
+          <div class="footer-logo">
+            <img src={opts.logo} alt="Gedankenwelten" />
+          </div>
+        )}
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
