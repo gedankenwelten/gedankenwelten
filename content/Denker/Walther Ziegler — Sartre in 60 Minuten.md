@@ -19,7 +19,7 @@ aliases:
 Quelle: [Sartre in 60 Minuten](https://www.youtube.com/watch?v=TJjM4EiSdDg)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Denker lebendig und ohne akademischen Jargon einem breiten Publikum zugänglich macht. Der Vortrag entstand als Vorlesung an einer Hochschule vor Studierenden. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Denker lebendig und ohne akademischen Jargon einem breiten Publikum zugänglich macht. Der Vortrag entstand als Vorlesung an einer Hochschule vor Studierenden. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Jean-Paul Sartre** (1905–1980, Paris) — Schriftsteller, Dramatiker, Existenzialphilosoph und politischer Aktivist. Wuchs ohne Vater auf, von Mitschülern wegen seiner Erscheinung gehänselt — und beschloss mit 12 Jahren, großer Schriftsteller zu werden. Studierte in Paris und Berlin, war von Husserls Phänomenologie geprägt. Im Zweiten Weltkrieg kurz gefangen, danach Widerstand. Lebenslange offene Beziehung mit Simone de Beauvoir — ein schriftlich fixierter Vertrag der Freiheit. Politisch immer an der Seite der Unterdrückten: Kommunistische Partei, Algerienkrieg (rief französische Soldaten zur Desertion auf — sein Hotelzimmer wurde gesprengt), Castro, Che Guevara, Mao, zuletzt die inhaftierten RAF-Mitglieder. 1964 Nobelpreis für Literatur — abgelehnt, weil er keine Institution über sich anerkannte.
 >

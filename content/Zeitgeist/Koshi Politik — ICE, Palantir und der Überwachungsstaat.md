@@ -100,7 +100,7 @@ Die Trump-Administration plant laut Koshi eine **nationale Datenbank aller Ameri
 
 Kemper beschreibt die Verbindung von Thiel/Musk/Tech-Kapital mit faschistischen Bewegungen. Hier sieht man den konkreten Infrastruktur-Arm: Palantir als technologische Rüstung eines autoritären Staats.
 
-### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 
 Derselbe Thiel-Vance-Nexus: Tech-Kapital greift nach staatlicher Macht. Tooze beschreibt es für KI und Pentagon; hier zeigt sich dasselbe Muster bei Immigration Enforcement.
 
@@ -116,6 +116,6 @@ Klarsprech zeigt den Architekten hinter Palantir: Peter Thiel und sein Gesamtsys
 
 Grenzgänger Studios liefert den historisch-investigativen Rahmen zu Palantirs ICE-Einsatz: Thiels CIA-Startfinanzierung, die PayPal-Mafia als politisches Netzwerk und die These, dass Palantir kein Überwachungs-Startup war, sondern von Anfang an als staatliche Kontrollinfrastruktur konzipiert wurde. Koshi zeigt die Opfer — Grenzgänger Studios den Architekten und seine Biografie.
 
-### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Während Koshi die ICE-Kooperation und die US-Dimension beleuchtet, zeigen Kurz und Görlitz die deutsche Seite derselben Software-Infrastruktur — vier Bundesländer, gescheiterte Verfassungsschutzstandards, denselben Konzern. Zusammen ergibt sich das vollständige transnationale Bild.

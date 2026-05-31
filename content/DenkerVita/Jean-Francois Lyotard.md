@@ -96,5 +96,5 @@ Im Streit mit Habermas und der Frankfurter Schule ist Lyotard der **Außenseiter
 ## Cortex-Notes
 
 - [[scobel — Lyotard: Das Ende der Wahrheit]] — Transkript der ZDF-Sendung mit Lyotard-Interpretation; Habermas-Konflikt, Grand Narratives, Widerstreit
-- [[DenkerVita/Juergen Habermas]] — Der philosophische Gegner; Habermas setzt auf universale Geltungsansprüche, Lyotard auf Inkommensurabilität
-- [[DenkerVita/Michel Foucault]] — Beide analysieren Macht in der Sprache; Foucault verdeckter, Lyotard offener
+- [[Gedankenwelten/DenkerVita/Juergen Habermas]] — Der philosophische Gegner; Habermas setzt auf universale Geltungsansprüche, Lyotard auf Inkommensurabilität
+- [[Gedankenwelten/DenkerVita/Michel Foucault]] — Beide analysieren Macht in der Sprache; Foucault verdeckter, Lyotard offener

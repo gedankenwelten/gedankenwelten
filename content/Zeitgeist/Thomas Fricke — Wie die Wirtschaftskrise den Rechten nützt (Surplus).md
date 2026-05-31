@@ -137,7 +137,7 @@ Konkrete Ansätze:
 
 Direkteste Parallele: Flassbeck analysiert ebenfalls die wirtschaftlichen Ursachen des Rechtsrucks. Beide teilen die Kritik am Marktliberalismus; Flassbeck legt Schwerpunkt auf Lohnpolitik und Handelsungleichgewichte, Fricke auf Kontrollverlust und Austerität
 
-### → [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
 
 Varoufakis stellt dieselbe Grundthese auf — 2008 als Mutterkrise des Rechtspopulismus — und kommt aus der politökonomischen Richtung zum selben Befund: Wer Bailout-Kosten sozialisiert, zerstört die Legitimation der liberalen Mitte. Frickes Kontrollverlust-These und Varoufakis' EU-Strukturkritik ergänzen einander.
 
@@ -153,7 +153,7 @@ Manow analysiert die Wahlentscheidung, Fricke liefert die psychologisch-ökonomi
 
 Heitmeyers Verrohungsthese und Frickes Kontrollverlust-These greifen ineinander: Wenn Menschen das Gefühl verlieren, Herr ihrer Lage zu sein, sinkt auch die Hemmschwelle zu Gewalt und Desintegration
 
-### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
 Frickes empirische Analyse der wirtschaftlichen Stagnation liefert den materiellen Unterbau zu Posschardts Kulturkritik: Dieselbe Erschöpfung des Gegenwartsmodells — bei Poschardt kulturell-ästhetisch, bei Fricke ökonomisch gefasst.
 
@@ -261,14 +261,14 @@ Göpels Agency-Agenda und Gemeinwohlprodukt als progressive Gegenerzählung zu F
 
 Frickes Kontrollverlust-These ist die Erklärungsfolie für das Paradox der Bilanz-Runde: Die AfD wächst auf 27%, obwohl (oder weil?) die Regierung nach rechts rückt. Fricke liefert den Mechanismus, die Bilanz-Runde beschreibt das Symptom.
 
-### → [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
 Das BR-Feature "Der Arbeiter und die AfD" über "Peter aus Köln" ist Frickes Kontrollverlust-These als journalistisches Einzelporträt: Ein Mensch, der seine Identität über körperliche Arbeit definiert, erlebt den ökonomischen Strukturwandel als Selbstverlust — und findet in der AfD nicht ein Programm, sondern eine Form der Wut.
 
-### → [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
+### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Frickes These — AfD-Wähler präferieren die Irrationalität — erklärt, warum das GFF-Gutachten auf "Ergebnisoffenheit" angewiesen ist: Ein Verbotsverfahren, das auf juristischer Rationalität basiert, muss über jeden Parteilichkeitsverdacht erhaben sein, weil die Kraft der AfD-Bewegung gerade aus der Ablehnung institutioneller Rationalität schöpft.
 
-### → [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
 
 Das rp26-Panel konkretisiert Frickes Kontrollverlust-These ostdeutsch: Die Erbschaftslücke (10.000 € Ost vs. 250.000 € Bayern/BW) ist kein gefühlter, sondern strukturell kumulierter Kontrollverlust — Frickes Makroanalyse bekommt ein präzises empirisches Fundament.

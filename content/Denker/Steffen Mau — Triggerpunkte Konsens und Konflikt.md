@@ -23,7 +23,7 @@ Quelle: [Streit ums Politische: »Triggerpunkte« — Heinz Bude im Gespräch mi
 > Wichtigste Werke: *Lütten Klein* (2019), *Sortiermaschinen* (2021), *Triggerpunkte* (2023), *Ungleich vereint* (2024)
 > Kernkonzepte: Triggerpunkte, Polarisierungsunternehmer, Veränderungsmüdigkeit, Sortiermaschinen
 >
-> → [[DenkerVita/Steffen Mau|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Steffen Mau|DenkerVita]]
 
 ---
 
@@ -168,13 +168,13 @@ Mau sieht den entscheidenden Unterschied: Brandt operierte vor dem Hintergrund e
 - [[Markus Gabriel — Universelle Moral]] — Gabriel kritisiert Maus Ansatz direkt: Die sozialwissenschaftlichen Methoden hätten den digitalen Polarisierungstreiber übersehen; Umfragen messen deklarierte Werte, nicht algorithmische Dynamiken
 - [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Steinke zeigt die rechtspolitischen Triggerpunkte: Blasphemie, Beleidigung, Genozid-Debatte — genau die Themen, bei denen Maus Triggerpunkte-Mechanik greift: latenter Konsens, der bei konkreter Berührung in heftige Polarisierung kippt
 - [[Heinz Bude — Boomer-Soziologie]] — Budes Boomer-Analyse liefert den generationssoziologischen Rahmen für Maus „demobilisierte Klassengesellschaft"
-- [[Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]] — Mouffe erklärt theoretisch, warum die Triggerpunkte so explosiv werden: Wenn echte politische Auseinandersetzung aus dem Zentrum verdrängt wird, sucht sich der Antagonismus periphere Kanäle — genau die Triggerpunkte, die Mau empirisch dokumentiert
-- [[Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]] — Crouchs "Left-Behind"-Analyse ist Maus Triggerpunkte-Theorie auf gesamteuropäischer Ebene: Postdemokratie erzeugt Verlustgefühle, Verlustgefühle erzeugen Triggerpunkte, Triggerpunkte werden von politischen Unternehmern instrumentalisiert: Die Boomer neutralisierten den Klassenbegriff durch kollektiven Bildungsaufstieg — „Klassismus spielte keine Rolle" in der Hausbesetzerszene. Maus Triggerpunkte-Modell erklärt, warum die „kommunikativ beschwiegenen" Themen der Boomer heute als Generationenkonflikt aufbrechen
+- [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]] — Mouffe erklärt theoretisch, warum die Triggerpunkte so explosiv werden: Wenn echte politische Auseinandersetzung aus dem Zentrum verdrängt wird, sucht sich der Antagonismus periphere Kanäle — genau die Triggerpunkte, die Mau empirisch dokumentiert
+- [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]] — Crouchs "Left-Behind"-Analyse ist Maus Triggerpunkte-Theorie auf gesamteuropäischer Ebene: Postdemokratie erzeugt Verlustgefühle, Verlustgefühle erzeugen Triggerpunkte, Triggerpunkte werden von politischen Unternehmern instrumentalisiert: Die Boomer neutralisierten den Klassenbegriff durch kollektiven Bildungsaufstieg — „Klassismus spielte keine Rolle" in der Hausbesetzerszene. Maus Triggerpunkte-Modell erklärt, warum die „kommunikativ beschwiegenen" Themen der Boomer heute als Generationenkonflikt aufbrechen
 - [[Heinz Bude — Gesellschaft der Angst]] — Bude diagnostiziert 2014 die „Misstrauensbewegungen" und die innere Spaltung der Mittelschicht, die Mau empirisch vermisst: Der Swimming-Pool-Effekt (relative Deprivierung) ist der affektive Motor hinter Maus Triggerpunkten
 
-### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Empirischer Beleg für die Polarisierungsunternehmer-These: NiUS transformiert ein harmloses Buffet in einen "Islam-Triggerpunkt" — die Arena Innen/Außen wird gezielt aktiviert, indem Reichelt aus einer Kantineneröffnung die "Vollendung der deutschen Unterwerfung unter den Islam" konstruiert.
 
-### → [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 
 Dörres VW-Forschung liefert die Betriebsebene zu Maus demobilisierter Klassengesellschaft: Selbst im am besten organisierten Unternehmen Europas wird ein schlechter Kompromiss akzeptiert. Outlaw-Stolz (Dörre/Hochschild) und Maus Triggerpunkte-Modell beschreiben denselben emotionalen Mechanismus aus verschiedenen Perspektiven — das Nicht-gesehen-Werden als Grundierung des Rechtsrucks.

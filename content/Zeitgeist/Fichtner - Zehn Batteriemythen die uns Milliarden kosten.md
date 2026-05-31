@@ -21,7 +21,7 @@ Quelle: [Prof. Fichtner: Diese Lügen über Batterien kosten uns Milliarden (Gel
 > [!info] Wer spricht?
 > **Maximilian Fichtner** (geb. 1961) — Festkörperchemiker, Professor an der Universität Ulm, Direktor des Helmholtz-Instituts Ulm (HIU) und Sprecher des Exzellenzclusters POLiS (Post Lithium Energy Storage). Einer der führenden Batterieforscher Europas — und seit einigen Jahren auch aktiver Mythen-Dekonstrukteur im Podcast *Geladen* (produziert vom KIT). Seine Methode: keine Polemik, nur Daten.
 >
-> → [[DenkerVita/Maximilian Fichtner|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Maximilian Fichtner|DenkerVita]]
 
 ---
 
@@ -266,22 +266,22 @@ Das Muster ist überall dasselbe: Nicht Unwissenheit treibt diese Narrative, son
 
 ## Verbindungen
 
-### → [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order]]
+### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order]]
 Fichtner und Specht sind konzeptuelle Zwillinge: Beide erscheinen im selben *Geladen*-Podcast, beide erklären das Merit-Order-Prinzip und beide kommen zur identischen Schlussfolgerung — nur Erneuerbare *plus* Speicher können Gas aus dem Preissetzungsmechanismus drängen. Während Fichtner die Mythen dekonstruiert, dekonstruiert Specht die falsche Marktlogik (Primärenergieirrtum), die diese Mythen erst möglich macht.
 
-### → [[Zeitgeist/Akkudoktor — Lanz und die Energiewende|Akkudoktor — Energiewende-Desinformation]]
+### → [[Gedankenwelten/Zeitgeist/Akkudoktor — Lanz und die Energiewende|Akkudoktor — Energiewende-Desinformation]]
 Beide Notes dokumentieren denselben Mechanismus: politisch eingefärbte Energiemythen, die im öffentlichen Diskurs als Fakten durchgehen. Fichtner widerlegt sie im Podcast, Akkudoktor geht einen Schritt weiter und stellt formale Programmbeschwerde gegen die mediale Normalisierung ein. Der „Kohlestrom"-Mythos (Fichtner, Mythos 6) und der „8%-Trick" (Akkudoktor) sind exakte Pendants: beide nutzen statistische Verzerrung, um Erneuerbare kleiner erscheinen zu lassen.
 
-### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende|Felix Goldbach — Batteriespeicher]]
+### → [[Gedankenwelten/Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende|Felix Goldbach — Batteriespeicher]]
 Goldbach liefert die Investorenperspektive zu dem, was Fichtner wissenschaftlich fundiert: Batteriespeicher sind günstiger als Gaskraftwerke (70 % Marktwachstum 2025, LCOS unter Gas-Peaker-Niveau), werden aber durch politische Regulierung systematisch blockiert. Fichtners Hinweis auf die „Regulierungsbremse" findet in Goldbach seine konkrete Ausbuchstabierung.
 
-### → [[Zeitgeist/ARTE — Forschung Fake und faule Tricks|ARTE — Agnotologie]]
+### → [[Gedankenwelten/Zeitgeist/ARTE — Forschung Fake und faule Tricks|ARTE — Agnotologie]]
 Agnotologie — die industrielle Produktion von Unwissen — ist der theoretische Rahmen hinter Fichtners Beobachtung, dass Batterie-Mythen nicht durch Unwissenheit, sondern durch Interessenlage verbreitet werden. Das ARTE-Playbook (Tabak → Klima → Energie) erklärt, warum Fichtner am Ende seines Podcasts nicht über Technik spricht, sondern über politische Macht.
 
-### → [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)|Claudia Kemfert — Fossilabhängigkeit]]
+### → [[Gedankenwelten/Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)|Claudia Kemfert — Fossilabhängigkeit]]
 Fichtner widerlegt den Rohstoff-Mythos mit dem strukturellen Argument, dass Öl *jährlich* verbrannt wird, während Batterie-Rohstoffe im Fahrzeug bleiben — Kemfert macht denselben Punkt auf volkswirtschaftlicher Ebene: Die fossile Importabhängigkeit von 80 Mrd. € jährlich ist kein technisches Schicksal, sondern ein politisch aufrecht erhaltenes System. Beide diagnostizieren die „Fossilokratie" aus verschiedenen Winkeln.
 
-### → [[Panorama/Energie|Panorama — Energie]]
+### → [[Gedankenwelten/Panorama/Energie|Panorama — Energie]]
 Fichtner liefert empirische Munition für mehrere Thesen des Energie-Panoramas: Merit Order + Batteriespeicher (Speicher-First-Strategie), chinesische Energieexpansion (Wettbewerbsrealität), Rohstoffabhängigkeit (fossile Importe), und das Lobbying-Muster (Agnotologie-Abschnitt). Die Note rundet das Panorama um die Grundlagenwissenschaft — ohne Polemik, nur Daten.
 
 ---

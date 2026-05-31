@@ -59,4 +59,4 @@ Morpheus veröffentlicht primär über YouTube und seinen MorphReader (RSS-App m
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]]
+- [[Gedankenwelten/Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]]

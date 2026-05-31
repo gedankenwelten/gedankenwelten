@@ -70,7 +70,7 @@ Klar regimekritisch, aber differenziert — Amiri trennt konsequent zwischen dem
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Gesine Schwan]] — Beide analysieren Machtstrukturen und den Unterschied zwischen Gestaltungsmacht und Herrschaftsmacht. Amiri dokumentiert die nackte Herrschaftsmacht des iranischen Regimes; Schwan entwickelt die theoretische Alternative.
+- [[Gedankenwelten/DenkerVita/Gesine Schwan]] — Beide analysieren Machtstrukturen und den Unterschied zwischen Gestaltungsmacht und Herrschaftsmacht. Amiri dokumentiert die nackte Herrschaftsmacht des iranischen Regimes; Schwan entwickelt die theoretische Alternative.
 
 ---
 

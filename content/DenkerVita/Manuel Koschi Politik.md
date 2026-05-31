@@ -17,7 +17,7 @@ tags: [denker-vita, usa, medien, journalismus, year-2026]
 > **Finanzierung:** [Ko-Fi](https://ko-fi.com/koschipolitik) + [Kanalmitgliedschaft](https://www.youtube.com/channel/UCr03M6u5DJ5aQ7cpAHb5VEQ/join)
 > **Slogan:** *„erkläre ich, was in den USA wirklich passiert – verständlich, kritisch und faktenbasiert"*
 >
-> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

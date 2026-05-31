@@ -62,7 +62,7 @@ Seine politische Vision: eine Gesellschaft, in der **Mitbestimmung** in Arbeit u
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Michel Foucault]] — Beide analysieren, wie Institutionen und gesellschaftliche Strukturen das Denken formen. Foucault von der Macht-Wissen-Seite, Fromm von der psychoanalytischen: Der "Marktcharakter" ist das internalisierte Disziplinarregime, das Foucault von außen beschreibt.
+- [[Gedankenwelten/DenkerVita/Michel Foucault]] — Beide analysieren, wie Institutionen und gesellschaftliche Strukturen das Denken formen. Foucault von der Macht-Wissen-Seite, Fromm von der psychoanalytischen: Der "Marktcharakter" ist das internalisierte Disziplinarregime, das Foucault von außen beschreibt.
 
 - **Hannah Arendt** — Arendts Denklosigkeit als Bedingung des Bösen und Fromms Hypnose-Theorie (Autorität ersetzt die sinnliche Realität) beschreiben denselben Mechanismus: das Verschwinden des eigenständigen Urteils. Beide sind 1930er Emigranten aus Nazi-Deutschland, beide stellen dieselbe Grundfrage — nur aus verschiedenen Disziplinen.
 

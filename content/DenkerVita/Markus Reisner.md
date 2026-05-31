@@ -80,7 +80,7 @@ In der Drohnen-Debatte nimmt er eine differenzierte Position ein: Drohnen sind w
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Torsten Heinrich]] — Beide analysieren den Ukraine-Krieg aus militärischer Perspektive, allerdings aus unterschiedlichen Positionen: Reisner als aktiver Generalstabsoffizier mit institutionellem Blick, Heinrich als freier YouTuber mit populärwissenschaftlichem Ansatz. Beide betonen die Bedeutung von Drohnentechnologie.
+- [[Gedankenwelten/DenkerVita/Torsten Heinrich]] — Beide analysieren den Ukraine-Krieg aus militärischer Perspektive, allerdings aus unterschiedlichen Positionen: Reisner als aktiver Generalstabsoffizier mit institutionellem Blick, Heinrich als freier YouTuber mit populärwissenschaftlichem Ansatz. Beide betonen die Bedeutung von Drohnentechnologie.
 - **Herfried Münkler** — Der Berliner Politikwissenschaftler schrieb das Geleitwort zu *Robotic Wars* (2018). Münkler als Theoretiker der „neuen Kriege" und Reisner als Praktiker der asymmetrischen Kriegsführung ergänzen sich konzeptuell: Was Münkler abstrakt beschreibt (Entstaatlichung, Privatisierung, Asymmetrie), hat Reisner im Feld erlebt.
 - **Nico Lange** — Sicherheitsexperte und ehem. Leiter des Münchner Sicherheitskonferenz-Teams. Beide analysieren den Ukraine-Konflikt regelmäßig im deutschen Fernsehen. Lange fokussiert auf die politisch-strategische Ebene, Reisner auf die taktisch-operative.
 

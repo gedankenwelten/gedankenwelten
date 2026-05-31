@@ -97,7 +97,7 @@ Hartmann versteht sich nicht als Ideolog, sondern als empirischer Soziologe. Sei
 
 ## Cortex-Notes
 
-- [[Denker/Martyna Linartas — Unverdiente Ungleichheit]] (erwähnt Hartmanns 80%-Erbschaftsthese)
+- [[Gedankenwelten/Denker/Martyna Linartas — Unverdiente Ungleichheit]] (erwähnt Hartmanns 80%-Erbschaftsthese)
 
 ---
 

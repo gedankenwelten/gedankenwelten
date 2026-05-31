@@ -137,7 +137,7 @@ Die Russland-Dimension ergänzt den MONITOR-Beitrag: Der Iran-Krieg ist eingebet
 ### → [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
 Flemig zeigt die Ukraine-Seite derselben Achse: Während der Iran-Krieg Russlands Öleinnahmen kurzfristig stützt, ist die russische Wirtschaft strukturell auf dem Weg zur Iranisierung — Isolation, Abhängigkeit, technologischer Rückstand.
 
-### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Gedankenwelten/Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Trumps „Not at all" auf die Frage, ob ihn die Toten erschüttern — Hagemeyer: fehlende Empathie als narzisstisches Kernsymptom. Nicht Stärke, sondern emotionale Abschottung.
 
 ### → [[Koschi Politik — Hochmut vor dem Fall: Iran trifft Trump]]

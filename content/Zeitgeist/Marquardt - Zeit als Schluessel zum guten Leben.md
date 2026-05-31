@@ -20,7 +20,7 @@ Quelle: [Jetzt! – Die Zeit als Schlüssel zum guten Leben | Sternstunde Philos
 > Studierte Philosophie in Heidelberg, Luzern und Freiburg — promovierte über Aristoteles' Zeittheorie. Hans-Georg Gadamers Begriff der „erfüllten Momente" prägt sein Denken. Kein klassischer Universitätsphilosoph, sondern Vermittlungsdenker: arbeitete als Redakteur beim ARD Hörfunk, schreibt Radioessays und betreibt zusammen mit seiner Frau Sabine den Theologie-Philosophie-Blog [theophil.online](https://www.theophil.online). Bücher: *Spaziergänge mit Sokrates*, Kriminalromane (*Die Schwarzwaldfalle*) und das Hauptwerk *Zeit und Mensch — Facetten einer Kulturgeschichte* (Schwabe Verlag, 2024 — 5 Jahre geschrieben, täglich von 6–7:30 Uhr vor der Arbeit). Nebenbei Gitarrist und Sänger in einer Rockband. Praktizierender Katholik, kürzlich in den Ruhestand getreten.
 >
 > Im Gespräch mit Yves Bossart (SRF Sternstunde Philosophie, 17.05.2026).
-> → [[DenkerVita/Udo Marquardt|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Udo Marquardt|DenkerVita]]
 
 ---
 
@@ -273,34 +273,34 @@ Das ist keine Frage, die man beantwortet — sondern eine, nach der man lebt. Si
 
 ## Verbindungen
 
-### → [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]]
+### → [[Gedankenwelten/Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Rosa ist das explizite Gegenstück: Marquardt beschreibt phänomenologisch, was Rosa soziologisch analysiert. „Sich anrufen lassen" (Marquardt) ist dasselbe wie Resonanz (Rosa) — nur aus der subjektiven statt der systemischen Perspektive.
 
-### → [[Zeitgeist/Goenka — Vipassana und die Kunst des Sterbens]]
+### → [[Gedankenwelten/Zeitgeist/Goenka — Vipassana und die Kunst des Sterbens]]
 
 Die Frage „Wer möchte ich gewesen sein?" und der Augustinus'sche Zeitbegriff (Zeit entsteht in mir) berühren den Kern der Vipassana-Praxis: Vergänglichkeit (Anicha) und die Qualität der Gegenwärtigkeit. Marquardt kommt von der christlichen Philosophie, Goenka von der buddhistischen Praxis — beide landen beim selben Ort: Bewusstsein als Gegenwart.
 
-### → [[Gedanken/Blaise Pascal — Wette und Unruhe]]
+### → [[Gedankenwelten/Gedanken/Blaise Pascal — Wette und Unruhe]]
 
 Marquardt zitiert explizit die pascalsche Wette als persönliche Lebenshaltung: auf Ewigkeit setzen nimmt den Druck aus dem Kessel. Pascal selbst diagnostizierte die *divertissement*-Falle — die Beschleunigung als Flucht vor dem Sein. Marquardt wiederholt diese Diagnose 400 Jahre später.
-### → [[Denker/Wolfram Eilenberger — Die größte Lüge der Philosophie]]
+### → [[Gedankenwelten/Denker/Wolfram Eilenberger — Die größte Lüge der Philosophie]]
 
 Eilenbergers „Geistesgegenwart" (Ontologie der Gegenwart — das Vermögen zu sagen, *was jetzt ist*) ist der erkenntnistheoretische Rahmen für das, was Marquardt phänomenologisch als „erfüllte Momente" beschreibt. Marquardt zeigt, wie man dorthin kommt (Rituale, Genügsamkeit, Sich-anrufen-lassen); Eilenberger benennt, was man dort tut (Diagnostizieren der eigenen Gegenwart ohne Flucht in Systeme). Beide bei SRF Sternstunde Philosophie, beide gegen den Zeitfetisch der Moderne — aus verschiedenen Himmelsrichtungen.
 
-### → [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN]]
+### → [[Gedankenwelten/Zeitgeist/Teresa Buecker — Zeit NEU DENKEN]]
 
 Bücker und Marquardt stellen dieselbe Grundfrage von entgegengesetzten Seiten: Marquardt fragt *wie* man Zeit erfüllt erlebt — Bücker fragt *wer* überhaupt das Recht auf Zeit hat. Marquardts Kloster-Genügsamkeit setzt Wahlfreiheit voraus; Bückers Zeitpolitik macht sichtbar, dass diese Wahlfreiheit strukturell verteilt ist. Das ist der produktive Widerspruch: Ohne Bückers Zeitgerechtigkeit bleibt Marquardts Zeitphilosophie Privileg-Denken.
 
-### → [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
+### → [[Gedankenwelten/Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
 Marquardt im christlichen Aschram Kurishumala, Ricard im himalayischen Kloster Shechen — beide beschreiben denselben Befund: Genügsamkeit und Rhythmus verändern die Qualität von Zeit grundlegend, ohne Zeit als Ressource zu vermehren. Marquardt zeigt dies philosophiegeschichtlich, Ricard liefert den neurowissenschaftlichen Beleg (Davidson-Studien: Langzeitmeditation verändert die Zeitwahrnehmungsarchitektur des Gehirns).
 
-### → [[Denker/Erich Fromm — Haben oder Sein]]
+### → [[Gedankenwelten/Denker/Erich Fromm — Haben oder Sein]]
 
 Fromms „Haben-Modus" — Identität durch Besitz, Kontrolle, Anhäufung — ist genau das, was Marquardt als Zeitfetisch beschreibt: Zeit als abstraktes Behältnis, das man füllen, sparen und optimieren kann. Marquardts Gegenthese (*Zeit bin ich selbst*) ist Fromms „Sein-Modus" auf das Phänomen Zeit angewandt. Fromm fragt: Was *hat* man? Marquardt fragt: Was *ist* man — in der Zeit?
 
-### → [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
+### → [[Gedankenwelten/Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 
 Kehnel zeigt das Mittelalter als gelebtes Archiv anderer Zeitstrukturen — Commons-Denken, Jahreszeitenrhythmus, liturgische Zeit statt linearer Produktionszeit. Das ist das historische Material für Marquardts These, dass die Moderne einen spezifischen (und falschen) Zeitbegriff erfunden hat. Kehnels Befund: Es gab andere Möglichkeiten. Marquardts Befund: Wir haben sie vergessen.
 

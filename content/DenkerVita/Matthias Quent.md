@@ -23,7 +23,7 @@ Im selben Jahr gründet er das **Institut für Demokratie und Zivilgesellschaft 
 
 **2019** erscheint *Deutschland rechts außen* bei Piper — ein Buch, das die Frage stellt, die nach dem Aufstieg der AfD dringlicher wird als je zuvor: Wie greifen die Rechten nach der Macht, und was können wir dagegen tun? Quent analysiert die Strategien der Neuen Rechten und argumentiert: Die Gefahr liegt nicht nur in der AfD als Partei, sondern in der schleichenden Normalisierung rechtsextremer Positionen im Mainstream. Themenübernahme durch demokratische Parteien legitimiert das Original.
 
-Seit **2022** ist er **Professor für Soziologie des Extremismus und der Extremismusprävention** an der Hochschule Magdeburg-Stendal. Im Februar **2026** erscheint sein neuestes Buch: *Keine Macht der Ohnmacht* (Piper) — über das politische Gefühl der Ohnmacht, seine Instrumentalisierung durch autoritäre Bewegungen, und die Frage, wie Demokratien wehrhaft bleiben. Parallel ist er zu Gast im **NEU DENKEN**-Podcast von [[DenkerVita/Maja Goepel|Maja Göpel]] — Thema: *Extremismus NEU DENKEN*.
+Seit **2022** ist er **Professor für Soziologie des Extremismus und der Extremismusprävention** an der Hochschule Magdeburg-Stendal. Im Februar **2026** erscheint sein neuestes Buch: *Keine Macht der Ohnmacht* (Piper) — über das politische Gefühl der Ohnmacht, seine Instrumentalisierung durch autoritäre Bewegungen, und die Frage, wie Demokratien wehrhaft bleiben. Parallel ist er zu Gast im **NEU DENKEN**-Podcast von [[Gedankenwelten/DenkerVita/Maja Goepel|Maja Göpel]] — Thema: *Extremismus NEU DENKEN*.
 
 ## Bücher & Publikationen
 
@@ -56,10 +56,10 @@ Quent ist parteilich ungebunden, aber klar demokratisch positioniert. Er forscht
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Valentina Chiofalo]] — Quent analysiert soziologisch, warum die AfD Ohnmacht instrumentalisiert und Normalisierung rechter Positionen vorantreibt; Chiofalo prüft juristisch, ob die AfD verfassungswidrig handelt. Beide kämpfen für wehrhafte Demokratie, aber mit völlig unterschiedlichen Werkzeugen — Quent erklärt das Warum, Chiofalo arbeitet am juristischen Ob.
-- [[DenkerVita/Bijan Moini]] — Beide zivilgesellschaftliche Akteure gegen die AfD: Moini rechtlich-strategisch (GFF), Quent soziologisch-präventiv (IDZ, Rechtsextremismusforschung). Unterschiedliche Fronten desselben Projekts: Demokratieschutz.
+- [[Gedankenwelten/DenkerVita/Valentina Chiofalo]] — Quent analysiert soziologisch, warum die AfD Ohnmacht instrumentalisiert und Normalisierung rechter Positionen vorantreibt; Chiofalo prüft juristisch, ob die AfD verfassungswidrig handelt. Beide kämpfen für wehrhafte Demokratie, aber mit völlig unterschiedlichen Werkzeugen — Quent erklärt das Warum, Chiofalo arbeitet am juristischen Ob.
+- [[Gedankenwelten/DenkerVita/Bijan Moini]] — Beide zivilgesellschaftliche Akteure gegen die AfD: Moini rechtlich-strategisch (GFF), Quent soziologisch-präventiv (IDZ, Rechtsextremismusforschung). Unterschiedliche Fronten desselben Projekts: Demokratieschutz.
 
 ## Cortex-Notes
 
-- [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]] — Quent als Experte: „Verherrlichung der Ohnmacht" und Irrationalität als AfD-Geschäftsmodell
-- [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]] — Systematische Entfaltung der Ohnmachtsthese: Fromms vier Reaktionsmuster, Löwensteins Faschismus-Definition, Clusteranalyse, Faschismus als Antwort auf die Klimakrise
+- [[Gedankenwelten/Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]] — Quent als Experte: „Verherrlichung der Ohnmacht" und Irrationalität als AfD-Geschäftsmodell
+- [[Gedankenwelten/Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]] — Systematische Entfaltung der Ohnmachtsthese: Fromms vier Reaktionsmuster, Löwensteins Faschismus-Definition, Clusteranalyse, Faschismus als Antwort auf die Klimakrise

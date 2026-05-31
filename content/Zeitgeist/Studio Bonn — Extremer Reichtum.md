@@ -31,7 +31,7 @@ Quelle: [Studio Bonn – Talk: Extremer Reichtum](https://www.youtube.com/watch?
 >
 > Moderation: Sven Sappelt, Studio Bonn / Bundeskunsthalle
 >
-> DenkerVitas: [[DenkerVita/Kevin Kuehnert|Kevin Kühnert]] · [[DenkerVita/Marlene Engelhorn|Marlene Engelhorn]] · [[DenkerVita/Julia Friedrichs|Julia Friedrichs]] · [[DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]
+> DenkerVitas: [[Gedankenwelten/DenkerVita/Kevin Kuehnert|Kevin Kühnert]] · [[Gedankenwelten/DenkerVita/Marlene Engelhorn|Marlene Engelhorn]] · [[Gedankenwelten/DenkerVita/Julia Friedrichs|Julia Friedrichs]] · [[Gedankenwelten/DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]
 
 ---
 
@@ -241,37 +241,37 @@ Sie benennt explizit die intersektionale Dimension: Überreiche sind statistisch
 
 ## Verbindungen
 
-### → [[Denker/Martyna Linartas — Unverdiente Ungleichheit]]
+### → [[Gedankenwelten/Denker/Martyna Linartas — Unverdiente Ungleichheit]]
 Engste Schwesteranalyse im Vault: Linartas liefert die politikwissenschaftliche Dissertation mit Piketty-Unterbau und internationalem Vergleich zu denselben Kernbefunden — Vermögen vs. Einkommen als Kategorienfehler, 75–80% Erbschaftsanteil, Dynastien als Demokratiegefahr. Engelhorns relationale Kritik ("Geld arbeitet nicht, Menschen arbeiten für Geld") ist exakt das, was Linartas strukturell beweist.
 
-### → [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
+### → [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 Butterwegge beschreibt die Unterseite derselben Schere (13,3 Mio. Armutsgefährdete, Matthäus-Prinzip), Studio Bonn die Oberseite. Zusammen: Die Schere wird aktiv politisch produziert, nicht durch Naturgesetze. Ein produktiver Widerspruch: Butterwegge fordert Umverteilung von oben; Engelhorn zeigt, dass auch freiwillige Bewegungen von oben möglich sind — die Butterwegge als systemische Lösung nicht akzeptieren würde.
 
-### → [[Zeitgeist/Tilo Jung — Erben Wirtschaft AfD-Strategie]]
+### → [[Gedankenwelten/Zeitgeist/Tilo Jung — Erben Wirtschaft AfD-Strategie]]
 Jung und Studio Bonn konvergieren bei der Diagnose, divergieren im Modus: Jung argumentiert aus linker Kapitalismuskritik (Vermögensungleichheit → AfD-Frust), Studio Bonn bringt mit Engelhorn den Einzelfall einer Erbin, die freiwillig umverteilt. Jungs "das System muss sich ändern" vs. Engelhorns "ich ändere mich innerhalb des Systems" — zwei Wege, die Studio Bonn offenhält, Jung nicht.
 
-### → [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen]]
+### → [[Gedankenwelten/Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen]]
 Osnos seziert die Psychologie der Ultrareichen von außen (die "principal"-Struktur, Devothaltung im Umfeld); Studio Bonn benennt denselben Mechanismus von innen. Wo Osnos fragt "Wie werden Milliardäre so?", fragt Studio Bonn "Was macht das mit der Demokratie?" Beide kommen zur selben Diagnose.
 
-### → [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
+### → [[Gedankenwelten/Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
 Mattei liefert die historische Erklärung für die Steuervermeidungsindustrie: Austeritätspolitik war das Instrument, mit dem Kapital historisch immer wieder Lohnarbeit diszipliniert und Ungleichheit zementiert hat. Die $900/h-Berater in Studio Bonn sind die modernen Erben dieser Tradition. Matteis These, dass diese Ordnung nie "neutral" war, sondern immer Klasseninteresse, ist das historische Fundament für Engelhorns relationale Kritik.
 
-### → [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
+### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
 Flassbeck liefert die makroökonomische Mechanik (r > g, Sparparadoxon, Saldenmechanik), die erklärt, *warum* Kühnerts 6%-Rendite-Unterstellung funktioniert: Kapital akkumuliert strukturell schneller als Löhne wachsen. Beide decken denselben blinden Fleck der öffentlichen Debatte: Wer nur Einkommen analysiert, übersieht die selbstverstärkende Logik der Bestände.
 
-### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
+### → [[Gedankenwelten/Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
 Navidi zeigt das US-Extremszenario dessen, was Studio Bonn als Demokratiegefahr abstrakt benennt. Die Steuervermeidungsindustrie (legal, $900/h) ist in Navidis Welt bereits zur offen korrumpierenden Macht geworden. Engelhorns freiwillige Umverteilung wäre dort eine Kuriosität — kein Gegengewicht.
 
-### → [[Zeitgeist/Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+### → [[Gedankenwelten/Zeitgeist/Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 GCA #27 erklärt, warum Kühnerts klare Forderungen in Studio Bonn politisch folgenlos bleiben: Die SPD hat seit Schröder systematisch die Interessen der Vermögenden bevorzugt. Kühnert sitzt im Panel und fordert Erbschaftssteuerreform — GCA #27 dokumentiert, warum seine eigene Partei genau diesen Weg verweigert.
 
 ---
 
-### → [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
+### → [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
 
 Hartmann liefert den soziologischen Rahmen für das, was Studio Bonn im konkreten Fall zeigt: 80% der deutschen Milliardenvermögen stammen aus Erbschaft (nicht Eigenleistung), Studienstiftung erreicht echte Machteliten nicht. Engelhorns freiwillige Umverteilung ist bei Hartmann kein strukturelles Gegenmodell — er bleibt skeptisch: ohne Kontrolle und Regulierung ändern gute Beispiele nichts an der Machtverteilung.
 
-### → [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
+### → [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
 
 Wesche kommt von der Eigentumstheorie zum selben Befund: Eigentumsrecht ist nicht nur Freiheitsrecht, sondern strukturiert Entscheidungsmacht — wer viel besitzt, entscheidet über mehr. Die Naturrechts-These radikalisiert das: Wenn die Natur selbst Eigentümerin ist, monetarisieren Konzerne wie RWE fremdes Eigentum. Das Vermögensungleichheitsproblem (Engelhorn, Studio Bonn) vertieft sich in einen Eigentumskonflikt zwischen Menschen und Natur.
 

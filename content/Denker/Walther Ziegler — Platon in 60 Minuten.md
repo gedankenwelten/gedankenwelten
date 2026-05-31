@@ -21,7 +21,7 @@ aliases:
 Quelle: [Platon in 60 Minuten](https://www.youtube.com/watch?v=1yQTYWSoDiw)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Autor und Hochschuldozent, bekannt für die Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht (Platon, Kant, Nietzsche, Aristoteles u.a.). → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Autor und Hochschuldozent, bekannt für die Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht (Platon, Kant, Nietzsche, Aristoteles u.a.). → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > Ziegler verbindet akademische Strenge mit didaktischem Feingefühl: Er erklärt keine Philosophie *über* Platon, er führt mitten hinein — mit konkreten Beispielen, Zitaten und der unverschämten Frage: *Was hat das mit uns zu tun?* Das Ergebnis ist eine Vorlesung, die zeigt, dass Platon nicht Museumsphilosophie ist, sondern die radikalste Diagnose unserer Gegenwart.
 >

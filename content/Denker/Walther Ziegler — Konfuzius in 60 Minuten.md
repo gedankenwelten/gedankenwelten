@@ -19,7 +19,7 @@ aliases:
 Quelle: [Konfuzius in 60 Minuten](https://www.youtube.com/watch?v=fIonhQe2uIQ)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Konfuzius-Vortrag erschließt die *Lunyu* (Gespräche) als einzige verlässliche Primärquelle und macht die fünf Kardinaltugenden — Respekt, Großmütigkeit, Aufrichtigkeit, Eifer und vor allem Mitmenschlichkeit (*Ren*) — mit lebendigen Beispielen greifbar: vom Sondervermögen, das keines ist, bis zum daoistischen Jungen, der Konfuzius mit einer Sandburg den Weg versperrt. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Konfuzius-Vortrag erschließt die *Lunyu* (Gespräche) als einzige verlässliche Primärquelle und macht die fünf Kardinaltugenden — Respekt, Großmütigkeit, Aufrichtigkeit, Eifer und vor allem Mitmenschlichkeit (*Ren*) — mit lebendigen Beispielen greifbar: vom Sondervermögen, das keines ist, bis zum daoistischen Jungen, der Konfuzius mit einer Sandburg den Weg versperrt. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Konfuzius** (*551 v. Chr., Qufu — †479 v. Chr.*) — neben Sokrates und Buddha einer der drei großen Denker der Achsenzeit, die Karl Jaspers als erste Aufklärung der Menschheit beschreibt. Wie Sokrates schreibt er selbst nichts; seine Schüler halten seine Aussprüche und Gespräche in den *Lunyu* fest — keine systematische Abhandlung, sondern eine lebendige Sammlung von Dialogen.
 >
@@ -28,7 +28,7 @@ Quelle: [Konfuzius in 60 Minuten](https://www.youtube.com/watch?v=fIonhQe2uIQ)
 > Wichtigstes Werk: *Lunyu* (Gespräche, aufgezeichnet von Schülern, ca. 5. Jh. v. Chr.)
 > Kernkonzepte: Ren (仁, Mitmenschlichkeit), Dao (rechter Weg), Junzi (edler Mensch), Li (Riten), Xiao (Respekt), Goldene Regel
 >
-> → [[DenkerVita/Konfuzius|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Konfuzius|DenkerVita]]
 
 ---
 
@@ -235,11 +235,11 @@ Gabriels These einer universellen, nicht-relativen Moral findet in Konfuzius' Go
 
 Der Disput Konfuzius vs. Daoismus bildet die Trennlinie zwischen Rosas Resonanztheorie (sich von der Welt berühren lassen) und politischem Aktivismus ab. Konfuzius' Dao als Fuß+Kopf (Theorie und Praxis vereinen) bietet eine mögliche Synthese: Nicht entweder Kontemplation oder Aktion, sondern beides in Harmonie.
 
-### → [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
+### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]]
 
 Zhao Tingyang ist der zeitgenössische Denker, der Konfuzius' *Ren*-Prinzip (Mensch als relationales Wesen) in eine vollständige Weltordnungstheorie übersetzt. Seine «konfuzianische Verbesserung» als kooperationstheoretisches Prinzip und die ontologische Kritik am Individualismus als «politische Fiktion» sind direkt aus der konfuzianischen Grundlage entwickelt. Diese Note zeigt die Tradition; die Zhao-Note zeigt, was daraus als globaler Designvorschlag werden kann.
 
 - [[Walther Ziegler — Buddha in 60 Minuten]] — Buddhas Achsenzeit-Genosse mit gegensätzlicher Strategie: Konfuzius kultiviert Tugend in der Gesellschaft, Buddha zieht sich in die Meditation zurück. Derselbe Befund (Leiden an der menschlichen Kondition), aber Rückzug vs. Engagement als Grundentscheidung
 
-### → [[Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
+### → [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
 Zhao entwickelt das konfuzianische relationale Denken sprachphilosophisch weiter: Das Schriftzeichen 仁 (Ren) — Mensch plus Zwei — ist selbst kein Substantiv-Konzept, sondern ein Beziehungsverb. Verb-Denken als philosophisches Programm reaktiviert diese Intuition mit modernen Mitteln: nicht Substanzen, sondern Prozesse und Relationen als Grundkategorien des Denkens.

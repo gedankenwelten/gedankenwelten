@@ -15,7 +15,7 @@ tags: [denker-vita, demografie, medien, deutschland]
 > Wichtigste Werke: *Redaktionsschluss* (2016), *Die Altenrepublik* (2022), *Die Kinderwüste* (2025)
 > Kernkonzepte: Spontanhistorisierung, Altenrepublik, demografischer Wandel, Medienwandel, kognitive vs. normative Strukturen
 >
-> → [[DenkerVita/Stefan Schulz|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Stefan Schulz|DenkerVita]]
 
 ---
 
@@ -76,10 +76,10 @@ Partner Wolfgang M. Schmitt positioniert sich explizit als Marxist; Schulz teilt
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Wolfgang M. Schmitt]] — Partner bei Die Neuen Zwanziger; Schmitts marxistische Kulturkritik und Schulz' systemtheoretischer Blick ergänzen sich produktiv
-- [[DenkerVita/Niklas Luhmann]] — Bielefelder Prägung; Schulz' Unterscheidung kognitiv/normativ und sein Beobachtungsbegriff sind Luhmann-geschult
-- [[DenkerVita/Teresa Bücker]] — Thematische Überschneidung: Bücker denkt Zeitgerechtigkeit, Schulz Generationengerechtigkeit. Beide diagnostizieren eine strukturelle Vernachlässigung von Sorgearbeit und Familien.
-- [[DenkerVita/Erich Fromm]] — Fromms Analyse der „Flucht vor der Freiheit" resoniert mit Schulz' Beobachtung, dass Demokratie strukturell an Überalterung scheitern kann
+- [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt]] — Partner bei Die Neuen Zwanziger; Schmitts marxistische Kulturkritik und Schulz' systemtheoretischer Blick ergänzen sich produktiv
+- [[Gedankenwelten/DenkerVita/Niklas Luhmann]] — Bielefelder Prägung; Schulz' Unterscheidung kognitiv/normativ und sein Beobachtungsbegriff sind Luhmann-geschult
+- [[Gedankenwelten/DenkerVita/Teresa Bücker]] — Thematische Überschneidung: Bücker denkt Zeitgerechtigkeit, Schulz Generationengerechtigkeit. Beide diagnostizieren eine strukturelle Vernachlässigung von Sorgearbeit und Familien.
+- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromms Analyse der „Flucht vor der Freiheit" resoniert mit Schulz' Beobachtung, dass Demokratie strukturell an Überalterung scheitern kann
 
 ---
 

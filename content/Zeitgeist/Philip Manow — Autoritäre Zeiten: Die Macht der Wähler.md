@@ -334,7 +334,7 @@ Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblö
 
 ---
 
-### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Marinićs Ohnmachtsgefühl — das demokratische Versprechen der Mitbestimmung als gebrochenes Versprechen — ist dieselbe Erfahrung wie Manows Souveränitätsverlust durch EU/WTO-Verlagerung. Steinkes "Kamikaze-Lösungen" für 30% AfD-Umfragen sind Manows strukturelle Protestwahl-Logik. Das Debattenproblem Deutschland, das Manow ("erbärmlicher Zustand politischer Kultur") und Steinke/Marinić ("Lösungslust statt Schaufenster-Debatte") unabhängig voneinander benennen, ist ein gemeinsamer blinder Fleck.
 
@@ -363,7 +363,7 @@ Marinićs Ohnmachtsgefühl — das demokratische Versprechen der Mitbestimmung a
 - [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Mau liefert mit der Triggerpunkte-Theorie den Mikromechanismus zu Manows Makroanalyse des Rechtspopulismus: Wie genau Verunsicherung in Wählerverhalten übersetzt wird
 - [[Nico Semsrott — Bruessel sehen und sterben]] — Semsrotts EU-Parlamentsbericht ist ein Fallbeispiel für Manows „autoritären Drift im Gewand parlamentarischer Normalität": Die CDU/CSU nutzt ihre Mehrheitsposition nicht, um Regeln abzuschaffen, sondern um sie wirkungslos zu machen — schleichende Erosion der Kontrollmechanismen von innen
 
-### → [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
 Sahebi/Semsrott benennen das empirische Muster, das Manow theoretisch erklärt: Die AfD steigt trotz historisch niedriger Asylzahlen — weil sie kein Migrations-, sondern ein Souveränitätsproblem adressiert. Die Schwarz-Rot-Migrationsverschärfung löst dieses Grundproblem strukturell nicht.
 
@@ -375,10 +375,10 @@ Krastev liefert die geopolitische Metaebene zu Manows Wähleranalyse: Trumps Woc
 
 Varoufakis' Faschismus-Sequenz (Bankenkollaps → Austerität → Scheitern der Linken → populistische Mimikry → Big-Business-Allianz) liefert den historischen Mechanismus hinter Manows empirischen Daten. Manow erklärt *warum* Wähler autoritäre Parteien wählen; Varoufakis erklärt *wie* der Prozess strukturell abläuft — und warum die Tech-Oligarchen-Allianz die entscheidende neue Stufe ist.
 
-### → [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
+### → [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
 
 BissenBlaBla schließt Manows Analyse zur Kehrseite: Die Protestwahl hat gewählt — und liefert auf der Globalisierungsdimension ebenfalls nicht. Das Dilemma wird sichtbar: Gute Gründe, alte Parteien abzuwählen; schlechte Ergebnisse mit den neuen. Manows Ursachenanalyse + BissenBlaBlas Machtbilanz ergeben das vollständige Bild.
 
-### → [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
 
 IT Mario macht Manows Populismus-Nährboden-Theorie empirisch messbar: Der Populismus-Score der 45.000 Bundestags-Reden zeigt die AfD an der Spitze — exakt das, was Manows Analyse auf der Wählerseite beschreibt, ist hier auf der Redner-Seite quantifiziert.

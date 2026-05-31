@@ -19,7 +19,7 @@ Quelle: [NEWS: Darum hört man NICHTS mehr über Leipzig](https://www.youtube.co
 > [!info] Wer spricht?
 > **Karim Staiy**, bekannt als **Staiy** — deutsch-arabischer YouTuber, Medienkritiker und politischer Kommentator. Betreibt das Portal **[meinungsmache.de](https://meinungsmache.de)** sowie den Podcast **Almanara Bica** (arabisch: „Leuchtturm"). Auf YouTube bekannt für das wiederkehrende Format **„NEWS"**, in dem er aktuelle politische Ereignisse und Medienversagen kommentiert. Einer der profiliertesten progressiven Stimmen der deutschen YouTube-Öffentlichkeit — mit Fokus auf Medienschweigen, Demokratieerosion und Rechtsextremismus.
 >
-> → [[DenkerVita/Staiy|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Staiy|DenkerVita]]
 
 ---
 
@@ -258,11 +258,11 @@ Staiy erwähnt das Magdeburg Demokratiefest der Amadeo Antonio Stiftung als Zivi
 ### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 Beide Notes zeigen den Konflikt zwischen zivilgesellschaftlichen Demokratieinitiativen und rechten Delegitimierungsstrategien. GCA #28 analysiert den strukturellen Angriff auf Stiftungsfinanzierung; Staiy's Magdeburg-Demokratiefest zeigt, was diese Initiativen konkret tun. GCA sieht den Angriff als gezielte Strategie; Staiy beschreibt die Gegenöffentlichkeit in der Praxis.
 
-### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Fallstudie zum Triggermedium-Mechanismus, den Staiy auf Makroebene beschreibt: NiUS erfindet eine islamfeindliche Geschichte (Ramadan-Buffet = "Unterwerfung unter den Islam"), Influencer und AfD-Politiker verstärken — der Teufelskreis aus Angstproduktion und Klickrelevanz in Echtzeit dokumentiert.
 
 ### → [[Marcant — Ausstieg aus der rechten Szene]]
 Innenperspektive zur rechten Mediabubble: Marcant beschreibt den Sogmechanismus des TikTok-Algorithmus aus Eigenerfahrung von Felix. Sein Deradikalisierungsansatz *„Die Flut"* ist eine Praxisantwort auf den Parasozialitäts-Mechanismus, den Staiy bei Tucker Carlson & Co. analysiert — Gegencontent der denselben emotionalen Kanal nutzt, aber mit anderen Werten.
 
-### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
+### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
 Dobusch/Zaboura formulieren auf der re:publica 26 denselben Teufelskreis, den Staiy an der Leipzig/Aschaffenburg-Medienanalyse aufzeigt: strukturelle Medienlogik ohne böse Absicht erzeugt systematisch Bias. Staiy nennt es Klick-Ökonomie, D/Z nennen es „Performing balance by practicing bias" — beide beschreiben denselben Mechanismus, nur auf verschiedenen Qualitätsstufen. Staiys Boulevard-Befund und D/Zs Qualitätsjournalismus-Befund zusammen: Der Teufelskreis gilt überall.

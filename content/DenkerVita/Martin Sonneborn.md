@@ -58,8 +58,8 @@ Sein Stil — Satire mit ernstem Kern — macht es Kritikern leicht, ihn nicht e
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Rainer Mausfeld]] — Mausfelds Elitenkritik und Medienmanipulationsanalyse bilden das theoretische Fundament für Sonneborns politische Satire
-- [[DenkerVita/Nico Semsrott]] — 2019–2021 gemeinsam für Die PARTEI im EU-Parlament; Bruch 2021 über Umgang mit Rassismuskritik. Semsrott liefert die systemische Transparenz-Analyse, die Sonneborns Satire ergänzt
+- [[Gedankenwelten/DenkerVita/Rainer Mausfeld]] — Mausfelds Elitenkritik und Medienmanipulationsanalyse bilden das theoretische Fundament für Sonneborns politische Satire
+- [[Gedankenwelten/DenkerVita/Nico Semsrott]] — 2019–2021 gemeinsam für Die PARTEI im EU-Parlament; Bruch 2021 über Umgang mit Rassismuskritik. Semsrott liefert die systemische Transparenz-Analyse, die Sonneborns Satire ergänzt
 - Noam Chomsky — Manufacturing Consent als intellektuelle Grundlage für Sonneborns Medienkritik
 - Julian Assange — Kronzeuge für Sonneborns These vom Krieg als Geschäftsmodell (WikiLeaks-Enthüllungen)
 

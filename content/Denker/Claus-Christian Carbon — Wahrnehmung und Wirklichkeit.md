@@ -279,6 +279,6 @@ Direkter philosophischer Gegenspieler: Carbon untersucht die konstruktivistische
 
 Böhme als empirische Gegenposition: Wo Carbon betont, dass wir die Welt nie sehen „wie sie ist" (10:1-Rückwärtsverdrahtung als Beweis), distanziert sich Böhme explizit von der Halluzinations-These. Ihre Argumentation: Evolution hat unsere Sinne *in Interaktion* mit der realen Welt optimiert — Wahrnehmung ist Konstruktion, aber eine, die real verankert ist. Produktive Spannung: Carbon zeigt das Ausmaß der Konstruktion, Böhme zeigt deren Realitätsanbindung.
 
-### → [[Denker/Barbara Tversky — Denken beginnt nicht im Kopf]]
+### → [[Gedankenwelten/Denker/Barbara Tversky — Denken beginnt nicht im Kopf]]
 
 Tversky und Carbon teilen denselben konstruktivistischen Befund — das Gehirn konstruiert Wirklichkeit top-down — aber Tversky geht einen Schritt weiter: Die Konstruktion beginnt nicht erst im Cortex, sondern im Körper selbst. Gesten denken mit, räumliche Erfahrung ist das evolutionäre Fundament. Carbons 10:1-Rückwärtsverdrahtung und Tverskeys 50%-Cortex-These sind zwei empirische Belege für dieselbe tiefere Umkehrung: Input ist sekundär, interne Modellierung ist primär.

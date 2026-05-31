@@ -21,14 +21,14 @@ aliases:
 Quelle: [Habermas in 60 Minuten](https://www.youtube.com/watch?v=Z84VJfYp3lY)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen (und östlichen) Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorlesungen verbinden akademische Strenge mit lebendigen Alltagsbeispielen. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen (und östlichen) Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorlesungen verbinden akademische Strenge mit lebendigen Alltagsbeispielen. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Jürgen Habermas** (*1929, Düsseldorf*) — der letzte große Geschichtsphilosoph der Neuzeit. Zunächst Assistent von Theodor W. Adorno am Frankfurter Institut für Sozialforschung, trennte sich Habermas intellektuell früh von dessen kulturpessimistischer Negativen Dialektik. Statt am Verblendungszusammenhang zu verzweifeln, suchte er die Emanzipationskraft woanders: in der Sprache selbst. Sein Hauptwerk *Theorie des kommunikativen Handelns* (1981) wurde in über 43 Sprachen übersetzt — ein Einzel-Denker, der den gesamten Stand der Sozialphilosophie, Sprachphilosophie, Psychoanalyse und Soziologie seiner Epoche in ein eigenes System integriert. Habermas ist auch politisch: Gegner des Irak-Kriegs, Verfechter der europäischen Integration, Stimme in der Nato-Debatte. Die Frankfurter Schule endet mit ihm — nicht im Pessimismus, sondern mit einer hartnäckigen, bescheidenen Vision.
 >
 > Wichtigste Werke: *Strukturwandel der Öffentlichkeit* (1962), *Erkenntnis und Interesse* (1968), *Theorie des kommunikativen Handelns* (1981), *Faktizität und Geltung* (1992)
 > Kernkonzepte: Kommunikatives Handeln, Vier Geltungsansprüche, Herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, Diskursethik
 >
-> → [[DenkerVita/Juergen Habermas|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Juergen Habermas|DenkerVita]]
 
 ---
 
@@ -189,7 +189,7 @@ Habermas antwortet auf den ersten Einwand mit der *operativ wirksamen Fiktion*. 
 
 ---
 
-- [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]] — Forst (Habermas-Schüler) trifft auf Zhao Tingyang im direkten Clash: Habermas' kommunikative Vernunft als Gegenmittel zur Kolonisierung der Lebenswelt vs. Zhaos Diagnose der «neuen Despotie», die institutionelles Redesign erfordert. Die Kolonialisierungs-These und die Tianxia-Demokratiekritik überschneiden sich — die Konsequenzen könnten verschiedener nicht sein.
+- [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]] — Forst (Habermas-Schüler) trifft auf Zhao Tingyang im direkten Clash: Habermas' kommunikative Vernunft als Gegenmittel zur Kolonisierung der Lebenswelt vs. Zhaos Diagnose der «neuen Despotie», die institutionelles Redesign erfordert. Die Kolonialisierungs-These und die Tianxia-Demokratiekritik überschneiden sich — die Konsequenzen könnten verschiedener nicht sein.
 
 ---
 

@@ -28,7 +28,7 @@ Quelle: [StreitClub #17 "Europa allein zu Haus" mit Marie-Agnes Strack-Zimmerman
 >
 > Der **StreitClub** ist eine Veranstaltungsreihe des Forschungsinstituts Gesellschaftlicher Zusammenhalt (FGZ) an der Goethe-Universität Frankfurt — ein Format, das demokratische Streitkultur modellhaft vorführt.
 >
-> → [[DenkerVita/Marie-Agnes Strack-Zimmermann|DenkerVita Strack-Zimmermann]] · [[DenkerVita/Marc Felix Serrao|DenkerVita Serrao]] · [[DenkerVita/Nicole Deitelhoff|DenkerVita Deitelhoff]] · [[DenkerVita/Michel Friedman|DenkerVita Friedman]]
+> → [[Gedankenwelten/DenkerVita/Marie-Agnes Strack-Zimmermann|DenkerVita Strack-Zimmermann]] · [[Gedankenwelten/DenkerVita/Marc Felix Serrao|DenkerVita Serrao]] · [[Gedankenwelten/DenkerVita/Nicole Deitelhoff|DenkerVita Deitelhoff]] · [[Gedankenwelten/DenkerVita/Michel Friedman|DenkerVita Friedman]]
 
 ---
 

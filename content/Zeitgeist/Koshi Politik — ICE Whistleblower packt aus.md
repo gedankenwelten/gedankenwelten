@@ -115,7 +115,7 @@ Kemper: ICE als Prototyp einer technofaschistischen Durchsetzungsstruktur — hi
 
 "Dummheit" als systemische Entmündigung: Kadetten werden aktiv darin geschult, nicht zu fragen, nicht zu wissen, was sie dürfen und was nicht
 
-### → [[Zeitgeist/Morpheus - Whistleblower mundtot machen]]
+### → [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]]
 
 Spiegelstruktur: Während ICE Whistleblower intern durch institutionelle Machtlosigkeit mundtot macht, macht Objection.ai dies extern durch KI-Tribunale. In beiden Fällen soll, wer aufdeckt, keine Verteidigungsmittel haben.
 

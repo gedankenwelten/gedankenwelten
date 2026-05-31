@@ -23,7 +23,7 @@ Quelle: [Zwischen Politik und Sekte: Die Psychologie der Kontrolle | Offene Idee
 > Wichtigste Werke: *Mai 68, un pavé dans leur histoire* (2014), *L'Enfance de l'ordre* (mit W. Lignier, 2017), *Le prophète rouge* (2024)
 > Kernkonzepte: Charismatische Herrschaft (Weber), Herrschaft vs. Beherrschen, Passing/Dissimulation
 >
-> → [[DenkerVita/Julie Pagis|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Julie Pagis|DenkerVita]]
 
 ---
 

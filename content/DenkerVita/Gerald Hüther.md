@@ -73,7 +73,7 @@ Sein politisches Grundmotiv lässt sich als **anarcho-humanistisch** lesen: Mün
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Erich Fromm]] — Fromm und Hüther beschreiben dieselbe Krankheit aus verschiedenen Winkeln: Fromm nennt sie *Haben-Modus*, Hüther *Verwicklung*. Beide kritisieren die Wirtschaft als Treiber der Selbstentfremdung. Fromm setzt auf den *Sein-Modus*, Hüther auf das *Gelingen* statt Erfolg.
+- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromm und Hüther beschreiben dieselbe Krankheit aus verschiedenen Winkeln: Fromm nennt sie *Haben-Modus*, Hüther *Verwicklung*. Beide kritisieren die Wirtschaft als Treiber der Selbstentfremdung. Fromm setzt auf den *Sein-Modus*, Hüther auf das *Gelingen* statt Erfolg.
 
 - **Hartmut Rosa** — Was Rosa *Resonanz* nennt, nennt Hüther *Gelingen*: nicht herstellbar, nicht garantierbar, nur ermöglichbar. Beide kritisieren die Verfügbarmachungslogik der Moderne. Rosa kommt von der Soziologie, Hüther von der Neurobiologie — sie treffen sich in der Mitte. → siehe [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 

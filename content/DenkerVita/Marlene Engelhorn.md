@@ -107,11 +107,11 @@ Ihre Radikalität liegt in der **konzeptuellen Kohärenz**: Sie nimmt die bürge
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Panel mit Engelhorn, Kühnert, Friedrichs, Pfeffer; zentrale Quelle ihrer Kernthesen
-- [[DenkerVita/Martyna Linartas]] — Forschung zu Erbengesellschaft und unverdientes Vermögen; strukturelle Parallele zu Engelhorn
-- [[DenkerVita/Clara Mattei]] — Geschichte der Austeritätspolitik; zeigt wie Klassenpolitik die Umverteilung verhindert
-- [[DenkerVita/Evan Osnos]] — Megayachten und Oligarchie; Gegenperspektive auf Ultrareiche
-- [[DenkerVita/Erich Fromm]] — »Haben oder Sein«; Fromm als theoretischer Vorgänger zu Engelhorns Kritik
+- [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]] — Panel mit Engelhorn, Kühnert, Friedrichs, Pfeffer; zentrale Quelle ihrer Kernthesen
+- [[Gedankenwelten/DenkerVita/Martyna Linartas]] — Forschung zu Erbengesellschaft und unverdientes Vermögen; strukturelle Parallele zu Engelhorn
+- [[Gedankenwelten/DenkerVita/Clara Mattei]] — Geschichte der Austeritätspolitik; zeigt wie Klassenpolitik die Umverteilung verhindert
+- [[Gedankenwelten/DenkerVita/Evan Osnos]] — Megayachten und Oligarchie; Gegenperspektive auf Ultrareiche
+- [[Gedankenwelten/DenkerVita/Erich Fromm]] — »Haben oder Sein«; Fromm als theoretischer Vorgänger zu Engelhorns Kritik
 
 ---
 

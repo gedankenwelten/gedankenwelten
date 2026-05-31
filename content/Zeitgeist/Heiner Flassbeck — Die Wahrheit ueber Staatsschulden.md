@@ -19,7 +19,7 @@ Quelle: [Flassbeck spricht: Die Wahrheit über Staatsschulden](https://www.youtu
 >
 > Kernkonzepte: Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden
 >
-> → [[DenkerVita/Heiner Flassbeck|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Heiner Flassbeck|DenkerVita]]
 
 ---
 

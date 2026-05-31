@@ -198,34 +198,34 @@ Mitschke macht auch auf einen Widerspruch aufmerksam, der im Diskurs oft unterge
 
 ## Verbindungen
 
-### → [[Zeitgeist/Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gedankenwelten/Zeitgeist/Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 GCA #28 dokumentiert die Kürzung von *Demokratie Leben!* aus Berliner Zentralperspektive — Extremismusklauseln, das Schweigen zivilgesellschaftlicher Organisationen aus Angst vor Folgeförderung. Das rp26-Panel zeigt die Konsequenz im Osten: Romy Arnold belegt, dass Thüringen und Sachsen-Anhalt ohne alternative Auffangstrukturen dastehen, wenn dieser Geldhahn dreht. Wo GCA #28 die Mechanik beschreibt, beschreibt das Panel die menschlichen Kosten.
 
-### → [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]]
+### → [[Gedankenwelten/Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]]
 
 El-Mafaalani analysiert Ostdeutschland als Misstrauensgemeinschaft mit eigener Sozialisationsgeschichte. Das rp26-Panel ergänzt die strukturelle Dimension: Wenn Misstrauen durch reale Unterrepräsentation — 3 % Ostdeutsche in der Justiz, 4 % in der Wirtschaft — historisch *berechtigt* war, ist es kein irrationaler Affekt, sondern akkumuliertes Wissen über systemische Ausgrenzung.
 
-### → [[Denker/Steffen Mau — Spaltung der Gesellschaft]]
+### → [[Gedankenwelten/Denker/Steffen Mau — Spaltung der Gesellschaft]]
 
 Mau beschreibt AfD-Hochburgen nicht als irrationalen Protest, sondern als Reaktion auf gezielte Trigger. Alexander Prinz' These, dass die AfD-Stärke im Osten eine *Milieufrage* ist — vergleichbar Oberpfalz oder Ruhrpott — bestätigt Maus Analyse und benennt dieselbe Langfriststrategie: echte Partei-Präsenz vor Ort, nicht symbolische Sichtbarkeit.
 
-### → [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
+### → [[Gedankenwelten/Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
 
 MONITOR liefert die Zahlenbasis und fragt *warum* Menschen trotz Skandalen AfD wählen. Das rp26-Panel fragt *was tun wenn sie 41 % hat* — denkt die MONITOR-Analyse als Ernstfall-Szenario konsequent weiter, statt bei Ursachenforschung stehen zu bleiben.
 
-### → [[Panorama/NoAfD]]
+### → [[Gedankenwelten/Panorama/NoAfD]]
 
 Das Panorama bündelt die ideologische Anatomie der AfD. Das rp26-Panel bringt die zivilgesellschaftliche Praxis-Dimension hinzu: nicht Partei-Analyse, sondern konkrete Resilienzfragen — MDR-Szenario, Bundesrat-Minderheitenschutz, AfD-Verbotsverfahren aus Menschenrechtsperspektive. Theorie trifft auf Handlungslogik.
 
-### → [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+### → [[Gedankenwelten/Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 Frickes Kernthese — AfD stark wo Ausländeranteil niedrig, aber Kontrollverlust hoch — bekommt durch das rp26-Panel ein konkretes Ostgesicht: Die Erbschaftslücke (10.000 € Ost vs. 250.000 € Bayern/BW) ist kein *gefühlter* Kontrollverlust, sondern strukturell kumuliertes Vermögensgefälle. Die Makroanalyse bekommt ein empirisch belegtes Fundament.
 
-### → [[Panorama/Gelebte Demokratie]]
+### → [[Gedankenwelten/Panorama/Gelebte Demokratie]]
 
 Das Panorama beschreibt demokratische Praxis als aktive Herstellung. Das rp26-Panel zeigt die Rückseite: Was passiert, wenn diese Infrastruktur im Osten unterfinanziert ist? Demokratie muss dann unter Mangelbedingungen gelebt werden — das ist keine Kritik am Panorama, sondern seine dringende Erweiterung.
 
-### → [[Denker/Heiner Flassbeck — Krise und Rechtsruck]]
+### → [[Gedankenwelten/Denker/Heiner Flassbeck — Krise und Rechtsruck]]
 
 Flassbeck erklärt Rechtsruck durch makroökonomische Ohnmacht. Daniel Günthers Strategie — Bundesrat-Resilienz, Big-Tech-Exit aus SH-Verwaltung, Digitalabgabe — ist der institutionelle Gegenentwurf: nicht auf Bewusstseinswandel warten, sondern Strukturen gegen den Ernstfall härten, bevor er eintritt. Ohnmacht als Diagnose trifft auf Resilienz als Therapie.

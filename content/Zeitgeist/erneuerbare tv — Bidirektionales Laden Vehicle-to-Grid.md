@@ -153,35 +153,35 @@ Das ist der entscheidende Unterschied zu proprietären Insellösungen: Nur Inter
 
 ## Verbindungen
 
-### → [[Panorama/Energie]]
+### → [[Gedankenwelten/Panorama/Energie]]
 
 Das Energie-Panorama dokumentiert die politischen Blockaden der deutschen Energiewende: Drehtür-Lobbyismus (Reiche), Batterie-Ausschluss durch 10-Stunden-Regel, Doppelbesteuerung. Utrecht zeigt das komplementäre Bild: Was möglich ist, wenn der regulatorische Rahmen passt. Die 800 eingesparten Trafohäuschen sind das direkte Gegenstück zur deutschen Redispatch-Misere.
 
-### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+### → [[Gedankenwelten/Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 
 Goldbach zeigt, warum Batteriespeicher in Deutschland politisch ausgebremst werden (10-Stunden-Mindestlaufzeit). Vehicle-to-Grid ist die mobile Variante desselben Prinzips — und scheitert in Deutschland am selben Mechanismus: der Doppelbesteuerung. Zwei Hemmnisse, dieselbe Logik.
 
-### → [[Zeitgeist/erneuerbare tv — Sommerwaerme im Erdreich]]
+### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Sommerwaerme im Erdreich]]
 
 Beide Videos derselben Quelle zeigen dasselbe Grundprinzip aus unterschiedlichen Winkeln: nicht zentrale Großprojekte, sondern intelligente Integration vorhandener Ressourcen (Erdreich als Speicher / E-Auto als Speicher). Dezentrales Energiemanagement als Systemstrategie.
 
-### → [[Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft]]
+### → [[Gedankenwelten/Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft]]
 
 Sterner zeigt: Das StromVKG schließt Batteriespeicher durch technische Kriterien gezielt aus. V2G ist noch nicht mal in diesem Diskurs — es ist eine Technologie, für die Deutschland nicht mal einen halbwegs sinnvollen Rechtsrahmen hat. Utrecht ist 2025 real. Deutschland diskutiert noch.
 
-### → [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien]]
+### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien]]
 
 Specht argumentiert, dass der eigentliche Wettbewerb nicht Kraftwerke vs. Erneuerbare ist, sondern Kraftwerke vs. Speicher. V2G ist genau dieser Speicher in seiner dezentralsten Form. Spechts Kritik an politisch erzwungenen Gaskraftwerk-Subventionen spiegelt die V2G-Doppelbesteuerungs-Blockade: Wer Speicher hemmt, subventioniert implizit Kraftwerke.
 
-### → [[Zeitgeist/Akkudoktor — Lanz und die Energiewende]]
+### → [[Gedankenwelten/Zeitgeist/Akkudoktor — Lanz und die Energiewende]]
 
 Beide Notes arbeiten an derselben epistemischen Frontlinie: Wie regulatorische Konstrukte (Primärenergie-Statistik, Doppelbesteuerung) den Fortschritt nicht nur verlangsamen, sondern im öffentlichen Bewusstsein unsichtbar machen. Akkudoktor für die Statistik-Falle, dieses Video für die regulatorische Falle.
 
-### → [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+### → [[Gedankenwelten/Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 
 Kemfert beschreibt E-Mobilität als Ausweg aus fossiler Abhängigkeit. V2G ist die logische Verlängerung: Das E-Auto nicht nur als Verbrauchsgerät, das aus dem Netz zieht, sondern als aktiver Bestandteil der Energiewende, der zurückgibt. Die Verbindung ist nicht das Thema, sondern die Richtung des Denkens.
 
-### → [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+### → [[Gedankenwelten/Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 
 Die Doppelbesteuerung für V2G ist strukturell dasselbe Muster wie versteckte Atomsubventionen: eine Asymmetrie, die nicht aus dem Markt kommt, sondern aus politischem Design — und durch ihre Unsichtbarkeit besonders wirksam ist. Wer kennt schon die V2G-Steuerregeln?
 
