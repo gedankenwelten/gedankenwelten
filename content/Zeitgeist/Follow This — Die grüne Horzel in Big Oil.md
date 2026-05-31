@@ -183,6 +183,10 @@ Drehtür-Lobbyismus als Gegengewicht zu Follow This: Während Aktionäre von au�
 
 ### → [[Erich Fromm — Haben oder Sein]]
 
+### → [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
+
+Stremlau und Follow This verfolgen denselben Grundgedanken — Kapital ist niemals neutral — aber mit entgegengesetzten Hebeln: Follow This erzwingt Verantwortung von innen durch Aktionärsrechte, Stremlau gestaltet den Rahmen von außen durch EU-Taxonomie und Beiratsarbeit. Van Baals "Divestment gibt Einfluss ab" ist das Spiegelbild von Stremlaus "Wer drin ist, kann gestalten".
+
 Van Baals Divestment-Kritik ist Fromm in Reinform: Wer sich zurückzieht (verkauft), gibt Handlungsmacht ab. Wer bleibt und kämpft, lebt den Sein-Modus — Verantwortung statt Komfort.
 
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]

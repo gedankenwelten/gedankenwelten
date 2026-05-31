@@ -236,6 +236,10 @@ Produktiver konzeptueller Widerspruch: Beide sehen in 2008 den Wendepunkt zum au
 ### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 Kemper analysiert Faschismus als strukturelles Phänomen moderner Gesellschaften — Dörres These, Faschismus sei in liberalen Demokratien angelegt und wachse von innen, schließt direkt an Kempers Analyse an.
 
+### → [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
+
+Stremlau beschreibt den ESG-Backlash als konzertierte Lobby-Strategie von Unternehmen, die den Strukturwandel verhindern wollen. Dörre erklärt den soziologischen Grund dafür: Transformationswiderstand ist kein Versehen, sondern Klasseninteresse — Kapital handelt unter dem Druck kurzfristiger Eigenkapitalrenditen, nicht langfristiger gesellschaftlicher Notwendigkeit. Stremlaus empirischer Befund bekommt durch Dörre eine strukturanalytische Erklärung.
+
 ### → [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik]]
 Mouffe argumentiert für einen agonistischen Demokratiebegriff, der Konflikt als konstitutiv begreift. Dörres Konzept der Konfliktpartnerschaft — Konflikte als Produktivkraft statt zu unterdrücken — ist das Pendant auf Betriebsebene. Beide stellen sich gegen post-politische Konsensvorstellungen.
 

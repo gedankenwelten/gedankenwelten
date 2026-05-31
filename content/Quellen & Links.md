@@ -6,6 +6,26 @@ tags:
   - links
 ---
 
+## Silke Stremlau & Maja Göpel — Investieren NEU DENKEN (Mission Wertvoll, 2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Investieren NEU DENKEN mit Silke Stremlau](https://www.youtube.com/watch?v=f9L5eHdfniM) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Stremlau_Investieren_Transkript.txt` |
+
+## Silke Stremlau — DenkerVita (Geschäftsführerin Finance for Transition)
+
+| | |
+|---|---|
+| **Website** | [silke-stremlau.de](https://www.silke-stremlau.de/) |
+| **Offizielle Bio** | Geschäftsführerin Finance for Transition (F4T gGmbH), Vorsitzende Sustainable Finance-Beirat der Bundesregierung (2019–2025) |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Silke Stremlau]] |
+| **Interviews** | [Finanzfluss: Ist ESG-Investing am Ende?](https://megaphone.link/FGH8096957738) · [Investieren NEU DENKEN mit Maja Göpel](https://www.youtube.com/watch?v=f9L5eHdfniM) · [Grad Global: Finanzmarkt nachhaltig aufstellen](https://open.spotify.com/episode/2Y7p4RqlrTFRX2xsVQzFMo) |
+| **Publikationen** | ZEIT Academy Kurs "Nachhaltig Investieren" (2024) · FAZ-Porträt "Raus aus der Nische" (2024) · BaFin-Journal "Nachhaltigkeit als Chance" (2019) |
+| **Kernthesen** | Geld ist niemals neutral · Kapitalallokation als politisches Problem · Langfristkapital schlägt Renditekapital · Transformationsfinanzierung erfordert Mut, Haltung, Zuversicht |
+
+
 ## NANO Talk — Eliten: Zwischen Machtmissbrauch und Verantwortung (3sat, 2026)
 
 | | |

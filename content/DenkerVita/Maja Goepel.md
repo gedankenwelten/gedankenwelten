@@ -56,3 +56,4 @@ Heute ist sie Professorin, öffentliche Intellektuelle und Gastgeberin von **NEU
 - [[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN]] — Gespräch über Gestaltungsmacht und demokratische Kultur
 - [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Gespräch über Vermögensungleichheit und strukturelle Machtkonzentration
 - [[Gedankenwelten/Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]] — Keynote über Agency gegen Ohnmacht, BIP-Kritik und die Verteidigung des Green Deal
+- [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN|Stremlau & Göpel — Investieren NEU DENKEN]] — Gespräch über ESG-Evolution, EU-Taxonomie und Transformationsfinanzierung; "Geld ist niemals neutral"

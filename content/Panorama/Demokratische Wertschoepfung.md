@@ -183,6 +183,10 @@ Energiegenossenschaften als konkrete Umsetzung. Bürgerenergie, MEFA Kupferzell,
 Die anthropologische Tiefe: Mitgliedschaft statt Besitz. Sein statt Haben als strukturelles Prinzip der Genossenschaft.
 
 ---
+### → [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
+
+Das Panorama zeigt, dass Unternehmensform Kapitalflüsse steuert (Genossenschaft: Wertschöpfung bleibt dort wo sie entsteht). Stremlau ergänzt die Kapitalmarktperspektive: Die Frage ist nicht nur, welche Unternehmensform man wählt, sondern welche Kapitalallokation man aktiv betreibt. "Geld ist niemals neutral" und "1P=1 Stimme" sind zwei Seiten einer demokratischen Kapitalphilosophie.
+
 
 ## Weiterdenken
 

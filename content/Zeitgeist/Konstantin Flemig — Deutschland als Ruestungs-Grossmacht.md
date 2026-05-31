@@ -175,6 +175,10 @@ Munitionsproduktion im Maßstab von 1,1 Millionen Schuss benötigt Rohstoffe —
 
 ---
 
+### → [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
+
+Stremlau und Göpel setzen die analytische Gegenkategorie zu Flemigs Rüstungsboom: "notwendig aber nicht nachhaltig" (regrettable necessities). Flemig beschreibt, wie Rüstung zur neuen Jobmaschine wird; Stremlau erklärt, warum das keine Taxonomie-Kategorie werden darf — Waffen zerstören, was Transformation aufbauen soll. Zwei Notes, die dieselbe gesellschaftliche Wette aus entgegengesetzten Perspektiven beleuchten.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

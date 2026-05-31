@@ -211,3 +211,8 @@ China liefert eine unbequeme Antwort auf Göpels Wachstumskritik: Das Land wäch
 ### → [[Gedankenwelten/Panorama/Demokratische Wertschoepfung]]
 
 Göpels These — BIP misst nicht Wohlstand — ist die ökonomische Begründung, warum Genossenschaftsleistung politisch unsichtbar bleibt. Das Panorama zeigt die institutionelle Antwort.
+
+### → [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
+
+Stremlau schließt direkt an die Transformationslücke an, die Truger fiskalpolitisch beschreibt: Wo Truger das Scheitern staatlicher Investitionspolitik (Schuldenbremse) analysiert, benennt Stremlau das Scheitern privater Kapitalkoordination — Pensionskassenmilliarden finden keine bankfähigen Transformationsprojekte. Beide Seiten derselben Investitionslücke, zwei komplementäre Diagnosen.
+

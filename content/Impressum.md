@@ -17,9 +17,11 @@ Ludwig-Erhard-Str. 18<br>
 
 ---
 
-Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:
-
 **Andreas Schmieder**<br>
 c/o IP-Management #10397<br>
 Ludwig-Erhard-Str. 18<br>
 20459 Hamburg
+
+---
+
+Siehe auch: [[Gedankenwelten/Datenschutz|Datenschutzerklärung]] · [[Gedankenwelten/MCP|MCP-Server Dokumentation]]
