@@ -15,7 +15,7 @@ tags: [denker-vita, kulturkritik, kapitalismus, medien]
 > Wichtigste Werke: *Influencer: Die Ideologie der Werbekörper* (2021, mit Ole Nymoen), *Die Filmanalyse: Kino anders gedacht* (2023)
 > Kernkonzepte: Ideologiekritische Filmanalyse, Kulturindustrie 2.0, Influencer als Symptomfiguren, Neoliberalismus im Mainstream-Kino
 >
-> → [[DenkerVita/Wolfgang M. Schmitt|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|DenkerVita]]
 
 ---
 
@@ -78,9 +78,9 @@ Stilistisch wird er als „Marxismus im Maßanzug" beschrieben — rhetorisch ve
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Stefan Schulz]] — Partner bei Die Neuen Zwanziger; Schulz' Luhmann-geschulter Systemblick ergänzt Schmitts marxistische Kulturkritik
-- [[DenkerVita/Erich Fromm]] — Fromms Analyse des Haben-Modus resoniert direkt mit Schmitts Influencer-Kritik: die Verwechslung von Sein mit Besitzen/Zeigen
-- [[DenkerVita/Maurice Hoefgen]] — Gemeinsame Sache in der ökonomischen Aufklärung; Höfgen liefert die MMT-Grundlagen, Schmitt die kulturelle Einbettung
+- [[Gedankenwelten/DenkerVita/Stefan Schulz]] — Partner bei Die Neuen Zwanziger; Schulz' Luhmann-geschulter Systemblick ergänzt Schmitts marxistische Kulturkritik
+- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromms Analyse des Haben-Modus resoniert direkt mit Schmitts Influencer-Kritik: die Verwechslung von Sein mit Besitzen/Zeigen
+- [[Gedankenwelten/DenkerVita/Maurice Hoefgen]] — Gemeinsame Sache in der ökonomischen Aufklärung; Höfgen liefert die MMT-Grundlagen, Schmitt die kulturelle Einbettung
 
 ---
 

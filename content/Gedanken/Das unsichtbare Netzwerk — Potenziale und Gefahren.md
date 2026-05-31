@@ -15,7 +15,7 @@ aliases:
 
 # Das unsichtbare Netzwerk — Potenziale und Gefahren
 
-> Zweiter Teil einer Reihe. Fundament: [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] · Weiter: [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
+> Zweiter Teil einer Reihe. Fundament: [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] · Weiter: [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
 > Entstanden am 24.05.2026 aus einem Gespräch über die Doppelnatur des unsichtbaren Netzwerks.
 
 ---
@@ -80,7 +80,7 @@ Die Antwort auf Hammer und Meißel war einfach: Erkenn die Quelle. Identifizier 
 
 Die Antwort auf Skalpell und Nadel braucht eine feinere Membran. Nicht „ist das laut?" — das ist die falsche Frage. Sondern: **Hat dieser Faden sein Dogma abgelegt, oder trägt er es verborgen?**
 
-Das ist die Frage der [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]. Die Brandmauer filtert nicht nach Erscheinung, sondern nach Substanz. Nicht nach Lautstärke, sondern nach verborgener Richtung.
+Das ist die Frage der [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]. Die Brandmauer filtert nicht nach Erscheinung, sondern nach Substanz. Nicht nach Lautstärke, sondern nach verborgener Richtung.
 
 Aber das ist schwerer zu beantworten als „ist das Propaganda?". Es braucht ein entwickeltes Gespür — für den Moment, in dem ein Faden angeboten wird, und für die Frage, ob er tatsächlich frei ist oder ob er etwas mitbringt, das sich erst später zeigt.
 
@@ -102,11 +102,11 @@ Das Paradoxe: Das unsichtbare Netzwerk — das echte, fadenbasierte — ist selb
 
 ## Verbindungen
 
-- [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] — Fundament dieser Note. Die positive Architektur, deren Kehrseite hier beleuchtet wird.
-- [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]] — Die Filterfrage: nicht Lautstärke, sondern verborgenes Dogma. Die Brandmauer ist die praktische Antwort auf das Skalpell-Problem.
-- [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]] — Skalpell und Nadel operieren sprachlich. Wer Begriffe prägt ohne Hammer, prägt umso tiefer. Höckes Strategie und ihre Mutation ins Subtile.
-- [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld beschreibt das System, das von Skalpell und Nadel profitiert: Apathie als Systemziel, Begriffe als Herrschaftsinstrument.
-- [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Resonanz vs. Echo vs. Duplikat. Rosas Begriffe werden hier an ihre Grenzen geführt.
+- [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] — Fundament dieser Note. Die positive Architektur, deren Kehrseite hier beleuchtet wird.
+- [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]] — Die Filterfrage: nicht Lautstärke, sondern verborgenes Dogma. Die Brandmauer ist die praktische Antwort auf das Skalpell-Problem.
+- [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]] — Skalpell und Nadel operieren sprachlich. Wer Begriffe prägt ohne Hammer, prägt umso tiefer. Höckes Strategie und ihre Mutation ins Subtile.
+- [[Gedankenwelten/Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld beschreibt das System, das von Skalpell und Nadel profitiert: Apathie als Systemziel, Begriffe als Herrschaftsinstrument.
+- [[Gedankenwelten/Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Resonanz vs. Echo vs. Duplikat. Rosas Begriffe werden hier an ihre Grenzen geführt.
 
 ---
 

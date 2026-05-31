@@ -25,7 +25,7 @@ Quelle C: [Suraj Yengde — "The Dalitality in Du Bois and Ambedkar: Color, Clas
 >
 > Seine wichtigsten Werke: *Annihilation of Caste* (1936), *The Buddha and His Dhamma* (1957, posthum), *Castes in India* (1916), *What Congress and Gandhi Have Done to the Untouchables* (1945)
 >
-> → [[DenkerVita/B.R. Ambedkar|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/B.R. Ambedkar|DenkerVita]]
 
 ---
 
@@ -158,10 +158,10 @@ Das ist eine globale Konstante: Es ist einfacher, gegen Unrecht zu kämpfen, das
 
 ## Verbindungen
 
-- [[Zeitgeist/Mbembe — The Earthly Community]] — Mbembes *Nekropolitik* und Ambedkars Kastensystem teilen die Grundfrage: Wer hat das Recht zu bestimmen, wessen Leben zählt? Beide kommen von unterdrückten Gesellschaften zu globalen philosophischen Kategorien.
-- [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen]] — Wie Soroush den Islam von innen reformiert, transformiert Ambedkar den Buddhismus von innen. Beide bewegen sich in der gefährlichen Zone zwischen Religionskritik und religiöser Erneuerung.
-- [[Denker/Walther Ziegler — Marx in 60 Minuten]] — Ambedkars Auseinandersetzung mit Marx ist zentral: Er akzeptiert die Kapitalismuskritik, ergänzt sie aber um die Kastenanalyse. Klasse allein erklärt Indien nicht.
-- [[Denker/Walther Ziegler — Schopenhauer in 60 Minuten]] — Ambedkars Reinterpretation von *Dukkha* steht in interessanter Spannung zu Schopenhauers Leidensphilosophie: Während Schopenhauer individuelle Askese als Ausweg sieht, setzt Ambedkar auf kollektive politische Transformation.
+- [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]] — Mbembes *Nekropolitik* und Ambedkars Kastensystem teilen die Grundfrage: Wer hat das Recht zu bestimmen, wessen Leben zählt? Beide kommen von unterdrückten Gesellschaften zu globalen philosophischen Kategorien.
+- [[Gedankenwelten/Denker/Abdolkarim Soroush — Reformation des Glaubens von innen]] — Wie Soroush den Islam von innen reformiert, transformiert Ambedkar den Buddhismus von innen. Beide bewegen sich in der gefährlichen Zone zwischen Religionskritik und religiöser Erneuerung.
+- [[Gedankenwelten/Denker/Walther Ziegler — Marx in 60 Minuten]] — Ambedkars Auseinandersetzung mit Marx ist zentral: Er akzeptiert die Kapitalismuskritik, ergänzt sie aber um die Kastenanalyse. Klasse allein erklärt Indien nicht.
+- [[Gedankenwelten/Denker/Walther Ziegler — Schopenhauer in 60 Minuten]] — Ambedkars Reinterpretation von *Dukkha* steht in interessanter Spannung zu Schopenhauers Leidensphilosophie: Während Schopenhauer individuelle Askese als Ausweg sieht, setzt Ambedkar auf kollektive politische Transformation.
 
 ---
 

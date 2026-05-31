@@ -21,7 +21,7 @@ Quelle: [Flassbeck spricht: ALLES FALSCH! Deutschlands Lohn-Irrsinn | Folge 08](
 >
 > Kernkonzepte: Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden
 >
-> → [[DenkerVita/Heiner Flassbeck|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Heiner Flassbeck|DenkerVita]]
 
 ---
 
@@ -142,27 +142,27 @@ Besonders auffällig: Nicht nur die Politiker irren — auch die **Wirtschaftsin
 
 ## Verbindungen
 
-### → [[Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu]]
+### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu]]
 
 Direkter Vorläufer: Dort analysiert Flassbeck die strukturelle Lohnzurückhaltung als politisches Tabu. Hier setzt er nach — und macht Merz' Rede zum konkreten Auslöser. Dasselbe Argument, jetzt mit einem realen politischen Ereignis als Aufhänger.
 
-### → [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
+### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
 
 Thematisch eng verbunden: Merz als Figur taucht dort ebenfalls auf — mit einer anderen Falschaussage (Rente). Das Muster ist identisch: Jurist erklärt komplexe Ökonomie für einfach und liegt fundamental daneben.
 
-### → [[Zeitgeist/Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
+### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
 
 Die Deflationsgefahr, die Flassbeck hier anspricht, ist direkte Folge der Nachfragekrise, die er in jener Note analysiert. Niedrige Löhne → schwache Binnennachfrage → Wachstum nur via Exporte → Handelsungleichgewichte → Systemspannung in der Eurozone.
 
-### → [[Zeitgeist/Heiner Flassbeck — Die Wahrheit ueber Staatsschulden]]
+### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Die Wahrheit ueber Staatsschulden]]
 
 Die Exportüberschuss-Kritik verbindet sich mit der Schuldenlogik: Deutschlands Überschüsse sind buchhalterisch die Schulden der Anderen. Wer auf Exportüberschüsse setzt, zwingt die Partnerländer in die Verschuldung.
 
-### → [[Denker/Heiner Flassbeck — Krise und Rechtsruck]]
+### → [[Gedankenwelten/Denker/Heiner Flassbeck — Krise und Rechtsruck]]
 
 Die Denker-Note liefert die politische Konsequenzkette, die der „Lohn-Irrsinn" makroökonomisch vorbereitet: Lohndumping → Exportüberschuss → Deindustrialisierung in Frankreich, Italien, Polen → Arbeitslosigkeit → Rechtsruck. Hier beschreibt Flassbeck den wirtschaftshistorischen Mechanismus (Schröder-Ära, Lohnstückkosten), dort erklärt er, was daraus wird — Le Pen, Meloni, AfD. Die Demokratiegefährdungsthese ist damit buchstäblich belegt.
 
-### → [[Zeitgeist/MONITOR — Minijobs als Armutsfalle]]
+### → [[Gedankenwelten/Zeitgeist/MONITOR — Minijobs als Armutsfalle]]
 
 Empirisches Komplement: MONITOR zeigt den institutionellen Mechanismus, durch den Lohndumping im Klein-Klein der Arbeitsmarktpolitik organisiert wird — Minijobs als Hartz-Erbe, 500.000 verdrängte Sozialversicherungsjobs. Flassbeck analysiert dasselbe von der makroökonomischen Höhe: Nicht die Arbeitnehmer sind zu teuer, sondern das System produziert systematisch Prekarität. MONITOR liefert die Gesichter, Flassbeck die Logik dahinter.
 

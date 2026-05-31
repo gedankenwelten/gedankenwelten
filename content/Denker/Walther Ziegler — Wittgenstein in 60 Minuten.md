@@ -20,14 +20,14 @@ aliases:
 Quelle: [Wittgenstein in 60 Minuten](https://www.youtube.com/watch?v=MPloJBS0K-I)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen (und östlichen) Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorlesungen verbinden akademische Strenge mit lebendigen Alltagsbeispielen. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„Große Denker in 60 Minuten"*. Ziegler hat sich einer seltenen Aufgabe verschrieben: die komplexesten Gedankengebäude der abendländischen (und östlichen) Philosophie in jeweils einer Stunde zugänglich zu machen — ohne zu trivialisieren. Seine Vorlesungen verbinden akademische Strenge mit lebendigen Alltagsbeispielen. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Ludwig Wittgenstein** (*1889, Wien — 1951, Cambridge*) — Pionier und Begründer der Sprachphilosophie, einer der bedeutendsten Philosophen des 20. Jahrhunderts. Als Sohn einer der reichsten Familien Österreichs hätte er ein bequemes Leben führen können. Stattdessen: freiwillig an die Front im Ersten Weltkrieg, Volksschullehrer in der österreichischen Provinz, Gärtnergehilfe in einem Kloster, Architekt für seine Schwester, am Ende Professor in Cambridge. Kein Denker des 20. Jahrhunderts führte ein gesprocheneres und zugleich widersprüchlicheres Verhältnis zu seiner eigenen Philosophie. Der Tractatusverfasser, der erkannte, dass sein Werk selbst unsinnig ist. Der Logiker, der sagte: „Wie kann ich Logiker sein, wenn ich noch kein Mensch bin?" Das *beredete Schweigen* seiner Philosophie — lauter als jedes geschriebene Wort.
 >
 > Wichtigste Werke: *Tractatus logico-philosophicus* (1921), *Philosophische Untersuchungen* (1953, posthum)
 > Kernkonzepte: Linguistic Turn, Bildtheorie der Sprache, Sprachspiele, Lebensform, beredetes Schweigen
 >
-> → [[DenkerVita/Ludwig Wittgenstein|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Ludwig Wittgenstein|DenkerVita]]
 
 ---
 
@@ -279,7 +279,7 @@ Adorno und die Frankfurter Schule übernahmen Wittgensteins Sprachkritik — und
 
 Sartre und Wittgenstein teilen die Diagnose der Kontingenz — die Welt hätte auch anders sein können — und ziehen entgegengesetzte Konsequenzen. Sartre: Radikale Freiheit und Verantwortung folgen daraus, in einer sinnlosen Welt Sinn zu setzen. Wittgenstein: Schweigen über das, was nicht gesagt werden kann — und Sprachkritik statt Ontologie.
 
-### → [[Denker/scobel — Lyotard das Ende der Wahrheit]]
+### → [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit]]
 
 Lyotard radikalisiert Wittgensteins Sprachspiel-Begriff zu einer Gesellschaftstheorie: Wo Wittgenstein noch beschreibt (Philosophie darf Sprachspiele nur beschreiben, nicht hierarchisieren), macht Lyotard daraus eine Diagnose — es gibt keine Metasprache, die über allen Sprachspielen steht. Das ist die postmoderne Konsequenz aus dem Spätwerk, die Wittgenstein selbst nie gezogen hätte.
 

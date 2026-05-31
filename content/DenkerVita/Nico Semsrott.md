@@ -67,9 +67,9 @@ Links, aber pragmatisch geworden. Semsrott empfiehlt nach 5 Jahren EU-Innensicht
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Martin Sonneborn]] — 2019–2021 gemeinsam im EU-Parlament für Die PARTEI. Sonneborn performt die Absurdität, Semsrott analysiert sie systemisch. Der Bruch 2021 markiert die Grenze zwischen Satire als Selbstzweck und Satire als politischem Werkzeug.
-- [[DenkerVita/Arne Semsrott]] — Bruder. Beide kämpfen gegen institutionelle Intransparenz — Arne national (FragDenStaat, IFG), Nico auf EU-Ebene. Gemeinsame Prägung: die verbotene Schülerzeitung *Sophies Unterwelt*.
-- [[DenkerVita/Rainer Mausfeld]] — Mausfelds „Demokratie-Management" ist die theoretische Beschreibung dessen, was Semsrott im EU-Parlament erlebt: Simulation von Kontrolle bei gleichzeitiger Machtkonzentration.
+- [[Gedankenwelten/DenkerVita/Martin Sonneborn]] — 2019–2021 gemeinsam im EU-Parlament für Die PARTEI. Sonneborn performt die Absurdität, Semsrott analysiert sie systemisch. Der Bruch 2021 markiert die Grenze zwischen Satire als Selbstzweck und Satire als politischem Werkzeug.
+- [[Gedankenwelten/DenkerVita/Arne Semsrott]] — Bruder. Beide kämpfen gegen institutionelle Intransparenz — Arne national (FragDenStaat, IFG), Nico auf EU-Ebene. Gemeinsame Prägung: die verbotene Schülerzeitung *Sophies Unterwelt*.
+- [[Gedankenwelten/DenkerVita/Rainer Mausfeld]] — Mausfelds „Demokratie-Management" ist die theoretische Beschreibung dessen, was Semsrott im EU-Parlament erlebt: Simulation von Kontrolle bei gleichzeitiger Machtkonzentration.
 
 ---
 

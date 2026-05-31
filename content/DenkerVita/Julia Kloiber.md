@@ -78,7 +78,7 @@ Sie ist nicht "gegen KI" oder "gegen Technologie" — sie ist für eine Technolo
 
 ## Cortex-Notes
 
-- [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+- [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 ---
 

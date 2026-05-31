@@ -79,9 +79,9 @@ tags: [denker-vita, naturwissenschaft, klimawandel, deutschland, wissenschaftsko
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Claudia Kemfert|Claudia Kemfert]] — Ökonomin für Energiewende. Kemfert analysiert die Ölabhängigkeit strukturell, Benecke liefert den forensischen Befund dazu.
-- [[DenkerVita/Michael Sterner|Michael Sterner]] — Energiesystemforscher. Sterner zeigt technische Lösungen, Benecke die Dringlichkeit, die keine Verzögerung erlaubt.
-- [[DenkerVita/Heinz Bude|Heinz Bude]] — Soziologe der Angst. Budes Angstgesellschaft trifft auf Beneckes paradoxen Befund: Die Jugend hat zu wenig Angst vor dem Richtigen.
+- [[Gedankenwelten/DenkerVita/Claudia Kemfert|Claudia Kemfert]] — Ökonomin für Energiewende. Kemfert analysiert die Ölabhängigkeit strukturell, Benecke liefert den forensischen Befund dazu.
+- [[Gedankenwelten/DenkerVita/Michael Sterner|Michael Sterner]] — Energiesystemforscher. Sterner zeigt technische Lösungen, Benecke die Dringlichkeit, die keine Verzögerung erlaubt.
+- [[Gedankenwelten/DenkerVita/Heinz Bude|Heinz Bude]] — Soziologe der Angst. Budes Angstgesellschaft trifft auf Beneckes paradoxen Befund: Die Jugend hat zu wenig Angst vor dem Richtigen.
 
 ## Cortex-Notes
 

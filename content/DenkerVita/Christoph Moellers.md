@@ -69,10 +69,10 @@ In der politischen Debatte wirkt er oft als Korrektiv — als jemand, der Schär
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Valentina Chiofalo]] — Beide lehren öffentliches Recht an Berliner Universitäten (Möllers HU, Chiofalo FU) und teilen das Interesse an der normativen Architektur von Demokratie. Möllers denkt Recht philosophisch-abstrakt (Freiheitsgrade, normative Ordnung), Chiofalo operationalisiert es in konkreter Beweisarbeit (2 Mio. Datenpunkte, GFF-Gutachten) — Theorie und Empirie in derselben Rechtstradition.
+- [[Gedankenwelten/DenkerVita/Valentina Chiofalo]] — Beide lehren öffentliches Recht an Berliner Universitäten (Möllers HU, Chiofalo FU) und teilen das Interesse an der normativen Architektur von Demokratie. Möllers denkt Recht philosophisch-abstrakt (Freiheitsgrade, normative Ordnung), Chiofalo operationalisiert es in konkreter Beweisarbeit (2 Mio. Datenpunkte, GFF-Gutachten) — Theorie und Empirie in derselben Rechtstradition.
 
 ---
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+- [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]

@@ -24,7 +24,7 @@ Quelle: [TILO JUNG: Wir streiten über Erben, Wirtschaft, AfD-Strategie & wie ic
 >
 > **Tim Gabel** (*Host*) — Fitness-YouTuber und Unternehmer, der sich zunehmend politischen Themen widmet. Vertritt wirtschaftsliberale Positionen und bietet hier einen echten Gegenpol zu Jungs kapitalismuskritischer Perspektive.
 >
-> → [[DenkerVita/Tilo Jung|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Tilo Jung|DenkerVita]]
 
 ---
 
@@ -316,6 +316,6 @@ Desinformations-Ökosystem als Gegenstück zu Jungs transparentem Journalismus-I
 
 Mattei gibt dem Thema Wirtschaftsdemokratie den historischen und theoretischen Rahmen
 
-### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
+### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Studio Bonn bringt Engelhorn ins Gespräch — eine Erbin, die freiwillig umverteilt, wo Jung strukturellen Zwang fordert. Jungs "das System muss sich ändern" vs. Engelhorns "ich ändere mich innerhalb des Systems": zwei Antworten auf dieselbe Diagnose.

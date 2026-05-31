@@ -219,7 +219,7 @@ Der „Klebeeffekt" der Minijobs ist das direkte Erbe der rot-grünen Hartz-Refo
 
 der strukturelle Kontrollverlust (keine Ersparnisse, steigende Mieten, keine Therapieplätze) ist bei Rosa als beschleunigungsbedingte Entfremdung beschrieben; GCA #27 nennt die konkreten Zahlen
 
-### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
+### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 GCA #27 erklärt, warum Kühnerts Forderungen aus Studio Bonn politisch folgenlos bleiben: Die SPD hat seit Schröder systematisch die Interessen der Vermögenden bevorzugt. Kühnert fordert Erbschaftssteuerreform — GCA #27 dokumentiert, warum seine eigene Partei diesen Weg verweigert.
 

@@ -25,7 +25,7 @@ aliases:
 > [!info] Wer spricht?
 > **Zhao Tingyang** (*geb. 1961, Guangdong*) — Politischer Philosoph an der Chinesischen Akademie der Sozialwissenschaften (CASS), Senior Fellow am Peking University Berggruen Research Center. Modernisiert das 3000 Jahre alte chinesische Konzept *Tianxia* (天下 — „Alles unter dem Himmel") zu einer vollständigen Theorie der Weltordnung. Pusey Distinguished Fellow am Harvard-Yenching Institute 2013. Hauptwerke: *Das Tianxia-System* (2005), *Alles unter dem Himmel. Vergangenheit und Zukunft der Weltordnung* (Suhrkamp 2020), *All Under Heaven* (UC Press 2021).
 >
-> → [[DenkerVita/Zhao Tingyang|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Zhao Tingyang|DenkerVita]]
 >
 > **Rainer Forst** (*geb. 1964*) — Politischer Philosoph, Goethe-Universität Frankfurt. Promoviert 1993 bei Habermas, habilitiert bei Honneth. Direktor des Forschungszentrums „Normative Ordnungen". Kernkonzept: das *Recht auf Rechtfertigung* als Fundament von Gerechtigkeit. Thomas Mann Fellow. Hauptwerk: *Das Recht auf Rechtfertigung* (2007).
 >
@@ -187,28 +187,28 @@ Das Werkzeug dafür nennt er *Syntextualisierung* — nach Schellings *focal poi
 
 ## Verbindungen
 
-### → [[Denker/Walther Ziegler — Habermas in 60 Minuten|Habermas in 60 Minuten]]
+### → [[Gedankenwelten/Denker/Walther Ziegler — Habermas in 60 Minuten|Habermas in 60 Minuten]]
 Zhao und Habermas kreisen dasselbe Zentralproblem ein, halten aber entgegengesetzte Antworten bereit. Habermas' herrschaftsfreier Diskurs und seine Diagnose der «Kolonialisierung der Lebenswelt» durch den Finanzkapitalismus decken sich fast wortgleich mit Zhaos «neuer Despotie» — doch wo Habermas auf kommunikative Vernunft als immanentes Gegenmittel setzt, vertraut Zhao keiner Sprachvernunft, sondern auf institutionelles Redesign (smarte Demokratie, Tianxia-Netzwerk). Forst als Habermas-Schüler macht diesen Clash im Gespräch direkt sichtbar: Er ist der lebendige Vertreter der diskursethischen Position, die Zhao Stück für Stück herausfordert.
 
-### → [[Denker/Walther Ziegler — Konfuzius in 60 Minuten|Konfuzius in 60 Minuten]]
+### → [[Gedankenwelten/Denker/Walther Ziegler — Konfuzius in 60 Minuten|Konfuzius in 60 Minuten]]
 Zhao Tingyang ist der Zeitgenosse, der die konfuzianische Tradition in eine vollständige Weltordnungstheorie übersetzt. Konfuzius' *Ren* (仁) — Mitmenschlichkeit als relationales Schriftzeichen (Mensch + Zwei) — ist das ethische Ur-Atom von Zhaos ontologischer These, dass Individualismus eine politische Fiktion ist. Die «konfuzianische Verbesserung» als kooperationstheoretisches Prinzip übersetzt Konfuzius' Tugendlehre in spieltheoretische Sprache. Wo diese Note die Tradition beschreibt, setzt die Zhao-Note sie als Fundament eines globalen Designvorschlags ein.
 
-### → [[Zeitgeist/Yanis Varoufakis — Technofeudalism|Varoufakis — Technofeudalism]]
+### → [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Technofeudalism|Varoufakis — Technofeudalism]]
 Beide Texte diagnostizieren denselben Befund: Finanzkapitalismus hat aufgehört, ein produktives System zu sein, und produziert stattdessen eine neue Form von Herrschaft. Varoufakis nennt es Technofeudalism (Profit wird zu Cloud Rent), Zhao nennt es «neue Despotie» — den strukturellen Bund aus Finanzkaptialismus, Technologie und Intermediären als Trojanisches Pferd innerhalb der Demokratie. Der Unterschied: Varoufakis sieht den Kapitalismus als bereits tot und ersetzt; Zhao will ihn noch durch institutionelle Reform (Tianxia, smarte Demokratie) bändigen.
 
-### → [[Denker/scobel — Lyotard das Ende der Wahrheit|Lyotard — Das Ende der Wahrheit]]
+### → [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit|Lyotard — Das Ende der Wahrheit]]
 Die Weiterdenken-Frage der Zhao-Note stellt es direkt: Ist Zhaos «Neue Enzyklopädie» nicht selbst eine letzte Metaerzählung, die Lyotards Diagnose reproduziert? Lyotard besteht auf der radikalen Inkommensurabilität der Sprachspiele — epistemologische Gerechtigkeit ist für ihn unmöglich, weil kein «focal point» ohne Machtasymmetrie denkbar ist. Zhaos Syntextualisierung ist der optimistische Gegenentwurf: Er will alle Wissensbestände im Kontakt miteinander testen — Lyotard würde einwenden, dass schon die Infrastruktur dieses Tests ungleich verteilt ist.
 
-### → [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus]]
+### → [[Gedankenwelten/Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus]]
 Gabriel und Zhao stellen dieselbe Diagnose über finanziellen Kapitalismus — er korrumpiert demokratische Institutionen —, ziehen aber grundverschiedene Konsequenzen. Gabriel will den Kapitalismus durch Ethikpflichten im Unternehmen retten («true profit»); Zhao hält das für strukturell unzureichend und fordert ein Redesign der Weltordnung selbst. Beide sind Anti-Degrowth, aber Gabriels Lösung bleibt innerhalb des bestehenden Systems, Zhaos Tianxia-Entwurf überschreitet den Nationalstaat als Rahmen.
 
-### → [[Denker/Immanuel Kant — Was ist Aufklärung?|Kant — Was ist Aufklärung?]]
+### → [[Gedankenwelten/Denker/Immanuel Kant — Was ist Aufklärung?|Kant — Was ist Aufklärung?]]
 Zhao greift Kant direkt an: Der kategorische Imperativ scheitert am Hume-Problem — aus «ist» folgt kein «soll», und das transzendentale Fundament fehlt für globale Akteure mit inkommensurablen Wertvorstellungen. Kants Weltbürgertum setzt das westeuropäische Vernunftsubjekt als universales Modell, Zhao sieht darin einen verdeckten Partikularismus. Die Kant-Note zeigt andererseits, wie Kants «öffentlicher Vernunftgebrauch» und sein Konzept des Weltbürgertums die direkten Vorläufer der Frage sind, die Zhao und Forst im Gespräch verhandeln: Wie ist globale politische Legitimität möglich?
 
-### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld — Warum schweigen die Lämmer?]]
+### → [[Gedankenwelten/Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld — Warum schweigen die Lämmer?]]
 Beide diagnostizieren, dass Demokratie von innen ausgehöhlt wird — nicht durch offene Tyrannei, sondern durch strukturelle Umgehung. Mausfeld identifiziert Meinungsmanagement und soziale Atomisierung als Mechanismus, Zhao den «strukturellen Bund aus Technologie, Finanzkapitalismus und Intermediären». Der entscheidende Unterschied: Mausfeld sieht den Feind in Eliten, die das Bewusstsein bewirtschaften; Zhao sieht ein systemisches Problem, das sich selbst organisiert — die «neue Despotie» braucht keinen Planer. Mausfelds «ideologischer Käfig» und Zhaos «Trojanisches Pferd» sind zwei Diagnosen derselben Pathologie aus verschiedenen Traditionen.
 
-### → [[Panorama/Autoritaerer Internationalismus|Panorama — Autoritärer Internationalismus]]
+### → [[Gedankenwelten/Panorama/Autoritaerer Internationalismus|Panorama — Autoritärer Internationalismus]]
 Zhaos These, dass das westfälische Nationalstaatensystem keine negativen Externalitäten internalisieren kann, ist die philosophische Grundlage für das empirische Phänomen dieses Panoramas: Autoritarismus breitet sich grenzüberschreitend aus, weil das bestehende System keine globalen Gegenantworten kennt. Sein Tianxia-Entwurf ist die radikale institutionelle Antwort auf genau jene koordinierte rechts-autoritäre Internationale, die das Panorama kartiert — und die Frage, ob ein solches Gegenmodell realistisch ist, steht in beiden Texten offen.
 
 ---
@@ -224,9 +224,9 @@ Zhaos These, dass das westfälische Nationalstaatensystem keine negativen Extern
 
 ---
 
-### → [[Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
+### → [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
 Dieser Vortrag zeigt Zhao in einem anderen Modus: nicht als Weltordnungstheoretiker, sondern als Sprachphilosoph. Verb-Denken und Tianxia hängen tief zusammen — wer ontologisch von Koexistenz ausgeht (Tianxia), braucht eine Philosophie des Werdens und der Relation, nicht des Seins und der Substanz. Das Verb-Denken ist das erkenntnistheoretische Fundament, auf dem Tianxia als politische Theorie steht.
 
-### → [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
 
 Xis Schweigen und Geduld im Gipfel ist Tianxia in Aktion: keine kurzfristigen Konzessionen, nur das große Bild. Was die PhoenixRunde als Chinas „strategische Überlegenheit" beschreibt, ist in Zhaos Kategorien die Logik eines Systems, das Koexistenz als Grundzustand und Konfrontation als Ausnahme versteht.

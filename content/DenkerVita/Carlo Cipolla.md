@@ -95,7 +95,7 @@ Diese Position ist **konservativ** in dem Sinne, dass sie keine Heilshoffnung in
 
 Alle Notes im Vault, die Carlo Cipolla behandeln oder seine Konzepte verwenden:
 
-- [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit|Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Tiefenanalyse des Dummheits-Essays mit vollständiger Exegese aller fünf Gesetze, des Asymmetrie-Problems, des Kommpositions-Theorems und der Grenzen des Modells.
+- [[Gedankenwelten/Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit|Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Tiefenanalyse des Dummheits-Essays mit vollständiger Exegese aller fünf Gesetze, des Asymmetrie-Problems, des Kommpositions-Theorems und der Grenzen des Modells.
 
 ---
 
@@ -111,4 +111,4 @@ Die **bittersüße Einsicht** ist aber auch diese: Cipolla sagt nicht, dass die 
 
 Das ist nicht hoffnungsvoll. Aber es ist nicht hoffnungslos. Es ist eine *Aufgabe*.
 
-→ [[DenkerVita/Carlo Cipolla|DenkerVita]]
+→ [[Gedankenwelten/DenkerVita/Carlo Cipolla|DenkerVita]]

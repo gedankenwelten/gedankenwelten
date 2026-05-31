@@ -149,7 +149,7 @@ Das macht es gleichzeitig gefährlich **und** verwundbar: Es sind nur eine Handv
 
 ## Verbindungen
 
-### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocuns KI-Fake-Frauen und Verfallporn-Accounts sind das taktische Ausführungslevel der Infrastruktur, die die CPAC-Note beschreibt: Heritage Foundation und Atlas-Netzwerk liefern die Agenda, KI-Sockenpuppen skalieren sie auf Social Media.
 
@@ -217,6 +217,6 @@ Direkte Fortsetzung: Was die CPAC-Note als Infrastruktur beschreibt, zeigt Biers
 
 Orbáns KI-Propaganda-Netzwerk (Megafon + Storm-1516) als konkreter Arm der rechten Internationale; CPAC-Ungarn koordiniert die Strukturen, die rabbit hole im Wahlkampf dokumentiert
 
-### → [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
 
 Die CPAC-Infrastruktur ist der transatlantische Kanal, über den die hier dekodierten Codes reisen: Heritage Foundation, Bannon-Netzwerk und CPAC Hungary exportieren US-Strategien (Dog Whistles, Fashwave, Remigration) nach Europa. Was Brockschmidt/Nocun als Sprach- und Bildsprache analysieren, ist hier als institutionelle Infrastruktur dokumentiert.

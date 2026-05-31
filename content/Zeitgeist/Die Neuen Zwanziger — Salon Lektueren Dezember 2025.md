@@ -24,7 +24,7 @@ Quelle: [Meritocracy Trap, Geschichte des Klangs, Bumblebee Drone, Katholiken & 
 
 > [!info] Wer spricht?
 > **Wolfgang M. Schmitt** und **Stefan Schulz** — Hosts des Podcasts „Die Neuen Zwanziger". Im Zentrum dieses Salons: Daniel Markovits' *The Meritocracy Trap* (2019) — eine über zweistündige Tiefenanalyse der Frage, warum das Versprechen der Leistungsgesellschaft sowohl die erschöpften Gewinner als auch die abgehängten Verlierer zerstört. Dazu sieben kürzere Besprechungen: Ben Shattucks *Die Geschichte des Klangs*, C.J. Chivers über KI-Drohnen in der Ukraine, Uwe Volkmanns BVerfG-Kritik, Hito Steyerls KI-Bilder, Benjamin Rileys LLM-Kritik, KI-generierte Fiktion und die Kriegsrhetorik deutscher Katholiken.
-> → [[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
 
 ---
 

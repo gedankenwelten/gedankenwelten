@@ -267,7 +267,7 @@ GCA 20 behandelt dieselbe frühe Phase des Iran-Kriegs. Langes tiefere militäri
 ### → [[Zeitgeist/Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 Aktueller Iran-Status im GCA-Podcast — thematische Verbindung. GCA 23 liefert politisch-medialen Kontext, Lange die strategische Tiefenanalyse.
 
-### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 Tooze zeigt, wie das Pentagon unter Hegseth Macht bündelt. Lange beschreibt die außenpolitischen Folgen desselben Apparats — und wie Steve Witkoffs Inkompetenz die Konsequenzen für Ukraine und Verhandlungen prägt.
 
 ### → [[Zeitgeist/Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]

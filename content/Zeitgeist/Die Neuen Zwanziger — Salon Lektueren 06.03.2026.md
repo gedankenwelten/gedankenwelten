@@ -24,7 +24,7 @@ Quelle: [Bibis Buch, Zupančič: Das Ende, Carla Hinrichs, Oyamada: Das Loch, �
 
 > [!info] Wer spricht?
 > **Wolfgang M. Schmitt** und **Stefan Schulz** — Hosts des Podcasts "Die Neuen Zwanziger". Lektüre-Salon, in dem sie Bücher, Artikel und Essays diskutieren. In dieser Ausgabe: eine große Buchbesprechung (Heinicke), philosophische Textanalyse (Zupančič), ein aktivistischer Erfahrungsbericht (Hinrichs), ein japanischer Roman (Oyamada) und vier kürzere Texte — zusammengehalten durch den roten Faden der **Verleugnung als Betriebssystem**: wie wir Realitäten anerkennen und trotzdem so weitermachen wie zuvor.
-> → [[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
 
 ---
 

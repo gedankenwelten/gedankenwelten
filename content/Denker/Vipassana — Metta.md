@@ -89,5 +89,5 @@ Maios *Zärtlichkeit als moralische Haltung* ist die westlich-philosophische Ent
 
 Das Bodhisattva-Ideal steht in direkter Spannung zu Goenkas Mettā: Bei Goenka ist Mettā Frucht persönlicher Reinigung — am Ende des Weges. Bei Adriaan ist der Bodhisattva-Eid Verpflichtung vor vollständiger Befreiung. Der Richtungspfeil ist umgekehrt.
 
-- [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Metta als Grundlage für Adriaans These: Wenn du mitfühlend bist, wie kannst du NICHT engagiert sein?

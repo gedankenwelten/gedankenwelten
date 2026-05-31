@@ -27,7 +27,7 @@ Quelle: [Foucault: Die Wahrheit über Freiheit, die keiner hören will – scobe
 >
 > In diesem Video präsentiert Gert Scobel Foucaults Lektüre von Kants Aufklärungstext — ein Essay, den Foucault kurz vor seinem Tod verfasste und der sein gesamtes Denken über Freiheit und Gegenwart zusammenfasst.
 >
-> → [[DenkerVita/Michel Foucault|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Michel Foucault|DenkerVita]]
 
 ---
 
@@ -178,10 +178,10 @@ Und:
 - [[Platon — Das Höhlengleichnis]] — Die älteste Version des Befreier-Paradoxons. Platon fragt "Was hindert uns?", Foucault "Warum wollen wir gehindert werden?" — eine Verschiebung vom externen Hindernis zur inneren Wahl.
 - [[scobel — Luhmann Abklaerung der Aufklaerung]] — Luhmann und Foucault antworten beide auf Kant, aber in entgegengesetzte Richtungen: Foucault macht Aufklärung zur persönlichen Haltung (das Subjekt arbeitet an sich selbst); Luhmann macht sie zur Systemfunktion (kein Subjekt kann sich aus sozialer Determination befreien, nur schrittweise klarer sehen). Zusammen decken sie das volle Spektrum der post-klassischen Aufklärungskritik ab.
 - [[Walther Ziegler — Adorno in 60 Minuten]] — Adorno und Foucault teilen das Projekt einer Aufklärung über die Aufklärung: Wie wird Vernunft selbst zum Herrschaftsinstrument? Foucault macht daraus eine tägliche Praxis der Selbstbefreiung; Adorno bleibt bei der negativen Dialektik — Kritik ohne positiven Ausgang
-- [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]] — Foucaults Unterscheidung Dogma/kritische Haltung direkt gespiegelt: Soroush trennt das historisch-kontingente Religionsverstehen vom sakralen Kern — Aufklärung von innen der islamischen Tradition, aus Liebe, nicht als äußere Absage
+- [[Gedankenwelten/Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]] — Foucaults Unterscheidung Dogma/kritische Haltung direkt gespiegelt: Soroush trennt das historisch-kontingente Religionsverstehen vom sakralen Kern — Aufklärung von innen der islamischen Tradition, aus Liebe, nicht als äußere Absage
 - [[Walther Ziegler — Foucault in 60 Minuten]] — Das Frühwerk kompakt: Panoptikum, Wahnsinn und Gesellschaft, Episteme und Tod des Subjekts — ergänzt diese Note (Spätwerk/Aufklärung) um die Machtanalyse und den Normalisierungszwang
 - [[Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt]] — Foucault denkt Aufklärung als permanente Haltung der Freiheit — ergänzt Sartres individuellen Freiheitsbegriff aus dem Vortrag um die strukturelle Dimension
 - [[Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Foucaults Mittelwerk: Gouvernementalität als Regierungskunst, Neoliberalismus als antifaschistische Selbstbegrenzung, Humankapital und Prekarisierung — ergänzt das Spätwerk (Aufklärung als Ethos) um die Machtanalyse der Ökonomie
 
 - [[Dominik Finkelde — Nietzsche Ueber Wahrheit und Luege]] — Finkelde zeigt, wie Foucaults Aufklärungskritik bei Nietzsche beginnt: Die „Drehscheibe der Moderne" stellt genau die Frage, ob Vernunftkritik ohne Selbstaufhebung möglich ist
-- [[Denker/scobel — Lyotard das Ende der Wahrheit]] — Lyotard und Foucault reagieren aus derselben intellektuellen Generation heraus auf den Zusammenbruch universaler Vernunftgewissheit. Foucault antwortet mit einer Praxis (Aufklärung als tägliche Haltung), Lyotard mit einer Diagnose des Unauflösbaren (der Widerstreit). Beide kritisieren Habermas' Konsensideal — als zu einfache Lösung für einen tiefen Riss.
+- [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit]] — Lyotard und Foucault reagieren aus derselben intellektuellen Generation heraus auf den Zusammenbruch universaler Vernunftgewissheit. Foucault antwortet mit einer Praxis (Aufklärung als tägliche Haltung), Lyotard mit einer Diagnose des Unauflösbaren (der Widerstreit). Beide kritisieren Habermas' Konsensideal — als zu einfache Lösung für einen tiefen Riss.

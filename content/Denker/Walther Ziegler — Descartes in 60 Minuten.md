@@ -19,7 +19,7 @@ aliases:
 Quelle: [Descartes in 60 Minuten](https://www.youtube.com/watch?v=YsjL8nlUrI4)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Descartes-Vortrag verbindet die *Meditationes de prima philosophia* mit konkreten Gegenwartsbeispielen — vom Bienenwachs-Experiment über Vaucansons mechanische Ente bis zur Irak-Lüge Colin Powells. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Descartes-Vortrag verbindet die *Meditationes de prima philosophia* mit konkreten Gegenwartsbeispielen — vom Bienenwachs-Experiment über Vaucansons mechanische Ente bis zur Irak-Lüge Colin Powells. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **René Descartes** (*1596, La Haye en Touraine — †1650, Stockholm*) — Begründer des Rationalismus und „Vater der modernen Philosophie". Sohn eines Juristen und Parlamentsrats in der Bretagne; studiert Jura in Poitiers, dient kurz als Soldat, und widmet sich dann ganz dem Denken — unter permanenter Angst vor der Inquisition.
 >
@@ -28,7 +28,7 @@ Quelle: [Descartes in 60 Minuten](https://www.youtube.com/watch?v=YsjL8nlUrI4)
 > Wichtigste Werke: *Discours de la méthode* (1637), *Meditationes de prima philosophia* (1641), *Principia philosophiae* (1644)
 > Kernkonzepte: Cogito ergo sum, methodischer Zweifel, Cartesischer Dualismus (res cogitans / res extensa), Gottesbeweis, vier Regeln der Methode
 >
-> → [[DenkerVita/Rene Descartes|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Rene Descartes|DenkerVita]]
 
 ---
 

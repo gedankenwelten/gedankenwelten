@@ -21,7 +21,7 @@ Quelle: [Strom: Merit Order abschaffen, chinesischen Strommarkt kopieren – Gel
 >
 > Sein Markenzeichen: Er widerspricht dem deutschen Energieestablishment auf Basis internationaler Vergleichsdaten. Nicht parteigebunden, wirtschafts-pragmatisch, kritisch gegenüber Kraftwerksbetreiber-Interessen.
 >
-> → [[DenkerVita/Dirk Specht|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Dirk Specht|DenkerVita]]
 
 ---
 
@@ -228,35 +228,35 @@ Doch Specht räumt ein: Der Mechanismus muss effizient implementiert sein. Die R
 
 ## Verbindungen
 
-### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+### → [[Gedankenwelten/Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 
 Goldbach und Specht kommen unabhängig zu identischen Kernthesen: Batteriespeicher sind die unterschätzte Revolution der Energiewende, regulatorische Hemmnisse blockieren den Markt, und der internationale Vergleich zeigt, wie weit Deutschland hinterherhinkt. Specht ergänzt die systemische Perspektive: Wer am Gaskraftwerks-Lobby-Netz hängt, hat kein Interesse an Speichern.
 
-### → [[Zeitgeist/Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
+### → [[Gedankenwelten/Zeitgeist/Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
 
 Sterner und Specht bekämpfen denselben Feind: politisch instrumentalisierte Energiemythen. Sterners Fokus liegt auf Söder/CSU-Rhetorik, Spechts auf Hans-Werner Sinn. Methodisch identisch: präzise Begriffsdifferenzierung gegen populäre Vereinfachung.
 
-### → [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+### → [[Gedankenwelten/Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
 
 Spechts These — Gaskraftwerksbetreiber blockieren den Speicherausbau, weil Speicher ihr Geschäftsmodell bedrohen — findet in der Reiche/E.ON-Geschichte ein konkretes Fallbeispiel systemischer Lobbyarbeit gegen strukturellen Wandel.
 
-### → [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+### → [[Gedankenwelten/Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 
 Specht demonstriert, wie Merit Order + staatliche Garantien für Gaskraftwerke ein System erzeugen, das als Markt gilt aber staatlich durchdrungen ist. Das spiegelt die Subventionslogik hinter Atomstrom — Technologien, die ohne staatliche Rückendeckung nicht wirtschaftlich wären.
 
-### → [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade]]
+### → [[Gedankenwelten/Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade]]
 
 Direkter Kontrapunkt: Sterners Studie belegt die Machbarkeit der Energiewende, Specht liefert die marktstrukturelle Erklärung, warum sie trotzdem blockiert bleibt — Investitionsanreize, Abschreibungslogik, regulatorische Käfige.
 
-### → [[Zeitgeist/Akkudoktor — Lanz und die Energiewende]]
+### → [[Gedankenwelten/Zeitgeist/Akkudoktor — Lanz und die Energiewende]]
 
 Akkudoktors "Primärenergie-Falle" ist die mediale Anwendung desselben Irrtums, den Specht als "Primärenergieirrtum" benennt: Je effizienter das System wird, desto kleiner erscheint sein Anteil in der Statistik — beide zeigen, wie diese Metrik die Energiewende systematisch unsichtbar macht.
 
-### → [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
+### → [[Gedankenwelten/Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
 
 Zöcklers Bürgerenergiegenossenschaften sind das europäische Gegenstück zu Spechts chinesischem Direktversorgungsmodell: beide Modelle umgehen die Merit-Order-Strombörse und ermöglichen Strom zu Produktionskosten — einmal durch staatliche Festpreisauktionen, einmal durch demokratisch organisierte Eigenversorgung.
 
-### → [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+### → [[Gedankenwelten/Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 
 Kemferts Begriff der "Fossilokratie" — das fossil-industrielle Machtnetzwerk, das Rückfälle in fossile Muster erzeugt — ist die politökonomische Erklärung für das, was Specht marktstrukturell beschreibt: Gaskraftwerksbetreiber, die Batteriespeicher regulatorisch blockieren, weil sie ihr Geschäftsmodell bedrohen.
 
@@ -264,10 +264,10 @@ Kemferts Begriff der "Fossilokratie" — das fossil-industrielle Machtnetzwerk, 
 
 Meyer und Hegenberg berichten live aus China, was Specht bereits im Geladen-Podcast als Vergleichsfolie nutzte: Chinas Modell (staatlicher Rahmen + brutaler Wettbewerb) produziert die günstigsten Batterien und PV der Welt. Spechts Frage „Was kauft man mit dem europäischen Regulierungschaos?" bekommt hier eine empirische Antwort: die Differenz kostet Europa den technologischen Anschluss.
 
-### → [[Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
+### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
 
 V2G ist der dezentrale Speicher in Spechts Kraftwerk-vs.-Speicher-These — das Utrechter Modell zeigt, was passiert, wenn man den Markt tatsächlich entscheiden lässt. Dass Deutschland diese Technologie durch Doppelbesteuerung hemmt, ist dieselbe Logik wie die regulatorische Knebelung stationärer Batterien.
-### → [[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
+### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
 Fichtner und Specht sind konzeptuelle Zwillinge im *Geladen*-Podcast: Fichtner dekonstruiert zehn Batterie-Mythen, Specht den Primärenergieirrtum — beide kommen zur selben Kernthese, dass Merit Order + Batteriespeicher + Erneuerbare die einzige kohärente Antwort auf fossile Preissetzung sind.
 
 ---

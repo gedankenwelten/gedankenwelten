@@ -19,7 +19,7 @@ Quelle: [Time is up: Die neuen Umwelt-Messungen für Sommer 2026](https://www.yo
 > [!info] Wer spricht?
 > **Dr. Mark Benecke** (*1970, Rosenheim*) — Kriminalbiologe, forensischer Entomologe und einer der aktivsten Wissenschaftskommunikatoren Deutschlands. Bekannt als „Herr der Maden" für seine Arbeit am Office of the Chief Medical Examiner in New York, öffentlich bestellter Sachverständiger für biologische Spuren. Seit den 2020er Jahren überträgt er seine forensische Methodik — Datensammlung, Beweisführung, nüchterne Analyse — auf die Klimakommunikation. Die „Time is up"-Vortragsreihe aktualisiert er bei jedem Termin mit den neuesten weltweiten Messdaten.
 >
-> → [[DenkerVita/Mark Benecke|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Mark Benecke|DenkerVita]]
 
 ---
 

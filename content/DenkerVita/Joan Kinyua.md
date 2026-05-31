@@ -128,7 +128,7 @@ Joan steht in Tradition / Dialog mit:
 
 ## Cortex-Notes
 
-- [[Zeitgeist/rp26 - KIs unsichtbare Arbeitskafte|rp26 — KIs unsichtbare Arbeitskrefte]] — Joan Kinyua & Julia Kloiber, re:publica 26 (Mai 2026)
+- [[Gedankenwelten/Zeitgeist/rp26 - KIs unsichtbare Arbeitskafte|rp26 — KIs unsichtbare Arbeitskrefte]] — Joan Kinyua & Julia Kloiber, re:publica 26 (Mai 2026)
 
 ---
 

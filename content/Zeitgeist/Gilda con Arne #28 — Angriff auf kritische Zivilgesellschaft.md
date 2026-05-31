@@ -266,14 +266,14 @@ taz-Runde rahmt geopolitisch, was Gilda als wirtschaftspolitische Kaskade in Deu
 ### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 Staiys Magdeburg-Demokratiefest (Amadeo Antonio Stiftung) zeigt die Praxis zivilgesellschaftlichen Engagements — GCA #28 analysiert den strukturellen Angriff auf genau diese Initiativen (Finanzierungskürzungen, parlamentarische Delegitimierung).
 
-### → [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
+### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Das GFF-Gutachten ist selbst ein Akt zivilgesellschaftlicher Demokratieverteidigung — durch 18.000 Einzelspenden finanziert, von einer NGO geleistet, die eigentlich staatliche Aufgaben übernimmt. GCA #28 beschreibt den strukturellen Druck auf genau diese Zivilgesellschaft: Wer Demokratieprojekte kappt, schwächt auch die Institutionen, die das GFF-Gutachten ermöglichten.
 
-### → [[Zeitgeist/Semsrott — Zur Gegenmacht]]
+### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Semsrott entwickelt hier die strategische Antwort auf den in #28 dokumentierten Angriff auf die Zivilgesellschaft: Freiheitsfonds, Gegenrechtsschutz und Transparenz als offensive Instrumente, nicht nur defensive Reaktion. Die 551 Fragen der Union werden zur Vorlage — Semsrott macht daraus die Aufgabenliste der Gegenmacht.
 
-### → [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
 
 Das rp26-Panel zeigt die menschlichen Kosten der hier dokumentierten Demokratie-Leben-Kürzungen: Romy Arnold belegt, wie Thüringen und Sachsen-Anhalt ohne alternative Auffangstrukturen dastehen — was GCA #28 als Berliner Mechanismus beschreibt, wird hier zu konkreter Handlungslosigkeit im Krisengebiet.

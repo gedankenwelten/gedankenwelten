@@ -308,13 +308,13 @@ Meyer/Hegenberg bestätigen Kemferts Kernthese aus chinesischer Perspektive: Chi
 
 Benecke zeigt forensisch, was Kemfert ökonomisch analysiert: Die CO₂-Vorhersagen der 1970er trafen exakt ein, die Ölstaaten fördern bis zum letzten Tropfen — die Daten sind seit 50 Jahren eindeutig.
 
-### → [[Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
+### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
 
 V2G verlängert Kemferts These vom E-Auto als Ausstiegstechnologie: Nicht nur kein fossiler Kraftstoff, sondern das E-Auto als aktiver Netzpuffer — der Wagen, der nicht nur fährt, sondern die Energiewende mitträgt. Die Doppelbesteuerung in Deutschland blockiert genau diesen nächsten Schritt.
 
-### → [[Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
 
 Kemferts „Fossilokratie" zeigt sich hier in einer neuen Variante: nicht durch direkte Ablehnung von Erneuerbaren, sondern durch regulatorisches Unterlassen. Ein Unternehmer investiert in Solarenergie — und wird durch Netzversagen daran gehindert, sie zu nutzen.
 
-### → [[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
+### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
 Fichtner widerlegt den Rohstoff-Mythos mit demselben Argument, das Kemferts Struktur-Analyse zugrunde liegt: Batterie-Rohstoffe sind einmalig nötig und bleiben im System, fossile Brennstoffe werden jährlich verbrannt und erfordern permanente Importabhängigkeit. Beide benennen die „Fossilokratie" als politisch aufrechterhaltenes System, nicht als technisches Schicksal.

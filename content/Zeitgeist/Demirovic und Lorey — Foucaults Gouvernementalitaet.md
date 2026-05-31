@@ -20,12 +20,12 @@ Quelle: [tl;dr #51: Michel Foucaults Gouvernementalität | mit Isabell Lorey](ht
 > **Alex Demirović** (*1952, Darmstadt*) — Sozialwissenschaftler und Vertreter der Kritischen Theorie. Senior Fellow der Rosa-Luxemburg-Stiftung, apl. Professor an der Goethe-Universität Frankfurt. 1990–2001 am Institut für Sozialforschung (Horkheimer/Adorno-Institut). Host des Theorie-Podcasts **tl;dr** (Rosa-Luxemburg-Stiftung).
 > Wichtigste Werke: *Der nonkonformistische Intellektuelle* (1999), *Nicos Poulantzas* (1987), *Demokratie und Herrschaft* (1997)
 > Kernthemen: Materialistische Staatstheorie (Poulantzas, Gramsci), Demokratietheorie, Kritische Theorie
-> → [[DenkerVita/Alex Demirovic|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Alex Demirovic|DenkerVita]]
 >
 > **Isabell Lorey** (*1964*) — Politikwissenschaftlerin, Professorin für Queer Studies an der Kunsthochschule für Medien Köln (KHM). Promotion 1996 über Judith Butler, Habilitation 2009 (Uni Wien). Kuratoriumssprecherin des Instituts Solidarische Moderne.
 > Wichtigste Werke: *Die Regierung der Prekären* (2012, Vorwort Judith Butler), *Demokratie im Präsens* (2020, Suhrkamp), *Figuren des Immunen* (2011)
 > Kernkonzepte: Gouvernementale Prekarisierung, Biopolitik, Immunisierung, präsentistische Demokratie
-> → [[DenkerVita/Isabell Lorey|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Isabell Lorey|DenkerVita]]
 
 ---
 
@@ -154,7 +154,7 @@ Komplementäre Perspektive: scobel behandelt Foucaults Spätwerk (Aufklärung al
 
 Kompakter Einstieg in Foucaults Frühwerk (Panoptikum, Wahnsinn, Dispositiv), ergänzt durch die Gouvernementalitäts-Analyse der Vorlesung von 1979
 
-### → [[DenkerVita/Michel Foucault]]
+### → [[Gedankenwelten/DenkerVita/Michel Foucault]]
 
 Vollständige DenkerVita mit Biografie, Werkübersicht und Kernthesen
 
@@ -174,11 +174,11 @@ Matteis These, dass Austerität gezielte Disziplinierung ist, ist Gouvernemental
 
 Mausfelds unsichtbare Machttechniken konkretisieren Foucaults Gouvernementalität für die Gegenwart: Die „Lämmer" sind die erfolgreich regierten Subjekte, die ihre Lenkung als eigene Überzeugung erleben
 
-### → [[Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]]
+### → [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]]
 
 Mouffe und Foucault sind komplementäre Kritiken des liberalen Konsens-Projekts: Foucault zeigt, wie neoliberale Gouvernementalität das Subjekt als unternehmerisches Selbst konstituiert; Mouffe zeigt, was dabei politisch verloren geht — der Antagonismus, der produktive Konflikt, das Politische selbst
 
-### → [[Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]]
+### → [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]]
 
 Crouchs Postdemokratie ist die institutionelle Seite des Gouvernementalitäts-Projekts: Foucaults "Freiheit als Köder" und Crouchs "neoliberale leere Hülle" beschreiben denselben Mechanismus — einmal als Subjektivierungsform, einmal als Systemdiagnose
 
@@ -207,5 +207,5 @@ Foucault saß buchstäblich in der zweiten Reihe am Tunix-Kongress 1978 — dem 
 
 Pagis' Fall zeigt Foucaults Selbstregierung im Extrem: Die maoistische Selbstkritik als Instrument, durch das die Gruppenmitglieder Fernandos Bewertungsmaßstäbe so vollständig internalisierten, dass sie sich gegenseitig überwachten. Foucaults Theorie als erschreckender Praxisfall.
 
-### → [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]]
+### → [[Gedankenwelten/Panorama/Politik - Verstehen|Panorama — Politik verstehen]]
 Gouvernementalität als Mechanik hinter politischer Macht: Macht ohne Verbot, Freiheit als Regierungsinstrument — die strukturelle Erklärung dafür, warum Bürger still bleiben ohne Zwang.

@@ -26,7 +26,7 @@ Quelle: [Psychoanalyse des Faschismus — Doppelpunkt, SWF (1975)](https://www.y
 > Wichtigste Werke: *Die Furcht vor der Freiheit* (1941), *Die Kunst des Liebens* (1956), *Haben oder Sein* (1976)
 > Kernkonzepte: Autoritärer Charakter, Sadismus/Masochismus, biophile Orientierung, anonyme Autorität, rationale vs. irrationale Autorität
 >
-> → [[DenkerVita/Erich Fromm|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Erich Fromm|DenkerVita]]
 
 ---
 
@@ -189,6 +189,6 @@ Der Mensch hat die Kontrolle über seine Schöpfungen verloren — oder genauer:
 - [[Heinz Bude — Boomer-Soziologie]] — Die Boomer wuchsen mit den Mitscherlichs und der „Unfähigkeit zu trauern" auf. Fromms Analyse des autoritären Charakters beschreibt die psychische Struktur, gegen die sich Budes Boomer abgrenzten: der Gehorsam ihrer Elterngeneration, der Leistungsfanatismus. Wo Fromm die Pathologie diagnostiziert, beschreibt Bude die Generation, die sich durch Ironie und Experimentalismus davon zu befreien versuchte
 - [[Julie Pagis — Psychologie der charismatischen Kontrolle]] — Pagis liefert den soziologischen Praxisfall zu Fromms Theorie: Fernando beherrscht seine Gruppe nicht durch Zwang, sondern durch Internalisierung von Schuld und Selbstkritik — der autoritäre Charakter in Aktion, an einem politischen statt religiösen Beispiel
 - [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]] — Quent baut sein Ohnmachts-Konzept direkt auf Fromms Analyse: vier Reaktionsmuster auf Ohnmachtserfahrung, empirisch vermessen (30% umfassend ohnmächtig). Fromm liefert die Psychodynamik, Quent die Gegenwartsdaten
-- [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — der autoritäre Charakter als Psychologie hinter der Bürger/Untertan-Frage: Unterwerfung nicht als Schwäche, sondern als Lösung für erlebte Ohnmacht
-- [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]] — Das empirische Anschauungsmaterial zu Fromms autoritärem Charakter als Empfänger: Dog Whistles funktionieren als Wiedererkennungsritual, nicht als Argumentation — sie setzen voraus, dass der Empfänger Unterwerfung und Ingroup-Zugehörigkeit begehrt. Fromm erklärt das Warum dieser Rezeptionsstruktur; Brockschmidt/Nocun zeigen das Wie der Sendung.
+- [[Gedankenwelten/Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — der autoritäre Charakter als Psychologie hinter der Bürger/Untertan-Frage: Unterwerfung nicht als Schwäche, sondern als Lösung für erlebte Ohnmacht
+- [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]] — Das empirische Anschauungsmaterial zu Fromms autoritärem Charakter als Empfänger: Dog Whistles funktionieren als Wiedererkennungsritual, nicht als Argumentation — sie setzen voraus, dass der Empfänger Unterwerfung und Ingroup-Zugehörigkeit begehrt. Fromm erklärt das Warum dieser Rezeptionsstruktur; Brockschmidt/Nocun zeigen das Wie der Sendung.
 - [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]] — A/N operationalisieren Fromms zentrales Zitat soziologisch: „Destruktivität ist das Ergebnis ungelebten Lebens“ ist bei ihnen keine individuelle Pathologie mehr, sondern eine kollektive Gefühlsstruktur — erzeugt durch regressive Modernisierung, Nullsummendenken und blockierte Lebenschancen. Fromm liefert die Psychodynamik, A/N die Gegenwartssoziologie.

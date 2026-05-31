@@ -20,7 +20,7 @@ Quelle: [Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia E
 > [!info] Wer spricht?
 > **Dr. Giulia Enders** (*1986, Deutschland) — promovierte Ärztin, Wissenschaftskommunikatorin und Bestsellerautorin. 2012 gewann sie dreimal den Science Slam mit ihrem Vortrag über den Darm; 2014 erschien *Darm mit Charme* (8 Millionen Exemplare weltweit, 40 Sprachen). Ihr zweites Buch *Organisch* erschien 2025. Enders forscht an der Schnittstelle von Gastroenterologie, Neurobiologie und Körperpsychologie — und kommuniziert Wissenschaft so, dass sie wieder fühlbar wird.
 >
-> → [[DenkerVita/Giulia Enders|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Giulia Enders|DenkerVita]]
 
 Hotel Matze ist ein Gesprächsformat auf Augenhöhe — Matze Hielscher trifft Menschen zu langen, persönlichen Unterhaltungen. Diese Folge gehört zu einer Januar-Miniserie über Achtsamkeit, Gesundheit und Finanzen.
 

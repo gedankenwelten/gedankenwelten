@@ -26,7 +26,7 @@ Quelle: [Jung & Naiv, Folge 793](https://www.youtube.com/watch?v=E0vTcXBKIFw)
 >
 > Kernwerke: *Landnahme* (mit Rosa & Lessenich), *Kapitalismus, Demokratie, gesellschaftliche Naturverhältnisse*. Kernbegriffe: Landnahme, Prekarisierung, Konfliktpartnerschaft, arbeitende Klassen.
 >
-> → [[DenkerVita/Klaus Doerre|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Klaus Doerre|DenkerVita]]
 
 ---
 
@@ -218,41 +218,41 @@ Faschismus wächst nicht von außen in die Demokratie hinein — er wächst in i
 
 ## Verbindungen
 
-### → [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]]
+### → [[Gedankenwelten/Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 Rosa ist Dörres langjähriger Co-Autor (Postwachstumsgesellschaften, Kollegforschungsgruppe Jena). Dörre teilt Rosas Beschreibung von Beschleunigung und Entfremdung, radikalisiert sie aber klassenpolitisch: Resonanzverlust ist kein bloß kulturelles Phänomen, sondern materielle Folge von Eigentumsverhältnissen.
 
-### → [[Denker/Heiner Flassbeck — Krise und Rechtsruck]]
+### → [[Gedankenwelten/Denker/Heiner Flassbeck — Krise und Rechtsruck]]
 Flassbeck und Dörre diagnostizieren beide die Verbindung von wirtschaftlicher Krise und politischem Rechtsruck — Flassbeck eher aus makroökonomischer Lohn-Exportmodell-Perspektive, Dörre aus Klassen- und Industriesoziologie. Ergänzung: Was Flassbeck auf Exportüberschüsse zurückführt, erklärt Dörre durch den Zerfall der Konfliktpartnerschaft.
 
-### → [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
+### → [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
 Dörres Begriff der „kapitalistischen Landnahme" und Wesches Nachweis, dass Eigentumsrecht historisch als Enteignungsinstrument fungierte, ergänzen sich: Dörre erklärt die systemische Logik, Wesche benennt das juristische Vehikel. Beide lesen Art. 14 Abs. 2 GG als unausgeschöpfte Ressource — Dörre für Wirtschaftsdemokratie, Wesche für Naturrechte.
 
-### → [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
+### → [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 Butterwegge konzentriert sich auf Armutsforschung und soziale Ungleichheit; Dörre ergänzt die Klassenperspektive mit Betriebsebene und Kapitalismuskritik. Dörres „untere Klasse" und Butterwegges Armutsanalyse beschreiben dasselbe Phänomen aus verschiedenen analytischen Winkeln.
 
-### → [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
 Produktiver konzeptueller Widerspruch: Beide sehen in 2008 den Wendepunkt zum autoritären Kapitalismus — Dörre verortet den Motor in der Klassenstruktur, Varoufakis im Designfehler der Eurozone. Dörres "Faschismus wächst in der Demokratie" trifft auf Varoufakis' "Bankenbailout als crime against Europe" — strukturell dieselbe Diagnose, analytisch verschiedene Achsen.
 
-### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
+### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 Kemper analysiert Faschismus als strukturelles Phänomen moderner Gesellschaften — Dörres These, Faschismus sei in liberalen Demokratien angelegt und wachse von innen, schließt direkt an Kempers Analyse an.
 
-### → [[Denker/Chantal Mouffe — Das Politische und die Politik]]
+### → [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik]]
 Mouffe argumentiert für einen agonistischen Demokratiebegriff, der Konflikt als konstitutiv begreift. Dörres Konzept der Konfliktpartnerschaft — Konflikte als Produktivkraft statt zu unterdrücken — ist das Pendant auf Betriebsebene. Beide stellen sich gegen post-politische Konsensvorstellungen.
 
-### → [[Denker/Colin Crouch — Postdemokratie nach den Krisen]]
+### → [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen]]
 Crouch beschreibt, wie formale demokratische Institutionen bestehen, während Macht sich zu wirtschaftlichen Eliten verlagert. Dörres Wirtschaftsdemokratie-These und sein Begriff des autoritären Liberalismus sind strukturell dieselbe Beobachtung — empirisch gesättigt mit Betriebsforschung.
 
-### → [[Denker/Erich Fromm — Psychoanalyse des Faschismus]]
+### → [[Gedankenwelten/Denker/Erich Fromm — Psychoanalyse des Faschismus]]
 Fromm erklärt Faschismus psychodynamisch als Flucht vor Freiheit in autoritäre Unterwerfung. Dörre ergänzt die sozialstrukturelle Seite: Es ist nicht nur Charakter, es sind auch materielle Verhältnisse — Outlaw-Stolz, Abwertungsempfinden, Heimatverlust.
 
-### → [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
+### → [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
 
 Hartmanns Elitenbegriff (Macht als einziges Kriterium) und Dörres Kapitalismuskritik beschreiben denselben Widerspruch aus verschiedenen Winkeln: Formale Demokratie und faktische Machtkonzentration schließen sich zunehmend aus. Dörres „autoritärer Liberalismus" ist das strukturelle Substrat von Hartmanns Diagnose: Eliten schaffen ihre eigenen Regeln — nicht trotz, sondern wegen der liberalen Ordnung.
 
-### → [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
+### → [[Gedankenwelten/Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
 Matteis Kernthese: Austerität ist kein Politikfehler, sondern struktureller Mechanismus zur Wiederherstellung der Klassenverhältnisse — und liberale Demokratien haben den Faschismus dafür eingesetzt. Das ist Dörres autoritärer Liberalismus historisch aufgefüllt: Was Heller 1932 beschreibt, war nicht Ausnahme, sondern Muster.
 
-### → [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt]]
+### → [[Gedankenwelten/Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt]]
 Mau beschreibt die *demobilisierte Klassengesellschaft*: Klasse strukturiert Lebenschancen, führt aber nicht mehr zu Mobilisierung. Das ist exakt Dörres Befund auf Gewerkschaftsebene — der VW-Kompromiss als Symptom einer demobilisierten Klasse, die nicht mehr kämpft, auch wenn sie könnte.
 
 ---

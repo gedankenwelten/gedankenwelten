@@ -56,7 +56,7 @@ Konservativ-republikanisch (Reagan-Tradition), aber scharf kritisch gegenüber d
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Konstantin Flemig]] — Beide analysieren den Ukraine-Krieg regelmäßig; Flemig vor Ort als Journalist, Gerdes aus der Ferne als Akademiker. Flemig liefert Frontberichte, Gerdes Leadership-Analyse und geopolitischen Kontext.
+- [[Gedankenwelten/DenkerVita/Konstantin Flemig]] — Beide analysieren den Ukraine-Krieg regelmäßig; Flemig vor Ort als Journalist, Gerdes aus der Ferne als Akademiker. Flemig liefert Frontberichte, Gerdes Leadership-Analyse und geopolitischen Kontext.
 
 ---
 

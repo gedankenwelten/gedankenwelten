@@ -331,6 +331,6 @@ Mau widerspricht Haidts Polarisierungs-Narrative empirisch: Deutschland ist nich
 ### → [[Liya Yu — Neuropolitik und die Grenzen der Moral]]
 Yu ergänzt Haidts Stammeslogik-Diagnose um die neurowissenschaftliche Ebene: Mentalisierung als Schlüssel zur In-Group-Erweiterung
 
-### → [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
 
 IT Marios drei Populismus-Merkmale (Antielitarismus, Antipluralismus, Komplexitätsreduktion) sind Haidts Stammespsychologie in angewandter Form: Wer das Stammesgefühl anspricht, gewinnt — die AfD-Reden tun das messbar mehr als jede andere Partei.

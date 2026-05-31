@@ -23,7 +23,7 @@ Quelle: [How do you explain consciousness? | David Chalmers | TED](https://www.y
 > Wichtigste Werke: *The Conscious Mind* (1996), *The Character of Consciousness* (2010), *Reality+* (2022)
 > Kernkonzepte: Hard Problem, Philosophical Zombies, Panpsychismus, Extended Mind
 >
-> → [[DenkerVita/David Chalmers|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/David Chalmers|DenkerVita]]
 
 ---
 
@@ -199,7 +199,7 @@ Vipassana ist die *praktische* Antwort auf Chalmers' theoretisches Problem: Stat
 
 Eilenberger kritisiert die akademische Philosophie dafür, Geistesgegenwart durch Theorieproduktion ersetzt zu haben. Chalmers' Ansatz ist einerseits genau das — Theorie auf höchstem Niveau. Andererseits zielt er auf etwas, das die akademische Philosophie jahrzehntelang ignoriert hat: die irreduzible Realität des subjektiven Erlebens. Die Spannung zwischen Eilenbergers Praxis-Forderung und Chalmers' Theorie-Ambition ist produktiv.
 
-### → [[Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]]
+### → [[Gedankenwelten/Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]]
 
 Scobel bringt empirische Meditationsdaten genau dort an, wo Chalmers' Hard Problem sitzt: Daniel Ingrams Jhana-Zustände im fMRT zeigen radikale Gehirnreorganisation — aber *warum* das als Auflösung des Selbst erlebt wird, bleibt unerklärt. Beide stoßen an dieselbe Grenze — Chalmers von der Philosophie, Scobel von der Praxis. Dōgens Genjōkōan verschiebt den Rahmen, ohne das Problem zu lösen.
 

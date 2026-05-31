@@ -19,7 +19,7 @@ aliases:
 Quelle: [Kant in 60 Minuten](https://www.youtube.com/watch?v=q2Wky9MKw50)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Kant-Vortrag komprimiert die beiden Hauptwerke — *Kritik der reinen Vernunft* und *Kritik der praktischen Vernunft* — auf ihre Kerngedanken und macht sie mit lebendigen Alltagsbeispielen greifbar: vom Autobahnhindernis bis zum Schlittschuhläufer, der im Eis einbricht. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Sein Kant-Vortrag komprimiert die beiden Hauptwerke — *Kritik der reinen Vernunft* und *Kritik der praktischen Vernunft* — auf ihre Kerngedanken und macht sie mit lebendigen Alltagsbeispielen greifbar: vom Autobahnhindernis bis zum Schlittschuhläufer, der im Eis einbricht. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Immanuel Kant** (*1724, Königsberg — †1804, Königsberg*) — der vielleicht folgenreichste Denker der westlichen Neuzeit. Lebt und stirbt in derselben Stadt; reist nie weiter als 150 km von seinem Geburtsort. Und trotzdem revolutioniert er das Denken gleich zweifach: erkenntnistheoretisch mit der *Kritik der reinen Vernunft* (1781) und moralisch mit der *Kritik der praktischen Vernunft* (1788).
 >
@@ -28,7 +28,7 @@ Quelle: [Kant in 60 Minuten](https://www.youtube.com/watch?v=q2Wky9MKw50)
 > Wichtigste Werke: *Kritik der reinen Vernunft* (1781), *Grundlegung zur Metaphysik der Sitten* (1785), *Kritik der praktischen Vernunft* (1788), *Kritik der Urteilskraft* (1790)
 > Kernkonzepte: Ding an sich, a priori, kategorischer Imperativ, transzendentale Ästhetik, 12 Kategorien des Verstandes
 >
-> → [[DenkerVita/Immanuel Kant|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Immanuel Kant|DenkerVita]]
 
 ---
 

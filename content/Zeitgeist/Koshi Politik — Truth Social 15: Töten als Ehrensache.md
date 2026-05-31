@@ -96,7 +96,7 @@ Redeckers „Drang nach Härte" findet hier seinen Höhepunkt: nicht mehr Härte
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 Kemper: Faschismus ist nicht nur ideologisch — er ist performativ. Dieser Post ist Performance: Ich töte, also bin ich.
 
-### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Gedankenwelten/Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Hagemeyer: Narzissmus braucht Stimulation und Wichtigkeit. „Was für eine Ehre" — die Tötung anderer als Selbstbestätigung. Das ist das narzisstische Kalkül in seiner gefährlichsten Form.
 
 ### → [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]

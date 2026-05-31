@@ -107,7 +107,7 @@ Ihre zentrale Kritik ist **nicht anti-kapitalistisch**, sondern **kapitalismusko
 
 *(alle Notes im Vault die Julia Friedrichs behandeln)*
 
-- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Paneldiskussion mit Friedrichs als Hauptvoice zu Vermögenskonzentration, Steuervermeidung, Parallelgesellschaften
+- [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]] — Paneldiskussion mit Friedrichs als Hauptvoice zu Vermögenskonzentration, Steuervermeidung, Parallelgesellschaften
 
 ---
 

@@ -19,14 +19,14 @@ aliases:
 Quelle: [Schopenhauer in 60 Minuten](https://www.youtube.com/watch?v=rLZqoXsyvp4)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Im Schopenhauer-Vortrag zeigt Ziegler den brillantesten Pessimisten der Philosophiegeschichte — und seine verblüffende Nähe zum Buddhismus. → [[DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Im Schopenhauer-Vortrag zeigt Ziegler den brillantesten Pessimisten der Philosophiegeschichte — und seine verblüffende Nähe zum Buddhismus. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Arthur Schopenhauer** (*1788, Danzig — †1860, Frankfurt am Main*) — Sohn eines wohlhabenden Kaufmanns, der sich mit 25 den Tod nahm. Die Mutter, Johanna Schopenhauer, war eine erfolgreiche Schriftstellerin — das Verhältnis zwischen Mutter und Sohn blieb lebenslang vergiftet. Studium in Göttingen und Berlin, wo er Fichte hörte und verachtete. Mit 30 Jahren veröffentlichte er sein Hauptwerk *Die Welt als Wille und Vorstellung* — das Buch fiel durch, wurde kaum gelesen. Erst in seinen letzten Lebensjahren, nach Jahrzehnten der Verbitterung und Isolation in Frankfurt, kam der späte Ruhm. Erster westlicher Philosoph, der den Buddhismus systematisch in sein Denken integrierte.
 >
 > Wichtigste Werke: *Die Welt als Wille und Vorstellung* (1818/1844), *Über die vierfache Wurzel des Satzes vom zureichenden Grunde* (1813), *Parerga und Paralipomena* (1851), *Über die Freiheit des menschlichen Willens* (1839)
 > Kernkonzepte: Wille zum Leben, Welt als Vorstellung, Pessimismus, Mitleid als Moral, Ästhetische Kontemplation, Askese und Willensverneinung
 >
-> → [[DenkerVita/Arthur Schopenhauer|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Arthur Schopenhauer|DenkerVita]]
 
 ---
 

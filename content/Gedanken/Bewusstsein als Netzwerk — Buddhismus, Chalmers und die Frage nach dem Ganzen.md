@@ -419,4 +419,4 @@ James' Pragmatismus läuft genau hierauf hinaus: Eine Überzeugung, die das Lebe
 - [[Walther Ziegler — Descartes in 60 Minuten]] — Der historische Dualismus als Vorläufer: res cogitans vs. res extensa; Damasio als direkte Gegenbewegung
 - [[Hans-Peter Dürr — Die neue Physik]] — Anti-Reduktionismus aus der Physik: nicht-materielle Ebene, die organisiert; verwandt mit Kastrups Idealismus
 - [[Platon — Das Höhlengleichnis]] — Korrelation vs. Erklärung: die Schatten kartieren oder das Feuer finden?
-- [[Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]] — Daniel Ingrams Jhana-fMRT-Daten als empirisches Material für die Nibbāna/Φ=0-Frage; Josipovic (DMN/dorsales Aufmerksamkeitsnetzwerk) ergänzt die Varela/Metzinger/Seth-Linie
+- [[Gedankenwelten/Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]] — Daniel Ingrams Jhana-fMRT-Daten als empirisches Material für die Nibbāna/Φ=0-Frage; Josipovic (DMN/dorsales Aufmerksamkeitsnetzwerk) ergänzt die Varela/Metzinger/Seth-Linie

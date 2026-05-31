@@ -18,10 +18,10 @@ Quelle: [Wie wir unsere Leichtigkeit retten (2026) — Körber-Stiftung](https:/
 
 > [!info] Wer spricht?
 > **Dirk von Petersdorff** (*1966, Kiel*) — Literaturwissenschaftler, Lyriker und Professor für Neuere Deutsche Literatur an der Universität Jena. Kleist-Preisträger, Mitglied der Akademie der Wissenschaften und der Literatur. Bewegt sich als Ironiker zwischen Brentano und Tocotronic. Sein Sachbuch *Wir Kinder der Leichtigkeit* (2025) erzählt die Geschichte der kulturellen Unbeschwertheit seit den Siebzigern.
-> → [[DenkerVita/Dirk von Petersdorff|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Dirk von Petersdorff|DenkerVita]]
 >
 > **Niclas Seydack** (*1990, Ostsee*) — Freier Reporter in München für Die Zeit, Spiegel und SZ Magazin. Millennial-Stimme: aufgewachsen im analogen Bullerbü der Neunziger, geprägt von 9/11, Finanzkrise und Lockdown. Sein Buch *Geile Zeit* (2024) verhandelt das Lebensgefühl einer Generation zwischen Sorglosigkeit und jähem Erwachen.
-> → [[DenkerVita/Niclas Seydack|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Niclas Seydack|DenkerVita]]
 >
 > **Ulrich Kühn** (Moderation) — Journalist beim NDR, Leiter der Abteilung Kunst und Kulturjournalismus. Moderiert die renommierten Herrenhäuser Gespräche.
 >
@@ -183,7 +183,7 @@ Konzeptuelles Gegenstück: Wo Petersdorff/Seydack den Verlust der Leichtigkeit d
 
 Leichtigkeit als Sein-Modus: Die kulturelle Leichtigkeit der 70er/80er war ein Moment, in dem das Sein dem Haben noch nicht vollständig untergeordnet war. Der neoliberale Shift zur Selbstoptimierung ist Fromms Diagnose der Haben-Orientierung.
 
-### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
 Petersdorffs Kulturgeschichte der Leichtigkeit ist direktes kulturelles Gedächtnis zu Posschardts Diagnose: Der neoliberale Freiheitsbegriff war für eine Generation zunächst als Befreiung erlebt — bevor er sich in Selbstoptimierungsdruck und moralische Bevormundung umwandelte.
 

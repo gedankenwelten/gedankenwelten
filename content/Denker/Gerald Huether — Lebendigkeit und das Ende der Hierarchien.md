@@ -30,7 +30,7 @@ Quelle: [Deshalb fühlst du dich schlecht (Gerald Hüther) — ungeskriptet by B
 > Wichtigste Werke: *Bedienungsanleitung für ein menschliches Gehirn* (2001), *Was wir sind und was wir sein könnten* (2011), *Jedes Kind ist hoch begabt* (2012), *Würde* (2018), *Lieblosigkeit macht krank* (2021)
 > Kernkonzepte: Selbstorganisation, Kohärenz, Subjekt vs. Objekt, Potenzialentfaltung, Verwicklung, Lebendigkeit, Einladen-Ermutigen-Inspirieren
 >
-> → [[DenkerVita/Gerald Hüther|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Gerald Hüther|DenkerVita]]
 
 > [!quote] Kernthese
 > Das Hirn ist ein Selbstorganisationssystem, das immer den energiesparendsten Weg sucht. Was wir Persönlichkeit nennen, sind verfestigte Kindheits-Lösungen für inkohärente Zustände. Die meisten dieser Lösungen versauen uns das Leben — und die Welt, die wir gebaut haben, hält sie aufrecht. Befreiung beginnt nicht mit Anstrengung, sondern mit Lebendigkeit.

@@ -18,7 +18,7 @@ aliases:
 
 ---
 
-> Erster Teil einer Reihe. Weiter: [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]] · [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
+> Erster Teil einer Reihe. Weiter: [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]] · [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
 
 > *Was ändert es, wie ich einem anderen Menschen begegne?*
 > *Alles. Aber wir sehen es nicht, weil Gravitation leise wirkt.*
@@ -75,7 +75,7 @@ Es gibt zwei Gründe, warum das unsichtbare Netzwerk unsichtbar bleibt.
 
 **Der strukturelle Grund:** Die Herkunftsadresse verschwindet. Der Faden ist eingewoben — er ist jetzt du. Selbst wer aufmerksam hinschaut, kann das unsichtbare Netzwerk nicht kartografieren. Es entzieht sich nicht nur der Wahrnehmung, sondern auch der Rückverfolgung.
 
-*Was folgt, wenn andere diese Unsichtbarkeit ausnutzen — und wie das unsichtbare Netzwerk selbst zur Waffe werden kann: → [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]]*
+*Was folgt, wenn andere diese Unsichtbarkeit ausnutzen — und wie das unsichtbare Netzwerk selbst zur Waffe werden kann: → [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]]*
 
 ---
 
@@ -338,7 +338,7 @@ Sein-Modus als Voraussetzung. Wer in der Begegnung etwas *haben* will (Bestätig
 
 Vipassana ist die innere Form dieser Praxis. Was Goenka auf dem Kissen lehrt — beobachten, nicht reagieren, den Raum zwischen Reiz und Reaktion offen halten — ist genau das, was in der alltäglichen Begegnung lebendig wird. Diese Note ist Vipassana außerhalb des Kissens.
 
-### → [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]]
+### → [[Gedankenwelten/Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]]
 
 Das Paradox des Schmieds ist Yin und Yang in Reinform: Altruismus trägt den Egoismus in sich, Geben trägt das Empfangen, Schwäche des Einzelnen wird zur Stärke der Gemeinsamkeit. Die langen Löffel sind das Bild — wer dem anderen reicht, füttert sich selbst.
 
@@ -354,7 +354,7 @@ Hundert Argumente bewegen kein Weltbild. Eine einzige unerwartete Erfahrung kann
 
 Resonanz beschreibt genau das, was zwischen den langen Löffeln passiert: nichts kann erzwungen werden, alles antwortet — oder antwortet nicht. Rosas Steigerungslogik erklärt zugleich, warum diese leise Praxis dem Blick einer auf Sensation kalibrierten Welt entgeht.
 
-### → [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
+### → [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
 
 Verb-Denken und Faden folgen demselben Gesetz: keine Behauptung, kein Hammer — sondern Fragen, Angebote, Räume zum Aufnehmen. *Fragend statt behauptend* ist die sprachliche Form dessen, was das unsichtbare Netzwerk in jeder Begegnung ist.
 
@@ -374,6 +374,6 @@ Architekten denken Systeme von oben — diese Note denkt Begegnungen von unten. 
 
 Adriaans Titel sagt schon das Paradox vom langen Löffel: Selbstfürsorge und Fürsorge für andere sind nicht zwei Bewegungen, sondern eine. Wer für sich sorgt, hat etwas zu geben; wer gibt, sorgt im selben Moment für sich. Adriaan gibt das *Warum* der inneren Arbeit, diese Note das *Wie* ihrer alltäglichen Wirkung.
 
-### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+### → [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
 
 Die Brandmauer als nötige Membran zum offenen Netzwerk: nicht jeden Faden bedingungslos annehmen, sondern auf Dogma-Freiheit prüfen. Das unsichtbare Netzwerk ist keine grenzenlose Hingabe — es ist offen, aber nicht naiv.

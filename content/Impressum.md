@@ -13,7 +13,7 @@ c/o IP-Management #10397<br>
 Ludwig-Erhard-Str. 18<br>
 20459 Hamburg
 
-**E-Mail:** [luc@gedankenwelten.net](mailto:luc@gedankenwelten.net)
+**E-Mail:** [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org)
 
 ---
 

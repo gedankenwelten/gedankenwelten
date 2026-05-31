@@ -178,15 +178,15 @@ Kernforderung: **KI muss demokratischer Kontrolle unterliegen.** Alle Macht vom 
 
 ## Verbindungen
 
-### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocun liefert die empirische Substanz zu Kempers Technofaschismus-These: KI-Fake-Frauen (Larissa Wagner, Jessica Foster), koordinierte Sockenpuppen-Netzwerke (190 Profile, 22 Personas) und Verfallporn als Realitätskonstruktion — das ist Kempers Werkzeugkasten in live dokumentierten Fällen.
 
-### → [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]]
+### → [[Gedankenwelten/Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]]
 
 Henze zeigt die religiöse Dimension des Phänomens, das Kemper strukturell beschreibt: Die Vereinnahmung von Bonhoeffer durch evangelikale Kreise ist nicht zufällig, sondern Teil derselben Legitimationsbeschaffung. Kemper analysiert den ideologischen Rahmen — Henze zeigt, wie dieser durch symbolische Aneignung historischer Widerstandsfiguren Bürgerlichkeit imitiert.
 
-### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
+### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 Volller Vortrag an der Uni Paderborn — liefert die Theoriebasis, die diesem Interview zugrunde liegt: Roger Griffins palingenetischer Ultranationalismus, Theweleits Körperpolitik, Machiavelli und Identifikation mit dem Aggressor. Außerdem: Klerikalfaschismus und das aristokratische Netzwerk (Beatrix von Storch, Edmund von Waldstein, JD Vance) als zweiter Faschismus-Typ.
 
 ### → [[Denker/Heiner Flassbeck — Krise und Rechtsruck]]
@@ -210,7 +210,7 @@ Arendt: Banalität des Bösen — das Böse braucht keine Monster, sondern Gedan
 ### → [[Denker/Götz Aly — Wie konnte das geschehen]]
 Aly analysiert die gesellschaftlichen Bedingungen des NS. Kemper schlägt die Brücke zur Gegenwart: Dieselbe Ungleichzeitigkeit (Ernst Bloch), dieselbe Technologienutzung (IBM → KI), dieselbe Verbindung von rückwärtsgewandter Rhetorik und moderner Infrastruktur.
 
-### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 Tooze zeigt den Technofaschismus aus wirtschaftspolitischer Perspektive in Aktion: Das Pentagon unter Hegseth fordert Claude für autonome Kampfroboter und Massenüberwachung — exakt die beiden Anwendungsfelder, die Kemper als Kern postfordistischer faschistischer Herrschaft beschreibt. Kemper liefert die Theorie, Tooze den aktuellen Casus.
 
 ---
@@ -276,10 +276,10 @@ Weidel neben Markus Krall beim AWEF: praktische Illustration der libertär-fasch
 
 Grenzgänger Studios liefert das investigative Gesamtbild zu Kempers Technofaschismus-Analyse: Thiels Weg von der Apartheid-Kindheit über Stanford-Isolation und PayPal-Mafia bis zur These „Freiheit und Demokratie sind unvereinbar". Kemper beschreibt die ideologische Struktur des Technofaschismus — Grenzgänger Studios dokumentiert seinen prominentesten Architekten in voller biografischer Tiefe.
 
-### → [[Zeitgeist/Morpheus - Whistleblower mundtot machen]]
+### → [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]]
 
 Morpheus zeigt Kempers Technofaschismus als Produkt: Objection.ai ist SLAPP als Service — algorithmische Einschüchterung, die keine Massenaufmärsche braucht, sondern 2.000 Dollar und eine KI, die auf jedem Artikel Angriffspunkte findet.
 
-### → [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
 
 IT Mario weist mit KI-Sprachanalyse nach, was Kemper durch linguistische Sprachmarker zeigt: AfD-Rhetorik folgt systematischen Mustern. Zwei unabhängige Methoden — Corpus-Linguistik und LLM-Scoring — konvergieren zu derselben Diagnose.

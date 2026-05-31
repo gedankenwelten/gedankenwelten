@@ -28,7 +28,7 @@ Quelle: [„Erhalten kann man das Leben nur, wenn man die Welt liebt" (SRF 1979)
 > Wichtigste Werke: *Die Furcht vor der Freiheit* (1941), *Die Kunst des Liebens* (1956), *Haben oder Sein* (1976)
 > Kernkonzepte: Haben-Modus / Sein-Modus, Entfremdung, biophile vs. nekrophile Orientierung, gesellschaftliches Unbewusstes
 >
-> → [[DenkerVita/Erich Fromm|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Erich Fromm|DenkerVita]]
 
 ---
 

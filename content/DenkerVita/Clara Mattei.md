@@ -80,9 +80,9 @@ Mattei bezeichnet sich als *antikapitalistisch* — nicht als kommunistisch oder
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Erich Fromm]] — Fromms „Haben oder Sein"-Kritik beschreibt die psychische Dimension dessen, was Mattei ökonomisch analysiert: der „tugendhafte Sparer" als Idealtypus der Haben-Orientierung
-- [[DenkerVita/Heiner Flassbeck]] — Flassbeck teilt die Kritik an neoklassischer Ökonomie und Austeritätspolitik, bleibt aber im keynesianischen Rahmen — genau die Position, die Mattei als zu unpolitisch kritisiert
-- [[DenkerVita/Maurice Hoefgen]] — Höfgens MMT-Perspektive auf Staatsfinanzierung ergänzt Matteis strukturelle Austeritäts-Analyse, geht aber nicht an die Eigentumsfrage
+- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromms „Haben oder Sein"-Kritik beschreibt die psychische Dimension dessen, was Mattei ökonomisch analysiert: der „tugendhafte Sparer" als Idealtypus der Haben-Orientierung
+- [[Gedankenwelten/DenkerVita/Heiner Flassbeck]] — Flassbeck teilt die Kritik an neoklassischer Ökonomie und Austeritätspolitik, bleibt aber im keynesianischen Rahmen — genau die Position, die Mattei als zu unpolitisch kritisiert
+- [[Gedankenwelten/DenkerVita/Maurice Hoefgen]] — Höfgens MMT-Perspektive auf Staatsfinanzierung ergänzt Matteis strukturelle Austeritäts-Analyse, geht aber nicht an die Eigentumsfrage
 
 ---
 

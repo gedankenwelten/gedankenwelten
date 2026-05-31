@@ -145,7 +145,7 @@ Direkte Fortsetzung: Was passiert innenpolitisch, nachdem die MAGA-Basis merkt, 
 ### → [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
 Die finanzielle Entblößung des Iran-Krieges ist der Auslöser für MAGA 2.0 — Ex-MAGA die sich vom Personenkult lösen.
 
-### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Gedankenwelten/Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Hagemeyer: Narzissten brauchen externe Bestätigung und sind manipulierbar durch Schmeichelei und Geld. Die Golfstaaten haben genau das ausgenutzt.
 
 ### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]

@@ -24,7 +24,7 @@ Quelle: [„Brauchen wir eine Boomer-Soziologie?" — Vortrag an der Humboldt-Un
 > Wichtigste Werke: *Deutsche Karrieren* (1987), *Generation Berlin* (2001), *Gesellschaft der Angst* (2014), *Abschied von den Boomern* (2024)
 > Kernkonzepte: Generationssoziologie, kommunikatives Beschweigen, Boomer-Experimentalismus
 >
-> → [[DenkerVita/Heinz Bude|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Heinz Bude|DenkerVita]]
 
 ---
 

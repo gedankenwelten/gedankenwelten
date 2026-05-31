@@ -72,8 +72,8 @@ Links-emanzipatorisch, queer-feministisch. Klar im Spektrum kritischer Theorie v
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Michel Foucault]] — Loreys gesamtes Werk baut auf Foucaults Gouvernementalitäts- und Biopolitikanalyse auf, wendet sie auf gegenwärtige Prekarisierung an
-- [[DenkerVita/Alex Demirovic]] — Gemeinsamer Podcast-Auftritt; beide verbinden kritische Theorie mit Foucault, aber Demirović aus materialistisch-staatstheoretischer, Lorey aus queer-feministischer Perspektive
+- [[Gedankenwelten/DenkerVita/Michel Foucault]] — Loreys gesamtes Werk baut auf Foucaults Gouvernementalitäts- und Biopolitikanalyse auf, wendet sie auf gegenwärtige Prekarisierung an
+- [[Gedankenwelten/DenkerVita/Alex Demirovic]] — Gemeinsamer Podcast-Auftritt; beide verbinden kritische Theorie mit Foucault, aber Demirović aus materialistisch-staatstheoretischer, Lorey aus queer-feministischer Perspektive
 
 ---
 

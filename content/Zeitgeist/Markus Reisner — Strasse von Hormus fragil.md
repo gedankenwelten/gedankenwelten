@@ -21,7 +21,7 @@ Quelle: [Oberst Reisner: Lage an der Straße von Hormus ist fragil | ntv](https:
 > Seit 2022 einer der gefragtesten Militärexperten im deutschsprachigen Fernsehen (ntv, ZDF, ORF, Welt). Forschungsschwerpunkte: unbemannte Waffensysteme, Drohnenkrieg, asymmetrische Konflikte.
 >
 > Wichtigste Werke: *Robotic Wars* (2018), *Die taktische Drohne* (2022), *Defense against Drones* (2024)
-> → [[DenkerVita/Markus Reisner|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Markus Reisner|DenkerVita]]
 
 ---
 

@@ -23,7 +23,7 @@ Quelle: [Journalist Evan Osnos über die Ultrareichen, Mark Zuckerberg & Megayac
 > [!info] Wer spricht?
 > **Evan Osnos** (*24. Dezember 1976, London*) — US-amerikanischer Journalist und Autor beim *New Yorker*, wo er seit 2008 über Politik, Außenpolitik und die Welt der Superreichen berichtet. Studium magna cum laude in Government an der Harvard University (1998). Früherer China-Korrespondent und Peking-Bürochef der *Chicago Tribune*, Pulitzer-Preisträger (Team, 2001 und 2008). Sein Buch *Age of Ambition: Chasing Fortune, Truth, and Faith in the New China* (2014) gewann den National Book Award. Neues Buch: *Yacht oder nicht Yacht. Nachrichten aus der Welt der Ultrareichen* (dt. C.H.Beck 2026, engl. Original *The Haves and Have-Yachts*, 2025). Derzeit auch Senior Fellow am Brookings Institution und Co-Host des *New Yorker Political Scene*-Podcasts.
 >
-> → [[DenkerVita/Evan Osnos|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Evan Osnos|DenkerVita]]
 
 ---
 
@@ -241,7 +241,7 @@ Klarsprech zeigt, wohin Osnos' Ultrareiche gehen, wenn Megayachten nicht mehr re
 
 Markovits' *Meritocracy Trap* liefert die strukturelle Erklärung für Osnos' Befund: Der geographische, kulturelle und lebensweltliche Separatismus der Ultrareichen — die Bunker, die Megayachten, die Parallelwelten — ist die räumliche Manifestation einer ökonomischen Kastenbildung. Osnos beobachtet von außen; Markovits erklärt die Mechanik.
 
-### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
+### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Komplementäre Winkel: Osnos seziert die Psychologie der Ultrareichen von außen ("principal"-Struktur, Devothaltung im Umfeld); Studio Bonn benennt denselben Mechanismus von innen — mit Engelhorns Insider-Erfahrung. Wo Osnos fragt "Wie werden Milliardäre so?", fragt Studio Bonn "Was macht das mit der Demokratie?"
 

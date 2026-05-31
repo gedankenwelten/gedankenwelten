@@ -19,7 +19,7 @@ Quelle: [Endloser Krieg](https://www.youtube.com/watch?v=PkOmgoyDTps)
 
 > [!info] Wer spricht?
 > **Martin Sonneborn** (*1965, Göttingen*) — Satiriker, Ex-Chefredakteur der *Titanic*, Gründer von Die PARTEI. 2014–2024 fraktionsloses Mitglied des Europäischen Parlaments. Nutzt Satire als politisches Instrument, kritisiert EU-Intransparenz, Rüstungslobbyismus und westliche Kriegspolitik. Unterstützer von Julian Assange. Umstritten wegen ablehnender Haltung zu Ukraine-Waffenlieferungen — für Kritiker ein „Putin-Versteher", für Anhänger einer der wenigen ehrlichen Stimmen gegen den militärisch-industriellen Komplex.
-> → [[DenkerVita/Martin Sonneborn|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Martin Sonneborn|DenkerVita]]
 
 ---
 

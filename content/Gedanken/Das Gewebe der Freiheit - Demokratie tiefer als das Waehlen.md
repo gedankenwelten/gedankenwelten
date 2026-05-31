@@ -108,13 +108,13 @@ Und dann vielleicht: *Was möchte ich weitergeben?*
 
 ## Verbindungen
 
-- [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — die strukturelle Grundlage: warum Demokratie als Machtsystem verstanden werden muss, bevor man sie verteidigen kann
-- [[Gedanken/Die Wurzel verstehen - Politik jenseits des Konsums|Die Wurzel verstehen]] — Schwestergedanke: wie man Politik anders lesen lernt
-- [[Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche|Der Dara — Merz 72-Stunden-Arbeitswoche]] — der konkrete Anlass: der 8-Stunden-Tag als erkämpfte, nicht natürliche Errungenschaft
-- [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Steffen Mau — Triggerpunkte]] — warum Menschen, die am meisten verlieren würden, trotzdem für die Erosion stimmen: Statusangst
-- [[Gedanken/Polarisierung als Ideologisierungsfalle|Polarisierung als Ideologisierungsfalle]] — der Mechanismus, der das Gewebeverständnis verhindert: wenn Überzeugung zur Identität wird
-- [[Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]] — Crouchs Goldman-Sachs-Beispiel ist das Gewebe-Argument von der institutionellen Seite: Postdemokratie zieht Fäden heraus, die man nicht sieht — bis zum Systemversagen 2008
-- [[Zeitgeist/Morpheus - Whistleblower mundtot machen]] — Objection.ai als direkter Angriff auf das demokratische Gewebe: Wenn Pressefreiheit und Whistleblower-Schutz algorithmisch aushöhlbar werden, verliert Demokratie einen ihrer tragenden Fäden
+- [[Gedankenwelten/Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — die strukturelle Grundlage: warum Demokratie als Machtsystem verstanden werden muss, bevor man sie verteidigen kann
+- [[Gedankenwelten/Gedanken/Die Wurzel verstehen - Politik jenseits des Konsums|Die Wurzel verstehen]] — Schwestergedanke: wie man Politik anders lesen lernt
+- [[Gedankenwelten/Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche|Der Dara — Merz 72-Stunden-Arbeitswoche]] — der konkrete Anlass: der 8-Stunden-Tag als erkämpfte, nicht natürliche Errungenschaft
+- [[Gedankenwelten/Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Steffen Mau — Triggerpunkte]] — warum Menschen, die am meisten verlieren würden, trotzdem für die Erosion stimmen: Statusangst
+- [[Gedankenwelten/Gedanken/Polarisierung als Ideologisierungsfalle|Polarisierung als Ideologisierungsfalle]] — der Mechanismus, der das Gewebeverständnis verhindert: wenn Überzeugung zur Identität wird
+- [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen|Crouch — Postdemokratie nach den Krisen]] — Crouchs Goldman-Sachs-Beispiel ist das Gewebe-Argument von der institutionellen Seite: Postdemokratie zieht Fäden heraus, die man nicht sieht — bis zum Systemversagen 2008
+- [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]] — Objection.ai als direkter Angriff auf das demokratische Gewebe: Wenn Pressefreiheit und Whistleblower-Schutz algorithmisch aushöhlbar werden, verliert Demokratie einen ihrer tragenden Fäden
 
 ---
 

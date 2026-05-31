@@ -57,11 +57,11 @@ Sterner ist parteilos und positioniert sich als wissenschaftlicher Pragmatiker. 
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Maja Goepel|Maja Göpel]] — Beide argumentieren für eine Transformation, die Wohlstand statt nur Wachstum misst. Göpels BIP-Kritik und Sterners Fokus auf regionale Wertschöpfung ergänzen sich.
+- [[Gedankenwelten/DenkerVita/Maja Goepel|Maja Göpel]] — Beide argumentieren für eine Transformation, die Wohlstand statt nur Wachstum misst. Göpels BIP-Kritik und Sterners Fokus auf regionale Wertschöpfung ergänzen sich.
 
 ---
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade|Energiewende-Studie und Reiche-Blockade]]
-- [[Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft|Reiche gegen Marktwirtschaft]]
+- [[Gedankenwelten/Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade|Energiewende-Studie und Reiche-Blockade]]
+- [[Gedankenwelten/Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft|Reiche gegen Marktwirtschaft]]

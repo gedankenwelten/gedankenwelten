@@ -240,7 +240,7 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]] | Kontext · Wahlautokratie wankt |
 | [[Ernst Gelegs — Ist das Regime Orbán am Ende]] | Kontext · Ungarn |
 | [[ARTE — Forschung Fake und faule Tricks]] | Ursache · Agnotologie |
-| [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] | Konsequenzen · Machtbilanz der AfD-Vorbilder |
-| [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] | Instrument · GFF-Gutachten zur Verfassungswidrigkeit — juristische Operationalisierung des Verbotsdiskurses |
-| [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] | Empirie · KI-gestützte Quantifizierung von Populismus und Lügen in 45.000 Bundestags-Reden |
-| [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] | Praxis · Resilienz, MDR-Szenario, Verbotsverfahren, Demokratieprojekte |
+| [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] | Konsequenzen · Machtbilanz der AfD-Vorbilder |
+| [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] | Instrument · GFF-Gutachten zur Verfassungswidrigkeit — juristische Operationalisierung des Verbotsdiskurses |
+| [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] | Empirie · KI-gestützte Quantifizierung von Populismus und Lügen in 45.000 Bundestags-Reden |
+| [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] | Praxis · Resilienz, MDR-Szenario, Verbotsverfahren, Demokratieprojekte |

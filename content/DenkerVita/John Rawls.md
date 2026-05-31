@@ -77,16 +77,16 @@ Rawls wird oft als Theoretiker der Sozialdemokratie oder des linken Liberalismus
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Immanuel Kant]] — Rawls' direkter philosophischer Vater: Der Urzustand ist die Prozeduralisierung des kategorischen Imperativs
-- [[DenkerVita/Karl Marx]] — Marx analysiert die Ursachen der Ungleichheit, Rawls fragt: unter welchen Bedingungen ist sie *zulässig*?
-- [[DenkerVita/Arthur Schopenhauer]] — Schopenhauers Mitleidsethik vs. Rawls' rationale Verfahrensgerechtigkeit — zwei Wege zur selben Frage
-- [[DenkerVita/Erich Fromm]] — Fromm fragt, ob die Fixierung auf Güter das Problem ist; Rawls fragt, wie man sie gerecht verteilt
-- [[DenkerVita/Martyna Linartas]] — Liefert die empirischen Daten zu Rawls' Differenzprinzip: die Erbengesellschaft verletzt es fundamental
-- [[DenkerVita/Heiner Flassbeck]] — Makroökonomische Belege für die Verletzung des Differenzprinzips: stagnierende Löhne bei explodierenden Kapitalerträgen
+- [[Gedankenwelten/DenkerVita/Immanuel Kant]] — Rawls' direkter philosophischer Vater: Der Urzustand ist die Prozeduralisierung des kategorischen Imperativs
+- [[Gedankenwelten/DenkerVita/Karl Marx]] — Marx analysiert die Ursachen der Ungleichheit, Rawls fragt: unter welchen Bedingungen ist sie *zulässig*?
+- [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]] — Schopenhauers Mitleidsethik vs. Rawls' rationale Verfahrensgerechtigkeit — zwei Wege zur selben Frage
+- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromm fragt, ob die Fixierung auf Güter das Problem ist; Rawls fragt, wie man sie gerecht verteilt
+- [[Gedankenwelten/DenkerVita/Martyna Linartas]] — Liefert die empirischen Daten zu Rawls' Differenzprinzip: die Erbengesellschaft verletzt es fundamental
+- [[Gedankenwelten/DenkerVita/Heiner Flassbeck]] — Makroökonomische Belege für die Verletzung des Differenzprinzips: stagnierende Löhne bei explodierenden Kapitalerträgen
 
 ---
 
 ## Cortex-Notes
 
 - [[Walther Ziegler — Rawls in 60 Minuten]] — Einführung in die Theorie der Gerechtigkeit (Vortrag)
-- [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]] — Soroushs Befund aus der islamischen Tradition als Komplement zu Rawls' Overlapping Consensus: Demokratie ist nicht aus dem Islam ableitbar, aber Muslime können über Gerechtigkeit konvergieren
+- [[Gedankenwelten/Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]] — Soroushs Befund aus der islamischen Tradition als Komplement zu Rawls' Overlapping Consensus: Demokratie ist nicht aus dem Islam ableitbar, aber Muslime können über Gerechtigkeit konvergieren

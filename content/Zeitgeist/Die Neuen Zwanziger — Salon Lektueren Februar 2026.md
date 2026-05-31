@@ -22,7 +22,7 @@ Quelle: [Die Neuen Zwanziger — Salon Februar 2026](https://steady.page/de/neue
 
 > [!info] Wer spricht?
 > **Wolfgang M. Schmitt** und **Stefan Schulz** — Hosts des Podcasts „Die Neuen Zwanziger". Zweiwöchentlicher Lektüre-Salon, in dem sie Bücher, Artikel und Essays diskutieren. In dieser Ausgabe: eine ausführliche, fundamental-kritische Besprechung von Ulrike Herrmanns neuem Buch *Geld als Waffe — Wie die Wirtschaft über Krieg und Frieden entscheidet*.
-> → [[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
 
 ---
 
@@ -145,6 +145,6 @@ zeigt methodisch, was die Note fordert: Geopolitische Interessen sind eigenstän
 
 Spiegelargument: Während Herrmann Russland/China Ablenkungskriege unterstellt, zeigt Fricke, dass *westliche* Austeritätspolitik die Bedingungen für Autoritarismus schafft
 
-### → [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
 
 Die PhoenixRunde aktualisiert das Taiwan-Kapitel: Trump als erstes macht Waffenlieferungen nach Taiwan zur Verhandlungsmasse. Was im Salon-Lektüren-Gespräch als theoretische Frage stand, ist jetzt geopolitische Realität.

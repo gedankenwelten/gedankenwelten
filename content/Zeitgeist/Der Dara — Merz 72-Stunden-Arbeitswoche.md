@@ -19,7 +19,7 @@ Quelle: [Merz Plant 72-Stunden-Arbeitswoche Und Wird Dafür Heftig ZERLEGT!](htt
 > [!info] Wer spricht?
 > **Marc** (Eigenbezeichnung: **Sadara**), bekannt als **Der Dara** — Social-Media-Berater und politischer YouTuber. Berät u.a. Die Linke im Bundestag. Betreibt den Kanal [@derdara](https://www.youtube.com/@derdara) mit dem Schwerpunkt Aufklärung gegen Rechts, Fake News und Desinformation. Format: politische Reactions und Kommentare.
 >
-> → [[DenkerVita/Der Dara|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Der Dara|DenkerVita]]
 
 ---
 
@@ -155,11 +155,11 @@ Osnos' Analyse der Ultrareichen-Psychologie ergänzt Der Daras einfachere Darste
 
 Die Rentenreform, die Merz beim DGB ankündigte, ist Teil des in der Panorama-Note dokumentierten systematischen Umbaus der Alterssicherung — von solidarisch-umlagefinanziert zu kapitalgedeckt-individualisiert.
 
-### → [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
 Der NANO Talk liefert die theoretische Rahmung zur Merz-Debatte: Nicht zu wenig, sondern falsch arbeiten. Schaupp und Redecker zeigen, warum "mehr Arbeit" empirisch und historisch gescheitert ist, bevor die Politik es fordert.
 
-### → [[Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit — Demokratie tiefer als das Wählen]]
+### → [[Gedankenwelten/Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit — Demokratie tiefer als das Wählen]]
 
 Der 8-Stunden-Tag als Anker: was erkämpft wurde, ist nicht vom Himmel gefallen — und kann wieder abgeschafft werden. Die Demokratie als Gewebe, das man nicht stückweise zerstören kann, ohne das Ganze zu gefährden.
 

@@ -183,41 +183,41 @@ Das ist kein Sentimentalismus. Es ist eine politische Herleitung: Wer Sorgearbei
 
 ## Verbindungen
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Gedankenwelten/Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
 
 Redecker entwickelt im NANO Talk den Faschismus-Begriff direkt weiter: Sorgeunfähigkeit als faschistische Kernlogik. Dort analysiert sie *Phantombesitz* als Erklärung für autoritäre Wut — hier verlinkt sie das mit der Entwertung von Sorgearbeit als strukturellem Muster.
 
-### → [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
+### → [[Gedankenwelten/Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 
 Der Jung & Naiv-Talk vertieft Redeckers Faschismus-Analyse. Die NANO-Diskussion ergänzt die ökonomische und feministische Dimension: Wer Sorgearbeit entwert, schafft die Bedingungen für das, was sie dort beschreibt.
 
-### → [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN]]
+### → [[Gedankenwelten/Zeitgeist/Teresa Buecker — Zeit NEU DENKEN]]
 
 Bücker und der NANO-Talk sind konzeptuell untrennbar: Beide benennen Sorgearbeit als das "unsichtbare Drittel" der statistisch ausgeblendeten Reproduktionsarbeit. Bücker führt "Zeitgerechtigkeit" als politische Kategorie ein — der NANO-Talk liefert mit Redecker und Schaupp die strukturelle Erklärung *warum* diese Arbeit unsichtbar bleibt: weil der Kapitalismus sie als patriarchales Privateigentum behandelt. Von der Diagnose (Bücker) zur Systemursache (NANO).
 
-### → [[Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche]]
+### → [[Gedankenwelten/Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche]]
 
 Spiegelverkehrtes Argument: Der NANO-Talk stellt die These auf, dass wir nicht zu wenig, sondern falsch arbeiten. Der Dara dokumentiert, wie die Merz-Regierung exakt das Gegenteil fordert — mehr Stunden als ökonomisches Heilmittel. Der NANO-Talk ist die theoretische Rahmung für die politische Konfrontation, die Der Dara empirisch zeigt.
 
-### → [[Denker/Walther Ziegler — Marx in 60 Minuten]]
+### → [[Gedankenwelten/Denker/Walther Ziegler — Marx in 60 Minuten]]
 
 Der NANO-Talk greift Marx' "Maschinenfragment" auf, ohne es zu benennen: Die historische Beobachtung, dass technologischer Fortschritt nie zu weniger Arbeit führte, ist Marx' Paradox der Automatisierung im Kapitalismus — Maschinen steigern Profit, nicht Freizeit. Schaupp macht dasselbe Argument für KI. Die Marx-Note liefert die ideengeschichtliche Tiefenschicht für Schaupps Analyse.
 
-### → [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
+### → [[Gedankenwelten/Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
 
 Matteis historische These — Austerität als Instrument zur Disziplinierung der Arbeiterklasse — verbindet sich mit der "halben Demokratie"-Kritik des NANO-Talks: Wir wählen Regierungen, nicht unsere Arbeitsbedingungen. Mattei zeigt, dass diese Asymmetrie historisch konstruiert wurde — die Demokratisierung der Arbeit wäre genau das, was Austeritätspolitik strukturell verhindert.
 
-### → [[Zeitgeist/Maja Goepel — Mut zur Zukunft]]
+### → [[Gedankenwelten/Zeitgeist/Maja Goepel — Mut zur Zukunft]]
 
 Göpels Kritik am BIP als blinder Fortschrittsindikator und ihre Rezeption der Donut-Ökonomie trifft die NANO-These direkt: Die Forderung nach Arbeitszeitverkürzung als ökologischer Notwendigkeit ist die konkrete Policy-Implikation von Göpels These, dass Wachstum als Ziel aufgegeben werden muss. Beide arbeiten mit Kate Raworths Rahmen — Göpel theoretisch, NANO als politische Forderung.
 
-### → [[DenkerVita/Teresa Bücker]]
+### → [[Gedankenwelten/DenkerVita/Teresa Bücker]]
 
 Teresa Bücker hat mit *Alle Zeit* (2022) eine der wichtigsten deutschsprachigen Analysen zur Zeitgerechtigkeit vorgelegt — konzeptuelle Grundlage für die gesamte NANO-Debatte.
 
 ---
 
-### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 „So eine KI fällt ja nicht vom Himmel" — diese Note zeigt, was wirklich dahinter steckt: 150–430 Mio. Menschen, 18–20 Stunden täglich, $20/Woche. Während NANO über die Zukunft der Arbeit diskutiert, arbeitet Joan Kinyua in einem System, das diese Zukunft produziert — ohne Tarifvertrag, ohne Krankenversicherung, mit PTSD.
 

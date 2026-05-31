@@ -89,11 +89,11 @@ Mausfeld: Polarisierung ist kein Zufall, sondern wird durch Meinungskorridore ak
 ### → [[Vipassana/Vipassana — Zehn Tage]]
 Reaktivität als persönliches wie gesellschaftliches Problem. Die Praxis der Beobachtung ohne Reaktion ist das Gegenmittel — auf der individuellen Ebene.
 
-### → [[Gedanken/Die Wurzel verstehen - Politik jenseits des Konsums|Die Wurzel verstehen — Politik jenseits des Konsums]]
+### → [[Gedankenwelten/Gedanken/Die Wurzel verstehen - Politik jenseits des Konsums|Die Wurzel verstehen — Politik jenseits des Konsums]]
 Fortsetzung: Wenn Überzeugung zur Identität wird, ist man nicht mehr Bürger, sondern Untertan. Die Wurzel-Note fragt, wie man aus diesem Modus herauskommt.
 
-### → [[Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]]
+### → [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik|Mouffe — Das Politische und die Politik]]
 Mouffe bietet den theoretischen Rahmen für die Ideologisierungsfalle: Wenn echter politischer Streit aus dem Zentrum verdrängt wird, sucht sich der Antagonismus perifere, unkontrollierbare Wege. Polarisierung als Identitätsfalle ist die Bürger-Perspektive auf das, was Mouffe strukturell diagnostiziert.
 
-### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+### → [[Gedankenwelten/Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
 Die elastische Brandmauer beschreibt den Ausweg aus der Ideologisierungsfalle: nicht starre Abwehr, nicht offene Übernahme — sondern eine Membran, die nach dem Kriterium filtert, ob ein Befund sein Dogma abgelegt hat. Die Falle und der Ausweg aus ihr.

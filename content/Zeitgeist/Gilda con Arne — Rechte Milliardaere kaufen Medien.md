@@ -21,9 +21,9 @@ Quelle: [GCA #30: Wie rechte Milliardäre weltweit Medien unter ihre Kontrolle b
 > Gilda Sahebi und Arne Semsrott machen mit *Gilda con Arne* einen der informiertesten deutschsprachigen Politik-Podcasts — spendenfinanziert und werbefrei. Unterstützenswert: [YouTube](https://www.youtube.com/@GildaconArne) · [Apple Podcasts](https://podcasts.apple.com/de/podcast/gilda-con-arne-der-politik-podcast/id1839234585)
 
 > [!info] Wer spricht?
-> **Gilda Sahebi** (*1984, Teheran*) — Deutsch-iranische Journalistin, Autorin und Podcasterin. Studierte Medizin und Politikwissenschaft, Volontariat beim Bayerischen Rundfunk. Arbeitsschwerpunkte: autoritäre Systeme, gesellschaftliche Polarisierung, Iran, Rassismus. Politikjournalistin des Jahres 2022 (*Medium Magazin*). → [[DenkerVita/Gilda Sahebi|DenkerVita]]
+> **Gilda Sahebi** (*1984, Teheran*) — Deutsch-iranische Journalistin, Autorin und Podcasterin. Studierte Medizin und Politikwissenschaft, Volontariat beim Bayerischen Rundfunk. Arbeitsschwerpunkte: autoritäre Systeme, gesellschaftliche Polarisierung, Iran, Rassismus. Politikjournalistin des Jahres 2022 (*Medium Magazin*). → [[Gedankenwelten/DenkerVita/Gilda Sahebi|DenkerVita]]
 >
-> **Arne Semsrott** (*1988, Hamburg*) — Journalist, Aktivist und Projektleiter von **FragDenStaat**, der zentralen Plattform für Informationsfreiheitsanfragen in Deutschland. Vorstandsmitglied von LobbyControl. Provozierte bewusst Strafverfahren, um §353d StGB verfassungsrechtlich anzufechten — ein Präzedenzfall für Pressefreiheit. → [[DenkerVita/Arne Semsrott|DenkerVita]]
+> **Arne Semsrott** (*1988, Hamburg*) — Journalist, Aktivist und Projektleiter von **FragDenStaat**, der zentralen Plattform für Informationsfreiheitsanfragen in Deutschland. Vorstandsmitglied von LobbyControl. Provozierte bewusst Strafverfahren, um §353d StGB verfassungsrechtlich anzufechten — ein Präzedenzfall für Pressefreiheit. → [[Gedankenwelten/DenkerVita/Arne Semsrott|DenkerVita]]
 >
 > **Gast: Raul Krauthausen** — Aktivist für Inklusion und Behindertenrechte, Gründer der Sozialhelden.
 >
@@ -192,10 +192,10 @@ Redeckers Konzept des Phantombesitzes: Milliardäre beanspruchen Besitz über de
 
 Heinrich analysiert Medien-Bias auf der Mikroebene (Wortwahl, Konnotation im Spiegel), GCA auf der Makroebene (Eigentümerstruktur). Zusammen: Wer die Medien besitzt, bestimmt die Wortwahl — und damit die Wahrnehmung
 
-### → [[Zeitgeist/Semsrott — Zur Gegenmacht]]
+### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Semsrott benennt die konstruktive Antwort auf die hier dokumentierte Medienkonzentration: neue Räume schaffen — Bibliotheken, Podcasts, gemeinnützige Medien. FragDenStaat als Transparenz-Infrastruktur ist das Gegenstück zu Orbáns 80%-Medienkontrolle und der Bolloré-Strategie.
 
-### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
+### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
 
 GCA kartiert die externe Bedrohung (Milliardäre kaufen Redaktionen — Orbán/KESMA, Bolloré/CNews, Ellison/CBS), D/Z kartiert das innere Strukturversagen des Qualitätsjournalismus. Zusammen ergibt sich eine vollständige Mediendiagnose: Demokratische Öffentlichkeit kann durch Übernahme oder durch systemische Logikfehler korrumpiert werden — D/Zs Befund ist der unbequemere, weil er zeigt, dass Qualitätsmedien ohne jeden Besitzerwechsel bereits mitdriften.

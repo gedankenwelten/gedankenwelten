@@ -66,7 +66,7 @@ Liberal-progressiv, deliberativ-demokratisch. Kein Parteipolitiker, sondern öff
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Maja Goepel]] — Gemeinsamer Auftritt im NEU-DENKEN-Podcast; beide verbindet das Interesse an Gelingensbedingungen gesellschaftlicher Transformation
+- [[Gedankenwelten/DenkerVita/Maja Goepel]] — Gemeinsamer Auftritt im NEU-DENKEN-Podcast; beide verbindet das Interesse an Gelingensbedingungen gesellschaftlicher Transformation
 - Heinz von Foerster — Mentor, Konstruktivismus-Prägung
 - Humberto Maturana — Dialogpartner, systemisches Denken
 - Friedemann Schulz von Thun — Freund und Ko-Autor, Kommunikationspsychologie
@@ -76,4 +76,4 @@ Liberal-progressiv, deliberativ-demokratisch. Kein Parteipolitiker, sondern öff
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]]
+- [[Gedankenwelten/Zeitgeist/Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]]

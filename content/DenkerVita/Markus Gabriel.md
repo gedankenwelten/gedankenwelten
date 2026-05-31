@@ -89,14 +89,14 @@ Kontrovers: Akademisch nicht unumstritten — Kritik an mangelnder Argumentation
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Immanuel Kant]] — Gabriels moralischer Universalismus steht in kantischer Tradition, geht aber über den Kategorischen Imperativ hinaus zu objektiven moralischen Tatsachen
-- [[DenkerVita/Georg Wilhelm Friedrich Hegel]] — Akademisch im Deutschen Idealismus verwurzelt; Hegels Dialektik prägt sein Denken über moralischen Fortschritt
-- [[DenkerVita/John Rawls]] — Zitiert Rawls' Differenzprinzip als Maßstab für gerechte Umverteilung
-- [[DenkerVita/Karl Marx]] — Benennt den Klassenkampf, lehnt den Marxismus aber als Gesamtpaket ab; Arbeitswertfrage im KI-Zeitalter ist marxistisch grundiert
-- [[DenkerVita/Steffen Mau]] — Direkte Kritik an Maus Spaltungs-Diagnose: Die sozialwissenschaftlichen Methoden hätten den digitalen Polarisierungstreiber übersehen
-- [[DenkerVita/Niklas Luhmann]] — Explizite Abgrenzung von der Systemtheorie
-- [[DenkerVita/Theodor W. Adorno]] — Beide Frankfurter Tradition, aber Gabriel optimistischer: Moralischer Fortschritt ist möglich, nicht nur Negativität
-- [[DenkerVita/Michel Foucault]] — Gabriels Sinnfeldontologie als Alternative zu Foucaults Diskursanalyse; wo Foucault Macht dekonstruiert, will Gabriel moralische Tatsachen konstruieren
+- [[Gedankenwelten/DenkerVita/Immanuel Kant]] — Gabriels moralischer Universalismus steht in kantischer Tradition, geht aber über den Kategorischen Imperativ hinaus zu objektiven moralischen Tatsachen
+- [[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel]] — Akademisch im Deutschen Idealismus verwurzelt; Hegels Dialektik prägt sein Denken über moralischen Fortschritt
+- [[Gedankenwelten/DenkerVita/John Rawls]] — Zitiert Rawls' Differenzprinzip als Maßstab für gerechte Umverteilung
+- [[Gedankenwelten/DenkerVita/Karl Marx]] — Benennt den Klassenkampf, lehnt den Marxismus aber als Gesamtpaket ab; Arbeitswertfrage im KI-Zeitalter ist marxistisch grundiert
+- [[Gedankenwelten/DenkerVita/Steffen Mau]] — Direkte Kritik an Maus Spaltungs-Diagnose: Die sozialwissenschaftlichen Methoden hätten den digitalen Polarisierungstreiber übersehen
+- [[Gedankenwelten/DenkerVita/Niklas Luhmann]] — Explizite Abgrenzung von der Systemtheorie
+- [[Gedankenwelten/DenkerVita/Theodor W. Adorno]] — Beide Frankfurter Tradition, aber Gabriel optimistischer: Moralischer Fortschritt ist möglich, nicht nur Negativität
+- [[Gedankenwelten/DenkerVita/Michel Foucault]] — Gabriels Sinnfeldontologie als Alternative zu Foucaults Diskursanalyse; wo Foucault Macht dekonstruiert, will Gabriel moralische Tatsachen konstruieren
 
 ---
 

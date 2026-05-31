@@ -24,9 +24,9 @@ Quelle: [re:publica 26 — Nach einem Jahr Arbeit ist unser Gutachten zur AfD so
 >
 > **GFF — Gesellschaft für Freiheitsrechte:** 2015 gegründete Bürgerrechtsorganisation nach ACLU-Vorbild. Spendenfinanziert (keine Staatsgelder), bekannte Fälle: BND-Auslandsüberwachung (2020 vom BVerfG für verfassungswidrig erklärt), automatisiertes Data Mining durch Polizei, Klimacamps-Versammlungsrecht. Das AfD-Gutachten wurde durch 18.000 Einzelspenden finanziert.
 >
-> → [[DenkerVita/Bijan Moini|DenkerVita Bijan Moini]]
+> → [[Gedankenwelten/DenkerVita/Bijan Moini|DenkerVita Bijan Moini]]
 
-> → [[DenkerVita/Valentina Chiofalo|DenkerVita Valentina Chiofalo]]
+> → [[Gedankenwelten/DenkerVita/Valentina Chiofalo|DenkerVita Valentina Chiofalo]]
 
 ---
 
@@ -172,39 +172,39 @@ Ende Juni 2026 soll das Ergebnis veröffentlicht werden.
 
 ## Verbindungen
 
-### → [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
+### → [[Gedankenwelten/Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
 
 Steinke analysiert in Jung & Naiv 823 explizit das AfD-Verbotsverfahren und das V-Leute-Problem beim NPD-Desaster — dieselbe Frage, die das GFF-Gutachten methodisch lösen muss: Wie rechnet man Äußerungen einer Partei zu, ohne auf V-Mann-Informationen angewiesen zu sein? Während Moini/Chiofalo mit 2 Mio. Datenpunkten eine öffentlich nachweisbare Beweisbasis aufbauen, beschreibt Steinke die institutionelle Vorgeschichte dieses Methodenproblems. Beide kreisen um dieselbe Paradoxie: Je mehr der Staat weiß, desto weniger kann er vor Gericht verwenden.
 
-### → [[Panorama/NoAfD]]
+### → [[Gedankenwelten/Panorama/NoAfD]]
 
 Das NoAfD-Panorama stellt unter "Offene Fragen" direkt die Frage: "Wird das AfD-Verbotsverfahren eingeleitet — und wenn ja, stärkt oder schwächt es die Partei?" — genau das, womit das GFF-Gutachten antizipatorisch umgeht. Das Panorama liefert den politisch-analytischen Gesamtrahmen (Volksbegriff, Ausbürgerungsfantasien, Verfassungsschutz-Einstufung), den das Gutachten nach Art. 21 II GG juristisch operationalisiert.
 
-### → [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
+### → [[Gedankenwelten/Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
 
 Quent zitiert Karl Löwensteins Definition von Faschismus als "Technik der politischen Emotionalisierung" und leitet daraus die Notwendigkeit institutioneller Instrumente — wie Parteiverbote — ab. Das GFF-Gutachten ist genau dieser Hebel in der Praxis. Quents These erklärt zudem, warum die Unterscheidung zwischen "Grundtendenz" und "Einzeläußerung" — das juristische Herzstück des Gutachtens — so schwierig ist: Eine Methode äußert sich selten in klaren Programmsätzen, sondern in akkumulierten Gesten.
 
-### → [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
+### → [[Gedankenwelten/Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
 
 MONITOR liefert das empirische Gegenstück zur juristischen Sorgfalt des Gutachtens: Während Moini/Chiofalo 33.000 Äußerungen händisch prüfen, um den Unterschied zwischen "politischer Empörung" und "juristischer Nachweisbarkeit" zu ziehen, dokumentiert MONITOR, dass dieser Unterschied in der Öffentlichkeit kaum noch wahrgenommen wird — Skandale prallen ab, Radikalisierung normalisiert sich. Das Gutachten versucht, das Diffuse rechtlich greifbar zu machen.
 
-### → [[Panorama/Autoritaerer Internationalismus]]
+### → [[Gedankenwelten/Panorama/Autoritaerer Internationalismus]]
 
 Das Panorama kartiert die globalen Netzwerke (CPAC, Heritage, Atlas), in die die AfD eingebettet ist. Das GFF-Gutachten prüft nach Art. 21 II GG die "Grundtendenz" der Partei — eine Kategorie, die genau diese Einbettung in internationale antidemokratische Strukturen berücksichtigen muss. Die Zurechnungsfrage (was kann der Partei angerechnet werden?) stellt sich auf internationaler Ebene noch komplexer.
 
-### → [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+### → [[Gedankenwelten/Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 Fricke zeigt, dass AfD-Wähler "nicht für ein rationales Programm wählen, sondern die Irrationalität präferieren". Das hat eine direkte Konsequenz für das Gutachten: Ein Verbotsverfahren, das auf juristischer Rationalität und Beweisdichte beruht, trifft auf eine Bewegung, deren Kraft aus der Ablehnung dieser Rationalität schöpft. Frickes Kontrollverlust-These erklärt, warum Moini/Chiofalo auf "Ergebnisoffenheit" pochen — das Gutachten muss über jeden Zweifel an Parteilichkeit erhaben sein.
 
-### → [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
 
 Das Gutachten ringt juristisch mit dem, was diese Note analytisch aufdeckt: Remigration ist als Dog Whistle so konstruiert, dass er juridisch unangreifbar bleibt — pseudowissenschaftlicher Klang statt expliziter Gewaltandrohung. Brockschmidt nennt den Mechanismus, Moini/Chiofalo treffen genau an dieser Grenze seine rechtliche Konsequenz.
 
-### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Die GFF ist in beiden Notes die handelnde Rechtsschutzorganisation: Görlitz koordiniert die Palantir-Verfassungsbeschwerden, Moini/Chiofalo das AfD-Verbotsgutachten — die GFF bespielt algorithmische Polizeiüberwachung und demokratischen Schutz vor Rechtsextremismus aus derselben strategischen Prozessführungslogik.
 
-### → [[Zeitgeist/Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gedankenwelten/Zeitgeist/Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 Semsrott und Sahebi dokumentieren den systematischen Angriff auf zivilgesellschaftliche Strukturen — genau die, aus denen die GFF hervorgeht. Das GFF-Gutachten ist selbst ein Akt zivilgesellschaftlicher Demokratieverteidigung: Eine NGO übernimmt die juristische Vorarbeit, die eigentlich dem Bundestag oblegen hätte, aber politisch blockiert wurde. Die Note illustriert, wie demokratische Aufgaben an die Zivilgesellschaft verschoben werden — und welche Risiken damit verbunden sind.
 

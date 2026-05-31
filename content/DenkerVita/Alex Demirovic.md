@@ -74,8 +74,8 @@ Linkssozialistische, marxistische Position — hält an der Vision einer Gesells
 
 ## Verbindungen zu anderen Denkern
 
-- [[DenkerVita/Michel Foucault]] — Demirovićs Podcast behandelt Foucaults Gouvernementalität; er liest Foucault als kompatibel mit materialistischer Staatstheorie
-- [[DenkerVita/Isabell Lorey]] — Gemeinsamer Podcast-Auftritt; Lorey bringt queer-feministische Prekaritätsanalyse ein, Demirović die staatstheoretische Rahmung
+- [[Gedankenwelten/DenkerVita/Michel Foucault]] — Demirovićs Podcast behandelt Foucaults Gouvernementalität; er liest Foucault als kompatibel mit materialistischer Staatstheorie
+- [[Gedankenwelten/DenkerVita/Isabell Lorey]] — Gemeinsamer Podcast-Auftritt; Lorey bringt queer-feministische Prekaritätsanalyse ein, Demirović die staatstheoretische Rahmung
 
 ---
 

@@ -23,16 +23,16 @@ Quelle: [Eliten: Zwischen Machtmissbrauch und Verantwortung | NANO Talk](https:/
 
 > [!info] Wer spricht?
 > **Michael Hartmann** — Soziologe und emeritierter Professor an der TU Darmstadt. Gilt als der führende Elitenforscher im deutschsprachigen Raum. Jahrzehntelange empirische Forschung zur Reproduktion von Machteliten in Wirtschaft, Politik und Wissenschaft. Kernthese: Elite ist immer Macht — nicht Vernetzung, nicht Verantwortung.
-> → [[DenkerVita/Michael Hartmann|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Michael Hartmann|DenkerVita]]
 >
 > **Kolja Möller** — Politikwissenschaftler und Demokratietheoretiker an der Goethe-Universität Frankfurt am Main. Forscht zu Populismus und demokratischer Legitimation. Definiert Elite über sektorenübergreifende Vernetzung und gesamtgesellschaftlichen Führungsanspruch.
-> → [[DenkerVita/Kolja Moeller|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Kolja Moeller|DenkerVita]]
 >
 > **Anabel Ternès von Hattburg** — Zukunftsforscherin und Psychologin, SRH Berlin. Unternehmerin und Gründerin von we Empower. Vertritt einen normativen Elitebegriff: Elite sollte Fähigkeit und Gemeinwohl verbinden, nicht Macht um der Macht willen.
-> → [[DenkerVita/Anabel Ternes von Hattburg|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Anabel Ternes von Hattburg|DenkerVita]]
 >
 > **Alena Buyx** (Moderation) — Medizinethikerin, ehemals Vorsitzende des Deutschen Ethikrats. Führte durch die Diskussion mit eigenem akademischen Hintergrund (selbst Stipendiatin der Studienstiftung).
-> → [[DenkerVita/Alena Buyx|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Alena Buyx|DenkerVita]]
 
 ---
 
@@ -183,27 +183,27 @@ Das ist der Kern-Widerspruch, der ungelöst bleibt: Möller und Ternès haben ei
 
 ## Verbindungen
 
-### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 
 Nosthoff liefert das epistemische Fundament für Hartmanns politische Beschreibung: Kybernetisches Denken erzeugt das Überzeugungssystem, das Silicon-Valley-Oligarchen das Gefühl gibt, Gesellschaft besser steuern zu können als demokratische Institutionen. Hartmann beschreibt die Machtstruktur; Nosthoff erklärt das Selbstbild, das sie legitimiert.
 
-### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
+### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Engste Schwesteranalyse im Vault: Studio Bonn seziert extreme Vermögenskonzentration aus der Innenperspektive einer Erbin (Marlene Engelhorn) — 80% Erbschaftsanteil an Milliardenvermögen, dynastische Demokratiegefährdung. Was Hartmann empirisch-soziologisch diagnostiziert (Erbgesellschaft, nicht Leistungsgesellschaft), belegt Studio Bonn im konkreten Fall.
 
-### → [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 
 Dörre beschreibt denselben Widerspruch aus klassensoziologischer Perspektive: formale Demokratie und faktische Machtkonzentration schließen sich zunehmend aus. Hartmanns Elitenbegriff (Macht, nicht Vernetzung oder Verdienst) und Dörres Kapitalismuskritik treffen sich in der Diagnose: Liberale Demokratien produzieren strukturell die Bedingungen ihres eigenen Unterlaufens.
 
-### → [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+### → [[Gedankenwelten/Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
 Thiels Biografie ist der konkrete Fall zu Hartmanns abstrakter These über Tech-Oligarchie: Antitrust verhindern, Medien kaufen, politische Kontrolle über Infrastruktur. Grenzgänger Studios erzählt die Geschichte; Hartmann liefert den analytischen Rahmen, warum das strukturell zu erwarten war.
 
-### → [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen]]
+### → [[Gedankenwelten/Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen]]
 
 Osnos analysiert die Psychologie der Ultrareichen — wie die *principal*-Struktur Unterwürfigkeit im Umfeld erzeugt und Verantwortungslosigkeit als Normalzustand konserviert. Hartmanns familiale Sozialisationsthese (Regeln gelten für mich nicht) findet bei Osnos das psychologische Pendant: nicht böse Charakter, sondern Systemlogik des Extremreichtums.
 
-### → [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
+### → [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 
 Hartmann beschreibt die Oberseite der Ungleichheit (wer Macht hat und warum); Butterwegge die Unterseite (wer ausgeschlossen wird und wie). Beide verweisen auf dieselbe Diagnose: soziale Mobilität in Deutschland ist eine Fiktion. Die Schere ist politisch produziert — Butterwegge durch Armutsforschung, Hartmann durch Elitesoziologie.
 

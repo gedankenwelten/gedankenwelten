@@ -25,7 +25,7 @@ Quelle: [Warum wir leiden... und wie Ksitigarbha einen Ausweg zeigt — Vipassan
 > Formate: 10-Tage-Retreats · Vipassana@Home (Online) · Podcast *Vipassana Jetzt* · Wöchentlicher YouTube-Livestream
 > Website: [vipassana-jetzt.com](https://vipassana-jetzt.com)
 >
-> → [[DenkerVita/Adriaan van Wagensveld|DenkerVita]]
+> → [[Gedankenwelten/DenkerVita/Adriaan van Wagensveld|DenkerVita]]
 
 ---
 

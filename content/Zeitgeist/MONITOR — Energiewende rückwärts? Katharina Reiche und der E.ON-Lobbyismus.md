@@ -147,7 +147,7 @@ Reiche hält trotzdem an den Plänen fest.
 
 ## Verbindungen
 
-### → [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+### → [[Gedankenwelten/Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 
 Die Subventionsasymmetrie ist hier strukturell dieselbe: Wer Netzinfrastruktur kontrolliert und wessen Kosten unsichtbar gehalten werden, bestimmt das Narrativ. Reiche macht das Risiko der Erneuerbaren sichtbar und das Versagen der Netzbetreiber unsichtbar — Fortsetzung eines bekannten Musters.
 
@@ -175,7 +175,7 @@ Quaschning zeigt, wie teure fossile Energie direkt auf Verbraucher durchschlägt
 
 Beide Notes zeigen Lobby-Interessen, die sich als wirtschaftspolitische Sachargumente tarnen. MONITOR: Drehtür-Effekt Konzern→Ministerium. Höfgen/Bauer: Lobbyverband, der Subventionsabbau fordert und AfD-nah ist. In beiden Fällen wird die Interessenstruktur nur durch kritischen Journalismus sichtbar.
 
-### → [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
+### → [[Gedankenwelten/Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
 
 Der Drehtür-Effekt Reiche/E.ON ist ein konkretes Fallbeispiel institutionellen Machtmissbrauchs, den Staiy strukturell analysiert.
 
@@ -267,7 +267,7 @@ Sterner konkretisiert die MONITOR-Kritik in Gesetzesform: Das StromVKG schließt
 
 Sterner zeigt Reiche und Söder als zwei Seiten desselben politischen Blocks: Söder liefert das Narrativ (Erneuerbare sind ein Traum), Reiche blockiert legislativ — MONITOR dokumentiert den strukturellen Drehtür-Mechanismus dahinter.
 
-### → [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
+### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
 
 Specht liefert die marktwirtschaftliche Analyse des von MONITOR dokumentierten Lobbyismus: Kraftwerksbetreiber blockieren Batteriespeicher, weil das ihr Geschäftsmodell bedroht. MONITOR zeigt den politischen Mechanismus (Drehtür), Specht die ökonomische Logik dahinter.
 
@@ -276,10 +276,10 @@ Specht liefert die marktwirtschaftliche Analyse des von MONITOR dokumentierten L
 Die Bilanz-Runde nennt Reiche "Kommunikationsdesaster" und Symptom von Merz' Führungsvakuum — diese MONITOR-Recherche liefert den investigativen Hintergrund: Drehtür zwischen CDU-Politik und E.ON-Lobby als strukturelle Erklärung für ihre Energiepolitik.
 
 
-### → [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
 Großmanns GICON-Turm mit 55% Vollaststunden entzieht dem Netzengpass-Argument, das Reiche nutzt, die Grundlage: Gleichmäßigere Einspeisung reduziert Redispatch-Kosten und den Netzausbau-Bedarf, auf den der Lobbyismus setzt.
 
-### → [[Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
 
 Der konkrete Unternehmensfall aus Burgbernheim zeigt, was Reiches Netzverschleppungspolitik für kleine Betriebe bedeutet: Ein Metallverarbeiter mit 500.000 € PV-Investition wird täglich abgeschaltet, während die Politik über Technologieoffenheit diskutiert.

@@ -98,21 +98,21 @@ Ich habe das Privileg, viel konsumieren zu können. Aber das Ergebnis, das ich a
 
 Nicht jede politische Note in den Gedankenwelten ist Blätterwerk. Einige gehen direkt auf Stamm und Wurzel:
 
-- [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld — Warum schweigen die Lämmer?]] — Macht, Angst, Meinungsmanagement: warum Bürger still bleiben
-- [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen|Jonathan Haidt — Moralische Wurzeln]] — warum politische Zugehörigkeit gefühlt, nicht gedacht wird
-- [[Denker/Immanuel Kant — Was ist Aufklärung?|Kant — Was ist Aufklärung?]] — der philosophische Aufruf zur Mündigkeit
-- [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]] — Schatten als Wirklichkeit: das älteste Medienproblem
-- [[Denker/Hannah Arendt — Denken ohne Geländer|Arendt — Denken ohne Geländer]] — was es bedeutet, ohne Autorität zu urteilen
-- [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Bonhoeffer — Theorie der Dummheit]] — wie Macht das Urteilsvermögen des Menschen zerstört
-- [[Denker/Renee DiResta — Invisible Rulers|DiResta — Invisible Rulers]] — wie Narrative gebaut und verbreitet werden
+- [[Gedankenwelten/Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld — Warum schweigen die Lämmer?]] — Macht, Angst, Meinungsmanagement: warum Bürger still bleiben
+- [[Gedankenwelten/Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen|Jonathan Haidt — Moralische Wurzeln]] — warum politische Zugehörigkeit gefühlt, nicht gedacht wird
+- [[Gedankenwelten/Denker/Immanuel Kant — Was ist Aufklärung?|Kant — Was ist Aufklärung?]] — der philosophische Aufruf zur Mündigkeit
+- [[Gedankenwelten/Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]] — Schatten als Wirklichkeit: das älteste Medienproblem
+- [[Gedankenwelten/Denker/Hannah Arendt — Denken ohne Geländer|Arendt — Denken ohne Geländer]] — was es bedeutet, ohne Autorität zu urteilen
+- [[Gedankenwelten/Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Bonhoeffer — Theorie der Dummheit]] — wie Macht das Urteilsvermögen des Menschen zerstört
+- [[Gedankenwelten/Denker/Renee DiResta — Invisible Rulers|DiResta — Invisible Rulers]] — wie Narrative gebaut und verbreitet werden
 
 ---
 
 ## Verbindungen
 
-- [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — die Synthese: alle Perspektiven auf einem Blick
-- [[Gedanken/Polarisierung als Ideologisierungsfalle]] — wenn Überzeugung zur Identität wird, hört Denken auf. Direkte Fortsetzung dieses Gedankens.
-- [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]] — keine politische Strömung ist rein; wer das vergisst, landet in der Falle
+- [[Gedankenwelten/Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — die Synthese: alle Perspektiven auf einem Blick
+- [[Gedankenwelten/Gedanken/Polarisierung als Ideologisierungsfalle]] — wenn Überzeugung zur Identität wird, hört Denken auf. Direkte Fortsetzung dieses Gedankens.
+- [[Gedankenwelten/Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]] — keine politische Strömung ist rein; wer das vergisst, landet in der Falle
 
 ---
 
