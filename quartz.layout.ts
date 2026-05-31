@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
+    logo: "/static/gedankenwelten-logo.svg",
     links: {
       Impressum: "/Impressum",
       Graph: "/graph",
