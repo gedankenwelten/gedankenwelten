@@ -13,3 +13,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+public_new
+public_old
