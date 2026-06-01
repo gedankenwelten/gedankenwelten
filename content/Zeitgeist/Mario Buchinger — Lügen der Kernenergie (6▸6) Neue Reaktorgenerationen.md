@@ -237,3 +237,7 @@ Tooze analysiert, wie Technologieversprechen (KI, Militär) politische Entscheid
 ### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 
 Kemfert und Buchinger kommen unabhängig zum selben SMR-Schluss: IEA frühestens 2040–2050, extrem teuer, "Technologieoffenheit" als politische Ausrede zur Verzögerung wirksamer Lösungen
+
+### → [[Gedankenwelten/Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]]
+
+MONITOR liefert das journalistische Fallbeispiel zu Buchingers These: Der THTR-300 in Hamm-Uentrop verkörpert die „neue Reaktorgeneration", die vor 50 Jahren wortgleich beworben wurde — und nach 423 Tagen als Milliardengrab endete. Das aktuelle SMR-Versprechen wiederholt exakt diese Rhetorik.

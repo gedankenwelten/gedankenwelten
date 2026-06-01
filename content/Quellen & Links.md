@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## MONITOR — Atomkraft-Comeback? Mini-Reaktoren (WDR/ARD, 2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt – MONITOR](https://www.youtube.com/watch?v=yCr4TWJHdSM) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]] |
+| **Transkript** | `Gedankenwelten/Transkripte/MONITOR_Atomkraft_SMR_Transkript.txt` |
+
 ## auslandsjournal — Der Trump Effekt #61 (ZDF, 2026)
 
 | | |

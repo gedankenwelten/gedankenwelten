@@ -237,6 +237,10 @@ Der Presseclub verhandelt dieselbe Grundfrage — ist Reiches und Söders Kurs w
 
 Specht entzaubert denselben "Primärenergieirrtum" wie Sterner Söders Kernkraft-Mythos: Beide zeigen, wie falsche Kategorien politisch instrumentalisiert werden. Wo Sterner auf Söder und Bayern zoomt, liefert Specht die systemische Marktanalyse — Merit Order, Speicherblockaden, das chinesische Direktversorgungsmodell.
 
+### → [[Gedankenwelten/Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]]
+
+MONITOR zeigt Söders SMR-Vorstoß („Blaupause made in Bavaria") im O-Ton, den Sterner hier faktencheckt — mit denselben Belegen (Flamanville, Olkiluoto, Kostenexplosion). Sterner liefert die wissenschaftliche Widerlegung, MONITOR das investigative Fallbeispiel inklusive des insolventen THTR-Erbes.
+
 ---
 
 ## Weiterdenken
