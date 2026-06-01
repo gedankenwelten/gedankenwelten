@@ -207,3 +207,7 @@ Dieselbe Ministerin, dasselbe Magazin: Während Reiche dort die Erneuerbaren leg
 ### → [[Gedankenwelten/Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 
 Kemfert ordnet die Atomkraft ökonomisch als teuerste Stromform mit ungelöstem Endlagerproblem ein — exakt MONITORs Befund. Während Atom-Befürworter „Resilienz" und „Versorgungssicherheit" anführen, zeigen beide: Die schnellste und günstigste Antwort auf Energiekrise und fossile Abhängigkeit sind die Erneuerbaren, nicht ein Reaktor, der frühestens in den 2030ern läuft.
+
+### → [[Gedankenwelten/Panorama/Energie]]
+
+Diese Note ist Teil des Energie-Panoramas — konkret der Sektion „Die neue Nachfrage: Wird KI zum trojanischen Pferd der Atomkraft?". Das Panorama bettet den SMR-Hype in den größeren Zusammenhang ein: Reiche-Lobbyismus, Subventionsasymmetrie, Batteriespeicher-Blockade und die Frage, ob die explodierende KI- und E-Mobilitäts-Nachfrage rein erneuerbar gedeckt werden kann (Fraunhofer/IEA/Jacobson vs. Clack).
