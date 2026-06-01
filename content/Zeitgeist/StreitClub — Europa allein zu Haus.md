@@ -163,6 +163,10 @@ Serrao bleibt skeptisch: Das sei eine „sehr deutsche Debatte". Vielfalt sei ei
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+
+Dieselbe Kevin-allein-zu-Haus-Metapher aus dem Gegenwinkel: Hier ist *Trump* der Isolierte. Das auslandsjournal liefert die Diagnose „NATO innen hohl, weil Vertrauen die wichtigste Waffe ist" — die strategische Begründung für die europäische Lage, die der StreitClub beschreibt.
+
 ### → [[Ece Temelkuran — So beginnt Faschismus in Amerika]]
 
 Die Kernfrage „Trump oder Putin — wer ist gefährlicher?" spiegelt Temelkurans These: die schleichende Erosion demokratischer Normen ist schwerer zu bekämpfen als offene Aggression, weil sie die Sprache der Demokratie benutzt.

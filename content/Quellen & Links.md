@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## auslandsjournal — Der Trump Effekt #61 (ZDF, 2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Donald Trump – Allein zu Haus \| Der Trump Effekt #61](https://www.youtube.com/watch?v=xSsh85eRvOE) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Trump_Effekt_61_Transkript.txt` |
+
 ## Silke Stremlau & Maja Göpel — Investieren NEU DENKEN (Mission Wertvoll, 2026)
 
 | | |

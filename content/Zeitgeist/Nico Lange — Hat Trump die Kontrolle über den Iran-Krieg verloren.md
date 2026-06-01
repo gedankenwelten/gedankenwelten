@@ -252,6 +252,9 @@ Das gefährliche daran:
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+Dasselbe Muster aus drei Korrespondentenperspektiven: Ultimaten per Social Media ohne Exit-Strategie. Was hier „Kontrollverlust" heißt, nennt das auslandsjournal „One-and-Done-Syndrom" und „TikTok-Politik" — Maximaldruck ohne Plan für danach.
+
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 MONITOR analysiert denselben Konflikt aus völkerrechtlicher Perspektive (Kai Ambos). Lange liefert die militärisch-strategische Ergänzung: Was Ambos normativ als Rechtsbruch einordnet, beschreibt Lange als strategische Sackgasse. Beide kommen zum Ergebnis: Trump hat die Situation falsch eingeschätzt und findet keinen Ausweg.
 
