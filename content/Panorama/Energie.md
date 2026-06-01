@@ -6,7 +6,10 @@ tags:
   - deutschland
   - lobbyismus
   - klimapolitik
+  - atomkraft
+  - ki
 erstellt: 2026-04-27
+aktualisiert: 2026-06-01
 ---
 
 # Energie — Zwischen Kostenwahrheit und Lobbypolitik
@@ -64,6 +67,23 @@ Der deutsche Haushaltsstrompreis setzt sich zusammen aus Erzeugung (~8 ct), Netz
 Buchinger zeigt: Die Kernenergie-Debatte ist ein **Fossil-Lobby-Werkzeug** — solange über AKW-Rückkehr diskutiert wird, werden keine Erneuerbaren gebaut. Die CDU-Forderung nach „Technologieoffenheit" ist ein rhetorischer Trick: offen für alles *außer* den schnellsten und günstigsten Lösungen.
 
 → [Lösungsansatz ↓](#fakten-basierte-technologiebewertung)
+
+---
+
+### Die neue Nachfrage: Wird KI zum trojanischen Pferd der Atomkraft?
+
+Bisher drehte sich dieses Panorama um die *Angebotsseite* — wer baut welche Erzeugung, wer blockiert sie. Doch seit 2025 verschiebt sich die Debatte: Die **Nachfrage** explodiert, und zwar aus Quellen, die es bei Beginn der Energiewende kaum gab. Die IEA (*Energy and AI*, 2025) beziffert den Stromverbrauch der Rechenzentren auf **460 TWh (2024) → über 1.000 TWh (2030)** — der KI-Anteil allein wuchs 2025 um 50 %. Dazu kommen E-Mobilität, Wärmepumpen und Industrie-Elektrifizierung: Das Fraunhofer-ISE-Szenario (REMod-Modell, *Wege zu einem klimaneutralen Energiesystem*) rechnet mit einer **Verdopplung bis Verdreifachung des deutschen Stromverbrauchs auf 1.150–1.650 TWh bis 2045**.
+
+Genau diese Nachfrageexplosion liefert die neue Begründung für die Atom-Rückkehr — der nächste Akt der „ewigen Ablenkung". [[Gedankenwelten/Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]] dokumentiert, wie die Union Small Modular Reactors als Antwort auf den Strombedarf inszeniert (Söders „Blaupause made in Bavaria", Reiche als Befürworterin). International treiben die Tech-Konzerne dasselbe Narrativ: Microsoft reaktiviert Three Mile Island, Amazon investiert in den SMR-Bauer X-energy, Google kauft bei Kairos Power. Das Argument lautet stets: *„So viel verlässliche Grundlast schaffen Erneuerbare nicht."*
+
+Die Studienlage hält dagegen — und das ist der entscheidende Punkt: Die großen Machbarkeitsanalysen (Jacobson für 145+ Länder, LUT/Breyer für ein globales 100 %-System bis 2050, Fraunhofer ISE für Deutschland) haben die Nachfrage-Verdopplung **bereits eingepreist** und kommen trotzdem zum Schluss, dass die vollständige Elektrifizierung mit Erneuerbaren der *kostengünstigste* Pfad ist. Die ehrliche Einschränkung der Kritiker (Clack et al., PNAS 2017): Nicht die ersten 90 % sind das Problem, sondern die letzten 5–10 % — die seltene, lange Dunkelflaute, deren rein erneuerbare Absicherung überproportional teuer wird. Genau diese Lücke ist die legitime Einfallstür fürs Atom-Argument.
+
+Der übersehene Twist: Rechenzentren und E-Autos sind nicht nur *Last*, sondern **Flexibilität**. KI-Training muss nicht nachts mit Atomstrom laufen — es kann sich nach dem Solarangebot richten. Eine flexibel ladende E-Auto-Flotte ist der größte verteilte Speicher, den es je gab (→ [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]). Verschiebbare Last halbiert das Grundlast-Problem. Die Panorama-Kernthese gilt damit auch hier: Der Bedarf ist real — aber wer die „Grundlast-Lücke" definiert, definiert auch, wer sie füllen darf. Big Tech und Union bevorzugen Atom und Gas, weil es ihr Geschäftsmodell *(immer an, nie nachdenken)* am wenigsten stört — nicht, weil die Physik es erzwingt.
+
+> [!question] Weitergedacht
+> Wenn die KI so mächtig wird, wie ihre Erbauer behaupten — wäre das Erste, was sie lösen sollte, nicht ihr eigenes Energieproblem? Kann sie es nicht, wie groß ist die Intelligenz wirklich; kann sie es, warum braucht es dann den Reaktor aus dem letzten Jahrhundert?
+
+→ [Lösungsansatz ↓](#speicher-first-strategie)
 
 ---
 
@@ -298,6 +318,8 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 - Wie wirkt sich der Iran-Krieg langfristig auf die fossile Abhängigkeit Deutschlands aus — Beschleuniger oder Bremse der Energiewende?
 - Wird Follow This' Strategiewechsel (Geschäftsmodell-Frage statt Klimaforderung) bei Shells Hauptversammlung am 19. Mai mehr als 20 % Zustimmung erreichen?
 - Was passiert mit der Energiewende-Akzeptanz, wenn Dachanlagen nicht mehr gefördert werden?
+- Wird die KI- und Rechenzentrums-Nachfrage zum trojanischen Pferd für Atom und Gas — oder zwingt sie die Politik endlich zu Speicher und Lastflexibilität?
+- Wenn Tech-Konzerne (Microsoft, Amazon, Google) zu den größten Atomstrom-Käufern werden: Verschiebt sich die Energie-Lobbymacht von den klassischen Versorgern zu den Hyperscalern?
 
 ---
 
@@ -315,6 +337,7 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 | [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]] | Grundlage · Mythen · Lobbyismus · Batterien |
 | [[Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] | Ursache · Subventionen |
 | [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] | Problem · Kernenergie |
+| [[Gedankenwelten/Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]] | Problem · KI-Nachfrage · SMR · Kosten |
 | [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] | Problem · Fossile |
 | [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] | Problem · Geopolitik |
 | [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] | Lösung · Umverteilung |
