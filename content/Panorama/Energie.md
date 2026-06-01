@@ -355,3 +355,32 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 | Bertelsmann Stiftung — Energiewende als Jobmotor (2025) | Lösung · Arbeitsmarkt · Strukturwandel |
 | [[Norio — GICON Hoehenwindturm revolutioniert Windkraft]] | Lösung · Höhenwind · Innovation · Bürgerbeteiligung |
 | [[Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]] | Problem · Netzausbau · Redispatch · Mittelstand |
+
+---
+
+## Quellen & Studien
+
+Externe Studien und Primärquellen, auf die sich dieses Panorama stützt — insbesondere die Sektion zur KI- und Nachfrageexplosion.
+
+### Nachfrage: KI, Rechenzentren & Elektrifizierung
+
+- [IEA — Energy and AI: Energy supply for AI (2025)](https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai) — Rechenzentren 460 → 1.000+ TWh bis 2030; Erneuerbare als schnellst­wachsende Quelle (~27 %, +22 %/Jahr), decken ~50 % des Zuwachses; Gas+Kohle aber >40 % der zusätzlichen Nachfrage
+- [IEA — Data centre electricity use surged in 2025](https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions) — KI-Verbrauch +50 % in 2025; Engpässe bei Gasturbinen, Transformatoren, Netzanschlüssen; Tech-Konzerne = ~40 % aller Unternehmens-Ökostromverträge
+- [Fraunhofer ISE — Wege zu einem klimaneutralen Energiesystem (REMod, 2024)](https://www.ise.fraunhofer.de/en/publications/studies/paths-to-a-climate-neutral-energy-system.html) — Deutschlands Stromverbrauch steigt auf 1.150–1.650 TWh bis 2045; vollständige Elektrifizierung (Wärmepumpen, BEV, Industrie) ist der kosteneffizienteste Dekarbonisierungspfad; Wind bis 308 GW, PV bis 471 GW
+
+### Machbarkeit: 100 % Erneuerbar
+
+- [Fraunhofer ISE — Pressemitteilung Klimaneutrales Deutschland (2024)](https://www.ise.fraunhofer.de/en/press-media/press-releases/2024/achieving-climate-neutrality-fraunhofer-ise-study-shows-regional-transformation-pathways-for-german-energy-system.html) — regionale Transformationspfade, Sektorkopplung, ergänzende Rolle von Wasserstoff
+- [LUT/EWG — Global Energy System based on 100% Renewable Energy (Breyer et al.)](https://www.researchgate.net/publication/320934766_Global_Energy_System_based_on_100_Renewable_Energy_-_Power_Sector) — stündlich aufgelöstes 100 %-Szenario für alle Weltregionen bis 2050, kostengünstig; PV als Hauptträger
+- [LUT University — Researchers agree: 100 % renewable before 2050](https://www.lut.fi/en/news/researchers-agree-world-can-reach-100-renewable-energy-system-2050) — Forschungsüberblick zum Konsens des Feldes
+- [Jacobson et al. — Roadmaps to 100 % Clean, Renewable Energy (Earth's Future, 2017)](https://web.stanford.edu/group/efmh/jacobson/Articles/I/17-Earth's_Future.pdf) — Wind/Wasser/Sonne-Pfade für 145+ Länder, alle Sektoren
+
+### Kontroverse: Wie verlässlich ist „die letzten Prozent"?
+
+- [Clack et al. — Evaluation of a proposal for reliable low-cost grid power with 100 % wind, water, solar (PNAS, 2017)](https://www.ourenergypolicy.org/climate-scientists-challenge-100-renewables-paper/) — 21 Forscher kritisieren Jacobsons Modell (u.a. unrealistische Wasserkraft-Annahmen); ein vollständig zuverlässiges System ganz ohne feste Leistung sei nicht überzeugend gezeigt
+- [IEEE Spectrum — Can the U.S. grid work with 100 % renewables?](https://spectrum.ieee.org/can-the-us-grid-work-with-100-renewables) — Einordnung der wissenschaftlichen Debatte um Grundlast, Speicher und Versorgungssicherheit
+
+### Kosten (Bezug: Sektion „Kernenergie")
+
+- [Fraunhofer ISE — Studie Stromgestehungskosten Erneuerbare Energien](https://www.ise.fraunhofer.de/de/veroeffentlichungen/studien/studie-stromgestehungskosten-erneuerbare-energien.html) — PV/Wind 4–9 ct/kWh vs. neue Kernkraft als eine der teuersten Erzeugungsformen
+- [World Nuclear Industry Status Report](https://www.worldnuclearreport.org/) — unabhängiges jährliches Monitoring; Kostenexplosionen Olkiluoto, Flamanville, Hinkley Point
