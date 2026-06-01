@@ -318,3 +318,6 @@ Kemferts „Fossilokratie" zeigt sich hier in einer neuen Variante: nicht durch 
 
 ### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
 Fichtner widerlegt den Rohstoff-Mythos mit demselben Argument, das Kemferts Struktur-Analyse zugrunde liegt: Batterie-Rohstoffe sind einmalig nötig und bleiben im System, fossile Brennstoffe werden jährlich verbrannt und erfordern permanente Importabhängigkeit. Beide benennen die „Fossilokratie" als politisch aufrechterhaltenes System, nicht als technisches Schicksal.
+### → [[Gedankenwelten/Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]]
+
+MONITOR bestätigt Kemferts ökonomische Einordnung der Atomkraft als teuerste Stromform mit ungelöstem Endlagerproblem — diesmal am Fall der Mini-Reaktoren. Beide zeigen: „Resilienz" und „Versorgungssicherheit" sind rhetorische Türöffner; die schnellste und billigste Antwort bleiben die Erneuerbaren.
