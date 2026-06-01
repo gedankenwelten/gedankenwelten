@@ -158,6 +158,9 @@ Das System ist "baked in" — in völlig getrennten Medien-Ökosystemen gibt es 
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+Ergänzt die innenpolitische Analyse um die Außendimension: Der soziale Boden des Trumpismus (Mittelschicht-Abstieg) erodiert genau dann, wenn die Außenpolitik eskaliert. Das auslandsjournal teilt den Befund — „Trump nur denkbar mit dem Absturz der Mittelschicht".
+
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 Ambos (MONITOR) analysiert den Krieg von außen — Völkerrecht, internationale Ordnung. Heinisch analysiert ihn von innen — was passiert in der amerikanischen Politik, wer verliert, wer gewinnt. Beide ergänzen sich: Ambos sagt, was rechtlich falsch ist; Heinisch erklärt, warum es trotzdem passiert und was es innenpolitisch bedeutet.
 

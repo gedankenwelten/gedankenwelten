@@ -107,6 +107,10 @@ Das Besondere: Ein Gespräch hinter verschlossenen Türen, bei dem Trump unzensi
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+
+Das geleakte Privatgespräch ist der empirische Beleg für die These des auslandsjournals vom Vertrauensverlust gegenüber den Alliierten: Trump sagt selbst, seine Beziehungen zu Russland und China seien besser als zur NATO — ungefiltert, jenseits der öffentlichen Rhetorik.
+
 ### → [[Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]]
 
 NATO-Verweigerung und Trumps schlechte Beziehungen zu Verbündeten — direkte Verbindung zu Trumps Aussage, er habe ein besseres Verhältnis zu Russland/China als zur NATO

@@ -205,6 +205,10 @@ Die dreifache Wirkung: Energieinflation stärker als Zölle (da sie Kosteninflat
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+
+Das auslandsjournal beschreibt den Rechtspopulismus (AfD, Le Pen, Orbán) als symptomatisch und verortet seine Ursache im „Absturz der Mittelschicht" — Varoufakis liefert die wirtschaftshistorische Tiefenerklärung: Diese Mittelschicht wurde 2008 von einem System fallen gelassen, das damals seine Legitimation verlor.
+
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
 Das IAI-Interview vertiefte Technofeudalism als eigenständige Theorie. Hier skizziert Varoufakis dieselbe Kernthese im Gespräch mit einem eher konservativen Publikum — interessant ist, wie er die Argumente anpasst, ohne ihre Schärfe zu verlieren.

@@ -180,6 +180,9 @@ Das Vertrauen des Globalen Südens in Deutschland als Vermittler ist massiv gesu
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+Liefert die strategische Ergänzung zur völkerrechtlichen Analyse: Die Gesichtswahrungs-Logik erklärt, *warum* keine Seite ohne Souveränitätsverlust deeskalieren kann — der Mechanismus hinter der Rechtsordnungs-Erosion, die MONITOR diagnostiziert.
+
 ### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
 Mausfeld: Eliten setzen Meinungskorridore. Hier konkret sichtbar: Merz kann nicht sagen, was Ambos klar ist — Völkerrechtsbruch — weil er die Allianz mit Trump nicht gefährden will. Der Korridor wird gezogen durch geopolitische Interessen, nicht durch Recht.
 
