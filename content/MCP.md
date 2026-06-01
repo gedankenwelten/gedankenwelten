@@ -126,7 +126,7 @@ Discover thematic connections between thinkers, interviews, and concepts.
 
 ## Privacy
 
-The MCP server does not store queries, track users, or collect personal data. OAuth tokens are held in memory only. See [[Gedankenwelten/Datenschutz|Privacy Policy]] for details.
+The MCP server does not store queries, track users, or collect personal data. OAuth tokens are held in memory only. See [[Datenschutz|Privacy Policy]] for details.
 
 ---
 
@@ -143,4 +143,4 @@ All content is publicly available at [gedankenwelten.org](https://gedankenwelten
 
 ---
 
-[[Gedankenwelten/Impressum|Impressum]] · [[Gedankenwelten/Datenschutz|Datenschutzerklärung]]
+[[Impressum|Impressum]] · [[Datenschutz|Datenschutzerklärung]]
