@@ -239,3 +239,7 @@ Moini/Chiofalo lösen methodisch das Problem, das Steinke beschreibt: Wie baut m
 ### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Steinke und Görlitz beschreiben denselben Mechanismus aus verschiedenen Richtungen: Steinke analysiert den Chilling-Effekt geheimdienstlicher Beobachtung auf politisches Verhalten, Görlitz denselben Effekt durch algorithmische Polizeidatenanalyse — zwei verschiedene Instrumente, dieselbe verfassungsrechtliche Pathologie.
+
+### → [[Gedankenwelten/Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
+
+Vier taz-Journalist:innen wenden Steinkes Befund auf konkrete 2026-Fälle an: §188 (Habeck-Schwachkopf), hessischer Gesetzentwurf zum Existenzrecht Israels, Hamburg-Demonstrationsverbot. Christian Rath (Rechtskorrespondent taz) bestätigt Steinkes Diagnose aus der Gerichtspraxis — insbesondere der Strafrechtsverschärfungsdynamik. Ergänzung: Bundestalk diskutiert Chillingeffekt vs. Streisandeffekt als Gegenthesen zur Wirkung von Strafrecht.
