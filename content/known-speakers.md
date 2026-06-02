@@ -96,7 +96,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** Stub
 
 ## Christoph Butterwegge
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christoph Butterwegge]]
 
 ## Christoph Hein
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christoph Hein]]
