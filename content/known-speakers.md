@@ -499,3 +499,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## IT Mario
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/IT Mario]]
+
+## Thomas Westbrook (Holy Koolaid)
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Thomas Westbrook]]

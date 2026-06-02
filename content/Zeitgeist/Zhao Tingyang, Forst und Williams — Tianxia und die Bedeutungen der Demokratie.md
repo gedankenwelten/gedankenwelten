@@ -230,3 +230,7 @@ Dieser Vortrag zeigt Zhao in einem anderen Modus: nicht als Weltordnungstheoreti
 ### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
 
 Xis Schweigen und Geduld im Gipfel ist Tianxia in Aktion: keine kurzfristigen Konzessionen, nur das große Bild. Was die PhoenixRunde als Chinas „strategische Überlegenheit" beschreibt, ist in Zhaos Kategorien die Logik eines Systems, das Koexistenz als Grundzustand und Konfrontation als Ausnahme versteht.
+
+### → [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
+
+Holy Koolaid macht Zhaos Kritik am partikulären Universalismus am Boden greifbar: Die Behauptung, das freieste Land der Welt zu sein, bei Platz 57 Pressefreiheit, ist genau die Struktur, die Zhao analysiert — westliche Selbstbeschreibung als universeller Standard, der der Überprüfung nicht standhält.

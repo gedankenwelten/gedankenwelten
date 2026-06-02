@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Thomas Westbrook (Holy Koolaid) — Amerikanische Propaganda: 7 Formen (2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Why the Rest of the World Thinks Americans Are Brainwashed](https://www.youtube.com/watch?v=x5baPn6SAQA) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Westbrook_AmericanPropaganda_Transkript.txt` |
+
 ## MONITOR — Atomkraft-Comeback? Mini-Reaktoren (WDR/ARD, 2026)
 
 | | |

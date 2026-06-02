@@ -180,3 +180,7 @@ von Redecker unterscheidet alten und neuen Faschismus; Lance' Vergleiche bleiben
 ### → [[KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika]]
 
 Trumps Schuldzuweisungsrhetorik als konkrete Entsprechung der historischen Sündenbockstrategie, die Lance beschreibt
+
+### → [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
+
+Holy Koolaid liefert die Erklärung, warum Deutsche Faschismus-Muster leichter erkennen als Amerikaner: institutionelle Programmierung (Pledge of Allegiance, Exzeptionalismus, US-Geschichtsunterricht) macht genau diese Außenperspektive strukturell schwieriger zu entwickeln.
