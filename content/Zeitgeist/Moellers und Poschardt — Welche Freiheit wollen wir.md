@@ -184,6 +184,10 @@ Der Begriff des „Herrn Hegemon" — wer bestimmt, wer Rechtfertigungspflichten
 
 Schwan und Möllers teilen einen prozeduralen Freiheitsbegriff: Demokratie ist kein Zustand, sondern ein Aushandlungsverfahren, das kulturell getragen sein muss. Schwans Unterscheidung von Herrschaftsmacht und Gestaltungsmacht kartiert denselben Spannungsraum wie Möllers — der Staat als Ermöglichungsbedingung vs. als erzwingender Eingriff. Posschardts Staatsnähekritik würde Schwan als Fehldeutung lesen: Gestaltungsmacht durch demokratische Kultur ist das Gegenteil von Patronage.
 
+### → [[Gedankenwelten/Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
+
+Das Bundestalk-Gespräch ist die praxisbezogene Verlängerung von Möllers' philosophischer Freiheitsanalyse: Wo Möllers fragt, was Freiheit in der Demokratie bedeutet, fragen Reinecke, Rath, Jäckels und Gutmair, wie sie konkret eingeschränkt wird — §188, Hamas-Parolen, Demonstrationsverbote. Posschardts Staatsnähekritik findet in Jäckels Machtanalyse (Staatsräson als Instrument) ihre radikalste Bestätigung: Der Staat setzt, was als sagbar gilt. Rath liefert das balancierte Gegengewicht — Steinkes und Möllers' institutionellem Optimismus näher als Poschardt.
+
 ### → [[Gedankenwelten/Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
 
 Haidts Moral-Foundations-Theorie ist der präziseste analytische Schlüssel zur Debatte: Was Poschardt als kulturellen Hegemonialanspruch des linksliberalen Milieus beschreibt, ist in Haidts Sprache eine Moral-Matrix, die nur zwei der sechs Foundations als legitim anerkennt und die anderen als rückständig abwertet. Möllers' Demokratietheorie verlangt genau die moralische Demut, die Haidt fordert: verstehen, dass die andere Seite in einer anderen Moral-Sprache spricht.

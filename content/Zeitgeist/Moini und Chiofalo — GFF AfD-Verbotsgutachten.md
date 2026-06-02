@@ -208,6 +208,10 @@ Die GFF ist in beiden Notes die handelnde Rechtsschutzorganisation: Görlitz koo
 
 Semsrott und Sahebi dokumentieren den systematischen Angriff auf zivilgesellschaftliche Strukturen — genau die, aus denen die GFF hervorgeht. Das GFF-Gutachten ist selbst ein Akt zivilgesellschaftlicher Demokratieverteidigung: Eine NGO übernimmt die juristische Vorarbeit, die eigentlich dem Bundestag oblegen hätte, aber politisch blockiert wurde. Die Note illustriert, wie demokratische Aufgaben an die Zivilgesellschaft verschoben werden — und welche Risiken damit verbunden sind.
 
+### → [[Gedankenwelten/Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
+
+Rath analysiert im Podcast das Paradox, das Moinis „schärfstes Schwert"-Argument impliziert: Die AfD instrumentalisiert Verbotsversuche und Meinungseinschränkungen als Opfernarrativ — und gewinnt dadurch Glaubwürdigkeit für ihre Freiheitsrhetorik. Beide Notes kreisen um dieselbe Struktur: staatliche Abwehrinstrumente, die ihr Ziel verstärken statt schwächen.
+
 ---
 
 ## Weiterdenken

@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## taz Bundestalk — Meinungsfreiheit in Deutschland 2026
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Wird die Meinungsfreiheit zu sehr eingeschränkt? – Podcast Bundestalk](https://www.youtube.com/watch?v=h55KIojF9y0) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Bundestalk_Meinungsfreiheit_Transkript.txt` |
+
 ## phoenixRunde — Streit um Reformen, wer zahlt wie viel (2026)
 
 | | |
