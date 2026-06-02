@@ -26,10 +26,13 @@ Quelle: [phoenixRunde: Streit um Reformen — Wer kann wie viel leisten?](https:
 > → [[Gedankenwelten/DenkerVita/Christoph Butterwegge|DenkerVita]]
 >
 > **Hans-Jürgen Völz** — Bundesgeschäftsleiter Volkswirtschaft des BVMW (Bundesverband Mittelständische Wirtschaft), seit dem 18. Lebensjahr CDU-Mitglied. Sein Standpunkt: Strukturreformen sind überfällig, Unternehmensentlastung ist die Voraussetzung für alles andere.
+> → [[Gedankenwelten/DenkerVita/Hans-Jürgen Völz|DenkerVita]]
 >
 > **Cordula Tutt** — Hauptstadtkorrespondentin und Autorin der *WirtschaftsWoche*. Ihr Standpunkt: Das System hilft zu wenig denen, die es am meisten brauchen — zuviel Gießkanne, zu wenig Zielgenauigkeit.
+> → [[Gedankenwelten/DenkerVita/Cordula Tutt|DenkerVita]]
 >
 > **Christine Dankbar** — Ressortleiterin Politik und Hauptstadtkorrespondentin der *Frankfurter Rundschau*. Ihr Standpunkt: Reform ist nicht gleich Kürzung; Bürokratieabbau und Transparenz sind der eigentliche Hebel.
+> → [[Gedankenwelten/DenkerVita/Christine Dankbar|DenkerVita]]
 
 ---
 
