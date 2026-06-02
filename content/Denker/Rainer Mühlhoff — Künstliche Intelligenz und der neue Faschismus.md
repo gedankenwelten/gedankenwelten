@@ -391,3 +391,7 @@ Kloiber und Kinyua liefern das menschliche Fundament von Mühlhoffs Kolonialismu
 ### → [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
 
 Holy Koolaid beschreibt das historische Muster des Imperial Overstretch; Mühlhoff zeigt den nächsten Schritt: wenn staatliche Infrastruktur privatisiert und digitalisiert ist, braucht ein kollabierendes Imperium keine Propaganda mehr — Verhaltenssteuerung ist direkt in die Plattformarchitektur eingebaut.
+
+### → [[Jan-Keno Janssen — Nvidia Tokenextremismus]]
+
+Janssens c't-3003-Analyse der Computex 2026 ist Mühlhoffs These in der konkreten Produktrealität: Jensen Huangs Tokenextemismus — Wert eines Entwicklers gemessen in Tokenkosten — ist der exakte Mechanismus, den Mühlhoff als Umverteilung von unten nach oben bei wenigen oligopolistischen Akteuren beschreibt. Der Amazon-Kirorank-Incident (Tokenmaxxing) ist der lebendige Beweis, wie perverse Anreize entstehen wenn Infrastruktur-Anbieter das Kennzahlsystem definieren.

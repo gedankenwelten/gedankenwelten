@@ -240,6 +240,10 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Jan Hegenberg
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jan Hegenberg]]
 
+## Jan-Keno Janssen
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jan-Keno Janssen]]
+
+
 ## Jean-François Lyotard
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Jean-Francois Lyotard]]
 

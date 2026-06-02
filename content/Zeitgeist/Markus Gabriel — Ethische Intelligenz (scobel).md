@@ -160,3 +160,7 @@ Redeckers Analyse des westlichen „Drangs nach Härte" und Kontrolle spiegelt s
 ### → [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]]
 
 Morpheus zeigt Gabriels These in ihrer dunkelsten Anwendung: Objection.ai nutzt KI-Intentionslosigkeit als Feature — kein Richter urteilt, ein Algorithmus hat errechnet. Wer verantwortlich ist, bleibt diffus. Gabriels philosophische KI-Ethik trifft hier ihr konkretes politisches Gegenstück.
+
+### → [[Jan-Keno Janssen — Nvidia Tokenextremismus]]
+
+Gabriel beschreibt philosophisch, wie KI den Menschen nicht mehr als Gegenüber, sondern als Datenpunkt modelliert. Bei Janssen wird das zur Produktstrategie: Jensen Huang erklärt explizit, die neue Zielgruppe seien KI-Agenten, nicht Menschen. Was Gabriel als epistemische Verschiebung analysiert, hat Nvidia als Business-Modell implementiert.

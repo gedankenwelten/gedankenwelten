@@ -200,3 +200,7 @@ Zwei Makroökonomen, die Big Tech aus verschiedenen Winkeln analysieren: Tooze b
 ### → [[Morpheus — Warum alle chinesische KI nutzen]]
 
 Tooze zeigt, wie das Pentagon Anthropic zur Kooperation zwang — Morpheus dokumentiert die chinesische Spiegelung: 24.000 Fake-Accounts die Anthropic-Modelle für Destillation ausbeuten. Der Anthropic-Bericht ist das verbindende Ereignis: einmal als US-Machtkampf, einmal als industrieller Technologieklau.
+
+### → [[Jan-Keno Janssen — Nvidia Tokenextremismus]]
+
+Tooze beschreibt, wie staatliche Macht KI-Infrastruktur für nicht-demokratisch legitimierte Zwecke einspannt. Janssens „von Milliardären für Milliardäre"-Diagnose zeigt die Gegenseite: Nvidia baut nicht für Staat, nicht für Bürger, sondern für Rechenzentren-Betreiber mit ausreichend Kapital. Beide Notes beschreiben eine KI-Welt, in der die Mehrheit weder Subjekt noch Adressat der Technologie ist.
