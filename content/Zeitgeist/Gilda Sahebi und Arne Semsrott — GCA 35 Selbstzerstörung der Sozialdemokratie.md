@@ -244,6 +244,10 @@ Das Panorama bündelt den Kontext für die CDU-Broschüre und Söders Kurs: Die 
 
 Beide Notes beschreiben dieselbe Grundbewegung aus zwei Richtungen: Die sozialdemokratische Erosion der Arbeitnehmerinteressen (GCA #35: Labour kürzt Wohlfahrt, SPD seit Agenda 2010) und die aktive Demontage der Arbeitnehmerrechte durch konservative Regierungen (Merz beim DGB, Arbeitszeitgesetz). Zusammen dokumentieren sie, wie die politische Mitte die Arbeiterklasse von links und rechts gleichzeitig aufgibt.
 
+### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
+
+Deutsches Gegenstück zum Labour-Muster: Bundesregierung plant Rentenniveau auf 46%, Rentenalter auf 70 — die phoenixRunde dokumentiert die Argumente und Widerstände in Echtzeit, die GCA #35 als strukturellen Selbstzerstörungsmechanismus analysiert.
+
 ---
 
 ## Weiterdenken

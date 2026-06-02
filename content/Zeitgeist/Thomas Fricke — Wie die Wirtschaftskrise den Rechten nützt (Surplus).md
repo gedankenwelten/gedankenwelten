@@ -272,3 +272,7 @@ Frickes These — AfD-Wähler präferieren die Irrationalität — erklärt, war
 ### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
 
 Das rp26-Panel konkretisiert Frickes Kontrollverlust-These ostdeutsch: Die Erbschaftslücke (10.000 € Ost vs. 250.000 € Bayern/BW) ist kein gefühlter, sondern strukturell kumulierter Kontrollverlust — Frickes Makroanalyse bekommt ein präzises empirisches Fundament.
+
+### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
+
+Dankbars These zur Abstiegsangst als AfD-Treiber ist Frickes Kontrollverlust-Argument im Debattenformat: Die phoenixRunde zeigt, wie die Legitimationskrise des Sozialstaats als politisches Problem wahrgenommen wird.
