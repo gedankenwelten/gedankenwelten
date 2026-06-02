@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Jan-Keno Janssen / c't 3003 — Nvidia Tokenextremismus (2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Nvidia hat den Bezug zur Realität verloren](https://www.youtube.com/watch?v=JnNBnRzxrYY) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Janssen_Nvidia_Transkript.txt` |
+
 ## Thomas Westbrook (Holy Koolaid) — Amerikanische Propaganda: 7 Formen (2026)
 
 | | |

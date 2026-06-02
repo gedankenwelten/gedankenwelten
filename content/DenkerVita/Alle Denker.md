@@ -111,6 +111,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Jan Hegenberg|Jan Hegenberg]]** — Blogger ("Der Graslutscher"), Autor; Energiewendemythen entkräften, Optimismus durch Fakten, Chinas CO₂-Trendwende
 
+**[[Gedankenwelten/DenkerVita/Jan-Keno Janssen|Jan-Keno Janssen]]** — Tech-Journalist, c't Magazin / heise online (seit 2007), Gründer & Redakteur c't 3003 (YouTube, 114k Subscriber); KI-Kritik, Nvidias Entfremdung von Realität und Mensch, Token-Ökonomie als strukturelles Versprechen; Computex 2026 vor Ort
+
 **[[Gedankenwelten/DenkerVita/Jagoda Marinic|Jagoda Marinić]]** — Schriftstellerin, Kulturjournalistin, Podcasterin (ARD *Freiheit Deluxe*); Sanfte Radikalität statt Verhärtung, Entotherung als zentrale Aufgabe, Meinungsfreiheit als gelebte Praxis; Stern-Kolumnistin, Mitglied Stiftungsrat Friedenspreis Deutscher Buchhandel; re:publica 26 Panel zu Meinungsfreiheit mit Ronen Steinke
 
 **[[Gedankenwelten/DenkerVita/Jean-Francois Lyotard|Jean-François Lyotard]]** — Philosoph der Postmoderne; Gegenspieler Habermas', Ende der Metaerzählungen, Widerstreit, Sprachspiele ohne universale Schiedsrichter, Inkommensurabilität
