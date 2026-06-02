@@ -111,38 +111,59 @@ Ihr Konter auf Kürzungsforderungen: Nicht weniger ausgeben, sondern gezielter. 
 
 ## Faktencheck
 
-> [!success] Bestätigt — Sachverständigenrat: 50%-Szenario
-> Der Sachverständigenrat hat tatsächlich ein Szenario beschrieben, in dem die Sozialbeiträge bis 2040 auf rund 50% steigen könnten, sofern keine Reformen erfolgen. Quelle: [Sachverständigenrat Jahresgutachten 2025/26](https://www.sachverstaendigenrat-wirtschaft.de/jahresgutachten-2025-26.html)
+> [!success] Bestätigt — Sachverständigenrat: 50%-Szenario bis 2040
+> Laut Frühjahresgutachten 2026 des Sachverständigenrats könnten die Sozialbeiträge bei unveränderter Gesetzeslage bis 2040 auf knapp 50% steigen (exakt: 49,7%). Die Formulierung „bis 2040 auf 50 Prozent" im Video ist eine zulässige Rundung.
+> Quelle: [Sachverständigenrat — Frühjahresgutachten 2026](https://www.sachverstaendigenrat-wirtschaft.de/en/spring-report-2026.html)
 
-> [!success] Bestätigt — Rentenniveau 48%
-> Das aktuelle Rentenniveau liegt bei 48% des Durchschnittslohns. Es war früher (vor 2001) deutlich höher (um 70%), wurde durch die Rentenreformen schrittweise gesenkt. Quelle: [Deutsche Rentenversicherung — Rentenniveau](https://www.deutsche-rentenversicherung.de)
+> [!success] Bestätigt — Rentenniveau 48% (Haltelinie bis 2031)
+> Das Rentenniveau liegt bei 48% des Durchschnittslohns — gesetzlich als Haltelinie bis 2031 gesichert (Rentenpaket 2025). Butterwegge stellt es korrekt dar; die Zahl ist exakt.
+> Quelle: [Deutsche Rentenversicherung — Rentenpaket 2025](https://www.deutsche-rentenversicherung.de/SharedDocs/FAQ/Gesetzesaenderungen/rentenpaket-2025/Rentenpaket-2025.html)
 
-> [!success] Bestätigt — 19,1% Altersarmut
-> Laut EU-Kriterien (unter 60% des medianen Äquivalenzeinkommens) liegen die Armutsquoten bei Ruheständlern tatsächlich in diesem Bereich. Quelle: [Eurostat — Armutsgefährdungsquoten](https://ec.europa.eu/eurostat)
+> [!warning] Vereinfacht — Rentenniveau „früher bei 60%"
+> Butterwegge sagt, das Rentenniveau sei „einmal bei 60 Prozent" gewesen. Der historische Peak lag 1977 bei 59,8% (Netto vor Steuern) — das ist die einzige Annäherung an 60%. Im Jahr 2000 lag es bereits bei 52,9%, vor der Riester-Reform also nicht bei 60%. Die These stimmt als langfristiger Trend, ist aber zeitlich unscharf.
+> Quelle: [bpb — Entwicklung des Rentenniveaus (GRV)](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/61842/entwicklung-des-rentenniveaus-grv/)
+
+> [!warning] Vereinfacht — 19,1% Altersarmut
+> Die Armutsgefährdungsquote der über 65-Jährigen nach EU-Kriterien lag laut Destatis 2024 bei 19,6% — ein neuer Höchststand. Die im Video genannten 19,1% dürften einem älteren Messjahr entstammen. Die Richtung stimmt: Altersarmut steigt, liegt im Bereich der genannten Zahl, aber die aktuelle Lage ist noch schlechter als dargestellt.
+> Quelle: [Destatis — Armutsgefährdungsquoten EU-SILC 2025](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Lebensbedingungen-Armutsgefaehrdung/_inhalt.html)
 
 > [!success] Bestätigt — Beitragsbemessungsgrenze 8.450 Euro
-> Die Beitragsbemessungsgrenze in der gesetzlichen Rentenversicherung West lag 2026 bei 8.050 Euro/Monat (nicht ganz 8.450 — leicht vereinfacht, aber die Größenordnung stimmt). *(Faktencheck: leicht vereinfacht)*
+> Die Beitragsbemessungsgrenze in der gesetzlichen Rentenversicherung West liegt 2026 bei exakt 8.450 Euro/Monat (101.400 Euro/Jahr). Die Zahl im Video ist korrekt.
+> Quelle: [Bundesregierung — Beitragsbemessungsgrenzen 2026](https://www.bundesregierung.de/breg-de/aktuelles/beitragsgemessungsgrenzen-2386514)
 
-> [!success] Bestätigt — Österreich: Durchschnittsrente 500 Euro höher
-> Österreich hat ein deutlich höheres Rentenniveau als Deutschland; die Erwerbstätigenversicherung (alle Berufsgruppen einbezogen) gilt als wesentlicher Grund. Quelle: [OECD Pensions at a Glance 2023](https://www.oecd.org/pensions/oecd-pensions-at-a-glance.htm)
+> [!warning] Vereinfacht — Österreich: Durchschnittsrente „500 Euro höher"
+> Die Durchschnittsrente in Österreich lag 2023 bei 1.869 Euro brutto, in Deutschland bei 1.236 Euro — eine Differenz von rund 633 Euro. „Mehr als 500 Euro" im Video ist eine Untertreibung. Allerdings ist der Direktvergleich eingeschränkt aussagekräftig, da Beitragssätze (22,8% vs. 18,6%), Systemstruktur und Steuervorteil sich erheblich unterscheiden. Die Grundaussage — österreichisches System erzeugt höhere Renten durch breitere Beitragsbasis — ist korrekt.
+> Quelle: [DRV — Faktencheck Rentenvergleich Österreich](https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2023/231122-faktencheck-rentenvergleich-oesterreich.html)
 
-> [!warning] Vereinfacht — Spitzensteuersatz unter Helmut Kohl: 53%
-> Technisch korrekt war der Spitzensteuersatz zeitweise 53%, aber mit erheblichen Ausnahmetatbeständen — effektiv wurde er kaum vollständig gezahlt, wie Völz zurecht anmerkt. Die Gerichtslinie ist richtig (Steuerabbau seit den 90ern), aber der direkte Vergleich übervereinfacht.
+> [!success] Bestätigt — Kapitalertragssteuer 25% vs. Arbeitseinkommen 42%+
+> Die Abgeltungssteuer auf Kapitalerträge (Dividenden, Zinsen, Kursgewinne) beträgt pauschal 25% plus Soli. Der Einkommensteuerspitzensatz liegt bei 42%, ab ca. 58.000 Euro zu versteuerndem Jahreseinkommen. Arbeit wird damit strukturell höher besteuert als Kapital — Butterwegges Argument ist faktisch korrekt.
+> Quelle: [Finanztip — Abgeltungssteuer](https://www.finanztip.de/abgeltungsteuer/)
 
-> [!success] Bestätigt — Kapitalertragssteuer 25%, Reichensteuer gilt nicht
-> Die Abgeltungssteuer auf Kapitalerträge beträgt 25%; der Spitzensteuersatz auf Erwerbseinkommen gilt 42%+. Einkommen aus Kapitalvermögen wird tatsächlich niedriger besteuert als Arbeitseinkommen. Quelle: [Bundesministerium der Finanzen](https://www.bundesfinanzministerium.de)
+> [!success] Bestätigt — DAX-Rekordividenden 55 Milliarden Euro
+> Die DAX-40-Konzerne schütten in der Saison 2026 insgesamt 55,3 Milliarden Euro aus — ein neuer Rekordwert (+5,9% gegenüber Vorjahr). Größte Einzelzahler: Allianz (6,5 Mrd.), Deutsche Telekom (4,8 Mrd.), Siemens (4,2 Mrd.).
+> Quelle: [EY — DAX-Konzerne: Dividenden steigen auf neues Rekordniveau (April 2026)](https://www.ey.com/de_de/newsroom/2026/04/ey-dax-dividenden-2026)
 
-> [!success] Bestätigt — DAX-Rekordividenden 55 Mrd.
-> Die DAX-40-Konzerne haben 2025/26 tatsächlich Rekorddividenden ausgeschüttet. Keine unabhängige Quellenangabe im Video, aber Größenordnung ist realistisch und durch Wirtschaftsberichterstattung bestätigt.
+> [!danger] Falsch — Beitragssatz von „21,3%" auf 18,6% gesunken
+> Butterwegge nennt 21,3% als historischen Höchststand des Rentenbeitragssatzes. Der tatsächliche Höchststand betrug 20,3% (1997 bis März 1999), danach wurde er auf 19,5% gesenkt. Der aktuelle Satz von 18,6% ist korrekt. Die Tendenzaussage stimmt (Umschichtung zu Riester = sinkender GRV-Beitrag, aber privatisierter Zusatzaufwand), die konkrete Zahl 21,3% existiert im historischen Verlauf nicht.
+> Quelle: [rentenfuchs.info — Entwicklung Beitragssatz GRV](https://www.rentenfuchs.info/entwicklung-beitragssatz-gesetzliche-rentenversicherung/) · [bpb — Beitragssätze zur GRV (PDF)](https://www.bpb.de/system/files/dokument_pdf/10.1_Beitragssaetze_zur_Gesetzlichen_Rentenversicherung_0.pdf)
+
+> [!warning] Vereinfacht — „40.000 Einkommensmillionäre"
+> Butterwegge nennt „ungefähr 40.000 Einkommensmillionäre". Das Statistische Bundesamt weist für 2021 (aktuellste Vollerhebung) 34.500 Einkommensmillionäre aus. Die Zahl steigt jährlich, könnte inzwischen näher an 40.000 liegen, ist aber zum Zeitpunkt der Debatte eher überschätzt. Das Argument — ein kleiner Kreis sehr hoher Einkommen zahlt überproportional hohe Einkommensteuer, weil ihre Einkommen so hoch sind — bleibt davon unberührt.
+> Quelle: [Destatis — Rund 34.500 Einkommensmillionäre im Jahr 2021](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_194_73111.html)
 
 ---
 
 ## Weiterführende Quellen
 
-*Im Video erwähnt:*
-
-- [Sachverständigenrat Jahresgutachten 2025/26](https://www.sachverstaendigenrat-wirtschaft.de/jahresgutachten-2025-26.html) — Basis der Prognose: 50% Beitragssatz 2040
-- [OECD Pensions at a Glance](https://www.oecd.org/pensions/oecd-pensions-at-a-glance.htm) — internationaler Rentenvergleich, inkl. Österreich-Modell
+- [Sachverständigenrat — Frühjahresgutachten 2026](https://www.sachverstaendigenrat-wirtschaft.de/en/spring-report-2026.html) — 49,7% Beitragssatzszenario 2040
+- [Deutsche Rentenversicherung — Rentenpaket 2025](https://www.deutsche-rentenversicherung.de/SharedDocs/FAQ/Gesetzesaenderungen/rentenpaket-2025/Rentenpaket-2025.html) — Haltelinie 48% bis 2031
+- [bpb — Entwicklung des Rentenniveaus (GRV)](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/61842/entwicklung-des-rentenniveaus-grv/) — historische Zeitreihe seit 1960
+- [Destatis — Armutsgefährdungsquoten EU-SILC 2025](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Lebensbedingungen-Armutsgefaehrdung/_inhalt.html) — Altersarmut 19,6% (2024)
+- [Bundesregierung — Beitragsbemessungsgrenzen 2026](https://www.bundesregierung.de/breg-de/aktuelles/beitragsgemessungsgrenzen-2386514) — exakt 8.450 Euro/Monat
+- [DRV — Faktencheck Rentenvergleich Österreich](https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2023/231122-faktencheck-rentenvergleich-oesterreich.html) — Systemvergleich mit Einordnung
+- [EY — DAX-Dividenden 2026](https://www.ey.com/de_de/newsroom/2026/04/ey-dax-dividenden-2026) — 55,3 Mrd. Euro Rekord
+- [rentenfuchs.info — Entwicklung Beitragssatz GRV](https://www.rentenfuchs.info/entwicklung-beitragssatz-gesetzliche-rentenversicherung/) — Zeitreihe 1957–2026
+- [Destatis — Einkommensmillionäre 2021](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/06/PD25_194_73111.html) — 34.500 Personen mit Jahreseinkommen über 1 Mio. Euro
 
 ---
 
@@ -159,6 +180,26 @@ Direkte Schwester-Debatte: selbe Sendung, gleiches Thema, anderer Zeitpunkt. But
 ### → [[Gedankenwelten/Zeitgeist/MONITOR — Minijobs als Armutsfalle]]
 
 MONITOR hat konkret untersucht, was passiert, wenn Sozialstaat-Architekturen scheitern: Minijobs als Instrument, das Armut produziert statt verhindert. Ergänzt Butterwegges Systemkritik mit empirischem Material.
+
+### → [[Gedankenwelten/Panorama/Rente]]
+
+Das Panorama strukturiert genau die Konflikte, die in dieser Runde aufeinandertreffen: Sparparadoxon bei Kapitaldeckung, Minijob-Armutsfalle, gescheiterte Riester-Rente, Finanzierungslücke. Die phoenixRunde liefert die politische Kontroverse in Echtzeit — das Panorama den strukturellen Rahmen.
+
+### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
+
+Flassbeck liefert die makroökonomische Begründung für Butterwegges Ablehnung der Kapitaldeckung: Das Sparparadoxon zeigt, warum die Erwerbstätigenversicherung (alle einbeziehen) strukturell solider ist als jedes kapitalgedeckte Modell. Butterwegges Österreich-Argument bekommt hier seinen theoretischen Unterbau.
+
+### → [[Gedankenwelten/Denker/Martyna Linartas — Unverdiente Ungleichheit]]
+
+Linartas analysiert die Vermögensseite dessen, was Butterwegge über Einkommensarmut sagt: Kapitalertragssteuer niedriger als Spitzensteuersatz, Arbeit höher besteuert als Kapital — beides beschreibt dieselbe systematische Verschiebung zugunsten von Vermögensbesitzern, die Linartas als „Erbengesellschaft" fasst.
+
+### → [[Gedankenwelten/Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+
+Dankbars Beobachtung — Abstiegsangst treibt AfD-Wahlergebnisse — ist exakt Frickes empirischer Kernbefund: Kontrollverlust durch Austerität und ungerechte Lastenverteilung ist der Nährboden für Rechtspopulismus. Die phoenixRunde zeigt, warum der Sozialstaat ein Demokratieproblem ist, Fricke erklärt den Mechanismus.
+
+### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]]
+
+Labour nimmt Rentnern den Heizungszuschuss, die Bundesregierung plant Rentenniveau-Absenkung auf 46 Prozent — dasselbe Muster: Sozialdemokratien greifen zuerst ihre eigene Basis an. GCA #35 analysiert den britischen Fall; die phoenixRunde ist der deutsche Schauplatz desselben Selbstzerstörungsmechanismus.
 
 ---
 

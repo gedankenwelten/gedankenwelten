@@ -142,3 +142,7 @@ Flassbeck liefert die makroökonomische Mechanik (Sparparadoxon, r > g) für Kü
 ### → [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 Flassbecks Sparparadoxon demontiert theoretisch, was Herrmann in der Bilanz-Runde praktisch benennt: Steuergeschenke für Reiche erzeugen keine Investitionen — weil Kapital ohne Nachfrage nicht investiert wird.
+
+### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
+
+Butterwegges Erwerbstätigenversicherungs-Argument und Österreich-Vergleich in der Praxis: Die politische Debatte, in der Flassbecks Sparparadoxon-Kritik an Kapitaldeckung als Gegenargument benötigt wird.
