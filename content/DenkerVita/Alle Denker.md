@@ -35,6 +35,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## C
 
+**[[Gedankenwelten/DenkerVita/Christoph Butterwegge|Christoph Butterwegge]]** — Politikwissenschaftler, Armutsforscher; Relative Armut als strukturell konstruiert, Matthäus-Prinzip in der Steuerpolitik, Finanzmarktkapitalismus als Oligarchie, Demografie als politisches Problem; 2017 Bundespräsidentschaftskandidat Die Linke; em. Professor Universität Köln; Werke: *Armut in einem reichen Land*, *Hartz IV und die Folgen*, *Kinder der Ungleichheit*
+
 **[[Gedankenwelten/DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (UC Berkeley); Vier-Quadranten-Modell (Intelligent/Bandit/Hilflos/Dumm), Asymmetrie-Problem, Dummheit als strukturelle Handlungslogik, Zivilisationsverfall durch Kompositionsverschiebung, *The Basic Laws of Human Stupidity* (1976)
 
 **[[Gedankenwelten/DenkerVita/Christoph Hein|Christoph Hein]]** — Wirtschaftsjournalist (FAZ); 25 Jahre Asien-Korrespondent, Geoökonomie, Weltwirtschaft als geopolitisches Machtinstrument

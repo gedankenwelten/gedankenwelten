@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## phoenixRunde — Streit um Reformen, wer zahlt wie viel (2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [phoenixRunde: Streit um Reformen](https://www.youtube.com/watch?v=wahG38MzZVM) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Butterwegge_Reformen_Transkript.txt` |
+
 ## Jan-Keno Janssen / c't 3003 — Nvidia Tokenextremismus (2026)
 
 | | |
