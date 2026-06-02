@@ -262,3 +262,4 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 - [[Gedankenwelten/DenkerVita/Marina Klimchuk|Marina Klimchuk]] — Freie Journalistin; USA, Migration, Erinnerungskultur; VDRJ-Preis 2025
 - [[Gedankenwelten/DenkerVita/Morpheus|Morpheus (Cedric Mössner)]] — Informatik-Educator, YouTuber (TheMorpheus407); Bootstrap Academy, European Alternatives, KI-Bias-Tests
 - [[Gedankenwelten/DenkerVita/IT Mario|IT Mario]] — Datenanalyst und Data-Science-YouTuber; KI-gestützte politische Sprachanalyse, Bundestags-Rhetorik, methodische Transparenz
+- [[Gedankenwelten/DenkerVita/Thomas Westbrook|Thomas Westbrook (Holy Koolaid)]] — YouTube-Creator; Kult-Psychologie und amerikanische Propaganda; 7 Formen unsichtbarer Indoktrination (Exzeptionalismus, Kalter-Krieg-Binär, Pledge of Allegiance)

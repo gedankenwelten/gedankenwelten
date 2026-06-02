@@ -387,3 +387,7 @@ Kurz und Görlitz liefern den deutschen Rechtsfall zu Mühlhoffs Desouveränisie
 ### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Kloiber und Kinyua liefern das menschliche Fundament von Mühlhoffs Kolonialismus-These: Die 150–430 Mio. Data Workers sind nicht Randnotiz, sondern die Rohstoff-Basis des KI-Regimes — Extraktion ohne Kompensation, Süd-Nord-Wertschöpfung in Reinform.
+
+### → [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
+
+Holy Koolaid beschreibt das historische Muster des Imperial Overstretch; Mühlhoff zeigt den nächsten Schritt: wenn staatliche Infrastruktur privatisiert und digitalisiert ist, braucht ein kollabierendes Imperium keine Propaganda mehr — Verhaltenssteuerung ist direkt in die Plattformarchitektur eingebaut.

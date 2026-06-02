@@ -279,3 +279,6 @@ Reichelts Reaktion auf das Gerichtsurteil ist ein Lehrstück angewandter Agnotol
 
 ### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
 Fichtners Podcast ist ein zeitgenössisches Fallbeispiel angewandter Agnotologie-Bekämpfung: Er benennt explizit, dass die Batterie-Mythen nicht durch Unwissenheit, sondern durch Lobbyinteressen verbreitet werden — der Mechanismus ist das Tabak-Blueprint in Echtzeit, angewandt auf Energiepolitik.
+
+### → [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
+Holy Koolaid zeigt das staatliche Pendant zur Industrie-Agnotologie: US-zentrischer Geschichtsunterricht, CIA-Coups die aus Lehrplänen verschwinden, "Under God" als Marketing-Entscheidung, die als Gründertradition verkauft wird — Nicht-Wissen als Bildungspolitik.

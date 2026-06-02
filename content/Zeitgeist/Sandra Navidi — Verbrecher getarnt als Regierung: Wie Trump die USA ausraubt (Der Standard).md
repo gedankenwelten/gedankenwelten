@@ -275,3 +275,7 @@ MONITOR liefert die investigative Detailarbeit zu Navidis Gesamtdiagnose: Wo Nav
 ### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Navidi zeigt das US-Extremszenario dessen, was Studio Bonn als Demokratiegefahr erst abstrakt benennt: Wenn Lobbymacht ungehemmt wirkt, entsteht ein System, in dem Korruption legalisierter Mechanismus wird. Studio Bonns legale Steuervermeidungsindustrie ist Navidis USA schon einen Schritt voraus.
+
+### → [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
+
+Holy Koolaid erklärt die ideologische Infrastruktur (Exzeptionalismus, Land-of-the-Free-Mythos), die verhindert, dass die Bevölkerung Navidis dokumentierten Ausplünderungsmechanismus als systemisches Problem erkennt — nicht als individuellen Skandal.

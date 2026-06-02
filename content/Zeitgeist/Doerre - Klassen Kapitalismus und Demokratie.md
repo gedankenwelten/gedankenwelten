@@ -262,6 +262,7 @@ Mau beschreibt die *demobilisierte Klassengesellschaft*: Klasse strukturiert Leb
 ---
 
 - [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]] — A/Ns These des demokratischen Faschismus ist das emotionale Pendant zu Dörres struktureller Beobachtung, dass Faschismus in liberalen Demokratien von innen wächst. Dörres Outlaw-Stolz und A/Ns Zerstörungslust beschreiben denselben affektiven Boden — aus Klassen- vs. Gefühlsstruktur-Perspektive.
+- [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]] — Holy Koolaid zeigt, wie der Kalter-Krieg-Binär (Kommunismus=böse/Kapitalismus=gut) denselben Widerspruch in den USA ideologisch neutralisiert hat: Kritik am Kapitalismus wird als unamerikanisch programmiert, bevor sie gedacht werden kann — das ideologische Immunsystem, das Dörres "autoritären Liberalismus" unsichtbar macht.
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
