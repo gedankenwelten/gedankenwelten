@@ -92,6 +92,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Christian Jakob
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christian Jakob]]
 
+## Christine Dankbar
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christine Dankbar]]
+
 ## Christof Johnen
 **Status:** Stub
 
@@ -110,6 +113,8 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Claus-Christian Carbon
 **Status:** Stub
 
+## Cordula Tutt
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Cordula Tutt]]
 
 ## Constanze Kurz
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Constanze Kurz]]

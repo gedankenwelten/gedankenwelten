@@ -39,11 +39,15 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (UC Berkeley); Vier-Quadranten-Modell (Intelligent/Bandit/Hilflos/Dumm), Asymmetrie-Problem, Dummheit als strukturelle Handlungslogik, Zivilisationsverfall durch Kompositionsverschiebung, *The Basic Laws of Human Stupidity* (1976)
 
+**[[Gedankenwelten/DenkerVita/Christine Dankbar|Christine Dankbar]]** — Ressortleiterin Politik & Hauptstadtkorrespondentin der *Frankfurter Rundschau*; Politikwissenschaftlerin, langjährige Erfahrung bei taz, Tagesspiegel, Berliner Zeitung; Schwerpunkt: Sozialpolitik, Reformdiskurs, Bürokratieabbau; regelmäßig zu Gast in phoenix "nachgefragt" und ZDF-Medien
+
 **[[Gedankenwelten/DenkerVita/Christoph Hein|Christoph Hein]]** — Wirtschaftsjournalist (FAZ); 25 Jahre Asien-Korrespondent, Geoökonomie, Weltwirtschaft als geopolitisches Machtinstrument
 
 **[[Gedankenwelten/DenkerVita/Clara Mattei|Clara Mattei]]** — Ökonomin; Austerität als Kern des Kapitalismus, Liberalismus-Faschismus-Konvergenz, *The Capital Order*
 
 **[[Gedankenwelten/DenkerVita/Constanze Kurz|Constanze Kurz]]** — Informatikerin, CCC-Sprecherin, netzpolitik.org-Redakteurin; Technologiekritik, Datenschutz, Überwachung durch Polizei-Software wie Palantir; Vortragende zu Grundrechten im digitalen Zeitalter, technische Sachverständige vor Bundesverfassungsgericht; Theodor-Heuss-Medaille 2013
+
+**[[Gedankenwelten/DenkerVita/Cordula Tutt|Cordula Tutt]]** — Wirtschaftsjournalistin, Autorin (WiWo Hauptstadtbüro Berlin); Expertise: Strukturreformen durch Effizienz (nicht Kürzung), Rentensysteme, Gesundheitsökonomie, Steuergerechtigkeit; Autorin *Das große Schrumpfen* (2007); Kernerkenntnis: Zielgenauigkeit in Sozialsystemen schützt echte Arme besser als Gießkannenprinzip
 
 ## D
 
