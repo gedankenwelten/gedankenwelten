@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## re:publica 26 — Social-Media-Verbot für Kinder (Panel)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Offline per Gesetz – Brauchen wir ein Social-Media-Verbot für Kinder?](https://www.youtube.com/watch?v=CBON-RRXx9Y) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]] |
+| **Transkript** | `Gedankenwelten/Transkripte/republica26_SocialMedia_Kinder_Transkript.txt` |
+
 ## taz Bundestalk — Meinungsfreiheit in Deutschland 2026
 
 | | |

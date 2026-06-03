@@ -192,6 +192,9 @@ Der „Korrumpierungseffekt" (äußere Belohnung zerstört intrinsische Motivati
 ### → [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 Nosthoffs Analyse der Verhaltenssteuerung durch Plattformdesign (kybernetische Feedback-Schleifen) und Schultz' Eskalationsspirale ergänzen sich: Soziale Medien sind als RPE-Maschinen gebaut — variables Intervall-Scheduling maximiert die Rate positiver Prediction Errors und erzeugt damit biologisch fundierte Abhängigkeit. Schultz liefert die neuronale Grammatik für das, was Nosthoff als Machtstrategie beschreibt.
 
+### → [[Gedankenwelten/Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]
+Paschke (DZSKJ Hamburg) beschreibt im re:publica 26-Panel genau den Mechanismus, den Schultz neurobiologisch ausgearbeitet hat: Plattformen nutzen variables Belohnungslernen (unvorhersagbare Gratifikation = maximaler RPE), um Jugendliche besonders effektiv zu binden — mit klinisch messbaren Folgen: 1,5 Mio. suchtgefährdete Jugendliche in Deutschland.
+
 ### → [[Erich Fromm — Menschliches Wachstum]]
 Fromms „hedonische Tretmühle" (Konsum macht kurzfristig glücklich, eskaliert aber den Bedarf) ist bei Schultz neurobiologisch begründet: Positiver RPE erhöht den Erwartungswert — beim nächsten Mal braucht es mehr Überraschung für dieselbe Dopaminantwort. Fromms Diagnose des Konsumismus als evolutionärer Kurzschluss und Schultz' Analyse der Sucht als Überstimulation jenseits evolutionärer Kapazität beschreiben denselben Mechanismus aus philosophischer und neurobiologischer Perspektive.
 
