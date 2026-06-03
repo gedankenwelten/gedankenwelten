@@ -86,6 +86,10 @@ Kaufmann schärft das noch zu: Der EU AI Act sei die Reaktion von Staaten, die d
 
 Man kann diesem Argument widersprechen — tatsächliche KI-Risiken (Bias, Deepfakes, autonome Waffen) sind nicht durch Vergleiche mit Haushaltsgeräten aufgelöst. Aber die Kernkritik, dass Regulierung in ihrer aktuellen Form eher Incumbents als Innovation schützt, ist empirisch prüfbar und wird auch linker Wirtschaftskritik nicht fremd sein.
 
+Interessanter noch als die Regulierungskritik ist ein Moment, den Büttner selbst anspricht und dann schnell weiterläuft: die [▶ 6:07](https://www.youtube.com/watch?v=Vp9rtv5cWgw&t=367) **Präferenzkonsistenz**. Sie sagt explizit: *„Wir sind nicht präferenzkonsistent. Wir sagen, wir wollen Datenschutz — und dann schauen wir, wie viele Leute zwei, drei lustige Messenger-Apps auf dem Handy haben."* Ihre Schlussfolgerung: Wir müssen bessere europäische Produkte bauen, dann löst sich der Konflikt.
+
+Das ist die optimistische Version. Die unbequemere Erklärung, die im Panel nicht ausgesprochen wird: Die Plattformen, die wir trotz Datenschutzkritik nutzen, sind nicht zufällig besser — sie sind *darauf ausgelegt*, Selbststeuerung zu untergraben. Variables Belohnungsschema, soziale Vergleichsarchitektur, FOMO-Schleifen: Das sind keine zufälligen Nebeneffekte, sondern Geschäftsmodell-Design. Ein europäisches WhatsApp-Äquivalent mit denselben Mechanismen, nur mit Schweizer Servern, löst das Problem nicht. Es bräuchte andere Designentscheidungen — und die wiederum erfordern genau die Regulierung, die das Panel ablehnt.
+
 > [!question] Weitergedacht
 > Wenn DSGVO und AI Act beide ihr Ziel verfehlt haben — welche Form von Regulierung würde sowohl Innovation ermöglichen als auch echten Datenschutz sichern? Und wer entscheidet das, wenn nicht der Staat?
 
@@ -99,9 +103,22 @@ Kaufmann trägt im Panel ein Hörgerät im Gehörgang — ein GPT, das in Echtze
 
 Das Argument lautet: Mit KI kann man sich nicht differenzieren, weil alle Modelle konvergieren. Mit Vertrauen schon — weil Vertrauen an Kultur, Rechtsstaat, Geschichte gebunden ist. Die Schweiz hat diesen „Trust Tag" glaubwürdiger als die USA und China.
 
-Was daran klug ist: Es verwandelt einen scheinbaren Nachteil (kleinerer Markt, strengerer Datenschutz) in einen Vorteil. Was kritisch zu prüfen ist: Ob „Schweizer Neutralität" als Marke in einer Welt, die sich in Blöcke aufteilt, noch so trägt wie früher.
+Was daran klug ist: Es verwandelt einen scheinbaren Nachteil (kleinerer Markt, strengerer Datenschutz) in einen Vorteil. Was nicht diskutiert wird: Kaufmanns Modell setzt Vertrauen mit *geographischer Herkunft* gleich — Schweizer Bergbunker als Garantie. Aber die Geschichte digitaler Infrastruktur, der wir wirklich vertrauen, erzählt eine andere Geschichte. Linux, die Internetprotokolle, Signal — sie sind vertrauenswürdig nicht weil sie in Schweden oder Deutschland liegen, sondern weil ihr Code offen und prüfbar ist. Das ist eine grundlegend andere Architektur von Vertrauen: nicht Herkunft, sondern Transparenz. Kaufmanns Swiss GPT ist proprietär. Man vertraut nicht dem Code — man vertraut der Marke.
+
+Das ist kein Nischenargument: Die EU-Kommission selbst diskutiert seit 2023 das Modell öffentlich auditierter, Open-Weight-Modelle als Alternative zu proprietären Anbietern — egal ob amerikanisch oder schweizerisch. Die Vertrauensfrage bleibt im Panel ungestellt: *Was genau vertrauen wir hier eigentlich — der Technologie oder dem Unternehmen?*
+
+> [!question] Weitergedacht
+> Kaufmann unterscheidet nicht zwischen Vertrauen durch Herkunft (schweizer Bergbunker) und Vertrauen durch Transparenz (offener Code, öffentliche Auditierung). Könnte ein europäisches Open-Source-Modell mehr Vertrauen erzeugen als Alpine AI — und warum ist diese Option im Panel unsichtbar?
 
 ---
+
+## Souveränität ohne Isolation — Büttners Selbstkorrektur
+
+[▶ 22:45](https://www.youtube.com/watch?v=Vp9rtv5cWgw&t=1365) — Ein Moment, der in der Hauptdiskussion untergeht, aber wichtig ist: Als die Moderatorin fragt, ob Souveränität bedeute, dass 90% aller Applikationen europäisch sein müssen, korrigiert Büttner sich selbst — schnell und klar. Sie möchte nicht in eine *isolationistische Haltung* fallen. Und dann sagt sie: *„Ich bin auch Halbjamaikanerin. Die großen tollen Sachen entstehen in der Zusammenarbeit."*
+
+Das ist eine bedeutsame Nuancierung, die im restlichen Panel kaum aufgegriffen wird. Büttner denkt Souveränität nicht als nationalstaatliche Autarkie, sondern als **Verhandlungsposition** — die Fähigkeit, von einem Tisch aufzustehen, weil man eine echte Alternative hat. Das ist strukturell anders als Selbstversorgung. Souveränität bedeutet Wahlfreiheit, nicht Isolation.
+
+Diese Unterscheidung ist strategisch entscheidend: Ein Europa, das aus Herkunftsstolz schlechte Tools verwendet, ist nicht souveräner als eines, das von US-Tech abhängig ist. Souveränität entsteht nicht durch Ursprung des Tools, sondern durch die Existenz einer gleichwertigen Alternative. Büttner hat damit die schärfste Selbstkritik des Panels geliefert — und sie bleibt folgenlos für die Schlussfolgerungen.
 
 ## Zuschauerfragen
 
@@ -109,7 +126,24 @@ Was daran klug ist: Es verwandelt einen scheinbaren Nachteil (kleinerer Markt, s
 
 Kaufmann weitet das spielerisch aus: Man könnte sogar Billionär werden. Das Auditorium japst — aber der Witz sitzt präzise. Europa diskutiert über Obergrenzen, während andere über den nächsten Sprung nachdenken. Das ist kein Plädoyer für Plutokratie, sondern ein Spiegel für kollektives Ambitionsniveau.
 
+Was die Frage aus dem Publikum eigentlich aufwirft, aber nicht weiterverfolgt wird: der Unterschied zwischen *Signal* und *Struktur*. Büttner sagt, der Milliardär ist ein Proxy für eine große erfolgreiche Firma. Aber Proxys können lügen. WeWork war eine Milliardärsfirma, bis sie es nicht mehr war. Der eigentliche Indikator wäre: Wieviele hochqualifizierte Jobs entstehen? Wieviel Wertschöpfung bleibt im Land? Wieviel Kapital wird reinvestiert statt in offshore-Strukturen geparkt? Das Panel misst Erfolg an der Spitze, nicht an der Basis.
+
 ---
+
+## Das Modell, das nicht diskutiert wird
+
+Das Panel teilt eine Grundannahme so still, dass sie unsichtbar wird: *Europäische KI-Souveränität entsteht durch europäische Tech-Unternehmen im VC-Startup-Milliardär-Modus.* Wer die Souveränitätsfrage stellt, meint damit: Wer baut Alpine AI? Wer gründet das europäische OpenAI?
+
+Das ist eine legitime Antwort. Aber es ist nicht die einzige — und das Panel erkundet die Alternativen nicht einmal als Gegenmodell.
+
+**Das CERN-Argument:** 1954 gründeten zwölf europäische Staaten gemeinsam ein Forschungszentrum für Teilchenphysik. Kein Investor, kein Startup, kein Milliardär. Das Ergebnis: Tim Berners-Lee erfindet das World Wide Web am CERN. Kein CERN-Mitarbeiter wird Milliardär. Aber das WWW erzeugt auf Jahrzehnte Billionen an Wertschöpfung weltweit — und ist bis heute freie, offene Infrastruktur. Ein „KI-CERN" wäre eine direkte Analogie: Europäische Grundlagenmodelle, öffentlich finanziert, Open Weights, auditierbar. Jedes europäische Unternehmen könnte darauf aufbauen, ohne einen Plattformherren zu füttern.
+
+Dieses Modell existiert in der Diskussion — das EU-Projekt „Gaia-X" war ein schwacher Versuch in diese Richtung, der OpenLLM Europe-Ansatz ein expliziterer. Warum ist es im Panel nicht einmal als Kontrastfolie präsent? Weil beide Sprecher selbst Unternehmen führen, die in einer Welt funktionieren, in der proprietäre kommerzielle Modelle die Norm sind. Das ist kein Vorwurf — es ist Kontext.
+
+**Das Infrastruktur-als-Utility-Argument:** Strom, Wasser, Schienenverkehr — Europa hat eine lange Tradition, Infrastruktur mit natürlichen Monopoltendenzen öffentlich zu regulieren oder zu betreiben, weil der Markt hier strukturell versagt. Cloud-Infrastruktur und KI-Basismodelle zeigen exakt diese Monopoltendenzen: massive Skaleneffekte, hohe Einstiegsbarrieren, Winner-takes-all-Dynamiken (die Kaufmann selbst benennt). Wenn er sagt *„im Bereich KI geht es meistens um eine Winner-takes-all-Strategie"* — dann folgt daraus eigentlich: vielleicht ist KI-Infrastruktur kein Wettbewerbsmarkt, sondern ein reguliertes Netz wie die Bahn. Kaufmann zieht diese Konsequenz nicht, weil sie sein Geschäftsmodell unterlaufen würde.
+
+> [!question] Weitergedacht
+> Kaufmann sagt selbst: KI ist Winner-takes-all. Wenn das stimmt — warum sollte ein europäischer Winner besser sein als ein amerikanischer? Oder folgt aus Winner-takes-all, dass KI-Basisinfrastruktur reguliertes Gemeingut sein müsste, kein Markt?
 
 ## Faktencheck
 
@@ -185,8 +219,8 @@ Varoufakis beschreibt Cloud Rent als neuen Tributmechanismus. Kaufmanns Kritik, 
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
-> - Büttner sagt: Ohne Techmilliardäre keine Souveränität — aber hat Europa seinen Wohlstand nicht auf anderen Modellen aufgebaut? Was wäre, wenn Souveränität gar nicht durch Einzelpersonen, sondern durch Kooperation entsteht?
-> - Kaufmann vertraut darauf, dass „Schweizer Neutralität" als Trust-Marke trägt — aber ist Neutralität in einer blockpolarisierten Welt noch glaubwürdig, oder ist es selbst eine Erzählung?
-> - Beide sprechen von Wahlfreiheit — aber Wahlfreiheit für wen? Ein KMU im Sauerland hat weniger „Choice" als ein WEF-Teilnehmer in Davos. Ist diese Perspektive eingerechnet?
-> - Wenn DSGVO und EU AI Act das Ziel verfehlt haben — woran liegt das? An der Regulierungsform? An fehlender technischer Kompetenz in der Politik? Oder am Grundproblem, dass Wettbewerbspolitik und Datenschutz sich strukturell widersprechen?
-> - Die FNF ist Partner dieses Panels. Welche Fragen werden dadurch nicht gestellt?
+> - Kaufmann sagt, Vertrauen ist die wichtigste KI-Währung — meint aber: *Vertrauen in die Marke*. Berners-Lee vertraute auf offenen Code. Welche Form von Vertrauen ist demokratisch stabiler?
+> - Büttner hat selbst das schärfste Argument des Panels geliefert: Souveränität bedeutet, von einem Tisch aufstehen zu können. Aber was, wenn niemand am Tisch sitzt, der das KMU im Sauerland repräsentiert?
+> - Kaufmann sagt, KI ist Winner-takes-all — und will, dass Europa gewinnt. Aber wenn jemand gewinnt, verlieren andere. Wer verliert, wenn Europas Alpine AI gewinnt?
+> - Beide kritisieren DSGVO als gescheitert — und beide haben als Unternehmer davon profitiert, dass die Umsetzung schwach war. Ist das eine Perspektive oder ein Interessenkonflikt?
+> - Das CERN wurde ohne Milliardäre gegründet und produzierte das WWW. Warum ist ein KI-CERN nicht Teil der Souveränitätsdiskussion — und was sagt es, dass es im Panel nicht einmal als Hypothese auftaucht?
