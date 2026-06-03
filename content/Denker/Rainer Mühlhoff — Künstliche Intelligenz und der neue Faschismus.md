@@ -396,3 +396,7 @@ Holy Koolaid beschreibt das historische Muster des Imperial Overstretch; Mühlho
 ### → [[Jan-Keno Janssen — Nvidia Tokenextremismus]]
 
 Janssens c't-3003-Analyse der Computex 2026 ist Mühlhoffs These in der konkreten Produktrealität: Jensen Huangs Tokenextemismus — Wert eines Entwicklers gemessen in Tokenkosten — ist der exakte Mechanismus, den Mühlhoff als Umverteilung von unten nach oben bei wenigen oligopolistischen Akteuren beschreibt. Der Amazon-Kirorank-Incident (Tokenmaxxing) ist der lebendige Beweis, wie perverse Anreize entstehen wenn Infrastruktur-Anbieter das Kennzahlsystem definieren.
+
+### → [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
+
+Neitzel/Iltisberger formalisieren die Systemstruktur des KI-Hypes (3 Subsysteme, 4 Merkmale, 6 Akteurs-Gruppen), die Mühlhoff politisch analysiert: ihr Modell ist die analytische Architektur hinter dem, was er als "Orchester vieler Akteure" beschreibt. Mühlhoff fragt, wer die Macht gewinnt — Neitzel/Iltisberger erklären, wie das System das möglich macht.

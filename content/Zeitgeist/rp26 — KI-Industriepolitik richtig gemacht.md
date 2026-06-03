@@ -241,3 +241,7 @@ Kaltheuner/Jung verwenden die Energiewende explizit als Analogiemodell für KI-I
 > - Jungs Direktionismus klingt pragmatisch. *Aber wer definiert die Missionen? Wenn es Lobbyisten sind, reproduziert die missionsbasierte Politik genau die Interessen, die sie überwinden soll.*
 > - Kaltheuners Selbstkritik am Ende ist selten ehrlich: Sie hat ihre Sprache den Politikerräumen angepasst. *Was geht verloren, wenn Zivilgesellschaft immer die Sprache der Mächtigen spricht — um gehört zu werden?*
 > - *Was wäre die europäische KI-Politik, wenn nicht Ökonomen und Policy-Experten die Agenda setzen würden, sondern die Menschen, die Jobs verlieren?*
+
+### → [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
+
+Neitzel/Iltisberger modellieren die systemische Architektur des Hypes, dem Kaltheuner und Jung mit AI Directionism begegnen. Das Contrarian-Dilemma (wer das Spiel verweigert, wird nicht gehört) erklärt Kaltheuners eigenes Eingeständnis, die Sprache den Politikräumen anzupassen. Jungs missionsbasierte Handlungsaufforderung ist der strukturelle Hebel, um den Capital System Bandwagon Loop politisch umzuleiten.

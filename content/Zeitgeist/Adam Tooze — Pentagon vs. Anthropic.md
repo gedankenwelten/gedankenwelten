@@ -212,3 +212,7 @@ Tooze beschreibt, wie staatliche Macht KI-Infrastruktur für nicht-demokratisch 
 ### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 
 Büttner und Kaufmann liefern die unternehmerische Gegenstrategie zu dem, was Tooze als Machtkonflikt beschreibt: Statt auf staatliche Regulierung zu warten, wird europäische Alternativinfrastruktur gebaut. Die europäische Souveränitätsfrage bekommt bei Tooze ihren geopolitischen Rahmen — Büttner/Kaufmann geben die operative Antwort.
+
+### → [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
+
+Der Anthropic-Pentagon-Konflikt als Fallbeispiel für den Skynet-Effekt: KI-Kritik und Open Letters verstärken paradoxerweise das Allmachts-Narrativ. Neitzel/Iltisberger liefern den Systemrahmen — Tooze zeigt, wie der Epistemic Control Loop (Regulatory Backlash) als Machtinstrument statt als Korrektiv eingesetzt wird.

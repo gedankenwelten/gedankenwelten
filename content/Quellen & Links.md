@@ -2954,3 +2954,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/GehringGiessmann_DigitaleUnabhaengigkeit_Transkript.txt` |
 | **DenkerVita Gehring** | [[Gedankenwelten/DenkerVita/Petra Gehring]] |
 | **DenkerVita Gießmann** | [[Gedankenwelten/DenkerVita/Sebastian Giessmann]] |
+
+## Georgina Neitzel & Raphael Iltisberger — Hype Is a System
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Hype Is a System: How Tech Futures Get Made](https://www.youtube.com/watch?v=0Fj-ZPptbPg) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Neitzel_Iltisberger_TechHype_Transkript.txt` |
+| **DenkerVita Neitzel** | [[Gedankenwelten/DenkerVita/Georgina Neitzel]] |
+| **DenkerVita Iltisberger** | [[Gedankenwelten/DenkerVita/Raphael Iltisberger]] |
