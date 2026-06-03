@@ -197,3 +197,7 @@ Kloibers „Invisibility by Design" ist Brias Subcontracting-Kette von unten ges
 ### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 
 Büttner und Kaufmann beschreiben den operativen Gegenentwurf zu Brias Authoritarian Stack: European AI as sovereign infrastructure (Alpine AI, Swiss GPT). Die Ironie: Büttners Forderung nach Techmilliardären als Bedingung für Souveränität reproduziert strukturell das Muster, das Bria kritisiert — dieselbe Logik, nur mit europäischen Protagonisten.
+
+### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+
+Gehring & Gießmann zeigen denselben Privatisierungs-Mechanismus im europäischen Zahlungsraum: Mastercard kaufte 2003 die Eurocard, US-Konzerne dominieren 60–66% der grenzüberschreitenden Zahlungen. Was Bria "Privatized Sovereignty" nennt, beschreibt Gießmann als "Souveränitätsverlust durch Übernahme". Die Ergänzung: Bria zeigt die US-Binnenperspektive (Staat gibt bewusst ab), Gehring/Gießmann die europäische Außenperspektive (Kontinent verliert, weil kein politischer Schutz vorhanden).

@@ -228,6 +228,10 @@ Das ist kein irrationaler Risikoabwehr-Reflex. Es ist rationale Reaktion auf pol
 
 Göpel entwickelt im Gespräch weiter, was sie in ihrem Buch skizziert hat: Transformation als systemischer Suchprozess, nicht als linearer Masterplan. Stremlau bestätigt das aus der Praxis — die Finanzmarktregulierung ist kein Wissens-, sondern ein Koordinationsproblem.
 
+### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+
+Stremlaus These "Geld ist niemals neutral" findet in Gehring & Gießmann ihre konkrete Infrastrukturversion: Zahlungsdaten produzieren "Verhaltensüberschuss" (Zuboff). Beide Notes verhandeln Gestaltungsmacht über Kapitalflüsse — Stremlau auf der Investitionsebene (ESG als demokratische Steuerung), Gehring/Gießmann auf der Infrastrukturebene (EZB-Architektur vs. Bankenlobby). Gemeinsam: Die Kontrolle über Finanzinfrastrukturen ist politische Macht.
+
 ### → [[Gedankenwelten/DenkerVita/Silke Stremlau]]
 
 Tieferes Profil zu Stremlaus Biografie, Karriereweg und Kernthesen.

@@ -202,6 +202,10 @@ Janssen diagnostiziert, dass Nvidia „nicht mehr für Menschen baut" — KI-Inf
 ### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Nosthoff — Kybernetik und Tech-Eliten]]
 Nosthoff analysiert kybernetische Herrschaft als technokratisches Staatsverständnis. Kaufmanns Swiss GPT in Bergbunkern ist der konkrete Versuch einer Alternative: Vertrauen statt Steuerung, institutionelle Architektur statt Plattform-Souveränität. Beide Notes kreisen um dieselbe Frage: Wer hält die kybernetischen Hebel?
 
+### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+
+Gehring & Gießmann verhandeln dieselbe Grundfrage — europäische Abhängigkeit von US-Infrastruktur — aber aus entgegengesetzter Antwort: Sie zeigen historisch, dass privatwirtschaftlicher Aufbau (Eurocard) scheiterte, weil Marktmacht am Ende übernommen wird. Das ist der direkte Widerspruch zu Büttners These, dass Techmilliardäre und Wettbewerb der Souveränitätspfad sind. Produktiver Konflikt zweier re:publica-26-Panels zur selben Frage.
+
 ### → [[Gedankenwelten/Denker/Francesca Bria — The Authoritarian Stack|Francesca Bria — The Authoritarian Stack]]
 Bria kartiert, wie privatisierte Souveränität entsteht — Palantir, Musk, Thiel übernehmen staatliche Kernfunktionen. Büttner und Kaufmann beschreiben Europas Weg in genau diese Abhängigkeit: 90%+ US-Marktanteil sind nicht Marktversagen, sondern State Capture in Zeitlupe. Bria liefert die Makro-Diagnose, Büttner/Kaufmann den operativen Gegenentwurf.
 
