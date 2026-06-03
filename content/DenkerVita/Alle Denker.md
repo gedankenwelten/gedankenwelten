@@ -187,6 +187,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Niclas Seydack|Niclas Seydack]]** — Freier Reporter und Publizist, schreibt für Die Zeit, Spiegel, SZ Magazin; Autor von *Geile Zeit*; Scharnier-Generation zwischen Sorglosigkeit und Dauerkrise
 
+**[[Gedankenwelten/DenkerVita/Nicole Buettner|Nicole Büttner]]** — Tech-Unternehmerin, KI-Wirtschaftsexpertin (geb. 1985); Gründerin & CEO Merantix Momentum (KI-Beratung); Generalsekretärin FDP Mai 2025–Mai 2026; Co-Gründerin AI Campus Berlin; Investorin in Early-Stage KI-Startups; WEF Digital Leader of Europe; liberal-marktwirtschaftliche Agenda für europäische KI-Souveränität durch Unternehmertum, nicht Isolation
+
 **[[Gedankenwelten/DenkerVita/Nicole Deitelhoff|Nicole Deitelhoff]]** — Politikwissenschaftlerin, Professorin für Internationale Beziehungen, Goethe-Universität Frankfurt; Geschäftsführende Direktorin PRIF/HSFK, Co-Moderatorin StreitClub
 
 **[[Gedankenwelten/DenkerVita/Niklas Luhmann|Niklas Luhmann]]** — Soziologe, Systemtheoretiker; Komplexitätsreduktion als Aufgabe der Aufklärung, Kontingenz, Systemdifferenzierung, Zettelkasten-Pionier
@@ -196,6 +198,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## P
 
 **[[Gedankenwelten/DenkerVita/Paul Lance|Paul Lance]]** — Amerikanischer Aktivist; Trump als Faschismus-Muster, Apathie als Enabler, Ex-Republikaner, Perspektive aus dem amerikanischen Innenleben
+
+**[[Gedankenwelten/DenkerVita/Pascal Kaufmann|Pascal Kaufmann]]** — Neurowissenschaftler & Unternehmer (Schweiz); Gründer Alpine AI (Swiss/European sovereign AI, 2023), Lab42 (2022), Starmind AG (2010); Kernthese: Vertrauen als wichtigste KI-Währung; Swiss GPT = europäisches Datenschutz-First-Modell; Wettbewerb durch Kompetenz-Differenzierung statt Isolation; WEF-Referent, 3× Top Digital Leader Bilanz, EY Entrepreneur of the Year Finalist 2015
 
 ## R
 

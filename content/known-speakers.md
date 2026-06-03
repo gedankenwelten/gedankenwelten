@@ -392,6 +392,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Niclas Seydack
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Niclas Seydack]]
 
+## Nicole Büttner
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Nicole Buettner]]
+
 ## Nicole Deitelhoff
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Nicole Deitelhoff]]
 
@@ -409,6 +412,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Paul Lance
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Paul Lance]]
+
+## Pascal Kaufmann
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Pascal Kaufmann]]
 
 ## Philip Manow
 **Status:** Stub
@@ -477,9 +483,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Tilo Wesche
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tilo Wesche]]
 
-
-## Tilo Wesche
-**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tilo Wesche]]
 ## Tim Meyer
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tim Meyer]]
 

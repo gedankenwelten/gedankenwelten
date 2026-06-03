@@ -162,6 +162,10 @@ Tooze zeigt, wie staatliche Macht KI-Infrastruktur für nicht-demokratisch legit
 
 Gabriels These, dass KI-Systeme den Menschen nicht mehr als Gegenüber, sondern als Datenpunkt modellieren, kehrt bei Janssen als ökonomische Realität wieder: Huang spricht es offen aus — die neue Zielgruppe sind KI-Agenten, nicht Menschen. Was Gabriel als philosophische Verschiebung beschreibt, ist bei Nvidia bereits Produktstrategie.
 
+### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+
+Janssen diagnostiziert, dass Nvidia „nicht mehr für Menschen baut". Büttner und Kaufmann formulieren die europäische Gegenstrategie: eigene Infrastruktur schaffen, die dem europäischen Markt und seinen Werten dient — nicht der Kapitalakkumulation weniger Konzerne.
+
 ---
 
 ## Weiterdenken

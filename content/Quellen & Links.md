@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## re:publica 26 — Europas KI-Zukunft: Büttner & Kaufmann
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Europas KI-Zukunft: Gefangen im Lock-in oder souverän dank Wettbewerb?](https://www.youtube.com/watch?v=Vp9rtv5cWgw) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Buettner_Kaufmann_KI_Zukunft_Europa_Transkript.txt` |
+
 ## re:publica 26 — Social-Media-Verbot für Kinder (Panel)
 
 | | |

@@ -259,3 +259,4 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]] | Gegentheorie · Tianxia als systemische Antwort auf Westfalia |
 | [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] | Machtbilanz · Was passiert, wenn diese Netzwerke regieren |
 | [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] | Gegenwehr · GFF-Gutachten als juristische Antwort auf die AfD-Einbettung in antidemokratische Netzwerke |
+| [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa]] | Lösung · Europäische KI-Souveränität als operative Antwort auf Infrastrukturabhängigkeit |
