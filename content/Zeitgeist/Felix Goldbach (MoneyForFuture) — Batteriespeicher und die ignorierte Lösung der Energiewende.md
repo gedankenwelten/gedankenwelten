@@ -116,6 +116,10 @@ Lieblingskommentar auf TikTok: *„Nachts scheint die Sonne nicht."*
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
+
+Kaltheuner und Jung verwenden die Energiewende explizit als Blaupause für KI-Industriepolitik. Goldbach liefert das Fleisch: staatlich gelenkte Kostendegression, volkswirtschaftlicher Nutzen durch Förderung unattraktiver aber wichtiger Technologie. Das Modell funktioniert — die Frage ist, ob es auf KI-Anwendungen übertragbar ist.
+
 ### → [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]
 
 Beide Notes behandeln erneuerbare Energien mit Fokus auf konkrete technologische Lösungen und deren wirtschaftliche Machbarkeit — Felix liefert den Investorenblick, ARTE die Bürgerperspektive

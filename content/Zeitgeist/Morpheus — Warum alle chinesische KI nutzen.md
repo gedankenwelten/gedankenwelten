@@ -245,6 +245,10 @@ KI-Modelle lesen täglich Verträge in Anwaltskanzleien, Patientenakten in Krank
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
+
+Morpheus zeigt empirisch, was Kaltheuner theoretisch fordert: China setzt staatlich gesteuerte Industriepolitik im KI-Bereich gezielt ein ("Commoditize your complement"). Der Vergleich macht deutlich, wie weit Europa von einer kohärenten Marktstrategie entfernt ist — und warum die Frage nicht "ob Industriepolitik", sondern "welche" ist.
+
 ### → [[Adam Tooze — Pentagon vs. Anthropic]]
 
 Tooze zeigt, wie das Pentagon Anthropic zur bedingungslosen Kooperation zwang. Morpheus dokumentiert parallel, dass chinesische Firmen 24.000 Fake-Accounts nutzten, um genau diese Anthropic-Modelle auszubeuten. Der Anthropic-Bericht ist das verbindende Ereignis: einmal als US-Machtkampf, einmal als Technologieklau.

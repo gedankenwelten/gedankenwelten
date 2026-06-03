@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## re:publica 26 — KI-Industriepolitik richtig gemacht: Kaltheuner & Jung
+
+| | |
+|---|---|
+| **Vortrag / Video** | [AI Industrial Policy, Done Right – re:publica 26](https://www.youtube.com/watch?v=72DFeutsDtc) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kaltheuner_Jung_AI_Industrial_Policy_Transkript.txt` |
+
 ## re:publica 26 — Europas KI-Zukunft: Büttner & Kaufmann
 
 | | |

@@ -140,6 +140,10 @@ Das wäre mehr als ein wirtschaftlicher Verlust. Es wäre ein Beweis dafür, das
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
+
+Kaltheuner und Jung entwickeln den europäischen Gegenentwurf zu Toozes US-Diagnose: Statt Staat-zwingt-Kapital-zur-Militarisierung (Pentagon/Anthropic) fordert AI Directionism demokratisch legitimierte, gemeinwohlorientierte Lenkung von KI-Anwendungen. Beide Notes kreisen um dieselbe Grundfrage: Wer bestimmt, wohin KI steuert?
+
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 Kemper beschreibt den Technofaschismus als Phänomen, bei dem Tech-Milliardäre (Musk) die staatliche Macht für ihre Zwecke instrumentalisieren. Tooze zeigt die Kehrseite: Der Staat (Hegseth/Pentagon) instrumentalisiert die Tech-Unternehmen für militärische Zwecke — und bestraft diejenigen, die sich weigern. Zwei Seiten derselben Machtkonstellation: der rechte Staat und das Tech-Kapital verschmelzen.
 

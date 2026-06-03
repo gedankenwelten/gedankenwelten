@@ -540,3 +540,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Sebastian Gießmann
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sebastian Giessmann]]
+
+## Carsten Jung
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Carsten Jung]]
+
+---
+
+## Frederike Kaltheuner
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Frederike Kaltheuner]]
