@@ -135,6 +135,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[Gedankenwelten/DenkerVita/Kerstin Paschke|Kerstin Paschke]]** — Privatdozentin, Fachärztin für Kinder- und Jugendpsychiatrie; ärztliche Leiterin DZSKJ am UKE Hamburg; 50+ Publikationen zur Social-Media-Sucht bei Jugendlichen; neurobiologische Vulnerabilität als Regulierungsargument; Schutz als Voraussetzung für Befähigung
+
+**[[Gedankenwelten/DenkerVita/Kristian Kunow|Kristian Kunow]]** — Stellvertretender Direktor der MABB; Regulierungspragmatiker für digitalen Jugendschutz; Mitglied Expertenkommission Bund 2026; smarte Lösungen statt Totalverbot; EU-weite Durchsetzung als Schlüssel
+
 **[[Gedankenwelten/DenkerVita/Katharina Nocun|Katharina Nocun]]** — Deutsch-polnische Netzaktivistin, Autorin, Konspirationsmythologen-Forscherin; Digitale Bürgerrechte, Verschwörungstheorien, esoterische Vorfeld-Organisationen der extremen Rechten, KI-generierte Desinformation; Piratenpartei-Policy-Coordinator 2013–2016, Kampagnen für Campact und FSFE, Snowden-Supporter
 
 **[[Gedankenwelten/DenkerVita/Kojin Karatani|Kojin Karatani]]** — Japanischer Philosoph, Literaturtheoretiker; Berggruen Prize 2022; Tauschformen-Theorie statt Produktionsweisen, Capital-Nation-State-Triade, Isonomia vs. Platonismus, Transkritik (Kant + Marx), Associationism
@@ -179,6 +183,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## N
 
+**[[Gedankenwelten/DenkerVita/Ninia LaGrande|Ninia LaGrande]]** — Moderatorin, Autorin, Slam-Poetin (geb. 1983 Hannover); Mitgründerin #ausnahmslos (2016), Clara-Zetkin-Frauenpreis; moderiert für Bundespräsidialamt und Bundesministerien; G7-Gleichstellungsbeirat 2022; Büro für Popkultur GmbH
+
 **[[Gedankenwelten/DenkerVita/Niclas Seydack|Niclas Seydack]]** — Freier Reporter und Publizist, schreibt für Die Zeit, Spiegel, SZ Magazin; Autor von *Geile Zeit*; Scharnier-Generation zwischen Sorglosigkeit und Dauerkrise
 
 **[[Gedankenwelten/DenkerVita/Nicole Deitelhoff|Nicole Deitelhoff]]** — Politikwissenschaftlerin, Professorin für Internationale Beziehungen, Goethe-Universität Frankfurt; Geschäftsführende Direktorin PRIF/HSFK, Co-Moderatorin StreitClub
@@ -200,6 +206,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[Gedankenwelten/DenkerVita/Ronen Steinke|Ronen Steinke]]** — Journalist, Sachbuchautor, Jurist; SZ-Korrespondent; Meinungsfreiheit, Verfassungsschutz als Demokratieproblem, Fritz Bauer als Kompass
 
 ## S
+
+**[[Gedankenwelten/DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
 
 **[[Gedankenwelten/DenkerVita/Simon Schaupp|Simon Schaupp]]** — Arbeitsforscher und Soziologe (KU Leuven); kybernetische Proletarisierung, algorithmische Arbeitssteuerung, Gewerkschaften und digitale Transformation, Ökologie und Arbeitzeitverkürzung; Autor *Technopolitik von unten*
 

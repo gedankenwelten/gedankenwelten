@@ -13,6 +13,26 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Kerstin Paschke
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kerstin Paschke]]
+
+---
+
+## Kristian Kunow
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Kristian Kunow]]
+
+---
+
+## Sanya Lehmann
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sanya Lehmann]]
+
+---
+
+## Ninia LaGrande
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Ninia LaGrande]]
+
+---
+
 ## Franziska Görlitz
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Franziska Goerlitz]]
 

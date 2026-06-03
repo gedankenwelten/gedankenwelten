@@ -185,6 +185,10 @@ Gleichzeitig vorsichtiger Optimismus: Böhme beobachtet auf Reisen Menschen die 
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]
+
+Böhmes Predictive-Processing-Rahmen (das Gehirn als Vorhersagemaschine, Aufmerksamkeitsextraktion durch Neuigkeit) gibt dem re:publica 26-Panel über das Social-Media-Verbot sein neurobiologisches Fundament: Paschkes Argument, dass Kinder besonders vulnerable Nutzer sind, beruht auf demselben Mechanismus — der unreife Präfrontalkortex kann die Vorhersagefehler nicht kompensieren, die Push-Notifications und Algorithmen gezielt erzeugen.
+
 ### → [[Albert Moukheiber — Mein Hirn und ich]]
 
 Direkte thematische Überschneidung: Moukheiber beschreibt dasselbe Grundprinzip — das Gehirn rekonstruiert Wirklichkeit statt sie abzubilden, kognitive Verzerrungen als evolutionäre Anpassungen. Böhme ergänzt die neurowissenschaftliche Mechanik (bayesianische Vorhersage, Präfrontalkortex) und die Interventionsmöglichkeiten (Reappraisal, Meditation).
