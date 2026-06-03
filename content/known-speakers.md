@@ -534,3 +534,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Thomas Westbrook (Holy Koolaid)
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Thomas Westbrook]]
+
+## Petra Gehring
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Petra Gehring]]
+
+## Sebastian Gießmann
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Sebastian Giessmann]]

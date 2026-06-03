@@ -289,3 +289,7 @@ Flassbeck erklärt den Braindrain aus Osteuropa als wirtschaftspolitische Konseq
 ### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
 
 Die PhoenixRunde zeigt den Zeithorizontkonflikt live: Trump als kurzfristiger Dealmaker gegen Xi, der in Dekaden denkt. Krastevs Analyse — wer in Wahlzyklen denkt, verliert gegen Systeme die in Generationen planen — bekommt im Trump-Xi-Gipfel sein konkretes Bild.
+
+### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+
+Krastevs Unterscheidung von Disruption und Rupture gibt der historischen Diagnose von Gehring & Gießmann einen analytischen Rahmen: Die Eurocard-Übernahme 2003 war eine Disruption — still und schmerzhaft. Ein Abschneiden vom Visa/Mastercard-Netzwerk durch die USA wäre ein Rupture — irreversibel in dem Moment, in dem es passiert. Krastevs Warnung, dass Europa systemische Risiken als korrigierbare Betriebsunfälle behandelt, spiegelt sich direkt im langsamen parlamentarischen Prozess wider.

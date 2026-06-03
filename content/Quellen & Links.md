@@ -2936,3 +2936,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Gedankenwelten/Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Morpheus_ChinaKI_Transkript.txt` |
 | **DenkerVita** | [[Gedankenwelten/DenkerVita/Morpheus]] |
+
+## Petra Gehring & Sebastian Gießmann — Digitale Unabhängigkeit und monetäre Souveränität
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26 — Digitale Unabhängigkeit & monetäre Souveränität jetzt!](https://www.youtube.com/watch?v=tfGMCyuCDaE) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet]] |
+| **Transkript** | `Gedankenwelten/Transkripte/GehringGiessmann_DigitaleUnabhaengigkeit_Transkript.txt` |
+| **DenkerVita Gehring** | [[Gedankenwelten/DenkerVita/Petra Gehring]] |
+| **DenkerVita Gießmann** | [[Gedankenwelten/DenkerVita/Sebastian Giessmann]] |

@@ -258,3 +258,7 @@ Varoufakis nennt Mainstream-Ökonomie "eine Religion mit Gleichungen" — Höfge
 > - Er fordert ein neues New Deal — aber Roosevelt handelte in einer Welt ohne Cloud Capital, ohne Plattform-Monopole. *Welches institutionelle Äquivalent wäre heute notwendig, das damals nicht vorstellbar war?*
 > - Varoufakis kritisiert populistische Lösungen von links und rechts — aber er hat selbst die politische Linke verlassen und eine Bewegung gegründet, die überall scheiterte. *Ist die Ehrlichkeit, die er fordert, politisch umsetzbar, oder ist sie ein Luxus für Menschen, die nicht gewinnen müssen?*
 > - *Wenn die EU ihre Konstruktionsfehler kennt, Draghi sie benennt, Lagarde sie privat bestätigt — wer hat dann eigentlich die Macht, das zu ändern?*
+
+### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+
+Varoufakis' Ökonomiekritik ("Religion mit Gleichungen") ist die Metaebene zu dem, was Gehring & Gießmann im Konkreten beschreiben: Hochkomplexe Finanzarchitekturen entziehen sich demokratischer Deliberation, weil die Fachsprache (CBDC-Design, Haltelimits, Schnittstellen-Spezifikationen) nur Insider verstehen — und das nutzt die Lobby systematisch aus (58:1-Asymmetrie). Varoufakis erklärt strukturell, warum diese Asymmetrie so stabil ist.
