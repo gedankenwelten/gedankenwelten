@@ -138,6 +138,10 @@ Die Preisinformation fehlt noch — was auf der Computex zu hören war: Es könn
 
 ## Verbindungen
 
+### → [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
+
+Janssen beschreibt von innen die Marktkonzentration, die Kaltheuner als strukturelles Problem identifiziert: Nvidias Token-Monopol ist die Infrastrukturebene, auf der europäische Fördergelder in Abhängigkeit fließen, wenn die Investitionslogik nur auf Anwendung setzt ohne die Chip-/Cloud-Ebene zu adressieren.
+
 ### → [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 
 Nosthoff analysiert Silicon Valley als kybernetische Herrschaftsideologie — Systeme die auf Effizienz und Regelkreise reduziert werden, während der Mensch als störende Variable erscheint. Huangs Satz „nicht mehr für Menschen" ist eine Radikalisierung dieser Logik: Hier wird der Mensch nicht mehr als zu optimierende Größe betrachtet, sondern als obsolete Kategorie.

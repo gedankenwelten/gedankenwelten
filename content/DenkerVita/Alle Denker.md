@@ -35,6 +35,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## C
 
+**[[Gedankenwelten/DenkerVita/Carsten Jung|Carsten Jung]]** — Associate Director for Economic Policy in AI, IPPR (UK); Ökonom, ehem. Bank of England (6 Jahre); AI Directionism — staatliche Lenkung von KI-Märkten statt Laissez-faire; Publikationen zu Windfallgewinnen, Benefit Sharing, Procurement als Marktformer; Makroökonom mit Fokus auf Arbeitsmarkt-Asymmetrien
+
 **[[Gedankenwelten/DenkerVita/Christoph Butterwegge|Christoph Butterwegge]]** — Politikwissenschaftler, Armutsforscher; Relative Armut als strukturell konstruiert, Matthäus-Prinzip in der Steuerpolitik, Finanzmarktkapitalismus als Oligarchie, Demografie als politisches Problem; 2017 Bundespräsidentschaftskandidat Die Linke; em. Professor Universität Köln; Werke: *Armut in einem reichen Land*, *Hartz IV und die Folgen*, *Kinder der Ungleichheit*
 
 **[[Gedankenwelten/DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (UC Berkeley); Vier-Quadranten-Modell (Intelligent/Bandit/Hilflos/Dumm), Asymmetrie-Problem, Dummheit als strukturelle Handlungslogik, Zivilisationsverfall durch Kompositionsverschiebung, *The Basic Laws of Human Stupidity* (1976)
@@ -80,6 +82,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[Gedankenwelten/DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]** — Soziologieprofessor LMU München, Gründungsdirektor ISI; Münzstapel-Visualisierung: reichste Deutsche = 1/3 Weg zum Mond; dynastische Persistenz von Reichtum über 100 Jahre
 
 **[[Gedankenwelten/DenkerVita/Freddy Leppin|Freddy Leppin]]** — Content Creator, Gründer YouTube-Kanäle *Good News* (monatliche positive Nachrichten) und *MegaBuilds* (>1,5 Mio. Abonnenten); Negativitätsbias-Gegenentwurf, Kuratierung verifizierten Fortschritts; Engineering und Innovation als narrative Kraft
+
+**[[Gedankenwelten/DenkerVita/Frederike Kaltheuner|Frederike Kaltheuner]]** — Senior Advisor AI Now Institute, Leiterin *new possible*; KI-Industriepolitik und europäische Souveränität; kritische Technologiepolitik aus Menschenrechts-Perspektive; Herausgeberin *Fake AI* (2022); Co-Autorin EU AI Industrial Policy Monitor; Expert für Marktkonzentration, Regulierungsasymmetrien, public interest in KI-Märkten
 
 **[[Gedankenwelten/DenkerVita/Maximilian Fichtner|Maximilian Fichtner]]** — Festkörperchemiker, Professor Universität Ulm, Direktor Helmholtz-Institut Ulm (HIU); Batterieforscher und Mythen-Aufklärer; E-Autos ökobilanzlich überlegen, Rohstoffverfügbarkeit technisch lösbar, europäische Batterieproduktion strategische Notwendigkeit; Sprecher POLiS (Post Lithium Energy Storage), wissenschaftlicher Direktor CELEST; Podcast *Geladen*
 
