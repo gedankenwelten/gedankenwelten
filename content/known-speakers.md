@@ -548,3 +548,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Frederike Kaltheuner
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Frederike Kaltheuner]]
+
+## Georgina Neitzel
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Georgina Neitzel]]
+
+## Raphael Iltisberger
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Raphael Iltisberger]]

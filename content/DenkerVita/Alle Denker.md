@@ -289,3 +289,5 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 - [[Gedankenwelten/DenkerVita/Thomas Westbrook|Thomas Westbrook (Holy Koolaid)]] — YouTube-Creator; Kult-Psychologie und amerikanische Propaganda; 7 Formen unsichtbarer Indoktrination (Exzeptionalismus, Kalter-Krieg-Binär, Pledge of Allegiance)
 - [[Gedankenwelten/DenkerVita/Petra Gehring|Petra Gehring]] — Philosophieprofessorin TU Darmstadt; digitale Infrastrukturen als politische Entscheidungen; Bürgergutachten digitaler Euro; partizipative Digitalethik
 - [[Gedankenwelten/DenkerVita/Sebastian Giessmann|Sebastian Gießmann]] — Medienwissenschaftler Uni Siegen; Kulturgeschichte der Zahlungssysteme; Kreditkarten-Buch 2026; Mastercard-Coup 2003 als europäisches Lehrstück
+- [[Gedankenwelten/DenkerVita/Georgina Neitzel|Georgina Neitzel]] — Head of Innovation Lab (ERGO Group); Future-Studies-Praktikerin; Hype als systemische Kraft in Unternehmens-Innovation
+- [[Gedankenwelten/DenkerVita/Raphael Iltisberger|Raphael Iltisberger]] — PAWLIK Consultants; Business Psychology + Future Research Methodologies; Hype und Organisationsentwicklung
