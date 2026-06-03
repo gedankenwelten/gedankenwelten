@@ -237,6 +237,10 @@ Nosthoff zeigt, wie die kybernetische Logik Menschen als optimierbare Inputs kla
 
 Beide Notes entstammen der re:publica 26 und kreisen um Machtasymmetrien — dort zwischen ostdeutscher Bevölkerung und westdeutschen Eliten, hier zwischen Global-South-Arbeitskräften und Silicon-Valley-Konzernen. Die strukturelle Frage ist dieselbe: Wessen Erfahrung zählt in demokratischen und wirtschaftlichen Entscheidungen?
 
+### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+
+Ebenfalls re:publica 26 — aber aus der entgegengesetzten Perspektive: Büttner und Kaufmann diskutieren KI-Souveränität aus Unternehmersicht, während diese Note zeigt, welche menschlichen Kosten der EU AI Act durch seine Schutzlücken produziert. Beide beklagen dasselbe Regulierungsversagen — aus völlig verschiedenen Richtungen.
+
 ---
 
 ## Weiterdenken

@@ -193,3 +193,7 @@ Kurz und Görlitz dokumentieren Brias "State Capture" als konkreten Vertragstext
 ### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Kloibers „Invisibility by Design" ist Brias Subcontracting-Kette von unten gesehen: Wer an Verantwortungsverschleppung nicht interessiert ist, baut Systeme, in denen 150–430 Mio. Data Workers strukturell unsichtbar bleiben. Bria kartiert die Machtarchitektur oben; diese Note zeigt, wen sie unten trifft.
+
+### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+
+Büttner und Kaufmann beschreiben den operativen Gegenentwurf zu Brias Authoritarian Stack: European AI as sovereign infrastructure (Alpine AI, Swiss GPT). Die Ironie: Büttners Forderung nach Techmilliardären als Bedingung für Souveränität reproduziert strukturell das Muster, das Bria kritisiert — dieselbe Logik, nur mit europäischen Protagonisten.

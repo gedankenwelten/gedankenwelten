@@ -205,3 +205,7 @@ Marinić zitiert Technofeudalismus explizit als Erklärung für das Ohnmachtsgef
 ### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Kinyua und Kloiber zeigen Varoufakis' Cloud-Rent-These von unten: 20 $/Woche für 18-20 Stunden tägliche Data-Labor-Arbeit ist der Tribut, den die Cloudbesitzer aus dem Globalen Süden extrahieren — Cloud Capital in seiner archaischsten Form.
+
+### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+
+Büttner und Kaufmann wollen europäische Technologiesouveränität durch Wettbewerb erreichen — Varoufakis würde einwenden: Europäische Techmilliardäre produzieren dieselbe Cloud Rent wie amerikanische. Die Forderung nach europäischen Alternativen löst das ökonomische Grundproblem nicht; sie verschiebt nur, wer die Feudalherren sind.

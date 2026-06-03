@@ -204,3 +204,7 @@ Tooze zeigt, wie das Pentagon Anthropic zur Kooperation zwang — Morpheus dokum
 ### → [[Jan-Keno Janssen — Nvidia Tokenextremismus]]
 
 Tooze beschreibt, wie staatliche Macht KI-Infrastruktur für nicht-demokratisch legitimierte Zwecke einspannt. Janssens „von Milliardären für Milliardäre"-Diagnose zeigt die Gegenseite: Nvidia baut nicht für Staat, nicht für Bürger, sondern für Rechenzentren-Betreiber mit ausreichend Kapital. Beide Notes beschreiben eine KI-Welt, in der die Mehrheit weder Subjekt noch Adressat der Technologie ist.
+
+### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+
+Büttner und Kaufmann liefern die unternehmerische Gegenstrategie zu dem, was Tooze als Machtkonflikt beschreibt: Statt auf staatliche Regulierung zu warten, wird europäische Alternativinfrastruktur gebaut. Die europäische Souveränitätsfrage bekommt bei Tooze ihren geopolitischen Rahmen — Büttner/Kaufmann geben die operative Antwort.

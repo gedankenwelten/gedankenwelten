@@ -256,3 +256,7 @@ Palantir Gotham ist die direkte Realisierung von Nosthoffs kybernetischer Prädi
 ### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Das „Clickwork"-Framing ist kybernetische Kategorisierung in ihrer reinsten Form: Hochqualifizierte Arbeit wird als mechanische Input-Tätigkeit umdefiniert, damit sie als unsichtbar und rechtslos gelten kann. Nosthoffs Analyse der Verhaltenssteuerung von oben findet in der Data-Labor-Note ihr Spiegelbild von unten.
+
+### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+
+Kaufmanns Swiss GPT in Bergbunkern ist der konkrete Versuch, Nosthoffs kybernetischen Steuerungslogiken eine Alternative entgegenzusetzen: Vertrauen statt Verhaltensmodifikation, europäische Institutionsarchitektur statt Plattform-Souveränität. Beide Notes kreisen um dieselbe Frage: Wer hält die kybernetischen Hebel?
