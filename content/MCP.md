@@ -94,6 +94,14 @@ Discover thematic connections between thinkers, interviews, and concepts.
 
 **Example:** *"How do Rosa's resonance theory and Buddhist mindfulness connect?"*
 
+### 📎 Find Sources
+
+Get the primary sources, links, books, studies and videos behind a topic — or behind a specific note.
+The references you can actually share in a discussion. Filter by type (book, study, video, article, …)
+or ask for the sources of one particular note.
+
+**Example:** *"Find me sources on the rise of authoritarianism in Hungary"* · *"What sources back the BissenBlaBla note?"*
+
 ---
 
 ## Example Queries
