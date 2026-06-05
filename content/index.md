@@ -40,13 +40,13 @@ Die Gedankenwelten (luc)
 > Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen.
 
 > **03.06.** — [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht|rp26 — KI-Industriepolitik richtig gemacht]]
-> Marktkonzentration, Fragilität, Subventionen — kein freier KI-Markt. „AI Directionism" als Gegenmodell: die Anwendung lenken, nicht nur Infrastruktur bauen.
+> Marktkonzentration, Fragilität, Subventionen — kein freier KI-Markt. „AI Directionism“ als Gegenmodell: die Anwendung lenken, nicht nur Infrastruktur bauen.
 
 > **02.06.** — [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen|Holy Koolaid — Amerikanische Propaganda: 7 Formen, die du nie hinterfragt hast]]
-> Was als „Land of the Free" verkauft wird, hält der Prüfung nicht stand: sieben Formen amerikanischer Propaganda, empirisch zerlegt.
+> Was als „Land of the Free“ verkauft wird, hält der Prüfung nicht stand: sieben Formen amerikanischer Propaganda, empirisch zerlegt.
 
 > **02.06.** — [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
-> „Früher bauten wir CPUs für Menschen, jetzt für KI-Agenten" — wie Nvidia den PC-Markt destabilisiert und dann die teure Lösung verkauft.
+> „Früher bauten wir CPUs für Menschen, jetzt für KI-Agenten“ — wie Nvidia den PC-Markt destabilisiert und dann die teure Lösung verkauft.
 
 > → *7 weitere in* [[Zeitgeist]]
 
