@@ -14,6 +14,8 @@ aliases:
 
 # Vipassana — Dukkha (Das Leiden)
 
+![[Gedankenwelten/assets/Vipassana_Dukkha.png]]
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Schwerpunkt Tag 6.
 
 *Dukkha* — Leiden, Unzufriedenheit, das grundlegende Unbehagen. Das erste der vier Edlen Wahrheiten des Buddha. Und der am häufigsten missverstandene Begriff der gesamten Lehre.
