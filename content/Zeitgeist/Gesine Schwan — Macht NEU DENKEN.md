@@ -296,3 +296,8 @@ Großmanns SPRIND-Erfahrung — 15 statt 1000 Fragen — ist institutionalisiert
 ### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Semsrott konkretisiert Schwans "Gestaltungsmacht" durch die Praxis: Freiheitsfonds, Gegenrechtsschutz, Transparenz-Recherchen als Werkzeuge. Wo Schwan auf institutionelle Einbettung setzt (kommunale Beiräte, deliberative Demokratie), vertraut Semsrott auf außerinstitutionellen Druck — beide fragen: Wie schafft man neue demokratische Räume, wenn die alten besetzt oder blockiert sind?
+
+### → [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]]
+
+Schwans normative Machttheorie setzt dort an, wo Browns strukturelle Diagnose endet: Brown zeigt, dass der Neoliberalismus die demokratische Sprache (demos kratia, kollektive Selbstbestimmung) zersetzt — Schwan denkt, wie man sie wiedergewinnen könnte. Ihre Unterscheidung zwischen Herrschaftsmacht und Gestaltungsmacht ist der konzeptuelle Gegenvorschlag zu Browns Befund, dass Demokratie als Marktmodell ihre eigene Grundlage aushöhlt.
+

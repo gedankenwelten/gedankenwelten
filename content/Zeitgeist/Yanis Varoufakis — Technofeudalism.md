@@ -209,3 +209,8 @@ Kinyua und Kloiber zeigen Varoufakis' Cloud-Rent-These von unten: 20 $/Woche fü
 ### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 
 Büttner und Kaufmann wollen europäische Technologiesouveränität durch Wettbewerb erreichen — Varoufakis würde einwenden: Europäische Techmilliardäre produzieren dieselbe Cloud Rent wie amerikanische. Die Forderung nach europäischen Alternativen löst das ökonomische Grundproblem nicht; sie verschiebt nur, wer die Feudalherren sind.
+
+### → [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]]
+
+Brown (2015) und Varoufakis sind Stationen derselben Diagnose: Brown beschreibt, wie Neoliberalismus die Demokratie durch Marktlogik untergräbt und einen drohenden Neo-Feudalismus (Piketty: r > g) ankündigt — Varoufakis argumentiert, diese Mutation sei bereits vollzogen und in Cloud-Feudalismus übergegangen. Browns "oligarchische Philanthropie" ist bei Varoufakis Cloud Capital, das nicht Profit, sondern Tribut extrahiert.
+

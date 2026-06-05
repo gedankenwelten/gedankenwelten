@@ -209,3 +209,8 @@ Pagis' Fall zeigt Foucaults Selbstregierung im Extrem: Die maoistische Selbstkri
 
 ### → [[Gedankenwelten/Panorama/Politik - Verstehen|Panorama — Politik verstehen]]
 Gouvernementalität als Mechanik hinter politischer Macht: Macht ohne Verbot, Freiheit als Regierungsinstrument — die strukturelle Erklärung dafür, warum Bürger still bleiben ohne Zwang.
+
+### → [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]]
+
+Brown und Demirović/Lorey nutzen denselben Foucault-Begriff — aber von verschiedenen Seiten: Demirović/Lorey zeigen, wie neoliberale Gouvernementalität das Subjekt formt; Brown fragt, was aus dem *demos* wird, wenn alle Subjekte so geformt sind. Ihr "Undoing the Demos" ist die politiktheoretische Konsequenz aus der Gouvernementalitäts-Analyse.
+
