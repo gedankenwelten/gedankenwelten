@@ -3,7 +3,7 @@ title: "Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf"
 description: "Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf."
 date: 20.05.2026
 tags:
-  - zeitgeist
+  - denker
   - psychologie
   - demokratie
   - medien
@@ -11,6 +11,7 @@ tags:
   - deutschland
   - year-2026
 aliases:
+  - "Zeitgeist/Maren Urner — Radikal hoffnungsvoll"
   - Urner Radikal hoffnungsvoll
   - Urner Hoffnung
 ---
