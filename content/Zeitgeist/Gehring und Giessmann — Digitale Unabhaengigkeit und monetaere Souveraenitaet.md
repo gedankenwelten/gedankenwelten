@@ -1,5 +1,6 @@
 ---
 title: "Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität"
+description: "60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde."
 date: 20.05.2026
 tags:
   - zeitgeist

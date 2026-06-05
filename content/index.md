@@ -17,6 +17,58 @@ Die Gedankenwelten (luc)
 
 ---
 
+<!-- JOURNAL:START -->
+## Was zuletzt gedacht wurde
+
+*Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
+
+### Zeitgeist
+
+> **05.06.** — [[Zeitgeist/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
+> Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
+
+> **03.06.** — [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+> 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
+
+> **03.06.** — [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+> Souveränität ist Wahlfreiheit, nicht Isolation — über Europas 90%-Abhängigkeit von US-Tech und Vertrauen als europäischen Gegenentwurf.
+
+> **03.06.** — [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel & Iltisberger — Hype Is a System: How Tech Futures Get Made]]
+> Hype ist kein Rauschen, sondern ein System aus Subsystemen und Feedback-Loops — und KI-Kritiker verstärken ungewollt genau den Hype, den sie bekämpfen.
+
+> **03.06.** — [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder|re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?]]
+> Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen.
+
+> **03.06.** — [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht|rp26 — KI-Industriepolitik richtig gemacht]]
+> Marktkonzentration, Fragilität, Subventionen — kein freier KI-Markt. „AI Directionism" als Gegenmodell: die Anwendung lenken, nicht nur Infrastruktur bauen.
+
+> **02.06.** — [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen|Holy Koolaid — Amerikanische Propaganda: 7 Formen, die du nie hinterfragt hast]]
+> Was als „Land of the Free" verkauft wird, hält der Prüfung nicht stand: sieben Formen amerikanischer Propaganda, empirisch zerlegt.
+
+> **02.06.** — [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
+> „Früher bauten wir CPUs für Menschen, jetzt für KI-Agenten" — wie Nvidia den PC-Markt destabilisiert und dann die teure Lösung verkauft.
+
+> → *7 weitere in* [[Zeitgeist]]
+
+### Panorama
+
+> **01.06.** — [[Panorama/Energie|Energie]]
+> Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
+
+### Gedanken
+
+> **31.05.** — [[Gedanken/Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie 2|Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie]]
+> Goethes Zauberlehrling als Parabel aufs Vibe Coding: Wer Magie ruft, ohne sie zu verstehen, verliert die Kontrolle über die Geister, die er rief.
+
+### GoodNews
+
+> **30.05.** — [[GoodNews/Good News - Gute Nachrichten April 2026 Teil 3|Good News — Gute Nachrichten April 2026 (Teil 2)]]
+> Gute Nachrichten aus Umwelt, Gesundheit und Gesellschaft — der Beweis, dass die Welt nicht nur aus Krisen besteht.
+
+<!-- JOURNAL:END -->
+
+---
+
 ### [[Denker]]
 Manche Menschen widmen ihr Leben dem Denken — für sich und für alle anderen. Hier begegnen sie einander: ihre Ideen, ihre Fragen, ihre Widersprüche. Vernetzt, weil Denken nie allein entsteht.
 

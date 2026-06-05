@@ -1,5 +1,6 @@
 ---
 title: "Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie"
+description: "Goethes Zauberlehrling als Parabel aufs Vibe Coding: Wer Magie ruft, ohne sie zu verstehen, verliert die Kontrolle über die Geister, die er rief."
 tags:
   - gedanke
   - ki
