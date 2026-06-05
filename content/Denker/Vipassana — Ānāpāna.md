@@ -15,6 +15,8 @@ aliases:
 
 # Vipassana — Ānāpāna
 
+![[Gedankenwelten/assets/Vipassana_Anapana.png]]
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Tage 1–3.
 
 Ānāpāna ist keine Atemübung. Es ist das erste Werkzeug — und gleichzeitig eine eigene Praxis, die man ein Leben lang verfeinern kann. Drei Tage lang, bevor Vipassana überhaupt beginnt, sitzt man und beobachtet nichts anderes als den Atem. Den natürlichen, unkontrollierten Atem — wie er kommt und wie er geht.
