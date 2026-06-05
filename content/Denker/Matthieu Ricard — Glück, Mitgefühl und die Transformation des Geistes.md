@@ -481,3 +481,7 @@ Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004 — seine Gamma-W
 ### → [[Gedankenwelten/Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]]
 
 Marquardt im christlichen Aschram Kurishumala, Ricard im himalayischen Kloster Shechen — beide beschreiben denselben Befund: Genügsamkeit und Rhythmus verändern die Qualität von Zeit grundlegend, ohne Zeit als Ressource zu vermehren. Marquardt philosophiegeschichtlich (Augustinus, Gadamer), Ricard neurowissenschaftlich (Davidson-Studien). Beide kommen zum selben Befund: Weniger zu besitzen gibt nicht mehr Zeit, aber andere Zeitqualität.
+
+### → [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
+
+Ricard aus tibetisch-buddhistischer Tradition, Brähler aus westlicher Psychotherapie — beide landen an derselben Stelle: Mitgefühl ist keine sentimentale Haltung, sondern eine trainierbare Kapazität, die das Erleben grundlegend transformiert. Brählers MSC-Ansatz integriert buddhistische Metta-Praxis explizit; ihre klinische Arbeit ist gewissermaßen die westliche Übersetzung von Ricards Befund.

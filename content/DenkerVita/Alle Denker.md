@@ -43,6 +43,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Christine Dankbar|Christine Dankbar]]** — Ressortleiterin Politik & Hauptstadtkorrespondentin der *Frankfurter Rundschau*; Politikwissenschaftlerin, langjährige Erfahrung bei taz, Tagesspiegel, Berliner Zeitung; Schwerpunkt: Sozialpolitik, Reformdiskurs, Bürokratieabbau; regelmäßig zu Gast in phoenix "nachgefragt" und ZDF-Medien
 
+**[[Gedankenwelten/DenkerVita/Christine Braehler|Christine Brähler]]** — Psychotherapeutin und internationale Vorreiterin des Selbstmitgefühls; integriert Bindungstheorie, Internal Family Systems und Compassion-Focused Therapy; über 20 Jahre Berufserfahrung; MSC-Trainerin (Kristin Neff), CFT nach Paul Gilbert; Spezialistin für Scham, Bindungstraumata und innere Anteile; Bücher: *Selbstmitgefühl entwickeln* (2015), *Der kleine Selbstcoach* (2022), *Lass die Liebe rein* (2024)
+
 **[[Gedankenwelten/DenkerVita/Christoph Hein|Christoph Hein]]** — Wirtschaftsjournalist (FAZ); 25 Jahre Asien-Korrespondent, Geoökonomie, Weltwirtschaft als geopolitisches Machtinstrument
 
 **[[Gedankenwelten/DenkerVita/Clara Mattei|Clara Mattei]]** — Ökonomin; Austerität als Kern des Kapitalismus, Liberalismus-Faschismus-Konvergenz, *The Capital Order*

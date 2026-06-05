@@ -2973,3 +2973,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Gedankenwelten/Denker/Maren Urner — Radikal hoffnungsvoll]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Urner_Hoffnung_Transkript.txt` |
 | **DenkerVita** | [[Gedankenwelten/DenkerVita/Maren Urner]] |
+
+## Christine Brähler — Selbstmitgefühl, Scham und reife Liebe
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Psychotherapeutin: Wie du aufhörst, dein eigener härtester Kritiker zu sein](https://www.youtube.com/watch?v=38galNbhahA) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Braehler_Selbstmitgefuehl_Transkript.txt` |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Christine Braehler]] |
