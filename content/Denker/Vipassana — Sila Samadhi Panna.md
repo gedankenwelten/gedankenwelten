@@ -16,6 +16,9 @@ aliases:
 
 # Vipassana — Sīla, Samādhi, Paññā
 
+![[Gedankenwelten/assets/Vipassana_Sila_Samadhi_Panna.png]]
+
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Tage 1–3 (Sīla + Samādhi), ab Tag 4 (Paññā).
 
 Drei Säulen. Drei Schritte. Aber kein linearer Aufbau — ein Dreifuß. Jedes Bein stützt die anderen. Wer in einer Säule wächst, stärkt alle drei.
