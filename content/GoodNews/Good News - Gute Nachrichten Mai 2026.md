@@ -218,6 +218,6 @@ Amsterdams Werbeverbot für fossile Brennstoffe ist die regulatorische Seite des
 
 Benecke liefert die forensische Datengrundlage — CO₂-Vorhersagen der 1970er exakt eingetroffen, Worst-Case bestätigt. Diese Note zeigt die Gegenseite: Trotz der Daten passiert *auch* Positives (Luftqualität, Plastikhandel, Artenschutz). Zusammen ergeben beide Notes ein vollständigeres Bild als jede für sich.
 
-### → [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
+### → [[Gedankenwelten/GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
 
 Zweiter Teil der Mai-Ausgabe: Chiles Meeresschutzgebiet (Juan-Fernández-Seebär, 800-faches Wachstum), 133-Staaten-Einigung auf Vogelkorridore, Solar-Langzeitstudie (Degradation halb so schnell), Kindersterblichkeit −60% seit 1990, Mpox-Sieg im DRC, Frankreichs Geschlechterquote. Der Serienpart mit dem stärksten Gesundheits- und Demokratie-Schwerpunkt.

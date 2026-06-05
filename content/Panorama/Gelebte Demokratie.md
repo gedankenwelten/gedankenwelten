@@ -12,6 +12,8 @@ erstellt: 2026-05-21
 
 # Gelebte Demokratie
 
+![[Gedankenwelten/assets/Panorama_Gelebte_Demokratie.png|1200]]
+
 ## Warum dieses Thema?
 
 Demokratie ist kein Zustand — sie ist eine Praxis. Man kann sie nicht einmal erkämpfen und dann aufbewahren. Sie muss täglich gemacht werden: in Transparenzanfragen, Streiks, Volksbegehren, Rechtsstreitigkeiten, Bibliotheken, Bürgergeldfällen. Nicht von Institutionen, die Demokratie verwalten — sondern von Menschen, die sie *leben*.
