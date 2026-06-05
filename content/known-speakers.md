@@ -563,3 +563,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Raphael Iltisberger
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Raphael Iltisberger]]
+
+## Wendy Brown
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Wendy Brown]]
+

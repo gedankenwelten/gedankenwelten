@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **05.06.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
+>
+> Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört.
+
 > **05.06.** — [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir|Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
 >
 > CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
 
-> **03.06.** — [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
->
-> Souveränität ist Wahlfreiheit, nicht Isolation — über Europas 90%-Abhängigkeit von US-Tech und Vertrauen als europäischen Gegenentwurf.
-
-> → *12 weitere in* [[Zeitgeist]]
+> → *13 weitere in* [[Zeitgeist]]
 
 ### Denker
 

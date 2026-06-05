@@ -296,3 +296,8 @@ Der Dara dokumentiert die praktische Umsetzung der von Butterwegge analysierten 
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
 Varoufakis erklärt den Mechanismus hinter Butterwegges empirischem Befund: Cloud Rent entzieht der Realwirtschaft Kaufkraft — Big Tech zahlt unter 1% als Löhne (vs. 85% bei klassischen Kapitalisten), das Geld verlässt den Wirtschaftskreislauf. Was Butterwegge als politisch konstruierte Armut analysiert, rahmt Varoufakis als systemischen Effekt des Technofeudalism.
+
+### → [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]]
+
+Butterwegge liefert die empirische Untermauerung von Browns Theorie: Browns These, dass neoliberale Marktlogik "natürliche Ungleichheit" normalisiert und damit demokratische Gleichheit als Ausgangsprinzip zerstört, zeigt Butterwegge in messbaren Ungleichheitsdaten — wachsende Armut als Effekt einer Regierungsrationalität, nicht als Politikversagen.
+

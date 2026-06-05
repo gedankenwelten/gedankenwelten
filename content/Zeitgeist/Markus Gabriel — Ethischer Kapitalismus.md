@@ -200,3 +200,8 @@ Beide diagnostizieren finanziellen Kapitalismus als Bedrohung der Demokratie —
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
 Diametraler Gegensatz: Gabriel will den Kapitalismus durch Ethik retten; Varoufakis hält die Frage für obsolet, weil Kapitalismus bereits tot sei — ersetzt durch Cloud-Feudalismus, in dem Profit zu Tribut wurde. Gabriels „true profit" setzt ein funktionierendes Profitsystem voraus; Varoufakis bestreitet, dass ein solches noch existiert.
+
+### → [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]]
+
+Konträre Antworten auf dieselbe Krise: Gabriel glaubt, "true profit" und Ethikpflichten könnten den Kapitalismus demokratieverträglich reformieren. Brown würde dem widersprechen: Wenn neoliberale Marktlogik bereits zur Vernunftform geworden ist, wird "Ethik" in Marktsprache übersetzt (ESG, Impact Investing) und der strukturelle Schaden bleibt. Gabriels Reformoptimismus trifft auf Browns institutionellen Pessimismus.
+

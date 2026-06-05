@@ -225,6 +225,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 
 **[[Gedankenwelten/DenkerVita/Silke Stremlau|Silke Stremlau]]** — Geschäftsführerin Finance for Transition (F4T gGmbH, seit 2026); Vorsitzende Sustainable Finance-Beirat der Bundesregierung (2019–2025); Pionierin institutioneller ESG-Bewertung seit 2000; Transformationsfinanzierung, Kapitalallokation als strategisches Instrument, Langfristkapital vs. Renditekapital; Leser- und Vordenkerinnenpreis 2024
+
 **[[Gedankenwelten/DenkerVita/Staiy|Staiy (Karim Staiy)]]** — YouTuber, Medienkritiker; meinungsmache.de, Almanara-Bica-Podcast, „NEWS"-Format; Medienschwigen, Rechtsextremismus, Demokratie aus deutsch-arabischer Perspektive
 
 **[[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz]]** — Soziologe, Autor; Die Neuen Zwanziger (mit Wolfgang M. Schmitt), ehem. Aufwachen! (mit Tilo Jung); Demografie, Spontanhistorisierung, Medienwandel
@@ -256,6 +257,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## W
 
 **[[Gedankenwelten/DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
+
+**[[Gedankenwelten/DenkerVita/Wendy Brown|Wendy Brown]]** — Politische Theoretikerin und Kritikerin des Neoliberalismus (UPS Foundation Professor, Institute for Advanced Study Princeton); Foucault-Gelehrte; Analyse: Neoliberalismus als Regierungsrationalität, nicht nur Wirtschaftspolitik; Demokratie-Aushöhlung von innen; Kernwerk *Undoing the Demos* (2015, Spitz Prize 2017); *In the Ruins of Neoliberalism* (2019); aktive akademische Widerstandspraxis gegen UC-Privatisierung
 
 **[[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]]** — Filmkritiker, YouTuber, Marxist; Die Filmanalyse, Wohlstand für Alle, Die Neuen Zwanziger; Ideologiekritische Filmanalyse, Kulturindustrie 2.0
 

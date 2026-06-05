@@ -350,3 +350,5 @@ Sie versteht sich nicht als Vorgabe-Geberin, sondern als *Diagnostikerin von Bew
 ### → [[Yanis Varoufakis — Trump Has Lost Everything]]
 
 Beide analysieren denselben neuen Faschismus: Redecker philosophisch über Eigentum und Gewalt (Phantombesitz, autoritäre Härte), Varoufakis ökonomisch über die zehn Stufen der Machtergreifung. Redeckers Phantombesitz erklärt, *warum* Tech-Oligarchen sich als Eigentümer des Gemeinwesens verstehen — Varoufakis zeigt, *wie* sie als moderne Pendants der Industriellen in den 1920ern die Faschisten finanzieren.
+
+- [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Brown liefert die strukturelle Ursache für das, was Redecker als neuen Faschismus beschreibt: Die neoliberale Zersetzung des demokratischen Imaginären (demos → Konsument) schafft das Vakuum, in das Phantombesitz-Ressentiment fließt. Redeckers Diagnose ist ohne Browns Vorarbeit unvollständig — und Browns Theorie bleibt abstrakt ohne Redeckers Analyse der politischen Konsequenz.

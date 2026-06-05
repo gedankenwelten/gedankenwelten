@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Wendy Brown — How Neoliberalism Threatens Democracy (INET, 2016)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [How Neoliberalism Threatens Democracy](https://www.youtube.com/watch?v=ZMMJ9HqzRcE) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Brown_Neoliberalismus_Demokratie_Transkript.txt` |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Wendy Brown]] |
+
 ## Constanze Kurz — Jung & Naiv: Folge 827
 
 | | |

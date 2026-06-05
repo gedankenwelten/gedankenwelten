@@ -250,3 +250,8 @@ Dörres Begriff des autoritären Liberalismus (Heller 1932) ist das theoretische
 ### → [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
 
 Mattei zeigt, dass Liberalismus und Faschismus historisch die kapitalistische Eigentumsordnung gegen Systemveränderung verteidigten. Wesche liefert den vorgelagerten Schritt: Das Eigentumsrecht war schon bei seiner kolonialen Ausrollung als Machtinstrument konstruiert. Beide beschreiben denselben Mechanismus — Eigentumsordnung als Schutzwall — auf verschiedenen Zeitebenen.
+
+### → [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]]
+
+Matteis historischer Befund operationalisiert Browns Theorie: Was Brown als "stealth revolution" — die Aushöhlung der Demokratie durch Marktlogik — beschreibt, zeigt Mattei historisch als Austeritätspolitik in Aktion: Wirtschaftspolitik als gezielte Disziplinierungstechnik, die demokratische Kontrolle des Kapitals systematisch schwächt.
+
