@@ -14,6 +14,8 @@ aliases:
 
 # S.N. Goenka — Vipassana
 
+![[Gedankenwelten/assets/SN_Goenka_Vipassana.png]]
+
 → DenkerVita: [[Gedankenwelten/DenkerVita/S.N. Goenka]]
 
 Quelle: Abendliche Dhamma-Diskurse, 10-Tages-Kurs (Deutsch)
