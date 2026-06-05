@@ -230,3 +230,7 @@ Diese Note thematisiert ein Paradox, das Neitzel/Iltisberger beschreiben, ohne e
 > - Die historische Perspektive soll Hype-Resistenz erzeugen. *Aber: Lernen Gesellschaften tatsächlich aus Hype-Zyklen — oder reproduzieren sie dieselben Muster mit neuer Besetzung?*
 > - Das Contrarian-Dilemma beschreibt eine Strukturfalle: Nüchternheit wird nicht gehört. *Gibt es historische Beispiele, in denen eine leise Stimme Hype tatsächlich gebrochen hat — und wenn ja, durch welchen Mechanismus?*
 > - *Sind wir als Nutzer des Gedankenwelten-Projekts selbst Teil eines Mikro-Hype-Systems?* Jede Note, die eine Idee als "wichtig" rahmt, setzt eine kleine Erwartungsarchitektur — und welcher Loop verstärkt das?
+
+### → [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+
+Kurz ist das lebende Beispiel für das Contrarian-Dilemma: Eine Informatikerin mit 30 Jahren Expertise, die nüchtern erklärt, dass LLMs stochastische Papageien ohne Semantikverständnis sind — und damit exakt jene Stimme, die das Hype-Attention-System strukturell benachteiligt. Neitzel/Iltisberger beschreiben das Systemproblem; Kurz verkörpert es.

@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Constanze Kurz — Jung & Naiv: Folge 827
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Constanze Kurz (CCC) über Palantir & KI-Modelle — Jung & Naiv 827](https://www.youtube.com/watch?v=3yCD8t9uoso) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kurz_KI_Palantir_Transkript.txt` |
+
 ## re:publica 26 — KI-Industriepolitik richtig gemacht: Kaltheuner & Jung
 
 | | |

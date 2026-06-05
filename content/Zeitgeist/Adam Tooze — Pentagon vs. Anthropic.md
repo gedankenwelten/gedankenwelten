@@ -216,3 +216,7 @@ Büttner und Kaufmann liefern die unternehmerische Gegenstrategie zu dem, was To
 ### → [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
 
 Der Anthropic-Pentagon-Konflikt als Fallbeispiel für den Skynet-Effekt: KI-Kritik und Open Letters verstärken paradoxerweise das Allmachts-Narrativ. Neitzel/Iltisberger liefern den Systemrahmen — Tooze zeigt, wie der Epistemic Control Loop (Regulatory Backlash) als Machtinstrument statt als Korrektiv eingesetzt wird.
+
+### → [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+
+Kurz bremst das Anthropic-Narrativ von der anderen Seite: Während Tooze Anthropics Weigerung als politisch relevante Grenzziehung analysiert, setzt Kurz die nüchterne Informatikerin-Brille auf — alle großen Anbieter sind längst Vertragspartner des Militärs, ein Nein in einer Klausel ist kein struktureller Widerstand. Beide zusammen ergeben das vollständige Bild: die politökonomische Theorie (Tooze) und die technische Skepsis gegenüber jeder PR-Geschichte (Kurz).

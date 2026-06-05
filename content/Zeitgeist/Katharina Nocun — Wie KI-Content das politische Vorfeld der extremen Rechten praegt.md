@@ -310,3 +310,7 @@ Das Geländer bei Arendt ist die gemeinsame Faktizität — die geteilte Realit�
 ### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
 
 Spiegelverkehrte Perspektive auf KI und politische Sprache: Nocun zeigt, wie KI rechte Propaganda *produziert* — IT Mario nutzt KI um rechte Rhetorik zu *messen*. Dasselbe Werkzeug, zwei entgegengesetzte Rollen im selben politischen Feld.
+
+### → [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+
+Kurz liefert die technische Grundlage für das, was Nocun politisch beschreibt: Der stochastische Papagei erzeugt nicht Wahrheit, sondern wahrscheinlichkeitsbasierte Fortsetzung — und genau das macht ihn zum perfekten Propagandawerkzeug. Was Kurz als epistemische Schwäche von LLMs beschreibt (kein Semantikverständnis, nur Mustererkennung), ist bei Nocun die Produktionsbedingung von KI-Slop für die extreme Rechte.
