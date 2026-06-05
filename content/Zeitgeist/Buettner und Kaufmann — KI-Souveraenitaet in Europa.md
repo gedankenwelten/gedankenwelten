@@ -1,5 +1,6 @@
 ---
 title: "Büttner & Kaufmann — KI-Souveränität in Europa"
+description: "Souveränität ist Wahlfreiheit, nicht Isolation — über Europas 90%-Abhängigkeit von US-Tech und Vertrauen als europäischen Gegenentwurf."
 date: 03.06.2026
 tags:
   - zeitgeist
