@@ -140,14 +140,14 @@ Das wäre mehr als ein wirtschaftlicher Verlust. Es wäre ein Beweis dafür, das
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
+### → [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
 
 Kaltheuner und Jung entwickeln den europäischen Gegenentwurf zu Toozes US-Diagnose: Statt Staat-zwingt-Kapital-zur-Militarisierung (Pentagon/Anthropic) fordert AI Directionism demokratisch legitimierte, gemeinwohlorientierte Lenkung von KI-Anwendungen. Beide Notes kreisen um dieselbe Grundfrage: Wer bestimmt, wohin KI steuert?
 
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 Kemper beschreibt den Technofaschismus als Phänomen, bei dem Tech-Milliardäre (Musk) die staatliche Macht für ihre Zwecke instrumentalisieren. Tooze zeigt die Kehrseite: Der Staat (Hegseth/Pentagon) instrumentalisiert die Tech-Unternehmen für militärische Zwecke — und bestraft diejenigen, die sich weigern. Zwei Seiten derselben Machtkonstellation: der rechte Staat und das Tech-Kapital verschmelzen.
 
-### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
+### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 Kempers Typus des Technofaschismus (KI als Machtinstrument, kein Massenmobilisierungsbedarf) findet im Pentagon-Anthropic-Konflikt eine konkrete Ausprägung: Autonome Kampfroboter und Massenüberwachung sind die technologischen Formen, gegen die Anthropic sich wehrt — und die Kemper als Kern technofaschistischer Herrschaft beschreibt.
 
 ### → [[Zeitgeist/Herfried Münkler — Muss es Kriege geben]]
@@ -209,14 +209,14 @@ Tooze zeigt, wie das Pentagon Anthropic zur Kooperation zwang — Morpheus dokum
 
 Tooze beschreibt, wie staatliche Macht KI-Infrastruktur für nicht-demokratisch legitimierte Zwecke einspannt. Janssens „von Milliardären für Milliardäre"-Diagnose zeigt die Gegenseite: Nvidia baut nicht für Staat, nicht für Bürger, sondern für Rechenzentren-Betreiber mit ausreichend Kapital. Beide Notes beschreiben eine KI-Welt, in der die Mehrheit weder Subjekt noch Adressat der Technologie ist.
 
-### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 
 Büttner und Kaufmann liefern die unternehmerische Gegenstrategie zu dem, was Tooze als Machtkonflikt beschreibt: Statt auf staatliche Regulierung zu warten, wird europäische Alternativinfrastruktur gebaut. Die europäische Souveränitätsfrage bekommt bei Tooze ihren geopolitischen Rahmen — Büttner/Kaufmann geben die operative Antwort.
 
-### → [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
+### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
 
 Der Anthropic-Pentagon-Konflikt als Fallbeispiel für den Skynet-Effekt: KI-Kritik und Open Letters verstärken paradoxerweise das Allmachts-Narrativ. Neitzel/Iltisberger liefern den Systemrahmen — Tooze zeigt, wie der Epistemic Control Loop (Regulatory Backlash) als Machtinstrument statt als Korrektiv eingesetzt wird.
 
-### → [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+### → [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
 
 Kurz bremst das Anthropic-Narrativ von der anderen Seite: Während Tooze Anthropics Weigerung als politisch relevante Grenzziehung analysiert, setzt Kurz die nüchterne Informatikerin-Brille auf — alle großen Anbieter sind längst Vertragspartner des Militärs, ein Nein in einer Klausel ist kein struktureller Widerstand. Beide zusammen ergeben das vollständige Bild: die politökonomische Theorie (Tooze) und die technische Skepsis gegenüber jeder PR-Geschichte (Kurz).

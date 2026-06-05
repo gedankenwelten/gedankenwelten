@@ -16,7 +16,7 @@ aliases:
 
 # Vipassana — Sīla, Samādhi, Paññā
 
-![[Gedankenwelten/assets/Vipassana_Sila_Samadhi_Panna.png]]
+![[assets/Vipassana_Sila_Samadhi_Panna.png]]
 
 
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Tage 1–3 (Sīla + Samādhi), ab Tag 4 (Paññā).
@@ -93,5 +93,5 @@ Arendts Unterscheidung zwischen Denken und Urteilen — echtes Denken ereignet s
 
 Die drei Säulen sind der Rahmen für alle anderen Konzepte: [[Vipassana — Ānāpāna|Ānāpāna]] baut Samādhi, [[Vipassana — Anicca|Anicca]] ist der Kern von Paññā.
 
-- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Adriaans Stufenmodell (Atem → Körper → Gefühle → Geist → Welt) spiegelt den Dreifuß Sila-Samadhi-Panna

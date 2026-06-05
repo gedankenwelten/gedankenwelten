@@ -230,7 +230,7 @@ Kemper beschreibt, wie rechte Akteure Technologie instrumentalisieren. Buchinger
 
 Die Desinformationsstrategie der Fossil-Lobby (Kapital binden, Zeitgewinn, Agenda-Setting via willfährige Meinungsmacher wie Stelter/Wendland) ist ein lehrbuchhaftes Beispiel für Mausfelds Analyse politischer Manipulation unterhalb der Bewusstseinsschwelle.
 
-### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 
 Tooze analysiert, wie Technologieversprechen (KI, Militär) politische Entscheidungen präformieren, lange bevor die Technologie lieferbar ist. Das gleiche Muster liegt bei SMR, Thorium und Kernfusion vor: Das Versprechen wirkt politisch schon heute, obwohl die Realität Jahrzehnte entfernt ist.
 
@@ -238,6 +238,6 @@ Tooze analysiert, wie Technologieversprechen (KI, Militär) politische Entscheid
 
 Kemfert und Buchinger kommen unabhängig zum selben SMR-Schluss: IEA frühestens 2040–2050, extrem teuer, "Technologieoffenheit" als politische Ausrede zur Verzögerung wirksamer Lösungen
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]]
+### → [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]]
 
 MONITOR liefert das journalistische Fallbeispiel zu Buchingers These: Der THTR-300 in Hamm-Uentrop verkörpert die „neue Reaktorgeneration", die vor 50 Jahren wortgleich beworben wurde — und nach 423 Tagen als Milliardengrab endete. Das aktuelle SMR-Versprechen wiederholt exakt diese Rhetorik.

@@ -30,7 +30,7 @@ Host: Maja Göpel (Mission Wertvoll / NEU DENKEN Podcast)
 > Wichtigste Werke: *Alle_Zeit. Eine Frage von Macht und Freiheit* (2022)
 > Kernkonzepte: `Zeitwohlstand` · `Zeitgerechtigkeit` · `Sorgearbeit` · `Vier-in-einer-Perspektive` · `Arbeitsverdichtung`
 >
-> → [[Gedankenwelten/DenkerVita/Teresa Bücker|DenkerVita]]
+> → [[DenkerVita/Teresa Bücker|DenkerVita]]
 
 ---
 
@@ -230,10 +230,10 @@ KI-Diskussion über Bullshit-Jobs und Automatisierung als Befreiung führt direk
 
 Verlust der Leichtigkeit als Zeitarmut: neoliberale Leistungsverdichtung zerstört zweckfreies Erleben.
 
-### → [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
+### → [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 
 Der NANO Talk ist Bückers unmittelbarste Parallele: Schaupp und Redecker benennen dieselbe Struktur — Sorgearbeit als unsichtbarer Kern — und liefern die politökonomische Erklärung, warum Zeitungerechtigkeit kein Zufall ist.
 
-### → [[Gedankenwelten/Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]]
+### → [[Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]]
 
 Marquardt stellt dieselbe Zeitfrage aus entgegengesetzter Richtung: Wo Bücker fragt *wer* das Recht auf Zeit hat (Machtfrage), fragt Marquardt *wie* Zeit erfüllt erlebt wird (Phänomenologie). Der produktive Widerspruch: Ohne Bückers Zeitgerechtigkeit bleibt Marquardts Zeitphilosophie Privileg-Denken — ohne Marquardts Tiefendimension bleibt Bückers Zeitpolitik strukturell, aber leer von gelebtem Sinn.

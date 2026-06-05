@@ -20,7 +20,7 @@ Quelle: [Ministerin gegen Marktwirtschaft? Reiche schränkt Wettbewerb ein](http
 > [!info] Wer spricht?
 > **Michael Sterner** (*1974*) — Professor für Energiespeicher und Energiesysteme an der OTH Regensburg. Mitentwickler des Power-to-Gas-Konzepts, Mitglied des Bayerischen Energiebeirats. Autor zweier Standardwerke zu Energiespeichern bei Springer. Ist persönlich mit Katharina Reiche aneinandergeraten, als sie Texte von ihm strich — erst die Androhung von Öffentlichkeit und Klage stellte seine wissenschaftliche Freiheit wieder her.
 >
-> → [[Gedankenwelten/DenkerVita/Michael Sterner|DenkerVita]]
+> → [[DenkerVita/Michael Sterner|DenkerVita]]
 
 ---
 

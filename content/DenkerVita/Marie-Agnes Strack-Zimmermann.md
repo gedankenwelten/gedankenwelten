@@ -54,8 +54,8 @@ Wirtschaftsliberal (FDP), aber in der Sicherheitspolitik eher transatlantisch-re
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Helen Keller]] — Keller analysiert das Völkerrecht als Rahmen, Strack-Zimmermann die militärische Durchsetzbarkeit
-- [[Gedankenwelten/DenkerVita/Gesine Schwan]] — Schwan denkt Macht demokratisch-partizipativ, Strack-Zimmermann betont die sicherheitspolitische Dimension
+- [[DenkerVita/Helen Keller]] — Keller analysiert das Völkerrecht als Rahmen, Strack-Zimmermann die militärische Durchsetzbarkeit
+- [[DenkerVita/Gesine Schwan]] — Schwan denkt Macht demokratisch-partizipativ, Strack-Zimmermann betont die sicherheitspolitische Dimension
 
 ---
 

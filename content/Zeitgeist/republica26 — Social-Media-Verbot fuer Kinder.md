@@ -21,16 +21,16 @@ Quelle: [Offline per Gesetz – Brauchen wir ein Social-Media-Verbot für Kinder
 
 > [!info] Wer spricht?
 > **Dr. Kerstin Paschke** — Privatdozentin und Fachärztin für Kinder- und Jugendpsychiatrie; seit Juni 2025 ärztliche Leiterin des Deutschen Zentrums für Suchtfragen des Kindes- und Jugendalters (DZSKJ) am UKE Hamburg. 50+ Publikationen zur Medienabhängigkeit bei Jugendlichen. Klinische Stimme in der Debatte.
-> → [[Gedankenwelten/DenkerVita/Kerstin Paschke|DenkerVita]]
+> → [[DenkerVita/Kerstin Paschke|DenkerVita]]
 >
 > **Dr. Kristian Kunow** — Stellvertretender Direktor der Medienanstalt Berlin-Brandenburg (MABB), leitet Förderung, Projektbeteiligungen und digitalen Jugendschutz. Regulierungspragmatiker, der zwischen politischen Forderungen und Umsetzbarkeit vermittelt.
-> → [[Gedankenwelten/DenkerVita/Kristian Kunow|DenkerVita]]
+> → [[DenkerVita/Kristian Kunow|DenkerVita]]
 >
 > **Sanya Lehmann** — Mitglied des MABB Jugendrats seit 2023 (dem ersten Jugendrat einer deutschen Medienaufsichtsbehörde). Bringt die Perspektive junger Nutzer in politische Prozesse ein — war auch in der Expertenkommission des Bundesbildungsministeriums.
-> → [[Gedankenwelten/DenkerVita/Sanya Lehmann|DenkerVita]]
+> → [[DenkerVita/Sanya Lehmann|DenkerVita]]
 >
 > **Ninia LaGrande** (Moderation) — Moderatorin, Autorin, Slam-Poetin (geb. 1983); Mitgründerin des Hashtags #ausnahmslos (2016), Clara-Zetkin-Frauenpreis. Moderiert u.a. für Bundespräsidialamt und Bundesministerien.
-> → [[Gedankenwelten/DenkerVita/Ninia LaGrande|DenkerVita]]
+> → [[DenkerVita/Ninia LaGrande|DenkerVita]]
 >
 > *Lizenz: CC BY-SA 4.0 — re:publica 26, 19.05.2026*
 
@@ -206,35 +206,35 @@ Das Ziel ist das, was Kunow "altersgerechte Versionen der Plattformen" nennt —
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Markus Gabriel — Was die sozialen Netzwerke mit uns machen]]
+### → [[Zeitgeist/Markus Gabriel — Was die sozialen Netzwerke mit uns machen]]
 
 Gabriel analysiert Social Media als Aufmerksamkeitsfalle und philosophisches Problem. Paschkes neurobiologisches Argument über Belohnungslernen ergänzt Gabriels medienphilosophische Kritik: Was Gabriel als kulturelles Problem beschreibt (die Verflachung von Realität), ist bei Paschke ein klinisch messbares Symptom mit Suchwert.
 
-### → [[Gedankenwelten/Zeitgeist/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
+### → [[Zeitgeist/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
 
 El-Mafaalani argumentiert, Kinder seien strukturell die am wenigsten gehörte Gruppe im politischen Diskurs. Sanya Lehmanns Forderung — "auf Augenhöhe, nicht von oben herab" — ist eine direkte Praxis-Version dieser These. Das Panel selbst ist ein seltenes Experiment: Eine Jugendliche spricht mit Regulierern, nicht nur über sie.
 
-### → [[Gedankenwelten/Zeitgeist/Hartwin Maas — Bildung NEU DENKEN]]
+### → [[Zeitgeist/Hartwin Maas — Bildung NEU DENKEN]]
 
 Maas' Kritik am Bildungssystem berührt denselben neurobiologischen Grundsatz: Lernen funktioniert anders als institutionell angenommen. Paschkes "Schutz als Voraussetzung für Befähigung" ist eine bildungstheoretische Aussage — ohne sicheren Entwicklungsraum keine echte Lernfähigkeit.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskräfte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskräfte]]
 
 Beide Panels diskutieren Nebenwirkungen technologischer Systeme auf vulnerable Gruppen. Die KI-Personalisierung, die Paschke als Verstärker von Suchtmechanismen beschreibt, ist dieselbe KI, die in der anderen rp26-Session unsichtbare Arbeit unsichtbar macht.
 
-### → [[Gedankenwelten/Zeitgeist/Manfred Spitzer — Hirnforscher Feldbach]]
+### → [[Zeitgeist/Manfred Spitzer — Hirnforscher Feldbach]]
 
 Spitzer hat seit Jahren vor digitalen Medien gewarnt — oft pauschal und wissenschaftlich überschießend. Paschkes Position ist nuancierter: nicht Technologie per se ist das Problem, sondern das *Design* der Plattformen. Trotzdem treffen sich beide im Ergebnis: Kindheit braucht analoge Schutzräume.
 
-### → [[Gedankenwelten/Zeitgeist/Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]
+### → [[Zeitgeist/Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]
 
 Paschke beschreibt die Suchtmechanismen der Plattformen — variables Belohnungslernen, unvorhersagbare Gratifikation. Schultz liefert die neuronale Grammatik dafür: Reward Prediction Error (RPE). Nicht die Belohnung selbst, sondern ihre Unvorhersagbarkeit feuert das Dopaminsystem — genau das, was TikTok-Algorithmen maximieren. Paschkes klinische Beobachtung ("1,5 Mio. suchtgefährdete Jugendliche") und Schultz' Mechanismus ("positiver RPE eskaliert Erwartungswert") beschreiben dieselbe Spirale von beiden Enden.
 
-### → [[Gedankenwelten/Zeitgeist/Rebecca Boehme — So trickst du dein Gehirn aus]]
+### → [[Zeitgeist/Rebecca Boehme — So trickst du dein Gehirn aus]]
 
 Böhmes Predictive Processing (das Gehirn als Vorhersagemaschine, Aufmerksamkeitsextraktion durch Neuigkeit) erklärt neurobiologisch, was Paschke klinisch beobachtet: Jugendliche können die Kontrolle nicht zurückgewinnen, weil das Design der Plattformen aktiv gegen ihre Vorhersagemodelle arbeitet. Böhmes "Trick" — rote Eilmeldungen, Push-Notifications — ist bei Kindern durch den unreifen Präfrontalkortex noch wirksamer als bei Erwachsenen.
 
-### → [[Gedankenwelten/Denker/Renee DiResta — Invisible Rulers]]
+### → [[Denker/Renee DiResta — Invisible Rulers]]
 
 DiResta zeigt, wie Plattformen Narrative verstärken und Crowds zu Propagandaapparaten werden. Paschkes klinische Beobachtung, dass Jugendliche durch KI-Personalisierung gezielt auf gefährdende Inhalte (Drogendealer, Suizid-Content, riskante Challenges) geleitet werden, ist DiRestas algorithmische Verstärkung angewandt auf eine vulnerablere Zielgruppe — mit direkten gesundheitlichen Folgen statt nur politischen.
 

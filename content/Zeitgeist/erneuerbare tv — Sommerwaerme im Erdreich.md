@@ -197,31 +197,31 @@ Der Hinweis von Martin Schneider, dass beim Bauantrag gefragt wurde, ob er den G
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade]]
+### → [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade]]
 
 Sterner argumentiert, dass die Energiewende regional massive Wertschöpfung erzeugen kann — Kupferzell ist der lebendige Beweis. Das Familienunternehmen ist genau der Mittelstand, von dem Sterner spricht: energieautonom, kostengünstig, ohne Fördermilliarden. Was Sterner als politische These formuliert, ist hier bereits Realität.
 
-### → [[Gedankenwelten/Zeitgeist/Tim Meyer und Jan Hegenberg — China Energiewende]]
+### → [[Zeitgeist/Tim Meyer und Jan Hegenberg — China Energiewende]]
 
 Meyer und Hegenberg zeigen, dass in China Erneuerbare nicht aus Ideologie, sondern aus wirtschaftlicher Rationalität installiert werden. Kupferzell demonstriert dieselbe Logik auf Unternehmensebene: Die Entscheidung für Nullemissionen war keine Öko-Romantik, sondern ein Investitionskalkül mit 3,5-Jahres-ROI.
 
-### → [[Gedankenwelten/Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 
 Goldbach sieht Batteriespeicher als unterschätzte Infrastruktur. Kupferzell zeigt eine Alternative: thermische Speicher (Erde, Beton, Eis) können für Industrie und Gewerbe effizienter sein als elektrochemische Batterien — andere Energieform, andere Zeitskala, andere Wirtschaftlichkeit.
 
-### → [[Gedankenwelten/Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
+### → [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
 
 Zöckler argumentiert für dezentrale Energiewertschöpfung als demokratisches Projekt. Kupferzell ist der industrielle Zwilling: nicht Bürger, sondern ein Unternehmen als autonomer Energieproduzent — mit denselben strukturellen Konsequenzen: Unabhängigkeit vom Energiemarkt, lokale Wertschöpfung, kein Kapitalabfluss zu Energiekonzernen.
 
-### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+### → [[Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
 
 Kupferzell und Burgbernheim — zwei Metallverarbeitungsbetriebe, zwei gegensätzliche Ausgänge. MEFA hat sich vollständig unabhängig gemacht, Thomas Reisges steckt in der Netzsackgasse. Der Vergleich stellt eine Frage, die beide Notes nicht beantworten: Was ist der entscheidende Unterschied?
 
-### → [[Gedankenwelten/Panorama/Energie]]
+### → [[Panorama/Energie]]
 
 Kupferzell ist ein konkreter Beweis für die Kernthese des Panoramas: Die Lösungen existieren, die Blockade ist politisch. Während Berlin über Gaskraftwerke debattiert, zahlt ein Mittelständler in Baden-Württemberg 2,5 ct/kWh — ein Drittel des Marktpreises.
 
-### → [[Gedankenwelten/Zeitgeist/Presseclub — Reiches Energiewende]]
+### → [[Zeitgeist/Presseclub — Reiches Energiewende]]
 
 Der Presseclub diskutiert, ob Katharina Reiches Energiepolitik wirtschaftlich rational ist. Kupferzell antwortet implizit: Unternehmen, die frühzeitig auf Erneuerbare gesetzt haben, zahlen 2,5 ct/kWh. Unternehmen, die auf Gas warten, zahlen das Siebenfache. Die Frage nach "Wirtschaftlichkeit" der Energiewende hat eine empirische Antwort — sie heißt Kupferzell.
 

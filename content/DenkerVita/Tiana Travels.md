@@ -49,7 +49,7 @@ Tiana ist Videoproduzentin, keine Autorin. Keine Buchpublikationen.
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Jonathan Haidt]] — Haidts Moral Foundations Theory erklärt, warum Tianas Beobachtungen zur Sprachlosigkeit zwischen politischen Lagern zutreffen: verschiedene Moralgrundlagen erzeugen verschiedene Kommunikationsformen
+- [[DenkerVita/Jonathan Haidt]] — Haidts Moral Foundations Theory erklärt, warum Tianas Beobachtungen zur Sprachlosigkeit zwischen politischen Lagern zutreffen: verschiedene Moralgrundlagen erzeugen verschiedene Kommunikationsformen
 - **Arlie Hochschild** (*Strangers in Their Own Land*, 2016) — Tiefe Ethnographie von Trump-Wählern im Louisiana bayou; ähnlicher Befund zu Grieved Entitlement, Staatsmisstrauen, und der emotionalen Logik konservativer Wahl
 - **Thomas Frank** (*What's the Matter with Kansas?*, 2004) — Klassiker zur Frage, warum Arbeiter gegen ihre ökonomischen Interessen wählen; Vorläufer von Tianas "Temporarily Embarrassed Millionaires"-Analyse
 
@@ -57,4 +57,4 @@ Tiana ist Videoproduzentin, keine Autorin. Keine Buchpublikationen.
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] — Drei-Videos-Note, Juni 2026
+- [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] — Drei-Videos-Note, Juni 2026

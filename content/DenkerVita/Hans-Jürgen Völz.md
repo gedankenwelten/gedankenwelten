@@ -87,7 +87,7 @@ Völz veröffentlicht primär über die **BVMW-Plattform**, nicht als Autor eige
 
 Alle Notes die Völz oder seine Positionen behandeln:
 
-- [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel|phoenixRunde: Streit um Reformen]] — Zentrale Debatte zwischen Völz und Christoph Butterwegge
-- [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Butterwegge — Armut NEU DENKEN]] — Direkte Gegenperspektive auf die Frage, was Sozialpolitik ist
-- [[Gedankenwelten/Panorama/Rente|Panorama: Rente]] — Systemische Rahmung der Rentendebatten, in die Völz mit seiner Kapitaldeckungs-Forderung eingreift
-- [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit|Heiner Flassbeck — Merz Rentenluege]] — Makroökonomische Kritik von Kapitaldeckungs-Modellen (Sparparadoxon), auf die sich Völz stützt
+- [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel|phoenixRunde: Streit um Reformen]] — Zentrale Debatte zwischen Völz und Christoph Butterwegge
+- [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Butterwegge — Armut NEU DENKEN]] — Direkte Gegenperspektive auf die Frage, was Sozialpolitik ist
+- [[Panorama/Rente|Panorama: Rente]] — Systemische Rahmung der Rentendebatten, in die Völz mit seiner Kapitaldeckungs-Forderung eingreift
+- [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit|Heiner Flassbeck — Merz Rentenluege]] — Makroökonomische Kritik von Kapitaldeckungs-Modellen (Sparparadoxon), auf die sich Völz stützt

@@ -23,11 +23,11 @@ Quelle: [Extremismus NEU DENKEN mit Matthias Quent und Maja Göpel](https://www.
 > Wichtigste Werke: *Rassismus, Radikalisierung, Rechtsterrorismus* (2016), *Deutschland rechts außen* (2019), *Keine Macht der Ohnmacht* (2026)
 > Kernkonzepte: Verherrlichung der Ohnmacht, Normalisierung rechter Gewalt, wehrhafte Demokratie, Faschismus als Technik der Emotionalisierung
 >
-> → [[Gedankenwelten/DenkerVita/Matthias Quent|DenkerVita]]
+> → [[DenkerVita/Matthias Quent|DenkerVita]]
 >
 > **Maja Göpel** (*1976*) — Politische Ökonomin, Transformationsforscherin, Gastgeberin des Podcasts **NEU DENKEN** (Mission Wertvoll).
 >
-> → [[Gedankenwelten/DenkerVita/Maja Goepel|DenkerVita]]
+> → [[DenkerVita/Maja Goepel|DenkerVita]]
 
 ---
 
@@ -214,6 +214,6 @@ Man muss das Führungspersonal von den Wähler:innen unterscheiden. Und mit AfD-
 - [[Christoph Hein — Geooekonomie NEU DENKEN]] — Derselbe Podcast (NEU DENKEN), andere Perspektive: Quent analysiert die innere Ohnmacht, Hein die äußere geoökonomische Abhängigkeit. Göpels „Forwardlash" verbindet beides — was Quent als Forwardlash der Tech-Eliten beschreibt, hat bei Hein sein geoökonomisches Pendant: Staaten, die Ressourcenknappheit in territoriale Aggression übersetzen
 
 - [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]] — Quents Ohnmachtstypologie (vier Reaktionsmuster auf blockiertes Leben) und A/Ns Drei-Täter-Typen (Erneuerer, Zerstörer, Libertäre Autoritäre) sind komplementäre Antworten auf dieselbe Fromm-Frage: Quent fragt, *wie die ohnmächtige Mehrheit reagiert*, A/N fragen, *wer destruktiv agiert und aus welcher emotionalen Logik*.
-- [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — Das GFF-Gutachten ist der institutionelle Hebel, den Quent mit Löwenstein als notwendig ableitet. Quents Analyse (Faschismus ist Emotionalisierungstechnik, nicht Philosophie) erklärt, warum die Unterscheidung zwischen "Grundtendenz" und "Einzeläußerung" so schwierig ist: Eine Methode äußert sich in akkumulierten Gesten, nicht in klaren Programmsätzen.
-- [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]] — Semsrott ist der Praktiker von Quents "Hoffnung kommt vom Machen": Freiheitsfonds (1.700 Freigekaute), Sanktionsfrei, DHL-Streik — konkrete Antworten auf Quents 30% ohnmächtige Bevölkerung. Quent liefert den sozialwissenschaftlichen Unterbau, Semsrott die Praxis — Theorie der Ohnmacht + Praxis der Überwindung.
-- [[Gedankenwelten/Denker/Maren Urner — Radikal hoffnungsvoll]] — Urners neurobiologische Hope Theory (Snyder: Will Power + Way Power) ist die kognitionswissenschaftliche Unterseite von Quents empirischem Befund "Hoffnung kommt vom Machen"; beide konvergieren: Hoffnung ist Praxis, nicht Stimmung. Göpels Forwardlash spiegelt Urners drittes Pferd der Selbstzerstörung — Kommunikationskontrolle als Machtstrategie.
+- [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — Das GFF-Gutachten ist der institutionelle Hebel, den Quent mit Löwenstein als notwendig ableitet. Quents Analyse (Faschismus ist Emotionalisierungstechnik, nicht Philosophie) erklärt, warum die Unterscheidung zwischen "Grundtendenz" und "Einzeläußerung" so schwierig ist: Eine Methode äußert sich in akkumulierten Gesten, nicht in klaren Programmsätzen.
+- [[Zeitgeist/Semsrott — Zur Gegenmacht]] — Semsrott ist der Praktiker von Quents "Hoffnung kommt vom Machen": Freiheitsfonds (1.700 Freigekaute), Sanktionsfrei, DHL-Streik — konkrete Antworten auf Quents 30% ohnmächtige Bevölkerung. Quent liefert den sozialwissenschaftlichen Unterbau, Semsrott die Praxis — Theorie der Ohnmacht + Praxis der Überwindung.
+- [[Denker/Maren Urner — Radikal hoffnungsvoll]] — Urners neurobiologische Hope Theory (Snyder: Will Power + Way Power) ist die kognitionswissenschaftliche Unterseite von Quents empirischem Befund "Hoffnung kommt vom Machen"; beide konvergieren: Hoffnung ist Praxis, nicht Stimmung. Göpels Forwardlash spiegelt Urners drittes Pferd der Selbstzerstörung — Kommunikationskontrolle als Machtstrategie.

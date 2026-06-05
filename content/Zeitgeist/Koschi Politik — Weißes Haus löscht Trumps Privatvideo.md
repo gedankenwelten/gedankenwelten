@@ -107,7 +107,7 @@ Das Besondere: Ein Gespräch hinter verschlossenen Türen, bei dem Trump unzensi
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+### → [[Zeitgeist/auslandsjournal — Trump allein zu Haus]]
 
 Das geleakte Privatgespräch ist der empirische Beleg für die These des auslandsjournals vom Vertrauensverlust gegenüber den Alliierten: Trump sagt selbst, seine Beziehungen zu Russland und China seien besser als zur NATO — ungefiltert, jenseits der öffentlichen Rhetorik.
 

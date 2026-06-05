@@ -24,7 +24,7 @@ Quelle: [I Asked Germans About Trump. They All Said the Same Thing](https://www.
 >
 > Lance reist durch Europa (London, Paris, Berlin) und dokumentiert, wie die Welt auf Trumps zweite Amtszeit schaut. Er beschreibt sich selbst als ehemaligen Republikaner, der die Partei nach Trumps Wahl verließ, weil sie „keine Moral mehr hatte". Als Person des Glaubens sieht er sein Engagement gegen Faschismus als ethische Pflicht. Sein YouTube-Kanal zeigt Straßengespräche und direkte Kamera-Monologe zu US-Politik.
 >
-> → [[Gedankenwelten/DenkerVita/Paul Lance|DenkerVita]]
+> → [[DenkerVita/Paul Lance|DenkerVita]]
 
 ---
 
@@ -181,6 +181,6 @@ von Redecker unterscheidet alten und neuen Faschismus; Lance' Vergleiche bleiben
 
 Trumps Schuldzuweisungsrhetorik als konkrete Entsprechung der historischen Sündenbockstrategie, die Lance beschreibt
 
-### → [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
+### → [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
 
 Holy Koolaid liefert die Erklärung, warum Deutsche Faschismus-Muster leichter erkennen als Amerikaner: institutionelle Programmierung (Pledge of Allegiance, Exzeptionalismus, US-Geschichtsunterricht) macht genau diese Außenperspektive strukturell schwieriger zu entwickeln.

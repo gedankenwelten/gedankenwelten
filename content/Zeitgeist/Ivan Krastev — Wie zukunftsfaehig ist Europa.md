@@ -23,7 +23,7 @@ Quelle: [Ivan Krastev, wie zukunftsfähig ist Europa? | Sternstunde Philosophie 
 >
 > **Moderator: Wolfram Eilenberger** — Deutscher Philosoph, Moderator der *Sternstunde Philosophie* (SRF), bekannt für seine narrative Philosophiegeschichte des 20. Jahrhunderts (*Zeit der Zauberer*, *Feuer der Freiheit*, *Geister der Gegenwart*). Das Gespräch fand am St. Gallen Symposium statt.
 >
-> → [[Gedankenwelten/DenkerVita/Ivan Krastev|DenkerVita]]
+> → [[DenkerVita/Ivan Krastev|DenkerVita]]
 
 ---
 
@@ -271,7 +271,7 @@ Temelkuran kennt aus der Türkei den Moment, wenn demokratische Normalität nich
 
 Bude beschreibt den Mechanismus, durch den relative Deprivation politische Enttäuschung produziert — Krastev beschreibt dieselbe Enttäuschung im Ost-West-Verhältnis: Der Westen enttäuschte Osteuropa durch Arroganz, Osteuropa den Westen durch Illiberalismus. Bude liefert die affektive Grammatik, Krastev die geopolitische Erzählung.
 
-### → [[Gedankenwelten/Denker/Heiner Flassbeck — Krise und Rechtsruck|Heiner Flassbeck — Krise und Rechtsruck]]
+### → [[Denker/Heiner Flassbeck — Krise und Rechtsruck|Heiner Flassbeck — Krise und Rechtsruck]]
 
 Flassbeck erklärt den Braindrain aus Osteuropa als wirtschaftspolitische Konsequenz — EU-Austerität und Lohngefälle haben qualifizierte Menschen nach Westen gezogen. Das ist der materielle Unterbau der wechselseitigen Enttäuschung, die Krastev als zentrale osteuropäische Wunde beschreibt.
 
@@ -286,10 +286,10 @@ Flassbeck erklärt den Braindrain aus Osteuropa als wirtschaftspolitische Konseq
 > - Die Reich-Ranicki-Geschichte am Schluss: Ist das eine Methode — sich auf das Kleinere, Fertigbare zu konzentrieren, wenn das Große überwältigend wird? Oder ist das eine Form der Kapitulation?
 > - Wenn Putin tatsächlich der *Vater der neuen ukrainischen Identität* ist — was sagt das über die Fähigkeit politischer Akteure, bewusst Identitäten zu schaffen, im Unterschied zu unbewussten Reaktionen?
 
-### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+### → [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
 
 Die PhoenixRunde zeigt den Zeithorizontkonflikt live: Trump als kurzfristiger Dealmaker gegen Xi, der in Dekaden denkt. Krastevs Analyse — wer in Wahlzyklen denkt, verliert gegen Systeme die in Generationen planen — bekommt im Trump-Xi-Gipfel sein konkretes Bild.
 
-### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
 Krastevs Unterscheidung von Disruption und Rupture gibt der historischen Diagnose von Gehring & Gießmann einen analytischen Rahmen: Die Eurocard-Übernahme 2003 war eine Disruption — still und schmerzhaft. Ein Abschneiden vom Visa/Mastercard-Netzwerk durch die USA wäre ein Rupture — irreversibel in dem Moment, in dem es passiert. Krastevs Warnung, dass Europa systemische Risiken als korrigierbare Betriebsunfälle behandelt, spiegelt sich direkt im langsamen parlamentarischen Prozess wider.

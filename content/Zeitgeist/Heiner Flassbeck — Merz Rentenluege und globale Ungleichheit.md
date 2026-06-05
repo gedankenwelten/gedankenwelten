@@ -20,7 +20,7 @@ Quelle: [Es ist UNGEHEUERLICH was MERZ von sich gibt | Heiner Flassbeck](https:/
 > **Heiner Flassbeck** (*1950, Birkenfeld*) — Ökonom und ehemaliger Staatssekretär im Bundesfinanzministerium unter Lafontaine. Von 2003 bis 2012 Chefökonom der UNCTAD in Genf. Seitdem unermüdlicher Kritiker der deutschen Wirtschaftspolitik — keynesianischer Einzelkämpfer im ordoliberalen Mainstream.
 >
 > Kernkonzepte: Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden
-> → [[Gedankenwelten/DenkerVita/Heiner Flassbeck|DenkerVita]]
+> → [[DenkerVita/Heiner Flassbeck|DenkerVita]]
 
 ---
 
@@ -91,7 +91,7 @@ Flassbeck entlarvt den logischen Kurzschluss mit seinem Lieblingsargument, dem S
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
+### → [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
 
 Gottschalks Flat-Tax-Vorschlag (25% auf alles) steht in direktem Widerspruch zu Flassbecks Analyse: Kapitalerträge bevorzugen, schwächt die Nachfrageseite und verschärft die Ungleichheit, die die Runde zu beheben vorgibt.
 
@@ -135,7 +135,7 @@ Jung und Flassbeck konvergieren: Vermögensungleichheit als Demokratiegefährdun
 
 Flassbeck liefert hier das Fundament für die Rentenkritik: den geschlossenen Zinskreislauf zwischen Steuerzahler und Sparer — warum es keinen externen Zinszahler geben kann.
 
-### → [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]]
+### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Flassbeck liefert die makroökonomische Mechanik (Sparparadoxon, r > g) für Kühnerts 6%-Rendite-Unterstellungs-Modell in Studio Bonn. Beide decken denselben blinden Fleck: Wer nur Einkommen analysiert, übersieht die selbstverstärkende Logik der Kapitalbestände.
 
@@ -143,6 +143,6 @@ Flassbeck liefert die makroökonomische Mechanik (Sparparadoxon, r > g) für Kü
 
 Flassbecks Sparparadoxon demontiert theoretisch, was Herrmann in der Bilanz-Runde praktisch benennt: Steuergeschenke für Reiche erzeugen keine Investitionen — weil Kapital ohne Nachfrage nicht investiert wird.
 
-### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
+### → [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 
 Butterwegges Erwerbstätigenversicherungs-Argument und Österreich-Vergleich in der Praxis: Die politische Debatte, in der Flassbecks Sparparadoxon-Kritik an Kapitaldeckung als Gegenargument benötigt wird.

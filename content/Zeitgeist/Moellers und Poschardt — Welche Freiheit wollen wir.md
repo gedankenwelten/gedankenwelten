@@ -20,10 +20,10 @@ Quelle: [Welche Freiheit wollen wir? Christoph Möllers trifft Ulf Poschardt](ht
 
 > [!info] Wer spricht?
 > **Christoph Möllers** (*1969, Bochum) — Professor für Öffentliches Recht und Rechtsphilosophie an der Humboldt-Universität Berlin. Leibniz-Preisträger, Träger des Traktatuspreises für *Freiheitsgrade* (2020). Ab 2026 Rektor des Wissenschaftskollegs Berlin. Möllers denkt Freiheit institutionell: nicht als Naturzustand, sondern als politisch ausgehandeltes Arrangement — immer plural, immer unter Bedingungen.
-> → [[Gedankenwelten/DenkerVita/Christoph Moellers|DenkerVita]]
+> → [[DenkerVita/Christoph Moellers|DenkerVita]]
 >
 > **Ulf Poschardt** (*1967, Nürnberg) — Journalist, Publizist, Herausgeber der *Welt*. Promotion bei Friedrich Kittler über die Kulturgeschichte des DJ. Bekannt durch das polemische Buch *Schitbürgertum* (2024), in dem er dem linksliberalen Milieu vorwirft, die Freiheitsliebe gegen Staatsnähe und moralische Bevormundung eingetauscht zu haben.
-> → [[Gedankenwelten/DenkerVita/Ulf Poschardt|DenkerVita]]
+> → [[DenkerVita/Ulf Poschardt|DenkerVita]]
 >
 > **Moderation:** Svenja Flaßpöhler — Philosophin und Chefredakteurin des *Philosophie Magazin*. Das Gespräch fand am 24. Juni 2025 auf der phil.COLOGNE statt.
 
@@ -168,45 +168,45 @@ Poschardt sieht es präziser: Die Linke hat die Freiheitsliebe durch Staatsnähe
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
+### → [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
 
 Möllers und Steinke analysieren denselben Grundkonflikt von zwei Seiten: Möllers fragt philosophisch, was Freiheit in der Demokratie bedeutet; Steinke zeigt empirisch, wie der freiheitliche Staat selbst (Verfassungsschutz, Strafparagraphen) Meinungsfreiheit einschränkt. Posschardts Diagnose, dass der Staat als Freiheitsfeind beschrieben wird, und Steinkes nüchterne Feststellung, dass liberale Parteien selbst die Einschränkungen vorangetrieben haben, bilden zusammen eine paradoxe Zange.
 
-### → [[Gedankenwelten/Zeitgeist/Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]
+### → [[Zeitgeist/Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]
 
 Posschardts These vom Schitbürgertum — einem linksliberalen Milieu, das staatliche Eingriffe als Tugendausweis instrumentalisiert — findet in Potters Analyse ihr empirisches Fallbeispiel: Potter beschreibt eine Linke, die aus dem eigenen Milieu heraus gegen Meinungsfreiheit agiert und Differenzierung als Kapitulation begreift. Wo Poschardt das Phänomen kulturkritisch benennt, seziert Potter es journalistisch von innen.
 
-### → [[Gedankenwelten/Zeitgeist/Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]]
+### → [[Zeitgeist/Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]]
 
 Der Begriff des „Herrn Hegemon" — wer bestimmt, wer Rechtfertigungspflichten hat — führt aus, was Möllers als Demokratie-Zumutung beschreibt: Im Aushandlungsprozess gibt es keine neutrale Position, und wer als linksliberal gilt, kann plötzlich in der Rechtfertigungsposition stehen. Das ist die direkte Folie zu Posschardts Staatsnähekritik: Wie der Staat zum Kampffeld wird statt zum Rahmen des Handelns.
 
-### → [[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
+### → [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
 
 Schwan und Möllers teilen einen prozeduralen Freiheitsbegriff: Demokratie ist kein Zustand, sondern ein Aushandlungsverfahren, das kulturell getragen sein muss. Schwans Unterscheidung von Herrschaftsmacht und Gestaltungsmacht kartiert denselben Spannungsraum wie Möllers — der Staat als Ermöglichungsbedingung vs. als erzwingender Eingriff. Posschardts Staatsnähekritik würde Schwan als Fehldeutung lesen: Gestaltungsmacht durch demokratische Kultur ist das Gegenteil von Patronage.
 
-### → [[Gedankenwelten/Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
+### → [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
 
 Das Bundestalk-Gespräch ist die praxisbezogene Verlängerung von Möllers' philosophischer Freiheitsanalyse: Wo Möllers fragt, was Freiheit in der Demokratie bedeutet, fragen Reinecke, Rath, Jäckels und Gutmair, wie sie konkret eingeschränkt wird — §188, Hamas-Parolen, Demonstrationsverbote. Posschardts Staatsnähekritik findet in Jäckels Machtanalyse (Staatsräson als Instrument) ihre radikalste Bestätigung: Der Staat setzt, was als sagbar gilt. Rath liefert das balancierte Gegengewicht — Steinkes und Möllers' institutionellem Optimismus näher als Poschardt.
 
-### → [[Gedankenwelten/Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
+### → [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
 
 Haidts Moral-Foundations-Theorie ist der präziseste analytische Schlüssel zur Debatte: Was Poschardt als kulturellen Hegemonialanspruch des linksliberalen Milieus beschreibt, ist in Haidts Sprache eine Moral-Matrix, die nur zwei der sechs Foundations als legitim anerkennt und die anderen als rückständig abwertet. Möllers' Demokratietheorie verlangt genau die moralische Demut, die Haidt fordert: verstehen, dass die andere Seite in einer anderen Moral-Sprache spricht.
 
-### → [[Gedankenwelten/Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+### → [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 Frickes Analyse der wirtschaftlichen Stagnation liefert den materiellen Unterbau zu Posschardts Kulturkritik: Die Bürokratisierungskritik ist bei Poschardt kulturell-ästhetisch gefärbt, bei Fricke empirisch-ökonomisch — beide beschreiben dieselbe Erschöpfung des Gegenwartsmodells, nur von verschiedenen Seiten. Frickes These, dass Marktliberalismus den Kontrollverlust erzeugte, wäre für Poschardt eine Zumutung, macht die Verbindung aber intellektuell produktiv.
 
-### → [[Gedankenwelten/Zeitgeist/Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]
+### → [[Zeitgeist/Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]
 
 Petersdorffs Kulturgeschichte der Leichtigkeit seit den 70ern ist das direkte kulturelle Gedächtnis zur Poschardt-Diagnose: Der neoliberale Freiheitsbegriff war für eine Generation zunächst als Befreiung von großen Erzählungen erlebt — bevor er sich in Selbstoptimierungsdruck umwandelte. Die Frage, wer die Kosten dieser Freiheit trägt (Judith Shklars Freiheit von Furcht), verbindet beide Stränge.
 
-### → [[Gedankenwelten/Zeitgeist/Liya Yu — Neuropolitik und die Grenzen der Moral]]
+### → [[Zeitgeist/Liya Yu — Neuropolitik und die Grenzen der Moral]]
 
 Yu erklärt neurologisch, warum das linksliberale Menschenbild scheitert — dasselbe Modell, das Poschardt als moralisches Überlegenheitsgefühl angreift. Yus Befund, dass liberale und konservative Gehirne Ambiguität strukturell verschieden verarbeiten, unterfüttert Möllers' Prämisse, dass Demokratie als Aushandlungsprozess den unauflösbaren Dissens institutionell anerkennen muss statt aufzulösen.
 
 ---
 
-### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Steinkes Justiz-Aktivismus-These und Marinićs "Teilzeitliberalismus"-Begriff sind die empirischen Belege für den abstrakten Freiheitsdiskurs bei Möllers/Poschardt. Posschardts Diagnose des gekaperten Freiheitsbegriffs bekommt durch Steinkes konkreten Welt-Fall (Musk-Wahlaufruf als unpopuläre Meinung, aber Kriminalisierung pro-palästinensischer Filmemacher) seinen schärfsten Ausdruck. Möllers' institutioneller Freiheitsbegriff wird durch Steinkes Befund bestätigt und provoziert: Auch der progressive Staat schränkt Meinungsfreiheit ein — nicht nur der konservative.
 

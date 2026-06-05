@@ -66,4 +66,4 @@ Büttner publiziert primär als Unternehmerin und Politikerin über Vorträge, I
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/re:publica 26 - Buettner und Kaufmann - Europas KI-Zukunft|re:publica 26 — Büttner und Kaufmann — Europas KI-Zukunft]]
+- [[Zeitgeist/re:publica 26 - Buettner und Kaufmann - Europas KI-Zukunft|re:publica 26 — Büttner und Kaufmann — Europas KI-Zukunft]]

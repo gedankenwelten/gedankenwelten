@@ -319,7 +319,7 @@ Sie versteht sich nicht als Vorgabe-Geberin, sondern als *Diagnostikerin von Bew
 - [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]] — kompakte Buchvorstellung (taz Talk)
 - [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] — konkrete Analyse digitaler Faschismus-Formen
 - [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — Mühlhoff ergänzt Redeckers Phantombesitz-Theorie um eine strukturelle Erklärung: Tech-Kapital wird zwingend antidemokratisch, weil exponentielles Wachstum demokratische Ressourcenprinzipien unterläuft; beide diagnostizieren Faschismus als neuen Systemzustand, nicht als Ausnahme
-- [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kempers Vortrag mit der Theoriebasis (Griffin, Theweleit) und dem Klerikalfaschismus-Netzwerk (Beatrix von Storch, Edmund von Waldstein/JD Vance): Komplementärperspektive zu Redeckers Phantombesitz-Ansatz
+- [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kempers Vortrag mit der Theoriebasis (Griffin, Theweleit) und dem Klerikalfaschismus-Netzwerk (Beatrix von Storch, Edmund von Waldstein/JD Vance): Komplementärperspektive zu Redeckers Phantombesitz-Ansatz
 - [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Parallelanalyse: Strukturen statt Individuen
 - [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Kontrapunkt: weniger pessimistisch
 - [[Denker/Hannah Arendt — Denken ohne Geländer]] — Macht/Gewalt, Totalitarismus-Begriff
@@ -345,10 +345,10 @@ Sie versteht sich nicht als Vorgabe-Geberin, sondern als *Diagnostikerin von Bew
 - [[Steffen Mau — Spaltung der Gesellschaft]] — Maus Meritokratie-Illusion (Arbeiterklasse verteidigt ein System, das gegen ihre Interessen arbeitet) ergänzt Redeckers „Phantombesitz" empirisch: Verteidigung von Privilegien, die man nie hatte
 - [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Maus Gleichbehandlungs-Trigger (Empörung über vermeintliche Privilegierung) ist die empirische Messung von Redeckers „Phantombesitzverteidigung"
 - [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Ebenfalls Jung & Naiv: Steinke beschreibt die rechtliche Dimension der von Redecker analysierten autoritären Tendenzen — wie der Staat über Paragraphen, Verfassungsschutz und selektive Strafverfolgung Grundrechte aushöhlt
-- [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] — Im NANO Talk vertieft Redecker die Faschismus-Analyse um die ökonomisch-feministische Dimension: Sorgearbeit-Entwertung als strukturelle Vorbedingung des Faschismus
+- [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] — Im NANO Talk vertieft Redecker die Faschismus-Analyse um die ökonomisch-feministische Dimension: Sorgearbeit-Entwertung als strukturelle Vorbedingung des Faschismus
 
 ### → [[Yanis Varoufakis — Trump Has Lost Everything]]
 
 Beide analysieren denselben neuen Faschismus: Redecker philosophisch über Eigentum und Gewalt (Phantombesitz, autoritäre Härte), Varoufakis ökonomisch über die zehn Stufen der Machtergreifung. Redeckers Phantombesitz erklärt, *warum* Tech-Oligarchen sich als Eigentümer des Gemeinwesens verstehen — Varoufakis zeigt, *wie* sie als moderne Pendants der Industriellen in den 1920ern die Faschisten finanzieren.
 
-- [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Brown liefert die strukturelle Ursache für das, was Redecker als neuen Faschismus beschreibt: Die neoliberale Zersetzung des demokratischen Imaginären (demos → Konsument) schafft das Vakuum, in das Phantombesitz-Ressentiment fließt. Redeckers Diagnose ist ohne Browns Vorarbeit unvollständig — und Browns Theorie bleibt abstrakt ohne Redeckers Analyse der politischen Konsequenz.
+- [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Brown liefert die strukturelle Ursache für das, was Redecker als neuen Faschismus beschreibt: Die neoliberale Zersetzung des demokratischen Imaginären (demos → Konsument) schafft das Vakuum, in das Phantombesitz-Ressentiment fließt. Redeckers Diagnose ist ohne Browns Vorarbeit unvollständig — und Browns Theorie bleibt abstrakt ohne Redeckers Analyse der politischen Konsequenz.

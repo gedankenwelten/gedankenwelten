@@ -61,10 +61,10 @@ Dezidiert links, marxistisch geprägt in der Kapitalismuskritik. Geht offen dami
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt]] — Ehemaliger Podcast-Partner (Aufwachen!); teilt marxistische Kapitalismuskritik, aber Schmitt ist akademisch-filmkritisch, Jung journalistisch-praktisch
-- [[Gedankenwelten/DenkerVita/Stefan Schulz]] — Aktueller Podcast-Partner (Aufwachen!, Die Neuen Zwanziger); Schulz liefert soziologische Analyse, Jung politische Praxis
-- [[Gedankenwelten/DenkerVita/Maurice Hoefgen]] — Beide fordern radikale Wirtschaftsreform, aber Höfgen aus MMT-Perspektive (Staatsausgaben), Jung aus marxistischer (Enteignung)
-- [[Gedankenwelten/DenkerVita/Heiner Flassbeck]] — Teilt die Diagnose der Nachfragekrise und Vermögensungleichheit; Flassbeck ist keynesianischer Ökonom, Jung politischer Journalist
+- [[DenkerVita/Wolfgang M. Schmitt]] — Ehemaliger Podcast-Partner (Aufwachen!); teilt marxistische Kapitalismuskritik, aber Schmitt ist akademisch-filmkritisch, Jung journalistisch-praktisch
+- [[DenkerVita/Stefan Schulz]] — Aktueller Podcast-Partner (Aufwachen!, Die Neuen Zwanziger); Schulz liefert soziologische Analyse, Jung politische Praxis
+- [[DenkerVita/Maurice Hoefgen]] — Beide fordern radikale Wirtschaftsreform, aber Höfgen aus MMT-Perspektive (Staatsausgaben), Jung aus marxistischer (Enteignung)
+- [[DenkerVita/Heiner Flassbeck]] — Teilt die Diagnose der Nachfragekrise und Vermögensungleichheit; Flassbeck ist keynesianischer Ökonom, Jung politischer Journalist
 
 ---
 

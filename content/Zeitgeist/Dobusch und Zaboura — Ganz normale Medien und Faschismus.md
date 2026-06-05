@@ -24,7 +24,7 @@ Quelle: [re:publica 26 — Ganz normale Medien und ihr Beitrag zum Comeback des 
 >
 > Beide präsentieren auf der re:publica 26 einen systematisch belegten Befund: Nicht nur rechtspopulistische Randmedien, sondern die strukturellen Logiken des Qualitätsjournalismus selbst tragen aktiv zum Erstarken neofaschistischer Politik bei.
 >
-> → [[Gedankenwelten/DenkerVita/Leonhard Dobusch|DenkerVita]] · → [[Gedankenwelten/DenkerVita/Nadia Zaboura|DenkerVita]]
+> → [[DenkerVita/Leonhard Dobusch|DenkerVita]] · → [[DenkerVita/Nadia Zaboura|DenkerVita]]
 
 ---
 
@@ -164,11 +164,11 @@ Der „View from Nowhere" — die Illusion des neutralen, unverstellten Blicks �
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
+### → [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
 
 Gutmairs Algorithmen-Kritik im Bundestalk und Dobusch/Zabouras Strukturanalyse des Mediensystems beschreiben das gleiche Problem auf verschiedenen Ebenen: Dort die redaktionelle Entscheidungslogik, die zu False Balance und Faszinationsjournalismus führt; hier die algorithmische Infrastruktur, die Empörung systematisch über Sachlichkeit stellt. Beide enden beim selben Schluss: Das Problem ist nicht Strafrecht, sondern Plattformarchitektur.
 
-### → [[Gedankenwelten/Denker/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
+### → [[Denker/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
 
 Urners Begriff des Angst-Journalismus benennt die ökonomische Triebkraft hinter dem, was Dobusch/Zaboura als strukturelle Berufslogik beschreiben: Klick-Optimierung erzeugt Katastrophenframes, Katastrophenframes erzeugen Passivität, Passivität begünstigt populistische Narrative — ein Kreis, den Dobusch/Zaboura als Faschismus-Normalisierung beschreiben und Urner als Angst-Kontagion. Urners konstruktiver Journalismus (*Perspective Daily*) ist der direkte institutionelle Gegenvorschlag zu "Performing Balance by Practicing Bias".
 

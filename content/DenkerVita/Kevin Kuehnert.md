@@ -120,11 +120,11 @@ In seiner neuen Rolle bei Finanzwende kritisiert Kühnert die Steuervermeidungsi
 
 Vollständig analysierte Zeitgeist-Notes, in denen Kühnert eine zentrale Rolle spielt:
 
-- [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]] — Kerntext: Kühnerts 6%-Rendite-Vorschlag, Diagnose des Kategorienfehl ers bei Einkommen vs. Vermögen
+- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Kerntext: Kühnerts 6%-Rendite-Vorschlag, Diagnose des Kategorienfehl ers bei Einkommen vs. Vermögen
 
 *Weitere Verweise auf Kühnert (indirekt):*
-- [[Gedankenwelten/Denker/Martyna Linartas — Unverdiente Ungleichheit]] — Parallele Diagnose zu Erbschaftsprivileg
-- [[Gedankenwelten/Zeitgeist/Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] — Kontextuelle Kritik: Warum Kühnerts eigene Partei seine Forderungen blockiert
+- [[Denker/Martyna Linartas — Unverdiente Ungleichheit]] — Parallele Diagnose zu Erbschaftsprivileg
+- [[Zeitgeist/Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] — Kontextuelle Kritik: Warum Kühnerts eigene Partei seine Forderungen blockiert
 
 ---
 
@@ -148,7 +148,7 @@ Vollständig analysierte Zeitgeist-Notes, in denen Kühnert eine zentrale Rolle 
 > Finanzwende-Pressemitteilung + taz-Interview (Januar 2025): Kühnert übernahm die Position Bereichsleiter Steuern/Verteilung/Lobbyismus im Dezember 2024 / Januar 2025.
 
 > [!success] Bestätigt — 6%-Rendite-Vorschlag im Studio-Bonn-Panel
-> Siehe [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]], Min. 96:29–99:35. Kühnert beschreibt die fiktive 6%-Rendite-Unterstellung als elegant und praktikabel.
+> Siehe [[Zeitgeist/Studio Bonn — Extremer Reichtum]], Min. 96:29–99:35. Kühnert beschreibt die fiktive 6%-Rendite-Unterstellung als elegant und praktikabel.
 
 > [!warning] Vereinfacht — "Burnout und politische Bedrohungen"
 > Kühnert hat sich offiziell zu "gesundheitlichen Gründen" zurückgezogen und erwähnte öffentlich psychische Belastung. Politische Bedrohungen sind real (als öffentlicher Politiker), aber nicht explizit als Burnout-Grund von ihm benannt — diese Kombination ist eine sinnvolle Interpretation, aber nicht exakt verifizierbar.
@@ -167,4 +167,4 @@ Vollständig analysierte Zeitgeist-Notes, in denen Kühnert eine zentrale Rolle 
 - [taz — Was macht Kevin Kühnert jetzt?](https://taz.de/Was-macht-Kevin-Kuehnert-jetzt-Der-SPD-Politiker-nach-seinem-Rueckzug-im-Interview/!6150969/)
 
 **Zentrale Debatte:**
-- [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]] — Vollständiges Panel mit Kühnerts Kernthesen
+- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Vollständiges Panel mit Kühnerts Kernthesen

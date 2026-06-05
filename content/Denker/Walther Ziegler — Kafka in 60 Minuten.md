@@ -18,14 +18,14 @@ aliases:
 Quelle: [Kafka in 60 Minuten (Kafka als Philosoph)](https://www.youtube.com/watch?v=dW-WTPkkDkw)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Denker lebendig und ohne akademischen Jargon einem breiten Publikum zugänglich macht. Im Kafka-Vortrag gelingt Ziegler etwas Ungewöhnliches: Er zeigt den meistgelesenen deutschen Schriftsteller nicht als Literaten, sondern als philosophischen Anthropologen — und leitet aus seinem Werk eine Theorie zwischenmenschlicher Beziehung ab. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Denker lebendig und ohne akademischen Jargon einem breiten Publikum zugänglich macht. Im Kafka-Vortrag gelingt Ziegler etwas Ungewöhnliches: Er zeigt den meistgelesenen deutschen Schriftsteller nicht als Literaten, sondern als philosophischen Anthropologen — und leitet aus seinem Werk eine Theorie zwischenmenschlicher Beziehung ab. → [[DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Franz Kafka** (*1883, Prag — †1924, Kierling bei Wien*) — Sohn eines dominanten Geschäftsmanns, der seinen sensiblen, schreibenden Jungen nie in seiner Eigentlichkeit erkannte. Studierte Jura in Prag, arbeitete 14 Jahre lang acht Stunden täglich bei der Arbeiter-Unfall-Versicherung — und schrieb nachts, was ihn am Leben hielt: sein *„nächtliches Gekritzel"*. Drei Verlobungen, alle gescheitert. 1917 Tuberkulose-Diagnose, 1924 daran gestorben. Bat seinen Freund Max Brod, alles zu verbrennen — Brod tat das Gegenteil und machte Kafka posthum zum meistinterpretierten Autor der Weltliteratur. Über fünf Millionen wissenschaftliche Arbeiten existieren zu seinem Werk. Er ist der einzige Schriftsteller, der ein Adjektiv in die Alltagssprache eingebracht hat: *kafkaesk*.
 >
 > Wichtigste Werke: *Die Verwandlung* (1915), *Der Prozess* (1914/15, postum 1925), *Das Schloss* (1922, postum 1926), *Das Urteil* (1912), *Brief an den Vater* (1919, nie abgeschickt)
 > Kernkonzepte: Seil-Metapher (existenzielle Angewiesenheit), Totsagen / sozialer Tod, Kafkaeskes Ausgeliefertsein, Seinszuspruch und Potenzialität
 >
-> → [[Gedankenwelten/DenkerVita/Franz Kafka|DenkerVita]]
+> → [[DenkerVita/Franz Kafka|DenkerVita]]
 
 ---
 

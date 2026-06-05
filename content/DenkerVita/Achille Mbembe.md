@@ -8,7 +8,7 @@ tags: [denker-vita, philosophie, postkolonialismus, geopolitik, demokratie]
 > [!info] Wer spricht?
 > **Achille Mbembe** (geb. 1957 in Otélé, Kamerun) — Kamerunischer Historiker und Politiktheoretiker, Research Professor für Geschichte und Politik am Wits Institute for Social and Economic Research der University of the Witwatersrand (Johannesburg, Südafrika). Träger des Holberg Prize 2024 für sein Lebenswerk über Kolonialismus, Macht, Gedächtnis und die Möglichkeiten einer planetaren Ethik. Führender Vertreter der zeitgenössischen französischen Kritischen Theorie.
 > 
-> → [[Gedankenwelten/DenkerVita/Achille Mbembe|DenkerVita]]
+> → [[DenkerVita/Achille Mbembe|DenkerVita]]
 
 ---
 
@@ -87,7 +87,7 @@ Seit 2000 ist Mbembe **Research Professor am Wits Institute for Social and Econo
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]]
+- [[Zeitgeist/Mbembe — The Earthly Community]]
 
 ---
 

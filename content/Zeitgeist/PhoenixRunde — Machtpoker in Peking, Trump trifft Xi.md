@@ -24,7 +24,7 @@ Quelle: [phoenixRunde — Machtpoker in Peking: Trump trifft Xi](https://www.you
 > **Moderation: Anke Plättner** (phoenix)
 >
 > **Frank Sieren** (*1967, Saarbrücken*) — Journalist, Dokumentarfilmer, Bestseller-Autor. Handelsblatt-Korrespondent in Peking, wo er seit 1994 lebt — 32 Jahre vor Ort, längstdienender westlicher Wirtschaftsjournalist in China. Hat Dutzende Bücher über Chinas Aufstieg geschrieben (*Der China Code*, *Zukunft? China!*, *Shenzhen*). Kernthese: China ist kein Drama, sondern Realität des 21. Jahrhunderts — verstehen statt verdammen. Umstritten wegen seines wohlwollenden Blicks auf chinesische Rationalität.
-> → [[Gedankenwelten/DenkerVita/Frank Sieren|DenkerVita]]
+> → [[DenkerVita/Frank Sieren|DenkerVita]]
 >
 > **Prof. Thomas Jäger** — Professor für internationale Politik und Außenpolitik an der Universität Köln. Spezialisiert auf US-Außenpolitik und internationale Ordnung.
 >
@@ -198,39 +198,39 @@ Menschenrechte? „Interessiert Trump nicht und interessiert natürlich China ni
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
+### → [[Zeitgeist/PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
 
 Direkte Fortsetzung: Die Schwächung der USA durch den Irankrieg ist der zentrale Kontext für Trumps geschwächte Verhandlungsposition in Peking. Was dort als „fehlende Strategie" analysiert wurde, zeigt sich hier als strukturelle Unterlegenheit.
 
-### → [[Gedankenwelten/Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
+### → [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
 
 Nico Lange analysierte das gleiche Phänomen: Trump verliert die strategische Kontrolle. Hier bestätigt das internationaler Kontext — Chinas Kalkül setzt genau auf diese Schwäche.
 
-### → [[Gedankenwelten/Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen]]
+### → [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen]]
 
 Das innenpolitische Bild ergänzt das außenpolitische: Wenn Trumps Basis die Kosten des Irankrieges spürt (Inflation, Energie), schwindet die Rückendeckung — und damit auch seine Verhandlungsmacht gegenüber Xi.
 
-### → [[Gedankenwelten/Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN]]
+### → [[Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN]]
 
 Hein analysiert dieselbe Epochenwende: Wirtschaft als geopolitische Waffe statt Mittel des Friedens, das Ende von „Wandel durch Handel". Die Dix-Logik — auf Trump angewendet — macht erst verständlich, warum Beef-Beans-Boeing als Maximalziel erscheint.
 
-### → [[Gedankenwelten/Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa]]
+### → [[Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa]]
 
 Krastev entfaltet den Zeithorizontkonflikt, den die PhoenixRunde beschreibt: Trump mit dem Zeithorizont kurzfristiger Wahldynamiken gegen Xi, der in Dekaden denkt. Chinas „langer Atem" hat bei Krastev sein philosophisches Fundament.
 
-### → [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Trump Has Lost Everything]]
+### → [[Zeitgeist/Yanis Varoufakis — Trump Has Lost Everything]]
 
 Varoufakis formuliert dieselbe Kernthese aus unabhängiger Perspektive: Der Irankrieg ist der Moment, an dem Trump die strategische Initiative an China verlor. Beide Notes konvergieren darin, dass die MAGA-Basis durch „forever war" erodiert — und Xi diese Schwäche im Gipfel abgelesen hat.
 
-### → [[Gedankenwelten/Zeitgeist/Tim Meyer und Jan Hegenberg — China Energiewende]]
+### → [[Zeitgeist/Tim Meyer und Jan Hegenberg — China Energiewende]]
 
 Erklärt, warum China das Ass der Seltenen Erden überhaupt in der Hand hält: 20-jährige Fünfjahresplan-Strategie in grüner Technologie. Die PhoenixRunde benennt das Machtinstrument — diese Note zeigt den industriepolitischen Aufbau dahinter.
 
-### → [[Gedankenwelten/Zeitgeist/Bundestalk — Iran USA und die Strasse von Hormus]]
+### → [[Zeitgeist/Bundestalk — Iran USA und die Strasse von Hormus]]
 
 Direkte Mikro-Ökonomie: Die Hormuz-Blockade kostet 20% des Weltölhandels und gibt dem globalen Süden jeden Anlass, BRICS-Alternativen zu suchen — das ist der konkrete Hebel hinter dem Makro-Argument der PhoenixRunde.
 
-### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]]
+### → [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]]
 
 Zhao Tingyangs Tianxia-Konzept ist Chinas philosophische Antwort auf die liberale Weltordnung: hierarchisches Koexistenzmodell statt Nationalstaaten-Konkurrenz. Was die PhoenixRunde als Chinas „strategische Überlegenheit" beschreibt, hat in Zhao seinen intellektuellen Unterbau — Xi denkt in Kategorien, die westliche Verhandlungsführer nicht kennen.
 

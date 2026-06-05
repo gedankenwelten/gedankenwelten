@@ -326,10 +326,10 @@ Smith forderte Abschaffung der Zünfte und Gilden — Kehnel zeigt, dass deren C
 Öffentliche Räume als Refugien der Leichtigkeit — Kehnels Commons als historisches Vorbild.
 
 
-### → [[Gedankenwelten/Panorama/Demokratische Wertschoepfung]]
+### → [[Panorama/Demokratische Wertschoepfung]]
 
 Kehnels Commons-Forschung und Ostrom-Referenz sind das historische Fundament des Panoramas: Gemeinschaftliches Wirtschaften ist kein modernes Experiment, sondern eine erprobte Organisationsform mit Jahrhunderten Praxis.
 
-### → [[Gedankenwelten/Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]]
+### → [[Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]]
 
 Marquardt entwickelt eine Kulturgeschichte der Beschleunigung, für die Kehnels Mittelalter-Befunde das historische Gegenmaterial liefern: Vor Newton gab es keine absolute, lineare Zeit — es gab liturgische Zeit, Jahreszeitenrhythmus, Commons-Denken. Marquardt zeigt, was verloren ging; Kehnel zeigt, dass es konkret existierte.

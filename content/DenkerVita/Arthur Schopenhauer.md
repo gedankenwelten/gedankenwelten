@@ -94,10 +94,10 @@ Philosophisch steht er zwischen den Stühlen: antihegelianisch (gegen Fortschrit
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel]] — Schopenhauers großer Antagonist: Hegel sieht in der Geschichte den Fortschritt des Weltgeistes zur Freiheit; Schopenhauer sieht nur die endlose Wiederholung des blinden Willens. „Hegel ist ein Scharlatan" — Schopenhauer machte aus seiner Verachtung kein Hehl
-- [[Gedankenwelten/DenkerVita/Erich Fromm]] — Fromms Kritik am „Haben-Modus" ist Schopenhauers Bedürfniskritik in soziologischer Sprache: Wer sich über Besitz definiert, bleibt Sklave des Wollens
-- [[Gedankenwelten/DenkerVita/Michel Foucault]] — Beide Denker teilen eine tiefe Skepsis gegenüber der Idee, dass die Vernunft den Menschen befreit — Foucault analysiert die Machtstrukturen, Schopenhauer den blinden Willen dahinter
-- [[Gedankenwelten/DenkerVita/Niklas Luhmann]] — Luhmanns systemtheoretische Abkühlung des Aufklärungspathos hat Berührungspunkte mit Schopenhauers Pessimismus: Beide lehnen Heilsversprechen ab, beide sehen die Welt als selbstreferenzielles System ohne externen Sinn
+- [[DenkerVita/Georg Wilhelm Friedrich Hegel]] — Schopenhauers großer Antagonist: Hegel sieht in der Geschichte den Fortschritt des Weltgeistes zur Freiheit; Schopenhauer sieht nur die endlose Wiederholung des blinden Willens. „Hegel ist ein Scharlatan" — Schopenhauer machte aus seiner Verachtung kein Hehl
+- [[DenkerVita/Erich Fromm]] — Fromms Kritik am „Haben-Modus" ist Schopenhauers Bedürfniskritik in soziologischer Sprache: Wer sich über Besitz definiert, bleibt Sklave des Wollens
+- [[DenkerVita/Michel Foucault]] — Beide Denker teilen eine tiefe Skepsis gegenüber der Idee, dass die Vernunft den Menschen befreit — Foucault analysiert die Machtstrukturen, Schopenhauer den blinden Willen dahinter
+- [[DenkerVita/Niklas Luhmann]] — Luhmanns systemtheoretische Abkühlung des Aufklärungspathos hat Berührungspunkte mit Schopenhauers Pessimismus: Beide lehnen Heilsversprechen ab, beide sehen die Welt als selbstreferenzielles System ohne externen Sinn
 
 ---
 

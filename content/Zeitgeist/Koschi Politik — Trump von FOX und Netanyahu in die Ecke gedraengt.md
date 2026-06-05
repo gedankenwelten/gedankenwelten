@@ -20,7 +20,7 @@ Quelle: [Trump von FOX und Netanyahu in die Ecke gedrängt! Explodiert auf TRUTH
 > [!info] Wer spricht?
 > **Manuel (Koschi Politik)** lebt seit rund 9 Jahren in Buffalo, New York, und erklärt für ein deutschsprachiges Publikum, was in den USA wirklich passiert — verständlich, kritisch, faktenbasiert. Kein Mainstream-Medium, sondern unabhängiger Journalismus mit Vor-Ort-Perspektive. Der Kanal zählt ca. 24.900 Abonnenten und 4 Mio. Gesamtaufrufe.
 >
-> → [[Gedankenwelten/DenkerVita/Manuel Koschi Politik|DenkerVita]]
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

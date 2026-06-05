@@ -66,4 +66,4 @@ Sie ist eine Kritikerin des Neoliberalismus (Dauerkrise, Angst-Politik) und eine
 
 *(Alle Notes im Vault die diese Person behandeln)*
 
-- [[Gedankenwelten/Denker/Maren Urner — Radikal hoffnungsvoll|Radikal hoffnungsvoll — re:publica 26 (2026)]]
+- [[Denker/Maren Urner — Radikal hoffnungsvoll|Radikal hoffnungsvoll — re:publica 26 (2026)]]

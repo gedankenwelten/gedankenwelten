@@ -168,7 +168,7 @@ Bria dokumentiert, wie das Modell bereits nach Europa exportiert wird:
 - [[Adam Tooze — Pentagon vs. Anthropic]] — Tooze analysiert dieselbe Pentagon-KI-Dynamik aus wirtschaftshistorischer Perspektive; ergänzt Brias Netzwerkkartierung
 - [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] — Osnos gibt Brias Abstraktion journalistisches Fleisch: "CEO of humanity", Citizens United, DOGE als Selbst-Regulierungsabbau — das sind die konkreten Manifestationen von Brias "Authoritarian Stack" durch Personen, die Osnos direkt getroffen hat.
 - [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Redeckers Phantombesitz-Begriff und Brias Privatized Sovereignty sind strukturell parallel: beides beschreibt Machtansprüche, die sich durch vermeintliche Eigentumsverhältnisse legitimieren
-- [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]] — Varoufakis liefert die ökonomische Ur-Erklärung für Brias Stack: Cloud Capital entstand durch QE-Liquidität nach 2008. "Privatized sovereignty" (Bria) und "Technofeudalism" (Varoufakis) benennen denselben Machttransfer auf verschiedenen Akteursebenen.
+- [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]] — Varoufakis liefert die ökonomische Ur-Erklärung für Brias Stack: Cloud Capital entstand durch QE-Liquidität nach 2008. "Privatized sovereignty" (Bria) und "Technofeudalism" (Varoufakis) benennen denselben Machttransfer auf verschiedenen Akteursebenen.
 - [[Hannah Arendt — Denken ohne Geländer]] — Brias Beobachtung, dass „Democracy persists as a legacy interface" ist eine konkrete Realisierung von Arendts Warnung vor totaler Herrschaft ohne Widerspruch
 - [[Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck erklärt die ökonomische Basis (Finanzkrise → Vermögenskonzentration); Bria zeigt, wie diese Konzentration jetzt direkt in Staatsmacht umgewandelt wird
 - [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026]] — Flemig zeigt Brias These konkret: Musk entzieht russischen Truppen den Starlink-Zugang — privatisierte Infrastruktur als Kriegswaffe, die einem einzelnen Tech-Milliardär obliegt
@@ -186,18 +186,18 @@ Grenzgänger Studios erzählt investigativ, was Bria als Netzwerkkarte abstrahie
 
 Varoufakis liefert die ökonomische Erklärung für Brias Authoritarian Stack: Cloud Capital entstand nicht durch geniale Unternehmer, sondern durch QE-Liquidität nach 2008. Bria kartiert die politische Machtstruktur; Varoufakis erklärt, warum diese Struktur ökonomisch zwangsläufig entstand — Profit wird zu Tribut, Märkte werden durch Plattformen ersetzt, Kapitalismus mutiert zu Technofeudalism.
 
-### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Kurz und Görlitz dokumentieren Brias "State Capture" als konkreten Vertragstext: Der Palantir-Vertrag in Baden-Württemberg (25 Mio. Euro, ohne Ausstiegsklausel) *vor* dem Polizeigesetz ist Vendor Lock-in als politische Fait Accompli — das Geld erzeugt den Willen, nicht umgekehrt.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Kloibers „Invisibility by Design" ist Brias Subcontracting-Kette von unten gesehen: Wer an Verantwortungsverschleppung nicht interessiert ist, baut Systeme, in denen 150–430 Mio. Data Workers strukturell unsichtbar bleiben. Bria kartiert die Machtarchitektur oben; diese Note zeigt, wen sie unten trifft.
 
-### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 
 Büttner und Kaufmann beschreiben den operativen Gegenentwurf zu Brias Authoritarian Stack: European AI as sovereign infrastructure (Alpine AI, Swiss GPT). Die Ironie: Büttners Forderung nach Techmilliardären als Bedingung für Souveränität reproduziert strukturell das Muster, das Bria kritisiert — dieselbe Logik, nur mit europäischen Protagonisten.
 
-### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
 Gehring & Gießmann zeigen denselben Privatisierungs-Mechanismus im europäischen Zahlungsraum: Mastercard kaufte 2003 die Eurocard, US-Konzerne dominieren 60–66% der grenzüberschreitenden Zahlungen. Was Bria "Privatized Sovereignty" nennt, beschreibt Gießmann als "Souveränitätsverlust durch Übernahme". Die Ergänzung: Bria zeigt die US-Binnenperspektive (Staat gibt bewusst ab), Gehring/Gießmann die europäische Außenperspektive (Kontinent verliert, weil kein politischer Schutz vorhanden).

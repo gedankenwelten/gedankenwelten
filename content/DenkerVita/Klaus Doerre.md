@@ -136,7 +136,7 @@ Seine Kritik an der **Boomer-Gerontokratie-These** ist charakteristisch: Sie gre
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+- [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 
 ---
 

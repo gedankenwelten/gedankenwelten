@@ -20,7 +20,7 @@ Quelle: [Verbal Thinking and Neo-Enlightenment | Professor Zhao Tingyang](https:
 > [!info] Wer spricht?
 > **Zhao Tingyang** (赵汀阳, *geb. 1961, Shantou, Guangdong*) — Research Professor am Institut für Philosophie der Chinesischen Akademie der Sozialwissenschaften (CASS). Berggruen Fellow 2018–2019. Bekannt durch seine Tianxia-Weltordnungstheorie (*Alles unter dem Himmel*, Suhrkamp 2020); dieser Vortrag zeigt eine andere Seite: den Sprachphilosophen und Erkenntnistheoretiker, der sich seit seinem Buch *One or All Problem* (1998) mit dem Problem des verbalen Denkens beschäftigt.
 >
-> → [[Gedankenwelten/DenkerVita/Zhao Tingyang|DenkerVita]]
+> → [[DenkerVita/Zhao Tingyang|DenkerVita]]
 >
 > **Sun Xiangchen** — Professor für Philosophie, Fudan Universität Shanghai; Berggruen Fellow 2024–2025. Moderiert das Gespräch und stellt Zwischenfragen.
 
@@ -146,31 +146,31 @@ Neo-Aufklärung bedeutet: nicht das Nomen-Denken aufgeben (das wäre absurd — 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang — Tianxia und die Bedeutungen der Demokratie]]
+### → [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang — Tianxia und die Bedeutungen der Demokratie]]
 Beide Notes zeigen denselben Denker in verschiedenen Modi. Dort: Zhao als politischer Philosoph und Weltordnungstheoretiker. Hier: Zhao als Sprachphilosoph und Erkenntnistheoretiker. Die Verbindung ist tiefer als nur „derselbe Autor": Zhaos ontologischer Ausgangspunkt in der Tianxia-Note (Koexistenz als Grundbedingung des Seins) und sein Verb-Denken hängen zusammen — wer von Koexistenz-als-Sein ausgeht, braucht eine Philosophie des Werdens, nicht des Seins.
 
-### → [[Gedankenwelten/Denker/Walther Ziegler — Konfuzius in 60 Minuten|Konfuzius in 60 Minuten]]
+### → [[Denker/Walther Ziegler — Konfuzius in 60 Minuten|Konfuzius in 60 Minuten]]
 Zhaos Verb-Denken hat eine klassische chinesische Vorgeschichte: Das chinesische Schriftzeichen 仁 (Ren, Mitmenschlichkeit) ist selbst relational — Mensch plus Zwei — keine Substanz, sondern eine Beziehung. Konfuzius dachte in Prozessen und Beziehungen, nicht in westlichen Substanzkategorien. Zhao reaktiviert diese Intuition mit dem Werkzeug moderner Sprachphilosophie.
 
-### → [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit|Lyotard — Das Ende der Wahrheit]]
+### → [[Denker/scobel — Lyotard das Ende der Wahrheit|Lyotard — Das Ende der Wahrheit]]
 Lyotard hat mit der Dekonstruktion der Meta-Erzählungen das statische Klasifikationsdenken philosophisch angegriffen — auch er sah das Problem der Noun-Dominanz, ohne es sprachphilosophisch so zu benennen. Aber wo Lyotard bei der Diagnose bleibt (Inkommensurabilität der Sprachspiele), versucht Zhao ein konstruktives Programm: Verb-Logik als neue Meta-Sprache. Die Frage ist, ob das nicht selbst wieder eine Meta-Erzählung wird.
 
-### → [[Gedankenwelten/Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus]]
+### → [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus]]
 Gabriel spricht von einer „zweiten Aufklärung" mit ethischen Parametern. Zhao spricht von „Neo-Aufklärung" mit kognitiven Parametern. Beide diagnostizieren, dass die erste Aufklärung an ihre Grenzen stößt — aber aus verschiedenen Richtungen. Gabriels Diagnose: Wir brauchen andere Werte. Zhaos Diagnose: Wir brauchen eine andere Denkform. Vielleicht sind beide Dimensionen nicht trennbar.
 
-### → [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Technofeudalism|Varoufakis — Technofeudalism]]
+### → [[Zeitgeist/Yanis Varoufakis — Technofeudalism|Varoufakis — Technofeudalism]]
 Varoufakis und Zhao teilen die Beobachtung, dass KI und Technologie qualitativ neue Phänomene produzieren, die mit alten Kategorien nicht erfassbar sind — Varoufakis nennt es Feudalismus statt Kapitalismus, Zhao nennt es das Scheitern des Nomen-Denkens. Beide suchen neue konzeptionelle Werkzeuge. Aber Varoufakis vertraut dem politischen Begriff (Feudalismus), Zhao vertraut dem philosophischen Strukturprinzip (Verb-Logik).
 
-### → [[Gedankenwelten/Zeitgeist/Markus Gabriel — KI als Resonanzfeld und Mu|Markus Gabriel — KI als Resonanzfeld und Mu (scobel)]]
+### → [[Zeitgeist/Markus Gabriel — KI als Resonanzfeld und Mu|Markus Gabriel — KI als Resonanzfeld und Mu (scobel)]]
 Gabriel entwickelt über den japanischen Begriff *Mu* eine fast deckungsgleiche Diagnose: Westliches Denken ist substanzfixiert (Dinge mit Eigenschaften), während Mu — wie Zhaos Verb-Denken — Relationen und Prozesse als primär setzt. Gabriels Satz „KI ist nicht im Gerät, sondern im Resonanzfeld" ist eine angewandte Verb-Ontologie: Existenz als Geschehen zwischen Dingen, nicht als Zustand in Dingen. Gleichzeitig zeigt die Note einen produktiven Widerspruch: Gabriel operiert weiterhin mit Hegelscher Begrifflichkeit — also mit einer hochentwickelten *Nomen*-Logik, die Bewegung nur dialektisch, nicht wirklich verbal denkt.
 
-### → [[Gedankenwelten/Zeitgeist/Hartwin Maas — Bildung NEU DENKEN|Hartwin Maas — Bildung NEU DENKEN]]
+### → [[Zeitgeist/Hartwin Maas — Bildung NEU DENKEN|Hartwin Maas — Bildung NEU DENKEN]]
 Maas' Unterscheidung Bild-Denker vs. Sprach-Denker ist eine empirische Bestätigung von Zhaos philosophischer These: Sprache ist nomenbasiert und bevorzugt Sprach-Denker systematisch — Bild-Denker (Mandelbrot, Grandin) arbeiten in einem Modus, der dem Verb-Denken näher ist: Prozesse, Transformationen, räumliche Dynamiken vor statischen Kategorien. Zhaos Neo-Aufklärung müsste daher nicht nur neue Logik-Systeme entwickeln, sondern auch neue Bildungssysteme — denn das paläolithische Sprachsystem, das er kritisiert, wird genau im Bildungsapparat reproduziert.
 
-### → [[Gedankenwelten/Denker/Andreas Zimpel — Neurodiversität|Andreas Zimpel — Neurodiversität]]
+### → [[Denker/Andreas Zimpel — Neurodiversität|Andreas Zimpel — Neurodiversität]]
 Zimpels Kernbefund — dass etwa die Hälfte der Menschen Bild-Denker sind und das Schulsystem sie systematisch benachteiligt, weil es auf Sprache ausgerichtet ist — ist die neurobiologische Untermauerung von Zhaos Sprachkritik. Wenn Nomina-Sprache den Denkraum seit dem Paläolithikum einengt, dann ist Neurodiversität kein Rand-Phänomen, sondern das Auftauchen alternativer Kognitionsmodi, die das herrschende Sprachparadigma nicht abbildet. Mandelbrots Apfelmännchen — zuerst gesehen, dann bewiesen — ist ein konkreter Fall von Verb-Erkenntnis: Prozess vor Begriff.
 
-### → [[Gedankenwelten/Denker/Albert Moukheiber — Mein Hirn und die anderen|Moukheiber — Mein Hirn und die anderen]]
+### → [[Denker/Albert Moukheiber — Mein Hirn und die anderen|Moukheiber — Mein Hirn und die anderen]]
 Moukheibers Befund, dass das Gehirn sozial vor kognitiv ist — Gesichtserkennung entsteht vor Sprache, Theory of Mind vor Abstraktion — ergänzt Zhaos evolutionsphilosophische Diagnose mit neurobiologischem Rückhalt. Wenn das Gehirn zuerst relationales Wahrnehmen entwickelt und Sprache erst sekundär aufbaut, dann ist Zhaos Hypothese plausibel: Nomina-Dominanz ist ein historisches Artefakt, keine kognitive Notwendigkeit. Gleichzeitig stellt das eine Frage an Neo-Aufklärung: Wenn paläolithisches Denken so tief ins soziale Gehirn eingebaut ist, wird Philosophie es verändern — oder braucht es veränderte Praxis und Werkzeuge?
 
 ---

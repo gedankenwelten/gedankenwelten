@@ -118,7 +118,7 @@ Verbundene Notes: [[Heiner Flassbeck — Merz Rentenluege und globale Ungleichhe
 ---
 
 
-### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
+### → [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 
 phoenixRunde Reformen 2026 als politische Kontroverse in Echtzeit — die Argumente von Butterwegge (Erwerbstätigenversicherung, Demografiemythos, Altersarmut 19,1%), Völz (Strukturreform) und Tutt (Zielgenauigkeit) sind die Konfliktlinien, die das Panorama strukturell abbildet.
 ## Notes

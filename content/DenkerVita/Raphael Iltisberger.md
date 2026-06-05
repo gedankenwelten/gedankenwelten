@@ -54,4 +54,4 @@ Futures Literacy operiert nicht mit Punkt-Vorhersagen, sondern mit Szenarien und
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]] — re:publica 26, gemeinsam mit Georgina Neitzel
+- [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]] — re:publica 26, gemeinsam mit Georgina Neitzel

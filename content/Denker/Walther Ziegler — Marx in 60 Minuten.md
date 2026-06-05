@@ -19,14 +19,14 @@ aliases:
 Quelle: [Marx in 60 Minuten](https://www.youtube.com/watch?v=thoI8naBo4E)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Wie bei seinen Vorträgen zu [[Walther Ziegler — Hegel in 60 Minuten|Hegel]], [[Walther Ziegler — Adorno in 60 Minuten|Adorno]] und [[Walther Ziegler — Nietzsche in 60 Minuten|Nietzsche]] verbindet Ziegler auch hier philosophische Tiefe mit klarer, alltagsnaher Sprache — von Wikingergottes bis zum Supermarktregal. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Philosophen einem breiten Publikum zugänglich macht. Wie bei seinen Vorträgen zu [[Walther Ziegler — Hegel in 60 Minuten|Hegel]], [[Walther Ziegler — Adorno in 60 Minuten|Adorno]] und [[Walther Ziegler — Nietzsche in 60 Minuten|Nietzsche]] verbindet Ziegler auch hier philosophische Tiefe mit klarer, alltagsnaher Sprache — von Wikingergottes bis zum Supermarktregal. → [[DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Karl Marx** (*1818, Trier — †1883, London*) — der wohl wirkungsmächtigste Philosoph der Neuzeit. Sohn eines zum Protestantismus konvertierten jüdischen Anwalts, studierte Marx Jura und Philosophie in Bonn und Berlin, wurde Zeitungsredakteur, Emigrant und schließlich mittelloser Gelehrter im Londoner Exil. Gemeinsam mit Friedrich Engels entwickelte er eine Philosophie, die ein Drittel der Menschheit in Revolutionen stürzte und bis heute jede Debatte über Kapitalismus, Ungleichheit und Klassenkampf prägt.
 >
 > Wichtigste Werke: *Die deutsche Ideologie* (1845/46, mit Engels), *Kommunistisches Manifest* (1848, mit Engels), *Das Kapital* (Band 1, 1867)
 > Kernkonzepte: Historischer Materialismus, Basis-Überbau-Theorie, Mehrwerttheorie, Akkumulation, Verelendung, Klassenkampf, Entfremdung
 >
-> → [[Gedankenwelten/DenkerVita/Karl Marx|DenkerVita]]
+> → [[DenkerVita/Karl Marx|DenkerVita]]
 
 ---
 
@@ -197,4 +197,4 @@ Quelle: [Marx in 60 Minuten](https://www.youtube.com/watch?v=thoI8naBo4E)
 - [[Walther Ziegler — Habermas in 60 Minuten]] — Habermas antwortet auf Marx: Nicht der Klassenkampf, sondern die Sprache ist der Motor der Geschichte. Habermas übernimmt Marx' Kritik an instrumenteller Rationalität (Kolonialisierung der Lebenswelt durch Markt und Bürokratie), löst aber das Emanzipationspotenzial aus der Ökonomie heraus und verortet es in der kommunikativen Vernunft — kein Endziel, aber eine Richtung.
 - [[Walther Ziegler — Camus in 60 Minuten]] — Camus kritisiert Marx direkt: Die Idee eines Endziels der Geschichte ist eine unzulässige Sinnerklärung, die ganze Generationen verheizt. Der historische Materialismus als säkulare Heilslehre — nicht weniger eine Flucht als die Religion
 - [[Kojin Karatani — Tauschformen und die Ueberwindung der Triade]] — Karatani ist der schärfste zeitgenössische Marx-Kritiker aus dem marxistischen Lager: Marx behandelte Staat und Nation als bloßen Überbau des Kapitals. Karatani zeigt, warum genau das alle Revolutionen scheitern ließ — Staat und Nation sind eigenständige Tausch-Modi (B und A), keine Ableitung von Mode C.
-- [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] — Schaupp greift implizit Marx' "Maschinenfragment" auf: Technologie erhöht nie die Freizeit, sondern die Verhandlungsmacht des Kapitals. NANO liefert den aktuellen Beweis für KI.
+- [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] — Schaupp greift implizit Marx' "Maschinenfragment" auf: Technologie erhöht nie die Freizeit, sondern die Verhandlungsmacht des Kapitals. NANO liefert den aktuellen Beweis für KI.

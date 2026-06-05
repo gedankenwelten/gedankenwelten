@@ -145,20 +145,20 @@ Spiegelbildliche Methodik: Buchinger entlarvt statistische Manipulation pro Kern
 
 Die 47 % Erneuerbaren-Kapazität in Bürgerhand ist das stärkste Gegenargument zur Lanz-These „Energiewende dreht sich im Kreis": Was medial als Scheitern geframt wird, ist dezentral bereits Realität.
 
-### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
+### → [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
 
 Spechts "Primärenergieirrtum" ist die systemische Erklärung für Akkudoktors "Primärenergie-Falle": Beide benennen denselben statistischen Mechanismus, mit dem effiziente Erneuerbare kleiner erscheinen als sie sind — Specht von der ökonomischen, Akkudoktor von der medienkritischen Seite.
 
-### → [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
+### → [[Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]]
 
 Wo Akkudoktor die Statistik-Falle entlarvt, zeigt die V2G-Note die regulatorische Falle: Beide Mechanismen machen funktionierende Energielösungen unsichtbar — einer durch Zahlen, einer durch Steuern. Das Ergebnis ist dasselbe: Technologien, die die Energiewende beschleunigen könnten, werden ausgebremst.
 
-### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+### → [[Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
 
 Die Altmaier-Delle hat den PV-Ausbau politisch verlangsamt — die Kontrovers-Note zeigt die nachgelagerte Konsequenz: Betriebe, die jetzt investieren, treffen auf eine Netzinfrastruktur, die nie für dieses Ausmaß ausgelegt wurde. Erst wird ausgebremst, dann fehlt die Infrastruktur.
 
-### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
+### → [[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
 Strukturell parallele Mythen-Dekonstruktion: Fichtner widerlegt Batterie-Mythen im Wissenschafts-Podcast, Akkudoktor widerlegt Energiewende-Mythen im ZDF-Talkshow-Format — beide zeigen denselben Mechanismus (statistische Verzerrung, Cherry-Picking, Interessenlage), nur auf verschiedenen Bühnen.
 
-### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
+### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
 D/Z liefern den akademischen Rahmen für das, was Akkudoktor mit seiner Programmbeschwerde konkret belegt: Bewertungsverlagerung im Qualitätsjournalismus. Lanz lässt Altmeiers rassifizierende Energie-Narrative stehen, weil er sich als neutraler Moderator versteht — das ist D/Zs „Performing balance by practicing bias" in Reinform. Aus Sicht von D/Z ist Lanz kein böser Mensch, sondern ein ganz normaler Journalist, der ganz normal falsch liegt.

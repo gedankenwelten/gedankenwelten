@@ -48,8 +48,8 @@ Konservativ-liberal im Sinne der NZZ-Tradition: marktwirtschaftlich, aufklärung
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Gesine Schwan]] — Schwan denkt Macht demokratisch-partizipativ, Serrao betont die Selbstheilungskräfte bestehender Institutionen
-- [[Gedankenwelten/DenkerVita/Stefan Schulz]] — Beide reflektieren Mediendiskurse, aber mit unterschiedlichem Kompass
+- [[DenkerVita/Gesine Schwan]] — Schwan denkt Macht demokratisch-partizipativ, Serrao betont die Selbstheilungskräfte bestehender Institutionen
+- [[DenkerVita/Stefan Schulz]] — Beide reflektieren Mediendiskurse, aber mit unterschiedlichem Kompass
 
 ---
 

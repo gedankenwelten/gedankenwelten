@@ -19,7 +19,7 @@ aliases:
 
 # Maren Urner — Radikal hoffnungsvoll
 
-![[Gedankenwelten/assets/Maren_Urner_Radikal_Hoffnungsvoll.png]]
+![[assets/Maren_Urner_Radikal_Hoffnungsvoll.png]]
 
 > [!abstract] Worum es geht
 > Hoffnung ist kein Optimismus, sondern eine erlernbare Denkweise aus zwei Zutaten: Willenskraft und Wegkraft (C.R. Snyders Hope Theory). Maren Urner benennt auf der re:publica 26 drei „Pferde der Selbstzerstörung" — Klima, Krieg, Kommunikationsmacht — und setzt dagegen Hoffnung als wissenschaftliches Konzept, nicht als Flucht. Ihre schärfste These: Die eigentliche KI-Gefahr ist nicht, dass Maschinen wie Menschen denken, sondern dass Menschen beginnen, wie Maschinen zu denken.
@@ -34,7 +34,7 @@ Quelle: [re:publica 26 — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals a
 > Wichtigste Werke: *Schluss mit dem täglichen Weltuntergang* (2019), *Raus aus der ewigen Dauerkrise* (2021), *Radikal emotional* (2024)
 > Kernkonzepte: Konstruktiver Journalismus, Hope Theory, dynamisches Denken, Aufmerksamkeitsökonomie
 >
-> → [[Gedankenwelten/DenkerVita/Maren Urner|DenkerVita]]
+> → [[DenkerVita/Maren Urner|DenkerVita]]
 
 ---
 
@@ -223,35 +223,35 @@ Hoffnung ist in diesem Licht das Gegenprogramm zur maschinellen Logik: kreativ, 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld — Warum schweigen die Lämmer?]]
+### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld — Warum schweigen die Lämmer?]]
 
 Urner und Mausfeld diagnostizieren dasselbe Werkzeug — Angst als Herrschaftsmittel — aber landen an entgegengesetzten Enden: Mausfeld sagt, Veränderung kommt erst nach großen Blutspuren und lässt die Handlungsfrage offen; Urner setzt diesem Fatalismus die neurobiologische Hope Theory entgegen. Hoffnung ist kein Gefühl, sondern eine trainierbare kognitive Kapazität. Urner liefert damit den psychologischen Bauplan für genau die Handlungsfähigkeit, die Mausfelds Systemanalyse vermisst.
 
-### → [[Gedankenwelten/Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Quent & Göpel — Extremismus NEU DENKEN]]
+### → [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Quent & Göpel — Extremismus NEU DENKEN]]
 
 Quents empirischer Befund ("Hoffnung kommt vom Machen", 16% Kämpfende halten die Demokratie-Infrastruktur) und Urners neurobiologisches Konzept der Hoffnung als Way Power + Will Power konvergieren auf derselben These: Hoffnung ist keine Haltung, sondern eine Praxis. Göpels Forwardlash-Begriff spiegelt Urners drittes Pferd der Selbstzerstörung — Kommunikationskontrolle als bewusste Strategie der Machtsicherung.
 
-### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus|Dobusch & Zaboura — Ganz normale Medien]]
+### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus|Dobusch & Zaboura — Ganz normale Medien]]
 
 Beide re:publica-26-Vorträge beschreiben dasselbe Medienproblem aus verschiedenen Winkeln: Dobusch/Zaboura analysieren, wie Berufslogiken faschistische Narrative normalisieren (Performing Balance by Practicing Bias); Urner benennt mit "Angst-Journalismus" und "Attention Bros" die ökonomische Antriebskraft dahinter. Urners konstruktiver Journalismus ist der direkte Gegenentwurf zu dem, was Dobusch/Zaboura als strukturelle Mittäterschaft beschreiben.
 
-### → [[Gedankenwelten/Zeitgeist/Maja Goepel — Mut zur Zukunft|Göpel — Mut zur Zukunft]]
+### → [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Göpel — Mut zur Zukunft]]
 
 Göpels Agency-Konzept gegen Ohnmacht und Urners Hoffnung als neurobiologisch trainierbare Kapazität beschreiben denselben Befund von zwei Seiten — Göpel aus der politischen Ökonomie, Urner aus der Kognitionswissenschaft. Beide benennen Positive Money als konkretes Gegenmodell und teilen die Diagnose, dass Kommunikationskontrolle der eigentliche Schlüsselhebel ist.
 
-### → [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel & Iltisberger — Hype Is a System]]
+### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel & Iltisberger — Hype Is a System]]
 
 Neitzel/Iltisbergers Attention System (Medien, Plattformen, Investoren in gegenseitiger Aufmerksamkeitsschleife) ist die technische Beschreibung von dem, was Urner als "Attention Bros / Media Bros" politisch benennt. Urners KI-Paradox (Menschen denken wie Maschinen) findet in Neitzel/Iltisbergers Befund sein konkretes Beispiel: Hype formt kognitive Kategorien, bevor die Realität sie korrigieren kann.
 
-### → [[Gedankenwelten/Denker/Albert Moukheiber — Mein Hirn und die anderen|Moukheiber — Mein Hirn und die anderen]]
+### → [[Denker/Albert Moukheiber — Mein Hirn und die anderen|Moukheiber — Mein Hirn und die anderen]]
 
 Urners KI-Paradox ("Menschen denken wie Maschinen") trifft auf Moukheibers neuropsychologische Analyse des sozialen Gehirns: Das Gehirn ist primär auf andere ausgerichtet (Theory of Mind), nicht auf sequentielle Informationsverarbeitung. Urners Hope Theory (Will Power + Way Power als kognitive Kapazitäten) lässt sich in Moukheibers Rahmen übersetzen — beide stellen gegen das maschinelle Menschenbild das soziale, auf Resonanz angewiesene Gehirn.
 
-### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Nosthoff — Kybernetik und die Macht der Tech-Eliten]]
+### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Nosthoff — Kybernetik und die Macht der Tech-Eliten]]
 
 Nosthoffs kybernetisches Staatsverständnis (Steuerung durch Informationsflüsse statt demokratischen Konsens) ist die historische Genealogie von Urners drittem Pferd der Selbstzerstörung — was Urner als aktuelles Phänomen benennt, zeigt Nosthoff als 80 Jahre altes Programm. Urners Beobachtung, KI verleite Menschen zum maschinellen Denken, findet in Nosthoffs Kybernetik-Analyse ihren strukturellen Ursprung.
 
-### → [[Gedankenwelten/Panorama/Gelebte Demokratie|Panorama — Gelebte Demokratie]]
+### → [[Panorama/Gelebte Demokratie|Panorama — Gelebte Demokratie]]
 
 Das Panorama versammelt Praktiken, die Demokratie herstellen statt nur fordern — das ist die strukturelle Entsprechung zu Urners Freedom Writers (Bildung) und Funf (Medien) als positiven Gegenmodellen. Nicht auf den Staat warten, sondern Handlungsfähigkeit selbst aufbauen — Urner neurobiologisch begründet, das Panorama empirisch dokumentiert.
 

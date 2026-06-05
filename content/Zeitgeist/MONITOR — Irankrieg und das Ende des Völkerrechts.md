@@ -180,7 +180,7 @@ Das Vertrauen des Globalen Südens in Deutschland als Vermittler ist massiv gesu
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+### → [[Zeitgeist/auslandsjournal — Trump allein zu Haus]]
 Liefert die strategische Ergänzung zur völkerrechtlichen Analyse: Die Gesichtswahrungs-Logik erklärt, *warum* keine Seite ohne Souveränitätsverlust deeskalieren kann — der Mechanismus hinter der Rechtsordnungs-Erosion, die MONITOR diagnostiziert.
 
 ### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
@@ -204,7 +204,7 @@ Münkler liefert den strukturellen Erklärungsrahmen für das, was Ambos normati
 ### → [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE]]
 Sudan/El Fashir und Iran zeigen zwei Gesichter derselben Erosion internationaler Normen: das Völkerrecht als zahnloser Mechanismus, wenn Großmächte oder wohlhabende Mittelmächte wie die VAE strategische Interessen haben. Beide Notes kreisen um das strukturelle Versagen der Weltgemeinschaft.
 
-### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 Derselbe Akteur — das Pentagon unter Hegseth — tritt im Iran-Krieg als militärische Gewalt auf und im Tooze-Fall als Erzwinger militärischer KI-Nutzung. Ambos beklagt den „Disregard" gegenüber internationalem Recht; Tooze zeigt, dass dieselbe Logik innenpolitisch gegen privatwirtschaftliche Akteure angewandt wird. Kein Recht, keine Verträge, keine Bedingungen — nur Macht.
 
 ### → [[Zeitgeist/Koshi Politik/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]]

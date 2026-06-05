@@ -81,4 +81,4 @@ Politisch ist er schwer einzuordnen — er macht keine parteipolitischen Aussage
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]]
+- [[Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]]

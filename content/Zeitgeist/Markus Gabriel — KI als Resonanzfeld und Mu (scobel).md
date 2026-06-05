@@ -25,7 +25,7 @@ Quelle: [Wir denken komplett falsch über KI – scobel im Gespräch: Mit Markus
 > Wichtigste Werke: *Warum es die Welt nicht gibt* (2013), *Ich ist nicht Gehirn* (2015), *Ethische Intelligenz* (2026)
 > Kernkonzepte: Sinnfeldontologie, Neuer Realismus, Moralischer Universalismus, Ethischer Kapitalismus
 >
-> → [[Gedankenwelten/DenkerVita/Markus Gabriel|DenkerVita]]
+> → [[DenkerVita/Markus Gabriel|DenkerVita]]
 >
 > **Gert Scobel** — Moderator, Journalist und Philosoph. Langjähriger Gesprächspartner Gabriels, Co-Autor von *Zwischen Gut und Böse* (2021). Lehrte unter anderem an der Universität Berkeley.
 
@@ -243,7 +243,7 @@ Mu als wechselseitige Abhängigkeit ist die Mahāyāna-Entsprechung zu Anattā: 
 
 ---
 
-### → [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
+### → [[Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung|Zhao Tingyang — Verbales Denken und Neo-Aufklärung]]
 Gabriel entwickelt über Mu (無) eine fast deckungsgleiche Diagnose: Westliches Denken ist substanzfixiert, während Mu — wie Zhaos Verb-Denken — Relationen und Prozesse als primär setzt. Gabriels Schlüsselsatz „KI ist nicht im Gerät, sondern im Resonanzfeld" ist eine angewandte Verb-Ontologie. Gleichzeitig zeigt sich ein produktiver Widerspruch: Gabriel operiert weiterhin mit Hegelscher Begrifflichkeit — also mit einer hochentwickelten *Nomen*-Logik, die Bewegung nur dialektisch denkt. Zhao würde fragen: Ist Hegels Werden schon Verb-Denken, oder noch Übersetzung ins Nomen?
 
 ### → [[Morpheus — Warum alle chinesische KI nutzen]]

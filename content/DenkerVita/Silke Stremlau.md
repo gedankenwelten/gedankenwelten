@@ -144,12 +144,12 @@ Gründung eines neuen Think-and-Do-Tanks mit Unterstützung der Stiftung Mercato
 ## Verbindungen zu anderen Denkern
 
 **Im Nachhaltigkeitsdiskurs:**
-- → [[Gedankenwelten/DenkerVita/Maja Goepel|Maja Göpel]] — Gemeinsame Diskussionen über Finanzkapital als Hebel der Transformation und kulturellen Wandel
-- → [[Gedankenwelten/DenkerVita/Klaus Doerre|Klaus Dörre]] — Beide arbeiten an der Frage: Wie kann Wirtschaft sozial-ökologisch transformieren?
-- → [[Gedankenwelten/DenkerVita/Volker Quaschning|Volker Quaschning]] — Sie bringt die Finanzierungsperspektive in Energiewende-Debatten
+- → [[DenkerVita/Maja Goepel|Maja Göpel]] — Gemeinsame Diskussionen über Finanzkapital als Hebel der Transformation und kulturellen Wandel
+- → [[DenkerVita/Klaus Doerre|Klaus Dörre]] — Beide arbeiten an der Frage: Wie kann Wirtschaft sozial-ökologisch transformieren?
+- → [[DenkerVita/Volker Quaschning|Volker Quaschning]] — Sie bringt die Finanzierungsperspektive in Energiewende-Debatten
 
 **Im Finanz- und Wirtschaftsdiskurs:**
-- Dialoge mit [[Gedankenwelten/DenkerVita/Heiner Flassbeck|Heiner Flassbeck]] (Makroökonomie, Eurokrise) über Geldpolitik und Wirtschaftstransformation
+- Dialoge mit [[DenkerVita/Heiner Flassbeck|Heiner Flassbeck]] (Makroökonomie, Eurokrise) über Geldpolitik und Wirtschaftstransformation
 - Aaron Sahr (Geldsoziologie) — Zusammenarbeit in future-economies Podcast über die sozialen Strukturen von Finanzsystemen
 - Laura Mervelskemper (Betriebswirtschaft und Nachhaltigkeit) — Ko-Diskutantin im Transformationsfinanzierungs-Diskurs
 

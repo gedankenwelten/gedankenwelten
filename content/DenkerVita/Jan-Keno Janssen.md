@@ -84,7 +84,7 @@ Kein agitatorischer Ton, aber keine Naivität — das macht Janssen für Publiku
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]]
+- [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]]
 
 ---
 

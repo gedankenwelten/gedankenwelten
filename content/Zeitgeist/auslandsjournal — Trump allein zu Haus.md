@@ -187,35 +187,35 @@ Die soziale Schere — in den USA wie in Europa — sei „der Dünger, aus dem 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/StreitClub — Europa allein zu Haus]]
+### → [[Zeitgeist/StreitClub — Europa allein zu Haus]]
 
 Dieselbe Kernmetapher (Kevin allein zu Haus), zwei Blickrichtungen: Der StreitClub fragt, ob *Europa* clever genug reagiert; das auslandsjournal fragt, ob *Trump* überhaupt weiß, was er tut. Direkte Brücke: NATO als „innen hohles Bündnis" trifft auf die strukturelle EU-Verteidigungsschwäche.
 
-### → [[Gedankenwelten/Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
+### → [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
 
 Beide diagnostizieren dasselbe Muster: Ultimaten per Social Media ohne Exit-Strategie. Langes „überfordert, weiß nicht wie damit umgehen" ist die Innensicht auf das, was hier „One-and-Done-Syndrom" und „TikTok-Politik" heißt — Maximaldruck ohne Plan für den Moment danach.
 
-### → [[Gedankenwelten/Zeitgeist/Koschi Politik — Weißes Haus löscht Trumps Privatvideo]]
+### → [[Zeitgeist/Koschi Politik — Weißes Haus löscht Trumps Privatvideo]]
 
 Trumps geleaktes Privatgespräch belegt die These vom Vertrauensverlust gegenüber den Alliierten von innen: Er sagt selbst, seine Beziehungen zu Russland und China seien besser als zur NATO — ungefiltert, jenseits der öffentlichen Rhetorik.
 
-### → [[Gedankenwelten/Zeitgeist/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]]
+### → [[Zeitgeist/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]]
 
 Die Konkretion der These vom verbrauchten Vertrauen: Wenn die Ressource aufgebraucht ist, bleibt man im Ernstfall allein — Artikel-5-Bündnis hin oder her. Koshi dokumentiert den Fall, das auslandsjournal liefert die strukturelle Erklärung.
 
-### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
+### → [[Zeitgeist/PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
 
 Das Paradox, dass Irans Hebel *nach* dem Krieg stärker ist als davor, spiegelt die These der strategischen Selbstzerstörung: Die Show of Force produziert das Gegenteil ihrer Absicht — Stärke-Doktrin als Bumerang.
 
-### → [[Gedankenwelten/Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]
+### → [[Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]
 
 Ergänzt die Außenpolitik um die Innendimension: Der soziale Boden des Trumpismus (Mittelschicht-Abstieg, enttäuschte Wähler) erodiert genau dann, wenn die Außenpolitik eskaliert und gleichzeitig das Preisversprechen bricht.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
+### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 
 Liefert den normativen Rahmen, den diese Note voraussetzt: Die Gesichtswahrungs-Logik erklärt, *warum* keine Seite ohne Souveränitätsverlust deeskalieren kann — was MONITOR völkerrechtlich als Erosion einordnet.
 
-### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+### → [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
 
 Die Tiefenerklärung für den sozialen Boden des Rechtspopulismus, den diese Note (AfD, Le Pen, Orbán) als symptomatisch beschreibt: Die Mittelschicht wurde nicht von Ideologen verführt, sondern von einem Wirtschaftssystem fallen gelassen, das 2008 seine Legitimation verlor.
 

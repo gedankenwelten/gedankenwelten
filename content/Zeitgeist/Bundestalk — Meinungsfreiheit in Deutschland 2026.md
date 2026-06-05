@@ -213,15 +213,15 @@ Gutmairs Algorithmen-Kritik trifft sich mit dem Dobusch/Zaboura-Befund über Med
 
 Möllers und Poschardt verhandeln den Freiheitsbegriff auf philosophischer Ebene. Das Bundestalk-Gespräch ist sein praktisches Pendant: Was bedeutet Meinungsfreiheit als gelebte demokratische Norm — nicht als Verfassungsartikel, sondern als alltägliche Praxis in einer polarisierten Gesellschaft?
 
-### → [[Gedankenwelten/Denker/Renee DiResta — Invisible Rulers|Renée DiResta — Invisible Rulers]]
+### → [[Denker/Renee DiResta — Invisible Rulers|Renée DiResta — Invisible Rulers]]
 
 Gutmairs Kernthese — Algorithmen als eigentliches Diskursproblem, nicht fehlende Gesetze — deckt sich direkt mit DiRestas *„Free Speech ≠ Free Reach"*: Das Recht, etwas zu sagen, ist nicht identisch mit dem Recht auf algorithmische Verstärkung. Beide gelangen zur selben Schlussfolgerung: Strafrecht greift an der falschen Stelle, die Mechanik des Diskurses liegt in den Plattform-Incentives.
 
-### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten|Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
+### → [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten|Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Moini nennt das Parteiverbot „das schärfste Schwert des Staates" — Rath würde genau hier einhaken: Wenn selbst das schärfste demokratische Instrument kontraproduktiv wirken kann (AfD nutzt Verbotsdrohung als Wahlkampfmunition), dann ist die Brandmauer-Logik in all ihren Varianten — medial, juristisch, politisch — strukturell dieselbe.
 
-### → [[Gedankenwelten/Zeitgeist/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker — Dieser Drang nach Härte]]
 
 Redeckers Analyse der faschistischen Ausnahmezustandsrhetorik — *„Die Meinungsfreiheit ist bedroht"* als Mobilisierungsmotiv — ist die tiefere Erklärung für das, was Jäckels beobachtet: Die Klage über fehlende Meinungsfreiheit speist sich aus realen, aber überdehnt interpretierten Einschränkungen. Redecker liefert die Psychologie, die Bundestalk-Note die rechtliche Phänomenologie.
 

@@ -28,7 +28,7 @@ Quelle: [„Erhalten kann man das Leben nur, wenn man die Welt liebt" (SRF 1979)
 > Wichtigste Werke: *Die Furcht vor der Freiheit* (1941), *Die Kunst des Liebens* (1956), *Haben oder Sein* (1976)
 > Kernkonzepte: Haben-Modus / Sein-Modus, Entfremdung, biophile vs. nekrophile Orientierung, gesellschaftliches Unbewusstes
 >
-> → [[Gedankenwelten/DenkerVita/Erich Fromm|DenkerVita]]
+> → [[DenkerVita/Erich Fromm|DenkerVita]]
 
 ---
 
@@ -224,4 +224,4 @@ Er fügt hinzu: Mit einem gläubigen Katholiken, der kein Fanatiker ist, hätte 
 
 - [[Thich Nhat Hanh — Die Vier Edlen Wahrheiten]] — Fromms "Haben-Modus" ist die soziologische Beschreibung dessen, was Thay als falsche Nahrung bezeichnet: Konsum als Identitätsersatz. Thays vier Nährstoffe und Fromms Analyse des Konsumcharakters zeigen dasselbe Problem aus zwei Richtungen.
 - [[Erich Fromm — Menschliches Wachstum]] — Der 1971er Vortrag als intellektuelle Vorarbeit: Schuldmoral, Konsumkritik und die Frage nach lebendigem Überfluss — acht Jahre vor dem persönlicheren SRF-Gespräch
-- [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Fromms *„Liebe ist eine Kunst, die Übung erfordert"* und Brählers *„Selbstliebe ermöglicht reife Liebe"* sind dieselbe Einsicht aus zwei Traditionen. Liebe als innere Praxis, nicht als Reaktion auf den richtigen Anderen.
+- [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Fromms *„Liebe ist eine Kunst, die Übung erfordert"* und Brählers *„Selbstliebe ermöglicht reife Liebe"* sind dieselbe Einsicht aus zwei Traditionen. Liebe als innere Praxis, nicht als Reaktion auf den richtigen Anderen.

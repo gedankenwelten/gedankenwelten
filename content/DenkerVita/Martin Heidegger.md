@@ -88,11 +88,11 @@ Die philosophische Wirkung ist davon nicht abtrennbar, aber auch nicht darauf re
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Hannah Arendt]] — Schülerin, Geliebte, lebenslange intellektuelle Gegenspielerin. Arendt verteidigte sein Denken und kritisierte seine Politik. Ihre Konzepte der *Natalität* und des *Handelns* sind Gegenentwürfe zu Heideggers Sein-zum-Tode
-- [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]] — Beide sehen das Leben als Herausforderung, nicht als Geschenk. Schopenhauers *Wille zum Leben* resoniert mit Heideggers *Sorgecharakter des Daseins* — der Ruf des Gewissens, der zum Weiterleben ruft
+- [[DenkerVita/Hannah Arendt]] — Schülerin, Geliebte, lebenslange intellektuelle Gegenspielerin. Arendt verteidigte sein Denken und kritisierte seine Politik. Ihre Konzepte der *Natalität* und des *Handelns* sind Gegenentwürfe zu Heideggers Sein-zum-Tode
+- [[DenkerVita/Arthur Schopenhauer]] — Beide sehen das Leben als Herausforderung, nicht als Geschenk. Schopenhauers *Wille zum Leben* resoniert mit Heideggers *Sorgecharakter des Daseins* — der Ruf des Gewissens, der zum Weiterleben ruft
 
 ---
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Walther Ziegler — Heidegger in 60 Minuten]] — Einführungsvortrag in die Kernkonzepte von *Sein und Zeit*
+- [[Zeitgeist/Walther Ziegler — Heidegger in 60 Minuten]] — Einführungsvortrag in die Kernkonzepte von *Sein und Zeit*

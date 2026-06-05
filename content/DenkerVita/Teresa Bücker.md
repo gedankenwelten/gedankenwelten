@@ -77,11 +77,11 @@ Bücker ist erklärtermaßen **parteilos** und war nie Parteimitglied — trotz 
 
 *(Montaigne befüllt diesen Abschnitt)*
 
-- [[Gedankenwelten/DenkerVita/Erich Fromm|Erich Fromm]] — Bückers Zeitkultur-Kritik ist Fromms Haben-Modus für eine politische Agenda übersetzt: Zeit wird "optimiert" statt gelebt. Bückers Zeitwohlstand = Fromms Sein-Modus.
-- [[Gedankenwelten/Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa]] — Rosa diagnostiziert Beschleunigung als Zeitproblem der Moderne phänomenologisch; Bücker kommt zum gleichen Befund von feministisch-politischer Seite. Rosa: Resonanz braucht Unverfügbarkeit. Bücker: Zeitwohlstand schafft Raum für Resonanz.
+- [[DenkerVita/Erich Fromm|Erich Fromm]] — Bückers Zeitkultur-Kritik ist Fromms Haben-Modus für eine politische Agenda übersetzt: Zeit wird "optimiert" statt gelebt. Bückers Zeitwohlstand = Fromms Sein-Modus.
+- [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit|Hartmut Rosa]] — Rosa diagnostiziert Beschleunigung als Zeitproblem der Moderne phänomenologisch; Bücker kommt zum gleichen Befund von feministisch-politischer Seite. Rosa: Resonanz braucht Unverfügbarkeit. Bücker: Zeitwohlstand schafft Raum für Resonanz.
 
 ---
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]] (2026) — Podcast-Gespräch mit Maja Göpel über Zeitgerechtigkeit, Vier-Tage-Woche und demokratisches Engagement
+- [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]] (2026) — Podcast-Gespräch mit Maja Göpel über Zeitgerechtigkeit, Vier-Tage-Woche und demokratisches Engagement

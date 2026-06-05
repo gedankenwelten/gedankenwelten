@@ -157,7 +157,7 @@ Nosthoffs Analyse der Tech-Konzerne als Machtapparate bildet die Gegenfolie zu G
 
 Redeckers Analyse des westlichen „Drangs nach Härte" und Kontrolle spiegelt sich in Gabriels Kritik an der europäischen Werkstattontologie und dem Hammer-Denken
 
-### → [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]]
+### → [[Zeitgeist/Morpheus - Whistleblower mundtot machen]]
 
 Morpheus zeigt Gabriels These in ihrer dunkelsten Anwendung: Objection.ai nutzt KI-Intentionslosigkeit als Feature — kein Richter urteilt, ein Algorithmus hat errechnet. Wer verantwortlich ist, bleibt diffus. Gabriels philosophische KI-Ethik trifft hier ihr konkretes politisches Gegenstück.
 

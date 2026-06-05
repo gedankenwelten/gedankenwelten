@@ -27,7 +27,7 @@ Quelle: [Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt – MONI
 > Im Film zu Wort kommen u.a.:
 > - **Horst Blume** — Anti-Atom-Aktivist, kämpfte vor 50 Jahren mit einer Bürgerinitiative gegen den THTR-300 in Hamm-Uentrop.
 > - **Markus Söder** (CSU) — bayerischer Ministerpräsident, will ein SMR-Versuchskraftwerk „made in Bavaria".
-> - **Katharina Reiche** (CDU) — Bundesenergieministerin, hält Mini-AKW für vielversprechend. → [[Gedankenwelten/Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus|MONITOR-Recherche zu Reiche]]
+> - **Katharina Reiche** (CDU) — Bundesenergieministerin, hält Mini-AKW für vielversprechend. → [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus|MONITOR-Recherche zu Reiche]]
 > - **Alexander Wimmers** (TU Berlin) — Mitautor des World Nuclear Industry Status Report.
 > - **Friederike Fries** — Kernenergie-Expertin.
 
@@ -172,7 +172,7 @@ Der „Traum vom sicheren und billigen Atomstrom", so MONITORs letzter Satz, ist
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Wenn die Serienfertigung erst ab „mehreren hundert" baugleichen Reaktoren billig wird — *wer trifft die Entscheidung, dieses Risiko hundertfach einzugehen, und wer haftet, wenn einer davon scheitert?*
 > - Das THTR-Versprechen klang vor 50 Jahren wortgleich wie das SMR-Versprechen heute. *Was sagt es über unsere Technikdebatten, dass dieselbe Rhetorik dieselbe Wirkung entfaltet — obwohl der Ausgang dokumentiert ist?*
-> - Atomstrom kostet das Drei- bis Zwölffache von Solar- und Windstrom. *Wenn das Kostenargument so klar gegen Atomkraft spricht — welches Interesse erklärt dann, dass es politisch trotzdem vorangetrieben wird?* (vgl. [[Gedankenwelten/Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]])
+> - Atomstrom kostet das Drei- bis Zwölffache von Solar- und Windstrom. *Wenn das Kostenargument so klar gegen Atomkraft spricht — welches Interesse erklärt dann, dass es politisch trotzdem vorangetrieben wird?* (vgl. [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]])
 > - Hamm-Uentrop privatisierte den Gewinn und sozialisierte die Milliarde Rückbaukosten. *Welche heutigen Projekte folgen demselben Muster, bei dem die Rechnung erst in Jahrzehnten fällig wird — und merken wir es rechtzeitig?*
 > - Was wäre das stärkste Argument *für* SMR, das in diesem Beitrag fehlt — und warum kommt es bei MONITOR nicht vor?
 
@@ -180,34 +180,34 @@ Der „Traum vom sicheren und billigen Atomstrom", so MONITORs letzter Satz, ist
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Mario Buchinger — Lügen der Kernenergie (6▸6) Neue Reaktorgenerationen]]
+### → [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (6▸6) Neue Reaktorgenerationen]]
 
 Die direkte Schwesternote: Buchinger zerlegt exakt den Mythos, den MONITOR hier journalistisch prüft — dass „neue Reaktorgenerationen" (SMR, Thorium) die alten Probleme lösen. Beide kommen zum selben Schluss: Das Versprechen wirkt politisch schon heute, obwohl die Technik Jahrzehnte entfernt ist. MONITOR liefert mit Hamm-Uentrop das historische Fallbeispiel zu Buchingers struktureller Analyse.
 
-### → [[Gedankenwelten/Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
+### → [[Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
 Schon im Titel der MONITOR-Frage („Renaissance der Atomkraft?") steckt das Narrativ, das Buchinger frontal widerlegt. Wo Buchinger mit globalen Ausbauzahlen argumentiert, zeigt MONITOR die deutsche Mikroebene: Söders „Blaupause", Reiches Euphorie, das insolvente THTR-Erbe. Dieselbe These, zwei Maßstäbe.
 
-### → [[Gedankenwelten/Zeitgeist/Mario Buchinger — Lügen der Kernenergie (3▸6) Kernenergie ist wirtschaftlich]]
+### → [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (3▸6) Kernenergie ist wirtschaftlich]]
 
 Buchinger und MONITOR teilen das Kostenargument als härteste Waffe gegen die Atomkraft: extrem komplexe Anlagen, Stromgestehungskosten ein Vielfaches der Erneuerbaren, Kostenexplosionen als Regelfall statt Ausnahme. MONITOR untermauert das mit Wimmers' TU-Berlin-Befund und den Fraunhofer-Zahlen.
 
-### → [[Gedankenwelten/Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+### → [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 
 Hamm-Uentrop ist das Lehrstück zur Subventionsasymmetrie dieser Note: Gewinne privatisiert, Rückbaukosten (1 Mrd. €) nach 50 Jahren beim Steuerzahler. Der THTR-300 wurde schon damals zu drei Vierteln aus Steuermitteln finanziert — die „billige" Atomkraft war nie billig, nur die Kosten waren unsichtbar verteilt.
 
-### → [[Gedankenwelten/Zeitgeist/Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
+### → [[Zeitgeist/Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
 
 Sterner widerlegt Söders Energiepolitik mit denselben Zahlen, die MONITOR nennt (Flamanville, Olkiluoto). MONITOR zeigt Söders SMR-Vorstoß („made in Bavaria") im Original, Sterner liefert den wissenschaftlichen Faktencheck dazu — zwei Perspektiven auf dieselbe bayerische Atomwerbung.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
+### → [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
 
 Dieselbe Ministerin, dasselbe Magazin: Während Reiche dort die Erneuerbaren legislativ ausbremst, wirbt sie hier für Mini-AKW. Beide MONITOR-Recherchen zeichnen das Bild einer Energiepolitik, die teurere, zentralisierte Erzeugung bevorzugt und die billigere, dezentrale benachteiligt — der rote Faden ist die Interessenstruktur, nicht die Technik.
 
-### → [[Gedankenwelten/Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
+### → [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 
 Kemfert ordnet die Atomkraft ökonomisch als teuerste Stromform mit ungelöstem Endlagerproblem ein — exakt MONITORs Befund. Während Atom-Befürworter „Resilienz" und „Versorgungssicherheit" anführen, zeigen beide: Die schnellste und günstigste Antwort auf Energiekrise und fossile Abhängigkeit sind die Erneuerbaren, nicht ein Reaktor, der frühestens in den 2030ern läuft.
 
-### → [[Gedankenwelten/Panorama/Energie]]
+### → [[Panorama/Energie]]
 
 Diese Note ist Teil des Energie-Panoramas — konkret der Sektion „Die neue Nachfrage: Wird KI zum trojanischen Pferd der Atomkraft?". Das Panorama bettet den SMR-Hype in den größeren Zusammenhang ein: Reiche-Lobbyismus, Subventionsasymmetrie, Batteriespeicher-Blockade und die Frage, ob die explodierende KI- und E-Mobilitäts-Nachfrage rein erneuerbar gedeckt werden kann (Fraunhofer/IEA/Jacobson vs. Clack).

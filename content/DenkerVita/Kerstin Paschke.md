@@ -42,4 +42,4 @@ Die DAK-Studie, an der sie beteiligt ist, ist zur wichtigsten deutschen Erhebung
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]
+- [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]

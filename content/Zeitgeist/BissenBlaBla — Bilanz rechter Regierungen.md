@@ -202,27 +202,27 @@ Das ist das eigentliche Argument: Nicht *die AfD ist böse*, sondern — wenn ih
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
+### → [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
 Das Panorama kartiert dasselbe Phänomen auf der Netzwerkebene (CPAC, Heritage, Atlas) — BissenBlaBla liefert die Gegenprobe auf der Regierungsebene: Was passiert, wenn diese Netzwerke tatsächlich an die Macht kommen? Das Video ist das Kapitel „Machtbilanz", das dem Panorama fehlt. Orbán wird im Panorama als Blaupause beschrieben — BissenBlaBla zeigt, dass selbst diese Blaupause an den eigenen Maßstäben gemessen gescheitert ist.
 
-### → [[Gedankenwelten/Panorama/NoAfD|NoAfD — Anatomie einer rechtsextremen Partei]]
+### → [[Panorama/NoAfD|NoAfD — Anatomie einer rechtsextremen Partei]]
 Das Panorama fragt, was eine Gesellschaft anfällig für rechte Politik macht — diese Note liefert die empirische Ergänzung: was passiert, wenn die AfD-Vorbilder (Orbán, Meloni, Trump) regieren. Das Panorama stellt die Ursachenfrage, diese Note die Konsequenzenfrage. Zusammen ergibt sich ein vollständiger Bogen: Warum entsteht rechter Populismus — und was liefert er, wenn er einmal gewählt wurde?
 
-### → [[Gedankenwelten/Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
+### → [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
 Gelegs analysiert Orbáns Machtarchitektur von innen — BissenBlaBla ergänzt die externe Messung: Was sagen IWF, Eurostat und Freedom House? Gelegs erklärt *wie* das System gebaut wurde (demokratische Fassade, oligarchischer Kern), BissenBlaBla zeigt, dass selbst das eigene Versprechen — die illiberale Demokratie als Wohlstandsmodell — empirisch nicht eingelöst wurde.
 
-### → [[Gedankenwelten/Zeitgeist/phoenix — Orbán abgewählt|phoenix — Orbán abgewählt]]
+### → [[Zeitgeist/phoenix — Orbán abgewählt|phoenix — Orbán abgewählt]]
 Die phoenix-Note zeigt den Moment des Scheiterns, diese Note liefert retrospektiv die Erklärung warum es scheitern musste: Bildung heruntergewirtschaftet, Gesundheitssystem marode, Korruption auf Rekordniveau. Was als „innenpolitisches Versagen" beschrieben wird, ist hier systematisch mit internationalen Indizes belegt. Empirie zu Empirie, Moment zu Mechanismus.
 
-### → [[Gedankenwelten/Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
+### → [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
 Temelkurans Sieben-Stufen-Modell beschreibt den Prozess des demokratischen Verfalls — diese Note liefert eine Querschnittsanalyse, die das Modell empirisch verdichtet: Stufe 6 (Justiz kapern) taucht als „Muster I" auf, Wahlmaschinenrhetorik als Wahrheitsverzerrung. Die konzeptuelle Spannung: Temelkuran betont Trumps Tempo im Vergleich zu Erdoğan — BissenBlaBla zeigt, dass Erdoğan trotz jahrzehntelanger Macht institutionell am meisten zerstört hat.
 
-### → [[Gedankenwelten/Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler|Philip Manow — Autoritäre Zeiten]]
+### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler|Philip Manow — Autoritäre Zeiten]]
 Manow argumentiert, Protestwahl sei rational, weil etablierte Parteien auf der Globalisierungsdimension kein Angebot machen — diese Note zeigt die Kehrseite: Wenn die Protestwahl gewählt hat, liefert sie auf dieser Dimension ebenfalls nicht. Das schließt Manows Analyse zu einem Dilemma: Die Wähler hatten gute Gründe, die alten Parteien abzuwählen — aber die neuen Parteien lösen das Problem nicht, sie verstärken es durch institutionellen Abbau.
 
 ---
 
-### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Steinkes "Teilzeitliberalismus"-Begriff (Meinungsfreiheit nur solange die Meinung passt) ist die diskurstheoretische Fassung von BissenBlaBlas empirischem Befund: Orbáns Ungarn — Hauptbeispiel bei Steinke/Marinić für Freiheitskämpfer-Pose — landet bei Freedom House als einziges EU-Land nur "teilweise frei". Die Methode "Regierungen an ihren eigenen Versprechen messen" ist das analytische Werkzeug hinter Marinićs Frage: Warum hält das Freiheitskämpfer-Image?
 
@@ -235,6 +235,6 @@ Steinkes "Teilzeitliberalismus"-Begriff (Meinungsfreiheit nur solange die Meinun
 > - Der Kanal misst Regierungen an ihren Versprechen — aber Versprechen werden an Wähler gerichtet. Was sagt es über die Wähler, wenn die Versprechen nicht gehalten werden, die Zustimmung aber teilweise trotzdem bleibt?
 > - Milei senkt die Inflation, erhöht die Armut, bricht die Pressefreiheit — und wird international von rechten Bewegungen als Erfolgsmodell gehandelt. Was genau wird hier als Erfolg definiert?
 
-### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+### → [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
 
 Beide Formate teilen denselben epistemischen Ansatz: politische Analyse durch öffentlich zugängliche, methodisch transparente Daten — BissenBlaBla via internationale Indizes, IT Mario via offene Spreadsheets und Zenodo-Archiv. Methodische Transparenz als gemeinsame Gegenstrategie gegen den Neutralitätsmythos.

@@ -20,7 +20,7 @@ Quelle: [Weniger Drama - Wie Vipassana dich ins Handeln bringt](https://www.yout
 > Ausgebildet als Novize in der Thich-Nhat-Hanh-Tradition (Plum Village), nicht in der Goenka-Linie — methodisch eigenständig, verankert im Satipatthana Sutta, mit Mahayana-Einflüssen (Bodhisattva-Ideal, Ksitigarbha).
 >
 > Wichtigste Formate: 10-Tage-Retreats in Haus Tabor · Vipassana@Home (Online-Gemeinschaft) · Podcast *Vipassana Jetzt*
-> → [[Gedankenwelten/DenkerVita/Adriaan van Wagensveld|DenkerVita]]
+> → [[DenkerVita/Adriaan van Wagensveld|DenkerVita]]
 
 ---
 

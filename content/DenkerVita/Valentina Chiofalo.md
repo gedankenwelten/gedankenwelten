@@ -89,17 +89,17 @@ Im GFF-Gutachten zeigt sich ihre politische Haltung am prägnantesten: **Ergebni
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Bijan Moini]] — Direkter Mitstreiter in der GFF: Moini leitet das Legal Team strategisch, Chiofalo verantwortet die empirische Grundlagenarbeit des AfD-Gutachtens. Beide stehen für dasselbe Ethos — Grundrechtsschutz als handwerkliche Disziplin, nicht als politischer Affekt.
-- [[Gedankenwelten/DenkerVita/Ronen Steinke]] — Beide Juristen, die Verfassungsschutz als demokratische Praxis begreifen; Steinke legt institutionelle Schwachstellen journalistisch frei (V-Leute, Verfassungsschutz-Paradoxon), Chiofalo ersetzt den staatsinternen Beweis durch zivile Datenarbeit — methodisch unterschiedlich, strukturell komplementär.
-- [[Gedankenwelten/DenkerVita/Matthias Quent]] — Quent analysiert soziologisch, warum die AfD Ohnmacht instrumentalisiert; Chiofalo prüft juristisch, ob die AfD verfassungswidrig handelt. Beide kämpfen für wehrhafte Demokratie, aber mit völlig unterschiedlichen Werkzeugen — Quent zeigt das Warum, Chiofalo arbeitet am juristischen Ob.
-- [[Gedankenwelten/DenkerVita/Christoph Moellers]] — Beide lehren an Berliner Universitäten öffentliches Recht (Möllers HU, Chiofalo FU) und teilen das Interesse an der normativen Architektur von Demokratie; Möllers denkt Recht philosophisch-theoretisch, Chiofalo operationalisiert es in konkreter Beweisarbeit — Theorie und Empirie in derselben Rechtstradition.
-- [[Gedankenwelten/DenkerVita/Nicole Deitelhoff]] — Deitelhoff forscht zu normativen Ordnungen und demokratischer Streitkultur auf internationalem Parkett; Chiofalo arbeitet am deutschen Verfassungsrecht mit komparativer Methode (USA, EU). Beide verstehen Demokratieschutz nicht als Selbstverständlichkeit, sondern als aktiv zu verteidigende Praxis.
+- [[DenkerVita/Bijan Moini]] — Direkter Mitstreiter in der GFF: Moini leitet das Legal Team strategisch, Chiofalo verantwortet die empirische Grundlagenarbeit des AfD-Gutachtens. Beide stehen für dasselbe Ethos — Grundrechtsschutz als handwerkliche Disziplin, nicht als politischer Affekt.
+- [[DenkerVita/Ronen Steinke]] — Beide Juristen, die Verfassungsschutz als demokratische Praxis begreifen; Steinke legt institutionelle Schwachstellen journalistisch frei (V-Leute, Verfassungsschutz-Paradoxon), Chiofalo ersetzt den staatsinternen Beweis durch zivile Datenarbeit — methodisch unterschiedlich, strukturell komplementär.
+- [[DenkerVita/Matthias Quent]] — Quent analysiert soziologisch, warum die AfD Ohnmacht instrumentalisiert; Chiofalo prüft juristisch, ob die AfD verfassungswidrig handelt. Beide kämpfen für wehrhafte Demokratie, aber mit völlig unterschiedlichen Werkzeugen — Quent zeigt das Warum, Chiofalo arbeitet am juristischen Ob.
+- [[DenkerVita/Christoph Moellers]] — Beide lehren an Berliner Universitäten öffentliches Recht (Möllers HU, Chiofalo FU) und teilen das Interesse an der normativen Architektur von Demokratie; Möllers denkt Recht philosophisch-theoretisch, Chiofalo operationalisiert es in konkreter Beweisarbeit — Theorie und Empirie in derselben Rechtstradition.
+- [[DenkerVita/Nicole Deitelhoff]] — Deitelhoff forscht zu normativen Ordnungen und demokratischer Streitkultur auf internationalem Parkett; Chiofalo arbeitet am deutschen Verfassungsrecht mit komparativer Methode (USA, EU). Beide verstehen Demokratieschutz nicht als Selbstverständlichkeit, sondern als aktiv zu verteidigende Praxis.
 
 ---
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — re:publica 26 Panel zur Methodik und den Kernfragen des AfD-Gutachtens
+- [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — re:publica 26 Panel zur Methodik und den Kernfragen des AfD-Gutachtens
 
 ---
 

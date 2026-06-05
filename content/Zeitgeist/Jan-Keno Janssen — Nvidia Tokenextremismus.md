@@ -21,7 +21,7 @@ Quelle: [Nvidia hat den Bezug zur Realität verloren](https://www.youtube.com/wa
 > [!info] Wer spricht?
 > **Jan-Keno Janssen** — c't-Redakteur und Host des YouTube-Formats *c't 3003* (Heise Verlag). Seit 2007 bei Heise, seit 2021 Gesicht des gleichnamigen Channels mit über 114.000 Abonnenten. Bekannt für sarkastisch-präzise Tech-Analyse, die nicht Technologie feiert, sondern systemische Absurditäten benennt. War als unabhängiger Journalist — nicht als eingeladener Gast — auf der Computex 2026 in Taipei.
 >
-> → [[Gedankenwelten/DenkerVita/Jan-Keno Janssen|DenkerVita]]
+> → [[DenkerVita/Jan-Keno Janssen|DenkerVita]]
 
 ---
 
@@ -139,7 +139,7 @@ Die Preisinformation fehlt noch — was auf der Computex zu hören war: Es könn
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
+### → [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
 
 Janssen beschreibt von innen die Marktkonzentration, die Kaltheuner als strukturelles Problem identifiziert: Nvidias Token-Monopol ist die Infrastrukturebene, auf der europäische Fördergelder in Abhängigkeit fließen, wenn die Investitionslogik nur auf Anwendung setzt ohne die Chip-/Cloud-Ebene zu adressieren.
 
@@ -167,10 +167,10 @@ Tooze zeigt, wie staatliche Macht KI-Infrastruktur für nicht-demokratisch legit
 
 Gabriels These, dass KI-Systeme den Menschen nicht mehr als Gegenüber, sondern als Datenpunkt modellieren, kehrt bei Janssen als ökonomische Realität wieder: Huang spricht es offen aus — die neue Zielgruppe sind KI-Agenten, nicht Menschen. Was Gabriel als philosophische Verschiebung beschreibt, ist bei Nvidia bereits Produktstrategie.
 
-### → [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
+### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
 Neitzel/Iltisberger liefern die theoretische Rahmung für das, was Janssen empirisch beschreibt: Huangs Token-Mantra erfüllt alle vier Hype-Merkmale (Vision als Gewissheit, exaltierte Sprache, Risikounterdrückung, Handlungsaufforderung). Der Kirorank-Incident ist ein Lehrstück für den Capital System Bandwagon Loop — Wettlaufdruck entkoppelt Wert von Konsum.
 
-### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 
 Janssen diagnostiziert, dass Nvidia „nicht mehr für Menschen baut". Büttner und Kaufmann formulieren die europäische Gegenstrategie: eigene Infrastruktur schaffen, die dem europäischen Markt und seinen Werten dient — nicht der Kapitalakkumulation weniger Konzerne.
 

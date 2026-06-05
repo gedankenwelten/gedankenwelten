@@ -207,7 +207,7 @@ Verstehen als Voraussetzung für Handeln: Wenn das Haus überflutet wird und man
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocuns KI-Fake-Frauen in Angstposen, wütende dunkelhäutige Männer als Dauerschleife, Berlin als Albtraum-Realität — das ist die visuell-algorithmische Umsetzungsschicht von Kendis Great-Replacement-Analyse. Kendi erklärt das politische Warum, Nocun zeigt das technologische Wie.
 
@@ -256,9 +256,9 @@ Kendi beschreibt den Weg zur Wahlautokratie als Projekt; Navidi zeigt, wo dieses
 
 MONITORs Recherche zeigt den ökonomischen Motor der Wahlautokratie, die Kendi als politisches Projekt beschreibt: Wenn die Präsidentschaft so profitabel ist — 1,4 Milliarden Vermögenszuwachs in einem Jahr —, wird die Perpetuierung der Macht zum finanziellen Imperativ. Kleptokratie als Selbsterhaltungsmechanismus der Autokratie.
 
-### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+### → [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
 
 Brockschmidt/Nocun liefern die Codierungsebene zu Kendis ideologischer Analyse: Die 14 Wörter, Fashwave, Remigration und Kreuzzugsrhetorik sind GRT nicht als Theorie, sondern als gelebte Kommunikationspraxis — die Sprache, in der Kendis Weltanschauung tagtäglich zirkuliert.
 
-### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
+### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
 Dobusch/Zaboura erklären den journalistischen Transmissionsriemen, durch den GRT Mainstream wurde: Nicht Propaganda, sondern strukturelle Bewertungsverweigerung und falsche Balance. Tucker Carlsons 400 GRT-Sendungen wurden möglich, weil Qualitätsmedien Carlson als legitimen Diskursakteur rahmten, statt die Theorie journalistisch einzuordnen — die Browning/Kühl-Analogie gilt auch für Carlsons Produzenten: ganz normale Medienmacher. Kendis Befund ist die politische Wirkung, D/Zs Analyse der strukturelle Grund.

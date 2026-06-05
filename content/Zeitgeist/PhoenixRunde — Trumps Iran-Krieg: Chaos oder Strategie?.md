@@ -144,7 +144,7 @@ Israel und Iran haben je eine klare, langfristige Strategie. Trump und die USA i
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+### → [[Zeitgeist/auslandsjournal — Trump allein zu Haus]]
 
 Das Paradox, dass Irans Hebel *nach* dem Krieg stärker ist als davor, spiegelt die auslandsjournal-These der strategischen Selbstzerstörung: Die Show of Force produziert das Gegenteil ihrer Absicht — die Stärke-Doktrin als Bumerang.
 

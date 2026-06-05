@@ -23,7 +23,7 @@ Quelle: [NEU DENKEN Folge 1 — YouTube](https://www.youtube.com/watch?v=v62JYY4
 >
 > **Achim Truger** (*1969*) — Professor für Sozioökonomie an der Universität Duisburg-Essen. Mitglied des Sachverständigenrats zur Begutachtung der gesamtwirtschaftlichen Entwicklung (regierungsberatungsorgan). Spezialist für Fiskalpolitik, Schuldenbremsen-Kritik und alternative ökonomische Paradigmen.
 >
-> → [[Gedankenwelten/DenkerVita/Maja Goepel|DenkerVita]] | → [[Gedankenwelten/DenkerVita/Achim Truger|DenkerVita]]
+> → [[DenkerVita/Maja Goepel|DenkerVita]] | → [[DenkerVita/Achim Truger|DenkerVita]]
 
 ---
 
@@ -119,57 +119,57 @@ Ein wichtiger Punkt: Göpel und Truger diskutieren nicht, ob die Wirtschaft „w
 
 **Makroökonomie & Fiskalpolitik:**
 
-### → [[Gedankenwelten/Denker/Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
+### → [[Denker/Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
 
 Flassbeck zeigt keynesianisch präzise die Unmöglichkeit, in Nachfragekrisen sparen zu können — exakt das, was Trügers Schuldenbremsen-Kritik ökonomisch verlangt. Die mathematische Logik der sektoralen Finanzierungssalden bestätigt: Die „Schwarze Null" ist nicht nur falsch, sondern mathematisch unmöglich.
 
-### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu]]
+### → [[Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu]]
 
 Das Tabu-Gespräch ergänzt Trugers institutionelle Schuldenbremsen-Analyse um die historische und globale Dimension: Wie das Sparparadox durch Schröders Lohnpolitik exportiert wurde, das China-Gegenmodell, und warum Maastricht kein deutsches Exportprodukt ist, sondern ein deutsch-französischer Kompromiss.
 
-### → [[Gedankenwelten/Denker/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
+### → [[Denker/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
 
 Konkrete Policy-Versagen (Sparparadoxon bei Renten): Wenn die Schwarze Null heilig ist, scheitert auch Rentenreform an der Dogmatik. Goepel/Trüger: Das ist das Paradoxon des Spardogmas.
 
 **Soziale Folgen & Ungleichheit:**
 
-### → [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
+### → [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 
 Butterwegge dokumentiert die *sozialen Folgen* der Austeritätspolitik (Armutsgefährdung, Lebenserwartungslücke); Goepel/Trüger analysieren die *ökonomische Logik* dahinter. Wer nicht investiert, produziert strukturell Armut.
 
-### → [[Gedankenwelten/Denker/Martyna Linartas — Unverdiente Ungleichheit]]
+### → [[Denker/Martyna Linartas — Unverdiente Ungleichheit]]
 
 Linartas belegt: Mit der Normalisierung des Neoliberalismus stieg der Erbschaftsanteil am Vermögen wieder über 50%. Das ist das Ergebnis von Jahrzehnten Nichtinvestition — genau die Politik, die Trüger kritisiert. Vermögenstheoretisch + Einkommensperspektive + Fiskalkritik = Anatomie der Ungleichheit.
 
 **Philosophie des Wirtschaftens:**
 
-### → [[Gedankenwelten/Denker/Erich Fromm — Haben oder Sein]]
+### → [[Denker/Erich Fromm — Haben oder Sein]]
 
 Fromm stellt die fundamentale Frage, die unter Trügers Wachstumskritik liegt: Ist der Lebenszweck *Haben* (Akkumulation, BIP) oder *Sein* (volle menschliche Entfaltung)? Göpel/Trüger formulieren diese alte humanistische Kritik des Kapitalismus in makroökonomischer Sprache.
 
 **NEU DENKEN-Formate:**
 
-### → [[Gedankenwelten/Zeitgeist/Poerksen und Goepel — Debatte neu denken]]
+### → [[Zeitgeist/Poerksen und Goepel — Debatte neu denken]]
 
 Direkter Format-Partner: Pörksen diskutiert mit Goepel das *Wie* demokratischer Debatte; hier besprechen Goepel/Trüger das *Was* (Wachstum & Wohlstand). Beide sind zentrale Ausdrücke des Mindshift zur Transformation.
 
-### → [[Gedankenwelten/Zeitgeist/Maja Goepel — Mut zur Zukunft]]
+### → [[Zeitgeist/Maja Goepel — Mut zur Zukunft]]
 
 Älteres Göpel-Langformat mit tieferer philosophischer Ausarbeitung ihrer Transformationsthesen.
 
-### → [[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
+### → [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
 
 Ebenfalls NEU-DENKEN-Serie, fokussiert auf Macht und institutionelle Transformation statt direkt auf Wirtschaft — komplementäre Perspektive.
 
 **Geopolitische Realität:**
 
-### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 
 Tooze zeigt die geopolitische Doppelmoral: Massive Staatsausgaben für Militär und KI-Monopole, während Sozialausgaben an die dogmatische Schuldenbremse scheitern. Das ist Goepels Transformationsproblem konkretisiert: Wachstum wofür?
 
 **Vertiefung:**
 
-### → [[Gedankenwelten/Denker/Robert Skidelsky]]
+### → [[Denker/Robert Skidelsky]]
 
 Der Autor von „Wie viel ist genug?" (Klassisches Buch zur Wachstumskritik), Keynes-Biograf. Philosophische und historische Tiefung der keynesianischen Position, die Trüger vertritt.
 
@@ -208,11 +208,11 @@ Sterners BMWK-Studie liefert ein konkretes Beispiel für Göpels/Trugers These: 
 China liefert eine unbequeme Antwort auf Göpels Wachstumskritik: Das Land wächst *und* dekarbonisiert gleichzeitig — durch brutale Industriepolitik, nicht durch Suffizienz. Das stellt die Degrowth-These vor ein Dilemma: Ist Entkopplung doch möglich, wenn der politische Wille radikal genug ist? Oder erkauft China den grünen Wandel mit sozialen Kosten, die Göpel ablehnen würde?
 
 
-### → [[Gedankenwelten/Panorama/Demokratische Wertschoepfung]]
+### → [[Panorama/Demokratische Wertschoepfung]]
 
 Göpels These — BIP misst nicht Wohlstand — ist die ökonomische Begründung, warum Genossenschaftsleistung politisch unsichtbar bleibt. Das Panorama zeigt die institutionelle Antwort.
 
-### → [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
+### → [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
 
 Stremlau schließt direkt an die Transformationslücke an, die Truger fiskalpolitisch beschreibt: Wo Truger das Scheitern staatlicher Investitionspolitik (Schuldenbremse) analysiert, benennt Stremlau das Scheitern privater Kapitalkoordination — Pensionskassenmilliarden finden keine bankfähigen Transformationsprojekte. Beide Seiten derselben Investitionslücke, zwei komplementäre Diagnosen.
 

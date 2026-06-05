@@ -160,7 +160,7 @@ Die Logik dahinter: Wer Grenzen testet — erst an einem Ort, wo die Welt wegsch
 ## Verbindungen
 
 - [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]] — Temelkurans Stufenmodell (7 Schritte zur Autokratie) und A/Ns demokratischer Faschismus ergänzen einander: Temelkuran beschreibt den *Prozess* der Unterwanderung durch Demokratiesprache, A/N die *emotionale Infrastruktur* dahinter. Zerstörungslust ist der Treibstoff, der Temelkurans Normalisierungs-Stufen beschleunigt.
-### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocun zeigt Temelkurans Stufen 3 und 4 als technologische Infrastruktur: die algorithmisch beschleunigte Auflösung von Faktizität durch KI-Slop ist genau das Stören der Rationalität und Normalisieren der Enthemmung, die Temelkuran als politischen Prozess beschreibt — nur in Echtzeit skaliert.
 
@@ -168,7 +168,7 @@ Nocun zeigt Temelkurans Stufen 3 und 4 als technologische Infrastruktur: die alg
 
 Redecker analysiert Faschismus als „Phantombesitzverteidigung" und betont ebenfalls die schleichende Normalisierung; Temelkurans 7-Stufen-Modell ist ein konkretes Pendant zu Redeckers theoretischem Rahmen
 
-### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
+### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 
 Kemper und Temelkuran teilen die Diagnose: Faschismus muss beim Namen genannt werden; beide wenden sich gegen Verharmlosung durch Lachen
 
@@ -180,7 +180,7 @@ Temelkurans Beobachtung, dass Figuren wie Musk und Vance die AfD fördern, schl�
 
 ähnliche Beobachtung: Ablenkungsmanöver und Kulisse vs. Bühne
 
-### → [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
+### → [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
 
 BissenBlaBla liefert die empirische Querschnittsanalyse zu Temelkurans Sieben-Stufen-Modell: Institutionenabbau (Stufe 6) ist bei Orbán, Kaczyński, Bolsonaro und Erdoğan das konstanteste Muster. Die konzeptuelle Spannung: Temelkuran betont Erdoğans langsames Vorgehen — BissenBlaBla zeigt, dass er trotzdem am meisten zerstört hat.
 
@@ -272,6 +272,6 @@ Poppers Warnung als philosophischer Unterbau für Temelkurans empirisches Stufen
 
 Krastevs Rupture-Begriff ist die analytische Kategorie hinter Temelkurans empirischem Stufenmodell: Wenn Demokratie nicht gestört, sondern gebrochen wird. Temelkuran beschreibt das aus der Exilerfahrung, Krastev als strukturelle politische Wissenschaft.
 
-### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+### → [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
 
 Brockschmidt/Nocun liefern die US-deutschen Fallbeispiele zu Temelkurans Stufenmodell in Echtzeit: Remigration als Normalisierungsprozess über 10 Jahre, Fashwave als kulturelle Infiltration, 14 Wörter in DHS-Pressemitteilungen — das sind Temelkurans Stufen 2–4 als dokumentiertes Material.

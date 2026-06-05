@@ -23,7 +23,7 @@ Quelle: [Jung & Naiv: Folge 668 — Soziologe Steffen Mau](https://www.youtube.c
 > Wichtigste Werke: *Lütten Klein* (2019), *Sortiermaschinen* (2021), *Triggerpunkte* (2023), *Ungleich vereint* (2024)
 > Kernkonzepte: Triggerpunkte, Polarisierungsunternehmer, Veränderungsmüdigkeit, Sortiermaschinen
 >
-> → [[Gedankenwelten/DenkerVita/Steffen Mau|DenkerVita]]
+> → [[DenkerVita/Steffen Mau|DenkerVita]]
 
 ---
 
@@ -251,5 +251,5 @@ Grenzen verschwinden nicht — sie werden zu *Sortiermaschinen*: Smart Borders f
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — Beide analysieren AfD-Erfolg soziologisch; El-Mafaalani über Vertrauenserosion in Ostdeutschland, Mau über Triggermechanismen und Veränderungsmüdigkeit
 - [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Vertiefung der Triggerpunkte-Theorie: Vier Arenen, Trigger-Taxonomie, impliziter Gesellschaftsvertrag — ergänzt die breite Analyse dieser Note um das theoretische Fundament
 - [[Good News — Gute Nachrichten April 2026 Teil 2]] — Südkoreas Selbstputsch-Antwort als Gegenmodell zu Maus „Triggerpunkten": Wenn Institutionen funktionieren und die Zivilgesellschaft sofort auf der Straße ist, kollabiert der autoritäre Versuch in 6 Stunden. Demokratien überleben durch Reaktionsschnelligkeit, nicht durch Konsens.
-- [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] — Alexander Prinz bestätigt Maus Triggerpunkt-These empirisch: die Ostfrage ist eine Milieufrage (Oberpfalz, Ruhrpott), und langfristige Lösung ist echte Partei-Präsenz vor Ort — genau Maus Forderung
-- [[Gedankenwelten/Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] — Das US-amerikanische Spiegelbild: Tiana beschreibt denselben Mechanismus (Stammesidentität schlägt Sachinteresse, Meritokratie-Glaube bei gleichzeitigem Statusverlust) aus amerikanischer Distanz. "Temporarily Embarrassed Millionaires" ist das US-Äquivalent zu Maus Triggerpunkt-Analyse.
+- [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] — Alexander Prinz bestätigt Maus Triggerpunkt-These empirisch: die Ostfrage ist eine Milieufrage (Oberpfalz, Ruhrpott), und langfristige Lösung ist echte Partei-Präsenz vor Ort — genau Maus Forderung
+- [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] — Das US-amerikanische Spiegelbild: Tiana beschreibt denselben Mechanismus (Stammesidentität schlägt Sachinteresse, Meritokratie-Glaube bei gleichzeitigem Statusverlust) aus amerikanischer Distanz. "Temporarily Embarrassed Millionaires" ist das US-Äquivalent zu Maus Triggerpunkt-Analyse.

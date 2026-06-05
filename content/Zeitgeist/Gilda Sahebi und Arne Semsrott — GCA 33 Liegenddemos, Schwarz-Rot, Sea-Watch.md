@@ -24,10 +24,10 @@ Quelle: [Gilda con Arne #33 — Liegenddemos und ein Jahr Schwarz-Rot](https://a
 
 > [!info] Wer spricht?
 > **Gilda Sahebi** (*1984 in Teheran*) — Journalistin, Autorin, Co-Host. Studium der Humanmedizin und Politikwissenschaft. Freie Journalistin für ARD, Spiegel, taz. Autorin von *Wie wir uns Rassismus beibringen* (2024) und *Verbinden statt spalten* (2025). Schwerpunkte: struktureller Rassismus, Polarisierung als Herrschaftsinstrument, feministische Politik.
-> → [[Gedankenwelten/DenkerVita/Gilda Sahebi|DenkerVita]]
+> → [[DenkerVita/Gilda Sahebi|DenkerVita]]
 >
 > **Arne Semsrott** (*1988 in Hamburg*) — Journalist, Aktivist, Projektleiter von FragDenStaat. Autor von *Machtübernahme* (2024). Co-Host seit September 2025. Sein neues Buch *Gegenmacht: Die Zivilgesellschaft schlägt zurück* erscheint am 1.6.2026.
-> → [[Gedankenwelten/DenkerVita/Arne Semsrott|DenkerVita]]
+> → [[DenkerVita/Arne Semsrott|DenkerVita]]
 >
 > *Format:* Wöchentlicher Politik-Podcast als gleichberechtigtes Gespräch zwischen zwei Journalist:innen — kein Interviewer/Interviewter-Gefälle, echte gegenseitige Reaktion.
 
@@ -197,39 +197,39 @@ Was beide beschäftigt: die Normalisierung. Wo einst Schiffsunglücke die Titels
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi - Polarisierung, Herrschaft, Spaltung]]
+### → [[Zeitgeist/Gilda Sahebi - Polarisierung, Herrschaft, Spaltung]]
 
 Gilda's Kernthese — Polarisierung als Herrschaftsinstrument — steht im Hintergrund jeder Schwarz-Rot-Analyse dieser Folge: Bürgergeld-Gegner und Grundsicherungs-Empfänger sind dieselbe Gruppe, werden aber gegeneinander ausgespielt.
 
-### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi - Verbinden statt spalten (Elevate 2026)]]
+### → [[Zeitgeist/Gilda Sahebi - Verbinden statt spalten (Elevate 2026)]]
 
 Die Forderung nach "Verbinden statt Spalten" findet in "Peter aus Köln" ihr konkretes Bild: Wer versteht, was Menschen emotional durchmachen, kann verbinden — wer nur Fakten korrigiert, verliert sie an die AfD.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
+### → [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
 
 Die Frage nach dem "Groschen, der gefallen ist": Medien beginnen zu realisieren, dass Asylzahlen sinken und AfD trotzdem steigt. Beide Quellen beleuchten dieselbe Lücke zwischen politischem Versagen und Populismus-Anstieg.
 
-### → [[Gedankenwelten/Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+### → [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 
 Beide Notes ziehen dieselbe Schwarz-Rot-Jahresbilanz (AfD auf 27%, Merz verfehlt Versprechen), aber die GCA-Note benennt Empathiemangel als politisches Symptom am konkreten Fall der sterbenden Frau — was Herrmanns Diagnose "Merz weiß nicht, wie man führt" um die moralische Dimension ergänzt.
 
-### → [[Gedankenwelten/Zeitgeist/taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
+### → [[Zeitgeist/taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
 
 Jakobs Ministeriums-Insider-Perspektive auf Schwarz-Rot bestätigt von innen, was Sahebi/Semsrott von außen benennen: Migrationsverschärfung als Reaktionspolitik, die die AfD nicht bremst, sondern ihr den Rahmen setzt.
 
-### → [[Gedankenwelten/Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+### → [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 "Peter aus Köln" ist Frickes Kontrollverlust-These als Einzelporträt: Der Stahlarbeiter, der seine Identität über Arbeit definiert, erlebt den Strukturwandel als existentielle Bedrohung — und landet bei der AfD nicht trotz, sondern wegen dieser Ohnmacht.
 
-### → [[Gedankenwelten/Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 
 Manow erklärt strukturell, warum das Paradox dieser Note (AfD steigt trotz niedrigster Asylzahlen) kein Paradox ist: Migrationsverschärfung adressiert die falsche Variable — AfD-Wähler reagieren auf Souveränitätsverlust, nicht auf Asylzahlen.
 
-### → [[Gedankenwelten/Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger]]
+### → [[Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger]]
 
 Sea-Watch beschossen, 35.000 Tote, EU-finanzierte libysche Milizen: Das ist Kellers These der normativen Erosion durch Duldung — das Völkerrecht versagt nicht wegen fehlender Regeln, sondern weil Staaten aktiv Verstöße finanzieren.
 
-### → [[Gedankenwelten/Zeitgeist/Heinz Bude — Gesellschaft der Angst]]
+### → [[Zeitgeist/Heinz Bude — Gesellschaft der Angst]]
 
 Das BR-Feature "Der Arbeiter und die AfD" über Peter aus Köln ist die empirische Bestätigung von Budes Dienstleistungsproletariat-Analyse (2014): Arbeit als Identitätskern, kein Solidaritätspotential nach unten — der Nährboden für Rechtspopulismus, 12 Jahre später dokumentiert.
 

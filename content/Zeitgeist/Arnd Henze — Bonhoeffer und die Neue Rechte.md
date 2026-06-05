@@ -24,7 +24,7 @@ Quelle: [Bonhoeffer und „Die Neue Rechte" – Ein Gespräch mit Arnd Henze](ht
 >
 > Wichtigste Werke: *Kann Kirche Demokratie? Wir Protestanten im Stresstest* (2019), *Mit Gott gegen die Demokratie* (2026). Kernthese: Der deutsche Protestantismus war bis 1933 „durch und durch antidemokratisch" — ein Erbe, das bis heute in Frömmigkeitsmilieus nachwirkt und die evangelikale Allianz mit autoritären Bewegungen begünstigt.
 >
-> → [[Gedankenwelten/DenkerVita/Arnd Henze|DenkerVita]]
+> → [[DenkerVita/Arnd Henze|DenkerVita]]
 >
 > Gesprächspartner: **Andrea Thiemann** (Vorsitzende des Arbeitskreises „ImDialog"), **Peter Noss** (Ökumenereferent). Moderation: **Dr. Eberhard Pausch** (Evangelische Akademie Frankfurt).
 
@@ -266,23 +266,23 @@ Die Kirche darf — und soll — scharf sein. Aber die Haltung, aus der heraus d
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Denker/Dietrich Bonhoeffer — Theorie der Dummheit]]
+### → [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]]
 
 Die direkteste Verbindung: Bonhoeffer selbst beschreibt, wie Macht und Gruppeneinbindung Menschen für Argumente unzugänglich macht. Henzes Analyse der Vereinnahmung ist das Spiegelbild: nicht Dummheit macht Bonhoeffer verfügbar, sondern die Entkontextualisierung — sie macht seine Rhetorik zu einem leeren Gefäß, das jeder füllen kann.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
+### → [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
 
 Die Doppelkontinuitätsstrategie der AfD (Wir = legitime Erben des Widerstands) erklärt, warum die Partei trotz Skandalen stabil bleibt. Henze beschreibt den erinnerungspolitischen Mechanismus, MONITOR die mediale Normalisierung — zwei Seiten derselben Resistenz.
 
-### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
+### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 
 Kemper analysiert den ideologischen Rahmen der neuen Rechten; Henze zeigt, wie dieser Rahmen durch symbolische Aneignung historischer Widerstandsfiguren Legitimation gewinnt. Vereinnahmung von Bonhoeffer und der Aufbau eines Technofaschismus-Narrativs sind beide Strategien derselben Legitimationsbeschaffung.
 
-### → [[Gedankenwelten/Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
+### → [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
 Was Henze für Deutschland beschreibt, ist Teil eines transnationalen Netzwerks: Die Metaxas-Trump-Bonhoeffer-Verbindung ist keine US-Sonderpathologie, sondern ein exportiertes Template der religiösen Rechten, das CPAC als institutionelle Infrastruktur weltweit verbreitet.
 
-### → [[Gedankenwelten/Panorama/Demokratische Wertschoepfung]]
+### → [[Panorama/Demokratische Wertschoepfung]]
 
 Die Frage nach demokratischen Institutionen, die widerstehen können, taucht in beiden Notes auf — von verschiedenen Seiten. Henze fragt, was Bonhoeffers Realitätsblick für heute bedeutet; das Panorama fragt, welche wirtschaftlichen und sozialen Strukturen Demokratie tragen.
 

@@ -73,4 +73,4 @@ Was Görlitz auszeichnet: Sie denkt nicht nur in Normen, sondern in *Wirkungen*.
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+- [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]

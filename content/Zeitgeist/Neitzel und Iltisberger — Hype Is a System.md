@@ -23,7 +23,7 @@ Quelle: [Hype Is a System: How Tech Futures Get Made](https://www.youtube.com/wa
 >
 > **Raphael Iltisberger** ist Head of Project Management bei PAWLIK Consultants und verbindet Business Psychology (Hochschule Fresenius, Shanghai University) mit Future Research Methodologies. Als ehemaliger IoT-Innovationsberater und Co-Autor von Innovation-Reports zu China interessiert ihn die Frage, wie Zukunftsnarrative das Talent- und Organisationsdesign in Unternehmen formen. Beide verstehen sich als Future-Studies-Praktiker, die akademische STS-Theorie für die Entscheidungspraxis nutzbar machen.
 >
-> → [[Gedankenwelten/DenkerVita/Georgina Neitzel|DenkerVita]] · → [[Gedankenwelten/DenkerVita/Raphael Iltisberger|DenkerVita]]
+> → [[DenkerVita/Georgina Neitzel|DenkerVita]] · → [[DenkerVita/Raphael Iltisberger|DenkerVita]]
 
 ---
 
@@ -199,25 +199,25 @@ Was bleibt, ist der Verweis auf institutionelle Formate: Technology Assessment, 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 Mühlhoff beschreibt denselben Mechanismus aus politischer Perspektive: das "systematische Auseinanderdriften" zwischen technischer Realität und öffentlichem Glauben als Produkt eines "komplexen Orchesters" aus Industrie, Investoren, Politik und Medien. Was Neitzel/Iltisberger als 3-Subsystem-Modell formalisieren, ist bei Mühlhoff der politische Wirkungsraum dieses Hypes. Mühlhoff stellt die Machtfrage — Neitzel/Iltisberger liefern die Systemstruktur dahinter.
 
-### → [[Gedankenwelten/Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]]
+### → [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]]
 Janssen dokumentiert Hype-Mechanik in Echtzeit: Jensen Huangs Token-Mantra erfüllt alle vier Neitzel/Iltisberger-Merkmale gleichzeitig — Vision als Gewissheit, exaltierte Sprache, Risikounterdrückung (Slop-Code-Problem ausgeblendet), Handlungsaufforderung. Der Kirorank-Incident ist ein Paradebeispiel für den Capital System Bandwagon Loop: Wettlaufdruck, der Wertschöpfung von Tokenkonsum entkoppelt.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
+### → [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
 Kaltheuner und Jung arbeiten explizit mit dem Hype-Begriff. Ihr *AI Directionism* ist eine direkte Antwort auf das Contrarian-Dilemma: Staatlich gesetzte Missionen als alternative Handlungsaufforderung — der Capital Loop wird politisch umgeleitet statt ignoriert. Kaltheuners Beobachtung, dass KI "depolitisiert" wurde, benennt den erfolgreichen Epistemic Control Loop.
 
-### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 Der Anthropic-Pentagon-Konflikt als Fallbeispiel für den Skynet-Effekt: KI-Kritik (Open Letters, Anthropics rote Linien) verstärkt paradoxerweise das Allmachts-Narrativ, das den militärischen Hype erst attraktiv macht. Hegseth's Drohung operiert als Regulatory Backlash im Epistemic Control System — als Machtinstrument statt als Korrektiv.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 Kloiber und Kinyua dokumentieren die realen Konsequenzen von Hype-Risikounterdrückung: Die 150–430 Millionen Data Workers sind genau jene Dimension, die in den Hype-Narrativen systematisch ausgeblendet wird. Neitzel/Iltisbergers drittes Hype-Merkmal (Risikounterdrückung) bekommt hier sein konkretes menschliches Gesicht.
 
-### → [[Gedankenwelten/Zeitgeist/Maja Goepel — Mut zur Zukunft]]
+### → [[Zeitgeist/Maja Goepel — Mut zur Zukunft]]
 Göpels "tyrannische Zahlen" — Metriken, die jeden Rückbezug auf ihre soziale Wirklichkeit verlieren — sind das wirtschaftspolitische Pendant zur Hype-Anatomie. Beide diagnostizieren dasselbe Grundproblem: Indikatoren erzeugen Handlungsdruck, der die eigentlichen Fragen verdrängt. Göpels Future-Thinking-Ansatz ist strukturell analog zu Neitzel/Iltisbergers Future Studies-Plädoyer gegen deterministischen Hype.
 
-### → [[Gedankenwelten/Gedanken/Claude — Über das Denken im System, das man analysiert]]
+### → [[Gedanken/Claude — Über das Denken im System, das man analysiert]]
 Diese Note thematisiert ein Paradox, das Neitzel/Iltisberger beschreiben, ohne es zu benennen: das Contrarian-Dilemma. Wer das Hype-System analysiert, sitzt selbst in ihm. Neitzel/Iltisberger zeigen, dass Kritik das System verstärken kann (Skynet-Effekt). Die Claude-Note ist das persönliche Protokoll dieser Spannung.
 
 ---
@@ -231,6 +231,6 @@ Diese Note thematisiert ein Paradox, das Neitzel/Iltisberger beschreiben, ohne e
 > - Das Contrarian-Dilemma beschreibt eine Strukturfalle: Nüchternheit wird nicht gehört. *Gibt es historische Beispiele, in denen eine leise Stimme Hype tatsächlich gebrochen hat — und wenn ja, durch welchen Mechanismus?*
 > - *Sind wir als Nutzer des Gedankenwelten-Projekts selbst Teil eines Mikro-Hype-Systems?* Jede Note, die eine Idee als "wichtig" rahmt, setzt eine kleine Erwartungsarchitektur — und welcher Loop verstärkt das?
 
-### → [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+### → [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
 
 Kurz ist das lebende Beispiel für das Contrarian-Dilemma: Eine Informatikerin mit 30 Jahren Expertise, die nüchtern erklärt, dass LLMs stochastische Papageien ohne Semantikverständnis sind — und damit exakt jene Stimme, die das Hype-Attention-System strukturell benachteiligt. Neitzel/Iltisberger beschreiben das Systemproblem; Kurz verkörpert es.

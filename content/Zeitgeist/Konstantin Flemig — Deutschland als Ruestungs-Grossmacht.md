@@ -20,7 +20,7 @@ Quelle: [Deutschland wird Rüstungs-Großmacht! USA bei Munition überholt](http
 > [!info] Wer spricht?
 > **Konstantin Flemig** (geb. 1988, Böblingen) — deutscher Kriegsreporter, Dokumentarfilmer und Buchautor. Ausbildung an der Deutschen Journalistenschule München und der Filmakademie Baden-Württemberg; Mitglied der Rogue Film School (Werner Herzog). Co-Gründer und Host von *CRISIS – Hinter der Front* (funk/ARD/ZDF, 2022–2024), seit 2024 unabhängig tätig. YouTube-Kanal „Konstantin Flemig – Kriegsreporter" mit ca. 220.000 Abonnenten. War selbst mehrfach in Kramatorsk und Donezk vor Ort. Buch: *Freiheit unter Feuer* (Heyne Verlag). Dozent für Kriegs- und Krisenjournalismus an der Deutschen Journalistenschule.
 >
-> → [[Gedankenwelten/DenkerVita/Konstantin Flemig|DenkerVita]]
+> → [[DenkerVita/Konstantin Flemig|DenkerVita]]
 
 ---
 
@@ -175,7 +175,7 @@ Munitionsproduktion im Maßstab von 1,1 Millionen Schuss benötigt Rohstoffe —
 
 ---
 
-### → [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
+### → [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
 
 Stremlau und Göpel setzen die analytische Gegenkategorie zu Flemigs Rüstungsboom: "notwendig aber nicht nachhaltig" (regrettable necessities). Flemig beschreibt, wie Rüstung zur neuen Jobmaschine wird; Stremlau erklärt, warum das keine Taxonomie-Kategorie werden darf — Waffen zerstören, was Transformation aufbauen soll. Zwei Notes, die dieselbe gesellschaftliche Wette aus entgegengesetzten Perspektiven beleuchten.
 

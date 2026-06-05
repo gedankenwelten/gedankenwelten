@@ -360,7 +360,7 @@ Hans schließt mit dem Verfassungsväter-Satz: **„Keine Freiheit für die Fein
 
 ## Verbindungen
 
-- [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]] — Kaltheuner versucht den politischen Gegenzug zu Mühlhoffs Desouveränisierungs-Diagnose: europäische Marktgestaltung als strukturelle Absicherung digitaler Souveränität. Diagnose und Gegenmittel als Brückenpaar.
+- [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]] — Kaltheuner versucht den politischen Gegenzug zu Mühlhoffs Desouveränisierungs-Diagnose: europäische Marktgestaltung als strukturelle Absicherung digitaler Souveränität. Diagnose und Gegenmittel als Brückenpaar.
 - [[Denker/Francesca Bria — The Authoritarian Stack]] — Brias Studie ist Mühlhoffs explizite Hauptreferenz für die These der Staatsübernahme durch Tech; Mühlhoff referiert sie als Kurzfassung seiner eigenen These. Bria liefert die Datenbasis: 250+ Akteure, \$45Mrd Finanzflüsse, fünf Domänen privatisierter Souveränität
 - [[Andreas Kemper — Technofaschismus und die AfD]] — direkter thematischer Zwilling: Kemper analysiert Technofaschismus von der AfD-Seite, Mühlhoff von der Silicon-Valley-Seite; zusammen ergibt sich das Gesamtbild
 - [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — von Redecker und Mühlhoff teilen die Diagnose eines strukturellen Neofaschismus; von Redecker aus politisch-philosophischer, Mühlhoff aus tech-kritischer Perspektive
@@ -375,21 +375,21 @@ Hans schließt mit dem Verfassungsväter-Satz: **„Keine Freiheit für die Fein
 - [[rabbit hole — Ungarn-Wahl KI-Wahlkampf]] — Mühlhoffs Analyse in Echtzeit: KI als Instrument autoritärer Machterhaltung, erstmals von einem amtierenden EU-Regierungschef im Wahlkampf eingesetzt — nicht Zukunftsszenario, sondern April 2026
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Vivian Wangs China-KI-Analyse im NZ-Salon: Staatsvertrauen als KI-Vertrauen — bestätigt Mühlhoffs autoritäre KI-These
 - [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung fordert: KI-Monopole müssen vergesellschaftet werden — LLMs basieren auf kollektivem Wissen, dürfen nicht privatisiert sein
-- [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]] — Objection.ai als konkretes Produkt von Mühlhoffs Desouveränisierungs-These: KI richtet über journalistische Wahrheit, niemand befiehlt mehr — ein Algorithmus hat errechnet
+- [[Zeitgeist/Morpheus - Whistleblower mundtot machen]] — Objection.ai als konkretes Produkt von Mühlhoffs Desouveränisierungs-These: KI richtet über journalistische Wahrheit, niemand befiehlt mehr — ein Algorithmus hat errechnet
 
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
 Grenzgänger Studios dokumentiert Thiels Gesamtbiografie als konkretes Fallbeispiel für Mühlhoffs Desouveränisierungs-These: CIA-Startfinanzierung → Palantir → DOGE-Datenzugriff → ObjectionAI. Was Mühlhoff als strukturelle Logik beschreibt (exponentielles KI-Wachstum erzwingt antidemokratische Governance), hat Thiel Schritt für Schritt realisiert.
 
-### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Kurz und Görlitz liefern den deutschen Rechtsfall zu Mühlhoffs Desouveränisierungsthese: Palantir übernimmt staatliche Kernfunktionen (Polizei, Gefahrenabwehr) ohne demokratische Kontrolle — der Vendor Lock-in und das Scheitern der Gesetze an Verfassungsstandards ist die empirische Verifikation seiner strukturellen Kritik.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Kloiber und Kinyua liefern das menschliche Fundament von Mühlhoffs Kolonialismus-These: Die 150–430 Mio. Data Workers sind nicht Randnotiz, sondern die Rohstoff-Basis des KI-Regimes — Extraktion ohne Kompensation, Süd-Nord-Wertschöpfung in Reinform.
 
-### → [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
+### → [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
 
 Holy Koolaid beschreibt das historische Muster des Imperial Overstretch; Mühlhoff zeigt den nächsten Schritt: wenn staatliche Infrastruktur privatisiert und digitalisiert ist, braucht ein kollabierendes Imperium keine Propaganda mehr — Verhaltenssteuerung ist direkt in die Plattformarchitektur eingebaut.
 
@@ -397,6 +397,6 @@ Holy Koolaid beschreibt das historische Muster des Imperial Overstretch; Mühlho
 
 Janssens c't-3003-Analyse der Computex 2026 ist Mühlhoffs These in der konkreten Produktrealität: Jensen Huangs Tokenextemismus — Wert eines Entwicklers gemessen in Tokenkosten — ist der exakte Mechanismus, den Mühlhoff als Umverteilung von unten nach oben bei wenigen oligopolistischen Akteuren beschreibt. Der Amazon-Kirorank-Incident (Tokenmaxxing) ist der lebendige Beweis, wie perverse Anreize entstehen wenn Infrastruktur-Anbieter das Kennzahlsystem definieren.
 
-### → [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
+### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
 
 Neitzel/Iltisberger formalisieren die Systemstruktur des KI-Hypes (3 Subsysteme, 4 Merkmale, 6 Akteurs-Gruppen), die Mühlhoff politisch analysiert: ihr Modell ist die analytische Architektur hinter dem, was er als "Orchester vieler Akteure" beschreibt. Mühlhoff fragt, wer die Macht gewinnt — Neitzel/Iltisberger erklären, wie das System das möglich macht.

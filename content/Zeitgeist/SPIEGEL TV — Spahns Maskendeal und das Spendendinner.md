@@ -167,27 +167,27 @@ Die Geste des Interviews — das Umlenkung auf die Treppe, das Weglächeln, die 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Nico Semsrott — Bruessel sehen und sterben|Nico Semsrott — Brüssel sehen und sterben]]
+### → [[Zeitgeist/Nico Semsrott — Bruessel sehen und sterben|Nico Semsrott — Brüssel sehen und sterben]]
 
 Beide Notes beschreiben dasselbe strukturelle Muster: Kontrollorgane, die absichtlich zahnlos konstruiert sind, damit Machtmissbrauch im Verborgenen bleibt. Semsrott nennt es „Transparenz-Attrappen" — Deklarationen ohne Belege, Kommissionen ohne Durchgriffsrechte. Spahns Maskendeal funktioniert nach derselben Logik: Das 9.999-Euro-Limit ist kein Zufall, sondern ein bewusst offengelassenes Schlupfloch. Wer die Regeln macht, kontrolliert das Spiel — auf EU-Ebene wie auf Bundesebene.
 
-### → [[Gedankenwelten/Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Sandra Navidi — Verbrecher getarnt als Regierung]]
+### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Sandra Navidi — Verbrecher getarnt als Regierung]]
 
 Navidi beschreibt für die USA dieselbe Grundstruktur, die der Maskendeal für Deutschland belegt: Politische Macht als Monetarisierungsapparat. Ihr entscheidender Befund — Korruption gedeiht nicht trotz, sondern innerhalb funktionierender Demokratien — gilt auch hier. Spahns Spendendinner ist die provinzielle Variante dessen, was Navidi als „systemisierte Selbstverständlichkeit" beschreibt.
 
-### → [[Gedankenwelten/Zeitgeist/Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)|Staiy — Reiche EXPOSED]]
+### → [[Zeitgeist/Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)|Staiy — Reiche EXPOSED]]
 
 Katharina Reiche und Jens Spahn: zwei Varianten desselben CDU-Drehtür-Musters. Dort EnBW und Gaskraftwerke, hier Maskenhersteller und Pandemieprofite. Das verbindende Prinzip: die systematische Privatisierung staatlicher Entscheidungsmacht durch Parteinetzwerke — reproduzierbar, nicht zufällig.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]]
+### → [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]]
 
 Spahns Netzwerk ist eines der wirkungsstärksten Argumente für politische Gleichgültigkeit. MONITOR belegt, dass das Gefühl „die sind alle gleich" AfD-Wähler antreibt. Die Maskenaffäre ist damit nicht nur Korruptionsdokument, sondern Demokratie-Erosions-Dokument: Vetternwirtschaft ohne Konsequenzen schlägt direkt auf Vertrauen durch.
 
-### → [[Gedankenwelten/Zeitgeist/Staiy — News: Die Regierung zockt euch ab (02.04.2026)|Staiy — Die Regierung zockt euch ab]]
+### → [[Zeitgeist/Staiy — News: Die Regierung zockt euch ab (02.04.2026)|Staiy — Die Regierung zockt euch ab]]
 
 Zwei Seiten derselben Ungleichgewichtsmaschine: Während Spahns Netzwerk Zugang zu staatlichen Ressourcen kauft, zeigt die Staiy-Note, wie dasselbe System nach unten umverteilt — Steuersenkungen für das oberste Prozent, Mehrwertsteuererhöhung für Geringverdiener. Die 9.999-Euro-Spendenschwelle und der minimale Einkommensteuervorteil für Geringverdiener folgen der gleichen Logik: legale Kanäle, die Ungleichheit reproduzieren.
 
-### → [[Gedankenwelten/Panorama/Autoritaerer Internationalismus|Panorama — Autoritärer Internationalismus]]
+### → [[Panorama/Autoritaerer Internationalismus|Panorama — Autoritärer Internationalismus]]
 
 Das Panorama rahmt den Einzelfall in einen größeren Zusammenhang ein: Autoritäre Erosion beginnt nicht mit Putsch, sondern mit der Normalisierung von Vetternwirtschaft innerhalb bestehender demokratischer Institutionen. Spahns Netzwerk ist ein Musterbeispiel dafür, wie demokratische Strukturen von innen ausgehöhlt werden — nicht durch Regelbruch, sondern durch die systematische Ausnutzung von Regelgraubereichen.
 

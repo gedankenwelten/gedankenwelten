@@ -28,7 +28,7 @@ Quelle: [StreitClub #17 "Europa allein zu Haus" mit Marie-Agnes Strack-Zimmerman
 >
 > Der **StreitClub** ist eine Veranstaltungsreihe des Forschungsinstituts Gesellschaftlicher Zusammenhalt (FGZ) an der Goethe-Universität Frankfurt — ein Format, das demokratische Streitkultur modellhaft vorführt.
 >
-> → [[Gedankenwelten/DenkerVita/Marie-Agnes Strack-Zimmermann|DenkerVita Strack-Zimmermann]] · [[Gedankenwelten/DenkerVita/Marc Felix Serrao|DenkerVita Serrao]] · [[Gedankenwelten/DenkerVita/Nicole Deitelhoff|DenkerVita Deitelhoff]] · [[Gedankenwelten/DenkerVita/Michel Friedman|DenkerVita Friedman]]
+> → [[DenkerVita/Marie-Agnes Strack-Zimmermann|DenkerVita Strack-Zimmermann]] · [[DenkerVita/Marc Felix Serrao|DenkerVita Serrao]] · [[DenkerVita/Nicole Deitelhoff|DenkerVita Deitelhoff]] · [[DenkerVita/Michel Friedman|DenkerVita Friedman]]
 
 ---
 
@@ -163,7 +163,7 @@ Serrao bleibt skeptisch: Das sei eine „sehr deutsche Debatte". Vielfalt sei ei
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+### → [[Zeitgeist/auslandsjournal — Trump allein zu Haus]]
 
 Dieselbe Kevin-allein-zu-Haus-Metapher aus dem Gegenwinkel: Hier ist *Trump* der Isolierte. Das auslandsjournal liefert die Diagnose „NATO innen hohl, weil Vertrauen die wichtigste Waffe ist" — die strategische Begründung für die europäische Lage, die der StreitClub beschreibt.
 

@@ -25,7 +25,7 @@ Quelle: [Warum wir leiden... und wie Ksitigarbha einen Ausweg zeigt — Vipassan
 > Formate: 10-Tage-Retreats · Vipassana@Home (Online) · Podcast *Vipassana Jetzt* · Wöchentlicher YouTube-Livestream
 > Website: [vipassana-jetzt.com](https://vipassana-jetzt.com)
 >
-> → [[Gedankenwelten/DenkerVita/Adriaan van Wagensveld|DenkerVita]]
+> → [[DenkerVita/Adriaan van Wagensveld|DenkerVita]]
 
 ---
 
@@ -187,4 +187,4 @@ Das ist eine freundliche Formulierung für etwas Ernstes: Vipassana als Reinigun
 - [[Thich Nhat Hanh — Die Vier Edlen Wahrheiten]] — Thay ist Adriaans erklärter Hauptlehrer (Plum Village). Was Thay "deep looking into ill-being" nennt, ist bei Adriaan die Praxis, die Wunde als Schatz zu begreifen — dieselbe Bewegung: nicht wegsehen, sondern hineingehen.
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Komplementärer Vortrag: Vipassana als Laienpraxis und engagierter Buddhismus im Alltag
 - [[David Chalmers — Das Hard Problem des Bewusstseins]] — Chalmers liefert die analytisch-philosophische Begründung für den Panpsychismus, den Adriaan als eines von drei Weltbildern pragmatisch diskutiert. Wo Adriaan sagt „Ich weiß es nicht", besteht Chalmers darauf, dass die ontologische Frage entscheidend ist.
-- [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Brählers CFT-Haltung entspricht dem Ksitigarbha-Archetypus: mitfühlend aus eigener Kenntnis des Leidens. Ihre Scham-Beschreibung (klebrig-schlüpfrig, unfassbar) benennt genau den Höllenzustand, aus dem Ksitigarbha den Weg herausweist.
+- [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Brählers CFT-Haltung entspricht dem Ksitigarbha-Archetypus: mitfühlend aus eigener Kenntnis des Leidens. Ihre Scham-Beschreibung (klebrig-schlüpfrig, unfassbar) benennt genau den Höllenzustand, aus dem Ksitigarbha den Weg herausweist.

@@ -76,8 +76,8 @@ Der historische Missbrauch des Konfuzianismus — als Instrument kaiserlicher He
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Immanuel Kant]] — Kant hat Konfuzius gelesen; sein kategorischer Imperativ ist die positive Wendung der Goldenen Regel. Beide: inneres Sittengesetz, Mensch als Selbstzweck, Ungehorsam gegen ungerechte Gesetze.
-- [[Gedankenwelten/DenkerVita/Georg Wilhelm Friedrich Hegel]] — Hegel behandelt Konfuzius in seinen Vorlesungen zur Geschichte der Philosophie, ordnet ihn aber als „moralisch-praktisch" ein — keine spekulative Philosophie.
+- [[DenkerVita/Immanuel Kant]] — Kant hat Konfuzius gelesen; sein kategorischer Imperativ ist die positive Wendung der Goldenen Regel. Beide: inneres Sittengesetz, Mensch als Selbstzweck, Ungehorsam gegen ungerechte Gesetze.
+- [[DenkerVita/Georg Wilhelm Friedrich Hegel]] — Hegel behandelt Konfuzius in seinen Vorlesungen zur Geschichte der Philosophie, ordnet ihn aber als „moralisch-praktisch" ein — keine spekulative Philosophie.
 - **Sokrates** — Achsenzeit-Zeitgenosse: beide schreiben nichts, beide werden von Schülern überliefert, beide sterben für ihre Überzeugungen.
 - **Buddha** — Dritter Achsenzeit-Denker: beide lehren Mitgefühl und Selbstkultivierung, aber Konfuzius' Weg führt in die Gesellschaft, Buddhas in die innere Befreiung.
 - **Laozi** — Legendärer Gegenpart: Konfuzius' aktive Ethik vs. daoistisches Wuwei (Nicht-Handeln). Der Disput spiegelt die ewige Spannung zwischen Engagement und Rückzug.
@@ -87,4 +87,4 @@ Der historische Missbrauch des Konfuzianismus — als Instrument kaiserlicher He
 ## Cortex-Notes
 
 - [[Walther Ziegler — Konfuzius in 60 Minuten]] — Tugendethik, fünf Kardinaltugenden, Ren, Dao, Goldene Regel, Achsenzeit
-- [[Gedankenwelten/Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]] — Strukturell analoges Problem: Wie bewahrt man den lebendigen Kern gegen institutionelle Erstarrung? Konfuzius trennt Li von Ren, Soroush kontingente Koraninterpretation von wesentlichem Glaubensfundament
+- [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]] — Strukturell analoges Problem: Wie bewahrt man den lebendigen Kern gegen institutionelle Erstarrung? Konfuzius trennt Li von Ren, Soroush kontingente Koraninterpretation von wesentlichem Glaubensfundament

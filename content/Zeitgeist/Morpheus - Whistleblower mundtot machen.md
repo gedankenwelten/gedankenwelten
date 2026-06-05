@@ -24,7 +24,7 @@ Quelle: [Whistleblower MUNDTOT machen (powered by AI)](https://www.youtube.com/w
 > [!info] Wer spricht?
 > **Cedric Mössner** alias **Morpheus** (*Potsdam*) — Informatik-Educator, YouTuber (TheMorpheus407), Gründer von Bootstrap Academy (kostenlose Tech-Ausbildungsplattform) und European Alternatives (280+ geprüfte EU/Open-Source-Alternativen). Master in Computer Science, Schwerpunkte Machine Learning und IT-Sicherheit. Bekannt für empirische, datengetriebene Tech-Analysen.
 >
-> → [[Gedankenwelten/DenkerVita/Morpheus|DenkerVita]]
+> → [[DenkerVita/Morpheus|DenkerVita]]
 
 ---
 
@@ -232,45 +232,45 @@ Was das zusammen erzeugt, ist nicht eine Wahrheitsinstitution. Es ist eine Absch
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]]
+### → [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]]
 
 Morpheus' Vorgänger-Video: systematische Bias-Tests an KI-Modellen (6.000 API-Calls). Dieselbe empirische Methodik — nur dort gegen kulturellen Bias, hier gegen die Annahme von KI-Neutralität in juristischen Kontexten. Beide Videos zusammen ergeben ein Bild: KI ist kein neutrales Werkzeug, sondern ein Spiegel der Intention seiner Betreiber.
 
-### → [[Gedankenwelten/Zeitgeist/Klarsprech — Peter Thiel und ObjectionAI]]
+### → [[Zeitgeist/Klarsprech — Peter Thiel und ObjectionAI]]
 
 Komplementär-Analyse desselben Instruments: Klarsprech seziert die vier Machtdimensionen (Politik, Überwachung, Justiz, Wahrheit), in die Objection.ai als abschließendes Puzzleteil einrastet. Wo diese Note den Einschüchterungseffekt auf Journalisten und Whistleblower ins Zentrum stellt, arbeitet Klarsprech die politische Architektur dahinter heraus.
 
-### → [[Gedankenwelten/Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
+### → [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
 Die ideologische Wurzel: Thiels These "Freedom and democracy are not compatible" erklärt, warum ein KI-Tribunal über journalistische Wahrheit für Thiel kein Widerspruch ist. Balaji Srinivasans Network-State-Ideologie ist eine Variante desselben Projekts — Souveränität weg vom demokratischen Staat, hin zu privaten Netzwerken mit eigenem Code als Recht.
 
-### → [[Gedankenwelten/Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
 Mühlhoffs Konzept der Desouveränisierung greift hier direkt: Wenn staatliche Kernfunktionen an private Plattformen übergehen, gilt das auch für das, was als "wahr" gilt. Ein KI-Tribunal als Blackbox, das über journalistische Aussagen richtet, ist Desouveränisierung der Öffentlichkeit — niemand befiehlt mehr, ein Algorithmus hat errechnet.
 
-### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
+### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 
 Kempers postfordistischer Faschismus braucht keine Massenaufmärsche — er hat KI. Objection.ai ist ein konkretes Werkzeug dieser Beschreibung: Journalisten werden nicht eingesperrt, sondern mit algorithmischen Trust-Scores und automatisierten Counter-Posts unsichtbar gemacht. SLAPP-Klagen als Service, skaliert für jede Vermögensobergrenze ab 2.000 Dollar.
 
-### → [[Gedankenwelten/Zeitgeist/Koshi Politik — ICE Whistleblower packt aus]]
+### → [[Zeitgeist/Koshi Politik — ICE Whistleblower packt aus]]
 
 Dieselbe Logik auf institutioneller Ebene: Während Objection.ai Whistleblower über externe KI-Tribunale mundtot macht, zeigt die Koshi-Note, wie es innerhalb des Staatsapparats funktioniert — mündliche Befehle statt Schriftstücke, keine Dokumentationsspur. In beiden Fällen: Wer aufdeckt, soll keine Möglichkeit haben, sich zu verteidigen.
 
-### → [[Gedankenwelten/Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
+### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
 
 Mausfeld analysiert, wie Chilling Effect erzeugt wird — nicht durch offene Gewalt, sondern durch diffuse Angst, die kollektives Schweigen produziert. Objection.ai ist der technologische Skalierungssprung: SLAPP-Klagen erzeugten bisher Angst bei Einzelnen durch ruinöse Kosten; der Honor Index erzeugt sie systematisch durch algorithmische Stigmatisierung. Gesteuerte Apathie als Produkt.
 
-### → [[Gedankenwelten/Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen]]
+### → [[Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen]]
 
 Konzeptueller Gegenpol: Wenn Demokratie wesentlich vom freien Informationsfluss und dem Schutz derer abhängt, die aufdecken, greift Objection.ai nicht nur die Pressefreiheit an — sondern das demokratische Gewebe selbst. Die Frage: Kann eine Demokratie überleben, wenn die Fähigkeit zur öffentlichen Wahrheitsfindung privatisiert und kostenpflichtig gemacht wird?
 
-### → [[Gedankenwelten/Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)]]
+### → [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)]]
 
 Gabriel argumentiert, dass KI keine ethischen Entscheidungen treffen kann, weil sie keine Intentionalität hat — keine Verantwortung übernehmen kann. Objection.ai macht genau diese Eigenschaft zum Geschäftsmodell: Ein KI-Tribunal entlastet den Auftraggeber von moralischer Verantwortung. Nicht Thiel urteilt — ein Algorithmus hat geurteilt. Gabriels philosophische Kritik trifft hier ihr konkretes politisches Anwendungsproblem.
 
 ---
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Die Massenkündigung von 1.100+ Data Workers nach investigativem Journalismus über Meta ist dieselbe Retaliation-Logik: Wer Einblick gibt oder aufdeckt, wird eliminiert. Meta kündigte alle, die mit schwedischen Journalisten über Ray-Ban-Daten gesprochen hatten — Whistleblower-Mundtotmachen, diesmal gegen Arbeitskräfte statt gegen Journalisten.
 
@@ -283,4 +283,4 @@ Die Massenkündigung von 1.100+ Data Workers nach investigativem Journalismus ü
 > - Objection.ai nennt sich "trustless" — aber vertraut es nicht vollständig darauf, dass die Öffentlichkeit KI-Urteile für neutral hält? Ist das nicht ein Vertrauensverhältnis, nur mit umgekehrten Vorzeichen?
 > - Balaji Srinaivasan will private Communities mit eigener Wahrheit. Was unterscheidet das von einem Feudalsystem — nur dass der Fürst jetzt Code schreibt statt Burgen zu bauen?
 > - Die Otto-Brenner-Stiftung belegt: Ein Drittel der Betroffenen zieht sich zurück. Was geht damit verloren — nicht nur an Journalismus, sondern an kollektivem Wissen über Missstände?
-> - [[Gedankenwelten/Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]] zeigt: KI hat politischen Bias. Wie kann dasselbe KI-Ökosystem gleichzeitig als Wahrheitstribunal auftreten?
+> - [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]] zeigt: KI hat politischen Bias. Wie kann dasselbe KI-Ökosystem gleichzeitig als Wahrheitstribunal auftreten?

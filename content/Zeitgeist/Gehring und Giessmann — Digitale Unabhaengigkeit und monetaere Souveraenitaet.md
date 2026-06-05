@@ -23,10 +23,10 @@ Quelle: [re:publica 26 — Digitale Unabhängigkeit & monetäre Souveränität j
 
 > [!info] Wer spricht?
 > **Petra Gehring** (*TU Darmstadt*) — Philosophieprofessorin und Wissenschaftliche Direktorin des Zentrums für verantwortungsbewusste Digitalisierung (ZEVEDI) in Hessen. Hintergrund in der kontinentalen Philosophie (Foucault, Derrida), heute vor allem angewandte Digitalethik und Policy-Design. Ihr Kernprojekt: Wie gestaltet man digitale Infrastrukturen partizipativ? 2022 leitete sie das *Bürgergutachten digitaler Euro* — ein partizipatives Assessment, das erhebt, was Laien vom CBDC-Design erwarten. Mit dem Podcast *Digitalgespräch* (ZEVEDI/CWD) macht sie Digitaldebatten öffentlich zugänglich.
-> → [[Gedankenwelten/DenkerVita/Petra Gehring|DenkerVita]]
+> → [[DenkerVita/Petra Gehring|DenkerVita]]
 >
 > **Sebastian Gießmann** (*Universität Siegen*) — Medienwissenschaftler und Kulturhistoriker der Infrastrukturen. Leitet die Forschergruppe „Geschichte und Ethnografie kooperativer Medienpraktiken" im SFB 1187 „Media of Cooperation". Sein Zugang: Zahlungssysteme sind keine technischen Selbstläufer, sondern Ergebnis historischer Kämpfe um Standards, Macht und Ausschluss. 2026 erschien sein *Kreditkarten-Buch*, das die Geschichte digitaler Zahlungsinfrastrukturen von der EC-Karte bis zum digitalen Euro erzählt — inklusive des Kapitel „Der Ring Europas um die Zahlungssysteme".
-> → [[Gedankenwelten/DenkerVita/Sebastian Giessmann|DenkerVita]]
+> → [[DenkerVita/Sebastian Giessmann|DenkerVita]]
 >
 > **Veranstaltung:** re:publica 26, Berlin, 20.05.2026 · Gefördert von der Stiftung Mercator
 
@@ -204,27 +204,27 @@ Gießmann fügt hinzu: Visa und Mastercard werden das nicht ohne Weiteres tun �
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Francesca Bria — The Authoritarian Stack|Francesca Bria — The Authoritarian Stack]]
+### → [[Zeitgeist/Francesca Bria — The Authoritarian Stack|Francesca Bria — The Authoritarian Stack]]
 
 Bria kartiert, wie private US-Konzerne (Palantir, SpaceX, Stablecoins) staatliche Kernsouveränität übernehmen — inklusive der gezielten Strategie, öffentliche CBDCs durch private Krypto-Infrastruktur zu ersetzen. Gehring & Gießmann zeigen denselben Mechanismus im europäischen Zahlungsraum: Mastercard kauft 2003 die Eurocard, US-Konzerne dominieren 60–66% der grenzüberschreitenden Zahlungen. Bria nennt es "Privatized Sovereignty" — Gießmann nennt es "Souveränitätsverlust durch Übernahme". Die Ergänzung: Bria zeigt die US-Binnenperspektive (Staat gibt bewusst ab), Gehring/Gießmann zeigen die europäische Außenperspektive (Kontinent verliert, weil kein politischer Schutz da war).
 
-### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 
 Beide re:publica-26-Beiträge verhandeln dieselbe Grundfrage — europäische Abhängigkeit von US-Infrastruktur — aber aus entgegengesetzten Antworten: Büttner & Kaufmann setzen auf privatwirtschaftlichen Wettbewerb als Souveränitätspfad. Gehring & Gießmann zeigen historisch, dass genau dieser Ansatz (Eurocard) scheiterte, weil Privatwirtschaft am Ende von US-Konzernen aufgekauft wird. Der produktive Widerspruch: Marktwirtschaftliche Souveränität vs. demokratisch gestützte öffentliche Infrastruktur — beide auf derselben Bühne 2026.
 
-### → [[Gedankenwelten/Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN|Christoph Hein — Geoökonomie NEU DENKEN]]
+### → [[Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN|Christoph Hein — Geoökonomie NEU DENKEN]]
 
 Hein beschreibt das Ende von "Wandel durch Handel" — Deutschland hat Abhängigkeit mit Partnerschaft verwechselt. Gehring & Gießmann zeigen, dass sich dasselbe im Kleinen der Zahlungsinfrastruktur wiederholt: Europa hat Eurocard aufgebaut, politisch nicht geschützt, und Mastercard hat übernommen. Heins Geoökonomie-Brille (Wirtschaft als Machtinstrument) erklärt, warum die Eurocard-Übernahme keine neutrale Marktentscheidung war, sondern ein strategischer Coup.
 
-### → [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN|Stremlau & Göpel — Investieren NEU DENKEN]]
+### → [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN|Stremlau & Göpel — Investieren NEU DENKEN]]
 
 Stremlaus Kernthese — "Geld ist niemals neutral" — findet hier ihre konkrete Infrastrukturversion: Zahlungsdaten sind nicht neutral, sie produzieren "Verhaltensüberschuss" (Zuboff). Beide Notes verhandeln, wer die Gestaltungsmacht über Kapitalflüsse haben soll — Stremlau auf der Investitionsebene (ESG als demokratische Steuerung), Gehring/Gießmann auf der Infrastrukturebene (EZB-Architektur vs. Bankenlobby). Gemeinsam: Die Kontrolle über Finanzinfrastrukturen ist politische Macht.
 
-### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa|Varoufakis — 2008 Crash, Populismus und Europa]]
+### → [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa|Varoufakis — 2008 Crash, Populismus und Europa]]
 
 Varoufakis' Beobachtung, dass Finanzsysteme demokratischer Deliberation entzogen werden, weil die Fachsprache nur Insider verstehen, ist die Metaebene zu dem, was Gehring & Gießmann im Konkreten beschreiben: CBDC-Design, Haltelimits, Schnittstellen-Spezifikationen — das nutzt die Lobby systematisch aus. Varoufakis' Ökonomiekritik ("Religion mit Gleichungen") erklärt strukturell, warum die 58:1-Asymmetrie so stabil ist.
 
-### → [[Gedankenwelten/Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa|Ivan Krastev — Wie zukunftsfähig ist Europa]]
+### → [[Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa|Ivan Krastev — Wie zukunftsfähig ist Europa]]
 
 Krastevs Unterscheidung von Disruption (vorübergehende Störung) und Rupture (echter Bruch) gibt der historischen Diagnose einen Rahmen: Die Eurocard-Übernahme 2003 war eine Disruption — still und schmerzhaft. Ein Abschneiden vom Visa/Mastercard-Netzwerk wäre ein Rupture — irreversibel. Krastevs Warnung, dass Europa systemische Risiken als korrigierbare Betriebsunfälle behandelt, spiegelt sich direkt im langsamen parlamentarischen Prozess wider, den Gehring & Gießmann beschreiben.
 

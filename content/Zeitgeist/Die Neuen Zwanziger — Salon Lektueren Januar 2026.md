@@ -22,7 +22,7 @@ Quelle: [Die Neuen Zwanziger — Salon Januar 2026](https://steady.page/de/neuez
 
 > [!info] Wer spricht?
 > **Wolfgang M. Schmitt** und **Stefan Schulz** — Hosts des Podcasts „Die Neuen Zwanziger". Zweiwöchentlicher Lektüre-Salon, in dem sie Bücher, Artikel und Essays diskutieren. In dieser Ausgabe: eine über zweistündige Besprechung von Patrick Kaczmarczyks *Zerfall der Weltordnung* als Haupttext, dazu Dagmar Herzogs *Der neue faschistische Körper*, Giulia Enders' *Organisch*, Thomas Wagners *Wege aus der Gewalt*, ein Heritage-Foundation-Strategiepapier zur Familienpolitik und sechs kürzere Texte — von Mubi-Kritik bis Dario Amodeis KI-Essay.
-> → [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
+> → [[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
 
 ---
 

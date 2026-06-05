@@ -24,11 +24,11 @@ Quelle: [Denkangebot Podcast: Annika Brockschmidt über Codes der extremen US-Re
 > [!info] Wer spricht?
 > **Annika Brockschmidt** — deutsche Journalistin und Autorin, spezialisiert auf die religiöse und extreme Rechte in den USA. Studierte Geschichte, Germanistik und War and Conflict Studies in Heidelberg, Durham und Potsdam. Mit ihrem Buch *Amerikas Gotteskrieger* (2021) lieferte sie eine der ersten deutschsprachigen Tiefenanalysen der Religiösen Rechten; *Die Brandstifter: Wie Extremisten die Republikanische Partei übernahmen* (2024) setzt die Analyse fort. Co-Host des Podcasts *Feminist Shelf Control*.
 >
-> → [[Gedankenwelten/DenkerVita/Annika Brockschmidt|DenkerVita]]
+> → [[DenkerVita/Annika Brockschmidt|DenkerVita]]
 >
 > **Katharina Nocun** — Datenschutzexpertin, Journalistin, Autorin (*Fake Facts*, *Gefährlicher Glaube*) und Host des Denkangebot-Podcasts. Spezialisiert auf Verschwörungstheorien, Desinformation und die Verbindung zwischen esoterischen Bewegungen und rechtsextremer Agitation.
 >
-> → [[Gedankenwelten/DenkerVita/Katharina Nocun|DenkerVita]]
+> → [[DenkerVita/Katharina Nocun|DenkerVita]]
 
 Das Gespräch ist eine Sonderausgabe des Denkangebot-Podcasts, live aufgezeichnet auf der re:publica 26 in Berlin. Beide Frauen dekodieren systematisch die visuellen, sprachlichen und kulturellen Codes, mit denen die extreme US-Rechte kommuniziert — Codes, die für Eingeweihte klare Signale senden, während sie Außenstehenden harmlos erscheinen.
 
@@ -74,7 +74,7 @@ Es ist das seltene Eingeständnis aus dem Inneren des Systems: Die Codes veränd
 
 [▶ 17:07](https://www.youtube.com/watch?v=VJp0VZP7dRg&t=1027)
 
-![[Gedankenwelten/assets/brockschmidt_codes_1718.png|700]]
+![[assets/brockschmidt_codes_1718.png|700]]
 
 > [!info] Quelle
 > @WhiteHouse auf X — öffentlicher Regierungspost vom 14. Januar 2026
@@ -111,7 +111,7 @@ Der Post wurde nach Medienberichterstattung gelöscht — die Musikunterlegung a
 
 [▶ 33:11](https://www.youtube.com/watch?v=VJp0VZP7dRg&t=1991)
 
-![[Gedankenwelten/assets/brockschmidt_code_3228.png|700]]
+![[assets/brockschmidt_code_3228.png|700]]
 
 > [!info] Quelle
 > @DoWCTO (Department of War CTO) auf X — öffentlicher Regierungspost vom 14. Januar 2026
@@ -256,31 +256,31 @@ Es ist die klassische Spannung zwischen Aufmerksamkeitsökonomie und demokratisc
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocuns Analyse der KI-gestützten Desinformationskampagnen der extremen Rechten ist das Gegenstück zu diesem Gespräch: Dort geht es um die Produktionsmethoden, hier um die Codes und Symbole. Beide Dimensionen — das Wie der Produktion und das Was der Botschaften — ergänzen sich zu einem Gesamtbild.
 
-### → [[Gedankenwelten/Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
+### → [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 
 Kendi analysiert die Great Replacement Theory als ideologisches Fundament des US-Autoritarismus — Brockschmidt/Nocun zeigen die konkreten Codierungsmechanismen, mit denen genau diese Theorie in der politischen Kommunikation zirkuliert. Kendi erklärt das politische Warum des „We will have our home again", Brockschmidt/Nocun entschlüsseln das kommunikative Wie: Dog Whistle als GRT-Trägerfrequenz.
 
-### → [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
+### → [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]]
 
 Das GFF-Gutachten stößt auf genau das Rechtsproblem, das Brockschmidt/Nocun kommunikationsanalytisch illustrieren: Dog Whistles sind mit plausible deniability ausgestattet — das macht sie politisch wirkungsvoll und juristisch schwer fassbar. Moini selbst fragt im Gespräch, ob Remigration allein als juristische Bedrohung reicht; diese Note zeigt, wie bewusst der Begriff als verschleierter Angriff konstruiert wurde.
 
-### → [[Gedankenwelten/Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
+### → [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
 Die CPAC-Note kartiert den institutionellen Rahmen, in dem die hier dekodierten Codes zirkulieren: Heritage Foundation, Bannon-Netzwerk und CPAC-Infrastruktur sind der transatlantische Kanal, über den US-Strategien (Dog Whistles, Southern Strategy, Fashwave) nach Europa transportiert werden. Brockschmidt/Nocun zeigen die Botschaften; die CPAC-Note zeigt den Leitungsweg.
 
-### → [[Gedankenwelten/Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]]
+### → [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]]
 
 Temelkurans Stufenmodell trifft diese Note in Stufe 4: Scham abbauen, das Unsagbare sagbar machen. Die Southern Strategy ist ein Jahrzehnte langer Stufe-4-Prozess — Dog Whistles sind das Instrument, mit dem die Grenze des Sagbaren in Zeitlupe verschoben wird, von „states rights" über „welfare queens" bis zu „remigration".
 
-### → [[Gedankenwelten/Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]]
+### → [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]]
 
 Amlinger/Nachtwey erklären die emotionale Infrastruktur hinter dem, was Brockschmidt/Nocun an der Oberfläche dekodieren: Fashwave bedient dieselbe nostalgisch-destruktive Sehnsucht, die A/N als emotionalen Motor des demokratischen Faschismus identifizieren. Die 80er-Ästhetik der White Nationalists ist kein Zufall — sie verspricht die Rückkehr eines imaginären Sehnsuchtsorts, der nie existiert hat, und zielt damit direkt auf die Zerstörungslust als Antriebskraft.
 
-### → [[Gedankenwelten/Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
+### → [[Denker/Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm — Psychoanalyse des Faschismus]]
 
 Dog Whistles setzen einen Empfänger voraus, der hören will — und Fromms autoritärer Charakter ist dieser Empfänger. Die Codes funktionieren nicht als Überzeugung, sondern als Wiedererkennungsritual: Sie signalisieren der Ingroup „wir wissen, wer wir sind" und bieten dem Einzelnen Erlösung vom eigenständigen Urteil. Fromms Diagnose, dass der masochistische Charakter Unterwerfung begehrt statt Freiheit, erklärt die Empfänglichkeit für eine Kommunikationsform, die auf Doppeldeutigkeit und plausible deniability aufgebaut ist.
 

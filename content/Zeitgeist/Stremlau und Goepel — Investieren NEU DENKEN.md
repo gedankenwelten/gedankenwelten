@@ -27,7 +27,7 @@ Quelle: [Investieren NEU DENKEN mit Silke Stremlau](https://www.youtube.com/watc
 >
 > **Maja Göpel** als Gastgeberin — Politikwissenschaftlerin, Transformationsforscherin und Autorin von *Unsere Welt neu denken*. Beide sind hier gleichwertige Gesprächspartnerinnen — kein klassisches Interview-Gefälle, sondern ein Dialog auf Augenhöhe zweier Denkerinnen mit sehr ähnlichen Systemdiagnosen.
 >
-> → [[Gedankenwelten/DenkerVita/Silke Stremlau|DenkerVita Silke Stremlau]] · [[Gedankenwelten/DenkerVita/Maja Goepel|DenkerVita Maja Göpel]]
+> → [[DenkerVita/Silke Stremlau|DenkerVita Silke Stremlau]] · [[DenkerVita/Maja Goepel|DenkerVita Maja Göpel]]
 
 ---
 
@@ -224,39 +224,39 @@ Das ist kein irrationaler Risikoabwehr-Reflex. Es ist rationale Reaktion auf pol
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Denker/Maja Goepel — Unsere Welt neu denken]]
+### → [[Denker/Maja Goepel — Unsere Welt neu denken]]
 
 Göpel entwickelt im Gespräch weiter, was sie in ihrem Buch skizziert hat: Transformation als systemischer Suchprozess, nicht als linearer Masterplan. Stremlau bestätigt das aus der Praxis — die Finanzmarktregulierung ist kein Wissens-, sondern ein Koordinationsproblem.
 
-### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
 Stremlaus These "Geld ist niemals neutral" findet in Gehring & Gießmann ihre konkrete Infrastrukturversion: Zahlungsdaten produzieren "Verhaltensüberschuss" (Zuboff). Beide Notes verhandeln Gestaltungsmacht über Kapitalflüsse — Stremlau auf der Investitionsebene (ESG als demokratische Steuerung), Gehring/Gießmann auf der Infrastrukturebene (EZB-Architektur vs. Bankenlobby). Gemeinsam: Die Kontrolle über Finanzinfrastrukturen ist politische Macht.
 
-### → [[Gedankenwelten/DenkerVita/Silke Stremlau]]
+### → [[DenkerVita/Silke Stremlau]]
 
 Tieferes Profil zu Stremlaus Biografie, Karriereweg und Kernthesen.
 
-### → [[Gedankenwelten/DenkerVita/Maja Goepel]]
+### → [[DenkerVita/Maja Goepel]]
 
 Tieferes Profil zu Göpels Denken über Wirtschaftstransformation und planetare Grenzen.
 
-### → [[Gedankenwelten/Zeitgeist/Follow This — Die grüne Horzel in Big Oil]]
+### → [[Zeitgeist/Follow This — Die grüne Horzel in Big Oil]]
 
 Follow This und Stremlau verfolgen denselben Grundgedanken — Kapital ist Gestaltungsmacht — aber mit entgegengesetzten Instrumenten: Follow This von der Aktionärsseite (Stimmrechte auf Hauptversammlungen), Stremlau von der Regulierungsseite (EU-Taxonomie, Beirat). Beide demonstrieren, dass systemische Wirkung nicht Staatsmacht erfordert, sondern Kapitallogik gegen sich selbst.
 
-### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+### → [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 
 Dörre erklärt das, was Stremlau als ESG-Backlash beschreibt, struktursoziologisch: Kapital handelt nicht kurzsichtig aus Dummheit, sondern gemäß Klasseninteresse. Stremlaus Beobachtung — „Wer sich erfolgreich anpasst, sagt nichts; wer verweigert, schreit" — ist die empirische Oberfläche von Dörres These, dass Transformationswiderstand System ist, nicht Versehen.
 
-### → [[Gedankenwelten/Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN]]
+### → [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN]]
 
 Zwei Seiten derselben Transformationslücke: Truger benennt das fiskalpolitische Problem (Schuldenbremse verhindert öffentliche Investitionen), Stremlau das kapitalmarktliche (Pensionskassenmilliarden finden keine bankfähigen Projekte). Beide stellen fest: Das Kapital ist da — die Strukturen fehlen, um es in die richtige Richtung zu lenken.
 
-### → [[Gedankenwelten/Panorama/Demokratische Wertschoepfung]]
+### → [[Panorama/Demokratische Wertschoepfung]]
 
 Das Panorama diskutiert Unternehmensformen jenseits des Shareholder Value (Genossenschaften, 1P=1 Stimme). Stremlaus "Geld ist niemals neutral" ist die komplementäre Kapitalmarktperspektive: Nicht nur die Unternehmensform, sondern auch die Kapitalallokationsentscheidung selbst ist eine gesellschaftliche Gestaltungshandlung.
 
-### → [[Gedankenwelten/Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]]
+### → [[Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]]
 
 Flemig beschreibt Rheinmetalls Expansion als neue industrielle Jobmaschine. Stremlau/Göpel liefern die analytische Gegenkategorie: "notwendig aber nicht nachhaltig" — regrettable necessities. Beide Notes beleuchten dieselbe gesellschaftliche Wette: Wir bauen Kapazitäten auf, die wir hoffentlich nie vollständig nutzen müssen.
 

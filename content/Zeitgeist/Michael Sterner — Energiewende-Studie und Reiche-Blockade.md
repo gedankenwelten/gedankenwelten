@@ -20,7 +20,7 @@ Quelle: [Warum kommuniziert das Ministerium diese Ergebnisse nicht?](https://www
 > [!info] Wer spricht?
 > **Michael Sterner** (*1974*) — Professor für Energiespeicher und Energiesysteme an der OTH Regensburg. Mitentwickler des Power-to-Gas-Konzepts, Mitglied des Bayerischen Energiebeirats. Autor zweier Standardwerke zu Energiespeichern bei Springer. Ist persönlich mit Katharina Reiche aneinandergeraten, als sie Texte von ihm strich — erst die Androhung von Öffentlichkeit und Klage stellte seine wissenschaftliche Freiheit wieder her.
 >
-> → [[Gedankenwelten/DenkerVita/Michael Sterner|DenkerVita]]
+> → [[DenkerVita/Michael Sterner|DenkerVita]]
 
 ---
 
@@ -182,6 +182,6 @@ Benecke zeigt die ökologischen Konsequenzen der Blockade: Die Zeitfenster für 
 Pöttingers marxistische Analyse bestätigt Sterners Kernbefund von der politischen Gegenseite: Die Lösungen existieren, aber Profitinteressen verhindern ihre Umsetzung. Was Sterner ökonomisch zeigt, benennt Pöttinger als Systemlogik des Kapitalismus.
 
 
-### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+### → [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
 Großmann setzt Sterners wissenschaftliche These — 2/3 Wertschöpfung lokal möglich — als bewusstes Designprinzip um: 2/3 der Aufträge gehen an regionale Stahlbauer. Sterner liefert die Grundlage, Großmann die praktische Umsetzung.

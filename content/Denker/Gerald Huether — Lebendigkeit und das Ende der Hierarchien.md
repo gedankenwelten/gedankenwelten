@@ -30,7 +30,7 @@ Quelle: [Deshalb fühlst du dich schlecht (Gerald Hüther) — ungeskriptet by B
 > Wichtigste Werke: *Bedienungsanleitung für ein menschliches Gehirn* (2001), *Was wir sind und was wir sein könnten* (2011), *Jedes Kind ist hoch begabt* (2012), *Würde* (2018), *Lieblosigkeit macht krank* (2021)
 > Kernkonzepte: Selbstorganisation, Kohärenz, Subjekt vs. Objekt, Potenzialentfaltung, Verwicklung, Lebendigkeit, Einladen-Ermutigen-Inspirieren
 >
-> → [[Gedankenwelten/DenkerVita/Gerald Hüther|DenkerVita]]
+> → [[DenkerVita/Gerald Hüther|DenkerVita]]
 
 > [!quote] Kernthese
 > Das Hirn ist ein Selbstorganisationssystem, das immer den energiesparendsten Weg sucht. Was wir Persönlichkeit nennen, sind verfestigte Kindheits-Lösungen für inkohärente Zustände. Die meisten dieser Lösungen versauen uns das Leben — und die Welt, die wir gebaut haben, hält sie aufrecht. Befreiung beginnt nicht mit Anstrengung, sondern mit Lebendigkeit.
@@ -218,4 +218,4 @@ Was die Flucht möglich macht, ist nicht nur Mut — es ist eine Dorfkindheit, i
 - [[ARTE — Neurodivers Anders denken besser arbeiten]] — Die Reportage zeigt am Arbeitsmarkt, was Hüther neurobiologisch beschreibt: Wer Neurodivergente auf ihre Diagnose reduziert (= zum Objekt macht), zerstört Verbundenheit und Gestaltungslust. Die Barrieren-Perspektive der Neurodiversitätsbewegung ist Hüthers Potenzialentfaltung in der Praxis
 - [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Hüthers Kohärenz-Theorie liefert den neurobiologischen Mechanismus für die Gefangene-These: Trumps Dominanz, Musks Autonomie, Thiels Kontrolle sind keine Charaktermängel, sondern verfestigte Kohärenzlösungen der Kindheit — energetisch billige Antworten auf traumatische Inkohärenz, die sich in die Hirnarchitektur eingeschrieben haben
 - [[Liya Yu — Der neuropolitische Gesellschaftsvertrag]] — Yu liefert den neuropolitischen Rahmen: Hierarchien aktivieren Dehumanisierungsmechanismen, flache Strukturen fördern Mentalisierung
-- [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Hüthers frühe Lösungen (Kontrolle, Leistung, Anpassung schreiben sich ins Gehirn ein) und Brählers innerer Kritiker (Kind lernt Selbstkritik als Schutzmechanismus) beschreiben denselben Mechanismus. Beide zeigen die Bewegung: weg vom Kontroll- und Leistungsmodus, hin zu innerer Sicherheit und Verbundenheit.
+- [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Hüthers frühe Lösungen (Kontrolle, Leistung, Anpassung schreiben sich ins Gehirn ein) und Brählers innerer Kritiker (Kind lernt Selbstkritik als Schutzmechanismus) beschreiben denselben Mechanismus. Beide zeigen die Bewegung: weg vom Kontroll- und Leistungsmodus, hin zu innerer Sicherheit und Verbundenheit.

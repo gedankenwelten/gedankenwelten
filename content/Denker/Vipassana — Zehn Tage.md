@@ -461,5 +461,5 @@ Jemand lebt in einer kleinen Wohnung — ganz glücklich, ganz zufrieden. Dann v
 
 ## Verbindungen
 
-- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
 - [[David Chalmers — Das Hard Problem des Bewusstseins]] — Vipassana ist die praktische Antwort auf Chalmers' theoretisches Problem: Statt zu fragen *warum* es subjektives Erleben gibt, beobachtet man es direkt. Goenkas Methode umgeht das Hard Problem phänomenologisch — nicht erklären, sondern erfahren.

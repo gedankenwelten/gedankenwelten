@@ -20,8 +20,8 @@ Quelle: [Camus in 60 Minuten](https://www.youtube.com/watch?v=f6dF1Nf1TqM)
 >
 > **Albert Camus** (*1913, Mondovi, Französisch-Algerien – 1960, Villeblevin, Frankreich*) — Schriftsteller, Philosoph und Begründer des Absurdismus. 1957 Nobelpreis für Literatur, mit 44 Jahren der zweitjüngste Preisträger. Aufgewachsen in Armut, Vater im Ersten Weltkrieg gefallen. Résistance-Kämpfer, Chefredakteur von *Combat*, anti-stalinistischer Linker, der sich weigerte, Gewalt als Mittel der Revolution zu legitimieren.
 >
-> → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita Ziegler]]
-> → [[Gedankenwelten/DenkerVita/Albert Camus|DenkerVita Camus]]
+> → [[DenkerVita/Walther Ziegler|DenkerVita Ziegler]]
+> → [[DenkerVita/Albert Camus|DenkerVita Camus]]
 
 ---
 

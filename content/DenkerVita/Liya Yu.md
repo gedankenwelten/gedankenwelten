@@ -73,8 +73,8 @@ Yu verortet sich selbst als antirassistische Aktivistin und linksliberal, kritis
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Jonathan Haidt]] — Haidt kartiert moralische Grundlagen liberal/konservativ; Yu fragt, was neuronal *vor* den moralischen Intuitionen geschieht
-- [[Gedankenwelten/DenkerVita/Albert Moukheiber]] — Moukheiber beschreibt kognitive Verzerrungen und das soziale Gehirn; Yu politisiert diese Mechanismen für die Demokratietheorie
+- [[DenkerVita/Jonathan Haidt]] — Haidt kartiert moralische Grundlagen liberal/konservativ; Yu fragt, was neuronal *vor* den moralischen Intuitionen geschieht
+- [[DenkerVita/Albert Moukheiber]] — Moukheiber beschreibt kognitive Verzerrungen und das soziale Gehirn; Yu politisiert diese Mechanismen für die Demokratietheorie
 - Hannah Arendt — Yus akademischer Ausgangspunkt; Arendts „Gedankenlosigkeit" findet bei Yu ein neurowissenschaftliches Substrat in der Dehumanisierungsforschung
 - Erich Fromm — Fromms „Flucht vor der Freiheit" und der autoritäre Charakter werden bei Yu zur messbaren Amygdala-Aktivierung
 - Thomas Hobbes — Yus zentrale Referenz: Der Mensch im Naturzustand, Politik von der Katastrophe her denken, aber mit modernen neurowissenschaftlichen Mitteln
@@ -85,5 +85,5 @@ Yu verortet sich selbst als antirassistische Aktivistin und linksliberal, kritis
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
-- [[Gedankenwelten/Zeitgeist/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yu — Der neuropolitische Gesellschaftsvertrag]]
+- [[Zeitgeist/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
+- [[Zeitgeist/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yu — Der neuropolitische Gesellschaftsvertrag]]

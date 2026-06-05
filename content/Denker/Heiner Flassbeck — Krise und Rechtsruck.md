@@ -265,7 +265,7 @@ Aly zeigt historisch, wohin Flassbecks Dynamik führen kann: Die Weltwirtschafts
 
 Gelegs beschreibt das EU-Dilemma: Orbáns Stimme mit Fördergeldern „abkaufen". Flassbeck liefert den Unterbau: EU-Austeritätspolitik hat Osteuropa wirtschaftlich marginalisiert — das ist der Nährboden, auf dem Orbáns Populismus gewachsen ist. Wer nur Orbán bekämpft, ohne die Strukturursachen anzugehen, bekämpft die Symptome.
 
-### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn]]
+### → [[Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn]]
 
 Aktueller Beleg für die in dieser Note entwickelte Kausalkette: Merz behauptet beim DGB-Gewerkschaftstag, Arbeitskosten seien zu hoch — und liegt laut Lohnstückkosten-Daten fundamental falsch. Der „Lohn-Irrsinn" buchstabiert den Mechanismus (Schröder-Ära, Lohnstückkosten, Deflationsrisiko) aus, den diese Note als politisches Muster benennt: ökonomische Fehlkonstruktionen, die niemand korrigiert, erzeugen Rechtsruck.
 
@@ -300,10 +300,10 @@ Die Ölpreis- und Düngemittelkrise als Kriegsfolge, die Lange skizziert, ist ge
 - [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Kehnel zeigt historisch, wie die legitimen Sehnsüchte nach Sicherheit, Heimat und Gemeinschaft entstanden; Flassbeck erklärt den ökonomischen Treibstoff dieser Sehnsüchte
 - [[Zeitgeist/Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschning zeigt konkret, wie falsche Energiepolitik (Öl-Abhängigkeit, gescheiterter Tankrabatt) genau die wirtschaftliche Unsicherheit produziert, die Flassbeck als Rechtsrucktreiber identifiziert.
 - [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Direkteste Parallele: Fricke analysiert denselben Zusammenhang aus empirisch-psychologischer Perspektive (Kontrollverlust, Austerität, Inflation) und ergänzt Flassbecks makroökonomische Lohnpolitik-These um die Populismusforschung
-- [[Gedankenwelten/Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — Klingbeils Wachstumsrezept „mehr arbeiten" ist Flassbecks Fehler in Reinform: keine Lohnpolitik, keine Investitionen — nur Mehrarbeit für dieselbe Kaufkraft
+- [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] — Klingbeils Wachstumsrezept „mehr arbeiten" ist Flassbecks Fehler in Reinform: keine Lohnpolitik, keine Investitionen — nur Mehrarbeit für dieselbe Kaufkraft
 - [[Zeitgeist/Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Schwerdtner fordert genau die staatlichen Eingriffe, die Flassbeck für notwendig hält: Übergewinnsteuer, Direktentlastung, Marktregulierung — konkretes politisches Gegenprogramm zu Flassbecks Diagnose.
-- [[Gedankenwelten/Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Reiches Gesetzentwurf ist wirtschaftspolitische Weichenstellung unter dem Deckmantel von „Sachzwängen" — Flassbeck und Reiche besetzen dasselbe Terrain von verschiedenen Seiten: Machtpolitik als Sachlogik verkleidet.
-- [[Gedankenwelten/Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — Kendi beschreibt den nächsten Schritt nach dem ökonomischen Rechtsruck: Die Verwandlung wirtschaftlichen Schmerzes in rassistische Energie durch GRT. Flassbeck erklärt den Treibstoff, Kendi erklärt, wie er gezündet wird.
+- [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Reiches Gesetzentwurf ist wirtschaftspolitische Weichenstellung unter dem Deckmantel von „Sachzwängen" — Flassbeck und Reiche besetzen dasselbe Terrain von verschiedenen Seiten: Machtpolitik als Sachlogik verkleidet.
+- [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] — Kendi beschreibt den nächsten Schritt nach dem ökonomischen Rechtsruck: Die Verwandlung wirtschaftlichen Schmerzes in rassistische Energie durch GRT. Flassbeck erklärt den Treibstoff, Kendi erklärt, wie er gezündet wird.
 - [[Zeitgeist/ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]] — Der Soja-Handelskrieg und der Einnahmeneinbruch bei Trumps Farmerwählerschaft ist ein Lehrstück der Dynamik, die Flassbeck beschreibt: globale Wirtschaftsungleichgewichte befeuern politische Radikalisierung.
 - [[Zeitgeist/taz Reingehen — Wer das Öl hat, hat das Sagen]] — Herrmanns Iran-Ölanalyse konkretisiert Flassbecks makroökonomische These: fossile Abhängigkeit als dauerhafter Transfermechanismus von Wohlstand zu Autokraten — und warum eine ausgelöste Weltwirtschaftskrise politisch destabilisiert
 - [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Butterwegge fokussiert auf die sozialpolitische Seite dessen, was Flassbeck makroökonomisch beschreibt: Agenda 2010, Matthäus-Prinzip, Vermögenskonzentration — beide zeigen, wie wirtschaftliche Fehlsteuerung den Rechtsruck beschleunigt
@@ -319,10 +319,10 @@ Flassbeck erklärt den ökonomischen Mechanismus hinter dem Exportmodell: Leistu
 
 Krastev beschreibt den Braindrain aus Osteuropa als Kernwunde der Ost-West-Enttäuschung — Flassbeck liefert den ökonomischen Mechanismus: EU-Austerität und Lohngefälle als Treiber der Emigration, die Krastev als politisches Trauma beschreibt.
 
-### → [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
+### → [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]]
 
 Varoufakis liefert die Krisendramatik (Bankenbailout, 91% zu deutschen/französischen Banken, OXI-Referendum), Flassbeck die buchhalterische Mechanik (Lohnkosten-Dumping als primärer Regelverstoß). Zusammen ergeben sie die vollständige EU-Krisenerzählung.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+### → [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
 
 Daniel Günthers institutionelle Strategie — Bundesrat-Resilienz, Digitalabgabe, Big-Tech-Exit — ist der Gegenentwurf zu Flassbecks makroökonomischer Ohnmachts-Diagnose: Strukturen gegen den Ernstfall härten, bevor er eintritt, statt auf Bewusstseinswandel zu warten.

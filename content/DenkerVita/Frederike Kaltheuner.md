@@ -74,7 +74,7 @@ Ungerechtigkeiten durch KI sind nicht zufällig oder nachträglich behebbar — 
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/re:publica 26 — KI-Industriepolitik und europäische Souveränität]] — re:publica 26 Session
+- [[Zeitgeist/re:publica 26 — KI-Industriepolitik und europäische Souveränität]] — re:publica 26 Session
 
 ---
 

@@ -474,14 +474,14 @@ Wir haben beachtliche Fortschritte bei den Menschenrechten erzielt. Das menschli
 > - Ricard nennt seinen Weggang „Kofferpacken" — *aber wie viele Menschen auf der Welt können überhaupt einen Koffer packen?* Braucht es das Privileg einer gesicherten westlichen Existenz, um sie verlassen zu können — und was sagt das über die Universalität seiner Botschaft?
 > - Ricard sagt: *„Der Botschafter muss die Botschaft sein"* — und fordert gleichzeitig: *„Prüft alles an eurer eigenen Erfahrung."* Wenn ich alles selbst prüfen soll — *wozu dann 15 Jahre bei einem Meister?* Ist die freiwillige Meister-Schüler-Beziehung Freiheit — oder die subtilste Form der Autorität?
 
-### → [[Gedankenwelten/Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]]
+### → [[Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]]
 
 Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004 — seine Gamma-Wellen-Daten sind buchstäblich das empirische Fundament, auf das Scobel seine zweite Meditationswelle aufbaut. Scobel bestätigt aus der Forschungsperspektive, was Ricard aus der Praxis beschreibt: Nicht-Selbst-Erfahrung korreliert mit erhöhter Empathie. Scobels Nebenwirkungsbefund ergänzt Ricards Praxis-Optimismus mit kritischer Wissenschaftlichkeit.
 
-### → [[Gedankenwelten/Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]]
+### → [[Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]]
 
 Marquardt im christlichen Aschram Kurishumala, Ricard im himalayischen Kloster Shechen — beide beschreiben denselben Befund: Genügsamkeit und Rhythmus verändern die Qualität von Zeit grundlegend, ohne Zeit als Ressource zu vermehren. Marquardt philosophiegeschichtlich (Augustinus, Gadamer), Ricard neurowissenschaftlich (Davidson-Studien). Beide kommen zum selben Befund: Weniger zu besitzen gibt nicht mehr Zeit, aber andere Zeitqualität.
 
-### → [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
+### → [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
 
 Ricard aus tibetisch-buddhistischer Tradition, Brähler aus westlicher Psychotherapie — beide landen an derselben Stelle: Mitgefühl ist keine sentimentale Haltung, sondern eine trainierbare Kapazität, die das Erleben grundlegend transformiert. Brählers MSC-Ansatz integriert buddhistische Metta-Praxis explizit; ihre klinische Arbeit ist gewissermaßen die westliche Übersetzung von Ricards Befund.

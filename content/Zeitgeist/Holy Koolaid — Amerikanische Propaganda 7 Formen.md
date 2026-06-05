@@ -25,7 +25,7 @@ Quelle: [Why the Rest of the World Thinks Americans Are Brainwashed](https://www
 >
 > Was Westbrook von gewöhnlichen Politik-YouTubern unterscheidet: Er kommt aus der Kult-Forschung, nicht aus dem Journalismus. Das gibt seinem Blick auf amerikanische Propaganda eine andere Schärfe — er erkennt Mechanismen der Gedankenkontrolle, weil er sie bereits in religiösen Kontexten seziert hat.
 >
-> → [[Gedankenwelten/DenkerVita/Thomas Westbrook|DenkerVita]]
+> → [[DenkerVita/Thomas Westbrook|DenkerVita]]
 
 ---
 
@@ -214,35 +214,35 @@ Westbrooks Fazit: Kritik ist in gesunden Demokratien die höchste Form des Bürg
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
+### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
 
 Brückenbegriff: **ideologischer Käfig**. Holy Koolaid beschreibt von innen, wie er aufgebaut wird (Pledge of Allegiance, Geschichtslehrplan, Exzeptionalismus als Diskursbremse); Mausfeld liefert die kognitionspsychologische Erklärung, warum er unsichtbar bleibt. Beide zitieren dieselbe Princeton-Studie (Gilens & Page) als empirischen Beweis für die Oligarchie hinter der Demokratiefassade.
 
-### → [[Gedankenwelten/Denker/Renee DiResta — Invisible Rulers]]
+### → [[Denker/Renee DiResta — Invisible Rulers]]
 
 Brückenbegriff: **kulturelle Grundprogrammierung vor dem bewussten Denken**. DiResta zeigt, wie Propaganda-Mechanismen identitätsbasiert wirken, bevor Fakten ankommen; Holy Koolaid zeigt das institutionelle Substrat darunter — Schule, Fahne, Kalter-Krieg-Binär —, das diesen Nährboden erst erzeugt. Edward Bernays verbindet beide explizit.
 
-### → [[Gedankenwelten/Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
+### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
 
 Brückenbegriff: **Demokratie als Fassade über Oligarchie**. Navidi dokumentiert den aktuellen Ausplünderungsmechanismus; Holy Koolaid erklärt die ideologische Infrastruktur (Exzeptionalismus, Land-of-the-Free-Mythos), die verhindert, dass die Bevölkerung das als systemisches Problem erkennt — nicht als individuellen Skandal.
 
-### → [[Gedankenwelten/Zeitgeist/ARTE — Forschung Fake und faule Tricks]]
+### → [[Zeitgeist/ARTE — Forschung Fake und faule Tricks]]
 
 Brückenbegriff: **Agnotologie als Staatspraxis**. Die ARTE-Doku zeigt, wie Industrien gezielt Nicht-Wissen produzieren; Holy Koolaid zeigt das staatliche Pendant — US-zentrischer Geschichtsunterricht, CIA-Coups die aus Lehrplänen verschwinden, "Under God" als Marketing-Entscheidung die als Tradition verkauft wird.
 
-### → [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
+### → [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 
 Brückenbegriff: **Kapitalismus und Demokratie als struktureller Widerspruch**. Dörre analysiert den "autoritären Liberalismus" in Deutschland; Holy Koolaid zeigt, wie derselbe Widerspruch in den USA durch den Kalter-Krieg-Binär ideologisch neutralisiert wurde — Kritik am Kapitalismus wird als unamerikanisch programmiert, bevor sie gedacht werden kann.
 
-### → [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]]
+### → [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]]
 
 Brückenbegriff: **Amerikanischer Exzeptionalismus als Sonderfall westlicher Universalismus-Anmaßung**. Zhao analysiert, wie westliche politische Philosophie sich als universell ausgibt, während sie partikular ist; Holy Koolaid macht dasselbe für die US-Alltagsideologie — die Behauptung, das freieste Land zu sein, bei Platz 57 Pressefreiheit, ist genau Zhaos Kritik am Boden gebracht.
 
-### → [[Gedankenwelten/Zeitgeist/Paul Lance — Amerikaner fragt Deutsche ueber Trump]]
+### → [[Zeitgeist/Paul Lance — Amerikaner fragt Deutsche ueber Trump]]
 
 Brückenbegriff: **Mustererkennung für Autokratie von innen vs. außen**. Paul Lance dokumentiert, warum Deutsche Faschismus-Muster sofort erkennen, während viele Amerikaner sie nicht sehen; Holy Koolaid liefert die Erklärung: die institutionelle Programmierung (Pledge of Allegiance, Exzeptionalismus, US-Geschichtsunterricht) macht genau diese Außenperspektive strukturell schwieriger zu entwickeln.
 
-### → [[Gedankenwelten/Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
 Brückenbegriff: **Imperial Overstretch trifft digitale Infrastrukturkontrolle**. Holy Koolaid beschreibt das historische Muster des Imperiums-Kollaps durch Militär-Überexpansion; Mühlhoff zeigt den nächsten Schritt — wenn staatliche Infrastruktur privatisiert und digitalisiert ist, braucht ein kollabierendes Imperium keine Propaganda mehr, weil Verhaltenssteuerung direkt in die Plattformarchitektur eingebaut ist.
 

@@ -16,7 +16,7 @@ aliases:
 
 # Koschi Politik — Trump gegen Papst Leo
 
-![[Gedankenwelten/assets/Koschi-Politik-Trump-gegen-Papst-Leo-banner.jpg|1200]]
+![[assets/Koschi-Politik-Trump-gegen-Papst-Leo-banner.jpg|1200]]
 
 Quelle: [Das hat selbst HARDCORE MAGA gar nicht gefallen!](https://www.youtube.com/watch?v=_bir_Lisujg)
 

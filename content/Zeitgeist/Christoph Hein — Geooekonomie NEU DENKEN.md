@@ -23,11 +23,11 @@ Quelle: [Geoökonomie NEU DENKEN — Christoph Hein](https://www.youtube.com/wat
 > Wichtigstes Werk: *Unsere Wirtschaft neu denken* (Brandstätter, 2025)
 > Kernkonzepte: Geoökonomie, Wirtschaft als geopolitische Waffe, multipolare Weltordnung, Asiens Aufstieg, wirtschaftliche Resilienz
 >
-> → [[Gedankenwelten/DenkerVita/Christoph Hein|DenkerVita]]
+> → [[DenkerVita/Christoph Hein|DenkerVita]]
 >
 > **Maja Göpel** (*1976*) — Politische Ökonomin, Transformationsforscherin, Gastgeberin des Podcasts **NEU DENKEN** (Mission Wertvoll).
 >
-> → [[Gedankenwelten/DenkerVita/Maja Goepel|DenkerVita]]
+> → [[DenkerVita/Maja Goepel|DenkerVita]]
 
 ---
 
@@ -303,6 +303,6 @@ Heins Formel — Geografie als Fundament, darauf Menschen mit ihren Fähigkeiten
 
 Rosas Beschleunigungskritik trifft auf Heins 996-Beispiel (Chinas Arbeitskultur): Die Beschleunigungslogik ist geoökonomisch rational, aber existenziell destruktiv. Europas Chance auf „Zeitwohlstand" statt Materialwohlstand ist Resonanz in geoökonomischer Sprache.
 
-### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
 Heins Geoökonomie-Brille (Wirtschaft als Machtinstrument) erklärt, warum die Eurocard-Übernahme durch Mastercard 2003 keine neutrale Marktentscheidung war. Gehring & Gießmann zeigen dieselbe Logik im Mikro: Europa hat Eurocard aufgebaut, nicht politisch geschützt, und verloren. Die Frage "Was macht es diesmal anders?" ist exakt Heins Frage — nur auf Zahlungssysteme statt auf Energieinfrastruktur angewendet.

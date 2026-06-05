@@ -82,14 +82,14 @@ Sichere Partnerschaften entstehen nicht durch den richtigen Partner, sondern dur
 - **Richard Schwartz** — Entwickler von IFS; Brähler integriert systemische Arbeit mit Selbstmitgefühl
 
 **Verwandte Traditionen:**
-- [[Gedankenwelten/DenkerVita/Matthieu Ricard]] — Mitgefühl als trainierbare Kapazität; Brählers westliche Psychotherapie und Ricards tibetischer Buddhismus landen am selben Punkt
+- [[DenkerVita/Matthieu Ricard]] — Mitgefühl als trainierbare Kapazität; Brählers westliche Psychotherapie und Ricards tibetischer Buddhismus landen am selben Punkt
 - **Thich Nhat Hanh** — Achtsam gerichtete Liebe und Mitgefühl; östliche Mindfulness-Wurzeln
 
 ---
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Jakobsweg-Podcast mit Lukas Klaschinski, Mai 2026
+- [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Jakobsweg-Podcast mit Lukas Klaschinski, Mai 2026
 
 ---
 

@@ -19,7 +19,7 @@ aliases:
 
 # Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir
 
-![[Gedankenwelten/assets/Constanze_Kurz_Stochastischer_Papagei_Chatkontrolle_Und_Palantir.png|700]]
+![[assets/Constanze_Kurz_Stochastischer_Papagei_Chatkontrolle_Und_Palantir.png|700]]
 
 > [!abstract] Worum es geht
 > CCC-Sprecherin Constanze Kurz entmythologisiert generative KI als stochastischen Papagei — und verwebt das mit dem größeren Bild: Dieselbe Überwachungslogik, die hinter Palantir Gotham steckt, treibt auch Chatkontrolle, Vorratsdatenspeicherung und die UN-Cybercrime-Konvention an. Das Gespräch mit Tilo Jung (Jung & Naiv, Folge 827) ist ein Masterclass in techno-politischer Nüchternheit: keine Panik, keine Naivität — sondern das Seziermesser einer Informatikerin, die seit 30 Jahren Machtstrukturen in Code liest.
@@ -31,7 +31,7 @@ Quelle: [Constanze Kurz (Chaos Computer Club) über Palantir & KI-Modelle — Ju
 >
 > Das Interview führt **Tilo Jung** (Jung & Naiv), Kurz ist zum siebten Mal Gast — seit Folge 106 im Jahr 2013.
 >
-> → [[Gedankenwelten/DenkerVita/Constanze Kurz|DenkerVita]]
+> → [[DenkerVita/Constanze Kurz|DenkerVita]]
 
 ---
 
@@ -198,19 +198,19 @@ Die eigentliche Sorge richtet sich an junge Informatiker: *„Die glauben, dass 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Direkte Fortführung: Der re:publica-Vortrag mit Franziska Görlitz (Mai 2026) brachte die technisch-juridische Tiefenanalyse von Palantir Gotham. Das Jung & Naiv-Gespräch bettet denselben Komplex in einen breiteren KI-Kritik-Rahmen ein — stochastischer Papagei, militärische KI, Chatkontrolle — und macht deutlich, dass Palantir kein Einzelfall ist, sondern Symptom einer umfassenderen Überwachungslogik.
 
-### → [[Gedankenwelten/Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
 Mühlhoffs Konzept der Kybernetik als Machtstruktur ist der theoretische Hintergrund für Kurz' technische Beobachtungen: Der stochastische Papagei ist für Mühlhoff kein Missverständnis, sondern Funktion — Systeme, die Entscheidungen aus menschlichen Händen nehmen, ohne Verantwortung zu übernehmen.
 
-### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 
 Nosthoff zeigt die historische Genealogie kybernetischer Steuerungslogik — Wieners Antiaircraft-Predictor als Vorläufer heutiger Targeting-Systeme. Kurz' Hinweis, dass militärische KI nie neu war, sondern der Begriff sich geändert hat, deckt sich mit Nosthoffs Befund: Die Logik ist dieselbe, die Sprache wechselt.
 
-### → [[Gedankenwelten/Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
+### → [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
 
 Steinke analysiert den Chilling-Effekt geheimdienstlicher Beobachtung auf legales Verhalten. Kurz beschreibt denselben Mechanismus bei Palantir Gotham und der Chatkontrolle — zwei Instrumente, eine Pathologie: Verhaltensveränderung durch die bloße Existenz des Netzes, nicht erst durch konkrete Eingriffe.
 
@@ -225,18 +225,18 @@ Steinke analysiert den Chilling-Effekt geheimdienstlicher Beobachtung auf legale
 > - Wenn Polizeidaten für einen Zweck erhoben werden, aber für andere genutzt werden dürfen — was bleibt dann von der informationellen Selbstbestimmung als Recht, nicht als Versprechen?
 > - Vibe-Coding und der stochastische Papagei: Wenn eine Generation aufwächst, die glaubt, Generieren sei Denken — wer trägt dann die Verantwortung für die Systeme, die so entstehen?
 
-### → [[Gedankenwelten/Zeitgeist/Koshi Politik — ICE, Palantir und der Überwachungsstaat]]
+### → [[Zeitgeist/Koshi Politik — ICE, Palantir und der Überwachungsstaat]]
 
 Palantir als globales Instrument: Was Kurz für Deutschland beschreibt (Zweckbindungsbruch, 15.000 Zugriffe, alltägliche Polizeiarbeit statt Terrorbekämpfung), vollzieht sich in den USA bei ICE als direkte Abschiebungsinfrastruktur — inkl. Gesichtserkennung mit dokumentierten Rassismus-Bias und Datenkauf bei Brokern um Supreme-Court-Urteile zu umgehen. Dieselbe Firma, dieselbe Logik, verschiedene staatliche Zwecke.
 
-### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 
 Kurz bremst explizit das Anthropic-Lob: Ein Nein in einer Vertragsklausel sei kein struktureller Widerstand, alle großen Anbieter sind längst tief im Militärkomplex. Tooze liefert die politökonomische Theorie dazu: der Staat (Hegseth/Pentagon) zwingt Tech-Unternehmen zur militärischen Kooperation und bestraft Widerstand mit Blacklist-Drohungen — womit er auch Kurz' Nüchternheit gegenüber dem Anthropic-Narrativ erklärt.
 
-### → [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
+### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
 
 Neitzel/Iltisberger zeigen, dass nüchterne Contrarian-Stimmen im Hype-System strukturell nicht gehört werden — weil das Attention System Zuspitzung und Gewissheitsbehauptungen bevorzugt. Kurz' stochastischer Papagei ist exakt dieser Typus: präzise, technisch, ohne Panik. Die systemische Frage lautet, warum eine CCC-Sprecherin mit 30 Jahren Expertise zum KI-Hype kaum Gegengewicht bildet.
 
-### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocun zeigt, was passiert, wenn stochastische Papageien auf Propagandazwecke treffen: KI-Slop skaliert Great-Replacement-Bildwelten algorithmisch, ohne dass jemand lügt — es wird nur wahrscheinlichkeitsbasiert fortgesetzt. Kurz' technische Kritik an LLMs und Nocuns politische Analyse der KI-Propaganda sind zwei Seiten derselben Architektur: Was auf der Technikebene Muster-Fortsetzung ist, ist auf der politischen Ebene Faktizitätserschöpfung.

@@ -24,4 +24,4 @@ Ludwig-Erhard-Str. 18<br>
 
 ---
 
-Siehe auch: [[Gedankenwelten/Datenschutz|Datenschutzerklärung]] · [[Gedankenwelten/MCP|MCP-Server Dokumentation]]
+Siehe auch: [[Datenschutz|Datenschutzerklärung]] · [[MCP|MCP-Server Dokumentation]]

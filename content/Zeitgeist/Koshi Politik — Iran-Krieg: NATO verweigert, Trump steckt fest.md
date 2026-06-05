@@ -122,7 +122,7 @@ Sein Szenario: Trump verliert Senat und Repräsentantenhaus. Im März nächsten 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]]
+### → [[Zeitgeist/auslandsjournal — Trump allein zu Haus]]
 Die NATO-Verweigerung ist die Konkretion der auslandsjournal-These vom verbrauchten Vertrauen als strategischer Ressource: Wenn es aufgebraucht ist, bleibt man im Ernstfall allein — Artikel-5-Bündnis hin oder her.
 
 ### → [[Zeitgeist/Koshi Politik/Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]]
