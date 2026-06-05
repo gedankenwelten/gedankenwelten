@@ -22,16 +22,6 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Denker
-
-> **06.06.** — [[Denker/Hans-Peter Dürr — Die neue Physik|Hans-Peter Dürr — Die neue Physik]]
-
-> **06.06.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
-
-> **05.06.** — [[Denker/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
->
-> Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
-
 ### GoodNews
 
 > **06.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
@@ -59,6 +49,20 @@ Die Gedankenwelten (luc)
 > 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
 
 > → *12 weitere in* [[Zeitgeist]]
+
+### Denker
+
+> **05.06.** — [[Denker/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
+>
+> Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
+
+> **17.05.** — [[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe — Das Politische und die Politik]]
+>
+> Mouffes ganzes Denken ruht auf einer Unterscheidung: die Politik als Verwaltung, das Politische als unhintergehbarer Konflikt. Warum Demokratie Gegnerschaft braucht.
+
+> **17.05.** — [[Denker/Colin Crouch — Postdemokratie nach den Krisen|Colin Crouch — Postdemokratie nach den Krisen]]
+>
+> Postdemokratie: Die Fassade der Demokratie bleibt, doch die Substanz wandert zu Eliten und Lobbys. Crouchs Diagnose nach den Krisen.
 
 ### Panorama
 
