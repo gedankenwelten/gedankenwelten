@@ -11,6 +11,7 @@ tags:
   - year-2026
 aliases:
   - Tiana Betriebssystem
+banner: "Gedankenwelten/assets/Tiana_Travels_Das_Amerikanische_Betriebssystem.png"
 ---
 
 # Tiana Travels — Das amerikanische Betriebssystem

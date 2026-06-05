@@ -17,6 +17,8 @@ aliases:
 
 # Wendy Brown — Wie Neoliberalismus die Demokratie bedroht
 
+![[Gedankenwelten/assets/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht.png|1200]]
+
 > [!abstract] Worum es geht
 > Neoliberalismus, so Wendy Brown, ist weit mehr als Marktderegulierung — er ist eine Revolution der Vernunft, die alle Lebensbereiche nach dem Bild von Märkten umformt. Der entscheidende Schaden passiert nicht, wenn Regierungen schrumpfen, sondern wenn Demokratie selbst als Marktplatz verstanden wird: Denn dann verliert das Volk die Sprache seiner eigenen Macht. Brown nennt das die "stille Revolution" — eine Aushöhlung von innen, bei der keine Bastille gestürmt, sondern das demokratische Imaginäre still zersetzt wird. Das Gespräch mit dem Institute for New Economic Thinking (2016) ist eine komprimierte Einführung in ihr Hauptwerk *Undoing the Demos*.
 

@@ -19,6 +19,8 @@ aliases:
 
 # Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir
 
+![[Gedankenwelten/assets/Constanze_Kurz_Stochastischer_Papagei_Chatkontrolle_Und_Palantir.png|700]]
+
 > [!abstract] Worum es geht
 > CCC-Sprecherin Constanze Kurz entmythologisiert generative KI als stochastischen Papagei — und verwebt das mit dem größeren Bild: Dieselbe Überwachungslogik, die hinter Palantir Gotham steckt, treibt auch Chatkontrolle, Vorratsdatenspeicherung und die UN-Cybercrime-Konvention an. Das Gespräch mit Tilo Jung (Jung & Naiv, Folge 827) ist ein Masterclass in techno-politischer Nüchternheit: keine Panik, keine Naivität — sondern das Seziermesser einer Informatikerin, die seit 30 Jahren Machtstrukturen in Code liest.
 

@@ -16,6 +16,8 @@ aliases:
 
 # Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden
 
+![[Gedankenwelten/assets/Wer-die-Begriffe-praegt-banner.jpg|1200]]
+
 > Dritter Teil einer Reihe. Fundament: [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] · [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]]
 > Entstanden am 24.05.2026. Aus einem Gespräch über [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — Höckes Selbstbeschreibung als Auslöser, Zhao Tingyangs Sprachphilosophie als Tiefenschicht.
 
