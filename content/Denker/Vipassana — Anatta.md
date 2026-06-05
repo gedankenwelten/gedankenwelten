@@ -15,6 +15,8 @@ aliases:
 
 # Vipassana — Anattā (Nicht-Selbst)
 
+![[Gedankenwelten/assets/Vipassana_Anatta.png]]
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Tage 7–8.
 
 *Anattā* — Nicht-Selbst. Das radikalste der drei Merkmale. Das Bedrohlichste für den Verstand — und das Befreiendste für den Menschen, der es wirklich erfahren hat.
