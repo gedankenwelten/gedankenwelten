@@ -89,7 +89,7 @@ Karrierestationen:
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien]]
+- [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien]]
 
 ---
 

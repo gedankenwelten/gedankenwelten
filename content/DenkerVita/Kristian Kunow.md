@@ -41,4 +41,4 @@ Kristian Kunow war vor seiner jetzigen Rolle in der Gemeinsamen Geschäftsstelle
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]
+- [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]

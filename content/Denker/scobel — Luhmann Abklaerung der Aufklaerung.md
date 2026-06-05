@@ -30,7 +30,7 @@ Quelle: [Luhmann: Warum uns zu viel Aufklärung überfordert – scobel](https:/
 >
 > In diesem Video rekonstruiert Gert Scobel Luhmanns Antrittsvorlesung von 1967 (*Soziologische Aufklärung*) als überraschend präzise Diagnose unserer gegenwärtigen Informationsüberforderung.
 >
-> → [[Gedankenwelten/DenkerVita/Niklas Luhmann|DenkerVita]]
+> → [[DenkerVita/Niklas Luhmann|DenkerVita]]
 
 ---
 
@@ -170,4 +170,4 @@ Luhmanns Formel für produktive Aufklärung lautet deshalb: **Doppelcharakter**.
 - [[NoAfD]] — Luhmanns Autopoiesis erklärt, warum sich autoritäre Systeme ohne Architekt reproduzieren
 - [[Autoritaerer Internationalismus]] — Systemrationalität als Erklärung, warum Heritage Foundation, Atlas Network, CPAC kein konspiratives Netz brauchen — sie sind selbstreferenzielle Systeme
 - [[Heinz Bude — Boomer-Soziologie]] — Bude zeigt Luhmann als *die* intellektuelle Bezugsfigur der Boomer-Soziologen (Baecker → Luhmann). Die „Abklärung der Aufklärung" ist die systemtheoretische Formulierung des Boomer-Grundgefühls: kühle Beobachtung zweiter Ordnung statt Kritischer Theorie oder naivem Fortschrittsglauben
-- [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit]] — Luhmann und Lyotard sind Paralleldiagnosen des Endes universaler Vernunftgewissheit: Luhmann löst es systemtheoretisch (Systemrationalität statt universaler Vernunft), Lyotard sprachphilosophisch (Sprachspiele ohne Metaerzählung). Beide antworten auf dasselbe Habermas-Problem und kommen zu inkompatiblen Schlüssen — Luhmann empfiehlt Abgeklärtheit, Lyotard das Aushalten im Widerstreit.
+- [[Denker/scobel — Lyotard das Ende der Wahrheit]] — Luhmann und Lyotard sind Paralleldiagnosen des Endes universaler Vernunftgewissheit: Luhmann löst es systemtheoretisch (Systemrationalität statt universaler Vernunft), Lyotard sprachphilosophisch (Sprachspiele ohne Metaerzählung). Beide antworten auf dasselbe Habermas-Problem und kommen zu inkompatiblen Schlüssen — Luhmann empfiehlt Abgeklärtheit, Lyotard das Aushalten im Widerstreit.

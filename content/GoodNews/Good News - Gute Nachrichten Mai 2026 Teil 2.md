@@ -22,7 +22,7 @@ Quelle: [Your Monthly Dose of Good News | May](https://www.youtube.com/watch?v=O
 > [!info] Wer spricht?
 > **Freddy Leppin** — Moderator und Gründer des YouTube-Kanals *Good News*. Leppin produziert gemeinsam mit seinem Partner Luis monatliche Zusammenfassungen der besten positiven Neuigkeiten aus aller Welt — aus Naturschutz, Wissenschaft, Gesundheit und globaler Politik. Neben *Good News* betreibt er den Ingenieurkanal *MegaBuilds* (über 1,5 Mio. Abonnenten). Sein Ziel: dem medialen Negativitätsbias mit verifizierten Erfolgsmeldungen entgegenwirken. Kein journalistischer Ausbildungshintergrund — der Kanal basiert auf Kuratierung und Verifizierung bestehender Berichte.
 >
-> → [[Gedankenwelten/DenkerVita/Freddy Leppin|DenkerVita]]
+> → [[DenkerVita/Freddy Leppin|DenkerVita]]
 
 ---
 
@@ -183,31 +183,31 @@ Dazu direkt anschließend: Die DRC hat gerade einen Mpox-Ausbruch nach zwei Jahr
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Good News — Gute Nachrichten Mai 2026]]
+### → [[Zeitgeist/Good News — Gute Nachrichten Mai 2026]]
 
 Direkte Schwester-Note der gleichen Ausgabe: Die Mai-Doppelepisode behandelt die erste Hälfte (Ecuador-Korridor, Kākāpō, Plastikhandel, CERN-Antimaterie, Chile eliminiert Lepra) — diese Note die zweite. Beide zusammen ergeben das vollständige Bild der konstruktiven Nachrichtenlage im Mai 2026.
 
-### → [[Gedankenwelten/Zeitgeist/Good News — Gute Nachrichten April 2026 Teil 2]]
+### → [[Zeitgeist/Good News — Gute Nachrichten April 2026 Teil 2]]
 
 Tier-Comeback-Parallelen: Die Floreana-Schildkröte (April) und der Juan-Fernández-Seebär (Mai) sind beide Artenschutz-Erfolge durch jahrzehntelange Handarbeit ohne technologischen Durchbruch — und beide starteten mit weniger als 100 verbleibenden Tieren. Die 30-Hills-Waldschutz-Story in April und Rumäniens Urwald-Korruption in Mai zeigen dieselbe Spannung: lokale Gemeinschaft als Naturschutzkraft gegen globale Wirtschaftsinteressen.
 
-### → [[Gedankenwelten/Zeitgeist/Good News — Gute Nachrichten April 2026]]
+### → [[Zeitgeist/Good News — Gute Nachrichten April 2026]]
 
 Energiewende-Faden durch die Serie: Das Nordsee-Verbundnetz (April) und die Solar-Langzeitstudie (Mai) schreiben gemeinsam eine Chronik der Erneuerbare-Wirtschaftlichkeit — beide revidieren pessimistische Annahmen nach oben. Eisbären passen sich an (April), Solarpanele halten länger als gedacht (Mai): Resilienz als Serienthema.
 
-### → [[Gedankenwelten/Zeitgeist/Good News — Positive Nachrichten März 2026]]
+### → [[Zeitgeist/Good News — Positive Nachrichten März 2026]]
 
 Serienstart im Vault. Die Gesundheits-Parallele ist besonders stark: Krebs-Überlebensraten auf Rekordhoch (März) und Kindersterblichkeit −60% (Mai) sind beide stille Erfolge, die Jahrzehnte dauerten und kaum Schlagzeilen produzieren. Was der Krebsfortschritt für den globalen Norden ist, ist die Kindersterblichkeits-Reduktion für den globalen Süden.
 
-### → [[Gedankenwelten/Zeitgeist/Mark Benecke — Fragerunde Time Is Up 2026]]
+### → [[Zeitgeist/Mark Benecke — Fragerunde Time Is Up 2026]]
 
 Produktivste Gegenperspektive: Benecke dokumentiert im selben Monat Bodenkollaps, Meeresströmungs-Kollaps und das Ende von 30 Ernten — diese Note dokumentiert gleichzeitig Mpox-Sieg, Meeresschutz-Rekord und 60% weniger Kindertode. Beide Notes zusammen sind ehrlicher als jede für sich: Die Welt wird gleichzeitig schlechter und besser, in unterschiedlichen Dimensionen.
 
-### → [[Gedankenwelten/Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
+### → [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 
 Die Solar-Degradationsstudie (0,5–0,6%/Jahr statt 1%) liefert ein starkes empirisches Argument direkt in die Kostendebatte dieser Note: Solarpanele wurden nicht nur stärker subventioniert als Atom (was diese Note belegt), sie halten auch deutlich länger als bisher in die Kalkulation eingeflossen — was die Milliardenersparnis für Deutschland weiter erhöht.
 
-### → [[Gedankenwelten/Zeitgeist/Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
+### → [[Zeitgeist/Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
 
 Beide Notes revidieren pessimistische Annahmen über Erneuerbare nach oben: CPG-Geothermie erzeugt doppelt so viel Wärme wie klassische Systeme, Solarpanele degradieren nur halb so schnell wie angenommen. Dasselbe Muster — Technologie performt besser als die Modelle — macht die Energiewende wirtschaftlich attraktiver als die öffentliche Debatte suggeriert.
 

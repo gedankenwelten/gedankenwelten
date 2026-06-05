@@ -141,7 +141,7 @@ Nosthoff plädiert für:
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
+### → [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
 
 Hartmann beschreibt im NANO Talk politisch, was Nosthoff ideengeschichtlich begründet: Tech-Oligarchen nutzen kybernetisches Steuerungsdenken als Selbstlegitimation. Hartmann fordert Antitrust; Nosthoff erklärt, warum diese Überzeugung ideologisch so stabil ist.
 
@@ -181,7 +181,7 @@ Nosthoffs Datensubjekt ist Fromms *Haben*-Modus in Reinform: Der Mensch reduzier
 
 Spitzers und Wolf Singers Warnung vor der Gehirn-Computer-Analogie wird von Nosthoff historisch eingebettet: Diese Analogie entstand in den Macy-Konferenzen der 1940er Jahre als kybernetisches Kernprojekt
 
-### → [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]]
+### → [[Zeitgeist/Mbembe — The Earthly Community]]
 
 Mbembe liefert die kolonialhistorische Herkunft der kybernetischen Sortierlogik: Die Klassifizierung von Menschen in "produktiv/unentbehrlich" und "Abfall/waste" wurde nicht im Silicon Valley erfunden — sie wurde in der atlantischen Sklaverei und kolonialen Lohnarbeit erprobt. Nosthoffs kybernetische Genealogie (Wiener, von Foerster, Stafford Beer) gewinnt durch Mbembes Genealogie eine koloniale Vorgeschichte, die im akademischen Technik-Diskurs regelmäßig ausgeblendet wird.
 
@@ -249,18 +249,18 @@ Varoufakis benennt, was Nosthoffs kybernetische Verhaltenssteuerung *ökonomisch
 
 Schultz liefert die neuronale Grammatik für das, was Nosthoff als Machtstrategie beschreibt: Soziale Medien sind als RPE-Maschinen gebaut — variables Intervall-Scheduling maximiert die Rate positiver Prediction Errors und erzeugt damit biologisch fundierte Abhängigkeit. Schultz' Biochemie macht Nosthoffs kybernetische Verhaltenssteuerung greifbar: Die Plattformen haben nicht nur ein Geschäftsmodell optimiert, sondern eine neuronale Architektur instrumentalisiert.
 
-### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Palantir Gotham ist die direkte Realisierung von Nosthoffs kybernetischer Prädiktionslogik: statt feindlicher Piloten "vorausberechnet" der Algorithmus Verdächtige — dasselbe Maschinenmodell, angewendet auf Kriminalität statt Krieg. Kurz und Görlitz liefern den deutschen Rechtsfall zur technikhistorischen These.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Das „Clickwork"-Framing ist kybernetische Kategorisierung in ihrer reinsten Form: Hochqualifizierte Arbeit wird als mechanische Input-Tätigkeit umdefiniert, damit sie als unsichtbar und rechtslos gelten kann. Nosthoffs Analyse der Verhaltenssteuerung von oben findet in der Data-Labor-Note ihr Spiegelbild von unten.
 
-### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
 
 Kaufmanns Swiss GPT in Bergbunkern ist der konkrete Versuch, Nosthoffs kybernetischen Steuerungslogiken eine Alternative entgegenzusetzen: Vertrauen statt Verhaltensmodifikation, europäische Institutionsarchitektur statt Plattform-Souveränität. Beide Notes kreisen um dieselbe Frage: Wer hält die kybernetischen Hebel?
 
-### → [[Gedankenwelten/Denker/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
+### → [[Denker/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
 
 Nosthoffs kybernetisches Staatsverständnis (Steuerung durch Informationsflüsse statt demokratischen Konsens) ist die historische Genealogie von Urners drittem Pferd der Selbstzerstörung — was Urner als aktuelles Phänomen benennt (Attention Bros / Kommunikationskontrolle), zeigt Nosthoff als 80 Jahre altes Programm. Urners Beobachtung, KI verleite Menschen zum maschinellen Denken, findet in Nosthoffs Kybernetik-Analyse ihren strukturellen Ursprung: Rückkopplung und Regelung sind von Anfang an als Menschensteuerung konzipiert.

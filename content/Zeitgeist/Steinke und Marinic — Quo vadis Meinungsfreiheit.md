@@ -22,14 +22,14 @@ Quelle: [Quo vadis Meinungsfreiheit? | re:publica 26](https://www.youtube.com/wa
 >
 > Sein aktuelles Buch *Meinungsfreiheit — Wie Polizei und Justiz unser Grundrecht einschränken* (Piper, 2026) ist Ausgangspunkt dieser Debatte: Die These — Nicht die Gesellschaft ist das Hauptproblem, sondern ein aktivistisch gewordener Staat.
 >
-> → [[Gedankenwelten/DenkerVita/Ronen Steinke|DenkerVita]]
+> → [[DenkerVita/Ronen Steinke|DenkerVita]]
 
 > [!info] Wer spricht? — Jagoda Marinić
 > **Jagoda Marinić** — Schriftstellerin, Kulturjournalistin, Essayistin. In Deutschland aufgewachsene Kroatin, Politikwissenschaftsstudium mit Schwerpunkt Demokratietheorie. Langjährige Direktorin des Interkulturellen Zentrums Heidelberg. Kolumnistin im *Stern*, Beiträge in *SZ*, *taz* und *New York Times*. 2022 „Journalist*in des Jahres" (Medium Magazine). Gastgeberin des ARD-Podcasts *FREIHEIT DELUXE*. Zuletzt: *Sanfte Radikalität* (2024) — Plädoyer für praktische Veränderung ohne ideologische Verhärtung.
 >
 > Ihr Blick auf Meinungsfreiheit ist weniger juristisch als kulturell und politisch: Sie fragt, wann Meinungsfreiheitsdebatten selbst zum Problem werden — weil sie Aufmerksamkeit von dringenderen demokratischen Kämpfen abziehen.
 >
-> → [[Gedankenwelten/DenkerVita/Jagoda Marinic|DenkerVita]]
+> → [[DenkerVita/Jagoda Marinic|DenkerVita]]
 
 Moderation: Nilz Bokelberg | re:publica 26, 18.05.2026 | CC BY-SA 4.0
 
@@ -218,43 +218,43 @@ Die Forderung: Mut zur Problemanalyse. Nicht Doom-Talk als Selbstzweck, aber auc
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
+### → [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
 
 Steinkes vierständiges Jung & Naiv-Gespräch (2026) liefert die detaillierte juristische Grundlage für das, was er hier in 60 Minuten konzentriert. Insbesondere der Verfassungsschutz als politisches Instrument — dort ausführlich, hier nur angedeutet.
 
-### → [[Gedankenwelten/Zeitgeist/Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]]
+### → [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]]
 
 Marinićs "Durchlauferhitzer" und Pörksens "Filterclash" beschreiben denselben Mechanismus mit verschiedenen Begriffen: Nicht zu wenig Debatte, sondern zu viel Spektakeldebatte — und zu wenig deliberativer Problemlösungsprozess. Wo Pörksen "Spektakelpolarisierung" sagt, sagt Marinić "performative Meinungsfreiheitsdebatte". Das gegenseitige Ergänzungsverhältnis: Pörksen liefert die kommunikationswissenschaftliche Theorie, Steinke/Marinić den konkreten juristisch-politischen Befund.
 
-### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir|Möllers und Poschardt — Welche Freiheit wollen wir?]]
+### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir|Möllers und Poschardt — Welche Freiheit wollen wir?]]
 
 Beide Gespräche kreisen um denselben gekaperten Begriff: Möllers/Poschardt analysieren, wie Freiheit von rechts besetzt und als Staatskritik instrumentalisiert wird; Steinke/Marinić zeigen den Mechanismus in der Praxis — "Teilzeitliberalismus" (Meinungsfreiheit für Musk, aber nicht für pro-palästinensische Filmemacher). Steinkes Justiz-Aktivismus-These ergänzt Möllers' institutionelles Freiheitsverständnis: Wenn auch der freiheitliche Staat selbst Meinungsfreiheit einschränkt, ist das eine Bestätigung von Möllers' Warnung vor der staatlichen Gefahr — aus unerwarteter progressiver Richtung.
 
-### → [[Gedankenwelten/Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler|Philip Manow — Autoritäre Zeiten]]
+### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler|Philip Manow — Autoritäre Zeiten]]
 
 Manow benennt denselben Befund wie Steinke/Marinić, aber von der demokratietheoretischen Seite: "In Deutschland ist die politische Kultur in einem erbärmlichen Zustand. Wir haben nicht gelernt zu debattieren." Das Ohnmachtsgefühl der Bürger (Marinić) und Manows Souveränitätsverlust durch Politikverlagerung an EU/WTO sind zwei Seiten derselben Erosion des demokratischen Versprechens. Wo Manow strukturell erklärt, warum Protestwahl rational ist, erklärt Marinić, warum dieses Ohnmachtsgefühl in Meinungsfreiheitsdebatten landet statt in politischen Lösungen.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]]
+### → [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]]
 
 MONITOR zeigt algorithmische Normalisierung als Demokratieerosion — der Algorithmus als "Durchlauferhitzer" (Steinke) beschleunigt die Normalisierung des Radikalen durch Dauerpräsenz. Marinićs Diagnose der Amplitude-Relevanz-Entkopplung erklärt präzise, warum AfD-Skandale nicht schaden: In einem System, das Empörung belohnt, wird jede Reaktion — pro oder contra — zur Verstärkung.
 
-### → [[Gedankenwelten/Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Wie rechte Milliardäre Medien aufkaufen]]
+### → [[Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Wie rechte Milliardäre Medien aufkaufen]]
 
 Marinićs "Teilzeitliberalismus" braucht eine Trägerinfrastruktur: Gilda/Arne zeigen, wer die Plattformen besitzt, auf denen selektive Meinungsfreiheit als Freiheitskampf inszeniert wird. Musk, Bezos, Bolloré, Springer/Döpfner sind die konkreten Akteure hinter dem abstrakten Muster, das Steinke am Welt-Beispiel benennt. Zusammen: Die Note erklärt das Narrativ, Gilda/Arne die Infrastruktur dahinter.
 
-### → [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
+### → [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
 
 Orbán und Vance sind bei Steinke/Marinić die Hauptbeispiele für "Teilzeitliberalismus" — Freiheitskämpfer-Pose bei gleichzeitigem Freiheitsabbau. BissenBlaBla liefert die Empirie: Orbáns Ungarn bei Freedom House als einziges EU-Land nur "teilweise frei", Pressefreiheit am Boden. Das Narrativ der Freiheitsverteidigung kollabiert an den eigenen Maßstäben — BissenBlaBlas Methode des "Regierungen an ihren Versprechen messen" ist die analytische Verlängerung von Steinkes Teilzeitliberalismus-Begriff.
 
-### → [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Technofeudalism|Yanis Varoufakis — Technofeudalism]]
+### → [[Zeitgeist/Yanis Varoufakis — Technofeudalism|Yanis Varoufakis — Technofeudalism]]
 
 Marinić zitiert Technofeudalismus explizit: Superreiche machen feudal, was sie wollen, das demokratische Versprechen verflüchtigt sich — und übersetzt sich in Ohnmachtsschreie, die als Meinungsfreiheitsdebatten auftreten. Varoufakis liefert den strukturellen Mechanismus (Cloud Rent, algorithmische Verhaltensmodifikation), den Marinić als politische Erfahrung beschreibt. Der Algorithmus als "Durchlauferhitzer" ist bei Varoufakis die Cloud Capital-Infrastruktur, die aus wirtschaftlichen Gründen süchtig machend gestaltet wird.
 
-### → [[Gedankenwelten/Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
+### → [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
 
 Vier taz-Journalist:innen als praktische Ergänzung zu Steinke/Marinić: Derselbe Grundkonflikt — Staatliche Einschränkung vs. gesellschaftliche Verrohung — wird hier aus der Redaktionsperspektive verhandelt. Christian Rath bestätigt aus Rechtspraxis Steinkes Verfassungsrechts-Befund. Jäckels radikalere Machtanalyse (Staatsräson als politisches Instrument) steht in produktiver Spannung zu Marinićs Diagnose, dass nicht der Staat das Hauptproblem ist. Zusammen: drei Stimmen zu derselben Frage, drei verschiedene Gewichtungen.
 
-### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
+### → [[Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Semsrott praktiziert das Gegenteil performativer Meinungsfreiheitsdebatten: Transparenz als Tat — Dokumente veröffentlichen, IFG-Anfragen stellen, §353d-Grenzen austesten. Die IFG-Einschränkung als direkte Staatsreaktion auf FragDenStaat-Veröffentlichungen ist das beste Argument für Marinićs These: Real umkämpfte Handlungsräume sind wichtiger als abstrakte Freiheitsdiskurse.
 

@@ -8,7 +8,7 @@ tags: [denker-vita, demokratie, geopolitik, osteuropa, philosophie]
 > [!info] Wer spricht?
 > **Ivan Krastev** (*1965, Bulgarien*) — Politikwissenschaftler und einer der einflussreichsten Analytiker der liberalen Demokratiekrise in Osteuropa und weltweit. Chairman des Centre for Liberal Strategies (Sofia), Albert Hirschman Permanent Fellow am Institut für die Wissenschaften vom Menschen (Wien), Gründungsmitglied des European Council on Foreign Relations. Krastevs zentrale These: Die illiberale Wende in Osteuropa und der globale Populismus sind nicht Rückfall in die Vormoderne, sondern Rebellion gegen das post-1989-Versprechen, westliche Modelle zu imitieren — eine Demütigung, deren Ressentiment sich nun gegen die Demokratie selbst richtet.
 >
-> → [[Gedankenwelten/DenkerVita/Ivan Krastev|DenkerVita]]
+> → [[DenkerVita/Ivan Krastev|DenkerVita]]
 
 ---
 
@@ -69,4 +69,4 @@ Liberal-zentristisch, europhil, aber **kritisch** gegenüber dem westlichen Libe
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa|Ivan Krastev — Wie zukunftsfähig ist Europa?]] (Sternstunde Philosophie, Mai 2026)
+- [[Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa|Ivan Krastev — Wie zukunftsfähig ist Europa?]] (Sternstunde Philosophie, Mai 2026)

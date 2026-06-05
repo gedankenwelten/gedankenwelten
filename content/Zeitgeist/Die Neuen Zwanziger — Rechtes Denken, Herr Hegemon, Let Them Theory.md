@@ -20,7 +20,7 @@ Quelle: [Die Neuen Zwanziger — Salon September 2025](https://steady.page/de/ne
 
 > [!info] Wer spricht?
 > **Wolfgang M. Schmitt** und **Stefan Schulz** — Hosts des Podcasts "Die Neuen Zwanziger". Live-Salon aus Frankfurt, in dem sie drei thematische Blöcke verhandeln: die intellektuellen Grundlagen rechter Hegemonie (Armin Mohler → Kubitschek → AfD), eine eigene Hegemonietheorie rund um die Figur des "Herrn Hegemon" (mit Žižek, Kumkar und Ben Shapiro), und eine vernichtende Analyse des Selfhelp-Phänomens Mel Robbins. Verbindendes Leitmotiv: **Wer bestimmt, worüber geredet wird — und wer muss sich dafür rechtfertigen?**
-> → [[Gedankenwelten/DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[Gedankenwelten/DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
+> → [[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt DenkerVita]] · [[DenkerVita/Stefan Schulz|Stefan Schulz DenkerVita]]
 
 ---
 
@@ -184,7 +184,7 @@ Redeckers Analyse des Neofaschismus als Phantombesitz-Verteidigung deckt sich mi
 
 Kemper analysiert das intellektuelle Vorfeld der AfD systematisch — hier hört man die Protagonisten (Kubitschek, Lehnert, Mohler) selbst sprechen
 
-### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
 Der Begriff des Herrn Hegemon — wer bestimmt, wer Rechtfertigungspflichten hat — ist direkte Folie zu Möllers' demokratischer Aushandlungstheorie und Posschardts Milieu-Kritik: Wie der Staat zum Kampffeld wird statt zum Rahmen des Handelns.
 
@@ -224,6 +224,6 @@ Mausfelds Medien- und Manipulationsanalyse ist das akademische Gegenstück zu Ku
 
 Vorgänger-Salon: Ulrike Herrmanns „Geld als Waffe" — Russland, China, westliche Passivität
 
-### → [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
+### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Kubitscheks "politischer Staat, in dem über bestimmte Dinge nicht mehr diskutiert wird" ist die ideologische Zielbeschreibung für das, was Marinić als "Meinungsfreiheit als Waffe der Autoritären" analysiert. Der Hegemon-Begriff erklärt das Paradox: Wer bestimmt, wer Rechtfertigungspflichten hat, kann "Freiheit" als Hebel nutzen, um unerwünschte Meinungen aus dem Diskurs zu drängen — unter dem Banner der Meinungsfreiheit selbst.

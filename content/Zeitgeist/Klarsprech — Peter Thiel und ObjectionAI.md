@@ -177,7 +177,7 @@ Osnos liefert die psychologische Innenperspektive der Klasse, zu der Thiel gehö
 
 Mühlhoffs Konzept der „Desouveränisierung" — die Entmachtung demokratischer Souveränität durch KI-Systeme — trifft auf ObjectionAI als konkretes Produkt. Was Mühlhoff theoretisch beschreibt, hat Thiel gebaut: ein KI-System, das über Wahrheit richtet und nur Vermögenden zugänglich ist.
 
-### → [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]]
+### → [[Zeitgeist/Morpheus - Whistleblower mundtot machen]]
 
 Morpheus' empirischer Gegenbeweis: Er baut Objection.ai selbst nach (370 API-Calls), zeigt dass das Tribunal nicht Wahrheit sucht, sondern auf Anfrage produziert — 2.407 "verläumderische" Phrasen in 100 normalen Tech-Artikeln. Klarsprech kartiert die Machtdimensionen; Morpheus demontiert die technische Fassade dahinter.
 
@@ -197,6 +197,6 @@ Grenzgänger Studios erzählt Thiels Geschichte als 4,5-Stunden-Tiefengespräch 
 
 Varoufakis liefert die makroökonomische Erklärung dafür, *warum* Akteure wie Thiel ihre Machtposition aufbauen konnten: QE-Liquidität nach 2008 floss in Cloud Capital. ObjectionAI — KI, die über Wahrheit richtet — ist Cloud Capital in Reinform: kein Produktionsmittel, sondern feudale Infrastruktur, die Tribut abschöpft.
 
-### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Während Klarsprech Palantirs Konzernideologie analysiert (Karp: "I think in domination"), zeigen Kurz und Görlitz die Rechtslage in Deutschland — vier Bundesländer, Verfassungsbeschwerden, BVerfG-Standards die ignoriert werden. Ideologie und Rechtspraxis als zwei Seiten derselben Software.

@@ -15,7 +15,7 @@ aliases:
 
 # Vipassana — Mettā (Liebende Güte)
 
-![[Gedankenwelten/assets/Vipassana_Metta.png]]
+![[assets/Vipassana_Metta.png]]
 
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Tag 10 — der Abschluss.
 
@@ -91,5 +91,5 @@ Maios *Zärtlichkeit als moralische Haltung* ist die westlich-philosophische Ent
 
 Das Bodhisattva-Ideal steht in direkter Spannung zu Goenkas Mettā: Bei Goenka ist Mettā Frucht persönlicher Reinigung — am Ende des Weges. Bei Adriaan ist der Bodhisattva-Eid Verpflichtung vor vollständiger Befreiung. Der Richtungspfeil ist umgekehrt.
 
-- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Metta als Grundlage für Adriaans These: Wenn du mitfühlend bist, wie kannst du NICHT engagiert sein?

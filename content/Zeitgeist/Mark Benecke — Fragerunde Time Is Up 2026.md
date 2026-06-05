@@ -19,7 +19,7 @@ Quelle: [Die FRAGERUNDE danach — TIME IS UP mit MARK BENECKE 2026 | Dekarldent
 > [!info] Wer spricht?
 > **Dr. Mark Benecke** (*1970, Rosenheim*) — Kriminalbiologe, forensischer Entomologe und Wissenschaftskommunikator. Bekannt als „Herr der Maden", überträgt er seine forensische Methodik auf Klimadaten. In dieser Fragerunde diskutiert er mit **Margarita Hartlieb** (Biodiversitätsforscherin, Universität Wien, Österreichischer Biodiversitätsrat), **Lisa Pöttinger** (Klimaaktivistin, vom Lehramt ausgeschlossen wegen politischer Tätigkeit) und Moderator **Dekarldent** die Konsequenzen seines vorherigen Vortrags [[Mark Benecke — Umwelt-Messungen Sommer 2026]].
 >
-> → [[Gedankenwelten/DenkerVita/Mark Benecke|DenkerVita]]
+> → [[DenkerVita/Mark Benecke|DenkerVita]]
 
 ---
 
@@ -186,10 +186,10 @@ Sterners Befund der systematischen Blockade der Energiewende durch wirtschaftlic
 
 Die Ernährungskrise, die Benecke global beschreibt, hat eine innergesellschaftliche Entsprechung: Butterwegges 13,3 Millionen Armutsgefährdete können sich schon heute kaum gesunde Ernährung leisten. Beneckes Baltimore-Anekdote (60 Dollar für Oliven und Brot) zeigt, dass Ernährungsunsicherheit keine Frage der Dritten Welt mehr ist.
 
-### → [[Gedankenwelten/DenkerVita/Mark Benecke|Mark Benecke — DenkerVita]]
+### → [[DenkerVita/Mark Benecke|Mark Benecke — DenkerVita]]
 
 Alle Cortex-Notes zu Mark Benecke im Überblick.
 
-### → [[Gedankenwelten/GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
+### → [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
 
 Produktivste Gegenperspektive: Benecke beschreibt Bodenkollaps, Hunger und Meeresströmungs-Probleme — die Good-News-Note dokumentiert gleichzeitig Mpox-Sieg, Juan-Fernández-Meeresschutzgebiet und 60% weniger Kindertode. Wer beide liest, erhält ein ehrlicheres Bild als jede Note für sich.

@@ -85,10 +85,10 @@ Anti-stalinistischer Linker. Anarcho-syndikalistische Sympathien. Weigerte sich,
 
 ## Verbindungen zu anderen Denkern
 
-### → [[Gedankenwelten/DenkerVita/Arthur Schopenhauer]]
+### → [[DenkerVita/Arthur Schopenhauer]]
 Schopenhauer als Vorläufer: der blinde Wille zum Leben, die Absurdität des Begehrens, die Verneinung des Lebenswillens als Ausweg. Camus teilt Schopenhauers Diagnose (das Leben ist Leiden/absurd), lehnt aber seinen Ausweg (Askese, Nirwana) ab — für Camus ist die Bejahung des Lebens *trotz* der Absurdität der entscheidende Akt.
 
-### → [[Gedankenwelten/DenkerVita/Erich Fromm]]
+### → [[DenkerVita/Erich Fromm]]
 Fromms Unterscheidung von Haben und Sein resoniert mit Camus' Revolte: Beide kritisieren eine Gesellschaft, die Sinn durch Konsum und Besitz simuliert. Fromms „produktive Orientierung" — Liebe, Vernunft, Arbeit als Ausdruck des Seins — entspricht Camus' Idee, im Konkreten Werte zu schaffen, ohne einem übergeordneten System zu folgen.
 
 ---

@@ -20,10 +20,10 @@ Quelle: [re:publica 26 — Europas KI-Zukunft: Gefangen im Lock-in oder souverä
 
 > [!info] Wer spricht?
 > **Nicole Büttner** — Tech-Unternehmerin, Gründerin & CEO von Merantix Momentum (KI-Integration für Unternehmen), Generalsekretärin der FDP (bis Mai 2026), Co-Gründerin AI Campus Berlin. Selbstbezeichnung: „Techoptimistin". Investiert in frühphasige KI-Startups.
-> → [[Gedankenwelten/DenkerVita/Nicole Buettner|DenkerVita]]
+> → [[DenkerVita/Nicole Buettner|DenkerVita]]
 >
 > **Pascal Kaufmann** — Neurowissenschaftler und Unternehmer (Schweiz), Gründer von Alpine AI und Swiss GPT. WEF-Referent, bekannt für seine These: *Vertrauen ist die wichtigste KI-Währung*. Kernprojekt: dezentrale, in Schweizer Bergbunkern betriebene KI-Infrastruktur.
-> → [[Gedankenwelten/DenkerVita/Pascal Kaufmann|DenkerVita]]
+> → [[DenkerVita/Pascal Kaufmann|DenkerVita]]
 >
 > **Moderation:** Celine Nauer · **Partner:** Friedrich-Naumann-Stiftung für die Freiheit (FDP-nah)
 
@@ -194,29 +194,29 @@ Dieses Modell existiert in der Diskussion — das EU-Projekt „Gaia-X" war ein 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic]]
 Büttner und Kaufmann beschreiben Europa als passiven Empfänger amerikanischer KI-Abhängigkeit — Tooze zeigt die operative Seite: Anthropic weigert sich, der militärischen Logik zu folgen, und wird dafür bestraft. Die europäische Souveränitätsfrage bekommt durch Tooze eine konkrete Antwort auf das Warum: Kapital folgt nicht Rechtsstaatlichkeit, sondern Gewinnaussichten — genau das Dilemma, das Büttner zu lösen versucht.
 
-### → [[Gedankenwelten/Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
+### → [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
 Janssen diagnostiziert, dass Nvidia „nicht mehr für Menschen baut" — KI-Infrastruktur ist explizit auf Kapitalakkumulation ausgerichtet, nicht auf Gesellschaftsnutzen. Büttner und Kaufmann argumentieren dagegen: Souveränität bedeutet, eigene Infrastruktur zu schaffen, die dem europäischen Markt und seinen Werten dient. Janssen zeigt das strukturelle Problem, das Büttner/Kaufmann mit europäischer Gegenmacht lösen wollen.
 
-### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Nosthoff — Kybernetik und Tech-Eliten]]
+### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Nosthoff — Kybernetik und Tech-Eliten]]
 Nosthoff analysiert kybernetische Herrschaft als technokratisches Staatsverständnis. Kaufmanns Swiss GPT in Bergbunkern ist der konkrete Versuch einer Alternative: Vertrauen statt Steuerung, institutionelle Architektur statt Plattform-Souveränität. Beide Notes kreisen um dieselbe Frage: Wer hält die kybernetischen Hebel?
 
-### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
 Gehring & Gießmann verhandeln dieselbe Grundfrage — europäische Abhängigkeit von US-Infrastruktur — aber aus entgegengesetzter Antwort: Sie zeigen historisch, dass privatwirtschaftlicher Aufbau (Eurocard) scheiterte, weil Marktmacht am Ende übernommen wird. Das ist der direkte Widerspruch zu Büttners These, dass Techmilliardäre und Wettbewerb der Souveränitätspfad sind. Produktiver Konflikt zweier re:publica-26-Panels zur selben Frage.
 
-### → [[Gedankenwelten/Denker/Francesca Bria — The Authoritarian Stack|Francesca Bria — The Authoritarian Stack]]
+### → [[Denker/Francesca Bria — The Authoritarian Stack|Francesca Bria — The Authoritarian Stack]]
 Bria kartiert, wie privatisierte Souveränität entsteht — Palantir, Musk, Thiel übernehmen staatliche Kernfunktionen. Büttner und Kaufmann beschreiben Europas Weg in genau diese Abhängigkeit: 90%+ US-Marktanteil sind nicht Marktversagen, sondern State Capture in Zeitlupe. Bria liefert die Makro-Diagnose, Büttner/Kaufmann den operativen Gegenentwurf.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte|rp26 — KIs unsichtbare Arbeitskräfte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte|rp26 — KIs unsichtbare Arbeitskräfte]]
 Beide Notes entstammen der re:publica 26 und zeigen gegensätzliche Perspektiven auf dasselbe Regulierungsversagen: Kloiber/Kinyua zeigen, dass der EU AI Act konkrete menschliche Kosten hat — in Kenia, Nigeria, auf den Philippinen. Büttner und Kaufmann beklagen DSGVO-Scheitern aus Marktsicht. Die Ironie: beide kritisieren dasselbe, aus völlig verschiedenen Richtungen.
 
-### → [[Gedankenwelten/Panorama/Autoritaerer Internationalismus|Panorama — Autoritärer Internationalismus]]
+### → [[Panorama/Autoritaerer Internationalismus|Panorama — Autoritärer Internationalismus]]
 Das Panorama stellt die Kernfrage: Wie reagieren Demokratien, wenn ein einzelner Mensch (Musk) über Starlink die Kommunikationsinfrastruktur ganzer Länder kontrolliert? Büttners und Kaufmanns Souveränitätsbegriff ist die direkte operative Antwort: europäische Alternativen schaffen, bevor die Abhängigkeit irreversibel wird.
 
-### → [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Technofeudalism|Yanis Varoufakis — Technofeudalism]]
+### → [[Zeitgeist/Yanis Varoufakis — Technofeudalism|Yanis Varoufakis — Technofeudalism]]
 Varoufakis beschreibt Cloud Rent als neuen Tributmechanismus. Kaufmanns Kritik, dass Regulierung ohne europäische Alternativinfrastruktur BigTech begünstigt, ist dieselbe Diagnose von innen: DSGVO-Compliance reproduziert nur die feudalen Abhängigkeiten, die Varoufakis beschreibt. Büttners Forderung nach Techmilliardären ist dabei die unbequeme Konsequenz, die Varoufakis nicht zieht.
 
 ---

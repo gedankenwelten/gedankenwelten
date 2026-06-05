@@ -7,7 +7,7 @@ tags: [denker-vita, migration, menschenrechte, deutschland, journalismus]
 
 > [!info] Wer ist das?
 > **Christian Jakob** (*1979, Quakenbrück*) — taz-Journalist im Ressort Reportage und Recherche. Studium der Soziologie in Bremen und Mailand, Global Studies in Berlin, Buenos Aires und Delhi. Berichtet seit Jahren über Migrationspolitik, Menschenrechte und Desinformation. Gilt als einer der profiliertesten deutschen Journalisten zum Thema Migration und europäisches Grenzregime.
-> → [[Gedankenwelten/DenkerVita/Christian Jakob|DenkerVita]]
+> → [[DenkerVita/Christian Jakob|DenkerVita]]
 
 ## Biografie
 

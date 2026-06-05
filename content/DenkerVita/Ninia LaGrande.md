@@ -39,4 +39,4 @@ LaGrande ist weniger Denkerin als Ermöglicherin von Debatten. Ihre "These" lieg
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]
+- [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]

@@ -23,7 +23,7 @@ Quelle: [Für dich sorgen heißt für andere sorgen – warum Selbstfürsorge ke
 > Ausgebildet als Novize in der Thich-Nhat-Hanh-Tradition (Plum Village), nicht in der Goenka-Linie — methodisch eigenständig, verankert im Satipatthana Sutta, mit Mahayana-Einflüssen (Bodhisattva-Ideal, Ksitigarbha). Dieser Impuls-Vortrag wurde am 29. Juli 2024 für die Vipassana@Home-Gemeinschaft gehalten.
 >
 > Wichtigste Formate: 10-Tage-Retreats in Haus Tabor · Vipassana@Home (Online-Gemeinschaft) · Podcast *Vipassana Jetzt*
-> → [[Gedankenwelten/DenkerVita/Adriaan van Wagensveld|DenkerVita]]
+> → [[DenkerVita/Adriaan van Wagensveld|DenkerVita]]
 
 ---
 
@@ -162,31 +162,31 @@ Gleicher Lehrer, komplementäre Perspektive: "Weniger Drama" beschreibt Vipassan
 
 Ksitigarbha zeigt: Das Hinabsteigen in die Dunkelheit anderer ist nur möglich, wenn man zuerst bei sich selbst war. Die "Selbstfürsorge als Bedingung der Fürsorge" aus diesem Talk ist die praktische Umsetzung des Bodhisattva-Ideals.
 
-### → [[Gedankenwelten/Denker/Erich Fromm — Haben oder Sein]]
+### → [[Denker/Erich Fromm — Haben oder Sein]]
 
 Fromms Unterscheidung zwischen Haben-Modus (Geben als Ausgabe, die man zurückfordert) und Sein-Modus (Geben aus Fülle) ist der philosophische Unterbau für Adriaans Beobachtung, dass "alle geben und alle leer bleiben". Das Recht-Haben-Spiel in Beziehungen ist nichts anderes als der Haben-Modus in der Sprache der Fürsorge: Man gibt, um eine Schuld zu erzeugen. Adriaan bietet keine Fromm-Analyse an, aber beide kommen zur gleichen Diagnose aus verschiedenen Richtungen.
 
-### → [[Gedankenwelten/Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
+### → [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
 Ricard formuliert das, was Adriaan praktisch zeigt, als philosophische These: Altruistisches Handeln und eigenes Wohlbefinden sind nicht Tauschgeschäft, sondern dasselbe aus verschiedenen Richtungen. Adriaans Paradox der leeren Fürsorge löst Ricard auf der Theorieebene: Wer gibt, weil er fürchtet nicht genug zu sein, gibt aus dem Haben-Modus. Eine produktive Spannung bleibt: Ricard betont die unverzichtbare Nähe zum lebenden Meister, Adriaan setzt stärker auf eigenständige Sitzpraxis.
 
-### → [[Gedankenwelten/Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 
 Hagemeyers Reparentifizierungsprozess — Kompetenzen zurückholen, das Selbst als eigenständige Instanz wieder sichtbar machen — und Adriaans "Urlaub aus den Rollen" beschreiben strukturell dieselbe Bewegung. Das Recht-Haben-Spiel ist eine milde Variante von Hagemeyers narzisstischer Regulierung via Außenbestätigung: Wer sich selbst nicht bekommt, sucht Bestätigung in der ewigen Schuldabrechnung.
 
-### → [[Gedankenwelten/Denker/Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke]]
+### → [[Denker/Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke]]
 
 Maios Kritik am Autonomiemythos trifft Adriaans Vortrag im Zentrum: Selbstfürsorge ist kein Autonomieprojekt, sondern das Gegenteil. Es geht nicht darum, sich von anderen unabhängig zu machen, sondern frei genug zu werden, um in echte Verbindung zu treten. Eine produktive Spannung: Maio würde fragen, ob der Vipassana-"Urlaub aus den Rollen" nicht selbst ein Autonomiemythos in spiritueller Sprache ist.
 
-### → [[Gedankenwelten/Denker/S.N. Goenka — Vipassana]]
+### → [[Denker/S.N. Goenka — Vipassana]]
 
 Goenkas Warnung vor erzwungener Unterdrückung (der "schlafende Vulkan") ist das technische Gegenstück zu Adriaans Beobachtung, dass das Recht-Haben-Spiel Konflikte unlösbar macht: Beide beschreiben, was passiert, wenn innere Reaktionsmuster nicht aufgelöst, sondern nur verwaltet werden. Die methodische Divergenz bleibt: Goenka lehrt strikte 10-Tage-Retreats; Adriaan (Plum Village-Linie) integriert stärker den sozialen Kontext.
 
-### → [[Gedankenwelten/Denker/Thich Nhat Hanh — Die Vier Edlen Wahrheiten]]
+### → [[Denker/Thich Nhat Hanh — Die Vier Edlen Wahrheiten]]
 
 Adriaan stammt aus der Plum Village-Linie — sein Begriff von Selbstfürsorge als Bedingung echter Fürsorge ist direkt Thich-Nhat-Hanh-isch: Interbeing als Hintergrund bedeutet, dass wer nicht bei sich ist, nicht wirklich beim anderen sein kann. Thays Konzept des "tiefen Schauens in das eigene Leiden" als Voraussetzung für Mitgefühl ist Adriaans Paradox der leeren Fürsorge in der kanonischen Form.
 
-### → [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Gravitation statt Revolution]]
+### → [[Gedanken/Das unsichtbare Netzwerk — Gravitation statt Revolution]]
 
 Das Netzwerk-Essay beantwortet die Kollektivfrage, die Adriaans Vortrag am Ende aufwirft: Wenn ein Mensch in einem System diesen Weg geht, erscheint ein anderes Licht — aber wie? Das Netzwerk liefert den Mechanismus (Myzel, Gravitation, Prediction Error). Adriaan gibt das *Warum* der inneren Arbeit, das Netzwerk das *Wie* seiner kollektiven Wirkung.
 
@@ -201,6 +201,6 @@ Das Netzwerk-Essay beantwortet die Kollektivfrage, die Adriaans Vortrag am Ende 
 > - Kollektive Transformation durch individuelle Praxis: *Wie viele Menschen müssen diesen Weg gehen, damit er kollektiv wirkt — und wie misst man das?*
 > - *Was wäre das stärkste Argument dagegen, dass Selbstfürsorge keine Form von Egoismus ist?*
 
-### → [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
+### → [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
 
 Brähler beschreibt aus klinisch-psychologischer Sicht dasselbe Paradox, das Adriaan aus der Vipassana-Praxis beschreibt: Wer aus Erschöpfung und Angst heraus gibt, gibt egozentrisch — versteckt, aber fundamental. Beide kommen zur identischen Schlussfolgerung: Selbstfürsorge ist keine Vorbedingung für Leistung, sondern für Authentizität.

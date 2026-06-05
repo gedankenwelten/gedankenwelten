@@ -55,4 +55,4 @@ Komplexe Systeme erlauben keine zuverlässige Punkt-Prognose. Jede Prognose redu
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]] — re:publica 26, gemeinsam mit Raphael Iltisberger
+- [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]] — re:publica 26, gemeinsam mit Raphael Iltisberger

@@ -154,36 +154,36 @@ Was bleibt: Millionen Deutsche sind Mitglieder einer Genossenschaft — und wiss
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Tilo Jung — Erben Wirtschaft AfD-Strategie]]
+### → [[Zeitgeist/Tilo Jung — Erben Wirtschaft AfD-Strategie]]
 
 Detaillierte Mondragón-Analyse mit allen Zahlen — Erfolge, Grenzen, Fagor-Insolvenz, Vergleich zu Steward-Ownership (Zeiss, Bosch). Auch: warum Wirtschaftsdemokratie im öffentlichen Diskurs systematisch verhindert wird.
 
-### → [[Gedankenwelten/Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
+### → [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende]]
 Die direkteste Verbindung — Energiegenossenschaften als gelebte demokratische Wertschöpfung.
 
-### → [[Gedankenwelten/Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
+### → [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 Commons und Gilden als historische Vorläufer. Bodensee-Modell als empirischer Beweis gegen die "Tragödie der Allmende".
 
-### → [[Gedankenwelten/Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN]]
+### → [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN]]
 BIP ≠ Wohlstand. Wirtschaftsnarrative als politische Konstrukte. Wohlstand neu messen heißt, die Genossenschaft neu sehen.
 
-### → [[Gedankenwelten/Zeitgeist/Tim Meyer und Jan Hegenberg — China Energiewende]]
+### → [[Zeitgeist/Tim Meyer und Jan Hegenberg — China Energiewende]]
 China als Kontrastfolie: kollektive Wirtschaftslogik ohne Demokratie. Zeigt, dass dritte Wege möglich sind — und warum Demokratie der entscheidende Unterschied ist.
 
-### → [[Gedankenwelten/Zeitgeist/Maja Goepel — Mut zur Zukunft]]
+### → [[Zeitgeist/Maja Goepel — Mut zur Zukunft]]
 Agency gegen Ohnmacht. Dezentrale Energie als Gegenmacht. Die Genossenschaft als institutionelle Form dieser Agency.
 
-### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+### → [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 Klettwitz-Modell: 80 €/Einwohner/Jahr aus Windparkgewinnen, 2/3 Aufträge regional. Kein Genossenschaftsmodell, aber dieselbe Logik: Wer profitiert, akzeptiert. Kommunale Gewinnbeteiligung als neue Form demokratischer Teilhabe an Infrastruktur.
 
-### → [[Gedankenwelten/Panorama/Energie]]
+### → [[Panorama/Energie]]
 Energiegenossenschaften als konkrete Umsetzung. Bürgerenergie, MEFA Kupferzell, Strukturwandel als Demokratisierung.
 
-### → [[Gedankenwelten/Denker/Erich Fromm — Haben oder Sein]]
+### → [[Denker/Erich Fromm — Haben oder Sein]]
 Die anthropologische Tiefe: Mitgliedschaft statt Besitz. Sein statt Haben als strukturelles Prinzip der Genossenschaft.
 
 ---
-### → [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
+### → [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]]
 
 Das Panorama zeigt, dass Unternehmensform Kapitalflüsse steuert (Genossenschaft: Wertschöpfung bleibt dort wo sie entsteht). Stremlau ergänzt die Kapitalmarktperspektive: Die Frage ist nicht nur, welche Unternehmensform man wählt, sondern welche Kapitalallokation man aktiv betreibt. "Geld ist niemals neutral" und "1P=1 Stimme" sind zwei Seiten einer demokratischen Kapitalphilosophie.
 

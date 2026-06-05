@@ -21,7 +21,7 @@ Quelle: [So trickst du dein Gehirn aus – scobel im Gespräch: Mit Rebecca Böh
 >
 > Bücher: *Human Touch* (2019), *Resilienz* (2021), *The Power of the Mind* (2025, C.H. Beck)
 >
-> → [[Gedankenwelten/DenkerVita/Rebecca Boehme|DenkerVita]]
+> → [[DenkerVita/Rebecca Boehme|DenkerVita]]
 
 ---
 
@@ -185,7 +185,7 @@ Gleichzeitig vorsichtiger Optimismus: Böhme beobachtet auf Reisen Menschen die 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]
+### → [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]
 
 Böhmes Predictive-Processing-Rahmen (das Gehirn als Vorhersagemaschine, Aufmerksamkeitsextraktion durch Neuigkeit) gibt dem re:publica 26-Panel über das Social-Media-Verbot sein neurobiologisches Fundament: Paschkes Argument, dass Kinder besonders vulnerable Nutzer sind, beruht auf demselben Mechanismus — der unreife Präfrontalkortex kann die Vorhersagefehler nicht kompensieren, die Push-Notifications und Algorithmen gezielt erzeugen.
 
@@ -225,7 +225,7 @@ Reappraisal als Schlüssel zum Verlassen der Schockstarre: Die Architekten könn
 
 Das Netzwerk-Essay als Praxisform von Böhmes Theorie: Jede aufrichtige Begegnung aktualisiert die Vorhersage des Gegenübers positiv (Prediction Error). Das ist Reappraisal im Sozialen — nicht am Kissen trainiert, sondern in der Begegnung. Die Myzel-Metapher als Bild für das, was neurowissenschaftlich messbar ist.
 
-### → [[Gedankenwelten/Denker/Barbara Tversky — Denken beginnt nicht im Kopf]]
+### → [[Denker/Barbara Tversky — Denken beginnt nicht im Kopf]]
 
 Böhmes Milkshake-Studie und Tverskys Embodied Cognition treffen sich im selben Befund: Der Körper ist nicht passiver Empfänger, sondern aktiver Mitgestalter von Wahrnehmung und Kognition. Böhme zeigt, wie mentale Modelle den Körper physisch verändern (Ghrelin-Ausschüttung). Tversky zeigt, wie der Körper das Denken erst ermöglicht (Gesten, Deprivations-Experiment). Zwei-Wege-Kanal, beide Richtungen empirisch belegt.
 

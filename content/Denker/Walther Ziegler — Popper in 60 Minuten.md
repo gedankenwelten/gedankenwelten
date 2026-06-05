@@ -18,7 +18,7 @@ aliases:
 Quelle: [Popper in 60 Minuten](https://www.youtube.com/watch?v=tqURJjDqCk0)
 
 > [!info] Wer spricht?
-> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Denker lebendig und ohne akademischen Jargon einem breiten Publikum zugänglich macht. Der Vortrag entstand als Vorlesung an einer Hochschule vor Studierenden. → [[Gedankenwelten/DenkerVita/Walther Ziegler|DenkerVita]]
+> **Dr. Walther Ziegler** — Philosoph, Hochschuldozent und Autor der Reihe *„X in 60 Minuten"*, die klassische Denker lebendig und ohne akademischen Jargon einem breiten Publikum zugänglich macht. Der Vortrag entstand als Vorlesung an einer Hochschule vor Studierenden. → [[DenkerVita/Walther Ziegler|DenkerVita]]
 >
 > **Karl Popper** (1902–1994, Wien → London) — Wissenschaftstheoretiker, Sozialphilosoph und Begründer des Kritischen Rationalismus. Aufgewachsen in Wien, erlebte er mit 17 Jahren bei der Sonnenfinsternis von 1919 seine philosophische Epiphanie: Wenn selbst Newton nach 200 Jahren durch Einstein widerlegt werden kann, gibt es vielleicht *überhaupt kein sicheres Wissen*. Jüdischer Herkunft, emigrierte 1937 nach Neuseeland, verlor 14 Familienangehörige im Holocaust. Ab 1946 an der London School of Economics, 1965 von der Queen zum Ritter geschlagen. Sein letztes Buch schrieb er mit 92 Jahren.
 >

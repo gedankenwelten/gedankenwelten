@@ -84,6 +84,6 @@ Butterwegge ist ideologisch der **Linken zuzuordnen**, partizipiert aber in der 
 
 Diese Notes im Vault behandeln Butterwegge oder seine Thesen:
 
-- [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Kernpodcast zum Thema Armut, Matthäus-Prinzip, neoliberale Ideologie
-- [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]] — Butterwegges Argumentation gegen Rentenreformen im politischen Kontext
-- [[Gedankenwelten/Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]] — Die strukturelle Ungleichheit als Demokratieproblem
+- [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Kernpodcast zum Thema Armut, Matthäus-Prinzip, neoliberale Ideologie
+- [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]] — Butterwegges Argumentation gegen Rentenreformen im politischen Kontext
+- [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]] — Die strukturelle Ungleichheit als Demokratieproblem

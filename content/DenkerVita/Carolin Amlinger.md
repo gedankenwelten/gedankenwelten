@@ -67,4 +67,4 @@ Amlinger ist linksliberal, theoretisch der Kritischen Theorie (Marx, Lukács, Ad
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus]]
+- [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus]]

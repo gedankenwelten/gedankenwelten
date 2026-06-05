@@ -17,7 +17,7 @@ aliases:
 
 # Wendy Brown — Wie Neoliberalismus die Demokratie bedroht
 
-![[Gedankenwelten/assets/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht.png|1200]]
+![[assets/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht.png|1200]]
 
 > [!abstract] Worum es geht
 > Neoliberalismus, so Wendy Brown, ist weit mehr als Marktderegulierung — er ist eine Revolution der Vernunft, die alle Lebensbereiche nach dem Bild von Märkten umformt. Der entscheidende Schaden passiert nicht, wenn Regierungen schrumpfen, sondern wenn Demokratie selbst als Marktplatz verstanden wird: Denn dann verliert das Volk die Sprache seiner eigenen Macht. Brown nennt das die "stille Revolution" — eine Aushöhlung von innen, bei der keine Bastille gestürmt, sondern das demokratische Imaginäre still zersetzt wird. Das Gespräch mit dem Institute for New Economic Thinking (2016) ist eine komprimierte Einführung in ihr Hauptwerk *Undoing the Demos*.
@@ -27,7 +27,7 @@ Quelle: [How Neoliberalism Threatens Democracy](https://www.youtube.com/watch?v=
 > [!info] Wer spricht?
 > **Wendy Brown** (* 28. November 1955) ist Professorin für Politikwissenschaft, zunächst an der UC Berkeley, heute am Institute for Advanced Study Princeton. Sie gilt als eine der einflussreichsten politischen Theoretikerinnen der Gegenwart: Ihre Analysen verbinden Foucaults Gouvernementalitätsbegriff mit einer scharfen Gegenwartskritik. Bekannt für ihr Hauptwerk *Undoing the Demos: Neoliberalism's Stealth Revolution* (Zone Books, 2015, Spitz Prize 2017) und *In the Ruins of Neoliberalism* (2019). Politisch aktiv: Co-Chair der Berkeley Faculty Association, Unterstützerin von Occupy Wall Street — Theorie und Praxis sind bei ihr nicht zu trennen.
 >
-> → [[Gedankenwelten/DenkerVita/Wendy Brown|DenkerVita]]
+> → [[DenkerVita/Wendy Brown|DenkerVita]]
 
 ---
 
@@ -199,31 +199,31 @@ Was Piketty zur ökonomischen Theorie und Bourdieu zur Soziologie beisteuern, fa
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet]]
+### → [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet]]
 
 Brown und Demirović/Lorey nutzen beide Foucaults Gouvernementalitätsbegriff — aber von verschiedenen Seiten: Während Demirović/Lorey zeigen, wie neoliberale Regierungsrationalität das Subjekt formt (das unternehmerische Selbst), fragt Brown, was mit der *politischen Gemeinschaft* passiert, wenn alle Subjekte so geformt sind: Der *demos* löst sich auf, weil niemand mehr die Sprache kollektiver Selbstbestimmung spricht.
 
-### → [[Gedankenwelten/Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
+### → [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 
 Browns Diagnose und Redeckers Therapie: Brown erklärt, wie der Neoliberalismus das demokratische Imaginäre zersetzt und Menschen als Humankapital neu definiert — Redecker beschreibt, was aus diesem Scheitern entsteht: Wenn das unternehmerische Selbst versagt, kippt die Frustration in Phantombesitz und faschistisches Ressentiment. Brown liefert die Ursache, Redecker die Konsequenz.
 
-### → [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Technofeudalism]]
+### → [[Zeitgeist/Yanis Varoufakis — Technofeudalism]]
 
 Beide operieren mit Pikettys r > g als Ausgangspunkt — aber Varoufakis zieht die Konsequenz weiter: Was Brown als drohenden Neo-Feudalismus beschreibt (Kapitalakkumulation → Oligarchie → Rentenextraktion), ist für Varoufakis längst vollzogen und in Cloud-Feudalismus mutiert. Browns "oligarchische Philanthropie" (Zuckerberg, Gates) entspricht bei Varoufakis dem Übergang zu Cloud Capital, das nicht mehr nach Profitlogik, sondern nach Tributlogik funktioniert.
 
-### → [[Gedankenwelten/Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
+### → [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik]]
 
 Matteis historischer Befund ist Browns Theorie in der Praxis: Austeritätspolitik ist nicht Haushaltsdisziplin, sondern gezielte Regierungstechnik — die Demokratie als Regulierungsmacht des Kapitalismus zu schwächen, damit Kapitalordnungen stabil bleiben. Was Brown als "stealth revolution" beschreibt, operationalisiert Mattei historisch: So sieht es aus, wenn Demokratie von innen ausgehöhlt wird.
 
-### → [[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
+### → [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]]
 
 Gegenentwurf: Schwan denkt von dort aus, wo Brown aufhört. Brown diagnostiziert, dass der *demos* die Sprache seiner eigenen Macht verloren hat — Schwan fragt, wie demokratisch-kooperative Machtformen (Macht als kollektives Handeln, nicht als Herrschaft) diese Sprache zurückgewinnen könnten. Schwans Unterscheidung zwischen Herrschaftsmacht und Gestaltungsmacht ist die normative Antwort auf Browns strukturelle Diagnose.
 
-### → [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
+### → [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 
 Butterwegge dokumentiert empirisch, was Brown theoretisiert: Die Prekarisierung der unteren 50% ist kein Politikversagen, sondern Effekt einer Regierungsrationalität, die Gleichheit als Ausgangspunkt durch "natürliche Ungleichheit des Wettbewerbs" ersetzt hat. Butterwegges Steuerpolitik-Analyse zeigt, wie Browns "stille Revolution" sich in messbaren Ungleichheitsdaten niederschlägt.
 
-### → [[Gedankenwelten/Zeitgeist/Markus Gabriel — Ethischer Kapitalismus]]
+### → [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus]]
 
 Konträre Antworten auf dieselbe Diagnose: Gabriel glaubt, der Kapitalismus sei durch Ethikpflichten und "true profit" reformierbar — die Demokratie könne sich den Markt durch moralische Regulation zurückerobern. Brown würde das als kategorischen Irrtum lesen: Wenn das Marktmodell bereits die Vernunftform selbst durchdrungen hat, kann Ethik den Schaden nicht begrenzen, weil auch "Ethik" in Marktsprache übersetzt wird (ESG, Impact Investing).
 
@@ -237,4 +237,4 @@ Konträre Antworten auf dieselbe Diagnose: Gabriel glaubt, der Kapitalismus sei 
 > - Die Spirale (Marktversagen → Demokratie-Delegitimierung → weniger Staat → mehr Marktversagen) scheint sich selbst zu immunisieren. Was, wenn überhaupt, könnte sie unterbrechen — und von wo aus?
 > - Brown argumentiert, dass oligarchische Philanthropie (Gates, Zuckerberg) die demokratische Entscheidungsfindung ersetzt. Aber haben wir nicht auch Fälle, wo staatliche Bürokratie Entscheidungen schlechter traf? Bedeutet Browns Analyse, dass *jede* Privatinitiative für das Gemeinwohl demokratisch illegitim ist?
 > - Das Versprechen der Moderne war: Vernunft und Demokratie statt Götter und Traditionen. Jetzt stellen wir fest, dass diese Befreiung eine neue Quasi-Religion (Marktglaube) produziert hat. Was sagt das über das Projekt der Aufklärung selbst?
-> - [[Gedankenwelten/DenkerVita/Wendy Brown|DenkerVita]] — Browns Folgewerk *In the Ruins of Neoliberalism* (2019) geht weiter: Wie gebiert Neoliberalismus den rechtsautoritären Populismus, den er scheinbar bekämpft?
+> - [[DenkerVita/Wendy Brown|DenkerVita]] — Browns Folgewerk *In the Ruins of Neoliberalism* (2019) geht weiter: Wie gebiert Neoliberalismus den rechtsautoritären Populismus, den er scheinbar bekämpft?

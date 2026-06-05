@@ -148,6 +148,6 @@ Kemfert ergänzt Buchangers Kostenanalyse mit aktuellen Zahlen: 80–90 Mrd. fos
 
 Buchinger beschreibt, wie Energiekonzerne ihre Kosten externalisieren; Reiche setzt das als Ministerin fort — Risiken der dezentralen Erzeuger erhöhen, Risiken der zentralen Netzbetreiber senken.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]]
+### → [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]]
 
 MONITOR untermauert Buchingers Wirtschaftlichkeits-These mit konkreten Zahlen: Fraunhofer-Stromgestehungskosten (Atom 14–49 ct vs. Solar/Wind 4–9 ct) und die Kostenexplosionen von Olkiluoto, Flamanville und Hinkley Point. Wimmers (TU Berlin): Atomkraft bleibt eine der teuersten Erzeugungsformen.

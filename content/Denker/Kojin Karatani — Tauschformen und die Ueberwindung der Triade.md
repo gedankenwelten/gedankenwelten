@@ -26,7 +26,7 @@ Quellen:
 > Wichtigste Werke: *Transcritique: On Kant and Marx* (2003), *The Structure of World History* (2014), *Isonomia and the Origins of Philosophy* (2017)
 > Kernkonzepte: Modes of Exchange, Capital-Nation-State-Triade, Transkritik, Isonomia, Assoziationism
 >
-> → [[Gedankenwelten/DenkerVita/Kojin Karatani|DenkerVita]]
+> → [[DenkerVita/Kojin Karatani|DenkerVita]]
 
 ---
 
@@ -219,7 +219,7 @@ Karatnais schärfste Kritik gilt Marx' Basis-Überbau-Theorie: Marx behandelte S
 
 Mattei belegt empirisch, was Karatani strukturell behauptet: Kapital, Staat und Nation kooperieren. Austeritätspolitik ist keine Marktentscheidung, sondern staatliche Intervention zugunsten des Kapitals. Die Brüsseler Konferenz 1920 zeigt das Borromäische Muster in Reinform: Staat und Kapital verstärkten sich gegenseitig, um die aufkommende Arbeiterbewegung (ein früher Mode-D-Ansatz) zu zerstören. Mattei liefert die historische Anatomie für Karatnais These.
 
-### → [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
+### → [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
 
 Karatаnis Mode-A-Tausch (Reziprozität, gemeinschaftliches Eigentum) ist strukturell identisch mit dem indigenen Eigentumsmodell, das der Kolonialismus als „herrenloses Land" deklarierte. Der europäische Mode-C-Tausch erklärt den eigenen Rahmen für universell und macht andere Tauschformen unsichtbar — was Wesche als historischen Rechts-Trick benennt und Karatani als systemischen Strukturzug der Triade erklärt.
 

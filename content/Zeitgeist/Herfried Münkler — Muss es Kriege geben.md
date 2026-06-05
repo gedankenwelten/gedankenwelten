@@ -178,7 +178,7 @@ Beide haben recht — auf verschiedenen Ebenen:
 
 ## Verbindungen
 
-**Kempers Machiavelli-Kritik:** [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kemper liest Machiavelli als Pathologie: Identifikation mit dem Aggressor, Virtu als Quelle faschistischer Männlichkeit. Münkler liefert das Gegenstück: Machiavelli als Realismus-Fundament und Beschreibung struktureller Kriegsdynamik. Die Note oben enthält eine detaillierte Vergleichstabelle beider Zugänge.
+**Kempers Machiavelli-Kritik:** [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kemper liest Machiavelli als Pathologie: Identifikation mit dem Aggressor, Virtu als Quelle faschistischer Männlichkeit. Münkler liefert das Gegenstück: Machiavelli als Realismus-Fundament und Beschreibung struktureller Kriegsdynamik. Die Note oben enthält eine detaillierte Vergleichstabelle beider Zugänge.
 
 **Kempers Interview (Technofaschismus):** [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] — Beide sehen strukturelle Ursachen von Rechtsruck: Kemper ökonomisch (Finanzkrise, Postfordismus), Münkler machtpolitisch (Ressentiment, heroische vs. postheroische Gesellschaft).
 
@@ -192,7 +192,7 @@ Beide haben recht — auf verschiedenen Ebenen:
 
 **Macht und Propaganda:** [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Münkler: Bevölkerungen können durch Ressentiment-Bewirtschaftung in Kriege geführt werden. Mausfeld zeigt, wie das medial strukturiert wird.
 
-**KI-Kontrolle und Militarisierung:** [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]] — Münklers Begriff des „Kriegsministeriums" (Trump benennt das DoD symbolisch um) und sein Paradox des Dealmakers finden im Tooze-Fall Fleisch: Das Kriegsministerium unter Hegseth erzwingt die militärische Nutzung von KI — autonome Kampfroboter, Massenüberwachung. Münkler beschreibt die Logik, Tooze den konkreten Konflikt.
+**KI-Kontrolle und Militarisierung:** [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]] — Münklers Begriff des „Kriegsministeriums" (Trump benennt das DoD symbolisch um) und sein Paradox des Dealmakers finden im Tooze-Fall Fleisch: Das Kriegsministerium unter Hegseth erzwingt die militärische Nutzung von KI — autonome Kampfroboter, Massenüberwachung. Münkler beschreibt die Logik, Tooze den konkreten Konflikt.
 
 **Iran-Krieg-Realität (NATO verweigert):** [[Zeitgeist/Koshi Politik/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]] — Münklers These, dass Kriege an Siegesbedingungen und Exit-Strategien gemessen werden müssen, findet hier konkrete Antworten: NATO verweigert, kein Endzustand definiert, drei nicht-gewinnbare Optionen. Der fehlende „Hüter der friedlichen Ordnung" ist nicht nur die UNO — es ist NATO, das sich verweigert.
 

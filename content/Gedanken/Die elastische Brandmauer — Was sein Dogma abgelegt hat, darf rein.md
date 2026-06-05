@@ -14,7 +14,7 @@ aliases:
 
 # Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein
 
-> Entstanden am 24.05.2026. Aus einem Gespräch über [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — und was es bedeutet, in einem politisch aufgeladenen Themenraum zu analysieren, ohne sich ideologisch zu verhärten.
+> Entstanden am 24.05.2026. Aus einem Gespräch über [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — und was es bedeutet, in einem politisch aufgeladenen Themenraum zu analysieren, ohne sich ideologisch zu verhärten.
 
 ---
 
@@ -60,8 +60,8 @@ Die Gedanken sind frei. Aber nicht jeder Gedanke, der als Wahrheit verkleidet ko
 
 ## Verbindungen
 
-- [[Gedankenwelten/Gedanken/Polarisierung als Ideologisierungsfalle]] — beschreibt die Eskalationsspirale, in der Dogma entsteht: Wer die Argumentation dominieren muss, weil er sich angegriffen fühlt, extremisiert sich selbst. Die elastische Membran ist der Ausweg aus dieser Falle.
-- [[Gedankenwelten/Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]] — das yin-yang Prinzip als Grundlage: keine Position ist rein, keine Gruppe ist nur Problem oder nur Lösung. Die Membran operationalisiert diesen Grundsatz für die Erkenntnisarbeit.
-- [[Gedankenwelten/Gedanken/Der Leuchtturm — Warum Gedankenwelten existiert]] — der Leuchtturm-Gedanke beschreibt das *Warum* von Gedankenwelten. Die elastische Brandmauer beschreibt das *Wie*.
-- [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — Auslöser dieser Reflexion: IT Marios AfD-Wortschatz-Befund und BSW-Überraschung als Beispiel für unbequeme Wahrheiten, die durch eine ehrliche Methode kommen.
-- [[Gedankenwelten/Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] — Marcant als lebendiges Beispiel: keine Angriffsfläche, kein Dogma, keine Flanke. Was schwach aussieht, hält am meisten aus.
+- [[Gedanken/Polarisierung als Ideologisierungsfalle]] — beschreibt die Eskalationsspirale, in der Dogma entsteht: Wer die Argumentation dominieren muss, weil er sich angegriffen fühlt, extremisiert sich selbst. Die elastische Membran ist der Ausweg aus dieser Falle.
+- [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]] — das yin-yang Prinzip als Grundlage: keine Position ist rein, keine Gruppe ist nur Problem oder nur Lösung. Die Membran operationalisiert diesen Grundsatz für die Erkenntnisarbeit.
+- [[Gedanken/Der Leuchtturm — Warum Gedankenwelten existiert]] — der Leuchtturm-Gedanke beschreibt das *Warum* von Gedankenwelten. Die elastische Brandmauer beschreibt das *Wie*.
+- [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — Auslöser dieser Reflexion: IT Marios AfD-Wortschatz-Befund und BSW-Überraschung als Beispiel für unbequeme Wahrheiten, die durch eine ehrliche Methode kommen.
+- [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] — Marcant als lebendiges Beispiel: keine Angriffsfläche, kein Dogma, keine Flanke. Was schwach aussieht, hält am meisten aus.

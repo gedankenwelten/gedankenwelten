@@ -130,7 +130,7 @@ Hornung stellte das Interview über WhatsApp durch eine NGO. Er zweifelt nicht d
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Topfvollgold dokumentiert den manuellen Vorgänger des Phänomens — erfundene Migrationsgeschichten von BILD, aufgepeppt mit KI-Fakebildern. Bei Nocun ist diese Pipeline vollständig automatisiert: der Fake entsteht per Prompt, die Verbreitung läuft über Sockenpuppen-Netzwerke. BILD/NIUS machen manuell, was KI-Slop industriell kann.
 
@@ -193,8 +193,8 @@ Maus Theorie der Polarisierungsunternehmer liefert den soziologischen Rahmen fü
 ### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 Staiys Medienschweigen-Analyse dokumentiert dasselbe Asymmetrie-Muster auf Macro-Ebene: weniger Berichterstattung bei deutschen Tätern als bei Tätern mit Migrationshintergrund — Topfvollgold zeigt den Mechanismus auf Artikel-Ebene (Bild/NIUS-Fabrikation).
 
-### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Direktes Folgevideo zum selben Muster: NiUS erfindet im März 2026 einen "Islam-Skandal" aus einer harmlosen Kantineneröffnung — identisches Playbook wie beim "Shopping-Skandal" mit den Afghanen. Reichelt steigert diesmal auf "Vollendung der deutschen Unterwerfung unter den Islam".
 
-### → [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
+### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
 D/Z liefern den theoretischen Rahmen für das, was Topfvollgold konkret dokumentiert: Sain-Washing und Bewertungsverweigerung als strukturelle Muster. Der Satz „Die Politik handelt aus Angst vor NIUS" ist das Paradebeispiel für D/Zs Teufelskreis — Angst vor dem Aktivismus-Vorwurf treibt Qualitätsmedien in die Unterwerfung unter Propagandastandards. Topfvollgold zeigt NIUS in der Fabrikation, D/Z erklärt, warum sie damit durchkommen.

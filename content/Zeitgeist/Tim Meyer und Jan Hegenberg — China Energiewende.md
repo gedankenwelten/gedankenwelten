@@ -22,7 +22,7 @@ Quelle: [In China lachen sie über unsere Energiewende - Tim Meyer & Jan Hegenbe
 >
 > Beide berichten live aus China, wo sie Green-Tech-Unternehmen besucht und sich ein direktes Bild der industriellen Transformation gemacht haben.
 >
-> → [[Gedankenwelten/DenkerVita/Tim Meyer|DenkerVita Tim Meyer]] · [[Gedankenwelten/DenkerVita/Jan Hegenberg|DenkerVita Jan Hegenberg]]
+> → [[DenkerVita/Tim Meyer|DenkerVita Tim Meyer]] · [[DenkerVita/Jan Hegenberg|DenkerVita Jan Hegenberg]]
 
 ---
 
@@ -199,7 +199,7 @@ Kupferzell ist die deutsche Entsprechung zur chinesischen Wirtschaftlichkeitslog
 Die Gegenseite zu Beneckes Daten: 19 Städte senken Luftverschmutzung um 20 %+, Plastikhandel -66 %, Ecuadors Wildtierkorridor. Benecke liefert den forensischen Befund, Good News die empirischen Gegenbeispiele — zusammen ein vollständigeres Bild.
 
 
-### → [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+### → [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
 
 Die PhoenixRunde benennt Seltene Erden als Chinas stärkste Waffe — diese Note erklärt den industriepolitischen Unterbau: Jahrzehnte Fünfjahresplan-Strategie in grüner Technologie. Instrument und Entstehungsgeschichte zusammen.
 

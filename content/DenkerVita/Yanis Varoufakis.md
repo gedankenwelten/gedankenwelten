@@ -82,9 +82,9 @@ Marx, Keynes, Joan Robinson, Michał Kalecki, John Kenneth Galbraith, Paul Sweez
 
 ## Verbindungen zu anderen Denkern
 
-- [[Gedankenwelten/DenkerVita/Adam Tooze|Adam Tooze]] — Wirtschaftshistoriker, dessen *Crashed* die Finanzkrise dokumentiert, aus der Varoufakis' Technofeudalism-These entspringt
-- [[Gedankenwelten/DenkerVita/Markus Gabriel|Markus Gabriel]] — Philosophischer Gegenspieler: Gabriel will Kapitalismus ethisch reformieren; Varoufakis hält ihn für bereits tot
-- [[Gedankenwelten/DenkerVita/Francesca Bria|Francesca Bria]] — Kartiert die politische Machtarchitektur (Authoritarian Stack), für die Varoufakis die ökonomische Erklärung liefert
+- [[DenkerVita/Adam Tooze|Adam Tooze]] — Wirtschaftshistoriker, dessen *Crashed* die Finanzkrise dokumentiert, aus der Varoufakis' Technofeudalism-These entspringt
+- [[DenkerVita/Markus Gabriel|Markus Gabriel]] — Philosophischer Gegenspieler: Gabriel will Kapitalismus ethisch reformieren; Varoufakis hält ihn für bereits tot
+- [[DenkerVita/Francesca Bria|Francesca Bria]] — Kartiert die politische Machtarchitektur (Authoritarian Stack), für die Varoufakis die ökonomische Erklärung liefert
 
 ## Cortex-Notes
 

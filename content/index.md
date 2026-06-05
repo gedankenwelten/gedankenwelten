@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **06.06.** — [[Denker/Hans-Peter Dürr — Die neue Physik|Hans-Peter Dürr — Die neue Physik]]
+
+> **06.06.** — [[Denker/Platon — Das Höhlengleichnis|Platon — Das Höhlengleichnis]]
+
+> **05.06.** — [[Denker/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
+>
+> Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
+
+### GoodNews
+
+> **06.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+
 ### Zeitgeist
 
 > **05.06.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
@@ -45,20 +59,6 @@ Die Gedankenwelten (luc)
 > 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
 
 > → *12 weitere in* [[Zeitgeist]]
-
-### Denker
-
-> **05.06.** — [[Denker/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
->
-> Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
-
-> **17.05.** — [[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe — Das Politische und die Politik]]
->
-> Mouffes ganzes Denken ruht auf einer Unterscheidung: die Politik als Verwaltung, das Politische als unhintergehbarer Konflikt. Warum Demokratie Gegnerschaft braucht.
-
-> **17.05.** — [[Denker/Colin Crouch — Postdemokratie nach den Krisen|Colin Crouch — Postdemokratie nach den Krisen]]
->
-> Postdemokratie: Die Fassade der Demokratie bleibt, doch die Substanz wandert zu Eliten und Lobbys. Crouchs Diagnose nach den Krisen.
 
 ### Panorama
 
@@ -87,12 +87,6 @@ Die Gedankenwelten (luc)
 > **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
 >
 > Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
-
-### GoodNews
-
-> **30.05.** — [[GoodNews/Good News - Gute Nachrichten April 2026 Teil 3|Good News — Gute Nachrichten April 2026 (Teil 2)]]
->
-> Gute Nachrichten aus Umwelt, Gesundheit und Gesellschaft — der Beweis, dass die Welt nicht nur aus Krisen besteht.
 
 <!-- JOURNAL:END -->
 

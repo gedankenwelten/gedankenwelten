@@ -78,11 +78,11 @@ Sie lehrt, dass ehrliche intellektuelle Arbeit wichtiger ist als politische Gesc
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Transkript & Analyse des INET-Interviews (2016)
-- [[Gedankenwelten/Denker/Michel Foucault]] — Browns Hauptreferenz: *Die Geburt der Biopolitik* als Werkzeug zur Neoliberalismus-Analyse
-- [[Gedankenwelten/Denker/Karl Marx]] — Kapitalismuskritik als Grundlage; Browns Neoliberalismus-These radikalisiert Marx auf die Subjektseite
-- [[Gedankenwelten/Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalität]] — Deutsche Parallele zu Browns Foucault-Lektüre (Gouvernementalität als Regierungstechnik)
-- [[Gedankenwelten/Zeitgeist/Eva von Redecker — Über den neuen Faschismus]] — Redeckers Phantombesitz-These ist eine psychologische Kehrseite von Browns Analyse der neoliberalen Subjektivität
-- [[Gedankenwelten/Denker/Hannah Arendt]] — Arendts Analyse von Totalitarismus und Banalität des Bösen; Browns Sicht auf die demokratische Krise ist post-Arendtianisch
-- [[Gedankenwelten/Denker/Max Weber]] — Browns jünstes Werk (*Nihilistic Times*) dialogisiert direkt mit Webers Ethik-Vorlesungen
+- [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Transkript & Analyse des INET-Interviews (2016)
+- [[Denker/Michel Foucault]] — Browns Hauptreferenz: *Die Geburt der Biopolitik* als Werkzeug zur Neoliberalismus-Analyse
+- [[Denker/Karl Marx]] — Kapitalismuskritik als Grundlage; Browns Neoliberalismus-These radikalisiert Marx auf die Subjektseite
+- [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalität]] — Deutsche Parallele zu Browns Foucault-Lektüre (Gouvernementalität als Regierungstechnik)
+- [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus]] — Redeckers Phantombesitz-These ist eine psychologische Kehrseite von Browns Analyse der neoliberalen Subjektivität
+- [[Denker/Hannah Arendt]] — Arendts Analyse von Totalitarismus und Banalität des Bösen; Browns Sicht auf die demokratische Krise ist post-Arendtianisch
+- [[Denker/Max Weber]] — Browns jünstes Werk (*Nihilistic Times*) dialogisiert direkt mit Webers Ethik-Vorlesungen
 

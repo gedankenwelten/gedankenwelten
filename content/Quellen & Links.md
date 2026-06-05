@@ -11,16 +11,16 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [How Neoliberalism Threatens Democracy](https://www.youtube.com/watch?v=ZMMJ9HqzRcE) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] |
+| **Notiz** | [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Brown_Neoliberalismus_Demokratie_Transkript.txt` |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Wendy Brown]] |
+| **DenkerVita** | [[DenkerVita/Wendy Brown]] |
 
 ## Constanze Kurz — Jung & Naiv: Folge 827
 
 | | |
 |---|---|
 | **Vortrag / Video** | [Constanze Kurz (CCC) über Palantir & KI-Modelle — Jung & Naiv 827](https://www.youtube.com/watch?v=3yCD8t9uoso) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]] |
+| **Notiz** | [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kurz_KI_Palantir_Transkript.txt` |
 
 ## re:publica 26 — KI-Industriepolitik richtig gemacht: Kaltheuner & Jung
@@ -28,7 +28,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [AI Industrial Policy, Done Right – re:publica 26](https://www.youtube.com/watch?v=72DFeutsDtc) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]] |
+| **Notiz** | [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kaltheuner_Jung_AI_Industrial_Policy_Transkript.txt` |
 
 ## re:publica 26 — Europas KI-Zukunft: Büttner & Kaufmann
@@ -36,7 +36,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Europas KI-Zukunft: Gefangen im Lock-in oder souverän dank Wettbewerb?](https://www.youtube.com/watch?v=Vp9rtv5cWgw) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa]] |
+| **Notiz** | [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Buettner_Kaufmann_KI_Zukunft_Europa_Transkript.txt` |
 
 ## re:publica 26 — Social-Media-Verbot für Kinder (Panel)
@@ -44,7 +44,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Offline per Gesetz – Brauchen wir ein Social-Media-Verbot für Kinder?](https://www.youtube.com/watch?v=CBON-RRXx9Y) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]] |
+| **Notiz** | [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]] |
 | **Transkript** | `Gedankenwelten/Transkripte/republica26_SocialMedia_Kinder_Transkript.txt` |
 
 ## taz Bundestalk — Meinungsfreiheit in Deutschland 2026
@@ -52,7 +52,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Wird die Meinungsfreiheit zu sehr eingeschränkt? – Podcast Bundestalk](https://www.youtube.com/watch?v=h55KIojF9y0) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026]] |
+| **Notiz** | [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Bundestalk_Meinungsfreiheit_Transkript.txt` |
 
 ## phoenixRunde — Streit um Reformen, wer zahlt wie viel (2026)
@@ -60,7 +60,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [phoenixRunde: Streit um Reformen](https://www.youtube.com/watch?v=wahG38MzZVM) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]] |
+| **Notiz** | [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Butterwegge_Reformen_Transkript.txt` |
 
 ## Jan-Keno Janssen / c't 3003 — Nvidia Tokenextremismus (2026)
@@ -68,7 +68,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Nvidia hat den Bezug zur Realität verloren](https://www.youtube.com/watch?v=JnNBnRzxrYY) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]] |
+| **Notiz** | [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Janssen_Nvidia_Transkript.txt` |
 
 ## Thomas Westbrook (Holy Koolaid) — Amerikanische Propaganda: 7 Formen (2026)
@@ -76,7 +76,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Why the Rest of the World Thinks Americans Are Brainwashed](https://www.youtube.com/watch?v=x5baPn6SAQA) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]] |
+| **Notiz** | [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Westbrook_AmericanPropaganda_Transkript.txt` |
 
 ## MONITOR — Atomkraft-Comeback? Mini-Reaktoren (WDR/ARD, 2026)
@@ -84,7 +84,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt – MONITOR](https://www.youtube.com/watch?v=yCr4TWJHdSM) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]] |
+| **Notiz** | [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]] |
 | **Transkript** | `Gedankenwelten/Transkripte/MONITOR_Atomkraft_SMR_Transkript.txt` |
 
 ## auslandsjournal — Der Trump Effekt #61 (ZDF, 2026)
@@ -92,7 +92,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Donald Trump – Allein zu Haus \| Der Trump Effekt #61](https://www.youtube.com/watch?v=xSsh85eRvOE) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/auslandsjournal — Trump allein zu Haus]] |
+| **Notiz** | [[Zeitgeist/auslandsjournal — Trump allein zu Haus]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Trump_Effekt_61_Transkript.txt` |
 
 ## Silke Stremlau & Maja Göpel — Investieren NEU DENKEN (Mission Wertvoll, 2026)
@@ -100,7 +100,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Investieren NEU DENKEN mit Silke Stremlau](https://www.youtube.com/watch?v=f9L5eHdfniM) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]] |
+| **Notiz** | [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Stremlau_Investieren_Transkript.txt` |
 
 ## Silke Stremlau — DenkerVita (Geschäftsführerin Finance for Transition)
@@ -109,7 +109,7 @@ tags:
 |---|---|
 | **Website** | [silke-stremlau.de](https://www.silke-stremlau.de/) |
 | **Offizielle Bio** | Geschäftsführerin Finance for Transition (F4T gGmbH), Vorsitzende Sustainable Finance-Beirat der Bundesregierung (2019–2025) |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Silke Stremlau]] |
+| **DenkerVita** | [[DenkerVita/Silke Stremlau]] |
 | **Interviews** | [Finanzfluss: Ist ESG-Investing am Ende?](https://megaphone.link/FGH8096957738) · [Investieren NEU DENKEN mit Maja Göpel](https://www.youtube.com/watch?v=f9L5eHdfniM) · [Grad Global: Finanzmarkt nachhaltig aufstellen](https://open.spotify.com/episode/2Y7p4RqlrTFRX2xsVQzFMo) |
 | **Publikationen** | ZEIT Academy Kurs "Nachhaltig Investieren" (2024) · FAZ-Porträt "Raus aus der Nische" (2024) · BaFin-Journal "Nachhaltigkeit als Chance" (2019) |
 | **Kernthesen** | Geld ist niemals neutral · Kapitalallokation als politisches Problem · Langfristkapital schlägt Renditekapital · Transformationsfinanzierung erfordert Mut, Haltung, Zuversicht |
@@ -120,7 +120,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Eliten: Zwischen Machtmissbrauch und Verantwortung \| NANO Talk](https://www.youtube.com/watch?v=Jfg69dF8Ybo) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]] |
+| **Notiz** | [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Hartmann_Eliten_Transkript.txt` |
 
 ## Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus (Jung & Naiv 829)
@@ -128,7 +128,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Jung & Naiv Folge 829](https://www.youtube.com/watch?v=JPPvdyFyw4U) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]] |
+| **Notiz** | [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Wesche_Rechte_Natur_Transkript.txt` |
 
 ## Gilda Sahebi & Arne Semsrott — GCA #35 (Selbstzerstörung der Sozialdemokratie)
@@ -136,7 +136,7 @@ tags:
 | | |
 |---|---|
 | **Podcast / Video** | [GCA #35 — Die Selbstzerstörung der Sozialdemokratie](https://www.youtube.com/watch?v=6cWjWknFoic) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]] |
+| **Notiz** | [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Sahebi_Semsrott_GCA35_Sozialdemokratie_Transkript.txt` |
 
 ## re:publica 26 — Inside AI's Human Assembly Line (Kloiber, Kinyua)
@@ -144,7 +144,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Inside AI's Human Assembly Line – re:publica 26](https://www.youtube.com/watch?v=lSd8vuTz9so) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]] |
+| **Notiz** | [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kinyua_Kanyugi_AI_Assembly_Line_Transkript.txt` |
 
 ## re:publica 26 — Stresstest für die Demokratie (Stein, Günther, Prinz, Arnold, Mitschke)
@@ -152,7 +152,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [re:publica 26: Stresstest für die Demokratie](https://www.youtube.com/watch?v=TE-e2JIcie0) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] |
+| **Notiz** | [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] |
 | **Transkript** | `Gedankenwelten/Transkripte/GuentherPrinzArnoldMitschke_Demokratie_Ostdeutschland_Transkript.txt` |
 
 ## Dobusch und Zaboura — Ganz normale Medien (re:publica 26)
@@ -160,7 +160,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [re:publica 26: Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus](https://www.youtube.com/watch?v=-dgKKrGmbkM) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]] |
+| **Notiz** | [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]] |
 | **Transkript** | `Gedankenwelten/Transkripte/DobuschZaboura_Medien_Faschismus_Transkript.txt` |
 
 ## IT Mario — 40.000 Bundestagsreden analysiert
@@ -168,7 +168,7 @@ tags:
 | | |
 |---|---|
 | **Video** | [40.000 Reden analysiert: Welche Partei ist WIRKLICH gefährlich?](https://www.youtube.com/watch?v=1LH7PZAPq-Y) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] |
+| **Notiz** | [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] |
 | **Transkript** | `Gedankenwelten/Transkripte/ITMario_Bundestag_Transkript.txt` |
 
 ## Marcant — Ausstieg aus der rechten Szene (YouTube)
@@ -177,7 +177,7 @@ tags:
 |---|---|
 | **Video** | [1 Mio Klicks: Unser Interview ließ ihn aussteigen](https://www.youtube.com/watch?v=NZcdZVmZd1A) |
 | **Kanal** | [vollmarcant](https://www.youtube.com/@vollmarcant) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] |
+| **Notiz** | [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Marcant_Ausstieg_Transkript.txt` |
 
 ## Fichtner — Zehn Batteriemythen (Geladen Podcast)
@@ -185,7 +185,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Prof. Fichtner: Diese Lügen über Batterien kosten uns Milliarden](https://www.youtube.com/watch?v=CAwLEgeqKN0) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten]] |
+| **Notiz** | [[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Fichtner_Batterie_Mythen_Transkript.txt` |
 
 ---
@@ -195,7 +195,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Immer mehr neue Palantir-Gesetze](https://www.youtube.com/watch?v=wM7_nI9ZLCE) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]] |
+| **Notiz** | [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KurzGoerlitz_Palantir_Transkript.txt` |
 
 ---
@@ -205,7 +205,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [re:publica 26 — Zur Gegenmacht](https://www.youtube.com/watch?v=7waHkzEHcuw) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]] |
+| **Notiz** | [[Zeitgeist/Semsrott — Zur Gegenmacht]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Semsrott_Gegenmacht_Transkript.txt` |
 
 ## Brockschmidt & Nocun — Codes der extremen US-Rechten (re:publica 26)
@@ -213,7 +213,7 @@ tags:
 | | |
 |---|---|
 | **Gespräch / Video** | [Denkangebot Podcast: Codes der extremen US-Rechten (re:publica 26)](https://www.youtube.com/watch?v=VJp0VZP7dRg) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten]] |
+| **Notiz** | [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Brockschmidt_Nocun_Codes_USRechte_Transkript.txt` |
 
 ## Udo Marquardt — Zeit als Schlüssel zum guten Leben (SRF Sternstunde Philosophie)
@@ -221,7 +221,7 @@ tags:
 | | |
 |---|---|
 | **Gespräch / Video** | [Jetzt! – Die Zeit als Schlüssel zum guten Leben](https://www.youtube.com/watch?v=tHLhqbmfGkg) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]] |
+| **Notiz** | [[Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Marquardt_Zeit_Transkript.txt` |
 
 ## Moini & Chiofalo — GFF AfD-Verbotsgutachten (re:publica 26)
@@ -229,7 +229,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [re:publica 26 — GFF AfD-Gutachten](https://www.youtube.com/watch?v=FpGnlpjD-A4) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] |
+| **Notiz** | [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Moini_Chiofalo_AfD_Gutachten_Transkript.txt` |
 
 ## Amlinger & Nachtwey — Zerstörungslust: Demokratischer Faschismus (re:publica 26)
@@ -237,7 +237,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Zerstörungslust — re:publica 26](https://www.youtube.com/watch?v=yM_or9mYaXM) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus]] |
+| **Notiz** | [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Amlinger_Nachtwey_Zerstoerungslust_Transkript.txt` |
 
 ## Steinke & Marinić — Quo vadis Meinungsfreiheit? (re:publica 26)
@@ -246,7 +246,7 @@ tags:
 |---|---|
 | **Vortrag / Video** | [Quo vadis Meinungsfreiheit? — re:publica 26 (YouTube)](https://www.youtube.com/watch?v=cJSMIQL9A_Y) |
 | **Session-Seite** | [re:publica 26](https://re-publica.com/de/session/quo-vadis-meinungsfreiheit) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit]] |
+| **Notiz** | [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Steinke_Marinic_Meinungsfreiheit_Transkript.txt` |
 
 ## Jagoda Marinić — Schriftstellerin & FREIHEIT DELUXE
@@ -255,14 +255,14 @@ tags:
 |---|---|
 | **Podcast** | [FREIHEIT DELUXE — ARD Sounds](https://www.ardsounds.de/sendung/freiheit-deluxe-mit-jagoda-marinic/) |
 | **Webseite** | [jagodamarinic.com](https://jagodamarinic.com/) |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Jagoda Marinic]] |
+| **DenkerVita** | [[DenkerVita/Jagoda Marinic]] |
 ## Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt
 
 | | |
 |---|---|
 | **Vortrag / Video** | [re:publica 26: Jung, blond, rechts... & KI-generiert (YouTube)](https://www.youtube.com/watch?v=xcn64f3byyk) |
 | **Session-Seite** | [re:publica 26](https://re-publica.com/de/session/jung-blond-rechts-ki-generiert-wie-ai-content-das-politische-vorfeld-der-extremen-rechten) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]] |
+| **Notiz** | [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Nocun_KI_Rechtsextremismus_republica26_Transkript.txt` |
 
 ## Maurice Höfgen — Florian Bauer entlarvt Familienunternehmer-Lobby
@@ -271,7 +271,7 @@ tags:
 |---|---|
 | **Vortrag / Video** | [Gebt diesem Moderator eine Talkshow! (YouTube)](https://www.youtube.com/watch?v=-3ExL3SqIaU) |
 | **Originalinterview** | [Phoenix — Florian Bauer / Marie-Christine Ostermann](https://www.youtube.com/watch?v=IRtL6B3__1g) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]] |
+| **Notiz** | [[Zeitgeist/Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Hoefgen_Haushalt_Transkript.txt` |
 
 ## Wolfram Schultz — Dopamin: Mehr als ein Glückshormon
@@ -279,7 +279,7 @@ tags:
 | | |
 |---|---|
 | **Podcast** | [Bild der Wissenschaft Podcast — Dopamin: Mehr als ein Glückshormon](https://bildderwissenschaft.podigee.io/28-neue-episode) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Wolfram Schultz — Dopamin mehr als ein Glueckshormon]] |
+| **Notiz** | [[Zeitgeist/Wolfram Schultz — Dopamin mehr als ein Glueckshormon]] |
 | **Transkript** | Online-Transkript auf Podigee (kein lokaler Download nötig) |
 
 ## BissenBlaBla — Bilanz rechter Regierungen
@@ -287,7 +287,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Ich analysiere die Erfolge rechter Regierungen (YouTube)](https://www.youtube.com/watch?v=F75_QIoKYsI) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] |
+| **Notiz** | [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/BissenBlaBla_Rechte_Regierungen_Transkript.txt` |
 
 ## Yanis Varoufakis — 2008 Crash, Populismus und Europa
@@ -295,7 +295,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [From the 2008 Crash to the Rise of Populism (Russ Politics)](https://www.youtube.com/watch?v=QEgpcMSf56g) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]] |
+| **Notiz** | [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Varoufakis_2008Crash_Transkript.txt` |
 
 ## Klaus Dörre — Klassen, Kapitalismus & Demokratie
@@ -303,7 +303,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Jung & Naiv, Folge 793 (YouTube)](https://www.youtube.com/watch?v=E0vTcXBKIFw) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]] |
+| **Notiz** | [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Doerre_Klassen_Kapitalismus_Transkript.txt` |
 
 ## Morpheus — Whistleblower mundtot machen
@@ -311,7 +311,7 @@ tags:
 | | |
 |---|---|
 | **Video** | [Whistleblower MUNDTOT machen (powered by AI)](https://www.youtube.com/watch?v=Pre7Smb0cSc) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]] |
+| **Notiz** | [[Zeitgeist/Morpheus - Whistleblower mundtot machen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Morpheus_Whistleblower_Transkript.txt` |
 
 ## Chantal Mouffe — Das Politische und die Politik
@@ -319,7 +319,7 @@ tags:
 | | |
 |---|---|
 | **Video** | [Über Chantal Mouffe — Das Politische und die Politik (Philosophische Praxis im Netz)](https://www.youtube.com/watch?v=xflMX2cKqf8) |
-| **Notiz** | [[Gedankenwelten/Denker/Chantal Mouffe — Das Politische und die Politik]] |
+| **Notiz** | [[Denker/Chantal Mouffe — Das Politische und die Politik]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Mouffe_Politische_Transkript.txt` |
 
 ## Colin Crouch — Postdemokratie nach den Krisen
@@ -327,7 +327,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag** | [Postdemokratie nach den Krisen — Prof. Colin Crouch — Ringvorlesung](https://www.youtube.com/watch?v=T9lir14D2h0) |
-| **Notiz** | [[Gedankenwelten/Denker/Colin Crouch — Postdemokratie nach den Krisen]] |
+| **Notiz** | [[Denker/Colin Crouch — Postdemokratie nach den Krisen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Crouch_Postdemokratie_Transkript.txt` |
 
 ## PhoenixRunde — Machtpoker in Peking: Trump trifft Xi
@@ -335,7 +335,7 @@ tags:
 | | |
 |---|---|
 | **Sendung** | [phoenixRunde — Machtpoker in Peking: Trump trifft Xi](https://www.youtube.com/live/phyiRABRDmM) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]] |
+| **Notiz** | [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]] |
 | **Transkript** | `Gedankenwelten/Transkripte/PhoenixRunde_Trump_Xi_Transkript.txt` |
 
 ## B.R. Ambedkar — Kaste als Ontologie
@@ -345,7 +345,7 @@ tags:
 | **Vortrag A** | [Ananya Vajpeyi — Life of the Mind & Life in Politics (Library of Congress)](https://www.youtube.com/watch?v=imzO0eNziD4) |
 | **Vortrag B** | [Arundhati Roy — The Doctor and the Saint](https://www.youtube.com/watch?v=CrN8PgZzc6k) |
 | **Vortrag C** | [Suraj Yengde — Dalitality in Du Bois and Ambedkar (Harvard)](https://www.youtube.com/watch?v=kzHmvSrbSm0) |
-| **Notiz** | [[Gedankenwelten/Denker/Ambedkar - Kaste als Ontologie]] |
+| **Notiz** | [[Denker/Ambedkar - Kaste als Ontologie]] |
 | **Transkript A** | `Gedankenwelten/Transkripte/Vajpeyi_Ambedkar_LoC_Transkript.txt` |
 | **Transkript B** | `Gedankenwelten/Transkripte/Roy_Doctor_Saint_Transkript.txt` |
 | **Transkript C** | `Gedankenwelten/Transkripte/Yengde_DuBois_Ambedkar_Transkript.txt` |
@@ -355,8 +355,8 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Verbal Thinking and Neo-Enlightenment (Berggruen, 2025)](https://www.youtube.com/watch?v=8_gea_85sK0) |
-| **Notiz** | [[Gedankenwelten/Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung]] |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Zhao Tingyang]] |
+| **Notiz** | [[Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung]] |
+| **DenkerVita** | [[DenkerVita/Zhao Tingyang]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Zhao_VerbalThinking_Transkript.txt` |
 
 ## Zhao Tingyang / Forst / Williams — Tianxia und die Bedeutungen der Demokratie
@@ -365,8 +365,8 @@ tags:
 |---|---|
 | **Vortrag / Video A** | [The Meanings of Democracy — Beijing Forum (Nov 2021)](https://www.youtube.com/watch?v=_zUnIiMv8rY) |
 | **Vortrag / Video B** | [GIP Lectures: A New Understanding of Tianxia (2022)](https://www.youtube.com/watch?v=FBljLrMk5Bg) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]] |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Zhao Tingyang]] |
+| **Notiz** | [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]] |
+| **DenkerVita** | [[DenkerVita/Zhao Tingyang]] |
 | **Transkript A** | `Gedankenwelten/Transkripte/ZhaoForst_Democracy_Transkript.txt` |
 | **Transkript B** | `Gedankenwelten/Transkripte/Zhao_GIP_Tianxia_Transkript.txt` |
 
@@ -375,8 +375,8 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Bonhoeffer und „Die Neue Rechte" – Ein Gespräch mit Arnd Henze](https://www.youtube.com/watch?v=pXzHAvf5kRU) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]] |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Arnd Henze]] |
+| **Notiz** | [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]] |
+| **DenkerVita** | [[DenkerVita/Arnd Henze]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Henze_Bonhoeffer_Transkript.txt` |
 
 ## Prof. Jochen Großmann / GICON — Höhenwindturm
@@ -384,8 +384,8 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Wahnsinn: Ostdeutscher Ingenieur revolutioniert Windkraft!](https://www.youtube.com/watch?v=kKoYDAMzd4o) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]] |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Jochen Grossmann]] |
+| **Notiz** | [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]] |
+| **DenkerVita** | [[DenkerVita/Jochen Grossmann]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Grossmann_GICON_Hoehenwindturm_Transkript.txt` |
 
 ## Abdolkarim Soroush — Reformation des Glaubens von innen
@@ -394,7 +394,7 @@ tags:
 |---|---|
 | **Vortrag / Video A** | [Reason, Freedom and Democracy in Islam](https://www.youtube.com/watch?v=S04GZ7e8ovk) |
 | **Vortrag / Video B** | [Discussion on Revelation, Reform, and Secularism](https://www.youtube.com/watch?v=riwmwcgo6_o) |
-| **Notiz** | [[Gedankenwelten/Denker/Abdolkarim Soroush — Reformation des Glaubens von innen]] |
+| **Notiz** | [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen]] |
 | **Transkript A** | `Gedankenwelten/Transkripte/Soroush_Reason_Freedom_Democracy_Transkript.txt` |
 | **Transkript B** | `Gedankenwelten/Transkripte/Soroush_Revelation_Reform_Transkript.txt` |
 
@@ -403,7 +403,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Thought doesn't just happen in the brain \| Barbara Tversky](https://www.youtube.com/watch?v=Tprm0UpCKTY) |
-| **Notiz** | [[Gedankenwelten/Denker/Barbara Tversky — Denken beginnt nicht im Kopf]] |
+| **Notiz** | [[Denker/Barbara Tversky — Denken beginnt nicht im Kopf]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Tversky_Embodied_Thinking_Transkript.txt` |
 
 ## Yanis Varoufakis — Trump Has Lost Everything
@@ -411,7 +411,7 @@ tags:
 | | |
 |---|---|
 | **Interview / Video** | ["Trump has lost everything" \| Yanis Varoufakis \| The Exchange](https://www.youtube.com/watch?v=JXeBY86ATJk) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Trump Has Lost Everything]] |
+| **Notiz** | [[Zeitgeist/Yanis Varoufakis — Trump Has Lost Everything]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Varoufakis_Exchange_Transkript.txt` |
 
 ## Yanis Varoufakis — Technofeudalism
@@ -419,7 +419,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Yanis Varoufakis welcomes us to the age of Technofeudalism \| FULL INTERVIEW](https://www.youtube.com/watch?v=X3FdIyNMaFY) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Yanis Varoufakis — Technofeudalism]] |
+| **Notiz** | [[Zeitgeist/Yanis Varoufakis — Technofeudalism]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Varoufakis_Technofeudalism_Transkript.txt` |
 
 ## Ivan Krastev — Wie zukunftsfähig ist Europa?
@@ -427,7 +427,7 @@ tags:
 | | |
 |---|---|
 | **Gespräch / Video** | [Ivan Krastev, wie zukunftsfähig ist Europa? \| Sternstunde Philosophie \| SRF Kultur](https://www.youtube.com/watch?v=xHf0YIVfhKQ) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa]] |
+| **Notiz** | [[Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Krastev_Europa_Transkript.txt` |
 
 ## Heiner Flassbeck — Deutschlands Lohn-Irrsinn
@@ -435,7 +435,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Flassbeck spricht: ALLES FALSCH! Deutschlands Lohn-Irrsinn \| Folge 08](https://www.youtube.com/watch?v=Z_02tf3pSpw) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn]] |
+| **Notiz** | [[Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Flassbeck_Lohn_Irrsinn_Transkript.txt` |
 
 ## Heiner Flassbeck — Deutschlands größtes Tabu
@@ -443,7 +443,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Heiner Flassbeck: Warum Deutschlands größtes TABU uns ruiniert](https://www.youtube.com/watch?v=HGMKulV8mNg) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu]] |
+| **Notiz** | [[Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Flassbeck_Tabu_Transkript.txt` |
 
 ## NANO Talk — Arbeiten wir zu wenig oder voellig falsch?
@@ -451,7 +451,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Arbeiten wir zu wenig – oder völlig falsch? \| NANO Talk (3sat)](https://www.youtube.com/watch?v=PCPoI5vGb6s) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] |
+| **Notiz** | [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] |
 | **Transkript** | `Gedankenwelten/Transkripte/NANO_Arbeit_Transkript.txt` |
 
 ## Gilda Sahebi und Arne Semsrott — GCA #33: Liegenddemos, Schwarz-Rot, Sea-Watch
@@ -459,7 +459,7 @@ tags:
 | | |
 |---|---|
 | **Podcast** | [Gilda con Arne #33 — RSS Feed](https://anchor.fm/s/10c9476b0/podcast/rss) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]] |
+| **Notiz** | [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]] |
 | **Transkript** | `Gedankenwelten/Transkripte/GildaArne_33_Liegenddemos_SchwarzRot_Transkript.txt` |
 
 ## Kojin Karatani — Tauschformen und die Überwindung der Triade
@@ -470,8 +470,8 @@ tags:
 | **Video** | [2022 Berggruen Prize Laureate](https://www.youtube.com/watch?v=dSdfmqZK3rc) |
 | **Transkript Lecture 1** | `Gedankenwelten/Transkripte/Karatani_Lecture1_Transkript.txt` |
 | **Transkript Berggruen** | `Gedankenwelten/Transkripte/Karatani_Modes_Exchange_Transkript.txt` |
-| **Notiz** | [[Gedankenwelten/Denker/Kojin Karatani — Tauschformen und die Ueberwindung der Triade]] |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Kojin Karatani]] |
+| **Notiz** | [[Denker/Kojin Karatani — Tauschformen und die Ueberwindung der Triade]] |
+| **DenkerVita** | [[DenkerVita/Kojin Karatani]] |
 
 
 
@@ -480,7 +480,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [The Holberg Lecture — "The Earthly Community"](https://www.youtube.com/watch?v=omx5NuYBxIk) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]] |
+| **Notiz** | [[Zeitgeist/Mbembe — The Earthly Community]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Mbembe_Earthly_Community_Transkript.txt` |
 
 ## scobel — Lyotard: Das Ende der Wahrheit?
@@ -488,7 +488,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Das Ende der Wahrheit? Lyotards gefährliche Idee – scobel](https://www.youtube.com/watch?v=znQGE0qelew) |
-| **Notiz** | [[Gedankenwelten/Denker/scobel — Lyotard das Ende der Wahrheit]] |
+| **Notiz** | [[Denker/scobel — Lyotard das Ende der Wahrheit]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Scobel_Lyotard_Transkript.txt` |
 
 ## erneuerbare tv — Bidirektionales Laden / Vehicle-to-Grid
@@ -496,7 +496,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Geld verdienen mit E-Auto und bidirektionalem Laden](https://www.youtube.com/watch?v=1W6-mThc8_k) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]] |
+| **Notiz** | [[Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid]] |
 | **Transkript** | `Gedankenwelten/Transkripte/ErneuerbareTv_Bidirektional_Transkript.txt` |
 
 ## erneuerbare tv — Sommerwärme im Erdreich (MEFA Kupferzell)
@@ -504,7 +504,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Unternehmen speichert Sommerwärme und reduziert massiv Energiepreise](https://www.youtube.com/watch?v=RIlsuqnhw10) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/erneuerbare tv — Sommerwaerme im Erdreich]] |
+| **Notiz** | [[Zeitgeist/erneuerbare tv — Sommerwaerme im Erdreich]] |
 | **Transkript** | `Gedankenwelten/Transkripte/ErneuerbareTV_Sommerwaerme_Transkript.txt` |
 
 ## Topfvollgold — NiUS erfindet Islam-Skandal
@@ -512,7 +512,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [NiUS erfindet Islam-Skandal](https://www.youtube.com/watch?v=XiC0qsyka0M) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]] |
+| **Notiz** | [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Topfvollgold_NiUS_Islam_Transkript.txt` |
 
 ## Good News — Mai 2026 Teil 2
@@ -520,7 +520,7 @@ tags:
 | | |
 |---|---|
 | **Video** | [Your Monthly Dose of Good News \| May (Teil 2)](https://www.youtube.com/watch?v=OZoNgNBmsjs) |
-| **Notiz** | [[Gedankenwelten/GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]] |
+| **Notiz** | [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]] |
 | **Transkript** | `Gedankenwelten/Transkripte/GoodNews_Mai2026_Teil2_Transkript.txt` |
 
 ## Good News — Mai 2026
@@ -538,7 +538,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Merz Plant 72-Stunden-Arbeitswoche Und Wird Dafür Heftig ZERLEGT!](https://www.youtube.com/watch?v=5UkPzz8gCys) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche]] |
+| **Notiz** | [[Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Dara_Merz_72h_Arbeitswoche_Transkript.txt` |
 
 ## Tim Meyer & Jan Hegenberg — In China lachen sie über unsere Energiewende
@@ -546,7 +546,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [In China lachen sie über unsere Energiewende - Tim Meyer & Jan Hegenberg](https://www.youtube.com/watch?v=7L_pDKVaMVE) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Tim Meyer und Jan Hegenberg — China Energiewende]] |
+| **Notiz** | [[Zeitgeist/Tim Meyer und Jan Hegenberg — China Energiewende]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Meyer_Hegenberg_Energiewende_China_Transkript.txt` |
 
 ## Jung & Naiv — Der Entscheidende Punkt: 1 Jahr Kanzler Merz
@@ -554,7 +554,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [DER ENTSCHEIDENDE PUNKT: 1 Jahr Kanzler Merz & Groko \| Mit Albrecht von Lucke, Ulrike Herrmann](https://www.youtube.com/watch?v=ENfbE-kdnNM) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]] |
+| **Notiz** | [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]] |
 | **Transkript** | `Gedankenwelten/Transkripte/JungNaiv_Merz1Jahr_Transkript.txt` |
 
 ## phoenixRunde — Arm und Reich in Deutschland
@@ -562,7 +562,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [phoenixRunde — Arm und Reich in Deutschland (04.05.2026)](https://www.youtube.com/watch?v=btys1SgMuUg) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]] |
+| **Notiz** | [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]] |
 | **Transkript** | `Gedankenwelten/Transkripte/PhoenixRunde_ArmUndReich_Transkript.txt` |
 
 ## Dirk Specht — Strom, Merit Order und Großbatterien
@@ -570,7 +570,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Strom: Merit Order abschaffen, chinesischen Strommarkt kopieren](https://www.youtube.com/watch?v=GPaLfWkkMeA) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien]] |
+| **Notiz** | [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Specht_Energie_Transkript.txt` |
 
 ## Michael Sterner — Söders Energie-Irrtum: Faktencheck
@@ -578,7 +578,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Söders Energie-Irrtum? Der fundierte Faktencheck](https://www.youtube.com/watch?v=G530Iz7dHOg) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Michael Sterner — Soeders Energie-Irrtum Faktencheck]] |
+| **Notiz** | [[Zeitgeist/Michael Sterner — Soeders Energie-Irrtum Faktencheck]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Sterner_Soeder_Energie_Transkript.txt` |
 
 ## Möllers und Poschardt — Welche Freiheit wollen wir?
@@ -586,7 +586,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Welche Freiheit wollen wir? Christoph Möllers trifft Ulf Poschardt](https://www.youtube.com/watch?v=YPcJgFhrIf8) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]] |
+| **Notiz** | [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Moellers_Poschardt_Freiheit_Transkript.txt` |
 
 ## Adriaan van Wagensveld — Selbstfürsorge
@@ -594,7 +594,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Für dich sorgen heißt für andere sorgen – warum Selbstfürsorge kein Egoismus ist](https://www.youtube.com/watch?v=oRs91GjKlbo) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen]] |
+| **Notiz** | [[Zeitgeist/Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/VanWagensveld_Selbstfuersorge_Transkript.txt` |
 
 ## Studio Bonn — Extremer Reichtum
@@ -602,7 +602,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Studio Bonn – Talk: Extremer Reichtum](https://www.youtube.com/watch?v=Gw8rBzTRZUY) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]] |
+| **Notiz** | [[Zeitgeist/Studio Bonn — Extremer Reichtum]] |
 | **Transkript** | `Gedankenwelten/Transkripte/StudioBonn_Reichtum_Transkript.txt` |
 
 ## Markus Gabriel — KI als Resonanzfeld und Mu (scobel)
@@ -732,7 +732,7 @@ tags:
 |---|---|
 | **Vortrag / Video** | [Deshalb fühlst du dich schlecht (Gerald Hüther) — ungeskriptet by Ben](https://www.youtube.com/watch?v=KPeTQYdof7Q) |
 | **Notiz** | [[Gerald Huether — Lebendigkeit und das Ende der Hierarchien]] |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Gerald Hüther]] |
+| **DenkerVita** | [[DenkerVita/Gerald Hüther]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Huether_Lebendigsein_Transkript.txt` |
 
 ## Good News — Gute Nachrichten April 2026 (Teil 2)
@@ -1486,7 +1486,7 @@ tags:
 | | |
 |---|---|
 | **Diskurse** | [dhamma.org — Aufnahmen (Deutsch)](https://discourses.dhamma.org/recordings/discourses?languages%5Biso_code%5D=de&event_days%5Bshortcode%5D=) |
-| **Notiz** | [[Gedankenwelten/Denker/S.N. Goenka — Vipassana]] |
+| **Notiz** | [[Denker/S.N. Goenka — Vipassana]] |
 | **Transkripte** | `Gedankenwelten/Vipassana/Day01–Day11_Deutsch_Discourse_10day.txt` |
 
 ---
@@ -1506,7 +1506,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | ['This Is the Same Idea Hitler Pushed' — Ibram X. Kendi on MAGA Politics](https://www.youtube.com/watch?v=7gdxmcg3JCg) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] |
+| **Notiz** | [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kendi_GreatReplacement_Transkript.txt` |
 
 ---
@@ -1751,7 +1751,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Narzissmus-Experte: Warum Narzissten innerlich so leer sind — Jakobsweg Podcast](https://www.youtube.com/watch?v=gw-ZOrlqt_g) |
-| **Notiz** | [[Gedankenwelten/Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]] |
+| **Notiz** | [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Hagemeyer_Narzissmus_Transkript.txt` |
 
 ---
@@ -1835,7 +1835,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Andreas Kemper — Faschismen im 21. Jahrhundert (Voller Vortrag)](https://www.youtube.com/watch?v=ug4UAdnGH54) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] |
+| **Notiz** | [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kemper_Faschismus21_Transkript.txt` |
 | **Kontext** | Vortrag beim Kultreff, Universität Paderborn — Theoriebasis (Griffin, Theweleit) + drei Faschismus-Typen |
 
@@ -1857,7 +1857,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Pentagon vs. Anthropic: Wer kontrolliert die KI?](https://www.youtube.com/watch?v=3wizXzdTQCc) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]] |
+| **Notiz** | [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Tooze_KI_Kontrolle_Transkript.txt` |
 | **Spektrum** | Links-wirtschaftsanalytisch — Surplus-Magazin (Adam Tooze, Lukas Scholle) |
 
@@ -2192,7 +2192,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 |---|---|
 | **Studie** | [FÖS — Staatliche Förderungen der Atomenergie (2020)](https://foes.de/publikationen/2020/2020-10_FoES_Fossile-Subventionen_Atomkraft.pdf) |
 | **Parlamentsdienst** | Bundestag Wissenschaftliche Dienste WD 5/2021 |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] |
+| **Notiz** | [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]] |
 
 ---
 
@@ -2295,7 +2295,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [🗞️ NEWS: Krasser Machtmissbrauch von der CDU/CSU…](https://www.youtube.com/watch?v=cd8rCzl3Uvs) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] |
+| **Notiz** | [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Staiy_News_Machtmissbrauch_Transkript.txt` |
 
 ---
@@ -2933,7 +2933,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Jens Spahns Maskendeal: Spendendinner und ein millionenschwerer Auftrag | SPIEGEL TV](https://www.youtube.com/watch?v=SgTmJFlZyqw) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner]] |
+| **Notiz** | [[Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner]] |
 | **Transkript** | `Gedankenwelten/Transkripte/SpiegelTV_Spahn_Maskendeal_Transkript.txt` |
 
 ## Gert Scobel — Meditation kann gefährlich sein
@@ -2941,9 +2941,9 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Meditation kann gefährlich sein! – scobel](https://www.youtube.com/watch?v=aFb1JkIqN6U) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]] |
+| **Notiz** | [[Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Scobel_Meditation_Transkript.txt` |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Gert Scobel]] |
+| **DenkerVita** | [[DenkerVita/Gert Scobel]] |
 
 ## BR24 Kontrovers — Energiewende Solarabschaltung Mittelstand
 
@@ -2958,47 +2958,47 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Warum plötzlich alle chinesische KI nutzen](https://www.youtube.com/watch?v=LyqaUUs0o-M) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]] |
+| **Notiz** | [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Morpheus_ChinaKI_Transkript.txt` |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Morpheus]] |
+| **DenkerVita** | [[DenkerVita/Morpheus]] |
 
 ## Petra Gehring & Sebastian Gießmann — Digitale Unabhängigkeit und monetäre Souveränität
 
 | | |
 |---|---|
 | **Vortrag / Video** | [re:publica 26 — Digitale Unabhängigkeit & monetäre Souveränität jetzt!](https://www.youtube.com/watch?v=tfGMCyuCDaE) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet]] |
+| **Notiz** | [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet]] |
 | **Transkript** | `Gedankenwelten/Transkripte/GehringGiessmann_DigitaleUnabhaengigkeit_Transkript.txt` |
-| **DenkerVita Gehring** | [[Gedankenwelten/DenkerVita/Petra Gehring]] |
-| **DenkerVita Gießmann** | [[Gedankenwelten/DenkerVita/Sebastian Giessmann]] |
+| **DenkerVita Gehring** | [[DenkerVita/Petra Gehring]] |
+| **DenkerVita Gießmann** | [[DenkerVita/Sebastian Giessmann]] |
 
 ## Georgina Neitzel & Raphael Iltisberger — Hype Is a System
 
 | | |
 |---|---|
 | **Vortrag / Video** | [Hype Is a System: How Tech Futures Get Made](https://www.youtube.com/watch?v=0Fj-ZPptbPg) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]] |
+| **Notiz** | [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Neitzel_Iltisberger_TechHype_Transkript.txt` |
-| **DenkerVita Neitzel** | [[Gedankenwelten/DenkerVita/Georgina Neitzel]] |
-| **DenkerVita Iltisberger** | [[Gedankenwelten/DenkerVita/Raphael Iltisberger]] |
+| **DenkerVita Neitzel** | [[DenkerVita/Georgina Neitzel]] |
+| **DenkerVita Iltisberger** | [[DenkerVita/Raphael Iltisberger]] |
 
 ## Maren Urner — Radikal hoffnungsvoll (re:publica 26)
 
 | | |
 |---|---|
 | **Vortrag / Video** | [re:publica 26 — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf](https://www.youtube.com/watch?v=QRaOCV66bXk) |
-| **Notiz** | [[Gedankenwelten/Denker/Maren Urner — Radikal hoffnungsvoll]] |
+| **Notiz** | [[Denker/Maren Urner — Radikal hoffnungsvoll]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Urner_Hoffnung_Transkript.txt` |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Maren Urner]] |
+| **DenkerVita** | [[DenkerVita/Maren Urner]] |
 
 ## Christine Brähler — Selbstmitgefühl, Scham und reife Liebe
 
 | | |
 |---|---|
 | **Vortrag / Video** | [Psychotherapeutin: Wie du aufhörst, dein eigener härtester Kritiker zu sein](https://www.youtube.com/watch?v=38galNbhahA) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] |
+| **Notiz** | [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Braehler_Selbstmitgefuehl_Transkript.txt` |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Christine Braehler]] |
+| **DenkerVita** | [[DenkerVita/Christine Braehler]] |
 
 ## Tiana (Where Tiana Travels) — Das amerikanische Betriebssystem
 
@@ -3007,5 +3007,5 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Video 1** | [Things That Are Normal in America But Insane Everywhere Else](https://www.youtube.com/watch?v=458dxzOtghs) (März 2026) |
 | **Video 2** | [5 Things American Schools Taught Me That Make No Sense in Europe](https://www.youtube.com/watch?v=gA9Dw-cRP_k) (Januar 2026) |
 | **Video 3** | [Why Millions of Americans Vote Against Their Own Self Interests](https://www.youtube.com/watch?v=gUFMM9VYgpM) (Januar 2026) |
-| **Notiz** | [[Gedankenwelten/Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] |
-| **DenkerVita** | [[Gedankenwelten/DenkerVita/Tiana Travels]] |
+| **Notiz** | [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] |
+| **DenkerVita** | [[DenkerVita/Tiana Travels]] |

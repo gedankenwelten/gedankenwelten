@@ -69,7 +69,7 @@ Sie argumentiert für:
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
+- [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 
 ---
 

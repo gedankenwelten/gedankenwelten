@@ -83,7 +83,7 @@ Durch Procurement-Standards können Regierungen Märkte formen: Was der Staat ka
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/re:publica 26 — KI-Industriepolitik und europäische Souveränität]] — re:publica 26 Session
+- [[Zeitgeist/re:publica 26 — KI-Industriepolitik und europäische Souveränität]] — re:publica 26 Session
 
 ---
 

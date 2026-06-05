@@ -22,7 +22,7 @@ Quelle: [re:publica 26 — Jung, blond, rechts... & KI-generiert](https://www.yo
 > [!info] Wer spricht?
 > **Katharina Nocun** (*1986 in Polen, aufgewachsen in Deutschland*) — Netzaktivistin, Autorin und Spezialistin für Verschwörungstheorien und digitale Desinformation. Ehemalige Policy-Coordinator der Piratenpartei (2013–2016), wo sie sich als Datenschutz-Expertin einen Namen machte — Edward Snowden bedankte sich persönlich für ihre Asyl-Kampagne. Autorin von *Fake Facts* (2020, mit Pia Lamberty) und *Gefährlicher Glaube* (2022), in dem sie die esoterische Szene als Einfallstor zur extremen Rechten analysiert — das Thema dieses Vortrags ist die direkte Weiterführung dieser Arbeit ins KI-Zeitalter. Sie betreibt systematisch Accounts in verschiedenen Social-Media-Milieus, um Radikalisierungspipelines aus der Innenperspektive zu beobachten.
 >
-> → [[Gedankenwelten/DenkerVita/Katharina Nocun|DenkerVita]]
+> → [[DenkerVita/Katharina Nocun|DenkerVita]]
 
 ---
 
@@ -45,7 +45,7 @@ Was sich in den letzten Monaten dramatisch verändert hat: Diese Accounts, früh
 
 [▶ 11:08](https://www.youtube.com/watch?v=xcn64f3byyk&t=668) — Ein vollständig KI-generiertes Profil namens **„Jessica Foster"** erreichte zeitweise **1,1 Millionen Follower** auf Instagram. Sie postete als Soldatin der US Army, immer schick hergerichtet, immer mit einem klaren politischen Subtext: Trump-Unterstützerin, bereit für ihn in den Krieg zu ziehen. Wer weiterklickte, landete auf ihrem OnlyFans-Account.
 
-![[Gedankenwelten/assets/Nocun_republica26_668.jpg|700]]
+![[assets/Nocun_republica26_668.jpg|700]]
 
 > [!info] Abbildungen
 > Alle Screenshots aus der re:publica-26-Session von Katharina Nocun, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -56,7 +56,7 @@ Das Prinzip dahinter ist einfach: Attraktive, junge, normschöne KI-Frauen trans
 
 > *„Kaum sagt man, was man denkt, kommt so ein alter ungepflegter Mann von der FAZ und stellt einen als 'rechte Verführerin' dar."*
 
-![[Gedankenwelten/assets/Nocun_republica26_850.jpg|700]]
+![[assets/Nocun_republica26_850.jpg|700]]
 
 Das ist kein Fehler, sondern Strategie. Die Figur hat eine vollständige Biografie: 22 Jahre alt, wohnt in Brandenburg, hat einen Schäferhund, fährt Diesel, Mama kommt aus Magdeburg. Diese **Illusion von Nähe** fördert parasoziale Beziehungen. Menschen glauben, sie kennen Larissa. Und Larissa wird nie einen AfD-Korruptionsskandal kritisieren — weil die Admins sie loyal halten.
 
@@ -83,7 +83,7 @@ Der übergreifende Oberbegriff in Nocuns Vortrag: **Fake-Supporter** — KI-gene
 
 [▶ 22:31](https://www.youtube.com/watch?v=xcn64f3byyk&t=1351) — Das **Vox-Pop-Format** — „wir lassen mal die Straße reden" — hat journalistische Glaubwürdigkeit eingebaut. KI-generierte Straßenumfragen nutzen genau das aus.
 
-![[Gedankenwelten/assets/Nocun_republica26_1351.jpg|700]]
+![[assets/Nocun_republica26_1351.jpg|700]]
 
 Das Muster ist präzise kalibriert: Sehr häufig werden blonde Frauen interviewt, gerne mit einem kleinen Mädchen an der Hand, zum Thema Kriminalität und Migration — und wie viel Angst sie angeblich hätten. ZDF heute dokumentierte 2025 die Reichweite: Millionen Menschen auf TikTok, fremdenfeindliche Untertöne, erkennbar erst beim genauen Hinsehen als KI-generiert.
 
@@ -97,7 +97,7 @@ Der Mechanismus ist normalisierend: Wer nicht weiß, dass das Video fake ist, ni
 
 [▶ 24:02](https://www.youtube.com/watch?v=xcn64f3byyk&t=1442) — Aus den USA schwappt ein zweites Fake-Supporter-Format herüber: konstruierte Konfrontationen.
 
-![[Gedankenwelten/assets/Nocun_republica26_1442.jpg|700]]
+![[assets/Nocun_republica26_1442.jpg|700]]
 
 Die Story ist immer dieselbe: Ein Mann steht vor einer Frauentoilette. Drinnen seine Frau, seine Tochter, seine Freundin. Herein will eine queere Person. Der Mann im MAGA-Cap hält sie auf. Snopes hat ein konkretes Beispiel als KI-generiert entlarvt — der Grok-Prompt wurde zurückverfolgt. Das Video kursiert in diversen Varianten, nie als erkennbare Kampagne.
 
@@ -116,7 +116,7 @@ In Deutschland noch nicht direkt angekommen — *„aber ich bin mir sicher, das
 
 [▶ 24:49](https://www.youtube.com/watch?v=xcn64f3byyk&t=1489) — Der nächste Trend trägt das Gegenteil von Bedrohlichkeit im Gesicht: **Niedlichkeit**. Das Weiße Haus postete 2025 ein Ghibli-Style-Bild zur Verhaftung eines Fentanyl-Dealers — süß, animiert, mit dem ästhetischen Fingerabdruck eines der feministischsten, friedlichsten Filmstudios der Welt. Nocun, selbst erklärter Ghibli-Fan, findet es bitter:
 
-![[Gedankenwelten/assets/Nocun_republica26_1534.jpg|700]]
+![[assets/Nocun_republica26_1534.jpg|700]]
 
 > *„Das ist eine Verniedlichung von der Situation, die eigentlich überhaupt nicht niedlich ist. Ich bin mir ziemlich sicher, dass die Macher nicht approven, dass solche Akteure diesen Stil benutzen, um ihre Narrative zu verniedlichen."*
 
@@ -135,7 +135,7 @@ Das doppelte Ziel der Niedlichkeit: Immunisierung gegen Kritik (*„das ist doch
 
 [▶ 19:27](https://www.youtube.com/watch?v=xcn64f3byyk&t=1167) — Erst zwei Wochen vor dem Vortrag veröffentlichte **Korrektiv** eine systematische Analyse: **190 Profile gehören zu 22 Personas** — alles KI-generierte Fake-Frauen. Die Technologie hat sich so weit entwickelt, dass man sie nicht mehr auf den ersten, zweiten oder dritten Blick erkennt. Besonders: Die Accounts **interagieren miteinander**, reagieren aufeinander, teilen fast identische Inhalte mit leicht variiertem Prompt.
 
-![[Gedankenwelten/assets/Nocun_republica26_1167.jpg|700]]
+![[assets/Nocun_republica26_1167.jpg|700]]
 
 Das ist kein Einzeltäter mehr. Das ist **Infrastruktur**.
 
@@ -150,19 +150,19 @@ Und sie bedient sich aller demografischen Muster der extremen Rechten mit perfid
 
 [▶ 29:25](https://www.youtube.com/watch?v=xcn64f3byyk&t=1765) — Auf AfD-Instagram ist mittlerweile fast jeder Post KI-generiert. Mit kleiner Kennzeichnung, die auf kleinen Bildschirmen niemand sieht. Nocun nennt es offen: *„Überlegt mal, wie abgebrüht man sein muss, um ein kleines Kind mit dem Messer KI zu generieren."*
 
-![[Gedankenwelten/assets/Nocun_republica26_1760.jpg|700]]
+![[assets/Nocun_republica26_1760.jpg|700]]
 
 Was da gezeigt wird: Schüler und Lehrer in Angst vor Gewalt an Schulen — mit Jugendlichen in bedrohlichen Posen, KI-generiert, mit rotem Kreuz als Kennzeichnung die kaum jemand bemerkt. Daneben: Geflüchtetenunterkünfte als Luxushotels. Eine konstant wiederholte Bildsprache produziert eine Normalität, die es nicht gibt.
 
 > *„Wenn Gruppen von Menschen mit Migrationshintergrund gezeigt werden — fast immer Männer, fast immer wütend, aggressiv. Irgendwelche blonden Frauen verstecken sich in der Ecke. Das ist die Realität, die da konstruiert wird."*
 
-![[Gedankenwelten/assets/Nocun_republica26_1672.jpg|700]]
+![[assets/Nocun_republica26_1672.jpg|700]]
 
 Hinzu kommt ein Paradox: Wer dagegen kommentiert, boosted den Post. Social Media unterscheidet nicht zwischen positiven und negativen Reaktionen. Empörung ist Engagement. Der AfD-KI-Slop profitiert von seiner eigenen Kritik.
 
 [▶ 30:12](https://www.youtube.com/watch?v=xcn64f3byyk&t=1812) — Nocun beschreibt den systematischsten Ausdruck dieser Bildstrategie: **„Decline Porn"** (auch: Verfallporn) — Accounts, die ausschließlich Inhalte posten, die suggerieren, Städte wie Berlin seien unbewohnbar, Kriminalität sei allgegenwärtig, Frauen könnten nicht mehr sicher auf die Straße.
 
-![[Gedankenwelten/assets/Nocun_republica26_1857.jpg|700]]
+![[assets/Nocun_republica26_1857.jpg|700]]
 
 Das Framing ist immer dasselbe: *„Ich zeige dir, was die großen Medien dir verheimlichen."* Oder: *„So wird es in 10 Jahren aussehen, wenn linksgrün..."* Einige Accounts geben Migration die Schuld an Missständen — oder beklagen schlicht die **bloße Anwesenheit von nicht-weißen Menschen**. Das BBC hat das für den UK-Raum dokumentiert; AfD-nahe Accounts kopieren das Modell für Deutschland.
 
@@ -180,13 +180,13 @@ Nocun führt die Prompt-Kette Schritt für Schritt vor. Erster Versuch: *„Erst
 
 **Vorher** — erste KI-Ausgabe, dem Admin zu unecht und zu wenig arisch:
 
-![[Gedankenwelten/assets/Nocun_republica26_1949.jpg|700]]
+![[assets/Nocun_republica26_1949.jpg|700]]
 
 Doch der Admin war unzufrieden. Der Junge hatte rote Haare. Die Frau war nicht blond. Also: Nachprompt. Die Frau muss blond sein. Den Jungen bitte auch anders. Noch ein Nachprompt: Das Bild sieht zu unecht aus. Realistischer bitte. Und dann, Schritt drei:
 
 **Nachher** — finale Version, nach dem letzten Prompt:
 
-![[Gedankenwelten/assets/Nocun_republica26_prompts_hübscher.png|700]]
+![[assets/Nocun_republica26_prompts_hübscher.png|700]]
 
 Das Mädchen in der KI-generierten Propagandafamilie wurde nachgeprompt, um attraktiver auszusehen. Nocun kommentiert das nicht mehr — sie hält inne, lässt den Satz im Raum stehen. Die Audience versteht. Und Nocun schließt daraus:
 
@@ -203,7 +203,7 @@ Was die Prompts offenbaren: Hinter dem Bild einer vermeintlich normalen niederl�
 
 [▶ 34:00](https://www.youtube.com/watch?v=xcn64f3byyk&t=2040) — Nocun schließt mit einem Arendt-Zitat, das der amtierende Papst Franziskus in seiner letzten Enzyklika zitierte — eine unerwartete intellektuelle Kette:
 
-![[Gedankenwelten/assets/Nocun_republica26_2040.jpg|700]]
+![[assets/Nocun_republica26_2040.jpg|700]]
 
 > *„Der ideale Untertan totalitärer Herrschaft ist nicht der überzeugte Nazi oder engagierte Kommunist, sondern Menschen, für die der Unterschied zwischen Fakt und Fiktion, zwischen wahr und falsch nicht länger existiert."*
 
@@ -256,43 +256,43 @@ Das ist das eigentliche Ziel von KI-Slop: nicht Überzeugung, sondern **Erschöp
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/rabbit hole — Ungarn-Wahl KI-Wahlkampf]]
+### → [[Zeitgeist/rabbit hole — Ungarn-Wahl KI-Wahlkampf]]
 
 Beide Notes dokumentieren denselben Mechanismus — KI als Propaganda-Infrastruktur — auf verschiedenen Ebenen: Nocun zeigt die Sockenpuppen-Architektur (190 Profile, 22 Personas, koordinierte Fake-Frauen), rabbit hole zeigt denselben Ansatz im Staatseinsatz (Orbán/Fidesz, Storm-1516). Zusammen entstehen die zwei Achsen des Phänomens: privater Markt und staatlich orchestrierte Variante.
 
-### → [[Gedankenwelten/Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
+### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 
 Kempers Kernthese — der vorwärtsgewandte Faschismus braucht keine Massenaufmärsche, der hat KI — ist bei Nocun praktisch ausgeführt. KI-Fake-Frauen auf AfD-Instagram, koordinierte Sockenpuppen-Netzwerke und algorithmisch verstärkte Parallelrealität sind genau das, was Kemper als technofaschistischen Werkzeugkasten beschreibt. Nocun liefert die Empirie zu Kempers Theorie.
 
-### → [[Gedankenwelten/Zeitgeist/ARTE — Forschung Fake und faule Tricks]]
+### → [[Zeitgeist/ARTE — Forschung Fake und faule Tricks]]
 
 Agnotologie — die industrielle Produktion von Unwissen — und Nocuns „Erschöpfung der Faktizität" (Arendt) verfolgen dasselbe Ziel: nicht die eigene Wahrheit durchsetzen, sondern den epistemischen Boden unter dem Gegner wegziehen. Was früher ein Konzernapparat brauchte, erledigt heute ein Prompt.
 
-### → [[Gedankenwelten/Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]]
+### → [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]]
 
 Temelkurans Stufen 3 und 4 (Rationalität stören, Enthemmung normalisieren) sind bei Nocun in technologische Infrastruktur gegossen. Was Temelkuran als politischen Prozess beschreibt — Gesellschaft gewöhnt sich schrittweise an die Auflösung von Faktizität — vollzieht sich bei Nocun algorithmisch beschleunigt durch Milliarden KI-generierter Eindrücke.
 
-### → [[Gedankenwelten/Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
+### → [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
 Nachtsitzung dokumentiert das transnationale Netzwerk (CPAC, Heritage Foundation, Atlas-Netzwerk, Bannon als AfD-Berater), das den ideologischen Rahmen setzt. Nocuns KI-Fake-Frauen und Verfallporn-Accounts sind das taktische Ausführungslevel auf Social Media — das Netzwerk liefert die Agenda, die KI-Accounts skalieren sie.
 
-### → [[Gedankenwelten/Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
+### → [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 
 Kendi zeigt, wie die Great Replacement Theory als Machtinstrument funktioniert: Nicht Überzeugung, sondern das Gefühl des Bedrohtseins erzeugen. Nocuns KI-Fake-Frauen in Angstposen, wütende dunkelhäutige Männer als Dauerschleife, Berlin als Albtraum — das ist die visuell-algorithmische Umsetzungsschicht dieser Theorie. Kendi erklärt das Warum, Nocun zeigt das Wie.
 
-### → [[Gedankenwelten/Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
+### → [[Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
 
 Topfvollgold dokumentiert den manuellen Vorgänger: erfundene Migrationsgeschichten von BILD, weitergetragen von AfD-Politikerinnen, aufgepeppt mit KI-Fakebildern. Bei Nocun ist diese Pipeline vollständig automatisiert — der Fake entsteht per Prompt, die Verbreitung läuft über koordinierte Sockenpuppen-Netzwerke. BILD/NIUS machen manuell, was KI-Slop industriell kann.
 
-### → [[Gedankenwelten/Denker/Hannah Arendt — Die Banalität des Bösen]]
+### → [[Denker/Hannah Arendt — Die Banalität des Bösen]]
 
 Arendts Kernentdeckung: Das größte Böse entsteht nicht aus Hass, sondern aus dem **Aufhören zu denken** — aus bloßem Funktionieren innerhalb eines Systems. Der PVV-Admin, der „mach sie hübscher" in ein Promptfeld tippt, ist kein Monster. Er führt eine Workflow-Aufgabe aus. Die 190 koordinierten Fake-Frauen-Accounts sind kein dämonisches Projekt — sie sind Infrastruktur, betrieben von jemandem, der seine Arbeit erledigt. Arendts Pilz-Metapher trifft es genau: Das Böse *breitet sich an der Oberfläche aus* — und KI-Slop ist die technische Oberfläche, auf der diese Ausbreitung industriell skaliert.
 
-### → [[Gedankenwelten/Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+### → [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
 
 Nocuns KI-Analyse und diese Note sind zwei Seiten derselben Praxis: Während Nocun zeigt, wie KI-Slop Great-Replacement-Bildwelten algorithmisch skaliert, dekodieren Brockschmidt und Nocun hier die Codes dahinter. Produktionsmethode und Symbolsystem gehören zusammen.
 
-### → [[Gedankenwelten/Denker/Hannah Arendt — Denken ohne Geländer]]
+### → [[Denker/Hannah Arendt — Denken ohne Geländer]]
 
 Das Geländer bei Arendt ist die gemeinsame Faktizität — die geteilte Realität, die es uns ermöglicht, selbst zu urteilen, ohne jeden Einzelfall von Grund auf neu zu durchdenken. Nocuns gesamter Vortrag ist eine Dokumentation davon, wie dieses Geländer systematisch zerstört wird: Decline Porn, Fake-Vox-Pops, KI-Slop-Parallelrealitäten. Wenn Menschen nicht mehr wissen, ob das Interview echt ist, ob das Familienbild real ist, ob Berlin wirklich brennt — verlieren sie genau das, was Arendt als die demokratische Mindestkompetenz beschreibt: die Fähigkeit, zwischen wahr und falsch zu unterscheiden. Die Erschöpfung der Faktizität ist die technologische Ausführung von Arendts schlimmstem Szenario.
 
@@ -307,10 +307,10 @@ Das Geländer bei Arendt ist die gemeinsame Faktizität — die geteilte Realit�
 > - Wer Rage-Bait kommentiert, boosted ihn. Wer ihn ignoriert, lässt ihn unwidersprochen. Wie kommt man aus dieser Falle heraus?
 > - Ist Medienkompetenz als Antwort naiv — oder ist sie das Einzige, was am Ende bleibt?
 
-### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
+### → [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
 
 Spiegelverkehrte Perspektive auf KI und politische Sprache: Nocun zeigt, wie KI rechte Propaganda *produziert* — IT Mario nutzt KI um rechte Rhetorik zu *messen*. Dasselbe Werkzeug, zwei entgegengesetzte Rollen im selben politischen Feld.
 
-### → [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+### → [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
 
 Kurz liefert die technische Grundlage für das, was Nocun politisch beschreibt: Der stochastische Papagei erzeugt nicht Wahrheit, sondern wahrscheinlichkeitsbasierte Fortsetzung — und genau das macht ihn zum perfekten Propagandawerkzeug. Was Kurz als epistemische Schwäche von LLMs beschreibt (kein Semantikverständnis, nur Mustererkennung), ist bei Nocun die Produktionsbedingung von KI-Slop für die extreme Rechte.

@@ -214,7 +214,7 @@ Das ist Agnotologie ohne Akteur — produziertes Unwissen durch strukturelle Anr
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
+### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocuns „Erschöpfung der Faktizität" ist Agnotologie mit KI skaliert: Was das Tabak-Blueprint manuell über Jahrzehnte betrieb, macht KI-Slop in Echtzeit — Zweifel industrialisieren, epistemischen Boden wegziehen, Parallelrealitäten bauen.
 
@@ -274,11 +274,11 @@ Live-Beispiel für Agnotologie im ÖRR: Statistische Verzerrung zur Energiewende
 
 Benecke praktiziert das Gegenmittel zur wissenschaftlichen Desinformation: forensische Beweisführung mit Originaldaten, Quellenangaben und nüchternem Befund statt Moralisierung.
 
-### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Reichelts Reaktion auf das Gerichtsurteil ist ein Lehrstück angewandter Agnotologie: Statt die Lüge einzuräumen, baut er neue Wahrheitsketten ("Kantine ist ja indirekt staatlich finanziert"). Das Tabak-Blueprint — Zweifel säen statt widerlegen — wird hier auf islamfeindliche Propaganda übertragen.
 
-### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
+### → [[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
 Fichtners Podcast ist ein zeitgenössisches Fallbeispiel angewandter Agnotologie-Bekämpfung: Er benennt explizit, dass die Batterie-Mythen nicht durch Unwissenheit, sondern durch Lobbyinteressen verbreitet werden — der Mechanismus ist das Tabak-Blueprint in Echtzeit, angewandt auf Energiepolitik.
 
-### → [[Gedankenwelten/Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
+### → [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
 Holy Koolaid zeigt das staatliche Pendant zur Industrie-Agnotologie: US-zentrischer Geschichtsunterricht, CIA-Coups die aus Lehrplänen verschwinden, "Under God" als Marketing-Entscheidung, die als Gründertradition verkauft wird — Nicht-Wissen als Bildungspolitik.

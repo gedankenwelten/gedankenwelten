@@ -20,7 +20,7 @@ Quelle: [DER ENTSCHEIDENDE PUNKT: 1 Jahr Kanzler Merz & Groko | Mit Albrecht von
 
 > [!info] Wer spricht?
 > **Tilo Jung** (*1985, Mecklenburg-Vorpommern*) — Politikjournalist und Gründer von *Jung & Naiv*, seit über 10 Jahren Mitglied der Bundespressekonferenz, finanziert sich vollständig über Spenden. Dezidiert linker Standpunkt, offen kommuniziert.
-> → [[Gedankenwelten/DenkerVita/Tilo Jung|DenkerVita]]
+> → [[DenkerVita/Tilo Jung|DenkerVita]]
 >
 > **Albrecht von Lucke** (*1967, Ingelheim*) — Politikwissenschaftler, Chefredakteur der *Blätter für deutsche und internationale Politik* seit 2003. Linksliberal, vertritt einen republikanischen Konservatismus gegen Autoritarismus und sozialen Zerfall.
 >

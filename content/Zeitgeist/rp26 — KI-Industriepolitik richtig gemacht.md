@@ -27,7 +27,7 @@ Quelle: [AI Industrial Policy, Done Right – re:publica 26](https://www.youtube
 >
 > Moderation: **Elisabeth Nöfer**
 >
-> → [[Gedankenwelten/DenkerVita/Frederike Kaltheuner|DenkerVita Kaltheuner]] · → [[Gedankenwelten/DenkerVita/Carsten Jung|DenkerVita Jung]]
+> → [[DenkerVita/Frederike Kaltheuner|DenkerVita Kaltheuner]] · → [[DenkerVita/Carsten Jung|DenkerVita Jung]]
 
 ---
 
@@ -200,35 +200,35 @@ Der Doktorand im Q&A — Verfechter sozialer Marktwirtschaft und Wettbewerb — 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet (rp26)]]
+### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet (rp26)]]
 
 Beide Sessions kreisen um denselben strukturellen Befund: Digitale Souveränität ist ohne aktive Marktgestaltung nicht erreichbar. Gehring/Gießmann kommen von der Geldseite (Bitcoin, Zentralbanken), Kaltheuner/Jung von der KI-Infrastruktur — aber der Kern ist derselbe: Abhängigkeit von US-Strukturen ist kein neutrales Schicksal, sondern politische Entscheidung.
 
-### → [[Gedankenwelten/Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa (rp26)]]
+### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa (rp26)]]
 
 Büttner und Kaufmann diskutieren europäische KI-Souveränität aus Unternehmer-Perspektive. Kaltheuners schärfster Einwand dagegen: Firmeninteressen sind nicht identisch mit europäischen Interessen — europäische KI-Firmen können dieselben Abhängigkeiten reproduzieren wie amerikanische.
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Die unsichtbare Arbeit hinter KI-Systemen (Datenlabeling, RLHF) ist die Kehrseite der Marktkonzentrations-Debatte: Die Wertschöpfung findet oben in der Pyramide statt — bei den Hyperscalern. Die Menschen, die KI tatsächlich trainieren, profitieren am wenigsten.
 
-### → [[Gedankenwelten/Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
+### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 
 Tooze und Kaltheuner/Jung analysieren dasselbe Strukturproblem von entgegengesetzten Seiten: Wie verhält sich staatliche Macht zu KI-Unternehmen? Tooze beschreibt die US-Variante — Staat *zwingt* Kapital zur Militarisierung. Kaltheuner entwickelt den europäischen Gegenentwurf: AI Directionism als demokratisch legitimierte Steuerung. Beide machen die Frage "Wer lenkt KI wohin?" zur zentralen Machtfrage.
 
-### → [[Gedankenwelten/Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
 Mühlhoffs Konzept der **Desouveränisierung** — Staaten werden strukturell abhängig von privaten KI-Plattformen — ist der Problemhorizont, auf den Kaltheuner eine Antwort versucht. Wo Mühlhoff die vollzogene Übernahme staatlicher Funktionen diagnostiziert, formuliert diese Note den politischen Gegenzug: Souveränität nicht nur fordern, sondern durch Marktgestaltung strukturell absichern.
 
-### → [[Gedankenwelten/Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]]
+### → [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]]
 
 Chinas Strategie — staatlich subventionierte API-Preise als gezielte Marktwaffe — ist das empirische Gegenstück zu Kaltheuners Forderung nach europäischer Industriepolitik. Morpheus zeigt, was passiert, wenn ein Nationalstaat bewusst KI-Märkte lenkt; Kaltheuner/Jung fragen, warum Europa dasselbe Instrument nicht demokratisch und gemeinwohlorientiert einsetzt.
 
-### → [[Gedankenwelten/Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]]
+### → [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]]
 
 Janssen beschreibt von innen, was Kaltheuner strukturell kritisiert: Ein einziger Hardwareanbieter kontrolliert den Flaschenhals der gesamten KI-Infrastruktur. Das ist die Marktkonzentration, die Kaltheuner als "Fragilität" benennt — und die europäische Fördergelder in ein schwarzes Loch der Abhängigkeit fließen lässt, wenn die Infrastrukturebene nicht mitgedacht wird.
 
-### → [[Gedankenwelten/Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
+### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]]
 
 Kaltheuner/Jung verwenden die Energiewende explizit als Analogiemodell für KI-Industriepolitik. Goldbach liefert das Fleisch zu diesem Vergleich: Er zeigt, wie missionsbasierte Staatslenkung in der Energiepolitik tatsächlich funktioniert — mit Kostendegression, volkswirtschaftlichem Nutzen und lokalem Wertschöpfungsaufbau. Die Erneuerbaren-Analogie wird durch diese Note zur konkreten Blaupause.
 
@@ -243,6 +243,6 @@ Kaltheuner/Jung verwenden die Energiewende explizit als Analogiemodell für KI-I
 > - Kaltheuners Selbstkritik am Ende ist selten ehrlich: Sie hat ihre Sprache den Politikerräumen angepasst. *Was geht verloren, wenn Zivilgesellschaft immer die Sprache der Mächtigen spricht — um gehört zu werden?*
 > - *Was wäre die europäische KI-Politik, wenn nicht Ökonomen und Policy-Experten die Agenda setzen würden, sondern die Menschen, die Jobs verlieren?*
 
-### → [[Gedankenwelten/Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
+### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
 
 Neitzel/Iltisberger modellieren die systemische Architektur des Hypes, dem Kaltheuner und Jung mit AI Directionism begegnen. Das Contrarian-Dilemma (wer das Spiel verweigert, wird nicht gehört) erklärt Kaltheuners eigenes Eingeständnis, die Sprache den Politikräumen anzupassen. Jungs missionsbasierte Handlungsaufforderung ist der strukturelle Hebel, um den Capital System Bandwagon Loop politisch umzuleiten.

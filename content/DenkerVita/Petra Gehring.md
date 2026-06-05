@@ -54,4 +54,4 @@ Ihren breitesten öffentlichen Resonanzboden findet sie mit dem digitalen Euro: 
 
 ## Cortex-Notes
 
-- [[Gedankenwelten/Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]] (re:publica 26)
+- [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]] (re:publica 26)

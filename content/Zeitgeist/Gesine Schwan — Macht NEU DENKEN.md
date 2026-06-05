@@ -29,13 +29,13 @@ Quelle: [Macht NEU DENKEN mit Gesine Schwan und Maja Göpel](https://www.youtube
 > Wichtigste Werke: *Politik und Schuld* (1997), *Vertrauen — Grundlage des sozialen Zusammenhalts*
 > Kernkonzepte: Gestaltungsmacht, demokratische Kultur, kommunale Partizipation, Vertrauen, pluralistische Demokratie
 >
-> → [[Gedankenwelten/DenkerVita/Gesine Schwan|DenkerVita]]
+> → [[DenkerVita/Gesine Schwan|DenkerVita]]
 
 Das Gespräch führt **Maja Göpel** im Rahmen des Podcasts „NEU DENKEN" von Mission Wertvoll.
 
 > **Maja Göpel** (*1976*) — Politische Ökonomin und Transformationsforscherin, Mitgründerin von Scientists for Future, Gastgeberin von NEU DENKEN.
 >
-> → [[Gedankenwelten/DenkerVita/Maja Goepel|DenkerVita]]
+> → [[DenkerVita/Maja Goepel|DenkerVita]]
 
 ---
 
@@ -216,7 +216,7 @@ Sie verweist auf das Mercosur-Abkommen als Beispiel, dass nach 25 Jahren doch ge
 - [Wertvolles Wirtschaften](https://wertvolles-wirtschaften.de) — thematische Website zu Wirtschaftstransformation und planetaren Grenzen
 
 *Im Gespräch zitierte Quellen:*
-- Erich Fromm: *Anatomie der menschlichen Destruktivität* — Psychoanalyse des Narzissmus, im Gespräch als aktuell wiederveröffentlichtes Bändchen erwähnt → [[Gedankenwelten/DenkerVita/Erich Fromm|DenkerVita Erich Fromm]]
+- Erich Fromm: *Anatomie der menschlichen Destruktivität* — Psychoanalyse des Narzissmus, im Gespräch als aktuell wiederveröffentlichtes Bändchen erwähnt → [[DenkerVita/Erich Fromm|DenkerVita Erich Fromm]]
 - Hannah Arendt: *Wahrheit und Lüge in der Politik* — Schwan zitiert Arendts Begriff der Tatsachenwahrheit im Trump-Kontext
 - Immanuel Kant: *Kritik der Urteilskraft*, § 40 — die drei Maximen des Urteilsvermögens
 
@@ -224,39 +224,39 @@ Sie verweist auf das Mercosur-Abkommen als Beispiel, dass nach 25 Jahren doch ge
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
+### → [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 
 beide NEU DENKEN-Gespräche mit Maja Göpel; Butterwegge analysiert die strukturelle Machtkonzentration durch Steuer- und Sozialpolitik, Schwan die demokratische Gegenmacht — zwei Seiten derselben Ungleichheitsfrage
 
-### → [[Gedankenwelten/DenkerVita/Erich Fromm]]
+### → [[DenkerVita/Erich Fromm]]
 
 Schwan zitiert Fromm explizit zur Psychologie des Narzissmus; Fromms *Furcht vor der Freiheit* liefert den Unterbau für Schwans Frage, warum Menschen sich autoritären Führern unterwerfen
 
-### → [[Gedankenwelten/Zeitgeist/Teresa Buecker — Zeit NEU DENKEN]]
+### → [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN]]
 
 drittes NEU DENKEN-Gespräch aus dem Vault; Bücker analysiert Zeitungleichheit als Machtfrage — strukturelle Ergänzung zu Schwans politiktheoretischem Ansatz
 
-### → [[Gedankenwelten/Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
 
 beide zitieren Hannah Arendt als Zeugin der Gegenwart; Redecker beschreibt den neuen Faschismus als Phantombesitz-Verteidigung, Schwan als narzisstische Destruktionskraft — zwei komplementäre Erklärungen desselben Phänomens
 
-### → [[Gedankenwelten/Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 
-### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
 Schwans Unterscheidung von Herrschaftsmacht und Gestaltungsmacht kartiert denselben Spannungsraum wie Möllers: Demokratie als Ermöglichungsbedingung von Freiheit — nicht als ihr Gegenpol. Posschardts Staatsnähekritik würde Schwan als Fehldeutung von Macht lesen.
 
 Hagemeyer liefert die klinische Innenperspektive auf Narzissmus, die Schwan politisch anwendet: warum narzisstische Persönlichkeiten gerade in Machtpositionen katastrophisch sind
 
-### → [[Gedankenwelten/Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+### → [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 
 Heitmeyers These der gesellschaftlichen Verrohung durch kapitalistische Atomisierung ist die soziologische Entsprechung zu Schwans kulturtheoretischer Diagnose: Solidarität stirbt, wenn gemeinsame Räume verschwinden
 
-### → [[Gedankenwelten/Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 
 Nosthoff analysiert die strukturelle Entmachtung von Demokratien durch Tech-Konzerne; Schwans Analyse von Thiel und Musk als psychologisch beschädigte Demokratiefeinde ist die individuelle Ergänzung dazu
 
-### → [[Gedankenwelten/Denker/Hannah Arendt — Denken ohne Geländer]]
+### → [[Denker/Hannah Arendt — Denken ohne Geländer]]
 
 Schwan zitiert Arendts Begriff der Tatsachenwahrheit: Trump versucht, empirische Fakten wegzudrängen. Für Arendt wie für Schwan ist das keine Kommunikationsstrategie, sondern ein Angriff auf die Grundlage demokratischen Diskurses
 
@@ -289,15 +289,15 @@ Schwans demokratisch-kooperativer Machtbegriff ist der normative Gegenentwurf zu
 Beide teilen die Überzeugung, dass demokratische Werte aktiv bottom-up gelebt werden müssen; Europa in der Identitätskrise
 
 
-### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+### → [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
 Großmanns SPRIND-Erfahrung — 15 statt 1000 Fragen — ist institutionalisierte Gestaltungsmacht im Sinne Schwans: Der Staat als Ermöglicher statt Verhinderer. Die Bürgerbeteiligung in Klettwitz ist Schwans kommunale Partizipationsidee im Energiesektor.
 
-### → [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht]]
+### → [[Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Semsrott konkretisiert Schwans "Gestaltungsmacht" durch die Praxis: Freiheitsfonds, Gegenrechtsschutz, Transparenz-Recherchen als Werkzeuge. Wo Schwan auf institutionelle Einbettung setzt (kommunale Beiräte, deliberative Demokratie), vertraut Semsrott auf außerinstitutionellen Druck — beide fragen: Wie schafft man neue demokratische Räume, wenn die alten besetzt oder blockiert sind?
 
-### → [[Gedankenwelten/Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]]
+### → [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]]
 
 Schwans normative Machttheorie setzt dort an, wo Browns strukturelle Diagnose endet: Brown zeigt, dass der Neoliberalismus die demokratische Sprache (demos kratia, kollektive Selbstbestimmung) zersetzt — Schwan denkt, wie man sie wiedergewinnen könnte. Ihre Unterscheidung zwischen Herrschaftsmacht und Gestaltungsmacht ist der konzeptuelle Gegenvorschlag zu Browns Befund, dass Demokratie als Marktmodell ihre eigene Grundlage aushöhlt.
 

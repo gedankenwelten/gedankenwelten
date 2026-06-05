@@ -15,7 +15,7 @@ aliases:
 
 # Vipassana — Sankhāra (Mentale Konditionierungen)
 
-![[Gedankenwelten/assets/Vipassana_Sankara.png]]
+![[assets/Vipassana_Sankara.png]]
 
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Schwerpunkt Tage 6–8.
 
@@ -125,6 +125,6 @@ Bonhoeffer: Dummheit entsteht durch gesellschaftliche Konditionierung, die das e
 Sankhāra und [[Vipassana — Vedana|Vedanā]] sind das Herzstück der praktischen Psychologie Goenkas. [[Vipassana — Anicca|Anicca]] erfahren bedeutet: sehen, dass auch Sankhāra vergänglich ist. [[Vipassana — Upekkha|Upekkha]] ist die Praxis des Nicht-Reagierens — kein neuer Sankhāra entsteht.
 
 - [[scobel — Foucault Aufklaerung als Haltung]] — Sankara (konditionierte Reaktionsmuster als Mechanismus der Unfreiheit) und Foucaults Unmündigkeit beschreiben dasselbe Phänomen auf verschiedenen Ebenen: Vipassana als interne, Aufklärung als externe Praxis der Befreiung. Beide verstehen Freiheit nicht als Zustand, sondern als kontinuierliche Übung.
-- [[Gedankenwelten/DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
+- [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
 
 - [[Erich Fromm — Psychoanalyse des Faschismus]] — Fromms autoritärer Charakter ist ein säkulares Pendant zum Sankara: psychische Prägungen die sich als Charakter verfestigen und Handeln determinieren. Befreiung erfordert Bewusstwerdung — Vipassana durch Kontemplation, Fromm durch Analyse

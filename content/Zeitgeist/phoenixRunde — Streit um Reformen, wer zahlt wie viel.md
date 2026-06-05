@@ -23,16 +23,16 @@ Quelle: [phoenixRunde: Streit um Reformen — Wer kann wie viel leisten?](https:
 > Eine Debatte mit vier Positionen:
 >
 > **Prof. Christoph Butterwegge** (*1951*) — Politikwissenschaftler, einer der profiliertesten Armutsforscher Deutschlands. Trat wegen der Agenda-2010-Reformen aus der SPD aus, kandidierte 2017 für Die Linke bei der Bundespräsidentenwahl. Sein Standpunkt: Der Sozialstaat wird demontiert, nicht reformiert — und das mit voller Absicht.
-> → [[Gedankenwelten/DenkerVita/Christoph Butterwegge|DenkerVita]]
+> → [[DenkerVita/Christoph Butterwegge|DenkerVita]]
 >
 > **Hans-Jürgen Völz** — Bundesgeschäftsleiter Volkswirtschaft des BVMW (Bundesverband Mittelständische Wirtschaft), seit dem 18. Lebensjahr CDU-Mitglied. Sein Standpunkt: Strukturreformen sind überfällig, Unternehmensentlastung ist die Voraussetzung für alles andere.
-> → [[Gedankenwelten/DenkerVita/Hans-Jürgen Völz|DenkerVita]]
+> → [[DenkerVita/Hans-Jürgen Völz|DenkerVita]]
 >
 > **Cordula Tutt** — Hauptstadtkorrespondentin und Autorin der *WirtschaftsWoche*. Ihr Standpunkt: Das System hilft zu wenig denen, die es am meisten brauchen — zuviel Gießkanne, zu wenig Zielgenauigkeit.
-> → [[Gedankenwelten/DenkerVita/Cordula Tutt|DenkerVita]]
+> → [[DenkerVita/Cordula Tutt|DenkerVita]]
 >
 > **Christine Dankbar** — Ressortleiterin Politik und Hauptstadtkorrespondentin der *Frankfurter Rundschau*. Ihr Standpunkt: Reform ist nicht gleich Kürzung; Bürokratieabbau und Transparenz sind der eigentliche Hebel.
-> → [[Gedankenwelten/DenkerVita/Christine Dankbar|DenkerVita]]
+> → [[DenkerVita/Christine Dankbar|DenkerVita]]
 
 ---
 
@@ -172,35 +172,35 @@ Ihr Konter auf Kürzungsforderungen: Nicht weniger ausgeben, sondern gezielter. 
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
+### → [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 
 Die vertiefte Einzelanalyse von Butterwegges Armutsthesen mit Maja Göpel — dort geht er ausführlicher auf das Matthäus-Prinzip und relative vs. absolute Armut ein. Hier dagegen das Schlachtfeld: die politische Auseinandersetzung in Echtzeit.
 
-### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
+### → [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
 
 Direkte Schwester-Debatte: selbe Sendung, gleiches Thema, anderer Zeitpunkt. Butterwegge ist auch dort präsent. Der Vergleich zeigt, wie die Argumente über die Zeit stabiler werden — aber der politische Widerstand ebenfalls.
 
-### → [[Gedankenwelten/Zeitgeist/MONITOR — Minijobs als Armutsfalle]]
+### → [[Zeitgeist/MONITOR — Minijobs als Armutsfalle]]
 
 MONITOR hat konkret untersucht, was passiert, wenn Sozialstaat-Architekturen scheitern: Minijobs als Instrument, das Armut produziert statt verhindert. Ergänzt Butterwegges Systemkritik mit empirischem Material.
 
-### → [[Gedankenwelten/Panorama/Rente]]
+### → [[Panorama/Rente]]
 
 Das Panorama strukturiert genau die Konflikte, die in dieser Runde aufeinandertreffen: Sparparadoxon bei Kapitaldeckung, Minijob-Armutsfalle, gescheiterte Riester-Rente, Finanzierungslücke. Die phoenixRunde liefert die politische Kontroverse in Echtzeit — das Panorama den strukturellen Rahmen.
 
-### → [[Gedankenwelten/Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
+### → [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
 
 Flassbeck liefert die makroökonomische Begründung für Butterwegges Ablehnung der Kapitaldeckung: Das Sparparadoxon zeigt, warum die Erwerbstätigenversicherung (alle einbeziehen) strukturell solider ist als jedes kapitalgedeckte Modell. Butterwegges Österreich-Argument bekommt hier seinen theoretischen Unterbau.
 
-### → [[Gedankenwelten/Denker/Martyna Linartas — Unverdiente Ungleichheit]]
+### → [[Denker/Martyna Linartas — Unverdiente Ungleichheit]]
 
 Linartas analysiert die Vermögensseite dessen, was Butterwegge über Einkommensarmut sagt: Kapitalertragssteuer niedriger als Spitzensteuersatz, Arbeit höher besteuert als Kapital — beides beschreibt dieselbe systematische Verschiebung zugunsten von Vermögensbesitzern, die Linartas als „Erbengesellschaft" fasst.
 
-### → [[Gedankenwelten/Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
+### → [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 Dankbars Beobachtung — Abstiegsangst treibt AfD-Wahlergebnisse — ist exakt Frickes empirischer Kernbefund: Kontrollverlust durch Austerität und ungerechte Lastenverteilung ist der Nährboden für Rechtspopulismus. Die phoenixRunde zeigt, warum der Sozialstaat ein Demokratieproblem ist, Fricke erklärt den Mechanismus.
 
-### → [[Gedankenwelten/Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]]
+### → [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]]
 
 Labour nimmt Rentnern den Heizungszuschuss, die Bundesregierung plant Rentenniveau-Absenkung auf 46 Prozent — dasselbe Muster: Sozialdemokratien greifen zuerst ihre eigene Basis an. GCA #35 analysiert den britischen Fall; die phoenixRunde ist der deutsche Schauplatz desselben Selbstzerstörungsmechanismus.
 

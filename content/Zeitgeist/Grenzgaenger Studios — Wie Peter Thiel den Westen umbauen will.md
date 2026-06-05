@@ -232,11 +232,11 @@ Homm verwendet „MK Ultra" als Deutungsfolie für seine eigene Elite-Formierung
 
 Varoufakis erklärt systemisch, was Grenzgänger Studios an Thiel exemplifiziert: Cloud Capital — finanziert durch QE nach 2008 — ersetzt Märkte durch feudale Plattformen. Thiel ist der paradigmatische Cloud-Feudalherr in Varoufakis' Analyse: Palantir produziert keine Waren, sondern schöpft Tribut ab.
 
-### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
+### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Kurz und Görlitz zeigen, wohin Thiels Unternehmensgenese in Deutschland zeigt — Palantir Gotham läuft in vier Bundesländern, und die Gesetze, die es ermächtigen, verfehlen Verfassungsstandards systematisch. Grenzgänger Studios erklärt das *Warum* des Systems; Kurz/Görlitz dokumentieren seine aktuelle Funktion im deutschen Rechtsstaat.
 
-### → [[Gedankenwelten/Zeitgeist/Morpheus - Whistleblower mundtot machen]]
+### → [[Zeitgeist/Morpheus - Whistleblower mundtot machen]]
 
 Morpheus analysiert Objection.ai als Endprodukt der Network-State-Logik: private Schiedsgerichtsbarkeit für Wahrheit, skaliert mit KI. Die Balaji-Srinivasan-Verbindung ist direkt — der Network-State-Denker investiert in das Instrument, das seine These praktisch umsetzt.
 

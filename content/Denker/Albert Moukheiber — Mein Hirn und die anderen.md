@@ -334,7 +334,7 @@ Die Konsequenz: Wer aufgeklärtes Denken will, kann das nicht als individuelles 
 
 ---
 
-- [[Gedankenwelten/Denker/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]] — Urners KI-Paradox ("Menschen denken wie Maschinen, nicht umgekehrt") trifft auf Moukheibers neuropsychologische Analyse des sozialen Gehirns: Das Gehirn ist primär auf andere ausgerichtet (Theory of Mind), nicht auf sequentielle Informationsverarbeitung. Urners Hope Theory (Will Power + Way Power als kognitive Kapazitäten) lässt sich in Moukheibers Rahmen übersetzen — beide stellen gegen das maschinelle Menschenbild das soziale, auf Resonanz angewiesene Gehirn.
+- [[Denker/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]] — Urners KI-Paradox ("Menschen denken wie Maschinen, nicht umgekehrt") trifft auf Moukheibers neuropsychologische Analyse des sozialen Gehirns: Das Gehirn ist primär auf andere ausgerichtet (Theory of Mind), nicht auf sequentielle Informationsverarbeitung. Urners Hope Theory (Will Power + Way Power als kognitive Kapazitäten) lässt sich in Moukheibers Rahmen übersetzen — beide stellen gegen das maschinelle Menschenbild das soziale, auf Resonanz angewiesene Gehirn.
 
 ## Verwandte Notes
 

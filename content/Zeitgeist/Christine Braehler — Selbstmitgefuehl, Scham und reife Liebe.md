@@ -13,7 +13,7 @@ aliases:
 
 # Christine Brähler — Selbstmitgefühl, Scham und reife Liebe
 
-![[Gedankenwelten/assets/Christine_Braehler_Selbstmitgefuehl_Scham_Reife_Liebe.png]]
+![[assets/Christine_Braehler_Selbstmitgefuehl_Scham_Reife_Liebe.png]]
 
 > [!abstract] Worum es geht
 > Selbstmitgefühl klingt harmlos — fast rosa und fluffig, wie Lukas Klaschinski im Gespräch sagt. Was Dr. Christine Brähler in dieser Folge des Jakobsweg-Podcasts aufmacht, ist jedoch eine fundamentale Revision dessen, wie wir mit uns selbst und anderen in Beziehung stehen. Der innere Kritiker ist kein Fehler der Persönlichkeit, sondern ein alter Schutzmechanismus mit guten Absichten. Scham ist das klebrigste und gleichzeitig flüchtigste Gefühl, das wir haben. Und wer wirklich für andere da sein will, muss zuerst lernen, für sich selbst da zu sein — nicht als Vorbedingung der Leistung, sondern als Bedingung echter Verbindung.
@@ -25,7 +25,7 @@ Quelle: [Psychotherapeutin: Wie du aufhörst, dein eigener härtester Kritiker z
 >
 > Bücher: *Selbstmitgefühl entwickeln* (2015), *Der kleine Selbstcoach* (2022), *Lass die Liebe rein* (2024)
 >
-> → [[Gedankenwelten/DenkerVita/Christine Braehler|DenkerVita]]
+> → [[DenkerVita/Christine Braehler|DenkerVita]]
 
 ---
 

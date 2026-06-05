@@ -25,7 +25,7 @@ Quelle: [Ist unser Gehirn eine Gefahr für die Menschheit? | Liya Yu](https://ww
 > Wichtigste Werke: *Vulnerable Minds: The Neuropolitics of Divided Societies* (Columbia University Press, 2022), *Hirn statt Moral* (Econ/Ullstein, 2026)
 > Kernkonzepte: Neuropolitik, Mentalisierung, Dehumanisierung, In-Group/Out-Group-Erweiterung
 >
-> → [[Gedankenwelten/DenkerVita/Liya Yu|DenkerVita]]
+> → [[DenkerVita/Liya Yu|DenkerVita]]
 
 ---
 
@@ -156,7 +156,7 @@ Beide diagnostizieren tribalistische Dynamiken; Yu ergänzt Haidts sozialpsychol
 
 Moukheiber beschreibt das soziale Gehirn und kognitive Verzerrungen; Yu politisiert genau diese Mechanismen und fragt, was sie für demokratisches Zusammenleben bedeuten
 
-### → [[Gedankenwelten/Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
+### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
 Yus neurologische Erklärung, warum liberal/konservativ tiefer liegt als rationale Überzeugung, unterfüttert Möllers' Prämisse, dass Demokratie unauflösbaren Dissens institutionell anerkennen muss — und erklärt, warum Posschardts Kulturkritik so schwer in politische Lösungen übersetzt.
 
@@ -188,7 +188,7 @@ Mausfeld analysiert, wie Machtstrukturen unsere Wahrnehmung manipulieren; Yu zei
 
 Yu stellt Kants rationalistisches Menschenbild direkt in Frage: Aufklärung durch Verstand allein reicht nicht, wenn die Mechanismen unter der Schädeldecke dem Verstand vorauseilen
 
-### → [[Gedankenwelten/Zeitgeist/Mbembe — The Earthly Community]]
+### → [[Zeitgeist/Mbembe — The Earthly Community]]
 
 Mbembe radikalisiert Foucaults Biopolitik zur Nekropolitik — "wer muss sterben?" statt "wer darf leben?". Yus mPFC-Abschaltung und Dehumanisierungsforschung liefert die neurobiologische Grundlage für Mbembes historisch-strukturelle Analyse: Was Mbembe als jahrhundertelange politische Infrastruktur der Tötbarkeit beschreibt, braucht die neuronalen Mechanismen, die Yu freilegt, um zu funktionieren — Nekropolitik ist nicht möglich ohne neuronale Normalisierung der Dehumanisierung.
 

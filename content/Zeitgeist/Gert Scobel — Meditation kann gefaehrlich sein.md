@@ -26,7 +26,7 @@ Quelle: [Meditation kann gefährlich sein! – scobel](https://www.youtube.com/w
 >
 > Wichtigste Werke: *NichtDenken* (2018), *Warum wir philosophieren müssen* (2012)
 >
-> → [[Gedankenwelten/DenkerVita/Gert Scobel|DenkerVita]]
+> → [[DenkerVita/Gert Scobel|DenkerVita]]
 
 ---
 
@@ -175,19 +175,19 @@ Eine Formulierung, die das Hard Problem nicht löst — aber seinen Rahmen versc
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/David Chalmers — Das Hard Problem des Bewusstseins]]
+### → [[Zeitgeist/David Chalmers — Das Hard Problem des Bewusstseins]]
 
 Scobels Kernaussage — dass selbst perfektes neuronales Kartieren nicht erklärt, *warum* Jhana-Erfahrungen sich so anfühlen wie sie sich anfühlen — ist eine direkte Anwendung von Chalmers' Hard Problem auf empirische Meditationsdaten. Beide stoßen an dieselbe Erklärungsgrenze: Chalmers von der Philosophie aus, Scobel von der Praxis aus. Dōgens Formulierung ("von den 10.000 Dingen erfahren werden") verschiebt den Rahmen, ohne das Problem zu lösen.
 
-### → [[Gedankenwelten/Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]]
+### → [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]]
 
 Daniel Ingrams Jhana-Daten (kortikale Hierarchie löst sich auf, globale Konnektivitätszunahme) liefern das empirische Material für die dort gestellte Frage, ob Nibbāna ein Zustand mit Φ = 0 sein könnte. Scobels Befund zu globalem Konnektivitätsanstieg kontrastiert interessant mit der IIT-Theorie. Josipovic (DMN/dorsales Aufmerksamkeitsnetzwerk-Entspannung) passt zum Varela/Metzinger/Seth-Abschnitt dort.
 
-### → [[Gedankenwelten/Gedanken/Bewusstsein]]
+### → [[Gedanken/Bewusstsein]]
 
 Scobels Befunde zu Langzeitmeditierenden — fluideres Selbst, willkürlich dämpfbarer Parietallappen, nicht-duales Gewahrsein — liefern neurowissenschaftliche Evidenz für die dort dargestellten Theorien. Besonders: Predictive Processing erklärt die veränderte Schmerzverarbeitung (Loslösung von Registrierung und Bewertung); IIT könnte erklären, warum globale Konnektivitätszunahme mit tiefem Wohlbefinden korreliert.
 
-### → [[Gedankenwelten/Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
+### → [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
 Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004, auf die Scobel explizit Bezug nimmt — seine Gamma-Wellen-Daten sind buchstäblich der Ausgangspunkt von Scobels zweiter Welle. Ricards Biografie bestätigt Scobels Befund: Nicht-Selbst-Erfahrung korreliert mit erhöhter Empathie. Und Ricards Kritik an der Wellness-Industrie ergänzt Scobels Warnung vor Nebenwirkungen.
 
@@ -199,9 +199,9 @@ Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004, auf die Scobel e
 > - Scobel sagt, Meditation kann gefährlich sein — *aber für wen ist das eine Überraschung?* War die Vorstellung, eine Praxis, die das Fundament des Bewusstseins verschiebt, sei risikolos, je plausibel?
 > - Wenn das Selbst durch Meditation *fluider und transparenter* wird — *was passiert dann mit Verantwortung?* Ist ein Ich, das sich selbst vergisst, noch schuldfähig?
 > - Die Neurowissenschaft kann Dōgens Erleuchtungserfahrung messen — aber nicht erklären *warum* sie als Erleuchtung erlebt wird. Macht das die Erfahrung echter oder weniger echt?
-> - [[Gedankenwelten/Gedanken/Bewusstsein]] fragt, was Bewusstsein ist — Scobel fragt, was passiert, wenn man es kultiviert. Sind das dieselbe Frage oder zwei verschiedene?
+> - [[Gedanken/Bewusstsein]] fragt, was Bewusstsein ist — Scobel fragt, was passiert, wenn man es kultiviert. Sind das dieselbe Frage oder zwei verschiedene?
 > - Die Wellness-Industrie hat Meditation zur Selbstoptimierung umgedeutet. Dōgen sagte: Selbst vergessen. *Wäre das Gegenteil von Selbstoptimierung — könnte man Meditation als Praxis gegen das neoliberale Selbst verstehen?*
 
-### → [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
+### → [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
 
 Brähler teilt Scobels Vorsicht explizit: Selbstmitgefühl als *„kraftvolle Medizin"* kann bei tiefen Bindungsverletzungen ohne Begleitung destabilisieren. Beide warnen vor einer Verharmlosung kontemplativer Praxis — Scobel aus neurowissenschaftlicher Sicht, Brähler aus der klinisch-therapeutischen.

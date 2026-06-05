@@ -26,7 +26,7 @@ Quelle: [Ungleichheitsforscherin Martyna Linartas über Umverteilung von Reichtu
 > Wichtigste Werke: *Unverdiente Ungleichheit* (Rowohlt, 2025) — NDR Sachbuchpreis nominiert, Platz 1 Sachbuch-Bestsellerliste.
 > Kernkonzepte: Erbengesellschaft, Vermögensungleichheit, Grunderbe, Theaterstück Neoliberalismus
 >
-> → [[Gedankenwelten/DenkerVita/Martyna Linartas|DenkerVita]]
+> → [[DenkerVita/Martyna Linartas|DenkerVita]]
 
 ---
 
@@ -163,7 +163,7 @@ Quelle: [Ungleichheitsforscherin Martyna Linartas über Umverteilung von Reichtu
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
+### → [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
 
 Steinhaus' Satz „Deutschland ist keine Leistungsgesellschaft, sondern eine Erbengesellschaft" ist fast wörtlich Linartas' Kernthese — die phoenix Runde illustriert die politischen Widerstände gegen ihre Befunde in Echtzeit.
 
@@ -182,13 +182,13 @@ Steinhaus' Satz „Deutschland ist keine Leistungsgesellschaft, sondern eine Erb
 - [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Jung popularisiert Linartas' Kernthese: Freibetrag 1 Mio €, Rest vergesellschaftet — ererbter Reichtum gefährdet Demokratie
 - [[Clara Mattei — Geschichte der Austeritaetspolitik]] — Mattei liefert die historische Erklärung, wie Ungleichheit ökonomisch legitimiert wurde
 - [[Walther Ziegler — Rawls in 60 Minuten]] — Rawls liefert das theoretische Fundament für Linartas' empirische Ungleichheitsanalyse — das Differenzprinzip
-- [[Gedankenwelten/Panorama/NoAfD|Panorama: NoAfD]] — Linartas' Erbengesellschaft als strukturelle Ursache für den Rechtsruck: Wer den Aufstieg blockiert, treibt Menschen in autoritäre Arme
-- [[Gedankenwelten/Panorama/Autoritaerer Internationalismus|Panorama: Autoritärer Internationalismus]] — Pikettys r > g und das neoliberale Theaterstück als globale Treiber des autoritären Internationalismus
+- [[Panorama/NoAfD|Panorama: NoAfD]] — Linartas' Erbengesellschaft als strukturelle Ursache für den Rechtsruck: Wer den Aufstieg blockiert, treibt Menschen in autoritäre Arme
+- [[Panorama/Autoritaerer Internationalismus|Panorama: Autoritärer Internationalismus]] — Pikettys r > g und das neoliberale Theaterstück als globale Treiber des autoritären Internationalismus
 - [[Steffen Mau — Spaltung der Gesellschaft]] — Mau ergänzt Linartas' Ungleichheitsanalyse um ein Paradox: die Benachteiligten legitimieren die Leistungsgesellschaft stärker als die Begünstigten — „ideologische Verwirrung" als Kehrseite unverdienter Privilegien
-- [[Gedankenwelten/Zeitgeist/Studio Bonn — Extremer Reichtum]] — Studio Bonn diskutiert dieselben Kernbefunde diskursiv: vier Stimmen (Kühnert, Engelhorn, Friedrichs, Pfeffer) auf Linartas' Forschungsfeld — Engelhorns relationale Kritik ("Geld arbeitet nicht, Menschen arbeiten für Geld") ist genau das, was Linartas strukturell beweist
+- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Studio Bonn diskutiert dieselben Kernbefunde diskursiv: vier Stimmen (Kühnert, Engelhorn, Friedrichs, Pfeffer) auf Linartas' Forschungsfeld — Engelhorns relationale Kritik ("Geld arbeitet nicht, Menschen arbeiten für Geld") ist genau das, was Linartas strukturell beweist
 - [[MONITOR — Fleischindustrie Menschen als Ware]] — Linartas fragt „Wer verdient was?", die Fleischindustrie-Recherche erweitert: „Wer verdient *an wem*?" Die globale Ungleichheit (Kerala: 200 EUR vs. Deutschland: 1.200 EUR netto) ist die Geschäftsgrundlage der Vermittlungsagenturen
-- [[Gedankenwelten/Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]] — Wesche erweitert die Ungleichheitsanalyse auf die nicht-menschliche Dimension: Auch das Eigentumsrecht an natürlichen Ressourcen war von Anfang an eine historische Zuschreibung, keine neutrale Ordnungskategorie. Beide erschüttern denselben Mythos des verdienten Eigentums.
+- [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]] — Wesche erweitert die Ungleichheitsanalyse auf die nicht-menschliche Dimension: Auch das Eigentumsrecht an natürlichen Ressourcen war von Anfang an eine historische Zuschreibung, keine neutrale Ordnungskategorie. Beide erschüttern denselben Mythos des verdienten Eigentums.
 
-### → [[Gedankenwelten/Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
+### → [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 
 Die phoenixRunde zeigt Linartas' strukturelle These in der Livekontroverse: Kapitalertragssteuer vs. Spitzensteuersatz, Arbeit höher besteuert als Kapital — Butterwegge benennt dieselbe Systemverschiebung, die Linartas historisch und empirisch belegt.

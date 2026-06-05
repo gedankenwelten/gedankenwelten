@@ -12,7 +12,7 @@ erstellt: 2026-05-21
 
 # Gelebte Demokratie
 
-![[Gedankenwelten/assets/Panorama_Gelebte_Demokratie.png|1200]]
+![[assets/Panorama_Gelebte_Demokratie.png|1200]]
 
 ## Warum dieses Thema?
 
@@ -28,11 +28,11 @@ Dieses Panorama versammelt Quellen, die genau das dokumentieren: Institutionen u
 
 Bevor man verstehen kann, warum gelebte Demokratie nötig ist, muss man verstehen, wie sehr die formale Demokratie das Volk verfehlt.
 
-[[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht|Arne Semsrott]] rechnet es auf: Die aktuelle Bundesregierung steht hinter **27% der Bevölkerung** — nicht der Wähler, sondern aller Menschen, die in Deutschland leben. Ausgeblendet werden: Menschen ohne deutschen Pass (mehr als die AfD Stimmen bekam), Minderjährige (größte Gruppe, für die Klimapolitik gemacht wird, ohne Mitspracherecht), Nichtwähler (überwiegend armutsbetroffene Menschen). Die **Mehrheitslüge** ist strukturell eingebaut.
+[[Zeitgeist/Semsrott — Zur Gegenmacht|Arne Semsrott]] rechnet es auf: Die aktuelle Bundesregierung steht hinter **27% der Bevölkerung** — nicht der Wähler, sondern aller Menschen, die in Deutschland leben. Ausgeblendet werden: Menschen ohne deutschen Pass (mehr als die AfD Stimmen bekam), Minderjährige (größte Gruppe, für die Klimapolitik gemacht wird, ohne Mitspracherecht), Nichtwähler (überwiegend armutsbetroffene Menschen). Die **Mehrheitslüge** ist strukturell eingebaut.
 
 Und die Inhalte? Tempolimit: Zwei-Drittel-Mehrheit. Vermögenssteuer: steigende Mehrheit. Legalisierung von Schwangerschaftsabbrüchen: sehr große Mehrheit. **Deutsche Wohnen & Co enteignen**: 59,1% in Berlin — mehr als CDU und SPD zusammen bei der Abgeordnetenhauswahl. Nichts davon wird umgesetzt.
 
-[[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang, Forst und Williams]] liefern den theoretischen Rahmen: Demokratie kann majoritär oder deliberativ verstanden werden. Was gerade geschieht — Familienministerin Prien: *„Vielfalt ist kein staatliches Förderziel"* — ist der Übergang vom pluralistischen zum majoritären Demokratieverständnis. Die Mehrheit hat nicht einfach recht. Die Mehrheit darf auch über Minderheiten hinweg entscheiden.
+[[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang, Forst und Williams]] liefern den theoretischen Rahmen: Demokratie kann majoritär oder deliberativ verstanden werden. Was gerade geschieht — Familienministerin Prien: *„Vielfalt ist kein staatliches Förderziel"* — ist der Übergang vom pluralistischen zum majoritären Demokratieverständnis. Die Mehrheit hat nicht einfach recht. Die Mehrheit darf auch über Minderheiten hinweg entscheiden.
 
 Gelebte Demokratie ist die Antwort darauf: *Wenn die Repräsentation versagt, muss die Praxis einspringen.*
 
@@ -45,7 +45,7 @@ Gelebte Demokratie ist die Antwort darauf: *Wenn die Repräsentation versagt, mu
 
 Die demokratischste Waffe, die es gibt, ist Information. Und sie ist legal.
 
-[[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht|Semsrott]] zeigt, wie [[Gedankenwelten/DenkerVita/Arne Semsrott|FragDenStaat]] das Informationsfreiheitsgesetz (IFG) systematisch als Angriffsinstrument nutzt — nicht als Bitte, sondern als Recht:
+[[Zeitgeist/Semsrott — Zur Gegenmacht|Semsrott]] zeigt, wie [[DenkerVita/Arne Semsrott|FragDenStaat]] das Informationsfreiheitsgesetz (IFG) systematisch als Angriffsinstrument nutzt — nicht als Bitte, sondern als Recht:
 
 - **Gewerbesteueroasen**: IFG-Anfrage deckt auf, dass Tochterfirmen der Deutschen Bank im Gerätehaus der freiwilligen Feuerwehr in Lützen sitzen. Kosten der Recherche: 40–50.000 €. Schadenpotenzial für das Netz aller Oasen: ~1 Mrd. Euro. Erste Razzia: wenige Monate nach Veröffentlichung.
 - **Berliner Antisemitismus-Fördergeldaffäre**: Interne Chats zwischen CDU-Kultursenatorin und CDU-Abgeordnetem zeigen gezielte Umleitung von Fördermitteln. Direkte Reaktion: SPD und CDU schränken das Berliner IFG ein.
@@ -68,7 +68,7 @@ Das zweite Prinzip gelebter Demokratie: Nicht fordern, was der Staat tun soll �
 
 **Freiheitsfonds** kauft Menschen aus Gefängnissen frei, die dort sitzen, weil Fahren ohne Ticket — seit 1935 eine Straftat — zur Ersatzfreiheitsstrafe führt. ~9.000 Menschen jährlich. Knapp 1.700 wurden freigekauft, ~300 Hafttage vermieden. Gleichzeitig: 14 Kommunen haben beschlossen, keine Strafanzeigen mehr zu stellen. Die Straftat bleibt — aber niemand kommt mehr in den Knast. **Symptom mildern und System angreifen, gleichzeitig.**
 
-[[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Butterwegge]] liefert die strukturelle Einordnung: Armut ist kein Versagen von Individuen, sondern politisch produziert. Sanktionsfrei und Freiheitsfonds machen das sichtbar — nicht durch Analyse, sondern durch Tat.
+[[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Butterwegge]] liefert die strukturelle Einordnung: Armut ist kein Versagen von Individuen, sondern politisch produziert. Sanktionsfrei und Freiheitsfonds machen das sichtbar — nicht durch Analyse, sondern durch Tat.
 
 > [!question] Weitergedacht
 > Sanktionsfrei hilft Menschen, die das Jobcenter gequält hat — *macht das das System erträglicher, ohne es zu verändern?* Wann ist praktische Solidarität politisch produktiv und wann stabilisiert sie das Problem?
@@ -83,7 +83,7 @@ Der **ver.di-Streik am DHL-Frachtflughafen** in Schkeuditz (Leipzig) ist Semsrot
 
 **Deutsche Wohnen & Co enteignen** als politisches Modell: Eigenes Thema setzen (nicht auf AfD-Themen reagieren), 59,1%-Volksbegehren gewinnen, Cheerleader-Gruppen gründen, nach der Blockade durch SPD/CDU einen eigenen Gesetzesvorschlag entwickeln. Und: Spaß dabei haben.
 
-[[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN|Gesine Schwan]] nennt das **Gestaltungsmacht**: nicht die reaktive Kraft des Protests, sondern die konstruktive Kraft des Schaffens. Kommunale Entwicklungsbeiräte, deliberative Räume, Bürgerentscheide — Demokratie als Praxis, nicht als Verwaltung. Schwan denkt von oben (institutionell), Semsrott von unten (zivilgesellschaftlich). Beides braucht das andere.
+[[Zeitgeist/Gesine Schwan — Macht NEU DENKEN|Gesine Schwan]] nennt das **Gestaltungsmacht**: nicht die reaktive Kraft des Protests, sondern die konstruktive Kraft des Schaffens. Kommunale Entwicklungsbeiräte, deliberative Räume, Bürgerentscheide — Demokratie als Praxis, nicht als Verwaltung. Schwan denkt von oben (institutionell), Semsrott von unten (zivilgesellschaftlich). Beides braucht das andere.
 
 ---
 
@@ -93,7 +93,7 @@ Demokratie braucht Orte. Orte, an denen Menschen zusammenkommen können, ohne et
 
 Semsrott nennt **Bibliotheken**: Leihräder, Saatgutbibliotheken, Kunstzugänge, Akkubohrer. Orte der Demokratie — gerade weil die Stadtbibliothek Magdeburg ihn nach einer AfD-Anfrage ausgeladen hat. Der öffentliche Raum wird zur Kampfarena: Wer darf ihn nutzen? Wer wird ausgeladen? Und: Kann der Anspruch, dass öffentliche Räume für alle da sind, praktisch verteidigt werden?
 
-[[Gedankenwelten/Zeitgeist/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yus]] Konzept des **Spatial Awe** ergänzt das: Räume, die Ehrfurcht auslösen — gemeinsame Gärten, Plätze, Begegnungsarchitektur — aktivieren neuronal das Gefühl, zu etwas Größerem zu gehören. In-Group-Grenzen verschieben sich. Keine Diskussion nötig, keine Argumente. Manchmal reicht ein gemeinsamer Raum.
+[[Zeitgeist/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yus]] Konzept des **Spatial Awe** ergänzt das: Räume, die Ehrfurcht auslösen — gemeinsame Gärten, Plätze, Begegnungsarchitektur — aktivieren neuronal das Gefühl, zu etwas Größerem zu gehören. In-Group-Grenzen verschieben sich. Keine Diskussion nötig, keine Argumente. Manchmal reicht ein gemeinsamer Raum.
 
 Und **Netzwerk Pulilux** — ein Netzwerk, das kritische Zivilgesellschaft im Osten finanziert — baut genau das: Infrastruktur, die politische Teilhabe möglich macht, wo sie strukturell schwach ist.
 
@@ -101,7 +101,7 @@ Und **Netzwerk Pulilux** — ein Netzwerk, das kritische Zivilgesellschaft im Os
 
 ## Die 16% — Wer ist die demokratische Infrastruktur?
 
-[[Gedankenwelten/Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Quent und Goepel]] liefern die nüchterne Vermessung: **~30%** der Bevölkerung sind umfassend ohnmächtig. Weitere **~30%** resigniert. **~20%** reagieren situativ. Nur **~16%** gehören zu den „Kämpfenden" — die sich organisieren, diskutieren, handeln.
+[[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Quent und Goepel]] liefern die nüchterne Vermessung: **~30%** der Bevölkerung sind umfassend ohnmächtig. Weitere **~30%** resigniert. **~20%** reagieren situativ. Nur **~16%** gehören zu den „Kämpfenden" — die sich organisieren, diskutieren, handeln.
 
 Diese 16% *sind* die demokratische Infrastruktur. Nicht der Staat, nicht die Parteien — Graswurzelbürger:innen. Und Quents entscheidender Befund: **Hoffnung kommt vom Machen.** Diejenigen, die am besten durch Krisen kommen, sind nicht die Privilegiertesten — sondern die Handelnden. Nicht jeder muss in der ersten Reihe stehen. Einen Kuchen bei Omas gegen Rechts backen kann ein Akt der Selbstbemächtigung sein.
 
@@ -114,13 +114,13 @@ Beim Sommer der Migration 2015 engagierten sich mehr als **4 Millionen Menschen*
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Gedanken/Architekten des Lebendigen — Systeme die dem Leben dienen|Architekten des Lebendigen]]
+### → [[Gedanken/Architekten des Lebendigen — Systeme die dem Leben dienen|Architekten des Lebendigen]]
 Philosophisch-theoretisches Pendant: Während dieser Panorama konkrete Institutionen und Praktiken versammelt, fragt *Architekten* nach den Architekturprinzipien, die lebendige Systeme auszeichnen. Semsrotts Freiheitsfonds, Sanktionsfrei und FragDenStaat sind Bausteine im Architekten-Sinn — aber noch nicht dort dokumentiert. Gelebte Demokratie ist die politische Praxis dessen, was Architekten als Theorie entfaltet.
 
-### → [[Gedankenwelten/Panorama/Demokratische Wertschoepfung|Demokratische Wertschöpfung]]
+### → [[Panorama/Demokratische Wertschoepfung|Demokratische Wertschöpfung]]
 Das wirtschaftliche Gegenstück: Wo dieses Panorama politische Praxis versammelt (FragDenStaat, Streik, Volksbegehren), versammelt *Demokratische Wertschöpfung* wirtschaftliche Praxis (Genossenschaften, Mondragón, Bürgerenergie). Beides ist gelebte Demokratie — in unterschiedlichen Arenen.
 
-### → [[Gedankenwelten/Panorama/NoAfD|NoAfD]]
+### → [[Panorama/NoAfD|NoAfD]]
 Die Defensive als Hintergrundfolie: Was in *Gelebte Demokratie* aufgebaut wird, ist auch das, was in *NoAfD* verteidigt wird. Beide Panoramen brauchen einander — das Eine zeigt die Bedrohung, das Andere die Antwort.
 
 ---
@@ -140,16 +140,16 @@ Die Defensive als Hintergrundfolie: Was in *Gelebte Demokratie* aufgebaut wird, 
 
 | Note | Beitrag |
 |---|---|
-| [[Gedankenwelten/Zeitgeist/Semsrott — Zur Gegenmacht\|Semsrott — Zur Gegenmacht]] | Hauptquelle: Mehrheitslüge, FragDenStaat, Sanktionsfrei, Freiheitsfonds, ver.di, Bibliotheken |
-| [[Gedankenwelten/Zeitgeist/Gesine Schwan — Macht NEU DENKEN\|Gesine Schwan — Macht NEU DENKEN]] | Gestaltungsmacht als demokratische Praxis von unten |
-| [[Gedankenwelten/Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN\|Quent & Goepel — Extremismus NEU DENKEN]] | 16% als demokratische Infrastruktur; Hoffnung kommt vom Machen |
+| [[Zeitgeist/Semsrott — Zur Gegenmacht\|Semsrott — Zur Gegenmacht]] | Hauptquelle: Mehrheitslüge, FragDenStaat, Sanktionsfrei, Freiheitsfonds, ver.di, Bibliotheken |
+| [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN\|Gesine Schwan — Macht NEU DENKEN]] | Gestaltungsmacht als demokratische Praxis von unten |
+| [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN\|Quent & Goepel — Extremismus NEU DENKEN]] | 16% als demokratische Infrastruktur; Hoffnung kommt vom Machen |
 | [[Gilda con Arne 28\|Gilda con Arne #28 — Angriff auf Zivilgesellschaft]] | Was gelebte Demokratie bekämpft: Förderstopps, Einschüchterung |
-| [[Gedankenwelten/Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten\|Moini & Chiofalo — GFF AfD-Verbotsgutachten]] | Rechtsstaat als demokratisches Instrument; GFF als Gegenrechtsschutz |
-| [[Gedankenwelten/Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie\|Zhao, Forst & Williams — Bedeutungen der Demokratie]] | Majoritäre vs. deliberative Demokratie; philosophischer Rahmen |
-| [[Gedankenwelten/Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN\|Butterwegge — Armut NEU DENKEN]] | Strukturelle Einordnung: Armut als politisch produziertes Problem |
-| [[Gedankenwelten/Zeitgeist/Liya Yu — Der neuropolitische Gesellschaftsvertrag\|Liya Yu — Neuropolitischer Gesellschaftsvertrag]] | Spatial Awe: demokratische Räume als neuropolitisches Instrument |
-| [[Gedankenwelten/Gedanken/Architekten des Lebendigen — Systeme die dem Leben dienen\|Architekten des Lebendigen]] | Theoretisches Fundament: Systeme, die dem Leben dienen |
-| [[Gedankenwelten/Panorama/Demokratische Wertschoepfung\|Demokratische Wertschöpfung]] | Wirtschaftliche Dimension: Genossenschaften, Bürgerenergie |
-| [[Gedankenwelten/Panorama/NoAfD\|NoAfD]] | Die Defensive: Was gelebte Demokratie verteidigt |
-| [[Gedankenwelten/Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland\|rp26 — Stresstest Demokratie Ostdeutschland]] | Mangelbedingungen · Demokratie ohne staatliche Förderstruktur im Osten |
-| [[Gedankenwelten/Denker/Maren Urner — Radikal hoffnungsvoll\|Maren Urner — Radikal hoffnungsvoll]] | Neurobiologische Fundierung: Hoffnung als trainierbare Kapazität (Will Power + Way Power) — drei Praxisbeispiele: Positive Money, Freedom Writers, Funf |
+| [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten\|Moini & Chiofalo — GFF AfD-Verbotsgutachten]] | Rechtsstaat als demokratisches Instrument; GFF als Gegenrechtsschutz |
+| [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie\|Zhao, Forst & Williams — Bedeutungen der Demokratie]] | Majoritäre vs. deliberative Demokratie; philosophischer Rahmen |
+| [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN\|Butterwegge — Armut NEU DENKEN]] | Strukturelle Einordnung: Armut als politisch produziertes Problem |
+| [[Zeitgeist/Liya Yu — Der neuropolitische Gesellschaftsvertrag\|Liya Yu — Neuropolitischer Gesellschaftsvertrag]] | Spatial Awe: demokratische Räume als neuropolitisches Instrument |
+| [[Gedanken/Architekten des Lebendigen — Systeme die dem Leben dienen\|Architekten des Lebendigen]] | Theoretisches Fundament: Systeme, die dem Leben dienen |
+| [[Panorama/Demokratische Wertschoepfung\|Demokratische Wertschöpfung]] | Wirtschaftliche Dimension: Genossenschaften, Bürgerenergie |
+| [[Panorama/NoAfD\|NoAfD]] | Die Defensive: Was gelebte Demokratie verteidigt |
+| [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland\|rp26 — Stresstest Demokratie Ostdeutschland]] | Mangelbedingungen · Demokratie ohne staatliche Förderstruktur im Osten |
+| [[Denker/Maren Urner — Radikal hoffnungsvoll\|Maren Urner — Radikal hoffnungsvoll]] | Neurobiologische Fundierung: Hoffnung als trainierbare Kapazität (Will Power + Way Power) — drei Praxisbeispiele: Positive Money, Freedom Writers, Funf |

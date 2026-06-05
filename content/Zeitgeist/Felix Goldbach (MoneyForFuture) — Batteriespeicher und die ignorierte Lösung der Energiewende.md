@@ -116,7 +116,7 @@ Lieblingskommentar auf TikTok: *„Nachts scheint die Sonne nicht."*
 
 ## Verbindungen
 
-### → [[Gedankenwelten/Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
+### → [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
 
 Kaltheuner und Jung verwenden die Energiewende explizit als Blaupause für KI-Industriepolitik. Goldbach liefert das Fleisch: staatlich gelenkte Kostendegression, volkswirtschaftlicher Nutzen durch Förderung unattraktiver aber wichtiger Technologie. Das Modell funktioniert — die Frage ist, ob es auf KI-Anwendungen übertragbar ist.
 
@@ -178,7 +178,7 @@ Sterner liefert die politischen Hürden (StromVKG, drei Paragraphen gegen Speich
 
 Sterners Power-to-Gas + Biogas (Langzeit) ergänzt Goldbachs Batterien (Kurzzeit) zum vollständigen Speicher-Portfolio. Zusammen entkräften sie Söders 'Erneuerbare reichen nicht' — aus zwei unabhängigen wissenschaftlichen Perspektiven.
 
-### → [[Gedankenwelten/Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
+### → [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Merit Order und Großbatterien]]
 
 Specht liefert die systemische Erklärung für Goldbachs Kernthese: Batteriespeicher werden nicht aus Unwissenheit ignoriert, sondern weil sie im direkten Wettbewerb mit Gaskraftwerken stehen — und die Lobby dagegenhält. Specht bestätigt Goldbachs internationale Perspektive durch Marktdaten aus Kalifornien, Texas und Australien.
 
@@ -191,13 +191,13 @@ Kupferzell zeigt eine Speicherstrategie, die Goldbachs Batterie-These ergänzt s
 Meyer und Hegenberg berichten aus chinesischen Batteriefabriken und bestätigen Goldbachs These aus der Produktionsperspektive: China hat bei Lithium-Batterien die Markteintrittsbarrieren perfektioniert (Technologie-Know-how, Materialreinheit, Skaleneffekte). Flowbatterien als europäische Langzeitspeicher-Nische könnten die von Goldbach geforderte Speicher-Revolution um eine Dimension erweitern.
 
 
-### → [[Gedankenwelten/Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
+### → [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
 Goldbach und Großmann beschreiben strukturell dasselbe Valley-of-Death-Phänomen: Technologisch überlegene Lösungen scheitern nicht an Physik, sondern daran, dass sie etablierte Akteure bedrohen. Großmanns Kampf mit der Förderbürokratie ist Goldbachs Batterie-Blockade in Stahl.
 
-### → [[Gedankenwelten/Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
+### → [[Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
 
 Ein Unternehmer in Burgbernheim hat bereits einen 220-kWh-Speicher installiert — und darf ihn nicht nutzen. Goldbachs These über die regulatorisch blockierte Speicherlösung wird hier zur konkreten Betriebstragödie: Das technische Problem ist gelöst, das regulatorische nicht.
 
-### → [[Gedankenwelten/Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
+### → [[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
 Fichtner liefert die wissenschaftliche Grundlage für Goldbachs Investorenthesen: Die LCOS-Parität (Batteriespeicher günstiger als Gaskraftwerk-Regelenergie) und das Markt-Wachstum von 70 % werden von Fichtner datengestützt bestätigt. Goldbach adressiert die politische Blockade (Reiche), Fichtner die epistemische (Mythen und Lobbyinteressen).
