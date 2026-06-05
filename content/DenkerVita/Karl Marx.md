@@ -4,6 +4,8 @@ tags: [denker-vita, philosophie, kapitalismus, materialismus, deutschland]
 banner: "Gedankenwelten/assets/Karl_Marx_DenkerVita.png"
 ---
 
+![[Gedankenwelten/assets/Karl_Marx_DenkerVita.png|1200]]
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

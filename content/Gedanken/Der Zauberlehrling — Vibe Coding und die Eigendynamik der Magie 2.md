@@ -14,10 +14,11 @@ date: 2026-05-22
 aliases:
   - Zauberlehrling
   - Vibe Coding Parabel
-banner: "Gedankenwelten/assets/Der Zauberlehrling - Vibe Coding und die Eigendynamik der Magie.png"
 ---
 
 # Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie
+
+![[Gedankenwelten/assets/Der Zauberlehrling - Vibe Coding und die Eigendynamik der Magie.png|1200]]
 
 > *„Die ich rief, die Geister, werd ich nun nicht los."*  
 > — Johann Wolfgang von Goethe, Der Zauberlehrling (1797)

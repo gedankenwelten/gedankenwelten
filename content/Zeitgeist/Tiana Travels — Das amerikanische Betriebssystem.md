@@ -11,10 +11,11 @@ tags:
   - year-2026
 aliases:
   - Tiana Betriebssystem
-banner: "Gedankenwelten/assets/Tiana_Travels_Das_Amerikanische_Betriebssystem.png"
 ---
 
 # Tiana Travels — Das amerikanische Betriebssystem
+
+![[Gedankenwelten/assets/Tiana_Travels_Das_Amerikanische_Betriebssystem.png|1200]]
 
 > [!abstract] Worum es geht
 > Warum wählen Millionen Amerikaner gegen ihre eigenen Interessen? Warum ist medizinische Insolvenz in den USA ein „normaler Dienstag"? Und warum lehren Schulen Konformität statt Urteilsvermögen? Tiana — Amerikanerin, heute in Paris — verarbeitet in drei Videos einen Befund, der aus europäischer Distanz erst sichtbar wird: Amerika hat nicht nur strukturelle Defekte, es hat in seinen Bürgern ein ideologisches Betriebssystem installiert, das Systemkritik wie Verrat aussehen lässt. Drei Videos, eine These.
