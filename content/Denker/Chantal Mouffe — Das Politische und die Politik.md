@@ -1,5 +1,6 @@
 ---
 title: "Chantal Mouffe — Das Politische und die Politik"
+description: "Mouffes ganzes Denken ruht auf einer Unterscheidung: die Politik als Verwaltung, das Politische als unhintergehbarer Konflikt. Warum Demokratie Gegnerschaft braucht."
 tags:
   - denker
   - philosophie

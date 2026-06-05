@@ -1,5 +1,6 @@
 ---
 title: "B.R. Ambedkar — Kaste als Ontologie"
+description: "Vom Mahar-Kind zum Architekten der indischen Verfassung: Ambedkar begriff Kaste nicht als Brauch, sondern als Ontologie — ein System, das Menschsein selbst staffelt."
 tags:
   - denker
   - philosophie
