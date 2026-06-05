@@ -15,6 +15,8 @@ aliases:
 
 # Vipassana — Sankhāra (Mentale Konditionierungen)
 
+![[Gedankenwelten/assets/Vipassana_Sankara.png]]
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Schwerpunkt Tage 6–8.
 
 *Sankhāra* — Konditionierungen, Reaktionsmuster, die sich in den Geist eingraben. Der Same, aus dem jede zukünftige Erfahrung wächst. Das Fundament von Karma — nicht als mystisches Konzept, sondern als psychologischer Mechanismus.
