@@ -16,6 +16,9 @@ aliases:
 
 # Vipassana — Anicca (Vergänglichkeit)
 
+![[Gedankenwelten/assets/Vipassana_Anicca.png]]
+
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Ab Tag 4, Herzstück der Praxis.
 
 *Anicca* — Vergänglichkeit. Alles entsteht und vergeht. Kein Zustand hält an. Keine Empfindung bleibt. Kein Gedanke ist permanent.
