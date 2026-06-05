@@ -15,6 +15,8 @@ aliases:
 
 # Vipassana — Mettā (Liebende Güte)
 
+![[Gedankenwelten/assets/Vipassana_Metta.png]]
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Tag 10 — der Abschluss.
 
 *Mettā* — liebende Güte, wohlwollendes Mitgefühl. Am zehnten Tag lernen die Schüler eine neue Praxis: die Früchte der neun Tage Arbeit nach außen teilen. Das stille Ausströmen von gutem Willen — an alle Wesen.
