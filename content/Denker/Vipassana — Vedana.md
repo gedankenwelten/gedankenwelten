@@ -15,6 +15,8 @@ aliases:
 
 # Vipassana — Vedanā (Körperempfindungen)
 
+![[Gedankenwelten/assets/Vipassana_Vedana.png]]
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Ab Tag 4, zentral für die gesamte Praxis.
 
 *Vedanā* — Empfindung. Nicht Emotion, nicht Gedanke. Die rohe, direkte Körperempfindung: Kribbeln, Wärme, Druck, Stechen, Taubheit, Pulsieren. Angenehm, unangenehm, neutral. Das ist Vedanā.
