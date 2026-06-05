@@ -17,6 +17,8 @@ aliases:
 
 # Chantal Mouffe — Das Politische und die Politik
 
+![[assets/Chantal-Mouffe-Das-Politische-und-die-Politik-banner.jpg|1200]]
+
 Quelle: [Über Chantal Mouffe — Das Politische und die Politik](https://www.youtube.com/watch?v=xflMX2cKqf8) — Philosophische Praxis im Netz
 
 > [!info] Wer spricht?
