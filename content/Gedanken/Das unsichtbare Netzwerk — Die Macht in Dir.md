@@ -1,5 +1,6 @@
 ---
 title: "Das unsichtbare Netzwerk — Die Macht in Dir"
+description: "Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an."
 date: 2026-05-02
 tags:
   - gedanke

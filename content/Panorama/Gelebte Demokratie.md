@@ -1,5 +1,6 @@
 ---
 title: "Panorama — Gelebte Demokratie"
+description: "Demokratie ist kein Zustand, sondern eine Praxis — täglich gemacht in Anfragen, Streiks, Volksbegehren. Nicht verwaltet, sondern gelebt."
 tags:
   - panorama
   - demokratie

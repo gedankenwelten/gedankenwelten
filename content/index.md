@@ -25,45 +25,74 @@ Die Gedankenwelten (luc)
 ### Zeitgeist
 
 > **05.06.** — [[Zeitgeist/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
+>
 > Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
 
 > **03.06.** — [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
+>
 > 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
 
 > **03.06.** — [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]
+>
 > Souveränität ist Wahlfreiheit, nicht Isolation — über Europas 90%-Abhängigkeit von US-Tech und Vertrauen als europäischen Gegenentwurf.
 
 > **03.06.** — [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel & Iltisberger — Hype Is a System: How Tech Futures Get Made]]
+>
 > Hype ist kein Rauschen, sondern ein System aus Subsystemen und Feedback-Loops — und KI-Kritiker verstärken ungewollt genau den Hype, den sie bekämpfen.
 
 > **03.06.** — [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder|re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?]]
+>
 > Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen.
 
-> **03.06.** — [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht|rp26 — KI-Industriepolitik richtig gemacht]]
-> Marktkonzentration, Fragilität, Subventionen — kein freier KI-Markt. „AI Directionism“ als Gegenmodell: die Anwendung lenken, nicht nur Infrastruktur bauen.
-
-> **02.06.** — [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen|Holy Koolaid — Amerikanische Propaganda: 7 Formen, die du nie hinterfragt hast]]
-> Was als „Land of the Free“ verkauft wird, hält der Prüfung nicht stand: sieben Formen amerikanischer Propaganda, empirisch zerlegt.
-
-> **02.06.** — [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]]
-> „Früher bauten wir CPUs für Menschen, jetzt für KI-Agenten“ — wie Nvidia den PC-Markt destabilisiert und dann die teure Lösung verkauft.
-
-> → *7 weitere in* [[Zeitgeist]]
+> → *10 weitere in* [[Zeitgeist]]
 
 ### Panorama
 
 > **01.06.** — [[Panorama/Energie|Energie]]
+>
 > Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
+
+> **23.05.** — [[Panorama/Kaufkraft|Kaufkraft]]
+>
+> Warum 1965 ein Einkommen für Haus, Auto und drei Kinder reichte und heute zwei Vollzeitjobs kaum für Wohneigentum — und warum Inflation das nicht erklärt.
+
+> **21.05.** — [[Panorama/Gelebte Demokratie|Panorama — Gelebte Demokratie]]
+>
+> Demokratie ist kein Zustand, sondern eine Praxis — täglich gemacht in Anfragen, Streiks, Volksbegehren. Nicht verwaltet, sondern gelebt.
 
 ### Gedanken
 
 > **31.05.** — [[Gedanken/Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie 2|Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie]]
+>
 > Goethes Zauberlehrling als Parabel aufs Vibe Coding: Wer Magie ruft, ohne sie zu verstehen, verliert die Kontrolle über die Geister, die er rief.
+
+> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
+>
+> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
+
+> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
+>
+> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
 
 ### GoodNews
 
 > **30.05.** — [[GoodNews/Good News - Gute Nachrichten April 2026 Teil 3|Good News — Gute Nachrichten April 2026 (Teil 2)]]
+>
 > Gute Nachrichten aus Umwelt, Gesundheit und Gesellschaft — der Beweis, dass die Welt nicht nur aus Krisen besteht.
+
+### Denker
+
+> **17.05.** — [[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe — Das Politische und die Politik]]
+>
+> Mouffes ganzes Denken ruht auf einer Unterscheidung: die Politik als Verwaltung, das Politische als unhintergehbarer Konflikt. Warum Demokratie Gegnerschaft braucht.
+
+> **17.05.** — [[Denker/Colin Crouch — Postdemokratie nach den Krisen|Colin Crouch — Postdemokratie nach den Krisen]]
+>
+> Postdemokratie: Die Fassade der Demokratie bleibt, doch die Substanz wandert zu Eliten und Lobbys. Crouchs Diagnose nach den Krisen.
+
+> **17.05.** — [[Denker/Ambedkar - Kaste als Ontologie|B.R. Ambedkar — Kaste als Ontologie]]
+>
+> Vom Mahar-Kind zum Architekten der indischen Verfassung: Ambedkar begriff Kaste nicht als Brauch, sondern als Ontologie — ein System, das Menschsein selbst staffelt.
 
 <!-- JOURNAL:END -->
 
