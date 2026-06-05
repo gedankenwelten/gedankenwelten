@@ -17,6 +17,8 @@ aliases:
 
 # Das unsichtbare Netzwerk — Die Macht in Dir
 
+![[Gedankenwelten/assets/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir-banner.jpg|1200]]
+
 ---
 
 > Erster Teil einer Reihe. Weiter: [[Gedankenwelten/Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]] · [[Gedankenwelten/Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
