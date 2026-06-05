@@ -2964,3 +2964,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/Neitzel_Iltisberger_TechHype_Transkript.txt` |
 | **DenkerVita Neitzel** | [[Gedankenwelten/DenkerVita/Georgina Neitzel]] |
 | **DenkerVita Iltisberger** | [[Gedankenwelten/DenkerVita/Raphael Iltisberger]] |
+
+## Maren Urner — Radikal hoffnungsvoll (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26 — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf](https://www.youtube.com/watch?v=QRaOCV66bXk) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Maren Urner — Radikal hoffnungsvoll]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Urner_Hoffnung_Transkript.txt` |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Maren Urner]] |

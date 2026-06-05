@@ -173,6 +173,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Marcant|Marcant]]** — YouTuber (vollmarcant), 23 Jahre; Deradikalisierungsaktivismus durch Straßendialog; 500+ Menschen aus rechtsextremer Szene gebracht; Theodor-Heuss-Medaille 2026; Serie "Rechtsextrem oder verwirrtes Kind?"; Rechtsextremismusbekämpfung durch Respekt und Begegnung auf Augenhöhe
 
+**[[Gedankenwelten/DenkerVita/Maren Urner|Maren Urner]]** — Neurowissenschaftlerin, Professorin für Nachhaltige Transformation (Münster UAS); Gründerin *Perspective Daily* (konstruktiver Journalismus); Hope Theory, Angst vs. Hoffnung, dynamisches Denken; SPIEGEL-Bestsellerautorin *Schluss mit dem täglichen Weltuntergang*, *Raus aus der ewigen Dauerkrise*, *Radikal emotional*
+
 **[[Gedankenwelten/DenkerVita/Mats Schoenauer|Mats Schoenauer]]** — Journalist, YouTuber, Buchautor; Betreiber YouTube-Kanal Topfvollgold; Gründer Topfvollgold (mit Moritz Tschermak, 2013); Medienmanipulation, Desinformation als Geschäftsmodell, Faktencheck-Journalismus
 
 **[[Gedankenwelten/DenkerVita/Maurice Hoefgen|Maurice Höfgen]]** — Ökonom, YouTuber ("Geld für die Welt", 251.000+ Abonnenten), Kolumnist Berliner Zeitung; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse

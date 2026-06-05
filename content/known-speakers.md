@@ -353,6 +353,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Markus Reisner
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Markus Reisner]]
 
+## Maren Urner
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Maren Urner]]
+
 ## Martin Heidegger
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Martin Heidegger]]
 
