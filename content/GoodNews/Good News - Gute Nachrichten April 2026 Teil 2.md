@@ -219,6 +219,6 @@ Die Cargill-Brasilien-Story und der Yoon-Prozess sind beide empirische Belege f�
 
 Mai-Ausgabe: Ecuadors Wildtierkorridor und Indonesiens Elefantenreit-Verbot als Artenschutz-Parallelen zu Floreana-Schildkröte und Cargill-Stopp — lokale Naturschutz-Erfolge gegen globale Strukturprobleme.
 
-### → [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
+### → [[Gedankenwelten/GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
 
 Zweiter Teil der Mai-Ausgabe: Juan-Fernández-Seebär (800-faches Wachstum, Meeresschutzgebiet Finnland-Größe) und Vogelkorridore (133 Staaten) als direkte Fortsetzung des Artenschutz-Schwerpunkts aus diesem April-Teil. Rumäniens Urwald-Korruption (Mai) spiegelt die Cargill-Story: Globale Wirtschaftsinteressen gegen lokale Schutzgemeinschaften.

@@ -1,6 +1,7 @@
 ---
 title: Karl Marx — DenkerVita
 tags: [denker-vita, philosophie, kapitalismus, materialismus, deutschland]
+banner: "Gedankenwelten/assets/Karl_Marx_DenkerVita.png"
 ---
 
 ## Biographischer Snapshot
