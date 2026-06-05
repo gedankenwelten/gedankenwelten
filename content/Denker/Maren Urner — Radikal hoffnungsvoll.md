@@ -19,6 +19,9 @@ aliases:
 
 # Maren Urner — Radikal hoffnungsvoll
 
+> [!abstract] Worum es geht
+> Hoffnung ist kein Optimismus, sondern eine erlernbare Denkweise aus zwei Zutaten: Willenskraft und Wegkraft (C.R. Snyders Hope Theory). Maren Urner benennt auf der re:publica 26 drei „Pferde der Selbstzerstörung" — Klima, Krieg, Kommunikationsmacht — und setzt dagegen Hoffnung als wissenschaftliches Konzept, nicht als Flucht. Ihre schärfste These: Die eigentliche KI-Gefahr ist nicht, dass Maschinen wie Menschen denken, sondern dass Menschen beginnen, wie Maschinen zu denken.
+
 Quelle: [re:publica 26 — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf](https://www.youtube.com/watch?v=QRaOCV66bXk)
 
 > [!info] Wer spricht?
