@@ -91,4 +91,5 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 ## Cortex-Notes
 
 - [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]] — re:publica 26 Vortrag mit Franziska Görlitz (GFF): technisch-juridische Analyse der Palantir-Gesetze in Deutschland
+- [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]] — Jung & Naiv Folge 827: KI als stochastischer Papagei, Chatkontrolle, Vorratsdatenspeicherung und Palantir im Überblick
 

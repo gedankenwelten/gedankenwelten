@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **05.06.** — [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir|Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+>
+> CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt.
+
 > **05.06.** — [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem|Tiana Travels — Das amerikanische Betriebssystem]]
 >
 > Amerika hat nicht nur strukturelle Defekte — es hat seinen Bürgern ein ideologisches Betriebssystem installiert, das sie davon abhält, diese Defekte als solche zu erkennen.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Souveränität ist Wahlfreiheit, nicht Isolation — über Europas 90%-Abhängigkeit von US-Tech und Vertrauen als europäischen Gegenentwurf.
 
-> **03.06.** — [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel & Iltisberger — Hype Is a System: How Tech Futures Get Made]]
->
-> Hype ist kein Rauschen, sondern ein System aus Subsystemen und Feedback-Loops — und KI-Kritiker verstärken ungewollt genau den Hype, den sie bekämpfen.
-
-> → *11 weitere in* [[Zeitgeist]]
+> → *12 weitere in* [[Zeitgeist]]
 
 ### Denker
 

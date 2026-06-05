@@ -119,3 +119,7 @@ Grenzgänger Studios liefert den historisch-investigativen Rahmen zu Palantirs I
 ### → [[Gedankenwelten/Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Während Koshi die ICE-Kooperation und die US-Dimension beleuchtet, zeigen Kurz und Görlitz die deutsche Seite derselben Software-Infrastruktur — vier Bundesländer, gescheiterte Verfassungsschutzstandards, denselben Konzern. Zusammen ergibt sich das vollständige transnationale Bild.
+
+### → [[Gedankenwelten/Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+
+Kurz ergänzt die US-Perspektive um die deutsche Innenperspektive: Während Koshi zeigt, wie ICE Palantir zur Migrantenverfolgung einsetzt, dokumentiert Kurz denselben Zweckbindungsbruch bei deutschen Polizeibehörden (15.000 Zugriffe in Hessen, Alltags-Kriminalität statt Terrorabwehr) — und analysiert, warum der Vendor Lock-in so stark ist, dass Polizisten erklären, ohne Palantir nicht mehr arbeiten zu können.
