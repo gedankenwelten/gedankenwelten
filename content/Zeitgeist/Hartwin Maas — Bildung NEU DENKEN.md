@@ -220,3 +220,7 @@ Maas' Unterscheidung Bild-Denker vs. Sprach-Denker ist eine empirische Bestätig
 
 ### → [[Marcant — Ausstieg aus der rechten Szene]]
 Empirischer Einzelfall zu Maas' Strukturdiagnose: fehlende epistemische Resilienz und algorithmische Konditionierung schaffen Radikalisierungsrisiko. Marcants Fallstudie zeigt, was Maas als Lösung fordert — die Fähigkeit, den eigenen Urteilsweg zu befragen, wird hier nicht im Klassenzimmer, sondern durch Beziehung und Scham ausgelöst.
+
+### → [[Gedankenwelten/Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
+
+Tianas US-Schulanalyse ist der internationale Vergleichsfall zu Maas' Diagnose: Niceness als Konformitätstraining, Patriotismus-Ritual, Gehorsam vor Urteilsvermögen — das amerikanische Schulsystem als Gehorsamsmaschine, die Compliance belohnt statt kritisches Denken zu ermöglichen.

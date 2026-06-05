@@ -486,6 +486,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Thich Nhat Hanh]]
 
 
+## Tiana (Where Tiana Travels)
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tiana Travels]]
+
 ## Tilo Wesche
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Tilo Wesche]]
 

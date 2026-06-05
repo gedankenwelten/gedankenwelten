@@ -199,3 +199,8 @@ Kemper klassifiziert verschiedene Faschismusformen — Klerikalfaschismus, Techn
 ### → [[Koshi Politik — Epstein-Akten: Was wir jetzt wissen]]
 
 Die Epstein-Akten zeigen das Netzwerk; MONITOR zeigt die Methode. Dieselbe Struktur — Elite-Netzwerke, die über persönliche Beziehungen, Geld und gegenseitige Abhängigkeit funktionieren — manifestiert sich bei Epstein als sexuelle Erpressbarkeit und bei Trump-Witkoff als geschäftliche Verflechtung. Beide Male: Kontrolle durch Kompromittierung.
+
+
+### → [[Gedankenwelten/Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
+
+Tiana dokumentiert aus amerikanischer Innenperspektive mit europäischer Distanz die kulturelle und strukturelle Infrastruktur, die MONITOR als Machtmechanismus zeigt: Das System funktioniert, weil die Bevölkerung konditioniert wurde, es als natürlich zu akzeptieren.

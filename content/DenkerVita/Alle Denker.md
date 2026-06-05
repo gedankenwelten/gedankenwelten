@@ -237,6 +237,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[Gedankenwelten/DenkerVita/Thich Nhat Hanh|Thich Nhat Hanh]]** — Zen-Meister, Engaged Buddhism, Plum Village; Vier Edle Wahrheiten als Interbeing-Verbund, Sahabhū, Vier Nährstoffe
 
+**[[Gedankenwelten/DenkerVita/Tiana Travels|Tiana (Where Tiana Travels)]]** — Amerikanische YouTuberin in Paris; analysiert US-Systemprobleme (Gesundheitsmarkt, Schulen, Wahlverhalten) aus europäischer Distanz; Political-Science-Absolventin; "Temporarily Embarrassed Millionaires" als Erklärung für paradoxes Wahlverhalten
+
 **[[Gedankenwelten/DenkerVita/Tilo Jung|Tilo Jung]]** — Politikjournalist, Gründer Jung & Naiv; transparenter Journalismus, Suffizienz statt Wachstum, marxistische Kapitalismuskritik, Grimme Online Award
 
 **[[Gedankenwelten/DenkerVita/Tilo Wesche|Tilo Wesche]]** — Philosoph, Professor Praktische Philosophie Universität Oldenburg; Kritische Theorie (Adorno), Eigentumstheorie, Naturrechte; *Die Rechte der Natur — Vom nachhaltigen Eigentum* (2023); aufgewachsen in Namibia unter Apartheid, daher besonderer Fokus auf Kolonialismus und Enteignungslogiken
