@@ -17,6 +17,8 @@ aliases:
 
 # Colin Crouch — Postdemokratie nach den Krisen
 
+![[assets/Colin-Crouch-Postdemokratie-nach-den-Krisen-banner.jpg|1200]]
+
 Quelle: [Postdemokratie nach den Krisen | Prof. Colin Crouch | Ringvorlesung](https://www.youtube.com/watch?v=T9lir14D2h0) — Vortrag auf Englisch, 2019
 
 > [!info] Wer spricht?
