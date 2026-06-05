@@ -115,6 +115,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Christine Dankbar
 **Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christine Dankbar]]
 
+## Christine Brähler
+**Status:** ✓ Vollanalyse → [[Gedankenwelten/DenkerVita/Christine Braehler]]
+
 ## Christof Johnen
 **Status:** Stub
 

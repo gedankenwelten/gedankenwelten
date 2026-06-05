@@ -200,3 +200,7 @@ Das Netzwerk-Essay beantwortet die Kollektivfrage, die Adriaans Vortrag am Ende 
 > - Die Erinnerung verändert sich bei jedem Abruf — *wie kann man dann über vergangenes Unrecht sprechen, ohne dass die eigene Darstellung bereits Fiktion ist?*
 > - Kollektive Transformation durch individuelle Praxis: *Wie viele Menschen müssen diesen Weg gehen, damit er kollektiv wirkt — und wie misst man das?*
 > - *Was wäre das stärkste Argument dagegen, dass Selbstfürsorge keine Form von Egoismus ist?*
+
+### → [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
+
+Brähler beschreibt aus klinisch-psychologischer Sicht dasselbe Paradox, das Adriaan aus der Vipassana-Praxis beschreibt: Wer aus Erschöpfung und Angst heraus gibt, gibt egozentrisch — versteckt, aber fundamental. Beide kommen zur identischen Schlussfolgerung: Selbstfürsorge ist keine Vorbedingung für Leistung, sondern für Authentizität.
