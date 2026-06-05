@@ -334,3 +334,7 @@ Yu ergänzt Haidts Stammeslogik-Diagnose um die neurowissenschaftliche Ebene: Me
 ### → [[Gedankenwelten/Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]]
 
 IT Marios drei Populismus-Merkmale (Antielitarismus, Antipluralismus, Komplexitätsreduktion) sind Haidts Stammespsychologie in angewandter Form: Wer das Stammesgefühl anspricht, gewinnt — die AfD-Reden tun das messbar mehr als jede andere Partei.
+
+### → [[Gedankenwelten/Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
+
+Tianas dreigliedrige Analyse — Systemabsurditäten, Schul-Konditionierung, Wahlverhalten — ist eine empirische Fallstudie zu Haidts Spaltungs-Diagnose. Und ihre eigene Auswanderung ist ein radikaler Ausweg, den Haidts Heilungsansätze nicht vorsehen.

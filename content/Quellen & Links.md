@@ -2982,3 +2982,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Gedankenwelten/Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Braehler_Selbstmitgefuehl_Transkript.txt` |
 | **DenkerVita** | [[Gedankenwelten/DenkerVita/Christine Braehler]] |
+
+## Tiana (Where Tiana Travels) — Das amerikanische Betriebssystem
+
+| | |
+|---|---|
+| **Video 1** | [Things That Are Normal in America But Insane Everywhere Else](https://www.youtube.com/watch?v=458dxzOtghs) (März 2026) |
+| **Video 2** | [5 Things American Schools Taught Me That Make No Sense in Europe](https://www.youtube.com/watch?v=gA9Dw-cRP_k) (Januar 2026) |
+| **Video 3** | [Why Millions of Americans Vote Against Their Own Self Interests](https://www.youtube.com/watch?v=gUFMM9VYgpM) (Januar 2026) |
+| **Notiz** | [[Gedankenwelten/Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] |
+| **DenkerVita** | [[Gedankenwelten/DenkerVita/Tiana Travels]] |

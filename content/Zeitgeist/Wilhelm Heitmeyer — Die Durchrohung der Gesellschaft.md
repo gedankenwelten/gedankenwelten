@@ -334,3 +334,7 @@ Haidts Abscheu-vs-Wut-Unterscheidung liefert den psychologischen Mechanismus fü
 
 ### → [[Gedankenwelten/Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
 Konkreter Fallbeleg für institutionalisierte Enthemmung: Zwei Tage nach dem NiUS-Artikel erhält Kantinenpächterin Frau A Morddrohungen. Nicht einzelne Schreiber sind das Problem — NiUS ist die Struktur, die Heitmeyers "Durchrohung" betreibt: Gewaltfantasien werden systematisch stimuliert, nicht trotz, sondern durch das Medienformat.
+
+### → [[Gedankenwelten/Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
+
+Tianas Analyse ist der US-Kontext zu Heitmeyers Empathieverlust-These: Wenn Schulessen-Schulden als "individuelle Verantwortung" gelten und medizinische Insolvenz als "normaler Dienstag" — dann ist Enthemmung gegenüber anderen nicht Einzelfall, sondern strukturelle Konsequenz eines Systems, das Schwäche als persönliches Versagen rahmt.

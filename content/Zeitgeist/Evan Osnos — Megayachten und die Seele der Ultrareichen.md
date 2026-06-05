@@ -248,3 +248,7 @@ Komplementäre Winkel: Osnos seziert die Psychologie der Ultrareichen von außen
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
 Thiel als konkretes Fallbeispiel für Osnos' Analyse der Ultrareichen-Psychologie: Die schwimmenden Mikrostaaten, in die Thiel investiert, sind Osnos' Megayachten in ihrer politischen Konsequenz. Grenzgänger Studios zeigt, was passiert, wenn ein Ultrareicher nicht nur flieht, sondern aktiv umbaut — Palantir, Vance, ObjectionAI als Infrastruktur einer Parallelwelt ohne demokratische Regeln.
+
+### → [[Gedankenwelten/Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
+
+Tiana beschreibt die Bevölkerungsseite dessen, was Osnos bei den Ultrareichen seziert: Das System das Menschen in Krankheitsinsolvenz treibt, ist genau das System, das Ultrareiche nie erleben. Tianas James ($34k für 3 Tage) und Osnos' Megayacht-Besitzer leben auf derselben Erde, in völlig verschiedenen Wirklichkeiten desselben Landes.
