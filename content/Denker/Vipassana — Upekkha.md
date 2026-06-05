@@ -14,6 +14,8 @@ aliases:
 
 # Vipassana — Upekkha (Gleichmut)
 
+![[Gedankenwelten/assets/Vipassana_Upekka.png]]
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Schwerpunkt Tag 9.
 
 *Upekkha* — Gleichmut. Das Wort klingt nüchtern. Fast kalt. Aber Goenka meint das Gegenteil von Kälte.
