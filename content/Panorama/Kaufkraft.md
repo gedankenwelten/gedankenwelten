@@ -14,6 +14,8 @@ erstellt: 2026-05-23
 
 # Kaufkraft — Warum ein Lohn nicht mehr für eine Familie reicht
 
+![[assets/Kaufkraft-banner.jpg|1200]]
+
 ## Warum dieses Thema?
 
 In den 1960er und 70er Jahren konnte eine Familie in Deutschland (und vergleichbar in den USA) von einem einzigen Lohn oder Gehalt leben — Haus, Auto, Urlaub, drei Kinder, eine Hausfrau. Heute reicht selbst bei zwei Vollzeit-Einkommen oft nicht mehr für Wohneigentum in der Stadt. Die naheliegende Erklärung "Inflation" trägt nicht — die Verbraucherpreise sind nicht das Problem. Es geht um eine tiefere strukturelle Verschiebung, die seit ~1980 das Verhältnis von Arbeit, Kapital und Lebenshaltungskosten neu verteilt hat. Wer den Mechanismus nicht versteht, akzeptiert die Lage als Naturgesetz — dabei ist sie politisch gemacht und politisch reversibel.
