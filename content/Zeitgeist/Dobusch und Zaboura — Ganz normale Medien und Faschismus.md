@@ -168,7 +168,7 @@ Der „View from Nowhere" — die Illusion des neutralen, unverstellten Blicks �
 
 Gutmairs Algorithmen-Kritik im Bundestalk und Dobusch/Zabouras Strukturanalyse des Mediensystems beschreiben das gleiche Problem auf verschiedenen Ebenen: Dort die redaktionelle Entscheidungslogik, die zu False Balance und Faszinationsjournalismus führt; hier die algorithmische Infrastruktur, die Empörung systematisch über Sachlichkeit stellt. Beide enden beim selben Schluss: Das Problem ist nicht Strafrecht, sondern Plattformarchitektur.
 
-### → [[Gedankenwelten/Zeitgeist/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
+### → [[Gedankenwelten/Denker/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
 
 Urners Begriff des Angst-Journalismus benennt die ökonomische Triebkraft hinter dem, was Dobusch/Zaboura als strukturelle Berufslogik beschreiben: Klick-Optimierung erzeugt Katastrophenframes, Katastrophenframes erzeugen Passivität, Passivität begünstigt populistische Narrative — ein Kreis, den Dobusch/Zaboura als Faschismus-Normalisierung beschreiben und Urner als Angst-Kontagion. Urners konstruktiver Journalismus (*Perspective Daily*) ist der direkte institutionelle Gegenvorschlag zu "Performing Balance by Practicing Bias".
 

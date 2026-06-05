@@ -261,6 +261,6 @@ Das „Clickwork"-Framing ist kybernetische Kategorisierung in ihrer reinsten Fo
 
 Kaufmanns Swiss GPT in Bergbunkern ist der konkrete Versuch, Nosthoffs kybernetischen Steuerungslogiken eine Alternative entgegenzusetzen: Vertrauen statt Verhaltensmodifikation, europäische Institutionsarchitektur statt Plattform-Souveränität. Beide Notes kreisen um dieselbe Frage: Wer hält die kybernetischen Hebel?
 
-### → [[Gedankenwelten/Zeitgeist/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
+### → [[Gedankenwelten/Denker/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
 
 Nosthoffs kybernetisches Staatsverständnis (Steuerung durch Informationsflüsse statt demokratischen Konsens) ist die historische Genealogie von Urners drittem Pferd der Selbstzerstörung — was Urner als aktuelles Phänomen benennt (Attention Bros / Kommunikationskontrolle), zeigt Nosthoff als 80 Jahre altes Programm. Urners Beobachtung, KI verleite Menschen zum maschinellen Denken, findet in Nosthoffs Kybernetik-Analyse ihren strukturellen Ursprung: Rückkopplung und Regelung sind von Anfang an als Menschensteuerung konzipiert.
