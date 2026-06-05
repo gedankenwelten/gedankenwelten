@@ -19,6 +19,8 @@ aliases:
 
 # Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität
 
+![[assets/Gehring-und-Giessmann-Digitale-Unabhaengigkeit-und-monetaere-Souveraenitaet-banner.jpg|1200]]
+
 Quelle: [re:publica 26 — Digitale Unabhängigkeit & monetäre Souveränität jetzt!](https://www.youtube.com/watch?v=tfGMCyuCDaE)
 
 > [!info] Wer spricht?
