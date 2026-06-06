@@ -6,6 +6,16 @@ tags: [denker-vita, wirtschaft, deutschland, kapitalismus, neoliberalismus]
 
 # Hans-Jürgen Völz — DenkerVita
 
+![[assets/Hans-Juergen-Voelz-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — amerikanischer Social Realism, flache Farbflächen, starke Konturen, Terrakotta und Ockerpalette, Text als Teil des Gemäldes. Shahn malte die New-Deal-Ära — dieselbe Frage, ein anderes Jahrhundert: Was schuldet die Gesellschaft ihren Mitgliedern? Die Waage auf gleichem Niveau, der Riss an der Basis, das Wort "SOZIAL" ohne Antwort oben — das ist das einzige Kommentar, das das Bild macht.
+
+*Prompt:* Wide banner 1200×500px. Ben Shahn Social Realism style — flat color fields, strong black outlines, warm earthy palette (terracotta, ochre, slate blue, cream), no gradients, no photorealism, no realistic faces. Text integrated naturally as part of the painted image. Left third: A factory building with smokestacks, a worker's hands at a workbench, gears and tools rendered in flat terracotta and warm ochre tones. Simplified angular figures, no faces. Right third: A family table — simplified figures of adults and children seated together, a shared meal, modest house in the background. Cooler palette: slate blue and muted green. No faces. Center: A large old-fashioned balance scale, perfectly level, the two pans hanging at equal height. Above the scale, in Ben Shahn's hand-lettered style, the single word: SOZIAL — painted directly onto the image, slightly imperfect, warm black on cream. Below the balance, where the pillar meets the ground, a hairline crack runs left and right — invisible unless you look. The left pan of the scale connects visually to the factory scene; the right pan to the family scene. Both pans weigh equally. The scale cannot tip. That is the problem. No other text. No labels. No photorealism.
+
+</details>
+
 > [!info] Wer spricht?
 > **Hans-Jürgen Völz** ist Bundesgeschäftsleiter Volkswirtschaft des BVMW (Bundesverband Mittelständische Wirtschaft) und seit seinem 18. Lebensjahr CDU-Mitglied. Seine Position: Strukturreformen und Unternehmerlastung sind die Voraussetzung für Wohlstand und soziale Stabilität. Der Sozialstaat, so seine Diagnose, ist ineffizient und teuer — nicht zu klein, sondern schlecht konstruiert.
 
