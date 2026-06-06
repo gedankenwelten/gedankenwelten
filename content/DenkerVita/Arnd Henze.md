@@ -6,6 +6,16 @@ tags: [denker-vita, demokratie, rechtsextremismus, medien, deutschland]
 
 # Arnd Henze — DenkerVita
 
+![[assets/Arnd-Henze-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**William Blake — Illuminierter Prophetenstil** — Tiefindigo, Bernstergold, Flammengelb und Zinnoberrot, schwere Umrisslinien, handkolorierteer Stich-Ästhetik. Eine Figur an der Schwelle eines gotischen Kirchenbogens — eine Hand am Rahmen, zurückgewandt — Buntglasfenster und Pult hinter ihr, stürmische Nacht und fliegende Textseiten vor ihr, zwei Blake-Engel über dem Bogen, Flammen an den Füßen des Eingangs. Stadtsilhouetten links und rechts im Dunkel. Blake, weil seine Prophetenfiguren immer genau hier stehen — zwischen Institution und Vision, zwischen Feuer das konsumiert und Feuer das erleuchtet.
+
+*Prompt:* William Blake illuminated manuscript style, late 18th–early 19th century, hand-colored engraving aesthetic, 1200x500px banner. Heavy black outlines, luminous hand-colored ink washes in deep indigo, amber gold, pale flame-yellow, and vermilion. Figures with Blake's characteristic muscular tension and upward reach. A single tall male figure stands in the open doorway of a Gothic arch — one hand resting on the stone doorframe, body half-turned. Behind them through the arch: a warm interior glow, the suggestion of stained glass in deep blue and gold, rising stone columns, a lectern. In front of them: a dark stormy night sky, scattered pages of printed text flying in the wind, a distant city skyline in pale ochre silhouette. Above the arch: two small winged figures (Blake-style emanations) hover symmetrically, arms extended downward as if releasing something. At the base of the doorway on both sides: small flame-tongues rise from the stone floor — contained, not destructive, casting upward light on the figure. No realistic face. The figure is seen from slightly below, head turned toward the outer darkness. No photorealism. Blake's engraving texture throughout.
+
+</details>
+
 > [!info] Wer ist das?
 > **Arnd Henze** (*25. September 1961, Einbeck*) — Evangelischer Theologe, investigativer WDR-Journalist und öffentlicher Intellektueller an der Schnittstelle von Medien, Theologie und Demokratie. Bekannt durch präzise Analysen des christlichen Nationalismus und der antidemokratischen Strömungen im deutschen Protestantismus.
 >
