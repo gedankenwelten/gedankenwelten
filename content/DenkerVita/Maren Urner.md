@@ -8,6 +8,9 @@ tags: [denker-vita, psychologie, medien, demokratie, deutschland]
 
 ![[assets/Maren-Urner-banner.jpg|1200]]
 
+> [!info]- 🎨
+> **Remedios Varo** — Surrealistisch-wissenschaftlich, Amber und Petrol. Das Innere eines urzeitlichen Schädels (Steinzeithirn): links der Nachrichtenstrudel, der einflutet; in der Mitte eine gestaltlose Figur, die am hirn-förmigen Tisch aus dem Chaos eine Zeitung baut; rechts das leuchtende Netz des Konstruktiven Journalismus, das daraus entsteht. Varos Genauigkeit im Labyrinth trifft Urners Bewegung — Wissenschaftlerin, die in einem unmöglichen Raum etwas Konkretes baut.
+
 ## Biografie
 
 **Prof. Dr. Maren Urner** (* 1985) ist Neurowissenschaftlerin, Kognitionsforscherin und Professorin für Nachhaltige Transformation an der Münster University of Applied Sciences. Sie hat Kognitions- und Neurowissenschaften an der McGill University in Montreal studiert und wurde mit einer Promotion in Neurowissenschaften vom University College London promoviert.

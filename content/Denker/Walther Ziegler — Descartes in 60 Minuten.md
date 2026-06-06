@@ -19,6 +19,8 @@ aliases:
 
 ![[assets/Walther-Ziegler-Descartes-in-60-Minuten-banner.jpg|1200]]
 
+> [!info]- 🎨
+> **Rembrandt van Rijn** — Chiaroscuro, Goldenes Zeitalter der Niederlande. Descartes' Zeitgenosse malt seinen Moment: eine verhüllte Figur im Ohrbackensessel vor dem Kaminfeuer, das als einzige Lichtquelle dient. Auf dem Boden: zerlaufenes Bienenwachs, ein sich auflösender Geometriebeweis — die demolierten Gewissheiten der drei Zweifel. Im Hintergrundschatten: der Genius malignus. Aus dem Rauch über der denkenden Hand: COGITO. Ein Lichtpunkt in absoluter Finsternis — das ganze Argument.
 
 Quelle: [Descartes in 60 Minuten](https://www.youtube.com/watch?v=YsjL8nlUrI4)
 
