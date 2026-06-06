@@ -6,6 +6,9 @@ export interface BannerData {
   src: string
   alt: string
   width?: string | number
+  // 🎨-Easteregg: das Maler-/Stil-Detail direkt nach dem Banner-Bild,
+  // wird von der Banner-Komponente unter dem Bild gerendert.
+  palette?: Element
 }
 
 function textContent(node: ElementContent): string {
@@ -92,6 +95,21 @@ export const HeroLayout: QuartzTransformerPlugin = () => ({
                 width: props.width as string | number | undefined,
               }
               children.splice(i, 1)
+
+              // 🎨-Palette-Detail unmittelbar nach dem Banner mit hochziehen,
+              // damit es online direkt unter dem Bild (statt unter den Tags)
+              // erscheint. Whitespace-Textknoten überspringen, nur das erste
+              // folgende Element prüfen.
+              for (let j = i; j < children.length; j++) {
+                const next = children[j]
+                if (next.type !== "element") continue
+                const nextEl = next as Element
+                if (nextEl.tagName === "details" && textContent(nextEl).includes("🎨")) {
+                  file.data.banner.palette = nextEl
+                  children.splice(j, 1)
+                }
+                break
+              }
             }
           }
           // nur das erste inhaltliche Element kommt als Banner in Frage

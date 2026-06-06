@@ -55,6 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
         },
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
+        { Component: Component.RandomNote() },
       ],
     }),
     Component.Explorer({
@@ -87,6 +88,7 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.RandomNote() },
       ],
     }),
     Component.Explorer({

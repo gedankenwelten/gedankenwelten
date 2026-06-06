@@ -340,12 +340,45 @@ body.mf-sheet-open {
 }
 
 .mf-note-bar {
+  position: relative;
   flex: 0 0 auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0.55rem 1rem;
   border-bottom: 1px solid var(--lightgray);
+}
+
+// Mittiger Weiter-Würfel — exakt zentriert, unabhängig von der Breite der
+// Schließen-/„ganze Seite"-Elemente. Nur im Shuffle-Modus sichtbar.
+.mf-note-shuffle {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  padding: 0.2rem 0.4rem;
+  cursor: pointer;
+  color: var(--secondary);
+  transition: transform 0.2s ease;
+
+  &[hidden] {
+    display: none;
+  }
+
+  & svg {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+  }
+
+  &:active {
+    transform: translate(-50%, -50%) rotate(90deg) scale(0.92);
+  }
 }
 
 .mf-note-close {
@@ -370,19 +403,25 @@ body.mf-sheet-open {
   -webkit-overflow-scrolling: touch;
   padding: 0.5rem 1.25rem 3rem;
 
-  // Auf der Index-Seite werden article-title/content-meta global ausgeblendet —
-  // im Note-Sheet sollen sie aber sichtbar sein.
   .article-title {
-    display: block !important;
     font-size: 1.4rem;
     line-height: 1.25;
     margin: 0.5rem 0 0;
   }
-  .content-meta {
-    display: block !important;
-  }
   .breadcrumb-container {
     display: none;
+  }
+}
+
+// Auf der Index-Seite werden article-title/content-meta global per
+// `body[data-slug="index"] .article-title` (Spezifität 0,2,1) ausgeblendet.
+// Im Note-Sheet sollen sie aber sichtbar sein — der Re-Show muss die globale
+// Regel überbieten, deshalb hier ebenfalls unter `body[data-slug="index"]`
+// geschachtelt (Spezifität 0,3,1 > 0,2,1).
+body[data-slug="index"] .mf-note-content {
+  .article-title,
+  .content-meta {
+    display: block !important;
   }
 }
 

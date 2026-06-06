@@ -179,6 +179,33 @@ const MobileFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quart
             <button class="mf-note-close" type="button" data-close aria-label="Schließen">
               ✕
             </button>
+            {/* Mittiger Würfel — nur im Shuffle-Modus sichtbar, würfelt weiter */}
+            <button class="mf-note-shuffle" type="button" hidden aria-label="Weiter shuffeln">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20px"
+                height="20px"
+                viewBox="0 0 24 24"
+                aria-hidden="true"
+              >
+                <rect
+                  x="3"
+                  y="3"
+                  width="18"
+                  height="18"
+                  rx="3.5"
+                  ry="3.5"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.7"
+                />
+                <circle cx="8" cy="8" r="1.5" />
+                <circle cx="16" cy="8" r="1.5" />
+                <circle cx="12" cy="12" r="1.5" />
+                <circle cx="8" cy="16" r="1.5" />
+                <circle cx="16" cy="16" r="1.5" />
+              </svg>
+            </button>
             <a class="mf-note-full" href="#">
               ganze Seite ↗
             </a>
