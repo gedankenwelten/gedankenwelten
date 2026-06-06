@@ -6,6 +6,16 @@ tags: [denker-vita, medien, umwelt, wissenschaft, technologie, deutschland]
 
 # Freddy Leppin — DenkerVita
 
+![[assets/Freddy-Leppin-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Charley Harper — Midcentury Modern Wildlife Illustration** — Flachfarben, hochgradig stilisierte geometrische Formen, keine Verläufe, 1950er–70er US-Naturillustration (USFWS-Stil). Von links nach rechts: geometrischer Wal im Ozean mit Fischschwarm, Containerschiff und Ocean-Cleanup-Barriere, Küstenpfad mit Solarpanelen und Windrädern auf grünem Hügel, Eisbär auf Eisscholle rechts. Harper, weil sein Stil buchstäblich der visuelle Ausdruck von "Fortschritt existiert, wird nur nicht gesehen" ist — er hat sein Leben damit verbracht, die Welt in einer Sprache zu zeigen, die keine Angst braucht, um Aufmerksamkeit zu bekommen.
+
+*Prompt:* Charley Harper midcentury modern illustration style, 1950s–1970s American wildlife illustration, flat color geometric shapes, no gradients, bold simplified forms, 1200x500px banner. A wide panoramic scene of the world working quietly: Left section: deep blue ocean, geometric whale breaching — smooth arc, flat cerulean and white, small fish in triangular formation below. Center-left: a coastline with a large geometric orange-and-grey cargo vessel and a yellow Ocean Cleanup barrier collecting plastic (simplified geometric shapes, no labels). Center: a bright hillside — geometric solar panels in gold-yellow arranged in neat rows, a simplified green tree alongside. Center-right: white wind turbines, three-bladed, standing tall against pale sky — clean circular rotation marks. Right: Arctic ice — a geometric polar bear, ivory white with black dot eyes, on a floating blue-white ice floe. Small geometric Arctic birds above. Overall palette: bright cerulean blue, ivory, gold-yellow, forest green, orange-rust, charcoal line accents. No text. No humans. No headlines. No drama. Only the world functioning.
+
+</details>
+
 ## Biografie
 
 **Fredrik Leppin** (Freddy Leppin) ist ein deutscher Content Creator und Moderator aus Frankfurt am Main. Er studierte an der Johann Wolfgang Goethe-Universität Frankfurt und arbeitet heute als selbstständiger Videoproduent. Leppin ist vor allem als Gründer und Moderator von zwei YouTube-Kanälen bekannt:
