@@ -5,6 +5,8 @@ tags: [denker-vita, philosophie, marxismus, japan, politische-oekonomie, literat
 
 # Kojin Karatani — DenkerVita
 
+![[assets/Kojin-Karatani-banner.jpg|1200]]
+
 ## Biografie
 
 **Kojin Karatani** (1941–) ist einer der bedeutendsten zeitgenössischen Philosophen und Literaturtheoretiker Japans, sowie der erste asiatische Träger des Berggruen Prize for Philosophy & Culture (2022). Sein Denken verbindet Philosophie, Literaturtheorie, Ästhetik, Linguistik, Ökonomie und Politiktheorie in einer seltenen, grenzüberschreitenden intellektuellen Praxis.
