@@ -6,6 +6,16 @@ tags: [denker-vita, geopolitik, china, journalismus]
 
 # Frank Sieren — DenkerVita
 
+![[assets/Frank-Sieren-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Wu Guanzhong — Chinesische Tuschmalerei (水墨画)** — Sumi-Tusche auf Reispapier, Schwarz mit Akzenten in Karmesin und Gold. Links: traditionelle Berglandschaft mit Bambushain, eine kleine rote Figur schaut nach rechts — unverändert. Mitte: Baukräne entstehen aus Berghängen, Tusch-Striche morphen in Stahlträger. Rechts: Shenzhen-Skyline in Tintenpinsel-Sprache, goldene Vertikallinie als Kalligrafie-Strich. Wu Guanzhong, weil er selbst Paris und Peking kannte — und weil die chinesische Tusch-Sprache die Transformation von Shenzhen besser erzählt als jede europäische Handschrift.
+
+*Prompt:* Chinese ink painting style (水墨画), Wu Guanzhong aesthetic, 1200x500px banner, horizontal scroll format. Black sumi ink on off-white paper, with sparse color accents: deep crimson and pale gold only. Left third: traditional ink-brushstroke mountains and mist — jagged peaks dissolving upward into white space, a bamboo grove at the base, a small solitary figure standing at the mountain's edge, facing right, back to the viewer. Center: the landscape begins to transform — rocky outlines blur into architectural scaffolding, mountains becoming construction cranes, ink-wash fog turning into industrial haze. The transition is gradual, not sharp — ink strokes morphing mid-stroke into steel beams. Right third: Shenzhen skyline emerging from the ink — glass towers, elevated highways, LED-lit facades — rendered in the same brush language as the mountains but denser, more angular. A single gold vertical line bisects this third like a calligraphy stroke. The figure on the left is still visible, unchanged. The world in front of them has transformed. No photorealism. No text. Monochrome ink with crimson and gold accents only.
+
+</details>
+
 > [!info] Wer spricht?
 > **Frank Sieren** (*1967, Saarbrücken*) — Journalist, Dokumentarfilmer, Bestseller-Autor. Handelsblatt-Korrespondent in Peking, wo er seit 1994 lebt — 32 Jahre vor Ort, längstdienender westlicher Wirtschaftsjournalist in China. Hat Dutzende Bücher über Chinas Aufstieg geschrieben (*Der China Code*, *Zukunft? China!*, *Shenzhen*). Kernthese: China ist kein Drama, sondern Realität des 21. Jahrhunderts — verstehen statt verdammen. Umstritten wegen seines wohlwollenden Blicks auf chinesische Rationalität.
 
