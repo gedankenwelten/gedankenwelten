@@ -16,6 +16,8 @@ aliases:
 
 # Mario Buchinger — Lügen der Kernenergie: Kommentarspalte
 
+![[assets/Mario-Buchinger-Luegen-der-Kernenergie-Kommentarspalte-banner.jpg|1200]]
+
 Quelle: [Kommentarspalte: Die Lügen der Kernenergie](https://www.youtube.com/watch?v=6eIDO1_y_U0) (#RestartThinking)
 Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
