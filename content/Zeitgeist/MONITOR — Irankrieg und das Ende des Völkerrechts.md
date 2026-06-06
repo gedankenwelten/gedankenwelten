@@ -16,11 +16,15 @@ tags:
 aliases:
   - Irankrieg Monitor
   - Völkerrecht Iran
+description: "Nicht die Verletzung ist neu — die gab es immer. Neu ist das Schweigen danach: Eine Weltmacht erklärt das Völkerrecht für irrelevant, und niemand kann sie zwingen."
 ---
 
 # MONITOR — Irankrieg und das Ende des Völkerrechts?
 
 ![[assets/MONITOR-Irankrieg-und-das-Ende-des-Voelkerrechts-banner.jpg|1200]]
+
+> [!abstract] Worum es geht
+> Am 28. Februar 2026 bombardierten die USA und Israel den Iran — 900 Luftangriffe in 12 Stunden, Khamenei getötet, rund 1.300 zivile Opfer. Dass das ein Völkerrechtsbruch ist, steht für Völkerrechtler Kai Ambos außer Frage. Was ihn und die gesamte Völkerrechtscommunity erschüttert, ist etwas anderes: Die Trump-Regierung braucht keine Rechtfertigung mehr. Kein Sicherheitsrat, keine Vollversammlung, kein Versuch einer juristischen Begründung — nur der Satz: *„Es ist mir schlicht egal."* Frankreich, Spanien und Großbritannien nennen das beim Namen. Deutschland spricht von einem „völkerrechtlichen Dilemma".
 
 Quelle: [MONITOR studioM — WDR/ARD](https://www.youtube.com/watch?v=UW9QwrPSuP0), aufgezeichnet 10.03.2026
 
