@@ -15,6 +15,16 @@ aliases:
 
 # Heinz Bude — Brauchen wir eine Boomer-Soziologie?
 
+![[assets/Heinz-Bude-Boomer-Soziologie-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Gerhard Richter — Photo-Malerei-Stil** — Gedämpfte Grautöne und Ocker, Blurred-Fotorealismus, postwar West-Domestizität. Links: Vater mit Zeitung und Hosenträgern am Tisch, Röhrenfernseher, Blumentapete — durch das Fenster: Trümmer und Baugerüst. Mitte: Frau mit gefalteten Händen, Blick seitwärts, ruhig und unlesbar. Rechts: Jugendlicher an der Schwelle, der in blaue Squeegee-Striche auflöst. Richter, weil sein Blur das "kommunikative Beschweigen" nicht illustriert — er *ist* es. Man sieht die Nachkriegsfamilie, man weiß was dahinter liegt, und man sagt nichts.
+
+*Prompt:* Gerhard Richter photo-painting style, blurred photorealistic oil technique, muted gray-ochre-brown palette, 1200x500px banner. Wide domestic West German interior, 1960s. Left: a dining table with ordinary objects — a television set in the corner, flowerpatterned wallpaper, a man in a shirt and suspenders reading a newspaper, his face blurred into soft gray. Behind him through a window, barely legible: rubble and construction scaffolding dissolving into suburban streets. Center: a woman at a kitchen table, hands resting, looking sideways out of frame — quiet, interior, purposeful but unreadable. Her figure is sharp but the background bleeds into abstraction. Right: a younger figure — teenage, ambiguous — standing at a threshold, half turned away. Behind them: a faint horizontal band of oil-paint squeegee strokes in slate blue and ash, obscuring what was there. The whole image has the quality of a photo smeared with translucent paint — recognizable but erased. No drama, no gestures. Presence without declaration. No photorealism, no realistic faces, no sharp edges.
+
+</details>
+
 Quelle: [„Brauchen wir eine Boomer-Soziologie?" — Vortrag an der Humboldt-Universität Berlin](https://www.youtube.com/watch?v=pl848sxbTjU)
 
 > [!info] Wer spricht?
