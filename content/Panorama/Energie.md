@@ -15,6 +15,8 @@ aktualisiert: 2026-06-01
 
 # Energie — Zwischen Kostenwahrheit und Lobbypolitik
 
+![[assets/Energie-banner.jpg|1200]]
+
 ## Warum dieses Thema?
 
 Deutschlands Strompreise sind die höchsten in Europa: 38 Cent/kWh, EU-Durchschnitt 29 Cent. Die Energiewende war als Doppelprojekt gedacht — Klimaschutz und industrielle Modernisierung. Stattdessen ist sie zum politischen Schlachtfeld geworden. Wirtschaftsministerin Katherina Reiche (CDU, Ex-E.ON-Vorstand) will Solarförderung streichen, Windkraft-Entschädigungen kappen und 20 neue Gaskraftwerke ausschreiben — während ihr Ministerium nachweislich Lobbypapiere gegen Batteriespeicher bei Energiekonzernen anfordert.
