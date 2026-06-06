@@ -332,10 +332,10 @@ body.mf-sheet-open {
   overflow: hidden;
 }
 
-// --- Hohes Note-Sheet (oben bündig unter der Suche, überlagert die Tabs) ---
+// --- Hohes Note-Sheet (fast vollbild, überlagert Header und Tabs) ---
 .mf-sheet-tall .mf-sheet-panel {
-  top: var(--mf-tabs-top, 3rem);
-  height: calc(100% - var(--mf-tabs-top, 3rem));
+  top: env(safe-area-inset-top, 0px);
+  height: calc(100% - env(safe-area-inset-top, 0px));
   max-height: none;
 }
 
