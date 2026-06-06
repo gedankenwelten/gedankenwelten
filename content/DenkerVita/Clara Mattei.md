@@ -6,6 +6,16 @@ tags: [denker-vita, kapitalismus, austerität, faschismus]
 
 # Clara Mattei — DenkerVita
 
+![[assets/Clara-Mattei-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Käthe Kollwitz** — Holzschnitt-Lithografie, Tiefschwarz auf Elfenbeinpapier, keine Gesichter, nur Körper und Geste. Kollwitz malte das menschliche Gewicht des Wirtschaftssystems — Weberrevolte, Bauernkrieg, Müttertrauer. Mattei analysiert dasselbe System mit Zahlen und Archivquellen; Kollwitz drückt es in Schwärze aus. Die Wahl war keine Analogie, sondern eine Verwandtschaft.
+
+*Prompt:* Wide banner 1200×500px. Käthe Kollwitz woodcut lithograph style — dense blacks, heavy etched lines, high contrast, deeply expressive without photorealism, no realistic faces. Center composition: Two tall figures face each other and clasp hands in a firm handshake. Left figure: top hat, frock coat, gold watch chain — the liberal economist. Right figure: military greatcoat, rigid posture, no insignia — the fascist functionary. Their gripping hands are the focal point. Their cast shadows merge and spread downward across the lower half of the image like a dark tide. Within that merged shadow: tiny bent silhouettes of workers at machines, stooped low, visible only as texture inside the darkness. Behind and above the two figures: three stone arches — a cathedral-like structure with columns labeled in etched serif letters "FISKAL" / "INDUSTRIE" / "MONETÄR". Both figures stand inside this shared architecture without noticing it. The arches frame them from above as if they have always been there. Palette: near-monochrome — deep charcoal, warm black, aged paper ivory. One accent: the handshake illuminated by a cold pale light from above, as if spotlit by the structure itself. No colour elsewhere. No photorealism. No heroic posture — both figures utterly matter-of-fact, bureaucratic.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

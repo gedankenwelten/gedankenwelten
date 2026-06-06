@@ -24,7 +24,7 @@ Die Gedankenwelten (luc)
 
 ### GoodNews
 
-> **06.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+> **07.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Zeitgeist
 
@@ -48,7 +48,7 @@ Die Gedankenwelten (luc)
 >
 > 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
 
-> → *12 weitere in* [[Zeitgeist]]
+> → *11 weitere in* [[Zeitgeist]]
 
 ### Denker
 
