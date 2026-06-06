@@ -14,11 +14,15 @@ tags:
 aliases:
   - Scobel Meditation
   - Meditation Nebenwirkungen
+description: "Meditation wirkt — klinisch belegt, gleichwirksam wie ein Antidepressivum. Und sie kann schaden. Scobel zieht die Trennlinie zwischen Wellness-Versprechen und ernsthafter Praxis."
 ---
 
 # Gert Scobel — Meditation kann gefährlich sein
 
 ![[assets/Gert-Scobel-Meditation-kann-gefaehrlich-sein-banner.jpg|1200]]
+
+> [!abstract] Worum es geht
+> Meditation ist kein risikofreies Wellness-Tool — sie ist eine ernsthafte Praxis mit messbaren Wirkungen und echten Nebenwirkungen. Gert Scobel zieht die Forschungslage der letzten 30 Jahre zusammen: 8 Wochen MBSR sind gleichwirksam wie ein Antidepressivum, Langzeit-Meditierende zeigen strukturelle Gehirnveränderungen — und 58 % der Meditierenden berichten von unerwünschten Erfahrungen. Dahinter steckt eine tiefere Frage: Was passiert mit dem Bewusstsein, wenn man es über Jahrzehnte kultiviert? Und warum sagt Dōgen, dass das tiefste Erkennen im Vergessen des Selbst beginnt?
 
 Quelle: [Meditation kann gefährlich sein! – scobel](https://www.youtube.com/watch?v=aFb1JkIqN6U)
 
