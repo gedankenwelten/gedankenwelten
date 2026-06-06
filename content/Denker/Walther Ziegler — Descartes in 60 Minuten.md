@@ -17,6 +17,9 @@ aliases:
 
 # Walther Ziegler — Descartes in 60 Minuten
 
+![[assets/Walther-Ziegler-Descartes-in-60-Minuten-banner.jpg|1200]]
+
+
 Quelle: [Descartes in 60 Minuten](https://www.youtube.com/watch?v=YsjL8nlUrI4)
 
 > [!info] Wer spricht?
