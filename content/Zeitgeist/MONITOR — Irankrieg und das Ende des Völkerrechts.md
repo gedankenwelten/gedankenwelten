@@ -20,6 +20,8 @@ aliases:
 
 # MONITOR — Irankrieg und das Ende des Völkerrechts?
 
+![[assets/MONITOR-Irankrieg-und-das-Ende-des-Voelkerrechts-banner.jpg|1200]]
+
 Quelle: [MONITOR studioM — WDR/ARD](https://www.youtube.com/watch?v=UW9QwrPSuP0), aufgezeichnet 10.03.2026
 
 > [!info] Wer spricht?
