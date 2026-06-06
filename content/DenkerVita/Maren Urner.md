@@ -6,6 +6,8 @@ tags: [denker-vita, psychologie, medien, demokratie, deutschland]
 
 # Maren Urner — DenkerVita
 
+![[assets/Maren-Urner-banner.jpg|1200]]
+
 ## Biografie
 
 **Prof. Dr. Maren Urner** (* 1985) ist Neurowissenschaftlerin, Kognitionsforscherin und Professorin für Nachhaltige Transformation an der Münster University of Applied Sciences. Sie hat Kognitions- und Neurowissenschaften an der McGill University in Montreal studiert und wurde mit einer Promotion in Neurowissenschaften vom University College London promoviert.
