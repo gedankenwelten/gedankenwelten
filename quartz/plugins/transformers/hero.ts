@@ -1,5 +1,6 @@
 import { QuartzTransformerPlugin } from "../types"
 import { Root, Element, ElementContent } from "hast"
+import path from "path"
 
 export interface BannerData {
   src: string
@@ -50,16 +51,21 @@ export const HeroLayout: QuartzTransformerPlugin = () => ({
           }
         }
 
-        // 2) erstes Banner-Bild hochziehen (nur das erste Element-Block prüfen)
+        // 2) erstes Banner-Bild hochziehen. Führende Überschriften überspringen —
+        //    manche Notes haben eine Body-H1, die nicht dem Frontmatter-Titel
+        //    entspricht (und daher oben nicht entfernt wurde); das Banner steht
+        //    dann direkt dahinter.
         for (let i = 0; i < children.length; i++) {
           const node = children[i]
           if (node.type !== "element") continue
+          const el = node as Element
+          if (/^h[1-6]$/.test(el.tagName)) continue // führende Überschrift überspringen
 
           let img: Element | undefined
-          if (node.tagName === "img") {
-            img = node
-          } else if (node.tagName === "p") {
-            const inner = (node.children ?? []).filter(
+          if (el.tagName === "img") {
+            img = el
+          } else if (el.tagName === "p") {
+            const inner = (el.children ?? []).filter(
               (c) => c.type === "element",
             ) as Element[]
             if (inner.length === 1 && inner[0].tagName === "img") {
@@ -71,8 +77,17 @@ export const HeroLayout: QuartzTransformerPlugin = () => ({
             const props = img.properties ?? {}
             const src = props.src
             if (typeof src === "string" && src.length > 0) {
+              // src ist nach CrawlLinks seiten-relativ (z.B. ../assets/x.png).
+              // In einen absoluten Root-Pfad (/assets/x.png) umrechnen, damit das
+              // Bild auch von der Startseite (MobileFeed) aus geladen werden kann.
+              let abs = src
+              if (!/^https?:\/\//.test(src) && !src.startsWith("/")) {
+                const slug = (file.data.slug as string) ?? ""
+                const dir = path.posix.dirname(slug)
+                abs = path.posix.normalize(path.posix.join("/", dir, src))
+              }
               file.data.banner = {
-                src,
+                src: abs,
                 alt: typeof props.alt === "string" ? props.alt : "",
                 width: props.width as string | number | undefined,
               }
