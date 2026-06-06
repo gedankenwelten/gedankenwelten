@@ -20,6 +20,16 @@ aliases:
 
 # Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update
 
+![[assets/Gilda-con-Arne-23-AfD-vorerst-nicht-gesichert-rechtsextrem-and-Iran-Krieg-Update-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Francisco Goya — Caprichos-Ätzdruck-Stil** — Sepia-Braun, Aquatinta, dichtes Kreuzschraffur auf vergilbtem Papier. Links: ein blinder Richter mit Lupe auf geschlossenem Auge, Fledermaus auf dem "DECRETO"-Aktenstapel, Schatten-Figuren im Hintergrund. Rechts: brennende Stadtskyline (Minarette, Kuppeln), tanzende und fliehende Silhouetten im Orangelicht. Mitte: zwei gestikulierende Figuren — Gilda und Arne — die beiden Katastrophen in Sprache übersetzen. Oben Goyas Schriftzug: *"Y aún no se van"*. Goya, weil diese Folge zwei Ungeheuer gleichzeitig betrachtet — das institutionell-juristische und das militärische — und sein Caprichos-Blick nicht zwischen Satire und Ernst trennt.
+
+*Prompt:* Francisco Goya etching style, "Los Caprichos" series aesthetic, aquatint engraving, warm sepia-brown ink on yellowed paper, 1200x500px banner. Left third: a robed judge with a large magnifying glass pressed to his closed eye, examining a stack of legal documents — he sees nothing. Behind him, shadow-figures in suits and party insignia, dissolving into darkness. A sleeping bat perches atop the document stack. Right third: a night sky lit orange by distant fire. Silhouetted figures — some with arms raised in joy, others in flight — against burning architecture on the horizon. Tehran skyline, abstract. Center: two small, alert figures — a woman and a man — standing back to back, each facing one side, speaking into the air, their hands mid-gesture. Between them, a thin crack of light divides the image vertically. Above the whole scene in Goya's handwriting style: "Y aún no se van" (And still they don't leave). Dark umber palette, dense cross-hatching, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: Podcast „Gilda con Arne", Folge 23
 Aufnahme: Dienstag, 4. März 2026 (4. Kriegstag)
 
