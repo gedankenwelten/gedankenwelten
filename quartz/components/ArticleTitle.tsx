@@ -14,6 +14,13 @@ ArticleTitle.css = `
 .article-title {
   margin: 2rem 0 0 0;
 }
+@media (max-width: 800px) {
+  .article-title {
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin: 1.25rem 0 0 0;
+  }
+}
 `
 
 export default (() => ArticleTitle) satisfies QuartzComponentConstructor
