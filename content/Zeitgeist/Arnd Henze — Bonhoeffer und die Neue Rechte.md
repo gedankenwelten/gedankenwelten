@@ -18,6 +18,16 @@ aliases:
 
 # Arnd Henze — Bonhoeffer und die Neue Rechte
 
+![[assets/Arnd-Henze-Bonhoeffer-und-die-Neue-Rechte-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Max Beckmann — Deutscher Expressionismus (1930er Stil)** — Olivgrün, Schwarz, Ocker, Karmessin-Akzente, komprimierter Bühnenraum, schwere Umrisslinien. Triptychon: links die Gefängniszelle (Bonhoeffer, Brille, Buch, Gitterfenster — still), Mitte der Kelch auf bedecktem Tisch (schwarze Tinte wird ausgegossen, gloved hands kippen ihn, rote Flüssigkeit fließt ein), rechts die Menge mit Megafonen und Transparenten, den roten Kelch erhobend, Textfragmente flattern. Beckmann, weil er der einzige ist mit der richtigen protestantischen Schwere ohne Sentimentalität — und weil sein theatralisch-maskierter Bildraum exakt das "Performative" der Symbolvereinnahmung trifft.
+
+*Prompt:* Max Beckmann oil painting style, 1932-1940s German expressionism, 1200x500px horizontal triptych composition. Dark olive greens, black, ocher, accents of crimson and cold white. Compressed theatrical space, no perspective depth, figures pressed against picture plane. Left panel: a lone male figure seated at a table in a bare cell — coat, round glasses, hands resting on a closed book. High barred window above. Calm, interior. No face visible. Center panel: an ornate Protestant chalice standing upright on a draped table. Dark ink pours in from the left. From the right, multiple hands reach in — some gloved, some in shirtsleeves, one with a sleeve emblem — tilting the chalice, pouring the ink out. A red liquid begins to fill it from the right side. The chalice itself is unchanged. Right panel: the same chalice now full of red. A crowd of faceless figures raises it — placards, armbands, megaphones. Above them: floating printed text-fragments, unreadable, torn from their original page. No text in the image. No swastikas or explicit symbols. Heavy outlines, flat compressed space, theatrical lighting from above. No photorealism.
+
+</details>
+
 Quelle: [Bonhoeffer und „Die Neue Rechte" – Ein Gespräch mit Arnd Henze](https://www.youtube.com/watch?v=pXzHAvf5kRU) (Evangelische Akademie Frankfurt, 30. Juni 2021)
 
 > [!info] Wer spricht?
