@@ -199,7 +199,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg|Koshi Politik — Wer profitiert vom Iran-Krieg?]]
 - [[Zeitgeist/Markus Reisner — Strasse von Hormus fragil|Markus Reisner — Lage an der Straße von Hormus ist fragil]]
 - [[Zeitgeist/Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb|Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb]]
-- [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts|MONITOR — Irankrieg und das Ende des Völkerrechts?]]
+- [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts|MONITOR — Irankrieg und das Ende des Völkerrechts?]] — Nicht die Verletzung ist neu — die gab es immer. Neu ist das Schweigen danach: Eine Weltmacht erklärt das Völkerrecht für irrelevant, und niemand kann sie zwingen.
 - [[Zeitgeist/MONITOR — Trumps Milliarden mit der Praesidentschaft|MONITOR — Wie die Trumps Milliarden mit der Präsidentschaft verdienen]]
 - [[Zeitgeist/Natalie Amiri — Hoelle auf Erden im Iran|Natalie Amiri — Hölle auf Erden im Iran]]
 - [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren|Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren?]]
