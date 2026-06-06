@@ -20,6 +20,16 @@ aliases:
 
 # Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren?
 
+![[assets/Nico-Lange-Hat-Trump-die-Kontrolle-ueber-den-Iran-Krieg-verloren-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Honoré Daumier** — politische Lithografie, dramatisches Chiaroscuro, Tiefschwarz auf Sepiagrund, keine realistischen Gesichter. Daumiers Don-Quichotte-Zyklus war das Vorbild: ein Ritter mit erhobener Lanze vor einer Windmühle, Macht gegen das Ungreifbare. Hier: eine Flotte vor einer Drohnenwand — dasselbe Muster, ein anderes Jahrhundert.
+
+*Prompt:* Wide banner 1200×500px. Honoré Daumier lithograph style — dense ink lines, dramatic theatrical chiaroscuro, political allegory without photorealism, no realistic faces, 19th-century French satirical print aesthetic. Left two-thirds: A massive naval fleet in silhouette — aircraft carriers, destroyers, battleships crowded together, bow waves surging — all driving rightward with enormous momentum. The ships are large, powerful, overwhelming. A figure stands at the prow of the lead vessel, arm outstretched, pointing forward in a commanding gesture — coat billowing, posture theatrical and certain, face obscured. Right third: The Strait of Hormuz — a narrow gap between two dark, jagged coastal cliffs. The cliffs are alive with tiny elements: hundreds of miniature drones, rockets, and speedboat silhouettes scattered across every surface, each small, together forming an impenetrable distributed swarm. No single target. The gap itself is barely passable. The fleet's momentum meets this wall and stops. Top center, floating above the scene like a speech bubble: a glowing smartphone screen, disproportionately small against the fleet below, displaying in blocky letters: "48 STUNDEN". A small clock icon beneath it. The screen's glow is the only bright light in the image. Palette: near-monochrome ink — deep charcoal, warm black, aged sepia paper. The smartphone screen: a cold pale-blue glow. No other color. Heavy dramatic shadows from above. The fleet is lit; the strait is dark.
+
+</details>
+
 Quelle: Der Standard Podcast „Thema des Tages", ca. 19.–21. März 2026
 
 > [!info] Wer spricht?
