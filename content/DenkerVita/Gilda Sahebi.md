@@ -6,6 +6,16 @@ tags: [denker-vita, medien, iran, rassismus, autoritarismus]
 
 # Gilda Sahebi — DenkerVita
 
+![[assets/Gilda-Sahebi-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Persische Miniaturmalerei (نگارگری ایرانی)** — Kamal ud-Din Behzad, Tabriz-Schule. Goldgrund, Lapislazuli und Zinnoberrot, ornamentale Rahmenborte, persische Kalligrafie als fließende Vögel. Zentrum: eine gesichtslose Frau in Blau und Rot, ihr Haar verwandelt sich in Flammen und Rosen — das Schwert in ihrer Hand blüht auf. Links: eine brechende Gefängnismauer mit Blitz. Rechts: persischer Garten mit aufsteigendem Wasser. Die Form ehrt die Kultur, der Inhalt bricht sie auf. "Unser Schwert ist Liebe."
+
+*Prompt:* Wide panoramic illustration in the style of Persian miniature painting (نگارگری ایرانی, inspired by Kamal ud-Din Behzad and the Tabriz school) — jewel-like colors, gold leaf accents, flat perspective, lapis lazuli and vermillion palette, intricate floral border elements. Left third: a heavy geometric prison tower in dark umber, cracking along its base with light and lightning leaking through the fissures. Center: a faceless female figure in flowing robes, hair completely unbound and streaming outward — at the very tips of her hair, the strands transform into small flames that become blossoms. In her raised hand: a blade that halfway up its length becomes a flowering branch, petals scattering into the air around her. Right third: a Persian garden opening — a cypress tree, a stone fountain where the water flows upward against gravity. Throughout the composition: flowing calligraphic lines drifting like birds. The gold of the sky is both confinement and promise. No realistic faces, no photorealism. 1200×500px.
+
+</details>
+
 > [!info] Wer spricht?
 > **Gilda Sahebi** (*1984 in Teheran, Iran*) — Journalistin, Autorin, Podcasterin. Deutsch-iranisch, lebt in Berlin.
 >
