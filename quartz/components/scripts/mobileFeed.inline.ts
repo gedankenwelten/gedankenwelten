@@ -170,12 +170,15 @@ function setupSheets(feed: HTMLElement, list: HTMLElement) {
     }
   })
 
-  // Note in einem Sheet öffnen (statt wegzunavigieren) — Inhalt via Fetch laden
-  async function openNote(url: string, _title: string) {
+  // Note in einem Sheet öffnen (statt wegzunavigieren) — Inhalt via Fetch laden.
+  // opts.shuffle blendet den mittigen Weiter-Würfel ein (nur im Shuffle-Modus).
+  async function openNote(url: string, _title: string, opts?: { shuffle?: boolean }) {
     if (!noteSheet) return
     const content = noteSheet.querySelector<HTMLElement>(".mf-note-content")!
     const full = noteSheet.querySelector<HTMLAnchorElement>(".mf-note-full")
     if (full) full.href = url
+    const shuffleBtn = noteSheet.querySelector<HTMLButtonElement>(".mf-note-shuffle")
+    if (shuffleBtn) shuffleBtn.hidden = !opts?.shuffle
     content.innerHTML = `<p class="mf-note-loading">Lädt …</p>`
     openSheet(noteSheet)
     content.scrollTop = 0
@@ -198,6 +201,9 @@ function setupSheets(feed: HTMLElement, list: HTMLElement) {
       content.innerHTML = `<p>Konnte die Note nicht laden.</p>`
     }
   }
+
+  // Würfel-Button (RandomNote) nutzt exakt dasselbe Note-Sheet wie ein Feed-Tap.
+  ;(window as any).gwOpenNote = openNote
 
   // Beschreibungs-Sheet mit Card-Daten füllen
   function openDesc(card: HTMLElement) {
