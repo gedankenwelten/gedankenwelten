@@ -90,6 +90,13 @@ PATTERNS = [
 
 COMPILED = [(re.compile(p), label, sev) for p, label, sev in PATTERNS]
 
+# Bekannt-sichere, fixe Marker, die legitim als HTML-Kommentar vorkommen dürfen
+# (z.B. die Journal-Anker auf der Startseite, gesetzt von build_journal.py).
+ALLOWED_EXACT = {
+    "<!-- JOURNAL:START -->",
+    "<!-- JOURNAL:END -->",
+}
+
 # ---------------------------------------------------------------------------
 # Scanner
 # ---------------------------------------------------------------------------
@@ -105,6 +112,8 @@ def scan_file(path: Path) -> list[tuple[int, str, str, str]]:
 
     for pattern, label, sev in COMPILED:
         for match in pattern.finditer(text):
+            if match.group(0).strip() in ALLOWED_EXACT:
+                continue
             line_no = text[: match.start()].count("\n") + 1
             snippet = match.group(0)[:80].replace("\n", "↵")
             findings.append((line_no, snippet, label, sev))
