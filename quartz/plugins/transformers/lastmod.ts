@@ -17,6 +17,17 @@ const iso8601DateOnlyRegex = /^\d{4}-\d{2}-\d{2}$/
 const germanDateRegex = /^(\d{2})\.(\d{2})\.(\d{4})$/ // DD.MM.YYYY
 
 function coerceDate(fp: string, d: any): Date {
+  // bare year: YAML parses `date: 2016` as the number 2016, which `new Date()`
+  // would read as 2016 milliseconds after epoch (-> 01.01.1970). Treat 4-digit
+  // integers (and "2016" strings) as January 1st of that year. Filesystem
+  // timestamps live in the ~1e12 range, so they are never caught here.
+  if (typeof d === "number" && Number.isInteger(d) && d >= 1000 && d <= 9999) {
+    d = `${d}-01-01T00:00:00`
+  }
+  if (typeof d === "string" && /^\d{4}$/.test(d)) {
+    d = `${d}-01-01T00:00:00`
+  }
+
   // check ISO8601 date-only format
   // we treat this one as local midnight as the normal
   // js date ctor treats YYYY-MM-DD as UTC midnight

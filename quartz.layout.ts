@@ -25,6 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.Banner(),
     Component.TagList(),
     // Graph NUR auf der dedizierten /graph-Ansicht rendern. Auf normalen Notes
     // startete der Graph sonst eine dauerhafte PIXI/WebGL-Render-Schleife und lud

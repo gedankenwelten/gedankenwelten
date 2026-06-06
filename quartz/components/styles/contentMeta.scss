@@ -1,3 +1,5 @@
+@use "../../styles/variables.scss" as *;
+
 .content-meta {
   margin-top: 0;
   color: var(--darkgray);
@@ -10,5 +12,10 @@
         content: ",";
       }
     }
+  }
+
+  @media all and ($mobile) {
+    font-size: 0.85rem;
+    margin-top: 0.25rem;
   }
 }
