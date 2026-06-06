@@ -1,6 +1,7 @@
 ---
 date: 2026-04-10
 title: "Trumps Machtbasis bricht zusammen"
+aktualisiert: 2026-04-13
 tags:
   - zeitgeist
   - usa

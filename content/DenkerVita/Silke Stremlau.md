@@ -1,5 +1,6 @@
 ---
 title: Silke Stremlau — DenkerVita
+aktualisiert: 2026-05-31
 tags: [denker-vita, wirtschaft, nachhaltigkeit, finanzmarkt, transformation, deutschland]
 ---
 

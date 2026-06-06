@@ -1,5 +1,6 @@
 ---
 title: "Evan Osnos — Megayachten und die Seele der Ultrareichen"
+aktualisiert: 2026-04-21
 date: 2026-04-21
 tags:
   - zeitgeist

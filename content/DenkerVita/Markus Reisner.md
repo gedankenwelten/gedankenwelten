@@ -1,5 +1,6 @@
 ---
 title: Markus Reisner — DenkerVita
+aktualisiert: 2026-04-25
 tags: [denker-vita, militär, geopolitik, österreich]
 ---
 

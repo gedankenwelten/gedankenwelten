@@ -1,5 +1,6 @@
 ---
 title: Christoph Möllers — DenkerVita
+aktualisiert: 2026-05-10
 tags: [denker-vita, philosophie, demokratie, deutschland, rechtswissenschaft]
 ---
 

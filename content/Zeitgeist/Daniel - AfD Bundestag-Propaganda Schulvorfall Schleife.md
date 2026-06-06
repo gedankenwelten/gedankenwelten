@@ -1,5 +1,6 @@
 ---
 title: "Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife"
+aktualisiert: 2026-04-24
 date: 2026-04-23
 tags:
   - zeitgeist

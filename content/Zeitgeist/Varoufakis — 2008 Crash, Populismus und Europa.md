@@ -1,5 +1,6 @@
 ---
 title: "Varoufakis — 2008 Crash, Populismus und Europa"
+aktualisiert: 2026-05-17
 date: 03.05.2026
 tags:
   - zeitgeist

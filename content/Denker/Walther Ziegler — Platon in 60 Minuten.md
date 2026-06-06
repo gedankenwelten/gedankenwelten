@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Platon in 60 Minuten"
+aktualisiert: 2026-04-12
 date: 29.03.2024
 tags:
   - denker

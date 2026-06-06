@@ -1,5 +1,6 @@
 ---
 title: "Spahns Maskendeal und das Spendendinner"
+aktualisiert: 2026-05-15
 date: 10.09.2025
 tags:
   - zeitgeist

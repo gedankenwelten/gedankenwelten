@@ -1,5 +1,6 @@
 ---
 title: Paul Lance — DenkerVita
+aktualisiert: 2026-04-22
 tags: [denker-vita, usa, trump, widerstand, demokratie]
 ---
 

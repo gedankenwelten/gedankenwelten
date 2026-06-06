@@ -1,5 +1,6 @@
 ---
 title: John Rawls — DenkerVita
+aktualisiert: 2026-04-27
 tags: [denker-vita, philosophie, gerechtigkeit, ethik, usa]
 ---
 

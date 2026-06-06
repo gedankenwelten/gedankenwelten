@@ -1,5 +1,6 @@
 ---
 title: "Gesine Schwan — Macht NEU DENKEN"
+aktualisiert: 2026-04-21
 date: 2026-01-26
 tags:
   - zeitgeist

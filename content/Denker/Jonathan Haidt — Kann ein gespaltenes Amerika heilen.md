@@ -1,5 +1,6 @@
 ---
 title: "Jonathan Haidt — Kann ein gespaltenes Amerika heilen?"
+aktualisiert: 2026-04-05
 tags:
   - denker
   - stammeslogik

@@ -1,5 +1,6 @@
 ---
 title: "Gert Scobel — Meditation kann gefährlich sein"
+aktualisiert: 2026-05-23
 date: 2026-05-23
 tags:
   - zeitgeist

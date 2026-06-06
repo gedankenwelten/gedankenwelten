@@ -1,5 +1,6 @@
 ---
 title: "Energiewende mit Tücken — Wenn der Versorger die eigene Solaranlage abschaltet"
+aktualisiert: 2026-05-17
 date: 17.05.2025
 tags:
   - zeitgeist

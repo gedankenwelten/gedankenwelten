@@ -1,5 +1,6 @@
 ---
 title: "IT Mario — 40.000 Bundestagsreden analysiert: Welche Partei ist wirklich gefährlich?"
+aktualisiert: 2026-05-24
 date: 21.05.2026
 tags:
   - zeitgeist

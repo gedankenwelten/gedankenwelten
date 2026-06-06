@@ -1,5 +1,6 @@
 ---
 title: Erich Fromm — Haben oder Sein
+aktualisiert: 2026-03-22
 tags:
   - philosophie
   - psychologie

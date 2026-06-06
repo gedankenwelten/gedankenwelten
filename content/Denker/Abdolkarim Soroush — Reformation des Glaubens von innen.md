@@ -1,5 +1,6 @@
 ---
 title: "Abdolkarim Soroush — Reformation des Glaubens von innen"
+aktualisiert: 2026-05-16
 tags:
   - denker
   - philosophie

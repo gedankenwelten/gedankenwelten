@@ -1,5 +1,6 @@
 ---
 title: Götz Aly — DenkerVita
+aktualisiert: 2026-05-03
 tags: [denker-vita, geschichte, nationalsozialismus]
 ---
 

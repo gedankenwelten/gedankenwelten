@@ -1,5 +1,6 @@
 ---
 title: "Sudan: Humanitäre Lage und DRK-Einsatz — Christof Johnen (phoenix)"
+aktualisiert: 2026-04-16
 date: 2026-04-15
 tags:
   - zeitgeist

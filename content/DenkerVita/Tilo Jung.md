@@ -1,5 +1,6 @@
 ---
 title: Tilo Jung — DenkerVita
+aktualisiert: 2026-04-25
 tags: [denker-vita, journalismus, demokratie, kapitalismus]
 ---
 

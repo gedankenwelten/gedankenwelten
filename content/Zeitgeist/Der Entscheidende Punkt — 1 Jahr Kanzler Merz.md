@@ -1,5 +1,6 @@
 ---
 title: "Der Entscheidende Punkt — 1 Jahr Kanzler Merz"
+aktualisiert: 2026-05-10
 date: 10.05.2026
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Francesca Bria — The Authoritarian Stack"
+aktualisiert: 2026-04-05
 tags:
   - denker
   - tech-macht

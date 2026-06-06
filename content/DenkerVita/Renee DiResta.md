@@ -1,5 +1,6 @@
 ---
 title: Renée DiResta — DenkerVita
+aktualisiert: 2026-04-29
 tags: [denker-vita, propaganda, medien, desinformation, usa]
 ---
 

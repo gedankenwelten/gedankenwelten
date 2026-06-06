@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - trump

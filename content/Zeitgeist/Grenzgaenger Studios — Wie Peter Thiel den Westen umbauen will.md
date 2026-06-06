@@ -1,5 +1,6 @@
 ---
 title: "Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will"
+aktualisiert: 2026-05-11
 date: 10.05.2026
 tags:
   - zeitgeist

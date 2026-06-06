@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Trump gegen Papst Leo"
+aktualisiert: 2026-04-14
 date: 2026-04-14
 tags:
   - zeitgeist

@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koshi Politik — Truth Social 13: Supreme Court und Zölle"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - trump

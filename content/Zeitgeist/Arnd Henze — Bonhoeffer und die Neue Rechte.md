@@ -1,5 +1,6 @@
 ---
 title: "Arnd Henze — Bonhoeffer und die Neue Rechte"
+aktualisiert: 2026-05-16
 date: 30.06.2021
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "MONITOR — Abschiebungen vs. Fachkräfte"
+aktualisiert: 2026-04-14
 date: 2026-03-26
 tags:
   - zeitgeist

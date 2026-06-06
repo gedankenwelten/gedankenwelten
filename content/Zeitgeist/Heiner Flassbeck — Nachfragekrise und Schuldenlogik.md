@@ -1,5 +1,6 @@
 ---
 title: "Heiner Flassbeck — Nachfragekrise und Schuldenlogik"
+aktualisiert: 2026-04-25
 date: 2026-04-02
 tags:
   - zeitgeist

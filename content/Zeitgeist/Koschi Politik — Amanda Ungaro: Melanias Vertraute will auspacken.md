@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken"
+aktualisiert: 2026-04-13
 date: 2026-04-13
 tags:
   - zeitgeist

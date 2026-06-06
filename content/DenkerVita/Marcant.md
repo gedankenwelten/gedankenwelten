@@ -1,5 +1,6 @@
 ---
 title: Marcant — DenkerVita
+aktualisiert: 2026-05-24
 tags: [denker-vita, deutschland, rechtsextremismus, deradikalisierung, youtube, aktivismus]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Natalie Amiri — Hölle auf Erden im Iran"
+aktualisiert: 2026-04-30
 date: 2026-04-17
 tags:
   - zeitgeist

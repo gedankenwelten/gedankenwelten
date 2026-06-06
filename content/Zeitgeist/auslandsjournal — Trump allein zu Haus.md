@@ -1,5 +1,6 @@
 ---
 title: "Trump allein zu Haus — Das One-and-Done-Syndrom"
+aktualisiert: 2026-06-01
 date: 01.06.2026
 tags:
   - zeitgeist

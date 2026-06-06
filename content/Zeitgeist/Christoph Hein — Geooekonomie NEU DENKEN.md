@@ -1,5 +1,6 @@
 ---
 title: "Christoph Hein — Geoökonomie NEU DENKEN"
+aktualisiert: 2026-05-13
 date: 13.05.2026
 tags:
   - zeitgeist

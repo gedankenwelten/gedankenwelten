@@ -1,6 +1,7 @@
 ---
 date: 2026-03-24
 title: "Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - trump

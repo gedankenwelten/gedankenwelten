@@ -1,5 +1,6 @@
 ---
 title: Valentina Chiofalo — DenkerVita
+aktualisiert: 2026-05-20
 tags: [denker-vita, recht, demokratie, deutschland, feminismus, antidiskriminierung]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Jürgen Habermas — DenkerVita
+aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, kritische-theorie, sprache, demokratie, deutschland]
 ---
 

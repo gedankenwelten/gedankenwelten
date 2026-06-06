@@ -1,5 +1,6 @@
 ---
 title: "Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft"
+aktualisiert: 2026-05-16
 date: 15.05.2026
 tags:
   - zeitgeist

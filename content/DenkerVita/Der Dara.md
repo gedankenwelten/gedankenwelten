@@ -1,5 +1,6 @@
 ---
 title: Der Dara — DenkerVita
+aktualisiert: 2026-05-13
 tags: [denker-vita, politik, youtube, deutschland]
 aliases:
   - Dara Marc Sasmaz

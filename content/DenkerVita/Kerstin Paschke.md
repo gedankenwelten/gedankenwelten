@@ -1,5 +1,6 @@
 ---
 title: Kerstin Paschke — DenkerVita
+aktualisiert: 2026-06-03
 tags: [denker-vita, psychologie, medien, deutschland]
 ---
 

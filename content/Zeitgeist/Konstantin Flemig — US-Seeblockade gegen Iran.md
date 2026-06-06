@@ -1,5 +1,6 @@
 ---
 title: "Konstantin Flemig — US-Seeblockade gegen Iran"
+aktualisiert: 2026-04-14
 date: 2026-04-13
 tags:
   - zeitgeist

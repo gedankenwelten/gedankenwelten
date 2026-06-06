@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Weißes Haus löscht Trumps Privatvideo"
+aktualisiert: 2026-04-13
 date: 2026-04-13
 tags:
   - zeitgeist

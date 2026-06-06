@@ -1,5 +1,6 @@
 ---
 title: Arnd Henze — DenkerVita
+aktualisiert: 2026-05-16
 tags: [denker-vita, demokratie, rechtsextremismus, medien, deutschland]
 ---
 

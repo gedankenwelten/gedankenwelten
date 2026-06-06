@@ -1,5 +1,6 @@
 ---
 title: Dietrich Bonhoeffer — Theorie der Dummheit
+aktualisiert: 2026-03-22
 tags:
   - philosophie
   - psychologie

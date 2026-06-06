@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Freud in 60 Minuten"
+aktualisiert: 2026-05-09
 date: 02.10.2025
 tags:
   - denker

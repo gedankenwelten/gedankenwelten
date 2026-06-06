@@ -80,17 +80,13 @@ Die Gedankenwelten (luc)
 
 ### Gedanken
 
-> **31.05.** — [[Gedanken/Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie 2|Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie]]
->
-> Goethes Zauberlehrling als Parabel aufs Vibe Coding: Wer Magie ruft, ohne sie zu verstehen, verliert die Kontrolle über die Geister, die er rief.
-
 > **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
 >
 > Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
 
-> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
->
-> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
+> **24.05.** — [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein|Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+
+> **24.05.** — [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden|Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden]]
 
 <!-- JOURNAL:END -->
 

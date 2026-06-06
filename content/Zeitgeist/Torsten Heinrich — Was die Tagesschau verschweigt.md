@@ -1,5 +1,6 @@
 ---
 title: "Torsten Heinrich — Was dir die Tagesschau verschweigt"
+aktualisiert: 2026-04-25
 date: 2026-04-25
 tags:
   - zeitgeist

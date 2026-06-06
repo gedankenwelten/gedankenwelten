@@ -1,5 +1,6 @@
 ---
 title: Panorama
+aktualisiert: 2026-06-06
 tags:
   - panorama
 ---

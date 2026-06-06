@@ -1,5 +1,6 @@
 ---
 title: Christine Dankbar — DenkerVita
+aktualisiert: 2026-06-02
 tags: [denker-vita, medien, deutschland, demokratie]
 ---
 

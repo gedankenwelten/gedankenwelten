@@ -1,5 +1,6 @@
 ---
 title: "Gerald Hüther — Lebendigkeit und das Ende der Hierarchien"
+aktualisiert: 2026-04-28
 tags:
   - denker
   - philosophie

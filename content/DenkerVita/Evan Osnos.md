@@ -1,5 +1,6 @@
 ---
 title: Evan Osnos — DenkerVita
+aktualisiert: 2026-04-21
 tags: [denker-vita, kapitalismus, oligarchie, usa]
 ---
 

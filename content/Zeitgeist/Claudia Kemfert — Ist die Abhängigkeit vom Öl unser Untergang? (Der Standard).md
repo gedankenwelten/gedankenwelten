@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - energie

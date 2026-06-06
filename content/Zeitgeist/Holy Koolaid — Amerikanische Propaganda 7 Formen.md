@@ -1,5 +1,6 @@
 ---
 title: "Holy Koolaid — Amerikanische Propaganda: 7 Formen, die du nie hinterfragt hast"
+aktualisiert: 2026-06-02
 description: "Was als „Land of the Free“ verkauft wird, hält der Prüfung nicht stand: sieben Formen amerikanischer Propaganda, empirisch zerlegt."
 date: 02.06.2026
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke"
+aktualisiert: 2026-04-15
 date: 12.04.2026
 tags:
   - denker

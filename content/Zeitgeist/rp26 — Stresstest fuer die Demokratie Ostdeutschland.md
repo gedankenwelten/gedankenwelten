@@ -1,5 +1,6 @@
 ---
 title: "rp26 — Stresstest für die Demokratie: Sind wir bereit für den Ernstfall in Ostdeutschland?"
+aktualisiert: 2026-05-25
 date: 25.05.2026
 tags:
   - zeitgeist

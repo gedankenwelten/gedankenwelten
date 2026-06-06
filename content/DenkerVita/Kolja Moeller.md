@@ -1,5 +1,6 @@
 ---
 title: Kolja Möller — DenkerVita
+aktualisiert: 2026-05-30
 tags: [denker-vita, demokratie, populismus, politikwissenschaft, deutschland]
 ---
 

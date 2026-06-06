@@ -1,5 +1,6 @@
 ---
 title: Konfuzius — DenkerVita
+aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, ethik, china]
 ---
 

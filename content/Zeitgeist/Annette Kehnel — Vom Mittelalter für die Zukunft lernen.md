@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Annette Kehnel — Vom Mittelalter für die Zukunft lernen"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - mittelalter

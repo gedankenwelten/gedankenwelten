@@ -1,5 +1,6 @@
 ---
 title: "Erich Fromm — Menschliches Wachstum"
+aktualisiert: 2026-04-25
 date: 25.04.2026
 tags:
   - denker

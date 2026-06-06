@@ -1,4 +1,5 @@
 ---
+aktualisiert: 2026-05-14
 author: Andreas
 date: 2026-05-14
 tags: [persönlich, welt]

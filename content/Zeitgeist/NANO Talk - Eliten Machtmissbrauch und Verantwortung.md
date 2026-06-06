@@ -1,5 +1,6 @@
 ---
 title: "NANO Talk — Eliten: Zwischen Machtmissbrauch und Verantwortung"
+aktualisiert: 2026-05-30
 date: 28.05.2026
 tags:
   - zeitgeist

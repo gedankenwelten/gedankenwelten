@@ -1,5 +1,6 @@
 ---
 title: "Gilda Sahebi und Arne Semsrott — GCA #33: Liegenddemos, Schwarz-Rot, Sea-Watch"
+aktualisiert: 2026-05-15
 date: 13.05.2026
 tags:
   - zeitgeist

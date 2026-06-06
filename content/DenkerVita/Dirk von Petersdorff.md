@@ -1,5 +1,6 @@
 ---
 title: Dirk von Petersdorff — DenkerVita
+aktualisiert: 2026-04-29
 tags: [denker-vita, literaturwissenschaft, lyrik, ironie]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Katharina Nocun — DenkerVita
+aktualisiert: 2026-05-19
 tags: [denker-vita, datenschutz, verschwörungstheorien, esoterismus, ai, desinformation, deutschland]
 ---
 

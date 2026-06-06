@@ -1,5 +1,6 @@
 ---
 title: Franziska Görlitz — DenkerVita
+aktualisiert: 2026-05-21
 tags:
   - denker-vita
   - überwachung

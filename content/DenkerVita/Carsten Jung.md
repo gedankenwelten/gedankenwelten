@@ -1,5 +1,6 @@
 ---
 title: Carsten Jung — DenkerVita
+aktualisiert: 2026-06-03
 tags: [denker-vita, ki, industriepolitik, oekonomie, oekonomische-politik, vereinigtes-koenigreich]
 ---
 

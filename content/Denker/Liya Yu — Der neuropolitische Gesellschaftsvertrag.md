@@ -1,5 +1,6 @@
 ---
 title: "Liya Yu — Der neuropolitische Gesellschaftsvertrag"
+aktualisiert: 2026-04-29
 tags:
   - denker
   - neurowissenschaften

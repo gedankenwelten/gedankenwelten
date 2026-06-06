@@ -1,5 +1,6 @@
 ---
 title: "Paul Lance — Amerikaner fragt Deutsche über Trump"
+aktualisiert: 2026-04-22
 date: 2026-04-21
 tags:
   - zeitgeist

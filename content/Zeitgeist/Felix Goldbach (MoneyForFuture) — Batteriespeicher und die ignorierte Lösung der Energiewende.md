@@ -1,5 +1,6 @@
 ---
 title: "Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende"
+aktualisiert: 2026-04-06
 date: 2026-04-06
 tags:
   - zeitgeist

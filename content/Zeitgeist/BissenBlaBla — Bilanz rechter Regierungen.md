@@ -1,5 +1,6 @@
 ---
 title: "BissenBlaBla — Bilanz rechter Regierungen"
+aktualisiert: 2026-05-19
 date: 18.05.2026
 tags:
   - zeitgeist

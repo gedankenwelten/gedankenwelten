@@ -1,5 +1,6 @@
 ---
 title: "Welche Freiheit wollen wir? — Möllers trifft Poschardt"
+aktualisiert: 2026-05-10
 date: 24.06.2025
 tags:
   - zeitgeist

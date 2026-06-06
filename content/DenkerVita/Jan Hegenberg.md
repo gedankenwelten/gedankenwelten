@@ -1,5 +1,6 @@
 ---
 title: Jan Hegenberg — DenkerVita
+aktualisiert: 2026-05-11
 tags: [denker-vita, energiepolitik, deutschland, wirtschaft, geopolitik]
 ---
 

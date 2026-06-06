@@ -1,5 +1,6 @@
 ---
 title: Darin L. Gerdes — DenkerVita
+aktualisiert: 2026-04-25
 tags: [denker-vita, geopolitik, ukraine, leadership]
 ---
 

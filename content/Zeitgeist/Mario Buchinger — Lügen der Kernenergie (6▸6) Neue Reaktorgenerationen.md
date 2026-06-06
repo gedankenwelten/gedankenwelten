@@ -1,6 +1,7 @@
 ---
 date: 2026-03-27
 title: "Mario Buchinger — Lügen der Kernenergie (6/6): Neue Reaktorgenerationen lösen alle Probleme"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - kernenergie

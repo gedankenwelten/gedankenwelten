@@ -1,5 +1,6 @@
 ---
 title: Panorama — Übersicht
+aktualisiert: 2026-04-27
 tags:
   - meta
   - panorama

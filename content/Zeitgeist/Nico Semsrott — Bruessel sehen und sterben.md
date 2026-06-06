@@ -1,5 +1,6 @@
 ---
 title: "Nico Semsrott — Brüssel sehen und sterben"
+aktualisiert: 2026-05-07
 date: 07.05.2026
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: Denker
+aktualisiert: 2026-06-06
 ---
 
 # Denker

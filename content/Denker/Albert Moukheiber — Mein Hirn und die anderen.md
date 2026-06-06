@@ -1,5 +1,6 @@
 ---
 title: "Albert Moukheiber — Mein Hirn und die anderen (2/2)"
+aktualisiert: 2026-04-16
 date: 17.04.2026
 tags:
   - denker

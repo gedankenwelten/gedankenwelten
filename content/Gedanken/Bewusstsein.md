@@ -1,5 +1,6 @@
 ---
 title: "Bewusstsein"
+aktualisiert: 2026-05-07
 date: 2026-05-06
 tags:
   - gedanke

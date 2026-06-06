@@ -1,5 +1,6 @@
 ---
 title: "Rebecca Böhme — So trickst du dein Gehirn aus"
+aktualisiert: 2026-05-02
 date: 02.05.2026
 tags:
   - zeitgeist

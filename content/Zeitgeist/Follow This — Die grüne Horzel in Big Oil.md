@@ -1,5 +1,6 @@
 ---
 title: "Follow This — Die grüne Horzel in Big Oil"
+aktualisiert: 2026-04-28
 date: 2026-04-28
 tags:
   - zeitgeist

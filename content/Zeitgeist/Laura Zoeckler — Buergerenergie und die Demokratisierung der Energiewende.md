@@ -1,5 +1,6 @@
 ---
 title: "Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende"
+aktualisiert: 2026-04-28
 date: 2026-04-28
 tags:
   - zeitgeist

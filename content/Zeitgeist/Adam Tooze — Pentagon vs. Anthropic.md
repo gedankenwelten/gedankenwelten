@@ -1,6 +1,7 @@
 ---
 date: 2026-03-30
 title: "Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - ki

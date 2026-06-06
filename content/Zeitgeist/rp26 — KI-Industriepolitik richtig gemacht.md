@@ -1,5 +1,6 @@
 ---
 title: "rp26 — KI-Industriepolitik richtig gemacht"
+aktualisiert: 2026-06-03
 description: "Marktkonzentration, Fragilität, Subventionen — kein freier KI-Markt. „AI Directionism“ als Gegenmodell: die Anwendung lenken, nicht nur Infrastruktur bauen."
 date: 20.05.2026
 tags:

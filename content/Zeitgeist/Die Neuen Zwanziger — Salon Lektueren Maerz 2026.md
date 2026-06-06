@@ -1,5 +1,6 @@
 ---
 title: "Die Neuen Zwanziger — Salon Lektüren März 2026"
+aktualisiert: 2026-04-25
 date: 2026-04-09
 tags:
   - zeitgeist

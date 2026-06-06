@@ -1,5 +1,6 @@
 ---
 title: "Dirk von Petersdorff & Niclas Seydack — Wie wir unsere Leichtigkeit retten"
+aktualisiert: 2026-04-29
 date: 2026-04-29
 tags:
   - zeitgeist

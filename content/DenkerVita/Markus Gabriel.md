@@ -1,5 +1,6 @@
 ---
 title: Markus Gabriel — DenkerVita
+aktualisiert: 2026-04-30
 tags: [denker-vita, philosophie, ethik, neuer-realismus, deutschland]
 ---
 

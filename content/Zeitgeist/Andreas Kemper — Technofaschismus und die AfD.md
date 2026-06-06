@@ -1,6 +1,7 @@
 ---
 date: 2026-04-02
 title: Andreas Kemper — Technofaschismus und die AfD
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - politik

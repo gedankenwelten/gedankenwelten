@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Smith in 60 Minuten"
+aktualisiert: 2026-04-26
 date: 2026-04-26
 tags:
   - denker

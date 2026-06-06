@@ -1,5 +1,6 @@
 ---
 title: "Good News — Gute Nachrichten Mai 2026 Teil 2"
+aktualisiert: 2026-05-26
 date: 26.05.2026
 tags:
   - goodnews

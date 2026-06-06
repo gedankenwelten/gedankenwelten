@@ -1,5 +1,6 @@
 ---
 title: "Dominik Finkelde — Nietzsche: Über Wahrheit und Lüge"
+aktualisiert: 2026-05-02
 date: 2026-05-02
 tags:
   - denker

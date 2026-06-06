@@ -1,5 +1,6 @@
 ---
 title: "Hartwin Maas — Bildung NEU DENKEN"
+aktualisiert: 2026-04-11
 date: 2026-04-11
 tags:
   - zeitgeist

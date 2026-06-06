@@ -1,5 +1,6 @@
 ---
 title: "Tim Meyer und Jan Hegenberg — In China lachen sie über unsere Energiewende"
+aktualisiert: 2026-05-11
 date: 11.05.2026
 tags:
   - zeitgeist

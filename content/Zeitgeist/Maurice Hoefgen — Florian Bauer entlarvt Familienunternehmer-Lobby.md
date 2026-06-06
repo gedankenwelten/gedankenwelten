@@ -1,5 +1,6 @@
 ---
 title: "Maurice Höfgen — Florian Bauer entlarvt Familienunternehmer-Lobby"
+aktualisiert: 2026-05-19
 date: 17.05.2026
 tags:
   - zeitgeist

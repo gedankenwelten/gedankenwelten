@@ -1,5 +1,6 @@
 ---
 title: "Immanuel Kant — Was ist Aufklärung?"
+aktualisiert: 2026-04-11
 tags:
   - denker
   - philosophie

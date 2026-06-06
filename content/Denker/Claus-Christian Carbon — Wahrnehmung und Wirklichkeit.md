@@ -1,5 +1,6 @@
 ---
 title: Claus-Christian Carbon — Wahrnehmung und Wirklichkeit
+aktualisiert: 2026-03-22
 tags:
   - philosophie
   - psychologie

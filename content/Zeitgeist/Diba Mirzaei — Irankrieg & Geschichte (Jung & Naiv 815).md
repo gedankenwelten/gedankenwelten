@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - iran

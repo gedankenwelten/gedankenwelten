@@ -1,5 +1,6 @@
 ---
 title: "Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)"
+aktualisiert: 2026-04-13
 date: 2026-04-12
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Klaus Dörre — Klassen, Kapitalismus & Demokratie"
+aktualisiert: 2026-05-17
 date: 20.11.2025
 tags:
   - zeitgeist

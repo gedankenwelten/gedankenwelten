@@ -1,6 +1,7 @@
 ---
 date: 2026-03-25
 title: "Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - verschwörungstheorie

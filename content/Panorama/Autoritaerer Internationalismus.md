@@ -1,5 +1,6 @@
 ---
 title: "Autoritärer Internationalismus — Die globale Rechte"
+aktualisiert: 2026-04-27
 tags:
   - panorama
   - faschismus

@@ -1,5 +1,6 @@
 ---
 title: "Claude — Analyse zu Gefangene des Systems"
+aktualisiert: 2026-04-18
 date: 2026-04-18
 tags:
   - gedanke

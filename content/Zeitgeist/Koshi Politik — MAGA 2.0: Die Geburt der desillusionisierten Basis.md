@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - trump

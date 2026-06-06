@@ -1,5 +1,6 @@
 ---
 title: Frederike Kaltheuner — DenkerVita
+aktualisiert: 2026-06-03
 tags: [denker-vita, ki, industriepolitik, europa, technologie-politik, marktkonzentration]
 ---
 

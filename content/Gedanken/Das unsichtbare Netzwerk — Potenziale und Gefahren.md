@@ -1,5 +1,6 @@
 ---
 title: "Das unsichtbare Netzwerk — Potenziale und Gefahren"
+aktualisiert: 2026-05-24
 description: "Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt."
 date: 2026-05-24
 tags:

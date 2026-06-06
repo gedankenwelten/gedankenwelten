@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Nietzsche in 60 Minuten"
+aktualisiert: 2026-04-12
 date: 22.02.2018
 tags:
   - denker

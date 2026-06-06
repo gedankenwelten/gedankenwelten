@@ -1,5 +1,6 @@
 ---
 title: "Matthias Quent und Maja Göpel — Extremismus NEU DENKEN"
+aktualisiert: 2026-05-13
 date: 13.05.2026
 tags:
   - zeitgeist

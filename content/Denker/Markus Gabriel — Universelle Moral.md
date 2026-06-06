@@ -1,5 +1,6 @@
 ---
 title: "Markus Gabriel — Kann es eine universelle Moral geben?"
+aktualisiert: 2026-04-30
 date: 30.04.2026
 tags:
   - denker

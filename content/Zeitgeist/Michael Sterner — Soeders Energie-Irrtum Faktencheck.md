@@ -1,5 +1,6 @@
 ---
 title: "Michael Sterner — Söders Energie-Irrtum: Faktencheck"
+aktualisiert: 2026-05-10
 date: 10.05.2026
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: Helen Keller — DenkerVita
+aktualisiert: 2026-04-22
 tags: [denker-vita, völkerrecht, philosophie, demokratie, geopolitik, schweiz]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Hartmut Rosa — Resonanz und Unverfügbarkeit
+aktualisiert: 2026-03-22
 tags:
   - philosophie
   - soziologie

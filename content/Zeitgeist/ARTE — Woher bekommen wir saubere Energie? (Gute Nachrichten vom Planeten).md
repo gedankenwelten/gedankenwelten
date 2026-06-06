@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - erneuerbare-energien

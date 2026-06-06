@@ -1,5 +1,6 @@
 ---
 title: Dominik Finkelde — DenkerVita
+aktualisiert: 2026-05-02
 tags: [denker-vita, philosophie, poststrukturalismus]
 ---
 

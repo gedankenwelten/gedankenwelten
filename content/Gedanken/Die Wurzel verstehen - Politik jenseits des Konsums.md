@@ -1,5 +1,6 @@
 ---
 title: "Die Wurzel verstehen — Politik jenseits des Konsums"
+aktualisiert: 2026-05-17
 date: 2026-05-17
 tags:
   - gedanke

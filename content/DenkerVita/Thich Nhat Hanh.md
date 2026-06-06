@@ -1,5 +1,6 @@
 ---
 title: Thich Nhat Hanh — DenkerVita
+aktualisiert: 2026-04-20
 tags: [denker-vita, buddhismus, vipassana, meditation, interbeing, engaged-buddhism]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2026-04-02
 title: "Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - rassismus

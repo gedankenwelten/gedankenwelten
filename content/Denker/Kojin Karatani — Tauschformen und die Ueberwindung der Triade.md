@@ -1,5 +1,6 @@
 ---
 title: "Kojin Karatani — Tauschformen und die Überwindung der Triade"
+aktualisiert: 2026-05-15
 tags:
   - denker
   - philosophie

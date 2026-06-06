@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Good News — Positive Nachrichten März 2026"
+aktualisiert: 2026-04-05
 tags:
   - goodnews
   - umwelt

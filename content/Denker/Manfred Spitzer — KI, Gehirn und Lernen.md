@@ -1,5 +1,6 @@
 ---
 title: Manfred Spitzer — KI, Gehirn und Lernen
+aktualisiert: 2026-03-22
 tags:
   - neurowissenschaften
   - lernen

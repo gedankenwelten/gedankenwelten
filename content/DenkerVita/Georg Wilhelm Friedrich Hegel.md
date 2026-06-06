@@ -1,5 +1,6 @@
 ---
 title: Georg Wilhelm Friedrich Hegel — DenkerVita
+aktualisiert: 2026-04-26
 tags:
   - denker-vita
   - philosophie

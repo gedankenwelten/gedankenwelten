@@ -1,5 +1,6 @@
 ---
 title: Gert Scobel — DenkerVita
+aktualisiert: 2026-05-23
 tags:
   - denker-vita
   - philosophie

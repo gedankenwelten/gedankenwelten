@@ -1,5 +1,6 @@
 ---
 title: "Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz"
+aktualisiert: 2026-05-01
 date: 2026-05-01
 tags:
   - zeitgeist

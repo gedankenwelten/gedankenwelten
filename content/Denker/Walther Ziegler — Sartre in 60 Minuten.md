@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Sartre in 60 Minuten"
+aktualisiert: 2026-04-12
 date: 12.04.2026
 tags:
   - denker

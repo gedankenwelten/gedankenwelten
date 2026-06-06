@@ -1,5 +1,6 @@
 ---
 title: Christoph Butterwegge — DenkerVita
+aktualisiert: 2026-06-02
 tags: [denker-vita, soziale-ungleichheit, armut, kapitalismus, deutschland]
 ---
 

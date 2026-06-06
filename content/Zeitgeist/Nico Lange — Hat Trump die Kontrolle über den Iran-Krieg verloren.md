@@ -1,6 +1,7 @@
 ---
 date: 2026-03-30
 title: "Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren?"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - iran

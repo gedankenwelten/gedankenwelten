@@ -1,5 +1,6 @@
 ---
 title: Maren Urner — DenkerVita
+aktualisiert: 2026-06-05
 tags: [denker-vita, psychologie, medien, demokratie, deutschland]
 ---
 

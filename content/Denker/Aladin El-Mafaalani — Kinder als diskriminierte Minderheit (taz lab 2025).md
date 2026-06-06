@@ -1,5 +1,6 @@
 ---
 title: "Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)"
+aktualisiert: 2026-04-05
 tags:
   - denker
   - soziologie

@@ -1,5 +1,6 @@
 ---
 title: "Jung & Naiv — 1 Jahr Kanzler Merz"
+aktualisiert: 2026-05-10
 date: 06.05.2026
 tags:
   - zeitgeist

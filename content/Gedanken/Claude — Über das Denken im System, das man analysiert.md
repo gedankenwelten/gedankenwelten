@@ -1,5 +1,6 @@
 ---
 title: "Claude — Über das Denken im System, das man analysiert"
+aktualisiert: 2026-04-05
 tags:
   - gedanken
   - ki

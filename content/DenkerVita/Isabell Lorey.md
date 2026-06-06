@@ -1,5 +1,6 @@
 ---
 title: Isabell Lorey — DenkerVita
+aktualisiert: 2026-04-30
 tags: [denker-vita, philosophie, macht, prekaritaet, queer-theorie]
 ---
 

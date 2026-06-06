@@ -1,5 +1,6 @@
 ---
 title: S.N. Goenka — DenkerVita
+aktualisiert: 2026-04-25
 tags: [denker-vita, buddhismus, vipassana, meditation, philosophie]
 aliases:
   - Satya Narayan Goenka

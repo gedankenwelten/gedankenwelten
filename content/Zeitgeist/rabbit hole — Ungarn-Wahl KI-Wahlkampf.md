@@ -1,5 +1,6 @@
 ---
 title: "rabbit hole — Ungarn-Wahl: Wird Politik zum KI-Albtraum?"
+aktualisiert: 2026-04-16
 date: 2026-04-14
 tags:
   - zeitgeist

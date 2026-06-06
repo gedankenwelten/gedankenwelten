@@ -1,5 +1,6 @@
 ---
 title: "Zhao Tingyang — Verbales Denken und Neo-Aufklärung"
+aktualisiert: 2026-05-16
 date: 16.05.2026
 tags:
   - denker

@@ -1,5 +1,6 @@
 ---
 title: "MONITOR — Wie die Trumps Milliarden mit der Präsidentschaft verdienen"
+aktualisiert: 2026-05-05
 date: 17.04.2026
 tags:
   - zeitgeist

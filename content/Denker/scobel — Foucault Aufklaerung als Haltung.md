@@ -1,5 +1,6 @@
 ---
 title: "scobel — Foucault: Aufklärung als Haltung"
+aktualisiert: 2026-04-19
 date: 19.04.2026
 tags:
   - denker

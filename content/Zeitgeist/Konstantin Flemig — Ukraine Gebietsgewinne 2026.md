@@ -1,5 +1,6 @@
 ---
 title: "Konstantin Flemig — Ukraine Gebietsgewinne 2026"
+aktualisiert: 2026-04-12
 date: 2026-04-12
 tags:
   - zeitgeist

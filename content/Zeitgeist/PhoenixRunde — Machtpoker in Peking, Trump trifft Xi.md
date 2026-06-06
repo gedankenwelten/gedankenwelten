@@ -1,5 +1,6 @@
 ---
 title: "PhoenixRunde — Machtpoker in Peking: Trump trifft Xi"
+aktualisiert: 2026-05-17
 date: 17.05.2026
 tags:
   - zeitgeist

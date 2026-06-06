@@ -1,5 +1,6 @@
 ---
 title: "Dirk Specht — Strom, Merit Order und Großbatterien"
+aktualisiert: 2026-05-10
 date: 18.01.2026
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Bernhard Pörksen und Maja Göpel — Debatte NEU DENKEN"
+aktualisiert: 2026-04-26
 date: 2026-04-25
 tags:
   - zeitgeist

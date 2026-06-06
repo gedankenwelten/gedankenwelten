@@ -1,5 +1,6 @@
 ---
 title: "Markus Gabriel — KI als Resonanzfeld und Mu"
+aktualisiert: 2026-05-09
 date: 07.05.2026
 tags:
   - zeitgeist

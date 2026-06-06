@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Popper in 60 Minuten"
+aktualisiert: 2026-05-09
 date: 09.05.2026
 tags:
   - denker

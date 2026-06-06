@@ -1,5 +1,6 @@
 ---
 title: "Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht"
+aktualisiert: 2026-04-30
 date: 2026-04-30
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: Vipassana — Dukkha
+aktualisiert: 2026-04-05
 tags:
   - vipassana
   - leiden

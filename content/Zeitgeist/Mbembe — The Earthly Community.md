@@ -1,5 +1,6 @@
 ---
 title: "Achille Mbembe — The Earthly Community"
+aktualisiert: 2026-05-15
 date: 05.06.2024
 tags:
   - zeitgeist

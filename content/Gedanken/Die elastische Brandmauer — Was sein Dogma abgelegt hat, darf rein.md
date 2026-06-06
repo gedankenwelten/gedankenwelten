@@ -1,5 +1,6 @@
 ---
 title: "Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein"
+aktualisiert: 2026-05-24
 date: 2026-05-24
 tags:
   - gedanke

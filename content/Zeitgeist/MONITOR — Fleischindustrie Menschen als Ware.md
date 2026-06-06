@@ -1,5 +1,6 @@
 ---
 title: "MONITOR — Wie die Fleischindustrie Menschen zur Ware macht"
+aktualisiert: 2026-05-05
 date: 2026-04-20
 tags:
   - zeitgeist

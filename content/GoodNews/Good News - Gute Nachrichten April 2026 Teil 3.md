@@ -1,6 +1,7 @@
 ---
 date: 2026-04-26
 title: "Good News — Gute Nachrichten April 2026 (Teil 2)"
+aktualisiert: 2026-04-26
 description: "Gute Nachrichten aus Umwelt, Gesundheit und Gesellschaft — der Beweis, dass die Welt nicht nur aus Krisen besteht."
 tags:
   - goodnews

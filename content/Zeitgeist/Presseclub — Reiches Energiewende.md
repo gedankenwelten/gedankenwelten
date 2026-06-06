@@ -1,5 +1,6 @@
 ---
 title: "Presseclub — Reiches Energiewende: Rolle rückwärts oder wirtschaftlich vernünftig?"
+aktualisiert: 2026-04-27
 date: 2026-04-27
 tags:
   - zeitgeist

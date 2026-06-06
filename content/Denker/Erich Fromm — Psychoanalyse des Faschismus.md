@@ -1,5 +1,6 @@
 ---
 title: Erich Fromm — Psychoanalyse des Faschismus
+aktualisiert: 2026-04-26
 tags:
   - denker
   - philosophie

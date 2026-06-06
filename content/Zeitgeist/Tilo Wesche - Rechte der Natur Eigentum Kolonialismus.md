@@ -1,5 +1,6 @@
 ---
 title: "Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus"
+aktualisiert: 2026-05-29
 date: 29.05.2026
 tags:
   - zeitgeist

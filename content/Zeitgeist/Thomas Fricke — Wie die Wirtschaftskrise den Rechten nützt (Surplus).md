@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - populismus

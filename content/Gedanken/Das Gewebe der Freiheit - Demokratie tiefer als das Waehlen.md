@@ -1,5 +1,6 @@
 ---
 title: "Das Gewebe der Freiheit — Demokratie tiefer als das Wählen"
+aktualisiert: 2026-05-17
 date: 2026-05-17
 tags:
   - gedanke

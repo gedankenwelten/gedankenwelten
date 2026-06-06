@@ -1,5 +1,6 @@
 ---
 title: "Heinz Bude — Gesellschaft der Angst"
+aktualisiert: 2026-05-05
 date: 19.11.2014
 tags:
   - zeitgeist

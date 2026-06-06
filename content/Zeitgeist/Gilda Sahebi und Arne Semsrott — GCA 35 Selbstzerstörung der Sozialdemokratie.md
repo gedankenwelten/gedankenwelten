@@ -1,5 +1,6 @@
 ---
 title: "Gilda Sahebi und Arne Semsrott — GCA #35: Die Selbstzerstörung der Sozialdemokratie"
+aktualisiert: 2026-05-28
 date: 27.05.2026
 tags:
   - zeitgeist

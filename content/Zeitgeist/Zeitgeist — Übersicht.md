@@ -1,6 +1,7 @@
 ---
 date: 2026-06-06
 title: Zeitgeist — Übersicht
+aktualisiert: 2026-04-05
 description: Interviews, Vorträge und Analysen zu dem, was unsere Zeit bewegt — gesammelt mit neugieriger Distanz, nicht mit Zustimmungspflicht.
 tags:
   - zeitgeist

@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - trump

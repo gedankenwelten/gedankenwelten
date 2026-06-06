@@ -1,5 +1,6 @@
 ---
 title: "Demokratische Wertschöpfung"
+aktualisiert: 2026-05-14
 tags:
   - panorama
   - wirtschaft

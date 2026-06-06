@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Habermas in 60 Minuten"
+aktualisiert: 2026-05-09
 date: 20.03.2026
 tags:
   - denker

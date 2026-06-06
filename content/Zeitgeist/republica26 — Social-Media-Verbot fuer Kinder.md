@@ -1,5 +1,6 @@
 ---
 title: "re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?"
+aktualisiert: 2026-06-03
 description: "Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen."
 date: 19.05.2026
 tags:

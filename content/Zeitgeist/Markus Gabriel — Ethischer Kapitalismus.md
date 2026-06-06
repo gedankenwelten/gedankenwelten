@@ -1,5 +1,6 @@
 ---
 title: "Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?"
+aktualisiert: 2026-04-30
 date: 2026-04-30
 tags:
   - zeitgeist

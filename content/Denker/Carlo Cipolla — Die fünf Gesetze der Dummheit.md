@@ -1,5 +1,6 @@
 ---
 title: Carlo Cipolla — Die fünf Gesetze der Dummheit
+aktualisiert: 2026-03-22
 tags:
   - denker
   - philosophie

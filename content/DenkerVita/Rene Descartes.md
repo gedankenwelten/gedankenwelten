@@ -1,5 +1,6 @@
 ---
 title: René Descartes — DenkerVita
+aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, rationalismus, frankreich]
 ---
 

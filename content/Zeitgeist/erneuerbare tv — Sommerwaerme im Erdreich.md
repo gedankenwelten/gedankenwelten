@@ -1,5 +1,6 @@
 ---
 title: "erneuerbare tv — Sommerwärme im Erdreich"
+aktualisiert: 2026-05-14
 date: 09.04.2026
 tags:
   - zeitgeist
