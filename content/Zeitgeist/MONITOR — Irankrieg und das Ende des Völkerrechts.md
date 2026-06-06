@@ -23,6 +23,14 @@ description: "Nicht die Verletzung ist neu — die gab es immer. Neu ist das Sch
 
 ![[assets/MONITOR-Irankrieg-und-das-Ende-des-Voelkerrechts-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Anselm Kiefer** — Schweres Mischtechnik-Material, Asche und verbrannte Erde. Ein riesiges aufgeschlagenes Gesetzbuch auf zerstörtem Boden — Seiten wie Asche, Risse durchziehen §-Zeichen und Artikelnummern, Rauch steigt auf, Kampfflugzeuge am Horizont. Das Völkerrecht als Ruine. Kiefer, weil er Zivilisationsbrüche in Material übersetzte wie kein anderer.
+
+*Prompt:* Wide panoramic illustration in the style of Anselm Kiefer — mixed media, heavy impasto, ash grey and charred umber. A massive open book dominates the center, lying on cracked scorched earth. Its pages are turned to stone and ash — crumbling, fissured, with fragments of § symbols and legal article numbers barely legible through the cracks. Smoke rises from the spine. Surrounding ground: broken, parched, apocalyptic grey. In the far sky: three tiny fighter silhouettes. No realistic faces, no photorealism. 1200×500px.
+
+</details>
+
 > [!abstract] Worum es geht
 > Am 28. Februar 2026 bombardierten die USA und Israel den Iran — 900 Luftangriffe in 12 Stunden, Khamenei getötet, rund 1.300 zivile Opfer. Dass das ein Völkerrechtsbruch ist, steht für Völkerrechtler Kai Ambos außer Frage. Was ihn und die gesamte Völkerrechtscommunity erschüttert, ist etwas anderes: Die Trump-Regierung braucht keine Rechtfertigung mehr. Kein Sicherheitsrat, keine Vollversammlung, kein Versuch einer juristischen Begründung — nur der Satz: *„Es ist mir schlicht egal."* Frankreich, Spanien und Großbritannien nennen das beim Namen. Deutschland spricht von einem „völkerrechtlichen Dilemma".
 

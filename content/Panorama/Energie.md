@@ -17,6 +17,14 @@ aktualisiert: 2026-06-01
 
 ![[assets/Energie-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Diego Rivera / Mexikanischer Muralismus** — Klare Farben, flache Perspektive, Arbeiter als Protagonisten. Links: Sonne, Windräder, Solarpanele in warmem Orange-Ocker; rechts: rauchende Kühltürme, Öltonnen, Feuer in Grau. In der Mitte: eine Figur mit Akten, die durch eine Glastür tritt — die politische Entscheidung zwischen zwei Welten. Unten: Stromleitungen, die alle verbinden.
+
+*Prompt:* Wide panoramic mural illustration in the style of Diego Rivera — bold colors, flat perspective, workers as protagonists. Left half: warm golden-orange landscape with wind turbines and solar panels, workers installing solar cells in earth tones. Center: a glass door, a suited figure with papers stepping through. Right half: dark grey industrial landscape — cooling towers with billowing smoke, oil drums, a fire. Bottom register: power lines connecting houses across the full width. No realistic faces, no photorealism. 1200×500px.
+
+</details>
+
 ## Warum dieses Thema?
 
 Deutschlands Strompreise sind die höchsten in Europa: 38 Cent/kWh, EU-Durchschnitt 29 Cent. Die Energiewende war als Doppelprojekt gedacht — Klimaschutz und industrielle Modernisierung. Stattdessen ist sie zum politischen Schlachtfeld geworden. Wirtschaftsministerin Katherina Reiche (CDU, Ex-E.ON-Vorstand) will Solarförderung streichen, Windkraft-Entschädigungen kappen und 20 neue Gaskraftwerke ausschreiben — während ihr Ministerium nachweislich Lobbypapiere gegen Batteriespeicher bei Energiekonzernen anfordert.

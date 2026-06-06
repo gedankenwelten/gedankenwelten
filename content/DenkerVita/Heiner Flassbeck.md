@@ -8,8 +8,13 @@ tags: [denker-vita, wirtschaft, kapitalismus, deutschland]
 
 ![[assets/Heiner-Flassbeck-banner.jpg|1200]]
 
-> [!info]- 🎨
-> **Fernand Léger** — Tubismus, Primärfarben, geometrische Arbeiterfiguren. Eine monumental-mechanische Balkenwaage: links steigt der Arm (Exportkisten, Fabrikschlote, Pfeil aufwärts), rechts sinkt er (leeres Becken, leere Hände). Verbunden durch Hydraulikrohre mit roter Flüssigkeit, die von rechts nach links fließt — die Saldenmechanik als physikalisches Gesetz: Die Ausgaben des einen sind die Einnahmen des anderen. Deutschlands Überschuss ist Südeuropas Defizit. Auf den Euro genau.
+<details><summary>🎨</summary>
+
+**Fernand Léger** — Tubismus, Primärfarben, geometrische Arbeiterfiguren. Eine monumental-mechanische Balkenwaage: links steigt der Arm (Exportkisten, Fabrikschlote, Pfeil aufwärts), rechts sinkt er (leeres Becken, leere Hände). Verbunden durch Hydraulikrohre mit roter Flüssigkeit, die von rechts nach links fließt — die Saldenmechanik als physikalisches Gesetz. Deutschlands Überschuss ist Südeuropas Defizit. Auf den Euro genau.
+
+*Prompt:* Wide panoramic illustration in the style of Fernand Léger — tubist, bold primary colors (red, steel blue, warm grey, white), cylindrical and geometric forms, workers depicted as dignified geometric beings with no realistic faces. Center: a monumental industrial balance scale, one arm rising steeply, one arm sinking. On the rising arm: stacked export crates, a factory smokestack, a round dial with an arrow pointing upward. On the sinking arm: an empty industrial basin draining through thick pipes downward, small tubist worker-figures with open empty hands. Connecting both arms at the pivot: thick hydraulic pipes with red liquid flowing visibly from the sinking side to the rising side. Left: tubist workers in red and blue loading goods, confident. Right: tubist workers in grey with empty hands, still. Flat geometric background, industrial horizon. No text, no realistic faces, no photorealism. 1200×500px.
+
+</details>
 
 ## Biographischer Snapshot
 

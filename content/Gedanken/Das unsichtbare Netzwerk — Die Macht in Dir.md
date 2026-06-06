@@ -20,6 +20,14 @@ aliases:
 
 ![[assets/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee** — Aquarellgrund in Amber und Petrol, geometrische Menschenfiguren in verschiedenen Farben, verbunden durch weiße und goldene Fäden ohne Zentrum. Kein Hierarchiepunkt — das Netz als gegenseitige Verknüpfung gleichwertiger Knoten. Die Macht ist nicht oben, sie ist überall im Gewebe.
+
+*Prompt:* Wide panoramic illustration in the style of Paul Klee — watercolor aquarelle, warm amber and dusty teal ground, flat geometric human figures (circles for heads, triangular bodies) in terracotta, sage, yellow and grey scattered across the panorama, connected by flowing white and gold thread-lines weaving organically between them without a single center. Soft watercolor washes, no sharp outlines. No realistic faces, no photorealism. 1200×500px.
+
+</details>
+
 ---
 
 > Erster Teil einer Reihe. Weiter: [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]] · [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]

@@ -20,6 +20,14 @@ aliases:
 
 ![[assets/Chantal-Mouffe-Das-Politische-und-die-Politik-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Anselm Kiefer** — Schweres Mischtechnik-Material, geologische Schichten in Kohle, Umber und Ocker. Ein riesiger Riss zieht sich vertikal durch die Mitte und legt eine goldene Ader frei — der agonistische Riss, der Demokratie erst möglich macht. Kiefers Erde ist nicht malerisch, sondern historisch belastet. Genau wie Mouffe's Antagonismus.
+
+*Prompt:* Wide panoramic illustration in the style of Anselm Kiefer — dark heavily textured oil and mixed media, geological strata in charcoal, umber and raw sienna. A vast cracked landscape of layered compressed earth. Through the center: a single deep vertical fissure, torn open, revealing a vein of molten gold within — the constitutive antagonism that cannot be closed. Upper horizon: flat grey sky, empty. No figures, no text, no photorealism. 1200×500px.
+
+</details>
+
 Quelle: [Über Chantal Mouffe — Das Politische und die Politik](https://www.youtube.com/watch?v=xflMX2cKqf8) — Philosophische Praxis im Netz
 
 > [!info] Wer spricht?

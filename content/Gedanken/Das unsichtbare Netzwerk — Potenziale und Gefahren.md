@@ -19,6 +19,14 @@ aliases:
 
 ![[assets/Das-unsichtbare-Netzwerk-Potenziale-und-Gefahren-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee / Aquarell-Minimalismus** — Eine einzelne geometrische Figur im Zentrum, durch die goldene Fäden fließen. Links: kühl und komprimiert (Gefahr, Kontrolle). Rechts: warm und leuchtend (Potenzial, Öffnung). Der Mensch als Knotenpunkt — er hält die Fäden, ohne sie zu besitzen.
+
+*Prompt:* Wide panoramic illustration inspired by Paul Klee and watercolor minimalism — pale yellow-grey ground, aquarelle washes. A single geometric figure stands center-right — angular, faceless. From the far left: gold thread-lines converge toward the figure; from the figure they fan outward to the right into light. Left side cooler grey-blue, right side warm luminous gold. Spare, contemplative. No realistic faces, no photorealism. 1200×500px.
+
+</details>
+
 > Zweiter Teil einer Reihe. Fundament: [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] · Weiter: [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
 > Entstanden am 24.05.2026 aus einem Gespräch über die Doppelnatur des unsichtbaren Netzwerks.
 

@@ -8,6 +8,14 @@ tags: [denker-vita, philosophie, marxismus, japan, politische-oekonomie, literat
 
 ![[assets/Kojin-Karatani-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Hilma af Klint / Aquarell-Diagramm** — Spirituelle Diagramme treffen wissenschaftliche Schemazeichnung. Eine ovale Komposition mit zentralem Dreieck (Karatani's vier Tauschwege), überlappende Aquarellwolken in Rot, Blau und Amber — und zwei Kreise von Figuren, die sich an den Händen halten. Weltgeschichte als geschlossenes System von Austauschbewegungen, nicht als Teleologie.
+
+*Prompt:* Wide panoramic illustration combining Hilma af Klint's spiritual diagrams with watercolor diagrammatic style — soft color washes on white ground. A large oval frame encloses the composition. At center: a triangle with radiating lines — the modes of exchange. Behind it: overlapping washes of deep red, cobalt blue and amber gold. Left and right: circular wreaths of small stick figures holding hands. Delicate pencil-thin arc overhead. Contemplative, scholarly and mystical at once. No photorealism. 1200×500px.
+
+</details>
+
 ## Biografie
 
 **Kojin Karatani** (1941–) ist einer der bedeutendsten zeitgenössischen Philosophen und Literaturtheoretiker Japans, sowie der erste asiatische Träger des Berggruen Prize for Philosophy & Culture (2022). Sein Denken verbindet Philosophie, Literaturtheorie, Ästhetik, Linguistik, Ökonomie und Politiktheorie in einer seltenen, grenzüberschreitenden intellektuellen Praxis.

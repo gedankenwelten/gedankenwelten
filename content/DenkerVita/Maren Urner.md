@@ -8,8 +8,13 @@ tags: [denker-vita, psychologie, medien, demokratie, deutschland]
 
 ![[assets/Maren-Urner-banner.jpg|1200]]
 
-> [!info]- 🎨
-> **Remedios Varo** — Surrealistisch-wissenschaftlich, Amber und Petrol. Das Innere eines urzeitlichen Schädels (Steinzeithirn): links der Nachrichtenstrudel, der einflutet; in der Mitte eine gestaltlose Figur, die am hirn-förmigen Tisch aus dem Chaos eine Zeitung baut; rechts das leuchtende Netz des Konstruktiven Journalismus, das daraus entsteht. Varos Genauigkeit im Labyrinth trifft Urners Bewegung — Wissenschaftlerin, die in einem unmöglichen Raum etwas Konkretes baut.
+<details><summary>🎨</summary>
+
+**Remedios Varo** — Surrealistisch-wissenschaftlich, Amber und Petrol. Das Innere eines urzeitlichen Schädels (Steinzeithirn): links der Nachrichtenstrudel, der einflutet; in der Mitte eine gestaltlose Figur, die am hirn-förmigen Tisch aus dem Chaos eine Zeitung baut; rechts das leuchtende Netz des Konstruktiven Journalismus. Varos Genauigkeit im Labyrinth trifft Urners Bewegung — Wissenschaftlerin, die in einem unmöglichen Raum etwas Konkretes baut.
+
+*Prompt:* Wide panoramic illustration in the style of Remedios Varo — surrealist-scientific, amber and deep teal palette, detailed and dreamlike. Setting: the interior of a vast ancient cranium, cave-like stone walls curving overhead. Left third: a churning torrent of newspaper fragments and glowing screens flooding through a dark archway, grey-ochre chaos. Center: a solitary robed figure, no face visible, seated at a curved laboratory table shaped like a brain cross-section, holding delicate instruments, assembling a miniature newspaper piece by piece, a small lantern glowing amber. Right third: a luminous structured web of interconnected story-nodes, warm amber-green light, ordered and alive. No text, no realistic faces, no photorealism. 1200×500px.
+
+</details>
 
 ## Biografie
 

@@ -21,6 +21,14 @@ description: "Meditation wirkt — klinisch belegt, gleichwirksam wie ein Antide
 
 ![[assets/Gert-Scobel-Meditation-kann-gefaehrlich-sein-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Hilma af Klint** — Spirituelle Diagramme, konzentrische organische Ringe, leuchtende Farbfelder. Eine meditierende Silhouette im strahlenden Zentrum, umgeben von Ringen in Rosé, Amber und Blau — auf schwarzem Grund. Das Schwarz drumherum ist nicht bedrohlich, aber es ist da: 58 % der Meditierenden berichten unerwünschte Erfahrungen. Dōgen's Versprechen und seine Gefahr in einem Bild.
+
+*Prompt:* Wide panoramic illustration in the style of Hilma af Klint — spiritual diagram, concentric organic rings, soft but luminous color fields. A small white meditating silhouette at the absolute center, surrounded by expanding rings: innermost white and pale gold, then warm rose, then deep amber-yellow, then soft blue and white at the outermost edge. All on a black ground. The rings breathe slightly, not perfectly geometric. No text, no photorealism. 1200×500px.
+
+</details>
+
 > [!abstract] Worum es geht
 > Meditation ist kein risikofreies Wellness-Tool — sie ist eine ernsthafte Praxis mit messbaren Wirkungen und echten Nebenwirkungen. Gert Scobel zieht die Forschungslage der letzten 30 Jahre zusammen: 8 Wochen MBSR sind gleichwirksam wie ein Antidepressivum, Langzeit-Meditierende zeigen strukturelle Gehirnveränderungen — und 58 % der Meditierenden berichten von unerwünschten Erfahrungen. Dahinter steckt eine tiefere Frage: Was passiert mit dem Bewusstsein, wenn man es über Jahrzehnte kultiviert? Und warum sagt Dōgen, dass das tiefste Erkennen im Vergessen des Selbst beginnt?
 

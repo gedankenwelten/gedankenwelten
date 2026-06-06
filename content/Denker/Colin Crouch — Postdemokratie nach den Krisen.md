@@ -20,6 +20,14 @@ aliases:
 
 ![[assets/Colin-Crouch-Postdemokratie-nach-den-Krisen-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico** — Pittura Metafisica, gedämpfte Terrakotta- und Sandtöne, lange theatralische Schatten. Eine kopflose Anzugsfigur am Rednerpult vor einer leeren Säulenhalle — alle Formen der Demokratie vollständig, die Substanz fort. Gläserne Drehtür rechts (Lobbying). Die Uhr steht still. Niemand zuhört. Das ist Postdemokratie.
+
+*Prompt:* Wide panoramic illustration in the style of Giorgio de Chirico — Pittura Metafisica, muted terracotta, sand and olive tones, long theatrical shadows, clean geometric architecture. An empty classical colonnade stretches across the left background. Center: a headless suited figure at a wooden podium, addressing no one. Right: a glass revolving door, corporate and sterile. A clock tower with frozen hands. Scattered papers on the ground. Eerie stillness, infinite perspective. No realistic faces, no photorealism. 1200×500px.
+
+</details>
+
 Quelle: [Postdemokratie nach den Krisen | Prof. Colin Crouch | Ringvorlesung](https://www.youtube.com/watch?v=T9lir14D2h0) — Vortrag auf Englisch, 2019
 
 > [!info] Wer spricht?

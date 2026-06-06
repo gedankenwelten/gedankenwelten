@@ -19,6 +19,14 @@ aliases:
 
 ![[assets/Mario-Buchinger-Luegen-der-Kernenergie-Kommentarspalte-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Editoriale Illustration / XKCD-meets-Zeitungskarikatur** — Cremefarbener Grund, Bleistift und Tinte, minimale Farbe. Links: die Sonne als großer goldener Kreis ("Fusionsreaktor, läuft seit 5 Mrd. Jahren"). Rechts: Strichmenschen-Figur am Schreibtisch, aus deren Kopf Sprechblasen steigen — durchgestrichene AKW-Türme, "SMRs!", Einhörner, "PowerPoint-Reaktor". Witz durch Schlichtheit. Die Sonne macht jeden Kernenergie-Hype überflüssig.
+
+*Prompt:* Wide panoramic editorial illustration — clean pencil-and-ink style, cream background, minimal color (warm gold, soft red). Left: a large perfect circle in warm golden-yellow concentric rings labeled "Fusionsreaktor (läuft seit 5 Mrd. Jahren)". Right: a simple stick figure at a desk writing with an oversized pencil. Rising from the figure: overlapping speech bubbles with crossed-out cooling towers, a pink unicorn, "SMRs!" with checkmarks and X marks, scattered blueprints labeled "PowerPoint-Reaktor". Dry, deadpan, scientific wit. No photorealism. 1200×500px.
+
+</details>
+
 Quelle: [Kommentarspalte: Die Lügen der Kernenergie](https://www.youtube.com/watch?v=6eIDO1_y_U0) (#RestartThinking)
 Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
