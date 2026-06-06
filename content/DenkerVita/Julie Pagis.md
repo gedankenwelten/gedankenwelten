@@ -6,6 +6,16 @@ tags: [denker-vita, psychologie, autoritarismus, frankreich]
 
 # Julie Pagis — DenkerVita
 
+![[assets/Julie-Pagis-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Henri de Toulouse-Lautrec — Lithografie-Plakat-Stil** — Tiefrot, Flachschwarz, Warmcreme, Kobaltblau-Akzent, Art-Nouveau-Eckenborte. Eine erhöhte Figur im roten Mantel, leicht ausgestreckte Arme, dramatischer Schatten nach vorne — umgeben von dunklen Silhouetten einer Masse mit erhobenen Händen, alle aufwärts orientiert. Der cremefarbene Lichthalo hinter der Figur. Lautrec, weil seine Plakate die Bühnen-Asymmetrie zwischen Performer und Publikum formulieren — und weil ein Plakat genau das ist was Charisma ist: eine Werbebotschaft, gemacht um Aufmerksamkeit zu erzwingen.
+
+*Prompt:* Henri de Toulouse-Lautrec lithograph poster style, 1890s–1900s, flat color Art Nouveau, bold silhouettes, 1200x500px banner. Palette: deep crimson red, flat black, warm cream-yellow, with one accent of cobalt blue. No gradients. Strong vertical composition within horizontal banner. Center: a tall solitary figure in a long crimson coat/cape, slightly elevated on a low platform, facing the viewer three-quarters, arms slightly extended at waist height — the classic orator's posture. The figure's upper face is in theatrical shadow from a light source above. Surrounding on all sides below: dark flat silhouettes of an audience — heads in profile and from behind, some hands raised. The audience figures are densely packed but faceless, their attention entirely directed toward the central figure. The space around the central figure is cream-yellow — a halo effect from the poster's paper ground. The figure's shadow falls dramatically behind onto the cream. Upper corners: empty cream space with faint Art Nouveau organic line borders — as if making room for poster text that isn't there. No text. No photorealism. Lautrec's flat, decisive line work.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
