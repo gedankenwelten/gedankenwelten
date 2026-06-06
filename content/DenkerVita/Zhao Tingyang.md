@@ -6,6 +6,9 @@ tags: [denker-vita, philosophie, geopolitik, politische-ordnung, weltordnung, ch
 
 # Zhao Tingyang — DenkerVita
 
+![[assets/Zhao-Tingyang-banner.jpg|1200]]
+
+
 ## Biografie
 
 **Geburt:** 1961 in Shantou, Guangdong, China
