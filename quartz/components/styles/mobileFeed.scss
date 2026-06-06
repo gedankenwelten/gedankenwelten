@@ -98,6 +98,13 @@
   color: inherit;
   background: none !important;
 
+  // iOS-Long-Press (Text-Auswahl + Callout-Menü) unterdrücken — unser eigener
+  // Lang-Druck soll allein die Vorschau auslösen. Gilt nur für die Karten,
+  // im geöffneten Note-Sheet bleibt Text markierbar.
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+
   &:hover {
     background: none;
   }
