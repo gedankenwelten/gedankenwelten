@@ -6,6 +6,9 @@ tags: [denker-vita, wirtschaft, kapitalismus, deutschland]
 
 # Heiner Flassbeck — DenkerVita
 
+![[assets/Heiner-Flassbeck-banner.jpg|1200]]
+
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
