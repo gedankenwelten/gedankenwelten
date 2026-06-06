@@ -1,5 +1,6 @@
 ---
 title: "MONITOR — AfD-Erfolg trotz Skandalen"
+aktualisiert: 2026-04-11
 date: 2026-03-26
 tags:
   - zeitgeist

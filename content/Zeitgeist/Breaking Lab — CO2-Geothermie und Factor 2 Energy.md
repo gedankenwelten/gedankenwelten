@@ -1,5 +1,6 @@
 ---
 title: "Breaking Lab — CO₂-Geothermie und Factor 2 Energy"
+aktualisiert: 2026-04-15
 date: 2026-04-14
 tags:
   - zeitgeist

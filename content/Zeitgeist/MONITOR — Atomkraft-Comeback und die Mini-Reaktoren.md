@@ -1,6 +1,7 @@
 ---
 date: 2026-06-01
 title: "MONITOR — Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt"
+aktualisiert: 2026-06-01
 tags:
   - zeitgeist
   - energiepolitik

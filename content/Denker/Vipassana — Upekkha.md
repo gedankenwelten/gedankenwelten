@@ -1,5 +1,6 @@
 ---
 title: Vipassana — Upekkha
+aktualisiert: 2026-04-05
 tags:
   - vipassana
   - gleichmut

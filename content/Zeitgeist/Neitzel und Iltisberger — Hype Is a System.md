@@ -1,5 +1,6 @@
 ---
 title: "Neitzel & Iltisberger — Hype Is a System: How Tech Futures Get Made"
+aktualisiert: 2026-06-03
 description: "Hype ist kein Rauschen, sondern ein System aus Subsystemen und Feedback-Loops — und KI-Kritiker verstärken ungewollt genau den Hype, den sie bekämpfen."
 date: 20.05.2026
 tags:

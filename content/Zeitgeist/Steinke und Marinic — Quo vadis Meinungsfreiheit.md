@@ -1,5 +1,6 @@
 ---
 title: "Steinke und Marinić — Quo vadis Meinungsfreiheit?"
+aktualisiert: 2026-05-19
 date: 19.05.2026
 tags:
   - zeitgeist

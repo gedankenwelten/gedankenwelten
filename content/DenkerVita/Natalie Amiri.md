@@ -1,5 +1,6 @@
 ---
 title: Natalie Amiri — DenkerVita
+aktualisiert: 2026-04-30
 tags: [denker-vita, iran, nahost, journalismus]
 ---
 

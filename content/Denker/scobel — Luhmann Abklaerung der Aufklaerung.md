@@ -1,5 +1,6 @@
 ---
 title: "scobel — Luhmann: Abklärung der Aufklärung"
+aktualisiert: 2026-04-23
 date: 23.04.2026
 tags:
   - denker

@@ -1,5 +1,6 @@
 ---
 title: "phoenixRunde — Streit um Reformen, wer zahlt wie viel"
+aktualisiert: 2026-06-02
 date: 27.05.2026
 tags:
   - zeitgeist

@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - demokratie

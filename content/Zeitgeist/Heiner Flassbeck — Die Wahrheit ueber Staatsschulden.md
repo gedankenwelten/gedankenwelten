@@ -1,5 +1,6 @@
 ---
 title: "Heiner Flassbeck — Die Wahrheit über Staatsschulden"
+aktualisiert: 2026-05-02
 date: 2026-05-02
 tags:
   - zeitgeist

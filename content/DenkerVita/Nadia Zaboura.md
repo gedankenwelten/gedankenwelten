@@ -1,5 +1,6 @@
 ---
 title: Nadia Zaboura — DenkerVita
+aktualisiert: 2026-05-25
 tags: [denker-vita, medien, demokratie, deutschland, zeitgeist]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "erneuerbare tv — Bidirektionales Laden / Vehicle-to-Grid"
+aktualisiert: 2026-05-14
 date: 06.11.2025
 tags:
   - zeitgeist

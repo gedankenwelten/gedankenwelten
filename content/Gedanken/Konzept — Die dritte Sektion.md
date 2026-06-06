@@ -1,5 +1,6 @@
 ---
 title: "Konzept — Die dritte Sektion"
+aktualisiert: 2026-04-05
 tags:
   - gedanken
   - konzept

@@ -1,5 +1,6 @@
 ---
 title: "Gilda con Arne — Wie rechte Milliardäre weltweit Medien aufkaufen"
+aktualisiert: 2026-04-25
 date: 2026-04-22
 tags:
   - zeitgeist

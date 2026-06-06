@@ -1,5 +1,6 @@
 ---
 title: "Marcant — Ausstieg aus der rechten Szene"
+aktualisiert: 2026-05-24
 date: 30.12.2025
 tags:
   - zeitgeist

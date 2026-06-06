@@ -1,5 +1,6 @@
 ---
 title: Cordula Tutt — DenkerVita
+aktualisiert: 2026-06-02
 tags: [denker-vita, wirtschaft, medien, deutschland]
 ---
 

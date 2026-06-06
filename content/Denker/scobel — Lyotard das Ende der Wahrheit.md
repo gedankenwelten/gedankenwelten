@@ -1,5 +1,6 @@
 ---
 title: "scobel — Lyotard: Das Ende der Wahrheit?"
+aktualisiert: 2026-05-15
 date: 14.05.2026
 tags:
   - denker

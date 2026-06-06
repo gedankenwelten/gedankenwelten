@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Schopenhauer in 60 Minuten"
+aktualisiert: 2026-04-26
 date: 05.02.2020
 tags:
   - denker

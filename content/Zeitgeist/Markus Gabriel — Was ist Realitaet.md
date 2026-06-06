@@ -1,5 +1,6 @@
 ---
 title: "Markus Gabriel — Was ist Realität?"
+aktualisiert: 2026-05-01
 date: 2024-06-16
 tags:
   - zeitgeist

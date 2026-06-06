@@ -1,5 +1,6 @@
 ---
 title: Christian Jakob — DenkerVita
+aktualisiert: 2026-05-03
 tags: [denker-vita, migration, menschenrechte, deutschland, journalismus]
 ---
 

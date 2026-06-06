@@ -1,5 +1,6 @@
 ---
 title: "Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)"
+aktualisiert: 2026-05-11
 date: 10.05.2026
 tags:
   - zeitgeist

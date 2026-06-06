@@ -1,5 +1,6 @@
 ---
 title: "Morpheus — Warum alle chinesische KI nutzen"
+aktualisiert: 2026-05-17
 date: 17.05.2025
 tags:
   - zeitgeist

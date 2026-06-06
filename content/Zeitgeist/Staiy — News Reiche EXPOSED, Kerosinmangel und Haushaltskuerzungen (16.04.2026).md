@@ -1,5 +1,6 @@
 ---
 title: "Staiy — News: Reiche EXPOSED, Kerosinmangel und Haushaltskürzungen (16.04.2026)"
+aktualisiert: 2026-04-25
 date: 2026-04-16
 tags:
   - zeitgeist

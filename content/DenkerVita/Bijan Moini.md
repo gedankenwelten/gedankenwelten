@@ -1,5 +1,6 @@
 ---
 title: Bijan Moini — DenkerVita
+aktualisiert: 2026-05-20
 tags: [denker-vita, rechtsrecht, demokratie, deutschland, grundrechte]
 ---
 

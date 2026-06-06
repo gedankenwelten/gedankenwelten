@@ -1,5 +1,6 @@
 ---
 title: Leonhard Dobusch — DenkerVita
+aktualisiert: 2026-05-25
 tags: [denker-vita, medien, demokratie, österreich, organisation, digitales]
 ---
 

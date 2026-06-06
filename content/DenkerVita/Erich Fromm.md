@@ -1,5 +1,6 @@
 ---
 title: Erich Fromm — DenkerVita
+aktualisiert: 2026-04-19
 tags: [denker-vita, philosophie, psychologie, humanismus, psychoanalyse]
 ---
 

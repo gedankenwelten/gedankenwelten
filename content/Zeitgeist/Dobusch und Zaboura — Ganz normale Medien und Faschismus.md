@@ -1,5 +1,6 @@
 ---
 title: "Dobusch und Zaboura — Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus"
+aktualisiert: 2026-05-25
 date: 20.05.2026
 tags:
   - zeitgeist

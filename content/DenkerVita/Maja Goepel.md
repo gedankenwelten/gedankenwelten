@@ -1,5 +1,6 @@
 ---
 title: Maja Göpel — DenkerVita
+aktualisiert: 2026-04-21
 tags: [denker-vita, wirtschaft, kapitalismus, demokratie, philosophie, deutschland]
 ---
 

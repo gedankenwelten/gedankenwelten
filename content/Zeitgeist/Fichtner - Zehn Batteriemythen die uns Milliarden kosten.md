@@ -1,5 +1,6 @@
 ---
 title: "Fichtner — Zehn Batteriemythen, die uns Milliarden kosten"
+aktualisiert: 2026-05-23
 date: 23.05.2026
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Marx in 60 Minuten"
+aktualisiert: 2026-04-26
 date: 01.04.2023
 tags:
   - denker

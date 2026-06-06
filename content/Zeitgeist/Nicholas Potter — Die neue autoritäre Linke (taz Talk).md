@@ -1,6 +1,7 @@
 ---
 date: 2026-03-28
 title: "Nicholas Potter — Die neue autoritäre Linke (taz Talk)"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - antisemitismus

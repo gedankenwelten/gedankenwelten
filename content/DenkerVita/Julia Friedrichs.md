@@ -1,5 +1,6 @@
 ---
 title: Julia Friedrichs — DenkerVita
+aktualisiert: 2026-05-10
 tags: [denker-vita, wirtschaft, soziale-ungleichheit, medien, deutschland, journalismus]
 ---
 

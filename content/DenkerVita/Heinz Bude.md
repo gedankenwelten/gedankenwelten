@@ -1,5 +1,6 @@
 ---
 title: Heinz Bude — DenkerVita
+aktualisiert: 2026-05-05
 tags: [denker-vita, soziologie, generationen, deutschland]
 ---
 

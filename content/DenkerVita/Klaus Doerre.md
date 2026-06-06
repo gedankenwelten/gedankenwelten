@@ -1,5 +1,6 @@
 ---
 title: Klaus Dörre — DenkerVita
+aktualisiert: 2026-05-17
 tags: [denker-vita, soziologie, kapitalismus, gewerkschaften, deutschland, wirtschaft]
 ---
 

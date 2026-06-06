@@ -1,5 +1,6 @@
 ---
 title: Alena Buyx — DenkerVita
+aktualisiert: 2026-05-30
 tags: [denker-vita, ethik, medizinethik, bioethik, deutschland]
 ---
 

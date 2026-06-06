@@ -1,5 +1,6 @@
 ---
 title: Götz Aly — Wie konnte das geschehen?
+aktualisiert: 2026-03-22
 tags:
   - philosophie
   - geschichte

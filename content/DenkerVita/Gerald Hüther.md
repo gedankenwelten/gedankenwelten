@@ -1,5 +1,6 @@
 ---
 title: Gerald Hüther — DenkerVita
+aktualisiert: 2026-04-28
 tags: [denker-vita, neurowissenschaft, philosophie, psychologie, pädagogik, potenzialentfaltung, deutschland]
 ---
 

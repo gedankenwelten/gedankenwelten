@@ -1,5 +1,6 @@
 ---
 title: "Sudan: Das Massaker von El Fashir und die Rolle der VAE"
+aktualisiert: 2026-04-16
 date: 2026-04-15
 tags:
   - zeitgeist

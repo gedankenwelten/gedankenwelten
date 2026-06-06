@@ -1,5 +1,6 @@
 ---
 title: "Florian Homm — Ich war eine Leistungsmaschine"
+aktualisiert: 2026-04-18
 date: 2024-12-07
 tags:
   - zeitgeist

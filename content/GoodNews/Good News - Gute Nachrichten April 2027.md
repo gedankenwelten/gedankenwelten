@@ -1,6 +1,7 @@
 ---
 date: 2026-04-16
 title: "Good News — Gute Nachrichten April 2026"
+aktualisiert: 2026-04-16
 tags:
   - goodnews
   - umwelt

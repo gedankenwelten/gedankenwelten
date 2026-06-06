@@ -1,5 +1,6 @@
 ---
 title: "Staiy — News: Die Regierung zockt euch ab (02.04.2026)"
+aktualisiert: 2026-04-12
 date: 2026-04-02
 tags:
   - zeitgeist

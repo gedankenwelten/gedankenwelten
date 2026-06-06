@@ -1,5 +1,6 @@
 ---
 title: "Martyna Linartas — Unverdiente Ungleichheit"
+aktualisiert: 2026-04-20
 tags:
   - denker
   - wirtschaft

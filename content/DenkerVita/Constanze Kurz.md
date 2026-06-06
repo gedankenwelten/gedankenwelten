@@ -1,5 +1,6 @@
 ---
 title: Constanze Kurz — DenkerVita
+aktualisiert: 2026-05-21
 tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 ---
 

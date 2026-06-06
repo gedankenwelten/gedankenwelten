@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "taz Reingehen — Wer das Öl hat, hat das Sagen"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - geopolitik

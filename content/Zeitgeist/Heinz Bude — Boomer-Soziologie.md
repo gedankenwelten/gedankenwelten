@@ -1,5 +1,6 @@
 ---
 title: "Heinz Bude — Brauchen wir eine Boomer-Soziologie?"
+aktualisiert: 2026-05-05
 date: 16.01.2024
 tags:
   - zeitgeist

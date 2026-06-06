@@ -1,5 +1,6 @@
 ---
 title: Wolfgang M. Schmitt — DenkerVita
+aktualisiert: 2026-04-25
 tags: [denker-vita, kulturkritik, kapitalismus, medien]
 ---
 

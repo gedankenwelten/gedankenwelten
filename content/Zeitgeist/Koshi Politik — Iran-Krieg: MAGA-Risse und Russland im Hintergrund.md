@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - trump

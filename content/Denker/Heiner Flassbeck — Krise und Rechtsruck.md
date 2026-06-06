@@ -1,5 +1,6 @@
 ---
 title: Heiner Flassbeck — Krise und Rechtsruck
+aktualisiert: 2026-03-22
 date: 2025-06-15
 tags:
   - denker

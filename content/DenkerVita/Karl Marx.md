@@ -1,5 +1,6 @@
 ---
 title: Karl Marx — DenkerVita
+aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, kapitalismus, materialismus, deutschland]
 ---
 

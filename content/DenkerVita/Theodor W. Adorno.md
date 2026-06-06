@@ -1,5 +1,6 @@
 ---
 title: Theodor W. Adorno — DenkerVita
+aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, kapitalismus, kulturkritik, dialektik]
 ---
 

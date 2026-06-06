@@ -1,5 +1,6 @@
 ---
 title: "Markus Reisner — Lage an der Straße von Hormus ist fragil"
+aktualisiert: 2026-04-25
 date: 2026-04-25
 tags:
   - zeitgeist

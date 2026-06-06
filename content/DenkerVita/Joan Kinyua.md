@@ -1,5 +1,6 @@
 ---
 title: Joan Kinyua — DenkerVita
+aktualisiert: 2026-05-25
 tags: [denker-vita, ki, arbeit, kapitalismus, soziale-ungleichheit, datenarbeit, aktivismus]
 ---
 

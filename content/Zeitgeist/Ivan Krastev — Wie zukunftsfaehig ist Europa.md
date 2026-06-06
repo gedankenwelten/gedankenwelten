@@ -1,5 +1,6 @@
 ---
 title: "Ivan Krastev — Wie zukunftsfähig ist Europa?"
+aktualisiert: 2026-05-15
 date: 14.05.2026
 tags:
   - zeitgeist

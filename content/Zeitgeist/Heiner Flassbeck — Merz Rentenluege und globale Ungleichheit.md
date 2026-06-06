@@ -1,5 +1,6 @@
 ---
 title: "Heiner Flassbeck — Merz' Rentenlüge und globale Ungleichheit"
+aktualisiert: 2026-04-25
 date: 2026-04-23
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: Petra Gehring — DenkerVita
+aktualisiert: 2026-06-03
 tags: [denker-vita, philosophie, demokratie, technologie, datenschutz]
 ---
 

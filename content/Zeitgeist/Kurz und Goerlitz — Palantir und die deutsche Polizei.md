@@ -1,5 +1,6 @@
 ---
 title: "Kurz & Görlitz — Palantir und die deutsche Polizei (re:publica 26)"
+aktualisiert: 2026-05-21
 date: 20.05.2026
 tags:
   - zeitgeist

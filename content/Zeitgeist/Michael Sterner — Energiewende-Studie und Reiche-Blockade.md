@@ -1,5 +1,6 @@
 ---
 title: "Michael Sterner — Energiewende-Studie und Reiche-Blockade"
+aktualisiert: 2026-05-05
 date: 05.05.2026
 tags:
   - zeitgeist

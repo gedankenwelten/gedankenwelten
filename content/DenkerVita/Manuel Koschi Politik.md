@@ -1,5 +1,6 @@
 ---
 title: "Manuel (Koschi Politik) — DenkerVita"
+aktualisiert: 2026-05-11
 tags: [denker-vita, usa, medien, journalismus, year-2026]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Dirk Specht — DenkerVita
+aktualisiert: 2026-05-10
 tags: [denker-vita, energiewende, strommarkt, batterie, deutschland, wirtschaft]
 ---
 

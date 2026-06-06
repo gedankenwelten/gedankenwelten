@@ -1,5 +1,6 @@
 ---
 title: Albrecht von Lucke — DenkerVita
+aktualisiert: 2026-05-10
 tags: [denker-vita, politikwissenschaft, deutschland, bundesregierung, demokratie]
 ---
 

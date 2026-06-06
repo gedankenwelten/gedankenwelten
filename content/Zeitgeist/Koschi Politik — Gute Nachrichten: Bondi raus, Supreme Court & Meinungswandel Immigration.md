@@ -1,6 +1,7 @@
 ---
 date: 2026-04-11
 title: "Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration"
+aktualisiert: 2026-04-11
 tags:
   - zeitgeist
   - usa-politik

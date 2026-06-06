@@ -1,5 +1,6 @@
 ---
 title: "Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie"
+aktualisiert: 2026-05-16
 date: 16.05.2026
 tags:
   - zeitgeist

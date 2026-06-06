@@ -1,5 +1,6 @@
 ---
 title: Hannah Arendt — Denken ohne Geländer
+aktualisiert: 2026-03-22
 tags:
   - philosophie
   - macht

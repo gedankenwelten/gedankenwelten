@@ -1,5 +1,6 @@
 ---
 title: Abdolkarim Soroush — DenkerVita
+aktualisiert: 2026-05-16
 tags: [denker-vita, islam, demokratie, philosophie, religionsphilosophie, hermeneutik, iran, reformislam]
 ---
 

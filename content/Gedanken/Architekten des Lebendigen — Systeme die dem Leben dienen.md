@@ -1,5 +1,6 @@
 ---
 title: "Architekten des Lebendigen — Systeme, die dem Leben dienen"
+aktualisiert: 2026-04-28
 date: 2026-04-28
 tags:
   - gedanke

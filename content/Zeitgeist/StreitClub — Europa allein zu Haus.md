@@ -1,5 +1,6 @@
 ---
 title: "StreitClub #17 — Europa allein zu Haus"
+aktualisiert: 2026-04-26
 date: 2026-04-21
 tags:
   - zeitgeist

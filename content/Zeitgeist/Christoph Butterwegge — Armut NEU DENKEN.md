@@ -1,5 +1,6 @@
 ---
 title: "Christoph Butterwegge — Armut NEU DENKEN"
+aktualisiert: 2026-04-11
 date: 2026-03-31
 tags:
   - zeitgeist

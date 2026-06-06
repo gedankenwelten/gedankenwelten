@@ -1,5 +1,6 @@
 ---
 title: "Maja Göpel & Achim Truger — Wachstum NEU DENKEN"
+aktualisiert: 2026-04-30
 date: 2026-04-29
 tags:
   - zeitgeist

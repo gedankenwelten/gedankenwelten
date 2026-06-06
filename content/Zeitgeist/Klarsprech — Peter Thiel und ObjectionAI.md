@@ -1,5 +1,6 @@
 ---
 title: "Klarsprech — Peter Thiel und ObjectionAI"
+aktualisiert: 2026-05-05
 date: 03.05.2026
 tags:
   - zeitgeist

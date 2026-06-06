@@ -1,5 +1,6 @@
 ---
 title: Ulrike Herrmann — DenkerVita
+aktualisiert: 2026-05-10
 tags: [denker-vita, wirtschaft, kapitalismus, klimakrise, deutschland]
 ---
 

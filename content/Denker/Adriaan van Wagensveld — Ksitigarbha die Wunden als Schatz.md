@@ -1,5 +1,6 @@
 ---
 title: "Adriaan van Wagensveld — Ksitigarbha: Die Wunden als Schatz"
+aktualisiert: 2026-04-19
 date: 19.04.2026
 tags:
   - denker

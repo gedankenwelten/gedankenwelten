@@ -1,5 +1,6 @@
 ---
 title: Prof. Dr.-Ing. Jochen Großmann — DenkerVita
+aktualisiert: 2026-05-16
 tags: [denker-vita, energie, ingenieurskultur, deutschland, energiewende, technologie, nachhaltigkeit]
 ---
 

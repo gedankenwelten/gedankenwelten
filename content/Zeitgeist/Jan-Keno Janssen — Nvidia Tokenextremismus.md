@@ -1,5 +1,6 @@
 ---
 title: "Jan-Keno Janssen — Nvidia Tokenextremismus"
+aktualisiert: 2026-06-02
 description: "„Früher bauten wir CPUs für Menschen, jetzt für KI-Agenten“ — wie Nvidia den PC-Markt destabilisiert und dann die teure Lösung verkauft."
 date: 02.06.2026
 tags:

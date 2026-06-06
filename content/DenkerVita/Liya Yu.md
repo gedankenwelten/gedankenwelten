@@ -1,5 +1,6 @@
 ---
 title: Liya Yu — DenkerVita
+aktualisiert: 2026-04-29
 tags:
   - denker-vita
   - neurowissenschaften

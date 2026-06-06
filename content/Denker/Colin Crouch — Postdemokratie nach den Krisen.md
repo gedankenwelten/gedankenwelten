@@ -1,5 +1,6 @@
 ---
 title: "Colin Crouch — Postdemokratie nach den Krisen"
+aktualisiert: 2026-05-17
 description: "Postdemokratie: Die Fassade der Demokratie bleibt, doch die Substanz wandert zu Eliten und Lobbys. Crouchs Diagnose nach den Krisen."
 tags:
   - denker

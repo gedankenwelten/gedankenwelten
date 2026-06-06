@@ -1,6 +1,7 @@
 ---
 date: 2026-04-11
 title: "Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)"
+aktualisiert: 2026-04-11
 tags:
   - zeitgeist
   - usa

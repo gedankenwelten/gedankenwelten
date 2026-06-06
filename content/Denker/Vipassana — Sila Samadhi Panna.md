@@ -1,5 +1,6 @@
 ---
 title: Vipassana — Sīla, Samādhi, Paññā
+aktualisiert: 2026-04-05
 tags:
   - vipassana
   - ethik

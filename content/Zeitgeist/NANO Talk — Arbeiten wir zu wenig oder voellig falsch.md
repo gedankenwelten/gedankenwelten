@@ -1,5 +1,6 @@
 ---
 title: "NANO Talk — Arbeiten wir zu wenig oder völlig falsch?"
+aktualisiert: 2026-05-15
 date: 15.05.2026
 tags:
   - zeitgeist

@@ -1,6 +1,7 @@
 ---
 date: 2026-04-01
 title: "KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - trump

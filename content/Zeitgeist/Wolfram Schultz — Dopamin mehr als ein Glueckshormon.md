@@ -1,5 +1,6 @@
 ---
 title: "Wolfram Schultz — Dopamin: Mehr als ein Glückshormon"
+aktualisiert: 2026-05-19
 date: 15.05.2026
 tags:
   - zeitgeist

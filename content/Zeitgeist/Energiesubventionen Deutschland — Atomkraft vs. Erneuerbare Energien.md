@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - kernenergie

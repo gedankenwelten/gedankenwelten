@@ -1,5 +1,6 @@
 ---
 title: "Bundestalk taz — Wird die Meinungsfreiheit zu sehr eingeschränkt?"
+aktualisiert: 2026-06-02
 date: 02.06.2026
 tags:
   - zeitgeist

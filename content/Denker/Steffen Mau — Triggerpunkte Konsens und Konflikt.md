@@ -1,5 +1,6 @@
 ---
 title: "Steffen Mau — Triggerpunkte: Konsens und Konflikt"
+aktualisiert: 2026-04-28
 date: 07.11.2023
 tags:
   - denker

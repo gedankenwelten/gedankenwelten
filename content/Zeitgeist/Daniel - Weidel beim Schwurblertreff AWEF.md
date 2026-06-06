@@ -1,5 +1,6 @@
 ---
 title: "Daniel - Weidel beim Schwurblertreff AWEF"
+aktualisiert: 2026-04-27
 date: 2026-04-27
 tags:
   - zeitgeist

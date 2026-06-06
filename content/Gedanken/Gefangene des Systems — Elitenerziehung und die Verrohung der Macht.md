@@ -1,5 +1,6 @@
 ---
 title: "Gefangene des Systems — Elitenerziehung und die Verrohung der Macht"
+aktualisiert: 2026-04-15
 date: 2026-04-15
 tags:
   - gedanke

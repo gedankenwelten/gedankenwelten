@@ -1,5 +1,6 @@
 ---
 title: Heiner Flassbeck — DenkerVita
+aktualisiert: 2026-04-25
 tags: [denker-vita, wirtschaft, kapitalismus, deutschland]
 ---
 

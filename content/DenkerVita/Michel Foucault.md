@@ -1,5 +1,6 @@
 ---
 title: Michel Foucault — DenkerVita
+aktualisiert: 2026-04-19
 tags: [denker-vita, philosophie, macht, diskurs, frankreich]
 ---
 

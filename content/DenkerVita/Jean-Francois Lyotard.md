@@ -1,5 +1,6 @@
 ---
 title: Jean-François Lyotard — DenkerVita
+aktualisiert: 2026-05-15
 tags: [denker-vita, philosophie, postmoderne, erkenntnistheorie, sprachphilosophie, frankreich]
 ---
 

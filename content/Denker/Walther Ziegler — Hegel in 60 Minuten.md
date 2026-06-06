@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Hegel in 60 Minuten"
+aktualisiert: 2026-04-26
 date: 29.06.2023
 tags:
   - denker

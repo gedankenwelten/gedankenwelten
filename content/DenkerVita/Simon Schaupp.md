@@ -1,5 +1,6 @@
 ---
 title: Simon Schaupp — DenkerVita
+aktualisiert: 2026-05-15
 tags: [denker-vita, arbeit, digitalisierung, gewerkschaften, kritische-theorie, belgien]
 ---
 

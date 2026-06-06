@@ -1,5 +1,6 @@
 ---
 title: "Silke Stremlau & Maja Göpel — Investieren NEU DENKEN"
+aktualisiert: 2026-05-31
 date: 26.05.2026
 tags:
   - zeitgeist

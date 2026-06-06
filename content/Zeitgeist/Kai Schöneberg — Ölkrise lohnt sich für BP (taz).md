@@ -1,5 +1,6 @@
 ---
 title: "Kai Schöneberg — Ölkrise lohnt sich für BP"
+aktualisiert: 2026-04-28
 date: 2026-04-28
 tags:
   - zeitgeist

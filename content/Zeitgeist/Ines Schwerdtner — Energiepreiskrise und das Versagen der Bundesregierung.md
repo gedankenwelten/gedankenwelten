@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - energiepolitik

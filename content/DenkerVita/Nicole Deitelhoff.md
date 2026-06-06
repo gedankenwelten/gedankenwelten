@@ -1,5 +1,6 @@
 ---
 title: Nicole Deitelhoff — DenkerVita
+aktualisiert: 2026-04-26
 tags: [denker-vita, politikwissenschaft, friedensforschung, voelkerrecht]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Vipassana — Ānāpāna
+aktualisiert: 2026-04-05
 tags:
   - vipassana
   - meditation

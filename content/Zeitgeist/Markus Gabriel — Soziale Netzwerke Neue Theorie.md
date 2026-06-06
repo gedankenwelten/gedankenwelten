@@ -1,5 +1,6 @@
 ---
 title: "Markus Gabriel — Was die sozialen Netzwerke mit uns machen"
+aktualisiert: 2026-05-09
 date: 04.08.2022
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: Kevin Kühnert — DenkerVita
+aktualisiert: 2026-05-10
 tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerechtigkeit]
 ---
 

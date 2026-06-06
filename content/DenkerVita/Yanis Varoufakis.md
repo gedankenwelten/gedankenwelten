@@ -1,5 +1,6 @@
 ---
 title: Yanis Varoufakis — DenkerVita
+aktualisiert: 2026-05-15
 tags: [denker-vita, wirtschaft, kapitalismus, technologie, europa, griechenland]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Heiner Flassbeck — Deutschlands Lohn-Irrsinn"
+aktualisiert: 2026-05-15
 date: 15.05.2026
 tags:
   - zeitgeist

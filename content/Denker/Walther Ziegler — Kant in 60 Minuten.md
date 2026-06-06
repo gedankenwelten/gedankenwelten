@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Kant in 60 Minuten"
+aktualisiert: 2026-04-26
 date: 26.04.2026
 tags:
   - denker

@@ -1,5 +1,6 @@
 ---
 title: "Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft"
+aktualisiert: 2026-04-28
 date: 28.04.2026
 tags:
   - denker

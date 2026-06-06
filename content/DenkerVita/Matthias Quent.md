@@ -1,5 +1,6 @@
 ---
 title: Matthias Quent — DenkerVita
+aktualisiert: 2026-05-13
 tags: [denker-vita, rechtsextremismus, demokratie, radikalisierung]
 ---
 

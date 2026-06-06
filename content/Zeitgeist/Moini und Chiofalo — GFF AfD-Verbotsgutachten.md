@@ -1,5 +1,6 @@
 ---
 title: "GFF-Verbotsgutachten — Kann die AfD verboten werden?"
+aktualisiert: 2026-05-20
 date: 19.05.2026
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: Annika Brockschmidt — DenkerVita
+aktualisiert: 2026-05-20
 tags: [denker-vita, usa, rechtsextremismus, religion, journalismus, deutschland]
 ---
 

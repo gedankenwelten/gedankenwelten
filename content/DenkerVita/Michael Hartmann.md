@@ -1,5 +1,6 @@
 ---
 title: Michael Hartmann — DenkerVita
+aktualisiert: 2026-05-30
 tags: [denker-vita, soziologie, eliten, soziale-ungleichheit, deutschland, macht]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: IT Mario — DenkerVita
+aktualisiert: 2026-05-24
 tags: [denker-vita, technologie, ki, demokratie, deutschland]
 ---
 

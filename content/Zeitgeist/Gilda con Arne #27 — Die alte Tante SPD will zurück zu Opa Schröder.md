@@ -1,6 +1,7 @@
 ---
 date: 2026-04-01
 title: "Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder"
+aktualisiert: 2026-04-11
 tags:
   - zeitgeist
   - gespräch

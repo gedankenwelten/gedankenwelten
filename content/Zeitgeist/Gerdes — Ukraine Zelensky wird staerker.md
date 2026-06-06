@@ -1,5 +1,6 @@
 ---
 title: "Gerdes — Ukraine: Zelensky wird stärker"
+aktualisiert: 2026-04-25
 date: 2026-04-24
 tags:
   - zeitgeist

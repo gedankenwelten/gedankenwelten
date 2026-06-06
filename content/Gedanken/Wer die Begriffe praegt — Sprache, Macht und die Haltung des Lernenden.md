@@ -1,5 +1,6 @@
 ---
 title: "Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden"
+aktualisiert: 2026-05-24
 date: 2026-05-24
 tags:
   - gedanke

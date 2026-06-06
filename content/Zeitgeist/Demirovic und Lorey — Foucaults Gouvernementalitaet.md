@@ -1,5 +1,6 @@
 ---
 title: "Alex Demirović und Isabell Lorey — Foucaults Gouvernementalität"
+aktualisiert: 2026-04-30
 date: 2025-07-10
 tags:
   - zeitgeist

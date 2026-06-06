@@ -1,5 +1,6 @@
 ---
 title: Polarisierung als Ideologisierungsfalle
+aktualisiert: 2026-04-05
 tags:
   - gedanke
   - philosophie

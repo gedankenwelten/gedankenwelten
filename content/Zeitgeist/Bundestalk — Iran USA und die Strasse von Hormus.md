@@ -1,5 +1,6 @@
 ---
 title: "Bundestalk — Iran, USA und die Straße von Hormus"
+aktualisiert: 2026-04-25
 date: 2026-04-24
 tags:
   - zeitgeist

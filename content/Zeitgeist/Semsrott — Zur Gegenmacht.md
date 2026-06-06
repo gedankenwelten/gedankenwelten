@@ -1,5 +1,6 @@
 ---
 title: "Arne Semsrott — Zur Gegenmacht"
+aktualisiert: 2026-05-20
 date: 20.05.2026
 tags:
   - zeitgeist

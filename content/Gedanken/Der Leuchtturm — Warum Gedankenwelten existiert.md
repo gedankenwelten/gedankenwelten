@@ -1,5 +1,6 @@
 ---
 title: "Der Leuchtturm — Warum Gedankenwelten existiert"
+aktualisiert: 2026-04-05
 tags:
   - gedanken
   - projekt-ziel

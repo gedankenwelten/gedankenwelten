@@ -1,5 +1,6 @@
 ---
 title: "Die Neuen Zwanziger — Salon Lektüren Dezember 2025"
+aktualisiert: 2026-05-06
 date: 2026-01-08
 tags:
   - zeitgeist

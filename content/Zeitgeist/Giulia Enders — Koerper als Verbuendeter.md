@@ -1,5 +1,6 @@
 ---
 title: "Giulia Enders — Körper als Verbündeter"
+aktualisiert: 2026-05-10
 date: 2025-01-01
 tags:
   - zeitgeist

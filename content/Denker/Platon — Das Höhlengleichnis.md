@@ -1,5 +1,6 @@
 ---
 title: Platon — Das Höhlengleichnis
+aktualisiert: 2026-03-21
 tags:
   - philosophie
   - quelle

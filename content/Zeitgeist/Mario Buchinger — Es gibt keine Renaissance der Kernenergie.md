@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Mario Buchinger — Es gibt keine Renaissance der Kernenergie"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - klimapolitik

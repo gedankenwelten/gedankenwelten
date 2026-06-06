@@ -1,5 +1,6 @@
 ---
 title: "phoenixRunde — Arm und Reich in Deutschland"
+aktualisiert: 2026-05-10
 date: 04.05.2026
 tags:
   - zeitgeist

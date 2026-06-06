@@ -1,6 +1,7 @@
 ---
 date: 2026-03-23
 title: "Koshi Politik — ICE Buffalo — Tod eines Flüchtlings"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - trump

@@ -1,5 +1,6 @@
 ---
 title: Clara Mattei — DenkerVita
+aktualisiert: 2026-04-25
 tags: [denker-vita, kapitalismus, austerität, faschismus]
 ---
 

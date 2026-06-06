@@ -1,5 +1,6 @@
 ---
 title: Ivan Krastev — DenkerVita
+aktualisiert: 2026-05-15
 tags: [denker-vita, demokratie, geopolitik, osteuropa, philosophie]
 ---
 

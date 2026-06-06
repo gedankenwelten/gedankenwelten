@@ -1,5 +1,6 @@
 ---
 title: "Adriaan van Wagensveld — Für dich sorgen heißt für andere sorgen"
+aktualisiert: 2026-05-10
 date: 2024-07-29
 tags:
   - zeitgeist

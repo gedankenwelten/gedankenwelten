@@ -1,5 +1,6 @@
 ---
 title: "Wolfram Eilenberger — Die größte Lüge der Philosophie"
+aktualisiert: 2026-04-11
 tags:
   - denker
   - philosophie

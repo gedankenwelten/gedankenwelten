@@ -1,5 +1,6 @@
 ---
 title: Albert Camus — DenkerVita
+aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, existenzialismus, frankreich]
 ---
 

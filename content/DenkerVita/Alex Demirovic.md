@@ -1,5 +1,6 @@
 ---
 title: Alex Demirović — DenkerVita
+aktualisiert: 2026-04-30
 tags: [denker-vita, philosophie, macht, kritische-theorie, demokratie]
 ---
 

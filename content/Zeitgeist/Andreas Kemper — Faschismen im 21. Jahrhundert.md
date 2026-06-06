@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Andreas Kemper — Faschismen im 21. Jahrhundert"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - faschismus

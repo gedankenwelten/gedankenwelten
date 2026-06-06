@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Adorno in 60 Minuten"
+aktualisiert: 2026-04-26
 date: 22.12.2021
 tags:
   - denker

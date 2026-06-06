@@ -1,5 +1,6 @@
 ---
 title: "taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot"
+aktualisiert: 2026-05-03
 date: 02.05.2026
 tags:
   - zeitgeist

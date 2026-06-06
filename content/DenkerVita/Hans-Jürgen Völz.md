@@ -1,5 +1,6 @@
 ---
 title: Hans-Jürgen Völz — DenkerVita
+aktualisiert: 2026-06-02
 tags: [denker-vita, wirtschaft, deutschland, kapitalismus, neoliberalismus]
 ---
 

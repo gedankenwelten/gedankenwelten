@@ -1,5 +1,6 @@
 ---
 title: "Martin Sonneborn — Endloser Krieg"
+aktualisiert: 2026-05-03
 date: 03.05.2026
 tags:
   - zeitgeist

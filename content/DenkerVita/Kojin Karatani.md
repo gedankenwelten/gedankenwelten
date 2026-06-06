@@ -1,5 +1,6 @@
 ---
 title: Kojin Karatani — DenkerVita
+aktualisiert: 2026-05-15
 tags: [denker-vita, philosophie, marxismus, japan, politische-oekonomie, literaturtheorie]
 ---
 

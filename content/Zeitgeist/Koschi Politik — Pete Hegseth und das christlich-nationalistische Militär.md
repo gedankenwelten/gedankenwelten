@@ -1,6 +1,7 @@
 ---
 date: 2026-04-01
 title: "Koschi Politik — Pete Hegseth und das christlich-nationalistische Militär"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - usa-politik

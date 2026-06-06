@@ -1,5 +1,6 @@
 ---
 title: Gedanken
+aktualisiert: 2026-06-06
 tags:
   - gedanke
 ---

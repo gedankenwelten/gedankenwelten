@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedrängt"
+aktualisiert: 2026-05-11
 date: 11.05.2026
 tags:
   - zeitgeist

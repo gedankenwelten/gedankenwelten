@@ -1,5 +1,6 @@
 ---
 title: "🌱 GoodNews"
+aktualisiert: 2026-06-06
 tags:
   - goodnews
   - index

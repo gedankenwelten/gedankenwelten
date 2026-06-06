@@ -1,5 +1,6 @@
 ---
 title: Fabian Pfeffer — DenkerVita
+aktualisiert: 2026-05-10
 tags: [denker-vita, wirtschaft, soziale-ungleichheit, philosophie, deutschland]
 ---
 

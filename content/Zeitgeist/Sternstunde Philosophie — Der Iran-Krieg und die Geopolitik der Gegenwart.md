@@ -1,6 +1,7 @@
 ---
 date: 2026-03-31
 title: "Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - iran

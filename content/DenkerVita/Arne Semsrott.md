@@ -1,5 +1,6 @@
 ---
 title: Arne Semsrott — DenkerVita
+aktualisiert: 2026-04-25
 tags: [denker-vita, pressefreiheit, transparenz, demokratie]
 ---
 
@@ -64,7 +65,7 @@ Sein Anti-Rechtsextremismus-Engagement (*Machtübernahme*, Gegenrechtsschutz-Bei
 
 ## Verbindungen zu anderen Denkern
 
-<!-- Noch zu ergänzen — z.B. Gilda Sahebi, Heribert Prantl, Hannah Arendt (Transparenz & Macht), Edward Snowden (Whistleblowing) -->
+%% Noch zu ergänzen — z.B. Gilda Sahebi, Heribert Prantl, Hannah Arendt (Transparenz & Macht), Edward Snowden (Whistleblowing) %%
 
 ## Cortex-Notes
 

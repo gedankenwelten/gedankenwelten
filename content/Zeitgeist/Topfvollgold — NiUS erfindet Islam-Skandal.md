@@ -1,5 +1,6 @@
 ---
 title: "Topfvollgold — NiUS erfindet Islam-Skandal"
+aktualisiert: 2026-05-14
 date: 13.05.2026
 tags:
   - zeitgeist

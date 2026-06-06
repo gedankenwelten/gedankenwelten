@@ -1,5 +1,6 @@
 ---
 title: "David Chalmers — Das Hard Problem des Bewusstseins"
+aktualisiert: 2026-05-06
 date: 14.07.2014
 tags:
   - zeitgeist

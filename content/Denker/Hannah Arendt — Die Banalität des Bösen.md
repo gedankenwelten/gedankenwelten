@@ -1,5 +1,6 @@
 ---
 title: Hannah Arendt — Die Banalität des Bösen
+aktualisiert: 2026-03-21
 tags:
   - denker
   - philosophie

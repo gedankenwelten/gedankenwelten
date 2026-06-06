@@ -1,6 +1,7 @@
 ---
 date: 2026-03-27
 title: "Eva von Redecker — Dieser Drang nach Härte"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - faschismus

@@ -1,6 +1,7 @@
 ---
 date: 2026-04-08
 title: "Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft"
+aktualisiert: 2026-04-11
 tags:
   - zeitgeist
   - gespräch

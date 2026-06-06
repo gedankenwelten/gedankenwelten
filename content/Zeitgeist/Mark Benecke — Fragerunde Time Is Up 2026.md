@@ -1,5 +1,6 @@
 ---
 title: "Mark Benecke — Fragerunde: Time Is Up 2026"
+aktualisiert: 2026-05-11
 date: 11.05.2026
 tags:
   - zeitgeist

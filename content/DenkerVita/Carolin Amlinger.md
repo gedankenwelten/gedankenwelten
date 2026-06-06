@@ -1,5 +1,6 @@
 ---
 title: Carolin Amlinger — DenkerVita
+aktualisiert: 2026-05-20
 tags: [denker-vita, demokratie, autoritarismus, faschismus, literatursoziologie, deutschland]
 ---
 

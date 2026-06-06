@@ -1,5 +1,6 @@
 ---
 title: "Koschi Politik — Trump GAGA auf FOX und Hormuz-Blockade (15.04.2026)"
+aktualisiert: 2026-04-15
 date: 2026-04-15
 tags:
   - zeitgeist

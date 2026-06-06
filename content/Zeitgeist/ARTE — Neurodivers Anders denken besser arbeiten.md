@@ -1,5 +1,6 @@
 ---
 title: "ARTE Re: — Neurodivers: Anders denken, besser arbeiten?"
+aktualisiert: 2026-04-29
 date: 2026-04-29
 tags:
   - zeitgeist

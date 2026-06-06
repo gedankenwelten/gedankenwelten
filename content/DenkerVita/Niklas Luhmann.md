@@ -1,5 +1,6 @@
 ---
 title: Niklas Luhmann — DenkerVita
+aktualisiert: 2026-04-23
 tags: [denker-vita, philosophie, systemtheorie, soziologie, erkenntnistheorie]
 ---
 

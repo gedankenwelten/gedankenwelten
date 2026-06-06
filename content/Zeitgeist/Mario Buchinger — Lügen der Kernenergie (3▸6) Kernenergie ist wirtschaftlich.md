@@ -1,6 +1,7 @@
 ---
 date: 2026-03-30
 title: "Mario Buchinger — Lügen der Kernenergie (3/6): Kernenergie ist wirtschaftlich"
+aktualisiert: 2026-04-05
 tags:
   - zeitgeist
   - kernenergie

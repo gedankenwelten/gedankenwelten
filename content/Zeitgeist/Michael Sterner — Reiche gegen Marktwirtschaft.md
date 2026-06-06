@@ -1,5 +1,6 @@
 ---
 title: "Michael Sterner — Reiche gegen Marktwirtschaft"
+aktualisiert: 2026-05-06
 date: 06.05.2026
 tags:
   - zeitgeist

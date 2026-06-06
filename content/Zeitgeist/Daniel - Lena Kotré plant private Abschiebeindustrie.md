@@ -1,5 +1,6 @@
 ---
 title: "Daniel - Lena Kotré plant private Abschiebeindustrie"
+aktualisiert: 2026-04-13
 date: 2026-04-05
 tags:
   - zeitgeist

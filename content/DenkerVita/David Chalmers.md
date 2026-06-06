@@ -1,5 +1,6 @@
 ---
 title: David Chalmers — DenkerVita
+aktualisiert: 2026-05-06
 tags:
   - denker-vita
   - philosophie

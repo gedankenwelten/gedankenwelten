@@ -1,5 +1,6 @@
 ---
 title: "Liya Yu — Neuropolitik und die Grenzen der Moral"
+aktualisiert: 2026-04-29
 date: 2026-04-29
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus"
+aktualisiert: 2026-05-20
 date: 18.05.2026
 tags:
   - zeitgeist

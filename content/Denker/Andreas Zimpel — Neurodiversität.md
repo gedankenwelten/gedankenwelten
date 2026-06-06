@@ -1,5 +1,6 @@
 ---
 title: Andreas Zimpel — Neurodiversität
+aktualisiert: 2026-03-22
 tags:
   - denker
   - neurodiversität

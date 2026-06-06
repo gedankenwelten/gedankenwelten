@@ -1,5 +1,6 @@
 ---
 title: Mark Benecke — DenkerVita
+aktualisiert: 2026-05-11
 tags: [denker-vita, naturwissenschaft, klimawandel, deutschland, wissenschaftskommunikation]
 ---
 

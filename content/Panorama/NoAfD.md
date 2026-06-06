@@ -1,5 +1,6 @@
 ---
 title: "NoAfD"
+aktualisiert: 2026-04-27
 tags:
   - panorama
   - afd

@@ -1,5 +1,6 @@
 ---
 title: Adriaan van Wagensveld — DenkerVita
+aktualisiert: 2026-04-19
 tags: [denker-vita, vipassana, buddhismus, meditation, mitgefühl, bodhisattva]
 ---
 

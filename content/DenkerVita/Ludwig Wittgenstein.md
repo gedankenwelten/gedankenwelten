@@ -1,5 +1,6 @@
 ---
 title: Ludwig Wittgenstein — DenkerVita
+aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, sprache, erkenntnistheorie, oesterreich]
 ---
 

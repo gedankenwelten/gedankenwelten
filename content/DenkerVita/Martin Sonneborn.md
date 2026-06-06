@@ -1,5 +1,6 @@
 ---
 title: Martin Sonneborn — DenkerVita
+aktualisiert: 2026-05-03
 tags: [denker-vita, satire, eu, geopolitik]
 ---
 

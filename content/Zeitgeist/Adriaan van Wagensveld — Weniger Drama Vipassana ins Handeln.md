@@ -1,5 +1,6 @@
 ---
 title: "Adriaan van Wagensveld — Weniger Drama: Wie Vipassana dich ins Handeln bringt"
+aktualisiert: 2026-04-29
 date: 2024-05-20
 tags:
   - zeitgeist

@@ -1,5 +1,6 @@
 ---
 title: "Tilo Jung — Erben, Wirtschaft, AfD-Strategie"
+aktualisiert: 2026-04-25
 date: 2026-04-19
 tags:
   - zeitgeist
