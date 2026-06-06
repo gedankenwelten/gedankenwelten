@@ -17,6 +17,14 @@ aliases:
 
 ![[assets/Vipassana_Dukkha.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — pädagogisches Aquarell** — Ocker-Figuren über kühlem Blau-Horizont. Eine Reihe facettierter Gestalten — naiver Optimismus, der eine Flasche ausgießt, jubelnder und gebeugter Pessimismus, dann die ehrliche Diagnose als ausgestreckte Hand; darunter der Eisberg (tanhā · dvesha, „the real cause is always below the surface") und die Wurzel des Dhamma. Die nüchterne Palette macht Dukkha als erste Edle Wahrheit lesbar — keine Schwarzmalerei, eine Diagnose.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, pedagogical watercolor, ochre figures on a cool blue waterline, aged paper, 1200x500 banner. Left to center: a row of cubo-faceted human figures — one pouring out a bottle ("naiver Optimismus · dieselbe Flasche"), one with raised arms, one bowed, then a standing figure meeting an outstretched hand ("ehrliche Diagnose"). Below the surface: an iceberg labeled "tanhā · dvesha · the real cause is always below the surface", a small flame, and a tree root labeled "Dhamma". Captions "Dukkha · erste Edle Wahrheit · kein Pessimismus — eine Diagnose". Prismatic facets, ink contours, handwritten annotations. No photorealism.
+
+</details>
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Schwerpunkt Tag 6.
 
 *Dukkha* — Leiden, Unzufriedenheit, das grundlegende Unbehagen. Das erste der vier Edlen Wahrheiten des Buddha. Und der am häufigsten missverstandene Begriff der gesamten Lehre.

@@ -17,6 +17,14 @@ aliases:
 
 ![[assets/Tiana_Travels_Das_Amerikanische_Betriebssystem.png|1200]]
 
+<details><summary>🎨</summary>
+
+**Erzählerisches Editorial-Aquarell** — Weiche, gedämpfte Lasuren in einem dreiteiligen Bildfries. Links ein Klassenzimmer unter zwei US-Flaggen, Kinder mit erhobenen Händen, der Schatten eines Zahnrads am Boden; in der Mitte ein Mann, der eine Bahn aus Stars-and-Stripes-Schienen entlanggeht; rechts mündet die Schiene in ein Haus auf dem Hügel (der „American Dream"), während im Untergrund Zahnräder und Platinenlinien das verborgene Betriebssystem zeigen. Die ruhige, fast freundliche Palette macht Tiana Travels' These umso schärfer: Die Ideologie ist so installiert, dass sie wie selbstverständlich aussieht.
+
+*Prompt:* Soft narrative editorial watercolor triptych, muted warm washes, three panels, 1200x500 banner. Left panel: a classroom under two US flags, children raising hands at desks, the shadow of a gear on the floor. Center panel: a man in a suit walking along a path made of stars-and-stripes railroad tracks, faint circuit-board lines in the sky. Right panel: the track curving up to a small house on a hill (the American Dream), with gears and circuit traces glowing underground. Gentle, almost reassuring palette, subtle American iconography. No photorealism, soft edges.
+
+</details>
+
 > [!abstract] Worum es geht
 > Warum wählen Millionen Amerikaner gegen ihre eigenen Interessen? Warum ist medizinische Insolvenz in den USA ein „normaler Dienstag"? Und warum lehren Schulen Konformität statt Urteilsvermögen? Tiana — Amerikanerin, heute in Paris — verarbeitet in drei Videos einen Befund, der aus europäischer Distanz erst sichtbar wird: Amerika hat nicht nur strukturelle Defekte, es hat in seinen Bürgern ein ideologisches Betriebssystem installiert, das Systemkritik wie Verrat aussehen lässt. Drei Videos, eine These.
 

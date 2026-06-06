@@ -15,6 +15,14 @@ aliases:
 
 ![[assets/Christine_Braehler_Selbstmitgefuehl_Scham_Reife_Liebe.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — facettiertes Aquarell** — Zarte Rosé- und Goldtöne über grauen Wolken. Eine große, aus rosa Facetten zusammengesetzte Panzer-Gestalt öffnet ihre Brust und hält darin ein kleines, weiches Embryo-/Kind-Wesen geborgen, von goldenem Licht durchschienen — „Liebe offenbart alles, was nicht Liebe ist". Die Spannung zwischen harter Facette und zärtlichem Kern trägt Christine Brählers Thema: Selbstmitgefühl als radikale Umorientierung von Kontrolle zu Fürsorge.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, faceted watercolor, soft rose and gold over grey clouds on aged paper, 1200x500 banner. A large standing figure assembled from rose-coloured geometric facets (almost armoured) opens its chest cavity and cradles a small soft embryonic inner-child figure within, suffused by warm golden light breaking through grey clouds behind. Handwritten caption "Liebe offenbart alles, was nicht Liebe ist". Tension between hard facets and tender core, ink contours, translucent washes. No photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > Selbstmitgefühl klingt harmlos — fast rosa und fluffig, wie Lukas Klaschinski im Gespräch sagt. Was Dr. Christine Brähler in dieser Folge des Jakobsweg-Podcasts aufmacht, ist jedoch eine fundamentale Revision dessen, wie wir mit uns selbst und anderen in Beziehung stehen. Der innere Kritiker ist kein Fehler der Persönlichkeit, sondern ein alter Schutzmechanismus mit guten Absichten. Scham ist das klebrigste und gleichzeitig flüchtigste Gefühl, das wir haben. Und wer wirklich für andere da sein will, muss zuerst lernen, für sich selbst da zu sein — nicht als Vorbedingung der Leistung, sondern als Bedingung echter Verbindung.
 

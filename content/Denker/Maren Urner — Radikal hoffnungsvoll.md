@@ -21,6 +21,14 @@ aliases:
 
 ![[assets/Maren_Urner_Radikal_Hoffnungsvoll.png]]
 
+<details><summary>🎨</summary>
+
+**Franz Marc × Paul Klee — expressionistische Gouache** — Kräftige, flächige Farben mit schwarzer Kontur: drei galoppierende Pferde (rot, grau, schwarz) als apokalyptische Reiter von Klima und Krieg, darüber der Bogen „HOFFNUNG", der die abschüssigen Bahnen Willenskraft und Wegkraft überspannt; links die Leiter zur Sonne, rechts ein Regenbogen und eine patchworkartige Maschinen-Figur, eine Hand, die ihn zeichnet. Marcs expressionistische Pferde tragen die Bedrohung, Klees Farbquadrate die Konstruktion des Geistes — Hoffnung als Haltung, nicht als Optimismus.
+
+*Prompt:* Franz Marc meets Paul Klee, bold flat gouache with black contour lines, saturated folk-expressionist palette, 1200x500 banner. Center foreground: three galloping horses (red, grey, black) like apocalyptic riders, labels "KLIMA · KRIEG". Above them an arch spelling "HOFFNUNG" spanning two sloping roads labeled "WILLENSKRAFT · WEGKRAFT". Left: a yellow sun and a ladder, caption "Snyder: You can get there from here". Right: a rainbow rising and a patchwork machine-like human figure made of small coloured squares, a hand drawing the rainbow, captions "Menschen denken wie Maschinen? · Rainbow Theory of the Mind · re:publica 26". Expressionist horses, Klee-like colour grid. No photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > Hoffnung ist kein Optimismus, sondern eine erlernbare Denkweise aus zwei Zutaten: Willenskraft und Wegkraft (C.R. Snyders Hope Theory). Maren Urner benennt auf der re:publica 26 drei „Pferde der Selbstzerstörung" — Klima, Krieg, Kommunikationsmacht — und setzt dagegen Hoffnung als wissenschaftliches Konzept, nicht als Flucht. Ihre schärfste These: Die eigentliche KI-Gefahr ist nicht, dass Maschinen wie Menschen denken, sondern dass Menschen beginnen, wie Maschinen zu denken.
 

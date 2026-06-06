@@ -18,6 +18,14 @@ aliases:
 
 ![[assets/Vipassana_Sankara.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — pädagogisches Aquarell** — Erdige Braun- und Ockertöne über grauem Grund. In der Mitte ein großer Baum mit facettierten goldenen Dreiecks-Blättern und tiefem Wurzelwerk — „Sabbe Sankhārā Aniccā · wie der Same, so die Frucht"; links die volle Batterie und der kleine sprießende Same (Same um Same), rechts der durchscheinende Baum, dem das Wasser des Vipassana den Treibstoff entzieht, daneben die beobachtende Gestalt. Die Palette aus Wachstum und Verdorren trägt die Konditionierung: kein Treibstoff, kein neuer Sankhāra.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, pedagogical watercolor, earthy brown and ochre over grey, aged paper, 1200x500 banner. Center: a large tree with faceted golden triangular leaves and deep exposed roots, handwritten "Sabbe Sankhārā Aniccā · wie der Same, so die Frucht". Left: a battery labeled "VOLL" and a small sprouting sapling, caption "Sankhāra · Same um Same". Right: a faint ghost-outline of the same tree being drained, a bucket of water labeled "Vipassana", and a small figure observing, captions "kein Treibstoff · Beobachten ohne Reaktion · S.N. Goenka". Prismatic facets, ink contours, handwritten annotations. No photorealism.
+
+</details>
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Schwerpunkt Tage 6–8.
 
 *Sankhāra* — Konditionierungen, Reaktionsmuster, die sich in den Geist eingraben. Der Same, aus dem jede zukünftige Erfahrung wächst. Das Fundament von Karma — nicht als mystisches Konzept, sondern als psychologischer Mechanismus.

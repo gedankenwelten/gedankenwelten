@@ -6,6 +6,14 @@ tags: [denker-vita, philosophie, kapitalismus, materialismus, deutschland]
 
 ![[assets/Karl_Marx_DenkerVita.png|1200]]
 
+<details><summary>🎨</summary>
+
+**El Lissitzky — konstruktivistisches Agitprop** — Strenges Schwarz-Weiß-Rot, flache Scherenschnitt-Formen, harte Diagonalen. Links die schwarze Fabrik mit Schloten und Zahnrädern, darüber der „Überbau" aus Krone, Justizwaage, Theatermaske und Kirche, an dünnen weißen Fäden gehängt wie Marionetten; eine rote Keildiagonale (vgl. „Schlagt die Weißen mit dem roten Keil") trennt das Bild; rechts beugt sich der schwarze Arbeiter nach der Kugel aus aufgetürmten Münzen. Die Lissitzky-Sprache der frühen Sowjet-Plakate übersetzt Marx' Basis-Überbau-Modell ohne ein Wort.
+
+*Prompt:* El Lissitzky constructivist agitprop poster, strict black-white-red, flat cut-out shapes, bold diagonals, 1200x500 banner. Left: a black factory silhouette with chimneys and gears; above it, suspended on thin white strings like marionettes, the icons of the superstructure — a crown, the scales of justice, a theatre mask, a church. A large red wedge slashes diagonally across the composition. Bottom: a row of tiny identical worker figures forming a base line in red. Right: a bent black worker-silhouette reaching toward a black sphere piled with stacks of coins. Geometric, propaganda-poster flatness, no gradients, no photorealism.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

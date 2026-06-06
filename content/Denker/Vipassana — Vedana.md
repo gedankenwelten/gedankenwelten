@@ -18,6 +18,14 @@ aliases:
 
 ![[assets/Vipassana_Vedana.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — pädagogisches Aquarell** — Blau-Gold über Bütten. In der Mitte eine facettierte Gestalt, durchzogen von einer goldenen Ringscheibe auf Höhe der Körperempfindung — „der einzige Eingang"; links der Eisberg des Unbewussten, das nie schläft; rechts der Kreislauf Empfindung → Reaktion (Verlangen/Aversion) → Sankhāra, den das beobachtende Auge mit Gleichmut durchbricht: „kein neuer Sankhāra". Die kühle, klare Palette macht Vedanā als Schaltstelle sichtbar — Wissen ist nicht Transformation.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, pedagogical watercolor, blue and gold on aged paper, 1200x500 banner. Center: a cubo-faceted standing figure crossed by a glowing golden ring-disk at the level of bodily sensation, caption "Vedanā · der einzige Eingang · Wissen ist nicht Transformation". Left: an iceberg, caption "das Unbewusste · schläft nie · unbemerkt", a hand with sparkles. Right: a circular flow diagram "Empfindung → Reaktion (Verlangen · Aversion) → Sankhāra", a central observing eye labeled "Beobachten mit Gleichmut → kein neuer Sankhāra", caption "Anicca · Anicca". Prismatic facets, ink contours, handwritten annotations. No photorealism.
+
+</details>
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Ab Tag 4, zentral für die gesamte Praxis.
 
 *Vedanā* — Empfindung. Nicht Emotion, nicht Gedanke. Die rohe, direkte Körperempfindung: Kribbeln, Wärme, Druck, Stechen, Taubheit, Pulsieren. Angenehm, unangenehm, neutral. Das ist Vedanā.

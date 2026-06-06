@@ -19,6 +19,14 @@ aliases:
 
 ![[assets/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht.png|1200]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee — Aquarell (im Bild signiert)** — Zarte Rosa- und Blaulasuren über Bütten, das Blatt trägt Klees eigene Handschrift: „demos" und „things that seem intact but are inwardly hollow", unten die Signatur „Paul Klee". Eine pyramidenförmige Wabe gleichförmiger Kabinen, in jeder eine kleine schwarze Figur — der atomisierte Demos; links ein hohler Turm/Burgfragment mit heruntergelassener Brücke an Ketten, rechts zerfällt alles in Klees charakteristisches Feld aus Farbquadraten und Zeichen. Die brüchige Schönheit der Palette trägt Wendy Browns Diagnose: Die Form der Demokratie bleibt, ihre Substanz ist ausgehöhlt.
+
+*Prompt:* Paul Klee watercolor on aged paper, delicate rose and blue washes, the artist's own handwriting on the sheet, 1200x500 banner. A pyramid-shaped honeycomb of identical small booths, each holding a tiny black human figure (the atomised demos), some shaking hands. Left: a hollow tower / castle fragment with a lowered drawbridge on chains. Right: everything dissolving into Klee's signature field of coloured squares, dots and small geometric signs, the faint word "demos". Handwritten caption "things that seem intact but are inwardly hollow", signature "Paul Klee". Translucent washes, fragile geometric beauty. No photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > Neoliberalismus, so Wendy Brown, ist weit mehr als Marktderegulierung — er ist eine Revolution der Vernunft, die alle Lebensbereiche nach dem Bild von Märkten umformt. Der entscheidende Schaden passiert nicht, wenn Regierungen schrumpfen, sondern wenn Demokratie selbst als Marktplatz verstanden wird: Denn dann verliert das Volk die Sprache seiner eigenen Macht. Brown nennt das die "stille Revolution" — eine Aushöhlung von innen, bei der keine Bastille gestürmt, sondern das demokratische Imaginäre still zersetzt wird. Das Gespräch mit dem Institute for New Economic Thinking (2016) ist eine komprimierte Einführung in ihr Hauptwerk *Undoing the Demos*.
 

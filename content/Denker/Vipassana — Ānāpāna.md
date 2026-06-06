@@ -18,6 +18,14 @@ aliases:
 
 ![[assets/Vipassana_Anapana.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — pädagogisches Aquarell** — Kühle Graublau-Töne, fast monochrom; eine facettierte Gestalt, von konzentrischen Spiralen-„Knoten" umwickelt, daneben ein großes ruhiges Gesicht, durch das der Atem in feinen Linien ein- und ausströmt, rechts die Pfeilspitze, die zur Schärfe (Samādhi) zusammenläuft. Die zarte, beinahe körperlose Palette übersetzt Ānāpāna — die reine Beobachtung des natürlichen Atems, das Schärfen des Werkzeugs vor der eigentlichen Arbeit.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, pedagogical watercolor, near-monochrome cool grey-blue on aged paper, 1200x500 banner. Left: a tall cubo-faceted human figure wrapped in many concentric spiral "knots" in fine ink, labels "Tage 1–3 · nicht eingreifen · nur bemerken". Center: a large calm stylized face seen frontally, thin breath-lines flowing in and out of the nostrils, label "Ānāpāna · die Wirklichkeit, wie sie ist". Right: the breath-lines converge into a sharp arrow-blade, label "Samādhi · das Werkzeug schärfen". Translucent washes, prismatic facets, handwritten annotations. No photorealism.
+
+</details>
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Tage 1–3.
 
 Ānāpāna ist keine Atemübung. Es ist das erste Werkzeug — und gleichzeitig eine eigene Praxis, die man ein Leben lang verfeinern kann. Drei Tage lang, bevor Vipassana überhaupt beginnt, sitzt man und beobachtet nichts anderes als den Atem. Den natürlichen, unkontrollierten Atem — wie er kommt und wie er geht.
