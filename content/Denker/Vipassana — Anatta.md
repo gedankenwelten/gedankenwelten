@@ -18,6 +18,14 @@ aliases:
 
 ![[assets/Vipassana_Anatta.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — pädagogisches Aquarell** — Blau-Gold über Bütten. Links steht das „aufgebaute Ich" als facettierte Figur hinter Gitterstäben, beschriftet mit Meinung, Selbstbild, Körper, Sankhāra; rechts löst sich dieselbe Gestalt in wehende blau-goldene Bänder auf, ein Origami-Vogel steigt auf — „der Käfig fällt". Die Lupe über der leeren Hand markiert die Einsicht: kein festes Ich, ein Prozess.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, pedagogical watercolor, blue and gold washes on aged paper, 1200x500 banner. Left: two cubo-faceted standing figures behind a thin grid of vertical bars, layered labels "Meinung · Selbstbild · Körper · Sankhāra", caption "das aufgebaute Ich". Center: a magnifying glass above an open hand, caption "Anattā — kein festes Ich, ein Prozess". Right: a faceted figure dissolving into sweeping blue-and-gold ribbons, a small origami bird rising, caption "der Käfig fällt". Prismatic facets, ink contours, handwritten annotations. No photorealism.
+
+</details>
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Tage 7–8.
 
 *Anattā* — Nicht-Selbst. Das radikalste der drei Merkmale. Das Bedrohlichste für den Verstand — und das Befreiendste für den Menschen, der es wirklich erfahren hat.

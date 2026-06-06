@@ -18,6 +18,14 @@ aliases:
 
 ![[assets/Vipassana_Metta.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — pädagogisches Aquarell** — Goldgelb und Rosé, strahlend warm. Links endet die „Operation" — eine facettierte Figur zwischen scharfen rosa Splittern (Skalpell, Balsam); in der Mitte steht die geläuterte Gestalt, das Herz als goldene Quelle, von konzentrischen Liebes-Ringen umgeben, die sich auf eine Menschenmenge ausbreiten; rechts die offene Hand des Dhamma Seva. Die warme Palette macht Mettā sichtbar: der geläuterte Geist ist von Natur aus voller Liebe — kein Leisten, ein Sein.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, pedagogical watercolor, radiant gold-yellow and rose washes on aged paper, 1200x500 banner. Left: a cubo-faceted figure among sharp pink triangular shards, small scalpel, captions "die Operation endet · Balsam". Center: a standing luminous figure with a glowing golden heart, surrounded by expanding concentric rings of love that reach a small crowd of tiny figures, caption "Mettā · der geläuterte Geist ist von Natur aus voller Liebe". Right: an open offering hand, caption "Dhamma Seva · kein Ego — kein Kalkül". Prismatic facets, ink contours, handwritten annotations. No photorealism.
+
+</details>
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Tag 10 — der Abschluss.
 
 *Mettā* — liebende Güte, wohlwollendes Mitgefühl. Am zehnten Tag lernen die Schüler eine neue Praxis: die Früchte der neun Tage Arbeit nach außen teilen. Das stille Ausströmen von gutem Willen — an alle Wesen.

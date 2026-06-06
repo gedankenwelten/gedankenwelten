@@ -17,6 +17,14 @@ aliases:
 
 ![[assets/Vipassana_Upekka.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — pädagogisches Aquarell** — Tiefe Blau- und Türkistöne mit goldenen Akzenten, in Bildfelder gegliedert wie eine Comic-Tafel. In der Mitte reitet eine facettierte Figur gelassen auf einer großen Welle — Upekkha als „voller Kontakt, kein Kontrollverlust", „zwischen Reiz und Reaktion — ein Raum"; links die Flucht, die die Negativität nur tiefer schiebt; rechts kleine Alltagsszenen (im Gehen, im Essen, im Schlafen) und das Herz als Grundlage für Mettā. Die bewegte, aber beherrschte Palette macht Gleichmut als Dynamik spürbar, nicht als Kälte.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, pedagogical watercolor divided into comic-like panels, deep blue and turquoise with gold accents, aged paper, 1200x500 banner. Center: a cubo-faceted figure calmly surfing a large cresting wave, captions "Upekkha · vollständiger Kontakt — kein Kontrollverlust · zwischen Reiz und Reaktion — ein Raum". Left: a figure fleeing as the dark water deepens, caption "Flucht · die Negativität goes deeper, not away · multipliziert sich". Right: small daily-life vignettes (walking, eating, lying down) and a heart, captions "im Gehen · im Essen · im Schlafen · Grundlage für Mettā". Prismatic facets, ink contours, handwritten annotations. No photorealism.
+
+</details>
+
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Schwerpunkt Tag 9.
 
 *Upekkha* — Gleichmut. Das Wort klingt nüchtern. Fast kalt. Aber Goenka meint das Gegenteil von Kälte.

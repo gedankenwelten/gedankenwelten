@@ -17,6 +17,14 @@ aliases:
 
 ![[assets/SN_Goenka_Vipassana.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — pädagogisches Aquarell** — Lasierende Indigo- und Ockertöne über Bütten, kubo-facettierte Figuren und handschriftliche Pali-Begriffe wie in Klees „Pädagogischem Skizzenbuch", die Facettierung aus Feiningers Prismatik. Links das Sankhāra-Rad aus Pfeilen und Spiralen, in der Mitte der Meditierende mit der Flamme der Vedanā über der Stufenpyramide Sīla–Samādhi–Paññā, rechts die gläserne Gestalt und das sehende Auge. Der Lehrtafel-Charakter passt zu Goenka, der Vipassana als Technik verstanden wissen will, nicht als Glaube.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, pedagogical watercolor on aged paper, translucent washes of indigo and ochre, 1200x500 banner. Left: a standing cubo-faceted human figure inside a wheel of arrows and spirals, label "Sankhāra · Reaktion". Center: a seated meditator built from translucent geometric planes with a small flame at the heart, above a stepped pyramid lettered "Sīla / Samādhi / Paññā", "Vedanā" handwritten beside it. Right: a faceted standing figure facing a large stylized eye emitting thin ruled rays. Handwritten German and Pali annotations, signature "S.N. Goenka". Prismatic faceted forms, ink contours, soft watercolor bleeds. No photorealism, no sharp edges.
+
+</details>
+
 → DenkerVita: [[DenkerVita/S.N. Goenka]]
 
 Quelle: Abendliche Dhamma-Diskurse, 10-Tages-Kurs (Deutsch)

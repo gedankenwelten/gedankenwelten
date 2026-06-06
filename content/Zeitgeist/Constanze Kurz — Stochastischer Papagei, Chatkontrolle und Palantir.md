@@ -21,6 +21,14 @@ aliases:
 
 ![[assets/Constanze_Kurz_Stochastischer_Papagei_Chatkontrolle_Und_Palantir.png|700]]
 
+<details><summary>🎨</summary>
+
+**Lyonel Feininger — kubo-futuristisches Aquarell** — Facettierte Blau-, Grau- und Goldtöne, prismatisch aufgebrochene Stadt. In der Mitte thront ein großer Papagei, dessen Gefieder aus Platinen, Chips und QR-Mustern besteht — der „stochastische Papagei"; über ihm die Formel `P(x)=∫f(θ)dθ/σ²`, unter ihm rieseln Datenpunkte auf eine Menge kleiner Silhouetten herab, durchzogen von roten Überwachungs-Trajektorien. Feiningers prismatische Architektur übersetzt Constanze Kurz' Entmythologisierung: KI ist kein Geist, sondern Statistik — und dieselbe Logik überwacht die Stadt.
+
+*Prompt:* Lyonel Feininger cubo-futurist watercolor, faceted blue, grey and gold, prismatic fractured cityscape, 1200x500 banner. Center: a large perched parrot whose plumage is made of circuit boards, microchips and QR patterns (a "stochastic parrot"); above it a handwritten probability formula; below, data points rain down onto a crowd of small human silhouettes, crossed by thin red surveillance trajectory lines. Faceted prismatic buildings, translucent washes, ink contours. No photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > CCC-Sprecherin Constanze Kurz entmythologisiert generative KI als stochastischen Papagei — und verwebt das mit dem größeren Bild: Dieselbe Überwachungslogik, die hinter Palantir Gotham steckt, treibt auch Chatkontrolle, Vorratsdatenspeicherung und die UN-Cybercrime-Konvention an. Das Gespräch mit Tilo Jung (Jung & Naiv, Folge 827) ist ein Masterclass in techno-politischer Nüchternheit: keine Panik, keine Naivität — sondern das Seziermesser einer Informatikerin, die seit 30 Jahren Machtstrukturen in Code liest.
 

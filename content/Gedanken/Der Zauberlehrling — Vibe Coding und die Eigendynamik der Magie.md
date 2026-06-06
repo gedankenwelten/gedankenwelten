@@ -21,6 +21,14 @@ aliases:
 
 ![[assets/Der Zauberlehrling - Vibe Coding und die Eigendynamik der Magie.png|1200]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — facettiertes Aquarell** — Gedämpftes Grau und Ocker mit blaugrünen Akzenten. Links die facettierte Lehrlings-Gestalt im langen Gewand; in der Mitte zwei gekreuzte Besen unter einem leuchtenden Maus-Cursor als „Zauberstab", aus denen Code-Runen rieseln; rechts eine Treppe aus gestapelten Code-Blöcken (`printf` / `int main()`) in blaugrünen Lasuren, die ins Ungewisse steigt. Klees stille, traumartige Palette macht Goethes Zauberlehrling als Vibe-Coding-Parabel lesbar: die Magie läuft weiter, auch ohne Verständnis.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, faceted watercolor, muted grey and ochre with blue-green accents on aged paper, 1200x500 banner. Left: a tall cubo-faceted figure in a long robe (the apprentice). Center: two crossed brooms beneath a softly glowing computer mouse cursor acting as a magic wand, fine streams of code-runes spilling from the brooms. Right: a staircase built of stacked translucent code-blocks lettered "printf(...)" and "int main()" in blue-green washes, ascending into uncertainty. Dreamlike stillness, prismatic facets, ink contours. No photorealism.
+
+</details>
+
 > *„Die ich rief, die Geister, werd ich nun nicht los."*  
 > — Johann Wolfgang von Goethe, Der Zauberlehrling (1797)
 

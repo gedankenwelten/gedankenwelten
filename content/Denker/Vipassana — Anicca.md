@@ -19,6 +19,14 @@ aliases:
 
 ![[assets/Vipassana_Anicca.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — pädagogisches Aquarell** — Warme Ocker- und Orangetöne, sandige Lasuren. Links der „schlafende Vulkan" und ein Glas, in dem sich der Schlamm langsam setzt (Suttamaya — das Wissen im Kopf); in der Mitte der facettierte Meditierende, der in aufsteigenden Bläschen vergeht; rechts eine Gestalt, die in fließende Sandbänder zerfällt — „das wird auch vergehen". Die Palette aus Hitze und Auflösung trägt Anicca, die Vergänglichkeit, direkt im Material.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, pedagogical watercolor, warm ochre and burnt-orange washes on aged paper, 1200x500 banner. Left: a cross-sectioned volcano with a glowing core and a glass of cloudy water settling, labels "Suttamaya · das Wissen im Kopf · der schlafende Vulkan". Center: a seated cubo-faceted meditator dissolving into rising bubbles, handwritten "Anicca, vata sankhārā · entsteht · vergeht". Right: a standing figure breaking apart into flowing horizontal sand-bands, caption "das wird auch vergehen · Upekkha". Prismatic facets, ink contours, handwritten Pali annotations. No photorealism.
+
+</details>
+
 
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Ab Tag 4, Herzstück der Praxis.
 

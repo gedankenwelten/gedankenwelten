@@ -19,6 +19,14 @@ aliases:
 
 ![[assets/Vipassana_Sila_Samadhi_Panna.png]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee × Lyonel Feininger — pädagogisches Aquarell** — Blasses Blaugrau und Gold, lichte Lasuren. Links der Sockel des Sīla mit einer Reihe geometrischer Grundformen („der Boden"); in der Mitte ein Meditierender auf einem dreibeinigen Schemel — „wie ein Dreifuß, alle drei Beine stützen sich gegenseitig"; rechts der Samādhi-Kristall, der allein noch Rauch wirft (nicht genug), und die Sonne der Paññā, die alles freilegt. Die ruhige Palette zeigt das Gerüst der Praxis als ein einziges, sich gegenseitig tragendes System.
+
+*Prompt:* Paul Klee meets Lyonel Feininger, pedagogical watercolor, pale blue-grey and gold on aged paper, 1200x500 banner. Left: a plinth and a row of simple geometric shapes (pentagon, circle, triangle, square, diamond), caption "Sīla · der Boden". Center: a tiny seated meditator atop a three-legged stool, arched handwritten caption "wie ein Dreifuß — alle drei Beine stützen sich gegenseitig". Right: a glowing faceted crystal over a puff of grey smoke (caption "Samādhi · nicht genug allein") and a radiant sun with concentric rings, caption "Paññā · die Freilegung". Prismatic facets, ink contours, handwritten annotations. No photorealism.
+
+</details>
+
 
 Teil des [[S.N. Goenka — Vipassana|Vipassana-Kurses]]. Tage 1–3 (Sīla + Samādhi), ab Tag 4 (Paññā).
 

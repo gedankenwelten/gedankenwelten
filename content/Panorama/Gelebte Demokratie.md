@@ -15,6 +15,14 @@ erstellt: 2026-05-21
 
 ![[assets/Panorama_Gelebte_Demokratie.png|1200]]
 
+<details><summary>🎨</summary>
+
+**Raoul Dufy — lockeres Aquarell** — Warme, helle Lasuren über leichter Bleistift-Kontur, die Farbe schwappt absichtlich über die Linien. Menschen errichten gemeinsam ein buntes Gerüst aus Dreiecken und Quadraten, tragen Bücher und Papiere, sitzen an einem Tisch und beraten, eine Tür steht offen. Dufys heitere, skizzenhafte Hand übersetzt das Kernbild des Panoramas: Demokratie ist kein fertiger Bau, sondern eine Praxis, die viele Hände täglich gemeinsam aufrichten.
+
+*Prompt:* Raoul Dufy loose watercolor, light pencil contour with colour washes deliberately overflowing the lines, warm bright palette, 1200x500 banner. A group of people together raising a colourful scaffold built of triangles and squares; one person carries a stack of books, another carries papers, two sit at a table conferring, an open door at the right. Airy, sketchy, joyful, communal scene, soft washes of terracotta, ochre, sage and blue. No photorealism, no hard edges.
+
+</details>
+
 ## Warum dieses Thema?
 
 Demokratie ist kein Zustand — sie ist eine Praxis. Man kann sie nicht einmal erkämpfen und dann aufbewahren. Sie muss täglich gemacht werden: in Transparenzanfragen, Streiks, Volksbegehren, Rechtsstreitigkeiten, Bibliotheken, Bürgergeldfällen. Nicht von Institutionen, die Demokratie verwalten — sondern von Menschen, die sie *leben*.
