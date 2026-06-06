@@ -19,6 +19,14 @@ aliases:
 
 ![[assets/Wer-die-Begriffe-praegt-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Paul Klee / Aquarell** — Ein mäandernder Strom aus türkisem Aquarell, an dessen Ufern geometrische Formen (Würfel, Dreiecke in Gold und Grau) ruhen. Sprache als fließendes Medium, das Bedeutungen trägt und umformt — die Formen werden vom Strom geformt, nicht umgekehrt. Wer die Begriffe prägt, lenkt den Fluss.
+
+*Prompt:* Wide panoramic illustration in the style of Paul Klee — watercolor aquarelle, pale ground, flowing forms. A sinuous S-curve river of translucent aquamarine blue winds from left to right. Along its banks and partially submerged: geometric solid forms — cubes and truncated triangles in warm amber, gold and cool grey, each slightly different in size and angle. The river flows around and through them without force. Airy, contemplative, the palette of early morning light. No figures, no text, no photorealism. 1200×500px.
+
+</details>
+
 > Dritter Teil einer Reihe. Fundament: [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] · [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]]
 > Entstanden am 24.05.2026. Aus einem Gespräch über [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — Höckes Selbstbeschreibung als Auslöser, Zhao Tingyangs Sprachphilosophie als Tiefenschicht.
 

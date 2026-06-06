@@ -19,6 +19,14 @@ aliases:
 
 ![[assets/Koschi-Politik-Trump-gegen-Papst-Leo-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**Alexander Rodchenko / Konstruktivismus** — Grauer Grund, fetter schwarzer Vertikalbalken als Trennlinie. Links: Stille — weiße geometrische Taube, Kreuz, weißer Ball (Kirche, Frieden). Rechts: Lärm — roter geometrischer Riese mit Heiligenschein und roten Ausrufezeichen, Atompilz unten (Trump). Maximale Konfrontation, null Narrative.
+
+*Prompt:* Wide panoramic illustration in the style of Alexander Rodchenko — constructivist, grey ground, bold black and red, flat geometric forms. A solid black vertical bar divides the panorama precisely in half. Left: silence — a white geometric dove on a thin string, a small cross, a white sphere on the ground. Right: noise — a large angular red figure striding forward with a golden halo, surrounded by red exclamation marks, a small red mushroom cloud at its feet. Pure confrontation. No realistic faces, no photorealism. 1200×500px.
+
+</details>
+
 Quelle: [Das hat selbst HARDCORE MAGA gar nicht gefallen!](https://www.youtube.com/watch?v=_bir_Lisujg)
 
 > [!info] Wer spricht?

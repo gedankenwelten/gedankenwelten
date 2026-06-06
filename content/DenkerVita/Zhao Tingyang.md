@@ -8,8 +8,13 @@ tags: [denker-vita, philosophie, geopolitik, politische-ordnung, weltordnung, ch
 
 ![[assets/Zhao-Tingyang-banner.jpg|1200]]
 
-> [!info]- 🎨
-> **Klassische chinesische Tuschemalerei (水墨, Song-Dynastie)** — Wang Ximeng, Ma Yuan. Weiter Atemraum, Tuschewäsche in Grau-Blau auf hellem Grund, 留白 (leerer Raum) als ebenso präsente Kraft wie der gesetzte Strich. Zentrum: ein langsamer Tintenstrudel — das Whirlpool-Motiv aus Zhaos Buch *Der Strudel, der China hervorbrachte*. Um den Wirbel in ruhiger Umlaufbahn: Pavillon, geometrische Figur, Boote, ein Baum mit tiefen Wurzeln, meditierende Silhouetten — Zivilisationen unter demselben Himmel (天下). Kein Außen. Anziehung durch Gravitation, nicht Zwang.
+<details><summary>🎨</summary>
+
+**Klassische chinesische Tuschemalerei (水墨, Song-Dynastie)** — Wang Ximeng, Ma Yuan. Weiter Atemraum, 留白 als ebenso präsente Kraft wie der gesetzte Strich. Zentrum: ein langsamer Tintenstrudel — das Whirlpool-Motiv aus Zhaos Buch *Der Strudel, der China hervorbrachte*. Um den Wirbel: Pavillon, Boote, Baum, meditierende Silhouetten — Zivilisationen unter demselben Himmel (天下). Kein Außen. Anziehung, nicht Zwang.
+
+*Prompt:* Wide panoramic illustration in the style of classical Chinese ink painting (水墨, Song dynasty masters Wang Ximeng and Ma Yuan) — vast, breathing, ink washes in deep grey-blue and black on pale silk-white ground. Upper half: luminous sky in layered ink gradations, a subtle circular current in the clouds. Center: a slow elegant ink whirlpool, irresistibly drawing. Around it at gentle distances: small precise ink-drawings — a curved-roof pavilion, a geometric figure, a sailing vessel, a tree with deep roots, a meditating silhouette — orbiting in quiet proximity, none dominant. Lower third: misty mountains dissolving into white emptiness. Vast empty space (留白) breathing between every mark. No text, no realistic faces, no photorealism. 1200×500px.
+
+</details>
 
 ## Biografie
 

@@ -22,6 +22,14 @@ aliases:
 
 ![[assets/Gehring-und-Giessmann-Digitale-Unabhaengigkeit-und-monetaere-Souveraenitaet-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**El Lissitzky / Russischer Konstruktivismus** — Rot, Schwarz, Cremeweiß, reine geometrische Formen, diagonale Energie. Ein gebrochener Kreis mit dem €-Symbol im Zentrum — digitale Souveränität als Emanzipation aus geschlossenen Kreisläufen. Rote Dreiecke schlagen durch. Links: konstruktivistisches Knotenraster (digitale Infrastruktur). 60–66 % europäischer Zahlungen laufen über US-Anbieter — dieses Bild fragt: wie lange noch?
+
+*Prompt:* Wide panoramic illustration in the style of El Lissitzky — Russian constructivism, bold red, black and cream, pure geometric forms, dynamic diagonal energy. Center: a large circular form broken open, splitting apart, with a bold € symbol at its core. Red triangular beams pierce diagonally from right. Left: a black grid of nodes and connectors — digital infrastructure as constructivist diagram. High contrast, zero ornamentation, agitational geometry. No photorealism. 1200×500px.
+
+</details>
+
 Quelle: [re:publica 26 — Digitale Unabhängigkeit & monetäre Souveränität jetzt!](https://www.youtube.com/watch?v=tfGMCyuCDaE)
 
 > [!info] Wer spricht?

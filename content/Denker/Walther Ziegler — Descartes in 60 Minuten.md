@@ -19,8 +19,13 @@ aliases:
 
 ![[assets/Walther-Ziegler-Descartes-in-60-Minuten-banner.jpg|1200]]
 
-> [!info]- 🎨
-> **Rembrandt van Rijn** — Chiaroscuro, Goldenes Zeitalter der Niederlande. Descartes' Zeitgenosse malt seinen Moment: eine verhüllte Figur im Ohrbackensessel vor dem Kaminfeuer, das als einzige Lichtquelle dient. Auf dem Boden: zerlaufenes Bienenwachs, ein sich auflösender Geometriebeweis — die demolierten Gewissheiten der drei Zweifel. Im Hintergrundschatten: der Genius malignus. Aus dem Rauch über der denkenden Hand: COGITO. Ein Lichtpunkt in absoluter Finsternis — das ganze Argument.
+<details><summary>🎨</summary>
+
+**Rembrandt van Rijn** — Chiaroscuro, Goldenes Zeitalter der Niederlande. Descartes' Zeitgenosse malt seinen Moment: eine verhüllte Figur im Ohrbackensessel vor dem Kaminfeuer, das als einzige Lichtquelle dient. Auf dem Boden: zerlaufenes Bienenwachs, ein sich auflösender Geometriebeweis — die demolierten Gewissheiten der drei Zweifel. Im Hintergrundschatten: der Genius malignus. Aus dem Rauch: COGITO. Ein Lichtpunkt in absoluter Finsternis.
+
+*Prompt:* Wide panoramic illustration in the style of Rembrandt van Rijn — Dutch Golden Age oil painting, deep chiaroscuro, a single warm hearth fire as the only light source against profound darkness, rich amber and umber tones. Left: a stone fireplace with dancing amber flames. Center: a solitary cloaked figure, no face visible, seated in a high-backed armchair, one hand raised to the temple. Firelight catches the raised hand and edge of robe. On the floor: a half-melted beeswax candle, a chalk geometric proof dissolving, a copper ring. Right third: deep shadow, ghost-shapes — a closed eye, a crumbling axiom, a sleeping figure. From the shadows: faint letters drifting upward like smoke — COGITO. No realistic faces, no photorealism. 1200×500px.
+
+</details>
 
 Quelle: [Descartes in 60 Minuten](https://www.youtube.com/watch?v=YsjL8nlUrI4)
 

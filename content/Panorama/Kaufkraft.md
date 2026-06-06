@@ -17,6 +17,14 @@ erstellt: 2026-05-23
 
 ![[assets/Kaufkraft-banner.jpg|1200]]
 
+<details><summary>🎨</summary>
+
+**George Grosz / Weimarer Illustrationssatire** — Bleistift und Tuschwäsche, gedämpfte Töne mit roten Akzenten, sozialer Realismus mit beißender Ironie. Links: Arbeiterfamilie am Tisch. Rechts: Zylinderhut-Kapitalist auf fliegendem Haus, getragen von erschöpften Lohnarbeitern. Dazwischen: r > g als Handschrift im Himmel, "Immobilienpreise" als steil steigender roter Pfeil. Das Panorama der Ungleichheit aus der Weimarer Republik — aktueller denn je.
+
+*Prompt:* Wide panoramic illustration in the style of George Grosz and Weimar satirical illustration — pencil and ink wash, muted tones with red accents. Left: a working-class family at a modest dinner table, grey and worn. Center-right: a top-hatted capitalist sitting atop a floating house, carried by two exhausted workers clutching briefcases. A rising red arrow cuts diagonally: "Immobilienpreise" climbing steeply. A flat grey line: "Lebensstandard". In the sky: "r > g" in pencil handwriting. Price tag on the house: "Haus: 120.000 RM". No realistic faces, no photorealism. 1200×500px.
+
+</details>
+
 ## Warum dieses Thema?
 
 In den 1960er und 70er Jahren konnte eine Familie in Deutschland (und vergleichbar in den USA) von einem einzigen Lohn oder Gehalt leben — Haus, Auto, Urlaub, drei Kinder, eine Hausfrau. Heute reicht selbst bei zwei Vollzeit-Einkommen oft nicht mehr für Wohneigentum in der Stadt. Die naheliegende Erklärung "Inflation" trägt nicht — die Verbraucherpreise sind nicht das Problem. Es geht um eine tiefere strukturelle Verschiebung, die seit ~1980 das Verhältnis von Arbeit, Kapital und Lebenshaltungskosten neu verteilt hat. Wer den Mechanismus nicht versteht, akzeptiert die Lage als Naturgesetz — dabei ist sie politisch gemacht und politisch reversibel.
