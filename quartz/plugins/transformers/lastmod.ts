@@ -3,6 +3,43 @@ import { Repository } from "@napi-rs/simple-git"
 import { QuartzTransformerPlugin } from "../types"
 import path from "path"
 import { styleText } from "util"
+import { execSync } from "child_process"
+
+// Git-Erstellungsdatum (erster Commit, der die Datei hinzufügt) je repo-relativem
+// Pfad. @napi-rs/simple-git bietet nur das *letzte* Änderungsdatum — für ein
+// stabiles "created" (immun gegen Checkout-Zeit & spätere Banner-/Link-Commits)
+// lesen wir die Add-Historie einmal pro Build via `git log --diff-filter=A`.
+const gitCreatedCache = new Map<string, Map<string, number>>()
+
+function getGitCreatedMap(workdir: string): Map<string, number> {
+  const cached = gitCreatedCache.get(workdir)
+  if (cached) return cached
+
+  const map = new Map<string, number>()
+  try {
+    const out = execSync(
+      "git -c core.quotepath=false log --diff-filter=A --name-only --format=@%cs",
+      { cwd: workdir, encoding: "utf8", maxBuffer: 256 * 1024 * 1024 },
+    )
+    let cur = 0
+    for (const raw of out.split("\n")) {
+      const line = raw.trim()
+      if (!line) continue
+      if (line.startsWith("@")) {
+        const d = new Date(line.slice(1) + "T00:00:00")
+        cur = isNaN(d.getTime()) ? 0 : d.getTime()
+      } else if (cur) {
+        // log läuft neueste→älteste: überschreiben lässt das ÄLTESTE Add gewinnen
+        map.set(line, cur)
+      }
+    }
+  } catch {
+    // kein Git / Fehler — Map bleibt leer, Fallback greift
+  }
+
+  gitCreatedCache.set(workdir, map)
+  return map
+}
 
 export interface Options {
   priority: ("frontmatter" | "git" | "filesystem")[]
@@ -99,6 +136,9 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 try {
                   const relativePath = path.relative(repositoryWorkdir, fullFp)
                   modified ||= await repo.getFileLatestModifiedDateAsync(relativePath)
+                  // created aus Git-Add-Historie (statt Checkout-Zeit des Filesystems)
+                  const gitCreated = getGitCreatedMap(repositoryWorkdir).get(relativePath)
+                  if (gitCreated) created ||= gitCreated
                 } catch {
                   console.log(
                     styleText(

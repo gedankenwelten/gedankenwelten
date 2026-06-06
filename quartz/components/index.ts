@@ -24,10 +24,12 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import Banner from "./Banner"
+import MobileFeed from "./MobileFeed"
 
 export {
   ArticleTitle,
   Banner,
+  MobileFeed,
   Content,
   TagContent,
   FolderContent,

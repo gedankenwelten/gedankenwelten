@@ -19,6 +19,12 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    // Mobiler Feed (Google-News-Stil) — nur auf der Startseite gerendert,
+    // per CSS nur unter Desktop-Breite sichtbar. Desktop bleibt unberührt.
+    Component.ConditionalRender({
+      component: Component.MobileFeed(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",

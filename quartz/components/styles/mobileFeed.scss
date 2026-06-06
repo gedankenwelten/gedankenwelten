@@ -1,0 +1,386 @@
+@use "../../styles/variables.scss" as *;
+
+// Feed ist standardmäßig unsichtbar — nur auf der Startseite unter Desktop-Breite an
+.mobile-feed {
+  display: none;
+}
+
+@media all and not ($desktop) {
+  // Auf der Startseite den normalen Note-Inhalt ausblenden …
+  body[data-slug="index"] {
+    .article-title,
+    .content-meta {
+      display: none !important;
+    }
+  }
+  body[data-slug="index"] .center > article,
+  body[data-slug="index"] .center > hr,
+  body[data-slug="index"] .center > .page-footer {
+    display: none !important;
+  }
+
+  // … und stattdessen den Feed zeigen
+  .mobile-feed {
+    display: block;
+    margin-top: 0.25rem;
+  }
+
+  // Header (Logo + Suche) oben festkleben, Tabs kleben direkt darunter.
+  // Der Tab-Offset (--mf-tabs-top) wird per JS auf die Header-Höhe gesetzt.
+  body[data-slug="index"] {
+    .left.sidebar {
+      position: sticky;
+      top: 0;
+      z-index: 60;
+      background: var(--light);
+    }
+    .mf-tabs {
+      top: var(--mf-tabs-top, 0px);
+      z-index: 50;
+    }
+  }
+}
+
+// --- Tab-Leiste (horizontal scrollbar, wie Google News) ---
+.mf-tabs {
+  display: flex;
+  gap: 0.4rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.5rem 0 0.6rem;
+  margin-bottom: 0.3rem;
+  border-bottom: 1px solid var(--lightgray);
+
+  // beim Scrollen oben kleben (wie Google News)
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--light);
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.mf-tab {
+  flex: 0 0 auto;
+  background: var(--lightgray);
+  color: var(--darkgray);
+  border: none;
+  border-radius: 999px;
+  padding: 0.35rem 0.85rem;
+  font-size: 0.82rem;
+  font-family: var(--bodyFont);
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background 0.15s ease;
+
+  &.active {
+    background: var(--secondary);
+    color: #fff;
+  }
+}
+
+// --- Karten ---
+.mf-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.gn-card {
+  display: flex;
+  gap: 0.8rem;
+  align-items: flex-start;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--lightgray);
+  text-decoration: none;
+  color: inherit;
+  background: none !important;
+
+  &:hover {
+    background: none;
+  }
+}
+
+.gn-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.gn-cat {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.7rem;
+  color: var(--darkgray);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.25rem;
+}
+
+.gn-dot {
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+}
+
+.gn-title {
+  font-family: var(--headerFont);
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.25;
+  color: var(--dark);
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.gn-date {
+  font-size: 0.7rem;
+  color: var(--gray);
+  margin-top: 0.4rem;
+}
+
+.gn-thumb {
+  flex: 0 0 auto;
+  width: 92px;
+  height: 92px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.gn-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.gn-fallback {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--headerFont);
+  font-size: 1.9rem;
+  font-weight: 700;
+  color: #fff;
+  background: var(--c, var(--secondary));
+}
+
+// --- "Mehr anzeigen" + Sentinel ---
+.mf-more {
+  display: block;
+  width: 100%;
+  margin: 1rem 0 2rem;
+  padding: 0.65rem;
+  background: var(--lightgray);
+  color: var(--dark);
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-family: var(--bodyFont);
+  cursor: pointer;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.mf-sentinel {
+  height: 1px;
+}
+
+// --- Footer-Leiste "Gedankenwelten" (nur mobil, fix unten) ---
+.mf-introbar {
+  display: none;
+}
+
+@media all and not ($desktop) {
+  .mf-list {
+    padding-bottom: 4rem; // Platz für die fixe Footer-Leiste
+  }
+
+  .mf-introbar {
+    display: block;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+    border: none;
+    border-top: 1px solid var(--lightgray);
+    background: var(--light);
+    color: var(--secondary);
+    font-family: var(--headerFont);
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 0.9rem;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.18);
+  }
+}
+
+// --- Bottom-Sheets (iOS-Stil) ---
+.mf-sheet {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.mf-sheet-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  transition: opacity 0.28s ease;
+}
+
+.mf-sheet.open .mf-sheet-backdrop {
+  opacity: 1;
+}
+
+.mf-sheet-panel {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  max-height: 80vh;
+  background: var(--light);
+  border-radius: 16px 16px 0 0;
+  box-shadow: 0 -8px 32px rgba(0, 0, 0, 0.3);
+  transform: translateY(100%);
+  transition: transform 0.28s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.mf-sheet.open .mf-sheet-panel {
+  transform: translateY(0);
+}
+
+#mf-desc-sheet .mf-sheet-panel {
+  max-height: 70vh;
+}
+
+.mf-sheet-handle {
+  flex: 0 0 auto;
+  width: 40px;
+  height: 4px;
+  margin: 0.6rem auto 0.2rem;
+  background: var(--gray);
+  border-radius: 999px;
+  cursor: grab;
+}
+
+.mf-sheet-scroll {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.5rem 1.25rem 2.5rem;
+}
+
+.mf-sheet-title {
+  margin-top: 0.5rem;
+}
+
+.mf-desc-cat {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0.3rem 0 0.5rem;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--darkgray);
+}
+
+.mf-desc-title {
+  margin: 0 0 0.6rem;
+  font-size: 1.2rem;
+}
+
+.mf-desc-text {
+  color: var(--darkgray);
+  line-height: 1.55;
+}
+
+.mf-desc-open {
+  display: inline-block;
+  margin-top: 1.2rem;
+  font-weight: 600;
+  color: var(--secondary);
+}
+
+body.mf-sheet-open {
+  overflow: hidden;
+}
+
+// --- Hohes Note-Sheet (oben bündig unter der Suche, überlagert die Tabs) ---
+.mf-sheet-tall .mf-sheet-panel {
+  top: var(--mf-tabs-top, 3rem);
+  height: calc(100% - var(--mf-tabs-top, 3rem));
+  max-height: none;
+}
+
+.mf-note-bar {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.55rem 1rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.mf-note-close {
+  background: none;
+  border: none;
+  font-size: 1.05rem;
+  line-height: 1;
+  color: var(--darkgray);
+  cursor: pointer;
+  padding: 0.2rem 0.4rem;
+}
+
+.mf-note-full {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--secondary);
+}
+
+.mf-note-content {
+  flex: 1 1 auto;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.5rem 1.25rem 3rem;
+
+  // Auf der Index-Seite werden article-title/content-meta global ausgeblendet —
+  // im Note-Sheet sollen sie aber sichtbar sein.
+  .article-title {
+    display: block !important;
+    font-size: 1.4rem;
+    line-height: 1.25;
+    margin: 0.5rem 0 0;
+  }
+  .content-meta {
+    display: block !important;
+  }
+  .breadcrumb-container {
+    display: none;
+  }
+}
+
+.mf-note-loading {
+  color: var(--gray);
+  text-align: center;
+  padding: 2rem 0;
+}
