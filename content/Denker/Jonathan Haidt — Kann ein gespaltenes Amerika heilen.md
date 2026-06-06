@@ -15,6 +15,16 @@ aliases:
 
 # Jonathan Haidt — Kann ein gespaltenes Amerika heilen?
 
+![[assets/Jonathan-Haidt-Kann-ein-gespaltenes-Amerika-heilen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hilma af Klint** — spirituelles Diagramm, organische Schwingformen, Pastellgrund mit tiefen Farbakzenten, schwedischer Mystizismus der frühen Moderne. Ihre "Swan"-Serie (1914–15) zeigte zwei Schwäne — einen weißen, einen schwarzen — ineinandergedreht als Bild der verborgenen Einheit hinter scheinbaren Gegensätzen. Haidt nennt es selbst: das Yin-Yang-Prinzip der menschlichen Natur. Jede Seite enthält den Keim der anderen; die Menschen im Spalt dazwischen sind dort, wo Begegnung möglich wäre — und wo sie seltener wird.
+
+*Prompt:* Wide banner 1200×500px. Hilma af Klint spiritual diagram style — soft organic curving forms, clean pastel grounds, strong color accents, no photorealism, no realistic faces, early-20th-century Swedish mysticism aesthetic. Geometric but alive, diagrammatic but warm. Two large teardrop or swan-wing shapes curve around each other, filling the banner's horizontal space. Left shape: deep warm crimson-red, curving rightward. Right shape: deep cobalt blue, curving leftward. Both shapes mirror each other — they are the same form, opposite in color, interlocked so that neither exists without the other. Inside the red form, near its core: a small circle of deep cobalt blue. Inside the blue form, near its core: a small circle of deep crimson. These are the seeds — the hidden opposite within each. In the narrow white space between the two curves: a row of small simplified human silhouettes — some leaning toward the red, some toward the blue, a few standing exactly at the center line, motionless. Background: pale warm ivory. No text. No labels. No photorealism. The forms have a slight ink-outline quality — not flat fill, but a brushed organic edge.
+
+</details>
+
 Quelle: TED Talk mit Chris Anderson, aufgezeichnet 2016
 
 > [!info] Wer spricht?
