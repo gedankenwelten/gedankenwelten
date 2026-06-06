@@ -20,6 +20,16 @@ aliases:
 
 # Mario Buchinger — Lügen der Kernenergie (4/6): Kernenergie ist CO₂-arm oder gar CO₂-frei
 
+![[assets/Mario-Buchinger-Luegen-der-Kernenergie-4-6-Kernenergie-und-CO2-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico — Pittura Metafisica** — Ockerbraune Wüstenebene, blassgelbgrüner Himmel, harte Nachmittagsschatten. Zentrum: ein Cluster schwarzer Granitmonolithe mit spiralförmig eingravierten unlesbaren Glyphen im Boden. Hintergrund rechts: eine ambivalente Silhouette (Kühlturm? Felsformation?). Kein Mensch, kein Tier, keine Sprache. De Chirico, weil sein eingefrorener Nachmittag bereits wie eine Million Jahre nach dem letzten Menschen wirkt — und weil die WIPP-Warnanlagen exakt die Antwort auf seine ästhetische Grundfrage sind: Was bedeutet dieses Monument, und was soll es bedeuten?
+
+*Prompt:* Giorgio de Chirico metaphysical painting style (Pittura Metafisica), 1910s–1920s, oil on canvas aesthetic, 1200x500px banner. Empty desert plain, late afternoon. Ochre and terracotta ground, pale lime-yellow sky, no clouds. The light is sharp and perpendicular — deep shadows stretch far to the left. Center: a cluster of massive rough-cut black granite monoliths, irregularly spaced, some leaning. Height varies — the tallest reaches mid-frame. Not architectural, not decorative. Threatening by scale alone. Carved into the ground around them: concentric warning circles, arrows pointing inward, abstract glyphs — no alphabet, no recognizable language. Worn but still visible. Far background right: the faint silhouette of something that could be a cooling tower or an eroded mesa — ambiguous. Foreground: the shadow of a single unseen structure falls across the lower-left corner — long, geometrically perfect, belonging to something off-frame. No humans. No animals. No vegetation. No sky features. Silence rendered as space. No photorealism. No surrealism. De Chirico's stillness only.
+
+</details>
+
 Quelle: [Lügen der Kernenergie — Folge 4/6](https://www.youtube.com/watch?v=3sc6b0Wf0FQ) (#RestartThinking)
 Serie: [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
