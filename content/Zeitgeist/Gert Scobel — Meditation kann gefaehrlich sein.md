@@ -18,6 +18,8 @@ aliases:
 
 # Gert Scobel — Meditation kann gefährlich sein
 
+![[assets/Gert-Scobel-Meditation-kann-gefaehrlich-sein-banner.jpg|1200]]
+
 Quelle: [Meditation kann gefährlich sein! – scobel](https://www.youtube.com/watch?v=aFb1JkIqN6U)
 
 > [!info] Wer spricht?
