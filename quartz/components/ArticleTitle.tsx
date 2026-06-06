@@ -14,11 +14,11 @@ ArticleTitle.css = `
 .article-title {
   margin: 2rem 0 0 0;
 }
-@media (max-width: 800px) {
+@media (max-width: 1199px) {
   .article-title {
-    font-size: 1.5rem;
+    font-size: 1.35rem;
     line-height: 1.2;
-    margin: 1.25rem 0 0 0;
+    margin: 1rem 0 0 0;
   }
 }
 `

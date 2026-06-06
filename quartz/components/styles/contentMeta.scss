@@ -14,8 +14,8 @@
     }
   }
 
-  @media all and ($mobile) {
-    font-size: 0.85rem;
+  @media all and not ($desktop) {
+    font-size: 0.75rem;
     margin-top: 0.25rem;
   }
 }
