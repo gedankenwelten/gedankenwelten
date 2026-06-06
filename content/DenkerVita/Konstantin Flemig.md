@@ -6,6 +6,16 @@ tags: [denker-vita, journalismus, ukraine, krieg, geopolitik]
 
 # Konstantin Flemig — DenkerVita
 
+![[assets/Konstantin-Flemig-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Fernand Léger** — mechanischer Kubismus, zylindrische Formen, fette Konturen, flache Farben ohne Verläufe, Creme-Grund mit Rostrot und Blaugrau. Léger war selbst im Ersten Weltkrieg — seine Nachkriegsbilder zeigen Maschinen nicht als Bedrohung, sondern als strukturelle Tatsache der Welt. Genau das ist Flemigs Blick: Journalist und Drohnenwand in derselben geometrischen Bildsprache, gleichwertig, beide im selben System.
+
+*Prompt:* Wide banner 1200×500px. Fernand Léger mechanical cubism style — bold black outlines, cylindrical tubular forms, flat strong colors, no gradients, no photorealism, no realistic faces. Warm cream background, rusty red and dusty orange accents, deep blue-grey for mechanical elements. Foreground, left-center: A single simplified figure — journalist in a flak jacket, geometry reduced to cylinders and angular planes. Tubular arms, blocky helmet-shaped head without facial features, a rectangular notebook held at the side. The figure looks upward and to the right, posture attentive and still. Upper two-thirds of the canvas: A vast swarm of small angular drone shapes fills the entire sky — hundreds of identical geometric drones, each a simple X-shape or plus-sign in deep blue-grey with black outlines, densely packed. Near the horizon they overlap into a solid mass; higher up they spread slightly but still cover every inch of sky. The swarm has no center, no leader — distributed, equal, structural. Ground behind the figure: simplified rubble forms — broken rectangular walls, angular debris, flat geometric shapes in cream and rust. No gore, no drama. Just structure and ruin as geometric fact. The figure and the drone swarm share the same visual grammar — both rendered as geometric modules, neither more alive or more dead than the other.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
