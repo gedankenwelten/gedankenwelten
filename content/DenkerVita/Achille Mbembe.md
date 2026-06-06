@@ -6,6 +6,16 @@ tags: [denker-vita, philosophie, postkolonialismus, geopolitik, demokratie]
 
 # Achille Mbembe — DenkerVita
 
+![[assets/Achille-Mbembe-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Australische Aboriginal-Dotmalerei — Tjukurpa/Dreamtime-Stil** — Dunkler Ocker-Braun-Grund, Punkte in Weiß, Creme und Gold, konzentrische Kreise als heilige Punkte/Versammlungsorte, verbunden durch sinuöse Songlines. Koloniales Gitternetz als dünne gerade Linien sichtbar darunter — aber die ancestralen Pfade kreuzen es weiter, ungebrochen. Zentrum: dichter Kreiscluster in Warmgold als "Earthly Community"-Konvergenzpunkt. Aboriginal Dotmalerei, weil sie nicht Mbembes Theorie illustriert — sie *ist* sie: die Erde als lebendiges Netz ohne Hierarchie, Ahnen als gegenwärtige Kraft, die koloniale Grenzlinie als Oberflächen-Einschreibung die das Darunter nicht unterbricht.
+
+*Prompt:* Aboriginal Australian dot painting style, traditional Western Desert art aesthetic, 1200x500px banner. Dark ochre-brown ground. White, cream, pale yellow, and terracotta-red dots forming intricate patterns across the entire surface. Aerial view of a vast landscape rendered as ancestral map: Multiple concentric circle clusters scattered across the field — each a sacred site or meeting point, connected by sinuous wavy lines (watercourses, songlines, ancestral paths). The lines branch and reconnect, forming a web without center or hierarchy. Faint thin straight lines (colonial grid map, borders) are visible beneath the dot-pattern — but the songlines cross through them continuously, uninterrupted. Where several songlines converge at the center: a dense cluster of concentric circles in warm gold and white, slightly brighter than the rest — the Earthly Community. At the far edges: very small dot-clusters in dark red, barely visible — the Deathworlds, at the margins, not at the center. No figures. No text. No photorealism. The pattern fills the entire banner edge to edge.
+
+</details>
+
 > [!info] Wer spricht?
 > **Achille Mbembe** (geb. 1957 in Otélé, Kamerun) — Kamerunischer Historiker und Politiktheoretiker, Research Professor für Geschichte und Politik am Wits Institute for Social and Economic Research der University of the Witwatersrand (Johannesburg, Südafrika). Träger des Holberg Prize 2024 für sein Lebenswerk über Kolonialismus, Macht, Gedächtnis und die Möglichkeiten einer planetaren Ethik. Führender Vertreter der zeitgenössischen französischen Kritischen Theorie.
 > 
