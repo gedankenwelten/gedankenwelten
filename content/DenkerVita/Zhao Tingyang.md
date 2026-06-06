@@ -8,6 +8,8 @@ tags: [denker-vita, philosophie, geopolitik, politische-ordnung, weltordnung, ch
 
 ![[assets/Zhao-Tingyang-banner.jpg|1200]]
 
+> [!info]- 🎨
+> **Klassische chinesische Tuschemalerei (水墨, Song-Dynastie)** — Wang Ximeng, Ma Yuan. Weiter Atemraum, Tuschewäsche in Grau-Blau auf hellem Grund, 留白 (leerer Raum) als ebenso präsente Kraft wie der gesetzte Strich. Zentrum: ein langsamer Tintenstrudel — das Whirlpool-Motiv aus Zhaos Buch *Der Strudel, der China hervorbrachte*. Um den Wirbel in ruhiger Umlaufbahn: Pavillon, geometrische Figur, Boote, ein Baum mit tiefen Wurzeln, meditierende Silhouetten — Zivilisationen unter demselben Himmel (天下). Kein Außen. Anziehung durch Gravitation, nicht Zwang.
 
 ## Biografie
 

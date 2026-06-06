@@ -8,6 +8,8 @@ tags: [denker-vita, wirtschaft, kapitalismus, deutschland]
 
 ![[assets/Heiner-Flassbeck-banner.jpg|1200]]
 
+> [!info]- 🎨
+> **Fernand Léger** — Tubismus, Primärfarben, geometrische Arbeiterfiguren. Eine monumental-mechanische Balkenwaage: links steigt der Arm (Exportkisten, Fabrikschlote, Pfeil aufwärts), rechts sinkt er (leeres Becken, leere Hände). Verbunden durch Hydraulikrohre mit roter Flüssigkeit, die von rechts nach links fließt — die Saldenmechanik als physikalisches Gesetz: Die Ausgaben des einen sind die Einnahmen des anderen. Deutschlands Überschuss ist Südeuropas Defizit. Auf den Euro genau.
 
 ## Biographischer Snapshot
 
