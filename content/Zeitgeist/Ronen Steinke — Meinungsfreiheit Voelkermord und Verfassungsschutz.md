@@ -15,6 +15,16 @@ aliases:
 
 # Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz
 
+![[assets/Ronen-Steinke-Meinungsfreiheit-Voelkermord-und-Verfassungsschutz-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Saul Steinberg** — feine Tintenlinie, leichter Aquarellwash auf Cremepapier, bürokratische Absurdität als visuelles Biotop, roter Stempelakzent. Steinberg war der einzige Zeichner, der Gesetze als Architektur und Institutionen als tragikomische Figuren verstand. Steinkes Diagnose — so viele neue §§ dass kein Mensch mehr den Überblick hat — ist genau das, was Steinberg in den 1950ern zeichnete: Bürokratie die sich selbst zur Landschaft verdichtet, nicht durch Verbot, sondern durch schiere Masse.
+
+*Prompt:* Wide banner 1200×500px. Saul Steinberg New Yorker ink illustration style — thin precise ink line, slight warm watercolor wash, architectural precision mixed with wry absurdity, no photorealism, no realistic faces. Near-monochrome: black ink on aged cream paper, with deep red as the only accent color. A landscape of paragraph signs (§) grows from the ground like a dense forest — varying heights, some small and freshly printed, some enormous and ancient with cracks in them, all densely packed together. They grow in irregular clusters, some leaning, some perfectly upright, some intertwined. Several carry tiny official rubber-stamp marks in deep red: "§", "VERBOTEN", "ERMITTLUNG". The § signs are drawn with Steinberg's architectural line — each one slightly different, some wearing tiny official hats, some with roots growing into the soil. In the center of this § forest: a small human figure, simplified to Steinberg's characteristic silhouette, mouth open as if speaking, one arm raised with a finger pointing upward. The figure is dwarfed by the surrounding §§. The space immediately around the figure is slightly more open — but the § forest presses in from all sides. At the far left and far right edges of the banner: two or three tiny silhouettes of people who chose not to enter the § forest. They stand outside, watching. Their posture is ambiguous — cautious, or simply waiting. No text. No labels. No photorealism. The overall feeling: not horror, but tragicomic — a landscape that grew by itself, paragraph by paragraph, until no one could see the whole anymore.
+
+</details>
+
 Quelle: [Jung & Naiv: Folge 823](https://www.youtube.com/watch?v=XXvx3bgszsk)
 
 > [!info] Wer spricht?
