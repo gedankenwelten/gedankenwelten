@@ -84,8 +84,11 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   const clone = template.content.cloneNode(true) as DocumentFragment
   const li = clone.querySelector("li") as HTMLLIElement
   const a = li.querySelector("a") as HTMLAnchorElement
-  a.href = resolveRelative(currentSlug, node.slug)
-  a.dataset.for = node.slug
+  // Virtuelle Tag-Folder-Einträge linken auf die echte Note (linkSlug),
+  // nicht auf ihre Baum-Position im virtuellen Ordner.
+  const targetSlug = ((node.data as any)?.linkSlug as FullSlug) ?? node.slug
+  a.href = resolveRelative(currentSlug, targetSlug)
+  a.dataset.for = targetSlug
   a.textContent = node.displayName
 
   if (currentSlug === node.slug) {
@@ -178,6 +181,36 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     const data = await fetchData
     const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][]
+
+    // Virtuelle Tag-Ordner: Notes mit passendem Tag zusätzlich unter einem
+    // benannten Ordner einhängen, ohne die Datei zu verschieben. Der Link
+    // (linkSlug) zeigt weiter auf die Originalnote.
+    const tagFolders: Record<string, string> = JSON.parse(explorer.dataset.tagFolders || "{}")
+    if (Object.keys(tagFolders).length > 0) {
+      const virtualEntries: [FullSlug, ContentDetails][] = []
+      for (const [slug, details] of entries) {
+        const tags = details.tags ?? []
+        for (const [tag, folderName] of Object.entries(tagFolders)) {
+          if (!tags.includes(tag)) continue
+          if (slug === folderName || slug.startsWith(folderName + "/")) continue
+          const baseName = slug.split("/").pop()!
+          const virtualSlug = `${folderName}/${baseName}` as FullSlug
+          virtualEntries.push([
+            virtualSlug,
+            {
+              ...details,
+              slug: virtualSlug,
+              linkSlug: details.slug,
+              // filePath bestimmt den Ordner-Anzeigenamen (fileSegmentHint) —
+              // auf den virtuellen Ordner setzen, sonst hieße er "Denker".
+              filePath: `${folderName}/${baseName}.md`,
+            } as any,
+          ])
+        }
+      }
+      entries.push(...virtualEntries)
+    }
+
     const trie = FileTrieNode.fromEntries(entries)
 
     // Apply functions in order

@@ -20,6 +20,10 @@ export interface Options {
   filterFn: (node: FileTrieNode) => boolean
   mapFn: (node: FileTrieNode) => void
   order: OrderEntries[]
+  // Virtuelle Ordner aus Tags: { "<tag>": "<Ordnername>" }.
+  // Notes mit dem Tag erscheinen zusätzlich (nicht-destruktiv) im genannten
+  // Ordner; ihr Link zeigt weiter auf die echte Note in ihrem Originalordner.
+  tagFolders: Record<string, string>
 }
 
 const defaultOptions: Options = {
@@ -48,6 +52,7 @@ const defaultOptions: Options = {
   },
   filterFn: (node) => node.slugSegment !== "tags",
   order: ["filter", "map", "sort"],
+  tagFolders: {},
 }
 
 export type FolderState = {
@@ -75,6 +80,7 @@ export default ((userOpts?: Partial<Options>) => {
           filterFn: opts.filterFn.toString(),
           mapFn: opts.mapFn.toString(),
         })}
+        data-tag-folders={JSON.stringify(opts.tagFolders ?? {})}
       >
         <button
           type="button"

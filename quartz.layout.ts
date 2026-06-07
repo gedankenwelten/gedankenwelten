@@ -65,6 +65,9 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
+      // Virtuelle Tag-Ordner: Notes mit diesem Tag erscheinen zusätzlich im
+      // genannten Explorer-Ordner, ohne die Datei zu verschieben.
+      tagFolders: { vipassana: "Vipassana" },
       sortFn: (a, b) => {
         if (a.isFolder && !b.isFolder) return -1
         if (!a.isFolder && b.isFolder) return 1
@@ -98,6 +101,9 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
+      // Virtuelle Tag-Ordner: Notes mit diesem Tag erscheinen zusätzlich im
+      // genannten Explorer-Ordner, ohne die Datei zu verschieben.
+      tagFolders: { vipassana: "Vipassana" },
       sortFn: (a, b) => {
         if (a.isFolder && !b.isFolder) return -1
         if (!a.isFolder && b.isFolder) return 1
