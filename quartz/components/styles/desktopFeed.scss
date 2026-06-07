@@ -212,17 +212,6 @@ svg.df-chip-icon {
   height: 1px;
 }
 
-// --- Tags-Chip: rechts abgesetzt, Rubrik-Chips bleiben mittig zentriert ---
-.df-chips {
-  position: sticky; // dient zugleich als Anker für den absoluten Tags-Chip
-}
-
-.df-chip-tags {
-  position: absolute;
-  right: 0;
-  top: 0.8rem;
-}
-
 // [hidden] muss display:grid des Rasters überstimmen
 .df-grid[hidden],
 .df-sentinel[hidden],
