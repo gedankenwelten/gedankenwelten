@@ -15,3 +15,7 @@ private/
 replit.nix
 public_new
 public_old
+
+# VRI-Diskurs-Transkripte (urheberrechtlich) — nur im privaten Cortex-Repo
+content/Vipassana/*.txt
+content/Vipassana/*.vtt
