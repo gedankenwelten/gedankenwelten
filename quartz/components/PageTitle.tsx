@@ -10,7 +10,7 @@ import script from "./scripts/pageTitle.inline"
 // Täglicher Wechsel (siehe pageTitle.inline.ts). Neuen Stil hinzufügen =
 // 2 Bilder ablegen + Schlüssel hier ergänzen. Ziel: Pool durch 3 teilbar
 // (passt gleichmäßig auf ~30 Tage).
-const WORDMARK_STYLES = ["klee", "sumie"]
+const WORDMARK_STYLES = ["klee", "sumie", "aquarell", "aether"]
 
 const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
@@ -58,9 +58,15 @@ PageTitle.css = `
   margin: 0;
   border-radius: 0;
 }
-/* Sumi-e trägt mehr Leerraum (ensō) — etwas größer skalieren für gleiches Gewicht */
+/* Stile mit mehr Leerraum (ensō / Nebel) etwas größer skalieren für gleiches Gewicht */
 .page-title-mark.wm-sumie {
   height: 3.5rem;
+}
+.page-title-mark.wm-aquarell {
+  height: 3.4rem;
+}
+.page-title-mark.wm-aether {
+  height: 3.1rem;
 }
 /* Stil-Achse: nur der aktive (per JS täglich gewählte) Stil hat wm-active.
    Theme-Achse: dark/light per CSS. Kombiniert = genau ein sichtbares Bild. */
@@ -76,6 +82,12 @@ PageTitle.css = `
   }
   .page-title-mark.wm-sumie {
     height: 2.7rem;
+  }
+  .page-title-mark.wm-aquarell {
+    height: 2.6rem;
+  }
+  .page-title-mark.wm-aether {
+    height: 2.35rem;
   }
 }
 `
