@@ -16,6 +16,17 @@ aliases:
 
 # Leonhard Horowski — Adel, Klassen und Gesellschaft
 
+![[assets/Leonhard-Horowski-Adel-Klassen-und-Gesellschaft-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**William Hogarth** — Kolorieter Kupferstich-Stil, warmes Elfenbein und Kerzengold, präzise satirische Dichte im Geist von "Marriage A-la-Mode". Hogarth malte Klasse als Körperpraxis — dynastische Allianzen, Macht durch zeremoniellen Abstand. Horowski tut dasselbe analytisch: Der Grand Chambellan kniet und flüstert; die Staffelung der Figuren *ist* der Rang. Kein Stilist hätte das besser sichtbar gemacht als der Mann, der das 18. Jahrhundert mit aufklärerischer Präzision sezierte.
+
+*Prompt:* Wide banner 1200×500px. William Hogarth engraving style — warm ivory paper tone, precise crosshatching, muted palette (ochre yellow, dusty crimson, pewter grey, candlelight gold), dense narrative detail, satirical precision, no photorealism, no realistic faces. Inspired by "Marriage A-la-Mode" and "The Levee" compositions. A long antechamber in a grand palace. The scene reads left to right by proximity to power. Far right: the King's chair or raised bed — only its gilded back and one regal sleeve visible, no face. Immediately before it: a single kneeling courtier presenting a shoe with both hands, his head inclined forward, his lips slightly parted — he is whispering. This courtier's posture is both servile and calculated. Behind him, at strict measured intervals extending toward the left: a descending row of figures, each one further from the chair than the last, each dressed slightly less richly. Their posture stiffens with distance. The distance itself is the rank. In the far left: a narrow arched doorway, ajar, through which more figures are barely visible, pressing forward, waiting. One holds a scroll. One adjusts his wig. On the walls: oval portrait frames, one of a woman in high aristocratic dress, heraldic symbols, a large clock with a stopped hand. The floor is chequered marble, reflecting the candlelight. The light sources are two candelabras flanking the King's position — everything else fades into shadow. No text in the image. Palette: warm ivory, ochre, dusty crimson, pewter, candlelight gold. Dense, meticulous, engraving quality without literal engraving lines.
+
+</details>
+
+
 Historiker Leonhard Horowski im Jung & Naiv-Interview (Folge 789) über Königshäuser, Adel, Klassenstrukturen und was sie uns über Macht, Heirat und gesellschaftliche Reproduktion lehren.
 
 Horowski ist Frühneuzeithistoriker (1500–1800) — sein Zugang: Diese Epoche ist das "interessante Fremde". Weit genug, um zu überraschen. Nah genug, um vertraut zu sein. Ideal, um unsere heutigen Selbstverständlichkeiten zu erschüttern.
