@@ -20,6 +20,16 @@ aliases:
 
 # Francesca Bria — The Authoritarian Stack
 
+![[assets/Francesca-Bria-The-Authoritarian-Stack-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico** — metaphysische Malerei, lange diagonale Schatten, leere klassische Architektur neben moderner Industriemechanik, tiefer blau-violetter Himmel, Okker-Boden, kühle Melancholie. De Chirico malte immer den falschen Frieden — die zu saubere Piazza, der Schatten der nicht stimmt. "Democracy persists as a legacy interface" ist ein de-Chirico-Bild: der griechische Tempel noch vollkommen, still wie eine Kulisse — und seine Säulenschatten fallen geometrisch exakt auf die Serverracks und Satellitenschüsseln dahinter.
+
+*Prompt:* Wide banner 1200×500px. Giorgio de Chirico metaphysical painting style — long dramatic diagonal shadows, late afternoon light, cool melancholy atmosphere, classical architecture alongside modern machinery, no realistic faces, no photorealism. Deep ochre ground, dark blue-violet sky, terracotta architecture, cold grey mechanical elements. Left half: A classical Greek temple or neoclassical parliament building — columned, idealizing, geometrically perfect — stands in full afternoon light. It is slightly too empty, too still, like a stage set. No figures inside. Its columns cast long dark diagonal shadows across the ground toward the right. Right half and background: Behind and beside the temple, modern technical infrastructure fills the space — satellite dishes pointing upward, rows of server racks, orbital trajectory arcs, pipelines and cables running along the ground. These elements are rendered in cold grey-blue, precise and mechanical. They are connected by thin lines to a small cluster of simplified human silhouettes in the far right corner — figures without faces, standing close together. The long shadows from the democratic temple fall directly across the server racks and satellite dishes. The shadow is exact, geometrically precise — the shadow of classical democracy landing on the machinery that replaced it. In the middle distance, between the temple and the machinery: a single small figure stands mid-ground, looking neither left nor right, facing the viewer. Simplified, no face. Sky: de Chirico's deep blue-violet, almost night-like despite the strong sunlight on the ground. No clouds. No photorealism.
+
+</details>
+
 Quelle: [authoritarian-stack.info](https://www.authoritarian-stack.info/)
 *(Interaktive Forschungsplattform, Stand: Oktober 2025)*
 
