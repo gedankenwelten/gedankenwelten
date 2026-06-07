@@ -16,6 +16,16 @@ aliases:
 
 # Michael Sterner — Reiche gegen Marktwirtschaft
 
+![[assets/Michael-Sterner-Reiche-gegen-Marktwirtschaft-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**W. Heath Robinson** — viktorianische Ingenieurssatire, feine Tintenlinie, warme Sepia-Creme-Palette, absurde Maschinen mit deadpan Präzision. Robinson zeichnete überkomplizierte Apparate für lächerlich einfache (oder heimtückisch spezifische) Zwecke. Das StromVKG ist genau das: eine Maschinerie, die *aussieht* wie technische Neutralität — und eine einzige Funktion hat, die man nur sieht, wenn man den Monteur hinten mit dem Schraubenschlüssel bemerkt.
+
+*Prompt:* Wide banner 1200×500px. W. Heath Robinson absurdist engineering illustration style — fine precise ink line, warm sepia-cream palette, Victorian engineering draftsmanship, affectionate attention to bolts and gauges and levers, gentle humor, no photorealism, no realistic faces. Center: A large official-looking machine, drawn as a cross-section engineering diagram. The machine has a label on top: "TECHNOLOGIEOFFENHEIT §StromVKG". It is full of gears, gauges, pressure valves, numbered levers, a large clock dial showing "10+1h", and various pipes of different widths — all drawn with deadpan precision. Left side: A battery (simplified rectangular cell with + and - poles) enters the machine via a large funnel labeled "EINGANG". It travels through the gears, reaches the 10+1-hour clock mechanism — a lever drops exactly at hour 10, the reset timer runs for 1 hour, then another lever requires instant re-delivery — and the battery is ejected downward through a small pipe labeled "ABGELEHNT", landing in a small waste bin at the bottom left. Right side: A gas flame symbol enters the same machine through the identical funnel. It passes through the gears — but at the 10+1-hour mechanism, a small hidden bypass pipe (slightly smaller, almost invisible, unlabeled) carries the gas flame around the mechanism entirely. It exits triumphantly upward through the top of the machine via a wide pipe labeled "KAPAZITÄT ERTEILT". Around the machine: small Victorian engineer figures (no faces) in top hats, holding clipboards, pointing at gauges approvingly, making annotations. One tiny figure at the back is quietly installing the bypass pipe with a wrench. Palette: warm sepia ink on cream paper. Occasional red ink for the official stamp marks: "§15", "§17", "APPROVED". No photorealism.
+
+</details>
+
 Quelle: [Ministerin gegen Marktwirtschaft? Reiche schränkt Wettbewerb ein](https://www.youtube.com/watch?v=pyGt0Inl3TM)
 
 > [!info] Wer spricht?
