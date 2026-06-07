@@ -1,0 +1,213 @@
+@use "../../styles/variables.scss" as *;
+
+// Feed ist standardmäßig unsichtbar — nur auf der Startseite ab Desktop-Breite an
+.desktop-feed {
+  display: none;
+}
+
+@media all and ($desktop) {
+  // Auf der Startseite den normalen Note-Inhalt (Intro + Journal) ausblenden …
+  body[data-slug="index"] {
+    .article-title,
+    .content-meta {
+      display: none !important;
+    }
+    .center > article,
+    .center > hr,
+    .center > .page-footer {
+      display: none !important;
+    }
+  }
+
+  // … und stattdessen das Karten-Raster zeigen
+  .desktop-feed {
+    display: block;
+    margin-top: 0.5rem;
+  }
+}
+
+// --- Chip-Leiste (Rubriken mit Icon) ---
+.df-chips {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.8rem 0 1.2rem;
+  margin-bottom: 0.6rem;
+  background: var(--light);
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.df-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  background: var(--df-chip-bg, var(--lightgray));
+  color: var(--darkgray);
+  border: 1px solid var(--df-chip-border, transparent);
+  border-radius: 999px;
+  padding: 0.4rem 0.95rem 0.4rem 0.5rem;
+  font-size: 0.85rem;
+  font-family: var(--bodyFont);
+  white-space: nowrap;
+  cursor: pointer;
+  transition:
+    background 0.15s ease,
+    color 0.15s ease,
+    border-color 0.15s ease;
+
+  &:hover {
+    background: var(--gray);
+    color: var(--light);
+  }
+
+  &.active {
+    background: var(--secondary);
+    color: #fff;
+    border-color: var(--secondary);
+  }
+}
+
+// Lightmode: cremefarbene Chips mit dezentem Rand statt Grau
+:root[saved-theme="light"] {
+  --df-chip-bg: #f6efe1;
+  --df-chip-border: #e7dcc6;
+}
+
+:root[saved-theme="light"] .df-chip:hover:not(.active) {
+  background: #ece0c9;
+  color: var(--dark);
+  border-color: #ddcfb1;
+}
+
+.df-chip-icon {
+  width: 1.25rem;
+  height: 1.25rem;
+  margin: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  flex: 0 0 auto;
+}
+
+// "Alles"-Grid-SVG erbt die Textfarbe
+svg.df-chip-icon {
+  border-radius: 0;
+  fill: currentColor;
+  padding: 0.1rem;
+}
+
+// --- Karten-Raster (3 Spalten) ---
+.df-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3rem 3rem;
+  padding: 40px 5px 0 5px;
+}
+
+.df-card {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  background: var(--lightgray) !important;
+  border: 1px solid color-mix(in srgb, var(--gray) 25%, transparent);
+  border-radius: 12px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.18);
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease,
+    border-color 0.15s ease;
+
+  // Lightmode: helle Grundfarbe statt Grau — Kontrast kommt über Rand + Schatten
+  :root[saved-theme="light"] & {
+    background: var(--light) !important;
+  }
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.28);
+    border-color: color-mix(in srgb, var(--secondary) 45%, transparent);
+
+    .df-thumb img {
+      transform: scale(1.04);
+    }
+
+    .df-title {
+      color: var(--secondary);
+    }
+  }
+}
+
+.df-thumb {
+  margin: 0.7rem 0.7rem 0;
+  aspect-ratio: 2 / 1;
+  border-radius: 10px;
+  overflow: hidden;
+  background: color-mix(in srgb, var(--gray) 18%, transparent);
+}
+
+.df-thumb img {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.25s ease;
+}
+
+.df-title {
+  font-family: var(--headerFont);
+  font-weight: 600;
+  font-size: 1.02rem;
+  line-height: 1.3;
+  color: var(--dark);
+  margin: 0.7rem 0 0.55rem;
+  padding: 0 0.7rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  transition: color 0.15s ease;
+}
+
+.df-meta {
+  margin-top: auto;
+  padding: 3rem 0.7rem 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  font-size: 0.74rem;
+  color: var(--gray);
+}
+
+.df-cat {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-width: 0;
+  color: var(--darkgray);
+}
+
+.df-cat-icon {
+  width: 1.1rem;
+  height: 1.1rem;
+  margin: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  flex: 0 0 auto;
+}
+
+.df-date {
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
+.df-sentinel {
+  height: 1px;
+}

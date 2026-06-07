@@ -25,6 +25,12 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.MobileFeed(),
       condition: (page) => page.fileData.slug === "index",
     }),
+    // Desktop-Karten-Feed (Firefox-Stil) — nur auf der Startseite gerendert,
+    // per CSS nur ab Desktop-Breite sichtbar. Ersetzt dort Intro + Journal.
+    Component.ConditionalRender({
+      component: Component.DesktopFeed(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",

@@ -26,11 +26,13 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import Banner from "./Banner"
 import MobileFeed from "./MobileFeed"
+import DesktopFeed from "./DesktopFeed"
 
 export {
   ArticleTitle,
   Banner,
   MobileFeed,
+  DesktopFeed,
   Content,
   TagContent,
   FolderContent,
