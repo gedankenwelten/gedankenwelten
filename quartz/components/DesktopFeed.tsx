@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { resolveRelative } from "../util/path"
+import { resolveRelative, slugTag, FullSlug } from "../util/path"
 import { classNames } from "../util/lang"
 // @ts-ignore
 import script from "./scripts/desktopFeed.inline"
@@ -46,12 +46,44 @@ interface FeedEntry {
   ts: number
 }
 
+interface CloudTag {
+  tag: string
+  count: number
+  url: string
+  color: string
+}
+
+// Strukturelle Tags gehören nicht in die Wolke — sie sind redundant zu den
+// Rubrik-Chips bzw. reine Metadaten und würden die Wolke dominieren.
+const EXCLUDED_TAGS = new Set([
+  "zeitgeist",
+  "denker",
+  "gedanke",
+  "gedanken",
+  "panorama",
+  "denker-vita",
+  "denkervita",
+  "goodnews",
+  "good-news",
+  "gespräch",
+  "meta",
+  "index",
+])
+const isStructuralTag = (t: string) => EXCLUDED_TAGS.has(t) || t.startsWith("year-")
+// Tags ab dieser Häufigkeit erscheinen in der Wolke
+const CLOUD_MIN_COUNT = 5
+
 function shortDate(d: Date): string {
   return d.toLocaleDateString("de-DE", { day: "2-digit", month: "2-digit", year: "numeric" })
 }
 
 const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: QuartzComponentProps) => {
   const entries: FeedEntry[] = []
+  // Tag-Häufigkeit gesamt + pro Rubrik (für Farbe nach dominanter Rubrik)
+  const tagTotal: Record<string, number> = {}
+  const tagByCat: Record<string, Record<string, number>> = {}
+  const catColor: Record<string, string> = {}
+  Object.values(CATEGORIES).forEach((c) => (catColor[c.key] = c.color))
 
   for (const page of allFiles) {
     const slug = page.slug
@@ -86,9 +118,31 @@ const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quar
       date: when ? shortDate(when) : "",
       ts,
     })
+
+    // Tags dieser Note zählen (strukturelle übersprungen)
+    for (const rawTag of page.frontmatter?.tags ?? []) {
+      const tag = String(rawTag).toLowerCase()
+      if (isStructuralTag(tag)) continue
+      tagTotal[tag] = (tagTotal[tag] ?? 0) + 1
+      ;(tagByCat[tag] ??= {})[cat.key] = (tagByCat[tag]?.[cat.key] ?? 0) + 1
+    }
   }
 
   entries.sort((a, b) => b.ts - a.ts)
+
+  // Tag-Wolke: ab Mindesthäufigkeit, alphabetisch, Farbe = dominante Rubrik
+  const cloud: CloudTag[] = Object.entries(tagTotal)
+    .filter(([, count]) => count >= CLOUD_MIN_COUNT)
+    .map(([tag, count]) => {
+      const domKey = Object.entries(tagByCat[tag]).sort((a, b) => b[1] - a[1])[0][0]
+      return {
+        tag,
+        count,
+        color: catColor[domKey] ?? "#a78bfa",
+        url: resolveRelative(fileData.slug!, `tags/${slugTag(tag)}` as FullSlug),
+      }
+    })
+    .sort((a, b) => a.tag.localeCompare(b.tag, "de"))
 
   return (
     <div class={classNames(displayClass, "desktop-feed")}>
@@ -113,13 +167,36 @@ const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quar
             <span>{t.label}</span>
           </button>
         ))}
+        <button class="df-chip df-chip-tags" data-tab="tags" type="button" aria-label="Tag-Wolke">
+          <svg
+            class="df-chip-icon"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+          >
+            <path d="M9 5H2v7l6.29 6.29a2.4 2.4 0 0 0 3.42 0l4.58-4.58a2.4 2.4 0 0 0 0-3.42L10 4" />
+            <circle cx="5.5" cy="8.5" r="1.5" fill="currentColor" stroke="none" />
+          </svg>
+          <span>Tags</span>
+        </button>
       </nav>
       <div class="df-grid" />
       <div class="df-sentinel" aria-hidden="true" />
+      <div class="df-cloud" hidden />
       <script
         type="application/json"
         id="desktop-feed-data"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(entries) }}
+      />
+      <script
+        type="application/json"
+        id="desktop-feed-tags"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(cloud) }}
       />
     </div>
   )
