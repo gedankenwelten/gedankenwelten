@@ -6,6 +6,16 @@ tags: [denker-vita, rechtsextremismus, demokratie, radikalisierung]
 
 # Matthias Quent — DenkerVita
 
+![[assets/Matthias-Quent-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Pieter Bruegel der Ältere** — Volksszene in Erdtönen, warmes Öl auf Holz, keine Helden, viele kleine Figuren im Panorama. Bruegel malt nie Entschlossenheit, sondern den Moment davor. Die Menschenmenge als Subjekt: ein Teil orientiert sich vertikal (zur Plattform hinauf), ein Teil horizontal (zueinander). In der Mitte: Figuren im Übergang. Das ist Quents soziologische Kernfrage — nicht wer gut oder böse ist, sondern wo die Gesellschaft gerade steht.
+
+*Prompt:* Wide banner 1200×500px. Pieter Bruegel the Elder style — warm earth tones (ochre, burnt sienna, harvest gold), many small simplified figures at middle distance, no single hero, dense horizontal composition, no photorealism, no realistic faces. Oil painting texture, warm afternoon light. A wide flat landscape — a market square or open field — filled with many dozens of small figures. They are roughly divided into two groups by their orientation: Right two-thirds: A dense crowd of figures facing toward an elevated wooden platform in the far right. On the platform stands a single large figure — simplified, face obscured — with one arm extended outward in a commanding gesture. The crowd below the platform leans toward it, some with arms raised, all oriented upward. The light on this side is slightly harsh, yellowish. Left third: A quieter cluster of figures — turned away from the platform, facing each other. They are connecting: passing objects between them, building something low and horizontal together (a wall, a table, a simple structure). No drama, no raised arms. Just the texture of people working side by side. The light on this side is warmer, softer. Between the two groups: a handful of figures in transition — some mid-turn, neither fully oriented to the platform nor to the horizontal group. The landscape continues flat and wide behind all of them. Palette: Bruegel's earth tones — ochre yellow, burnt sienna, forest green, dusty blue sky. No black-and-white. No sharp outlines. The texture of tempera or early oil.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
