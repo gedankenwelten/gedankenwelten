@@ -71,7 +71,7 @@ const EXCLUDED_TAGS = new Set([
 ])
 const isStructuralTag = (t: string) => EXCLUDED_TAGS.has(t) || t.startsWith("year-")
 // Tags ab dieser Häufigkeit erscheinen in der Wolke
-const CLOUD_MIN_COUNT = 5
+const CLOUD_MIN_COUNT = 3
 
 function shortDate(d: Date): string {
   return d.toLocaleDateString("de-DE", { day: "2-digit", month: "2-digit", year: "numeric" })

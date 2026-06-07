@@ -1,3 +1,7 @@
+import { computePosition, flip, inline, shift } from "@floating-ui/dom"
+import { normalizeRelativeURLs } from "../../util/path"
+import { fetchCanonical } from "./util"
+
 interface FeedEntry {
   title: string
   cat: string
@@ -26,6 +30,55 @@ function escapeHtml(s: string): string {
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
+}
+
+// --- Tag-Vorschau (eigenes Popover, da die Wolke erst on-demand entsteht) ---
+const tagPopoverParser = new DOMParser()
+const tagPopoverCache = new Map<string, HTMLElement[]>()
+
+function getTagPopoverEl(): HTMLDivElement {
+  let el = document.querySelector<HTMLDivElement>(".df-tag-popover")
+  if (!el) {
+    el = document.createElement("div")
+    el.className = "popover df-tag-popover"
+    const inner = document.createElement("div")
+    inner.className = "popover-inner"
+    el.appendChild(inner)
+    document.body.appendChild(el)
+  }
+  return el
+}
+
+async function showTagPopover(link: HTMLAnchorElement, clientX: number, clientY: number) {
+  const targetUrl = new URL(link.href)
+  targetUrl.hash = ""
+  targetUrl.search = ""
+  const el = getTagPopoverEl()
+  const inner = el.querySelector<HTMLElement>(".popover-inner")!
+
+  let hints = tagPopoverCache.get(targetUrl.pathname)
+  if (!hints) {
+    const response = await fetchCanonical(targetUrl).catch(() => undefined)
+    if (!response) return
+    const html = tagPopoverParser.parseFromString(await response.text(), "text/html")
+    normalizeRelativeURLs(html, targetUrl)
+    html.querySelectorAll("[id]").forEach((e) => (e.id = `popover-internal-${e.id}`))
+    hints = [...html.getElementsByClassName("popover-hint")] as HTMLElement[]
+    if (hints.length === 0) return
+    tagPopoverCache.set(targetUrl.pathname, hints)
+  }
+
+  inner.replaceChildren(...hints.map((h) => h.cloneNode(true) as HTMLElement))
+  const { x, y } = await computePosition(link, el, {
+    strategy: "fixed",
+    middleware: [inline({ x: clientX, y: clientY }), shift(), flip()],
+  })
+  el.style.transform = `translate(${x.toFixed()}px, ${y.toFixed()}px)`
+  el.classList.add("active-popover")
+}
+
+function hideTagPopover() {
+  document.querySelector(".df-tag-popover")?.classList.remove("active-popover")
 }
 
 let observer: IntersectionObserver | undefined
@@ -99,6 +152,10 @@ function setupDesktopFeed() {
         return `<a class="df-cloud-tag" href="${t.url}" style="font-size:${size}rem;color:${t.color};opacity:${op}" title="${t.count} Notes">${escapeHtml(t.tag)}</a>`
       })
       .join("")
+    cloud!.querySelectorAll<HTMLAnchorElement>(".df-cloud-tag").forEach((a) => {
+      a.addEventListener("mouseenter", (e) => showTagPopover(a, e.clientX, e.clientY))
+      a.addEventListener("mouseleave", hideTagPopover)
+    })
     cloudRendered = true
   }
 
