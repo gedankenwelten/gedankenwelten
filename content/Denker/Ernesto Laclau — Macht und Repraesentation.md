@@ -17,6 +17,16 @@ aliases:
 
 # Ernesto Laclau — Macht und Repräsentation
 
+![[assets/Ernesto-Laclau-Macht-und-Repraesentation-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Cy Twombly** — gestische Kreide und Graphit auf cremeweißem Putzgrund, mediterranes Licht. Die durchgestrichenen, halb ausradierten Worte *Demokratie · Freiheit · Gleichheit* schweben oben, ohne je zur Ruhe zu kommen — gleitende Signifikanten, wörtlich ins Bild gesetzt. In der Mitte ein leeres Oval, umkreist von nervösen Schlaufen: der *leere Ort der Macht* (Lefort), die produktive Leerstelle. Unten verdichtet sich ein Gewimmel kleiner Zeichen zu einem einzigen Wort — *VOLK*. Twomblys prekäre Spur trägt diese Note, weil bei Laclau jede Bedeutung nur vorläufig fixiert ist und der Mangel selbst die Freiheit eröffnet.
+
+*Prompt:* A wide horizontal painting in the gestural hand of Cy Twombly, 1200x500 panoramic banner. A luminous pale ground of cream and chalk-white plaster, washed with thin veils of ochre and faded rose, Mediterranean light. Across the field float scrawled, half-legible handwritten words in graphite and smudged wax crayon — "DEMOKRATIE", "FREIHEIT", "GLEICHHEIT" — overlapping, some struck through, some erased into ghostly pentimenti, none ever fully settling, as if meaning refuses to fix. A faint horizon line drawn in pencil runs low across the canvas and dissolves before reaching the edges — a boundary that recedes. At the center, a pale empty oval of bare ground, an untouched void surrounded by orbiting loops and scribbled knots, a fragile net of nervous connecting lines and nodal tangles. Toward the lower band, a dense cluster of small frantic marks gathers and resolves into a single scrawled word "VOLK". Drips, scratched loops, numbers and crossings-out, pencil over wash, raw and precarious. No faces, no figures. Abstract, brittle, contemplative, warm. No photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > Wer jemanden vertritt, gibt nicht bloß einen fertigen Willen weiter — er formt ihn mit. Ernesto Laclau dreht damit die Alltagsvorstellung von Demokratie um: Das „Volk", die „Interessen", die „Identität", die im Parlament repräsentiert werden sollen, existieren nicht *vor* ihrer Repräsentation, sondern entstehen erst in ihr. Diese Note folgt einem Vortrag über Laclaus Text *Macht und Repräsentation* und entfaltet seine Schlüsselbegriffe — Kontingenz, Hegemonie, Antagonismus, gleitende Signifikanten, das Politische und den Horizont. Es geht um eine Demokratietheorie, die ihre eigene Unmöglichkeit nicht als Defizit beklagt, sondern als Freiheitsraum feiert.
 
