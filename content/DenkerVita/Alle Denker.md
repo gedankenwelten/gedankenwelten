@@ -1,6 +1,6 @@
 ---
 title: Alle Denker
-aktualisiert: 2026-04-16
+aktualisiert: 2026-06-08
 tags: [meta, denker-vita]
 ---
 
@@ -73,6 +73,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## E
 
 **[[DenkerVita/Erich Fromm|Erich Fromm]]** — Psychoanalytiker, Sozialphilosoph; Haben/Sein-Modus, Biophilie, humanistischer Sozialismus, Prophet als Warner
+
+**[[DenkerVita/Ernesto Laclau|Ernesto Laclau]]** — Argentinisch-britischer Politiktheoretiker; Post-marxistische Hegemonie- und Populismustheorie, Essex School der Diskursanalyse, leere Signifikanten, radikale plurale Demokratie; mit Chantal Mouffe *Hegemonie und radikale Demokratie* (1985), *On Populist Reason* (2005)
 
 **[[DenkerVita/Evan Osnos|Evan Osnos]]** — Journalist (*New Yorker*); Dokumentarist der Ultrareichen, Autor *The Haves and Have-Yachts*; Zuckerberg-Biograph, National Book Award
 

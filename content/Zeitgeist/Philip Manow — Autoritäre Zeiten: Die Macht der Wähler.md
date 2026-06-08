@@ -288,6 +288,9 @@ Das ist der Gegenpunkt zur rein formal-bildungsbürgerlichen Lösung. Das Proble
 
 ## Verbindungen
 
+### → [[Denker/Ernesto Laclau — Macht und Repraesentation]]
+Laclau liefert das theoretische Vokabular für Manows empirischen Befund: Wo Manow den realen Souveränitätsverlust des Nationalstaats (EU/WTO) beschreibt, deutet Laclau die populistische Anrufung des „Volkes" als **leeren Signifikanten**, der die Lücke füllt, die entsteht, wenn Repräsentation versagt.
+
 ### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
 Mausfeld beschreibt, wie Eliten Meinungskorridore setzen und den Demos klein halten. Manow beschreibt die andere Seite derselben Realität: Die Gewinnerklasse ist Deutungsklasse. Beide analysieren strukturelle Asymmetrie — Mausfeld von der Medienseite, Manow von der Klassenstruktur her.
 

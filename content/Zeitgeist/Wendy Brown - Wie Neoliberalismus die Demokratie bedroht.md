@@ -207,6 +207,10 @@ Was Piketty zur ökonomischen Theorie und Bourdieu zur Soziologie beisteuern, fa
 
 ## Verbindungen
 
+### → [[Denker/Ernesto Laclau — Macht und Repraesentation]]
+
+Laclau zeigt, dass „Demokratie" und „Freiheit" gleitende Signifikanten sind, die hegemonial *umkämpft* werden müssen. Brown zeigt, wie der Neoliberalismus genau diesen Kampf stillstellt — er ersetzt demokratische Vernunft durch Marktvernunft und nimmt dem *demos* die Sprache seiner Macht. Browns historische Erklärung dafür, warum Laclaus linker Populismus heute so schwer zu mobilisieren ist.
+
 ### → [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet]]
 
 Brown und Demirović/Lorey nutzen beide Foucaults Gouvernementalitätsbegriff — aber von verschiedenen Seiten: Während Demirović/Lorey zeigen, wie neoliberale Regierungsrationalität das Subjekt formt (das unternehmerische Selbst), fragt Brown, was mit der *politischen Gemeinschaft* passiert, wenn alle Subjekte so geformt sind: Der *demos* löst sich auf, weil niemand mehr die Sprache kollektiver Selbstbestimmung spricht.

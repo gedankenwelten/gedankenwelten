@@ -225,6 +225,10 @@ Sie verweist auf das Mercosur-Abkommen als Beispiel, dass nach 25 Jahren doch ge
 
 ## Verbindungen
 
+### → [[Denker/Ernesto Laclau — Macht und Repraesentation]]
+
+Schwans Unterscheidung von Herrschaftsmacht (Nullsummen-Logik) und Gestaltungsmacht (kooperative Wirkmächtigkeit) ist die praktisch-normative Antwort auf Laclaus theoretische Frage: Wenn Macht immer hegemonial und partiell ist, welche Handlung kann trotzdem *emanzipieren?* Schwan setzt dort an, wo Laclaus Theorie endet — bei der konkreten demokratischen Praxis.
+
 ### → [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 
 beide NEU DENKEN-Gespräche mit Maja Göpel; Butterwegge analysiert die strukturelle Machtkonzentration durch Steuer- und Sozialpolitik, Schwan die demokratische Gegenmacht — zwei Seiten derselben Ungleichheitsfrage
