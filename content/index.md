@@ -22,11 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### GoodNews
-
-> **09.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
-
 ### Zeitgeist
+
+> **09.06.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
+>
+> Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
 
 > **08.06.** — [[Zeitgeist/MONITOR — Sparhammer gegen Jugendliche|MONITOR — Sparhammer gegen Jugendliche]]
 >
@@ -44,11 +44,11 @@ Die Gedankenwelten (luc)
 >
 > CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt.
 
-> **05.06.** — [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem|Tiana Travels — Das amerikanische Betriebssystem]]
->
-> Amerika hat nicht nur strukturelle Defekte — es hat seinen Bürgern ein ideologisches Betriebssystem installiert, das sie davon abhält, diese Defekte als solche zu erkennen.
+> → *10 weitere in* [[Zeitgeist]]
 
-> → *9 weitere in* [[Zeitgeist]]
+### GoodNews
+
+> **09.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Denker
 

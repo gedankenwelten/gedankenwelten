@@ -212,6 +212,10 @@ Heinrich zieht den Appeasement-Vergleich bewusst vorsichtig: *„Man sollte nich
 
 ## Verbindungen
 
+### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
+
+Dieselbe Stimme im Streit mit ihrem Podcast-Partner. Heinrichs hier entwickelte Methodik — Position transparent machen, Belegpflicht, „Neutralität ist eine Lüge" — wird im Wertewesten-Gespräch zum Maßstab, an dem er seinen eigenen Ruf nach dem „eisernen Besen" gegen Kreml-nahe Stimmen messen lassen muss. Bemerkenswert: Der Quellenkritiker nimmt dort die restriktivere Position ein, sein Partner Reicher die kompromisslos freiheitliche.
+
 **Geopolitik & Völkerrecht:**
 
 ### → [[Torsten Heinrich — Ukraine bewusst geopfert]]

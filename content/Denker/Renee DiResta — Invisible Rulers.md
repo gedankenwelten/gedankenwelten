@@ -376,6 +376,7 @@ Das gleiche Reframing-Werkzeug, das gegen das SIO eingesetzt wurde, wird jetzt g
 
 ## Verbindungen
 
+- [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Wertewesten — Eiserner Besen oder bessere Argumente]] — DiResta liefert das wissenschaftliche Fundament für die „Anatomie der Manipulation", die die beiden Wertewesten-Hosts intuitiv beschreiben (Goebbels-Ratio, rhetorische Schminke). Wo Wertewesten anekdotisch erklärt, wie aus Wiederholung Realität wird, hat DiResta es über 10 Jahre systematisch vermessen
 - [[Denker/Jonathan Haidt — Kann ein gespaltenes Amerika heilen]] — Haidt erklärt das psychologische Fundament: Stammeslogik und moralische Identität machen Menschen für Widerlegungen unzugänglich — DiResta bestätigt das empirisch über 10 Jahre Forschung
 - [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]] — Die "Moral Foundations" sind die Hebel, an denen Propagandisten ziehen; DiRestas Trolls-Kapitel ist eine praktische Anwendung von Haidts Theorie
 - [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]] — Dummheit als soziale Infektion durch Gruppenidentität — die Frau aus Springfield und die Wayfair-Crowd sind moderne Lehrbuchbeispiele

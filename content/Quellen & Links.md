@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Wertewesten (Heinrich & Reicher) — Kampf gegen Russenpropaganda? (#32)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [#32 Kampf gegen Russenpropaganda? (Wertewesten)](https://www.youtube.com/watch?v=sIM_03kJI5A) |
+| **Notiz** | [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Wertewesten_Russenpropaganda_Transkript.txt` |
+
 ## ARTE 42 — Können wir uns ändern? (Persönlichkeit)
 
 | | |

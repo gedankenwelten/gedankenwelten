@@ -219,6 +219,10 @@ Die Forderung: Mut zur Problemanalyse. Nicht Doom-Talk als Selbstzweck, aber auc
 
 ## Verbindungen
 
+### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
+
+Dieselbe Grundfrage aus dem anderen politischen Lager: Wo verläuft die Grenze des Sagbaren, und wer darf sie ziehen? Steinke/Marinić verhandeln sie als „Cancel Culture"- und Diskursdebatte, die beiden pro-westlichen Wertewesten-Hosts als Streit um den Umgang mit Kreml-Propaganda im öffentlich-rechtlichen Raum. Zusammen zeigen sie: Die Struktur des Konflikts „darf man ausschließen?" ist quer durch alle Lager dieselbe.
+
 ### → [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
 
 Steinkes vierständiges Jung & Naiv-Gespräch (2026) liefert die detaillierte juristische Grundlage für das, was er hier in 60 Minuten konzentriert. Insbesondere der Verfassungsschutz als politisches Instrument — dort ausführlich, hier nur angedeutet.

@@ -193,6 +193,7 @@ Man muss das Führungspersonal von den Wähler:innen unterscheiden. Und mit AfD-
 
 ## Verbindungen
 
+- [[Wertewesten — Eiserner Besen oder bessere Argumente]] — Der direkte Methodenstreit zu Quents Thema: einbinden oder ausschließen? Quents Plädoyer, Extremismus nicht zu verharmlosen, liegt nah an Heinrichs „eisernem Besen"; Reichers Einwand (Ausschluss als Bumerang, Zensur weitet sich aus) ist das liberale Gegengewicht. Wertewesten führt den Streit abstrakt, Quent liefert den empirischen Anwendungsfall
 - [[Erich Fromm — Psychoanalyse des Faschismus]] — Quent baut sein gesamtes Ohnmachts-Konzept auf Fromms Analyse: Die vier Reaktionsmuster auf Ohnmacht (Rationalisierung, Zeitdenken, Geschäftigkeit, autoritäre Kontrolle) stammen aus Fromms Werk. Fromm liefert die Psychodynamik, Quent die empirische Vermessung (30% umfassend ohnmächtig, 16% kämpfend)
 - [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld analysiert die Erzeugung von Ohnmacht durch Eliten (Meinungsmanagement, Angst als Machtinstrument); Quent untersucht die Reaktionen der Ohnmächtigen. Zusammen ergibt sich: Mausfeld beschreibt die Ursache, Quent die Wirkung — und den möglichen Ausweg (Handeln statt Warten auf Katastrophen)
 - [[MONITOR — AfD-Erfolg trotz Skandalen]] — Quent ist in der MONITOR-Reportage als Experte vertreten und formuliert dort die These der „Verherrlichung der Ohnmacht" — dieselbe Kernthese, die er hier systematisch entfaltet
