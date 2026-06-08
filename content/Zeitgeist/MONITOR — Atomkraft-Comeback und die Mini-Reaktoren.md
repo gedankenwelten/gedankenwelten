@@ -20,6 +20,16 @@ aliases:
 
 # MONITOR — Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt
 
+![[assets/MONITOR-Atomkraft-Comeback-und-die-Mini-Reaktoren-banner.png|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico** — Pittura Metafisica, 1910er–20er. Leere Piazza, spätnachmittägliches Licht, tiefer Schattenwurf. De Chiricosche Melancholie ist die einzig ehrliche Reaktion auf diese Note: eine Note über Zeit, über das Wiederholen von Versprechen, über Schatten die länger dauern als das, was sie warf. Der Ruin links, das Modell rechts, der Schatten verbindet beide — das ist das Argument des Films, ohne ein Wort.
+
+*Prompt:* Giorgio de Chirico Pittura Metafisica style, 1910s–20s. Wide banner 1200×500px. An empty, sun-bleached piazza stretching wide. Left side: the ruined concrete cooling tower of an old nuclear plant — overgrown at the base, cracked, a relic from a previous era, its geometry angular and monumental. Right side: a small, pristine architectural model of a sleek miniature reactor sits on a stone pedestal, gleaming and new, perfectly clean. The late-afternoon sun casts a single long, sharp shadow from the old ruin all the way across the empty piazza — the shadow falls directly across and over the small new model, engulfing it. No people. No movement. The sky: deep ochre fading to cool greenish-blue at the horizon, the characteristic de Chirico palette. Strong architectural shadows, flattened perspective. A clock tower or chimney faintly visible in the far background, adding depth. The emptiness between the two objects is as important as the objects themselves. No text. No photorealism. The shadow is the argument.
+
+</details>
+
 Quelle: [Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt – MONITOR](https://www.youtube.com/watch?v=yCr4TWJHdSM)
 
 > [!info] Wer spricht?
