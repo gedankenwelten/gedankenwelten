@@ -245,7 +245,7 @@ drittes NEU DENKEN-Gespräch aus dem Vault; Bücker analysiert Zeitungleichheit 
 
 beide zitieren Hannah Arendt als Zeugin der Gegenwart; Redecker beschreibt den neuen Faschismus als Phantombesitz-Verteidigung, Schwan als narzisstische Destruktionskraft — zwei komplementäre Erklärungen desselben Phänomens
 
-### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Geistesblitz/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 
 ### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 

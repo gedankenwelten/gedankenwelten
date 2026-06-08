@@ -4,7 +4,7 @@ date: 31.05.2026
 aktualisiert: 05.06.2026
 description: "Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht."
 tags:
-  - zeitgeist
+  - geistesblitz
   - psychologie
   - year-2026
 aliases:

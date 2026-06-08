@@ -171,7 +171,7 @@ Fromms Unterscheidung zwischen Haben-Modus (Geben als Ausgabe, die man zurückfo
 
 Ricard formuliert das, was Adriaan praktisch zeigt, als philosophische These: Altruistisches Handeln und eigenes Wohlbefinden sind nicht Tauschgeschäft, sondern dasselbe aus verschiedenen Richtungen. Adriaans Paradox der leeren Fürsorge löst Ricard auf der Theorieebene: Wer gibt, weil er fürchtet nicht genug zu sein, gibt aus dem Haben-Modus. Eine produktive Spannung bleibt: Ricard betont die unverzichtbare Nähe zum lebenden Meister, Adriaan setzt stärker auf eigenständige Sitzpraxis.
 
-### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Geistesblitz/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 
 Hagemeyers Reparentifizierungsprozess — Kompetenzen zurückholen, das Selbst als eigenständige Instanz wieder sichtbar machen — und Adriaans "Urlaub aus den Rollen" beschreiben strukturell dieselbe Bewegung. Das Recht-Haben-Spiel ist eine milde Variante von Hagemeyers narzisstischer Regulierung via Außenbestätigung: Wer sich selbst nicht bekommt, sucht Bestätigung in der ewigen Schuldabrechnung.
 
@@ -202,6 +202,6 @@ Das Netzwerk-Essay beantwortet die Kollektivfrage, die Adriaans Vortrag am Ende 
 > - Kollektive Transformation durch individuelle Praxis: *Wie viele Menschen müssen diesen Weg gehen, damit er kollektiv wirkt — und wie misst man das?*
 > - *Was wäre das stärkste Argument dagegen, dass Selbstfürsorge keine Form von Egoismus ist?*
 
-### → [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
+### → [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
 
 Brähler beschreibt aus klinisch-psychologischer Sicht dasselbe Paradox, das Adriaan aus der Vipassana-Praxis beschreibt: Wer aus Erschöpfung und Angst heraus gibt, gibt egozentrisch — versteckt, aber fundamental. Beide kommen zur identischen Schlussfolgerung: Selbstfürsorge ist keine Vorbedingung für Leistung, sondern für Authentizität.

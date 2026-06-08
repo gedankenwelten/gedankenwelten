@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*245 Notes — automatisch generiert · nach Thema sortiert*
+*240 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -255,7 +255,7 @@ Jede Note folgt einer eigenen Struktur:
 
 - [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet|Alex Demirović und Isabell Lorey — Foucaults Gouvernementalität]]
 - [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
-- [[Zeitgeist/ARTE — Forschung Fake und faule Tricks|ARTE — Forschung, Fake und faule Tricks]]
+- [[Geistesblitz/ARTE — Forschung Fake und faule Tricks|ARTE — Forschung, Fake und faule Tricks]]
 - [[Zeitgeist/Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
 - [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]] — Souveränität ist Wahlfreiheit, nicht Isolation — über Europas 90%-Abhängigkeit von US-Tech und Vertrauen als europäischen Gegenentwurf.
 - [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Strom, Merit Order und Großbatterien]]
@@ -290,7 +290,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]]
 - [[Zeitgeist/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder|re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?]] — Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen.
-- [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin: Mehr als ein Glückshormon]]
 
 ### Medien & Propaganda
 
@@ -301,13 +300,9 @@ Jede Note folgt einer eigenen Struktur:
 
 - [[Zeitgeist/Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen|Adriaan van Wagensveld — Für dich sorgen heißt für andere sorgen]]
 - [[Zeitgeist/Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln|Adriaan van Wagensveld — Weniger Drama: Wie Vipassana dich ins Handeln bringt]]
-- [[Geistesblitz/ARTE — Neurodivers Anders denken besser arbeiten|ARTE Re: — Neurodivers: Anders denken, besser arbeiten?]]
-- [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe|Christine Brähler — Selbstmitgefühl, Scham und reife Liebe]] — Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht.
-- [[Geistesblitz/David Chalmers — Das Hard Problem des Bewusstseins|David Chalmers — Das Hard Problem des Bewusstseins]]
-- [[Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein|Gert Scobel — Meditation kann gefährlich sein]] — Meditation wirkt — klinisch belegt, gleichwirksam wie ein Antidepressivum. Und sie kann schaden. Scobel zieht die Trennlinie zwischen Wellness-Versprechen und ernsthafter Praxis.
-- [[Geistesblitz/Giulia Enders — Koerper als Verbuendeter|Giulia Enders — Körper als Verbündeter]]
+- [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe|Christine Brähler — Selbstmitgefühl, Scham und reife Liebe]] — Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht.
+- [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein|Gert Scobel — Meditation kann gefährlich sein]] — Meditation wirkt — klinisch belegt, gleichwirksam wie ein Antidepressivum. Und sie kann schaden. Scobel zieht die Trennlinie zwischen Wellness-Versprechen und ernsthafter Praxis.
 - [[Zeitgeist/Markus Gabriel — Was ist Realitaet|Markus Gabriel — Was ist Realität?]]
-- [[Geistesblitz/Rebecca Boehme — So trickst du dein Gehirn aus|Rebecca Böhme — So trickst du dein Gehirn aus]]
 - [[Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben|Udo Marquardt — Zeit als Schlüssel zum guten Leben]]
 
 ### Weitere Stimmen

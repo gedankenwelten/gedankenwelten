@@ -2,7 +2,7 @@
 title: "Gerald Hüther — Lebendigkeit und das Ende der Hierarchien"
 aktualisiert: 2026-04-28
 tags:
-  - denker
+  - geistesblitz
   - philosophie
   - psychologie
   - neurowissenschaft
@@ -220,4 +220,4 @@ Was die Flucht möglich macht, ist nicht nur Mut — es ist eine Dorfkindheit, i
 - [[ARTE — Neurodivers Anders denken besser arbeiten]] — Die Reportage zeigt am Arbeitsmarkt, was Hüther neurobiologisch beschreibt: Wer Neurodivergente auf ihre Diagnose reduziert (= zum Objekt macht), zerstört Verbundenheit und Gestaltungslust. Die Barrieren-Perspektive der Neurodiversitätsbewegung ist Hüthers Potenzialentfaltung in der Praxis
 - [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Hüthers Kohärenz-Theorie liefert den neurobiologischen Mechanismus für die Gefangene-These: Trumps Dominanz, Musks Autonomie, Thiels Kontrolle sind keine Charaktermängel, sondern verfestigte Kohärenzlösungen der Kindheit — energetisch billige Antworten auf traumatische Inkohärenz, die sich in die Hirnarchitektur eingeschrieben haben
 - [[Liya Yu — Der neuropolitische Gesellschaftsvertrag]] — Yu liefert den neuropolitischen Rahmen: Hierarchien aktivieren Dehumanisierungsmechanismen, flache Strukturen fördern Mentalisierung
-- [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Hüthers frühe Lösungen (Kontrolle, Leistung, Anpassung schreiben sich ins Gehirn ein) und Brählers innerer Kritiker (Kind lernt Selbstkritik als Schutzmechanismus) beschreiben denselben Mechanismus. Beide zeigen die Bewegung: weg vom Kontroll- und Leistungsmodus, hin zu innerer Sicherheit und Verbundenheit.
+- [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Hüthers frühe Lösungen (Kontrolle, Leistung, Anpassung schreiben sich ins Gehirn ein) und Brählers innerer Kritiker (Kind lernt Selbstkritik als Schutzmechanismus) beschreiben denselben Mechanismus. Beide zeigen die Bewegung: weg vom Kontroll- und Leistungsmodus, hin zu innerer Sicherheit und Verbundenheit.

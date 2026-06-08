@@ -158,7 +158,7 @@ Das Privatvideo zeigt die Entscheidungslogik der Musketiere in der Praxis: Milit
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 Kemper: Faschismus als Kontrolle über Information und Infrastruktur. Hegseths Forderung nach CNN-Übernahme durch Trump-freundliche Milliardäre ist ein direktes Beispiel.
 
-### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Geistesblitz/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Trumps Aussage über „schlechte Gene" von Migranten — Hagemeyer: Narzissmus konstruiert eine biologische Überlegenheit gegenüber dem Anderen, um die eigene Größenfantasie zu stabilisieren.
 
 ### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]

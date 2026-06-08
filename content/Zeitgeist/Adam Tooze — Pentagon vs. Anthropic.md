@@ -166,7 +166,7 @@ Mausfeld beschreibt, wie Meinungskorridore durch Bedrohung und Sanktion aufrecht
 ### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
 Navidi zeigt die finanzielle Seite derselben Tech-Staat-Konvergenz, die Tooze institutionell beschreibt: Musk-Aufträge über DOGE, SEC-Entmachtung, Golden Dome als erfundenes Beschaffungsprogramm für Verbündete. Tooze: Pentagon erzwingt KI-Kooperation. Navidi: Oligarchen erhalten Staatsaufträge als Gegenleistung für Loyalität.
 
-### → [[Denker/Manfred Spitzer — KI, Gehirn und Lernen]]
+### → [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen]]
 Spitzer analysiert KI aus neuropsychologischer und pädagogischer Perspektive — die Frage, was KI mit dem menschlichen Gehirn macht. Tooze fragt das politökonomische Gegenstück: Wer kontrolliert KI — und zu welchem Zweck? Beide Perspektiven zusammen ergeben das vollständige Bild: KI verändert sowohl das individuelle Denken (Spitzer) als auch die Machtstrukturen des Staates (Tooze).
 
 ### → [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]

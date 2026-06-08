@@ -265,7 +265,7 @@ Beide Notes dokumentieren denselben Mechanismus — KI als Propaganda-Infrastruk
 
 Kempers Kernthese — der vorwärtsgewandte Faschismus braucht keine Massenaufmärsche, der hat KI — ist bei Nocun praktisch ausgeführt. KI-Fake-Frauen auf AfD-Instagram, koordinierte Sockenpuppen-Netzwerke und algorithmisch verstärkte Parallelrealität sind genau das, was Kemper als technofaschistischen Werkzeugkasten beschreibt. Nocun liefert die Empirie zu Kempers Theorie.
 
-### → [[Zeitgeist/ARTE — Forschung Fake und faule Tricks]]
+### → [[Geistesblitz/ARTE — Forschung Fake und faule Tricks]]
 
 Agnotologie — die industrielle Produktion von Unwissen — und Nocuns „Erschöpfung der Faktizität" (Arendt) verfolgen dasselbe Ziel: nicht die eigene Wahrheit durchsetzen, sondern den epistemischen Boden unter dem Gegner wegziehen. Was früher ein Konzernapparat brauchte, erledigt heute ein Prompt.
 

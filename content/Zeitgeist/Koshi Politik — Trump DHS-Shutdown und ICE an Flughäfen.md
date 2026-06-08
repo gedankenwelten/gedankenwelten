@@ -149,7 +149,7 @@ Kemper beschreibt ICE als Prototyp einer technofaschistischen Durchsetzungsstruk
 ### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 Manow erklärt Trumps Wähler strukturell-ökonomisch — weiße Arbeiterklasse, die von Globalisierung verloren hat. Trumps ICE-Rhetorik (Schutz der Grenzen, Härte gegen illegale Einwanderer) adressiert genau diese Gruppe. Was Manow abstrakt beschreibt, zeigt sich hier als konkrete Tagesrhetorik.
 
-### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Geistesblitz/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Hagemeyer beschreibt narzisstische Persönlichkeitsstrukturen: Größenfantasien, fehlende Empathie, Angriff bei Widerstand. Trumps Truth-Social-Muster — eskalierende Posts am Wochenende, Feindbilder, Superlative — passt zum klinischen Bild, das Hagemeyer zeichnet.
 
 ---

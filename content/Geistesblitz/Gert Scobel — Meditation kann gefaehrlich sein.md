@@ -3,7 +3,7 @@ title: "Gert Scobel — Meditation kann gefährlich sein"
 aktualisiert: 2026-05-23
 date: 2026-05-23
 tags:
-  - zeitgeist
+  - geistesblitz
   - buddhismus
   - vipassana
   - bewusstsein
@@ -221,6 +221,6 @@ Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004, auf die Scobel e
 > - [[Gedanken/Bewusstsein]] fragt, was Bewusstsein ist — Scobel fragt, was passiert, wenn man es kultiviert. Sind das dieselbe Frage oder zwei verschiedene?
 > - Die Wellness-Industrie hat Meditation zur Selbstoptimierung umgedeutet. Dōgen sagte: Selbst vergessen. *Wäre das Gegenteil von Selbstoptimierung — könnte man Meditation als Praxis gegen das neoliberale Selbst verstehen?*
 
-### → [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
+### → [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
 
 Brähler teilt Scobels Vorsicht explizit: Selbstmitgefühl als *„kraftvolle Medizin"* kann bei tiefen Bindungsverletzungen ohne Begleitung destabilisieren. Beide warnen vor einer Verharmlosung kontemplativer Praxis — Scobel aus neurowissenschaftlicher Sicht, Brähler aus der klinisch-therapeutischen.

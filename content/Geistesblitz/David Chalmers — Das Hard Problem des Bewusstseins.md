@@ -200,7 +200,7 @@ Vipassana ist die *praktische* Antwort auf Chalmers' theoretisches Problem: Stat
 
 Eilenberger kritisiert die akademische Philosophie dafür, Geistesgegenwart durch Theorieproduktion ersetzt zu haben. Chalmers' Ansatz ist einerseits genau das — Theorie auf höchstem Niveau. Andererseits zielt er auf etwas, das die akademische Philosophie jahrzehntelang ignoriert hat: die irreduzible Realität des subjektiven Erlebens. Die Spannung zwischen Eilenbergers Praxis-Forderung und Chalmers' Theorie-Ambition ist produktiv.
 
-### → [[Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]]
+### → [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein]]
 
 Scobel bringt empirische Meditationsdaten genau dort an, wo Chalmers' Hard Problem sitzt: Daniel Ingrams Jhana-Zustände im fMRT zeigen radikale Gehirnreorganisation — aber *warum* das als Auflösung des Selbst erlebt wird, bleibt unerklärt. Beide stoßen an dieselbe Grenze — Chalmers von der Philosophie, Scobel von der Praxis. Dōgens Genjōkōan verschiebt den Rahmen, ohne das Problem zu lösen.
 

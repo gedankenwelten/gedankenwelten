@@ -189,7 +189,7 @@ Identische Propagandaarchitektur auf verschiedenen Bühnen: NiUS erfindet den Is
 
 Staiy analysiert NiUS als strukturelles Triggermedium im Teufelskreis aus Klick-Anreizen und Angstproduktion — diese Note liefert den konkreten Fallbeweis: NiUS produziert nicht nur Migration negativ, sondern erfindet islamfeindliche Inhalte gezielt, um den Kreislauf am Laufen zu halten.
 
-### → [[Zeitgeist/ARTE — Forschung Fake und faule Tricks]]
+### → [[Geistesblitz/ARTE — Forschung Fake und faule Tricks]]
 
 Der Agnotologie-Blueprint gilt auch hier: Reichelts Reaktion auf das Gerichtsurteil — statt zu widerlegen, neue Wahrheitsketten bauen ("Kantine ist staatlich finanziert, also...") — ist das klassische Tabak-Muster: Zweifel ist das Produkt, nicht die Widerlegung der Lüge.
 

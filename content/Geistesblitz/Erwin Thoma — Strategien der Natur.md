@@ -2,6 +2,7 @@
 title: Erwin Thoma — Strategien der Natur
 aktualisiert: 2026-03-22
 tags:
+  - geistesblitz
   - natur
   - wald
   - bäume

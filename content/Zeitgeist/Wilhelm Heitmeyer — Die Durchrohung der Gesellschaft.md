@@ -257,7 +257,7 @@ Die entscheidende Frage: Bin ich **konfliktfähig** genug, dort die Stimme zu er
 ### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 Manow erklärt strukturell, *warum* Menschen populistisch wählen (Souveränitätsverlust, Öffnungsverlierer). Heitmeyer beschreibt, *was* diese gesellschaftlichen Verschiebungen auf der Verhaltens- und Klimaebene anrichten. Beide denken strukturell statt psychologisierend — die Diagnose ergänzt sich.
 
-### → [[Denker/Manfred Spitzer — KI, Gehirn und Lernen]]
+### → [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen]]
 Spitzer bringt neurowissenschaftliche Evidenz für digitale Empathieerosion und die Wirkung sozialer Medien auf Gehirn und Sozialverhalten. Heitmeyer kommt soziologisch zum selben Befund. Zwei Disziplinen, eine Diagnose.
 
 ### → [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]]

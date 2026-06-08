@@ -4,7 +4,7 @@ description: "Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willensk
 date: 20.05.2026
 aktualisiert: 05.06.2026
 tags:
-  - denker
+  - geistesblitz
   - psychologie
   - demokratie
   - medien

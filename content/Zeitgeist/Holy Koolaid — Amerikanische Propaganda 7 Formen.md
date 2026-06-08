@@ -227,7 +227,7 @@ Brückenbegriff: **kulturelle Grundprogrammierung vor dem bewussten Denken**. Di
 
 Brückenbegriff: **Demokratie als Fassade über Oligarchie**. Navidi dokumentiert den aktuellen Ausplünderungsmechanismus; Holy Koolaid erklärt die ideologische Infrastruktur (Exzeptionalismus, Land-of-the-Free-Mythos), die verhindert, dass die Bevölkerung das als systemisches Problem erkennt — nicht als individuellen Skandal.
 
-### → [[Zeitgeist/ARTE — Forschung Fake und faule Tricks]]
+### → [[Geistesblitz/ARTE — Forschung Fake und faule Tricks]]
 
 Brückenbegriff: **Agnotologie als Staatspraxis**. Die ARTE-Doku zeigt, wie Industrien gezielt Nicht-Wissen produzieren; Holy Koolaid zeigt das staatliche Pendant — US-zentrischer Geschichtsunterricht, CIA-Coups die aus Lehrplänen verschwinden, "Under God" als Marketing-Entscheidung die als Tradition verkauft wird.
 
