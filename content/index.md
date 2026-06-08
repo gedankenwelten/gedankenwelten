@@ -52,13 +52,13 @@ Die Gedankenwelten (luc)
 >
 > Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
 
-> **08.06.** — [[Denker/Ernesto Laclau - Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
->
-> Repräsentation ist nicht bloße Abbildung bestehender Interessen, sondern konstitutiv für Macht selbst — eine Analyse der wechselseitigen, verunreinigten Relation von Macht und ihrer sprachlichen Vermittlung.
-
 > **05.06.** — [[Denker/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
 >
 > Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
+
+> **17.05.** — [[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe — Das Politische und die Politik]]
+>
+> Mouffes ganzes Denken ruht auf einer Unterscheidung: die Politik als Verwaltung, das Politische als unhintergehbarer Konflikt. Warum Demokratie Gegnerschaft braucht.
 
 ### GoodNews
 
