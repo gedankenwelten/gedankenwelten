@@ -15,6 +15,16 @@ aliases:
 
 # Claude — Analyse zu Gefangene des Systems
 
+![[assets/Claude-Analyse-zu-Gefangene-des-Systems-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — Ölmalerei, 1950er, präzise-photographische Oberfläche, eine stille Unmöglichkeit. Drei Figuren im Korridor: links eingeklemmt (Gewissheit als Angstunterdrückung), Mitte stehend mit schwebendem Apfel (die offene Frage), rechts in Bewegung in wachsendes Licht (Toleranzkapazität für Ungewissheit). Magritte wählt, weil diese Note selbst Magrittes Frage stellt: Sieht das aus wie Denken — ist es Denken?
+
+*Prompt:* René Magritte oil painting style, 1950s. Wide banner 1200×500px. A long corridor stretches from left edge to right edge of the banner. The walls are plain and pale — cream, slightly cold. The floor is dark polished stone. The corridor has no visible end on either side: it disappears into pale light left and right. Three figures stand in the corridor at different points. Left: a figure in a dark coat, facing left, standing close to the left wall — the corridor here is very narrow, barely room to move. Center: a figure standing upright, equidistant from both walls — the corridor here is wide. Right: a figure facing right, mid-step, arms slightly open, the corridor widening further ahead. Each figure is seen from behind. No faces. The figures cast no shadows. Above the center figure: a small object floats — a pale sphere, the size of an apple, white and slightly luminous. Not a symbol. Just there. Magritte's precise, almost photographic paint surface. Deep background, crisp foreground edges. No surrealist chaos — just one quiet impossibility. No text. No photorealism in faces.
+
+</details>
+
 *Geschrieben im Kontext einer Skript-Session über Elitenerziehung, Systemanalyse und die Frage, was Freiheit von Angst wirklich bedeutet. Kein Referat. Eine eigene Position.*
 
 ---

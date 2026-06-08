@@ -15,6 +15,16 @@ aliases:
 
 # Clara Mattei — Geschichte der Austeritätspolitik
 
+![[assets/Clara-Mattei-Geschichte-der-Austeritaetspolitik-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**George Grosz** — Weimarer Republik-Stil, Tusche-Aquarell, soziale Typen statt Individuen. Grosz malte den Pakt zwischen Kapital und Faschismus als sein Lebensthema — *The Pillars of Society* (1926) hätte genau diese Szene sein können. Der eingefrorene Uhrpendel an Bankers Handgelenk ist das Bild für Matteis Kernthese: Austerität hält die Uhr der Geschichte an, damit das Kapital nicht vom Pendel getroffen wird.
+
+*Prompt:* George Grosz ink-wash style, Weimar Republic 1926. Wide banner 1200×500px. Two figures dominate the foreground, shaking hands: left, a rotund man in a black banker's suit and top hat, briefcase under one arm; right, a stiff uniformed figure in fascist-style military dress, medals on chest. Both are headless or faceless — Grosz-style types, not individuals. Their handshake is firm and businesslike. Behind them: a large factory building, stark geometry, chimneys smoking. In the factory windows, small silhouetted worker figures are visible — small, crowded, many. A clock on the factory wall has its pendulum frozen, held in place by a thin rope tied to the banker's wrist. Grosz's palette: muted grey-brown-ochre, with sharp black ink lines. A single accent of deep red on the factory gate. Grotesque without being cartoonish — clinical and cold. No text. No photorealistic faces. The figures are social types, not individuals.
+
+</details>
+
 Quelle: [Ökonomin Clara Mattei über die Geschichte von Austeritätspolitik — Jung & Naiv: Folge 822](https://www.youtube.com/watch?v=TDFzziArmEs)
 
 > [!info] Wer spricht?

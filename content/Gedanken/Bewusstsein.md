@@ -14,6 +14,16 @@ aliases:
 
 # Bewusstsein
 
+![[assets/Bewusstsein-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hilma af Klint** — Diagrammatische Malerei, *Altarpieces*-Serie, 1915, Gouache und Bleistift. Sechs Formen orbiten eine leuchtende goldene Mitte ohne sie zu berühren: Hexaeder (Materialismus), überlagerte Kreise (Dualismus), Funkenstaub (Panpsychismus), blasse Ellipse (Idealismus), dunkle Spirale (Mysterianer), tiefes Wasseroval (Buddhismus). Af Klint kartierte schon 1915, was die Bewusstseinsforschung 2025 noch nicht lösen kann — ihr Diagramm fragt dasselbe wie diese Note: Was ist im Zentrum, und können wir es je direkt ansehen?
+
+*Prompt:* Hilma af Klint diagrammatic painting style, 1915. Wide banner 1200×500px. A large luminous oval form floats in the center — warm amber-gold, softly glowing, slightly translucent. It is the source and the question. Around it, at different distances and positions, six smaller forms orbit without touching it: Left outer: a dense grey crystalline hexagon — geometric, closed (materialism). Upper left: two overlapping circles, one pale blue, one warm rose — touching but separate (dualism). Lower left: a cluster of tiny gold sparks, loosely gathered — a swarm, not a shape (panpsychism). Upper center: the palest form — almost invisible, a barely-there shimmer of the background itself (idealism). Right upper: a tight dark spiral that fades to nothing at its center — no end visible (mysterianism). Right lower: a perfectly still horizontal oval of deep blue-green — reflective, undisturbed (Buddhism). The background is off-white, slightly warm. Fine pencil-like lines connect some forms to the center, others not. The forms are organic-geometric, not decorative. Af Klint's palette: warm gold, rose, pale blue, grey, deep green, off-white. Soft edges, no hard outlines. No text. No photorealism. The image is a map.
+
+</details>
+
 > [!note] Was ist diese Note?
 > Eine Orientierungskarte: Was ist Bewusstsein, wer sagt was dazu, wo steht die Forschung? Nicht Abschluss, sondern Ausgangspunkt.
 

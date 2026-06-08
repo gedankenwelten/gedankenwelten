@@ -6,6 +6,16 @@ tags: [denker-vita, medien, deutschland]
 
 # Ninia LaGrande — DenkerVita
 
+![[assets/Ninia-LaGrande-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Corita Kent** — Politischer Siebdruck der 1960er, knallige Farbfelder, Stencil-Typography, Silhouetten-Figuren. Corita machte Aktivismus zur Kunst ohne ihn zu akademisieren — genau der Schnittpunkt von Popkultur, Zugänglichkeit und politischem Gestaltungswillen, den LaGrandes Arbeit beschreibt. Stimme als Werkzeug, Pop als Sprache.
+
+*Prompt:* Corita Kent style, 1960s political silkscreen print. Wide banner 1200×500px. A bold, layered composition of overlapping color fields — hot pink, electric yellow, cobalt blue, orange — each at a slight angle, stacking across the frame. On top: a single silhouetted figure, arms slightly raised, mid-speech, facing a small crowd of abstract shapes that suggest an audience. No faces anywhere. Scattered across the color fields: fragments of large hand-stenciled text in white and black — single words or partial phrases, slightly irregular, like found typography: "JETZT", "STIMME", "POP", "—". Not a slogan, just the atmosphere of language in the air. Bottom edge: a thin horizontal band of deep red, grounding the energy. Everything flat, no shadows, no gradients. The whole image has the feel of a political flyer printed with joy — urgent but not anxious, loud but not aggressive. No photorealism, no realistic faces, no ornament.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist sie?

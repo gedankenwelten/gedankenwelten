@@ -6,6 +6,16 @@ tags: [denker-vita, literaturwissenschaft, lyrik, ironie]
 
 # Dirk von Petersdorff — DenkerVita
 
+![[assets/Dirk-von-Petersdorff-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Henri Matisse** — Papiers découpés, Jazz-Serie-Stil, flache Primärfarben, Scherenschnitt-Figuren. Petersdorffs eigene Metapher — Gedichte als Zelte, man tritt ein, verweilt, geht weiter — direkt ins Bild übersetzt. Matisse' *Jazz*-Serie (1947) ist die Kollision von hoher Kunst und populärer Musik: Brentano und Tocotronic, avant la lettre. Leichtigkeit als Methode, nicht nur als Thema.
+
+*Prompt:* Henri Matisse cut-out style, papiers découpés, 1947. Wide banner 1200×500px. A summer landscape, flat and luminous. Four small tent-like shelters scattered across the middle ground — each a different warm color: cobalt blue, golden yellow, coral red, deep green. Each glows softly from within, a different light. Between them, loose cut-paper figures drift in easy motion — not walking, not dancing, somewhere between. Arms open, unhurried. Above: a wide flat sky, ultramarine, with two or three cut-paper birds (Matisse's birds, simple wing-curves). Below: a ground of bright grass-green, flat and unapologetic. The shelters are simple geometric shapes — a triangle of color over a rectangle, no detail. The figures have no faces, only silhouettes. No border, no frame. The image breathes. Flat color fills, no gradients, no shadows. Joyful without irony, light without emptiness. The whole image says: enter, stay a while, move on. No text, no photorealism, no outlines.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

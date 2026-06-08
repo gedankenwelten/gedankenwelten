@@ -17,6 +17,16 @@ aliases:
 
 # Walther Ziegler — Konfuzius in 60 Minuten
 
+![[assets/Walther-Ziegler-Konfuzius-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Song-Dynastie-Tuschemalerei** — Shan Shui (山水), 11. Jh., Tintentusche auf Papier, Nebelberge. Das 仁-Zeichen (Mensch + Zwei) ist der Kompositionsanker: die zwei Silhouetten auf dem Bergpfad *sind* das Zeichen, das sie verkörpern. Kein westlicher Stil hätte diese Einheit aus Schrift und Bild so selbstverständlich herstellen können — das Bild kommt aus derselben Tradition wie der Gedanke.
+
+*Prompt:* Song Dynasty Chinese ink wash painting style, 11th century. Wide banner 1200×500px. Background: misty mountains receding into pale grey-white mist, layered ink washes, traditional Shan Shui composition. A winding mountain path descends from upper left to lower center. On the path: two small human figures walking together, close but not touching — one slightly ahead, both moving in the same direction. They are simple silhouettes in dark ink, small against the mountains. In the upper right third of the banner: the Chinese character 仁 (rén) rendered in large, confident brushstrokes — ink black, slightly faded at the edges as if absorbed into the mountain mist. The character is not decorative: it IS the composition. Palette: ink black, pale grey, warm ivory paper tone, touches of diluted umber in the rocks. No color. The mist is the paper itself showing through. Calligraphic brushwork throughout. No photorealism. No faces on the figures. The character and the figures are the same thing.
+
+</details>
+
 Quelle: [Konfuzius in 60 Minuten](https://www.youtube.com/watch?v=fIonhQe2uIQ)
 
 > [!info] Wer spricht?
