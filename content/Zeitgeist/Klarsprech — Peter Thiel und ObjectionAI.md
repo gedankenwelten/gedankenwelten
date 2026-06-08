@@ -201,3 +201,7 @@ Varoufakis liefert die makroökonomische Erklärung dafür, *warum* Akteure wie 
 ### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
 Während Klarsprech Palantirs Konzernideologie analysiert (Karp: "I think in domination"), zeigen Kurz und Görlitz die Rechtslage in Deutschland — vier Bundesländer, Verfassungsbeschwerden, BVerfG-Standards die ignoriert werden. Ideologie und Rechtspraxis als zwei Seiten derselben Software.
+
+### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
+
+Thiels angekündigte Emigration nach Argentinien ist das nächste Kapitel: Der Architekt verlässt das Projekt, bevor es offiziell scheitert. Biersky deutet das als politische Wette — Thiel traut Trump nicht mehr zu, über die Midterms hinaus handlungsfähig zu bleiben.

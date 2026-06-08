@@ -221,3 +221,7 @@ Der Anthropic-Pentagon-Konflikt als Fallbeispiel für den Skynet-Effekt: KI-Krit
 ### → [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
 
 Kurz bremst das Anthropic-Narrativ von der anderen Seite: Während Tooze Anthropics Weigerung als politisch relevante Grenzziehung analysiert, setzt Kurz die nüchterne Informatikerin-Brille auf — alle großen Anbieter sind längst Vertragspartner des Militärs, ein Nein in einer Klausel ist kein struktureller Widerstand. Beide zusammen ergeben das vollständige Bild: die politökonomische Theorie (Tooze) und die technische Skepsis gegenüber jeder PR-Geschichte (Kurz).
+
+### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
+
+Trumps KI-Staatsfonds kippt Toozes Machtraum-Frage: Der Staat sozialisiert die Verluste der Privaten, ohne die Kontrolle zu übernehmen — das Gegenteil eines souveränen Staatsfonds à la Norwegen. Wer kontrolliert KI-Infrastruktur? Im Staatsfonds-Szenario: niemand, der es sollte.

@@ -217,3 +217,7 @@ Redeckers Phantombesitz-Konzept (Machtansprüche, die sich durch vermeintliche E
 ### → [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
 
 Konvergierende Diagnose: Die PhoenixRunde zeigt, wie Chinas Kalkül genau auf Trumps Schwäche durch den Irankrieg setzt — dasselbe, was Varoufakis als „Trump has lost everything" analysiert. Xi wartet gelassen ab, während die MAGA-Basis erodiert.
+
+### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
+
+Biersky stellt Varoufakis' These auf die Probe: Entweder rettet Trump die Milliardäre (KI-Staatsfonds als Rettungsring) — oder er hat durch Iran-Krieg und Ölkrise bereits zu viel gegen ihre Interessen agiert. Peter Thiels Emigration ist ein Datenpunkt für Varoufakis' Seite.

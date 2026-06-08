@@ -170,3 +170,7 @@ MONITOR ergänzt Koshis Profiteurs-Analyse um die direkte familiäre Bereicherun
 - [[Follow This — Die grüne Horzel in Big Oil]] — Follow This stellt die Systemfrage an die Krisengewinnler: Wie lange noch profitabel, wenn Ölnachfrage sinkt?
 - [[Martin Sonneborn — Endloser Krieg]] — Sonneborn stellt dieselbe Cui-bono-Frage für den Ukraine-Krieg: 290 Milliarden EU-Gelder als Kriegsgewinngeschäft. Dasselbe Muster wie Koshis Iran-Analyse, aber ohne die konkrete Belegführung — eher rhetorische Empörung als investigative Recherche.
 - [[Koschi Politik — TACO Tuesday, Operation Freedom abgesagt]] — Reuters bestätigt: Der Krieg hat den Atomzeitrahmen nicht verändert. Die Frage „wer profitiert?" wird damit umso dringlicher — der Krieg verfehlt sein erklärtes Ziel.
+
+### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
+
+Dieselbe *cui bono*-Frage, jetzt für die erschöpften strategischen Ölreserven: Der Iran-Krieg hat die Straße von Hormus blockiert, die Reserven wurden zur Preisdämpfung freigegeben — und gehen jetzt zur Neige. Koshi fragt wer profitiert; TheTrumpWeek zeigt die Rechnung, die die Bevölkerung zahlt.

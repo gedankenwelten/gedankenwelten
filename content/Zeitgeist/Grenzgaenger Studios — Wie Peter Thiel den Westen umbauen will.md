@@ -241,6 +241,10 @@ Kurz und Görlitz zeigen, wohin Thiels Unternehmensgenese in Deutschland zeigt �
 
 Morpheus analysiert Objection.ai als Endprodukt der Network-State-Logik: private Schiedsgerichtsbarkeit für Wahrheit, skaliert mit KI. Die Balaji-Srinivasan-Verbindung ist direkt — der Network-State-Denker investiert in das Instrument, das seine These praktisch umsetzt.
 
+### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
+
+Thiels Emigration nach Argentinien ist das nächste Kapitel: Der „State-Made Billionaire" verlässt den Staat, sobald er ihm nicht mehr nützt. Biersky deutet es als politische Wette gegen Trumps Zukunft — was Grenzgänger Studios als Systemlogik beschrieben hat, zeigt sich jetzt im Exit.
+
 ---
 
 ## Weiterdenken
