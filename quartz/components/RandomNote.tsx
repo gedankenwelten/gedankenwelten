@@ -7,7 +7,14 @@ import styles from "./styles/randomNote.scss"
 // Rubriken, aus denen gewürfelt wird (oberster Ordner in content/).
 // DenkerVita bewusst NICHT dabei — das sind zeitlose Profile, keine Themen-Notes;
 // die schaut man sich separat an. Index-/Landing-Seiten fliegen ohnehin raus.
-const RANDOM_CATEGORIES = new Set(["Zeitgeist", "Denker", "Panorama", "Gedanken", "GoodNews"])
+const RANDOM_CATEGORIES = new Set([
+  "Zeitgeist",
+  "Denker",
+  "Panorama",
+  "Gedanken",
+  "Geistesblitz",
+  "GoodNews",
+])
 
 const RandomNote: QuartzComponent = ({ allFiles, displayClass }: QuartzComponentProps) => {
   // Liste aller würfelbaren Notes als FullSlugs — identisch auf jeder Seite.
