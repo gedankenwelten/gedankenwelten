@@ -375,3 +375,7 @@ David Deißner von der Stiftung Familienunternehmen tritt in der phoenixRunde un
 > - Deißner und Gottschalk sind sich bei der Steuerpolitik einig, aber bei der Migration trennen sich ihre Wege. *Ist diese Bruchstelle im konservativen Lager — Kapital braucht Migration, Nationalismus lehnt sie ab — die eigentliche politische Sollbruchstelle unserer Zeit?*
 > - Wenn 7 Millionen Menschen im Niedriglohnsektor arbeiten und trotzdem staatliche Unterstützung brauchen — *subventioniert der Sozialstaat dann nicht in Wahrheit die Löhne der Unternehmen?* Und wer profitiert davon, dass diese Frage nicht gestellt wird?
 > - Die Gesellschaft misst Leistung in Kapitalakkumulation, weil Kapital berechenbar ist. Kreativität, Pflege, Aufopferung sind es nicht. *Ist die „Leistungsgesellschaft" also nicht eine Gesellschaft, die Leistung belohnt — sondern eine, die nur belohnt, was sie messen kann?*
+
+### → [[MONITOR — Sparhammer gegen Jugendliche]]
+
+Die phoenixRunde stellt die Verteilungsfrage abstrakt — MONITOR macht sie mit Lena (14, ADHS) und Joline (20, hochsuizidal) konkret. Beckmanns Verteidigung des Rechtsanspruchs auf individuelle Hilfe nach SGB VIII entspricht strukturell dem Argument gegen Pauschalleistungen, das in der Runde geführt wurde.

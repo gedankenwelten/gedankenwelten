@@ -191,3 +191,7 @@ Minijobs als Mikrobeispiel für Herrmanns Makro-Diagnose: "Oben wird gegeben, un
 ### → [[Der Dara — Merz 72-Stunden-Arbeitswoche]]
 
 Merz beim DGB-Kongress: Fordert längere Arbeitszeiten, während seine Partei das Minijob-System verteidigt. Der Dara zeigt den Widerspruch aus Arbeitnehmersicht — die Gewerkschaften buhen Merz aus und benennen die Machtverschiebung hinter der Rhetorik.
+
+### → [[MONITOR — Sparhammer gegen Jugendliche]]
+
+Strukturell dasselbe Sparparadox auf einer anderen Zeitachse: Minijobs erzeugen Altersarmut durch kurzfristige Beitragsfreiheit — Jugendhilfekürzungen erzeugen Psychiatrie- und Obdachlosigkeitskosten durch kurzfristige Präventionsverzicht. In beiden Fällen spart der Staat heute an sozialer Infrastruktur und zahlt morgen das Mehrfache.
