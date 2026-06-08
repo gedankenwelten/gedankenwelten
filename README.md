@@ -18,6 +18,8 @@ Eine eigene Welt ganz gewiss. Aber wir vernetzen unsere Welten mit jeder Interak
 
 **[[Zeitgeist]]** — Was bewegt die Welt — und wer spricht darüber, und warum? Stimmen, die den Moment deuten. Mit Faktencheck, weil Haltung Verantwortung trägt.
 
+**[[Geistesblitz]]** — Grundsätzliches Wissen und menschliche Schöpferkraft: Wissenschaft, Philosophie, Psychologie, Technik. Notes, die die Welt erklären und das Außergewöhnliche am Menschen sichtbar machen — den Funken, der Erkennen und Erschaffen verbindet. Zeitlos statt tagesaktuell.
+
 **[[Panorama]]** — Wenn mindestens drei Notes dasselbe Thema aus verschiedenen Winkeln beleuchten, entsteht eine verdichtete Perspektive. Was ergibt sich, wenn man die Einzelstimmen zusammenhält?
 
 **[[Gedanken]]** — Persönliche Reflexionen und Denkanstöße. Keine fertigen Antworten — Denkbewegungen.

@@ -11,6 +11,7 @@ Kanonische Tags für Gedankenwelten. Neue Tags nur anlegen wenn kein bestehender
 |---|---|
 | `zeitgeist` | Interview, Vortrag, Podcast — Geist der Zeit |
 | `denker` | Tiefenanalyse eines Denkers / einer Denkerin |
+| `geistesblitz` | Grundsätzliches Wissen & menschliche Schöpferkraft — Wissenschaft, Philosophie, Psychologie, Technik. Erklärt die Welt und das Außergewöhnliche am Menschen (zeitlos, nicht tagesaktuell wie `zeitgeist`, nicht an eine Stimme gebunden wie `denker`). |
 | `panorama` | Thematische Synthese-Note — bündelt mehrere Notes zu einem Thema |
 
 ### Format (optional)
