@@ -70,6 +70,10 @@ Die Gedankenwelten (luc)
 >
 > Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
 
+> **19.05.** — [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin: Mehr als ein Glückshormon]]
+
+> **16.05.** — [[Geistesblitz/Barbara Tversky — Denken beginnt nicht im Kopf|Barbara Tversky — Denken beginnt nicht im Kopf]]
+
 ### Panorama
 
 > **01.06.** — [[Panorama/Energie|Energie]]
