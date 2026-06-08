@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*244 Notes — automatisch generiert · nach Thema sortiert*
+*245 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -278,6 +278,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft|Michael Sterner — Reiche gegen Marktwirtschaft]]
 - [[Zeitgeist/Michael Sterner — Soeders Energie-Irrtum Faktencheck|Michael Sterner — Söders Energie-Irrtum: Faktencheck]]
 - [[Zeitgeist/MONITOR — Minijobs als Armutsfalle|MONITOR — Minijobs als Armutsfalle]]
+- [[Zeitgeist/MONITOR — Sparhammer gegen Jugendliche|MONITOR — Sparhammer gegen Jugendliche]] — Was Sparlogik mit Menschen macht, die noch keine eigene Stimme haben: 2,7 Milliarden Euro Kürzungen bei der Jugendhilfe — und eine geheime Kanzleramt-Liste, die noch tiefer einschneidet.
 - [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel & Iltisberger — Hype Is a System: How Tech Futures Get Made]] — Hype ist kein Rauschen, sondern ein System aus Subsystemen und Feedback-Loops — und KI-Kritiker verstärken ungewollt genau den Hype, den sie bekämpfen.
 - [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte|rp26 — KIs unsichtbare Arbeitskräfte]]
 - [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN|Silke Stremlau & Maja Göpel — Investieren NEU DENKEN]]
