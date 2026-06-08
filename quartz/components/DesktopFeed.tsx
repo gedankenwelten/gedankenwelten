@@ -18,6 +18,7 @@ const CATEGORIES: Record<string, Category> = {
   Denker: { key: "denker", label: "Denker", color: "#6366f1", inAlles: true },
   Panorama: { key: "panorama", label: "Panorama", color: "#2dd4bf", inAlles: true },
   Gedanken: { key: "gedanken", label: "Gedanken", color: "#f59e0b", inAlles: true },
+  Geistesblitz: { key: "geistesblitz", label: "Geistesblitz", color: "#facc15", inAlles: true },
   GoodNews: { key: "goodnews", label: "GoodNews", color: "#22c55e", inAlles: true },
   // DenkerVita: eigener Tab, aber NICHT im "Alles"-Feed (zeitlose Profile)
   DenkerVita: { key: "denkervita", label: "DenkerVita", color: "#d6a06a", inAlles: false },
@@ -30,6 +31,7 @@ const TABS = [
   { key: "denker", label: "Denker" },
   { key: "panorama", label: "Panorama" },
   { key: "gedanken", label: "Gedanken" },
+  { key: "geistesblitz", label: "Geistesblitz" },
   { key: "goodnews", label: "GoodNews" },
   { key: "denkervita", label: "DenkerVita" },
 ]
