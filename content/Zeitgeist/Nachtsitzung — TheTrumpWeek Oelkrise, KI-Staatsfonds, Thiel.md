@@ -19,6 +19,16 @@ aliases:
 
 # TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang
 
+![[assets/Nachtsitzung-TheTrumpWeek-Oelkrise-KI-Staatsfonds-Thiel-banner.png|1200]]
+
+<details><summary>🎨</summary>
+
+**Honoré Daumier** — Lithographie-Stil, Sepia und Lampenschwarz, expressive Konturlinien, Kreuzschraffur. Drei Figuren entlang einer Horizontale: Links zieht ein Zylinder-Silhouette mit Koffer vom Betrachter weg, im Hintergrund Berge und eine fremde Flagge. Mitte: verrostete Ölrohre und gesprungene Fässer, ein einzelner schwarzer Tropfen fällt ins Leere. Rechts: ein zweiter Zylinder-Träger kippt sich nach vorne, tastend nach einem Rettungsring in einer Öl-Pfütze.
+
+*Prompt:* Honoré Daumier lithograph style, warm sepia and black ink tones, heavy expressive contour lines, cross-hatching shadows. Wide panoramic banner 1200×500px. Scene in three zones across a single horizontal plane: Left — a silhouetted faceless figure in a Victorian tailcoat and top hat walks away from the viewer, pulling an enormous leather travel trunk toward a distant mountain range, a small flag planted on the horizon suggests a faraway land. Center — a rusted industrial contraption of oil pipes, gauges, and cracked barrels: pipes bent and dry, a single black drop falling from a broken valve into an empty barrel below, cobwebs on the gauges. Right — a large round life-ring floats in a dark puddle of oil, a top-hat figure reaches toward it from above with both hands, tipping forward. No text. No photorealism. Dark political humor in the tradition of Daumier's "Robert Macaire" series. Ochre, burnt sienna, lamp black.
+
+</details>
+
 > [!abstract] Worum es geht
 > Wenn selbst Trumps treueste Geldgeber das Weite suchen, die Ölreserven schwinden und ein KI-Fonds aussieht wie ein Rettungsring für Milliardäre — liest sich das wie der Anfang vom Ende einer Regierung. Benjamin Biersky analysiert in seiner Wochenzusammenfassung fünf Ereignisse, die zusammen ein Bild zeichnen: Das System Trump verliert an Bindekraft — von innen.
 

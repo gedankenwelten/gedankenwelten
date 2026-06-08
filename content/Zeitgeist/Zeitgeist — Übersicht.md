@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*243 Notes — automatisch generiert · nach Thema sortiert*
+*244 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -208,6 +208,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Staiy — News: Die Regierung zockt euch ab (02.04.2026)|Staiy — News: Die Regierung zockt euch ab (02.04.2026)]]
 - [[Zeitgeist/Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart|Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
 - [[Zeitgeist/taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot|taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
+- [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]] — Wenn selbst Trumps treueste Geldgeber das Weite suchen, die Ölreserven schwinden und ein KI-Fonds aussieht wie ein Rettungsring für Milliardäre — liest sich das wie der Anfang vom Ende einer Regierung.
 - [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem|Tiana Travels — Das amerikanische Betriebssystem]] — Amerika hat nicht nur strukturelle Defekte — es hat seinen Bürgern ein ideologisches Betriebssystem installiert, das sie davon abhält, diese Defekte als solche zu erkennen.
 - [[Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika|Verliert Trump den Iran-Krieg in Amerika?]]
 
