@@ -15,6 +15,16 @@ aliases:
 
 # Rainer Mausfeld — Warum schweigen die Lämmer?
 
+![[assets/Rainer-Mausfeld-Warum-schweigen-die-Lämmer-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Francisco Goya** — *Caprichos*-Aquatinta, Sepia und Tinten-Schwarz auf gealtertem Papier, Hell-Dunkel mit einem einzigen Lichtriss. Goyas Hand *ist* Mausfelds These: *El sueño de la razón produce monstruos* — die schlafende Vernunft, die fügsame Herde, der Mensch als *deinon* (ungeheuer in beide Richtungen). Der als Girlande getarnte Käfig trägt das ganze Argument: Das wirksamste Gefängnis ist das, was wie Komfort aussieht. Die fadendünnen Marionettenschnüre der Schatten-Macht laufen zu jedem Hals — nur ein einziges Lamm hebt den Kopf zum Lichtriss in den Stäben.
+
+*Prompt:* A wide 1200×500 banner in the manner of Francisco Goya's *Caprichos* — dark aquatint and etching, sepia and ink-black on aged foxed paper, fine cross-hatching, no photorealism. On the left, a tight flock of pale sheep with lowered heads and closed eyes, placid; cold rectangular screen-glows hover above them, washing their wool in pale light, the sheep leaning toward the glow. Thin iron bars rise around the flock, wound with carved garlands and ribbons so they read as decoration rather than a cage. Behind looms a vast faceless many-armed shadow-figure of authority holding almost-invisible threads running down to each sheep's neck; its form dissolves into smoke and a swarm of bat-like shapes. Toward the right, against deep darkness, a single sheep lifts its head toward a hairline crack of cold white light splitting the bars open. Scratched faintly into the dark sky: the word »LÄMMER«. Heavy chiaroscuro, most of the canvas in brooding shadow.
+
+</details>
+
 Quelle: [Warum schweigen die Lämmer? — DAI Heidelberg](https://www.youtube.com/watch?v=-kLzmatet8w)
 Quelle: [Demokratie und Menschenbild (21.04.2023)](https://www.youtube.com/watch?v=TCZ24kdcs6E)
 
