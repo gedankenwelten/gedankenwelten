@@ -168,7 +168,7 @@ Wenn ein Nutzer eine neue Note erstellt hat und fragt wie er sie einreichen soll
 
 ```
 content/
-  Denker/       Zeitgeist/    DenkerVita/
+  Denker/       Zeitgeist/    Geistesblitz/   DenkerVita/
   Panorama/     Gedanken/     Vipassana/
   Transkripte/  known-speakers.md   Quellen & Links.md
 ```

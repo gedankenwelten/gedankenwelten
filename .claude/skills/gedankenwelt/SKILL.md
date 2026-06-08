@@ -12,6 +12,24 @@ Genutzte Agenten: **Humboldt · Sherlock · Montaigne**
 
 ---
 
+## Schritt -0.5 — Rubrik wählen (gemeinsam, zuerst)
+
+Bevor irgendetwas heruntergeladen wird: festlegen, in welche der drei Rubriken die Note gehört. Das bestimmt Zielordner, Typ-Tag, Note-Aufbau und welche Schritte greifen.
+
+**Vorschlag mit kurzer Begründung machen, dann bestätigen lassen.**
+
+| Rubrik | Wann | Kern |
+|---|---|---|
+| **Denker** | Tiefenanalyse *einer* Person und ihres Denkens | Das Denken einer Stimme in der Tiefe |
+| **Zeitgeist** | Geist der *Zeit* — tagesaktueller Diskurs, Politik, Gesellschaft | Was passiert gerade, und was bedeutet es? |
+| **Geistesblitz** | Grundsätzliches Wissen & Schöpferkraft — Wissenschaft, Philosophie, Psychologie, Technik | Wissen über Welt und Geist, zeitlos & quellenbasiert |
+
+**Faustregel Zeitgeist vs. Geistesblitz:** Was das Jahr überdauert → Geistesblitz; was das Jetzt kommentiert → Zeitgeist.
+
+**Folgen:** Denker → `content/Denker/`, Tag `denker`, DenkerVita-Pflicht, Faktencheck nur bei empirischen Claims. · Zeitgeist → `content/Zeitgeist/`, Tag `zeitgeist`, Sherlock-Faktencheck Pflicht. · Geistesblitz → `content/Geistesblitz/`, Tag `geistesblitz`, Aufbau wie Zeitgeist mit Denker-Tiefe; Faktencheck bei empirischen Claims; DenkerVita nur bei Einzelperson im Zentrum.
+
+---
+
 ## Schritt 0 — Humboldt: Sprecher-Recherche + DenkerVita
 
 ### 0a — DenkerVita prüfen
@@ -200,9 +218,10 @@ python3 .claude/scripts/vtt_to_txt.py \
 > Die Note-Erstellung folgt dem **Aristoteles-Skill** (`.claude/skills/aristoteles/SKILL.md`).
 > Keine Zusammenfassung — sondern Analyse. Mindestens 1.200 Wörter Inhalt, 6–8 Abschnitte, ≥5 Zitate.
 
-**Zielordner:**
+**Zielordner** (gemäß Rubrik-Wahl aus Schritt -0.5):
 - Zeitgeist-Note → `content/Zeitgeist/`
 - Denker-Note → `content/Denker/`
+- Geistesblitz-Note → `content/Geistesblitz/` (Aufbau wie Zeitgeist mit Denker-Tiefe; Tag `geistesblitz`)
 
 ### Dateiname-Konvention (URL-kompatibel)
 

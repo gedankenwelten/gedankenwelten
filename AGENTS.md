@@ -61,6 +61,7 @@ Vision: counter-model to the algorithmic outrage loop. Not neutral, but document
 content/
   Denker/          ← Deep analyses of individual thinkers/sources
   Zeitgeist/       ← Interviews, talks, podcasts — spirit of the time
+  Geistesblitz/    ← Fundamental knowledge & human creativity (science, philosophy, psychology, tech)
   DenkerVita/      ← Biographical profiles (public, linked from notes)
   Panorama/        ← Thematic synthesis (min. 3 notes on the same topic)
   Gedanken/        ← Personal reflections and essays
@@ -72,6 +73,7 @@ content/
 
 - New Denker notes → `content/Denker/`
 - New Zeitgeist notes → `content/Zeitgeist/`
+- New Geistesblitz notes → `content/Geistesblitz/` (timeless knowledge/science; tag `geistesblitz`)
 - New DenkerVitas → `content/DenkerVita/`
 - New Panoramas → `content/Panorama/` (manual, when ≥3 notes on same topic)
 

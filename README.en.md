@@ -18,6 +18,8 @@ Every person carries their own thought-world — shaped by experience, learning,
 
 **[[Zeitgeist]]** (Spirit of the Times) — What moves the world — and who speaks about it, and why? Voices interpreting the current moment. With fact-checks, because conviction carries responsibility.
 
+**[[Geistesblitz]]** (Flash of Insight) — Fundamental knowledge and human creative power: science, philosophy, psychology, technology. Notes that explain the world and make visible what is extraordinary about being human — the spark that joins knowing and creating. Timeless rather than topical.
+
 **[[Panorama]]** — When three or more notes illuminate the same topic from different angles, a condensed perspective emerges. What becomes visible when you hold the individual voices together?
 
 **[[Gedanken]]** (Thoughts) — Personal reflections and provocations. No finished answers — movements of thought.

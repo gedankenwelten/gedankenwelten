@@ -6,6 +6,7 @@
 content/
   Denker/          ← Tiefenanalysen einzelner Denker/Quellen
   Zeitgeist/       ← Interviews, Vorträge, Podcasts — Geist der Zeit
+  Geistesblitz/    ← Grundsätzliches Wissen & Schöpferkraft (Wissenschaft, Philosophie, Psychologie, Technik)
   DenkerVita/      ← Ausführliche Biografie-Profile
   Panorama/        ← Thematische Synthese-Notes (min. 3 Notes zum Thema)
   Gedanken/        ← Persönliche Reflexionen und Essays
@@ -17,6 +18,7 @@ content/
 
 - Neue Denker-Notes → `content/Denker/`
 - Neue Zeitgeist-Notes → `content/Zeitgeist/`
+- Neue Geistesblitz-Notes → `content/Geistesblitz/`
 - Neue DenkerVitas → `content/DenkerVita/`
 - Neue Panoramas → `content/Panorama/` (manuell, wenn ≥3 Notes dasselbe Thema)
 - Persönliche Reflexionen → `content/Gedanken/`
@@ -33,6 +35,19 @@ docker compose down      # Stoppen
 ```
 
 Wenn der Container läuft: **jede gespeicherte Note erscheint automatisch in der Wiki** — kein manueller Rebuild nötig.
+
+## Geistesblitz
+
+Geistesblitz ist die Rubrik für **grundsätzliches Wissen und menschliche Schöpferkraft** — Wissenschaft, Philosophie, Psychologie, Technik. Notes, die die Welt erklären und das Außergewöhnliche am Menschen sichtbar machen.
+
+**Abgrenzung:**
+- **Zeitgeist** → Geist der *Zeit*: tagesaktueller Diskurs, Politik, Gesellschaft, Interviews.
+- **Denker** → das Denken *einer Person* in der Tiefe.
+- **Geistesblitz** → das Wissen über die *Welt und den menschlichen Geist*: Forschungsstand, Wissenschaft, Erklärung — quellenbasiert, nicht an eine einzelne Stimme gebunden (z.B. Wissenschafts-Dokus, Erklärformate).
+
+**Faustregel:** Was das Jahr überdauert → Geistesblitz; was das Jetzt kommentiert → Zeitgeist.
+
+**Typ-Tag:** `geistesblitz`. Note-Aufbau wie eine Zeitgeist-Note (Faktencheck bei empirischen Claims), aber mit dem analytischen Anspruch einer Denker-Note (Konzepte als eigene Abschnitte, eigene Einordnung).
 
 ## Panorama
 
