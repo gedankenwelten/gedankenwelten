@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*237 Notes — automatisch generiert · nach Thema sortiert*
+*238 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -81,6 +81,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 - [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus|Dobusch und Zaboura — Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus]]
 - [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
+- [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]] — Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
 - [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
 - [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker — Dieser Drang nach Härte]]
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]

@@ -180,6 +180,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Maren Urner|Maren Urner]]** — Neurowissenschaftlerin, Professorin für Nachhaltige Transformation (Münster UAS); Gründerin *Perspective Daily* (konstruktiver Journalismus); Hope Theory, Angst vs. Hoffnung, dynamisches Denken; SPIEGEL-Bestsellerautorin *Schluss mit dem täglichen Weltuntergang*, *Raus aus der ewigen Dauerkrise*, *Radikal emotional*
 
+**[[DenkerVita/Mark Reicher|Mark Reicher]]** — Informatiker und Geopolitik-YouTuber (VisualPolitik DE, eigener Kanal, Podcast *Wertewesten*); lebt in Prag; Meinungsfreiheit als Selbstzweck, „die besseren Argumente setzen sich durch", Analyse statt Journalismus; brach 2024 mit VisualPolitik wegen Russland-Propaganda-Vorwurf
+
 **[[DenkerVita/Mats Schoenauer|Mats Schoenauer]]** — Journalist, YouTuber, Buchautor; Betreiber YouTube-Kanal Topfvollgold; Gründer Topfvollgold (mit Moritz Tschermak, 2013); Medienmanipulation, Desinformation als Geschäftsmodell, Faktencheck-Journalismus
 
 **[[DenkerVita/Maurice Hoefgen|Maurice Höfgen]]** — Ökonom, YouTuber ("Geld für die Welt", 251.000+ Abonnenten), Kolumnist Berliner Zeitung; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse
