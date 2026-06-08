@@ -17,6 +17,16 @@ aliases:
 
 # MONITOR — Sparhammer gegen Jugendliche
 
+![[assets/MONITOR-Sparhammer-gegen-Jugendliche-banner.png|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — Social Realism, 1940er–50er Amerika. Drahtige Linien, empathische Figuren ohne Sentimentalität, warmes Ocker links / institutionelles Grau rechts. Shahn malte Sozialprogramme, Arbeitskämpfe, den Kontrast zwischen menschlicher Würde und bürokratischer Macht — er würde diese Note als Warnung vor einem Systemfehler gemalt haben, nicht als Anklage gegen Einzelpersonen.
+
+*Prompt:* Ben Shahn social realist style, 1940s–50s American. Wide banner 1200×500px. Center-left: a thin, wiry adult figure (social worker, seen from the side, no facial detail) kneels at eye level with a smaller figure — a teenager, seated, head slightly turned. Between them: nothing dramatic, just proximity and a barely visible thread connecting their hands. From this pair, more thin threads extend outward across the banner — reaching to other small, scattered figures at the margins, each connected by this web of care. Some figures stand at ledge edges, others sit alone; all held by the threads. Upper right: a large, angular pair of scissors — bureaucratic, abstracted, mechanically precise — descends from above, mid-cut, severing two or three of the threads. The cut threads hang loose. Palette: warm ochre and sienna left (the figures, the web), cold institutional grey right (the scissors, the empty space). Ben Shahn's characteristic wiry brushwork — angular, precise, never sentimental. No photorealistic faces. No text. The tension between the warmth of connection and the mechanical coldness of the cut is the entire image.
+
+</details>
+
 > [!abstract] Worum es geht
 > Was Sparlogik mit Menschen macht, die noch keine eigene Stimme haben: Bundesfamilienministerin Karin Prien plant Kürzungen von 2,7 Milliarden Euro bei der Kinder- und Jugendhilfe. Das soll durch Umstrukturierung geschehen — weg von individueller Betreuung, hin zu Gruppenangeboten. Doch das ist nicht alles: Eine vertrauliche Arbeitsgruppe aus Kanzleramt, Ländern und Kommunen hat eine Liste ausgearbeitet, die noch tiefer schneidet. Darunter: die Abschaffung des §41a, der Übergangshilfen für junge Erwachsene über 18 garantiert. MONITOR begleitet zwei Fälle, die zeigen, was diese Zahlen bedeuten — für Lena, 14, mit ADHS und einer zerrissenen Familie, und für Joline, 20, die ohne die Jugend-WG, in der sie lebt, in Obdachlosigkeit oder Schlimmerem geendet hätte.
 
