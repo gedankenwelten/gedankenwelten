@@ -353,6 +353,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Mark Benecke
 **Status:** ✓ Vollanalyse → [[DenkerVita/Mark Benecke]]
 
+## Mark Reicher
+**Status:** ✓ Vollanalyse → [[DenkerVita/Mark Reicher]]
+
 ## Markus Gabriel
 **Status:** ✓ Vollanalyse → [[DenkerVita/Markus Gabriel]]
 
