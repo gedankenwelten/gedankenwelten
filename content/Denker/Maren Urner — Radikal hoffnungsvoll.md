@@ -251,7 +251,7 @@ Göpels Agency-Konzept gegen Ohnmacht und Urners Hoffnung als neurobiologisch tr
 
 Neitzel/Iltisbergers Attention System (Medien, Plattformen, Investoren in gegenseitiger Aufmerksamkeitsschleife) ist die technische Beschreibung von dem, was Urner als "Attention Bros / Media Bros" politisch benennt. Urners KI-Paradox (Menschen denken wie Maschinen) findet in Neitzel/Iltisbergers Befund sein konkretes Beispiel: Hype formt kognitive Kategorien, bevor die Realität sie korrigieren kann.
 
-### → [[Denker/Albert Moukheiber — Mein Hirn und die anderen|Moukheiber — Mein Hirn und die anderen]]
+### → [[Geistesblitz/Albert Moukheiber — Mein Hirn und die anderen|Moukheiber — Mein Hirn und die anderen]]
 
 Urners KI-Paradox ("Menschen denken wie Maschinen") trifft auf Moukheibers neuropsychologische Analyse des sozialen Gehirns: Das Gehirn ist primär auf andere ausgerichtet (Theory of Mind), nicht auf sequentielle Informationsverarbeitung. Urners Hope Theory (Will Power + Way Power als kognitive Kapazitäten) lässt sich in Moukheibers Rahmen übersetzen — beide stellen gegen das maschinelle Menschenbild das soziale, auf Resonanz angewiesene Gehirn.
 

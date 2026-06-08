@@ -221,7 +221,7 @@ Philosophie als Begriffsklärungsapparat vor dem Experiment. Nicht als eigenstä
 
 ## Verbindungen
 
-### → [[Zeitgeist/David Chalmers — Das Hard Problem des Bewusstseins]]
+### → [[Geistesblitz/David Chalmers — Das Hard Problem des Bewusstseins]]
 
 Chalmers stellt die Frage, warum überhaupt *subjektives Erleben* existiert. Tversky beantwortet diese Frage nicht — sie arbeitet auf der Ebene darunter: Wie ist das kognitive System strukturiert, das dieses Erleben hervorbringt? Beide Fragen brauchen einander. Tverskeys embodied Kognition ohne Chalmers' phänomenales Bewusstsein bleibt funktionalistisch — Chalmers ohne Tverskeys Körper-Kognition bleibt körperlos.
 
@@ -229,7 +229,7 @@ Chalmers stellt die Frage, warum überhaupt *subjektives Erleben* existiert. Tve
 
 Ricard beschreibt aus der kontemplativen Perspektive, was Tversky empirisch untersucht: die körperliche Basis des Geistes. Atembeobachtung, Körper-Scanning, Gehmeditation sind praktische Techniken, die den Körper als Stabilisator des Geistes nutzen — was Tverskeys Deprivations-Experiment aus einer anderen Richtung bestätigt. Beide beschreiben denselben Körper-Geist-Nexus: der eine experimentell, der andere kontemplativen Ursprungs.
 
-### → [[Zeitgeist/ARTE — Neurodivers Anders denken besser arbeiten]]
+### → [[Geistesblitz/ARTE — Neurodivers Anders denken besser arbeiten]]
 
 Die Frage individueller Denkstile — Menschen, die räumlich-bildhaft denken vs. solche mit innerem Monolog — korrespondiert direkt mit Tverskeys Beobachtung, dass es diese Unterschiede gibt, ihre empirische Erforschung aber noch aussteht. Neurodiversität könnte teilweise als Variation in der Gewichtung von embodied vs. sprachlichem Denken verstanden werden.
 
@@ -237,15 +237,15 @@ Die Frage individueller Denkstile — Menschen, die räumlich-bildhaft denken vs
 
 Spitzer argumentiert für verkörpertes Lernen als pädagogischen Imperativ — Kinder lernen durch Bewegung, Handlung, Sensorik. Das ist Tverskeys Embodied Cognition in pädagogischer Anwendung: Wenn Denken körperlich ist, dann kann Lernen nicht auf das Stillsitzen reduziert werden.
 
-### → [[Denker/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
+### → [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]]
 
 Tversky zeigt, dass 50% des Cortex räumlicher Verarbeitung dienen — das Gehirn ist baulich auf Raum ausgerichtet. Carbon liefert die exakte neuronale Mechanik dazu: 10–20 Millionen Rückwärts-Fasern gegen 1 Million Eingangssignale. Beide kommen zur selben Grundaussage — das Gehirn konstruiert Welt, statt sie abzubilden — aber Tversky geht einen Schritt weiter: Diese Konstruktion beginnt im Körper, nicht erst im Cortex.
 
-### → [[Denker/Albert Moukheiber — Mein Hirn und ich]]
+### → [[Geistesblitz/Albert Moukheiber — Mein Hirn und ich]]
 
 Moukheiber beschreibt das Gehirn als Rekonstruktionsmaschine mit A-priori-Annahmen — ein Vorhersageorgan, das Lücken füllt. Tversky ergänzt die verkörperte Dimension, die Moukheiber auslässt: Gesten denken mit, Abstraktion wurzelt im Körperlichen, der Körper ist nicht nur Input-Kanal sondern Mit-Denker. Der Kontrast ist produktiv — Moukheibers Gehirn ist kopflastig, Tverskys Kognition geht in die Glieder.
 
-### → [[Zeitgeist/Rebecca Boehme — So trickst du dein Gehirn aus]]
+### → [[Geistesblitz/Rebecca Boehme — So trickst du dein Gehirn aus]]
 
 Böhmes Milkshake-Studie ist ein direkter empirischer Beleg für Tverskys These: Erwartung und Sprache verändern nicht nur die Wahrnehmung, sondern den Körper selbst — Ghrelin-Ausschüttung folgt dem mentalen Modell, nicht dem physischen Reiz. Beide beschreiben denselben Zwei-Wege-Kanal zwischen Körper und Kognition, Böhme allerdings aus der Interventions-Perspektive.
 
