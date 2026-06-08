@@ -383,7 +383,7 @@ Das gleiche Reframing-Werkzeug, das gegen das SIO eingesetzt wurde, wird jetzt g
 - [[Denker/Hannah Arendt — Denken ohne Geländer]] — Arendt: Totalitarismus zerstört Institutionen, die gemeinsame Realität sichern; DiResta dokumentiert denselben Prozess digital — ohne Staat, durch dezentralisierte Crowds
 - [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld: Elite-gesteuerte Meinungsmache (top-down); DiResta: die Crowd ist selbst der Propagandaapparat (dezentralisiert) — zwei Modelle desselben Phänomens
 - [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — KI senkt die Produktionshürde für Propaganda; Mühlhoff zeigt die strukturelle Seite, DiResta die operative
-- [[Denker/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] — Carbon erklärt kognitiv, wie Wahrnehmung konstruiert wird; DiResta zeigt, wie Propagandisten diese Konstruktion systematisch ausnutzen
+- [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] — Carbon erklärt kognitiv, wie Wahrnehmung konstruiert wird; DiResta zeigt, wie Propagandisten diese Konstruktion systematisch ausnutzen
 - [[Zeitgeist/ARTE — Forschung Fake und faule Tricks]] — Wie Industrien Zweifel säen (Agnotologie); DiResta: Influencer-Crowds tun dasselbe dezentralisiert — strukturell verwandt
 - [[Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien]] — Rechte Milliardäre kaufen Medienkanäle (sichtbar) + Influencer-Netzwerke (unsichtbar) + Regierungsbeamte nutzen Crowd-Rumors als Policy-Grundlage (2025) — drei Schichten desselben Systems
 - [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — Bernays' Prinzip (Gruppenidentität als Hebel) und algorithmische Verstärkung: wie politische Narrative heute gebaut werden

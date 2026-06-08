@@ -227,11 +227,11 @@ Beide Panels diskutieren Nebenwirkungen technologischer Systeme auf vulnerable G
 
 Spitzer hat seit Jahren vor digitalen Medien gewarnt — oft pauschal und wissenschaftlich überschießend. Paschkes Position ist nuancierter: nicht Technologie per se ist das Problem, sondern das *Design* der Plattformen. Trotzdem treffen sich beide im Ergebnis: Kindheit braucht analoge Schutzräume.
 
-### → [[Zeitgeist/Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]
+### → [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]
 
 Paschke beschreibt die Suchtmechanismen der Plattformen — variables Belohnungslernen, unvorhersagbare Gratifikation. Schultz liefert die neuronale Grammatik dafür: Reward Prediction Error (RPE). Nicht die Belohnung selbst, sondern ihre Unvorhersagbarkeit feuert das Dopaminsystem — genau das, was TikTok-Algorithmen maximieren. Paschkes klinische Beobachtung ("1,5 Mio. suchtgefährdete Jugendliche") und Schultz' Mechanismus ("positiver RPE eskaliert Erwartungswert") beschreiben dieselbe Spirale von beiden Enden.
 
-### → [[Zeitgeist/Rebecca Boehme — So trickst du dein Gehirn aus]]
+### → [[Geistesblitz/Rebecca Boehme — So trickst du dein Gehirn aus]]
 
 Böhmes Predictive Processing (das Gehirn als Vorhersagemaschine, Aufmerksamkeitsextraktion durch Neuigkeit) erklärt neurobiologisch, was Paschke klinisch beobachtet: Jugendliche können die Kontrolle nicht zurückgewinnen, weil das Design der Plattformen aktiv gegen ihre Vorhersagemodelle arbeitet. Böhmes "Trick" — rote Eilmeldungen, Push-Notifications — ist bei Kindern durch den unreifen Präfrontalkortex noch wirksamer als bei Erwachsenen.
 

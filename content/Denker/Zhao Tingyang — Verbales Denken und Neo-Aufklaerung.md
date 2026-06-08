@@ -171,7 +171,7 @@ Maas' Unterscheidung Bild-Denker vs. Sprach-Denker ist eine empirische Bestätig
 ### → [[Denker/Andreas Zimpel — Neurodiversität|Andreas Zimpel — Neurodiversität]]
 Zimpels Kernbefund — dass etwa die Hälfte der Menschen Bild-Denker sind und das Schulsystem sie systematisch benachteiligt, weil es auf Sprache ausgerichtet ist — ist die neurobiologische Untermauerung von Zhaos Sprachkritik. Wenn Nomina-Sprache den Denkraum seit dem Paläolithikum einengt, dann ist Neurodiversität kein Rand-Phänomen, sondern das Auftauchen alternativer Kognitionsmodi, die das herrschende Sprachparadigma nicht abbildet. Mandelbrots Apfelmännchen — zuerst gesehen, dann bewiesen — ist ein konkreter Fall von Verb-Erkenntnis: Prozess vor Begriff.
 
-### → [[Denker/Albert Moukheiber — Mein Hirn und die anderen|Moukheiber — Mein Hirn und die anderen]]
+### → [[Geistesblitz/Albert Moukheiber — Mein Hirn und die anderen|Moukheiber — Mein Hirn und die anderen]]
 Moukheibers Befund, dass das Gehirn sozial vor kognitiv ist — Gesichtserkennung entsteht vor Sprache, Theory of Mind vor Abstraktion — ergänzt Zhaos evolutionsphilosophische Diagnose mit neurobiologischem Rückhalt. Wenn das Gehirn zuerst relationales Wahrnehmen entwickelt und Sprache erst sekundär aufbaut, dann ist Zhaos Hypothese plausibel: Nomina-Dominanz ist ein historisches Artefakt, keine kognitive Notwendigkeit. Gleichzeitig stellt das eine Frage an Neo-Aufklärung: Wenn paläolithisches Denken so tief ins soziale Gehirn eingebaut ist, wird Philosophie es verändern — oder braucht es veränderte Praxis und Werkzeuge?
 
 ---

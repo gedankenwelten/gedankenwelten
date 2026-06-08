@@ -180,7 +180,7 @@ Goenka betonte unermüdlich: Dies ist kein Buddhismus. Kein Ritual, kein Dogma, 
 - [[DenkerVita/Erich Fromm]] — Fromms Biophilie und Goenkas Mettā-Praxis beschreiben denselben Grundimpuls: Liebe als aktive Haltung, nicht als Emotion. Fromms *Haben oder Sein* ist die soziologische Beschreibung dessen, was Goenka als Tanhā (Verlangen) und Dvesha (Ablehnung) analysiert
 - [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] — Ricard verbindet tibetische Meditation mit Neurowissenschaft; Goenka besteht auf der Theravada-Reinheit. Beide zeigen: Meditation ist empirisch überprüfbar
 - [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas „stumme Welt" ist Goenkas blinde Reaktion auf Sankhāras; Resonanz ist die soziologische Entsprechung von Upekkhā — nicht Gleichgültigkeit, sondern offenes Empfangen
-- [[Denker/Hans-Peter Dürr — Die neue Physik]] — Dürr kommt über die Quantenphysik zum selben Ergebnis: Es gibt keine Substanz. Was Buddha als Anattā und Anicca lehrte, bestätigt die Physik
+- [[Geistesblitz/Hans-Peter Dürr — Die neue Physik]] — Dürr kommt über die Quantenphysik zum selben Ergebnis: Es gibt keine Substanz. Was Buddha als Anattā und Anicca lehrte, bestätigt die Physik
 
 ---
 

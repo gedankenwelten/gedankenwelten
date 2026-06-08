@@ -314,7 +314,7 @@ tags:
 | | |
 |---|---|
 | **Podcast** | [Bild der Wissenschaft Podcast — Dopamin: Mehr als ein Glückshormon](https://bildderwissenschaft.podigee.io/28-neue-episode) |
-| **Notiz** | [[Zeitgeist/Wolfram Schultz — Dopamin mehr als ein Glueckshormon]] |
+| **Notiz** | [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon]] |
 | **Transkript** | Online-Transkript auf Podigee (kein lokaler Download nötig) |
 
 ## BissenBlaBla — Bilanz rechter Regierungen
@@ -438,7 +438,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Thought doesn't just happen in the brain \| Barbara Tversky](https://www.youtube.com/watch?v=Tprm0UpCKTY) |
-| **Notiz** | [[Denker/Barbara Tversky — Denken beginnt nicht im Kopf]] |
+| **Notiz** | [[Geistesblitz/Barbara Tversky — Denken beginnt nicht im Kopf]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Tversky_Embodied_Thinking_Transkript.txt` |
 
 ## Yanis Varoufakis — Trump Has Lost Everything
@@ -1680,7 +1680,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [„Weil es ums Ganze geht" — GLOBART 2011](https://www.youtube.com/watch?v=RKma6xCTIBE) |
 | **Vortrag / Video** | [„Es gibt nichts Unschöpferisches" — Alpha Forum 2009](https://www.youtube.com/watch?v=Lhku7ZBWEK8) |
 | **Vortrag / Video** | [Die neue Physik und einige Folgen — Gespräch mit Dürr](https://www.youtube.com/watch?v=RbuQmzvQCOA) |
-| **Notiz** | [[Denker/Hans-Peter Dürr — Die neue Physik]] |
+| **Notiz** | [[Geistesblitz/Hans-Peter Dürr — Die neue Physik]] |
 | **Transkript 1** | `Gedankenwelten/Transkripte/Duerr_1_Die_neue_Physik_Transkript.txt` *(Whisper)* |
 | **Transkript 2** | `Gedankenwelten/Transkripte/Duerr_2_Weil_es_ums_Ganze_geht_Transkript.txt` |
 | **Transkript 3** | `Gedankenwelten/Transkripte/Duerr_3_Es_gibt_nichts_Unschoepferisches_Transkript.txt` |
@@ -1756,7 +1756,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Podcast / Video** | [Warum du die Welt nie so siehst, wie sie wirklich ist](https://www.youtube.com/watch?v=-8gPB16_R_Y) |
-| **Notiz** | [[Denker/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] |
+| **Notiz** | [[Geistesblitz/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Carbon_Wahrnehmung_Wirklichkeit_Transkript.txt` |
 
 ---
