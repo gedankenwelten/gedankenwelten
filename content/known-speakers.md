@@ -178,6 +178,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Erich Fromm
 **Status:** ✓ Vollanalyse → [[DenkerVita/Erich Fromm]]
 
+## Ernesto Laclau
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ernesto Laclau]]
+
 ## Erwin Thoma
 **Status:** Stub
 

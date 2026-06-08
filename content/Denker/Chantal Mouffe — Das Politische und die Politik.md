@@ -165,6 +165,7 @@ Das schließt den Kreis zu den Gedankenwelten-Gedanken über Demokratie als Gewe
 
 ## Verbindungen
 
+- [[Denker/Ernesto Laclau — Macht und Repraesentation|Laclau — Macht und Repräsentation]] — Laclau, Mouffes Partner und Ko-Autor von *Hegemonie und radikale Demokratie*: Wo Mouffe den **Agonismus** als demokratisches Prinzip entwickelt, entfaltet Laclau die diskurstheoretische Seite (gleitende Signifikanten, Repräsentation, Leerstelle). Zwei Hälften desselben Projekts.
 - [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — Mouffes Agonismus-Begriff ist die fehlende Dimension: nicht nur verstehen warum Macht verdrängt, sondern warum die Demokratie den Konflikt braucht
 - [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen|Haidt — Moralische Wurzeln]] — Haidt zeigt empirisch, dass politische Zugehörigkeit affektiv ist, nicht rational — genau das, was Mouffe Habermas vorwirft zu übersehen
 - [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet|Demirović — Foucaults Gouvernementalität]] — Foucaults Machtanalyse und Mouffes Demokratietheorie ergänzen sich: Foucault zeigt, wie Macht ohne Konflikt operiert; Mouffe warum das demokratisch problematisch ist

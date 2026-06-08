@@ -133,6 +133,7 @@ Der letzte Satz des Vortrags ist Foucaults Vermächtnis:
 
 ## Verbindungen
 
+- [[Denker/Ernesto Laclau — Macht und Repraesentation|Laclau — Macht und Repräsentation]] — verwandt, aber grundverschieden: Foucault analysiert Diskurse als Machtformationen, die Subjekte *produzieren*. Laclau besteht auf der konstitutiven Unmöglichkeit eines geschlossenen Diskurses — die Leerstelle (Lacan) verhindert gerade die totale Normalisierung, die Foucault beschreibt. Macht als diffuses Netz vs. anfechtbare hegemoniale Fixierung.
 - [[scobel — Foucault Aufklaerung als Haltung]] — ergänzt diese Note um Foucaults Spätwerk: Aufklärung als Ethos, Parrhesia, die „endlose Arbeit der Freiheit" — hier fehlt das Frühwerk, dort fehlt das Panoptikum
 - [[Walther Ziegler — Sartre in 60 Minuten]] — der berühmteste Konflikt der französischen Philosophie: Sartre verteidigt das freie Subjekt, Foucault erklärt es zum Produkt der Strukturen
 - [[Walther Ziegler — Adorno in 60 Minuten]] — Adornos „Verblendungszusammenhang" und Foucaults „Episteme" diagnostizieren dasselbe: Wir durchschauen die Strukturen nicht, die unser Denken bestimmen. Kulturindustrie als spezifisches Dispositiv

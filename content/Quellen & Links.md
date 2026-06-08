@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Ernesto Laclau — Macht und Repräsentation
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Ernesto Laclau – Macht und Repräsentation (Vortrag von Dr. Cornelia Mooslechner-Brüll, Uni Wien)](https://www.youtube.com/watch?v=ERmx28peZ98) |
+| **Notiz** | [[Denker/Ernesto Laclau — Macht und Repraesentation]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Laclau_Macht_Repraesentation_Transkript.txt` |
+| **DenkerVita** | [[DenkerVita/Ernesto Laclau]] |
+
 ## MONITOR — Sparhammer gegen Jugendliche (28.05.2026)
 
 | | |

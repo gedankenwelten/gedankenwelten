@@ -219,6 +219,9 @@ Faschismus wächst nicht von außen in die Demokratie hinein — er wächst in i
 
 ## Verbindungen
 
+### → [[Denker/Ernesto Laclau — Macht und Repraesentation]]
+Ein produktiver Widerspruch: Dörre arbeitet mit dem marxistischen Klasseninteresse — genau dort, wo Laclau mit dem Marxismus bricht. Die Streitfrage: Kann eine Hegemonietheorie *ohne* Klassenanalyse erklären, warum Signifikanten wie „Freiheit" und „Volk" konsequent von rechts besetzt werden? Dörre würde Laclau vorwerfen, die materielle Basis des Diskurskampfes zu vernachlässigen.
+
 ### → [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 Rosa ist Dörres langjähriger Co-Autor (Postwachstumsgesellschaften, Kollegforschungsgruppe Jena). Dörre teilt Rosas Beschreibung von Beschleunigung und Entfremdung, radikalisiert sie aber klassenpolitisch: Resonanzverlust ist kein bloß kulturelles Phänomen, sondern materielle Folge von Eigentumsverhältnissen.
 

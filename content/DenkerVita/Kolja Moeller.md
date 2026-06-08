@@ -65,7 +65,7 @@ Möller ist **nicht einfach einer Strömung zuzuordnen**. Seine Position ist:
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier leer lassen)*
+- [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]] — Laclau ist Möllers theoretischer Bezugspunkt: Möllers Begriff des Populismus als *strukturelles Merkmal* von Demokratien (nicht Pathologie) baut direkt auf Laclaus Unterscheidung von konstitutivem Antagonismus und scheiternder hegemonialer Sutur auf — Möller nimmt die radikaldemokratische These ernst, ohne ihre diskurstheoretische Ausschließlichkeit zu teilen.
 
 ## Cortex-Notes
 
