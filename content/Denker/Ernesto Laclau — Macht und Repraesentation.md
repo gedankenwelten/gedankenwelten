@@ -98,6 +98,8 @@ Der Mangel wird also erst spürbar, wenn das, was ihn verdeckte, verschwindet �
 
 [▶ 25:23](https://www.youtube.com/watch?v=ERmx28peZ98&t=1523) — Manche schließen daraus, Repräsentation sei unmöglich oder illegitim — wie könne einer für einen anderen sprechen? Laclau dreht es um: Repräsentation ist *unbedingt notwendig*. Denn jeder Identifikationsprozess braucht den anderen, braucht Differenz und Artikulation. Interessensbildung entsteht überhaupt erst durch dieses Zusammenspiel.
 
+Das paradigmatische Beispiel — aus Laclaus eigener Argentinien-Forschung in *Über populistische Vernunft* — ist der **Peronismus**: Vor Perón gab es fragmentierte Unterschichten, eine Vielzahl ungebündelter Forderungen. Erst Peróns Rhetorik schuf die Kategorie „das Volk" (*el pueblo*) als politische Einheit. Das „Volk" existierte nicht *vor* seiner Repräsentation, um dann von Perón abgebildet zu werden — der Repräsentant ermöglichte überhaupt erst, dass sich diese disparaten Gruppen als ein kollektives „Wir" verstanden. Genau das meint „Repräsentation schafft das Repräsentierte".
+
 > [!note] Eigene Einschätzung
 > Das ist die vielleicht folgenreichste Pointe für unsere Gegenwart. Der populistische Vorwurf „die da oben repräsentieren uns nicht" unterstellt, es gebe ein fertiges „uns", das nur verraten wird. Laclau zeigt: Das „uns" entsteht erst im Akt der Repräsentation. Das ist keine Beschwichtigung — es radikalisiert die Verantwortung. Wer repräsentiert, *macht* mit, wer das Volk ist. Genau deshalb ist Repräsentation für Laclau auf keinen Fall abzuschaffen, sondern zu *vermehren*: mehr Orte, mehr Verhältnisse, mehr Möglichkeiten.
 
