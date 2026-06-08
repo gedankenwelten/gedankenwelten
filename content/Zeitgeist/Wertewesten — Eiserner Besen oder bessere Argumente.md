@@ -82,6 +82,21 @@ Und er stellt die entscheidende Verfahrensfrage, die jeder Verbotslogik den Bode
 > [!question] Weitergedacht
 > Wenn „wer die besseren Argumente fürchtet, will sie verbieten" stimmt — *gilt das dann auch umgekehrt?* Ist die Forderung nach mehr Streit immer ein Zeichen von Stärke, oder kann sie auch Naivität gegenüber Akteuren sein, die gar nicht überzeugen, sondern nur verwirren wollen?
 
+### Der Fall Höcke: Wer „politische Monster" menschlich macht
+
+Der abstrakte Streit bekommt einen konkreten Prüfstein — den AfD-Politiker Björn Höcke, den der Podcaster „Ben ungeskriptet" eingeladen hatte. Hier zeigt sich Reichers Konsequenz: Er begrüßt die Plattform, *gerade weil* das Gespräch Höcke entlarvt habe.
+
+> *„Ich finde es toll, dass bei Ben dann Björn Höcke war. Meine Meinung über Höcke hat sich danach dramatisch verschlechtert."* ([▶ 10:36](https://www.youtube.com/watch?v=sIM_03kJI5A&t=636))
+
+Heinrich sieht das genau umgekehrt — und legt den Finger auf die *Inszenierung*: Der Plauder-Ton normalisiere, was er sichtbar machen wolle.
+
+> *„Da geht es darum, Leute, die eigentlich politische Monster sind, als normale Menschen darzustellen. Wenn dieser Mensch dann aber zum Bundeskanzler gewählt wird, ist eben nicht mehr der Mensch — er ist Politiker."* ([▶ 15:11](https://www.youtube.com/watch?v=sIM_03kJI5A&t=911))
+
+Besonders scharf wird Heinrich an Bens Begründung, Höcke sei kein Extremist, „weil er nicht mit Gewalt an die Macht kommen wolle". Nach „ein paar hundert Podcasts" mit Politikern sei diese Naivität nicht mehr glaubhaft — *„entweder unfassbar lernresistent oder es ist Teil seines Marketings"* ([▶ 20:33](https://www.youtube.com/watch?v=sIM_03kJI5A&t=1233)), um niemanden ausschließen zu müssen und weiter einladen zu können.
+
+> [!question] Weitergedacht
+> Reicher sagt, das Höcke-Interview habe seine Ablehnung *verstärkt* — Heinrich liest in der Kommentarspalte das Gegenteil. *Hängt die Wirkung einer Plattform also gar nicht vom Gezeigten ab, sondern davon, wer schon mit welcher Haltung zuschaut?* Und wenn ja — was bleibt dann vom Vertrauen in den „freien Markt der Ideen"?
+
 ### Reichers stärkstes Bild: Zensur frisst ihre Kinder
 
 Das überzeugendste Argument Reichers ist kein theoretisches, sondern ein historisch-empirisches: Zensurapparate dehnen sich aus. Was als Schutz vor dem Feind beginnt, endet bei der Verfolgung der eigenen Differenziertheit.
@@ -102,6 +117,15 @@ Heinrichs Antwort ist die schärfste Stelle der Folge — und die, an der Reiche
 > *„Das ist eine False Balance in meinen Augen. Eine öffentlich-rechtliche Redaktion hat die Verantwortung: Wenn sie jemanden einlädt, der einen derartigen Glaubwürdigkeitsvorsprung durch Titel bekommt, dann hätte sie einen Oberst a.D. einladen sollen, der keine unterschwelligen Narrative nach Kreml-Geschmack unterzuschieben versucht."* ([▶ 32:46](https://www.youtube.com/watch?v=sIM_03kJI5A&t=1966))
 
 Der entscheidende Punkt: Bei einem Publikum, dem Belege egal sind, „wirken 1000 Belege gegen ein Trust-me-bro nicht". Damit trifft Heinrich den wunden Punkt von Reichers Theorie — dass nämlich Argumente nicht im luftleeren Raum konkurrieren, sondern gegen Autorität, Habitus und Vorprägung.
+
+Wie willkürlich dieser Autoritäts-Bonus ist, führt Heinrich an den akademischen Titeln selbst vor: Man könne sich heute Doktor- und Professoren-Würden auf Umwegen beschaffen (er spielt eine „Universität Panama" durch), bis die Glaubwürdigkeit künstlich aufgeladen sei.
+
+> *„Dann werde ich nicht mehr als Militärhistoriker und YouTuber vorgestellt, sondern als Professor Doktor — und dann ist meine Glaubwürdigkeit in diesem Feld dramatisch erhöht."* ([▶ 30:26](https://www.youtube.com/watch?v=sIM_03kJI5A&t=1826))
+
+Bemerkenswert ist nun, welche Konsequenz Heinrich daraus zieht — und hier wird seine Position widersprüchlich: Obwohl er die strukturelle Unfairness klar erkennt, mündet sie nicht in die Forderung, sie zu beheben, sondern in stoische Selbstertüchtigung. Eine attraktive Frau, eine angenehme Stimme, ein Titel — alles ungleich verteilt: *„Die Welt ist nicht gerecht. Man muss sich halt mehr anstrengen."* ([▶ 31:12](https://www.youtube.com/watch?v=sIM_03kJI5A&t=1872))
+
+> [!note] Eigene Einschätzung
+> Hier kippt Heinrichs Argument gegen ihn selbst. Erst nutzt er die False Balance als Begründung für den „eisernen Besen" — die Bühne sei unfair, also müsse die Redaktion eingreifen. Dann, beim eigenen Nachteil, lautet die Antwort plötzlich „streng dich mehr an". Beides zugleich geht nicht: Entweder die Asymmetrie rechtfertigt strukturelle Korrektur (dann auch für andere), oder sie ist Schicksal, mit dem jeder selbst fertigwerden muss (dann auch der ungeliebte Oberst a.D.). Genau an dieser Inkonsequenz hat Reichers Einwand seine stärkste Wurzel.
 
 ### Trump als Stresstest: Setzen sich die besseren Argumente wirklich durch?
 
@@ -128,6 +152,19 @@ Konkret nennen sie wiederkehrende Narrative: die Istanbul-2022-Erzählung („Ru
 
 > [!note] Eigene Einschätzung
 > Diese Sektion ist der eigentliche Erkenntnisgewinn der Folge — unabhängig davon, wer im Methodenstreit recht hat. Die 90/10-Ratio und das Bild von der „rhetorischen Schminke" sind brauchbare Werkzeuge zum *Selber-Erkennen* von Manipulation. Ironisch nur: Beide wenden diese Analyse souverän auf die Gegenseite an — die Frage, ob ihr eigenes „pro Westen"-Produkt nach derselben 90/10-Logik funktioniert, stellt keiner.
+
+### Produktiver Widerspruch oder böswillige Tarnung?
+
+Die feinste — und am leichtesten zu übersehende — Wendung des Gesprächs kommt zum Schluss, und sie verkehrt die Fronten. Heinrich, der „eiserne Besen", argumentiert plötzlich *für* die abweichende Stimme: Vielleicht halte sich das AIES den prorussischen Oberst bewusst als Korrektiv, so wie israelische Gremien einen ständigen Widersprecher vorsehen, japanische Firmen gezielt einen Ausländer einstellen, der dem Chef widerspricht, oder Unternehmen White-Hat-Hacker beauftragen ([▶ 57:57](https://www.youtube.com/watch?v=sIM_03kJI5A&t=3477)).
+
+Und nun ist es ausgerechnet *Reicher*, der Freiheits-Absolutist, der eine harte Grenze zieht:
+
+> *„Das kannst du nicht vergleichen. Wenn du einen White-Hat-Hacker einstellst oder eine andere Stimme für Diversität — das sind keine Menschen, die böswillig sind und deine Firma am liebsten zerlegen wollen."* ([▶ 58:42](https://www.youtube.com/watch?v=sIM_03kJI5A&t=3522))
+
+Heinrich kontert mit einem Plädoyer für Differenzierung — *„Ich sehe das weniger schwarz und weiß als du. Es gibt schwarz und es gibt weiß, es gibt aber auch viel Grau dazwischen."* ([▶ 59:27](https://www.youtube.com/watch?v=sIM_03kJI5A&t=3567)) — und zweifelt selbst, ob der Oberst den Westen wirklich *zerstören* wolle.
+
+> [!note] Eigene Einschätzung
+> Das ist die klügste Stelle der Folge, weil hier beide aus ihrer Rolle fallen. Reichers Unterscheidung — *gutgläubiger Widerspruch* vs. *böswillige Tarnung* — ist genau die Linie, die seinem eigenen Absolutismus eigentlich fehlt: Wenn es bad-faith-Akteure gibt, deren Ziel nicht Überzeugung, sondern Zersetzung ist, dann ist „mehr Streit" gegen sie kein Heilmittel. Und Heinrich, der eben noch auskehren wollte, mahnt nun zur Grauzone. Die saubere Aufteilung „Reicher = Freiheit, Heinrich = Verbot" löst sich auf — beide spüren, dass die richtige Antwort von der *Absicht* des Gegenübers abhängt, die man aber selten sicher kennt.
 
 ### Die Pointe: zwei Biografien, zwei Haltungen
 

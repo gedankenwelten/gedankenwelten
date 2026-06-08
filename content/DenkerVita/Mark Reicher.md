@@ -64,7 +64,21 @@ Reicher ist klar pro-westlich und transatlantisch positioniert, mit einer freihe
 
 ## Verbindungen zu anderen Denkern
 
-*(Montaigne befüllt diese Sektion)*
+### → [[DenkerVita/Torsten Heinrich|Torsten Heinrich]]
+
+Reichers direktes Gegenüber und Podcast-Partner — derselbe pro-westliche Standort, der entgegengesetzte Schluss. Wo der Historiker Heinrich nach einem Hinterhalt im ÖR den „eisernen Besen" fordert, beharrt der Informatiker Reicher auf dem freien Markt der Ideen. Im Streit fällt die naheliegende Etikettierung in sich zusammen: Der „freiheitlich-liberale" Heinrich nimmt die restriktivere Rolle ein, Reicher die kompromisslos freiheitliche. Zwei Temperamente, ein Lager.
+
+### → [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer]]
+
+Der schärfste Einwand gegen Reichers Kernthese. Bonhoeffers „Dummheit" — der durch Gruppendruck und Macht entmächtigte Verstand, an dem Argumente abprallen — beschreibt genau die Lücke in „die besseren Argumente setzen sich durch". Wer manipuliert ist, ist nicht mehr argumentativ erreichbar; Reichers Marktvertrauen setzt einen urteilsfähigen Hörer voraus, den Bonhoeffer gerade bezweifelt.
+
+### → [[DenkerVita/Renee DiResta|Renée DiResta]]
+
+DiResta liefert das empirische Fundament für genau das, weshalb Reicher mit VisualPolitik brach: wie aus Wiederholung und Vernetzung Realität wird. Reicher erkennt Propaganda intuitiv und zieht persönliche Konsequenzen; DiResta hat den Mechanismus über zehn Jahre systematisch vermessen. Gemeinsam markieren sie die Grenze, an der Reichers Freiheits-Absolutismus an die Realität bad-faith-organisierter Desinformation stößt.
+
+### → [[DenkerVita/Mats Schoenauer|Mats Schoenauer]]
+
+Verwandter Habitus: der Analyst gegen die Desinformation. Schoenauer (Topfvollgold) seziert Medienmanipulation als Geschäftsmodell mit Faktencheck-Handwerk — Reicher tut Ähnliches für die Geopolitik. Beide arbeiten gegen organisierte Lüge, ohne sich auf die Seite des Verbots zu schlagen; ihr Werkzeug ist Aufklärung, nicht Ausschluss.
 
 ---
 
