@@ -118,5 +118,5 @@ Nächste Eskalationsstufe: Acht Tage später verlassen Nick Fuentes und Joe Kent
 ### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 Manow: Populismus funktioniert nur bei wirtschaftlicher Unzufriedenheit. Hier sieht man den Moment, wo Populismus selbst wirtschaftliche Unzufriedenheit erzeugt (Spritpreise, Inflation) und sich damit sein eigenes Fundament entzieht.
 
-### → [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
+### → [[Geistesblitz/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Hagemeyer: Narzissten werden von smarten Manipulatoren leicht benutzt. Lindsay Grahams „Wort-Assoziations-Spiel" und Netanyahus Coaching — das ist exakt das Hagemeyer-Muster in Aktion.

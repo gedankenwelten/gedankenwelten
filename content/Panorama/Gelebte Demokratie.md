@@ -161,4 +161,4 @@ Die Defensive als Hintergrundfolie: Was in *Gelebte Demokratie* aufgebaut wird, 
 | [[Panorama/Demokratische Wertschoepfung\|Demokratische Wertschöpfung]] | Wirtschaftliche Dimension: Genossenschaften, Bürgerenergie |
 | [[Panorama/NoAfD\|NoAfD]] | Die Defensive: Was gelebte Demokratie verteidigt |
 | [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland\|rp26 — Stresstest Demokratie Ostdeutschland]] | Mangelbedingungen · Demokratie ohne staatliche Förderstruktur im Osten |
-| [[Denker/Maren Urner — Radikal hoffnungsvoll\|Maren Urner — Radikal hoffnungsvoll]] | Neurobiologische Fundierung: Hoffnung als trainierbare Kapazität (Will Power + Way Power) — drei Praxisbeispiele: Positive Money, Freedom Writers, Funf |
+| [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll\|Maren Urner — Radikal hoffnungsvoll]] | Neurobiologische Fundierung: Hoffnung als trainierbare Kapazität (Will Power + Way Power) — drei Praxisbeispiele: Positive Money, Freedom Writers, Funf |

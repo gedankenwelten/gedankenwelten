@@ -1655,7 +1655,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag** | [Neurodiversität — Vortrag Andreas Zimpel](https://www.youtube.com/watch?v=XkbjEvkuKvM) |
-| **Notiz** | [[Denker/Andreas Zimpel — Neurodiversität]] |
+| **Notiz** | [[Geistesblitz/Andreas Zimpel — Neurodiversität]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Neurodiversitaet_Transkript.txt` |
 
 ---
@@ -1665,10 +1665,10 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Interview** | [Manfred Spitzer: KI, das Gehirn und wie wir lernen](https://www.youtube.com/watch?v=QoERJOhA5jg) |
-| **Notiz** | [[Denker/Manfred Spitzer — KI, Gehirn und Lernen]] |
+| **Notiz** | [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Spitzer_KI_Gehirn_Lernen_Transkript.txt` |
 | **Vortrag Feldbach** | [Manfred Spitzer: Hirnforscher Vortrag in Feldbach](https://www.youtube.com/watch?v=NR-KPZEL3Aw) |
-| **Notiz Feldbach** | [[Denker/Manfred Spitzer — Hirnforscher Feldbach]] |
+| **Notiz Feldbach** | [[Geistesblitz/Manfred Spitzer — Hirnforscher Feldbach]] |
 | **Transkript Feldbach** | `Gedankenwelten/Transkripte/Spitzer_Hirnforscher_Feldbach_Transkript.txt` |
 
 ---
@@ -1692,7 +1692,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Strategien der Natur — Erwin Thoma (Referataufnahme)](https://www.youtube.com/watch?v=7SqqxOWolBo) |
-| **Notiz** | [[Denker/Erwin Thoma — Strategien der Natur]] |
+| **Notiz** | [[Geistesblitz/Erwin Thoma — Strategien der Natur]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Thoma_Strategien_der_Natur_Transkript.txt` |
 
 ---
@@ -1786,7 +1786,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Narzissmus-Experte: Warum Narzissten innerlich so leer sind — Jakobsweg Podcast](https://www.youtube.com/watch?v=gw-ZOrlqt_g) |
-| **Notiz** | [[Denker/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]] |
+| **Notiz** | [[Geistesblitz/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Hagemeyer_Narzissmus_Transkript.txt` |
 
 ---
@@ -2976,7 +2976,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Meditation kann gefährlich sein! – scobel](https://www.youtube.com/watch?v=aFb1JkIqN6U) |
-| **Notiz** | [[Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein]] |
+| **Notiz** | [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Scobel_Meditation_Transkript.txt` |
 | **DenkerVita** | [[DenkerVita/Gert Scobel]] |
 
@@ -3022,7 +3022,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [re:publica 26 — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf](https://www.youtube.com/watch?v=QRaOCV66bXk) |
-| **Notiz** | [[Denker/Maren Urner — Radikal hoffnungsvoll]] |
+| **Notiz** | [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Urner_Hoffnung_Transkript.txt` |
 | **DenkerVita** | [[DenkerVita/Maren Urner]] |
 
@@ -3031,7 +3031,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Psychotherapeutin: Wie du aufhörst, dein eigener härtester Kritiker zu sein](https://www.youtube.com/watch?v=38galNbhahA) |
-| **Notiz** | [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] |
+| **Notiz** | [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Braehler_Selbstmitgefuehl_Transkript.txt` |
 | **DenkerVita** | [[DenkerVita/Christine Braehler]] |
 

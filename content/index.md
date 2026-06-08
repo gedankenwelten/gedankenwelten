@@ -48,7 +48,7 @@ Die Gedankenwelten (luc)
 >
 > Amerika hat nicht nur strukturelle Defekte — es hat seinen Bürgern ein ideologisches Betriebssystem installiert, das sie davon abhält, diese Defekte als solche zu erkennen.
 
-> → *10 weitere in* [[Zeitgeist]]
+> → *9 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -56,13 +56,13 @@ Die Gedankenwelten (luc)
 >
 > Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
 
-> **05.06.** — [[Denker/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
->
-> Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
-
 > **17.05.** — [[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe — Das Politische und die Politik]]
 >
 > Mouffes ganzes Denken ruht auf einer Unterscheidung: die Politik als Verwaltung, das Politische als unhintergehbarer Konflikt. Warum Demokratie Gegnerschaft braucht.
+
+> **17.05.** — [[Denker/Colin Crouch — Postdemokratie nach den Krisen|Colin Crouch — Postdemokratie nach den Krisen]]
+>
+> Postdemokratie: Die Fassade der Demokratie bleibt, doch die Substanz wandert zu Eliten und Lobbys. Crouchs Diagnose nach den Krisen.
 
 ### Geistesblitz
 
@@ -70,9 +70,13 @@ Die Gedankenwelten (luc)
 >
 > Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
 
-> **19.05.** — [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin: Mehr als ein Glückshormon]]
+> **05.06.** — [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
+>
+> Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
 
-> **16.05.** — [[Geistesblitz/Barbara Tversky — Denken beginnt nicht im Kopf|Barbara Tversky — Denken beginnt nicht im Kopf]]
+> **05.06.** — [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe|Christine Brähler — Selbstmitgefühl, Scham und reife Liebe]]
+>
+> Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht.
 
 ### Panorama
 

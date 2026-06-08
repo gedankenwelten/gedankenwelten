@@ -276,7 +276,7 @@ Beide Notes dokumentieren denselben Mechanismus: politisch eingefärbte Energiem
 ### → [[Zeitgeist/Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende|Felix Goldbach — Batteriespeicher]]
 Goldbach liefert die Investorenperspektive zu dem, was Fichtner wissenschaftlich fundiert: Batteriespeicher sind günstiger als Gaskraftwerke (70 % Marktwachstum 2025, LCOS unter Gas-Peaker-Niveau), werden aber durch politische Regulierung systematisch blockiert. Fichtners Hinweis auf die „Regulierungsbremse" findet in Goldbach seine konkrete Ausbuchstabierung.
 
-### → [[Zeitgeist/ARTE — Forschung Fake und faule Tricks|ARTE — Agnotologie]]
+### → [[Geistesblitz/ARTE — Forschung Fake und faule Tricks|ARTE — Agnotologie]]
 Agnotologie — die industrielle Produktion von Unwissen — ist der theoretische Rahmen hinter Fichtners Beobachtung, dass Batterie-Mythen nicht durch Unwissenheit, sondern durch Interessenlage verbreitet werden. Das ARTE-Playbook (Tabak → Klima → Energie) erklärt, warum Fichtner am Ende seines Podcasts nicht über Technik spricht, sondern über politische Macht.
 
 ### → [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)|Claudia Kemfert — Fossilabhängigkeit]]

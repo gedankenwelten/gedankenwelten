@@ -223,7 +223,7 @@ Maas' Kritik am Bildungssystem berührt denselben neurobiologischen Grundsatz: L
 
 Beide Panels diskutieren Nebenwirkungen technologischer Systeme auf vulnerable Gruppen. Die KI-Personalisierung, die Paschke als Verstärker von Suchtmechanismen beschreibt, ist dieselbe KI, die in der anderen rp26-Session unsichtbare Arbeit unsichtbar macht.
 
-### → [[Zeitgeist/Manfred Spitzer — Hirnforscher Feldbach]]
+### → [[Geistesblitz/Manfred Spitzer — Hirnforscher Feldbach]]
 
 Spitzer hat seit Jahren vor digitalen Medien gewarnt — oft pauschal und wissenschaftlich überschießend. Paschkes Position ist nuancierter: nicht Technologie per se ist das Problem, sondern das *Design* der Plattformen. Trotzdem treffen sich beide im Ergebnis: Kindheit braucht analoge Schutzräume.
 

@@ -193,6 +193,6 @@ Göpel als Gastgeberin im NEU-DENKEN-Podcast. Ihre „hohe Lebensqualität bei g
 
 Göpels Donut-Ökonomie ist im NANO Talk der explizite Referenzrahmen: Schaupp und Redecker übersetzen Göpels Theorie in politische Forderungen — Arbeitszeitverkürzung als ökologischer Imperativ, nicht nur als Gerechtigkeitsfrage.
 
-### → [[Denker/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
+### → [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
 
 Göpels Agency-Konzept gegen Ohnmacht und Urners Hoffnung als neurobiologisch trainierbare Kapazität beschreiben denselben Befund von verschiedenen Disziplinen — Göpel aus der politischen Ökonomie, Urner aus der Kognitionswissenschaft. Beide benennen Positive Money als konkretes Gegenmodell zum Finanzsystem und teilen die Diagnose, dass Kommunikationskontrolle der eigentliche Schlüsselhebel der Machtsicherung ist.

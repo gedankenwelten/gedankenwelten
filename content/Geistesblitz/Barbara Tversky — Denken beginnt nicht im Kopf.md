@@ -233,7 +233,7 @@ Ricard beschreibt aus der kontemplativen Perspektive, was Tversky empirisch unte
 
 Die Frage individueller Denkstile — Menschen, die räumlich-bildhaft denken vs. solche mit innerem Monolog — korrespondiert direkt mit Tverskeys Beobachtung, dass es diese Unterschiede gibt, ihre empirische Erforschung aber noch aussteht. Neurodiversität könnte teilweise als Variation in der Gewichtung von embodied vs. sprachlichem Denken verstanden werden.
 
-### → [[Denker/Manfred Spitzer — KI, Gehirn und Lernen]]
+### → [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen]]
 
 Spitzer argumentiert für verkörpertes Lernen als pädagogischen Imperativ — Kinder lernen durch Bewegung, Handlung, Sensorik. Das ist Tverskeys Embodied Cognition in pädagogischer Anwendung: Wenn Denken körperlich ist, dann kann Lernen nicht auf das Stillsitzen reduziert werden.
 

@@ -89,7 +89,7 @@ Sichere Partnerschaften entstehen nicht durch den richtigen Partner, sondern dur
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Jakobsweg-Podcast mit Lukas Klaschinski, Mai 2026
+- [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Jakobsweg-Podcast mit Lukas Klaschinski, Mai 2026
 
 ---
 

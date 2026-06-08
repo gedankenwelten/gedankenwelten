@@ -2,6 +2,7 @@
 title: Manfred Spitzer — Hirnforscher Feldbach
 aktualisiert: 2026-03-22
 tags:
+  - geistesblitz
   - hirnforschung
   - lernen
   - bildung

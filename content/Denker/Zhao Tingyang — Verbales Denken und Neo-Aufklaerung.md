@@ -168,7 +168,7 @@ Gabriel entwickelt über den japanischen Begriff *Mu* eine fast deckungsgleiche 
 ### → [[Zeitgeist/Hartwin Maas — Bildung NEU DENKEN|Hartwin Maas — Bildung NEU DENKEN]]
 Maas' Unterscheidung Bild-Denker vs. Sprach-Denker ist eine empirische Bestätigung von Zhaos philosophischer These: Sprache ist nomenbasiert und bevorzugt Sprach-Denker systematisch — Bild-Denker (Mandelbrot, Grandin) arbeiten in einem Modus, der dem Verb-Denken näher ist: Prozesse, Transformationen, räumliche Dynamiken vor statischen Kategorien. Zhaos Neo-Aufklärung müsste daher nicht nur neue Logik-Systeme entwickeln, sondern auch neue Bildungssysteme — denn das paläolithische Sprachsystem, das er kritisiert, wird genau im Bildungsapparat reproduziert.
 
-### → [[Denker/Andreas Zimpel — Neurodiversität|Andreas Zimpel — Neurodiversität]]
+### → [[Geistesblitz/Andreas Zimpel — Neurodiversität|Andreas Zimpel — Neurodiversität]]
 Zimpels Kernbefund — dass etwa die Hälfte der Menschen Bild-Denker sind und das Schulsystem sie systematisch benachteiligt, weil es auf Sprache ausgerichtet ist — ist die neurobiologische Untermauerung von Zhaos Sprachkritik. Wenn Nomina-Sprache den Denkraum seit dem Paläolithikum einengt, dann ist Neurodiversität kein Rand-Phänomen, sondern das Auftauchen alternativer Kognitionsmodi, die das herrschende Sprachparadigma nicht abbildet. Mandelbrots Apfelmännchen — zuerst gesehen, dann bewiesen — ist ein konkreter Fall von Verb-Erkenntnis: Prozess vor Begriff.
 
 ### → [[Geistesblitz/Albert Moukheiber — Mein Hirn und die anderen|Moukheiber — Mein Hirn und die anderen]]

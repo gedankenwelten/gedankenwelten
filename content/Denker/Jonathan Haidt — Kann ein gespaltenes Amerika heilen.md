@@ -327,7 +327,7 @@ Fromms Analyse des autoritären Charakters — die freiwillige Unterwerfung unte
 ### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 Heitmeyer beschreibt die Eskalationsstufe, die Haidt befürchtet: Wenn Stammeslogik nicht beruhigt wird, führt sie nicht nur zu Polarisierung, sondern zu *Verrohung* — dem systematischen Abbau von Empathie, Respekt und demokratischen Normen. Haidts Abscheu-Diagnose ist der psychologische Mechanismus; Heitmeyers "Durchrohung" ist das gesellschaftliche Ergebnis.
 
-### → [[Zeitgeist/ARTE — Forschung Fake und faule Tricks]]
+### → [[Geistesblitz/ARTE — Forschung Fake und faule Tricks]]
 Lewandowskis Experiment aus der ARTE-Doku (kognitive Dissonanz und Verschwörungstheorien als Abwehrreaktion auf unwillkommenen wissenschaftlichen Konsens) ist die empirische Bestätigung von Haidts Moral-Foundations-These: Menschen reagieren nicht rational auf Fakten, sondern tribal — Agnotologie greift genau dort an.
 
 ### → [[Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]]
