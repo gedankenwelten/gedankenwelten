@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Nachtsitzung (Benjamin Biersky) — TheTrumpWeek: Ölkrise, KI-Staatsfonds, Thiel
+
+| | |
+|---|---|
+| **Vortrag / Video** | [USA geht das Öl aus: Hat sich die Regierung komplett verkalkuliert? #TheTrumpWeek](https://www.youtube.com/watch?v=bPuhFhAEtBc) |
+| **Notiz** | [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Nachtsitzung_Oel_Transkript.txt` |
+
 ## Wendy Brown — How Neoliberalism Threatens Democracy (INET, 2016)
 
 | | |

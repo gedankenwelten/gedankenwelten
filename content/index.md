@@ -22,11 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### GoodNews
-
-> **08.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
-
 ### Zeitgeist
+
+> **08.06.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
+>
+> Wenn selbst Trumps treueste Geldgeber das Weite suchen, die Ölreserven schwinden und ein KI-Fonds aussieht wie ein Rettungsring für Milliardäre — liest sich das wie der Anfang vom Ende einer Regierung.
 
 > **05.06.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
 >
@@ -44,11 +44,11 @@ Die Gedankenwelten (luc)
 >
 > Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht.
 
-> **03.06.** — [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
->
-> 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
+> → *11 weitere in* [[Zeitgeist]]
 
-> → *10 weitere in* [[Zeitgeist]]
+### GoodNews
+
+> **08.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Denker
 

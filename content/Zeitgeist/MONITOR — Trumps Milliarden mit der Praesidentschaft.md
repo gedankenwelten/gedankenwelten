@@ -205,3 +205,7 @@ Die Epstein-Akten zeigen das Netzwerk; MONITOR zeigt die Methode. Dieselbe Struk
 ### → [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
 
 Tiana dokumentiert aus amerikanischer Innenperspektive mit europäischer Distanz die kulturelle und strukturelle Infrastruktur, die MONITOR als Machtmechanismus zeigt: Das System funktioniert, weil die Bevölkerung konditioniert wurde, es als natürlich zu akzeptieren.
+
+### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
+
+Dieselbe Grundstruktur — politische Macht als direkt monetarisierbares Instrument — nun beim KI-Staatsfonds: Biersky vermutet, der Fonds solle fallende Tech-Aktien aus Trumps Milliardärs-Netzwerk absichern. Privatisierung der Gewinne, Sozialisierung der Risiken in neuer Verkleidung.

@@ -179,3 +179,7 @@ Navidi beschreibt Trumps System als bewusst auf Ausbeutung ausgerichtet; Benjami
 ### → [[Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]]
 
 Wenn ehemalige Verbündete anfangen auszupacken: Ungaro ist ein konkretes Beispiel für bröckelnde Loyalität innerhalb des Trump-Netzwerks
+
+### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
+
+Direkte Fortsetzung: Thiels Emigration und die Républikaner-Dissidenz gegen den Irankrieg sind neue Kapitel der hier beschriebenen Erosion. Die Machtbasis verliert nun auch ihren finanziellen Kern — der Hauptgeldgeber zieht nach Argentinien.
