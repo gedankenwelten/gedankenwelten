@@ -16,6 +16,16 @@ aliases:
 
 # Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt
 
+![[assets/ARTE-42-Koennen-wir-uns-aendern-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Remedios Varo** — warmes Dämmerlicht in Bernstein, Ocker und Tiefgrün, feine Leuchtlinien, mystisch-wissenschaftliche Atmosphäre. Drei Selbste (Vergangenheit, Gegenwart, Werden) weben sich aus *demselben* glühenden Faden — dem Gummiband, das sich dehnt, aber zurückschnellt. Fünf umkreisende Glassphären tragen die Big-Five-Dimensionen (Blatt, Flamme, offene Hand, Knoten, Kompass). Varos Hand, weil diese Note Veränderung nicht als Blitz, sondern als geduldige Selbst-Alchemie erzählt — gebunden an das eigene Material.
+
+*Prompt:* A wide horizontal banner painting, 1200×500, in the style of Remedios Varo — warm dusk palette of amber, ochre, deep teal and soft gold, fine luminous linework, mystical-scientific atmosphere, no photorealism. A quiet alchemical study room rendered as a single continuous space. In the center, a slender hooded figure (no realistic face, only a calm suggestion of a profile) sits at a small wooden apparatus, gently stretching a single glowing elastic thread between both hands — the thread bows under tension but clearly wants to spring back. From the same thread the figure's own robe is woven, as if remaking itself from its own substance. To the left, an older faint duplicate of the figure made of the same thread (the past self); to the right, the thread continues toward a slightly changed version (the becoming self), the transformation small and gradual, not total. Around the figure, five faint orbiting glass spheres on thin arcs, like planetary coordinates, each holding a tiny symbol (a leaf, a flame, an open hand, a knot, a compass) — the dimensions of a character. Soft particles and a single small spark drift upward. Delicate clockwork roots and threads run through the floor and walls, connecting everything. Dreamlike, tender, patient. No text.
+
+</details>
+
 > [!abstract] Worum es geht
 > Der Markt für Persönlichkeitsentwicklung verspricht milliardenschwer: *Am Ende bist du eine bessere Version deiner selbst.* Aber stimmt das überhaupt? Die ARTE-Doku führt von der antiken Säftelehre über die Phrenologie bis zur modernen Big-Five-Forschung — und landet bei einer überraschend doppelten Antwort. Ja, wir können uns verändern, lebenslang; das alte Dogma vom mit 30 zementierten Charakter ist gefallen. Aber nur innerhalb der Dehnbarkeit unseres eigenen „Gummibands", in kleinen Schritten, durch kontinuierliches Training — und vielleicht liegt gerade in der *Stabilität* unserer Persönlichkeit eine unterschätzte Kraft.
 
