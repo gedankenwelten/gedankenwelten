@@ -44,7 +44,7 @@ Quelle: [#32 Kampf gegen Russenpropaganda? (Wertewesten)](https://www.youtube.co
 > **Mark Reicher** — Informatiker und Politik-YouTuber, lebt in Prag. Baute ab 2018 *VisualPolitik DE* auf und **verließ den Kanal im Oktober 2024 mit dem Vorwurf, er sei zum Vehikel russischer Propaganda geworden**. Tonlage eher populistisch-pointiert. Beruft sich in dieser Folge auf eine eigene Familiengeschichte unter einer Diktatur. → [[DenkerVita/Mark Reicher|DenkerVita]]
 
 > [!warning] Eine parteiische Quelle — und das ist hier der Punkt
-> Beide Hosts bezeichnen sich *selbst* als Propagandisten: *„Wir machen hier pro Westen Propaganda. Wir sind die, die keinen Zweifel lassen, dass wir provestlich dastehen."* ([▶ 25:50](https://www.youtube.com/watch?v=sIM_03kJI5A&t=1550)) Diese Note nimmt die Folge nicht als geopolitische Lageanalyse — dafür ist sie zu einseitig (siehe Faktencheck) —, sondern als das, was sie wertvoll macht: ein ehrlicher *Methodenstreit* innerhalb eines Lagers. Auch die Gedankenwelten sind nicht neutral. Der Unterschied ist nicht Neutralität, sondern Transparenz über die eigene Schlagseite.
+> Beide Hosts bezeichnen sich *selbst* als Propagandisten: *„Wir machen hier pro Westen Propaganda. Wir sind die, die keinen Zweifel lassen, dass wir prowestlich dastehen."* ([▶ 25:50](https://www.youtube.com/watch?v=sIM_03kJI5A&t=1550)) Diese Note nimmt die Folge nicht als geopolitische Lageanalyse — dafür ist sie zu einseitig (siehe Faktencheck) —, sondern als das, was sie wertvoll macht: ein ehrlicher *Methodenstreit* innerhalb eines Lagers. Auch die Gedankenwelten sind nicht neutral. Der Unterschied ist nicht Neutralität, sondern Transparenz über die eigene Schlagseite.
 
 ---
 
