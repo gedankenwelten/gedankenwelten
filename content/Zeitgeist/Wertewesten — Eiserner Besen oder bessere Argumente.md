@@ -21,6 +21,16 @@ aliases:
 
 # Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?
 
+![[assets/Wertewesten-Eiserner-Besen-oder-bessere-Argumente-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Honoré Daumier** — politische Lithografie-Karikatur, Kohle und warmes Sepia auf gealtertem Cremepapier, dramatisches Helldunkel. Links fegt eine Figur mit eisernem Besen megafonköpfige Schatten-Stimmen von der Bühne, rechts hält ein Redner die Waage in einem Wirbel aus Federn und Papierblättern; eine dünne Kreidelinie teilt das Podium, darunter das Publikum als dichte Masse kahler Köpfe. Daumier ist die Hand, die die Öffentlichkeit selbst zeichnete — Presse, Rednerbühne, das Zwiegespräch —, mit Mitgefühl und Spott zugleich: genau richtig für eine Note darüber, ob der öffentliche Raum Stimmen ausschließen darf, und ohne in den roten-Keil-Propaganda-Reflex zu fallen.
+
+*Prompt:* Wide panoramic banner, 1200x500, in the hand of Honoré Daumier — 19th-century political lithograph, caricature, dramatic chiaroscuro, charcoal black and warm sepia on aged cream paper, visible litho-crayon grain, no photorealism. A dark wooden stage seen from a low angle. On the LEFT: an exaggerated caricature figure in a frock coat wields an enormous iron broom, sweeping a cluster of small shadowy speaker-figures — each a faceless silhouette with a megaphone for a head — off the edge of the stage into darkness. On the RIGHT: a second caricature figure stands firm, mouth open mid-speech, holding aloft an oversized brass balance scale; loose sheets of paper and quill-pen scribbles swirl around him like a flock of birds. A single thin white chalk line is drawn across the stage floor, dividing the two men. BELOW the stage: a dense crowd of small round bald caricature heads, packed shoulder to shoulder, all tilted upward, watching. Faint lithographic smoke drifts overhead. One single muted-red accent — a thin ribbon tied to the balance scale. Exaggerated theatrical gestures, no realistic faces, satirical but sympathetic. Empty narrow caption strip along the very bottom edge, blank.
+
+</details>
+
 > [!abstract] Worum es geht
 > Muss eine wehrhafte Demokratie Propaganda aus ihren Sendern und Instituten kehren — oder entwertet sie sich damit selbst? In Folge #32 von *Wertewesten* geraten die beiden Hosts erstmals offen aneinander: Torsten Heinrich will „mit eisernem Besen auskehren", Mark Reicher hält das für Zensur und setzt allein auf die besseren Argumente. Es ist das Toleranz-Paradox von Karl Popper, live verhandelt — von zwei Männern, die *beide* erklärt auf derselben Seite stehen und sich trotzdem nicht einig werden, was Freiheit aushalten muss.
 
