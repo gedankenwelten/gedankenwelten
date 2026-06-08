@@ -339,3 +339,7 @@ Konkreter Fallbeleg für institutionalisierte Enthemmung: Zwei Tage nach dem NiU
 ### → [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
 
 Tianas Analyse ist der US-Kontext zu Heitmeyers Empathieverlust-These: Wenn Schulessen-Schulden als "individuelle Verantwortung" gelten und medizinische Insolvenz als "normaler Dienstag" — dann ist Enthemmung gegenüber anderen nicht Einzelfall, sondern strukturelle Konsequenz eines Systems, das Schwäche als persönliches Versagen rahmt.
+
+### → [[MONITOR — Sparhammer gegen Jugendliche]]
+
+Heitmeyers strukturelle Brutalität trifft auf die Jugendhilfe-Kürzungen mit besonderer Schärfe: Wer Einzelfallhilfen durch Gruppenangebote ersetzt und §41a streicht, folgt der Logik der Durchrohung — Sparentscheid als Haushaltszwang kaschiert eine politische Priorisierung, die Schwächste systematisch ausblendet.

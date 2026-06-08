@@ -237,3 +237,7 @@ Konkrete Eskalation der Jahresbilanz-Dynamik: Merz wird beim DGB-Kongress (Mai 2
 ### → [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
 Sahebi und Semsrott benennen denselben Empathiemangel an einem konkreten Fall, den Herrmann hier strukturell fasst: Merz, der öffentlich über eine sterbende Frau hinweggeht und gleichzeitig Diätenerhöhung durchsetzt — Ausdruck einer politischen Klasse, die den Kontakt zur Lebensrealität verloren hat.
+
+### → [[MONITOR — Sparhammer gegen Jugendliche]]
+
+Herrmanns Bilanz-Formel — „Die Reichen werden beschenkt, unten wird gespart" — findet in den Jugendhilfe-Kürzungen ein konkretes Kapitel: 2,7 Milliarden weg bei den Schwächsten, während dieselbe Regierung Kapitalentlastung beschlossen hat. MONITOR liefert die Fallbeispiele für das, was Herrmann strukturell benennt.

@@ -249,3 +249,7 @@ Höfgen führt Flassbecks antizyklisches Kernargument am konkreten Streitfall vo
 > - Wenn Staatsschulden das buchhalterische Spiegelbild privater Ersparnisse sind — *warum ist dann die Angst vor Staatsschulden so viel mächtiger als die Freude über private Ersparnisse?*
 > - Flassbeck lobt Chinas Pragmatismus. Aber China betreibt auch massiven Merkantilismus — dasselbe, was er Deutschland vorwirft. *Gilt das Exportüberschuss-Argument nur, wenn ein liberales Land es tut?*
 > - Die Verbindung Austerität → Rechtsruck ist plausibel — *aber erklären wirtschaftliche Faktoren allein den Rechtsruck, oder legitimiert Flassbeck damit eine Analyse, die andere Ursachen (Identität, Kultur, Medien) unterschätzt?*
+
+### → [[MONITOR — Sparhammer gegen Jugendliche]]
+
+Flassbecks „schwäbische Hausfrau"-Weltbild erklärt, warum Geis-Thönes Investitionsargument politisch nicht ankommt: Jugendhilfe-Ausgaben werden als Kostenfaktor behandelt, nicht als Investition mit messbarem Rückfluss — weil das Denken in gesamtwirtschaftlichen Kreisläufen politisch tabuisiert ist.

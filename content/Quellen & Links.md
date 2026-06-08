@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## MONITOR — Sparhammer gegen Jugendliche (28.05.2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Sparhammer gegen Jugendliche? – MONITOR](https://www.youtube.com/watch?v=84pjpBAJN8s) |
+| **Notiz** | [[Zeitgeist/MONITOR — Sparhammer gegen Jugendliche]] |
+| **Transkript** | `Gedankenwelten/Transkripte/MONITOR_Sparhammer_Jugendliche_Transkript.txt` |
+
 ## Nachtsitzung (Benjamin Biersky) — TheTrumpWeek: Ölkrise, KI-Staatsfonds, Thiel
 
 | | |

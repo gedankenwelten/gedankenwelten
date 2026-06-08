@@ -302,3 +302,7 @@ Varoufakis erklärt den Mechanismus hinter Butterwegges empirischem Befund: Clou
 
 Butterwegge liefert die empirische Untermauerung von Browns Theorie: Browns These, dass neoliberale Marktlogik "natürliche Ungleichheit" normalisiert und damit demokratische Gleichheit als Ausgangsprinzip zerstört, zeigt Butterwegge in messbaren Ungleichheitsdaten — wachsende Armut als Effekt einer Regierungsrationalität, nicht als Politikversagen.
 
+
+### → [[MONITOR — Sparhammer gegen Jugendliche]]
+
+MONITOR dokumentiert, wie §41a-Streichung und Jugendhilfe-Kürzungen genau die Gruppe treffen, die Butterwegge als strukturell benachteiligt beschreibt: junge Erwachsene ohne familiäres Sicherheitsnetz. Das Matthäus-Prinzip in seiner reinsten Form — die Ressourcen werden dort gestrichen, wo kein Kapital zurückfließt, aber hohe gesellschaftliche Kosten entstehen, wenn die Prävention fehlt.

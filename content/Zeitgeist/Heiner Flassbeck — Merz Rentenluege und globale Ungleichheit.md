@@ -147,3 +147,7 @@ Flassbecks Sparparadoxon demontiert theoretisch, was Herrmann in der Bilanz-Rund
 ### → [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 
 Butterwegges Erwerbstätigenversicherungs-Argument und Österreich-Vergleich in der Praxis: Die politische Debatte, in der Flassbecks Sparparadoxon-Kritik an Kapitaldeckung als Gegenargument benötigt wird.
+
+### → [[MONITOR — Sparhammer gegen Jugendliche]]
+
+Volkswirt Wido Geis-Thöne argumentiert bei der Jugendhilfe im selben Modus wie Flassbeck bei Rentenpolitik: Wer heute bei Prävention spart, schafft morgen teurere Abhängigkeit beim Staat (Psychiatrie, Hartz IV, Obdachlosigkeit). Flassbeck liefert das makroökonomische Fundament für das, was Geis-Thöne auf Sozialausgaben anwendet.
