@@ -17,6 +17,16 @@ aliases:
 
 # Hannah Arendt — Denken ohne Geländer
 
+![[assets/Hannah-Arendt-Denken-ohne-Gelaender-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Oskar Schlemmer** — Bauhaus-Figurenmalerei, Architekturraum, kühles Grau-Blau mit ockerfarbenen Gliederpuppen. Schlemmer malte 1932 die *Bauhaustreppe* — Menschen, die ohne Unterstützung Stufen nehmen. Kein anderer Maler hat das Geländer buchstäblich weggelassen; bei ihm ist es ein Dauerthema. Die goldene Lichtlinie als Geländer-Geist — das Fehlende, das sichtbar bleibt — trägt den ganzen Kern dieser Note.
+
+*Prompt:* Oskar Schlemmer style, Bauhaus figure painting, 1932. Wide banner 1200×500px. A monumental staircase fills the space, ascending from lower left to upper right — but the handrail is absent, its ghost visible only as a faint shadow on the wall. Three faceless Schlemmer figures — cylindrical bodies, smooth curved heads, white and pale ochre — move along the stairs at different heights. No two figures take the same path. Each navigates independently, arms slightly extended for balance. The architectural space is spare: grey-blue stone, cool diffuse light from above. One figure near the top pauses, mid-step, suspended. The composition breathes — staircase wide open, figures small against the space. Warm accent: a thin band of golden amber light where the railing would have been. Missing, but remembered. Flat matte surfaces, Schlemmer's geometric humanity. No photorealism, no faces, no text.
+
+</details>
+
 Quelle: [Hannah Arendt: »Denken ohne Geländer« — Herbert und Elsbert Weichmann-Stiftung Hamburg](https://www.youtube.com/watch?v=uNPOVaeawJ0)
 
 > [!info] Wer spricht?

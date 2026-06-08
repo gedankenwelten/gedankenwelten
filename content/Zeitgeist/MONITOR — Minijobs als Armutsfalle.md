@@ -16,6 +16,16 @@ aliases:
 
 # MONITOR — Minijobs als Armutsfalle
 
+![[assets/MONITOR-Minijobs-als-Armutsfalle-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Käthe Kollwitz** — Kohle und Lithografie, 1920er, off-white Papiergrund, expressiver Strich. Kollwitz zeichnete arbeitende Menschen in wirtschaftlicher Not mit Würde, nie mit Mitleid — strukturelles Leid, nicht persönliches Versagen. Der fallende Coin durch das zerrissene Netz, und im Schatten die endlose Reihe identischer Figuren: sieben Millionen Minijobber in einem Bild.
+
+*Prompt:* Käthe Kollwitz charcoal and lithograph style, 1920s. Wide banner 1200×500px. A single figure dominates the left-center of the image: a woman in working clothes, seen from the side and slightly behind, holding a mop handle with both hands. Her posture is upright but tired — not defeated, just carrying weight. No face visible. Beneath her feet, the floor opens into a web of lines — like a net, but with large irregular gaps. Coins fall through the gaps, downward, into darkness. The net is there, but it holds nothing. To the right of the figure: her shadow falls long across the banner — and in the shadow, faintly visible, are smaller silhouettes of other figures, each in a similar posture. Kollwitz's palette: deep charcoal grey, warm dark umber, off-white ground. Heavy, expressive lines. The figure has weight and presence. No sentimentality — just precision. No text. No photorealistic faces. The figure is a type, not a person — but drawn with full human gravity.
+
+</details>
+
 Quelle: [MIES für den Sozialstaat – Warum beharrt die Union auf Minijobs? – MONITOR](https://www.youtube.com/watch?v=aBMl4G-8mpY)
 
 > [!info] Wer spricht?

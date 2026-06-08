@@ -13,6 +13,16 @@ aliases:
 
 # Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt?
 
+![[assets/Walther-Ziegler-Recht-auf-Freiheit-oder-zur-Freiheit-verurteilt-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Caspar David Friedrich** — Romantische Ölmalerei, Rückenfigur an der Wegkreuzung, drei Horizonte. Der erste Prompt ergab eine Blake-Himmelfahrt, die zu religiös wirkte. Friedrich's Rückenfigur ist das ikonischere Bild: Wir werden zur Figur — stehen selbst vor Perikles' Athen (links), dem Revolutionssturm (Mitte) und Sartres Paris (rechts). Die Entscheidung ist nicht getroffen. Die Freiheit ist die Last, die der Mantel trägt.
+
+*Prompt:* Caspar David Friedrich oil painting style, 1818. Wide banner 1200×500px. A single figure seen from behind stands at a dirt crossroads, center frame. Three paths diverge ahead: left into a sun-bleached classical landscape with distant columns; center into a stormy revolutionary sky, a crowd barely visible as silhouettes; right into a grey urban boulevard dissolving into fog. The figure is still. Long coat, no face visible. Arms loosely at sides — not raised, not heroic. Just standing, looking at three possible worlds simultaneously. The sky above is divided: warm ochre left, stormy charcoal center, pale silver right. The three horizons meet at the figure's back. Friedrich's palette: earth tones in the foreground, luminous and atmospheric in the distance. Precise realism in the figure's coat and posture, romantic haze in the distances. No text. No photorealism in faces. The figure is a silhouette of decision.
+
+</details>
+
 Quelle: [Recht auf Freiheit oder zur Freiheit verurteilt? Dr. Walther Ziegler](https://www.youtube.com/watch?v=PmkwJdIt9DU)
 
 > [!info] Wer spricht?
