@@ -2,7 +2,7 @@
 title: "MONITOR — Sparhammer gegen Jugendliche"
 description: "Was Sparlogik mit Menschen macht, die noch keine eigene Stimme haben: 2,7 Milliarden Euro Kürzungen bei der Jugendhilfe — und eine geheime Kanzleramt-Liste, die noch tiefer einschneidet."
 aktualisiert: 2026-06-08
-date: 2026-05-28
+date: 2026-06-08
 tags:
   - zeitgeist
   - soziale-ungleichheit
