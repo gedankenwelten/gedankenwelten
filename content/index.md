@@ -22,6 +22,10 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### GoodNews
+
+> **09.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+
 ### Zeitgeist
 
 > **08.06.** — [[Zeitgeist/MONITOR — Sparhammer gegen Jugendliche|MONITOR — Sparhammer gegen Jugendliche]]
@@ -44,7 +48,7 @@ Die Gedankenwelten (luc)
 >
 > Amerika hat nicht nur strukturelle Defekte — es hat seinen Bürgern ein ideologisches Betriebssystem installiert, das sie davon abhält, diese Defekte als solche zu erkennen.
 
-> → *12 weitere in* [[Zeitgeist]]
+> → *10 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -60,9 +64,11 @@ Die Gedankenwelten (luc)
 >
 > Mouffes ganzes Denken ruht auf einer Unterscheidung: die Politik als Verwaltung, das Politische als unhintergehbarer Konflikt. Warum Demokratie Gegnerschaft braucht.
 
-### GoodNews
+### Geistesblitz
 
-> **08.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+> **08.06.** — [[Geistesblitz/ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt]]
+>
+> Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
 
 ### Panorama
 

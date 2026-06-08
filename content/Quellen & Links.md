@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## ARTE 42 — Können wir uns ändern? (Persönlichkeit)
+
+| | |
+|---|---|
+| **Doku / Video** | [Können wir uns ändern? \| 42 – Die Antwort auf fast alles \| ARTE](https://www.youtube.com/watch?v=tu64Q152mi4) |
+| **Mediathek** | [arte.tv/de/videos/127469-001-A](https://www.arte.tv/de/videos/127469-001-A/koennen-wir-uns-aendern/) |
+| **Notiz** | [[Geistesblitz/ARTE 42 — Koennen wir uns aendern]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Neyer_Bleidorn_Persoenlichkeit_Transkript.txt` |
+| **Experten** | Franz Neyer (Uni Jena), Wiebke Bleidorn (Uni Zürich) |
+
 ## Ernesto Laclau — Macht und Repräsentation
 
 | | |

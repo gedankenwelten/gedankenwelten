@@ -244,6 +244,10 @@ Das eigentliche Ziel:
 
 ## Verbindungen
 
+### → [[ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? (ARTE 42)]]
+
+Das Plädoyer am Ende der Doku — die Gesellschaft *braucht* Vielfalt, jede Eigenschaft hat ihren Wert — ist Zimpels Anliegen in Reinform. Zimpel zeigt mathematisch, dass die Normalverteilung die Illusion homogener Typen erzeugt; die Big Five sind genau eine solche Vermessung von Differenz. Spannung: Wo die Persönlichkeitspsychologie Menschen auf fünf Achsen verortet, warnt Zimpel davor, Differenz als Defizit zu codieren.
+
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 
 Mausfeld: Die Vorstellung einer homogenen Gesellschaft ist ein Herrschaftsinstrument — wer definiert, wer zur Mehrheit gehört, kontrolliert, wer legitime Interessen hat. Zimpel: Die Normalverteilung erzeugt *mathematisch* die Illusion homogener Gruppen. Beide zeigen: Die Idee, Menschen in Kategorien zu pressen (normal/anormal, wir/die anderen), beruht auf einer aktiv produzierten Illusion — nicht auf Tatsachen. Mausfeld erklärt die politische Funktion dieser Illusion, Zimpel beweist ihre mathematische Unhaltbarkeit.

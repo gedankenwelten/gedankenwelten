@@ -208,6 +208,7 @@ Was die Flucht möglich macht, ist nicht nur Mut — es ist eine Dorfkindheit, i
 
 ## Verbindungen
 
+- [[ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? (ARTE 42)]] — Hüthers Neuroplastizität ist das biologische Fundament der Persönlichkeitsveränderung, die die Doku beschreibt: kein fertig gebauter Computer, sondern ständiger Um- und Aufbau. Beide kritisieren dieselbe „Potenzial-heben"-Optimierungsindustrie — Hüthers „Gelingen statt Erfolg" rahmt das Fazit „die Stabilität ist eine Kraft".
 - [[Erich Fromm — Haben oder Sein]] — Fromm und Hüther beschreiben dieselbe Krankheit aus verschiedenen Winkeln: Fromm nennt sie *Haben-Modus*, Hüther nennt sie *Verwicklung*. Beide sehen die Wirtschaft als Treiber, beide setzen auf einen anderen Modus von Existenz — Fromm produktiv-aktiv, Hüther *gelingend* statt erfolgreich.
 - [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas *Resonanz* ist Hüthers *Gelingen*: nicht herstellbar, nicht garantierbar, nur ermöglichbar. Beide kritisieren die Verfügbarmachungslogik. Rosa kommt von der Soziologie, Hüther von der Neurobiologie — sie treffen sich in der Mitte.
 - [[Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke]] — Maios Kritik am Optimierungsmenschen und Hüthers Kritik an der „Potenzial-heben"-Industrie sind wesensverwandt. Beide Denker sehen den modernen Menschen als jemand, der sich selbst zum Projekt gemacht hat — und genau dadurch sein Menschsein verfehlt.

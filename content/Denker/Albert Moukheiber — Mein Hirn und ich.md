@@ -139,6 +139,7 @@ Automatisch reagieren: schnell, ressourcensparend, aber ohne Kontrolle. Innehalt
 
 ## Verbindungen
 
+- [[ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? (ARTE 42)]] — Wenn „Persönlichkeit nur ein Konstrukt" vieler Hirnprozesse ist, stellt sich Moukheibers Frage: *Wer* will sich da eigentlich ändern? Sein Vorhersagegehirn erklärt, warum Selbstbilder so stabil sind — das psychologische Pendant zum „Gummiband" der Persönlichkeitsforschung. Beide misstrauen dem monokausalen Alltagsdenken über das Ich.
 - [[Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] — Direkter thematischer Zwilling: Carbon untersucht ebenfalls, wie Wahrnehmung konstruiert wird und welche Konsequenzen das für unser Weltbild hat — beide kommen aus der Kognitionspsychologie, Carbon stärker aus der Kunstwahrnehmung, Moukheiber aus der klinischen Praxis
 - [[Manfred Spitzer — KI, Gehirn und Lernen]] — Beide arbeiten an der Schnittstelle Neurowissenschaft + gesellschaftliche Relevanz; Spitzer fokussiert auf digitale Sucht und Lernverlust durch Screens, Moukheiber auf kognitive Verzerrungen und mentale Freiheit
 - [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]] — Haidt zeigt, wie A-priori-Annahmen moralische und politische Wahrnehmung formen — Moukheibers Neurobiologie liefert den mechanistischen Unterbau: Vorhersagegehirn + Verfügbarkeitsverzerrung erklären, warum politische Überzeugungen so resistent gegen Fakten sind

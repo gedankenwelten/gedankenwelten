@@ -431,6 +431,7 @@ Wir haben beachtliche Fortschritte bei den Menschenrechten erzielt. Das menschli
 
 ## Verbindungen
 
+- [[ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? (ARTE 42)]] — Die empirische Persönlichkeitsforschung bestätigt Ricards Kernthese: Der Geist ist transformierbar, aber nur durch beharrliche Praxis, nicht durch Vorsatz. Die CHILL-Studie ist die neurowissenschaftliche Übersetzung von Ricards *Bhāvanā* — zugleich markiert das „Gummiband" der Big Five die Grenze, die Ricards spiritueller Optimismus überschreiten will.
 - [[Breathe — Durchatmen App]] — Ricard ist eines der zentralen philosophischen Fundamente der App: das Parfum-Ritual als Kernmechanik, rechte Gesinnung statt Mindfulness-Effizienz, altruistische Liebe als Kern
 
 - [[S.N. Goenka — Vipassana]] — Goenka und Ricard kommen aus unterschiedlichen buddhistischen Traditionen (Theravāda vs. Vajrayāna/Nyingma) und unterschiedlichen Vermittlungsformen (strikte Technik ohne Lehrer-Persönlichkeit vs. Meister-Schüler-Tradition). Aber das Kernziel ist identisch: die Transformation des Geistes durch direkte Erfahrung, nicht durch Glauben. Beide lehnen Glauben ohne Praxis ab. Beide sagen: Das Mitgefühl, das am Ende steht (*Mettā* bei Goenka, *Karunā* bei Ricard), ist keine Leistung des Willens, sondern das natürliche Ergebnis eines gereinigten Geistes. Unterschied: Goenka arbeitet mit einer entkontextualisierten Technik — bewusst ohne Meister-Aura. Ricard vertritt das Gegenteil: Die Übertragung durch Nähe zu einem lebenden Meister ist unverzichtbar.
