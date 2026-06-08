@@ -190,6 +190,10 @@ Eine Formulierung, die das Hard Problem nicht löst — aber seinen Rahmen versc
 
 ## Verbindungen
 
+### → [[Geistesblitz/ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? (ARTE 42)]]
+
+Die Doku feiert „viel hilft viel" und die App-gestützte Senkung des Neurotizismus — Scobel liefert das notwendige Korrektiv: Wer gezielt am eigenen Geist arbeitet, kann sich auch verletzen. Die technokratische Lesart von Persönlichkeitsveränderung (Übung, Training, Messbarkeit) übersieht, dass tiefe Transformation des Geistes kein harmloses Selbstoptimierungs-Tool ist.
+
 ### → [[Zeitgeist/David Chalmers — Das Hard Problem des Bewusstseins]]
 
 Scobels Kernaussage — dass selbst perfektes neuronales Kartieren nicht erklärt, *warum* Jhana-Erfahrungen sich so anfühlen wie sie sich anfühlen — ist eine direkte Anwendung von Chalmers' Hard Problem auf empirische Meditationsdaten. Beide stoßen an dieselbe Erklärungsgrenze: Chalmers von der Philosophie aus, Scobel von der Praxis aus. Dōgens Formulierung ("von den 10.000 Dingen erfahren werden") verschiebt den Rahmen, ohne das Problem zu lösen.
