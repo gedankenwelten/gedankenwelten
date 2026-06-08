@@ -287,6 +287,10 @@ Seine Wirkung reicht weit über Deutschland hinaus: Martin Luther King und Erzbi
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
+
+Bonhoeffers These ist der härteste Einwand gegen Mark Reichers Credo „die besseren Argumente setzen sich durch". Wenn Dummheit ein Zustand sozialer Entmächtigung ist, gegen den Fakten machtlos abprallen, verliert der freie Markt der Ideen seinen Schiedsrichter — genau das Problem, an dem sich die beiden Wertewesten-Hosts im Streit über Meinungsfreiheit vs. „eisernen Besen" abarbeiten.
+
 ### → [[Hannah Arendt — Denken ohne Geländer]]
 
 Bonhoeffer (1943) und Arendt (1963) haben dasselbe Phänomen analysiert — und kommen zu verblüffend ähnlichen Antworten. Aber der Unterschied ist präzise.

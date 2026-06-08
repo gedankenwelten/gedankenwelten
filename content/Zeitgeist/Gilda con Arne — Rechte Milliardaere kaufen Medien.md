@@ -145,6 +145,10 @@ Quelle: [GCA #30: Wie rechte Milliardäre weltweit Medien unter ihre Kontrolle b
 
 ## Verbindungen
 
+### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
+
+Die Mikro- zur Makro-Ebene: Wertewesten streitet über einzelne „Einflussagenten" in Talkshows und um die öffentlich-rechtliche Bühne — diese Note zeigt die strukturelle Dimension dahinter, den Aufkauf ganzer Medienlandschaften. Heinrichs Sorge um einzelne Gäste wirkt klein neben der Frage, wem die privaten Bühnen überhaupt gehören.
+
 ### → [[Evan Osnos — Megayachten und die Seele der Ultrareichen]]
 
 Osnos analysiert die *Psychologie* der Oligarchen; diese Note zeigt, *wohin* diese Mentalität führt: Medien als Machtinstrument. Zusammen ergibt sich der Kreislauf: Vermögenskonzentration → Medienkauf → Diskurshoheit.
