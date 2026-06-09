@@ -15,6 +15,16 @@ aliases:
 
 # Rebecca Böhme — So trickst du dein Gehirn aus
 
+![[assets/Rebecca-Boehme-So-trickst-du-dein-Gehirn-aus-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hilma af Klint** — esoterische Tempera-Diagramme, warmes Cremepapier, Pastell aus Rosé, Himmelblau, Goldocker und Lavendel, konzentrische Ringe und Spiralen. Ihre mystisch-wissenschaftlichen Diagramme unsichtbarer Kräfte sind die exakte Bildgrammatik für das *prädiktive Gehirn*: Die Spirale der Erwartung fließt aus dem Kopf hinaus, trifft die kantigen Splitter der rohen Welt und faltet sie in ihre Ringe. Das warme, hoffnungsvolle Licht passt zu einer Note, die in Handlungsfähigkeit und Freiheit endet — nicht in Düsternis. Die zwei Schwäne: Top-Down und Bottom-Up.
+
+*Prompt:* A wide 1200×500 banner in the manner of Hilma af Klint's esoteric diagrams — soft luminous tempera on warm cream paper, pale rose, sky-blue, gold-ochre and lavender, fine diagrammatic linework, concentric rings and unfurling spirals, no photorealism. On the left, a serene human head in pure profile silhouette (no facial features), domed like a soft opalescent egg. From inside the head a great spiral unfurls forward across the whole banner — concentric rings in graded pastel bands, like a slow ripple of prediction moving outward into the world. Where the spiral reaches the right side, it meets a cluster of small angular incoming forms — sharp blue triangles and raw geometric shards drifting in from the edge — and the spiral's soft curves gently fold these shards into its rings, absorbing them. Two paired curved arrows run the length of the band, one warm gold flowing left-to-right (the mind casting forward), one cool blue flowing right-to-left (the world pressing back), crossing in the luminous center. Two slender swans face each other at the midpoint — one pale, one dark. Along the top edge, a faint horizontal row of tiny alchemical letters, numerals and probability-marks. Floating near the head, a single small chalice-like glass glowing softly. Botanical tendrils and pale circles scattered like a spiritual chart. Everything weightless, hopeful, diffuse — a diagram of an unseen force rather than a scene.
+
+</details>
+
 Quelle: [So trickst du dein Gehirn aus – scobel im Gespräch: Mit Rebecca Böhme](https://www.youtube.com/watch?v=LAUaLHbgTCo)
 
 > [!info] Wer spricht?
