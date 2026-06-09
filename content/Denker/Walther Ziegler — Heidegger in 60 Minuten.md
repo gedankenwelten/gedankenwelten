@@ -12,6 +12,16 @@ aliases:
 
 # Walther Ziegler — Heidegger in 60 Minuten
 
+![[assets/Walther-Ziegler-Heidegger-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Caspar David Friedrich** — deutsche Romantik, das Erhabene, gedämpftes Zwielicht, die einsame Rückenfigur vor der Weite. Statt einer Konzept-Illustration: Friedrichs Rückenfigur ist fast wörtlich Heideggers Dasein — gegenstandslos der Angst und dem Nichts ausgesetzt (wie der „Mönch am Meer"). Das anonyme *Man* löst sich rechts als Nebelmenge auf, und die lichte *Lichtung* mit dem zarten Baum ist Eigentlichkeit und Hölderlins „wo aber Gefahr ist, wächst das Rettende auch".
+
+*Prompt:* Wide panoramic banner, 1200×500, in the hand of Caspar David Friedrich — German Romantic oil painting, the sublime, hushed twilight, a lone figure seen from behind before vast nature. No photorealism, no realistic faces. In the lower center, a single small solitary figure (a Rückenfigur, seen entirely from behind, faceless, in a dark long coat, standing very still) stands at the mouth of a narrow path. The path is a worn forest track that leads away from the viewer, deeper in. To the left and around the figure, tall dark fir trees rise as near-black silhouettes, their crowns lost in drifting fog — a Black Forest at dusk. The firs lean in and crowd, dense and shadowed. Ahead of the figure, the trees part into a clearing — a Lichtung — where pale gold and soft rose light breaks low through the mist, luminous and quiet, as if the woods opened onto something. A single slender bare sapling grows at the clearing's edge, catching the light. Far behind and to the right, half-dissolved in the grey fog, a faint indistinct throng of small grey human shapes blurs together into the haze — a crowd losing its outlines, almost gone. Palette: misty pearl-grey and cool blue-grey fog, deep fir-green and near-black for the trees, the clearing glowing in pale amber, rose and silver. Still, vast, melancholic and sublime — Friedrich's smooth luminous oil surface, tiny human before immense silence.
+
+</details>
+
 Quelle: [Heidegger in 60 Minuten](https://www.youtube.com/watch?v=cG3ol6AYAWI)
 
 > [!info] Wer spricht?
