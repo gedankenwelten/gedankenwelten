@@ -1,6 +1,6 @@
 ---
 title: "Shi Heng Yi — Die Auflösung der Identität"
-description: "Ein Shaolin-Meister demontiert öffentlich die eigene Identität — während der Tempel, den er baute, im Missbrauchsskandal seines früheren „Vaters" zerbricht."
+description: "Ein Shaolin-Meister demontiert öffentlich die eigene Identität — während der Tempel, den er baute, im Missbrauchsskandal seines früheren Lehrmeisters zerbricht."
 aktualisiert: 09.06.2026
 tags:
   - denker
