@@ -410,6 +410,10 @@ Bonhoeffer beschreibt, wie Gruppenmacht Menschen ihres eigenen Urteils beraubt �
 
 Haidts Moral Foundations Theory erklärt, warum narzisstische Führungspersönlichkeiten ganze moralische Gemeinschaften vereinnahmen können: Loyalität, Autorität und Reinheit bilden die Kanäle, über die Stammeslogik wirkt — und ein narzisstischer Leader aktiviert genau diese Kanäle. Die moralische Matrix schützt sich selbst: Kritik von außen wird als Verrat interpretiert, genau wie Hagemeyers Narzisst Kritik als existenzielle Bedrohung erlebt. Narzissmus im Einzelnen × Stammeslogik in der Gruppe = politische Pathologie.
 
+### → [[Denker/Shi Heng Yi — Aufloesung der Identitaet]]
+
+Ein Fallbeispiel für Hagemeyers klinisches Modell aus dem spirituellen Milieu: Der frühere Abt des Shaolin Tempel Europe sprach gezielt Menschen in labilen Krisenphasen an, etablierte sich als Vaterfigur, isolierte sie von Familie und Freunden und nutzte Scham, Gehorsam und Geheimhaltung, um die Wahrheit zu überschreiben — exakt die narzisstische Machtdynamik, die Hagemeyer beschreibt, nur unter dem Deckmantel von Spiritualität.
+
 ---
 
 ## Weiterführend

@@ -46,11 +46,11 @@ Die Gedankenwelten (luc)
 
 > → *10 weitere in* [[Zeitgeist]]
 
-### GoodNews
-
-> **09.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
-
 ### Denker
+
+> **09.06.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
+>
+> Ein Shaolin-Meister demontiert öffentlich die eigene Identität — während der Tempel, den er baute, im Missbrauchsskandal seines früheren „Vaters" zerbricht.
 
 > **08.06.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
 >
@@ -60,9 +60,9 @@ Die Gedankenwelten (luc)
 >
 > Mouffes ganzes Denken ruht auf einer Unterscheidung: die Politik als Verwaltung, das Politische als unhintergehbarer Konflikt. Warum Demokratie Gegnerschaft braucht.
 
-> **17.05.** — [[Denker/Colin Crouch — Postdemokratie nach den Krisen|Colin Crouch — Postdemokratie nach den Krisen]]
->
-> Postdemokratie: Die Fassade der Demokratie bleibt, doch die Substanz wandert zu Eliten und Lobbys. Crouchs Diagnose nach den Krisen.
+### GoodNews
+
+> **09.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Geistesblitz
 

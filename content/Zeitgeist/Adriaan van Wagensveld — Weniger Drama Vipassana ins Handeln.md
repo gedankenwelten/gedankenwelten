@@ -172,3 +172,7 @@ Direkter Widerspruch: Schopenhauer zog aus buddhistischen Prämissen die Konsequ
 ### → [[Vipassana — Sila Samadhi Panna]]
 
 Ethik → Konzentration → Weisheit als Rahmenwerk für Adriaans Stufenmodell: Sila (ethisches Handeln) ist nicht Ergebnis, sondern gleichzeitige Bedingung der Praxis
+
+### → [[Denker/Shi Heng Yi — Aufloesung der Identitaet]]
+
+Produktive Gegenposition. Adriaan plädiert für *engagierten* Buddhismus — Vipassana ins Handeln, „wie kannst du NICHT engagiert sein?". Shi Heng Yi hält dagegen „arbeite an dir, nicht an der Welt" für die tiefere Wahrheit. Doch sein eigener Fall stützt eher Adriaan: Erst das aktive interne Nachforschen brachte den missbrauchenden Abt zu Fall — Innenschau allein hätte ihn gedeckt.

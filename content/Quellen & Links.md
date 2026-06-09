@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Shi Heng Yi (Grenzgänger Studios / Tahir Chaudhry) — Die Enthüllung
+
+| | |
+|---|---|
+| **Interview / Video** | [Darf ich nachfragen, Shi Heng Yi? — Die Fortsetzung. Die Enthüllung.](https://www.youtube.com/watch?v=GgDNc6tBsXc) |
+| **Notiz** | [[Denker/Shi Heng Yi — Aufloesung der Identitaet]] |
+| **DenkerVita** | [[DenkerVita/Shi Heng Yi]] |
+| **Transkript** | `Gedankenwelten/Transkripte/ShiHengYi_Grenzgaenger_Fortsetzung_Transkript.txt` |
+
 ## Wertewesten (Heinrich & Reicher) — Kampf gegen Russenpropaganda? (#32)
 
 | | |

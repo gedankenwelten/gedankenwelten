@@ -458,6 +458,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Sandra Navidi
 **Status:** Stub
 
+## Shi Heng Yi
+**Status:** ✓ Vollanalyse → [[DenkerVita/Shi Heng Yi]]
+
 ## Silke Stremlau
 **Status:** ✓ Vollanalyse → [[DenkerVita/Silke Stremlau]]
 
