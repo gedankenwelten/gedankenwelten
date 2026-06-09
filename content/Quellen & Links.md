@@ -6,14 +6,16 @@ tags:
   - links
 ---
 
-## Shi Heng Yi (Grenzgänger Studios / Tahir Chaudhry) — Die Enthüllung
+## Shi Heng Yi — Die Auflösung der Identität (3 Gespräche)
 
 | | |
 |---|---|
-| **Interview / Video** | [Darf ich nachfragen, Shi Heng Yi? — Die Fortsetzung. Die Enthüllung.](https://www.youtube.com/watch?v=GgDNc6tBsXc) |
+| **Video 1 (Grenzgänger / Tahir Chaudhry)** | [Die Fortsetzung. Die Enthüllung.](https://www.youtube.com/watch?v=GgDNc6tBsXc) |
+| **Video 2 (Hotel Matze)** | [Über Rückbesinnung, genug sein und gute Lebensführung](https://www.youtube.com/watch?v=5Vt6xygiiEI) |
+| **Video 3 (SRF Sternstunde Religion)** | [Wie lerne ich Selbstbeherrschung?](https://www.youtube.com/watch?v=B-DXt1oCKuU) |
 | **Notiz** | [[Denker/Shi Heng Yi — Aufloesung der Identitaet]] |
 | **DenkerVita** | [[DenkerVita/Shi Heng Yi]] |
-| **Transkript** | `Gedankenwelten/Transkripte/ShiHengYi_Grenzgaenger_Fortsetzung_Transkript.txt` |
+| **Transkripte** | `ShiHengYi_Grenzgaenger_Fortsetzung_Transkript.txt` · `ShiHengYi_Rueckbesinnung_Transkript.txt` · `ShiHengYi_SRF_Selbstbeherrschung_Transkript.txt` |
 
 ## Wertewesten (Heinrich & Reicher) — Kampf gegen Russenpropaganda? (#32)
 

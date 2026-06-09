@@ -50,7 +50,7 @@ Die Gedankenwelten (luc)
 
 > **09.06.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
 >
-> Ein Shaolin-Meister demontiert öffentlich die eigene Identität — während der Tempel, den er baute, im Missbrauchsskandal seines früheren Lehrmeisters zerbricht.
+> Ein Shaolin-Meister demontiert öffentlich die eigene Identität — Essenz statt Rolle, Loslassen statt Kontrolle, der Bruch mit dem missbrauchenden Lehrmeister.
 
 > **08.06.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
 >
