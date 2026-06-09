@@ -6,6 +6,16 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 
 # Constanze Kurz — DenkerVita
 
+![[assets/Constanze-Kurz-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Fritz Kahn (*Der Mensch als Industriepalast*) × Otto Neurath Isotype** — technisches Infografik-Diagramm der 1920er, kühle preußischblau-creme Blaupausen-Palette, feine weiße Linien, flache Piktogramm-Figuren, rote Fluss-Pfeile. Kurz' ganzes Argument ist, dass Überwachung *strukturelle Architektur* ist, kein episodischer Missbrauch — also stellt der kühle Maschinen-Querschnitt (Menschen eingespeist, zu identischen Daten-Token gepresst, ein Black-Box-Score, in den niemand hineinsehen kann) ihre These wörtlich aus. Die Hand des Hackers, die das Panel aufbricht, ist das CCC-Ethos der *Demaskierung*, sichtbar gemacht.
+
+*Prompt:* A wide 1200×500 banner as a 1920s technical-diagram infographic in the manner of Fritz Kahn (Der Mensch als Industriepalast) crossed with Otto Neurath's Isotype — cool Prussian-blue and cream blueprint palette, fine white technical linework, flat simplified pictogram figures, a few red accents and dotted flow-arrows, no photorealism, no realistic faces. A great machine-building shown in clean cutaway cross-section, labelled along the top in retro stencil lettering: ÜBERWACHUNGSAPPARAT. On the left, a queue of small simplified pictogram people — different shapes and sizes — steps onto a conveyor belt that feeds them into the apparatus. Inside, camera-eye lenses on jointed stalks scan each figure; a press flattens every person into an identical flat punch-card token. The tokens tumble down into a vast wall of identical filing drawers and a spinning database cylinder, the drawer-tabs reading in tiny type Verdächtige · Zeugen · Opfer, all funnelling into one single merged bin. At the machine's heart, a large round gauge labelled SCORE with a red needle, its mechanism hidden behind a sealed black panel marked with a question mark. On the right, a single oversized human hand wielding a small screwdriver pries open a riveted access panel on the machine's flank — light and tangled gears and wires spill out. Dotted red flow-arrows trace the human-to-data path across the whole diagram. Cool, didactic, precise — a critical blueprint of power.
+
+</details>
+
 ## Biografie
 
 **Constanze Kurz** (geb. 2. März 1974 in Ost-Berlin) ist eine promovierte Informatikerin, Sachbuchautorin und Sprecherin des Chaos Computer Clubs (CCC). Sie hat sich durch jahrzehntealtige Forschung und Advocacy zur führenden Expertin für Überwachungstechnologie, Datenschutz und digitale Grundrechte in Deutschland etabliert.
