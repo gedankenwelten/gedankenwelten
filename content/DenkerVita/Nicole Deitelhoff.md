@@ -6,6 +6,16 @@ tags: [denker-vita, politikwissenschaft, friedensforschung, voelkerrecht]
 
 # Nicole Deitelhoff — DenkerVita
 
+![[assets/Nicole-Deitelhoff-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Sonia Delaunay (Orphismus)** — rhythmisch ineinandergreifende Bögen und Scheiben gesättigter Kontrastfarben, flache Farbbänder, Simultankontrast, dynamische Balance. Delaunays ganze Sprache ist *Kontrast, der Harmonie erzeugt* — zwei entgegengesetzte Farbfelder, die einander brauchen, um zu schwingen. Das übersetzt Deitelhoffs Kernthese exakt: Streit ist kein Fehler, der die Struktur schwächt, sondern die *tragende Spannung*, die den Bogen stehen lässt. Die wenigen leeren, farblosen Kreise, die zu den Rändern driften, tragen leise ihre Warnung: *Das Schweigen ist die Gefahr.*
+
+*Prompt:* A wide 1200×500 banner in the Orphist manner of Sonia Delaunay — rhythmic interlocking arcs and discs of saturated contrasting colour, flat painted bands, simultaneous contrast, dynamic balance, warm and luminous, no photorealism. Two great curved arcs sweep up from the lower-left and lower-right corners and lean into each other to meet at the center — the left arc built from concentric warm bands (crimson, orange, gold), the right arc from concentric cool bands (cobalt, teal, violet). Where they meet at the top they interlock like two clasping hands or the two halves of a stone arch closing on a keystone, and at that join the warm and cool colours overlap into a single bright vibrating disc. The two arcs visibly push against each other — it is precisely their opposition that holds the arch standing, and a small flat platform rests balanced on the keystone where they meet. Around and between the arcs, rhythmic scattered discs, crescents and half-circles in clashing complementary colours pulse outward across the field. A few are deliberately left as pale, empty outlined circles — silent, uncoloured — drifting toward the edges where the rhythm thins out. Everything is counterpoise and circulation: contrast generating harmony, tension carrying weight.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
