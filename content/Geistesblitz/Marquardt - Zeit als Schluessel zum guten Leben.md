@@ -3,7 +3,7 @@ title: "Udo Marquardt — Zeit als Schlüssel zum guten Leben"
 aktualisiert: 2026-05-20
 date: 17.05.2026
 tags:
-  - zeitgeist
+  - geistesblitz
   - gespräch
   - philosophie
   - year-2026

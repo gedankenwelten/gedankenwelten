@@ -480,7 +480,7 @@ Wir haben beachtliche Fortschritte bei den Menschenrechten erzielt. Das menschli
 
 Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004 — seine Gamma-Wellen-Daten sind buchstäblich das empirische Fundament, auf das Scobel seine zweite Meditationswelle aufbaut. Scobel bestätigt aus der Forschungsperspektive, was Ricard aus der Praxis beschreibt: Nicht-Selbst-Erfahrung korreliert mit erhöhter Empathie. Scobels Nebenwirkungsbefund ergänzt Ricards Praxis-Optimismus mit kritischer Wissenschaftlichkeit.
 
-### → [[Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]]
+### → [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben]]
 
 Marquardt im christlichen Aschram Kurishumala, Ricard im himalayischen Kloster Shechen — beide beschreiben denselben Befund: Genügsamkeit und Rhythmus verändern die Qualität von Zeit grundlegend, ohne Zeit als Ressource zu vermehren. Marquardt philosophiegeschichtlich (Augustinus, Gadamer), Ricard neurowissenschaftlich (Davidson-Studien). Beide kommen zum selben Befund: Weniger zu besitzen gibt nicht mehr Zeit, aber andere Zeitqualität.
 

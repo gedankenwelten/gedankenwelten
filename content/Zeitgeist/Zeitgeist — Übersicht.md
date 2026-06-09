@@ -154,7 +154,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]]
 - [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa|Varoufakis — 2008 Crash, Populismus und Europa]]
 - [[Zeitgeist/Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit|Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
-- [[Zeitgeist/Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt|Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt?]]
 - [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir|Welche Freiheit wollen wir? — Möllers trifft Poschardt]]
 - [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]] — Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört.
 - [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
@@ -301,7 +300,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen|Adriaan van Wagensveld — Für dich sorgen heißt für andere sorgen]]
 - [[Zeitgeist/Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln|Adriaan van Wagensveld — Weniger Drama: Wie Vipassana dich ins Handeln bringt]]
 - [[Zeitgeist/Markus Gabriel — Was ist Realitaet|Markus Gabriel — Was ist Realität?]]
-- [[Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben|Udo Marquardt — Zeit als Schlüssel zum guten Leben]]
 
 ### Weitere Stimmen
 
@@ -309,7 +307,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 - [[Zeitgeist/Heinz Bude — Boomer-Soziologie|Heinz Bude — Brauchen wir eine Boomer-Soziologie?]]
 - [[Zeitgeist/Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter|Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]]
-- [[Zeitgeist/Mark Benecke — Umwelt-Messungen Sommer 2026|Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026]]
 - [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren|MONITOR — Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt]]
 - [[Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende: Rolle rückwärts oder wirtschaftlich vernünftig?]]
 - [[Zeitgeist/Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)|Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]]
