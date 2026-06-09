@@ -135,6 +135,10 @@ Zwei Erklärungslinien (Buchinger + Christian Stöcker, *Männer, die die Welt v
 
 ## Verbindungen
 
+### → [[Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke]]
+
+Beide entkräften dasselbe Grundlast-Argument, mit dem Atom und neue Gaskraftwerke begründet werden. Buchinger zeigt über Kosten und Bauzeiten, dass die Kernkraft-„Renaissance" ein Mythos ist; Kail rechnet vor, was die geforderte „verlässliche Grundlast" 2038 konkret füllen muss (104,6 GW Dunkelflaute-Lücke) — und dass der Bestand reicht. Die negative und die positive Hälfte derselben These.
+
 ### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
 
 Buchinger verwendet explizit die „Dummheits"-Rhetorik: Wer 2026 noch die Kernenergie-Platte spielt, zeigt „elementare Verständnisprobleme in Mathematik, Physik und logischem Denken." Bonhoeffers Diagnose — Fakten verfangen nicht, wenn jemand sie schlicht nicht wahrhaben will — beschreibt genau das von Buchinger beklagte Phänomen.

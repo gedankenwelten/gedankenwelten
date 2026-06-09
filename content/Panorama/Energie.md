@@ -190,6 +190,18 @@ Verbundene Notes: [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die
 
 ---
 
+### Die Dunkelflaute schließen — die 104,6-Gigawatt-Rechnung
+
+✅ **Trägt bei** — [[Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke]] liefert die konkrete physikalische Gegenrechnung zur größten offenen Frage dieses Panoramas: *Wie sichert man die Versorgung nach dem Kohleausstieg 2038 ohne neue Gaskraftwerke?* Statt rhetorischer Grundlast-Beschwörung wird die Lücke beziffert — und damit angreifbar.
+
+Die Bilanz für die kälteste Spitzenstunde einer zehntägigen Dunkelflaute: **120 GW Bedarf − 15,4 GW erneuerbare Restleistung = 104,6 GW Lücke** (über zehn Tage rund 19,1 TWh Energie). Diese Lücke schließt Kail über vier Säulen, **komplett aus dem Bestand**: Biomasse-Flexibilisierung (8 GW), abgesicherter EU-Import skandinavischer Wasserkraft (15 GW), Batterie-Kaskade + V2G für die schnellen Tag-Nacht-Wechsel — und für die verbleibenden ~82 GW Dauerlast die **Umrüstung der bestehenden 30+ GW Gaskraftwerke auf grünen Wasserstoff**, ergänzt um Tiefengeothermie (München, Schwerin, Hamburg) zur Fernwärme-Entlastung. Der Saisonspeicher ist das vorhandene 200-TWh-Gasnetz: Sommerüberschuss → Elektrolyse → Winter-Rückverstromung.
+
+Das ist die Synthese, die das Panorama auflöst: Die Petition *gegen* neue Gaskraftwerke und das Vertrauen auf Gas-Backup sind kein Widerspruch — der Bestand reicht, neu bauen muss man nicht. Die ehrliche Schwachstelle bleibt bei den „letzten Prozent" (→ Sektion „KI als trojanisches Pferd"): Der 15-GW-Import unterstellt, dass Skandinavien in *derselben* europaweiten Flaute exportieren kann, und der grüne Wasserstoff im 19-TWh-Maßstab ist 2038 ein ambitionierter Ausbaupfad, kein Bestand.
+
+Verbundene Notes: [[Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke]] · [[Mario Buchinger — Es gibt keine Renaissance der Kernenergie]] · [[Breaking Lab — CO2-Geothermie und Factor 2 Energy]]
+
+---
+
 ### Fossile Subventionen abbauen
 
 ✅ **Trägt bei** — 80–90 Mrd. € fossile Subventionen jährlich abzubauen würde die tatsächlichen Kosten der Energieträger sichtbar machen und den Wettbewerbsvorteil der Erneuerbaren beschleunigen. Das Dieselprivileg, die Kerosinsteuerbefreiung und die Energiesteuer-Ermäßigungen verzerren den Markt systematisch zugunsten fossiler Brennstoffe.
@@ -322,6 +334,7 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 
 ## Offene Fragen
 
+- Hält Kails 104,6-GW-Rechnung auch unter der härtesten Annahme — einer Dunkelflaute, die ganz Europa zugleich trifft und den 15-GW-Skandinavien-Import wegfallen lässt?
 - Wie lange kann Reiche ihre Gaskraftwerk-Linie halten, wenn der CDU-Sozialflügel ihren Rücktritt fordert?
 - Kommt die Stromgebotszonen-Aufteilung aus Brüssel, wenn Berlin sie weiter blockiert?
 - Wird der Batteriespeicher-Markt trotz politischer Benachteiligung wachsen — einfach durch Marktdynamik?
@@ -366,6 +379,7 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 | Bertelsmann Stiftung — Energiewende als Jobmotor (2025) | Lösung · Arbeitsmarkt · Strukturwandel |
 | [[Norio — GICON Hoehenwindturm revolutioniert Windkraft]] | Lösung · Höhenwind · Innovation · Bürgerbeteiligung |
 | [[Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]] | Problem · Netzausbau · Redispatch · Mittelstand |
+| [[Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke]] | Lösung · Dunkelflaute · 100%-Rechnung · Wasserstoff · Geothermie |
 
 ---
 
@@ -385,6 +399,9 @@ Externe Studien und Primärquellen, auf die sich dieses Panorama stützt — ins
 - [LUT/EWG — Global Energy System based on 100% Renewable Energy (Breyer et al.)](https://www.researchgate.net/publication/320934766_Global_Energy_System_based_on_100_Renewable_Energy_-_Power_Sector) — stündlich aufgelöstes 100 %-Szenario für alle Weltregionen bis 2050, kostengünstig; PV als Hauptträger
 - [LUT University — Researchers agree: 100 % renewable before 2050](https://www.lut.fi/en/news/researchers-agree-world-can-reach-100-renewable-energy-system-2050) — Forschungsüberblick zum Konsens des Feldes
 - [Jacobson et al. — Roadmaps to 100 % Clean, Renewable Energy (Earth's Future, 2017)](https://web.stanford.edu/group/efmh/jacobson/Articles/I/17-Earth's_Future.pdf) — Wind/Wasser/Sonne-Pfade für 145+ Länder, alle Sektoren
+- **DIW Berlin** & **Energy Watch Group** — Modellierungen zur vollständigen Dekarbonisierung des Stromsektors; die EWG datiert ein realistisches 100 %-System bereits auf 2030 (Daten-Baseline von [[Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke]])
+- **Umweltbundesamt (UBA)** — Lastprofile & Bruttostromverbrauchs-Szenarien (~800 TWh / 120 GW Winterspitze 2038)
+- [openPetition — gegen den Neubau fossiler Gaskraftwerke](https://www.openpetition.org/gvqkq)
 
 ### Kontroverse: Wie verlässlich ist „die letzten Prozent"?
 
