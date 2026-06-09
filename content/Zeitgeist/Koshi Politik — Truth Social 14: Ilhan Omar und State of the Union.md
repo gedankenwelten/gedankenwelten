@@ -99,7 +99,7 @@ Minnesota-Gouverneur: Diese Mittel versorgen die Ärmsten der Ärmsten mit mediz
 ### → [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 Heitmeyer beschreibt institutionelle Verrohung — der Einsatz staatlicher Ressourcen (Medicaid-Kürzung) als Waffe in persönlichen politischen Fehden ist ein Paradebeispiel.
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 Redecker: Härte als Reaktion auf Unsicherheit. Trumps Sprache über Omar und Tlaib — „zurückschicken", „Anstalt" — ist die Inszenierung von Härte als politisches Versprechen.
 
 ### → [[Geistesblitz/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]

@@ -179,7 +179,7 @@ Das ist kein Reformprogramm — es ist eine Erfindungsaufgabe.
 
 ## Verbindungen
 
-### → [[Zeitgeist/Liya Yu — Neuropolitik und die Grenzen der Moral]]
+### → [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral]]
 
 Beide analysieren den Mechanismus, durch den Menschen zu "töt-baren" oder aus der Moral ausgegrenzten Wesen werden — aber auf radikal verschiedenen Ebenen. Yu erklärt neurobiologisch, wie der präfrontale Kortex abschaltet und Dehumanisierung zur kognitiven Routine wird. Mbembe zeigt, dass dieselbe Dehumanisierung keine individuelle Fehlfunktion ist, sondern eine historisch gewachsene politische Infrastruktur — erprobt in Kolonialkriegen, perfektioniert in der atlantischen Sklaverei. Yus Neuropolitik liefert den Mechanismus, Mbembes Nekropolitik die Architektur: Beide brauchen einander, um das vollständige Bild zu erklären.
 

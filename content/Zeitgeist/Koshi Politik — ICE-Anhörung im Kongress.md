@@ -95,6 +95,6 @@ technologische Ausstattung derselben Behörde
 
 tags darauf läuft das DHS-Budget aus
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 
 Maskierung, Anonymität, fehlende Rechenschaftspflicht als strukturelle Merkmale des neuen Autoritarismus

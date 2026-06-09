@@ -176,7 +176,7 @@ Das Unkomfortable daran: Marcants Methode funktioniert mit denselben algorithmis
 
 Quent analysiert denselben Radikalisierungsmechanismus von der Außenperspektive: Ohnmacht als Einfallstor, Faschismus als Technik der Emotionalisierung. Marcant beschreibt ihn von innen. Und beider Gegenrezept konvergiert: Quents *„Hoffnung kommt vom Machen"* und Marcants Freundschaft als Rettungsanker sind beide Formen wiederhergestellter Selbstwirksamkeit.
 
-### → [[Zeitgeist/Markus Gabriel — Soziale Netzwerke Neue Theorie]]
+### → [[Denker/Markus Gabriel — Soziale Netzwerke Neue Theorie]]
 
 Gabriel erklärt die Architektur, die Felix am eigenen Leib erfahren hat: Der TikTok-Algorithmus ist das Paradebeispiel von *„Sozialität ohne Triangulation"* — es gibt keinen korrigierenden Gegenstand, nur Bestätigungsfeedback. Marcants Beschreibung der algorithmischen Radikalisierungsspirale ist der Erfahrungsbericht zu Gabriels struktureller Diagnose.
 

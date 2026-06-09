@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*235 Notes — automatisch generiert · nach Thema sortiert*
+*229 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -82,7 +82,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
 - [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]] — Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
 - [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
-- [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker — Dieser Drang nach Härte]]
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 - [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen|Evan Osnos — Megayachten und die Seele der Ultrareichen]]
 - [[Zeitgeist/Follow This — Die grüne Horzel in Big Oil|Follow This — Die grüne Horzel in Big Oil]]
@@ -96,7 +95,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch|Gilda Sahebi und Arne Semsrott — GCA #33: Liegenddemos, Schwarz-Rot, Sea-Watch]]
 - [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie|Gilda Sahebi und Arne Semsrott — GCA #35: Die Selbstzerstörung der Sozialdemokratie]]
 - [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
-- [[Zeitgeist/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Der Teufelspakt zwischen Volk und Führung]]
 - [[Zeitgeist/Hartwin Maas — Bildung NEU DENKEN|Hartwin Maas — Bildung NEU DENKEN]]
 - [[Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu|Heiner Flassbeck — Deutschlands größtes Tabu]]
 - [[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude — Gesellschaft der Angst]]
@@ -117,7 +115,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika|KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika]]
 - [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei|Kurz & Görlitz — Palantir und die deutsche Polizei (re:publica 26)]]
 - [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende]]
-- [[Zeitgeist/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
 - [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]]
 - [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
 - [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Matthias Quent und Maja Göpel — Extremismus NEU DENKEN]]
@@ -269,7 +266,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Maja Göpel & Achim Truger — Wachstum NEU DENKEN]]
 - [[Zeitgeist/Mark Benecke — Fragerunde Time Is Up 2026|Mark Benecke — Fragerunde: Time Is Up 2026]]
 - [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?]]
-- [[Zeitgeist/Markus Gabriel — Soziale Netzwerke Neue Theorie|Markus Gabriel — Was die sozialen Netzwerke mit uns machen]]
 - [[Zeitgeist/Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby|Maurice Höfgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
 - [[Zeitgeist/Maurice Hoefgen — Heute Show entlarvt Kanzler Merz|Maurice Höfgen — Heute Show entlarvt Kanzler Merz]]
 - [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade|Michael Sterner — Energiewende-Studie und Reiche-Blockade]]
@@ -286,7 +282,6 @@ Jede Note folgt einer eigenen Struktur:
 ### KI & Technologie
 
 - [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]]
-- [[Zeitgeist/Markus Gabriel — KI als Resonanzfeld und Mu (scobel)|Markus Gabriel — KI als Resonanzfeld und Mu]]
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder|re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?]] — Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen.
 
 ### Medien & Propaganda
@@ -298,7 +293,6 @@ Jede Note folgt einer eigenen Struktur:
 
 - [[Zeitgeist/Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen|Adriaan van Wagensveld — Für dich sorgen heißt für andere sorgen]]
 - [[Zeitgeist/Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln|Adriaan van Wagensveld — Weniger Drama: Wie Vipassana dich ins Handeln bringt]]
-- [[Zeitgeist/Markus Gabriel — Was ist Realitaet|Markus Gabriel — Was ist Realität?]]
 
 ### Weitere Stimmen
 

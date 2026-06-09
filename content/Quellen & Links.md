@@ -1754,7 +1754,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 |---|---|
 | **Interview** | [Historiker Götz Aly über die Nazis & Deutschland 1933 bis 1945 — Jung & Naiv: Folge 781](https://www.youtube.com/watch?v=86Ljg_-KeIo) |
 | **Primärquelle** | *Wie konnte das geschehen? Deutschland 1933 bis 1945* (2025) |
-| **Notiz** | [[Zeitgeist/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung]] |
+| **Notiz** | [[Denker/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Aly_JungNaiv_Transkript.txt` |
 
 ---
@@ -1981,7 +1981,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [Dieser Drang nach Härte — taz Talk meets Buchmesse Leipzig (März 2026)](https://www.youtube.com/watch?v=WiPIygZ8-FI) |
 | **Interview** | [Über den neuen Faschismus — Jung & Naiv Folge 811 (2026)](https://www.youtube.com/watch?v=5J13r4WxCDw) |
 | **Buch** | *Dieser Drang nach Härte. Über den neuen Faschismus* (S. Fischer, 2026) |
-| **Notiz (taz Talk)** | [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]] |
+| **Notiz (taz Talk)** | [[Denker/Eva von Redecker — Dieser Drang nach Härte]] |
 | **Notiz (Jung & Naiv)** | [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] |
 | **Transkript taz** | `Gedankenwelten/Transkripte/Redecker_Haerte_Transkript.txt` |
 | **Transkript Jung & Naiv** | `Gedankenwelten/Transkripte/Redecker_JungNaiv_Transkript.txt` |

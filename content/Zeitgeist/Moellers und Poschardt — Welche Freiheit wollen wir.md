@@ -201,7 +201,7 @@ Frickes Analyse der wirtschaftlichen Stagnation liefert den materiellen Unterbau
 
 Petersdorffs Kulturgeschichte der Leichtigkeit seit den 70ern ist das direkte kulturelle Gedächtnis zur Poschardt-Diagnose: Der neoliberale Freiheitsbegriff war für eine Generation zunächst als Befreiung von großen Erzählungen erlebt — bevor er sich in Selbstoptimierungsdruck umwandelte. Die Frage, wer die Kosten dieser Freiheit trägt (Judith Shklars Freiheit von Furcht), verbindet beide Stränge.
 
-### → [[Zeitgeist/Liya Yu — Neuropolitik und die Grenzen der Moral]]
+### → [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral]]
 
 Yu erklärt neurologisch, warum das linksliberale Menschenbild scheitert — dasselbe Modell, das Poschardt als moralisches Überlegenheitsgefühl angreift. Yus Befund, dass liberale und konservative Gehirne Ambiguität strukturell verschieden verarbeiten, unterfüttert Möllers' Prämisse, dass Demokratie als Aushandlungsprozess den unauflösbaren Dissens institutionell anerkennen muss statt aufzulösen.
 

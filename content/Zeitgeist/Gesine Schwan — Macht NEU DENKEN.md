@@ -241,7 +241,7 @@ Schwan zitiert Fromm explizit zur Psychologie des Narzissmus; Fromms *Furcht vor
 
 drittes NEU DENKEN-Gespräch aus dem Vault; Bücker analysiert Zeitungleichheit als Machtfrage — strukturelle Ergänzung zu Schwans politiktheoretischem Ansatz
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 
 beide zitieren Hannah Arendt als Zeugin der Gegenwart; Redecker beschreibt den neuen Faschismus als Phantombesitz-Verteidigung, Schwan als narzisstische Destruktionskraft — zwei komplementäre Erklärungen desselben Phänomens
 

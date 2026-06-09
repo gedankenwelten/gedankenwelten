@@ -86,5 +86,5 @@ Yu verortet sich selbst als antirassistische Aktivistin und linksliberal, kritis
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
+- [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
 - [[Zeitgeist/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yu — Der neuropolitische Gesellschaftsvertrag]]

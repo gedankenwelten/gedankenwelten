@@ -140,7 +140,7 @@ Heinisch analysiert Trumps innenpolitische Schwächung durch den Iran-Krieg. Die
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 Trump erwähnt direkt im Post-Kontext den Iran-Krieg und setzt die Demokraten danach als „größten verbliebenen Feind" ein. Die außenpolitische Dimension (Irankrieg) und die innenpolitische Instrumentalisierung (Demokraten als Feinde) sind verknüpft.
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 Von Redecker beschreibt den gesellschaftlichen Drang nach Härte als Reaktion auf Unsicherheit. Trumps ICE-Rhetorik — „Sicherheitsmaßnahmen wie Sie noch nie zuvor gesehen haben" — ist ein Paradebeispiel für die Inszenierung von Härte als politisches Versprechen.
 
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]

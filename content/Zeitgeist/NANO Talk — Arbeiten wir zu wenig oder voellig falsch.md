@@ -184,7 +184,7 @@ Das ist kein Sentimentalismus. Es ist eine politische Herleitung: Wer Sorgearbei
 
 ## Verbindungen
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 
 Redecker entwickelt im NANO Talk den Faschismus-Begriff direkt weiter: Sorgeunfähigkeit als faschistische Kernlogik. Dort analysiert sie *Phantombesitz* als Erklärung für autoritäre Wut — hier verlinkt sie das mit der Entwertung von Sorgearbeit als strukturellem Muster.
 

@@ -271,7 +271,7 @@ Das einzige wirksame Gegenmittel, das Aly zeigt, ist erschreckend einfach: **Kü
 
 ---
 
-### → [[Zeitgeist/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Der Teufelspakt zwischen Volk und Führung (Jung & Naiv)]]
+### → [[Denker/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Der Teufelspakt zwischen Volk und Führung (Jung & Naiv)]]
 
 Dasselbe Buch, andere Form: fast fünf Stunden Interview bei Jung & Naiv (Folge 781), in dem Aly durch Tilos Nachhaken Nuancen entfaltet, die im Vortrag fehlen — das Chemie-Modell, die KPD-Kritik, die Geschichte seines Vaters am Warschauer Ghetto, die Warnung vor westlicher Überheblichkeit.
 

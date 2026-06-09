@@ -222,7 +222,7 @@ Gutmairs Kernthese — Algorithmen als eigentliches Diskursproblem, nicht fehlen
 
 Moini nennt das Parteiverbot „das schärfste Schwert des Staates" — Rath würde genau hier einhaken: Wenn selbst das schärfste demokratische Instrument kontraproduktiv wirken kann (AfD nutzt Verbotsdrohung als Wahlkampfmunition), dann ist die Brandmauer-Logik in all ihren Varianten — medial, juristisch, politisch — strukturell dieselbe.
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Denker/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker — Dieser Drang nach Härte]]
 
 Redeckers Analyse der faschistischen Ausnahmezustandsrhetorik — *„Die Meinungsfreiheit ist bedroht"* als Mobilisierungsmotiv — ist die tiefere Erklärung für das, was Jäckels beobachtet: Die Klage über fehlende Meinungsfreiheit speist sich aus realen, aber überdehnt interpretierten Einschränkungen. Redecker liefert die Psychologie, die Bundestalk-Note die rechtliche Phänomenologie.
 

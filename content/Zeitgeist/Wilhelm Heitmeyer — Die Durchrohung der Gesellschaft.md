@@ -272,7 +272,7 @@ Mausfeld analysiert, wie Mediendiskurse die Deutungshoheit sichern und den Demos
 ### → [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
 Heitmeyer beschreibt die gesellschaftliche Symptomebene (Verrohung als kollektives Phänomen), die neue Note die biographische Ursachenebene (Verrohung als durch Eliteerziehung individuell produziertes Charaktermerkmal). Boarding School Syndrome und "rohe Bürgerlichkeit" sind zwei Seiten desselben strukturellen Prozesses.
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 Redecker zitiert Heitmeyer explizit als Grundlage. Ihre Phantombesitz-Theorie erklärt das *Warum* der Gewaltbereitschaft — die psychische Logik hinter dem, was Heitmeyer soziologisch kartiert. Er liefert das empirische Gerüst; sie den philosophisch-kritischen Unterbau.
 
 ### → [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
