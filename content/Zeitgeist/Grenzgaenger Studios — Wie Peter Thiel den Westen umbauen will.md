@@ -16,6 +16,16 @@ aliases:
 
 # Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will
 
+![[assets/Grenzgaenger-Studios-Wie-Peter-Thiel-den-Westen-umbauen-will-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**William Blake** — visionäre Radierung in Aquarell, muskulöse mythologische Figuren, kosmische Linie, prophetisches Licht im Dunkel. Statt kühler Überwachungs-Ästhetik: Blakes **Urizen mit dem Zirkel** („The Ancient of Days") — der kalte Gott-Architekt, der die Welt *vermisst* und in Kasten teilt — ist fast wörtlich Thiel, der Daten-Demiurg. Das Bild trägt zugleich Antichrist-Diskurs, KI-Gott und die zweigeteilte Menschheit: unsterbliche Elite, die ins Licht aufsteigt, getetherte Masse, gebeugt über glühende Bildschirme. Exakt der Untertitel des Buches.
+
+*Prompt:* Wide panoramic banner, 1200×500, in the visionary hand of William Blake — apocalyptic engraving turned watercolour, muscular mythological figures, swirling cosmic line, glowing prophetic light against deep dark. No photorealism, no realistic faces. At the top center, an immense crouching god-architect figure (faceless, only a bowed head and reaching arms, Urizen-like) leans down out of a black sun — a dark all-seeing orb ringed with fire, a single cold radiant eye at its core. From the figure's hand extends a great golden compass and straight beams of measuring light, drawn down like a grid over the world below, dividing and pinning it. The composition is stratified into tiers. In an upper band, a few serene elongated figures rise upward into golden light, ascending, reaching toward the orb — the chosen few. In the lower dark band, a dense crowd of small huddled human figures is bound by glowing taut threads and cables running up to the orb, hunched over little glowing rectangles, heads bowed, tethered. Between the tiers, a thin bright horizontal line of fire separates the risen from the bound. Faint occult lettering and a chain of cryptic symbols arc through the dark sky like a hidden inscription. Swirling storm clouds and ember sparks fill the background. Palette: deep indigo and black ground, ember orange and chrome gold for the divine light, pale flesh tones on the figures, the orb's eye burning cold white-gold. Blake's flowing engraved contour line, muscular and visionary, sublime and foreboding — a prophecy, not a poster.
+
+</details>
+
 Quelle: [GRENZGÄNGER STUDIOS: Wie Peter Thiel den Westen umbauen will](https://www.youtube.com/watch?v=j7EGHo0tcbM)
 
 > [!info] Wer spricht?
