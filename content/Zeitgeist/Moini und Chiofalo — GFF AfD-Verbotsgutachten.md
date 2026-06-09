@@ -16,6 +16,16 @@ aliases:
 
 # GFF-Verbotsgutachten — Kann die AfD verboten werden?
 
+![[assets/Moini-und-Chiofalo-GFF-AfD-Verbotsgutachten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Precisionism (Charles Sheeler / Charles Demuth)** — kühle, hartkantige Tempera, flache Geometrie, Graublau, Knochenweiß und Stahl, eingestencilte Ziffern. Die reverente, maschinelle Strenge des Precisionism trägt die Schwere des Verfassungsrechts und die methodische Sichtung von 2 Millionen auf 33.000 Datenpunkte ohne Melodram. Das Gerichtsgebäude halb im Licht, halb im Schatten verkörpert den moralischen Kern der Note: *Ergebnisoffenheit* — ein bewusst offen gelassenes Urteil. Das *flach hingelegte, vermessene* Schwert (statt der Justitia-Waage) sagt »schärfstes Schwert des Staates« präziser.
+
+*Prompt:* A wide 1200×500 banner in the Precisionist manner of Charles Sheeler and Charles Demuth — cool clean tempera, hard-edged geometric planes, pale grey-blue, bone-white, steel and restrained ochre, integrated stencilled numerals, no photorealism. In the center stands a calm classical court building rendered as clean flat geometry — pale vertical bars for columns, a low triangular pediment, lit so that its left half glows in clear morning light and its right half rests in cool blue shadow, the structure poised exactly between the two (undecided). From the far left, a vast streaming cascade of thousands of tiny identical rectangular cards — a blizzard of data fragments — pours inward and funnels through a narrowing geometric chute, emerging on the other side as a single small, neat, distilled stack of a few cards on a plain table. Laid flat and horizontal across the entire foreground rests one long sword, sheathed and at rest, not raised — a thin ruled measuring-line with fine tick-marks runs the length of its blade, as if it is being measured rather than wielded. Stencilled cleanly into the planes, Demuth-style: the marks »21 II«, 2 000 000 fading to 33 000. A single careful thread of red runs through the otherwise cool composition. Everything precise, weighed, still — balanced on the knife-edge of a decision not yet made.
+
+</details>
+
 Quelle: [re:publica 26 — Nach einem Jahr Arbeit ist unser Gutachten zur AfD so gut wie fertig!](https://www.youtube.com/watch?v=FpGnlpjD-A4)
 
 > [!info] Wer spricht?
