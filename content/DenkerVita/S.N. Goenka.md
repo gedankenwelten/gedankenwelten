@@ -9,6 +9,16 @@ aliases:
 
 # S.N. Goenka — DenkerVita
 
+![[assets/S.N.-Goenka-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee** — durchscheinende Aquarell-Lasuren, flache Bauhaus-Geometrie, Indigo/Gold/Ocker auf gealtertem Papier, handgesetzte Pāli-Worte, das „Magische Quadrat" aus glühenden Farbzellen. Ein Lebensbogen links nach rechts: der starre Kaufmann mit stacheligem Migräne-Halo zwischen Kontorbüchern (*Mandalay*); zur Mitte löst sich der Stachelkranz in ruhige Wellen, der meditierende Körper ist ein Magic-Square-Raster, das an den Rändern in aufsteigend-vergehende Bläschen zerfällt (*ANICCA*); rechts trägt eine Lampe den Hügel hinauf zum Steindom, dahinter die wachsende Bewegung (*die Technik, nicht der Lehrer*). Klees Hand, weil sie die ganze Vipassana-Serie prägt — und das Magic-Square-Raster *ist* der Body-Scan: Zelle für Zelle, Empfindung um Empfindung.
+
+*Prompt:* A wide 1200×500 banner in the style of Paul Klee — translucent watercolour washes, flat Bauhaus geometry, a calm palette of deep indigo blue, warm ochre and gold on aged paper, fine hand-lettered words woven into the image, the "magic square" grid of glowing coloured cells. A left-to-right life arc, three movements flowing into one another: LEFT — a stiff geometric merchant figure stands among angular ledger-shapes and bolts of cloth; above his head a jagged spiky halo in red-ochre pulses outward — a migraine. Faint hand-lettered word "Mandalay". CENTRE — the same figure now seated cross-legged in meditation, the spiky halo resolving into gentle concentric ripples. The seated body is built from a Klee magic-square grid of small luminous coloured cells, and at the body's edges the cells lift off and dissolve into a drift of tiny rising-and-vanishing bubbles — sensations arising and passing. Hand-lettered word "ANICCA" glowing softly. RIGHT — a small flame / oil lamp is carried up a gentle golden hill toward a tall rounded stone dome on the horizon; below it, a row of identical small seated geometric figures repeats and recedes into the distance — a movement spreading. Faint hand-lettered words "die Technik, nicht der Lehrer". A thin golden path links all three across the baseline. No realistic faces — figures are simple geometric forms. No photorealism. Watercolour texture, serene, warm, contemplative.
+
+</details>
+
 → Cortex-Notes: [[Denker/S.N. Goenka — Vipassana]]
 
 ---

@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Gutachter Kail — Stromversorgung 2038 ohne Gaskraftwerke
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Wie sichern wir die Stromversorgung 2038 – OHNE neue Gaskraftwerke?](https://www.youtube.com/watch?v=MB6Il6O3RiU) |
+| **Notiz** | [[Geistesblitz/Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke]] |
+| **Daten-Baseline** | Umweltbundesamt (Lastprofile) · DIW Berlin · Energy Watch Group · Stadtwerke München/Schwerin/Hamburg (Tiefengeothermie) |
+| **Petition** | [openPetition gvqkq](https://www.openpetition.org/gvqkq) |
+| **Transkript** | `Kail_Stromversorgung_2038_Transkript.txt` |
+
 ## Shi Heng Yi — Die Auflösung der Identität (3 Gespräche)
 
 | | |
