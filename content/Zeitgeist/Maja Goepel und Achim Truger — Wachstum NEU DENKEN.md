@@ -178,6 +178,10 @@ Der Autor von „Wie viel ist genug?" (Klassisches Buch zur Wachstumskritik), Ke
 
 Gabriel positioniert sich Anti-Degrowth und liefert mit „true profit" das moralphilosophische Fundament für Goepels/Trugers qualitative Wachstumstransformation
 
+### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
+
+Löschel überträgt Trugers methodischen Einwand auf die Energie: Energiestückkosten statt absoluter Strompreise — dieselbe Kritik an Messgrößen, die die relevante Frage verdecken. Sein Plädoyer für margenstarke Wertschöpfung wäre zugleich Trugers Prüfstein: Effizienzgewinn oder elegant beschriebene Deindustrialisierung?
+
 ---
 
 ## Faktencheck

@@ -316,3 +316,6 @@ Semsrott konkretisiert Schwans "Gestaltungsmacht" durch die Praxis: Freiheitsfon
 
 Schwans normative Machttheorie setzt dort an, wo Browns strukturelle Diagnose endet: Brown zeigt, dass der Neoliberalismus die demokratische Sprache (demos kratia, kollektive Selbstbestimmung) zersetzt — Schwan denkt, wie man sie wiedergewinnen könnte. Ihre Unterscheidung zwischen Herrschaftsmacht und Gestaltungsmacht ist der konzeptuelle Gegenvorschlag zu Browns Befund, dass Demokratie als Marktmodell ihre eigene Grundlage aushöhlt.
 
+### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
+
+Löschels Begleitung des Bürgerenergiegesetzes NRW ist angewandte Gestaltungsmacht: strukturierte Partizipation entmachtet die „laute Minderheit" und macht die stille Mehrheit handlungsfähig — Schwans Machtbegriff, energiepolitisch operationalisiert.

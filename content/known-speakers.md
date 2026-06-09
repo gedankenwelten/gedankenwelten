@@ -85,6 +85,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Adriaan van Wagensveld
 **Status:** ✓ Vollanalyse → [[DenkerVita/Adriaan van Wagensveld]]
 
+## Andreas Löschel
+**Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Loeschel]]
+
 ## Andreas Kemper
 **Status:** Stub
 
@@ -575,4 +578,3 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Wendy Brown
 **Status:** ✓ Vollanalyse → [[DenkerVita/Wendy Brown]]
-

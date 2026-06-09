@@ -1,6 +1,6 @@
 ---
 title: Alle Denker
-aktualisiert: 2026-06-08
+aktualisiert: 2026-06-10
 tags: [meta, denker-vita]
 ---
 
@@ -14,21 +14,19 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
-**[[DenkerVita/Annika Brockschmidt|Annika Brockschmidt]]** — Journalistin und Autorin, freie Mitarbeiterin *Die Zeit*, *Tagesspiegel*, *Frankfurter Rundschau*; Senior Correspondent Religion Dispatches; Expertise: Religiöse Rechte in USA, Rechtsextremismus, Dog Whistles und Codes; Bestseller-Autorin *Amerikas Gotteskrieger* (2021), *Die Brandstifter* (2024); Transatlantic Media Fellow Heinrich-Böll-Stiftung 2022
-
-**[[DenkerVita/Arnd Henze|Arnd Henze]]** — Investigativer WDR-Journalist, evangelischer Theologe; christlicher Nationalismus, antidemokratisches protestantisches Erbe, Bonhoeffer-Vereinnahmung durch die Neue Rechte; EKD-Synode seit 2020
-
 **[[DenkerVita/Abdolkarim Soroush|Abdolkarim Soroush]]** — Iranischer Religionsphilosoph, pro-Demokratie-Aktivist; Qabz va Bast (Kontraktion/Expansion religiösen Wissens), religiöser Pluralismus, Kritik am velayat-e faqih, Reformislam; Erasmus-Preis 2004, Time 100 2005
 
 **[[DenkerVita/Albrecht von Lucke|Albrecht von Lucke]]** — Publizist, Journalist; Blätter-Redakteur; Nischengesellschaft, Konfliktunfähigkeit, Merz-Regierung als Führungsvakuum
 
-**[[DenkerVita/Christoph Moellers|Christoph Möllers]]** — Staatsrechtler und Rechtsphilosoph; Freiheitsgrade, Demokratie als Aushandlungsverfahren, Staat als Ermöglichungsbedingung der Freiheit, Rektor Wissenschaftskolleg Berlin 2026
+**[[DenkerVita/Anabel Ternes von Hattburg|Anabel Ternès von Hattburg]]** — (Vollanalyse vorhanden)
 
-**[[DenkerVita/Ulf Poschardt|Ulf Poschardt]]** — Publizist und Journalist; Schitbürgertum-Diagnose, Kritik am linksliberalen Milieu, kulturelle Hegemonie, Kittler-Schüler, Herausgeber der Welt
+**[[DenkerVita/Andreas Loeschel|Andreas Löschel]]** — Energieökonom, Professor Ruhr-Universität Bochum; Vorsitzender der Expertenkommission zum Energiewende-Monitoring; IPCC Koordinierender Leitautor Energiesysteme 7. Sachstandsbericht; Dreikonflikt Energiewende (Bezahlbarkeit, Klimaschutz, Resilienz), verhaltensökonomische Strommarktfundierung; Deutscher Wirtschaftspreis 2022
+
+**[[DenkerVita/Annika Brockschmidt|Annika Brockschmidt]]** — Journalistin und Autorin, freie Mitarbeiterin *Die Zeit*, *Tagesspiegel*, *Frankfurter Rundschau*; Senior Correspondent Religion Dispatches; Expertise: Religiöse Rechte in USA, Rechtsextremismus, Dog Whistles und Codes; Bestseller-Autorin *Amerikas Gotteskrieger* (2021), *Die Brandstifter* (2024); Transatlantic Media Fellow Heinrich-Böll-Stiftung 2022
+
+**[[DenkerVita/Arnd Henze|Arnd Henze]]** — Investigativer WDR-Journalist, evangelischer Theologe; christlicher Nationalismus, antidemokratisches protestantisches Erbe, Bonhoeffer-Vereinnahmung durch die Neue Rechte; EKD-Synode seit 2020
 
 ## B
-
-**[[DenkerVita/Bernhard Poerksen|Bernhard Pörksen]]** — Medienwissenschaftler, Professor Tübingen; Filterclash, Redaktionelle Gesellschaft, respektvolle Konfrontation
 
 **[[DenkerVita/Barbara Tversky|Barbara Tversky]]** — Kognitionspsychologin (Stanford, Columbia Teachers College); Spatial Cognition als Fundament der Menschheit, Mind in Motion, Embodied Thinking, Gesten als externe Kognition
 
@@ -53,6 +51,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Constanze Kurz|Constanze Kurz]]** — Informatikerin, CCC-Sprecherin, netzpolitik.org-Redakteurin; Technologiekritik, Datenschutz, Überwachung durch Polizei-Software wie Palantir; Vortragende zu Grundrechten im digitalen Zeitalter, technische Sachverständige vor Bundesverfassungsgericht; Theodor-Heuss-Medaille 2013
 
 **[[DenkerVita/Cordula Tutt|Cordula Tutt]]** — Wirtschaftsjournalistin, Autorin (WiWo Hauptstadtbüro Berlin); Expertise: Strukturreformen durch Effizienz (nicht Kürzung), Rentensysteme, Gesundheitsökonomie, Steuergerechtigkeit; Autorin *Das große Schrumpfen* (2007); Kernerkenntnis: Zielgenauigkeit in Sozialsystemen schützt echte Arme besser als Gießkannenprinzip
+
+**[[DenkerVita/Christoph Moellers|Christoph Möllers]]** — Staatsrechtler und Rechtsphilosoph; Freiheitsgrade, Demokratie als Aushandlungsverfahren, Staat als Ermöglichungsbedingung der Freiheit, Rektor Wissenschaftskolleg Berlin 2026
 
 ## D
 

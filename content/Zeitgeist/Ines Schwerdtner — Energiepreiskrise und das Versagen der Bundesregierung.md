@@ -208,3 +208,7 @@ Felix zeigt konkret, welche Technologie-Entscheidungen falsch getroffen werden (
 - [[Maja Goepel — Mut zur Zukunft]] — Göpel zeigt, wie dezentrale Energieversorgung Agency freisetzen kann — das konstruktive Gegenstück zu Schwerdtners Krisendiagnose.
 
 - [[Michael Sterner — Energiewende-Studie und Reiche-Blockade]] — Sterner konkretisiert Schwerdtners Postpolitik-Diagnose: Das Ministerium versteckt aktiv Studien, die der eigenen Linie widersprechen. Beide konvergieren bei der Übergewinnsteuer als blockierter Lösung.
+
+### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
+
+Löschel diagnostiziert dasselbe Muster — reaktive Einzelmaßnahmen destabilisieren Erwartungen —, zieht aber die marktwirtschaftliche Gegenkonsequenz: verlässliche Preissignale statt Übergewinnsteuer und Preisbremse. Der produktivste Widerspruch zu Schwerdtners Interventionslogik.
