@@ -13,6 +13,16 @@ aliases:
 
 # Udo Marquardt — Zeit als Schlüssel zum guten Leben
 
+![[assets/Marquardt-Zeit-als-Schluessel-zum-guten-Leben-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Marc Chagall** — Gouache und Öl, tiefes Mitternachtsblau mit warmem Bernsteinlicht, schwebende Schwerelosigkeit, volkspoetisch und zärtlich. Bei Chagall verliert die mechanische Zeit ihre Schwerkraft: Die geflügelte Pendeluhr (Newtons absolute Zeit) treibt von ihrer Verankerung los, während eine schwebende Gestalt ins erleuchtete Kindheitszimmer zurückkehrt — der Harrison-/*My Sweet Lord*-Moment, in dem Klang einen Raum der Erinnerung öffnet. Der Fiedler auf dem Dach (Marquardt, der Musiker) schickt seine Noten hinauf, und ein goldener Lichtfaden webt alles zusammen — Arendts Faden im Gewebe der Welt. Genau diese Hand malt „Zeit sind wir selbst".
+
+*Prompt:* Wide panoramic banner, 1200×500, in the dreamlike hand of Marc Chagall — gouache and oil, deep midnight-blue night washed with warm amber and lamp-yellow glows, soft floating weightlessness, figures and objects unmoored from gravity, folk-poetic and tender. Left third: a large old pendulum wall-clock with brass weights, but tilted and adrift in the air — small feathered wings sprouting from its wooden case, drifting sideways off its mooring, no longer hanging on any wall. Mechanical time set loose. Center and right: a human figure (faceless, only a soft suggestion of a head, eyes closed) floating horizontally across the sky as if weightless, drifting toward a single glowing window that opens onto a warm yellow childhood room — a small bed, a lamp, a chair, seen tiny and luminous inside the frame, like a memory reopening. Below the floating figure, a small fiddler or guitarist seated on a rooftop, playing, notes drifting upward as little glowing marks. A thin ribbon or thread of golden light weaves through the whole scene, looping past the winged clock, the floating figure, the lit window — one continuous woven line. A thin crescent moon and a scatter of stars in the deep blue. A faint sleeping village of blue rooftops along the lower edge. No photorealism, no realistic faces, painterly visible brushwork, dream-logic composition, warm and contemplative.
+
+</details>
+
 Quelle: [Jetzt! – Die Zeit als Schlüssel zum guten Leben | Sternstunde Philosophie | SRF Kultur](https://www.youtube.com/watch?v=tHLhqbmfGkg)
 
 > [!info] Wer spricht?
