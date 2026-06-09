@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*229 Notes — automatisch generiert · nach Thema sortiert*
+*230 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -250,6 +250,7 @@ Jede Note folgt einer eigenen Struktur:
 ### Wirtschaft
 
 - [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet|Alex Demirović und Isabell Lorey — Foucaults Gouvernementalität]]
+- [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN|Andreas Löschel — Strom NEU DENKEN]] — Negative Strompreise sind kein Marktversagen, sondern ein Designproblem — und die Standortdebatte müsste auf Energiestückkosten schauen, nicht auf die Kilowattstunde.
 - [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 - [[Zeitgeist/Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
 - [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]] — Souveränität ist Wahlfreiheit, nicht Isolation — über Europas 90%-Abhängigkeit von US-Tech und Vertrauen als europäischen Gegenentwurf.

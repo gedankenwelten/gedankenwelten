@@ -17,6 +17,16 @@ aliases:
 
 # Andreas Löschel — Strom NEU DENKEN
 
+![[assets/Andreas-Loeschel-Strom-NEU-DENKEN-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee** — Aquarell auf körnigem Papier, dünne Spinnenbein-Linien über warmen Ocker- und Abendblau-Feldern, im Geist der *Zwitschermaschine*. Links die überbordende Sonne, die Dutzende Goldfäden ins Bild regnet; in der Mitte die filigrane Marktmaschine auf Drahtbeinen — Waage mit drei Schalen („sicher, sauber, bezahlbar"), Preiszeiger unter der Null; rechts die kleinen Häuser mit sturen Gasflämmchen, nur eines hängt am Sonnenfaden und glüht. Klees Hand, weil diese Note von einem zarten Uhrwerk erzählt, das neu eingestellt werden muss — und die ungenutzten Goldspiralen am Boden sind Löschels ganze Diagnose: nicht zu wenig Energie, sondern eine Maschine, die die Fülle noch nicht fassen kann.
+
+*Prompt:* A wide 1200×500 banner in the style of Paul Klee — delicate watercolor on textured paper, flat Bauhaus geometry, thin spidery pen lines over soft color fields, warm earthy palette of ochre, sand, burnt orange and muted teal, fading to a cool dusk blue on the right edge. On the left, a large radiant Klee sun: concentric circles of gold, orange and pale yellow, generously raining dozens of thin golden threads diagonally down into the scene — an overflowing abundance of light. In the center, standing on spindly wire legs, a whimsical fragile machine drawn in thin black line, reminiscent of Klee's Twittering Machine: a hand crank, small gears, and a balance with three tiny pans arranged as a triangle, hand-lettered in small naive script "sicher", "sauber", "bezahlbar". Attached to the machine, a round price gauge whose long thin needle dips clearly BELOW a horizontal zero line into a small cool blue zone marked "0" — the dial overwhelmed by the golden threads pouring onto it. The machine visibly cannot catch all the falling sun-threads; some threads coil unused on the ground as loose golden spirals. On the right, a row of small flat Klee houses in muted ochre and rose; most windows hold a tiny stubborn gas flame, but one single house is connected by one golden thread to the sun and its window glows warm yellow. Two or three small pinwheel wind turbines as simple child-like shapes between the houses. A faint hand-written word "Tradeoffs" woven horizontally into the watercolor ground like a watermark. Grainy paper texture, gentle and wise, slightly melancholic but warm. No photorealism, no realistic faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > Negative Strompreise sind kein Marktversagen, sondern ein Designproblem — und die Standortdebatte müsste auf Energiestückkosten schauen, nicht auf die Kilowattstunde. Energieökonom Andreas Löschel seziert mit Maja Göpel die deutsche Strompreisdebatte: Warum das EEG ein Opfer seines eigenen Erfolgs wurde, warum eine „laute Minderheit" die Akzeptanzlage verzerrt, und warum der Tankrabatt die Energiewende tiefer beschädigt als jede einzelne Fehlinvestition — weil er Erwartungen zerstört.
 
