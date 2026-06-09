@@ -3,7 +3,7 @@ title: "Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt?"
 aktualisiert: 2026-04-26
 date: 2026-04-26
 tags:
-  - zeitgeist
+  - geistesblitz
   - philosophie
   - demokratie
   - year-2026

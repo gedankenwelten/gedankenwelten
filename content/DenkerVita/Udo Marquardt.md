@@ -139,7 +139,7 @@ Marquardt positioniert sich nicht explizit politisch, aber seine Philosophie hat
 
 Alle Gedankenwelten-Notes die Marquardt behandeln:
 
-- [[Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]] — Vollständige Analyse des SRF-Gesprächs mit Yves Bossart (Mai 2026)
+- [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben]] — Vollständige Analyse des SRF-Gesprächs mit Yves Bossart (Mai 2026)
 
 ---
 

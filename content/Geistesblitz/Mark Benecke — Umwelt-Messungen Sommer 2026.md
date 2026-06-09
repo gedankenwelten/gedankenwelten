@@ -3,7 +3,7 @@ title: "Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026"
 aktualisiert: 2026-05-11
 date: 11.05.2026
 tags:
-  - zeitgeist
+  - geistesblitz
   - klimawandel
   - umwelt
   - wissenschaft

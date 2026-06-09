@@ -275,7 +275,7 @@ tags:
 | | |
 |---|---|
 | **Gespräch / Video** | [Jetzt! – Die Zeit als Schlüssel zum guten Leben](https://www.youtube.com/watch?v=tHLhqbmfGkg) |
-| **Notiz** | [[Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben]] |
+| **Notiz** | [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Marquardt_Zeit_Transkript.txt` |
 
 ## Moini & Chiofalo — GFF AfD-Verbotsgutachten (re:publica 26)
@@ -1785,7 +1785,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Der Mensch ist besser als sein Ruf — Neue Akropolis](https://www.youtube.com/watch?v=q6NgchdDIbQ) |
-| **Notiz** | [[Denker/Neue Akropolis — Der Mensch ist besser als sein Ruf]] |
+| **Notiz** | [[Geistesblitz/Neue Akropolis — Der Mensch ist besser als sein Ruf]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Mensch_Kooperation_Konkurrenz_Transkript.txt` |
 
 ---
