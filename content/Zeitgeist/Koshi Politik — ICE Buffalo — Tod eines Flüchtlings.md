@@ -100,6 +100,6 @@ zwei Tage zuvor: Ausbildungsdefizite, die solche Situationen strukturell produzi
 
 Heitmeyer: Institutionelle Roheit als systemisches Phänomen. Dieser Fall ist kein Einzelfall — er ist Produkt einer Behörde, die Konsequenzen nicht einkalkuliert, weil es keine gibt.
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 
 Härte als politisches Versprechen — und Nurul Alam als sein Preis

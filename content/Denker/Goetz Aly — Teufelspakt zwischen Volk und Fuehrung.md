@@ -3,7 +3,7 @@ title: "Götz Aly — Der Teufelspakt zwischen Volk und Führung"
 aktualisiert: 2026-05-03
 date: 25.09.2025
 tags:
-  - zeitgeist
+  - denker
   - geschichte
   - nationalsozialismus
   - demokratie

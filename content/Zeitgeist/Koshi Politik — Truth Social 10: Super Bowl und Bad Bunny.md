@@ -85,7 +85,7 @@ Charlie Kirkes Organisation organisierte eine **alternative Super Bowl Halftime 
 ### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]]
 Liam Ramos — der Fünfjährige — erscheint hier in der Super Bowl Show als Symbol. Die ICE-Deportation ist in der früheren Note dokumentiert.
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 Redecker: Härte als politisches Versprechen. Bad Bunnys Botschaft — Liebe ist stärker als Hass — ist die direkte Gegenbotschaft.
 
 ### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]

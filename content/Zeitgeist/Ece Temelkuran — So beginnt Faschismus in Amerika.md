@@ -257,7 +257,7 @@ Debatte über Trump vs. Putin als Demokratiegefährdung spiegelt Temelkurans Fas
 
 Parallele Exil-Erfahrung: Amiri (Iran) wie Temelkuran (Türkei) berichten aus erzwungenem Exil. Geteiltes Muster: Sicherheitsapparate übernehmen die Fassade religiöser/demokratischer Institutionen.
 
-### → [[Zeitgeist/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Teufelspakt zwischen Volk und Führung]]
+### → [[Denker/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Teufelspakt zwischen Volk und Führung]]
 
 Aly liefert das historische Pendant zu Temelkurans Stufenmodell: Die Weimarer Demokratie wurde nicht von außen zerstört, sondern von innen ausgehöhlt — und die Bevölkerung wurde durch materielle Verstrickung einbezogen. Sein Chemie-Modell (harmlose Elemente → explosive Mischung unter Druck) bestätigt Temelkurans These, dass Demokratien ihre eigenen Totengräber produzieren.
 

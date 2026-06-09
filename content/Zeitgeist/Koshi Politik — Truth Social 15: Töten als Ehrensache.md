@@ -91,7 +91,7 @@ Deutscher Text des Posts:
 
 ## Verbindungen
 
-### → [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+### → [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 Redeckers „Drang nach Härte" findet hier seinen Höhepunkt: nicht mehr Härte als Mittel, sondern Töten als Selbstzweck — als Ehre.
 
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]

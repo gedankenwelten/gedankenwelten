@@ -234,7 +234,7 @@ Finkelde bezeichnet Nietzsche als "Drehscheibe", von der Poststrukturalismus und
 
 Strukturelle Gegenspannung: Popper glaubt an Falsifikation als universelles Wahrheitskriterium — genau das, was Lyotard als illegitime Metaerzählung der Wissenschaft dekonstruiert. Gleichzeitig teilen beide das Ende der Geschichtsteleologie: Poppers Historizismus-Kritik und Lyotards Ende der großen Erzählungen sind strukturell verwandt, kommen aber aus entgegengesetzten Richtungen.
 
-### → [[Zeitgeist/Markus Gabriel — Soziale Netzwerke Neue Theorie]]
+### → [[Denker/Markus Gabriel — Soziale Netzwerke Neue Theorie]]
 
 Gabriel verwendet Postmoderne als "gegenstandslose Sozialität" und positioniert sich damit gegen Lyotards Auflösung von Triangulation. Wo Lyotard das Ende der legitimierenden Metaerzählungen diagnostiziert, macht Gabriel die Konsequenz zum Problem: Ohne Gegenstand kollabiert der Dissens zur bloßen Sozialität — eine direkte Auseinandersetzung mit Lyotards Erbe, ohne seinen Namen zu nennen.
 

@@ -210,7 +210,7 @@ Musk ließ Wikipedia von Grok umschreiben zu *„Grokipedia"* — mit verfälsch
 
 **Kult-Zerfall:** [[Zeitgeist/Koshi Politik/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]] — Kemper: Die drei Faschismus-Typen (völkisch, klerikalfaschistisch, technofaschistisch) bilden fragile Koalitionen. Fuentes (Klerikalfaschismus) und Kent (anti-imperialistischer MAGA-Flügel) verlassen die Koalition aus gegensätzlichen Gründen — genau der Widerspruch, den Kemper in seiner Typ-Analyse beschreibt.
 
-**Härte als faschistisches Prinzip:** [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]] — Redeckers taz-Talk liefert den emotionalen/affektiven Rahmen, den Kempers theoretische Faschismusanalyse voraussetzt.
+**Härte als faschistisches Prinzip:** [[Denker/Eva von Redecker — Dieser Drang nach Härte]] — Redeckers taz-Talk liefert den emotionalen/affektiven Rahmen, den Kempers theoretische Faschismusanalyse voraussetzt.
 
 **Historischer NS-Kontext:** [[Denker/Götz Aly — Wie konnte das geschehen]] — Aly fragt, wie normale Menschen zum Mitmachen gebracht wurden. Kempers Theweleit-Linie (Faschismus durch Gewalt reproduziert) gibt eine komplementäre psychologische Antwort: nicht nur Verführung, sondern Formierung durch Gewalt.
 
@@ -281,7 +281,7 @@ Jung warnt: AfD-Intellektuelle adaptieren Gramscis Hegemonietheorie — Kempers 
 
 Steinke beleuchtet den Verfassungsschutz aus juristischer Perspektive: V-Leute-Problem, Seehofers Intervention beim AfD-Gutachten, historische Kontinuität von Gestapo-Personal — ergänzt Kempers soziologische AfD-Analyse um die institutionelle Dimension
 
-### → [[Zeitgeist/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Teufelspakt zwischen Volk und Führung]]
+### → [[Denker/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Teufelspakt zwischen Volk und Führung]]
 
 Aly warnt vor pauschalen Faschismus-Begriffen, liefert aber mit dem Chemie-Modell ein differenzierteres Werkzeug: harmlose Einzelelemente (Sozialpolitik, Rassismus, Propaganda) werden unter Druck explosiv. Sein historischer Befund — die NSDAP nutzte linke Forderungen als Loyalitätsinstrument — ergänzt Kempers Analyse der AfD-Taktik.
 

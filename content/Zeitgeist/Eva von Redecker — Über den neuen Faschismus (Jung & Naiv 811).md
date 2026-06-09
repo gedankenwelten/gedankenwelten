@@ -29,7 +29,7 @@ Gesprächspartner: Tilo Jung
 > [!tip] Kanal unterstützen
 > *Jung & Naiv* ist spendenfinanziert und werbefrei — einer der wichtigsten deutschsprachigen Interview-Podcasts. Unterstützenswert: [jungundnaiv.de/mitglied-werden](https://www.jungundnaiv.de/mitglied-werden/)
 
-Begleitnote: [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]]
+Begleitnote: [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 
 > [!info] Wer spricht?
 > **Eva von Redecker** — Philosophin, freie Autorin. Ihr Buch *Dieser Drang nach Härte. Über den neuen Faschismus* (S. Fischer, 2026) erscheint in dieser Woche. Dritter Besuch bei **Tilo Jung** (Jung & Naiv). Fast 3 Stunden Gespräch — deutlich tiefer und breiter als der taz Talk.
@@ -317,7 +317,7 @@ Sie versteht sich nicht als Vorgabe-Geberin, sondern als *Diagnostikerin von Bew
 
 ## Verwandte Notes
 
-- [[Zeitgeist/Eva von Redecker — Dieser Drang nach Härte]] — kompakte Buchvorstellung (taz Talk)
+- [[Denker/Eva von Redecker — Dieser Drang nach Härte]] — kompakte Buchvorstellung (taz Talk)
 - [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] — konkrete Analyse digitaler Faschismus-Formen
 - [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — Mühlhoff ergänzt Redeckers Phantombesitz-Theorie um eine strukturelle Erklärung: Tech-Kapital wird zwingend antidemokratisch, weil exponentielles Wachstum demokratische Ressourcenprinzipien unterläuft; beide diagnostizieren Faschismus als neuen Systemzustand, nicht als Ausnahme
 - [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kempers Vortrag mit der Theoriebasis (Griffin, Theweleit) und dem Klerikalfaschismus-Netzwerk (Beatrix von Storch, Edmund von Waldstein/JD Vance): Komplementärperspektive zu Redeckers Phantombesitz-Ansatz
