@@ -17,6 +17,16 @@ aliases:
 
 # Stromversorgung 2038 — ohne neue Gaskraftwerke
 
+![[assets/Gutachter-Kail-Stromversorgung-2038-ohne-Gaskraftwerke-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Fortunato Depero / Italienischer Futurismus** — flache, kühne Farbflächen, elektrische Bögen, Maschinen-Optimismus, Energie in Bewegung. Diese Note ist kühl, technisch und feiert die Ingenieurskunst gegen die Dunkelheit — keine warme Klee-Sprache, sondern die Hand, die *Strom selbst* malt. Das Kernmotiv der Note wird wörtlich gebaut: vier leuchtende Säulen, die über den dunklen Abgrund der Dunkelflaute (die 104,6-GW-Lücke) eine Last tragen — links die frostige Windstille, rechts die erleuchtete Stadt.
+
+*Prompt:* Wide panoramic banner illustration, 1200×500px, in the style of Italian Futurism — Fortunato Depero and Giacomo Balla: flat bold geometric color planes, dynamic electric arcs, machine optimism, radiating lines suggesting energy in motion. No photorealism, no realistic faces. Left third: a frozen windless winter — dark cobalt and slate-grey fog, a pale dim sun behind thick clouds, motionless wind turbines, a dark wedge-shaped chasm cutting into the ground. Center: four tall glowing pillars bridging the chasm — (1) green pillar of biomass/biogas tanks; (2) deep-blue pillar of HVDC towers and northern hydro cascading from mountains; (3) amber pillar of stacked batteries with small cars feeding arrows back into the grid; (4) orange-red pillar of hydrogen flames above gas turbines, geothermal heat-veins rising from deep strata. Right third: a bright energized city silhouette, lights on, power lines sweeping across in Futurist diagonals, faint numbers and arrows woven in. Cold dark palette left resolving into warm electric glow right.
+
+</details>
+
 > [!abstract] Worum es geht
 > Spätestens 2038 ist Schluss mit der Kohle, und der Strombedarf steigt durch Wärmepumpen, E-Autos und Industrie massiv. Die naheliegende Angst: Ohne neue Gaskraftwerke gehen in der Dunkelflaute die Lichter aus. Diese Note rechnet die Physik nüchtern durch — und zeigt, dass die gefürchtete 104,6-Gigawatt-Lücke über vier Säulen aus dem **Bestand** schließbar ist, ohne einen einzigen fossilen Neubau. Es ist kein Optimismus, sondern eine Bilanz: Last gegen gesicherte Leistung, sauber zu Ende gerechnet.
 

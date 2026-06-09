@@ -22,6 +22,10 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### GoodNews
+
+> **10.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+
 ### Zeitgeist
 
 > **09.06.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
@@ -44,7 +48,7 @@ Die Gedankenwelten (luc)
 >
 > CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt.
 
-> → *10 weitere in* [[Zeitgeist]]
+> → *6 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -77,10 +81,6 @@ Die Gedankenwelten (luc)
 > **05.06.** — [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe|Christine Brähler — Selbstmitgefühl, Scham und reife Liebe]]
 >
 > Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht.
-
-### GoodNews
-
-> **09.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Panorama
 
