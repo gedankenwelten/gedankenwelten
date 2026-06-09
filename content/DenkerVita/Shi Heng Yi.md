@@ -89,7 +89,9 @@ Identität ist ein „Gedankenkonstrukt": „Wenn du deine Gedanken sehen kannst
 | Titel | Plattform | Beschreibung |
 |---|---|---|
 | [5 hindrances to self-mastery (TEDxVitosha)](https://www.youtube.com/watch?v=4-079YIasck) | TEDx / YouTube | 2020 — die Kernlehre zu den fünf Blockaden, strukturiert und praxisorientiert |
-| [Darf ich nachfragen, Shi Heng Yi? — Die Fortsetzung. Die Enthüllung.](https://www.youtube.com/watch?v=GgDNc6tBsXc) | Grenzgänger Studios / YouTube | 2025/26 — umfassendes Interview mit Tahir Chaudhry zum Missbrauchsskandal, zur Desillusionierung und zur radikalen Neuorientierung |
+| [Darf ich nachfragen, Shi Heng Yi? — Die Fortsetzung. Die Enthüllung.](https://www.youtube.com/watch?v=GgDNc6tBsXc) | Grenzgänger Studios / YouTube | 2026 — umfassendes Interview mit Tahir Chaudhry zum Missbrauchsskandal, zur Desillusionierung und zur radikalen Neuorientierung |
+| [Über Rückbesinnung, genug sein und gute Lebensführung](https://www.youtube.com/watch?v=5Vt6xygiiEI) | Hotel Matze / YouTube | „nie genug", Loslassen der Kontrolle, Perspektivenwandel, Generationszyklen — sein persönlichstes, verletzlichstes Gespräch |
+| [Wie lerne ich Selbstbeherrschung?](https://www.youtube.com/watch?v=B-DXt1oCKuU) | SRF Sternstunde Religion | Freiheit durch Struktur, Chan Wu, der mittlere Weg — die ruhige „Methoden"-Version seiner Lehre |
 | Shaolin Temple Europe (Kanal) | YouTube | Trainings-, Motivations- und Reflexionsvideos zur Disziplin |
 
 ---
