@@ -47,12 +47,11 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*238 Notes — automatisch generiert · nach Thema sortiert*
+*235 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
 
-- [[Zeitgeist/Mbembe — The Earthly Community|Achille Mbembe — The Earthly Community]]
 - [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle]]
 - [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
 - [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
@@ -307,6 +306,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 - [[Zeitgeist/Heinz Bude — Boomer-Soziologie|Heinz Bude — Brauchen wir eine Boomer-Soziologie?]]
 - [[Zeitgeist/Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter|Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]]
+- [[Zeitgeist/Mark Benecke — Umwelt-Messungen Sommer 2026|Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026]]
 - [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren|MONITOR — Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt]]
 - [[Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende: Rolle rückwärts oder wirtschaftlich vernünftig?]]
 - [[Zeitgeist/Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)|Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]]

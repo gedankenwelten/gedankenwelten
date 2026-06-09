@@ -54,7 +54,7 @@ Das gilt für Kemper (links-antifaschistisch), für Manow (strukturell-konservat
 ### → [[Vipassana/Vipassana — Zehn Tage]]
 Equanimity (Gleichmut) bei Goenka ist nicht Gleichgültigkeit — es ist die Fähigkeit, Dinge so zu sehen wie sie sind, ohne sie sofort in gut/schlecht einzuteilen. Dieser Grundsatz ist das intellektuelle Äquivalent dazu.
 
-### → [[Geistesblitz/Hans-Peter Dürr — Die neue Physik]]
+### → [[Denker/Hans-Peter Dürr — Die neue Physik]]
 Dürr beschreibt Komplementarität in der Quantenphysik: Welle und Teilchen sind keine Widersprüche, sondern zwei wahre Beschreibungen derselben Realität. Das Yin-Yang-Prinzip ist das philosophische Pendant.
 
 ### → [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]

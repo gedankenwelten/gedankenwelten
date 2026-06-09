@@ -160,7 +160,7 @@ Das ist eine globale Konstante: Es ist einfacher, gegen Unrecht zu kämpfen, das
 
 ## Verbindungen
 
-- [[Zeitgeist/Mbembe — The Earthly Community]] — Mbembes *Nekropolitik* und Ambedkars Kastensystem teilen die Grundfrage: Wer hat das Recht zu bestimmen, wessen Leben zählt? Beide kommen von unterdrückten Gesellschaften zu globalen philosophischen Kategorien.
+- [[Denker/Mbembe — The Earthly Community]] — Mbembes *Nekropolitik* und Ambedkars Kastensystem teilen die Grundfrage: Wer hat das Recht zu bestimmen, wessen Leben zählt? Beide kommen von unterdrückten Gesellschaften zu globalen philosophischen Kategorien.
 - [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen]] — Wie Soroush den Islam von innen reformiert, transformiert Ambedkar den Buddhismus von innen. Beide bewegen sich in der gefährlichen Zone zwischen Religionskritik und religiöser Erneuerung.
 - [[Denker/Walther Ziegler — Marx in 60 Minuten]] — Ambedkars Auseinandersetzung mit Marx ist zentral: Er akzeptiert die Kapitalismuskritik, ergänzt sie aber um die Kastenanalyse. Klasse allein erklärt Indien nicht.
 - [[Denker/Walther Ziegler — Schopenhauer in 60 Minuten]] — Ambedkars Reinterpretation von *Dukkha* steht in interessanter Spannung zu Schopenhauers Leidensphilosophie: Während Schopenhauer individuelle Askese als Ausweg sieht, setzt Ambedkar auf kollektive politische Transformation.

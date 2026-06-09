@@ -2,7 +2,7 @@
 title: Hans-Peter Dürr — Die neue Physik
 aktualisiert: 2026-03-22
 tags:
-  - geistesblitz
+  - denker
   - physik
   - quantenmechanik
   - ganzheit
