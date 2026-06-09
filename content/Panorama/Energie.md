@@ -380,6 +380,7 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 | [[Norio — GICON Hoehenwindturm revolutioniert Windkraft]] | Lösung · Höhenwind · Innovation · Bürgerbeteiligung |
 | [[Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]] | Problem · Netzausbau · Redispatch · Mittelstand |
 | [[Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke]] | Lösung · Dunkelflaute · 100%-Rechnung · Wasserstoff · Geothermie |
+| [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN|Andreas Löschel — Strom NEU DENKEN]] | Synthese · Marktdesign · Energiestückkosten · Akzeptanz · Erwartungsstabilität |
 
 ---
 

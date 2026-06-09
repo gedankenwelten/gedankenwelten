@@ -196,3 +196,7 @@ Göpels Donut-Ökonomie ist im NANO Talk der explizite Referenzrahmen: Schaupp u
 ### → [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
 
 Göpels Agency-Konzept gegen Ohnmacht und Urners Hoffnung als neurobiologisch trainierbare Kapazität beschreiben denselben Befund von verschiedenen Disziplinen — Göpel aus der politischen Ökonomie, Urner aus der Kognitionswissenschaft. Beide benennen Positive Money als konkretes Gegenmodell zum Finanzsystem und teilen die Diagnose, dass Kommunikationskontrolle der eigentliche Schlüsselhebel der Machtsicherung ist.
+
+### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
+
+Löschel präzisiert verhaltensökonomisch, was Göpel hier normativ formuliert: Der CO₂-Preis funktioniert nur, wenn Politik ihn im Ernstfall durchhält — der Tankrabatt als Beweis, wie Erwartungszerstörung in die fossile Pfadabhängigkeit führt.

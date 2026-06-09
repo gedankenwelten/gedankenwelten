@@ -22,11 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### GoodNews
-
-> **10.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
-
 ### Zeitgeist
+
+> **10.06.** — [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN|Andreas Löschel — Strom NEU DENKEN]]
+>
+> Negative Strompreise sind kein Marktversagen, sondern ein Designproblem — und die Standortdebatte müsste auf Energiestückkosten schauen, nicht auf die Kilowattstunde.
 
 > **09.06.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
 >
@@ -44,11 +44,11 @@ Die Gedankenwelten (luc)
 >
 > Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört.
 
-> **05.06.** — [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir|Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
->
-> CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt.
+> → *7 weitere in* [[Zeitgeist]]
 
-> → *6 weitere in* [[Zeitgeist]]
+### GoodNews
+
+> **10.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Denker
 

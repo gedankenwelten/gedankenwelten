@@ -261,6 +261,10 @@ Das Panorama diskutiert Unternehmensformen jenseits des Shareholder Value (Genos
 
 Flemig beschreibt Rheinmetalls Expansion als neue industrielle Jobmaschine. Stremlau/Göpel liefern die analytische Gegenkategorie: "notwendig aber nicht nachhaltig" — regrettable necessities. Beide Notes beleuchten dieselbe gesellschaftliche Wette: Wir bauen Kapazitäten auf, die wir hoffentlich nie vollständig nutzen müssen.
 
+### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
+
+Löschels Tankrabatt-Analyse ist die verhaltensökonomische Unterseite von Stremlaus Kapitalfluss-Argument: Erwartungen entscheiden, ob Kapital ins Fossile oder Erneuerbare fließt — wer antizipiert, dass Politik fossile Preise nicht durchhält, investiert nicht um.
+
 ---
 
 ## Weiterdenken

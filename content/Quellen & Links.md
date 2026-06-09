@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Andreas Löschel — Strom NEU DENKEN
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Strom NEU DENKEN mit Andreas Löschel (NEU DENKEN mit Maja Göpel)](https://www.youtube.com/watch?v=HJEu5ojxagE) |
+| **Notiz** | [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]] |
+| **DenkerVita** | [[DenkerVita/Andreas Loeschel]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Loeschel_Strom_NEU_DENKEN_Transkript.txt` |
+
 ## Gutachter Kail — Stromversorgung 2038 ohne Gaskraftwerke
 
 | | |

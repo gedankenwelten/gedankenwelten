@@ -284,3 +284,7 @@ Großmanns GICON-Turm mit 55% Vollaststunden entzieht dem Netzengpass-Argument, 
 ### → [[Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
 
 Der konkrete Unternehmensfall aus Burgbernheim zeigt, was Reiches Netzverschleppungspolitik für kleine Betriebe bedeutet: Ein Metallverarbeiter mit 500.000 € PV-Investition wird täglich abgeschaltet, während die Politik über Technologieoffenheit diskutiert.
+
+### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
+
+Löschel liefert den theoretischen Rahmen zum MONITOR-Befund: Antizipierte Politik-Umkehr zerstört Investitionserwartungen und erzwingt fossile Pfadabhängigkeit — der Tankrabatt-Mechanismus, den Reiches Gas-Politik institutionalisiert.
