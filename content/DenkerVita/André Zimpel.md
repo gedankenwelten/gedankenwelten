@@ -15,6 +15,16 @@ aliases:
 
 # André Zimpel — DenkerVita
 
+![[assets/Andre-Zimpel-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Wassily Kandinsky** — synästhetische Abstraktion, vibrierende konzentrische Kreise, klingende Farbe auf warmem Grund. Kandinsky war selbst Synästhet und malte sein Leben lang, *wie Musik aussieht* — die genaue Hand für einen Mann, der Melodien schmeckt, Zahlen in Farben sieht, aus einer Orgelbauer­familie stammt und Mathematik *und* Malerei studierte. Die farbglühenden Ziffern (60÷4) und die geschmacksfarbenen Noten machen Synästhesie sichtbar; die einzigartigen Schneeflocken tragen die These — kein Gehirn gleicht dem anderen.
+
+*Prompt:* Wide panoramic banner, 1200×500, in the hand of Wassily Kandinsky — synesthetic abstraction, "inner sound made visible", vibrating concentric circles, floating geometry on a warm luminous ground. No photorealism, no realistic faces. A field where number and music and color are the same substance. Across the canvas, large hand-drawn numerals — a glowing red 6, a cool blue 4, a green 3, an amber 60 — each digit radiating its own colored aura, as if every number had a temperature. Among them, musical notes and a few staff lines drift loose from their bars, each note trailing a small ribbon of a different color, as though the melody could be tasted. On the left, three or four tall vertical bars rise like organ pipes, each a different saturated color, ascending in height — a quiet nod to a family of instrument-builders. Their tops dissolve into concentric ringed circles in the Kandinsky manner, blue inside yellow inside red, pulsing outward like sound. In the open center and right, scattered clusters of small colored dots — some grouped in threes, some in fours — float free, like differently-bundled thoughts. Behind everything, faint crystalline six-armed snowflake forms, each one structurally unique, overlap in pale translucent layers: no two minds alike. Palette: warm ground of ochre and soft cream, with intense Kandinsky accents — cobalt blue, vermilion, chrome yellow, emerald, violet. Loose watercolor-and-gouache texture, hand-drawn lines, joyful and resonant, a little musical, never mechanical. Painterly, abstract, alive.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist André Zimpel?
