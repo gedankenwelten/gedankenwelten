@@ -6,6 +6,16 @@ tags: [denker-vita, medien, deutschland, demokratie]
 
 # Christine Dankbar — DenkerVita
 
+![[assets/Christine-Dankbar-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — sozialrealistische Tempera, spinnwebdünne Pinsellinie, flache gedämpfte Flächen aus Ocker, Schiefergrau und Ziegelrot, handgemalte Lettern. Shahns Blick für Dokumente, Arbeit und die Würde des kleinen Bürgers ist das exakte Register für eine Journalistin, deren Kernthese lautet: Das anschwellende Bürokratie-Formular *ist selbst* die Armutsfalle — und Transparenz darüber, wer zahlt und wer trägt, ist das demokratische Gegenmittel.
+
+*Prompt:* A wide 1200×500 banner in the manner of Ben Shahn's social-realist tempera — spare spidery brush-line, flat muted planes of ochre, slate-grey, brick-red and cream on a textured ground, hand-lettered fragments, no photorealism. On the left, a small ordinary seated figure (no facial features), shoulders hunched, almost swallowed by a towering cascade of paper that unfurls upward — a single form swelling page by page into a great wall of thirty sheets, the topmost pages tangling into a thicket of fine lines and tiny illegible boxes. The figure holds one bewildered page up toward the light. In the center, a plain two-pan balance scale: on one pan a stack of coins, on the other a cluster of tiny standing figures — the scale tipped, weighing who pays against who is carried. To the right, a flat geometric civic building with a simplified domed roof (a parliament reduced to clean rectangles and a triangle pediment), and across its face a clean bright horizontal beam of light cutting through. A journalist's open notebook and a thin pen rest in the foreground, the pen having ruled that clear line. Scratched in hand-lettering along the top: the words WER ZAHLT — WER TRÄGT. Earthy, sober, civic; everything slightly worn, like a printed page held too long.
+
+</details>
+
 > [!info] Wer spricht?
 > **Christine Dankbar** — Ressortleiterin Politik & Hauptstadtkorrespondentin der *Frankfurter Rundschau*. Politikwissenschaftlerin mit langjähriger Erfahrung als Bundespolitik-Journalistin. Regelmäßig zu Gast in Phoenix-Talkshows und öffentlich-rechtlichen Medien.
 
