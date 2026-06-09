@@ -13,6 +13,16 @@ aliases:
 
 # Dominik Finkelde — Nietzsche: Über Wahrheit und Lüge
 
+![[assets/Dominik-Finkelde-Nietzsche-Ueber-Wahrheit-und-Luege-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Cy Twombly** — verwischte, halb ausradierte Handschrift auf cremefarbener Leinwand, schleifende Graphit- und Wachskreide-Gesten, Fragmente von Worten, mediterrane Wärme. Twomblys abgewetzte, halb getilgte Sprache *ist* Nietzsches „abgenutzte Metaphern", und die Reihe von Münzen, die vom geprägten Profil zum blanken Metall abgerieben sind, übersetzt die schönste Zeile der Vorlesung wörtlich: *Münzen, die ihr Bild verloren haben und nun als Metall, nicht mehr als Münzen, in Betracht kommen.* Das „bewegliche Heer von Metaphern" zieht als driftender Wort-Schwarm über das Feld.
+
+*Prompt:* A wide 1200×500 banner in the manner of Cy Twombly — pale cream and bone-white canvas, looping graphite and waxy crayon scrawls, smeared and half-erased pencil gestures, fragments of handwritten words, scratched lines, drips, mediterranean warmth, no photorealism. Across the whole field drifts a loose marching procession of scrawled, half-legible handwritten words and looping pencil marks — a restless army of language flowing left to right, some words pressed dark and urgent, others rubbed pale and almost gone, smeared into ghosts. Scattered along this drift lies a horizontal row of worn golden coin-discs: on the far left a few still show a faint stamped profile and lettering, but moving rightward the coins grow smoother and smoother until they are rubbed to blank bare metal — image-less circles of dull gold, no longer coins, only metal. Faint scratched fragments of words surface here and there in the cream — Metapher, Wahrheit, a crossed-out word — written in a loose hand and partly wiped away. A few thin pencil lines leap across the canvas in three short stuttering jumps. Soft smudges of ochre, faded rose and graphite-grey bloom behind the marks. Everything provisional, worn, in motion — a chalkboard of truths half-forgotten.
+
+</details>
+
 Quelle: [1. Vorlesung: Friedrich Nietzsche: Über Wahrheit und Lüge (Philosophie d. Neuesten Zeit, SS 2026)](https://www.youtube.com/watch?v=aCaRmmcs0nU)
 
 > [!info] Wer spricht?
