@@ -210,6 +210,10 @@ Scobels Befunde zu Langzeitmeditierenden — fluideres Selbst, willkürlich däm
 
 Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004, auf die Scobel explizit Bezug nimmt — seine Gamma-Wellen-Daten sind buchstäblich der Ausgangspunkt von Scobels zweiter Welle. Ricards Biografie bestätigt Scobels Befund: Nicht-Selbst-Erfahrung korreliert mit erhöhter Empathie. Und Ricards Kritik an der Wellness-Industrie ergänzt Scobels Warnung vor Nebenwirkungen.
 
+### → [[Denker/Shi Heng Yi — Aufloesung der Identitaet]]
+
+Der Realfall zu Scobels Warnung. Scobel beschreibt theoretisch, wie Autoritätsgläubigkeit, Gehorsam und das Versprechen spiritueller Transformation Missbrauch ermöglichen; Shi Heng Yi hat genau diese Struktur im eigenen Tempel erlebt — sein früherer Abt nutzte „Gehorsam, Hierarchie, Loyalität, Geheimhaltung" als Werkzeuge. Was bei Scobel Risikohinweis ist, ist hier gerichtsnotorische Realität.
+
 ---
 
 ## Weiterdenken

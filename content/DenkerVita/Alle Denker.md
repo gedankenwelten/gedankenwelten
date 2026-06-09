@@ -226,6 +226,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
 
+**[[DenkerVita/Shi Heng Yi|Shi Heng Yi]]** — Shaolin-Meister (bürgerlich Tien Sy Vuong), Gründer Shaolin Tempel Europe; Auflösung der Identität, Peripherie vs. Essenz, der Finger der auf den Mond zeigt, Selbstführung statt Guru; öffentlicher Bruch mit seinem missbrauchenden früheren Abt
+
 **[[DenkerVita/Simon Schaupp|Simon Schaupp]]** — Arbeitsforscher und Soziologe (KU Leuven); kybernetische Proletarisierung, algorithmische Arbeitssteuerung, Gewerkschaften und digitale Transformation, Ökologie und Arbeitzeitverkürzung; Autor *Technopolitik von unten*
 
 

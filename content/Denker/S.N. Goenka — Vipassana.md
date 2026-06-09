@@ -236,6 +236,10 @@ Dürr kommt über die Quantenphysik zum selben Ergebnis wie Goenka über die Med
 
 Hagemeyer zeigt, dass narzisstische Symptomatik aus einer fragilen inneren Leere entsteht — dem ständigen Zwang, das Selbstbild zu regulieren. Das ist die psychologische Manifestation dessen, was Goenka als Sankhāra-Kreislauf beschreibt: Der unbewusste Geist reagiert auf unbearbeitete Empfindungen mit Verfestigung von Konditionierungen. Gleichmut auf der Ebene der Empfindung würde diese Ego-Zirkulation unterbrechen — bevor sie zum narzisstischen Kompensationsmechanismus wird. Goenka bietet die Praxis, Hagemeyer die Diagnose.
 
+### → [[Denker/Shi Heng Yi — Aufloesung der Identitaet]]
+
+Dieselbe Kern-Haltung — Auflösung des Ich, „kein Guru sein" — mit gegensätzlichem institutionellem Ausgang. Goenka sicherte „die Technik, nicht der Lehrer" strukturell gegen den Personenkult; Shi Heng Yis Shaolin-Tempel produzierte genau die Autorität, an deren Missbrauch er nun öffentlich zerbricht. Goenkas Regeln und Shi Heng Yis Scheitern sind zwei Wege zur selben Einsicht: dass die Person dem Weg im Weg steht.
+
 ---
 
 ## Weiterdenken
