@@ -534,7 +534,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [The Holberg Lecture — "The Earthly Community"](https://www.youtube.com/watch?v=omx5NuYBxIk) |
-| **Notiz** | [[Zeitgeist/Mbembe — The Earthly Community]] |
+| **Notiz** | [[Denker/Mbembe — The Earthly Community]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Mbembe_Earthly_Community_Transkript.txt` |
 
 ## scobel — Lyotard: Das Ende der Wahrheit?
@@ -1699,7 +1699,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [„Weil es ums Ganze geht" — GLOBART 2011](https://www.youtube.com/watch?v=RKma6xCTIBE) |
 | **Vortrag / Video** | [„Es gibt nichts Unschöpferisches" — Alpha Forum 2009](https://www.youtube.com/watch?v=Lhku7ZBWEK8) |
 | **Vortrag / Video** | [Die neue Physik und einige Folgen — Gespräch mit Dürr](https://www.youtube.com/watch?v=RbuQmzvQCOA) |
-| **Notiz** | [[Geistesblitz/Hans-Peter Dürr — Die neue Physik]] |
+| **Notiz** | [[Denker/Hans-Peter Dürr — Die neue Physik]] |
 | **Transkript 1** | `Gedankenwelten/Transkripte/Duerr_1_Die_neue_Physik_Transkript.txt` *(Whisper)* |
 | **Transkript 2** | `Gedankenwelten/Transkripte/Duerr_2_Weil_es_ums_Ganze_geht_Transkript.txt` |
 | **Transkript 3** | `Gedankenwelten/Transkripte/Duerr_3_Es_gibt_nichts_Unschoepferisches_Transkript.txt` |
@@ -1785,7 +1785,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Der Mensch ist besser als sein Ruf — Neue Akropolis](https://www.youtube.com/watch?v=q6NgchdDIbQ) |
-| **Notiz** | [[Geistesblitz/Neue Akropolis — Der Mensch ist besser als sein Ruf]] |
+| **Notiz** | [[Denker/Neue Akropolis — Der Mensch ist besser als sein Ruf]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Mensch_Kooperation_Konkurrenz_Transkript.txt` |
 
 ---

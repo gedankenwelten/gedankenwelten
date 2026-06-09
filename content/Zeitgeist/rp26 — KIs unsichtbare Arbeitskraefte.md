@@ -214,7 +214,7 @@ Mühlhoffs Kolonialismus-Analogie — Extraktion ohne Kompensation, Süd-Nord-We
 
 Varoufakis' These, dass Big Tech weniger als 1 % als Löhne zahlt, trifft sich mit 20 $/Woche für Data Workers: Die Cloud-Feudalherren akkumulieren Tribut, die unsichtbare Arbeit darunter ist systemisch. Varoufakis nennt es Cloud Rent — diese Note zeigt, wie die Extraktionskette bis zum Globalen Süden reicht.
 
-### → [[Zeitgeist/Mbembe — The Earthly Community]]
+### → [[Denker/Mbembe — The Earthly Community]]
 
 Mbembes Kern: Koloniale Logiken überführen sich in neue Technologiestrukturen, das Globale Süd-Nord-Gefälle wird digital fortgeschrieben. Die Visumsverweigering für Ephantus Kanyugi ist bei Mbembe strukturell lesbar: Deine Arbeit gehört uns — deine Stimme nicht.
 

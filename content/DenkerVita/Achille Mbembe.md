@@ -98,7 +98,7 @@ Seit 2000 ist Mbembe **Research Professor am Wits Institute for Social and Econo
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Mbembe — The Earthly Community]]
+- [[Denker/Mbembe — The Earthly Community]]
 
 ---
 
