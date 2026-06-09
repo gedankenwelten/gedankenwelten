@@ -19,6 +19,16 @@ aliases:
 
 # Gesine Schwan — Macht NEU DENKEN
 
+![[assets/Gesine-Schwan-Macht-NEU-DENKEN-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — social-realist Tempera, flache expressive Figuren, warme Erd- und Ockerpalette mit Backsteinrot und gedämpftem Teal. Links, kalt und isoliert: eine geballte Faust auf einem leeren Tisch, allein im Grau — Schwans *Herrschaftsmacht*. Rechts der warme Gegenpol: ein ovaler Tisch, umringt von ganz verschiedenen Menschen, offene Hände, gemeinsames Lachen im Goldlicht, „miteinander" in die Tischdecke gewoben — die *Gestaltungsmacht*. Shahns Hand, weil er wie kein zweiter die Würde gewöhnlicher Menschen im gemeinsamen Tun gemalt hat — genau Schwans „ich hab's geschafft, wenn sie gemeinsam lachen".
+
+*Prompt:* A wide 1200×500 banner in the style of Ben Shahn — social-realist tempera, flat expressive figures with gentle angular linework, warm earth-and-ochre palette with touches of muted teal and brick red, slightly grainy hand-painted texture. On the far left, in cold isolation: a single clenched fist striking a small bare table, alone, in grey shadow — closed, hard, no one around it. A thin gap separates it from the rest. The right four-fifths of the banner is filled with warmth: a long oval communal table seen from a low, intimate angle, ringed by a diverse crowd of ordinary people — workers, an old woman, a young person, a man in a cap, a woman with a headscarf — all leaning inward, open hands resting or gesturing on the table, bodies relaxed. From the center of the table a soft burst of golden light rises, and the figures around it are caught mid-laughter, heads tilted together, shoulders loose. Faceless or simplified faces, no realistic features. A faint hand-lettered word "miteinander" woven into the tablecloth. The whole image reads as one closed cold fist on the left giving way to an open warm circle on the right. No photorealism. Tempera texture, humane and tender, civic warmth.
+
+</details>
+
 Quelle: [Macht NEU DENKEN mit Gesine Schwan und Maja Göpel](https://www.youtube.com/watch?v=2poY38obxBA)
 
 > [!tip] Format unterstützen
