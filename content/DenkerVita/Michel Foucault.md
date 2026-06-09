@@ -6,6 +6,16 @@ tags: [denker-vita, philosophie, macht, diskurs, frankreich]
 
 # Michel Foucault — DenkerVita
 
+![[assets/Michel-Foucault-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giovanni Battista Piranesi** — Carceri d'Invenzione, Radierung in Bistre und Sepia, monumentale unmögliche Kerker-Architektur. Im Zentrum der ringförmige Wachturm, aus dem ein kalter Lichtkegel wie ein sich öffnendes Auge fächert; ringsum gestaffelte Zellengalerien, ins Leere führende Treppen, Ketten, winzige gesichtslose Figuren, alle zum Licht gewandt. Rechts zerfällt eine Figur in Sand — das Subjekt, das „wie am Meeresufer ein Gesicht im Sand" verschwindet. Piranesis Kerker sind die direkte Bild-Ahnenreihe von *Überwachen und Strafen*: der Panoptismus ist gebaute Architektur, kein abstraktes Symbol.
+
+*Prompt:* A wide 1200×500 banner in the style of Giovanni Battista Piranesi's Carceri d'Invenzione — an etching in bistre and warm sepia ink, dense crosshatching, monumental impossible prison architecture sprawling across the full width. Vast vaulted stone halls, ringed galleries of identical cell openings curving around a central circular watchtower. From the tower a single cold shaft of light fans outward like an opening eye, casting long disciplinary shadows down the tiers. Suspended stone staircases lead nowhere, heavy chains and iron rings hang from arches, catwalks cross the void. Tiny dark human silhouettes, faceless, dwarfed by the architecture — some on the bridges, some inside the cell mouths, all turned toward the central light. On the far right edge, the stone wall and a faceless figure dissolve into drifting grains of sand, the engraving lines thinning to nothing — a face unmade at the edge of the sea. No realistic faces. No photorealism. Engraving texture, ink on aged paper, oppressive geometry, the architecture of the gaze.
+
+</details>
+
 → Cortex-Notes: [[scobel — Foucault Aufklaerung als Haltung]], [[Demirovic und Lorey — Foucaults Gouvernementalitaet]]
 
 ---
