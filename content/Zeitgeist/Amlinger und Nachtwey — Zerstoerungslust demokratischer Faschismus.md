@@ -19,6 +19,16 @@ aliases:
 
 # Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus
 
+![[assets/Amlinger-und-Nachtwey-Zerstoerungslust-demokratischer-Faschismus-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Deutscher Expressionismus (Max Beckmann / Otto Dix)** — schwere schwarze Konturen, luftloser, zusammengepresster Raum, grelle Säurepalette aus Oxblutrot, Schwefelgelb und Ruß-Schwarz, grotesk-maskenhafte Gesichter. Jene Kunst, geboren aus genau dem Boden, den Adorno und Fromm analysierten — sie verschmilzt die zwei Bilder, zwischen denen die Note nicht wählen kann: den *Theweleit-Schlamm* des verschütteten, blockierten Lebens und das *eschatologische Feuer* des „erst muss alles brennen, dann entsteht etwas Reineres", in einem einzigen erstickenden, grinsenden Bild. Der Bagger, der mehr zerstört, um zu befreien; das Streichholz vom Buchcover.
+
+*Prompt:* A wide 1200×500 banner in the manner of German Expressionism — Max Beckmann and Otto Dix — heavy black outlines, airless compressed space, lurid acid palette of oxblood red, sulphur yellow, bruise-blue and soot-black, grotesque mask-like figures, no photorealism, no realistic faces. A claustrophobic, crammed composition with no sky to escape into. Across the lower half, a rising tide of grey-brown mud and floodwater swallows a tangle of figures up to their chests — bodies pressed together, mouths open, faces rendered as crude grimacing masks. Some half-buried figures reach upward with grasping hands; others grin with destructive glee. In the center, one figure holds a single oversized burning match aloft, touching its flame to the base of a classical columned civic building on the right that is already catching fire — sulphur-yellow flames climbing its pillars, the pediment cracking. From the upper left, the great steel claw-bucket of an excavator (Bagger) swings in on its arm, poised over the buried crowd. Behind everything, a lurid blood-orange dawn smoulders over a jagged burning city skyline, thick black smoke pressing down like a lid. A scatter of spent matchsticks floats on the mud in the foreground. Everything compressed, suffocating, gleeful and doomed at once.
+
+</details>
+
 Quelle: [Zerstörungslust — Warum so viele Menschen die Demokratie brennen sehen wollen](https://www.youtube.com/watch?v=yM_or9mYaXM) · re:publica 26, 18.05.2026 · CC BY-SA 4.0
 
 > [!info] Wer spricht? — Oliver Nachtwey
