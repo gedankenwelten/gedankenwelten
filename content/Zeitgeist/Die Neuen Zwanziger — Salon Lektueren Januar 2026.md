@@ -16,6 +16,16 @@ aliases:
 
 # Die Neuen Zwanziger — Salon Lektüren Januar 2026
 
+![[assets/Die-Neuen-Zwanziger-Salon-Lektueren-Januar-2026-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Saul Steinberg** — witzige Feder-und-Tusche-Linie auf cremefarbenem Papier, sparsame Aquarell-Lasuren in Teal, Ocker und Backsteinrot, viel Weißraum. Zwei Lesende in Sesseln, dazwischen ein lehnender Bücherturm; aus den offenen Büchern steigen kleine Vignetten — gesprungener Globus (*Zerfall der Weltordnung*), Organ-Diagramm (Enders' *Organisch*), Teapot-Raffinerie (Chinas Sanktionsumgehung), Familie unterm Dollar (Heritage Foundation), Filmrolle (Mubi), eine Note (Trio Wanderer) — alle per dünner Tuschelinie an die zwei Leser zurückgebunden. Steinbergs Hand, weil der Lektüre-Salon von Weltordnung über Darmflora bis KI springt: nur eine Hand, die Ideen als verspielte Linienlandschaft zeichnet, hält diese Bandbreite zusammen.
+
+*Prompt:* A wide 1200×500 banner in the style of Saul Steinberg — witty pen-and-ink line drawing on warm cream paper, fine confident contour lines, a few flat watercolour washes in muted teal, ochre and brick red, lots of empty breathing space. Two simplified figures sit in worn armchairs facing each other across a tall leaning tower of stacked books — a salon conversation. From the open pages of the books, small line-drawn vignettes rise and drift across the banner like thought-clouds: a cracked globe splitting along its seams; a human torso diagram with daintily labelled organs (lung, skin, brain) hand-lettered in spidery script; a round bulbous teapot-shaped refinery puffing little curls of smoke; a tiny stick family under a floating dollar sign; a strip of film reel unspooling; a single musical note. The vignettes are connected by thin meandering ink lines that loop back to the two readers, as if all these worlds spill out of the books between them. Faint hand-lettered word "SALON" arching across the top. No realistic faces — figures are simple linework. No photorealism. Ink-on-paper texture, dry humour, intellectual lightness.
+
+</details>
+
 Quelle: [Die Neuen Zwanziger — Salon Januar 2026](https://steady.page/de/neuezwanziger/posts/a8720c23-4a09-4d6b-9c2b-6e7fc2ef1634)
 
 > [!tip] Salon unterstützen
