@@ -21,6 +21,16 @@ aliases:
 
 # Shi Heng Yi — Die Auflösung der Identität
 
+![[assets/Shi-Heng-Yi-Aufloesung-der-Identitaet-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Odilon Redon** — symbolistischer Mystizismus in Pastell und Kohle, leuchtende Köpfe mit geschlossenen Augen, schwebende Buddha-Motive, Auflösung des Ich in Licht und Schatten. Genau diese Hand, weil die Note Kontemplation *mit* Schatten trägt: eine stille, wache Präsenz (die Essenz), von der Masken und eine leere Robe abfallen wie Blätter (die Rollen) — daneben der Finger, der auf den Mond zeigt (der Zen-Kern), und die Polarität von warmem Licht und Dunkel (Yin-Yang, der Skandal). Auflösung als *Bewegung*, nicht als ruhiges Stillleben.
+
+*Prompt:* A wide symbolist dream-banner in the hand of Odilon Redon: luminous pastel and charcoal, glowing from within against deep indigo darkness. Center-left: a serene meditating head in three-quarter profile with closed eyes, no realistic features — abstracted, dreamlike, dissolving at its edges into golden mist and floating orbs of light, a faint halo behind it. From this still head, translucent masks and an empty monk's robe peel away and drift outward like falling petals — layered roles shedding into the dark, each mask paler and emptier than the last. Upper right: a slender hand points upward toward a pale, glowing full moon ringed with soft violet light; the eye is gently pulled from the finger to the moon. The background is split as a quiet polarity — warm ochre-gold and rose on one side bleeding into deep blue-black shadow on the other, like summer turning to winter. Small luminous flowers and floating spheres of light scattered through the dark, Redon's signature mystical glow. Calm, contemplative, reverent, with a thread of shadow. Pastel and ink texture, soft luminous bloom, no photorealism, no realistic faces, 1200×500 wide banner.
+
+</details>
+
 > [!abstract] Worum es geht
 > Drei lange Gespräche, ein Mann im Umbruch. Shi Heng Yi, Headmaster des Shaolin Tempel Europe, demontiert seine eigene Identität — nicht weil er etwas dazugewinnt, sondern weil etwas von ihm *abfällt*: Rollen, Titel, das Bild des Meisters. Diese Note bündelt sein Denken aus drei Quellen: dem Grenzgänger-Gespräch „Die Enthüllung" (in dem er öffentlich mit seinem festgenommenen früheren Abt bricht), dem Hotel-Matze-Retreat „Rückbesinnung" (über „nie genug", Loslassen und das Durchbrechen von Generationszyklen) und dem SRF-Gespräch zur Selbstbeherrschung (Freiheit durch Struktur, der mittlere Weg). Es ist die Selbstauskunft eines Disziplin-Lehrers, der entdeckt, dass die tiefste Stärke das Fühlen ist — und dass die Person dem Weg im Weg steht.
 
