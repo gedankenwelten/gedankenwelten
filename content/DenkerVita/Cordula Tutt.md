@@ -6,6 +6,16 @@ tags: [denker-vita, wirtschaft, medien, deutschland]
 
 # Cordula Tutt — DenkerVita
 
+![[assets/Cordula-Tutt-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Gerd Arntz / Isotype** (Wiener Methode der Bildstatistik) — flache geometrische Holzschnitt-Piktogramme, klare Silhouetten, Schwarz/Backsteinrot/Schieferblau/Ocker auf Creme. Links sprüht eine Gießkanne unterschiedslos über alle Figuren — das Gießkannenprinzip; rechts setzt eine Pipette einen exakten Tropfen auf die wenigen farbig markierten Bedürftigen — Zielgenauigkeit. Darunter Isotype-Statistikreihen: schrumpfende Krankenhauskreuze, das kippende Verhältnis von Arbeitenden zu Rentnern, Münzen. Arntz' Hand, weil Isotype genau dafür erfunden wurde, ökonomische Statistik sprechen zu lassen — die Bildsprache einer Journalistin, deren Credo „Zahlen sprechen" ist.
+
+*Prompt:* A wide 1200×500 banner in the style of Gerd Arntz and the Isotype movement (Vienna Method of pictorial statistics) — flat geometric woodcut pictograms, stark clean silhouettes, a limited palette of black, brick red, slate blue and warm ochre on an off-white ground, no shading, crisp printed-poster precision. Left half: a large watering can tilts and sprays a wide indiscriminate fan of identical droplets down over many rows of identical small pictogram-people — the spray falls equally on everyone, plain and wasteful. Right half: a single precise pipette / eyedropper releases one exact drop onto just a few pictogram-figures that are marked apart by colour (the genuinely needy), while the rest stand untouched. Between and beneath them, Isotype-style statistical rows: a bar of many small hospital-cross icons shrinking to fewer hospital-cross icons; two stacked columns of little figures showing a shifting ratio of working figures to seated retiree figures; a row of coins. Faint hand-set numerals and tick-marks line the baseline like a chart axis. No realistic faces — all figures are flat pictogram silhouettes. No photorealism. Printed woodcut texture, rigorous, ordered, diagrammatic clarity.
+
+</details>
+
 > [!info] Wer spricht?
 > Korrespondentin und Autorin im Hauptstadtbüro der WirtschaftsWoche (WiWo). Schwerpunkt: wirtschaftspolitische Effizienzanalyse, Rente, Gesundheitssystem, Steuergerechtigkeitsdebatten. Knallharte Zahl-Sprecherin mit klarem Ordnungssinn — wirtschaftsliberal, aber differenziert; "zu viel Gießkanne" ist ihr Leit-Kritik.
 
