@@ -6,6 +6,16 @@ tags: [denker-vita, ki, industriepolitik, europa, technologie-politik, marktkonz
 
 # Frederike Kaltheuner — DenkerVita
 
+![[assets/Frederike-Kaltheuner-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — sozialrealistische Satire, spröde Tuschelinien, flache erdige Gouache, handgemalte Worte im Bild. Shahns menschenrechtlich grundierte Kritik passt besser als reine Karikatur: Das Bild *entlarvt* das KI-Heilsversprechen (glänzende „A.I."-Flasche, EU-Sternen-Fassade) und zeigt die verborgene US-Infrastruktur dahinter — Kabel, dollargestempelte Server, ferne Konzerntürme. Shahns eingewobene Schrift trägt Kaltheuners eigene Sprache: „SNAKE OIL", „MARKETS ARE MADE, NOT FOUND".
+
+*Prompt:* Wide panoramic banner, 1200×500, in the hand of Ben Shahn — social-realist satire, spare angular ink-line figures, flat earthy gouache, hand-lettered words woven into the scene. No photorealism, no realistic faces. A fairground "miracle cure" stall, seen from the side. In the bright center, a barker figure (angular, faceless, only a tilted hat and a long pointing arm) holds up a tall glowing elixir bottle on a little stage; the bottle is labelled in clumsy hand-lettering "A.I.", crowned with a halo of cheap golden stars and exclamation points, radiating fake light. Hand-painted across the stall's banner: the words "SNAKE OIL" in uneven block letters. But the stall is only a thin painted facade — a flat board, its front decorated with a ring of yellow EU stars on blue. Behind and beneath it, exposed: a tangle of black cables, stacked server crates stamped with dollar signs, all wired off toward a distant grey skyline of corporate towers — the hidden machinery the bright front conceals. Below, a small spare crowd of angular onlooker figures gaze up at the bottle, hands raised. Off to one side, smaller hand-lettering reads "MARKETS ARE MADE, NOT FOUND". Palette: flat and muted — ochre, dull teal, brick red, off-white ground, strong ink-black contour lines, with the elixir bottle the only source of artificial gold light. Spindly nervous Ben Shahn linework, dignified and critical, a poster that exposes rather than sells.
+
+</details>
+
 ## Biografie
 
 **Aktuelle Rollen:**
