@@ -16,6 +16,16 @@ aliases:
 
 # Konstantin Flemig — Deutschland als Rüstungs-Großmacht
 
+![[assets/Konstantin-Flemig-Deutschland-als-Ruestungs-Grossmacht-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera** — industrielle Freskomalerei (*Detroit Industry*), gedämpfte Tempera in Terrakotta, Stahlgrau, Ocker und Oliv, runde monumentale Figuren, rhythmische Maschinen-Komposition. Riveras monumentale, ambivalente Verehrung-und-Warnung des Fließbands ist das exakte Register für eine *Zeitenwende, gegossen in Stahl und Pulver*. Und weil die Note buchstäblich beschreibt, wie Automobilarbeiter in die Rüstungsproduktion überfließen, wird Riveras Auto-Werk-Fresko unheimlich treffend — das Geister-Automobil links speist die Geschossbahn. Der kleine plattgedrückte Olivenzweig in der Ecke ist die Friedensfrage.
+
+*Prompt:* A wide 1200×500 banner in the manner of Diego Rivera's industrial frescoes (the *Detroit Industry* murals) — muted fresco tempera, terracotta, steel-grey, ochre and olive-green, rounded monumental figures, rhythmic mechanical composition, no photorealism. A vast factory hall fills the frame, seen as a grand cross-section. Across the lower half, a long curving conveyor carries rows of upright brass artillery shells — beginning sparse on the far left, then swelling into a dense, endless marching flood of identical gleaming shells streaming to the right. Bent over the machines stand simplified rounded worker figures (no facial features), their broad backs and arms echoing the curves of the steel presses they tend, fused into the rhythm of the machinery. Overhead arch great steel gantries, gears and pipes, monumental and looming. On the far left, half-dissolving, the ghost of an automobile chassis on an old assembly line is being overtaken and replaced by the shell-line — one industry flowing into the other. Cast faintly into the concrete floor: the numerals 70 000 growing into 1 100 000. In a lower corner, almost hidden beneath the conveyor's shadow, a small olive branch lies pressed flat against the floor. The whole scene magnificent and ominous at once.
+
+</details>
+
 Quelle: [Deutschland wird Rüstungs-Großmacht! USA bei Munition überholt](https://www.youtube.com/watch?v=JH4HlQ0Rr_c)
 
 > [!info] Wer spricht?
