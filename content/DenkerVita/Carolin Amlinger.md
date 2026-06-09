@@ -6,6 +6,16 @@ tags: [denker-vita, demokratie, autoritarismus, faschismus, literatursoziologie,
 
 # Carolin Amlinger — DenkerVita
 
+![[assets/Carolin-Amlinger-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**George Grosz** — Weimarer Neue Sachlichkeit, beißende Tuschelinie über sauren Aquarellwaschungen, Gift-Gelb, schmutziges Ocker, ruß-schwarz. Nach dem Vorbild von „Stützen der Gesellschaft": gesichtslose Bürgermasken, einer hält das Banner *FREIHEIT* hoch — doch sein Schädel ist aufgesprengt, und darin sitzt schmunzelnd ein kleiner gepanzerter Tyrann mit Knüppel. Außen Freiheitsrhetorik, innen der Autoritäre — Amlingers Kernthese als Bild. Die abgesprengte Kette des einen verschließt den Käfig der anderen; im Hintergrund brennt das Parlament unter gelbem Himmel. Eine Weimar-Diagnostiker-Hand für eine Soziologin, die den heutigen Rückfall seziert.
+
+*Prompt:* Wide panoramic banner, 1200×500, in the savage satirical hand of George Grosz — Weimar Neue Sachlichkeit, biting ink line over acid watercolor washes, sour yellows, dirty ochre and grey-green, sooty black, the cold diagnostic caricature of "Stützen der Gesellschaft" (Pillars of Society). Grotesque but no realistic faces — heads rendered as blank masks or opened like cracked eggshells revealing what sits inside. A row of stiff bourgeois figures in dark suits and stiff collars stand frontally across the banner. The central, largest figure clutches a torn paper banner with the hand-lettered word "FREIHEIT", held up like a shield — but his head is cracked open at the top, and inside the hollow skull sits a tiny armored authoritarian figure with a little raised baton, snug and smug. The freedom-rhetoric outside, the small tyrant inside. To the left, a figure has snapped a heavy chain off his own wrists — but the same broken chain loops downward and padlocks a low cage holding smaller huddled shapes. Freedom of the one as the cage of the other. In the background, a columned democratic parliament building burns, orange flames against a jaundiced acid-yellow sky, thin black smoke. One of the standing figures watches the fire with a faint pleased grin painted on his mask — the lust for destruction. Cracked pavement below, a fallen ballot paper, a dead potted plant. Scratchy nervous ink contours, flat dirty color, cold and unsparing. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist Carolin Amlinger?
