@@ -21,6 +21,16 @@ aliases:
 
 # Gerald Hüther — Lebendigkeit und das Ende der Hierarchien
 
+![[assets/Gerald-Huether-Lebendigkeit-und-das-Ende-der-Hierarchien-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Friedensreich Hundertwasser** — leuchtende Spiralen, wellige Farbbänder, Fenster, von denen keines dem anderen gleicht. Sein Krieg gegen die gerade Linie ist Hüthers Krieg gegen das Glattgezogene: Links die graue Pyramide aus identischen Zellen (Hierarchie, Funktionieren), die nach rechts in lebendige, je einzigartige Formen zerbricht — und darüber Hüthers Wappentier, der Wanderfalke. „Es braucht die Brüche" hätte Hundertwasser unterschreiben können.
+
+*Prompt:* A wide painted banner in the style of Friedensreich Hundertwasser, 1200×500 pixels. On the left third: a rigid, grey, geometric pyramid built of identical rectangular cells stacked in strict rows, like a bureaucratic tower of uniform windows, painted in flat concrete greys and cold blue — its straight edges beginning to crack and crumble at the right side. From these cracks, the painting transforms: the middle and right two-thirds erupt into Hundertwasser's living world — irregular colorful spiral forms in glowing red, gold, emerald green and deep blue, wavy horizontal bands like layered earth, lollipop-like trees growing out of curved rooftops, and many small windows scattered freely, each one a different shape, size and color, no two alike. Thick black outlines around luminous color fields, naive and joyful, with golden dots and uneven hand-drawn lines. High above the spirals, a single stylized peregrine falcon with pointed wings glides freely across the sky, painted in simple dark silhouette with a golden eye. Small blades of bright green grass grow along the bottom edge, bending naturally, unforced. Flat decorative painting, mosaic-like texture, intense saturated colors, no straight lines in the living half, no realistic faces, no photorealism.
+
+</details>
+
 Quelle: [Deshalb fühlst du dich schlecht (Gerald Hüther) — ungeskriptet by Ben](https://www.youtube.com/watch?v=KPeTQYdof7Q) (15. April 2026, ca. 3h 20min)
 
 > [!info] Wer spricht?
