@@ -192,7 +192,7 @@ Friedrich Merz nennt es ein „Dilemma" (was es völkerrechtlich gar nicht ist),
 
 ## Verbindungen
 
-### → [[Zeitgeist/Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+### → [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
 Kai Ambos sprach in Folge #20 noch hypothetisch über humanitäre Intervention und Völkerrecht. Jetzt ist der Krieg Realität — seine damaligen Abwägungen bekommen neuen Kontext.
 
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]

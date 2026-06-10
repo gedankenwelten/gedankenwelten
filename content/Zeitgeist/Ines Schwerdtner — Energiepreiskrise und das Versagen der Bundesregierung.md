@@ -181,7 +181,7 @@ Katharina Reiche und die Gaslobby als Kontinuität fossiler Blockade: Buchinger 
 ### → [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
 Zeitlich unmittelbar benachbart: CDU/CSU und SPD als Blockierer progressiver Energiepolitik. Beide Notes dokumentieren denselben politischen Moment aus verschiedenen Blickwinkeln.
 
-### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 Sahebi/Semsrott analysieren dasselbe Bundesregierungsversagen — Übergewinnsteuer blockiert, Tempolimit verweigert, Outsourcing statt Strukturreform — aus liberaler Perspektive. Schwerdtner liefert die linke politökonomische Rahmung; GCA #28 den journalistischen Echtzeit-Kommentar.
 
 ### → [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]

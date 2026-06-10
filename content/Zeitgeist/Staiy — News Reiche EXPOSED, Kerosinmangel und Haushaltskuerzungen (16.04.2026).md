@@ -156,7 +156,7 @@ Flemig analysiert die US-Blockade der Straße von Hormus, deren Folgen hier als 
 
 Schwerdtner kritisiert die gleiche Regierung, deren Sozialabbau-Papiere hier enthüllt werden; Van Akens Rückzug betrifft ihre Ko-Vorsitz direkt
 
-### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 behandelt ebenfalls Katharina Reiche und Energiepolitik im Kontext der Iran-Krise
 

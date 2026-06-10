@@ -275,16 +275,16 @@ Heinisch analysiert Trumps innenpolitischen Verlust durch den Iran-Krieg; Lange 
 ### → [[Zeitgeist/Herfried Münkler — Muss es Kriege geben]]
 Münkler: Kriege entstehen, wenn kein Ordnungshüter funktioniert. Lange zeigt, wie der Ordnungshüter USA (Trump) selbst zum Unkalkulierbaren wird — und andere Akteure (Russland, Iran) das gezielt ausnutzen.
 
-### → [[Zeitgeist/Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+### → [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
 GCA 20 behandelt dieselbe frühe Phase des Iran-Kriegs. Langes tiefere militärische Analyse (Area Denial, Kish-Insel) ergänzt die politische Rahmung von GCA 20.
 
-### → [[Zeitgeist/Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+### → [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 Aktueller Iran-Status im GCA-Podcast — thematische Verbindung. GCA 23 liefert politisch-medialen Kontext, Lange die strategische Tiefenanalyse.
 
 ### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 Tooze zeigt, wie das Pentagon unter Hegseth Macht bündelt. Lange beschreibt die außenpolitischen Folgen desselben Apparats — und wie Steve Witkoffs Inkompetenz die Konsequenzen für Ukraine und Verhandlungen prägt.
 
-### → [[Zeitgeist/Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+### → [[Zeitgeist/Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
 GCA 24 behandelt u.a. Iran-Fluchtnarrative — die humanitären Konsequenzen, die Lange durch Ölpreis- und Düngemittelkrise beschreibt, zeigen sich hier in konkreten Schicksalen.
 
 ### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]

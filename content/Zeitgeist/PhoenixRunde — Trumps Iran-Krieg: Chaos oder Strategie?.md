@@ -165,11 +165,11 @@ Historische Tiefe zum Iran: Warum das Regime resilienter ist als westliche Einsc
 
 Breiterer geopolitischer Rahmen: Verschiebung der Weltordnung durch den Krieg
 
-### → [[Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+### → [[Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
 
 Frühere Diskussion zur humanitären Frage: Wann ist Eingreifen legitim?
 
-### → [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+### → [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 
 Iran-Krieg Update aus ähnlichem Zeitraum
 

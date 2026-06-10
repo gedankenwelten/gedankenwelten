@@ -95,7 +95,7 @@ Die AfD nutzt einen banalen, längst aufgearbeiteten Vorfall für drei Ziele:
 
 ## Verbindungen
 
-### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 dieselbe Kampagne, zwei Ebenen: Diese Note zeigt die konkrete Bundestags-Rhetorik gegen die AAS via Schulvorfall; GCA #28 dokumentiert die strukturelle Strategie (551 Parlamentsanfragen) zum Mittelentzug von Demokratieförderung
 
@@ -115,7 +115,7 @@ Parlamentarismus als Strategie: Kempers Analyse der AfD als "identitäre Systemo
 
 selbe Analysemethodik, dieselbe Grundlogik: Kotré normalisiert Privatisierung von Staatsgewalt, Chrupalla normalisiert "NGOs als Staatsfeinde" — beide nutzen parlamentarische Aufmerksamkeit als Ressource für Normverschiebung
 
-### → [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
+### → [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
 
 Chrupallas Inszenierung als Misstrauensproduktion ohne Argument: El-Mafaalanis Modell erklärt, warum die emotionale Aufladung (Kinder! Missbrauch! Steuergeld!) Misstrauen erzeugt, das sich ohne inhaltliche Widerlegung nicht zurückbauen lässt
 

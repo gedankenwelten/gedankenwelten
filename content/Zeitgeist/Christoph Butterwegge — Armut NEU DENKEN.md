@@ -166,7 +166,7 @@ Mausfeld erklärt, wie Eliten Deutungshoheit sichern; Butterwegge beschreibt die
 
 Historisches Echo: Horowski zeigt, wie Klassenstrukturen sich reproduzieren; Butterwegge belegt, dass dies im modernen Finanzkapitalismus via Erbschaftsrecht und Steuerpolitik strukturell fortgesetzt wird
 
-### → [[Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+### → [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 
 Direkter Bezug: Die SPD-Debatte um Agenda 2010 und ihre sozialpolitischen Folgen, die Butterwegge als zentrale Ursache der Spaltung benennt
 
@@ -186,7 +186,7 @@ Aktuelles Fallbeispiel für Butterwegges Matthäus-Prinzip: Die -200€/+14.000�
 
 Die ARTE-Doku zeigt die wissenschaftspolitische Dimension von Butterwegges Marktkapitalismus-Kritik: wenn Forschungsfinanzierung markgetrieben ist, produziert der Markt die Wissenschaft, die er braucht — und verhindert die, die er fürchtet (Waisen der Wissenschaft)
 
-### → [[Good News — Gute Nachrichten April 2026]]
+### → [[Good News - Gute Nachrichten April 2026]]
 
 North Carolinas Medicaid-Modell (6,5 Mrd. $ Schulden gestrichen + strukturelle Systemänderung) ist das seltene Gegenbeispiel zur neoliberalen Logik: nicht Symptomlinderung, sondern Ursachenbeseitigung — genau der Unterschied, den Butterwegge einfordert.
 
@@ -254,7 +254,7 @@ Smith versprach Wohlstand „bis in die untersten Schichten" — Butterwegge zei
 
 Presseclub zeigt: Energiekosten als soziale Frage — Solarförderung als Hauseigentümer-Privileg
 
-### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+### → [[Good News - Gute Nachrichten April 2026 Teil 2]]
 
 Mexiko-Story als Echtwelt-Test von Butterwegges These: Mindestlohnerhöhungen seit 2018 senken Armut, Mittelschicht wächst um 12,5 % — die direkte empirische Widerlegung der neoliberalen Befürchtung, Mindestlöhne zerstörten Beschäftigung.
 

@@ -221,7 +221,7 @@ Direkte Vorläuferfolge: GCA 33 diskutiert denselben Grundtenor — Schwarz-Rot 
 
 Semsrott re:publica 2026-Vortrag: Zivilgesellschaft als Gegenmacht. Hier zeigt sich das Komplement: Wenn Parteien versagen, wächst die Bedeutung außerparlamentarischer Strukturen — die Frage der Gegenmacht ist direkt verbunden mit dem Versagen der Sozialdemokratie.
 
-### → [[Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+### → [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 
 Direkter Vorgänger derselben Analyse im deutschen Kontext: GCA #27 seziert dieselbe Mechanik — die SPD erklärt ihre Niederlagen mit zu viel Minderheitenpolitik und ruft nach Schröder-Rückkehr, statt den Sozialstaatsabbau als eigentliche Ursache zu benennen. GCA #35 ergänzt die internationale Dimension durch Labour und Dänemark und benennt mit Tarik Abu-Chadi den akademischen Erklärungsrahmen.
 

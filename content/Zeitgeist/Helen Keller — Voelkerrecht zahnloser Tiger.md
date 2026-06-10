@@ -178,7 +178,7 @@ Beide Notes kreisen um dieselbe Kernfrage: ob die aktuelle Krise einen irreversi
 
 Dieselbe Sendeformat-Reihe (Sternstunde Philosophie, SRF) behandelt den Iran-Kontext unmittelbar, was Kellers Argumente zu R2P und Verhältnismäßigkeit direkt anknüpfbar macht.
 
-### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 Kellers Hoffnungsträger Zivilgesellschaft als Angriffsziel autoritärer Staaten (Memorial, Foreign Agent Laws) wird hier am konkreten deutschen und russischen Beispiel weitergeführt.
 
@@ -214,7 +214,7 @@ Heinrich wendet Kellers theoretischen Rahmen praktisch an: Jus ad bellum vs. Jus
 
 StreitClub diskutiert Mittelmächte als Durchsetzer des Völkerrechts
 
-### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+### → [[Good News - Gute Nachrichten April 2026 Teil 2]]
 
 Cargill/Munduruku und Yoon-Suk-yeol-Verfahren als empirische Belege für Kellers These: Recht funktioniert dezentral, durch Druck von unten und Eigeninteresse von Akteuren — nicht durch eine zentrale Weltautorität. Indigene und südkoreanische Demonstranten als *Träger* dieses dezentralen Rechts.
 

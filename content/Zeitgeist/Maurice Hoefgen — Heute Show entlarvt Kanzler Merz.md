@@ -175,7 +175,7 @@ Manow erklärt, *warum* Wähler zur AfD gehen (materielle Abstiegsängste); Höf
 
 Beide analysieren 2026 dieselbe Regierung Merz aus progressiver Perspektive: Staiy fokussiert Steuerpolitik top-down, Höfgen zerlegt Arbeitsmarkt-Mythen bottom-up — komplementäre Angriffspunkte auf dasselbe Narrativ.
 
-### → [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
+### → [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
 
 El-Mafaalani identifiziert Vertrauensverlust als Treiber des AfD-Erfolgs; Höfgen liefert mit der Einkommensschere den materiellen Grund *für* diesen Vertrauensverlust.
 

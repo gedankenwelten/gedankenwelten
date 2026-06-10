@@ -126,7 +126,7 @@ Die AfD operiert auf den Stufen 1–5 gleichzeitig. Stufe 6 wird durch Attacken 
 
 **Ökonomische Entsicherung:** [[Christoph Butterwegge — Armut NEU DENKEN]] liefert die Zahlen: 13,3 Millionen in relativer Armut (16,1 %), Lebenserwartungslücke von **7,2 Jahren** nach Einkommen, Top 10 % besitzen 54 % des Vermögens, die unteren 40 % besitzen **null**. [[Martyna Linartas — Unverdiente Ungleichheit]] zeigt die tiefere Ursache: Deutschland ist keine Leistungsgesellschaft mehr — über 50 % der Privatvermögen stammen aus Erbschaft und Schenkung, bei Milliardenvermögen sogar 80 %. Soziale Mobilität: OECD-zweitschlechtester Platz, sechs Generationen von der Armut in die Mitte. Pikettys r > g-Formel (Kapitalrendite ~7 % > Wirtschaftswachstum) vergrößert die Schere strukturell. Linartas warnt: *„Wenn du Bock auf Zustände wie Monarchie hast, ist es okay. Wenn du Demokrat bist, haben wir ein ganz großes Problem."* [[Heiner Flassbeck — Krise und Rechtsruck]] zeigt den Mechanismus: Agenda 2010/Hartz = Lohndumping → Eurozone-Ungleichgewichte → gleichzeitiger globaler Rechtsruck (2008: Tea Party, Putin, FPÖ, Front National). Wer den Rechtsruck verstehen will, muss die Lohnstückkosten verstehen.
 
-**Historische Kontinuität:** [[Clara Mattei — Geschichte der Austeritätspolitik]] weist nach: Austeritätspolitik wurde historisch als Reaktion auf Arbeiterbewegungen **erfunden**. Die Linie Liberaler Kapitalismus → Faschismus ist kein Bruch, sondern ein Kontinuum — beide nutzen Austeritätslogik, um Arbeitskraft zu disziplinieren.
+**Historische Kontinuität:** [[Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]] weist nach: Austeritätspolitik wurde historisch als Reaktion auf Arbeiterbewegungen **erfunden**. Die Linie Liberaler Kapitalismus → Faschismus ist kein Bruch, sondern ein Kontinuum — beide nutzen Austeritätslogik, um Arbeitskraft zu disziplinieren.
 
 **Demokratiedefizit:** [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] argumentiert kontraintuitiv: Protestwahl ist **rational**, nicht pathologisch. Politische Kompetenz wurde aus dem Nationalstaat herausverlagert (EU, WTO), etablierte Parteien bieten auf der Globalisierungsdimension keine Alternative. Die Rechte besetzt ein politisch ausgeschlossenes Angebot. Das bedeutet nicht, dass AfD-Wähler Recht haben — aber dass die Reduktion auf „dumm" oder „böse" das Problem nicht löst.
 
@@ -136,7 +136,7 @@ Die AfD operiert auf den Stufen 1–5 gleichzeitig. Stufe 6 wird durch Attacken 
 
 **Das Scharnier — Charakterstruktur, Empirie, Bewirtschaftung:** Drei Notes vertiefen den Mechanismus von verschiedenen Seiten. [[Erich Fromm — Psychoanalyse des Faschismus|Erich Fromm]] liefert die Charakterologie: Der sadomasochistische Charakter *ist* das Scharnier als psychische Formation — der Sadist braucht einen Schwächeren (*nur der Unterlegene reizt den Sadisten*), den Starken betet er an. Buckeln und Treten sind nicht zwei Verhaltensweisen, sondern eine einzige Struktur, die unter bestimmten sozialen Bedingungen aktiviert wird. [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey]] vermessen diese Aktivierung empirisch (2.600 Befragte, 41 Tiefeninterviews): Destruktive Haltungen bilden sich vorwiegend bei Menschen, die sich marginalisiert wahrnehmen, *dabei aber statusambitioniert und dominanzorientiert sind* — die vorletzte Sprosse, soziologisch kartiert. Alle destruktiven Typen eint eine „große emotionale Härte gegenüber Minderheiten". Und [[Rainer Mausfeld — Warum schweigen die Lämmer|Rainer Mausfeld]] ergänzt die Machttechnik: Die aus Entsicherung und Abstiegsangst entstehende psychische Energie muss **umgelenkt** werden — auf Ablenkziele, auf Feindbilder —, damit sie sich nicht gegen die tatsächlichen Verursacher richtet. Das Scharnier ist also kein Reflex, der von selbst klappt: Es wird bewirtschaftet.
 
-**Psychologische Produktion autoritärer Führer:** [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] liefert die fehlende Schicht: Warum *ticken* Trump, Musk, Thiel so? Nicht moralischer Defekt, sondern strukturelle Konsequenz von Erziehungsumgebungen, die systematisch Empathie und Verletzlichkeit unterdrücken — Militärakademien (Trump/NYMA), dysfunktionale Familien (Musk), Todesangst als Ideologie-Motor (Thiel). [[scobel — Luhmann: Abklärung der Aufklärung]] ergänzt die systemtheoretische Tiefe: Diese Systeme reproduzieren sich **autopoietisch** — kein Architekt, keine Verschwörung nötig. Luhmanns binäre Kodierung (stark/schwach) wird durch Eliteerziehung zum dominanten Code. Die Himmel/Hölle-Parabel aus dem Essay zeigt: Das Problem ist nicht die Ressource (gedeckter Tisch), sondern der Code, nach dem operiert wird — „mein/nicht mein" (Hölle) vs. „wir/zusammen" (Himmel).
+**Psychologische Produktion autoritärer Führer:** [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] liefert die fehlende Schicht: Warum *ticken* Trump, Musk, Thiel so? Nicht moralischer Defekt, sondern strukturelle Konsequenz von Erziehungsumgebungen, die systematisch Empathie und Verletzlichkeit unterdrücken — Militärakademien (Trump/NYMA), dysfunktionale Familien (Musk), Todesangst als Ideologie-Motor (Thiel). [[scobel — Luhmann Abklaerung der Aufklaerung|scobel — Luhmann: Abklärung der Aufklärung]] ergänzt die systemtheoretische Tiefe: Diese Systeme reproduzieren sich **autopoietisch** — kein Architekt, keine Verschwörung nötig. Luhmanns binäre Kodierung (stark/schwach) wird durch Eliteerziehung zum dominanten Code. Die Himmel/Hölle-Parabel aus dem Essay zeigt: Das Problem ist nicht die Ressource (gedeckter Tisch), sondern der Code, nach dem operiert wird — „mein/nicht mein" (Hölle) vs. „wir/zusammen" (Himmel).
 
 **Historische Verstrickung:** [[Götz Aly — Wie konnte das geschehen]] zeigt das **Prinzip der Verstrickung**: Das NS-Regime involvierte die Bevölkerung systematisch in Verbrechen. Deportationen am helllichten Tag, Versteigerung jüdischen Eigentums an Bombenopfer — 400.000 allein in Hamburg. Der Staat signalisierte: „Belaste dein Gewissen nicht — WIR tun es, aber du profitierst." Materielle Komplizenschaft sicherte Loyalität. Die AfD wiederholt das Muster: Du bist nicht schuld an deiner Lage — „die da oben" und „die Fremden" sind es.
 
@@ -148,7 +148,7 @@ Die AfD operiert auf den Stufen 1–5 gleichzeitig. Stufe 6 wird durch Attacken 
 
 ### Faschismus-Literalität und Bildung
 
-✅ **Trägt bei** — [[Hartwin Maas — Bildung NEU DENKEN]] und [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] konvergieren: Was die AfD wirklich stoppt, sind nicht Verbote, sondern **funktionierende Institutionen** — Schulen, die kritisches Denken lehren, Begegnungsräume, die Misstrauen abbauen. Kempers Faschismus-Typologie, Redeckers Phantombesitz-Analyse und Fromms autoritärer Charakter gehören in die politische Bildung — nicht als akademische Übung, sondern als **Werkzeug zur Selbstdiagnose**: Wo bin ich selbst anfällig?
+✅ **Trägt bei** — [[Hartwin Maas — Bildung NEU DENKEN]] und [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] konvergieren: Was die AfD wirklich stoppt, sind nicht Verbote, sondern **funktionierende Institutionen** — Schulen, die kritisches Denken lehren, Begegnungsräume, die Misstrauen abbauen. Kempers Faschismus-Typologie, Redeckers Phantombesitz-Analyse und Fromms autoritärer Charakter gehören in die politische Bildung — nicht als akademische Übung, sondern als **Werkzeug zur Selbstdiagnose**: Wo bin ich selbst anfällig?
 
 Verbundene Notes: [[Andreas Kemper — Faschismen im 21. Jahrhundert]] · [[Eva von Redecker — Dieser Drang nach Härte]] · [[Erich Fromm — Psychoanalyse des Faschismus]] · [[Dietrich Bonhoeffer — Theorie der Dummheit]]
 
@@ -156,9 +156,9 @@ Verbundene Notes: [[Andreas Kemper — Faschismen im 21. Jahrhundert]] · [[Eva 
 
 ### Zivilgesellschaft und investigativer Journalismus
 
-✅ **Trägt bei** — Die CORRECTIV-Recherche zum Potsdamer Geheimtreffen löste die größten Demonstrationen seit der Wiedervereinigung aus — Millionen auf den Straßen. [[Gilda con Arne — Rechte Milliardäre kaufen Medien]] und [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] zeigen: Die Gegenreaktion ist bereits im Gang — Medienaufkäufe durch rechte Milliardäre, Delegitimierung von Stiftungen, Kriminalisierung von Protest. Die Finanzierung unabhängigen Journalismus und der Schutz zivilgesellschaftlicher Strukturen sind demokratische Infrastruktur.
+✅ **Trägt bei** — Die CORRECTIV-Recherche zum Potsdamer Geheimtreffen löste die größten Demonstrationen seit der Wiedervereinigung aus — Millionen auf den Straßen. [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] und [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] zeigen: Die Gegenreaktion ist bereits im Gang — Medienaufkäufe durch rechte Milliardäre, Delegitimierung von Stiftungen, Kriminalisierung von Protest. Die Finanzierung unabhängigen Journalismus und der Schutz zivilgesellschaftlicher Strukturen sind demokratische Infrastruktur.
 
-Verbundene Notes: [[Gilda con Arne — Rechte Milliardäre kaufen Medien]] · [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] · [[Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]]
+Verbundene Notes: [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] · [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] · [[Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]]
 
 ---
 
@@ -174,7 +174,7 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Philip Manow — A
 
 ✅ **Trägt bei** — Die FES-Mitte-Studie zeigt: Einsamkeit, Entsicherung und sozioökonomische Marginalisierung korrelieren direkt mit demokratiegefährdenden Einstellungen. Butterwegges Zahlen (unteren 40 % besitzen null, 7,2 Jahre Lebenserwartungslücke) sind nicht nur Armutspolitik — sie sind **Demokratiepolitik**. [[Martyna Linartas — Unverdiente Ungleichheit]] geht tiefer: Das „Theaterstück Neoliberalismus" (freier Markt als Held, Steuern als Bösewicht) hat empirisch versagt — Steuersenkungen für Reiche hatten in 50 Jahren über 18 OECD-Staaten einen Wachstumseffekt *„von null nicht zu unterscheiden"* (Hope/Limburg 2022). Linartas' Grunderbe-Vorschlag (190.000 € für jeden jungen Erwachsenen, finanziert durch Erbschaftsreform) demokratisiert das Erben statt es abzuschaffen. Flassbecks Analyse ergänzt: Der Rechtsruck hat ökonomische Wurzeln, die ohne Umverteilung nicht adressierbar sind.
 
-Verbundene Notes: [[Christoph Butterwegge — Armut NEU DENKEN]] · [[Martyna Linartas — Unverdiente Ungleichheit]] · [[Heiner Flassbeck — Krise und Rechtsruck]] · [[Clara Mattei — Geschichte der Austeritätspolitik]]
+Verbundene Notes: [[Christoph Butterwegge — Armut NEU DENKEN]] · [[Martyna Linartas — Unverdiente Ungleichheit]] · [[Heiner Flassbeck — Krise und Rechtsruck]] · [[Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]]
 
 ---
 
@@ -239,19 +239,19 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Daniel - Weidel beim Schwurblertreff AWEF]] | Empirie · Weidel ungeschminkt |
 | [[Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]] | Empirie · Propagandamaschine |
 | [[Daniel - Lena Kotré plant private Abschiebeindustrie]] | Empirie · Abschiebe-Privatisierung |
-| [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] | Lösung · Was wirklich hilft |
+| [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] | Lösung · Was wirklich hilft |
 | [[Martyna Linartas — Unverdiente Ungleichheit]] | Ursache · Erbengesellschaft |
 | [[Christoph Butterwegge — Armut NEU DENKEN]] | Ursache · Soziale Ungleichheit |
 | [[Heiner Flassbeck — Krise und Rechtsruck]] | Ursache · Ökonomische Wurzeln |
 | [[Heiner Flassbeck — Deutschlands groesstes Tabu]] | Ursache · Sparparadox, Exportwahn, Demokratiegift Schuldenbremse |
-| [[Clara Mattei — Geschichte der Austeritätspolitik]] | Ursache · Historische Kontinuität |
+| [[Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]] | Ursache · Historische Kontinuität |
 | [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] | Ursache · Demokratiedefizit |
 | [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] | Ursache · Psychologische Produktion |
-| [[scobel — Luhmann: Abklärung der Aufklärung]] | Theorie · Autopoiesis |
+| [[scobel — Luhmann Abklaerung der Aufklaerung|scobel — Luhmann: Abklärung der Aufklärung]] | Theorie · Autopoiesis |
 | [[Gesine Schwan — Macht NEU DENKEN]] | Lösung · Gestaltungsmacht |
-| [[Gilda con Arne — Rechte Milliardäre kaufen Medien]] | Problem · Medienaufkäufe |
-| [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] | Problem · Zivilgesellschaft |
-| [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]] | Kontext · Verfassungsschutz |
+| [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] | Problem · Medienaufkäufe |
+| [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] | Problem · Zivilgesellschaft |
+| [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]] | Kontext · Verfassungsschutz |
 | [[Hartwin Maas — Bildung NEU DENKEN]] | Lösung · Politische Bildung |
 | [[Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]] | Kontext · Wahlautokratie wankt |
 | [[Ernst Gelegs — Ist das Regime Orbán am Ende]] | Kontext · Ungarn |

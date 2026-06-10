@@ -161,6 +161,6 @@ Reisner analysierte Hormus theoretisch-militärisch. Amiri liefert den Realität
 
 Kemferts strukturelle Warnung vor Energieabhängigkeit wird durch Amiri konkret: Wer auf Ölexporten sitzt, aber nicht liefern kann, verliert jede Verhandlungsposition.
 
-### → [[Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+### → [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
 
 Amiri *ist* das Fluchtnarrativ, über das Gilda con Arne spricht. Ihre Aussage „Deutschland spielt keine Rolle" kontrastiert mit der medialen Aufmerksamkeit des Iran-Kriegs in deutschen Talkshows.

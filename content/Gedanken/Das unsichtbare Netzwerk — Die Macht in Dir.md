@@ -338,7 +338,7 @@ Das ist alles. Mehr Anspruch hat diese Note nicht.
 
 Der Leuchtturm sagt *warum*. Diese Note sagt *wie*. Zwei Seiten derselben Münze — der Leuchtturm als Existenzgrund der Gedankenwelten, das Netzwerk als die alltägliche Praxis, in der dieser Grund wirklich wird.
 
-### → [[Matthieu Ricard — Glueck, Mitgefuehl und die Transformation des Geistes]]
+### → [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
 Ricard ist die nüchternste Formulierung des Paradoxes vom langen Löffel: Altruistisches Handeln und eigenes Wohlbefinden sind dasselbe, nur aus verschiedenen Richtungen betrachtet. Er hat das nicht behauptet — er hat es seit über fünfzig Jahren gelebt.
 

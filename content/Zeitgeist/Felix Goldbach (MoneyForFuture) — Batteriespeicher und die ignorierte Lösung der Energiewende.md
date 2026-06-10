@@ -153,7 +153,7 @@ Thematische Brücke über Wertschöpfung: Kehnel argumentiert für gemeinschaftl
 
 Konzeptueller Gegenentwurf: Felix plädiert für Batteriespeicher als Lösung der Verfügbarkeitslücke, CO₂-Geothermie löst dasselbe Problem durch Grundlastfähigkeit — zwei komplementäre Wege zur 24/7-Versorgung ohne Fossile
 
-### → [[Good News — Gute Nachrichten April 2026]]
+### → [[Good News - Gute Nachrichten April 2026]]
 
 Natrium-Ionen-Batterien als empirisches Gegenstück: China bringt sie in Serie (400 km Reichweite, kein Lithium-Bottleneck) — Goldbachs These über ignorierte Speichertechnologien bekommt hier das konkrete Fallbeispiel geliefert.
 
@@ -161,7 +161,7 @@ Natrium-Ionen-Batterien als empirisches Gegenstück: China bringt sie in Serie (
 
 Staiy berichtet über Spiegel-Enthüllung: Wirtschaftsministerium ließ Gaslobby Kriterien definieren, die Batteriespeicher benachteiligen
 
-### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+### → [[Good News - Gute Nachrichten April 2026 Teil 2]]
 
 EV-Adoption als Speicherergänzung: Wenn 96 % der US-Fahrer beim Elektroauto bleiben, wachsen die rollenden Batteriespeicher exponentiell — Bidirectional Charging (V2G) wird damit zur unausweichlichen Konsequenz von Goldbachs These.
 

@@ -57,7 +57,7 @@ Der Bund zahlt 2025 rund 121 Milliarden Euro an die Rentenversicherung — davon
 
 ## Ursachen
 
-**Agenda 2010 / Schröder:** [[Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] benennt den Ausgangspunkt. Die Agenda 2010 hat den breiten Niedriglohnsektor geschaffen — Minijobs, Leiharbeit, Lohndumping. Das alles erzeugt in 30 Jahren Altersarmut. Der heutige Druck auf die Rentenkasse ist die verzögerte Rechnung.
+**Agenda 2010 / Schröder:** [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] benennt den Ausgangspunkt. Die Agenda 2010 hat den breiten Niedriglohnsektor geschaffen — Minijobs, Leiharbeit, Lohndumping. Das alles erzeugt in 30 Jahren Altersarmut. Der heutige Druck auf die Rentenkasse ist die verzögerte Rechnung.
 
 **Privatisierungsideologie:** Die Entscheidung, Riester als "dritte Säule" einzuführen, war politisch motiviert — Arbeitgeber sollten entlastet werden. Das Experiment ist gescheitert, die Folgekosten tragen die Versicherten.
 
@@ -132,5 +132,5 @@ phoenixRunde Reformen 2026 als politische Kontroverse in Echtzeit — die Argume
 | [[Christoph Butterwegge — Armut NEU DENKEN]] | Ursache |
 | [[Martyna Linartas — Unverdiente Ungleichheit]] | Problem |
 | [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] | Kontext |
-| [[Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] | Ursache |
+| [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] | Ursache |
 | [[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz]] | Problem |

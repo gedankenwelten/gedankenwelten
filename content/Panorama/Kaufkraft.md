@@ -176,6 +176,6 @@ Verbundene Notes: [[Heiner Flassbeck — Deutschlands Lohn-Irrsinn]] · [[Heiner
 | [[Martyna Linartas — Unverdiente Ungleichheit]] | Problem · Lösung |
 | [[Christoph Butterwegge — Armut NEU DENKEN]] | Problem · Ursache |
 | [[MONITOR — Minijobs als Armutsfalle]] | Problem |
-| [[Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] | Ursache |
+| [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] | Ursache |
 | [[Rente]] | Verbundenes Panorama |
 | [[Demokratische Wertschoepfung]] | Verbundenes Panorama |

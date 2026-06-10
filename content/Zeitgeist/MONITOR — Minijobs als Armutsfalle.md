@@ -156,7 +156,7 @@ Beide Notes entlarven denselben CDU-Widerspruch: Merz fordert „mehr Arbeit", v
 
 Linartas' Konzept der „unverdienten Ungleichheit" wird durch Minijobs konkret materialisiert: Menschen arbeiten, bleiben aber arm — nicht wegen mangelnder Leistung, sondern weil das System Aufstieg strukturell blockiert.
 
-### → [[Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+### → [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 
 Historische Ursache: Schröders Hartz-Reformen haben die Minijob-Expansion ermöglicht. Der „Klebeeffekt" ist das direkte Erbe der rot-grünen Arbeitsmarktliberalisierung.
 

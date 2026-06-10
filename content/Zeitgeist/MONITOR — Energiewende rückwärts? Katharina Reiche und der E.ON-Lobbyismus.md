@@ -204,11 +204,11 @@ Das Prometheus Institut (FDP, Atlas-Netzwerk) und der E.ON-Lobbyismus sind struk
 
 Der direkte Gegenpol: während Reiche die Energiewende politisch bremst, zeigt diese Doku, dass Bürgerinnen und Gemeinschaften sie längst vorantreiben — Großbardorf, Energiegarten Grensfeen, B Energy
 
-### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 GCA #28 zeigt Reiche in der Krise: kein Tempolimit, Pendlerpauschale statt Strukturreform, Outsourcing ans Ministerium — die Lobbyismus-Prägung aus dem MONITOR-Bericht wird hier in politische Entscheidungen übersetzt
 
-### → [[Good News — Positive Nachrichten März 2026]]
+### → [[Good News - Positive Nachrichten März 2026]]
 
 Trotz Reiches politischem Gegenwind: 2025 überholen Wind & Solar erstmals fossile Energie in der EU — die Energiewende läuft, nicht wegen der Politik, sondern trotz ihr
 
@@ -232,7 +232,7 @@ Die Tabak-Blueprint-Strategie aus der ARTE-Doku ist das Playbook hinter Energiel
 
 Staiy berichtet am 12.04.2026 über den CDU-Sozialflügel, der Reiches Entlassung fordert — Reaktion auf denselben Lobbyismus-Hintergrund, den Monitor dokumentiert
 
-### → [[Good News — Gute Nachrichten April 2026]]
+### → [[Good News - Gute Nachrichten April 2026]]
 
 Das Nordsee-Netz (100 GW, 10 Länder, 11 Mrd. $) zeigt das konzeptuelle Spannungsfeld: Auf EU-Ebene beschleunigt sich die Energiewende strukturell, auf nationaler Ebene sabotiert Lobbypolitik (Reiche) exakt diese Infrastruktur — Fortschritt und Regression laufen parallel.
 

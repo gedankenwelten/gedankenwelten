@@ -181,7 +181,7 @@ ARTE analysiert Agnotologie — die industrielle Produktion von Unwissen. Diese 
 
 Temelkuran beschreibt aus türkischer Erfahrung die Erosionsstufen der Demokratie — Medienkontrolle ist ein frühes Warnsignal. Diese Note liefert das aktuelle Panorama: Orbán, Bolloré, Ellison als Variationen desselben Musters.
 
-### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 Gleicher Podcast, thematischer Bogen: #28 beschreibt den Angriff auf Pressefreiheit, diese Note den ökonomischen Hebel — Medien werden nicht verboten, sondern *gekauft*.
 

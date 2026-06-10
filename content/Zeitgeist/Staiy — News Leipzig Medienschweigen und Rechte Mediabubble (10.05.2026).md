@@ -256,7 +256,7 @@ Staiy berichtet Magyars Vereidigung als Aufbruch; Gelegs erklärt die strukturel
 ### → [[Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]]
 Staiy erwähnt das Magdeburg Demokratiefest der Amadeo Antonio Stiftung als Zivilgesellschaft in Aktion. Daniel dokumentiert, wie die AfD genau diese Stiftung im Bundestag aktiv delegitimiert — durch konstruierte Empörung. Dieselbe Institution aus gegensätzlichen Blickwinkeln: Demokratiestärkung vs. Angriffsziel.
 
-### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 Beide Notes zeigen den Konflikt zwischen zivilgesellschaftlichen Demokratieinitiativen und rechten Delegitimierungsstrategien. GCA #28 analysiert den strukturellen Angriff auf Stiftungsfinanzierung; Staiy's Magdeburg-Demokratiefest zeigt, was diese Initiativen konkret tun. GCA sieht den Angriff als gezielte Strategie; Staiy beschreibt die Gegenöffentlichkeit in der Praxis.
 
 ### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]

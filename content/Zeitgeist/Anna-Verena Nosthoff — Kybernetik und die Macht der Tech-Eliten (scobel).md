@@ -222,7 +222,7 @@ Daubs Silicon-Valley-Kritik ergänzt Nosthoffs kybernetische Analyse: „Creeps"
 
 Fromms "kategorischer Imperativ der Technik" (1975): was machbar ist, wird gemacht. Nosthoff zeigt seine extremste Gegenwartsform — Tech-Milliardäre als neue anonyme Autorität ohne demokratische Kontrolle
 
-### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+### → [[Good News - Gute Nachrichten April 2026 Teil 2]]
 
 Das EU-Verfahren gegen TikToks Suchtdesign ist die regulatorische Gegenbewegung zur kybernetischen Steuerungslogik, die Nosthoff theoretisch beschreibt: Plattformen als Verhaltensmodifikations-Maschinen — die EU bricht das Tabu, dass „Code is Law" über staatlicher Souveränität steht.
 

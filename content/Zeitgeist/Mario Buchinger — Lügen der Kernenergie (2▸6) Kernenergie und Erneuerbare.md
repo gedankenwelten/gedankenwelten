@@ -168,7 +168,7 @@ Kemfert bestätigt aus ökonomischer Perspektive: Atomkraft und Erneuerbare sind
 
 Reiches Gesetzentwurf könnte als politisches Werkzeug gelesen werden, die Inkompatibilität von Kernenergie und Erneuerbaren durch Netzrestriktionen künstlich herzustellen.
 
-### → [[Good News — Positive Nachrichten März 2026]]
+### → [[Good News - Positive Nachrichten März 2026]]
 
 2025-Daten: Wind & Solar 30% des EU-Stroms vs. 29% fossile, Kohle unter 10% — empirische Validierung von Buchangers Hauptthese: Erneuerbare haben ohne Kernkraft-Renaissance die fossile Energie überholt
 

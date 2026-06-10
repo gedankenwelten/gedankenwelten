@@ -233,7 +233,7 @@ Reiches Pläne verlängern die fossile Abhängigkeit aktiv: Ein verlangsamter Au
 
 Konkrete Ausstiegspfade aus der fossilen Abhängigkeit: Großbardorf (kommunale Energieautarkie), B Energy (Biogas für Afrika), Solarlaternen (dezentrale Versorgung ohne Netz)
 
-### → [[Good News — Positive Nachrichten März 2026]]
+### → [[Good News - Positive Nachrichten März 2026]]
 
 China und Indien 2025 erstmals seit 1973 gleichzeitig mit weniger Kohle: direkte empirische Antwort auf Kemferts Kernthese der fossilen Abhängigkeit
 
@@ -253,7 +253,7 @@ Konkrete Technologie, die Kemferts Diagnose beantwortet: kein Öl, kein Import, 
 
 Kupfer-Importabhängigkeit als strukturell identisches Problem neben Öl: 1,3 Mio. t/Jahr, null Primärförderung — der EU Critical Raw Materials Act als verspätete Antwort auf Kemferts Grunddiagnose
 
-### → [[Good News — Gute Nachrichten April 2026]]
+### → [[Good News - Gute Nachrichten April 2026]]
 
 Das Nordsee-Energienetz (10 Länder, 11 Mrd. $, 100 GW bis 2050) liefert den empirischen Beweis für Kemferts normatives Argument: Russlands Invasion beschleunigt Energieautonomie schneller als Klimaargumente — fossile Abhängigkeit ist jetzt auch sicherheitspolitisch nicht mehr vertretbar.
 

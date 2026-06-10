@@ -172,9 +172,9 @@ China sichert seine südamerikanischen Lieferketten parallel ab — über Invest
 
 [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Kehnel plädiert für zirkuläre, lokale Wirtschaftsmodelle; die Soja-Dokumentation zeigt, wohin globale Monokulturen und Exportabhängigkeit führen — genau das, was Kehnel überwinden will.
 
-[[Good News — Positive Nachrichten März 2026]] — EU-Mercosur-Abkommen Januar 2026 ist ein direktes Produkt derselben Handelsdynamiken: Trump-Zölle erzwingen globale Kooperationsverschiebungen — dasselbe geopolitische Muster wie bei der Soja.
+[[Good News - Positive Nachrichten März 2026]] — EU-Mercosur-Abkommen Januar 2026 ist ein direktes Produkt derselben Handelsdynamiken: Trump-Zölle erzwingen globale Kooperationsverschiebungen — dasselbe geopolitische Muster wie bei der Soja.
 
-[[Good News — Gute Nachrichten April 2026 Teil 2]] — Konkreter Bruchpunkt im Soja-System: 1.000 indigene Munduruku-Aktivisten haben Cargills Hafenausbau am Tapajós gestoppt. Die ARTE-Note erklärt das System, die Cargill-Story den Widerstand gegen genau diese Logik — David gegen Goliath in der Soja-Geopolitik.
+[[Good News - Gute Nachrichten April 2026 Teil 2]] — Konkreter Bruchpunkt im Soja-System: 1.000 indigene Munduruku-Aktivisten haben Cargills Hafenausbau am Tapajós gestoppt. Die ARTE-Note erklärt das System, die Cargill-Story den Widerstand gegen genau diese Logik — David gegen Goliath in der Soja-Geopolitik.
 
 [[taz Reingehen — Wer das Öl hat, hat das Sagen]] — Öl und Soja als parallele Fallstudien geopolitischer Rohstoffmacht: Herrmann zeigt, wie Iran die Hormus-Straße als Waffe einsetzt — dasselbe Muster wie Brasilien/USA im Sojahandel, nur mit direktem militärischem Eskalationspotenzial
 

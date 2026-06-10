@@ -62,7 +62,7 @@ Die demokratischste Waffe, die es gibt, ist Information. Und sie ist legal.
 
 Das Muster: Der Staat reagiert auf Transparenz mit **Einschränkung von Transparenz**. Das ist keine Panne — das ist das System.
 
-[[Gilda con Arne 28|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] dokumentiert die andere Seite: die 551 Fragen der Union zur Zivilgesellschaft, die Extremismusklauseln, die Förderstopps. Die Transparenzwaffe wird von oben gefürchtet — und deshalb bekämpft.
+[[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] dokumentiert die andere Seite: die 551 Fragen der Union zur Zivilgesellschaft, die Extremismusklauseln, die Förderstopps. Die Transparenzwaffe wird von oben gefürchtet — und deshalb bekämpft.
 
 > [!question] Weitergedacht
 > FragDenStaat-Recherchen werden durch IFG-Einschränkungen beantwortet. *Was sagt es über ein System, wenn es auf legale Transparenz mit der Einschränkung von Transparenz reagiert?*
@@ -152,7 +152,7 @@ Die Defensive als Hintergrundfolie: Was in *Gelebte Demokratie* aufgebaut wird, 
 | [[Zeitgeist/Semsrott — Zur Gegenmacht\|Semsrott — Zur Gegenmacht]] | Hauptquelle: Mehrheitslüge, FragDenStaat, Sanktionsfrei, Freiheitsfonds, ver.di, Bibliotheken |
 | [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN\|Gesine Schwan — Macht NEU DENKEN]] | Gestaltungsmacht als demokratische Praxis von unten |
 | [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN\|Quent & Goepel — Extremismus NEU DENKEN]] | 16% als demokratische Infrastruktur; Hoffnung kommt vom Machen |
-| [[Gilda con Arne 28\|Gilda con Arne #28 — Angriff auf Zivilgesellschaft]] | Was gelebte Demokratie bekämpft: Förderstopps, Einschüchterung |
+| [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft\|Gilda con Arne #28 — Angriff auf Zivilgesellschaft]] | Was gelebte Demokratie bekämpft: Förderstopps, Einschüchterung |
 | [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten\|Moini & Chiofalo — GFF AfD-Verbotsgutachten]] | Rechtsstaat als demokratisches Instrument; GFF als Gegenrechtsschutz |
 | [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie\|Zhao, Forst & Williams — Bedeutungen der Demokratie]] | Majoritäre vs. deliberative Demokratie; philosophischer Rahmen |
 | [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN\|Butterwegge — Armut NEU DENKEN]] | Strukturelle Einordnung: Armut als politisch produziertes Problem |

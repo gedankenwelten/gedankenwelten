@@ -290,7 +290,7 @@ Quaschnings Forderung nach günstigem ÖPNV und Umverteilung statt Tankrabatt is
 
 Die Soja-Dokumentation zeigt, wohin globale Monokulturen und Exportabhängigkeit führen: genau das, was Kehnel mit zirkulären, lokalen Wirtschaftsmodellen überwinden will.
 
-### → [[Good News — Positive Nachrichten März 2026]]
+### → [[Good News - Positive Nachrichten März 2026]]
 
 High Seas Treaty und Naturrechte für Bienen (Peru) sind zeitgenössische Ausprägungen der Commons-Logik: Schutz geteilter Güter als kollektive Verantwortung — Kehnels Mittelalter-Modell in moderner Politik.
 
@@ -298,11 +298,11 @@ High Seas Treaty und Naturrechte für Bienen (Peru) sind zeitgenössische Auspr�
 
 Felix argumentiert für Batteriespeicher als heimische Wertschöpfung statt fossiler Kapitalabflüsse — das ist Kehnels Commons-Logik in Investitionsform: Wert im Land halten statt ins Ausland exportieren
 
-### → [[Good News — Gute Nachrichten April 2026]]
+### → [[Good News - Gute Nachrichten April 2026]]
 
 Guineawurm-Ausrottung: kein Medikament, kein Impfstoff — nur Wasserfilter und Gemeinschaftsaufklärung durch das Carter Center. Das reinste Gegenbeispiel zu High-Tech-Solutionismus: kollektives, low-tech Handeln als wirksamster Fortschrittstyp — Kehnels Mittelalter-These in der globalen Gesundheitspolitik.
 
-### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+### → [[Good News - Gute Nachrichten April 2026 Teil 2]]
 
 30-Hills-Sumatra als integrierte Bewirtschaftung: Naturschutz nur dort wirksam, wo Gesundheitsversorgung, Schule und Tierschutz als ein einziger Vertrag gedacht werden. Kehnels Commons-Logik im tropischen Regenwald — direkter Beleg, dass Ordnungsmodelle aus dem Mittelalter heute funktionieren.
 
