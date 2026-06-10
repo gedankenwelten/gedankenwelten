@@ -184,6 +184,10 @@ Soroushs intellektuelle Biografie — Verfolgung, Lehrverbot, Exil — ist der p
 
 Strukturell analoges Problem: Wie bewahrt man den lebendigen Kern einer Tradition gegen ihre institutionelle Erstarrung? Konfuzius trennt Ritual (Li) von echter Mitmenschlichkeit (Ren) — Soroush trennt kontingente Koraninterpretation vom wesentlichen Glaubensfundament. Reform als Rückkehr zum Kern, nicht als Bruch.
 
+### → [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi]]
+
+Dieselbe Grundbewegung in einer anderen Welt: Reform nicht als Import von außen, sondern als Arbeit am Eigenen von innen. Cusicanqui dekolonisiert die Subjektivität durch die Aymara-Episteme, wie Soroush den Glauben durch seine eigene Tradition — beide gegen die doppelte Front aus heimischer Orthodoxie und westlicher Bevormundung, beide mit dem Preis des Bruchs mit der eigenen Institution.
+
 ---
 
 ## Weiterdenken

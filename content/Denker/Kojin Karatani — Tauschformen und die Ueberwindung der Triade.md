@@ -224,6 +224,10 @@ Mattei belegt empirisch, was Karatani strukturell behauptet: Kapital, Staat und 
 
 Karatаnis Mode-A-Tausch (Reziprozität, gemeinschaftliches Eigentum) ist strukturell identisch mit dem indigenen Eigentumsmodell, das der Kolonialismus als „herrenloses Land" deklarierte. Der europäische Mode-C-Tausch erklärt den eigenen Rahmen für universell und macht andere Tauschformen unsichtbar — was Wesche als historischen Rechts-Trick benennt und Karatani als systemischen Strukturzug der Triade erklärt.
 
+### → [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi]]
+
+Cusicanquis Neocomunidad — temporäre Gemeinschaften der Affinität jenseits von Markt und Staat — ist eine gelebte Instanziierung von Mode D: Sie zeigt, wie Mode A (Aymara-Reziprozität, Gemeinschaft) nicht als verlorene Vorgeschichte überlebt, sondern im bolivianischen Anarchismus und in aktivistischen Kollektiven der Gegenwart aktiv reaktiviert wird. Karatani erklärt die Struktur; Cusicanqui liefert die biografische und politische Praxis.
+
 ---
 
 ## Weiterdenken

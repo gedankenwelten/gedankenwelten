@@ -449,6 +449,10 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Renée DiResta
 **Status:** ✓ Vollanalyse → [[DenkerVita/Renee DiResta]]
 
+
+## Silvia Rivera Cusicanqui
+**Status:** ✓ Vollanalyse → [[DenkerVita/Silvia Rivera Cusicanqui]]
+
 ## René Descartes
 **Status:** ✓ Vollanalyse → [[DenkerVita/Rene Descartes]]
 

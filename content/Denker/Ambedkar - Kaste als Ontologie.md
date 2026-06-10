@@ -164,6 +164,7 @@ Das ist eine globale Konstante: Es ist einfacher, gegen Unrecht zu kämpfen, das
 - [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen]] — Wie Soroush den Islam von innen reformiert, transformiert Ambedkar den Buddhismus von innen. Beide bewegen sich in der gefährlichen Zone zwischen Religionskritik und religiöser Erneuerung.
 - [[Denker/Walther Ziegler — Marx in 60 Minuten]] — Ambedkars Auseinandersetzung mit Marx ist zentral: Er akzeptiert die Kapitalismuskritik, ergänzt sie aber um die Kastenanalyse. Klasse allein erklärt Indien nicht.
 - [[Denker/Walther Ziegler — Schopenhauer in 60 Minuten]] — Ambedkars Reinterpretation von *Dukkha* steht in interessanter Spannung zu Schopenhauers Leidensphilosophie: Während Schopenhauer individuelle Askese als Ausweg sieht, setzt Ambedkar auf kollektive politische Transformation.
+- [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi]] — Cusicanquis „Kette der Scharniere" ist das lateinamerikanische Äquivalent zu Ambedkars Turm ohne Treppen: Unterdrückung als fraktal verinnerlichte Struktur, Aufstieg um den Preis der Verleugnung der eigenen Herkunft. Der Kontrast: Wo Ambedkar auf Verfassung und Konversion setzt, vertraut Cusicanqui keiner Institution — nur der Mikropolitik der Neocomunidad. Beide entwickeln ihre Theorie aus der eigenen erlebten Wunde.
 
 ---
 
