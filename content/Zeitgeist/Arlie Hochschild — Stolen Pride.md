@@ -19,6 +19,16 @@ aliases:
 
 # Arlie Hochschild — Stolen Pride: Scham, Verlust und der Aufstieg der Rechten
 
+![[assets/Arlie-Hochschild-Stolen-Pride-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Thomas Hart Benton** — amerikanischer Regionalismus der WPA-Murals: geschwungene rhythmische Hügel, erdwarme Palette aus Umbra, Salbeigrün, Kohleschwarz und Glutorange, muskulös stilisierte Figuren. Benton hat genau diese Welt gemalt — Kentucky-Hügel, Bergleute, Kirche und Trailer — und seine Wärme ist Hochschilds Methode als Malstil: Die Menschen werden nicht seziert, sondern ernst genommen. Das Bild nimmt die stärkste Metapher der Note wörtlich: Das Flöz glüht — Scham als Bodenschatz. Der Demagoge baut es mit der Spitzhacke ab und verfeuert es in einem brüllenden Maul-Ofen; rechts hält ein Bergmann dasselbe Material schützend in den Händen — Stolz, zurückgewonnen.
+
+*Prompt:* Wide horizontal banner, 1200×500, in the style of Thomas Hart Benton's WPA-era American regionalist murals — sinuous rhythmic forms, swirling hills, warm earthen palette of umber, sage green, coal black and ember orange, muscular stylized figures with simplified indistinct faces, painterly egg-tempera texture, no photorealism, no realistic faces, no text. A deep Appalachian valley of winding roads, a small white wooden church, a trailer home and bare tipple towers under a stormy teal sky. Running through the cut-open hillside like a geological seam: instead of black coal, a glowing ember-red vein of light. At the center, a huge bloated figure in a dark business suit with a gold tie swings a pickaxe into the glowing seam, scooping the radiant lumps onto a conveyor belt that feeds a furnace shaped like a roaring open mouth, flames and sparks blasting upward into the storm clouds. On the right, in calm warm lamplight, a row of upright coal miners with helmets and headlamps stands watching — dignified, not defeated; the foremost miner holds one glowing lump cupped protectively in both hands, its light illuminating the group from below. In the left foreground, a worn rocking chair and a coffee cup on a porch, small and quiet against the vast moving landscape.
+
+</details>
+
 > [!abstract] Worum es geht
 > Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Arlie Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt. Nach zehn Jahren Feldforschung in Pikeville, Kentucky — weißester und zweitärmster Kongressbezirk der USA — erklärt die Berkeley-Soziologin, warum die Menschen dort nicht trotz, sondern *wegen* ihrer Scham einen „Bully" wählen. Ihr Werkzeug ist radikale Empathie ohne Zustimmung: eine zweite Sprache lernen, in der Stolz und Scham die Grammatik sind. Aufgenommen zwei Monate vor der US-Wahl 2024 in der Buchhandlung Politics and Prose, Washington D.C.
 
