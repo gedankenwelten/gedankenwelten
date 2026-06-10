@@ -225,6 +225,10 @@ Cusicanquis Aymara-Episteme — Berge, Flüsse und Sterne als Subjekte, die „d
 
 Dieselbe Wurzel in zwei Erfahrungswelten: Beide verlegen die Verwandlung der Welt in die kleinste Einheit — die Begegnung, den Alltag — und beide wissen, dass Strategie die Wirkung tötet (*„lo decolonial es una moda"* / „sobald die Begegnung Strategie wird, hört sie auf, eine zu sein"). Cusicanquis Aguayo-Komplex ist der empirische Beweis der Faden-These unter härtesten Bedingungen: Rositas Fäden ließen sich nicht heraustrennen, selbst als die koloniale Ordnung die Herkunftsadresse löschte. Der Unterschied ist die Temperatur — das Netzwerk webt Vertrauen (Yin-Yang-Linie), Ch'ixi hält die Spannung — und ihre Gegenfrage an jede Philosophie der freien Begegnung: *Wer kann sie sich leisten, wenn Begegnungen nie machtfrei sind?*
 
+### → [[Panorama/NoAfD|Panorama: NoAfD]]
+
+Die Kette der Scharniere erklärt eines der Rätsel des Rechtsrucks: warum Menschen eine Bewegung unterstützen, deren Opfer sie selbst wären — etwa Migranten, die AfD wählen. Wer selbst Verachtung erfährt, kauft sich Zugehörigkeit am billigsten durch Verachtung nach unten (Guamán Pomas Mestizen, Budes Dienstleistungsproletariat, die vorletzte Sprosse der Leiter). Das Panorama führt diesen Mechanismus als eigene Ursache unter „Das Scharnier — Abwertung nach unten".
+
 ---
 
 ## Weiterdenken
