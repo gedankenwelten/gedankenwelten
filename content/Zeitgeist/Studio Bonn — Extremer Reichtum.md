@@ -263,7 +263,7 @@ Flassbeck liefert die makroökonomische Mechanik (r > g, Sparparadoxon, Saldenme
 ### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
 Navidi zeigt das US-Extremszenario dessen, was Studio Bonn als Demokratiegefahr abstrakt benennt. Die Steuervermeidungsindustrie (legal, $900/h) ist in Navidis Welt bereits zur offen korrumpierenden Macht geworden. Engelhorns freiwillige Umverteilung wäre dort eine Kuriosität — kein Gegengewicht.
 
-### → [[Zeitgeist/Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+### → [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 GCA #27 erklärt, warum Kühnerts klare Forderungen in Studio Bonn politisch folgenlos bleiben: Die SPD hat seit Schröder systematisch die Interessen der Vermögenden bevorzugt. Kühnert sitzt im Panel und fordert Erbschaftssteuerreform — GCA #27 dokumentiert, warum seine eigene Partei genau diesen Weg verweigert.
 
 ---

@@ -122,11 +122,11 @@ Kemper analysiert die strukturelle Verfassungsfeindlichkeit der AfD; Kotrés Pri
 
 Wie die AfD trotz solcher Konzepte wächst: Skandale werden nicht als Abschreckung, sondern als Authentizitätsbeweis wahrgenommen
 
-### → [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+### → [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 
 Das Gericht ließ offen, ob die AfD als gesichert rechtsextrem gilt; Kotrés Plan und Sellner-Auftritt sind Argumente, die diese Einstufung stützen
 
-### → [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
+### → [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
 
 El-Mafaalani: Die AfD schürt Misstrauen zwischen gesellschaftlichen Gruppen — Kotré's Konzept betreibt das bewusst durch Dehumanisierung ("entfernen", "Abschiebeindustrie")
 

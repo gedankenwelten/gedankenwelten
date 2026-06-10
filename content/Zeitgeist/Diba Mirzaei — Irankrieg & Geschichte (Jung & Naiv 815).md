@@ -290,13 +290,13 @@ beide behandeln Nuklearfrage, Sicherheitsdilemma und israelische Atomwaffen
 
 Mirzaeis Kriegsanalyse berührt Münklers Fragen nach Kriegslogik und postheroischer Sicherheitspolitik
 
-### → [[Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+### → [[Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
 
 Iran-Krieg und Völkerrechtsfragen
 
-- [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+- [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 
-### → [[Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+### → [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
 
 Iran-Fluchtnarrative verbinden sich mit Mirzaeis Diaspora-Perspektive
 

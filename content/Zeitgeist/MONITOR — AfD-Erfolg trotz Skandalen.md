@@ -113,7 +113,7 @@ Sie beziffert diesen Graubereich auf **rund 20 % der Bevölkerung**: nicht recht
 
 ## Verbindungen
 
-### → [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
 
 derselbe Themenkomplex: Karin Prien und Demokratieförderung; dort: 200 geförderte Projekte in Gefahr, Extremismusklausel; hier: die politische Signalwirkung für den Graubereich
 

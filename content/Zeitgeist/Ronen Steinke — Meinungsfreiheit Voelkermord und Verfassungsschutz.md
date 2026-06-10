@@ -235,7 +235,7 @@ Möllers fragt philosophisch, was Freiheit in der Demokratie bedeutet; Steinke z
 
 Verfassungsschutz-Perspektive auf die AfD vs. Kempers soziologische Klassifikation
 
-### → [[Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+### → [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 
 AfD-Verfassungsschutzkampf, den Steinke aus juristischer Sicht analysiert
 

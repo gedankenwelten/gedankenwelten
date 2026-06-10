@@ -92,10 +92,10 @@ Nicht: Ideologische Schärfe, sondern pragmatische Problemorientierung.
 
 ## Cortex-Notes
 
-- [[Zeitgeist/Good News — Gute Nachrichten April 2026]]
-- [[Zeitgeist/Good News — Gute Nachrichten April 2026 Teil 2]]
-- [[Zeitgeist/Good News — Positive Nachrichten März 2026]]
-- [[Zeitgeist/Good News — Gute Nachrichten Mai 2026]]
+- [[GoodNews/Good News - Gute Nachrichten April 2026]]
+- [[GoodNews/Good News - Gute Nachrichten April 2026 Teil 2]]
+- [[GoodNews/Good News - Positive Nachrichten März 2026]]
+- [[GoodNews/Good News - Gute Nachrichten Mai 2026]]
 - [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
 
 ---

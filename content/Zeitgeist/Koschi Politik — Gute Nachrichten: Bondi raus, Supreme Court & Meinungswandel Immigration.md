@@ -128,7 +128,7 @@ Alexy und René Good: die konkreten Todesfälle, die Koschi als Auslöser des Me
 
 Teil des ICE-Bildes, das die öffentliche Meinung kippte
 
-### → [[Good News — Positive Nachrichten März 2026]]
+### → [[Good News - Positive Nachrichten März 2026]]
 
 paralleles Format: positive Entwicklungen als Kontrapunkt zur Dauerkrise
 

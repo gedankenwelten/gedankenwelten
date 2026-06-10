@@ -180,7 +180,7 @@ Der Energiegarten als praktische Umsetzung von Thoma-Prinzipien: Natur als Partn
 
 Buchinger zeigt, dass die Kernenergie-Debatte eine politische Ablenkung ist; diese Doku zeigt, welche Lösungen stattdessen schon existieren
 
-### → [[Good News — Positive Nachrichten März 2026]]
+### → [[Good News - Positive Nachrichten März 2026]]
 
 2025-Datenpunkt: Wind & Solar überholen erstmals fossile Brennstoffe in der EU (30% vs. 29%) — die empirische Bestätigung, dass die Energiewende ankommt
 

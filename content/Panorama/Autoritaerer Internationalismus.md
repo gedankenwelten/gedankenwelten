@@ -87,7 +87,7 @@ Temelkurans entscheidende Beobachtung: Die **Geschwindigkeit** und **Waffenisier
 
 **Orbán als Blaupause:** [[Ernst Gelegs — Ist das Regime Orbán am Ende]] dokumentiert das ungarische Modell in seiner ganzen Architektur: 80 % der Medien unter Kontrolle (Reporter ohne Grenzen / atlatszo.hu), systematische Aushöhlung der Justiz, EU-Gelder als Patronage-System. Aber: [[Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]] zeigt, dass auch Wahlautokratien kippen können — wenn die Opposition sich einigt. Orbáns System wankt.
 
-[[Gilda con Arne — Rechte Milliardäre kaufen Medien]] kartiert die **globale Medienübernahme** als Parallelprozess:
+[[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] kartiert die **globale Medienübernahme** als Parallelprozess:
 - **Ungarn** (Orbán): 80 % Medienkontrolle
 - **Frankreich** (Bolloré/CNews): „Fox News Frankreich" — 8 Mio. Zuschauer, Zemmour promotet GRT
 - **USA** (Bezos/WaPo): Säuberung der Redaktion, um Trump zu beschwichtigen; Ellison (Paramount): Bari Weiss installiert, CECOT-Folter-Berichterstattung unterdrückt
@@ -103,7 +103,7 @@ Temelkurans entscheidende Beobachtung: Die **Geschwindigkeit** und **Waffenisier
 
 [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]] liefert die moralpsychologische Analyse: Stammeslogik ist universell (Beduinen-Sprichwort: „Ich gegen meinen Bruder; wir gegen den Cousin; wir alle gegen den Fremden"). Die neue Links-Rechts-Achse ist nicht mehr Arbeit vs. Kapital, sondern **lokal/national vs. global/kosmopolitisch** (Zugbrücke zu/auf). Beide Seiten haben moralische Blindstellen. Haidts Einsicht: Frieden nicht erwarten, Tribalismus managen — durch übergeordnete gemeinsame Ziele.
 
-[[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] ergänzt den Schlüsselmechanismus: Die **Zahl** misstrauischer Menschen hat sich nicht verändert — aber die **Digitalisierung** verbindet die vorher Isolierten. Ergebnis: Misstrauensinfrastrukturen (Alt-Media, Bitcoin, AfD) — selbstverstärkende Systeme. Der semantische Shift von „alternativ" (1970er: linke Gegenkultur) zu „alternativ" (heute: Misstrauen gegen Institutionen) ist kein Zufall. Merkels „alternativlos" triggerte die AfD-Gründung Wochen später.
+[[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] ergänzt den Schlüsselmechanismus: Die **Zahl** misstrauischer Menschen hat sich nicht verändert — aber die **Digitalisierung** verbindet die vorher Isolierten. Ergebnis: Misstrauensinfrastrukturen (Alt-Media, Bitcoin, AfD) — selbstverstärkende Systeme. Der semantische Shift von „alternativ" (1970er: linke Gegenkultur) zu „alternativ" (heute: Misstrauen gegen Institutionen) ist kein Zufall. Merkels „alternativlos" triggerte die AfD-Gründung Wochen später.
 
 → [Lösungsansatz ↓](#digitale-souveränität-und-regulierung)
 
@@ -111,13 +111,13 @@ Temelkurans entscheidende Beobachtung: Die **Geschwindigkeit** und **Waffenisier
 
 ## Ursachen
 
-**Ökonomische Globalisierung ohne demokratische Kontrolle:** [[Heiner Flassbeck — Krise und Rechtsruck]] zeigt: Der globale Rechtsruck begann 2008 — **gleichzeitig** in den USA (Tea Party), Russland (Putin), Österreich (FPÖ), Frankreich (Front National). Die Ursache: Lohndumping seit Agenda 2010 erzeugte Eurozone-Ungleichgewichte, Austeritätspolitik verbreitete Entsicherung. [[Martyna Linartas — Unverdiente Ungleichheit]] liefert die tiefere Schicht: Das neoliberale „Theaterstück" (Reagan, Thatcher, Kohl) hat global Vermögen von unten nach oben umverteilt — Pikettys r > g (Kapitalrendite > Wirtschaftswachstum) vergrößert die Schere strukturell. In Deutschland stammen über 50 % der Privatvermögen aus Erbschaft, soziale Mobilität ist OECD-zweitschlechteste, 6 Generationen von der Armut in die Mitte. Linartas: *„In meiner Generation kommt schon mehr darauf an, in welche Familie ich hineingeboren werde."* [[Clara Mattei — Geschichte der Austeritätspolitik]] weist nach: Die Linie Liberaler Kapitalismus → Faschismus ist kein Bruch — es ist ein Kontinuum. Austerität wurde als Antwort auf Arbeiterbewegungen **erfunden**.
+**Ökonomische Globalisierung ohne demokratische Kontrolle:** [[Heiner Flassbeck — Krise und Rechtsruck]] zeigt: Der globale Rechtsruck begann 2008 — **gleichzeitig** in den USA (Tea Party), Russland (Putin), Österreich (FPÖ), Frankreich (Front National). Die Ursache: Lohndumping seit Agenda 2010 erzeugte Eurozone-Ungleichgewichte, Austeritätspolitik verbreitete Entsicherung. [[Martyna Linartas — Unverdiente Ungleichheit]] liefert die tiefere Schicht: Das neoliberale „Theaterstück" (Reagan, Thatcher, Kohl) hat global Vermögen von unten nach oben umverteilt — Pikettys r > g (Kapitalrendite > Wirtschaftswachstum) vergrößert die Schere strukturell. In Deutschland stammen über 50 % der Privatvermögen aus Erbschaft, soziale Mobilität ist OECD-zweitschlechteste, 6 Generationen von der Armut in die Mitte. Linartas: *„In meiner Generation kommt schon mehr darauf an, in welche Familie ich hineingeboren werde."* [[Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]] weist nach: Die Linie Liberaler Kapitalismus → Faschismus ist kein Bruch — es ist ein Kontinuum. Austerität wurde als Antwort auf Arbeiterbewegungen **erfunden**.
 
 **Souveränitätsverlust:** [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] argumentiert: Politische Kompetenz wurde aus dem Nationalstaat herausverlagert (EU, WTO, EGMR). Etablierte Parteien bieten auf der Globalisierungsdimension keine Alternative. Die Rechte besetzt ein politisch ausgeschlossenes Angebot. Protestwahl ist **rational**, nicht pathologisch — diese Einsicht ist unbequem, aber notwendig.
 
 **Psychische Struktur:** [[Erich Fromm — Psychoanalyse des Faschismus]] analysiert: Der autoritäre Charakter als sadistisch-masochistische Formation — den Schwachen dominieren, den Starken anbeten. Führer und Gefolgschaft teilen dieselbe Struktur. Die ökonomisch bedrohte Mittelschicht ist die soziale Basis — heute wie 1933.
 
-**Psychologische Produktion autoritärer Führer:** [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] schließt die Lücke zwischen Fromms Strukturanalyse und den konkreten Akteuren: Warum sind es *gerade* Trump, Musk, Thiel, Bukele? Nicht moralischer Defekt — sondern systematische Empathie-Unterdrückung durch Elite-Erziehung. Joy Schaverians ABCD-Modell (Abandonment, Bereavement, Captivity, Dissociation) beschreibt den Mechanismus: Bindungsabbruch erzeugt Kontrollzwang, der sich in Erwachsenen als autokratisches Führungsverhalten ausdrückt. Pierre Bourdieus *habitus* verfestigt die Prägung zum Klasseninstinkt. [[scobel — Luhmann: Abklärung der Aufklärung]] liefert die systemtheoretische Erklärung, warum das *global* gleichzeitig passiert: Autopoiesis — Systeme reproduzieren sich ohne Architekt. Heritage Foundation, Atlas Network, CPAC sind keine Verschwörung, sondern selbstreferenzielle Systeme, die ihren eigenen Code (Macht/Ohnmacht) blind reproduzieren. Luhmanns Frage „Was ist die Gesellschaft *wirklich*, wenn man sie ernst nimmt?" führt zu einer unbequemen Antwort: Sie ist ein System, das autoritäre Führer *produziert*, nicht erleidet.
+**Psychologische Produktion autoritärer Führer:** [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] schließt die Lücke zwischen Fromms Strukturanalyse und den konkreten Akteuren: Warum sind es *gerade* Trump, Musk, Thiel, Bukele? Nicht moralischer Defekt — sondern systematische Empathie-Unterdrückung durch Elite-Erziehung. Joy Schaverians ABCD-Modell (Abandonment, Bereavement, Captivity, Dissociation) beschreibt den Mechanismus: Bindungsabbruch erzeugt Kontrollzwang, der sich in Erwachsenen als autokratisches Führungsverhalten ausdrückt. Pierre Bourdieus *habitus* verfestigt die Prägung zum Klasseninstinkt. [[scobel — Luhmann Abklaerung der Aufklaerung|scobel — Luhmann: Abklärung der Aufklärung]] liefert die systemtheoretische Erklärung, warum das *global* gleichzeitig passiert: Autopoiesis — Systeme reproduzieren sich ohne Architekt. Heritage Foundation, Atlas Network, CPAC sind keine Verschwörung, sondern selbstreferenzielle Systeme, die ihren eigenen Code (Macht/Ohnmacht) blind reproduzieren. Luhmanns Frage „Was ist die Gesellschaft *wirklich*, wenn man sie ernst nimmt?" führt zu einer unbequemen Antwort: Sie ist ein System, das autoritäre Führer *produziert*, nicht erleidet.
 
 **Technologische Akkumulation:** [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] zeigt die neue Dimension: Daten-Extraktion 2000er → ML-Monetarisierung 2010er → Staatlicher Funktionsübernahme 2025 (Palantir, Google-Gov, DOGE). Oligarchie ≠ Demokratie, die vorgibt, Demokratie zu sein. Trump + Palantir = direkte Staatsübernahme.
 
@@ -153,9 +153,9 @@ Verbundene Notes: [[Dietrich Bonhoeffer — Theorie der Dummheit]] · [[Erich Fr
 
 ### Unabhängige Medien schützen
 
-✅ **Trägt bei** — [[Gilda con Arne — Rechte Milliardäre kaufen Medien]] dokumentiert: Die Medienübernahme ist ein globaler Prozess — Ungarn, Frankreich, USA, Deutschland. Orbáns Modell (80 % Medienkontrolle) ist die Blaupause. [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] zeigt die Gegenbewegung: Delegitimierung von Stiftungen, Kriminalisierung von Protest. Unabhängiger Journalismus (CORRECTIV, Bellingcat, atlatszo.hu) ist demokratische Infrastruktur — er braucht nachhaltige Finanzierungsmodelle jenseits von Milliardärs-Philanthropie.
+✅ **Trägt bei** — [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] dokumentiert: Die Medienübernahme ist ein globaler Prozess — Ungarn, Frankreich, USA, Deutschland. Orbáns Modell (80 % Medienkontrolle) ist die Blaupause. [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] zeigt die Gegenbewegung: Delegitimierung von Stiftungen, Kriminalisierung von Protest. Unabhängiger Journalismus (CORRECTIV, Bellingcat, atlatszo.hu) ist demokratische Infrastruktur — er braucht nachhaltige Finanzierungsmodelle jenseits von Milliardärs-Philanthropie.
 
-Verbundene Notes: [[Gilda con Arne — Rechte Milliardäre kaufen Medien]] · [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] · [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
+Verbundene Notes: [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] · [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] · [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
 
 ---
 
@@ -171,7 +171,7 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Hannah Arendt — 
 
 ⚠️ **Unkonventionell, aber wirksam** — [[Gesine Schwan — Macht NEU DENKEN]] benennt die unerwartete Waffe: Subversive Freundlichkeit bricht Eskalationslogik. Narzisstische Autokraten sind psychologisch beschädigt — Konfrontation nährt sie, Freundlichkeit destabilisiert. [[Ece Temelkuran — So beginnt Faschismus in Amerika]] ergänzt: Exilierte und Immigrant*innen sind eine Widerstandsressource, weil sie wissen, wie man Heimat wieder aufbaut. Die iranische feministische Bewegung (*„Woman, Life, Freedom"*), die Gilda Sahebi dokumentiert, zeigt: Widerstand gegen Autoritarismus ist möglich — und er kommt oft von denen, die am meisten verloren haben.
 
-Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran — So beginnt Faschismus in Amerika]] · [[Gilda Sahebi — DenkerVita]]
+Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran — So beginnt Faschismus in Amerika]] · [[DenkerVita/Gilda Sahebi|Gilda Sahebi — DenkerVita]]
 
 ---
 
@@ -236,14 +236,14 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Andreas Kemper — Technofaschismus und die AfD]] | Theorie · Silicon Valley → AfD |
 | [[Ernst Gelegs — Ist das Regime Orbán am Ende]] | Empirie · Modell-Autokratie Ungarn |
 | [[Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]] | Empirie · Wahlautokratie wankt |
-| [[Gilda con Arne — Rechte Milliardäre kaufen Medien]] | Medien · Globale Übernahme |
-| [[Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] | Medien · Zivilgesellschaft |
+| [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] | Medien · Globale Übernahme |
+| [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] | Medien · Zivilgesellschaft |
 | [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]] | Medien · Desinformation |
 | [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]] | Theorie · Polarisierung |
-| [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] | Lösung · Misstrauensinfrastrukturen |
+| [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] | Lösung · Misstrauensinfrastrukturen |
 | [[Martyna Linartas — Unverdiente Ungleichheit]] | Ursache · Erbengesellschaft, r > g |
 | [[Heiner Flassbeck — Krise und Rechtsruck]] | Ursache · Ökonomische Wurzeln |
-| [[Clara Mattei — Geschichte der Austeritätspolitik]] | Ursache · Austerität → Faschismus |
+| [[Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]] | Ursache · Austerität → Faschismus |
 | [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] | Ursache · Souveränitätsverlust |
 | [[Gesine Schwan — Macht NEU DENKEN]] | Lösung · Gestaltungsmacht |
 | [[Koschi Politik — Trump gegen Papst Leo]] | Empirie · MAGA vs. Kirche |
@@ -252,7 +252,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] | Kontext · Autoritarismus-Debatte |
 | [[Götz Aly — Wie konnte das geschehen]] | Geschichte · Verstrickung |
 | [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] | Ursache · Psychologische Produktion |
-| [[scobel — Luhmann: Abklärung der Aufklärung]] | Theorie · Autopoiesis |
+| [[scobel — Luhmann Abklaerung der Aufklaerung|scobel — Luhmann: Abklärung der Aufklärung]] | Theorie · Autopoiesis |
 | [[S.N. Goenka — Vipassana]] | Resilienz · Sankhāra/Vedanā |
 | [[Matthieu Ricard — Altruismus als Vernunft]] | Resilienz · Trainierbares Mitgefühl |
 | [[Yanis Varoufakis — Trump Has Lost Everything]] | Empirie · Faschismus-Sequenz |
