@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Arlie Hochschild — Stolen Pride
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Stolen Pride — mit Scott Tong, Politics and Prose, 09.09.2024 (archive.org)](https://archive.org/details/9-9-hochschild) · [YouTube-Mitschnitt](https://www.youtube.com/watch?v=DtHkgDaIvlU) |
+| **Notiz** | [[Zeitgeist/Arlie Hochschild — Stolen Pride]] |
+| **DenkerVita** | [[DenkerVita/Arlie Russell Hochschild]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Hochschild_Stolen_Pride_Transkript.txt` |
+
 ## Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi
 
 | | |
@@ -1950,7 +1959,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Podcast** | Gilda con Arne, Folge 20 (Apple Podcasts / Steady) |
-| **Notiz** | [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]] |
+| **Notiz** | [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer]] |
 | **Transkript** | `Gedankenwelten/Transkripte/GCA20_Iran_Kai_Ambos_Transkript.txt` |
 | **Gäste** | Kai Ambos (Völkerrechts-Professor Göttingen), Jean-Philipp Kindler (MdB, Grüne) |
 | **Spektrum** | Links-progressiv — Debatte um Völkerrecht, humanitäre Intervention, Palmer-Kontroverse |
@@ -1962,7 +1971,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Podcast** | Gilda con Arne, Folge 23 (Apple Podcasts / Steady) |
-| **Notiz** | [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]] |
+| **Notiz** | [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]] |
 | **Transkript** | `Gedankenwelten/Transkripte/GCA23_AfD_Gericht_Iran_Transkript.txt` |
 | **Gäste** | Bijan Mouini (GFF, O-Ton) |
 | **Spektrum** | Links-progressiv — VG-Köln-Beschluss, Justiz-Kritik, Iran-Kriegstag 4 |
@@ -1974,7 +1983,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Podcast** | Gilda con Arne, Folge 24 (Apple Podcasts / Steady) |
-| **Notiz** | [[Zeitgeist/Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]] |
+| **Notiz** | [[Zeitgeist/Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]] |
 | **Transkript** | `Gedankenwelten/Transkripte/GCA24_BaWu_Wahl_Transkript.txt` |
 | **Spektrum** | Links-progressiv — BaWü-Wahlanalyse, Meinungsfreiheit, Iran-Mediennarrative |
 
@@ -1985,7 +1994,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Podcast** | [GCA #27 (Apple Podcasts, 1. April 2026)](https://podcasts.apple.com/de/podcast/gilda-con-arne-der-politik-podcast/id1839234585) |
-| **Notiz** | [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] |
+| **Notiz** | [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Sahebi_Semsrott_GCA27_Transkript.txt` |
 | **Spektrum** | Links-progressiv — SPD-Krise, Psychotherapie-Kürzung, Merz/sexualisierte Gewalt |
 
@@ -1996,7 +2005,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Podcast** | [GCA #28 (Apple Podcasts, 8. April 2026)](https://podcasts.apple.com/de/podcast/gilda-con-arne-der-politik-podcast/id1839234585?i=1000760206523) |
-| **Notiz** | [[Zeitgeist/Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] |
+| **Notiz** | [[Zeitgeist/Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Sahebi_Semsrott_GCA28_Angriff_kritische_Zivilgesellschaft_Transkript.txt` |
 | **Spektrum** | Links-progressiv — Iran-Wirtschaftskrise, Demokratie leben!-Förderstopp, Ulmen/Spiegel |
 

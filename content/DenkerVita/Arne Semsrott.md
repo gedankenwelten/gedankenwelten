@@ -70,8 +70,8 @@ Sein Anti-Rechtsextremismus-Engagement (*Machtübernahme*, Gegenrechtsschutz-Bei
 ## Cortex-Notes
 
 - [[Gilda con Arne — Rechte Milliardaere kaufen Medien]]
-- [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
-- [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
-- [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
-- [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+- [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+- [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+- [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+- [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 - [[Nico Semsrott — Bruessel sehen und sterben]] — Nicos Bühnenshow über 5 Jahre EU-Parlament: die EU-Dimension von Arnes Transparenz-Kampf. Beide Brüder zeigen dasselbe Grundproblem auf verschiedenen Ebenen — Arne national (IFG, FragDenStaat), Nico auf EU-Ebene (Bürokostenpauschale, Reisekostenerschleichung).

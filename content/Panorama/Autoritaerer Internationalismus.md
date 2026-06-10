@@ -153,9 +153,9 @@ Verbundene Notes: [[Dietrich Bonhoeffer — Theorie der Dummheit]] · [[Erich Fr
 
 ### Unabhängige Medien schützen
 
-✅ **Trägt bei** — [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] dokumentiert: Die Medienübernahme ist ein globaler Prozess — Ungarn, Frankreich, USA, Deutschland. Orbáns Modell (80 % Medienkontrolle) ist die Blaupause. [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] zeigt die Gegenbewegung: Delegitimierung von Stiftungen, Kriminalisierung von Protest. Unabhängiger Journalismus (CORRECTIV, Bellingcat, atlatszo.hu) ist demokratische Infrastruktur — er braucht nachhaltige Finanzierungsmodelle jenseits von Milliardärs-Philanthropie.
+✅ **Trägt bei** — [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] dokumentiert: Die Medienübernahme ist ein globaler Prozess — Ungarn, Frankreich, USA, Deutschland. Orbáns Modell (80 % Medienkontrolle) ist die Blaupause. [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]] zeigt die Gegenbewegung: Delegitimierung von Stiftungen, Kriminalisierung von Protest. Unabhängiger Journalismus (CORRECTIV, Bellingcat, atlatszo.hu) ist demokratische Infrastruktur — er braucht nachhaltige Finanzierungsmodelle jenseits von Milliardärs-Philanthropie.
 
-Verbundene Notes: [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] · [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] · [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
+Verbundene Notes: [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] · [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]] · [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
 
 ---
 
@@ -237,7 +237,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Ernst Gelegs — Ist das Regime Orbán am Ende]] | Empirie · Modell-Autokratie Ungarn |
 | [[Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]] | Empirie · Wahlautokratie wankt |
 | [[Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Rechte Milliardäre kaufen Medien]] | Medien · Globale Übernahme |
-| [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]] | Medien · Zivilgesellschaft |
+| [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]] | Medien · Zivilgesellschaft |
 | [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]] | Medien · Desinformation |
 | [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]] | Theorie · Polarisierung |
 | [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] | Lösung · Misstrauensinfrastrukturen |

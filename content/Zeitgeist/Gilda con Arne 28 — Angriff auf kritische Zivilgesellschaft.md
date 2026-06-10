@@ -176,15 +176,15 @@ Entscheidend: Die Anträge richten sich **nicht gegen die Kernvorwürfe** (Über
 
 ## Verbindungen
 
-### → [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+### → [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 
 direkter Vorgänger; Merz' Instrumentalisierung des Colin-Fernandes-Falls in #27 wird in #28 als Ulmen/Spiegel-Nachklopp weitergeführt
 
-### → [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+### → [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
 
 direkter Vorgänger, selbe Hosts; Iran-Krieg und zivilgesellschaftliche Erosion als Dauerthema
 
-### → [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+### → [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 
 Iran-Krieg Update und Rechtsstaat; bildet mit #28 einen Entwicklungsbogen
 

@@ -135,7 +135,7 @@ Münklers Kriegsrationalität kollidiert mit Trumps chaotischer TV-Performance: 
 
 Hegseth als Militärminister liefert den institutionellen Kontext für Trumps Infrastrukturdrohungen: Wie ein ideologisiertes Militär Kriegsverbrechen normalisiert
 
-### → [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+### → [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 
 Gildas nüchterne Lageeinschätzung vs. Koschis Analyse des trumpschen Zerfalls im TV — gutes Kontrastpaar zur Eskalationsdynamik
 

@@ -178,7 +178,7 @@ Beide Notes kreisen um dieselbe Kernfrage: ob die aktuelle Krise einen irreversi
 
 Dieselbe Sendeformat-Reihe (Sternstunde Philosophie, SRF) behandelt den Iran-Kontext unmittelbar, was Kellers Argumente zu R2P und Verhältnismäßigkeit direkt anknüpfbar macht.
 
-### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 Kellers Hoffnungsträger Zivilgesellschaft als Angriffsziel autoritärer Staaten (Memorial, Foreign Agent Laws) wird hier am konkreten deutschen und russischen Beispiel weitergeführt.
 
