@@ -264,6 +264,7 @@ Mausfelds Thesen wurden von sehr unterschiedlichen Lagern vereinnahmt — darunt
 - [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Polarisierungsunternehmer als die konkreten Akteure hinter Mausfelds „kognitiven Managementtechniken"
 - [[Heinz Bude — Gesellschaft der Angst]] — Budes diffuse Angst als Symptom; Mausfeld liefert die strukturelle Erklärung: kognitive Managementtechniken erzeugen die Ohnmacht
 - [[Liya Yu — Neuropolitik und die Grenzen der Moral]] — Yu zeigt die neuronalen Mechanismen, die Mausfelds psychologische Demobilisierung erst ermöglichen
+- [[Panorama/NoAfD|Panorama: NoAfD]] — Mausfelds Angst-Umlenkung (die aus Entsicherung entstehende psychische Energie wird auf Feindbilder gelenkt) ist im Panorama als Machttechnik-Dimension des Scharnier-Mechanismus eingeordnet: Die Abwertung nach unten ist kein Selbstläufer — sie wird bewirtschaftet.
 - [[Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Mausfelds unsichtbare Machttechniken konkretisieren Foucaults Gouvernementalität: Die „Lämmer" sind die erfolgreich regierten Subjekte
 - [[Martyna Linartas — Unverdiente Ungleichheit]] — Die „Leistungsgesellschaft"-Erzählung als neoliberales Narrativ, das Vermögenskonzentration legitimiert — Mausfelds Bewusstseinsbewirtschaftung am empirischen Beispiel
 - [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]] — Baberowskis Kritik der liberalen Demokratie als Fassade trifft auf Mausfelds Elitendemokratie-Analyse
