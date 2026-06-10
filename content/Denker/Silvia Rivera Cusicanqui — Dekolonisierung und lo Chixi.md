@@ -16,6 +16,16 @@ aliases:
 
 # Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi
 
+![[assets/Silvia-Rivera-Cusicanqui-Dekolonisierung-und-lo-Chixi-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Anni Albers** — Bauhaus-Weberei trifft andines Aguayo-Tuch: flache Textil-Abstraktion, Magenta/Ocker/Erdrot, sichtbare Kett- und Schussfäden. Die Bauhaus-Weberin, die ihr Handwerk ausdrücklich von den andinen Meisterinnen lernte — eine Europäerin, die sich „indianisiert" hat: Die Stilwahl ist selbst eine Ch'ixi-Geste. Und das Kernmotiv wird nicht gemalt, sondern gewebt: Das Grau der Bildmitte entsteht optisch aus getrennten schwarzen und weißen Stichen — ch'ixi, die dritte Farbe, die keine ist.
+
+*Prompt:* Wide horizontal banner, 1200×500px, flat modernist textile abstraction in the manner of Anni Albers' Bauhaus weavings and Andean aguayo cloth, no photorealism. The entire image is one woven fabric seen frontally: across the center runs a broad horizontal band woven from thousands of small interlocking black and white rectangular stitches — at the edges of this band the stitches are large and clearly separate black and white, toward the middle they become tiny so the band appears to melt into a vibrating gray, though every thread stays distinct. Above and below this central band, warm Andean weaving stripes in deep magenta, burnt orange, ochre and earth red, with thin geometric borders. Woven into the upper stripe: a jagged white triangular mountain shape (Illimani) and small eight-pointed Andean star motifs like white knots. Woven into the lower stripe: one long zigzag serpent line in black thread traveling the full width, and a narrow belt-like band with tiny diamond patterns. Visible warp and weft texture everywhere, slightly irregular hand-woven edges, threads fraying at the left and right borders of the banner. Flat colors, matte, no gradients except the optical gray created by the black-white stitches, background warm undyed wool tone.
+
+</details>
+
 > [!abstract] Worum es geht
 > Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft. In ihrer Eröffnungsvorlesung der Cátedra Victoria Castro (Santiago de Chile, 2022) entfaltet Cusicanqui ihr Lebensthema aus der eigenen Biografie heraus: vom „Aguayo-Komplex" des Kindes, das von der indigenen Nana großgezogen wurde, über den „symbolischen Mehrwert", den Eliten aus indigener Kultur ziehen, bis zur Ch'ixi-Ontologie aus der Aymara-Webkunst — ein Denken, das die Kontradiktion nicht auflösen, sondern produktiv machen will. Wer westliche Dialektik gewohnt ist, lässt sich hier auf ein Denken ein, das die Synthese verweigert.
 
