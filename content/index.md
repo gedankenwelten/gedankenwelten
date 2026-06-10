@@ -60,6 +60,18 @@ Die Gedankenwelten (luc)
 >
 > Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
 
+### Panorama
+
+> **10.06.** — [[Panorama/NoAfD|NoAfD]]
+
+> **01.06.** — [[Panorama/Energie|Energie]]
+>
+> Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
+
+> **23.05.** — [[Panorama/Kaufkraft|Kaufkraft]]
+>
+> Warum 1965 ein Einkommen für Haus, Auto und drei Kinder reichte und heute zwei Vollzeitjobs kaum für Wohneigentum — und warum Inflation das nicht erklärt.
+
 ### GoodNews
 
 > **10.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
@@ -81,20 +93,6 @@ Die Gedankenwelten (luc)
 > **05.06.** — [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe|Christine Brähler — Selbstmitgefühl, Scham und reife Liebe]]
 >
 > Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht.
-
-### Panorama
-
-> **01.06.** — [[Panorama/Energie|Energie]]
->
-> Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
-
-> **23.05.** — [[Panorama/Kaufkraft|Kaufkraft]]
->
-> Warum 1965 ein Einkommen für Haus, Auto und drei Kinder reichte und heute zwei Vollzeitjobs kaum für Wohneigentum — und warum Inflation das nicht erklärt.
-
-> **21.05.** — [[Panorama/Gelebte Demokratie|Panorama — Gelebte Demokratie]]
->
-> Demokratie ist kein Zustand, sondern eine Praxis — täglich gemacht in Anfragen, Streiks, Volksbegehren. Nicht verwaltet, sondern gelebt.
 
 ### Gedanken
 
