@@ -79,6 +79,18 @@ function shortDate(d: Date): string {
   return d.toLocaleDateString("de-DE", { day: "2-digit", month: "2-digit", year: "numeric" })
 }
 
+// aktualisiert: erlaubt DD.MM.YYYY *und* ISO — new Date() würde das deutsche
+// Format als US-MM/DD lesen (10.06. → 6. Oktober), daher explizit parsen.
+export function parseFmDate(v: unknown): Date | undefined {
+  if (v instanceof Date) return isNaN(v.getTime()) ? undefined : v
+  if (v == null) return undefined
+  const s = String(v).trim()
+  const de = s.match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/)
+  if (de) return new Date(Number(de[3]), Number(de[2]) - 1, Number(de[1]))
+  const parsed = new Date(s)
+  return isNaN(parsed.getTime()) ? undefined : parsed
+}
+
 const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: QuartzComponentProps) => {
   const entries: FeedEntry[] = []
   // Tag-Häufigkeit gesamt + pro Rubrik (für Farbe nach dominanter Rubrik)
@@ -100,12 +112,7 @@ const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quar
     if (!title) continue
 
     // Datum: aktualisiert (Frontmatter) bevorzugt, sonst Erstellungsdatum.
-    const fmDate = page.frontmatter?.aktualisiert as string | undefined
-    let when: Date | undefined
-    if (fmDate) {
-      const parsed = new Date(fmDate)
-      if (!isNaN(parsed.getTime())) when = parsed
-    }
+    let when = parseFmDate(page.frontmatter?.aktualisiert)
     if (!when) when = page.dates?.created ?? page.dates?.modified
     const ts = when ? when.getTime() : 0
 

@@ -3,6 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
+import { parseFmDate } from "./DesktopFeed"
 // @ts-ignore
 import script from "./scripts/mobileFeed.inline"
 import style from "./styles/mobileFeed.scss"
@@ -73,12 +74,7 @@ const MobileFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quart
     // Datum: aktualisiert (Frontmatter) bevorzugt, sonst Erstellungsdatum.
     // Bewusst NICHT git-modified (defaultDateType) — sonst steigen alte Notes
     // hoch, nur weil sie kürzlich ein Banner-/Cross-Link-Commit hatten.
-    const fmDate = page.frontmatter?.aktualisiert as string | undefined
-    let when: Date | undefined
-    if (fmDate) {
-      const parsed = new Date(fmDate)
-      if (!isNaN(parsed.getTime())) when = parsed
-    }
+    let when = parseFmDate(page.frontmatter?.aktualisiert)
     if (!when) when = page.dates?.created ?? page.dates?.modified
     const ts = when ? when.getTime() : 0
 
