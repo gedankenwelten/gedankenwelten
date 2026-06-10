@@ -179,6 +179,10 @@ Die Vorstellung, dass eine *kommende* Zeit neue Türen öffnen könnte, sei der 
 
 Budes Befund der Spaltung *innerhalb* der Unterklasse — das Dienstleistungsproletariat verachtet die Bürgergeld-Bezieher, keine Solidarisierung nach unten — ist im Panorama als Teil des Scharnier-Mechanismus eingeordnet (mit [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Cusicanquis]] Kette der Scharniere als kolonialer Tiefenstruktur desselben Musters: Aspiration nach oben, Verachtung nach unten).
 
+### → [[Zeitgeist/Arlie Hochschild — Stolen Pride|Hochschild — Stolen Pride]]
+
+Hochschilds drei Verlust-Schichten in Appalachia (Jobs, Wert der Fähigkeiten, relatives Zurückbleiben) sind die US-amerikanische Entsprechung von Budes Swimming-Pool-Effekt — aber Hochschild geht einen Schritt weiter: Sie verfolgt, wie relative Deprivierung durch das Stolz-Paradox (individualistischer Stolz → Selbstbeschuldigung → Scham) in das emotionale Rohmaterial verwandelt wird, das Trump wie Kohle abbaut. Bude diagnostiziert den Affekt, Hochschild erklärt die Chemie.
+
 ### → [[Heinz Bude — Boomer-Soziologie]]
 
 Zehn Jahre später (2024) dreht Bude den Generationenblick um: Statt die 40-Jährigen zu analysieren, verabschiedet er seine eigene Boomer-Generation. Der „Wirkungswille ohne Letztbegründung" aus dem späteren Vortrag ist die Antwort auf die Frage, die hier noch offen blieb — welche Haltung aus der Null-Fehler-Generation wachsen könnte.

@@ -161,6 +161,10 @@ Die Logik dahinter: Wer Grenzen testet — erst an einem Ort, wo die Welt wegsch
 ## Verbindungen
 
 - [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]] — Temelkurans Stufenmodell (7 Schritte zur Autokratie) und A/Ns demokratischer Faschismus ergänzen einander: Temelkuran beschreibt den *Prozess* der Unterwanderung durch Demokratiesprache, A/N die *emotionale Infrastruktur* dahinter. Zerstörungslust ist der Treibstoff, der Temelkurans Normalisierungs-Stufen beschleunigt.
+
+### → [[Zeitgeist/Arlie Hochschild — Stolen Pride|Hochschild — Stolen Pride]]
+
+Hochschild erklärt die Innenperspektive von Temelkurans Stufe 4: Warum empfinden Trump-Wähler die Abschaffung öffentlicher Scham nicht als Verlust, sondern als Befreiung? Das Anti-Beschämungs-Ritual (Transgression → Beschämung durch die Kommentatoren-Klasse → Viktimisierung → Roar-Back) macht jeden Enthemmungsakt zu einem stellvertretenden Rache-Akt für die eigene internalisierte Scham. Temelkuran beschreibt den politischen Effekt, Hochschild liefert die emotionale Chemie dahinter.
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocun zeigt Temelkurans Stufen 3 und 4 als technologische Infrastruktur: die algorithmisch beschleunigte Auflösung von Faktizität durch KI-Slop ist genau das Stören der Rationalität und Normalisieren der Enthemmung, die Temelkuran als politischen Prozess beschreibt — nur in Echtzeit skaliert.
