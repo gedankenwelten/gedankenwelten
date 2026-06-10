@@ -403,6 +403,9 @@ Das Panel diskutiert, wie extreme Vermögenskonzentration Demokratie aushöhlt. 
 ### → [[DenkerVita/Zhao Tingyang]]
 Zhaos Tianxia-System denkt Weltordnung von relationaler Einschließung — die Welt als primäres Ordnungsprinzip, nicht souveräne Einzelsubjekte. Wesches Naturrechte operieren implizit ähnlich: Der Mensch ist Nutzer einer Natur, der er zugehört — nicht umgekehrt. Beide brechen mit dem westlichen Subjektmodell, das zuerst ein autonomes Rechtssubjekt setzt und dann fragt, ob es Pflichten hat.
 
+### → [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi]]
+Die philosophische Grundlage der Naturrechte — dass Flüsse und Berge als Rechtspersonen denkbar sind — lebt in der Episteme, die Cusicanqui von innen beschreibt: Für die Aymara sind nicht-menschliche Wesen Subjekte, die „dich anschauen", keine Objekte. Wesche erklärt, warum „unberührte Natur" ein koloniales Narrativ ist; Cusicanqui zeigt, welche gelebte Wissensordnung der Kolonialismus damit für rückständig erklärte — und welche Energie noch in ihr steckt.
+
 ---
 
 ## Weiterdenken

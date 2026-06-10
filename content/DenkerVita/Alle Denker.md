@@ -231,6 +231,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Simon Schaupp|Simon Schaupp]]** — Arbeitsforscher und Soziologe (KU Leuven); kybernetische Proletarisierung, algorithmische Arbeitssteuerung, Gewerkschaften und digitale Transformation, Ökologie und Arbeitzeitverkürzung; Autor *Technopolitik von unten*
 
 
+**[[DenkerVita/Silvia Rivera Cusicanqui|Silvia Rivera Cusicanqui]]** — Bolivianische Soziologin und Aktivistin Aymara-Abstammung; Gründerin THOA (Taller de Historia Oral Andina) 1983; Kernkonzept ch'ixi (nicht-harmonische Koexistenz); Kritik an akademischem Dekolonialitäts-Chic und an Evo Morales; Anarchistische Epistemologie, Oral History als Praxis, Sociología de la imagen
+
 **[[DenkerVita/Silke Stremlau|Silke Stremlau]]** — Geschäftsführerin Finance for Transition (F4T gGmbH, seit 2026); Vorsitzende Sustainable Finance-Beirat der Bundesregierung (2019–2025); Pionierin institutioneller ESG-Bewertung seit 2000; Transformationsfinanzierung, Kapitalallokation als strategisches Instrument, Langfristkapital vs. Renditekapital; Leser- und Vordenkerinnenpreis 2024
 
 **[[DenkerVita/Staiy|Staiy (Karim Staiy)]]** — YouTuber, Medienkritiker; meinungsmache.de, Almanara-Bica-Podcast, „NEWS"-Format; Medienschwigen, Rechtsextremismus, Demokratie aus deutsch-arabischer Perspektive

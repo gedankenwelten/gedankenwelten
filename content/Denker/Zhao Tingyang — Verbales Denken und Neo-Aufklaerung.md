@@ -174,6 +174,9 @@ Zimpels Kernbefund — dass etwa die Hälfte der Menschen Bild-Denker sind und d
 ### → [[Geistesblitz/Albert Moukheiber — Mein Hirn und die anderen|Moukheiber — Mein Hirn und die anderen]]
 Moukheibers Befund, dass das Gehirn sozial vor kognitiv ist — Gesichtserkennung entsteht vor Sprache, Theory of Mind vor Abstraktion — ergänzt Zhaos evolutionsphilosophische Diagnose mit neurobiologischem Rückhalt. Wenn das Gehirn zuerst relationales Wahrnehmen entwickelt und Sprache erst sekundär aufbaut, dann ist Zhaos Hypothese plausibel: Nomina-Dominanz ist ein historisches Artefakt, keine kognitive Notwendigkeit. Gleichzeitig stellt das eine Frage an Neo-Aufklärung: Wenn paläolithisches Denken so tief ins soziale Gehirn eingebaut ist, wird Philosophie es verändern — oder braucht es veränderte Praxis und Werkzeuge?
 
+### → [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+Wie Zhao entwirft Cusicanqui eine eigenständige nicht-westliche Episteme statt bloßer Westkritik: ihren Dialog mit nicht-menschlichen Subjekten (Berge, Sterne, Ahnen) gegen das Subjekt-Objekt-Schema, wie Zhaos Verb-Denken gegen die Substanz-Ontologie. Der Unterschied liegt in der Richtung: Zhao denkt vom Weltganzen (Tianxia) her nach unten, Cusicanqui radikal von unten — vom Körper, vom Markt, vom Haus — nach oben.
+
 ---
 
 ## Weiterdenken

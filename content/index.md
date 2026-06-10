@@ -46,11 +46,11 @@ Die Gedankenwelten (luc)
 
 > → *7 weitere in* [[Zeitgeist]]
 
-### GoodNews
-
-> **10.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
-
 ### Denker
+
+> **10.06.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+>
+> Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
 
 > **09.06.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
 >
@@ -60,9 +60,9 @@ Die Gedankenwelten (luc)
 >
 > Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
 
-> **17.05.** — [[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe — Das Politische und die Politik]]
->
-> Mouffes ganzes Denken ruht auf einer Unterscheidung: die Politik als Verwaltung, das Politische als unhintergehbarer Konflikt. Warum Demokratie Gegnerschaft braucht.
+### GoodNews
+
+> **10.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Geistesblitz
 

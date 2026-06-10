@@ -207,6 +207,12 @@ Die Visumsverweigering für Ephantus Kanyugi ist bei Mbembe strukturell lesbar: 
 
 ---
 
+### → [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi]]
+
+Cusicanqui teilt Mbembes Diagnose, dass Kolonialität alle erfasst, nicht nur die Kolonisierten — aber wo Mbembe eine planetarische Gemeinschaft des Lebendigen entwirft, misstraut sie jeder großen Synthese und setzt auf die kleine, temporäre Neocomunidad jenseits von Markt und Staat. Universalismus des Planeten gegen Universalismus von unten — dieselbe Wunde, zwei Maßstäbe der Heilung.
+
+---
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

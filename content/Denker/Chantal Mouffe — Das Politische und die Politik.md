@@ -172,6 +172,7 @@ Das schließt den Kreis zu den Gedankenwelten-Gedanken über Demokratie als Gewe
 - [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Mau — Triggerpunkte]] — Maus Beschreibung der deutschen Konsens-Gesellschaft und ihrer Risse ist die empirische Bestätigung von Mouffes Theorie
 - [[Gedanken/Polarisierung als Ideologisierungsfalle|Polarisierung als Ideologisierungsfalle]] — Mouffe würde sagen: Das Problem ist nicht Polarisierung per se, sondern fehlender agonistischer Raum. Polarisierung ist das Symptom, nicht die Krankheit
 - [[Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]] — Mouffes Radikale Demokratie als theoretisches Fundament: Das Gewebe entsteht durch Kämpfe, nicht durch Konsens
+- [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Cusicanqui — Dekolonisierung und lo Ch'ixi]] — Ch'ixi ist Agonismus in nicht-westlichem Gewand: eine Ontologie des ungelösten Gegensatzes aus der Aymara-Webkunst, Energie aus Reibung statt Synthese. Wo Mouffe um den institutionellen Raum des Widerspruchs kämpft, spielt Cusicanqui ihn im Körper, im Haus, in der Neocomunidad aus — zwei Antworten auf dieselbe Grundfrage einer Demokratie ohne Konsensillusion
 
 ---
 

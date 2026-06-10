@@ -68,3 +68,6 @@ Wer politische Strömungen nur als gut oder böse kategorisiert, verliert die F�
 
 ### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
 Die elastische Brandmauer operationalisiert das Yin-Yang-Prinzip für die Erkenntnisarbeit: Weil keine Seite rein gut oder rein falsch ist, braucht es ein Selektionsprinzip jenseits von Links/Rechts. Die Membran fragt nicht nach Herkunft, sondern nach Dogma-Freiheit.
+
+### → [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+Die schärfste Gegenstimme zu diesem Grundsatz aus einer anderen nicht-westlichen Tradition: Lo Ch'ixi — das Grau aus verwobenen schwarz-weißen Punkten der Aymara-Webkunst — denkt den Gegensatz wie Yin-Yang als konstitutiv, verweigert aber die Komplementarität. Die Punkte fließen nicht ineinander, sie *reiben* — und aus der Reibung kommt die Energie. Cusicanquis Einwand an dieses Prinzip wäre: Manche Gegensätze sollen nicht versöhnt werden, weil die Versöhnung auf Kosten der schwächeren Seite ginge.

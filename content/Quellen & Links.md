@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Conferencia Descolonización y pueblos indígenas. Reflexiones desde lo Ch'ixi (UAH, 2022)](https://www.youtube.com/watch?v=gi_YPS-ce-M) |
+| **Notiz** | [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi]] |
+| **DenkerVita** | [[DenkerVita/Silvia Rivera Cusicanqui]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Cusicanqui_Chixi_Conferencia_Transkript.txt` |
+
 ## Andreas Löschel — Strom NEU DENKEN
 
 | | |
