@@ -221,6 +221,10 @@ Mouffes Agonismus und Cusicanquis Ch'ixi sind nächste Verwandte über Kulturgre
 
 Cusicanquis Aymara-Episteme — Berge, Flüsse und Sterne als Subjekte, die „dich anschauen" — ist genau die Wissensordnung, die Wesche rechtsphilosophisch rekonstruiert, wenn er Natur als Rechtsperson denkt. Wesche nennt die Vorstellung „unberührter Natur" selbst ein koloniales Narrativ; Cusicanqui zeigt von innen, welche gelebte Beziehung der Kolonialismus dabei für rückständig erklärt hat. Er liefert die Rechtsphilosophie, sie die epistemische Grundlage.
 
+### → [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]]
+
+Dieselbe Wurzel in zwei Erfahrungswelten: Beide verlegen die Verwandlung der Welt in die kleinste Einheit — die Begegnung, den Alltag — und beide wissen, dass Strategie die Wirkung tötet (*„lo decolonial es una moda"* / „sobald die Begegnung Strategie wird, hört sie auf, eine zu sein"). Cusicanquis Aguayo-Komplex ist der empirische Beweis der Faden-These unter härtesten Bedingungen: Rositas Fäden ließen sich nicht heraustrennen, selbst als die koloniale Ordnung die Herkunftsadresse löschte. Der Unterschied ist die Temperatur — das Netzwerk webt Vertrauen (Yin-Yang-Linie), Ch'ixi hält die Spannung — und ihre Gegenfrage an jede Philosophie der freien Begegnung: *Wer kann sie sich leisten, wenn Begegnungen nie machtfrei sind?*
+
 ---
 
 ## Weiterdenken
