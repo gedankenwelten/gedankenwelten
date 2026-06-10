@@ -300,6 +300,9 @@ Bude diagnostiziert 2014 dieselbe Grundkonstellation wie Manow: Globalisierungsv
 ### → [[Zeitgeist/Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]
 Manow zeigt, wie demokratische Bewegungen von rechts in autoritäre Strukturen kippen; Potter zeigt dasselbe Phänomen von links. Beide zusammen ergeben das vollständige Bild der autoritären Versuchung quer durchs politische Spektrum.
 
+### → [[Zeitgeist/Arlie Hochschild — Stolen Pride|Hochschild — Stolen Pride]]
+Hochschild liefert die emotionale Mikrofundierung zu Manows Struktur-Analyse: Die Globalisierungsverlierer, die Manow beschreibt, wählen nicht trotz ihrer Lage irrational, sondern *weil* das Stolz-Paradox (individualistischer Stolz → Selbstbeschuldigung bei Scheitern) ihre Verluste als Scham internalisiert — und Trump als Scham-Bergmann diese Scham abführt. Manow erklärt den Wähler-Typ, Hochschild die emotionale Grammatik, in der er ansprechbar ist.
+
 ### → [[Ernst Gelegs — Ist das Regime Orbán am Ende]]
 Gelegs zeigt am ungarischen Fallbeispiel, was Manow abstrakt beschreibt: Globalisierungsverlierer, die ein System stützen, das ihre Interessen strukturell nicht vertritt. Die ungarische Arbeiterklasse und der desolate Gesundheitssektor — das ist Manows Öffnungsverlierer-These in der Realität.
 

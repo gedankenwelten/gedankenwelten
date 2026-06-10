@@ -264,3 +264,4 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Zeitgeist/Heinz Bude — Gesellschaft der Angst]] | Ursache · Spaltung innerhalb der Unterklasse |
 | [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus]] | Ursache · Zerstörungslust als Gefühlsstruktur — Scharnier-Empirie |
 | [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] | Ursache · Angst-Umlenkung auf Feindbilder — das Scharnier als Machttechnik |
+| [[Zeitgeist/Arlie Hochschild — Stolen Pride]] | Ursache · Scham → Schuldzuweisung, das Scharnier ethnografisch (Appalachia) |

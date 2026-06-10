@@ -245,6 +245,10 @@ Ksitigarbha als Archetypus des Therapeuten: wer selbst in der Hölle war, kann g
 
 Hüther beschreibt, wie frühe Lösungen (Kontrolle, Leistung, Anpassung) sich ins Gehirn einschreiben und später als Fessel wirken. Brählers innerer Kritiker ist genau so eine frühe Lösung: ein Kind lernt, sich selbst zu kritisieren bevor andere es tun — als Schutzmechanismus. Beide beschreiben dieselbe Bewegung: weg vom Kontrollmodus, hin zu einem Selbst das aus innerer Sicherheit handelt.
 
+### → [[Zeitgeist/Arlie Hochschild — Stolen Pride|Hochschild — Stolen Pride]]
+
+Hochschild zeigt die politische Trajektorie von Scham, die nicht bearbeitet wird: Das Stolz-Paradox (Individualismus → Selbstbeschuldigung) internalisiert Verluste als Scham — und Trump als Scham-Bergmann bietet die Externalisierung an, die Brählers Selbstmitgefühls-Arbeit auf anderem Weg leisten würde. Brählers Gabelung zwischen Scham als Niederzwingen und Scham als Einladung zur Fürsorge hat hier eine gesellschaftliche Entsprechung: Populismus ist die kollektive Variante des Niederzwingens.
+
 ---
 
 ## Weiterdenken

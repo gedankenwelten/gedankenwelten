@@ -1,7 +1,7 @@
 ---
 title: "Arlie Hochschild — Stolen Pride: Scham, Verlust und der Aufstieg der Rechten"
 description: "Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt."
-date: 09.09.2024
+date: 2024-09-09
 aktualisiert: 2026-06-10
 tags:
   - zeitgeist
@@ -112,12 +112,44 @@ Und darunter, sagt sie, liegt nicht primär Wut, sondern **Verzweiflung**: *„B
 
 [▶ 47:48] — Ein Fragesteller spitzt zu, und Hochschild adelt es als besser, als sie es selbst sagen könnte: Das Problem sei die Dominanz der professionellen Mittelklasse, deren Vorurteil gegen die abgehängte weiße Arbeiterklasse akut gefühlt werde — *„It's not that they hate Blacks. It's: they hate* you*."*
 
-[▶ 49:19] — Gegen den Vorwurf, Empathie mit Trump-Wählern sei Schwäche oder gar Verrat, setzt sie ihre Methodologie als politisches Programm: Empathie heißt in fremden Schuhen stehen, nicht zustimmen. [▶ 50:49] Und sie dreht den Spieß empirisch um: Laut einer Pew-Studie (2021) brechen Liberale Kontakte zu Andersdenkenden *häufiger* ab als Konservative, und die Linke schätzt die Ansichten der Rechten *schlechter* ein als umgekehrt — *„exactly what the left is too snooty to do, the right needs to have done."*
+[▶ 49:19] — Gegen den Vorwurf, Empathie mit Trump-Wählern sei Schwäche oder gar Verrat, setzt sie ihre Methodologie als politisches Programm: Empathie heißt in fremden Schuhen stehen, nicht zustimmen. [▶ 50:49] Und sie dreht den Spieß empirisch um: Liberale brechen Kontakte zu Andersdenkenden *häufiger* ab als Konservative, und die Linke schätzt die Ansichten der Rechten *schlechter* ein als umgekehrt *(Faktencheck: beide Befunde belegt, aber von Hochschild falsch als „Pew 2021" attribuiert — tatsächlich American Perspectives Survey 2021 bzw. More in Common 2019)* — *„exactly what the left is too snooty to do, the right needs to have done."*
 
 [▶ 53:51] — Zur Immigration die vielleicht entlarvendste Beobachtung: Nach Ostkentucky kommt fast niemand — die Menschen *verlassen* die Region. Die Angst vor Einwanderern ist dort keine Erfahrung, sondern ein Import: *„It fits into Trump's way of catastrophizing the world and then saying: what you really need is me — I am your roar-back guy."* Und doch leakt Sympathie durch: Roger Ford, der Gott Trump schicken sieht, besorgte einem undokumentierten Arbeiter mit COVID medizinische Hilfe. *„Kentucky is to the domestic economy what Mexico is to the international economy."*
 
 > [!question] Weitergedacht
 > Hochschild zeigt: Die Angst vor Migranten ist am größten, wo es keine gibt — sie wird als Katastrophen-Erzählung importiert. Gilt das deutsche Spiegelbild (AfD-Hochburgen mit niedrigem Ausländeranteil) aus demselben Grund — und was folgt daraus für „Begegnung" als Gegenstrategie, wenn die Begegnung gar nicht das Problem war?
+
+---
+
+## Faktencheck
+
+> [!warning] Vereinfacht — Kentucky 5th District: „whitest and second poorest"
+> Hochschild sagt im Gespräch (Sept. 2024): Kentuckys 5. Kongressbezirk sei „the whitest and the second poorest in the nation". Die NYT schrieb im Juni 2025 — in einem Artikel über denselben Bezirk — „the whitest and *third* poorest". Der Bezirk zählt unbestritten zu den ethnisch homogensten und ökonomisch ärmsten Distrikten der USA; ob er Rang 2 oder 3 bei der Armut belegt, schwankt je nach Statistik und Census-Zyklus. Kein strategischer Spin, aber auch keine präzise Zahl.
+> Quelle: [NYT, Juni 2025 — „My Journey Deep in the Heart of Trump Country"](https://www.nytimes.com/2025/06/09/opinion/trump-supporters-kentucky.html)
+
+> [!warning] Nicht eindeutig belegt — 42 % aller weißen Amerikaner ohne College-Abschluss links→rechts gewechselt
+> Hochschild nennt diese Zahl als Rahmen ihrer Feldforschung. Die Größenordnung ist plausibel (Langzeitstudien belegen starke Verschiebungen in dieser Gruppe), aber eine unabhängige, direkt auf diese Prozentzahl verweisende Primärquelle ist öffentlich nicht zugänglich — die Zahl stammt offenbar aus ihrem Buch. Keine Falschdarstellung erkennbar, kein strategisches Interesse an Übertreibung.
+> Keine unabhängige Quelle gefunden.
+
+> [!danger] Falsch — Quellenattribution: „Pew-Studie 2021" für beide Kontakt-Befunde
+> Hochschild attribuiert zwei Befunde gemeinsam als „Pew study, 2021": (1) Liberale/Demokraten brechen Kontakte zu politisch Andersdenkenden häufiger ab als Konservative; (2) die Linke schätzt die Positionen der Rechten schlechter ein als umgekehrt. Beides ist faktisch gut belegt — aber aus zwei verschiedenen Studien, die weder Pew noch beide 2021 sind: Befund (1) stammt aus dem **American Perspectives Survey (Survey Center on American Life), Mai 2021** (Demokraten: 20 %, Republikaner: 10 % berichten Freundschaftsabbrüche wegen Politik). Befund (2) ist der **Perception Gap von More in Common, 2019**: Demokraten überschätzen die Extrempositionen von Republikanern stärker als umgekehrt. Die Pew-Studie vom November 2021 misst nur Stressniveaus bei politischen Gesprächen. Die Kernsachverhalte stimmen; die Quellenangabe ist falsch — eher Gedächtnisfehler im mündlichen Vortrag als strategisches Motiv.
+> Quellen: [American Perspectives Survey 2021](https://www.americansurveycenter.org/research/the-state-of-american-friendship-change-challenges-and-loss/) · [The Perception Gap — More in Common, 2019 (PDF)](https://perceptiongap.us/media/zaslaroc/perception-gap-report-1-0-3.pdf)
+
+> [!warning] Vereinfacht — Gewerkschaftsdichte „down to 9% private sector"
+> Der BLS-Wert für 2024 liegt bei **5,9 %** im Privatsektor (Gesamtquote: 9,9 %). Hochschilds 9 % entspricht ungefähr der Gesamtquote — Verwechslung von Gesamt- und Privatsektor oder eine ältere Zahl (die private Quote lag um 2000 bei ~9 %). Kein strategisches Interesse; sachlich aber irreführend, weil die Erosion im Privatsektor dramatischer ist, als 9 % vermuten lässt.
+> Quelle: [BLS — Union Members Summary 2024](https://www.bls.gov/news.release/archives/union2_01282025.htm)
+
+> [!success] Bestätigt — Macy's nahm Trumps Herrenkollektion 2015 aus dem Sortiment
+> Im Juli 2015 beendete Macy's die seit 2004 laufende Partnerschaft mit Trump und stellte die Menswear-Linie ein — als direkte Reaktion auf Trumps abwertende Äußerungen über mexikanische Einwanderer.
+> Quelle: [NYT, 01.07.2015](https://www.nytimes.com/politics/first-draft/2015/07/01/macys-drops-donald-trumps-fashion-line-over-immigrant-remarks/)
+
+> [!success] Bestätigt — Trump „convicted" + „liable for sexual assault" (Stand Sept. 2024)
+> Zum Zeitpunkt des Gesprächs: Schuldspruch in allen 34 Anklagepunkten im Hush-Money-Verfahren (30.05.2024, historisch erster gegen einen Ex-Präsidenten); in zwei Zivilverfahren für sexuellen Missbrauch und Verleumdung von E. Jean Carroll haftbar befunden (5 Mio. Dollar 2023, 83,3 Mio. Dollar 2024). Die Formulierungen im Gespräch sind präzise.
+> Quellen: [CNN — Trump guilty on all 34 counts](https://www.cnn.com/2024/05/30/politics/donald-trump-hush-money-trial-verdict/index.html) · [PBS — Carroll-Urteil bestätigt](https://www.pbs.org/newshour/politics/judge-upholds-the-5-million-verdict-against-trump-in-e-jean-carrolls-sex-abuse-and-defamation-case)
+
+> [!success] Bestätigt — Kohle-Niedergang durch Marktkräfte, nicht „War on Coal"
+> Hochschild und Tong stellen im Gespräch explizit klar: Billiges Erdgas (Fracking-Boom) und Automatisierung des Tagebaus waren die Hauptursachen des Kohle-Niedergangs in Appalachia — nicht Obamas Klimapolitik. Bemerkenswert: Sogar Trump-Aktivist Roger Ford differenziert selbst („Actually, it's that natural gas became cheaper").
+> Quelle: [Yale E360 — Why the U.S. Coal Industry and Its Jobs Are Not Coming Back](https://e360.yale.edu/features/why_us_coal_industry_and_its_jobs_are_not_coming_back)
 
 ---
 
@@ -130,10 +162,14 @@ Und darunter, sagt sie, liegt nicht primär Wut, sondern **Verzweiflung**: *„B
 - [The New Press — Stolen Pride](https://thenewpress.org/books/stolen-pride/) — Verlagsseite zum Buch
 - [C-SPAN Book TV — Stolen Pride](https://www.c-span.org/program/book-tv/stolen-pride/648737) — weiterer Mitschnitt
 
-*Im Gespräch erwähnt:*
+*Im Gespräch referenziert (Sherlock-verifiziert):*
 
-- Raj Chetty (Harvard / Opportunity Insights) — Forschung zu absteigender Mobilität, im Gespräch referenziert
-- Pew Research (2021) — Studie zu Kontaktabbruch bei politischer Uneinigkeit, im Gespräch referenziert
+- [American Perspectives Survey 2021 — Survey Center on American Life](https://www.americansurveycenter.org/research/the-state-of-american-friendship-change-challenges-and-loss/) — die tatsächliche Quelle des Freundschaftsabbruch-Befunds (20 % Demokraten vs. 10 % Republikaner)
+- [The Perception Gap — More in Common, 2019](https://perceptiongap.us/media/zaslaroc/perception-gap-report-1-0-3.pdf) — die tatsächliche Quelle des Fremdeinschätzungs-Befunds
+- [Pew Research, Nov. 2021](https://www.pewresearch.org/short-reads/2021/11/23/republicans-and-democrats-alike-say-its-stressful-to-talk-politics-with-people-who-disagree/) — was die von Hochschild genannte Pew-Studie tatsächlich misst: Stressniveaus, nicht Kontaktabbrüche
+- [Opportunity Insights / Raj Chetty — Race and Economic Opportunity in the United States](https://opportunityinsights.org/wp-content/uploads/2018/04/race_paper.pdf) — Chettys Mobilitätsforschung, im Gespräch referenziert
+- [BLS — Union Members Summary 2024](https://www.bls.gov/news.release/archives/union2_01282025.htm) — Gewerkschaftsdichte: Privatsektor 5,9 %, gesamt 9,9 %
+- [Yale E360 — Why the U.S. Coal Industry and Its Jobs Are Not Coming Back](https://e360.yale.edu/features/why_us_coal_industry_and_its_jobs_are_not_coming_back) — Marktanalyse des Kohle-Niedergangs (Erdgas + Automatisierung)
 
 ---
 
