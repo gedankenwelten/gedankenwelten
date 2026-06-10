@@ -200,7 +200,7 @@ Heinisch erklärt die innenpolitische Logik hinter dem Waffenstillstand: kein Ra
 
 Bundestalk klammert Völkerrecht aus und fokussiert Realpolitik; MONITOR liefert die komplementäre juridische Dimension des Hegemoniebruchs
 
-### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 Beide teilen die Lieferketten-Disruption: Düngemittel-Engpässe, Energiepreise als gesellschaftliche Destabilisierung
 

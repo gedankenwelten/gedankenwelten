@@ -88,12 +88,12 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]] — 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
 - [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN|Gesine Schwan — Macht NEU DENKEN]]
 - [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten|GFF-Verbotsgutachten — Kann die AfD verboten werden?]]
-- [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
-- [[Zeitgeist/Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
-- [[Zeitgeist/Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+- [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+- [[Zeitgeist/Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+- [[Zeitgeist/Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 - [[Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Wie rechte Milliardäre weltweit Medien aufkaufen]]
-- [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch|Gilda Sahebi und Arne Semsrott — GCA #33: Liegenddemos, Schwarz-Rot, Sea-Watch]]
-- [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie|Gilda Sahebi und Arne Semsrott — GCA #35: Die Selbstzerstörung der Sozialdemokratie]]
+- [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch|Gilda Sahebi und Arne Semsrott — GCA 33: Liegenddemos, Schwarz-Rot, Sea-Watch]]
+- [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie|Gilda Sahebi und Arne Semsrott — GCA 35: Die Selbstzerstörung der Sozialdemokratie]]
 - [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
 - [[Zeitgeist/Hartwin Maas — Bildung NEU DENKEN|Hartwin Maas — Bildung NEU DENKEN]]
 - [[Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu|Heiner Flassbeck — Deutschlands größtes Tabu]]
@@ -138,7 +138,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)|Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]]
 - [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)|Staiy — News: Krasser Machtmissbrauch von CDU/CSU (25.03.2026)]]
 - [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
-- [[Zeitgeist/StreitClub — Europa allein zu Haus|StreitClub #17 — Europa allein zu Haus]]
+- [[Zeitgeist/StreitClub — Europa allein zu Haus|StreitClub 17 — Europa allein zu Haus]]
 - [[Zeitgeist/Studio Bonn — Extremer Reichtum|Studio Bonn — Extremer Reichtum]]
 - [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]]
 - [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)|Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
@@ -211,7 +211,7 @@ Jede Note folgt einer eigenen Struktur:
 ### Geopolitik & Krieg
 
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Januar 2026|Die Neuen Zwanziger — Salon Lektüren Januar 2026]]
-- [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+- [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer]]
 - [[Zeitgeist/Herfried Münkler — Muss es Kriege geben|Herfried Münkler — Muss es Kriege geben?]]
 - [[Zeitgeist/Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung|Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
 - [[Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht|Konstantin Flemig — Deutschland als Rüstungs-Großmacht]]
@@ -298,7 +298,7 @@ Jede Note folgt einer eigenen Struktur:
 ### Weitere Stimmen
 
 - [[Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche|Der Dara — Merz plant 72-Stunden-Arbeitswoche]]
-- [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+- [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 - [[Zeitgeist/Heinz Bude — Boomer-Soziologie|Heinz Bude — Brauchen wir eine Boomer-Soziologie?]]
 - [[Zeitgeist/Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter|Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]]
 - [[Zeitgeist/Mark Benecke — Umwelt-Messungen Sommer 2026|Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026]]

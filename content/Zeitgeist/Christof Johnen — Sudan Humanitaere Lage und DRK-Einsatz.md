@@ -133,6 +133,6 @@ Die Sudan-Geberkonferenz und das Lieferkettengesetz sind zwei Seiten derselben F
 
 Maio/Schmitz argumentieren, dass Verletzlichkeit der Ursprung von Solidarität ist. Johannens DRK-Einsatz ist die praktische Verkörperung — und scheitert gleichzeitig daran, dass Konfliktparteien Verletzlichkeit als Angriffsziel nutzen, nicht als Schutzgrund
 
-### → [[Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+### → [[Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer]]
 
 Beide Notes kreisen um dieselbe Grundspannung: Wann legitimiert humanitäres Leid externe Intervention? Johnen verneint militärische Lösungen explizit, fordert aber politischen Druck — genau die Grenze zwischen humanitärer Hilfe und politischer Einmischung, die der Podcast für den Iran-Fall diskutiert

@@ -188,7 +188,7 @@ Zusammenhang zwischen regressiver Wirtschaftspolitik und Rechtsruck; MwSt-Erhöh
 
 Muster wiederholt sich: Belastung trifft Einkommensschwache, Bundesregierung greift zu falschen Instrumenten
 
-### → [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+### → [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 
 SPD-interne Konflikte rund um Klingbeils Reformagenda, die auch MwSt-Erhöhung erwähnte
 

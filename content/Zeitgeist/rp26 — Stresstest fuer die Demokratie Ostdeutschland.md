@@ -199,7 +199,7 @@ Mitschke macht auch auf einen Widerspruch aufmerksam, der im Diskurs oft unterge
 
 ## Verbindungen
 
-### → [[Zeitgeist/Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Zeitgeist/Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 GCA #28 dokumentiert die Kürzung von *Demokratie Leben!* aus Berliner Zentralperspektive — Extremismusklauseln, das Schweigen zivilgesellschaftlicher Organisationen aus Angst vor Folgeförderung. Das rp26-Panel zeigt die Konsequenz im Osten: Romy Arnold belegt, dass Thüringen und Sachsen-Anhalt ohne alternative Auffangstrukturen dastehen, wenn dieser Geldhahn dreht. Wo GCA #28 die Mechanik beschreibt, beschreibt das Panel die menschlichen Kosten.
 

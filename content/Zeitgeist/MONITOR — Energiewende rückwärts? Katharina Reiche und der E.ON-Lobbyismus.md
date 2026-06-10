@@ -204,7 +204,7 @@ Das Prometheus Institut (FDP, Atlas-Netzwerk) und der E.ON-Lobbyismus sind struk
 
 Der direkte Gegenpol: während Reiche die Energiewende politisch bremst, zeigt diese Doku, dass Bürgerinnen und Gemeinschaften sie längst vorantreiben — Großbardorf, Energiegarten Grensfeen, B Energy
 
-### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 GCA #28 zeigt Reiche in der Krise: kein Tempolimit, Pendlerpauschale statt Strukturreform, Outsourcing ans Ministerium — die Lobbyismus-Prägung aus dem MONITOR-Bericht wird hier in politische Entscheidungen übersetzt
 

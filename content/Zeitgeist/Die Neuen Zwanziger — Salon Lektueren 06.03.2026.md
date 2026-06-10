@@ -208,7 +208,7 @@ Dieselbe strukturelle Absurdität wie bei Scholz: Deutschland wirbt internationa
 
 Mausfelds demokratische Selbsttäuschung ist das Makro-Framework für Zupančičs Verleugnen
 
-### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 Der Angriff auf Zivilgesellschaft ist das strukturelle Pendant zu Hinrichs' §129-Kriminalisierung
 

@@ -95,7 +95,7 @@ Die AfD nutzt einen banalen, längst aufgearbeiteten Vorfall für drei Ziele:
 
 ## Verbindungen
 
-### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 dieselbe Kampagne, zwei Ebenen: Diese Note zeigt die konkrete Bundestags-Rhetorik gegen die AAS via Schulvorfall; GCA #28 dokumentiert die strukturelle Strategie (551 Parlamentsanfragen) zum Mittelentzug von Demokratieförderung
 

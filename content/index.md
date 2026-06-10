@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Negative Strompreise sind kein Marktversagen, sondern ein Designproblem — und die Standortdebatte müsste auf Energiestückkosten schauen, nicht auf die Kilowattstunde.
 
+> **10.06.** — [[Zeitgeist/Arlie Hochschild — Stolen Pride|Arlie Hochschild — Stolen Pride: Scham, Verlust und der Aufstieg der Rechten]]
+>
+> Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt.
+
 > **09.06.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
 >
 > Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Wenn selbst Trumps treueste Geldgeber das Weite suchen, die Ölreserven schwinden und ein KI-Fonds aussieht wie ein Rettungsring für Milliardäre — liest sich das wie der Anfang vom Ende einer Regierung.
 
-> **05.06.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
->
-> Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört.
-
-> → *7 weitere in* [[Zeitgeist]]
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Denker
 

@@ -237,7 +237,7 @@ Das Schlussbild: Zivilgesellschaftliches Engagement nicht als Bürgerpflicht ver
 
 Semsrotts Gegenmacht-Konzept — Zivilgesellschaft als antagonistischer Pol gegen institutionalisierte Herrschaft — ist laclauscher Populismus in der praktischen Anwendung, ohne dass Semsrott diesen Rahmen explizit zieht. Sein Befund, dass viele sich nicht repräsentiert fühlen, illustriert Laclaus These: Repräsentation ist kein neutrales Abbild, sondern konstituiert das „Volk" durch Ausschluss.
 
-### → [[Zeitgeist/Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Zeitgeist/Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 "Zur Gegenmacht" ist die strategische Antwort auf die dort dokumentierte Repressionsstrategie: Förderstopps, IFG-Einschränkungen, Extremismusklauseln. Hier sind Ursache und Gegenmittel — Semsrott benennt Freiheitsfonds, Gegenrechtsschutz und Transparenz als offensive Instrumente, nicht nur defensive Reaktion.
 

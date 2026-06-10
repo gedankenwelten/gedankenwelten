@@ -198,7 +198,7 @@ Wenn Lobby-Gesetzgebung die Energiewende bremst und Strompreise steigen, nährt 
 
 Herrmanns Iran-Szenario ist Frickes Kontrollverlust-These in Echtzeit: Ein Ölpreisschock durch Hormus-Blockade würde Aktienblasen platzen lassen, die US-Mittelklasse treffen und Midterm-Wahlen kippen — ökonomischer Trigger für politische Destabilisierung
 
-### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 Sahebi/Semsrott belegen Frickes These in Echtzeit: Wirtschaftskrise (Hormuz), Bundesregierung ohne Strukturantwort, parallele Angriffe auf Zivilgesellschaft — alle drei Elemente, die bei Fricke den Rechtsruck beschleunigen
 

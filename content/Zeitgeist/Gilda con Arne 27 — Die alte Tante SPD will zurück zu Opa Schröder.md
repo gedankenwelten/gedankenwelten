@@ -172,11 +172,11 @@ Als er auf Gegenwind reagierte, antwortete er bei der FAZ nicht mit Distanzierun
 
 ## Verbindungen
 
-### → [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+### → [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
 
 direkte Vorgängerfolge; die BaWü-Wahl wurde dort analysiert, hier folgt die bundespolitische Konsequenz für die SPD
 
-### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 Nachfolgefolge; Ulmen/Spiegel-Thema wird in #28 als Nachklopp weitergeführt; Merz' Instrumentalisierung des Colin-Fernandes-Falls taucht in #28 wieder auf
 

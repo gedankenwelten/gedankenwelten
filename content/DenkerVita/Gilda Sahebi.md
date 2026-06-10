@@ -83,7 +83,7 @@ Kurze SPD-Mitgliedschaft (2009–2014), heute parteilos. Ihre Arbeit ist explizi
 ## Cortex-Notes
 
 - [[Gilda con Arne — Rechte Milliardaere kaufen Medien]]
-- [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
-- [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
-- [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
-- [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+- [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+- [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+- [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+- [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]

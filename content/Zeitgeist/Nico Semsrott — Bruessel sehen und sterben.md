@@ -189,7 +189,7 @@ Mausfeld theoretisiert, was Semsrott erlebt hat. Mausfelds „Demokratie-Managem
 
 Staiy dokumentiert CDU/CSU-Machtmissbrauch auf nationaler Ebene — Semsrott zeigt dasselbe Muster auf EU-Ebene. Die CDU kontrolliert seit 25 Jahren die EU-Parlamentsregeln und blockiert systematisch jede Transparenzreform. Der Lobbyismus-Drehtüreffekt (Abgeordnete als Anwälte buchbar) ist die EU-Version dessen, was Staiy bei Katharina Reiche (E.ON-Lobbyismus in Regierungsfunktion) aufdeckt. Beide zeigen: Es ist kein Einzelfall, sondern System.
 
-### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 Nicos Bruder Arne analysiert mit Gilda Sahebi den Angriff auf zivilgesellschaftliche Kontrollinstitutionen. Semsrotts EU-Erfahrung zeigt die europäische Dimension dieses Phänomens: Wenn selbst die Anti-Betrugsbehörde OLAF keinen Zugang zu Parlamentsakten bekommt und das Ethikgremium unter Ausschluss der Öffentlichkeit tagt, ist die Zivilgesellschaft die letzte Instanz — und genau deshalb unter Beschuss.
 

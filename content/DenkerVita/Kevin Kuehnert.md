@@ -125,7 +125,7 @@ Vollständig analysierte Zeitgeist-Notes, in denen Kühnert eine zentrale Rolle 
 
 *Weitere Verweise auf Kühnert (indirekt):*
 - [[Denker/Martyna Linartas — Unverdiente Ungleichheit]] — Parallele Diagnose zu Erbschaftsprivileg
-- [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] — Kontextuelle Kritik: Warum Kühnerts eigene Partei seine Forderungen blockiert
+- [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]] — Kontextuelle Kritik: Warum Kühnerts eigene Partei seine Forderungen blockiert
 
 ---
 

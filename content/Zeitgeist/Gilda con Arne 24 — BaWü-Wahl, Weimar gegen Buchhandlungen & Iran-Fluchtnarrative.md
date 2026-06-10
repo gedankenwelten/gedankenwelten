@@ -200,10 +200,10 @@ Die mediale Frage *„Kommt eine Fluchtwelle?"* behandelt 90 Millionen Menschen 
 
 ## Verbindungen
 
-### → [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+### → [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 GCA23 beschreibt den Iran-Krieg von Tag 4. GCA24 beschreibt, wie Deutschland auf den Iran-Krieg reagiert — mit einer Fluchtwellen-Panik statt mit echter Auseinandersetzung.
 
-### → [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+### → [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer]]
 Boris Palmer ist in #20 Thema (Jean-Philipp Kindler) und in #24 wieder — nun als potentieller Minister unter Özdemir. Ein roter Faden durch die Folgen.
 
 ### → [[Gedanken/Polarisierung als Ideologisierungsfalle]]
@@ -215,12 +215,12 @@ Manow: Diejenigen, die von der Öffnung profitieren, sind die Deutungsklasse und
 ### → [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
 GCA 24 behandelt Iran-Fluchtnarrative als europäische Reaktion; Lange liefert die militärisch-strategische Erklärung, warum der Krieg nicht endet: Trumps strategische Sackgasse (keine freie Straße von Hormus, kein Regimewechsel) treibt die humanitären Konsequenzen, die GCA 24 beschreibt.
 
-### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft|Gilda con Arne #28 — Angriff auf kritische Zivilgesellschaft]]
+### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 GCA #24 behandelt Iran-Fluchtnarrative und Zivilgesellschaft unter Druck; #28 zeigt vier Wochen später den konkreten staatlichen Angriff auf genau diese Zivilgesellschaft (Demokratie leben!-Förderstopp) — und die wirtschaftlichen Konsequenzen des Krieges für den Globalen Süden.
 
 ### → [[Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
 Sirus Schyek (Historiker, Genf) und Kamran Safiarian (ZDF-Journalist) — beide mit iranischen Wurzeln — analysieren denselben Konflikt aus persönlicher und historischer Perspektive: das ethisch-moralische Dilemma (böses Regime vs. Völkerrechtsbruch), die Sicherheitsdilemma-Spirale seit 2003, humanitäre Lage und Szenarien.
 
 - [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Iran-Forscherin mit historischer Tiefe; Perspektive auf Revolutionsgeschichte, IRGC, Golfstaaten-Dilemma und westliche Doppelstandards
-- [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]] — direkte Nachfolgefolge; BaWü-Wahl-Analyse aus #24 mündet in #27 in die bundespolitische SPD-Krise und Schröder-Nostalgie
+- [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]] — direkte Nachfolgefolge; BaWü-Wahl-Analyse aus #24 mündet in #27 in die bundespolitische SPD-Krise und Schröder-Nostalgie
 - [[Natalie Amiri — Hoelle auf Erden im Iran]] — Amiri verkörpert das Fluchtnarrativ: Journalistin, die über ein Land berichtet, in das sie nicht zurück kann. Ihre „geographische Amputation" ist das Muster, das GCA diskutiert.

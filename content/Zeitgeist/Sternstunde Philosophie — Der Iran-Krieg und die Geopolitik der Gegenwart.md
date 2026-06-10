@@ -202,15 +202,15 @@ Innenpolitische Risse in den USA
 
 Philosophische Grundlage von Krieg als Instrument der Politik (Clausewitz)
 
-### → [[Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
+### → [[Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer]]
 
 Humanitäre Intervention: Legitimitätsfrage
 
-### → [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
+### → [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 
 Iran-Krieg im deutschen politischen Diskurs
 
-### → [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
+### → [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
 
 Iran-Flucht und westliche Reaktionen
 

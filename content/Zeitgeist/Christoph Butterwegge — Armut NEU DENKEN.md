@@ -166,7 +166,7 @@ Mausfeld erklärt, wie Eliten Deutungshoheit sichern; Butterwegge beschreibt die
 
 Historisches Echo: Horowski zeigt, wie Klassenstrukturen sich reproduzieren; Butterwegge belegt, dass dies im modernen Finanzkapitalismus via Erbschaftsrecht und Steuerpolitik strukturell fortgesetzt wird
 
-### → [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
+### → [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 
 Direkter Bezug: Die SPD-Debatte um Agenda 2010 und ihre sozialpolitischen Folgen, die Butterwegge als zentrale Ursache der Spaltung benennt
 
