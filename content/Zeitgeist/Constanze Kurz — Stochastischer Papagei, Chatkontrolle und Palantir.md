@@ -1,7 +1,7 @@
 ---
 title: "Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir"
 date: 21.05.2026
-aktualisiert: 05.06.2026
+aktualisiert: 2026-06-05
 description: "CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt."
 tags:
   - zeitgeist

@@ -2,7 +2,7 @@
 title: "Stromversorgung 2038 — ohne neue Gaskraftwerke"
 description: "Eine nüchterne Durchrechnung: Wie schließt ein 100%-Erneuerbare-System die brutale 104,6-Gigawatt-Lücke einer zehntägigen Dunkelflaute — ganz ohne fossile Neubauten?"
 date: 09.06.2026
-aktualisiert: 09.06.2026
+aktualisiert: 2026-06-09
 tags:
   - geistesblitz
   - energiepolitik

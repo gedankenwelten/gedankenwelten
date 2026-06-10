@@ -1,7 +1,7 @@
 ---
 title: "TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang"
 date: 08.06.2026
-aktualisiert: 08.06.2026
+aktualisiert: 2026-06-08
 description: "Wenn selbst Trumps treueste Geldgeber das Weite suchen, die Ölreserven schwinden und ein KI-Fonds aussieht wie ein Rettungsring für Milliardäre — liest sich das wie der Anfang vom Ende einer Regierung."
 tags:
   - zeitgeist

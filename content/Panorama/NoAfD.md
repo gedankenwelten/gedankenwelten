@@ -13,6 +13,16 @@ erstellt: 2026-04-27
 
 # NoAfD — Anatomie einer rechtsextremen Partei
 
+![[assets/NoAfD-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**George Grosz** — Weimarer Neue Sachlichkeit, ätzende Tuschelinie mit Aquarell in Tabakbraun, Ocker, Blutrot und Schiefergrau. „Anatomie einer rechtsextremen Partei" ist fast wörtlich, was Grosz mit *Stützen der Gesellschaft* (1926) gemalt hat — und das Bild nimmt das Scharnier der Note wörtlich: Marionettenfiguren mit sichtbaren Metallgelenken, jede buckelt nach oben und tritt nach unten, während rechts die Solidaritätskette eine Figur aus der Pyramide zieht.
+
+*Prompt:* Wide horizontal banner, 1200×500, in the style of George Grosz and Weimar-era Neue Sachlichkeit political satire — caustic crooked ink linework with acid watercolor washes in tobacco brown, sickly ochre, blood red and slate grey. Left two thirds: a grotesque human pyramid of marionette-like figures whose joints are drawn as visible metal hinges; each figure bows obsequiously toward the one above while its boot presses down on the bent back of the figure below. At the top a small bloated figure in a suit perches on an absurdly tall, fragile chair, holding puppet strings and banknotes that thread down through the entire pyramid like a spider's web. All faces are blank ovals or simple mask shapes, no realistic faces. Right third: pale warm dawn light; a dense row of simple upright figures stands shoulder to shoulder holding hands, a horizontal human chain pulling one figure free from the lowest tier of the pyramid — where their linked arms meet the structure, one metal hinge visibly snaps apart. Background: jagged Weimar-era city silhouette and torn newspaper scraps drifting across the dark half of the sky. Flat illustrative caricature, expressive distorted linework, muted paper texture, no photorealism, no realistic faces, no text.
+
+</details>
+
 ## Warum dieses Thema?
 
 Die AfD ist die erfolgreichste rechtsextreme Partei in der Geschichte der Bundesrepublik. Seit ihrer Gründung 2013 hat sie sich von einer euroskeptischen Professorenpartei zur flächendeckend etablierten rechtsextremen Kraft gewandelt. In Sachsen und Thüringen war sie 2024 stärkste Partei. Der Verfassungsschutz stuft den „Flügel" als gesichert rechtsextrem ein, die Gesamtpartei wird als Verdachtsfall geführt.

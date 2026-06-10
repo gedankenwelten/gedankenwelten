@@ -1,7 +1,7 @@
 ---
 title: "Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?"
 date: 08.06.2026
-aktualisiert: 09.06.2026
+aktualisiert: 2026-06-09
 description: "Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?"
 tags:
   - zeitgeist

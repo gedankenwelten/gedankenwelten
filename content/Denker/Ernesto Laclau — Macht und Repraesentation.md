@@ -1,7 +1,7 @@
 ---
 title: "Ernesto Laclau — Macht und Repräsentation"
 description: "Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit."
-aktualisiert: 08.06.2026
+aktualisiert: 2026-06-08
 tags:
   - denker
   - philosophie
