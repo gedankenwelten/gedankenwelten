@@ -1,6 +1,7 @@
 ---
 title: Ernesto Laclau — DenkerVita
 tags: [denker-vita, philosophie, politische-theorie, hegemonie, post-marxismus, populismus, diskurstheorie, argentinien, großbritannien]
+aktualisiert: 2026-06-08
 ---
 
 # Ernesto Laclau — DenkerVita

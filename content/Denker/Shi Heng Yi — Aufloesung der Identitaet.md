@@ -1,7 +1,7 @@
 ---
 title: "Shi Heng Yi — Die Auflösung der Identität"
 description: "Ein Shaolin-Meister demontiert öffentlich die eigene Identität — Essenz statt Rolle, Loslassen statt Kontrolle, der Bruch mit dem missbrauchenden Lehrmeister."
-aktualisiert: 09.06.2026
+aktualisiert: 2026-06-09
 tags:
   - denker
   - buddhismus

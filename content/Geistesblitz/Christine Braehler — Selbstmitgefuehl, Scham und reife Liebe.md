@@ -1,7 +1,7 @@
 ---
 title: "Christine Brähler — Selbstmitgefühl, Scham und reife Liebe"
 date: 31.05.2026
-aktualisiert: 05.06.2026
+aktualisiert: 2026-06-05
 description: "Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht."
 tags:
   - geistesblitz

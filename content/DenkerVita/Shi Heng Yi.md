@@ -9,7 +9,7 @@ tags:
   - spiritualität
   - persönliche-transformation
   - deutschland
-aktualisiert: 09.06.2026
+aktualisiert: 2026-06-09
 ---
 
 # Shi Heng Yi — DenkerVita

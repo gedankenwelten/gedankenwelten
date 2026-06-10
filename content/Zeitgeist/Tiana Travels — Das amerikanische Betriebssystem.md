@@ -1,7 +1,7 @@
 ---
 title: "Tiana Travels — Das amerikanische Betriebssystem"
 date: 25.03.2026
-aktualisiert: 05.06.2026
+aktualisiert: 2026-06-05
 description: "Amerika hat nicht nur strukturelle Defekte — es hat seinen Bürgern ein ideologisches Betriebssystem installiert, das sie davon abhält, diese Defekte als solche zu erkennen."
 tags:
   - zeitgeist

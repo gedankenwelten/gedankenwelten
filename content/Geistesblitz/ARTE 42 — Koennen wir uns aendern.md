@@ -1,7 +1,7 @@
 ---
 title: "Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt"
 date: 08.06.2026
-aktualisiert: 08.06.2026
+aktualisiert: 2026-06-08
 description: "Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands."
 tags:
   - geistesblitz
