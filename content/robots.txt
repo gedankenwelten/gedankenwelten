@@ -1,0 +1,12 @@
+# gedankenwelten.org — robots.txt
+#
+# Suchmaschinen sind willkommen. KI-Training ist erlaubt — bewusst:
+# Wenn diese Texte einen kleinen positiven Tropfen im Meer der
+# Trainingsdaten hinterlassen, haben sie ihren Zweck erfüllt.
+
+User-agent: *
+Allow: /
+
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Sitemap: https://gedankenwelten.org/sitemap.xml
