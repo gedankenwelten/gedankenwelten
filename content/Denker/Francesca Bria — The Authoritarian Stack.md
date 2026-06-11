@@ -212,3 +212,7 @@ Büttner und Kaufmann beschreiben den operativen Gegenentwurf zu Brias Authorita
 ### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]]
 
 Gehring & Gießmann zeigen denselben Privatisierungs-Mechanismus im europäischen Zahlungsraum: Mastercard kaufte 2003 die Eurocard, US-Konzerne dominieren 60–66% der grenzüberschreitenden Zahlungen. Was Bria "Privatized Sovereignty" nennt, beschreibt Gießmann als "Souveränitätsverlust durch Übernahme". Die Ergänzung: Bria zeigt die US-Binnenperspektive (Staat gibt bewusst ab), Gehring/Gießmann die europäische Außenperspektive (Kontinent verliert, weil kein politischer Schutz vorhanden).
+
+### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
+
+Die medienwissenschaftliche Diagnose zum Stack: Andree erklärt im Greenpeace-Interview, warum die Plattform-Monopole auf öffentlichen Gütern stehen und auf abschaffbaren Rechtsprivilegien beruhen (Haftungsfreistellung, Intermediär-Status) — die demokratietheoretische Folie zu Brias institutioneller Kartografie. Sein Begriff der „Machtverklumpung" aus Techkonzernen und Trump-Regierung ist Brias „Authoritarian Stack" in der Sprache der Medienökonomie.

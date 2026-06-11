@@ -209,3 +209,7 @@ Tiana dokumentiert aus amerikanischer Innenperspektive mit europäischer Distanz
 ### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
 
 Dieselbe Grundstruktur — politische Macht als direkt monetarisierbares Instrument — nun beim KI-Staatsfonds: Biersky vermutet, der Fonds solle fallende Tech-Aktien aus Trumps Milliardärs-Netzwerk absichern. Privatisierung der Gewinne, Sozialisierung der Risiken in neuer Verkleidung.
+
+### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
+
+Der strukturelle Überbau zu den hier dokumentierten Transaktionen: Andrees „Machtverklumpung" aus Techkonzernen und Trump-Regierung erklärt, warum die Selbstbereicherung System hat — Monopole auf öffentlichen Gütern machen Staaten erpressbar, und der TikTok-Deal ist dafür das jüngste Beispiel.

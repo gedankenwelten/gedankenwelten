@@ -265,3 +265,7 @@ Kaufmanns Swiss GPT in Bergbunkern ist der konkrete Versuch, Nosthoffs kyberneti
 ### → [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]]
 
 Nosthoffs kybernetisches Staatsverständnis (Steuerung durch Informationsflüsse statt demokratischen Konsens) ist die historische Genealogie von Urners drittem Pferd der Selbstzerstörung — was Urner als aktuelles Phänomen benennt (Attention Bros / Kommunikationskontrolle), zeigt Nosthoff als 80 Jahre altes Programm. Urners Beobachtung, KI verleite Menschen zum maschinellen Denken, findet in Nosthoffs Kybernetik-Analyse ihren strukturellen Ursprung: Rückkopplung und Regelung sind von Anfang an als Menschensteuerung konzipiert.
+
+### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
+
+Andree übersetzt die kybernetische Steuerungslogik in Medienökonomie und Demokratietheorie: Plattformen als gestapelte Monopole auf öffentlichen Gütern, deren Algorithmen die Ränder verstärken und die Mitte dimmen — und deren Macht auf abschaffbaren Rechtsprivilegien steht. Beers „The purpose of a system is what it does" trifft Andrees Neutralitätslüge exakt.

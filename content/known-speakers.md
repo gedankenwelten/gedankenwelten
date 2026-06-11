@@ -370,6 +370,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Markus Reisner
 **Status:** ✓ Vollanalyse → [[DenkerVita/Markus Reisner]]
 
+## Martin Andree
+**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Andree]]
+
 ## Maren Urner
 **Status:** ✓ Vollanalyse → [[DenkerVita/Maren Urner]]
 

@@ -255,6 +255,10 @@ Morpheus analysiert Objection.ai als Endprodukt der Network-State-Logik: private
 
 Thiels Emigration nach Argentinien ist das nächste Kapitel: Der „State-Made Billionaire" verlässt den Staat, sobald er ihm nicht mehr nützt. Biersky deutet es als politische Wette gegen Trumps Zukunft — was Grenzgänger Studios als Systemlogik beschrieben hat, zeigt sich jetzt im Exit.
 
+
+### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
+
+Andrees Greenpeace-Interview führt die hier beschriebene Thiel-Ideologie auf die Plattform-Ebene: Monopole auf öffentlichen Gütern als operatives Werkzeug des Programms — und Entflechtung nach Telekom-Vorbild, Outlink-Pflicht und offene Standards als konkrete Gegenmittel. Seine Kontinuitätsthese (die Konzerne waren „nie die Guten") deckt sich mit der State-Made-Milliardärs-Analyse dieser Note.
 ---
 
 ## Weiterdenken

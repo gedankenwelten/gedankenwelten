@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **11.06.** — [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
+>
+> Demokratie braucht Öffentlichkeit — doch die gehört inzwischen zwei Konzernen. Martin Andree über Machtverklumpung, erkaufte Rechtsprivilegien und Regulierung als Befreiung.
+
 > **10.06.** — [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN|Andreas Löschel — Strom NEU DENKEN]]
 >
 > Negative Strompreise sind kein Marktversagen, sondern ein Designproblem — und die Standortdebatte müsste auf Energiestückkosten schauen, nicht auf die Kilowattstunde.
@@ -40,11 +44,11 @@ Die Gedankenwelten (luc)
 >
 > Was Sparlogik mit Menschen macht, die noch keine eigene Stimme haben: 2,7 Milliarden Euro Kürzungen bei der Jugendhilfe — und eine geheime Kanzleramt-Liste, die noch tiefer einschneidet.
 
-> **08.06.** — [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds und Thiels Abgang]]
->
-> Wenn selbst Trumps treueste Geldgeber das Weite suchen, die Ölreserven schwinden und ein KI-Fonds aussieht wie ein Rettungsring für Milliardäre — liest sich das wie der Anfang vom Ende einer Regierung.
+> → *4 weitere in* [[Zeitgeist]]
 
-> → *8 weitere in* [[Zeitgeist]]
+### GoodNews
+
+> **11.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Denker
 
@@ -71,10 +75,6 @@ Die Gedankenwelten (luc)
 > **23.05.** — [[Panorama/Kaufkraft|Kaufkraft]]
 >
 > Warum 1965 ein Einkommen für Haus, Auto und drei Kinder reichte und heute zwei Vollzeitjobs kaum für Wohneigentum — und warum Inflation das nicht erklärt.
-
-### GoodNews
-
-> **10.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Geistesblitz
 

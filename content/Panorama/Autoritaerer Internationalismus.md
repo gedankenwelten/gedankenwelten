@@ -261,3 +261,4 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] | Machtbilanz · Was passiert, wenn diese Netzwerke regieren |
 | [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] | Gegenwehr · GFF-Gutachten als juristische Antwort auf die AfD-Einbettung in antidemokratische Netzwerke |
 | [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa]] | Lösung · Europäische KI-Souveränität als operative Antwort auf Infrastrukturabhängigkeit |
+| [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] | Infrastruktur · Plattform-Monopole als privatisierte Forumshoheit |

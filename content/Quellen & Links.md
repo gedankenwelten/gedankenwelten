@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Martin Andree — Monopole zerstören unsere Demokratie
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Monopole zerstören unsere Demokratie — Interview mit Prof. Dr. Martin Andree (Greenpeace Deutschland)](https://www.youtube.com/watch?v=fpSBIaRokTE) |
+| **Notiz** | [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie]] |
+| **DenkerVita** | [[DenkerVita/Martin Andree]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Andree_Monopole_Demokratie_Transkript.txt` |
+
 ## Arlie Hochschild — Stolen Pride
 
 | | |
