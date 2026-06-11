@@ -33,4 +33,7 @@ mv public public_old
 mv public_new public
 rm -rf public_old
 
+# Neue/geänderte Seiten an IndexNow melden (Bing & Co.) — Sitemap ist jetzt frisch
+python3 "$REPO/scripts/indexnow_ping.py" || true
+
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] pull-and-build done (zero-downtime)"
