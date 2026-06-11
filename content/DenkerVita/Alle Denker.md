@@ -184,6 +184,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Mark Reicher|Mark Reicher]]** — Informatiker und Geopolitik-YouTuber (VisualPolitik DE, eigener Kanal, Podcast *Wertewesten*); lebt in Prag; Meinungsfreiheit als Selbstzweck, „die besseren Argumente setzen sich durch", Analyse statt Journalismus; brach 2024 mit VisualPolitik wegen Russland-Propaganda-Vorwurf
 
+**[[DenkerVita/Martin Andree|Martin Andree]]** — Medienwissenschaftler, apl. Professor Universität zu Köln; BigTech-Monopole als Demokratiegefahr, „Machtverklumpung" aus Tech-Oligarchen und Trump-Regierung, Entflechtung nach Telekom-Vorbild; *Atlas der digitalen Welt* (2020), *Big Tech muss weg!* (2023, Günter-Wallraff-Sonderpreis)
+
 **[[DenkerVita/Mats Schoenauer|Mats Schoenauer]]** — Journalist, YouTuber, Buchautor; Betreiber YouTube-Kanal Topfvollgold; Gründer Topfvollgold (mit Moritz Tschermak, 2013); Medienmanipulation, Desinformation als Geschäftsmodell, Faktencheck-Journalismus
 
 **[[DenkerVita/Maurice Hoefgen|Maurice Höfgen]]** — Ökonom, YouTuber ("Geld für die Welt", 251.000+ Abonnenten), Kolumnist Berliner Zeitung; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse

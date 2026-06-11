@@ -226,6 +226,10 @@ Moini nennt das Parteiverbot „das schärfste Schwert des Staates" — Rath wü
 
 Redeckers Analyse der faschistischen Ausnahmezustandsrhetorik — *„Die Meinungsfreiheit ist bedroht"* als Mobilisierungsmotiv — ist die tiefere Erklärung für das, was Jäckels beobachtet: Die Klage über fehlende Meinungsfreiheit speist sich aus realen, aber überdehnt interpretierten Einschränkungen. Redecker liefert die Psychologie, die Bundestalk-Note die rechtliche Phänomenologie.
 
+
+### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
+
+Die strukturelle Gegenthese zur deutschen Debatte: Andree zeichnet nach, wie das Meinungsfreiheits-Narrativ von den Techkonzernen erfunden und über Trump zu europäischen Rechtspopulisten gewandert ist — und dass die eigentliche Frage nicht ist, was gesagt werden darf, sondern wem das Forum gehört, in dem gesprochen wird.
 ---
 
 ## Weiterdenken

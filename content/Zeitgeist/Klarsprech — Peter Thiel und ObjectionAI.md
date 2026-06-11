@@ -205,3 +205,7 @@ Während Klarsprech Palantirs Konzernideologie analysiert (Karp: "I think in dom
 ### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
 
 Thiels angekündigte Emigration nach Argentinien ist das nächste Kapitel: Der Architekt verlässt das Projekt, bevor es offiziell scheitert. Biersky deutet das als politische Wette — Thiel traut Trump nicht mehr zu, über die Midterms hinaus handlungsfähig zu bleiben.
+
+### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
+
+Andree liefert die demokratietheoretische Einordnung zu Thiels Programm: Die „Machtverklumpung" aus Techkonzernen und Trump-Regierung ist kein Lobbyismus, sondern nimmt demokratischen Gesellschaften die Forumshoheit — das Recht, ihre eigene Öffentlichkeit zu verfassen. *The Sovereign Individual* mit Thiels Vorwort ist für Andree der Beleg, dass dieses Programm offen publiziert vorliegt.
