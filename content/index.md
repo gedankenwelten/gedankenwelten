@@ -22,6 +22,10 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### GoodNews
+
+> **12.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+
 ### Zeitgeist
 
 > **11.06.** — [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
@@ -45,10 +49,6 @@ Die Gedankenwelten (luc)
 > Was Sparlogik mit Menschen macht, die noch keine eigene Stimme haben: 2,7 Milliarden Euro Kürzungen bei der Jugendhilfe — und eine geheime Kanzleramt-Liste, die noch tiefer einschneidet.
 
 > → *4 weitere in* [[Zeitgeist]]
-
-### GoodNews
-
-> **11.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Denker
 

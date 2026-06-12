@@ -18,6 +18,16 @@ aliases:
 
 # Martin Andree — Monopole zerstören unsere Demokratie
 
+![[assets/Martin-Andree-Monopole-zerstoeren-unsere-Demokratie-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Pieter Bruegel der Ältere** — flämische Tafelmalerei, erdige Ocker- und Moosgrüntöne, wimmelnde Kleinfiguren. Sein Turmbau zu Babel *ist* Andrees Bild: gestapelte Monopolschichten, monumental und doch auf brüchigem Grund — und seine Marktplätze sind die Agora, um die es im Herzstück des Interviews geht. Die entscheidende Pointe: Der Turm steht nicht auf Fels, sondern auf herausziehbaren Papier-Urkunden — Monopole als abschaffbare Rechtsprivilegien, die „zu Staub zerfallen".
+
+*Prompt:* Wide panoramic painting in the style of Pieter Bruegel the Elder, sixteenth-century Flemish oil on wood panel, earthy ochres, moss greens and dusty blues fading into atmospheric haze. Dominating the left half: a colossal spiral tower like the Tower of Babel, built of clearly distinct stacked horizontal tiers — each tier a different architecture crammed with antennae, satellite dishes, arcades of glowing screens and server-like arches — tier upon tier, leaning slightly, immense against the sky. The tower does not stand on rock: its foundation rests on a thin layer of oversized paper charters with red wax seals. At its base, dozens of tiny peasant figures are pulling the charters out one by one; where documents have been removed, the lowest tier is already crumbling into pale dust drifting away on the wind. The tower casts a long cold shadow across the middle of the land. On the right, in warm sunlight beyond the shadow: a small open square like an ancient agora, teeming with tiny lively figures in Bruegel fashion — clusters of people debating, a figure speaking from a barrel, market stalls, children running — a human, self-governed forum. A thin river separates tower and square. Rolling hills and sailing clouds in the distance. Countless tiny figures, no detailed faces, fine craquelure texture of an old panel painting, no photorealism. Horizontal banner composition, 1200×500.
+
+</details>
+
 > [!abstract] Worum es geht
 > Demokratie braucht Öffentlichkeit — doch die gehört inzwischen zwei Konzernen. Der Medienwissenschaftler Martin Andree zeigt im Greenpeace-Interview, wie BigTech-Monopole über öffentliche Güter herrschen, sich mit der Trump-Regierung zur „Machtverklumpung" verbunden haben und Europa systematisch destabilisieren. Seine Pointe ist dabei überraschend hoffnungsvoll: Diese Monopole stehen auf Rechtsprivilegien, die sich abschaffen lassen — Regulierung wäre keine Bevormundung, sondern Befreiung. Nur tun müssten wir es.
 
