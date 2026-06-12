@@ -205,6 +205,10 @@ Die Morddrohungen gegen Frau A innerhalb von zwei Tagen nach dem NiUS-Artikel si
 
 MONITOR zeigt, dass rechte Medienarbeit durch Dauerbeschallung normalisiert, nicht durch Überzeugung. Diese Note ist ein Einzelfall-Beleg dafür: Selbst nach Gerichtsurteil, Klarstellung und Schoenauers Dokumentation ändert NiUS nichts — weil Normalisierung keine Korrektheit braucht, nur Lautstärke.
 
+### → [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
+
+Die Folgewirkung des hier dokumentierten Mechanismus: NiUS erfindet Skandale und organisiert Empörung — Schönauers ÖRR-Insider beschreiben, wie genau solche Kampagnen in den Redaktionen ankommen. Aus Angst vor dem nächsten Shitstorm flüchten sich Nachrichtenredakteure in „sichere Wahrheiten" statt journalistischer Einordnung. Was hier als Methode analysiert wird, erscheint dort als vorauseilende Selbstzensur der angegriffenen Institution.
+
 ---
 
 ## Weiterdenken

@@ -173,6 +173,10 @@ Gutmairs Algorithmen-Kritik im Bundestalk und Dobusch/Zabouras Strukturanalyse d
 
 Urners Begriff des Angst-Journalismus benennt die ökonomische Triebkraft hinter dem, was Dobusch/Zaboura als strukturelle Berufslogik beschreiben: Klick-Optimierung erzeugt Katastrophenframes, Katastrophenframes erzeugen Passivität, Passivität begünstigt populistische Narrative — ein Kreis, den Dobusch/Zaboura als Faschismus-Normalisierung beschreiben und Urner als Angst-Kontagion. Urners konstruktiver Journalismus (*Perspective Daily*) ist der direkte institutionelle Gegenvorschlag zu "Performing Balance by Practicing Bias".
 
+### → [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
+
+Die Innenbestätigung der Diagnose: Was Dobusch/Zaboura als strukturelle Berufslogik beschreiben (Ausgewogenheits-Performance, Bewertungsverweigerung), benennen ÖRR-Insider bei Schönauer als gelebte Angst — Nachrichtenredakteure seien „beinahe ängstlich", zutreffende, aber politisierbare Wortwahl zu benutzen, und flüchten sich in „sichere Wahrheiten" statt Einordnung. Der Teufelskreis von außen theoretisiert, von innen erlebt.
+
 ---
 
 ## Weiterdenken

@@ -76,6 +76,7 @@ Schoenauer arbeitet als freier Journalist für Publikationen wie **Die Zeit** un
 
 - [[Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
 - [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+- [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
 
 ---
 

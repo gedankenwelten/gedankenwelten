@@ -199,3 +199,6 @@ Direktes Folgevideo zum selben Muster: NiUS erfindet im März 2026 einen "Islam-
 
 ### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
 D/Z liefern den theoretischen Rahmen für das, was Topfvollgold konkret dokumentiert: Sain-Washing und Bewertungsverweigerung als strukturelle Muster. Der Satz „Die Politik handelt aus Angst vor NIUS" ist das Paradebeispiel für D/Zs Teufelskreis — Angst vor dem Aktivismus-Vorwurf treibt Qualitätsmedien in die Unterwerfung unter Propagandastandards. Topfvollgold zeigt NIUS in der Fabrikation, D/Z erklärt, warum sie damit durchkommen.
+
+### → [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
+Die Innenseite des Kreislaufs: Diese Note zeigt, wie erfundene Geschichten Hass produzieren — Schönauers ÖRR-Insider-Recherche zeigt, wo dieser Hass ankommt. Redakteure berichten von der „Angst vor dem Hass" und dem „kurzen Zusammenzucken bei der Themenverteilung": Die Hetzmaschine wirkt nicht nur aufs Publikum, sondern erzeugt die Schere im Kopf im Inneren des Journalismus, den sie angreift.
