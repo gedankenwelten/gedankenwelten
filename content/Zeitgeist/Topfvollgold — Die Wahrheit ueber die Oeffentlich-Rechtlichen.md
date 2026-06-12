@@ -16,6 +16,16 @@ aliases:
 
 # Die Wahrheit über die Öffentlich-Rechtlichen — Insider packen aus
 
+![[assets/Topfvollgold-Die-Wahrheit-ueber-die-Oeffentlich-Rechtlichen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Henri Rousseau** — naive Malerei, nächtliche Dschungelruhe, gedämpfte Grün- und Blautöne mit warmem Lampengelb. Das stärkste Bild der Note stammt aus dem Transkript selbst: „Dieser Sender ist ein riesiges schnarchendes Tier." Rousseaus gutmütige Nachtszenen (*Der schlafende Zigeuner*) tragen genau die Doppelnatur der Innenansicht — das große Tier beißt nicht, es schläft nur; und während es schnarcht, sendet der Turm auf seinem Rücken weiter und hält die Krähen auf Abstand. Die kleinen Figuren tragen Formularstapel durchs Blattwerk aus Papier; eine sitzt frierend außerhalb des warmen Lichts — die Freie.
+
+*Prompt:* Naive painting in the style of Henri Rousseau, wide banner format 1200x500. A moonlit night scene: a huge, gentle, sleeping animal — something between a lion and a soft shaggy beast — lies across the center and right of the image, eyes closed, peaceful, visibly snoring with three small white "zzz" curls rising from its nose. On its back grows a tall red-and-white radio transmission tower, and despite the sleep, delicate concentric broadcast waves ripple from the tower into the dark blue sky. The beast rests in a dense Rousseau-style jungle, but the large flat leaves are subtly drawn as paper forms and documents with faint lines of text. On the left, small naive human figures in simple clothes work busily around the animal: two carry a giant stack of paper forms together, one waters a paper plant, one tiny figure sits apart outside the warm glow on a small stool in the cold, wrapped in a thin blanket. High above on the right, a loose flock of black crows circles at a distance, kept away by the glow of the broadcast waves. A full moon illuminates everything in calm greens, deep blues and warm lamp-yellow. Flat perspective, dense foliage, naive folk-art detail, no realistic faces, no photorealism, no text except the faint suggestion of lines on the paper leaves.
+
+</details>
+
 > [!abstract] Worum es geht
 > ÖRR-Insider beschreiben ein „riesiges schnarchendes Tier": lähmende Bürokratie, eine Zweiklassengesellschaft aus Festen und Freien, Beförderung nach Dienstjahren statt Leistung — und eine wachsende Angst vor dem Hass, die zur Schere im Kopf wird. Mats Schönauer hat Mitarbeitende von ARD, ZDF, Deutschlandradio und Funk anonym befragt. Das Ergebnis ist keine Abrechnung, sondern etwas Selteneres: eine differenzierte Innenansicht, in der dieselben Menschen, die das System scharf kritisieren, es zugleich als „Privileg für die Gesellschaft" verteidigen.
 

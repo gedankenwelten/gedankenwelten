@@ -146,6 +146,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Tilo Jung — Erben Wirtschaft AfD-Strategie|Tilo Jung — Erben, Wirtschaft, AfD-Strategie]]
 - [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus]]
 - [[Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren|Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
+- [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]] — ÖRR-Insider beschreiben ein riesiges schnarchendes Tier: Bürokratie, Zweiklassengesellschaft, Angst vor dem Hass — und warum sie trotzdem bleiben.
 - [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal|Topfvollgold — NiUS erfindet Islam-Skandal]]
 - [[Zeitgeist/auslandsjournal — Trump allein zu Haus|Trump allein zu Haus — Das One-and-Done-Syndrom]]
 - [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]]
