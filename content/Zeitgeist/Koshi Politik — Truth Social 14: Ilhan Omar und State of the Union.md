@@ -19,6 +19,16 @@ aliases:
 
 # Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union
 
+![[assets/Koshi-Politik-Truth-Social-14-Ilhan-Omar-und-State-of-the-Union-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — amerikanischer Sozialrealismus: flache Tempera in Schieferblau, Ocker und Ziegelrot, drahtige Konturen, ausdrucksstarke Hände. Eine durch und durch amerikanische Szene — Capitol, Medicaid, zwei Frauen aus Minnesota und Detroit — und Shahn hat sein Leben lang genau das gemalt: Mitgefühl für die Gezeichneten, beißende Schärfe gegen die Macht. Die eine Entscheidung: der Abwesende — kein Gesicht, kein Körper, nur die Hand mit dem leuchtenden Telefon hinter dem Vorhang; die beiden Frauen stehen aufrecht, während der Stacheldraht an ihnen zerbricht.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Painting in the style of Ben Shahn — American social realist tempera, flat muted colors of slate blue, ochre, brick red and warm grey, wiry angular black contour lines, expressive elongated hands, simplified stylized faces, no realistic faces, no photorealism. Scene: on the far right, a heavy dark curtain hangs from top to bottom of the image; from behind it emerges only a single oversized pale hand holding a glowing smartphone — no body, no face visible. From the phone's bright screen, jagged barbed lines like wire shoot leftward across the picture. In the center-left, under the thin outlined silhouette of the Capitol dome, two women stand upright and calm at their congressional desks — one wearing a headscarf, both with dignified posture, facing the jagged lines, which bend and break against them without knocking them down. Along the bottom of the image runs a smaller foreground strip: thin strings reach down from the phone-hand and drag away small white hospital beds from a huddled group of poor figures — an old man with a cane, a mother with a child — who reach after the disappearing beds. Muted parchment background, rough tempera texture, composition balanced between the dark curtain on the right and the two standing figures on the left.
+
+</details>
+
 Datum: 26.02.2026
 Quelle: [Truth Social Folge 14: Trump nach der State of the Union](https://www.youtube.com/watch?v=8tdgkj5Q83g)
 
