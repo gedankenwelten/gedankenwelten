@@ -17,6 +17,16 @@ aliases:
 
 # Wolfram Eilenberger — Die größte Lüge der Philosophie
 
+![[assets/Wolfram-Eilenberger-Die-groesste-Luege-der-Philosophie-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Odilon Redon** — visionärer Symbolismus: pudrige, leuchtende Pastelle, tiefes Indigo gegen goldenes Ocker, traumhafte Stille. Redon hat selbst immer wieder die mystische Barke gemalt — seine Mischung aus Traumlicht und Ruhe trägt ein Denken ohne Boden, das nicht in Verzweiflung kippt, sondern ins Leuchten; der Sandfluss der Mystik gehört zu seiner Welt wie zu keiner anderen. Die eine Entscheidung: der Lichtpfad zum Tempel, der auf halbem Weg abbricht — die Verheißung festen Grundes bleibt sichtbar und unerreichbar zugleich, während das eigentliche Leben im Umbau des Schiffs (Neurath) und im grünen Strom unter dem Sand stattfindet.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Pastel painting in the style of Odilon Redon — visionary symbolism, luminous powdery pastels, deep indigo and violet sea, radiant golden ochre light, soft grainy texture, dreamlike stillness, no realistic faces, no photorealism. Scene: a wide open sea under a hazy golden sky. Center-left: a small wooden boat with one tall luminous amber sail drifts on the swell; aboard, three slender dark figures calmly rebuild the boat in mid-voyage — one pries a plank from the hull, one hammers it into a new place near the bow, one holds a lantern; a small gap in the hull glows instead of leaking. On the right horizon, a perfect white classical temple with columns hovers just above the waterline on a small rock — painted half-transparent, its base dissolving into shimmering air, clearly a mirage; a thin trembling path of golden light runs from the boat toward it across the water and breaks off halfway. High above, a single enormous Redon-like orb floats in the haze — half sun, half closed dreaming eye, radiating soft concentric rings of pale gold. The sea is rendered translucent: beneath the waves, at the sandy bottom, a winding river of luminous green flows through the dark sand, and tiny bright green shoots sprout along its banks. Powdery pastel grain throughout, edges soft as breath.
+
+</details>
+
 Quelle: [Die größte Lüge der Philosophie – scobel im Gespräch: Mit Wolfram Eilenberger](https://www.youtube.com/watch?v=tVJomcbPalg)
 
 > [!info] Wer spricht?
