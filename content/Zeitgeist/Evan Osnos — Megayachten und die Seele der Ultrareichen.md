@@ -19,6 +19,16 @@ aliases:
 
 # Evan Osnos — Megayachten und die Seele der Ultrareichen
 
+![[assets/Evan-Osnos-Megayachten-und-die-Seele-der-Ultrareichen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hieronymus Bosch** — altniederländisches Fantastik-Panorama: Miniaturdetail, gedämpfte Grün- und alchemistische Rosatöne, Wimmelwelt voller kleiner Szenen, moralisierender Traum. Das Narrenschiff und der Garten der Lüste sind seit 500 Jahren das Bild für genau diese Note — ein schwimmender Lustgarten, der sich für die Rettung der Zivilisation hält. Die eine Entscheidung: die durchgehende Wasserlinie — Yacht oben und Bunker unten als ein einziger nahtloser Rumpf, gezogen von den Seilen der Rudernden; Flucht nach oben und unten ist dasselbe Schiff.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Painting in the style of Hieronymus Bosch — Early Netherlandish fantastical panorama, fine miniature detail, muted greens and alchemical pinks, oranges and parchment sky, many tiny stylized figures, moralizing dreamlike atmosphere, no realistic faces, no photorealism. Scene: a dark teal ocean under a pale apocalyptic sky. Center: an enormous fantastical megayacht shaped like a floating pleasure garden — glass domes and pink coral towers on deck, a swimming pool, tiny figures in white robes feasting at long tables, a gilded statue of a Roman emperor on the bow, servants on a garden path picking small stones out of the way before a tiny crowned figure. Below the waterline, the yacht's hull continues seamlessly downward into a vast fortified underground bunker with many small glowing windows, each window showing a different artificial paradise landscape; inside, tiny figures hoard golden eggs and stacked coins among barrels. From the top deck, a slender golden rocket lifts off on a thin ladder of fire toward a crescent moon. Around the yacht, the dark water is crowded with small overloaded rowboats and swimming figures who strain at long ropes attached to the yacht's hull, pulling it forward. A few Bosch-style hybrid creatures — a fish with legs carrying a letter, a bird-headed figure in a banker's hat — float among them. Horizon dotted with distant burning cities, very small.
+
+</details>
+
 Quelle: [Journalist Evan Osnos über die Ultrareichen, Mark Zuckerberg & Megayachten — Jung & Naiv: Folge 821](https://www.youtube.com/watch?v=7MRbQ_DwIwo)
 
 > [!info] Wer spricht?
