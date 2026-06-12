@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*231 Notes — automatisch generiert · nach Thema sortiert*
+*232 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -118,6 +118,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende]]
 - [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]]
 - [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
+- [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] — Demokratie braucht Öffentlichkeit — doch die gehört inzwischen zwei Konzernen. Martin Andree über Machtverklumpung, erkaufte Rechtsprivilegien und Regulierung als Befreiung.
 - [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Matthias Quent und Maja Göpel — Extremismus NEU DENKEN]]
 - [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]]
 - [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen|Morpheus — Warum alle chinesische KI nutzen]]
