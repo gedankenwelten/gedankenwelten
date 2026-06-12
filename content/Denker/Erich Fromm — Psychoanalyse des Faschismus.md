@@ -17,6 +17,16 @@ aliases:
 
 # Erich Fromm — Psychoanalyse des Faschismus
 
+![[assets/Erich-Fromm-Psychoanalyse-des-Faschismus-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Käthe Kollwitz** — Kohle und Lithografie, deutscher Expressionismus, Schwarz und warmes Grau auf rauem Papier, tiefes Mitgefühl für die Gezeichneten. Fromms Blick auf die Unterworfenen ist nie verächtlich, sondern verstehend — genau diese Mischung aus Härte und Erbarmen ist Kollwitz' Hand; zeitlich, geografisch und moralisch gehört sie zu diesem Stoff wie keine andere. Die eine Entscheidung: der leere Mantel auf der obersten Stufe — die Kette aus Buckeln und Treten führt zu niemandem; die Autorität, der alle sich unterwerfen, ist hohl. Die innehaltende Figur in der Mitte ist das Gewissen, das spricht, aber nicht gehört wird.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Charcoal and lithograph drawing in the style of Käthe Kollwitz — German Expressionist black and warm grey tones on textured paper, heavy expressive strokes, deep compassion for human figures, dramatic chiaroscuro, no realistic faces, faces simplified and shadowed, no photorealism, no color except faint warm sepia. Scene: a long stone staircase rises diagonally from the lower left corner to the upper right of the image, against a dark empty background. On the stairs, a chain of eight or nine heavy human figures, one per step: each figure bows deeply forward and upward, reaching with both devoted hands toward the figure above — while one foot or hand simultaneously presses down on the shoulders of the figure below. The gestures repeat up the staircase like a single wave of bowing and treading. On the topmost step stands no person at all: only an enormous empty dark coat, hovering upright, its hollow opening blacker than the background, casting the longest shadow down the whole staircase. Midway down the chain, one single figure has paused and turned its shadowed face outward toward the viewer, hands half-raised, neither bowing nor treading. At the very bottom of the stairs, a crushed figure crouches under the weight of the chain, one hand flat on the ground. Faint chalk-white highlights on the bowed backs; rough charcoal texture throughout.
+
+</details>
+
 Quelle: [Psychoanalyse des Faschismus — Doppelpunkt, SWF (1975)](https://www.youtube.com/watch?v=oQfBsZdy8Bg)
 
 > [!info] Wer spricht?
