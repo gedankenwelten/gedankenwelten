@@ -16,6 +16,16 @@ aliases:
 
 # Bernhard Pörksen und Maja Göpel — Debatte NEU DENKEN
 
+![[assets/Poerksen-und-Goepel-Debatte-neu-denken-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee** — Aquarell, flache verspielte Geometrie, warme Ocker-, Terrakotta- und Salbeitöne, eingewobene Worte. Die Note ist ein Dialog als „Tanz des Denkens" — und Pörksen selbst sagt, dem Ideologen fehle „das Tänzerische, der Humor": wörtlich Klees Vokabular. Hier ist die warme Haussprache kein Default, sondern die ehrliche Wahl. Die eine Entscheidung: die beiden Fäden, die sich über den Tanzenden zu einem einzigen Ohr verflechten — Ich-Ohr und Du-Ohr werden ein gemeinsames Organ; die Wahrheit beginnt zu zweit.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Watercolor painting in the style of Paul Klee — flat playful geometry, soft layered washes of warm ochre, terracotta, sage green and dusty rose over textured paper, thin black line figures, childlike wisdom, no realistic faces, no photorealism. Composition from left to right: on the far left, a small heavy stone bench stands empty, painted in cold grey-blue, with a few rigid rectangular name-tags and labels left lying on and under it; above the bench a narrow strip of harsh neon-white glare fades out toward the left edge. In the center, two slender stick-like Klee figures dance together on light feet — one slightly taller, one with flowing hair — leaning toward each other mid-step, arms echoing each other's curve. From the head of each figure a thin line unspools like a thread; the two threads meet above them and braid into one ornamental spiral resembling a large open ear, drawn in fine black line with a warm golden wash. Small woven letters "DU" and "ICH" sit quietly inside the geometric patchwork of the background, one near each figure. To the right of the dancers, the patchwork ground opens into a wide field of lighter and lighter watercolor squares, with a small doorway shape standing free in the field and a large gentle orange sun-circle above the horizon. A few tiny birds as simple line glyphs scatter toward the sun.
+
+</details>
+
 Quelle: [Debatte NEU DENKEN mit Bernhard Pörksen und Maja Göpel](https://www.youtube.com/watch?v=5HVhsYhmxTg)
 
 > [!info] Wer spricht?
