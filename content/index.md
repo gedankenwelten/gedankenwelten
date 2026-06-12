@@ -22,6 +22,16 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Panorama
+
+> **12.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
+
+> **10.06.** — [[Panorama/NoAfD|NoAfD]]
+
+> **01.06.** — [[Panorama/Energie|Energie]]
+>
+> Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
+
 ### GoodNews
 
 > **12.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
@@ -63,18 +73,6 @@ Die Gedankenwelten (luc)
 > **08.06.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
 >
 > Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
-
-### Panorama
-
-> **10.06.** — [[Panorama/NoAfD|NoAfD]]
-
-> **01.06.** — [[Panorama/Energie|Energie]]
->
-> Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
-
-> **23.05.** — [[Panorama/Kaufkraft|Kaufkraft]]
->
-> Warum 1965 ein Einkommen für Haus, Auto und drei Kinder reichte und heute zwei Vollzeitjobs kaum für Wohneigentum — und warum Inflation das nicht erklärt.
 
 ### Geistesblitz
 

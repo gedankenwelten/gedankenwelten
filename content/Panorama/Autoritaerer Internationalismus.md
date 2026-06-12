@@ -1,6 +1,6 @@
 ---
 title: "Autoritärer Internationalismus — Die globale Rechte"
-aktualisiert: 2026-04-27
+aktualisiert: 2026-06-12
 tags:
   - panorama
   - faschismus
@@ -50,6 +50,8 @@ Dieses Panorama bündelt 30+ Notes, die das Phänomen aus fünf Perspektiven bel
 [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] ergänzt die theoretische Tiefe: Die Tech-Eliten operieren nach kybernetischer Logik — Gesellschaft als steuerbares System, Menschen als Datenpunkte. Musk kontrolliert Starlink (globale Kommunikation), SpaceX (Raumfahrt-Infrastruktur), X (öffentlichen Diskurs), Neuralink (perspektivisch: menschliches Denken) und xAI. Das ist keine Marktmacht — das ist **infrastrukturelle Souveränität**.
 
 [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] liefert die Psychologie: 1990 gab es 66 US-Milliardäre, die 7 % des Vermögens kontrollierten. 2025 sind es 700+ mit 18 %. Zuckerberg baut eine Welt um seine Rot-Grün-Blindheit herum — und muss nie verhandeln. Die Ultrareichen beschreiben sich selbst als „Rädchen in einer Maschine", obwohl sie Märkte bewegen — passive Selbstwahrnehmung als Opfer. Augustus-Caesar-Verehrung (Andreessen: „Introspektion ist eine feministische Erfindung"). Bunkermentalität (Kansas-Atombunker). Sie **wissen**, dass extreme Ungleichheit historisch zu Revolution, Krieg oder Seuche führt — und handeln nicht.
+
+[[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] vermisst die Mediendimension dieser Souveränität — und liefert die demokratietheoretische Diagnose: Über 60 % der gesamten Öffentlichkeit in Deutschland findet auf digitalen Medien statt, davon 85–90 % der Aufmerksamkeit bei Alphabet und Meta. Was Bria „Authoritarian Stack" nennt, heißt bei Andree „gestapelte Monopolschichten auf öffentlichen Gütern" — Suche, Social Media, Video, Cloud, Transaktionen übereinander, mit Kill-Switch-Macht über ganze Gesellschaften: dieselbe Architektur aus zwei Disziplinen. Andrees „Machtverklumpung" — die mächtigsten Konzerne der Welt verbunden mit der mächtigsten Regierungsmacht — benennt zugleich, was verloren geht: die **Forumshoheit**. Seit der Agora durften Demokratien selbst bestimmen, wie ihre Öffentlichkeit verfasst ist; genau dieses Recht bestreiten die Plattformen Europa, während sie das Wort „Meinungsfreiheit" als Kampfbegriff führen.
 
 → [Lösungsansatz ↓](#digitale-souveränität-und-regulierung)
 
@@ -139,7 +141,9 @@ Verbundene Notes: [[Francesca Bria — The Authoritarian Stack]] · [[Nachtsitzu
 
 ✅ **Trägt bei** — [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] und [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] konvergieren: Wenn ein einzelner Mensch (Musk) Starlink, SpaceX, X, Neuralink und xAI kontrolliert, ist das keine Marktmacht — es ist infrastrukturelle Souveränität. Die EU hat mit dem Digital Services Act und dem AI Act erste Schritte getan. Aber: Solange Palantir \$10 Mrd. Pentagon-Verträge bekommt und DOGE den US-Staat von innen zerlegt, reicht europäische Regulierung allein nicht. Es braucht **öffentliche digitale Infrastruktur** — europäisches Cloud-Computing, öffentliche KI-Modelle, dezentrale Kommunikationsplattformen.
 
-Verbundene Notes: [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] · [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] · [[Adam Tooze — Pentagon vs. Anthropic]]
+[[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree]] macht aus dem Postulat ein Programm — und dreht die Beweislast um: Diese Monopole sind nicht naturwüchsig, sie bestehen aus **abschaffbaren Rechtsprivilegien** — Haftungsfreistellung, Intermediär-Status, geschlossene Standards. Sein Präzedenzfall ist die Deutsche Telekom: In den Neunzigern ein übermächtiges Monopol, dann trennte das TKG Infrastruktur und Inhalte — heute konkurrieren Dutzende Anbieter auf demselben Netz. Sein Drei-Punkte-Programm für BigTech: **Entflechtung** nach Telekom-Vorbild, **Outlink-Pflicht** (Urheber dürfen wieder aus Plattformen heraus auf eigene Seiten verlinken — sofortige Demokratisierung der Aufmerksamkeit), **offene Standards** (redaktionelle und öffentlich-rechtliche Plattformen bekommen echte Chancen). Die Pointe: Regulierung wäre keine Bevormundung, sondern Befreiung — „das Netz gehört allen Menschen, nicht nur den Tech-Oligarchen". Offen bleibt seine eigene härteste Frage: Die Telekom konnte entflochten werden, weil der deutsche Staat territoriale Macht über sie hatte. Welchen Hebel hat Europa gegen Konzerne, deren Heimatstaat sie aktiv beschützt?
+
+Verbundene Notes: [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] · [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] · [[Adam Tooze — Pentagon vs. Anthropic]] · [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
 
 ---
 
