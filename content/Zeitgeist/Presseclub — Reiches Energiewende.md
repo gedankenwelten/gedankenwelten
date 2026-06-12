@@ -14,6 +14,16 @@ aliases:
 
 # Presseclub — Reiches Energiewende
 
+![[assets/Presseclub-Reiches-Energiewende-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Lyonel Feininger** — kristalliner Bauhaus-Kubismus: transparente Prismenflächen, leuchtende Abstufungen in Petrol, Bernstein und Rosé, feine Linealzüge. Niemand hat technische Bauwerke so sehr als *Lichtarchitektur* gemalt — für eine Note über Strom, Netze und Lichtwege ist Feiningers Prismenlicht die geborene Übersetzung: Energie als Licht, das nicht ankommt. Die eine Entscheidung: der Lichtstrahl, der genau an der Lücke zwischen den Masten zersplittert — Redispatch, Netzausbau und Nord-Süd-Gefälle in einem Motiv, mit dem Streittisch des Presseclubs klein im Vordergrund.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Painting in the style of Lyonel Feininger — Bauhaus crystalline cubism, translucent overlapping prismatic planes, luminous gradations of teal, amber, rose and pale green, fine straight ruled lines, architectural light, no realistic faces, no photorealism. Scene: a panoramic stylized landscape from north to south. On the left, a glassy northern sea with a row of tall slender wind turbines rendered as crystalline towers; shafts of prismatic light radiate from their blades, but two of the turbines stand dark and still, their light cut off. On the right, a compact angular southern city of factory halls and church towers, with one gas power plant glowing warm orange, a thin plume rising in faceted planes. Between north and south, a long procession of electricity pylons marches across rolling prismatic fields — and breaks off in the middle of the image: two unfinished pylons face each other across an empty gap, loose wires hanging down, and a great beam of pale golden light from the northern turbines stops exactly at the gap, splintering into shards that fall into the field. In the lower center foreground, four small angular figures sit around a round table covered with papers, leaning toward each other in debate, rendered in the same crystalline facets. Above everything, large transparent shafts of sunlight cross the sky like intersecting panes of glass.
+
+</details>
+
 Quelle: [Presseclub – Reiches Energiewende: Rolle rückwärts oder wirtschaftlich vernünftig? | 26.04.2026](https://www.youtube.com/watch?v=uBQGQ4-GZ60)
 
 > [!info] Wer spricht?
