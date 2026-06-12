@@ -85,7 +85,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 - [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen|Evan Osnos — Megayachten und die Seele der Ultrareichen]]
-- [[Zeitgeist/Follow This — Die grüne Horzel in Big Oil|Follow This — Die grüne Horzel in Big Oil]]
 - [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]] — 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
 - [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN|Gesine Schwan — Macht NEU DENKEN]]
 - [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten|GFF-Verbotsgutachten — Kann die AfD verboten werden?]]
