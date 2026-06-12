@@ -6,6 +6,16 @@ tags: [denker-vita, geooekonomie, geopolitik, wirtschaft, asien, deutschland]
 
 # Christoph Hein — DenkerVita
 
+![[assets/Christoph-Hein-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hokusai** — japanischer Farbholzschnitt: Preußischblau mit weißen Klauenkämmen, Ocker und gedämpftes Rot, kräftige Konturen. Die Bildsprache der Region, die Heins Leben geprägt hat — und die Große Welle ist seit 200 Jahren *das* Bild für eine Gewalt, die über Schiffe hereinbricht; hier bricht sie über Containerschiffe herein. Die eine Entscheidung: die Welle über der Weltwirtschaft, beobachtet vom Korrespondenten mit Notizbuch am Kai — die zerschnittenen roten Handelslinien erzählen seine These in einem Detail.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Japanese ukiyo-e woodblock print in the style of Hokusai — flat Prussian blue and indigo waves with white claw-like foam crests, warm cream sky, ochre and muted red accents, bold black outlines, visible woodgrain texture, no realistic faces, no photorealism. Scene: a vast turbulent sea. In the center-left, one enormous Hokusai wave rears up with curling foam claws, towering over two modern container ships loaded with small colorful stacked containers in faded red, mustard and teal; one ship rides the crest, the other tips into the trough, a few tiny containers tumbling into the sea. Across the whole sea, thin red shipping-route lines stretch like a delicate web between distant harbors; two of the red lines are visibly severed mid-ocean, their ends curling apart. On the far right horizon, a row of giant harbor gantry cranes stands in dark silhouette like a mountain range, with one snow-capped Fuji-like peak behind them and a large flat red sun rising. In the lower left corner, on a small stone pier, a single calm figure in a long coat stands watching the sea, holding an open notebook, drawn small in simple woodblock lines. Stylized woodblock clouds banded across the upper sky.
+
+</details>
+
 > [!info] Wer spricht?
 > **Dr. Christoph Hein** — Wirtschaftsjournalist, seit 1997 bei der Frankfurter Allgemeinen Zeitung. 25 Jahre Wirtschaftskorrespondent in Asien mit Sitz in Singapur. Heute Autor des wöchentlichen Newsletters **F.A.Z. PRO Weltwirtschaft** zum Thema Geoökonomie. Einer der profiliertesten deutschen Beobachter globaler Machtverschiebungen.
 >
