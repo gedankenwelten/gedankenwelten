@@ -16,6 +16,16 @@ aliases:
 
 # Walther Ziegler — Freud in 60 Minuten
 
+![[assets/Walther-Ziegler-Freud-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Remedios Varo** — akribischer Surrealismus: feiner Pinselstrich, warme Bernstein- und Sepiatöne gegen tiefes Petrol, stille geheimnisvolle Innenräume. Der Surrealismus ist das Kind der *Traumdeutung* — aber Varo statt Dalí: keine zerfließenden Uhren, sondern präzise Architektur der Psyche. Die eine Entscheidung: die Proportion — das bewusste Ich bekommt nur den schmalen beleuchteten Streifen oben, das Es vier Fünftel des Bildes; die Zügel liegen lose auf dem Pferderücken, nirgends festgebunden.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Painting in the style of Remedios Varo's meticulous surrealism — fine precise brushwork, warm muted palette of amber, ochre, sepia and deep teal shadows, mysterious quiet atmosphere, elongated stylized figures with featureless or hidden faces, no realistic faces, no photorealism. Composition: a horizontal architectural cross-section. Along the top edge runs a thin strip of a Viennese fin-de-siècle study at night — wooden floorboards, a single lamplit desk where a small calm figure in a high-collared coat sits writing, bookshelves, a narrow window with a crescent moon. This lit room occupies only the upper fifth of the image. Below the floorboards, filling the entire rest of the banner, stretches an enormous cavernous underground realm, far larger than the house above: a dark vaulted cellar with swirling deep-green water, a great iron cauldron boiling over with glowing embers, and a huge powerful horse-like shape mid-stride moving through the dark, its mane flowing into smoke. From the small figure's hand, two long thin reins run down through a crack in the floorboards and rest loosely, unattached, on the giant horse's back. Pale moths and small luminous fish drift upward from the depths through gaps between the floorboards into the lit study. The cellar walls show faint half-open doors receding into darkness.
+
+</details>
+
 Quelle: [Freud in 60 Minuten](https://www.youtube.com/watch?v=RcCL4OathoE)
 
 > [!info] Wer spricht?
