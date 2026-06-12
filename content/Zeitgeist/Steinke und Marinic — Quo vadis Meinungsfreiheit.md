@@ -263,6 +263,10 @@ Vier taz-Journalist:innen als praktische Ergänzung zu Steinke/Marinić: Derselb
 
 Semsrott praktiziert das Gegenteil performativer Meinungsfreiheitsdebatten: Transparenz als Tat — Dokumente veröffentlichen, IFG-Anfragen stellen, §353d-Grenzen austesten. Die IFG-Einschränkung als direkte Staatsreaktion auf FragDenStaat-Veröffentlichungen ist das beste Argument für Marinićs These: Real umkämpfte Handlungsräume sind wichtiger als abstrakte Freiheitsdiskurse.
 
+### → [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
+
+Dasselbe Muster im Inneren einer Institution: ÖRR-Insider berichten Schönauer, dass freie Mitarbeiter aus Angst um Folgeaufträge keine Systemkritik üben können — Meinungsfreiheit wird nicht durch Verbote eingeschränkt, sondern durch antizipierte Konsequenzen. Was Steinke und Marinić für den öffentlichen Raum diagnostizieren (Drohung → innere Anpassung), reproduziert ausgerechnet die Institution mit dem Verfassungsauftrag freier Meinungsbildung in ihren eigenen Beschäftigungsverhältnissen.
+
 ---
 
 ## Weiterdenken

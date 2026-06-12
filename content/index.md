@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **12.06.** — [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
+>
+> ÖRR-Insider beschreiben ein riesiges schnarchendes Tier: Bürokratie, Zweiklassengesellschaft, Angst vor dem Hass — und warum sie trotzdem bleiben.
+
+> **11.06.** — [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
+>
+> Demokratie braucht Öffentlichkeit — doch die gehört inzwischen zwei Konzernen. Martin Andree über Machtverklumpung, erkaufte Rechtsprivilegien und Regulierung als Befreiung.
+
+> **10.06.** — [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN|Andreas Löschel — Strom NEU DENKEN]]
+>
+> Negative Strompreise sind kein Marktversagen, sondern ein Designproblem — und die Standortdebatte müsste auf Energiestückkosten schauen, nicht auf die Kilowattstunde.
+
+> **10.06.** — [[Zeitgeist/Arlie Hochschild — Stolen Pride|Arlie Hochschild — Stolen Pride: Scham, Verlust und der Aufstieg der Rechten]]
+>
+> Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt.
+
+> **09.06.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
+>
+> Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
+
+> → *5 weitere in* [[Zeitgeist]]
+
 ### Geistesblitz
 
 > **12.06.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
@@ -57,30 +81,6 @@ Die Gedankenwelten (luc)
 ### GoodNews
 
 > **12.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
-
-### Zeitgeist
-
-> **11.06.** — [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
->
-> Demokratie braucht Öffentlichkeit — doch die gehört inzwischen zwei Konzernen. Martin Andree über Machtverklumpung, erkaufte Rechtsprivilegien und Regulierung als Befreiung.
-
-> **10.06.** — [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN|Andreas Löschel — Strom NEU DENKEN]]
->
-> Negative Strompreise sind kein Marktversagen, sondern ein Designproblem — und die Standortdebatte müsste auf Energiestückkosten schauen, nicht auf die Kilowattstunde.
-
-> **10.06.** — [[Zeitgeist/Arlie Hochschild — Stolen Pride|Arlie Hochschild — Stolen Pride: Scham, Verlust und der Aufstieg der Rechten]]
->
-> Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt.
-
-> **09.06.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
->
-> Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
-
-> **08.06.** — [[Zeitgeist/MONITOR — Sparhammer gegen Jugendliche|MONITOR — Sparhammer gegen Jugendliche]]
->
-> Was Sparlogik mit Menschen macht, die noch keine eigene Stimme haben: 2,7 Milliarden Euro Kürzungen bei der Jugendhilfe — und eine geheime Kanzleramt-Liste, die noch tiefer einschneidet.
-
-> → *4 weitere in* [[Zeitgeist]]
 
 ### Denker
 

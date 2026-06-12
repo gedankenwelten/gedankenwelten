@@ -205,3 +205,7 @@ Gabriel liefert die ontologische Grundlage für Pörksens Filterclash: Soziale N
 ### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Steinke und Marinić diagnostizieren dieselbe Krankheit wie Pörksen — aber von der politisch-juristischen Seite. Marinićs "Durchlauferhitzer" ist Pörksens "Filterclash" im Demokratiekontext; ihre "performative Meinungsfreiheitsdebatte" ist Pörksens "Spektakelpolarisierung" mit konkretem politischen Inhalt. Wo Pörksen Kommunikationswerkzeuge liefert, benennen Steinke/Marinić die politischen Akteure, die diese Werkzeuge strategisch einsetzen.
+
+### → [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
+
+Der Realitätstest für Pörksens „redaktionelle Gesellschaft": ÖRR-Insider fordern bei Schönauer exakt die dialogische Transparenz, die Pörksen als Gegenmittel beschreibt — „die Programmzahlerinnen auf Augenhöhe informieren, wofür ihr Geld ausgegeben wird". Die Note zeigt aber auch, warum das scheitert: Bürokratische Abstimmungsschleifen machen jede Stellungnahme „immer unschärfer", bis die Institution wie ein unbelehrbares Bollwerk wirkt.

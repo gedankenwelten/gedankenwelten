@@ -3120,3 +3120,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Video 3** | [Why Millions of Americans Vote Against Their Own Self Interests](https://www.youtube.com/watch?v=gUFMM9VYgpM) (Januar 2026) |
 | **Notiz** | [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] |
 | **DenkerVita** | [[DenkerVita/Tiana Travels]] |
+
+## Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen
+
+| | |
+|---|---|
+| **Video** | [Die Wahrheit über die Öffentlich-Rechtlichen](https://www.youtube.com/watch?v=lufzkMU1BkQ) (Juni 2026) |
+| **Notiz** | [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Schoenauer_OERR_Wahrheit_Transkript.txt` |
+| **DenkerVita** | [[DenkerVita/Mats Schoenauer]] |
