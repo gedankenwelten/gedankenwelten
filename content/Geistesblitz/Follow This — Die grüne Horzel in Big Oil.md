@@ -3,7 +3,7 @@ title: "Follow This — Die grüne Horzel in Big Oil"
 aktualisiert: 2026-04-28
 date: 2026-04-28
 tags:
-  - zeitgeist
+  - geistesblitz
   - kapitalismus
   - klimakrise
   - demokratie
@@ -16,6 +16,16 @@ aliases:
 ---
 
 # Follow This — Die grüne Horzel in Big Oil
+
+![[assets/Follow-This-Die-gruene-Horzel-in-Big-Oil-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Joan Miró** — verspielte surrealistische Abstraktion: cremiger Grund, schwere schwarze Biomorphe, reine Farbakzente, Sterne und Augen, Witz und Linie. Miró ist der Maler des Kleinen, das das Große piesackt — genau das Kräfteverhältnis dieser Geschichte: acht Leute und ein Hund gegen 400 Milliarden. Die eine Entscheidung: das Größenverhältnis — die Horzel ist das kleinste und hellste Element im Bild, der Riese steht auf lächerlich dünnen Beinchen, und die acht Figürchen mit Hund hinter der Fliege erzählen die ganze Organisation in einer Zeile.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Painting in the style of Joan Miró — playful surrealist abstraction, flat warm cream background with subtle texture, bold black biomorphic shapes, accents in pure red, yellow, blue and bright green, thin whimsical black lines, scattered star and eye glyphs, no realistic faces, no photorealism. Scene: on the right half looms an enormous bulbous black creature shaped like a fat oil drop — its body glossy black, balanced absurdly on two tiny thin legs, with a small crown of derrick-like antennae on top dripping little black droplets, and two small mismatched Miró eyes looking nervous. On the left, a tiny bright green hornet — drawn with a few witty lines, translucent wings, a long needle-sharp sting — flies toward the giant; its looping dotted flight path curls twice around the black mass and ends at its flank, where the sting touches: from that point a fine crack spreads through the black body, and out of the crack leak three small green stars and one yellow coin-circle. Behind the hornet trails a loose line of eight tiny simple stick figures and one little dog, walking along the dotted flight path in single file. Above everything a flat red Miró sun-disc and two black stars. Lots of open cream space, the composition breathing, the green hornet the smallest and brightest thing in the picture.
+
+</details>
 
 *Niederl. „horzel" = Stechfliege/Bremse — nach Sokrates, der sich die „Stechfliege Athens" nannte, die den trägen Staat durch lästige Fragen wachhält. Oder anders: Die Demokratisierung des Kapitalismus.*
 

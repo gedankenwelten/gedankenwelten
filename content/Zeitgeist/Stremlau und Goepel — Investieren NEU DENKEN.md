@@ -241,7 +241,7 @@ Tieferes Profil zu Stremlaus Biografie, Karriereweg und Kernthesen.
 
 Tieferes Profil zu Göpels Denken über Wirtschaftstransformation und planetare Grenzen.
 
-### → [[Zeitgeist/Follow This — Die grüne Horzel in Big Oil]]
+### → [[Geistesblitz/Follow This — Die grüne Horzel in Big Oil]]
 
 Follow This und Stremlau verfolgen denselben Grundgedanken — Kapital ist Gestaltungsmacht — aber mit entgegengesetzten Instrumenten: Follow This von der Aktionärsseite (Stimmrechte auf Hauptversammlungen), Stremlau von der Regulierungsseite (EU-Taxonomie, Beirat). Beide demonstrieren, dass systemische Wirkung nicht Staatsmacht erfordert, sondern Kapitallogik gegen sich selbst.
 
