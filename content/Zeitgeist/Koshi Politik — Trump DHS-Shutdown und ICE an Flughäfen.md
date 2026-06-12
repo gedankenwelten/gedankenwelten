@@ -19,6 +19,16 @@ aliases:
 
 # Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen
 
+![[assets/Koshi-Politik-Trump-DHS-Shutdown-und-ICE-an-Flughaefen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**George Grosz** — Weimarer Neue Sachlichkeit: kratzige Tuschelinien, säuerliche Aquarelltöne in Ocker und Rot, zitternde Karikatur. Die Note dokumentiert kein Sicherheitskonzept, sondern Einschüchterungstheater — und niemand hat aufgeblasene Autorität und uniformierte Gewalt so seziert wie Grosz. Die eine Entscheidung: das schreiende Gesicht als Decke des Flughafens — der Post-Sturm ist nicht Nebenmotiv, sondern das Wetter, unter dem alle anderen stehen.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Satirical drawing in the style of George Grosz and Weimar-era Neue Sachlichkeit — sharp scratchy ink lines, acid watercolor washes in sallow ochre, dusty teal and aggressive red, jittery caricature figures, no realistic faces, no photorealism. Scene: a cavernous airport departure hall. On the left, a long queue of small hunched travelers with suitcases waits at a security checkpoint; behind the X-ray scanner stands a single thin, exhausted security officer, trouser pockets turned inside out, empty. From the right, a tight wedge of bulky masked agents in dark uniforms marches diagonally into the hall — oversized boots, black masks, sunglasses — casting one long merged red shadow across the floor toward the queue. Above the whole hall, where the ceiling should be, floats a giant bloated caricature head with eyes squeezed shut and mouth torn open in a scream, spitting a blizzard of small white paper rectangles that flutter down over the travelers like snow. A departure board hangs crooked on the wall, every row blank. Composition: small civilians below, looming power above, the dark wedge cutting into the scene from the right.
+
+</details>
+
 Quelle: YouTube-Kanal **Koshi Politik**, Teil 2 eines zweiteiligen Videos vom März 2026
 Quelle: [110% PSYCHOPATH! Trumps totaler Online AUSRASTER am Wochenende! Teil 2](https://www.youtube.com/watch?v=raV4Loqu4hg)
 
