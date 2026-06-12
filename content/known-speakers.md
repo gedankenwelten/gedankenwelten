@@ -590,3 +590,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Wendy Brown
 **Status:** ✓ Vollanalyse → [[DenkerVita/Wendy Brown]]
+
+## Marco Wähner
+**Status:** ✓ Vollanalyse → [[DenkerVita/Marco Waehner]]
+
+## Ralf Stockmann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ralf Stockmann]]
