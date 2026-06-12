@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Marco Wähner & Ralf Stockmann — Fediverse / Dezentrale Netzwerke
+
+| | |
+|---|---|
+| **Vortrag A (39C3)** | [Auf die Dauer hilft nur Power — Herausforderungen für dezentrale Netzwerke aus Sicht der Soziologie](https://media.ccc.de/v/39c3-auf-die-dauer-hilft-nur-power-herausforderungen-fur-dezentrale-netzwerke-aus-sicht-der-soziologie) · [YouTube-Spiegel](https://www.youtube.com/watch?v=aJqzvwuAi88) |
+| **Vortrag B (re:publica 26)** | [Digitale Souveränität durch dezentrale Netzwerke? Das Beispiel Mastodon](https://www.youtube.com/watch?v=CalkPs4fQ-g) |
+| **Vortrag C (#fediday2025)** | [Recht haben reicht nicht — Überlegungen zur Zukunft des Fediverse](https://tube.sekretaerbaer.net/videos/watch/cf4d3a56-da68-4978-a925-c6326a4c25c4) (PeerTube, CC BY-SA 4.0) |
+| **Notiz** | [[Geistesblitz/Fediverse - Die digitale Allmende]] |
+| **DenkerVitas** | [[DenkerVita/Marco Waehner]] · [[DenkerVita/Ralf Stockmann]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/39C3_Dezentrale_Netzwerke_Transkript.txt` · `…/Waehner_Mastodon_Souveraenitaet_Transkript.txt` · `…/Stockmann_Zukunft_Fediverse_Transkript.txt` |
+
 ## Martin Andree — Monopole zerstören unsere Demokratie
 
 | | |

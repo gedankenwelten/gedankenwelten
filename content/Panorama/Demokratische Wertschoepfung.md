@@ -188,6 +188,10 @@ Die anthropologische Tiefe: Mitgliedschaft statt Besitz. Sein statt Haben als st
 
 Das Panorama zeigt, dass Unternehmensform Kapitalflüsse steuert (Genossenschaft: Wertschöpfung bleibt dort wo sie entsteht). Stremlau ergänzt die Kapitalmarktperspektive: Die Frage ist nicht nur, welche Unternehmensform man wählt, sondern welche Kapitalallokation man aktiv betreibt. "Geld ist niemals neutral" und "1P=1 Stimme" sind zwei Seiten einer demokratischen Kapitalphilosophie.
 
+### → [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
+
+Die Plattformgenossenschaft findet im Fediverse ihren konkreten Präzedenzfall: Instanzen wie digitalcourage.social verbinden Mitnutzung mit Mitfinanzierung — dasselbe Prinzip wie die Energiegenossenschaft, angewendet auf soziale Infrastruktur. Der Gini-Koeffizient 0,92 der Mastodon-Nutzerverteilung zeigt dabei, dass auch gemeinwohlorientierte Strukturen ohne bewusste Gegenstrategie dieselben Zentralisierungstendenzen reproduzieren wie Kapitalmärkte.
+
 
 ## Weiterdenken
 

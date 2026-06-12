@@ -180,6 +180,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Marcant|Marcant]]** — YouTuber (vollmarcant), 23 Jahre; Deradikalisierungsaktivismus durch Straßendialog; 500+ Menschen aus rechtsextremer Szene gebracht; Theodor-Heuss-Medaille 2026; Serie "Rechtsextrem oder verwirrtes Kind?"; Rechtsextremismusbekämpfung durch Respekt und Begegnung auf Augenhöhe
 
+**[[DenkerVita/Marco Waehner|Marco Wähner]]** — Soziologe (Dr.), Postdoc am Center for Advanced Internet Studies (CAIS), Bochum; empirische Forschung zu dezentralen Netzwerken (Fediverse, Mastodon, Tor); dezentrale Netzwerke als Kollektivgut-Problem, originäre Instabilität, Zentralisierung trotz dezentraler Architektur, öffentliche Grundfinanzierung als Lösung
+
 **[[DenkerVita/Maren Urner|Maren Urner]]** — Neurowissenschaftlerin, Professorin für Nachhaltige Transformation (Münster UAS); Gründerin *Perspective Daily* (konstruktiver Journalismus); Hope Theory, Angst vs. Hoffnung, dynamisches Denken; SPIEGEL-Bestsellerautorin *Schluss mit dem täglichen Weltuntergang*, *Raus aus der ewigen Dauerkrise*, *Radikal emotional*
 
 **[[DenkerVita/Mark Reicher|Mark Reicher]]** — Informatiker und Geopolitik-YouTuber (VisualPolitik DE, eigener Kanal, Podcast *Wertewesten*); lebt in Prag; Meinungsfreiheit als Selbstzweck, „die besseren Argumente setzen sich durch", Analyse statt Journalismus; brach 2024 mit VisualPolitik wegen Russland-Propaganda-Vorwurf
@@ -244,6 +246,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Stefan Schulz|Stefan Schulz]]** — Soziologe, Autor; Die Neuen Zwanziger (mit Wolfgang M. Schmitt), ehem. Aufwachen! (mit Tilo Jung); Demografie, Spontanhistorisierung, Medienwandel
 
 **[[DenkerVita/Steffen Mau|Steffen Mau]]** — Makrosoziologe, Professor HU Berlin, seit 2025 Direktor MPI Göttingen; Triggerpunkte statt Spaltung, Polarisierungsunternehmer, Sortiermaschinen
+
+**[[DenkerVita/Ralf Stockmann|Ralf Stockmann]]** — Bibliothekar und Digital-Stratege (ZLB / Staatsbibliothek Berlin); profilierte Fediverse-Stimme, Mastodon-UX-Reformer; Schöpfer von Ultraschall, Mastowall, Sendegate; „+1"-Prinzip (öffentliches Geld → Fediverse-Pflicht)
 
 ## T
 

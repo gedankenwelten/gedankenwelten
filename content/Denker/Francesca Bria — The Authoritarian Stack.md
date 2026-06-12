@@ -216,3 +216,7 @@ Gehring & Gießmann zeigen denselben Privatisierungs-Mechanismus im europäische
 ### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
 
 Die medienwissenschaftliche Diagnose zum Stack: Andree erklärt im Greenpeace-Interview, warum die Plattform-Monopole auf öffentlichen Gütern stehen und auf abschaffbaren Rechtsprivilegien beruhen (Haftungsfreistellung, Intermediär-Status) — die demokratietheoretische Folie zu Brias institutioneller Kartografie. Sein Begriff der „Machtverklumpung" aus Techkonzernen und Trump-Regierung ist Brias „Authoritarian Stack" in der Sprache der Medienökonomie.
+
+### → [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
+
+Brias These der „privatisierten Souveränität" bekommt hier ihre konkrete Gegenfolie: Das Fediverse ist der technisch realisierte Gegenentwurf — öffentliches Protokoll, zivilgesellschaftliche Träger, keine Kapitalakkumulation. Wähner zeigt soziologisch, warum dieser Gegenentwurf strukturell instabil ist; Stockmann zeigt strategisch, was es braucht, damit er trotzdem gewinnt. Brias Modell Barcelona (demokratische Dateninfrastruktur durch öffentliche Institutionen) ist exakt das Organisationsmodell, das Wähner für das Fediverse fordert.

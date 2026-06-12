@@ -229,6 +229,10 @@ Beide Notes kreisen um dasselbe Sprachspiel: Wem gehört das Wort „Meinungsfre
 
 Die Makroperspektive, in die diese Note gehört: Andree beschreibt mit der Plattform-Infrastruktur einen Teilaspekt eines global koordinierten Projekts — von CPAC über die Heritage Foundation bis zu europäischen Rechtspopulisten. Seine „Machtverklumpung" ist einer von mehreren Knotenpunkten in dem Netz, das das Panorama vollständig kartografiert.
 
+### → [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
+
+Die Gegenseite von Andrees Diagnose: Wo Andree die Monopole beschreibt und Entflechtung per Gesetz fordert, analysieren Wähner und Stockmann soziologisch und strategisch, warum die bereits existierende dezentrale Alternative nicht wächst. Stockmanns „Sündenfall" des Outlink-Verbots und Andrees Outlink-Pflicht treffen hier aufeinander — und offenbaren eine Lücke: Selbst wenn Andrees Gesetz käme, bräuchte die Gesellschaft eine organisierte zivilgesellschaftliche Infrastruktur, um die entstehende Freiheit zu füllen.
+
 ---
 
 ## Weiterdenken

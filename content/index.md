@@ -22,6 +22,28 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **12.06.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
+>
+> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
+
+> **09.06.** — [[Geistesblitz/Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke|Stromversorgung 2038 — ohne neue Gaskraftwerke]]
+>
+> Eine nüchterne Durchrechnung: Wie schließt ein 100%-Erneuerbare-System die brutale 104,6-Gigawatt-Lücke einer zehntägigen Dunkelflaute — ganz ohne fossile Neubauten?
+
+> **08.06.** — [[Geistesblitz/ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt]]
+>
+> Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
+
+> **05.06.** — [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
+>
+> Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
+
+> **05.06.** — [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe|Christine Brähler — Selbstmitgefühl, Scham und reife Liebe]]
+>
+> Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht.
+
 ### Panorama
 
 > **12.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
@@ -73,24 +95,6 @@ Die Gedankenwelten (luc)
 > **08.06.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
 >
 > Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
-
-### Geistesblitz
-
-> **09.06.** — [[Geistesblitz/Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke|Stromversorgung 2038 — ohne neue Gaskraftwerke]]
->
-> Eine nüchterne Durchrechnung: Wie schließt ein 100%-Erneuerbare-System die brutale 104,6-Gigawatt-Lücke einer zehntägigen Dunkelflaute — ganz ohne fossile Neubauten?
-
-> **08.06.** — [[Geistesblitz/ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt]]
->
-> Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
-
-> **05.06.** — [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
->
-> Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
-
-> **05.06.** — [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe|Christine Brähler — Selbstmitgefühl, Scham und reife Liebe]]
->
-> Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht.
 
 ### Gedanken
 

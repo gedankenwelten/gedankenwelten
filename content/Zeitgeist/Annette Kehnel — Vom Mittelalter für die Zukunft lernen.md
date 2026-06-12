@@ -334,3 +334,7 @@ Kehnels Commons-Forschung und Ostrom-Referenz sind das historische Fundament des
 ### → [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben]]
 
 Marquardt entwickelt eine Kulturgeschichte der Beschleunigung, für die Kehnels Mittelalter-Befunde das historische Gegenmaterial liefern: Vor Newton gab es keine absolute, lineare Zeit — es gab liturgische Zeit, Jahreszeitenrhythmus, Commons-Denken. Marquardt zeigt, was verloren ging; Kehnel zeigt, dass es konkret existierte.
+
+### → [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
+
+Das Fediverse ist Kehnels Bodensee-Modell im digitalen Raum: eine Infrastruktur, die niemandem gehört, nach gemeinsamen Regeln verwaltet wird und von allen genutzt werden kann — die aber wie der Bodensee von 1400 an der Grenze zwischen funktionierender Selbstverwaltung und Übernutzung balanciert. Der Soziologe Marco Wähner misst empirisch, was Kehnel für das Mittelalter rekonstruiert: dass Allmenden nicht automatisch stabil sind, sondern organisiert werden müssen. Ostroms Bedingungen — klare Grenzen, Regeln, Sanktionen — klingen im Fediverse wie offene Design-Anforderungen.
