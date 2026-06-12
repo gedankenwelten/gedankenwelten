@@ -19,6 +19,16 @@ aliases:
 
 # Fediverse — Die digitale Allmende
 
+![[assets/Fediverse-Die-digitale-Allmende-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ernst Haeckel** — *Kunstformen der Natur*, wissenschaftliche Lithografie in Tiefsee-Indigo, Ocker und Korallenrot. Wähners eigene Analogie wörtlich genommen: das Fediverse als Korallenriff, jede Instanz ein autonomer Organismus, das Ökosystem ohne zentralen Bauplan — gezeichnet mit dem Blick des Forschers, der Wissenschaft und Schönheit verbindet (Stockmanns Platon-Dreiklang). Die eine monströs gewucherte Koralle inmitten der filigranen Vielfalt ist der Gini-Koeffizient von 0,92 als stilles Detail.
+
+*Prompt:* A scientific lithograph plate in the style of Ernst Haeckel's "Kunstformen der Natur", wide horizontal banner 1200×500. An underwater coral reef ecosystem rendered with Haeckel's ornamental precision and symmetry: dozens of delicate, diverse coral formations — branching corals, fan corals, anemones, polyps — each one subtly fused with technological forms: tiny antennas as coral branches, small glowing server-window patterns in the polyp structures, fine cables as sea grass, jellyfish like floating lanterns trailing filament wires. Every organism distinct in shape and species, lovingly detailed, self-organized without central plan. Slightly left of center one single coral has grown into a monstrous, bloated dome — many times larger than all others, crowded with polyps, casting faint shadow over its delicate neighbors — while the small corals around it stay luminous and varied. Deep teal and dark indigo background like a Haeckel plate, the organisms in warm ochre, coral red, pale gold and ivory with fine hatched shading. Antique lithograph texture, thin elegant plate border. No text, no realistic faces, no photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > Das Protokoll für ein offenes, niemandem gehörendes Netz liegt längst bereit — und trotzdem wächst das Fediverse nicht von selbst. Drei Vorträge erklären gemeinsam, warum: Der Soziologe Marco Wähner zeigt, dass dezentrale Netzwerke ein klassisches Kollektivgut-Problem haben (alle profitieren, wenige tragen) und empirisch längst wieder zentralisieren — Gini-Koeffizient 0,92, wie extreme Vermögensungleichheit. Der Bibliotheks-Stratege Ralf Stockmann ergänzt die unbequeme Praxis-Seite: „Recht haben reicht nicht — wir müssen auch gewinnen." Zusammen ergibt das eine Soziologie, eine Empirie und eine Strategie der digitalen Allmende — und die Einsicht, dass sich soziale Ordnung nicht technisch fixen lässt.
 
