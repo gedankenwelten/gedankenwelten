@@ -6,6 +6,16 @@ tags: [denker-vita, wirtschaft, soziale-ungleichheit, medien, deutschland, journ
 
 # Julia Friedrichs — DenkerVita
 
+![[assets/Julia-Friedrichs-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — belgischer Surrealismus: glatte, flache Ölmalerei, heiterer Taghimmel, unheimliche Ruhe, messerscharfe Kanten. Niemand hat das Verbergen selbst so gemalt wie Magritte — die anonymen Herren mit verdecktem Gesicht sind die Welt der Diskretion, die Friedrichs öffnet; für eine in Brüssel ausgebildete Journalistin fast schon biografisch zwingend. Die eine Entscheidung: der unmöglich große Schatten des kleinen Hauses — das Sichtbare ist bescheiden, das Unsichtbare gigantisch; der Kategorienfehler von Einkommen und Vermögen in einem einzigen Bild.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Painting in the style of René Magritte — Belgian surrealism, smooth flat oil rendering, serene daylight blue sky with crisp white clouds, immaculate green lawn, uncanny calm, no realistic faces, no photorealism. Scene: in the center of a wide manicured estate lawn stands a modest, rather small grey villa behind a low perfectly trimmed hedge. The villa casts an impossibly enormous dark shadow across the lawn toward the viewer — the shadow is twenty times larger than the house itself and has the skyline silhouette of bank towers and vault doors embedded in its shape. In the sky above, dozens of identical men in dark suits and bowler hats float motionless in a neat grid, like rain that never falls; each man's face is hidden — replaced by a single large gold coin hovering where the face should be. On the far left, the hedge has one narrow gap: a single different figure — a woman in a plain coat — stands halfway through the gap, holding an open notebook and pencil, her face turned away from the viewer toward the estate. Near the villa's door, a small brass plaque-sized white cloud hovers at eye level, as if parked. Everything painted with Magritte's calm, even light and razor-sharp edges.
+
+</details>
+
 > [!info] Wer spricht?
 > **Julia Friedrichs** (*1979, Münsterland) — Preisgekrönte deutsche Journalistin und Dokumentarfilmerin. Arbeitet für ARD, ZDF und Die Zeit. Gründerin der Produktionsfirma Tell Me Why (mit Jochen Breyer, seit 2024). Autorin des Bestsellers *Crazy Rich* (2024), einer investigativen Tiefenanalyse der verschwiegenen Welt der Superreichen in Deutschland. Ihre Methode: 50-Stunden-Interviews mit Erben, Teilnahme an Steuervermeidungskonferenzen, systematische Recherche in das Ökosystem der Vermögenskonzentration und ihre politischen Folgen.
 
