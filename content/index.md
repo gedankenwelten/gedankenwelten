@@ -22,6 +22,10 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### GoodNews
+
+> **13.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+
 ### Zeitgeist
 
 > **12.06.** — [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
@@ -44,7 +48,7 @@ Die Gedankenwelten (luc)
 >
 > Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
 
-> → *5 weitere in* [[Zeitgeist]]
+> → *2 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -60,14 +64,6 @@ Die Gedankenwelten (luc)
 >
 > Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
 
-> **05.06.** — [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Maren Urner — Radikal hoffnungsvoll: Denn unser Hirn gibt niemals auf]]
->
-> Hoffnung ist nicht Optimismus, sondern eine Denkweise aus Willenskraft und Wegkraft — und das Gehirn gibt neurologisch niemals auf.
-
-> **05.06.** — [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe|Christine Brähler — Selbstmitgefühl, Scham und reife Liebe]]
->
-> Selbstmitgefühl ist nicht Softness — es ist eine radikale Umorientierung: von Angst und Kontrolle zu Fürsorge und Weisheit, die erst echte Beziehung ermöglicht.
-
 ### Panorama
 
 > **12.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
@@ -77,10 +73,6 @@ Die Gedankenwelten (luc)
 > **01.06.** — [[Panorama/Energie|Energie]]
 >
 > Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
-
-### GoodNews
-
-> **12.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Denker
 

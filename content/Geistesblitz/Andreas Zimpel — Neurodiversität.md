@@ -54,7 +54,7 @@ Das macht es wissenschaftlich unmöglich, dass zwei Menschen — auch eineiige Z
 
 Ein zentrales Konzept des Vortrags: Menschen denken unterschiedlich — nicht besser oder schlechter, sondern *anders*.
 
-**Das Experiment:** Tower of Hanoi — mit verbaler Interferenz (gleichzeitig „Dienstag, Donnerstag" sprechen). Das Sprachmodul wird belegt, und wer innerlich mit Sprache denkt, wird blockiert. Bild-Denker kaum — manche werden sogar *schneller*, weil das innere Selbstgespräch, das sie sonst ausbremst, nun abgelenkt ist.
+**Das Experiment:** Tower of Hanoi mit verbaler Interferenz — man löst die Türme, während man gleichzeitig rhythmisch „Dienstag, Donnerstag" spricht. Das belegt das Sprachmodul: Wer innerlich mit Sprache denkt, stockt, weil genau dieses innere Sprechen nun durch die Aufgabe blockiert ist. Bild-Denker werden kaum beeinträchtigt — manche werden sogar *schneller*, weil das innere Selbstgespräch, das sie beim visuellen Denken sonst als Rauschen begleitet und abbremst, durch die Sprechaufgabe besetzt ist und wegfällt.
 
 Menschen mit LRS, Autismus, ADHS oder Trisomie 21 zeigen **höhere Anteile von Bild-Denken**. Das gilt auch für eine Reihe revolutionärer Denker:
 
