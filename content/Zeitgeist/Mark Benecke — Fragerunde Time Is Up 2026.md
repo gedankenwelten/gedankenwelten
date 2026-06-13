@@ -15,6 +15,16 @@ aliases:
 
 # Mark Benecke — Fragerunde: Time Is Up 2026
 
+![[assets/Mark-Benecke-Fragerunde-Time-Is-Up-2026-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Anselm Kiefer** — bleierne, verbrannte Felder in Asche und Ocker, mit eingekratzten Zahlen und einer halb verwischten Jahreszahl im Himmel. Diese Hand statt der warmen Haussprache, weil die Note den forensischen Blick auf eine sterbende Erde trägt — tote Böden, schrumpfende Regenwürmer — und Beneckes Kernbild, dass jenseits von 2050 „gar nichts mehr zu sehen" ist: Die Vermessung läuft links noch durch die Furchen, rechts löst sich der Horizont in Nebel auf. Gravität ohne Panik, Messung als Form der Trauer.
+
+*Prompt:* A wide 1200×500 panoramic banner in the style of Anselm Kiefer — monumental, grave, apocalyptic but never hysterical. A vast scorched plowed field of cracked dead earth receding toward a low horizon, deep furrows of burnt umber and ochre soil, bits of dried straw and ash embedded in thick impasto texture. On the LEFT third the field is still legible and surveyed: thin chalk-white handwritten numbers and measurement marks run along the furrows like a forensic survey of the ground — small notations, tick marks, a leaning wooden measuring stake. A single bare blackened tree stands left of center. Toward the RIGHT, past a faint dissolving horizon line, the field and sky melt into a flat leaden grey fog of ash — featureless, nothing left to measure, the survey marks fading out. Heavy overcast sky of lead-grey and pale bone-white, smeared and weathered. Scrawled faintly across the upper sky in thin white chalk-like handwriting, half-erased: the number "2050". Muted palette — lead grey, ash, burnt umber, ochre, charred black. Cracked, textured, weathered surface like dried mud and scorched canvas. No people, no faces, no photorealism — painterly, encrusted, monumental.
+
+</details>
+
 Quelle: [Die FRAGERUNDE danach — TIME IS UP mit MARK BENECKE 2026 | Dekarldent](https://www.youtube.com/watch?v=Rqhnn6AZ5AA)
 
 > [!info] Wer spricht?
