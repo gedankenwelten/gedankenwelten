@@ -293,7 +293,7 @@ gefährlich", dann verkauft) wird **dort** verfolgt, damit diese Spur auf ihrer 
 des *staatlichen* Eingriffs — fokussiert bleibt. Der Twist verbindet beide: Wenn die Gefahr Marketing war,
 ist der Shutdown das Marketing, das nach hinten losging.
 
-### → [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert die Schicht zwischen Mensch und Wissen?]]
+### → [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?]]
 
 Die Muster-Spur, die dieser Einzelfall ausgelöst hat. Fable ist *ein* Datenpunkt in der größeren Frage,
 ob die Schicht zwischen Mensch und Wissen zentral bleibt oder dezentralisiert — der Kill-Switch als
