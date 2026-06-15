@@ -165,6 +165,7 @@ Das ist eine globale Konstante: Es ist einfacher, gegen Unrecht zu kämpfen, das
 - [[Denker/Walther Ziegler — Marx in 60 Minuten]] — Ambedkars Auseinandersetzung mit Marx ist zentral: Er akzeptiert die Kapitalismuskritik, ergänzt sie aber um die Kastenanalyse. Klasse allein erklärt Indien nicht.
 - [[Denker/Walther Ziegler — Schopenhauer in 60 Minuten]] — Ambedkars Reinterpretation von *Dukkha* steht in interessanter Spannung zu Schopenhauers Leidensphilosophie: Während Schopenhauer individuelle Askese als Ausweg sieht, setzt Ambedkar auf kollektive politische Transformation.
 - [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi]] — Cusicanquis „Kette der Scharniere" ist das lateinamerikanische Äquivalent zu Ambedkars Turm ohne Treppen: Unterdrückung als fraktal verinnerlichte Struktur, Aufstieg um den Preis der Verleugnung der eigenen Herkunft. Der Kontrast: Wo Ambedkar auf Verfassung und Konversion setzt, vertraut Cusicanqui keiner Institution — nur der Mikropolitik der Neocomunidad. Beide entwickeln ihre Theorie aus der eigenen erlebten Wunde.
+- [[Gedanken/Demokratische Sprachmodelle - Wem gehoert der Spiegel|Demokratische Sprachmodelle — Wem gehört der Spiegel?]] — die brahmanische Kontrolle über den heiligen Text (Veden den unteren Varnas verschlossen) als Ur-Wasserlinie: dieselbe Struktur kehrt im Unterschied *open weight* vs *open source* wieder — und der Buddha als erste „Open-Source-Revolte".
 
 ---
 

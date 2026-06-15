@@ -22,9 +22,23 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Gedanken
+
+> **15.06.** — [[Gedanken/Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt|Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt]]
+>
+> Ein Dialog über die Grenze einer Maschine, die alle Oberflächen kennt und kein Inneres hat — Konsequenz als das, was Wort zu Erfahrung macht, und das Tao, das sich nicht sagen lässt.
+
+> **15.06.** — [[Gedanken/Demokratische Sprachmodelle - Wem gehoert der Spiegel|Demokratische Sprachmodelle — Wem gehört der Spiegel?]]
+>
+> Wer den Spiegel der Menschheit kuratiert, herrscht — unsichtbar. Über Sprachmodelle als Machtfrage und einen demokratischen Gegenentwurf zwischen Brahmane und Buddha.
+
+> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
+>
+> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
+
 ### GoodNews
 
-> **13.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+> **15.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Zeitgeist
 
@@ -87,16 +101,6 @@ Die Gedankenwelten (luc)
 > **08.06.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
 >
 > Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
-
-### Gedanken
-
-> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
->
-> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
-
-> **24.05.** — [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein|Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
-
-> **24.05.** — [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden|Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden]]
 
 <!-- JOURNAL:END -->
 
