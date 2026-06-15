@@ -199,7 +199,7 @@ Silizium — die offene Quelle gegen das versiegelte Buch.
 
 - [[Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt]] — der Eisberg als *Erkenntnis*; hier wird er zur *Macht*. Die epistemische und die politische Wasserlinie.
 - [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]] — der konkrete Anlass: der staatliche Kill-Switch als Deutungshoheit in ihrer rohesten Form.
-- [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert die Schicht zwischen Mensch und Wissen?]] — die Spur, die *beobachtet*, was dieser Gedanke *entwirft*: Diagnose zur Vision.
+- [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?]] — die Spur, die *beobachtet*, was dieser Gedanke *entwirft*: Diagnose zur Vision.
 - [[Ambedkar - Kaste als Ontologie]] — die Kaste als Ur-Wasserlinie; Wissensmonopol als Klassenzement.
 - [[Francesca Bria — The Authoritarian Stack]] — der Stack, auf dem Kuratierung zur Herrschaft wird.
 - [[Yanis Varoufakis — Technofeudalism]] — Kuratierung als Klassenverhältnis, ökonomisch gefasst.

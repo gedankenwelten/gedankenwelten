@@ -1,5 +1,5 @@
 ---
-title: "Zentral oder dezentral — wer kontrolliert die Schicht zwischen Mensch und Wissen?"
+title: "Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?"
 tags:
   - spur
   - ki
@@ -16,7 +16,7 @@ aktualisiert: 2026-06-15
 description: "Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird."
 ---
 
-# Zentral oder dezentral — wer kontrolliert die Schicht zwischen Mensch und Wissen?
+# Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?
 
 > [!abstract] Worum es geht
 > Die entscheidende Frage der KI-Ära ist nicht, *welches* Modell das beste ist, sondern ob die Schicht
