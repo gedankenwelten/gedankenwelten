@@ -50,11 +50,11 @@ Die Gedankenwelten (luc)
 
 > **16.06.** — [[Panorama/NoAfD|NoAfD]]
 
-> **12.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
-
-> **01.06.** — [[Panorama/Energie|Energie]]
+> **16.06.** — [[Panorama/Linke Influencer|Panorama — Linke Influencer]]
 >
-> Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
+> Eine demokratische Creator-Szene erobert die Aufmerksamkeitslogik zurück, die lange der Rechten gehörte — vom geduldigen Argument bis zur Satire. Aber lässt sich die Demokratie mit den Waffen ihrer Gegner verteidigen, ohne selbst zur Empörungsmaschine zu werden?
+
+> **12.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
 
 ### GoodNews
 
