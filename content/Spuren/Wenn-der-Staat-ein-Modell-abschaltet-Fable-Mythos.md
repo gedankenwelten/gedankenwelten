@@ -74,21 +74,7 @@ auch banal erklärbar sein könnte (siehe Gegenbeobachtung).
 
 ## Verlauf
 
-### 2026-06-16 — China-Distillation vs. Anthropics Dementi — und die Amodei-Verweigerung (Konfidenz 65 % → 65 %)
-
-**Befund:** Drei neue Datenpunkte via winfuture.de (16.06.2026, Quellenbasis: Semafor + David Sacks-Statements):
-(1) **China-Distillation-Verdacht** — US-Behörden befürchteten laut Semafor, eine mit China verbundene Gruppe habe Zugriff auf die Technologie erlangt und könnte sie via *Distillation* kopieren (kleineres Modell auf den Outputs trainieren, um das Verhalten nachzubilden). Framing: systematischer Technologiediebstahl als Gefahr für den strategischen Vorteil des Westens.
-(2) **Anthropics Widerspruch** — Anthropic weist den China-Infiltrations-Vorwurf zurück. Entscheidend: Das Unternehmen erklärt, die Regierung habe China *in den direkten Gesprächen über die Kontrollen gar nicht angesprochen*. Anthropic blockt ohnehin standardmäßig alle Zugriffe aus China. David Sacks — der laut Semafor die Maßnahme öffentlich begründete — erwähnte China in seinen Statements ebenfalls **nicht**.
-(3) **Amodei-Verweigerung** — David Sacks bestätigt: Nachdem Amazon die Jailbreak-Schwachstelle entdeckt hatte, *weigerte sich* Anthropic-Chef Dario Amodei, sie sofort zu beheben oder das Modell offline zu nehmen — *dann* griffen die Behörden ein. Zusatz: Bereits im April hatten Unbefugte via Chat-Gruppe zeitweise Zugriff auf das System. Regierung signalisiert Bereitschaft, Beschränkungen nach Behebung der Schwachstelle zügig aufzuheben.
-
-**Deutung:** Die Datenpunkte heben und senken die These gleichzeitig, weshalb die Konfidenz stabil bleibt. Das **China-Destillations-Framing** ist interessant, *weil* es von der offiziellen Begründung (Jailbreak) abweicht und in keiner primären Erklärung auftaucht — nur in Regierungs-nahen Kreisen gegenüber Semafor, während Sacks es weglässt. Das ist ein Muster: Je mehr Begründungen auftauchen, desto stärker wirkt das Prinzip „national security" als Container, der nachträglich mit Inhalt gefüllt wird. Die **Amodei-Verweigerung** dagegen stützt die Regierungs-Lesart direkt: Wenn Anthropic eine Sicherheitslücke kannte und Patching ablehnte, ist die staatliche Intervention nicht nur Machtdemonstration — sie reagiert auf konkretes Nichthandeln. Das wäre das stärkste Argument *für* die Verhältnismäßigkeit, das diese Spur bisher gesehen hat.
-
-**Gegenbeobachtung:** Vier Gegengewichte. (a) Die Amodei-Verweigerung kommt *ausschließlich* von David Sacks — einem Regierungsberater mit direktem Interesse daran, Anthropic als unkooperativ darzustellen. Anthropic hat diesen Ablauf nicht bestätigt; ihre Version war stets „nie mit Details konfrontiert worden". (b) Die China-Quellen (Semafor-„Kreise") sind anonym und von Anthropic explizit widersprochen — der stärkste Sicherheitsgrund bleibt unbestätigt. (c) Dass Sacks China **nicht** erwähnt, ist selbst auffällig: wenn China der Kern wäre, würde er es nennen — das stärkste geopolitische Argument liegt ihm auf dem Tisch. Dass er es lässt, deutet darauf hin, dass entweder die Evidenz dünn ist, oder der offizielle Kanal bewusst getrennt hält. (d) Der April-Vorfall ist neu, aber ohne Details — unklar, wie ernst er war und ob er klassifiziert ist.
-
-> [!question] Weitergedacht
-> Wenn Amodei *wirklich* geweigert hat: Ist das Dummheit, Prinzip oder Kalkül? — und macht es einen Unterschied für die Verhältnismäßigkeit der *globalen* Abschaltung?
-
-### 2026-06-16 — WSJ-Primärbeleg: Amazon aktiviert den Staat (Konfidenz 65 % → 65 %)
+### 2026-06-16 — WSJ-Primärbeleg, Amodei-Verweigerung & China-Distillation (Konfidenz 65 % → 65 %)
 
 **Befund:** Der ursprüngliche Scoop ist das **Wall Street Journal** (Amrith Ramkumar & Robert McMillan,
 13.06.2026) — die WirtschaftsWoche-Meldung vom 14.06. war nur dessen deutsche Nacherzählung. Wörtlich:
@@ -96,31 +82,53 @@ Die Abschaltung wurde „prompted by conversations between Amazon CEO Andy Jassy
 including Treasury Secretary Scott Bessent"; **Amazon-Forscher** hatten Fable 5 per Promptketten dazu
 gebracht, eigentlich gesperrte, cyberangriffsrelevante Informationen auszugeben, was Jassy den Behörden
 mitteilte. Der WSJ rahmt das als Routine: „Tech industry executives have been in regular touch with the
-administration." Aggregatoren (TechCrunch, GeekWire, CNBC/Seeking Alpha, 13.06.) ergänzen drei Details:
-(1) Handelsminister **Howard Lutnick** schickte die Direktive am 12.06. an Amodei. (2) **David Sacks**
-(Ex-AI-Czar, jetzt PCAST-Co-Chair): ein „highly credible trusted partner" habe den Jailbreak entdeckt;
-die Administration habe Amodei gebeten, ihn zu fixen *oder das Modell zu ziehen* — „**Dario refused**".
-(3) Amazons Anthropic-Investment beträgt **~13 Mrd. $** — nicht „~4 Mrd. $", wie im Eintrag vom 14.06.
+administration." Fünf weitere Datenpunkte (Aggregatoren TechCrunch/GeekWire/CNBC/Seeking Alpha, 13.06.;
+winfuture.de auf Basis Semafor + Sacks, 16.06.):
+(1) Handelsminister **Howard Lutnick** schickte die Direktive am 12.06. an Amodei.
+(2) **Amodei-Verweigerung** — David Sacks (Ex-AI-Czar, jetzt PCAST-Co-Chair): ein „highly credible
+trusted partner" (= Amazon) habe den Jailbreak entdeckt; die Administration habe Amodei gebeten, ihn zu
+fixen *oder das Modell zu ziehen* — „**Dario refused**", *dann* griffen die Behörden ein.
+(3) **China-Distillation-Verdacht** — laut Semafor befürchteten US-Behörden, eine China-verbundene Gruppe
+habe Zugriff erlangt und könne die Technologie via *Distillation* kopieren (kleineres Modell auf den
+Outputs trainieren). Framing: systematischer Technologiediebstahl.
+(4) **Anthropics Widerspruch** — das Unternehmen weist die China-Infiltration zurück; die Regierung habe
+China *in den direkten Gesprächen über die Kontrollen gar nicht angesprochen*, und Anthropic blocke China
+ohnehin standardmäßig. Auch Sacks erwähnt China in seinen Statements **nicht**. Zusatz: bereits im April
+hatten Unbefugte via Chat-Gruppe zeitweise Zugriff; die Regierung signalisiert, Beschränkungen nach
+Behebung zügig aufzuheben.
+(5) Amazons Anthropic-Investment beträgt **~13 Mrd. $** — nicht „~4 Mrd. $", wie im Eintrag vom 14.06.
 notiert (Korrektur).
 
-**Deutung:** Zwei Bewegungen. Erstens **Korroboration ohne neues Argument**: Die Jassy-Bessent-Kette war
+**Deutung:** Drei Bewegungen. Erstens **Korroboration ohne neues Argument**: Die Jassy-Bessent-Kette war
 am 14.06. noch Einzelquelle (WiWo), ist jetzt WSJ-primärbelegt und breit aufgegriffen — das verfestigt
 den *Befund*, liefert aber kein neues technisches Argument zur eigentlichen Streitfrage
-(Verhältnismäßigkeit). Zweitens **Schärfung des Prüfsteins**: Sacks' „Dario refused" verschiebt die
-Falsifikationsfrage von „Vorwand vs. echtes Risiko" zu „Eskalation nach verweigertem Fix" — die
-prüfbare Lesart, die der Gleichmut-Spiegel selbst eingefordert hatte. Der Treiber rückt damit weg vom
-*autonomen* Staatsübergriff hin zu einer **Konzern-Staat-Verschränkung**: Amazon — gleichzeitig größter
-Anthropic-Investor (~13 Mrd.) und über AWS/eigene Modelle Wettbewerber — aktiviert den Staat gegen das
-eigene Beteiligungsunternehmen. Konfidenz bewusst bei 65 % belassen.
+(Verhältnismäßigkeit). Der Treiber rückt damit weg vom *autonomen* Staatsübergriff hin zu einer
+**Konzern-Staat-Verschränkung**: Amazon — gleichzeitig größter Anthropic-Investor (~13 Mrd.) und über
+AWS/eigene Modelle Wettbewerber — aktiviert den Staat gegen das eigene Beteiligungsunternehmen.
+Zweitens, **Schärfung des Prüfsteins**: Die Amodei-Verweigerung verschiebt die Falsifikationsfrage von
+„Vorwand vs. echtes Risiko" zu „Eskalation nach verweigertem Fix" — die prüfbare Lesart, die der
+Gleichmut-Spiegel selbst eingefordert hatte. Wenn Anthropic eine Lücke kannte und Patching ablehnte,
+reagiert die Intervention auf konkretes Nichthandeln — das wäre das stärkste Argument *für* die
+Verhältnismäßigkeit, das diese Spur bisher gesehen hat. Drittens, das **China-Framing** taucht in keiner
+primären Erklärung auf, nur in regierungsnahen Kreisen gegenüber Semafor, während Sacks es weglässt — ein
+Muster: Je mehr Begründungen kursieren, desto stärker wirkt „national security" als Container, der
+nachträglich mit Inhalt gefüllt wird.
 
-**Gegenbeobachtung:** Drei Dinge ziehen gegen die naheliegende Eigeninteresse-Lesart. (a) Der WSJ-Satz
-über „regular touch" dämpft das Verschwörungs-Framing: Jassy meldete womöglich schlicht einen *real
-gefundenen* Missbrauch über einen etablierten Kanal — kein Komplott, sondern Routine. (b) „Dario
-refused" ist die Sacks-/Regierungsversion; Anthropic-nahe Quellen widersprechen (nie mit Details
-konfrontiert). Beide Seiten haben Eigeninteresse — die Wahrheit über die angebliche Verweigerung ist von
-außen weiter ungeprüft. (c) Stärkstes Gegenargument: Wer **13 Mrd. $** investiert hat, sabotiert das
+**Gegenbeobachtung:** Fünf Gegengewichte. (a) Der WSJ-Satz über „regular touch" dämpft das
+Verschwörungs-Framing: Jassy meldete womöglich schlicht einen *real gefundenen* Missbrauch über einen
+etablierten Kanal — kein Komplott, sondern Routine. (b) „Dario refused" kommt *ausschließlich* von Sacks,
+einem Regierungsberater mit Interesse daran, Anthropic als unkooperativ darzustellen; Anthropic hat den
+Ablauf nicht bestätigt (Version: „nie mit Details konfrontiert"). (c) Die China-Quellen (Semafor-„Kreise")
+sind anonym und von Anthropic explizit widersprochen — der stärkste *Sicherheits*grund bleibt unbestätigt.
+(d) Dass Sacks China **nicht** nennt, ist selbst auffällig: läge das stärkste geopolitische Argument auf
+dem Tisch, würde er es ziehen — er lässt es, also ist die Evidenz dünn oder der Kanal bewusst getrennt.
+(e) Stärkstes Gegenargument zur Eigeninteresse-Lesart: Wer **13 Mrd. $** investiert hat, sabotiert das
 eigene Asset nicht leichtfertig — dass Amazon trotzdem Alarm schlug, spricht eher für einen *real
-wahrgenommenen* Sicherheitsbefund als für reine Wettbewerbstaktik.
+wahrgenommenen* Sicherheitsbefund als für reine Wettbewerbstaktik. Der April-Vorfall ist neu, aber ohne
+Details — ungeklärt, wie ernst er war.
+
+> [!question] Weitergedacht
+> Wenn Amodei *wirklich* geweigert hat: Ist das Dummheit, Prinzip oder Kalkül? — und macht es einen Unterschied für die Verhältnismäßigkeit der *globalen* Abschaltung?
 
 ### 2026-06-15 — Globale Schockwelle, Regierungs-Gegenerzählung, Deal-Signal, China-Link (Konfidenz 60 % → 65 %)
 
