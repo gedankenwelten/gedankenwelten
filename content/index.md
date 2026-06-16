@@ -46,6 +46,16 @@ Die Gedankenwelten (luc)
 
 > → *1 weitere in* [[Zeitgeist]]
 
+### Panorama
+
+> **16.06.** — [[Panorama/NoAfD|NoAfD]]
+
+> **12.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
+
+> **01.06.** — [[Panorama/Energie|Energie]]
+>
+> Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
+
 ### GoodNews
 
 > **16.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
@@ -77,16 +87,6 @@ Die Gedankenwelten (luc)
 > **08.06.** — [[Geistesblitz/ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt]]
 >
 > Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
-
-### Panorama
-
-> **12.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
-
-> **10.06.** — [[Panorama/NoAfD|NoAfD]]
-
-> **01.06.** — [[Panorama/Energie|Energie]]
->
-> Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
 
 ### Denker
 

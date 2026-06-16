@@ -215,6 +215,9 @@ Spannungsbrücke: Steinke/Marinić verhandeln, wo die Grenze der Meinungsfreihei
 ### → [[Denker/Jonathan Haidt — Kann ein gespaltenes Amerika heilen]]
 Haidt liefert die psychologisch-evolutionäre Erklärung für Ditterts „archaische Stammeslogik": Social-Media-Architektur kapert moralische Stammesinstinkte — und zerreibt gerade die Mäßigung (die konservative Mitte) zuerst.
 
+### → [[Panorama/NoAfD]]
+Dasselbe Drehbuch, anderer Schauplatz: Was Musk in Großbritannien vorführt (rechtsextreme Kräfte finanzieren, über X amplifizieren, Migration als Vehikel, EU als Feindbild), zieht er über seine Nähe zu Weidel auch in Deutschland durch. Großbritannien ist das Frühwarnsystem für das deutsche Schema — die AfD als lokaler Knoten eines transnationalen Netzes.
+
 ---
 
 ## Weiterdenken
