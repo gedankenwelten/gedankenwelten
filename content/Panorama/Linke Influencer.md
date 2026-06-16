@@ -142,6 +142,9 @@ Hier greift der **Yin-Yang-Grundsatz**: Keine dieser Strategien ist rein gut ode
 
 Damit links und rechts irgendwann nach *demselben* Maßstab nebeneinanderstehen, bekommt jeder Creator zwei **getrennte** Werte: das **Populismus-Level** (Stil/Rhetorik, fünf Dimensionen je 0–3 → 0–15) und die **Faktentreue** (Inhalt, via Faktencheck). Die Trennung ist der Kern — ein Populist kann sachlich korrekt sein, ein ruhiger Creator kann falsch liegen.
 
+> [!warning] Diese Werte sind Video-Snapshots, kein Creator-Urteil
+> Die folgenden Scores beziehen sich auf **genau diese vier Videos**, nicht auf die Personen insgesamt. Creator variieren stark je nach Anlass und Format — **DerDara etwa agiert hier ungewöhnlich moderat**, in vielen seiner Videos deutlich zugespitzter. Ein belastbarer *Creator-Score* braucht ein Sample (geplant: die Top 5 nach Aufrufen je Kanal). Bis dahin gilt: Momentaufnahme, kein Charakterbild. (Methodik: `.claude/rules/influencer-kompass.md`)
+
 | Creator | Anti-Elite | Empörung | Feindbild | Vereinf. | Manichä. | **Populismus** | **Faktentreue** |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Kreschel** | 1 | 0 | 1 | 1 | 1 | **4/15** niedrig | hoch |
@@ -149,7 +152,7 @@ Damit links und rechts irgendwann nach *demselben* Maßstab nebeneinanderstehen,
 | **DerDara/Pallenberg** | 2 | 1 | 1 | 1 | 1 | **6/15** niedrig | hoch |
 | **Vincent** | 1 | 3 | 2 | 2 | 2 | **10/15** hoch | hoch |
 
-Der Befund dieses Samples: Die **Faktentreue ist durchweg hoch** — was sich vom rechten Pendant unterscheiden dürfte —, während das **Populismus-Level breit streut**, von Kreschels journalistischer Ruhe bis zu Vincents Empörungs-Spektakel. Vincent ist dabei der Beleg, dass beide Achsen wirklich unabhängig sind: *hoher Stil, trotzdem nicht falsch.* (Methodik: `.claude/rules/influencer-kompass.md`)
+Der Befund dieser vier Videos (mit dem Vorbehalt oben): Die **Faktentreue ist durchweg hoch** — was sich vom rechten Pendant unterscheiden dürfte —, während das **Populismus-Level breit streut**, von Kreschels journalistischer Ruhe bis zu Vincents Empörungs-Spektakel. Vincent ist dabei der Beleg, dass beide Achsen wirklich unabhängig sind: *hoher Stil, trotzdem nicht falsch.*
 
 ---
 
