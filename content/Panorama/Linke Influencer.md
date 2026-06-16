@@ -82,10 +82,16 @@ Quelle: [Gespräch mit Sascha Pallenberg (DerDara, Livestream)](https://www.yout
 
 Wo die anderen draußen arbeiten, sitzt **DerDara** (181k Abonnenten, „der radikale Demokrat") im Studio und reflektiert die Mechanik selbst — im 3,5-Stunden-Gespräch mit dem Tech-Journalisten und Desinformations-Aufklärer **Sascha Pallenberg**. Das ist die Meta-Ebene des ganzen Panoramas: hier wird die Szene zur Strategie.
 
-Pallenberg benennt das Milieu explizit als bewusstes Projekt [▶ 19:00](https://www.youtube.com/watch?v=fPulKtjf7uo&t=1140): *„Was wir inzwischen haben, ist dich, mich, Koshi, wir haben Kalo, wir haben Staiy"* — eine demokratische Creator-Riege, die auf den Plattformen *mehr Reichweite* aufgebaut hat als die Parteien. Sein Befund: Die Rechte hat die Plattformlogik zuerst gemeistert, und die Linke holt auf. Als Vorbild dient ausgerechnet der „linke Trump" — Mexikos AMLO, der mit stundenlangen Pressekonferenzen Massen band [▶ 20:31](https://www.youtube.com/watch?v=fPulKtjf7uo&t=1231). Hier wird offen ausgesprochen, was die anderen drei praktizieren: Reichweite als demokratische Notwendigkeit — und damit auch die Versuchung, *den Gegner in der Methode zu kopieren*. → [[Der Dara — Merz 72-Stunden-Arbeitswoche]]
+Pallenberg benennt das Milieu explizit als bewusstes Projekt [▶ 19:00](https://www.youtube.com/watch?v=fPulKtjf7uo&t=1140): *„Was wir inzwischen haben, ist dich, mich, Koshi, wir haben Kalo, wir haben Staiy"* — eine demokratische Creator-Riege, die auf den Plattformen *mehr Reichweite* aufgebaut hat als die Parteien. Sein Befund: Die Rechte hat die Plattformlogik zuerst gemeistert (immer noch *„80% von Social Media"*), und die Linke holt auf. Als Vorbild dient ausgerechnet der „linke Trump" — Mexikos AMLO, der mit stundenlangen Pressekonferenzen Massen band [▶ 20:31](https://www.youtube.com/watch?v=fPulKtjf7uo&t=1231).
+
+Und hier gibt DerDara die **explizite Antwort auf die Gretchenfrage dieses Panoramas — ein klares Ja.** Man *müsse* die populistische Technik übernehmen, um überhaupt viele Menschen zu erreichen; das Werkzeug sei das **Gefühl**. Gefühle gehen tiefer, sind leichter verdaubar — exakt das, was auch Satire nutzt. Diesen Anspruch richtet er ausdrücklich auch an die Politiker: Wer nicht emotional erzählen kann, verliert. Seine Belege sind dabei bemerkenswert undogmatisch — *charismatische Persönlichkeiten quer durchs Spektrum*: **Zohran Mamdani**, der New York „in kürzester Zeit gerockt" hat [▶ 64:52](https://www.youtube.com/watch?v=fPulKtjf7uo&t=3892), und der liberal-konservative **Péter Magyar**, der in Ungarn den ungarischen Patriotismus und die Flagge *gegen* Orbán wendet und ihn nach 16 Jahren abwählbar machte [▶ 65:39](https://www.youtube.com/watch?v=fPulKtjf7uo&t=3939). Daras Pointe: *„wenn es den linken Magyar nicht gibt, dann ist Magyar derjenige, von dem wir lernen können"* — die Form ist parteilos, sie gehört dem, der sie ergreift.
+
+Und laut Dara *wirkt* es bereits: Die Linke gewinne wieder Stimmen, weil sie **zweigleisig** fahre — zurück an die Haustür, ins konkrete Gespräch mit Menschen, *und* zugleich stark auf Social Media präsent. Das eine ohne das andere reiche nicht: *„Ich kann nicht einfach hoffen, dass die Leute genug haben und mich wählen, weil ich der Ruhige bin — ich muss auch laut sein, immer wieder zeigen: ich mache was"* [▶ 51:50](https://www.youtube.com/watch?v=fPulKtjf7uo&t=3110). Mamdani ist der Musterfall: nach der Wahl fast täglich Content, der „extrem gut ankommt", getragen von einem Wahlkampf, der wieder physisch hinausgeht. → [[Der Dara — Merz 72-Stunden-Arbeitswoche]]
+
+Damit ist DerDara die Schlüsselstimme des Panoramas: Wo Marcant das Gefühl *meidet* und auf das Argument setzt, erklärt Dara das Gefühl zum **neutralen Träger**, den die Demokratie sich nicht länger verbieten dürfe. Die offene Flanke seiner These ist genau die, die das Panorama umtreibt: Lässt sich das emotionale Werkzeug von der emotionalen *Logik* trennen — oder trägt es seine eigene Botschaft mit, egal was man hineinlegt?
 
 > [!question] Weitergedacht
-> Wenn die Strategie lautet „werdet der linke Trump" — *übernimmt man dann nur das Werkzeug oder auch die Logik, die den Trump erst hervorgebracht hat?*
+> Wenn das Gefühl ein neutrales Werkzeug ist — *warum hat dann die Rechte es zuerst und so viel wirksamer ergriffen?* Liegt im Werkzeug vielleicht doch eine Schlagseite?
 
 > [!abstract] Influencer-Kompass — DerDara × Pallenberg
 > **Populismus-Level:** 6/15 (niedrig) · **Faktentreue:** hoch
@@ -94,7 +100,7 @@ Pallenberg benennt das Milieu explizit als bewusstes Projekt [▶ 19:00](https:/
 > |:-:|:-:|:-:|:-:|:-:|
 > | 2 | 1 | 1 | 1 | 1 |
 >
-> Ruhiges 3,5-Stunden-Langformat, analytisch und quellennah. Anti-Elite leicht erhöht: Plattform-/Reichen-Kritik *und* die offene Sympathie für den „linken Trump" (AMLO) — ein bewusstes Kokettieren mit populistischer Reichweite, das hier aber reflektiert, nicht praktiziert wird.
+> Ruhiges 3,5-Stunden-Langformat, analytisch und quellennah. Anti-Elite leicht erhöht: Plattform-/Reichen-Kritik *und* die offene Sympathie für den „linken Trump". Die Pointe: Er *propagiert* die populistische Technik (Gefühl als Werkzeug, Mamdani/Magyar als Vorbild), betreibt sie im eigenen Format aber nicht — **Predigt und Praxis fallen auseinander.** Genau deshalb bleibt sein eigener Score niedrig.
 
 ### Vincent — der Satiriker, der die Maske fallen lässt
 
