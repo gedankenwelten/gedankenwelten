@@ -50,6 +50,15 @@ Wie konkret das wirkt, zeigt der dokumentierte Fall des Jugendlichen „Felix": 
 > [!question] Weitergedacht
 > Wenn das Argument die stärkste Waffe ist — *warum erreicht die geduldige Diskussion so viel kleinere Zahlen als die Pointe?* Und macht das die Pointe legitim, oder nur erfolgreich?
 
+> [!abstract] Influencer-Kompass — Marcant
+> **Populismus-Level:** 5/15 (niedrig) · **Faktentreue:** hoch
+>
+> | Anti-Elite | Empörung | Feindbild | Vereinfachung | Manichäismus |
+> |:-:|:-:|:-:|:-:|:-:|
+> | 1 | 1 | 1 | 1 | 1 |
+>
+> Sucht die Brücke statt das Feindbild, hält Komplexität aus (11-Punkte-Plan einzeln), kein Dogma (elastische Brandmauer). Benennt Rechtsextremes klar, ohne zu dämonisieren. Argumentbasiert und belegt → Faktentreue hoch. *Unterer Eichpunkt der Skala.*
+
 ### Hannes Kreschel — der geduldige Reporter
 
 Quelle: [Gestörter AfD-Wähler greift mich auf Remigration-Demo an (Hannes Kreschel)](https://www.youtube.com/watch?v=oFl-t1dwpUE)
@@ -57,6 +66,15 @@ Quelle: [Gestörter AfD-Wähler greift mich auf Remigration-Demo an (Hannes Kres
 Kreschel (24k Abonnenten — der kleinste, aber publizistisch ambitionierteste) verbindet Reportage mit Argument. Er ist fast fertiger Jurist, nennt sich „freier Journalist" und hat mit *„WUTBÜRGER.EXE — Ein Report aus der Rage-Republik"* (Trabantenverlag) sogar ein Buch vorgelegt, zu dem er mit DGB und SPD Lesungen hält. Sein Ton ist betont sachlich, fast lehrerhaft geduldig.
 
 Exemplarisch sein Umgang mit der „Corona-Lüge" [▶ 2:16](https://www.youtube.com/watch?v=oFl-t1dwpUE&t=136): Ein Handwerker erzählt von 50.000 € Pandemie-Schulden, Kreschel nimmt den realen Schmerz ernst — *„das kann ich alles nachvollziehen"* — und setzt erst dann das Gegenargument, dass eine Regierung kaum freiwillig die eigene Wirtschaft lahmlegt. Er trennt das berechtigte Gefühl (Existenzangst) von der falschen Erklärung (Lüge). Das ist die journalistische Variante von Marcants Brücke: erst die Würde des Gegenübers, dann der Faktencheck.
+
+> [!abstract] Influencer-Kompass — Hannes Kreschel
+> **Populismus-Level:** 4/15 (niedrig) · **Faktentreue:** hoch
+>
+> | Anti-Elite | Empörung | Feindbild | Vereinfachung | Manichäismus |
+> |:-:|:-:|:-:|:-:|:-:|
+> | 1 | 0 | 1 | 1 | 1 |
+>
+> Der ruhigste Ton der vier — betont sachlich, fast lehrerhaft, kaum Empörungsregister. Nimmt das Gegenüber ernst, trennt Gefühl von Erklärung. Publizistischer Anspruch (Buch, Lesungen). *Niedrigster Wert im Sample.*
 
 ### DerDara × Sascha Pallenberg — die Strategen der Reichweite
 
@@ -69,6 +87,15 @@ Pallenberg benennt das Milieu explizit als bewusstes Projekt [▶ 19:00](https:/
 > [!question] Weitergedacht
 > Wenn die Strategie lautet „werdet der linke Trump" — *übernimmt man dann nur das Werkzeug oder auch die Logik, die den Trump erst hervorgebracht hat?*
 
+> [!abstract] Influencer-Kompass — DerDara × Pallenberg
+> **Populismus-Level:** 6/15 (niedrig) · **Faktentreue:** hoch
+>
+> | Anti-Elite | Empörung | Feindbild | Vereinfachung | Manichäismus |
+> |:-:|:-:|:-:|:-:|:-:|
+> | 2 | 1 | 1 | 1 | 1 |
+>
+> Ruhiges 3,5-Stunden-Langformat, analytisch und quellennah. Anti-Elite leicht erhöht: Plattform-/Reichen-Kritik *und* die offene Sympathie für den „linken Trump" (AMLO) — ein bewusstes Kokettieren mit populistischer Reichweite, das hier aber reflektiert, nicht praktiziert wird.
+
 ### Vincent — der Satiriker, der die Maske fallen lässt
 
 Quelle: [Wir haben uns mit einer Million AfD-Wählern angelegt (Vincent)](https://www.youtube.com/watch?v=BaABXALrtBI)
@@ -78,6 +105,15 @@ Vincent (193k Abonnenten) ist der Gegenpol zu Marcant: maximale Polemik, „Kuns
 Genau an dieser Stelle liegt der schärfste Kontrast zu Marcant. Denn auch Vincent hatte ein Gespräch mit **EinGollan** geführt — er schneidet es in *diesem* Video heraus und tut es als *„unglaublich tote Nummer"* ab (ein separates Video deutet er mit „Abo dalassen" immerhin an). Der Unterschied liegt weniger im Ob der Veröffentlichung als in der Rahmung: Marcant stellt die halbstündige Auseinandersetzung *in voller Länge* online, weil das Argument für ihn *der Punkt* ist; bei Vincent ist dieselbe Substanz das Langweilige, das dem Tempo weicht. Das ist die Logik des Formats — Spektakel rahmt das Gespräch nicht, es ersetzt es. Wer den Wert im Argument sucht, findet im gezeigten Video wenig: Die viralen Demo-Schnipsel tragen, aber sie überzeugen weniger als ein zu Ende geführtes Gespräch es könnte.
 
 Bemerkenswert bleibt sein Schluss [▶ 29:52](https://www.youtube.com/watch?v=BaABXALrtBI&t=1792): Nach 30 Minuten Spott kippt der Ton in sozialstrukturelle Empathie — die Demonstranten seien zusammengekommen, *„um das Gefühl von Teilhabe zu haben, gesehen zu werden"*, die Demo sei „die direkte Konsequenz aus der Leistungsgesellschaft". Er ist zugleich wütend („ihr seid wirklich alle so scheiße dumm") *und* traurig. Unter der Polemik liegt also durchaus eine ernste Analyse — aber sie kommt erst, nachdem die eigentliche Auseinandersetzung weggeschnitten wurde. Das ist die Crux des Satire-Pols: Die Pointe trägt weit, doch wo sie das Gespräch ersetzt statt rahmt, bleibt am Ende mehr Haltung als Erkenntnis.
+
+> [!abstract] Influencer-Kompass — Vincent
+> **Populismus-Level:** 10/15 (hoch) · **Faktentreue:** hoch
+>
+> | Anti-Elite | Empörung | Feindbild | Vereinfachung | Manichäismus |
+> |:-:|:-:|:-:|:-:|:-:|
+> | 1 | 3 | 2 | 2 | 2 |
+>
+> Empörung und Spott *sind* das Produkt; Feindbild- und Wir-gegen-die-Register deutlich, Substanz weicht dem Tempo (EinGollan weggeschnitten). Trotzdem **faktisch nicht falsch** — der Lehrfall für die Orthogonalität: *hoher Populismus-Stil ≠ Desinformation.*
 
 ---
 
@@ -95,6 +131,19 @@ Die vier geben verschiedene Antworten, die sich auf einer Achse anordnen lassen:
 | **Vincent** | Satire, Pointe | Empörung frisst die Analyse | virale Reichweite, später Tiefgang |
 
 Hier greift der **Yin-Yang-Grundsatz**: Keine dieser Strategien ist rein gut oder schlecht. Marcants Geduld überzeugt wenige, erreicht aber den ganzen Menschen; Vincents Pointe erreicht Millionen, droht aber, dieselbe Reizlogik zu füttern, die sie bekämpft. Die Szene ist am stärksten, wo sie dieses Spektrum *bewusst* bespielt — und am gefährdetsten, wo sie vergisst, dass das Werkzeug seine eigene Botschaft mitträgt (→ [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]], → [[Albert Moukheiber — Mein Hirn und die anderen]]).
+
+### Influencer-Kompass — die vier im Vergleich
+
+Damit links und rechts irgendwann nach *demselben* Maßstab nebeneinanderstehen, bekommt jeder Creator zwei **getrennte** Werte: das **Populismus-Level** (Stil/Rhetorik, fünf Dimensionen je 0–3 → 0–15) und die **Faktentreue** (Inhalt, via Faktencheck). Die Trennung ist der Kern — ein Populist kann sachlich korrekt sein, ein ruhiger Creator kann falsch liegen.
+
+| Creator | Anti-Elite | Empörung | Feindbild | Vereinf. | Manichä. | **Populismus** | **Faktentreue** |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Kreschel** | 1 | 0 | 1 | 1 | 1 | **4/15** niedrig | hoch |
+| **Marcant** | 1 | 1 | 1 | 1 | 1 | **5/15** niedrig | hoch |
+| **DerDara/Pallenberg** | 2 | 1 | 1 | 1 | 1 | **6/15** niedrig | hoch |
+| **Vincent** | 1 | 3 | 2 | 2 | 2 | **10/15** hoch | hoch |
+
+Der Befund dieses Samples: Die **Faktentreue ist durchweg hoch** — was sich vom rechten Pendant unterscheiden dürfte —, während das **Populismus-Level breit streut**, von Kreschels journalistischer Ruhe bis zu Vincents Empörungs-Spektakel. Vincent ist dabei der Beleg, dass beide Achsen wirklich unabhängig sind: *hoher Stil, trotzdem nicht falsch.* (Methodik: `.claude/rules/influencer-kompass.md`)
 
 ---
 
