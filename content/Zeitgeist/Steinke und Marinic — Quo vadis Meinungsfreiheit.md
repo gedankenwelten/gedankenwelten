@@ -219,6 +219,9 @@ Die Forderung: Mut zur Problemanalyse. Nicht Doom-Talk als Selbstzweck, aber auc
 
 ## Verbindungen
 
+### → [[Zeitgeist/Annette Dittert — Dear Britain]]
+Spannungsbrücke: Wo Steinke/Marinić die staatliche Einschränkung der Meinungsfreiheit verhandeln, zeigt Dittert die private Bedrohung — Plattformen, die durch Bullshit den Boden der Faktizität auflösen.
+
 ### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
 
 Dieselbe Grundfrage aus dem anderen politischen Lager: Wo verläuft die Grenze des Sagbaren, und wer darf sie ziehen? Steinke/Marinić verhandeln sie als „Cancel Culture"- und Diskursdebatte, die beiden pro-westlichen Wertewesten-Hosts als Streit um den Umgang mit Kreml-Propaganda im öffentlich-rechtlichen Raum. Zusammen zeigen sie: Die Struktur des Konflikts „darf man ausschließen?" ist quer durch alle Lager dieselbe.

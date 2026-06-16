@@ -152,6 +152,9 @@ Die Steuerdiskussion — wie zieht man Facebook Steuern aus der Tasche? — häl
 
 ## Verbindungen
 
+### → [[Zeitgeist/Annette Dittert — Dear Britain]]
+Ditterts Befund am britischen Fall — Spaltung ist nicht Inhalt, sondern Form des Mediums — illustriert Gabriels These, dass Plattformen strukturell Spaltung statt Verständigung produzieren.
+
 ### → [[Markus Gabriel — Was ist Realitaet]]
 
 Direkte Fortsetzung derselben Denkbewegung: Dort (phil.COLOGNE 2024) entwickelt Gabriel die Sinnfeldontologie als Grundlage seiner Realitätskonzeption, hier wendet er sie auf soziale Netzwerke an. Das „Vesuv-Beispiel" in der Realitäts-Note illustriert genau die Triangulation, die hier als fehlendes Element der digitalen Sozialität identifiziert wird.

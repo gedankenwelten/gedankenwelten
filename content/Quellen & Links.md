@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Annette Dittert — Dear Britain (Brexit, Musk, Frühwarnsystem)
+
+| | |
+|---|---|
+| **Podcast** | [Freiheit Deluxe mit Jagoda Marinić — „Dear Britain!"](https://www.ardaudiothek.de/sendung/freiheit-deluxe-mit-jagoda-marinic/) (hr/Radio Bremen/SWR/WDR, 11.06.2026) |
+| **Notiz** | [[Annette Dittert — Dear Britain]] |
+| **DenkerVita** | [[DenkerVita/Annette Dittert]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Dittert_Dear_Britain_Transkript.txt` |
+
 ## Marco Wähner & Ralf Stockmann — Fediverse / Dezentrale Netzwerke
 
 | | |

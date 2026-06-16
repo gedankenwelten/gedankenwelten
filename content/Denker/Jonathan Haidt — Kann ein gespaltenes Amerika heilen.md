@@ -280,6 +280,9 @@ Und: Mit **Wertschätzung** beginnen, nicht mit Argument. „Eine Sache schätze
 
 ## Verbindungen
 
+### → [[Zeitgeist/Annette Dittert — Dear Britain]]
+Haidt erklärt psychologisch Ditterts „archaische Stammeslogik": Social-Media-Architektur kapert moralische Stammesinstinkte — und zerreibt die konservative Mitte zuerst.
+
 ### → [[Renee DiResta — Invisible Rulers]]
 
 DiResta zeigt, wie Propagandisten exakt die Mechanismen ausnutzen, die Haidt beschreibt: Stammesidentität als Hebel, Abscheu als Verstärker, Gruppenlogik als epistemische Barriere. Haidts psychologisches Fundament + DiRestas Systembeschreibung = vollständiges Bild, warum dezentralisierte Desinformation so schwer zu bekämpfen ist.

@@ -197,6 +197,9 @@ Das ist die vielleicht unterschätzteste Konsequenz des Monopolproblems: Eine ze
 
 ## Verbindungen
 
+### → [[Zeitgeist/Annette Dittert — Dear Britain]]
+Dittert zeigt politisch, was Andree ökonomisch benennt: Warum die EU-Regulierung gerade deshalb zum Feindbild der Tech-Milliardäre wird — sie ist das einzige Gegengift gegen die Plattform-Monopole.
+
 ### → [[Francesca Bria — The Authoritarian Stack]]
 
 Bria und Andree beschreiben dasselbe Phänomen auf verschiedenen Ebenen: Andree liefert die demokratietheoretische und medienwissenschaftliche Diagnose (Plattformen als „Intermediäre" auf öffentlichen Gütern), Bria kartografiert die institutionelle Architektur dieser Machtübernahme mit Akteuren und verifizierten Geldflüssen. Beide landen bei privatisierter Souveränität — Brias „Authoritarian Stack" benennt präzise, was Andrees „gestapelte Monopolschichten" technisch meinen. Andree erklärt das Warum (Rechtsprivilegien, Haftungsfreistellung), Bria das Wer und Wie viel.

@@ -217,6 +217,9 @@ Aber: Navidi traut den Midterms nicht. Die Republikaner drehen an allen Stellsch
 
 ## Verbindungen
 
+### → [[Zeitgeist/Annette Dittert — Dear Britain]]
+Großbritannien als „Frühwarnsystem" (Dittert) und die USA als bereits eingetretener Ernstfall (Navidi) bilden eine Eskalationsachse derselben Verschmelzung von Oligarchie und Staatsmacht.
+
 ### → [[Adam Tooze — Pentagon vs. Anthropic]]
 
 Tooze zeigt, wie Tech-Konzerne und das US-Militär institutionell fusionieren; Navidi liefert die finanzielle Seite derselben Konvergenz — DOGE als Deregulierungswaffe, Musk-Aufträge, Golden Dome. Zwei Perspektiven auf dieselbe Machtverschiebung.

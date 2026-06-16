@@ -596,3 +596,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Ralf Stockmann
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ralf Stockmann]]
+
+## Annette Dittert
+**Status:** ✓ Vollanalyse → [[DenkerVita/Annette Dittert]]
