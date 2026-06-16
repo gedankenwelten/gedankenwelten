@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*232 Notes — automatisch generiert · nach Thema sortiert*
+*233 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -58,6 +58,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD|Andreas Kemper — Technofaschismus und die AfD]]
 - [[Zeitgeist/Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)|Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]]
 - [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+- [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem]] — Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
 - [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Annika Brockschmidt & Katharina Nocun — Codes der extremen US-Rechten]]
 - [[Zeitgeist/Arlie Hochschild — Stolen Pride|Arlie Hochschild — Stolen Pride: Scham, Verlust und der Aufstieg der Rechten]] — Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt.
 - [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte|Arnd Henze — Bonhoeffer und die Neue Rechte]]

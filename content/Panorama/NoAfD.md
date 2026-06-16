@@ -1,6 +1,6 @@
 ---
 title: "NoAfD"
-aktualisiert: 2026-06-10
+aktualisiert: 2026-06-16
 tags:
   - panorama
   - afd
@@ -86,6 +86,8 @@ Im November 2023 trafen sich AfD-Funktionäre, Identitäre und finanzstarke Unte
 - **US State Department** finanziert rechte NGOs in London, Paris, Berlin, Brüssel
 
 [[Francesca Bria — The Authoritarian Stack]] liefert die Metaanalyse: Eine interaktive Forschungsdatenbank kartiert 250+ Akteure, \$45 Mrd. Geldflüsse, verifizierte Verbindungen. Das Palantir-Pentagon-Contract (\$10 Mrd., Juli 2025) steht für die strategische Übergabe militärischer Funktionen an private Technologieunternehmen. Das ist kein Lobbyismus — es ist privatisierte Souveränität.
+
+**Dasselbe Drehbuch, mehrere Länder — Elon Musk als transnationaler Akteur.** Dass Musk der AfD offen nahesteht, ist kein deutscher Sonderfall, sondern ein Muster: Er führte ein vielbeachtetes Live-Gespräch mit Alice Weidel auf X und erklärte, „nur die AfD kann Deutschland retten". [[Annette Dittert — Dear Britain]] zeigt, dass er in Großbritannien exakt dieselbe Methode fährt — nur weiter fortgeschritten: rechtsextreme Kräfte mit Geld ausstatten (teils sogar rechts von Farage), Empörung über X amplifizieren (laut Schilderung „kalte, pure Wut" nach dem Fall Henry Nowak), Migration als Vehikel zur Spaltung instrumentalisieren *bei historischem Migrations-Tief* — und am Ende geht es immer um dasselbe Ziel: die EU-Regulierung zu zerstören, die als Einzige die Macht der Tech-Oligarchie kontrollieren kann. Großbritannien ist damit das **Frühwarnsystem** für das, was Musk & die MAGA-Bewegung über die AfD auch in Deutschland anstreben — was die AfD lokal verkörpert, ist der deutsche Knoten eines internationalen Netzes. Wer das deutsche Schema verstehen will, kann an der britischen Langzeitbelichtung studieren, wohin es führt.
 
 → [Lösungsansatz ↓](#internationale-gegenöffentlichkeit)
 
@@ -258,6 +260,7 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[ARTE — Forschung Fake und faule Tricks]] | Ursache · Agnotologie |
 | [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] | Konsequenzen · Machtbilanz der AfD-Vorbilder |
 | [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] | Instrument · GFF-Gutachten zur Verfassungswidrigkeit — juristische Operationalisierung des Verbotsdiskurses |
+| [[Annette Dittert — Dear Britain]] | Netzwerk · Musks transnationales Schema — UK als Frühwarnsystem |
 | [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] | Empirie · KI-gestützte Quantifizierung von Populismus und Lügen in 45.000 Bundestags-Reden |
 | [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] | Praxis · Resilienz, MDR-Szenario, Verbotsverfahren, Demokratieprojekte |
 | [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi]] | Ursache · Scharnier-Mechanismus, Abwertung nach unten, internalisierte Herrschaft |
