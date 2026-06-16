@@ -23,6 +23,16 @@ aktualisiert: 16.06.2026
 
 # Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem
 
+![[assets/Annette-Dittert-Dear-Britain-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Cy Twombly** — gestische Kreide- und Bleistiftspur auf verwaschenem Papiergrund, verwitterter Union Jack in entsättigtem Rost, Schiefergrau und Kreideweiß, das nach rechts in Scherben ausfranst, mit handschriftlich gekritzeltem „DEAR BRITAIN". Twomblys Hand, weil die Note buchstäblich ein Brief ist — und seine verschmierte Schrift-über-verwaschenem-Grund das Elegische *und* Frankfurts „Verwischen von Fakten" zugleich malt: ein Land, das sich selbst auftrennt.
+
+*Prompt:* A wide 1200x500 banner in the style of Cy Twombly — gestural, elegiac, waxy crayon and thin scratchy washes on a pale, rain-washed paper ground. The whole field is a large Union Jack, hand-painted rather than printed: red desaturated to rust, blue to slate-grey, white chalky and stained, the crisp geometry slowly breaking down, the diagonal crosses unravelling into loose drifting threads and torn fragments toward the right edge like a country tearing itself apart. Across the centre, the words "DEAR BRITAIN" scrawled in looping smudged graphite handwriting like a half-erased letter. Pencil scratch-marks, smears and thin paint drips throughout. Melancholic, faded, intimate, weathered-paper texture, muted overcast palette of rust red, slate blue, chalk white and grey. No photorealism, no realistic faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > Annette Dittert hat den Brexit nicht als Schlagzeile, sondern als jahrzehntelange gesellschaftliche Selbstverletzung aus nächster Nähe begleitet. In diesem Gespräch mit Jagoda Marinić liest sie Großbritannien als das Land, das alles, was Europa jetzt erlebt, schon ein paar Jahre früher durchgemacht hat — den ersten großen Ausbruch des Rechtspopulismus, das Verwischen von Fakten, die Selbstzerstörung der konservativen Mitte. Der eigentliche Schaden ist für sie nicht ökonomisch, sondern kulturell: die Zerstörung einer politischen Kultur, in der man sich noch auf gemeinsame Fakten einigen konnte. Und sie benennt, wer davon profitiert — und warum man immer gucken muss, wo das Geld ist.
 
