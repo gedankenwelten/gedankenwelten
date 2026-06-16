@@ -11,7 +11,7 @@ status: offen
 konfidenz: 65%
 review-takt: 14-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-06-15
+aktualisiert: 2026-06-16
 description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann."
 ---
 
@@ -73,6 +73,54 @@ auch banal erklärbar sein könnte (siehe Gegenbeobachtung).
 - Nach ~6 Monaten keine neuen Daten, Modelle still wieder online, kein Erkenntnisgewinn.
 
 ## Verlauf
+
+### 2026-06-16 — China-Distillation vs. Anthropics Dementi — und die Amodei-Verweigerung (Konfidenz 65 % → 65 %)
+
+**Befund:** Drei neue Datenpunkte via winfuture.de (16.06.2026, Quellenbasis: Semafor + David Sacks-Statements):
+(1) **China-Distillation-Verdacht** — US-Behörden befürchteten laut Semafor, eine mit China verbundene Gruppe habe Zugriff auf die Technologie erlangt und könnte sie via *Distillation* kopieren (kleineres Modell auf den Outputs trainieren, um das Verhalten nachzubilden). Framing: systematischer Technologiediebstahl als Gefahr für den strategischen Vorteil des Westens.
+(2) **Anthropics Widerspruch** — Anthropic weist den China-Infiltrations-Vorwurf zurück. Entscheidend: Das Unternehmen erklärt, die Regierung habe China *in den direkten Gesprächen über die Kontrollen gar nicht angesprochen*. Anthropic blockt ohnehin standardmäßig alle Zugriffe aus China. David Sacks — der laut Semafor die Maßnahme öffentlich begründete — erwähnte China in seinen Statements ebenfalls **nicht**.
+(3) **Amodei-Verweigerung** — David Sacks bestätigt: Nachdem Amazon die Jailbreak-Schwachstelle entdeckt hatte, *weigerte sich* Anthropic-Chef Dario Amodei, sie sofort zu beheben oder das Modell offline zu nehmen — *dann* griffen die Behörden ein. Zusatz: Bereits im April hatten Unbefugte via Chat-Gruppe zeitweise Zugriff auf das System. Regierung signalisiert Bereitschaft, Beschränkungen nach Behebung der Schwachstelle zügig aufzuheben.
+
+**Deutung:** Die Datenpunkte heben und senken die These gleichzeitig, weshalb die Konfidenz stabil bleibt. Das **China-Destillations-Framing** ist interessant, *weil* es von der offiziellen Begründung (Jailbreak) abweicht und in keiner primären Erklärung auftaucht — nur in Regierungs-nahen Kreisen gegenüber Semafor, während Sacks es weglässt. Das ist ein Muster: Je mehr Begründungen auftauchen, desto stärker wirkt das Prinzip „national security" als Container, der nachträglich mit Inhalt gefüllt wird. Die **Amodei-Verweigerung** dagegen stützt die Regierungs-Lesart direkt: Wenn Anthropic eine Sicherheitslücke kannte und Patching ablehnte, ist die staatliche Intervention nicht nur Machtdemonstration — sie reagiert auf konkretes Nichthandeln. Das wäre das stärkste Argument *für* die Verhältnismäßigkeit, das diese Spur bisher gesehen hat.
+
+**Gegenbeobachtung:** Vier Gegengewichte. (a) Die Amodei-Verweigerung kommt *ausschließlich* von David Sacks — einem Regierungsberater mit direktem Interesse daran, Anthropic als unkooperativ darzustellen. Anthropic hat diesen Ablauf nicht bestätigt; ihre Version war stets „nie mit Details konfrontiert worden". (b) Die China-Quellen (Semafor-„Kreise") sind anonym und von Anthropic explizit widersprochen — der stärkste Sicherheitsgrund bleibt unbestätigt. (c) Dass Sacks China **nicht** erwähnt, ist selbst auffällig: wenn China der Kern wäre, würde er es nennen — das stärkste geopolitische Argument liegt ihm auf dem Tisch. Dass er es lässt, deutet darauf hin, dass entweder die Evidenz dünn ist, oder der offizielle Kanal bewusst getrennt hält. (d) Der April-Vorfall ist neu, aber ohne Details — unklar, wie ernst er war und ob er klassifiziert ist.
+
+> [!question] Weitergedacht
+> Wenn Amodei *wirklich* geweigert hat: Ist das Dummheit, Prinzip oder Kalkül? — und macht es einen Unterschied für die Verhältnismäßigkeit der *globalen* Abschaltung?
+
+### 2026-06-16 — WSJ-Primärbeleg: Amazon aktiviert den Staat (Konfidenz 65 % → 65 %)
+
+**Befund:** Der ursprüngliche Scoop ist das **Wall Street Journal** (Amrith Ramkumar & Robert McMillan,
+13.06.2026) — die WirtschaftsWoche-Meldung vom 14.06. war nur dessen deutsche Nacherzählung. Wörtlich:
+Die Abschaltung wurde „prompted by conversations between Amazon CEO Andy Jassy and U.S. officials
+including Treasury Secretary Scott Bessent"; **Amazon-Forscher** hatten Fable 5 per Promptketten dazu
+gebracht, eigentlich gesperrte, cyberangriffsrelevante Informationen auszugeben, was Jassy den Behörden
+mitteilte. Der WSJ rahmt das als Routine: „Tech industry executives have been in regular touch with the
+administration." Aggregatoren (TechCrunch, GeekWire, CNBC/Seeking Alpha, 13.06.) ergänzen drei Details:
+(1) Handelsminister **Howard Lutnick** schickte die Direktive am 12.06. an Amodei. (2) **David Sacks**
+(Ex-AI-Czar, jetzt PCAST-Co-Chair): ein „highly credible trusted partner" habe den Jailbreak entdeckt;
+die Administration habe Amodei gebeten, ihn zu fixen *oder das Modell zu ziehen* — „**Dario refused**".
+(3) Amazons Anthropic-Investment beträgt **~13 Mrd. $** — nicht „~4 Mrd. $", wie im Eintrag vom 14.06.
+notiert (Korrektur).
+
+**Deutung:** Zwei Bewegungen. Erstens **Korroboration ohne neues Argument**: Die Jassy-Bessent-Kette war
+am 14.06. noch Einzelquelle (WiWo), ist jetzt WSJ-primärbelegt und breit aufgegriffen — das verfestigt
+den *Befund*, liefert aber kein neues technisches Argument zur eigentlichen Streitfrage
+(Verhältnismäßigkeit). Zweitens **Schärfung des Prüfsteins**: Sacks' „Dario refused" verschiebt die
+Falsifikationsfrage von „Vorwand vs. echtes Risiko" zu „Eskalation nach verweigertem Fix" — die
+prüfbare Lesart, die der Gleichmut-Spiegel selbst eingefordert hatte. Der Treiber rückt damit weg vom
+*autonomen* Staatsübergriff hin zu einer **Konzern-Staat-Verschränkung**: Amazon — gleichzeitig größter
+Anthropic-Investor (~13 Mrd.) und über AWS/eigene Modelle Wettbewerber — aktiviert den Staat gegen das
+eigene Beteiligungsunternehmen. Konfidenz bewusst bei 65 % belassen.
+
+**Gegenbeobachtung:** Drei Dinge ziehen gegen die naheliegende Eigeninteresse-Lesart. (a) Der WSJ-Satz
+über „regular touch" dämpft das Verschwörungs-Framing: Jassy meldete womöglich schlicht einen *real
+gefundenen* Missbrauch über einen etablierten Kanal — kein Komplott, sondern Routine. (b) „Dario
+refused" ist die Sacks-/Regierungsversion; Anthropic-nahe Quellen widersprechen (nie mit Details
+konfrontiert). Beide Seiten haben Eigeninteresse — die Wahrheit über die angebliche Verweigerung ist von
+außen weiter ungeprüft. (c) Stärkstes Gegenargument: Wer **13 Mrd. $** investiert hat, sabotiert das
+eigene Asset nicht leichtfertig — dass Amazon trotzdem Alarm schlug, spricht eher für einen *real
+wahrgenommenen* Sicherheitsbefund als für reine Wettbewerbstaktik.
 
 ### 2026-06-15 — Globale Schockwelle, Regierungs-Gegenerzählung, Deal-Signal, China-Link (Konfidenz 60 % → 65 %)
 
@@ -194,6 +242,11 @@ dasselbe wie „Vorwand".
 > - **Wachpunkt:** Die größte Gefahr ist, einen *echten* Sicherheitsgrund wegzuerklären, nur weil er von
 >   dieser Regierung kommt. Wenn die nächste Studie/Leak das Cyber-Risiko stützt — *anschauen, nicht wegerklären.*
 
+> [!question] Sweep 16.06. — Entwurf, von dir zu prüfen
+> - **Verlangen:** Die Amodei-Verweigerung ist die stärkste Pro-Regierung-Aussage bisher — und ich habe sie unter Gegenbeobachtung gebracht. Stimmt das, oder räume ich ein unbequemes Datum zu schnell ab? Die Frage ist nicht ob Sacks lügt, sondern: *wenn er die Wahrheit sagt* — was folgt?
+> - **Abneigung:** Das China-Framing löst reflexhaften Widerstand aus, weil es in diesem politischen Klima inflationär ist. Aber „China"-Begründungen können stimmen. Dass ich es schnell unter „Container-Framing" kategorisiert habe, sollte mich misstrauisch machen — gegen mich selbst.
+> - **Konfidenz stabil halten oder senken?** Die Amodei-Verweigerung ist das erste Detail, das die Verhältnismäßigkeits-These *substanziell* angreift. 65 % halten fühlt sich richtig an — die Daten heben sich auf. Aber ich bin mir nicht sicher, ob das Gleichgewicht oder Bequemlichkeit ist. → *deine Entscheidung.*
+
 > [!question] Sweep 15.06. — Entwurf, von dir zu prüfen
 > - **Verlangen:** Der Indien-Schock hat mich gefreut — er passt zu meiner These und ich habe ihn als
 >   stärksten Ring präsentiert. Aber „passt zu meiner These" ist ein Grund zur *Vorsicht*, nicht zur
@@ -205,6 +258,17 @@ dasselbe wie „Vorwand".
 >   (Indien: heimische Förderung; Tech-Community: gegen Overreach). Ist +5 % gerechtfertigt, oder habe
 >   ich Resonanz mit Evidenz verwechselt? → *deine Entscheidung.*
 
+> [!question] Sweep 16.06. — Entwurf, von dir zu prüfen
+> - **Verlangen:** Die WSJ-Korroboration hat mich befriedigt — „endlich primärbelegt". Aber das
+>   bestätigt nur, *dass* Amazon meldete, nicht *dass die Maßnahme unverhältnismäßig war*. Habe ich
+>   Bestätigung des Nebenbefunds mit Bestätigung der These verwechselt? (Konfidenz bewusst bei 65 %
+>   gelassen — genau gegen diesen Reflex.)
+> - **Abneigung:** „Dario refused" habe ich erst als Sacks-PR gelesen. Es *könnte* schlicht stimmen —
+>   dann verschiebt sich die ganze Geschichte zu Anthropics eigener Eskalation. *Anschauen, nicht wegerklären.*
+> - **Maßgemacht?** Die Investment-Korrektur (4→13 Mrd.) macht die Konzern-Staat-Verschränkung dramatischer
+>   — und das gefällt mir narrativ. Aber die größere Zahl ist auch das stärkste *Gegen*argument (wer 13 Mrd.
+>   riskiert, lügt nicht leichtfertig). Habe ich beide Seiten der Zahl gleich ernst genommen? → *deine Entscheidung.*
+
 ## Stimmenspektrum
 
 *Presseschau — 14.06. erweitert am 15.06.2026. Ringe: betroffenes Land (USA) · Region (Europa) · Globaler Süden/Blockfreie (Indien) · Fachöffentlichkeit.*
@@ -214,6 +278,7 @@ dasselbe wie „Vorwand".
 | **Betroffenes Land — staatsnah** | US Commerce Dept., Executive Action (keine Presseconf.) | offizielle Erzählung, classified, nicht prüfbar |
 | | *Senior official* via Fox Business, 13.06.2026 | regierungsnah, „recklessness"-Rahmung gegen Anthropic |
 | **Betroffenes Land — unabhängig** | Bloomberg, TIME, CNBC, Fortune (s. Quellen) | US-Wirtschaftsmedien, eher Anthropic-freundlich |
+| | WSJ, Ramkumar/McMillan, 13.06.2026 (Primärquelle Jassy-Bessent) | US-Wirtschaftsleitmedium, faktenorientiert, deckt Konzern-Staat-Kanal auf |
 | **Region (Europa)** | Handelsblatt, Stephan Scheuer, 13.06.2026 | europäisch-politisch, strategische Alarmstimmung |
 | | WirtschaftsWoche, Matthias Hohensee, 14.06.2026 | dt. Wirtschaftsmedium, pro-europäische Souveränität |
 | | EU-Kommission prüft Konsequenzen (Let's Data Science) | institutionell, regulatorisch |
@@ -319,6 +384,10 @@ sind weder Gegner noch Partner — beides zugleich, je nach Behörde und Tag.
 - [Handelsblatt — Anthropics Mythos-Sperre ist Europas digitale Demütigung (Stephan Scheuer, 13.06.2026)](https://www.handelsblatt.com/meinung/kommentare/kommentar-anthropics-mythos-sperre-ist-europas-digitale-demuetigung/100232717.html)
 - [WirtschaftsWoche — Warum Europa jetzt eigene KI-Modelle braucht (Matthias Hohensee, 14.06.2026)](https://www.wiwo.de/technologie/digitale-welt/claude-fable-5-blockade-digitale-souveraenitaet/100232829.html)
 - [Fox Business — Trump admin says Anthropic's 'recklessness' triggered export controls (13.06.2026)](https://www.foxbusiness.com/politics/trump-admin-says-anthropics-recklessness-triggered-export-controls-latest-ai-models)
+- [WSJ — Amazon CEO's Talks With U.S. Officials Triggered Crackdown on Anthropic Models (Ramkumar/McMillan, 13.06.2026, Primärquelle, Paywall)](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
+- [TechCrunch — Amazon CEO reportedly raised Anthropic model concerns before government crackdown (13.06.2026)](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)
+- [GeekWire — Amazon CEO reportedly raised Anthropic Fable concerns prior to U.S. order (13.06.2026)](https://www.geekwire.com/2026/amazon-ceo-reportedly-raised-anthropic-fable-concerns-prior-to-u-s-order-forcing-models-offline/)
+- [The Next Web — Amazon's CEO reportedly triggered the government crackdown that shut down Anthropic's most powerful AI](https://thenextweb.com/news/amazon-jassy-triggered-anthropic-fable-mythos-crackdown)
 - [The Next Web — India's sovereign AI movement after the Anthropic suspension (15.06.2026)](https://thenextweb.com/news/india-sovereign-ai-anthropic-fable-suspension-debate)
 - [Business Standard — Fable 5 shutdown exposes geopolitics of AI access (15.06.2026)](https://www.business-standard.com/technology/tech-news/fable-5-shutdown-exposes-geopolitics-of-ai-access-risks-of-dependence-126061500696_1.html)
 - [Al Jazeera — US orders Anthropic to disable AI models for all foreign nationals (13.06.2026)](https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals)
@@ -327,6 +396,7 @@ sind weder Gegner noch Partner — beides zugleich, je nach Behörde und Tag.
 - [Eigenwise — The jailbreak that got Fable 5 pulled exists in every model](https://eigenwise.io/writing/the-jailbreak-in-every-model)
 - [Simon Willison — Notes on the US government directive (13.06.2026)](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/)
 - [Volkov Law — When the Government Pulls the Plug: Anthropic, Export Controls (Lead, unbestätigt)](https://blog.volkovlaw.com/2026/06/when-the-government-pulls-the-plug-anthropic-export-controls-and-the-future-of-ai-governance/)
+- [winfuture.de — KI-Modell Fable 5: China-Spionage war wohl der Grund für die Sperre (16.06.2026)](https://winfuture.de/news,159340.html)
 
 ## Weiterdenken
 

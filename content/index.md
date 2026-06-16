@@ -22,6 +22,10 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### GoodNews
+
+> **16.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+
 ### Gedanken
 
 > **15.06.** — [[Gedanken/Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt|Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt]]
@@ -35,10 +39,6 @@ Die Gedankenwelten (luc)
 > **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
 >
 > Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
-
-### GoodNews
-
-> **15.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Zeitgeist
 
@@ -61,8 +61,6 @@ Die Gedankenwelten (luc)
 > **09.06.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
 >
 > Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
-
-> → *2 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
