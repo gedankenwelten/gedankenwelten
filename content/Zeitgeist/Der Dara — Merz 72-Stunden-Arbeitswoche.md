@@ -168,3 +168,7 @@ Der 8-Stunden-Tag als Anker: was erkämpft wurde, ist nicht vom Himmel gefallen 
 
 Beide Notes beschreiben denselben Aufgabe-Mechanismus aus verschiedenen Winkeln: GCA #35 zeigt, wie Sozialdemokratien durch Sozialstaatskürzungen ihre eigene Klientel verlieren; Der Dara zeigt, wie konservative Regierungen aktiv Arbeitnehmerrechte demontieren. Zusammen: die politische Mitte gibt die Arbeiterklasse von links und rechts gleichzeitig auf.
 
+### → [[Linke Influencer]]
+
+Das Panorama der demokratischen Creator-Szene — DerDaras 3,5-Stunden-Gespräch mit Sascha Pallenberg liefert dort die strategische Meta-Ebene: warum die Linke die Plattformlogik der Rechten zurückerobern will, und welche Versuchung („werde der linke Trump") darin steckt.
+
