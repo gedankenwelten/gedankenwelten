@@ -202,6 +202,9 @@ Musk ließ Wikipedia von Grok umschreiben zu *„Grokipedia"* — mit verfälsch
 
 ## Verbindungen
 
+### → [[Zeitgeist/Annette Dittert — Dear Britain]]
+Ditterts „zwei Stammeslogiken: archaisch + Tech" decken sich mit Kempers Diagnose eines Bündnisses aus völkischem Affekt und kühler Plattformmacht (Technofaschismus).
+
 **Weitere Kemper-Analyse (Interview):** [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] — tiefere Analyse von Sarazin, Fordismus/Postfordismus und Team Freiheit. Die beiden Notes ergänzen sich: diese hier liefert die Theoriebasis (Griffin, Theweleit, Machiavelli) und alle drei Faschismus-Typen; die Interviewversion ist dichter in der Gegenwartspolitik.
 
 **Faschismus-Definition bei Redecker:** [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Redecker definiert Faschismus als *„verschobenen Eigentumsrausch / Phantombesitzverteidigung"*. Griffins palingenetischer Ultranationalismus und Redeckers Phantombesitz-Konzept sind unterschiedliche Zugänge zum selben Phänomen — bei Redecker liegt der Akzent auf dem Verlustgefühl als psychologischem Treiber.

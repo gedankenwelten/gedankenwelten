@@ -22,25 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### GoodNews
-
-> **16.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
-
-### Gedanken
-
-> **15.06.** — [[Gedanken/Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt|Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt]]
->
-> Ein Dialog über die Grenze einer Maschine, die alle Oberflächen kennt und kein Inneres hat — Konsequenz als das, was Wort zu Erfahrung macht, und das Tao, das sich nicht sagen lässt.
-
-> **15.06.** — [[Gedanken/Demokratische Sprachmodelle - Wem gehoert der Spiegel|Demokratische Sprachmodelle — Wem gehört der Spiegel?]]
->
-> Wer den Spiegel der Menschheit kuratiert, herrscht — unsichtbar. Über Sprachmodelle als Machtfrage und einen demokratischen Gegenentwurf zwischen Brahmane und Buddha.
-
-> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
->
-> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
-
 ### Zeitgeist
+
+> **16.06.** — [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem]]
+>
+> Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
 
 > **12.06.** — [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
 >
@@ -58,9 +44,25 @@ Die Gedankenwelten (luc)
 >
 > Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt.
 
-> **09.06.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
+> → *1 weitere in* [[Zeitgeist]]
+
+### GoodNews
+
+> **16.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+
+### Gedanken
+
+> **15.06.** — [[Gedanken/Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt|Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt]]
 >
-> Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
+> Ein Dialog über die Grenze einer Maschine, die alle Oberflächen kennt und kein Inneres hat — Konsequenz als das, was Wort zu Erfahrung macht, und das Tao, das sich nicht sagen lässt.
+
+> **15.06.** — [[Gedanken/Demokratische Sprachmodelle - Wem gehoert der Spiegel|Demokratische Sprachmodelle — Wem gehört der Spiegel?]]
+>
+> Wer den Spiegel der Menschheit kuratiert, herrscht — unsichtbar. Über Sprachmodelle als Machtfrage und einen demokratischen Gegenentwurf zwischen Brahmane und Buddha.
+
+> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
+>
+> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
 
 ### Geistesblitz
 

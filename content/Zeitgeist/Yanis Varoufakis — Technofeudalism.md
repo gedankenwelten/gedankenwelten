@@ -163,6 +163,9 @@ Gleichzeitig verschlechtert die Qualität der Arbeit: Uber, Deliveroo, Amazon-La
 
 ## Verbindungen
 
+### → [[Zeitgeist/Annette Dittert — Dear Britain]]
+Dittert beschreibt das politische Verhalten der „zweiten Stammeslogik der Tech-Milliardäre"; Varoufakis liefert das ökonomische Klassenmodell dahinter — beide treffen sich bei Buffetts „Klassenkrieg".
+
 ### → [[Francesca Bria — The Authoritarian Stack]]
 
 Bria kartiert die politische Machtarchitektur von Big Tech — privatisierte Souveränität, Palantir-Verträge, DOGE. Varoufakis liefert die ökonomische Erklärung *warum* diese Machtkonzentration entstand: Cloud Capital als Produkt von QE, Tribut statt Profit. Bria sieht den Authoritarian Stack als politische Konstruktion; Varoufakis sieht ihn als systemischen Effekt des post-2008-Kapitalismus. Zusammen: die vollständige Diagnose — ökonomische Ursache (Varoufakis) und politische Konsequenz (Bria).
