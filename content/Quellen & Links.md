@@ -6,18 +6,14 @@ tags:
   - links
 ---
 
-## Linke Influencer (Panorama)
+## Konstantin Flemig — Reaktion auf Precht (Russland, Grenzen der Expertise)
 
 | | |
 |---|---|
-| **Video — DerDara × Sascha Pallenberg** | [Gespräch mit Sascha Pallenberg](https://www.youtube.com/watch?v=fPulKtjf7uo) (Livestream, 14.06.2026) |
-| **Video — marcant** | [Ich habe SIE konfrontiert](https://www.youtube.com/watch?v=LFP9ChPAVDo) (14.06.2026) · EinGollan-Gespräch in voller Länge auf @MarcantVoll |
-| **Video — Hannes Kreschel** | [Gestörter AfD-Wähler greift mich auf Remigration-Demo an](https://www.youtube.com/watch?v=oFl-t1dwpUE) (14.06.2026) |
-| **Video — Vincent** | [Wir haben uns mit einer Million AfD-Wählern angelegt](https://www.youtube.com/watch?v=BaABXALrtBI) (16.06.2026) |
-| **Buch** | Hannes Kreschel: *WUTBÜRGER.EXE — Ein Report aus der Rage-Republik* ([Trabantenverlag](https://www.trabantenverlag.de/produktseite/hannes-kreschel-wutbuerger-exe)) |
-| **Hintergrund** | [Marcant & Theodor-Heuss-Medaille 2026 (diesachsen.de)](https://www.diesachsen.de/gesellschaft/marcant-der-youtuber-der-rechtsextremismus-den-dialog-entgegensetzt-3128239) · [Demo „Projekt 1 Million" (Pfalz-Express)](https://www.pfalz-express.de/merz-muss-weg-tausende-demonstrieren-in-berlin-gegen-die-bundesregierung/) |
-| **Notiz** | [[Panorama/Linke Influencer]] |
-| **Transkripte** | `Gedankenwelten/Transkripte/LinkeInfluencer/` |
+| **Video** | [Hat er das WIRKLICH gesagt? Kriegsreporter reagiert auf Richard David Precht](https://www.youtube.com/watch?v=ecG_GxYxPq4) |
+| **Primärquelle** | Richard David Precht im Spiegel-Interview (kommentierte Aussagen zur russischen Bedrohung) |
+| **Notiz** | [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Flemig_Precht_Reaktion_Transkript.txt` |
 
 ## Annette Dittert — Dear Britain (Brexit, Musk, Frühwarnsystem)
 

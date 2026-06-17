@@ -169,3 +169,7 @@ Die Kehrseite von Heinrichs Analyse: Wenn Europa militärisch nicht mehr liefern
 ### → [[Helen Keller — Voelkerrecht zahnloser Tiger]]
 
 Heinrichs Analyse operiert im Raum zwischen Völkerrecht und Realpolitik. Das Einsatzverbot für ATACMS/Storm Shadow gegen russische Flugplätze war keine völkerrechtliche Beschränkung — Selbstverteidigung erlaubt Angriffe auf Startpunkte von Angriffen. Es war eine *politische* Beschränkung durch die Lieferanten. Kellers Diagnose des Völkerrechts als zahnloser Tiger zeigt den breiteren Kontext: Wenn selbst das Recht auf Selbstverteidigung an den politischen Willen der Waffenlieferanten gebunden ist, existiert Souveränität nur auf dem Papier.
+
+### → [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise]]
+
+Gemeinsamer Habitus des positionierten Fachmanns, der Parteilichkeit und Sachlichkeit trennt. Heinrichs „Ukraine als nützliche Schwächung Russlands" ergänzt Flemigs Motivlehre um eine dritte Ebene neben Prechts Ökonomie und Flemigs Imperialismus — Krieg als westliches Kalkül.

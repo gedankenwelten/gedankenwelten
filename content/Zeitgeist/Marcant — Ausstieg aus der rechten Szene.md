@@ -201,6 +201,3 @@ Maas beschreibt die Voraussetzungen, unter denen Radikalisierung möglich wird: 
 
 ### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
 Marcant ist das lebendige Beispiel: keine Angriffsfläche, kein Dogma, keine ideologische Flanke. Was auf den ersten Blick wie Schwäche aussieht, ist die Stärke einer elastischen Brandmauer — Informationen werden nach Dogma-Freiheit selektiert, nicht nach politischer Zugehörigkeit.
-
-### → [[Linke Influencer]]
-Das Panorama der demokratischen Creator-Szene ordnet Marcants argumentatives Konfrontationsformat ein — als den am wenigsten populistischen Pol gegenüber Satire (Vincent), Reportage (Kreschel) und Reichweiten-Strategie (DerDara/Pallenberg).
