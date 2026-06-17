@@ -240,6 +240,7 @@ Verfügbare Quellen: Suhrkamp-Ausgaben, englische Originale auf Archive.org (Pub
 
 ## Verbindungen
 
+- [[Rutger Bregman — Ist der Mensch wirklich gut]] — Bregman beruft sich direkt auf die Banalität des Bösen, um den Konformismus seines „homo puppy" zu erklären. Arendt schärft seinen Optimismus: Das Versagen wurzelt nicht im rohen Trieb (Fassaden-Theorie), sondern in der Gedankenlosigkeit — freundliche Natur allein genügt also gerade nicht, es braucht das Urteil
 - [[scobel — Foucault Aufklaerung als Haltung]] — Das Eichmann-Paradox ist der historische Beweis für Foucaults Unmündigkeits-These: Eichmann hat Verstand, Gewissen und Urteilskraft an die Bürokratie delegiert — genau das, was Kant als selbstverschuldete Unmündigkeit beschreibt. Arendt und Foucault zusammen bilden den Bogen von der Theorie zur katastrophalen Praxis.
 - [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]] — Stefans Brücke: Die „Banalität des Großen" als zeitgenössische Ableitung von Arendts Konzept — gewöhnliche Männer mit außergewöhnlicher Macht, deren Handeln durch Loyalität statt Bösartigkeit angetrieben wird. Sloterdijk + Daub als doppeltes Update.
 

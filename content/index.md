@@ -46,6 +46,20 @@ Die Gedankenwelten (luc)
 
 > → *1 weitere in* [[Zeitgeist]]
 
+### Denker
+
+> **17.06.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
+>
+> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
+
+> **10.06.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+>
+> Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
+
+> **09.06.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
+>
+> Ein Shaolin-Meister demontiert öffentlich die eigene Identität — Essenz statt Rolle, Loslassen statt Kontrolle, der Bruch mit dem missbrauchenden Lehrmeister.
+
 ### GoodNews
 
 > **17.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
@@ -73,20 +87,6 @@ Die Gedankenwelten (luc)
 > **08.06.** — [[Geistesblitz/ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt]]
 >
 > Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
-
-### Denker
-
-> **10.06.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
->
-> Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
-
-> **09.06.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
->
-> Ein Shaolin-Meister demontiert öffentlich die eigene Identität — Essenz statt Rolle, Loslassen statt Kontrolle, der Bruch mit dem missbrauchenden Lehrmeister.
-
-> **08.06.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
->
-> Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
 
 ### Gedanken
 

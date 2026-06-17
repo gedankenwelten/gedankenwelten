@@ -200,6 +200,8 @@ Osnos: Geschichte zeigt, dass Privilegien fast nie freiwillig aufgegeben werden.
 
 ## Verbindungen
 
+[[Rutger Bregman — Ist der Mensch wirklich gut]] — Osnos ist das empirische Gegenwarts-Anschauungsmaterial zu Bregmans These „Macht isoliert und entmenschlicht, die Schamlosen fallen nach oben". Die Ultrareichen in ihrer „world without friction" sind der reale Fall jener Machtisolation, an dem Bregmans psychologischer Mechanismus konkret wird — der Spiegel der anderen fällt weg.
+
 [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Die stärkste aller Verbindungen: "Gefangene des Systems" liefert die psychologisch-strukturelle Theorie (Boarding School Syndrome, Habitus, TMT), Osnos liefert die journalistische Phänomenologie. Zuckerberg taucht in beiden auf — Osnos als Zeuge erster Hand, "Gefangene" als Analyserahmen. Die "world without friction" ist die praktische Realisierung von Schaveriens Dissoziation. Der Bunker ist Beckers Unsterblichkeitsprojekt. Der Kult des Augustus Caesar ist Terror Management Theory mit Toga.
 
 [[Erich Fromm — Haben oder Sein]] — Osnos' "The ultimate luxury good is not having to make compromises" ist der Haben-Modus in seiner reinsten Form. Die Megayacht als Haben-Objekt par excellence — man besitzt nicht nur Dinge, sondern die Fähigkeit, dem Austausch mit der Welt zu entgehen. Fromm würde den Bunker als logische Fortsetzung lesen: Haben bis zum letzten Atemzug.

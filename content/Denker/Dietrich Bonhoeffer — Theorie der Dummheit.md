@@ -287,6 +287,10 @@ Seine Wirkung reicht weit über Deutschland hinaus: Martin Luther King und Erzbi
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Rutger Bregman — Ist der Mensch wirklich gut]]
+
+Der theologische Spiegel zu Bregmans Konformismus-Befund: Beide verorten das Übel nicht in böser Natur, sondern in der sozialen Entmündigung des Urteils — Bonhoeffers „Dummheit ist gefährlicher als Bosheit" und Bregmans Welpe, der „unbedingt gemocht werden will", beschreiben denselben Mechanismus. Bonhoeffers christliches Erbe trifft zudem Bregmans Motiv vom heilsamen Selbstzweifel.
+
 ### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
 
 Bonhoeffers These ist der härteste Einwand gegen Mark Reichers Credo „die besseren Argumente setzen sich durch". Wenn Dummheit ein Zustand sozialer Entmächtigung ist, gegen den Fakten machtlos abprallen, verliert der freie Markt der Ideen seinen Schiedsrichter — genau das Problem, an dem sich die beiden Wertewesten-Hosts im Streit über Meinungsfreiheit vs. „eisernen Besen" abarbeiten.

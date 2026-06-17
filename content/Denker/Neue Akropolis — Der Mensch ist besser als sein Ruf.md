@@ -214,6 +214,10 @@ Konkrete Schritte:
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Rutger Bregman — Ist der Mensch wirklich gut]]
+
+Die Stimme hinter diesem Vortrag: Bregmans *Im Grunde gut* ist die populäre Gesamtdarstellung, aus der diese Synthese schöpft. Die Bregman-Note liefert das Denken im Original — survival of the friendliest, das Paradox des Welpen, das Menschenbild als selbsterfüllende Prophezeiung.
+
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 
 Mausfeld erklärt, wie Menschenbilder durch Eliten konstruiert und durch Medien verbreitet werden. Dieser Vortrag beschreibt genau das historische Konstruktionsprojekt: Descartes, Hobbes, Locke, Friedman, Hayek — alle zusammen bauten das Bild des rationalen Egoisten, das heute als Naturgesetz gilt. Das ist kein Naturgesetz. Es ist Geschichte.

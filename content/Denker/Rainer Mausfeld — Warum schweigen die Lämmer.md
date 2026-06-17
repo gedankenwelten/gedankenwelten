@@ -236,6 +236,7 @@ Mausfelds Thesen wurden von sehr unterschiedlichen Lagern vereinnahmt — darunt
 
 ## Verbindungen
 
+- [[Rutger Bregman — Ist der Mensch wirklich gut]] — Die Kehrseite derselben Münze: Bregman zeigt, dass das zynische Menschenbild Hierarchie *legitimiert*; Mausfeld zeigt, *wie* die Eliten dieses Bild aktiv erzeugen. Mausfeld besteht jedoch auf der Doppelnatur des Menschen — ein produktiver Widerspruch zu Bregmans freundlichem „homo puppy"
 - [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]] — Zhao beschreibt denselben Mechanismus der demokratischen Selbstuntergrabung: «neue Despotie» als struktureller Bund aus Technologie, Finanzkapitalismus und Intermediären. Mausfeld sieht den Feind als gesteuerte Eliten, Zhao als selbstorganisierenden Systemeffekt — beide landen bei derselben Diagnose: Der ideologische Käfig und das Trojanische Pferd beschreiben dieselbe Pathologie aus West und Ost.
 - [[Renee DiResta — Invisible Rulers]] — Mausfeld analysiert Manipulation top-down (Eliten, Medienkonglomerate); DiResta zeigt das dezentralisierte Pendant: tausende Influencer ohne zentrale Steuerung erzielen denselben Effekt
 - [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — Mausfeld diagnostiziert Bewusstseinskontrolle als Weg zur Aushöhlung; Mühlhoff den nächsten Schritt: wenn die Verwaltung selbst privatisiert wird, braucht es keine Bewusstseinskontrolle mehr
