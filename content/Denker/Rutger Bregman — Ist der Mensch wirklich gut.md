@@ -16,6 +16,16 @@ aktualisiert: 17.06.2026
 
 # Rutger Bregman — Ist der Mensch wirklich gut?
 
+![[assets/Rutger-Bregman-Ist-der-Mensch-wirklich-gut-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Pieter Bruegel der Ältere** — Öl-auf-Tafel-Wärme in Ocker, Umbra und Knochenweiß, eine wimmelnde Wintergemeinschaft. Links teilt das Dorf Feuer und Brot, Welpen tollen zwischen den Beinen (*homo puppy*, survival of the friendliest); rechts am Rand stehen abgewandt der einsame Mann im dunklen Mantel und ein grauer Wolf. Keine andere Hand malt das menschliche Kollektiv mit einer verborgenen moralischen Idee so wie Bruegel — die Eiszeit-Kooperation *und* den Wolf, der sich von der Herde abkehrt: das Paradox des Welpen in einem Bild.
+
+*Prompt:* A wide 1200x500 winter landscape painted in the manner of Pieter Bruegel the Elder — earthy oil-on-panel palette of ochre, umber, muted moss-green and bone-white snow, high pale sky, no photorealism. A teeming community of small peasant figures fills the left and center: people hauling firewood together, sharing a glowing hearth, linking arms, lifting one another across a frozen pond, a mother passing bread, all huddled cooperatively against the ice-age cold. Several small round-bellied dogs and puppies move warmly among the people. Bare black trees, distant snow-roofed huts, a thin column of hearth-smoke. At the far right edge, on a low rise apart from the crowd, stands a single lean grey wolf in profile, looking back at the village — and beside it one solitary human figure turned away from the herd, upright and distinct, cloak dark against the snow. The crowd leans warm and together; the lone figure and the wolf stand cold and separate. Tiny figures, typified faces only, no realistic faces, no portraits. Folk-painting flatness, crisp detailed miniatures, communal warmth meeting solitary distance.
+
+</details>
+
 > [!abstract] Worum es geht
 > Der Historiker Rutger Bregman stellt eine der ältesten Fragen neu: Ist der Mensch im Kern gut oder böse? Seine Antwort stützt sich nicht auf Hoffnung, sondern auf einen wissenschaftlichen Stimmungsumschwung — *survival of the friendliest* statt *fittest*. Doch das Gespräch mit Barbara Bleisch bleibt nicht beim Trost stehen: Es fragt, warum dann trotzdem Putin oben landet, warum „im Grunde gut" kein Selbstläufer ist, und warum gerade das Menschenbild, das wir für realistisch halten, die Ungleichheit legitimiert, unter der wir leiden.
 
