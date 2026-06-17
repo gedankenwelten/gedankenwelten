@@ -22,6 +22,22 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Gedanken
+
+> **17.06.** — [[Gedanken/Bis es keine Anstrengung mehr braucht — Uebung, Freundlichkeit und die erfahrene Vergaenglichkeit|Bis es keine Anstrengung mehr braucht — Übung, Freundlichkeit und die erfahrene Vergänglichkeit]]
+>
+> Übung verwandelt Worte in Wurzeln — über diskriminierende Freundlichkeit, den Gleichmut gegenüber Feindseligkeit und das Glück, das nicht im Flüchtigen liegt, sondern im Erleben der Vergänglichkeit.
+
+> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
+>
+> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
+
+> **24.05.** — [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein|Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+
+### GoodNews
+
+> **17.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+
 ### Zeitgeist
 
 > **16.06.** — [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem]]
@@ -44,8 +60,6 @@ Die Gedankenwelten (luc)
 >
 > Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt.
 
-> → *1 weitere in* [[Zeitgeist]]
-
 ### Panorama
 
 > **16.06.** — [[Panorama/NoAfD|NoAfD]]
@@ -55,24 +69,6 @@ Die Gedankenwelten (luc)
 > Eine demokratische Creator-Szene erobert die Aufmerksamkeitslogik zurück, die lange der Rechten gehörte — vom geduldigen Argument bis zur Satire. Aber lässt sich die Demokratie mit den Waffen ihrer Gegner verteidigen, ohne selbst zur Empörungsmaschine zu werden?
 
 > **12.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
-
-### GoodNews
-
-> **16.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
-
-### Gedanken
-
-> **15.06.** — [[Gedanken/Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt|Die leere Reuse — Gespräch über Konsequenz, Oberfläche und das Tao, das sich nicht sagen lässt]]
->
-> Ein Dialog über die Grenze einer Maschine, die alle Oberflächen kennt und kein Inneres hat — Konsequenz als das, was Wort zu Erfahrung macht, und das Tao, das sich nicht sagen lässt.
-
-> **15.06.** — [[Gedanken/Demokratische Sprachmodelle - Wem gehoert der Spiegel|Demokratische Sprachmodelle — Wem gehört der Spiegel?]]
->
-> Wer den Spiegel der Menschheit kuratiert, herrscht — unsichtbar. Über Sprachmodelle als Machtfrage und einen demokratischen Gegenentwurf zwischen Brahmane und Buddha.
-
-> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
->
-> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
 
 ### Geistesblitz
 

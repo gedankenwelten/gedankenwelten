@@ -71,3 +71,6 @@ Die elastische Brandmauer operationalisiert das Yin-Yang-Prinzip für die Erkenn
 
 ### → [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
 Die schärfste Gegenstimme zu diesem Grundsatz aus einer anderen nicht-westlichen Tradition: Lo Ch'ixi — das Grau aus verwobenen schwarz-weißen Punkten der Aymara-Webkunst — denkt den Gegensatz wie Yin-Yang als konstitutiv, verweigert aber die Komplementarität. Die Punkte fließen nicht ineinander, sie *reiben* — und aus der Reibung kommt die Energie. Cusicanquis Einwand an dieses Prinzip wäre: Manche Gegensätze sollen nicht versöhnt werden, weil die Versöhnung auf Kosten der schwächeren Seite ginge.
+
+### → [[Gedanken/Bis es keine Anstrengung mehr braucht — Übung, Freundlichkeit und die erfahrene Vergänglichkeit|Bis es keine Anstrengung mehr braucht]]
+Das Prinzip persönlich erlebt: weder das Glück bleibt noch die Traurigkeit — jedes trägt seinen Umschlag schon in sich. Jedes Loch fühlte sich an wie das Ende der Welt, war aber nie das Ende. Yin und Yang nicht als Erkenntnis, sondern als die Beruhigung, die aus durchlebten Krisen erwächst.

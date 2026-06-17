@@ -149,7 +149,7 @@ Der konkrete Einzelfall, der diese Muster-Spur ausgelöst hat. Der staatliche Ki
 Zentralisierung in ihrer rohesten Form — und wurde versehentlich zur besten Werbung für die
 Dezentralisierung.
 
-### → [[Gedanken/Demokratische Sprachmodelle - Wem gehoert der Spiegel|Demokratische Sprachmodelle — Wem gehört der Spiegel?]]
+### → Demokratische Sprachmodelle — Wem gehört der Spiegel? *(zurückgehalten, derzeit nicht öffentlich)*
 
 Der normative Zwilling dieser Spur: Wo die Spur *beobachtet*, was passiert, *entwirft* die Gedanken-Note,
 was sein sollte — demokratische, legitim verfasste, föderierte Modelle. Spur = Diagnose, Gedanke = Vision.
