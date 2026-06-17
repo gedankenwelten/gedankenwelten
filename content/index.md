@@ -22,18 +22,6 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Gedanken
-
-> **17.06.** — [[Gedanken/Bis es keine Anstrengung mehr braucht — Uebung, Freundlichkeit und die erfahrene Vergaenglichkeit|Bis es keine Anstrengung mehr braucht — Übung, Freundlichkeit und die erfahrene Vergänglichkeit]]
->
-> Übung verwandelt Worte in Wurzeln — über diskriminierende Freundlichkeit, den Gleichmut gegenüber Feindseligkeit und das Glück, das nicht im Flüchtigen liegt, sondern im Erleben der Vergänglichkeit.
-
-> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
->
-> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
-
-> **24.05.** — [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein|Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
-
 ### GoodNews
 
 > **17.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
@@ -97,6 +85,16 @@ Die Gedankenwelten (luc)
 > **08.06.** — [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
 >
 > Repräsentation ist nicht die Abbildung eines fertigen Willens, sondern der Ort, an dem das Repräsentierte überhaupt erst entsteht — Laclaus radikale Demokratie denkt Macht, Mangel und Kontingenz als Bedingung der Freiheit.
+
+### Gedanken
+
+> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
+>
+> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
+
+> **24.05.** — [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein|Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+
+> **24.05.** — [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden|Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden]]
 
 <!-- JOURNAL:END -->
 
