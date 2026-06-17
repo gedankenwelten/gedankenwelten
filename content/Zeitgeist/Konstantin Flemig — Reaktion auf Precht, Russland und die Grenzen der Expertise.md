@@ -1,5 +1,5 @@
 ---
-title: "Flemig reagiert auf Precht — Russland, „nichts zu holen" und die Grenzen der Expertise"
+title: "Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise"
 date: 16.06.2026
 aktualisiert: 17.06.2026
 description: "Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte."
