@@ -19,6 +19,16 @@ aliases:
 
 # Flemig reagiert auf Precht — Russland, „nichts zu holen" und die Grenzen der Expertise
 
+![[assets/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico** — pittura metafisica, menschenleere Piazza, lange Schatten, gesichtslose Mannequin-Figuren, kühle Ocker-Terrakotta-Palette unter teal-grünem Himmel. Gewählt, weil diese Note nicht vom Streit handelt, sondern von der *eigentümlichen Sicherheit zweier Männer, die je von ihrem eigenen Boden auf dasselbe Feld blicken und einander verfehlen*: der Boden als verschmelzende Karte-und-Schachbrett, auf dem beide stehen und es doch verschieden lesen; die gestürzte Säule markiert die Kante, wo der feste Grund endet; der einsame Turm am Horizont (Narva) bleibt für keinen erreichbar — epistemische Demut als Bild.
+
+*Prompt:* Wide panoramic banner, 1200×500px, in the style of Giorgio de Chirico — metaphysical surrealism, pittura metafisica. No photorealism, no realistic faces. A vast deserted city square at late afternoon, seen in steep one-point perspective with an unnaturally low horizon. Long raking shadows stretch across the entire plaza. The stone floor is faintly inscribed with the lines of an old map of Eastern Europe and a chessboard grid, the two overlapping and dissolving toward the horizon. On the left, a classical arcade of empty arches casts deep parallel shadows. Two small faceless figures stand far apart on the square, reduced to simplified geometric mannequin forms without facial features: the left figure, robed like a thinker, holds an open scroll-map and gestures downward at its blank empty center; the right figure, blockier, wearing the angular geometry of a reporter's flak jacket with a small rectangular notebook, points toward the deep distance. Between and beyond them, near the horizon, a single solitary dark tower stands alone under a flat pale teal-green sky. In the foreground, a toppled classical column and an empty stone pedestal mark the edge where the solid ground ends. Palette: warm ochre and terracotta stone, deep teal-green sky, long violet-grey shadows, a single note of rust red. Still, silent, uncanny. Geometric, flat planes, sharp shadow edges, melancholic clarity. No text.
+
+</details>
+
 > [!abstract] Worum es geht
 > Richard David Precht sagt im Spiegel-Interview sinngemäß: Die deutsche Angst vor einem russischen Angriff sei unbegründet — in Deutschland gebe es „nichts zu holen", also habe Russland keinen Grund anzugreifen. Kriegsreporter Konstantin Flemig zerlegt diese These Satz für Satz: Kriege werden nicht nur um Rohstoffe geführt, Bedrohung heißt heute Bündnisverteidigung im Baltikum, nicht Panzer durch Polen. Die Note nimmt beide ernst — und stellt die unbequemere Frage dahinter: Wann darf ein öffentlicher Intellektueller zu allem sprechen? Flemig hat in der Sache weitgehend recht. Aber seine Selbstsicherheit ist selbst ein Beispiel für das, was er kritisiert.
 
