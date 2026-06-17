@@ -226,6 +226,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Rebecca Boehme|Rebecca Böhme]]** — Neurowissenschaftlerin, Assistenzprofessorin Universität Linköping; Gehirn als bayesianische Vorhersagemaschine, Sprache als neuronaler Schalter, Freiheit trainierbar
 
+**[[DenkerVita/Rutger Bregman|Rutger Bregman]]** — niederländischer Historiker, Bestsellerautor und Aktivist; *Im Grunde gut*, *Utopien für Realisten*, *Moralische Ambition*; der Mensch ist im Grunde gut, Grundeinkommen, 15-Stunden-Woche, viraler Davos-Auftritt gegen Steuervermeidung
+
 **[[DenkerVita/Renee DiResta|Renée DiResta]]** — Forscherin am Stanford Internet Observatory; *Invisible Rulers: The People Who Turn Lies into Reality*; Propaganda dezentralisiert, Verstärkung statt Überzeugung
 
 **[[DenkerVita/Ronen Steinke|Ronen Steinke]]** — Journalist, Sachbuchautor, Jurist; SZ-Korrespondent; Meinungsfreiheit, Verfassungsschutz als Demokratieproblem, Fritz Bauer als Kompass

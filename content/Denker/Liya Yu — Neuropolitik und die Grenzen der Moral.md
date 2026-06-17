@@ -145,6 +145,10 @@ Yu plädiert dafür, diese Grenze nicht durch Moralisierung zu verschieben, sond
 
 ## Verbindungen
 
+### → [[Rutger Bregman — Ist der Mensch wirklich gut]]
+
+Bregman erzählt psychologisch-historisch, was Yu neuronal fundiert: Die Entmenschlichung, mit der Macht die Mächtigen vom „Spiegel der anderen" abschneidet. Yu bietet zugleich den dritten Weg jenseits von Bregmans Hobbes-Rousseau-Achse — weder „rein gut" noch „rein böse", sondern ein mentalisierendes Gehirn mit Grenzen.
+
 ### → [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
 
 Haidt kartiert die moralischen Grundlagen, Yu die neuronalen; beide zeigen, dass liberal/konservativ tiefer liegt als rationale Überzeugung. Yu geht einen Schritt weiter und fragt, was neuronal *vor* den moralischen Intuitionen passiert

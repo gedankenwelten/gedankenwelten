@@ -177,6 +177,7 @@ Der Mensch hat die Kontrolle über seine Schöpfungen verloren — oder genauer:
 
 ## Verbindungen
 
+- [[Rutger Bregman — Ist der Mensch wirklich gut]] — Beide glauben an eine kooperative menschliche Natur, die das System verschüttet. Fromms Analyse des Gehorsams (inkl. Milgram) ist der Faktencheck-Dialog zu Bregman, der genau dieses Experiment entzaubert: Wie zwingend ist die Unterwerfung wirklich in uns angelegt — Wunsch oder bloße Inszenierung?
 - [[Erich Fromm — Die Welt lieben, SRF 1979]] — Das 1979er Gespräch vertieft dieselben Themen: Biophilie als Gegenpol zur autoritären Orientierung, Prophet als Warner
 - [[Erich Fromm — Haben oder Sein]] — Das Haben-Sein-Gegensatz ist das ethische Komplement zur Faschismus-Analyse: der autoritäre Charakter lebt im Haben-Modus (Kontrolle, Besitz, Dominanz). Die Psychoanalyse des Faschismus benennt die Pathologie, "Haben oder Sein" die Therapie
 - [[Erich Fromm — Menschliches Wachstum]] — Konsumkritik und der "ewige Säugling": die anthropologische Seite derselben Analyse

@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Rutger Bregman — Ist der Mensch wirklich gut?
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Ist der Mensch wirklich gut, Rutger Bregman? — Sternstunde Philosophie (SRF)](https://www.youtube.com/watch?v=ODyjjZTxyKU) |
+| **Originalton (EN)** | [Sternstunde Philosophie — englische Fassung](https://youtu.be/XSlM7e7MtsM) |
+| **Notiz** | [[Rutger Bregman — Ist der Mensch wirklich gut]] |
+| **DenkerVita** | [[DenkerVita/Rutger Bregman]] |
+
 ## Konstantin Flemig — Reaktion auf Precht (Russland, Grenzen der Expertise)
 
 | | |

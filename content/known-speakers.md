@@ -599,3 +599,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Annette Dittert
 **Status:** ✓ Vollanalyse → [[DenkerVita/Annette Dittert]]
+
+## Rutger Bregman
+**Status:** ✓ Vollanalyse → [[DenkerVita/Rutger Bregman]]
