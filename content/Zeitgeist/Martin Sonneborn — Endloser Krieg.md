@@ -185,3 +185,7 @@ Der StreitClub verhandelt die Kehrseite von Sonneborns Kritik: Wenn Europa nicht
 ### → [[Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]]
 
 Flemig liefert die Zahlen, die Sonneborns Kriegsgewinn-These konkret machen — Rheinmetall 40% Wachstum, 14 Milliarden Umsatz. Aber Flemig zeigt auch den Kontext: Die Expansion ist Antwort auf eine Bedrohungslage, die Russland geschaffen hat, nicht Kriegstreiberei.
+
+### → [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise]]
+
+Die direkte Erwiderung auf Sonneborns monokausale Lesart. Wo Sonneborn den Krieg aufs Rüstungs-Geschäftsmodell reduziert und Putin als Aggressor ausblendet, hält Flemig (gegen Precht) dagegen: Kriege haben imperiale, status- und geografiegetriebene Motive jenseits von Geld und Rohstoffen. Beide markieren die Pole der deutschen Russland-Debatte.
