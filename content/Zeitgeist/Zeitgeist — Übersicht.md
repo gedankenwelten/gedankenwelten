@@ -214,7 +214,7 @@ Jede Note folgt einer eigenen Struktur:
 ### Geopolitik & Krieg
 
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Januar 2026|Die Neuen Zwanziger — Salon Lektüren Januar 2026]]
-- [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen" und die Grenzen der Expertise]] — Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
+- [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]] — Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
 - [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
 - [[Zeitgeist/Herfried Münkler — Muss es Kriege geben|Herfried Münkler — Muss es Kriege geben?]]
 - [[Zeitgeist/Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung|Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
