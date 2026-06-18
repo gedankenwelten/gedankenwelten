@@ -23,6 +23,8 @@ const CATEGORIES: Record<string, Category> = {
   Gedanken: { key: "gedanken", label: "Gedanken", color: "#f59e0b", inAlles: true },
   Geistesblitz: { key: "geistesblitz", label: "Geistesblitz", color: "#facc15", inAlles: true },
   GoodNews: { key: "goodnews", label: "GoodNews", color: "#22c55e", inAlles: true },
+  // Spuren: lebende Spuren (Zeit-Dimension) — im "Alles"-Feed, floatet via aktualisiert hoch
+  Spuren: { key: "spuren", label: "Spuren", color: "#fb7185", inAlles: true },
   // DenkerVita: eigener Tab, aber NICHT im "Alles"-Feed (zeitlose Profile)
   DenkerVita: { key: "denkervita", label: "DenkerVita", color: "#d6a06a", inAlles: false },
 }
@@ -36,6 +38,7 @@ const TABS = [
   { key: "gedanken", label: "Gedanken" },
   { key: "geistesblitz", label: "Geistesblitz" },
   { key: "goodnews", label: "GoodNews" },
+  { key: "spuren", label: "Spuren" },
   { key: "denkervita", label: "DenkerVita" },
 ]
 
