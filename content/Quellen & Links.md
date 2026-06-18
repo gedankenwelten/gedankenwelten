@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Scobel — Sechs philosophische Sätze (Folge 1)
+
+| | |
+|---|---|
+| **Video** | [Diese 6 Gedanken könnten dein Leben neu ordnen \| Folge 1 – scobel](https://www.youtube.com/watch?v=kkxXoZVtjWw) |
+| **Notiz** | [[Diese 6 Gedanken koennten dein Leben neu ordnen]] |
+| **Primärquellen** | [Kant, Logik AA IX, S. 25](https://korpora.org/kant/aa09/025.html) · [Aristoteles, Metaphysik 982b (Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0051%3Abook%3D1%3Asection%3D982b) · [Platon, Apologie 38a (Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0169%3Atext%3DApol.%3Asection%3D38a) |
+
 ## Rutger Bregman — Ist der Mensch wirklich gut?
 
 | | |
