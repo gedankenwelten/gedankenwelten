@@ -13,6 +13,16 @@ tags:
 
 # Diese 6 Gedanken könnten dein Leben neu ordnen
 
+![[assets/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Cy Twombly** — gekritzelte Schrift als Geste auf warmer, elfenbeinerner Bibliothekswand; graue und blaue Schmierspuren, verblasste griechisch-lateinische Buchstabenfragmente, ein zündender Streichholz-Funke im Zentrum. Gewählt, weil diese Note vom *Satz* selbst handelt — vom geschriebenen Wort, das zündet. Twombly macht Schrift zu Malerei und antike Fragmente zu Spuren: die „unendliche Bibliothek, in der alle mit allen reden". Das Auge (Aristoteles' Staunen), der blaue Fluss (Heraklits *panta rhei*), die Schriftrolle/Säule (Erasmus), der leere Kreis (Zhuangzis ego-loses Sein) und das Fragezeichen (Kants Frage nach dem Menschen) schweben als sechs Funken über das Feld.
+
+*Prompt:* A wide 1200×500 banner in the hand of Cy Twombly — warm ivory and bone-white ground like an aged plaster wall in soft Mediterranean light, the surface scratched, smudged and layered. Across the full width float six loose clusters of scrawled, half-erased handwriting in graphite and waxy crayon, each cluster a different spark of thought: one with a small circled question mark, one an open scribbled eye trailing spirals like wonder, one a smeared mirror shape, one a long flowing horizontal smear of blue-grey dragged across the field like a river current, one a stack of looping lines like an open scroll, one a single empty hand-drawn circle left unfilled. Faint pencil lines drift between the clusters, loosely connecting them — everything in quiet conversation. A few faded classical Greek and Latin letter-fragments bleed through the layers. Pale rose, ochre and smudged red accents; one small bright ignition mark, like a struck match, glowing near the centre. Loose, gestural, fragmentary, no labels, no faces, no photorealism — pure gesture and trace, the look of an ancient library wall where every thought ever written overlaps.
+
+</details>
+
 > [!abstract] Worum es geht
 > Gert Scobel legt in neun Minuten sechs philosophische Sätze hin — Kant, Aristoteles, Sokrates, Heraklit, Erasmus, Zhuangzi — und versteht jeden als Katalysator: eine Initialzündung, die das Denken neu ordnen kann. Diese Note folgt seinen Gedanken. Sie ist keine Analyse seines Videos, sondern eine Würdigung — ein kleiner Tribut an einen, der Philosophie nicht erklärt, sondern *zeigt*. Was macht jeden dieser Sätze für Scobel so lebendig?
 
