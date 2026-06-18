@@ -2225,6 +2225,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 
 ---
 
+### DerDara — Epstein / Situation-Room-Leak
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Trump STINKSAUER! Sämtliche geheime Besprechungen zum Fall Epstein veröffentlicht](https://www.youtube.com/watch?v=Th4nTJlU-4U) |
+| **Notiz** | [[Spuren/Epstein-und-der-Schutz-von-Eliten\|Epstein und der Schutz von Eliten]] (Sweep 18.06.2026) · privat: Influencer-Kompass DerDara |
+| **Transkript** | `Gedankenwelten/Transkripte/DerDara_Epstein_Transkript.txt` |
+| **Primärquelle** | NYT / Haberman & Swan, *Regime Change* (ET 23.06.2026); [Axios-Scoop](https://www.axios.com/2026/06/14/trump-situation-room-tapes-haberman-swan-regime-change) |
+
 ### Koshi Politik — Epstein-Akten (Teil 1)
 
 | | |
