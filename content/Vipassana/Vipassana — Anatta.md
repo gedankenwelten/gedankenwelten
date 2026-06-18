@@ -75,6 +75,10 @@ Was er beschreibt: Ein Geist, der frei von Sankhāra ist, ist *von Natur aus* vo
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen]]
+
+Zhuangzis „der vollkommene Mensch ist ohne Ego" wird in dieser Gedanken-Note als *anattā* in daoistischem Gewand gelesen — das Ich als „hartnäckige Illusion des Denkens", *wúwéi* als das mühelose Sein, das übrigbleibt, wenn nichts mehr verteidigt werden muss. Ein Satz, den man nicht denkt, sondern auf dem Kissen sitzt.
+
 ### → [[Erich Fromm — Haben oder Sein]]
 
 Fromms tiefste Kritik am Haben-Modus: Das Ich, das akkumuliert, besitzt und kontrolliert, ist nicht das eigentliche Selbst — es ist eine gesellschaftlich konstruierte Struktur. Fromm: *„Das Ich, das hat, ist ein Konstrukt."* Goenka: *„Das Ich, an das man glaubt, ist Sankhāra."* Beide zeigen — auf verschiedenen Wegen — dass Befreiung nicht im Stärken des Ichs liegt, sondern im Durchschauen seiner Konstruiertheit.

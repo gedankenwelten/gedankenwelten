@@ -126,6 +126,10 @@ Der Haben-Modus ist der Versuch, Vergänglichkeit zu überwinden — durch Besit
 
 Arendts Natalität — dass aus jeder Begegnung etwas Unvorhersehbares entstehen kann — setzt Vergänglichkeit voraus. Nur weil kein Moment wiederholt werden kann, kann Neues entstehen. Anicca ist nicht Verlust: Es ist die Bedingung für alles Lebendige.
 
+### → [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen]]
+
+Eine persönliche Gedanken-Note, die Heraklits *panta rhei* ausdrücklich als *anicca* liest — Scobel macht die Gleichzeitigkeit (Heraklit lebte zur Zeit des Buddha) selbst zum Argument. Kernpointe: Diesen Satz denke ich nicht, ich *sitze* ihn — der Unterschied zwischen gewusstem und geübtem Wissen.
+
 ### → [[S.N. Goenka — Vipassana]]
 
 Anicca ist das Herzstück. Alle anderen Konzepte — [[Vedanā — Körperempfindungen|Vedanā]], [[Sankhāra — Mentale Konditionierungen|Sankhāra]], [[Dukkha — Das Leiden|Dukkha]] — bauen auf der direkten Erfahrung der Vergänglichkeit auf.

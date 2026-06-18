@@ -133,6 +133,10 @@ Quelle: [Weniger Drama - Wie Vipassana dich ins Handeln bringt](https://www.yout
 
 ## Verbindungen
 
+### → [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen]]
+
+Dieselbe Trennung von gewusstem und geübtem Wissen: Adriaans „die Stunde auf dem Kissen biegt nicht zurecht, was du in 23 Stunden daneben verbockst" ist genau der Spalt, den die Gedanken-Note an sechs philosophischen Sätzen ausbuchstabiert — vier kann man denken, zwei (Heraklit/Zhuangzi) muss man sitzen.
+
 ### → [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]]
 
 Gleicher Lehrer, komplementäre Perspektive: Ksitigarbha steigt IN die Hölle hinab — das Urbild des engagierten Buddhismus, den Adriaan hier als Alltagspraxis formuliert

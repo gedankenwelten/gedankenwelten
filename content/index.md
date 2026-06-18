@@ -46,6 +46,18 @@ Die Gedankenwelten (luc)
 
 > → *1 weitere in* [[Spuren]]
 
+### Gedanken
+
+> **18.06.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen]]
+>
+> Sechs philosophische Sätze als Katalysator — und die Entdeckung, dass zwei davon bei mir längst kein Gedanke mehr sind, sondern Praxis auf dem Kissen.
+
+> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
+>
+> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
+
+> **24.05.** — [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein|Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
+
 ### GoodNews
 
 > **18.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
@@ -105,16 +117,6 @@ Die Gedankenwelten (luc)
 > **08.06.** — [[Geistesblitz/ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt]]
 >
 > Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
-
-### Gedanken
-
-> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
->
-> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
-
-> **24.05.** — [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein|Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
-
-> **24.05.** — [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden|Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden]]
 
 <!-- JOURNAL:END -->
 
