@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Spuren
+
+> **18.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
+>
+> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
+
+> **16.06.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
+>
+> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
+
+> **15.06.** — [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?]]
+>
+> Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird.
+
+> **14.06.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
+>
+> Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
+
+> **14.06.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+>
+> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
+
+> → *1 weitere in* [[Spuren]]
+
 ### GoodNews
 
 > **18.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
