@@ -50,7 +50,7 @@ Die Gedankenwelten (luc)
 
 > **18.06.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen]]
 >
-> Sechs philosophische Sätze als Katalysator — und die Entdeckung, dass zwei davon bei mir längst kein Gedanke mehr sind, sondern Praxis auf dem Kissen.
+> Sechs philosophische Sätze, die Gert Scobel als Katalysatoren versteht — von Kant bis Zhuangzi. Eine Würdigung seiner Gedanken und der Frage, warum ein einziger Satz mehr bewegen kann als ein ganzes Buch.
 
 > **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
 >
