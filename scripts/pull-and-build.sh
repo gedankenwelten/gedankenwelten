@@ -32,7 +32,8 @@ git reset --hard origin/main
 
 # In temporäres Verzeichnis bauen (public/ bleibt live)
 rm -rf public_new
-npx quartz build -o public_new
+# nice/ionice: niedrige CPU-/IO-Priorität → sshd + Web-Server bleiben unter Last reaktionsfähig
+nice -n 10 ionice -c2 -n7 npx quartz build -o public_new
 
 chmod -R o+r public_new/
 
