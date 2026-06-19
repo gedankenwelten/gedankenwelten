@@ -34,11 +34,6 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 > das mit dem Nachlassen der Aufmerksamkeit? **Ohne** in den „geheime Pädo-Kabale"-Reflex zu kippen, der
 > die *echte* Frage diskreditiert.
 
-> [!info] Was eine Spur ist
-> *News als Prozess* — vorläufige These, im Takt geprüft, ohne Wahrheitsanspruch, aber mit Strenge. Diese
-> Spur trennt scharf: **Elitenschutz** (real, falsifizierbar) ist *nicht* dasselbe wie **Verschwörung**
-> (unfalsifizierbar). → Regel: `.claude/rules/spuren.md` · Familie: [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA & ICE]] · [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel & Gaza]]
-
 ---
 
 ## Die These

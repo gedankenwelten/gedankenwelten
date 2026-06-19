@@ -35,11 +35,6 @@ description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Net
 > gefährlich ist — sondern **wie sich die Begründung über die Zeit hält**, und ob die Maßnahme im
 > Verhältnis zu ihrem Anlass steht. Eine These in progress, die sterben darf.
 
-> [!info] Was eine Spur ist
-> Kein Snapshot, sondern *News als Prozess*: eine vorläufige These, regelmäßig geprüft, mit offenem
-> Verlauf. Sie hat keinen Anspruch auf Wahrheit — nur auf Ehrlichkeit über das eigene Verstehen.
-> → Regel: `.claude/rules/spuren.md`
-
 ---
 
 ## Die These

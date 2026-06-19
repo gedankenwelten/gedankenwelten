@@ -35,11 +35,6 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 > wie steht es um die humanitäre Lage „im Waffenstillstand" — und korreliert das Nachlassen der
 > Berichterstattung mit dem Versanden der Rechenschaft? Völkerrecht im Langzeit-Fokus.
 
-> [!info] Was eine Spur ist
-> *News als Prozess* — vorläufige These, im Takt geprüft, ohne Wahrheitsanspruch, aber mit Strenge. Diese
-> Spur bleibt bewusst auf **Prozess, Recht und Aufmerksamkeit** — nicht auf der Schuldfrage.
-> → Regel: `.claude/rules/spuren.md` · Familie: [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA & ICE]] · [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein]]
-
 ---
 
 ## Die These
