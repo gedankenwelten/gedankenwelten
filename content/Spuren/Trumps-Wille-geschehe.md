@@ -53,9 +53,11 @@ was Obama tat"* verkaufen.
 
 **Gestärkt, wenn:** eine weitere Großtat sich lückenlos als Rivalen-Übermalung lesen lässt · Trump ein
 Projekt erkennbar *nur* deshalb betreibt, weil ein Rivale das Gegenteil tat.
+
 **Geschwächt / widerlegt, wenn:** Trump eine **bedeutende Politik verfolgt, die auf dem Erbe eines Rivalen
 aufbaut** statt es zu tilgen · oder eine Großtat, die mit *keinem* Rivalen verrechenbar ist (reine
 Sachpolitik ohne Gegner). Dann fällt die These.
+
 **Kalt, wenn:** sich kein neuer Fall mehr einordnen lässt.
 
 ## Verlauf
