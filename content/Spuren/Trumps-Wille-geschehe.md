@@ -106,9 +106,7 @@ anprangert: einen Menschen auf *einen* Beweggrund eindampfen.
 
 ## Die Wirkung — was das Übermalen anrichtet
 
-Eine Spur über ein Muster ist halb erzählt, wenn sie beim *Dass* stehenbleibt. Entscheidend ist die **Folge** —
-und hier wird aus der zugespitzten These bitterer Ernst. Wenn der Maßstab nicht „was nützt?" ist, sondern „was
-war von *dem* da?", landet der Schaden bei Menschen, die mit der Fehde nie etwas zu tun hatten.
+Welche Folgen kann sowas eigentlich haben?
 
 - **Krieg statt Vertrag.** Der teuerste Fall ist der gekündigte **JCPOA**: ein funktionierender Atomvertrag
   rückabgewickelt, Irans Anreicherung wieder hochgelaufen — am Ende der Krieg von 2025/26 mit tausenden Toten
