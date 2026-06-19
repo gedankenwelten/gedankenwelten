@@ -30,12 +30,13 @@ description: "Eine augenzwinkernde Spur: Was, wenn Trumps gesamte Politik nichts
 
 ## REAL??? &nbsp; SATIRE???
 
-> [!warning] Augenzwinkern — dies ist eine Satire-Spur
-> Diese Spur ist **mit Absicht nicht ganz ernst gemeint**. Sie spielt eine bewusst *monokausale* These durch
-> — pur, zugespitzt, zum Vergnügen. Das Komische daran ist nur deshalb komisch, weil die **Beweisstücke
-> echt** sind. Wir behalten die Spuren-Disziplin (Belegtes klar von Deutung getrennt, Motiv vermutet statt
-> bewiesen) — sie grinst hier bloß. Eine Meinung über eine Person ist immer erlaubt; geprüft wird das, was
-> prüfbar ist. Satire ist freie Rede.
+> [!note] Über den Charakter dieser Spur — Satire als Methode
+> Diese Spur arbeitet mit den Mitteln der **Satire**: Sie verdichtet ein Muster zu einer einzigen,
+> zugespitzten These und treibt sie bis ins Äußerste. Das ist nicht Unernst, sondern ein **Erkenntnismittel**
+> — die Übertreibung macht sichtbar, was die nüchterne Analyse zerstreut. Die **Beweisstücke sind echt**, und
+> die Methode bleibt die der Spuren: Belegtes wird von Deutung getrennt, ein Motiv vermutet, nie als Absicht
+> bewiesen. Was sie prüft, prüft sie ernst; was sie überzeichnet, überzeichnet sie offen. Satire entschuldigt
+> sich nicht — sie nimmt die Macht beim Wort.
 
 > [!info] Was eine Spur ist
 > *News als Prozess* — vorläufige These, im Takt geprüft. Diese hier ist eine **Muster-Spur**: Sie sammelt
