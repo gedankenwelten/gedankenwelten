@@ -26,7 +26,7 @@ description: "Was, wenn Trumps gesamte Politik nichts weiter ist als das systema
 
 </details>
 
-*Eine Satire-Spur: Was, wenn Trumps Politik einzig und allein darauf aufbaut, seine Erzrivalen zu diskreditieren — und sein Stab strickt nur die Story drumherum, damit das Handeln nach außen wenigstens einen Boden von Rationalität bekommt? Begleite uns in den Kaninchenbau.*
+*Was, wenn Trumps Politik einzig und allein darauf aufbaut, seine Erzrivalen zu diskreditieren — und sein Stab strickt nur die Story drumherum, damit das Handeln nach außen wenigstens einen Boden von Rationalität bekommt? Mit womöglich fatalen Folgen. Begleite uns in den Kaninchenbau.*
 
 ## REAL??? &nbsp; SATIRE???
 
@@ -46,25 +46,6 @@ description: "Was, wenn Trumps gesamte Politik nichts weiter ist als das systema
 Seriöse Analysen zeigen in dieselbe Richtung — *„Foreign Policy by Grudge"*, *„driven by simple spite"*, die
 *„politics of grievance"*. Beobachter berichten, man müsse Trump eine Politik nur als *„das Gegenteil von dem,
 was Obama tat"* verkaufen.
-
-## Die Wirkung — was das Übermalen anrichtet
-
-Eine Spur über ein Muster ist halb erzählt, wenn sie beim *Dass* stehenbleibt. Entscheidend ist die **Folge** —
-und hier wird aus der zugespitzten These bitterer Ernst. Wenn der Maßstab nicht „was nützt?" ist, sondern „was
-war von *dem* da?", landet der Schaden bei Menschen, die mit der Fehde nie etwas zu tun hatten.
-
-- **Krieg statt Vertrag.** Der teuerste Fall ist der gekündigte **JCPOA**: ein funktionierender Atomvertrag
-  rückabgewickelt, Irans Anreicherung wieder hochgelaufen — am Ende der Krieg von 2025/26 mit tausenden Toten
-  (→ [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran-Spur]]). Eine Rückabwicklung „weil sie von Obama war" kann auf einem Schlachtfeld enden.
-- **Verlorene Zeit, wo keine ist.** Der **Paris-Austritt** kostet Jahre bei einem Problem, das keine Jahre übrig
-  hat. Das Gemeinwohl wird der Geste geopfert.
-- **Justiz als Waffe.** „Lock her up", die Comey-Anklage, Ermittlungen gegen Biden: Wird Strafverfolgung zum
-  Werkzeug gegen Rivalen, erodiert die Norm, die *alle* schützt — der Stoff, aus dem demokratischer Rückbau ist.
-- **Gefahr für reale Körper.** Der Entzug von Faucis Personenschutz *trotz* dokumentierter Todesdrohungen zeigt
-  es nackt: Das Übermalen trifft nicht Abstraktionen, sondern Menschen.
-- **Die Falle der Abhängigkeit.** Wer nur tilgt, was ein anderer schuf, hat keine eigene Richtung — er bleibt an
-  den Rivalen gekettet und steuert nichts mehr nach vorn. Eine Macht ohne Kompass außer „gegen den da" ist
-  **unberechenbar** — und Unberechenbarkeit an der Spitze einer Großmacht *ist* die Gefahr.
 
 ## Falsifikation
 
@@ -122,6 +103,25 @@ anprangert: einen Menschen auf *einen* Beweggrund eindampfen.
 > - **Was alles erklärt, erklärt nichts:** Eine These, die jeden Fall einordnet, ist erkenntnistheoretisch hochverdächtig. Je runder das Muster, desto größer die Vorsicht.
 > - **Tun wir, was wir ihm vorwerfen?** Einen Menschen auf *ein* Motiv (Rivalen-Hass) zu reduzieren, ist dieselbe Bewegung, die wir an ihm kritisieren. Deshalb bleibt das hier eine These, kein Urteil.
 > - **Die Meinung bleibt frei:** Geprüft wird die prüfbare Behauptung, nicht die Person — das Muster, nicht der Mensch.
+
+## Die Wirkung — was das Übermalen anrichtet
+
+Eine Spur über ein Muster ist halb erzählt, wenn sie beim *Dass* stehenbleibt. Entscheidend ist die **Folge** —
+und hier wird aus der zugespitzten These bitterer Ernst. Wenn der Maßstab nicht „was nützt?" ist, sondern „was
+war von *dem* da?", landet der Schaden bei Menschen, die mit der Fehde nie etwas zu tun hatten.
+
+- **Krieg statt Vertrag.** Der teuerste Fall ist der gekündigte **JCPOA**: ein funktionierender Atomvertrag
+  rückabgewickelt, Irans Anreicherung wieder hochgelaufen — am Ende der Krieg von 2025/26 mit tausenden Toten
+  (→ [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran-Spur]]). Eine Rückabwicklung „weil sie von Obama war" kann auf einem Schlachtfeld enden.
+- **Verlorene Zeit, wo keine ist.** Der **Paris-Austritt** kostet Jahre bei einem Problem, das keine Jahre übrig
+  hat. Das Gemeinwohl wird der Geste geopfert.
+- **Justiz als Waffe.** „Lock her up", die Comey-Anklage, Ermittlungen gegen Biden: Wird Strafverfolgung zum
+  Werkzeug gegen Rivalen, erodiert die Norm, die *alle* schützt — der Stoff, aus dem demokratischer Rückbau ist.
+- **Gefahr für reale Körper.** Der Entzug von Faucis Personenschutz *trotz* dokumentierter Todesdrohungen zeigt
+  es nackt: Das Übermalen trifft nicht Abstraktionen, sondern Menschen.
+- **Die Falle der Abhängigkeit.** Wer nur tilgt, was ein anderer schuf, hat keine eigene Richtung — er bleibt an
+  den Rivalen gekettet und steuert nichts mehr nach vorn. Eine Macht ohne Kompass außer „gegen den da" ist
+  **unberechenbar** — und Unberechenbarkeit an der Spitze einer Großmacht *ist* die Gefahr.
 
 ## Verbindungen
 
