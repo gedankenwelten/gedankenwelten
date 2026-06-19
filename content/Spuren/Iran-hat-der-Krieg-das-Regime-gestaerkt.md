@@ -1,23 +1,25 @@
 ---
-title: "Iran — hat der Krieg das Regime gestärkt, das er stürzen sollte?"
+title: "Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?"
 tags:
   - spur
   - iran
   - usa
   - israel
+  - atomwaffen
   - geopolitik
   - autoritarismus
   - völkerrecht
+  - krieg
   - year-2026
 status: offen
 konfidenz: 58%
 review-takt: 21-tage
 eroeffnet: 2026-06-19
 aktualisiert: 2026-06-19
-description: "Ein Schlag, der brechen sollte, schweißt zusammen — die Spur prüft, ob der von USA und Israel begonnene Krieg das iranische Regime kurzfristig festigte statt es zu stürzen."
+description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte."
 ---
 
-# Iran — hat der Krieg das Regime gestärkt, das er stürzen sollte?
+# Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?
 
 ![[assets/Iran-hat-der-Krieg-das-Regime-gestaerkt-banner.jpg|1200]]
 
@@ -30,12 +32,13 @@ description: "Ein Schlag, der brechen sollte, schweißt zusammen — die Spur pr
 </details>
 
 > [!abstract] Worum es geht
-> Im Februar 2026 töteten US- und israelische Luftschläge den iranischen Obersten Führer Ali Khamenei und
-> sollten — offen oder verdeckt — den Sturz des Regimes befördern. Wenige Monate später regiert sein Sohn
-> **Mojtaba Khamenei**, härter als der Vater. Diese **Spur** verfolgt *nicht* die Schuldfrage des Krieges,
-> sondern eine **These über seine Wirkung**: Hat der äußere Schlag das Regime, das innerlich schon wankte,
-> **gerettet und gefestigt**, statt es zu stürzen — ein Schlag, der schweißt statt zu brechen? Kurzfristig
-> beschädigt, langfristig womöglich gestärkt.
+> Im Februar 2026 töteten US- und israelische Luftschläge den iranischen Obersten Führer Ali Khamenei. Das
+> Ziel des Krieges war, eine **atomar strebende, terror-stützende Macht zu zerschlagen** — Irans Bombe und
+> Urananreicherung *und* den Staat, der Hisbollah, Hamas und Huthis stützt (was als „Achse des Bösen"
+> gerahmt wird). *Nicht* das Wohl der iranischen Menschen, das nie das Motiv war. Wenige Monate später
+> regiert Khameneis Sohn **Mojtaba**, härter als der Vater. Diese **Spur** verfolgt *nicht* die Schuldfrage,
+> sondern eine **These über die Wirkung**: Hat der Krieg sein *eigenes* Ziel verfehlt — und als Nebenwirkung
+> das innerlich wankende Regime **gefestigt** statt zerschlagen? Ein Schlag, der schweißt statt zu brechen.
 
 > [!info] Was eine Spur ist
 > *News als Prozess* — vorläufige These, im Takt geprüft, ohne Wahrheitsanspruch, aber mit Strenge. Diese
@@ -47,17 +50,78 @@ description: "Ein Schlag, der brechen sollte, schweißt zusammen — die Spur pr
 
 ## Die These
 
-> **Stand (Konfidenz 58 %):** Der von USA und Israel begonnene Krieg gegen Iran war — auch gemessen an seinem
-> *wohlwollendsten* möglichen Ziel (den Menschen helfen, sich von einem gewaltbereiten Regime zu befreien) —
-> ein **strategischer Fehler**. Statt es zu stürzen, hat er das Regime **kurzfristig konsolidiert**: Eine
-> innere Legitimitätskrise (Massenproteste Ende 2025, „Tod dem Diktator") wurde durch den äußeren Angriff in
-> eine **Verteidigungserzählung** übersetzt, die den Hardliner-Flügel zusammenschweißte und unter einem
-> **noch härteren Führer** (Mojtaba Khamenei) festigte. Iran ist militärisch und wirtschaftlich schwer
-> beschädigt — könnte aber **langfristig gestärkt** hervorgehen: nationalistisch geeint, von der IAEO
-> abgekoppelt, in der Logik der atomaren Abschreckung bestätigt. Am Ende: Scherben — und ein Regime, das
-> fester sitzt.
+> **Stand (Konfidenz 58 %):** Das reale Ziel des Krieges war, eine **atomar strebende, terror-stützende
+> Macht zu zerschlagen** — auf zwei Säulen: (1) **die Bombe / Urananreicherung** stoppen und (2) den **Staat
+> brechen, der Hisbollah, Hamas und Huthis stützt** (die „Achse"). *Nicht* ein Regimewechsel an sich, *nicht*
+> ein humanitäres Anliegen. **Belegt:** weder USA noch Israel handelten im Interesse der iranischen *Menschen*;
+> die „Befreiung des Volkes" war Rhetorik, nie Motiv. Israels Antrieb ist die — durchaus berechtigte — Furcht
+> vor einem existenziellen Schlag (Bombe *und* Proxy-Angriffe gegen die eigene Gesellschaft). Trumps Motive
+> bleiben opak, vermutlich eine **Mischung**: Machtausübung, das sich schließende Fenster (gegen ein atomar
+> bewaffnetes Iran wäre genau diese Macht nicht mehr ausübbar), ein Öl-Konkurrent, Innenpolitik — und
+> womöglich, ganz banal, die Zerstörung von **Obamas** Erbe (→ Gemengelage unten).
+>
+> **Die These:** Gemessen an seinem *realen* Ziel ist der Krieg wahrscheinlich ein **Fehlschlag**. Das
+> Atomprogramm ist zurückgeworfen, aber der IAEO-Kontrolle entzogen und damit unüberprüfbar, womöglich mit dem
+> **gegenteiligen Anreiz** (nur die Bombe hätte solche Angriffe abgeschreckt). Und statt zerschlagen zu werden,
+> hat der Schlag das innerlich wankende Regime **konsolidiert** — *rally around the flag*, Härtung unter
+> Mojtaba Khamenei. Am Ende: Scherben, eine unsicherere Lage *und* ein festeres Regime.
 
-Der Kern ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich|Yin und Yang]]): Die Handlung, die befreien sollte, trägt ihr Gegenteil in sich und stärkt, was sie schwächen wollte — der *rally-around-the-flag*-Effekt. Wandel kommt selten von außen erzwungen; die belastbarste Veränderung wäre **von innen** gewachsen (→ [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Soroush: Reformation von innen]]) — und genau dieses innere Fenster hat der Krieg womöglich zugeschlagen.
+> [!note] Was Intention wäre — und was sie war
+> Den Menschen zu helfen, sich von einem gewaltbereiten Regime zu befreien, *wäre* für die Gedankenwelten eine
+> **wünschbare** Intention. In der Realität war sie es **nie**. Diese Spur misst den Krieg deshalb an dem, was
+> er *wirklich* wollte (zerschlagen: Bombe + Terror-Macht), nicht an dem, was man ihm zugutehalten möchte — die
+> beiden nicht zu verwechseln, ist hier der eigentliche Sampajañña.
+
+> [!warning] Fairness: die Ziele waren nicht fiktiv
+> Iran *ist* gewaltbereit (Rekord-Hinrichtungen, Protest-Niederschlagung), strebte nach Anreicherung und stützt
+> bewaffnete Proxys — die Bedrohung, gegen die sich der Krieg richtete, ist **real**, nicht erfunden. Yin-Yang
+> heißt nicht, das Regime weißzuwaschen. Die Frage ist allein: Hat *militärisches Zerschlagen von außen* diese
+> Macht gebrochen — oder gefestigt? „Achse des Bösen" ist zugleich ein **Kampfbegriff** (Bush 2002); die Sache
+> dahinter (Proxy-Sponsoring) ist belegt, der Rahmen ist Rhetorik. Beides auseinanderhalten.
+
+Der zweite Befund ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich|Yin und Yang]]): Der Schlag, der das Regime *zerschlagen* sollte, trägt sein Gegenteil in sich und festigt, was er brechen wollte — der *rally-around-the-flag*-Effekt. Wandel kommt selten von außen erzwungen; die belastbarste Veränderung wäre **von innen** gewachsen (→ [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Soroush: Reformation von innen]]) — und genau dieses innere Fenster hat der Krieg womöglich zugeschlagen.
+
+## Die Gemengelage der Interessen
+
+> [!warning] Warum dieser Abschnitt — damit der Kern nicht missverstanden wird
+> Eine Spur mit falschem Kern ist wertlos. Diese Spur behauptet **nicht**, der Krieg sei reine Bosheit gegen
+> ein unschuldiges Land, und **nicht**, er habe ein humanitäres Ziel verraten (das es nie gab). Sie behauptet:
+> *Militärisches Zerschlagen von außen* hat eine **reale** Bedrohung nicht gebrochen, sondern die Falken auf
+> beiden Seiten gestärkt. Die Antriebe dahinter sind vielschichtig — hier offengelegt, **Belegtes von Deutung
+> getrennt** (Pressekodex: ein Interesse darf man *vermuten*, nicht als bewiesene Absicht setzen).
+
+**Die realen Ziele — zwei Säulen, beide mit Haken:**
+- **Säule 1 — die Bombe / Anreicherung stoppen.** Israels existenzielle Linie; Auslöser war der IAEO-Befund über ~408 kg auf 60 % angereichertes Uran. *Haken:* US-eigene Geheimdienste sind über den Schaden uneins — [DIA: 3–6 Monate, Pentagon: 1–2 Jahre](https://www.armscontrol.org/issue-briefs/2025-07/irans-nuclear-program-after-strikes-whats-left-and-whats-next), nur **eine** der drei Anlagen schwer zerstört, der HEU-Bestand vorab verlagert. [BELEGT]
+- **Säule 2 — die terror-stützende Macht zerschlagen** (Hisbollah, Hamas, Huthis). *Haken:* Dieses Netzwerk war **bereits 2024** gebrochen ([Nasrallah & Sinwar tot, Assad gestürzt](https://www.brookings.edu/articles/hezbollah-and-the-axis-of-resistance-in-2024)) — nicht erst durch diesen Krieg. Die zweite Säule war zu großen Teilen schon eingelöst, *bevor* der Krieg begann. [BELEGT]
+- **Regimewechsel** war 2025 *kein* operatives Ziel, erst 2026 explizit. [BELEGT 2026]
+- **Humanitär war es nie.** Zielwahl (Nuklear-/Raketen-/Energie-Infrastruktur) und die *verschärfte* Repression sprechen dagegen. (Inferenz aus Zielwahl + Folgen — als *Deutung* markiert, kein Absichtsbeweis.)
+
+**Wer was will:**
+
+| Akteur | Interesse |
+|---|---|
+| **Israel** | Bombe verhindern (existenziell, Bombe *und* Proxy-Angriffe); ab 2026 auch Regimekollaps |
+| **USA / Trump** | Counterproliferation + Machtprojektion; das sich schließende Fenster (gegen ein nukleares Iran nicht mehr ausübbar); Innenpolitik; Golfstaaten zum Mitziehen gedrängt — *und* (Deutung) Obamas Erbe zerstören |
+| **Golfstaaten** | baten *nicht* um den Krieg, wollen ihn nun aber nicht zu früh beendet sehen — zugleich verwundbar durch die Hormuz-Schließung |
+| **China** | Energiesicherheit, Einfluss bei beiden Seiten, keine direkte Beteiligung |
+| **Russland** | pro Teheran in Worten, durch die Ukraine gebunden in Taten |
+| **EU** | erst Deeskalation, dann gespalten (Israels Selbstverteidigungsrecht anerkennend) |
+
+**Die Wurzel (deckt unsere [[Zeitgeist/Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart|Sternstunde-Note]]):** Trumps **einseitige JCPOA-Kündigung 2018** löste die Eskalation aus. Unter dem Deal hatte Iran [98 % seines Bestands abgebaut, die Anreicherung auf 3,7 % gedeckelt und blieb vier Jahre vertragstreu](https://theconversation.com/trumps-first-term-lies-at-the-heart-of-escalation-between-iran-and-israel-259199) — danach explodierte der Bestand auf 60 %. *Der Krieg bekämpft eine Gefahr, die seine eigene Vorgeschichte schuf.* [BELEGT]
+
+> [!note] Die banalste Erklärung — und warum sie zählt (Vermutung, kein Beweis)
+> Es braucht vielleicht keine große Strategie. Der JCPOA war **Obamas** außenpolitisches Prestigeprojekt — und
+> Obamas Erbe zu zerstören ist bei Trump ein **breit belegtes Muster**, nicht ein Einzelfall: Pariser
+> Klimaabkommen, [Obamacare (Individual Mandate), DACA, Kuba-Politik, JCPOA](https://www.newsweek.com/trump-undoing-obamas-legacy-and-iran-nuclear-deal-latest-casualty-916150) — Pence versprach, „*jede* Obama-Verfügung"
+> rückgängig zu machen, vom Plumpen (die Fahrrad-Sharing-Station vorm Weißen Haus) bis zum Tiefgreifenden.
+> Analysten nennen es [viszeral und persönlich, verwurzelt im Birther-Movement](https://www.bostonglobe.com/news/nation/2017/12/16/trump-greatest-mission-erasing-obama-legacy/OA9M4qwS2hHlOj3MGLxGxK/story.html): „man muss ihm nur erklären,
+> dass etwas das Gegenteil von dem ist, was Obama tat." In dieses Muster fügt sich die JCPOA-Kündigung
+> lückenlos — und der Krieg als ihre „Vollendung" wäre dann weniger Geopolitik als **persönlicher Groll**.
+> Den *strategischen Überbau* liefern vermutlich die Berater, die wenigstens eine Erzählung um den Impuls
+> bauen, damit das Plumpe nicht nackt sichtbar wird. Hannah Arendts **Banalität** (→ [[Denker/Hannah Arendt — Denken ohne Geländer|Arendt]]):
+> das Verheerende ist oft nicht das Dämonische, sondern das Gedankenlose, Kleinliche.
+> **Pressekodex-Vorbehalt:** Das Obama-Erasure-*Muster* ist belegt; die *Motiv-Zuschreibung* für genau diesen
+> Krieg bleibt Deutung — als ein Faden in der Gemengelage ehrlich benannt, nicht als bewiesene Absicht gesetzt.
 
 ## Falsifikation
 
@@ -74,12 +138,13 @@ Der Kern ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — Alles trä
 ### 2026-06-19 — Anlage (Konfidenz — → 58 %)
 
 **Befund (der Bogen, nackt und datiert):**
-- **12-Tage-Krieg (13.–24.06.2025):** Israel („Rising Lion") + US-Schläge auf Fordow/Natanz/Isfahan (22.06.2025). Atomprogramm zurückgeworfen — Schätzungen weit gespreizt (geleaktes DIA-Papier: „wenige Monate"; israelische/US-Bewertung: bis ~2 Jahre). Regime überlebt. IAEO-Zugang ausgesetzt.
+- **12-Tage-Krieg (13.–24.06.2025):** Israel („Rising Lion") + US-Schläge auf Fordow/Natanz/Isfahan (22.06.2025). Atomprogramm zurückgeworfen — Bilanz aber **US-intern strittig** (DIA: 3–6 Monate; Pentagon: 1–2 Jahre), nur **eine** der drei Anlagen (Fordow) schwer zerstört, der **HEU-Bestand (~408 kg, 60 %) vorab verlagert** und vermutlich erhalten. Regime überlebt. IAEO-Zugang ausgesetzt.
+- **Kontext — die „Achse" war schon 2024 gebrochen:** Hisbollah (Nasrallah †) und Hamas (Sinwar †) militärisch zerschlagen, Assad gestürzt (Dez. 2024). Die Schwächung der Proxys war **nicht** Ergebnis dieses Kriegs — wer sie ihm zuschreibt, begeht einen Kausalfehler.
 - **Innere Krise 2025/26:** Währungsverfall, neue Sanktionen (Snapback, Sept. 2025), Massenproteste ab **28.12.2025** → Jan. 2026 („Tod dem Diktator", größte Unruhen seit Mahsa Amini 2022). Diplomaten-Defektionen. Brutale Niederschlagung; Amnesty zählt **≥ 2.159 Hinrichtungen 2025** (mehr als doppelt so viele wie 2024).
 - **Zweiter Krieg (28.02.–17.06.2026):** US+Israel-Überraschungsschläge *während laufender Atomverhandlungen*. **Khamenei am 28.02.2026 getötet** (auch Ali Larijani; Sohn Mojtaba verwundet). Iran vergilt mit hunderten Raketen/Drohnen gegen Israel, US-Basen und Golfstaaten; **Straße von Hormuz blockiert**. Waffenstillstand 08.04. (von Pakistan vermittelt), formell beendet durch das **Islamabad-Memorandum am 17.06.2026**. Trump erklärt den Sieg — **Regimewechsel tritt nicht ein**. Iranische Tote: 3.468–6.000+; Wirtschaftsschaden 300 Mrd.–1 Bio. USD.
 - **Neue Führung:** **Mojtaba Khamenei** am **08.03.2026** zum 3. Obersten Führer ernannt — gilt als **härter** als der Vater, eng mit den extremsten Klerikern. Staatsmedien: 40 Tage Trauer, „Märtyrertum", Nowruz-Botschaft „der Feind ist besiegt"; Kundgebungen zur Projektion nationaler Einheit.
 
-**Deutung:** Das innere Fenster (Ende 2025) war der Moment, in dem Wandel *von innen* möglich schien. Der äußere Angriff hat es geschlossen: Er lieferte dem Regime die Verteidigungs-Erzählung, entzog der Protestbewegung den Boden (jeder Dissens wird zum „Spionage für Israel"-Vorwurf) und legitimierte die Härtung unter Mojtaba. *Rally around the flag* als Regime-Rettung.
+**Deutung:** Auf der ersten Ebene — am *eigenen* Ziel gemessen (Bombe/Anreicherung zerschlagen) — steht ein Zwischenstand ohne klaren Gewinn: Das Programm ist beschädigt, aber der IAEO entzogen und damit blind; der Anreiz zur *verdeckten* Weaponisierung ist eher gewachsen (die „Lehre": nur die Bombe schreckt solche Angriffe ab). Tiefer liegt eine Ironie, die unsere [[Zeitgeist/Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart|Sternstunde-Note]] benennt: Trumps **JCPOA-Kündigung 2018** löste die Eskalation erst aus — der Krieg bekämpft eine Gefahr, die er mitschuf. Auf der zweiten Ebene die Nebenwirkung: Das innere Fenster (Massenproteste Ende 2025) war der Moment, in dem Wandel *von innen* möglich schien. Der äußere Angriff hat es geschlossen — er lieferte dem Regime die Verteidigungs-Erzählung, entzog der Protestbewegung den Boden (jeder Dissens wird zum „Spionage für Israel"-Vorwurf) und legitimierte die Härtung unter Mojtaba. *Rally around the flag* als Regime-Rettung.
 
 **Gegenbeobachtung (Pflicht, mehrfach):** (1) „Konsolidiert" kann **brüchig** sein — eine Kriegs-Rally verblasst; die zerstörte Wirtschaft (−300 Mrd. bis −1 Bio.) könnte den inneren Druck zurückbringen, dann wäre der Kollaps nur *aufgeschoben*. (2) Der Krieg könnte ein **reales** Atom-Risiko abgewendet haben — wenn das Programm dauerhaft demontiert ist, ist das ein Sicherheitsgewinn unabhängig vom Regime. (3) „Härter als der Vater" ist bislang **Zuschreibung**, kein Regierungs-Track-Record; Mojtaba war wochenlang abgetaucht. (4) Quellen sind nicht neutral: iranische Staatsmedien (Siegeserzählung) ebenso wenig wie das saudisch finanzierte Iran International (Sturz-Erzählung). (5) Es ist **zwei Tage her** — jede Aussage über „langfristig" ist Spekulation.
 
@@ -88,6 +153,7 @@ Der Kern ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — Alles trä
 > [!question] Wo krallt der Beobachter?
 > - **Verlangen:** Ich (und der Anlass dieser Spur) *will* hören, dass der Krieg ein Fehler war — das bestätigt eine antimilitaristische Grundhaltung. Genau deshalb ist „es war offensichtlich ein Fehler" eine **Reaktion**, kein Befund. Der stärkste Gegen-Fall (verhinderter Atom-Breakout) muss denselben Raum bekommen.
 > - **Abneigung:** Die Gewaltbereitschaft des Regimes (Rekord-Hinrichtungen, Protest-Niederschlagung) ist real und abstoßend — aber sie ist **nicht der Gegenstand** dieser Spur. Die Abneigung gegen das Regime darf nicht zur stillen Sympathie für den Angriff werden, der es traf.
+> - **Projektion:** Dem Krieg ein *humanitäres* Motiv anzudichten (um ihn dann daran scheitern zu lassen) — *oder* umgekehrt Trump *nur* Banalität zu unterstellen — ist beides Bias. Belegt sind Zielwahl und Folgen, nicht die Absicht dahinter; Motiv bleibt Deutung. Auch die reizvolle „Obama-Hass"-Erklärung nicht zur Gewissheit aufblasen.
 > - **Wachpunkt:** Wenn Mojtabas Regime in 12 Monaten *doch* fällt oder sich öffnet, muss das hier eingetragen werden können — ohne dass es sich wie Niederlage anfühlt. Die Spur verfolgt, *was geschah*, nicht *was ich kommen sah*.
 > - **Selbst-Audit Datum:** Habe ich beim Anlegen die Hinrichtungszahl groß und die DIA-„nur-Monate"-Schätzung klein gemacht, weil das die These stützt? — Bewusst beide stehen lassen.
 
@@ -138,6 +204,14 @@ Das Muster-Fundament: Der Schlag trägt sein Gegenteil in sich (Yin-Yang) — un
 - [Arms Control Association — The U.S. War on Iran: New and Lingering Nuclear Risks](https://www.armscontrol.org/issue-briefs/2026-03/us-war-iran-new-and-lingering-nuclear-risks)
 - [OHCHR — UN expert warns of escalating repression and record executions after June attacks](https://www.ohchr.org/en/press-releases/2025/10/iran-un-expert-warns-escalating-repression-and-record-executions-after-june)
 - [Britannica — 2026 Iranian Protests](https://www.britannica.com/event/2026-Iranian-Protests)
+- [Arms Control Association — Iran's Nuclear Program After the Strikes (Schadensbilanz, HEU)](https://www.armscontrol.org/issue-briefs/2025-07/irans-nuclear-program-after-strikes-whats-left-and-whats-next)
+- [NBC News — US assessment: strikes destroyed only one of three nuclear sites](https://www.nbcnews.com/politics/national-security/new-us-assessment-finds-american-strikes-destroyed-only-one-three-iran-rcna218761)
+- [Bulletin of the Atomic Scientists — How the Iran war undermines the nonproliferation regime](https://thebulletin.org/2026/04/how-the-iran-war-undermines-the-nuclear-nonproliferation-regime/)
+- [Brookings — Hezbollah and the Axis of Resistance in 2024 (Proxys schon vor dem Krieg gebrochen)](https://www.brookings.edu/articles/hezbollah-and-the-axis-of-resistance-in-2024)
+- [Lawfare — Islamabad Memorandum: Ceasefire Without End (Nuklearfrage vertagt)](https://www.lawfaremedia.org/article/ceasefire-without-end)
+- [The Conversation — Trump's JCPOA-Ausstieg 2018 als Wurzel der Eskalation](https://theconversation.com/trumps-first-term-lies-at-the-heart-of-escalation-between-iran-and-israel-259199)
+- [Newsweek — All the Ways Trump Has Undone Obama's Legacy (JCPOA als Teil des Musters)](https://www.newsweek.com/trump-undoing-obamas-legacy-and-iran-nuclear-deal-latest-casualty-916150)
+- [Boston Globe — Trump's greatest mission: erasing Obama's legacy](https://www.bostonglobe.com/news/nation/2017/12/16/trump-greatest-mission-erasing-obama-legacy/OA9M4qwS2hHlOj3MGLxGxK/story.html)
 
 ## Weiterdenken
 
