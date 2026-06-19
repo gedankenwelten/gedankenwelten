@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Spuren
 
+> **19.06.** — [[Spuren/Trump-gegen-seine-Rivalen-Politik-als-Ausloeschung|Trump gegen seine Rivalen — ist seine ganze Politik nur Auslöschung?]]
+>
+> Eine augenzwinkernde Spur: Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?
+
 > **19.06.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
 >
 > Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird.
 
-> **14.06.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
->
-> Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
-
-> → *2 weitere in* [[Spuren]]
+> → *3 weitere in* [[Spuren]]
 
 ### GoodNews
 
