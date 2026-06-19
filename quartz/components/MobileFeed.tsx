@@ -59,6 +59,10 @@ function shortDate(d: Date): string {
   return d.toLocaleDateString("de-DE", { day: "2-digit", month: "2-digit", year: "numeric" })
 }
 
+// Rubrik-Banner als Fallback-Thumbnail, wenn die Note kein eigenes Body-Bild hat.
+// Öffentlich liegt der Gedankenwelten/-Ordner im Root → Pfad OHNE Gedankenwelten/-Prefix.
+const RUBRIK_BANNER = (key: string): string => `/assets/rubrik-banner/${key}.jpg`
+
 const MobileFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: QuartzComponentProps) => {
   const entries: FeedEntry[] = []
 
@@ -91,7 +95,7 @@ const MobileFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quart
       color: cat.color,
       inAlles: cat.inAlles,
       url: resolveRelative(fileData.slug!, slug),
-      thumb: banner?.src ?? null,
+      thumb: banner?.src ?? RUBRIK_BANNER(cat.key),
       date: when ? shortDate(when) : "",
       ts,
       desc: desc.length > 200 ? desc.slice(0, 197) + "…" : desc,

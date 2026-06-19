@@ -96,6 +96,10 @@ export function parseFmDate(v: unknown): Date | undefined {
   return isNaN(parsed.getTime()) ? undefined : parsed
 }
 
+// Rubrik-Banner als Fallback-Thumbnail, wenn die Note kein eigenes Body-Bild hat.
+// Öffentlich liegt der Gedankenwelten/-Ordner im Root → Pfad OHNE Gedankenwelten/-Prefix.
+const RUBRIK_BANNER = (key: string): string => `/assets/rubrik-banner/${key}.jpg`
+
 const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: QuartzComponentProps) => {
   const entries: FeedEntry[] = []
   // Tag-Häufigkeit gesamt + pro Rubrik (für Farbe nach dominanter Rubrik)
@@ -128,7 +132,7 @@ const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quar
       color: cat.color,
       inAlles: cat.inAlles,
       url: resolveRelative(fileData.slug!, slug),
-      thumb: page.banner?.src ?? null,
+      thumb: page.banner?.src ?? RUBRIK_BANNER(cat.key),
       date: when ? shortDate(when) : "",
       ts,
     })
