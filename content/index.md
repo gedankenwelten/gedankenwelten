@@ -24,9 +24,9 @@ Die Gedankenwelten (luc)
 
 ### Spuren
 
-> **19.06.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er stürzen sollte?]]
+> **19.06.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
 >
-> Ein Schlag, der brechen sollte, schweißt zusammen — die Spur prüft, ob der von USA und Israel begonnene Krieg das iranische Regime kurzfristig festigte statt es zu stürzen.
+> Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
 
 > **18.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >
