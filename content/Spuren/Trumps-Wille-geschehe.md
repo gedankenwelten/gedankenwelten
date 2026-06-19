@@ -30,13 +30,9 @@ description: "Eine augenzwinkernde Spur: Was, wenn Trumps gesamte Politik nichts
 
 ## REAL??? &nbsp; SATIRE???
 
-> [!note] Über den Charakter dieser Spur — Satire als Methode
-> Diese Spur arbeitet mit den Mitteln der **Satire**: Sie verdichtet ein Muster zu einer einzigen,
-> zugespitzten These und treibt sie bis ins Äußerste. Das ist nicht Unernst, sondern ein **Erkenntnismittel**
-> — die Übertreibung macht sichtbar, was die nüchterne Analyse zerstreut. Die **Beweisstücke sind echt**, und
-> die Methode bleibt die der Spuren: Belegtes wird von Deutung getrennt, ein Motiv vermutet, nie als Absicht
-> bewiesen. Was sie prüft, prüft sie ernst; was sie überzeichnet, überzeichnet sie offen. Satire entschuldigt
-> sich nicht — sie nimmt die Macht beim Wort.
+> [!note] Satire
+> Kunstgattung, die durch Übertreibung, Ironie und [beißenden] Spott an Personen, Ereignissen Kritik übt, sie der Lächerlichkeit preisgibt, anprangert.
+> — *Duden*
 
 > [!info] Was eine Spur ist
 > *News als Prozess* — vorläufige These, im Takt geprüft. Diese hier ist eine **Muster-Spur**: Sie sammelt
