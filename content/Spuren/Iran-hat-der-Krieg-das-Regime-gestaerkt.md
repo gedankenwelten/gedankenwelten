@@ -193,6 +193,10 @@ Iranisch-deutsche Journalistin und Iran-Kennerin — Referenzstimme für die Inn
 
 Das Muster-Fundament: Der Schlag trägt sein Gegenteil in sich (Yin-Yang) — und autoritäre Regime gewinnen Stabilität gerade aus dem äußeren Feind.
 
+### → [[Spuren/Trump-gegen-seine-Rivalen-Politik-als-Ausloeschung|Trump gegen seine Rivalen (Satire)]]
+
+Das augenzwinkernde Schwester-Stück: Die hier ernst eingehegte „banale Obama-Erasure-Lesart" wird dort satirisch auf die Spitze getrieben — die Spannung zwischen Strenge und Spott ist der Reiz.
+
 ## Quellen
 
 - [Wikipedia — 2026 Iran war (Verlauf, Islamabad-Memorandum, Opferzahlen)](https://en.wikipedia.org/wiki/2026_Iran_war)
