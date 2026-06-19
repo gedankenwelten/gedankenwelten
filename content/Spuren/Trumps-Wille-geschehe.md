@@ -28,6 +28,8 @@ description: "Eine augenzwinkernde Spur: Was, wenn Trumps gesamte Politik nichts
 
 </details>
 
+## REAL??? &nbsp; SATIRE???
+
 > [!warning] Augenzwinkern — dies ist eine Satire-Spur
 > Diese Spur ist **mit Absicht nicht ganz ernst gemeint**. Sie spielt eine bewusst *monokausale* These durch
 > — pur, zugespitzt, zum Vergnügen. Das Komische daran ist nur deshalb komisch, weil die **Beweisstücke
