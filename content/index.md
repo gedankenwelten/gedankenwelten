@@ -26,7 +26,7 @@ Die Gedankenwelten (luc)
 
 > **19.06.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
 >
-> Eine augenzwinkernde Spur: Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?
+> Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?
 
 > **19.06.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
 >

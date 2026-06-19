@@ -34,9 +34,6 @@ description: "Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI das
 > **positioniert** — Fähigkeit signalisiert, Kontroll-Konzentration rechtfertigt, Regulierung formt,
 > Kapital anzieht. Gefüttert von datierten Fällen, global, nicht nur US. Eine These, die sterben darf.
 
-> [!info] Was eine Spur ist
-> *News als Prozess* — eine vorläufige These, im Takt geprüft, mit offenem Verlauf, ohne
-> Wahrheitsanspruch, aber mit Strenge. → Regel: `.claude/rules/spuren.md`
 > **Schwester-Spur:** [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet]] — derselbe Fall (Fable/Mythos) von der *staatlichen* Seite. Diese hier nimmt die *kommerzielle* Seite.
 
 ---

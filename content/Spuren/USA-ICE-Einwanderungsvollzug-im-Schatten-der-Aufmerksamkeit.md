@@ -34,10 +34,6 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 > Frage, ob Gerichte und Aufsicht die Richtung wirklich bremsen oder nur das Tempo. Menschenrechte im
 > Langzeit-Fokus.
 
-> [!info] Was eine Spur ist
-> *News als Prozess* — eine vorläufige These, im Takt geprüft, ohne Wahrheitsanspruch, aber mit Strenge.
-> → Regel: `.claude/rules/spuren.md` · Familie: [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel & Gaza]] · [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein]]
-
 ---
 
 ## Die These

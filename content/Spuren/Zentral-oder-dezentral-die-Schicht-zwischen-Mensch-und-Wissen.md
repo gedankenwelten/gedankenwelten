@@ -26,11 +26,6 @@ description: "Nicht welches Modell das beste ist entscheidet die KI-Ära, sonder
 > heutigen US-Champions wirklich erodiert — oder ob der Wert nur in Schichten wandert, die man nicht
 > öffnen kann (Compute, Distribution). Eine These mit *eingebautem Gegner* (Jevons), die sterben darf.
 
-> [!info] Was eine Spur ist
-> Kein Snapshot, sondern *News als Prozess*: eine vorläufige These, regelmäßig geprüft, mit offenem
-> Verlauf. Sie hat keinen Anspruch auf Wahrheit — nur auf Ehrlichkeit über das eigene Verstehen.
-> → Regel: `.claude/rules/spuren.md`
-
 ---
 
 ## Die These

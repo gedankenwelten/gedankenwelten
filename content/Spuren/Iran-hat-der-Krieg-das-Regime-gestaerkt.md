@@ -40,12 +40,6 @@ description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht d
 > sondern eine **These über die Wirkung**: Hat der Krieg sein *eigenes* Ziel verfehlt — und als Nebenwirkung
 > das innerlich wankende Regime **gefestigt** statt zerschlagen? Ein Schlag, der schweißt statt zu brechen.
 
-> [!info] Was eine Spur ist
-> *News als Prozess* — vorläufige These, im Takt geprüft, ohne Wahrheitsanspruch, aber mit Strenge. Diese
-> Spur urteilt **nicht** über das iranische Regime (dessen Gewaltbereitschaft ist nicht der Gegenstand),
-> sondern über die **strategische Wirkung der äußeren Intervention**.
-> → Regel: `.claude/rules/spuren.md` · Schwester-Spur: [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel & Gaza]]
-
 ---
 
 ## Die These
