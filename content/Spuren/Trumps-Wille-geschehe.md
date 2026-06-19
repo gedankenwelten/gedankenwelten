@@ -16,7 +16,7 @@ description: "Eine augenzwinkernde Spur: Was, wenn Trumps gesamte Politik nichts
 
 # Trumps Wille geschehe
 
-*Eine Satire-Spur: Was, wenn Trumps ganze Politik nur das Übermalen seiner Rivalen ist?*
+*Eine Satire-Spur: Was, wenn Trumps Politik einzig und allein darauf aufbaut, seine Erzrivalen zu diskreditieren — und sein Stab strickt nur die Story drumherum, damit das Handeln nach außen wenigstens einen Boden von Rationalität bekommt? Begleite uns in den Kaninchenbau.*
 
 ![[assets/Trumps-Wille-geschehe-banner.jpg|1200]]
 
