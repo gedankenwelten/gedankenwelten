@@ -24,7 +24,7 @@ Die Gedankenwelten (luc)
 
 ### Spuren
 
-> **19.06.** — [[Spuren/Trump-gegen-seine-Rivalen-Politik-als-Ausloeschung|Trump gegen seine Rivalen — ist seine ganze Politik nur Auslöschung?]]
+> **19.06.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
 >
 > Eine augenzwinkernde Spur: Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?
 

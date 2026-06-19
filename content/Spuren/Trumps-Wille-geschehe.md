@@ -1,5 +1,5 @@
 ---
-title: "Trump gegen seine Rivalen — ist seine ganze Politik nur Auslöschung?"
+title: "Trumps Wille geschehe"
 tags:
   - spur
   - usa
@@ -14,9 +14,11 @@ aktualisiert: 2026-06-19
 description: "Eine augenzwinkernde Spur: Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?"
 ---
 
-# Trump gegen seine Rivalen — ist seine ganze Politik nur Auslöschung?
+# Trumps Wille geschehe
 
-![[assets/Trump-gegen-seine-Rivalen-Politik-als-Ausloeschung-banner.jpg|1200]]
+*Eine Satire-Spur: Was, wenn Trumps ganze Politik nur das Übermalen seiner Rivalen ist?*
+
+![[assets/Trumps-Wille-geschehe-banner.jpg|1200]]
 
 <details><summary>🎨</summary>
 
