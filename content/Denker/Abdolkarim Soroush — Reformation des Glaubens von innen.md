@@ -180,6 +180,10 @@ Rawls' "Public Reason" ist der westliche Versuch derselben Übersetzungsarbeit, 
 
 Soroushs intellektuelle Biografie — Verfolgung, Lehrverbot, Exil — ist der persönliche Hintergrund zu dem, was diese Note strukturell analysiert: wie das Regime der Islamischen Republik jeden Versuch einer innerislamischen Reform vernichtet. Geopolitik und Epistemologie greifen ineinander.
 
+### → [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Spur: Iran — hat der Krieg das Regime gestärkt?]]
+
+Soroush ist das Gegenmodell zur Spur-These: Wandel reift *von innen*. Wenn der äußere Krieg das innere Reformfenster zugeschlagen hat, ist sein Weg genau das, was die Intervention zerstörte.
+
 ### → [[DenkerVita/Konfuzius]]
 
 Strukturell analoges Problem: Wie bewahrt man den lebendigen Kern einer Tradition gegen ihre institutionelle Erstarrung? Konfuzius trennt Ritual (Li) von echter Mitmenschlichkeit (Ren) — Soroush trennt kontingente Koraninterpretation vom wesentlichen Glaubensfundament. Reform als Rückkehr zum Kern, nicht als Bruch.

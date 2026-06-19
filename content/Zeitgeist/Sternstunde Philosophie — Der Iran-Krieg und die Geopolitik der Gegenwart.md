@@ -186,6 +186,10 @@ Das "Betchberie"-System (Büro des obersten Führers) hat Fühler in unzähligen
 
 ## Verbindungen
 
+### → [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Spur: Iran — hat der Krieg das Regime gestärkt?]]
+
+Die lebende Fortschreibung: Diese Note analysiert den Krieg im Moment, die Spur verfolgt seine Wirkung über die Zeit — ob der Schlag das Regime gestürzt oder paradox gefestigt hat.
+
 ### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
 
 Völkerrechtsfrage und israelisch-amerikanischer Angriff ohne UN-Mandat
