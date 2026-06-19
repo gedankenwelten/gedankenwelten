@@ -22,11 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### GoodNews
-
-> **19.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
-
 ### Spuren
+
+> **19.06.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er stürzen sollte?]]
+>
+> Ein Schlag, der brechen sollte, schweißt zusammen — die Spur prüft, ob der von USA und Israel begonnene Krieg das iranische Regime kurzfristig festigte statt es zu stürzen.
 
 > **18.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >
@@ -44,11 +44,11 @@ Die Gedankenwelten (luc)
 >
 > Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
 
-> **14.06.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
+> → *2 weitere in* [[Spuren]]
 
-> → *1 weitere in* [[Spuren]]
+### GoodNews
+
+> **19.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Gedanken
 

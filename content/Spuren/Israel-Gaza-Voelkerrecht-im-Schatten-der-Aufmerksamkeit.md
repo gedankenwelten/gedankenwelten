@@ -98,6 +98,10 @@ sind **nicht per se** Beweis strategischer Vertagung. Der Waffenstillstand brach
 Schwester-Spuren: *Was die Flut wegspült.* Hier ist es das Recht, das im Verfahrenstempo verschwindet,
 während die Welt wegschaut.
 
+### → [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt?]]
+
+Dieselbe Region, andere Achse: Dort wird Recht *vertagt*, hier im Angriff selbst zur Streitfrage. Beide prüfen, was Gewalt mit der Ordnung macht, die sie zu schützen vorgibt.
+
 ## Quellen
 
 - [ICJ — South Africa v. Israel (Verfahrensstand, Wikipedia-Überblick mit Primärquellen)](https://en.wikipedia.org/wiki/South_Africa's_genocide_case_against_Israel)
