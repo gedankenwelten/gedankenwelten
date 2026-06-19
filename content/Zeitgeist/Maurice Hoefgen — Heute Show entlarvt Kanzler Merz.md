@@ -202,3 +202,7 @@ Höfgens DIW-Dezildaten und Arbeitsmarktanalyse liefern den empirischen Unterbau
 ### → [[Der Dara — Merz 72-Stunden-Arbeitswoche]]
 
 Komplementäre Perspektive auf die Merz-Regierung: Während Höfgen die makroökonomischen Widersprüche aufzeigt, dokumentiert Der Dara den Widerstand der Gewerkschaften beim DGB-Kongress (Mai 2026) — Merz wird ausgebuht, als er Sozialabbau und Arbeitszeitverlängerung fordert.
+
+### → [[Horst Evers — Kostenloser Nahverkehr als Utopie]]
+
+Schwesternfall in Methode (Comedy-Format + ökonomische Faktenkorrektur) *und* Substanz: Höfgens *Mythos Geldknappheit* ist das ökonomische Rückgrat von Evers' Pointe „es liegt nicht am Geld, sondern am politischen Willen" — Knappheit als politische Entscheidung, nicht als Sachzwang.

@@ -22,6 +22,24 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **19.06.** — [[Zeitgeist/Horst Evers — Kostenloser Nahverkehr als Utopie|Horst Evers — Kostenloser Nahverkehr als Utopie]]
+>
+> Wenn das größte Problem an einer Idee wäre, dass sie funktioniert — wie Comedy die Utopie des kostenlosen Nahverkehrs ernster nimmt als jede Talkshow.
+
+> **17.06.** — [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]]
+>
+> Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
+
+> **16.06.** — [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem]]
+>
+> Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
+
+> **12.06.** — [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
+>
+> ÖRR-Insider beschreiben ein riesiges schnarchendes Tier: Bürokratie, Zweiklassengesellschaft, Angst vor dem Hass — und warum sie trotzdem bleiben.
+
 ### Spuren
 
 > **19.06.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
@@ -61,20 +79,6 @@ Die Gedankenwelten (luc)
 > Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
 
 > **24.05.** — [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein|Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
-
-### Zeitgeist
-
-> **17.06.** — [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]]
->
-> Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
-
-> **16.06.** — [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem]]
->
-> Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
-
-> **12.06.** — [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
->
-> ÖRR-Insider beschreiben ein riesiges schnarchendes Tier: Bürokratie, Zweiklassengesellschaft, Angst vor dem Hass — und warum sie trotzdem bleiben.
 
 ### Denker
 

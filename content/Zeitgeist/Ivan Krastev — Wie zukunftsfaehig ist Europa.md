@@ -276,6 +276,10 @@ Bude beschreibt den Mechanismus, durch den relative Deprivation politische Entt�
 
 Flassbeck erklärt den Braindrain aus Osteuropa als wirtschaftspolitische Konsequenz — EU-Austerität und Lohngefälle haben qualifizierte Menschen nach Westen gezogen. Das ist der materielle Unterbau der wechselseitigen Enttäuschung, die Krastev als zentrale osteuropäische Wunde beschreibt.
 
+### → [[Horst Evers — Kostenloser Nahverkehr als Utopie]]
+
+Krastev diagnostiziert die Erschöpfung des liberalen Zukunftsversprechens und das Ressentiment aus enttäuschter Hoffnung; Evers' *Fun Facts Utopia* ist der Gegenentwurf — der Versuch, überhaupt wieder ein positives Zukunftsbild aussprechbar zu machen, statt nur Niedergang zu verwalten.
+
 ---
 
 ## Weiterdenken

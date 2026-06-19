@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Horst Evers / Fun Facts Utopia — Kostenloser ÖPNV
+
+| | |
+|---|---|
+| **Video** | [Die absurde Wahrheit über Ö.P.N.V \| mit Horst Evers](https://www.youtube.com/watch?v=fCxbf-_gARo) |
+| **Notiz** | [[Horst Evers — Kostenloser Nahverkehr als Utopie]] |
+| **Format** | Fun Facts (Comedy-Journalismus, Kooperation [CORRECTIV](https://correctiv.org)) — Quellenliste: [funfacts.de/quellen](https://www.funfacts.de/quellen) |
+| **Petition** | [NICE — Nahverkehr kostenlos für alle U18 (Campact/WeAct)](https://weact.campact.de/petitions/nice-nahverkehr-kostenlos-fur-alle-u18) |
+
 ## Scobel — Sechs philosophische Sätze (Folge 1)
 
 | | |

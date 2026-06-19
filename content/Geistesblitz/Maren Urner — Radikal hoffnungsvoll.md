@@ -263,6 +263,10 @@ Nosthoffs kybernetisches Staatsverständnis (Steuerung durch Informationsflüsse
 
 Das Panorama versammelt Praktiken, die Demokratie herstellen statt nur fordern — das ist die strukturelle Entsprechung zu Urners Freedom Writers (Bildung) und Funf (Medien) als positiven Gegenmodellen. Nicht auf den Staat warten, sondern Handlungsfähigkeit selbst aufbauen — Urner neurobiologisch begründet, das Panorama empirisch dokumentiert.
 
+### → [[Horst Evers — Kostenloser Nahverkehr als Utopie]]
+
+Evers' *Fun Facts Utopia* ist die praktische Anwendung von Urners „radikaler Hoffnung": konstruktiver Journalismus, der das Bessere zeigt statt nur das Schlechte zu beklagen. Urner liefert die neurokognitive Begründung für die „Angst vor dem Gelingen", die Evers an der Berliner Mentalität festmacht.
+
 ---
 
 ## Weiterdenken

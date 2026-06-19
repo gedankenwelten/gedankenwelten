@@ -223,3 +223,7 @@ Wo MONITOR die AfD-Stärke trotz Skandalen diagnostiziert, fragt das rp26-Panel:
 ### → [[Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]]
 
 Sahebi/Semsrott liefern mit der CDU-Broschüre und Söders Eingeständnis den aktuellen Beleg für MONITORs Kernthese: Themenübernahme der Rechten durch demokratische Parteien stärkt die AfD, anstatt sie zu entwaffnen. GCA #35 dokumentiert denselben Mechanismus europaweit (Labour, Frederiksen).
+
+### → [[Horst Evers — Kostenloser Nahverkehr als Utopie]]
+
+Die materielle Kehrseite des AfD-Erfolgs: Evers' *Fun Facts Utopia* zitiert den Greenpeace-Befund „fehlende Busanbindung ↔ mehr AfD-Stimmen". Wo MONITOR zeigt, *dass* Abgehängtsein sich in Protestwahl übersetzt, benennt Evers eine konkrete materielle Ursache — mangelnde Mobilität als Teilhabe- und Vereinsamungsproblem.
