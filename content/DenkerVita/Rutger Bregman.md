@@ -65,3 +65,4 @@ Bregman steht klar im progressiven Spektrum, lässt sich aber keinem Parteilager
 ## Cortex-Notes
 
 - [[Neue Akropolis — Der Mensch ist besser als sein Ruf]] — führt Bregmans *Im Grunde gut* als populäre Gesamtdarstellung der Forschungslage zum guten Menschen an.
+- [[Horst Evers — Kostenloser Nahverkehr als Utopie]] — *Fun Facts Utopia* (kostenloser ÖPNV) wendet Bregmans Methode aus *Utopien für Realisten* praktisch an: eine scheinbar „unmögliche" Idee empirisch erden, bis sie machbar wird.

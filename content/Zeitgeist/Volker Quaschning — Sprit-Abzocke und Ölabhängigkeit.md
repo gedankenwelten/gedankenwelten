@@ -247,5 +247,8 @@ Felix zeigt den Investorenblick auf Quaschnings Diagnose: Batteriespeicher als k
 ### → [[Zeitgeist/Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]]
 BP Q1/2026: Aktuelle Bestätigung des Mechanismus Krise → Preissprung → Konzernmargen-Explosion.
 
+### → [[Horst Evers — Kostenloser Nahverkehr als Utopie]]
+Dieselbe Münze, andere Seite: Quaschning argumentiert „weg vom Verbrenner" von der Energie-/Klimaachse, Evers vom sozialen Teilhabe-Versprechen des kostenlosen ÖPNV. Beide entlarven dieselben klimaschädlichen Subventionen (Tankrabatt, Dieselprivileg) und verbinden Verkehrswende mit Verteilungsgerechtigkeit.
+
 ### → [[Akkudoktor — Lanz und die Energiewende]]
 Identisches Desinformationsmuster: Was Quaschning bei AfD-Narrativen widerlegt, adressiert Akkudoktor bei ZDF-Narrativen
