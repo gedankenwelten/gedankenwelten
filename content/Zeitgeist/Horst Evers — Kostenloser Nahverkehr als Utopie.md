@@ -18,6 +18,16 @@ aktualisiert: 19.06.2026
 
 # Horst Evers — Kostenloser Nahverkehr als Utopie
 
+![[assets/Horst-Evers-Kostenloser-Nahverkehr-als-Utopie-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — amerikanische Moderne des sozialen Mitgefühls: drahtige, kalligrafische Linie, warme Tempera-Erdtöne (Ocker, Backstein-Rot, Olive, Creme), Szenen voller gewöhnlicher Menschen, Handschrift im Bild. Der glühende, übervolle Waggon als kostbares Kollektiv-Objekt gegen die winzige, einsame Auto-Figur im Parksuch-Loop — das macht die Inversion „Teilen ist der Luxus" zum Bild. Shahn malt genau das, was die Folge meint: den Bus als soziale Infrastruktur, Teilhabe als Würde, Politik mit menschlichem Gesicht. „nice" als Oberleitung fängt die Kampagne ein.
+
+*Prompt:* Wide horizontal banner, 1200x500, in the style of Ben Shahn — social-realist American modernism, warm tempera, wiry calligraphic ink outlines, flat earthy palette of ochre, warm brick-red, olive green and cream. A long public tram carriage stretches all the way across the frame, its row of windows reading like a warm golden frieze. Inside, a packed crowd of ordinary people of every age, drawn with expressive nervous linework and no realistic faces: an old woman with a market basket, a small child pressed to the glass, a worker with tools on his lap, two friends laughing together, a person reading, a teenager with headphones — people among people, glowing as if the carriage were a treasure. The whole vehicle radiates a soft amber light, rendered like a luxurious shared object. In the lower-left corner, small and isolated, a single lone figure hunches in a tiny boxy car, circling an empty parking lot traced by a faint dotted looping line. Above the tram, hand-lettered in Shahn's irregular brush script, the lowercase word "nice" woven into the warm sky band. Textured matte surface, no photorealism, no photographic faces, painterly and hand-drawn throughout.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Kabarettist stellt eine ernste Frage in ein Comedy-Format: Könnte der öffentliche Nahverkehr für alle kostenlos sein? Statt zu empören, rechnet Horst Evers vor — und stößt auf eine fast schon zärtliche Pointe: Das eigentliche Hindernis ist nicht das Geld, sondern der politische Wille. Und das größte praktische Problem wäre, dass die Idee *funktionieren* würde. Eine Übung darin, das Mögliche wieder denken zu lernen — verpackt in Witze, getragen von Zahlen.
 
