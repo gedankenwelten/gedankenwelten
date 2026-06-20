@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*234 Notes — automatisch generiert · nach Thema sortiert*
+*235 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -101,6 +101,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude — Gesellschaft der Angst]]
 - [[Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger|Helen Keller — Völkerrecht: Ein zahnloser Tiger?]]
 - [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen|Holy Koolaid — Amerikanische Propaganda: 7 Formen, die du nie hinterfragt hast]] — Was als „Land of the Free“ verkauft wird, hält der Prüfung nicht stand: sieben Formen amerikanischer Propaganda, empirisch zerlegt.
+- [[Zeitgeist/Horst Evers — Kostenloser Nahverkehr als Utopie|Horst Evers — Kostenloser Nahverkehr als Utopie]] — Wenn das größte Problem an einer Idee wäre, dass sie funktioniert — wie Comedy die Utopie des kostenlosen Nahverkehrs ernster nimmt als jede Talkshow.
 - [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie|Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 - [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert|IT Mario — 40.000 Bundestagsreden analysiert: Welche Partei ist wirklich gefährlich?]]
 - [[Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa|Ivan Krastev — Wie zukunftsfähig ist Europa?]]
