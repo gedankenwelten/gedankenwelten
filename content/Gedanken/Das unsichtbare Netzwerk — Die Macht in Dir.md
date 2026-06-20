@@ -230,26 +230,26 @@ Das ist kein Dogma. Es ist keine Mission. Es ist auch keine Antwort, die ich and
 Diese Note trägt einen Titel, der nicht neu ist. Vor fünfundzwanzig Jahren habe ich schon einmal über die Macht geschrieben — ohne zu wissen, dass der Faden, den ich da legte, eines Tages hierher zurückfinden würde. Verwandelt, ohne Herkunftsadresse, und doch derselbe.
 
 > [!quote] Macht — Luc, 16.09.2001
-> Macht kennt keine Namen
-> Macht kennt kein Gesicht
-> Niemand kann erahnen, wer die Fäden zieht
-> Retten kann nur reines Herz
-> Schuld ist nur man selbst für Schmerz
-> Sehen kann nur klarer Geist, der frei von
-> Vorurteil sich nicht beherrschen lässt vom
+> Macht kennt keine Namen<br>
+> Macht kennt kein Gesicht<br>
+> Niemand kann erahnen, wer die Fäden zieht<br>
+> Retten kann nur reines Herz<br>
+> Schuld ist nur man selbst für Schmerz<br>
+> Sehen kann nur klarer Geist, der frei von<br>
+> Vorurteil sich nicht beherrschen lässt vom<br>
 > Schein der Dinge.
 >
-> Verwoben im Netz des Bewusstseins allen Lebendigen
-> in ganz feinem anzusehen, sind wir alle es, die dem
-> Pfad der Grausamkeit,
-> Stein für Stein,
+> Verwoben im Netz des Bewusstseins allen Lebendigen<br>
+> in ganz feinem anzusehen, sind wir alle es, die dem<br>
+> Pfad der Grausamkeit,<br>
+> Stein für Stein,<br>
 > Erbauer sind.
 >
-> Schuld zu geben heißt, selbst die Schuld zu sein.
-> Andre anzugreifen heißt, sich selber weh zu tun.
-> Hass mit Hass zu begegnen heißt, die Blüte dessen zu gedeihen.
-> Veränderung kann nur in mir selbst entstehen,
-> ist nicht bei anderen zu suchen.
+> Schuld zu geben heißt, selbst die Schuld zu sein.<br>
+> Andre anzugreifen heißt, sich selber weh zu tun.<br>
+> Hass mit Hass zu begegnen heißt, die Blüte dessen zu gedeihen.<br>
+> Veränderung kann nur in mir selbst entstehen,<br>
+> ist nicht bei anderen zu suchen.<br>
 > Und klage ich, die Welt sei schlecht, fang ich bei mir als erstes an.
 
 Der Faden kehrt zurück. Ohne Herkunftsadresse. Und doch erkenne ich ihn.
