@@ -59,6 +59,6 @@ Annette Dittert ist klassische öffentlich-rechtliche Korrespondentin, keine Akt
 - **Yanis Varoufakis** ([[Zeitgeist/Yanis Varoufakis — Technofeudalism|Technofeudalism]]) — gibt Ditterts „zweiter Stammeslogik der Tech-Milliardäre" das ökonomische Modell: Cloud-Capital extrahiert Rente, nicht Profit.
 - **Jagoda Marinić** ([[DenkerVita/Jagoda Marinic|DenkerVita]]) — Gesprächspartnerin in *Freiheit Deluxe*; teilt mit Dittert den Blick aus dem „Dazwischen" (Yonda) und die Sorge um die Faktizität als Boden der Meinungsfreiheit.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Annette Dittert — Dear Britain]]

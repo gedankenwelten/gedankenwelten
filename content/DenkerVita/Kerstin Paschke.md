@@ -42,6 +42,6 @@ Die DAK-Studie, an der sie beteiligt ist, ist zur wichtigsten deutschen Erhebung
 
 *Wird von Montaigne befüllt.*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]

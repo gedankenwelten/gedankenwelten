@@ -46,5 +46,5 @@ Klar im Lager der **digitalen Allmende** und des **Public-Code-Gedankens**: Skep
 - [[DenkerVita/Martin Andree]] — Beide sehen im Outlink-Verbot den „Sündenfall des modernen Internets" und ziehen verschiedene Konsequenzen: Andree setzt auf strukturelle Regulierung (Outlink-Pflicht per Gesetz), Stockmann auf zivilgesellschaftliche Gegenmacht und Strategie. Sie widersprechen sich nicht — sie beschreiben verschiedene Hebel am selben Problem.
 - [[DenkerVita/Renee DiResta]] — DiResta beschreibt, was Stockmanns „Karawane" algorithmisch antreibt: Engagement-Optimierung als Radikalisierungsmaschine. Stockmanns UX-Kritik und DiRestas Bridging-Algorithmen treffen sich in der Einsicht, dass Design und Architektur politisch sind — dass aber besseres Design allein nicht reicht, wenn die Aufmerksamkeitsökonomie dagegen arbeitet.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Geistesblitz/Fediverse - Die digitale Allmende]]

@@ -135,7 +135,7 @@ Soroush war 1979 revolutionär gesinnt, wurde aber schnell zum Kritiker der theo
 
 *(wird von Montaigne befüllt — hier leer lassen)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 Suche nach Notes im Vault, die Soroush oder seine Thesen behandeln:
 - `[[Zeitgeist/...]]` — (nach Videonotes zu Soroush-Interviews suchen)

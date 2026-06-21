@@ -91,6 +91,6 @@ Im *Historikerstreit* (1986) verteidigt er die kritische Auseinandersetzung mit 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Habermas in 60 Minuten]] — Vier Geltungsansprüche, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, Diskursethik vs. Kants kategorischer Imperativ

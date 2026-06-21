@@ -99,6 +99,6 @@ Seine Kulturkritik in *Das Unbehagen in der Kultur* hat eine pessimistisch-konse
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Freud in 60 Minuten]] — Freuds Gesamtsystem: Unbewusstes, Triebtheorie, Es/Ich/Über-Ich, Psychoanalyse, Religionskritik

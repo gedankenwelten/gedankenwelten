@@ -68,7 +68,7 @@ Sie kritisiert Links-Pazifismus bei Reformen (zu viel Angst vor Veränderung) eb
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 

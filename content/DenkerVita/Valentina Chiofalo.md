@@ -99,7 +99,7 @@ Im GFF-Gutachten zeigt sich ihre politische Haltung am prägnantesten: **Ergebni
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — re:publica 26 Panel zur Methodik und den Kernfragen des AfD-Gutachtens
 

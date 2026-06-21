@@ -118,7 +118,7 @@ In seiner neuen Rolle bei Finanzwende kritisiert Kühnert die Steuervermeidungsi
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 Vollständig analysierte Zeitgeist-Notes, in denen Kühnert eine zentrale Rolle spielt:
 

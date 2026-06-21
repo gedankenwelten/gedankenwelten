@@ -76,7 +76,7 @@ Ihre Kritik wendet sich gegen:
 - [[DenkerVita/Steffen Mau|Steffen Mau]] — Maus empirischer Befund (die Arbeiterklasse legitimiert Meritokratie stärker als die Privilegierten) und Hochschilds Stolz-Paradox sind zwei Seiten derselben Struktur: Wer Stolz auf Individualismus gründet, kann Verluste nicht als strukturell deuten, ohne den eigenen Stolzbegriff zu opfern. Hochschild erklärt die emotionale Logik hinter Maus soziologischem Paradox.
 - [[DenkerVita/Christine Braehler|Christine Brähler]] — Beide denken Scham als zentrales Thema: Brähler aus klinisch-therapeutischer Perspektive (Scham als Niederzwingen vs. Einladung zur Fürsorge), Hochschild aus soziologisch-politischer (Scham als Rohstoff des Populismus). Zusammen markieren sie die Gabelung: Scham kann nach innen bearbeitet oder nach außen entladen werden — Selbstmitgefühl vs. Roar-Back.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Arlie Hochschild — Stolen Pride]]
 

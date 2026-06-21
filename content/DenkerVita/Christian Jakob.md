@@ -40,6 +40,6 @@ Seine Stärke liegt in der Kombination aus Datenjournalismus, Recherche und dem 
 
 *Pflege durch Montaigne*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]

@@ -76,6 +76,6 @@ Sie steht für einen reformorientierten Multilateralismus: Die regelbasierte Ord
 
 - [[DenkerVita/Teresa Bücker]] — Begründung: Bücker und Keller betreiben dieselbe argumentative Operation in verschiedenen Domänen — sie weigern sich, strukturelle Machtfragen als individuell oder privat abzutun. Bücker: Zeitnot ist keine persönliche Schwäche, sondern politisch produziert. Keller: Völkerrechtsschwäche ist keine Naturkatastrophe, sondern politisch produziert — und damit politisch behebbar. Wer Resignation als Realismus verkauft, verteidigt die Struktur.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger]]

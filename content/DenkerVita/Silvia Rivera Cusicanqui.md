@@ -84,6 +84,6 @@ Sie wird emerita an der UMSA, arbeitet aber weiter — eine Figur der Hartnäcki
 - **Boaventura de Sousa Santos** — Epistemologien des Südens; ihr Gesprächspartner in der Conversa del Mundo (2014)
 - **María Galindo / Mujeres Creando** — anarchafeministische Weggefährtin und Streitpartnerin in Bolivien
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Denker: Dekolonisierung und lo Ch'ixi]]

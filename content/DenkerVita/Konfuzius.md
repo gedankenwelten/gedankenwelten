@@ -86,7 +86,7 @@ Der historische Missbrauch des Konfuzianismus — als Instrument kaiserlicher He
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Konfuzius in 60 Minuten]] — Tugendethik, fünf Kardinaltugenden, Ren, Dao, Goldene Regel, Achsenzeit
 - [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]] — Strukturell analoges Problem: Wie bewahrt man den lebendigen Kern gegen institutionelle Erstarrung? Konfuzius trennt Li von Ren, Soroush kontingente Koraninterpretation von wesentlichem Glaubensfundament

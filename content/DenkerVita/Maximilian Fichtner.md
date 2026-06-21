@@ -70,7 +70,7 @@ Publikationslisten: [HIU Batteries Research Groups](https://hiu-batteries.de/for
 
 *(Wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 *(Verlinkt sobald Zeitgeist-Notes zu Prof. Fichtner angelegt werden)*
 

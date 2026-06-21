@@ -78,7 +78,7 @@ Sie ist nicht "gegen KI" oder "gegen Technologie" — sie ist für eine Technolo
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 

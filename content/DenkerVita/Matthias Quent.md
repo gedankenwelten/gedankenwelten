@@ -71,7 +71,7 @@ Quent ist parteilich ungebunden, aber klar demokratisch positioniert. Er forscht
 - [[DenkerVita/Valentina Chiofalo]] — Quent analysiert soziologisch, warum die AfD Ohnmacht instrumentalisiert und Normalisierung rechter Positionen vorantreibt; Chiofalo prüft juristisch, ob die AfD verfassungswidrig handelt. Beide kämpfen für wehrhafte Demokratie, aber mit völlig unterschiedlichen Werkzeugen — Quent erklärt das Warum, Chiofalo arbeitet am juristischen Ob.
 - [[DenkerVita/Bijan Moini]] — Beide zivilgesellschaftliche Akteure gegen die AfD: Moini rechtlich-strategisch (GFF), Quent soziologisch-präventiv (IDZ, Rechtsextremismusforschung). Unterschiedliche Fronten desselben Projekts: Demokratieschutz.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]] — Quent als Experte: „Verherrlichung der Ohnmacht" und Irrationalität als AfD-Geschäftsmodell
 - [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]] — Systematische Entfaltung der Ohnmachtsthese: Fromms vier Reaktionsmuster, Löwensteins Faschismus-Definition, Clusteranalyse, Faschismus als Antwort auf die Klimakrise

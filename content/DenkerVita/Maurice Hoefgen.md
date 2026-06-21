@@ -104,7 +104,7 @@ Kritiker werfen ihm Vereinfachung vor — was teilweise stimmt (YouTube-Format b
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
 - [[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz]]

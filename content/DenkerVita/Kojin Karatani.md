@@ -162,7 +162,7 @@ Karatani ist **kein konventioneller Marxist**, obgleich Marx zentral für sein D
 - [Berggruen Prize Announcement Video](https://www.youtube.com/watch?v=dSdfmqZK3rc) — Offizielle Ankündigung des Berggruen Prize (2022)
 - [NOEMA Magazine Interview](https://www.noemamag.com/japanese-philosopher-kojin-karatani-awarded-the-2022-berggruen-prize/) — Schriftliches Porträt mit ausführlicher Kontextualisierung seiner Theorie
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Kojin Karatani — Tauschformen und die Ueberwindung der Triade]]
 

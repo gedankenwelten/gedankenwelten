@@ -75,6 +75,6 @@ Unterschied zu Büttner: Sie denkt **wirtschaftspolitisch** (FDP-Agenda: Gründe
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/re:publica 26 - Buettner und Kaufmann - Europas KI-Zukunft|re:publica 26 — Büttner und Kaufmann — Europas KI-Zukunft]]

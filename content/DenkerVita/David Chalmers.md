@@ -87,6 +87,6 @@ Chalmers ist primär akademischer Philosoph und positioniert sich politisch selt
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[David Chalmers — Das Hard Problem des Bewusstseins]] — TED Talk 2014: Bewusstsein als Grundbaustein, Panpsychismus, IIT

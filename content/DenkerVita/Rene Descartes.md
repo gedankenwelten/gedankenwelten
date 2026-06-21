@@ -81,6 +81,6 @@ Descartes selbst war kein politischer Denker — aber sein Werk hat enorme polit
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Descartes in 60 Minuten]] — Cogito ergo sum, methodischer Zweifel, Cartesischer Dualismus, vier Regeln der Methode

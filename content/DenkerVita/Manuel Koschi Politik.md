@@ -83,7 +83,7 @@ Manuel ist kein Buchautor — sein Medium ist YouTube. Kernformate des Kanals:
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]]
 - [[Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration]]

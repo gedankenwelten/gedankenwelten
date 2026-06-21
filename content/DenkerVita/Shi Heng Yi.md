@@ -139,7 +139,7 @@ Statt Beschönigung distanzierte er sich explizit — nicht nur vom Abt, sondern
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]] — Denker-Analyse des Grenzgänger-Gesprächs „Die Enthüllung"
 

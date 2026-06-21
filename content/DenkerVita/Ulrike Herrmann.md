@@ -85,7 +85,7 @@ Post-keynesianisch orientiert; kritisch gegenüber:
 - **2015:** Preis für Wirtschaftspublizistik der Keynes-Gesellschaft (für taz-Beiträge)
 - **2019:** Otto-Brenner-Preis (Spezial) — „für ihren kritischen und pointierten Wirtschaftsjournalismus mit gutem Gespür für Sozialstaatlichkeit"
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 

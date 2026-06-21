@@ -98,6 +98,6 @@ Mattei bezeichnet sich als *antikapitalistisch* — nicht als kommunistisch oder
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Clara Mattei — Geschichte der Austeritaetspolitik]] — Jung & Naiv Folge 822: Ausführliches Interview über *The Capital Order*, Fabrikräte, Liberalismus-Faschismus-Konvergenz, FREE und partizipatives Budgetieren

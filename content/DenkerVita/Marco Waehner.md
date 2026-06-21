@@ -44,5 +44,5 @@ tags: [denker-vita, technologie, soziologie, demokratie, datenschutz]
 - [[DenkerVita/Martin Andree]] — Komplementäre Seiten derselben Machtfrage: Andree fokussiert die Plattformmonopole und ihre demokratiefeindliche Wirkung, Wähner die strukturellen Schwächen der dezentralen Alternative. Andrees Outlink-Pflicht und Wähners zivilgesellschaftliche Grundfinanzierung ergänzen sich: Der eine will die Monopole schwächen, der andere die Alternative stärken.
 - [[Francesca Bria — The Authoritarian Stack|Francesca Bria]] — Bria hat in Barcelona als CTO umgesetzt, was Wähner theoretisch fordert: öffentliche Institutionen als Träger demokratischer Digitalinfrastruktur. Beide operieren auf der Schnittfläche von Sozialwissenschaft und Technologie — Wähner empirisch-akademisch, Bria politisch-praktisch.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Geistesblitz/Fediverse - Die digitale Allmende]]

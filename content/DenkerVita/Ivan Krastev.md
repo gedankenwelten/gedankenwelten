@@ -69,6 +69,6 @@ Liberal-zentristisch, europhil, aber **kritisch** gegenüber dem westlichen Libe
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa|Ivan Krastev — Wie zukunftsfähig ist Europa?]] (Sternstunde Philosophie, Mai 2026)

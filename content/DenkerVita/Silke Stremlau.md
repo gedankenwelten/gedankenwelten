@@ -155,7 +155,7 @@ Gründung eines neuen Think-and-Do-Tanks mit Unterstützung der Stiftung Mercato
 - Aaron Sahr (Geldsoziologie) — Zusammenarbeit in future-economies Podcast über die sozialen Strukturen von Finanzsystemen
 - Laura Mervelskemper (Betriebswirtschaft und Nachhaltigkeit) — Ko-Diskutantin im Transformationsfinanzierungs-Diskurs
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 *Wird aktualisiert, wenn Notes zum Thema Nachhaltige Finanzwirtschaft, ESG, Transformationsfinanzierung oder Kapitalallokation hinzugefügt werden.*
 

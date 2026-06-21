@@ -125,7 +125,7 @@ Flassbeck ist **Post-Keynesianer** — kein Marxist, kein Sozialdemokrat alter S
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Heiner Flassbeck — Krise und Rechtsruck]]
 - [[Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]

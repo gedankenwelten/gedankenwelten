@@ -55,6 +55,6 @@ Konservativ-liberal im Sinne der NZZ-Tradition: marktwirtschaftlich, aufklärung
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[StreitClub — Europa allein zu Haus]] — Debatte mit Strack-Zimmermann über europäische Zukunft (April 2026)

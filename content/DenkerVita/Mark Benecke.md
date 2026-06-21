@@ -85,7 +85,7 @@ tags: [denker-vita, naturwissenschaft, klimawandel, deutschland, wissenschaftsko
 - [[DenkerVita/Michael Sterner|Michael Sterner]] — Energiesystemforscher. Sterner zeigt technische Lösungen, Benecke die Dringlichkeit, die keine Verzögerung erlaubt.
 - [[DenkerVita/Heinz Bude|Heinz Bude]] — Soziologe der Angst. Budes Angstgesellschaft trifft auf Beneckes paradoxen Befund: Die Jugend hat zu wenig Angst vor dem Richtigen.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Mark Benecke — Umwelt-Messungen Sommer 2026]] — Forensische Klimadaten-Analyse mit 12 Statistikcharts, Daten-Quellen bis Mai 2026
 - [[Mark Benecke — Fragerunde Time Is Up 2026]] — Fragerunde mit Hartlieb, Pöttinger: Konsumkritik vs. Systemkritik, 2050-Horizont, Artensterben, Hoffnung als Handlungsspielraum

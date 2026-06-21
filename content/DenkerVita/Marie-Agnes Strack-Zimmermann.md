@@ -61,6 +61,6 @@ Wirtschaftsliberal (FDP), aber in der Sicherheitspolitik eher transatlantisch-re
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[StreitClub — Europa allein zu Haus]] — Paneldebatte über europäische Verteidigungsautonomie (April 2026)

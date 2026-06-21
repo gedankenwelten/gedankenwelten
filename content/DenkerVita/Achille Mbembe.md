@@ -97,7 +97,7 @@ Seit 2000 ist Mbembe **Research Professor am Wits Institute for Social and Econo
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Mbembe — The Earthly Community]]
 

@@ -86,7 +86,7 @@ Stilistisch wird er als „Marxismus im Maßanzug" beschrieben — rhetorisch ve
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]]
 - [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]]

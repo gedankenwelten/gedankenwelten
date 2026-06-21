@@ -122,7 +122,7 @@ Was sich aber ablesen lässt:
 - **Johannes Birkner** (Hochschule Anhalt) — Algenbiotechnologie, Biosolarzentrum-Co-Leitung
 - **Wissenschaftliche Partner** — Universitäten und Institute in Polen, Italien, Saudi-Arabien (via GICON-Kooperationen)
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 *(alle Notes im Vault die diese Person behandeln)*
 

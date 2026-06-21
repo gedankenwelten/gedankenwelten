@@ -106,7 +106,7 @@ Schultz ist Naturwissenschaftler ohne explizite politische Positionierung. Seine
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 Diese DenkerVita sollte verlinkt sein von:
 - Notes zum Thema Dopamin und Belohnungssystem

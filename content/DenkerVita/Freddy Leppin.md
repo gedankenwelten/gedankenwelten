@@ -91,7 +91,7 @@ Nicht: Ideologische Schärfe, sondern pragmatische Problemorientierung.
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[GoodNews/Good News - Gute Nachrichten April 2026]]
 - [[GoodNews/Good News - Gute Nachrichten April 2026 Teil 2]]

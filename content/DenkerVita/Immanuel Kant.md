@@ -104,7 +104,7 @@ Kant ist kein Parteipolitiker, aber seine Philosophie hat tiefgreifende politisc
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Immanuel Kant — Was ist Aufklärung?]] — Kants Aufklärungsmanifest: Sapere aude, Unmündigkeit, öffentlicher Vernunftgebrauch
 - [[Walther Ziegler — Kant in 60 Minuten]] — Kompakte Einführung in Kritik der reinen Vernunft + Kritik der praktischen Vernunft: Erkenntnistheorie, 12 Kategorien, kategorischer Imperativ

@@ -93,7 +93,7 @@ Diese Position ist **konservativ** in dem Sinne, dass sie keine Heilshoffnung in
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 Alle Notes im Vault, die Carlo Cipolla behandeln oder seine Konzepte verwenden:
 

@@ -73,6 +73,6 @@ Ternès lässt sich nicht einfach auf dem klassischen Links-Rechts-Spektrum vero
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/NANO Talk — Eliten Machtmissbrauch und Verantwortung]] — Podiumsdiskussion mit Ternès zu Elite, Ethik und Systemverantwortung

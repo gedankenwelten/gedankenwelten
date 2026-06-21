@@ -72,6 +72,6 @@ tags: [denker-vita, energiepolitik, deutschland, wirtschaft, geopolitik]
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 *(Noch keine eigenständige Note zum Meyer/Hegenberg-Podcast vorhanden — Transkript liegt unter `Transkripte/Meyer_Hegenberg_Energiewende_China_[...].de.vtt`)*

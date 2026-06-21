@@ -63,7 +63,7 @@ Sterner ist parteilos und positioniert sich als wissenschaftlicher Pragmatiker. 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade|Energiewende-Studie und Reiche-Blockade]]
 - [[Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft|Reiche gegen Marktwirtschaft]]

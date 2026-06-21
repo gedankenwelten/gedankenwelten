@@ -98,6 +98,6 @@ Petersdorff ist kein politischer Denker im engeren Sinne, aber seine Positionen 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]

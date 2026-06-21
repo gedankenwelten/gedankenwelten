@@ -70,6 +70,6 @@ Dezidiert links, marxistisch geprägt in der Kapitalismuskritik. Geht offen dami
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Streitgespräch bei Tim Gabel (April 2026)

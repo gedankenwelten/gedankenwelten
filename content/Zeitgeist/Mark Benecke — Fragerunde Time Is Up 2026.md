@@ -199,7 +199,7 @@ Die Ernährungskrise, die Benecke global beschreibt, hat eine innergesellschaftl
 
 ### → [[DenkerVita/Mark Benecke|Mark Benecke — DenkerVita]]
 
-Alle Cortex-Notes zu Mark Benecke im Überblick.
+Alle Gedankenwelten-Notes zu Mark Benecke im Überblick.
 
 ### → [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
 

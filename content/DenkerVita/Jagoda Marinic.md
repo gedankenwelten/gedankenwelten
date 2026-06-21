@@ -75,7 +75,7 @@ Ihre Botschaft zur Meinungsfreiheit auf der re:publica 26: Freiheit ist nicht a 
 
 *(wird von Montaigne befüllt — hier leer lassen)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/re:publica 26 — Jagoda Marinić & Ronen Steinke - Meinungsfreiheit]]
 - [[Denker/Jagoda Marinić — Sanfte Radikalität und Gesellschaftsgestaltung]]

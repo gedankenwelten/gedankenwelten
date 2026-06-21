@@ -83,6 +83,6 @@ Verwandter Habitus: der Analyst gegen die Desinformation. Schoenauer (Topfvollgo
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Wertewesten — Eiserner Besen oder bessere Argumente]] — Streitgespräch mit Torsten Heinrich (Juni 2026): Reicher verteidigt kompromisslos die Meinungsfreiheit gegen Heinrichs „eisernen Besen" — Poppers Toleranzparadox, live verhandelt

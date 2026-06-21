@@ -82,6 +82,6 @@ Abgrenzung: Staiy ist kein Anti-Institutionalist — er plädiert für *bessere*
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 *(werden ergänzt, wenn Notes im Vault Bezug auf Staiy nehmen)*

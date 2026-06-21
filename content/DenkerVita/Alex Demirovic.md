@@ -7,7 +7,7 @@ tags: [denker-vita, philosophie, macht, kritische-theorie, demokratie]
 
 # Alex Demirović — DenkerVita
 
-→ Cortex-Notes: [[Demirovic und Lorey — Foucaults Gouvernementalitaet]]
+→ Gedankenwelten-Notes: [[Demirovic und Lorey — Foucaults Gouvernementalitaet]]
 
 ---
 
@@ -81,6 +81,6 @@ Linkssozialistische, marxistische Position — hält an der Vision einer Gesells
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Foucaults Gouvernementalitäts-Vorlesung: Neoliberalismus als Regierungskunst, Staat als Effekt, fehlende sozialistische Gouvernementalität, Sorgebeziehungen als Ausweg

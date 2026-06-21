@@ -46,6 +46,6 @@ Anti-Trump, links von der Demokratischen Partei. Lance versteht sich nicht als D
 
 *(Montaigne befüllt diesen Abschnitt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Paul Lance — Amerikaner fragt Deutsche ueber Trump]]

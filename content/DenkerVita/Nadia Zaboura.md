@@ -83,7 +83,7 @@ Sie ist nicht anti-technologisch, sondern nennt klare strukturelle Probleme: Alg
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 *(wird später befüllt: alle Notes im Vault, die diese Person behandeln)*
 

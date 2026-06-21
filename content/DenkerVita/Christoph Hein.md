@@ -72,6 +72,6 @@ Christoph Hein ist als FAZ-Journalist dem **liberal-konservativen Spektrum** zuz
 - [[DenkerVita/Tim Meyer]] — Beide analysieren Chinas Rolle in der globalen Wirtschaft. Meyer fokussiert auf Cleantech und Energiepolitik als industrielogische Transformation, Hein auf die geopolitische Instrumentalisierung von Wirtschaftsbeziehungen.
 - [[DenkerVita/Heiner Flassbeck]] — Komplementäre Perspektiven auf die Weltwirtschaft: Flassbeck argumentiert aus keynesianischer Makroökonomie (Lohnstückkosten, Leistungsbilanzen), Hein aus der geostrategischen Beobachtung vor Ort.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
-*(Aktuell keine Cortex-Notes zu Christoph Hein im Vault)*
+*(Aktuell keine Gedankenwelten-Notes zu Christoph Hein im Vault)*

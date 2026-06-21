@@ -54,6 +54,6 @@ Reisereportage: *Der Bus* (VDRJ-Preis 2025)
 
 *Pflege durch Montaigne*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]

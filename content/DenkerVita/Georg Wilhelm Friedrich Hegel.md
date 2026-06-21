@@ -124,6 +124,6 @@ Hegel ist politisch nicht eindeutig einzuordnen — und genau das macht ihn so w
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Hegel in 60 Minuten]] — Kompakteinführung in Hegels Philosophie

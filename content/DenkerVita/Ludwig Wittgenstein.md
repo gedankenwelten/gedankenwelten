@@ -90,6 +90,6 @@ Die politische Wirkung kam nach ihm: Die Kritische Theorie (Adorno, Marcuse, Hab
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Wittgenstein in 60 Minuten]] — Linguistic Turn, Bildtheorie, Tractatus, Sprachspiele, beredetes Schweigen

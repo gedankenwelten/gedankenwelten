@@ -74,6 +74,6 @@ Adorno war Marxist in dem Sinne, dass er den Kapitalismus als strukturelles Grun
 - [[DenkerVita/Michel Foucault]] — Beide analysieren Herrschaft als in Institutionen und Sprache eingebettet, nicht nur als offene Gewalt. Foucaults „Diskurs" und Adornos „Verblendungszusammenhang" sind Geschwister
 - [[DenkerVita/Niklas Luhmann]] — Luhmann beobachtet Gesellschaft als System von außen, ohne normativen Anspruch — das exakte Gegenteil von Adornos kritischer Theorie, die immer urteilt
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Adorno in 60 Minuten]] — Zugängliche Einführung in Adornos Gesamtwerk

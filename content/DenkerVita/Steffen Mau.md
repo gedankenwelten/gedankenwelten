@@ -71,7 +71,7 @@ Mau versteht sich als empirischer Soziologe, nicht als politischer Aktivist. Er 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Steffen Mau — Spaltung der Gesellschaft]]
 - [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt]]

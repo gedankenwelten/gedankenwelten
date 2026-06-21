@@ -136,7 +136,7 @@ Marquardt positioniert sich nicht explizit politisch, aber seine Philosophie hat
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 Alle Gedankenwelten-Notes die Marquardt behandeln:
 

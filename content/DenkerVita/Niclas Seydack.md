@@ -74,6 +74,6 @@ Seydack lässt sich nicht in ein klassisches politisches Schema pressen. Er ist 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]]

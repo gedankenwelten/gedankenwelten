@@ -17,7 +17,7 @@ tags: [denker-vita, reise, fahrrad, begegnung, nachhaltigkeit]
 
 </details>
 
-→ Cortex-Notes: [[Hans Maggi — Sokotra]]
+→ Gedankenwelten-Notes: [[Hans Maggi — Sokotra]]
 
 ---
 
@@ -97,6 +97,6 @@ Der Wandel vom werbefreien Weltreisenden zum kooperationsfinanzierten Reiseerzä
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Hans Maggi — Sokotra]] — Radreise durch die Insel Sokotra (Jemen) als erstes „exotisches Projekt" nach der Weltreise

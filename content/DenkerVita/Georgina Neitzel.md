@@ -55,6 +55,6 @@ Komplexe Systeme erlauben keine zuverlässige Punkt-Prognose. Jede Prognose redu
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]] — re:publica 26, gemeinsam mit Raphael Iltisberger

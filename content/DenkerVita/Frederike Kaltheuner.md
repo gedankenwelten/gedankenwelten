@@ -84,7 +84,7 @@ Ungerechtigkeiten durch KI sind nicht zufällig oder nachträglich behebbar — 
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/re:publica 26 — KI-Industriepolitik und europäische Souveränität]] — re:publica 26 Session
 

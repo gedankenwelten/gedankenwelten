@@ -70,7 +70,7 @@ Sie gilt in Deutschland als wichtige Stimme auf der Seite von Mediendemokratie u
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Codes der extremen US-Rechten (re:publica 26)]]
 

@@ -74,7 +74,7 @@ Heinrich bezeichnet sich als „freiheitlich-liberal" und „pro-amerikanisch, p
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Torsten Heinrich — Was die Tagesschau verschweigt]] — 4:23h-Interview auf ungeskriptet (April 2026): Quellenkritik, Neutralität, Ukraine, Israel, Drohnen, Biografie
 - [[Torsten Heinrich — Ukraine bewusst geopfert]] — Kurzanalyse (Mai 2026): Eskalationsmanagement statt Strategie, Biden-Dilemma, Bundeswehr-Grenzen, Scholz' Rolle

@@ -126,7 +126,7 @@ Ein Community-Konzept (Details begrenzt verfügbar), das vermutlich auf Vernetzu
 
 *(wird von Montaigne befüllt — hier leer lassen)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] — Felix: Wie ein virales Interview einen 17-Jährigen aus der Neonazi-Szene brachte (30.12.2025)
 

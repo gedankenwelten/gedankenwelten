@@ -60,7 +60,7 @@ Wesche arbeitet in der Tradition der Frankfurter Schule (Adorno, Horkheimer, Hab
 - **Eva von Redecker** — Faschismus und Eigentum: Parallele Kritik der modernen "Eigentumslogik" als strukturelle Gewalt.
 - **Hartmut Rosa** — Resonanz und Unverfügbarkeit: Beide suchen nach nicht-instrumentellen Verhältnissen zur Natur.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 *(Alle Notes im Vault, die diese Person oder ihre Thesen behandeln)*
 

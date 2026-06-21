@@ -82,7 +82,7 @@ Er wird in Diskursen um Faschismus und Mediendemokratie mit [[DenkerVita/Götz A
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - (wird später befüllt)
 

@@ -85,6 +85,6 @@ Kafka lebte in einer dreifachen Minderheitensituation: deutsch in Prag, jüdisch
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Kafka in 60 Minuten]] — Kafka als Philosoph: Seil-Metapher, Totsagen, existenzielle Angewiesenheit

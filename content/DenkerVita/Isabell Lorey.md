@@ -7,7 +7,7 @@ tags: [denker-vita, philosophie, macht, prekaritaet, queer-theorie]
 
 # Isabell Lorey — DenkerVita
 
-→ Cortex-Notes: [[Demirovic und Lorey — Foucaults Gouvernementalitaet]]
+→ Gedankenwelten-Notes: [[Demirovic und Lorey — Foucaults Gouvernementalitaet]]
 
 ---
 
@@ -79,6 +79,6 @@ Links-emanzipatorisch, queer-feministisch. Klar im Spektrum kritischer Theorie v
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Foucaults Gouvernementalitäts-Vorlesung: Neoliberalismus als Regierungskunst, Humankapital, Prekarisierung, fehlende sozialistische Gouvernementalität

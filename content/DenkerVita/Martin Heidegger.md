@@ -95,6 +95,6 @@ Die philosophische Wirkung ist davon nicht abtrennbar, aber auch nicht darauf re
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Walther Ziegler — Heidegger in 60 Minuten]] — Einführungsvortrag in die Kernkonzepte von *Sein und Zeit*

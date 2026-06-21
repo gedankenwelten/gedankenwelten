@@ -56,6 +56,6 @@ Tiana ist Videoproduzentin, keine Autorin. Keine Buchpublikationen.
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] — Drei-Videos-Note, Juni 2026
