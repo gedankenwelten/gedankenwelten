@@ -22,23 +22,47 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Gedanken
+### Geistesblitz
 
-> **20.06.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
->
-> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
+> **21.06.** — [[Geistesblitz/Erwin Thoma — Strategien der Natur|Erwin Thoma — Strategien der Natur]]
 
-> **18.06.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen]]
->
-> Sechs Sätze, alt wie das Denken selbst — und jeder noch immer ein Funke, der ein Leben neu ordnen kann. Eine Wanderung von Kant bis Zhuangzi, vom Staunen bis zum Loslassen.
+> **21.06.** — [[Geistesblitz/Manfred Spitzer — Hirnforscher Feldbach|Manfred Spitzer — Hirnforscher Feldbach]]
 
-> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
+> **21.06.** — [[Geistesblitz/Andreas Zimpel — Neurodiversität|Andreas Zimpel — Neurodiversität]]
+
+> **21.06.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
+
+> **21.06.** — [[Geistesblitz/Gerald Huether — Lebendigkeit und das Ende der Hierarchien|Gerald Hüther — Lebendigkeit und das Ende der Hierarchien]]
+
+> → *1 weitere in* [[Geistesblitz]]
+
+### Spuren
+
+> **21.06.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
 >
-> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
+> Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?
+
+> **19.06.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
+>
+> Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
+
+> **15.06.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
+>
+> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
+
+> **15.06.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
+>
+> Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
+
+> **15.06.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+>
+> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
+
+> → *3 weitere in* [[Spuren]]
 
 ### GoodNews
 
-> **20.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
+> **21.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
 
 ### Zeitgeist
 
@@ -54,29 +78,19 @@ Die Gedankenwelten (luc)
 >
 > Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
 
-### Spuren
+### Gedanken
 
-> **19.06.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
+> **18.06.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen]]
 >
-> Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?
+> Sechs Sätze, alt wie das Denken selbst — und jeder noch immer ein Funke, der ein Leben neu ordnen kann. Eine Wanderung von Kant bis Zhuangzi, vom Staunen bis zum Loslassen.
 
-> **19.06.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
+> **20.06.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
 >
-> Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
+> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
 
-> **18.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
+> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
 >
-> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
-
-> **16.06.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
->
-> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
-
-> **15.06.** — [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?]]
->
-> Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird.
-
-> → *3 weitere in* [[Spuren]]
+> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
 
 ### Denker
 
@@ -101,20 +115,6 @@ Die Gedankenwelten (luc)
 > **01.06.** — [[Panorama/Energie|Energie]]
 >
 > Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
-
-### Geistesblitz
-
-> **12.06.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
->
-> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
-
-> **09.06.** — [[Geistesblitz/Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke|Stromversorgung 2038 — ohne neue Gaskraftwerke]]
->
-> Eine nüchterne Durchrechnung: Wie schließt ein 100%-Erneuerbare-System die brutale 104,6-Gigawatt-Lücke einer zehntägigen Dunkelflaute — ganz ohne fossile Neubauten?
-
-> **08.06.** — [[Geistesblitz/ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt]]
->
-> Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
 
 <!-- JOURNAL:END -->
 

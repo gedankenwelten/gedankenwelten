@@ -16,6 +16,7 @@ konfidenz: 58%
 review-takt: 21-tage
 eroeffnet: 2026-06-19
 aktualisiert: 2026-06-19
+presseschau_aktualisiert: 2026-06-21
 description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte."
 ---
 
@@ -129,6 +130,14 @@ Der zweite Befund ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — A
 
 ## Verlauf
 
+### 2026-06-21 — Presseschau: Hormuz an/aus — die Waffenruhe als Bühne (Konfidenz unverändert 58 %)
+
+**Befund (Presseschau, datiert):** Drei Tage nach dem Islamabad-Memorandum (17.06.) ist die Ruhe brüchig. Am **20.06.** passierten laut US-Militär 55 Schiffe die Straße von Hormuz — dann kündigte Teheran an, die Meerenge **erneut zu schließen** ([NYT](https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html)); US-Truppen überwachen sie, „um sie offen zu halten" ([Middle East Eye](https://www.middleeasteye.net/live-blog/live-blog-update/us-forces-monitoring-strait-hormuz-ensure-it-stays-open)). Zugleich testet Israel die Waffenruhe: Schläge im Südlibanon, während die Regierung formell Feuer-Stopp befiehlt, aber „in Position bleiben" ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes), [TASS](https://tass.com/world/2149357)).
+
+**Deutung:** Der Krieg ist beendet, das Druckmittel nicht. Iran greift *nach* der Waffenruhe wieder zum Hormuz-Hebel — kein Bild des Kollapses, eher fortgesetzter Handlungsfähigkeit. Das stützt vorsichtig die Falsifikations-Seite „gestärkt" (*Iran rekonstituiert regionale Allianzen, Hormuz als Druckmittel*) — ohne sie zu beweisen.
+
+**Gegenbeobachtung (Pflicht):** (1) Einen Hebel zu schwenken ist nicht Stärke — es kann Verhandlungsdruck *aus* Schwäche sein. (2) Quellen-Gate: Al Jazeera (QA) und Middle East Eye sind regional-parteiisch auf Nahost, TASS (RU) interessengeleitet — nur die **NYT** (US-liberal) ist Mainstream. Der *Kern* (Hormuz an/aus, Waffenruhe brüchig) trägt über die Lager hinweg; die *Lesart* (wer gewinnt) bleibt offen. (3) Drei Tage sind kein Trend — im 21-Tage-Takt kein Anlass, die Konfidenz zu bewegen.
+
 ### 2026-06-19 — Anlage (Konfidenz — → 58 %)
 
 **Befund (der Bogen, nackt und datiert):**
@@ -210,6 +219,12 @@ Das augenzwinkernde Schwester-Stück: Die hier ernst eingehegte „banale Obama-
 - [The Conversation — Trump's JCPOA-Ausstieg 2018 als Wurzel der Eskalation](https://theconversation.com/trumps-first-term-lies-at-the-heart-of-escalation-between-iran-and-israel-259199)
 - [Newsweek — All the Ways Trump Has Undone Obama's Legacy (JCPOA als Teil des Musters)](https://www.newsweek.com/trump-undoing-obamas-legacy-and-iran-nuclear-deal-latest-casualty-916150)
 - [Boston Globe — Trump's greatest mission: erasing Obama's legacy](https://www.bostonglobe.com/news/nation/2017/12/16/trump-greatest-mission-erasing-obama-legacy/OA9M4qwS2hHlOj3MGLxGxK/story.html)
+
+*Presseschau 21.06.2026 — Hormuz an/aus, plurale Färbung (Quellen-Gate):*
+- [NYT — Iran Threatens to Close Strait of Hormuz Again (US-liberal, Mainstream)](https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html)
+- [Al Jazeera — Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes (QA, regional-parteiisch)](https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes)
+- [Middle East Eye — US forces monitoring Strait of Hormuz to ensure it stays open (ME, regional-parteiisch)](https://www.middleeasteye.net/live-blog/live-blog-update/us-forces-monitoring-strait-hormuz-ensure-it-stays-open)
+- [TASS — Israel orders army to hold fire in Lebanon but stay in position (RU staatsnah, interessengeleitet)](https://tass.com/world/2149357)
 
 ## Weiterdenken
 
