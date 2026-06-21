@@ -145,15 +145,15 @@ Manow analysiert Globalisierung als Treiber des Rechtsrucks; EU-Mercosur und EU-
 
 Paralleles Format, US-Perspektive: Institutionelle Gegenkräfte (Supreme Court, Meinungswandel) als Gegengewicht zur Trump-Herrschaft — gute Nachrichten aus einer anderen Weltregion.
 
-### → [[Good News — Gute Nachrichten April 2026]]
+### → [[Good News - Gute Nachrichten April 2026]]
 
 Fortsetzung der Reihe: April liefert Eisbär-Resilienz, Nordsee-Energienetz, US-Medizinschulden, Guineawurm-Ausrottung und Natrium-Ionen-Batterien — im Längsschnitt mit März lässt sich ablesen, welche Themenfelder der Kanal systematisch beobachtet.
 
-### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+### → [[Good News - Gute Nachrichten April 2026 Teil 2]]
 
 Zweite April-Episode: Indigene Munduruku stoppen Cargill, Yoon Suk-yeol lebenslänglich, EU-Verfahren gegen TikToks Suchtdesign, Floreana-Schildkröte zurück, Microsoft Project Silica — der Kanon der Kategorien (Demokratie, Naturschutz, Tier-Comebacks, Tech) wiederholt sich in Variationen.
 
-### → [[Good News — Gute Nachrichten Mai 2026]]
+### → [[Good News - Gute Nachrichten Mai 2026]]
 
 Mai-Ausgabe setzt die Serie fort: Ecuador-Korridor, Kākāpō-Rekordsaison, Plastikhandel-Rückgang, CERN-Antimaterie, Chile eliminiert Lepra — erstmals Grundlagenphysik als neue Dimension im Nachrichtenkanon.
 

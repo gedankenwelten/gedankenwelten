@@ -150,11 +150,11 @@ Quelle: [Your Monthly Dose of Good News | April](https://www.youtube.com/watch?v
 
 ## Verbindungen
 
-### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+### → [[Good News - Gute Nachrichten April 2026 Teil 2]]
 
 Direkte Schwesternote (Teil 2 desselben April-Releases): Andere Geschichten — Cargill-Niederlage am Amazonas, Yoon lebenslänglich, EU vs. TikTok, Floreana-Schildkröte, Glasspeicher — gleicher epistemischer Rahmen.
 
-### → [[Good News — Positive Nachrichten März 2026]]
+### → [[Good News - Positive Nachrichten März 2026]]
 
 Schwesternote im Längsschnitt: Wer beide zusammen liest, erkennt ob "Good News" ein konsistentes epistemisches Programm verfolgt (Gegennarrativ zur Dauerkrise) oder nur Zufallsfunde sammelt. Erst im Vergleich zweier Ausgaben wird der kuratierte Blick sichtbar.
 
@@ -182,7 +182,7 @@ Der Guineawurm-Fall ist das reinste Beispiel für Kehnels Commons-These: Ausrott
 
 Nordsee-Netz als direkte Reaktion auf Russlands Invasion: Fossile Abhängigkeit erzeugt geopolitische Erpressbarkeit, und Krisen beschleunigen die Loslösung schneller als Klimaargumente. Kemferts normatives Argument bekommt durch diese Note den empirischen Beweis, dass der Druck gerade wirkt.
 
-### → [[Good News — Gute Nachrichten Mai 2026]]
+### → [[Good News - Gute Nachrichten Mai 2026]]
 
 Mai-Ausgabe: Ecuador-Korridor, Kākāpō-Rekordsaison, Amsterdams Werbeverbot für Fossile, CERN transportiert Antimaterie, Chile eliminiert Lepra — Energie und Artenschutz als rote Fäden der Serie.
 

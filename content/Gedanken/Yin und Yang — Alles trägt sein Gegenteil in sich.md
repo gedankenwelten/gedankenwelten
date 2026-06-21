@@ -52,6 +52,9 @@ Das gilt für Kemper (links-antifaschistisch), für Manow (strukturell-konservat
 
 ## Verbindungen
 
+### → [[Hans Maggi — Sokotra]]
+Sokotra zeigt das Prinzip als Reise: Armut neben Zufriedenheit, Plastikmüll neben Magie, harte Sitten neben überwältigender Herzlichkeit. *Beides ist wahr* — die Note verweigert das Urteil, ohne wegzuschauen.
+
 ### → [[Vipassana/Vipassana — Zehn Tage]]
 Equanimity (Gleichmut) bei Goenka ist nicht Gleichgültigkeit — es ist die Fähigkeit, Dinge so zu sehen wie sie sind, ohne sie sofort in gut/schlecht einzuteilen. Dieser Grundsatz ist das intellektuelle Äquivalent dazu.
 

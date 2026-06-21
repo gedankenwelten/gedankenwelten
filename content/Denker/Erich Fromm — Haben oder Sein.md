@@ -248,6 +248,10 @@ Fromm ist nicht unbestreitbar. Drei echte Einwände:
 
 ## Verbindungen
 
+### → [[Hans Maggi — Sokotra]]
+
+Abdullah, der Höhlenmensch von Sokotra, ist der Sein-Modus in Reinform: vierundsechzig Jahre, fast ohne Besitz, und der zufriedenste Mensch der ganzen Reise. Fülle liegt im Sein, nicht im Haben — hier nicht als These, sondern als Leben.
+
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Rosa diagnostiziert dasselbe Phänomen soziologisch: Die Steigerungsgesellschaft macht Resonanz strukturell unwahrscheinlich. Fromm sagt dasselbe psychoanalytisch: Die Haben-Gesellschaft produziert notorisch unglückliche Menschen. Beide zeigen: Das System untergräbt das, wonach Menschen sich wirklich sehnen.

@@ -602,3 +602,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Rutger Bregman
 **Status:** ✓ Vollanalyse → [[DenkerVita/Rutger Bregman]]
+
+## Hans Maggi
+**Status:** ✓ Vollanalyse → [[DenkerVita/Hans Maggi]]

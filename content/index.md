@@ -22,6 +22,12 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Kultur
+
+> **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
+>
+> Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
+
 ### Zeitgeist
 
 > **19.06.** — [[Zeitgeist/Horst Evers — Kostenloser Nahverkehr als Utopie|Horst Evers — Kostenloser Nahverkehr als Utopie]]
@@ -102,7 +108,7 @@ Die Gedankenwelten (luc)
 
 ### GoodNews
 
-> **06.06.** — [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 3|Good News — Gute Nachrichten Mai 2026 Teil 2]]
+> **26.05.** — [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2|Good News — Gute Nachrichten Mai 2026 Teil 2]]
 
 ### Geistesblitz
 

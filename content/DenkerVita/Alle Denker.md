@@ -113,6 +113,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## H
 
+**[[DenkerVita/Hans Maggi|Hans Maggi]]** — Reise-YouTuber und Fahrrad-Weltreisender; Projekt *Rückenwind* (~800 Tage um die Welt auf Bambusrädern), Begegnung vor Landschaft, Langsamkeit als Methode
+
 **[[DenkerVita/Heinz Bude|Heinz Bude]]** — Soziologe, em. Professor Kassel, Gründungsdirektor documenta-Institut; Generationssoziologie als Schlüssel zur Bundesrepublik, kommunikatives Beschweigen
 
 **[[DenkerVita/Heiner Flassbeck|Heiner Flassbeck]]** — Ökonom, ehem. Staatssekretär BMF unter Lafontaine, Chefökonom UNCTAD; Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden; Keynesianischer Einzelkämpfer im ordoliberalen Deutschland

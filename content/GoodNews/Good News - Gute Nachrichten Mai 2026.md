@@ -191,15 +191,15 @@ Weltweit werden noch über 200.000 neue Lepra-Fälle pro Jahr gemeldet. Die WHO 
 
 ## Verbindungen
 
-### → [[Good News — Gute Nachrichten April 2026]]
+### → [[Good News - Gute Nachrichten April 2026]]
 
 Direkte Fortsetzung der Monatsserie. April behandelte Nordsee-Windnetz und Natrium-Ionen-Batterien — die Mai-Ausgabe setzt mit Amsterdam-Werbeverbot und IEA-Renewables-Push dieselbe Energiewende-Chronik fort. Im Längsschnitt zeigt sich: Erneuerbare sind das Thema, das jede Ausgabe durchzieht.
 
-### → [[Good News — Gute Nachrichten April 2026 Teil 2]]
+### → [[Good News - Gute Nachrichten April 2026 Teil 2]]
 
 Tierschutz-Parallelen: Floreana-Schildkröte (April) und Kākāpō (Mai) sind beides Artenschutz-Erfolge durch jahrzehntelange Handarbeit ohne Tech-Durchbruch. Cargill-Stopp durch Indigene (April) und Ecuadors Korridor (Mai) zeigen dasselbe: Lokale Naturschutz-Erfolge gegen globale Strukturprobleme.
 
-### → [[Good News — Positive Nachrichten März 2026]]
+### → [[Good News - Positive Nachrichten März 2026]]
 
 Start der Serie im Vault — der Vergleich über drei Monate zeigt die wiederkehrenden Kategorien: Umwelt, Energie, Tiere, Gesundheit. Die Mai-Ausgabe ergänzt erstmals Grundlagenphysik (CERN-Antimaterie) als neue Dimension.
 

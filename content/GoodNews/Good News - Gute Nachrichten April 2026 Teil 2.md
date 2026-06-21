@@ -176,11 +176,11 @@ Quelle: [Your Monthly Dose of Good News | April](https://www.youtube.com/watch?v
 
 ## Verbindungen
 
-### → [[Good News — Gute Nachrichten April 2026]]
+### → [[Good News - Gute Nachrichten April 2026]]
 
 Schwesternote (Teil 1 des April-Releases): Andere Geschichten, gleicher epistemischer Rahmen. Der Vergleich macht sichtbar, dass *Good News* ein konsistentes Programm verfolgt — nicht Zufallsfunde, sondern bewusste Gegenkuration zur Negativitäts-Logik des Mainstream-Nachrichtenstroms.
 
-### → [[Good News — Positive Nachrichten März 2026]]
+### → [[Good News - Positive Nachrichten März 2026]]
 
 Längsschnitt: Die Wiederkehr struktureller Themen (Naturschutz, Tier-Comebacks, demokratische Resilienz) zeigt, dass es kein Zufallsmuster ist, sondern systematisch unterberichtete Realität.
 
@@ -216,7 +216,7 @@ Südkoreas Selbstputsch-Antwort ist das Gegenmodell zu Maus „Triggerpunkten": 
 
 Die Cargill-Brasilien-Story und der Yoon-Prozess sind beide empirische Belege für Kellers These: Recht funktioniert dezentral, durch Eigeninteressen und Druck von unten — nicht durch eine zentrale Weltautorität. Indigene Munduruku und südkoreanische Demonstranten sind die *Träger* dieses dezentralen Rechts.
 
-### → [[Good News — Gute Nachrichten Mai 2026]]
+### → [[Good News - Gute Nachrichten Mai 2026]]
 
 Mai-Ausgabe: Ecuadors Wildtierkorridor und Indonesiens Elefantenreit-Verbot als Artenschutz-Parallelen zu Floreana-Schildkröte und Cargill-Stopp — lokale Naturschutz-Erfolge gegen globale Strukturprobleme.
 
