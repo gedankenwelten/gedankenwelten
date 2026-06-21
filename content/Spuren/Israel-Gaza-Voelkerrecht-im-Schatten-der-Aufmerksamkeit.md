@@ -13,6 +13,7 @@ konfidenz: 55%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
 aktualisiert: 2026-06-14
+presseschau_aktualisiert: 2026-06-21
 description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen."
 ---
 
@@ -54,6 +55,14 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 **Kalt, wenn:** dauerhafte politische Lösung, Thema legitim abgeschlossen.
 
 ## Verlauf
+
+### 2026-06-21 — Presseschau: Wenn die Kameras selbst zum Ziel werden (Konfidenz unverändert 55 %)
+
+**Befund (Presseschau, datiert):** Am **20.06.** tötete ein israelischer Luftschlag im Bureij-Lager (Zentral-Gaza) den Al-Jazeera-Kameramann **Ahmed Wishah** und fünf weitere, darunter zwei Schwestern ([PBS](https://www.pbs.org/newshour/world/israeli-strikes-in-gaza-kill-6-including-2-children-and-an-al-jazeera-cameraman), [NBC](https://www.nbcnews.com/world/gaza/israeli-airstrike-kills-al-jazeera-cameraman-rcna350990)). Es ist der **12. getötete Al-Jazeera-Mitarbeiter** seit Oktober 2023; Wishahs Bruder, ebenfalls AJ-Journalist, starb im April 2026 ([Al Jazeera](https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza)). Die IDF nennt den Schlag „präzise" und Wishah ein Hamas-Mitglied; Al Jazeera und das CPJ weisen das zurück und verweisen auf ein dokumentiertes Muster, getötete Journalisten ohne belastbaren Beleg als Terroristen zu rahmen ([Times of Israel](https://www.timesofisrael.com/idf-strikes-in-gaza-said-to-kill-at-least-9-including-al-jazeera-cameraman/)).
+
+**Deutung:** Die Spur fragt, ob nachlassende Aufmerksamkeit mit nachlassender Rechenschaft korreliert. Hier wird die Frage bitter konkret: Es sind die **Kameras selbst**, die verstummen. Wer die Berichtenden tötet, beschleunigt genau das Versanden im Schatten, das die These beschreibt — ob als Absicht oder Nebenwirkung bleibt offen.
+
+**Gegenbeobachtung (Pflicht):** (1) In einem aktiven Kriegsgebiet sterben Journalisten auch ohne gezielte Absicht; ein Einzelfall belegt kein Muster — das **Muster** (12 AJ-Tote, CPJs dokumentierte Fälle) ist das Relevante, nicht der einzelne Schlag. (2) Die IDF-Behauptung „Hamas-Mitglied" ist **nicht widerlegt**, nur bestritten — belegt ist der Tod, umstritten die Rechtfertigung; beides auseinanderhalten. (3) Quellen-Gate bestanden: der Kern (die Tötung) trägt von Al Jazeera über die **neutrale** US-Berichterstattung (PBS, NBC) bis zur **israelischen** Times of Israel — die Lesart bleibt umkämpft, der Befund nicht.
 
 ### 2026-06-14 — Anlage (Konfidenz — → 55 %)
 
@@ -105,6 +114,12 @@ Dieselbe Region, andere Achse: Dort wird Recht *vertagt*, hier im Angriff selbst
 - [Human Rights Watch — World Report 2026: Israel and Palestine](https://www.hrw.org/world-report/2026/country-chapters/israel-and-palestine)
 - [MSF — "This is not a ceasefire": Life in Gaza six months on](https://www.msf.org/not-ceasefire-life-gaza-continues-be-suffocated-six-months)
 - [J Street — Six Months In: Assessing the Status of the Gaza Ceasefire](https://jstreet.org/six-months-in-assessing-the-status-of-the-gaza-ceasefire/)
+
+*Presseschau 21.06.2026 — Tötung des AJ-Kameramanns Ahmed Wishah, plurale Färbung (Quellen-Gate):*
+- [PBS — Israeli strikes in Gaza kill 6, including 2 children and an Al Jazeera cameraman (US-Mainstream, neutral)](https://www.pbs.org/newshour/world/israeli-strikes-in-gaza-kill-6-including-2-children-and-an-al-jazeera-cameraman)
+- [NBC News — Al Jazeera cameraman killed in Gaza (US-Mainstream, neutral)](https://www.nbcnews.com/world/gaza/israeli-airstrike-kills-al-jazeera-cameraman-rcna350990)
+- [Al Jazeera — Cameraman Ahmad Wishah killed in Israeli attack (QA, betroffen-parteiisch)](https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza)
+- [Times of Israel — IDF strikes said to kill at least 9, including Al Jazeera cameraman (IL, Gegenseite — zitiert IDF-Version)](https://www.timesofisrael.com/idf-strikes-in-gaza-said-to-kill-at-least-9-including-al-jazeera-cameraman/)
 
 ## Weiterdenken
 
