@@ -108,7 +108,10 @@ export function computeTier(
   now: Date = new Date(),
 ): { tier: number; when: Date } {
   const fm = (page.frontmatter ?? {}) as Record<string, unknown>
-  const created = page.dates?.created ?? page.dates?.modified
+  // created aus dem `date:`-Frontmatter (stabiles Erstellungsdatum) — NICHT aus
+  // page.dates.created: Quartz füllt das aus der Datei-Geburtszeit, die unser
+  // Sync-cp auf *heute* setzt → alte Notes würden sonst als Tier 0 (neu) gelten.
+  const created = parseFmDate(fm.date) ?? parseFmDate(fm.created) ?? page.dates?.created ?? page.dates?.modified
   const akt = parseFmDate(fm.aktualisiert) ?? parseFmDate(fm.updated)
   const fakt = parseFmDate(fm.forschung_aktualisiert)
   const pakt = parseFmDate(fm.presseschau_aktualisiert)
