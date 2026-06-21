@@ -269,6 +269,10 @@ Der Faden kehrt zurück. Ohne Herkunftsadresse. Und doch erkenne ich ihn.
 
 ## Verbindungen
 
+### → [[Hans Maggi — Sokotra]]
+
+Auf Sokotra wird der lange Löffel zur gelebten Szene: Menschen, deren Ernte verdorrt, teilen ihr Brot mit einem Fremden — und Hans, der Reisende, kann diese Ökonomie des Gebens zuerst gar nicht fassen. Die Parabel als Anschauung aus der Welt.
+
 ### → [[Der Leuchtturm — Warum Gedankenwelten existiert]]
 
 Der Leuchtturm sagt *warum*. Diese Note sagt *wie*. Zwei Seiten derselben Münze — der Leuchtturm als Existenzgrund der Gedankenwelten, das Netzwerk als die alltägliche Praxis, in der dieser Grund wirklich wird.

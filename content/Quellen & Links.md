@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Hans Maggi — Sokotra (Jemen)
+
+| | |
+|---|---|
+| **Videos** | [#1 Kultur-Schock Jemen](https://youtu.be/rdPiTOrRfwc) · [#2 Allein auf einer Insel im Jemen](https://youtu.be/70k2varnmdo) · [#3 Ich treffe einen echten Höhlenmenschen](https://youtu.be/sOgUYEeIcpE) |
+| **Notiz** | [[Hans Maggi — Sokotra]] |
+| **DenkerVita** | [[DenkerVita/Hans Maggi]] |
+| **Kanal** | [Hans Maggi (YouTube)](https://www.youtube.com/channel/UCPR1tzTGQV2Unxsrr4XuLQg) — Reise-/Fahrrad-Weltreise, Projekt „Rückenwind" |
+| **Transkripte** | `Gedankenwelten/Transkripte/HansMaggi_Jemen_1_KulturSchock_Transkript.txt` · `…_2_Sokotra_…` · `…_3_Hoehlenmensch_…` |
+
 ## Horst Evers / Fun Facts Utopia — Kostenloser ÖPNV
 
 | | |

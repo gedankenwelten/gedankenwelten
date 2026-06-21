@@ -184,19 +184,19 @@ Dazu direkt anschließend: Die DRC hat gerade einen Mpox-Ausbruch nach zwei Jahr
 
 ## Verbindungen
 
-### → [[Zeitgeist/Good News — Gute Nachrichten Mai 2026]]
+### → [[GoodNews/Good News - Gute Nachrichten Mai 2026]]
 
 Direkte Schwester-Note der gleichen Ausgabe: Die Mai-Doppelepisode behandelt die erste Hälfte (Ecuador-Korridor, Kākāpō, Plastikhandel, CERN-Antimaterie, Chile eliminiert Lepra) — diese Note die zweite. Beide zusammen ergeben das vollständige Bild der konstruktiven Nachrichtenlage im Mai 2026.
 
-### → [[Zeitgeist/Good News — Gute Nachrichten April 2026 Teil 2]]
+### → [[GoodNews/Good News - Gute Nachrichten April 2026 Teil 2]]
 
 Tier-Comeback-Parallelen: Die Floreana-Schildkröte (April) und der Juan-Fernández-Seebär (Mai) sind beide Artenschutz-Erfolge durch jahrzehntelange Handarbeit ohne technologischen Durchbruch — und beide starteten mit weniger als 100 verbleibenden Tieren. Die 30-Hills-Waldschutz-Story in April und Rumäniens Urwald-Korruption in Mai zeigen dieselbe Spannung: lokale Gemeinschaft als Naturschutzkraft gegen globale Wirtschaftsinteressen.
 
-### → [[Zeitgeist/Good News — Gute Nachrichten April 2026]]
+### → [[GoodNews/Good News - Gute Nachrichten April 2026]]
 
 Energiewende-Faden durch die Serie: Das Nordsee-Verbundnetz (April) und die Solar-Langzeitstudie (Mai) schreiben gemeinsam eine Chronik der Erneuerbare-Wirtschaftlichkeit — beide revidieren pessimistische Annahmen nach oben. Eisbären passen sich an (April), Solarpanele halten länger als gedacht (Mai): Resilienz als Serienthema.
 
-### → [[Zeitgeist/Good News — Positive Nachrichten März 2026]]
+### → [[GoodNews/Good News - Positive Nachrichten März 2026]]
 
 Serienstart im Vault. Die Gesundheits-Parallele ist besonders stark: Krebs-Überlebensraten auf Rekordhoch (März) und Kindersterblichkeit −60% (Mai) sind beide stille Erfolge, die Jahrzehnte dauerten und kaum Schlagzeilen produzieren. Was der Krebsfortschritt für den globalen Norden ist, ist die Kindersterblichkeits-Reduktion für den globalen Süden.
 
