@@ -52,7 +52,7 @@ Keine starre ideologische Verankerung erkennbar. Braesemann vertritt eine pragma
 - **Simon Schaupp** — Ähnliches Arbeitsfokus-Interesse, aber Schaupp eher kritisch-theoretisch (Cybernetic Proletarianization), Braesemann eher empirisch-neutral
 - **Heiner Flassbeck** — Lohnpolitische Fragen berühren sich; Flassbeck von links, Braesemann von der Komplexitätswissenschaft her
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 

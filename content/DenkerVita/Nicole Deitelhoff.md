@@ -66,6 +66,6 @@ Als Direktorin des PRIF/HSFK leitet sie eines der führenden europäischen Fried
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[StreitClub — Europa allein zu Haus]] — Co-Moderation der StreitClub-Debatte über europäische Zukunft (April 2026)

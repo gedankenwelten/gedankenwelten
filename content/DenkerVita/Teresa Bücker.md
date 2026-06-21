@@ -84,6 +84,6 @@ Bücker ist erklärtermaßen **parteilos** und war nie Parteimitglied — trotz 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]] (2026) — Podcast-Gespräch mit Maja Göpel über Zeitgerechtigkeit, Vier-Tage-Woche und demokratisches Engagement

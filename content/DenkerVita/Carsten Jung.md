@@ -83,7 +83,7 @@ Durch Procurement-Standards können Regierungen Märkte formen: Was der Staat ka
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/re:publica 26 — KI-Industriepolitik und europäische Souveränität]] — re:publica 26 Session
 

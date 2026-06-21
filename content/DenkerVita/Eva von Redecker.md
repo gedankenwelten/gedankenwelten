@@ -58,7 +58,7 @@ Sie lebt bewusst in einer **ländlichen Gemeinschaft in Brandenburg** — nicht 
 - **David Graeber** — Ähnliche Sorge um Sinnlosigkeit von Arbeit; ähnliche Utopie-Freiheit
 - **Silvia Federici** — Sorgearbeit-Theorie; Federici marxistischer, Redecker mehr auf Reproduktion/Natur fokussiert
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]

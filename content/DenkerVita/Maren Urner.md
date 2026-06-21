@@ -74,7 +74,7 @@ Sie ist eine Kritikerin des Neoliberalismus (Dauerkrise, Angst-Politik) und eine
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 *(Alle Notes im Vault die diese Person behandeln)*
 

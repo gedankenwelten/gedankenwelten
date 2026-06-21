@@ -93,6 +93,6 @@ Sein politisches Grundmotiv lässt sich als **anarcho-humanistisch** lesen: Mün
 
 - **Pablo Hagemeyer** — Hüthers Subjekt-Objekt-These erklärt strukturell, was bei Hagemeyer als toxische Beziehungsdynamik erscheint: Der Narzisst kann nur mit Objekten in Beziehung sein, nicht mit Subjekten. → siehe [[Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Gerald Huether — Lebendigkeit und das Ende der Hierarchien]] — Das ungeskriptet-Gespräch (April 2026): Selbstorganisation, Kohärenz, Subjekt-Objekt, Hierarchiekritik, DDR-Flucht

@@ -76,6 +76,6 @@ Klar regimekritisch, aber differenziert — Amiri trennt konsequent zwischen dem
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Natalie Amiri — Hoelle auf Erden im Iran]] — phoenix persönlich: Lage im Iran, Fragilität des Regimes, wirtschaftliche Katastrophe (April 2026)

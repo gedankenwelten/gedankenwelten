@@ -50,6 +50,6 @@ Westbrook ist schwer zu verorten: formal patriotisch (betont seine amerikanische
 - [[DenkerVita/Rainer Mausfeld|Rainer Mausfeld]] — beide analysieren das Unsichtbarmachen von Machtverhältnissen durch kulturelle Grundprogrammierung; Mausfeld kognitionspsychologisch, Westbrook kulturkritisch-empirisch
 - [[DenkerVita/Renee DiResta|Renee DiResta]] — DiResta zeigt, wie Propaganda identitätsbasiert wirkt bevor Fakten ankommen; Westbrook beschreibt das institutionelle Substrat, das diesen Nährboden erst erzeugt
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]

@@ -17,7 +17,7 @@ tags: [denker-vita, philosophie, macht, diskurs, frankreich]
 
 </details>
 
-→ Cortex-Notes: [[scobel — Foucault Aufklaerung als Haltung]], [[Demirovic und Lorey — Foucaults Gouvernementalitaet]]
+→ Gedankenwelten-Notes: [[scobel — Foucault Aufklaerung als Haltung]], [[Demirovic und Lorey — Foucaults Gouvernementalitaet]]
 
 ---
 
@@ -129,7 +129,7 @@ Sein Spätwerk interessierte sich für liberale Gouvernementalität und wurde �
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[scobel — Foucault Aufklaerung als Haltung]] — Foucaults Aufklärungsessay: Unmündigkeit, Befreier-Paradox, Aufklärung als tägliche Haltung
 - [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen|Abdolkarim Soroush — Reformation des Glaubens von innen]] — Soroushs Qabz va Bast als islamisches Äquivalent zu Foucaults Machtanalytik des Diskurses: Wer das Verstehen kontrolliert, kontrolliert die Religion

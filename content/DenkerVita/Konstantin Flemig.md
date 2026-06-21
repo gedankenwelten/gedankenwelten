@@ -72,7 +72,7 @@ Sein Buch *Freiheit unter Feuer* erscheint beim Heyne Verlag — ein Bericht üb
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026]] — Frontanalyse Ukraine, Drohnenkrieg, russische Verluste
 - [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE]] — Sudan-Krieg, VAE-Rolle, vergessene Krisenregion

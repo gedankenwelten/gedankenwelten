@@ -81,7 +81,7 @@ Kurze SPD-Mitgliedschaft (2009–2014), heute parteilos. Ihre Arbeit ist explizi
 
 *Wird von Montaigne befüllt.*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Gilda con Arne — Rechte Milliardaere kaufen Medien]]
 - [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]

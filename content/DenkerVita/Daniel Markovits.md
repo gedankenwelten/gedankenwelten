@@ -75,7 +75,7 @@ Markovits ist kein Marxist im engeren Sinne, obwohl er Marx ausgiebig zitiert �
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Die Neuen Zwanziger — Salon Lektueren Dezember 2025]] — Zweistündige Besprechung im NZ-Salon, Schwerpunkt Meritocracy Trap
 

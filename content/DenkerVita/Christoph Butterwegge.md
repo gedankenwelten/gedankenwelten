@@ -82,7 +82,7 @@ Butterwegge ist ideologisch der **Linken zuzuordnen**, partizipiert aber in der 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 Diese Notes im Vault behandeln Butterwegge oder seine Thesen:
 

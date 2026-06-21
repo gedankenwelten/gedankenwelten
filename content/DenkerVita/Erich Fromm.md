@@ -76,7 +76,7 @@ Seine politische Vision: eine Gesellschaft, in der **Mitbestimmung** in Arbeit u
 
 - **D.T. Suzuki / Zen** — Fromms Zen-Seminar 1957 in Mexico mit dem Zen-Meister Suzuki war ein Wendepunkt: Er entdeckt Ähnlichkeiten zwischen psychoanalytischer Einsicht und Zen-Erleuchtung. Beide zielen auf die Aufhebung der Ich-Fixierung — Zen als "Sein-Modus" ohne westliche Metaphysik.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Erich Fromm — Haben oder Sein]] — Das 1977er Gespräch: tiefere Analyse der Haben/Sein-Unterscheidung
 - [[Erich Fromm — Die Welt lieben, SRF 1979]] — Das 1979er Gespräch: persönlicher und synthetischer

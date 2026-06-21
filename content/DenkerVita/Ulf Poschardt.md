@@ -73,6 +73,6 @@ Er teilt den Resonanzraum mit der rechten Kulturkritik, ohne ihre Ziele zu teile
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]

@@ -7,7 +7,7 @@ tags: [denker-vita, buddhismus, vipassana, meditation, interbeing, engaged-buddh
 
 # Thich Nhat Hanh — DenkerVita
 
-→ Cortex-Notes: [[Thich Nhat Hanh — Die Vier Edlen Wahrheiten]]
+→ Gedankenwelten-Notes: [[Thich Nhat Hanh — Die Vier Edlen Wahrheiten]]
 
 ---
 
@@ -95,6 +95,6 @@ Jeder Atemzug, jeder Schritt kann in Richtung Wohlbefinden oder in Richtung Leid
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Thich Nhat Hanh — Die Vier Edlen Wahrheiten]] — Art of Suffering Retreat 2013: Interbeing, Vier Nährstoffe, Sahabhū; die Vier Edlen Wahrheiten als untrennbarer Verbund

@@ -41,6 +41,6 @@ Kristian Kunow war vor seiner jetzigen Rolle in der Gemeinsamen Geschäftsstelle
 
 *Wird von Montaigne befüllt.*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]

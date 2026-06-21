@@ -69,7 +69,7 @@ Er wird von der Forschungscommunity respektiert und von der Politik gehört — 
 - **[[DenkerVita/Gesine Schwan|Gesine Schwan]]** — Schwans Begriff der *Gestaltungsmacht* liefert den politiktheoretischen Rahmen für Löschels Akzeptanzforschung: Das von ihm begleitete Bürgerenergiegesetz NRW ist institutionalisierte Gestaltungsmacht gegen die „laute Minderheit".
 - **[[DenkerVita/Silke Stremlau|Silke Stremlau]]** — Beide argumentieren über Erwartungen und Kapitalflüsse: Stremlau von der Finanzseite (Kapitalallokation formt Transformation), Löschel von der Politikseite (Tankrabatt zerstört Investitionssignale).
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
 

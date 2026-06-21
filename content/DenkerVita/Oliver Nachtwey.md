@@ -66,6 +66,6 @@ Nachtwey kommt aus der radikalen Linken (Linksruck, frühe 2000er) und ist heute
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus]]

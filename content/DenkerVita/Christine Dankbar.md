@@ -79,7 +79,7 @@ Sie argumentiert für:
 
 *(wird von Montaigne befüllt — hier leer lassen)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 

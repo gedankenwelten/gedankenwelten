@@ -80,6 +80,6 @@ Linartas ordnet sich klar als Demokratin ein — nicht als Parteipolitikerin. Wi
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Martyna Linartas — Unverdiente Ungleichheit]] — Jung & Naiv Folge 765, 2025

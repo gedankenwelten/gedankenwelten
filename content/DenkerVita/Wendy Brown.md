@@ -78,7 +78,7 @@ Sie lehrt, dass ehrliche intellektuelle Arbeit wichtiger ist als politische Gesc
 
 *(Wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Transkript & Analyse des INET-Interviews (2016)
 - [[Denker/Michel Foucault]] — Browns Hauptreferenz: *Die Geburt der Biopolitik* als Werkzeug zur Neoliberalismus-Analyse

@@ -62,6 +62,6 @@ Dara ist auf mehreren Plattformen aktiv (YouTube, Instagram, TikTok, Discord) un
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Der Dara — Merz 72-Stunden-Arbeitswoche]] — Merz beim DGB-Kongress, 72-Stunden-Arbeitswoche, Gewerkschaftswiderstand

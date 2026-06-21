@@ -89,7 +89,7 @@ Karrierestationen:
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien]]
 

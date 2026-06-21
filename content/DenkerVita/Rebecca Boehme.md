@@ -66,6 +66,6 @@ Böhme vertritt keine explizit politische Position, argumentiert aber klar für 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Rebecca Boehme — So trickst du dein Gehirn aus]] — Scobel-Gespräch über Predictive Brain, Reappraisal, Psychedelika, Aufmerksamkeitsfreiheit

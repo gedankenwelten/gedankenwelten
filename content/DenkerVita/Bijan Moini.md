@@ -99,7 +99,7 @@ Seine Nähe zur GFF ordnet ihn zivilgesellschaftlich ein — aber nicht als Akti
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — GFF-Analyse zur AfD-Verbotsfrage (2024–2025)
 

@@ -7,7 +7,7 @@ tags: [denker-vita, vipassana, buddhismus, meditation, mitgefühl, bodhisattva]
 
 # Adriaan van Wagensveld — DenkerVita
 
-→ Cortex-Notes: [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]]
+→ Gedankenwelten-Notes: [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]]
 
 ---
 
@@ -83,7 +83,7 @@ Du musst nicht fertig sein, um zu helfen. Adriaan beschreibt seine eigene Überf
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]] — Retreat-Vortrag: Bodhisattva-Ideal, Ksitigarbha, Wunden als Schatz, Befreiungspragmatismus
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Impuls-Vortrag: Engagierter Buddhismus, Vipassana als Laienpraxis, Alltagspraxis statt Kissenpraxis

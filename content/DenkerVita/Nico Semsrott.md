@@ -75,6 +75,6 @@ Links, aber pragmatisch geworden. Semsrott empfiehlt nach 5 Jahren EU-Innensicht
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Nico Semsrott — Bruessel sehen und sterben]] — Abschlussreferat über 5 Jahre EU-Parlament: Transparenz, Privilegien, CDU-Machtstrukturen (Mai 2026)

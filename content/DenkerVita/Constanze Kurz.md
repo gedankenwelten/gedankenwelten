@@ -100,7 +100,7 @@ tags: [denker-vita, technologiekritik, datenschutz, ueberwachung, deutschland]
 - **2014:** "25 Frauen für die digitale Zukunft" (Edition F)
 - **2021:** GI Fellow (Gesellschaft für Informatik)
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]] — re:publica 26 Vortrag mit Franziska Görlitz (GFF): technisch-juridische Analyse der Palantir-Gesetze in Deutschland
 - [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]] — Jung & Naiv Folge 827: KI als stochastischer Papagei, Chatkontrolle, Vorratsdatenspeicherung und Palantir im Überblick

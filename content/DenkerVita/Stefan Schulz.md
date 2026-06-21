@@ -85,7 +85,7 @@ Partner Wolfgang M. Schmitt positioniert sich explizit als Marxist; Schulz teilt
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]]
 - [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]]

@@ -76,6 +76,6 @@ Liberal-progressiv, deliberativ-demokratisch. Kein Parteipolitiker, sondern öff
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]]

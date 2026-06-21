@@ -95,6 +95,6 @@ Fromms Unterscheidung von Haben und Sein resoniert mit Camus' Revolte: Beide kri
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Camus in 60 Minuten]] — Kompaktvortrag: Absurdismus, Sisyphos, drei Fluchten, Revolte

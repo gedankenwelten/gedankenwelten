@@ -49,6 +49,6 @@ LaGrande ist weniger Denkerin als Ermöglicherin von Debatten. Ihre "These" lieg
 
 *Wird von Montaigne befüllt.*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]

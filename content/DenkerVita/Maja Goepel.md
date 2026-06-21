@@ -52,7 +52,7 @@ Heute ist sie Professorin, öffentliche Intellektuelle und Gastgeberin von **NEU
 - [[DenkerVita/Gesine Schwan]] — Göpel ist Schwans Gesprächspartnerin im NEU DENKEN-Podcast. Beide teilen die Überzeugung: Demokratie braucht gelebte Erfahrung, nicht nur Institutionen. Göpel bringt die ökonomische und systemische Dimension, Schwan die politiktheoretische und psychologische.
 - [[DenkerVita/Erich Fromm]] — Göpel und Fromm verbindet die Frage nach dem Verhältnis von Wirtschaftssystem und menschlicher Psychologie. Fromms Haben-Modus ist das psychologische Spiegelbild von Göpels Wachstumssystem.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]] — Über Debattenkultur, Konstruktivismus und Zuhören
 - [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]] — Gespräch über Gestaltungsmacht und demokratische Kultur

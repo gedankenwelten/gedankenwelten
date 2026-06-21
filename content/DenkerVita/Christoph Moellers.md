@@ -75,6 +75,6 @@ In der politischen Debatte wirkt er oft als Korrektiv — als jemand, der Schär
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]

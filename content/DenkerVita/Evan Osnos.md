@@ -55,6 +55,6 @@ Osnos ist kein Aktivist und kein Manifest-Schreiber. Er ist ein liberaler Journa
 
 *(Montaigne befüllt diesen Abschnitt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] — Jung & Naiv Folge 821; umfassende Analyse von Zuckerberg, Ungleichheit, Bunkermentalität und dem "Nerd Reich"

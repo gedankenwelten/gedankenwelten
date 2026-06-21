@@ -126,7 +126,7 @@ Zimpel ist kein parteipolitischer Akteur, aber ein dezidiert bildungspolitischer
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Andreas Zimpel — Neurodiversität]] — Vorlesung (2024): Bild-Denken, Chunking, Aufmerksamkeit, Synästhesie, Mandelbrot, Tower of Hanoi
 - [[ARTE — Neurodivers Anders denken besser arbeiten]] — ARTE-Reportage (2025): Zimpel als einer von drei Protagonist:innen, persönliche Synästhesie-Geschichte, ZNDF-Arbeit

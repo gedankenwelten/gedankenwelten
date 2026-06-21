@@ -56,7 +56,7 @@ Er arbeitet an der Schnittstelle von Arbeitssoziologie, kritischer Theorie und �
 - **Hartmut Rosa** — Beide kritisieren Beschleunigung; Rosa von der Resonanz her, Schaupp von der Klassenherrschaft her
 - **Heiner Flassbeck** — Beide sehen Lohnpolitik und Arbeitszeitverkürzung als zentral; Flassbeck ökonomischer, Schaupp soziologischer
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]]
 

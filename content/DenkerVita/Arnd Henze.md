@@ -63,6 +63,6 @@ Liberal-progressiv, aber aus theologischer Tiefenschärfe — nicht flacher Säk
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]] — Gespräch an der Evangelischen Akademie Frankfurt (2021) über die Vereinnahmung Bonhoeffers durch die Neue Rechte

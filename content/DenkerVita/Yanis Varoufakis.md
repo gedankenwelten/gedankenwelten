@@ -88,7 +88,7 @@ Marx, Keynes, Joan Robinson, Michał Kalecki, John Kenneth Galbraith, Paul Sweez
 - [[DenkerVita/Markus Gabriel|Markus Gabriel]] — Philosophischer Gegenspieler: Gabriel will Kapitalismus ethisch reformieren; Varoufakis hält ihn für bereits tot
 - [[DenkerVita/Francesca Bria|Francesca Bria]] — Kartiert die politische Machtarchitektur (Authoritarian Stack), für die Varoufakis die ökonomische Erklärung liefert
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Yanis Varoufakis — Technofeudalism]] — IAI-Interview: Cloud Capital, Cloud Rent und das Ende des Kapitalismus
 - [[Yanis Varoufakis — Trump Has Lost Everything]] — New Statesman Exchange: Kindheit unter Junta, Faschismus-Sequenz, Trump/Iran, Zypern, Energiemärkte

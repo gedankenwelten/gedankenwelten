@@ -87,7 +87,7 @@ Er ist kein Linker, kein Konservativer, kein Liberaler im parteipolitischen Sinn
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Götz Aly — Wie konnte das geschehen]] — Vortrag DHI Heidelberg, Dez 2025
 - [[Denker/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung]] — Interview Jung & Naiv, Folge 781, Sep 2025

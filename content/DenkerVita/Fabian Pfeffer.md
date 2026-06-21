@@ -116,7 +116,7 @@ Er nutzt **marxistische Relationsanalyse** (Brecht), ohne sich ideologisch zu ve
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Panel-Diskussion mit Pfeffer zur Vermögenskonzentration in Deutschland
 - [[DenkerVita/Martyna Linartas]] — Ungleichheitsforscherin mit komplementärem Fokus: Erbengesellschaft, Unverdiente Ungleichheit

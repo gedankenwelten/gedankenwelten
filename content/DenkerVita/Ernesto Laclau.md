@@ -87,7 +87,7 @@ Er war nie ein Kommunist, sondern intellectual leftist, der radikale demokratisc
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Ernesto Laclau — Macht und Repräsentation]]
 

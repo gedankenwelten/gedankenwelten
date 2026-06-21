@@ -76,7 +76,7 @@ Sie ist eine ihrer Träger Stimme Deutschlands für **evidenzbasierte, pragmatis
 
 *(wird von Montaigne befüllt — hier leer lassen)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/NANO Talk - Eliten zwischen Machtmissbrauch und Verantwortung|NANO Talk — Eliten zwischen Machtmissbrauch und Verantwortung]] (3sat, 28. Mai 2026, Moderation und Beitrag Buyx)
 

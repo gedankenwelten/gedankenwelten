@@ -65,6 +65,6 @@ Schwer einzuordnen: Biographisch CDU, aber in der öffentlichen Debatte position
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[StreitClub — Europa allein zu Haus]] — Co-Moderation mit scharfen Interventionen zu Antisemitismus und EU-Demokratiedefizit (April 2026)

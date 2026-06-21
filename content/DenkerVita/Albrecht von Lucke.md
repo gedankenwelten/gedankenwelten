@@ -55,7 +55,7 @@ Lucke vertritt eine **kritisch-linke Perspektive** im Sinne der Blätter-Traditi
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 

@@ -95,7 +95,7 @@ Völz veröffentlicht primär über die **BVMW-Plattform**, nicht als Autor eige
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 Alle Notes die Völz oder seine Positionen behandeln:
 

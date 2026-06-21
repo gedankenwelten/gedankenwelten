@@ -20,7 +20,7 @@ aliases:
 
 </details>
 
-→ Cortex-Notes: [[Denker/S.N. Goenka — Vipassana]]
+→ Gedankenwelten-Notes: [[Denker/S.N. Goenka — Vipassana]]
 
 ---
 
@@ -195,7 +195,7 @@ Goenka betonte unermüdlich: Dies ist kein Buddhismus. Kein Ritual, kein Dogma, 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/S.N. Goenka — Vipassana]] — Hauptnote: Lehre, Technik, Mechanismus des Leidens, Verbindungen zu Arendt, Bonhoeffer, Platon, Dürr
 - [[Denker/Vipassana — Anicca]] — Vergänglichkeit als Kernlehre

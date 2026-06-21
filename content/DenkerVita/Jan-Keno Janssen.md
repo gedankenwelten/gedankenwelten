@@ -84,7 +84,7 @@ Kein agitatorischer Ton, aber keine Naivität — das macht Janssen für Publiku
 
 *(wird von Montaigne befüllt — technik-kritische Philosophen, KI-Sicherheitsforscher)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus]]
 

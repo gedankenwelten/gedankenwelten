@@ -107,7 +107,7 @@ Ihre Radikalität liegt in der **konzeptuellen Kohärenz**: Sie nimmt die bürge
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Panel mit Engelhorn, Kühnert, Friedrichs, Pfeffer; zentrale Quelle ihrer Kernthesen
 - [[DenkerVita/Martyna Linartas]] — Forschung zu Erbengesellschaft und unverdientes Vermögen; strukturelle Parallele zu Engelhorn

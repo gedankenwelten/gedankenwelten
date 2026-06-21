@@ -58,6 +58,6 @@ Die Verbindung zur Trump-Regierung und zum Cyber-Libertarianismus ist für Andre
 - [[DenkerVita/Katharina Nocun|Katharina Nocun]] — Nocun teilt Andrees Forderung nach digitaler Souveränität und Datenschutz als demokratischer Grundbedingung; sie ergänzt seine Regulierungsthese um netzpolitische Praxis und Zivilgesellschaftsperspektive.
 - [[DenkerVita/Nadia Zaboura|Nadia Zaboura]] — Als Kommunikationswissenschaftlerin arbeitet Zaboura an medialer Öffentlichkeit und Desinformation; ihre Perspektive auf Medienvertrauen und demokratische Kommunikation steht in direktem Bezug zu Andrees Forumshoheit-Argument.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie]]

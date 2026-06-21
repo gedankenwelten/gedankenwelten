@@ -80,6 +80,6 @@ Dem gegenüber stehen: breite Rezeption in seriösen deutschen Medien, hohe Eins
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]

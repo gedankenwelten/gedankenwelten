@@ -79,6 +79,6 @@ Pagis kommt aus dem Umfeld der kritischen französischen Soziologie (EHESS, *Gen
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Julie Pagis — Psychologie der charismatischen Kontrolle|Julie Pagis — Psychologie der charismatischen Kontrolle]]

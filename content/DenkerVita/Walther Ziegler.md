@@ -110,7 +110,7 @@ Jede Zeitgeist-Note im Vault — ob Butterwegge über Armut, Mattei über Auster
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Platon in 60 Minuten]] — Höhlengleichnis, Ideenlehre, Anamnesis, Philosophenstaat
 - [[Walther Ziegler — Kant in 60 Minuten]] — Kritik der reinen/praktischen Vernunft, kategorischer Imperativ

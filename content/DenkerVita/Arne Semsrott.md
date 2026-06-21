@@ -68,7 +68,7 @@ Sein Anti-Rechtsextremismus-Engagement (*Machtübernahme*, Gegenrechtsschutz-Bei
 
 %% Noch zu ergänzen — z.B. Gilda Sahebi, Heribert Prantl, Hannah Arendt (Transparenz & Macht), Edward Snowden (Whistleblowing) %%
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Gilda con Arne — Rechte Milliardaere kaufen Medien]]
 - [[Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]

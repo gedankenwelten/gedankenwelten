@@ -78,6 +78,6 @@ Sein Gegner ist Jürgen Habermas — der größte Streit der deutschen Soziologi
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[scobel — Luhmann Abklaerung der Aufklaerung]] — Scobels Rekonstruktion der Antrittsvorlesung als Gegenwartsdiagnose

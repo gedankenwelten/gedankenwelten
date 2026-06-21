@@ -115,7 +115,7 @@ Ihre zentrale Kritik ist **nicht anti-kapitalistisch**, sondern **kapitalismusko
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 *(alle Notes im Vault die Julia Friedrichs behandeln)*
 

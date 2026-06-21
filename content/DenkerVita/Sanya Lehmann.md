@@ -30,6 +30,6 @@ Sanya Lehmann ist Mitglied des MABB Jugendrats (Medienanstalt Berlin-Brandenburg
 
 *Wird von Montaigne befüllt.*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder]]

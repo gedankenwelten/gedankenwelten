@@ -88,6 +88,6 @@ In der Drohnen-Debatte nimmt er eine differenzierte Position ein: Drohnen sind w
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Markus Reisner — Strasse von Hormus fragil]] — Militäranalyse der Hormus-Krise (April 2026)

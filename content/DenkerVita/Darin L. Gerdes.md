@@ -62,6 +62,6 @@ Konservativ-republikanisch (Reagan-Tradition), aber scharf kritisch gegenüber d
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Gerdes — Ukraine Zelensky wird staerker]] — Ukraine-Update April 2026: EU-Kredit, Saudi-Diplomatie, KI-Kriegsführung, Trumps sinkender Wert für Moskau

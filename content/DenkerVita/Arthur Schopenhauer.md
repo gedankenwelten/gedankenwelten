@@ -103,6 +103,6 @@ Philosophisch steht er zwischen den Stühlen: antihegelianisch (gegen Fortschrit
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Schopenhauer in 60 Minuten]] — Kernphilosophie: Wille zum Leben, sechsfaches Leiden, drei Auswege (Kunst, Musik, Askese/Nirwana)

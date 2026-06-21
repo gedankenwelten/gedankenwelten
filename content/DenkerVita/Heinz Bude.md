@@ -88,7 +88,7 @@ Bude lässt sich keinem klassischen politischen Lager zuordnen. Er selbst berich
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Heinz Bude — Boomer-Soziologie]] — Vortrag an der Humboldt-Universität (16.01.2024): Generationssoziologie der Boomer, von Flakhelfern bis „Wirkungswille ohne Letztbegründung"
 - [[Heinz Bude — Gesellschaft der Angst]] — Wiener Stadtgespräch (19.11.2014): Angst als Gesellschaftsdiagnose — von depressiver Orientierungslosigkeit über die Null-Fehler-Generation bis zur inneren Spaltung der Mittelschicht

@@ -103,6 +103,6 @@ Marx ist der Begründer des wissenschaftlichen Sozialismus und des Kommunismus a
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Walther Ziegler — Marx in 60 Minuten]] — Kompakte Einführung in Materialismus, Basis-Überbau, Religionskritik, Historischer Materialismus, Mehrwert, Akkumulation, Verelendung, Reich der Freiheit

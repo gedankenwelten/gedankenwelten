@@ -68,7 +68,7 @@ Möller ist **nicht einfach einer Strömung zuzuordnen**. Seine Position ist:
 
 - [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]] — Laclau ist Möllers theoretischer Bezugspunkt: Möllers Begriff des Populismus als *strukturelles Merkmal* von Demokratien (nicht Pathologie) baut direkt auf Laclaus Unterscheidung von konstitutivem Antagonismus und scheiternder hegemonialer Sutur auf — Möller nimmt die radikaldemokratische These ernst, ohne ihre diskurstheoretische Ausschließlichkeit zu teilen.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/NANO Talk - Eliten zwischen Machtmissbrauch und Verantwortung|NANO Talk – Eliten zwischen Machtmissbrauch und Verantwortung]] (3sat, 28.05.2026)
 

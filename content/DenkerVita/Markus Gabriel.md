@@ -102,7 +102,7 @@ Kontrovers: Akademisch nicht unumstritten — Kritik an mangelnder Argumentation
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Markus Gabriel — Universelle Moral]] — Podcast Böll-Stiftung: Europas blinde Flecken, Bottom-up-Werte, Digitalisierung als Polarisierungstreiber, Ethical Literacy, ethischer Kapitalismus
 - [[Markus Gabriel — Ethischer Kapitalismus]] — Lecture Uni Luzern (IWP): Drei Bedingungen des Kapitalismus, Neuer Moralischer Realismus als Wirtschaftsethik, CPO, true profit, Adam Smiths unsichtbare Hand als menschliches Vermögen

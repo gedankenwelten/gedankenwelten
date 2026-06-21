@@ -64,6 +64,6 @@ Schwan ist Sozialdemokratin — aber intellektuell weit über Parteipolitik hina
 
 - **John Rawls** — Der Schleier der Unwissenheit als Entwurfsprinzip einer fairen Gesellschaft; Schwan nutzt Rawls, um das liberal-demokratische Ideal — veränderbar, korrekturfähig — zu begründen.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]] — Gespräch mit Maja Göpel über Gestaltungsmacht, Narzissmus der Autokraten und demokratische Kultur
