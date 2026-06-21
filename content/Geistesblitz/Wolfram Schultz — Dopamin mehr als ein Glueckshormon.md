@@ -1,6 +1,7 @@
 ---
 title: "Wolfram Schultz — Dopamin: Mehr als ein Glückshormon"
 aktualisiert: 2026-05-19
+forschung_aktualisiert: 2026-06-21
 date: 15.05.2026
 tags:
   - geistesblitz
@@ -53,7 +54,7 @@ Schultz erklärt das am Alltagsbeispiel: Er wählt zwischen Kaffee und Tee, ents
 
 [▶ 23:52] Dieser Mechanismus ist keine Metapher — er wurde in Tierversuchen direkt gemessen. Neuronen zeigen über weniger als eine Sekunde (Viertelsekundenfenster) eine zehn- bis fünfzigfach erhöhte Feuerrate. Diese Kurzantwort setzt Dopamin als Neurotransmitter frei und modifiziert die Bewertungsgewichtung im System.
 
-Was das bedeutet: Dopamin ist kein *Glückshormon*, das nach vollbrachter Belohnung ausgeschüttet wird. Es ist ein **Trainingssignal** — ein biochemischer Fehlerkorrekturmechanismus, der das Gehirn permanent darin trainiert, präzisere Vorhersagen über die Welt zu treffen. Das Prinzip wurde später in der Informatik als *Temporal Difference Learning* mathematisch formalisiert und liegt modernem Machine Learning zugrunde.
+Was das bedeutet: Dopamin ist kein *Glückshormon*, das nach vollbrachter Belohnung ausgeschüttet wird. Es ist ein **Trainingssignal** — ein biochemischer Fehlerkorrekturmechanismus, der das Gehirn permanent darin trainiert, präzisere Vorhersagen über die Welt zu treffen. Das Prinzip wurde später in der Informatik als *Temporal Difference Learning* mathematisch formalisiert — es ist die Grundlage des *Reinforcement Learning*, jenes Zweigs der KI, der hinter Systemen wie AlphaGo und dem Feinschliff heutiger Sprachmodelle steht.
 
 > [!question] Weitergedacht
 > Wenn Dopamin Überraschung und nicht Freude codiert — kann man dann einen erfüllten, glücklichen Zustand überhaupt durch Dopamin *aufrechterhalten*, oder ist Zufriedenheit per Design dopaminarm?
@@ -160,6 +161,16 @@ Das ist keine bloße Semantik: Die Verwechslung von Hormon und Neurotransmitter 
 > [!success] Bestätigt — Drogen überstimulieren Dopaminrezeptoren evolutionär unvorgesehen
 > Suchtmittel lösen unnatürlich hohe Dopaminausschüttung aus, die über evolutionär vorgesehene Reize weit hinausgeht. Der Evolutionary-Mismatch-Rahmen ist in der Suchtforschung etabliert.
 > Quelle: [Evolutionary perspectives on substance and behavioural addictions — ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0149763424000721)
+
+---
+
+## Forschungsstand
+
+Was die empirische Forschung zu den zentralen Thesen sagt — Konsens von Einzelbefund unterschieden:
+
+- **Gut belegt (Konsens):** Dass Dopaminneuronen einen *Belohnungsvorhersagefehler* kodieren — die Differenz zwischen Erwartetem und Erhaltenem, nicht die Belohnung selbst — gehört zu den bestbelegten Erkenntnissen der Neurowissenschaft. Sie ist über Spezies hinweg repliziert: am Affen ([Schultz 2016](https://doi.org/10.1038/nrn.2015.26), Übersichtsarbeit), beim Menschen im fMRT ([Pessiglione et al. 2006](https://doi.org/10.1038/nature05051)) und quantitativ vermessen ([Bayer & Glimcher 2005](https://doi.org/10.1016/j.neuron.2005.05.020); [Eshel et al. 2016](https://doi.org/10.1038/nn.4239)).
+- **Schärfung — die KI-Brücke ist enger und wechselseitig:** Das RPE-Prinzip wurde als *Temporal Difference Learning* formalisiert ([Montague, Dayan & Sejnowski 1996](https://doi.org/10.1523/jneurosci.16-05-01936.1996)) und ist die Grundlage des *Reinforcement Learning* — nicht des gesamten modernen Machine Learning, dessen andere Zweige (Deep Learning, Sprachmodelle) auf eigenen Prinzipien beruhen. Die Brücke trägt in beide Richtungen: Schultz selbst hält fest, dass das Dopaminsignal die höherstufigen Vorhersagefehler der Temporal-Difference-Modelle gut abbildet ([Schultz 2012](https://doi.org/10.1016/j.conb.2012.11.012)) — und 2020 half umgekehrt *distributional reinforcement learning* aus der KI, die Aktivität echter Dopaminneuronen besser zu erklären.
+- **Im Kern belegt, im Mechanismus offen:** Dass Neuigkeit das Dopaminsystem aktiviert, ist gesichert — *wie* genau, ist Gegenstand laufender Forschung. Neuere Arbeiten ([Akiti et al. 2022](https://doi.org/10.1016/j.neuron.2022.08.022)) deuten darauf, dass es die durch Neuigkeit ausgelöste Verhaltensdynamik — Orientierung, Einschätzung möglicher Bedrohung — ist, die die Neuronen treibt, nicht die Neuigkeit als solche. Der im Faktencheck genannte Vorbehalt ist damit auch peer-reviewed gestützt.
 
 ---
 
