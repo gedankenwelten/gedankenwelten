@@ -1,5 +1,6 @@
 ---
 title: Ronen Steinke — DenkerVita
+date: 2026-05-01
 aktualisiert: 2026-05-01
 tags: [denker-vita, recht, meinungsfreiheit, journalismus]
 ---

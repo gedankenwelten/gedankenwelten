@@ -1,5 +1,6 @@
 ---
 title: Annette Dittert — DenkerVita
+date: 2026-06-16
 tags: [denker-vita, journalismus, grossbritannien, medien, demokratie, populismus, brexit]
 ---
 

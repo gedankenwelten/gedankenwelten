@@ -1,5 +1,6 @@
 ---
 title: Teresa Bücker — DenkerVita
+date: 2026-04-21
 aktualisiert: 2026-04-21
 tags: [denker-vita, soziale-ungleichheit, wirtschaft, demokratie, philosophie, deutschland]
 ---

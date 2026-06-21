@@ -1,5 +1,6 @@
 ---
 title: "Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit"
+date: 2026-06-14
 tags:
   - spur
   - israel

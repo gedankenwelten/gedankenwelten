@@ -1,5 +1,6 @@
 ---
 title: Daniel Markovits — DenkerVita
+date: 2026-05-06
 aktualisiert: 2026-05-06
 tags: [denker-vita, kapitalismus, usa, demokratie]
 ---

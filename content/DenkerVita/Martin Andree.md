@@ -1,5 +1,6 @@
 ---
 title: Martin Andree — DenkerVita
+date: 2026-06-11
 tags: [denker-vita, medien, big-tech, demokratie, deutschland]
 ---
 

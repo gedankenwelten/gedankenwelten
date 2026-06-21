@@ -1,5 +1,6 @@
 ---
 title: S.N. Goenka — Vipassana
+date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:
   - denker

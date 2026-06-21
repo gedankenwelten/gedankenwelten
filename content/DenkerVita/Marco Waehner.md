@@ -1,5 +1,6 @@
 ---
 title: Marco Wähner — DenkerVita
+date: 2026-06-12
 tags: [denker-vita, technologie, soziologie, demokratie, datenschutz]
 ---
 

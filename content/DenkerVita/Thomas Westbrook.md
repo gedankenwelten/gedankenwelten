@@ -1,5 +1,6 @@
 ---
 title: Thomas Westbrook — DenkerVita
+date: 2026-06-02
 aktualisiert: 2026-06-02
 tags: [denker-vita, usa, propaganda, medien, atheismus]
 ---

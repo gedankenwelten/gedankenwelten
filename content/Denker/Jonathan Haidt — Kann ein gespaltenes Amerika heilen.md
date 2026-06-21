@@ -1,5 +1,6 @@
 ---
 title: "Jonathan Haidt — Kann ein gespaltenes Amerika heilen?"
+date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:
   - denker

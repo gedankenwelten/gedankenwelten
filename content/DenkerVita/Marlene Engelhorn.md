@@ -1,5 +1,6 @@
 ---
 title: Marlene Engelhorn — DenkerVita
+date: 2026-05-10
 aktualisiert: 2026-05-10
 tags: [denker-vita, wirtschaft, soziale-ungleichheit, kapitalismus, deutschland, österreich, erbschaft]
 ---

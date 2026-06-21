@@ -1,5 +1,6 @@
 ---
 title: Julia Kloiber — DenkerVita
+date: 2026-05-25
 aktualisiert: 2026-05-25
 tags: [denker-vita, ki, technologie, feminismus, digitale-gerechtigkeit, deutschland]
 ---

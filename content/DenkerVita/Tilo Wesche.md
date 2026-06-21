@@ -1,5 +1,6 @@
 ---
 title: Tilo Wesche — DenkerVita
+date: 2026-05-29
 aktualisiert: 2026-05-29
 tags: [denker-vita, philosophie, eigentumstheorie, kritische-theorie, naturrechte, nachhaltigkeit, deutschland]
 ---

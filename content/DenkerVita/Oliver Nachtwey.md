@@ -1,5 +1,6 @@
 ---
 title: Oliver Nachtwey — DenkerVita
+date: 2026-05-20
 aktualisiert: 2026-05-20
 tags: [denker-vita, demokratie, autoritarismus, kapitalismus, soziale-ungleichheit, deutschland]
 ---

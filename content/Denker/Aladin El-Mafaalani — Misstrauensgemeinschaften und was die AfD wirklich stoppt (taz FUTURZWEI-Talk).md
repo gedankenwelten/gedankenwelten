@@ -1,5 +1,6 @@
 ---
 title: "Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt"
+date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:
   - denker

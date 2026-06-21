@@ -1,5 +1,6 @@
 ---
 title: Wolfram Schultz — DenkerVita
+date: 2026-05-19
 aktualisiert: 2026-05-19
 tags: [denker-vita, neurowissenschaft, belohnungssystem, lernmechanismen]
 ---

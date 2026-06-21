@@ -1,5 +1,6 @@
 ---
 title: "Martin Heidegger — DenkerVita"
+date: 2026-04-26
 aktualisiert: 2026-04-26
 tags:
   - denker-vita

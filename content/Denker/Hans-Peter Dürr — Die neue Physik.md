@@ -1,5 +1,6 @@
 ---
 title: Hans-Peter Dürr — Die neue Physik
+date: 2026-03-22
 aktualisiert: 2026-03-22
 tags:
   - denker

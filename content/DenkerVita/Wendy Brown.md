@@ -1,5 +1,6 @@
 ---
 title: Wendy Brown — DenkerVita
+date: 2026-06-05
 aktualisiert: 2026-06-05
 tags: [denker-vita, demokratie, kapitalismus, neoliberalismus, usa, philosophie, politische-theorie]
 ---

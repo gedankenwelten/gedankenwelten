@@ -1,5 +1,6 @@
 ---
 title: "NoAfD"
+date: 2026-04-27
 aktualisiert: 2026-06-16
 tags:
   - panorama

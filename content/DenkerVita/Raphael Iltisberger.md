@@ -1,5 +1,6 @@
 ---
 title: Raphael Iltisberger — DenkerVita
+date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, technologie, innovation, organisationsentwicklung, zukunftsforschung]
 ---

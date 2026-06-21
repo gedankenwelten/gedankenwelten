@@ -1,5 +1,6 @@
 ---
 title: Mats Schoenauer — DenkerVita
+date: 2026-05-14
 aktualisiert: 2026-05-14
 tags: [denker-vita, medien, desinformation, deutschland, medienkritik]
 ---

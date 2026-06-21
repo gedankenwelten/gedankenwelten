@@ -1,5 +1,6 @@
 ---
 title: "Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft"
+date: 2026-06-14
 tags:
   - spur
   - ki

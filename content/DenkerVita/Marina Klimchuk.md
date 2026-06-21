@@ -1,5 +1,6 @@
 ---
 title: Marina Klimchuk — DenkerVita
+date: 2026-05-03
 aktualisiert: 2026-05-03
 tags: [denker-vita, migration, usa, erinnerungskultur, journalismus]
 ---

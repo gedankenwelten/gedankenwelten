@@ -1,5 +1,6 @@
 ---
 title: Christoph Hein — DenkerVita
+date: 2026-05-13
 aktualisiert: 2026-05-13
 tags: [denker-vita, geooekonomie, geopolitik, wirtschaft, asien, deutschland]
 ---

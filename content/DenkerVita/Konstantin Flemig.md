@@ -1,5 +1,6 @@
 ---
 title: Konstantin Flemig — DenkerVita
+date: 2026-05-09
 aktualisiert: 2026-05-09
 tags: [denker-vita, journalismus, ukraine, krieg, geopolitik]
 ---

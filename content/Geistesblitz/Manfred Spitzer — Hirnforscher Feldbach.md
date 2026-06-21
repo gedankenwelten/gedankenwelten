@@ -1,5 +1,6 @@
 ---
 title: Manfred Spitzer — Hirnforscher Feldbach
+date: 2026-03-22
 aktualisiert: 2026-03-22
 tags:
   - geistesblitz

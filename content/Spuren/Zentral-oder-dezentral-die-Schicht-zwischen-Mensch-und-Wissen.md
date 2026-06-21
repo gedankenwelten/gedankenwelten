@@ -1,5 +1,6 @@
 ---
 title: "Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?"
+date: 2026-06-15
 tags:
   - spur
   - ki

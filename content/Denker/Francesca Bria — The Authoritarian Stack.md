@@ -1,5 +1,6 @@
 ---
 title: "Francesca Bria — The Authoritarian Stack"
+date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:
   - denker

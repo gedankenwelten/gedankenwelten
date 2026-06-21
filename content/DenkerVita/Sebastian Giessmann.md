@@ -1,5 +1,6 @@
 ---
 title: Sebastian Gießmann — DenkerVita
+date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, technologie, wirtschaft, geopolitik, medien]
 ---

@@ -1,5 +1,6 @@
 ---
 title: Martyna Linartas — DenkerVita
+date: 2026-04-20
 aktualisiert: 2026-04-20
 tags: [denker-vita, soziale-ungleichheit, wirtschaft, demokratie, deutschland]
 ---

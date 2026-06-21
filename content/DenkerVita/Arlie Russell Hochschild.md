@@ -1,5 +1,6 @@
 ---
 title: Arlie Russell Hochschild — DenkerVita
+date: 2026-06-10
 tags: [denker-vita, soziologie, usa, psychologie, politik, populismus]
 ---
 

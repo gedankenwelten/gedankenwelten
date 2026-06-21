@@ -1,5 +1,6 @@
 ---
 title: "Renée DiResta — Invisible Rulers: Wie Lügen zur Realität werden"
+date: 2026-04-29
 aktualisiert: 2026-04-29
 tags:
   - denker

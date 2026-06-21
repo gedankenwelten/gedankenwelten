@@ -1,5 +1,6 @@
 ---
 title: "Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5"
+date: 2026-06-14
 tags:
   - spur
   - ki

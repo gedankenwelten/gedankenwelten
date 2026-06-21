@@ -1,5 +1,6 @@
 ---
 title: "Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen"
+date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:
   - denker

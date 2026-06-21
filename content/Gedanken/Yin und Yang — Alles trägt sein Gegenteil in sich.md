@@ -1,5 +1,6 @@
 ---
 title: Yin und Yang — Alles trägt sein Gegenteil in sich
+date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:
   - gedanke

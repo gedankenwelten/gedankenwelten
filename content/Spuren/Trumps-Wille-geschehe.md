@@ -1,5 +1,6 @@
 ---
 title: "Trumps Wille geschehe"
+date: 2026-06-19
 tags:
   - spur
   - usa

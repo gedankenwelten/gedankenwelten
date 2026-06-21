@@ -1,5 +1,6 @@
 ---
 title: Silvia Rivera Cusicanqui — DenkerVita
+date: 2026-06-10
 tags: [denker-vita, dekolonisierung, indigenes-denken, bolivien, soziologie, anarchismus]
 aktualisiert: 2026-06-10
 ---

@@ -1,5 +1,6 @@
 ---
 title: Shi Heng Yi — DenkerVita
+date: 2026-06-09
 tags:
   - denker-vita
   - buddhismus

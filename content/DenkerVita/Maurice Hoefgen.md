@@ -1,5 +1,6 @@
 ---
 title: Maurice Höfgen — DenkerVita
+date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, wirtschaft, mmt, deutschland]
 ---

@@ -1,5 +1,6 @@
 ---
 title: Rutger Bregman — DenkerVita
+date: 2026-06-17
 tags: [denker-vita, philosophie, anthropologie, niederlande]
 ---
 

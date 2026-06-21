@@ -1,5 +1,6 @@
 ---
 title: Staiy — DenkerVita
+date: 2026-05-11
 aktualisiert: 2026-05-11
 tags: [denker-vita, medienkritik, demokratie, deutschland, rechtsextremismus, youtube, aktivismus]
 ---

@@ -1,5 +1,6 @@
 ---
 title: Mark Reicher — DenkerVita
+date: 2026-06-09
 aktualisiert: 2026-06-09
 tags: [denker-vita, geopolitik, medien, youtube]
 ---

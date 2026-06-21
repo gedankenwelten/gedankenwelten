@@ -1,5 +1,6 @@
 ---
 title: Freddy Leppin — DenkerVita
+date: 2026-05-26
 aktualisiert: 2026-05-26
 tags: [denker-vita, medien, umwelt, wissenschaft, technologie, deutschland]
 ---

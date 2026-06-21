@@ -1,5 +1,6 @@
 ---
 title: "Thich Nhat Hanh — Die Vier Edlen Wahrheiten"
+date: 2026-04-20
 aktualisiert: 2026-04-20
 tags:
   - denker

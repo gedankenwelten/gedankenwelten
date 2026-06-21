@@ -1,5 +1,6 @@
 ---
 title: Maximilian Fichtner — DenkerVita
+date: 2026-05-23
 aktualisiert: 2026-05-23
 tags: [denker-vita, energiewende, batterie, wissenschaft, e-mobilitaet]
 ---

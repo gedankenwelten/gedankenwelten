@@ -1,5 +1,6 @@
 ---
 title: Udo Marquardt — DenkerVita
+date: 2026-05-20
 aktualisiert: 2026-05-20
 tags: [denker-vita, philosophie, zeit, deutschland]
 ---

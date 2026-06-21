@@ -1,5 +1,6 @@
 ---
 title: Niclas Seydack — DenkerVita
+date: 2026-04-29
 aktualisiert: 2026-04-29
 tags: [denker-vita, journalismus, generationen, millennials]
 ---

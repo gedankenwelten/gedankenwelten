@@ -1,5 +1,6 @@
 ---
 title: Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst
+date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:
   - geistesblitz
