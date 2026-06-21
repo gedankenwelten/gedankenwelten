@@ -13,6 +13,7 @@ const RANDOM_CATEGORIES = new Set([
   "Panorama",
   "Gedanken",
   "Geistesblitz",
+  "Kultur",
   "GoodNews",
 ])
 
