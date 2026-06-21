@@ -36,9 +36,7 @@ Die Gedankenwelten (luc)
 >
 > Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
 
-> **12.06.** — [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
->
-> ÖRR-Insider beschreiben ein riesiges schnarchendes Tier: Bürokratie, Zweiklassengesellschaft, Angst vor dem Hass — und warum sie trotzdem bleiben.
+> **21.06.** — [[Zeitgeist/MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus|MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]]
 
 ### Spuren
 
@@ -102,7 +100,13 @@ Die Gedankenwelten (luc)
 >
 > Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
 
+### GoodNews
+
+> **06.06.** — [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 3|Good News — Gute Nachrichten Mai 2026 Teil 2]]
+
 ### Geistesblitz
+
+> **21.06.** — [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin: Mehr als ein Glückshormon]]
 
 > **12.06.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
 >
@@ -111,14 +115,6 @@ Die Gedankenwelten (luc)
 > **09.06.** — [[Geistesblitz/Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke|Stromversorgung 2038 — ohne neue Gaskraftwerke]]
 >
 > Eine nüchterne Durchrechnung: Wie schließt ein 100%-Erneuerbare-System die brutale 104,6-Gigawatt-Lücke einer zehntägigen Dunkelflaute — ganz ohne fossile Neubauten?
-
-> **08.06.** — [[Geistesblitz/ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt]]
->
-> Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
-
-### GoodNews
-
-> **06.06.** — [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 3|Good News — Gute Nachrichten Mai 2026 Teil 2]]
 
 <!-- JOURNAL:END -->
 
