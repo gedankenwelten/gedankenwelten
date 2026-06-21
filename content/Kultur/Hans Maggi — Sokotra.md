@@ -13,7 +13,15 @@ aktualisiert: 22.06.2026
 
 # Hans Maggi — Sokotra
 
-<!-- BANNER folgt: Flagge Jemen + schemenhafter Sokotra-Umriss + Kunst (gedankenart → Grok), eingebettet als ![[assets/Hans-Maggi-Sokotra-banner.jpg|1200]] -->
+![[assets/Hans-Maggi-Sokotra-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Aquarell, Reise-Journal-Stil** — die drei Bänder der jemenitischen Flagge (Rot/Weiß/Schwarz) als atmosphärische Zonen statt aufgeklebtes Symbol, der Umriss Sokotras als geisterhafte Seekarten-Spur darübergelegt. Im Vordergrund die Drachenblutbäume als Hauptmotiv über türkiser Lagune und weißer Düne, ein winziger Radler auf der mäandernden Straße. Kunst zuerst, Land danach — die Bäume tragen das Bild, nicht das Politische.
+
+*Prompt:* A wide 1200x500 painterly watercolor travel banner for the island of Socotra. Three soft horizontal bands span the frame — deep red across the top, warm cream-white through the middle, charcoal black along the bottom — the colours of the Yemeni flag, used as gentle atmospheric zones, not a literal flag. Ghosted across the pale middle band lies the faint hand-drawn outline of Socotra island, like tracing on an old sea map. In the foreground, the hero motif: three or four umbrella-shaped dragon's blood trees in silhouette, crowns spread like parasols, a glint of red resin on the bark. Beneath them a sliver of turquoise lagoon and one pale white dune. A tiny stylised traveller on a loaded bicycle (no realistic face) rides a thin winding road across the whole scene. Flat translucent watercolour washes, warm and luminous, the feel of a hand-painted travel journal. No photorealism, no realistic faces.
+
+</details>
 
 > [!abstract] Worum es geht
 > Weit draußen im Indischen Ozean, näher am Horn von Afrika als an Arabien, liegt eine Insel, die zum Jemen gehört und doch eine Welt für sich ist. Der Reiseradler Hans Maggi durchquert sie allein — von der lärmenden Hauptstadt über das wasserlose Hochland bis in die Höhle eines alten Mannes, der nie vorhatte, sie zu verlassen. Eine Geschichte von Staunen und Erschöpfung, von überwältigender Gastfreundschaft und dem Plastik an jedem Strand. Kein Urteil. Eine Wirkung — und die muss nicht immer schön sein.

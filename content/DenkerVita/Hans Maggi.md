@@ -7,6 +7,16 @@ tags: [denker-vita, reise, fahrrad, begegnung, nachhaltigkeit]
 
 # Hans Maggi — DenkerVita
 
+![[assets/DenkerVita-Hans-Maggi-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Aquarell, langsame Reise** — ein einzelner Radler auf einer mäandernden Straße, die viele Landschaften zu einem Leben zusammennäht: Schneeberge, Wüste mit Kamel, Baum-Plateau, türkise Küste. Darüber eine blasse Weltkarte mit gepunkteter Route — die umrundete Erde. Der Weg als durchgehende Linie ist das Motiv: nicht ein Ort, sondern die Reise selbst.
+
+*Prompt:* A wide 1200x500 watercolor banner portraying the journey of a lone long-distance cyclist around the world. A single small stylised figure (no realistic face) rides a loaded touring bicycle along a thin winding road that crosses the entire frame from left to right, passing through a sequence of landscapes that melt into one another — snow peaks, a desert with a camel, a dry plateau dotted with umbrella-shaped trees, a turquoise coast. Behind it all, a faint ghosted globe and a dotted route-line arc across the sky, suggesting the circled earth. Warm earthy palette — sand, ochre, clay — with patches of teal and deep green. Flat translucent watercolour washes, painterly and intimate, the quiet romance of slow travel. No photorealism, no realistic faces.
+
+</details>
+
 → Cortex-Notes: [[Hans Maggi — Sokotra]]
 
 ---
