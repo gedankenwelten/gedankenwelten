@@ -22,23 +22,27 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Geistesblitz
+### Zeitgeist
 
-> **21.06.** — [[Geistesblitz/Erwin Thoma — Strategien der Natur|Erwin Thoma — Strategien der Natur]]
+> **19.06.** — [[Zeitgeist/Horst Evers — Kostenloser Nahverkehr als Utopie|Horst Evers — Kostenloser Nahverkehr als Utopie]]
+>
+> Wenn das größte Problem an einer Idee wäre, dass sie funktioniert — wie Comedy die Utopie des kostenlosen Nahverkehrs ernster nimmt als jede Talkshow.
 
-> **21.06.** — [[Geistesblitz/Manfred Spitzer — Hirnforscher Feldbach|Manfred Spitzer — Hirnforscher Feldbach]]
+> **17.06.** — [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]]
+>
+> Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
 
-> **21.06.** — [[Geistesblitz/Andreas Zimpel — Neurodiversität|Andreas Zimpel — Neurodiversität]]
+> **16.06.** — [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem]]
+>
+> Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
 
-> **21.06.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
-
-> **21.06.** — [[Geistesblitz/Gerald Huether — Lebendigkeit und das Ende der Hierarchien|Gerald Hüther — Lebendigkeit und das Ende der Hierarchien]]
-
-> → *2 weitere in* [[Geistesblitz]]
+> **12.06.** — [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
+>
+> ÖRR-Insider beschreiben ein riesiges schnarchendes Tier: Bürokratie, Zweiklassengesellschaft, Angst vor dem Hass — und warum sie trotzdem bleiben.
 
 ### Spuren
 
-> **21.06.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
+> **19.06.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
 >
 > Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?
 
@@ -59,28 +63,6 @@ Die Gedankenwelten (luc)
 > Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
 
 > → *3 weitere in* [[Spuren]]
-
-### GoodNews
-
-> **21.06.** — [[GoodNews/README|🌱 GoodNews — Gute Nachrichten aus der Community]]
-
-### Zeitgeist
-
-> **19.06.** — [[Zeitgeist/Horst Evers — Kostenloser Nahverkehr als Utopie|Horst Evers — Kostenloser Nahverkehr als Utopie]]
->
-> Wenn das größte Problem an einer Idee wäre, dass sie funktioniert — wie Comedy die Utopie des kostenlosen Nahverkehrs ernster nimmt als jede Talkshow.
-
-> **17.06.** — [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]]
->
-> Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
-
-> **16.06.** — [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem]]
->
-> Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
-
-> **12.06.** — [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
->
-> ÖRR-Insider beschreiben ein riesiges schnarchendes Tier: Bürokratie, Zweiklassengesellschaft, Angst vor dem Hass — und warum sie trotzdem bleiben.
 
 ### Gedanken
 
@@ -119,6 +101,24 @@ Die Gedankenwelten (luc)
 > **01.06.** — [[Panorama/Energie|Energie]]
 >
 > Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
+
+### Geistesblitz
+
+> **12.06.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
+>
+> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
+
+> **09.06.** — [[Geistesblitz/Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke|Stromversorgung 2038 — ohne neue Gaskraftwerke]]
+>
+> Eine nüchterne Durchrechnung: Wie schließt ein 100%-Erneuerbare-System die brutale 104,6-Gigawatt-Lücke einer zehntägigen Dunkelflaute — ganz ohne fossile Neubauten?
+
+> **08.06.** — [[Geistesblitz/ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? — Persönlichkeit zwischen Anlage und Umwelt]]
+>
+> Lange galt: Mit 30 ist der Charakter zementiert. Die Persönlichkeitsforschung widerlegt das — wir verändern uns ein Leben lang, aber nur innerhalb der Dehnbarkeit unseres eigenen Gummibands.
+
+### GoodNews
+
+> **06.06.** — [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 3|Good News — Gute Nachrichten Mai 2026 Teil 2]]
 
 <!-- JOURNAL:END -->
 
