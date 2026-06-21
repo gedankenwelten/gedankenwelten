@@ -2,6 +2,7 @@
 date: 2026-03-31
 title: "MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus"
 aktualisiert: 2026-04-05
+presseschau_aktualisiert: 2026-06-21
 tags:
   - zeitgeist
   - energiepolitik
@@ -114,6 +115,14 @@ Reiche hält trotzdem an den Plänen fest.
 
 ---
 
+## Presseschau
+
+Laufende Berichterstattung, die diese Note weiterträgt:
+
+- **20.06.2026 — Reiche in Ankara: „nicht über Nacht"** — Nach ihrem Türkei-Besuch besteht Reiche darauf, dass über die Türkei nach Europa geliefertes Gas nicht russisch sein dürfe — räumt zugleich ein, die russischen Mengen seien nicht über Nacht ersetzbar. Dieselbe fossile Kontinuität, die diese Note seziert (Bremse der Erneuerbaren = längere Gasabhängigkeit), zeigt sich hier auf der internationalen Bühne. *(Quellen-Gate bestanden:* [Berliner Zeitung](https://www.berliner-zeitung.de/article/deutschland-will-pipeline-gas-aus-der-tuerkei-aber-bitte-nicht-aus-russland-10115206) *neutral ·* [EU-Kommission](https://ec.europa.eu/commission/presscorner/detail/de/ip_25_2860) *Primärquelle · TASS, RU-staatsnah.)*
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — Reiche als Westenergie-Chefin
@@ -143,6 +152,8 @@ Reiche hält trotzdem an den Plänen fest.
 - [Fachagentur Wind und Solar — Status Windenergieausbau 2025 (PDF)](https://www.wind-energie.de/fileadmin/redaktion/dokumente/publikationen-oeffentlich/themen/06-zahlen-und-fakten/20260115_Status_des_Windenergieausbaus_an_Land_Jahr_2025.pdf) — Aktuelle Daten zu Genehmigungsdauern und Zubau
 - [Westenergie — Verteilnetze](https://www.westenergie.de/de/ueber-westenergie/verteilnetze.html) — Eigenangaben zur Marktposition
 - [ZDF heute — EEG: Reiche will Einschnitte bei Förderung erneuerbarer Energien](https://www.zdfheute.de/politik/deutschland/foerderung-solaranlagen-strom-reiche-eeg-100.html) — Überblick zum Gesetzentwurf
+- [Berliner Zeitung — Deutschland will Pipeline-Gas aus der Türkei, aber nicht aus Russland (20.06.2026)](https://www.berliner-zeitung.de/article/deutschland-will-pipeline-gas-aus-der-tuerkei-aber-bitte-nicht-aus-russland-10115206) — Presseschau-Beleg (neutral)
+- [EU-Kommission — Endgültiges Aus für russisches Gas (Primärquelle)](https://ec.europa.eu/commission/presscorner/detail/de/ip_25_2860) — EU-Beschlusslage zum Gas-Ausstieg
 
 ---
 
