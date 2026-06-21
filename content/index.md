@@ -78,6 +78,10 @@ Die Gedankenwelten (luc)
 >
 > Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
 
+> **12.06.** — [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
+>
+> ÖRR-Insider beschreiben ein riesiges schnarchendes Tier: Bürokratie, Zweiklassengesellschaft, Angst vor dem Hass — und warum sie trotzdem bleiben.
+
 ### Gedanken
 
 > **18.06.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen]]
