@@ -1,5 +1,6 @@
 ---
 title: Tiana Travels — DenkerVita
+date: 2026-06-05
 tags: [denker-vita, usa, kapitalismus, demokratie, migration]
 aktualisiert: 2026-06-05
 description: Amerikanische YouTuberin in Paris — analysiert US-Systemprobleme aus europäischer Distanz und macht sichtbar, was nur von außen sichtbar ist.

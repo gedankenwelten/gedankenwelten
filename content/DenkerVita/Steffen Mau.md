@@ -1,5 +1,6 @@
 ---
 title: Steffen Mau — DenkerVita
+date: 2026-04-28
 aktualisiert: 2026-04-28
 tags: [denker-vita, demokratie, deutschland]
 ---

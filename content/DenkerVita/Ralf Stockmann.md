@@ -1,5 +1,6 @@
 ---
 title: Ralf Stockmann — DenkerVita
+date: 2026-06-12
 tags: [denker-vita, technologie, medien, deutschland, datenschutz]
 ---
 

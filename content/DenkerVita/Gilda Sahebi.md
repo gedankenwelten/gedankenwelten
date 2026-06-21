@@ -1,5 +1,6 @@
 ---
 title: Gilda Sahebi — DenkerVita
+date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, medien, iran, rassismus, autoritarismus]
 ---

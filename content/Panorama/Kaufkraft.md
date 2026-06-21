@@ -1,5 +1,6 @@
 ---
 title: "Kaufkraft"
+date: 2026-05-23
 aktualisiert: 2026-05-23
 description: "Warum 1965 ein Einkommen für Haus, Auto und drei Kinder reichte und heute zwei Vollzeitjobs kaum für Wohneigentum — und warum Inflation das nicht erklärt."
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Zhao Tingyang — DenkerVita
+date: 2026-05-16
 aktualisiert: 2026-05-16
 tags: [denker-vita, philosophie, geopolitik, politische-ordnung, weltordnung, china, erkenntnistheorie, demokratie]
 ---

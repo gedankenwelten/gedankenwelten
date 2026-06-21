@@ -1,5 +1,6 @@
 ---
 title: Julie Pagis — DenkerVita
+date: 2026-05-07
 aktualisiert: 2026-05-07
 tags: [denker-vita, psychologie, autoritarismus, frankreich]
 ---

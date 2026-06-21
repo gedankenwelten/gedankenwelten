@@ -1,5 +1,6 @@
 ---
 title: Rainer Mausfeld — Warum schweigen die Lämmer?
+date: 2026-03-22
 aktualisiert: 2026-03-22
 tags:
   - denker

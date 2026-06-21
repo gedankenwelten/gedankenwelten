@@ -1,5 +1,6 @@
 ---
 title: Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes
+date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:
   - denker

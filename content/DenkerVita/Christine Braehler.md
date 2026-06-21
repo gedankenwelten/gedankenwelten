@@ -1,5 +1,6 @@
 ---
 title: Christine Brähler — DenkerVita
+date: 2026-06-05
 tags: [denker-vita, psychologie, selbstmitgefuehl, bindungstheorie, beziehungen, scham, deutschland]
 aktualisiert: 2026-06-05
 description: Psychotherapeutin und internationale Vorreiterin des Selbstmitgefühls — verbindet Bindungstheorie, Internal Family Systems und Compassion-Focused Therapy zu einem ganzheitlichen Modell liebevoller Beziehungen.

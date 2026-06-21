@@ -1,5 +1,6 @@
 ---
 title: "B.R. Ambedkar — Kaste als Ontologie"
+date: 2026-05-17
 aktualisiert: 2026-05-17
 description: "Vom Mahar-Kind zum Architekten der indischen Verfassung: Ambedkar begriff Kaste nicht als Brauch, sondern als Ontologie — ein System, das Menschsein selbst staffelt."
 tags:

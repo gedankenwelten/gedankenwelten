@@ -1,5 +1,6 @@
 ---
 title: Franziska Görlitz — DenkerVita
+date: 2026-05-21
 aktualisiert: 2026-05-21
 tags:
   - denker-vita

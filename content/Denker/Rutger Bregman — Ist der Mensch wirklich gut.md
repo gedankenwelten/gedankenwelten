@@ -1,5 +1,6 @@
 ---
 title: "Rutger Bregman — Ist der Mensch wirklich gut?"
+date: 2026-06-17
 tags:
   - denker
   - philosophie

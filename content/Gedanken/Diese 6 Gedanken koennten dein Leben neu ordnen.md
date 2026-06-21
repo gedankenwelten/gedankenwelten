@@ -1,5 +1,6 @@
 ---
 title: Diese 6 Gedanken könnten dein Leben neu ordnen
+date: 2026-06-18
 aktualisiert: 2026-06-18
 description: Sechs Sätze, alt wie das Denken selbst — und jeder noch immer ein Funke, der ein Leben neu ordnen kann. Eine Wanderung von Kant bis Zhuangzi, vom Staunen bis zum Loslassen.
 tags:

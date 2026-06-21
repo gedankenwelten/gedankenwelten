@@ -1,5 +1,6 @@
 ---
 title: "Rente"
+date: 2026-04-27
 aktualisiert: 2026-04-27
 tags:
   - panorama

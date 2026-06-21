@@ -1,5 +1,6 @@
 ---
 title: Morpheus — DenkerVita
+date: 2026-05-17
 aktualisiert: 2026-05-17
 tags: [denker-vita, ki, technologie, bildung, deutschland]
 ---

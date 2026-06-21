@@ -1,5 +1,6 @@
 ---
 title: "Walther Ziegler — Heidegger in 60 Minuten"
+date: 2026-04-26
 aktualisiert: 2026-04-26
 tags:
   - denker

@@ -1,5 +1,6 @@
 ---
 title: "Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus"
+date: 2026-04-05
 aktualisiert: 2026-04-05
 tags:
   - denker

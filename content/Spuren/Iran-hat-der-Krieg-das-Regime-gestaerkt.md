@@ -1,5 +1,6 @@
 ---
 title: "Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?"
+date: 2026-06-19
 tags:
   - spur
   - iran

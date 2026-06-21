@@ -1,5 +1,6 @@
 ---
 title: Marie-Agnes Strack-Zimmermann — DenkerVita
+date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, europa, sicherheitspolitik, fdp]
 ---

@@ -1,5 +1,6 @@
 ---
 title: Frank Sieren — DenkerVita
+date: 2026-05-17
 aktualisiert: 2026-05-17
 tags: [denker-vita, geopolitik, china, journalismus]
 ---

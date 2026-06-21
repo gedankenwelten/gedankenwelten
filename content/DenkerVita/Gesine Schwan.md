@@ -1,5 +1,6 @@
 ---
 title: Gesine Schwan — DenkerVita
+date: 2026-04-21
 aktualisiert: 2026-04-21
 tags: [denker-vita, demokratie, philosophie, macht, deutschland]
 ---

@@ -1,5 +1,6 @@
 ---
 title: Alle Denker
+date: 2026-04-16
 aktualisiert: 2026-06-10
 tags: [meta, denker-vita]
 ---

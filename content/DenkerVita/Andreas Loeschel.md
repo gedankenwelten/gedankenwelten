@@ -1,5 +1,6 @@
 ---
 title: Andreas Löschel — DenkerVita
+date: 2026-06-10
 tags: [denker-vita, energiepolitik, wirtschaft, deutschland, klimapolitik]
 aktualisiert: 2026-06-10
 ---

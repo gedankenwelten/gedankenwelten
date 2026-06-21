@@ -1,5 +1,6 @@
 ---
 title: Pascal Kaufmann — DenkerVita
+date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, ki, technologie, unternehmertum, schweiz]
 ---

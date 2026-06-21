@@ -1,5 +1,6 @@
 ---
 title: Jan-Keno Janssen — DenkerVita
+date: 2026-06-02
 aktualisiert: 2026-06-02
 tags: [denker-vita, technologie, ki, journalismus, deutschland]
 ---

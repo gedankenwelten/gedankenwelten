@@ -1,5 +1,6 @@
 ---
 title: "Panorama — Gelebte Demokratie"
+date: 2026-05-21
 aktualisiert: 2026-05-21
 description: "Demokratie ist kein Zustand, sondern eine Praxis — täglich gemacht in Anfragen, Streiks, Volksbegehren. Nicht verwaltet, sondern gelebt."
 tags:

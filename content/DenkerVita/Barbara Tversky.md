@@ -1,5 +1,6 @@
 ---
 title: Barbara Tversky — DenkerVita
+date: 2026-05-16
 aktualisiert: 2026-05-16
 tags: [denker-vita, psychologie, kognition, embodied-cognition, spatial-cognition, usa]
 ---

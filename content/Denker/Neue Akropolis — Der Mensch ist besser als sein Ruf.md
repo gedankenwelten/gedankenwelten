@@ -1,5 +1,6 @@
 ---
 title: Neue Akropolis — Der Mensch ist besser als sein Ruf
+date: 2026-03-22
 aktualisiert: 2026-03-22
 tags:
   - denker

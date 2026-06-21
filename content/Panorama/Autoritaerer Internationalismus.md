@@ -1,5 +1,6 @@
 ---
 title: "Autoritärer Internationalismus — Die globale Rechte"
+date: 2026-04-27
 aktualisiert: 2026-06-12
 tags:
   - panorama

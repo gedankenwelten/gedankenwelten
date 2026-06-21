@@ -1,5 +1,6 @@
 ---
 title: Anabel Ternès von Hattburg — DenkerVita
+date: 2026-05-30
 aktualisiert: 2026-05-30
 tags: [denker-vita, zukunftsforschung, psychologie, nachhaltigkeit, unternehmertum, deutschland]
 ---

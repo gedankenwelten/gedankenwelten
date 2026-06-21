@@ -1,5 +1,6 @@
 ---
 title: Achille Mbembe — DenkerVita
+date: 2026-05-15
 aktualisiert: 2026-05-15
 tags: [denker-vita, philosophie, postkolonialismus, geopolitik, demokratie]
 ---

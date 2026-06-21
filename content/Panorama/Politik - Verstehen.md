@@ -1,5 +1,6 @@
 ---
 title: "Politik — Verstehen"
+date: 2026-05-17
 aktualisiert: 2026-05-17
 tags:
   - panorama

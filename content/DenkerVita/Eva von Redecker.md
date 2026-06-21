@@ -1,5 +1,6 @@
 ---
 title: Eva von Redecker — DenkerVita
+date: 2026-05-15
 aktualisiert: 2026-05-15
 tags: [denker-vita, philosophie, kapitalismus-kritik, faschismus, feminismus, deutschland]
 ---

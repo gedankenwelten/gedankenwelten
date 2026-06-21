@@ -1,5 +1,6 @@
 ---
 title: Ulf Poschardt — DenkerVita
+date: 2026-05-10
 aktualisiert: 2026-05-10
 tags: [denker-vita, philosophie, medien, deutschland, liberalismus, kulturkritik]
 ---

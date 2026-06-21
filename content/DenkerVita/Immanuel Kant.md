@@ -1,5 +1,6 @@
 ---
 title: Immanuel Kant — DenkerVita
+date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, aufklaerung, erkenntnistheorie, ethik]
 ---
