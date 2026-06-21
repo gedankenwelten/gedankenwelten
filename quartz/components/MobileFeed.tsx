@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
-import { parseFmDate } from "./DesktopFeed"
+import { parseFmDate, computeTier } from "./DesktopFeed"
 // @ts-ignore
 import script from "./scripts/mobileFeed.inline"
 import style from "./styles/mobileFeed.scss"
@@ -52,6 +52,7 @@ interface FeedEntry {
   thumb: string | null
   date: string
   ts: number
+  tier: number
   desc: string
 }
 
@@ -79,11 +80,10 @@ const MobileFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quart
     if (!title) continue
 
     // Datum: aktualisiert (Frontmatter) bevorzugt, sonst Erstellungsdatum.
-    // Bewusst NICHT git-modified (defaultDateType) — sonst steigen alte Notes
-    // hoch, nur weil sie kürzlich ein Banner-/Cross-Link-Commit hatten.
-    let when = parseFmDate(page.frontmatter?.aktualisiert)
-    if (!when) when = page.dates?.created ?? page.dates?.modified
-    const ts = when ? when.getTime() : 0
+    // Tiered (computeTier): Rang aus Frontmatter-Feldern, NICHT git-modified — sonst
+    // stiegen alte Notes hoch, nur weil sie ein Banner-/Cross-Link-Commit hatten.
+    const { tier, when } = computeTier(page)
+    const ts = when.getTime()
 
     const banner = page.banner
     const desc = (page.description ?? (page.frontmatter?.description as string) ?? "").trim()
@@ -96,13 +96,14 @@ const MobileFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quart
       inAlles: cat.inAlles,
       url: resolveRelative(fileData.slug!, slug),
       thumb: banner?.src ?? RUBRIK_BANNER(cat.key),
-      date: when ? shortDate(when) : "",
+      date: ts > 0 ? shortDate(when) : "",
       ts,
+      tier,
       desc: desc.length > 200 ? desc.slice(0, 197) + "…" : desc,
     })
   }
 
-  entries.sort((a, b) => b.ts - a.ts)
+  entries.sort((a, b) => a.tier - b.tier || b.ts - a.ts)
 
   // Intro-Text aus index.md ziehen (alles vor dem Journal) — für den Footer-Sheet.
   // Direkt aus der Quelldatei lesen (am Build), damit die Original-Absätze erhalten

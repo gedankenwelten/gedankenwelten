@@ -49,6 +49,7 @@ interface FeedEntry {
   thumb: string | null
   date: string
   ts: number
+  tier: number
 }
 
 interface CloudTag {
@@ -96,6 +97,32 @@ export function parseFmDate(v: unknown): Date | undefined {
   return isNaN(parsed.getTime()) ? undefined : parsed
 }
 
+// Tiered-Sortierung (gespiegelt von build_journal.py): neue Notes (≤7T) immer
+// zuoberst — sie gehen nie unter —, dann manuelle Hand (aktualisiert:), dann der
+// galilei-Forschungsstand (forschung_aktualisiert:), dann die News-Brücke
+// (presseschau_aktualisiert:), dann alt/legacy. Angereicherte Notes floaten hoch,
+// aber nie über neue oder manuell vertiefte. Forschung wiegt schwerer als News.
+const FEED_WINDOW_DAYS = 7
+export function computeTier(
+  page: QuartzComponentProps["allFiles"][number],
+  now: Date = new Date(),
+): { tier: number; when: Date } {
+  const fm = (page.frontmatter ?? {}) as Record<string, unknown>
+  const created = page.dates?.created ?? page.dates?.modified
+  const akt = parseFmDate(fm.aktualisiert) ?? parseFmDate(fm.updated)
+  const fakt = parseFmDate(fm.forschung_aktualisiert)
+  const pakt = parseFmDate(fm.presseschau_aktualisiert)
+  const cutoff7 = new Date(now.getTime() - FEED_WINDOW_DAYS * 86400000)
+  const enrich = [fakt, pakt].filter(Boolean) as Date[]
+  if (created && created.getTime() >= cutoff7.getTime()) return { tier: 0, when: created }
+  if (akt && enrich.every((d) => akt.getTime() >= d.getTime())) return { tier: 1, when: akt }
+  if (fakt && (!pakt || fakt.getTime() >= pakt.getTime())) return { tier: 2, when: fakt }
+  if (pakt) return { tier: 3, when: pakt }
+  if (akt) return { tier: 1, when: akt }
+  if (fakt) return { tier: 2, when: fakt }
+  return { tier: 4, when: created ?? new Date(0) }
+}
+
 // Rubrik-Banner als Fallback-Thumbnail, wenn die Note kein eigenes Body-Bild hat.
 // Öffentlich liegt der Gedankenwelten/-Ordner im Root → Pfad OHNE Gedankenwelten/-Prefix.
 const RUBRIK_BANNER = (key: string): string => `/assets/rubrik-banner/${key}.jpg`
@@ -120,10 +147,9 @@ const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quar
     const title = page.frontmatter?.title
     if (!title) continue
 
-    // Datum: aktualisiert (Frontmatter) bevorzugt, sonst Erstellungsdatum.
-    let when = parseFmDate(page.frontmatter?.aktualisiert)
-    if (!when) when = page.dates?.created ?? page.dates?.modified
-    const ts = when ? when.getTime() : 0
+    // Tiered: neu (≤7T) → manuell → Forschung → Presseschau → alt; Datum = Aktivität des Rangs.
+    const { tier, when } = computeTier(page)
+    const ts = when.getTime()
 
     entries.push({
       title,
@@ -133,8 +159,9 @@ const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quar
       inAlles: cat.inAlles,
       url: resolveRelative(fileData.slug!, slug),
       thumb: page.banner?.src ?? RUBRIK_BANNER(cat.key),
-      date: when ? shortDate(when) : "",
+      date: ts > 0 ? shortDate(when) : "",
       ts,
+      tier,
     })
 
     // Tags dieser Note zählen (strukturelle übersprungen)
@@ -146,7 +173,7 @@ const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quar
     }
   }
 
-  entries.sort((a, b) => b.ts - a.ts)
+  entries.sort((a, b) => a.tier - b.tier || b.ts - a.ts)
 
   // Tag-Wolke: ab Mindesthäufigkeit, alphabetisch, Farbe = dominante Rubrik
   const cloud: CloudTag[] = Object.entries(tagTotal)
