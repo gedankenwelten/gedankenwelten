@@ -34,7 +34,7 @@ Die Gedankenwelten (luc)
 
 > **21.06.** — [[Geistesblitz/Gerald Huether — Lebendigkeit und das Ende der Hierarchien|Gerald Hüther — Lebendigkeit und das Ende der Hierarchien]]
 
-> → *1 weitere in* [[Geistesblitz]]
+> → *2 weitere in* [[Geistesblitz]]
 
 ### Spuren
 
