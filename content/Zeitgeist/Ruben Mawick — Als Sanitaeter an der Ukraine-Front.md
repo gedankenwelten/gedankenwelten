@@ -1,6 +1,6 @@
 ---
 title: "Ruben Mawick — Als Sanitäter an der Ukraine-Front"
-date: 06.06.2026
+date: 22.06.2026
 description: "Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter an der ukrainischen Front, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde."
 aktualisiert: 22.06.2026
 tags:
