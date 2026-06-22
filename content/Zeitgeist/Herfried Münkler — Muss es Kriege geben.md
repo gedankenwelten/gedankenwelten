@@ -225,3 +225,7 @@ Heinrich formuliert Münklers Strukturanalyse als konkrete Diagnose: „Eskalati
 ### → [[Martin Sonneborn — Endloser Krieg]]
 
 Sonneborns These des „endlosen Krieges" als Geschäftsmodell nutzt intuitiv Münklers Konzept des perpetuierten Konflikts — aber ohne die entscheidende Ergänzung: Münkler fragt, was passiert, wenn dem Aggressor *nicht* entgegengetreten wird. Sonneborn fordert Frieden, ohne Friedensbedingungen zu benennen.
+
+### → [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]]
+
+Münklers *postheroische Gesellschaft* — die im Tausch denkt, nicht im Opfer — findet in Mawick ihren seltenen Gegenbeweis aus erster Hand: ein junger Deutscher, der das eigene Leben nicht höher bewertet als das eines fremden Kindes. Wo Münkler die Theorie der verlorenen Opferbereitschaft liefert, liefert Mawick die gelebte Praxis — und die unbequeme Frage, ob sie Tugend oder Trauma ist.
