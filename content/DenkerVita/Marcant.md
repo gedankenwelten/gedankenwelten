@@ -124,7 +124,7 @@ Ein Community-Konzept (Details begrenzt verfügbar), das vermutlich auf Vernetzu
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier leer lassen)*
+- [[DenkerVita/Ruben Mawick|Ruben Mawick]] — zwei Junge, die hingehen, wo andere wegsehen; beide lagerlos und von beiden Seiten angefeindet. Marcant führte das zentrale Mawick-Langgespräch (Podcast #11).
 
 ## Gedankenwelten-Notes
 

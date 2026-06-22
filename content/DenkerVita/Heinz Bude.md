@@ -85,6 +85,7 @@ Bude lässt sich keinem klassischen politischen Lager zuordnen. Er selbst berich
 - **Alexander und Margarete Mitscherlich** → *Unfähigkeit zu trauern* als Zugang der Boomer zur NS-Vergangenheit
 - **Steffen Mau** → Empirische Validierung der Boomer-Diagnose: demobilisierte Klassengesellschaft, Triggerpunkte
 - **Hartmut Rosa** → Kontrastfigur: Resonanz vs. Boomer-Gegenwartsorientierung
+- **[[DenkerVita/Ruben Mawick|Ruben Mawick]]** → Mawicks „Wehrpflicht als Füreinander-Einstehen“ ist gelebte Soziologie von Budes Solidaritäts- und Angst-Diagnose: das Füreinander, das die atomisierte Gesellschaft verlernt.
 
 ---
 

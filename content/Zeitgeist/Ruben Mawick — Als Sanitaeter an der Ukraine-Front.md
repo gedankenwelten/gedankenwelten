@@ -18,6 +18,16 @@ aliases:
 
 # Ruben Mawick — Als Sanitäter an der Ukraine-Front
 
+![[assets/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Käthe Kollwitz** — Kohle und Lithografie, Erd- und Aschepalette mit einem einzigen verhaltenen Blutrot. Ein gebeugter junger Mann mit bandagierter Hand, Narben und zwei Kreuzen auf der Brust; die schnurgerade Straße zum brennenden Fahrzeug, Drohnen am bleichen Himmel, Gräberkreuze mit Namen. Kollwitz ist die einzige ehrliche Hand für diese Note: Sie zeichnet den *Preis* des Krieges — die Trauer, den Leib, die Hinterbliebenen — ganz ohne Heroik. Der Krieg vom Rücken des Überlebenden und von den Gräbern her, nie von der Explosion.
+
+*Prompt:* Käthe Kollwitz-style charcoal and lithograph drawing, wide 1200x500 banner. Earth-and-ash palette: charcoal black, soot grey, muted ochre, one single restrained blood-red accent. No photorealism. No realistic faces — figures bowed, turned away, faces in shadow. Right third, large and close: the broad back and bowed shoulders of a young man, one hand bandaged, heavy smudged charcoal — exhaustion and endurance. Across the half-glimpsed chest, a small tattoo of plain block letters and two simple crosses; faint scars and tiny dark flecks over the skin like metal splinters beneath it. Center and left: a long dead-straight road receding through flat empty fields to a low horizon; far down the road a single vehicle burns, a thin column of black smoke into a vast washed-out pale-grey sky; bare winter trees, a broken fence. High in the wide sky, three or four tiny dark drone silhouettes hover like distant crows. Lower left, half-sunk in the earth, a few small wooden grave-crosses and faint scratched names. Mood: monumental grief without glory, the human cost of war, weight and restraint.
+
+</details>
+
 > [!abstract] Worum es geht
 > Mit 18 verfolgte er den Truppenaufmarsch, mit 19 stieg er in einen Flixbus nach Lwiw, mit 20 zog er sich aus einem brennenden Auto, in das eine russische Panzerabwehrrakete eingeschlagen war — zwei seiner Freunde starben dabei. Ruben Mawick, deutscher Sanitäter, war achtmal an der ukrainischen Front. Dieses Gespräch ist ein Augenzeugnis: über den drohnendominierten Krieg, über das Danach im eigenen Kopf, über die Wehrpflicht — und über die unbequeme Frage, wofür ein Mensch bereit wäre zu sterben. Wir trennen hier sauber: die *Erfahrung* gehört respektiert, die *politischen Behauptungen* werden geprüft.
 
@@ -27,6 +37,8 @@ Quelle: [So ist es WIRKLICH an der FRONT — MARCANT PODCAST #11](https://www.yo
 > **Ruben Mawick** (*2002/03, Westfalen*) — ausgebildeter Rettungssanitäter, ehemals Freiwillige Feuerwehr, sieben Monate Sanitätsdienst der Bundeswehr. Seit Juni 2023 immer wieder als humanitärer Helfer und Combat Medic in der Ukraine (verbunden mit Organisationen wie *Road to Relief* und *Aequitas Aid*) — er evakuiert Zivilisten, versorgt Verwundete, koordiniert Hilfsgüter. Am 9. September 2023 traf eine russische Panzerabwehrrakete sein Fahrzeug; zwei Mitfahrende starben, er trägt bis heute zahlreiche Granatsplitter im Körper.
 >
 > Wichtig für die Einordnung: ein **erfahrungsgesättigter, klar parteiischer Zeuge** (pro Ukraine, engagiert) — kein neutraler Militäranalyst. Was er gesehen und erlitten hat, ist sein; was er über Russland, die NATO oder Waffensysteme schlussfolgert, ist Meinung eines Beteiligten.
+>
+> → [[DenkerVita/Ruben Mawick|DenkerVita]]
 
 ---
 

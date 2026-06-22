@@ -13,6 +13,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Ruben Mawick
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ruben Mawick]]
+
+---
+
 ## Jörg Baberowski
 **Status:** ✓ Vollanalyse → [[DenkerVita/Joerg Baberowski]]
 
