@@ -163,6 +163,10 @@ Gerdes zieht die Parallele zu Szijjártó: Wer für Moskau keinen Nutzen mehr ha
 
 ## Verbindungen
 
+### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
+
+Die materielle Unterfütterung zur hiesigen Leadership-Lesart eines erstarkenden Selenski: Flemig liefert die Logistik- und Wirtschaftsdaten — verbunden direkt über Selenskis von Putin abgelehntes Friedensangebot.
+
 ### → [[Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
 
 Flemig dokumentiert Kiews *militärische* Stärke (Gebietsgewinne, Drohnen), Gerdes die *diplomatisch-finanzielle* Gegenseite derselben Dynamik (EU-Kredit, Saudi-Diplomatie, Veterane trainieren Bundeswehr). Zusammen ergibt sich das Gesamtbild: Die ukrainische Verhandlungsposition 2026 ruht auf zwei Säulen — Schlachtfeld *und* Koalitionsarchitektur.

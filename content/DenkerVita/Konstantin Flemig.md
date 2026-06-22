@@ -74,6 +74,7 @@ Sein Buch *Freiheit unter Feuer* erscheint beim Heyne Verlag — ein Bericht üb
 
 ## Gedankenwelten-Notes
 
+- [[Zeitgeist/Konstantin Flemig — Russlands Katastrophen-Monat]] — Häufung russischer Rückschläge Juni 2026: Drohnen über Moskau/St. Petersburg, Krim abgeschnürt, Benzinrationierung, Mythos der Unbesiegbarkeit zerstört
 - [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026]] — Frontanalyse Ukraine, Drohnenkrieg, russische Verluste
 - [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE]] — Sudan-Krieg, VAE-Rolle, vergessene Krisenregion
 - [[Zeitgeist/Konstantin Flemig — US-Seeblockade gegen Iran]] — Geopolitik Straße von Hormuz, US-Militärpräsenz

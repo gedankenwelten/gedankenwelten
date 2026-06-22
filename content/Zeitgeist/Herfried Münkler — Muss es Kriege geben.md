@@ -179,6 +179,10 @@ Beide haben recht — auf verschiedenen Ebenen:
 
 ## Verbindungen
 
+### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
+
+Flemigs Befund einer Armee jenseits ihrer Rekrutierungskapazität trifft Münklers postheroische Frage neu: Was entscheidet Kriege, wenn weder Masse noch Heroismus mehr tragen? Wenn die schiere Größe im Drohnenkrieg von der Stärke zur Schwäche wird, verschiebt sich das ganze strategische Fundament.
+
 **Kempers Machiavelli-Kritik:** [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]] — Kemper liest Machiavelli als Pathologie: Identifikation mit dem Aggressor, Virtu als Quelle faschistischer Männlichkeit. Münkler liefert das Gegenstück: Machiavelli als Realismus-Fundament und Beschreibung struktureller Kriegsdynamik. Die Note oben enthält eine detaillierte Vergleichstabelle beider Zugänge.
 
 **Kempers Interview (Technofaschismus):** [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] — Beide sehen strukturelle Ursachen von Rechtsruck: Kemper ökonomisch (Finanzkrise, Postfordismus), Münkler machtpolitisch (Ressentiment, heroische vs. postheroische Gesellschaft).

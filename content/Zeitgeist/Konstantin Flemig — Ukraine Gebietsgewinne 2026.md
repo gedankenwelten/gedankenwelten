@@ -124,6 +124,10 @@ Quelle: [Ukraine erobert MASSIV Gebiete zurück – Putin unter Druck!](https://
 
 ## Verbindungen
 
+### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
+
+Das Follow-up zwei Monate später: Wo hier die Geländegewinne an der Front stehen, verdichtet die Katastrophen-Note die Erosion auf Russlands Heimatfront — Drohnen über Moskau und St. Petersburg, Krim abgeschnürt, Benzin rationiert. Erst die Front, dann das Hinterland.
+
 ### → [[Staiy — News: Die Regierung zockt euch ab (02.04.2026)]]
 
 Jacques-Tilly-Kapitel dort: Russland nutzt Gerichte als Einschüchterungsinstrument gegen Kritiker — strukturell dasselbe wie das, was Flemig beschreibt: Putins Narrativ-Kontrolle als Herrschaftsmittel

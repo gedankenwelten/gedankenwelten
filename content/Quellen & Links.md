@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Konstantin Flemig — Russlands Katastrophen-Monat
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Russland erlebt gerade MEHRERE Katastrophen hintereinander!](https://www.youtube.com/watch?v=8oPpE3YLLm0) |
+| **Notiz** | [[Zeitgeist/Konstantin Flemig — Russlands Katastrophen-Monat]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Flemig_Russland_Katastrophen_Transkript.txt` |
+
 ## Jörg Baberowski — Putin, Herrschaft & liberale Demokratie
 
 | | |

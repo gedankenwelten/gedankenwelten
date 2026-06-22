@@ -144,6 +144,10 @@ Das ist der entscheidende Unterschied zu Sonneborn: Sonneborn sieht Absicht (Kri
 
 ## Verbindungen
 
+### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
+
+Produktive Spannung über das Tempo: Heinrich fragt, ob der Westen den Krieg bewusst verlängert, um Russland langsam auszubluten. Flemigs Katastrophen-Monat erzählt dagegen von einer rapiden, womöglich kippenden Erosion — kein langsames Ausbluten, sondern beschleunigter Verfall. Wer hat recht?
+
 ### → [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]]
 
 Die nötige Gegenstimme im Gleichmut-Spiegel: Wo Heinrich denselben Krieg als Eskalationsmanagement liest, bei dem die Ukraine zwischen den Großmächten verheizt wird, argumentiert Mawick von der Front her für entschlossene Verteidigung. Beide ernst zu nehmen heißt, die unbequeme Lücke auszuhalten — geopolitische Skepsis des Analytikers versus moralische Klarheit des Augenzeugen.
