@@ -19,6 +19,16 @@ aliases:
 
 # Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie
 
+![[assets/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Anselm Kiefer** — verbrannte Erde, Blei und Asche, das Gewicht totalitärer Geschichte. Im Zentrum ein gesichtsloser Koloss auf seinem Sockel (der Machtstaat als Symbol), aus dessen schwarzem Tor ein Geflecht aus Drähten und Bruchlinien über die rissige Ebene wuchert — die „Räume der Gewalt". Kiefer ist Baberowskis Territorium: sein Hauptwerk heißt *Verbrannte Erde*. Monumental und melancholisch, nicht agitatorisch.
+
+*Prompt:* Wide desolate banner, 1200x500. A scorched, cracked earthen plain stretching to a low horizon under a heavy leaden sky — palette of ash, burnt umber, lead-grey, charred black, with a single thin band of cold pale light at the horizon. In the center rises a monumental dark monolith: the faceless silhouette of a colossal statue on a plinth, a power-state idol, its surface like corroded iron and dried mud. Fine spidery black lines radiate from a small black rectangular void near its base across the broken ground, like a web of wires and fault-lines. Scattered straw and flecks of gold leaf caught in the foreground furrows. Thick impasto texture, layered ash and lead, matte and encrusted. Faint hand-scratched word fragments pressed into the lower sky. Monumental, melancholic, the weight of buried history. In the style of Anselm Kiefer — scorched-earth materiality, no photorealism, no faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein über drei Stunden langes Gespräch mit einem der renommiertesten — und umstrittensten — deutschen Gewalthistoriker. Baberowski denkt vom Tod her: Weil wir wissen, dass wir sterben, geben wir unserem Leben Sinn. Von dort spannt er einen Bogen zu Stalin und Putin, zur Logik der Gewalt, die sich keiner Ideologie verdankt, und endet bei einer Behauptung, die wehtut: Herrschaft sei ein Naturgesetz, und die liberale Demokratie sei nicht dasselbe wie Demokratie. Man muss ihm nicht folgen. Aber man kommt klüger heraus, wenn man ihm zuhört — und dabei prüft, wo der Historiker endet und der Polemiker beginnt.
 
@@ -51,11 +61,11 @@ Objektivität, sagt er, liege nicht im neutralen Blick, sondern allein in der Me
 
 ### Wir sind Gäste des Lebens
 
-[▶ 13:45](https://www.youtube.com/watch?v=fQchzySVyb4&t=825) — Der Historiker denkt vom Tod her. Mit Heidegger: Der Mensch weiß um seine Sterblichkeit, der Hund nicht. Aus diesem Wissen erwächst das Bedürfnis, dem Sinnlosen — geboren zu werden, zu sterben, ohne zu wissen wozu — einen Sinn abzutrotzen. Wir erzählen uns Geschichten, bauen Kultur, vererben etwas an die Nächsten. Nicht das Leben hat einen Sinn; wir geben dem Leben, das wir führen, einen.
+[▶ 13:45](https://www.youtube.com/watch?v=fQchzySVyb4&t=825) — Der Historiker denkt vom Tod her. Mit Heidegger: Der Mensch weiß, dass er stirbt; der Hund weiß es nicht. Und aus diesem Wissen, dass wir geworfen wurden und wieder hinausgeworfen werden, ohne zu erfahren wozu, wächst der eine, unstillbare Drang — dem Sinnlosen einen Sinn abzutrotzen. Wir erzählen uns Geschichten. Wir bauen Kultur. Wir vererben den Nächsten etwas, das uns überdauert. Das Leben selbst hat keinen Sinn; wir geben ihn dem Leben, das wir führen.
 
 > *„Wir sind Gäste des Lebens. Wir sind gar nicht diejenigen, die über das Leben befinden, sondern das Leben befindet über uns."*
 
-[▶ 27:31](https://www.youtube.com/watch?v=fQchzySVyb4&t=1651) Daraus folgt eine fast tröstliche Härte gegen den Traum vom ewigen Leben der Tech-Eliten: Ein Leben ohne Tod wäre kein Leben. Erst die Begrenzung gibt dem Tun Gewicht — würden wir morgen erfahren, die Erde verginge in zwei Wochen, wäre alles sofort sinnlos: Steuern, Bildung, Bücher, Musik. Was Sinn stiftet, ist der Gedanke, dass nach uns weitergelebt wird.
+[▶ 27:31](https://www.youtube.com/watch?v=fQchzySVyb4&t=1651) Daraus folgt eine fast tröstliche Härte gegen den Unsterblichkeitstraum der Tech-Eliten: Ein Leben ohne Tod wäre kein Leben. Erst die Grenze gibt dem Tun sein Gewicht. Erführen wir morgen, dass die Erde in zwei Wochen vergeht, fiele im selben Augenblick alles in sich zusammen — Steuern, Bildung, Bücher, Musik. Was Sinn stiftet, ist allein der Gedanke, dass nach uns weitergelebt wird.
 
 > [!question] Weitergedacht
 > Wenn Sinn nur entsteht, *weil* wir sterben — ist dann die Sehnsucht der Unsterblichkeits-Apostel im Silicon Valley nicht der Wunsch, die einzige Quelle des Sinns trockenzulegen?
