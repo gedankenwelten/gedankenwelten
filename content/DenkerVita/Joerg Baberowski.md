@@ -5,6 +5,16 @@ tags: [denker-vita, geschichte, gewalt, stalinismus, demokratie, deutschland]
 
 # Jörg Baberowski — DenkerVita
 
+![[assets/Joerg-Baberowski-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Gerhard Richter** — die graue, verwischte Foto-Vermalung. Eine gesichtslose Gestalt am Schreibtisch, von Büchertürmen umstellt, durchs Fenster die geisterhafte Moskauer Skyline. Der Squeegee-Schleier trifft die *Reizfigur*: ein Mann zwischen Archiv und Streit, sichtbar und doch nie scharf gestellt — das umkämpfte Bild eines Gelehrten, der zugleich Polemiker ist.
+
+*Prompt:* Wide banner, 1200x500, in the blurred grey photo-painting manner of Gerhard Richter. A seated figure at a wooden desk seen from the side, surrounded by towering stacks of books and loose archive papers; the figure faceless and softly smeared as if dragged with a wide squeegee — present yet dissolving, never fully resolved. Behind, a tall window with cold northern light and the faint blurred suggestion of a distant eastern city skyline (onion domes, a long avenue) ghosting through the glass. Restrained palette: photographic grey, slate, the muted ochre of old paper, a single cold blue gleam from the window. Horizontal drag-marks pull across the whole image, blurring edges into uncertainty. Quiet, contemplative, contested — a thinker between the archive and the storm. No sharp facial features, no photorealism.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
