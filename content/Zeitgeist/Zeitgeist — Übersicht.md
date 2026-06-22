@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*235 Notes — automatisch generiert · nach Thema sortiert*
+*236 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -135,6 +135,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel|phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 - [[Zeitgeist/rabbit hole — Ungarn-Wahl KI-Wahlkampf|rabbit hole — Ungarn-Wahl: Wird Politik zum KI-Albtraum?]]
 - [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland|rp26 — Stresstest für die Demokratie: Sind wir bereit für den Ernstfall in Ostdeutschland?]]
+- [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]] — Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter an der ukrainischen Front, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
 - [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
 - [[Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|Spahns Maskendeal und das Spendendinner]]
 - [[Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)|Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
