@@ -32,7 +32,7 @@ Die Gedankenwelten (luc)
 >
 > Wenn das größte Problem an einer Idee wäre, dass sie funktioniert — wie Comedy die Utopie des kostenlosen Nahverkehrs ernster nimmt als jede Talkshow.
 
-> **17.06.** — [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]]
+> **16.06.** — [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]]
 >
 > Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
 
@@ -72,19 +72,19 @@ Die Gedankenwelten (luc)
 >
 > Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
 
-> **15.06.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
+> **15.06.** — [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?]]
+>
+> Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird.
+
+> **18.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
+>
+> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
+
+> **16.06.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
 >
 > Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
 
-> **15.06.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
->
-> Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
-
-> **15.06.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
-
-> → *3 weitere in* [[Spuren]]
+> → *1 weitere in* [[Spuren]]
 
 ### Gedanken
 
