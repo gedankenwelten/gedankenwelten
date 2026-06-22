@@ -13,6 +13,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Jörg Baberowski
+**Status:** ✓ Vollanalyse → [[DenkerVita/Joerg Baberowski]]
+
+---
+
 ## Arlie Russell Hochschild
 **Status:** ✓ Vollanalyse → [[DenkerVita/Arlie Russell Hochschild]]
 

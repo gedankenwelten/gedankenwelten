@@ -33,6 +33,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## B
 
+**[[DenkerVita/Joerg Baberowski|Jörg Baberowski]]** — Historiker (HU Berlin), Gewalt- und Stalinismusforscher; Gewalt als eigene Logik (jenseits der Ideologie), Herrschaft als Naturgesetz des Staates, Liberalismus ≠ Demokratie; renommiert und polarisierend zugleich
+
 **[[DenkerVita/Barbara Tversky|Barbara Tversky]]** — Kognitionspsychologin (Stanford, Columbia Teachers College); Spatial Cognition als Fundament der Menschheit, Mind in Motion, Embodied Thinking, Gesten als externe Kognition
 
 **[[DenkerVita/Bijan Moini|Bijan Moini]]** — Jurist und Menschenrechtsanwalt (GFF); Überwachungs-Asymmetrie, digitale Grundrechte, automatisiertes Data Mining, BND-Auslandsüberwachung; Literarisierung juristischer Sorgen im Roman *Der Würfel* (2019)

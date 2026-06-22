@@ -142,6 +142,9 @@ Das ist ein legitimes fiskalisches Risiko, das in der öffentlichen Debatte zu w
 
 ## Verbindungen
 
+### → [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]]
+Dieselbe Eskalationsdynamik des Ukraine-Kriegs, entgegengesetzte Blickrichtung: Sonneborn macht die westliche Kriegsökonomie zur Ursache und blendet den Aggressor weitgehend aus, während Baberowski gerade Putins Diktatorendilemma und die unkontrollierbare Logik der Spirale ins Zentrum stellt — ein Kontrast, der zeigt, wie sehr der Standpunkt das Urteil formt.
+
 ### → [[Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
 
 Die unverzichtbare Gegenposition. Sonneborn blendet den Aggressor komplett aus — Flemig liefert genau das fehlende Stück: Putins Narrativ vom „metaphysischen Krieg gegen den Westen", die Kriegsführung als innenpolitisches Herrschaftsinstrument, die Iranisierung der russischen Wirtschaft. Wer Sonneborns Analyse ohne Flemigs Korrektiv liest, bekommt ein halbes Bild. Wer beide liest, versteht die eigentliche Spannung: Die Rüstungsindustrie profitiert *und* Putin muss gestoppt werden.

@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Jörg Baberowski — Putin, Herrschaft & liberale Demokratie
+
+| | |
+|---|---|
+| **Interview / Video** | [Historiker Jörg Baberowski über Putin, Herrschaft & liberale Demokratie — Jung & Naiv: Folge 832](https://www.youtube.com/watch?v=fQchzySVyb4) |
+| **Note** | [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]] |
+| **DenkerVita** | [[DenkerVita/Joerg Baberowski]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Baberowski_SinnDesLebens_Transkript.txt` |
+
 ## Hans Maggi — Sokotra (Jemen)
 
 | | |

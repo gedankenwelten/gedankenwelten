@@ -166,6 +166,7 @@ Das schließt den Kreis zu den Gedankenwelten-Gedanken über Demokratie als Gewe
 
 ## Verbindungen
 
+- [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]] — Auch Baberowski trennt die liberale Demokratie scharf vom Liberalismus und liest Populismus als Symptom, nicht als Pathologie. Doch wo Mouffe daraus den agonistischen Streit als demokratische Heilung fordert, sieht der Historiker Herrschaft als Naturgesetz und endet beim „erträglichsten Joch" statt bei der Radikalisierung der Demokratie.
 - [[Denker/Ernesto Laclau — Macht und Repraesentation|Laclau — Macht und Repräsentation]] — Laclau, Mouffes Partner und Ko-Autor von *Hegemonie und radikale Demokratie*: Wo Mouffe den **Agonismus** als demokratisches Prinzip entwickelt, entfaltet Laclau die diskurstheoretische Seite (gleitende Signifikanten, Repräsentation, Leerstelle). Zwei Hälften desselben Projekts.
 - [[Panorama/Politik - Verstehen|Panorama — Politik verstehen]] — Mouffes Agonismus-Begriff ist die fehlende Dimension: nicht nur verstehen warum Macht verdrängt, sondern warum die Demokratie den Konflikt braucht
 - [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen|Haidt — Moralische Wurzeln]] — Haidt zeigt empirisch, dass politische Zugehörigkeit affektiv ist, nicht rational — genau das, was Mouffe Habermas vorwirft zu übersehen

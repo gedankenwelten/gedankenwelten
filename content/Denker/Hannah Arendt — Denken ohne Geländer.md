@@ -175,6 +175,10 @@ Mausfeld fordert philosophisch dasselbe, was Arendt existenziell beschreibt: das
 > [!note] Gemeinsame Einsicht
 > Weder Arendt noch Mausfeld glauben, dass feste Wertesysteme schützen. Beide setzen auf die **Fähigkeit zum eigenen Urteil** — und beide wissen, dass diese Fähigkeit trainierbar und verlierbar ist.
 
+### → [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]]
+
+Baberowski stützt seine Gewaltanalyse ausdrücklich auf Arendts These der zerstörten Rechtsräume — wo das Recht endet, beginnt die Todeszone. Doch wo Arendt das Böse aus dem Verlust des Denkens (Banalität) erklärt, verschiebt er den Akzent auf die ideologiefreie Eigendynamik der Gewalt: zwei Lesarten desselben Täters.
+
 ### → [[Immanuel Kant — Was ist Aufklärung?]]
 
 Kants Sapere aude und Arendts Denken ohne Geländer sind dieselbe Geste — sich dem unsicheren, haltlosen Selbstdenken zu überlassen, ohne Schutz von Dogma oder Autorität. Der Unterschied: Kant hofft noch auf die Vernunft als universelle Instanz; Arendt weiß nach dem Totalitarismus, dass selbst Vernunft kein Geländer ist. Beide kommen zum selben Imperativ; Arendt kennt nur den höheren Preis.
