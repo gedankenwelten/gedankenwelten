@@ -19,6 +19,16 @@ aliases:
 
 # Konstantin Flemig — Russlands Katastrophen-Monat
 
+![[assets/Konstantin-Flemig-Russlands-Katastrophen-Monat-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Pieter Bruegel d. Ä.** — panoramische „Weltlandschaft", Vogelschau, hoher Horizont, gedämpfte Erd- und Schneetöne, winzige Figuren. Statt eines zentralen Motivs die *Weite selbst*: ein riesiges Winterland, gleichmäßig mit kleinen Katastrophen übersät — brennende Raffinerie, stockende LKW-Kolonne, Tankstellen-Schlange, brennendes Kriegsschiff im Hafen. Genau das ist Flemigs Kernthese im Bild: Russlands Größe kippt von der Stärke zur Schwäche, der Mythos zerfällt nicht an einem Punkt, sondern auf der ganzen Fläche. Der gebeugte, rissige Steinkoloss in der Mitte trägt leise das „Putin als Getriebener". Bruegel moralisiert nie — er breitet die Welt aus und lässt sie sprechen.
+
+*Prompt:* Wide panoramic banner, 1200×500px, in the manner of Pieter Bruegel the Elder — a sweeping bird's-eye winter "world landscape" with a high horizon line near the top, muted earth tones, ochre, slate grey, dirty white snow, deep green-black. NO photorealism, NO realistic faces — tiny distant figures rendered as small rounded silhouettes like in Bruegel's "Hunters in the Snow". The vast frozen land sprawls from edge to edge, emphasizing immense scale. Scattered across the enormous landscape, small and evenly distributed so no single point dominates: on the left, a burning oil refinery sending a thick column of black smoke into a pale sky; in the mid-distance, a long stalled column of toy-like military trucks frozen on a snow road that snakes toward the horizon; on the right, in a small harbor, a warship aflame, orange flames and grey smoke reflected on dark water; in the foreground, a long thin queue of tiny bundled figures waiting at a row of fuel pumps, some turning away empty-handed; a frozen river cutting diagonally across; here and there small fires and dark scorch marks dotting the white plain. Near the center-right, a colossal grey stone statue of a standing figure is cracked and beginning to topple, fissures running up its body, the head tilting — a monolith coming apart. Tiny black birds scattered across the wide pale sky. Crisp Northern-Renaissance detail, oil-painting texture, flat even daylight, melancholic and quiet despite the disasters. No text, no labels.
+
+</details>
+
 > [!abstract] Worum es geht
 > Innerhalb weniger Wochen treffen Wladimir Putins Russland Schlag auf Schlag: ukrainische Drohnen über Moskau und Putins Heimatstadt St. Petersburg, eine faktisch abgeschnürte Krim, Benzinrationierung an über tausend Tankstellen, eine Ölverarbeitung auf dem tiefsten Stand seit 2009. Konstantin Flemig ordnet ein, was diese Häufung bedeutet — und warum sie nicht zwingend in einen schnellen Frieden mündet. Eine Bestandsaufnahme darüber, wie ein Mythos zerfällt: der von der russischen Unbesiegbarkeit.
 

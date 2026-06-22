@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*236 Notes — automatisch generiert · nach Thema sortiert*
+*237 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -221,6 +221,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Herfried Münkler — Muss es Kriege geben|Herfried Münkler — Muss es Kriege geben?]]
 - [[Zeitgeist/Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung|Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
 - [[Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht|Konstantin Flemig — Deutschland als Rüstungs-Großmacht]]
+- [[Zeitgeist/Konstantin Flemig — Russlands Katastrophen-Monat|Konstantin Flemig — Russlands Katastrophen-Monat]] — Drohnen über Moskau und St. Petersburg, abgeschnürte Krim, rationiertes Benzin: wie der Mythos der russischen Unbesiegbarkeit in einem einzigen Monat zerfällt.
 - [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026|Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
 - [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (5▸6) Alle Industrieländer setzen auf Kernenergie|Mario Buchinger — Lügen der Kernenergie (5/6): Alle Industrieländer setzen auf Kernenergie]]
 - [[Zeitgeist/Martin Sonneborn — Endloser Krieg|Martin Sonneborn — Endloser Krieg]]
