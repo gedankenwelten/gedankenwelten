@@ -96,6 +96,10 @@ Hinzu kommt: Der Iran hat in den Wochen vor der Blockade begonnen, **Durchfahrts
 
 ## Verbindungen
 
+### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
+
+Ökonomische Strangulation als Waffe an zwei Schauplätzen: hier die geplante US-Seeblockade gegen Irans Öl, dort die ukrainischen Drohnenschläge gegen Russlands Raffinerien und die Benzinrationierung. Moderne Kriege werden oft an der Tankstelle entschieden.
+
 ### → [[Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
 
 Derselbe Reporter, zwei parallele Krisenherde: Flemig analysiert sowohl den Ukraine-Krieg als auch die Eskalation am Persischen Golf aus demselben faktenjournalistischen Blickwinkel

@@ -160,6 +160,10 @@ Was Flemig dabei nicht explizit sagt, aber implizit zeigt: Die Zeitenwende ist k
 
 ## Verbindungen
 
+### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
+
+Die Kehrseite derselben Medaille: Während Russlands Ölverarbeitung und Rekrutierung kollabieren, skaliert Deutschland die Munitionsproduktion. Der Krieg als Frage industrieller Durchhaltefähigkeit — wer die Produktion verliert, verliert die Front.
+
 ### → [[Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
 
 Die Ukraine-Frontnote und diese Rüstungsnote bilden zusammen ein Bild: Dort analysiert Flemig den Verbrauch von Munition an der Front, hier die industrielle Kapazität, diesen Verbrauch zu bedienen. Warum Ukraine bei Drohnen und Munition kämpft — und was das auf der Produktionsseite bedeutet.

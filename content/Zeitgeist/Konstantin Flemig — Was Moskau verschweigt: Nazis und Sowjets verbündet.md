@@ -170,6 +170,10 @@ Flemigs Schlussthese ist prägnant: Ideologie ist Schulbuchware. In der Realpoli
 
 ## Verbindungen
 
+### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
+
+Beide demontieren den russischen Selbst-Mythos — hier den historischen Gründungsmythos vom alleinigen Bezwinger des Faschismus, dort den militärischen der Unbesiegbarkeit. Der Drohnenkrieg dekonstruiert ihn schneller als jede Geschichtsdebatte.
+
 ### → [[Erich Fromm — Psychoanalyse des Faschismus]]
 
 Fromm analysiert, wie faschistische Charakterstrukturen entstehen und warum Menschen sich autoritären Bewegungen unterwerfen. Flemigs Video ergänzt das um eine geopolitische Dimension: Faschismus und Bolschewismus, ideologisch unvereinbar, kooperieren ohne Skrupel, sobald die Machtinteressen konvergieren. Fromm erklärt den Einzelnen — Flemig zeigt das Staatsprinzip.

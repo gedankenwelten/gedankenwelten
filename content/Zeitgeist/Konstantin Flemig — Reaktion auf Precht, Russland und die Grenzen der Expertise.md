@@ -188,6 +188,10 @@ Damit bleibt der reale Dissens kleiner, als das kämpferische Format suggeriert:
 
 ## Verbindungen
 
+### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
+
+Der empirische Beleg zur hiesigen These vom brüchigen Koloss: Ölverarbeitung auf dem Tiefstand seit 2009, eine Armee jenseits ihrer Rekrutierungskapazität. Diese Note mahnt zugleich epistemische Demut an — ein Vorbehalt gegen die Verlockung, aus einem schlechten Monat schon das Kriegsende zu lesen.
+
 ### → [[Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]]
 
 Die Kehrseite derselben Debatte: Hier verteidigt Flemig die *Notwendigkeit* der Aufrüstung, dort (in dieser Note) gesteht er ihre *Kosten* ein. Zusammen ergeben sie sein differenziertes Bild — Aufrüstung als bitter notwendiges, aber „totes Geld". Wer beide liest, sieht, dass Flemig kein Aufrüstungs-Enthusiast ist, sondern ein resignierter Realist.
