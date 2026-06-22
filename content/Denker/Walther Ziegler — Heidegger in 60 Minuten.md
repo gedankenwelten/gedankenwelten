@@ -179,6 +179,7 @@ Quelle: [Heidegger in 60 Minuten](https://www.youtube.com/watch?v=cG3ol6AYAWI)
 
 ## Verbindungen
 
+- [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]] — Baberowskis „Wir sind Gäste des Lebens" ist gelebtes Sein-zum-Tode: Erst das Wissen um die Endlichkeit nötigt den Menschen, dem Sinnlosen einen Sinn abzutrotzen. Was Heidegger ontologisch entfaltet, übersetzt der Historiker in eine fast buddhistische Gelassenheit gegenüber der Vielfalt der Sinnentwürfe.
 - [[Hannah Arendt — Denken ohne Geländer]] — Heideggers Schülerin macht aus seinem *Denken ohne Grund* eine politische Praxis; Natalität als Gegenentwurf zur Geworfenheit, Pluralität als Antwort auf die Vereinzelung des Daseins
 - [[Hannah Arendt — Die Banalität des Bösen]] — Eichmanns *Gedankenlosigkeit* ist Heideggers Das Man in seiner extremsten politischen Konsequenz: der Mensch, der nie aus der Uneigentlichkeit heraustritt
 - [[Erich Fromm — Haben oder Sein]] — Fromms Haben-Modus ist die psychoanalytische Übersetzung von Das Man — Identität durch Besitz statt durch Sein; sein Sein-Modus beschreibt Heideggers Eigentlichkeit in alltagstauglicher Sprache

@@ -71,6 +71,7 @@ Möller ist **nicht einfach einer Strömung zuzuordnen**. Seine Position ist:
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/NANO Talk - Eliten zwischen Machtmissbrauch und Verantwortung|NANO Talk – Eliten zwischen Machtmissbrauch und Verantwortung]] (3sat, 28.05.2026)
+- [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]] — liefert das historische Material zu Möllers Populismustheorie: die repräsentative Demokratie als oligarchische Erfindung, Populismus als belebende wie gefährliche Anrufung der Volkssouveränität
 
 ---
 

@@ -81,6 +81,7 @@ Sie lehrt, dass ehrliche intellektuelle Arbeit wichtiger ist als politische Gesc
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Transkript & Analyse des INET-Interviews (2016)
+- [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]] — teilt Browns Befund, dass der Neoliberalismus die Solidaritätsbeziehungen auflöst (Baberowski erlebt es im Russland der 90er), entlarvt aber die liberale Demokratie selbst als oligarchisch, statt das demokratische Versprechen zu verteidigen
 - [[Denker/Michel Foucault]] — Browns Hauptreferenz: *Die Geburt der Biopolitik* als Werkzeug zur Neoliberalismus-Analyse
 - [[Denker/Karl Marx]] — Kapitalismuskritik als Grundlage; Browns Neoliberalismus-These radikalisiert Marx auf die Subjektseite
 - [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalität]] — Deutsche Parallele zu Browns Foucault-Lektüre (Gouvernementalität als Regierungstechnik)

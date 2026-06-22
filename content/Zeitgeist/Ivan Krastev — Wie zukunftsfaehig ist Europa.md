@@ -244,6 +244,9 @@ Krastev dreht das um: Wenn er gute Laune hat, liest er Romane. Wenn er schlechte
 
 ## Verbindungen
 
+### → [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]]
+Krastev liest den Populismus als Rebellion gegen die Demütigung des Nachahmungszwangs, Baberowski als Reaktion auf eine Demokratie, die „am Volk vorbei" regiert — zwei Erklärungen desselben Ressentiments. Beide nehmen die illiberale Wende ernst, statt sie als bloßen Rückfall abzutun.
+
 ### → [[StreitClub — Europa allein zu Haus]]
 
 Beide Gespräche stellen die Frage: Was wird aus Europa ohne amerikanische Sicherheitsgarantien? Krastev analysiert die strukturellen Ursachen (vier zerschlagene Annahmen), der StreitClub die unmittelbaren strategischen Optionen. Krastevs Befund — *Budgets führen keine Kriege, Menschen führen Kriege* — vertieft die StreitClub-Debatte um Verteidigungsetats.

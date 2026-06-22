@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **22.06.** — [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]]
+>
+> Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz.
+
+> **17.06.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
+>
+> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
+
+> **10.06.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+>
+> Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
+
 ### Kultur
 
 > **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
@@ -81,20 +95,6 @@ Die Gedankenwelten (luc)
 > **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
 >
 > Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
-
-### Denker
-
-> **17.06.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
->
-> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
-
-> **10.06.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
->
-> Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
-
-> **09.06.** — [[Denker/Shi Heng Yi — Aufloesung der Identitaet|Shi Heng Yi — Die Auflösung der Identität]]
->
-> Ein Shaolin-Meister demontiert öffentlich die eigene Identität — Essenz statt Rolle, Loslassen statt Kontrolle, der Bruch mit dem missbrauchenden Lehrmeister.
 
 ### Panorama
 
