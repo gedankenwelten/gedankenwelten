@@ -70,7 +70,7 @@ Heinrich bezeichnet sich als „freiheitlich-liberal" und „pro-amerikanisch, p
 
 ## Verbindungen zu anderen Denkern
 
-*(Montaigne befüllt diese Sektion)*
+- [[DenkerVita/Ruben Mawick|Ruben Mawick]] — der schärfste Gegenpol: Heinrich liest die Ukraine als „bewusst geopfert“ / Eskalationsmanagement, Mawick kämpft parteiisch von der Front her weiter — geopolitische Skepsis des Analytikers vs. moralische Klarheit des Augenzeugen.
 
 ---
 

@@ -199,6 +199,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Maurice Hoefgen|Maurice Höfgen]]** — Ökonom, YouTuber ("Geld für die Welt", 251.000+ Abonnenten), Kolumnist Berliner Zeitung; MMT, progressive Wirtschaftspolitik, Anti-Austerität, Inflationsanalyse
 
+**[[DenkerVita/Ruben Mawick|Ruben Mawick]]** — Deutscher Combat Medic & humanitärer Helfer (geb. 2002, Westfalen); seit 2023 mehrfach an der Ukraine-Front, überlebte 9.9.2023 einen Raketeneinschlag (zwei Kameraden tot); parteiischer, lagerloser Augenzeuge; das eigene Leben wiegt nicht mehr als das eines fremden Kindes, der Drohnenkrieg hat das Hinterland abgeschafft, Pazifismus als Privileg der Fliehenkönnenden
+
 **[[DenkerVita/Michael Hartmann|Michael Hartmann]]** — Soziologe, Elitenforscher, em. Professor TU Darmstadt; Elite = Macht (nicht Netzwerk); soziale Herkunft determiniert Elitenpositionen; neoliberale Elite-Politik erzeugt Rechtspopulismus; Myth of Performance Elites empirisch widerlegt; Habitus, Erbgesellschaft, Studiengebühren als Demokratiegefahr
 
 **[[DenkerVita/Michael Sterner|Michael Sterner]]** — Professor Energiespeicher/Energiesysteme OTH Regensburg, Mitentwickler Power-to-Gas, Bayerischer Energiebeirat; dezentrale Wertschöpfung, Technologieoffenheit, wissenschaftliche Freiheit
