@@ -144,6 +144,10 @@ Das ist der entscheidende Unterschied zu Sonneborn: Sonneborn sieht Absicht (Kri
 
 ## Verbindungen
 
+### → [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]]
+
+Die nötige Gegenstimme im Gleichmut-Spiegel: Wo Heinrich denselben Krieg als Eskalationsmanagement liest, bei dem die Ukraine zwischen den Großmächten verheizt wird, argumentiert Mawick von der Front her für entschlossene Verteidigung. Beide ernst zu nehmen heißt, die unbequeme Lücke auszuhalten — geopolitische Skepsis des Analytikers versus moralische Klarheit des Augenzeugen.
+
 ### → [[Martin Sonneborn — Endloser Krieg]]
 
 Die andere Hälfte derselben Diagnose — aber mit einem entscheidenden Unterschied in der Quellenqualität. Sonneborn saß 10 Jahre im Europäischen Parlament. Er ist kein externer Kommentator, sondern Insider. Was er über fehlende Kontrollmechanismen, intransparente Mittelvergabe und die Selbstbedienungsmentalität der EU-Institutionen berichtet, basiert auf Erfahrung aus erster Hand. Zusammen mit Nico Semsrott (ebenfalls Die PARTEI, EU-Parlament) hat er systematisch aufgedeckt, wie wenig Kontrolle es gibt — von Lobby-Zugängen bis zu Nebeneinkünften. Der von-der-Leyen-Skandal (verschwundene SMS, Pfizer-Deals) bestätigt das Muster: Die EU hat ein strukturelles Transparenzproblem, das weit über den Ukraine-Kontext hinausgeht.

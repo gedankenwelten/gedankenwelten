@@ -175,6 +175,10 @@ Die Vorstellung, dass eine *kommende* Zeit neue Türen öffnen könnte, sei der 
 
 ## Verbindungen
 
+### → [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]]
+
+Budes Diagnose der ausbleibenden Solidarisierung — keiner steht mehr für den anderen nach unten ein — ist das soziale Negativ zu Mawicks Frage nach dem Füreinander-Einstehen. Mawick fragt, wofür ein Mensch zu sterben bereit ist; Bude erklärt, warum eine angstgetriebene, atomisierte Gesellschaft schon das Füreinander-*Leben* verlernt hat.
+
 ### → [[Panorama/NoAfD|Panorama: NoAfD]]
 
 Budes Befund der Spaltung *innerhalb* der Unterklasse — das Dienstleistungsproletariat verachtet die Bürgergeld-Bezieher, keine Solidarisierung nach unten — ist im Panorama als Teil des Scharnier-Mechanismus eingeordnet (mit [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Cusicanquis]] Kette der Scharniere als kolonialer Tiefenstruktur desselben Musters: Aspiration nach oben, Verachtung nach unten).

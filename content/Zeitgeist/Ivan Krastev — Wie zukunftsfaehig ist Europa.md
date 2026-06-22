@@ -283,6 +283,10 @@ Flassbeck erklärt den Braindrain aus Osteuropa als wirtschaftspolitische Konseq
 
 Krastev diagnostiziert die Erschöpfung des liberalen Zukunftsversprechens und das Ressentiment aus enttäuschter Hoffnung; Evers' *Fun Facts Utopia* ist der Gegenentwurf — der Versuch, überhaupt wieder ein positives Zukunftsbild aussprechbar zu machen, statt nur Niedergang zu verwalten.
 
+### → [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]]
+
+Krastevs Befund *Budgets führen keine Kriege, Menschen führen Kriege* ist der wunde Punkt der Wehrpflicht-Debatte, um die Mawick ringt. Krastev liefert die strukturelle Diagnose, Mawick die persönliche Zuspitzung: Was bedeutet es konkret, der Mensch zu sein, der hinter dem Budget steht — und wofür wäre er bereit zu sterben?
+
 ---
 
 ## Weiterdenken

@@ -227,6 +227,9 @@ Krastev liest den Populismus als Rebellion gegen die Demütigung des Nachahmungs
 ### → [[Martin Sonneborn — Endloser Krieg]]
 Dieselbe Eskalationsdynamik des Ukraine-Kriegs, entgegengesetzte Blickrichtung: Sonneborn macht die westliche Kriegsökonomie zur Ursache und blendet den Aggressor aus, während Baberowski gerade die unkontrollierbare Logik der Spirale und das Diktatorendilemma Putins ins Zentrum stellt — ein Kontrast, der zeigt, wie sehr der Standpunkt das Urteil formt.
 
+### → [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]]
+Baberowski denkt vom Tod her — erst die Endlichkeit nötigt zum Sinn; Mawick hat das nicht gedacht, sondern in einer Nahtoderfahrung durchlebt. Und Baberowskis ideologiefreie *Eigendynamik der Gewalt* (Gruppenbindung, das Wissen um den Tod der Opfer) findet im drohnendominierten Frontalltag, von dem Mawick aus erster Hand berichtet, ihre konkrete Anschauung.
+
 ---
 
 ## Weiterdenken

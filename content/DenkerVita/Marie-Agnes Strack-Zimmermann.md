@@ -64,3 +64,4 @@ Wirtschaftsliberal (FDP), aber in der Sicherheitspolitik eher transatlantisch-re
 ## Gedankenwelten-Notes
 
 - [[StreitClub — Europa allein zu Haus]] — Paneldebatte über europäische Verteidigungsautonomie (April 2026)
+- [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]] — Sie zahlt den Preis entschiedener Ukraine-Unterstützung im Politischen, Mawick im Körperlichen; beide stoßen auf dieselbe Allianz aus AfD-Milieu und russischer Einflussnahme
