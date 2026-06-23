@@ -155,6 +155,10 @@ Die Fabrikräte waren demokratischer als Gewerkschaften: Jeder konnte teilnehmen
 
 ## Verbindungen
 
+### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
+
+Kühnert beschreibt den „Aufbruch ins Unpolitische" der 90er als Versäumnis — die Politik habe verlernt, ökonomisch zu denken. Mattei deutet dieselbe Entpolitisierung als *Strategie*: Austerität als bewusstes Werkzeug, die Verteilungsfrage stillzustellen und Kapitalmacht zu sichern. Produktive Spannung zwischen Versäumnis und Absicht.
+
 ### → [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 
 Fricke zeigt, wie Austeritätspolitik den Rechtsruck befeuert; Mattei liefert die historische Tiefe: Austerität *ist* der Mechanismus, mit dem der Kapitalismus sich stabilisiert — auch durch faschistische Regierungen

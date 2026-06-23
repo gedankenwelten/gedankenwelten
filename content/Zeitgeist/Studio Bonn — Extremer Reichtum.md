@@ -242,6 +242,9 @@ Sie benennt explizit die intersektionale Dimension: Überreiche sind statistisch
 
 ## Verbindungen
 
+### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
+Kühnert solo, ein Jahr später: Was er hier im Panel neben Engelhorn und Pfeffer entwickelt (Erbe als günstigstes Einkommen, Geld = Macht), trägt er bei Marcant als zugespitzte Einzelthese vor — und verbindet sie mit seinem Ausstieg aus der Politik. Die vierstimmige Diagnose wird zur persönlichen Mission als „Lobbyist für die Zivilgesellschaft".
+
 ### → [[Denker/Martyna Linartas — Unverdiente Ungleichheit]]
 Engste Schwesteranalyse im Vault: Linartas liefert die politikwissenschaftliche Dissertation mit Piketty-Unterbau und internationalem Vergleich zu denselben Kernbefunden — Vermögen vs. Einkommen als Kategorienfehler, 75–80% Erbschaftsanteil, Dynastien als Demokratiegefahr. Engelhorns relationale Kritik ("Geld arbeitet nicht, Menschen arbeiten für Geld") ist exakt das, was Linartas strukturell beweist.
 

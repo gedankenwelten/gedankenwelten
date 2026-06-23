@@ -122,7 +122,8 @@ In seiner neuen Rolle bei Finanzwende kritisiert Kühnert die Steuervermeidungsi
 
 Vollständig analysierte Zeitgeist-Notes, in denen Kühnert eine zentrale Rolle spielt:
 
-- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Kerntext: Kühnerts 6%-Rendite-Vorschlag, Diagnose des Kategorienfehl ers bei Einkommen vs. Vermögen
+- [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Kerntext: Kühnerts 6%-Rendite-Vorschlag, Diagnose des Kategorienfehlers bei Einkommen vs. Vermögen
+- [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]] — Das große Ausstiegs-Gespräch (MARCANT, 2026): warum er die Macht verließ, die Snippet-Politik von innen, die Verschiebung der sozialen Frage ins Kulturelle, Geld = Macht, und die alltägliche Bedrohung als Demokratiefrage
 
 *Weitere Verweise auf Kühnert (indirekt):*
 - [[Denker/Martyna Linartas — Unverdiente Ungleichheit]] — Parallele Diagnose zu Erbschaftsprivileg

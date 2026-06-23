@@ -217,6 +217,9 @@ Aber: Navidi traut den Midterms nicht. Die Republikaner drehen an allen Stellsch
 
 ## Verbindungen
 
+### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
+Kühnert blickt warnend auf die USA — „weil es manchmal einfach schon drei Schritte weiter ist". Navidi zeigt von innen, wie weit: Wo Geld unbegrenzt in Politik fließt (Citizens United, Musk → eigene Behörde), kauft sich Reichtum ein Sondersystem. Sein deutsches Vorsorge-Argument findet hier den eingetretenen Ernstfall.
+
 ### → [[Zeitgeist/Annette Dittert — Dear Britain]]
 Großbritannien als „Frühwarnsystem" (Dittert) und die USA als bereits eingetretener Ernstfall (Navidi) bilden eine Eskalationsachse derselben Verschmelzung von Oligarchie und Staatsmacht.
 

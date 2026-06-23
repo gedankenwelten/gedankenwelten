@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **23.06.** — [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]]
+>
+> Ein Politiker verlässt freiwillig die Macht — und benennt von außen, was er von innen nur andeuten durfte: Geld ist Macht, und die soziale Frage wurde ins Kulturelle verschoben.
+
 > **22.06.** — [[Zeitgeist/Konstantin Flemig — Russlands Katastrophen-Monat|Konstantin Flemig — Russlands Katastrophen-Monat]]
 >
 > Drohnen über Moskau und St. Petersburg, abgeschnürte Krim, rationiertes Benzin: wie der Mythos der russischen Unbesiegbarkeit in einem einzigen Monat zerfällt.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
 
-> **16.06.** — [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem]]
->
-> Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
-
-> → *1 weitere in* [[Zeitgeist]]
+> → *2 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -76,10 +76,6 @@ Die Gedankenwelten (luc)
 >
 > Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
 
-> **15.06.** — [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?]]
->
-> Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird.
-
 > **18.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >
 > Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
@@ -88,7 +84,9 @@ Die Gedankenwelten (luc)
 >
 > Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
 
-> → *1 weitere in* [[Spuren]]
+> **21.06.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
 ### Gedanken
 
