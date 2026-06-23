@@ -7,6 +7,16 @@ tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerec
 
 # Kevin Kühnert — DenkerVita
 
+![[assets/Kevin-Kuehnert-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Rockwell Kent** — klare, holzschnitthafte Linien, monumentale Bergplanen, dramatisches idealisiertes Licht in Schiefergrau, Schneeweiß und einem warmen Gold-Akzent. Eine einsame Figur (ohne realistisches Gesicht) wandert einen Alpenpass, das Parlament als winzige Kuppel klein im Tal zurückgelassen — Kühnerts 1.200-km-Wanderung nach dem Burnout, der Mann, der durch die Macht ging und wieder heraustrat. Der lange Schatten im Schnee nimmt die Form einer Waage an: Die Berufung (Steuergerechtigkeit) wandert als Schatten mit. Kent, weil er den einsamen Wanderer vor monumentaler Landschaft prägte — und selbst überzeugter Linker war.
+
+*Prompt:* A wide horizontal banner in the style of Rockwell Kent, 1200x500, bold woodcut-influenced clean lines, dramatic idealized light, limited palette of slate blue, snow white, charcoal and a single warm gold accent. A solitary stylized male figure (no realistic face, seen from behind or in profile silhouette) walks a high alpine mountain pass, backpack on shoulders, striding from right toward a luminous sky on the left. Far below in the valley behind him sits a tiny grey domed parliament building, growing small and distant. The mountains rise in clean monumental planes. The walker's long shadow on the snow subtly takes the shape of a balanced pair of justice scales. Crisp graphic clouds, heroic but humble mood, sense of leaving an apparatus behind and walking toward clarity. No photorealism, no text.
+
+</details>
+
 ## Biographischer Snapshot
 
 Kevin Kühnert (*1989, Berlin*) — Ehemaliger SPD-Generalsekretär (Dezember 2021 – Oktober 2024) und Juso-Vorsitzender (2017–2020). Zog sich 2024 nach Burnout und politischen Bedrohungen aus der aktiven Bundespolitik zurück; leitet seitdem den Bereich Verteilungspolitik, Steuern und Lobbyismus bei der Bürgerbewegung Finanzwende. Kernthese: Vermögen wie Einkommen besteuern — durch fiktive 6%-Rendite-Unterstellung für Großvermögen.

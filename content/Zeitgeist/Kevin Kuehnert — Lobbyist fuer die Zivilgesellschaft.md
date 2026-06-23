@@ -18,6 +18,16 @@ aliases:
 
 # Kevin Kühnert — Lobbyist für die Zivilgesellschaft
 
+![[assets/Kevin-Kuehnert-Lobbyist-fuer-die-Zivilgesellschaft-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera / mexikanischer Muralismus** — Fresko-Textur, runde monumentale Figuren ohne realistische Gesichter, warme Erdpalette aus Terrakotta, Ocker, Tiefseegrün und Gold. Links die verlassene Welt der Macht (graue Kammer, Clip-Bildschirme), im Zentrum die goldene Waage, auf der ein Turm aus Münzen und Goldbarren eine Menge gleicher kleiner Menschen vom Boden hebt — „Geld ist Macht" ohne ein Wort. Rechts die einzelne Figur mit dem Papier-Megafon vor warmen Wiener Sozialbauten, davor die als „FAMILIE"-Ladenfassade getarnte Glas-Skyscraper. Muralismus, weil die Note vom Gemeinwohl und der Verschiebung der sozialen Frage handelt — kollektive Würde und politische Klarheit, ohne in Karikatur zu kippen.
+
+*Prompt:* A wide horizontal mural in the style of Diego Rivera and Mexican muralism, 1200x500 panorama, fresco texture, rounded monumental figures with no realistic faces, warm earthen palette of terracotta, ochre, deep teal and gold. LEFT: the world of power being left behind — a cool grey geometric parliament chamber and floating screens showing fragmented cropped speaking figures (politics as clips). CENTER, dominant: an enormous golden balance scale; on one pan a single heavy tower of stacked gold coins and ingots, on the other pan a dense crowd of small equal human figures being lifted helplessly off the ground — one-person-one-vote outweighed by money. RIGHT: a single modest figure standing on a wooden crate holding a rolled paper like a megaphone, a small attentive crowd of ordinary working people gathering around; behind them a warm terracotta Vienna-style social housing block with many lit windows. In the foreground a small painted shop facade reading "FAMILIE" propped up like a stage flat, revealing a cold glass skyscraper hidden directly behind it. Mural composition, flat depth, dignified collective scene, no photorealism, no text banners.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Jahr nach seinem Rückzug aus der Bundespolitik spricht Kevin Kühnert über das, was er von innen sah und jetzt von außen sagen kann. Es geht um die Snippet-Politik, die Reden in Clips verwandelt, um eine soziale Frage, die nach rechts ins Kulturelle verschoben wurde, und um seine neue These: Geld ist Macht, und extremer Reichtum kippt irgendwann das demokratische Versprechen, dass jede Stimme gleich viel zählt. Dazwischen die ehrliche Schilderung dessen, was den Ausstieg miterzwang — die alltägliche Bedrohung.
 
