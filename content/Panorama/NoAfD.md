@@ -1,7 +1,7 @@
 ---
 title: "NoAfD"
 date: 2026-04-27
-aktualisiert: 2026-06-16
+aktualisiert: 2026-06-23
 tags:
   - panorama
   - afd
@@ -173,11 +173,19 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Philip Manow — A
 
 ---
 
+### Das Verbotsverfahren — Aufklärung statt Erlösungsfantasie
+
+⚠️ **Instrument mit Tücken** — [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert]] leistet die bürgernahe Begriffsklärung: Es geht um ein *Verfahren*, nicht um „eine Partei verbietet die andere" — „wenn das in unserem Rechtsstaat möglich wäre, dann wäre es kein Rechtsstaat". Das Bundesverfassungsgericht prüft zwei hohe Hürden: ob eine Partei verfassungsfeindlich *bestrebt* ist **und** ob sie „aktiv, kämpferisch" am Umsturz der Ordnung arbeitet. Der NPD-Präzedenzfall zeigt die Grenze: verfassungsfeindlich festgestellt, aber als „zu irrelevant" eingestuft → unverhältnismäßig. Bei der AfD liegt der Fall anders (gesellschaftlicher Rückhalt, Parlamentspräsenz). Kühnerts Yin-Yang-Warnung: Ein gescheitertes Verfahren verschafft der AfD „einen heiligen Schein" und lässt sie „vor Kraft kaum laufen" — der Versuch lohnt nur bei realistischer juristischer Erfolgsaussicht. Und selbst ein Verbot wäre keine Erlösung: „Was immer bleibt, ist eine Gesellschaft, in der [menschenfeindliche] Gedanken vorhanden sind und übrigens auch immer waren" (→ FES-Mitte-Studie). Das juristische Fundament dazu liefert das GFF-Verbotsgutachten, die Praxisperspektive der rp26-Stresstest.
+
+Verbundene Notes: [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]] · [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] · [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]]
+
+---
+
 ### Soziale Gerechtigkeit als Demokratieschutz
 
-✅ **Trägt bei** — Die FES-Mitte-Studie zeigt: Einsamkeit, Entsicherung und sozioökonomische Marginalisierung korrelieren direkt mit demokratiegefährdenden Einstellungen. Butterwegges Zahlen (unteren 40 % besitzen null, 7,2 Jahre Lebenserwartungslücke) sind nicht nur Armutspolitik — sie sind **Demokratiepolitik**. [[Martyna Linartas — Unverdiente Ungleichheit]] geht tiefer: Das „Theaterstück Neoliberalismus" (freier Markt als Held, Steuern als Bösewicht) hat empirisch versagt — Steuersenkungen für Reiche hatten in 50 Jahren über 18 OECD-Staaten einen Wachstumseffekt *„von null nicht zu unterscheiden"* (Hope/Limburg 2022). Linartas' Grunderbe-Vorschlag (190.000 € für jeden jungen Erwachsenen, finanziert durch Erbschaftsreform) demokratisiert das Erben statt es abzuschaffen. Flassbecks Analyse ergänzt: Der Rechtsruck hat ökonomische Wurzeln, die ohne Umverteilung nicht adressierbar sind.
+✅ **Trägt bei** — Die FES-Mitte-Studie zeigt: Einsamkeit, Entsicherung und sozioökonomische Marginalisierung korrelieren direkt mit demokratiegefährdenden Einstellungen. Butterwegges Zahlen (unteren 40 % besitzen null, 7,2 Jahre Lebenserwartungslücke) sind nicht nur Armutspolitik — sie sind **Demokratiepolitik**. [[Martyna Linartas — Unverdiente Ungleichheit]] geht tiefer: Das „Theaterstück Neoliberalismus" (freier Markt als Held, Steuern als Bösewicht) hat empirisch versagt — Steuersenkungen für Reiche hatten in 50 Jahren über 18 OECD-Staaten einen Wachstumseffekt *„von null nicht zu unterscheiden"* (Hope/Limburg 2022). Linartas' Grunderbe-Vorschlag (190.000 € für jeden jungen Erwachsenen, finanziert durch Erbschaftsreform) demokratisiert das Erben statt es abzuschaffen. Flassbecks Analyse ergänzt: Der Rechtsruck hat ökonomische Wurzeln, die ohne Umverteilung nicht adressierbar sind. [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert]] macht daraus die explizite Demokratiefrage: Geld *ist* Macht, und der „entscheidende Schlüssel" gegen die autoritär-rechte Entwicklung liege darin, „die Macht von extremreichen Leuten zu beschneiden, sodass es wieder in demokratische Bahnen zurückgelenkt wird". Extremer Reichtum, der sich Sonderregeln verschafft (Musk → eigene Behörde, Charlie Kirk/Turning Point aus Spenden reicher Einzelner → Trump), ist für ihn ein Rückfall hinter das Klassenwahlrecht des Kaiserreichs — die ökonomische Wurzel des Rechtsrucks von ihrer Machtseite her gedacht.
 
-Verbundene Notes: [[Christoph Butterwegge — Armut NEU DENKEN]] · [[Martyna Linartas — Unverdiente Ungleichheit]] · [[Heiner Flassbeck — Krise und Rechtsruck]] · [[Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]]
+Verbundene Notes: [[Christoph Butterwegge — Armut NEU DENKEN]] · [[Martyna Linartas — Unverdiente Ungleichheit]] · [[Heiner Flassbeck — Krise und Rechtsruck]] · [[Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]] · [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]]
 
 ---
 
@@ -269,3 +277,4 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus]] | Ursache · Zerstörungslust als Gefühlsstruktur — Scharnier-Empirie |
 | [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] | Ursache · Angst-Umlenkung auf Feindbilder — das Scharnier als Machttechnik |
 | [[Zeitgeist/Arlie Hochschild — Stolen Pride]] | Ursache · Scham → Schuldzuweisung, das Scharnier ethnografisch (Appalachia) |
+| [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft\|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]] | Instrument & Ursache · Verbotsverfahren-Aufklärung + Geld=Macht als Demokratiegefahr |
