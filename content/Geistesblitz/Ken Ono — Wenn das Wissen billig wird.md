@@ -17,6 +17,16 @@ aliases:
 
 # Ken Ono — Wenn das Wissen billig wird
 
+![[assets/Ken-Ono-Wenn-das-Wissen-billig-wird-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee** — Aquarell auf rauem Papier, Bauhaus-Geometrie, geerdete Palette aus Ocker, Terrakotta und Rosé mit kühlen Indigo-Feldern. Links das kalt-blaue Endlos-Regal der allwissenden Maschine, das sich in identische Glyphen-Reihen verliert; rechts das warm glühende, handgeschriebene Formelbuch, auf dem ein Strichmännchen-Kind Bauklötze zu Sternen stapelt. Klee webte Zahlen und Zeichen in seine Bilder — genau Onos These: die billige Wissensmaschine gegen den warmen Funken des Staunens.
+
+*Prompt:* Wide 1200x500 banner in the style of Paul Klee — watercolor on textured paper, Bauhaus geometry, flat layered planes, earthy warm palette of ochre, terracotta and rose with patches of cool indigo. Left third: a pale cold-blue grid of countless tiny identical rectangular shelves receding into an immense orderly archive, faint rows of repeated glyphs — the all-knowing librarian-machine, information stacked endlessly. Right two-thirds opens into warm glowing ochre and rose: a large open notebook with handwritten mathematical formulas, spirals and partition diagrams shimmering as if gifted, a few loose numbers, an equals sign and a small arrow woven into the surface like Klee's painted script. A tiny stick-figure child stacking building blocks that turn into little stars at the top, eyes as simple dots, full of wonder. A single thin golden line crosses from the cold grid into the warm field. Gentle hand-drawn outlines, soft painterly texture, no realistic faces, no photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Spitzenmathematiker stößt zum ersten Mal an eine Maschine, die er nicht mehr austricksen kann — und stürzt in eine Sinnkrise. Ken Ono erzählt, wie er aus der Verzweiflung herausfand: nicht, indem er versuchte, der KI voraus zu bleiben, sondern indem er die Frage wechselte. Wenn Wissen billig wird, wird das Urteil teuer. Und das Staunen, das eine gute Frage erst möglich macht, lässt sich nicht herunterladen. Über Intelligenz im KI-Zeitalter, das Vermächtnis des zweifach durchgefallenen Genies Ramanujan und die unentdeckten Ramanujans, die heute unter uns leben.
 
