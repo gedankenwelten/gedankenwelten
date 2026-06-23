@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Kevin Kühnert — Lobbyist für die Zivilgesellschaft
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Er war SPD Chef...😳 (MARCANT PODCAST)](https://www.youtube.com/watch?v=tuCmL7EIr2E) |
+| **Notiz** | [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kuehnert_Ausstieg_Transkript.txt` |
+
 ## Konstantin Flemig — Russlands Katastrophen-Monat
 
 | | |

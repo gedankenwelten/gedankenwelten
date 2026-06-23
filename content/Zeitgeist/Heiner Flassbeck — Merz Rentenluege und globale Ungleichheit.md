@@ -92,6 +92,10 @@ Flassbeck entlarvt den logischen Kurzschluss mit seinem Lieblingsargument, dem S
 
 ## Verbindungen
 
+### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
+
+Flassbecks Makro-Mechanik (r > g, Saldenmechanik) erklärt, *warum* Kühnerts Diagnose vom Kapital, das schneller wächst als Arbeit, strukturell stimmt. Zugleich ein produktiver Gegenpol: Flassbecks Warnung vor der „naiven Ungleichheits-Forderung" erdet Kühnerts moralisch grundierte Reichtums-These kritisch.
+
 ### → [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
 
 Gottschalks Flat-Tax-Vorschlag (25% auf alles) steht in direktem Widerspruch zu Flassbecks Analyse: Kapitalerträge bevorzugen, schwächt die Nachfrageseite und verschärft die Ungleichheit, die die Runde zu beheben vorgibt.

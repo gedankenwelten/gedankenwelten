@@ -172,6 +172,10 @@ Als er auf Gegenwind reagierte, antwortete er bei der FAZ nicht mit Distanzierun
 
 ## Verbindungen
 
+### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
+
+Das Innen zum Außen: Während diese Folge die SPD seziert, die zurück zu Schröder strebt, verteidigt der Ex-Generalsekretär bei Marcant das „Abschleifen" des Idealismus in der Volkspartei — und zieht für sich die Konsequenz, lieber von außen Druck zu machen. Kühnert erklärt das Schleifen, Sahebi und Semsrott zeigen, wohin es führte.
+
 ### → [[Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
 
 direkte Vorgängerfolge; die BaWü-Wahl wurde dort analysiert, hier folgt die bundespolitische Konsequenz für die SPD

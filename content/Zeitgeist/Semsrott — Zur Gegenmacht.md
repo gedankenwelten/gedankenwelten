@@ -233,6 +233,10 @@ Das Schlussbild: Zivilgesellschaftliches Engagement nicht als Bürgerpflicht ver
 
 ## Verbindungen
 
+### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
+
+Kühnerts neue Rolle als „Lobbyist für die Zivilgesellschaft" ist Semsrotts Gegenmacht-Programm in Person: Wo Kühnert die Erosion des Ehrenamts und die alltägliche Einschüchterung beklagt, entwirft Semsrott die organisierte zivilgesellschaftliche Antwort. Finanzwende als Gegenlobby gegen das „große Geld" ist genau diese Gegenmacht im Verteilungsfeld.
+
 ### → [[Denker/Ernesto Laclau — Macht und Repraesentation]]
 
 Semsrotts Gegenmacht-Konzept — Zivilgesellschaft als antagonistischer Pol gegen institutionalisierte Herrschaft — ist laclauscher Populismus in der praktischen Anwendung, ohne dass Semsrott diesen Rahmen explizit zieht. Sein Befund, dass viele sich nicht repräsentiert fühlen, illustriert Laclaus These: Repräsentation ist kein neutrales Abbild, sondern konstituiert das „Volk" durch Ausschluss.
