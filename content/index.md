@@ -104,9 +104,9 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
-> **16.06.** — [[Panorama/NoAfD|NoAfD]]
+> **23.06.** — [[Panorama/NoAfD|NoAfD]]
 
-> **12.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
+> **23.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
 
 > **01.06.** — [[Panorama/Energie|Energie]]
 >

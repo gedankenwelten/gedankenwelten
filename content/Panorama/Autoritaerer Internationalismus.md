@@ -1,7 +1,7 @@
 ---
 title: "Autoritärer Internationalismus — Die globale Rechte"
 date: 2026-04-27
-aktualisiert: 2026-06-12
+aktualisiert: 2026-06-23
 tags:
   - panorama
   - faschismus
@@ -51,6 +51,8 @@ Dieses Panorama bündelt 30+ Notes, die das Phänomen aus fünf Perspektiven bel
 [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] ergänzt die theoretische Tiefe: Die Tech-Eliten operieren nach kybernetischer Logik — Gesellschaft als steuerbares System, Menschen als Datenpunkte. Musk kontrolliert Starlink (globale Kommunikation), SpaceX (Raumfahrt-Infrastruktur), X (öffentlichen Diskurs), Neuralink (perspektivisch: menschliches Denken) und xAI. Das ist keine Marktmacht — das ist **infrastrukturelle Souveränität**.
 
 [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] liefert die Psychologie: 1990 gab es 66 US-Milliardäre, die 7 % des Vermögens kontrollierten. 2025 sind es 700+ mit 18 %. Zuckerberg baut eine Welt um seine Rot-Grün-Blindheit herum — und muss nie verhandeln. Die Ultrareichen beschreiben sich selbst als „Rädchen in einer Maschine", obwohl sie Märkte bewegen — passive Selbstwahrnehmung als Opfer. Augustus-Caesar-Verehrung (Andreessen: „Introspektion ist eine feministische Erfindung"). Bunkermentalität (Kansas-Atombunker). Sie **wissen**, dass extreme Ungleichheit historisch zu Revolution, Krieg oder Seuche führt — und handeln nicht.
+
+[[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert]] bringt die politiker-formulierte Variante derselben These — und benennt sie als zentralen Hebel: Extremer Reichtum komme „irgendwann an einen Punkt, an dem die allgemein geltenden Spielregeln ausgeschaltet werden für diese Leute und ein Sondersystem entsteht". Sein Beleg ist dieselbe US-Achse: Musk kauft sich mit Spenden in Trumps Kampagne ein und bekommt „als Gegenleistung seine eigene Behörde" (DOGE); Charlie Kirk und Turning Point USA fahren ihre Kampagnen „aus Spendengeldern sehr reicher Einzelpersonen". Für Kühnert ist das ein Rückfall hinter das Klassenwahlrecht des Kaiserreichs — und der „entscheidende Schlüssel" gegen die autoritär-rechte Entwicklung liege darin, „die Macht von extremreichen Leuten zu beschneiden". Seine Konsequenz ist organisatorisch und antwortet direkt auf Brias Befund der privatisierten Souveränität: Finanzwende als „Greenpeace der Finanzwelt", eine Gegenlobby gegen das große Geld.
 
 [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] vermisst die Mediendimension dieser Souveränität — und liefert die demokratietheoretische Diagnose: Über 60 % der gesamten Öffentlichkeit in Deutschland findet auf digitalen Medien statt, davon 85–90 % der Aufmerksamkeit bei Alphabet und Meta. Was Bria „Authoritarian Stack" nennt, heißt bei Andree „gestapelte Monopolschichten auf öffentlichen Gütern" — Suche, Social Media, Video, Cloud, Transaktionen übereinander, mit Kill-Switch-Macht über ganze Gesellschaften: dieselbe Architektur aus zwei Disziplinen. Andrees „Machtverklumpung" — die mächtigsten Konzerne der Welt verbunden mit der mächtigsten Regierungsmacht — benennt zugleich, was verloren geht: die **Forumshoheit**. Seit der Agora durften Demokratien selbst bestimmen, wie ihre Öffentlichkeit verfasst ist; genau dieses Recht bestreiten die Plattformen Europa, während sie das Wort „Meinungsfreiheit" als Kampfbegriff führen.
 
@@ -270,3 +272,4 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa]] | Lösung · Europäische KI-Souveränität als operative Antwort auf Infrastrukturabhängigkeit |
 | [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] | Infrastruktur · Plattform-Monopole als privatisierte Forumshoheit |
 | [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]] | Lösung · Dezentrale Infrastruktur als Gegenentwurf — und warum sie Organisation braucht |
+| [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft\|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]] | Oligarchie · Geld=Macht → Sondersystem, Gegenlobby Finanzwende |
