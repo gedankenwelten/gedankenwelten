@@ -5,6 +5,16 @@ tags: [denker-vita, mathematik, ki]
 
 # Ken Ono — DenkerVita
 
+![[assets/Ken-Ono-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hokusai** (Ukiyo-e-Holzschnitt) — Preußischblau, Schaumweiß, warmer Sand; flache Farbfelder, kräftige Konturen, Holzmaserung. Hokusais *Große Welle* umgedeutet: Die Gischt besteht aus Ziffern und Leiterbahnen — die Welle der KI. Ono flieht nicht, er *reitet* sie im Boot, das Notizbuch voller Formeln in der Hand, während ein ruhiger Fuji-Gipfel (menschliches Staunen) unerreichbar darüber steht. Hokusai fängt Onos japanisch-amerikanische Herkunft, die KI-Welle und seinen Bogen von „devastated" zu „inspired" in einem Bild.
+
+*Prompt:* Wide 1200x500 banner in the style of Hokusai ukiyo-e woodblock print — Prussian blue, foam white, warm sand and soft beige, flat color fields with bold carved outlines and visible woodgrain texture. On the left a great cresting wave, its curling foam fingers formed from tiny circuit traces and streaming digits — the wave of artificial intelligence. A small wooden boat rides the wave calmly; in it a lone robed figure seen from behind (no visible face) holds an open notebook covered with handwritten mathematical formulas, unafraid. On the right a serene snow-capped mountain, its profile faintly suggesting a calm human head, enduring above the spray — human wonder the wave cannot reach. Hidden in the lower swells, quiet motifs of a life: a bicycle wheel and gentle swimming ripples. Stylized clouds, layered flat blues, no realistic faces, no photorealism.
+
+</details>
+
 > [!info] Wer spricht?
 > **Ken Ono** (*1968) ist einer der weltweit führenden Zahlentheoretiker und der vielleicht bekannteste lebende Ramanujan-Forscher. Jahrzehntelang Professor an Spitzenuniversitäten (Wisconsin, Emory, University of Virginia), wissenschaftlicher Berater des Ramanujan-Films *The Man Who Knew Infinity* (2015) — und ein Mann mit einer ungewöhnlichen Vita: High-School-Abbrecher, Radrennfahrer, Triathlet, Schwimm-Coach von Olympioniken. 2025 verließ er die akademische Welt, um als „Founding Mathematician" beim KI-Startup **Axiom Math** zu erforschen, was künstliche Intelligenz für die Grundlagenmathematik bedeutet — und für die Frage, was menschliche Intelligenz im KI-Zeitalter überhaupt noch wert ist.
 
