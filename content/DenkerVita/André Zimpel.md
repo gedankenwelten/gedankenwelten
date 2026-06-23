@@ -130,3 +130,4 @@ Zimpel ist kein parteipolitischer Akteur, aber ein dezidiert bildungspolitischer
 
 - [[Andreas Zimpel — Neurodiversität]] — Vorlesung (2024): Bild-Denken, Chunking, Aufmerksamkeit, Synästhesie, Mandelbrot, Tower of Hanoi
 - [[ARTE — Neurodivers Anders denken besser arbeiten]] — ARTE-Reportage (2025): Zimpel als einer von drei Protagonist:innen, persönliche Synästhesie-Geschichte, ZNDF-Arbeit
+- [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]] — Onos „unentdeckte Ramanujans" und seine Bildungskritik decken sich mit Zimpels Befund: Begabung ist verteilt und anders geformt, das Schulsystem misst sie am falschen Maß. Was Zimpel neurodivers begründet, erzählt Ono am durchgefallenen Genie.

@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Ken Ono — Wenn das Wissen billig wird
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Why This Is the Most Exciting Time to Be Human \| Ken Ono, Axiom Math](https://www.youtube.com/watch?v=jGZOi-7haCw) |
+| **Notiz** | [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Ono_Ramanujan_AI_Transkript.txt` |
+
 ## Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt
 
 | | |

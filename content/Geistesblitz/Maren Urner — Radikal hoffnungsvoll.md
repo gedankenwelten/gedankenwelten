@@ -231,6 +231,9 @@ Hoffnung ist in diesem Licht das Gegenprogramm zur maschinellen Logik: kreativ, 
 
 ## Verbindungen
 
+### → [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
+Die direkte Kehrseite zu Urners KI-Paradox: Wo Urner warnt, der Mensch werde maschinell (optimiert, standardisiert), verteidigt Ono die übersehene, verteilte Kreativität — das Staunen, das die Notenjagd austreibt. Zwei Seiten derselben Sorge, dass das Außergewöhnliche im Menschen verschwindet.
+
 ### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld — Warum schweigen die Lämmer?]]
 
 Urner und Mausfeld diagnostizieren dasselbe Werkzeug — Angst als Herrschaftsmittel — aber landen an entgegengesetzten Enden: Mausfeld sagt, Veränderung kommt erst nach großen Blutspuren und lässt die Handlungsfrage offen; Urner setzt diesem Fatalismus die neurobiologische Hope Theory entgegen. Hoffnung ist kein Gefühl, sondern eine trainierbare kognitive Kapazität. Urner liefert damit den psychologischen Bauplan für genau die Handlungsfähigkeit, die Mausfelds Systemanalyse vermisst.

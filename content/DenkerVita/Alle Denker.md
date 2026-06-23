@@ -223,6 +223,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## O
 
+**[[DenkerVita/Ken Ono|Ken Ono]]** — Zahlentheoretiker (Ramanujan, Modulformen, Partitionen) & „Founding Mathematician" bei Axiom Math; menschliche Intelligenz und die gute Frage im KI-Zeitalter
+
 **[[DenkerVita/Martin Oetting|Martin Oetting]]** — Marktforscher & politischer Essayist; Postwachstums-Ökonomie, ökonomische Sackgasse als Nährboden des Faschismus, Initiative System Delta
 
 ## P
