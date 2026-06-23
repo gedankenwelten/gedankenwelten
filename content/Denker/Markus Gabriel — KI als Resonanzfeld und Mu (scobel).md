@@ -199,6 +199,9 @@ Das sprechendste Zeichen: Am Kyoto-Seminar war der Präsident von Google Japan d
 
 ## Verbindungen
 
+### → [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
+Ein produktiver Widerspruch: Gabriel sagt „KI *ist* Kreativität", Ono verortet Kreativität gerade im Menschlichen. Doch beide treffen sich bei der *naiven Frage* — Gabriels „höhere geistige Freiheit, die an Dummheit grenzt" ist Onos gute Frage und sein Plädoyer für die übersehenen Ramanujans.
+
 ### → [[Markus Gabriel — Ethische Intelligenz (scobel)]]
 
 Direkter Vorläufer: In jenem Gespräch entwickelte Gabriel die Ideen des magischen Spiegels, der Sinnesrealismus-These und der distribuierten Subjektivität. Die vorliegende Note vertieft das Resonanzfeld-Konzept durch Mu, Nondualität und Japan als kulturellen Kontext.

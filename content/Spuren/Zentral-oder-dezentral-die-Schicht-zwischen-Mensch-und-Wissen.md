@@ -139,6 +139,9 @@ und Wissen". Jeder neue Fall ist ein datierter Datenpunkt in dieser größeren B
 
 ## Verbindungen
 
+### → [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
+Onos LLM als „außergewöhnlichster Bibliothekar" ist genau die Schicht zwischen Mensch und Wissen, um die diese Spur kreist — nur kognitiv statt machtpolitisch gelesen: Was bleibt dem Menschen, wenn die Bibliothek alles weiß? Die Spur fragt, wem diese Bibliothek gehört; Ono, was der Mensch an ihr noch zu tun hat.
+
 ### → [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
 
 Der konkrete Einzelfall, der diese Muster-Spur ausgelöst hat. Der staatliche Kill-Switch ist

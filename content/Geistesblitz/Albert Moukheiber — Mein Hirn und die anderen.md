@@ -311,6 +311,8 @@ Die Konsequenz: Wer aufgeklärtes Denken will, kann das nicht als individuelles 
 
 ## Verbindungen
 
+- [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]] — Onos Frage „was bleibt dem Menschen, wenn die Maschine alles weiß?" findet hier ihre Antwort: das Gehirn ist primär sozial, auf andere und Resonanz ausgerichtet, nicht auf sequentiellen Faktenabruf. Genau dort — im sozialen, staunenden, fragenden Gehirn — liegt das, was Onos „außergewöhnlichster Bibliothekar" nicht ersetzt.
+
 - [[Albert Moukheiber — Mein Hirn und ich]] — Direkter Vorläufer: Teil 1 behandelt individuelle Mechanismen (Rekonstruktionsgehirn, kognitive Verzerrungen, Automatismen) — Teil 2 überträgt dieselbe Logik auf das Soziale. Moukheibers Gesamtthese: Weder allein noch in Gruppen denken wir autonom. Autonomie ist das Ziel, nicht die Ausgangslage.
 
 - [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]] — Haidt zeigt, wie A-priori-Annahmen politische Wahrnehmung formen; Moukheibers Konformismus und Bestätigungsfehler liefern den kognitiven Unterbau: Wir schließen uns Gruppen an — und dann folgen unsere Überzeugungen nach. Nicht umgekehrt.

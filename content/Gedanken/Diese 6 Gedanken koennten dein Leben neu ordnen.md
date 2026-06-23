@@ -139,6 +139,9 @@ Jeder der sechs Sätze ist in der Videobeschreibung mustergültig belegt — Fun
 
 ## Verbindungen
 
+### → [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
+Onos Bildungskritik im KI-Zeitalter ist die operative Seite dieses *thaumázein*: Wenn Wissen billig wird, bleibt nur das Staunen und die gute Frage. Der Mathematiker zeigt am eigenen Schock, was hier philosophisch steht — die offene Lücke aushalten, statt sie schnell zu schließen.
+
 ### → [[Vipassana/Vipassana — Anicca|Vipassana — Anicca]]
 Heraklits *panta rhei* und das buddhistische *anicca* sind derselbe Befund in zwei Sprachen — Heraklit und der Buddha lebten zur selben Zeit. Was die eine Tradition denkt, durchläuft die andere als Empfindung.
 

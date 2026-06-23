@@ -618,3 +618,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Martin Oetting
 **Status:** ✓ Vollanalyse → [[DenkerVita/Martin Oetting]]
+
+## Ken Ono
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ken Ono]]

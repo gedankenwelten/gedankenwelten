@@ -46,6 +46,18 @@ Die Gedankenwelten (luc)
 
 > → *3 weitere in* [[Zeitgeist]]
 
+### Geistesblitz
+
+> **23.06.** — [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
+>
+> Wenn die Maschine alles weiß, was den Menschen dann ausmacht — und warum ein zweifach durchgefallener Student die wichtigste Antwort gibt.
+
+> **21.06.** — [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin: Mehr als ein Glückshormon]]
+
+> **12.06.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
+>
+> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
+
 ### Denker
 
 > **22.06.** — [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]]
@@ -115,18 +127,6 @@ Die Gedankenwelten (luc)
 ### GoodNews
 
 > **26.05.** — [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2|Good News — Gute Nachrichten Mai 2026 Teil 2]]
-
-### Geistesblitz
-
-> **21.06.** — [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin: Mehr als ein Glückshormon]]
-
-> **12.06.** — [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
->
-> Allmenden tragen sich nicht von selbst: Alle profitieren, wenige tragen die Infrastruktur. Warum das offene Netz keine bessere Technik braucht, sondern zivilgesellschaftliche Power — und Schönheit.
-
-> **09.06.** — [[Geistesblitz/Gutachter Kail - Stromversorgung 2038 ohne Gaskraftwerke|Stromversorgung 2038 — ohne neue Gaskraftwerke]]
->
-> Eine nüchterne Durchrechnung: Wie schließt ein 100%-Erneuerbare-System die brutale 104,6-Gigawatt-Lücke einer zehntägigen Dunkelflaute — ganz ohne fossile Neubauten?
 
 <!-- JOURNAL:END -->
 
