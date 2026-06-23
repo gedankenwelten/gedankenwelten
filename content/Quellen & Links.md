@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Was wir jetzt tun müssen, um den Faschismus zu stoppen.](https://www.youtube.com/watch?v=2gAesrpJ8yQ) |
+| **Notiz** | [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Oetting_Faschismus_stoppen_Transkript.txt` |
+
 ## Kevin Kühnert — Lobbyist für die Zivilgesellschaft
 
 | | |

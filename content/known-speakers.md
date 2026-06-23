@@ -615,3 +615,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Hans Maggi
 **Status:** ✓ Vollanalyse → [[DenkerVita/Hans Maggi]]
+
+## Martin Oetting
+**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Oetting]]

@@ -281,6 +281,9 @@ Und: Mit **Wertschätzung** beginnen, nicht mit Argument. „Eine Sache schätze
 
 ## Verbindungen
 
+### → [[Martin Oetting — Faschismus stoppen mit der Wahrheit]]
+Geteilte Tiefenschicht: Haidts Unterscheidung von Abscheu und Wut deckt sich mit Oettings Yin-Yang-Differenzierung der AfD-Wählerschaft — Verachtung für die rassistischen Profiteure, Verständnis für die Verängstigten. Beide gründen Politik im Aushalten der Ambivalenz statt im Lagerdenken.
+
 ### → [[Zeitgeist/Annette Dittert — Dear Britain]]
 Haidt erklärt psychologisch Ditterts „archaische Stammeslogik": Social-Media-Architektur kapert moralische Stammesinstinkte — und zerreibt die konservative Mitte zuerst.
 

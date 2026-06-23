@@ -151,6 +151,7 @@ Mau sieht den entscheidenden Unterschied: Brandt operierte vor dem Hintergrund e
 
 ## Verbindungen
 
+- [[Martin Oetting — Faschismus stoppen mit der Wahrheit]] — Oettings Bild der „Verängstigten" als AfD-Wähler trifft auf Maus Befund, dass Menschen keine kohärenten ideologischen Pakete schnüren: beide warnen davor, die Wählerschaft als Block zu verachten, und denken sie punktuell ansprechbar
 - [[Steffen Mau — Spaltung der Gesellschaft]] — Die breite Mau-Analyse aus dem Jung-&-Naiv-Interview (Biografie, Ostdeutschland, Sortiermaschinen, Meritokratie); diese Note vertieft gezielt die Triggerpunkte-Theorie mit ihren vier Arenen und der Trigger-Taxonomie
 - [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfelds Theorie der „kognitiven Managementtechniken" und asymmetrischen Agenda-Settings liefert die medien-politische Infrastruktur-Erklärung für Maus Polarisierungsunternehmer: Beide zeigen, wie Konsensherstellung strukturelle Ungleichheit unsichtbar hält
 - [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas Diagnose der Beschleunigung und des Resonanzverlusts erklärt Maus Veränderungserschöpfung: Wer keine Weltbeziehung mehr hat, reagiert auf jeden Wandel mit Abwehr statt Offenheit
