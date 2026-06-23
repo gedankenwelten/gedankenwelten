@@ -101,6 +101,11 @@ Diese Trennung von Verachtung für die Profiteure und Verständnis für die Ver�
 
 Die eigentliche Gefahr für die Demokratie ist hier nicht die Radikalisierung, sondern der *Rückzug* — die Abwendung der Ehrlichkeitssucher in die Apathie. Daraus leitet Oetting seine Organisation **System Delta** ab: keine Partei, sondern ein zivilgesellschaftlicher Druck, der die Parteien zwingen soll, „sich endlich der Evidenz, den Fakten der Realität zu stellen". Der Schluss kehrt zu Brandt zurück: 45,8 Prozent bei der Wiederwahl 1972 als Beweis, dass „man mit Ehrlichkeit und Mut Wahlen gewinnen kann". Hier wird das Essay zum Aufruf — und kippt im letzten Drittel hörbar in die Werbung für den eigenen Newsletter. Die Analyse trägt; der Appell ist Oettings Sache, nicht die des Lesers.
 
+> [!info] Was „System Delta" ist
+> Die Initiative, zu der Oetting am Ende aufruft, heißt **System Delta** (seit Februar 2026 der neue Name der Bewegung **Wirtschaft21**) — der deutsche Ableger der internationalen **[Wellbeing Economy Alliance](https://weall.org/)**. Ihr Anliegen: Wirtschaft *innerhalb* planetarer Grenzen, eine Abkehr vom Bruttoinlandsprodukt zugunsten eines **Gemeinwohlprodukts** (Forschungsprojekt der Uni Wien), gerechtere Verteilung von Macht und Vermögen. Keine Partei; Oetting gibt an, keine finanziellen Interessen zu verfolgen. Die lokalen Circles arbeiten nach der **Council**-Methode (Zuhören statt Überzeugen).
+>
+> Das ist eine Bewegung mit Mission, kein neutraler Akteur — wer mehr wissen und sich selbst ein Bild machen will: [wirtschaft21.org](https://wirtschaft21.org), [weall.org](https://weall.org/).
+
 ---
 
 ## Faktencheck
