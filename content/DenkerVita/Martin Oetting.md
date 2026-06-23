@@ -5,6 +5,16 @@ tags: [denker-vita, demokratie, wirtschaft, deutschland]
 
 # Martin Oetting — DenkerVita
 
+![[assets/Martin-Oetting-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera / mexikanischer Muralismus** — ineinandergreifende Menschenfiguren bilden einen lebendigen grünen Kreis (die planetare Grenze), in dem eine menschengemachte Ökonomie kreist: Gärten, Brot, Bücher, Solarzellen, der gemeinsame Tisch. Links zerbirst ein alter Messing-Kompass mit zersplittertem Wachstumspfeil im Geröll. In der Mitte weist eine Brückenfigur im Gewand vom toten Kompass zum Leben — Oettings ganze Bewegung in einer Geste: vom Wachstumsparadigma zum gestaltbaren System. Warm und kollektiv — bewusst das Gegenstück zur kühlen de-Chirico-Note.
+
+*Prompt:* A wide mural in the style of Diego Rivera and Mexican muralism, 1200x500 panoramic banner, no photorealism. Interlocking stylized human figures with simplified schematic faces (no realistic features) join hands to form a living green circle — a planetary boundary — within which a human-scaled economy turns: small workshops, gardens, bread, books, solar panels, a shared table. On the left, an old broken brass compass and a shattered upward growth-arrow crumble into grey rubble. On the right, the circle glows with warm life, a thin band of dawn light above. A solitary thoughtful figure at center-left, seen from behind, gestures from the broken compass toward the living circle, bridging the two halves. Rounded monumental forms, flowing curved composition, warm ochre, terracotta, deep green, gold and dusty rose. Earthy, hopeful, dignified, collective, painterly fresco surface. No text, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Martin Oetting** (Dr.) ist ein deutscher Marktforscher, Unternehmer und politischer Essayist — einer, der vom Werben übers Filmemachen zur großen Systemfrage kam. Promoviert über Mundpropaganda, jahrelang Mitinhaber und Forschungschef der Word-of-Mouth-Plattform **trnd**, schreibt er heute den Newsletter **Wirtschaft21**, betreibt einen politischen YouTube-Kanal und baut die zivilgesellschaftliche Initiative **System Delta** auf. Sein Anliegen: Wirtschaft nicht als Naturgesetz, sondern als gestaltbares System zu begreifen — und durch Druck aus der Bevölkerung die Parteien zur ehrlichen Auseinandersetzung mit der Faktenlage zu zwingen, bevor die Multikrise dem Faschismus die Tür öffnet.
 

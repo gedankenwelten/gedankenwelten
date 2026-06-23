@@ -19,6 +19,16 @@ aliases:
 
 # Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt
 
+![[assets/Martin-Oetting-Faschismus-stoppen-mit-der-Wahrheit-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico** — metaphysische Dämmerungs-Piazza, lange Schatten, einsame Laterne. Die Verängstigten drängen sich in den grellen gelben Lichtkegel (die bequeme Lüge, die Droge) wie Motten, während ringsum die wahren Dinge im Dunkel liegen — der verlorene Schlüssel, gesprungene Globen, ein Thermometer. Am rechten Rand geht eine einzelne Figur fort vom falschen Licht, dem fahlen Morgenrot der unbequemen Wahrheit entgegen. Die kühle, unheimliche Temperatur der Note — bewusst das Gegenstück zum warmen Muralismus seiner DenkerVita.
+
+*Prompt:* A wide metaphysical twilight piazza in the style of Giorgio de Chirico, 1200x500 panoramic banner, no photorealism. A single tall iron streetlamp casts a hard sickly-yellow cone of light onto empty paving stones; small faceless huddled figures crowd into the pool of light like moths, their long shadows stretching backward into deep cobalt darkness. Around them the vast square dissolves into blue-black shadow where the true things lie unseen — a fallen key, a cracked globe, scattered papers, a thermometer, all half-swallowed by the dark. Strong raking shadows, eerie deep perspective, arcades receding on the left. At the far right edge, one solitary upright figure with a very long shadow walks away from the bright lamp toward a thin band of pale rose-grey dawn breaking on the horizon. Muted ochre, cobalt, slate, and a single seductive artificial yellow glow. Melancholic, still, unsettling, dreamlike. Flat matte painterly surface, no faces, no text.
+
+</details>
+
 > [!abstract] Worum es geht
 > Martin Oetting stellt eine einfache These auf: In der Multikrise hat die Politik nur drei Optionen — die Wahrheit sagen, lügen, oder beides halbgar mischen. Die Bundesregierung wählt den Mix und verliert dabei jede Glaubwürdigkeit. Die AfD wählt die dreiste Lüge — und das ist *taktisch* erstaunlich klug, weil sie den Menschen ihre hilflose Angst nimmt und durch zupackende Wut auf die Schwachen ersetzt. Ein Taschenspielertrick, der wirkt wie eine Droge. Oettings Gegenentwurf: der mutige, ehrliche Weg, wie ihn Willy Brandt einst gegangen ist — und eine neue Organisation, die genau diesen Mut von den Parteien erzwingen soll.
 
