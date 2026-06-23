@@ -134,6 +134,10 @@ Konkrete Ansätze:
 
 ## Verbindungen
 
+### → [[Martin Oetting — Faschismus stoppen mit der Wahrheit]]
+
+Ursache und Mechanik: Fricke zeigt, *warum* die Angst da ist (ökonomischer Kontrollverlust durch Umbruch und Austerität), Oetting, *wie* die AfD sie umlenkt — den „Taschenspielertrick", aus hilfloser Angst vor Übermächtigen zupackende Wut auf die Schwachen zu machen.
+
 ### → [[Heiner Flassbeck — Krise und Rechtsruck]]
 
 Direkteste Parallele: Flassbeck analysiert ebenfalls die wirtschaftlichen Ursachen des Rechtsrucks. Beide teilen die Kritik am Marktliberalismus; Flassbeck legt Schwerpunkt auf Lohnpolitik und Handelsungleichgewichte, Fricke auf Kontrollverlust und Austerität

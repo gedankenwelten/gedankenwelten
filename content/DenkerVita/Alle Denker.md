@@ -223,6 +223,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## O
 
+**[[DenkerVita/Martin Oetting|Martin Oetting]]** — Marktforscher & politischer Essayist; Postwachstums-Ökonomie, ökonomische Sackgasse als Nährboden des Faschismus, Initiative System Delta
+
 ## P
 
 **[[DenkerVita/Paul Lance|Paul Lance]]** — Amerikanischer Aktivist; Trump als Faschismus-Muster, Apathie als Enabler, Ex-Republikaner, Perspektive aus dem amerikanischen Innenleben

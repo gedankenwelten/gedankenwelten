@@ -249,6 +249,7 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Francesca Bria — The Authoritarian Stack]] | Netzwerk · \$45 Mrd. Kartierung |
 | [[Daniel - Weidel beim Schwurblertreff AWEF]] | Empirie · Weidel ungeschminkt |
 | [[Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]] | Empirie · Propagandamaschine |
+| [[Martin Oetting — Faschismus stoppen mit der Wahrheit]] | Gegenstrategie · Wahrheit als Gegengift, Angst→Wut-Trick |
 | [[Daniel - Lena Kotré plant private Abschiebeindustrie]] | Empirie · Abschiebe-Privatisierung |
 | [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] | Lösung · Was wirklich hilft |
 | [[Martyna Linartas — Unverdiente Ungleichheit]] | Ursache · Erbengesellschaft |

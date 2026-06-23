@@ -187,6 +187,9 @@ Quaschnings Vorschlag: statt Spritsubventionen → Umverteilung. Wer ein Auto f�
 
 ## Verbindungen
 
+### → [[Martin Oetting — Faschismus stoppen mit der Wahrheit]]
+Konkreter Fall einer abstrakten These: Quaschnings Spritpreis-Analyse ist Oettings „Streetlight-Effekt" in einem einzelnen Politikfeld — die unbequeme Wahrheit (globaler Ölmarkt, Verbrenner-Abhängigkeit) gegen die populäre Halbwahrheit (jemand zockt uns ab). Wahrheit sagen statt halbgar mischen.
+
 ### → [[Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 Buchinger und Quaschning beschreiben dasselbe Muster aus verschiedenen Winkeln: Die fossile Lobby verzögert die Energiewende — bei Buchinger durch Kernenergie-Propaganda, bei Quaschning durch Verbrenner-Lobby und Tankrabatt-Politik. Beide betonen: Die Technik für die Wende ist da, der politische Wille fehlt.
 

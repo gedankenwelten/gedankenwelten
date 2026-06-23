@@ -236,6 +236,7 @@ El-Mafaalani hält es für wahrscheinlich, dass Europa demokratisch bleibt — a
 
 ## Verbindungen
 
+- [[Martin Oetting — Faschismus stoppen mit der Wahrheit]] — Oetting liefert die politische Konsequenz: Der halbgare Regierungs-Mix („das eine sagen, das andere tun") ist genau der Beschleuniger, der konstruktives in destruktives Misstrauen kippt; nur Mut zur unbequemen Wahrheit kann den Vertrauensverlust noch aufhalten
 - [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — komplementäre Analyse: Manow erklärt AfD-Aufstieg durch Globalisierungsverlierer und Öffnung-Schließung-Konflikt; El-Mafaalani ergänzt die psychologisch-soziologische Dimension (Vertrauen/Misstrauen)
 - [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Frickes ökonomische Erklärung des Rechtsrucks (Austerität, Ungleichheit) als strukturelle Grundlage für den Vertrauensverlust, den El-Mafaalani beschreibt
 - [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Heitmeyer beschreibt die gesellschaftliche Verrohung als Folge von Roheitskapitalismus und Individualisierung; beide Analysen zeigen, wie gesellschaftlicher Zusammenhalt erodiert
