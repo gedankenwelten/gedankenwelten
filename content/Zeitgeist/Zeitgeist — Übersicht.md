@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*237 Notes — automatisch generiert · nach Thema sortiert*
+*238 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -108,6 +108,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Julie Pagis — Psychologie der charismatischen Kontrolle|Julie Pagis — Zwischen Politik und Sekte: Die Psychologie der Kontrolle]]
 - [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 - [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt]]
+- [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]] — Ein Politiker verlässt freiwillig die Macht — und benennt von außen, was er von innen nur andeuten durfte: Geld ist Macht, und die soziale Frage wurde ins Kulturelle verschoben.
 - [[Zeitgeist/Klarsprech — Peter Thiel und ObjectionAI|Klarsprech — Peter Thiel und ObjectionAI]]
 - [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie|Klaus Dörre — Klassen, Kapitalismus & Demokratie]]
 - [[Zeitgeist/Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet|Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet]]
