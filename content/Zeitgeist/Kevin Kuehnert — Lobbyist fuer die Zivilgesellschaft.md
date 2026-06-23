@@ -107,6 +107,24 @@ Quelle: [Er war SPD Chef...😳 (MARCANT PODCAST)](https://www.youtube.com/watch
 > [!note] Eigene Einschätzung
 > Hier schließt sich der Bogen zum Anfang. Die Umdeutung des Wortes „Lobbyist" war keine Pose — sie hat ein Verfahren. Kühnerts Theorie der Gegenmacht ist unspektakulär und gerade darin überzeugend: nicht das bessere Gesetz von oben, sondern das verständlich gemachte Argument, das den Bürger zum Urteil befähigt. Das ist die demokratische Antwort auf die Asymmetrie, die er beklagt — wo das große Geld bezahlte Lobbyisten hat, muss die Gegenseite Öffentlichkeit organisieren. Die Wette dahinter ist optimistisch: dass Transparenz reicht, wenn sie nur plakativ genug ist. Ob das gegen gut finanzierte Mythen besteht, bleibt offen — aber es ist eine ehrliche Wette, und er setzt seine eigene Glaubwürdigkeit als Einsatz.
 
+### Das Verbotsverfahren — was es wirklich heißt
+
+[▶ 95:13](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=5713) Auf die Frage nach einem AfD-Verbot wird Kühnert zum Aufklärer — und beginnt mit der Sprache. „Respekt, dass du es richtig als Verfahren bezeichnest", sagt er; denn es gehe um eine *Überprüfung*, ob die Gründe für ein Verbot vorliegen könnten, nicht um ein Verbot selbst. Der entscheidende Punkt, den er „nicht oft genug betonen" kann: Es ist nicht so, dass eine Partei eine andere verbietet.
+
+> *„Wenn das in unserem Rechtsstaat möglich wäre, dann wäre es kein Rechtsstaat, sondern eine richtige Bananenrepublik."*
+
+Stattdessen prüft das Bundesverfassungsgericht, ob eine Partei „aktiv, agitatorisch gegen die freiheitliche Demokratie" arbeitet. Wer überzeugt sei, die Kriterien nicht zu erfüllen, „hat da nichts zu befürchten" — bekomme am Ende sogar testiert, im Rahmen der Verfassung zu stehen.
+
+[▶ 102:02](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=6122) Die Hürden sind hoch, und Kühnert benennt sie präzise: Man müsse einer Partei nachweisen, dass sie verfassungsfeindlich *bestrebt* ist — *und* dass sie „aktiv, kämpferisch an dem Umsturz dieser Ordnung arbeitet". Nicht „ich habe drei Texte recherchiert", sondern belegte Tätigkeit. Das erklärt auch, warum etliche AfD-Landesverbände noch nicht als gesichert rechtsextrem eingestuft sind: nicht aus behördlicher Zurückhaltung, sondern weil jede Einstufung „rechtsstaatlich haltbar" sein muss. Sonst droht der Bärendienst — „da wird die AfD gleich noch drei Meter größer und kann vor Kraft kaum laufen".
+
+[▶ 99:01](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=5941) Der historische Maßstab ernüchtert: In fast acht Jahrzehnten Bundesrepublik gab es nur zwei Parteiverbote — KPD und die NSDAP-Auffangorganisation Sozialistische Reichspartei, beide in den 50ern. Bei der NPD stellte Karlsruhe zwar die Verfassungsfeindlichkeit fest, verbot sie aber nicht: zu irrelevant, eine „Kleckerorganisation", ein Verbot wäre unverhältnismäßig gewesen. Bei der AfD liege der Fall „offensichtlich anders" — der gesellschaftliche Rückhalt ist groß, sie sitzt in den meisten Parlamenten.
+
+> [!note] Eigene Einschätzung
+> Kühnerts ehrlichster Satz ist der unbequemste: Ein Verbot wäre keine Erlösung. „Was immer bleibt, ist eine Gesellschaft, in der [menschenfeindliche] Gedanken vorhanden sind und übrigens auch immer waren" — die FES-Mitte-Studie zeigt es seit über zwei Jahrzehnten. Das ist die upekkhā-Haltung im Politischen: Das Werkzeug (das Verfahren) ernst nehmen, ohne es zur Erlösungsfantasie zu überhöhen. Die Partei ist nur das Gefäß; die Gesinnung ist das Wasser, und das verschwindet nicht, wenn man das Gefäß zerschlägt. Wer das Verbot fordert, muss zugleich an dem arbeiten, was die Studie misst — sonst hat man die Hülle entfernt und den Kern gestärkt.
+
+> [!question] Weitergedacht
+> Wenn ein Verbot die Gesinnung nicht beseitigt, sondern nur die Organisation — *wann ist es trotzdem richtig, und wann verschafft es dem Verbotenen nur den „heiligen Schein" des Märtyrers?*
+
 ### Die Bedrohung: was den Ausstieg miterzwang
 
 [▶ 59:29](https://www.youtube.com/watch?v=tuCmL7EIr2E&t=3569) Warum er seinen Rückzug öffentlich begründete, obwohl es eine private Entscheidung war? Aus Verantwortung — und mit der ausdrücklichen Sorge, „dass es nicht in Jammerei abdriftet". Es gebe nicht den einen Grund, sondern „viele Sachen, die zusammenkommen": Unzufriedenheit über die eigene Wirksamkeit, ein verändertes Umfeld, und „Bedrohungssituationen, die eine Rolle gespielt haben". Entscheidend ist ihm die Verallgemeinerung weg von der eigenen privilegierten Lage: Es gehe nicht um ihn, sondern um die „100.000 Leute, die sich kommunalpolitisch im Ehrenamt engagieren" — wo „Briefkästen gesprengt, Kinder in der Schule angegriffen werden für das, was ihre Eltern politisch machen", und die danach „nicht bei Markus Lanz sitzen und darüber sprechen können".
@@ -157,6 +175,10 @@ Quelle: [Er war SPD Chef...😳 (MARCANT PODCAST)](https://www.youtube.com/watch
 > [!success] Bestätigt — Musk / DOGE
 > Musk leitete das Department of Government Efficiency (DOGE), das Massenentlassungen im Bundesdienst betrieb; er spendete über 250 Mio. $ pro-Trump und DOGE wurde nach der Wahl mit Musk an der Spitze geschaffen. Die Charakterisierung „eigene Behörde als Gegenleistung" ist eine politische Zuspitzung, faktisch durch den zeitlichen und personellen Zusammenhang gedeckt.
 > Quelle: [TIME — What DOGE Is Doing Across the Federal Government](https://time.com/7222251/doge-musk-federal-workers-government/)
+
+> [!success] Bestätigt — Parteiverbote in Deutschland (KPD, SRP, NPD)
+> In der Geschichte der Bundesrepublik wurden nur zwei Parteien verboten: die Sozialistische Reichspartei (SRP, 1952) und die KPD (1956). Bei der NPD stellte das Bundesverfassungsgericht 2017 die Verfassungsfeindlichkeit fest, verbot sie aber nicht — sie habe nicht das Potenzial, ihre Ziele durchzusetzen (Verhältnismäßigkeit). Kühnerts Darstellung der zwei Hürden (verfassungsfeindliche Bestrebung *und* aktiv-kämpferisches Vorgehen) sowie der Präzedenzfälle ist juristisch korrekt.
+> Quelle: [bpb — Parteiverbote in Deutschland](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/304570/parteiverbote-in-deutschland/) · [BVerfG — Urteil NPD-Verbotsverfahren 2017](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2017/bvg17-004.html)
 
 ---
 
