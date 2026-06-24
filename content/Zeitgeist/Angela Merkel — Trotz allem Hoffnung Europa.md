@@ -18,6 +18,16 @@ aliases:
 
 # Angela Merkel — Trotz allem: Hoffnung Europa?
 
+![[assets/Angela-Merkel-Trotz-allem-Hoffnung-Europa-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico** — metaphysische Malerei: eine lange klassische Kolonnade (das europäische Haus) im ambivalenten Grenzlicht zwischen Morgen und Abend, lange warme Schatten, eine einzelne ruhige Figur am leeren Verhandlungstisch. Rechts oben drückt eine dunkle monolithische Masse herein; gegen sie ein Sternenfeld vieler gleich heller kleiner Sterne — die kleinen Nationen so leuchtend wie die großen. Ein roter Faden vernäht die Figur mit dem Horizont. De Chirico, weil die Note sober und wartend ist — gehaltene Melancholie mit einem Faden Hoffnung, keine Agitation.
+
+*Prompt:* A wide metaphysical banner, 1200×500px, in the style of Giorgio de Chirico. A long classical European colonnade of pale chalk-white arches recedes across the frame, casting long warm shadows in the low golden light of an ambiguous dawn-or-dusk. In the mid-left a single small solitary faceless figure in a plain dark blazer stands at a long empty table, calm and upright, facing the open plaza. In the upper right a vast looming dark monolithic geometric mass presses inward from the edge; against it, scattered across the pale sky, a constellation of many small equal bright stars — the small nations as luminous as the large. A thin red thread stitches a needle-line across the empty square, weaving from the figure toward the distant horizon. A faint round stone medallion showing two profiles is set into the pavement. Muted ochre, dusty rose, deep teal shadow, chalk-white stone. Melancholy stillness with a single thread of hope. Sharp perspective, flat painterly surfaces, no photorealism, no realistic faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > Eine Frau, die sechzehn Jahre lang in 107 Gipfelnächten europäische Diplomatie verkörperte, kehrt auf eine Bühne zurück und spricht über ein Europa, dem die Gewissheiten abhandenkommen. Merkel verteidigt das langsame Handwerk des Kompromisses gegen das Recht des Stärkeren, erinnert daran, dass Diplomatie immer die zweite Seite der Medaille war — und widerspricht dem Fatalismus, ohne die eigenen Versäumnisse zu beschönigen. Eine Einladung, das Mühsame ernster zu nehmen als das Laute.
 

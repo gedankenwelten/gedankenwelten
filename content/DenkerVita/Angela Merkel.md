@@ -5,6 +5,16 @@ tags: [denker-vita, deutschland, demokratie, europa]
 
 # Angela Merkel — DenkerVita
 
+![[assets/Angela-Merkel-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee** — Aquarell, flache Bauhaus-Geometrie, geerdete Palette aus Schiefergrau, Ziegelrot, Ocker und warmem Creme, mit handgezogenen Tuschelinien. Ein Lebensweg als ruhiges Felderraster: links die kühlen Quadrate der DDR-Physikerin (Kolben, Stern), in der Mitte eine flächige Figur, deren Hände sich zur berühmten **Raute** fügen — die Geste als reine Geometrie —, rechts ein wärmeres Feld mit Haus und offenem Buch. Klee, weil er ein Leben in geduldige Geometrie übersetzt wie keine andere Hand — und die Merkel-Raute von sich aus ein geometrisches Emblem ist.
+
+*Prompt:* A wide banner, 1200×500px, in the style of Paul Klee — watercolor washes, flat Bauhaus geometry, hand-drawn black ink lines, an earthy grounded palette of slate grey-blue, brick red, ochre, muted teal and warm cream. A horizontal life-path reads left to right as a quiet grid of small rectangular fields. On the far left, a cluster of cool grey-blue squares holds a tiny laboratory flask and a single small star (the East German physicist). In the center stands a large steady faceless figure built from simple flat shapes, its two hands joined into one bold geometric diamond / rhombus at the very heart of the composition. On the right the fields open into a warmer, calmer field with a small house and an open book. A faint arc of small equal dots curves across the top like a constellation. The word "Freiheit" woven in small hand-lettered script into one of the fields. Playful yet structured, patient, warm. Flat layered watercolor, no photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
