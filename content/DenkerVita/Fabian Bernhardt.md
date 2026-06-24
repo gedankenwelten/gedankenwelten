@@ -5,6 +5,16 @@ tags: [denker-vita, philosophie, ethik, psychologie]
 
 # Fabian Bernhardt — DenkerVita
 
+![[assets/Fabian-Bernhardt-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee** — Aquarell auf warmem Ton, flache Bauhaus-Geometrie, erdige Palette aus Ocker, Terrakotta und gedämpftem Teal. Eine verspielt-ernste Karte der Affekte: ein Raster kleiner Kachel-Symbole (Flamme, herabgezogene Maske, Krone, auf sich zurückgebogener Pfeil, durchstochenes Herz), gekrönt vom handgeschriebenen Wort „RACHE" — und mittendrin das eine matte schwarze Feld. Klees warme Hand fasst Bernhardts Lebensthema in *ein* Bild: den blinden Fleck der Moderne, den die bunte Ordnung der Gefühle umstellt und nie betritt.
+
+*Prompt:* Wide banner, 1200×500px. Paul Klee watercolour on warm toned paper, flat Bauhaus geometry, earthy palette of ochre, terracotta, muted teal and indigo, drawn with fine ink lines. A playful-grave "map of the affects": a loose grid of small geometric tiles, each holding a tiny symbol — a flame, a downturned mask, a small crown, an arrow curving back onto itself, a heart pierced by a single thorn. At the centre of the otherwise luminous, colour-filled grid sits one matte-black square, the blind spot, the single tile the eye slides past. The hand-lettered word „RACHE" woven faintly into the lower band in Klee's manner. A small sun-disc in one upper corner and a thin crescent moon in the opposite corner. Granular watercolour texture, gentle warmth. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 - **Philosoph**, wissenschaftlicher Mitarbeiter am Sonderforschungsbereich 1171 **„Affective Societies"** an der **Freien Universität Berlin** — Forschung zur Soziologie und Philosophie der Affekte und Emotionen.
 - **Geboren 1981 in Saudi-Arabien**, mit einer brasilianischen Mutter aufgewachsen; lebt und arbeitet in Berlin.
