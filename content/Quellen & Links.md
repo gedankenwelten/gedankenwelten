@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Angela Merkel — Trotz allem: Hoffnung Europa?
+
+| | |
+|---|---|
+| **Vortrag / Video** | [WDR Europaforum: Angela Merkel – Trotz allem: Hoffnung Europa? (re:publica 26)](https://www.youtube.com/watch?v=RLfAqLny-_8) |
+| **Notiz** | [[Zeitgeist/Angela Merkel — Trotz allem Hoffnung Europa]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Merkel_Europa_Transkript.txt` |
+
 ## Ken Ono — Wenn das Wissen billig wird
 
 | | |

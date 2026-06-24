@@ -195,3 +195,7 @@ Steinhaus' Satz „Deutschland ist keine Leistungsgesellschaft, sondern eine Erb
 ### → [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 
 Die phoenixRunde zeigt Linartas' strukturelle These in der Livekontroverse: Kapitalertragssteuer vs. Spitzensteuersatz, Arbeit höher besteuert als Kapital — Butterwegge benennt dieselbe Systemverschiebung, die Linartas historisch und empirisch belegt.
+
+### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
+
+Linartas liefert das strukturelle Fundament zu Merkels Befund, die Jungen empfänden den Wohlstand als ungerecht verteilt: die Erbengesellschaft als unverdiente Ungleichheit.

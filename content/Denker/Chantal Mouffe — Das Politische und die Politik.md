@@ -178,6 +178,10 @@ Das schließt den Kreis zu den Gedankenwelten-Gedanken über Demokratie als Gewe
 
 ---
 
+### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
+
+Spannungsreich: Merkel feiert den Kompromiss als Wesen der Demokratie, während Mouffe gerade die Glättung des Konflikts für eine Ursache des Rechtspopulismus hält.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -22,21 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Denker
-
-> **24.06.** — [[Denker/Erich Fromm — Im Namen des Lebens|Erich Fromm — Im Namen des Lebens]]
->
-> Fromms intellektuelle Autobiografie 1973 — vier Quellen seines Denkens, die Liebe zum Lebendigen gegen die Liebe zum Toten, und die Wahrheit als einzige Pflicht.
-
-> **22.06.** — [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]]
->
-> Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz.
-
-> **17.06.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
->
-> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
-
 ### Zeitgeist
+
+> **24.06.** — [[Zeitgeist/Angela Merkel — Trotz allem Hoffnung Europa|Angela Merkel — Trotz allem: Hoffnung Europa?]]
+>
+> Eine Frau, die 16 Jahre lang europäische Diplomatie verkörperte, über das Recht des Stärkeren, die zweite Seite der Medaille und warum Demokratie kein Selbstläufer ist.
 
 > **23.06.** — [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]]
 >
@@ -54,11 +44,21 @@ Die Gedankenwelten (luc)
 >
 > Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter an der ukrainischen Front, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
 
-> **19.06.** — [[Zeitgeist/Horst Evers — Kostenloser Nahverkehr als Utopie|Horst Evers — Kostenloser Nahverkehr als Utopie]]
->
-> Wenn das größte Problem an einer Idee wäre, dass sie funktioniert — wie Comedy die Utopie des kostenlosen Nahverkehrs ernster nimmt als jede Talkshow.
+> → *3 weitere in* [[Zeitgeist]]
 
-> → *2 weitere in* [[Zeitgeist]]
+### Denker
+
+> **24.06.** — [[Denker/Erich Fromm — Im Namen des Lebens|Erich Fromm — Im Namen des Lebens]]
+>
+> Fromms intellektuelle Autobiografie 1973 — vier Quellen seines Denkens, die Liebe zum Lebendigen gegen die Liebe zum Toten, und die Wahrheit als einzige Pflicht.
+
+> **22.06.** — [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]]
+>
+> Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz.
+
+> **17.06.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
+>
+> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
 
 ### Geistesblitz
 

@@ -239,3 +239,7 @@ Flemig liefert die industrielle Realität, die der StreitClub fordert: Rheinmeta
 ### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
 
 Krastev benennt die vier zerschlagenen Annahmen europäischer Sicherheit und vertieft die Verteidigungsfähigkeitsdebatte: *„Budgets führen keine Kriege, Menschen führen Kriege."* Sein Befund — Europa hat seinen Erfolg (Krieg undenkbar machen) zur größten Schwachstelle gemacht — ist die strukturelle Begründung für den StreitClub-Befund.
+
+### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
+
+Merkel liefert die institutionelle Antwort auf dieselbe Frage: europäisches Recht und Diplomatie als zweite Seite der militärischen Medaille — der Plan zum hier geführten Streit.

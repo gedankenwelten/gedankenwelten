@@ -25,6 +25,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Andreas Loeschel|Andreas Löschel]]** — Energieökonom, Professor Ruhr-Universität Bochum; Vorsitzender der Expertenkommission zum Energiewende-Monitoring; IPCC Koordinierender Leitautor Energiesysteme 7. Sachstandsbericht; Dreikonflikt Energiewende (Bezahlbarkeit, Klimaschutz, Resilienz), verhaltensökonomische Strommarktfundierung; Deutscher Wirtschaftspreis 2022
 
+**[[DenkerVita/Angela Merkel|Angela Merkel]]** — Physikerin und Politikerin (CDU), Bundeskanzlerin 2005–2021, erste Frau und erste Ostdeutsche im Amt; christdemokratisch-pragmatische Mitte, „Politik vom Ende her gedacht“, Krisendiplomatie (Eurorettung, Flüchtlingskrise 2015, Minsk/Normandie-Format); Memoiren *Freiheit* (2024); umstrittene Russlandpolitik
+
 **[[DenkerVita/Annette Dittert|Annette Dittert]]** — Auslandskorrespondentin und Autorin (ARD, Studioleiterin London 2008–2025); Brexit als identitärer Aufstand und Frühwarnsystem Europas, Migration als rechtspopulistischer Hebel, Musk und die gemachte Spaltung; Politikjournalistin des Jahres 2019; Bücher *London Calling* (2017), *Dear Britain* (2024)
 
 **[[DenkerVita/Annika Brockschmidt|Annika Brockschmidt]]** — Journalistin und Autorin, freie Mitarbeiterin *Die Zeit*, *Tagesspiegel*, *Frankfurter Rundschau*; Senior Correspondent Religion Dispatches; Expertise: Religiöse Rechte in USA, Rechtsextremismus, Dog Whistles und Codes; Bestseller-Autorin *Amerikas Gotteskrieger* (2021), *Die Brandstifter* (2024); Transatlantic Media Fellow Heinrich-Böll-Stiftung 2022
