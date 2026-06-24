@@ -15,6 +15,16 @@ aliases:
 
 # Ist die Rache der Ursprung der Moral?
 
+![[assets/Fabian-Bernhardt-Ist-die-Rache-der-Ursprung-der-Moral-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**William Blake** — visionäres Aquarell mit Tusche, goldene Waage in sternenlosem Indigo-Dunkel, zwei mythische Lichtgestalten (Zorn links, Vergebung rechts), eine glühende Kohle in der gesunkenen Schale, gerahmt vom kosmischen Kreis des Anaximander. Blakes moralischer Kosmos, in dem Vergeltung und Gnade als göttliche Kräfte ringen, malt den tiefsten Gedanken der Note: Rache als gestörtes Gleichgewicht, das nach Ausgleich schreit — nicht als Krimi, sondern als kosmische Ordnung.
+
+*Prompt:* Wide banner, 1200×500px. Visionary watercolour-and-ink in the manner of William Blake. A cosmic moral scene: at the centre, a great golden balance-scale suspended in a dark starless void — one pan sunk low and heavy, holding a single glowing ember (an unpaid wound), the other pan raised and empty. Two muscular mythic figures flank the scale, their faces turned away and dissolved into light (no realistic faces): on the left a wrathful figure with streaming red hair reaching toward the heavy pan, on the right a serene figure with arms opening in a gesture of release. Swirling concentric energy lines radiate outward from the scale like divine emanations. A faint ancient circle — the cosmos of Anaximander — frames the whole composition. Deep indigo and black ground, luminous gold and flame-orange highlights, soft watercolour washes bound by fine ink contour lines. Solemn, sublime, dreamlike. No photorealism, no realistic faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > An wem hast du dich zuletzt gerächt? Über kaum ein Gefühl spricht man ungerner — und kaum eines ist allgegenwärtiger. Der Philosoph Fabian Bernhardt liest die Rache gegen den Strich der Moderne: nicht als blinden, archaischen Rückfall, sondern als reaktiven Affekt, in dem sich vielleicht der allererste Sinn für Gerechtigkeit regt. Ohne Rache, so die unbequeme These, gäbe es womöglich gar keine Moral. Ein Gespräch über den blinden Fleck einer Gesellschaft, die sich für zu zivilisiert hält, um zu vergelten — und die ihre Rachefantasien doch jeden Abend um 20 Uhr im Krimi spielt.
 
