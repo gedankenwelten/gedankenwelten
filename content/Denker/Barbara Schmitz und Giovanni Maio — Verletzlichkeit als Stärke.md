@@ -157,6 +157,7 @@ Maio ergänzt mit dem Begriff der **Gemeinschaftlichkeit**:
 
 ## Verbindungen
 
+- [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]] — Beide verankern Moral in der Verwundbarkeit. Bernhardts „unendliche Kränkbarkeit des Herzens" ist derselbe Grund wie die Verletzlichkeit als Grundmodus — aber wo Schmitz und Maio aus der Offenheit das Sprungbrett für Beziehung und Wachstum holen, zeigt Bernhardt denselben Boden als Quelle des Rachebedürfnisses. Die beiden Ausgänge derselben Wunde.
 - [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosa beschreibt Resonanz als das, was entsteht, wenn man die Kontrolle loslässt — und zeigt, dass Unverfügbarkeit keine Fehlfunktion ist, sondern Bedingung echten Lebens. Schmitz und Maio beschreiben dasselbe von der Verletzlichkeit aus: Wer die Offenheit des Verletzlichen eliminiert, eliminiert die Voraussetzung jeder Begegnung. Beide Konzepte kreisen um denselben Kern — die Würde des Unverfügbaren.
 
 - [[Erich Fromm — Haben oder Sein]] — Fromms *Haben-Modus* ist der philosophische Vorläufer des Autonomiemythos: Ich bin, was ich kontrolliere und besitze — einschließlich meiner Sicherheit und Unverwundbarkeit. Schmitz' und Maios Kritik an der Autonomiefixierung ist genau Fromms Diagnose: Das Streben nach Unverletzbarkeit ist Haben-Modus, nicht Sein-Modus. Echtes Sein erfordert Offenheit — und Offenheit ist immer auch Verletzbarkeit.

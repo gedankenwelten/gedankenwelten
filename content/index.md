@@ -52,6 +52,10 @@ Die Gedankenwelten (luc)
 >
 > Fromms intellektuelle Autobiografie 1973 — vier Quellen seines Denkens, die Liebe zum Lebendigen gegen die Liebe zum Toten, und die Wahrheit als einzige Pflicht.
 
+> **24.06.** — [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]]
+>
+> Die Moderne hat die Rache nicht überwunden, sondern unsichtbar gemacht — und mit ihr die dunkle Wurzel, aus der unser Sinn für Gerechtigkeit überhaupt erst wächst.
+
 > **22.06.** — [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]]
 >
 > Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz.

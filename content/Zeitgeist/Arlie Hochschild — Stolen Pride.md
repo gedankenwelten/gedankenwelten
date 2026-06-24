@@ -185,6 +185,10 @@ Und darunter, sagt sie, liegt nicht primär Wut, sondern **Verzweiflung**: *„B
 
 ## Verbindungen
 
+### → [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]]
+
+Der gestohlene Stolz ist Bernhardts thymotischer Affektherd im konkreten Feld: gekränkte Verlierer-Regionen, deren Scham ein Demagoge in Wut umwandelt — genau die „Ich räche mich für euch"-Mechanik, die Bernhardt als populistische Anknüpfung an reale Kränkung beschreibt. Wo Hochschild die Soziologie der Demütigung liefert, liefert Bernhardt die Affektphilosophie darunter.
+
 ### → [[Panorama/NoAfD|Panorama: NoAfD — Scharnier-Mechanismus]]
 
 Hochschilds Kastensystem-Zeuge David Maynard beschreibt die vorletzte Sprosse aus eigenem Erleben: Der arme weiße Appalachier und der arme schwarze Stadtbewohner teilen dieselbe Verachtungs-Erfahrung, aber keine Solidarität. Das Panorama benennt denselben Mechanismus strukturell — als **Last-Place Aversion**, als Cusicanquisches Scharnier: Abwertung nach unten ist das billigste Statuskapital derer, die selbst abgewertet werden. Hochschilds Scham-Bergmann Trump ist der politische Unternehmer, der diesen Reflex systematisch bewirtschaftet: Er bietet jedem eine Identität *oberhalb von irgendwem* an, ohne je Solidarität zu verlangen.

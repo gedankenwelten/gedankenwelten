@@ -91,6 +91,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## F
 
+**[[DenkerVita/Fabian Bernhardt|Fabian Bernhardt]]** — Philosoph (FU Berlin, SFB „Affective Societies"); Philosophie der Rache als blinder Fleck der Moderne, Rache als reaktive Ursprungserfahrung von Moral
+
 **[[DenkerVita/Fabian Braesemann|Fabian Braesemann]]** — Ökonom, Datenanalyst (Oxford Internet Institute); KI und Arbeitsmärkte, komplexe Systeme, empirische Forschung zu Arbeitsmarktübergängen und KI-Integration
 
 **[[DenkerVita/Fabian Pfeffer|Fabian Pfeffer]]** — Soziologieprofessor LMU München, Gründungsdirektor ISI; Münzstapel-Visualisierung: reichste Deutsche = 1/3 Weg zum Mond; dynastische Persistenz von Reichtum über 100 Jahre

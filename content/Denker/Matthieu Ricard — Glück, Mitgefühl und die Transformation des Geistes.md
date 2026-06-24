@@ -432,6 +432,7 @@ Wir haben beachtliche Fortschritte bei den Menschenrechten erzielt. Das menschli
 
 ## Verbindungen
 
+- [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]] — Der schärfste Gegenentwurf. Ricards Transformation des Geistes will den Groll *auflösen*, statt ihn auszugleichen — die meditative Antwort auf Bernhardts thymotischen Pol. Bernhardt fragt, ob Moral ohne Rache überhaupt entsteht; Ricard verkörpert die Gegenthese, dass Gleichmut die Kränkbarkeit selbst entkräftet.
 - [[Hans Maggi — Sokotra]] — Abdullah, der singende Höhlenmensch (64, glücklich mit fast nichts), ist Ricards These als gelebtes Bild: Glück ist ein Zustand des Geistes, nicht der Umstände.
 - [[ARTE 42 — Koennen wir uns aendern|Können wir uns ändern? (ARTE 42)]] — Die empirische Persönlichkeitsforschung bestätigt Ricards Kernthese: Der Geist ist transformierbar, aber nur durch beharrliche Praxis, nicht durch Vorsatz. Die CHILL-Studie ist die neurowissenschaftliche Übersetzung von Ricards *Bhāvanā* — zugleich markiert das „Gummiband" der Big Five die Grenze, die Ricards spiritueller Optimismus überschreiten will.
 - [[Breathe — Durchatmen App]] — Ricard ist eines der zentralen philosophischen Fundamente der App: das Parfum-Ritual als Kernmechanik, rechte Gesinnung statt Mindfulness-Effizienz, altruistische Liebe als Kern

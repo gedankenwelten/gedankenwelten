@@ -178,6 +178,7 @@ Der Mensch hat die Kontrolle über seine Schöpfungen verloren — oder genauer:
 
 ## Verbindungen
 
+- [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]] — Fromm erklärt autoritäre Destruktivität als verfehltes Leben, Bernhardt als kanalisierte Vergeltung — beide widersprechen dem Bild blinder Zerstörungswut, indem sie sie auf eine verständliche Vorgeschichte aus Ohnmacht und Kränkung zurückführen. Fromm psychodynamisch, Bernhardt rechtsgenealogisch.
 - [[Rutger Bregman — Ist der Mensch wirklich gut]] — Beide glauben an eine kooperative menschliche Natur, die das System verschüttet. Fromms Analyse des Gehorsams (inkl. Milgram) ist der Faktencheck-Dialog zu Bregman, der genau dieses Experiment entzaubert: Wie zwingend ist die Unterwerfung wirklich in uns angelegt — Wunsch oder bloße Inszenierung?
 - [[Erich Fromm — Die Welt lieben, SRF 1979]] — Das 1979er Gespräch vertieft dieselben Themen: Biophilie als Gegenpol zur autoritären Orientierung, Prophet als Warner
 - [[Erich Fromm — Haben oder Sein]] — Das Haben-Sein-Gegensatz ist das ethische Komplement zur Faschismus-Analyse: der autoritäre Charakter lebt im Haben-Modus (Kontrolle, Besitz, Dominanz). Die Psychoanalyse des Faschismus benennt die Pathologie, "Haben oder Sein" die Therapie

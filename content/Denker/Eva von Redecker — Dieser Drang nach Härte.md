@@ -160,6 +160,7 @@ Die alte linke Utopie (Marcuse: Technologie befreit uns von Arbeit) war schon im
 
 ## Verwandte Notes
 
+- [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]] — Phantombesitz und Rache spiegeln sich: Beide deuten faschistoide Gewalt nicht als Affekt-Überschuss, sondern als Verteidigung eines verletzten Anspruchs auf Ordnung. Wo Bernhardt die enttäuschte Hoffnung auf gerechte Balance sieht, sieht Redecker den nie erfüllbaren Verfügungsanspruch, der „vorsorglich" zerstört.
 - [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — strukturelle vs. individuelle Erklärung von Gewalt und Verrohung
 - [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] — konkrete Anwendung: AfD und digitale Mobilisierung
 - [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Wahlsoziologie des Rechtsrucks
