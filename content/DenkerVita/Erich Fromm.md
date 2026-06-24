@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, psychologie, humanismus, psychoanalyse]
 
 # Erich Fromm — DenkerVita
 
+![[assets/Erich-Fromm-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Marc Chagall** — folk-mystische Traumwelt in Warmblau und glühendem Rot, schwebende Figuren: ein Mensch, weltlos schwebend zwischen zwei Welten — links das altweltliche Dorf bei Dämmerung mit kerzenbeleuchtetem Lehrhaus, offenem Psalmenbuch und Geiger (die orthodoxen Wurzeln), rechts die moderne Skyline, das überquerte Meer als blasses Boot, der leuchtende Tessiner See; dazwischen eine rote Blume, zwei sich umarmende Formen für die Liebe, Mond und Stern. Chagalls Signaturgeste — das Schweben zwischen den Welten — wird hier zur Biografie selbst: Fromms Weg von Frankfurt über die USA und Mexiko nach Muralto, getragen von Liebe und Licht statt Analyse.
+
+*Prompt:* Wide panoramic banner, 1200x500, in the warm dreamlike style of Marc Chagall — floating figures, deep luminous blues and glowing reds, folk-mystical, tender. A contemplative man's figure (no realistic face, turned or shadowed) floats gently across the center, suspended between two worlds. On the LEFT, below: an old-world rooftop village at dusk, a small orthodox study house with a warm candle-lit window, an open book of psalms, a violinist — the roots. On the RIGHT: a modern city skyline dissolving into starry indigo, a crossed ocean suggested by a pale boat, a mountain lake (Ticino) glowing. Around the floating figure: a single red flower and two embracing forms for love, a green sprig of life, a quiet moon. Everything weightless, tender, swimming in saturated blue and gold light. Painterly, folk-surreal, no photorealism, no realistic faces. Mood: warm, humanist, a life lived across many worlds.
+
+</details>
+
 > [!info] Wer spricht?
 > **Erich Fromm** (*23. März 1900 in Frankfurt am Main — † 18. März 1980 in Muralto, Tessin*) — Psychoanalytiker, Sozialphilosoph, Humanist.
 >
