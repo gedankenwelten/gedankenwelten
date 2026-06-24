@@ -621,3 +621,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Ken Ono
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ken Ono]]
+
+## Angela Merkel
+**Status:** ✓ Vollanalyse → [[DenkerVita/Angela Merkel]]

@@ -229,3 +229,7 @@ Sonneborn impliziert, die regelbasierte Ordnung sei nur Fassade für Kapitalinte
 ### → [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
 Die Sea-Watch-Sequenz — Schiff beschossen, 35.000 Tote, EU kooperiert aktiv mit libyschen Milizen — ist der Fall, den Keller mit "normativer Erosion durch Duldung" beschreibt: Nicht das Völkerrecht versagt, sondern die Staaten, die es finanzieren und gleichzeitig aushöhlen.
+
+### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
+
+Merkels Bekenntnis zum Vorrang des europäischen Rechts gegen das „Recht des Stärkeren“ ist die politische Kehrseite von Kellers juristischer Diagnose eines machtlosen Völkerrechts.

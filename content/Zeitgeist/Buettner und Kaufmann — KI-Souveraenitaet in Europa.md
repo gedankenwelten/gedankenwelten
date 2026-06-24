@@ -222,6 +222,10 @@ Varoufakis beschreibt Cloud Rent als neuen Tributmechanismus. Kaufmanns Kritik, 
 
 ---
 
+### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
+
+Merkel verteidigt europäische KI-Regeln gegen US-Druck; Büttner und Kaufmann liefern den Souveränitätsbegriff dazu — Vertrauen als europäischer Gegenentwurf zur Tech-Abhängigkeit.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

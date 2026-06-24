@@ -233,3 +233,7 @@ Sonneborns These des „endlosen Krieges" als Geschäftsmodell nutzt intuitiv M�
 ### → [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]]
 
 Münklers *postheroische Gesellschaft* — die im Tausch denkt, nicht im Opfer — findet in Mawick ihren seltenen Gegenbeweis aus erster Hand: ein junger Deutscher, der das eigene Leben nicht höher bewertet als das eines fremden Kindes. Wo Münkler die Theorie der verlorenen Opferbereitschaft liefert, liefert Mawick die gelebte Praxis — und die unbequeme Frage, ob sie Tugend oder Trauma ist.
+
+### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
+
+Merkels „zweite Seite der Medaille“ (Abschreckung + Diplomatie) ist gelebte Praxis dessen, was Münkler fürs postheroische Europa durchdenkt.

@@ -263,3 +263,7 @@ El-Mafaalani hält es für wahrscheinlich, dass Europa demokratisch bleibt — a
 - [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — IT Marios Datenanalyse illustriert El-Mafaalanis Dilemma: ein sachlicher, datengestützter Befund über die AfD wird von AfD-Sympathisanten nicht als Argument wahrgenommen, sondern als Bestätigung des Misstrauens gegenüber „Systemanalysen".
 - [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland]] — Romy Arnold und Melanie Stein ergänzen El-Mafaalanis Misstrauensgemeinschaft-Theorie um die strukturelle Dimension: Unterrepräsentation von Ostdeutschen (3% Justiz, 4% Wirtschaft) als historisch berechtigter Grund für Systemskepsis
 - [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] — El-Mafaalanis destruktives Misstrauen und Tianas US-Staatsmisstrauen beschreiben dieselbe Kipppunkt-Dynamik auf zwei Kontinenten: historische Erbschaft (Frontier, Cold War vs. DDR, Enttäuschung nach der Wende) erzeugt strukturelles Misstrauen, das Vertrauensreparatur fundamental erschwert.
+
+### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
+
+Wo El-Mafaalani das Misstrauen analysiert, formuliert Merkel die demokratische Gegendefinition: „jeder deutsche Staatsbürger ist das Volk“ — gegen den völkischen Volksbegriff.

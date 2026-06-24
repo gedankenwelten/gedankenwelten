@@ -289,6 +289,10 @@ Krastevs Befund *Budgets führen keine Kriege, Menschen führen Kriege* ist der 
 
 ---
 
+### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
+
+Merkel verkörpert genau das multilaterale Europa, das Krastev unter dem Druck der post-1989-Rebellion sieht — ihr Modell ist es, das nun zum Gegner erklärt wird.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
