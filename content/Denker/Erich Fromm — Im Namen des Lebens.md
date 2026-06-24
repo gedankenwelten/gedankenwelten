@@ -17,6 +17,16 @@ aliases:
 
 # Erich Fromm — Im Namen des Lebens
 
+![[assets/Erich-Fromm-Im-Namen-des-Lebens-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Odilon Redon** — visionäre Pastell-Lumineszenz, Symbolismus: links das Tote, Mechanische, Zergliederte (kaltes Uhrwerk, zersplitterte Scherben, eine erfrorene Maske), rechts das Lebendige, das aus dem Dunkel aufglüht (eine große leuchtende Blüte, ein Keimling, ein Kind, das sich aufrichtet) — verbunden durch Wurzeln, die zu einem Stamm zusammenwachsen. Redons verschwimmender Übergang macht aus dem Gegensatz Nekrophilie/Biophilie eine Bewegung statt eines Schnitts — Destruktivität als „Versagen der Kunst des Lebens", nicht als Wesen; die zusammenwachsenden Wurzeln tragen leise Fromms vier Quellen.
+
+*Prompt:* Wide panoramic banner, 1200x500, in the visionary pastel style of Odilon Redon — luminous, dreamlike, symbolist. Composition split by tension, not a hard line. On the LEFT: a cold, fragmented zone — grey mechanical fragments, a dismembered clockwork, broken geometric shards, a stiff frozen mask-like form (no realistic face), muted ash-grey and dead violet, everything disassembled and lifeless. On the RIGHT and CENTER: warmth floods in — a great glowing flower blooming out of darkness, a luminous orange-gold orb like a quiet sun, a small green seedling and a child's silhouette reaching upward, tender blues and radiant amber, petals and living growth emerging from shadow. Between the two zones, faint roots weave together into one trunk — suggesting many sources becoming one. Soft glowing pastel textures, deep velvety darks, no photorealism, no realistic faces. Mood: contemplative, reverent, the triumph of the living over the dead.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Gespräch ohne Thema, ohne Zweck, „nur so aus Freude am Dialog" — und gerade darin Fromms vollständigstes Selbstporträt. Der 73-Jährige erzählt, woraus er gemacht ist: die orthodox-jüdische Kindheit, der Erste Weltkrieg, die vier Bücher, die sein Leben bestimmt haben. Dann kippt das Gespräch in seine letzte große These — die Liebe zum Lebendigen gegen die Liebe zum Toten — und endet bei der einzigen Pflicht, die er dem Denkenden zugesteht: die Wahrheit zu suchen und sie zu sagen. Im Namen von nichts mehr als des Lebens.
 
