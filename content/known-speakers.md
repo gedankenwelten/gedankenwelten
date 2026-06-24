@@ -208,6 +208,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Eva von Redecker
 **Status:** ✓ Vollanalyse → [[DenkerVita/Eva von Redecker]]
 
+## Fabian Bernhardt
+**Status:** ✓ Vollanalyse → [[DenkerVita/Fabian Bernhardt]]
+
 ## Fabian Braesemann
 **Status:** ✓ Vollanalyse → [[DenkerVita/Fabian Braesemann]]
 

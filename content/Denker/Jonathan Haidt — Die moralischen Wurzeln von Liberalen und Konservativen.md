@@ -203,6 +203,7 @@ Das ist kein Aufruf zur Passivität. Haidt verweist auf Sergio Vieira de Mello �
 
 ## Verbindungen
 
+- [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]] — Haidt verortet Moral in vorrationalen Intuitionen (Fairness, Reinheit, Loyalität); Bernhardt radikalisiert das genealogisch — nicht ein Fairness-Modul, sondern die erlittene Kränkung selbst sei der Gerechtigkeit *vorgelagert*. Wo Haidt die Module nebeneinanderstellt, behauptet Bernhardt einen Ursprung darunter.
 - [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]] — der direkte Nachfolger (2016): dieser Vortrag ist die Diagnose des moralischen Systems; der 2016er zeigt, wie Social Media und Abscheu-Emotionen das System eskalieren und Stammeslogik in eine neue Dimension heben. Diagnose (2008) + Eskalation (2016).
 
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — El-Mafaalani beschreibt die soziologische Struktur von Misstrauensgemeinschaften; Haidt liefert den psychologischen Unterbau: Stammeslogik (Loyalität + Reinheit) macht Misstrauensgemeinschaften emotional kohärent und immun gegen rationale Argumente. Zusammen: Warum das Phänomen entsteht (El-Mafaalani) + warum es so schwer zu durchbrechen ist (Haidt).

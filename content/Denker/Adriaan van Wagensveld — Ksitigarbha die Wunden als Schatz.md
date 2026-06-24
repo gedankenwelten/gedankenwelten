@@ -177,6 +177,7 @@ Das ist eine freundliche Formulierung für etwas Ernstes: Vipassana als Reinigun
 
 ## Verbindungen
 
+- [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]] — Die kontemplative Umkehrung von Bernhardts Befund: Dieselbe Verletzung, aus der die Rache entspringt, wird hier zum Tor des Mitgefühls statt zum Ausgangspunkt der Vergeltung — die Wunde als Schatz, nicht als Vergeltungsschuld. Ergänzt Bernhardts Vergeben-Versöhnen-Motiv um eine gelebte Praxis.
 - [[Vipassana — Anatta]] — Die Unterscheidung "Ich bin wütend" vs. "Wut wird wahrgenommen im Wahrnehmungsfeld" ist Anatta in Praxis: Adriaan beschreibt exakt das Auflösen der Ich-Identifikation durch Satipatthana-Witnessing.
 - [[Vipassana — Dukkha]] — Adriaans Kernthese ("Wunden als Schatz") ist eine Antwort auf Dukkha, die über Goenkas Diagnose hinausgeht: Leiden als Brücke statt als Feind.
 - [[Vipassana — Metta]] — Das Bodhisattva-Ideal steht in direkter Spannung zu Goenkas Metta: bei Goenka Frucht persönlicher Reinigung, bei Adriaan Eid vor vollständiger Befreiung — Richtungspfeil umgekehrt.

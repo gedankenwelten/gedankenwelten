@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Fabian Bernhardt — Ist die Rache der Ursprung der Moral?
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Ist die Rache der Ursprung der Moral? \| Sternstunde Philosophie \| SRF Kultur](https://www.youtube.com/watch?v=gcrUxwsoRGw) |
+| **Notiz** | [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Rache_Moral_Transkript.txt` |
+
 ## Angela Merkel — Trotz allem: Hoffnung Europa?
 
 | | |
