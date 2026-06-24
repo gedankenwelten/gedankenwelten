@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*239 Notes — automatisch generiert · nach Thema sortiert*
+*240 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -56,6 +56,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
 - [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
 - [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD|Andreas Kemper — Technofaschismus und die AfD]]
+- [[Zeitgeist/Angela Merkel — Trotz allem Hoffnung Europa|Angela Merkel — Trotz allem: Hoffnung Europa?]] — Eine Frau, die 16 Jahre lang europäische Diplomatie verkörperte, über das Recht des Stärkeren, die zweite Seite der Medaille und warum Demokratie kein Selbstläufer ist.
 - [[Zeitgeist/Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)|Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]]
 - [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 - [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem]] — Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
