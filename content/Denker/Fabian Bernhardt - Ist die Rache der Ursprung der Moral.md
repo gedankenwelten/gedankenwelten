@@ -40,14 +40,14 @@ Quelle: [Ist die Rache der Ursprung der Moral? | Sternstunde Philosophie | SRF K
 
 [▶ 0:46](https://www.youtube.com/watch?v=gcrUxwsoRGw&t=46) — Es beginnt mit einer Beobachtung über das Reden selbst. Wer über Rache forscht, sagt Bernhardt, erlebt zwei Reaktionen: In akademisch-philosophischen Kreisen tritt betretenes Schweigen ein, gefolgt von der Frage, ob das denn überhaupt noch *zeitgemäß* sei. Überall sonst sprudelt es — jedem fällt sofort eine Geschichte ein. Die Rache ist also kein randständiges Thema, sondern eines, dem man nur im Privaten traut.
 
-Eilenberger bringt das Paradox auf den Punkt: Über sexuelle Erlebnisse oder Fußpilz spreche man lieber als über die eigenen Rachegelüste. Bernhardt schärft, *warum*: Solange sich die *anderen* rächen — im Kino, zwischen zwei Buchdeckeln, in fernen Ländern —, finden wir es spannend, sogar gut. Sobald es in die Nähe des eigenen Seelenhaushalts rückt, wird es still.
+Eilenberger bringt das Paradox auf den Punkt: Über sexuelle Erlebnisse oder Fußpilz spreche man lieber als über die eigenen Rachegelüste. Bernhardt schärft, *warum*. Solange sich die *anderen* rächen — im Kino, zwischen zwei Buchdeckeln, in fernen Ländern —, finden wir es spannend, sogar gut. Rückt es in die Nähe des eigenen Seelenhaushalts, wird es still.
 
 > *„Rache, das machen nur die anderen — das ist auf jeden Fall eine sehr verbreitete Geste. In Gesellschaften, die sich selbst für aufgeklärt und zivilisiert halten."*
 
 Dieses Auslagern hat eine Adresse. Die Rache wird kulturell denen zugeschrieben, die als weniger zivilisiert gelten — sie wird zum Merkmal der *anderen* Kultur. Genau hier setzt Bernhardts Verdacht an: Was wir von uns wegschieben, verschwindet nicht. Es bleibt, nur inkognito.
 
 > [!note] Eigene Einschätzung
-> Das ist der eigentliche Schachzug der ganzen Untersuchung, und er sitzt schon im ersten Abschnitt: Die Tabuisierung der Rache ist selbst ein moralisches Manöver. Indem ich behaupte, *ich* räche mich nicht, stelle ich mich auf die Seite der Zivilisierten — und schiebe den Affekt nach unten und nach außen. Das ist dieselbe Bewegung, mit der Gesellschaften ihre Gewalt gerne bei den „Wilden", den „Fanatikern", den „Hinterwäldlern" verorten. Wer ehrlich sein will, müsste den Stachel zuerst im eigenen Inneren suchen.
+> Hier sitzt der Schachzug der ganzen Untersuchung, schon im ersten Abschnitt: Die Tabuisierung der Rache ist selbst ein moralisches Manöver. Indem ich behaupte, *ich* räche mich nicht, stelle ich mich auf die Seite der Zivilisierten — und schiebe den Affekt nach unten und nach außen. Es ist dieselbe Bewegung, mit der Gesellschaften ihre Gewalt bei den „Wilden", den „Fanatikern", den „Hinterwäldlern" verorten. Wer ehrlich sein will, sucht den Stachel zuerst im eigenen Inneren.
 
 ### Die Rückkehr der Rache — oder nur ihrer Sichtbarkeit?
 
@@ -68,12 +68,12 @@ Hier verbindet Bernhardt seinen Gegenstand mit der politischen Gegenwart, ohne i
 
 > *„Dem Nachdenken über Gerechtigkeit vorgelagert sind Unrechtserfahrungen — und das sind die Erfahrungen, an denen sich ein Sinn von Gerechtigkeit ausbildet und Konturen gewinnt."*
 
-Daraus folgt Eilenbergers zugespitzte Formel, der Bernhardt nicht widerspricht: Ohne das Empfinden, sich rächen zu *wollen*, gäbe es vielleicht gar kein moralisches Empfinden. Die Rachegeste wäre dann nicht das Gegenteil der Moral, sondern ihre Ursprungserfahrung — etwas, das man sich bewusst machen statt beiseitelegen sollte.
+Daraus folgt Eilenbergers zugespitzte Formel, der Bernhardt nicht widerspricht: Ohne das Empfinden, sich rächen zu *wollen*, gäbe es vielleicht gar kein moralisches Empfinden. Die Rachegeste wäre dann die Ursprungserfahrung der Moral — etwas, das man sich bewusst machen sollte, statt es beiseitezulegen.
 
 Damit Rache überhaupt entsteht, müssen zwei Dinge zusammenkommen: ein Schmerz, ein negativer Affekt, eine Kränkung — und das Bewusstsein, dass dieser Schmerz *unrechtmäßig* war. Jemand hat ihn zugefügt, der nicht das Recht dazu hatte, der gegen eine geschriebene oder ungeschriebene Norm verstieß. Und das Netz der ungeschriebenen Normen, die mit Respekt und Höflichkeit zu tun haben, ist weit dichter geknüpft als das rechtliche. Schon ein nicht erwiderter freundlicher Gruß kann den Affekt zünden.
 
 > [!note] Eigene Einschätzung
-> Das ist die produktivste These der ganzen Note — und die anschlussfähigste an unsere Gedankenwelten. Wenn Moral aus der erlittenen Verletzung erwächst, dann ist sie nicht primär ein Werk der Vernunft, sondern der Verletzlichkeit. Das rückt Bernhardt nah an eine Ethik, die beim verwundbaren Körper ansetzt statt beim abstrakten Prinzip. Und es erklärt, warum rein kognitive Moralappelle so oft ins Leere laufen: Sie sprechen die Etage an, auf der über Gerechtigkeit *nachgedacht* wird — nicht die darunterliegende, auf der sie zuerst *gespürt* wird.
+> Das ist die produktivste These der ganzen Note — und die anschlussfähigste an unsere Gedankenwelten. Wenn Moral aus der erlittenen Verletzung erwächst, wurzelt sie in der Verletzlichkeit, nicht in der Vernunft. Bernhardt rückt damit nah an eine Ethik, die beim verwundbaren Körper ansetzt, nicht beim abstrakten Prinzip. Und es erklärt, warum rein kognitive Moralappelle so oft ins Leere laufen: Sie sprechen die Etage an, auf der über Gerechtigkeit *nachgedacht* wird. Die Etage darunter, auf der sie zuerst *gespürt* wird, erreichen sie nicht.
 
 ### Wem steht die Rache zu? Gott, Status, Gleichheit
 
@@ -153,7 +153,7 @@ In einer Welt, die global alles andere als gerecht eingerichtet ist, simuliert d
 [▶ 45:01](https://www.youtube.com/watch?v=gcrUxwsoRGw&t=2701) — Davor liegt der vielleicht tiefste Gedanke des Gesprächs, von Eilenberger angestoßen: Die Idee der Rache setzt eine *Balance* voraus, die gestört wurde und wiederhergestellt werden soll — aber wer aus dem Fenster schaut, sieht keine Welt der Balance. Woher kommt diese Idee? Bernhardt führt sie bis vor die Anfänge der Philosophie zurück, zum Fragment des **Anaximander**: Das Spiel der Kräfte im Universum als Gleichgewicht, und wo ein Element sich zu großen Raum nimmt, muss es dafür büßen, Ausgleich leisten. Die Balance, räumt er ein, ist ein Stück weit Fiktion — und doch real erfahren: Wer in der U-Bahn zusammengeschlagen wird, kennt sehr genau ein Davor und ein Danach. Die Störung *macht* das Davor erst zur Ordnung, die wir vorher nur nicht so genannt haben.
 
 > [!note] Eigene Einschätzung
-> Dass die Rache an einem kosmologischen Urbild hängt — dem Gleichgewicht des Anaximander —, ist der schönste Bogen der Sendung. Die Sehnsucht nach Vergeltung wäre dann nicht nur Psychologie, sondern eine Art metaphysisches Heimweh: der Wunsch, das Universum möge im Gleichgewicht sein, jeder bekomme, was er verdient. Das Buch Hiob ist die große Widerlegung dieses Wunsches — die Welt funktioniert nicht so. Vielleicht ist genau das die tiefste Wurzel der Rache: nicht Bosheit, sondern eine enttäuschte, unstillbare Hoffnung auf eine gerechte Ordnung.
+> Dass die Rache an einem kosmologischen Urbild hängt — dem Gleichgewicht des Anaximander —, ist der schönste Bogen der Sendung. Die Sehnsucht nach Vergeltung wäre dann mehr als Psychologie. Ein metaphysisches Heimweh: der Wunsch, das Universum möge im Gleichgewicht sein, jeder bekomme, was er verdient. Das Buch Hiob ist die große Widerlegung dieses Wunsches — die Welt funktioniert nicht so. Vielleicht ist genau das die tiefste Wurzel der Rache: nicht Bosheit, sondern eine enttäuschte, unstillbare Hoffnung auf eine gerechte Ordnung.
 
 ---
 
