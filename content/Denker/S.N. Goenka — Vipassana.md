@@ -241,6 +241,10 @@ Hagemeyer zeigt, dass narzisstische Symptomatik aus einer fragilen inneren Leere
 
 Dieselbe Kern-Haltung — Auflösung des Ich, „kein Guru sein" — mit gegensätzlichem institutionellem Ausgang. Goenka sicherte „die Technik, nicht der Lehrer" strukturell gegen den Personenkult; Shi Heng Yis Shaolin-Tempel produzierte genau die Autorität, an deren Missbrauch er nun öffentlich zerbricht. Goenkas Regeln und Shi Heng Yis Scheitern sind zwei Wege zur selben Einsicht: dass die Person dem Weg im Weg steht.
 
+### → [[Erich Fromm — Im Namen des Lebens]]
+
+Fromm fordert die Konzentration „des ganzen Menschen" als Bedingung des Schöpferischen — Goenka liefert die Praxis dazu: Sati als Training jenes Gewahrseins, das Fromm nur benennt. Beide werten Erfahrung über Glauben. Die Spannung: Fromm wendet das Lebendige ins Politische („im Namen des Lebens"), Goenka bleibt bei der inneren Technik — Kontemplation gegen Engagement.
+
 ---
 
 ## Weiterdenken

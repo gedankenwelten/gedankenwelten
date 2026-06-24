@@ -1,7 +1,7 @@
 ---
 title: Erich Fromm — DenkerVita
 date: 2026-04-19
-aktualisiert: 2026-04-19
+aktualisiert: 2026-06-24
 tags: [denker-vita, philosophie, psychologie, humanismus, psychoanalyse]
 ---
 
@@ -36,6 +36,7 @@ In den frühen 1930er Jahren wird er Mitglied der **Frankfurter Schule** — jen
 - [Die Kunst des Liebens (1956)](https://www.genialokal.de/Suche/?q=erich+fromm+kunst+des+liebens) — Liebe als Fähigkeit, nicht als Gefühl — eines der meistgelesenen Bücher des 20. Jahrhunderts
 - [Jenseits der Illusionen (1962)](https://www.genialokal.de/Suche/?q=erich+fromm+jenseits+der+illusionen) — Marx und Freud neu gelesen: Was bleibt von ihren Visionen?
 - [Zen-Buddhismus und Psychoanalyse (1971, mit D.T. Suzuki)](https://www.genialokal.de/Suche/?q=erich+fromm+zen+buddhismus+psychoanalyse) — Ostwestlicher Dialog: Selbsterkenntnis als Befreiung
+- [Anatomie der menschlichen Destruktivität (1973)](https://www.genialokal.de/Suche/?q=erich+fromm+anatomie+menschlichen+destruktivität) — Nekrophilie vs. Biophilie, die Hitler-Analyse; Destruktivität als „Versagen der Kunst des Lebens"
 - [Haben oder Sein (1976)](https://www.genialokal.de/Suche/?q=erich+fromm+haben+oder+sein) — Zwei Existenzweisen: Das Buch, das eine Generation geprägt hat
 
 ## Empfehlenswerte Videos & Vorträge
@@ -76,9 +77,12 @@ Seine politische Vision: eine Gesellschaft, in der **Mitbestimmung** in Arbeit u
 
 - **D.T. Suzuki / Zen** — Fromms Zen-Seminar 1957 in Mexico mit dem Zen-Meister Suzuki war ein Wendepunkt: Er entdeckt Ähnlichkeiten zwischen psychoanalytischer Einsicht und Zen-Erleuchtung. Beide zielen auf die Aufhebung der Ich-Fixierung — Zen als "Sein-Modus" ohne westliche Metaphysik.
 
+- **Johann Jakob Bachofen** — *Das Mutterrecht* (1861) war für den jungen Fromm „ein Schlüssel". Bachofens Unterscheidung zwischen mütterlichem Prinzip (unbedingte Liebe) und väterlichem Prinzip (Liebe nach Verdienst) wird zur Grundlage von Fromms Theorie der Mutterbindung und seiner Deutung des Ödipuskomplexes als Sehnsucht nach einer entlastenden Instanz — nicht als sexuelle Bindung.
+
 ## Gedankenwelten-Notes
 
 - [[Erich Fromm — Haben oder Sein]] — Das 1977er Gespräch: tiefere Analyse der Haben/Sein-Unterscheidung
 - [[Erich Fromm — Die Welt lieben, SRF 1979]] — Das 1979er Gespräch: persönlicher und synthetischer
 - [[Erich Fromm — Menschliches Wachstum]] — Der 1971er Vortrag aus der Reihe „Überdruss und Überfluss": Konsumkritik, autoritäre Moral, der „ewige Säugling"
 - [[Erich Fromm — Psychoanalyse des Faschismus]] — Das 1975er SWF-Gespräch: autoritärer Charakter, Milgram-Experiment, offene vs. anonyme Autorität, kategorischer Imperativ der Technik
+- [[Erich Fromm — Im Namen des Lebens]] — Das 1973er Gespräch mit Hans Jürgen Schultz: intellektuelle Autobiografie (Propheten, Marx, Bachofen, Buddhismus, Freud), Nekrophilie/Biophilie, die Wahrheit als einzige Pflicht des Intellektuellen
