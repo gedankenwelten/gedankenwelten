@@ -260,6 +260,10 @@ Der theologische Spiegel zu Bregmans Konformismus-Befund: Bonhoeffers „Dummhei
 
 Fromm teilt die Grundüberzeugung einer kooperativen menschlichen Natur, die das System verschüttet — und behandelt das Milgram-Experiment, das Bregman zentral entzaubert. Der direkte Faktencheck-Dialog: Wie zwingend ist Gehorsam wirklich in uns angelegt?
 
+### → [[Erich Fromm — Im Namen des Lebens]]
+
+Der schärfste Gegenpol: Wo Bregman die Güte als menschlichen *Default* setzt (*survival of the friendliest*), nimmt Fromm die Destruktivität als reale Macht ernst und macht die Biophilie zur *Errungenschaft* — etwas, das gelingen oder versagen kann. Bregman würde Fromms düsteres Menschenbild als gefährliche sich-erfüllende Prophezeiung warnen; Fromm würde Bregmans Optimismus vorhalten, er unterschätze den Hass auf das Lebendige.
+
 ### → [[Evan Osnos — Megayachten und die Seele der Ultrareichen]]
 
 Das empirische Gegenwarts-Anschauungsmaterial zu Bregmans These „Macht isoliert und entmenschlicht, die Schamlosen fallen nach oben": die Ultrareichen als realer Fall der Machtisolation, an dem der psychologische Mechanismus konkret wird.

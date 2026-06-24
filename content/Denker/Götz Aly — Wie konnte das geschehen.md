@@ -259,6 +259,10 @@ Alys historische Frage «Wie konnte das geschehen?» spiegelt sich in Potters Be
 
 Fromm erklärt den psychologischen Mechanismus hinter Alys historischem Befund: das gesellschaftliche Unbewusste. Die Deutschen *hätten* es wissen können — aber kollektive Verdrängung organisiert das Nicht-Wissen. Fromm fragt: Was verdrängen wir selbst? Aly fragt: Was haben die Menschen verdrängt? Beide kommen zum selben Punkt: Schreckliches geschieht nicht, weil Menschen böse sind, sondern weil das kollektiv Gewusste systematisch unbewusst gehalten wird.
 
+### → [[Erich Fromm — Im Namen des Lebens]]
+
+Fromms Urfrage angesichts des Ersten Weltkriegs — „Wie ist das möglich?" — ist wortgleich mit Alys Leitfrage, nur eine Generation früher gestellt. Beide suchen die Destruktivität nicht im Monster, sondern im Normalen: Aly in der materiellen Teilhabe, Fromm im „Versagen der Kunst des Lebens", das den Hass auf das Lebendige gebiert.
+
 ---
 
 ## Eine eigene Reflexion

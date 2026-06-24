@@ -1149,6 +1149,16 @@ tags:
 
 ---
 
+## Erich Fromm — Im Namen des Lebens (SDR 1973/74)
+
+| | |
+|---|---|
+| **Gespräch / Video** | [Erich Fromm: Im Namen des Lebens (1973)](https://www.youtube.com/watch?v=N9rdSkGvVxA) |
+| **Notiz** | [[Erich Fromm — Im Namen des Lebens]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Fromm_Im_Namen_des_Lebens_Transkript.txt` |
+
+---
+
 ## Adriaan van Wagensveld — Ksitigarbha: Die Wunden als Schatz
 
 | | |
