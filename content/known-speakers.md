@@ -355,6 +355,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Liya Yu
 **Status:** ✓ Vollanalyse → [[DenkerVita/Liya Yu]]
 
+## Lucy Brown
+**Status:** ✓ Vollanalyse → [[DenkerVita/Lucy Brown]]
+
 ## Ludwig Wittgenstein
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ludwig Wittgenstein]]
 
@@ -490,6 +493,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Sandra Navidi
 **Status:** Stub
+
+## Semir Zeki
+**Status:** ✓ Vollanalyse → [[DenkerVita/Semir Zeki]]
 
 ## Shi Heng Yi
 **Status:** ✓ Vollanalyse → [[DenkerVita/Shi Heng Yi]]
@@ -632,3 +638,15 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Angela Merkel
 **Status:** ✓ Vollanalyse → [[DenkerVita/Angela Merkel]]
+
+## Arthur Aron
+**Status:** ✓ Vollanalyse → [[DenkerVita/Arthur Aron]]
+
+## Helen Fisher
+**Status:** ✓ Vollanalyse → [[DenkerVita/Helen Fisher]]
+
+## Donatella Marazziti
+**Status:** ✓ Vollanalyse → [[DenkerVita/Donatella Marazziti]]
+
+## Andreas Bartels
+**Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Bartels]]

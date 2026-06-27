@@ -253,6 +253,10 @@ Hochschild zeigt die politische Trajektorie von Scham, die nicht bearbeitet wird
 
 Brähler liefert die psychotherapeutische Form von Rüthers „motivieren statt drohen". Scham treibt nicht zur Besserung, sie zementiert Rückfall und Verheimlichung — was Rüther als Stigma des Suchtkranken beschreibt, ist bei Brähler die toxische Scham, deren einziges Gegengift Selbstmitgefühl ist, nicht Drohung.
 
+### → [[Die Neurobiologie der Liebe]]
+
+Brählers „reife Liebe" ist die psychotherapeutische Beschreibung dessen, was die Neurobiologie als Übergang vom Dopamin-Trieb der Verliebtheit zum Oxytocin-Vasopressin-Bindungssystem fasst — die Liebe, die bleibt, wenn der Rausch endet.
+
 ---
 
 ## Weiterdenken

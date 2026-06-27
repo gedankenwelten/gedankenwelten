@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
 
+> **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
+>
+> Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
+
 > **23.06.** — [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
 >
 > Wenn die Maschine alles weiß, was den Menschen dann ausmacht — und warum ein zweifach durchgefallener Student die wichtigste Antwort gibt.

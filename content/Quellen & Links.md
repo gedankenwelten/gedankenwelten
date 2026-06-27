@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Die Neurobiologie der Liebe (Forschungssynthese)
+
+| | |
+|---|---|
+| **Schlüsselstudien** | Bartels & Zeki 2000 ([DOI](https://doi.org/10.1097/00001756-200011270-00046)) · Aron/Fisher/Brown 2005 ([DOI](https://doi.org/10.1152/jn.00838.2004)) · Bartels & Zeki 2004 ([DOI](https://doi.org/10.1016/j.neuroimage.2003.11.003)) · Marazziti et al. 1999 ([DOI](https://doi.org/10.1017/S0033291798007946)) · Acevedo et al. 2012 ([DOI](https://doi.org/10.1093/scan/nsq092)) |
+| **Vorträge** | [Helen Fisher — The brain in love (TED)](https://www.ted.com/talks/helen_fisher_the_brain_in_love) |
+| **Notiz** | [[Geistesblitz/Die Neurobiologie der Liebe]] |
+
 ## Tobias Rüther — Wie Sucht im Gehirn entsteht
 
 | | |
