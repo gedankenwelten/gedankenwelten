@@ -239,6 +239,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## R
 
+**[[DenkerVita/Tobias Rüther|Tobias Rüther]]** — Suchtmediziner, Leiter der Tabakambulanz am LMU Klinikum München; Sucht als Krankheit nicht Willensschwäche, „das Problem dahinter", Motivation statt Abschreckung, Warnung vor designten Vape-Einsteigerprodukten
+
 **[[DenkerVita/Rebecca Boehme|Rebecca Böhme]]** — Neurowissenschaftlerin, Assistenzprofessorin Universität Linköping; Gehirn als bayesianische Vorhersagemaschine, Sprache als neuronaler Schalter, Freiheit trainierbar
 
 **[[DenkerVita/Rutger Bregman|Rutger Bregman]]** — niederländischer Historiker, Bestsellerautor und Aktivist; *Im Grunde gut*, *Utopien für Realisten*, *Moralische Ambition*; der Mensch ist im Grunde gut, Grundeinkommen, 15-Stunden-Woche, viraler Davos-Auftritt gegen Steuervermeidung

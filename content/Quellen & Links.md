@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Tobias Rüther — Wie Sucht im Gehirn entsteht
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Alkohol, Tabak & Cannabis zerstören Ihr Gehirn! Hier ist warum \| ERCM Medizin Podcast](https://www.youtube.com/watch?v=F6ibiIz-GuI) |
+| **Notiz** | [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Ruether_Sucht_Transkript.txt` |
+
 ## Fabian Bernhardt — Ist die Rache der Ursprung der Moral?
 
 | | |
