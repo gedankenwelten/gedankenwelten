@@ -17,6 +17,16 @@ aliases:
 
 # Tobias Rüther — Wie Sucht im Gehirn entsteht
 
+![[assets/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Edvard Munch** — expressionistische Wirbel, geborstenes Indigo und ein fiebriges Orange. Ein gekrümmter Schatten sitzt am überlaufenden Strom aus goldenem Licht — dem Belohnungsstrom, der die Ufer sprengt; daneben, auf trockenem Grund im ruhigen Morgenlicht, steht dieselbe Figur kleiner und aufrecht und reicht zurück. Munch, weil er die Sucht als Qual *und* Sehnsucht zugleich hält — der Sog und der hoffnungsvolle Stand im selben Bild.
+
+*Prompt:* Wide 1200x500 banner in the style of Edvard Munch — expressionist swirling brushwork, anxious undulating lines, deep indigo and bruised violet sky dissolving into a feverish orange glow. Center: a lone faceless human silhouette curled at the edge of a churning river of golden light that has burst its banks and floods the foreground — the river is the brain's reward pathway overflowing. On the left, the same figure stands smaller and upright on dry ground in a calm warm dawn light, reaching back. Tiny luminous droplets rise from the flood like dopamine sparks. Mood: torment shot through with a thread of hope. Thick visible brushstrokes, no photorealism, no realistic faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Suchtmediziner erklärt, warum kein Mensch süchtig sein *will* und doch jeder zweite Raucher daran stirbt: Das Gehirn ist auf Dopamin gebaut, Drogen fluten es tausendfach über das hinaus, wofür die Natur es gemacht hat — und ab da rechnet das System falsch. Aber das ist nur die halbe Wahrheit. Die andere: Hinter fast jeder Sucht liegt ein Problem, das vorher schon da war. Rüther erzählt von der gekaperten Biologie *und* vom Schmerz dahinter — und davon, dass moderne Suchtmedizin nicht mehr droht, sondern motiviert.
 
@@ -222,9 +232,10 @@ Die helle Schwester: Verliebtsein aktiviert dasselbe Belohnungssystem (VTA, Nucl
 
 ## Weiterdenken
 
-> [!question] Was Sokrates vielleicht gefragt hätte
-> - Wenn das Gehirn für Faktor 2 gebaut ist und Drogen Faktor 1000 liefern — *ist dann auch das ständige Reizfeuer von Bildschirmen und Benachrichtigungen eine Überforderung derselben Maschine, nur langsamer?*
-> - Rüther sagt, hinter jeder Sucht stehe ein Problem. *Heißt das, eine Gesellschaft mit viel Sucht ist vor allem eine Gesellschaft mit viel ungetröstetem Schmerz?*
-> - Wenn das Suchtmittel jemandem zum ersten Mal Nähe ohne Scham geschenkt hat — *was schulden wir ihm: ihm die Droge zu nehmen, oder ihm denselben Frieden auf anderem Weg zu ermöglichen?*
-> - Wenn „legal oder illegal" dem Gehirn gleichgültig ist — *worauf gründet sich dann unser moralisches Urteil über Konsumenten, wenn nicht auf bloße Gewohnheit?*
-> - Rüthers Tipp ist, sich an kleinen Dingen zu freuen. *Ist die Fähigkeit zur kleinen Freude womöglich das Gegenteil von Sucht — und kann man sie üben wie einen Muskel?*
+> [!question] Woran die Wissenschaft selbst noch ringt
+> Rüther spricht mit der Klarheit dessen, der täglich heilt. Doch fast jeder seiner festen Sätze ist in der Forschung bis heute umkämpft — und vielleicht ist es das Ehrlichste, was diese Note weitergeben kann: einem Menschen zu zeigen, dass selbst die Klügsten hier noch ringen.
+>
+> - Rüther sagt, Sucht sei eine **Krankheit**, kein Willensdefekt. Ob „Krankheit" das richtige Wort ist, ist bis heute offen: Der Neurowissenschaftler **Marc Lewis** hält Sucht für tiefes *Lernen*, das man wieder verlernen kann ([Lewis, *Addiction and the Brain: Development, Not Disease*, 2017](https://pubmed.ncbi.nlm.nih.gov/28725282/)), der Psychologe **Gene Heyman** für eine Form von *Wahl* ([*Addiction: A Disorder of Choice*, 2009](https://www.hup.harvard.edu/books/9780674057272)) — das NIDA dagegen für eine Hirnkrankheit ([Volkow et al., *New England Journal of Medicine* 2016](https://pubmed.ncbi.nlm.nih.gov/26816013/)). *Was würde sich für dich ändern, je nachdem, wer recht hat — krank zu sein oder lernend?*
+> - Wenn die Sucht die Selbstkontrolle schwächt — *ab wann ist ein Mensch nicht mehr verantwortlich für den nächsten Griff?* Die Forschung kann messen, *wie stark* die Kontrolle leidet, aber nicht, *wie viel* davon für Verantwortung genügen muss; das bleibt eine offene, philosophische Frage ([„Addiction and Choice", *Frontiers in Psychiatry* 2013](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2013.00031/full)).
+> - Rüther kämpft gegen das Stigma, indem er Sucht zur Krankheit erklärt. Manche Forscher fragen, ob das Etikett das Stigma nicht bloß *verschiebt* — von „moralisch schwach" zu „dauerhaft hirngeschädigt, hoffnungslos" ([Hall, Carter & Forlini, *Lancet Psychiatry* 2015](https://pubmed.ncbi.nlm.nih.gov/26359616/)). *Hilft es einem Menschen mehr, krank zu heißen — oder nimmt es ihm die Hoffnung, je wieder frei zu werden?*
+> - Rüthers Tradition setzt auf Abstinenz als sicheren Weg. Dass für manche auch ein *kontrollierter* Umgang gelingen kann, gilt seit der Sobell-Kontroverse als belegt — offen ist die schwerere Frage: *für wen* der eine und *für wen* der andere Weg, und wer das verlässlich vorhersagen kann ([Heather, *Controlled drinking after 25 years*, 1995](https://pubmed.ncbi.nlm.nih.gov/7580815/)).
