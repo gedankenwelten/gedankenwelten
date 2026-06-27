@@ -214,6 +214,10 @@ Fromms „hedonische Tretmühle" (Konsum macht kurzfristig glücklich, eskaliert
 
 Die klinische Schwester-Note. Was Schultz als Reward Prediction Error misst, behandelt Rüther am Krankenbett: Seine „Faktor 2 vs. Faktor 1000"-Bilanz und die Toleranzspirale sind Schultz' Eskalationslogik in gelebter Form — der Suchtmediziner zeigt, was passiert, wenn die unphysiologische Dopaminflut die Referenzachse dauerhaft verschiebt und das Gewöhnliche bedeutungslos wird.
 
+### → [[Die Neurobiologie der Liebe]]
+
+Dieselbe VTA, andere Quelle: Was Schultz als Reward Prediction Error beschreibt, treibt auch das Verliebtsein — das Belohnungssystem feuert auf Erwartung und Überraschung, weshalb das Sehnen nach dem Geliebten stärker brennt als die Erfüllung. Liebe als natürlicher, an einen Menschen gebundener Belohnungsreiz statt chemischer Überflutung.
+
 ---
 
 ## Weiterdenken

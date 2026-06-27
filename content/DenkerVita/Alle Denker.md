@@ -19,9 +19,13 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Arlie Russell Hochschild|Arlie Russell Hochschild]]** — Soziologin (UC Berkeley emerita), Pionierin der Emotionssoziologie; emotional labor, deep story, Stolz-Paradox, Scham-Schild; Stolen Pride (2024): Trump schürft Scham wie Kohle
 
+**[[DenkerVita/Arthur Aron|Arthur Aron]]** — Sozialpsychologe (Stony Brook), erforscht Nähe und Intimität empirisch; Self-Expansion-Modell der Liebe, die „36 Fragen, die zu Liebe führen", fMRT-Studien (mit Fisher & Brown): Liebe als Belohnungs-/Motivationssystem
+
 **[[DenkerVita/Albrecht von Lucke|Albrecht von Lucke]]** — Publizist, Journalist; Blätter-Redakteur; Nischengesellschaft, Konfliktunfähigkeit, Merz-Regierung als Führungsvakuum
 
 **[[DenkerVita/Anabel Ternes von Hattburg|Anabel Ternès von Hattburg]]** — (Vollanalyse vorhanden)
+
+**[[DenkerVita/Andreas Bartels|Andreas Bartels]]** — Neurowissenschaftler (Universität Tübingen, CIN), Leiter des Vision and Cognition Lab; bei Semir Zeki (UCL) Co-Autor der ersten fMRT-Studien zur romantischen und mütterlichen Liebe (2000, 2004), heute Forschung zu Bewegungssehen und visueller Stabilität
 
 **[[DenkerVita/Andreas Loeschel|Andreas Löschel]]** — Energieökonom, Professor Ruhr-Universität Bochum; Vorsitzender der Expertenkommission zum Energiewende-Monitoring; IPCC Koordinierender Leitautor Energiesysteme 7. Sachstandsbericht; Dreikonflikt Energiewende (Bezahlbarkeit, Klimaschutz, Resilienz), verhaltensökonomische Strommarktfundierung; Deutscher Wirtschaftspreis 2022
 
@@ -125,6 +129,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Heiner Flassbeck|Heiner Flassbeck]]** — Ökonom, ehem. Staatssekretär BMF unter Lafontaine, Chefökonom UNCTAD; Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden; Keynesianischer Einzelkämpfer im ordoliberalen Deutschland
 
+**[[DenkerVita/Helen Fisher|Helen Fisher]]** — Biologische Anthropologin (Rutgers, Kinsey Institute, 1945–2024); Neurobiologie der romantischen Liebe, Drei-Systeme-Modell (Lust / Anziehung / Bindung), Liebe als „drive state“; fMRT-Pionierin mit Aron & Brown, Chief Science Advisor Match.com, TED-All-Star
+
 **[[DenkerVita/Helen Keller|Helen Keller]]** — Völkerrechtlerin, Professorin an der Uni Zürich, neun Jahre Richterin am EGMR
 
 ## I
@@ -179,6 +185,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Liya Yu|Liya Yu]]** — Politikwissenschaftlerin, neuropolitische Philosophin; Mitbegründerin Neuropolitik; Mentalisierung statt Moralisierung, Dehumanisierung als kognitive Fähigkeit, In-Group-Erweiterung
 
+**[[DenkerVita/Lucy Brown|Lucy Brown]]** — US-amerikanische Neurowissenschaftlerin (Albert Einstein College of Medicine); fMRT-Forschung zur romantischen Liebe mit Helen Fisher & Arthur Aron; Liebe als mammalisches Antriebs-/Belohnungssystem (ventrales Tegmentum, Nucleus caudatus)
+
 **[[DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]]** — Philosoph, Begründer Sprachphilosophie; Linguistic Turn, "Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen
 
 ## M
@@ -186,6 +194,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Achille Mbembe|Achille Mbembe]]** — Kamerunischer Historiker und Politiktheoretiker; Necropolitics, Postkolonialtheorie, Planetare Ethik; Holberg Prize 2024 für *The Earthly Community*
 
 **[[DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]]** — Deutschsprachiger YouTube-Kommentator für US-Politik; lebt in Buffalo, New York; anti-Trump, faktenorientiert, unabhängig; erklärt Amerika von innen für deutschsprachiges Publikum
+
+**[[DenkerVita/Donatella Marazziti|Donatella Marazziti]]** — Italienische Psychiaterin (Univ. Pisa); Neurobiologie der Liebe, Serotonin & Zwangsstörung; zeigte ~40 % niedrigere Serotonin-Transporter bei frisch Verliebten; Ig-Nobelpreis Chemie 2000
 
 **[[DenkerVita/Marc Felix Serrao|Marc Felix Serrao]]** — Deutsch-brasilianischer Journalist; Chefredakteur NZZ Deutschland; Konservativ-liberales Korrektiv zum deutschen Mainstream
 
@@ -252,6 +262,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## S
 
 **[[DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
+
+**[[DenkerVita/Semir Zeki|Semir Zeki]]** — Neurobiologe (UCL), Begründer der Neuroästhetik; funktionelle Spezialisierung des visuellen Kortex (Farbe in V4, Bewegung in V5), neuronale Basis von Schönheit und Liebe; mit Andreas Bartels Autor der ersten fMRT-Studien zu romantischer und mütterlicher Liebe
 
 **[[DenkerVita/Shi Heng Yi|Shi Heng Yi]]** — Shaolin-Meister (bürgerlich Tien Sy Vuong), Gründer Shaolin Tempel Europe; Auflösung der Identität, Peripherie vs. Essenz, der Finger der auf den Mond zeigt, Selbstführung statt Guru; öffentlicher Bruch mit seinem missbrauchenden früheren Abt
 

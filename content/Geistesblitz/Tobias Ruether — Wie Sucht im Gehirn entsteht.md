@@ -214,6 +214,10 @@ Fromms Haben-Modus — sich durch Konsum zu *füllen*, weil das Sein nicht träg
 
 Böhmes prädiktives Gehirn erklärt, warum Rüthers „trügerisches Gedächtnis" funktioniert: Das System rechnet mit Erwartungen, nicht mit der bitteren Bilanz des Crashs — und beide enden bei der bewussten Handlungsfähigkeit gegen die eigene Prognosemaschine.
 
+### → [[Die Neurobiologie der Liebe]]
+
+Die helle Schwester: Verliebtsein aktiviert dasselbe Belohnungssystem (VTA, Nucleus caudatus), das Rüther bei der Sucht beschreibt — nur ist die Quelle ein Mensch, nicht ein Molekül. Liebeskummer zeigt sich im fMRT als Entzug mit Craving-Signatur; der Unterschied ist, dass die Liebe sich in Bindung wandeln kann, statt in Toleranz zu eskalieren.
+
 ---
 
 ## Weiterdenken
