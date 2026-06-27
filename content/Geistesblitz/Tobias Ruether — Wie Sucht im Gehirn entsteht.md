@@ -83,6 +83,17 @@ Trauma, Überforderung, eine toxische Beziehung — irgendetwas war vor der Such
 > [!question] Weitergedacht
 > Wenn hinter der Sucht fast immer ein Schmerz steht — *behandeln wir Süchtige falsch, solange wir den Stoff bekämpfen statt den Grund?*
 
+### Die zwei Richtungen — wenn Seele und Sucht sich nähren
+
+[▶ 50:53](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=3053) Rüther vertieft das „Problem dahinter" zu einem Teufelskreis, der in beide Richtungen läuft. Erstens: Menschen mit psychischen Erkrankungen — Depression, Angst, Trauma, Psychose — greifen zum Suchtmittel als *Selbstmedikation*. Wer Stimmen hört oder sich verfolgt fühlt, dem geht es mit Alkohol oder Nikotin kurz besser. Zweitens, und das ist das Fatale: Die Substanzen lösen selbst Depressionen und Psychosen aus. So entsteht eine Verschränkung, die Rüther nüchtern beziffert — ein Drittel seiner psychiatrischen Patienten sind Suchtkranke, und fast jeder zweite davon trägt noch eine weitere Störung ([▶ 51:38](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=3098)).
+
+Hinter dem Stoff liegt oft eine jahrelang unbehandelte Krankheit: „Dieser arme Mensch hat immer trinken müssen, weil er so schlecht drauf war, weil er sonst gar nicht leben konnte." Und dann der entscheidende Satz für jede Therapie ([▶ 52:24](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=3144)):
+
+> *„Du musst den Alkohol erst entziehen, weil Alkohol ist stärker als jeder Therapeut."*
+
+> [!note] Eigene Einschätzung
+> Das ist die klinische Form dessen, worüber wir bei Scham und Sexualität gesprochen haben. Wer seine Identität nie ausdrücken durfte, wer unter einem alten Schmerz lebt, findet im Stoff zuerst Erleichterung — und dann eine zweite Krankheit obendrauf. Rüthers Reihenfolge ist darum kein Dogma, sondern Mitgefühl mit Methode: Erst muss das Betäubungsmittel weg, damit der Mensch *darunter* überhaupt sichtbar — und behandelbar — wird. Die Depression kann man heilen. Nur eben nicht trinkend.
+
 ### Legal oder illegal — eine Konvention, die das Gehirn nicht kennt
 
 [▶ 9:04](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=544) Eine von Rüthers schärfsten Pointen: „Unser Gehirn weiß nicht, ob die Droge legal oder illegal ist. Es ist eine reine Konvention." Die Suchtmedizin bewertet jede Substanz nüchtern nach vier Achsen — dem Vergnügen (Pleasure), der körperlichen Abhängigkeit, der psychischen Abhängigkeit und den sozialen Folgen — und nicht danach, ob der Gesetzgeber sie erlaubt.
@@ -95,9 +106,20 @@ Trauma, Überforderung, eine toxische Beziehung — irgendetwas war vor der Such
 
 [▶ 25:02](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=1502) Werden Rezeptoren blockiert, wächst das Gehirn mit der Substanz als festem Bestandteil — „Sie bauen die Substanz in den Bau des Gehirns ein, und das ist dann ein Leben lang." Seine Metapher ist die Allergie: Wer zwischen 12 und 19 regelmäßig geraucht hat, wird die Anfälligkeit nie wieder los; wer erst nach 25 anfängt, kann „mit einfachem Willensentscheid" wieder aufhören. Dasselbe gilt für Cannabis, das in der Reifung das *amotivationale Syndrom* prägen kann — den Verlust der Fähigkeit, sich für etwas Schönes anzustrengen ([▶ 26:33](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=1593)). Deshalb ist für Rüther beim Cannabisgesetz nicht das Ob, sondern der Jugendschutz das A und O.
 
+### Eingebaut in die Gesellschaft — und der Mut, nicht mitzumachen
+
+[▶ 70:36](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=4236) Eine der unbequemsten Stellen des Gesprächs: Sucht ist nicht nur im Gehirn verankert, sondern im sozialen Gewebe. Rüther fragt: „Wer von uns hat den ersten sexuellen Kontakt ohne Alkohol gehabt?" In unserer Kultur ist die Substanz in die Schwellenmomente des Lebens eingebaut — Kennenlernen, Feiern, Anstoßen. Wer *nicht* mitmacht, wird zum Problem. Er erzählt von einem Freund, der nie Alkohol trank und sich „den ganzen Abend verteidigen" muss, der mit seiner Apfelschorle dasteht „fast wie ein Aussätziger" ([▶ 71:21](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=4281)). Das Stigma trifft also beide: den Süchtigen *und* den Abstinenten.
+
+[▶ 69:50](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=4190) Bemerkenswert ist Rüthers eigener Umgang mit dem Wissen. Er nähme „keine Nase Koks — weil ich Angst habe, dass mir das gefällt", und weil er die Depression danach kennt. Sein Respekt wächst nicht aus Moral, sondern aus Einsicht: „Je mehr wir wissen, wie toll dieses Gehirn funktioniert, will ich es nicht kaputt machen mit irgendwelchem Zeug."
+
+> [!note] Eigene Einschätzung
+> Das ist die Stelle, an der das Wissen selbst zur sanften Schutzmacht wird — kein Verbot von außen, sondern ein Respekt von innen. Und es adelt eine Haltung, die sonst belächelt wird: bewusst nicht zu konsumieren ist in dieser Gesellschaft eine kleine, tägliche Tapferkeit. Rüther nimmt dem Nicht-Trinken das Defensive und gibt ihm Würde — wer nein sagt, verteidigt nicht eine Schwäche, sondern bewahrt ein faszinierendes Organ.
+
 ### Motivation statt Abschreckung — und das Ende eines Stigmas
 
 [▶ 14:25](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=865) Die moderne Suchtmedizin, sagt Rüther, ist „völlig davon abgekommen, die Leute zu erschrecken". Drohbilder auf Zigarettenschachteln wirken nicht bei dem, der morgens im Entzug die Packung greift. Stattdessen arbeitet die Therapie mit *Ambivalenz* ([▶ 16:42](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=1002)): Man kitzelt heraus, dass das Suchtmittel positiv erlebt *und* zerstörerisch ist — und aus dieser Unaushaltbarkeit wächst der Wunsch aufzuhören. „Motivation ist unser Job", sagt er seinen Assistenten; sie ist nichts Starres, sondern etwas, das man wecken kann.
+
+Dieselbe Haltung prägt den körperlichen Entzug. [▶ 54:41](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=3281) Früher galt die Doktrin der Gosse: Der Süchtige müsse leiden, schwitzen, Schlimmes erleben, damit er nie wieder trinke. Rüther hat das verworfen — „absoluter Käse, hat sich nicht erwiesen". In seiner Abteilung gibt es nur *warme Entzüge*: „Ich möchte nicht, dass mein Patient leidet." Der Grund ist nicht nur Güte, sondern Evidenz — wer einen sanften Entzug erlebt, traut sich den nächsten Versuch eher zu. Leiden lehrt hier nichts; es schreckt nur vom Wiederkommen ab.
 
 [▶ 59:13](https://www.youtube.com/watch?v=F6ibiIz-GuI&t=3553) Dahinter steht ein moralischer Befund. Beim Diabetiker, der wieder Kuchen isst, fragt niemand nach Schuld — er bekommt seine Therapie. Beim Rückfall des Alkoholkranken aber heißt es: selbst schuld. Für Rüther ist das eine Diskriminierung kranker Menschen. Der Rückfall gehört zur Erkrankung; manche brauchen zwei, drei Anläufe. Sein Optimismus ist kein Pathos, sondern Erfahrung: „Wir kriegen das hin."
 
