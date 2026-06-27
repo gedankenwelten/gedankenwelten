@@ -286,6 +286,10 @@ Mausfeld analysiert, wie Meinungsmacht unsichtbar wirkt. Spitzer: Der Marktkapit
 
 Spitzers "Lernturbo" (Dopamin geht an, wenn Realität die Erwartung übertrifft) und Schultz' Reward Prediction Error (RPE) sind dasselbe Prinzip — nur beschreibt Schultz den Mechanismus präziser: Es ist nicht Freude, sondern die *Abweichung* von der Erwartung, die Dopamin triggert. Olds & Milner (1954) tauchen in beiden Notes auf als Ausgangspunkt — Schultz hat diesen Fund 30 Jahre später quantitativ ausgearbeitet.
 
+### → [[Tobias Ruether — Wie Sucht im Gehirn entsteht]]
+
+Spitzers „hedonische Tretmühle" trifft bei Rüther die klinische Realität der Sucht: Wenn das Außergewöhnliche zum neuen Nullpunkt wird, verblasst das Gewöhnliche — Spitzer beschreibt den Lernmechanismus, Rüther die Patienten, bei denen er gekapert ist und das ganze Leben „unwichtig" werden lässt.
+
 ---
 
 ## Weiterführend

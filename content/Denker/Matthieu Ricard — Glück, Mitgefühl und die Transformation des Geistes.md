@@ -461,6 +461,7 @@ Wir haben beachtliche Fortschritte bei den Menschenrechten erzielt. Das menschli
 - [[Erich Fromm — Menschliches Wachstum]] — Fromms Unterscheidung zwischen destruktivem Konsum und lebendigem Wachstum ist Ricards Meditation vs. Anhaftung in säkularer Sprache
 - [[David Chalmers — Das Hard Problem des Bewusstseins]] — Chalmers fragt, warum es subjektives Erleben überhaupt *gibt*; Ricard fragt, *wer* eigentlich erlebt — und antwortet: niemand, es ist Prozess. Die buddhistische Antwort löst das Hard Problem nicht, aber reformuliert es radikal.
 - [[Walther Ziegler — Buddha in 60 Minuten]] — Ziegler präsentiert die philosophische Lehre, die Ricard als Lebensform praktiziert: Buddhas Vier Edle Wahrheiten, Nirvana als Verlöschen des Ichbewusstseins. Ricard liefert den neurowissenschaftlichen Beweis, dass Buddhas Versprechen messbar einlösbar ist
+- [[Tobias Ruether — Wie Sucht im Gehirn entsteht]] — Die positive Umkehrung von Rüthers Suchtbild: Sein Nummer-1-Tipp „sich an kleinen Dingen freuen" ist Ricards trainierbare Glücksfähigkeit. Wo die Droge den Faktor 1000 jagt und das Gewöhnliche entwertet, ist Ricards Weg das Wiedererlernen von Faktor 2 — die kleine Freude als Gegenteil der Sucht
 
 **Panorama-Synthese:**
 - [[Autoritaerer Internationalismus]] — Ricards Warnung (*„ein achtsamer Söldner tötet alle"*) als Korrektiv: Achtsamkeit ohne ethische Ausrichtung ist keine Lösung. Aber: trainierbares Mitgefühl (Davidson-Studie) zeigt, dass die durch Eliteerziehung zerstörte Empathie wiederherstellbar ist

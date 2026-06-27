@@ -210,6 +210,10 @@ Paschke (DZSKJ Hamburg) beschreibt im re:publica 26-Panel genau den Mechanismus,
 ### → [[Erich Fromm — Menschliches Wachstum]]
 Fromms „hedonische Tretmühle" (Konsum macht kurzfristig glücklich, eskaliert aber den Bedarf) ist bei Schultz neurobiologisch begründet: Positiver RPE erhöht den Erwartungswert — beim nächsten Mal braucht es mehr Überraschung für dieselbe Dopaminantwort. Fromms Diagnose des Konsumismus als evolutionärer Kurzschluss und Schultz' Analyse der Sucht als Überstimulation jenseits evolutionärer Kapazität beschreiben denselben Mechanismus aus philosophischer und neurobiologischer Perspektive.
 
+### → [[Tobias Ruether — Wie Sucht im Gehirn entsteht]]
+
+Die klinische Schwester-Note. Was Schultz als Reward Prediction Error misst, behandelt Rüther am Krankenbett: Seine „Faktor 2 vs. Faktor 1000"-Bilanz und die Toleranzspirale sind Schultz' Eskalationslogik in gelebter Form — der Suchtmediziner zeigt, was passiert, wenn die unphysiologische Dopaminflut die Referenzachse dauerhaft verschiebt und das Gewöhnliche bedeutungslos wird.
+
 ---
 
 ## Weiterdenken

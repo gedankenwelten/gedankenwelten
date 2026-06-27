@@ -249,6 +249,10 @@ Hüther beschreibt, wie frühe Lösungen (Kontrolle, Leistung, Anpassung) sich i
 
 Hochschild zeigt die politische Trajektorie von Scham, die nicht bearbeitet wird: Das Stolz-Paradox (Individualismus → Selbstbeschuldigung) internalisiert Verluste als Scham — und Trump als Scham-Bergmann bietet die Externalisierung an, die Brählers Selbstmitgefühls-Arbeit auf anderem Weg leisten würde. Brählers Gabelung zwischen Scham als Niederzwingen und Scham als Einladung zur Fürsorge hat hier eine gesellschaftliche Entsprechung: Populismus ist die kollektive Variante des Niederzwingens.
 
+### → [[Tobias Ruether — Wie Sucht im Gehirn entsteht]]
+
+Brähler liefert die psychotherapeutische Form von Rüthers „motivieren statt drohen". Scham treibt nicht zur Besserung, sie zementiert Rückfall und Verheimlichung — was Rüther als Stigma des Suchtkranken beschreibt, ist bei Brähler die toxische Scham, deren einziges Gegengift Selbstmitgefühl ist, nicht Drohung.
+
 ---
 
 ## Weiterdenken
