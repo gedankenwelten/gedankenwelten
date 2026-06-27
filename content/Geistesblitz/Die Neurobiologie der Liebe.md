@@ -37,6 +37,8 @@ aliases:
 > **[[DenkerVita/Helen Fisher|Helen Fisher]]** · **[[DenkerVita/Arthur Aron|Arthur Aron]]** · **[[DenkerVita/Lucy Brown|Lucy Brown]]** · **[[DenkerVita/Semir Zeki|Semir Zeki]]** · **[[DenkerVita/Andreas Bartels|Andreas Bartels]]** · **[[DenkerVita/Donatella Marazziti|Donatella Marazziti]]**
 >
 > Helle Schwester-Note zu [[Tobias Ruether — Wie Sucht im Gehirn entsteht]] und [[Wolfram Schultz — Dopamin mehr als ein Glueckshormon]]: dasselbe System, andere Quelle.
+>
+> Diese Note legt bewusst *eine* Ebene frei — die neurobiologische, wie unser Gehirn die Liebe verarbeitet —, um den Vergleich zu [[Tobias Ruether — Wie Sucht im Gehirn entsteht|„Sucht im Gehirn"]] sichtbar zu machen. Sie baut ein Vergleichsmodell, kein Urteil über die Liebe selbst. Denn das Spektrum der Liebe ist weiter: Sie hat eine wissenschaftliche, eine romantische und eine spirituelle Ebene, und sie widersprechen einander nicht. Wie eine einzelne Gitarrensaite: Schon *ein* angeschlagener Ton ist in Wahrheit ein Bündel sich überlagernder Schwingungen — Grundton und Obertöne zugleich —, und erst alle zusammen ergeben den wirklichen Klang. Diese Note hört einer dieser Schwingungen nach; die anderen klingen weiter mit.
 
 ---
 
