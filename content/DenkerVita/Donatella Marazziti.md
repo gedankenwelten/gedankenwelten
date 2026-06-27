@@ -5,6 +5,16 @@ tags: [denker-vita, psychiatrie, neurowissenschaft, serotonin, liebe, italien]
 
 # Donatella Marazziti — DenkerVita
 
+![[assets/Donatella-Marazziti-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico** — metaphysische Malerei: lange italienische Arkaden und tiefe Schlagschatten unter einem grünlich getönten Zwielichthimmel, unheimliche Stille. Auf der leeren Piazza steht ein einzelnes rätselhaftes Standbild — ein Serotonin-Molekül als klassische Skulptur auf einem Sockel, das einen langen, einsamen Schatten wirft. de Chirico, weil seine obsessive Stille Marazzitis Befund fasst — die Liebe als zwanghafter Zustand, das Molekül als Enigma.
+
+*Prompt:* Wide banner in the style of Giorgio de Chirico's metaphysical painting — long Italian arcades and deep raking shadows under a green-tinged twilight sky, eerie stillness. In the empty piazza stands a single oversized enigmatic object: a serotonin molecule rendered as a classical statue on a pedestal, casting a long lonely shadow. Melancholic, uncanny, obsessive repetition. Smooth matte paint, no photorealism, no faces.
+
+</details>
+
 ## Biographischer Snapshot
 > [!info] Wer spricht?
 > **Donatella Marazziti** (*1956, Baschi/Terni, Italien*) — Psychiaterin und Professorin für Psychiatrie an der Universität Pisa, eine der ersten, die die frühe Verliebtheit biochemisch vermessen hat.
