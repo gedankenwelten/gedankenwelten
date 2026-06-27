@@ -5,6 +5,16 @@ tags: [denker-vita, psychologie, sozialpsychologie, liebe, usa]
 
 # Arthur Aron — DenkerVita
 
+![[assets/Arthur-Aron-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Sonia Delaunay** — Orphismus: rhythmische, überlappende konzentrische Farbkreise in kräftigem Rot, Kobalt, Gelb und Grün. Zwei große Scheiben links und rechts schieben sich zur Mitte ineinander, ihr Schnitt leuchtet als neue Farbe — zwei Selbste, die zu einem werden (*inclusion of the other in the self*); in der grünen Linse ein Fragezeichen aus Regenbogenpunkten, die „36 Fragen". Delaunay, weil ihre kreisende Geometrie Arons Self-Expansion *zeigt*, ohne sie zu erklären.
+
+*Prompt:* Wide banner in the style of Sonia Delaunay / Orphism — rhythmic overlapping concentric circles in vivid contrasting color, bold arcs of red, cobalt, yellow and green. Two large discs on left and right overlap toward the center, their intersection glowing a new blended color — two selves expanding into one. In the center, small dots arranged in a gentle question-mark curve. Dynamic, joyful, abstract, geometric. Flat saturated color, no photorealism, no faces.
+
+</details>
+
 ## Biographischer Snapshot
 > [!info] Wer spricht?
 > **Arthur Aron** (*geb. 2. Juli 1945*) — US-amerikanischer Sozialpsychologe, Forschungsprofessor an der Stony Brook University (State University of New York).
