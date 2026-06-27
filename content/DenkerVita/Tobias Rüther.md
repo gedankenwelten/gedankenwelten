@@ -5,6 +5,16 @@ tags: [denker-vita, sucht, psychologie, neurowissenschaft, medizin, deutschland]
 
 # Tobias Rüther — DenkerVita
 
+![[assets/Tobias-Ruether-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — humane, sozialrealistische Linienführung in warmem Ocker und gedämpftem Türkis. Ein Arzt im Kittel beugt sich zu einer sitzenden Gestalt und reicht ihr die offene Hand — die Geste der Motivation, nicht der Warnung; dahinter ein Gehirn, eingeschrieben das Wort „Würde". Shahn, weil seine Hand das Mitgefühl ohne Pathos zeichnet — genau Rüthers Haltung: zuwenden statt drohen.
+
+*Prompt:* Wide banner in the style of Ben Shahn — humane social-realist linework, spare angular figures, warm ochre and muted teal ground with fine scratchy ink lines. A tall faceless figure in a doctor's coat leans gently toward a smaller seated figure, one hand offered, not pointing — the gesture of motivation, not warning. Behind them a simple line-drawn brain. The hand-lettered word "Würde" woven into the background. Flat warm palette, expressive economical lines, no photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
