@@ -5,6 +5,16 @@ tags: [denker-vita, neurowissenschaft, neuroimaging, liebe, usa]
 
 # Lucy Brown — DenkerVita
 
+![[assets/Lucy-Brown-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Santiago Ramón y Cajal** — neuroanatomische Tuschezeichnung in feinem Sepia und Schwarz auf gealtertem Elfenbeinpapier, wissenschaftlich und schön zugleich. Ein Wald verzweigter Neuronen, im Zentrum golden leuchtend der Nucleus caudatus und das ventrale Tegmentum, beschriftet, mit der handschriftlichen Legende eines alten Atlasblatts. Cajals Hand ehrt die Neuroimaging-Forscherin — das Belohnungssystem als kunstvolle wissenschaftliche Illustration, präzise und ergreifend.
+
+*Prompt:* Wide banner in the style of Santiago Ramón y Cajal's neuroanatomical ink drawings — exquisite fine sepia and black ink on aged ivory paper, scientific yet beautiful. Delicate branching neurons spread across the width like a forest of dendrites; at the center a cluster marking the caudate nucleus and ventral tegmental area, glowing faintly gold. Handwritten-style annotation marks and arrows. Precise, elegant, hand-drawn scientific illustration, no photorealism, no faces.
+
+</details>
+
 ## Biographischer Snapshot
 > [!info] Wer spricht?
 > **Lucy L. Brown** — US-amerikanische Neurowissenschaftlerin, Clinical Professor für Neurologie am Albert Einstein College of Medicine in New York und eine der Begründerinnen der Neurowissenschaft der romantischen Liebe.
