@@ -5,6 +5,16 @@ tags: [denker-vita, neurowissenschaft, neuroimaging, liebe, deutschland]
 
 # Andreas Bartels — DenkerVita
 
+![[assets/Andreas-Bartels-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Bridget Riley** — Op-Art: ein präzises, hypnotisches Muster aus geschwungenen Schwarz-Weiß-Wellen, die zu fließen scheinen, mit Bändern, die ins kühle Blau und warme Amber übergehen. Die Wellung erzeugt eine Bewegungsillusion im stillen Bild — Wahrnehmung, die Bewegung konstruiert. Riley, weil ihre Hand genau das *tut*, was Bartels erforscht: Sehen als aktive Konstruktion, nicht als passive Aufnahme.
+
+*Prompt:* Wide banner in the style of Bridget Riley Op Art — precise hypnotic optical pattern of curving black-and-white waves that seem to ripple and move, bands shifting into cool blue and warm amber across the width. The undulation creates an illusion of motion within the static image — perception constructing movement. Clean, crisp, geometric, vertigo-inducing rhythm. No photorealism, no faces.
+
+</details>
+
 ## Biographischer Snapshot
 > [!info] Wer spricht?
 > **Andreas Bartels** — Neurowissenschaftler an der Universität Tübingen, Leiter des *Vision and Cognition Lab* am Werner Reichardt Centre for Integrative Neuroscience (CIN).
