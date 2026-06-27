@@ -19,6 +19,16 @@ aliases:
 
 # Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht
 
+![[assets/Die-Neurobiologie-der-Liebe-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Marc Chagall** — schwebende Liebende über einem Dorf aus Dächern, Ultramarin und tiefes Karmin, ein leuchtender Mond, ein roter Vogel. Zwischen ihren zwei glühenden Herzen läuft ein goldener Faden, der sich nach rechts hinab in einen einzigen blühenden Baum verwurzelt — der Rausch, der sich in Bindung verwandelt. Chagall, weil nur seine Hand die Liebe *schweben* lässt und das Übersinnliche zärtlich statt kitschig macht.
+
+*Prompt:* Wide 1200x500 banner in the style of Marc Chagall — dreamlike floating composition, luminous ultramarine blue and deep crimson, a soft glowing moon. Two faceless lovers drift weightless above a small village of rooftops, bodies entwined, trailing a ribbon of golden light that loops between their two glowing hearts. From the hearts the golden ribbon branches into delicate root-like tendrils reaching down to earth, becoming a flowering tree — rapture turning into lasting bond. A small red bird, scattered stars. Poetic, tender, slightly surreal. Oil-painting texture, no photorealism, no realistic faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > Wenn man einen geliebten Menschen ansieht, feuert im Gehirn dasselbe dopaminerge Belohnungssystem, das Kokain überflutet — das zeigen die fMRT-Studien von Bartels & Zeki und der Gruppe um Helen Fisher übereinstimmend. Verliebtsein ist neurochemisch keine Emotion, sondern ein *Trieb*, näher an Hunger und Sucht als an einem Gefühl. Diese Note geht tief in die Studien — und zeigt, wo die Liebe der Droge gleicht (Obsession, Enthemmung, Entzug bei Verlust) und wo sie ihr radikal überlegen ist: Sie ist an einen Menschen gebunden, erneuerbar, und sie wandelt sich in Bindung, statt sich in Toleranz zu verzehren.
 
