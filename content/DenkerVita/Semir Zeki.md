@@ -5,6 +5,16 @@ tags: [denker-vita, neurowissenschaft, neuroaesthetik, liebe, grossbritannien]
 
 # Semir Zeki — DenkerVita
 
+![[assets/Semir-Zeki-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Wassily Kandinsky** — abstrakte Komposition des „inneren Klangs": konzentrische Farbkreise, schwebende Dreiecke, rhythmische Linien und musikalische Punkte in kräftigem Blau, Magenta, Gelb und Schwarz. Das Zentrum strahlt wie ein visueller Kortex, der Wahrnehmung in Musik verwandelt; Farbfelder fächern auf, als male das Gehirn die Schönheit selbst. Kandinsky ist die natürliche Hand für den Begründer der Neuroästhetik — Farbe, Form und Musik als Werk des Gehirns.
+
+*Prompt:* Wide banner in the style of Wassily Kandinsky — abstract "inner sound" composition, concentric color circles, floating triangles, rhythmic lines and musical dots in vivid blue, magenta, yellow and black. The center radiates like a visual cortex turning perception into music; color fields fan out as if the brain itself were painting beauty. Vibrant, lyrical, balanced chaos. Flat painted texture, no photorealism, no faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
