@@ -5,6 +5,16 @@ tags: [denker-vita, neurowissenschaft, psychologie, anthropologie, liebe, usa]
 
 # Helen Fisher — DenkerVita
 
+![[assets/Helen-Fisher-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hilma af Klint** — esoterisches Diagramm-Gemälde in zarten Pastellen auf warmem Cremegrund. Drei leuchtende Orbs — eine Flamme (Lust), eine Spirale, ein strahlender Stern (Anziehung) — und verschlungene Ringe (Bindung); zwei einander zugewandte Schwäne bilden ein Herz aus Negativraum, umrankt von botanischer Symmetrie. af Klint, weil nur ihre Hand Fishers Drei-Systeme-Kartierung der Liebe als *heiliges Schaubild* fasst — systematisch und mystisch zugleich.
+
+*Prompt:* Wide banner in the style of Hilma af Klint — esoteric diagram painting, soft pastels of rose, pale gold, powder blue and sage on warm cream. A central spiral diagram with three luminous orbs marked by symbol not word — a flame, a radiant star, two interlocking rings — joined by fine geometric lines and botanical tendrils. Two abstract swans curve toward each other forming a heart of negative space. Mystical, systematic, serene — the architecture of love as a sacred chart. Flat matte paint, no photorealism, no faces.
+
+</details>
+
 ## Biographischer Snapshot
 > [!info] Wer spricht?
 > **Helen Fisher** (*1945–2024*) — US-amerikanische biologische Anthropologin und die wohl einflussreichste Erforscherin der Neurobiologie der romantischen Liebe; sie wies als eine der Ersten nach, dass Verliebtsein eine *Schaltung* im Gehirn hat.
