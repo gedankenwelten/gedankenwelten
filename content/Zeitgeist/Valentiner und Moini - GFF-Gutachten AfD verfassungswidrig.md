@@ -140,6 +140,29 @@ Die zivilgesellschaftliche Dimension liegt für die GFF ohnehin woanders als bei
 
 ---
 
+## Transparenz — Wer ist die GFF, und wer finanziert sie?
+
+Ein Gutachten ist nur so glaubwürdig wie der Absender. Darum offen, beide Seiten.
+
+**Was sie ist.** Die Gesellschaft für Freiheitsrechte wurde am **14. September 2015** in Berlin gegründet — von **Ulf Buermeyer** (damals Richter am Landgericht Berlin, Vorstandsvorsitzender bis Frühjahr 2025) und **Malte Spitz** (Bürgerrechtler, Grünen-nah, Generalsekretär), nach dem Vorbild der amerikanischen ACLU. Ihr Werkzeug ist die *strategische Prozessführung*: ausgewählte Grundrechtsklagen bis vor das Bundesverfassungsgericht (über 45 Verfassungsbeschwerden). Bekannteste Erfolge: die BND-Auslandsüberwachung 2020 für verfassungswidrig erklärt, Verfahren gegen Staatstrojaner, Bestandsdatenauskunft, automatisiertes Data-Mining (Palantir/Hessendata) und zahllose Transparenzklagen (mit Frag den Staat). Heutiger Vorstand u. a. Nora Markard, Boris Burghardt, John Philipp Thurn, Felix Reda, Leonie Steinl — und Dana-Sophia Valentiner.
+
+**Woher das Geld kommt.** Einnahmen 2023: rund **2,5 Mio. €** (2017 noch ~200.000 €). Bewusst **kein Cent Staatsgeld** — gerade weil die GFF oft gegen den Staat klagt. Drei Säulen:
+
+| Säule | Detail |
+|---|---|
+| **Fördermitgliedschaften** | ~4.500 regelmäßig Zahlende (2023); seit 2019 übertreffen diese Kleinbeiträge die Stiftungsgelder. Fördermitglieder haben **kein Stimmrecht** und keinen Einfluss auf Fallauswahl/Inhalte. |
+| **Einzelspenden** | u. a. das eigene Crowdfunding *für dieses Gutachten* (>1 Mio. €, >20.000 Spender) |
+| **Institutionelle Zuwendungen** | offen gelistete Stiftungen — die größeren: **Luminate** (Omidyar) 550.000 USD (2018–22), **Shuttleworth Foundation** 385.000 USD (2020/21), **Open Society Foundations** (Soros) 40.000 USD/Jahr seit 2018, dazu Bewegungsstiftung, Bertelsmann Stiftung, Mercator, Robert Bosch Stiftung, Zeit-Stiftung, Mozilla, DuckDuckGo, Chaos Computer Club u. a. |
+
+Kontrolliert wird das durch testierte Jahresberichte, die *Initiative Transparente Zivilgesellschaft* und das **Lobbyregister** (seit Feb. 2022; Pflicht, Spenden über 10.000 € *und* über 10 % offenzulegen — keine Einzelperson überschritt das 2018–2024).
+
+**Die Kritik (Yin-Yang).** Von rechts läuft das Narrativ „**Soros-finanzierte grüne NGO**" — Open Society = Soros, Mitgründer Spitz bei den Grünen. Das gehört eingeordnet: Open Society sind 40.000 €/Jahr in einem 2,5-Mio-Budget; der Löwenanteil ist Mitglieder- und heimisches Spendengeld. **Ernster** ist der Unabhängigkeits-Einwand (etwa vom Medienanwalt Carsten Brennecke): Eine Organisation, die offen gegen die AfD steht und ihr Gutachten-Crowdfunding mit erklärten Verbots-Kampagnen-Partnern (Campact, Volksverpetzer) bündelte, liefert ein „ergebnisoffenes" Verdikt — das ist eine legitime Frage, kein bloßer Smear. Die GFF hält dagegen: Spender haben keinen inhaltlichen Einfluss, ausgewertet wurden nur öffentliche Daten, und das **Zweitgutachten** (Möllers/Schönberger) bestätigte die Ergebnisoffenheit. Wo man landet, muss jede Leserin selbst entscheiden — aber sie soll es mit offenen Zahlen tun.
+
+> [!question] Weitergedacht
+> Wenn die juristische Grundlagenarbeit gegen Verfassungsfeinde von einer spendenfinanzierten NGO statt vom Staat geleistet wird — *macht das die Demokratie wehrhafter (weil unabhängig vom politischen Kalkül der Antragsberechtigten) oder verwundbarer (weil angreifbar über die Geldgeber)?*
+
+---
+
 ## Das Urteil landet in einem gefrorenen Feld
 
 Das Gutachten ist da — und die Politik steht still. Im Bundestag gibt es für einen Verbotsantrag keine Mehrheit. Die Regierung ist zerstritten: Die SPD will eine Bund-Länder-Arbeitsgruppe zur Belegsammlung, CDU und CSU bremsen. Kanzler Merz warnt, ein Verfahren rieche nach „politischer Konkurrentenbeseitigung". Innenminister Dobrindt will die AfD „wegregieren" statt „wegverbieten". Nur zwei CDU-Ministerpräsidenten — Wüst und Günther — zeigen sich offen.
@@ -178,6 +201,10 @@ Das Gutachten zwingt niemanden zum Handeln. Aber es nimmt dem Nichthandeln eine 
 - [Frag den Staat — AfD-Datenbank](https://fragdenstaat.de/aktionen/afd-datenbank/) — alle Belege durchsuchbar (nach Person sortierbar)
 - [Correctiv — FAQ: 1.500 Seiten zur Verfassungsfeindlichkeit der AfD](https://correctiv.org/aktuelles/debatte-um-afd-verbot/2026/06/25/afd-verbot-gutachten-faq/)
 - [Berliner Zeitung — Finanzierung und KI-Einsatz werfen Fragen auf](https://www.berliner-zeitung.de/article/gff-gutachten-erklaert-afd-fuer-verfassungswidrig-doch-finanzierung-und-ki-einsatz-werfen-fragen-auf-10133325)
+
+*Transparenz — GFF selbst:*
+- [GFF — Finanzen & Transparenz](https://freiheitsrechte.org/ueber-die-gff/transparente-gff) — vollständige Liste der institutionellen Förderer, Jahresberichte
+- [GFF im Lobbyregister des Bundestags](https://www.lobbyregister.bundestag.de/suche/R001802) · [Wikipedia — GFF (Finanzierung)](https://de.wikipedia.org/wiki/Gesellschaft_f%C3%BCr_Freiheitsrechte#Finanzierung)
 
 ---
 
