@@ -346,6 +346,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Konstantin Flemig
 **Status:** ✓ Vollanalyse → [[DenkerVita/Konstantin Flemig]]
 
+## Leon Black
+**Status:** ✓ Vollanalyse → [[DenkerVita/Leon Black]]
+
 ## Leonhard Dobusch
 **Status:** ✓ Vollanalyse → [[DenkerVita/Leonhard Dobusch]]
 

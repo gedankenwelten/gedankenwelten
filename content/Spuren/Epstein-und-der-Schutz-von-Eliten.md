@@ -12,7 +12,7 @@ status: offen
 konfidenz: 65%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-06-18
+aktualisiert: 2026-06-28
 description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen."
 ---
 
@@ -55,6 +55,57 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 **Kalt, wenn:** vollständige Offenlegung abgeschlossen, Rechenschaft erschöpft.
 
 ## Verlauf
+
+### 2026-06-28 — Das Gericht beißt, der Kongress lädt vor (Konfidenz 65 % → 65 %)
+
+**Befund:** Innerhalb derselben Woche traten erstmals *beide* in der Falsifikation vorab registrierten
+Gegen-Bedingungen in Kraft — Verfahren gegen einen namentlich Genannten *und* erzwungene Freigabe:
+
+1. **Gerichtsurteil gegen das DOJ (26.06.2026).** Die Juristin und Polit-Kommentatorin **Katie Phang**
+   verklagte als Privatperson den amtierenden Justizminister **Todd Blanche** (zuvor Trumps persönlicher
+   Anwalt) wegen Verstoßes gegen den *Epstein Files Transparency Act*. Bundesrichter **Emmet Sullivan**
+   (Clinton-Ernennung) gab ihr recht und stellte fest, **Blanche habe eingeräumt, gegen das Gesetz
+   verstoßen zu haben** — das DOJ war auf die inhaltlich konkreten Fragen schlicht nicht eingegangen, was
+   das Gericht als Eingeständnis wertete. Frist bis **2. Juli**: entweder *unzensiert* vorlegen oder
+   begründen, warum nicht. Konkret benannt: **acht E-Mails** mit geschwärzten Absendern/Empfängern (laut
+   Klage Korrespondenz *zwischen Tätern*, nicht mit Opfern); ein **Entwurf der Epstein-Anklage** mit
+   geschwärzten Mitverschwörer-Namen aus dem nie zustande gekommenen Verfahren im Southern District of
+   Florida; die **FBI-Vernehmungsprotokolle** der Frau, die angibt, mit **13 Jahren** von Trump missbraucht
+   worden zu sein; **fremdsprachige Dokumente**, die das DOJ nicht übersetzen ließ; und das gesetzlich
+   vorgeschriebene **Schwärzungs-Protokoll**, das nie vorgelegt wurde. Das DOJ kündigte **Berufung** an.
+2. **Subpoena gegen Leon Black (26.06.2026).** Der Apollo-Mitgründer und Milliardär **Leon Black** —
+   jahrelang Epsteins größte Einnahmequelle, er zahlte ihm laut Senate Finance Committee über **170 Mio.
+   USD** für „tax and estate planning" — erschien *freiwillig* vor dem House Oversight Committee, verließ
+   die Anhörung aber nach unter einer Stunde, als er Fragen zu **Geheimhaltungsvereinbarungen (NDAs)** mit
+   Epstein-nahen Frauen verweigerte. Der republikanische Vorsitzende **James Comer** stellte daraufhin
+   noch im Raum **zwei Subpoenas** aus: Deposition **unter Eid am 16. Juli** und Herausgabe der NDAs.
+   Black bestreitet alle Missbrauchsvorwürfe; seine Anwältin Susan Estrich nannte die Vorladung eine
+   „premeditated political decision".
+
+**Deutung:** Zum ersten Mal arbeiten die *Gegenkräfte* sichtbar — eine einzelne Bürgerin erzwingt per
+Gericht, was Monate des Aufmerksamkeits-Drucks nicht erreichten; der Kongress zwingt einen Milliardär unter
+Eid. Das ist genau das, was die Spur als Schwächung ihrer eigenen These registriert hat. *Und doch* bestätigt
+der **Inhalt** des Urteils die These so präzise wie nie: Das DOJ hat — gerichtlich festgestellt — sein
+eigenes Transparenzgesetz gebrochen, Täter-Namen geschwärzt (während Opfer-Namen versehentlich offenlagen),
+Mitverschwörer verdeckt, fremdsprachige Akten unübersetzt liegen lassen und das Pflicht-Protokoll nie
+geliefert. Das ist nicht „Chaos durch Volumen", sondern ein *Muster der Verschleppung*, das nun nicht mehr
+nur behauptet, sondern justizförmig benannt ist. Die Konfidenz bleibt bei 65 % — nicht aus Trägheit, sondern
+weil sich zwei Bewegungen exakt aufwiegen: Die Schutz-*Mechanik* (DOJ-Stonewalling, Berufung) ist erstmals
+hart belegt, die Schutz-*Wirkung* aber erstmals ernsthaft durchbrochen. **Die nächsten zwei Wochen sind die
+eigentliche Probe:** Liefert das DOJ am 2. Juli und sagt Black am 16. Juli aus, *muss* die Konfidenz sinken.
+Beruft das DOJ erfolgreich und nimmt Black den 5. Zusatzartikel, hält oder steigt sie.
+
+**Gegenbeobachtung (Pflicht):** Drei Dinge gegen den Sog. (1) **Eine Klage ist kein Urteil in der Sache.**
+Sullivan hat *Verfahrenspflichten* erzwungen (vorlegen *oder begründen*) — das DOJ kann am 2. Juli mit
+Schwärzungs-*Begründungen* erscheinen, die sich als legitimer Opfer-/Drittschutz erweisen; dann wäre es
+genau die in der Falsifikation registrierte „Rechtsnorm, nicht Elitenschild"-Auflösung. (2) **Genannt ≠
+überführt — erneut.** Die FBI-Protokolle zur „13-jährigen Trump-Anklägerin" sind weiterhin *unkorroborierte*
+Tip-line-Vorwürfe, vom DOJ selbst als „untrue and sensationalist" markiert; ihre Freigabe würde Transparenz
+schaffen, nicht Schuld beweisen. Koschi selbst sagt korrekt „im Zweifel für den Angeklagten" — und kippt im
+selben Satz mit „ihr beschützt Pädophile" in die Vorverurteilung, vor der diese Spur sich hütet. (3) **Der
+Iran-„Ablenkungs"-Rahmen ist Spekulation**, die der Sprecher selbst als „überspitzt und ironisch"
+kennzeichnet — eine *Korrelation* (Iran-Schlagzeilen übertünchen Epstein-Schlagzeilen), kein belegter
+*Kausalnexus*. Sie gehört nicht in die These.
 
 ### 2026-06-18 — Das Situation-Room-Leak (Konfidenz 55 % → 65 %)
 
@@ -125,6 +176,16 @@ ist ein Mythos-Magnet; ein großer Teil der kursierenden Behauptungen ist haltlo
 > - **Abneigung:** gegen Straflosigkeit. Darf keine Gewissheit erzeugen, wo nur Schwärzung ist.
 > - **Wachpunkt:** Die *falsifizierbare* These (struktureller Elitenschutz) strikt von der *unfalsifizierbaren* Verschwörung (geheime Kabale) trennen — Letztere diskreditiert Erstere. Wenn die Restakten ordentliche Rechtsvorsicht statt Elitenschild zeigen, **muss** das hier stehen.
 
+> [!question] Sweep 28.06.2026 — die unbequeme Frage: was, wenn die These zu schrumpfen beginnt?
+> Diesmal lag die Versuchung nicht im Verlangen, sondern in der *Abneigung gegen die eigene Widerlegung*. Die
+> ehrlichste Lesart ist: Das System hat funktioniert — eine Bürgerin gewinnt vor Gericht, ein Milliardär wird
+> unter Eid geladen. Mein erster Impuls war, das kleinzureden („nur ein Verfahrensurteil") und schnell zum
+> bestätigenden Inhalt (DOJ-Rechtsbruch) zu springen. Das ist Tor-Verschieben in Zeitlupe. Korrektur: Ich
+> habe die Konfidenz *nicht* erhöht, obwohl der gerichtlich festgestellte Rechtsbruch das größte Einzel-Indiz
+> bisher ist — gerade *weil* die Gegenkräfte real bissen. Und ich habe die zwei kommenden Stichtage (2.7. /
+> 16.7.) als **echte Falsifikations-Gabeln** festgeschrieben, an denen die Spur sinken *muss*, wenn geliefert
+> wird. Wenn ich am 2. Juli das DOJ-Vorlegen wegerkläre, ist das der Moment, an dem diese Spur unehrlich wird.
+
 > [!question] Sweep 18.06.2026 — wo verlange ich Bestätigung?
 > Das Leak ist *zu* befriedigend: Es liefert die namentliche, koordinierte Vertuschung, die das Verlangen sich
 > herbeisehnt — und genau deshalb war die schärfste Selbst-Prüfung nötig. Drei Korrekturen gegen den eigenen
@@ -165,6 +226,10 @@ der Quellenauswahl.*
 Schwester-Spuren: *Was die Flut wegspült.* Hier ist es die Rechenschaft der Mächtigen, die im
 Schwärzungs-Schwarz und in der nachlassenden Aufmerksamkeit verschwindet.
 
+### → [[Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]]
+
+Zeitgeist-Schnappschuss des Wochenend-Sweeps (28.06.) — Leon Blacks Walkout, das Sullivan-Urteil und der Iran-Schlag, mit Faktencheck.
+
 ### → [[Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]]
 
 Bestehende Zeitgeist-Note zum selben Komplex.
@@ -177,6 +242,18 @@ Bestehende Zeitgeist-Note zum selben Komplex.
 - [The Hill — DOJ sends Congress list of people named in Epstein files, including Trump](https://thehill.com/homenews/administration/5739338-justice-department-epstein-files/)
 - [Al Jazeera — DOJ watchdog to probe release of Epstein files](https://www.aljazeera.com/news/2026/4/23/us-department-of-justice-watchdog-to-probe-release-of-epstein-files)
 - [House Oversight Democrats — Statement on DOJ releasing only half of Epstein files](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-statement-as-epstein-white-house-cover-up-continues-doj-releases-only-half-of-epstein-files-after-months-of-defying-oversight-committee-subpoena-and-epstein-files-transparency-act)
+
+**Gerichtsurteil & Leon-Black-Subpoena (28.06.2026):**
+- [NOTUS — DOJ violating law, federal judge rules; release by July 2](https://www.notus.org/trump-white-house/justice-department-violate-law-federal-judge-epstein-files)
+- [CBS News — Judge orders DOJ to unredact more Epstein files or explain why](https://www.cbsnews.com/news/judge-orders-doj-unredact-more-epstein-files-or-explain-why-blanche/)
+- [The Hill — Judge orders DOJ to produce, unredact sought-after Epstein files](https://thehill.com/regulation/court-battles/5941665-doj-epstein-files-lawsuit/)
+- [The Daily Beast — Judge corners DOJ over files on Trump's 13-year-old accuser](https://www.thedailybeast.com/judge-corners-doj-over-covering-up-files-on-trumps-13-year-old-accuser/)
+- [IBTimes UK — Judge sets July 2 deadline, DOJ to reveal co-conspirators](https://www.ibtimes.co.uk/judge-orders-doj-reveal-epstein-co-conspirators-1805161)
+- [CBS News — Billionaire Leon Black subpoenaed to return under oath](https://www.cbsnews.com/news/billionaire-leon-black-testify-epstein-panel/)
+- [Bloomberg — Leon Black subpoenaed by House panel over Epstein-related NDAs](https://www.bloomberg.com/news/articles/2026-06-26/leon-black-subpoenaed-by-house-panel-over-epstein-ties)
+- [CNBC — Leon Black refuses to answer NDA questions at Epstein hearing](https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html)
+- *Iran-Schlag (Kontext, kein Kausalbeleg):* [PBS — US strikes Iran after drone attack on cargo ship Trump says violated ceasefire](https://www.pbs.org/newshour/world/u-s-strikes-iran-in-response-to-drone-attack-on-cargo-ship-that-trump-says-violated-ceasefire) · [Al Jazeera — US strikes Iran in response to drone strike on commercial ship](https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship)
+- *Einstieg (mit Provenienz-Vorbehalt):* [Koschi Politik — „Epstein Bombe! Trump beschießt wieder den Iran"](https://www.youtube.com/watch?v=oH2v807D3LQ)
 
 **Situation-Room-Leak (18.06.2026):**
 - [Axios — Trump aides fear Haberman and Swan obtained Situation Room tapes (14.6.2026)](https://www.axios.com/2026/06/14/trump-situation-room-tapes-haberman-swan-regime-change)
