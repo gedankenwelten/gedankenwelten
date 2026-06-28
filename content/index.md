@@ -24,7 +24,7 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
-> **28.06.** — [[Zeitgeist/Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ|Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]]
+> **28.06.** — [[Zeitgeist/Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ|Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]]
 >
 > Zwei Risse an einem Tag: Ein Gericht erklärt das Schweigen des Justizministers für Gesetzesbruch, ein Milliardär flieht aus der Anhörung — und ein Iran-Schlag schiebt sich davor.
 
