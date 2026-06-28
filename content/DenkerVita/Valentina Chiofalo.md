@@ -7,6 +7,16 @@ tags: [denker-vita, recht, demokratie, deutschland, feminismus, antidiskriminier
 
 # Valentina Chiofalo — DenkerVita
 
+![[assets/Valentina-Chiofalo-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Emma Kunz** — Schweizer Pendel-Geometrie auf Millimeterpapier, radiale Symmetrie, heilende Ordnung aus dem Chaos, feine Bleistift- und Farblinien. Eine Frauen-Pionierin der präzisen Diagramm-Kunst für die Projektleiterin des Gutachtens, die *Muster aus einer Flut* zieht: Die dunkle Schwarm-Flut links (2 Mio. Datenpunkte, täglich menschenfeindliches Material — „*It was a lot*") löst sich nach rechts in eine radiale Ordnung auf (die 33.000 händisch geprüften Belege, kodiert), mit der mandelförmigen Schutz-Mitte für ihr Feld — reproduktive Rechte und Menschenwürde.
+
+*Prompt:* A wide 1200×500 banner in the meticulous pendulum-diagram manner of Emma Kunz — drawn on pale warm graph paper, a fine measured grid covering the whole surface, delicate hand-ruled lines in pencil grey, deep red, muted teal and ochre. On the left third, a dense chaotic swarm of tiny dark irregular marks and fragments scatters across the grid — overwhelming, unordered raw material. Moving rightward, these marks gradually resolve and align into a large symmetrical radial figure: fine straight lines fanning from a central point into a calm geometric star-mandala, order drawn out of the flood. At the exact center sits a small protective almond-shaped form (a mandorla / seed), outlined cleanly and gently luminous, held within concentric rings. A few single threads of warm red run from the chaotic field into the ordered figure, as if carried by hand with care. Everything precise, patient, quiet, healing, hand-measured. No realistic faces, no portrait, no text, no photorealism.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
