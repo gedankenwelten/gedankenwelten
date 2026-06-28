@@ -294,6 +294,7 @@ Jede Note folgt einer eigenen Struktur:
 
 ### KI & Technologie
 
+- [[Zeitgeist/Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter|Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]] — Eine datierte Apokalypse verstreicht — und eine KI-geborene Prophezeiung macht ihr eigenes Ausbleiben zum Beweis. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 - [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]]
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder|re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?]] — Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen.
 
@@ -312,7 +313,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Der Dara — Merz 72-Stunden-Arbeitswoche|Der Dara — Merz plant 72-Stunden-Arbeitswoche]]
 - [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 - [[Zeitgeist/Heinz Bude — Boomer-Soziologie|Heinz Bude — Brauchen wir eine Boomer-Soziologie?]]
-- [[Zeitgeist/Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter|Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]]
 - [[Zeitgeist/Mark Benecke — Umwelt-Messungen Sommer 2026|Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026]]
 - [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren|MONITOR — Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt]]
 - [[Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende: Rolle rückwärts oder wirtschaftlich vernünftig?]]
