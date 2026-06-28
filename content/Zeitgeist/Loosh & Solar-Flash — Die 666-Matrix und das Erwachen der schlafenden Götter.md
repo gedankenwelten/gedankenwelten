@@ -248,7 +248,7 @@ Das Bemerkenswerteste aber steht schon im [Video *vom Vorabend*](https://www.you
 
 ### Die Anatomie der Quelle: zwei Hände, eine Fusion
 
-Wer ist „Ouroboros"? Die Spurensuche zweier deutschsprachiger Beobachter ([Felsenecht](https://www.youtube.com/watch?v=J9CjwhatfMU), [OnkelRyo](https://www.youtube.com/watch?v=wmoXtvo-0u0)) und ein Blick in die Originalquellen zeichnen ein Bild, das überraschender ist als „ein anonymer Kanal".
+Wer ist „Ouroboros"? Zwei deutschsprachige Beobachter sind der Frage nachgegangen — [Felsenecht](https://www.youtube.com/watch?v=J9CjwhatfMU) zuerst, in einem auffallend fairen Video, das sich ausdrücklich weigert, die Suchenden lächerlich zu machen (*„Mir geht es nicht darum, Menschen lächerlich zu machen; ich glaube eher, dass viele selbst überzeugt sind von dem, was sie verbreiten"*), und [OnkelRyo](https://www.youtube.com/watch?v=wmoXtvo-0u0), der es weitertrug. Zusammen mit einem Blick in die Originalquellen zeichnen sie ein Bild, das überraschender ist als „ein anonymer Kanal" — und das zeigt nebenbei, dass die Szene sich auch von innen prüft, manche mit Anstand.
 
 Das physikalische Fundament — „V-Logik", das „Universum-Herz", die Leugnung des Urknalls — stammt von einem benannten Mann: **Sascha Zimmermann**, der unter dem Alias *„DJ Trapstar"* auftritt. In seinem eigenen Buch und in einem öffentlichen [Instagram-Post](https://www.instagram.com/djtrapstar_official) legt er die Entstehung selbst offen: *„Entschlüssler: Sascha (DJ Trapstar) und Gemini (KI)."* Die Kosmologie entstand im Juni 2025 in tagelangen Chat-Gesprächen mit einem großen Sprachmodell — destilliert aus dem Sediment jahrzehntealter Esoterik, das in den Trainingsdaten lag.
 
