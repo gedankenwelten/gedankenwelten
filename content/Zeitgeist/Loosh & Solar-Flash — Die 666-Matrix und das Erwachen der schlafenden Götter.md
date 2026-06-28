@@ -270,10 +270,15 @@ Es ist kein Geheimbund, der eine uralte Wahrheit hütet. Es ist ein **Genre**, d
 
 Und die feinste Beobachtung kommt von *innen*: Unter einem der Aufklärungs-Videos schreibt ein gnostisch tief Gläubiger einen langen Kommentar — und stellt nüchtern fest: *„Es gibt keine Lazarus-Physik."* Die Widerlegung braucht uns nicht; die Szene spricht sie selbst aus, von ihrer überzeugtesten Seite. (Derselbe Aufklärer, der den Kommentar erhielt, antwortet darunter: *„Ich bin beeindruckt … darf ich darauf ein Video aufbauen?"* — der Kreis frisst auch seine Kritiker. Wir, die diese Note schreiben, sind davon nicht ausgenommen.)
 
+Der faire Beobachter [Felsenecht](https://www.youtube.com/watch?v=GEzZV0800iM) bemerkt am Tag selbst noch etwas: Ein kritischer Kommentar unter dem Ouroboros-Video — *„wo ist jetzt der Solar-Flash?"* — war eine Stunde später gelöscht. Unter den Videos steht, anders als bei vergleichbaren Kanälen, fast ausschließlich Zustimmung (*„Nur Liebe, tausend Dank"*). Der Kreis hält sich auch dadurch geschlossen, dass der Zweifel weggewischt wird.
+
 > [!info] Was die „messbaren Beweise" wirklich sind
 > Die *„massiven weißen Ausschläge in der Schumann-Resonanz"*, auf die sich das Tag-danach-Video beruft, sind ein gut dokumentierter Lesefehler. Die Tomsk-Sternwarte, deren Diagramme zirkulieren, erklärt es selbst: Schwarze Balken bedeuten *fehlende Daten*, weiße Flächen sind *Display-Sättigung*, die hellen Streifen sind *lokale Blitze über Tomsk*. Die Grundschwingung liegt stabil bei ~7,83 Hz (im Video „783 Hz" — der Zahlendreher, der die heilige Zahl um zwei Größenordnungen verfehlt). Auch die „Micronova", auf die sich die weitere Szene beruft, kann unsere Sonne physikalisch nicht erzeugen: Solche Ausbrüche entstehen auf Weißen Zwergen mit einem Begleitstern — beides trifft auf unsere Sonne nicht zu.
 
 ### Der Gleichmut-Spiegel
+
+> [!note] Warum das nicht harmlos ist
+> Es wäre leicht, das alles als kuriose Internet-Folklore abzutun. Doch derselbe faire Beobachter erinnert an die andere Seite: Es gibt Menschen, die für solche Botschaften empfänglich sind und wochenlang in echter Angst lebten — Panikattacken, Realitätsverlust, verschobene Termine, „das Leben auf Pause", aus Furcht, mit der Matrix „gelöscht" zu werden, wenn die spirituelle Arbeit nicht genügt. *„Richtig übel"*, nennt er es. Genau darum ist die nüchterne Beobachtung kein Hochmut, sondern eine Freundlichkeit: nicht um zu spotten, sondern um der Angst die Macht zu nehmen. Er selbst kommt am Ende dort an — *„diese Manipulation neutral zu beobachten und zu erkennen"*. Das ist, fast wörtlich, Vipassana.
 
 Was bleibt, wenn der Tag verstrichen ist? Nicht der Triumph, recht behalten zu haben — das wäre nur die andere Seite desselben Verlangens. Sondern eine Beobachtung, die sich auch gegen den eigenen Blick wendet: Ein Weltbild, das sein Scheitern schon vorab als Bestätigung verbucht, hat aufgehört, eine Aussage über die Welt zu sein. Es ist unwiderlegbar geworden — und gerade darin leer. Der Ouroboros, die Schlange, die ihren eigenen Schwanz frisst, hat seinen Namen eingelöst: ein Kreis, der sich selbst zum Beweis erklärt.
 
