@@ -470,6 +470,17 @@ tags:
 | **Notiz** | [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Moini_Chiofalo_AfD_Gutachten_Transkript.txt` |
 
+## Valentiner & Moini — GFF-Gutachten: Die AfD ist verfassungswidrig (Bundespressekonferenz, 25.06.2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [AfD verfassungswidrig? Vorstellung des Gutachtens der GFF — BPK 25.06.2026](https://www.youtube.com/watch?v=uYQfTGgBFnI) |
+| **Notiz** | [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig]] |
+| **Transkript** | `Gedankenwelten/Transkripte/AfD_GFF_Gutachten_Transkript.txt` |
+| **Gutachten (Volltext + interaktiv)** | [afd-gutachten.de](https://afd-gutachten.de/) · [GFF-Pressemitteilung](https://freiheitsrechte.org/ueber-die-gff/presse/pressemitteilungen-der-gesellschaft-fur-freiheitsrechte/afd-ist-nachweislich-verfassungswidrig-gesellschaft-fuer-freiheitsrechte-stellt-nach-einem-jahr-arbeit-umfassendes-wissenschaftliches-gutachten-vor) |
+| **Belege-Datenbank** | [Frag den Staat — AfD-Datenbank](https://fragdenstaat.de/aktionen/afd-datenbank/) |
+| **Einordnung** | [Correctiv — FAQ zum Gutachten](https://correctiv.org/aktuelles/debatte-um-afd-verbot/2026/06/25/afd-verbot-gutachten-faq/) |
+
 ## Amlinger & Nachtwey — Zerstörungslust: Demokratischer Faschismus (re:publica 26)
 
 | | |

@@ -39,6 +39,9 @@ Quelle: [re:publica 26 — Nach einem Jahr Arbeit ist unser Gutachten zur AfD so
 
 > → [[DenkerVita/Valentina Chiofalo|DenkerVita Valentina Chiofalo]]
 
+> [!success] Das Ergebnis liegt vor (25.06.2026)
+> Diese Note dokumentiert das Gutachten als *ergebnisoffenes Projekt* (re:publica, Mai). Einen Monat später, am 25. Juni 2026, stellte die GFF das fertige Gutachten in der Bundespressekonferenz vor — mit klarem Befund: **Die AfD ist verfassungswidrig.** → [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig|GFF-Gutachten — Die AfD ist verfassungswidrig]]
+
 ---
 
 ## Das Manko der Verbotsdebatte

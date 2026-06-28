@@ -552,6 +552,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Ulf Poschardt
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ulf Poschardt]]
 
+## Dana-Sophia Valentiner
+**Status:** ✓ Vollanalyse → [[DenkerVita/Dana-Sophia Valentiner]]
+
 ## Valentina Chiofalo
 **Status:** ✓ Vollanalyse → [[DenkerVita/Valentina Chiofalo]]
 
