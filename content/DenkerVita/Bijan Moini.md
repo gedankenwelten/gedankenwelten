@@ -7,6 +7,16 @@ tags: [denker-vita, rechtsrecht, demokratie, deutschland, grundrechte]
 
 # Bijan Moini — DenkerVita
 
+![[assets/Bijan-Moini-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Aleksandr Rodtschenko** — kühler Konstruktivismus, flache geometrische Flächen, diagonale Dynamik, Schiefergrau/Tiefrot/Schwarz/Knochenweiß. Moini ist der strategische Prozessführer gegen den Überwachungsapparat (BND-Klage, Data-Mining) und Autor des Dystopie-Romans *Der Würfel*: das Bild zeigt den einen aufrechten weißen Strich mit rotem Lot, der dem dunklen Apparat-Raster standhält — das Individuum mit Grundrechten gegen die Maschine. Der offene Würfel unten links ist der leise Nick zu *Der Würfel*.
+
+*Prompt:* A wide 1200×500 banner in the cool Constructivist manner of Aleksandr Rodchenko — flat geometric planes, diagonal dynamic composition, restrained palette of slate grey, deep red, black and bone white on warm paper. From the right, a dense dark grid of identical small squares — an apparatus, a surveillance lattice — presses inward across two thirds of the frame. Against it, slightly left of center, stands one single tall upright bone-white bar, calm and unbent, holding its ground where the grid stops. A thin clean red line runs vertically through the white bar like a plumb line. From the upright bar, a few fine bright lines fan outward against the grey grid, as if a single voice pushing back. Lower left, a small open cube drawn in clean outline floats free of the lattice. Everything precise, weighed, architectural, quietly defiant. No realistic faces, no portrait, no text, no photorealism.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
