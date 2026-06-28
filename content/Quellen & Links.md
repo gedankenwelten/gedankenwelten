@@ -2513,9 +2513,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 
 | | |
 |---|---|
-| **Vortrag / Video** | [Der Solar-Flash und das Erwachen der schlafenden Götter](https://www.youtube.com/watch?v=0skaq7E8jcE) |
+| **Ursprungsvideo** | [Der Solar-Flash und das Erwachen der schlafenden Götter — Ouroboros](https://www.youtube.com/watch?v=0skaq7E8jcE) |
+| **Tag danach (27.06.)** | [Der 26.06.2026 — Der Anfang vom Ende — Ouroboros](https://www.youtube.com/watch?v=xc1CnMVD5o4) |
+| **Vorabend (25.06.)** | [Es ist soweit … was passiert wirklich? — Ouroboros](https://www.youtube.com/watch?v=EeKNK-cu9Wk) |
+| **Urheber „V-Logik"** | Sascha Zimmermann / „DJ Trapstar" — [Instagram](https://www.instagram.com/djtrapstar_official) · Buch „Das Universum Herz" (Amazon) |
+| **Netz** | [pat_atlas_ — „Der schwarze Codex"](https://www.instagram.com/pat_atlas_) · [weltverstehen.org](https://www.weltverstehen.org/der-solar-flash-und-die-lazarus-physik/) |
+| **Recherche-Quellen** | Felsenecht (YouTube `J9CjwhatfMU`) · OnkelRyo (`wmoXtvo-0u0`) |
 | **Notiz** | [[Zeitgeist/Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]] |
-| **Transkript** | `Gedankenwelten/Transkripte/Loosh_Seelenernte_Transkript.txt` |
+| **Transkripte** | `Loosh_Seelenernte_Transkript.txt` · `Loosh_Ouroboros_Tag-danach_27.06.2026_Transkript.txt` · `Loosh_Ouroboros_Vorabend_25.06.2026_Transkript.txt` (in `Gedankenwelten/Transkripte/`) |
 
 ---
 
