@@ -101,6 +101,11 @@ Aus der Ideologie werden Maßnahmen, und die Maßnahmen etablieren Klassen:
 
 Jede dieser Maßnahmen für sich genügt nicht. Erst das *Konzept* — die systematische Aufteilung in Bürger erster und zweiter Klasse — trägt. Und dann legt das Gutachten dieses Konzept neben das, was das Bundesverfassungsgericht 2017 zur Verfassungsfeindlichkeit der NPD angeführt hat. Für praktisch jede rassistisch geprägte Forderung der NPD findet sich bei der AfD eine Entsprechung — oft konkreter, teils weitergehend. Mit dem entscheidenden Unterschied: Die NPD scheiterte 2017 daran, zu klein zu sein, um ihre Ziele je durchzusetzen. Die AfD, bei knapp 30 Prozent, in Sachsen-Anhalt mit Aussicht auf eine Alleinregierung, mit 70.000 Mitgliedern und über 40 Millionen Euro Vermögen, hat dieses Potenzial.
 
+Wer diese „Klassen von Menschen" liest, hört einen alten Klang. Die Sonderklassen für Flüchtlingskinder über die ganze Schullaufbahn sind fast wörtlich die *separate but equal*-Schule, die der US Supreme Court 1954 in *Brown v. Board* kippte; die Familienförderung, die „Mischehen" ausschließt, spiegelt die Anti-Miscegenation-Gesetze (gefallen erst 1967, *Loving v. Virginia*); die Ausbürgerung ist der Wahlrechtsentzug, nur über den Pass statt über den literacy test. Der Unterschied liegt nicht in der Architektur, sondern in der *Sichtbarkeit*: Jim Crow hängte Schilder auf — „Whites Only". Die AfD sortiert über Staatsangehörigkeit, „Integration", „Remigration", nie offen über Herkunft. Das ist dieselbe Bewegung, die die USA selbst nach 1965 vollzogen: weg von der offenen Kaste hin zur getarnten (Michelle Alexanders *The New Jim Crow*). Die Tarnung ist kein Beiwerk — sie ist die Methode, und genau deshalb musste die GFF die *ethnische Realisierung* hinter nominell neutralen Forderungen erst mühsam nachweisen.
+
+> [!question] Weitergedacht
+> Die AfD sortiert Menschen nicht mit Schildern wie „Whites Only", sondern über Pass, „Integration" und „Remigration" — dieselbe Kaste, nur entkoppelt von der offenen Rassensprache. *Wenn die Tarnung selbst zur Methode wird (vgl. The New Jim Crow): Macht das die demokratische Abwehr schwerer oder leichter als gegen das offen sichtbare Unrecht von 1950?*
+
 ---
 
 ## Was das Gutachten nicht mitzählt
@@ -229,6 +234,10 @@ Steinke beschreibt die institutionelle Vorgeschichte des Methodenproblems — da
 ### → [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen]]
 
 MONITOR dokumentiert, dass die Öffentlichkeit den Unterschied zwischen Empörung und Nachweisbarkeit kaum noch wahrnimmt — Skandale prallen ab. Das Gutachten ist der Gegenversuch: das Diffuse in 2.500 gerichtsfeste Belege zu übersetzen. Die offene Frage beider Notes: Erreicht juristische Sorgfalt eine Bewegung, deren Kraft aus der Ablehnung dieser Sorgfalt schöpft?
+
+### → [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
+
+Genau der Mechanismus hinter der „getarnten Kaste": Brockschmidt & Nocun zeigen, wie die extreme Rechte Menschenfeindlichkeit in nominell neutrale Codes übersetzt — „Remigration" statt Vertreibung, pseudowissenschaftlicher Klang statt offener Rassensprache. Das Gutachten ringt juristisch mit exakt dieser Tarnung: Es musste die *ethnische Realisierung* hinter Forderungen nachweisen, die an der Oberfläche von Staatsangehörigkeit und „Integration" sprechen. Dieselbe Bewegung, die die USA von Jim Crows Schildern zum *New Jim Crow* führte — Kaste ohne Kastensprache.
 
 ### → [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
 

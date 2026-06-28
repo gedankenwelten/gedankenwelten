@@ -269,6 +269,10 @@ Kendi analysiert die Great Replacement Theory als ideologisches Fundament des US
 
 Das GFF-Gutachten stößt auf genau das Rechtsproblem, das Brockschmidt/Nocun kommunikationsanalytisch illustrieren: Dog Whistles sind mit plausible deniability ausgestattet — das macht sie politisch wirkungsvoll und juristisch schwer fassbar. Moini selbst fragt im Gespräch, ob Remigration allein als juristische Bedrohung reicht; diese Note zeigt, wie bewusst der Begriff als verschleierter Angriff konstruiert wurde.
 
+### → [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig|Valentiner & Moini — Die AfD ist verfassungswidrig]]
+
+Im fertigen Gutachten (25.06.2026) wird die hier analysierte Tarnung zum juristischen Dreh- und Angelpunkt: Die GFF musste die *ethnische Realisierung* hinter nominell neutralen Forderungen (Staatsangehörigkeit, „Integration", „Remigration") nachweisen. Die dort gezogene Linie — von Jim Crows offenen „Whites Only"-Schildern zum kodierten *New Jim Crow* — ist die historische Tiefenschärfe zu dem Code-Mechanismus, den Brockschmidt & Nocun sezieren: dieselbe Kaste, nur ohne Kastensprache.
+
 ### → [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
 Die CPAC-Note kartiert den institutionellen Rahmen, in dem die hier dekodierten Codes zirkulieren: Heritage Foundation, Bannon-Netzwerk und CPAC-Infrastruktur sind der transatlantische Kanal, über den US-Strategien (Dog Whistles, Southern Strategy, Fashwave) nach Europa transportiert werden. Brockschmidt/Nocun zeigen die Botschaften; die CPAC-Note zeigt den Leitungsweg.
