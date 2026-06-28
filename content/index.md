@@ -44,7 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
 
-> → *4 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -59,8 +59,6 @@ Die Gedankenwelten (luc)
 > **23.06.** — [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
 >
 > Wenn die Maschine alles weiß, was den Menschen dann ausmacht — und warum ein zweifach durchgefallener Student die wichtigste Antwort gibt.
-
-> **21.06.** — [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin: Mehr als ein Glückshormon]]
 
 ### Denker
 
@@ -87,14 +85,6 @@ Die Gedankenwelten (luc)
 > **28.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >
 > Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
-
-> **21.06.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
->
-> Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
-
-> **21.06.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
->
-> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
 ### Panorama
 
