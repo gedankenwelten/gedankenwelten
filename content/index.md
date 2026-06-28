@@ -22,23 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Geistesblitz
-
-> **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
->
-> Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
-
-> **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
->
-> Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
-
-> **23.06.** — [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
->
-> Wenn die Maschine alles weiß, was den Menschen dann ausmacht — und warum ein zweifach durchgefallener Student die wichtigste Antwort gibt.
-
-> **21.06.** — [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin: Mehr als ein Glückshormon]]
-
 ### Zeitgeist
+
+> **28.06.** — [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig|GFF-Gutachten — Die AfD ist verfassungswidrig]]
+>
+> Ein Jahr ergebnisoffen geprüft, dann ein klares Urteil: Die AfD ist verfassungswidrig — getragen von zwei Säulen, von denen jede allein genügt.
 
 > **24.06.** — [[Zeitgeist/Angela Merkel — Trotz allem Hoffnung Europa|Angela Merkel — Trotz allem: Hoffnung Europa?]]
 >
@@ -56,11 +44,23 @@ Die Gedankenwelten (luc)
 >
 > Drohnen über Moskau und St. Petersburg, abgeschnürte Krim, rationiertes Benzin: wie der Mythos der russischen Unbesiegbarkeit in einem einzigen Monat zerfällt.
 
-> **22.06.** — [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]]
->
-> Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter an der ukrainischen Front, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
+> → *3 weitere in* [[Zeitgeist]]
 
-> → *2 weitere in* [[Zeitgeist]]
+### Geistesblitz
+
+> **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
+>
+> Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
+
+> **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
+>
+> Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
+
+> **23.06.** — [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
+>
+> Wenn die Maschine alles weiß, was den Menschen dann ausmacht — und warum ein zweifach durchgefallener Student die wichtigste Antwort gibt.
+
+> **21.06.** — [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin: Mehr als ein Glückshormon]]
 
 ### Denker
 

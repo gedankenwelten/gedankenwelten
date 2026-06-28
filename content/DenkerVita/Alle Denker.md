@@ -302,6 +302,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## V
 
+**[[DenkerVita/Dana-Sophia Valentiner|Dana-Sophia Valentiner]]** — Juristin (Öffentliches Recht, HSU Hamburg), GFF-Vorstand; Grundrechte, Legal Gender Studies & wehrhafte Demokratie — Mitvorstellerin des GFF-Gutachtens zur Verfassungswidrigkeit der AfD
+
 **[[DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Ökonom, Politiker, ehem. griechischer Finanzminister; Technofeudalism — Kapitalismus ist tot, Cloud Capital ersetzt Märkte, Big Tech verwandelt Profit in feudale Rente
 
 ## W

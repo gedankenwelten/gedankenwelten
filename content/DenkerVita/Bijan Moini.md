@@ -102,6 +102,7 @@ Seine Nähe zur GFF ordnet ihn zivilgesellschaftlich ein — aber nicht als Akti
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] — GFF-Analyse zur AfD-Verbotsfrage (2024–2025)
+- [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig]] — die Auflösung: das fertige Gutachten, Ergebnis verfassungswidrig (Bundespressekonferenz, 25.06.2026)
 
 ---
 
