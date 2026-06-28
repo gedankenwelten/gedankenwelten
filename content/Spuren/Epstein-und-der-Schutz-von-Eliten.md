@@ -226,7 +226,7 @@ der Quellenauswahl.*
 Schwester-Spuren: *Was die Flut wegspült.* Hier ist es die Rechenschaft der Mächtigen, die im
 Schwärzungs-Schwarz und in der nachlassenden Aufmerksamkeit verschwindet.
 
-### → [[Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]]
+### → [[Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ]]
 
 Zeitgeist-Schnappschuss des Wochenend-Sweeps (28.06.) — Leon Blacks Walkout, das Sullivan-Urteil und der Iran-Schlag, mit Faktencheck.
 

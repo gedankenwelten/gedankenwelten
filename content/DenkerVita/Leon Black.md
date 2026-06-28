@@ -93,6 +93,6 @@ Elite-Schutzes)*
 
 ## Gedankenwelten-Notes
 - [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
-- [[Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]]
+- [[Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ]]
 - [[Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]]
 - [[Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien]]
