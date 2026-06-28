@@ -174,7 +174,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Gerdes — Ukraine Zelensky wird staerker|Gerdes — Ukraine: Zelensky wird stärker]]
 - [[Zeitgeist/Konstantin Flemig — US-Seeblockade gegen Iran|Konstantin Flemig — US-Seeblockade gegen Iran]]
 - [[Zeitgeist/Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken|Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]]
-- [[Zeitgeist/Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ|Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ]] — Zwei Risse an einem Tag: Ein Gericht erklärt das Schweigen des Justizministers für Gesetzesbruch, ein Milliardär flieht aus der Anhörung — und ein Iran-Schlag schiebt sich davor.
+- [[Zeitgeist/Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ|Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]] — Zwei Risse an einem Tag: Ein Gericht erklärt das Schweigen des Justizministers für Gesetzesbruch, ein Milliardär flieht aus der Anhörung — und ein Iran-Schlag schiebt sich davor.
 - [[Zeitgeist/Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration|Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration]]
 - [[Zeitgeist/Koschi Politik — Hochmut vor dem Fall: Iran trifft Trump|Koschi Politik — Hochmut vor dem Fall: Iran trifft Trump]]
 - [[Zeitgeist/Koschi Politik — Pete Hegseth und das christlich-nationalistische Militär|Koschi Politik — Pete Hegseth und das christlich-nationalistische Militär]]
