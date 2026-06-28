@@ -30,7 +30,7 @@ tags: [denker-vita, usa, oligarchie, finanzwelt]
 |---|---|
 | **Apollo Global Management** | Mitgründer (1990), langjähriger CEO und Chairman. Apollo verwaltet rund **1 Billion USD** an Vermögenswerten — einer der größten Private-Equity-Konzerne der Welt. Black trat im **März 2021** zurück; Nachfolger wurde Marc Rowan. ([Wikipedia](https://en.wikipedia.org/wiki/Leon_Black), [Bloomberg](https://www.bloomberg.com/billionaires/profiles/leon-d-black/)) |
 | **Nettovermögen** | Forbes/Bloomberg schätzen es je nach Quelle auf **~8 bis 14 Mrd. USD** — die Spannen variieren stark. ([Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/leon-d-black/)) |
-| **Kunstsammler** | Sammlung im geschätzten Wert von **~1 Mrd. USD** (Raffael, Van Gogh, Picasso, Brâncuși, Pollock). 2012 kaufte er eine der vier Versionen von Edvard Munchs **„Der Schrei"** für **119,9 Mio. USD** — damals der höchste je für ein Kunstwerk gezahlte Preis. ([CBS / Sotheby's](https://www.cbsnews.com/news/billionaire-leon-black-testify-epstein-panel/)) |
+| **Kunstsammler** | Sammlung im geschätzten Wert von **~1 Mrd. USD** (Raffael, Van Gogh, Picasso, Brâncuși, Pollock). 2012 kaufte er eine der vier Versionen von Edvard Munchs **„Der Schrei"** für **119,9 Mio. USD** — damals der höchste je für ein Kunstwerk gezahlte Preis. ([Wikipedia](https://en.wikipedia.org/wiki/Leon_Black)) |
 | **MoMA** | Vorsitzender (Chairman) des **Museum of Modern Art** von 2018 bis 2021; Rücktritt im Zuge der Epstein-Enthüllungen. |
 
 ### Die Epstein-Beziehung — das Belegte
@@ -92,6 +92,7 @@ wahr.
 Elite-Schutzes)*
 
 ## Gedankenwelten-Notes
-- [[Epstein und der Schutz von Eliten]]
+- [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
+- [[Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]]
 - [[Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]]
 - [[Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien]]
