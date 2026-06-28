@@ -19,6 +19,16 @@ aliases:
 
 # Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ
 
+![[assets/Koschi-Politik-Epstein-Leon-Black-DOJ-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — flache Tempera, kantig-stilisierte Objekte ohne realistische Gesichter, gedämpfte Erdpalette aus Ocker, Grau-Grün und Knochenweiß, schweres Tuschschwarz mit einem kalten Akzent in Rot. Shahn ist der Maler der Gerichtsbarkeit und des sozialen Gewissens (Sacco-Vanzetti-Serie) — seine Hand für eine Note über Recht, Rechenschaft und die Mauer aus Schwärzung. Bewusst nicht die Dada-Collage der Spur (Hannah Höch): Der Schnappschuss bekommt seine eigene, juristisch-moralische Hand. Der dünne Lichtriss spaltet die schwarze Aktenmauer — die Schutzwand bekommt zum ersten Mal Sprünge; der leere Zeugenstuhl ist Blacks Walkout, die durchgestrichene Checkliste (Oversight, Diplomacy, Law, Truth) die abgehakte Rechenschaft, das rote Schlagzeilenband mit dem Kampfjet der Iran-Schlag, der sich davorschiebt.
+
+*Prompt:* A wide 1200x500 banner in the style of Ben Shahn — flat tempera, angular stylized figures with no realistic faces, muted earth palette of ochre, grey-green and bone, heavy ink-black, with a single cold accent of official red. The composition reads as a wall of stacked official documents and dossiers, most of their text struck through with thick black redaction bars and a few fragments of hand-lettered words half visible ("FILES", "REDACTED", "BY LAW"). A thin crack of pale light splits the dark wall down the middle, as if it is beginning to fracture. On the left, an empty wooden witness chair tipped slightly, a coat left draped over it — the seat just vacated. In the center foreground, a stern judge's gavel mid-strike resting on a sounding block, oversized, casting a long flat shadow across the documents. On the upper right, a narrow horizontal headline-band slides in over the wall like a banner, carrying the angular silhouette of a fighter jet and a small burst — a war headline pasted over the paper. Scattered details: a torn list, a court seal, a single black phone receiver off the hook. Layered paper textures, sharp flat edges, hand-drawn lettering, social-realist gravity. Cool, austere, tense. No photorealism, no realistic faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > An einem einzigen Wochenende reißen zwei Lücken in die Mauer um den Fall Epstein: Ein Bundesrichter
 > stellt fest, dass der amtierende Justizminister **Todd Blanche** sein eigenes Transparenzgesetz gebrochen
