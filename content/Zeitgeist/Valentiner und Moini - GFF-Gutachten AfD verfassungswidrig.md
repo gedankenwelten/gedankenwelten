@@ -18,6 +18,16 @@ aliases:
 
 # GFF-Gutachten — Die AfD ist verfassungswidrig
 
+![[assets/Valentiner-und-Moini-GFF-Gutachten-AfD-verfassungswidrig-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Lyonel Feininger** — prismatische, kristalline Architektur, kühle transparente Facetten, kathedralenhafte Vertikalen, gebrochenes Morgenlicht. Feininger malt die *Architektur der Grundordnung*: zwei tragende Säulen mit dem Architrav „21 II", von denen jede allein den Träger hält (die zwei unabhängigen Säulen des Gutachtens), über einem leeren, gefrorenen Platz — das Urteil steht, niemand überquert den Platz. Rechts die beiseitegelegten, nicht verbauten Steine: was das Gutachten bewusst *nicht* mitzählt. Der rote Faden läuft durch eine Säule, die Kathedralen-Silhouette ein leiser VG-Köln-Anklang.
+
+*Prompt:* A wide 1200×500 banner in the prismatic, crystalline manner of Lyonel Feininger — cool transparent overlapping planes, faceted light as if seen through cut glass, a restrained palette of slate blue, pale grey, bone white and a single luminous shaft of warm ochre dawn light. In the center two tall slender architectural columns rise like the verticals of a Feininger cathedral, rendered as translucent prismatic planes; a long horizontal beam rests across their tops, and the structure stands firm even though the load is clearly carried by each column independently — two pillars, one architrave. Faintly inscribed into the beam in clean geometric letters: "21 II". Below the columns a low, still, geometric field stretches flat and frozen, like an empty plaza at first light — nobody crosses it. Off to the right, set apart on the ground and NOT built into the structure, lie a small group of pale uncut stone blocks, unused, left aside. A single thin thread of deep red runs vertically through one column. Everything is cool, luminous, weighed and quiet — a structure that holds, standing over an empty square. No realistic faces, no people, no photorealism, no modern logos.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Jahr lang hat die Gesellschaft für Freiheitsrechte ihr Gutachten als *ergebnisoffenes* Projekt geführt — sie wusste selbst nicht, wo es enden würde. Am 25. Juni 2026 steht das Urteil in der Bundespressekonferenz: Die AfD ist verfassungswidrig nach Art. 21 II GG, ein zulässiger Verbotsantrag hätte „wahrscheinlich Erfolg". Getragen wird das Ergebnis von zwei Säulen, die unabhängig voneinander stehen — Demokratiefeindlichkeit und Menschenwürde —, und die erste davon ist neu in der ganzen Debatte: Die AfD will ihre politischen Gegner strafrechtlich verfolgen. Bemerkenswert ist, was das Gutachten *nicht* mitzählt.
 

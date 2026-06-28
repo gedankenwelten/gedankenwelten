@@ -5,6 +5,16 @@ tags: [denker-vita, recht, demokratie, deutschland]
 
 # Dana-Sophia Valentiner — DenkerVita
 
+![[assets/Dana-Sophia-Valentiner-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Sophie Taeuber-Arp** — Zürcher Konkrete Kunst, präzises geometrisches Gleichgewicht, balancierte Raster aus farbigen Rechtecken und Kreisen. Eine Pionierin der Abstraktion für eine Juristin der *Gleichheit, Parität und Selbstbestimmung*: die zwei gleich hohen, geteilten Kreise auf der Mittelachse sind eine abstrakte Waage — Gleichheit als reine Geometrie statt gemalter Justitia. Der zentrale Block mit Yin-Yang-Kreis trägt Valentiners Verfassungsrecht (Struktur als Würde), die Schildform mit dem vorwärts drehenden Pfeil rechts das „Recht in Transformation". Taeuber-Arps Komposition *ist* das Gleichgewicht, das ihr Werk sucht.
+
+*Prompt:* A wide 1200×500 banner in the Concrete-art manner of Sophie Taeuber-Arp — flat, precise, balanced geometric composition on a calm warm off-white ground, a measured grid of clean rectangles and perfect circles in a restrained palette of vermilion red, deep blue, ochre yellow, charcoal black and soft grey. The composition is built on visible equilibrium: on a central fine vertical axis, two equal circles are balanced left and right at exactly the same height, like the two pans of an abstract scale rendered purely as geometry. Around them a rhythmic lattice of small colored squares steps outward in even intervals, suggesting equal citizens in equal rank. To one side a simple upright shield-like rectangle stands as a quiet protective form; from it a clean geometric arrow curves, turning forward — order in transformation. Everything is hand-balanced, serene, mathematically calm, slightly imperfect in the warm handmade way of Taeuber-Arp's gouaches. No realistic faces, no portrait, no text, no photorealism.
+
+</details>
+
 ## Biografie
 - **Beruf:** Rechtswissenschaftlerin und Hochschullehrerin
 - **Position:** Seit 2025 Inhaberin der Professur für Öffentliches Recht mit Schwerpunkt im öffentlichen Wirtschaftsrecht und Recht der Transformation an der **Helmut-Schmidt-Universität / Universität der Bundeswehr Hamburg**

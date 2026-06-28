@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*240 Notes — automatisch generiert · nach Thema sortiert*
+*241 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -89,6 +89,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen|Evan Osnos — Megayachten und die Seele der Ultrareichen]]
 - [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet|Gehring & Gießmann — Digitale Unabhängigkeit und monetäre Souveränität]] — 60–66 % aller grenzüberschreitenden Zahlungen in Europa laufen über US-Anbieter. Über den digitalen Euro und was echtes digitales Bargeld bedeuten würde.
 - [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN|Gesine Schwan — Macht NEU DENKEN]]
+- [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig|GFF-Gutachten — Die AfD ist verfassungswidrig]] — Ein Jahr ergebnisoffen geprüft, dann ein klares Urteil: Die AfD ist verfassungswidrig — getragen von zwei Säulen, von denen jede allein genügt.
 - [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten|GFF-Verbotsgutachten — Kann die AfD verboten werden?]]
 - [[Zeitgeist/Gilda con Arne 23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update|Gilda con Arne #23 — AfD vorerst nicht gesichert rechtsextrem & Iran-Krieg Update]]
 - [[Zeitgeist/Gilda con Arne 24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative|Gilda con Arne #24 — BaWü-Wahl, Weimar gegen Buchhandlungen & Iran-Fluchtnarrative]]
