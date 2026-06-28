@@ -1380,6 +1380,17 @@ tags:
 
 ---
 
+## Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ (28.06.2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Epstein Bombe! Trump beschießt wieder den Iran um vom Epstein Paukenschlag abzulenken!](https://www.youtube.com/watch?v=oH2v807D3LQ) |
+| **Notiz** | [[Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]] |
+| **Spur** | [[Spuren/Epstein-und-der-Schutz-von-Eliten]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Koschi_Epstein_Iran_Ablenkung_Transkript.txt` |
+
+---
+
 ## Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken
 
 | | |

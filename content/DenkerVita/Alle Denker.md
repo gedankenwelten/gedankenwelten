@@ -39,6 +39,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## B
 
+**[[DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026
+
 **[[DenkerVita/Joerg Baberowski|Jörg Baberowski]]** — Historiker (HU Berlin), Gewalt- und Stalinismusforscher; Gewalt als eigene Logik (jenseits der Ideologie), Herrschaft als Naturgesetz des Staates, Liberalismus ≠ Demokratie; renommiert und polarisierend zugleich
 
 **[[DenkerVita/Barbara Tversky|Barbara Tversky]]** — Kognitionspsychologin (Stanford, Columbia Teachers College); Spatial Cognition als Fundament der Menschheit, Mind in Motion, Embodied Thinking, Gesten als externe Kognition
