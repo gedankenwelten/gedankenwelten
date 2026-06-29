@@ -19,6 +19,16 @@ aliases:
 
 # phoenix-Runde — Rentenreform: Wer gewinnt, wer verliert?
 
+![[assets/phoenix-Runde-Rentenreform-Wer-gewinnt-wer-verliert-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera / mexikanischer Muralismus** — Freskoputz, flache Modellierung, harte Konturen, erdige Palette aus Ocker, Terrakotta und Schiefergrau gegen einen kühlen institutionellen Himmel. Ein lastentragender Steinbogen spannt sich über das ganze Banner, gehalten von einem glühenden Schlussstein; eine Prozession von Figuren über alle Lebensalter trägt, reicht und stützt ihn — eine Münze und ein Stein wandern von Hand zu Hand. Ganz links zieht einer mit dem Seil einen unteren Block heraus, ein Riss läuft hindurch: Das Ganze trägt nur, solange kein Stein fehlt. Der Muralismus malt genau, worum es geht — den sozialen Körper, die Arbeit, die Generationen, die gemeinsam tragende Struktur. Würdig, kollektiv, kein Sieger, wie die Runde selbst.
+
+*Prompt:* A wide horizontal mural fresco, 1200x500 banner, in the style of Diego Rivera and Mexican muralism — flat modeling, strong dark contours, fresco plaster texture, earthy palette of ochre, terracotta, slate grey and a cool institutional blue sky. The central image: a great load-bearing stone arch spans the entire banner from left edge to right edge, built of many interlocking blocks, a single warm-glowing keystone at the very center holding the whole span together. The arch is solid but on the far left one lower block is being pulled loose with a rope, and a hairline crack runs from it — the hint that the whole structure could collapse if one stone is removed. Along and beneath the arch, a procession of simplified, dignified human figures across the entire lifespan, no realistic facial features, faces stylized and turned: on the left a young apprentice in work clothes and a pregnant woman together lifting a fresh block up into the arch; in the center, broad-shouldered working-age figures bearing the weight of the span on their shoulders and hands; on the right, elderly figures — one seated and resting on a cane, one reaching up to steady a stone. A single coin and a single stone are being passed hand to hand along the whole chain of generations, left to right. Muralist composition: monumental, frieze-like, figures rhythmically spaced, warm human solidarity against a structural grey. Soft fresco light. No text, no photorealism, no realistic faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > 150 Stunden Beratung, 33 Vorschläge, ein unteilbares Paket: Die Rentenkommission hat ihre Empfehlungen an die Regierung Merz/Bas übergeben — Renteneintritt gekoppelt an die Lebenserwartung, das Ende der „Rente mit 63", eine neue gesetzliche Kapitalrente nach schwedischem Vorbild. Vier Stimmen ringen darum, was hier eigentlich verhandelt wird: die Finanzierbarkeit eines Systems oder die Gerechtigkeit einer Gesellschaft. Eine Streitrunde, in der niemand ganz recht und niemand ganz unrecht hat.
 
