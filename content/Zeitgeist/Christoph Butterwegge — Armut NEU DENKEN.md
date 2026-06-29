@@ -134,6 +134,9 @@ Butterwegge ist klar: Steuern und Umsteuern alleine reichen nicht. Es braucht ei
 
 ## Verbindungen
 
+### → [[phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
+Butterwegges struktureller Armutsbegriff ist der Resonanzboden für die phoenix-Runde, in der bis zu 600.000 Haushalte ihre Grundsicherung aus Scham und Komplexität nicht abrufen.
+
 ### → [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
 
 Hartmann und Butterwegge beschreiben zwei Seiten derselben Ungleichheit: Hartmann die Oberseite (wer Macht hat und wie sie vererbt wird), Butterwegge die Unterseite (wer ausgeschlossen bleibt). Hartmanns Befund — Studienstiftung erreicht echte Machteliten nicht, Deutschland ist Erbgesellschaft — ist das strukturelle Korrelat zu Butterwegges Armutsanalyse.

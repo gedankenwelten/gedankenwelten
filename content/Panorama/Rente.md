@@ -123,6 +123,11 @@ Verbundene Notes: [[Heiner Flassbeck — Merz Rentenluege und globale Ungleichhe
 ### → [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 
 phoenixRunde Reformen 2026 als politische Kontroverse in Echtzeit — die Argumente von Butterwegge (Erwerbstätigenversicherung, Demografiemythos, Altersarmut 19,1%), Völz (Strukturreform) und Tutt (Zielgenauigkeit) sind die Konfliktlinien, die das Panorama strukturell abbildet.
+
+### → [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
+
+Der jüngste Akt (29.06.2026): Die Rentenkommission macht aus der Kapitalmarkt-Erzählung erstmals einen gesetzlichen Pflicht-Baustein nach schwedischem AP7-Vorbild. Damit wird der Panorama-Befund „Kapitaldeckung löst nichts, sie verschiebt" zur konkreten Reform-Entscheidung — und die Streitrunde spielt genau die hier kartierten Achsen durch (Umlage vs. Kapital, Einzahlerbasis, verdeckte Armut).
+
 ## Notes
 
 | Note | Schwerpunkt |
@@ -135,3 +140,4 @@ phoenixRunde Reformen 2026 als politische Kontroverse in Echtzeit — die Argume
 | [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] | Kontext |
 | [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]] | Ursache |
 | [[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz]] | Problem |
+| [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert\|phoenix-Runde — Rentenreform 2026]] | Reform-Entscheidung · alle Achsen |

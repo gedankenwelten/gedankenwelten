@@ -173,6 +173,9 @@ Ihr Konter auf Kürzungsforderungen: Nicht weniger ausgeben, sondern gezielter. 
 
 ## Verbindungen
 
+### → [[phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
+Die jüngere Schwester-Runde im selben Format: dort der Sozialstaat als Ganzes, hier die Rente als sein härtester Brennpunkt — das unteilbare Reformpaket macht den „Demontage statt Reform"-Verdacht konkret.
+
 ### → [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]]
 
 Die vertiefte Einzelanalyse von Butterwegges Armutsthesen mit Maja Göpel — dort geht er ausführlicher auf das Matthäus-Prinzip und relative vs. absolute Armut ein. Hier dagegen das Schlachtfeld: die politische Auseinandersetzung in Echtzeit.

@@ -181,6 +181,9 @@ Zieglers Mindestlohn-Beispiel: Wenn über den Mindestlohn für Friseure abgestim
 
 ## Verbindungen
 
+### → [[phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
+Rawls' Differenzprinzip ist der Maßstab hinter dem phoenix-Streit, wer „fair" definiert — Vollaths „65 für alle" gegen Dorns nachhaltigen „Gamechanger".
+
 - [[Walther Ziegler — Kant in 60 Minuten]] — Rawls versteht sich als kantianischer Kontraktualist: Der Urzustand ist eine Prozeduralisierung von Kants kategorischem Imperativ — „Handle so, dass die Maxime deines Handelns allgemeines Gesetz werden könnte" wird zu „Wähle Grundsätze, denen du auch dann zustimmen würdest, wenn du nicht wüsstest, wer du bist"
 - [[Walther Ziegler — Marx in 60 Minuten]] — Marx analysiert die Ursachen der Ungleichheit (Produktionsverhältnisse, Mehrwert), Rawls fragt: unter welchen Bedingungen ist Ungleichheit *zulässig*? Marx fordert Abschaffung des Privateigentums, Rawls lässt Ungleichheit zu — aber nur wenn sie den Schwächsten nützt
 - [[Walther Ziegler — Platon in 60 Minuten]] — Rawls grenzt sich explizit von Platons Ansatz ab: Platon lässt einen einzelnen Philosophenkönig die gerechte Ordnung entwerfen, Rawls verlangt ein *Verfahren*, an dem alle beteiligt sind

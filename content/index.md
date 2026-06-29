@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **29.06.** — [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert|phoenix-Runde — Rentenreform: Wer gewinnt, wer verliert?]]
+>
+> Rente zwischen Nachhaltigkeit und Gerechtigkeit — wenn das Reformpaket nur als Ganzes trägt: Wer schultert die Last des längeren Lebens, und wer entscheidet, was fair heißt?
+
 > **28.06.** — [[Zeitgeist/Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ|Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]]
 >
 > Zwei Risse an einem Tag: Ein Gericht erklärt das Schweigen des Justizministers für Gesetzesbruch, ein Milliardär flieht aus der Anhörung — und ein Iran-Schlag schiebt sich davor.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Politiker verlässt freiwillig die Macht — und benennt von außen, was er von innen nur andeuten durfte: Geld ist Macht, und die soziale Frage wurde ins Kulturelle verschoben.
 
-> **23.06.** — [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]]
->
-> Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
-
-> → *3 weitere in* [[Zeitgeist]]
+> → *4 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

@@ -242,6 +242,9 @@ Sie benennt explizit die intersektionale Dimension: Überreiche sind statistisch
 
 ## Verbindungen
 
+### → [[phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
+Die phoenix-Rentenrunde stellt Beitragszahler gegeneinander (jung/alt, früh/spät); der extreme Reichtum erinnert an die unsichtbare Achse — Vermögen altert beitragsfrei.
+
 ### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
 Kühnert solo, ein Jahr später: Was er hier im Panel neben Engelhorn und Pfeffer entwickelt (Erbe als günstigstes Einkommen, Geld = Macht), trägt er bei Marcant als zugespitzte Einzelthese vor — und verbindet sie mit seinem Ausstieg aus der Politik. Die vierstimmige Diagnose wird zur persönlichen Mission als „Lobbyist für die Zivilgesellschaft".
 
