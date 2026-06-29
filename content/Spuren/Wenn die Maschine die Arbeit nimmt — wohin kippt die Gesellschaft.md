@@ -22,6 +22,16 @@ aliases:
 
 # Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft?
 
+![[assets/Wenn-die-Maschine-die-Arbeit-nimmt-wohin-kippt-die-Gesellschaft-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Frans Masereel / expressionistischer Holzschnitt** — Hochkontrast in Schwarz-Weiß mit einem warmen Gold-Akzent, gekerbte Linien, die selbst Spuren sind. Ein gespanntes Seil quer durchs Bild, von zwei Seiten gezogen — links zu kalten schwarzen Türmen, rechts zu warmen goldenen Feldern; in der Mitte der Knoten direkt über einem Abgrund, ein Senklot daran: das umkämpfte Gleichgewicht, das kein Pol gewinnt. Der Holzschnitt *ist* Spur — die gegrabene Linie ist eingegrabene Bewegung.
+
+*Prompt:* A wide horizontal woodcut, 1200x500 banner, in the style of Frans Masereel and German Expressionist woodblock prints — stark high-contrast black and white with a single warm-gold accent, bold carved contours, strong graphic energy, simplified faceless figures, visible gouged white lines that read as traces. Across the entire banner stretches one great taut rope, pulled hard from both ends — a tug-of-war. On the left, a group of straining faceless figures hauls the rope toward a cluster of cold, sharp, angular black towers. On the right, another group hauls toward warm rounded fields and a single tree, rendered in the gold accent. At the dead center the rope's knot hangs directly over a dark chasm, a small plumb-line dangling from it — the contested middle, balanced, neither side winning. Carved white lines radiate outward from the rope like the long-exposure trace of a struggle. Raw, tense, graphic, monochrome with one warm accent. No text, no photorealism, no realistic faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > Diese Spur verfolgt kein einzelnes Ereignis, sondern das größte Tauziehen unserer Zeit: Was macht es mit der *Gesellschaft*, wenn KI und Roboter menschliche Arbeit übernehmen können? Sie spannt zwei Pole auf — die [[Die geteilte Fuelle — eine Utopie der Maschinen-Aera|geteilte Fülle]] und die [[Die goldenen Tuerme — eine Dystopie der Maschinen-Aera|goldenen Türme]] — und beobachtet über die Zeit, wohin das Seil rutscht. Bewusst **nicht** mit Technik-Brille gemessen, sondern an dem, was ein Mensch an seinem eigenen Leben spürt. Sie darf niemals zur These „so wird es" erstarren; ihr Wert ist die ehrliche Spur des Zweifels.
 
