@@ -139,6 +139,9 @@ und Wissen". Jeder neue Fall ist ein datierter Datenpunkt in dieser größeren B
 
 ## Verbindungen
 
+### → [[Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft]]
+Die gesellschaftliche Spur eine Etage höher: Diese hier verfolgt das *Mittel* (wem gehört das Modell zwischen Mensch und Wissen), jene das *Ergebnis* (was die Maschinen-Ära mit der Gesellschaft macht). Das Mittel speist den Ausgang, entscheidet ihn aber nicht allein.
+
 ### → [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
 Onos LLM als „außergewöhnlichster Bibliothekar" ist genau die Schicht zwischen Mensch und Wissen, um die diese Spur kreist — nur kognitiv statt machtpolitisch gelesen: Was bleibt dem Menschen, wenn die Bibliothek alles weiß? Die Spur fragt, wem diese Bibliothek gehört; Ono, was der Mensch an ihr noch zu tun hat.
 

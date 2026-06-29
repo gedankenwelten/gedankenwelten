@@ -114,6 +114,9 @@ Das Paradoxe: Das unsichtbare Netzwerk — das echte, fadenbasierte — ist selb
 
 ## Verbindungen
 
+### → [[Die goldenen Tuerme — eine Dystopie der Maschinen-Aera]]
+Die Dystopie zeigt die Zuspitzung dieser Macht: Je unentrinnbarer das Netzwerk, desto vollständiger beherrscht, wer es kontrolliert — Macht ohne Gesicht.
+
 - [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] — Fundament dieser Note. Die positive Architektur, deren Kehrseite hier beleuchtet wird.
 - [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]] — Die Filterfrage: nicht Lautstärke, sondern verborgenes Dogma. Die Brandmauer ist die praktische Antwort auf das Skalpell-Problem.
 - [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]] — Skalpell und Nadel operieren sprachlich. Wer Begriffe prägt ohne Hammer, prägt umso tiefer. Höckes Strategie und ihre Mutation ins Subtile.
