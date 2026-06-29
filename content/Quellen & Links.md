@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## phoenix-Runde — Rentenreform 2026
+
+| | |
+|---|---|
+| **Vortrag / Video** | [phoenixRunde: Rentenreform – Wer gewinnt, wer verliert?](https://www.youtube.com/watch?v=DiGEtk7RJYQ) |
+| **Notiz** | [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert]] |
+| **Transkript** | `Gedankenwelten/Transkripte/phoenixRunde_Rentenreform_Transkript.txt` |
+
 ## Die Neurobiologie der Liebe (Forschungssynthese)
 
 | | |

@@ -92,6 +92,9 @@ Flassbeck entlarvt den logischen Kurzschluss mit seinem Lieblingsargument, dem S
 
 ## Verbindungen
 
+### → [[phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
+Flassbecks Sparparadoxon ist der schärfste makroökonomische Einwand gegen das Herzstück des Pakets — die neue gesetzliche Kapitalrente nach AP7-Vorbild, die die phoenix-Runde als „Gamechanger" verhandelt.
+
 ### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
 
 Flassbecks Makro-Mechanik (r > g, Saldenmechanik) erklärt, *warum* Kühnerts Diagnose vom Kapital, das schneller wächst als Arbeit, strukturell stimmt. Zugleich ein produktiver Gegenpol: Flassbecks Warnung vor der „naiven Ungleichheits-Forderung" erdet Kühnerts moralisch grundierte Reichtums-These kritisch.

@@ -165,6 +165,9 @@ Quelle: [Ungleichheitsforscherin Martyna Linartas über Umverteilung von Reichtu
 
 ## Verbindungen
 
+### → [[phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
+Die phoenix-Runde streitet über die gesetzliche Kapitalrente; Linartas liefert die Verteilungsklinge dazu — kapitalgedeckte Vorsorge setzt Kapital voraus, die Ungleichheit verdoppelt sich im Alter.
+
 ### → [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
 
 Steinhaus' Satz „Deutschland ist keine Leistungsgesellschaft, sondern eine Erbengesellschaft" ist fast wörtlich Linartas' Kernthese — die phoenix Runde illustriert die politischen Widerstände gegen ihre Befunde in Echtzeit.

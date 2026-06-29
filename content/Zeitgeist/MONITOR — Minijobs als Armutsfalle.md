@@ -144,6 +144,9 @@ Dafür wären alle sozialversichert — Rente, Krankenkasse, Arbeitslosengeld.
 
 ## Verbindungen
 
+### → [[phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
+Die Rentenreform-Runde streitet über Renteneintritt und Kapitalrente; die Minijob-Falle zeigt die andere Hälfte — wer nie regulär einzahlt, für den ist das Eintrittsalter eine Frage ohne Antwort.
+
 ### → [[Christoph Butterwegge — Armut NEU DENKEN]]
 
 Butterwegge analysiert die strukturelle Architektur von Armut in Deutschland. Die MONITOR-Recherche liefert mit Minijobs den konkreten Mechanismus: Armut ist politisch konstruiert, nicht individuelles Versagen. Die 2,6 Mrd. Sozialkassenverlust belegen seine Kritik am neoliberalen Umbau.
