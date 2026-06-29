@@ -46,6 +46,30 @@ Die Gedankenwelten (luc)
 
 > → *4 weitere in* [[Zeitgeist]]
 
+### Spuren
+
+> **29.06.** — [[Spuren/Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft?]]
+>
+> Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
+
+> **28.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
+>
+> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
+
+### Gedanken
+
+> **29.06.** — [[Gedanken/Die goldenen Tuerme — eine Dystopie der Maschinen-Aera|Die goldenen Türme — eine Dystopie der Maschinen-Ära]]
+>
+> Wenn die Maschine den Menschen als Arbeitskraft entbehrlich macht, droht nicht Befreiung, sondern etwas Älteres: Macht ohne Gegenseitigkeit, Herrschaft ohne Gesicht.
+
+> **29.06.** — [[Gedanken/Die geteilte Fuelle — eine Utopie der Maschinen-Aera|Die geteilte Fülle — eine Utopie der Maschinen-Ära]]
+>
+> Wenn Maschinen die Arbeit nehmen, könnte zum ersten Mal genug für alle da sein — die Frage ist nicht, ob wir es schaffen, sondern ob wir es teilen.
+
+> **20.06.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
+>
+> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
+
 ### Geistesblitz
 
 > **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
@@ -80,12 +104,6 @@ Die Gedankenwelten (luc)
 >
 > Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
 
-### Spuren
-
-> **28.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
->
-> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
-
 ### Panorama
 
 > **23.06.** — [[Panorama/NoAfD|NoAfD]]
@@ -95,20 +113,6 @@ Die Gedankenwelten (luc)
 > **01.06.** — [[Panorama/Energie|Energie]]
 >
 > Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
-
-### Gedanken
-
-> **20.06.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
->
-> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
-
-> **18.06.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen]]
->
-> Sechs Sätze, alt wie das Denken selbst — und jeder noch immer ein Funke, der ein Leben neu ordnen kann. Eine Wanderung von Kant bis Zhuangzi, vom Staunen bis zum Loslassen.
-
-> **24.05.** — [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren|Das unsichtbare Netzwerk — Potenziale und Gefahren]]
->
-> Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft macht, macht es zur gefährlichsten Waffe — ein Werkzeug ist neutral, es zählt, wer es führt.
 
 ### GoodNews
 

@@ -348,6 +348,9 @@ Aus den Bausteinen destilliert sich ein Muster:
 
 ## Verbindungen
 
+### → [[Die geteilte Fuelle — eine Utopie der Maschinen-Aera]]
+Die geteilte Fülle ist ein solches lebensdienliches System, durchgespielt für die Maschinen-Ära: Technik, die dem Leben dient, statt es zu verzwecken — wenn der Mensch sie so baut.
+
 ### → [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
 
 Diagnose-Gegenstück: Wo *Gefangene* fragt „Welche Systeme bringen pathologische Führer hervor?", fragt dieser Essay „Welche Systeme bringen lebendige Gemeinschaften hervor?"

@@ -355,6 +355,9 @@ kann daraus eine **Muster-Spur** werden, die Einzelfälle als datierte Evidenz a
 
 ## Verbindungen
 
+### → [[Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft]]
+Der Kill-Switch als Datenpunkt im großen Tauziehen — Macht, die abschaltet, ohne ins Gesicht zu sehen (Signal 6 der gesellschaftlichen Spur).
+
 ### → [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
 
 Schwester-Spur, derselbe Fall von der *kommerziellen* Seite. Der Marketing-Aspekt (Mythos als „zu

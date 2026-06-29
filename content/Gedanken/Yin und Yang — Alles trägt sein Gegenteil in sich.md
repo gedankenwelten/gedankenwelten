@@ -52,6 +52,9 @@ Das gilt für Kemper (links-antifaschistisch), für Manow (strukturell-konservat
 
 ## Verbindungen
 
+### → [[Die geteilte Fuelle — eine Utopie der Maschinen-Aera]] · [[Die goldenen Tuerme — eine Dystopie der Maschinen-Aera]]
+Ein reines Yin-Yang-Paar: Dieselbe Tatsache — der Mensch wird als Arbeitskraft entbehrlich — trägt beide Ausgänge zugleich in sich, Befreiung und Überflüssigkeit. Welcher gilt, entscheidet nicht die Technik.
+
 ### → [[Hans Maggi — Sokotra]]
 Sokotra zeigt das Prinzip als Reise: Armut neben Zufriedenheit, Plastikmüll neben Magie, harte Sitten neben überwältigender Herzlichkeit. *Beides ist wahr* — die Note verweigert das Urteil, ohne wegzuschauen.
 
