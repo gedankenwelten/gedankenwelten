@@ -52,7 +52,7 @@ Das demografische Schreckgespenst — zu wenige Junge, zu viele Alte — verlier
 
 ## Das Ende des Wachstumszwangs
 
-Heute sind wir alle getrieben. Du nimmst Schulden auf und zahlst sie mit Zinsen zurück; als Unternehmen musst du wachsen, um im Markt nicht unterzugehen; als Arbeitender musst du genug verdienen, um über die Runden zu kommen. Selbst wer etwas baut, das lange hält, ist verdammt, immer weiter zu verkaufen — denn die Struktur, die er aufgebaut hat, kostet, ob sie produziert oder nicht.
+Heute sind wir alle getrieben. Du nimmst Schulden auf und zahlst sie mit Zinsen zurück; als Unternehmen musst du wachsen, um im Markt nicht unterzugehen; als Arbeitender musst du genug verdienen, um über die Runden zu kommen. Selbst ein Unternehmen, das etwas Langlebiges baut, ist verdammt, immer weiter zu verkaufen — denn der Apparat, den es sich aufgebaut hat, verschlingt Fixkosten, ob er produziert oder nicht, und die werden mit der Zeit nur höher.
 
 Die Utopie löst diesen Knoten. Wenn die Maschine die Produktion trägt, muss Konsum nicht mehr des Geldes wegen ausgereizt werden. Wir bauen weiter Industrieware — aber als **Qualität statt Quantität**: reparierbar, modular, robust, austauschbar. Was nur selten gebraucht wird, gehört niemandem allein, sondern wird **geteilt**. Wie viel steht ungenutzt in Schuppen, das man einmal im Jahr braucht? Eine Kultur, die teilt statt hortet, kommt mit einem Bruchteil der Ressourcen aus — und schließt den Kreis, wie es die Natur tut: erschaffen, gebrauchen, zurückführen. Eine neue Ruhe könnte einkehren, weil das Rad sich nicht mehr drehen *muss*.
 
