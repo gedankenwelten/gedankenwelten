@@ -28,7 +28,7 @@ aliases:
 </details>
 
 > [!abstract] Worum es geht
-> Ein Gedanke, durchgespielt bis zum Ende: Was, wenn Maschinen und KI die Arbeit übernehmen — nicht als Drohung, sondern als Möglichkeit? Diese Note zeichnet die *realistische* Utopie. Kein Paradies auf Erden, sondern eine Welt, in der zum ersten Mal genug für alle da ist und der Mensch nicht mehr täglich ums Überleben rudert. Sie ist bewusst der eine Pol eines Tauziehens — ihr finsterer Zwilling steht daneben. Beide sind extrem in ihrer Idealisierung; die Wahrheit wird dazwischen liegen.
+> Ein Gedanke, durchgespielt bis zum Ende: Was, wenn Maschinen und KI die Arbeit übernehmen — nicht als Drohung, sondern als Möglichkeit? Diese Note zeichnet die *realistische* Utopie. Kein Paradies auf Erden, sondern eine Welt, in der zum ersten Mal genug für alle da ist und niemand mehr täglich um seinen Platz bangen muss. Sie ist bewusst der eine Pol eines Tauziehens — ihr finsterer Zwilling steht daneben. Beide sind extrem in ihrer Idealisierung; die Wahrheit wird dazwischen liegen.
 
 > [!info] Was das ist
 > Eine **Gedanken-Note** — vorausgedacht, nicht behauptet. Ein Szenario, das einen Pol markiert. Sie gehört mit ihrem Gegenstück und der verfolgenden Spur zusammen: → [[Die goldenen Tuerme — eine Dystopie der Maschinen-Aera|Die goldenen Türme (Dystopie)]] · → [[Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|die Spur, die das Tauziehen verfolgt]].
