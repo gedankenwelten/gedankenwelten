@@ -13,7 +13,7 @@ status: offen
 konfidenz: "Seil umkämpft (kein Einzelwert — sechs Signale)"
 review-takt: 90-tage
 eroeffnet: 2026-06-29
-aktualisiert: 2026-06-29
+aktualisiert: 2026-06-30
 description: "Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen."
 aliases:
   - Mensch und Maschine Tauziehen
@@ -78,6 +78,16 @@ Diese Spur erwartet keinen einzelnen Befund, der sie entscheidet, sondern das **
 
 ## Verlauf
 
+### 2026-06-30 — Der Rauswurf-Bumerang: die Maschine wird nachjustiert, nicht zurückgedrängt
+
+**Befund (nackt, datiert):** Eine Welle dokumentierter Rück-Einstellungen. **Ford** holt im Juni 2026 ~350 erfahrene Ingenieure zurück, nachdem die KI-gestützte Qualitätskontrolle nicht trug — VP Charles Poon: *„Mistakenly we thought that by just introducing artificial intelligence … that would produce a high-quality product."* CEO Jim Farley beziffert den Nutzen auf „hundreds and hundreds of millions of dollars" (weniger Garantie-/Rückrufkosten), Platz 1 im J.D.-Power-Initial-Quality-Survey. **Klarna** hatte 2024 ~700 Service-Stellen durch eine OpenAI-KI ersetzt; seit Frühjahr 2025 rudert CEO Siemiatkowski zurück auf ein Hybrid-/Gig-Modell, getrieben von gefallenen Kundenzufriedenheits-Werten. Aggregiert kursieren Zahlen (29 % der KI-Kürzer stellen wieder ein — Robert Half; 73 % kamen finanziell *nicht* besser raus — Careerminds), die durch Sherlock-Faktencheck **bestätigt, aber mit Provenienz-Warnung** versehen sind: beide Quellen sind Personalvermittler bzw. Outplacement-Anbieter mit Eigeninteresse am Rückwärts-Narrativ. Die viel zitierte „Forrester: 55 % bereuen KI-Entlassungen" ist **fehlattribuiert** — Forrester *prognostiziert* lediglich, dass „etwa die Hälfte der KI-Entlassungen still zurückgedreht wird", keine Regret-Umfrage. Neutraler: PwCs *Global AI Jobs Barometer 2026* (>1 Mrd. Stellenanzeigen, 27 Länder) — Firmen, die KI zur *Stärkung* statt zum *Ersatz* von Menschen nutzen, sind erfolgreicher.
+
+**Deutung:** Ein Ruck bei **Signal 1** (Würde der nicht mehr Gebrauchten) — aber ein zweideutiger. Die Weggeschickten werden zurückgeholt, *weil* ihre Urteilskraft fehlte; der Mensch wird an der Stelle aufgewertet, an der die Maschine an ihre Grenze stößt — die letzten Prozent, die Beziehung, Verantwortung, Qualität verlangen. Das ist die hoffnungsvolle Lesart: nicht „Maschine nimmt alles", die Prämisse stockt an genau der Naht, an der der endliche Mensch sitzt. Es ist *keine* „kalt"-Bedingung — die Transformation läuft weiter —, aber eine Bremse gegen die einfache Verdrängungsgeschichte.
+
+**Gegenbeobachtung (Pflicht):** Zurückholen heißt nicht zurückdrängen. Klarnas Hybrid lässt die KI weiter zwei Drittel machen — der Mensch kehrt nur an die Spitze zurück. Fords Ingenieure kommen ausdrücklich, um *die KI zu trainieren und Junioren zu mentoren* — der Mensch kehrt als **Veredler der Maschine** wieder, nicht als ihr Ersatz. Und die griffigsten Belege für die ganze „KI war ein Fehler"-Erzählung stammen von Akteuren, die genau diese Erzählung verkaufen (Vermittler, Outplacer). Der eingebaute Gegner sagt also doppelt vorsicht: Das Seil ruckt hier nicht nach rechts, weil die Macht teilt — sondern weil die Technik noch nicht reicht. Schließt sie die 40-%-Lücke, fällt auch dieser Halt weg.
+
+---
+
 ### 2026-06-29 — Anlage: das Seil wird gespannt
 
 **Befund (nackt, datiert):** Die Lage ist gegenläufig, nicht eindeutig. *Nach links:* Die fähigsten Modelle bleiben geschlossen und hinter Compute-Schranken; der dokumentierte staatliche Eingriff in den Modellzugang (→ Fable/Mythos-Abschaltung, Juni 2026) zeigt, dass eine zentrale Hand abschalten *kann*. Die Vereinzelung wächst seit Jahren messbar in den reichen, durchgetakteten Gesellschaften — *ohne* dass die Maschine schon Arbeit abgenommen hätte. *Nach rechts:* Offene Modelle (DeepSeek, Qwen, Llama, Mistral) rücken an die Spitze heran, lokale Inferenz auf bezahlbarer Hardware wird real, der Preis pro Rechenschritt fällt.
@@ -94,6 +104,10 @@ Diese Spur erwartet keinen einzelnen Befund, der sie entscheidet, sondern das **
 > - **Verlangen:** Es ist verführerisch, die Utopie für „realistisch" und die Dezentralisierung für die schon gewonnene Rettung zu halten — gerade für den, der selbst gern an offenen Werkzeugen baut. Das ist Hoffnung, kein Befund. Das Datum, das wir wegerklären wollen werden, ist die *Bequemlichkeit*: dass die Mehrheit den zentralen, bequemen Weg freiwillig wählt.
 > - **Abneigung:** „Die Eliten verschanzen sich in goldenen Türmen" ist eine moralisch befriedigende Geschichte. Vorsicht — sie kann die eigene Ohnmacht in Empörung verwandeln und blind machen für die Stellen, an denen sich tatsächlich etwas *öffnet*.
 > - **Wachpunkt:** Wenn ein Signal nach rechts ruckt und ich es sofort glauben will — *erst prüfen, ob es Dauer hat oder nur ein Tag war.* Und umgekehrt: wenn alles nach links zieht, nicht in die Resignation kippen; Resignation ist auch nur eine Art, recht behalten zu wollen.
+
+> [!question] Wo krallt der Beobachter? (Sweep 2026-06-30)
+> - **Verlangen:** Der Rauswurf-Bumerang ist eine *tröstliche* Geschichte — „der Mensch wird doch gebraucht". Genau deshalb misstrauen: Sherlock hat gezeigt, dass die griffigsten Zahlen von Vermittlern und Outplacern stammen, die diesen Trost verkaufen. Anattā auf die Quellen-Diät: Ich wollte den Befund glauben, *bevor* ich seine Herkunft prüfte. Korrigiert — die Einzelfälle bleiben, die Prozente werden gewichtet, nicht geglaubt.
+> - **Wachpunkt:** Nicht den Halt bei Signal 1 mit „die Macht teilt" verwechseln. Der Mensch kehrt heute als *Veredler der Maschine* zurück, nicht als ihr Gegengewicht — ein technischer, kein gesellschaftlicher Ruck. Schließt sich die Lücke, prüfen, ob der Halt bleibt.
 
 ---
 
@@ -116,7 +130,15 @@ Das Paradox der Dystopie — die Mächtigen als Gefangene ihres eigenen Systems 
 *Pilot — die Quellenbasis wächst mit den Sweeps. Erste Anker:*
 
 - [Anthropic — Statement zur Fable/Mythos-Abschaltung](https://www.anthropic.com/news/fable-mythos-access) *(Signal 5/6: zentraler Modellzugang)*
-- *(zu vertiefen in Sweeps: Daten zu sozialer Vereinzelung; Produktivitäts-Lohn-Schere; Open-Weights vs. Frontier-Lücke; Preis bezahlbarer lokaler Inferenz; Diskurston gegenüber Nicht-Erwerbstätigen — Signal 1)*
+
+*Sweep 2026-06-30 — Rauswurf-Bumerang (Signal 1). Provenienz beachtet: die aggregierten Prozentzahlen stammen von Akteuren mit Eigeninteresse am Rückwärts-Narrativ, die Einzelfälle (Ford, Klarna) sind unabhängig belegt:*
+
+- [TechCrunch — Ford rehires „gray beard" engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) *(Einzelfall, unabhängig belegt — Poon-/Farley-Zitate, J.D. Power)*
+- [Customer Experience Dive — Klarna reinvests in human talent](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/) *(Einzelfall — Hybrid-/Gig-Kehrtwende)*
+- [Forrester — Predictions 2026: The Future of Work](https://www.forrester.com/blogs/future-of-work-predictions-2026-whats-coming-for-work-and-the-workforce/) *(die echte Prognose ≈50 % Entlassungen zurückgedreht — Gegengewicht zur fehlattribuierten „55 % bereuen")*
+- [PwC — Global AI Jobs Barometer 2026 (via heise)](https://www.heise.de/news/KI-Einsatz-Warum-menschliche-Expertise-wichtiger-ist-als-Automatisierung-11336805.html) *(neutralste Datenbasis: Stärkung schlägt Ersatz)*
+- Robert Half (29 % rehiren) · Careerminds (73 % finanziell nicht besser) — *belastbar als Indiz, Anbieter-Umfragen, kein neutrales Institut*
+- *(weiter zu vertiefen: soziale Vereinzelung; Produktivitäts-Lohn-Schere; Open-Weights vs. Frontier-Lücke; Preis lokaler Inferenz; Diskurston gegenüber Nicht-Erwerbstätigen — Signal 1)*
 
 ---
 
