@@ -207,3 +207,7 @@ Die PhoenixRunde benennt Seltene Erden als Chinas stärkste Waffe — diese Note
 ### → [[Morpheus — Warum alle chinesische KI nutzen]]
 
 Morpheus' erste Subventionsebene — Industriestrom 50% günstiger als in der EU — hat ihre Vorgeschichte in Chinas grüner Industriestrategie. Die Preiswaffe bei KI-Tokens ist das ökonomische Ergebnis der Energiewende, die Meyer und Hegenberg analysieren.
+
+### → [[Good News - Gute Nachrichten Juni 2026]]
+
+Good News Juni liefert die globale Schlagzeile zu dieser Analyse: 2025 deckten Erneuerbare erstmals das gesamte Wachstum der Stromnachfrage, fossile Erzeugung fiel — Haupttreiber China. Meyer und Hegenberg erklären den industriepolitischen Unterbau hinter genau dieser Zahl.

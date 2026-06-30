@@ -199,3 +199,7 @@ Zöcklers Bürgerenergie-Modell als deutsches Pendant zu Großbardorf und Energi
 ### → [[Michael Sterner — Soeders Energie-Irrtum Faktencheck]]
 
 Sterner beschreibt theoretisch, was die ARTE-Doku in Großbardorf zeigt: Biogas als bayerischer 'Max' (Pik-Ass). Das fränkische 100%-Dorf ist der empirische Beweis für Sterners Biogas-als-Speicher-Argument gegen Söder.
+
+### → [[Good News - Gute Nachrichten Juni 2026]]
+
+Schwesterformat in der „Gute Nachrichten"-Tradition: Die Juni-Ausgabe von Good News meldet, dass Erneuerbare 2025 erstmals das gesamte globale Nachfragewachstum deckten und die Kohle überholten — der globale Beleg für das, was diese ARTE-Doku am konkreten Dorf-Beispiel zeigt.

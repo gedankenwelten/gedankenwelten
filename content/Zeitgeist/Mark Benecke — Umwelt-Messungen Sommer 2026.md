@@ -219,3 +219,7 @@ Direkte Fortsetzung: Die Fragerunde vertieft den Vortrag mit Margarita Hartlieb 
 ### → [[Good News - Gute Nachrichten Mai 2026]]
 
 Good News Mai liefert die empirischen Gegengewichte zu Beneckes Worst-Case-Befund: Peking -50 % Feinstaub, Plastikhandel -66 %, Kākāpō-Rekordsaison. Beneckes Daten und die Good-News-Reihe zusammen ergeben ein realistischeres Gesamtbild als jede Perspektive allein.
+
+### → [[Good News - Gute Nachrichten Juni 2026]]
+
+Das Yang zu Beneckes Yin: Wo Benecke die ungeschönten Klimamessdaten zusammenträgt, sammelt Good News Juni die realen Lichtblicke (Erneuerbare überholen Kohle, Geothermie-Durchbruch, Renaturierung). Zusammen ergeben sie ein realistisches Gesamtbild — Fortschritt ist real, aber kein Grund zur Entwarnung.

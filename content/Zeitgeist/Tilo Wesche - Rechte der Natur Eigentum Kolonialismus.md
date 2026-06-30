@@ -406,6 +406,10 @@ Zhaos Tianxia-System denkt Weltordnung von relationaler Einschließung — die W
 ### → [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi]]
 Die philosophische Grundlage der Naturrechte — dass Flüsse und Berge als Rechtspersonen denkbar sind — lebt in der Episteme, die Cusicanqui von innen beschreibt: Für die Aymara sind nicht-menschliche Wesen Subjekte, die „dich anschauen", keine Objekte. Wesche erklärt, warum „unberührte Natur" ein koloniales Narrativ ist; Cusicanqui zeigt, welche gelebte Wissensordnung der Kolonialismus damit für rückständig erklärte — und welche Energie noch in ihr steckt.
 
+### → [[Good News - Gute Nachrichten Juni 2026]]
+
+Wo Wesche Natur als Rechtssubjekt statt Eigentum denkt, zeigt Good News Juni die gelebte Praxis: die Orang-Utan-Seilbrücke gegen Inzucht, die Seepferdchen-Rettung im Hafen von Sydney, die Renaturierung der Lausitzer Tagebaue. Der Mensch, der Lebensräume zurückgibt, statt sie nur zu verwerten.
+
 ---
 
 ## Weiterdenken
