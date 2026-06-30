@@ -226,6 +226,10 @@ Kupferzell ist ein konkreter Beweis für die Kernthese des Panoramas: Die Lösun
 
 Der Presseclub diskutiert, ob Katharina Reiches Energiepolitik wirtschaftlich rational ist. Kupferzell antwortet implizit: Unternehmen, die frühzeitig auf Erneuerbare gesetzt haben, zahlen 2,5 ct/kWh. Unternehmen, die auf Gas warten, zahlen das Siebenfache. Die Frage nach "Wirtschaftlichkeit" der Energiewende hat eine empirische Antwort — sie heißt Kupferzell.
 
+### → [[Good News - Gute Nachrichten Juni 2026]]
+
+Good News Juni meldet Geothermie der nächsten Generation als europäische Erfolgsgeschichte (könnte 42 % von Europas Kohle/Gas ersetzen). Kupferzell ist der Praxisbeleg im Kleinen: Erdwärme ist nicht Zukunftsmusik, sondern bereits gasfreie Betriebsrealität.
+
 ---
 
 ## Weiterdenken

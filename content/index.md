@@ -22,6 +22,12 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### GoodNews
+
+> **30.06.** — [[GoodNews/Good News - Gute Nachrichten Juni 2026|Good News — Gute Nachrichten Juni 2026]]
+>
+> Neun Erfolgsmeldungen aus einem Monat — von 250 Millionen Bäumen über kippende Energiebilanzen bis zu einem kirschroten Medikament, das Säuglinge vor Malaria retten soll.
+
 ### Zeitgeist
 
 > **29.06.** — [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert|phoenix-Runde — Rentenreform: Wer gewinnt, wer verliert?]]
@@ -44,7 +50,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Politiker verlässt freiwillig die Macht — und benennt von außen, was er von innen nur andeuten durfte: Geld ist Macht, und die soziale Frage wurde ins Kulturelle verschoben.
 
-> → *4 weitere in* [[Zeitgeist]]
+> → *2 weitere in* [[Zeitgeist]]
 
 ### Spuren
 
@@ -98,12 +104,6 @@ Die Gedankenwelten (luc)
 >
 > Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz.
 
-### Kultur
-
-> **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
->
-> Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
-
 ### Panorama
 
 > **23.06.** — [[Panorama/NoAfD|NoAfD]]
@@ -114,9 +114,11 @@ Die Gedankenwelten (luc)
 >
 > Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
 
-### GoodNews
+### Kultur
 
-> **26.05.** — [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2|Good News — Gute Nachrichten Mai 2026 Teil 2]]
+> **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
+>
+> Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
 
 <!-- JOURNAL:END -->
 

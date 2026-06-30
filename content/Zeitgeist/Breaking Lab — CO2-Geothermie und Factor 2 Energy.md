@@ -211,3 +211,7 @@ Thoma denkt in biologischen Systemen und Kreislauflogik; der Thermosyphon-Effekt
 ### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
 
 Benecke kontextualisiert die CO₂-Technologien: Net Zero hätte vor zwei Jahren erreicht werden müssen, die Treppenstufen der Erwärmung lassen sich technologisch nicht rückgängig machen.
+
+### → [[Good News - Gute Nachrichten Juni 2026]]
+
+Good News Juni meldet das Geothermie-Potenzial (Ember: könnte 42 % von Europas Kohle/Gas ersetzen) als Erfolgsnachricht — diese Note liefert die technologische Funktionsweise grundlastfähiger Next-Gen-Geothermie dahinter.
