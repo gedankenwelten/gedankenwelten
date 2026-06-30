@@ -18,6 +18,16 @@ aliases:
 
 # Good News — Gute Nachrichten Juni 2026
 
+![[assets/Good-News-Gute-Nachrichten-Juni-2026-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Utagawa Hiroshige — japanischer Farbholzschnitt (ukiyo-e)** — flache Farbflächen, das berühmte Preußischblau für Wasser und Himmel, weiche Bokashi-Verläufe, eine humane Stille. Eine durchgehende Landschaft von links nach rechts, in der jede der neun Meldungen als Vignette auftaucht: junge Bäume in Kirschblüte, eine Seilbrücke mit überquerendem Orang-Utan, Windräder und Solarhang mit Geothermie-Dampf, ein ruhiger Hafen mit Seepferdchen und Opernhaus-Segel, blaue Seen in alten Tagebaubecken. Hiroshige ist *der* Meister der Brücke — und die Brücke ist das Emblem dieser Ausgabe: die einfache Lösung, geduldig gesetzt, die einen Riss heilt. Bewusst eine andere Hand als das Charley-Harper-Banner der Freddy-Leppin-Vita.
+
+*Prompt:* Utagawa Hiroshige ukiyo-e Japanese woodblock print style, 1200x500px wide panoramic banner. A continuous serene landscape read left to right as one connected scene, flat color planes, visible woodgrain texture, bold outlines, the signature Prussian-blue (bero-ai) gradient in water and sky, soft bokashi gradation. No photorealism, no realistic faces. Left: a grove of slender young trees on a green hillside, neat rows, a few in delicate cherry-pink blossom, stylized geometric foliage. Center-left: a wide calm river gorge spanned by a single thin rope-and-plank suspension bridge arcing across; a small dark simplified silhouette of a long-armed ape (orangutan) crossing the bridge mid-span, tiny birds in V-formation above. Center: rolling hills with three white three-bladed wind turbines and a hillside of gold solar panels in tidy rows; a thin plume of pale white geothermal steam rising from the earth beside them. Center-right: a tranquil blue harbour bay dotted with curled seahorse shapes among wavy seagrass, one large white sail-shaped form on the shore echoing an opera house. Right: a cluster of deep-blue still lakes nestled in former excavation basins, terraced edges softened green, a tiny sailboat. Above it all a wide band of pale gold and soft coral dawn sky with stylized Hiroshige cloud bands. Overall palette: Prussian blue, ivory, gold-yellow, forest green, cherry pink, charcoal outline accents. Quiet, hopeful, balanced. No text. No drama. A world quietly working.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Monat, neun gute Nachrichten — und ein roter Faden, der sich durch fast alle zieht: Die Lösung war oft einfacher als das Problem. Eine Seilbrücke gegen Inzucht. Eine Suchmaschine gegen Entwaldung. Ein kirschroter Sirup gegen Kindersterblichkeit. Diese Note bündelt die Juni-Ausgabe des Kanals *Good News* — nicht als Weltflucht, sondern als Korrektiv gegen den Negativitätssog der Newsfeeds. Worauf man sich einlässt: einen geerdeten Blick auf das, was leise funktioniert, während die Schlagzeilen das Brennende zeigen.
 
