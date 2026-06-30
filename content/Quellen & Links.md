@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## KI als Subjekt — Recherchematerial (Achse B, noch keine Note)
+
+> Zwei Video-Essays, ausgewertet als dritte Stimme für die spätere „Achse B"-Arbeit (KI als Akteur/Macht). Noch keine Note — Rohmaterial.
+
+| | |
+|---|---|
+| **Video 1** | [I Talked to an AI for 2,000 Hours And This Happened (Mindful Machines)](https://www.youtube.com/watch?v=foyljHXJ42s) — Weizenbaum/ELIZA, RLHF→Schmeichelei, der Spiegel-Effekt |
+| **Video 2** | [AM I? — A Documentary About AI Consciousness](https://www.youtube.com/watch?v=KbTvUOx2A6c) — Bewusstseinsfrage (tiefe Unsicherheit) + agentische Fehlausrichtung (Erpressung 96 %) |
+| **Transkript 1** | `Gedankenwelten/Transkripte/MindfulMachines_2000Stunden_KI_Transkript.txt` |
+| **Transkript 2** | `Gedankenwelten/Transkripte/AMI_KI-Bewusstsein_Doku_Transkript.txt` |
+
 ## phoenix-Runde — Rentenreform 2026
 
 | | |
