@@ -66,7 +66,9 @@ Hier muss die Utopie sich selber prüfen, sonst wird sie kitschig. Der stärkste
 
 Aber wer sagt, dass eine bessere Welt eine Welt *ohne* Schwierigkeit sein müsste? Schau genauer hin: Die Vereinzelung wächst schon *heute* — mitten in den reichen, durchgetakteten Ländern, ohne dass uns irgendwer die Arbeit abgenommen hätte. Vielleicht gerade *deshalb*. Wenn der Job das ganze Leben frisst, bleibt für andere Mühen keine Kraft; und das Soziale wird zur Überlast, wenn schon das bloße Überleben einen auszehrt. Die Utopie schafft die Schwierigkeit nicht ab. Sie tauscht erzwungene Not gegen gewählte Herausforderung. Und genau die braucht der Mensch, um sein eigenes Potenzial überhaupt zu sehen: Manche Tür geht erst auf, wenn du nicht mehr alle Kraft an das Türschloss des Alltags hängst.
 
-Das ist der Unterschied zwischen Paradies und Freiheit. Das Paradies ist satt und entmündigt, es nimmt dir die Wahl. Die Freiheit ist offen, sie wagt etwas, sie verlangt etwas von dir — nur nicht mehr die nackte Angst ums Überleben.
+Und hier muss ich ehrlich werden, sonst rede ich mir die Welt zu groß. Wo ich das schreibe, ist Verhungern fast unmöglich — das System fängt mich auf. Die Angst, die ich meine, ist nicht die vor dem Tod. Es ist die Angst, zu fallen. Und schon das aussprechen zu dürfen, ist ein Privileg: Die nackte Überlebensangst gibt es noch, sie herrscht nur woanders. Vielleicht ist die ehrlichste Hoffnung dieser Utopie darum nicht, dass sie mir mein Tretrad nimmt — sondern dass der Boden, der mich hält, eines Tages unter allen liegt.
+
+Das ist der Unterschied zwischen Paradies und Freiheit. Das Paradies ist satt und entmündigt, es nimmt dir die Wahl. Die Freiheit ist offen, sie wagt etwas, sie verlangt etwas von dir — nur nicht mehr jene Angst, zu fallen.
 
 ---
 
