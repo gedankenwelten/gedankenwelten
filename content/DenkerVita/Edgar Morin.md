@@ -5,6 +5,16 @@ tags: [denker-vita, philosophie, soziologie, erkenntnistheorie, ethik]
 
 # Edgar Morin — DenkerVita
 
+![[assets/Edgar-Morin-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Marc Chagall** — schwebende Traumlogik über einer Stadt, halb Thessaloniki, halb Paris (Weißer Turm, Osmanische Kuppel, Eiffelturm, Hafen im Abendlicht). Ein alter Mann treibt schwerelos durchs kobaltblaue Firmament, umkreist von den Bruchstücken eines langen Lebens — Rose, Buch, Violine, Kerze, Baum, ein Liebespaar, ein Hahn. Chagall, selbst jüdisch-osteuropäischer Kosmopolit, malt den Menschen Morin: den Mittelmeer-Menschen ohne feste Heimat, sein Leben als schwebende Erinnerung.
+
+*Prompt:* Wide 1200×500 banner in the dreamlike manner of Marc Chagall. A deep twilight sky of cobalt blue and violet over a warm cosmopolitan port city that is half Thessaloniki, half Paris — whitewashed Ottoman houses beside Parisian rooftops, a small harbor with a single sailboat, glowing amber and rose. Across the banner floats the weightless silhouette of an old man, featureless or gently turned away (no realistic face), drifting horizontally with open arms, gravity suspended. Around him orbit the fragments of a long life: an open book, a single red rose, a violin, a lit candle, a young tree, a crescent moon, a couple embracing in mid-air, a rooster. Loose expressive brushwork, saturated jewel tones — crimson, gold, emerald, deep blue — soft glowing edges, poetic and tender. Elegiac, warm. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Edgar Morin** (1921–2026, geboren als *Edgar Nahoum* in Paris) war ein französischer Philosoph und Soziologe sephardisch-jüdischer Herkunft — Widerstandskämpfer der Résistance, ausgeschlossener Kommunist, „Wilderer des Wissens", der ein Leben lang die Grenzzäune zwischen den Disziplinen niederriss. In seinem sechsbändigen Hauptwerk *La Méthode* (1977–2004) entwarf er die **pensée complexe**, das komplexe Denken: einen Weg, der die Zersplitterung des Wissens überwindet und die Teile wieder mit dem Ganzen verbindet (*reliance*). Er starb am 29. Mai 2026 mit 104 Jahren; Macron würdigte ihn als „Denker des Jahrhunderts".
 

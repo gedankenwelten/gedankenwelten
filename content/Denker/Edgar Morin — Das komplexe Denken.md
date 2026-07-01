@@ -15,6 +15,16 @@ aliases:
 
 # Edgar Morin — Das komplexe Denken
 
+![[assets/Edgar-Morin-Das-komplexe-Denken-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Joaquín Torres-García** — Universal-Konstruktivismus: ein erdiges Raster aus Ocker, Sienna und gedämpftem Indigo, in dessen Kammern flache Piktogramme (Sonne, Fisch, Schiff, Herz, Baum, Spirale, Anker, Auge, Buch) sitzen. Links zerbrechen die Zellen und driften auseinander; nach rechts verweben sie sich zu einem Ganzen, feine Fäden kreuzen die Rasterlinien. Torres-Garcías *Arte Constructivo Universal* ist fast wörtlich Morins *pensée complexe* — das Verbundene, das die zersplitterten Wissensteile in *eine* Struktur bindet.
+
+*Prompt:* Wide 1200×500 banner in the manner of Joaquín Torres-García's Universal Constructivism. A warm earthen ground of ochre, burnt sienna and terracotta, divided by an irregular hand-drawn black grid of uneven rectangular compartments. Mediterranean palette: muted indigo, chalk white, olive, oxide red. Inside the grid cells sit simple flat pictographic glyphs — a sun, a five-pointed star, a small sailing ship, a fish, a human heart, a spiral like a brain, an anchor, a rooted tree, a clock, an open eye, a book, a small house — primitive symbols, no realistic faces. On the LEFT the compartments are cracked and drifting apart, fragments scattering; moving toward the RIGHT the cells knit tightly into one coherent, interlocked whole, faint threads crossing the grid lines to link distant symbols. Aged fresco texture, chalky matte surface, imperfect hand-painted lines, weathered patina. Elegiac, warm, cosmopolitan. No photorealism, no realistic faces.
+
+</details>
+
 > [!abstract] Worum es geht
 > Edgar Morin, am 29. Mai 2026 mit 104 Jahren gestorben, war einer der letzten großen humanistischen Denker Europas — Widerstandskämpfer, Kommunist und Renegat, Soziologe des Kinos und der Massenkultur, am Ende Philosoph der planetaren Ära. Sein Lebenswerk ist ein Aufstand gegen das zerstückelte Wissen: gegen die Wände zwischen den Disziplinen, gegen das Denken, das die Wirklichkeit in Schubladen sortiert und dabei ihr Leben verliert. Diese Note folgt seinem Weg vom autodidaktischen Kind ohne feste Heimat bis zur *pensée complexe* — dem Denken, das Unsicherheit und Widerspruch aushält, statt sie wegzuschneiden.
 
