@@ -5,6 +5,7 @@ description: "Eine Frau, die 16 Jahre lang europäische Diplomatie verkörperte,
 aktualisiert: 24.06.2026
 tags:
   - zeitgeist
+  - kalender
   - demokratie
   - europa
   - geopolitik
