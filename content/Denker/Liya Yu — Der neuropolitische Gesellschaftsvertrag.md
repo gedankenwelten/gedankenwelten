@@ -192,6 +192,7 @@ Yus Paradigmenwechsel: Alle Menschen haben rassistische Gehirnreaktionen — die
 
 ## Verbindungen
 
+- [[Edgar Morin — Das komplexe Denken]] — Beide Naturalisten, die das Gehirn ernst nehmen und gerade darum gegen den Machbarkeitsglauben stehen: Yus Absage ans rationalistische Menschenbild trifft Morins Befund, dass technisch-wissenschaftlicher Fortschritt zu keinem ethischen führt.
 - [[Liya Yu — Neuropolitik und die Grenzen der Moral]] — Das Standard-Gespräch deckt ähnliche Themen ab, aber informeller und auf Deutsch; die Keynote liefert den akademischen Rahmen mit der Gesellschaftsvertragstheorie, die im Standard-Gespräch nur angedeutet wurde
 - [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]] — Haidt kartiert moralische Grundlagen, Yu die neuronalen Substrate darunter; beide zeigen, dass liberal/konservativ tiefer liegt als rationale Überzeugung, aber Yu betont stärker die Dehumanisierungsgefahr
 - [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]] — Beide diagnostizieren tribalistische Dynamiken; Yu ergänzt Haidts sozialpsychologischen Ansatz durch die mPFC-Forschung und fordert neuropolitische statt nur soziale Interventionen
