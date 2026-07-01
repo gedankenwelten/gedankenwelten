@@ -138,6 +138,10 @@ Gabriel gründete DeepIn als „Labor" für die Praxis ethischer KI. Ausgründun
 
 ## Verbindungen
 
+### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
+
+Eine Stimme aus dem Globalen Süden zu Gabriels These, der Westen verstehe KI falsch: „Wir brauchen keine KI-Freundin, wir brauchen KI, die echte Probleme löst." Zweck und Ethik gegen die Logik der mächtigsten Maschine.
+
 ### → [[Markus Gabriel — Ethischer Kapitalismus]]
 
 Direkte Fortsetzung: Das Startup DeepIn ist die praktische Umsetzung der hier skizzierten Vision ethischer KI-Produkte

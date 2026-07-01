@@ -201,6 +201,10 @@ Der Doktorand im Q&A — Verfechter sozialer Marktwirtschaft und Wettbewerb — 
 
 ## Verbindungen
 
+### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
+
+Konés „nützlichste, nicht mächtigste KI" ist praktisch Jungs AI Directionism; sein institutioneller Optimismus (Smart Africa) trifft auf Kaltheuners Skepsis, ob Souveränitätsrhetorik ohne Marktumbau trägt.
+
 ### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet (rp26)]]
 
 Beide Sessions kreisen um denselben strukturellen Befund: Digitale Souveränität ist ohne aktive Marktgestaltung nicht erreichbar. Gehring/Gießmann kommen von der Geldseite (Bitcoin, Zentralbanken), Kaltheuner/Jung von der KI-Infrastruktur — aber der Kern ist derselbe: Abhängigkeit von US-Strukturen ist kein neutrales Schicksal, sondern politische Entscheidung.

@@ -141,6 +141,10 @@ Das wäre mehr als ein wirtschaftlicher Verlust. Es wäre ein Beweis dafür, das
 
 ## Verbindungen
 
+### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
+
+Von außerhalb des Machttischs betrachtet: Koné verlangt einen Platz, wo Tooze den Kampf um die KI-Kontrolle innerhalb der Zentren kartiert. Zusammen die volle Machtgeografie der KI.
+
 ### → [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
 
 Kaltheuner und Jung entwickeln den europäischen Gegenentwurf zu Toozes US-Diagnose: Statt Staat-zwingt-Kapital-zur-Militarisierung (Pentagon/Anthropic) fordert AI Directionism demokratisch legitimierte, gemeinwohlorientierte Lenkung von KI-Anwendungen. Beide Notes kreisen um dieselbe Grundfrage: Wer bestimmt, wohin KI steuert?

@@ -22,13 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### GoodNews
-
-> **30.06.** — [[GoodNews/Good News - Gute Nachrichten Juni 2026|Good News — Gute Nachrichten Juni 2026]]
->
-> Neun Erfolgsmeldungen aus einem Monat — von 250 Millionen Bäumen über kippende Energiebilanzen bis zu einem kirschroten Medikament, das Säuglinge vor Malaria retten soll.
-
 ### Zeitgeist
+
+> **01.07.** — [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
+>
+> Digitale Souveränität ist nicht Abschottung, sondern das Recht, die Systeme mitzugestalten, die uns gestalten — und Afrika wartet nicht länger auf eine Einladung in die Zukunft.
 
 > **29.06.** — [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert|phoenix-Runde — Rentenreform: Wer gewinnt, wer verliert?]]
 >
@@ -46,17 +44,23 @@ Die Gedankenwelten (luc)
 >
 > Eine Frau, die 16 Jahre lang europäische Diplomatie verkörperte, über das Recht des Stärkeren, die zweite Seite der Medaille und warum Demokratie kein Selbstläufer ist.
 
-> **23.06.** — [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]]
->
-> Ein Politiker verlässt freiwillig die Macht — und benennt von außen, was er von innen nur andeuten durfte: Geld ist Macht, und die soziale Frage wurde ins Kulturelle verschoben.
+> → *1 weitere in* [[Zeitgeist]]
 
-> → *2 weitere in* [[Zeitgeist]]
+### GoodNews
+
+> **30.06.** — [[GoodNews/Good News - Gute Nachrichten Juni 2026|Good News — Gute Nachrichten Juni 2026]]
+>
+> Neun Erfolgsmeldungen aus einem Monat — von 250 Millionen Bäumen über kippende Energiebilanzen bis zu einem kirschroten Medikament, das Säuglinge vor Malaria retten soll.
 
 ### Spuren
 
 > **29.06.** — [[Spuren/Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft?]]
 >
 > Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
+
+> **30.06.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
+>
+> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
 
 > **28.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >

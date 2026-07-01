@@ -264,6 +264,10 @@ Göpel differenziert scharf zwischen zwei Arten von „Bürokratie":
 
 ## Verbindungen
 
+### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
+
+Konés digitale Souveränität als eine Etage von Heins geoökonomischer Multipolarität: „Das intelligente Zeitalter wird nicht nur aus Brüssel, Washington oder Peking regiert" — der Globale Süden verlangt einen Platz am Tisch.
+
 ### → [[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
 
 Derselbe Podcast, dieselbe Gastgeberin — aber völlig anderer Zugang. Quent analysiert die innere Ohnmacht, Hein die äußere Abhängigkeit. Göpels „Forwardlash"-Begriff verbindet beides: Tech-Eliten, die um die planetaren Grenzen wissen, leiten daraus kontrollierte Ungleichheit ab. Hein zeigt die geoökonomische Variante: Staaten, die um Ressourcenknappheit wissen, leiten daraus territoriale Aggression ab. Trumps „Grab it" ist Forwardlash in Außenpolitik.

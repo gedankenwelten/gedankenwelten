@@ -215,6 +215,10 @@ Gießmann fügt hinzu: Visa und Mastercard werden das nicht ohne Weiteres tun �
 
 ## Verbindungen
 
+### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
+
+Konés Warnung vor Daten als neuer Rohstoff-Extraktion, gespiegelt im Zahlungsverkehr — und sein Mobile-Money-Leapfrog (~70 % der globalen Transaktionen) als positives Gegenbild zum europäischen Abhängigkeits-Befund.
+
 ### → [[Zeitgeist/Francesca Bria — The Authoritarian Stack|Francesca Bria — The Authoritarian Stack]]
 
 Bria kartiert, wie private US-Konzerne (Palantir, SpaceX, Stablecoins) staatliche Kernsouveränität übernehmen — inklusive der gezielten Strategie, öffentliche CBDCs durch private Krypto-Infrastruktur zu ersetzen. Gehring & Gießmann zeigen denselben Mechanismus im europäischen Zahlungsraum: Mastercard kauft 2003 die Eurocard, US-Konzerne dominieren 60–66% der grenzüberschreitenden Zahlungen. Bria nennt es "Privatized Sovereignty" — Gießmann nennt es "Souveränitätsverlust durch Übernahme". Die Ergänzung: Bria zeigt die US-Binnenperspektive (Staat gibt bewusst ab), Gehring/Gießmann zeigen die europäische Außenperspektive (Kontinent verliert, weil kein politischer Schutz da war).
