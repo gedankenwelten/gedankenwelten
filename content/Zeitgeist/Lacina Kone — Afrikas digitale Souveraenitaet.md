@@ -5,6 +5,7 @@ description: "Digitale Souveränität ist nicht Abschottung, sondern das Recht, 
 aktualisiert: 01.07.2026
 tags:
   - zeitgeist
+  - kalender
   - ki
   - geopolitik
   - technologie
