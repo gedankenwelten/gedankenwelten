@@ -9,6 +9,7 @@ tags:
   - yin-yang
   - zeitgeist
   - erkenntnistheorie
+  - paradox
 ---
 
 # Yin und Yang — Alles trägt sein Gegenteil in sich

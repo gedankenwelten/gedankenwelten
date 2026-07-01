@@ -7,6 +7,9 @@ tags:
   - philosophie
   - erkenntnistheorie
   - ethik
+  - paradox
+  - komplexität
+  - dialogique
   - year-2026
 aliases:
   - Morin komplexes Denken
