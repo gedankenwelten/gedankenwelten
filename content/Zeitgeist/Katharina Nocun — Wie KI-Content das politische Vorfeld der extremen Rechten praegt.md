@@ -297,6 +297,10 @@ Nocuns KI-Analyse und diese Note sind zwei Seiten derselben Praxis: Während Noc
 
 Das Geländer bei Arendt ist die gemeinsame Faktizität — die geteilte Realität, die es uns ermöglicht, selbst zu urteilen, ohne jeden Einzelfall von Grund auf neu zu durchdenken. Nocuns gesamter Vortrag ist eine Dokumentation davon, wie dieses Geländer systematisch zerstört wird: Decline Porn, Fake-Vox-Pops, KI-Slop-Parallelrealitäten. Wenn Menschen nicht mehr wissen, ob das Interview echt ist, ob das Familienbild real ist, ob Berlin wirklich brennt — verlieren sie genau das, was Arendt als die demokratische Mindestkompetenz beschreibt: die Fähigkeit, zwischen wahr und falsch zu unterscheiden. Die Erschöpfung der Faktizität ist die technologische Ausführung von Arendts schlimmstem Szenario.
 
+### → [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Heims & Stark — Who the f#ck is Agartha?]]
+
+Heims und Stark zeigen denselben Camouflage-Mechanismus als Meme-Community: Was hier die Esoterik-Pipeline ist, ist bei Agartha die Ironie-Tarnung — beide machen menschenfeindliche Inhalte anschlussfähig, indem sie harmlos aussehen und algorithmisch perfekt produziert sind.
+
 ---
 
 ## Weiterdenken

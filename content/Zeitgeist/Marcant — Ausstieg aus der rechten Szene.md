@@ -188,6 +188,10 @@ Staiy analysiert den Mechanismus, den Marcant von innen kennt: Angst als Klicktr
 
 Maas beschreibt die Voraussetzungen, unter denen Radikalisierung möglich wird: Jugendliche ohne epistemische Resilienz, mit erlernter Hilflosigkeit und Algorithmus-Exponierung. Marcants Fallstudie illustriert, was fehlt — und wie der Wiedererwerb dieser Reflexionsfähigkeit nicht im Klassenzimmer, sondern durch Beziehung und Scham ausgelöst wird.
 
+### → [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Heims & Stark — Who the f#ck is Agartha?]]
+
+Heims und Stark liefern die Meme-Anatomie zu Marcants „Trendrechts": Die Agartha-Sphäre hält nicht Glaube und nicht Witz zusammen, sondern reine Gruppenidentität — genau der Kitt, der Felix band, bevor er ideologisch überzeugt war. Beide zeigen: Der Ausstieg muss an der Zugehörigkeit ansetzen, nicht an der Weltanschauung.
+
 ---
 
 ## Weiterdenken

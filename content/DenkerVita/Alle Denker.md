@@ -185,6 +185,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## L
 
+**[[DenkerVita/Leonie Heims|Leonie Heims]]** — Kommunikations- und Sprachwissenschaftlerin, wissenschaftliche Mitarbeiterin bei modus | zad; Verschwörungserzählungen, Desinformation, Souveränismus/„Reichsbürger“; Aufklärung mit Fakten und Humor (Projekt „Der Fabulant“)
+
 **[[DenkerVita/Leonhard Dobusch|Leonhard Dobusch]]** — Österreichischer Wirtschaftswissenschaftler, Professor für Organisation (Universität Innsbruck); Öffentlich-rechtliche Medien als Demokratie-Infrastruktur, mediale Immunisierung gegen Faschismus, digitale Gemeinschaften und Offenheit als Organisationsprinzip; ZDF-Verwaltungsrat, Co-Founder Momentum Institut; Bert-Donnepp-Preis 2019 für Transparenz im öffentlich-rechtlichen Mediensystem
 
 **[[DenkerVita/Liya Yu|Liya Yu]]** — Politikwissenschaftlerin, neuropolitische Philosophin; Mitbegründerin Neuropolitik; Mentalisierung statt Moralisierung, Dehumanisierung als kognitive Fähigkeit, In-Group-Erweiterung
@@ -289,6 +291,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ralf Stockmann|Ralf Stockmann]]** — Bibliothekar und Digital-Stratege (ZLB / Staatsbibliothek Berlin); profilierte Fediverse-Stimme, Mastodon-UX-Reformer; Schöpfer von Ultraschall, Mastowall, Sendegate; „+1"-Prinzip (öffentliches Geld → Fediverse-Pflicht)
 
 ## T
+
+**[[DenkerVita/Tim Stark|Tim Stark]]** — Referent (kognitive Einflussnahme) im re:publica-26-Talk „Who the f#ck is Agartha?“; wie ironische Meme-Kulturen extremistische Inhalte kognitiv anschlussfähig machen
 
 **[[DenkerVita/Teresa Bücker|Teresa Bücker]]** — Journalistin, Autorin; Zeitgerechtigkeit, Zeitwohlstand, Sorgearbeit; NDR Sachbuchpreis 2023 für *Alle_Zeit*
 

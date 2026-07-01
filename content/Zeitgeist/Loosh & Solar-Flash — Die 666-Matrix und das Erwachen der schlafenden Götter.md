@@ -339,6 +339,10 @@ Fromms „Flucht aus der Freiheit": Wer die Unerträglichkeit autonomer Existenz
 
 Das Video adressiert echte Resonanzsehnsucht (Verbindung, Bedeutung, Transzendenz) und bietet eine verzerrte, paranoid überformte Antwort an.
 
+### → [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Heims & Stark — Who the f#ck is Agartha?]]
+
+Wo das Loosh-Narrativ eine geschlossene Glaubenswelt baut, zeigt die Agartha-Sphäre den Fall ohne Glauben: dasselbe okkult-rechte Motivinventar, aber getragen von Meme-Zugehörigkeit statt Überzeugung. Ein Lehrstück darüber, dass Radikalisierung heute weniger geschlossene Weltbilder als kompatible Bruchstücke braucht.
+
 ---
 
 ## Weiterdenken

@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Leonie Heims & Tim Stark — Who the f#ck is Agartha?
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26: Who the f#ck is Agartha?](https://www.youtube.com/watch?v=MkFdjOmdsL0) (19.05.2026, CC BY-SA 4.0, 34 Min) |
+| **Notiz** | [[Leonie Heims und Tim Stark — Who the fck is Agartha]] |
+| **DenkerVita** | [[DenkerVita/Leonie Heims]] · [[DenkerVita/Tim Stark]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Heims_Stark_Agartha_Transkript.txt` |
+| **Session-Seite** | [re-publica.com](https://re-publica.com/de/session/who-fck-agartha) |
+
 ## Edgar Morin — Das komplexe Denken
 
 | | |
