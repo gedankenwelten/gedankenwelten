@@ -86,6 +86,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Albert Camus
 **Status:** ✓ Vollanalyse → [[DenkerVita/Albert Camus]]
 
+## Edgar Morin
+**Status:** ✓ Vollanalyse — [[DenkerVita/Edgar Morin]]
+
 ## Albert Moukheiber
 **Status:** Stub
 

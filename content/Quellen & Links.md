@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Edgar Morin — Das komplexe Denken
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Ein Philosoph mit Einfluss: Edgar Morin — Doku HD, ARTE](https://www.youtube.com/watch?v=cjqKYRCEVEM) (Jean-Michel Djian, F 2020, 54 Min) |
+| **Notiz** | [[Edgar Morin — Das komplexe Denken]] |
+| **DenkerVita** | [[DenkerVita/Edgar Morin]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Morin_Philosoph_Einfluss_Transkript.txt` |
+
 ## KI als Subjekt — Recherchematerial (Achse B, noch keine Note)
 
 > Zwei Video-Essays, ausgewertet als dritte Stimme für die spätere „Achse B"-Arbeit (KI als Akteur/Macht). Noch keine Note — Rohmaterial.
