@@ -9,6 +9,9 @@ tags:
   - philosophie
   - erkenntnistheorie
   - ethik
+  - paradox
+  - komplexität
+  - dialogique
   - year-2026
 aliases:
   - Das verwobene Denken

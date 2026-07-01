@@ -1,6 +1,6 @@
 ---
 title: Edgar Morin — DenkerVita
-tags: [denker-vita, philosophie, soziologie, erkenntnistheorie, ethik]
+tags: [denker-vita, philosophie, soziologie, erkenntnistheorie, ethik, komplexität, dialogique, paradox]
 ---
 
 # Edgar Morin — DenkerVita
