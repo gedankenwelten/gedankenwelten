@@ -289,6 +289,10 @@ Amlinger/Nachtwey erklären die emotionale Infrastruktur hinter dem, was Brocksc
 
 Dog Whistles setzen einen Empfänger voraus, der hören will — und Fromms autoritärer Charakter ist dieser Empfänger. Die Codes funktionieren nicht als Überzeugung, sondern als Wiedererkennungsritual: Sie signalisieren der Ingroup „wir wissen, wer wir sind" und bieten dem Einzelnen Erlösung vom eigenständigen Urteil. Fromms Diagnose, dass der masochistische Charakter Unterwerfung begehrt statt Freiheit, erklärt die Empfänglichkeit für eine Kommunikationsform, die auf Doppeldeutigkeit und plausible deniability aufgebaut ist.
 
+### → [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Heims & Stark — Who the f#ck is Agartha?]]
+
+Die Agartha-Sphäre führt das Dog-Whistle-Prinzip in seine Meme-Endstufe: Die Tarnung ist nicht mehr ein Codewort, sondern der Witz selbst — „It's not that deep" macht plausible deniability zum Community-Immunsystem, das seine eigenen Verbreiter nicht einweihen muss.
+
 ---
 
 ## Weiterdenken

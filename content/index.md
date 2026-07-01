@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **02.07.** — [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Who the f#ck is Agartha? — Vom Vril-Roman zur rechtsextremen Meme-Welt]]
+>
+> Ein Verschwörungsmythos reist 150 Jahre — vom viktorianischen Roman über Himmlers Pseudoforschung bis in den TikTok-Feed, wo der Witz die Tarnung der Ideologie ist.
+
 > **01.07.** — [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
 >
 > Digitale Souveränität ist nicht Abschottung, sondern das Recht, die Systeme mitzugestalten, die uns gestalten — und Afrika wartet nicht länger auf eine Einladung in die Zukunft.
@@ -39,10 +43,6 @@ Die Gedankenwelten (luc)
 > **25.06.** — [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig|GFF-Gutachten — Die AfD ist verfassungswidrig]]
 >
 > Ein Jahr ergebnisoffen geprüft, dann ein klares Urteil: Die AfD ist verfassungswidrig — getragen von zwei Säulen, von denen jede allein genügt.
-
-> **24.06.** — [[Zeitgeist/Angela Merkel — Trotz allem Hoffnung Europa|Angela Merkel — Trotz allem: Hoffnung Europa?]]
->
-> Eine Frau, die 16 Jahre lang europäische Diplomatie verkörperte, über das Recht des Stärkeren, die zweite Seite der Medaille und warum Demokratie kein Selbstläufer ist.
 
 > → *1 weitere in* [[Zeitgeist]]
 
@@ -86,7 +86,7 @@ Die Gedankenwelten (luc)
 >
 > Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
 
-> **30.06.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
+> **02.07.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
 >
 > Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
 

@@ -267,3 +267,7 @@ Innenperspektive zur rechten Mediabubble: Marcant beschreibt den Sogmechanismus 
 
 ### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
 Dobusch/Zaboura formulieren auf der re:publica 26 denselben Teufelskreis, den Staiy an der Leipzig/Aschaffenburg-Medienanalyse aufzeigt: strukturelle Medienlogik ohne böse Absicht erzeugt systematisch Bias. Staiy nennt es Klick-Ökonomie, D/Z nennen es „Performing balance by practicing bias" — beide beschreiben denselben Mechanismus, nur auf verschiedenen Qualitätsstufen. Staiys Boulevard-Befund und D/Zs Qualitätsjournalismus-Befund zusammen: Der Teufelskreis gilt überall.
+
+### → [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Heims & Stark — Who the f#ck is Agartha?]]
+
+Heims formuliert die andere Hälfte von Staiys Medienkritik: Nicht nur Schweigen versagt, auch das verharmlosende Berichten arbeitet der rechten Meme-Sphäre zu. Beide umkreisen dieselbe Klinge — Aufmerksamkeit als Verstärker, Schweigen als Normalisierung.

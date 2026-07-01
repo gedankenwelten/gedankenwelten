@@ -664,3 +664,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Andreas Bartels
 **Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Bartels]]
+
+## Leonie Heims
+**Status:** ✓ Vollanalyse → [[DenkerVita/Leonie Heims]]
+
+## Tim Stark
+**Status:** ✓ Vollanalyse → [[DenkerVita/Tim Stark]]

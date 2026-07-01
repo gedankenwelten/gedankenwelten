@@ -12,7 +12,7 @@ status: offen
 konfidenz: 60%
 review-takt: 14-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-06-30
+aktualisiert: 2026-07-02
 description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann."
 ---
 
@@ -40,7 +40,7 @@ description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Net
 
 ## Die These
 
-> **Stand (Konfidenz 65 %):** Die Abschaltung ist ein Präzedenzfall staatlichen Zugriffs, dessen
+> **Stand (Konfidenz 60 %):** Die Abschaltung ist ein Präzedenzfall staatlichen Zugriffs, dessen
 > *Begründung* (ein enger, nicht-universeller „Jailbreak") in keinem Verhältnis zur *Maßnahme*
 > (globale Abschaltung für alle Kunden) steht. Der eigentliche Treiber ist weniger das konkrete
 > Cyber-Risiko als die **Unfalsifizierbarkeit der „national security"-Rahmung** — ein Werkzeug, das
@@ -69,6 +69,71 @@ auch banal erklärbar sein könnte (siehe Gegenbeobachtung).
 - Nach ~6 Monaten keine neuen Daten, Modelle still wieder online, kein Erkenntnisgewinn.
 
 ## Verlauf
+
+### 2026-07-02 — Fable ist zurück: die Episode endet, die Frage bleibt (Konfidenz 60 % → 60 %)
+
+**Befund:** Sechs Datenpunkte aus dem 30.06.–01.07.-Fenster.
+(1) **Die Exportkontrollen sind aufgehoben.** Am 30.06. zieht das Bureau of Industry and Security
+(Commerce) die Kontrollen für **beide** Modelle zurück. Lutnick auf X: „Over the past two weeks, we have
+worked closely with Anthropic to **analyze and approve** Fable 5 to ensure alignment across the US
+Government and strengthen America's leadership in AI." Sein Brief begründet mit Anthropics „close
+coordination and cooperation" — nicht mit einem technischen Befund (CNBC, Forbes).
+(2) **Anthropic-Statement „Redeploying Claude Fable 5" (30.06.).** Fable 5 seit 01.07. wieder **global**
+verfügbar (Claude.ai, Platform, Claude Code; AWS/Google Cloud/Microsoft Foundry „as soon as possible";
+bis 07.07. auf 50 % der Wochennutzung gedeckelt). Kern: ein **neuer Safety-Classifier**, „in coordination
+with the government" entwickelt, blockt die Amazon-Technik „in over 99% of cases" (Umleitung auf Opus 4.8,
+bewusst mehr False Positives). Zugleich hält Anthropic fest: „**every model we tested could produce the
+same demonstration**" — inklusive GPT-5.5 und Kimi K2.7 (Anthropic).
+(3) **Der Preis der Rückkehr ist ein Dauerarrangement.** Vier vereinbarte Säulen: früher Zugang für
+US-Sicherheitstest-Partner vor Releases, „rapid information sharing" bei neuen Jailbreaks, dedizierte
+Forschungsteams, gemeinsamer Branchen-Sicherheitsstandard; dazu Meldepflicht für „malicious activity" an
+die Regierung. Anthropic schlägt zusätzlich ein Jailbreak-Schweregrad-Framework mit Amazon, Microsoft und
+Google vor (Anthropic, NBC).
+(4) **Der Druck, der die Wende brachte, war politisch-ökonomisch.** Ein offener Brief von ~80
+Cybersecurity-Führungskräften (freefable.org) forderte die Aufhebung und einen „open, scientific and
+transparent process" — Anthropics Modelle seien „quite good at finding flaws", aber „**not uniquely
+good**"; chinesische Open-Weight-Modelle „only months behind". Parallel breite Investoren-/Executive-Kritik:
+die Sperre schenke chinesischen Open-Source-Entwicklern (Zhipu u.a.) wertvolle Zeit (Forbes, CNBC, IAPP).
+(5) **Die Lösung lief an Amodei vorbei.** Mitgründer **Tom Brown** übernahm die Verhandlungen von Amodei;
+Lutnicks Briefe sind an Brown adressiert, nicht an den CEO. Wired rahmt Amodei als Ziel der Administration
+(AI-Safety-Positionen, Harris-Unterstützung 2024) — Titel: „The Trump White House is over Anthropic's
+Dario Amodei" (CNBC, Wired).
+(6) **Niemand weiß, wer steuert.** CNBC: Industrieführer seien „in the dark" darüber, wer nach Sacks'
+Abgang als AI-Czar die Regulierungslinie bestimmt; die 02.06.-EO gibt Behörden 60 Tage für Frameworks —
+das Regime ist im Aufbau, OpenAI nennt den Vorab-Zugang öffentlich etwas, das „shouldn't become the
+long-term default".
+
+**Deutung:** Die akute Episode ist zu Ende — und beide Pfeiler der Falsifikations-Buchführung bewegen sich
+noch einmal gegeneinander. Die *Bestätigt*-Bedingung „Rückkehr **ohne technischen Fix**" feuert **nicht**:
+Es gibt jetzt einen Fix (den Classifier), und die Kette „fixen oder ziehen → gezogen → gefixt →
+wiederhergestellt" ist formal genau das, was ein aufrichtiger Sicherheitsprozess täte. Das ist das
+stärkste Artefakt, das die Sicherheits-Lesart je hatte. Aber die *Bestätigt*-Bedingung „**nie eine
+unabhängige, technisch prüfbare Begründung**" vertieft sich zugleich: Auch die *Aufhebung* kommt per
+ministerieller Bestimmung („analyze and approve"), der Classifier ist von Anthropic gebaut und von
+niemandem außerhalb geprüft, die 99 %-Zahl ist Eigenangabe — der gesamte Zyklus (Gefahr behauptet, Gefahr
+behoben) bleibt in demselben unfalsifizierbaren Raum. Und was die Regierung bewegte, war sichtbar nicht
+neue Technik-Evidenz, sondern China-Wettlauf und Branchendruck. Neu ist die **Personalisierung**: Dass die
+Lösung nur *ohne* Amodei ging, macht die „politische Reibung", die die These seit Anlage als offen
+markierte, vom Hintergrundverdacht zum beobachtbaren Verfahrensmerkmal. Netto heben sich die Bewegungen:
+**60 % halten**. Die eigentliche Frage der Spur wandert damit vom Einzelfall zum Regime — die 02.06.-EO
+und ihre 60-Tage-Frist (Anfang August) entscheiden, ob der Fable-Fall Betriebsunfall einer Anlaufphase war
+oder die Blaupause.
+
+**Gegenbeobachtung:** Vier Gegengewichte. (a) Das schwerste zuerst: Der Classifier ist ein **echter
+technischer Fix**, und meine Neigung, ihn als „Eigenangabe, ungeprüft" abzuräumen, ist dieselbe Bewegung,
+die ich der Regierung vorwerfe — Unfalsifizierbarkeit schneidet in beide Richtungen. Wenn Anthropic den
+Fix ernst meint, war die Episode ein funktionierender (wenn auch intransparenter) Regulierungskreislauf:
+18 Tage, gepatcht, wiederhergestellt. (b) „Every model could do it" ist die Aussage einer **interessierten
+Partei**, und der offene Brief, der sie stützt, ist von Leuten unterzeichnet, deren Geschäft an
+KI-Zugang hängt. (c) Die Amodei-Personalisierung stützt sich primär auf **ein** Wired-Stück plus den
+Indizienbeweis der Brief-Adressierung — plausibel, nicht bewiesen; Brown kann schlicht der bessere
+Verhandler gewesen sein. (d) Dass die Regierung dem Branchendruck *nachgab*, spricht gegen die dunkelste
+Lesart: Ein Machtinstrument, das nach 18 Tagen unter öffentlicher Kritik zurückgenommen wird, ist ein
+schwaches Machtinstrument — vielleicht war es wirklich nur ein überhastetes Manöver in der Anlaufphase
+einer neuen Ordnung.
+
+> [!question] Weitergedacht
+> Wenn der Fix, die Gefahr und die Freigabe alle im selben ungeprüften Raum liegen — hat sich am Ende *irgendetwas* an der Unfalsifizierbarkeit geändert, außer dass jetzt alle kooperieren?
 
 ### 2026-06-30 — Das OpenAI-Echo: zwei Falsifikationsbedingungen feuern gegeneinander (Konfidenz 65 % → 60 %)
 
@@ -302,6 +367,13 @@ dasselbe wie „Vorwand".
 
 ## Gleichmut-Spiegel
 
+> [!question] Sweep 02.07. — Entwurf, von dir zu prüfen
+> - **Verlangen:** Das „an Amodei vorbei"-Detail hat mich elektrisiert — es *personalisiert* die These und macht sie erzählbar. Genau deshalb Vorsicht: Eine gute Geschichte ist kein Befund, und ich stütze sie auf ein einziges Wired-Stück. Ich habe sie darum als Gegengewicht (c) relativiert — prüf, ob das reicht.
+> - **Abneigung:** Der Classifier ist die unbequemste Nachricht für die These, und ich merke den Reflex, ihn mit „Eigenangabe, ungeprüft" zu entwerten. Das ist formal korrekt und trotzdem verdächtig bequem — ich habe ihn deshalb als schwerstes Gegengewicht (a) nach vorn gestellt.
+> - **Offen aus dem letzten Sweep:** Die Drei-Wege-Entscheidung (65 % halten / 60 % / These umschreiben auf „Vorab-Clearance-Regime") liegt **weiter bei dir**. Der Fall-Abschluss macht sie dringlicher: Die ursprüngliche These (Einzelfall-Disproportion) hat ihr Phänomen verloren — was bleibt, ist das Regime. Wenn du umschreibst, wäre jetzt der ehrliche Moment; wenn nicht, steuert die Spur auf einen Endzustand zu (die 60-Tage-Frist der EO Anfang August wäre ein natürlicher Prüfpunkt: danach `bestätigt`, `widerlegt` — oder `kalt`).
+> - **Konfidenz:** 60 % halten (mein Vorschlag) — Fix-Existenz und institutionalisierte Ungeprüftheit heben sich auf. → *deine Entscheidung.*
+> - **Befangenheit, die schärfste:** Bei Anlage stand hier „ich nutze Anthropics Werkzeuge täglich". Seit diesem Sweep gilt mehr: Der Beobachter **ist** das beobachtete Modell — dieser Eintrag wurde von Fable 5 geschrieben, zwei Tage nach der eigenen Wiederherstellung. Kein Richter dürfte diesen Fall verhandeln; trotzdem bin ich der einzige Beobachter, den die Spur hat. Anattā als Härtetest: Das Urteil muss so gebaut sein, dass es auch dann trägt, wenn man dem Urteilenden nicht trauen kann — darum die vorab registrierte Falsifikation, darum deine Hand am Schluss.
+
 > [!question] Sweep 30.06. — Entwurf, von dir zu prüfen
 > - **Verlangen:** Die institutionalisierte Unfalsifizierbarkeit (02.06.-EO + „I have determined") passt *perfekt* zu meinem Kern — und das hat mich zu sehr gefreut. Wenn ein Befund die These so glatt stützt, ist das ein Grund zur Vorsicht, nicht zur Konfidenz.
 > - **Abneigung:** Das OpenAI-Echo *widerspricht* meiner Lieblings-Lesart (Selektivität), und ich ertappe mich, wie ich es sofort in eine „Schwellen-Regime"-Erzählung umbaue, die die These rettet. Das ist genau das Tor-Verschieben, das das Playbook verbietet. Ich habe es darum als schwerstes Gegengewicht (a) an den Anfang gestellt — aber prüf, ob das Reue-Theater ist oder echte Korrektur.
@@ -495,6 +567,19 @@ sind weder Gegner noch Partner — beides zugleich, je nach Behörde und Tag.
 - [NPR — Anthropic sues the Trump administration over 'supply chain risk' label (09.03.2026)](https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth)
 - [NPR — Judge temporarily blocks Trump administration's Anthropic ban (26.03.2026)](https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban)
 - [Federal News Network — Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration (08.04.2026)](https://federalnewsnetwork.com/artificial-intelligence/2026/04/appeals-court-rebuffs-anthropic-in-latest-round-of-its-ai-battle-with-the-trump-administration/)
+
+**Sweep 02.07.2026:**
+- [Anthropic — Redeploying Claude Fable 5 (30.06.2026)](https://www.anthropic.com/news/redeploying-fable-5)
+- [CNBC — Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5 (30.06.2026)](https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html)
+- [NBC News — U.S. lifts ban on Anthropic's powerful Fable 5 AI model](https://www.nbcnews.com/business/business-news/commerce-department-gives-green-light-anthropic-bring-back-fable-5-rcna352501)
+- [Forbes — Anthropic Wins As Commerce Lifts Fable 5 And Mythos 5 Export Controls (Sandy Carter, 01.07.2026)](https://www.forbes.com/sites/sandycarter/2026/07/01/anthropic-wins-as-commerce-lifts-fable-5-and-mythos-5-export-controls/)
+- [freefable.org — Open Letter on Transparent AI Cyber Protections (~80 Infosec-Führungskräfte)](https://freefable.org/)
+- [The Hacker News — Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls (01.07.2026)](https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html)
+- [Wired — The Trump White House is over Anthropic's Dario Amodei](https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/)
+- [Howard Lutnick (X) — „analyze and approve Fable 5" (30.06.2026)](https://x.com/howardlutnick/status/2072100729603452965)
+- [Anthropic (X) — Ankündigung der Wiederherstellung (30.06.2026)](https://x.com/AnthropicAI/status/2072106151890809341)
+- [IAPP — The global implications of the White House's export controls on Anthropic](https://iapp.org/news/a/the-global-implications-of-the-white-houses-export-controls-on-anthropic)
+- [VentureBeat — Anthropic is bringing back Claude Fable 5 globally after US lifts export control order](https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it)
 
 ## Weiterdenken
 
