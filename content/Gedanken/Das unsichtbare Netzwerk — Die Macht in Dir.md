@@ -271,7 +271,7 @@ Der Faden kehrt zurück. Ohne Herkunftsadresse. Und doch erkenne ich ihn.
 
 ### → [[Das verwobene Denken — im Geiste Edgar Morins]]
 
-Wendet das Bild des Netzwerks auf Kultur an: was einmal verwoben wurde, verschwindet nie ganz — es wird schwächer und prägt trotzdem das Neue. In Edgar Morins Stimme wird daraus die Widerlegung der Angst vor dem „Kulturverlust": ein Fluss verliert sich nicht, wenn neues Wasser hinzukommt.
+Wendet das Bild des Netzwerks auf Kultur an: was einmal verwoben wurde, verschwindet nie ganz — es wird schwächer und prägt trotzdem das Neue. Mit Edgar Morin gedacht, wird daraus die Widerlegung der Angst vor dem „Kulturverlust": ein Fluss verliert sich nicht, wenn neues Wasser hinzukommt.
 
 ### → [[Hans Maggi — Sokotra]]
 
