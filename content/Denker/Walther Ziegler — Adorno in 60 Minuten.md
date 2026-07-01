@@ -179,6 +179,7 @@ Erstens: *„Man sollte so leben, wie man in einer befreiten Welt glaubt leben z
 
 ## Verbindungen
 
+- [[Edgar Morin — Das komplexe Denken]] — Der Gegenpol zur Kulturindustrie-These: Wo Adorno „Massenkultur" als Verblendung entlarvt, verteidigt Morin sie und nennt die intellektuelle Verachtung ein „Gespenst der Intellektuellen" — Chaplin und Piaf als das quer durch alle Schichten Verbindende.
 - [[Walther Ziegler — Hegel in 60 Minuten]] — Adorno antwortet direkt auf Hegel: „Das Ganze ist das Unwahre" kehrt Hegels „Das Wahre ist das Ganze" um. Wo Hegel Versöhnung sieht, sieht Adorno den Verblendungszusammenhang.
 - [[Erich Fromm — Haben oder Sein]] — Fromm war Mitglied der Frankfurter Schule und teilte Adornos Kapitalismuskritik, setzte aber auf die Liebesfähigkeit des Menschen als Ausweg — genau das, was Adorno für verloren hielt.
 - [[Erich Fromm — Psychoanalyse des Faschismus]] — Beide analysieren den Faschismus als Produkt der modernen Gesellschaft, nicht als historischen Betriebsunfall.
