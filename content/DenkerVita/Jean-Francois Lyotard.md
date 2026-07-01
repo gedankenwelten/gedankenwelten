@@ -91,7 +91,7 @@ Im Streit mit Habermas und der Frankfurter Schule ist Lyotard der **Außenseiter
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne ergänzt.*
+- [[Edgar Morin — Das komplexe Denken]] — Zwei französische Denker mit derselben Biografie-Wurzel (engagierter Marxist, dann radikaler Bruch mit jeder Großerzählung), die entgegengesetzte Konsequenzen ziehen: Lyotard verabschiedet die Metaerzählung ersatzlos, Morin sucht mit der *pensée complexe* eine neue Weise, das Ganze zu denken, ohne in die alte Totalität zurückzufallen.
 
 ---
 

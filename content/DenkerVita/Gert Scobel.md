@@ -77,7 +77,7 @@ Politisch ist er schwer einzuordnen — er macht keine parteipolitischen Aussage
 
 ## Verbindungen zu anderen Denkern
 
-*(Montaigne ergänzt)*
+- [[Edgar Morin — Das komplexe Denken]] — Scobel ist der lebende Praktiker von Morins Programm: Interdisziplinarität als Beruf, gepaart mit der epistemischen Demut, die die Grenzen des Messbaren markiert. Wo Morin das transdisziplinäre Denken entwirft, führt Scobel es öffentlich vor.
 
 ---
 

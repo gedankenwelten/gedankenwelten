@@ -60,7 +60,12 @@ Vom Widerstand kommend, undogmatisch links, aber nie parteigebunden — der Auss
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Jean-Francois Lyotard]] — Dieselbe Biografie-Wurzel (Marxismus, dann Bruch mit jeder Großerzählung), entgegengesetzte Konsequenz: Lyotard verabschiedet die Metaerzählung ersatzlos, Morin sucht mit der *pensée complexe* das Ganze neu zu denken, ohne in die Totalität zurückzufallen.
+- [[DenkerVita/Zhao Tingyang]] — Terre-Patrie und Tianxia: zwei Entwürfe einer planetaren Schicksalsgemeinschaft ohne Außen — durch geteilte Probleme (Morin) gegen Ordnung durch Zentrum und Anziehung (Zhao).
+- [[DenkerVita/Gert Scobel]] — Der lebende Praktiker von Morins Programm: transdisziplinäres Denken mit epistemischer Demut, öffentlich vorgeführt.
+- [[DenkerVita/Liya Yu]] — Zwei Naturalisten gegen den Machbarkeitsglauben: aus Wissen folgt kein ethischer Fortschritt.
+- [[DenkerVita/Maja Goepel]] — Die „tyrannischen Zahlen": Kritik an der Reduktion der Politik auf BIP und Berechenbares.
+- Theodor W. Adorno (→ [[Walther Ziegler — Adorno in 60 Minuten]]) — Gegenpol in der Massenkultur-Frage: Kulturindustrie als Verblendung gegen die Verteidigung des quer durch die Schichten Verbindenden.
 
 ## Gedankenwelten-Notes
 
