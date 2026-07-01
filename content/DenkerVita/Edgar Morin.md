@@ -45,6 +45,14 @@ tags: [denker-vita, philosophie, soziologie, erkenntnistheorie, ethik]
 | [Unser Europa. 65 Thesen](https://www.genialokal.de/suche/?q=Unser+Europa+65+Thesen+Morin) | 2013 (dt. 2023) | Mit Mauro Ceruti — Europa als komplexes, unvollendetes Projekt. |
 | [Von Krieg zu Krieg. Von 1940 bis zur Invasion der Ukraine](https://www.genialokal.de/suche/?q=Von+Krieg+zu+Krieg+Morin) | 2023 | Der 102-Jährige über ein Jahrhundert Gewalt — vom eigenen Widerstand bis zum Ukrainekrieg. |
 
+## Frei im Original zugänglich (Texte)
+
+*Morins Werk ist urheberrechtlich geschützt (er starb 2026) — hier nur legal frei verfügbare Originaltexte, verlinkt, nicht gehostet.*
+
+- [Les sept savoirs nécessaires à l'éducation du futur](https://eduq.info/xmlui/bitstream/handle/11515/21527/Morin_17_3.pdf) (UNESCO, 1999) — der frei zugänglichste längere Originaltext: sieben Wissensgrundlagen für eine zukunftsfähige Bildung, vom Umgang mit dem Irrtum bis zur planetaren Ethik. ([Überblick](https://fr.wikipedia.org/wiki/Sept_savoirs_n%C3%A9cessaires_%C3%A0_l%27%C3%A9ducation_du_futur))
+- [Edgar Morin ou l'éloge de la pensée complexe](https://lejournal.cnrs.fr/articles/edgar-morin-ou-leloge-de-la-pensee-complexe) (CNRS Le Journal) — offizieller, freier Essay-Überblick über das komplexe Denken.
+- [« L'espoir n'est jamais une certitude »](https://nawaat.org/2015/06/10/interview-avec-edgar-morin-lespoir-nest-jamais-une-certitude/) (Interview, 2015) — Morin über Hoffnung, Ungewissheit und Engagement.
+
 ## Empfehlenswerte Videos & Vorträge
 
 - [Ein Philosoph mit Einfluss: Edgar Morin](https://www.youtube.com/watch?v=cjqKYRCEVEM) — ARTE-Doku von Jean-Michel Djian (F 2020, 54 Min) über Leben und Denken (die Quelle der zugehörigen Note); auch in der [ARTE-Mediathek](https://www.arte.tv/de/videos/098789-000-A/ein-philosoph-mit-einfluss-edgar-morin/)

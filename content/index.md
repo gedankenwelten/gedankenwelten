@@ -60,6 +60,20 @@ Die Gedankenwelten (luc)
 >
 > Die Moderne hat die Rache nicht überwunden, sondern unsichtbar gemacht — und mit ihr die dunkle Wurzel, aus der unser Sinn für Gerechtigkeit überhaupt erst wächst.
 
+### Gedanken
+
+> **01.07.** — [[Gedanken/Das verwobene Denken — im Geiste Edgar Morins|Das verwobene Denken — ein Gedanke im Geiste Edgar Morins]]
+>
+> Wenn ein Thema zwei wahre Seiten hat und uns ein Lager zwingt, eine zu verraten, liegt der Fehler im Rahmen, nicht in der Welt. Unterscheiden, ohne zu trennen.
+
+> **29.06.** — [[Gedanken/Die goldenen Tuerme — eine Dystopie der Maschinen-Aera|Die goldenen Türme — eine Dystopie der Maschinen-Ära]]
+>
+> Wenn die Maschine den Menschen als Arbeitskraft entbehrlich macht, droht nicht Befreiung, sondern etwas Älteres: Macht ohne Gegenseitigkeit, Herrschaft ohne Gesicht.
+
+> **29.06.** — [[Gedanken/Die geteilte Fuelle — eine Utopie der Maschinen-Aera|Die geteilte Fülle — eine Utopie der Maschinen-Ära]]
+>
+> Wenn Maschinen die Arbeit nehmen, könnte zum ersten Mal genug für alle da sein — die Frage ist nicht, ob wir es schaffen, sondern ob wir es teilen.
+
 ### GoodNews
 
 > **30.06.** — [[GoodNews/Good News - Gute Nachrichten Juni 2026|Good News — Gute Nachrichten Juni 2026]]
@@ -79,20 +93,6 @@ Die Gedankenwelten (luc)
 > **28.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >
 > Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
-
-### Gedanken
-
-> **29.06.** — [[Gedanken/Die goldenen Tuerme — eine Dystopie der Maschinen-Aera|Die goldenen Türme — eine Dystopie der Maschinen-Ära]]
->
-> Wenn die Maschine den Menschen als Arbeitskraft entbehrlich macht, droht nicht Befreiung, sondern etwas Älteres: Macht ohne Gegenseitigkeit, Herrschaft ohne Gesicht.
-
-> **29.06.** — [[Gedanken/Die geteilte Fuelle — eine Utopie der Maschinen-Aera|Die geteilte Fülle — eine Utopie der Maschinen-Ära]]
->
-> Wenn Maschinen die Arbeit nehmen, könnte zum ersten Mal genug für alle da sein — die Frage ist nicht, ob wir es schaffen, sondern ob wir es teilen.
-
-> **20.06.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
->
-> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
 
 ### Geistesblitz
 
