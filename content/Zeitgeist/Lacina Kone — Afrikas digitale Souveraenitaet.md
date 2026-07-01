@@ -248,6 +248,10 @@ Tooze kartiert den Kampf um die KI-Kontrolle *innerhalb* der Machtzentren; Koné
 
 Gabriels These, der Westen verstehe KI grundfalsch, findet bei Koné eine Stimme aus dem Globalen Süden: „Wir brauchen keine KI-Freundin, wir brauchen KI, die echte Probleme löst." Beide setzen der Silicon-Valley-Logik der mächtigsten Maschine eine Frage nach Zweck und Ethik entgegen — bei Koné als dritte Souveränitäts-Säule (Governance & Ethik).
 
+### → [[Gedanken/Die geteilte Fuelle — eine Utopie der Maschinen-Aera|Die geteilte Fülle — eine Utopie der Maschinen-Ära]]
+
+Konés „nützlichste, nicht mächtigste KI" ist die Bedingung, unter der diese Utopie überhaupt steht: eine Technik, die dem Menschen und dem Lebendigen dient statt Macht und Geld zu bündeln. Er erdet, was dort vorausgedacht wird — Triage im Dorf, Leapfrogging, Mobile Money zeigen, dass „KI, die echte Probleme löst" kein frommer Wunsch ist. Die Kehrseite — KI als Konzentrations-Motor — baut den finsteren Zwilling, → [[Gedanken/Die goldenen Tuerme — eine Dystopie der Maschinen-Aera|die goldenen Türme]].
+
 ### → [[Panorama/Autoritaerer Internationalismus|Panorama — Autoritärer Internationalismus]]
 
 Das Panorama beschreibt *privatisierte Souveränität* — die Tech-Oligarchie, die Governance-Domänen an sich zieht. Koné formuliert den Gegenentwurf: Souveränität als „das Recht der Menschen, die Systeme mitzugestalten, die sie zunehmend gestalten". Zugleich die Warnung im Spiegel — dass Autokraten genau dieses Wort als Codewort für Zensur und Netzsperren kapern, was Koné ausdrücklich zurückweist.
