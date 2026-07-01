@@ -5,6 +5,7 @@ description: "Wenn Maschinen die Arbeit nehmen, könnte zum ersten Mal genug fü
 aktualisiert: 01.07.2026
 tags:
   - gedanke
+  - luc
   - ki
   - technologie
   - wirtschaft

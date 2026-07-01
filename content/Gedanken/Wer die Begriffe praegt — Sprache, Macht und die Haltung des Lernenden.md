@@ -4,6 +4,7 @@ aktualisiert: 2026-05-24
 date: 2026-05-24
 tags:
   - gedanke
+  - luc
   - philosophie
   - erkenntnistheorie
   - demokratie

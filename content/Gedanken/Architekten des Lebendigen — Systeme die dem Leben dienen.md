@@ -4,6 +4,7 @@ aktualisiert: 2026-04-28
 date: 2026-04-28
 tags:
   - gedanke
+  - luc
   - philosophie
   - demokratie
   - kapitalismus

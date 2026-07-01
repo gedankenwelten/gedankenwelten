@@ -4,6 +4,7 @@ date: 2026-04-27
 aktualisiert: 2026-06-23
 tags:
   - panorama
+  - luc
   - faschismus
   - autoritarismus
   - geopolitik

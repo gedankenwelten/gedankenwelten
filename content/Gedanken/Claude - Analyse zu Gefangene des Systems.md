@@ -4,6 +4,7 @@ aktualisiert: 2026-04-18
 date: 2026-04-18
 tags:
   - gedanke
+  - claude
   - ki
   - selbstreflexion
   - psychologie

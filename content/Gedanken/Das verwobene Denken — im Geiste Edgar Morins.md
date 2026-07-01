@@ -5,6 +5,7 @@ date: 01.07.2026
 aktualisiert: 01.07.2026
 tags:
   - gedanke
+  - luc
   - philosophie
   - erkenntnistheorie
   - ethik
@@ -15,6 +16,16 @@ aliases:
 ---
 
 # Das verwobene Denken — ein Gedanke mit Edgar Morin
+
+![[assets/Das-verwobene-Denken-im-Geiste-Edgar-Morins-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Friedensreich Hundertwasser** — leuchtende, mäandernde Farbbänder ohne eine einzige gerade Linie; die goldene Doppelspirale im Zentrum als das gehaltene Paradox, die vielen kleinen Menschen und Zwiebelturm-Häuser ins Gewebe eingewoben, ein goldener Pfad, der alles verbindet. Hundertwassers „die gerade Linie ist gottlos" *ist* „unterscheiden, ohne zu trennen" — Grenzen, die sich berühren und nie zerschneiden. Warm, organisch, menschlich: die eigene Stimme dieser Note, nicht Morins Porträt.
+
+*Prompt:* Wide 1200×500 banner in the vivid organic manner of Friedensreich Hundertwasser. No straight lines anywhere — everything meanders, spirals and undulates. Luminous bands of colour flow across the banner like woven rivers: vermilion, gold, emerald, cobalt, magenta, ochre — each band kept distinct, outlined by a contrasting colour, touching its neighbour without ever merging and without a hard cut. Two large interlocking spirals turn into one another at the centre, held in tension, neither dissolving. Small stylised houses with rows of colourful uneven onion-windows are woven into the flowing landscape (the many people — no realistic faces). A single meandering golden path winds through the whole scene, linking distant colour-fields like a thread that persists. Round golden domes, organic trees, patterned tiles, a warm glowing sun. Dense, joyful, luminous, hand-painted texture, thick outlines. No photorealism, no realistic faces.
+
+</details>
 
 > [!abstract] Worum es geht
 > Ein eigener Gedanke über das Paradox und die Polarisierung — gedacht **mit** Edgar Morin, dem Meister des komplexen Denkens. Wenn ein Thema zwei wahre Seiten hat und ein Lager uns zwingt, eine davon zu verraten, dann liegt der Fehler im Rahmen, nicht in der Welt. Morins Werkzeug dafür ist eine Kunst: unterscheiden, ohne zu trennen; verbinden, ohne zu verschmelzen. Und der Schluss, den ich daraus ziehe: dass der Riss, den wir Kulturkampf nennen, durch jeden Menschen hindurchläuft.

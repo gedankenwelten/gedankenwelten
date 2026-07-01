@@ -5,6 +5,7 @@ description: "Wenn die Maschine den Menschen als Arbeitskraft entbehrlich macht,
 aktualisiert: 30.06.2026
 tags:
   - gedanke
+  - luc
   - ki
   - technologie
   - kapitalismus
