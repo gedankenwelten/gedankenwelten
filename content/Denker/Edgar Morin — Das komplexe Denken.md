@@ -146,7 +146,7 @@ Zugleich der nüchterne Gegenbefund, ohne Trost: *„Jeder technische, wissensch
 
 ### → [[Das verwobene Denken — im Geiste Edgar Morins]]
 
-Der poetische Widerhall dieser Note: derselbe Gedanke, aber in Morins Ich-Stimme gegossen — eine Meditation über Paradox, Polarisierung und das bewegliche Wir. Dort das *Wie* (der Klang), hier das *Was* (Leben, Werk, Belege).
+Ein eigener Gedanke, der sich Morins Werkzeuge leiht: Andreas denkt Paradox, Polarisierung und das bewegliche Wir *mit* Morin weiter — dessen Maximen zitiert und gewürdigt, die Schlüsse selbst gezogen. Dort das *Was* (Leben, Werk, Belege), hier ein Denken, das damit arbeitet.
 
 ### → [[Walther Ziegler — Adorno in 60 Minuten]]
 

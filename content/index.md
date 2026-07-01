@@ -62,7 +62,7 @@ Die Gedankenwelten (luc)
 
 ### Gedanken
 
-> **01.07.** — [[Gedanken/Das verwobene Denken — im Geiste Edgar Morins|Das verwobene Denken — ein Gedanke im Geiste Edgar Morins]]
+> **01.07.** — [[Gedanken/Das verwobene Denken — im Geiste Edgar Morins|Das verwobene Denken — ein Gedanke mit Edgar Morin]]
 >
 > Wenn ein Thema zwei wahre Seiten hat und uns ein Lager zwingt, eine zu verraten, liegt der Fehler im Rahmen, nicht in der Welt. Unterscheiden, ohne zu trennen.
 
