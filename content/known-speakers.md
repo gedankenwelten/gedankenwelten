@@ -33,6 +33,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Lacina Koné
+**Status:** ✓ Vollanalyse → [[DenkerVita/Lacina Kone]]
+
+---
+
 ## Kerstin Paschke
 **Status:** ✓ Vollanalyse → [[DenkerVita/Kerstin Paschke]]
 

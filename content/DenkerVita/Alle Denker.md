@@ -181,6 +181,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Konstantin Flemig|Konstantin Flemig]]** — Kriegsreporter, Dokumentarfilmer, Buchautor; Faktenjournalismus über Ukraine-Krieg, Zeitenwende-Industrialisierung, vergessene Kriege
 
+**[[DenkerVita/Lacina Kone|Lacina Koné]]** — Ivorer, Director General & CEO des Smart Africa Secretariat (42+ Staaten, Kigali); Architekt der digitalen Souveränität Afrikas — Single Digital Market bis 2030, Africa AI Council, AfCFTA Digital Trade Protocol, Afrika-Europa-Partnerschaft auf Augenhöhe
+
 ## L
 
 **[[DenkerVita/Leonhard Dobusch|Leonhard Dobusch]]** — Österreichischer Wirtschaftswissenschaftler, Professor für Organisation (Universität Innsbruck); Öffentlich-rechtliche Medien als Demokratie-Infrastruktur, mediale Immunisierung gegen Faschismus, digitale Gemeinschaften und Offenheit als Organisationsprinzip; ZDF-Verwaltungsrat, Co-Founder Momentum Institut; Bert-Donnepp-Preis 2019 für Transparenz im öffentlich-rechtlichen Mediensystem

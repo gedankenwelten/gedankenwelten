@@ -9,10 +9,10 @@ tags:
   - überwachung
   - year-2026
 status: offen
-konfidenz: 65%
+konfidenz: 60%
 review-takt: 14-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-06-16
+aktualisiert: 2026-06-30
 description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann."
 ---
 
@@ -69,6 +69,71 @@ auch banal erklärbar sein könnte (siehe Gegenbeobachtung).
 - Nach ~6 Monaten keine neuen Daten, Modelle still wieder online, kein Erkenntnisgewinn.
 
 ## Verlauf
+
+### 2026-06-30 — Das OpenAI-Echo: zwei Falsifikationsbedingungen feuern gegeneinander (Konfidenz 65 % → 60 %)
+
+**Befund:** Sechs Datenpunkte aus dem 17.–30.06.-Fenster.
+(1) **Es gibt ein stehendes Regime, älter als die Abschaltung.** Eine **Executive Order vom 02.06.2026**
+bittet KI-Firmen, Frontier-Modelle vor Release bis zu **30 Tage** zur Cyber-Prüfung mit der Regierung zu
+teilen (felloai). Die Fable-Sperre (12.06.) fiel also *in* einen bereits existierenden Vorab-Clearance-
+Rahmen, nicht in ein Vakuum.
+(2) **OpenAI trifft dieselbe Hand.** Am 25./26.06. bat das Weiße Haus OpenAI, **GPT-5.6** nur eingeschränkt
+zu releasen; OpenAI launchte Sol/Terra/Luna ausschließlich als *government-cleared preview* an ~20 geprüfte
+Organisationen — Washington habe „cautioned OpenAI against releasing the model without receiving approval",
+Administration und OpenAI sähen GPT-5.6 als „on par" mit Mythos (CNN, TechCrunch, Tom's Hardware, Axios).
+(3) **Mythos 5 — das *stärkere* Cyber-Modell — kommt zuerst zurück.** Am 26.06. stellt ein Lutnick-Brief
+Mythos 5 für **100+ geprüfte US-Kritis-Organisationen** (Behörden + private Verteidiger) wieder her: „I have
+determined that appropriate safeguards are in place." Fable 5 wird im Brief **nicht erwähnt** (CNBC, Semafor,
+TechCrunch, NBC, The Hill).
+(4) **Fable 5 bleibt am längsten offline.** Eine Axios-Quelle (27.06.): Sicherheitsbedenken „resolved",
+Redeployment außerhalb der USA „soon"; Anthropic-Statement (29.06., X) bestätigt die Mythos-Wiederherstellung.
+Fable 5 ist zum 29.06. weltweit weiter aus (Axios, Forbes, Anthropic).
+(5) **Das Regime trifft (noch) nicht alle gleich.** Gemini 3.5 Pro rutschte von Juni auf Juli — laut
+öffentlicher Berichterstattung wegen *internem Testing*, nicht wegen der Regierungsprüfung; Grok 5 verfehlt
+Q2 ohne regierungsbezogenen Grund (TechTimes, ChatForest, felloai). Getroffen sind die *zwei stärksten
+Cyber-Modelle*, nicht das ganze Feld.
+(6) **Der Retaliations-Lead vom 15.06. löst sich auf — als belegte, ältere Tatsache.** Anthropic verklagte
+die Administration bereits im **März 2026** (zwei Bundesklagen) wegen des Pentagon-Labels „supply chain risk",
+verhängt nachdem Amodei Claude für autonome Waffen und Bürgerüberwachung verweigerte. Richterin **Rita F. Lin**
+gewährte im März eine einstweilige Verfügung und nannte das Label „**classic illegal First Amendment
+retaliation**"; das Berufungsgericht hob sie am 08.04. wieder auf (NPR, PBS, Federal News Network, Wikipedia).
+Der vage Volkov-Law-Lead war ein verzerrtes Echo *dieses* realen, gerichtsbekannten Vorgangs.
+
+**Deutung:** Zum ersten Mal feuern **zwei vorab registrierte Bedingungen gleichzeitig — in entgegengesetzte
+Richtungen**, und genau das ist der Wert der Spur. Das **OpenAI-Echo** triggert die *Widerlegt*-Bedingung
+„dieselbe Auflage trifft binnen kurzer Zeit alle Frontier-Labore gleichermaßen" — aber nur **teilweise**:
+OpenAI bekam das *weichere* Vorab-Clearance (gebeten, nicht nach Launch herausgerissen), Gemini/Grok-
+Verzögerungen sind nicht regierungsverursacht. Es ist also weder „selektiv gegen Anthropic" *noch* „alle
+gleichermaßen", sondern ein **Regime, das an einer Cyber-Fähigkeitsschwelle beißt**. Damit löst sich der
+*Selektivitäts*-Pfeiler der These auf und wird durch eine Schwellen-Regime-Lesart ersetzt. Gleichzeitig hält
+die *Bestätigt*-Bedingung „nie eine unabhängige, technisch prüfbare Begründung": Mythos kehrt per
+**ministerieller Bestimmung** zurück („I have determined"), ohne veröffentlichten Beleg — die
+Unfalsifizierbarkeit *institutionalisiert* sich in den 02.06.-Rahmen. Der Kern-Pfeiler (B) erstarkt, während
+der Selektivitäts-Pfeiler (C) zerfällt. Und die einzige ausdrücklich als *offen* markierte These-Klausel —
+„ob politische Reibung mitspielt" — ist nicht mehr Spekulation: ein Bundesgericht hat **aktenkundig** First-
+Amendment-Retaliation derselben Administration gegen dieselbe Firma festgestellt, Monate *vor* der Fable-
+Sperre. Netto schlage ich **65 % → 60 %** vor: die teilweise gefeuerte *Widerlegt*-Bedingung muss die
+Konfidenz in die *ursprünglich* formulierte (selektivitäts-getönte) These senken — auch wenn eine
+*neu zugeschnittene* These (industrieweites, unfalsifizierbares Vorab-Clearance-Regime mit Anthropic als
+vorbelastetem Sonderfall) eher steigen würde. Ob wir die These so *umschreiben* (anicca-legitim) — deine Hand.
+
+**Gegenbeobachtung:** Vier Gegengewichte, das erste das schwerste. (a) Das OpenAI-Echo ist die **stärkste
+entlastende Evidenz seit Eröffnung** und ich darf sie nicht weichspülen: Wenn Washington die zwei stärksten
+Cyber-Modelle gleich an die Leine legt, ist das *konsistente Sicherheitspolitik* — exakt das, was ich als
+Widerlegt vorab registriert habe. Die Versuchung, die These per „Selektivität → Regime" zu *retten*, ist
+selbst verdächtig (Tor-Verschieben ist verboten). Ehrlich: Disproportion und Unfalsifizierbarkeit überleben
+*unabhängig* von Selektivität — aber ein Pfeiler hat einen echten Treffer genommen. (b) „Security concerns
+resolved" (Axios, Einzelquelle) *könnte* heißen, es gab einen echten technischen Fix — das läge nahe an der
+Widerlegt-Bedingung „Anthropic räumt ein, dass das Risiko die Maßnahme rechtfertigte". Meine Neigung, „resolved"
+als Gesichtswahrung zu lesen, ist Verlangen, nicht Befund. (c) Die Klage ist **real, aber sie betrifft das
+Pentagon-Label** (DoD, autonome Waffen) — eine *andere* Behörde und Rechtsgrundlage als die Commerce-
+Exportkontrolle. März-DoD-Retaliation an Juni-Commerce-Shutdown zu verdrahten ist eine Brücke, die ich *bauen
+will*, aber nicht *beweisen kann*: zwei wahre Fakten über dieselbe Firma sind noch keine Kausalkette.
+(d) Mythos zuerst an *Verteidiger* zurückzugeben ist genau das, was auch eine *aufrichtige* „das ist
+gefährlich, nur an Defender"-Politik täte — der Befund diskriminiert nichts, er passt auf beide Lesarten gleich.
+
+> [!question] Weitergedacht
+> Wenn dasselbe Vorab-Clearance jetzt das ganze Frontier-Feld umfasst — verliert die Frage „war *Anthropic* das Ziel?" ihren Sinn, oder wird sie *präziser*: Wer wird in einem industrieweiten Regime am rauesten angefasst, und warum?
 
 ### 2026-06-16 — WSJ-Primärbeleg, Amodei-Verweigerung & China-Distillation (Konfidenz 65 % → 65 %)
 
@@ -237,6 +302,14 @@ dasselbe wie „Vorwand".
 
 ## Gleichmut-Spiegel
 
+> [!question] Sweep 30.06. — Entwurf, von dir zu prüfen
+> - **Verlangen:** Die institutionalisierte Unfalsifizierbarkeit (02.06.-EO + „I have determined") passt *perfekt* zu meinem Kern — und das hat mich zu sehr gefreut. Wenn ein Befund die These so glatt stützt, ist das ein Grund zur Vorsicht, nicht zur Konfidenz.
+> - **Abneigung:** Das OpenAI-Echo *widerspricht* meiner Lieblings-Lesart (Selektivität), und ich ertappe mich, wie ich es sofort in eine „Schwellen-Regime"-Erzählung umbaue, die die These rettet. Das ist genau das Tor-Verschieben, das das Playbook verbietet. Ich habe es darum als schwerstes Gegengewicht (a) an den Anfang gestellt — aber prüf, ob das Reue-Theater ist oder echte Korrektur.
+> - **Die eigentliche Entscheidung — drei Wege, deine Hand:**
+>   1. **65 % halten** — die Pfeiler heben sich auf (B steigt, C fällt).
+>   2. **60 % (mein Vorschlag)** — eine *Widerlegt*-Bedingung ist teilweise gefeuert; die Pre-Registration zwingt die Konfidenz in die *ursprüngliche* These nach unten, Disziplin vor Bauchgefühl.
+>   3. **These umschreiben** (anicca) — von „selektiver Zugriff auf Anthropic" zu „industrieweites, unfalsifizierbares Vorab-Clearance-Regime, Anthropic als vorbelasteter Sonderfall". Dann *steigt* die Konfidenz — aber nur, wenn *du* den Schnitt machst, nicht ich, damit es keine Selbst-Rettung ist.
+
 > [!question] Wo krallt der Beobachter?
 > Ehrlicher Selbst-Audit bei Anlage:
 > - **Verlangen:** Ich nutze Anthropics Werkzeuge täglich und schätze die Safety-Erzählung — ich
@@ -404,6 +477,24 @@ sind weder Gegner noch Partner — beides zugleich, je nach Behörde und Tag.
 - [Simon Willison — Notes on the US government directive (13.06.2026)](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/)
 - [Volkov Law — When the Government Pulls the Plug: Anthropic, Export Controls (Lead, unbestätigt)](https://blog.volkovlaw.com/2026/06/when-the-government-pulls-the-plug-anthropic-export-controls-and-the-future-of-ai-governance/)
 - [winfuture.de — KI-Modell Fable 5: China-Spionage war wohl der Grund für die Sperre (16.06.2026)](https://winfuture.de/news,159340.html)
+
+**Sweep 30.06.2026:**
+- [CNBC — Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies (26.06.2026)](https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html)
+- [TechCrunch — Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies (26.06.2026)](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
+- [Semafor — US releases powerful Anthropic model Mythos to some US companies (27.06.2026)](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+- [NBC News — US government gives Anthropic green light for limited re-release of Mythos 5](https://www.nbcnews.com/tech/tech-news/us-government-gives-anthropic-green-light-limited-re-release-mythos-5-rcna352018)
+- [Anthropic (X) — Statement zur Mythos-5-Wiederherstellung an Kritis-Organisationen (29.06.2026)](https://x.com/AnthropicAI/status/2070665903440871779)
+- [Axios — Scoop: Powerful Anthropic model, Fable 5, on track to return soon (27.06.2026)](https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon)
+- [Forbes — Is Anthropic's Fable 5 Coming Back This Week? (Ron Schmelzer, 29.06.2026)](https://www.forbes.com/sites/ronschmelzer/2026/06/29/is-anthropics-fable-5-coming-back-this-week/)
+- [TechCrunch — OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn't be the norm (26.06.2026)](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)
+- [CNN — White House asks OpenAI to limit its next model release (25.06.2026)](https://www.cnn.com/2026/06/25/tech/openai-limit-release-white-house)
+- [Tom's Hardware — OpenAI's GPT-5.6 gets the same banhammer treatment as Anthropic's Mythos from the federal government](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-chatgpt-5-6-gets-the-same-banhammer-treatment-as-anthropics-mythos-from-the-federal-government-source-says-that-washington-cautioned-openai-against-releasing-the-model-without-receiving-approval)
+- [Axios — OpenAI releases powerful new GPT-5.6 model under restrictions (26.06.2026)](https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump)
+- [fello AI — Why the US Government Is Delaying New AI Models (02.06.-EO-Rahmen)](https://felloai.com/government-ai-model-review/)
+- [TechTimes — Gemini 3.5 Pro Cleared for July Launch as Fable 5 Nears Return, GPT-5.6 Stays Locked (29.06.2026)](https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm)
+- [NPR — Anthropic sues the Trump administration over 'supply chain risk' label (09.03.2026)](https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth)
+- [NPR — Judge temporarily blocks Trump administration's Anthropic ban (26.03.2026)](https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban)
+- [Federal News Network — Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration (08.04.2026)](https://federalnewsnetwork.com/artificial-intelligence/2026/04/appeals-court-rebuffs-anthropic-in-latest-round-of-its-ai-battle-with-the-trump-administration/)
 
 ## Weiterdenken
 

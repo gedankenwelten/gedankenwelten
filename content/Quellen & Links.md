@@ -17,6 +17,15 @@ tags:
 | **Transkript 1** | `Gedankenwelten/Transkripte/MindfulMachines_2000Stunden_KI_Transkript.txt` |
 | **Transkript 2** | `Gedankenwelten/Transkripte/AMI_KI-Bewusstsein_Doku_Transkript.txt` |
 
+## Lacina Koné — Afrikas digitale Souveränität
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26 — Writing Our Own History: The Path to Africa's Digital Sovereignty](https://www.youtube.com/watch?v=j4xfSWZ6EM8) (CC BY-SA 4.0) |
+| **Notiz** | [[Lacina Koné — Afrikas digitale Souveränität]] |
+| **DenkerVita** | [[DenkerVita/Lacina Kone]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kone_Digital_Sovereignty_Transkript.txt` |
+
 ## phoenix-Runde — Rentenreform 2026
 
 | | |
