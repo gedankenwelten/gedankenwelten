@@ -5,6 +5,7 @@ description: "Dasselbe Prinzip, das das unsichtbare Netzwerk zur stillsten Kraft
 date: 2026-05-24
 tags:
   - gedanke
+  - luc
   - philosophie
   - ki
   - medien

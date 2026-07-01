@@ -5,6 +5,7 @@ aktualisiert: 2026-06-18
 description: Sechs Sätze, alt wie das Denken selbst — und jeder noch immer ein Funke, der ein Leben neu ordnen kann. Eine Wanderung von Kant bis Zhuangzi, vom Staunen bis zum Loslassen.
 tags:
   - gedanke
+  - luc
   - philosophie
   - vipassana
   - buddhismus

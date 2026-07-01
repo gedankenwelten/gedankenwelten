@@ -4,6 +4,7 @@ aktualisiert: 2026-05-22
 description: "Goethes Zauberlehrling als Parabel aufs Vibe Coding: Wer Magie ruft, ohne sie zu verstehen, verliert die Kontrolle über die Geister, die er rief."
 tags:
   - gedanke
+  - luc
   - ki
   - technologie
   - pädagogik

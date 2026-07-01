@@ -5,6 +5,7 @@ description: "Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropf
 date: 2026-05-02
 tags:
   - gedanke
+  - luc
   - philosophie
   - vipassana
   - psychologie

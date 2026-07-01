@@ -4,6 +4,7 @@ date: 2026-05-14
 aktualisiert: 2026-05-14
 tags:
   - panorama
+  - luc
   - wirtschaft
   - demokratie
   - kapitalismus

@@ -4,6 +4,7 @@ date: 2026-04-27
 description: "Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird."
 tags:
   - panorama
+  - luc
   - energiepolitik
   - deutschland
   - lobbyismus
