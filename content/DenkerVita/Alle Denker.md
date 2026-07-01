@@ -205,6 +205,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Marcant|Marcant]]** — YouTuber (vollmarcant), 23 Jahre; Deradikalisierungsaktivismus durch Straßendialog; 500+ Menschen aus rechtsextremer Szene gebracht; Theodor-Heuss-Medaille 2026; Serie "Rechtsextrem oder verwirrtes Kind?"; Rechtsextremismusbekämpfung durch Respekt und Begegnung auf Augenhöhe
 
+**[[DenkerVita/Edgar Morin|Edgar Morin]]** — Französischer Philosoph und Soziologe (1921–2026); *pensée complexe* / komplexes Denken gegen die Zersplitterung des Wissens; sechsbändiges Hauptwerk *La Méthode*, Résistance-Kämpfer, „Denker des Jahrhunderts"
+
 **[[DenkerVita/Marco Waehner|Marco Wähner]]** — Soziologe (Dr.), Postdoc am Center for Advanced Internet Studies (CAIS), Bochum; empirische Forschung zu dezentralen Netzwerken (Fediverse, Mastodon, Tor); dezentrale Netzwerke als Kollektivgut-Problem, originäre Instabilität, Zentralisierung trotz dezentraler Architektur, öffentliche Grundfinanzierung als Lösung
 
 **[[DenkerVita/Maren Urner|Maren Urner]]** — Neurowissenschaftlerin, Professorin für Nachhaltige Transformation (Münster UAS); Gründerin *Perspective Daily* (konstruktiver Journalismus); Hope Theory, Angst vs. Hoffnung, dynamisches Denken; SPIEGEL-Bestsellerautorin *Schluss mit dem täglichen Weltuntergang*, *Raus aus der ewigen Dauerkrise*, *Radikal emotional*

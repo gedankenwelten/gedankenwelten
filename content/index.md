@@ -46,6 +46,20 @@ Die Gedankenwelten (luc)
 
 > → *1 weitere in* [[Zeitgeist]]
 
+### Denker
+
+> **01.07.** — [[Denker/Edgar Morin — Das komplexe Denken|Edgar Morin — Das komplexe Denken]]
+>
+> Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt.
+
+> **24.06.** — [[Denker/Erich Fromm — Im Namen des Lebens|Erich Fromm — Im Namen des Lebens]]
+>
+> Fromms intellektuelle Autobiografie 1973 — vier Quellen seines Denkens, die Liebe zum Lebendigen gegen die Liebe zum Toten, und die Wahrheit als einzige Pflicht.
+
+> **24.06.** — [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]]
+>
+> Die Moderne hat die Rache nicht überwunden, sondern unsichtbar gemacht — und mit ihr die dunkle Wurzel, aus der unser Sinn für Gerechtigkeit überhaupt erst wächst.
+
 ### GoodNews
 
 > **30.06.** — [[GoodNews/Good News - Gute Nachrichten Juni 2026|Good News — Gute Nachrichten Juni 2026]]
@@ -93,20 +107,6 @@ Die Gedankenwelten (luc)
 > **23.06.** — [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
 >
 > Wenn die Maschine alles weiß, was den Menschen dann ausmacht — und warum ein zweifach durchgefallener Student die wichtigste Antwort gibt.
-
-### Denker
-
-> **24.06.** — [[Denker/Erich Fromm — Im Namen des Lebens|Erich Fromm — Im Namen des Lebens]]
->
-> Fromms intellektuelle Autobiografie 1973 — vier Quellen seines Denkens, die Liebe zum Lebendigen gegen die Liebe zum Toten, und die Wahrheit als einzige Pflicht.
-
-> **24.06.** — [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]]
->
-> Die Moderne hat die Rache nicht überwunden, sondern unsichtbar gemacht — und mit ihr die dunkle Wurzel, aus der unser Sinn für Gerechtigkeit überhaupt erst wächst.
-
-> **22.06.** — [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]]
->
-> Der Gewalthistoriker, der vom Maoisten zum Skeptiker der liberalen Demokratie wurde — über Sinn als Trotz gegen den Tod, Gewalt ohne Ideologie und die unbequeme These, Herrschaft sei ein Naturgesetz.
 
 ### Panorama
 

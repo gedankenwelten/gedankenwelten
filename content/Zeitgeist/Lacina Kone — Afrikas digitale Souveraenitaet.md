@@ -18,6 +18,16 @@ aliases:
 
 # Lacina Koné — Afrikas digitale Souveränität
 
+![[assets/Lacina-Kone-Afrikas-digitale-Souveraenitaet-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera** — Muralismus, warme Erdpalette, kollektiver Bau. Die Hand des Globalen Südens, die ihre *eigene* Geschichte an die Wand malt — genau Konés „Writing Our Own History". Rivera malte immer Menschen, die ihre Zukunft *bauen*, nie Empfänger von Hilfe; das ist Konés Umdeutung von „Mangel" zu „unfertigem Bau" als Bild. Der leere, passierte Türbogen rechts trägt seine stärkste Ansage: Afrika steht nicht mehr an der Tür, es ist im Raum und baut bereits.
+
+*Prompt:* A wide panoramic mural in the style of Diego Rivera — Mexican muralism, no photorealism, no realistic faces. Warm earthen palette: terracotta, ochre, deep indigo, copper-green. A sweeping scene of collective construction reading left to right. On the left, two rivers descend through red-earth terrain and converge into one broad, stronger current that flows across the whole banner — the water carries faint glowing data-glyphs and threads of text in many scripts. In the center, monumental African figures with simplified, mask-like faces (no realistic features) work together raising a half-finished structure: scaffolding of a rising tower built from stacked server-racks, fiber cables coiled like rope, and geometric machinery interlocked with human hands. The construction is deliberately unfinished at the top — open beams reaching into a golden sky, not a ruin but a building-in-progress. Young workers dominate the crowd. On the right, an open doorway or archway stands to the side, empty and passed — the people are already inside the room, building. Woven small into the mural: interlocking language letters from over a dozen African scripts forming a decorative frieze along the lower edge, and a stylized map-fragment of the African continent glowing like a circuit. Rhythmic, monumental figures, flat modeled forms, bold contours, dignity and forward motion. 1200x500 wide banner composition.
+
+</details>
+
 > [!abstract] Worum es geht
 > Zwei Zahlen, ein Bruch: Afrika liefert 2 % der weltweiten KI-Trainingsdaten, Europa importiert 80 % der Technologien, von denen es abhängt. Lacina Koné, Chef von Smart Africa, macht daraus eine einzige Frage — wie bleibt man offen für die Welt, ohne die Macht zu verlieren, die eigene digitale Zukunft zu formen? Seine Antwort ist eine Neudefinition von Souveränität: nicht Abschottung, sondern das Recht, die Systeme mitzugestalten, die uns zunehmend gestalten. Und eine Ansage: Afrika steht nicht mehr an der Tür und bittet um Einlass — es ist im Raum und baut bereits.
 
