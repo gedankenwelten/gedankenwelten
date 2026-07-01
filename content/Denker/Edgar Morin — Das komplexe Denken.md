@@ -144,6 +144,10 @@ Zugleich der nüchterne Gegenbefund, ohne Trost: *„Jeder technische, wissensch
 
 ## Verbindungen
 
+### → [[Das verwobene Denken — im Geiste Edgar Morins]]
+
+Der poetische Widerhall dieser Note: derselbe Gedanke, aber in Morins Ich-Stimme gegossen — eine Meditation über Paradox, Polarisierung und das bewegliche Wir. Dort das *Wie* (der Klang), hier das *Was* (Leben, Werk, Belege).
+
 ### → [[Walther Ziegler — Adorno in 60 Minuten]]
 
 Der schärfste Gegenpol. Adorno und Horkheimer prägen den Begriff „Kulturindustrie" bewusst *gegen* „Massenkultur", um einen Verblendungszusammenhang zu benennen — Morin verteidigt genau diese Massenkultur und nennt die intellektuelle Verachtung ein „Gespenst der Intellektuellen". Zwei entgegengesetzte Diagnosen desselben Phänomens: Gleichschaltung von oben gegen das quer durch die Schichten Verbindende (Chaplin, Piaf).
