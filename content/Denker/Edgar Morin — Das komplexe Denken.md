@@ -134,7 +134,33 @@ Zugleich der nüchterne Gegenbefund, ohne Trost: *„Jeder technische, wissensch
 
 ## Verbindungen
 
-<!-- Montaigne befüllt diesen Abschnitt -->
+### → [[Walther Ziegler — Adorno in 60 Minuten]]
+
+Der schärfste Gegenpol. Adorno und Horkheimer prägen den Begriff „Kulturindustrie" bewusst *gegen* „Massenkultur", um einen Verblendungszusammenhang zu benennen — Morin verteidigt genau diese Massenkultur und nennt die intellektuelle Verachtung ein „Gespenst der Intellektuellen". Zwei entgegengesetzte Diagnosen desselben Phänomens: Gleichschaltung von oben gegen das quer durch die Schichten Verbindende (Chaplin, Piaf).
+
+### → [[scobel — Lyotard das Ende der Wahrheit]]
+
+Beide antworten auf die Zersplitterung des Wissens und den Zerfall der großen Erzählungen — aber gegensätzlich. Lyotard feiert die inkommensurablen Sprachspiele und den Dissens ohne gemeinsame Mitte; Morins *pensée complexe* will die getrennten Teile gerade wieder verbinden (*reliance*), ohne die Widersprüche wegzuschneiden. Fragmentierung als Befreiung versus Fragmentierung als Verstümmelung.
+
+### → [[Maja Goepel — Mut zur Zukunft]]
+
+Morins Satz, wer in der Welt des BIP lebe, lebe in einer „völlig abstrakten Welt", die kein Leid und keine Freude kennt, ist fast wörtlich Göpels These von den tyrannischen Zahlen: Was zählt, lässt sich nicht zählen. Beide führen die Reduktion der Politik auf Ökonomie auf denselben Denkfehler zurück — das Berechenbare für das Ganze zu halten.
+
+### → [[DenkerVita/Zhao Tingyang]]
+
+Terre-Patrie und Tianxia sind zwei Entwürfe einer planetaren Schicksalsgemeinschaft ohne Außen — beide gegen die Fragmentierung der Welt in konkurrierende Einzelinteressen. Der aufschlussreiche Unterschied: Zhaos Ordnung entsteht durch Anziehung und Zentrum, Morins Gemeinschaft dagegen nicht durch einen gemeinsamen Feind, sondern durch geteilte fundamentale Probleme auf einem geschrumpften Planeten.
+
+### → [[Liya Yu — Der neuropolitische Gesellschaftsvertrag]]
+
+Yus Absage an das rationalistische Menschenbild — wer die Wahrheit versteht, handle richtig — trifft sich mit Morins nüchternem Befund, dass technischer und wissenschaftlicher Fortschritt zu keinem ethischen führt. Beide sind Naturalisten, die das Gehirn ernst nehmen, und gerade darum gegen den Machbarkeitsglauben, der aus Wissen automatisch Besserung ableitet.
+
+### → [[DenkerVita/Gert Scobel]]
+
+Scobel ist der lebende Praktiker von Morins Programm: Interdisziplinarität als Beruf, gepaart mit der epistemischen Demut, die die Grenzen des Messbaren markiert — Morins „Respekt vor dem Realen ist zugleich Respekt vor dem Mysterium" in anderer Sprache. Wo Morin das transdisziplinäre Denken entwirft, führt Scobel es öffentlich vor.
+
+### → [[DenkerVita/Jean-Francois Lyotard]]
+
+Zwei französische Denker mit derselben Biografie-Wurzel — engagierter Marxist, dann radikaler Bruch mit jeder Großerzählung —, die daraus entgegengesetzte Konsequenzen ziehen: Lyotard verabschiedet die Metaerzählung ersatzlos, Morin sucht mit der *pensée complexe* eine neue Weise, das Ganze zu denken, ohne in die alte Totalität zurückzufallen.
 
 ---
 

@@ -5,6 +5,16 @@ tags: [denker-vita, technologie, ki, geopolitik, afrika]
 
 # Lacina Koné — DenkerVita
 
+![[assets/Lacina-Kone-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Aaron Douglas** — Harlem-Renaissance-Muralismus, silhouettierte Figuren in konzentrischem Licht, tiefes Indigo-Violett. Bewusst *nicht* Rivera wie bei der Note: Die Note war der kollektive Bau vieler Hände, die Vita ist der *eine Koordinator* — der panafrikanische Institutionen-Architekt, der 42 Länder an einen Tisch bringt. Douglas' schwarze Silhouetten machen das Gesicht-Verbot zur Stärke, seine „history-making"-Bildsprache ist Konés „Writing Our Own History" von einer verwandten Diaspora-Hand gemalt. Die vom Kontinent radierenden Netz-Linien aus der ausgestreckten Hand machen aus einem Porträt das Bild eines *Verbinders*.
+
+*Prompt:* A wide banner in the style of Aaron Douglas — Harlem Renaissance muralism, flat silhouetted figures, no photorealism, no realistic faces. Monochromatic bands of deep indigo, violet and teal, with radiating concentric rings of pale light and scattered star-points, like sound or signal spreading outward. In the center stands a single tall, dignified silhouetted figure in profile — an architect-statesman, one arm extended, gesturing across a wide space, connecting things. From his outstretched hand, thin geometric lines fan out to link a scattered constellation of small silhouetted city-nodes and towers arranged across the whole width — over forty points joined into one network, a stylized African continent glowing faintly behind them as concentric aura. On the left, two thin rivers of light descend and merge into one broader luminous stream that flows toward the figure. Above, a small satellite and a rising communications tower as silhouettes against the radiating light. The whole composition rhythmic, layered in transparent overlapping bands, aspirational and forward-facing, monumental calm. 1200x500 wide banner.
+
+</details>
+
 ## Biografie
 
 - **Beruf:** IT- und Telekommunikations-Manager, Digitalpolitik-Stratege. Seit 2019 **Director General & CEO des Smart Africa Secretariat** (Kigali, Ruanda) — der von der Afrikanischen Union getragenen Allianz von inzwischen 42+ Staaten mit dem Ziel eines *Single Digital Market for Africa* bis 2030.
