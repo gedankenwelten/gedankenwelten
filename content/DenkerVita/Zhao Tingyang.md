@@ -209,7 +209,7 @@ Zhaos Gegenargument: Tianxia ist eine **philosophische Utopie der Koexistenz**, 
 
 ## Verbindungen zu anderen Denkern
 
-*(Wird von Montaigne befüllt — Platzhalter für bidirektionale Verlinkung)*
+- [[Edgar Morin — Das komplexe Denken]] — Terre-Patrie und Tianxia: zwei Entwürfe einer planetaren Schicksalsgemeinschaft ohne Außen. Zhaos Ordnung entsteht durch Anziehung und Zentrum, Morins Gemeinschaft dagegen nicht durch einen gemeinsamen Feind, sondern durch geteilte fundamentale Probleme auf einem geschrumpften Planeten.
 
 ## Gedankenwelten-Notes
 

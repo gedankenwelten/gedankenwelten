@@ -242,6 +242,10 @@ Gabriel verwendet Postmoderne als "gegenstandslose Sozialität" und positioniert
 
 Zhao Tingyangs «Neue Enzyklopädie» und sein Syntextualisierungsprojekt sind der direkte Gegenentwurf zu Lyotards Inkommensurabilität. Lyotard besteht darauf, dass Wissensformen nicht auf einen Nenner gebracht werden können, ohne dass eine Machtasymmetrie den «focal point» definiert. Zhao glaubt, dass epistemologische Gerechtigkeit durch radikale Öffnung aller Wissensbestände füreinander möglich ist. Die Weiterdenken-Frage der Zhao-Note stellt genau das: Ist Tianxia selbst die letzte Metaerzählung?
 
+### → [[Edgar Morin — Das komplexe Denken]]
+
+Dieselbe Diagnose der Zersplitterung, entgegengesetzte Konsequenz: Lyotard feiert den Zerfall der großen Erzählungen und die inkommensurablen Sprachspiele, Morins *pensée complexe* will die getrennten Teile gerade wieder verbinden (*reliance*) — ohne die Widersprüche wegzuschneiden. Fragmentierung als Befreiung versus Fragmentierung als Verstümmelung.
+
 ---
 
 ## Weiterdenken

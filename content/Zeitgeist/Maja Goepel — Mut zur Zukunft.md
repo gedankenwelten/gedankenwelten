@@ -129,6 +129,10 @@ Sie zitiert Renée DiResta (*Atlantik*), die zeigt, wie rechte Plattformen Kampa
 
 ## Verbindungen
 
+### → [[Edgar Morin — Das komplexe Denken]]
+
+Göpels „tyrannische Zahlen" — was zählt, lässt sich nicht zählen — sind fast wörtlich Morins Satz, wer in der Welt des BIP lebe, lebe in einer „völlig abstrakten Welt", die kein Leid und keine Freude kennt. Beide führen die Reduktion der Politik auf Ökonomie auf denselben Denkfehler zurück: das Berechenbare für das Ganze zu halten.
+
 ### → [[Poerksen und Goepel — Debatte neu denken]]
 
 Direkte Fortführung: Göpel entwickelt die Debattenkultur-Analyse weiter zur konkreten Agenda. „Deutungshoheit zurückholen" und „Wirklichkeitsraum kuratieren" sind die operative Antwort auf die dort diagnostizierte Konstruktionsmacht von Sprache.
