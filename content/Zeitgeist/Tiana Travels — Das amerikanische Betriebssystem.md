@@ -254,6 +254,10 @@ Osnos zeigt von innen, was Tiana von außen analysiert: die Psychologie derer, d
 
 Heitmeyers Kernargument, dass *Psychologisierung Strukturen schützt*, ist methodisch identisch mit Tianas Analyse: wer Armut, Rassismus und Staatsmisstrauen als individuelle Haltungen deutet, entlastet die Strukturen. Schulessen-Schulden als "individuelle Verantwortung" statt als Systemversagen ist genau jener Kategorienfehler, gegen den beide argumentieren.
 
+### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
+
+Dieselbe Denkfigur vom anderen Ende der Kolonialgeschichte: ein ideologisches Betriebssystem, das sich selbst tarnt. Dangarembgas „Kolonialismus in den Köpfen" und ihre Resilienz-Falle (das Lob „so stark" rechtfertigt das Weitermachen) zeigen die Mechanik aus der Sicht der Kolonisierten, Tianas Betriebssystem-Analyse aus der Innenansicht der Nachfolgegesellschaft.
+
 ---
 
 ## Weiterdenken

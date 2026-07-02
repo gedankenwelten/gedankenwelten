@@ -222,3 +222,7 @@ Die produktive Gegenstimme. Wo van Schaik die kooperative erste Natur betont, er
 ### → [[Gerald Huether — Lebendigkeit und das Ende der Hierarchien]]
 
 Teilt die Kern-Intuition, dass Herrschaftshierarchien dem Menschen nicht eingeschrieben, sondern kulturell übergestülpt sind. Beide lesen Egalitarismus als den natürlicheren Zustand und Hierarchie als etwas, das rückholbar ist — Hüther neurobiologisch, van Schaik evolutionär.
+
+### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
+
+Beide arbeiten mit einer vorstaatlichen Ordnung als Kontrastfolie — das egalitäre Jäger-und-Sammler-Erbe hier, die vorkoloniale Gesellschaft ohne Eigentum an Menschen dort. Und beide riskieren die Gegen-Idylle; Dangarembga benennt die Falle selbst: Ein Patriarchat mit Ahnenschutz bleibt ein Patriarchat.
