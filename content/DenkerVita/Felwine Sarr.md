@@ -7,6 +7,16 @@ tags: [denker-vita, afrotopia, postkolonialismus, senegal, oekonomie]
 
 # Felwine Sarr — DenkerVita
 
+![[assets/Felwine-Sarr-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Iba N'Diaye** — der andere Pol der senegalesischen Moderne: expressive, malerische Handschrift, berühmt für seine Jazz-Bilder. Für den Menschen Sarr — Ökonom, Philosoph, *Musiker* von der Insel Niodior: Die Gitarrensaiten ziehen den Klang als Farbfäden zurück zum Sine-Saloum-Delta — der Professor an der Duke, dessen Denken auf einer Insel im Senegal wohnt.
+
+*Prompt:* Wide banner, 1200x500. Expressive modernist oil painting in the style of Iba N'Diaye's jazz series: loose confident brushwork, warm chiaroscuro, figures suggested by gesture and shadow, faces abstracted into planes of paint, no realistic facial features, no photorealism. CENTER-LEFT: a seated musician in profile playing a guitar, rendered in deep umber and warm ochre strokes against a glowing amber background, his silhouette merging at the base into stacks of books and loose manuscript pages that scatter like sheet music. RIGHT: the amber light opens into a painterly river delta at dusk — mangrove silhouettes, a narrow island, two slender pirogues on silver-violet water under a low warm sun. Thin threads of paint drift from the guitar strings across the sky toward the delta, like sound traveling home. Palette: burnt umber, amber, ochre, muted violet, silver-grey water, one deep red accent on the guitar body. Atmospheric, dignified, musical.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

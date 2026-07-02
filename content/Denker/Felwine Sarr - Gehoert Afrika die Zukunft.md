@@ -19,6 +19,16 @@ aliases:
 
 # Felwine Sarr — Gehört Afrika die Zukunft?
 
+![[assets/Felwine-Sarr-Gehoert-Afrika-die-Zukunft-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Papa Ibra Tall / École de Dakar** — senegalesischer Bildteppich: fließende arabeske Linien, flache strahlende Farbfelder, gewebte Textur. Die Schule, die unter Senghor der künstlerische Arm eines afrikanischen Zukunftsentwurfs war — eine Utopie aus eigenen Quellen verdient Kunst aus eigenen Quellen. Die Bildlogik ist Sarrs Restitutions-Argument: Ahnenmasken, Weber und Zukunftsstadt bestehen aus demselben Faden.
+
+*Prompt:* Wide banner, 1200x500. Senegalese modernist tapestry in the style of Papa Ibra Tall and the École de Dakar: flowing sinuous contour lines, flat radiant color fields, woven-textile texture, no realistic faces, no photorealism. Deep indigo night ground on the left dissolving into a warm golden dawn on the right. LEFT: stylized ancestral figures and carved masks rendered in ochre and burnt sienna, their outlines unraveling into long flowing threads. CENTER: a tall silhouetted figure in profile, drawn in one continuous elegant line, catching these threads with open hands and weaving them forward. RIGHT: the threads rise and curve into a radiant concentric sun above a growing city of rounded rooftops, baobab crowns, railway arcs and small sailing pirogues on a river delta — the city drawn from the same thread as the ancestors. Palette: indigo, ochre, burnt sienna, coral red, luminous gold. Rhythmic, musical composition, generous negative space, hand-woven warmth.
+
+</details>
+
 > [!abstract] Worum es geht
 > Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma. Yves Bossart spricht mit dem senegalesischen Ökonomen, Philosophen und Musiker über sein Buch *Afrotopia*: warum „Entwicklung" ein Wort aus dem Kalten Krieg ist, warum die Muriden-Bruderschaft ohne Anwälte wirtschaftet, was Mandela aus Ubuntu machte — und warum der Kontinent, dem man die Zukunft immer nur versprochen hat, sie diesmal selbst entwerfen will.
 
