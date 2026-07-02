@@ -81,6 +81,26 @@ Es ist die produktivste Umkehrung des Gesprächs. Die Aufklärung erzählte den 
 
 [▶ 24:30](https://www.youtube.com/watch?v=FpLob9R3azk&t=1470) — Michels liebstes Belegstück ist das Grab der **Schamanin von Bad Dürrenberg**, rund 9000 Jahre alt: ein außergewöhnlich reich ausgestattetes Grab aus der Zeit vor der Sesshaftigkeit — und es gehört einer Frau. Für ihn ein Fingerzeig, dass Frauen in den alten Gesellschaften prominente, mitunter die prominentesten Rollen spielen konnten. Das Patriarchat, sagt er, kommt erst danach.
 
+### Weitergedacht: die Freiheit zu gehen
+
+> [!note] Ergänzung — nicht aus dem Gespräch
+> Der folgende Abschnitt stammt *nicht* von van Schaik und Michel, sondern trägt einen verwandten anthropologischen Mechanismus nach, den das Interview offenlässt. Er ist eigens belegt.
+
+Van Schaik und Michel erklären den Frieden der Wildbeuter über den erzwungenen Egalitarismus und die kleine Gruppengröße — sobald die Gruppe wächst, sagt van Schaik, wird die Outgroup zum Problem. Doch es gibt einen zweiten, komplementären Grund, den die Ethnografie deutlich macht: **Mobilität**. Nomadische Jäger und Sammler waren nicht an Ort, Vorrat und Besitz gebunden. Wer mit einem dominanten Mann, einer Nachbarin oder der ganzen Gruppe überwarf, konnte schlicht *gehen* — sich einer anderen Bande anschließen, weiterziehen. Konflikte mussten nicht ausgetragen werden, sie konnten sich räumlich auflösen. Anthropologen nennen das „voting with your feet".
+
+Der Sozialanthropologe **James Suzman**, der 25 Jahre bei den Ju/'hoansi der Kalahari lebte, beschreibt diese „fierce egalitarianism" als aktiv gepflegt: durch *demand sharing*, durch das rituelle Verspotten der Beute eines erfolgreichen Jägers („insulting the meat", um „sein Herz zu kühlen") — und eben durch die jederzeit offene Möglichkeit, wegzugehen. Genau das macht auch den Bogen zurück zum „Sündenfall" der Sesshaftigkeit: Wer Felder, Vorräte und Vieh besitzt, *kann* nicht mehr einfach gehen. Die Sesshaftigkeit nimmt beides zugleich — die kleine Gruppe und die Fluchttür. Man ist an den Konflikt gekettet wie an den Acker.
+
+Christopher Boehm fasst denselben Befund in *Hierarchy in the Forest*: mobile Wildbeuter halten Gleichheit durch eine „umgekehrte Dominanzhierarchie" aufrecht, in der die Gruppe Möchtegern-Herrscher niederhält — und der Ausstieg ist der letzte, stets verfügbare Hebel. Eine vergleichende Studie über vier afrikanische Jäger-und-Sammler-Gruppen führt **residenzielle Mobilität** ausdrücklich als einen von sechs Mechanismen auf, mit denen Egalitarismus stabil bleibt.
+
+> [!question] Weitergedacht
+> Wenn Frieden auch daran hing, dass man den Konflikt *verlassen* konnte — *was bedeutet es, dass unsere modernen Verhältnisse (Miete, Job, Grenze, Schuld) die Fluchttür systematisch zumauern?*
+
+**Belege für diesen Abschnitt:**
+- James Suzman: *Hunter-gatherers — the original affluent society* (Essay, Daily Maverick, 2017) — [dailymaverick.co.za](https://www.dailymaverick.co.za/article/2017-12-13-op-ed-hunter-gatherers-the-original-affluent-society/)
+- James Suzman: *Affluence Without Abundance. The Disappearing World of the Bushmen* (2017) — [Überblick (Wikipedia)](https://en.wikipedia.org/wiki/Affluence_Without_Abundance) · [genialokal](https://www.genialokal.de/Suche/?q=suzman+affluence+without+abundance)
+- Christopher Boehm: *Hierarchy in the Forest. The Evolution of Egalitarian Behavior* (Harvard UP, 1999) — [hup.harvard.edu](https://www.hup.harvard.edu/books/9780674006911)
+- Thomson, Lew-Levy, von Rueden, Stibbard-Hawkes: *„Fiercely Egalitarian". Thematic Cross-Cultural Analysis Reveals Regularities in the Maintenance of Egalitarianism Across Four Independent African Hunter-Gatherer Groups*, *Cross-Cultural Research* (2025), DOI [10.1177/10693971251338210](https://doi.org/10.1177/10693971251338210)
+
 ### Gegen Hobbes, gegen die Hummer
 
 [▶ 19:57](https://www.youtube.com/watch?v=FpLob9R3azk&t=1197) — Die These hat zwei prominente Gegner, und das Gespräch nennt beide beim Namen. Der erste ist **Thomas Hobbes** und sein Krieg aller gegen alle. Van Schaik nimmt ihn in Schutz und widerlegt ihn zugleich: Hobbes übersetzte Thukydides, las von den Katastrophen des Peloponnesischen Kriegs und schloss, so müsse der Naturzustand gewesen sein. Er konnte es nicht besser wissen — die verlässlichen Berichte über lebende Jäger-und-Sammler-Gesellschaften gab es im 16. Jahrhundert noch nicht. Das Bild vom Wilden mit der Keule, der die Frau an den Haaren in die Höhle schleift, sei „falscher könnte es nicht sein". Und wer dieses falsche Menschenbild zur Normalität erklärt, zieht falsche Folgerungen: Sozialdarwinismus, „man muss die Schwachen eliminieren".
