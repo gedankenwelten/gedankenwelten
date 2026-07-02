@@ -7,6 +7,16 @@ tags: [denker-vita, feminismus, postkolonialismus, simbabwe, literatur]
 
 # Tsitsi Dangarembga — DenkerVita
 
+![[assets/Tsitsi-Dangarembga-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Shona-Skulptur als Malerei** — im Geist von Nicholas Mukomberanwa und Sylvester Mubayi: polierter Serpentin-Stein vor einem simbabwischen Abendhimmel in Ocker- und Terrakotta-Bändern. Die Schreibende vorn, hinter ihr die Ahnenreihe der Frauen, die sich in den Horizont auflöst — ihr Stift setzt die Linie fort, aus der Bücher und Vögel werden; rechts die Balancing Rocks, Simbabwes Wahrzeichen des Gleichgewichts. Die Landessprache ihrer Kultur in Stein, weil Dangarembga heute selbst „die älteste Frau in der Linie" ist.
+
+*Prompt:* Zimbabwean Shona stone sculpture aesthetic rendered as a painted wide banner, smooth dark serpentine stone forms with polished highlights, in the spirit of Nicholas Mukomberanwa and Sylvester Mubayi, 1200x500px. Warm background of layered ochre, terracotta and dusk-orange bands, like a Zimbabwean evening sky. Center-left: a monumental stylized head and shoulders of a woman carved from black-green serpentine stone, abstract simplified features (no realistic face), calm and upright, one hand emerging from the stone holding a pen like a small chisel. From the pen flows a single unbroken carved line that becomes a row of open books, and the books release stylized birds flying toward the right edge. Behind her, receding to the right: a lineage of smaller ancestor figures in the same smooth stone style, women standing one behind another, each slightly more abstract, dissolving into the horizon. Far right: the iconic balancing rocks of Zimbabwe, stacked boulders in silhouette, perfectly poised. Ground line of dry grass in burnt gold. Sculptural volumes, soft stone sheen, flat warm sky, quiet monumental dignity. No photorealism. No text.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
