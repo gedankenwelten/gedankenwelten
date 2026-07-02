@@ -17,6 +17,16 @@ aliases:
 
 # Who the f#ck is Agartha?
 
+![[assets/Leonie-Heims-und-Tim-Stark-Who-the-fck-is-Agartha-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Winsor McCay** (*Little Nemo in Slumberland*) — Jugendstil-Linien, flache Bonbonfarben, Traumarchitektur, die ins Alptraumhafte kippt. Genau die Dramaturgie der Note: Eine Generation lernte den Mythos als Spiel kennen — McCays Hand malt die Verführung mit, nicht nur die Gefahr. Der Querschnitt durch die hohle Erde macht den Witz zur Oberfläche und die Ideologie zur Geologie; das kalte Licht der leeren Stadt steigt durch die Risse bis in die Augen der Kinder.
+
+*Prompt:* Wide panoramic banner, 1200x500, in the style of Winsor McCay's Little Nemo comic pages — Art Nouveau linework, flat candy-colored inks, dreamlike vertical architecture, no photorealism, no realistic faces. A geological cross-section of the earth, cut open like a cake, spanning the full width. TOP THIRD (bright daylight, naive fairground colors — mint, rose, cream): a cheerful meadow-carnival on the earth's surface. Small cartoon children with dot eyes fly a shiny silver disc on a string like a kite balloon; a candy-striped drink stand sells glowing white energy cans; an arcade cabinet stands in the grass; confetti and music notes drift in the air. Everything innocent, toy-like. MIDDLE STRATA (colors cooling, amber to sepia to slate): descending horizontal layers of earth, each a scene in a display case. First layer: a Victorian theatre stage with red curtains and a tiny ornate poster kiosk. Second layer: a small expedition ship frozen in blue-grey ice among penguins, crates stamped with blank labels. Third layer, much darker: rows of faceless marching silhouettes in charcoal black, scratched angular sigils on the rock (abstract scratches only, no real symbols, no hate symbols), woodcut texture. BOTTOM CENTER (the deepest cavern): a hollow glowing city of pale domes and spires radiating a cold white-blue light — beautiful but sterile, empty streets, no inhabitants. Thin cracks run upward from this city through all the strata to the surface, and the cold blue light leaks up through the cracks, faintly tinting the eyes of the children at the top. Ornate Art Nouveau border framing the whole banner like a vintage Sunday comic page. Muted paper texture. No text, no lettering, no realistic faces, no photorealism, no hate symbols.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Verschwörungsmythos reist 150 Jahre — vom viktorianischen Roman über Himmlers Pseudoforschung bis in den TikTok-Feed, wo der Witz die Tarnung der Ideologie ist. Leonie Heims und Tim Stark führen auf der re:publica 26 durch die „Agartha-Sphäre": eine Meme-Community, die aussieht wie ein Insider-Gag mit Energy-Drinks und DJ Ötzi — und in der sich Rassenlehre, Holocaust-Leugnung und Gewaltästhetik unter dem Schutzschild der Ironie verbreiten. Man lässt sich ein auf eine Reise, die als Comedy beginnt und in Jakarta bei einem Amokläufer endet.
 
