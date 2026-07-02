@@ -248,6 +248,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Franz Kafka
 **Status:** ✓ Vollanalyse → [[DenkerVita/Franz Kafka]]
 
+## Felwine Sarr
+**Status:** ✓ Vollanalyse → [[DenkerVita/Felwine Sarr]]
+
 ## Gerald Hüther
 **Status:** ✓ Vollanalyse → [[DenkerVita/Gerald Hüther]]
 
@@ -543,6 +546,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Teresa Bücker
 **Status:** ✓ Vollanalyse → [[DenkerVita/Teresa Bücker]]
+
+## Tsitsi Dangarembga
+**Status:** ✓ Vollanalyse → [[DenkerVita/Tsitsi Dangarembga]]
 
 ## Theodor W. Adorno
 **Status:** ✓ Vollanalyse → [[DenkerVita/Theodor W. Adorno]]

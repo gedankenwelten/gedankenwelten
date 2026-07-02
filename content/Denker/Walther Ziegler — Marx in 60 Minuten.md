@@ -199,3 +199,7 @@ Quelle: [Marx in 60 Minuten](https://www.youtube.com/watch?v=thoI8naBo4E)
 - [[Walther Ziegler — Camus in 60 Minuten]] — Camus kritisiert Marx direkt: Die Idee eines Endziels der Geschichte ist eine unzulässige Sinnerklärung, die ganze Generationen verheizt. Der historische Materialismus als säkulare Heilslehre — nicht weniger eine Flucht als die Religion
 - [[Kojin Karatani — Tauschformen und die Ueberwindung der Triade]] — Karatani ist der schärfste zeitgenössische Marx-Kritiker aus dem marxistischen Lager: Marx behandelte Staat und Nation als bloßen Überbau des Kapitals. Karatani zeigt, warum genau das alle Revolutionen scheitern ließ — Staat und Nation sind eigenständige Tausch-Modi (B und A), keine Ableitung von Mode C.
 - [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch]] — Schaupp greift implizit Marx' "Maschinenfragment" auf: Technologie erhöht nie die Freizeit, sondern die Verhandlungsmacht des Kapitals. NANO liefert den aktuellen Beweis für KI.
+
+### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
+
+Marxsche Pointe im Schwarzen Feminismus: Dangarembgas „Eigentums-Patriarchat" macht das Privateigentum zur Variablen der Geschlechterherrschaft — der Kapitalismus verwandelt die vorkoloniale Vertragslogik in eine Verkaufslogik, in der man Ehefrauen besitzen kann. Anders als Marx will sie aber keinen Umsturz: Der Kapitalismus sei nicht rückgängig zu machen, gesucht wird eine Form des Wohlseins.

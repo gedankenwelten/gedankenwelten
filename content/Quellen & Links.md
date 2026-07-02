@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Tsitsi Dangarembga — Feministische Stimme Afrikas
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Tsitsi Dangarembga – Feministische Stimme Afrikas — Sternstunde Philosophie](https://www.youtube.com/watch?v=Kh6mAMU3oNs) |
+| **Englisches Original** | [Zimbabwe's Feminist Voice](https://youtu.be/ttHZ0b25Am4) |
+| **Einspieler** | [Felwine Sarr – Gehört Afrika die Zukunft? — Sternstunde Philosophie](https://www.youtube.com/watch?v=EptpupHJGRo) |
+| **Notiz** | [[Tsitsi Dangarembga - Feministische Stimme Afrikas]] |
+| **DenkerVita** | [[DenkerVita/Tsitsi Dangarembga]] · [[DenkerVita/Felwine Sarr]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Dangarembga_Sternstunde_Transkript.txt` |
+
 ## Carel van Schaik & Kai Michel — Die drei Naturen des Menschen
 
 | | |

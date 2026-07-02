@@ -187,6 +187,10 @@ Pörksen zitiert Arendt: „Die Wahrheit beginnt zu zweit" — das ist Callards 
 
 Die populäre Lesart „das ungeprüfte Leben ist nicht lebenswert" bekommt bei Callard ihre philologische Schärfung: Sokrates sage *nur*, das Ungeprüfte sei es nicht — nicht, das Geprüfte sei lebenswert. Callard weigert sich, den Satz aufzurunden — und korrigiert damit genau die tröstliche Verdichtung, in der der Gedanke sonst weitergereicht wird.
 
+### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
+
+Zwei Denkerinnen, die das Leben als Praxis statt als Programm fassen: Callards geprüftes, dialogisches Leben und Dangarembgas „mein Leben ist meine Praxis" — hinschauen, ob Wohlsein herrscht, beim Nächstliegenden ansetzen. Beide misstrauen der großen Vision zugunsten der geübten Frage.
+
 ---
 
 ## Weiterdenken

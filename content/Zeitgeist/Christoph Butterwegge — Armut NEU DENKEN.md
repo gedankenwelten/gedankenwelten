@@ -309,3 +309,7 @@ Butterwegge liefert die empirische Untermauerung von Browns Theorie: Browns Thes
 ### → [[MONITOR — Sparhammer gegen Jugendliche]]
 
 MONITOR dokumentiert, wie §41a-Streichung und Jugendhilfe-Kürzungen genau die Gruppe treffen, die Butterwegge als strukturell benachteiligt beschreibt: junge Erwachsene ohne familiäres Sicherheitsnetz. Das Matthäus-Prinzip in seiner reinsten Form — die Ressourcen werden dort gestrichen, wo kein Kapital zurückfließt, aber hohe gesellschaftliche Kosten entstehen, wenn die Prävention fehlt.
+
+### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
+
+Dieselbe These in radikalerer Fassung: Armut ist kein Zustand, sondern hergestellt. Was Butterwegge für Deutschland strukturell zeigt, beschreibt Dangarembga für Simbabwe als Waffe — Kolonialverwaltung ersetzt Nahrungspflanzen, presst Preise, hält Menschen am Abgrund, „damit sie an nichts anderes denken können als ans Überleben".

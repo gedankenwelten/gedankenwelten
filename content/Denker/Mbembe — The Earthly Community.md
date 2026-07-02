@@ -211,6 +211,10 @@ Die Visumsverweigering für Ephantus Kanyugi ist bei Mbembe strukturell lesbar: 
 
 Cusicanqui teilt Mbembes Diagnose, dass Kolonialität alle erfasst, nicht nur die Kolonisierten — aber wo Mbembe eine planetarische Gemeinschaft des Lebendigen entwirft, misstraut sie jeder großen Synthese und setzt auf die kleine, temporäre Neocomunidad jenseits von Markt und Staat. Universalismus des Planeten gegen Universalismus von unten — dieselbe Wunde, zwei Maßstäbe der Heilung.
 
+### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
+
+Zwei afrikanische postkoloniale Stimmen mit Ubuntu als Zentralbegriff und dem Kolonialismus als fortlebender Infrastruktur — aber wie Entwurf zu Übung: Mbembe denkt die planetare Gemeinschaft als Vision, Dangarembga verweigert die Utopie („Ich glaube nicht an Utopien") und setzt auf die Praxis des Wohlseins im Hier und Jetzt.
+
 ---
 
 ## Weiterdenken

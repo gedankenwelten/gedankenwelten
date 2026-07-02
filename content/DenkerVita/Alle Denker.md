@@ -99,6 +99,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## F
 
+**[[DenkerVita/Felwine Sarr|Felwine Sarr]]** — Ökonom, Philosoph, Musiker und Schriftsteller (Senegal / Duke University); *Afrotopia* — Afrikas Zukunft aus eigenen Quellen statt nachholender Entwicklung; Sarr-Savoy-Report zur Restitution kolonialer Kulturgüter; Mitgründer der Ateliers de la Pensée
+
 **[[DenkerVita/Fabian Bernhardt|Fabian Bernhardt]]** — Philosoph (FU Berlin, SFB „Affective Societies"); Philosophie der Rache als blinder Fleck der Moderne, Rache als reaktive Ursprungserfahrung von Moral
 
 **[[DenkerVita/Fabian Braesemann|Fabian Braesemann]]** — Ökonom, Datenanalyst (Oxford Internet Institute); KI und Arbeitsmärkte, komplexe Systeme, empirische Forschung zu Arbeitsmarktübergängen und KI-Integration
@@ -311,6 +313,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Tim Meyer|Tim Meyer]]** — Unabhängiger Energieexperte, Autor *Strom*; ehem. dena-Geschäftsführer; Chinas Cleantech als industrielogische Transformation, Europa muss aufwachen
 
 **[[DenkerVita/Torsten Heinrich|Torsten Heinrich]]** — Historiker, YouTuber „Militär & Geschichte"; Neutralität vs. Objektivität, Quellenkritik, Jus ad bellum vs. Jus in bello
+
+**[[DenkerVita/Tsitsi Dangarembga|Tsitsi Dangarembga]]** — Simbabwische Schriftstellerin und Filmemacherin (*Nervous Conditions*, Booker-Shortlist 2020, Friedenspreis 2021); Kolonialismus in den Köpfen, Schwarzer Feminismus, Kunst als Widerstand, „Ubuntu 2.0"
 
 ## U
 

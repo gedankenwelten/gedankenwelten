@@ -52,6 +52,10 @@ Die Gedankenwelten (luc)
 >
 > Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
 
+> **02.07.** — [[Denker/Tsitsi Dangarembga - Feministische Stimme Afrikas|Tsitsi Dangarembga — Feministische Stimme Afrikas]]
+>
+> Zimbabwe ist kein armes Land — die Armut wurde hergestellt, als Waffe. Tsitsi Dangarembga über den Kolonialismus in den Köpfen und Wohlsein als Gegenentwurf zur Utopie.
+
 > **02.07.** — [[Denker/Carel van Schaik und Kai Michel — Die drei Naturen des Menschen|Carel van Schaik & Kai Michel — Die drei Naturen des Menschen]]
 >
 > Wir sind nicht kaputt, wir sind fehl am Platz — der Primatologe und der Historiker über das Jäger-und-Sammler-Erbe in uns und die 5000 Jahre, die alles verschoben haben.
