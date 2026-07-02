@@ -325,8 +325,11 @@ Fromm: Selbsteinschätzung als ehrlicher Blick auf das eigene Leben — statt de
 - [[Clara Mattei — Geschichte der Austeritaetspolitik]] — Mattei zeigt, wie die neoklassische Ökonomie die „Haben"-Orientierung legitimiert — der Unternehmer als „tugendhafter Sparer"
 - [[Walther Ziegler — Rawls in 60 Minuten]] — Fromm fragt ob die Fixierung auf Güter selbst das Problem ist — Rawls fragt nur wie Güter verteilt werden sollen
 
----
+### → [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
 
+Yorans „Dienstleistung statt Besitz“ (re:publica 26) denkt ökonomisch, was Fromm psychologisch fasst — den Ausstieg aus dem Haben-Modus. Wo Fromm den Besitz als Entfremdungsquelle sieht, warnt Yoran zugleich vor dem Abo-Verhältnis als neuer Falle des Nicht-Besitzens.
+
+---
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

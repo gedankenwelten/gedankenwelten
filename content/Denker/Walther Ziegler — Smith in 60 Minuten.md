@@ -226,3 +226,7 @@ Smith und Rawls als Gegenpole im selben Denk-Format: Smith feiert den Eigennutz 
 ### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
 
 Der Einspruch aus dem Süden gegen Smiths Menschenbild: Sarrs *homo africanus* ist kein *homo oeconomicus* — die Vertrauensökonomie der Muriden wirtschaftet auf das gegebene Wort statt auf den Eigennutz, und der Austausch stiftet Beziehung, nicht nur Güterbewegung.
+
+### → [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
+
+Yorans „Warum der Markt das nicht richtet“ (BSH-Konzentration, wertlose Reviews, Mindestvorgabe als Zielvorgabe) ist die empirische Anfrage an Smiths unsichtbare Hand — am Beispiel Duschschlauch.

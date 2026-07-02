@@ -202,3 +202,7 @@ Die phoenixRunde zeigt Linartas' strukturelle These in der Livekontroverse: Kapi
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
 
 Linartas liefert das strukturelle Fundament zu Merkels Befund, die Jungen empfänden den Wohlstand als ungerecht verteilt: die Erbengesellschaft als unverdiente Ungleichheit.
+
+### → [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
+
+Yorans Pointe „die moralische Last liegt bei denen mit der geringsten Marktmacht“ verschränkt Konsumkritik mit Linartas' Verteilungsfrage: Nachhaltiger Konsum ist ein Privileg der Kaufkräftigen.

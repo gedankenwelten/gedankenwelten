@@ -182,8 +182,15 @@ Gabriel positioniert sich Anti-Degrowth und liefert mit „true profit" das mora
 
 Löschel überträgt Trugers methodischen Einwand auf die Energie: Energiestückkosten statt absoluter Strompreise — dieselbe Kritik an Messgrößen, die die relevante Frage verdecken. Sein Plädoyer für margenstarke Wertschöpfung wäre zugleich Trugers Prüfstein: Effizienzgewinn oder elegant beschriebene Deindustrialisierung?
 
----
+### → [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
 
+Yorans „Kostenwahrheit erzwingen“ (das 5-Euro-Shirt bildet seine Folgekosten nicht ab) ist Göpels Externalitäten-Argument, heruntergebrochen auf den Küchenherd — die Alltags-Mikroskopie zur Makro-Ökonomie.
+
+### → [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]]
+
+Bendsen seziert auf Unternehmensebene dieselbe Bewertungsblindheit, die Göpel/Truger am BIP zeigen: KPIs, die Externalisierung belohnen — „das Billige ist eine Fehlbuchung“ als Mikro-Fassung von „Wachstum — wozu?“.
+
+---
 ## Faktencheck
 
 > [!success] Bestätigt — Achim Truger ist Sachverständigenrats-Mitglied

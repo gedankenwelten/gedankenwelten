@@ -243,6 +243,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Niclas Seydack|Niclas Seydack]]** — Freier Reporter und Publizist, schreibt für Die Zeit, Spiegel, SZ Magazin; Autor von *Geile Zeit*; Scharnier-Generation zwischen Sorglosigkeit und Dauerkrise
 
+**[[DenkerVita/Nicole Bendsen|Nicole Bendsen]]** — Partnership Manager bei Circular Berlin (Kreislaufwirtschaft); lineare Wirtschaft als gemeinsames Betriebssystem der Krisen, „Externalitäten“ verharmlost die realen Kosten, Zirkularität als Risikominimierung statt Moral (Circular Value Program)
+
 **[[DenkerVita/Nicole Buettner|Nicole Büttner]]** — Tech-Unternehmerin, KI-Wirtschaftsexpertin (geb. 1985); Gründerin & CEO Merantix Momentum (KI-Beratung); Generalsekretärin FDP Mai 2025–Mai 2026; Co-Gründerin AI Campus Berlin; Investorin in Early-Stage KI-Startups; WEF Digital Leader of Europe; liberal-marktwirtschaftliche Agenda für europäische KI-Souveränität durch Unternehmertum, nicht Isolation
 
 **[[DenkerVita/Nicole Deitelhoff|Nicole Deitelhoff]]** — Politikwissenschaftlerin, Professorin für Internationale Beziehungen, Goethe-Universität Frankfurt; Geschäftsführende Direktorin PRIF/HSFK, Co-Moderatorin StreitClub
@@ -339,6 +341,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## X
 
 ## Y
+
+**[[DenkerVita/Gabriel Yoran|Gabriel Yoran]]** — Autor & Unternehmer (Steady/Steganos/aka-aki), in Philosophie promoviert bei Graham Harman; „Verkrempelung der Welt" — warum Alltagsdinge schlechter und komplizierter werden und dennoch als Fortschritt verkauft werden
 
 ## Z
 
