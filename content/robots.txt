@@ -9,4 +9,25 @@ Allow: /
 
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
+# Nicht willkommen: reine SEO-/Backlink-Trawler.
+# Sie tragen nichts weiter — sie ernten Daten, um sie zu verkaufen.
+# Wer nur für sich einstreicht, hat hier nichts zu suchen.
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: dataforseo-bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
 Sitemap: https://gedankenwelten.org/sitemap.xml
