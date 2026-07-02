@@ -193,6 +193,10 @@ Strukturell analoges Problem: Wie bewahrt man den lebendigen Kern einer Traditio
 
 Dieselbe Grundbewegung in einer anderen Welt: Reform nicht als Import von außen, sondern als Arbeit am Eigenen von innen. Cusicanqui dekolonisiert die Subjektivität durch die Aymara-Episteme, wie Soroush den Glauben durch seine eigene Tradition — beide gegen die doppelte Front aus heimischer Orthodoxie und westlicher Bevormundung, beide mit dem Preis des Bruchs mit der eigenen Institution.
 
+### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
+
+Die Schwester-Note: dort die *politische* Seite desselben Denkens — was folgt aus fehlbarem religiösem Wissen für Staat, Gesetz und Identität? Soroushs Drei-Phasen-Lesart der islamischen Zivilisation, die These „Häresie entsteht erst durch Macht", im Dialog mit dem katholischen Islamwissenschaftler Paul Heck — samt dem wunden Punkt, an dem die Reform an die Autorität der Gelehrten stößt (Georgetown 2008).
+
 ---
 
 ## Weiterdenken

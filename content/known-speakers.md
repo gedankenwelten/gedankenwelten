@@ -477,6 +477,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Natalie Amiri
 **Status:** ✓ Vollanalyse → [[DenkerVita/Natalie Amiri]]
 
+## Paul Heck
+**Status:** ✓ Vollanalyse → [[DenkerVita/Paul Heck]]
+
 ## Paul Lance
 **Status:** ✓ Vollanalyse → [[DenkerVita/Paul Lance]]
 

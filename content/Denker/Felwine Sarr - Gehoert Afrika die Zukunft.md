@@ -204,6 +204,10 @@ Konvergenz beim Schlussbegriff: Sarrs „Wohlsein statt Wohlstand" (jenseits des
 
 Verbindung über die *Rehabilitierung der Utopie*: Sarr rettet die Utopie als „Prozess der sozialen Transformation" gegen den Dystopie-Verwaltungsmodus des Westens; die Gedanken-Note führt genau so eine bewusst durchgespielte, realistische Utopie vor — beide gegen die These, dass wir nichts mehr wollen dürfen, als Katastrophen zu verhindern.
 
+### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
+
+Hecks „Epistemologie der Freundschaft" ist Sarrs Forderung in der Islampolitik: Der Westen studiert den Islam, um ihn zu kontrollieren — wie er Afrika vermisst, um es zu „entwickeln". Beide setzen dagegen Wissen als Beziehung: acht Stunden Gespräch mit dem Scharia-Dekan von Damaskus statt eines definierenden Interviews.
+
 ---
 
 ## Weiterdenken

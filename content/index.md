@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **03.07.** — [[Denker/Soroush und Heck — Politische Tradition des Islam|Soroush und Heck — Kann die politische Tradition des Islam gerettet werden?]]
+>
+> Ein Muslim und ein Katholik fragen, was vom politischen Erbe des Islam zu retten ist — nicht die Identität, nicht das Gesetz, sondern die Werte: Gerechtigkeit und Freiheit.
+
 > **02.07.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
 >
 > Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
@@ -64,9 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Wir sind nicht kaputt, wir sind fehl am Platz — der Primatologe und der Historiker über das Jäger-und-Sammler-Erbe in uns und die 5000 Jahre, die alles verschoben haben.
 
-> **01.07.** — [[Denker/Edgar Morin — Das komplexe Denken|Edgar Morin — Das komplexe Denken]]
->
-> Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt.
+> → *1 weitere in* [[Denker]]
 
 ### Gedanken
 

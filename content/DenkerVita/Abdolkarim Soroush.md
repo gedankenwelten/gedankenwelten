@@ -133,14 +133,15 @@ Soroush war 1979 revolutionär gesinnt, wurde aber schnell zum Kritiker der theo
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier leer lassen)*
+- **[[DenkerVita/Paul Heck|Paul Heck]]** — sein katholisches Gegenüber am Berkley Center (Georgetown 2008): Beide denken das „religio-säkulare Moment", Heck von der christlichen, Soroush von der islamischen Seite; ihr offener Dissens über die Lage der Frauen blieb im Raum stehen.
+- **[[DenkerVita/Michel Foucault|Michel Foucault]]** — Soroushs Häresie-These (Häresie entsteht erst, wo Deutung sich mit Macht verheiratet) ist die Macht-Wissen-Kopplung in religionsphilosophischer Übersetzung.
+- **[[DenkerVita/Silvia Rivera Cusicanqui|Silvia Rivera Cusicanqui]]** — Reform als Arbeit am Eigenen von innen, gegen die doppelte Front aus heimischer Orthodoxie und westlicher Bevormundung.
+- **[[DenkerVita/Konfuzius|Konfuzius]]** — strukturell dasselbe Problem: den lebendigen Kern einer Tradition gegen ihre institutionelle Erstarrung bewahren.
 
 ## Gedankenwelten-Notes
 
-Suche nach Notes im Vault, die Soroush oder seine Thesen behandeln:
-- `[[Zeitgeist/...]]` — (nach Videonotes zu Soroush-Interviews suchen)
-- `[[Denker/...]]` — (nach Notizen zur iranischen Reformbewegung suchen)
-- `[[Panorama/...]]` — (ggf. „Islam und Demokratie", „Religionsphilosophie")
+- [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen]] — seine Religionsphilosophie: Qabz va Bast, Offenbarung als Regen, die Pflicht zur Reformation (Kenyon 2014 / AAR 2011)
+- [[Denker/Soroush und Heck — Politische Tradition des Islam]] — die politische Anwendung: Was ist vom politischen Erbe des Islam zu retten? Podiumsgespräch mit Paul Heck (Georgetown 2008)
 
 ---
 

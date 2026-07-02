@@ -259,6 +259,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## P
 
+**[[DenkerVita/Paul Heck|Paul Heck]]** — Islamwissenschaftler (Georgetown, römisch-katholisch); Skeptizismus im klassischen Islam, politische Theologie, religiöser Pluralismus — Religion als etwas Größeres als Identität, „Epistemologie der Freundschaft“
+
 **[[DenkerVita/Paul Lance|Paul Lance]]** — Amerikanischer Aktivist; Trump als Faschismus-Muster, Apathie als Enabler, Ex-Republikaner, Perspektive aus dem amerikanischen Innenleben
 
 **[[DenkerVita/Pascal Kaufmann|Pascal Kaufmann]]** — Neurowissenschaftler & Unternehmer (Schweiz); Gründer Alpine AI (Swiss/European sovereign AI, 2023), Lab42 (2022), Starmind AG (2010); Kernthese: Vertrauen als wichtigste KI-Währung; Swiss GPT = europäisches Datenschutz-First-Modell; Wettbewerb durch Kompetenz-Differenzierung statt Isolation; WEF-Referent, 3× Top Digital Leader Bilanz, EY Entrepreneur of the Year Finalist 2015
