@@ -140,6 +140,9 @@ Jeder der sechs Sätze ist in der Videobeschreibung mustergültig belegt — Fun
 
 ## Verbindungen
 
+### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
+Callard schärft die hier verdichtete Sokrates-Weisheit philologisch: Er sagt *nur*, das Ungeprüfte sei nicht lebenswert — nicht, das Geprüfte sei es. Die Weigerung aufzurunden ist selbst gelebte sokratische Demut.
+
 ### → [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
 Onos Bildungskritik im KI-Zeitalter ist die operative Seite dieses *thaumázein*: Wenn Wissen billig wird, bleibt nur das Staunen und die gute Frage. Der Mathematiker zeigt am eigenen Schock, was hier philosophisch steht — die offene Lücke aushalten, statt sie schnell zu schließen.
 

@@ -210,6 +210,7 @@ Was er meint: Es gibt Formen der *Geistesgegenwärtigkeit*, die nicht über spra
 
 ## Verbindungen
 
+- [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]] — Callard führt vor, was Eilenberger fordert: Philosophie als öffentliche, gelebte Praxis statt Schulbetrieb. Beide markieren dieselbe Grenze — Eilenbergers „Mystik als Sandfluss" jenseits des Begriffs entspricht Callards Zugeständnis an den Zen-Mönch, der vielleicht ohne Argument weiß, wie er leben soll.
 - [[Hannah Arendt — Denken ohne Geländer]] — Arendt ist für Eilenberger eine der exemplarischen Verkörperungen von Geistesgegenwart; beide betonen: Denken ist ein eigenständiger Akt, kein Instrument für andere Zwecke. "Denken ohne Geländer" = Fundamentverlust als Freiheitsbedingung.
 - [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] — Ricards Meditationspraxis ist genau das "Nicht-Denken", das Eilenberger als Sandfluss der Mystik beschreibt; wo Eilenberger philosophisch argumentiert, verkörpert Ricard die Praxis.
 - [[S.N. Goenka — Vipassana]] — Vipassana ist das direkteste Gegenstück zu Eilenbergers Mystik-These: eine nicht-sprachliche, präzise Methode der Geistesgegenwart — Anicca, Vedana, Upekkha als Werkzeuge des Gewahrseins jenseits des Begriffs.

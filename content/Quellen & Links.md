@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Agnes Callard — Warum lohnt sich ein sokratisches Leben?
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Warum lohnt sich ein sokratisches Leben, Agnes Callard? — Sternstunde Philosophie](https://www.youtube.com/watch?v=YPLVdDPiMzk) |
+| **Englisches Original** | [Why Live a Socratic Life?](https://youtu.be/vvwP5l9daj0) |
+| **Notiz** | [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]] |
+| **DenkerVita** | [[DenkerVita/Agnes Callard]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Callard_Sokratisches_Leben_Transkript.txt` |
+
 ## Leonie Heims & Tim Stark — Who the f#ck is Agartha?
 
 | | |
