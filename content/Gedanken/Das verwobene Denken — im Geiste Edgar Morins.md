@@ -89,6 +89,10 @@ Ich will weder Optimist noch Pessimist sein; beides ist mir zu bequem. Morins Ve
 
 Die analytische Note über Morins Leben und Werk — dieser Gedanke denkt mit ihr weiter. Dort das *Was* (Biografie, Konzepte, Belege), hier ein eigener Schluss, der sich seiner Werkzeuge bedient. Wer die Grundlage sucht, geht dorthin.
 
+### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
+
+Callard hält denselben Widerspruch, aber umgekehrt: Wo Morins *dialogique* zwei Logiken in *einem* Denker zusammenhält, sagt sie, genau das könne eine Instanz nicht — Sokrates *verteilt* „Besitze Wahrheiten" und „Vermeide Irrtümer" auf zwei Personen. Und dass das Schwerste ist, der Gegenseite einen Punkt zuzugestehen, ist genau die Barriere, die ihre Nagelprobe der Demut überwinden will.
+
 ### → [[Das unsichtbare Netzwerk — Die Macht in Dir]]
 
 Das Bild der Kultur als Gewebe stammt von dort: was einmal verwoben wurde, verschwindet nie ganz — es wird schwächer und prägt trotzdem das Neue. Angewandt auf Kultur wird daraus die Widerlegung der Angst vor dem „Verlust": ein Fluss verliert sich nicht, wenn neues Wasser hinzukommt.

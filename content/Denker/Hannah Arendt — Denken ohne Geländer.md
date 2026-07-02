@@ -160,6 +160,10 @@ Arendt war deshalb Kritikerin der repräsentativen Demokratie: nicht weil sie ge
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
+
+Callard dreht Arendts Pluralität in reine Erkenntnistheorie: Nur ein anderer Mensch kann die eigene Weltsicht in Frage stellen — der blinde Fleck sieht sich nicht selbst. Ihre Nagelprobe der Demut (echtes Prüfen im Gespräch statt „ich könnte mich irren") ist Arendts verlässlicher Zweifler auf der Ebene des Dialogs.
+
 ### → [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
 Mühlhoff aktualisiert Arendts Banalität-des-Bösen-Konzept für das KI-Zeitalter: Wenn Selektion (Kreditvergabe, Arbeitsmarkt, Überwachung) durch Algorithmen passiert, stirbt das moralische Urteil nicht durch Konformismus, sondern durch Systemarchitektur. Eichmann hatte noch die Möglichkeit zu urteilen — ein Algorithmus nicht. Das ist die digitale Banalität des Bösen.

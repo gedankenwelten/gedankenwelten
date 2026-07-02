@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **02.07.** — [[Denker/Agnes Callard - Warum lohnt sich ein sokratisches Leben|Agnes Callard — Warum lohnt sich ein sokratisches Leben?]]
+>
+> Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
+
 > **01.07.** — [[Denker/Edgar Morin — Das komplexe Denken|Edgar Morin — Das komplexe Denken]]
 >
 > Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt.
@@ -55,10 +59,6 @@ Die Gedankenwelten (luc)
 > **24.06.** — [[Denker/Erich Fromm — Im Namen des Lebens|Erich Fromm — Im Namen des Lebens]]
 >
 > Fromms intellektuelle Autobiografie 1973 — vier Quellen seines Denkens, die Liebe zum Lebendigen gegen die Liebe zum Toten, und die Wahrheit als einzige Pflicht.
-
-> **24.06.** — [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]]
->
-> Die Moderne hat die Rache nicht überwunden, sondern unsichtbar gemacht — und mit ihr die dunkle Wurzel, aus der unser Sinn für Gerechtigkeit überhaupt erst wächst.
 
 ### Gedanken
 

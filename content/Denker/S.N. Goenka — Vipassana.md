@@ -194,6 +194,10 @@ Das ist Goenkas konzentriertester Ausdruck von Eigenverantwortung: Man wählt ni
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
+
+Callard nimmt Vipassana als scheinbares Gegenprogramm zum sokratischen Fragen ernst — und widerlegt die Opposition: Auch der Schweigende sitzt in einem dialogischen Gerüst (Lehrer, Abendvorträge, Sangha), und das Retreat stellt einem genau die unzeitgemäßen Fragen, die man sich im Viertelstundentakt nie stellt. Beide prüfen das ungeprüfte Leben — getrennt nur durch das Medium: Begriff und Dialog bei Callard, wortlose Beobachtung von Anicca bei Goenka.
+
 ### → [[Walther Ziegler — Sartre in 60 Minuten]]
 
 Sartres Nichts und Goenkas Sunyata beschreiben dasselbe: Es gibt in uns keinen festen Kern. Sartres Antwort ist die Entscheidung — entschlossen ins Nichts setzen und wählen. Goenkas Antwort ist die Beobachtung — das Nichts wahrnehmen, ohne zu reagieren. Zwei Haltungen, eine Wahrheit. Und: Sartres Angst (Angst vor sich selbst, vor dem eigenen Nichts) ist das, was in tiefer Meditation auftaucht — und woran die meisten Yogi auf den ersten Tagen scheitern.

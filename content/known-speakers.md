@@ -134,6 +134,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Bijan Moini
 **Status:** ✓ Vollanalyse → [[DenkerVita/Bijan Moini]]
 
+## Agnes Callard
+**Status:** ✓ Vollanalyse → [[DenkerVita/Agnes Callard]]
+
 ## Carlo Cipolla
 **Status:** ✓ Vollanalyse → [[DenkerVita/Carlo Cipolla]]
 

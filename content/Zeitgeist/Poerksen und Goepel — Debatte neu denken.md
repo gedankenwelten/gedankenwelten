@@ -150,6 +150,10 @@ Zum ÖRR: Die Verunsicherung sei groß, die Begriffe unklar. Es brauche Figuren,
 
 ## Verbindungen
 
+### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
+
+Pörksens Arendt-Zitat „Die Wahrheit beginnt zu zweit" ist Callards Kernthese ausformuliert: Denken ist dialogisch. Beide setzen gegen Etikettierung und Floskel-Bescheidenheit das echte Gespräch als den Ort, an dem Prüfung überhaupt erst geschieht.
+
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Pörksens Du-Ohr *ist* Rosas Resonanz in kommunikativer Form: sich berühren und verändern lassen, statt nur am eigenen Weltbild abzugleichen. Rosas Unverfügbarkeit erklärt, warum Dialog nicht herstellbar ist — man muss die Ruhebank verlassen

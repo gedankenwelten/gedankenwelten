@@ -49,6 +49,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## C
 
+**[[DenkerVita/Agnes Callard|Agnes Callard]]** — Philosophin (antike Philosophie & Ethik), University of Chicago; verteidigt das sokratische Leben als das einzig lebenswerte; Kernkonzepte Aspiration (Werte-Erwerb statt Selbstoptimierung), unzeitgemäße Fragen, Denken als dialogische Praxis, sokratische Liebe; Werke *Aspiration* (2018), *Open Socrates* (2025)
+
 **[[DenkerVita/Carsten Jung|Carsten Jung]]** — Associate Director for Economic Policy in AI, IPPR (UK); Ökonom, ehem. Bank of England (6 Jahre); AI Directionism — staatliche Lenkung von KI-Märkten statt Laissez-faire; Publikationen zu Windfallgewinnen, Benefit Sharing, Procurement als Marktformer; Makroökonom mit Fokus auf Arbeitsmarkt-Asymmetrien
 
 **[[DenkerVita/Christoph Butterwegge|Christoph Butterwegge]]** — Politikwissenschaftler, Armutsforscher; Relative Armut als strukturell konstruiert, Matthäus-Prinzip in der Steuerpolitik, Finanzmarktkapitalismus als Oligarchie, Demografie als politisches Problem; 2017 Bundespräsidentschaftskandidat Die Linke; em. Professor Universität Köln; Werke: *Armut in einem reichen Land*, *Hartz IV und die Folgen*, *Kinder der Ungleichheit*
