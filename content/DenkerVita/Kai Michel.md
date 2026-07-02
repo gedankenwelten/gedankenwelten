@@ -5,6 +5,16 @@ tags: [denker-vita, philosophie, psychologie, religion, deutschland, evolution]
 
 # Kai Michel — DenkerVita
 
+![[assets/Kai-Michel-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Anselm Kiefer** — vergrabene Bleibücher und Geschichts-Sedimente in Blei-Grau, Ocker und Gold. Ein monumentales aufgeschlagenes Buch, halb in die Erde gesunken, darüber die Nebra-Scheibe als goldene Sonne, in den Schichten darunter Grab und Scherbe. Kiefers Sedimente *sind* buchstäblich das „Tagebuch der Menschheit" — die Bibel als Krisenprotokoll, die Archäologie als Michels zweite Werkbank.
+
+*Prompt:* Wide 1200×500 banner in the monumental, weathered style of Anselm Kiefer — a vast textured field of cracked earth and ash in lead-grey, ochre and burnt brown, heavy with sediment. In the center a huge open book lies half-buried in the soil, its pages scratched with faint illegible writing — the diary of humanity. Above it hangs a golden bronze disk marked with a crescent and clustered dots, like the Nebra sky disk, glowing against a dark sky of thin scratched constellations. In the lower stratum, buried artifacts show through the layers: a pottery shard, the faint outline of a grave. Scorched, layered, weighty, mythic. No realistic faces, no photorealism.
+
+</details>
+
 ## Biografie
 - **Historiker, Literaturwissenschaftler und Buchautor** — geboren am 9. November 1967 in Hamburg.
 - Studium der Geschichts- und Literaturwissenschaften in Berlin. Magisterarbeit über die schriftstellerischen Versuche des NS-Propagandaministers Joseph Goebbels (erschienen als *Vom Poeten zum Demagogen*, Böhlau Verlag).
