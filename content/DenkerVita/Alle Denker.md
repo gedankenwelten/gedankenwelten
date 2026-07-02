@@ -167,6 +167,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[DenkerVita/Kai Michel|Kai Michel]]** — Historiker und Literaturwissenschaftler; mit Carel van Schaik die evolutionäre Bibel-Trilogie (*Tagebuch der Menschheit*, *Wahrheit über Eva*, *Mensch sein*); die drei Naturen des Menschen, Religion als Bewältigungs- und Normalisierungsmaschine, egalitärer Normalzustand des Homo sapiens
+
 **[[DenkerVita/Kerstin Paschke|Kerstin Paschke]]** — Privatdozentin, Fachärztin für Kinder- und Jugendpsychiatrie; ärztliche Leiterin DZSKJ am UKE Hamburg; 50+ Publikationen zur Social-Media-Sucht bei Jugendlichen; neurobiologische Vulnerabilität als Regulierungsargument; Schutz als Voraussetzung für Befähigung
 
 **[[DenkerVita/Kristian Kunow|Kristian Kunow]]** — Stellvertretender Direktor der MABB; Regulierungspragmatiker für digitalen Jugendschutz; Mitglied Expertenkommission Bund 2026; smarte Lösungen statt Totalverbot; EU-weite Durchsetzung als Schlüssel
@@ -315,6 +317,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## V
 
 **[[DenkerVita/Dana-Sophia Valentiner|Dana-Sophia Valentiner]]** — Juristin (Öffentliches Recht, HSU Hamburg), GFF-Vorstand; Grundrechte, Legal Gender Studies & wehrhafte Demokratie — Mitvorstellerin des GFF-Gutachtens zur Verfassungswidrigkeit der AfD
+
+**[[DenkerVita/Carel van Schaik|Carel van Schaik]]** — Evolutionsbiologe, Primatologe & Anthropologe (em. Univ. Zürich); die „drei Naturen des Menschen", die Bibel als Tagebuch der Menschheit und der evolutionäre Mismatch der Sesshaftwerdung
 
 **[[DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Ökonom, Politiker, ehem. griechischer Finanzminister; Technofeudalism — Kapitalismus ist tot, Cloud Capital ersetzt Märkte, Big Tech verwandelt Profit in feudale Rente
 

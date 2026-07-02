@@ -232,6 +232,10 @@ Und er nimmt sich selbst nicht aus. [▶ 46:03](https://www.youtube.com/watch?v=
 
 ## Verbindungen
 
+### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
+
+Der Zwilling aus der Evolutionsbiologie. Van Schaik und Michel teilen Bregmans Gegen-Hobbes-These vom kooperativen Menschen, liefern aber den Mechanismus, den Bregman offenlässt: *warum* aus dem freundlichen Tier trotzdem Herrschaft wird — die Sesshaftwerdung als Bruch, und die drei Naturen als Schichtung, die Bregmans „homo puppy" fehlt.
+
 ### → [[Neue Akropolis — Der Mensch ist besser als sein Ruf]]
 
 Direkte thematische Schwester: Dort wird Bregmans *Im Grunde gut* bereits als populäre Gesamtdarstellung der Forschungslage geführt. Diese Note liefert die Stimme dahinter — das Denken, aus dem jene Synthese schöpft.

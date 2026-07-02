@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Carel van Schaik & Kai Michel — Die drei Naturen des Menschen
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Ist der Mensch im Grunde gut? — Sternstunde Religion, SRF (15.10.2023)](https://www.youtube.com/watch?v=FpLob9R3azk) |
+| **Notiz** | [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]] |
+| **DenkerVita** | [[DenkerVita/Carel van Schaik]] · [[DenkerVita/Kai Michel]] |
+| **Transkript** | `Gedankenwelten/Transkripte/vanSchaik_Michel_Mensch_gut_Transkript.txt` |
+
 ## Agnes Callard — Warum lohnt sich ein sokratisches Leben?
 
 | | |

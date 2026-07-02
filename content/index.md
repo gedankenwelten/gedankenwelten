@@ -52,13 +52,13 @@ Die Gedankenwelten (luc)
 >
 > Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
 
+> **02.07.** — [[Denker/Carel van Schaik und Kai Michel — Die drei Naturen des Menschen|Carel van Schaik & Kai Michel — Die drei Naturen des Menschen]]
+>
+> Wir sind nicht kaputt, wir sind fehl am Platz — der Primatologe und der Historiker über das Jäger-und-Sammler-Erbe in uns und die 5000 Jahre, die alles verschoben haben.
+
 > **01.07.** — [[Denker/Edgar Morin — Das komplexe Denken|Edgar Morin — Das komplexe Denken]]
 >
 > Widerständler, Hundertjähriger, Autodidakt — Edgar Morin dachte gegen die Zersplitterung des Wissens: komplex, in Widersprüchen, aus Liebe zur Welt.
-
-> **24.06.** — [[Denker/Erich Fromm — Im Namen des Lebens|Erich Fromm — Im Namen des Lebens]]
->
-> Fromms intellektuelle Autobiografie 1973 — vier Quellen seines Denkens, die Liebe zum Lebendigen gegen die Liebe zum Toten, und die Wahrheit als einzige Pflicht.
 
 ### Gedanken
 

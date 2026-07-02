@@ -189,6 +189,10 @@ Das Transkript enthält keinen separaten Q&A-Abschnitt — Lecture 1 endet mit d
 
 ## Verbindungen
 
+### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
+
+Dieselbe Sündenfall-Erzählung, nur anthropologisch statt ökonomisch. Van Schaiks egalitäre Jäger-Sammler-Welt ist Karatanis *Mode A* (Reziprozität, Gabe in staatenlosen Banden); der Staat entsteht bei beiden aus Plünderung und Herrschaft, im Bruch mit der Gegenseitigkeit. Van Schaik erzählt, was Karatani theoretisiert.
+
 ### → [[Immanuel Kant — Was ist Aufklärung]]
 
 Karatani ist der direkteste zeitgenössische Erbe von Kants politischer Philosophie — speziell des *Ewigen Friedens*. Wo Kant die Weltrepublik als regulative Idee formuliert, macht Karatani daraus das Fundament seiner Theorie des Mode D. Beide denken gegen Hegel: Nicht die bestehende Staatlichkeit ist das Ende der Geschichte, sondern ein Horizont jenseits davon.

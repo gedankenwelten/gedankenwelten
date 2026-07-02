@@ -145,6 +145,10 @@ Yu plädiert dafür, diese Grenze nicht durch Moralisierung zu verschieben, sond
 
 ## Verbindungen
 
+### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
+
+Die produktive Gegenstimme. Wo van Schaik die kooperative erste Natur betont, erinnert Yu an die neuronale Stammesgrenze: Fairness gilt der In-Group. Die Feindschaft gegen die Fremdgruppe ist bei van Schaik erst Kulturfolge der Sesshaftigkeit, bei Yu ein hartnäckiges Hirnfaktum — genau diese Spannung ist der Ertrag der Zusammenschau.
+
 ### → [[Rutger Bregman — Ist der Mensch wirklich gut]]
 
 Bregman erzählt psychologisch-historisch, was Yu neuronal fundiert: Die Entmenschlichung, mit der Macht die Mächtigen vom „Spiegel der anderen" abschneidet. Yu bietet zugleich den dritten Weg jenseits von Bregmans Hobbes-Rousseau-Achse — weder „rein gut" noch „rein böse", sondern ein mentalisierendes Gehirn mit Grenzen.
