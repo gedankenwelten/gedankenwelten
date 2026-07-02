@@ -5,6 +5,16 @@ tags: [denker-vita, konsum, kapitalismus, technologie, deutschland]
 
 # Gabriel Yoran — DenkerVita
 
+![[assets/Gabriel-Yoran-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico** — metaphysische Stille, lange Schatten, Ocker und Teal, rätselhafte Objekte auf leerem Platz. Yoran ist der Ontologe unter den Gründern: Alltagsdinge auf Marmorsockeln, ernst genommen als Rätsel — die Vita zeigt nicht den Kritiker, sondern seinen Blick; der Glasturm am Horizont trägt die Gründerseite.
+
+*Prompt:* A wide metaphysical painting in the style of Giorgio de Chirico, 1200x500 banner. A vast empty piazza at late afternoon, long dramatic shadows, deep teal sky and ochre ground, arcaded buildings receding on the left. In the center, ordinary household objects stand on classical marble pedestals like enigmatic monuments: a simple stovetop kettle, an old rotary control knob enlarged to the size of a bust, a coiled shower hose displayed like an ancient bronze. Each object casts an impossibly long shadow. To the right, a single faceless tailor's-mannequin figure in a suit contemplates the objects, holding a small magnifying glass. In the far background, a tiny modern glass office tower stands incongruously on the horizon. Stillness, mystery, hard light; muted ochre, teal, brick red; no realistic faces, no photorealism.
+
+</details>
+
 > [!info] Wer spricht?
 > **Gabriel Yoran** (*1978, Frankfurt am Main) ist Unternehmer und Autor — ein seltener Doppelcharakter: In Philosophie promoviert (bei Graham Harman, dem Kopf der objektorientierten Ontologie) und zugleich Mitgründer mehrerer Digitalfirmen, darunter der Verschlüsselungsanbieter Steganos und die Steady-Plattform für unabhängige Kreative. Mit *Die Verkrempelung der Welt* (Suhrkamp, 2025) — einem Spiegel-Bestseller — hat er dem alltäglichen Verdruss einen Begriff gegeben: der Beobachtung, dass viele Dinge des Alltags nicht besser, sondern schlechter und komplizierter werden, während man sie als Fortschritt verkauft. Yoran verbindet das kühle Auge des Gründers, der Produkte von innen kennt, mit dem des Ontologen, der fragt, was ein Ding im Kern eigentlich sein soll.
 

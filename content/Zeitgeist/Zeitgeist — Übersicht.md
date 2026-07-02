@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*245 Notes — automatisch generiert · nach Thema sortiert*
+*247 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -273,6 +273,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand|Energiewende mit Tücken — Wenn der Versorger die eigene Solaranlage abschaltet]]
 - [[Zeitgeist/erneuerbare tv — Bidirektionales Laden Vehicle-to-Grid|erneuerbare tv — Bidirektionales Laden / Vehicle-to-Grid]]
 - [[Zeitgeist/erneuerbare tv — Sommerwaerme im Erdreich|erneuerbare tv — Sommerwärme im Erdreich]]
+- [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]] — Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
 - [[Zeitgeist/Heiner Flassbeck — Deutschlands Lohn-Irrsinn|Heiner Flassbeck — Deutschlands Lohn-Irrsinn]]
 - [[Zeitgeist/Heiner Flassbeck — Die Wahrheit ueber Staatsschulden|Heiner Flassbeck — Die Wahrheit über Staatsschulden]]
 - [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit|Heiner Flassbeck — Merz' Rentenlüge und globale Ungleichheit]]
@@ -289,6 +290,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/MONITOR — Minijobs als Armutsfalle|MONITOR — Minijobs als Armutsfalle]]
 - [[Zeitgeist/MONITOR — Sparhammer gegen Jugendliche|MONITOR — Sparhammer gegen Jugendliche]] — Was Sparlogik mit Menschen macht, die noch keine eigene Stimme haben: 2,7 Milliarden Euro Kürzungen bei der Jugendhilfe — und eine geheime Kanzleramt-Liste, die noch tiefer einschneidet.
 - [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System|Neitzel & Iltisberger — Hype Is a System: How Tech Futures Get Made]] — Hype ist kein Rauschen, sondern ein System aus Subsystemen und Feedback-Loops — und KI-Kritiker verstärken ungewollt genau den Hype, den sie bekämpfen.
+- [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]] — Nur 7 % der globalen Materialströme kehren in den Kreislauf zurück. Nicole Bendsen will die Bewertungslogik der Wirtschaft drehen: Zirkularität nicht als Moral, sondern als Risikorechnung.
 - [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert|phoenix-Runde — Rentenreform: Wer gewinnt, wer verliert?]] — Rente zwischen Nachhaltigkeit und Gerechtigkeit — wenn das Reformpaket nur als Ganzes trägt: Wer schultert die Last des längeren Lebens, und wer entscheidet, was fair heißt?
 - [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte|rp26 — KIs unsichtbare Arbeitskräfte]]
 - [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN|Silke Stremlau & Maja Göpel — Investieren NEU DENKEN]]
