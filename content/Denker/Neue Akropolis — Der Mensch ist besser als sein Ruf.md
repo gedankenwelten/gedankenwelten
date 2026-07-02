@@ -215,6 +215,10 @@ Konkrete Schritte:
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
+
+Dieselbe Grundthese — Kooperation als Erfolgsgeschichte der Evolution —, aber van Schaik und Michel schichten sie in drei Naturen und stellen die dunkle Kehrseite dazu: die Zivilisation als „Sündenfall". Wo diese Note den Menschen bejaht, differenziert van Schaik: nicht der Mensch ist gut, sondern seine *erste* Natur.
+
 ### → [[Rutger Bregman — Ist der Mensch wirklich gut]]
 
 Die Stimme hinter diesem Vortrag: Bregmans *Im Grunde gut* ist die populäre Gesamtdarstellung, aus der diese Synthese schöpft. Die Bregman-Note liefert das Denken im Original — survival of the friendliest, das Paradox des Welpen, das Menschenbild als selbsterfüllende Prophezeiung.

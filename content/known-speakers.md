@@ -342,6 +342,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Julie Pagis
 **Status:** ✓ Vollanalyse → [[DenkerVita/Julie Pagis]]
 
+## Kai Michel
+**Status:** ✓ Vollanalyse → [[DenkerVita/Kai Michel]]
+
 ## Karl Marx
 **Status:** ✓ Vollanalyse → [[DenkerVita/Karl Marx]]
 
@@ -673,3 +676,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Tim Stark
 **Status:** ✓ Vollanalyse → [[DenkerVita/Tim Stark]]
+
+## Carel van Schaik
+**Status:** ✓ Vollanalyse → [[DenkerVita/Carel van Schaik]]

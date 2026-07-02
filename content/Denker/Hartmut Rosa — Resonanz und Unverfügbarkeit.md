@@ -162,6 +162,10 @@ Seine Frage ist subtiler: Ist in dem Entwicklungsprozess etwas verloren gegangen
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
+
+Van Schaik und Michel berufen sich im Gespräch selbst auf Rosa: sein „aggressives Weltverhältnis" und die Vereinzelung sind das Leiden, gegen das sie die „neuen Lagerfeuer" und die dritte Natur (Vernunft, Demokratie) setzen. Rosa diagnostiziert, van Schaik verschreibt — zwei Wege zum selben Problem der Entwurzelung.
+
 ### → [[Erich Fromm — Haben oder Sein]]
 
 Fromm und Rosa beschreiben dasselbe Phänomen — aus 40 Jahren Abstand und verschiedener Disziplin. Fromms **Haben-Modus**: Ich definiere mich über das, was ich besitze, kontrolliere, verfügbar halte. Das ist genau Rosas Verfügbarkeitslogik. Fromms **Sein-Modus**: Ich definiere mich über das, was ich *bin* und *erlebe* — offen, präsent, responsiv. Das ist Rosas Resonanz.

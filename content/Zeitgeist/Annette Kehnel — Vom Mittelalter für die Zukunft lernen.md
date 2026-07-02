@@ -246,6 +246,10 @@ Kulturen der Verdrängung zahlen irgendwann den Preis — manchmal das eigene Le
 
 ## Verbindungen
 
+### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
+
+Kehnels Allmende verlängert van Schaiks „erste Natur" in die historische Zeit: Teilen und egalitäre Ökonomie sind keine Steinzeit-Fossilien, sondern haben mitten in der zweiten Natur (Kultur) überlebt. Ein Beleg dafür, dass van Schaiks „neue Lagerfeuer" nicht bei null anfangen müssten — das Gegenmodell war nie ganz weg.
+
 ### → [[Hartmut Rosa — Resonanz und Unverfügbarkeit]]
 
 Rosa's "gestörte Weltbeziehung" wird im Interview direkt angesprochen; Sehnsucht nach Einfachheit und "echter" Weltbeziehung als Gegenbewegung zur Beschleunigung
