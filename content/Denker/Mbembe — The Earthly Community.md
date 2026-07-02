@@ -219,6 +219,10 @@ Zwei afrikanische postkoloniale Stimmen mit Ubuntu als Zentralbegriff und dem Ko
 
 Eine Gedanken-Note über dasselbe Wort, eine Nummer kleiner gedacht: Wo Mbembe Ubuntu planetar entwirft, bleibt sie beim Blick auf die eine Person im Zimmer nebenan — und bei der Frage, wann das schöne Wort zur Waffe wird.
 
+### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+
+Der Weggefährte: Sarr ist Mbembes Mitgründer der *Ateliers de la Pensée* in Dakar, beide denken vom selben Fundament aus. Wo Mbembe die Utopie zur planetaren Erdgemeinschaft weitet, entwirft Sarr sie kontinental — *Afrotopia*, Ubuntu, Wohlsein — dieselbe Bewegung vom Objekt zum Subjekt.
+
 ---
 
 ## Weiterdenken

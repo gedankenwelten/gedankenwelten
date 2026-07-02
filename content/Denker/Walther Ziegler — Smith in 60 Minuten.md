@@ -222,3 +222,7 @@ Gabriel liest Smiths unsichtbare Hand radikal neu: nicht als Marktmechanismus, s
 ### → [[Walther Ziegler — Rawls in 60 Minuten]]
 
 Smith und Rawls als Gegenpole im selben Denk-Format: Smith feiert den Eigennutz als Motor des Gemeinwohls, Rawls zeigt, dass gerade dieser Eigennutz hinter dem Schleier des Nichtwissens zur Gerechtigkeit führen kann — wenn das Verfahren stimmt. Smith braucht die unsichtbare Hand, Rawls den institutionellen Rahmen.
+
+### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+
+Der Einspruch aus dem Süden gegen Smiths Menschenbild: Sarrs *homo africanus* ist kein *homo oeconomicus* — die Vertrauensökonomie der Muriden wirtschaftet auf das gegebene Wort statt auf den Eigennutz, und der Austausch stiftet Beziehung, nicht nur Güterbewegung.
