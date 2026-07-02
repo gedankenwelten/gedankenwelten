@@ -100,3 +100,7 @@ Mouffe bietet den theoretischen Rahmen für die Ideologisierungsfalle: Wenn echt
 
 ### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
 Die elastische Brandmauer beschreibt den Ausweg aus der Ideologisierungsfalle: nicht starre Abwehr, nicht offene Übernahme — sondern eine Membran, die nach dem Kriterium filtert, ob ein Befund sein Dogma abgelegt hat. Die Falle und der Ausweg aus ihr.
+
+### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
+
+Die religionspolitische Anwendung der Ideologisierungsfalle: Soroush zeigt, dass Häresie erst entsteht, wo eine Deutung sich mit Macht verheiratet und alle anderen zu Abweichlern erklärt — und Hecks Doppel-Ambivalenz (weder das Heilige noch das Säkulare ist per se Befreiung) ist die Absage an genau die polare Dominanz, die diese Note als Extremisierungsmotor beschreibt.

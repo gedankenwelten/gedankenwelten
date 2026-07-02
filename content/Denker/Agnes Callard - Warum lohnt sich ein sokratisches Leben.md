@@ -191,6 +191,10 @@ Die populäre Lesart „das ungeprüfte Leben ist nicht lebenswert" bekommt bei 
 
 Zwei Denkerinnen, die das Leben als Praxis statt als Programm fassen: Callards geprüftes, dialogisches Leben und Dangarembgas „mein Leben ist meine Praxis" — hinschauen, ob Wohlsein herrscht, beim Nächstliegenden ansetzen. Beide misstrauen der großen Vision zugunsten der geübten Frage.
 
+### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
+
+Hecks „Epistemologie der Freundschaft" (Erkenntnis entsteht in der Beziehung, nicht in der Definition) ist die politische Schwester des sokratischen Denkens zu zweit. Und Soroushs „Pflichten vor Rechten" spiegelt das James/Clifford-Paar: zwei Imperative, die einander als Korrektiv brauchen — Verantwortung und Recht statt Wahrheitsbesitz und Irrtumsvermeidung.
+
 ---
 
 ## Weiterdenken

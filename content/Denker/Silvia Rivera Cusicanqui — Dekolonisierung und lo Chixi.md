@@ -230,6 +230,10 @@ Dieselbe Wurzel in zwei Erfahrungswelten: Beide verlegen die Verwandlung der Wel
 
 Die Kette der Scharniere erklärt eines der Rätsel des Rechtsrucks: warum Menschen eine Bewegung unterstützen, deren Opfer sie selbst wären — etwa Migranten, die AfD wählen. Wer selbst Verachtung erfährt, kauft sich Zugehörigkeit am billigsten durch Verachtung nach unten (Guamán Pomas Mestizen, Budes Dienstleistungsproletariat, die vorletzte Sprosse der Leiter). Das Panorama führt diesen Mechanismus als eigene Ursache unter „Das Scharnier — Abwertung nach unten".
 
+### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
+
+Hecks „religio-säkulares Moment" — öffentliche Vernunft weder rein säkular noch rein religiös — ist strukturell lo Ch'ixi: beide Pole distinkt nebeneinander halten, ohne Synthese. Und das westliche Kontrollwissen über den Islam, das Heck seziert, ist ein Fall von Plusvalía simbólica — Wissen über den Anderen als Extraktion statt Beziehung.
+
 ---
 
 ## Weiterdenken

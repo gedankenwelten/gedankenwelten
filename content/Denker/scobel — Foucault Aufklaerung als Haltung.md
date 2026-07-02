@@ -186,3 +186,7 @@ Und:
 
 - [[Dominik Finkelde — Nietzsche Ueber Wahrheit und Luege]] — Finkelde zeigt, wie Foucaults Aufklärungskritik bei Nietzsche beginnt: Die „Drehscheibe der Moderne" stellt genau die Frage, ob Vernunftkritik ohne Selbstaufhebung möglich ist
 - [[Denker/scobel — Lyotard das Ende der Wahrheit]] — Lyotard und Foucault reagieren aus derselben intellektuellen Generation heraus auf den Zusammenbruch universaler Vernunftgewissheit. Foucault antwortet mit einer Praxis (Aufklärung als tägliche Haltung), Lyotard mit einer Diagnose des Unauflösbaren (der Widerstreit). Beide kritisieren Habermas' Konsensideal — als zu einfache Lösung für einen tiefen Riss.
+
+### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
+
+Foucaults Macht-Wissen-Kopplung in religionsphilosophischer Übersetzung: Soroushs These, Häresie entstehe erst, wo eine Deutung sich mit politischer Macht verheiratet, und Hecks Kritik am westlichen „Kontrollwissen" über den Islam sind beide zutiefst foucaultianisch — Wissen, das definieren will statt sich zu beziehen, ist eine Machtform.

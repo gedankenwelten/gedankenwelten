@@ -329,6 +329,10 @@ Fromm: Selbsteinschätzung als ehrlicher Blick auf das eigene Leben — statt de
 
 Yorans „Dienstleistung statt Besitz“ (re:publica 26) denkt ökonomisch, was Fromm psychologisch fasst — den Ausstieg aus dem Haben-Modus. Wo Fromm den Besitz als Entfremdungsquelle sieht, warnt Yoran zugleich vor dem Abo-Verhältnis als neuer Falle des Nicht-Besitzens.
 
+### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
+
+Soroushs Umkehrung — Religionen lehren Pflichten, weil Menschen ihren Rechten aus Egoismus ohnehin nachjagen — findet hier ihr psychologisches Fundament: Das Beharren auf Ansprüchen ist der Haben-Modus, das Übernehmen von Verantwortung der Sein-Modus. Beide diagnostizieren eine Moderne, die die Balance zugunsten des besitzenden Ich verloren hat.
+
 ---
 ## Weiterdenken
 

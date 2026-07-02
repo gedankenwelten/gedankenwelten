@@ -168,6 +168,10 @@ Das ist eine globale Konstante: Es ist einfacher, gegen Unrecht zu kämpfen, das
 - [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi]] — Cusicanquis „Kette der Scharniere" ist das lateinamerikanische Äquivalent zu Ambedkars Turm ohne Treppen: Unterdrückung als fraktal verinnerlichte Struktur, Aufstieg um den Preis der Verleugnung der eigenen Herkunft. Der Kontrast: Wo Ambedkar auf Verfassung und Konversion setzt, vertraut Cusicanqui keiner Institution — nur der Mikropolitik der Neocomunidad. Beide entwickeln ihre Theorie aus der eigenen erlebten Wunde.
 - **Demokratische Sprachmodelle — Wem gehört der Spiegel?** *(zurückgehalten, derzeit nicht öffentlich)* — die brahmanische Kontrolle über den heiligen Text (Veden den unteren Varnas verschlossen) als Ur-Wasserlinie: dieselbe Struktur kehrt im Unterschied *open weight* vs *open source* wieder — und der Buddha als erste „Open-Source-Revolte".
 
+### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
+
+Dieselbe Frage aus der anderen Weltreligion: Was ist Religion — Identitätsordnung oder Moral? Heck nennt den Dschihadismus „Religion als Identität statt als Moral"; Ambedkar verwirft den Hinduismus genau an diesem Punkt. Und die Dalit-Erfahrung stellt Soroushs „darwinische" Gelehrten-Auslese auf die Probe: Wer strukturell aus der deutenden Gemeinschaft ausgeschlossen ist, für den ist die Pluralität der Interpretationen kein Trost.
+
 ---
 
 ## Weiterdenken

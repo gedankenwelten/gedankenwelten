@@ -227,6 +227,10 @@ Das augenzwinkernde Schwester-Stück: Die hier ernst eingehegte „banale Obama-
 - [Middle East Eye — US forces monitoring Strait of Hormuz to ensure it stays open (ME, regional-parteiisch)](https://www.middleeasteye.net/live-blog/live-blog-update/us-forces-monitoring-strait-hormuz-ensure-it-stays-open)
 - [TASS — Israel orders army to hold fire in Lebanon but stay in position (RU staatsnah, interessengeleitet)](https://tass.com/world/2149357)
 
+### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
+
+Die philosophische Anklageschrift gegen das verfolgte Regime, zwanzig Jahre vor dieser Spur: Soroush erklärt am Berkley Center, warum die Velayat-e Faqih nach dem eigenen Traditionsverständnis des Islam ein Anachronismus ist — die Politik soll Werte schützen, nicht Identität, und Herrschaft besteht ohne Religion, aber nie ohne Gerechtigkeit.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

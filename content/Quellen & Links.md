@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Abdolkarim Soroush & Paul Heck — Politische Tradition des Islam
+
+| | |
+|---|---|
+| **Vortrag / Video** | [The Islamic Political Tradition: Can It Be Saved?](https://www.youtube.com/watch?v=_RmJIs6kNVM) (Berkley Center, Georgetown, 09.03.2008) |
+| **Notiz** | [[Denker/Soroush und Heck — Politische Tradition des Islam]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Soroush_Islamic_Political_Tradition_Transkript.txt` |
+
 ## Gabriel Yoran — Die Entkrempelung der Welt
 
 | | |
