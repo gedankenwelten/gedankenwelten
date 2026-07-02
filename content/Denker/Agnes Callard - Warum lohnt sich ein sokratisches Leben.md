@@ -17,6 +17,16 @@ aliases:
 
 # Agnes Callard — Warum lohnt sich ein sokratisches Leben?
 
+![[assets/Agnes-Callard-Warum-lohnt-sich-ein-sokratisches-Leben-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Joan Miró** — flache Primärfarben auf warmem Creme, biomorphe Wesen, dünne exakte schwarze Linien. Callard richtet ihr Büro wie ein Bastelgeschäft ein und führt zugleich das strengste Argument des Abends — Mirós kindlich wirkende Formen mit präziser innerer Logik sind genau diese Doppelung. Links die Stechfliegen-Figur mit dem Prüfstachel (Clifford: „Vermeide Irrtümer"), rechts die offene Gestalt, die Formen anbietet (James: „Besitze Wahrheiten") — und dazwischen die frisch geschlüpften Ideen-Babys. Die eine Entscheidung: die dünne schwarze Linie von Kopf zu Kopf, die unterwegs eine Schleife um das größte Ideen-Wesen legt — Denken geschieht zwischen zwei Menschen, und das Dritte entsteht auf der Strecke. Unten das Gesprächsmenü auf dem geteilten Tisch.
+
+*Prompt:* Wide horizontal banner, 1200×500 pixels. Painting in the style of Joan Miró — flat warm cream background with subtle uneven wash, playful biomorphic shapes, bold flat primary colors (red, cobalt blue, sun yellow, grass green, deep black), thin precise black lines, joyful but exact, no realistic faces, no photorealism. Scene: on the far left, an abstract seated figure made of a large blue oval body and a small round black head with one wide-open eye, one thin arm raised holding a long needle-like stinger pointed gently toward the center. On the far right, a second abstract figure with a red crescent body and a yellow half-moon head, both hands open, offering three tiny floating shapes upward. Between the two figures, drifting in the open middle air: a constellation of small luminous "idea creatures" — a red circle with a green sprout growing from it, a yellow star with thin legs, a small blue spiral, a black crescent cradling a white dot — as if newly hatched, rising slowly. A single thin black meandering line travels from the head of the left figure across the sky to the head of the right figure, looping once around the largest idea creature on its way. Near the top left, a tiny black gadfly-insect with red wings, drawn in three quick strokes. Along the bottom, one long thin horizontal black line suggesting a shared table, with a small white rectangular card on it bearing three short illegible scribbled lines, like a little menu. Scattered sparse Miró accents: two small black stars, one red dot, one blue comma-shape. Large areas of calm empty cream space around all elements.
+
+</details>
+
 > [!abstract] Worum es geht
 > Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — das ist für Agnes Callard die Krise des menschlichen Lebens, und Sokrates ihre Antwort darauf. Die Chicagoer Philosophin erklärt im Gespräch mit Barbara Bleisch, warum Denken wesentlich zu zweit geschieht, warum die übliche Bescheidenheit („ich könnte mich irren") ein Lippenbekenntnis ist, und warum eine Ehe eine Vorbereitung auf die Scheidung sein kann. Man lässt sich ein auf eine Denkerin, die ihr eigenes Leben — bis in die intimsten Winkel — als philosophisches Experiment führt.
 
