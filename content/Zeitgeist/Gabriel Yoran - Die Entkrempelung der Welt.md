@@ -17,6 +17,16 @@ aliases:
 
 # Gabriel Yoran — Die Entkrempelung der Welt
 
+![[assets/Gabriel-Yoran-Die-Entkrempelung-der-Welt-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Saul Steinberg** — dünne, präzise Tuschlinie auf cremefarbenem Papier, sparsame Aquarell-Akzente, trockener Witz. Die Note ist Stand-up mit ernstem Boden; nur Steinbergs Linie kann einen Seifenspender mit Empfangsbalken zeichnen, ohne ihn zu erklären — die Krempel-Parade führt ihre Absurdität selbst vor, deadpan wie der Talk.
+
+*Prompt:* A wide satirical ink drawing in the style of Saul Steinberg, 1200x500 banner. On warm cream paper, a solemn parade of absurd household appliances drawn in thin, elegant black ink line with sparse watercolor accents: a kitchen stove covered in tiny airplane-cockpit touch controls and gauges, a soap dispenser proudly displaying phone signal bars and a battery icon, a shower hose tied in an elaborate decorative knot wearing a large price tag, a washing machine with a gramophone horn emitting ornate musical notes, an oven with a single huge camera eye photographing a tiny roast chicken. Between the machines, a few small proud businessmen figures in suits present them with theatrical gestures, drawn as simple line doodles. Above the parade, faint pencil scribbles suggest meaningless diagrams and award ribbons. Flat composition, generous white space, dry deadpan humor, no realistic faces, no photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge des Alltags schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf. Sein re:publica-Vortrag beginnt als Kabarett über Scheininnovationen und endet bei einer unbequemen politischen Frage: Wenn wir Konsumierenden die Welt retten sollen, aber fast nur Krempel angeboten bekommen — wer hinterfragt dann eigentlich die Bedürfnisse, die uns täglich neu eingepflanzt werden?
 

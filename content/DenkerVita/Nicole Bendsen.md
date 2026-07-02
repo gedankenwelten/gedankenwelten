@@ -5,6 +5,16 @@ tags: [denker-vita, wirtschaft, nachhaltigkeit, deutschland]
 
 # Nicole Bendsen — DenkerVita
 
+![[assets/Nicole-Bendsen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera** — muralistische Fresko-Sprache, Terrakotta und Olivgrün, würdevolle Arbeit, monumentale Komposition. Bendsen ist keine Einzeldenkerin, sondern eine, die Akteure verbindet: Der runde Tisch als Kompassrose im Zentrum, an dem sie die Hände von Bauleuten, Bankern und Stadt zusammenführt — Collective Impact als Geste des Verbindens; links das verlassene lineare Förderband, rechts die Stadt, die im Bogen zurückbaut.
+
+*Prompt:* A wide mural painting in the style of Diego Rivera, 1200x500 banner. A warm earthy fresco of a city in transformation, rounded volumetric figures with simplified features, palette of terracotta, olive green, warm gold and slate blue. In the center, a woman with a ponytail seen from behind or in profile (no detailed face) stands at a large round table shaped like a compass rose, joining the hands of different figures around it: a builder with rolled blueprints, a banker with a ledger, a gardener with a young tree, a city official with a model house. Behind them, the city works in a great circular flow: cranes carefully dismantling one building while its bricks and beams travel in an arc to workers assembling another; pipes and materials looping back instead of falling into a waste heap at the far left edge, where a small grey linear conveyor into a dump stands abandoned. Dignified labor, collective movement, monumental composition; no realistic faces, no photorealism.
+
+</details>
+
 > [!info] Wer spricht?
 > Nicole Bendsen ist Partnership Manager bei **Circular Berlin**, einer gemeinnützigen Organisation, die Berlins Übergang zur Kreislaufwirtschaft vorantreibt. Sie ist keine Theoretikerin, sondern Praktikerin an der Schnittstelle zwischen Unternehmen, Finanzinstitutionen und Verwaltung. Auf der re:publica 26 stellte sie das *Circular Value Program* vor — datenbasierte Werkzeuge, die die versteckten Kosten linearer Wirtschaftsmodelle sichtbar machen. Ihr Kerngedanke: Zirkularität ist kein grünes Ideal, sondern die rationalere, krisenfestere Geschäftsentscheidung.
 

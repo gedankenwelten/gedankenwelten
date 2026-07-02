@@ -16,6 +16,16 @@ aliases:
 
 # Nicole Bendsen — Zirkulärer Wert statt lineares Risiko
 
+![[assets/Nicole-Bendsen-Zirkulaerer-Wert-statt-lineares-Risiko-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hilma af Klint** — spirituelle Diagramme, gedämpfte Pastelltöne auf Pergamentgrund, große ruhige Kreisformen mit Notationen. Die Note dreht eine Linie in einen Kreis: Das Förderband, das an der Kante abbricht, gegen den großen leuchtenden Kreis — Take-Make-Waste und Kreislauf als ein einziges Verwandlungsbild, Ordnung statt Infografik.
+
+*Prompt:* A wide painting in the style of Hilma af Klint, 1200x500 banner. Soft muted palette of dusty pink, ochre, pale blue and cream on a warm parchment ground. On the left, a rigid straight conveyor line of small dark geometric shapes (cubes, coins, broken fragments) marches horizontally and abruptly breaks off at a cliff edge, the fragments scattering downward into grey dust. From the breaking point, the composition transforms: a single great luminous circle dominates the right two thirds, made of concentric rings and gentle spirals in gold, soft green and rose, with small geometric shapes travelling around its orbit and returning renewed, like seeds in a botanical diagram. Delicate hand-drawn letters and tiny numbers hover along the rings like notations in an old scientific notebook. Flat, diagrammatic, serene, symbolic; no realistic faces, no photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > Nur 7 % der globalen Materialströme kehren als Ressourcen in den Kreislauf zurück — der Rest folgt der Einweg-Logik: entnehmen, vermarkten, wegwerfen. Nicole Bendsen von Circular Berlin will nicht ans Gewissen appellieren, sondern an die Bilanz: Ihr „Circular Value Program" soll die versteckten Kosten linearer Geschäftsmodelle sichtbar machen — für Unternehmen und für die Banken, die sie finanzieren. Die These: Das eigentliche Risiko liegt nicht in der Transformation, sondern im Nicht-Handeln. Die Fragerunde testet, ob das trägt, solange „die Preise es nicht sind".
 
