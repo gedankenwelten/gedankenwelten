@@ -5,6 +5,16 @@ tags: [denker-vita, philosophie, usa]
 
 # Agnes Callard — DenkerVita
 
+![[assets/Agnes-Callard-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Cy Twombly** — kreidiger, warm-ockerner Grund wie eine sonnengebleichte mediterrane Wand, gekritzelte griechische Fragmente und Schleifen. Zwei schematische Figuren einander zugewandt, dazwischen eine dünne Linie und eine kleine Spirale — der Gedanke, der wird. Eine Stechfliege als Tuschefleck, ein Olivenzweig am Rand. Twomblys gekritzelte Antike *ist* das dialogische, sokratische Denken-in-Bewegung; Aspiration und Maieutik sitzen darin ganz natürlich.
+
+*Prompt:* Wide 1200×500 banner in the hand of Cy Twombly — a chalky warm-white and raw-ochre ground like a sun-bleached Mediterranean wall, loose and gestural. Scrawled loops of cursive and fragments of Greek letters drift across the surface like half-heard questions. Two schematic human figures, drawn in nervous scribbled graphite lines, face each other in conversation — between them a thin scratched line and a small looping spiral, the movement of a thought becoming. A single gadfly rendered as a quick ink smudge hovers near one figure; a faint olive branch trails along the lower edge. Smears of pale rose and cadmium red bleed into the white. Fragmentary, restless, luminous. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

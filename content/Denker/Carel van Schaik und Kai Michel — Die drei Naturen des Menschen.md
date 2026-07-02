@@ -19,6 +19,16 @@ aliases:
 
 # Carel van Schaik & Kai Michel — Die drei Naturen des Menschen
 
+![[assets/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera / Muralismo** — monumentale, gerundete Figuren, warme Erdpalette. Der Bogen der Menschheitsgeschichte von links nach rechts: das gleiche Lagerfeuer der Jäger und Sammler unter Sternen, der „Sündenfall" der Sesshaftigkeit (Felder, Zaun, Vorratskrüge, ein erhöhter Thron), rechts die moderne Vereinzelung — darübergelegt drei konzentrische Matroschka-Schalen mit dem Feuer im innersten Kern. Rivera erzählt die ganze menschliche Geschichte als warmes Kollektiv-Panorama mit sozialem Gewissen — genau der Ton der Note.
+
+*Prompt:* Wide 1200×500 mural banner in the hand of Diego Rivera — monumental rounded figures, warm earth palette of terracotta, ochre, deep green. Read left to right as the arc of human history: on the left a circle of hunter-gatherers seated as equals around a campfire under a band of stars, sharing food; in the center the turn to settlement — figures bending over grain fields, a low fence, stacked storage jars, and a single raised throne casting a long shadow; on the right a lone modern figure standing apart, isolated. Overlaid across the whole scene, three faintly drawn concentric bands like nested matryoshka shells, enclosing the campfire at the innermost core. Rounded monumental bodies, no realistic faces, no photorealism.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Primatologe und ein Historiker stellen die alte Frage neu: Ist der Mensch im Grunde gut? Ihre Antwort dreht die vertraute Erzählung um. Nicht die Zivilisation hat den wilden Menschen gezähmt — sie hat einen von Natur aus kooperativen, gleichheitsliebenden Menschen in Verhältnisse gestellt, für die er nicht gemacht ist. Van Schaik und Michel entfalten das an ihrem Modell der *drei Naturen* und lesen daran ab, warum die Gegenwart sich für so viele falsch anfühlt — und dass das kein Schicksal ist.
 

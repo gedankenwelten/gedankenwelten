@@ -5,6 +5,16 @@ tags: [denker-vita, philosophie, psychologie, evolution, religion]
 
 # Carel van Schaik — DenkerVita
 
+![[assets/Carel-van-Schaik-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Henri Rousseau** — naïver, mondheller Dschungel, flache Blätter in vielen Grüntönen. Ein Orang-Utan sitzt ruhig mit einem Stock (Werkzeuggebrauch/Kultur), daneben ein kleiner menschlicher Schatten, der seine Haltung spiegelt — der evolutionäre Widerhall. Rousseaus Traum-Urwald setzt van Schaik den Feldforscher mitten unter seine Menschenaffen, und der Schatten ist der Spiegel, um den sein Werk kreist.
+
+*Prompt:* Wide 1200×500 banner in the naïve jungle style of Henri Rousseau — dense layered foliage, oversized flat leaves in many greens, a deep blue moonlit sky. At the center a large orang-utan sits calmly among the leaves, holding a slender stick like a tool, gazing outward. Beside it, half-hidden in the ferns, a small dark human silhouette mirrors the ape's posture — the evolutionary echo. Exotic flowers and a hanging vine frame the edges; a pale moon behind the canopy. Dreamlike, still, flat perspective. No realistic faces, no photorealism.
+
+</details>
+
 ## Biografie
 - **Beruf:** Evolutionsbiologe, Primatologe und Anthropologe
 - **Geboren:** 1953 in den Niederlanden (Carolus Philippus „Carel" van Schaik)
