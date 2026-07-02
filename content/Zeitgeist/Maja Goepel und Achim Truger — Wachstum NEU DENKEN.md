@@ -221,3 +221,7 @@ Göpels These — BIP misst nicht Wohlstand — ist die ökonomische Begründung
 
 Stremlau schließt direkt an die Transformationslücke an, die Truger fiskalpolitisch beschreibt: Wo Truger das Scheitern staatlicher Investitionspolitik (Schuldenbremse) analysiert, benennt Stremlau das Scheitern privater Kapitalkoordination — Pensionskassenmilliarden finden keine bankfähigen Transformationsprojekte. Beide Seiten derselben Investitionslücke, zwei komplementäre Diagnosen.
 
+### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+
+Dieselbe BIP-Kritik von der postkolonialen Seite: Sarrs „Wohlsein statt Wohlstand" trifft Göpels Wachstumskritik im selben blinden Fleck — die entscheidenden Reichtümer (Beziehung, Sinn, Gemeinschaft) tauchen im BIP nicht auf, ob man von Dakar oder von Berlin aus schaut.
+

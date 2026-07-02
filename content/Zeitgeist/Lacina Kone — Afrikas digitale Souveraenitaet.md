@@ -256,6 +256,10 @@ Konés „nützlichste, nicht mächtigste KI" ist die Bedingung, unter der diese
 
 Das Panorama beschreibt *privatisierte Souveränität* — die Tech-Oligarchie, die Governance-Domänen an sich zieht. Koné formuliert den Gegenentwurf: Souveränität als „das Recht der Menschen, die Systeme mitzugestalten, die sie zunehmend gestalten". Zugleich die Warnung im Spiegel — dass Autokraten genau dieses Wort als Codewort für Zensur und Netzsperren kapern, was Koné ausdrücklich zurückweist.
 
+### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+
+Das philosophische Fundament von Konés Souveränitätsforderung: Sarrs utopisches Bewusstsein — Afrika als Subjekt der eigenen Geschichte, nicht Objekt fremder Diskurse — buchstabiert Koné technologisch aus. Beide Fäden laufen zudem nach Ruanda: Koné über Smart Africa/Kigali, Sarr über Gacaca und den Völkermord.
+
 ---
 
 ## Weiterdenken

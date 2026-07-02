@@ -237,6 +237,10 @@ Cusicanquis Neocomunidad — temporäre Gemeinschaften der Affinität jenseits v
 
 Karatanis Reziprozität (Tauschform A) in existenzieller Sprache: Ubuntu als die Gabe, die bindet und verpflichtet — und die Frage, ob Wechselseitigkeit auf höherer Stufe wiederkehren kann, gestellt vom einzelnen Alltag her statt vom Weltsystem.
 
+### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+
+Karatanis Tauschmodus der Reziprozität als gelebte Gegenwart: Sarrs „Ökonomie der Beziehung" (die Muriden-Bruderschaft, *homo africanus* statt *homo oeconomicus*) zeigt aus senegalesischer Praxis, was Karatani welthistorisch systematisiert — eine Wirtschaft, die Beziehung stiftet statt nur Güter zu bewegen.
+
 ---
 
 ## Weiterdenken

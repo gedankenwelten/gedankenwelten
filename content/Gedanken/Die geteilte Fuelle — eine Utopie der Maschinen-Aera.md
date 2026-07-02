@@ -103,6 +103,9 @@ Die Haltung hinter dieser Utopie: Technik nicht als Selbstzweck, sondern als Sys
 ### → [[Yin und Yang — Alles trägt sein Gegenteil in sich]]
 Auch die Utopie trägt ihr Gegenteil in sich: Im Überfluss lauert die Abhängigkeit, in der gewonnenen Zeit die Leere. Die ehrliche Utopie leugnet das nicht — sie arbeitet damit.
 
+### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+Die Rehabilitierung des Genres selbst: Sarr rettet die Utopie als „Prozess der sozialen Transformation, kein süßer Traum" — gegen den Dystopie-Verwaltungsmodus des Westens. Diese Note führt genau so eine bewusst durchgespielte, realistische Utopie vor.
+
 ---
 
 ## Weiterdenken

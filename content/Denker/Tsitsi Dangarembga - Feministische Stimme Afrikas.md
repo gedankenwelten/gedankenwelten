@@ -270,6 +270,10 @@ Dangarembgas koloniale „Puffer-Mittelschicht" — nach Intelligenz ausgewählt
 
 Die Gedanken-Note, die aus diesem Gespräch entstand: Dangarembgas Wohlsein-statt-Harmonie und ihre Ubuntu-Lesart, weitergedacht als drittes Kapitel der Netzwerk-Reihe — das Wort für den Alltag, den fast niemand steuern kann außer wir selbst.
 
+### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+
+Das Kerngespräch hinter dem Einspieler dieser Sendung, jetzt in voller Tiefe: Sarr entwirft die Utopie (*Afrotopia*), auf die Dangarembga mit „Ich glaube nicht an Utopien" antwortet. Beide landen beim Wohlsein statt BIP — er von der Vision her, sie von der täglichen Übung.
+
 ---
 
 ## Weiterdenken

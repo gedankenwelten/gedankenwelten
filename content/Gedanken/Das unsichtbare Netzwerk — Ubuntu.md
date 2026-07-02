@@ -153,3 +153,7 @@ Karatanis Reziprozität (Tauschform A) ist Ubuntu in ökonomischer Sprache — d
 ### → [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln|Adriaan van Wagensveld — Weniger Drama: Wie Vipassana dich ins Handeln bringt]]
 
 Die Brücke von der Matte in den Alltag: Beobachten heißt bei ihm handeln können. Dangarembgas Wohlsein-Blick geht denselben Weg von innen nach außen — schauen, bevor man deutet; ansetzen, wo man steht.
+
+### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+
+Die philosophisch-historische Fassung dessen, was diese Note im Alltag sucht: Sarr erzählt, wie Mandela mit „Ich bin, weil wir sind" einen Krieg verhinderte — Ubuntu als Versöhnungsjustiz, die weiter ging als das Völkerrecht. Die große Politik zum selben Wort, das hier im Zimmer nebenan wohnt.

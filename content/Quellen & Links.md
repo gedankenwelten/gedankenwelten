@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Felwine Sarr — Gehört Afrika die Zukunft?
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Felwine Sarr – Gehört Afrika die Zukunft? — Sternstunde Philosophie](https://www.youtube.com/watch?v=EptpupHJGRo) |
+| **Notiz** | [[Felwine Sarr - Gehoert Afrika die Zukunft]] |
+| **DenkerVita** | [[DenkerVita/Felwine Sarr]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Sarr_Afrika_Zukunft_Transkript.txt` |
+
 ## Tsitsi Dangarembga — Feministische Stimme Afrikas
 
 | | |
