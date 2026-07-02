@@ -180,3 +180,7 @@ Ethik → Konzentration → Weisheit als Rahmenwerk für Adriaans Stufenmodell: 
 ### → [[Denker/Shi Heng Yi — Aufloesung der Identitaet]]
 
 Produktive Gegenposition. Adriaan plädiert für *engagierten* Buddhismus — Vipassana ins Handeln, „wie kannst du NICHT engagiert sein?". Shi Heng Yi hält dagegen „arbeite an dir, nicht an der Welt" für die tiefere Wahrheit. Doch sein eigener Fall stützt eher Adriaan: Erst das aktive interne Nachforschen brachte den missbrauchenden Abt zu Fall — Innenschau allein hätte ihn gedeckt.
+
+### → [[Das unsichtbare Netzwerk — Ubuntu]]
+
+Dieselbe Bewegung von innen nach außen: Beobachten heißt handeln können. Die Ubuntu-Note führt sie weiter in den Alltag — hinschauen, ob beim anderen Wohlsein herrscht, und beim Nächstliegenden ansetzen.

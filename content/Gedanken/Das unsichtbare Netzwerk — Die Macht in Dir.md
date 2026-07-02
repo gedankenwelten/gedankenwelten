@@ -31,7 +31,7 @@ aliases:
 
 ---
 
-> Erster Teil einer Reihe. Weiter: [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]] · [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
+> Erster Teil einer Reihe. Weiter: [[Gedanken/Das unsichtbare Netzwerk — Potenziale und Gefahren]] · [[Gedanken/Das unsichtbare Netzwerk — Ubuntu]] · [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
 
 > *Was ändert es, wie ich einem anderen Menschen begegne?*
 > *Alles. Aber wir sehen es nicht, weil Gravitation leise wirkt.*
@@ -341,3 +341,7 @@ Dieselbe Wurzel, anderer Glaube. Cusicanquis Mikropolitik — *„die Dekolonisi
 ### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
 
 Dieselbe Lösung, von einem anderen Kontinent und aus einem anderen Leben: Die simbabwische Schriftstellerin denkt nicht über Utopien nach, sondern über das Hier und Jetzt — hinschauen, ob im Nächstliegenden Wohlsein herrscht, dort ansetzen. Ihr Ubuntu ist das unsichtbare Netzwerk als Institution gedacht: Einzelner und Gesellschaft haften wechselseitig füreinander, Verantwortung läuft in beide Richtungen. Und sie belegt, dass diese Haltung keine Passivität ist — sie wurde für ein Plakat verhaftet.
+
+### → [[Das unsichtbare Netzwerk — Ubuntu]]
+
+Teil drei der Reihe: Das Netzwerk bekommt seinen alten Namen. Ubuntu — ich bin, weil wir sind — ist das Wort für das bewusste Bewohnen dessen, was hier beschrieben wird, samt der Haftung in beide Richtungen und der Warnung, was aus schönen Worten werden kann.

@@ -66,6 +66,10 @@ Die Gedankenwelten (luc)
 
 ### Gedanken
 
+> **02.07.** — [[Gedanken/Das unsichtbare Netzwerk — Ubuntu|Das unsichtbare Netzwerk — Ubuntu]]
+>
+> Ein Gedanke, den man lange allein trägt, bis ihn jemand ausspricht: Ich bin, weil wir sind. Über Ubuntu — das Wort, das uns fehlt, und den Alltag, in dem es längst wohnt.
+
 > **01.07.** — [[Gedanken/Das verwobene Denken — im Geiste Edgar Morins|Das verwobene Denken — ein Gedanke mit Edgar Morin]]
 >
 > Wenn ein Thema zwei wahre Seiten hat und uns ein Lager zwingt, eine zu verraten, liegt der Fehler im Rahmen, nicht in der Welt. Unterscheiden, ohne zu trennen.
