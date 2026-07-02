@@ -231,3 +231,7 @@ Amsterdams Werbeverbot für fossile Brennstoffe (Mai 2026) ist die regulatorisch
 ### → [[Christoph Hein — Geooekonomie NEU DENKEN]]
 
 Follow This' Judo-Technik im Kleinen ist, was Hein für Europa im Großen fordert: vorhandene Strukturen als Wettbewerbsvorteil nutzen statt konfrontieren
+
+### → [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]]
+
+Derselbe Hebel von der anderen Seite: Follow This zwingt über die Aktionärsseite externalisierte Klimakosten zurück in die Bilanz, Bendsen über die Kredit- und Bewertungslogik der Banken — beide machen das Finanzsystem selbst zum Ort der Kostenwahrheit, statt an Konsumenten zu appellieren.

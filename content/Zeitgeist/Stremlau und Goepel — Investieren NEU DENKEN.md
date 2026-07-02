@@ -265,8 +265,11 @@ Flemig beschreibt Rheinmetalls Expansion als neue industrielle Jobmaschine. Stre
 
 Löschels Tankrabatt-Analyse ist die verhaltensökonomische Unterseite von Stremlaus Kapitalfluss-Argument: Erwartungen entscheiden, ob Kapital ins Fossile oder Erneuerbare fließt — wer antizipiert, dass Politik fossile Preise nicht durchhält, investiert nicht um.
 
----
+### → [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]]
 
+Bendsens Circular-Value-Ansatz (re:publica 26) ist die Kreislaufwirtschafts-Fassung von Stremlaus „Geld ist niemals neutral“: Beide beschreiben den Reifungspfad von der ethischen Nische zur harten Risikorechnung — Zirkularität als klassischer Risikofaktor, nicht als grünes Extra.
+
+---
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

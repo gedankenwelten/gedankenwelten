@@ -6,6 +6,24 @@ tags:
   - links
 ---
 
+## Gabriel Yoran — Die Entkrempelung der Welt
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26: Die Entkrempelung der Welt](https://www.youtube.com/watch?v=poaUjtVM3pQ) |
+| **Notiz** | [[Gabriel Yoran - Die Entkrempelung der Welt]] |
+| **DenkerVita** | [[DenkerVita/Gabriel Yoran]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Yoran_Entkrempelung_Transkript.txt` |
+
+## Nicole Bendsen — Zirkulärer Wert statt lineares Risiko
+
+| | |
+|---|---|
+| **Vortrag / Video** | [re:publica 26: Zirkulärer Wert statt lineares Risiko](https://www.youtube.com/watch?v=CnA-zz2xXtA) |
+| **Notiz** | [[Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko]] |
+| **DenkerVita** | [[DenkerVita/Nicole Bendsen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Bendsen_Zirkulaer_Transkript.txt` |
+
 ## Felwine Sarr — Gehört Afrika die Zukunft?
 
 | | |

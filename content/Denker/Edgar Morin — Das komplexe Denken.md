@@ -179,8 +179,11 @@ Scobel ist der lebende Praktiker von Morins Programm: Interdisziplinarität als 
 
 Zwei französische Denker mit derselben Biografie-Wurzel — engagierter Marxist, dann radikaler Bruch mit jeder Großerzählung —, die daraus entgegengesetzte Konsequenzen ziehen: Lyotard verabschiedet die Metaerzählung ersatzlos, Morin sucht mit der *pensée complexe* eine neue Weise, das Ganze zu denken, ohne in die alte Totalität zurückzufallen.
 
----
+### → [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
 
+Yorans ETF-Selbstbefund („Wer profitiert? Oh — das bin ja ich“) ist das *principe dialogique* in Reinform: Der Kritiker findet sich als Teil des Kritisierten wieder, ohne Auflösung des Widerspruchs.
+
+---
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **03.07.** — [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
+>
+> Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
+
+> **03.07.** — [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]]
+>
+> Nur 7 % der globalen Materialströme kehren in den Kreislauf zurück. Nicole Bendsen will die Bewertungslogik der Wirtschaft drehen: Zirkularität nicht als Moral, sondern als Risikorechnung.
+
 > **02.07.** — [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Who the f#ck is Agartha? — Vom Vril-Roman zur rechtsextremen Meme-Welt]]
 >
 > Ein Verschwörungsmythos reist 150 Jahre — vom viktorianischen Roman über Himmlers Pseudoforschung bis in den TikTok-Feed, wo der Witz die Tarnung der Ideologie ist.
@@ -36,15 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Rente zwischen Nachhaltigkeit und Gerechtigkeit — wenn das Reformpaket nur als Ganzes trägt: Wer schultert die Last des längeren Lebens, und wer entscheidet, was fair heißt?
 
-> **28.06.** — [[Zeitgeist/Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ|Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]]
->
-> Zwei Risse an einem Tag: Ein Gericht erklärt das Schweigen des Justizministers für Gesetzesbruch, ein Milliardär flieht aus der Anhörung — und ein Iran-Schlag schiebt sich davor.
-
-> **25.06.** — [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig|GFF-Gutachten — Die AfD ist verfassungswidrig]]
->
-> Ein Jahr ergebnisoffen geprüft, dann ein klares Urteil: Die AfD ist verfassungswidrig — getragen von zwei Säulen, von denen jede allein genügt.
-
-> → *1 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Denker
 

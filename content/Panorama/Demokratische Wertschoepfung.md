@@ -194,6 +194,9 @@ Das Panorama zeigt, dass Unternehmensform Kapitalflüsse steuert (Genossenschaft
 
 Die Plattformgenossenschaft findet im Fediverse ihren konkreten Präzedenzfall: Instanzen wie digitalcourage.social verbinden Mitnutzung mit Mitfinanzierung — dasselbe Prinzip wie die Energiegenossenschaft, angewendet auf soziale Infrastruktur. Der Gini-Koeffizient 0,92 der Mastodon-Nutzerverteilung zeigt dabei, dass auch gemeinwohlorientierte Strukturen ohne bewusste Gegenstrategie dieselben Zentralisierungstendenzen reproduzieren wie Kapitalmärkte.
 
+### → [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]]
+
+Bendsens „Collective Impact“ (viele Akteure schlagen gemeinsam dieselbe Richtung ein) findet hier seine historische Vertiefung: Ostroms Allmende-Forschung belegt, dass gemeinschaftliche Ressourcenverwaltung keine Utopie ist, sondern eine verdrängte Wirtschaftsform.
 
 ## Weiterdenken
 

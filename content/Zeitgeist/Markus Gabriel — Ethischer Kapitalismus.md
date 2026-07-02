@@ -206,3 +206,10 @@ Diametraler Gegensatz: Gabriel will den Kapitalismus durch Ethik retten; Varoufa
 
 Konträre Antworten auf dieselbe Krise: Gabriel glaubt, "true profit" und Ethikpflichten könnten den Kapitalismus demokratieverträglich reformieren. Brown würde dem widersprechen: Wenn neoliberale Marktlogik bereits zur Vernunftform geworden ist, wird "Ethik" in Marktsprache übersetzt (ESG, Impact Investing) und der strukturelle Schaden bleibt. Gabriels Reformoptimismus trifft auf Browns institutionellen Pessimismus.
 
+### → [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
+
+Yorans Befund „die Interessen von Hersteller und Kunde sind nicht aligned“ ist die Krankheit, die Gabriels ethischer Kapitalismus über moralische Selbstbindung heilen will — Yoran verlangt stattdessen strukturellen Zwang (Kostenwahrheit, Zertifikate): Moral von innen gegen Regel von außen.
+
+### → [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]]
+
+Produktive Spannung: Gabriel begründet Profit als Folge des moralisch Richtigen, Bendsen dreht die Achse bewusst weg vom Moralischen — Zirkularität „weder moralisch noch ideologisch, sondern finanziell nachvollziehbar“ verkaufen. Ob die Moral nicht doch im Excel steckt, ist der Reibungspunkt.

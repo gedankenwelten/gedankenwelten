@@ -251,6 +251,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Felwine Sarr
 **Status:** ✓ Vollanalyse → [[DenkerVita/Felwine Sarr]]
 
+## Gabriel Yoran
+**Status:** ✓ Vollanalyse → [[DenkerVita/Gabriel Yoran]]
+
 ## Gerald Hüther
 **Status:** ✓ Vollanalyse → [[DenkerVita/Gerald Hüther]]
 
@@ -685,3 +688,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Carel van Schaik
 **Status:** ✓ Vollanalyse → [[DenkerVita/Carel van Schaik]]
+
+## Nicole Bendsen
+**Status:** ✓ Vollanalyse — [[DenkerVita/Nicole Bendsen]]

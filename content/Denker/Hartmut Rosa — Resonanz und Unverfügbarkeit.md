@@ -211,8 +211,11 @@ Das Loosh-Narrativ adressiert echte Resonanzsehnsucht (Verbindung, Bedeutung, Tr
 
 Rosas Mediopassiv (*„es hat mich berührt"*) und Zimpels Bild-Denken beschreiben denselben Prozess: Wissen entsteht nicht durch Anstrengung, sondern durch Öffnung. Resonanz lässt sich nicht erzwingen — genauso wenig wie ein Bild-Denker durch Sprachlehre zum Begreifen gezwungen werden kann. Rosa beschreibt den Verlust echter Weltbeziehung durch Beschleunigung; Zimpel beschreibt, wie das Schulsystem diese Offenheit durch standardisierten Leistungsdruck verdrängt. Beide kritisieren denselben Kontrollimpuls aus verschiedenen Richtungen.
 
----
+### → [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
 
+Yorans „Befassungsbedürfnis“ digitaler Geräte („das frittiert unsere Aufmerksamkeit“) ist die Produktseite von Rosas Beschleunigungs- und Verfügbarkeitsdiagnose — im Vortrag selbst von einer Zuhörerin mit Rosas Unverfügbarkeit verknüpft.
+
+---
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte
