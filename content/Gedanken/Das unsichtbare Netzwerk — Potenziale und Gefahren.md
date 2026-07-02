@@ -28,7 +28,7 @@ aliases:
 
 </details>
 
-> Zweiter Teil einer Reihe. Fundament: [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] · Weiter: [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
+> Zweiter Teil einer Reihe. Fundament: [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] · Weiter: [[Gedanken/Das unsichtbare Netzwerk — Ubuntu]] · [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
 > Entstanden am 24.05.2026 aus einem Gespräch über die Doppelnatur des unsichtbaren Netzwerks.
 
 ---
@@ -123,6 +123,10 @@ Die Dystopie zeigt die Zuspitzung dieser Macht: Je unentrinnbarer das Netzwerk, 
 - [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]] — Skalpell und Nadel operieren sprachlich. Wer Begriffe prägt ohne Hammer, prägt umso tiefer. Höckes Strategie und ihre Mutation ins Subtile.
 - [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Mausfeld beschreibt das System, das von Skalpell und Nadel profitiert: Apathie als Systemziel, Begriffe als Herrschaftsinstrument.
 - [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Resonanz vs. Echo vs. Duplikat. Rosas Begriffe werden hier an ihre Grenzen geführt.
+
+### → [[Das unsichtbare Netzwerk — Ubuntu]]
+
+Teil drei der Reihe wendet den hier beschriebenen Doppelcharakter auf ein einzelnes Wort an: Ubuntu trug Verfassungen und kippte Todesurteile — und wurde zur Einheits-Rhetorik, die Kritiker zum Schweigen bringt. Werkzeug und Waffe, diesmal als Vokabel.
 
 ---
 

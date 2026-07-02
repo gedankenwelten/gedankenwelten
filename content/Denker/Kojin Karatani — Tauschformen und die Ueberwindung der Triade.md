@@ -233,6 +233,10 @@ Karatаnis Mode-A-Tausch (Reziprozität, gemeinschaftliches Eigentum) ist strukt
 
 Cusicanquis Neocomunidad — temporäre Gemeinschaften der Affinität jenseits von Markt und Staat — ist eine gelebte Instanziierung von Mode D: Sie zeigt, wie Mode A (Aymara-Reziprozität, Gemeinschaft) nicht als verlorene Vorgeschichte überlebt, sondern im bolivianischen Anarchismus und in aktivistischen Kollektiven der Gegenwart aktiv reaktiviert wird. Karatani erklärt die Struktur; Cusicanqui liefert die biografische und politische Praxis.
 
+### → [[Das unsichtbare Netzwerk — Ubuntu]]
+
+Karatanis Reziprozität (Tauschform A) in existenzieller Sprache: Ubuntu als die Gabe, die bindet und verpflichtet — und die Frage, ob Wechselseitigkeit auf höherer Stufe wiederkehren kann, gestellt vom einzelnen Alltag her statt vom Weltsystem.
+
 ---
 
 ## Weiterdenken

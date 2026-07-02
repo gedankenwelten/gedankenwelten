@@ -215,6 +215,10 @@ Cusicanqui teilt Mbembes Diagnose, dass Kolonialität alle erfasst, nicht nur di
 
 Zwei afrikanische postkoloniale Stimmen mit Ubuntu als Zentralbegriff und dem Kolonialismus als fortlebender Infrastruktur — aber wie Entwurf zu Übung: Mbembe denkt die planetare Gemeinschaft als Vision, Dangarembga verweigert die Utopie („Ich glaube nicht an Utopien") und setzt auf die Praxis des Wohlseins im Hier und Jetzt.
 
+### → [[Das unsichtbare Netzwerk — Ubuntu]]
+
+Eine Gedanken-Note über dasselbe Wort, eine Nummer kleiner gedacht: Wo Mbembe Ubuntu planetar entwirft, bleibt sie beim Blick auf die eine Person im Zimmer nebenan — und bei der Frage, wann das schöne Wort zur Waffe wird.
+
 ---
 
 ## Weiterdenken

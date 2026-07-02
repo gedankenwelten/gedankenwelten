@@ -266,6 +266,10 @@ Zwei Denkerinnen, die das Leben als *Praxis* statt als Programm fassen. Dangarem
 
 Dangarembgas koloniale „Puffer-Mittelschicht" — nach Intelligenz ausgewählt, in England ausgebildet, als Verwalter zurückgeschickt (ihre eigene Mutter) — ist Elitenerziehung als Herrschaftstechnik: Bildung, die nicht befreit, sondern ins System einpasst. Die Gedanken-Note beleuchtet dieselbe Frage von der Innenseite der Macht her.
 
+### → [[Das unsichtbare Netzwerk — Ubuntu]]
+
+Die Gedanken-Note, die aus diesem Gespräch entstand: Dangarembgas Wohlsein-statt-Harmonie und ihre Ubuntu-Lesart, weitergedacht als drittes Kapitel der Netzwerk-Reihe — das Wort für den Alltag, den fast niemand steuern kann außer wir selbst.
+
 ---
 
 ## Weiterdenken
