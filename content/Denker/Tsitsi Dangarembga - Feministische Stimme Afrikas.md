@@ -17,6 +17,16 @@ aliases:
 
 # Tsitsi Dangarembga — Feministische Stimme Afrikas
 
+![[assets/Tsitsi-Dangarembga-Feministische-Stimme-Afrikas-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Jacob Lawrence — Migration-Series-Modernismus (1940er)** — flache Tempera-Formen, harte Farbkanten, Ocker/Waldgrün/Sienna/Schwarz mit einem roten Akzent. Links das reiche Feld mit vollen Körben, in der Mitte die schwarze Maschine, die die Ernte als goldenen Faden aus dem Bild saugt — ein Rad fehlt, die anderen drehen weiter (der Kolonialismus, dem man nur das politische Rad entnahm). Rechts die Frau mit Plakat und offenem Buch, dessen Fäden die Mädchen im Nhanga-Zelt verbinden. Lawrence, weil er Sozialgeschichte mit Würde malt: schwarze Figuren als Handelnde, nie als Opfer — genau Dangarembgas Register.
+
+*Prompt:* Jacob Lawrence style painting, flat tempera shapes, bold silhouettes, hard-edged color planes, 1940s African-American modernism, Migration Series aesthetic, 1200x500px wide banner. Palette: ochre yellow, deep forest green, burnt sienna, black, one strong cadmium red accent, unbleached paper background. Left third: a thriving field of tall sorghum and maize under a big ochre sun, dark stylized figures harvesting with hoes, granary baskets full. Center: a huge angular black machine of interlocking wheels and chutes cuts through the field; the grain is pulled into it and streams as a thin golden line up and away toward the top right corner, off the canvas; one wheel of the machine is missing, but the other wheels keep turning. Right third: in front of the machine stands a single upright woman in a red headwrap, holding a plain white protest placard in one hand and an open book in the other; from the open book, curved lines reach out like threads to a half-circle of seated smaller figures — young girls under a simple white tent — connecting them to each other. All faces are simplified geometric shapes, no realistic faces. Flat perspective, no shading gradients, strong rhythmic repetition of forms. No photorealism. No text in the image.
+
+</details>
+
 > [!abstract] Worum es geht
 > „Zimbabwe ist kein armes Land. Die Armut wurde künstlich hergestellt — als Waffe." Tsitsi Dangarembga, die erste schwarze Frau ihres Landes, die Romane veröffentlichte und Filme drehte, führt in einer Stunde durch das, was der Kolonialismus hinterlassen hat: in der Wirtschaft, in den Familien, in den Köpfen — auch in unseren. Und sie setzt dagegen kein Pathos, sondern eine Praxis: Wunden reinigen durch Erzählen, Macht befragen, Wohlsein herstellen — hier und jetzt, nicht in einer Utopie. Mit einem Einspieler von Felwine Sarr, dem sie freundlich widerspricht.
 
