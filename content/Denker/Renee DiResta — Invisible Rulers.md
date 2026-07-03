@@ -413,3 +413,7 @@ Dittert beschreibt den konkreten Anwendungsfall von DiRestas „bespoke reality"
 ### → [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
 
 Das institutionelle Gegenstück zur dezentralen Crowd-Propaganda: Johnson zeigt, dass die klassische top-down-Konsensfabrikation (Manufacturing Consent) im US-Mainstream ungebrochen weiterläuft — ohne Algorithmus, durch redaktionelle Routine.
+
+### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird]]
+
+Der philosophische Überbau zu DiRestas Springfield-Befund: „Kein einziger Akteur muss lügen wollen, es gibt keine zentrale Schuld" ist exakt die Herrenlosigkeit, die der leere Turm zur These macht. Wo DiResta zeigt, dass Propaganda ohne Drahtzieher entsteht, verallgemeinert die Note den Mechanismus zur Verantwortungs-Entsorgung — und nennt das Gegengift: das Urteil behalten, milliardenfach klein.

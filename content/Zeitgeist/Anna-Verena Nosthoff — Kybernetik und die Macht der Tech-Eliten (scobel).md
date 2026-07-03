@@ -269,3 +269,7 @@ Nosthoffs kybernetisches Staatsverständnis (Steuerung durch Informationsflüsse
 ### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
 
 Andree übersetzt die kybernetische Steuerungslogik in Medienökonomie und Demokratietheorie: Plattformen als gestapelte Monopole auf öffentlichen Gütern, deren Algorithmen die Ränder verstärken und die Mitte dimmen — und deren Macht auf abschaffbaren Rechtsprivilegien steht. Beers „The purpose of a system is what it does" trifft Andrees Neutralitätslüge exakt.
+
+### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird]]
+
+Nosthoffs Kybernetik — Systeme, die sich selbst regeln und Ziele setzen, Politik als Steuerung statt Entscheidung — liefert die Mechanik für den herrenlosen Souverän des leeren Turms: eine Herrschaft, die aufhört, jemandes zu sein, und zum reinen Prozess wird. Der Gedanke zieht daraus die ethische Konsequenz, die bei Nosthoff offenbleibt: Was gibt man ab — die Last oder das Urteil?

@@ -215,6 +215,10 @@ Quents „Faschismus als Technik der Emotionalisierung" liefert den analytischen
 
 Beide Notes ringen mit der Medienverantwortung von zwei Seiten: Staiy prangert das *Schweigen* über rechte Gewalt an, Heims warnt vor dem *falschen Reden* — „Berichtet lieber gar nicht, als das Phänomen zu verharmlosen." Zusammen spannen sie das ganze Dilemma auf: Aufmerksamkeit kann amplifizieren, Schweigen kann normalisieren.
 
+### → [[Panorama/Gekaperte Zeichen]]
+
+Das Panorama zieht die lange Linie hinter dem Agartha-Fall: Vom OK-Zeichen über die Swastika bis zum Rosa Winkel zeigt es, wie Zeichen gekapert — und zurückerobert — werden. Agarthas „plausible deniability" und die Ironie als Schutzschild sind der aktuelle Meme-Fall desselben Musters, das „Gekaperte Zeichen" beschreibt: Sichtbarkeit durch Provokation kippt die öffentliche Lesart, und die Last tragen die Arglosen.
+
 ---
 
 ## Weiterdenken

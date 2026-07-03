@@ -108,6 +108,8 @@ Für alle, die einzelnen Fällen nachgehen wollen — geordnet wie im Text:
 - [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]] — Der Schwestergedanke für Worte: Begriffshoheit als Machtinstrument. Zeichen liegen eine Schicht tiefer — gegen die Umdeutung einer Geste hilft kein Gegenargument, nur der fortgesetzte Gebrauch.
 - [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]] — Kaperung ist keine Einbahnstraße: Der Rosa Winkel wurde vom Vernichtungsstigma zum Banner, Pepe in Hongkong vom Hasssymbol zum Freiheitszeichen. Jede Vergiftung trägt die Möglichkeit ihrer Umkehr in sich.
 - [[Gedanken/Polarisierung als Ideologisierungsfalle]] — Die Empörungsmaschine als Komplize: Das OK-Zeichen wurde erst dadurch vergiftet, dass die Gegenseite die Behauptung der Vergiftung beglaubigte.
+- [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]] — Die Sender-Seite desselben Vorgangs, eine Stufe schärfer: nicht gekaperte Gesten, sondern ganze Bildwelten und Ästhetiken (Fashwave, Dog Whistles, die 14 Wörter), die die extreme Rechte bewusst baut — für Eingeweihte lesbar, für Außenstehende harmlos. Und ihr „Dilemma der Entlarvung" ist die offene Frage dieses Panoramas: Wer den Code benennt, macht ihn bekannter.
+- [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Leonie Heims & Tim Stark — Who the f#ck is Agartha]] — Dieselbe Mechanik als lebender Fall: Ein harmloser Popkultur-Begriff wird unter dem Schutzschild der Ironie zum rechtsextremen Code — „It's not that deep, ist doch nur ein Meme" ist die eingebaute Ausrede des OK-Zeichens in Reinform. Und wie beim OK-Hoax macht die Tarnung als Witz alles sagbar und niemanden angreifbar.
 
 ---
 

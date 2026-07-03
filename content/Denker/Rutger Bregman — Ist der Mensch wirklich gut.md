@@ -272,6 +272,10 @@ Der schärfste Gegenpol: Wo Bregman die Güte als menschlichen *Default* setzt (
 
 Das empirische Gegenwarts-Anschauungsmaterial zu Bregmans These „Macht isoliert und entmenschlicht, die Schamlosen fallen nach oben": die Ultrareichen als realer Fall der Machtisolation, an dem der psychologische Mechanismus konkret wird.
 
+### → [[Gedanken/Vertrauen und das aufgeloeste Opfer]]
+
+Bregmans These vom Menschenbild als selbsterfüllender Prophezeiung, ins Persönliche gewendet: Der Vertrauensvorschuss macht ernst mit der Einsicht, dass Misstrauen die Fassade erzeugt, vor der es warnt. Wo Bregman auf Gesellschaftsebene argumentiert (Buurtzorg, Strafsystem, Demokratie), zeigt die Note dieselbe Mechanik im Maßstab 1:1 — und warum das Geben kein Opfer ist.
+
 ---
 
 ## Weiterdenken

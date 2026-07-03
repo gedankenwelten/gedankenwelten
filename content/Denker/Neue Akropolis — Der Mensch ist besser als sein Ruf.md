@@ -264,6 +264,10 @@ Zimpels IQ-Kritik: Tests messen möglicherweise soziale Anpassung, nicht Intelli
 
 Der "Korrumpierungseffekt" (äußere Belohnung zerstört intrinsische Motivation) in diesem Vortrag bekommt durch Schultz seinen biologischen Mechanismus: Wenn Belohnung *erwartet* wird, bleibt der Dopamin-RPE aus — das Belohnungssystem feuert nur bei Überraschung. Das erklärt neurobiologisch, warum angekündigte Belohnungen intrinsische Motivation aushöhlen: Sie machen das System unempfindlich, weil die Abweichung von der Erwartung verschwindet.
 
+### → [[Gedanken/Vertrauen und das aufgeloeste Opfer]]
+
+Der Dopamin-Befund dieser Note — Belohnung nicht nur beim Empfangen, sondern beim Geben selbst — ist der körperliche Beleg für die Kernthese des Vertrauensvorschusses: „Das Geben wirkt im Gebenden." Was die Gedanken-Note als gelebte Erfahrung beschreibt, findet hier sein biologisches Fundament.
+
 ---
 
 ## Weiterführend
