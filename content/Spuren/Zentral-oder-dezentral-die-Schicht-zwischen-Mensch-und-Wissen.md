@@ -139,6 +139,10 @@ und Wissen". Jeder neue Fall ist ein datierter Datenpunkt in dieser größeren B
 
 ## Verbindungen
 
+### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+
+Die technische Seite der Machtfrage dieser Spur: Bauckhages hybride KI — kleine, spezialisierte Modelle auf dem eigenen Serverschrank statt des alles-wissenden Rechenzentrums — macht Dezentralisierung von einer Effizienz- zur Souveränitätsfrage; wer die Schicht nicht selbst betreibt, trainiert die Konkurrenz.
+
 ### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
 
 Die geopolitische Dimension derselben Kontroll-Achse: 2000+ unsichtbare afrikanische Sprachen als der Ort, an dem der Riss zwischen Mensch und Wissen verläuft — „ein Kontinent, der nicht in seinen Sprachen denken kann, kann die Systeme nicht regieren, die ihn regieren".

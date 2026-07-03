@@ -138,6 +138,10 @@ Gabriel gründete DeepIn als „Labor" für die Praxis ethischer KI. Ausgründun
 
 ## Verbindungen
 
+### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+
+Der Bonner Kollege aus der Informatik als produktiver Kontrast: Wo Gabriel die KI philosophisch als Resonanzfeld deutet, entzaubert Bauckhage den Transformer als „das Dümmste“ — gigantische Lookup-Tabellen in einem lokalen Optimum, die trotzdem die Welt umbauen.
+
 ### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
 
 Eine Stimme aus dem Globalen Süden zu Gabriels These, der Westen verstehe KI falsch: „Wir brauchen keine KI-Freundin, wir brauchen KI, die echte Probleme löst." Zweck und Ethik gegen die Logik der mächtigsten Maschine.

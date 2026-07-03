@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Christian Bauckhage — KI: Wir haben noch gar nichts gesehen
+
+| | |
+|---|---|
+| **Vortrag / Video** | [KI — Wir haben noch gar nichts gesehen!](https://www.youtube.com/watch?v=pb5cMmdQVJo) (Mathe by Daniel Jung, 02.07.2026) |
+| **Notiz** | [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen]] |
+| **DenkerVita** | [[DenkerVita/Christian Bauckhage]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Bauckhage_KI_Nichts_Gesehen_Transkript.txt` |
+| **Bücher / Institute** | Stross: *Accelerando* (2005) · Mostaque: *The Last Economy* · [METR](https://metr.org) · [Lamarr-Institut](https://lamarr-institute.org) · [Fraunhofer IAIS](https://www.iais.fraunhofer.de) |
+
 ## Gert Scobel — Die gefährlichste Frage unseres Lebens
 
 | | |

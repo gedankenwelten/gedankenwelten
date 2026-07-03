@@ -51,6 +51,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Bijan Moini|Bijan Moini]]** — Jurist und Menschenrechtsanwalt (GFF); Überwachungs-Asymmetrie, digitale Grundrechte, automatisiertes Data Mining, BND-Auslandsüberwachung; Literarisierung juristischer Sorgen im Roman *Der Würfel* (2019)
 
+**[[DenkerVita/Christian Bauckhage|Christian Bauckhage]]** — Informatiker (Uni Bonn, Fraunhofer IAIS, Co-Direktor Lamarr-Institut); Maschinelles Lernen, hybride & erklärbare KI, Quantencomputing, OpenGPT-X und europäische KI-Souveränität; „Wir haben noch gar nichts gesehen“
+
 ## C
 
 **[[DenkerVita/Agnes Callard|Agnes Callard]]** — Philosophin (antike Philosophie & Ethik), University of Chicago; verteidigt das sokratische Leben als das einzig lebenswerte; Kernkonzepte Aspiration (Werte-Erwerb statt Selbstoptimierung), unzeitgemäße Fragen, Denken als dialogische Praxis, sokratische Liebe; Werke *Aspiration* (2018), *Open Socrates* (2025)

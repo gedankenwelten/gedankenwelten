@@ -171,6 +171,10 @@ Das ist keine romantische Behauptung, dass jeder ein Genie sei. Es ist die nüch
 
 ## Verbindungen
 
+### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+
+Der Lead Scientist vom Fraunhofer IAIS liefert die deutsche Parallele zu Onos Befund: AlphaFold und die widerlegte Erdős-Vermutung als „Wissen wird billig“ in Reinform — und dieselbe Bildungs-Konsequenz, empirisch unterfüttert durch den 17-Minuten-Prompt im eigenen Hörsaal und die China-Studie zum Lern-Verlust trotz besserer Hausaufgaben.
+
 ### → [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen]]
 Onos Kern — das Staunen als das eigentlich Menschliche, das die Notenjagd austreibt — ist exakt Aristoteles' *thaumázein* aus dieser Note: „Wer aufhört zu staunen, hört auf zu fragen." Beide setzen die offene Frage gegen die schnell ergoogelte Antwort; was bei Ono ökonomisch klingt (Wissen billig, Urteil teuer), formuliert diese Note philosophisch — das Aushalten der Lücke als die letzte seltene Fähigkeit.
 

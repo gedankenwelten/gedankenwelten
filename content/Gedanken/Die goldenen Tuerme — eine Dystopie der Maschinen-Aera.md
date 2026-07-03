@@ -78,6 +78,10 @@ Die, die alle Macht in Händen halten, bauen sich ihr Gefängnis selbst.
 
 ## Verbindungen
 
+### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+
+Die empirische Kurve unter dem Gedankenexperiment: Ein Prompt liefert in 20 Minuten, wofür zehn Menschen ein Jahr brauchen — Bauckhages nüchterne Zahlen (Verdopplungsprognose, METR-Zeithorizonte, Argentiniens reine KI-Firmen) datieren, wie nah die Türme schon gebaut werden.
+
 ### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
 Der Mechanismus hinter dieser Dystopie — und ihre letzte Steigerung: Wenn auch die Turmherren auslagern, bleibt nicht einmal mehr ein Gesicht *hinter* dem Turm. Macht ohne Gesicht wird Macht ohne Herrn.
 
