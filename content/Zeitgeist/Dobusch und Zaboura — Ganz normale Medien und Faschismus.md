@@ -177,6 +177,10 @@ Urners Begriff des Angst-Journalismus benennt die ökonomische Triebkraft hinter
 
 Die Innenbestätigung der Diagnose: Was Dobusch/Zaboura als strukturelle Berufslogik beschreiben (Ausgewogenheits-Performance, Bewertungsverweigerung), benennen ÖRR-Insider bei Schönauer als gelebte Angst — Nachrichtenredakteure seien „beinahe ängstlich", zutreffende, aber politisierbare Wortwahl zu benutzen, und flüchten sich in „sichere Wahrheiten" statt Einordnung. Der Teufelskreis von außen theoretisiert, von innen erlebt.
 
+### → [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
+
+Dieselbe These über zwei Mediensysteme: Wo Dobusch/Zaboura zeigen, wie *normale* Berufslogik Faschismus normalisiert, zeigt Johnson, wie dieselbe Norm-über-Wahrheit-Logik einen Genozid verkäuflich macht — kein Lügner nötig, nur Routine.
+
 ---
 
 ## Weiterdenken

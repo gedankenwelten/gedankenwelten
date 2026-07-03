@@ -239,3 +239,7 @@ Bestätigt von iranischer Seite: „Trump will raus, Israel nicht." Amiris Einsc
 ### → [[Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedraengt]]
 
 Netanyahus 60-Minutes-Auftritt ist die aktuellste Instanz der Strategie, die Blumenthal/Hedges historisch rekonstruieren: Netanyahu nutzt US-Medien, um Trump in Kriegspositionen zu manövrieren — diesmal nicht hinter verschlossenen Türen, sondern live vor Millionen Zuschauern. Koschi liefert den Echtzeit-Beweis für Blumenthals Architektur.
+
+### → [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
+
+Wo Blumenthal/Hedges die Mechanik der US-Nahost-Berichterstattung anekdotisch zeigen (anonyme Geheimdienstquellen, Lobby), vermisst Johnson sie quantitativ — bis zu den 26 Versionen des „Biden-bricht-mit-Netanyahu"-Narrativs aus über 90 % anonymen Regierungsquellen.

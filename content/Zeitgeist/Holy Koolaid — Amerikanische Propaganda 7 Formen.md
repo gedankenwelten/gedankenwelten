@@ -247,6 +247,10 @@ Brückenbegriff: **Mustererkennung für Autokratie von innen vs. außen**. Paul 
 
 Brückenbegriff: **Imperial Overstretch trifft digitale Infrastrukturkontrolle**. Holy Koolaid beschreibt das historische Muster des Imperiums-Kollaps durch Militär-Überexpansion; Mühlhoff zeigt den nächsten Schritt — wenn staatliche Infrastruktur privatisiert und digitalisiert ist, braucht ein kollabierendes Imperium keine Propaganda mehr, weil Verhaltenssteuerung direkt in die Plattformarchitektur eingebaut ist.
 
+### → [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
+
+Das operative Gegenstück zur kulturellen Grundprogrammierung: Johnson zeigt, wie die fertige War-on-Terror-Rhetorik (*savage*, *barbaric*, „Hamas is ISIS") von der Stange genommen und der Hamas übergezogen wurde — Propaganda als Reflex, nicht als Erfindung.
+
 ---
 
 ## Weiterdenken

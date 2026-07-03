@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Adam Johnson — How to Sell a Genocide
+
+| | |
+|---|---|
+| **Interview / Video** | [How the Media Sold the Genocide in Gaza with Adam Johnson](https://video.mondoweiss.net/videos/watch/37f225b3-dd29-422d-9973-b1b5ab03a5e4) (Mondoweiss, PeerTube, 22.04.2026 — erster /sepia-Fund) |
+| **Notiz** | [[Zeitgeist/Adam Johnson - How to Sell a Genocide]] |
+| **DenkerVita** | [[DenkerVita/Adam Johnson]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Johnson_Media_Genocide_Gaza_Transkript.txt` |
+
 ## Abdolkarim Soroush & Paul Heck — Politische Tradition des Islam
 
 | | |

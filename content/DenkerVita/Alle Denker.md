@@ -15,6 +15,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
+**[[DenkerVita/Adam Johnson|Adam Johnson]]** — US-Medienkritiker & Journalist, Co-Host des Podcasts *Citations Needed*, FAIR-Analyst; Kritik der journalistischen Norm in der Tradition von *Manufacturing Consent*; *How to Sell a Genocide* (2026) über die mediale Komplizenschaft im Gaza-Krieg
+
 **[[DenkerVita/Abdolkarim Soroush|Abdolkarim Soroush]]** — Iranischer Religionsphilosoph, pro-Demokratie-Aktivist; Qabz va Bast (Kontraktion/Expansion religiösen Wissens), religiöser Pluralismus, Kritik am velayat-e faqih, Reformislam; Erasmus-Preis 2004, Time 100 2005
 
 **[[DenkerVita/Arlie Russell Hochschild|Arlie Russell Hochschild]]** — Soziologin (UC Berkeley emerita), Pionierin der Emotionssoziologie; emotional labor, deep story, Stolz-Paradox, Scham-Schild; Stolen Pride (2024): Trump schürft Scham wie Kohle

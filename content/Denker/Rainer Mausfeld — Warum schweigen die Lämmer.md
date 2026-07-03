@@ -299,6 +299,10 @@ Mausfelds Thesen wurden von sehr unterschiedlichen Lagern vereinnahmt — darunt
 - [[Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet]] — Faschismus und Bolschewismus kooperieren, sobald Machtinteressen konvergieren — das Staatsprinzip hinter Mausfelds Individualanalyse
 - [[Vipassana — Sankara]] — Sankaras als konditionierte Reaktionsmuster sind das meditative Pendant: Befreiung erfordert Bewusstwerdung
 
+### → [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
+
+Die empirische Fallstudie zu Mausfelds Meinungskorridor: zwei Jahre US-Gaza-Berichterstattung quantitativ vermessen (Wortfrequenzen, Gästelisten, Quellen-Anonymität). Wo Mausfeld die Technik der Bewusstseinskontrolle beschreibt, zeigt Johnson, dass sie oft keine Steuerung braucht — journalistische *Norm* genügt.
+
 ---
 
 ## Sokrates im Verhör

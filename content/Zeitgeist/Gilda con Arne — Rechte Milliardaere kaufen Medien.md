@@ -204,3 +204,7 @@ Semsrott benennt die konstruktive Antwort auf die hier dokumentierte Medienkonze
 ### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
 
 GCA kartiert die externe Bedrohung (Milliardäre kaufen Redaktionen — Orbán/KESMA, Bolloré/CNews, Ellison/CBS), D/Z kartiert das innere Strukturversagen des Qualitätsjournalismus. Zusammen ergibt sich eine vollständige Mediendiagnose: Demokratische Öffentlichkeit kann durch Übernahme oder durch systemische Logikfehler korrumpiert werden — D/Zs Befund ist der unbequemere, weil er zeigt, dass Qualitätsmedien ohne jeden Besitzerwechsel bereits mitdriften.
+
+### → [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
+
+Die konkurrierende Erklärung: Wo hier der Medien-Bias über Eigentumskonzentration erklärt wird, verortet Johnson ihn bewusst in der journalistischen Norm selbst — auch ein Medium ohne Milliardärs-Eigentümer setzt die Sicht der Mächtigen als neutrale Mitte.

@@ -156,6 +156,10 @@ DiRestas Konzept der „Rewired Legitimacy" — wer ein Publikum bindet, genieß
 
 Pörksen beschreibt die „redaktionelle Gesellschaft" als Gegenmittel zur Desinformation — Medienmündigkeit als kollektive Kompetenz. Diese Note zeigt, warum der Anspruch an der Institution selbst scheitern kann: Der Insider-Wunsch, „die Programmzahlerinnen auf Augenhöhe zu informieren, wofür ihr Geld ausgegeben wird", ist exakt Pörksens Forderung nach Transparenz — die die bürokratische Struktur des ÖRR aber systematisch verhindert.
 
+### → [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
+
+Der US-Außenbefund zur hiesigen Innenansicht: Was die ÖRR-Insider als „Schere im Kopf" beschreiben, vermisst Johnson bei US-Redaktionen quantitativ — antizipierte Konsequenz statt offener Zensur, in beiden Systemen.
+
 ---
 
 ## Weiterdenken
