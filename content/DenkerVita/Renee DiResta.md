@@ -7,6 +7,16 @@ tags: [denker-vita, propaganda, medien, desinformation, usa]
 
 # Renée DiResta — DenkerVita
 
+![[assets/Renee-DiResta-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Editorial-Illustration** — Große, kaum sichtbare Hände führen Marionettenfäden über einen Schwarm kleiner Social-Media-Bots und viraler Erzähl-Blasen, die sich über eine Netzkarte ausbreiten. Der klare Stil trägt DiRestas Thema — die „Invisible Rulers", die unsichtbaren Steuerer von Einflussoperationen und Desinformation.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. Large faint invisible hands working puppet strings over a swarm of small social-media bot icons and viral narrative bubbles spreading across a network map; the invisible rulers of online influence and disinformation. Deep indigo, red, teal, cream, sharp graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist Renée DiResta?

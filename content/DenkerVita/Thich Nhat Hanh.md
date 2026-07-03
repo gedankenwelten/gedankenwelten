@@ -7,6 +7,16 @@ tags: [denker-vita, buddhismus, vipassana, meditation, interbeing, engaged-buddh
 
 # Thich Nhat Hanh — DenkerVita
 
+![[assets/Thich-Nhat-Hanh-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Sanfte Zen-Kalligrafie (vietnamesisch)** — Ein einzelnes Blatt Papier ans Licht gehalten enthüllt darin Wolke, Sonne, Regen und einen Baum — Interbeing; eine Lotusblüte, ein achtsamer Fußschritt auf einem Pfad und ein Ensō-Kreis des Friedens in einem ruhigen Pinselstrich. Der stille Zen-Stil trägt Thich Nhat Hanhs Kern — Achtsamkeit, Interbeing und Frieden.
+
+*Prompt:* Gentle Zen calligraphic ink style, Vietnamese, 1200x500 wide banner. A single sheet of paper held to the light revealing within it a cloud, sun, rain and a tree — interbeing; a lotus, a soft mindful footstep on a path, and an enso circle of peace drawn in one calm brushstroke. Black ink, soft grey, warm rose lotus, cream, much serene empty space. No photorealism, no realistic faces.
+
+</details>
+
 → Gedankenwelten-Notes: [[Thich Nhat Hanh — Die Vier Edlen Wahrheiten]]
 
 ---

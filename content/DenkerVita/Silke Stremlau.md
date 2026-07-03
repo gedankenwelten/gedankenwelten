@@ -7,6 +7,16 @@ tags: [denker-vita, wirtschaft, nachhaltigkeit, finanzmarkt, transformation, deu
 
 # Silke Stremlau — DenkerVita
 
+![[assets/Silke-Stremlau-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Klare Editorial-Illustration** — Ströme von Münzen und Finanzflüssen werden umgelenkt, um eine grüne regenerative Wirtschaft aus Bäumen, Windrädern und Solarpaneelen zu nähren, eine Kompassnadel zeigt auf ein Blatt, Triebe wachsen aus dem Geld. Der klare Stil trägt Stremlaus Feld — nachhaltige Finanzwirtschaft als Motor der Transformation.
+
+*Prompt:* Clean flat editorial illustration, 1200x500 wide banner. Streams of coins and finance flows being redirected to nourish a green regenerative economy of trees, wind turbines and solar panels, a compass needle pointing toward a leaf, sprouts growing from money; sustainable finance for transformation. Deep green, gold, teal, cream, crisp vector shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Silke Stremlau** ist Geschäftsführerin von Finance for Transition (F4T), einem Think-and-Do-Tank für Transformationsfinanzierung, den sie seit 2026 aufbaut. Sie arbeitete über dreißig Jahre an der Frage, wie eine nachhaltige Finanzwirtschaft sozial-ökologische Transformation ermöglichen kann.

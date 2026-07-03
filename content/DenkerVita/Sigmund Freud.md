@@ -5,6 +5,18 @@ aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, psychologie, psychoanalyse, oesterreich]
 ---
 
+# Sigmund Freud — DenkerVita
+
+![[assets/Sigmund-Freud-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Salvador Dalí (surrealer Traumraum)** — Der Geist als Eisberg: eine kleine bewusste Spitze über ruhigem Wasser, darunter ein riesiges Traumreich voller schwebender Symbole, Schlüssel, Augen und Treppen, eine einsame Analyse-Couch am Ufer, eine zerfließende Uhr. Der Dalí-Stil trägt Freuds Kern — das Unbewusste unter der Oberfläche.
+
+*Prompt:* Salvador Dali surrealist dreamscape style, 1200x500 wide banner. A vast mind shown as an iceberg: a small conscious tip above calm water and an enormous dream realm below the surface filled with floating symbols, keys, eyes and staircases, a lone analytic couch on the shore, a melting clock; the unconscious. Deep sea blue, warm ochre, dusk violet, soft realism turned dreamlike. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist das?

@@ -15,6 +15,16 @@ aktualisiert: 2026-06-09
 
 # Shi Heng Yi — DenkerVita
 
+![[assets/Shi-Heng-Yi-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Moderne Zen-Tuschmalerei** — Eine einsame, disziplinierte Gestalt steigt in vollkommener Balance einen steilen schmalen Bergpfad einer aufgehenden Sonne entgegen, fünf geglättete Steine sind am Weg überwunden, eine einzelne Kiefer, ruhige Pinselstriche. Der karge Zen-Stil trägt Shi Heng Yis Lehre — Selbstbeherrschung und der Weg über die fünf Hindernisse.
+
+*Prompt:* Modern Zen ink-and-wash style, minimal, 1200x500 wide banner. A lone disciplined figure ascending a steep narrow mountain path in perfect balance toward a rising sun, five smoothed stones cleared along the way, a single pine and calm brush strokes; self-mastery and the path. Black ink, soft grey wash, warm sunrise gold, cream, much empty space, serene and strong. No photorealism, no realistic faces.
+
+</details>
+
 ---
 
 ## Biographischer Snapshot

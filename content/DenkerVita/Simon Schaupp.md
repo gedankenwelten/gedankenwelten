@@ -7,6 +7,16 @@ tags: [denker-vita, arbeit, digitalisierung, gewerkschaften, kritische-theorie, 
 
 # Simon Schaupp — DenkerVita
 
+![[assets/Simon-Schaupp-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Kritischer Konstruktivismus** — Kleine Arbeiterfiguren werden auf der einen Seite von leuchtenden Algorithmus-Pfeilen und Bildschirmen dirigiert und greifen auf der anderen in die Stoffwechsel-Kreisläufe der Natur — Blätter, Boden, zirkuläre Materieflüsse. Die scharfe Geometrie trägt Schaupps Themen — algorithmisches Management und Stoffwechselpolitik.
+
+*Prompt:* Critical constructivist editorial illustration, sharp diagonals, 1200x500 wide banner. Small worker figures directed by glowing algorithm arrows and screens on one side, meshing with the metabolic cycles of nature — leaves, soil and circular material flows — on the other; algorithmic management and metabolic politics. Red, black, green, cream, bold geometric composition. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

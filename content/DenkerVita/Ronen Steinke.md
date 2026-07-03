@@ -7,6 +7,16 @@ tags: [denker-vita, recht, meinungsfreiheit, journalismus]
 
 # Ronen Steinke
 
+![[assets/Ronen-Steinke-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Editorial-Illustration** — Die Waage der Justitia kippt schief: eine Schale drückt ein schwerer Stapel Gold und ein Zylinderhut nieder, die andere trägt nur eine kleine gewöhnliche Figur, die Augenbinde einer Justitia-Büste rutscht. Der scharfe Stil trägt Steinkes These — vor dem Gesetz sind nicht alle gleich.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. The scales of justice tilted badly, one pan weighed down by a heavy stack of gold coins and a top hat while the other holds only a small ordinary figure, the blindfold slipping from a classical Justitia bust; not everyone is equal before the law. Steel grey, deep red, gold, cream, sharp graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

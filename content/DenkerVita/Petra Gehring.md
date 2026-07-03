@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, demokratie, technologie, datenschutz]
 
 # Petra Gehring — DenkerVita
 
+![[assets/Petra-Gehring-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Editorial-Illustration** — Viele vielfältige Bürgerhände ordnen sich um eine große leuchtende Digital-Euro-Münze wie an einem partizipativen runden Tisch, formen gemeinsam eine Schaltkreis-Stadt der Infrastruktur, Sprechblasen und Zahnräder. Der klare Stil trägt Gehrings Digitalethik — wie man digitale Infrastrukturen partizipativ gestaltet.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. Many diverse citizen hands arranged around a large glowing digital-euro coin like a participatory round table, shaping a circuit-city of infrastructure together, speech bubbles and gears; participatory design of digital infrastructure and digital ethics. Teal, warm gold, coral, cream, clean vector shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Petra Gehring** (*TU Darmstadt*) — Philosophieprofessorin und Wissenschaftliche Direktorin des Zentrums für verantwortungsbewusste Digitalisierung (ZEVEDI) in Hessen. Hintergrund in der kontinentalen Philosophie (Foucault, Derrida), heute vor allem angewandte Digitalethik und Policy-Design. Ihr Kernprojekt: Wie gestaltet man digitale Infrastrukturen partizipativ? 2022 leitete sie das *Bürgergutachten digitaler Euro* — ein partizipatives Assessment, das erhebt, was Laien vom CBDC-Design erwarten. Mit dem Podcast *Digitalgespräch* (ZEVEDI/CWD) macht sie Digitaldebatten öffentlich zugänglich.
 

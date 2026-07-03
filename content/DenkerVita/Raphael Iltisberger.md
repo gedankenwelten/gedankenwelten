@@ -7,6 +7,16 @@ tags: [denker-vita, technologie, innovation, organisationsentwicklung, zukunftsf
 
 # Raphael Iltisberger — DenkerVita
 
+![[assets/Raphael-Iltisberger-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Klare strategische Editorial-Illustration** — Kleine Organisationsfiguren steuern ein Boot stetig über die Wellen des Technologie-Hypes, während sie einen großen Fächer aus Zukunfts-Szenariokarten und einen Kompass befragen, ferne Buzzword-Wolken ziehen vorbei. Der nüchterne Stil trägt Iltisbergers Thema — Hype-Zyklen strategisch navigieren statt ihnen zu folgen.
+
+*Prompt:* Clean flat strategic editorial illustration, 1200x500 wide banner. Small organisation figures steering a boat steadily across rolling waves of technology hype while consulting a large fan of future-scenario cards and a compass, distant buzzword clouds passing; navigating hype cycles strategically. Steel blue, teal, mustard, cream, crisp geometric shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Raphael Iltisberger** ist Head of Project Management bei PAWLIK Consultants und verbindet Business Psychology mit Future Research Methodologies. Als ehemaliger IoT-Innovationsberater und Co-Autor von Innovation-Reports zu China interessiert ihn die Frage, wie Zukunftsnarrative das Talent- und Organisationsdesign in Unternehmen formen — und wie Firmen strategisch in Hype-Zyklen navigieren, anstatt ihnen zu folgen.
 >

@@ -7,6 +7,16 @@ tags: [denker-vita, journalismus, demokratie, kapitalismus]
 
 # Tilo Jung — DenkerVita
 
+![[assets/Tilo-Jung-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Editorial-Illustration** — Ein einzelnes Mikrofon reckt sich einem Amtspodium bei einer Pressekonferenz entgegen, ein sehr großes naives Fragezeichen schwebt darüber, kleine ausweichende Sprechblasen weichen zurück. Der klare Stil trägt Jungs Format „Jung & Naiv" — das beharrlich-naive Fragen, das Macht zur Rechenschaft zieht.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. A single microphone raised toward an official podium at a press conference, a very large naive question mark hovering above it, small evasive speech bubbles retreating; persistent naive questioning that holds power to account. Teal, warm red, mustard, cream, clean confident shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

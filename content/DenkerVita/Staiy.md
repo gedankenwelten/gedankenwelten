@@ -7,6 +7,16 @@ tags: [denker-vita, medienkritik, demokratie, deutschland, rechtsextremismus, yo
 
 # Staiy — DenkerVita
 
+![[assets/Staiy-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Editorial-Illustration** — Ein hoher Leuchtturm wirft einen hellen Strahl, der durch dunklen Medien-Nebel schneidet und verborgene, schattenhafte rechtsextreme Formen auflöst, klare News-Blasen und ein Buch erleuchtend. Der Leuchtturm (arabisch *Almanara*) trägt Staiys Kanal — Medienkritik als Licht gegen Schweigen und Rechtsextremismus.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. A tall lighthouse casting a bright beam that cuts through dark media fog and dissolves hidden shadowy far-right shapes, illuminating clear news bubbles and a book; media criticism as a lighthouse. Deep navy, warm gold beam, teal, red accent, cream, clean graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

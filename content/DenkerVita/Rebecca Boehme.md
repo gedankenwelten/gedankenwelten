@@ -7,6 +7,16 @@ tags: [denker-vita, neurowissenschaften, psychologie, schweden]
 
 # Rebecca Böhme — DenkerVita
 
+![[assets/Rebecca-Boehme-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Warme, zarte Neuro-Illustration** — Eine sanfte Hand berührt Haut und sendet weiche leuchtende Wellen entlang der Nervenbahnen hinauf zu einem warm erleuchteten Gehirn und einer gefühlten Körperkarte. Der zärtliche Stil trägt Böhmes Forschung — zwischenmenschliche Berührung und die leibliche Selbstwahrnehmung.
+
+*Prompt:* Warm tender flat neuro-illustration, 1200x500 wide banner. A gentle hand touching skin sends soft glowing ripples travelling along nerve lines up to a warmly lit brain and a felt body-map outline; interpersonal touch and bodily self-perception. Soft rose, warm gold, deep plum, cream, delicate line-work. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

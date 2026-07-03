@@ -7,6 +7,16 @@ tags: [denker-vita, demokratie, deutschland]
 
 # Steffen Mau
 
+![[assets/Steffen-Mau-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache soziologische Editorial-Illustration** — Ein hoher ostdeutscher Plattenbau neben einer Karte der Gesellschaft, die durch Zäune und Linien in begrenzte Zonen sortiert ist, kleine Funken-Symbole markieren die Konfliktpunkte. Der klare Stil trägt Maus Themen — soziale Grenzen, Sortierung und die „Triggerpunkte".
+
+*Prompt:* Bold flat sociological editorial illustration, 1200x500 wide banner. A tall East-German prefab Plattenbau beside a map of society sorted into bounded zones by fences and lines, small spark-symbols marking trigger points of conflict; social boundaries, sorting and trigger points. Muted concrete grey, ochre, teal, red spark accents, clean graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
