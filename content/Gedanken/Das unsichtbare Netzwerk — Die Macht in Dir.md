@@ -342,6 +342,14 @@ Dieselbe Wurzel, anderer Glaube. Cusicanquis Mikropolitik — *„die Dekolonisi
 
 Dieselbe Lösung, von einem anderen Kontinent und aus einem anderen Leben: Die simbabwische Schriftstellerin denkt nicht über Utopien nach, sondern über das Hier und Jetzt — hinschauen, ob im Nächstliegenden Wohlsein herrscht, dort ansetzen. Ihr Ubuntu ist das unsichtbare Netzwerk als Institution gedacht: Einzelner und Gesellschaft haften wechselseitig füreinander, Verantwortung läuft in beide Richtungen. Und sie belegt, dass diese Haltung keine Passivität ist — sie wurde für ein Plakat verhaftet.
 
+### → [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
+
+Die Macht in Dir in ihrer konkretesten Form: bewusst Vertrauen vorschießen. Die Opfer-Frage, die im Raum steht, löst sich dort auf — das Geben wirkt im Gebenden, im Moment des Gebens.
+
+### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
+
+Die Gegenseite derselben Rechnung: Wenn der herrenlose Souverän aus Milliarden kleiner Urteils-Abgaben besteht, besteht sein Gegenmittel aus Milliarden kleiner behaltener Urteile — genau der Macht, die diese Note beschreibt.
+
 ### → [[Das unsichtbare Netzwerk — Ubuntu]]
 
 Teil drei der Reihe: Das Netzwerk bekommt seinen alten Namen. Ubuntu — ich bin, weil wir sind — ist das Wort für das bewusste Bewohnen dessen, was hier beschrieben wird, samt der Haftung in beide Richtungen und der Warnung, was aus schönen Worten werden kann.

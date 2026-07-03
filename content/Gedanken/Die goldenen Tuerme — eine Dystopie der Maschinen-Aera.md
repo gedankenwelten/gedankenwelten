@@ -78,6 +78,9 @@ Die, die alle Macht in Händen halten, bauen sich ihr Gefängnis selbst.
 
 ## Verbindungen
 
+### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
+Der Mechanismus hinter dieser Dystopie — und ihre letzte Steigerung: Wenn auch die Turmherren auslagern, bleibt nicht einmal mehr ein Gesicht *hinter* dem Turm. Macht ohne Gesicht wird Macht ohne Herrn.
+
 ### → [[Die geteilte Fuelle — eine Utopie der Maschinen-Aera]]
 Der helle Zwilling. Dieselbe Tatsache — der Mensch wird als Arbeitskraft entbehrlich — schwingt dort in „du bist frei", hier in „du bist überflüssig". Welcher Satz gilt, entscheidet kein Algorithmus, sondern die Macht.
 

@@ -158,6 +158,9 @@ Das ist auch die Antwort auf naive KI-Skepsis (*"KI ist gefährlich"*) wie auf n
 
 ## Verbindungen
 
+### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
+Derselbe Befund als Gesellschaftsform: Der Besen hat keine Agenda, die Verantwortung liegt beim Lehrling — und wenn Milliarden Lehrlinge gleichzeitig delegieren, entsteht Herrschaft ohne Herrn.
+
 ### → [[Opus/Projekte/Azubi-AI-Learning]]
 Die Zauberlehrling-Parabel ist das Leitbild des gesamten Ausbildungskonzepts. Der Sokrates-Ansatz (KI gibt keine Antwort solange der Azubi noch denken kann) ist die direkte pädagogische Antwort auf das Lehrling-Problem. Reflexions-Bottlenecks statt Langsamkeit.
 

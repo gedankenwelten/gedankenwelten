@@ -190,6 +190,10 @@ Nicht über die Akademie, sondern als gelebte tägliche Revision der eigenen Bez
 
 ## Verbindungen
 
+### → [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
+
+Die Kette der Scharniere als Grenze des Vertrauens: Wo der Alltag den eigenen Platz über Verachtung nach unten sichert und die Kolonie bis in den Kopf reicht, ist Vertrauen nur noch schwer zu halten — der Vertrauensvorschuss trifft nicht auf neutralen Boden. Beide Notes antworten auf derselben Ebene: tägliche Praxis statt großer Geste.
+
 ### → [[Yin und Yang — Alles trägt sein Gegenteil in sich]]
 
 Die direkteste Brücke im ganzen Korpus — und die produktivste Reibung: Beide Figuren denken den Gegensatz als konstitutiv, nicht als Problem. Aber Yin-Yang denkt Komplementarität und fließende Verwandlung; Ch'ixi verweigert genau das — die Punkte bleiben schwarz und weiß, die Energie kommt aus dem ungelösten Kontrast, nicht aus der Harmonie. Zwei nicht-westliche Antworten auf dieselbe Frage, die einander widersprechen.

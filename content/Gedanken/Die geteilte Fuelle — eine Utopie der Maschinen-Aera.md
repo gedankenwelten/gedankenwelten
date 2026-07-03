@@ -88,6 +88,9 @@ Das ist der Unterschied zwischen Paradies und Freiheit. Das Paradies ist satt un
 
 ## Verbindungen
 
+### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
+Der Mechanismus, der zwischen Utopie und Dystopie entscheidet: Was gibt man ab — die Last oder das Urteil? Die geteilte Fülle setzt voraus, dass das Urteil bleibt.
+
 ### → [[Die goldenen Tuerme — eine Dystopie der Maschinen-Aera]]
 Der finstere Zwilling. Dieselbe Tatsache — die Maschine macht den Menschen als Arbeitskraft entbehrlich — kippt dort ins Gegenteil: nicht „du bist frei", sondern „du bist überflüssig". Beide Notes hängen an *einem* Wenn: Wird die Fülle geteilt — oder eingehegt?
 

@@ -1,5 +1,5 @@
 ---
-title: "Panorama — Gekaperte Zeichen"
+title: "Gekaperte Zeichen"
 date: 2026-07-03
 aktualisiert: 2026-07-03
 description: "Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel."
@@ -14,6 +14,16 @@ erstellt: 2026-07-03
 ---
 
 # Gekaperte Zeichen
+
+![[assets/Gekaperte-Zeichen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — belgischer Wolkenhimmel, glatte Präzision, traumstille See. Der Maler des „Ceci n'est pas": Die steinerne OK-Geste trägt ein Stück heiteren Himmel im Fingerkreis — und wirft einen Schatten, der etwas ganz anderes zeigt. Das ist die ganze Note in einem Bild: Die Bedeutung wohnt nicht im Zeichen, sondern im Blick darauf. Links der zurückeroberte Rosa Winkel, gerahmt und warm; rechts der Frosch auf dem Bowler — Zeichen warten still darauf, wer sie als Nächstes liest.
+
+*Prompt:* Rene Magritte surrealist painting, wide 1200x500 banner. Overcast blue-grey sky with soft white clouds above a calm flat sea. Floating in the center a giant weathered stone hand making the OK gesture, thumb and index finger forming a circle; through the circle of the fingers shines a patch of clear bright blue sky. The hand casts two contradictory shadows on the sea below: one soft and round, one sharp and jagged. On the left a small framed canvas stands upright on the beach showing a warmly glowing pink triangle; on the right a calm green frog sits on a black bowler hat. Muted Belgian palette, smooth precise rendering, dreamlike stillness, no realistic faces, no photorealism.
+
+</details>
 
 > [!abstract] Worum es geht
 > Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Dieses Panorama hängt die dokumentierten Fälle nebeneinander: den amerikanischen Flaggengruß, der zum Hitlergruß wurde, das Glückszeichen, das zum Hakenkreuz wurde, den Comic-Frosch, das Glaubensbekenntnis, das Polohemd — und die Gegenrichtung, denn Kaperung ist keine Einbahnstraße.
