@@ -100,6 +100,10 @@ Die Gedankenwelten (luc)
 >
 > Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
 
+> **03.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
+
 > **02.07.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
 >
 > Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
