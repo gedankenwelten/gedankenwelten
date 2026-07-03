@@ -101,6 +101,9 @@ Was gegen die Herrenlosigkeit hilft, ist deshalb keine große Geste und kein Mas
 - [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Die Entpersonalisierung von oben besehen: Auch die Mächtigen sind Produkte von Strukturen, nicht deren souveräne Autoren. Der leere Turm denkt das zu Ende.
 - [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] — Die Gegenkraft: Wenn der herrenlose Souverän aus Milliarden kleiner Abgaben besteht, besteht sein Gegenmittel aus Milliarden kleiner behaltener Urteile.
 - [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]] — Die Schwester-Note: das Scharnier „Last abgeben, Urteil behalten" als gelebte Praxis, und warum sie kein Opfer verlangt.
+- [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Die Gegenthese, an der sich der Gedanke schärft: Mausfeld sieht hinter der Ohnmacht der Vielen gesteuerte Eliten, ein benennbares Zähmungsgeschäft. Der leere Turm hält die herrenlose Lesart dagegen — kein Drahtzieher, nur aufsummierte Abgabe. Wo Mausfeld einen Täter benennt, fragt diese Note, ob der Täter selbst schon Passagier ist.
+- [[Denker/Renee DiResta — Invisible Rulers]] — Die Skynet-Umkehr, empirisch am Fall Springfield: „Kein einziger Akteur muss lügen wollen — das System produziert dennoch Propaganda, es gibt keine zentrale Schuld." Genau die Herrenlosigkeit, die dieser Gedanke ausbuchstabiert, nur im Feld der Desinformation.
+- [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Die technische Grammatik der „Herrschaft ohne Herrn": Nosthoffs Kybernetik zweiter Ordnung beschreibt Systeme, die sich selbst Ziele setzen und nur noch über Informationsflüsse steuern — Politik als Regelung statt Entscheidung. Der reine Prozess, den der leere Turm meint, hat hier seinen Namen.
 
 ---
 

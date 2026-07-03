@@ -257,6 +257,10 @@ Es ist die klassische Spannung zwischen Aufmerksamkeitsökonomie und demokratisc
 
 ## Verbindungen
 
+### → [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
+
+Die Empfänger-Seite dieses Gesprächs: Was hier als bewusst gesetzter Code beschrieben wird (Dog Whistles, Fashwave, die doppelte Lesbarkeit), zeigt das Panorama aus Sicht der Arglosen — vom OK-Zeichen über die Swastika bis zum Rosa Winkel. Die Hundepfeife und die Kaperung sind zwei Hälften desselben Mechanismus: Beide leben davon, dass ein Zeichen zwei Publika gleichzeitig bedient.
+
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocuns Analyse der KI-gestützten Desinformationskampagnen der extremen Rechten ist das Gegenstück zu diesem Gespräch: Dort geht es um die Produktionsmethoden, hier um die Codes und Symbole. Beide Dimensionen — das Wie der Produktion und das Was der Botschaften — ergänzen sich zu einem Gesamtbild.
