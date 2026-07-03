@@ -190,6 +190,11 @@ Diese Note ist bewusst das Komplement zur Spur [[Spuren/Israel-Gaza-Voelkerrecht
 - Adam Johnson in [The Nation](https://www.thenation.com/authors/adam-h-johnson/) — u.a. der Februar-2024-Text zur Umdefinition von „ceasefire"
 - Edward S. Herman / Noam Chomsky: *Manufacturing Consent* (1988) — das Propaganda-Modell, in dessen Tradition Johnson arbeitet
 
+*Johnsons Methode auf andere Mediensysteme angewandt (Schwester-Studien):*
+- [Centre for Media Monitoring — BBC On Gaza-Israel: One Story, Double Standards](https://cfmm.org.uk/bbc-on-gaza-israel-one-story-double-standards/) — 35.000+ BBC-Beiträge (Okt. 23–Okt. 24): israelische Tote pro Opfer 33-fach stärker gewichtet, „murder" 220:1, doppelt so viele israelische wie palästinensische Interviewgäste ([Zusammenfassung: Novara](https://novaramedia.com/2025/06/16/bbc-systematically-biased-against-palestinians-in-gaza-coverage/))
+- Fabian Goldmann — *Staats(räson)funk*: 11.000 Beiträge deutscher Leitmedien (Okt. 23–Jan. 25): israelische Opfer 37-fach überrepräsentiert, bei Bild 97-fach ([Telepolis-Besprechung](https://www.telepolis.de/article/Neun-zu-eins-Wie-deutsche-Medien-den-Gaza-Krieg-erzaehlen-11257494.html))
+- Gegenposition zur Einordnung (Upekkhā): der Asserson-Report warf der BBC umgekehrt *anti*-israelische Schlagseite vor — [kritische Methodik-Analyse der Media Reform Coalition](https://www.mediareform.org.uk/blog/bbc-bias-gaza-asserson-report)
+
 *Sherlock-Recherche (Faktencheck-Belege):*
 - [The Biden Administration's False History of Ceasefire Negotiations (Center for International Policy)](https://internationalpolicy.org/publications/the-biden-administrations-false-history-of-ceasefire-negotiations/) — die stärkste unabhängige Stütze der „Ceasefire-Theater"-These
 - [White House clarifies Biden's beheaded-children claim (NBC)](https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-roundtable-jewish-community-leaders-rcna119865) — der dokumentierte Rückzieher
