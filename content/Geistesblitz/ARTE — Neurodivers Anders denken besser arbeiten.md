@@ -16,6 +16,16 @@ aliases:
 
 # ARTE Re: — Neurodivers: Anders denken, besser arbeiten?
 
+![[assets/ARTE-Neurodivers-Anders-denken-besser-arbeiten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Fernand Léger** — Röhrenförmige Maschinen-Menschen in Primärfarben mit schwarzer Kontur, drei verschieden gebaute Figuren, die wie farbige Zahnräder ineinandergreifen und miteinander arbeiten. Légers heiterer Industrie-Modernismus feiert das Zusammenspiel unterschiedlicher Mechanik — genau die These der Reportage: nicht normieren, sondern die andersartigen Stärken ineinandergreifen lassen.
+
+*Prompt:* Fernand Leger style, tubular mechanical forms, bold black outlines, 1200x500 wide banner. Three stylised human-machine figures of different shapes interlocking like coloured gears and puzzle pieces that mesh together and turn; a workshop of cogs and belts around them working in harmony. Primary red, blue, yellow with black and white. Cheerful industrial modernism, flat colour. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Neurodivers – Anders denken, besser arbeiten? | ARTE Re:](https://www.youtube.com/watch?v=4boIwAIW0Ms)
 
 > [!info] Wer spricht?

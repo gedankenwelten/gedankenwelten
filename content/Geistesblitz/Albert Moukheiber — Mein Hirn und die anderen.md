@@ -16,6 +16,16 @@ aliases:
 
 # Albert Moukheiber — Mein Hirn und die anderen (2/2)
 
+![[assets/Albert-Moukheiber-Mein-Hirn-und-die-anderen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Japanischer Holzschnitt (Hokusai/Hiroshige)** — Prussisch-blauer Starenschwarm über ockerfarbenem Horizont, der die Silhouette eines Kopfes formt; darunter eine Herde in Schutzgemeinschaft. Der Schwarm als Bild des sozialen Gehirns — Moukheibers These, dass wir wie ein Murmuration-Schwarm aufeinander abgestimmt denken, findet im Ukiyo-e die ruhige kollektive Bewegung, die genau das zeigt.
+
+*Prompt:* Japanese woodblock print, Hiroshige and Hokusai style, ukiyo-e, 1200x500 wide banner. A vast murmuration of starlings sweeping across a pale sky, the flock coalescing into the silhouette of a giant human head in profile; below, small dark figures of sheep and people huddling together as a herd. Prussian blue and warm ochre, flat colour, delicate linework, printed texture. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Wie unser Gehirn uns austrickst (2/2) — ARTE-Doku](https://www.youtube.com/watch?v=-WU3_5S1NYI)
 Teil 1: [[Albert Moukheiber — Mein Hirn und ich]]
 

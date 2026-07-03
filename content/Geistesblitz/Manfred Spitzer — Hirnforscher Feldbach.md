@@ -24,6 +24,16 @@ aliases:
 
 # Manfred Spitzer — Hirnforscher Vortrag in Feldbach
 
+![[assets/Manfred-Spitzer-Hirnforscher-Feldbach-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Joan Miró** — Verspielter biomorpher Kosmos: Neuronen als tanzende Punkte, geschwungene Linien und bunte Sterne, die neue Zweige knüpfen; ein kleiner Hirn-Baum, der frische Triebe sprießt. Mirós kindlich-freudige Handschrift trägt Spitzers Kernbild — das Gehirn macht keine Downloads, es lernt und wächst, und Lernen gedeiht am besten im Spiel.
+
+*Prompt:* Joan Miro style, playful biomorphic abstraction, 1200x500 wide banner. A bright childlike cosmos of neurons drawn as dancing dots, curved black lines and little coloured stars connecting and growing new branches; a small growing brain-tree sprouting fresh shoots, a sense of learning and play. White ground, primary red, blue, yellow, black lines, joyful. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: Vortrag in Feldbach, Österreich
 
 > [!info] Zur Quelle

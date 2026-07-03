@@ -19,6 +19,16 @@ aliases:
 
 # ARTE — Forschung, Fake und faule Tricks
 
+![[assets/ARTE-Forschung-Fake-und-faule-Tricks-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — Sozialkritische Illustration mit nervöser Kantenlinie: ein Händler bläst Rauch und Nebel über einen glühenden Globus, ein Thermometer und einen Stapel wissenschaftlicher Papiere; das Wort DOUBT löst sich im Dunst auf. Shahns editoriale Anklage-Geste trägt die Agnotologie — nicht Widerlegung, sondern das gezielte Zweifelhaft-Machen von Wissen.
+
+*Prompt:* Ben Shahn social-realist illustration, angular nervous ink line, gouache, 1200x500 wide banner. A shadowy merchant figure exhaling grey fog and cigarette smoke that drifts across and obscures a glowing globe, a thermometer and stacked scientific papers behind him; the word DOUBT faintly dissolving in the haze. Muted browns, smoke grey, a single toxic yellow-green. Editorial, sombre. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Forschung, Fake und faule Tricks | Doku HD Reupload | ARTE](https://www.youtube.com/watch?v=WLvZZP-hc20) — ARTEde, April 2026 (Erstausstrahlung 2021)
 
 > [!info] Was ist das?
