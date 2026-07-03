@@ -120,6 +120,10 @@ Dieselbe Region, andere Achse: Dort wird Recht *vertagt*, hier im Angriff selbst
 
 Der Gegenschuss zur Spur: Wo die Spur *misst*, dass die Aufmerksamkeit abfließt und Recht vertagt wird, behauptet der Medienkritiker Johnson mit Zähl-Methodik, *wer* den Abfluss organisiert — Zeit kaufen. Sein „Ceasefire-Theater" ist die medienseitige Entsprechung der Verfahrenssimulation, die diese Spur auf der Völkerrechtsebene verfolgt.
 
+### → [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
+
+Die Praxis-Antwort auf die Ohnmacht, die diese Spur misst: Wenn Rechenschaft im Schatten versandet, setzen zwei Hinterbliebene (7. Oktober / israelische Haft) auf organisierte Wenige statt auf Aufmerksamkeit — Versöhnung als Politik mit Adressaten und Termin, nicht als Äquidistanz.
+
 ## Quellen
 
 - [ICJ — South Africa v. Israel (Verfahrensstand, Wikipedia-Überblick mit Primärquellen)](https://en.wikipedia.org/wiki/South_Africa's_genocide_case_against_Israel)

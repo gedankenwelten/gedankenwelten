@@ -274,6 +274,10 @@ Evers' *Fun Facts Utopia* ist die praktische Anwendung von Urners „radikaler H
 
 Die GoodNews-Monatsreihe ist konstruktiver Journalismus in Reinform — und Urner liefert ihr neurokognitives Fundament: Negativitätsbias, Angst-Journalismus, Hoffnung als Denkweise. Leppins neun Erfolgsmeldungen sind die gelebte Praxis von Urners „radikaler Hoffnung".
 
+### → [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
+
+Die Umkehrung des Naivitäts-Vorwurfs in gelebter Form: Was Urner neurologisch als Willens- und Wegkraft beschreibt, klingt dort als „die Naiven seid ihr, die an den Krieg glauben".
+
 ---
 
 ## Weiterdenken

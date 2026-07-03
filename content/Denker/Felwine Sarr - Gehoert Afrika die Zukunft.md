@@ -208,6 +208,10 @@ Verbindung über die *Rehabilitierung der Utopie*: Sarr rettet die Utopie als �
 
 Hecks „Epistemologie der Freundschaft" ist Sarrs Forderung in der Islampolitik: Der Westen studiert den Islam, um ihn zu kontrollieren — wie er Afrika vermisst, um es zu „entwickeln". Beide setzen dagegen Wissen als Beziehung: acht Stunden Gespräch mit dem Scharia-Dekan von Damaskus statt eines definierenden Interviews.
 
+### → [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
+
+Ubuntu und die rehabilitierte Utopie in Anwendung: Versöhnung, die weiter reicht als das Recht (wie Mandelas), und ein Zukunftsentwurf mit Termin gegen den Verwaltungsmodus der Katastrophe.
+
 ---
 
 ## Weiterdenken

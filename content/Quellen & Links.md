@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Maoz Inon & Aziz Abu Sarah — The Future is Peace
+
+| | |
+|---|---|
+| **Gespräch / Video** | [The Future is Peace — The Conduit London](https://www.youtube.com/watch?v=er_5RQf2jqA) (Mai 2026) · [TED: A Palestinian and an Israeli, Face to Face](https://www.youtube.com/watch?v=0juLRi90kRg) (April 2024) |
+| **Notiz** | [[Zeitgeist/Inon und Abu Sarah - The Future is Peace]] |
+| **DenkerVitas** | [[DenkerVita/Maoz Inon]] · [[DenkerVita/Aziz Abu Sarah]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/InonAbuSarah_Conduit_Transkript.txt` · `InonAbuSarah_TED_Transkript.txt` |
+
 ## Adam Johnson — How to Sell a Genocide
 
 | | |

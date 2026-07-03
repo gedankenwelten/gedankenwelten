@@ -479,6 +479,10 @@ Wir haben beachtliche Fortschritte bei den Menschenrechten erzielt. Das menschli
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Beide fordern: Kontemplation muss in Handeln münden, Mitgefühl ist keine passive Empfindung
 - [[Rebecca Boehme — So trickst du dein Gehirn aus]] — Böhme liefert den neurowissenschaftlichen Mechanismus für Ricards Praxis: Meditation trainiert den Präfrontalkortex, den „Raum zwischen Reiz und Reaktion" zu schaffen. Ihre McMindfulness-Kritik deckt sich mit Ricards Betonung langfristiger Übung statt Quick-Fix-Achtsamkeit.
 
+### → [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
+
+Gleichmut als Politik: Was Ricard als inneren Transformationsweg beschreibt, führen zwei Hinterbliebene im schärfsten Konflikt als geübte Praxis vor — Upekkhā, aus der Meditation in den Bewegungsaufbau übersetzt.
+
 ---
 
 ## Weiterdenken

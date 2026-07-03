@@ -699,3 +699,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Nicole Bendsen
 **Status:** ✓ Vollanalyse — [[DenkerVita/Nicole Bendsen]]
+
+## Maoz Inon
+**Status:** ✓ Vollanalyse — [[DenkerVita/Maoz Inon]]
+
+## Aziz Abu Sarah
+**Status:** ✓ Vollanalyse — [[DenkerVita/Aziz Abu Sarah]]

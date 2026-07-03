@@ -39,6 +39,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Arnd Henze|Arnd Henze]]** — Investigativer WDR-Journalist, evangelischer Theologe; christlicher Nationalismus, antidemokratisches protestantisches Erbe, Bonhoeffer-Vereinnahmung durch die Neue Rechte; EKD-Synode seit 2020
 
+**[[DenkerVita/Aziz Abu Sarah|Aziz Abu Sarah]]** — Palästinensischer Friedensstifter & Kulturunternehmer (Ostjerusalem), Mitgründer MEJDI Tours (Dual-Narrative-Methode), National Geographic Explorer, TED Fellow, Co-CEO InterAct International; vom Rache suchenden Jugendlichen zum Versöhner; Crossing Boundaries (2020), The Future Is Peace (2026, mit Maoz Inon)
+
 ## B
 
 **[[DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026
@@ -238,6 +240,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Michel Foucault|Michel Foucault]]** — Macht, Diskurs, Disziplinargesellschaft, Aufklärung als Ethos
 
 **[[DenkerVita/Michel Friedman|Michel Friedman]]** — Jurist, Publizist, Fernsehmoderator; Kind polnisch-jüdischer Holocaust-Überlebender; Heuchelei als demokratischer Befund, Antisemitismus als Querspektrum-Phänomen
+
+**[[DenkerVita/Maoz Inon|Maoz Inon]]** — Israelischer Sozialunternehmer & Friedensaktivist, Gründer der Abraham-Hostels, des Jesus Trail und Fauzi Azar Inn, Co-CEO InterAct International; verlor seine Eltern am 7. Oktober 2023 und wählte öffentlich Frieden statt Rache; Co-Autor The Future Is Peace (2026)
 
 ## N
 

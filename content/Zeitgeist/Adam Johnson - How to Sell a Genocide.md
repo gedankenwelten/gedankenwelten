@@ -238,6 +238,10 @@ Die Innenseite des Schweigens: Was Johnson von außen als Unfähigkeit der Redak
 
 Die produktive Gegenthese: Sahebi/Semsrott erklären Medien-Bias über *Eigentum* (wem gehören die Bühnen); Johnson verortet ihn bewusst in der journalistischen *Norm* selbst — auch ein Medium ohne Milliardärs-Eigentümer setzt die Sicht der Mächtigen als neutrale Mitte. Die Reibung ist der Wert.
 
+### → [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
+
+Die Gegenprobe zur Verkaufslogik des Genozids: zwei Hinterbliebene, die dieselbe Medien-Asymmetrie benennen („what bleeds leads"), aber statt Empörung eine Bewegung mit Termin (2030) dagegensetzen. Wo Johnson die Nachfrage nach dem Schatten seziert, modellieren sie das Angebot an Gleichheit.
+
 ---
 
 ## Weiterdenken
