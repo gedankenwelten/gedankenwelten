@@ -25,6 +25,16 @@ aliases:
 
 # Erwin Thoma — Strategien der Natur
 
+![[assets/Erwin-Thoma-Strategien-der-Natur-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Gustav Klimt** — Goldener Lebensbaum mit wirbelnden Spiralästen, dessen Wurzeln sich in ein leuchtendes Pilznetz verzweigen, das kleine Bäume verbindet; der Stamm als schimmernde Luft und Wasser, die zu Holz aufsteigen. Klimts „Lebensbaum" mit Mosaik-Ornament trägt Thomas Ehrfurcht vor dem Wald — 99 % des Baumes sind Luft und Wasser, das Netz unter der Erde trägt alles.
+
+*Prompt:* Gustav Klimt style, golden ornamental Art Nouveau, 1200x500 wide banner. A great tree of life with swirling golden spiral branches, its roots spreading into a glowing mycelial network of threads connecting many small trees; most of the tree shown as shimmering air and water rising into wood, sunlight woven as gold leaf. Deep green, warm gold, byzantine mosaic patterning. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: Vortrag von Erwin Thoma (Holzbauunternehmer, Autor, ehemaliger Förster)
 
 > [!info] Zur Person

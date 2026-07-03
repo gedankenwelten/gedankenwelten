@@ -19,6 +19,16 @@ aliases:
 
 # Andreas Zimpel — Neurodiversität
 
+![[assets/Andreas-Zimpel-Neurodiversitaet-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee** — Aquarell auf gealtertem Papier: eine Reihe von Gehirnen, jedes als einzigartige kristalline Schneeflocke aus Farbfacetten, dazwischen Zahlen und Buchstaben, die in verschiedenen Farben leuchten. Klees warme Geometrie mit eingewobenen Ziffern trifft Zimpels Kern doppelt: Gehirne so verschieden wie Schneeflocken — und die Synästhesie des Vortragenden, der Zahlen in Farben sieht.
+
+*Prompt:* Paul Klee style, watercolour on aged paper, Bauhaus geometry, 1200x500 wide banner. A row of small brains rendered as unique crystalline snowflakes, each built from coloured geometric facets; numbers and letters glowing in different colours drifting between them like synesthetic sparks. Earthy warm palette with jewel accents, ink contours, translucent washes, playful. No photorealism.
+
+</details>
+
 Quelle: [Neurodiversität — Vortrag Andreas Zimpel](https://www.youtube.com/watch?v=XkbjEvkuKvM)
 
 > [!info] Wer spricht?

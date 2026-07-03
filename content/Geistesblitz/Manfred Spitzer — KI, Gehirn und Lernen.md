@@ -21,6 +21,16 @@ aliases:
 
 # Manfred Spitzer — KI, Gehirn und Lernen
 
+![[assets/Manfred-Spitzer-KI-Gehirn-und-Lernen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Wassily Kandinsky** — Links eine organische, lebendige Neuronen-Konstellation aus konzentrischen Farbkreisen und strahlenden Linien, die zusammen feuern; rechts ein kaltes, präzises Maschinengitter in Monochromblau, das sie spiegelt. Kandinskys „innerer Klang" gibt dem Gehirn Wärme und Musik — und stellt es Spitzers künstlichem neuronalem Netz gegenüber: Struktur ohne Erleben.
+
+*Prompt:* Wassily Kandinsky style, inner-sound abstraction, points lines and planes, 1200x500 wide banner. On the left an organic living constellation of neurons made of concentric coloured circles, radiating lines and warm nodes firing together; on the right a cold precise machine lattice grid mirroring it. Vivid colour on the organic side, monochrome blue on the machine side, musical dynamic composition. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: Interview mit Prof. Dr. Manfred Spitzer (psychiatrische Uniklinik Ulm)
 
 Psychiater, Neurowissenschaftler, Autor. Spitzer ist Direktor der psychiatrischen Universitätsklinik Ulm und Gründer des dortigen Transferzentrums für Neurowissenschaft und Lernen — das erste weltweit, noch vor Harvard und Oxford. Er ist Autor von *Digitale Demenz* (2012, Bestseller) und *Künstliche Intelligenz — den Menschen überlegen* (2024). Bekannt für konsequente Popularisierung von Hirnforschung — und für Anecken.

@@ -22,6 +22,16 @@ aliases:
 
 # Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst
 
+![[assets/Dr-Pablo-Hagemeyer-Narzissmus-innere-Leere-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Egon Schiele** — Rohe expressive Kontur, ausgezehrte Figur, die vor sich eine prunkvolle goldene Maske hält, die Größe nach außen strahlt; hinter der Pracht ein dünner Körper mit einem dunklen hohlen Fleck an der Brust. Schieles verletzliche Körperlichkeit trifft Hagemeyers Kern: die grandiose Persona als Schutz über der inneren Leere.
+
+*Prompt:* Egon Schiele style, raw expressive contour line, gaunt angular figuration, muted flesh and gold, 1200x500 wide banner. A slender human figure holds up before its face a large ornate golden theatrical mask that beams grandeur outward; a thin translucent silhouette and a small dark hollow shape at the chest hint at emptiness behind the splendid mask. Sickly greens, ochre flesh tones, gold leaf on the mask, nervous angular ink lines, expanses of bare paper. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: Podcast-Interview [Narzissmus-Experte: Warum Narzissten innerlich so leer sind — Jakobsweg Podcast](https://www.youtube.com/watch?v=gw-ZOrlqt_g)
 
 > [!info] Wer spricht?

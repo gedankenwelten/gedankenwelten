@@ -19,6 +19,16 @@ aliases:
 
 # Barbara Tversky — Denken beginnt nicht im Kopf
 
+![[assets/Barbara-Tversky-Denken-beginnt-nicht-im-Kopf-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Futurismus (Boccioni/Balla)** — Eine schreitende Figur zerfällt in überlagerte Silhouetten und Kraftlinien, die gestikulierenden Hände hinterlassen Spuren, die zu Diagrammen und Pfeilen werden; links steigt eine Spirale von der Einzelzelle zum bewegten Körper auf. Der Futurismus macht aus Bewegung Bild — und Tverskys These ist genau das: Handlung formt Denken, der Körper geht der Sprache voraus.
+
+*Prompt:* Italian Futurism, Boccioni and Balla style, dynamic force lines, 1200x500 wide banner. A striding figure in motion dissolving into repeated overlapping silhouettes and speed lines, its gesturing hands leaving trails that turn into spatial diagrams, arrows and abstract thought-shapes; a spiral rising from a single cell to a moving body. Warm ochre, terracotta, steel blue, dynamic diagonals. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Thought doesn't just happen in the brain | Barbara Tversky](https://www.youtube.com/watch?v=Tprm0UpCKTY) (Institute of Art and Ideas — How the Light Gets In)
 
 > [!info] Wer spricht?

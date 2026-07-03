@@ -14,6 +14,16 @@ aliases:
 
 # Albert Moukheiber — Mein Hirn und ich (1/2)
 
+![[assets/Albert-Moukheiber-Mein-Hirn-und-ich-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Op-Art (Vasarely/Riley)** — Ein Kopfprofil, das aus einem sich wölbenden Schwarz-Weiß-Illusionsraster tritt, schwebende Würfel, ein Auge, das Strahlen aussendet statt empfängt. Die optische Täuschung ist bei Moukheiber kein Kuriosum, sondern Werkzeug: Sie macht die permanente Rekonstruktionsarbeit des Gehirns sichtbar — die Op-Art tut im Bild, wovon der Vortrag spricht.
+
+*Prompt:* Op-art in the style of Victor Vasarely and Bridget Riley, 1200x500 wide banner. The profile of a human head emerging from a warping grid of black and white optical illusion lines that bulge and bend like a lens; scattered impossible geometric cubes and an isolated eye that seems to project rather than receive. Cool greys, black, white with one accent of orange. Precise geometric abstraction. No photorealism.
+
+</details>
+
 Quelle: [Wie unser Gehirn uns austrickst — ARTE-Doku (1/2)](https://www.youtube.com/watch?v=dJpKtebSDkI)
 Teil 2: [Wie unser Gehirn uns austrickst (2/2)](https://youtu.be/-WU3_5S1NYI)
 

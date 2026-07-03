@@ -23,6 +23,16 @@ aliases:
 
 # Claus-Christian Carbon — Wahrnehmung und Wirklichkeit
 
+![[assets/Claus-Christian-Carbon-Wahrnehmung-und-Wirklichkeit-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — Eine Staffelei in offener Landschaft, deren Leinwand exakt die Szene dahinter malt, sodass beide verschmelzen; ein großes Auge am Himmel wirft Strahlen nach außen auf die Welt, statt sie zu empfangen. Magrittes „La condition humaine" ist die perfekte Hand für Carbons These: Wir sehen nicht die Welt, sondern die Konstruktion, die das Gehirn nach außen projiziert.
+
+*Prompt:* Rene Magritte style surrealism, clear flat painting, 1200x500 wide banner. An easel standing in an open landscape, the canvas on it painting exactly the scene behind so they merge seamlessly; a large single eye in the sky projecting beams of light outward onto the world instead of receiving it. Soft blue sky, green field, muted realism turned dreamlike. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: Podcast-Interview [Warum du die Welt nie so siehst, wie sie wirklich ist](https://www.youtube.com/watch?v=-8gPB16_R_Y) (1:40:44)
 
 > [!info] Zur Person

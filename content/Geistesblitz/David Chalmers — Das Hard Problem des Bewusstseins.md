@@ -14,6 +14,16 @@ aliases:
 
 # David Chalmers — Das Hard Problem des Bewusstseins
 
+![[assets/David-Chalmers-Das-Hard-Problem-des-Bewusstseins-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Odilon Redon** — Ein leuchtendes Auge schwebt im kosmischen Dunkel und öffnet sich zu einem inneren Theater, in dem eine traumhafte Szene treibt, umkreist von goldenen Sphären und einer Blüte aus Licht. Redons visionärer Symbolismus, in dem das innere Auge selbst zum Bild wird, fasst Chalmers' „inneren Film" — das Rätsel, dass es sich überhaupt anfühlt, etwas zu erleben.
+
+*Prompt:* Odilon Redon style, visionary symbolist, luminous pastel over deep darkness, 1200x500 wide banner. A single glowing eye floating in a cosmic void opens into a small inner theatre or cinema screen showing a dreamlike drifting scene; haloes of colour, floating luminous orbs and a mysterious flower of light. Deep indigo, violet, glowing gold and rose. Mystical, softly radiant. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: [How do you explain consciousness? | David Chalmers | TED](https://www.youtube.com/watch?v=uhRhtFFhNzQ)
 
 > [!info] Wer spricht?

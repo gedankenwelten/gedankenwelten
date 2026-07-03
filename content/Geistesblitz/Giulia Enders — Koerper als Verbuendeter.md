@@ -16,6 +16,16 @@ aliases:
 
 # Giulia Enders — Körper als Verbündeter
 
+![[assets/Giulia-Enders-Koerper-als-Verbuendeter-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Frida Kahlo** — Zärtlich-symbolische Figuration mit botanischem Detail: ein Torso von innen, Herz und Darm warm leuchtend, über leuchtende Wurzeln und Ranken mit dem kleinen, fernen Kopf verbunden. Kahlos devotionale Anatomie, in der der Körper zum sprechenden Wesen wird, trägt Enders' Umkehrung der Hierarchie — der Körper nicht als Diener des Kopfes, sondern als Verbündeter.
+
+*Prompt:* Frida Kahlo style, tender symbolic figuration with botanical detail, 1200x500 wide banner. A human torso shown from within, the gut and heart glowing warm and connected by luminous roots and vines to the small distant head; the body as ally, vines and leaves growing through the figure, folk-art warmth. Deep reds, leaf green, warm earth, gold light. Devotional, anatomical yet tender. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders](https://www.youtube.com/watch?v=s6asGzLT1c8)
 
 > [!info] Wer spricht?

@@ -16,6 +16,16 @@ aliases:
 
 # Wolfram Schultz — Dopamin: Mehr als ein Glückshormon
 
+![[assets/Wolfram-Schultz-Dopamin-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Robert & Sonia Delaunay (Orphismus)** — Konzentrische Farbscheiben in rhythmischer Abstraktion: eine schreitende Figur greift nach pulsierenden Kreisen wie nach Belohnungs-Impulsen, ein heller Funke blitzt zwischen Erwartung und Ankunft. Der Orphismus macht aus Rhythmus und Kreis reine Bewegung — und trifft Schultz' Doppelnatur des Dopamins: Belohnung ist Bewegung, und der Funke ist der Vorhersagefehler.
+
+*Prompt:* Robert and Sonia Delaunay Orphism style, concentric colour discs, rhythmic abstraction, 1200x500 wide banner. A striding figure reaching toward a cluster of pulsing concentric colour discs like beats of reward; a bright spark of an error-signal flashing between what was expected and what arrived, arcs of motion and prismatic rhythm. Saturated complementary colours, circular dynamism, luminous. No photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Bild der Wissenschaft Podcast — Dopamin: Mehr als ein Glückshormon](https://bildderwissenschaft.podigee.io/28-neue-episode)
 
 > [!info] Wer spricht?
