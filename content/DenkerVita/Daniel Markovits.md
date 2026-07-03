@@ -7,6 +7,16 @@ tags: [denker-vita, kapitalismus, usa, demokratie]
 
 # Daniel Markovits — DenkerVita
 
+![[assets/Daniel-Markovits-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Fritz Kahn (Retro-Industrie-Infografik)** — Eine Figur steigt endlos ein goldenes Tretmühlen-Leiterrad in einem vergoldeten Käfig, Zahnräder und Kolben treiben den Aufstieg, ein Diplom wird zum Hamsterrad. Kahns „Mensch als Maschine" trägt Markovits' meritokratische Falle — die Selbstausbeutung der Elite im goldenen Käfig.
+
+*Prompt:* Fritz Kahn retro industrial infographic style, human-as-machine diagram, 1200x500 wide banner. A figure endlessly climbing a golden treadmill-ladder inside a gilded cage, cutaway showing gears and pistons driving the climb, a diploma turning into a hamster wheel; the meritocratic trap. Muted teal, gold, cream, 1920s technical illustration lines. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

@@ -5,6 +5,18 @@ aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, existenzialismus, frankreich]
 ---
 
+# Albert Camus — DenkerVita
+
+![[assets/Albert-Camus-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Nicolas de Staël** — Dicke, leuchtende Farbblöcke mit dem Spachtel: eine Figur wälzt den Fels den Hang hinauf, unter einer gleißenden Sonne, tiefblaues Mittelmeer dahinter. De Staëls mediterrane Abstraktion macht das Absurde strahlend — Sisyphos, den man sich als glücklichen Menschen vorstellen muss.
+
+*Prompt:* Nicolas de Stael style, thick luminous palette-knife colour blocks, Mediterranean, 1200x500 wide banner. A lone figure pushing a great boulder up a slope under a blazing white-gold sun, deep blue sea and sky behind, ochre rock; the absurd made radiant. Bold slabs of cobalt, white, ochre and black, textured impasto abstraction. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

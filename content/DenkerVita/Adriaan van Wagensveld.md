@@ -7,6 +7,16 @@ tags: [denker-vita, vipassana, buddhismus, meditation, mitgefühl, bodhisattva]
 
 # Adriaan van Wagensveld — DenkerVita
 
+![[assets/Adriaan-van-Wagensveld-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Zen-Tuschmalerei (Sumi-e) mit Kintsugi-Gold** — Eine meditierende Silhouette zwischen zerbrochenen Schalen und Steinen, deren Bruchlinien mit Gold gefüllt sind, ein Lotus aus dem Schlamm, der Ksitigarbha-Stab. Die japanische Reparaturkunst, die den Bruch vergoldet statt verbirgt, trägt van Wagensvelds Kern: die Wunden als Schatz.
+
+*Prompt:* Zen sumi-e ink painting with gold kintsugi, minimal, 1200x500 wide banner. A seated meditating silhouette in calm brush ink; around it a broken bowl and cracked stones mended with veins of gold, wounds turned to treasure; a single earth-store bodhisattva staff and a lotus rising from mud. Soft ink washes, warm gold seams, much empty rice-paper space, serene. No photorealism, no realistic faces.
+
+</details>
+
 → Gedankenwelten-Notes: [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]]
 
 ---

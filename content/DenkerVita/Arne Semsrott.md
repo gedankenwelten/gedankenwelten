@@ -7,6 +7,16 @@ tags: [denker-vita, pressefreiheit, transparenz, demokratie]
 
 # Arne Semsrott — DenkerVita
 
+![[assets/Arne-Semsrott-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**A.M. Cassandre (Art-Déco-Plakat)** — Ein riesiger Schlüssel dreht sich in einer schweren Staatstür, die aufschwingt, gleißendes Licht strömt auf einen Bürger; Aktenstapel mit schwarzen Schwärzungsbalken lösen sich im Licht in Transparenz auf. Cassandres monumentale Plakatklarheit trägt den Transparenz-Aktivisten Semsrott und FragDenStaat.
+
+*Prompt:* A.M. Cassandre Art Deco poster style, monumental bold flat forms, 1200x500 wide banner. A giant key turning in a heavy state door that swings open, brilliant light pouring out onto a citizen below; stacks of files with black redaction bars dissolving into transparency in the light. Deep ink blue, ochre, cream, powerful geometric poster clarity. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist das?

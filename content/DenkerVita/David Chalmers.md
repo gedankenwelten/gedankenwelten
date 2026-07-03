@@ -10,6 +10,16 @@ tags:
 
 # David Chalmers — DenkerVita
 
+![[assets/David-Chalmers-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico (metaphysische Malerei)** — Ein unheimlicher Arkadenplatz mit langen Schatten: zwei identische gesichtslose Mannequin-Figuren, die eine mit warmem Licht in der Brust, die andere hohl und dunkel; ein Portal zeigt einen zweiten, simulierten Platz darin. De Chiricos rätselhafte Puppen tragen Chalmers' philosophische Zombies, den Panpsychismus und die Simulationsfrage aus *Reality+*.
+
+*Prompt:* Giorgio de Chirico metaphysical surrealism style, long shadows, empty plaza, 1200x500 wide banner. Two identical faceless mannequin figures stand in an uncanny arcaded square; one has a warm glowing light inside its chest, the other is hollow and dark; a screen-portal shows a second simulated plaza inside it. Ochre walls, deep green sky, dramatic raking shadows, still and enigmatic. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

@@ -7,6 +7,16 @@ tags: [denker-vita, ki, industriepolitik, oekonomie, oekonomische-politik, verei
 
 # Carsten Jung — DenkerVita
 
+![[assets/Carsten-Jung-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Isotype (Otto Neurath)** — Flache Piktogramm-Infografik: Reihen identischer Menschen-Symbole neben einem Roboterarm, eine Wachstumskurve aus Münzstapeln und Fabriken, einige von der Automatisierung verdrängte Figuren. Neuraths „Bildstatistik" trägt den KI-Ökonomen Jung — die Makro-Wirkung der KI auf Arbeit, Wachstum und öffentliche Finanzen, sichtbar gemacht.
+
+*Prompt:* Otto Neurath Isotype pictogram style, flat infographic, 1200x500 wide banner. Rows of identical human pictograms beside a large robot arm; a rising economic growth curve made of stacked coins and small factory and pound-sign icons; a few figures displaced by automation. Flat brick red, black, warm grey on cream, clean systematic pictographs. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Aktuelle Rollen:**

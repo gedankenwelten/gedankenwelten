@@ -7,6 +7,16 @@ tags: [denker-vita, zukunftsforschung, psychologie, nachhaltigkeit, unternehmert
 
 # Anabel Ternès von Hattburg — DenkerVita
 
+![[assets/Anabel-Ternes-von-Hattburg-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Bauhaus (Moholy-Nagy)** — Dynamische Diagonalen und transparente Flächen: ein grüner Trieb wächst durch ein leuchtendes digitales Raster einer aufgehenden Sonne entgegen, überlagerte Farbebenen, Pfeile der Vorwärtsbewegung. Die Bauhaus-Zuversicht trägt die Zukunftsforscherin Ternès — Nachhaltigkeit und Digitales in einer hoffnungsvollen Geste.
+
+*Prompt:* Bauhaus Moholy-Nagy style, dynamic diagonals and transparent planes, 1200x500 wide banner. A green sprout and leaf growing through a luminous digital grid toward a rising sun-circle; overlapping transparent coloured planes, arrows of forward motion, a hopeful sustainable future. Fresh green, clear blue, warm yellow, clean geometric optimism. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Prof. Dr. Anabel Ternès von Hattburg** (geb. 1982) ist eine führende europäische Zukunftsforscherin, Psychologin, Unternehmerin und Keynote-Speakerin. Sie ist Professorin für International Business Administration und Geschäftsführende Direktorin des Instituts für Nachhaltigkeitsmanagement (IISM) an der SRH Berlin University of Applied Sciences.

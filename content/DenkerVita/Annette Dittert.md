@@ -6,6 +6,16 @@ tags: [denker-vita, journalismus, grossbritannien, medien, demokratie, populismu
 
 # Annette Dittert — DenkerVita
 
+![[assets/Annette-Dittert-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Eric Ravilious (englisches Aquarell)** — Ein kleines Hausboot, vertäut an einem Kanal am Rand einer grauen Großstadt-Silhouette überm Wasser, eine Lampe im Fenster — ein Beobachtungsposten halb drinnen, halb draußen. Ravilious' stille englische Melancholie trägt die Londoner Korrespondentin Dittert und ihren Blick auf Demokratien, die von innen aushöhlen.
+
+*Prompt:* Eric Ravilious style, English watercolour with fine cross-hatching, quiet melancholy, 1200x500 wide banner. A small houseboat moored on a canal at the edge of a great grey city skyline seen across the water; a lamp lit in its window, an observer's post half inside half outside; overcast English light, chalky greens and blues. Textured wash, patterned water. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

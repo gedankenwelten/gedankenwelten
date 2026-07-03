@@ -7,6 +7,16 @@ tags: [denker-vita, soziale-ungleichheit, armut, kapitalismus, deutschland]
 
 # Christoph Butterwegge — DenkerVita
 
+![[assets/Christoph-Butterwegge-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**George Grosz** — Beißende Weimarer Satire in Tusche und Aquarell: eine geteilte Straße — auf der einen Seite eine aufgeblähte Zylinder-Figur mit überquellenden Münzen, auf der anderen dünne Gestalten an leerem Suppentopf, dazwischen eine gekippte Waage. Grosz' scharfer Strich trägt Butterwegges Thema — die wachsende Ungleichheit im finanzmarktdominierten Kapitalismus.
+
+*Prompt:* George Grosz Weimar satire style, biting ink and watercolour, 1200x500 wide banner. A divided city street: on one side a bloated top-hatted figure with overflowing coins and champagne, on the other thin figures queueing at an empty soup pot; a tilted scale between them. Acid yellows, dirty greens, ink black, sharp caricatural line, social critique. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Christoph Butterwegge** (*1951, Albersloh*) — einer der profiliertesten Armutsforscher Deutschlands und Politikwissenschaftler. Sohn einer alleinerziehenden Mutter, studierte Germanistik und Erziehungswissenschaften. Über die Rechtsextremismus-Forschung kam er zur Kernfrage: Welche strukturellen Ursachen erzeugen soziale Desintegration? Seine Antwort: wachsende Ungleichheit in einem finanzmarktdominierten Kapitalismus. Von 1998 bis 2016 Professor für Politikwissenschaft an der Universität Köln. 2017 kandidierte er für Die Linke bei der Bundespräsidentenwahl.
 

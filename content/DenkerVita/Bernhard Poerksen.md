@@ -7,6 +7,16 @@ tags: [denker-vita, medien, debattenkultur, konstruktivismus]
 
 # Bernhard Pörksen — DenkerVita
 
+![[assets/Bernhard-Poerksen-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Pop-Collage (Paolozzi/Hamilton)** — Ein Gewimmel kleiner leuchtender Bildschirme, Megafone und knallbunter Sprechblasen, die kollidieren und sich überlagern, Filterlinsen in prallen Farben, ein Netz aus Punkten dazwischen: jeder ein Sender. Die Pop-Montage trägt Pörksens Begriffe — Filterclash und die redaktionelle Gesellschaft.
+
+*Prompt:* Pop art collage, Eduardo Paolozzi and Richard Hamilton style, 1200x500 wide banner. A crowd of small glowing screens, megaphones and coloured speech bubbles colliding and overlapping, filter-lenses in clashing colours, a networked mesh of dots linking them; everyone a broadcaster. Bright pop primaries, halftone dots, cut-out collage edges, busy energetic. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

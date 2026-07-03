@@ -9,6 +9,16 @@ aliases:
 
 # Der Dara — DenkerVita
 
+![[assets/Der-Dara-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Zeitgenössische Flat-Vector-Pop-Illustration** — Eine Figur am leuchtenden Ringlicht-Mikrofon wirft einen Lichtstrahl, der einen dunklen Knoten aus Fake-News-Blasen und falschen Schlagzeilen entwirrt; ein heller Play-Button und eine Sprechblase. Der klare digitale Pop-Stil trägt Der Daras Kanal — Aufklärung gegen Rechts, Geschwurbel und Fake News.
+
+*Prompt:* Contemporary flat vector pop illustration, bold clean shapes, 1200x500 wide banner. A figure at a glowing ring-light microphone setup shining a beam of light that untangles a dark knot of fake-news bubbles, false headlines and swirl symbols dissolving; a bright play-button and speech bubble. Confident red accent, teal, cream, clean digital illustration. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

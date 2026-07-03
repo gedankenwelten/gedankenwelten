@@ -7,6 +7,16 @@ aktualisiert: 2026-06-10
 
 # Andreas Löschel — DenkerVita
 
+![[assets/Andreas-Loeschel-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Charley Harper (minimaler Öko-Grafismus)** — Klare stilisierte Windräder, eine Solaranlage und eine Sonne, verbunden durch eine Netzlinie, die zur Messkurve wird; Blatt und Blitz in Balance. Harpers flache, präzise Geometrie trägt den Energieökonomen Löschel — die Energiewende als etwas, das man misst, wiegt und nüchtern verantwortet.
+
+*Prompt:* Charley Harper style, minimal flat ecological geometry, 1200x500 wide banner. Clean stylised wind turbines, a solar array and a bright sun connected by a power grid line that turns into a rising and falling measurement graph; a leaf and a lightning bolt in balance. Flat teal, sunflower yellow, warm grey, crisp minimal shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Andreas Löschel** ist Professor für Umwelt- und Ressourcenökonomik an der Ruhr-Universität Bochum und Senior Researcher am RWI – Leibniz-Institut für Wirtschaftsforschung. Von 2011 an war er langjähriger Vorsitzender der Expertenkommission der Bundesregierung zum Monitoring der Energiewende. Als Koordinierender Leitautor des IPCC verantwortet er das Energiesysteme-Kapitel für den 7. Sachstandsbericht. Seine Forschung konzentriert sich auf die Verbindung von Energieökonomik, Klimapolitik und Wirtschaftlichkeit der Energiewende.
 

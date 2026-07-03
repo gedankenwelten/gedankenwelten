@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, wirtschaft, wirtschaftsgeschichte, gesellschaft
 
 # Carlo Cipolla — DenkerVita
 
+![[assets/Carlo-Cipolla-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Saul Steinberg** — Eine witzige Ein-Linien-Tuschzeichnung: ein Vier-Quadranten-Diagramm mit winzigen Strichfiguren in jeder Ecke, Plus- und Minus-Zeichen, Pfeile — eine trockene Landkarte menschlicher Torheit. Steinbergs New-Yorker-Eleganz trägt Cipollas Grundgesetze der Dummheit, halb Scherz, halb Diagnose.
+
+*Prompt:* Saul Steinberg style, witty single-line ink drawing on cream paper, New Yorker cartoon elegance, 1200x500 wide banner. A playful four-quadrant diagram with tiny stick-like ink figures in each corner labelled by little symbols of benefit and loss, arrows and plus-minus signs, a wry map of human folly. Sparse black ink, one accent of red, generous white space, humorous. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Carlo Maria Cipolla** (*15. August 1922, Pavia — 5. September 2000, Pavia*) — Italienischer Wirtschaftshistoriker von internationalem Rang, dessen scharfsinniges Werk über Dummheit als privater Witz begann und zur wirkmächtigsten modernen Diagnose menschlichen Handelns wurde.
 

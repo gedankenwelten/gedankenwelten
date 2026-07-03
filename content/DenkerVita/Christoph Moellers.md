@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, demokratie, deutschland, rechtswissenschaft]
 
 # Christoph Möllers — DenkerVita
 
+![[assets/Christoph-Moellers-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Josef Albers — „Homage to the Square"** — Ineinander geschachtelte Quadrate als abgestufte Freiheitsgrade, in die Schichten eingebettet eine schlanke klassische Säule und eine angedeutete Balance. Albers' präzise Gradation trägt Möllers' Denken — Recht und Freiheit nie abstrakt, sondern als abgestufte, institutionell ausgehandelte Ordnung.
+
+*Prompt:* Josef Albers Homage to the Square style, nested concentric squares, precise flat colour, 1200x500 wide banner. Nested squares reading as graded degrees of freedom, a slender classical column and a subtle balance embedded within the layered squares; law as layered institutional structure. Cool greys, deep blue, warm sand, hard-edged geometric abstraction. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer ist Christoph Möllers?
 > **Christoph Möllers** (*7. Februar 1969, Bochum) — Professor für Öffentliches Recht und Rechtsphilosophie an der Humboldt-Universität Berlin. Leibniz-Preisträger, Traktatuspreis-Träger für *Freiheitsgrade*. Mitglied der Berlin-Brandenburgischen Akademie der Wissenschaften. Ab 2026 Rektor des Wissenschaftskollegs Berlin. Möllers denkt Recht und Freiheit nie abstrakt — immer als institutionell ausgehandelte Arrangements in konkreten demokratischen Verhältnissen.
 
