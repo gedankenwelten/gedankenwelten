@@ -5,6 +5,16 @@ tags: [denker-vita, rechtsextremismus, desinformation, deutschland]
 
 # Tim Stark — DenkerVita
 
+![[assets/Tim-Stark-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Glitch-Digital (Vaporwave)** — Ein harmloser Smiley-Meme verzerrt sich Schritt für Schritt durch Glitch-Störungen in ein dunkleres Haken-Symbol, ein Gehirn mit einem Angelhaken kognitiver Einflussnahme, Ironie als Einfallstor. Der Glitch-Stil trägt Starks Thema — wie aus ironischer Meme-Kultur Radikalisierung wird.
+
+*Prompt:* Glitch digital vaporwave illustration, 1200x500 wide banner. An innocent smiley meme morphing step by step through glitch distortion into a darker hooked symbol, a brain with a fishhook of cognitive influence, irony as a gateway; how ironic meme culture becomes radicalisation. Electric magenta, teal, black, glitch scanlines, cream. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

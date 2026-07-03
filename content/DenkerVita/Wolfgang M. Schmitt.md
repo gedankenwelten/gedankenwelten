@@ -7,6 +7,16 @@ tags: [denker-vita, kulturkritik, kapitalismus, medien]
 
 # Wolfgang M. Schmitt — DenkerVita
 
+![[assets/Wolfgang-M-Schmitt-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Bold flat editorial** — Ein Filmprojektor wirft ein helles Filmbild, während eine kritische Analyse-Linse das Bild durchleuchtet und die verborgene Ideologie und Warenmaschinerie dahinter freilegt, ein roter Faden der Kritik entrollt sich von der Filmrolle. Der Stil trägt Schmitts Werk — die marxistische Film- und Kulturanalyse.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. A film projector beaming a bright movie frame, while a critical analytic lens x-rays the image to reveal the hidden ideology and commodity machinery behind it, a red thread of critique unspooling from the reel; Marxist film and culture analysis. Deep red, black, cream, teal, sharp graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

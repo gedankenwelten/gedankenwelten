@@ -7,6 +7,16 @@ tags: [denker-vita, wirtschaft, kapitalismus, technologie, europa, griechenland]
 
 # Yanis Varoufakis — DenkerVita
 
+![[assets/Yanis-Varoufakis-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Bold flat editorial Allegorie** — Eine riesige wolkenförmige digitale Burg schwebt über allem, Plattform-Fürsten senken Ketten hinab, um von kleinen leibeigenen Nutzern an leuchtenden Bildschirmen digitale Rente einzutreiben, eine zerbrochene Euro-Münze am Boden. Der grafische Stil trägt Varoufakis' These — der Technofeudalismus, in dem Cloud-Kapital die Märkte ablöst.
+
+*Prompt:* Bold flat editorial allegory, 1200x500 wide banner. A giant cloud-shaped digital castle floating above, platform-lords lowering chains to collect digital rent from small serf-like users tending glowing screens below, a cracked euro coin on the ground; technofeudalism and cloud capital replacing markets. Deep slate blue, gold, red, cream, strong graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 - **Beruf:** Ökonom, Autor, Politiker

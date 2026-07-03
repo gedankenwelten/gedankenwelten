@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, medien, deutschland, liberalismus, kulturkritik
 
 # Ulf Poschardt — DenkerVita
 
+![[assets/Ulf-Poschardt-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Sleek Bold Editorial** — Ein einzelner schnittiger Sportwagen rast über eine offene leere Straße auf einen hellen Horizont individueller Freiheit zu, dynamische Speed-Lines und ein kräftiger roter Pfeil der Selbstbestimmung. Der schnittige Stil trägt Poschardts Leitmotiv — libertärer Individualismus und der mündige, selbstverantwortliche Bürger.
+
+*Prompt:* Sleek bold editorial illustration, 1200x500 wide banner. A lone sleek sports car speeding along an open empty road toward a bright horizon of individual liberty, dynamic speed lines and a bold red arrow of self-determination, an open sky; libertarian individualism and the self-reliant citizen. Graphite black, bold red, warm horizon gold, cream, strong graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer ist Ulf Poschardt?
 > **Ulf Poschardt** (*1967, Nürnberg) — Journalist, Publizist, Herausgeber der *Welt* (seit 2025). Promovierte bei Friedrich Kittler über die Kulturgeschichte des DJ. Bekannt durch das polemische Buch *Schitbürgertum* (2024): Eine Abrechnung mit dem linksliberalen Milieu, das aus einstigen Freiheitsliebenden staatstreue Moralisten gemacht hat. Posschardts Denken speist sich aus Pop, Nietzsche und einem tiefen Misstrauen gegenüber kollektiver Bevormundung.
 

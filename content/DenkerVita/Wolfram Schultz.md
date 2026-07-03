@@ -7,6 +7,16 @@ tags: [denker-vita, neurowissenschaft, belohnungssystem, lernmechanismen]
 
 # Wolfram Schultz — DenkerVita
 
+![[assets/Wolfram-Schultz-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Klare Neurowissenschafts-Illustration** — Ein Bündel Dopamin-Neuronen feuert ein helles Signal in die Lücke zwischen erwarteter und tatsächlich erhaltener Belohnung, eine Lernkurve und kleine Pfeile des Vorhersagefehlers, leuchtende Synapsen. Der präzise Stil trägt Schultz' Entdeckung — den Reward Prediction Error.
+
+*Prompt:* Clean flat neuroscience illustration, 1200x500 wide banner. A cluster of dopamine neurons firing a bright signal at the gap between an expected reward and the received reward, a reward-learning curve and small arrows of prediction error, glowing synapses; the reward prediction error. Deep indigo, warm gold, teal, cream, crisp scientific shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Wolfram Schultz** (geb. 1949) ist ein deutsch-schweizerischer Neurowissenschaftler und Professor of Neuroscience an der University of Cambridge. Er gilt weltweit als einer der führenden Dopaminforscher und wurde insbesondere durch die Entdeckung des **Reward Prediction Error** (Belohnungsvorhersagefehler) berühmt — ein fundamentales Prinzip, wie das Gehirn Belohnungen verarbeitet und lernt.

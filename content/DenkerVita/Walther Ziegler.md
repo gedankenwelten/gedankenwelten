@@ -5,6 +5,18 @@ aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, didaktik, deutschland]
 ---
 
+# Walther Ziegler — DenkerVita
+
+![[assets/Walther-Ziegler-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Warme freundliche Flat-Illustration** — Eine große Ein-Stunden-Uhr im Zentrum, umringt von einfachen Icons der Ideen großer Denker, eine Dozenten-Tafel mit Alltagsbeispielen (Supermarktregal, Auto), ein Stapel kleiner Bücher. Der zugängliche Stil trägt Zieglers Reihe — „Große Denker in 60 Minuten", ohne zu trivialisieren.
+
+*Prompt:* Warm friendly flat illustration, 1200x500 wide banner. A large one-hour clock at the centre surrounded by simple icons of great philosophers' ideas made accessible, a lecturer's chalkboard with everyday examples like a supermarket shelf and a car, a stack of little books; the greatest thinkers in sixty minutes. Warm ochre, teal, coral, cream, approachable rounded shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

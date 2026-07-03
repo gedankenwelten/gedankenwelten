@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, zeit, deutschland]
 
 # Udo Marquardt — DenkerVita
 
+![[assets/Udo-Marquardt-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Warme Editorial-Illustration** — Ein Radiomikrofon, ein aufgeschlagenes Philosophiebuch und eine Akustikgitarre, verbunden durch fließende Wellen aus Gedanken und Musik, ein sanfter Lichtschein und ein kleines Kreuz. Der warme Stil trägt Marquardts Rolle als Vermittlungsdenker — Philosophie zwischen Gedanke, Musik und Glaube.
+
+*Prompt:* Warm flat editorial illustration, 1200x500 wide banner. A radio microphone, an open book of philosophy and an acoustic guitar joined by flowing waves of thought and music, a gentle beam of church light and a small cross; philosophy made accessible, bridging thought, music and faith. Warm ochre, teal, deep red, cream, friendly rounded shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 **Udo Marquardt** (geb. 1950er Jahre) — Philosoph, Autor und Musiker aus Unkel an der Unteren Mittelrhein in Nordrhein-Westfalen. Kein klassischer Universitätsphilosoph, sondern **Vermittlungsdenker**: Radioessayist, ehemaliger ARD Hörfunk-Redakteur, Blogger, Gitarrist und Sänger in einer Rockband. Praktizierender Katholik. Lebt mit seiner Frau Sabine Marquardt-Spitzlei, mit der er den Philosophie-Theologie-Blog **theophil.online** betreibt. Seit kurzem im Ruhestand.

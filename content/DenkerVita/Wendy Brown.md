@@ -7,6 +7,16 @@ tags: [denker-vita, demokratie, kapitalismus, neoliberalismus, usa, philosophie,
 
 # Wendy Brown — DenkerVita
 
+![[assets/Wendy-Brown-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Düstere flache Allegorie** — Klassische Demokratie-Säulen und ein Wahl-Tempel zerbröckeln zu Schutt aus Dollarzeichen und Börsentickern, winzige Bürgerfiguren geduckt unter riesigen Marktschatten, ein „homo economicus"-Preisschild an allem. Der stark grafische Stil trägt Browns These — die Aushöhlung der Demokratie in den Ruinen des Neoliberalismus.
+
+*Prompt:* Somber flat editorial allegory, 1200x500 wide banner. Classical democratic columns and a ballot temple crumbling into rubble of dollar signs and market tickers, tiny citizen figures dwarfed beneath giant market-force shadows, a homo-economicus price tag on everything; democracy undone in the ruins of neoliberalism. Ash grey, deep red, cold gold, cream, stark graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Wendy L. Brown** (* 28. November 1955 in Kalifornien) ist eine der einflussreichsten zeitgenössischen politischen Theoretiker*innen und Kritiker*innen des Neoliberalismus. Sie war langjährige Professorin an der UC Berkeley und lehrt heute an der Princeton University (Institute for Advanced Study). Ihr Werk zeichnet sich durch scharfsinnige Analysen aus, wie Marktlogik nicht nur die Wirtschaft, sondern alle Lebensbereiche — Bildung, Recht, Staat, Subjektivität — durchdringt und dabei die Grundlagen der Demokratie untergräbt.
 
