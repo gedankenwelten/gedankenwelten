@@ -13,6 +13,18 @@ tags:
 
 # Gert Scobel — DenkerVita
 
+![[assets/gert-scobel-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Caspar David Friedrich (romantisches Ölgemälde)
+
+**Warum:** Friedrichs Wanderer über dem Nebelmeer — aber sitzend, in Meditation. Scobel steht nicht erobernd über der Welt, er sitzt seit 40 Jahren und schaut: der kritische Vermittler zwischen Wissenschaft und Kontemplation, klein vor dem, was sich nicht messen lässt.
+
+**Prompt:** Romantic oil painting in the style of Caspar David Friedrich: a lone seated figure seen from behind in quiet meditation posture on a rocky outcrop, gazing into a vast sea of morning fog with soft golden light breaking through, muted blue-grey and warm amber palette, sublime contemplative atmosphere, fine painterly detail, the small human figure dwarfed by luminous open space, no text, horizontal composition
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
@@ -84,3 +96,4 @@ Politisch ist er schwer einzuordnen — er macht keine parteipolitischen Aussage
 ## Gedankenwelten-Notes
 
 - [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein]]
+- [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]

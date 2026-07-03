@@ -214,6 +214,10 @@ Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004, auf die Scobel e
 
 Der Realfall zu Scobels Warnung. Scobel beschreibt theoretisch, wie Autoritätsgläubigkeit, Gehorsam und das Versprechen spiritueller Transformation Missbrauch ermöglichen; Shi Heng Yi hat genau diese Struktur im eigenen Tempel erlebt — sein früherer Abt nutzte „Gehorsam, Hierarchie, Loyalität, Geheimhaltung" als Werkzeuge. Was bei Scobel Risikohinweis ist, ist hier gerichtsnotorische Realität.
 
+### → [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
+
+Dieselbe Stimme, die Kehrseite: Die Zwecklosigkeits-Folge feiert das „reine Bewusstsein ohne Besitzer“ beim Aufwachen als das zu Kultivierende — diese Note zeigt, was passiert, wenn die Ich-Auflösung unvorbereitet kommt. Erlösung und Gefahr desselben Zustands.
+
 ---
 
 ## Weiterdenken

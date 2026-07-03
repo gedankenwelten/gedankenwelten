@@ -225,6 +225,10 @@ Rosas Mediopassiv (*„es hat mich berührt"*) und Zimpels Bild-Denken beschreib
 
 Yorans „Befassungsbedürfnis“ digitaler Geräte („das frittiert unsere Aufmerksamkeit“) ist die Produktseite von Rosas Beschleunigungs- und Verfügbarkeitsdiagnose — im Vortrag selbst von einer Zuhörerin mit Rosas Unverfügbarkeit verknüpft.
 
+### → [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
+
+Hampes *Apparatus* (bei Scobel) ist die bewusstseinsphilosophische Fassung der Verfügbarmachung: Das Zweckdenken spannt alles in Mittel und Zwecke ein — und tötet, was lebendig macht. Rosas Resonanz und Scobels zweckloses Dasein des Vogels benennen dasselbe Unherstellbare.
+
 ---
 ## Weiterdenken
 

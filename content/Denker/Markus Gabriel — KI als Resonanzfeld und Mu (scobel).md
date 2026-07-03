@@ -244,6 +244,10 @@ Chalmers' Frage, ob ein KI-System wie Samantha wirklich bewusst sein kann, ist d
 
 Mu als wechselseitige Abhängigkeit ist die Mahāyāna-Entsprechung zu Anattā: Beide lösen das feste Subjekt auf. Gabriel überträgt diese Logik auf KI — KI existiert nicht im Gerät, sondern im Beziehungsraum. Das ist Anattā-Denken auf technologischer Ebene: kein festes Subjekt, sondern ein Prozessphänomen.
 
+### → [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
+
+Derselbe scobel-Kosmos, dieselbe Denkbewegung: Gabriels *Mu* ent-fragt die falsch gestellte Frage — Scobels Wittgenstein-Schluss („wer keinen Zweck außer dem Leben mehr braucht“) löst die Wozu-Frage nicht, sondern lässt sie fallen.
+
 ---
 
 ## Weiterdenken

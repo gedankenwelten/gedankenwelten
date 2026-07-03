@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Gert Scobel — Die gefährlichste Frage unseres Lebens
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Die gefährlichste Frage unseres Lebens – scobel](https://www.youtube.com/watch?v=3VeX_ITvn1I) (3sat/scobel, 02.07.2026) |
+| **Notiz** | [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]] |
+| **DenkerVita** | [[DenkerVita/Gert Scobel]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Scobel_Gefaehrlichste_Frage_Transkript.txt` |
+| **Bücher / Essays** | Metzinger: *Der Elefant und die Blinden* (2023) · Hampe: *Wozu? Eine Philosophie der Zwecklosigkeit* (2024) · [Matsumoto: The Great Unburdening](https://www.living-dharma.com/p/the-great-unburdening-beyond-utility) |
+
 ## Gekaperte Zeichen (Panorama)
 
 | | |
