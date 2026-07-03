@@ -70,6 +70,16 @@ Die Gedankenwelten (luc)
 
 > → *1 weitere in* [[Denker]]
 
+### Panorama
+
+> **03.07.** — [[Panorama/Gekaperte Zeichen|Panorama — Gekaperte Zeichen]]
+>
+> Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
+
+> **23.06.** — [[Panorama/NoAfD|NoAfD]]
+
+> **23.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
+
 ### Gedanken
 
 > **02.07.** — [[Gedanken/Das unsichtbare Netzwerk — Ubuntu|Das unsichtbare Netzwerk — Ubuntu]]
@@ -125,16 +135,6 @@ Die Gedankenwelten (luc)
 > **23.06.** — [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
 >
 > Wenn die Maschine alles weiß, was den Menschen dann ausmacht — und warum ein zweifach durchgefallener Student die wichtigste Antwort gibt.
-
-### Panorama
-
-> **23.06.** — [[Panorama/NoAfD|NoAfD]]
-
-> **23.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
-
-> **01.06.** — [[Panorama/Energie|Energie]]
->
-> Zwischen Kostenwahrheit und Lobbypolitik: Atomkraft-Comeback, SMR-Hype und KI-Strombedarf — eine Debatte, in der selten ehrlich gerechnet wird.
 
 ### Kultur
 

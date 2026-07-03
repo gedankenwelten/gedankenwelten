@@ -104,3 +104,6 @@ Die elastische Brandmauer beschreibt den Ausweg aus der Ideologisierungsfalle: n
 ### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
 
 Die religionspolitische Anwendung der Ideologisierungsfalle: Soroush zeigt, dass Häresie erst entsteht, wo eine Deutung sich mit Macht verheiratet und alle anderen zu Abweichlern erklärt — und Hecks Doppel-Ambivalenz (weder das Heilige noch das Säkulare ist per se Befreiung) ist die Absage an genau die polare Dominanz, die diese Note als Extremisierungsmotor beschreibt.
+
+### → [[Panorama/Gekaperte Zeichen|Panorama — Gekaperte Zeichen]]
+Die Empörungsmaschine als Komplize der Kaperung: Das OK-Zeichen wurde 2017 erst dadurch zum Hasssymbol, dass die Öffentlichkeit die erfundene Behauptung seiner Vergiftung durch ihre Reaktion beglaubigte — die Ideologisierungsfalle, angewandt auf Zeichen.

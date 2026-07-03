@@ -15,6 +15,8 @@ Panoramas sind thematische Synthese-Seiten in den Gedankenwelten. Sie bündeln m
 
 Manuell — nie automatisch. Ein Panorama wird angelegt, wenn mindestens drei Notes dasselbe Thema aus verschiedenen Winkeln beleuchten und eine Synthese mehr Erkenntnis liefert als die Summe der Einzelnotes.
 
+Seit Juli 2026 gibt es einen zweiten Weg: Panorama verhält sich zu den Gedanken wie Zeitgeist zu den Denkern — der Blick über *viele Fälle* statt ein einzelner Gedanke in der Tiefe. Ein Panorama kann darum auch aus eigener Recherche und Gespräch entstehen (viele Fälle aus der Welt, nebeneinander gehängt), nicht nur aus bestehenden Notes. Die Autoren-Stimme (Autoren-Tag) trägt es in beiden Fällen.
+
 ## Struktur
 
 Jedes Panorama folgt diesem Aufbau:
@@ -30,6 +32,7 @@ Jedes Panorama folgt diesem Aufbau:
 
 | Thema | Datei | Notes |
 |---|---|---|
+| Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |
 | Kaufkraft | [[Kaufkraft]] | 9 |
 | Rente | [[Rente]] | 8 |
 | Energie | [[Energie]] | 15 |
