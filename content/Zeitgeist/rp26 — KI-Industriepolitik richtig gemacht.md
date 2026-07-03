@@ -201,6 +201,10 @@ Der Doktorand im Q&A — Verfechter sozialer Marktwirtschaft und Wettbewerb — 
 
 ## Verbindungen
 
+### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+
+Die Ingenieursperspektive zur hier geforderten Industriepolitik: Europas Rechenpower „steht rum“, es fehlen Wille, Geld und Daten — Bauckhages Verticals-Strategie (kleine Modelle, nicht-öffentliche Industriedaten) ist der konkrete Hebel, den die politische Debatte oft nur abstrakt fordert.
+
 ### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
 
 Konés „nützlichste, nicht mächtigste KI" ist praktisch Jungs AI Directionism; sein institutioneller Optimismus (Smart Africa) trifft auf Kaltheuners Skepsis, ob Souveränitätsrhetorik ohne Marktumbau trägt.

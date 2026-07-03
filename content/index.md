@@ -22,6 +22,24 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+>
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
+
+> **03.07.** — [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens|Gert Scobel — Die gefährlichste Frage unseres Lebens]]
+>
+> Wozu? Die Frage, die alles in Mittel und Zwecke verwandelt — und der Moment des Aufwachens, in dem noch niemand zu Hause ist, der sie stellen könnte.
+
+> **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
+>
+> Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
+
+> **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
+>
+> Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
+
 ### Zeitgeist
 
 > **03.07.** — [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
@@ -69,20 +87,6 @@ Die Gedankenwelten (luc)
 > Wir sind nicht kaputt, wir sind fehl am Platz — der Primatologe und der Historiker über das Jäger-und-Sammler-Erbe in uns und die 5000 Jahre, die alles verschoben haben.
 
 > → *1 weitere in* [[Denker]]
-
-### Geistesblitz
-
-> **03.07.** — [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens|Gert Scobel — Die gefährlichste Frage unseres Lebens]]
->
-> Wozu? Die Frage, die alles in Mittel und Zwecke verwandelt — und der Moment des Aufwachens, in dem noch niemand zu Hause ist, der sie stellen könnte.
-
-> **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
->
-> Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
-
-> **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
->
-> Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
 
 ### Panorama
 

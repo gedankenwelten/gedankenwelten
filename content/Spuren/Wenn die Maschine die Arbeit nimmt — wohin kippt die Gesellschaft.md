@@ -113,6 +113,10 @@ Diese Spur erwartet keinen einzelnen Befund, der sie entscheidet, sondern das **
 
 ## Verbindungen
 
+### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+
+Frischer, datierter Brennstoff für die Spur: die seit zehn Jahren eintreffende Verdopplungsprognose, die METR-Kurve autonomer Maschinenarbeit und die Extrapolation „10 Jahre Arbeit auf einen Prompt um 2030“ — von einem der nüchternsten deutschen KI-Wissenschaftler, ausdrücklich ohne Hype.
+
 ### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
 Nutzt die Rück-Einstellungswelle dieser Spur (Ford, Klarna) als empirischen Anker: Die Arbeit wechselt die Gattung — vom Produzieren zum Urteilen. Die Gefahr ist nicht Arbeitslosigkeit, sondern Urteilslosigkeit.
 

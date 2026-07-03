@@ -195,6 +195,10 @@ Dieses Modell existiert in der Diskussion — das EU-Projekt „Gaia-X" war ein 
 
 ## Verbindungen
 
+### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+
+Das technische Fundament unter der Souveränitätsdebatte: Bauckhage begründet mit dem 24-Watt-Gehirn gegen das 10-Megawatt-Rechenzentrum und der hybriden KI der Verticals, warum Europas realistischer Weg das kleine Spezialmodell ist — und teilt fast wörtlich die Sorge, dass Betriebswissen in US- und China-Datenbanken abfließt.
+
 ### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
 
 Die Süd-Perspektive zur selben Umkehrung: Souveränität als Gestaltungsmacht statt Abschottung. Konés 80-%-Importquote Afrikas und die europäische US-Abhängigkeit sind „zwei Seiten desselben strukturellen Problems".
