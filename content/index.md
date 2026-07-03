@@ -70,6 +70,20 @@ Die Gedankenwelten (luc)
 
 > → *1 weitere in* [[Denker]]
 
+### Geistesblitz
+
+> **03.07.** — [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens|Gert Scobel — Die gefährlichste Frage unseres Lebens]]
+>
+> Wozu? Die Frage, die alles in Mittel und Zwecke verwandelt — und der Moment des Aufwachens, in dem noch niemand zu Hause ist, der sie stellen könnte.
+
+> **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
+>
+> Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
+
+> **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
+>
+> Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
+
 ### Panorama
 
 > **03.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
@@ -127,20 +141,6 @@ Die Gedankenwelten (luc)
 > **28.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >
 > Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
-
-### Geistesblitz
-
-> **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
->
-> Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
-
-> **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
->
-> Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
-
-> **23.06.** — [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
->
-> Wenn die Maschine alles weiß, was den Menschen dann ausmacht — und warum ein zweifach durchgefallener Student die wichtigste Antwort gibt.
 
 ### Kultur
 

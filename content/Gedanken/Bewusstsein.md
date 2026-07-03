@@ -157,3 +157,7 @@ Ein starkes Argument sagt: Nein — prinzipiell nicht.
 - [[Hans-Peter Dürr — Die neue Physik]] — Quantenphysik trifft Bewusstseinsphilosophie
 - [[Platon — Das Höhlengleichnis]] — Erscheinung vs. Wirklichkeit — die älteste Bewusstseinsfrage
 - [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein]] — Neurowissenschaftliche Evidenz für fluideres Selbst, willkürlich dämpfbaren Parietallappen, nicht-duales Gewahrsein; Predictive Processing erklärt veränderte Schmerzverarbeitung
+
+### → [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
+
+Scobel bringt mit Metzinger das „reine Bewusstsein“ beim morgendlichen Aufwachen als Alltagsbeleg: Wachheit ohne Besitzer, bevor das Ich hochfährt — die erlebbare Miniatur dessen, was diese Note zwischen den Lagern der Bewusstseinsphilosophie verortet.

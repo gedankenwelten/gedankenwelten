@@ -141,3 +141,7 @@ Das fünfte Achtsamkeitstraining — achtsames Konsumieren (*mindful consumption
 - [[Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen]] — Van Wagensveld überträgt TNHs Interbeing-Prinzip in die Beziehungspraxis: Wer nicht bei sich ist, kann nicht wirklich beim anderen sein — das ist Thays "deep looking into ill-being" auf der Ebene alltäglicher Fürsorge
 - [[Walther Ziegler — Konfuzius in 60 Minuten]] — Konfuzius und Buddha als Achsenzeit-Zeitgenossen: Beide lehren Mitgefühl und Selbstkultivierung (Ren/Karuna). Konfuzius' Weg führt in die Gesellschaft, Buddhas in die innere Befreiung — ergänzende, nicht widersprüchliche Wege
 - [[Walther Ziegler — Buddha in 60 Minuten]] — Zieglers akademische Darstellung der Vier Edlen Wahrheiten als Kontrapunkt zu Thays kontemplativem Zugang: Beide arbeiten mit dem Pali-Kanon, aber Ziegler ordnet historisch-philosophisch ein, während Thay in die Praxis des Interbeing transformiert
+
+### → [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
+
+Matsumotos „inneres Mönchtum“ (bei Scobel) ist engagierter Buddhismus in Alltagsform: in der Welt, aber nicht von der Welt — die Rolle tragen wie ein Schauspieler. Dieselbe Absage an die Weltflucht, die Thich Nhat Hanhs ganzes Werk trägt.

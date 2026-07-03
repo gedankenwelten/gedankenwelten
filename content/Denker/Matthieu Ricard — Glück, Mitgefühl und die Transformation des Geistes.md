@@ -483,6 +483,10 @@ Wir haben beachtliche Fortschritte bei den Menschenrechten erzielt. Das menschli
 
 Gleichmut als Politik: Was Ricard als inneren Transformationsweg beschreibt, führen zwei Hinterbliebene im schärfsten Konflikt als geübte Praxis vor — Upekkhā, aus der Meditation in den Bewegungsaufbau übersetzt.
 
+### → [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
+
+Produktive Reibung: Ricard kultiviert Meditation als trainierbare Fähigkeit zum Glück — genau die Zweck-Einspannung, die Scobels Apparatus-Kritik verdächtigt (die Flucht aus der Falle als Teil der Falle). Die Grenze zwischen Übung und Selbstoptimierung verläuft zwischen diesen beiden Notes.
+
 ---
 
 ## Weiterdenken

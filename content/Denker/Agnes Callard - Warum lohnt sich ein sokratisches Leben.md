@@ -195,6 +195,10 @@ Zwei Denkerinnen, die das Leben als Praxis statt als Programm fassen: Callards g
 
 Hecks „Epistemologie der Freundschaft" (Erkenntnis entsteht in der Beziehung, nicht in der Definition) ist die politische Schwester des sokratischen Denkens zu zweit. Und Soroushs „Pflichten vor Rechten" spiegelt das James/Clifford-Paar: zwei Imperative, die einander als Korrektiv brauchen — Verantwortung und Recht statt Wahrheitsbesitz und Irrtumsvermeidung.
 
+### → [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
+
+Die Gegen-Frage: Callards Sokrates *sucht* die eine Frage, die das Leben prüft — Scobels Hampe/Wittgenstein *entlässt* uns aus der gefährlichsten aller Fragen, dem Wozu. Prüfen oder Loslassen: zwei Antworten darauf, was ein untersuchtes Leben heißt.
+
 ---
 
 ## Weiterdenken
