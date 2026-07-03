@@ -87,5 +87,8 @@ Heraklits Doppelnatur — *alles fließt* ist zugleich beunruhigend und befreien
 ### → [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Spur: Iran — hat der Krieg das Regime gestärkt?]]
 Das Prinzip auf die Geopolitik angewandt: Der Schlag, der das Regime brechen sollte, könnte es gefestigt haben — *rally around the flag*. Die Handlung trägt ihr Gegenteil in sich; was schwächen wollte, stärkt.
 
+### → [[Panorama/Gekaperte Zeichen|Panorama — Gekaperte Zeichen]]
+Das Prinzip in der Symbolgeschichte: Jede Vergiftung eines Zeichens trägt die Möglichkeit ihrer Umkehr in sich. Der Rosa Winkel wurde vom KZ-Stigma zum Banner der Schwulenbewegung, Pepe der Frosch in Hongkong vom Hasssymbol zum Freiheitszeichen — Kaperung ist ein Zustand, kein Todesurteil.
+
 ### → Bis es keine Anstrengung mehr braucht *(zurückgehalten, derzeit nicht öffentlich)*
 Das Prinzip persönlich erlebt: weder das Glück bleibt noch die Traurigkeit — jedes trägt seinen Umschlag schon in sich. Jedes Loch fühlte sich an wie das Ende der Welt, war aber nie das Ende. Yin und Yang nicht als Erkenntnis, sondern als die Beruhigung, die aus durchlebten Krisen erwächst.

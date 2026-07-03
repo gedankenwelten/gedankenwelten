@@ -175,6 +175,7 @@ Der Lehrling definiert durch Abgrenzung: noch kein Geselle, noch kein Meister. D
 - [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]] — Verb-Denken als Praxis hat denselben Charakter wie Gravitation: kein Programm, keine Fahne, aber Wirkung durch konsistentes Sein. Fragend statt behauptend — leise, aber kumulativ.
 - [[Gedanken/Der Leuchtturm — Warum Gedankenwelten existiert]] — Der Leuchtturm ist selbst ein Verb-Projekt: nicht „wir sind Aufklärer", sondern *wir klären auf* — immer noch, nicht fertig.
 - [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise]] — Der Fall in der Praxis: Flemig entlarvt Prechts Begriffsmacht („nichts zu holen"), kippt aber selbst in die Allzuständigkeit, die er kritisiert — die Haltung des Lernenden als Gegengift gegen beide.
+- [[Panorama/Gekaperte Zeichen|Panorama — Gekaperte Zeichen]] — Derselbe Vorgang eine Schicht tiefer: Begriffshoheit für Gesten und Symbole. Gegen die Umdeutung eines Zeichens hilft kein Gegenargument — man kann es nur weiter benutzen oder hergeben.
 
 ---
 
