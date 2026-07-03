@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*248 Notes — automatisch generiert · nach Thema sortiert*
+*249 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -121,6 +121,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei|Kurz & Görlitz — Palantir und die deutsche Polizei (re:publica 26)]]
 - [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende]]
 - [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]]
+- [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]] — Einer verlor die Eltern am 7. Oktober, der andere den Bruder in israelischer Haft — und beide sagen: Die Naiven seid ihr, die an den Krieg glauben. Frieden ist eine Handlung.
 - [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
 - [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] — Demokratie braucht Öffentlichkeit — doch die gehört inzwischen zwei Konzernen. Martin Andree über Machtverklumpung, erkaufte Rechtsprivilegien und Regulierung als Befreiung.
 - [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]] — Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.

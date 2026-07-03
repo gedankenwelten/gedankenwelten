@@ -157,6 +157,11 @@ Diese Note schließt ein Triptychon: Die [[Spuren/Israel-Gaza-Voelkerrecht-im-Sc
 - [Parents Circle Families Forum](https://www.theparentscircle.org/) — Forum verwaister israelischer und palästinensischer Familien, deren Co-Chair Abu Sarah war
 - Pádraig Ó Tuama — das „one life"-Gedicht · Samih al-Qasim — *Travel Tickets* (Schlussgedicht)
 
+*Verwandte Bühnen — dieselbe Bewegung, frühere Generation (Parents-Circle-Umfeld):*
+- [The Future Is Peace — LIVE from NYPL](https://www.youtube.com/watch?v=P0nMl1RBZnw) — das lange Bühnengespräch der beiden in der New York Public Library (64 min)
+- [From Rage to Reconciliation — Ford School of Public Policy](https://www.youtube.com/watch?v=T08TjdY7UX8) (2022, 56 min) — Stimmen des **Parents Circle–Families Forum**: israelische und palästinensische Hinterbliebene über Versöhnung als Voraussetzung des Friedens
+- [Lessons From Reconciliation Processes — Harvard Program on Negotiation](https://www.youtube.com/watch?v=xaE6tYXTYY0) (2020, 64 min) — **Robi Damelin** (Israelin, Sohn von einem Scharfschützen getötet) und **Bassam Aramin** (Palästinenser, Tochter von der Grenzpolizei erschossen; bekannt aus *Apeirogon*), mit Nordirland-Vermittler Gary Mason
+
 *Sherlock-Recherche (Faktencheck-Belege & Vertiefung):*
 - [Democracy Now! — „The Future Is Peace" (ausführliches Interview, April 2026)](https://www.democracynow.org/2026/4/15/the_future_is_peace)
 - [JTA — These Israeli-Palestinian 'brothers' are preaching peace. Can their message make a difference?](https://www.jta.org/2026/04/17/ideas/these-israeli-palestinian-brothers-are-preaching-peace-can-their-message-make-a-difference) — kritische Einordnung der Wirkung
