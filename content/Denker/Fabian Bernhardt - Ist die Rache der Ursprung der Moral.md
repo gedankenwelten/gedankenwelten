@@ -217,6 +217,10 @@ Hochschilds gestohlener Stolz ist Bernhardts thymotischer Affektherd im konkrete
 
 Redeckers Phantombesitz und Bernhardts Rache spiegeln sich: Beide deuten faschistoide Gewalt nicht als Affekt-Überschuss, sondern als Verteidigung eines verletzten Anspruchs auf Ordnung. Wo Bernhardt die enttäuschte Hoffnung auf gerechte Balance sieht, sieht Redecker den nie erfüllbaren Verfügungsanspruch, der „vorsorglich" zerstört.
 
+### → [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
+
+Der Praxis-Test der These: zwei Menschen an genau der Wunde, aus der Bernhardt die Rache (und mit ihr die Moral) entspringen sieht — und die ihr die Vergeltung dennoch verweigern. Gerechtigkeit ohne Rachebalance, als Wette mit vollem Einsatz.
+
 ---
 
 ## Weiterdenken

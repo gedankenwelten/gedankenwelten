@@ -32,6 +32,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
 
+> **03.07.** — [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
+>
+> Einer verlor die Eltern am 7. Oktober, der andere den Bruder in israelischer Haft — und beide sagen: Die Naiven seid ihr, die an den Krieg glauben. Frieden ist eine Handlung.
+
 > **03.07.** — [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]]
 >
 > Nur 7 % der globalen Materialströme kehren in den Kreislauf zurück. Nicole Bendsen will die Bewertungslogik der Wirtschaft drehen: Zirkularität nicht als Moral, sondern als Risikorechnung.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Verschwörungsmythos reist 150 Jahre — vom viktorianischen Roman über Himmlers Pseudoforschung bis in den TikTok-Feed, wo der Witz die Tarnung der Ideologie ist.
 
-> **01.07.** — [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
->
-> Digitale Souveränität ist nicht Abschottung, sondern das Recht, die Systeme mitzugestalten, die uns gestalten — und Afrika wartet nicht länger auf eine Einladung in die Zukunft.
-
-> → *4 weitere in* [[Zeitgeist]]
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Denker
 

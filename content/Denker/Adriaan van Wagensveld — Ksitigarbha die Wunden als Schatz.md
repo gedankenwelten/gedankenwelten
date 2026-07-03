@@ -200,3 +200,7 @@ Das ist eine freundliche Formulierung für etwas Ernstes: Vipassana als Reinigun
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Komplementärer Vortrag: Vipassana als Laienpraxis und engagierter Buddhismus im Alltag
 - [[David Chalmers — Das Hard Problem des Bewusstseins]] — Chalmers liefert die analytisch-philosophische Begründung für den Panpsychismus, den Adriaan als eines von drei Weltbildern pragmatisch diskutiert. Wo Adriaan sagt „Ich weiß es nicht", besteht Chalmers darauf, dass die ontologische Frage entscheidend ist.
 - [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Brählers CFT-Haltung entspricht dem Ksitigarbha-Archetypus: mitfühlend aus eigener Kenntnis des Leidens. Ihre Scham-Beschreibung (klebrig-schlüpfrig, unfassbar) benennt genau den Höllenzustand, aus dem Ksitigarbha den Weg herausweist.
+
+### → [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
+
+Die Wunde als Tor, nicht als Rachegrund: Was hier kontemplativ gelehrt wird, leben zwei Hinterbliebene im politischen Ernstfall — der teuerste Verlust wird zum Ausgangspunkt der Friedensarbeit.

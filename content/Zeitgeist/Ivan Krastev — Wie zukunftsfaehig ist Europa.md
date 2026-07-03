@@ -293,6 +293,10 @@ Krastevs Befund *Budgets führen keine Kriege, Menschen führen Kriege* ist der 
 
 Merkel verkörpert genau das multilaterale Europa, das Krastev unter dem Druck der post-1989-Rebellion sieht — ihr Modell ist es, das nun zum Gegner erklärt wird.
 
+### → [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
+
+Havels Satz gelebt: Hoffnung als Handlung ohne Erfolgsgarantie — hier von zwei Hinterbliebenen im Nahostkonflikt gegen die Evidenz der Gegenwart geübt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
