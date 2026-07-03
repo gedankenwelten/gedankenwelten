@@ -7,6 +7,16 @@ tags: [denker-vita, islam, religionsphilosophie, theologie, pluralismus, usa]
 
 # Paul Heck — DenkerVita
 
+![[assets/Paul-Heck-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Saul Steinberg** — Witz und Linie. Hecks ganze Biografie als ein einziger Federzug: Die Linie beginnt als Kathedrale (der Katholik), wird zur Brücke und endet als Moschee (der Islamwissenschaftler) — ohne je abzusetzen. Darunter die acht Teetassen des Damaskus-Gesprächs: Epistemologie der Freundschaft, gezeichnet statt erklärt.
+
+*Prompt (FLUX.2 Pro, fal.ai):* Ink line drawing in the style of Saul Steinberg, wide banner, warm cream paper, sparse watercolor accents. One single continuous playful thin ink line travels across the whole banner: on the left it forms a small Gothic cathedral with pointed arch and rose window, then without lifting flows rightward into a bridge of elegant loops, and on the right the same line curls into a small mosque with dome, crescent and pointed arches. Under the bridge two simple line figures sit on little chairs at a tiny round table in conversation, eight small teacups in a row between them, some tipped over. A few loose rubber-stamp style birds fly from one building to the other. Minimal color: pale terracotta wash on the cathedral, soft turquoise wash on the mosque, a touch of gold on the bridge. Vast empty paper space, dry wit, wobbly confident line, no realistic faces, no photorealism.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
