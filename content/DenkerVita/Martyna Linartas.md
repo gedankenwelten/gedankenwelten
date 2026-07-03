@@ -7,6 +7,16 @@ tags: [denker-vita, soziale-ungleichheit, wirtschaft, demokratie, deutschland]
 
 # Martyna Linartas — DenkerVita
 
+![[assets/Martyna-Linartas-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Frans Masereel (Holzschnitt)** — Eine steile, aufragende Stadt-Pyramide, in der wenige riesige Gestalten die Spitze krönen und eine riesige Menge winziger Figuren den Sockel füllt, ein sich weitender Riss in der Mitte, ein steigendes Balkendiagramm der Ungleichheit. Masereels sozialer Schwarz-Weiß-Schnitt trägt Linartas' Ungleichheitsforschung — sichtbar gemacht.
+
+*Prompt:* Frans Masereel woodcut style, stark black and white social narrative, 1200x500 wide banner. A steep towering pyramid of the city where a very few huge figures crown the top and a vast crowd of tiny figures crams the base, a widening gap crack down the middle, a rising bar-chart of inequality; wealth inequality made visible. Bold black and white cut lines, one red accent. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

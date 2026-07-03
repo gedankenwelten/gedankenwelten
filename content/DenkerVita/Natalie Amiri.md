@@ -7,6 +7,16 @@ tags: [denker-vita, iran, nahost, journalismus]
 
 # Natalie Amiri
 
+![[assets/Natalie-Amiri-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Persische Miniatur** — Feines Ornament und Blattgold: eine Gestalt an der Schwelle zwischen zwei Welten — auf der einen Seite ein persischer Kachelgarten mit Zypressen und einer Nachtigall, auf der anderen eine moderne graue europäische Stadt und ein Reporter-Notizbuch, eine Brücke dazwischen. Die Miniatur trägt Amiris „Zwischen den Welten" — Iran und Deutschland.
+
+*Prompt:* Persian miniature painting style, fine ornament and gold leaf, 1200x500 wide banner. A figure standing at the threshold between two worlds — an intricate Persian tiled garden with cypress trees and a nightingale on one side, a modern grey European cityscape and a reporter's notebook on the other, a bridge between them; between the worlds. Lapis blue, turquoise, gold, rose, flat decorative detail. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

@@ -7,6 +7,16 @@ tags: [denker-vita, militär, geopolitik, österreich]
 
 # Markus Reisner
 
+![[assets/Markus-Reisner-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Militärische Lagekarte (analytisch)** — Eine topografische Frontkarte mit Richtungspfeilen, Einheitsmarkierungen und gestrichelten Linien, kleine Drohnensilhouetten kreisen darüber, eine Lupe über einem Abschnitt — nüchterne strategische Analyse des Drohnenkriegs. Der Briefing-Stil trägt Reisners Rolle als Militäranalyst.
+
+*Prompt:* Modern military situation-map illustration, analytical briefing style, 1200x500 wide banner. A topographic front-line map with directional arrows, unit markers and dashed lines, small drone silhouettes circling above, a magnifier over a sector; sober strategic analysis of drone warfare. Olive, sand, steel grey, red and blue force arrows, clean cartographic linework. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

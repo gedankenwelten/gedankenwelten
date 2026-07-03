@@ -7,6 +7,16 @@ tags: [denker-vita, medien, demokratie, deutschland, zeitgeist]
 
 # Nadia Zaboura — DenkerVita
 
+![[assets/Nadia-Zaboura-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Editorial-Illustration** — Eine Medienwaage kippt falsch: ein kleiner solider Faktenstein bekommt dasselbe Gewicht wie ein riesiger aufgeblähter Extremismus-Ballon, ein Mikrofon und „both sides"-Pfeile, im Hintergrund ein Paar Spiegelneuronen-Hirne. Der klare Editorial-Stil trägt Zabouras Medienkritik — die falsche Balance, die neofaschistische Ideen begünstigt.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. A media balance scale tilted wrongly, giving a small solid brick of fact the same weight as a huge inflated extremist balloon, a broadcast microphone and 'both sides' arrows, a faint pair of mirror-neuron brains; false balance in the media. Steel grey, red, teal, cream, sharp vector shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 Nadia Zaboura (geb. 1979) ist eine deutsche Kommunikationswissenschaftlerin, Medienkritikerin und Autorin. Sie untersucht, wie „normale" Medien durch Mechanismen wie falsche Balance, falsche Äquivalenzen und doppelte Standards die Ausbreitung neofaschistischer Ideen begünstigen. Ihre Arbeiten verbinden neurowissenschaftliche Erkenntnisse (Spiegelneurone, Empathie) mit Medienkritik. Sie berät Ministerien, Medienunternehmen und Stiftungen strategisch und moderiert den preisgekrönten Podcast „quoted. der medienpodcast".

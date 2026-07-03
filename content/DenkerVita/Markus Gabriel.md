@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, ethik, neuer-realismus, deutschland]
 
 # Markus Gabriel — DenkerVita
 
+![[assets/Markus-Gabriel-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**M.C. Escher** — Endlos ineinander verschachtelte unmögliche Rahmen und Fenster, jedes mit seiner eigenen kleinen Welt, Treppen und Sinnfelder greifen ineinander — doch kein einziger äußerer Rahmen umschließt alle. Eschers schwindelnde Rekursion trägt Gabriels Neuen Realismus: unendlich viele Sinnfelder, aber *die* Welt gibt es nicht.
+
+*Prompt:* M.C. Escher style, impossible geometry, tessellation, black and white lithograph, 1200x500 wide banner. Endless nested impossible frames and windows each containing its own little world, staircases and fields of meaning interlocking, but no single outer frame enclosing them all; there are infinitely many fields of sense but no World. Precise crosshatched black and white, dizzying recursion. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

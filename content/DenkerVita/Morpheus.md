@@ -7,6 +7,16 @@ tags: [denker-vita, ki, technologie, bildung, deutschland]
 
 # Morpheus — DenkerVita
 
+![[assets/Morpheus-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Cyber-Illustration mit Matrix-Code-Regen** — Grüner Code-Regen verdichtet sich zu einem Schild aus europäischen Open-Source-Alternativ-Icons, der sich aus einem Cluster grauer US-Big-Tech-Logos löst, ein rot-blaues Pillen-Motiv, ein Doktorhut der freien Tech-Bildung. Der Matrix-Look (Morpheus!) trägt Mössners Thema — digitale Souveränität und Bildung.
+
+*Prompt:* Cyber digital illustration with Matrix-style green code rain, 1200x500 wide banner. A cascade of green code resolving into a shield of European open-source alternative icons breaking free from a cluster of grey US big-tech logos, a red pill and blue pill motif, a graduation cap of free tech education. Matrix green, black, one red accent, clean digital aesthetic. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Cedric Mössner** alias **Morpheus** (*Potsdam*) — Informatik-Educator, YouTuber (TheMorpheus407), Gründer von Bootstrap Academy (kostenlose Tech-Ausbildungsplattform) und European Alternatives (280+ geprüfte EU/Open-Source-Alternativen zu US-Diensten). Master in Computer Science, Schwerpunkte Machine Learning und IT-Sicherheit. Bekannt für empirische, datenbetriebene Analysen — nutzt selbst täglich chinesische KI-Modelle und führt systematische Bias-Tests durch (6.000+ API-Calls).
 

@@ -7,6 +7,16 @@ tags: [denker-vita, wirtschaft, soziale-ungleichheit, kapitalismus, deutschland,
 
 # Marlene Engelhorn — DenkerVita
 
+![[assets/Marlene-Engelhorn-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Keith Haring (Pop-Aktivismus)** — Eine überquellende Schatztruhe ergießt Gold in leuchtenden Strömen zu vielen freudigen, vielfältigen Händen und kleinen Gemeinschaftsbauten, ein Kreis von Figuren entscheidet gemeinsam — Reichtum, umverteilt durch einen Bürgerrat. Harings energiegeladene Figuren tragen Engelhorns „Tax Me Now" und ihre Erbschafts-Umverteilung.
+
+*Prompt:* Keith Haring pop-activist style, bold outlines and energetic dancing figures, 1200x500 wide banner. An overflowing treasure chest of gold pouring in bright streams toward many joyful diverse outstretched hands and small community buildings, a circle of figures deciding together; wealth redistributed by a citizens council. Bright red, yellow, blue, black bold lines, radiant energy. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Marlene Engelhorn** (*1992, Wien) — österreichisch-deutsche BASF-Erbin (Urenkelin Friedrich Engelhorns), die 2024 insgesamt 25 Millionen Euro ihres Erbes per Bürgerrat an 77 Organisationen verteilte. Gründete 2021 die Initiative «Tax Me Now» für höhere Erbschafts- und Vermögenssteuern.
 

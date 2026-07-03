@@ -7,6 +7,16 @@ tags: [denker-vita, demokratie, autoritarismus, kapitalismus, soziale-ungleichhe
 
 # Oliver Nachtwey — DenkerVita
 
+![[assets/Oliver-Nachtwey-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Editorial-Illustration** — Eine lange Rolltreppe, die kaputt ist und abwärts läuft, kleine Figuren rutschen hinunter, während oben ein „Aufstiegs"-Versprechen flackert, in der Mitte eine gebrochene Stufe. Der klare grafische Stil trägt Nachtweys Kernbegriff — die Abstiegsgesellschaft, die soziale Rolltreppe, die rückwärts läuft.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. A long escalator that is broken and running downward, small figures sliding down it while a bright 'up' promise sign flickers at the top, a cracked step in the middle; the society of downward mobility. Muted grey-blue, brick red, ochre, cream, strong graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist Oliver Nachtwey?

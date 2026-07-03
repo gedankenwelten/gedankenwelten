@@ -7,6 +7,16 @@ tags: [denker-vita, satire, eu, geopolitik]
 
 # Martin Sonneborn
 
+![[assets/Martin-Sonneborn-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Honoré Daumier (satirische Lithografie)** — Eine absurde Parlamentskammer: ein grinsender Narr mit Schellenkappe steht am Rednerpult, umringt von einem Kranz europäischer Sterne, pompös-leere Sitze, eine umgekippte Wahlurne — politische Satire als Farce. Daumiers karikaturaler Strich trägt Sonneborns Die PARTEI und den Blick aus dem EU-Parlament.
+
+*Prompt:* Honore Daumier satirical lithograph style, caricatural crayon line, 1200x500 wide banner. An absurd parliamentary chamber where a grinning jester in cap-and-bells stands at a podium ringed by a circle of European stars, pompous empty seats and a tipped-over ballot box; political satire as farce. Sepia and grey lithograph tones, one ironic gold accent, expressive caricature. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

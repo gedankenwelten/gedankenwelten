@@ -7,6 +7,16 @@ tags: [denker-vita, medien, desinformation, deutschland, medienkritik]
 
 # Mats Schoenauer — DenkerVita
 
+![[assets/Mats-Schoenauer-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Boulevard-Cut-up-Collage** — Ein glänzender Klickköder-„Topf voll Gold" als Köder am Haken, umgeben von zerrissenen schreienden Boulevard-Schlagzeilen und Empörungs-Emojis, die eine Lupe als leer und hohl entlarvt — Medienkritik und Faktencheck. Der Zeitungsschnipsel-Stil trägt Schönauers Kanal *Topfvollgold*.
+
+*Prompt:* Tabloid cut-up collage style, sensational newsprint fragments, 1200x500 wide banner. A shiny clickbait pot of gold used as bait on a hook, surrounded by torn screaming tabloid headlines and outrage emojis that a magnifying glass reveals to be empty and hollow; media criticism and fact-checking. Garish yellow, red, newsprint grey, black, ripped-paper edges. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Mats Schoenauer** (*1989) — Journalist, YouTuber und Buchautor aus Deutschland. Betreibt den YouTube-Kanal **Topfvollgold** (Medienanalyse, Faktencheck, Medienkritik). Co-Autor des Buches *Ohne Rücksicht auf Verluste* (2021). Chefredakteur des BILDblogs (2013–2016), jetzt freier Journalist und Medienkritiker.
 
