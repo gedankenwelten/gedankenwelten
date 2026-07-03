@@ -113,6 +113,9 @@ Diese Spur erwartet keinen einzelnen Befund, der sie entscheidet, sondern das **
 
 ## Verbindungen
 
+### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
+Nutzt die Rück-Einstellungswelle dieser Spur (Ford, Klarna) als empirischen Anker: Die Arbeit wechselt die Gattung — vom Produzieren zum Urteilen. Die Gefahr ist nicht Arbeitslosigkeit, sondern Urteilslosigkeit.
+
 ### → [[Die geteilte Fuelle — eine Utopie der Maschinen-Aera]] · → [[Die goldenen Tuerme — eine Dystopie der Maschinen-Aera]]
 Die zwei Pole, zwischen denen das Seil gespannt ist. Diese Spur „beobachtet", was passiert; die beiden Gedanken-Notes „entwerfen", was sein könnte — Spur = Tauziehen, Gedanke = Vision.
 

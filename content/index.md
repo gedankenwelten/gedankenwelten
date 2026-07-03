@@ -72,7 +72,7 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
-> **03.07.** — [[Panorama/Gekaperte Zeichen|Panorama — Gekaperte Zeichen]]
+> **03.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
 >
 > Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
 
@@ -81,6 +81,14 @@ Die Gedankenwelten (luc)
 > **23.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
 
 ### Gedanken
+
+> **03.07.** — [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
+>
+> Keine Machtergreifung, nur Milliarden kleiner Abgaben: Wie Verantwortung entsorgt wird, Macht herrenlos wird — und warum das Urteil das Einzige ist, was man nie delegieren darf.
+
+> **03.07.** — [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
+>
+> Ein Gedankenspiel über bewusstes Vertrauen: Das Geben wirkt im Gebenden, das vermeintliche Opfer löst sich auf — aus der Machtlosigkeit wird ein mögliches Fundament.
 
 > **02.07.** — [[Gedanken/Das unsichtbare Netzwerk — Ubuntu|Das unsichtbare Netzwerk — Ubuntu]]
 >
@@ -94,9 +102,7 @@ Die Gedankenwelten (luc)
 >
 > Wenn die Maschine den Menschen als Arbeitskraft entbehrlich macht, droht nicht Befreiung, sondern etwas Älteres: Macht ohne Gegenseitigkeit, Herrschaft ohne Gesicht.
 
-> **29.06.** — [[Gedanken/Die geteilte Fuelle — eine Utopie der Maschinen-Aera|Die geteilte Fülle — eine Utopie der Maschinen-Ära]]
->
-> Wenn Maschinen die Arbeit nehmen, könnte zum ersten Mal genug für alle da sein — die Frage ist nicht, ob wir es schaffen, sondern ob wir es teilen.
+> → *1 weitere in* [[Gedanken]]
 
 ### GoodNews
 

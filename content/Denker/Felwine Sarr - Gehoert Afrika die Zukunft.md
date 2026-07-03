@@ -172,6 +172,10 @@ Das letzte Konzept des Gesprächs schließt den Kreis zur Ökonomiekritik: [▶ 
 
 ## Verbindungen
 
+### → [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
+
+Sarrs Ökonomie der Beziehung als Vertrauensvorschuss im Großformat: Die Muriden-Bruderschaft wirtschaftet ohne Anwälte — eine ganze Ökonomie auf geschenktem Vertrauen, Ubuntu statt Vertragswerk. Was die Gedanken-Note im kleinen Radius beschreibt, entwirft Afrotopia als Gesellschaftsform.
+
 ### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
 
 Das Schwestergespräch derselben Sendereihe — und der produktive Dissens: Sarr entwirft die Utopie (*Afrotopia*), Dangarembga antwortet „Ich glaube nicht an Utopien" und setzt eine Praxis-Ethik des Wohlseins dagegen. Beide landen beim selben Begriff — Wohlsein statt BIP —, aber er von der Vision her, sie von der täglichen Übung.

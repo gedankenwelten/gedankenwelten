@@ -435,6 +435,9 @@ Hannah Arendts *Banalität des Bösen* gilt hier in einem erweiterten Sinne: Man
 
 ## Verbindungen
 
+### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
+Denkt die Entpersonalisierung zu Ende, die diese Note beginnt: Wenn auch die Mächtigen Gefangene sind und zusätzlich ihr Urteil an Prozesse auslagern, bleibt oben niemand mehr — Herrschaft ohne Herrn statt Mastermind.
+
 ### → [[Die goldenen Tuerme — eine Dystopie der Maschinen-Aera]] · [[Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft]]
 Die Dystopie der Maschinen-Ära führt dieses Paradox weiter — die Mächtigen als Gefangene ihrer selbstgebauten Türme; die Spur verfolgt, ob die Wirklichkeit tatsächlich dorthin kippt.
 

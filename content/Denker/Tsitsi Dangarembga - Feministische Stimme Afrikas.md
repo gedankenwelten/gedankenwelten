@@ -234,6 +234,10 @@ Die Globalisierung, die als Kolonialismus begann, ist für sie kein rückabzuwic
 
 ## Verbindungen
 
+### → [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
+
+Dangarembgas Praxis-Ethik als Härtetest des Vertrauensvorschusses: Wo Armut als Waffe hergestellt wurde und die Wunden bis in die Köpfe reichen, ist Vertrauen schwer zu halten — und gerade dort beharrt sie auf der täglichen Übung, Wohlsein im Nächstliegenden herzustellen. Dasselbe Bild, aus härtestem Boden gelebt.
+
 ### → [[Das unsichtbare Netzwerk — Die Macht in Dir]]
 
 Die engste Verwandtschaft im ganzen Vault — zwei Texte, die unabhängig voneinander zur selben Lösung kommen. Die Gedanken-Note: Wirkung entsteht im unsichtbaren Netzwerk der alltäglichen Begegnungen, Gravitation statt Revolution. Dangarembga: kein Utopie-Entwurf, sondern hinschauen, ob im Nächstliegenden Wohlsein herrscht — und Ubuntu als Institution, in der Einzelner und Gesellschaft füreinander haften. Die Politik setzt den Rahmen; wie wir ihn bewohnen, liegt in unserer Hand. Sie sagt es aus der Erfahrung einer Frau, die für ein Plakat verhaftet wurde — der stärkste denkbare Beleg, dass diese Haltung keine Passivität ist.
