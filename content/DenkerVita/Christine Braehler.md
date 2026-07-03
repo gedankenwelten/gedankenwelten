@@ -8,6 +8,16 @@ description: Psychotherapeutin und internationale Vorreiterin des Selbstmitgefü
 
 # Christine Brähler — DenkerVita
 
+![[assets/Christine-Braehler-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Mary Cassatt** — Weicher impressionistischer Pastell, zärtliche Intimität: eine Gestalt hält und tröstet ein kleines inneres Kind an ihrer Brust, warmes häusliches Licht, ein Spiegel, der die Umarmung sanft zurückwirft — sich selbst mit Güte halten. Cassatts liebevolle Nähe trägt Brählers Selbstmitgefühl und Bindungsdenken.
+
+*Prompt:* Mary Cassatt style, soft Impressionist pastel, tender intimacy, 1200x500 wide banner. A gentle figure cradling and comforting a small inner-child figure against its chest, warm domestic light, a mirror softly reflecting the embrace; holding oneself with kindness. Warm rose, cream, soft blue, feathery pastel strokes, loving. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Dr. Christine Brähler** (DClinPsy, PhD) ist eine klinische Psychologin und Psychotherapeutin mit über 20 Jahren Berufserfahrung. Sie praktiziert in einer privaten Praxis in München und ist Gastforscherin am *Institute of Health and Wellbeing* der Universität Glasgow.

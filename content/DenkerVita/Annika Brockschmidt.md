@@ -7,6 +7,16 @@ tags: [denker-vita, usa, rechtsextremismus, religion, journalismus, deutschland]
 
 # Annika Brockschmidt — DenkerVita
 
+![[assets/Annika-Brockschmidt-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Rockwell Kent (dramatischer Schwarz-Weiß-Holzschnitt)** — Ein Kreuz, verschmolzen mit einer wehenden US-Flagge auf einem Hügel, in den Wolken halb verborgene Codes und Dog-Whistle-Zeichen, darunter eine schattenhafte, gesichtslose Menge. Kents harter amerikanischer Kontrast trägt Brockschmidts Thema — die religiöse Rechte und die Kaperung der Symbole.
+
+*Prompt:* Rockwell Kent style, dramatic stark black and white illustration, heavy contrast, 1200x500 wide banner. A brooding American gothic scene: a cross fused with a waving flag on a hill, hidden coded symbols and dog-whistle glyphs half concealed in dark clouds, a small crowd below in shadow. Stark black, bone white, one blood-red accent, monumental woodcut drama. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

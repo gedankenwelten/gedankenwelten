@@ -6,6 +6,16 @@ tags: [denker-vita, soziologie, usa, psychologie, politik, populismus]
 
 # Arlie Russell Hochschild — DenkerVita
 
+![[assets/Arlie-Russell-Hochschild-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Thomas Hart Benton (American Regionalism)** — Eine lange Reihe arbeitender Menschen wartet auf einer geschwungenen Straße zur leuchtenden Stadt auf dem Hügel, während vorne einige sich vordrängen; im Hintergrund Louisiana-Bayou und Ölförderpumpen. Bentons wogende Muralform trägt Hochschilds „deep story" — das Gefühl derer, die in der Schlange stehen und sich überholt fühlen.
+
+*Prompt:* Thomas Hart Benton American Regionalist mural style, undulating rhythmic figures, 1200x500 wide banner. A long line of working people waiting on a winding road toward a distant shining city on a hill, while a few figures cut ahead at the front; a Louisiana bayou and oil derricks in the background. Warm earth tones, muscular flowing forms, rippling regionalist movement. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > Arlie Russell Hochschild (* 1940, Boston) ist Soziologin und Professorin Emerita an der UC Berkeley. Sie ist Pionierin der Emotionssoziologie und prägte das Konzept der "emotional labor" (emotionale Arbeit). In ihren Werken verbindet sie tiefensoziologische Feldforschung mit philosophischen Fragen — von der Kommerzialisierung menschlicher Gefühle über Geschlechterungerechtigkeit bis zur Psychologie des rechten Populismus. Ihr Buch *Strangers in Their Own Land* (2016) wurde zur "Rosetta Stone" für das Verständnis von Trumps Aufstieg.
 

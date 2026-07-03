@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, macht, kritische-theorie, demokratie]
 
 # Alex Demirović — DenkerVita
 
+![[assets/Alex-Demirovic-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Russischer Konstruktivismus (Rodtschenko)** — Scharfe Diagonalen, ein strukturelles Diagramm der Macht: ein alles sehendes Auge an der Spitze eines rot-schwarzen Gerüsts aus Zahnrädern und Pfeilen, das auf kleine Figuren drückt, ein Riss des Widerstands hindurch. Die Agitprop-Geometrie trägt Demirovićs kritische Theorie der Herrschaft.
+
+*Prompt:* Russian Constructivism, Rodchenko style, sharp diagonals, 1200x500 wide banner. An angular structural diagram of power: an all-seeing eye at the apex of a red-and-black scaffold of interlocking gears, arrows and grids pressing on small figures below; a crack of resistance running through it. Red, black, off-white, bold geometric agitation. No photorealism, no realistic faces.
+
+</details>
+
 → Gedankenwelten-Notes: [[Demirovic und Lorey — Foucaults Gouvernementalitaet]]
 
 ---

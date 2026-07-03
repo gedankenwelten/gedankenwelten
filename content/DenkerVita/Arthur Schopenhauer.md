@@ -11,6 +11,18 @@ tags:
   - deutschland
 ---
 
+# Arthur Schopenhauer — DenkerVita
+
+![[assets/Arthur-Schopenhauer-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Caspar David Friedrich (Romantik)** — Eine einsame verhüllte Rückenfigur an dunklem Ufer vor einem weiten, ruhelos wogenden Meer unter blassem Mond, ein durchscheinender Schleier treibt halb verhüllend über die Szene. Friedrichs erhabene Melancholie trägt Schopenhauers Metaphysik — der Schleier der Maya über dem blind strebenden Willen.
+
+*Prompt:* Caspar David Friedrich Romantic style, sublime melancholy, 1200x500 wide banner. A lone cloaked figure seen from behind (Ruckenfigur) standing on a dark shore before a vast churning restless sea under a pale moon; a thin translucent veil drifting across the scene half-hiding it, the endless striving of the will. Muted greys, deep blue-green, cold silver light, atmospheric depth. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

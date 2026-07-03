@@ -7,6 +7,16 @@ tags: [denker-vita, politikwissenschaft, deutschland, bundesregierung, demokrati
 
 # Albrecht von Lucke — DenkerVita
 
+![[assets/Albrecht-von-Lucke-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Weimarer Politmontage (Höch/Heartfield)** — Übereinandergeschichtete Zeitungsspalten und Drucktypen formen ein Rednerpult, eine erhobene Hand, Fragmente des Wortes DEMOKRATIE, Stimmzettel. Die Fotomontage der Zwischenkriegszeit trägt den politischen Publizisten von Lucke — die Presse als Ort der demokratischen Auseinandersetzung.
+
+*Prompt:* Weimar-era political photomontage, Hannah Hoch and Heartfield style, 1200x500 wide banner. A collage of overlapping newspaper columns and printing-press type forming a speaker's rostrum; a raised hand, fragments of the word DEMOKRATIE, torn print, ballot papers. Black, newsprint grey, one red accent, sharp cut-paper edges. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Albrecht von Lucke** (Hans-Albrecht Gerhard Hubertus von Lucke, *28. April 1967 in Ingelheim am Rhein) ist ein deutscher Publizist und Journalist. Er ist Redakteur der politischen Fachzeitschrift *Blätter für deutsche und internationale Politik* (seit 2003) und arbeitete zunächst als freier Publizist und Korrespondent für die Blätter, bevor das Redaktionsbüro 2004 von Bonn nach Berlin zog.

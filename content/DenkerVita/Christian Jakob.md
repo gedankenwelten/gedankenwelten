@@ -7,6 +7,16 @@ tags: [denker-vita, migration, menschenrechte, deutschland, journalismus]
 
 # Christian Jakob — DenkerVita
 
+![[assets/Christian-Jakob-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Käthe Kollwitz** — Kohle und Lithografie, mitfühlender Sozialrealismus: gebeugte Gestalten mit Bündeln ziehen an einem hohen Grenzzaun entlang zum kalten Meereshorizont, ein Suchscheinwerfer, eine ausgestreckte Hand. Kollwitz' würdevolle Härte trägt Jakobs Thema — Migration, Menschenrechte und das europäische Grenzregime.
+
+*Prompt:* Kathe Kollwitz style, charcoal and lithograph, compassionate social realism, 1200x500 wide banner. Huddled figures with bundles moving along a high border fence toward a cold sea horizon, a searchlight beam, dignity in hardship; a raised hand reaching. Charcoal black, grey, bone white, expressive heavy line, sombre and humane. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer ist das?
 > **Christian Jakob** (*1979, Quakenbrück*) — taz-Journalist im Ressort Reportage und Recherche. Studium der Soziologie in Bremen und Mailand, Global Studies in Berlin, Buenos Aires und Delhi. Berichtet seit Jahren über Migrationspolitik, Menschenrechte und Desinformation. Gilt als einer der profiliertesten deutschen Journalisten zum Thema Migration und europäisches Grenzregime.
 > → [[DenkerVita/Christian Jakob|DenkerVita]]

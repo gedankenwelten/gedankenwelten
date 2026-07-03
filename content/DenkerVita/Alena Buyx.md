@@ -7,6 +7,16 @@ tags: [denker-vita, ethik, medizinethik, bioethik, deutschland]
 
 # Alena Buyx — DenkerVita
 
+![[assets/Alena-Buyx-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Tamara de Lempicka (Art Déco)** — Polierte, metallische Formen: eine monumentale Waage, auf der einen Schale die leuchtende DNA-Doppelhelix, auf der anderen ein Herz, im Gleichgewicht gehalten, dahinter ein Caduceus. Der kühle Déco-Glanz trägt Buyx' Feld — die Medizinethik, die zwischen Forschung und Menschlichkeit die Balance hält.
+
+*Prompt:* Tamara de Lempicka Art Deco style, polished tubular forms, cool metallic light, 1200x500 wide banner. A monumental pair of balance scales holding a glowing DNA double helix on one side and a human heart on the other, held in equilibrium; steel and gold, a caduceus and clean geometric rays behind. Cold blue, chrome, gold, deco precision. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Alena Michaela Buyx** (* 29. September 1977 in Osnabrück) ist eine deutsche Medizinethikerin und Professorin für Ethik der Medizin und Gesundheitstechnologien an der Technischen Universität München (TUM), wo sie seit September 2018 die W3-Professur innehat und Direktorin des Instituts für Geschichte und Ethik der Medizin ist.

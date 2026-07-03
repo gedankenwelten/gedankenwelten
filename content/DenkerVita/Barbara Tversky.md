@@ -7,6 +7,16 @@ tags: [denker-vita, psychologie, kognition, embodied-cognition, spatial-cognitio
 
 # Barbara Tversky — DenkerVita
 
+![[assets/Barbara-Tversky-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Cy Twombly** — Schleifende Bleistift- und Wachskritzel auf cremefarbenem Grund, die aus einer angedeuteten Hand quellen und zu Raumdiagrammen, Pfeilen und kleinen Karten werden — Denken als Spur des bewegten Körpers. Twomblys unmittelbare Geste trägt Tverskys These vom verkörperten, räumlichen Denken.
+
+*Prompt:* Cy Twombly style, gestural scribble, pencil and wax crayon on cream ground, 1200x500 wide banner. Looping handwritten scrawls and gestures that spill from a suggested hand and turn into spatial diagrams, arrows, little maps and numbers; thought as the trace of a moving body. Cream, graphite grey, smudges of red and ochre, raw immediate mark-making. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Barbara Gans Tversky** (geb. 1943) ist Kognitionspsychologin und eine der einflussreichsten Stimmen in der zeitgenössischen Psychologie. Sie ist Emerita Professor für Psychologie an der Stanford University (1978–2006) und Professor für Psychologie und Pädagogik am Columbia Teachers College (2005–2022), wo sie als Professor Emerita tätig bleibt.

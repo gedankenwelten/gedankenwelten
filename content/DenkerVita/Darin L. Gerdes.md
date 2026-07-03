@@ -7,6 +7,16 @@ tags: [denker-vita, geopolitik, ukraine, leadership]
 
 # Darin L. Gerdes
 
+![[assets/Darin-L-Gerdes-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**WPA-Lehrplakat (Mid-Century)** — Bold-flache Formen, staatsbürgerliche Klarheit: ein Rednerpult vor einer stilisierten Ukraine-Karte, eine hohe Sonnenblume, Schachfiguren als Strategie, ein Pfeil der Entschlossenheit. Der nüchtern-lehrhafte Plakatstil trägt Gerdes' Leadership-Perspektive auf den Ukraine-Krieg.
+
+*Prompt:* WPA vintage instructional poster style, bold flat shapes, mid-century civic clarity, 1200x500 wide banner. A leadership lectern before a stylised map of Ukraine, a tall sunflower, chess pieces arranged as strategy, an arrow of resolve; steady civic strength. Deep blue, gold-yellow, brick red, cream, screen-printed poster texture. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
