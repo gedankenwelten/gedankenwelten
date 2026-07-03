@@ -6,6 +6,16 @@ tags: [denker-vita, technologie, medien, deutschland, datenschutz]
 
 # Ralf Stockmann — DenkerVita
 
+![[assets/Ralf-Stockmann-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Warme Editorial-Illustration** — Ein klassisches Bücherregal löst sich auf einer Seite in Ströme offener Daten, leuchtende Bildschirme und ein aufgesprungenes Open-Access-Vorhängeschloss auf, ein Netz verbindet Leser überall. Der warme Stil trägt Stockmanns Rolle als Bibliothekar und Digital-Stratege — die Bibliothek, die digital und offen wird.
+
+*Prompt:* Warm flat editorial illustration, 1200x500 wide banner. A classic library shelf of books gradually dissolving on one side into streams of open data, glowing screens and an unlocked open-access padlock, a network linking readers everywhere; the library going digital and open. Deep teal, warm ochre, cream, one bright accent, clean shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 - **Beruf/Fachgebiet:** Bibliothekar und Digital-Stratege; Leiter der Abteilung für Digitale Entwicklung und Netzangelegenheiten (DEVA) an der Zentral- und Landesbibliothek Berlin (ZLB); zuvor an der Staatsbibliothek zu Berlin (Informations- und Datenmanagement) und an der SUB Göttingen.
 - **Profil:** Eine der profiliertesten deutschsprachigen Stimmen im Fediverse — UX-Kritiker und -Reformer von Mastodon, Brückenbauer zwischen öffentlichen Institutionen und dezentralen Netzwerken.

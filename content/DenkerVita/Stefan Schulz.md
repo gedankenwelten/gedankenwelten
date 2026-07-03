@@ -7,6 +7,16 @@ tags: [denker-vita, demografie, medien, deutschland]
 
 # Stefan Schulz — DenkerVita
 
+![[assets/Stefan-Schulz-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Klare Editorial-Illustration** — Eine demografische Alterspyramide neben rollenden Medien-Sendewellen und einem Podcast-Mikrofon, eine Lupe soziologischer Beobachtung über einer Menge. Der präzise Stil trägt Schulz' Felder — Medien, Generationen und Demografie.
+
+*Prompt:* Clean flat editorial illustration, 1200x500 wide banner. A demographic age-pyramid beside rolling media broadcast waves and a podcast microphone, a magnifier of sociological observation over a crowd; media, generations and demography. Steel blue, mustard, coral, cream, precise geometric shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

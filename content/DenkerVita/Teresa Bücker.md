@@ -7,6 +7,16 @@ tags: [denker-vita, soziale-ungleichheit, wirtschaft, demokratie, philosophie, d
 
 # Teresa Bücker — DenkerVita
 
+![[assets/Teresa-Buecker-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Warme Editorial-Illustration** — Uhren und Stunden werden gerecht unter vielfältige Hände verteilt, Sorgearbeit, Ruhe und freie Zeit auf einer sanften Waage im Gleichgewicht, ein Sonnenaufgang zurückgewonnener Zeit. Der warme Stil trägt Bückers Kern — Zeitgerechtigkeit und Feminismus („Alle_Zeit").
+
+*Prompt:* Warm flat editorial illustration, 1200x500 wide banner. Clocks and hours being shared out fairly among diverse hands, care work and rest and free time held in balance on a gentle scale, a sunrise of reclaimed time; time justice and feminism. Warm coral, gold, teal, cream, soft rounded shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist sie?

@@ -7,6 +7,16 @@ tags: [denker-vita, medien, deutschland, jugend]
 
 # Sanya Lehmann — DenkerVita
 
+![[assets/Sanya-Lehmann-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Helle, jugendliche Flat-Illustration** — Eine selbstbewusste junge Gestalt steht und spricht an einem medienpolitischen Ratstisch zwischen größeren grauen Erwachsenen-Silhouetten, ein erhobenes Mikrofon und eine leuchtende Sprechblase, Bildschirme und Jugend-Symbole. Der frische Stil trägt Lehmanns Rolle im MABB-Jugendrat — junge Menschen als Akteurinnen, nicht als Schutzobjekte.
+
+*Prompt:* Bright youthful flat illustration, 1200x500 wide banner. A confident young figure standing and speaking at a media-policy council table among taller grey adult silhouettes, a raised microphone and a glowing speech bubble, screens and youth symbols; young people as actors not objects of protection. Vivid coral, teal, yellow, cream, fresh energetic shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist sie?

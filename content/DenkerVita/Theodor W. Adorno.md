@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, kapitalismus, kulturkritik, dialektik]
 
 # Theodor W. Adorno — DenkerVita
 
+![[assets/Theodor-W-Adorno-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Dunkle konstruktivistische Fotomontage** — Ein finsteres Fließband der Kulturindustrie stanzt Reihen identischer lächelnder Masken und identischer Schallplatten unter grauem verwaltetem Himmel aus, eine kleine dissonante gebrochene Note entkommt dem Band. Die harte Montage trägt Adornos Kulturkritik und negative Dialektik.
+
+*Prompt:* Dark constructivist photomontage style, 1200x500 wide banner. A grim culture-industry assembly line stamping out rows of identical smiling masks and identical records under a grey administered sky, one small dissonant broken note escaping the conveyor; the culture industry and negative dialectics. Steel grey, black, sickly beige, one red note, sharp montage edges. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Theodor W. Adorno** (*11. September 1903, Frankfurt am Main — †6. August 1969, Visp, Schweiz*) — Philosoph, Soziologe, Musiktheoretiker, Mitbegründer der Kritischen Theorie.
 >

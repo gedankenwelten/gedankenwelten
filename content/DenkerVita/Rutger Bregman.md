@@ -6,6 +6,16 @@ tags: [denker-vita, philosophie, anthropologie, niederlande]
 
 # Rutger Bregman — DenkerVita
 
+![[assets/Rutger-Bregman-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Helle, hoffnungsvolle Flat-Illustration** — Eine fröhliche, vielfältige Menge baut gemeinsam eine hellere Stadt, sanft rieselndes Geld, eine Kürzere-Woche-Uhr und eine Brücke zu einer sonnigen Skyline, kleine Herzen menschlicher Güte. Der optimistische Stil trägt Bregmans realistische Utopie — im Kern sind die meisten Menschen anständig.
+
+*Prompt:* Bright hopeful flat illustration, 1200x500 wide banner. A cheerful crowd of diverse people building a brighter city together, gentle money raining down softly, a shorter-work-week clock and a bridge toward a sunny skyline, small hearts of human kindness; a realist utopia where people are fundamentally decent. Warm yellow, sky blue, green, coral, optimistic flat shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

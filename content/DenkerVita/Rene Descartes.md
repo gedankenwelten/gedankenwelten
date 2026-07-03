@@ -5,6 +5,18 @@ aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, rationalismus, frankreich]
 ---
 
+# René Descartes — DenkerVita
+
+![[assets/Rene-Descartes-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Barocker Kupferstich (Chiaroscuro)** — Ein leuchtender Denkpunkt schwebt über einem als Uhrwerk gesehenen anatomischen Körper, geometrische Methoden-Zirkel ringsum, eine einzelne Kerze des radikalen Zweifels im Dunkeln. Der Barock-Stich trägt Descartes' Kern — der Leib-Seele-Dualismus und das Cogito.
+
+*Prompt:* Baroque chiaroscuro engraving style, dramatic candlelight, 1200x500 wide banner. A luminous glowing point of thought hovering above a mechanical anatomical body seen as clockwork, geometric method diagrams and compasses around, a single candle of radical doubt in the dark; mind-body dualism and cogito. Deep black, warm candle gold, sepia, fine engraved hatching. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

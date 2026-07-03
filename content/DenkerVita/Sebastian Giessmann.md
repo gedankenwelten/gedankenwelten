@@ -7,6 +7,16 @@ tags: [denker-vita, technologie, wirtschaft, geopolitik, medien]
 
 # Sebastian Gießmann — DenkerVita
 
+![[assets/Sebastian-Giessmann-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Klare Editorial-Infografik** — Ein verborgenes Netz der Zahlungsinfrastruktur — Kreditkarten, Terminals, Stecker und Standard-Konnektoren bilden einen schützenden Ring um eine stilisierte Europakarte, Kabel und Schloss-Icons. Der präzise Stil trägt Gießmanns Kulturgeschichte der Infrastrukturen — die unsichtbaren Machtkämpfe um Zahlungssysteme.
+
+*Prompt:* Clean flat editorial infographic illustration, 1200x500 wide banner. A hidden network of payment infrastructure — credit cards, card terminals, plugs and standards connectors forming a protective ring around a stylised map of Europe, cables and lock icons; the invisible history and power struggles of payment systems. Deep blue, teal, gold, cream, precise geometric shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Sebastian Gießmann** (*Universität Siegen*) — Medienwissenschaftler und Kulturhistoriker der Infrastrukturen. Leitet die Forschergruppe „Geschichte und Ethnografie kooperativer Medienpraktiken" im SFB 1187 „Media of Cooperation". Sein Zugang: Zahlungssysteme sind keine technischen Selbstläufer, sondern Ergebnis historischer Kämpfe um Standards, Macht und Ausschluss. 2026 erschien sein *Kreditkarten-Buch*, das die Geschichte digitaler Zahlungsinfrastrukturen von der EC-Karte bis zum digitalen Euro erzählt — inklusive des Kapitels „Der Ring Europas um die Zahlungssysteme".
 

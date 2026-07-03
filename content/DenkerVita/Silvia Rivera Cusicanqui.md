@@ -7,6 +7,16 @@ aktualisiert: 2026-06-10
 
 # Silvia Rivera Cusicanqui — DenkerVita
 
+![[assets/Silvia-Rivera-Cusicanqui-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Andines Aymara-Webmuster** — Ein reich gewebtes Gewebe aus kontrastierenden Fäden, die koexistieren ohne zu verschmelzen, andine geometrische Motive, Kondor- und Bergsymbole, ein Wiphala-artiges Farbgitter und Spiralen der oralen Geschichte. Die Weberei trägt Rivera Cusicanquis Kernbegriff *ch'ixi* — die konfliktreiche Koexistenz von Unterschieden und dekoloniales Wissen.
+
+*Prompt:* Andean Aymara textile weaving style, woven thread patterns, 1200x500 wide banner. A richly woven fabric of contrasting threads that coexist without blending, Andean geometric motifs, condor and mountain symbols, wiphala-like colour grid and spirals of oral history; ch'ixi, the conflictual coexistence of differences and decolonial knowledge. Earth red, indigo, ochre, black, woven texture. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Silvia Rivera Cusicanqui** (*1949, La Paz*) — Bolivianische Soziologin, Historikerin und Aktivistin mit Aymara-Wurzeln; jahrzehntelang Professorin an der Universidad Mayor de San Andrés in La Paz, heute emerita. Sie gründete 1983 den Taller de Historia Oral Andina (THOA) mit, ein Forschungskollektiv zur Dekolonisierung von Wissensproduktion und Geschichte. Ihre Arbeit verbindet anarchistische Theorie mit Aymara-Kosmologie und Subaltern-Studien. Kernkonzept: **ch'ixi** — eine nicht-harmonische, konfliktreiche Koexistenz von Unterschieden als gelebte Wirklichkeit und Grundlage dekolonialer Praxis.
 

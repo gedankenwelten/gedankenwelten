@@ -7,6 +7,16 @@ tags: [denker-vita, usa, propaganda, medien, atheismus]
 
 # Thomas Westbrook — DenkerVita
 
+![[assets/Thomas-Westbrook-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Editorial-Illustration** — Eine Kopf-Form befreit sich von Marionettenfäden und einem verschütteten Becher des Dogmas, eine helle Glühbirne der Vernunft vertreibt wirbelnden Indoktrinationsnebel, verknotete Denkfehler-Fäden werden durchtrennt. Der klare Stil trägt Westbrooks Kanal *Holy Koolaid* — den Geist aus Kult und Gedankenkontrolle befreien.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. A human head-shape breaking free of puppet strings and a spilled cup of dogma, a bright lightbulb of reason dispelling swirling indoctrination fog, tangled cognitive-bias threads being cut; freeing the mind from cults and mind-control. Deep purple, bright yellow light, teal, cream, clean graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Biographischer Snapshot
 > **Thomas Westbrook** (*28. März 1990, Los Angeles, CA*) — YouTube-Creator hinter dem Kanal **Holy Koolaid**, aufgewachsen als evangelikaler Christ in Aserbaidschan, später kritische Konversion zum Atheismus. Doppelstudium Internationale Beziehungen und Russistik (Texas A&M). Seitdem 20+ Jahre Forschung zu Kulten, Indoktrination, Kognitionsverzerrungen und Denkkontrolle. Gründer von Holy Koolaid LLC; Ehemaliger Board Member der Atheist Community of Tulsa; Mitgründer des Faithless Forum (erste atheist/skeptic YouTube-Konferenz).
 

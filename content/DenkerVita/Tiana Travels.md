@@ -8,6 +8,16 @@ description: Amerikanische YouTuberin in Paris — analysiert US-Systemprobleme 
 
 # Tiana Travels — DenkerVita
 
+![[assets/Tiana-Travels-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Vintage-Reiseplakat** — Pariser Dächer und eine Café-Terrasse unter warmem Himmel, eine Reisende mit Kamera und einem mit Stempeln beklebten Koffer, der Eiffelturm in sanfter Ferne, ein US-Pass und frische, neugierige Augen. Der Retro-Plakat-Stil trägt Tianas Blick — das Leben in Europa und die US-Systemprobleme aus der Distanz.
+
+*Prompt:* Vintage European travel poster style, flat screen-print, 1200x500 wide banner. Paris rooftops and a cafe terrace under a warm sky, a traveller with a camera and a suitcase covered in stamps, the Eiffel Tower in soft distance, an American passport and fresh curious eyes; discovering life abroad in Europe. Warm coral, teal, mustard, cream, retro poster texture. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Tiana** — Amerikanerin aus der Bay Area, Kalifornien. Bachelor Political Science (Arizona State University, Abschluss 2018). Nach dem Studium arbeitete sie im US-Büroalltag in Jobs, die sie nicht erfüllten. 2019 zog sie nach Europa aus — zunächst als Reisende, dann als Ansässige in Paris.
