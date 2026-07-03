@@ -7,6 +7,16 @@ tags: [denker-vita, ki, technologie, feminismus, digitale-gerechtigkeit, deutsch
 
 # Julia Kloiber — DenkerVita
 
+![[assets/Julia-Kloiber-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Risograph-Druck** — Kräftige übereinandergedruckte Sonderfarben, körnige Textur: vielfältige Hände bauen gemeinsam aus modularen Code-Blöcken und Netzknoten eine offene digitale Zukunft, eine sprießende Pflanze zwischen Leiterbahnen, feministische Civic-Tech-Symbole. Der Riso-Stil trägt Kloibers Anliegen — die Strukturen zu ändern, wer Technik bauen darf.
+
+*Prompt:* Risograph print style, bold overprinted spot colours, grainy texture, 1200x500 wide banner. Diverse hands together building an open digital future from modular code blocks and network nodes, a sprouting plant among circuit lines, feminist civic-tech symbols; changing who gets to build technology. Riso pink, blue, yellow overprint, cream paper, playful hopeful. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

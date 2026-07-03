@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, kritische-theorie, sprache, demokratie, deutsch
 
 # Jürgen Habermas — DenkerVita
 
+![[assets/Juergen-Habermas-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Raoul Dufy** — Lebendige Kalligrafenlinie über leuchtenden Farbwaschungen: ein geselliger öffentlicher Platz und ein offenes Café voller kleiner Figuren im Gespräch, Sprechbänder und Dialogbrücken spannen zwischen den Tischen, Zeitungen und Kaffeetassen. Dufys heitere Öffentlichkeit trägt Habermas' Kern — die Öffentlichkeit als Raum des zwanglosen Zwangs des besseren Arguments.
+
+*Prompt:* Raoul Dufy style, lively thin calligraphic line over luminous colour washes, 1200x500 wide banner. A convivial public square and open cafe of many small figures in animated conversation, speech ribbons and bridges of dialogue arcing between tables, newspapers and coffee cups; the public sphere of reasoned exchange. Bright azure, coral, yellow, festive airy wash. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

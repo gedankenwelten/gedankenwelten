@@ -7,6 +7,16 @@ tags: [denker-vita, medien, journalismus, konservatismus]
 
 # Marc Felix Serrao — DenkerVita
 
+![[assets/Marc-Felix-Serrao-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Swiss International Typographic Style (Müller-Brockmann)** — Eine klare Rasterkomposition: eine gefaltete Zeitung rahmt die Umrisse Deutschlands, kritisch aus schweizerischer Warte betrachtet, eine rote Diagonale und ein präzises Gitter, eine Lupe der Prüfung. Der Schweizer Grid-Stil (NZZ) trägt Serraos Chefredaktion — der Blick von außen auf den deutschen Konsens.
+
+*Prompt:* Swiss International Typographic Style, Josef Muller-Brockmann grid, 1200x500 wide banner. A bold clean composition where a folded broadsheet newspaper frames the outline of Germany viewed critically from a Swiss vantage, a red diagonal and a precise grid, a magnifier of scrutiny. Red, black, white, one grey, rigorous typographic modernism. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

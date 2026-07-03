@@ -7,6 +7,16 @@ tags: [denker-vita, medien, deutschland]
 
 # Kristian Kunow — DenkerVita
 
+![[assets/Kristian-Kunow-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Mid-Century Flat-Civic-Illustration** — Eine ausbalancierte Waage zwischen hohen Sende- und Plattform-Türmen auf der einen Seite und einem Schutzschild für junge Zuschauer auf der anderen, ein Regelwerk aus Antennen verbindet beide. Der nüchterne Behörden-Grafikstil trägt Kunows Rolle — Medienregulierung, Plattform-Governance und Jugendschutz pragmatisch austariert.
+
+*Prompt:* Mid-century flat civic editorial illustration, 1200x500 wide banner. A balanced set of scales between tall broadcast and streaming platform towers on one side and a protective shield for young viewers on the other, a framework of rules and antennas linking them; pragmatic media regulation. Deep teal, mustard, brick red, cream, clean geometric shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist er?

@@ -5,6 +5,18 @@ aktualisiert: 2026-04-27
 tags: [denker-vita, philosophie, gerechtigkeit, ethik, usa]
 ---
 
+# John Rawls — DenkerVita
+
+![[assets/John-Rawls-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Piero della Francesca (Renaissance-Allegorie)** — Ruhige verhüllte Gestalten stehen hinter einem durchscheinenden Schleier, der verbirgt, welche Stellung jede erhalten wird, davor eine exakt austarierte Waage und ein Würfelpaar auf Steinboden. Pieros geometrische Klarheit trägt Rawls' Urzustand — Gerechtigkeit wählen hinter dem Schleier des Nichtwissens.
+
+*Prompt:* Piero della Francesca early Renaissance allegory style, serene geometric clarity, 1200x500 wide banner. Calm robed figures standing behind a large translucent veil that hides which station each will receive, a perfectly level balance scale and a pair of dice on a stone floor, harmonious architecture behind; choosing justice without knowing one's place. Soft blue, rose, cream, pale gold, still balanced composition. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

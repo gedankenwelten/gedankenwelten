@@ -7,6 +7,16 @@ tags: [denker-vita, ki, arbeit, kapitalismus, soziale-ungleichheit, datenarbeit,
 
 # Joan Kinyua — DenkerVita
 
+![[assets/Joan-Kinyua-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Zeitgenössische Flat-Illustration mit Ndebele-Musterbändern** — Reihen von Data-Labeler:innen an leuchtenden Bildschirmen ziehen Annotationsrahmen um Bilder, die eine große KI-Schaltung speisen — die verborgenen menschlichen Hände hinter der künstlichen Intelligenz. Die afrikanische Mustergrafik trägt Kinyuas Botschaft: „KI ist keine Magie. Es sind Menschen."
+
+*Prompt:* Vibrant contemporary flat illustration with African geometric Ndebele-style patterned borders, 1200x500 wide banner. Rows of data-labeler workers at glowing screens drawing annotation boxes around images that feed into a large AI brain-circuit; the hidden human hands behind artificial intelligence. Warm ochre, teal, magenta, black, bold flat shapes and geometric pattern bands. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

@@ -7,6 +7,16 @@ tags: [denker-vita, soziologie, kapitalismus, gewerkschaften, deutschland, wirts
 
 # Klaus Dörre — DenkerVita
 
+![[assets/Klaus-Doerre-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera (Industrie-Mural)** — Reihen von Arbeitern neben großen Maschinen, während eine greifende Kapitalisten-Hand und die expandierende Fabrik auf grüne Felder und Allmende übergreifen, darüber ein rotes Banner. Riveras rhythmisches Mural trägt Dörres Kernbegriff — die kapitalistische „Landnahme" von Arbeit und Natur.
+
+*Prompt:* Diego Rivera industrial mural style, rounded monumental figures, 1200x500 wide banner. Rows of workers beside great machines while a grasping capitalist hand and expanding factory encroach on green fields and commons, a red banner overhead; capitalism as continuous land-grab of labour and nature. Earthy red, ochre, green, muscular rhythmic mural composition. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Klaus Dörre** (*geb. 31. Juli 1957 in Niedersachsen*) — Industriesoziologe und Kapitalismuskritiker mit empirischem Fundament. Professor für Arbeits-, Industrie- und Wirtschaftssoziologie an der Friedrich-Schiller-Universität Jena (2005–2025), seit 2025 Gastprofessor an der Universität Kassel für sozialökologische Nachhaltigkeitskonflikte. Mitbegründer der DFG-Kollegforschungsgruppe „Postwachstumsgesellschaften" mit Hartmut Rosa und Stephan Lessenich.
 >

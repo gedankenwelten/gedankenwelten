@@ -7,6 +7,16 @@ tags: [denker-vita, migration, usa, erinnerungskultur, journalismus]
 
 # Marina Klimchuk — DenkerVita
 
+![[assets/Marina-Klimchuk-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Wehmütige narrative Gouache** — Ein Greyhound-artiger Fernbus fährt bei Dämmerung eine verblassende amerikanische Straße, überlagert von alten Fotos, einem abgenutzten Koffer und einer Kerze der Erinnerung, zwei blasse Flaggen von einst und jetzt; Migration und Gedächtnis. Der dokumentarisch-stille Ton trägt Klimchuks Wege zwischen Herkunft, USA und Erinnerungskultur.
+
+*Prompt:* Muted narrative gouache illustration, wistful documentary mood, 1200x500 wide banner. A long-distance Greyhound-style bus travelling a fading American highway at dusk, overlaid with old photographs, a worn suitcase and a candle of remembrance, two faint flags of past and present homelands; migration and memory. Dusty blue, sepia, ochre, soft grey, layered reflective composition. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer ist das?
 > **Marina Klimchuk** — Freie Journalistin, schreibt für ZEIT, taz, Stern, WOZ, GEO und weitere. Kam in den 1990ern als jüdische Kontingentflüchtlingin nach Deutschland. Lebte zwei Jahre in den USA — zwischen Greyhound-Bussen, Depression und demokratischem Niedergang. Schwerpunkte: Migration, Erinnerungskultur, internationale Konflikte.
 > → [[DenkerVita/Marina Klimchuk|DenkerVita]]

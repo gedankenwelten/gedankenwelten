@@ -6,6 +6,16 @@ tags: [denker-vita, technologie, soziologie, demokratie, datenschutz]
 
 # Marco Wähner — DenkerVita
 
+![[assets/Marco-Waehner-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Vektor-Netzwerk-Illustration** — Eine warme dezentrale Konstellation vieler kleiner verbundener Server-Knoten und freundlicher Mastodon-Elefanten ohne Zentrum, dem ein einzelner kalter zentraler Hub gegenübersteht, der zurückbleibt; das Fediverse und Datenethik. Die klare Netzgrafik trägt Wähners Forschung zu dezentralen Netzwerken.
+
+*Prompt:* Clean flat vector network illustration, 1200x500 wide banner. A warm decentralised constellation of many small linked server-nodes and friendly mastodon-elephant silhouettes with no centre, contrasted with a single cold centralised hub being left behind; the fediverse and data ethics. Teal, purple, warm orange on cream, crisp geometric nodes and links. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 - **Beruf / Fachgebiet:** Soziologe (Dr. rer. soc.), Postdoc-Forscher; empirische Sozialforschung, Computational Methods, politische Soziologie
 - **Institution:** Center for Advanced Internet Studies (CAIS), Bochum — Research Associate in der Abteilung „Research Data & Methods", seit Mai 2024 kommissarische Teamleitung

@@ -7,6 +7,16 @@ tags: [denker-vita, usa, medien, journalismus, year-2026]
 
 # Manuel (Koschi Politik) — DenkerVita
 
+![[assets/Manuel-Koschi-Politik-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Edward Hopper (amerikanischer Realismus)** — Eine verschneite Straßenecke in Buffalo in der Dämmerung, ein erleuchtetes Diner-Fenster und eine US-Flagge, drinnen glüht eine Webcam mit Schreibtischlampe, als kommentiere jemand von innen heraus. Hoppers stille amerikanische Einsamkeit trägt Manuels Blick — US-Politik als Augenzeuge vor Ort, nicht mit europäischem Fernblick.
+
+*Prompt:* Edward Hopper style, quiet American realism, stark light and shadow, 1200x500 wide banner. A snowy Buffalo street corner at dusk with a lit diner window and an American flag, a lone webcam-and-desk lamp glowing inside as if commenting from within; America observed from the inside. Muted teal, brick red, cream snow, long cold shadows, still melancholy. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

@@ -7,6 +7,16 @@ tags: [denker-vita, demokratie, populismus, politikwissenschaft, deutschland]
 
 # Kolja Möller — DenkerVita
 
+![[assets/Kolja-Moeller-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Neue Sachlichkeit** — Kühl-scharfer Realismus, grafisch verdichtet: eine große janusköpfige Menschenmenge-Figur, ein Gesicht gütig, eines bedrohlich, erhebt sich über einem aufgeschlagenen Verfassungsdokument mit dem Stempel WIR, dahinter ein Systemdiagramm aus Pfeilen. Der nüchterne Weimar-Duktus trägt Möllers Thema — Populismus als zweischneidige Kraft der Demokratie.
+
+*Prompt:* German Neue Sachlichkeit clean editorial style, sharp cool realism turned graphic, 1200x500 wide banner. A large Janus two-faced crowd-figure, one face benevolent one menacing, rising above an open constitution document stamped WIR, a systems diagram of arrows behind; populism as double-edged force in democracy. Steel grey, deep red, cream, precise hard-edged shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Kolja Möller** ist Politikwissenschaftler und Demokratietheoretiker. Er arbeitet als Wissenschaftlicher Mitarbeiter am Institut für Politikwissenschaft der Goethe-Universität Frankfurt am Main und forscht am Center for Critical Computational Studies. Sein Schwerpunkt liegt auf Populismus, Demokratietheorie, Verfassungspolitik und Systemtheorie.

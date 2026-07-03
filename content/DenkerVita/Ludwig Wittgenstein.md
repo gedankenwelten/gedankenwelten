@@ -5,6 +5,18 @@ aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, sprache, erkenntnistheorie, oesterreich]
 ---
 
+# Ludwig Wittgenstein — DenkerVita
+
+![[assets/Ludwig-Wittgenstein-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Sparsame Moderne (Minimalismus)** — Viel weißer Raum: eine schlanke Leiter steigt in reines weißes Schweigen auf, eine Glasflasche mit einer einzelnen Fliege am Fuß, ein paar Schachfiguren aus winzigen Buchstaben auf einer Linie — die Grenzen der Sprache und wovon man schweigen muss. Die karge Reduktion trägt Wittgensteins Tractatus und die Sprachspiele.
+
+*Prompt:* Spare modernist minimalism, lots of empty white space, 1200x500 wide banner. A slender ladder ascending into pure white silence, a glass bottle with a single fly inside near the base, a few chess-like pieces made of tiny letters on a line; the limits of language and what must be passed over in silence. White, pale grey, one black line, a touch of ochre, rigorous and quiet. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

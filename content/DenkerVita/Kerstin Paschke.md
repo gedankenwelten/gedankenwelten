@@ -7,6 +7,16 @@ tags: [denker-vita, psychologie, medien, deutschland]
 
 # Kerstin Paschke — DenkerVita
 
+![[assets/Kerstin-Paschke-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Zeitgenössische Flat-Illustration (kühles Screen-Glühen)** — Eine junge Gestalt, sanft umschlungen von leuchtenden Ranken aus Bildschirmen, Controllern und Benachrichtigungsblasen, die von allen Seiten ziehen, während eine ruhige, fürsorgliche Hand einen Ausweg reicht. Der kühle Screen-Glow trägt Paschkes Feld — Mediensucht im Kindes- und Jugendalter und die Sorge darum.
+
+*Prompt:* Contemporary flat editorial illustration, cool screen-glow, 1200x500 wide banner. A young figure gently entangled in glowing tendrils of screens, game controllers and notification bubbles pulling from all sides, while a calm caring hand offers a way out; media addiction and care. Cool blue and violet glow, warm accent for the helping hand, clean flat shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist sie?

@@ -7,6 +7,16 @@ tags: [denker-vita, datenschutz, verschwörungstheorien, esoterismus, ai, desinf
 
 # Katharina Nocun — DenkerVita
 
+![[assets/Katharina-Nocun-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Editorial-Collage** — Eine Hand entwirrt ein verknotetes Verschwörungs-Pinboard aus roten Fäden, Fotos und Pfeilen und legt die Leere dahinter frei, während eine andere Hand einen Schild über ein Schloss und eine Datenkarte hält — Mythen entkräften und Privatsphäre schützen. Der collagierte Editorial-Stil trägt Nocuns Doppelthema: Fake Facts und Datenschutz.
+
+*Prompt:* Contemporary editorial collage style, 1200x500 wide banner. A hand unravelling a tangled conspiracy pin-board of red strings, photos and arrows that reveals emptiness behind it, while another hand raises a shield protecting a lock and personal-data card; debunking myths and guarding privacy. Muted paper tones, red string accent, teal, sharp cut edges. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 Katharina Nocun wurde 1986 als Katarzyna Nocuń in Polen geboren und wuchs in Deutschland auf. Ihre Eltern sind beide im IT-Bereich tätig — die Mutter als Datenbankadministratorin, der Vater als IT-Projektmanager. Diese Prägung durch die digitale Sphäre zieht sich durch ihre gesamte intellektuelle Biografie.

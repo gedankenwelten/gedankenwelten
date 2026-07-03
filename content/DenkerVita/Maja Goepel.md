@@ -7,6 +7,16 @@ tags: [denker-vita, wirtschaft, kapitalismus, demokratie, philosophie, deutschla
 
 # Maja Göpel — DenkerVita
 
+![[assets/Maja-Goepel-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Solarpunk (zeitgenössisch, hoffnungsvoll)** — Hände formen eine erblühende regenerative Erde, umringt von einem Donut-Kreis des Wohlergehens, Windräder und Gärten lösen Schlote ab, eine grüne Aufwärtsspirale. Der lichte Solarpunk-Stil trägt Göpels Transformationsdenken — die Wirtschaft innerhalb planetarer Grenzen neu denken.
+
+*Prompt:* Contemporary solarpunk flat illustration, hopeful and lush, 1200x500 wide banner. Hands gently reshaping a flourishing regenerative Earth ringed by a doughnut-shaped circle of wellbeing, wind turbines and gardens replacing smokestacks, a green upward spiral; rethinking the economy within planetary boundaries. Fresh green, warm gold, sky blue, clean optimistic shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Maja Göpel** (*1976*) — Politische Ökonomin, Transformationsforscherin und Wissenschaftskommunikatorin. Generalsekretärin des Wissenschaftlichen Beirats der Bundesregierung Globale Umweltveränderungen (WBGU) 2009–2020. Mitgründerin von Scientists for Future. Heute Professorin und Gastgeberin des Podcasts **NEU DENKEN** (Mission Wertvoll).
 >
