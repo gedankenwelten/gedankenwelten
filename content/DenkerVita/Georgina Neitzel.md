@@ -7,6 +7,16 @@ tags: [denker-vita, ki, technologie, innovation, zukunftsforschung]
 
 # Georgina Neitzel — DenkerVita
 
+![[assets/Georgina-Neitzel-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Fortunato Depero (futuristische Reklame)** — Eine Achterbahnkurve des Technologie-Hype-Zyklus steigt steil und stürzt ab, glühende Buzzword-Blasen und Raketen- und Glühbirnen-Icons fahren mit, eine kleine Figur klammert sich an den Gipfel. Deperos mechanische Reklame-Grafik trägt Neitzels Blick aus dem Innovation Lab — wie Hype-Zyklen Entscheidungen und Zukunftsbilder formen.
+
+*Prompt:* Fortunato Depero Futurist advertising style, bold mechanical shapes, 1200x500 wide banner. A rollercoaster curve of a technology hype cycle rising steeply then crashing, glowing buzzword bubbles and rocket and light-bulb icons riding it, a small figure clinging to the peak; inflated expectations. Bright red, teal, yellow, black, angular futurist advertising graphics. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Georgina Neitzel** leitet das Innovation Lab der ERGO Group AG (Berlin, seit April 2024) und beobachtet hautnah, wie technologische Hype-Zyklen Geschäftsentscheidungen, Ressourcenallokation und Zukunftsvorstellungen in der Versicherungsindustrie prägen. Ihr Hintergrund: Data Science und Innovation Management bei BCG Digital Ventures (7+ Jahre). Sie bringt STS-Konzepte in die Unternehmenspraxis — und erlebt täglich, wie Organisations- und Medien-Dynamiken die reale Innovations-Agenda formen.
 

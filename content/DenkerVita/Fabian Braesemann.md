@@ -7,6 +7,16 @@ tags: [denker-vita, wirtschaft, ki, arbeit, oxford, deutschland]
 
 # Fabian Braesemann — DenkerVita
 
+![[assets/Fabian-Braesemann-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Vera Molnár (generative Computerkunst)** — Driftende Raster feiner Linien, die allmählich in Unordnung zerfallen, Knoten und Fluss-Pfeile einer digitalen Ökonomie, kleine Arbeits- und Zahnrad-Icons im Netz, ein aufkeimendes KI-Muster. Molnárs algorithmische Ästhetik trägt den Oxford-Ökonomen Braesemann und seine Forschung zu KI und Arbeit.
+
+*Prompt:* Vera Molnar generative computer-art style, algorithmic line geometry, 1200x500 wide banner. Drifting grids of fine lines gradually breaking into disorder, nodes and flow-arrows of a digital economy, small work and gear icons embedded in the network, an AI pattern emerging. Cool blue, black, one warm accent on cream, precise plotter-drawn aesthetic. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

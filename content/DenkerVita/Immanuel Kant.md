@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, aufklaerung, erkenntnistheorie, ethik]
 
 # Immanuel Kant
 
+![[assets/Immanuel-Kant-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Kupferstich der Aufklärung (18. Jh.)** — Ein weites Sternenfirmament oben, darunter eine aufrechte Gestalt mit einer leuchtenden Gesetzestafel und einem Zirkel an der Brust, umgeben von Uhrwerk-Zahnrädern der geordneten Vernunft und einer Brücke. Der feine Stichduktus trägt Kants Kern — „der bestirnte Himmel über mir und das moralische Gesetz in mir".
+
+*Prompt:* 18th century copperplate engraving style, Enlightenment allegory, fine hatching, 1200x500 wide banner. A vast starry firmament above, and below a small upright figure with a glowing law-tablet and a compass at its chest, surrounded by clockwork gears of ordered reason and a bridge; the starry heavens above and the moral law within. Ink black, cream parchment, restrained gold, precise engraved lines. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

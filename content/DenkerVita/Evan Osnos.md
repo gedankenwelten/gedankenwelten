@@ -7,6 +7,16 @@ tags: [denker-vita, kapitalismus, oligarchie, usa]
 
 # Evan Osnos — DenkerVita
 
+![[assets/Evan-Osnos-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**New-Yorker-Cover im Art-Déco-Witz** — Eine kolossale glänzende Luxusyacht füllt fast das ganze Bild wie ein schwimmender Palast mit winzigen Champagnerfiguren, während minimale gewöhnliche Menschen am Ufer hinaufschauen. Der elegante editoriale Stil trägt Osnos' Reportagen aus der Welt der Ultrareichen — *Yacht oder nicht Yacht*.
+
+*Prompt:* New Yorker magazine cover style, Art Deco editorial wit, 1200x500 wide banner. A colossal gleaming luxury superyacht filling most of the frame like a floating palace with tiny champagne figures, while minuscule ordinary people stand on a small shore looking up; opulence versus scale. Deco gold, navy, cream, elegant flat editorial illustration, gentle satire. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer ist das?

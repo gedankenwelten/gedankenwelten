@@ -7,6 +7,16 @@ tags: [denker-vita, neurowissenschaft, philosophie, psychologie, pädagogik, pot
 
 # Gerald Hüther — DenkerVita
 
+![[assets/Gerald-Huether-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hundertwasser** — Organische Spiralen, keine geraden Linien, satte Ornamentik: ein Gehirn erblüht zu einem Baum aus bunten Spiralen, eine kleine Kind-Figur entfaltet sich wie eine Knospe, warme Strahlen der Begeisterung nähren das Wachstum. Hundertwassers humanistische Farbfreude trägt Hüthers Kern — Potenzialentfaltung und Begeisterung als „Dünger fürs Gehirn".
+
+*Prompt:* Hundertwasser style, organic spirals, no straight lines, vivid ornament, 1200x500 wide banner. A brain blossoming into a flowering tree of colourful spirals, a small child-figure unfolding like a bud, rays of warm enthusiasm as golden light nourishing the growth; potential unfolding. Saturated jewel colours, golden onion-dome spirals, joyful humanistic ornament. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

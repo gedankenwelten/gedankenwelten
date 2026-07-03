@@ -7,6 +7,16 @@ aktualisiert: 2026-06-08
 
 # Ernesto Laclau — DenkerVita
 
+![[assets/Ernesto-Laclau-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**David Alfaro Siqueiros (mexikanischer Muralismus)** — Eine anschwellende Menge mit vielen verschiedenen Schildern, die sich über eine Kette zu einem langen Banner verbinden, hin zu einem leeren Kreis im Zentrum; erhobene Fäuste, dramatische Verkürzung. Der argentinische Muralismus trägt Laclaus Hegemonietheorie — die Äquivalenzkette der Forderungen um den leeren Signifikanten.
+
+*Prompt:* David Alfaro Siqueiros Mexican muralism style, dramatic foreshortening, surging masses, 1200x500 wide banner. A great crowd surging forward holding many different placards and symbols that link by a chain into one long banner toward a single empty circular sign at the centre; raised fists, dynamic perspective. Earthy reds, ochre, black, muscular monumental movement. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Ernesto Laclau** (1935–2014) war ein argentinisch-britischer Politiktheoretiker, der die post-marxistische Hegemonie- und Populismustheorie wesentlich prägte. Zusammen mit Chantal Mouffe entwickelte er an der University of Essex die Diskurstheorie, die Macht, Identität und demokratische Antagonismen radikal neu dachte — nicht als natürliche Gegebenheiten, sondern als offene, umstrittene diskursive Konstruktionen. Sein Werk steht an der Schnittstelle von Marxismus, Poststrukturalismus (Saussure, Derrida) und Psychoanalyse (Lacan) und hat linke Bewegungen von Podemos bis zu kirchneristischen Populismen inspiriert.
 

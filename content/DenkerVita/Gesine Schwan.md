@@ -7,6 +7,16 @@ tags: [denker-vita, demokratie, philosophie, macht, deutschland]
 
 # Gesine Schwan — DenkerVita
 
+![[assets/Gesine-Schwan-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Jacob Lawrence** — Kräftige flache Gouache-Flächen, Gemeinschaftserzählung: ein Kreis vielfältiger Bürger um einen runden Tisch im lebhaften Gespräch, eine Taube und ein Kranz europäischer Sterne darüber, kleine Häuser dahinter — Demokratie von unten. Lawrences warme Erzählform trägt Schwans Demokratietheorie und ihre kommunalen Entwicklungsbeiräte.
+
+*Prompt:* Jacob Lawrence style, bold flat gouache panels, community narrative, 1200x500 wide banner. A circle of diverse citizens gathered around a round table in lively discussion, a dove and a ring of European stars above, small town houses behind; democracy built from below. Warm earth reds, ochre, teal, black, flat expressive shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Gesine Schwan** (*1943, Berlin*) — Politikwissenschaftlerin, Philosophin und Demokratietheoretikerin. Eltern im Widerstand gegen den Nationalsozialismus — dieser Auftrag prägt ihr gesamtes Werk. Hauptfach Philosophie, Vertiefung in politische Ideengeschichte; geprägt von Ernst Fraenkel und Richard Löwenthal. Präsidentin der Europa-Universität Viadrina Frankfurt (Oder). Zweifache SPD-Kandidatin für das Bundespräsidentenamt (2004 und 2009). Heute Leiterin der **Berlin Governance Platform**, die kommunale Entwicklungsbeiräte in Deutschland aufbaut.
 >

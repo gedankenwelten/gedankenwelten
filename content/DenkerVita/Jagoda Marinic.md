@@ -7,6 +7,16 @@ tags: [denker-vita, meinungsfreiheit, gesellschaft, deutschland, literatur]
 
 # Jagoda Marinić — DenkerVita
 
+![[assets/Jagoda-Marinic-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Henri Matisse (Scherenschnitt, „Jazz")** — Zwei farbige Ufer, verbunden durch eine Brücke aus tanzenden Buchstaben und Blättern, ein Koffer, der zu Blumen aufblüht — freudige hybride Identität zwischen zwei Heimaten. Matisse' ausgeschnittene Formen tragen Marinićs Thema: Herkunft, Sprache und Zugehörigkeit zwischen Kroatien und Deutschland.
+
+*Prompt:* Henri Matisse cut-out collage style, Jazz series, bold organic paper shapes, 1200x500 wide banner. Two colourful shores joined by a bridge of dancing letters and leaves, a suitcase blossoming into flowers, joyful hybrid identity between two homelands. Vivid blue, coral, yellow, green on cream, flat cut-paper shapes, exuberant. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Jagoda Marinić** ist Schriftstellerin, Kulturjournalistin, Essayistin und Podcasterin. Sie verband von Anfang an journalistische Präzision mit erzählerischer Kraft – ihre Kolumnen und Essays erscheinen regelmäßig im *Stern*, in der *Süddeutschen Zeitung*, der *Frankfurter Rundschau*, der *taz* und international in der *New York Times*.

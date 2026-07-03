@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, macht, prekaritaet, queer-theorie]
 
 # Isabell Lorey — DenkerVita
 
+![[assets/Isabell-Lorey-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Oskar Schlemmer (Bauhaus)** — Stilisierte Röhrenfiguren balancieren prekär auf dünnen, kippenden Plattformen und einem Seil über einem unsicheren Gitterboden, in fragilem Gleichgewicht gehalten von feinen Führungslinien von oben. Schlemmers geometrische Bühne trägt Loreys Denken — die Regierung der Prekären.
+
+*Prompt:* Oskar Schlemmer Bauhaus style, geometric mannequin figures, stage-like space, 1200x500 wide banner. Several stylised tubular figures balancing precariously on thin tilting platforms and a tightrope over an uncertain grid floor, held in fragile equilibrium by faint guiding lines from above; the governed precarious. Muted rose, grey, blue, ochre, clean geometric abstraction. No photorealism, no realistic faces.
+
+</details>
+
 → Gedankenwelten-Notes: [[Demirovic und Lorey — Foucaults Gouvernementalitaet]]
 
 ---

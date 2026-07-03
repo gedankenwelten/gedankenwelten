@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, postmoderne, erkenntnistheorie, sprachphilosoph
 
 # Jean-François Lyotard — DenkerVita
 
+![[assets/Jean-Francois-Lyotard-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Robert Rauschenberg (Combine-Collage)** — Ein bröckelndes klassisches Monument mit einem zerrissenen großen Banner zerfällt in viele kleine überlagerte Fragmente kleiner Geschichten, Tickets, Karten und Sprachfetzen. Rauschenbergs geschichtete Montage trägt Lyotards Kern — die Skepsis gegenüber den großen Erzählungen.
+
+*Prompt:* Robert Rauschenberg combine collage style, layered fragments, 1200x500 wide banner. A crumbling classical monument labelled with a torn grand banner breaking apart into many small overlapping fragments of little stories, tickets, maps and language scraps; incredulity toward grand narratives. Faded print, ochre, grey, splashes of red and blue, layered silkscreen texture. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Jean-François Lyotard** (*10. August 1924, Versailles — †21. April 1998, Paris*) — Der Philosoph der Postmoderne, Begründer einer neuen Sprachphilosophie und einer der Denker, gegen den sich die gesamte Frankfurter Schule aufbäumte.
 >

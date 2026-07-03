@@ -7,6 +7,16 @@ tags: [denker-vita, soziologie, generationen, deutschland]
 
 # Heinz Bude
 
+![[assets/Heinz-Bude-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Edvard Munch (Expressionismus)** — Eine Menge kleiner gebeugter Silhouetten auf einer Brücke unter einem wirbelnden blutorange-grünen Himmel kollektiver Angst, lange zitternde Schatten, eine schwere Stimmung drückt herab. Munchs „Angst"-Register trägt Budes Soziologie der Stimmungen — die Gesellschaft der Angst.
+
+*Prompt:* Edvard Munch expressionist style, swirling anxious sky, 1200x500 wide banner. A crowd of small hunched silhouettes on a bridge under a churning blood-orange and green sky of collective anxiety, long wavering shadows, a heavy mood pressing down; the society of fear. Lurid orange, sickly green, deep blue, undulating expressive brushwork. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

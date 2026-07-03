@@ -7,6 +7,16 @@ tags: [denker-vita, energiepolitik, deutschland, wirtschaft, geopolitik]
 
 # Jan Hegenberg — DenkerVita
 
+![[assets/Jan-Hegenberg-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Roy Lichtenstein (Pop-Comic)** — Ein knalliges Comic-Panel: ein Windrad und eine strahlende Sonne sprengen mit einem POW-Blitz dunkle Fossil-Rauchwolken und Mythen-Sprechblasen weg, eine freche Batterie mit Daumen-hoch. Lichtensteins Ben-Day-Punkte tragen Hegenbergs Ton — den Graslutscher-Witz, mit dem er Energiemythen entkräftet.
+
+*Prompt:* Roy Lichtenstein pop art comic style, Ben-Day dots, bold outlines, 1200x500 wide banner. A bright comic panel where a wind turbine and a shining sun blast a POW burst that scatters dark fossil-fuel smoke clouds and myth speech-bubbles, a cheeky battery giving a thumbs shape; witty energy optimism. Primary red, yellow, blue, black, halftone dots. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 - **Beruf:** Blogger, Autor, Wissenschaftskommunikator

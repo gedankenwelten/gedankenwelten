@@ -10,6 +10,18 @@ tags:
   - deutschland
 ---
 
+# Georg Wilhelm Friedrich Hegel — DenkerVita
+
+![[assets/Georg-Wilhelm-Friedrich-Hegel-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**William Blake (visionär)** — Eine große aufsteigende Spirale aus Geschichte und Geist steigt in der Dämmerung zu einem strahlenden Kreis des Absoluten empor, eine Eule der Minerva erhebt sich, dialektische Figuren verschmelzen im Aufstieg. Blakes mythische Energie trägt Hegels Dialektik — der Geist, der sich durch die Geschichte zu sich selbst entfaltet.
+
+*Prompt:* William Blake visionary style, luminous mythic energy, swirling forms, 1200x500 wide banner. A great ascending spiral of history and spirit rising toward a radiant circle of the Absolute at dusk, an owl of Minerva taking flight, dialectical figures merging as they rise. Deep twilight blue, gold, rose, glowing watercolour and ink, cosmic and grand. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

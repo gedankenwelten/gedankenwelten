@@ -7,6 +7,16 @@ tags: [denker-vita, wirtschaft, soziale-ungleichheit, philosophie, deutschland]
 
 # Fabian Pfeffer — DenkerVita
 
+![[assets/Fabian-Pfeffer-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Piet Mondrian (Neoplastizismus)** — Ein asymmetrisches Gitter, in dem wenige große Gold- und Rotblöcke über vielen winzigen Zellen thronen, ein dünner goldener Erbschafts-Faden fädelt sich vom großen Block durch die Generationen kleiner Zellen. Mondrians ungleiche Blöcke tragen Pfeffers Thema — Vermögensungleichheit als vererbte Struktur.
+
+*Prompt:* Piet Mondrian neoplasticism style, black grid and colour blocks, 1200x500 wide banner. An asymmetric grid where a few large gold and red blocks tower over many tiny ones, a thin golden inheritance line threading from a big block down through generations of smaller cells; wealth distribution as structure. Primary red, blue, yellow, gold accent, white, thick black lines. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Fabian T. Pfeffer** — Soziologieprofessor an der Ludwig-Maximilians-Universität (LMU) München, Gründungsdirektor des Munich International Stone Center for Inequality Research (ISI). Forscht zu Vermögensungleichheit, intergenerationalen Effekten und den strukturellen Mechanismen, durch die Vermögenskonzentration Demokratie und gesellschaftliches Engagement gefährdet.
 

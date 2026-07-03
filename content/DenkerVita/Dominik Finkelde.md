@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, poststrukturalismus]
 
 # Dominik Finkelde — DenkerVita
 
+![[assets/Dominik-Finkelde-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Max Ernst (Surrealismus)** — Ein verzierter Spiegel mit blitzartigem Riss, durch den ein sternendunkler Abgrund scheint, ein gazeartiger Vorhang, eine angelehnte Tür ins Dunkle. Ernsts unheimliche Frottage-Welt trägt Finkeldes Denken zwischen Lacan und Žižek — der Riss, durch den das Reale in die Ordnung des Wissens bricht.
+
+*Prompt:* Max Ernst surrealist frottage style, uncanny dreamlike, 1200x500 wide banner. A tall ornate mirror standing in a bare room with a jagged lightning crack across the glass, revealing a dark starry depth behind it; a thin gauzy curtain drifting aside, a small door ajar onto shadow. Muted umber, bone white, deep indigo, textured surfaces, enigmatic. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

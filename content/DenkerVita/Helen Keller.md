@@ -7,6 +7,16 @@ tags: [denker-vita, völkerrecht, philosophie, demokratie, geopolitik, schweiz]
 
 # Helen Keller — DenkerVita
 
+![[assets/Helen-Keller-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Bleiglasfenster (Stained Glass)** — Ein leuchtender Globus in einem Geflecht feiner Fäden aus Völkerrecht und Verträgen, eine Waage und ein Olivenzweig, Tauben zwischen kooperierenden Nationen-Feldern — Ordnung, getragen vom eigenen Interesse der Staaten. Das sakrale Glaslicht trägt die Völkerrechtlerin Keller und ihren nüchtern-hoffnungsvollen Blick auf das Recht.
+
+*Prompt:* Luminous stained-glass style, leaded glass panels, 1200x500 wide banner. A glowing globe held within a lattice of fine interwoven threads of international law and treaties, a balance of scales and an olive branch, doves passing between nation-panels that cooperate; order upheld by mutual interest. Deep cobalt, emerald, ruby, gold leading, radiant backlight. No photorealism, no realistic faces.
+
+</details>
+
 > *"Die allermeisten Staaten halten in den allermeisten Fällen das allermeiste Völkerrecht ein — weil sie ein eigenes Interesse daran haben."*
 
 ## Biografie

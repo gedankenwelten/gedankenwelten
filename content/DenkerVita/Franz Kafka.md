@@ -5,6 +5,18 @@ aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, existenzialismus, literatur]
 ---
 
+# Franz Kafka — DenkerVita
+
+![[assets/Franz-Kafka-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Alfred Kubin (dunkle Tuschzeichnung)** — Ein endloser Korridor hoch aufragender Amtstüren, der zu einem weiten beschatteten Schloss zurückweicht, eine winzige einsame Figur vor einer riesigen Tür, ein schwacher Käferschatten am Boden. Kubins albtraumhafte Feinschraffur — kongenial zu Kafka selbst — trägt die Welt aus Bürokratie, Schuld und Labyrinth.
+
+*Prompt:* Alfred Kubin dark ink drawing style, nightmarish uncanny, fine hatching, 1200x500 wide banner. An endless corridor of towering bureaucratic doors receding to a vast shadowed castle, a tiny lone figure standing before one immense door, a faint beetle shadow on the floor; guilt and labyrinth. Ink black, sepia, grey wash, oppressive perspective, eerie. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

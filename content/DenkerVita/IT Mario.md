@@ -7,6 +7,16 @@ tags: [denker-vita, technologie, ki, demokratie, deutschland]
 
 # IT Mario — DenkerVita
 
+![[assets/IT-Mario-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Editorial-Daten-Illustration** — Klare Balken- und Liniendiagramme steigen aus einer Tabelle roher Daten, eine Lupe legt transparente Zahlen frei, Cursor und Code-Klammern — Daten ehrlich und reproduzierbar gemacht. Der nüchtern-grafische Stil trägt IT Marios Markenzeichen: öffentliche Rohdaten, nachvollziehbare Methode.
+
+*Prompt:* Flat modern editorial data-illustration, clean bold infographic, 1200x500 wide banner. Crisp bar charts and line graphs rising from a table of raw data spreadsheets, a magnifying glass revealing transparent numbers, a cursor and open brackets of code; data made honest and reproducible. Teal, warm orange, charcoal on cream, precise vector shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **IT Mario** — Datenanalyst und Data-Science-Content-Creator. Kein akademischer Hintergrund in Politikwissenschaft, aber methodische Transparenz als Markenzeichen: öffentliche Rohdaten, nachvollziehbare Prompts, reproduzierbare Ergebnisse.
 >
