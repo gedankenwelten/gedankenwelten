@@ -7,6 +7,16 @@ tags: [denker-vita, energiewende, strommarkt, batterie, deutschland, wirtschaft]
 
 # Dirk Specht — DenkerVita
 
+![[assets/Dirk-Specht-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Konstruktivistisches Elektrifizierungs-Plakat** — Strommasten und Leitungen queren das Bild, eine Preiskurve aus Blitzen, ein großer Schalter und Zahnräder — das Design eines Strommarktes. Der Sowjet-Elektrifizierungs-Duktus in Rot-Schwarz trägt den Medienökonomen Specht und seinen Fokus auf Energiewende und Strommarktkonstruktion.
+
+*Prompt:* Soviet electrification constructivist poster, El Lissitzky influence, 1200x500 wide banner. Bold electricity pylons and transmission lines crossing the frame, a rising and falling market price curve made of lightning, a large power switch and gear; the design of an electricity market. Red, black, cream, electric yellow, sharp diagonals and geometric agitation. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Dirk Specht** ist Aufsichtsrat und Unternehmer im Digital- und Energiesektor, sowie Dozent für Medienökonomie. Mit breiter Erfahrung in Medien, Finanzwirtschaft und Technologie prägt er den deutschsprachigen Diskurs zu Energiewende und Strommarktkonstruktion.

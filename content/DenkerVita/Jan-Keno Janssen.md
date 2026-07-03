@@ -7,6 +7,16 @@ tags: [denker-vita, technologie, ki, journalismus, deutschland]
 
 # Jan-Keno Janssen — DenkerVita
 
+![[assets/Jan-Keno-Janssen-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Atomic-Age Technik-Handbuch (1960er)** — Eine Hand mit Schraubenzieher öffnet ein leuchtendes Gerät und legt Platinen und Zahnräder frei, eine skeptische Lupe über einem aufgeblähten Marketing-Stern, Explosionszeichnungs-Linien. Der retro-futuristische Handbuchstil trägt Janssens kritischen Tech-Journalismus — feiert keine Produkte, seziert die Absurditäten.
+
+*Prompt:* Atomic-age 1960s tech-manual illustration style, retro-futurist, 1200x500 wide banner. A hand with a screwdriver prying open a glowing gadget to reveal circuit boards and gears inside, a skeptical magnifying glass over an inflated marketing star, exploded-diagram lines; critical curiosity about technology. Teal, orange, cream, thin retro linework. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

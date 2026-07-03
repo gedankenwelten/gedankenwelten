@@ -12,6 +12,16 @@ tags:
 
 # Franziska Görlitz — DenkerVita
 
+![[assets/Franziska-Goerlitz-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**El Lissitzky (Konstruktivismus)** — Ein scharfer roter Paragraphen-Keil durchstößt ein großes schwarzes Überwachungsauge aus Kameralinsen und Datengittern; kleine Bürger-Kreise geschützt hinter dem Keil. Lissitzkys Agitprop-Energie („Beat the Whites with the Red Wedge") trägt Görlitz' Verfassungsklagen gegen Massenüberwachung und algorithmische Diskriminierung.
+
+*Prompt:* El Lissitzky constructivism, Beat the Whites with the Red Wedge energy, 1200x500 wide banner. A sharp red paragraph-symbol wedge piercing a large black all-seeing surveillance eye made of camera lenses and data grids; small citizen circles sheltered behind the wedge. Red, black, cream, dynamic geometric abstraction. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer ist sie?
 > **Franziska Görlitz** ist Volljuristin und Verfahrenskoordinatorin bei der Gesellschaft für Freiheitsrechte (GFF). Sie spezialisiert sich auf strategische Verfassungsbeschwerden gegen polizeiliche Massenüberwachung und algorithmische Diskriminierung. Mit ihren Klagen hat sie maßgeblich dazu beigetragen, dass das Bundesverfassungsgericht 2023 erstmals klare Maßstäbe für automatisierte Datenanalysen bei der Polizei gesetzt hat.
 >

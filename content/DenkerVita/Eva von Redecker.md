@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, kapitalismus-kritik, faschismus, feminismus, de
 
 # Eva von Redecker — DenkerVita
 
+![[assets/Eva-von-Redecker-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Marc Chagall** — Traumhaft-poetische Volkskunst: warme Hände wiegen einen grünen Setzling über einer verwurzelten Dorfgemeinschaft, eine Frühlingsblüte steigt gegen einen kalten grauen Steinblock der Härte, schwebende zärtliche Figuren. Chagalls lyrische Wärme trägt Redeckers „Revolution für das Leben" — Sorge, Verwurzelung und der Widerstand gegen den Drang nach Härte.
+
+*Prompt:* Marc Chagall style, dreamlike folk poetry, floating tender figures, 1200x500 wide banner. Warm hands cradling a green seedling above a small rooted rural community of little houses and trees, a spring blossom rising against a cold grey stone block of hardness; life and rootedness. Deep blue night, warm red, green, glowing yellow, lyrical floating composition. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

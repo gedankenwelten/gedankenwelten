@@ -7,6 +7,16 @@ tags: [denker-vita, geschichte, nationalsozialismus]
 
 # Götz Aly — DenkerVita
 
+![[assets/Goetz-Aly-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**John Heartfield (antifaschistische Fotomontage)** — Eine düstere Collage aus Rechnungsbüchern und Lebensmittelmarken, aufgetürmt zu einem Sockel, ein Adlerschatten über Münzen und Marken, die den Besitzer wechseln — die Maschinerie der erkauften Mittäterschaft. Heartfields scharfe Montage trägt Alys These vom „Volksstaat", der Loyalität kaufte.
+
+*Prompt:* John Heartfield anti-fascist photomontage style, dark, 1200x500 wide banner. A grim collage of accounting ledgers and ration coupons stacked into a pedestal, a looming eagle shadow over ordinary coins and stamps changing hands, a cold bureaucratic order; the machinery of bought complicity. Black, sepia, blood red accent, sharp cut-paper montage. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

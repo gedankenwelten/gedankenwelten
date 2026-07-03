@@ -7,6 +7,16 @@ tags: [denker-vita, demokratie, geopolitik, osteuropa, philosophie]
 
 # Ivan Krastev — DenkerVita
 
+![[assets/Ivan-Krastev-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Kasimir Malewitsch (Suprematismus)** — Ein großes weißes Quadrat und ein rotes Quadrat, getrennt durch einen zackigen schwarzen Riss, dünne Pfeile der Imitation reichen vom Roten zum Weißen, ein Europa-Kartenfragment zwischen den Formen. Die suprematistische Geometrie trägt Krastevs These — die illiberale Wende als Rebellion gegen den Zwang zur Imitation.
+
+*Prompt:* Kazimir Malevich Suprematism style, floating geometric planes, 1200x500 wide banner. A large white square on one side and a red square on the other separated by a jagged black crack, thin arrows of imitation reaching from the red toward the white, a fractured map-fragment of Europe among the shapes; imitation and its resentment. White, red, black on warm cream, dynamic diagonal suprematist composition. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Ivan Krastev** (*1965, Bulgarien*) — Politikwissenschaftler und einer der einflussreichsten Analytiker der liberalen Demokratiekrise in Osteuropa und weltweit. Chairman des Centre for Liberal Strategies (Sofia), Albert Hirschman Permanent Fellow am Institut für die Wissenschaften vom Menschen (Wien), Gründungsmitglied des European Council on Foreign Relations. Krastevs zentrale These: Die illiberale Wende in Osteuropa und der globale Populismus sind nicht Rückfall in die Vormoderne, sondern Rebellion gegen das post-1989-Versprechen, westliche Modelle zu imitieren — eine Demütigung, deren Ressentiment sich nun gegen die Demokratie selbst richtet.
 >
