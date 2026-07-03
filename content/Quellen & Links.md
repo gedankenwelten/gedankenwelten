@@ -6,6 +6,13 @@ tags:
   - links
 ---
 
+## Gekaperte Zeichen (Panorama)
+
+| | |
+|---|---|
+| **Artikel** | [SPLC — OK sign: white power symbol or right-wing troll?](https://www.splcenter.org/resources/hatewatch/ok-sign-white-power-symbol-or-just-right-wing-troll/) · [ADL — How the "OK" Symbol Became a Popular Trolling Gesture](https://www.adl.org/resources/article/how-ok-symbol-became-popular-trolling-gesture) · [ADL — Okay Hand Gesture (Hate on Display)](https://www.adl.org/resources/hate-symbol/okay-hand-gesture) · [NPR — The 'OK' Hand Gesture Is Now Listed As A Symbol Of Hate](https://www.npr.org/2019/09/26/764728163/the-ok-hand-gesture-is-now-listed-as-a-symbol-of-hate) |
+| **Notiz** | [[Panorama/Gekaperte Zeichen]] |
+
 ## Maoz Inon & Aziz Abu Sarah — The Future is Peace
 
 | | |
