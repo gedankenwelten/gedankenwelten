@@ -11,6 +11,16 @@ tags:
 
 # Liya Yu — DenkerVita
 
+![[assets/Liya-Yu-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Zeitgenössische neuro-editoriale Illustration** — Zwei einander zugewandte Kopfprofile als leuchtende neuronale Netze; dazwischen eine warme Lichtbrücke, wo sie einander als Mensch erkennen, gegenüber eine kalte graue Wand aus Störrauschen, wo Entmenschlichung beginnt. Das neuronale Motiv trägt Liya Yus Neuropolitik — die Hirnbasis von Anerkennung und Dehumanisierung.
+
+*Prompt:* Contemporary flat conceptual editorial illustration, 1200x500 wide banner. Two facing human head profiles rendered as glowing neural networks; between them a warm bridge of light where they recognise each other as human, on the other side a cold grey wall of static where dehumanisation begins. Deep indigo, warm gold bridge, cold grey, clean neural line-work. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

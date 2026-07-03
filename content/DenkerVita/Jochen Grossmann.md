@@ -7,6 +7,16 @@ tags: [denker-vita, energie, ingenieurskultur, deutschland, energiewende, techno
 
 # Prof. Dr.-Ing. Jochen Großmann — DenkerVita
 
+![[assets/Jochen-Grossmann-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Technische Blaupause (Cyanotypie)** — Weiße Ingenieurslinien auf tiefem Blau: das Schema eines Energie- und Verfahrenssystems mit Turbinen, Wärmekreisläufen, Effizienz-Flusspfeilen und Emissionsfiltern, Maßangaben und Anmerkungen. Der Blaupausen-Duktus trägt Großmanns ingenieurhaften Blick auf Energieeffizienz und Systemoptimierung.
+
+*Prompt:* Technical blueprint cyanotype style, white engineering lines on deep blue, 1200x500 wide banner. A precise schematic of an energy and process-engineering system: turbines, heat-exchange loops, efficiency flow arrows and emission filters connected as an optimised plant diagram, dimension marks and annotations. Blueprint blue, white line, faint grid. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Jahrgang:** 1958 (DDR, sozialisiert an der TU Dresden)

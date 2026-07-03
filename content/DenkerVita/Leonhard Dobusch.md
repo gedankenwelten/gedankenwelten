@@ -7,6 +7,16 @@ tags: [denker-vita, medien, demokratie, österreich, organisation, digitales]
 
 # Leonhard Dobusch — DenkerVita
 
+![[assets/Leonhard-Dobusch-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**De Stijl / Bauhaus (flache Geometrie)** — Ein öffentlich-rechtliches Medien-Allmende als Sendeturm und offener Buch-Baum des Wissens, geschützt in einem Schild, Remix-Pfeile kreisen darum, vielfältige Beitragende speisen es. Die klare Primärgeometrie trägt Dobuschs These — Medien als digitale Allmende, bewusst gegen Faschismus immunisiert.
+
+*Prompt:* De Stijl and Bauhaus flat geometric style, clean primary planes, 1200x500 wide banner. A shared public-media commons shown as a broadcast tower and an open book-tree of knowledge protected inside a shield, remix arrows looping around it, small diverse contributor icons feeding in; digital commons defended. Primary red, blue, yellow, black grid on cream, clean geometric. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > Leonhard Dobusch ist österreichischer Wirtschaftswissenschaftler und Professor für Betriebswirtschaftslehre (Schwerpunkt Organisation) an der Universität Innsbruck. Er forscht zu öffentlich-rechtlichen Medien, digitalen Gemeinschaften und der Widerstandsfähigkeit demokratischer Institutionen gegen faschistische Angriffe. Als Mitglied des ZDF-Verwaltungsrats und Co-Founder des Momentum Instituts ist er einer der sichtbarsten Stimmen für digitale Demokratie und mediale Transparenz im deutschsprachigen Raum. Seine zentrale These: Medien müssen bewusst gegen Faschismus immunisiert werden — nicht durch Appeasement, sondern durch klare Kante.
 

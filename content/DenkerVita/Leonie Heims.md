@@ -5,6 +5,16 @@ tags: [denker-vita, rechtsextremismus, desinformation, deutschland]
 
 # Leonie Heims — DenkerVita
 
+![[assets/Leonie-Heims-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Retro-Pulp-Science-Fiction-Comic** — Ein trockener Strahl klaren Lichts schneidet durch einen Wirbel entkräfteter Verschwörungs-Icons — fliegende Untertasse, Hohlwelt-Querschnitt, Cartoon-Reptiloid, Okkultrunen —, die sich in Fragezeichen auflösen; Mythen mit Fakten und Humor begegnet. Der Pulp-Stil trägt Heims' Aufklärungsarbeit gegen das souveränistische Milieu.
+
+*Prompt:* Retro pulp science-fiction comic style, bold outlines and halftone, 1200x500 wide banner. A wry beam of clear light cutting through a swirl of debunked conspiracy icons — a flying saucer, a hollow-earth cross-section, a cartoon reptilian, occult runes — that dissolve into question marks; myths met with facts and humour. Lurid green, purple, orange, black, comic energy. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

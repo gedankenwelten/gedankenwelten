@@ -7,6 +7,16 @@ tags: [denker-vita, europa, sicherheitspolitik, fdp]
 
 # Marie-Agnes Strack-Zimmermann — DenkerVita
 
+![[assets/Marie-Agnes-Strack-Zimmermann-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Konstruktivistisches Bürger-Plakat** — Ein entschlossener Schutzschild, gekreuzt mit einem Olivenzweig, vor einem NATO-artigen Kompass-Stern und einem fernen Wall, ein blau-gelbes Solidaritätsband; entschlossene Sicherheit und Verteidigung. Die kraftvolle Plakatgeometrie trägt Strack-Zimmermanns sicherheitspolitische Rolle und ihre Ukraine-Unterstützung.
+
+*Prompt:* Bold constructivist civic poster style, strong diagonals, 1200x500 wide banner. A resolute protective shield crossed with an olive branch before a NATO-like compass star and a distant defensive rampart, a Ukrainian-blue-and-yellow ribbon of solidarity; determined security and defence. Steel blue, gold, red, black, cream, powerful poster geometry. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

@@ -5,6 +5,16 @@ tags: [denker-vita, usa, oligarchie, finanzwelt]
 
 # Leon Black — DenkerVita
 
+![[assets/Leon-Black-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Noir-Chiaroscuro (Editorial)** — Ein hoher Stapel Goldmünzen und eine marmorne Finanzsäule werfen einen langen Schatten über den polierten Boden hin zu einer geschlossenen Tür — Reichtum und Verschwiegenheit. Der Noir-Kontrast trägt das Zurückhaltende dieser Vita: benannt wird das Belegte, gewahrt bleibt die Unschuldsvermutung.
+
+*Prompt:* Noir chiaroscuro editorial illustration, dramatic single light source, 1200x500 wide banner. A towering stack of gold coins and a tall marble financial column casting a long shadow across a polished floor toward a distant closed door; wealth and concealment. Deep black, cold gold, grey, strong contrast, still and restrained. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Kein Denker, sondern eine Figur des Geldes
 > Leon Black hat kein Werk geschrieben, keine These formuliert. Er steht hier, weil sein Name immer
 > wieder im Epstein-Komplex auftaucht — als Mann, der dem verurteilten Sexualstraftäter über Jahre

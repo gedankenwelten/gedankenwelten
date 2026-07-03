@@ -5,6 +5,18 @@ aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, ethik, china]
 ---
 
+# Konfuzius — DenkerVita
+
+![[assets/Konfuzius-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Klassische chinesische Tuschmalerei (Shan Shui)** — Nebelverhangene Berge und ein gewundener Pfad, ein Gelehrtenpavillon zwischen Bambus, ein Kranich im Flug, fließender Kalligrafie-Pinselstrich und ein rotes Siegel. Die klassische Landschaftsmalerei trägt Konfuzius' Kern — Harmonie, Ritual (li) und der geordnete Weg.
+
+*Prompt:* Classical Chinese ink landscape shan shui style, 1200x500 wide banner. Misty layered mountains and a winding path, a small scholar pavilion among bamboo, a crane in flight, flowing calligraphic brushwork and a single red seal; harmony, ritual and the ordered way. Black ink washes, soft grey mist, cream silk, one vermilion seal. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

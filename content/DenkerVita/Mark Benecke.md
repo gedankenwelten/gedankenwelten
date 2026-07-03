@@ -7,6 +7,16 @@ tags: [denker-vita, naturwissenschaft, klimawandel, deutschland, wissenschaftsko
 
 # Mark Benecke — DenkerVita
 
+![[assets/Mark-Benecke-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Viktorianische entomologische Tafel mit Punk-Kante** — Präzise gezeichnete Käfer, Schmeißfliegen und ein Maden-Lebenszyklus rund um eine große Lupe über einem stilisierten Schädel und forensischer Pinzette, feine Tattoo-Ornamente. Die naturkundliche Tafel mit dunklem Einschlag trägt Beneckes forensische Entomologie und seinen rationalen Skeptizismus — „Dr. Made".
+
+*Prompt:* Vintage 19th-century entomological plate style with a dark punk edge, 1200x500 wide banner. Precisely drawn beetles, blow-flies and a maggot life-cycle arranged around a large magnifying glass over a stylised skull and forensic tweezers, faint tattoo-style flourishes; forensic entomology and rational skepticism. Aged cream paper, sepia ink, deep green and blood-red accents, fine scientific linework. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 - **Beruf:** Kriminalbiologe, forensischer Entomologe, Wissenschaftskommunikator, Autor

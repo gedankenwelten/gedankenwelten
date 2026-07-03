@@ -7,6 +7,16 @@ tags: [denker-vita, deutschland, rechtsextremismus, deradikalisierung, youtube, 
 
 # Marcant — DenkerVita
 
+![[assets/Marcant-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Stencil-Street-Art** — Ein Smartphone auf Stativ streamt einen hellen Lichtstrahl, der eine Wolke aus dunklen Desinformations-Klumpen zerstreut, ein leuchtendes Herz-Schild der Solidarität daneben, ein erhobenes Megafon; jugendlicher digitaler Aktivismus für die Demokratie. Der Schablonen-Stil trägt Marcants Arbeit gegen rechts.
+
+*Prompt:* Bold stencil street-art style, spray-paint edges, 1200x500 wide banner. A smartphone on a tripod streaming a bright beam of light that scatters a cloud of dark shadowy misinformation blobs, a heart-shield emblem of solidarity glowing beside it, a raised megaphone; youthful digital activism for democracy. Black stencil, red and teal spray accents, cream wall texture. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Name:** Marc (Vorname, Nachname nicht öffentlich aus Sicherheitsgründen)
