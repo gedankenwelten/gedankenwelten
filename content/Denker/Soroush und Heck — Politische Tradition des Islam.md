@@ -19,6 +19,16 @@ aliases:
 
 # Soroush und Heck — Kann die politische Tradition des Islam gerettet werden?
 
+![[assets/Soroush-und-Heck-Politische-Tradition-des-Islam-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Persische Miniatur (Isfahan-Schule)** — flache Perspektive, Juwelen-Palette, Gartenpavillon. Die Hand liegt in der Tradition selbst, um die es geht: Soroush ist durch Rumi geprägt, und die Miniatur malt das Gespräch von innen statt es von außen zu vermessen. Die drei Bäume sind Soroushs drei Lebensalter der islamischen Zivilisation; der unfertig auslaufende Rahmen ist die These des Abends — die Tradition ist kein geschlossenes Ornament.
+
+*Prompt (FLUX.2 Pro, fal.ai):* Persian miniature painting, classical Isfahan school style, wide banner composition. Two scholars sit facing each other on an ornate carpet in a lush walled garden, one in flowing Persian robes and white turban, one in a plain dark Western coat, tea glasses and open books between them. Behind them three trees in a row: a young sapling, a middle tree hung with pages of calligraphy, a great blossoming tree full of nightingales. Flat perspective, no shadows, jewel-tone palette of lapis blue, turquoise, gold leaf and coral red. A richly ornamented geometric border frames the scene but is left unfinished and open at the lower right corner. Stylized faces in classical miniature manner, no realistic faces, no photorealism, fine detailed brushwork.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Muslim und ein Katholik fragen, was vom politischen Erbe des Islam zu retten ist — nicht die Identität, nicht das Gesetz, sondern die Werte: Gerechtigkeit und Freiheit. Georgetown, März 2008: Der iranische Reformphilosoph Abdolkarim Soroush und der katholische Islamwissenschaftler Paul Heck sitzen nebeneinander und zerlegen die bequemste Erzählung des Jahrzehnts — dass der Dschihadismus das wahre Gesicht des Islam sei. Was sie stattdessen freilegen: eine 1400-jährige Tradition, in der Herrschaft ohne Religion bestehen konnte, aber nie ohne Gerechtigkeit. Und einen wunden Punkt, an dem das Gespräch selbst zeigt, wo die Reform an ihre Grenze stößt.
 

@@ -7,6 +7,16 @@ tags: [denker-vita, islam, demokratie, philosophie, religionsphilosophie, hermen
 
 # Abdolkarim Soroush — DenkerVita
 
+![[assets/Abdolkarim-Soroush-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Kandinsky** — innere Klänge, konzentrische Kreise, Schwingung. Qabz va Bast als sichtbarer Rhythmus: weite goldene Ringe (Expansion) gegen enge dunkle (Kontraktion), dazwischen der Derwisch — Rumis Erbe — und die Messgitter und der Kolben des Naturwissenschaftlers. Die kleine Figur rechts geht ins Exil, am goldenen Faden, der nie reißt.
+
+*Prompt (FLUX.2 Pro, fal.ai):* Abstract painting in the style of Wassily Kandinsky, wide banner composition. A whirling dervish reduced to pure geometry: a white spinning cone skirt at center-left, surrounded by nested concentric circles rippling outward across the canvas — some rings expanding wide in radiant gold, vermilion and ultramarine, others contracting tight and dense in charcoal and violet, like breathing. Thin ruled grid lines and a small chemistry flask outline float among loose calligraphic swirls. On the far right a tiny dark lone figure walks toward the canvas edge along a thin golden line, still connected to the circles by one unbroken curved thread. Cream textured background, strong diagonal energy, vibrating color contrasts, no faces, no photorealism, painterly oil texture.
+
+</details>
+
 ## Biografie
 
 **Geburt:** 16. Dezember 1945 in Teheran
