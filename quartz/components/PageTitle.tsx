@@ -10,7 +10,7 @@ import script from "./scripts/pageTitle.inline"
 // Täglicher Wechsel (siehe pageTitle.inline.ts). Neuen Stil hinzufügen =
 // 2 Bilder ablegen + Schlüssel hier ergänzen. Ziel: Pool durch 3 teilbar
 // (passt gleichmäßig auf ~30 Tage).
-const WORDMARK_STYLES = ["klee", "sumie", "aquarell", "aether", "buntglas"]
+const WORDMARK_STYLES = ["klee", "sumie", "aquarell", "aether", "buntglas", "miniatur"]
 
 const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
