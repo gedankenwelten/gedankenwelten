@@ -16,6 +16,16 @@ aliases:
 
 # Hartmut Rosa — Resonanz und Unverfügbarkeit
 
+![[assets/Hartmut-Rosa-Resonanz-und-Unverfuegbarkeit-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Sonia Delaunay / Orphismus** — rhythmische Farbkreise, simultane Kontraste in Kobalt, Zinnober und Gold; eine Malerei, die Schwingung selbst zur Form macht. Rosas Resonanz ist hier wörtlich gemalt: zwei Eigenleben — Cellistin und Baum — senden ihre Wellenringe aus, und in der Mitte, wo sie sich durchdringen, verwandeln beide einander. Kein Echo, sondern Antwort.
+
+*Prompt:* An orphist abstract painting in the style of Sonia Delaunay: on the left a simplified stylized figure playing a cello, on the right a great tree with a round crown, both rendered in flat curved color planes. Between them, overlapping concentric circles and arcs of vibrating color ripple outward from both sides and interpenetrate in the middle — two wave systems meeting, their rings bending and transforming each other where they touch. Rhythmic simultaneous contrasts of deep cobalt blue, vermilion red, golden yellow, emerald green, cream and black, musical circular geometry, warm and vital. Wide banner composition, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: Vortrag und Diskussion, Europa-Universität Flensburg (YouTube)
 
 > [!info] Wer spricht?

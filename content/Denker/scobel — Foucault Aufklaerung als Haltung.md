@@ -16,6 +16,16 @@ aliases:
 
 # scobel — Foucault: Aufklärung als Haltung
 
+![[assets/scobel-Foucault-Aufklaerung-als-Haltung-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Francisco de Goya** — dunkle Caprichos-Aquatinta, Sepia und Rußschwarz mit einem einzigen kalten Gelblicht. Goya ist die Selbstkritik der Aufklärung mit ihren eigenen Mitteln: Hier tritt eine Gestalt auf unsicheren Beinen aus der Höhle, während die Zurückgebliebenen ihre losen Ketten bequem im Schoß halten — Unmündigkeit als Entscheidung, nicht als Fessel.
+
+*Prompt:* A Goya-style aquatint etching, dark romantic Spanish caprichos manner: a single cloaked figure stepping out of a shadowy cave mouth toward a pale dawn light on the right, walking on unsteady legs; behind in the cave darkness, a row of seated hunched figures who hold their own loose chains comfortably in their laps, illuminated by a small lantern; a broken wooden yoke lying on the rocky ground near the entrance; palette of deep sepia, charcoal black, smoky umber and one cold pale yellow glow, rough etched crosshatching texture, dramatic chiaroscuro, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Foucault: Die Wahrheit über Freiheit, die keiner hören will – scobel](https://www.youtube.com/watch?v=zeKc0D140ic)
 
 > [!info] Wer spricht?

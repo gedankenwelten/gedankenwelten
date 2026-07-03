@@ -19,6 +19,16 @@ aliases:
 
 # Immanuel Kant — Was ist Aufklärung?
 
+![[assets/Immanuel-Kant-Was-ist-Aufklaerung-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**William Blake** — visionärer kolorierter Stich, Gold und Indigo, flammende Wolkenwirbel. Blake ist Kants Zeitgenosse und malte das Licht als geistiges Ereignis: Hier zerreißt die Figur die Gängelfäden der gesichtslosen Vormünder und tritt aus der Höhle in die Sonne — der Ausgang aus selbstverschuldeter Unmündigkeit als Körperbewegung, nicht als Begriff. Sapere aude braucht Mut, und Blakes Linien sind Mut.
+
+*Prompt:* Visionary illustration in the style of William Blake, hand-colored engraving with watercolor: a single robed human figure in the center stepping out of a dark cavern toward a vast radiant sun, breaking thin puppet strings and leading-reins that trail behind into the darkness. In the cave shadows, small hunched figures remain seated, guided on leashes by tall faceless silhouettes holding books and lanterns. Swirling rays of golden and pale yellow light, deep indigo and umber darkness, muscular flowing linework, dramatic flame-like clouds. Sublime, mythic, romantic engraving aesthetic. Wide banner, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Fake News, Experten, Zweifel: Kant hatte recht – scobel](https://www.youtube.com/watch?v=8zMbaYpyZHk)
 Primärtext: Kant, *Beantwortung der Frage: Was ist Aufklärung?* (1784), in: *Berlinische Monatsschrift*
 

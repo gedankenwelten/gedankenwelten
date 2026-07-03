@@ -20,6 +20,16 @@ aliases:
 
 # Götz Aly — Wie konnte das geschehen? Deutschland 1933 bis 1945
 
+![[assets/Goetz-Aly-Wie-konnte-das-geschehen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Anselm Kiefer** — deutsche Erinnerungsarbeit in Asche, Blei und Stroh, monumentale verbrannte Felder mit Kreideschrift im Himmel. Alys Frage verlangt keine Karikatur, sondern die Landschaft danach: die zurückgelassenen Dinge der Deportierten — Kochtopf, Bücher, Stuhl, Tasse, leerer Rahmen — halb begraben in den Furchen, während am Horizont noch Feuer steht. Die Verstrickung als Stillleben der Beute.
+
+*Prompt:* A monumental mixed-media painting in the style of Anselm Kiefer: a vast scorched grey-brown field under a heavy leaden sky, deep furrows converging toward a distant burnt horizon. Half-buried in the ash and straw of the field lie abandoned household objects — an overturned cooking pot, a stack of books, a wooden chair, a china cup, an empty picture frame — each casting a long shadow. Faint chalk-white handwriting drifts across the sky like a scrawled question. Thick impasto textures of ash grey, burnt umber, lead, rust and straw yellow, cracked earthlike paint surface, no human figures. Wide banner composition, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: Vortrag [Wie konnte das geschehen? Deutschland 1933 bis 1945](https://www.youtube.com/watch?v=Q9iDpKty2dk) — DHI Heidelberg / Literarisches Zentrum, 03.12.2025
 
 > [!info] Zur Person

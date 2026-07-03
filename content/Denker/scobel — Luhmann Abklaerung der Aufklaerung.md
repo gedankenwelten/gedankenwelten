@@ -19,6 +19,16 @@ aliases:
 
 # scobel — Luhmann: Abklärung der Aufklärung
 
+![[assets/scobel-Luhmann-Abklaerung-der-Aufklaerung-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**László Moholy-Nagy** — flacher Bauhaus-Konstruktivismus, Papiergrund mit Schwarz, Grau, Kadmiumrot und einem blauen Feld. Moholy-Nagys Lichtmodulatoren sind Luhmanns These als Apparat: Links flutet das Zettel-Chaos herein, die Blende in der Mitte reduziert, rechts kommen nur wenige ruhige Bahnen an — „zu viel Licht erträgt niemand".
+
+*Prompt:* A flat 1920s Bauhaus constructivist print in the style of Laszlo Moholy-Nagy, matte lithograph on aged off-white paper, visible paper grain, absolutely flat graphic shapes, no 3D rendering, no gloss: on the left an overwhelming dense field of tiny black dots, thin crossing diagonal lines and small tilted rectangles of paper cards; in the center two large overlapping translucent grey circles and a bold cadmium red disc acting as apertures; to the right only three calm wide parallel grey beams emerging in clean order toward a small stylized flat black filing cabinet drawn as simple rectangles with white drawer lines; palette limited to black, warm grey, cream paper, cadmium red and one deep blue rectangle, screenprint texture, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Luhmann: Warum uns zu viel Aufklärung überfordert – scobel](https://www.youtube.com/watch?v=fVgo2K0dNMk)
 
 > [!info] Wer spricht?

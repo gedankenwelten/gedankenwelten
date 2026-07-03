@@ -17,6 +17,16 @@ aliases:
 
 # Walther Ziegler — Schopenhauer in 60 Minuten
 
+![[assets/Walther-Ziegler-Schopenhauer-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Odilon Redon (Noirs)** — rauchige Kohle in Schwarz und Umbra: das riesige blinde Auge als dunkle Sonne über einer Welt, in der der Wille sich selbst jagt — Wolf und Reh, Spinne und Fliege, der Löwenzahn im rissigen Asphalt. Das einzige Licht kommt vom Lotus vor der meditierenden Silhouette: Redons symbolistisches Dunkel trägt den blinden Willen, sein zartes Aufglimmen die buddhistische Erlösung.
+
+*Prompt:* Charcoal and pastel drawing in the style of Odilon Redon's noirs: a huge floating eye with a blank blind pupil hovering like a dark sun over a tangled shadowy landscape where creatures pursue each other — a wolf leaping after a deer, a spider web with a struggling fly, a dandelion breaking through cracked ground; at the right edge a small serene seated meditating silhouette beside a single luminous lotus flower glowing in pale gold, the only source of light; smoky black charcoal texture, deep umber and grey with one soft radiance of gold and faint blue, dreamlike symbolist atmosphere, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Schopenhauer in 60 Minuten](https://www.youtube.com/watch?v=rLZqoXsyvp4)
 
 > [!info] Wer spricht?

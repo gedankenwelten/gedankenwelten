@@ -18,6 +18,16 @@ aliases:
 
 # Markus Gabriel — KI als Resonanzfeld und Mu
 
+![[assets/Markus-Gabriel-KI-als-Resonanzfeld-und-Mu-scobel-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Wassily Kandinsky** — konzentrische Kreise, Schwingungslinien, Blau-Zinnober-Gelb auf warmem Creme. Mensch und Maschine stehen an den Rändern, aber das Bild *ist* die Mitte: das Resonanzfeld, in dem sich beide Wellen durchdringen, bis sie nicht mehr zu trennen sind — und im Zentrum ein leerer weißer Kreis, unberührt: Mu. Kandinsky malte Resonanz als innere Klänge; genau das ist Gabriels Paradigma statt der dualistischen Frage „Mensch oder Maschine?".
+
+*Prompt:* Abstract painting in the style of Wassily Kandinsky: on the far left a simple upright human silhouette assembled from soft curved color shapes, on the far right an angular geometric machine-form of grids and circuit-like black lines. Between them the entire center is a vast resonance field — overlapping concentric circles in vibrant blue, vermilion, yellow and violet, radiating vibration lines, floating arcs and small trembling checkered fragments, the waves of both sides interpenetrating until they cannot be told apart. At the very center a calm empty white circle, untouched. Warm cream background, bold color contrasts, musical rhythmic composition. Wide banner, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Wir denken komplett falsch über KI – scobel im Gespräch: Mit Markus Gabriel](https://www.youtube.com/watch?v=Hxzfvz1zyos)
 
 > [!info] Wer spricht?

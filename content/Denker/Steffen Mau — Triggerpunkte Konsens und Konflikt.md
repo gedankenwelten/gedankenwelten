@@ -14,6 +14,16 @@ aliases:
 
 # Steffen Mau — Triggerpunkte: Konsens und Konflikt
 
+![[assets/Steffen-Mau-Triggerpunkte-Konsens-und-Konflikt-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Joaquín Torres-García** — konstruktiver Universalismus, schwarzes Gitter über erdigem Ocker, Terrakotta und Grau, Piktogramme in Kammern. Die Tafel ist Maus Vier-Arenen-Modell selbst: jede Kammer mit eigener Zeichenlogik (Waage und Münzen, Boot und Tor, zwei Masken, Sonne und Sanduhr) — geordnet und ruhig, doch an den Fugen des impliziten Gesellschaftsvertrags glühen die Triggerpunkte, eine Naht ist schon gerissen.
+
+*Prompt:* A constructive universalism painting in the style of Joaquin Torres-Garcia, thick black grid lines dividing the canvas into four large uneven compartments on warm aged canvas, earthy ochre, muted terracotta, warm grey and cream: first compartment holds a pictograph of scales and stacked coins, second a boat and an open gate, third two simple facing masks, fourth a sun over a small sapling and an hourglass; the compartments are calm and orderly, but at the joints where the black grid lines meet, small glowing vermilion red dots pulse like pressure points, one seam slightly cracked; primitive pictographic symbols, flat oil texture, archaic and balanced, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Streit ums Politische: »Triggerpunkte« — Heinz Bude im Gespräch mit Steffen Mau](https://www.youtube.com/watch?v=Zu3oHHZR-8Y)
 
 > [!info] Wer spricht?

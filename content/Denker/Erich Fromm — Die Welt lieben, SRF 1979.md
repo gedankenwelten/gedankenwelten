@@ -18,6 +18,16 @@ aliases:
 
 # Erich Fromm — Die Welt lieben (SRF 1979)
 
+![[assets/Erich-Fromm-Die-Welt-lieben-SRF-1979-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Marc Chagall** — traumhafte Schwebefiguren, tiefes Ultramarin mit warmem Rot und Gold, folkloristische Zärtlichkeit. Fromms Kernsatz — Leben erhält nur, wer die Welt liebt — ist ein Chagall-Bild: ein Mensch, der mit offenen Armen über der Welt schwebt, weil Liebe ihn trägt; Sonne und Mond teilen sich denselben Himmel wie Haben und Sein.
+
+*Prompt:* A dreamlike painting in the style of Marc Chagall: a single stylized human figure floating gently above a small village at dusk, arms open wide embracing the whole world below — rooftops, a blooming apple tree, a goat, a fiddle, a crescent moon and a warm golden sun sharing the same deep blue sky. Flowers grow upward from the earth toward the floating figure. Rich palette of deep ultramarine blue, warm red, golden yellow and soft green, loose expressive brushwork, folk-art tenderness. Wide banner composition, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [„Erhalten kann man das Leben nur, wenn man die Welt liebt" (SRF 1979)](https://www.youtube.com/watch?v=r56cO4I-o_s)
 
 > [!info] Wer spricht?

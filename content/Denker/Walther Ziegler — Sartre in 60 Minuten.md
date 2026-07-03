@@ -17,6 +17,16 @@ aliases:
 
 # Walther Ziegler — Sartre in 60 Minuten
 
+![[assets/Walther-Ziegler-Sartre-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Alberto Giacometti** — kratzige Grau-Ocker-Malerei, nervöse schwarze Linien auf leerem Grund: die hagere, schreitende Figur am Punkt, wo sich alle Wege gabeln, ferne dünne Geher, jeder auf seinem eigenen Pfad, ein leerer Café-Stuhl am Rand. Giacometti war Sartres tatsächlicher Weggefährte — seine ausgezehrten Figuren sind der Existenzialismus in Gestalt: nackte Existenz, verurteilt zur Wahl.
+
+*Prompt:* Painting in the style of Alberto Giacometti: one extremely tall, thin, elongated walking figure striding across a vast empty grey plaza, from the figure's feet many diverging painted roads fork out in different directions across the ground, a few other gaunt thread-thin figures walk far away in different directions each on their own path, a small round cafe table with a single empty chair at the left edge, nervous scratchy sketchy black and umber lines over muted grey and ochre ground, heavy atmosphere of solitude and space, unfinished raw canvas texture, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Sartre in 60 Minuten](https://www.youtube.com/watch?v=TJjM4EiSdDg)
 
 > [!info] Wer spricht?

@@ -16,6 +16,16 @@ aliases:
 
 # Götz Aly — Der Teufelspakt zwischen Volk und Führung
 
+![[assets/Goetz-Aly-Teufelspakt-zwischen-Volk-und-Fuehrung-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**George Grosz** — kratzige Weimarer Satire-Feder, säurehaltige Aquarelltöne in Oliv, Ocker und Ziegelrot. Alys These ist ein Grosz-Sujet: der Teufel im feinen Anzug verteilt Brot, Münzen und Geschenke an zufrieden wegsehende Bürger — während seine Klauenhand hinter dem Rücken den Beutesack mit geraubtem Silber zur rauchenden Ferne schleppt. Die halbpassive Haltung, gezeichnet von dem Mann, der sie damals sah.
+
+*Prompt:* A satirical ink and watercolor drawing in the style of George Grosz, Weimar-era caricature: a tall devil figure in an elegant pinstripe suit with small horns and a polished smile, one hand generously handing out coins, loaves of bread and gift parcels to a queue of plump self-satisfied burghers in hats who look away contentedly — stylized caricature faces, not realistic. Behind the devil's back, his other clawed hand drags a heavy sack overflowing with looted silverware, watches and picture frames toward a dark horizon where thin smoke columns rise. Scratchy nervous ink lines, acid watercolor washes of olive green, dirty ochre, brick red and grey. Wide banner composition, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Historiker Götz Aly über die Nazis & Deutschland 1933 bis 1945 — Jung & Naiv: Folge 781](https://www.youtube.com/watch?v=86Ljg_-KeIo)
 
 > [!info] Wer spricht?

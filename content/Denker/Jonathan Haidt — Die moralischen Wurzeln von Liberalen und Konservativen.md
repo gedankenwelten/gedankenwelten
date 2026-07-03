@@ -20,6 +20,16 @@ aliases:
 
 # Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen
 
+![[assets/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hilma af Klint** — flaches Tempera-Diagramm, weiche Kreise, Creme und Altrosa. Ein Baum mit fünf farbigen Wurzeln (die fünf moralischen Fundamente), aus dem zwei Kronen wachsen — blau und rot, in der Mitte als Yin-Yang verwoben. Af Klints spirituelle Diagramme malten Dualitäten, die aus einem gemeinsamen Grund entspringen — genau Haidts Pointe: zwei Moralwelten, dieselben Wurzeln.
+
+*Prompt:* Large spiritual diagram painting in the style of Hilma af Klint: at the center a great tree with exactly five thick luminous roots reaching down into dark soil, each root a different color band (green, gold, violet, rose, teal). The trunk splits into two enormous soft crowns of foliage rendered as overlapping translucent circles — the left crown in deep blues, the right crown in warm reds and oranges — gently touching in the middle where blue and red interweave like a yin-yang swirl. Delicate spirals, small orbs and fine connecting lines float around the crowns on a pale cream and dusty pink background. Flat tempera texture, soft matte colors, symbolic botanical forms. Wide banner, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [The moral roots of liberals and conservatives — TED 2008](https://www.youtube.com/watch?v=8SOQduoLgRw)
 
 > [!info] Wer spricht?

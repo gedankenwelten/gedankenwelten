@@ -17,6 +17,16 @@ aliases:
 
 # Platon — Das Höhlengleichnis
 
+![[assets/Platon-Das-Hoehlengleichnis-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**William Blake** — visionäres Aquarell mit Tuschelinie, tiefes Umbra und Schieferblau gegen flammendes Gold. Das Gleichnis als ein durchgehender Weg von links nach rechts: die Angeketteten vor den tanzenden Schatten, das Feuer, der eine Aufsteigende mit schmerzenden Augen — und die Sonne als konzentrische Strahlenkrone über der wirklichen Welt. Blakes Hand, weil niemand den Schmerz und die Ekstase des Lichts so gemalt hat.
+
+*Prompt:* Visionary watercolor and ink in the style of William Blake: inside a vast dark cave on the left, a row of seated chained figures stares at dancing black shadows cast on the rock wall by a small fire behind them; in the middle one freed figure climbs a steep rocky passage upward, body twisted, shielding its eyes; on the right the cave mouth opens into an overwhelming radiant sun with concentric rays of gold and white light flooding in, small trees and a river below; dramatic chiaroscuro, swirling romantic linework, palette of deep umber, slate blue, pale flesh tones and blazing gold, wide banner composition, no photorealism, no realistic faces
+
+</details>
+
 Quelle: *Politeia* (Der Staat), Buch VII, ca. 380 v. Chr.
 
 Athenischer Philosoph (428–348 v. Chr.), Schüler des Sokrates, Lehrer des Aristoteles. Das Höhlengleichnis ist das berühmteste Gleichnis der Philosophiegeschichte — und nach über 2400 Jahren erschreckend aktuell. Platon fragt: **Was ist Wirklichkeit? Was ist Schein? Und was kostet es, den Unterschied zu erkennen?**

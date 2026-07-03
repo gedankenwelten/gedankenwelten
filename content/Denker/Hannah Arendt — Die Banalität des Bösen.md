@@ -17,6 +17,16 @@ aliases:
 
 # Hannah Arendt — Die Banalität des Bösen
 
+![[assets/Hannah-Arendt-Die-Banalitaet-des-Boesen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — flacher sozialer Realismus in Grau und staubigem Ocker. Arendts Böses hat keine Tiefe und kein Dämonengesicht — es ist die endlose Reihe gesichtsloser Schreibtische, über deren Papiere sich das Böse „wie ein Pilz an der Oberfläche" ausbreitet. Der eine ockerne Mensch, der innehält, ist das Denken.
+
+*Prompt:* Ben Shahn style social realist illustration, wide banner. A row of identical gray clerks at identical desks stretching into the distance, each stamping papers, faces blank and featureless. Across the paper-covered landscape a pale fungus quietly spreads like mold over the documents, shallow, surface-only. One single clerk has stopped, chair turned away, head slightly bowed in thought, rendered in warm ochre against the gray. Flat tempera colors, rough expressive linework, muted grays and dusty ochre, no photorealism, no realistic faces.
+
+</details>
+
 Quellen: *Eichmann in Jerusalem. Ein Bericht von der Banalität des Bösen* (1963) / *Vita Activa* (1958) / *Vom Leben des Geistes* (postum 1978)
 Video: [Walther Ziegler — Hannah Arendt: Die Banalität des Bösen (Große Denker in 60 Minuten)](https://www.youtube.com/watch?v=_22F0gfZz30)
 

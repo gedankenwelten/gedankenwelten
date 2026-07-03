@@ -18,6 +18,16 @@ aliases:
 
 # Walther Ziegler — Hegel in 60 Minuten
 
+![[assets/Walther-Ziegler-Hegel-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Caspar David Friedrich** — deutsche Romantik, Rückenfigur über dem Nebelmeer, erhabenes Licht. Friedrich ist Hegels exakter Zeitgenosse; sein Blick von oben übersetzt die Note wörtlich: die „Weltseele zu Pferde" schaut auf die Epochen der Geschichte — Tempel, Burg, Kathedrale, Fabrik — die im „herrlichen Sonnenaufgang" der Dialektik auseinander hervorgehen.
+
+*Prompt:* German Romantic landscape painting in the style of Caspar David Friedrich: a lone horseman seen from behind as a dark silhouette on a rocky summit, gazing over a vast misty valley at a magnificent sunrise; in the valley below, half veiled in fog, the ages of history stand in sequence — a ruined Greek temple, a medieval castle, a Gothic cathedral, and distant smoking factory chimneys; golden and rose light breaking through layered clouds, deep atmospheric perspective, sublime stillness; wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Hegel in 60 Minuten](https://www.youtube.com/watch?v=qoTngm8b7kQ)
 
 > [!info] Wer spricht?

@@ -16,6 +16,16 @@ aliases:
 
 # Liya Yu — Neuropolitik und die Grenzen der Moral
 
+![[assets/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — kühler belgischer Surrealismus, Schieferblau und Sand, glatte Ölflächen, unheimliche Stille. Der Blick durch den goldenen Rahmen zeigt statt des Gegenübers einen Stuhl — exakt Yus neurowissenschaftlicher Befund: Schaltet der mediale präfrontale Cortex ab, verarbeitet das Gehirn einen Menschen wie ein Objekt. Magritte malte lebenslang diese Kluft zwischen dem, was wir sehen, und dem, was da ist.
+
+*Prompt:* Surrealist painting in the style of Rene Magritte: two anonymous figures in dark coats and bowler hats stand facing each other on an empty seaside terrace under a soft cloudy blue sky. Between them hangs a large ornate gilded picture frame; through the frame, the figure on the right does not appear as a person but as a plain wooden chair standing in his exact place. Above the left figure's head floats a small glowing anatomical brain like a pale moon. Muted palette of slate blue, grey, sand and soft daylight, clean flat oil-paint surfaces, uncanny stillness, crisp shadows. Wide banner, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Ist unser Gehirn eine Gefahr für die Menschheit? | Liya Yu](https://www.youtube.com/watch?v=8E-LtCSPon0)
 
 > [!info] Wer spricht?

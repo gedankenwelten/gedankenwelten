@@ -16,6 +16,16 @@ aliases:
 
 # Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke
 
+![[assets/Barbara-Schmitz-und-Giovanni-Maio-Verletzlichkeit-als-Staerke-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**William Blake** — visionäres Aquarell, fließende Gewänder, Spiralwellen des Styx: Thetis hält das Kind, die Fersen glühen golden — genau die Stelle, an der die Mutter es hielt. Im Nebel dahinter leere, versiegelte Rüstungen: der Panzer, der nicht schützt, sondern trennt. Maios Umdeutung der Achillesferse als Bild — Verwundbarkeit ist der Ort der Verbindung.
+
+*Prompt:* Visionary romantic watercolor in the style of William Blake, classical Greek myth of Thetis and Achilles at the river Styx, a flowing-robed goddess figure holding a small stylized child figure by one heel above swirling dark waters, her hand around the heel glowing with warm golden radiance, the single glowing heel as the heart of the composition, swirling drapery and spiral waves in flowing lines, in the misty background a row of hollow grey sealed suits of armor standing empty, palette of deep indigo, slate grey and luminous gold, stylized elongated figures, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Warum Verletzlichkeit keine Schwäche ist | Sternstunde Philosophie | SRF Kultur](https://www.youtube.com/watch?v=hiIahhoON5g)
 
 > [!info] Wer spricht?

@@ -16,6 +16,16 @@ aliases:
 
 # Kojin Karatani — Tauschformen und die Überwindung der Triade
 
+![[assets/Kojin-Karatani-Tauschformen-und-die-Ueberwindung-der-Triade-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Sumi-e / Zen-Ensō-Kalligrafie** — Tusche auf Reispapier, karge Komposition, viel Leere. Drei verschlungene schwarze Kreise sind Karatanis Borromäischer Ring aus Kapital, Nation und Staat; fern über dem Horizont schwebt ein kleiner goldener, *offener* Kreis — Modus D, die regulative Idee, die nie geschlossen existierte. Die japanische Tuschtradition passt zu einem Denker, der Weltgeschichte als Struktur liest und aus Japan heraus über die Triade hinausdenkt.
+
+*Prompt:* Japanese sumi-e ink painting in the tradition of Zen enso calligraphy: three large bold black ink circles interlocked like Borromean rings in the left and center of the composition, each brushed in a single rough expressive stroke with dry-brush texture and ink splatter, standing on a misty grey wash ground. Far to the right, above an empty pale horizon, floats a single small open circle brushed in luminous gold leaf — unfinished, its ends not touching. Minimal composition, vast negative space of warm rice-paper cream, subtle grey mountain silhouette at the bottom edge. Meditative, austere, calligraphic. Wide banner, no photorealism, no realistic faces.
+
+</details>
+
 Quellen:
 - [Beyond the Trinity of Capital, Nation and State — Lecture 1](https://www.youtube.com/watch?v=X8suZQGC-tk)
 - [2022 Berggruen Prize Laureate](https://www.youtube.com/watch?v=dSdfmqZK3rc)

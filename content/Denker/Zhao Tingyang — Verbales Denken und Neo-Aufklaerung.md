@@ -16,6 +16,16 @@ aliases:
 
 # Zhao Tingyang — Verbales Denken und Neo-Aufklärung
 
+![[assets/Zhao-Tingyang-Verbales-Denken-und-Neo-Aufklaerung-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Umberto Boccioni** — italienischer Futurismus, Bronze, Ultramarin, Karminrot, Kraftlinien und gebrochene Flächen. Der Futurismus ist die eine Bewegung der Kunstgeschichte, die buchstäblich versuchte, *Verben* zu malen: Links steht Zhaos eingefrorene Nomen-Welt — etikettierte Gläser, Büsten, Karteikästen —, rechts löst sich die schreitende Figur in reine Bewegung auf, Form im Werden statt im Sein.
+
+*Prompt:* An Italian Futurist oil painting in the style of Umberto Boccioni, dynamism and lines of force: on the left, a rigid museum shelf with rows of static labeled specimen jars, stone busts and filing boxes painted in frozen grey-brown cubic facets; toward the right the composition erupts into sweeping curved force-lines as one striding bronze figure dissolves into pure motion, its form fragmenting into overlapping arcs of wind, water spirals and flame-like ribbons rushing off the right edge; palette of bronze, deep ultramarine, ochre, crimson and steel grey, fractured planes and radiating speed lines, energetic diagonal composition, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Verbal Thinking and Neo-Enlightenment | Professor Zhao Tingyang](https://www.youtube.com/watch?v=8_gea_85sK0) · Berggruen Research Center, Peking · 2025 · 1:29:10
 
 > [!info] Wer spricht?

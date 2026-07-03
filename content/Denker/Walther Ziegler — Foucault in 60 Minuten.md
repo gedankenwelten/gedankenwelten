@@ -16,6 +16,16 @@ aliases:
 
 # Walther Ziegler — Foucault in 60 Minuten
 
+![[assets/Walther-Ziegler-Foucault-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Piranesi (Carceri d'invenzione)** — Radierung in Sepia und Kohle, schwindelerregende Kerkerarchitektur, winzige Figuren in kolossalem Raum. Piranesis imaginäre Gefängnisse sind Foucaults Panoptikum avant la lettre: Architektur gewordene Macht, ein Zentralturm, dessen bloße Möglichkeit des Blicks genügt.
+
+*Prompt:* 18th century etching in the style of Piranesi's Carceri d'invenzione: the vast interior of a circular panopticon prison, a towering central watchtower with a single glowing lantern window, surrounded by endless concentric rings of arched cells, colossal stone staircases, hanging chains and wooden gangways crossing dizzying space; tiny anonymous human figures walking the galleries, each alone in a cell doorway; dramatic cross-hatched shadows, sepia and charcoal ink tones on aged paper; wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Foucault in 60 Minuten](https://www.youtube.com/watch?v=mY8xqn9MYbI)
 
 > [!info] Wer spricht?

@@ -14,6 +14,16 @@ aliases:
 
 # Walther Ziegler — Smith in 60 Minuten
 
+![[assets/Walther-Ziegler-Smith-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Pieter Bruegel d. Ä.** — wimmelnde Marktszene in Ocker, Rostrot und Moosgrün: Metzger, Bäckerin, Brauer mit Fässern, die Stecknadel-Werkbank, Händler und Hafenschiffe — jeder verfolgt sein eigenes kleines Interesse. Und über allem, kaum sichtbar in den Himmel gemalt: die unsichtbare Hand. Bruegels Blick von unten ist die ehrlichste Übersetzung von Smiths Ökonomie — Allgemeinwohl als Nebenprodukt tausend eigennütziger Handgriffe.
+
+*Prompt:* Bustling village market panorama in the style of Pieter Bruegel the Elder: dozens of small lively figures each busy with their own trade — a butcher hanging sausages, a baker with a tray of loaves, a brewer rolling barrels, a pin-maker workshop with workers passing pins down a bench, merchants haggling over cloth, a cart of wine casks arriving, sailing ships in a small harbor behind; high above in the pale sky an enormous barely visible translucent hand, painted faintly like mist, gently spread over the whole market; earthy palette of ochre, russet red, moss green and slate blue, fine miniature detail, winter-clear northern light, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Smith in 60 Minuten. Der Urvater des Kapitalismus](https://www.youtube.com/watch?v=G01bPnH6Lss)
 
 > [!info] Wer spricht?

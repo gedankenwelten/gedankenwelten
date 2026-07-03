@@ -17,6 +17,16 @@ aliases:
 
 # Walther Ziegler — Kant in 60 Minuten
 
+![[assets/Walther-Ziegler-Kant-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — sauberer Surrealismus, gedämpfte Blau-Grau-Töne, das Rätsel in klarem Tageslicht. Magritte ist der Maler der Kluft zwischen Bild und Ding — genau Kants Pointe: Im Rahmen leuchtet die Erscheinungswelt (Raum, Zeit, Farbe), außerhalb bleibt dieselbe Welt graue Silhouette — das Ding an sich, das niemand je sieht.
+
+*Prompt:* Surrealist oil painting in the style of Rene Magritte: a man in a dark coat and bowler hat seen from behind, standing before an enormous ornate picture frame floating in a field; inside the frame the landscape appears in vivid color with blue sky, clouds, a green tree and a red apple on a table; outside the frame the same landscape continues but as flat grey featureless silhouettes without detail; a crescent moon and a small pocket watch hang in the grey sky; clean crisp edges, soft even daylight, muted blues, greys and greens; wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Kant in 60 Minuten](https://www.youtube.com/watch?v=q2Wky9MKw50)
 
 > [!info] Wer spricht?

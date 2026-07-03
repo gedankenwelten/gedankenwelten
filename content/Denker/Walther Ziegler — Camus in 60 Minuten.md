@@ -14,6 +14,16 @@ aliases:
 
 # Walther Ziegler — Camus in 60 Minuten
 
+![[assets/Walther-Ziegler-Camus-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Matisse (Scherenschnitte)** — flache, leuchtende Papierformen, Kobaltblau, Sonnengelb, Mittelmeer. Camus ist algerisches Licht, nicht Pariser Schwermut: Der glückliche Sisyphos als schwarze Silhouette unter einer Matisse-Sonne — Trotz und Lebensfreude im selben Bild.
+
+*Prompt:* Cut-paper gouache composition in the style of Henri Matisse late cut-outs: a bold black paper-cut silhouette of a man pushing a huge round boulder up a steep hill, rendered in flat organic cut shapes; a blazing yellow sun with wavy cut rays high in a cobalt blue sky, a flat ultramarine Mediterranean sea band below, scattered white and coral cut-out leaf and star shapes floating around; vivid flat colors, no shading, joyful and defiant; wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Camus in 60 Minuten](https://www.youtube.com/watch?v=f6dF1Nf1TqM)
 
 > [!info] Wer spricht?

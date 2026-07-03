@@ -14,6 +14,16 @@ aliases:
 
 # Steffen Mau — Die (gefühlte) Spaltung der Gesellschaft
 
+![[assets/Steffen-Mau-Spaltung-der-Gesellschaft-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — sozialer Realismus der Jahrhundertmitte, drahtige Tuschelinie über flachen Gouache-Feldern in Ocker, Graublau und Zinnober. Shahn malte die Menge als Menge, ohne sie zu verhöhnen — genau Maus Befund: keine gespaltene Gesellschaft, sondern eine breite ruhige Mitte mit wenigen entzündeten Triggerzonen, in die die Polarisierungsunternehmer von oben ihre Magnet-Köder hängen.
+
+*Prompt:* A mid-century social realist illustration in the style of Ben Shahn, wiry scratchy ink line over flat muted gouache color fields: a wide dense crowd of simple standing figures filling the lower banner, mostly calm in muted grey-blue and ochre tones, standing peacefully together; at three small spots in the crowd a glowing inflamed red-orange patch where a few figures throw their arms up in agitation; above the crowd, two large figures in dark suits lean down from the top edge dangling fishing lines with horseshoe magnets as bait over exactly those red spots; palette of ochre, grey-blue, cream paper, vermilion accents and black ink line, flat poster-like composition, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Jung & Naiv: Folge 668 — Soziologe Steffen Mau](https://www.youtube.com/watch?v=Xx_VaB_dqZA)
 
 > [!info] Wer spricht?

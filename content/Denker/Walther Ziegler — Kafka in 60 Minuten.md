@@ -16,6 +16,16 @@ aliases:
 
 # Walther Ziegler — Kafka in 60 Minuten
 
+![[assets/Walther-Ziegler-Kafka-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Alfred Kubin** — Tuschezeichnung mit grauer Lavierung, das Unheimliche im Leeren. Kubin ist Kafkas Zeitgenosse aus demselben k.u.k.-Kulturraum und dessen zeichnerisches Gegenstück; seine Hand übersetzt das Kernbild der Note wörtlich: die Seil-Metapher — die Menschenkette am Grat, ein gerissenes Seil, der lautlose Fall in den leeren Raum, darüber die Fassade des Apparats.
+
+*Prompt:* Dark visionary ink drawing with grey wash in the style of Alfred Kubin: a line of small human figures roped together like mountain climbers, walking along a narrow ridge suspended in a vast empty grey void; around one figure in the middle the rope has frayed and snapped, and he falls silently into the darkness below, arms open; above them loom enormous shadowy facades of a bureaucratic building with rows of tiny lit windows and one half-open monumental door; scratchy pen lines, smoky charcoal greys, faded sepia paper tone, oppressive emptiness; wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Kafka in 60 Minuten (Kafka als Philosoph)](https://www.youtube.com/watch?v=dW-WTPkkDkw)
 
 > [!info] Wer spricht?

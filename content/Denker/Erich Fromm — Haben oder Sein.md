@@ -19,6 +19,16 @@ aliases:
 
 # Erich Fromm — Haben oder Sein
 
+![[assets/Erich-Fromm-Haben-oder-Sein-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — surreale Klarheit, anonyme Melone-Männer, gedämpftes Graublau gegen Holz und Grün. Fromms Dichotomie ist ein Magritte-Rätsel: derselbe Mensch zweimal — einmal als verschlossener Schrank voller Münzen und Safe (Haben), einmal als blühender Zweig mit Vogel (Sein); der schwebende Apfel dazwischen ist die offene Wahl.
+
+*Prompt:* A surrealist painting in the style of Rene Magritte: two identical men in bowler hats and dark coats standing side by side in a vast empty landscape under a soft cloudy blue sky, seen from behind or with featureless smooth faces. The left man's torso is an open wooden cabinet stuffed with locked drawers, coins, keys and a small safe. The right man's torso is made of living green leaves and a blossoming branch, a small bird perched on his shoulder. Between them a single red apple floats in mid-air. Clean flat surrealist rendering, muted palette of grey-blue sky, dark coats, warm wood and fresh green. Wide banner composition, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Gespräch zu „Haben oder Sein" (Interview, 1977)](https://www.youtube.com/watch?v=L_2mn39AU0c)
 
 Psychoanalytiker, Sozialphilosoph, Humanist. Fromm verbindet Freud, Marx und die prophetische jüdische Tradition zu einer radikalen Kritik der modernen Industriegesellschaft — und fragt: Wozu leben wir eigentlich?

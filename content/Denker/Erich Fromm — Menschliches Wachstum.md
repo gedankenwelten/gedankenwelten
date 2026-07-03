@@ -15,6 +15,16 @@ aliases:
 
 # Erich Fromm — Menschliches Wachstum
 
+![[assets/Erich-Fromm-Menschliches-Wachstum-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera / mexikanischer Muralismus** — monumentale Fresko-Formen, Terrakotta und Erdgrün, die Würde des tätigen Menschen. Fromms Gegensatz aus diesem Vortrag ist ein Wandbild: die grauen ewigen Säuglinge mit offenem Mund vor dem Fließband — und daneben Menschen, die töpfern, lesen, wachsen, verwurzelt wie der Baum. Dass Fromm 24 Jahre in Mexiko lehrte, macht diese Hand doppelt seine.
+
+*Prompt:* A Mexican muralist fresco in the style of Diego Rivera: on the right, stylized rounded figures with simplified faces actively working and growing — one waters a young tree heavy with fruit, one shapes clay at a potter's wheel, one reads under the branches, strong hands, dignified postures. On the left, a row of slumped identical figures sitting passively before a conveyor belt that pours bottles, radios and packages toward their open mouths. The young tree stands at the center dividing the scene, its roots visible in the earth. Earthy fresco palette of terracotta, ochre, deep green, muted blue and warm brown, flat monumental forms, bold outlines. Wide banner composition, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Erich Fromm – Menschliches Wachstum (Vortrag, 1971)](https://www.youtube.com/watch?v=E38YE7aXZ1o)
 
 > [!info] Wer spricht?

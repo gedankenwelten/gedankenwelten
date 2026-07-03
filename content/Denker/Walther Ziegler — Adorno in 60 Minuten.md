@@ -18,6 +18,16 @@ aliases:
 
 # Walther Ziegler — Adorno in 60 Minuten
 
+![[assets/Walther-Ziegler-Adorno-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Max Beckmann** — expressionistisches Öl mit schweren schwarzen Konturen, gedrückte Grün-Ocker-Palette, mythische Allegorie in moderner Härte. Beckmann war Frankfurter und Exilant wie Adorno und hat Odysseus selbst gemalt — seine Hand übersetzt das Kernbild der Note: der Arbeitnehmer am Mast, zwischen Sirenen und Kulturindustrie („Fun ist ein Stahlbad").
+
+*Prompt:* Expressionist oil painting in the style of Max Beckmann: a modern man in a grey office suit bound with thick ropes to the mast of a dark ship, sailing through a black-green sea; sirens with stylized mask-like faces sing from jagged rocks on the left; on the right horizon a grim industrial city with smoking chimneys and a glowing neon sign reading FUN; heavy black contour lines, compressed claustrophobic space, palette of deep greens, ochre, black and burnt orange; wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Adorno in 60 Minuten](https://www.youtube.com/watch?v=2sNlmGneXmM)
 
 > [!info] Wer spricht?

@@ -18,6 +18,16 @@ aliases:
 
 # Martyna Linartas — Unverdiente Ungleichheit
 
+![[assets/Martyna-Linartas-Unverdiente-Ungleichheit-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — sozialrealistische Grafik, flache Tempera-Farben, kantige ausdrucksstarke Figuren in Ocker, Ziegelrot und Grau. Linartas' Kernbefund ist ein Theaterstück: oben auf der Bühne reicht die Dynastie den Goldsack weiter, unten greift die graue Menge nach einer Leiter, die nicht bis zur Bühne reicht — Shahns Hand erzählt strukturelle Ungerechtigkeit ohne Karikatur, mit Mitgefühl für die unten.
+
+*Prompt:* Social-realist illustration in the style of Ben Shahn: a wide theater stage with a heavy golden curtain half-open, on stage a small dynasty of flat angular figures passing a large golden money sack down a line from grandfather to child, their hands elongated and expressive; below the stage, in the orchestra pit, many small gray workers climb a very tall thin ladder with six rungs that does not reach the stage; muted palette of ochre, brick red, charcoal gray and gold, rough ink outlines, flat tempera texture, wide banner composition, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Ungleichheitsforscherin Martyna Linartas über Umverteilung von Reichtum — Jung & Naiv Folge 765](https://www.youtube.com/watch?v=13RiLPYd9nA)
 
 > [!info] Wer spricht?

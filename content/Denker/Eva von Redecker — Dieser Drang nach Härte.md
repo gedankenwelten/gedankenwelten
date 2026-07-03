@@ -22,6 +22,16 @@ aliases:
 
 # Eva von Redecker — Dieser Drang nach Härte
 
+![[assets/Eva-von-Redecker-Dieser-Drang-nach-Haerte-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Frans Masereel** — expressionistischer Holzschnitt, hartes Schwarz-Weiß mit einem einzigen Blutrot, politische Wucht der 1920er. Redeckers Phantombesitz braucht genau diese Härte der Form: eine riesige Faust, die ein geisterhaft weißes Haus umklammert, das ihr zwischen den Fingern zerrinnt — der Griff ins Leere, der zur Vernichtung wird, über der fackeltragenden Menge.
+
+*Prompt:* An expressionist woodcut print in the style of Frans Masereel: a giant clenched fist in hard black ink rising over a city skyline, gripping at a translucent ghostly outline of a small house that dissolves into thin white lines between its fingers — the hand closes on nothing. Below, a dense crowd of small stylized figures with simplified featureless faces, some raising torches, sharp diagonal shadows cutting across the street. Stark black and white woodcut with rough gouged texture, one single accent of deep blood red in a torch flame. Dramatic high contrast, angular expressionist forms. Wide banner composition, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: taz Talk meets Buchmesse Leipzig, März 2026 (Buchvorstellung bei S. Fischer)
 
 > [!info] Wer spricht?

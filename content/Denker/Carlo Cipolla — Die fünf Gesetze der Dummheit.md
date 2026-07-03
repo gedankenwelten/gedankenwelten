@@ -23,6 +23,16 @@ aliases:
 
 # Carlo Cipolla — Die fünf Gesetze der Dummheit
 
+![[assets/Carlo-Cipolla-Die-fuenf-Gesetze-der-Dummheit-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Saul Steinberg** — Feder und Tusche auf Cremepapier, sparsame Aquarellakzente: Cipollas Koordinatensystem als bewohntes Diagramm — die Klugen mit blühenden Taschen, der Hilflose, der seinen Schirm verschenkt, der Bandit mit dem Sack, und der Dumme, der den Ast absägt, auf dem er selbst sitzt, während das Feuer sich ausbreitet. Steinbergs Hand, weil Cipollas Essay genau das ist: Witz, der als Präzisionsinstrument arbeitet.
+
+*Prompt:* Witty pen and ink drawing in the style of Saul Steinberg on cream paper, a large hand-drawn coordinate system with two crossing axes filling the composition, four quadrants each inhabited by small spindly ink figures: in one quadrant two clever figures shake hands while both their pockets sprout flowers, in another a naive figure hands his umbrella away in the rain, in another a sly bandit figure carries off a sack, and in the lowest quadrant a scribbly chaotic figure saws off the very branch on which he himself sits above a small fire spreading toward everyone, tiny arrows and hatching, sparse watercolor accents in red and blue on the doodled figures, playful precise linework, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: *The Basic Laws of Human Stupidity* (Essay, 1976, dt. veröffentlicht in: *Allegro ma non troppo*, Il Mulino 1988)
 Erklärvideo: [Die 5 Gesetze der Dummheit — Wahre Worte](https://www.youtube.com/watch?v=5VNHIxbAz6Q)
 

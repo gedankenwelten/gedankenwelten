@@ -19,6 +19,16 @@ aliases:
 
 # B.R. Ambedkar — Kaste als Ontologie
 
+![[assets/Ambedkar-Kaste-als-Ontologie-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Indische Moderne / Dalit-Wandbildtradition** — flache, kräftige Farbflächen in Ambedkar-Blau, Terrakotta und Ocker: links der Turm aus fensterlosen Kasten-Etagen ohne Treppen (Ambedkars eigenes Bild), rechts der Mann im blauen Anzug mit dem Buch, der zum Bodhi-Baum unter dem Dharma-Rad geht, gefolgt von Menschen in Blau. Die Bildsprache der Bewegung selbst — sie malt den Turm von außen, den es von innen nie zu sehen gab.
+
+*Prompt:* Indian modernist mural painting with flat bold colors, a monumental stone tower of stacked sealed floors without windows and without any stairs, small silhouetted figures trapped standing on each level, the tower casting a long shadow, to the right a lone dignified figure in a bright blue suit holding a large book walking away from the tower toward a spreading bodhi tree with a white dharma wheel rising behind it like a sun, crowd of small figures in blue following, palette of deep indigo blue, terracotta, ochre and white, strong flat shapes and dark outlines, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle A: [Ananya Vajpeyi — "B.R. Ambedkar: The Life of the Mind & a Life in Politics"](https://www.youtube.com/watch?v=imzO0eNziD4) (Library of Congress, ~62 Min.)
 Quelle B: [Arundhati Roy — "The Doctor and the Saint"](https://www.youtube.com/watch?v=CrN8PgZzc6k) (~81 Min., 317K Aufrufe)
 Quelle C: [Suraj Yengde — "The Dalitality in Du Bois and Ambedkar: Color, Class, Caste"](https://www.youtube.com/watch?v=kzHmvSrbSm0) (Harvard / Du Bois Institute, ~99 Min.)
