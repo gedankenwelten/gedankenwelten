@@ -125,6 +125,20 @@ Diese Note ist bewusst das Komplement zur Spur [[Spuren/Israel-Gaza-Voelkerrecht
 
 ---
 
+## Die Fehlenden — wer zu hören wäre
+
+*Unsere Ergänzung, nicht Johnsons Inhalt.* Sein zentraler Befund ist die Leerstelle: zwei Jahre, ein Gast. Eine Note, die das referiert und selbst niemanden nennt, reproduziert die Leerstelle. Darum hier das Gegenprogramm — keine Analyse, nur Menschen und der Ort, wo man sie selbst hört. Ehrliche Provenienz-Zeile vorweg: Augenzeugen eines Krieges gegen ihr eigenes Zuhause sind Partei. Das disqualifiziert sie nicht — es gehört nur dazugesagt. Ausgewählt ist hier nach Nähe zum Erlebten, nicht nach Ideologie.
+
+- **Bisan Owda** — Journalistin und Filmemacherin aus Gaza, deren „It's Bisan from Gaza"-Berichte mit Emmy und Peabody ausgezeichnet wurden; ihre Kurzreportage [„There Is No 'Peace' in Gaza"](https://video.mondoweiss.net/videos/watch/3d4cf570-faa7-457d-8a1e-99215f781639) (April 2026) zeigt in drei Minuten, was der „Waffenstillstand" vor Ort bedeutet. ([Wikipedia](https://en.wikipedia.org/wiki/Bisan_Owda))
+- **Motaz Azaiza** — Fotojournalist, dokumentierte die ersten 108 Kriegstage aus Gaza, ehe er evakuiert wurde; seine Bilder erreichten ein Millionenpublikum, wo Redaktionen keine Reporter hatten. ([Wikipedia](https://en.wikipedia.org/wiki/Motaz_Azaiza))
+- **Plestia Alaqad** — Journalistin, die als 21-Jährige aus Gaza berichtete; ihr Buch *The Eyes of Gaza* (2025) ist eines der ersten Langform-Zeugnisse von innen. ([Wikipedia](https://en.wikipedia.org/wiki/Plestia_Alaqad))
+- **Noura Erakat** — Rechtswissenschaftlerin (Rutgers), Autorin von *Justice for Some* — die Stimme, die im Video vorkommt als die, die „nicht mitspielte" und nicht wieder eingeladen wurde. ([Wikipedia](https://en.wikipedia.org/wiki/Noura_Erakat))
+- **Refaat Alareer** — Literaturwissenschaftler und Dichter, im Dezember 2023 getötet; sein Gedicht *If I Must Die* („let it be a tale") wurde millionenfach geteilt — das Vermächtnis dessen, der seine Studenten lehrte, auf Englisch zu erzählen, damit die Welt zuhört. ([Wikipedia](https://en.wikipedia.org/wiki/Refaat_Alareer))
+- **Hind Rajab** — die Sechsjährige aus Johnsons Zähltabelle hat inzwischen, was die US-Sender ihr verweigerten: eine Stimme. Der Spielfilm [*The Voice of Hind Rajab*](https://en.wikipedia.org/wiki/The_Voice_of_Hind_Rajab) (Kaouther Ben Hania, 2025) baut auf den echten Aufnahmen ihrer Anrufe bei den Rettern auf.
+- **Ahmed Wishah** — Al-Jazeera-Kameramann, am 20.06.2026 getötet, der zwölfte AJ-Mitarbeiter seit 2023 (→ unsere [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Spur]], Eintrag 21.06.): stellvertretend für die, die nicht mehr gehört werden können, weil die Kameras selbst zum Ziel wurden.
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — Die „40 enthaupteten Babys" und Bidens „Fotos"
