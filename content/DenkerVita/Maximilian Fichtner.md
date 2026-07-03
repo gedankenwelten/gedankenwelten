@@ -7,6 +7,16 @@ tags: [denker-vita, energiewende, batterie, wissenschaft, e-mobilitaet]
 
 # Maximilian Fichtner — DenkerVita
 
+![[assets/Maximilian-Fichtner-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Klare technische Illustration** — Eine große leuchtende Batteriezelle im Schnitt zeigt Ionenflüsse zwischen den Gitterschichten, verbunden mit einem E-Auto und einer Wind-Solar-Ladequelle, ein kristallines Atomgitter-Motiv — Energiespeicher und Elektromobilität. Der helle Tech-Stil trägt Fichtners Batterieforschung.
+
+*Prompt:* Clean flat technical illustration, bright and modern, 1200x500 wide banner. A large glowing battery cell in cutaway showing ion flows between lattice layers, connected to an electric car and a wind-and-solar charging source, a crystalline atomic lattice motif; energy storage and electromobility. Electric blue, green, warm orange, white, crisp vector shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 Festkörperchemiker, Professor für Festkörperchemie an der Universität Ulm seit 2013. Direktor des Helmholtz-Instituts Ulm (HIU) für elektrochemische Energiespeicherung seit 2015. Sprecher der Exzellenzcluster POLiS (Post Lithium Energy Storage) und wissenschaftlicher Direktor des Centrums für Elektrochemische Energiespeicherung Ulm-Karlsruhe (CELEST). Mitarbeiter am Institut für Nanotechnologie des Karlsruhe Institute of Technology. Entwickler internationaler Maßstäbe in Batterieerforschung — räumt systematisch mit Mythen über E-Mobilität auf.

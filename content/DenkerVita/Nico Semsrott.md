@@ -7,6 +7,16 @@ tags: [denker-vita, eu, transparenz, satire, demokratie]
 
 # Nico Semsrott
 
+![[assets/Nico-Semsrott-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Deadpan-Minimalismus (Demotivations-Poster)** — Eine kleine graue Kapuzenfigur steht allein unter einer einzelnen Regenwolke in einem ironischen dünnen Posterrahmen, gedimmte europäische Sterne darüber, ein welker „Motivations"-Pfeil zeigt nach unten. Der trocken-graue Stil trägt Semsrotts Markenzeichen — Demotivation und EU-Transparenz als Satire.
+
+*Prompt:* Deadpan minimalist demotivational poster style, dry humour, 1200x500 wide banner. A small grey hooded figure standing alone under a single rain cloud inside an ironic thin poster frame, dimmed European stars above, a wilted motivational arrow pointing down; gloom as satire. Muted grey, charcoal, one faint yellow star, lots of empty space, deadpan. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

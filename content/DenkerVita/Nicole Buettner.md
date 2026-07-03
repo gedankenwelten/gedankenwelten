@@ -7,6 +7,16 @@ tags: [denker-vita, ki, technologie, unternehmertum, deutschland]
 
 # Nicole Büttner — DenkerVita
 
+![[assets/Nicole-Buettner-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Bauhaus-Optimismus (flache Geometrie)** — Eine Aufwärtskurve und eine freundliche Rakete steigen aus einem neuronalen Netz-Samen, Startup-Bausteine und KI-Funken-Icons, diagonale Strahlen des Optimismus. Die klare Bauhaus-Geometrie trägt Büttners Selbstbild als „Techoptimistin" — KI-Unternehmertum und Zuversicht.
+
+*Prompt:* Bright Bauhaus-optimist flat illustration, clean geometry, 1200x500 wide banner. An upward growth curve and a friendly rocket rising from a neural-network seed, startup building blocks and AI spark icons, diagonal beams of optimism; techno-optimism and AI entrepreneurship. Primary blue, warm orange, yellow, black, clean geometric shapes. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Nicole Büttner-Thiel** (geb. 1985, Ludwigshafen am Rhein) — Tech-Unternehmerin, KI-Wirtschaftsexpertin, Generalsekretärin der FDP (bis Mai 2026). Gründerin und Geschäftsführerin von Merantix Momentum (KI-Beratung für Unternehmen). Selbstbezeichnung: "Techoptimistin". Investorin in frühphasige KI-Gründer, Co-Gründerin AI Campus Berlin. Ausgezeichnet als "Digital Leader of Europe" durch das Weltwirtschaftsforum.
 

@@ -7,6 +7,16 @@ tags: [denker-vita, journalismus, generationen, millennials]
 
 # Niclas Seydack — DenkerVita
 
+![[assets/Niclas-Seydack-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Warme Editorial-Illustration** — Ein sanftes Collage-Porträt einer Millennial-Generation: kleine Figuren mit Laptops und Kopfhörern, Mietwohnungen und aufgeschobene Meilensteine, Bildschirme und Kaffee, betrachtet durch ein Reporter-Notizbuch und ein zuhörendes Ohr. Der warme Stil trägt Seydacks Blick — eine Generation seziert mit Wärme statt Verklärung.
+
+*Prompt:* Warm contemporary flat editorial illustration, 1200x500 wide banner. A gentle collage-portrait of a millennial generation: small figures with laptops and headphones, rented flats and delayed milestones, screens and coffee, observed warmly through a reporter's notebook and listening ear; a generation dissected with warmth. Muted teal, warm coral, mustard, cream, friendly flat shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

@@ -10,6 +10,16 @@ tags:
 
 # Michael Sterner — DenkerVita
 
+![[assets/Michael-Sterner-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Klare technische Illustration** — Ein Power-to-Gas-Kreislauf: Windräder und Solarpaneele speisen einen Elektrolyseur, der Wasser in Wasserstoff verwandelt, in einem Tank speichert und ins Netz gibt, Molekülsymbole und Flusspfeile im Kreis. Der helle Tech-Stil trägt Sterners Feld — Energiespeicher und das Power-to-Gas-Konzept.
+
+*Prompt:* Clean flat technical illustration, bright and modern, 1200x500 wide banner. A power-to-gas cycle diagram: wind turbines and solar panels feeding an electrolyser that turns water into hydrogen gas stored in a tank and fed to the grid, molecule symbols and flow arrows looping; renewable energy storage. Teal, green, warm yellow, white, crisp vector shapes and clear arrows. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

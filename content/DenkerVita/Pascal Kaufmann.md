@@ -7,6 +7,16 @@ tags: [denker-vita, ki, technologie, unternehmertum, schweiz]
 
 # Pascal Kaufmann — DenkerVita
 
+![[assets/Pascal-Kaufmann-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Neuro-Tech-Illustration** — Ein menschliches Gehirn als schneebedeckter Alpengipfel, den es zu erklimmen gilt, eine Kletterroute aus leuchtendem neuronalem Code windet sich hinauf, nahe dem Gipfel eine kleine Schweizerkreuz-Datensouveränitäts-Flagge, Schaltkreise verschmelzen mit Neuronen. Das Bild trägt Kaufmanns Suche nach Human-Level-AI und europäischer Datensouveränität.
+
+*Prompt:* Striking neuro-tech illustration, 1200x500 wide banner. A human brain rendered as a snow-capped alpine summit to be scaled, a climbing route of glowing neural code winding up it, a small Swiss-cross data-sovereignty flag planted near the peak, circuitry merging with neurons; the quest for human-level AI. Deep blue, white, warm gold code, red accent, clean modern style. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Pascal Kaufmann** — Neurowissenschaftler und Unternehmer (Schweiz). Gründer von Alpine AI (Swiss/European sovereign AI, 2023), Lab42 (Gründung 2022, Ziel: "Giant Leap in Human-Level AI"), Starmind AG (2010, KI-Wissensnetzwerke in Unternehmen). Ehemals Mindfire Foundation (Schweizer KI-Initiative). Referent am World Economic Forum (Davos). Kernbotschaft: **Vertrauen als wichtigste KI-Währung, Swiss GPT als Modell europäischer Datensouveränität**. Vielfach ausgezeichnet (Top Digital Leader Bilanz 3× in Folge, EY Entrepreneur of the Year 2015 Finalist).
 

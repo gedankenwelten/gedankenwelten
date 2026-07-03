@@ -7,6 +7,16 @@ tags: [denker-vita, geopolitik, medien, youtube]
 
 # Mark Reicher
 
+![[assets/Mark-Reicher-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache geopolitische Explainer-Grafik** — Eine stilisierte Weltkarte mit Verbindungspfeilen, kleinen Flaggen, gepunkteten Routen und Daten-Callouts, ein Zeiger und Tortendiagramme, die globale Macht erklären. Der klare Explainer-Stil trägt Reichers VisualPolitik — Geopolitik anschaulich gemacht.
+
+*Prompt:* Bold flat geopolitical explainer infographic style, 1200x500 wide banner. A stylised world map with connective arrows, small flags, dotted flight paths and data callout boxes, a pointer and pie-chart icons explaining global power; clear visual geopolitics. Teal, warm red, mustard, navy on cream, crisp vector shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

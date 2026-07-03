@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, systemtheorie, soziologie, erkenntnistheorie]
 
 # Niklas Luhmann — DenkerVita
 
+![[assets/Niklas-Luhmann-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Systemdiagramm + Zettelkasten** — Eine große Wand aus Zettelkasten-Karten, deren Karten sich über selbstbezügliche Schleifen verbinden, Kommunikation als kreisende Signal-Loops statt als Menschen, eigene Farbfelder für die Funktionssysteme der Gesellschaft. Die diagrammatische Klarheit trägt Luhmanns Systemtheorie — Autopoiesis und der berühmte Zettelkasten.
+
+*Prompt:* Clean conceptual systems diagram illustration, 1200x500 wide banner. A vast wall of a card-index slip-box (Zettelkasten) whose cards connect by self-referential looping threads, communication shown as circular signal loops rather than people, distinct coloured fields for functional subsystems of society. Cream, ink blue, warm ochre, red thread accents, precise diagrammatic linework. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Niklas Luhmann** (*1927, Lüneburg – 1998, Oerlinghausen*) — einer der bedeutendsten Soziologen des 20. Jahrhunderts, der mit seiner Systemtheorie eine der umfassendsten Gesellschaftstheorien der Moderne entwickelte.
 >

@@ -7,6 +7,16 @@ tags: [denker-vita, soziologie, eliten, soziale-ungleichheit, deutschland, macht
 
 # Michael Hartmann — DenkerVita
 
+![[assets/Michael-Hartmann-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Art-Déco-Editorial** — Ein vergoldeter geschlossener Kreis identischer Elite-Stühle hinter einer Samtkordel und eine große goldene Tür, die nur ähnliche Silhouetten einlässt und andere abweist, ein Marmor-Sitzungssaal — die geschlossene, sich selbst reproduzierende Rekrutierung der Eliten. Der Déco-Glanz trägt Hartmanns Elitenforschung.
+
+*Prompt:* Art Deco flat editorial illustration, geometric elegance, 1200x500 wide banner. A gilded closed circle of identical elite chairs behind a velvet rope and a grand golden door that admits only similar silhouettes and turns others away, a marble boardroom; the closed self-reproducing recruitment of elites. Deep navy, gold, cream, marble grey, precise deco geometry. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Michael Hartmann** (* 24. August 1952 in Paderborn) ist ein deutscher Soziologe und führender Elitenforscher im deutschsprachigen Raum. Er war von 1999 bis 2014 Professor für Soziologie an der Technischen Universität Darmstadt mit Schwerpunkten in Elitesoziologie, Industrie- und Betriebssoziologie sowie Organisationssoziologie.

@@ -11,6 +11,16 @@ tags:
 
 # Martin Heidegger — DenkerVita
 
+![[assets/Martin-Heidegger-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Anselm Kiefer** — Schwerer texturierter Impasto, düstere deutsche Landschaft: ein gepflügtes Feld und ein schmaler Waldpfad führen zu einer leuchtenden Lichtung zwischen hohen Kiefernstämmen, eine kleine einsame Schwarzwaldhütte, aschgrauer Himmel. Kiefers materiegesättigte Schwere trägt Heideggers Frage nach dem Sein — die Lichtung, in der Sein sich zeigt.
+
+*Prompt:* Anselm Kiefer style, heavy textured impasto, sombre German landscape, 1200x500 wide banner. A dark ploughed field and a narrow forest path leading toward a glowing clearing of light among tall pine trunks, a small solitary black-forest hut, ash-grey sky, a sense of the question of Being. Charcoal black, burnt umber, straw gold, thick material texture, brooding. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

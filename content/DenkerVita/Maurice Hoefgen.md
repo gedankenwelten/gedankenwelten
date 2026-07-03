@@ -7,6 +7,16 @@ tags: [denker-vita, wirtschaft, mmt, deutschland]
 
 # Maurice Höfgen — DenkerVita
 
+![[assets/Maurice-Hoefgen-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache Editorial-Explainer-Illustration** — Geld fließt in hellen Strömen aus einem Zentralbankgebäude und einer Computertastatur, wo Münzen als Tastenanschläge entstehen, hinaus zu Häusern, Schulen und Händen — wie Geld geschöpft wird, entmystifiziert. Der klare Erklärstil trägt Höfgens „Geld für die Welt" und sein MMT-Denken.
+
+*Prompt:* Bold flat editorial explainer illustration, 1200x500 wide banner. Money flowing as bright streams from a central-bank building and a computer keyboard where coins appear as keystrokes, spreading out to houses, schools and hands; demystifying how money is created. Deep green, gold, teal, cream, clean confident vector shapes and simple arrows. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > **Maurice Höfgen** (*1996, Mönchengladbach*) — Ökonom, Publizist, YouTuber. BA Handelsmanagement (Europäische Fachhochschule Brühl, 2017), MA Economics and Strategy in Emerging Markets (Maastricht University, 2019). Ehemaliger wissenschaftlicher Mitarbeiter im Bundestag (Die Linke), seit 2021 unabhängiger Kommentator. YouTube-Kanal „Geld für die Welt" (251.000+ Abonnenten). Kolumnist der Berliner Zeitung, Forbes 30 Under 30 (2025). Seit 2025 Mitherausgeber von *Surplus* (mit Isabella M. Weber und Adam Tooze).
 >

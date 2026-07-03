@@ -7,6 +7,16 @@ tags: [denker-vita, usa, trump, widerstand, demokratie]
 
 # Paul Lance — DenkerVita
 
+![[assets/Paul-Lance-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Warme dokumentarische Flat-Illustration** — Eine Gestalt mit Handkamera und Mikrofon führt Straßeninterviews durch europäische Städte, im Hintergrund angedeutete Wahrzeichen von London, Paris und Berlin, bunte Sprechblasen vieler Stimmen, ein kleiner Kompass des Gewissens. Der warme Stil trägt Lances Arbeit — hinhören, wie die Welt auf Trumps zweite Amtszeit blickt.
+
+*Prompt:* Warm flat documentary illustration, 1200x500 wide banner. A figure with a handheld camera and microphone doing street interviews across European cities with faint London, Paris and Berlin landmarks behind, colourful speech bubbles of many voices, a small compass of conscience; listening to how the world sees America. Warm coral, teal, mustard, cream, friendly flat shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

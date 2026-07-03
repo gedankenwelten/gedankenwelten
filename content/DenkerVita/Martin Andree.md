@@ -6,6 +6,16 @@ tags: [denker-vita, medien, big-tech, demokratie, deutschland]
 
 # Martin Andree — DenkerVita
 
+![[assets/Martin-Andree-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Konstruktivistische Editorial-Illustration** — Eine riesige monolithische dunkle Tech-Plattform-Platte wird von einem hellen Keil aufgesprengt und entlässt viele kleine bunte, vielfältige Medien, Bildschirme und Stimmen in einen offenen Himmel — der Griff der Big-Tech-Monopole wird gebrochen. Die kraftvolle Geometrie trägt Andrees These: „Big Tech muss weg".
+
+*Prompt:* Bold constructivist editorial illustration, strong diagonals, 1200x500 wide banner. A giant monolithic dark tech platform slab being cracked open by a bright wedge, releasing many small colourful diverse media outlets, screens and voices into an open sky; breaking the grip of big tech monopoly. Black, red, teal, cream, powerful geometric composition. No photorealism, no realistic faces.
+
+</details>
+
 > [!info] Wer spricht?
 > Medienwissenschaftler und Monopol-Kritiker — 15+ Jahre Forschung zur Machtkonzentration von Big Tech. Prof. Dr. Martin Andree lehrt als apl. Professor an der Universität zu Köln und hat mit "Big Tech muss weg!" (2023, Günter-Wallraff-Sonderpreis) die schärfste deutschsprachige Programmschrift zur Plattform-Oligarchie geschrieben: Nicht abstrakt, sondern Zahl gegen Zahl — warum die Entflechtung keine Option, sondern eine Überlebensfrage ist.
 
