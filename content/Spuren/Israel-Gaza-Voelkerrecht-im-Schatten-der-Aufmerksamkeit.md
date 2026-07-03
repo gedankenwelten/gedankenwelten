@@ -116,6 +116,10 @@ während die Welt wegschaut.
 
 Dieselbe Region, andere Achse: Dort wird Recht *vertagt*, hier im Angriff selbst zur Streitfrage. Beide prüfen, was Gewalt mit der Ordnung macht, die sie zu schützen vorgibt.
 
+### → [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
+
+Der Gegenschuss zur Spur: Wo die Spur *misst*, dass die Aufmerksamkeit abfließt und Recht vertagt wird, behauptet der Medienkritiker Johnson mit Zähl-Methodik, *wer* den Abfluss organisiert — Zeit kaufen. Sein „Ceasefire-Theater" ist die medienseitige Entsprechung der Verfahrenssimulation, die diese Spur auf der Völkerrechtsebene verfolgt.
+
 ## Quellen
 
 - [ICJ — South Africa v. Israel (Verfahrensstand, Wikipedia-Überblick mit Primärquellen)](https://en.wikipedia.org/wiki/South_Africa's_genocide_case_against_Israel)

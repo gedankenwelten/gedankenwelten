@@ -13,6 +13,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Adam Johnson
+**Status:** ✓ Vollanalyse → [[DenkerVita/Adam Johnson]]
+
+---
+
 ## Tobias Rüther
 **Status:** ✓ Vollanalyse → [[DenkerVita/Tobias Rüther]]
 
