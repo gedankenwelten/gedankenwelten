@@ -88,6 +88,21 @@ Was der Einzelne mit einem Zeichen tut, das er sein Leben lang benutzt hat und d
 
 ---
 
+## Quellen & Vertiefung
+
+Für alle, die einzelnen Fällen nachgehen wollen — geordnet wie im Text:
+
+- **OK-Zeichen:** [SPLC — OK sign: white power symbol or right-wing troll?](https://www.splcenter.org/resources/hatewatch/ok-sign-white-power-symbol-or-just-right-wing-troll/) · [ADL — How the "OK" Symbol Became a Popular Trolling Gesture](https://www.adl.org/resources/article/how-ok-symbol-became-popular-trolling-gesture) · [ADL — Okay Hand Gesture (Hate on Display)](https://www.adl.org/resources/hate-symbol/okay-hand-gesture) · [NPR — The 'OK' Hand Gesture Is Now Listed As A Symbol Of Hate](https://www.npr.org/2019/09/26/764728163/the-ok-hand-gesture-is-now-listed-as-a-symbol-of-hate)
+- **Bellamy-Gruß & „römischer" Gruß:** [Wikipedia — Bellamy salute](https://en.wikipedia.org/wiki/Bellamy_salute) · [Smithsonian Magazine — Why We Say the Pledge With a Hand Over the Heart](https://www.smithsonianmag.com/history/why-we-say-pledge-allegiance-hand-over-heart-180964630/) · [Wikipedia — Roman salute (die erfundene Tradition)](https://en.wikipedia.org/wiki/Roman_salute)
+- **Swastika:** [BBC — How the world loved the swastika — until Hitler stole it](https://www.bbc.com/news/magazine-29644591) · [ADL — Swastika](https://www.adl.org/resources/hate-symbol/swastika)
+- **Runen, Schwarze Sonne, Kühnengruß:** [ADL — Othala-Rune](https://www.adl.org/resources/hate-symbol/othala-rune) · [ADL — Sonnenrad/Schwarze Sonne](https://www.adl.org/resources/hate-symbol/sonnenrad) · [Wikipedia — Kühnengruß](https://de.wikipedia.org/wiki/K%C3%BChnengru%C3%9F) · [bpb — Das Versteckspiel: Symbole und Zeichen der Rechtsextremen](https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/173908/das-versteckspiel-symbole-und-zeichen/)
+- **Pepe der Frosch:** [ADL — Pepe the Frog](https://www.adl.org/resources/hate-symbol/pepe-frog) · [„Feels Good Man" — Dokumentarfilm über Matt Furies Kampf um seinen Frosch](https://www.feelsgoodmanfilm.com/)
+- **Kleidung als Code:** [Al Jazeera — Fred Perry stops sales of shirt adopted by far-right Proud Boys](https://www.aljazeera.com/news/2020/9/28/fred-perry-stops-sale-of-shirt-adopted-by-far-right-proud-boys) · [Wikipedia — Boogaloo movement (Hawaii-Hemden)](https://en.wikipedia.org/wiki/Boogaloo_movement)
+- **Schahada & schwarze Fahne:** [Wikipedia — Black Standard](https://en.wikipedia.org/wiki/Black_Standard)
+- **Rosa Winkel — die Rückeroberung:** [US Holocaust Memorial Museum — Gay Men under the Nazi Regime](https://encyclopedia.ushmm.org/content/en/article/gay-men-under-the-nazi-regime) · [Wikipedia — Pink triangle (vom Stigma zum Banner)](https://en.wikipedia.org/wiki/Pink_triangle)
+
+---
+
 ## Verbindungen
 
 - [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]] — Der Schwestergedanke für Worte: Begriffshoheit als Machtinstrument. Zeichen liegen eine Schicht tiefer — gegen die Umdeutung einer Geste hilft kein Gegenargument, nur der fortgesetzte Gebrauch.
