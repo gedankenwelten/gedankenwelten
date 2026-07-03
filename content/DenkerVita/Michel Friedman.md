@@ -7,6 +7,16 @@ tags: [denker-vita, publizistik, philosophie, demokratie, antisemitismus]
 
 # Michel Friedman — DenkerVita
 
+![[assets/Michel-Friedman-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Max Beckmann (Expressionismus)** — Eine aufrechte Gestalt hebt die Hand und spricht gegen eine aufsteigende Flut dunkler Schatten, eine kleine stetige Flamme der Erinnerung und eine Menora leuchten daneben, scharfe Worte wie Strahlen drängen das Dunkel zurück. Beckmanns wuchtige Kontur trägt Friedmans Kern — die kämpferische Verteidigung der Demokratie und das Gedächtnis gegen den Hass.
+
+*Prompt:* Max Beckmann German Expressionism style, bold black outlines, dramatic, 1200x500 wide banner. A single upright figure raising a hand and speaking out against a rising tide of dark shadow shapes, a small steady flame of remembrance and a menorah of memory glowing beside, sharp words like beams pushing back the dark; the defence of democracy. Deep black, ochre, blood red, teal, heavy expressive contour. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

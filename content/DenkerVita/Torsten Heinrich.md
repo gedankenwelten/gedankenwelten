@@ -7,6 +7,16 @@ tags: [denker-vita, geopolitik, militaer, youtube]
 
 # Torsten Heinrich
 
+![[assets/Torsten-Heinrich-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Klare Editorial-Illustration** — Eine lange historische Zeitleiste rollt sich zu einer Weltkarte mit Verbindungspfeilen auf, Imperien und Daten verknüpfen Vergangenheit und heutige Machtkämpfe, eine Historiker-Lupe über einem Wendepunkt. Der präzise Stil trägt Heinrichs Arbeit — Geschichte und Geopolitik erklärt.
+
+*Prompt:* Clean flat editorial illustration, 1200x500 wide banner. A long historical timeline scroll unrolling into a world map with connective arrows, empires and dates linking past to present power struggles, a historian's magnifier over a pivot point; history and geopolitics explained. Sepia, teal, warm red, navy, cream, crisp shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?

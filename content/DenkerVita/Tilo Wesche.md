@@ -7,6 +7,16 @@ tags: [denker-vita, philosophie, eigentumstheorie, kritische-theorie, naturrecht
 
 # Tilo Wesche — DenkerVita
 
+![[assets/Tilo-Wesche-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Flache symbolische Illustration** — Ein großer Baum und ein Fluss stehen als Rechtssubjekte vor einer ausbalancierten goldenen Waage der Gerechtigkeit, Wurzeln erobern eingezäuntes Land zurück, ein Richterhammer wird zum Blatt. Der klare Stil trägt Wesches Thema — die Rechte der Natur und die Kritik der Eigentumsordnung.
+
+*Prompt:* Flat symbolic editorial illustration, 1200x500 wide banner. A great tree and a river standing as legal subjects before a balanced set of golden scales of justice, roots reclaiming a fenced plot, a gavel turning into a leaf; the rights of nature and a critique of property. Deep green, gold, earth brown, cream, clean graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Prof. Dr. Tilo Wesche** (* 1968) — Deutscher Philosoph und Professor für Praktische Philosophie an der Carl von Ossietzky Universität Oldenburg (seit 2018). Assoziierter Fellow am Max-Weber-Kolleg der Universität Erfurt.

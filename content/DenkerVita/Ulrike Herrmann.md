@@ -7,6 +7,16 @@ tags: [denker-vita, wirtschaft, kapitalismus, klimakrise, deutschland]
 
 # Ulrike Herrmann — DenkerVita
 
+![[assets/Ulrike-Herrmann-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Bold flat editorial** — Ein unendlicher Wachstumspfeil schießt nach oben, trifft auf eine harte planetare Grenze und biegt hinab in einen stabilen grünen Kreislauf aus Gärten und Windrädern. Der klare Stil trägt Herrmanns These — das Ende des Wachstumskapitalismus und ein geplanter grüner Übergang.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. An infinite-growth arrow shooting upward, hitting a hard planetary-boundary ceiling and bending down into a stable green circular economy of gardens and wind turbines; the end of growth capitalism and a planned green transition. Deep green, teal, ochre, red arrow, cream, clean graphic shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 **Ulrike Herrmann** (*13. Januar 1964, Hamburg) ist eine deutsche Wirtschaftsjournalistin und Publizistin. Sie ist seit 2000 Redakteurin bei der *taz* und seit 2006 Wirtschaftskorrespondentin — eine Position, die ihr Sichtbarkeit in der deutschsprachigen Mediendebatte gab.

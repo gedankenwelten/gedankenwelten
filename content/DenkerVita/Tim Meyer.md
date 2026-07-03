@@ -7,6 +7,16 @@ tags: [denker-vita, energiepolitik, wirtschaft, geopolitik, deutschland]
 
 # Tim Meyer — DenkerVita
 
+![[assets/Tim-Meyer-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Bold flat editorial** — Eine Weltkarte als Energie-Schachbrett mit Pipelines, Stromleitungen, Windrädern und Gasflammen als Figuren, Pfeile der Energie-Geopolitik und ein Stecker der Unabhängigkeit. Der klare Stil trägt Meyers Feld — der unabhängige Energieexperte und die Strategie der Energiesicherheit.
+
+*Prompt:* Bold flat editorial illustration, 1200x500 wide banner. A world map as an energy chessboard with pipelines, power lines, wind turbines and gas flames as chess pieces, arrows of energy geopolitics and a plug of independence; the strategy of energy security. Steel blue, warm red, mustard, cream, crisp geometric shapes. No photorealism, no realistic faces.
+
+</details>
+
 ## Biografie
 
 - **Beruf:** Unabhängiger Energieexperte, Unternehmer, Autor
