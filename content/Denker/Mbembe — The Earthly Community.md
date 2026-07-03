@@ -15,6 +15,16 @@ aliases:
 
 # Achille Mbembe — The Earthly Community
 
+![[assets/Mbembe-The-Earthly-Community-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Papa Ibra Tall / École de Dakar** — senegalesische Tapisserie-Moderne: Terrakotta, Indigo, Ocker, rhythmische Fadenlinien. Mbembes Kernsatz — *being with others preceded being in and of itself* — wird hier zur Machart des Bildes selbst: Menschen, Tiere und Bäume bestehen aus denselben Fäden, die alle mit der Erde in der Mitte verweben. Verflechtung nicht als Symbol, sondern als Gewebe.
+
+*Prompt:* African modernist tapestry in the style of Papa Ibra Tall and the Ecole de Dakar: stylized human silhouettes, trees, birds and animals all woven from the same flowing curved threads, their bodies merging into a shared web of lines that wraps around a large glowing earth-orb at the center of the banner; radiating woven filaments connect every figure to the earth and to each other; warm palette of terracotta, deep indigo, ochre yellow, forest green and burnt orange, flat decorative textile texture, rhythmic curved linework, wide banner composition, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [The Holberg Lecture — "The Earthly Community"](https://www.youtube.com/watch?v=omx5NuYBxIk)
 
 > [!info] Wer spricht?

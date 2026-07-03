@@ -16,6 +16,16 @@ aliases:
 
 # Hans-Peter Dürr — Die neue Physik
 
+![[assets/Hans-Peter-Duerr-Die-neue-Physik-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hilma af Klint** — spirituelle Abstraktion, zarte Diagramm-Geometrie in Gold, Puderblau und Rosé; die Malerin, die Unsichtbares als Beziehungsordnung sichtbar machte, Jahrzehnte vor der Quantenmechanik. Dürrs Kernsatz wird hier Bild: die feste Materie-Kugel löst sich in ein leuchtendes Netz aus Fäden auf — keine festen Knoten, nur Beziehung, Potentialität statt Substanz.
+
+*Prompt:* An abstract spiritual painting in the style of Hilma af Klint: at the left, a solid dark sphere gently dissolving — its surface breaking into fine luminous threads that spread rightward into a vast delicate web of connections, glowing filaments joining floating circles, spirals, almond shapes and small radiant orbs of different sizes, no fixed nodes, everything held only by lines of relation. Soft diagrammatic geometry with hand-painted warmth on a pale cream and dusty rose background, palette of muted gold, powder blue, apricot, lavender and deep indigo accents. Serene, weightless, cosmic. Wide banner composition, no photorealism, no realistic faces.
+
+</details>
+
 Quellen: drei Interviews / Vorträge mit Prof. Dr. Hans-Peter Dürr
 Transkript 1: `Gedankenwelten/Transkripte/Duerr_1_Die_neue_Physik_Transkript.txt` *(Whisper-Transkription)*
 Transkript 2: `Gedankenwelten/Transkripte/Duerr_2_Weil_es_ums_Ganze_geht_Transkript.txt`

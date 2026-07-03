@@ -17,6 +17,16 @@ aliases:
 
 # Thich Nhat Hanh — Die Vier Edlen Wahrheiten
 
+![[assets/Thich-Nhat-Hanh-Die-Vier-Edlen-Wahrheiten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Zen-Tuschmalerei im Geist von Thich Nhat Hanhs eigenen Kalligrafie-Kreisen** — Sumi-e auf Reispapier, Tuschschwarz, Grauschleier, ein Hauch Rosa. Der unvollkommene Ensō umfängt beides zugleich: unten den dunklen Schlamm, oben den sich lichtenden Nebel, dazwischen den Lotus — Sahabhū, gemeinsam entstehen. No mud, no lotus: die Erste und die Dritte Wahrheit in einem einzigen Atemzug des Pinsels.
+
+*Prompt:* A Zen sumi-e ink wash painting in the calligraphic spirit of Thich Nhat Hanh's brush circles, on warm cream rice paper with visible fiber texture: one large imperfect enso circle drawn in a single breathing brushstroke, its lower arc passing through a pool of dark wet ink-black mud, its upper arc thinning into pale grey mist; growing from the dark mud inside the circle, a single white lotus flower on a slender stem with one leaf, painted in minimal strokes; a few drops of ink spatter, generous empty space left and right, palette of ink black, soft grey washes, cream paper and a faint blush of rose on the lotus, contemplative stillness, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [The Four Noble Truths — Teaching by Thich Nhat Hanh](https://www.youtube.com/watch?v=dy-RI3FrdGA) *(Ausschnitt aus dem Art of Suffering Retreat, Blue Cliff Monastery, 27.08.2013)*
 
 > [!info] Wer spricht?

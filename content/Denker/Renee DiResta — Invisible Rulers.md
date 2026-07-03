@@ -19,6 +19,16 @@ aliases:
 
 # Renée DiResta — Invisible Rulers: Wie Lügen zur Realität werden
 
+![[assets/Renee-DiResta-Invisible-Rulers-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — surrealistische Ölmalerei, taubenblauer Wolkenhimmel, unheimliche Stille. Die *Invisible Rulers* wörtlich genommen: halbtransparente, gesichtslose Herren mit Melone halten Marionettenkreuze, deren Fäden zu einer Reihe leuchtender Fenster führen — und jedes Fenster zeigt ein anderes Wetter. DiRestas Realitätsfragmentierung als Magritte-Bild: sauber, ruhig, und genau darum beunruhigend.
+
+*Prompt:* Surrealist oil painting in the style of Rene Magritte: a calm blue sky with white clouds where several faceless men in dark suits and bowler hats float half-transparent, each holding a wooden marionette crossbar; fine threads descend from the crossbars to a quiet crowd of small figures standing on a flat green plain below, each figure gazing into its own glowing upright window frame, and every window shows a different weather — one a sunny sky, one a storm, one a red desert, one falling snow; clean smooth brushwork, muted palette of dove blue, cloud white, dark suit gray and soft green, uncanny stillness, wide banner composition, no photorealism, no realistic faces
+
+</details>
+
 Quellen:
 - [The Invisible Rulers Turning Lies Into Reality](https://www.youtube.com/watch?v=Ad2gjdN_k5Y) — Commonwealth Club World Affairs, 17. Juni 2024
 - [AISSR Lecture | From Posts to Policy: The New Architecture of Influence](https://www.youtube.com/watch?v=NshbWW3UogU) — Universität Amsterdam, 6. November 2025 (mit Panel: Ulrike Klinger, Liza Mugge)

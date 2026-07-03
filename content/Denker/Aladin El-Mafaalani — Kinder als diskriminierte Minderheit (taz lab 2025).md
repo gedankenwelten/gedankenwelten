@@ -23,6 +23,16 @@ aliases:
 
 # Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)
 
+![[assets/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-taz-lab-2025-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn** — sozialrealistische Tempera-und-Tusche-Hand, kantige Figuren, flache Flächen: oben die graue Übermacht der Erwachsenen am langen Tisch, in Zeitungen und Wahlzettel vertieft, leere Stühle; unten klein und leuchtend bunt die Kinder auf schrumpfendem Boden. El-Mafaalanis Tischmetapher und die demografische Unsichtbarkeit der Kinder in einem Blick — Shahns Hand, weil sie soziale Schieflagen ohne Pathos zeigt.
+
+*Prompt:* Social realist illustration in the style of Ben Shahn, tempera and ink, a long elevated table crowded with large grey angular adult figures in suits absorbed in newspapers and ballot papers, below at the margin a small group of tiny brightly colored children playing with a ball and chalk drawings on shrinking ground, one child looking up at the table, empty chairs at the table, muted palette of grey, ochre and charcoal with vivid red, yellow and blue reserved for the children, rough expressive linework, flat composition, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [taz lab 2025: Kein Herz für Kinder — die Diskriminierung der GenZ mit Aladin El-Mafaalani](https://www.youtube.com/watch?v=Iip-CLJ-DR8)
 Gesprächspartnerin: Paulina Unfried (Politikwissenschaftlerin und Autorin, taz)
 

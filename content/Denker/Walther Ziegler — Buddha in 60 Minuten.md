@@ -14,6 +14,16 @@ aliases:
 
 # Walther Ziegler — Buddha in 60 Minuten
 
+![[assets/Walther-Ziegler-Buddha-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hiroshige** — japanischer Farbholzschnitt, flache Farbflächen, Preußischblau und Morgenrot, der Mensch klein in weiter Landschaft. Die Hand der stillen Gelassenheit übersetzt das Kernbild der Note: das Floß-Gleichnis — die Lehre als Werkzeug, am Ufer zurückgelassen, während der Weg weitergeht.
+
+*Prompt:* Japanese ukiyo-e woodblock print in the style of Hiroshige: a wide calm river at dawn, an empty bamboo raft left behind on the near shore among reeds; on the far shore a small figure in a yellow-orange monk robe walking away along a path toward a great bodhi fig tree on a low hill; soft gradient sky from pale rose to indigo, flat color planes, delicate outlines, Prussian blue water with gentle ripples; wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Buddha in 60 Minuten](https://www.youtube.com/watch?v=4xrc6ZFEHb0)
 
 > [!info] Wer spricht?

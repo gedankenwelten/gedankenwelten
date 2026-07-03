@@ -19,6 +19,16 @@ aliases:
 
 # Walther Ziegler — Platon in 60 Minuten
 
+![[assets/Walther-Ziegler-Platon-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hilma af Klint** — spirituelles Diagramm in Altrosa, Ocker, Blassblau und Gold: unten die dunkle Höhle mit den gefesselten Schattendeutern, eine Treppe steigt hinauf in die Zone der vollkommenen Kreise und der großen goldenen Sonne. Af Klints Formensprache ist gemalte Ideenlehre — der perfekte Kreis, den es in der Wirklichkeit nirgends gibt, existiert bei ihr wirklich.
+
+*Prompt:* Spiritual diagram painting in the style of Hilma af Klint: lower third shows a dark cave interior with small seated silhouette figures chained facing a wall of flickering shadow shapes cast by a fire; a winding pale stair-path ascends from the cave; upper zone filled with luminous perfect concentric circles, radiant geometric forms and one great golden sun-circle floating in a soft cream sky, delicate spirals and petal shapes connecting the zones, palette of dusty pink, ochre, pale blue, gold and deep umber, flat tempera texture, mystical botanical geometry, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Platon in 60 Minuten](https://www.youtube.com/watch?v=1yQTYWSoDiw)
 
 > [!info] Wer spricht?

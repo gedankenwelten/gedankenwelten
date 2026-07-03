@@ -16,6 +16,16 @@ aliases:
 
 # Heiner Flassbeck — Krise und Rechtsruck
 
+![[assets/Heiner-Flassbeck-Krise-und-Rechtsruck-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**George Grosz / Neue Sachlichkeit** — satirische Tusche mit Aquarell, Sepia-Ocker-Aschgrau und ein getrocknetes Rot. Die gekippte Waage ist Flassbecks ganze Ökonomie in einem Bild: Sparen des einen ist Schuld des anderen — und am rechten Rand marschiert schon, was aus der Krise wächst. Grosz sah in Weimar genau diese Verbindung von Wirtschaftsverzerrung und politischer Verdüsterung.
+
+*Prompt:* Satirical ink and watercolor drawing in the style of George Grosz and Weimar-era Neue Sachlichkeit: a huge tilted balance scale dominates the center — one pan piled high with gold coins, stamped crates and factory goods sinking heavily down, the other pan rising with small caricatured figures clinging to empty ledger books and debt papers. Behind the scale a smoky European cityscape with cranes and chimneys. At the right edge, a column of dark angular shadow-figures marches toward the scene under a bruised sky. Palette of sepia, ochre, ash grey, dried-blood red. Scratchy pen lines, loose watercolor washes, caricature not realism. Wide banner, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: Vortrag bei der SPD Remscheid — aufgenommen und kommentiert von Maurice Höfgen (Geld für die Welt)
 
 > [!info] Wer spricht?

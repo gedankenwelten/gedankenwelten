@@ -15,6 +15,16 @@ aliases:
 
 # Liya Yu — Der neuropolitische Gesellschaftsvertrag
 
+![[assets/Liya-Yu-Der-neuropolitische-Gesellschaftsvertrag-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Remedios Varo** — surrealistische Eitempera-Feinmalerei, Ocker, Moosgrün, Kerzenbernstein. Figuren mit gläsernen Köpfen, in denen Gehirne wie Laternen leuchten, schließen über einem Pergament ihren Vertrag — die Fäden verknoten sich, einer ist ausgefranst und dunkel. Varos alchemistische Präzision übersetzt Yus Kern: Der Gesellschaftsvertrag wird nicht zwischen Vernunftwesen geschlossen, sondern zwischen verletzlichen Gehirnen — und er kann reißen.
+
+*Prompt:* Surrealist painting in the style of Remedios Varo: a long medieval wooden table in a candlelit gothic chamber, around it sit six slender robed figures whose heads are translucent glass vessels each containing a small glowing brain like a lantern. In the center of the table lies a large unrolled parchment contract, and from each glass head a fine luminous golden thread arcs down to the parchment, the threads weaving together into one knot above it. One figure's thread is frayed and dark. Muted palette of ochre, moss green, dusty rose and amber candle glow, fine egg-tempera detail, elongated mysterious figures, alchemical instruments in the background. Wide banner, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Neuropolitics with Dr. Liya Yu | Nu Rho Psi 2025 Keynote](https://www.youtube.com/watch?v=-GrWo_vzC_Q)
 
 > [!info] Wer spricht?

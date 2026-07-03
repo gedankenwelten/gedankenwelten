@@ -17,6 +17,16 @@ aliases:
 
 # Walther Ziegler — Marx in 60 Minuten
 
+![[assets/Walther-Ziegler-Marx-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera** — mexikanischer Muralismus, erdige Fresko-Palette, monumentale Arbeiterkörper. Rivera war selbst Marxist und hat die Würde der Produktion wie kein Zweiter gemalt; das zweigeschossige Wandbild übersetzt die Kernthese der Note wörtlich: unten die Basis (Pflug, Esse, Brot), oben der Überbau (Kirche, Recht, Kapital) — getragen von den Schultern derer, die arbeiten.
+
+*Prompt:* Mexican muralism fresco in the style of Diego Rivera: a monumental two-tiered composition; the lower tier filled with rows of muscular stylized workers with simplified rounded faces — plowing fields, forging steel at glowing furnaces, turning great gears and conveyor belts, kneading bread; the upper tier resting on their shoulders shows smaller figures of a cathedral, a courthouse, a top-hatted banker with a money sack and marble statues; earthy fresco palette of terracotta, ochre, deep green, steel blue and muted red, strong rounded volumes, flattened perspective; wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Marx in 60 Minuten](https://www.youtube.com/watch?v=thoI8naBo4E)
 
 > [!info] Wer spricht?

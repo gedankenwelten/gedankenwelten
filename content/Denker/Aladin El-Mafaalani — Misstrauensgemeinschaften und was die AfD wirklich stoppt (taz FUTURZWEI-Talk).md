@@ -28,6 +28,16 @@ aliases:
 
 # Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt
 
+![[assets/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-taz-FUTURZWEI-Talk-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Frans Masereel** — expressionistischer Holzschnitt in Schwarz-Weiß mit einem einzigen Rot: nächtliche Mietskasernen, in jedem Fenster eine vereinzelte Figur am leuchtenden Bildschirm, über die Dächer ein rotes Fadennetz, das die Isolierten zu einem Gewebe verknüpft — im Hintergrund die gerissene Fassade der Institutionen. Masereels Bildwelt der modernen Vereinzelung, ins Algorithmus-Zeitalter gedreht: genau El-Mafaalanis Vergemeinschaftung des Misstrauens.
+
+*Prompt:* Expressionist woodcut in the style of Frans Masereel, stark black and white, a dense nocturnal city of tenement blocks, in many lit windows solitary figures sitting alone hunched over small glowing screens, thin luminous red threads running from window to window across the dark rooftops weaving the isolated figures into one tangled web, a great crack running through a monumental bank and parliament building in the background, high contrast bold carving marks, palette of black, white and a single vivid red, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Weiterdenken mit Aladin El-Mafaalani – taz FUTURZWEI-Talk](https://www.youtube.com/watch?v=5ba1RfeNeP0)
 Gesprächspartner: Peter Unfried (Chefredakteur taz FUTURZWEI)
 

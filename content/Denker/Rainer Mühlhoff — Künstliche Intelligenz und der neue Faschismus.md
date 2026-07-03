@@ -19,6 +19,16 @@ aliases:
 
 # Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus
 
+![[assets/Rainer-Muehlhoff-Kuenstliche-Intelligenz-und-der-neue-Faschismus-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Frans Masereel** — expressionistischer Schwarzweiß-Holzschnitt mit einem einzigen Karmesin-Akzent. Mühlhoffs „Authoritarian Stack" als Bild: der Server-Monolith mit leuchtenden Augen thront über der Parlamentskuppel, seine Kabel wurzeln in die Stadt, aus den Menschenströmen steigen punktierte Datenlinien nach oben. Masereels Bildromane (*Die Stadt*, *Die Idee*) sind die Ur-Sprache für Macht, Masse und Maschine — hier auf die Desouveränisierung gewendet.
+
+*Prompt:* Expressionist black and white woodcut in the style of Frans Masereel: a colossal monolithic server tower with glowing rectangular eyes looming over a small parliament dome with columns, thick black cables running from the tower like roots down into a dense city of crowded rooftops; streams of tiny human silhouettes march through the streets while thin dotted lines rise from their heads up into the tower; stark high-contrast black ink on cream paper with rough gouge marks, dramatic diagonal light rays cutting through, one deep crimson accent glowing at the top of the tower, wide banner composition, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Jung & Naiv: Folge 818](https://www.youtube.com/watch?v=DY_LgqIh40k)
 
 > [!info] Wer spricht?

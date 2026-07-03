@@ -18,6 +18,16 @@ aliases:
 
 # Adriaan van Wagensveld — Ksitigarbha: Die Wunden als Schatz
 
+![[assets/Adriaan-van-Wagensveld-Ksitigarbha-die-Wunden-als-Schatz-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ostasiatisches buddhistisches Rollbild** — Gold und Mineralpigment auf tiefem Indigo, hieratisch-flach: Ksitigarbha mit Ringstab und leuchtendem Kristall in der Unterwelt, der rissige Boden mit goldenen Kintsugi-Adern durchzogen. Die Bildtradition, aus der die Figur selbst stammt — und die Goldnähte im Höllenboden sind Adriaans Kernsatz wörtlich genommen: die Wunden als Schatz.
+
+*Prompt:* East Asian Buddhist scroll painting in gold and mineral pigment on deep indigo, a serene robed bodhisattva figure walking down into a dark cavernous underworld holding a tall ringed iron staff and a small radiant crystal orb, the orb casting warm light onto huddled shadowy figures who look up, the cracked dark ground veined with luminous gold seams like kintsugi repairs glowing as buried treasure, stylized flames along the upper edge, palette of indigo, gold leaf, vermilion and bone white, flat hieratic composition, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Warum wir leiden... und wie Ksitigarbha einen Ausweg zeigt — Vipassana Retreat Vortrag](https://www.youtube.com/watch?v=6oKI5QMfF20)
 
 > [!info] Wer spricht?

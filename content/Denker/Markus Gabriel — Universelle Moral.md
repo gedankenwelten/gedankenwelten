@@ -17,6 +17,16 @@ aliases:
 
 # Markus Gabriel — Kann es eine universelle Moral geben?
 
+![[assets/Markus-Gabriel-Universelle-Moral-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Henri Matisse (Gouaches découpées)** — Scherenschnitt-Silhouetten in Kobalt und Terrakotta, Hand in Hand über gerissenen Farbfeldern, dazwischen Algenblätter und Sterne. Matisse' später Reigen ist das Bild für Gabriels These: Universelle Moral ist kein Slogan von oben, sondern die gelebte Kette verschiedener Menschen, die sich von unten verbindet — verschieden in der Farbe, gleich in der Geste.
+
+*Prompt:* Abstract paper cut-out artwork strictly in the style of Henri Matisse's late gouaches decoupees and La Danse: highly simplified faceless human silhouettes without hair or clothing details, pure organic cut-paper shapes, holding hands in one sweeping ring across the whole banner. The figures alternate between deep cobalt blue and warm terracotta. Behind them large irregular color fields of coral, sage green and ochre torn paper. Scattered between the dancers: Matisse-style algae leaves and four-pointed stars in black and yellow. Flat matte gouache on cream ground, bold scissor-cut edges, no outlines, no shading, no facial features, radically simplified. Wide banner, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Kann es eine „universelle Moral" geben, Markus Gabriel? (Über den Tag hinaus, Heinrich-Böll-Stiftung)](https://www.youtube.com/watch?v=RM3AJ2vV6WE)
 
 > [!info] Wer spricht?

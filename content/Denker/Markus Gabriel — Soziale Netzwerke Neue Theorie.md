@@ -14,6 +14,16 @@ aliases:
 
 # Markus Gabriel — Was die sozialen Netzwerke mit uns machen
 
+![[assets/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Fernand Léger** — Tubismus des Maschinenzeitalters, Kobalt, Rot, Gelb, schwarze Konturen, Zylinder und Zahnräder. Die User arbeiten am Fließband der Plattform, jeder mit leuchtendem Screen und Avatar — und die Fäden laufen nach oben in eine große unsichtbare Hand: Wer den Avatar steuert, steuert den Menschen. Léger malte das mechanisierte Menschenbild der Fabrik; Gabriels Digitalproletariat ist dessen heutige Fortsetzung.
+
+*Prompt:* Painting in the style of Fernand Leger, tubist machine-age modernism: a row of stylized tubular human figures working at a great horizontal conveyor-belt machine of cylinders, cogwheels and glossy pipes, each figure holding a small glowing rectangular screen from which a marionette avatar figure rises on thin strings. Above the belt, the strings all run upward into one large unseen hand made of flat black geometry. Bold flat primary colors — cobalt blue, red, yellow — with black contour lines, grey mechanical cylinders, white highlights, rhythmic overlapping geometry. Monumental, graphic, no depth haze. Wide banner, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Prof Dr. Markus Gabriel – Was die sozialen Netzwerke mit uns machen: Eine neue Theorie](https://www.youtube.com/watch?v=3CRzqkpePaY)
 
 > [!info] Wer spricht?

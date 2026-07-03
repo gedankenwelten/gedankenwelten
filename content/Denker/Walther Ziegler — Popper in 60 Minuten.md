@@ -16,6 +16,16 @@ aliases:
 
 # Walther Ziegler — Popper in 60 Minuten
 
+![[assets/Walther-Ziegler-Popper-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Japanischer Holzschnitt (Hiroshige / Ohara Koson)** — flache Farbflächen in Indigo, Creme und Tuschschwarz: die Sonnenfinsternis von 1919 mit gekrümmten Sternbahnen über einem See voller weißer Schwäne — und dem einen schwarzen. Die kühle Eleganz des Holzschnitts trägt Poppers Pointe perfekt: ein einziges Gegenbeispiel genügt, still und unwiderlegbar.
+
+*Prompt:* Japanese woodblock print in the style of Hiroshige and Ohara Koson: a flock of elegant white swans gliding on dark indigo water, among them one single black swan standing out clearly; above, a dramatic solar eclipse — black sun disc with thin silver corona in a deep Prussian blue sky, two small bright stars whose light trails visibly bend in a curve around the darkened sun; distant low mountain silhouette, flat color planes, visible woodgrain texture, bokashi gradient sky, palette of indigo, cream white, ink black and a touch of vermilion, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Popper in 60 Minuten](https://www.youtube.com/watch?v=tqURJjDqCk0)
 
 > [!info] Wer spricht?

@@ -23,6 +23,16 @@ aliases:
 
 # Neue Akropolis — Der Mensch ist besser als sein Ruf
 
+![[assets/Neue-Akropolis-Der-Mensch-ist-besser-als-sein-Ruf-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Mexikanischer Muralismus (Rivera-Tradition)** — monumentale, ruhige Freskofiguren in Sienna, Teal und Gold. Die These der Note wird zur Szene: In der Flut bildet sich keine Panik, sondern eine Menschenkette — Frauen, Alte, Arbeiter reichen Brot und ein Kind ans trockene Ufer, während Hobbes' Wolf in den Sturmwolken zum blassen Schemen verblasst. Der Muralismus ist die Hand, die den Menschen groß macht, ohne ihn zu heroisieren.
+
+*Prompt:* Mexican muralist fresco in the tradition of Diego Rivera: a varied human chain of monumental simplified figures — women in rebozos, old men, young workers, a girl — standing in shallow teal floodwater, linking arms and passing baskets of bread and a wrapped infant from hand to hand toward dry ground on the right; their faces calm and stylized, flat fresco planes; in the dark storm clouds at the far left only a faint pale outline of a wolf fading away like mist; a warm golden opening in the clouds above the center; earthy palette of deep teal, sienna, umber, muted red and mustard, matte fresco texture with visible plaster grain, wide banner composition, no photorealism, no realistic faces
+
+</details>
+
 Quelle: Vortrag der Neuen Akropolis — Schule der Philosophie
 
 > [!info] Zur Quelle

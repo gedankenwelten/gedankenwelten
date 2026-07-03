@@ -17,6 +17,16 @@ aliases:
 
 # Walther Ziegler — Nietzsche in 60 Minuten
 
+![[assets/Walther-Ziegler-Nietzsche-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**William Blake** — visionäre Romantik, glühendes Aquarell in Indigo, Gold und Karmesin: Zarathustras Seiltänzer über dem Abgrund, von der bröckelnden Kirche hinüber zum sonnenbeschienenen Gipfel, darüber die wirbelnde Morgensonne mit dem tanzenden Stern. Blakes prophetische Ekstase ist die einzige Hand, die Nietzsches Pathos trägt, ohne es zu verkleinern — der Tod Gottes nicht als Verlust, sondern als ungeheure Aufgabe.
+
+*Prompt:* Visionary romantic painting in the style of William Blake: a lone tightrope walker crossing a rope stretched over a deep abyss, from a crumbling stone church tower toward a sunlit mountain peak, beneath an enormous radiant dawn sun with swirling flame-like rays, a single bright dancing star high above, tiny robed figures watching from the depths below, expressive elongated bodies, glowing watercolor and tempera texture, palette of deep indigo, burning gold and crimson, sublime prophetic energy, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Nietzsche in 60 Minuten](https://www.youtube.com/watch?v=gDERe48hvgs)
 
 > [!info] Wer spricht?

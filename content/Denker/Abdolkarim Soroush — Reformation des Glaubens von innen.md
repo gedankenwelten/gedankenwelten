@@ -16,6 +16,16 @@ aliases:
 
 # Abdolkarim Soroush — Reformation des Glaubens von innen
 
+![[assets/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Persische Miniatur** — flache Perspektive, Lapislazuli, Blattgold, Ornamentbordüre; ein riesiger blühender Baum, aus einem goldenen Samen gewachsen, unter Regenfäden aus stilisierten Wolken, mit lesenden Gelehrten. Soroushs eigene Metaphern (der Samen, der zum Garten wurde; die Offenbarung als Regen) in der Bildsprache genau der Tradition, die er von innen erneuert.
+
+*Prompt:* Persian miniature painting, a vast walled garden dominated by one immense flowering tree grown from a tiny golden seed visible at its roots, gentle rain falling from stylized spiral clouds onto the garden, small robed scholars sitting beneath the branches reading open books, ornate floral border framing the scene, palette of lapis lazuli blue, gold leaf, turquoise, coral red and ivory, flat perspective, intricate patterns, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle A: [Reason, Freedom and Democracy in Islam](https://www.youtube.com/watch?v=S04GZ7e8ovk) (Kenyon College, 2014, ~108 Min.)
 Quelle B: [Discussion on Revelation, Reform, and Secularism](https://www.youtube.com/watch?v=riwmwcgo6_o) (American Academy of Religion, 2011, ~95 Min.)
 

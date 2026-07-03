@@ -24,6 +24,16 @@ aliases:
 
 # Dietrich Bonhoeffer — Theorie der Dummheit
 
+![[assets/Dietrich-Bonhoeffer-Theorie-der-Dummheit-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Käthe Kollwitz** — Kohle-Lithografie in Schwarz und Grau, ein einziges warmes Bernstein: die gebeugte, gleichförmige Masse, die dem Lautsprecher folgt wie Eisenspäne dem Magneten — Bonhoeffers Bann der Macht —, und das eine erleuchtete Gitterfenster, hinter dem einer schreibt. Kollwitz' Hand, weil sie Bonhoeffers Zeitgenossin ist und dieselbe Mischung aus Trauer und moralischer Präzision trägt.
+
+*Prompt:* Charcoal lithograph in the style of Kaethe Kollwitz, a dense crowd of hunched identical figures with bowed heads all drawn in one direction like iron filings toward a huge dark megaphone loudspeaker on a pole radiating heavy sound waves, the figures dissolving into shadow as they approach it, at the far edge a massive prison wall with one small barred window glowing with warm candlelight where a lone figure sits writing at a table, heavy expressive charcoal strokes, palette of deep blacks and greys with a single warm amber light in the cell window, somber and monumental, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: *Widerstand und Ergebung — Briefe und Aufzeichnungen aus der Haft* (1951), Abschnitt „Nach zehn Jahren: Rechenschaft an der Wende zum Jahr 1943"
 Ergänzende Quelle: [Dietrich Bonhoeffer: A Story of Courage and Faith](https://www.youtube.com/watch?v=bCqk-vG31wI) (The Incredible Journey, Gary Kent)
 

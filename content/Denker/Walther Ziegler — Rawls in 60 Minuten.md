@@ -18,6 +18,16 @@ aliases:
 
 # Walther Ziegler — Rawls in 60 Minuten
 
+![[assets/Walther-Ziegler-Rawls-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — kühler Surrealismus unter strahlend blauem Wolkenhimmel: verhüllte Köpfe (wie in *Les Amants*) am runden Tisch, die eine Miniatur-Gesellschaft in exakt gleiche Stücke teilen, darüber schwebt die Waage. Magrittes Tuch über den Gesichtern ist der Schleier des Nichtwissens fast wörtlich — niemand am Tisch weiß, welches Stück ihm gehören wird.
+
+*Prompt:* Surrealist painting in the style of Rene Magritte: a group of figures in plain grey suits seated around a large round table, each head softly draped in pale grey cloth so no face is visible, on the table a miniature city with small houses, trees and factories being divided into perfectly equal slices like a cake, one figure holds a knife about to cut, a brass balance scale floats calmly in the air above, background of luminous blue sky with crisp white cumulus clouds, flat smooth brushwork, muted palette of grey, ochre, sky blue and brick red, quiet enigmatic mood, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Rawls in 60 Minuten](https://www.youtube.com/watch?v=HWoJUo0o89I)
 
 > [!info] Wer spricht?

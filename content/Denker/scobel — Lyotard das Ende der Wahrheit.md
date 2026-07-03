@@ -16,6 +16,16 @@ aliases:
 
 # scobel — Lyotard: Das Ende der Wahrheit?
 
+![[assets/scobel-Lyotard-das-Ende-der-Wahrheit-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**René Magritte** — glatter belgischer Surrealismus, Tagesblau und Wolkenweiß. Magritte malt das Selbstverständliche im Moment seiner Auflösung: Der Turm der einen großen Erzählung „zerstreut sich in Wolken" (Lyotards eigenes Bild), darunter treiben die Sprachspiele als brückenlose Inseln — Buch, Schachfigur, Trompete, Glyphen-Tafel — jede mit eigener Grammatik, keine Metasprache dazwischen.
+
+*Prompt:* A Belgian surrealist oil painting in the style of Rene Magritte, smooth flat brushwork, calm daylight sky: a single monumental grey stone tower in the center whose upper half is quietly dissolving into small white cumulus clouds that drift apart across the sky; below, several small separate floating rock islands, each carrying one different object — an open book, a chess pawn, a brass trumpet, a stone tablet with unreadable glyphs — with no bridges between them; soft blue sky, grey stone, white clouds, muted green island grass, crisp dreamlike stillness, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Das Ende der Wahrheit? Lyotards gefährliche Idee – scobel](https://www.youtube.com/watch?v=znQGE0qelew)
 
 > [!info] Wer spricht?

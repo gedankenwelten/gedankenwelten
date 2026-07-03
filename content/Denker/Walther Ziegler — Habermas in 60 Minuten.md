@@ -19,6 +19,16 @@ aliases:
 
 # Walther Ziegler — Habermas in 60 Minuten
 
+![[assets/Walther-Ziegler-Habermas-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**August Macke** — leuchtende Farbfacetten, Menschen in alltäglicher Begegnung, Figuren ohne Gesichter. Habermas findet den Motor der Geschichte nicht im Weltgeist, sondern im Alltagsgespräch — Mackes sonniger Platz voller Gesprächspaare, deren Worte sich zu einem gemeinsamen Bogen verweben, ist genau dieser bescheidene Optimismus.
+
+*Prompt:* Expressionist painting in the style of August Macke: people in colorful coats and hats gathered in small conversing pairs and circles on a sunlit town square with green trees and arcades, figures painted without facial features; luminous ribbons of translucent color flow between the talking figures and weave together into one shared arc of light above the square; faceted planes of glowing emerald, coral red, turquoise, warm yellow and violet, soft rounded forms, gentle harmony; wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Habermas in 60 Minuten](https://www.youtube.com/watch?v=Z84VJfYp3lY)
 
 > [!info] Wer spricht?

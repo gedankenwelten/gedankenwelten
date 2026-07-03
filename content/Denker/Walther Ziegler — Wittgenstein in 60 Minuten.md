@@ -18,6 +18,16 @@ aliases:
 
 # Walther Ziegler — Wittgenstein in 60 Minuten
 
+![[assets/Walther-Ziegler-Wittgenstein-in-60-Minuten-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Paul Klee** — Aquarell-Magiequadrate in Ocker, Terrakotta und Oliv: ein Mosaik aus Buchstaben, Glyphen und Piktogrammen, in dem kleine Figuren mit den Letternklötzen spielen wie Kinder — Sprachspiele wörtlich. Rechts die Leiter, von der eine Figur oben absteigt, hinein ins leere, unbeschriebene Feld: wovon man nicht sprechen kann. Klee ist hier keine Haussprache aus Gewohnheit — seine Zeichenbilder sind die genaueste Übersetzung von Wittgensteins beiden Phasen.
+
+*Prompt:* Watercolor painting in the style of Paul Klee's magic square and letter pictures: lower two thirds a warm mosaic grid of small colored squares filled with single letters, glyphs, arrows and tiny pictograms like a playful cipher, a few small stick figures playing with the letter-blocks like children with toys, a thin black ladder leaning against the top edge of the grid with one small figure climbing off it, upper third an almost empty luminous pale field of soft blue and cream with nothing written in it, delicate ink lines over layered watercolor, muted earthy palette of ochre, terracotta, olive, dusty rose and slate blue, quiet playful precision, wide banner, no photorealism, no realistic faces
+
+</details>
+
 Quelle: [Wittgenstein in 60 Minuten](https://www.youtube.com/watch?v=MPloJBS0K-I)
 
 > [!info] Wer spricht?

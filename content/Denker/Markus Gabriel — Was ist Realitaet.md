@@ -14,6 +14,16 @@ aliases:
 
 # Markus Gabriel — Was ist Realität?
 
+![[assets/Markus-Gabriel-Was-ist-Realitaet-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Katsushika Hokusai** — Ukiyo-e-Holzschnitt, Preußischblau mit warmen Akzenten, flache Farbflächen. Der eine Berg strahlt farbige Perspektiv-Fächer aus, und an jedem Strahl steht eine andere kleine Szene, die ihn sieht — Gabriels Vesuv-Beispiel wörtlich genommen: „Die Wirklichkeit strahlt Perspektiven ab." Hokusai malte den Fuji sechsunddreißigmal, weil jede Ansicht so real ist wie der Berg selbst.
+
+*Prompt:* Japanese ukiyo-e woodblock print in the style of Katsushika Hokusai's Thirty-six Views of Mount Fuji: a single majestic volcano with a thin plume of smoke rises at the center across a bay. From its slopes radiate wide fan-shaped beams of subtly different color — Prussian blue, soft rose, pale green, ochre — each beam reaching a different tiny scene at the water's edge: fishermen in a boat, a traveler on a cliff with a walking stick, a village rooftop with a figure on a balcony, pilgrims under a pine tree. Each group gazes at the same mountain from its own beam. Stylized woodgrain clouds, flat color planes, bold keyline contours, Prussian blue dominant palette with warm accents. Wide banner, no photorealism, no realistic faces.
+
+</details>
+
 Quelle: [Markus Gabriel: Was ist Realität? (phil.COLOGNE)](https://www.youtube.com/watch?v=_foOQbcKmqI)
 
 > [!info] Wer spricht?
