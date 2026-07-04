@@ -273,3 +273,7 @@ Andree übersetzt die kybernetische Steuerungslogik in Medienökonomie und Demok
 ### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird]]
 
 Nosthoffs Kybernetik — Systeme, die sich selbst regeln und Ziele setzen, Politik als Steuerung statt Entscheidung — liefert die Mechanik für den herrenlosen Souverän des leeren Turms: eine Herrschaft, die aufhört, jemandes zu sein, und zum reinen Prozess wird. Der Gedanke zieht daraus die ethische Konsequenz, die bei Nosthoff offenbleibt: Was gibt man ab — die Last oder das Urteil?
+
+### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
+
+Clüver Ashbrook zeigt die kybernetische Regierungskunst in der Anwendung: Palantir-Verträge statt Fachbürokratie, fusionierte Datensilos, Ellisons Überwachungsstaat, Yarvins Präsident-als-CEO — der praktische Vollzug dessen, was Nosthoff als Denktradition freilegt.

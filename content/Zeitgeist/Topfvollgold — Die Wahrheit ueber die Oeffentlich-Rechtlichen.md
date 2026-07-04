@@ -160,6 +160,11 @@ Pörksen beschreibt die „redaktionelle Gesellschaft" als Gegenmittel zur Desin
 
 Der US-Außenbefund zur hiesigen Innenansicht: Was die ÖRR-Insider als „Schere im Kopf" beschreiben, vermisst Johnson bei US-Redaktionen quantitativ — antizipierte Konsequenz statt offener Zensur, in beiden Systemen.
 
+
+### → [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
+
+Theveßen liefert das Funktions-Argument von außen: Am US-Beispiel der „News Deserts“ zeigt sich, was Deutschland mit ÖRR plus Regionalpresse noch hat — die Infrastruktur zum Gegenhalten. „Thukydides steht sozusagen im Gesetz“ (Rundfunkstaatsvertrag) ist die positive Kehrseite zu Topfvollgolds Abwehr der ÖRR-Delegitimierung.
+
 ---
 
 ## Weiterdenken

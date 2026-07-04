@@ -281,3 +281,7 @@ Das rp26-Panel konkretisiert Frickes Kontrollverlust-These ostdeutsch: Die Erbsc
 ### → [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 
 Dankbars These zur Abstiegsangst als AfD-Treiber ist Frickes Kontrollverlust-Argument im Debattenformat: Die phoenixRunde zeigt, wie die Legitimationskrise des Sozialstaats als politisches Problem wahrgenommen wird.
+
+### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
+
+Clüver Ashbrooks „umgekehrtes Robin-Hood-Gesetz“ ist Frickes These in Aktion: Die Umverteilung nach oben ist nicht nur ungerecht, sondern der Treibstoff der nächsten rechten Radikalisierung.

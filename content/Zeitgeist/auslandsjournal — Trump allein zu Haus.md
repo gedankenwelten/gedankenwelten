@@ -220,6 +220,16 @@ Liefert den normativen Rahmen, den diese Note voraussetzt: Die Gesichtswahrungs-
 
 Die Tiefenerklärung für den sozialen Boden des Rechtspopulismus, den diese Note (AfD, Le Pen, Orbán) als symptomatisch beschreibt: Die Mittelschicht wurde nicht von Ideologen verführt, sondern von einem Wirtschaftssystem fallen gelassen, das 2008 seine Legitimation verlor.
 
+
+### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
+
+Gegenperspektive zum One-and-Done-Syndrom: Clüver Ashbrook warnt, dass die strukturellen Umbauten (Bürokratie-Abbau, Datensilos, Gerichte auf Lebenszeit) keinen Nachfolger brauchen — die Maschine könnte Trump überdauern.
+
+
+### → [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
+
+Derselbe Korrespondent, der lange Vortrag hinter dem kurzen Sendungsstück. Das „One-and-Done-Syndrom“ kehrt dort als geopolitische Struktur wieder (Grönland, Taiwan als „Verhandlungschip“, Peking-Inszenierung) — beide lesen Trumps imperiale Posen als Signal von Schwäche, nicht Stärke.
+
 ---
 
 ## Weiterdenken

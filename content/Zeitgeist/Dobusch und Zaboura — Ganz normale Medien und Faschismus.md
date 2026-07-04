@@ -181,6 +181,11 @@ Die Innenbestätigung der Diagnose: Was Dobusch/Zaboura als strukturelle Berufsl
 
 Dieselbe These über zwei Mediensysteme: Wo Dobusch/Zaboura zeigen, wie *normale* Berufslogik Faschismus normalisiert, zeigt Johnson, wie dieselbe Norm-über-Wahrheit-Logik einen Genozid verkäuflich macht — kein Lügner nötig, nur Routine.
 
+
+### → [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
+
+Was Dobusch/Zaboura strukturell als „Performing Balance by Practicing Bias“ fassen, führt Theveßen als Praktiker am Einzelfall vor: seine „Normalisierungsfalle“ (aus Trumps Tirade wird eine „breit gefächerte Rede“) und sein Thukydides-Gebot des „zweiten Satzes“ sind Feldbericht und Gegenentwurf zu ihrer False-Balance-Diagnose.
+
 ---
 
 ## Weiterdenken

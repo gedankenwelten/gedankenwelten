@@ -221,6 +221,11 @@ Manow erklärt den Rechtspopulismus strukturell: Globalisierungsverlierer, Öffn
 
 Mau zeigt das Paradox der meritokratischen Selbstbindung: Die Arbeiterklasse verteidigt die Leistungsideologie stärker als die Privilegierten. Hochschild erklärt, warum das keine irrationale Verzerrung ist, sondern eine emotionale Notlösung: Wer seinen Stolz auf Individualismus gegründet hat, kann strukturelles Scheitern nicht als strukturell deuten, ohne den eigenen Stolzbegriff aufzugeben. Mau dokumentiert das Ergebnis; Hochschild die Scham-Chemie, die darin steckt.
 
+
+### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
+
+Von unten und von oben auf denselben Nährboden: Wo Hochschild die emotionale Chemie der Scham freilegt, datiert Clüver Ashbrook die Strukturdaten derselben Verzweiflungswahl — Finanzkrise, Opioidkrise, der ausgeträumte amerikanische Traum.
+
 ---
 
 ## Weiterdenken

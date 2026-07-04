@@ -18,6 +18,16 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Cathryn Clüver Ashbrook
+**Status:** ✓ Vollanalyse → [[DenkerVita/Cathryn Cluever Ashbrook]]
+
+---
+
+## Elmar Theveßen
+**Status:** ✓ Vollanalyse → [[DenkerVita/Elmar Thevessen]]
+
+---
+
 ## Tobias Rüther
 **Status:** ✓ Vollanalyse → [[DenkerVita/Tobias Rüther]]
 

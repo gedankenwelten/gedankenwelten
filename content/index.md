@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **04.07.** — [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
+>
+> Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
+
+> **04.07.** — [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]]
+>
+> Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.
+
+> **03.07.** — [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
+>
+> Ein Genozid braucht keine überzeugten Lügner — nur Redaktionen, die Zeit kaufen. Adam Johnson seziert die Grammatik des organisierten Wegsehens.
+
+> **03.07.** — [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
+>
+> Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
+
+> **03.07.** — [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
+>
+> Einer verlor die Eltern am 7. Oktober, der andere den Bruder in israelischer Haft — und beide sagen: Die Naiven seid ihr, die an den Krieg glauben. Frieden ist eine Handlung.
+
+> → *7 weitere in* [[Zeitgeist]]
+
 ### Geistesblitz
 
 > **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
@@ -39,30 +63,6 @@ Die Gedankenwelten (luc)
 > **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
 >
 > Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
-
-### Zeitgeist
-
-> **03.07.** — [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
->
-> Ein Genozid braucht keine überzeugten Lügner — nur Redaktionen, die Zeit kaufen. Adam Johnson seziert die Grammatik des organisierten Wegsehens.
-
-> **03.07.** — [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
->
-> Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
-
-> **03.07.** — [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
->
-> Einer verlor die Eltern am 7. Oktober, der andere den Bruder in israelischer Haft — und beide sagen: Die Naiven seid ihr, die an den Krieg glauben. Frieden ist eine Handlung.
-
-> **03.07.** — [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]]
->
-> Nur 7 % der globalen Materialströme kehren in den Kreislauf zurück. Nicole Bendsen will die Bewertungslogik der Wirtschaft drehen: Zirkularität nicht als Moral, sondern als Risikorechnung.
-
-> **02.07.** — [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Who the f#ck is Agartha? — Vom Vril-Roman zur rechtsextremen Meme-Welt]]
->
-> Ein Verschwörungsmythos reist 150 Jahre — vom viktorianischen Roman über Himmlers Pseudoforschung bis in den TikTok-Feed, wo der Witz die Tarnung der Ideologie ist.
-
-> → *5 weitere in* [[Zeitgeist]]
 
 ### Denker
 

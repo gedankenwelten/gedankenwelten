@@ -280,3 +280,7 @@ Krastevs Rupture-Begriff ist die analytische Kategorie hinter Temelkurans empiri
 ### → [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten]]
 
 Brockschmidt/Nocun liefern die US-deutschen Fallbeispiele zu Temelkurans Stufenmodell in Echtzeit: Remigration als Normalisierungsprozess über 10 Jahre, Fashwave als kulturelle Infiltration, 14 Wörter in DHS-Pressemitteilungen — das sind Temelkurans Stufen 2–4 als dokumentiertes Material.
+
+### → [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
+
+Theveßen liefert die laufenden Beweisstücke zu Temelkurans Stufenmodell: die „Volksfeind“-Genealogie (hostis publicus → NS → Trumps „enemy of the people“) und das NSPM-7, das Gesinnung zur Terrordefinition macht — Normalisierung der Enthemmung, dokumentiert von einem, der daneben steht.
