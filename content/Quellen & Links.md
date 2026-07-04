@@ -6,6 +6,22 @@ tags:
   - links
 ---
 
+## Cathryn Clüver Ashbrook / Der amerikanische Weckruf
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Der amerikanische Weckruf: Wie demontiert Trump die US-Demokratie? (BSA Döbling)](https://www.youtube.com/watch?v=7Aj0sE353Wo) |
+| **Notiz** | [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]] |
+| **Transkript** | `Gedankenwelten/Transkripte/CluverAshbrook_Weckruf_Transkript.txt` |
+
+## Elmar Theveßen / Die neue Weltunordnung
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Die neue Weltunordnung. Donald Trump und der Angriff auf die Demokratie (Tübinger Mediendozentur)](https://www.youtube.com/watch?v=u08t-GOQp0I) |
+| **Notiz** | [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Thevessen_Weltunordnung_Transkript.txt` |
+
 ## Christian Bauckhage — KI: Wir haben noch gar nichts gesehen
 
 | | |

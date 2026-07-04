@@ -286,3 +286,7 @@ Navidi zeigt das US-Extremszenario dessen, was Studio Bonn als Demokratiegefahr 
 ### → [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
 
 Holy Koolaid erklärt die ideologische Infrastruktur (Exzeptionalismus, Land-of-the-Free-Mythos), die verhindert, dass die Bevölkerung Navidis dokumentierten Ausplünderungsmechanismus als systemisches Problem erkennt — nicht als individuellen Skandal.
+
+### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
+
+Derselbe Befund von der zweiten deutsch-amerikanischen Innensicht — Clüver Ashbrook nennt die legalisierte Selbstbereicherung „plutokratischen Populismus“ und beschreibt dieselbe Norm-Bruch-Mechanik, die Navidi vom Finanzplatz her seziert.

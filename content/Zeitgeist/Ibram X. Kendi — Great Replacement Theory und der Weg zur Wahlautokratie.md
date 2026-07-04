@@ -263,3 +263,7 @@ Brockschmidt/Nocun liefern die Codierungsebene zu Kendis ideologischer Analyse: 
 
 ### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
 Dobusch/Zaboura erklären den journalistischen Transmissionsriemen, durch den GRT Mainstream wurde: Nicht Propaganda, sondern strukturelle Bewertungsverweigerung und falsche Balance. Tucker Carlsons 400 GRT-Sendungen wurden möglich, weil Qualitätsmedien Carlson als legitimen Diskursakteur rahmten, statt die Theorie journalistisch einzuordnen — die Browning/Kühl-Analogie gilt auch für Carlsons Produzenten: ganz normale Medienmacher. Kendis Befund ist die politische Wirkung, D/Zs Analyse der strukturelle Grund.
+
+### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
+
+Von der Ideologie zur Mechanik: Clüver Ashbrook zeigt, wie die von Kendi beschriebene Wahlautokratie handwerklich vollzogen wird — Wahlkreiszuschnitte in Texas, Druck auf Briefwahl und Poststempel, ein mitspielender Supreme Court.

@@ -213,3 +213,11 @@ Dieselbe Grundstruktur — politische Macht als direkt monetarisierbares Instrum
 ### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
 
 Der strukturelle Überbau zu den hier dokumentierten Transaktionen: Andrees „Machtverklumpung" aus Techkonzernen und Trump-Regierung erklärt, warum die Selbstbereicherung System hat — Monopole auf öffentlichen Gütern machen Staaten erpressbar, und der TikTok-Deal ist dafür das jüngste Beispiel.
+
+### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
+
+Die Expertin dieses Beitrags im eigenen Vortrag: Clüver Ashbrook bettet die dynastische Selbstbereicherung in ihr Konzept des „plutokratischen Populismus“ — MONITOR liefert den Einzelfall, sie das System dahinter.
+
+### → [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
+
+Theveßens „goldenes Zeitalter, nachgerechnet“ — Wachstum, das nur an KI-Investment und Rekord-Kreditkartenschulden hängt — ist die makroökonomische Rückseite von MONITORs Kleptokratie-Recherche: Der Ballsaal und die 250-Dollar-Scheine mit Trumps Konterfei sind die Fassade über den Deals, die MONITOR granular nachzeichnet.

@@ -236,6 +236,11 @@ Die Makroperspektive, in die diese Note gehört: Andree beschreibt mit der Platt
 
 Die Gegenseite von Andrees Diagnose: Wo Andree die Monopole beschreibt und Entflechtung per Gesetz fordert, analysieren Wähner und Stockmann soziologisch und strategisch, warum die bereits existierende dezentrale Alternative nicht wächst. Stockmanns „Sündenfall" des Outlink-Verbots und Andrees Outlink-Pflicht treffen hier aufeinander — und offenbaren eine Lücke: Selbst wenn Andrees Gesetz käme, bräuchte die Gesellschaft eine organisierte zivilgesellschaftliche Infrastruktur, um die entstehende Freiheit zu füllen.
 
+
+### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
+
+Dieselbe „Machtverklumpung“ aus Tech-Monopolen und Trump-Regierung, dieselbe Sorge um Europa (DSA/DMA, Parteispenden) — Clüver Ashbrook zeichnet den Überwachungsstaat düsterer, Andree hält den abschaffbaren Rechtshebel dagegen.
+
 ---
 
 ## Weiterdenken

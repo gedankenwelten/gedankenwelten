@@ -59,6 +59,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Carsten Jung|Carsten Jung]]** — Associate Director for Economic Policy in AI, IPPR (UK); Ökonom, ehem. Bank of England (6 Jahre); AI Directionism — staatliche Lenkung von KI-Märkten statt Laissez-faire; Publikationen zu Windfallgewinnen, Benefit Sharing, Procurement als Marktformer; Makroökonom mit Fokus auf Arbeitsmarkt-Asymmetrien
 
+**[[DenkerVita/Cathryn Cluever Ashbrook|Cathryn Clüver Ashbrook]]** — Deutsch-amerikanische Politikwissenschaftlerin (Bertelsmann Stiftung, zuvor Harvard Kennedy School & DGAP); *Der amerikanische Weckruf* (2026) über Trumps strategischen Demokratieabbau und Europas Lehren daraus
+
 **[[DenkerVita/Christoph Butterwegge|Christoph Butterwegge]]** — Politikwissenschaftler, Armutsforscher; Relative Armut als strukturell konstruiert, Matthäus-Prinzip in der Steuerpolitik, Finanzmarktkapitalismus als Oligarchie, Demografie als politisches Problem; 2017 Bundespräsidentschaftskandidat Die Linke; em. Professor Universität Köln; Werke: *Armut in einem reichen Land*, *Hartz IV und die Folgen*, *Kinder der Ungleichheit*
 
 **[[DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (UC Berkeley); Vier-Quadranten-Modell (Intelligent/Bandit/Hilflos/Dumm), Asymmetrie-Problem, Dummheit als strukturelle Handlungslogik, Zivilisationsverfall durch Kompositionsverschiebung, *The Basic Laws of Human Stupidity* (1976)
@@ -94,6 +96,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Dominik Finkelde|Dominik Finkelde]]** — (Vollanalyse vorhanden, Details ausstehend)
 
 ## E
+
+**[[DenkerVita/Elmar Thevessen|Elmar Theveßen]]** — ZDF-Studioleiter Washington, zuvor stv. Chefredakteur; Chronist der US-Demokratie unter Druck (*Deadline*, 2025), Journalismus als „zweiter Satz“ in der Tradition des Thukydides
 
 **[[DenkerVita/Erich Fromm|Erich Fromm]]** — Psychoanalytiker, Sozialphilosoph; Haben/Sein-Modus, Biophilie, humanistischer Sozialismus, Prophet als Warner
 
