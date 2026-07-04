@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Suraj Yengde — Annihilation of Caste (Radical Books Collective 2021)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Dr. Suraj Yengde on BR Ambedkar's "Annihilation of Caste"](https://www.youtube.com/watch?v=aDLvYIZY6Ao) |
+| **Notiz** | [[Suraj Yengde — Annihilation of Caste]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Yengde_Annihilation_of_Caste_Transkript.txt` |
+
 ## Cathryn Clüver Ashbrook / Der amerikanische Weckruf
 
 | | |

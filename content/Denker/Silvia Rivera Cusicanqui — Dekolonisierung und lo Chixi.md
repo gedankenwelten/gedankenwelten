@@ -240,6 +240,10 @@ Hecks „religio-säkulares Moment" — öffentliche Vernunft weder rein säkula
 
 ---
 
+### → [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
+
+Yengdes „zwei Kolonialherren" — British Raj und der *permanent colonizer* Brahmanen-Raj — ist die Kette der Scharniere in indischem Idiom: der innere Kolonisator, den die Unabhängigkeit nie mitmeinte. Und seine wachsende Skepsis gegen jeden „America-centered purview", auch den antikapitalistischen, teilt Cusicanquis Misstrauen gegen die metropolitane Theorie, die das Eigene wieder nur übersetzt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

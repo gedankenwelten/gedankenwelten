@@ -176,6 +176,7 @@ Die alte linke Utopie (Marcuse: Technologie befreit uns von Arbeit) war schon im
 - [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — Wahlsoziologie des Rechtsrucks
 - [[Denker/Hannah Arendt — Denken ohne Geländer]] — Arendt als Bezugspunkt
 - [[Denker/Erich Fromm — Haben oder Sein]] — autoritärer Charakter, Haben-Orientierung
+- [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]] — Hindutva als faschistische Wendung (Brahmanisierung) und die Familie als Reproduktionsort der Härte: Eltern als „caste cops", Kastenprivileg als Phantombesitz — ein eingebildeter, aber real Macht verleihender Anspruch.
 - [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]] — moralpsychologische Substrate, auf die Phantombesitz-Mobilisierung trifft: In-Group, Autorität, Reinheit als tief verankerte Kanäle
 - [[Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]] — Redeckers Analyse der Flucht in autoritäre Sicherheit bei Kontrollverlust erklärt, warum apokalyptische Sinnsysteme (Solar-Flash als kosmische Erlösung) in destabilisierten Zeiten anziehen. Der „Drang nach Härte" hat ein spirituelles Äquivalent: den Drang nach kosmischer Ordnung und eindeutiger Feindschaft.
 - [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]] — Phantombesitz als Pathologie des einseitigen Besitzprinzips: was entsteht, wenn die destruktive, kontrollbedürftige Seite dominiert und das integrierende Gegenprinzip ausblendet

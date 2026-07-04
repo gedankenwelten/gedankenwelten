@@ -171,6 +171,7 @@ Das ist eine globale Konstante: Es ist einfacher, gegen Unrecht zu kämpfen, das
 
 ## Verbindungen
 
+- [[Denker/Suraj Yengde — Annihilation of Caste]] — Der Vermittler dieser Note bekommt ein eigenes Gesicht: Yengde (dessen „Dalitality"-Vortrag hier Quelle C ist) liest *Annihilation of Caste* als gelebtes Erbstück — das Buch, das er als Kind im Slum als Siegprämie geschenkt bekam. Wo diese Note Ambedkars System entfaltet, zeigt jene, wie der Text heute weitergetragen wird: Kaste als Geisteszustand, der Buddha mit offenen Augen, der Harlem-Moment der Dalits.
 - [[Denker/Mbembe — The Earthly Community]] — Mbembes *Nekropolitik* und Ambedkars Kastensystem teilen die Grundfrage: Wer hat das Recht zu bestimmen, wessen Leben zählt? Beide kommen von unterdrückten Gesellschaften zu globalen philosophischen Kategorien.
 - [[Denker/Abdolkarim Soroush — Reformation des Glaubens von innen]] — Wie Soroush den Islam von innen reformiert, transformiert Ambedkar den Buddhismus von innen. Beide bewegen sich in der gefährlichen Zone zwischen Religionskritik und religiöser Erneuerung.
 - [[Denker/Walther Ziegler — Marx in 60 Minuten]] — Ambedkars Auseinandersetzung mit Marx ist zentral: Er akzeptiert die Kapitalismuskritik, ergänzt sie aber um die Kastenanalyse. Klasse allein erklärt Indien nicht.

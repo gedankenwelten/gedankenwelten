@@ -46,25 +46,11 @@ Die Gedankenwelten (luc)
 
 > → *7 weitere in* [[Zeitgeist]]
 
-### Geistesblitz
-
-> **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
->
-> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
-
-> **03.07.** — [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens|Gert Scobel — Die gefährlichste Frage unseres Lebens]]
->
-> Wozu? Die Frage, die alles in Mittel und Zwecke verwandelt — und der Moment des Aufwachens, in dem noch niemand zu Hause ist, der sie stellen könnte.
-
-> **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
->
-> Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
-
-> **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
->
-> Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
-
 ### Denker
+
+> **04.07.** — [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
+>
+> Die Rede, die nie gehört werden durfte: Der Dalit-Gelehrte Suraj Yengde liest Ambedkars verbotenen Text von 1936 — und trägt ihn als Kind aus dem Slum am eigenen Leib.
 
 > **03.07.** — [[Denker/Soroush und Heck — Politische Tradition des Islam|Soroush und Heck — Kann die politische Tradition des Islam gerettet werden?]]
 >
@@ -82,11 +68,25 @@ Die Gedankenwelten (luc)
 >
 > Zimbabwe ist kein armes Land — die Armut wurde hergestellt, als Waffe. Tsitsi Dangarembga über den Kolonialismus in den Köpfen und Wohlsein als Gegenentwurf zur Utopie.
 
-> **02.07.** — [[Denker/Carel van Schaik und Kai Michel — Die drei Naturen des Menschen|Carel van Schaik & Kai Michel — Die drei Naturen des Menschen]]
->
-> Wir sind nicht kaputt, wir sind fehl am Platz — der Primatologe und der Historiker über das Jäger-und-Sammler-Erbe in uns und die 5000 Jahre, die alles verschoben haben.
+> → *2 weitere in* [[Denker]]
 
-> → *1 weitere in* [[Denker]]
+### Geistesblitz
+
+> **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+>
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
+
+> **03.07.** — [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens|Gert Scobel — Die gefährlichste Frage unseres Lebens]]
+>
+> Wozu? Die Frage, die alles in Mittel und Zwecke verwandelt — und der Moment des Aufwachens, in dem noch niemand zu Hause ist, der sie stellen könnte.
+
+> **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
+>
+> Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
+
+> **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
+>
+> Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
 
 ### Panorama
 

@@ -209,6 +209,10 @@ Die Schwester-Note: dort die *politische* Seite desselben Denkens — was folgt 
 
 ---
 
+### → [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
+
+Reform vs. Exodus: Wo Soroush den Glauben von innen erneuert und Wesenskern von historischem Ballast trennt, richtet Ambedkar (in Yengdes Lesart) das Dynamit auf die heiligen Texte selbst und verlässt den Hinduismus 1956 mit Hunderttausenden. Zwei Antworten darauf, ob eine Unrechtsordnung durch Neulesen ihrer Schriften heilbar ist.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

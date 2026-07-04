@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*249 Notes — automatisch generiert · nach Thema sortiert*
+*251 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -67,6 +67,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Bernhard Pörksen und Maja Göpel — Debatte NEU DENKEN]]
 - [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
 - [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk taz — Wird die Meinungsfreiheit zu sehr eingeschränkt?]]
+- [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]] — Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.
 - [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Christoph Butterwegge — Armut NEU DENKEN]]
 - [[Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN|Christoph Hein — Geoökonomie NEU DENKEN]]
 - [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]]
@@ -84,6 +85,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus|Dobusch und Zaboura — Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus]]
 - [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
 - [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]] — Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
+- [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]] — Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
 - [[Zeitgeist/Ernst Gelegs — Ist das Regime Orbán am Ende|Ernst Gelegs — Ist das Regime Orbán am Ende?]]
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 - [[Zeitgeist/Evan Osnos — Megayachten und die Seele der Ultrareichen|Evan Osnos — Megayachten und die Seele der Ultrareichen]]

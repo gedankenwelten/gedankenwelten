@@ -562,6 +562,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Steffen Mau
 **Status:** ✓ Vollanalyse → [[DenkerVita/Steffen Mau]]
 
+## Suraj Yengde
+**Status:** ✓ Vollanalyse → [[DenkerVita/Suraj Yengde]]
+
 ## Tahir Chaudhry
 **Status:** Stub
 
