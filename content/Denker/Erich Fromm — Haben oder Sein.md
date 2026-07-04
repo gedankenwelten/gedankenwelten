@@ -348,6 +348,10 @@ Soroushs Umkehrung — Religionen lehren Pflichten, weil Menschen ihren Rechten 
 Scobels Folge zur Philosophie der Zwecklosigkeit (Hampe, Spinoza, Matsumoto) ist die bewusstseinsphilosophische Schwester des Sein-Modus: Leben ohne Nutzenkalkül, Matsumotos *Yuge* als ungehinderte Freiheit — Fromms Absage an die Akkumulation, buddhistisch grundiert.
 
 ---
+### → [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
+
+Ambedkars armer Brahmane, der oben bleibt, ist ein Haben ohne Besitz: reiner Status, den keine Umverteilung enteignen kann — die Kastengesellschaft als Extremfall der Identität aus Außenwirkung. Und Ambedkars „Buddha mit offenen Augen" ist der Sein-Modus als soziale Aktion statt Innerlichkeit.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

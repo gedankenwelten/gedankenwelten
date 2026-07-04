@@ -226,3 +226,7 @@ Teilt die Kern-Intuition, dass Herrschaftshierarchien dem Menschen nicht eingesc
 ### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
 
 Beide arbeiten mit einer vorstaatlichen Ordnung als Kontrastfolie — das egalitäre Jäger-und-Sammler-Erbe hier, die vorkoloniale Gesellschaft ohne Eigentum an Menschen dort. Und beide riskieren die Gegen-Idylle; Dangarembga benennt die Falle selbst: Ein Patriarchat mit Ahnenschutz bleibt ein Patriarchat.
+
+### → [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
+
+Kaste als radikalste Ausformung der zweiten Natur: „ein Geisteszustand, kein Stacheldraht" — der Feind ist das Skript, nicht der Schauspieler. Ambedkars Befund, dass die Praktizierenden „nur tun, was ihnen aufgetragen wurde", ist van Schaiks kulturell übergestülpte Hierarchie in ihrer härtesten Form; und beide erzählen dieselbe Umkehr der Religion von der Befreiungsbotschaft zur Herrschaftsinstitution.

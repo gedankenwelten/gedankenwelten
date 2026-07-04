@@ -251,6 +251,10 @@ Fromm fordert die Konzentration „des ganzen Menschen" als Bedingung des Schöp
 
 ---
 
+### → [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
+
+Der Gegenpol aus dem eigenen Haus des Buddha: Ambedkars Navayana-Buddha „geht mit offenen Augen" und wirft den Meditierenden vor, es sich in der Kontemplation bequem zu machen, während die Kastenordnung steht. Die produktivste Reibung zu Goenkas Weg nach innen — erreicht der geschlossene Blick die Wurzel der Gewalt, oder braucht Befreiung den gehenden, predigenden Buddha?
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte
