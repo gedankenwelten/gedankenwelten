@@ -13,6 +13,7 @@ aliases:
   - Mark van Baal
   - Shareholder Activism
   - Die Demokratisierung des Kapitalismus
+  - "Zeitgeist/Follow This — Die grüne Horzel in Big Oil"
 ---
 
 # Follow This — Die grüne Horzel in Big Oil

@@ -15,6 +15,7 @@ tags:
 aliases:
   - Zimpel
   - Neurodiversität
+  - "Denker/Andreas Zimpel — Neurodiversität"
 ---
 
 # Andreas Zimpel — Neurodiversität

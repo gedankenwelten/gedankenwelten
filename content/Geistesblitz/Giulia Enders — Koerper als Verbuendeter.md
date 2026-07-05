@@ -12,6 +12,7 @@ tags:
   - embodiment
 aliases:
   - Enders Körper
+  - "Zeitgeist/Giulia Enders — Koerper als Verbuendeter"
 ---
 
 # Giulia Enders — Körper als Verbündeter

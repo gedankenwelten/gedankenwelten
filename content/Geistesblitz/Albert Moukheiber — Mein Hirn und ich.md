@@ -10,6 +10,7 @@ tags:
 aliases:
   - Moukheiber
   - Kognitive Verzerrungen Moukheiber
+  - "Denker/Albert Moukheiber — Mein Hirn und ich"
 ---
 
 # Albert Moukheiber — Mein Hirn und ich (1/2)

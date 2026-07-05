@@ -11,6 +11,7 @@ tags:
 aliases:
   - Böhme Gehirn austricksen
   - Böhme Power of Mind
+  - "Zeitgeist/Rebecca Boehme — So trickst du dein Gehirn aus"
 ---
 
 # Rebecca Böhme — So trickst du dein Gehirn aus

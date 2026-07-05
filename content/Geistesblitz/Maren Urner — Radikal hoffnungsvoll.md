@@ -15,6 +15,7 @@ aliases:
   - "Zeitgeist/Maren Urner — Radikal hoffnungsvoll"
   - Urner Radikal hoffnungsvoll
   - Urner Hoffnung
+  - "Denker/Maren Urner — Radikal hoffnungsvoll"
 ---
 
 # Maren Urner — Radikal hoffnungsvoll

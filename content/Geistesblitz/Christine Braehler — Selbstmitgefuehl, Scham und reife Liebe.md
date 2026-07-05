@@ -9,6 +9,7 @@ tags:
   - year-2026
 aliases:
   - Brähler Selbstmitgefühl
+  - "Zeitgeist/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe"
 ---
 
 # Christine Brähler — Selbstmitgefühl, Scham und reife Liebe

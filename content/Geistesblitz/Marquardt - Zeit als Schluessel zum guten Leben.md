@@ -9,6 +9,7 @@ tags:
   - year-2026
 aliases:
   - Marquardt Zeit
+  - "Zeitgeist/Marquardt - Zeit als Schluessel zum guten Leben"
 ---
 
 # Udo Marquardt — Zeit als Schlüssel zum guten Leben

@@ -68,6 +68,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Ngũgĩ wa Thiong'o
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ngugi wa Thiongo]]
+
+---
+
 ## Ninia LaGrande
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ninia LaGrande]]
 
@@ -558,6 +563,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Stefan Schulz
 **Status:** ✓ Vollanalyse → [[DenkerVita/Stefan Schulz]]
+
+## Souleymane Bachir Diagne
+**Status:** ✓ Vollanalyse → [[DenkerVita/Souleymane Bachir Diagne]]
 
 ## Steffen Mau
 **Status:** ✓ Vollanalyse → [[DenkerVita/Steffen Mau]]

@@ -15,6 +15,7 @@ tags:
 aliases:
   - Tversky
   - Barbara Tversky
+  - "Denker/Barbara Tversky — Denken beginnt nicht im Kopf"
 ---
 
 # Barbara Tversky — Denken beginnt nicht im Kopf

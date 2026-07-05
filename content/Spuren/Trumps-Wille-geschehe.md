@@ -13,6 +13,8 @@ review-takt: 30-tage
 eroeffnet: 2026-06-19
 aktualisiert: 2026-06-19
 description: "Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?"
+aliases:
+  - "Spuren/Trump-gegen-seine-Rivalen-Politik-als-Ausloeschung"
 ---
 
 # Trumps Wille geschehe

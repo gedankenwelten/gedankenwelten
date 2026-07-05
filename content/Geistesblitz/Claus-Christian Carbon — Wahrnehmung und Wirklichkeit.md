@@ -19,6 +19,7 @@ aliases:
   - Claus-Christian Carbon
   - CCC
   - Wahrnehmung und Wirklichkeit
+  - "Denker/Claus-Christian Carbon — Wahrnehmung und Wirklichkeit"
 ---
 
 # Claus-Christian Carbon — Wahrnehmung und Wirklichkeit

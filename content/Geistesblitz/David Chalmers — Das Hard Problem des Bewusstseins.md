@@ -10,6 +10,7 @@ tags:
 aliases:
   - Chalmers Consciousness
   - Hard Problem
+  - "Zeitgeist/David Chalmers — Das Hard Problem des Bewusstseins"
 ---
 
 # David Chalmers — Das Hard Problem des Bewusstseins

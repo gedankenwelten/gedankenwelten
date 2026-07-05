@@ -15,6 +15,7 @@ tags:
 aliases:
   - ARTE Agnotologie
   - Forschung Fake faule Tricks
+  - "Zeitgeist/ARTE — Forschung Fake und faule Tricks"
 ---
 
 # ARTE — Forschung, Fake und faule Tricks

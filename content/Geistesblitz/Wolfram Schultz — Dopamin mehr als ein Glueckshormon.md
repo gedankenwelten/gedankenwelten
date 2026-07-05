@@ -12,6 +12,7 @@ tags:
   - year-2026
 aliases:
   - Schultz Dopamin
+  - "Zeitgeist/Wolfram Schultz — Dopamin mehr als ein Glueckshormon"
 ---
 
 # Wolfram Schultz — Dopamin: Mehr als ein Glückshormon
