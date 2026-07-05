@@ -1,5 +1,5 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
+import { FullSlug, getFileExtension, joinSegments, pathToRoot, simplifySlug } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
@@ -31,6 +31,13 @@ export default (() => {
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
+    // Kanonische URL: ohne index-Suffix, damit /index.html & Co. nicht als Duplikate gelten
+    const simpleSlug = simplifySlug(fileData.slug ?? ("" as FullSlug))
+    const canonicalUrl =
+      fileData.slug === "404" || simpleSlug === "/"
+        ? url.toString()
+        : joinSegments(url.toString(), simpleSlug)
+
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
     )
@@ -40,6 +47,7 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        <link rel="canonical" href={canonicalUrl} />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
