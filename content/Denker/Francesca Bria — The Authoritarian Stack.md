@@ -222,3 +222,7 @@ Die medienwissenschaftliche Diagnose zum Stack: Andree erklärt im Greenpeace-In
 ### → [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]]
 
 Brias These der „privatisierten Souveränität" bekommt hier ihre konkrete Gegenfolie: Das Fediverse ist der technisch realisierte Gegenentwurf — öffentliches Protokoll, zivilgesellschaftliche Träger, keine Kapitalakkumulation. Wähner zeigt soziologisch, warum dieser Gegenentwurf strukturell instabil ist; Stockmann zeigt strategisch, was es braucht, damit er trotzdem gewinnt. Brias Modell Barcelona (demokratische Dateninfrastruktur durch öffentliche Institutionen) ist exakt das Organisationsmodell, das Wähner für das Fediverse fordert.
+
+### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
+
+Die 3sat-Doku liefert die Ideengeschichte zu Brias Struktur-Diagnose: *Privatized Sovereignty* konkret als Yarvins „Reboot", Thiels Exit-Städte und Palantirs Regierungsdatenbanken — Bria benennt den Stack, die Doku die Denker dahinter.
