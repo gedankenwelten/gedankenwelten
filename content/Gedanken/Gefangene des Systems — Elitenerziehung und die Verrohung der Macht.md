@@ -504,3 +504,7 @@ Schließt die Lücke zwischen Netzwerkanalyse (Heritage, Atlas, CPAC) und den ko
 ### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
 
 Elitenerziehung als Herrschaftstechnik, von der anderen Seite gesehen: Die koloniale „Puffer-Mittelschicht" — nach Intelligenz ausgewählt, in England ausgebildet, als Verwalter zurückgeschickt (Dangarembgas eigene Mutter) — ist Bildung, die nicht befreit, sondern ins System einpasst.
+
+### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
+
+Die 3sat-Doku zeigt das Ergebnis der hier beschriebenen Prägung in Reinform: eine Tech-Elite, deren „Herrschaft sich nicht mehr legitimieren muss" (Daub) — und die den uralten Eliten-Traum eigener Städte mit eigenem Recht (Seasteading, Próspera) technisch neu auflegt.

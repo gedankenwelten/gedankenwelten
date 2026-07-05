@@ -22,6 +22,16 @@ aliases:
 
 # Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet
 
+![[assets/Kulturzeit-Warum-sich-die-Tech-Elite-mit-Trump-verbuendet-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**George Grosz — Neue Sachlichkeit / Weimar-Satire** — die Doku endet bei „Deutschland 1933", und Grosz hat genau diese Allianz von Kapital und Autoritarismus damals gezeichnet: aufgedunsene Machteliten über der grauen Masse, mit beißender Feder. Fünf gesichtslose Tycoons thronen auf goldenen Schaltkreis-Türmen, einer hält das Capitol an Marionettenfäden; unten die anonyme Menge unter Suchscheinwerfern — Broligarchie in der Bildsprache der Epoche, vor der die Experten warnen.
+
+*Prompt:* A wide horizontal satirical panorama in the style of George Grosz and Weimar-era Neue Sachlichkeit caricature — acidic watercolor and sharp pen line, jaundiced yellows, blood reds, sooty greys. In the upper half, a row of bloated tycoon figures in immaculate suits — faceless or with blank monocle-like glasses, no realistic faces — sit enthroned on golden server towers and circuit-board skyscrapers, one dangling a puppet-string tied to a tiny government capitol building below. Dollar signs and glowing data cables coil like snakes around their chairs. In the lower third, a dense grey crowd of small anonymous figures walks hunched under surveillance searchlights sweeping from the towers. A torn banner reading nothing — no text anywhere — flutters over an apocalyptic orange sky. Grotesque exaggeration, savage social caricature, jagged Weimar cabaret energy, no photorealism, no real persons, no text.
+
+</details>
+
 > [!abstract] Worum es geht
 > Von Ayn Rand über René Girard zu Curtis Yarvin: die Ideengeschichte hinter der Allianz von Silicon Valley und Trump — und warum sie auf das Ende der Demokratie zielt. Die 3sat-Doku „Rechtsruck im Silicon Valley" ist keine Empörungsreportage, sondern eine politische Kulturgeschichte: Sie zeigt, dass die Nähe der Tech-Milliardäre zu Trump kein Opportunismus ist, sondern die konsequente Ausführung von Ideen, die das Valley seit Jahrzehnten prägen. Wer verstehen will, warum Peter Thiel vom Antichristen predigt und JD Vance Vizepräsident wurde, muss diese Linien kennen.
 

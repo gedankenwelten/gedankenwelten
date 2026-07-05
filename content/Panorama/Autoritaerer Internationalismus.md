@@ -231,6 +231,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Francesca Bria — The Authoritarian Stack]] | Netzwerk · 250+ Akteure, \$45 Mrd. |
 | [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] | Tech · Desouveränisierung |
 | [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] | Tech · Infrastrukturelle Souveränität |
+| [[Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]] | Tech · Ideengeschichte Valley→Trump (Rand, Girard, Yarvin) |
 | [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] | Oligarchie · Psychologie der Ultrareichen |
 | [[Adam Tooze — Pentagon vs. Anthropic]] | Tech · KI-Kontrolle und Militär |
 | [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] | Ideologie · GRT global |

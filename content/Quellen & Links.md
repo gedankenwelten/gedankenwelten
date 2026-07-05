@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## 3sat Kulturzeit — Rechtsruck im Silicon Valley (2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Warum sich die Tech-Elite mit Trump verbündet](https://www.youtube.com/watch?v=1zy4E7j0DkM) |
+| **Notiz** | [[Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kulturzeit_TechElite_Trump_Transkript.txt` |
+
 ## Ngũgĩ wa Thiong'o — Decolonizing the American University (Yale 2021)
 
 | | |

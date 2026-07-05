@@ -218,3 +218,7 @@ Büttner und Kaufmann wollen europäische Technologiesouveränität durch Wettbe
 
 Brown (2015) und Varoufakis sind Stationen derselben Diagnose: Brown beschreibt, wie Neoliberalismus die Demokratie durch Marktlogik untergräbt und einen drohenden Neo-Feudalismus (Piketty: r > g) ankündigt — Varoufakis argumentiert, diese Mutation sei bereits vollzogen und in Cloud-Feudalismus übergegangen. Browns "oligarchische Philanthropie" ist bei Varoufakis Cloud Capital, das nicht Profit, sondern Tribut extrahiert.
 
+### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
+
+Die 3sat-Doku zeigt die Selbsterzählung, die Varoufakis' Diagnose verdeckt: Rands schöpferischer Held als Kostüm einer Rentiersklasse, die nichts mehr erschafft, sondern Plattformen besitzt — und mit Próspera und Seasteading ihre feudalen Lehen gleich mitbaut.
+
