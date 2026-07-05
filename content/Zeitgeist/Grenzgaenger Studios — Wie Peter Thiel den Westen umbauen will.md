@@ -259,6 +259,11 @@ Thiels Emigration nach Argentinien ist das nächste Kapitel: Der „State-Made B
 ### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
 
 Andrees Greenpeace-Interview führt die hier beschriebene Thiel-Ideologie auf die Plattform-Ebene: Monopole auf öffentlichen Gütern als operatives Werkzeug des Programms — und Entflechtung nach Telekom-Vorbild, Outlink-Pflicht und offene Standards als konkrete Gegenmittel. Seine Kontinuitätsthese (die Konzerne waren „nie die Guten") deckt sich mit der State-Made-Milliardärs-Analyse dieser Note.
+
+### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
+
+Die 3sat-Doku liefert die Ideengeschichte zu der hier rekonstruierten Machtakkumulation: Rand, Girard, Antichrist und Katechon als das *Warum* hinter Thiels *Wie* — mit Daub, Turner, Palaver und Weiß als Stimmen.
+
 ---
 
 ## Weiterdenken

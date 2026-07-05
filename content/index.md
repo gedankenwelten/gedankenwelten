@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **05.07.** — [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
+>
+> Von Ayn Rand über René Girard zu Curtis Yarvin: die Ideengeschichte hinter der Allianz von Silicon Valley und Trump — und warum sie auf das Ende der Demokratie zielt.
+
+> **04.07.** — [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
+>
+> Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
+
+> **04.07.** — [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]]
+>
+> Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.
+
+> **03.07.** — [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
+>
+> Ein Genozid braucht keine überzeugten Lügner — nur Redaktionen, die Zeit kaufen. Adam Johnson seziert die Grammatik des organisierten Wegsehens.
+
+> **03.07.** — [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
+>
+> Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
+
+> → *8 weitere in* [[Zeitgeist]]
+
 ### Denker
 
 > **05.07.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
@@ -45,30 +69,6 @@ Die Gedankenwelten (luc)
 > Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
 
 > → *4 weitere in* [[Denker]]
-
-### Zeitgeist
-
-> **04.07.** — [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
->
-> Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
-
-> **04.07.** — [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]]
->
-> Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.
-
-> **03.07.** — [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
->
-> Ein Genozid braucht keine überzeugten Lügner — nur Redaktionen, die Zeit kaufen. Adam Johnson seziert die Grammatik des organisierten Wegsehens.
-
-> **03.07.** — [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
->
-> Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
-
-> **03.07.** — [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
->
-> Einer verlor die Eltern am 7. Oktober, der andere den Bruder in israelischer Haft — und beide sagen: Die Naiven seid ihr, die an den Krieg glauben. Frieden ist eine Handlung.
-
-> → *7 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

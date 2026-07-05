@@ -209,3 +209,7 @@ Thiels angekündigte Emigration nach Argentinien ist das nächste Kapitel: Der A
 ### → [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]]
 
 Andree liefert die demokratietheoretische Einordnung zu Thiels Programm: Die „Machtverklumpung" aus Techkonzernen und Trump-Regierung ist kein Lobbyismus, sondern nimmt demokratischen Gesellschaften die Forumshoheit — das Recht, ihre eigene Öffentlichkeit zu verfassen. *The Sovereign Individual* mit Thiels Vorwort ist für Andree der Beleg, dass dieses Programm offen publiziert vorliegt.
+
+### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
+
+Die 3sat-Doku rahmt die hier erzählte Biografie ideengeschichtlich: Rands CEO-als-Held-Mythos, Girards Mimesis als Manipulations-Werkzeug, die Antichrist-Theologie — die Ideen, aus denen die hier entzauberte Selbsterzählung gebaut ist.

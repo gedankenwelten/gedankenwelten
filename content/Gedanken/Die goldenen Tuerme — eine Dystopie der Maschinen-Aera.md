@@ -97,6 +97,10 @@ Das Paradox dieser Note — die Mächtigen als Gefangene ihres eigenen Systems �
 ### → [[Das unsichtbare Netzwerk — Potenziale und Gefahren]]
 Die Kehrseite der Vernetzung: Je tiefer die KI in den Alltag verwoben ist, desto mächtiger wird, wer sie kontrolliert — die „Macht ohne Gesicht" hat hier ihre Infrastruktur.
 
+### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
+
+Die 3sat-Doku dokumentiert, was diese Note vorausdenkt: Yarvins Stadtstaat als Aktienunternehmen („no vote, free exit"), Seasteading, Próspera — die goldene Turmstadt als realer Businessplan, ideengeschichtlich hergeleitet von Rand über Girard bis zur politischen Theologie.
+
 ---
 
 ## Weiterdenken
