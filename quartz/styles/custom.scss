@@ -1,5 +1,14 @@
 @use "./base.scss";
 
+// Barrierefreies Grau für kleine Meta-Texte (WCAG-Kontrast ≥ 4,5:1 auf --light),
+// wo var(--gray) zu blass ist (Datumsangaben, Platzhalter)
+:root {
+  --gray-a11y: #71717a;
+}
+:root[saved-theme="dark"] {
+  --gray-a11y: #a1a1aa;
+}
+
 // Wider page layout — responsive with readability cap
 .page > #quartz-body {
   @media (min-width: 1200px) {

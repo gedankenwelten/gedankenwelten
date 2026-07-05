@@ -17,10 +17,9 @@ const defaultOptions: Options = {
   layout: "modern",
 }
 
-let numTocs = 0
 export default ((opts?: Partial<Options>) => {
   const layout = opts?.layout ?? defaultOptions.layout
-  const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
+  const { OverflowList, overflowListAfterDOMLoaded, id } = OverflowListFactory()
   const TableOfContents: QuartzComponent = ({
     fileData,
     displayClass,
@@ -30,7 +29,6 @@ export default ((opts?: Partial<Options>) => {
       return null
     }
 
-    const id = `toc-${numTocs++}`
     return (
       <div class={classNames(displayClass, "toc")}>
         <button
@@ -56,7 +54,6 @@ export default ((opts?: Partial<Options>) => {
           </svg>
         </button>
         <OverflowList
-          id={id}
           class={fileData.collapseToc ? "collapsed toc-content" : "toc-content"}
         >
           {fileData.toc.map((tocEntry) => (

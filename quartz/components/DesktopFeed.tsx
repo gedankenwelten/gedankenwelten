@@ -217,7 +217,7 @@ const DesktopFeed: QuartzComponent = ({ allFiles, fileData, displayClass }: Quar
             <span>{t.label}</span>
           </button>
         ))}
-        <button class="df-chip df-chip-tags" data-tab="tags" type="button" aria-label="Tag-Wolke">
+        <button class="df-chip df-chip-tags" data-tab="tags" type="button">
           <svg
             class="df-chip-icon"
             xmlns="http://www.w3.org/2000/svg"

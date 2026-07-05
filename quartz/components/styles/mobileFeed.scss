@@ -148,7 +148,7 @@
 
 .gn-date {
   font-size: 0.7rem;
-  color: var(--gray);
+  color: var(--gray-a11y, var(--gray));
   margin-top: 0.4rem;
 }
 
@@ -426,7 +426,7 @@ body[data-slug="index"] .mf-note-content {
 }
 
 .mf-note-loading {
-  color: var(--gray);
+  color: var(--gray-a11y, var(--gray));
   text-align: center;
   padding: 2rem 0;
 }
