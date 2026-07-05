@@ -233,6 +233,10 @@ Eine Gedanken-Note über dasselbe Wort, eine Nummer kleiner gedacht: Wo Mbembe U
 
 Der Weggefährte: Sarr ist Mbembes Mitgründer der *Ateliers de la Pensée* in Dakar, beide denken vom selben Fundament aus. Wo Mbembe die Utopie zur planetaren Erdgemeinschaft weitet, entwirft Sarr sie kontinental — *Afrotopia*, Ubuntu, Wohlsein — dieselbe Bewegung vom Objekt zum Subjekt.
 
+### → [[Ngugi wa Thiongo — Decolonizing the American University]]
+
+Ngũgĩ trägt Mbembes Kernthese als Yale-Vorlesung vor: Kapitalismus und Rassismus „voneinander geboren", belegt mit Smith, Marx und Eric Williams. Sein „großes Zelt", unter dem Sprachen via Übersetzung gleichberechtigt sprechen, ist die sprachpolitische Fassung von Mbembes planetarer Erdgemeinschaft.
+
 ---
 
 ## Weiterdenken

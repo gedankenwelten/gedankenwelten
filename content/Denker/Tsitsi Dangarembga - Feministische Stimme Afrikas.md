@@ -278,6 +278,10 @@ Die Gedanken-Note, die aus diesem Gespräch entstand: Dangarembgas Wohlsein-stat
 
 Das Kerngespräch hinter dem Einspieler dieser Sendung, jetzt in voller Tiefe: Sarr entwirft die Utopie (*Afrotopia*), auf die Dangarembga mit „Ich glaube nicht an Utopien" antwortet. Beide landen beim Wohlsein statt BIP — er von der Vision her, sie von der täglichen Übung.
 
+### → [[Ngugi wa Thiongo — Decolonizing the American University]]
+
+Ngũgĩs Yale-Vorlesung liefert die historischen Kategorien hinter Dangarembgas Befund: Die Siedlerkolonie (er nennt Kenia, Südafrika, Simbabwe) und die vererbte „Architektur des Geistes" grundieren ihre These der hergestellten Armut und der kolonialen Wunde in den Köpfen. Wo sie das Erzählen als Wundreinigung setzt, setzt er die Rückkehr zur eigenen Sprache.
+
 ---
 
 ## Weiterdenken

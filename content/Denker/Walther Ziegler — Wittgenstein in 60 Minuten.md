@@ -294,6 +294,10 @@ Sartre und Wittgenstein teilen die Diagnose der Kontingenz — die Welt hätte a
 
 Lyotard radikalisiert Wittgensteins Sprachspiel-Begriff zu einer Gesellschaftstheorie: Wo Wittgenstein noch beschreibt (Philosophie darf Sprachspiele nur beschreiben, nicht hierarchisieren), macht Lyotard daraus eine Diagnose — es gibt keine Metasprache, die über allen Sprachspielen steht. Das ist die postmoderne Konsequenz aus dem Spätwerk, die Wittgenstein selbst nie gezogen hätte.
 
+### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
+
+Diagnes „Denke in Gegenwart der Vielheit der Sprachen" steht auf Wittgensteins Fundament: Sprachspiele, Bedeutung als Gebrauch, die Grenzen meiner Sprache als Grenzen meiner Welt. Diagne zieht daraus die dekoloniale Konsequenz — jedes Argument muss die Prüfung durch das Fremde bestehen.
+
 ---
 
 ## Weiterdenken
