@@ -277,3 +277,7 @@ Nosthoffs Kybernetik — Systeme, die sich selbst regeln und Ziele setzen, Polit
 ### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
 
 Clüver Ashbrook zeigt die kybernetische Regierungskunst in der Anwendung: Palantir-Verträge statt Fachbürokratie, fusionierte Datensilos, Ellisons Überwachungsstaat, Yarvins Präsident-als-CEO — der praktische Vollzug dessen, was Nosthoff als Denktradition freilegt.
+
+### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
+
+Die 3sat-Doku ergänzt Nosthoffs Kybernetik-Genealogie um die zweite Ideenlinie: Rand, Girard und die politische Theologie. Daubs „Autoritarismus per Knopfdruck" (Palantir) ist kybernetische Regierungskunst in Aktion — die Doku zeigt die Akteure, Nosthoff das Denksystem, das sie steuerbar glauben lässt.

@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*251 Notes — automatisch generiert · nach Thema sortiert*
+*252 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -120,6 +120,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Koschi Politik — Weißes Haus löscht Trumps Privatvideo|Koschi Politik — Weißes Haus löscht Trumps Privatvideo]]
 - [[Zeitgeist/Koshi Politik — Truth Social 15: Töten als Ehrensache|Koshi Politik — Truth Social 15: Töten als Ehrensache]]
 - [[Zeitgeist/KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika|KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika]]
+- [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]] — Von Ayn Rand über René Girard zu Curtis Yarvin: die Ideengeschichte hinter der Allianz von Silicon Valley und Trump — und warum sie auf das Ende der Demokratie zielt.
 - [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei|Kurz & Görlitz — Palantir und die deutsche Polizei (re:publica 26)]]
 - [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende]]
 - [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]]
