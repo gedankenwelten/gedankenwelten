@@ -12,6 +12,7 @@ tags:
 aliases:
   - Neurodivers ARTE
   - ARTE Neurodivers
+  - "Zeitgeist/ARTE — Neurodivers Anders denken besser arbeiten"
 ---
 
 # ARTE Re: — Neurodivers: Anders denken, besser arbeiten?

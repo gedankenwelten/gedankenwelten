@@ -21,6 +21,7 @@ aliases:
   - Thoma
   - Strategien der Natur
   - Holzbau
+  - "Denker/Erwin Thoma — Strategien der Natur"
 ---
 
 # Erwin Thoma — Strategien der Natur

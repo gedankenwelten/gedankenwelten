@@ -17,6 +17,7 @@ aliases:
   - Spitzer
   - Digitale Demenz
   - KI und Gehirn
+  - "Denker/Manfred Spitzer — KI, Gehirn und Lernen"
 ---
 
 # Manfred Spitzer — KI, Gehirn und Lernen

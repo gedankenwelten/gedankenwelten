@@ -20,6 +20,7 @@ aliases:
   - Spitzer Feldbach
   - Spitzer Hirnforscher
   - Manfred Spitzer Lernen
+  - "Denker/Manfred Spitzer — Hirnforscher Feldbach"
 ---
 
 # Manfred Spitzer — Hirnforscher Vortrag in Feldbach

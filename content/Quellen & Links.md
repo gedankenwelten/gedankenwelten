@@ -6,6 +6,22 @@ tags:
   - links
 ---
 
+## Ngũgĩ wa Thiong'o — Decolonizing the American University (Yale 2021)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Decolonizing the American University — Yale Council on African Studies](https://www.youtube.com/watch?v=kn4C69pJvd0) |
+| **Notiz** | [[Ngugi wa Thiongo — Decolonizing the American University]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Ngugi_Decolonizing_University_Transkript.txt` |
+
+## Souleymane Bachir Diagne — The Philosopher as Translator (Cornell SCT 2015)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Souleymane Bachir Diagne: "The Philosopher as Translator"](https://www.youtube.com/watch?v=5yQdiZ9t3Yo) |
+| **Notiz** | [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Diagne_Philosopher_Translator_Transkript.txt` |
+
 ## Suraj Yengde — Annihilation of Caste (Radical Books Collective 2021)
 
 | | |

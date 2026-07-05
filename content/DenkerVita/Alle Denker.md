@@ -87,6 +87,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/David Chalmers|David Chalmers]]** — Philosoph des Geistes; Hard Problem of Consciousness, Panpsychismus, Extended Mind
 
+**[[DenkerVita/Souleymane Bachir Diagne|Souleymane Bachir Diagne]]** — Senegalesischer Philosoph, Columbia University; Übersetzung als ethische Gastfreundschaft, lateraler Universalismus „von unten", Philosophie im Islam, afrikanische Kunst als Denkform, Ubuntu
+
 **[[DenkerVita/Klaus Doerre|Klaus Dörre]]** — Industriesoziologe, Professor Jena (2005–2025); Kapitalistische Landnahme, Prekarisierung, Konfliktpartnerschaft, arbeitende Klassen; Mitbegründer DFG-Kollegforschungsgruppe „Postwachstumsgesellschaften" mit Hartmut Rosa; Klassenkritik aus Betriebsrealität
 
 **[[DenkerVita/Dirk Specht|Dirk Specht]]** — Unternehmer, Dozent; Merit Order, Batteriespeicher, Dekarbonisierungsstrategien, Datenjournalismus vs. Lobbying
@@ -250,6 +252,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Maoz Inon|Maoz Inon]]** — Israelischer Sozialunternehmer & Friedensaktivist, Gründer der Abraham-Hostels, des Jesus Trail und Fauzi Azar Inn, Co-CEO InterAct International; verlor seine Eltern am 7. Oktober 2023 und wählte öffentlich Frieden statt Rache; Co-Autor The Future Is Peace (2026)
 
 ## N
+
+**[[DenkerVita/Ngugi wa Thiongo|Ngũgĩ wa Thiong'o]]** — Kenianischer Schriftsteller und Literaturwissenschaftler (1938–2025); Kenias bedeutendster Romancier, Vordenker der Dekolonisierung; verwarf 1970 das Englische für seine Muttersprache Gĩkũyũ, 1977/78 ohne Anklage inhaftiert, Exil bis 2002, zuletzt Distinguished Professor UC Irvine; *Decolonising the Mind* — Sprache als Träger von Kultur und Gedächtnis
 
 **[[DenkerVita/Ninia LaGrande|Ninia LaGrande]]** — Moderatorin, Autorin, Slam-Poetin (geb. 1983 Hannover); Mitgründerin #ausnahmslos (2016), Clara-Zetkin-Frauenpreis; moderiert für Bundespräsidialamt und Bundesministerien; G7-Gleichstellungsbeirat 2022; Büro für Popkultur GmbH
 

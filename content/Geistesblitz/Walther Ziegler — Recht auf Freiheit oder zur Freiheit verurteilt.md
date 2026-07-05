@@ -9,6 +9,7 @@ tags:
   - year-2026
 aliases:
   - Ziegler Freiheit
+  - "Zeitgeist/Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt"
 ---
 
 # Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt?

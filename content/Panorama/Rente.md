@@ -11,6 +11,8 @@ tags:
   - kapitalismus
   - neoliberalismus
 erstellt: 2026-04-27
+aliases:
+  - "Panorama/Rente - Krise des Generationenvertrags"
 ---
 
 # Rente — Krise des Generationenvertrags

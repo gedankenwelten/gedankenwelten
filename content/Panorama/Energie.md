@@ -13,6 +13,8 @@ tags:
   - ki
 erstellt: 2026-04-27
 aktualisiert: 2026-06-01
+aliases:
+  - "Panorama/Energiewende - Zwischen Kostenwahrheit und Lobbypolitik"
 ---
 
 # Energie — Zwischen Kostenwahrheit und Lobbypolitik

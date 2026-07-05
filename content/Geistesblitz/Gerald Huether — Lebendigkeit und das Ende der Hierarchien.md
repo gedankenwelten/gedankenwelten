@@ -18,6 +18,7 @@ aliases:
   - Huether
   - Lebendigkeit
   - Kohärenz
+  - "Denker/Gerald Huether — Lebendigkeit und das Ende der Hierarchien"
 ---
 
 # Gerald Hüther — Lebendigkeit und das Ende der Hierarchien

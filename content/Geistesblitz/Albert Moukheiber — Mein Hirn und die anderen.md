@@ -12,6 +12,7 @@ tags:
 aliases:
   - Moukheiber Teil 2
   - Soziales Gehirn Moukheiber
+  - "Denker/Albert Moukheiber — Mein Hirn und die anderen"
 ---
 
 # Albert Moukheiber — Mein Hirn und die anderen (2/2)

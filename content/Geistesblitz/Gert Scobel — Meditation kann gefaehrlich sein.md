@@ -14,6 +14,7 @@ tags:
 aliases:
   - Scobel Meditation
   - Meditation Nebenwirkungen
+  - "Zeitgeist/Gert Scobel — Meditation kann gefaehrlich sein"
 description: "Meditation wirkt — klinisch belegt, gleichwirksam wie ein Antidepressivum. Und sie kann schaden. Scobel zieht die Trennlinie zwischen Wellness-Versprechen und ernsthafter Praxis."
 ---
 

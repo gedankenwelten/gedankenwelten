@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **05.07.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
+>
+> Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
+
+> **05.07.** — [[Denker/Souleymane Bachir Diagne — Der Philosoph als Uebersetzer|Souleymane Bachir Diagne — Der Philosoph als Übersetzer]]
+>
+> Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
+
+> **04.07.** — [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
+>
+> Die Rede, die nie gehört werden durfte: Der Dalit-Gelehrte Suraj Yengde liest Ambedkars verbotenen Text von 1936 — und trägt ihn als Kind aus dem Slum am eigenen Leib.
+
+> **03.07.** — [[Denker/Soroush und Heck — Politische Tradition des Islam|Soroush und Heck — Kann die politische Tradition des Islam gerettet werden?]]
+>
+> Ein Muslim und ein Katholik fragen, was vom politischen Erbe des Islam zu retten ist — nicht die Identität, nicht das Gesetz, sondern die Werte: Gerechtigkeit und Freiheit.
+
+> **02.07.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+>
+> Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
+
+> → *4 weitere in* [[Denker]]
+
 ### Zeitgeist
 
 > **04.07.** — [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
@@ -46,30 +70,6 @@ Die Gedankenwelten (luc)
 
 > → *7 weitere in* [[Zeitgeist]]
 
-### Denker
-
-> **04.07.** — [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
->
-> Die Rede, die nie gehört werden durfte: Der Dalit-Gelehrte Suraj Yengde liest Ambedkars verbotenen Text von 1936 — und trägt ihn als Kind aus dem Slum am eigenen Leib.
-
-> **03.07.** — [[Denker/Soroush und Heck — Politische Tradition des Islam|Soroush und Heck — Kann die politische Tradition des Islam gerettet werden?]]
->
-> Ein Muslim und ein Katholik fragen, was vom politischen Erbe des Islam zu retten ist — nicht die Identität, nicht das Gesetz, sondern die Werte: Gerechtigkeit und Freiheit.
-
-> **02.07.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
->
-> Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
-
-> **02.07.** — [[Denker/Agnes Callard - Warum lohnt sich ein sokratisches Leben|Agnes Callard — Warum lohnt sich ein sokratisches Leben?]]
->
-> Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen — Agnes Callard über das geprüfte Leben, dialogisches Denken und Liebe als gemeinsames Streben.
-
-> **02.07.** — [[Denker/Tsitsi Dangarembga - Feministische Stimme Afrikas|Tsitsi Dangarembga — Feministische Stimme Afrikas]]
->
-> Zimbabwe ist kein armes Land — die Armut wurde hergestellt, als Waffe. Tsitsi Dangarembga über den Kolonialismus in den Köpfen und Wohlsein als Gegenentwurf zur Utopie.
-
-> → *2 weitere in* [[Denker]]
-
 ### Geistesblitz
 
 > **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
@@ -83,10 +83,6 @@ Die Gedankenwelten (luc)
 > **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
 >
 > Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
-
-> **27.06.** — [[Geistesblitz/Die Neurobiologie der Liebe|Die Neurobiologie der Liebe — Verliebtsein als natürliche Sucht]]
->
-> Verliebtsein aktiviert genau das Belohnungssystem, das Kokain kapert — dieselbe Hardware, andere Quelle. Aber die Liebe kann, was die Droge nie kann: sie wandelt sich in Bindung, statt sich zu verzehren.
 
 ### Panorama
 
