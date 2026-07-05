@@ -213,6 +213,10 @@ Die Schwester-Note: dort die *politische* Seite desselben Denkens — was folgt 
 
 Reform vs. Exodus: Wo Soroush den Glauben von innen erneuert und Wesenskern von historischem Ballast trennt, richtet Ambedkar (in Yengdes Lesart) das Dynamit auf die heiligen Texte selbst und verlässt den Hinduismus 1956 mit Hunderttausenden. Zwei Antworten darauf, ob eine Unrechtsordnung durch Neulesen ihrer Schriften heilbar ist.
 
+### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
+
+Diagnes „Koran des Pluralismus" (Verschiedenheit, „damit ihr einander kennenlernt"; der Wettstreit in guten Taten) ist die übersetzungsphilosophische Fassung von Soroushs religiösem Pluralismus: Beide retten das Universale von innen gegen den Absolutismus — Soroush theologisch, Diagne über die Gastfreundschaft zwischen den Sprachen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

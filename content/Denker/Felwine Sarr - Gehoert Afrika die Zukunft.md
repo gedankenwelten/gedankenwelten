@@ -216,6 +216,14 @@ Hecks „Epistemologie der Freundschaft" ist Sarrs Forderung in der Islampolitik
 
 Ubuntu und die rehabilitierte Utopie in Anwendung: Versöhnung, die weiter reicht als das Recht (wie Mandelas), und ein Zukunftsentwurf mit Termin gegen den Verwaltungsmodus der Katastrophe.
 
+### → [[Ngugi wa Thiongo — Decolonizing the American University]]
+
+Ngũgĩs Nairobi-Reform von 1968 („from here to there to here") ist die institutionelle Schwester von Sarrs Afrotopia: kein Zurück, sondern ein neues Zentrum aus endogenen Quellen — bei Sarr Ubuntu und die eigene Ökonomie, bei Ngũgĩ das Orchester der Sprachen statt der vertikalen Hierarchie.
+
+### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
+
+Der senegalesische Nächste: Diagne liefert Sarrs endogenem Denken die sprachphilosophische Statik — „eigene Quellen" taugen nur als übersetzbare, reziprok geöffnete, nicht als abgeschottete Andersheit. Ateliers de la Pensée und die Gastfreundschaft der Übersetzung gehören zusammen.
+
 ---
 
 ## Weiterdenken

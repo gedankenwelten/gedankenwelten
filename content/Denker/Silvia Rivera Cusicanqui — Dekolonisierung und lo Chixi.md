@@ -244,6 +244,14 @@ Hecks „religio-säkulares Moment" — öffentliche Vernunft weder rein säkula
 
 Yengdes „zwei Kolonialherren" — British Raj und der *permanent colonizer* Brahmanen-Raj — ist die Kette der Scharniere in indischem Idiom: der innere Kolonisator, den die Unabhängigkeit nie mitmeinte. Und seine wachsende Skepsis gegen jeden „America-centered purview", auch den antikapitalistischen, teilt Cusicanquis Misstrauen gegen die metropolitane Theorie, die das Eigene wieder nur übersetzt.
 
+### → [[Ngugi wa Thiongo — Decolonizing the American University]]
+
+Ngũgĩs Caliban und sein „Prosperisch" sind das afrikanisch-amerikanische Gegenstück zu Cusicanquis internalisiertem Kolonialismus — Herrschaft, die im Selbstbild weiterlebt. Zugleich reibt sich ihr Ch'ixi produktiv an seinen „drei Strömen": Er sortiert, was sich bei ihr gerade nicht mehr entflechten lässt.
+
+### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
+
+Diagnes laterales Universales ist der strukturelle Zwilling von Ch'ixi: Bewegung ohne Endspiel, keine finale Reduktion der Vielheit auf das Eine. Beide dekolonisieren, indem sie die Synthese verweigern, die die Differenz einebnen würde — er in der Übersetzung, sie im Gefleckten.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

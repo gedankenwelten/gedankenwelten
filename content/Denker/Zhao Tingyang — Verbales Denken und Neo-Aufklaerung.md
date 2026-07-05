@@ -187,6 +187,10 @@ Moukheibers Befund, dass das Gehirn sozial vor kognitiv ist — Gesichtserkennun
 ### → [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
 Wie Zhao entwirft Cusicanqui eine eigenständige nicht-westliche Episteme statt bloßer Westkritik: ihren Dialog mit nicht-menschlichen Subjekten (Berge, Sterne, Ahnen) gegen das Subjekt-Objekt-Schema, wie Zhaos Verb-Denken gegen die Substanz-Ontologie. Der Unterschied liegt in der Richtung: Zhao denkt vom Weltganzen (Tianxia) her nach unten, Cusicanqui radikal von unten — vom Körper, vom Markt, vom Haus — nach oben.
 
+### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
+
+Dasselbe Misstrauen gegen die erstarrte Kategorie: Zhaos „in der Substantivform eingefrorenes" Denken trifft Diagnes Nietzsche-/Sapir-Argument, dass Grammatik die heimliche Metaphysik ist (das Cogito, unübersetzbar ins Kinyarwanda). Zhao sucht die Verb-Bewegung, Diagne die Übersetzungs-Bewegung.
+
 ---
 
 ## Weiterdenken

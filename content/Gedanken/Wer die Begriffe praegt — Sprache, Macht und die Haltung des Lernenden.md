@@ -177,6 +177,8 @@ Der Lehrling definiert durch Abgrenzung: noch kein Geselle, noch kein Meister. D
 - [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise]] — Der Fall in der Praxis: Flemig entlarvt Prechts Begriffsmacht („nichts zu holen"), kippt aber selbst in die Allzuständigkeit, die er kritisiert — die Haltung des Lernenden als Gegengift gegen beide.
 - [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]] — Derselbe Vorgang eine Schicht tiefer: Begriffshoheit für Gesten und Symbole. Gegen die Umdeutung eines Zeichens hilft kein Gegenargument — man kann es nur weiter benutzen oder hergeben.
 
+- [[Denker/Ngugi wa Thiongo — Decolonizing the American University]] — Höckes Formel in kolonialer Tiefenschärfe: „Prosperisch", die Sprache, in der Caliban sich nur noch kennt, wie der Herr ihn sieht — von Spensers Irland-Manifest über die Plantagen bis „Kill the Indian, save the man". Wer die Sprache prägt, prägt das Gedächtnis; Ngũgĩ zeigt dieselbe Machtformel als Imperium.
+
 ---
 
 ## Weiterdenken

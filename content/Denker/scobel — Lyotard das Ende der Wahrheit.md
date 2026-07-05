@@ -256,6 +256,10 @@ Zhao Tingyangs «Neue Enzyklopädie» und sein Syntextualisierungsprojekt sind d
 
 Dieselbe Diagnose der Zersplitterung, entgegengesetzte Konsequenz: Lyotard feiert den Zerfall der großen Erzählungen und die inkommensurablen Sprachspiele, Morins *pensée complexe* will die getrennten Teile gerade wieder verbinden (*reliance*) — ohne die Widersprüche wegzuschneiden. Fragmentierung als Befreiung versus Fragmentierung als Verstümmelung.
 
+### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
+
+Der Denker, der an Lyotards Klippe nicht zerschellen will: Diagne teilt die Absage an den überwölbenden Logos und die Metaerzählung, weigert sich aber, daraus die Inkommensurabilität der Sprachspiele zu folgern — gegen den Zerfall in unübersetzbare Provinzen setzt er die Übersetzung als laterales Universales.
+
 ---
 
 ## Weiterdenken

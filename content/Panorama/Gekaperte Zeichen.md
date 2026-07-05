@@ -112,6 +112,8 @@ Für alle, die einzelnen Fällen nachgehen wollen — geordnet wie im Text:
 - [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Leonie Heims & Tim Stark — Who the f#ck is Agartha]] — Dieselbe Mechanik als lebender Fall: Ein harmloser Popkultur-Begriff wird unter dem Schutzschild der Ironie zum rechtsextremen Code — „It's not that deep, ist doch nur ein Meme" ist die eingebaute Ausrede des OK-Zeichens in Reinform. Und wie beim OK-Hoax macht die Tarnung als Witz alles sagbar und niemanden angreifbar.
 - [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]] — Die älteste Zeichen-Kaperung des Archivs: Ambedkar zeigt 1936, dass schon die Namen (Brahmane, Kshatriya, Shudra) geladene politische Ökonomie sind — und „Ram Raj" ein gekapertes Heilsversprechen, das einen Kasten-Raj meint.
 
+- [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]] — Der historische Tiefenfall des Mechanismus: Ngũgĩs *Introjektion* (Sklavenhändler John Newton verwandelt das Stöhnen unter Deck in *Amazing Grace*; Siedlerminderheiten kapern die Sprache der Befreiungsbewegungen; „Weiße als die eigentlich Unterdrückten") — die Kaperung der Opferrolle, Jahrhunderte vor dem OK-Zeichen.
+
 ---
 
 ## Weiterdenken

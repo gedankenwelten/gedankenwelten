@@ -209,6 +209,10 @@ Yengde beschreibt Hindutva als faschistische Wendung (Brahmanisierung) und veror
 
 Ambedkars Einsicht, dass die Namen selbst geladene politische Ökonomie sind — „solange Brahmane, Kshatriya, Vaishya, Shudra weiterleben, lebt die Hierarchie", und wer „Ram Raj" fordert, fordert einen Kasten-Raj — ist ein Lehrstück über umkämpfte Zeichen: Deutungshoheit über Begriffe als Machtfrage.
 
+### → [[Ngugi wa Thiongo — Decolonizing the American University]]
+
+Die Brücke, die Ngũgĩ afrikanischen Studierenden aufträgt („afroamerikanische Geschichte ist unsere Literatur"), baut Yengde von der anderen Seite: Dalit-Black Worlds, Kaste und Rasse als parallele Ontologien der Erniedrigung. Und beide kreisen um das verbotene Wort — Ambedkars zensierte Rede, die verbotenen Sprachen der Plantagen.
+
 ---
 
 ## Weiterdenken

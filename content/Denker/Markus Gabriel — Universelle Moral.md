@@ -178,3 +178,7 @@ Nicht „die anderen sind der Feind", sondern: Die anderen könnten recht haben,
 - [[Markus Gabriel — Ethische Intelligenz (scobel)]] — Hier wendet Gabriel den moralischen Universalismus auf KI an: Constitutional AI (Anthropic) spiegelt nur kalifornische Werte, nicht universelle — seine Kritik an Amanda Askells Ansatz ist die Anwendung der Universalitätsforderung auf KI-Design
 - [[Walther Ziegler — Popper in 60 Minuten]] — Gabriel referenziert Poppers *The Open Society and Its Enemies* direkt. Beide verteidigen offene, selbstkritische Gesellschaften — Gabriel ergänzt Poppers politisches Programm um moralphilosophische Fundierung: nicht nur Verfahren, sondern objektive moralische Tatsachen
 - [[Walther Ziegler — Konfuzius in 60 Minuten]] — Konfuzius' Goldene Regel als früher empirischer Beleg für Gabriels These einer universellen, nicht-relativen Moral: Verschiedene Kulturen gelangen unabhängig zu ähnlichen ethischen Grundsätzen
+
+### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
+
+Diagnes laterales Universales ist die erkenntnistheoretische Parallele zu Gabriels Universalismus „von unten" — ein Universales ohne Thron. Und der produktive Widerspruch: Gabriel behauptet objektiv erkennbare moralische Tatsachen, Diagne verlegt das Universale ganz in die unabschließbare Bewegung der Übersetzung.
