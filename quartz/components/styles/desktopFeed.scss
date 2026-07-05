@@ -71,6 +71,11 @@
   }
 }
 
+// Darkmode: aktiver Chip — dunkle Schrift auf hellem Lila (Weiß hätte nur ~2:1 Kontrast)
+:root[saved-theme="dark"] .df-chip.active {
+  color: var(--light);
+}
+
 // Lightmode: cremefarbene Chips mit dezentem Rand statt Grau
 :root[saved-theme="light"] {
   --df-chip-bg: #f6efe1;
@@ -183,7 +188,7 @@ svg.df-chip-icon {
   justify-content: space-between;
   gap: 0.5rem;
   font-size: 0.74rem;
-  color: var(--gray);
+  color: var(--gray-a11y, var(--gray));
 }
 
 .df-cat {
