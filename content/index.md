@@ -44,7 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Muslim und ein Katholik fragen, was vom politischen Erbe des Islam zu retten ist — nicht die Identität, nicht das Gesetz, sondern die Werte: Gerechtigkeit und Freiheit.
 
-> → *5 weitere in* [[Denker]]
+> → *7 weitere in* [[Denker]]
 
 ### Zeitgeist
 
