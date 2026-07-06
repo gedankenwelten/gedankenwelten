@@ -42,7 +42,9 @@ Quelle: [Weiterdenken mit Aladin El-Mafaalani – taz FUTURZWEI-Talk](https://ww
 Gesprächspartner: Peter Unfried (Chefredakteur taz FUTURZWEI)
 
 > [!info] Wer spricht?
-> **Aladin El-Mafaalani** (*1978, Ruhrgebiet) — Professor für Migrations- und Bildungssoziologie an der TU Dortmund. Sohn syrischer Einwanderer, aufgewachsen im Ruhrgebiet. Studierte Wirtschaftswissenschaften, Politikwissenschaft, Soziologie an der Ruhr-Universität Bochum. Bekannt für öffentlichkeitswirksame Analysen zu Integration, Bildungsgerechtigkeit und gesellschaftlicher Polarisierung. Träger des Bundesverdienstkreuzes und des Soziologiepreises für öffentliche Wirksamkeit. Wichtigste Bücher: *Das Integrationsparadox* (2018), *Mythos Bildung* (2020), *Wozu Rassismus?* (2021), *Kinder — Minderheit ohne Schutz* (2025, nominiert für Deutschen Sachbuchpreis), *Misstrauensgemeinschaften* (2024).
+> **Aladin El-Mafaalani** (*1978, Ruhrgebiet) — Professor für Migrations- und Bildungssoziologie an der TU Dortmund. Sohn syrischer Einwanderer, aufgewachsen im Ruhrgebiet. Studierte Wirtschaftswissenschaften, Politikwissenschaft, Soziologie an der Ruhr-Universität Bochum. Bekannt für öffentlichkeitswirksame Analysen zu Integration, Bildungsgerechtigkeit und gesellschaftlicher Polarisierung. Träger des Bundesverdienstkreuzes und des Soziologiepreises für öffentliche Wirksamkeit. Wichtigste Bücher: *Das Integrationsparadox* (2018), *Mythos Bildung* (2020), *Wozu Rassismus?* (2021), *Kinder — Minderheit ohne Schutz* (2025, nominiert für Deutschen Sachbuchpreis), *Misstrauensgemeinschaften* (2025).
+>
+> → [[DenkerVita/Aladin El-Mafaalani|DenkerVita]]
 
 ---
 

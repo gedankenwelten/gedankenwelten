@@ -37,12 +37,14 @@ Quelle: [taz lab 2025: Kein Herz für Kinder — die Diskriminierung der GenZ mi
 Gesprächspartnerin: Paulina Unfried (Politikwissenschaftlerin und Autorin, taz)
 
 > [!info] Wer spricht?
-> **Aladin El-Mafaalani** (*1978, Ruhrgebiet) — Soziologe mit libanesischen Wurzeln, Professor für Migrations- und Bildungssoziologie an der TU Dortmund (seit 2024). Als Kind syrischer Einwanderer selbst zunächst Hauptschüler, später Lehrer an einem Berufskolleg — seine eigene Biografie ist Ausgangspunkt seines Denkens über Bildung und sozialen Aufstieg.
+> **Aladin El-Mafaalani** (*1978, Ruhrgebiet) — Soziologe, Professor für Migrations- und Bildungssoziologie an der TU Dortmund (seit 2024). Als Kind syrischer Einwanderer selbst zunächst Hauptschüler, später Lehrer an einem Berufskolleg — seine eigene Biografie ist Ausgangspunkt seines Denkens über Bildung und sozialen Aufstieg.
 >
 > Er wurde bekannt durch das *Integrationsparadox*: Je besser Integration gelingt, desto mehr Konflikte werden sichtbar — weil Minderheiten anfangen, die Spielregeln der Gesellschaft mitzuverhandeln. In diesem Panel stellt er sein Buch *Kinder — Minderheit ohne Schutz* (2025, mit Sebastian Kurtenbach und Peter Stromeier) vor: eine soziologische Analyse der systematischen Benachteiligung von Kindern und Jugendlichen in einer alternden Gesellschaft.
 >
 > Wichtigste Werke: *Das Integrationsparadox* (2018), *Mythos Bildung* (2020), *Wozu Rassismus?* (2021), *Misstrauensgemeinschaften* (2025), *Kinder — Minderheit ohne Schutz* (2025)
 > Kernkonzepte: Integrationsparadox, Misstrauensgemeinschaften, Adultismus, Tischmetapher, strukturelle Außenseiter
+>
+> → [[DenkerVita/Aladin El-Mafaalani|DenkerVita]]
 
 ---
 
