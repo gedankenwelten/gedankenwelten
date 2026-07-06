@@ -43,6 +43,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Aziz Abu Sarah|Aziz Abu Sarah]]** — Palästinensischer Friedensstifter & Kulturunternehmer (Ostjerusalem), Mitgründer MEJDI Tours (Dual-Narrative-Methode), National Geographic Explorer, TED Fellow, Co-CEO InterAct International; vom Rache suchenden Jugendlichen zum Versöhner; Crossing Boundaries (2020), The Future Is Peace (2026, mit Maoz Inon)
 
+**[[DenkerVita/B.R. Ambedkar|B.R. Ambedkar]]** — Jurist, Ökonom und Architekt der indischen Verfassung (1891–1956); als „Unberührbarer“ geboren, zwei Doktortitel (Columbia, LSE); *Annihilation of Caste* (1936), Abschaffung der Unberührbarkeit in der Verfassung von 1950; konvertierte 1956 mit einer halben Million Anhängern zum Navayana-Buddhismus — *Babasaheb*
+
+**[[DenkerVita/Hannah Arendt|Hannah Arendt]]** — Politische Denkerin (1906–1975), die sich selbst nie „Philosophin“ nennen wollte; Totalitarismus-Theorie, Banalität des Bösen, Natalität, Pluralität; *Elemente und Ursprünge totaler Herrschaft* (1951), *Vita activa* (1958), *Eichmann in Jerusalem* (1963) — Denken ohne Geländer
+
 ## B
 
 **[[DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026
@@ -54,6 +58,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Bijan Moini|Bijan Moini]]** — Jurist und Menschenrechtsanwalt (GFF); Überwachungs-Asymmetrie, digitale Grundrechte, automatisiertes Data Mining, BND-Auslandsüberwachung; Literarisierung juristischer Sorgen im Roman *Der Würfel* (2019)
 
 **[[DenkerVita/Christian Bauckhage|Christian Bauckhage]]** — Informatiker (Uni Bonn, Fraunhofer IAIS, Co-Direktor Lamarr-Institut); Maschinelles Lernen, hybride & erklärbare KI, Quantencomputing, OpenGPT-X und europäische KI-Souveränität; „Wir haben noch gar nichts gesehen“
+
+**[[DenkerVita/Benjamin Biersky|Benjamin Biersky]]** — Politischer YouTuber und Podcaster aus dem Oberbergischen; Kanal *Nachtsitzung* (seit 2024) mit analytischer Aufbereitung des US-Rechtspopulismus, explizit links, politische Bildung statt Nachrichtenticker; Podcast *Linkes Gerede*
+
+**[[DenkerVita/Francesca Bria|Francesca Bria]]** — Innovationsökonomin (*1977, Rom); als CTO Barcelonas die kommunale Datenpolitik neu erfunden, leitete Italiens nationalen Innovationsfonds, Kopf der EuroStack-Initiative für europäische digitale Souveränität; Honorarprofessorin am UCL
 
 ## C
 
@@ -82,6 +90,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Cordula Tutt|Cordula Tutt]]** — Wirtschaftsjournalistin, Autorin (WiWo Hauptstadtbüro Berlin); Expertise: Strukturreformen durch Effizienz (nicht Kürzung), Rentensysteme, Gesundheitsökonomie, Steuergerechtigkeit; Autorin *Das große Schrumpfen* (2007); Kernerkenntnis: Zielgenauigkeit in Sozialsystemen schützt echte Arme besser als Gießkannenprinzip
 
 **[[DenkerVita/Christoph Moellers|Christoph Möllers]]** — Staatsrechtler und Rechtsphilosoph; Freiheitsgrade, Demokratie als Aushandlungsverfahren, Staat als Ermöglichungsbedingung der Freiheit, Rektor Wissenschaftskolleg Berlin 2026
+
+**[[DenkerVita/Claus-Christian Carbon|Claus-Christian Carbon]]** — Wahrnehmungspsychologe (Universität Bamberg, „CCC“); erforscht, wie das Gehirn Wirklichkeit *herstellt* — Gesichtererkennung, Design, kognitive Landkarten; empirische Ästhetik, Forschungsgruppe EPÆG, über 240 Fachartikel
 
 ## D
 
@@ -114,6 +124,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Evan Osnos|Evan Osnos]]** — Journalist (*New Yorker*); Dokumentarist der Ultrareichen, Autor *The Haves and Have-Yachts*; Zuckerberg-Biograph, National Book Award
 
 **[[DenkerVita/Eva von Redecker|Eva von Redecker]]** — Philosophin, kritische Theoretikerin; Sorgearbeit-Theorie, Bleibefreiheit als Freiheitsbegriff, neuer Faschismus als Phantombesitz-Logik; Autorin *Revolution für das Leben*, *Bleibefreiheit*, *Dieser Drang nach Härte*
+
+**[[DenkerVita/Giulia Enders|Giulia Enders]]** — Ärztin, Gastroenterologin und Wissenschaftskommunikatorin (*1990, Mannheim); Science-Slam-Siegerin 2012; *Darm mit Charme* (2014, über 40 Sprachen) machte den Darm salonfähig; *Organisch* (2025)
 
 ## F
 
@@ -158,6 +170,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Helen Fisher|Helen Fisher]]** — Biologische Anthropologin (Rutgers, Kinsey Institute, 1945–2024); Neurobiologie der romantischen Liebe, Drei-Systeme-Modell (Lust / Anziehung / Bindung), Liebe als „drive state“; fMRT-Pionierin mit Aron & Brown, Chief Science Advisor Match.com, TED-All-Star
 
 **[[DenkerVita/Helen Keller|Helen Keller]]** — Völkerrechtlerin, Professorin an der Uni Zürich, neun Jahre Richterin am EGMR
+
+**[[DenkerVita/Jonathan Haidt|Jonathan Haidt]]** — Sozialpsychologe (NYU Stern); Moral Foundations Theory, der Reiter auf dem Elefanten, moralische Demut gegen die politische Spaltung; *The Righteous Mind* (2012), *The Coddling of the American Mind* (2018), *The Anxious Generation* (2024)
 
 ## I
 
@@ -209,6 +223,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Lacina Kone|Lacina Koné]]** — Ivorer, Director General & CEO des Smart Africa Secretariat (42+ Staaten, Kigali); Architekt der digitalen Souveränität Afrikas — Single Digital Market bis 2030, Africa AI Council, AfCFTA Digital Trade Protocol, Afrika-Europa-Partnerschaft auf Augenhöhe
 
+**[[DenkerVita/Claudia Kemfert|Claudia Kemfert]]** — Deutschlands bekannteste Energieökonomin (*1968; DIW Berlin, Leuphana Universität); rechnet vor, dass die Energiewende ökonomisch die vernünftigere Wahl ist — und zahlt dafür den Preis der öffentlichen Wissenschaftlerin: Beifall hier, organisierte Anfeindung dort
+
 ## L
 
 **[[DenkerVita/Leonie Heims|Leonie Heims]]** — Kommunikations- und Sprachwissenschaftlerin, wissenschaftliche Mitarbeiterin bei modus | zad; Verschwörungserzählungen, Desinformation, Souveränismus/„Reichsbürger“; Aufklärung mit Fakten und Humor (Projekt „Der Fabulant“)
@@ -259,6 +275,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Maoz Inon|Maoz Inon]]** — Israelischer Sozialunternehmer & Friedensaktivist, Gründer der Abraham-Hostels, des Jesus Trail und Fauzi Azar Inn, Co-CEO InterAct International; verlor seine Eltern am 7. Oktober 2023 und wählte öffentlich Frieden statt Rache; Co-Autor The Future Is Peace (2026)
 
+**[[DenkerVita/Rainer Mausfeld|Rainer Mausfeld]]** — Wahrnehmungspsychologe und Kognitionsforscher (Uni Kiel, emeritiert); anerkannter Grundlagenforscher, ab 2015 machtkritischer Analytiker von Meinungsmanagement und „Demokratie-Management“; *Warum schweigen die Lämmer?* (2018), *Angst und Macht* (2019), *Hybris und Nemesis* (2023)
+
+**[[DenkerVita/Albert Moukheiber|Albert Moukheiber]]** — Kognitiver Neurowissenschaftler, klinischer Psychologe und Amateurzauberer (*1982, Libanon; Paris); Kritik der „Neuromania“ und der Hirn-Mythen, Mitgründer des Kollektivs Chiasma für kritisches Denken; *Votre cerveau vous joue des tours* (2019), *Neuromania* (2024)
+
 ## N
 
 **[[DenkerVita/Ngugi wa Thiongo|Ngũgĩ wa Thiong'o]]** — Kenianischer Schriftsteller und Literaturwissenschaftler (1938–2025); Kenias bedeutendster Romancier, Vordenker der Dekolonisierung; verwarf 1970 das Englische für seine Muttersprache Gĩkũyũ, 1977/78 ohne Anklage inhaftiert, Exil bis 2002, zuletzt Distinguished Professor UC Irvine; *Decolonising the Mind* — Sprache als Träger von Kultur und Gedächtnis
@@ -289,6 +309,12 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Pascal Kaufmann|Pascal Kaufmann]]** — Neurowissenschaftler & Unternehmer (Schweiz); Gründer Alpine AI (Swiss/European sovereign AI, 2023), Lab42 (2022), Starmind AG (2010); Kernthese: Vertrauen als wichtigste KI-Währung; Swiss GPT = europäisches Datenschutz-First-Modell; Wettbewerb durch Kompetenz-Differenzierung statt Isolation; WEF-Referent, 3× Top Digital Leader Bilanz, EY Entrepreneur of the Year Finalist 2015
 
+**[[DenkerVita/Blaise Pascal|Blaise Pascal]]** — Mathematiker, Physiker, Erfinder und religiöser Denker (1623–1662); Wahrscheinlichkeitsrechnung mit Fermat, Rechenmaschine, Nachweis von Luftdruck und Vakuum — nach der mystischen Nacht von 1654 die Wende zur Menschenbetrachtung; die unvollendeten *Pensées* (postum 1670)
+
+## Q
+
+**[[DenkerVita/Volker Quaschning|Volker Quaschning]]** — Ingenieur und Professor für Regenerative Energiesysteme (HTW Berlin, seit 2004); Autor des Standardwerks *Regenerative Energiesysteme*, Mitinitiator von Scientists for Future, Podcast *Das ist eine gute Frage* — bewusst aktivistischer Wissenschaftskommunikator der Energiewende
+
 ## R
 
 **[[DenkerVita/Tobias Rüther|Tobias Rüther]]** — Suchtmediziner, Leiter der Tabakambulanz am LMU Klinikum München; Sucht als Krankheit nicht Willensschwäche, „das Problem dahinter", Motivation statt Abschreckung, Warnung vor designten Vape-Einsteigerprodukten
@@ -300,6 +326,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Renee DiResta|Renée DiResta]]** — Forscherin am Stanford Internet Observatory; *Invisible Rulers: The People Who Turn Lies into Reality*; Propaganda dezentralisiert, Verstärkung statt Überzeugung
 
 **[[DenkerVita/Ronen Steinke|Ronen Steinke]]** — Journalist, Sachbuchautor, Jurist; SZ-Korrespondent; Meinungsfreiheit, Verfassungsschutz als Demokratieproblem, Fritz Bauer als Kompass
+
+**[[DenkerVita/Matthieu Ricard|Matthieu Ricard]]** — Molekularbiologe (Institut Pasteur, promoviert bei Nobelpreisträger François Jacob) und buddhistischer Mönch im Kloster Shechen bei Kathmandu; Dolmetscher des Dalai Lama, Gründer des Hilfswerks Karuna-Shechen; Altruismus und Glück als trainierbare Fähigkeiten
+
+**[[DenkerVita/Hartmut Rosa|Hartmut Rosa]]** — Soziologe und Sozialphilosoph (Jena, Max-Weber-Kolleg Erfurt); fragt nicht, wie Gesellschaft gerechter, sondern wie Leben lebendig wird — soziale Beschleunigung, Resonanz, Unverfügbarkeit; *Beschleunigung* (2005), *Resonanz* (2016), *Unverfügbarkeit* (2018)
 
 ## S
 
@@ -343,6 +373,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Torsten Heinrich|Torsten Heinrich]]** — Historiker, YouTuber „Militär & Geschichte"; Neutralität vs. Objektivität, Quellenkritik, Jus ad bellum vs. Jus in bello
 
 **[[DenkerVita/Tsitsi Dangarembga|Tsitsi Dangarembga]]** — Simbabwische Schriftstellerin und Filmemacherin (*Nervous Conditions*, Booker-Shortlist 2020, Friedenspreis 2021); Kolonialismus in den Köpfen, Schwarzer Feminismus, Kunst als Widerstand, „Ubuntu 2.0"
+
+**[[DenkerVita/Adam Tooze|Adam Tooze]]** — Britischer Wirtschaftshistoriker (Columbia University, European Institute); vom Historiker der NS-Kriegswirtschaft zum meistgelesenen Chronisten der „Polykrise“; Newsletter *Chartbook* — Ökonomie immer als Machtfrage gelesen
+
+**[[DenkerVita/Achim Truger|Achim Truger]]** — Ökonom, Professor für Sozioökonomie (Duisburg-Essen), seit 2019 „Wirtschaftsweiser“ auf Vorschlag der Gewerkschaften; Keynesianer im Rat der Angebotsökonomen — scharfe, nüchterne Kritik an der Schuldenbremse, Plädoyer für öffentliche Investitionen
 
 ## U
 

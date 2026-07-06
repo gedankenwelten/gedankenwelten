@@ -35,6 +35,8 @@ Quelle: Vortrag und Diskussion, Europa-Universität Flensburg (YouTube)
 >
 > Wichtigste Werke: *Beschleunigung* (2005), *Resonanz — Eine Soziologie der Weltbeziehung* (2016), *Unverfügbarkeit* (2018)
 > Kernkonzepte: Resonanz, Unverfügbarkeit, Soziale Beschleunigung, Dynamische Stabilisierung, Mediopassiv
+>
+> → [[DenkerVita/Hartmut Rosa|DenkerVita]]
 
 > [!quote] Kernthese
 > Gelingendes Leben und Glück passieren dort, wo wir die Dinge **nicht** vollständig unter Kontrolle haben.

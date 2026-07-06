@@ -98,6 +98,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Achim Truger
+**Status:** ✓ Vollanalyse → [[DenkerVita/Achim Truger]]
+
+---
+
 ## Albrecht von Lucke
 **Status:** ✓ Vollanalyse → [[DenkerVita/Albrecht von Lucke]]
 
@@ -110,7 +115,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse — [[DenkerVita/Edgar Morin]]
 
 ## Albert Moukheiber
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Albert Moukheiber]]
 
 ## Anabel Ternès von Hattburg
 **Status:** ✓ Vollanalyse → [[DenkerVita/Anabel Ternes von Hattburg]]
@@ -128,7 +133,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Aladin El-Mafaalani]]
 
 ## Adam Tooze
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Adam Tooze]]
 
 ## Adriaan van Wagensveld
 **Status:** ✓ Vollanalyse → [[DenkerVita/Adriaan van Wagensveld]]
@@ -148,11 +153,20 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Arthur Schopenhauer
 **Status:** ✓ Vollanalyse → [[DenkerVita/Arthur Schopenhauer]]
 
+## B.R. Ambedkar
+**Status:** ✓ Vollanalyse → [[DenkerVita/B.R. Ambedkar]]
+
 ## Barbara Tversky
 **Status:** ✓ Vollanalyse → [[DenkerVita/Barbara Tversky]]
 
+## Benjamin Biersky
+**Status:** ✓ Vollanalyse → [[DenkerVita/Benjamin Biersky]]
+
 ## Bijan Moini
 **Status:** ✓ Vollanalyse → [[DenkerVita/Bijan Moini]]
+
+## Blaise Pascal
+**Status:** ✓ Vollanalyse → [[DenkerVita/Blaise Pascal]]
 
 ## Christian Bauckhage
 **Status:** ✓ Vollanalyse — [[DenkerVita/Christian Bauckhage]]
@@ -193,8 +207,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Clara Mattei
 **Status:** ✓ Vollanalyse → [[DenkerVita/Clara Mattei]]
 
+## Claudia Kemfert
+**Status:** ✓ Vollanalyse → [[DenkerVita/Claudia Kemfert]]
+
 ## Claus-Christian Carbon
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Claus-Christian Carbon]]
 
 ## Cordula Tutt
 **Status:** ✓ Vollanalyse → [[DenkerVita/Cordula Tutt]]
@@ -260,7 +277,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Fabian Pfeffer]]
 
 ## Francesca Bria
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Francesca Bria]]
 
 ## Maximilian Fichtner
 **Status:** ✓ Vollanalyse → [[DenkerVita/Maximilian Fichtner]]
@@ -295,6 +312,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Gilda Sahebi
 **Status:** ✓ Vollanalyse → [[DenkerVita/Gilda Sahebi]]
 
+## Giulia Enders
+**Status:** ✓ Vollanalyse → [[DenkerVita/Giulia Enders]]
+
 ## Giovanni Maio
 **Status:** Stub
 
@@ -305,7 +325,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Götz Aly]]
 
 ## Hannah Arendt
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Hannah Arendt]]
 
 ## Yuval Noah Harari
 **Status:** ✓ Vollanalyse → [[DenkerVita/Yuval Noah Harari]]
@@ -314,7 +334,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** Stub
 
 ## Hartmut Rosa
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Hartmut Rosa]]
 
 ## Hartwin Maas
 **Status:** Stub
@@ -357,7 +377,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Joan Kinyua]]
 
 ## Jonathan Haidt
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Jonathan Haidt]]
 
 ## Jagoda Marinić
 **Status:** ✓ Vollanalyse → [[DenkerVita/Jagoda Marinic]]
@@ -465,7 +485,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Matthias Quent]]
 
 ## Matthieu Ricard
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Matthieu Ricard]]
 
 ## Maurice Höfgen
 **Status:** ✓ Vollanalyse → [[DenkerVita/Maurice Hoefgen]]
@@ -522,7 +542,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** Stub
 
 ## Rainer Mausfeld
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Rainer Mausfeld]]
 
 ## Rainer Mühlhoff
 **Status:** Stub
@@ -623,7 +643,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Valentina Chiofalo]]
 
 ## Volker Quaschning
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Volker Quaschning]]
 
 ## Walther Ziegler
 **Status:** ✓ Vollanalyse → [[DenkerVita/Walther Ziegler]]

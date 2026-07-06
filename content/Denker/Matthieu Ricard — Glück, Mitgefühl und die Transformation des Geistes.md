@@ -50,6 +50,8 @@ Gesprächspartnerin: Barbara Bleisch (Philosophin, SRF Sternstunde Philosophie)
 >
 > Wichtigste Werke: *Le moine et le philosophe* (mit Jean-François Revel, 1997), *Happiness: A Guide to Developing Life's Most Important Skill* (2003), *The Monk and the Dragon* — Fotografiebände, *Altruism: The Power of Compassion to Change Yourself and the World* (2013), *Plaidoyer pour les animaux* (2014), *A Plea for the Animals* (engl. 2016)
 > Kernkonzepte: Altruismus, Mitgefühl (*Karunā*), Transformation des Geistes (*Bhāvanā*), Caring Economics, Kontemplative Neurowissenschaft
+>
+> → [[DenkerVita/Matthieu Ricard|DenkerVita]]
 
 ---
 
