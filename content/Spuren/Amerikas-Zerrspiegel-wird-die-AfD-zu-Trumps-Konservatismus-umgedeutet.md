@@ -21,6 +21,16 @@ description: "Am selben Tag, dieselbe Straße — und drei Länder erzählen sic
 
 # Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?
 
+![[assets/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hannah Höch (Dada-Fotomontage)** — zerschnittene Zeitungen, Klebekanten, Zeitungsbeige mit Schwarz und Signalrot. Diese Hand, weil die Weimarer Montage buchstäblich aus zerschnittener Presse gebaut war — genau der Gegenstand der Spur: Links steht die stille graue Straße (der Erfurter Protest, wie die Polizei ihn meldet), in der Mitte der Zerrspiegel im Sternenbanner-Rahmen, rechts dieselbe Szene neu zusammengeschnitten — zerrissen, rot, brennend, bedrohlich. Das dünne Band, das aus dem Spiegel zurück in die ruhige Szene läuft, ist der Prüfstein der These: der Rahmen, der nach Deutschland zurückkehrt.
+
+*Prompt:* A wide 1200x500 banner as a Dada photomontage in the manner of Hannah Hoech — cut-paper collage, newsprint beige and grey with black and a few sharp red accents, visible torn edges and scissor cuts, flat Weimar-era montage aesthetic, no photorealism. On the left half, a calm quiet street scene assembled from soft grey paper: small flat crowds of paper figures standing peacefully with blank banners under a pale sky, orderly and still. In the center stands a tall ornate full-length mirror, tilted, its frame collaged from red and white stripes with small white stars. The right half shows the reflection inside and spilling out of the mirror: the SAME street scene violently re-assembled as chaotic collage — the same paper figures now torn, enlarged, jagged, tinted red and black, with sharp angular shards of torn newspaper, crooked flame-shapes of red paper, everything tilted and menacing. A thin band of paper strips loops from the mirror back across to the calm left scene, like a conveyor belt returning the distorted clippings. Torn edges, glue shadows, deadpan montage. No readable words, no realistic faces, no logos.
+
+</details>
+
 > [!abstract] Worum es geht
 > Am 4. Juli 2026 blockieren rund 20.000 Menschen den AfD-Bundesparteitag in Erfurt — nach Angaben der
 > Thüringer Polizei ein *legitimer*, weit überwiegend friedlicher Protest, keine Festnahmen. Fox News
