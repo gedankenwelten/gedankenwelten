@@ -131,6 +131,10 @@ Das fünfte Achtsamkeitstraining — achtsames Konsumieren (*mindful consumption
 
 ## Verbindungen
 
+### → [[Dalai Lama — Die saekulare Ethik]]
+
+Der Dalai Lama übersetzt dieselbe Haltung ins Säkulare: Gegen Unrecht kämpfen, ohne dem Gegner das Mitgefühl zu entziehen — die Täter/Tat-Trennung als politische Praxis.
+
 - [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]] — Van Wagensveld ist direkter Schüler in der Plum Village-Linie; Thay ist sein erklärter Hauptlehrer. Was Thay hier als "deep looking into ill-being" formuliert, ist bei van Wagensveld die Praxis, die Wunde als Schatz zu begreifen — dieselbe Bewegung: nicht wegsehen, sondern hineingehen
 - [[Vipassana — Dukkha]] — Goenkas Lehrgang beginnt mit derselben Ersten Edlen Wahrheit; der Unterschied: Goenka analysiert Dukkha über Körperempfindungen (Vedanā), Thay über die Interbeing-Natur der Gegensätze. Zwei Zugänge zur selben Wahrheit
 - [[S.N. Goenka — Vipassana]] — Beide Lehrer sind Zeitgenossen und kommen aus der Theravada-Wurzel, gehen aber unterschiedliche Wege: Goenka: intensive 10-Tage-Retreats, strikte Technik; Thay: tägliche Achtsamkeit, soziales Engagement, Interbeing als Weltbild

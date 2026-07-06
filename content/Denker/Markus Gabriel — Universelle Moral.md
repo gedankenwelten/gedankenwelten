@@ -163,6 +163,10 @@ Nicht „die anderen sind der Feind", sondern: Die anderen könnten recht haben,
 
 ## Verbindungen
 
+### → [[Dalai Lama — Die saekulare Ethik]]
+
+Der Dalai Lama sucht dasselbe Ziel wie Gabriels universelle Moral — Werte ohne Religion und ohne Beliebigkeit — geht aber den evolutionär-praktischen statt den erkenntnistheoretischen Weg.
+
 - [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]] — Spannung um die Begründung der Moral. Gabriel will universelle moralische Tatsachen *rational* ausweisen, Bernhardt verankert das moralische Empfinden affektiv-leiblich im erlittenen Schmerz — Vernunft-Fundament gegen Kränkungs-Fundament der Ethik.
 - [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]] — Haidt untersucht die *psychologischen* Grundlagen moralischer Differenz; Gabriel argumentiert auf der *philosophischen* Ebene für universelle moralische Tatsachen. Wo Haidt moralischen Pluralismus beschreibt, besteht Gabriel auf Konvergenz — ein produktiver Widerspruch.
 - [[Steffen Mau — Triggerpunkte Konsens und Konflikt]] — Gabriel kritisiert Mau direkt: Dessen Befund, die Gesellschaft sei trotz allem nicht gespalten, habe den digitalen Polarisierungstreiber übersehen. Mau misst deklarierte Werte, Gabriel sieht die Dynamik in den Infrastrukturen.

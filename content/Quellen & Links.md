@@ -6,6 +6,24 @@ tags:
   - links
 ---
 
+## Dalai Lama / Christof Spitz — Die säkulare Ethik (Ethik heute, 2025)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Für mehr Mitgefühl! Die säkulare Ethik des Dalai Lama](https://www.youtube.com/watch?v=T0WYzEMaDx0) |
+| **Notiz** | [[Dalai Lama — Die saekulare Ethik]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Spitz_Saekulare_Ethik_Transkript.txt` |
+
+## AfD-Parteitag Erfurt & der US-Zerrspiegel (Spur, Juli 2026)
+
+| | |
+|---|---|
+| **Primärquelle (Rahmung)** | [Fox News — „Tens of thousands far-left protesters clash police … anti-conservative party riots"](https://www.foxnews.com/world/tens-thousands-far-left-protesters-clash-police-anti-conservative-party-riots) |
+| **Gegenrahmung** | [Al Jazeera](https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets) · [Euronews](https://www.euronews.com/my-europe/2026/07/04/20000-protest-against-afd-party-conference-in-germany) · [Breitbart („Antifa militants")](https://www.breitbart.com/europe/2026/07/04/antifa-militants-clash-with-police-and-reporters-at-afd-conference-in-germany/) · [taz Liveticker](https://taz.de/Liveticker-zum-AfD-Parteitag-und-den-Gegenprotesten/!6193016/) |
+| **Trump-AfD-Achse** | [NBC (Trump-Admin als „staunch defender")](https://www.nbcnews.com/politics/trump-administration/trump-administration-german-politics-defense-afd-rcna209177) · [TIME (Musk/Vance/Trump)](https://time.com/7260499/alice-weidel-far-right-afd-germany-musk-vance-trump/) |
+| **Verfassungsschutz-Status** | [VG Köln (26.02.2026)](https://www.vg-koeln.nrw.de/behoerde/presse/Pressemitteilungen/05_26022026/index.php) · [Correctiv (17.06.2026)](https://correctiv.org/aktuelles/afd/2026/06/17/wie-stuft-der-verfassungsschutz-die-afd-in-den-bundeslaendern-ein/) |
+| **Notiz** | [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet\|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]] |
+
 ## 3sat Kulturzeit — Rechtsruck im Silicon Valley (2026)
 
 | | |

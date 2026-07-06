@@ -257,6 +257,7 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] | Empirie · GRT |
 | [[Ece Temelkuran — So beginnt Faschismus in Amerika]] | Empirie · Sieben-Stufen-Modell |
 | [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]] | Netzwerk · CPAC/Heritage/Atlas |
+| [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet\|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]] | Spur · Mediale Umdeutung (Fox/Erfurt), Transmissionsband |
 | [[Francesca Bria — The Authoritarian Stack]] | Netzwerk · \$45 Mrd. Kartierung |
 | [[Daniel - Weidel beim Schwurblertreff AWEF]] | Empirie · Weidel ungeschminkt |
 | [[Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]] | Empirie · Propagandamaschine |

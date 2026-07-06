@@ -179,6 +179,10 @@ Beide haben recht — auf verschiedenen Ebenen:
 
 ## Verbindungen
 
+### → [[Dalai Lama — Die saekulare Ethik]]
+
+Der Dalai Lama kommt aus der Gewaltlosigkeit zu denselben Kriterien wie die Theorie des gerechten Krieges — ein Pazifist, der seine eigenen Ausnahmen kennt und benennt.
+
 ### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
 
 Flemigs Befund einer Armee jenseits ihrer Rekrutierungskapazität trifft Münklers postheroische Frage neu: Was entscheidet Kriege, wenn weder Masse noch Heroismus mehr tragen? Wenn die schiere Größe im Drohnenkrieg von der Stärke zur Schwäche wird, verschiebt sich das ganze strategische Fundament.

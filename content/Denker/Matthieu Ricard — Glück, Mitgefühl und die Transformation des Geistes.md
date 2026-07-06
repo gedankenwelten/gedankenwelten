@@ -442,6 +442,10 @@ Wir haben beachtliche Fortschritte bei den Menschenrechten erzielt. Das menschli
 
 ## Verbindungen
 
+### → [[Dalai Lama — Die saekulare Ethik]]
+
+Der Dalai Lama, Ricards Lehrer im Geist, gibt dem Mitgefühlstraining seinen politisch-ethischen Rahmen: die säkulare Ethik als Wasser, das jeder braucht — die Religion ist nur der Tee.
+
 - [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]] — Ricards „Prüft alles an eurer eigenen Erfahrung — glaubt mir nichts, nur weil ich es sage" ist geprüftes Leben ohne Autoritätsargument, Callards sokratische Demut in buddhistischer Sprache. Zugleich der offene Streitpunkt: Ist das Meister-Schüler-Verhältnis das prüfende Gegenüber, das Callard fordert — oder die subtilste Form der Autorität?
 - [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]] — Der schärfste Gegenentwurf. Ricards Transformation des Geistes will den Groll *auflösen*, statt ihn auszugleichen — die meditative Antwort auf Bernhardts thymotischen Pol. Bernhardt fragt, ob Moral ohne Rache überhaupt entsteht; Ricard verkörpert die Gegenthese, dass Gleichmut die Kränkbarkeit selbst entkräftet.
 - [[Hans Maggi — Sokotra]] — Abdullah, der singende Höhlenmensch (64, glücklich mit fast nichts), ist Ricards These als gelebtes Bild: Glück ist ein Zustand des Geistes, nicht der Umstände.

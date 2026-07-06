@@ -22,6 +22,48 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **06.07.** — [[Denker/Dalai Lama — Die saekulare Ethik|Dalai Lama — Die säkulare Ethik]]
+>
+> Mitgefühl ist keine religiöse Spezialität, sondern menschliche Grundausstattung — die säkulare Ethik des Dalai Lama, erklärt von seinem Übersetzer, samt der Frage: Ist das naiv?
+
+> **05.07.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
+>
+> Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
+
+> **05.07.** — [[Denker/Souleymane Bachir Diagne — Der Philosoph als Uebersetzer|Souleymane Bachir Diagne — Der Philosoph als Übersetzer]]
+>
+> Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
+
+> **04.07.** — [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
+>
+> Die Rede, die nie gehört werden durfte: Der Dalit-Gelehrte Suraj Yengde liest Ambedkars verbotenen Text von 1936 — und trägt ihn als Kind aus dem Slum am eigenen Leib.
+
+> **03.07.** — [[Denker/Soroush und Heck — Politische Tradition des Islam|Soroush und Heck — Kann die politische Tradition des Islam gerettet werden?]]
+>
+> Ein Muslim und ein Katholik fragen, was vom politischen Erbe des Islam zu retten ist — nicht die Identität, nicht das Gesetz, sondern die Werte: Gerechtigkeit und Freiheit.
+
+> → *5 weitere in* [[Denker]]
+
+### Spuren
+
+> **06.07.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
+>
+> Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
+
+> **29.06.** — [[Spuren/Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft?]]
+>
+> Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
+
+> **03.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
+
+> **02.07.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
+>
+> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
+
 ### Zeitgeist
 
 > **05.07.** — [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
@@ -44,31 +86,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
 
-> → *8 weitere in* [[Zeitgeist]]
-
-### Denker
-
-> **05.07.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
->
-> Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
-
-> **05.07.** — [[Denker/Souleymane Bachir Diagne — Der Philosoph als Uebersetzer|Souleymane Bachir Diagne — Der Philosoph als Übersetzer]]
->
-> Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
-
-> **04.07.** — [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
->
-> Die Rede, die nie gehört werden durfte: Der Dalit-Gelehrte Suraj Yengde liest Ambedkars verbotenen Text von 1936 — und trägt ihn als Kind aus dem Slum am eigenen Leib.
-
-> **03.07.** — [[Denker/Soroush und Heck — Politische Tradition des Islam|Soroush und Heck — Kann die politische Tradition des Islam gerettet werden?]]
->
-> Ein Muslim und ein Katholik fragen, was vom politischen Erbe des Islam zu retten ist — nicht die Identität, nicht das Gesetz, sondern die Werte: Gerechtigkeit und Freiheit.
-
-> **02.07.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
->
-> Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
-
-> → *4 weitere in* [[Denker]]
+> → *6 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -123,24 +141,6 @@ Die Gedankenwelten (luc)
 > **30.06.** — [[GoodNews/Good News - Gute Nachrichten Juni 2026|Good News — Gute Nachrichten Juni 2026]]
 >
 > Neun Erfolgsmeldungen aus einem Monat — von 250 Millionen Bäumen über kippende Energiebilanzen bis zu einem kirschroten Medikament, das Säuglinge vor Malaria retten soll.
-
-### Spuren
-
-> **29.06.** — [[Spuren/Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft?]]
->
-> Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
-
-> **03.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
->
-> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
-
-> **02.07.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
->
-> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
-
-> **28.06.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
->
-> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
 
 ### Kultur
 

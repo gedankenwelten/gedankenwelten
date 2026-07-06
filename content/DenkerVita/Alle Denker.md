@@ -61,6 +61,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Cathryn Cluever Ashbrook|Cathryn Clüver Ashbrook]]** — Deutsch-amerikanische Politikwissenschaftlerin (Bertelsmann Stiftung, zuvor Harvard Kennedy School & DGAP); *Der amerikanische Weckruf* (2026) über Trumps strategischen Demokratieabbau und Europas Lehren daraus
 
+**[[DenkerVita/Christof Spitz|Christof Spitz]]** — Tibetologe, buddhistischer Lehrer, seit 1991 die deutsche Stimme des Dalai Lama (über 30 Jahre Dolmetscher); Mitaufbau und Geschäftsführer (2007–2014) des Tibetischen Zentrums Hamburg, Mitbegründer des Netzwerks Ethik heute (2013); säkulare Ethik jenseits der Religion, Mitgefühl als trainierbare Fähigkeit, Verpflanzung des Dharma in die westliche Kultur
+
 **[[DenkerVita/Christoph Butterwegge|Christoph Butterwegge]]** — Politikwissenschaftler, Armutsforscher; Relative Armut als strukturell konstruiert, Matthäus-Prinzip in der Steuerpolitik, Finanzmarktkapitalismus als Oligarchie, Demografie als politisches Problem; 2017 Bundespräsidentschaftskandidat Die Linke; em. Professor Universität Köln; Werke: *Armut in einem reichen Land*, *Hartz IV und die Folgen*, *Kinder der Ungleichheit*
 
 **[[DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (UC Berkeley); Vier-Quadranten-Modell (Intelligent/Bandit/Hilflos/Dumm), Asymmetrie-Problem, Dummheit als strukturelle Handlungslogik, Zivilisationsverfall durch Kompositionsverschiebung, *The Basic Laws of Human Stupidity* (1976)
@@ -80,6 +82,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Christoph Moellers|Christoph Möllers]]** — Staatsrechtler und Rechtsphilosoph; Freiheitsgrade, Demokratie als Aushandlungsverfahren, Staat als Ermöglichungsbedingung der Freiheit, Rektor Wissenschaftskolleg Berlin 2026
 
 ## D
+
+**[[DenkerVita/Dalai Lama|Dalai Lama (Tenzin Gyatso)]]** — 14. Dalai Lama, geistliches Oberhaupt des tibetischen Buddhismus, Friedensnobelpreisträger 1989; säkulare Ethik (Mitgefühl jenseits der Religion), Dialog mit der Wissenschaft, Gewaltlosigkeit, „Mittlerer Weg" für Tibet
 
 **[[DenkerVita/Der Dara|Der Dara (Marc)]]** — YouTuber, politischer Kommentator; Aufklärung gegen Rechts, Fake-News-Debunking, Reaction-Format als politische Bildung
 
