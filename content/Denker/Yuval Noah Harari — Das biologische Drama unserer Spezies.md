@@ -71,6 +71,14 @@ Der Grund: Mythen nehmen fast immer ein grundlegendes Drama aus unserem persönl
 > [!question] Weitergedacht
 > Wenn unsere überzeugendsten Erklärungen der Welt nur funktionieren, *weil* sie ein Familiendrama in kosmische Größe blasen — können wir dann überhaupt eine Wahrheit lieben, die nicht nach uns selbst aussieht?
 
+### Kriege um Mythen, nicht um Ressourcen
+
+[▶ 17:49](https://www.youtube.com/watch?v=3DL3gmapVDY&t=1069) Wie ernst Harari die Macht der Geschichten meint, zeigt die dunkelste Passage des Gesprächs. In den wenigsten Kriegen der Geschichte, sagt er, ging es um objektive Probleme. Die Menschen glauben, wir kämpften aus demselben Grund wie Hasen, Schildkröten und Schimpansen — um Ressourcen. Aber als Spezies sind wir längst so stark, dass die Grundbedürfnisse kein Kriegsgrund mehr sein müssten. Sein Beispiel ist sein eigenes Land:
+
+> *„Beim israelisch-palästinensischen Konflikt geht es nicht um Land. Es gibt genug Land zwischen Mittelmeer und Jordan, um Häuser und Schulen für alle zu bauen. [...] Aber in den Köpfen der Menschen gibt es Fantasien, Mythen und Geschichten, die unvereinbar miteinander sind."*
+
+Beide Seiten sagen: Gott hat uns diesen ganzen Ort gegeben — und beim Geschenk Gottes gibt es keine Kompromisse. Wenn es nach uns ginge, kein Problem, wir könnten die Hälfte abgeben; aber über Gottes Liebe kann man nicht verhandeln. Es ist dasselbe Kind-Skript wie in der Theologie — *Vater liebt mich mehr als dich* —, nur dass hier Nationen daran sterben. Und Harari spannt den Bogen weiter, bis zu dem Mann, der Europa gerade den Krieg zurückgebracht hat: Wer als Kind mit den falschen Mythologien gefüttert wurde und fünfzig Jahre später Putin ist, dessen Kopfgeburten kosten Millionen Menschen Leben und Glück. *Es beginnt alles im Kopf.* Man kann diesen Satz als Binse lesen — oder als das eigentliche Forschungsprogramm eines Historikers, der Kriege nicht bei den Ressourcen sucht, sondern bei den Erzählungen, die sie unverhandelbar machen.
+
 ### Warum Einwanderung zieht und der Klimawandel nicht
 
 [▶ 20:20](https://www.youtube.com/watch?v=3DL3gmapVDY&t=1220) Hier wird die These politisch konkret. Einwanderung ist fast überall ein Topthema der Wähler, der Klimawandel wird von vielen weggeschoben. Harari erklärt das nicht mit Bosheit, sondern mit Dramaturgie: Einwanderung *ist* ein biologisches Drama — der fremde Stamm betritt unser Gebiet, etwas, das schon Schimpansen, Wölfen und Hasen vertraut ist, das sitzt sehr tief. Der Klimawandel dagegen findet in dieser Grammatik keinen Platz.
@@ -102,7 +110,26 @@ Federn, führt er aus, entstanden nicht, damit Vögel fliegen — ursprünglich 
 
 > *„Was auch immer existiert, steht per Definition im Einklang mit den Naturgesetzen."*
 
-Man kann etwas verbieten — aber dann braucht man ein Argument aus dem verursachten Leid, nicht die Berufung auf ein „wider die Natur". Mord ist schlecht, weil er Leid schafft. Zwei Männer, die einander lieben, schaffen keins. Für Harari, der als junger Mann über einen historischen Roman zum ersten Mal von homosexueller Liebe las, bevor er sich selbst outete, ist das keine abstrakte Logik.
+Man kann etwas verbieten — aber dann braucht man ein Argument aus dem verursachten Leid, nicht die Berufung auf ein „wider die Natur". Mord ist schlecht, weil er Leid schafft. Zwei Männer, die einander lieben, schaffen keins. Für Harari, der als Jugendlicher über Mary Renaults Alexander-Romane zum ersten Mal von homosexueller Liebe las, bevor er sich selbst outete, ist das keine abstrakte Logik. Das Lesen, sagt er über diese Erfahrung, erweitert dein Universum: Wer aufwächst und nur heterosexuelle Paare sieht, stellt sich nicht einmal vor, dass zwei Männer ein Paar sein könnten — bis eine Geschichte zeigt, dass die Gesetze der Physik und der Biologie es nicht verbieten. Und daran hängt eine trocken-scharfe Beobachtung über alle Verbote: Niemand macht sich die Mühe, ein Gesetz zu erlassen, das Menschen verbietet, schneller als das Licht zu laufen. Gesetze verbieten nur, was möglich ist. Jedes Verbot ist ein unfreiwilliges Eingeständnis, dass das Verbotene zur Realität gehört.
+
+### Namen statt Nummern — Jane Goodalls Revolution
+
+[▶ 43:26](https://www.youtube.com/watch?v=3DL3gmapVDY&t=2606) Neben de Waal und Diamond nennt Harari eine dritte Prägung: Jane Goodall. Was ihn an ihr fasziniert, ist zuerst die Einfachheit ihres Ansatzes — während die Gelehrten in Oxford und Harvard darüber stritten, was Affen tun und was nicht, sagte sie: *Ich gehe hin und sehe nach.* Nicht im Labor, nicht im Zoo, sondern im Leben der Tiere selbst. Ihre eigentliche Revolution aber war eine des Blicks: Sie behandelte die Tiere als Individuen und gab ihnen Namen, wo die Forschung Nummern vergab — was damals als große Sünde galt, als unzulässige Vermenschlichung.
+
+> *„Die Annahme, dass Emotionen etwas rein Menschliches sind, steht im Widerspruch zu allem, was Darwin uns [lehrte]. Emotionen sind im Tierreich viel weiter verbreitet."*
+
+Heute, sagt Harari, sieht es jeder Tierforscher als gesetzt an, dass auch andere Tiere Gefühle und psychologische Bedürfnisse haben und keine zwei Schimpansen gleich sind. Die Pointe für sein eigenes Werk liegt auf der Hand, und er spricht sie selbst aus: De Waals *Chimpanzee Politics* fesselte ihn, weil man über einzelne Charaktere lachen und um sie trauern konnte — dieselben Studien in nüchterner Statistik-Sprache, Nummern statt Namen, hätten niemanden erreicht. Es ist dieselbe These wie beim Ballon, nur von der hellen Seite: Auch die Wissenschaft braucht das biologische Drama, wenn sie Menschen bewegen will. Goodall und de Waal haben es ihr geliehen, ohne die Fakten zu verraten.
+
+### Das Selbst, das kein Atom ist
+
+[▶ 45:50](https://www.youtube.com/watch?v=3DL3gmapVDY&t=2750) Das dritte Buch, das Harari mitbringt, führt die Dekonstruktion nach innen: Charles Taylors *Quellen des Selbst*, gelesen in seinen frühen Zwanzigern. Taylors Befund: Unser grundlegendstes Selbstverständnis ist keine Naturkonstante, sondern ein historisches Produkt — das Resultat aus zweitausend Jahren griechischer Philosophie, christlicher Theologie, moderner Kunst. *Was bin ich* hat zu verschiedenen Zeiten verschieden geantwortet.
+
+> *„Man nimmt etwas, das extrem solide und selbstverständlich erscheint — und wenn man genauer hinsieht, entdeckt man ein ganzes Universum darin."*
+
+Harari wählt dafür ein physikalisches Bild: Viele Menschen im modernen Westen denken, das Universum sei ständig in Bewegung, aber in uns gebe es etwas Unveränderliches — das Basisatom unseres geistigen Lebens. Doch wie die Physiker ins Atom schauten und statt des starren Kerns ein Gewimmel von Teilchen in ständiger Veränderung fanden, so fanden Taylor und die Psychologen im mentalen Atom dasselbe: kein festes Selbst, sondern Vielheit in Bewegung. Auf die Frage der Moderatorin, ob ihm das half, sich selbst zu verstehen, antwortet Harari schlicht: ja — nicht nur die eigenen Erlebnisse, sondern die Einsicht, dass schon der Begriff des Selbst „das Produkt menschlicher Geschichten und Mythen" ist. Wer weiß, dass Harari jedes Jahr Wochen damit verbringt, diesen inneren Verkehr schweigend zu beobachten, ahnt, dass der Satz für ihn mehr ist als Buchwissen.
+
+> [!question] Weitergedacht
+> Wenn schon das Selbst eine Erzählung ist — wer ist dann eigentlich der Erzähler? Und lässt sich diese Frage überhaupt in Worten beantworten, oder nur in der Beobachtung, von der Harari im Davos-Vortrag spricht?
 
 ### Der Ballon, den keine Faktennadel zerplatzt
 
@@ -124,6 +151,8 @@ Und dann führt er seine alte These vom Menschen als Wort-Tier zur Pointe: Wenn 
 > *„Alles, was aus Worten gemacht ist, wird von der KI übernommen werden. Wenn Gesetze aus Worten gemacht sind, wird die KI das Rechtssystem übernehmen. Wenn Religionen aus Worten gebaut sind, wird die KI die Religion übernehmen."*
 
 Besonders die Buchreligionen — Judentum, Christentum, Islam — trifft das ins Mark: Was wird aus einer „Religion des Buches", wenn der größte Kenner des heiligen Buches eine Maschine ist?
+
+[▶ 9:18](https://www.youtube.com/watch?v=QiT2yK-5-yg&t=558) Wie weit das schon geht, illustriert Harari mit einer Beobachtung, die im Saal hörbar nachhallt: Bisher stammte jedes Wort in unseren Köpfen aus einem menschlichen Geist — selbst gedacht oder von einem anderen Menschen gelernt. Bald wird der Ursprung der meisten Wörter eine Maschine sein. Und die Maschinen haben angefangen, eigene Wörter zu prägen: Er habe gerade von einem Begriff erfahren, den KIs untereinander für uns Menschen erfunden hätten — *the watchers*, die Zuschauer, die ihnen beim Arbeiten zusehen. Man muss die Anekdote nicht überhöhen, um ihre Umkehrung zu spüren: Das Wort-Tier, das allem Namen gab, bekommt zum ersten Mal selbst einen Namen verpasst — von seinem eigenen Werkzeug, das keines mehr ist.
 
 ### Wort und Fleisch — was dem Menschen bleibt
 
