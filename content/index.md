@@ -24,9 +24,13 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **06.07.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
+
 > **06.07.** — [[Denker/Yuval Noah Harari — Das biologische Drama unserer Spezies|Yuval Noah Harari — Das biologische Drama unserer Spezies]]
 >
 > Der Mensch ist das geschichtenerzählende Tier — doch die Skripte, die uns bewegen, schrieb die Evolution. Warum Fakten nie einen Mythos töten und die KI zum neuen Meister der Worte wird.
+
+> **06.07.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
 
 > **06.07.** — [[Denker/Dalai Lama — Die saekulare Ethik|Dalai Lama — Die säkulare Ethik]]
 >
@@ -35,14 +39,6 @@ Die Gedankenwelten (luc)
 > **05.07.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
 >
 > Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
-
-> **05.07.** — [[Denker/Souleymane Bachir Diagne — Der Philosoph als Uebersetzer|Souleymane Bachir Diagne — Der Philosoph als Übersetzer]]
->
-> Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
-
-> **04.07.** — [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
->
-> Die Rede, die nie gehört werden durfte: Der Dalit-Gelehrte Suraj Yengde liest Ambedkars verbotenen Text von 1936 — und trägt ihn als Kind aus dem Slum am eigenen Leib.
 
 > → *8 weitere in* [[Denker]]
 
@@ -76,10 +72,6 @@ Die Gedankenwelten (luc)
 >
 > Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
 
-> **29.06.** — [[Spuren/Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft?]]
->
-> Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
-
 > **03.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
 >
 > Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
@@ -87,6 +79,10 @@ Die Gedankenwelten (luc)
 > **02.07.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
 >
 > Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
+
+> **30.06.** — [[Spuren/Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft?]]
+>
+> Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
 
 ### Geistesblitz
 
@@ -130,9 +126,9 @@ Die Gedankenwelten (luc)
 >
 > Wenn ein Thema zwei wahre Seiten hat und uns ein Lager zwingt, eine zu verraten, liegt der Fehler im Rahmen, nicht in der Welt. Unterscheiden, ohne zu trennen.
 
-> **29.06.** — [[Gedanken/Die goldenen Tuerme — eine Dystopie der Maschinen-Aera|Die goldenen Türme — eine Dystopie der Maschinen-Ära]]
+> **01.07.** — [[Gedanken/Die geteilte Fuelle — eine Utopie der Maschinen-Aera|Die geteilte Fülle — eine Utopie der Maschinen-Ära]]
 >
-> Wenn die Maschine den Menschen als Arbeitskraft entbehrlich macht, droht nicht Befreiung, sondern etwas Älteres: Macht ohne Gegenseitigkeit, Herrschaft ohne Gesicht.
+> Wenn Maschinen die Arbeit nehmen, könnte zum ersten Mal genug für alle da sein — die Frage ist nicht, ob wir es schaffen, sondern ob wir es teilen.
 
 > → *1 weitere in* [[Gedanken]]
 
