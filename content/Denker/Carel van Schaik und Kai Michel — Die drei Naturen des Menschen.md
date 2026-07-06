@@ -191,6 +191,10 @@ Bei einer Denker-Note prüfen wir nur die harten empirischen Aussagen — die De
 
 ## Verbindungen
 
+### → [[Yuval Noah Harari — Das biologische Drama unserer Spezies]]
+
+Der direkte Gegenspieler von der anderen Seite: van Schaik und Michel argumentieren gegen Hararis „Homo Deus“. In dieser ARTE-Fassung zeigt sich ein erdigeres, biologischeres Harari-Menschenbild, als der Vorwurf des „Autobahnblicks“ nahelegt — die beiden Notes zusammen sind ein Lehrstück über zwei große Erzähler und dieselbe Spezies.
+
 ### → [[Dalai Lama — Die saekulare Ethik]]
 
 Der Dalai Lama baut seine säkulare Ethik auf der prosozialen Natur — und stößt an die Grenze, die die „drei Naturen“ benennen: Warum reicht die gute Anlage nicht, warum braucht es Herzensbildung?

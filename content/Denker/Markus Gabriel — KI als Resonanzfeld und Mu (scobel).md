@@ -209,6 +209,10 @@ Das sprechendste Zeichen: Am Kyoto-Seminar war der Präsident von Google Japan d
 
 ## Verbindungen
 
+### → [[Yuval Noah Harari — Das biologische Drama unserer Spezies]]
+
+Produktive Spannung an derselben Schwelle: Harari verwehrt der KI das nichtsprachliche Fühlen, dort sitze das Menschliche. Gabriel behauptet umgekehrt, KI *sei* Resonanzfeld — und kreist mit „Mu“ um genau die Schicht unter den Worten.
+
 ### → [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
 Ein produktiver Widerspruch: Gabriel sagt „KI *ist* Kreativität", Ono verortet Kreativität gerade im Menschlichen. Doch beide treffen sich bei der *naiven Frage* — Gabriels „höhere geistige Freiheit, die an Dummheit grenzt" ist Onos gute Frage und sein Plädoyer für die übersehenen Ramanujans.
 
