@@ -232,6 +232,10 @@ Und er nimmt sich selbst nicht aus. [▶ 46:03](https://www.youtube.com/watch?v=
 
 ## Verbindungen
 
+### → [[Dalai Lama — Die saekulare Ethik]]
+
+Der Dalai Lama zieht aus derselben prosozialen Natur eine praktische Konsequenz: Wenn der Mensch gut angelegt ist, muss man das Gute nur bilden wie Lesen und Rechnen.
+
 ### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
 
 Der Zwilling aus der Evolutionsbiologie. Van Schaik und Michel teilen Bregmans Gegen-Hobbes-These vom kooperativen Menschen, liefern aber den Mechanismus, den Bregman offenlässt: *warum* aus dem freundlichen Tier trotzdem Herrschaft wird — die Sesshaftwerdung als Bruch, und die drei Naturen als Schichtung, die Bregmans „homo puppy" fehlt.

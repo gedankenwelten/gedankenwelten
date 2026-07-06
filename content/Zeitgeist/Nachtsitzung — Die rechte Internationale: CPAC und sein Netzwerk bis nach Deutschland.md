@@ -150,6 +150,10 @@ Das macht es gleichzeitig gefährlich **und** verwundbar: Es sind nur eine Handv
 
 ## Verbindungen
 
+### → [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
+
+Die lebende Fortsetzung als Spur: Wo diese Note das *Netz* kartiert (CPAC, Atlas, Heritage), verfolgt die Spur das Netz *in Aktion* — die mediale Ausleitung, wenn Fox einen friedlichen Anti-AfD-Protest zum „far-left riot" und die AfD zur „conservative party" umdeutet. Institutionen-Ebene hier, Erzähl-Ebene dort.
+
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocuns KI-Fake-Frauen und Verfallporn-Accounts sind das taktische Ausführungslevel der Infrastruktur, die die CPAC-Note beschreibt: Heritage Foundation und Atlas-Netzwerk liefern die Agenda, KI-Sockenpuppen skalieren sie auf Social Media.

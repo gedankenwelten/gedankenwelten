@@ -178,6 +178,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Christof Johnen
 **Status:** Stub
 
+## Christof Spitz
+**Status:** ✓ Vollanalyse → [[DenkerVita/Christof Spitz]]
+
 ## Christoph Butterwegge
 **Status:** ✓ Vollanalyse → [[DenkerVita/Christoph Butterwegge]]
 
@@ -729,3 +732,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Aziz Abu Sarah
 **Status:** ✓ Vollanalyse — [[DenkerVita/Aziz Abu Sarah]]
+
+## Dalai Lama
+**Status:** ✓ Vollanalyse — [[DenkerVita/Dalai Lama]]

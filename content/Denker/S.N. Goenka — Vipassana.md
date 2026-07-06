@@ -194,6 +194,10 @@ Das ist Goenkas konzentriertester Ausdruck von Eigenverantwortung: Man wählt ni
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Dalai Lama — Die saekulare Ethik]]
+
+Der Dalai Lama holt dieselbe Kultivierungspraxis aus dem Kloster in die säkulare Schule: Werte üben wie Vokabeln, Mitgefühl trainieren wie eine Fähigkeit.
+
 ### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
 
 Callard nimmt Vipassana als scheinbares Gegenprogramm zum sokratischen Fragen ernst — und widerlegt die Opposition: Auch der Schweigende sitzt in einem dialogischen Gerüst (Lehrer, Abendvorträge, Sangha), und das Retreat stellt einem genau die unzeitgemäßen Fragen, die man sich im Viertelstundentakt nie stellt. Beide prüfen das ungeprüfte Leben — getrennt nur durch das Medium: Begriff und Dialog bei Callard, wortlose Beobachtung von Anicca bei Goenka.

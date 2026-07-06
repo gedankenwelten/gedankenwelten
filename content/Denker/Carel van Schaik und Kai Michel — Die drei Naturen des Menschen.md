@@ -191,6 +191,10 @@ Bei einer Denker-Note prüfen wir nur die harten empirischen Aussagen — die De
 
 ## Verbindungen
 
+### → [[Dalai Lama — Die saekulare Ethik]]
+
+Der Dalai Lama baut seine säkulare Ethik auf der prosozialen Natur — und stößt an die Grenze, die die „drei Naturen“ benennen: Warum reicht die gute Anlage nicht, warum braucht es Herzensbildung?
+
 ### → [[Rutger Bregman — Ist der Mensch wirklich gut]]
 
 Der Zwilling aus anderer Disziplin. Bregmans *survival of the friendliest* und der „homo puppy" (Selbstdomestikation, gegen Hobbes) sind genau van Schaiks erste Natur — nur liefert van Schaik den Mechanismus, den Bregman offenlässt: *warum* aus dem freundlichen Tier trotzdem Herrschaft und Krieg werden. Die Sesshaftwerdung ist der Bruch, den Bregman nicht scharf stellt.
