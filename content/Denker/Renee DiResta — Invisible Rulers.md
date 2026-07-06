@@ -387,6 +387,10 @@ Das gleiche Reframing-Werkzeug, das gegen das SIO eingesetzt wurde, wird jetzt g
 
 ## Verbindungen
 
+### → [[Yuval Noah Harari — Das biologische Drama unserer Spezies]]
+
+Das empirische Gegenstück zu Hararis „Ballon, den keine Faktennadel zerplatzt“: DiResta hat vermessen, wie Widerlegung an Gruppenidentität abprallt. Harari liefert die Theorie der Grenze des Faktenchecks, DiResta die Feldforschung.
+
 ### → [[Zeitgeist/Annette Dittert — Dear Britain]]
 Dittert beschreibt den konkreten Anwendungsfall von DiRestas „bespoke reality": Wie Musk & MAGA über X die UK-Unruhen befeuern und aus Wiederholung geteilte „Realität" wird.
 

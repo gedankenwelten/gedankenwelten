@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **06.07.** — [[Denker/Yuval Noah Harari — Das biologische Drama unserer Spezies|Yuval Noah Harari — Das biologische Drama unserer Spezies]]
+>
+> Der Mensch ist das geschichtenerzählende Tier — doch die Skripte, die uns bewegen, schrieb die Evolution. Warum Fakten nie einen Mythos töten und die KI zum neuen Meister der Worte wird.
+
 > **06.07.** — [[Denker/Dalai Lama — Die saekulare Ethik|Dalai Lama — Die säkulare Ethik]]
 >
 > Mitgefühl ist keine religiöse Spezialität, sondern menschliche Grundausstattung — die säkulare Ethik des Dalai Lama, erklärt von seinem Übersetzer, samt der Frage: Ist das naiv?
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Die Rede, die nie gehört werden durfte: Der Dalit-Gelehrte Suraj Yengde liest Ambedkars verbotenen Text von 1936 — und trägt ihn als Kind aus dem Slum am eigenen Leib.
 
-> **03.07.** — [[Denker/Soroush und Heck — Politische Tradition des Islam|Soroush und Heck — Kann die politische Tradition des Islam gerettet werden?]]
->
-> Ein Muslim und ein Katholik fragen, was vom politischen Erbe des Islam zu retten ist — nicht die Identität, nicht das Gesetz, sondern die Werte: Gerechtigkeit und Freiheit.
-
-> → *7 weitere in* [[Denker]]
+> → *8 weitere in* [[Denker]]
 
 ### Zeitgeist
 

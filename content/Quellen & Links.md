@@ -3535,3 +3535,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Schoenauer_OERR_Wahrheit_Transkript.txt` |
 | **DenkerVita** | [[DenkerVita/Mats Schoenauer]] |
+
+## Yuval Noah Harari — Das biologische Drama unserer Spezies
+
+| | |
+|---|---|
+| **Vortrag / Video A** | [Das Buch meines Lebens — Yuval Noah Harari über das biologische Drama unserer Spezies (ARTE)](https://www.youtube.com/watch?v=3DL3gmapVDY) |
+| **Vortrag / Video B** | [An Honest Conversation on AI and Humanity (WEF Davos 2026)](https://www.youtube.com/watch?v=QiT2yK-5-yg) |
+| **Notiz** | [[Denker/Yuval Noah Harari — Das biologische Drama unserer Spezies]] |
+| **DenkerVita** | [[DenkerVita/Yuval Noah Harari]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Harari_Biologisches_Drama_Transkript.txt` · `Gedankenwelten/Transkripte/Harari_WEF_AI_Transkript.txt` |

@@ -194,6 +194,10 @@ Das ist Goenkas konzentriertester Ausdruck von Eigenverantwortung: Man wählt ni
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Yuval Noah Harari — Das biologische Drama unserer Spezies]]
+
+Hararis prominentester Schüler-Nachbar: Er meditiert seit 2000 in Goenkas Tradition, *Homo Deus* ist Goenka gewidmet. Sein Verdacht, das Wesentliche am Menschen sitze dort, „wo die Sprache aufhört“, ist Goenkas wortlose Beobachtung von *Vedanā*.
+
 ### → [[Dalai Lama — Die saekulare Ethik]]
 
 Der Dalai Lama holt dieselbe Kultivierungspraxis aus dem Kloster in die säkulare Schule: Werte üben wie Vokabeln, Mitgefühl trainieren wie eine Fähigkeit.

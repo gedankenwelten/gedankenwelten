@@ -220,6 +220,10 @@ Lyotards Vermächtnis ist keine große Lösung. Es ist — wie Scobel es nennt �
 
 ## Verbindungen
 
+### → [[Yuval Noah Harari — Das biologische Drama unserer Spezies]]
+
+Hararis „nur eine Geschichte schlägt eine Geschichte“ ist Lyotards Ende der Metaerzählungen von der praktischen Seite: Lyotard diagnostiziert den Verlust der einen großen Erzählung, Harari erklärt, warum trotzdem *irgendein* Mythos in die drama-lose Lücke zurückströmt.
+
 ### → [[Denker/scobel — Foucault Aufklaerung als Haltung]]
 
 Beide Denker fragen nach der Legitimation von Wissen und der Möglichkeit von Aufklärung unter modernen Bedingungen. Während Foucault die *Genealogie* von Wahrheitsregimen analysiert (Macht produziert Wahrheit), radikalisiert Lyotard die Pluralitätsthese: Es gibt keine Instanz mehr, die Diskurse legitimieren könnte — auch die Kritische Theorie nicht. Foucaults Genealogie und Lyotards Sprachspielanalyse sind komplementäre Werkzeuge, aber ihre politischen Schlussfolgerungen divergieren.

@@ -307,6 +307,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Hannah Arendt
 **Status:** Stub
 
+## Yuval Noah Harari
+**Status:** ✓ Vollanalyse → [[DenkerVita/Yuval Noah Harari]]
+
 ## Hans-Peter Dürr
 **Status:** Stub
 

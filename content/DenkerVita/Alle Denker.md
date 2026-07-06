@@ -145,6 +145,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## H
 
+**[[DenkerVita/Yuval Noah Harari|Yuval Noah Harari]]** — Israelischer Historiker (Hebräische Universität Jerusalem), Autor von *Sapiens*, *Homo Deus*, *Nexus*; geteilte Fiktionen als Motor der Menschheitsgeschichte, KI als erste Geschichten erzählende Technologie, „Dataismus“; langjähriger Vipassana-Praktiker (Goenka-Tradition)
+
 **[[DenkerVita/Hans Maggi|Hans Maggi]]** — Reise-YouTuber und Fahrrad-Weltreisender; Projekt *Rückenwind* (~800 Tage um die Welt auf Bambusrädern), Begegnung vor Landschaft, Langsamkeit als Methode
 
 **[[DenkerVita/Heinz Bude|Heinz Bude]]** — Soziologe, em. Professor Kassel, Gründungsdirektor documenta-Institut; Generationssoziologie als Schlüssel zur Bundesrepublik, kommunikatives Beschweigen

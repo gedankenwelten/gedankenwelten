@@ -414,6 +414,10 @@ James' Pragmatismus läuft genau hierauf hinaus: Eine Überzeugung, die das Lebe
 
 ## Verbindungen
 
+### → [[Yuval Noah Harari — Das biologische Drama unserer Spezies]]
+
+Hararis Davos-Frage — kann die KI *fühlen* oder ordnet sie nur Wörter? — ist die Bewusstseinsfrage in neuem Gewand. Beide Texte umkreisen die Schwelle zwischen Symbolverarbeitung und Erleben.
+
 - [[David Chalmers — Das Hard Problem des Bewusstseins]] — Ausgangspunkt: Bewusstsein als Fundamentalkategorie, Panpsychismus, Kombinationsproblem
 - [[Vipassana — Zehn Tage]] — Citta, Anicca, Kalapas: Die Praxis, in der die Theorie erfahrbar wird; Metzingers Kein-Selbst-These wird hier erfahrbar
 - [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] — Bewusstsein als dynamischer Fluss ohne festes Ich; Varelas Neurophenomenologie als Brücke

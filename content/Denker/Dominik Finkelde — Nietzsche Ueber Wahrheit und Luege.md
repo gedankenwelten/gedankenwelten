@@ -144,6 +144,10 @@ Finkelde macht klar: Das ist keine neutrale Beschreibung — Nietzsche plädiert
 
 ## Verbindungen
 
+### → [[Yuval Noah Harari — Das biologische Drama unserer Spezies]]
+
+Hararis „gemeinsame Fiktionen“ haben hier ihre erkenntnistheoretische Wurzel: Nietzsches Wahrheit als „bewegliches Heer von Metaphern“. Finkelde legt frei, warum wir überhaupt an Wahrheit glauben; Harari zeigt, dass die Skripte dieser Metaphern die Evolution schrieb, nicht die Vernunft.
+
 ### → [[Walther Ziegler — Nietzsche in 60 Minuten]]
 
 Ziegler bietet den breiten Nietzsche-Überblick (Übermensch, Wille zur Macht, ewige Wiederkehr, Umwertung aller Werte); Finkelde bohrt tief in einen einzigen Frühtext und entfaltet die *epistemologische* Dimension: Wahrheit als Metaphernkette, Sprache als Sozialvertrag. Ziegler zeigt, *was* Nietzsche denkt — Finkelde zeigt, *wie* die poststrukturalistische Rezeption daraus entsteht.

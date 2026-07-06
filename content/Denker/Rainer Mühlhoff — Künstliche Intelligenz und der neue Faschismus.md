@@ -372,6 +372,10 @@ Hans schließt mit dem Verfassungsväter-Satz: **„Keine Freiheit für die Fein
 
 ## Verbindungen
 
+### → [[Yuval Noah Harari — Das biologische Drama unserer Spezies]]
+
+Hararis „KI ist Agent, kein Werkzeug“ und die Rechtsperson-Frage bekommen hier die politökonomische Erdung: Mühlhoff zeigt, wie sich reale Souveränität längst an autonome Systeme und ihre Konzerne verschiebt — die Macht liegt faktisch dort, bevor wir sie *zusprechen*.
+
 - [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]] — Kaltheuner versucht den politischen Gegenzug zu Mühlhoffs Desouveränisierungs-Diagnose: europäische Marktgestaltung als strukturelle Absicherung digitaler Souveränität. Diagnose und Gegenmittel als Brückenpaar.
 - [[Denker/Francesca Bria — The Authoritarian Stack]] — Brias Studie ist Mühlhoffs explizite Hauptreferenz für die These der Staatsübernahme durch Tech; Mühlhoff referiert sie als Kurzfassung seiner eigenen These. Bria liefert die Datenbasis: 250+ Akteure, \$45Mrd Finanzflüsse, fünf Domänen privatisierter Souveränität
 - [[Andreas Kemper — Technofaschismus und die AfD]] — direkter thematischer Zwilling: Kemper analysiert Technofaschismus von der AfD-Seite, Mühlhoff von der Silicon-Valley-Seite; zusammen ergibt sich das Gesamtbild
