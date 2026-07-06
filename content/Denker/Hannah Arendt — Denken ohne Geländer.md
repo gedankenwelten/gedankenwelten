@@ -40,6 +40,8 @@ Quelle: [Hannah Arendt: »Denken ohne Geländer« — Herbert und Elsbert Weichm
 >
 > Wichtigste Werke: *Elemente und Ursprünge totaler Herrschaft* (1951), *Vita activa* (1958), *Eichmann in Jerusalem* (1963), *Vom Leben des Geistes* (postum 1978)
 > Kernkonzepte: Banalität des Bösen, Natalität, Pluralität, Vita activa, Amor Mundi
+>
+> → [[DenkerVita/Hannah Arendt|DenkerVita]]
 
 ---
 

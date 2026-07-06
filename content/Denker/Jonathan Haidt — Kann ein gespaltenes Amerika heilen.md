@@ -41,6 +41,8 @@ Quelle: TED Talk mit Chris Anderson, aufgezeichnet 2016
 > Kernkonzepte: Stammespsychologie, Moral Foundations Theory, Abscheu vs. Wut, negative Parteilichkeit, moralische Demut
 >
 > **Chris Anderson** — TED-Kurator, führt das Gespräch.
+>
+> → [[DenkerVita/Jonathan Haidt|DenkerVita]]
 
 [▶ 8:24](https://www.ted.com/talks/jonathan_haidt_can_a_divided_america_heal?t=504)
 

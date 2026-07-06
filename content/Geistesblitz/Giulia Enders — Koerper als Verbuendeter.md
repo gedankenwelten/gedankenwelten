@@ -30,7 +30,7 @@ aliases:
 Quelle: [Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders](https://www.youtube.com/watch?v=s6asGzLT1c8)
 
 > [!info] Wer spricht?
-> **Dr. Giulia Enders** (*1986, Deutschland) — promovierte Ärztin, Wissenschaftskommunikatorin und Bestsellerautorin. 2012 gewann sie dreimal den Science Slam mit ihrem Vortrag über den Darm; 2014 erschien *Darm mit Charme* (8 Millionen Exemplare weltweit, 40 Sprachen). Ihr zweites Buch *Organisch* erschien 2025. Enders forscht an der Schnittstelle von Gastroenterologie, Neurobiologie und Körperpsychologie — und kommuniziert Wissenschaft so, dass sie wieder fühlbar wird.
+> **Dr. Giulia Enders** (*1990, Deutschland) — promovierte Ärztin, Wissenschaftskommunikatorin und Bestsellerautorin. 2012 gewann sie dreimal den Science Slam mit ihrem Vortrag über den Darm; 2014 erschien *Darm mit Charme* (8 Millionen Exemplare weltweit, 40 Sprachen). Ihr zweites Buch *Organisch* erschien 2025. Enders forscht an der Schnittstelle von Gastroenterologie, Neurobiologie und Körperpsychologie — und kommuniziert Wissenschaft so, dass sie wieder fühlbar wird.
 >
 > → [[DenkerVita/Giulia Enders|DenkerVita]]
 

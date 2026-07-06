@@ -36,6 +36,8 @@ Quelle: [Demokratie und Menschenbild (21.04.2023)](https://www.youtube.com/watch
 >
 > Wichtigste Werke: *Warum schweigen die Lämmer?* (Westend, 2018), *Angst und Macht* (Westend, 2019)
 > Kernkonzepte: Meinungsmanagement, Angst als Machtinstrument, Ideologischer Käfig, Menschenbild als Herrschaftsinstrument, Schutzbalken der Demokratie
+>
+> → [[DenkerVita/Rainer Mausfeld|DenkerVita]]
 
 ---
 

@@ -39,6 +39,8 @@ Video: [Walther Ziegler — Hannah Arendt: Die Banalität des Bösen (Große Den
 >
 > Wichtigste Werke: *Elemente und Ursprünge totaler Herrschaft* (1951), *Vita activa* (1958), *Eichmann in Jerusalem* (1963), *Vom Leben des Geistes* (postum 1978)
 > Kernkonzepte: Banalität des Bösen, Natalität, Pluralität, Vita activa, Herrschaft des Niemand, Denken ohne Geländer
+>
+> → [[DenkerVita/Hannah Arendt|DenkerVita]]
 
 > [!quote] Schlüsselsatz
 > „Das Böse ist niemals radikal, es ist nur extrem und besitzt weder Tiefe noch eine dämonische Dimension. Es kann die ganze Welt überwuchern und verwüsten, gerade weil es sich wie ein Pilz an der Oberfläche ausbreitet."
