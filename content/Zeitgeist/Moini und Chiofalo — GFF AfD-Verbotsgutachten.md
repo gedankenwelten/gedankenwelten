@@ -226,6 +226,11 @@ Semsrott und Sahebi dokumentieren den systematischen Angriff auf zivilgesellscha
 
 Rath analysiert im Podcast das Paradox, das Moinis „schärfstes Schwert"-Argument impliziert: Die AfD instrumentalisiert Verbotsversuche und Meinungseinschränkungen als Opfernarrativ — und gewinnt dadurch Glaubwürdigkeit für ihre Freiheitsrhetorik. Beide Notes kreisen um dieselbe Struktur: staatliche Abwehrinstrumente, die ihr Ziel verstärken statt schwächen.
 
+
+### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
+
+Die methodische Strenge dieser Note — Grundtendenz statt Einzelfall, Maßnahme statt Rhetorik — lebt in der Spur weiter: Dort wird die AfD-Praxis fortlaufend an genau dem Maßstab gemessen, den das Gutachten vorregistriert hat.
+
 ---
 
 ## Weiterdenken

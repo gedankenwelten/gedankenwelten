@@ -227,6 +227,10 @@ Manow argumentiert, Protestwahl sei rational, weil etablierte Parteien auf der G
 
 Steinkes "Teilzeitliberalismus"-Begriff (Meinungsfreiheit nur solange die Meinung passt) ist die diskurstheoretische Fassung von BissenBlaBlas empirischem Befund: Orbáns Ungarn — Hauptbeispiel bei Steinke/Marinić für Freiheitskämpfer-Pose — landet bei Freedom House als einziges EU-Land nur "teilweise frei". Die Methode "Regierungen an ihren eigenen Versprechen messen" ist das analytische Werkzeug hinter Marinićs Frage: Warum hält das Freiheitskämpfer-Image?
 
+### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
+
+Der hier destillierte Dreischritt rechter Regierungen — Kultursignalpolitik statt Lieferung, institutioneller Abbau, wirtschaftliche Enttäuschung — ist die internationale Vergleichsfolie der AfD-Spur: Ob die Partei dem Muster folgt, wird dort über Jahre fortgeschrieben, samt der menschlichen Bilanz (Dimension E).
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
