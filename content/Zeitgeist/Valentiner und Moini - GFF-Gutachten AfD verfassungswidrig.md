@@ -243,6 +243,11 @@ Genau der Mechanismus hinter der „getarnten Kaste": Brockschmidt & Nocun zeige
 
 Quent leitet aus Löwensteins Faschismus-Definition die Notwendigkeit *institutioneller* Abwehrinstrumente ab — wie das Parteiverbot. Das GFF-Gutachten ist dieser Hebel in der Praxis. Quents These erklärt zugleich, warum die neue Säule so schwer nachzuweisen war: Die strafrechtliche Verfolgung der Gegner steht in keinem Programm, sie musste aus hunderten Einzeläußerungen als Grundtendenz erst herausgearbeitet werden.
 
+
+### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
+
+Die Langzeit-Spur, die dieses Gutachten als vorregistrierte Messlatte übernimmt: Sie beobachtet über Jahre, ob die AfD dort, wo sie reale Macht ausübt (Kommune, Sperrminorität, evtl. Regierung), die nachgewiesenen Ziele realisiert — und ob die hier bewusst beiseitegelegten Steine (Antisemitismus, Behindertenfeindlichkeit, NS-Wesensverwandtschaft) die Maßnahmen-Schwelle doch noch nehmen.
+
 ---
 
 ## Weiterdenken

@@ -227,3 +227,7 @@ Sahebi/Semsrott liefern mit der CDU-Broschüre und Söders Eingeständnis den ak
 ### → [[Horst Evers — Kostenloser Nahverkehr als Utopie]]
 
 Die materielle Kehrseite des AfD-Erfolgs: Evers' *Fun Facts Utopia* zitiert den Greenpeace-Befund „fehlende Busanbindung ↔ mehr AfD-Stimmen". Wo MONITOR zeigt, *dass* Abgehängtsein sich in Protestwahl übersetzt, benennt Evers eine konkrete materielle Ursache — mangelnde Mobilität als Teilhabe- und Vereinsamungsproblem.
+
+### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
+
+MONITORs Befund, dass Empörung als Messgröße verbraucht ist, wurde zum Konstruktionsprinzip der AfD-Spur: Sie zählt keine Skandale, sondern nur Maßnahmen — Eingriffe in Gegner, Würde, Institutionen, geprüft am GFF-Maßstab.

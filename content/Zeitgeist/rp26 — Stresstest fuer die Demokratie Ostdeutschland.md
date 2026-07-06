@@ -230,3 +230,7 @@ Das Panorama beschreibt demokratische Praxis als aktive Herstellung. Das rp26-Pa
 ### → [[Denker/Heiner Flassbeck — Krise und Rechtsruck]]
 
 Flassbeck erklärt Rechtsruck durch makroökonomische Ohnmacht. Daniel Günthers Strategie — Bundesrat-Resilienz, Big-Tech-Exit aus SH-Verwaltung, Digitalabgabe — ist der institutionelle Gegenentwurf: nicht auf Bewusstseinswandel warten, sondern Strukturen gegen den Ernstfall härten, bevor er eintritt. Ohnmacht als Diagnose trifft auf Resilienz als Therapie.
+
+### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
+
+Die im Panel durchgespielten Szenarien — MDR-Staatsvertrag, Bundesrat-Resilienz, Kürzung der Demokratieprojekte — sind konkrete Beobachtungspunkte der Dimension „Institutionen“ in der AfD-Spur; was hier Vorsorge-Debatte ist, wird dort ab der Sachsen-Anhalt-Wahl als Praxis dokumentiert.

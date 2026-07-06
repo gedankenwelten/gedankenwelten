@@ -292,3 +292,7 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] | Ursache · Angst-Umlenkung auf Feindbilder — das Scharnier als Machttechnik |
 | [[Zeitgeist/Arlie Hochschild — Stolen Pride]] | Ursache · Scham → Schuldzuweisung, das Scharnier ethnografisch (Appalachia) |
 | [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft\|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]] | Instrument & Ursache · Verbotsverfahren-Aufklärung + Geld=Macht als Demokratiegefahr |
+
+### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
+
+Die Zeit-Dimension zu diesem Panorama: Was hier als Lage kartiert ist, verfolgt die Spur als Verlauf — die AfD-Praxis an der Macht, gemessen am GFF-Gutachten, fortgeschrieben solange die Partei eine größere Rolle spielt.

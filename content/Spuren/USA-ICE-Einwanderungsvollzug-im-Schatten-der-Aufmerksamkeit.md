@@ -143,6 +143,11 @@ Das ideologische Fundament, auf dem der Vollzug ruht.
 - [Capitol News Illinois — Court scrutiny of ICE mounts as judge rules warrantless arrests violated order](https://capitolnewsillinois.com/news/court-scrutiny-of-ice-mounts-as-judge-rules-warrantless-arrests-violated-order/)
 - [National Immigrant Justice Center — Federal Judge Extends Consent Decree Prohibiting ICE From Arresting People Without Warrants or Probable Cause](https://immigrantjustice.org/press-release/federal-judge-extends-consent-decree-prohibiting-ice-from-arresting-people-without-warrants-or-probable-cause/)
 
+
+### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
+
+Die deutsche Schwester-Spur: Sie prüft, ob die AfD dort, wo sie Macht ausübt, dem Playbook folgt, das hier bereits Regierungspraxis ist — Delegitimierung der Gegner, Vollzug gegen die Schwächsten, Gerichte als Bremse des Tempos, nicht der Richtung.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
