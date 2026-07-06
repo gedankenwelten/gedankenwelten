@@ -99,11 +99,12 @@ export function parseFmDate(v: unknown): Date | undefined {
   return isNaN(parsed.getTime()) ? undefined : parsed
 }
 
-// Tiered-Sortierung (gespiegelt von build_journal.py): neue Notes (≤7T) immer
-// zuoberst — sie gehen nie unter —, dann manuelle Hand (aktualisiert:), dann der
-// galilei-Forschungsstand (forschung_aktualisiert:), dann die News-Brücke
-// (presseschau_aktualisiert:), dann alt/legacy. Angereicherte Notes floaten hoch,
-// aber nie über neue oder manuell vertiefte. Forschung wiegt schwerer als News.
+// Tiered-Sortierung (gespiegelt von build_journal.py): EINE Frische-Ebene —
+// neu erstellt und manuell aktualisiert ranken gleich, es zählt das Datum der
+// letzten Hand (jüngeres aus date:/aktualisiert:). Danach der galilei-Forschungs-
+// stand (forschung_aktualisiert:), dann die News-Brücke (presseschau_aktualisiert:),
+// dann alt/legacy. Früher stand „neu (≤7T)" als eigener Rang über allen Bumps —
+// bei 30+ neuen Notes pro Woche erdrückte das jede Aktualisierung (geändert 06.07.2026).
 const FEED_WINDOW_DAYS = 7
 export function computeTier(
   page: QuartzComponentProps["allFiles"][number],
@@ -119,13 +120,19 @@ export function computeTier(
   const pakt = parseFmDate(fm.presseschau_aktualisiert)
   const cutoff7 = new Date(now.getTime() - FEED_WINDOW_DAYS * 86400000)
   const enrich = [fakt, pakt].filter(Boolean) as Date[]
-  if (created && created.getTime() >= cutoff7.getTime()) return { tier: 0, when: created }
-  if (akt && enrich.every((d) => akt.getTime() >= d.getTime())) return { tier: 1, when: akt }
-  if (fakt && (!pakt || fakt.getTime() >= pakt.getTime())) return { tier: 2, when: fakt }
-  if (pakt) return { tier: 3, when: pakt }
-  if (akt) return { tier: 1, when: akt }
-  if (fakt) return { tier: 2, when: fakt }
-  return { tier: 4, when: created ?? new Date(0) }
+  // Deine Hand zählt nur, wenn sie jünger ist als jede Anreicherung — sonst
+  // gewinnt der Anreicherungs-Rang (wie bisher). Frisch erstellte Notes (≤7T)
+  // bleiben aber immer in der Frische-Ebene, auch mit jüngerer News-Kopplung.
+  const handAkt = akt && enrich.every((d) => akt.getTime() >= d.getTime()) ? akt : undefined
+  const fresh = created && created.getTime() >= cutoff7.getTime()
+  if (handAkt || fresh) {
+    const hand =
+      handAkt && created ? (handAkt.getTime() >= created.getTime() ? handAkt : created) : (handAkt ?? created!)
+    return { tier: 0, when: hand }
+  }
+  if (fakt && (!pakt || fakt.getTime() >= pakt.getTime())) return { tier: 1, when: fakt }
+  if (pakt) return { tier: 2, when: pakt }
+  return { tier: 3, when: created ?? new Date(0) }
 }
 
 // Rubrik-Banner als Fallback-Thumbnail, wenn die Note kein eigenes Body-Bild hat.
