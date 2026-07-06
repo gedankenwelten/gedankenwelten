@@ -125,7 +125,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Alena Buyx]]
 
 ## Aladin El-Mafaalani
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Aladin El-Mafaalani]]
 
 ## Adam Tooze
 **Status:** Stub

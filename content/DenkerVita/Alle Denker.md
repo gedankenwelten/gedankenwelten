@@ -25,6 +25,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Albrecht von Lucke|Albrecht von Lucke]]** — Publizist, Journalist; Blätter-Redakteur; Nischengesellschaft, Konfliktunfähigkeit, Merz-Regierung als Führungsvakuum
 
+**[[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]** — Migrations- und Bildungssoziologe (TU Dortmund); Integrationsparadox, Misstrauensgemeinschaften, Adultismus, Bildung als Sortiermaschine; «Integrationsparadox» (2018), «Mythos Bildung» (2020), «Wozu Rassismus?» (2021), «Kinder — Minderheit ohne Schutz» (2025), «Misstrauensgemeinschaften» (2025)
+
 **[[DenkerVita/Anabel Ternes von Hattburg|Anabel Ternès von Hattburg]]** — (Vollanalyse vorhanden)
 
 **[[DenkerVita/Andreas Bartels|Andreas Bartels]]** — Neurowissenschaftler (Universität Tübingen, CIN), Leiter des Vision and Cognition Lab; bei Semir Zeki (UCL) Co-Autor der ersten fMRT-Studien zur romantischen und mütterlichen Liebe (2000, 2004), heute Forschung zu Bewegungssehen und visueller Stabilität
