@@ -13,7 +13,7 @@ status: offen
 konfidenz: 60%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-07-03
+aktualisiert: 2026-07-07
 presseschau_aktualisiert: 2026-06-21
 description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen."
 ---
@@ -56,6 +56,14 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 **Kalt, wenn:** dauerhafte politische Lösung, Thema legitim abgeschlossen.
 
 ## Verlauf
+
+### 2026-07-07 — Vor Ort: Der Blick durchs Fernglas, die Razzia ohne Auskunft (Konfidenz unverändert 60 %)
+
+**Befund:** Das Team von **Jung & Naiv** (Tilo Jung, Kira, zwei Crew-Mitglieder) war eine Woche in Israel und im besetzten Westjordanland und berichtet als Augenzeugen ([Video, 06.07.](https://www.youtube.com/watch?v=bgQXlU2Gwy0)). Drei datierte Beobachtungen: **(1)** Die IDF lässt weiterhin **keine ausländischen Reporter nach Gaza** — der nächstmögliche Blick ist eine Aussichtsplattform bei Sderot ([▶ 0:46](https://www.youtube.com/watch?v=bgQXlU2Gwy0&t=46)). Von dort, ~2 km entfernt, auf Dschabalia und Gaza-Stadt: „*Es ist alles wirklich einfach weg. Einfach nur noch Schutthaufen*" — keine stehenden Gebäude erkennbar, keine Menschen, nur von IDF-Bulldozern freigeräumte Wege und aufsteigender Rauch unklarer Herkunft ([▶ 2:17](https://www.youtube.com/watch?v=bgQXlU2Gwy0&t=137)). **(2)** Die Plattform selbst ist ein Aufmerksamkeits-Artefakt: gesponsert von einem US-Großspender, mit Münz-Ferngläsern, Cola-Automat und Bierresten — während des Krieges saßen hier Schaulustige mit Campingstühlen ([▶ 3:49](https://www.youtube.com/watch?v=bgQXlU2Gwy0&t=229)). **(3)** In **Jericho** erlebte das Team eine IDF-Razzia im Stadtzentrum mit: ~10 Militärfahrzeuge, Soldaten schlagen Ladenscheiben zu („*die wollen keine Zeugen*"), eine Soldatin richtet die Waffe auf den filmenden Jung, zwischendrin Schüsse unklaren Ziels; nach 20 Minuten Abzug, das Leben geht binnen einer Minute weiter ([▶ 9:16](https://www.youtube.com/watch?v=bgQXlU2Gwy0&t=556)). Die IDF-Presseanfrage danach (Ort, Zeit, Augenzeugen): **keine Auskunft**. Anwohner: So etwas passiert **„ungefähr alle drei Tage"** — ob dabei jemand verhaftet oder erschossen wurde, erfahren auch die Betroffenen nicht ([▶ 14:06](https://www.youtube.com/watch?v=bgQXlU2Gwy0&t=846)). Angekündigt sind sieben Interviews aus der Reise, darunter **Anat Saragusti** (israelische Journalistenunion, Pressefreiheit, getötete palästinensische Journalisten), **Sari Nusseibeh**, **Ami Ayalon** (Ex-Schin-Bet-Chef) und **Dror Etkes** (Kerem Navot).
+
+**Deutung:** Das ist die These auf Bodenhöhe, aus deutscher Kamera-Perspektive: Die Aufmerksamkeits-Blockade ist nicht nur Ermüdung des Publikums, sondern **erzwungen** — wer berichten will, steht am Münz-Fernglas vor der Sperrzone. Und die Jericho-Episode zeigt die Rechenschafts-Lücke unterhalb der Gerichtsebene, im Alltag: Eine Besatzungsmacht operiert im Stadtzentrum, und weder Journalisten noch die Betroffenen selbst haben ein einklagbares Recht zu erfahren, was geschah. Was die Spur auf ICJ/ICC-Ebene als Vertagung misst, heißt hier schlicht: *keine Auskunft*. Die kommenden Interviews (v.a. Saragusti zur Pressefreiheit) könnten die Presseschau-Achse vom 21.06. vertiefen — weiteres Material aus dieser Reihe wird hier nachgetragen.
+
+**Gegenbeobachtung (Pflicht, mehrfach):** (1) Augenzeugenschaft ist stark im Eindruck, schwach als Datum: Ein Blick durchs Fernglas aus 2 km auf die gesperrte Zone jenseits der Yellow Line belegt Zerstörung (die auch Satellitendaten zeigen), aber „keine Menschen sichtbar" heißt dort vor allem: Das Gebiet *ist* für Palästinenser gesperrt. (2) Jung & Naiv sind keine neutralen Beobachter — Jungs Rahmung („Besatzungsarmee", „Terrorisierung") ist Deutung, nicht Befund; belegt ist die Razzia, die Waffe, die verweigerte Auskunft. (3) Die Razzia selbst kann eine legitime Fahndung gewesen sein — auch das „alle drei Tage" der Anwohner ist unverifizierte Ortsauskunft, kein Datensatz. Der Spur-relevante Kern ist nicht die Operation, sondern die **Auskunftsverweigerung danach**. (4) Konfidenz bleibt deshalb bewusst bei 60 %: Das Material *illustriert* die These eindrücklich, bewegt aber keine der registrierten Bedingungen.
 
 ### 2026-07-03 — Die Menschen im neunten Monat „Waffenstillstand" (Konfidenz 55 % → 60 %)
 
@@ -104,6 +112,7 @@ sind **nicht per se** Beweis strategischer Vertagung. Der Waffenstillstand brach
 > - **Wachpunkt 1:** Nur institutionell belegte Fakten; umstrittene Zahlen als umstritten markieren. Moralische Dringlichkeit ersetzt **kein** Gerichtsurteil.
 > - **Wachpunkt 2:** Wenn der ICJ am Ende *keinen* Völkermord feststellt, muss das hier eingetragen werden können — *ohne* dass es sich wie Verrat anfühlt. Die Spur verfolgt, *ob Recht geschieht*, nicht *welches Ergebnis ich mir wünsche*.
 > - **03.07.2026:** Beim Sweep fiel auf: Die fünf neuen ICC-Haftbefehle erschienen zunächst als *Störung* der These statt als Nachricht — das ist Verlangen nach Bestätigung. Deshalb stehen sie prominent in Befund und Gegenbeobachtung, nicht in einer Fußnote. Zweiter Wachpunkt: Der Sweep hat die Blickrichtung gedreht (Menschen zuerst, Verfahren als Hebel) — darauf achten, dass das die *Prüfbarkeit* schärft und nicht zur moralischen Aufladung wird, die der Anlage-Eintrag ausdrücklich vermeidet.
+> - **07.07.2026:** Augenzeugenmaterial von einer der Spur nahestehenden Quelle (Jung & Naiv) zieht stärker als jede Statistik — genau deshalb wurde die Konfidenz *nicht* bewegt und die Rahmung des Reporters in der Gegenbeobachtung ausdrücklich von den belegten Vorgängen getrennt. Der Sog, das eindrückliche Bild als Beweis zu nehmen, ist Verlangen; ein Fernglas-Blick ist kein Datensatz.
 
 ## Verbindungen
 
@@ -149,6 +158,9 @@ Die Praxis-Antwort auf die Ohnmacht, die diese Spur misst: Wenn Rechenschaft im 
 - [Al Jazeera — Smotrich says ICC seeks his arrest, 19.05.2026 (QA)](https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest)
 - [ICJ — Case 192, Verfahrensstand inkl. Interventionen (Primärquelle)](https://www.icj-cij.org/case/192)
 - [CNN — Gaza risks becoming permanently divided, 14.05.2026 (US-Mainstream, neutral)](https://www.cnn.com/2026/05/14/middleeast/gaza-israel-ceasefire-permanent-division-intl)
+
+*Vor-Ort-Eintrag 07.07.2026 — Augenzeugenbericht:*
+- [Jung & Naiv — Was wir in Israel & Palästina erlebt haben: IDF-Einsatz, Blick auf Gaza, Interviews, 06.07.2026 (DE, israelkritisch-eingefärbt; Wert: unabhängige deutsche Augenzeugen vor Ort)](https://www.youtube.com/watch?v=bgQXlU2Gwy0) — Transkript: `Gedankenwelten/Transkripte/JungNaiv_Israel_Gaza_VorOrt_Transkript.txt`
 
 ## Weiterdenken
 
