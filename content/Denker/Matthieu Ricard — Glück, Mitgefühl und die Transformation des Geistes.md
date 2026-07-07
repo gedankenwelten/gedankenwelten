@@ -516,3 +516,7 @@ Marquardt im christlichen Aschram Kurishumala, Ricard im himalayischen Kloster S
 ### → [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]]
 
 Ricard aus tibetisch-buddhistischer Tradition, Brähler aus westlicher Psychotherapie — beide landen an derselben Stelle: Mitgefühl ist keine sentimentale Haltung, sondern eine trainierbare Kapazität, die das Erleben grundlegend transformiert. Brählers MSC-Ansatz integriert buddhistische Metta-Praxis explizit; ihre klinische Arbeit ist gewissermaßen die westliche Übersetzung von Ricards Befund.
+
+### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
+
+Der schärfste Kontrapunkt zu Ricards trainierbarem Glück: Für Han fährt Glück von außen in den Leib — durch den Widerstand der Gartenerde, der Klaviertasten, des Anderen —, nie durch Introspektion allein. Die produktive Reibung: Ist Glücks-*Training* nicht schon die Selbstoptimierung, die Han als Selbstausbeutung entlarvt? Und entgeht Ricard mit dem Weg nach innen nicht gerade dem Gegenüber, das Han für unverzichtbar hält?

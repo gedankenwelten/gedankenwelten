@@ -230,3 +230,7 @@ Das BR-Feature "Der Arbeiter und die AfD" über Peter aus Köln ist die empirisc
 ### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
 
 Krastev beschreibt dieselbe affektive Enttäuschungsstruktur im Ost-West-Verhältnis, die Bude 2014 als Angstgesellschaft analysierte — nur auf geopolitischer Ebene. Bude liefert die emotionale Grammatik, Krastev die geopolitische Erzählung.
+
+### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
+
+Budes „schuldig werden an sich selbst" trifft Hans Leistungssubjekt, das sich die Peitsche selbst gibt und es Selbstverwirklichung nennt: dieselbe erschöpfte Figur, einmal soziologisch als Angst, einmal philosophisch als Depression durch Weltverlust beschrieben.

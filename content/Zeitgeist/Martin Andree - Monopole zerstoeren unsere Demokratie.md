@@ -241,6 +241,10 @@ Die Gegenseite von Andrees Diagnose: Wo Andree die Monopole beschreibt und Entfl
 
 Dieselbe „Machtverklumpung“ aus Tech-Monopolen und Trump-Regierung, dieselbe Sorge um Europa (DSA/DMA, Parteispenden) — Clüver Ashbrook zeichnet den Überwachungsstaat düsterer, Andree hält den abschaffbaren Rechtshebel dagegen.
 
+### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
+
+Hans *Infokratie* ist die philosophische Fassung von Andrees Befund: Die Echtzeitkommunikation der Plattformen zersetzt die langsame Demokratie (Deliberation, Vertrauen, Versprechen). Andrees Entflechtung und Hans *Zeitpolitik* sind zwei Rezepte gegen dieselbe Machtverklumpung.
+
 ---
 
 ## Weiterdenken
