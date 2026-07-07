@@ -14,6 +14,14 @@ tags:
 | **Notiz** | [[Dalai Lama — Die saekulare Ethik]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Spitz_Saekulare_Ethik_Transkript.txt` |
 
+## Jung & Naiv vor Ort in Israel & Palästina (Spur-Eintrag, Juli 2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Was wir in Israel & Palästina erlebt haben: IDF-Einsatz, Blick auf Gaza, Interviews](https://www.youtube.com/watch?v=bgQXlU2Gwy0) |
+| **Notiz** | [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit\|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]] (Verlauf 07.07.2026) |
+| **Transkript** | `Gedankenwelten/Transkripte/JungNaiv_Israel_Gaza_VorOrt_Transkript.txt` |
+
 ## AfD-Parteitag Erfurt & der US-Zerrspiegel (Spur, Juli 2026)
 
 | | |
