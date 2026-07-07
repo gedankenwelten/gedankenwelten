@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **07.07.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
+>
+> Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
+
+> **07.07.** — [[Denker/Souleymane Bachir Diagne — Der Philosoph als Uebersetzer|Souleymane Bachir Diagne — Der Philosoph als Übersetzer]]
+>
+> Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
+
 > **06.07.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
 
 > **06.07.** — [[Denker/Yuval Noah Harari — Das biologische Drama unserer Spezies|Yuval Noah Harari — Das biologische Drama unserer Spezies]]
@@ -31,14 +39,6 @@ Die Gedankenwelten (luc)
 > Der Mensch ist das geschichtenerzählende Tier — doch die Skripte, die uns bewegen, schrieb die Evolution. Warum Fakten nie einen Mythos töten und die KI zum neuen Meister der Worte wird.
 
 > **06.07.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
-
-> **06.07.** — [[Denker/Dalai Lama — Die saekulare Ethik|Dalai Lama — Die säkulare Ethik]]
->
-> Mitgefühl ist keine religiöse Spezialität, sondern menschliche Grundausstattung — die säkulare Ethik des Dalai Lama, erklärt von seinem Übersetzer, samt der Frage: Ist das naiv?
-
-> **05.07.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
->
-> Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
 
 > → *8 weitere in* [[Denker]]
 
