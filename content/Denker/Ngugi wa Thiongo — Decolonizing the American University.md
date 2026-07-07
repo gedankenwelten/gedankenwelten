@@ -2,7 +2,7 @@
 title: "Ngũgĩ wa Thiong'o — Decolonizing the American University"
 description: "Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört."
 date: 05.07.2026
-aktualisiert: 05.07.2026
+aktualisiert: 07.07.2026
 tags:
   - denker
   - kalender
