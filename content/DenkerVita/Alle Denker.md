@@ -63,6 +63,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Francesca Bria|Francesca Bria]]** — Innovationsökonomin (*1977, Rom); als CTO Barcelonas die kommunale Datenpolitik neu erfunden, leitete Italiens nationalen Innovationsfonds, Kopf der EuroStack-Initiative für europäische digitale Souveränität; Honorarprofessorin am UCL
 
+**[[DenkerVita/Byung-Chul Han|Byung-Chul Han]]** — Koreanisch-deutscher Philosoph (Berlin), Diagnostiker der erschöpften Gesellschaft; Müdigkeitsgesellschaft & Selbstausbeutung des Leistungssubjekts, Negativität des Anderen, Psychopolitik, Infokratie, Glück als Handarbeit; Prinzessin-von-Asturien-Preis 2025
+
 ## C
 
 **[[DenkerVita/Agnes Callard|Agnes Callard]]** — Philosophin (antike Philosophie & Ethik), University of Chicago; verteidigt das sokratische Leben als das einzig lebenswerte; Kernkonzepte Aspiration (Werte-Erwerb statt Selbstoptimierung), unzeitgemäße Fragen, Denken als dialogische Praxis, sokratische Liebe; Werke *Aspiration* (2018), *Open Socrates* (2025)

@@ -168,6 +168,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Blaise Pascal
 **Status:** ✓ Vollanalyse → [[DenkerVita/Blaise Pascal]]
 
+## Byung-Chul Han
+**Status:** ✓ Vollanalyse → [[DenkerVita/Byung-Chul Han]]
+
 ## Christian Bauckhage
 **Status:** ✓ Vollanalyse — [[DenkerVita/Christian Bauckhage]]
 

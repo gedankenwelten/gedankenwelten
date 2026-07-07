@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **07.07.** — [[Denker/Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
+>
+> Nach 40 Jahren kehrt Han an die Universität zurück, aus der er einst floh — und erklärt, warum Glück Handarbeit ist und der streichelnde Daumen es zerstört.
+
 > **07.07.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
 >
 > Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
@@ -38,9 +42,7 @@ Die Gedankenwelten (luc)
 >
 > Der Mensch ist das geschichtenerzählende Tier — doch die Skripte, die uns bewegen, schrieb die Evolution. Warum Fakten nie einen Mythos töten und die KI zum neuen Meister der Worte wird.
 
-> **06.07.** — [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]
-
-> → *8 weitere in* [[Denker]]
+> → *9 weitere in* [[Denker]]
 
 ### Spuren
 

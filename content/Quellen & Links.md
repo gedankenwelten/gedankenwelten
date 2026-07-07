@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Byung-Chul Han — On Happiness (Korea University / Platon Academy, 2023)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [On Happiness: What kind of world do we live in?](https://www.youtube.com/watch?v=yPcVikX_g50) |
+| **Notiz** | [[Byung-Chul Han — Das Glueck kommt durch die Haende]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Han_On_Happiness_KoreaUniversity_Transkript.txt` |
+
 ## Dalai Lama / Christof Spitz — Die säkulare Ethik (Ethik heute, 2025)
 
 | | |

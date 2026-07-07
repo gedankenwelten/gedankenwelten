@@ -416,3 +416,7 @@ Janssens c't-3003-Analyse der Computex 2026 ist Mühlhoffs These in der konkrete
 ### → [[Zeitgeist/Neitzel und Iltisberger — Hype Is a System]]
 
 Neitzel/Iltisberger formalisieren die Systemstruktur des KI-Hypes (3 Subsysteme, 4 Merkmale, 6 Akteurs-Gruppen), die Mühlhoff politisch analysiert: ihr Modell ist die analytische Architektur hinter dem, was er als "Orchester vieler Akteure" beschreibt. Mühlhoff fragt, wer die Macht gewinnt — Neitzel/Iltisberger erklären, wie das System das möglich macht.
+
+### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
+
+Die philosophische Miniatur zur strukturellen Analyse: Hans „Vieh, das den Zaun nicht als Gefängnis erkennt, weil dort das Futter ist" beschreibt dieselbe Herrschaft-als-Bequemlichkeit, deren politische Ökonomie und autoritären Kipppunkt Mühlhoff ausbuchstabiert. Beide trennen streng Werkzeug von Herrschaftsform — auch bei der KI.

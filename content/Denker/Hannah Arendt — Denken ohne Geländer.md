@@ -275,3 +275,7 @@ Arendt fordert Denken ohne das Geländer der Tradition. Ricard zeigt, dass der B
 ### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
 
 Krastevs Hoffnungs-Begriff (via Havel) trifft Arendts *Denken ohne Geländer*: beide beschreiben politisches Handeln ohne Garantien des Gelingens. Arendt nach dem Totalitarismus, Krastev nach dem Ende der liberalen Weltordnung — dieselbe Geste, zwei historische Brüche.
+
+### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
+
+Han beruft sich in seiner Infokratie-Diagnose direkt auf Arendt: Wahrheit als „Boden, auf dem wir stehen, und Himmel, der sich über uns erstreckt" — gegen die Bodenlosigkeit der Information, die kein Verweilen und kein Versprechen mehr kennt. Arendts Natalität braucht genau das unverfügbare Gegenüber, dessen Verschwinden Han beklagt.

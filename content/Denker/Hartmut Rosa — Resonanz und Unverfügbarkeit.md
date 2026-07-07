@@ -231,6 +231,10 @@ Yorans „Befassungsbedürfnis“ digitaler Geräte („das frittiert unsere Auf
 
 Hampes *Apparatus* (bei Scobel) ist die bewusstseinsphilosophische Fassung der Verfügbarmachung: Das Zweckdenken spannt alles in Mittel und Zwecke ein — und tötet, was lebendig macht. Rosas Resonanz und Scobels zweckloses Dasein des Vogels benennen dasselbe Unherstellbare.
 
+### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
+
+Hans Korea-University-Vorlesung „On Happiness": seine *Negativität des Anderen* — der Boden, der widersteht, die schwere Tür, das Gegenüber — ist Rosas Unverfügbarkeit in anderer Sprache. Beide sehen im Glatten, Verfügbaren den Feind des gelingenden Lebens; Hans *Zeitpolitik* gegen das Instantane ist die politische Kehrseite der Beschleunigungskritik.
+
 ---
 ## Weiterdenken
 

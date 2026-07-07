@@ -169,6 +169,10 @@ Die Schattenseite des Bindungssystems: Hagemeyers innere Leere ist jener ältere
 
 Beide gründen auf Olds & Milners Entdeckung des Belohnungszentrums; Spitzers hedonische Tretmühle ist die Verallgemeinerung dessen, was die Verliebtheit als zeitlich begrenzten Dopamin-Hochstand zeigt — Eskalation und Habituation desselben Systems.
 
+### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
+
+Han macht aus dem Befund eine Gesellschaftsdiagnose: Die kontaktlose (digitale, pandemisch verschärfte) Gesellschaft verliert mit der Berührung das Oxytocin — und damit ein Stück Glück und Bindung. Die Neurobiologie liefert die Präzision, Hans Vorlesung die Konsequenz.
+
 ---
 
 ## Weiterdenken

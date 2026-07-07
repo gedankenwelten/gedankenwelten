@@ -352,6 +352,10 @@ Scobels Folge zur Philosophie der Zwecklosigkeit (Hampe, Spinoza, Matsumoto) ist
 
 Ambedkars armer Brahmane, der oben bleibt, ist ein Haben ohne Besitz: reiner Status, den keine Umverteilung enteignen kann — die Kastengesellschaft als Extremfall der Identität aus Außenwirkung. Und Ambedkars „Buddha mit offenen Augen" ist der Sein-Modus als soziale Aktion statt Innerlichkeit.
 
+### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
+
+Hans Unterscheidung *Finger vs. Hand* (der Finger wählt und konsumiert, die Hand gräbt, spielt, handelt) ist Fromms Haben vs. Sein, an den Touchscreen weitergereicht — und Hans Vieh, das den Zaun nicht als Gefängnis erkennt, ist die Medienphänomenologie zu Fromms *Flucht vor der Freiheit*.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte
