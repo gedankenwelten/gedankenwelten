@@ -17,6 +17,18 @@ aliases:
 
 # Teresa Bücker — Zeit NEU DENKEN
 
+![[assets/teresa-buecker-zeit-neu-denken-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Remedios Varo — Surrealismus (warmes Bernstein-Türkis, visionäre Feinheit).
+
+**Warum:** Varos magisch-häusliche Frauenwelten fangen, was Bücker meint: Zeit ist gewoben, ungleich verteilt, und die Zeit der Sorge die unsichtbarste von allen. Die Frau am Webstuhl spinnt die Stunden selbst, das Kind an ihrer Seite.
+
+**Prompt:** Remedios Varo surrealist: a woman weaving threads of golden time at a loom in a magical domestic-cosmic room, clocks dissolving into flowing hours, a child beside her, constellations. Time as an unequal, precious resource.
+
+</details>
+
 Quelle: [Zeit NEU DENKEN mit Teresa Bücker](https://www.youtube.com/watch?v=Ahr4jy3olCI)
 Host: Maja Göpel (Mission Wertvoll / NEU DENKEN Podcast)
 

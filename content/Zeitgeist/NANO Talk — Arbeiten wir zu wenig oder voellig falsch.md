@@ -21,6 +21,18 @@ aliases:
 
 # NANO Talk — Arbeiten wir zu wenig oder völlig falsch?
 
+![[assets/nano-talk-arbeiten-wir-zu-wenig-oder-voellig-falsch-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Käthe Kollwitz — expressionistischer Sozialrealismus (Kohle, gedämpfte Erdtöne).
+
+**Warum:** Kollwitz malte die Würde der Arbeitenden wie keine Zweite. Hier stehen Lohnarbeit, die Sorge am Kind und die Arbeit am Boden nebeneinander — die „dritte Arbeit", die in keiner Produktivitätsstatistik auftaucht.
+
+**Prompt:** Käthe Kollwitz expressionist social realism, charcoal: working people with strong hands — one caring for a child, one at a machine, one tending a garden. The dignity of labour and unpaid care side by side.
+
+</details>
+
 Quelle: [Arbeiten wir zu wenig – oder völlig falsch? | NANO Talk](https://www.youtube.com/watch?v=PCPoI5vGb6s) (3sat, 2026)
 
 > [!info] Wer spricht?
