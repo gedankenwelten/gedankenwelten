@@ -225,6 +225,9 @@ Sie erkennt die besondere deutsche Dimension: *„Was mir spezifisch deutsch ers
 
 ## Verbindungen in der Gedankendatenbank
 
+### → [[Jok Madut Jok — Elitenpakt ist kein Frieden]]
+Joks „Sind wir die Hüter unseres Bruders?" ist die Weigerung, im Angesicht der Gräuel nicht zu denken — die Instanz, deren Fehlen Arendt als Banalität des Bösen beschreibt; der zermürbte Bürger und der gedankenlose Täter teilen dieselbe Abwesenheit von Urteilskraft.
+
 - [[Matthieu Ricard — Weisheiten]] — Mitgefühl als aktive Kraft (Natalität), innere Haltung als Schutz
 - [[Vipassana — Zehn Tage]] — Nachdenklosigkeit vs. Bewusstsein, Innehalten vor dem Handeln
 - [[Marc Aurel]] *(geplant)* — Pflicht vs. blinder Gehorsam: Arendt widerspricht dem stoischen Gehorsam

@@ -38,6 +38,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Jok Madut Jok
+**Status:** ✓ Vollanalyse → [[DenkerVita/Jok Madut Jok]]
+
+---
+
 ## Jörg Baberowski
 **Status:** ✓ Vollanalyse → [[DenkerVita/Joerg Baberowski]]
 

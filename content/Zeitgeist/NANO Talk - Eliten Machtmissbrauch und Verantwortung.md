@@ -184,6 +184,9 @@ Das ist der Kern-Widerspruch, der ungelöst bleibt: Möller und Ternès haben ei
 
 ## Verbindungen
 
+### → [[Jok Madut Jok — Elitenpakt ist kein Frieden]]
+Hartmanns „Elite ist immer Macht, nicht Verantwortung" wird bei Jok zur Staatskatastrophe: Der Elitenpakt des Südsudan ist Macht, die sich selbst befriedet, ohne je Verantwortung für die Beherrschten zu übernehmen.
+
 ### → [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
 
 Nosthoff liefert das epistemische Fundament für Hartmanns politische Beschreibung: Kybernetisches Denken erzeugt das Überzeugungssystem, das Silicon-Valley-Oligarchen das Gefühl gibt, Gesellschaft besser steuern zu können als demokratische Institutionen. Hartmann beschreibt die Machtstruktur; Nosthoff erklärt das Selbstbild, das sie legitimiert.

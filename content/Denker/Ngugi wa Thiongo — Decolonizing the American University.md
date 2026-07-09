@@ -182,6 +182,9 @@ Afrikanischen Studierenden in Amerika gibt er auf: Lernt afroamerikanische Gesch
 
 ## Verbindungen
 
+### → [[Jok Madut Jok — Elitenpakt ist kein Frieden]]
+Jok ist die bittere empirische Antwort auf Ngũgĩs Frage, was frei wird, wenn ein Land frei wird: Der Südsudan gewann 2011 das Territorium, doch der neue Staat reproduziert die Herrschaftslogik — Dekolonisierung, die rückwärts läuft.
+
 ### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
 
 Das Schwester-Stück dieser Note, am selben Tag verarbeitet: Diagne zitiert Ngũgĩ wörtlich — *„die Sprache aller Sprachen ist die Übersetzung"* — und gibt dem „großen Zelt" die philosophische Tiefenstruktur: Merleau-Pontys laterales Universales statt vertikaler Sprachhierarchie. Ngũgĩ liefert die Geschichte der Spracheroberung, Diagne die Theorie der Sprachversöhnung.

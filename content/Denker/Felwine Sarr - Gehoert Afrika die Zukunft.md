@@ -172,6 +172,9 @@ Das letzte Konzept des Gesprächs schließt den Kreis zur Ökonomiekritik: [▶ 
 
 ## Verbindungen
 
+### → [[Jok Madut Jok — Elitenpakt ist kein Frieden]]
+Joks Südsudan ist der Belastungstest von Sarrs Afrotopia: Sein „gewähltes Wir jenseits der Stammeslinie" teilt Sarrs relationales Menschenbild, aber sein Überlebensmodus zeigt, was den Traum erstickt — wer ums Brot ringt, entwirft keine Utopie.
+
 ### → [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
 
 Sarrs Ökonomie der Beziehung als Vertrauensvorschuss im Großformat: Die Muriden-Bruderschaft wirtschaftet ohne Anwälte — eine ganze Ökonomie auf geschenktem Vertrauen, Ubuntu statt Vertragswerk. Was die Gedanken-Note im kleinen Radius beschreibt, entwirft Afrotopia als Gesellschaftsform.

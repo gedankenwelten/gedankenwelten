@@ -193,6 +193,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Jean-Francois Lyotard|Jean-François Lyotard]]** — Philosoph der Postmoderne; Gegenspieler Habermas', Ende der Metaerzählungen, Widerstreit, Sprachspiele ohne universale Schiedsrichter, Inkommensurabilität
 
+**[[DenkerVita/Jok Madut Jok|Jok Madut Jok]]** — Anthropologe & Konfliktforscher (Südsudan), Direktor des Sudd Institute; Ethnographie politischer Gewalt, Ethnizität als Machtinstrument, Elitenpakt ≠ gelebter Frieden
+
 **[[DenkerVita/John Rawls|John Rawls]]** — Politischer Philosoph; Schleier des Nichtwissens, Urzustand, Gleichheitsprinzip, Differenzprinzip
 
 **[[DenkerVita/Joan Kinyua|Joan Kinyua]]** — Kenianische Datenarbeiter-Aktivistin, Gründungspräsidentin Data Labelers Association Kenya (seit Februar 2024, 1.100+ Mitglieder); 8+ Jahre Erfahrung mit KI-Annotation (autonome Fahrzeuge, medizinische Bilder, extreme Content Moderation, Meta Ray-Ban Footage); Zeugin vor Bundestag April 2026 zu Data Labor Rights; investigative Zusammenarbeit mit schwedischen Medien zu Meta-Privatsphäre; Co-Referentin re:publica 26 mit Julia Kloiber; Kernbotschaft: KI ist keine Magie — es sind Menschen

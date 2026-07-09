@@ -170,6 +170,9 @@ Diese Note schließt ein Triptychon: Die [[Spuren/Israel-Gaza-Voelkerrecht-im-Sc
 
 ## Verbindungen
 
+### → [[Jok Madut Jok — Elitenpakt ist kein Frieden]]
+Dieselbe Grundfrage — was Frieden ist — von entgegengesetzten Enden: Inon und Abu Sarah bauen Frieden von unten als gewählte Beziehung; Jok seziert den Frieden von oben, den Elitenpakt, der das Leben der Menschen nie erreicht.
+
 ### → [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]] · [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
 
 Das Triptychon (→ Einordnung oben): Die Spur misst das Versanden der Rechenschaft, Johnson benennt, wer den Schatten organisiert — diese Note ist die Praxis-Antwort auf die Ohnmacht, in der beide enden: Wenn Hinsehen allein kein Hebel mehr ist, dann organisierte Wenige mit Vision, Roadmap und Termin.
