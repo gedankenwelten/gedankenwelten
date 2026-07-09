@@ -32,6 +32,7 @@ Jedes Panorama folgt diesem Aufbau:
 
 | Thema | Datei | Notes |
 |---|---|---|
+| Neoliberalismus — Was zählt | [[Neoliberalismus — Was zaehlt]] | 13 |
 | Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |
 | Kaufkraft | [[Kaufkraft]] | 9 |
 | Rente | [[Rente]] | 8 |
