@@ -46,6 +46,18 @@ Die Gedankenwelten (luc)
 
 > → *10 weitere in* [[Denker]]
 
+### Panorama
+
+> **09.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
+>
+> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
+
+> **03.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
+>
+> Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
+
+> **23.06.** — [[Panorama/NoAfD|NoAfD]]
+
 ### Spuren
 
 > **07.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
@@ -105,16 +117,6 @@ Die Gedankenwelten (luc)
 > **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
 >
 > Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
-
-### Panorama
-
-> **03.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
->
-> Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
-
-> **23.06.** — [[Panorama/NoAfD|NoAfD]]
-
-> **23.06.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
 
 ### Gedanken
 

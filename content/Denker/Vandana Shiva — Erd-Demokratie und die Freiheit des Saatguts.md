@@ -194,6 +194,9 @@ Shiva ist eine profilierte, aber in Teilen wissenschaftlich umstrittene Stimme. 
 
 ## Verbindungen
 
+> [!abstract] Teil des Panoramas [[Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
+> Shivas *production boundary* ist der Ankerbegriff dieses Panoramas über die Herrschaft der Kennzahl — was der Markt nicht zählt (Fürsorge, Zeit, Natur, das Lebendige) und die Frage nach einer menschlichen Ökonomie.
+
 ### → [[Mbembe — The Earthly Community]]
 
 Beide denken die Erde als Rechtsgemeinschaft aller Lebewesen: Shivas *Earth Democracy* und Mbembes *Earthly Community* teilen das „being-with" vor dem Besitzen. Wo Mbembe die extraktive Vernunft des Kolonialismus anklagt, zeigt Shiva am Saatgut, wie diese Extraktion bis in die Zelle reicht.
