@@ -159,6 +159,9 @@ Das paradigmatische Beispiel — aus Laclaus eigener Argentinien-Forschung in *�
 
 ## Verbindungen
 
+### → [[Jok Madut Jok — Elitenpakt ist kein Frieden]]
+Jok zeigt Laclau im Feld: Führer artikulieren ihre ethnische Basis erst zum Kampfkollektiv (Ethnizität als Instrument, nicht Ursache), und Joks moralisches „Wir jenseits der Stammeslinie" ist selbst ein hegemonialer Akt — ein anderes Volk konstruieren.
+
 ### → [[Denker/Chantal Mouffe — Das Politische und die Politik]]
 
 Die engste Verbindung: Mouffe war Laclaus Partnerin und Ko-Autorin von *Hegemonie und radikale Demokratie* (1985) — beide teilen den Kern-Apparat (das Politische vs. die Politik, Antagonismus, radikale Demokratie). Wo Laclau die diskurstheoretische Seite entfaltet (Signifikant, Leerstelle, Repräsentation), entwickelt Mouffe die politologische Konsequenz: den **Agonismus** als demokratisches Prinzip. Zwei Hälften desselben Projekts.

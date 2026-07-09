@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **09.07.** — [[Denker/Jok Madut Jok — Elitenpakt ist kein Frieden|Jok Madut Jok — Ein Elitenpakt ist kein Frieden]]
+>
+> Der jüngste Staat der Erde, fünfzehn Jahre alt und wieder im Krieg — ein Anthropologe erklärt von innen, warum ein Abkommen die Waffen verstummen lassen kann, ohne je Frieden zu schaffen.
+
 > **07.07.** — [[Denker/Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
 >
 > Nach 40 Jahren kehrt Han an die Universität zurück, aus der er einst floh — und erklärt, warum Glück Handarbeit ist und der streichelnde Daumen es zerstört.
@@ -37,10 +41,6 @@ Die Gedankenwelten (luc)
 > Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
 
 > **06.07.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
-
-> **06.07.** — [[Denker/Yuval Noah Harari — Das biologische Drama unserer Spezies|Yuval Noah Harari — Das biologische Drama unserer Spezies]]
->
-> Der Mensch ist das geschichtenerzählende Tier — doch die Skripte, die uns bewegen, schrieb die Evolution. Warum Fakten nie einen Mythos töten und die KI zum neuen Meister der Worte wird.
 
 > → *9 weitere in* [[Denker]]
 
@@ -66,8 +66,6 @@ Die Gedankenwelten (luc)
 >
 > Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
 
-> → *1 weitere in* [[Spuren]]
-
 ### Zeitgeist
 
 > **05.07.** — [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
@@ -90,7 +88,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
 
-> → *4 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -129,16 +127,6 @@ Die Gedankenwelten (luc)
 > **02.07.** — [[Gedanken/Das unsichtbare Netzwerk — Ubuntu|Das unsichtbare Netzwerk — Ubuntu]]
 >
 > Ein Gedanke, den man lange allein trägt, bis ihn jemand ausspricht: Ich bin, weil wir sind. Über Ubuntu — das Wort, das uns fehlt, und den Alltag, in dem es längst wohnt.
-
-> **01.07.** — [[Gedanken/Das verwobene Denken — im Geiste Edgar Morins|Das verwobene Denken — ein Gedanke mit Edgar Morin]]
->
-> Wenn ein Thema zwei wahre Seiten hat und uns ein Lager zwingt, eine zu verraten, liegt der Fehler im Rahmen, nicht in der Welt. Unterscheiden, ohne zu trennen.
-
-> **01.07.** — [[Gedanken/Die geteilte Fuelle — eine Utopie der Maschinen-Aera|Die geteilte Fülle — eine Utopie der Maschinen-Ära]]
->
-> Wenn Maschinen die Arbeit nehmen, könnte zum ersten Mal genug für alle da sein — die Frage ist nicht, ob wir es schaffen, sondern ob wir es teilen.
-
-> → *1 weitere in* [[Gedanken]]
 
 ### GoodNews
 

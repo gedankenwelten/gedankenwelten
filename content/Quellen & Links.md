@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Jok Madut Jok — Why South Sudan's Peace Agreement is Falling Apart (Radio Tamazuj, 2025)
+
+| | |
+|---|---|
+| **Interview / Video** | [Prof. Jok Madut — Why South Sudan's Peace Agreement is Falling Apart](https://www.youtube.com/watch?v=1I7Bhd0sQbg) |
+| **Notiz** | [[Jok Madut Jok — Elitenpakt ist kein Frieden]] |
+| **DenkerVita** | [[DenkerVita/Jok Madut Jok]] |
+| **Transkript** | `Gedankenwelten/Transkripte/JokMadutJok_Southsudan_Transkript.txt` |
+
 ## Byung-Chul Han — On Happiness (Korea University / Platon Academy, 2023)
 
 | | |
