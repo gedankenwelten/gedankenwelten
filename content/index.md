@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **09.07.** — [[Denker/Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts|Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
+>
+> Eine Physikerin liest die Welt vom Samenkorn her — und zeigt, wie eine Ökonomie, die das Lebendige für tot erklärt, am Ende die Erde selbst enteignet.
+
 > **09.07.** — [[Denker/Jok Madut Jok — Elitenpakt ist kein Frieden|Jok Madut Jok — Ein Elitenpakt ist kein Frieden]]
 >
 > Der jüngste Staat der Erde, fünfzehn Jahre alt und wieder im Krieg — ein Anthropologe erklärt von innen, warum ein Abkommen die Waffen verstummen lassen kann, ohne je Frieden zu schaffen.
@@ -40,9 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
 
-> **06.07.** — [[Denker/S.N. Goenka — Vipassana|S.N. Goenka — Vipassana]]
-
-> → *9 weitere in* [[Denker]]
+> → *10 weitere in* [[Denker]]
 
 ### Spuren
 

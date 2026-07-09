@@ -412,6 +412,10 @@ Wo Wesche Natur als Rechtssubjekt statt Eigentum denkt, zeigt Good News Juni die
 
 ---
 
+### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
+
+Shiva liefert den Kampfplatz zu Wesches Theorie der Naturrechte: Saatgut als Gemeingut gegen die Patentierung des Lebendigen — Biopiraterie als Enteignung, *bio nullius* als Fortsetzung von *terra nullius*.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

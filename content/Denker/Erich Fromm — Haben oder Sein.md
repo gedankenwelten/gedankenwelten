@@ -356,6 +356,10 @@ Ambedkars armer Brahmane, der oben bleibt, ist ein Haben ohne Besitz: reiner Sta
 
 Hans Unterscheidung *Finger vs. Hand* (der Finger wählt und konsumiert, die Hand gräbt, spielt, handelt) ist Fromms Haben vs. Sein, an den Touchscreen weitergereicht — und Hans Vieh, das den Zaun nicht als Gefängnis erkennt, ist die Medienphänomenologie zu Fromms *Flucht vor der Freiheit*.
 
+### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
+
+Shivas *production boundary* — nur was durch den Markt geht, zählt — ist Fromms Haben-Modus in ökonomischer Form; beide setzen dem Verwerten des Lebendigen das In-Beziehung-Sein entgegen.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

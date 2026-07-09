@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Vandana Shiva — Ecological Feminism & Earth Democracy (University of Toronto / CWSE, 2012)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Vandana Shiva: Ecological Feminism & Earth Democracy](https://www.youtube.com/watch?v=_83Sk5AMT-s) |
+| **Notiz** | [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]] |
+| **DenkerVita** | [[DenkerVita/Vandana Shiva]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Shiva_EarthDemocracy_Transkript.txt` |
+
 ## Jok Madut Jok — Why South Sudan's Peace Agreement is Falling Apart (Radio Tamazuj, 2025)
 
 | | |

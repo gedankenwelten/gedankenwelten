@@ -229,6 +229,10 @@ Der senegalesische Nächste: Diagne liefert Sarrs endogenem Denken die sprachphi
 
 ---
 
+### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
+
+Shiva mobilisiert wie Sarr eigenes, verbundenes Wissen gegen die Monokultur des westlichen Fortschrittsmodells — Dekolonisierung der Ökonomie aus den eigenen Quellen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -184,3 +184,8 @@ Descartes' Vermächtnis in einem Satz: *„Zu leben, ohne zu philosophieren, ist
 - [[Walther Ziegler — Adorno in 60 Minuten]] — Adornos *Dialektik der Aufklärung* ist die Abrechnung mit dem Cartesischen Projekt: Die Vernunft, die sich zur „Herrin der Natur" macht, schlägt in Herrschaft über Menschen um.
 - [[David Chalmers — Das Hard Problem des Bewusstseins]] — Chalmers' Property Dualism ist der moderne Erbe des Cartesischen Substanzdualismus: Bewusstsein nicht auf Materie reduzierbar, aber ohne Descartes' Interaktionsproblem. Das „Hard Problem" ist die analytische Reformulierung von Descartes' Kernfrage.
 - [[Walther Ziegler — Buddha in 60 Minuten]] — Buddha als Gegenfigur zu Descartes: Wo Descartes' Cogito das denkende Subjekt als letzte Gewissheit feiert, will Buddha genau dieses Ichbewusstsein überschreiten. Ziegler selbst zieht den Vergleich explizit im Buddha-Vortrag
+
+### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
+
+Shiva rechnet die ökologische Rechnung des cartesianischen *res extensa* auf: die Trennung, die Descartes begründet, ist bei ihr (mit Bacon) die Wurzel von Naturherrschaft und Patriarchat.
+

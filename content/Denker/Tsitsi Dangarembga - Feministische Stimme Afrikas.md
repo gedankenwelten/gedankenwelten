@@ -284,6 +284,10 @@ Ngũgĩs Yale-Vorlesung liefert die historischen Kategorien hinter Dangarembgas 
 
 ---
 
+### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
+
+Shivas kapitalistisches Patriarchat und die Zerstörung weiblicher Subsistenz treffen Dangarembgas „zwei Patriarchate“ und die These der *hergestellten* Armut — Frauen als erste Enteignete der Naturherrschaft.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -184,6 +184,11 @@ Zwei französische Denker mit derselben Biografie-Wurzel — engagierter Marxist
 Yorans ETF-Selbstbefund („Wer profitiert? Oh — das bin ja ich“) ist das *principe dialogique* in Reinform: Der Kritiker findet sich als Teil des Kritisierten wieder, ohne Auflösung des Widerspruchs.
 
 ---
+
+### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
+
+Shivas *oikos* als gemeinsame Wurzel von Ökonomie und Ökologie spiegelt Morins *Terre-Patrie* und sein verbundenes gegen zersplittertes Denken.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
