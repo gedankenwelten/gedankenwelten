@@ -17,6 +17,18 @@ aliases:
 
 # Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus
 
+![[assets/tilo-wesche-rechte-der-natur-eigentum-kolonialismus-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Henri Rousseau — naive Dschungelmalerei (tiefe, gesättigte Grüntöne).
+
+**Warum:** Rousseaus lebendiger Dschungel macht die Natur zum souveränen Gegenüber, nicht zur Kulisse. Mitten im Grün wächst eine Waage aus den Ranken — die Natur nicht als Eigentum, sondern als Rechtssubjekt.
+
+**Prompt:** Henri Rousseau lush naive jungle: a vivid living forest as a sovereign presence, tiger, birds, monkeys, heron, a river — and among the vines a brass balance scale. Nature as a subject of rights, not an object of property.
+
+</details>
+
 Quelle: [Jung & Naiv Folge 829](https://www.youtube.com/watch?v=JPPvdyFyw4U)
 
 > [!info] Wer spricht?

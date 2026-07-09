@@ -15,6 +15,18 @@ aliases:
 
 # Maja Göpel — Mut zur Zukunft
 
+![[assets/maja-goepel-mut-zur-zukunft-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Hilma af Klint — spirituelle Abstraktion (weiches Rosé, Gold, Blau, Grün).
+
+**Warum:** af Klints Spiralen malen Wandel als Entfaltung, nicht als Bruch. Ein Samen öffnet sich in konzentrische Kreise, planetare Bögen — der Mut zur Zukunft als hoffnungsvolle Bewegung statt als Drohung.
+
+**Prompt:** Hilma af Klint spiritual abstraction, luminous rose-gold-blue-green: ascending spirals and organic geometric forms, a seed unfolding into concentric circles of transformation, planetary curves. The courage of change made visible.
+
+</details>
+
 Quelle: [Prof. Dr. Maja Göpel - Mut zur Zukunft | Sustainable Economy Summit 2026](https://www.youtube.com/watch?v=oJO8wgztyYk)
 
 > [!info] Wer spricht?

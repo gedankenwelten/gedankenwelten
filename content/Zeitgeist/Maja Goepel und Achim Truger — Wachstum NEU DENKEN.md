@@ -17,6 +17,18 @@ aliases:
 
 # Maja Göpel & Achim Truger — Wachstum NEU DENKEN
 
+![[assets/maja-goepel-und-achim-truger-wachstum-neu-denken-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Fernand Léger — Maschinen-Moderne (tubistische Formen, Primärfarben, schwarze Konturen).
+
+**Warum:** Die Wirtschaft als Maschine — aber statt des ewig steigenden Pfeils biegt sich das Rohr zum Baum, an dem Menschen stehen. Légers Fortschritts-Ästhetik, gegen ihren eigenen Wachstumsglauben gewendet: Wachstum neu gedacht.
+
+**Prompt:** Fernand Léger machine-age modernism: an economy as a great machine, but instead of an ever-rising arrow a rainbow tube arcs into a tree with human figures; gears, factory, green sprout intertwined. Rethinking growth.
+
+</details>
+
 Quelle: [NEU DENKEN Folge 1 — YouTube](https://www.youtube.com/watch?v=v62JYY4GKEo)
 
 > [!info] Wer spricht?

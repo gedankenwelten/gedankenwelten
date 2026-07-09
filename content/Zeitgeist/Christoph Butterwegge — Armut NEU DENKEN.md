@@ -19,6 +19,18 @@ aliases:
 
 # Christoph Butterwegge — Armut NEU DENKEN
 
+![[assets/christoph-butterwegge-armut-neu-denken-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Künstlerhand:** Ben Shahn — amerikanischer Sozialrealismus (flache, gedämpfte Palette, feine Linie).
+
+**Warum:** Shahn gab den Übersehenen Würde, ohne sie zu heroisieren. Eine arme Familie vor den Glastürmen der reichen Stadt — die stille Lücke zwischen Reichtum und Armut, die Butterwegge als strukturell, nicht als Schicksal erklärt.
+
+**Prompt:** Ben Shahn American social realism, muted palette, fine line: a lean dignified poor family before the glass towers of a wealthy city, the quiet gap between rich and poor. The dignity of those left behind.
+
+</details>
+
 Quelle: [Armut NEU DENKEN mit Christoph Butterwegge](https://www.youtube.com/watch?v=-pAVWZA_R7o)
 
 > [!tip] Format unterstützen
