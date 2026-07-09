@@ -242,6 +242,10 @@ Ngũgĩ trägt Mbembes Kernthese als Yale-Vorlesung vor: Kapitalismus und Rassis
 
 ---
 
+### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
+
+Shivas *Earth Democracy* verlängert Mbembes *Earthly Community* ins Konkrete — das Saatkorn als kleinster Ort, an dem sich Zugehörigkeit statt Besitz entscheidet; die extraktive Vernunft reicht bei ihr bis in die Zelle.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

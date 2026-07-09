@@ -191,6 +191,11 @@ Yorans „Kostenwahrheit erzwingen“ (das 5-Euro-Shirt bildet seine Folgekosten
 Bendsen seziert auf Unternehmensebene dieselbe Bewertungsblindheit, die Göpel/Truger am BIP zeigen: KPIs, die Externalisierung belohnen — „das Billige ist eine Fehlbuchung“ als Mikro-Fassung von „Wachstum — wozu?“.
 
 ---
+
+### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
+
+Shivas Kritik an der *production boundary*, die Care-Arbeit und Subsistenz als „unproduktiv“ ausblendet, ist dieselbe Vermessungslücke des BIP, die Göpel/Truger freilegen — Ökofeminismus trifft Wachstumskritik.
+
 ## Faktencheck
 
 > [!success] Bestätigt — Achim Truger ist Sachverständigenrats-Mitglied

@@ -766,3 +766,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Dalai Lama
 **Status:** ✓ Vollanalyse — [[DenkerVita/Dalai Lama]]
+
+## Vandana Shiva
+**Status:** ✓ Vollanalyse → [[DenkerVita/Vandana Shiva]]

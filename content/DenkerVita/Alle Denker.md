@@ -392,6 +392,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Ökonom, Politiker, ehem. griechischer Finanzminister; Technofeudalism — Kapitalismus ist tot, Cloud Capital ersetzt Märkte, Big Tech verwandelt Profit in feudale Rente
 
+**[[DenkerVita/Vandana Shiva|Vandana Shiva]]** — Physikerin, Ökofeministin & Umweltaktivistin (Navdanya, Alt-Nobelpreis 1993); Earth Democracy, production boundary, Biopiraterie, Saatgut als Gemeingut — das Lebendige gegen das mechanistische „kapitalistische Patriarchat"; zugleich wissenschaftlich umstritten (Bt-Baumwolle/Suizide)
+
 ## W
 
 **[[DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
