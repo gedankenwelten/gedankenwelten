@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Heizungshammer — BILD-Framing & das Gebäudeenergiegesetz (Volksverpetzer / Oxford-Studie, 2026)
+
+| | |
+|---|---|
+| **Analyse / Artikel** | [Studie belegt: Wie BILD mit dem erfundenen „Heizungshammer" unsere Politik manipulierte](https://volksverpetzer.de/analyse/heizhammer-studie/) (Thomas Laschyk, Volksverpetzer, 09.07.2026) |
+| **Studie (peer-reviewed)** | Loschke, Braungardt, Keimeyer & Rosenow: *Heating up the headlines: How tabloid framing reshaped Germany's Buildings Energy Act*, *Energy Research & Social Science* (2026), [DOI 10.1016/j.erss.2026.104832](https://doi.org/10.1016/j.erss.2026.104832) — Open Access |
+| **Notiz** | [[Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]] |
+
 ## Vandana Shiva — Ecological Feminism & Earth Democracy (University of Toronto / CWSE, 2012)
 
 | | |

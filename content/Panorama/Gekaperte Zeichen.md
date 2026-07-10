@@ -114,6 +114,8 @@ Für alle, die einzelnen Fällen nachgehen wollen — geordnet wie im Text:
 
 - [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]] — Der historische Tiefenfall des Mechanismus: Ngũgĩs *Introjektion* (Sklavenhändler John Newton verwandelt das Stöhnen unter Deck in *Amazing Grace*; Siedlerminderheiten kapern die Sprache der Befreiungsbewegungen; „Weiße als die eigentlich Unterdrückten") — die Kaperung der Opferrolle, Jahrhunderte vor dem OK-Zeichen.
 
+- [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]] — Kaperung nicht einer Geste, sondern eines *Wortes*: „Heizungshammer" ist ein erfundener Begriff, geprägt um ein Gesetz zu besetzen, bevor es verstanden wird. Eine Oxford-Studie zählt aus, wie das Zeichen aus dem Boulevard bis ins Gesetzblatt wandert — Begriffshoheit als messbare Macht.
+
 ---
 
 ## Weiterdenken

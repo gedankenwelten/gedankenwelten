@@ -269,6 +269,10 @@ Löschels Tankrabatt-Analyse ist die verhaltensökonomische Unterseite von Strem
 
 Bendsens Circular-Value-Ansatz (re:publica 26) ist die Kreislaufwirtschafts-Fassung von Stremlaus „Geld ist niemals neutral“: Beide beschreiben den Reifungspfad von der ethischen Nische zur harten Risikorechnung — Zirkularität als klassischer Risikofaktor, nicht als grünes Extra.
 
+### → [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]]
+
+Die mediale Vorgeschichte der Planungsunsicherheit: Die „Heizungshammer“-Kampagne der BILD zerfetzte das GEG, das die Stadtwerke hier zum Pausieren zwingt — Framing als Ursache, ausgebremste Investition als Wirkung.
+
 ---
 ## Weiterdenken
 

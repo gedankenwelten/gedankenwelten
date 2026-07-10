@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **10.07.** — [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte|Der Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]]
+>
+> Eine Oxford-Studie zählt nach, wie die BILD mit einem erfundenen Wort ein Gesetz zerlegte — und wie tausend seriöse Medien es nachdruckten. Eine Schande für den Journalismus.
+
+> **05.07.** — [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
+>
+> Von Ayn Rand über René Girard zu Curtis Yarvin: die Ideengeschichte hinter der Allianz von Silicon Valley und Trump — und warum sie auf das Ende der Demokratie zielt.
+
+> **04.07.** — [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
+>
+> Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
+
+> **04.07.** — [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]]
+>
+> Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.
+
+> **03.07.** — [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
+>
+> Ein Genozid braucht keine überzeugten Lügner — nur Redaktionen, die Zeit kaufen. Adam Johnson seziert die Grammatik des organisierten Wegsehens.
+
+> → *3 weitere in* [[Zeitgeist]]
+
 ### Denker
 
 > **09.07.** — [[Denker/Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts|Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
@@ -44,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
 
-> → *10 weitere in* [[Denker]]
+> → *6 weitere in* [[Denker]]
 
 ### Panorama
 
@@ -75,34 +99,6 @@ Die Gedankenwelten (luc)
 > **05.07.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
 >
 > Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
-
-> **02.07.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
->
-> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
-
-### Zeitgeist
-
-> **05.07.** — [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
->
-> Von Ayn Rand über René Girard zu Curtis Yarvin: die Ideengeschichte hinter der Allianz von Silicon Valley und Trump — und warum sie auf das Ende der Demokratie zielt.
-
-> **04.07.** — [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
->
-> Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
-
-> **04.07.** — [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]]
->
-> Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.
-
-> **03.07.** — [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
->
-> Ein Genozid braucht keine überzeugten Lügner — nur Redaktionen, die Zeit kaufen. Adam Johnson seziert die Grammatik des organisierten Wegsehens.
-
-> **03.07.** — [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
->
-> Ein Herd, den man neu starten muss, ein Duschschlauch mit Premium-Funktion: Gabriel Yoran zeigt, warum die Dinge schlechter werden — und warum die Rettung des Planeten nicht am Einkaufskorb hängen darf.
-
-> → *3 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
