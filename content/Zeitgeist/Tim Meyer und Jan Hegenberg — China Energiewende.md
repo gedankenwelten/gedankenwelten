@@ -167,6 +167,14 @@ Die Smart-Meter-Anekdote vom Anfang kehrt als Symbol zurück: Als Meyer einer ch
 
 ## Verbindungen
 
+### → [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]
+
+Amprion-Chef Müllers „Hase und Schildkröte“ und sein Einwand gegen reine Dezentralität (die BASF verbraucht so viel wie mehrere Großstädte) bekommen hier das Kontrastbild der industriell durchgezogenen Transformation — und die offene Frage, ob ein Verbund mit chinesischen Modulen und Zellen wirklich „versorgungssicher“ ist.
+
+### → [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus]]
+
+Das Anschauungsbild zu „alle Lösungen sind da, es ist wirtschaftlich“ — und zugleich die offene Frage nach der neuen China-Abhängigkeit hinter Sterners Unabhängigkeitsversprechen.
+
 ### → [[Dirk Specht — Strom, Merit Order und Grossbatterien]]
 
 Specht und Meyer/Hegenberg sprechen im selben Podcast (Geladen) und aus derselben Grundüberzeugung: Der Markt hat längst entschieden, die Energiewende ist ökonomisch rational. Specht liefert die Merit-Order-Mechanik und Großbatterien als deutsche Marktperspektive — Meyer/Hegenberg zeigen, wie China diese Logik industriell in Weltmaßstab exekutiert. Zusammen ergibt sich: Das Problem ist nicht Technologie, sondern politischer Wille zur Skalierung.

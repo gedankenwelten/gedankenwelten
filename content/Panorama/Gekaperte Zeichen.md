@@ -105,6 +105,14 @@ Für alle, die einzelnen Fällen nachgehen wollen — geordnet wie im Text:
 
 ## Verbindungen
 
+### → [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]
+
+Nicht ein Symbol, sondern ein ganzes *Thema* wird gekapert: Energieunabhängigkeit als „typisches AfD-Thema“, das „den Grünen zugeschrieben“ ist. Mützes Antwort — über den ökonomischen Case statt Parteirhetorik zurückholen — ist der Versuch der Rückeroberung.
+
+### → [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus]]
+
+Die Gegenrichtung in Reinform: Sterner erobert „Patriotismus“ und „Heimat“ für die Energiewende zurück — Kaperung ist keine Einbahnstraße.
+
 - [[Gedanken/Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]] — Der Schwestergedanke für Worte: Begriffshoheit als Machtinstrument. Zeichen liegen eine Schicht tiefer — gegen die Umdeutung einer Geste hilft kein Gegenargument, nur der fortgesetzte Gebrauch.
 - [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]] — Kaperung ist keine Einbahnstraße: Der Rosa Winkel wurde vom Vernichtungsstigma zum Banner, Pepe in Hongkong vom Hasssymbol zum Freiheitszeichen. Jede Vergiftung trägt die Möglichkeit ihrer Umkehr in sich.
 - [[Gedanken/Polarisierung als Ideologisierungsfalle]] — Die Empörungsmaschine als Komplize: Das OK-Zeichen wurde erst dadurch vergiftet, dass die Gegenseite die Behauptung der Vergiftung beglaubigte.

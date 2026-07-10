@@ -71,6 +71,14 @@ Und sie hatte Folgen bis ins Gesetzblatt: die schrittweise Aufgabe der 65-Prozen
 
 ## Verbindungen
 
+### → [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]
+
+Meinungsforscherin Mütze misst die Folge des Heizungshammers: eine „Null-eins-Debatte“, die nicht mehr an Fakten, sondern an Emotionen angreift („ein Habeck im Heizungskeller genügt“) — während die Zustimmung zu den Erneuerbaren stabil bei 60 % bleibt. Der Diskurs tobt, die Sache steht still.
+
+### → [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus]]
+
+Der Gegenpol zum Heizungshammer: statt einen Kampfbegriff zu prägen, das Vokabular (Heimat, Freiheit) zurückerobern — dasselbe Heizungsgesetz vom anderen Ende des Kulturkampfs.
+
 ### → [[Stremlau und Goepel — Investieren NEU DENKEN]]
 Der konkrete Preis: Stadtwerke pausieren ihre Wärmeleitplanung, weil das zerfetzte GEG jede Planungssicherheit zerstört hat.
 

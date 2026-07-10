@@ -187,6 +187,10 @@ Quaschnings Vorschlag: statt Spritsubventionen → Umverteilung. Wer ein Auto f�
 
 ## Verbindungen
 
+### → [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus]]
+
+Derselbe Iran-Schock, komplementäre Ebene: Quaschning der Marktmechanismus, Sterner der Sicherheits- und Friedensrahmen der fossilen Abhängigkeit.
+
 ### → [[Martin Oetting — Faschismus stoppen mit der Wahrheit]]
 Konkreter Fall einer abstrakten These: Quaschnings Spritpreis-Analyse ist Oettings „Streetlight-Effekt" in einem einzelnen Politikfeld — die unbequeme Wahrheit (globaler Ölmarkt, Verbrenner-Abhängigkeit) gegen die populäre Halbwahrheit (jemand zockt uns ab). Wahrheit sagen statt halbgar mischen.
 

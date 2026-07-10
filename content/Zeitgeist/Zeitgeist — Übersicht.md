@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*252 Notes — automatisch generiert · nach Thema sortiert*
+*253 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -311,6 +311,7 @@ Jede Note folgt einer eigenen Struktur:
 ### Medien & Propaganda
 
 - [[Zeitgeist/Akkudoktor — Lanz und die Energiewende|Akkudoktor — Programmbeschwerde gegen Markus Lanz: Energiewende-Desinformation im ZDF]]
+- [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte|Der Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]] — Eine Oxford-Studie zählt nach, wie die BILD mit einem erfundenen Wort ein Gesetz zerlegte — und wie tausend seriöse Medien es nachdruckten. Eine Schande für den Journalismus.
 - [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
 
 ### Philosophie & Psychologie

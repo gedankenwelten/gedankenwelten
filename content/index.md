@@ -24,7 +24,15 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
-> **10.07.** — [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte|Der Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]]
+> **10.07.** — [[Zeitgeist/republica26 — Wie gelingt die Energiewende|re:publica 26 — Wie gelingt die Energiewende? Und was bedeutet sie für unsere Demokratie?]]
+>
+> Die Meinungsforscherin und der Netzbetreiber: Was die Deutschen mit der Energiewende verbinden — und warum Versorgungssicherheit das neue Wort für Freiheit ist.
+
+> **10.07.** — [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus|Michael Sterner — Energiewende ist gelebter Patriotismus]]
+>
+> Ein Energieprofessor erobert ein Wort zurück: Wer sein Land liebt, macht es unabhängig — von Öl, Gas und den Kriegen, die an ihnen hängen.
+
+> **09.07.** — [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte|Der Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]]
 >
 > Eine Oxford-Studie zählt nach, wie die BILD mit einem erfundenen Wort ein Gesetz zerlegte — und wie tausend seriöse Medien es nachdruckten. Eine Schande für den Journalismus.
 
@@ -36,15 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
 
-> **04.07.** — [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]]
->
-> Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.
-
-> **03.07.** — [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
->
-> Ein Genozid braucht keine überzeugten Lügner — nur Redaktionen, die Zeit kaufen. Adam Johnson seziert die Grammatik des organisierten Wegsehens.
-
-> → *3 weitere in* [[Zeitgeist]]
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Denker
 

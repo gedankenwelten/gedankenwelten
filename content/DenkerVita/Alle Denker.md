@@ -273,6 +273,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Michael Sterner|Michael Sterner]]** — Professor Energiespeicher/Energiesysteme OTH Regensburg, Mitentwickler Power-to-Gas, Bayerischer Energiebeirat; dezentrale Wertschöpfung, Technologieoffenheit, wissenschaftliche Freiheit
 
+**[[DenkerVita/Christoph Mueller|Christoph Müller]]** — Vorsitzender der Geschäftsführung (CEO) des Übertragungsnetzbetreibers Amprion (seit 2025), zuvor 2015–2024 Chef von Netze BW; promovierter Volkswirt; ohne Höchstspannungs-Netzausbau keine Energiewende, flexiblere bedarfsorientierte Netzplanung (~92 Mrd. Euro Einsparpotenzial), Versorgungssicherheit als Standard
+
+**[[DenkerVita/Janina Muetze|Janina Mütze]]** — Mitgründerin und Geschäftsführerin (COO) des Meinungsforschungsunternehmens Civey (gegr. 2015, mit 24), studierte Volkswirtin; digitale Meinungsforschung via gewichtete Online-Erhebung, Echtzeit-Stimmungsbilder, die schweigende Mitte sichtbar machen; im Zentrum des Repräsentativitäts-Streits der Demoskopie
+
 **[[DenkerVita/Michel Foucault|Michel Foucault]]** — Macht, Diskurs, Disziplinargesellschaft, Aufklärung als Ethos
 
 **[[DenkerVita/Michel Friedman|Michel Friedman]]** — Jurist, Publizist, Fernsehmoderator; Kind polnisch-jüdischer Holocaust-Überlebender; Heuchelei als demokratischer Befund, Antisemitismus als Querspektrum-Phänomen

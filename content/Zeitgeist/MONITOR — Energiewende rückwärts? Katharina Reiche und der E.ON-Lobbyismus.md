@@ -159,6 +159,14 @@ Laufende Berichterstattung, die diese Note weiterträgt:
 
 ## Verbindungen
 
+### → [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]
+
+Dieselbe Reiche-Redispatch-Debatte aus dem Netzbetreiber-Blick: Müller würdigt fair, dass Reiche „an einem echten Problem arbeitet“, und wirbt für die sachliche statt der Schützengraben-Diskussion. MONITOR liefert das materielle Motiv, das die faire Würdigung nicht mitdenkt.
+
+### → [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus]]
+
+Das Motiv hinter der Bremse: Wo MONITOR den Lobbyismus recherchiert, fragt Sterner „was verdient an der Verzögerung?“ — Motiv und Diagnose ergänzen sich.
+
 ### → [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]
 
 Die Subventionsasymmetrie ist hier strukturell dieselbe: Wer Netzinfrastruktur kontrolliert und wessen Kosten unsichtbar gehalten werden, bestimmt das Narrativ. Reiche macht das Risiko der Erneuerbaren sichtbar und das Versagen der Netzbetreiber unsichtbar — Fortsetzung eines bekannten Musters.
