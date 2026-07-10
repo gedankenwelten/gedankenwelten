@@ -203,6 +203,10 @@ Putin habe seinen Leuten gesagt: Wenn wir das nicht zu Ende bringen, war's das m
 
 ## Verbindungen
 
+### → [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
+
+Ein „Raum der Gewalt" mitten in einer Demokratie: ICE-Vollzug ohne Bodycams und ohne Konsequenzen — Baberowskis These, dass Gewalt sich verselbständigt, wo Rechenschaft fehlt, am aktuellen Fall.
+
 ### → [[Hannah Arendt — Denken ohne Geländer]]
 Baberowski stützt seine Gewaltanalyse ausdrücklich auf Arendts These der zerstörten Rechtsräume — wo das Recht endet, beginnt die Todeszone. Doch wo Arendt das Böse aus dem Verlust des Denkens (Banalität) erklärt, verschiebt Baberowski den Akzent auf die ideologiefreie Eigendynamik der Gewalt: zwei Lesarten desselben Täters.
 

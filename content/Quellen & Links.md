@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Koschi Politik — ICE erschießt Lorenzo Salgado (2026)
+
+| | |
+|---|---|
+| **Video** | [Maskierter ICE Abschaum! Lorenzo Salgado die Details!](https://www.youtube.com/watch?v=slWWLY0wQJU) |
+| **Notiz** | [[Koschi Politik — ICE erschiesst Lorenzo Salgado]] |
+| **Spur** | [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit]] |
+| **DenkerVita** | [[DenkerVita/Manuel Koschi Politik]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Koschi_ICE_Salgado_Transkript.txt` |
+
 ## Michael Sterner — Energiewende ist gelebter Patriotismus (Energiewende Erlangen, 2026)
 
 | | |

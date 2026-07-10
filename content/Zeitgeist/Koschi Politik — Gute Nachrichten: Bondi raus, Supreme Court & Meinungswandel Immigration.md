@@ -112,6 +112,10 @@ Koschi führt den Wandel auf die verstörenden Bilder von ICE-Einsätzen zurück
 
 ## Verbindungen
 
+### → [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
+
+Das dunkle Gegenstück: Während hier die Bremsen greifen (Gerichte, öffentliche Meinung), zeigt der Fall Salgado, was der Apparat anrichtet, solange Sichtbarkeit noch keine Konsequenzen erzeugt.
+
 ### → [[Koschi Politik — Epstein und Pam Bondi: Truth Social Folge 11]]
 
 Vorgeschichte: Bondis Umgang mit den Epstein-Akten und Sonderbehandlung von Maxwell; die Entlassung ist die direkte Konsequenz dieser Dokumentation

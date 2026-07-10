@@ -92,6 +92,10 @@ Journalist **Nikolaj Christoph** widerlegt das öffentlich mit 6 Fragen:
 
 ## Verbindungen
 
+### → [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
+
+Der nächste Tote, diesmal nicht in Gewahrsam, sondern auf offener Straße: Lorenzo Salgado, erschossen bei einem Fahrzeugstopp in Houston — dieselbe Behörde, dieselbe Rechenschaftslücke.
+
 ### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Whistleblower packt aus]]
 
 zwei Tage zuvor: Ausbildungsdefizite, die solche Situationen strukturell produzieren

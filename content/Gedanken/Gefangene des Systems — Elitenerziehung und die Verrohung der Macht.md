@@ -435,6 +435,10 @@ Hannah Arendts *Banalität des Bösen* gilt hier in einem erweiterten Sinne: Man
 
 ## Verbindungen
 
+### → [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
+
+Die Verrohung an der Basis: Ein Vollzugsapparat, der einen Erschossenen als „John Doe" liegen lässt und die Familie nicht benachrichtigt — Menschen als Systemvariablen, das Leid nicht mehr gespürt.
+
 ### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
 Denkt die Entpersonalisierung zu Ende, die diese Note beginnt: Wenn auch die Mächtigen Gefangene sind und zusätzlich ihr Urteil an Prozesse auslagern, bleibt oben niemand mehr — Herrschaft ohne Herrn statt Mastermind.
 
