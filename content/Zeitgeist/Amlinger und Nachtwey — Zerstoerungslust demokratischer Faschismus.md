@@ -245,6 +245,10 @@ Wenn man das Kernmerkmal des Faschismus auf einen Satz bringen müsste: Es ist f
 
 ## Verbindungen
 
+### → [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
+
+Die Zerstörungslust im Vollzug: maskierte Agenten, die das Adrenalin der Jagd suchen — Grausamkeit gegen Wehrlose als Botschaft, nicht als Betriebsunfall.
+
 - [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]] — Kühnert beschreibt die Verschiebung des sozialen Konflikts ins Kulturelle und das „Treten nach unten" (Abstand zum Geflüchteten vergrößern) als rechte Strategie; Nachtweys Abstiegs- und Kränkungssoziologie liefert die affektive Erklärung, *warum* dieser Mechanismus emotional funktioniert. Ökonomische Diagnose und Gefühlsstruktur ergänzen sich.
 - [[Denker/Erich Fromm — Psychoanalyse des Faschismus]] — Das Fromm-Zitat „Destruktivität ist das Ergebnis ungelebten Lebens" ist das theoretische Fundament der ganzen Note: Amlinger/Nachtwey operationalisieren es soziologisch, indem sie zeigen, *welche* gesellschaftlichen Strukturen das Leben blockieren und welche drei Typen aus diesem Blockieren hervorgehen. Fromm liefert die Tiefenpsychologie, A/N die Gegenwartssoziolgie.
 - [[Denker/Eva von Redecker — Dieser Drang nach Härte]] — Redecker und Amlinger/Nachtwey beschreiben dasselbe Phänomen aus verschiedenen Theorieachsen: Redecker erklärt den „Drang nach Härte" als Phantombesitz-Verteidigung (nie gesicherter Herrschaftsanspruch), A/N als Zerstörungslust als emotionale Infrastruktur (Lust am Zerstören als Selbstzweck). Redeckers Frage ist „Was wurde beansprucht?", A/Ns Frage ist „Was fühlt sich dabei an?" — produktive Ergänzung.

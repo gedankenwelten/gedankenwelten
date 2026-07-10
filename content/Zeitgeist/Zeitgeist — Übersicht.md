@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*253 Notes — automatisch generiert · nach Thema sortiert*
+*255 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -142,6 +142,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland|phoenixRunde — Arm und Reich in Deutschland]]
 - [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel|phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 - [[Zeitgeist/rabbit hole — Ungarn-Wahl KI-Wahlkampf|rabbit hole — Ungarn-Wahl: Wird Politik zum KI-Albtraum?]]
+- [[Zeitgeist/republica26 — Wie gelingt die Energiewende|re:publica 26 — Wie gelingt die Energiewende? Und was bedeutet sie für unsere Demokratie?]] — Die Meinungsforscherin und der Netzbetreiber: Was die Deutschen mit der Energiewende verbinden — und warum Versorgungssicherheit das neue Wort für Freiheit ist.
 - [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland|rp26 — Stresstest für die Demokratie: Sind wir bereit für den Ernstfall in Ostdeutschland?]]
 - [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]] — Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter an der ukrainischen Front, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
 - [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
@@ -237,6 +238,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]] — Digitale Souveränität ist nicht Abschottung, sondern das Recht, die Systeme mitzugestalten, die uns gestalten — und Afrika wartet nicht länger auf eine Einladung in die Zukunft.
 - [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (5▸6) Alle Industrieländer setzen auf Kernenergie|Mario Buchinger — Lügen der Kernenergie (5/6): Alle Industrieländer setzen auf Kernenergie]]
 - [[Zeitgeist/Martin Sonneborn — Endloser Krieg|Martin Sonneborn — Endloser Krieg]]
+- [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus|Michael Sterner — Energiewende ist gelebter Patriotismus]] — Ein Energieprofessor erobert ein Wort zurück: Wer sein Land liebt, macht es unabhängig — von Öl, Gas und den Kriegen, die an ihnen hängen.
 - [[Zeitgeist/MONITOR — Abschiebungen vs. Fachkräfte|MONITOR — Abschiebungen vs. Fachkräfte]]
 - [[Zeitgeist/MONITOR — Fleischindustrie Menschen als Ware|MONITOR — Wie die Fleischindustrie Menschen zur Ware macht]]
 - [[Zeitgeist/Norio — Kupferschiefer-Mine in der Lausitz|Norio — Vergessener DDR-Schatz: Neue Giga-Mine rettet Deutschlands Industrie?]]

@@ -138,6 +138,10 @@ Bemerkenswert ist, wie offen das passiert: Trump lehnt öffentlich einen Komprom
 
 ## Verbindungen
 
+### → [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
+
+Was die Zahlen-Logik im Extremfall kostet: Ein Bauarbeiter stirbt bei einem riskanten Fahrzeugstopp, weil sein Van dem falschen Van ähnelte — Zugriffszahlen als Währung, Menschenleben als Restrisiko.
+
 ### → [[Koshi Politik — DHS-Shutdown: Keine Einigung]]
 Direkte Vorgeschichte: derselbe Shutdown, derselbe Kongress-Patt, dieselbe ICE-Finanzierungsfrage — diese Note fügt die strategische Dimension hinzu (Save America Act als eigentliches Ziel).
 

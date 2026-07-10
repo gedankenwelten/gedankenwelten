@@ -9,10 +9,10 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 70%
+konfidenz: 72%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-07-06
+aktualisiert: 2026-07-10
 description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung."
 ---
 
@@ -54,6 +54,36 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 **Kalt, wenn:** Politikwechsel beendet das Thema ohne neue Daten.
 
 ## Verlauf
+
+### 2026-07-10 — Der Fall Lorenzo Salgado: das dritte „Fahrzeug als Waffe" (Konfidenz 70 % → 72 %)
+
+**Befund:** Am 7.7.2026 erschoss ein ICE-Agent in Houston den Bauarbeiter **Lorenzo Salgado Araujo**
+(52, seit ~35 Jahren in den USA, keine Vorstrafen, laufendes U-Visa-Verfahren kurz vor der
+Arbeitserlaubnis). DHS erklärte binnen Stunden, er habe sein Fahrzeug „als Waffe" eingesetzt —
+Notwehr. Es ist die **dritte identische Begründung binnen sechs Monaten** nach Renée Good (7.1.,
+Minneapolis, US-Bürgerin) und Alex Pretti (24.1., Minneapolis, US-Bürger), jeweils gegen Video-/
+Zeugenlage. Belastende Details: Schuss in die *rechte* Bauchseite (schwer vereinbar mit
+„frontal überfahren"), **keine Bodycams** im Einsatz, kein offizielles Video veröffentlicht, ein
+unabhängiger Analyst liest aus der Überwachungskamera eher ein Rammen *durch* den ICE-SUV; laut
+CNN/NYT war Salgado **nicht einmal das Ziel** (Van-Verwechslung mit zwei Gesuchten), die Familie
+erfuhr vom Tod über Social Media. Harris County ME: Homizid. → Fall-Note:
+[[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
+
+**Deutung:** Die „Notwehr-Formel vor jeder Untersuchung" verfestigt sich zum kommunikativen
+Standardrepertoire — sie ist inzwischen als Muster *vorhersagbar*, was die These stützt, dass der
+Apparat auf Deutungshoheit statt Wahrheitsfindung optimiert. Neu gegenüber den bisherigen Einträgen:
+Das Eskalationsrisiko trifft über Fahrzeug-Verwechslungen jetzt nachweislich *Beliebige* — die
+Grenze „gilt ja nur Illegalen" existiert operativ nicht (Good und Pretti waren Bürger, Salgado der
+falsche Van). Konfidenz nur +2: Der Fall bestätigt Richtung und Muster, fügt aber der Kernthese
+(Eskalation bei sinkender Aufmerksamkeit) keinen neuen Mechanismus hinzu.
+
+**Gegenbeobachtung (Pflicht):** Dieser Fall ist gerade **nicht unsichtbar** — großer Aufschrei in
+Houston, CNN/NYT/NBC berichten prominent, Mexiko reagiert diplomatisch, und es ermitteln *drei*
+Instanzen (DHS-OIG, FBI Houston, Harris County DA — letztere unabhängig vom Bund). Der
+„Schatten der Aufmerksamkeit"-Teil der These wird durch diesen Fall also eher geschwächt: Tote
+erzeugen weiterhin Sichtbarkeit. Offen bleibt, ob die Sichtbarkeit *Konsequenzen* erzeugt — bei
+Good und Pretti tat sie es bislang nicht. Zudem: Die Notwehr-Frage ist ehrlich ungeklärt (der
+Analyst selbst sagt, das Video reiche nicht für ein Urteil).
 
 ### 2026-07-06 — Erster Sweep: die neue Normalität (Konfidenz 60 % → 70 %)
 
@@ -113,6 +143,11 @@ Council, Al Jazeera) sind advocacy-gefärbt.
 >   nicht nur aus Advocacy-Quellen. Der Wachpunkt hat gegriffen: Die verlängerte Consent-Decree-Bremse
 >   steht im Verlauf so prominent wie die „Decree ist tot"-Mail. Nur +10 statt mehr, *weil* die Justiz
 >   im Einzelfall wirksam bleibt.
+> - **10.07.2026:** Ein toter Familienvater erzeugt starken Bestätigungs-Sog — genau deshalb nur +2 und
+>   die ehrliche Notiz, dass dieser Fall dem „Unsichtbarkeits"-Teil der These *widerspricht* (er ist
+>   überall in den Schlagzeilen). Nicht dem Impuls nachgegeben, die laufende Notwehr-Frage vorab zu
+>   entscheiden — sie bleibt offen, bis OIG/DA liefern. Wachpunkt: Wenn die Untersuchungen den Agenten
+>   entlasten, gehört das hier so prominent hin wie der Befund.
 
 ## Verbindungen
 
@@ -142,6 +177,13 @@ Das ideologische Fundament, auf dem der Vollzug ruht.
 - [NPR — Deaths of migrants in ICE custody hit record high under Trump (17.04.2026)](https://www.npr.org/2026/04/17/nx-s1-5789092/deaths-of-migrants-in-ice-custody-hit-record-high-under-trump)
 - [Capitol News Illinois — Court scrutiny of ICE mounts as judge rules warrantless arrests violated order](https://capitolnewsillinois.com/news/court-scrutiny-of-ice-mounts-as-judge-rules-warrantless-arrests-violated-order/)
 - [National Immigrant Justice Center — Federal Judge Extends Consent Decree Prohibiting ICE From Arresting People Without Warrants or Probable Cause](https://immigrantjustice.org/press-release/federal-judge-extends-consent-decree-prohibiting-ice-from-arresting-people-without-warrants-or-probable-cause/)
+
+*Eintrag 10.07.2026 (Fall Salgado):*
+
+- [CNN — Mexican man fatally shot by ICE was not the target of Houston operation](https://www.cnn.com/2026/07/09/us/lorenzo-salgado-araujo-houston-ice-shooting)
+- [KPRC/Click2Houston — New video, expert analysis raise new questions](https://www.click2houston.com/news/local/2026/07/10/new-video-expert-analysis-raise-new-questions-in-deadly-ice-shooting-of-lorenzo-salgado-araujo/)
+- [NBC News — ICE officers in fatal Houston shooting not wearing bodycams](https://www.nbcnews.com/news/us-news/ice-officers-fatal-houston-shooting-not-wearing-bodycams-rcna353690)
+- [Wikipedia — Killing of Renée Good](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good) · [Killing of Alex Pretti](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti)
 
 
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
