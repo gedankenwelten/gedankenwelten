@@ -6,6 +6,26 @@ tags:
   - links
 ---
 
+## Michael Sterner — Energiewende ist gelebter Patriotismus (Energiewende Erlangen, 2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Energiewende ist gelebter Patriotismus — Klartext zur Energiepolitik](https://www.youtube.com/watch?v=vJclquxvZ8g) |
+| **Notiz** | [[Michael Sterner — Energiewende ist gelebter Patriotismus]] |
+| **DenkerVita** | [[DenkerVita/Michael Sterner]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Sterner_Energiewende_Patriotismus_Transkript.txt` |
+| **Podiumsdiskussion (komplett)** | [Verein Energiewende Erlangen](https://youtu.be/41WesUSev0w) |
+
+## re:publica 26 — Wie gelingt die Energiewende? (Mütze / Müller, 2026)
+
+| | |
+|---|---|
+| **Panel / Video** | [re:publica 26: Wie gelingt die Energiewende? Und was bedeutet sie für unsere Demokratie?](https://www.youtube.com/watch?v=K9vA6BmS-RM) (CC BY-SA 4.0) |
+| **Notiz** | [[republica26 — Wie gelingt die Energiewende]] |
+| **DenkerVitas** | [[DenkerVita/Janina Muetze]] · [[DenkerVita/Christoph Mueller]] |
+| **Transkript** | `Gedankenwelten/Transkripte/rp26_Energiewende_Demokratie_Transkript.txt` |
+| **Medienstudie** | [Jost/Mack/Hillje: „Aufgeheizte Debatte?" (Das Progressive Zentrum, 2024)](https://www.progressives-zentrum.org/publication/heizungsgesetz-2024-aufgeheizte-debatte/) |
+
 ## Heizungshammer — BILD-Framing & das Gebäudeenergiegesetz (Volksverpetzer / Oxford-Studie, 2026)
 
 | | |

@@ -212,6 +212,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Christoph Möllers
 **Status:** ✓ Vollanalyse → [[DenkerVita/Christoph Moellers]]
 
+## Christoph Müller
+**Status:** ✓ Vollanalyse → [[DenkerVita/Christoph Mueller]]
+
 ## Clara Mattei
 **Status:** ✓ Vollanalyse → [[DenkerVita/Clara Mattei]]
 
@@ -373,6 +376,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Jan-Keno Janssen
 **Status:** ✓ Vollanalyse → [[DenkerVita/Jan-Keno Janssen]]
+
+## Janina Mütze
+**Status:** ✓ Vollanalyse → [[DenkerVita/Janina Muetze]]
 
 
 ## Jean-François Lyotard

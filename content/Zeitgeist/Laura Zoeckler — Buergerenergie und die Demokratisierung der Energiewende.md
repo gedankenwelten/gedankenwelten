@@ -154,6 +154,10 @@ Die HEG setzt auf **Quartiersversorgung**: Solar + Speicher + E-Ladesäulen als 
 
 ## Verbindungen
 
+### → [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]
+
+Amprion-Chef Müller bestätigt die Demokratisierung als vollzogenes Faktum: 5 Millionen Stromproduzenten, das alte Oligopol aufgelöst. Zöcklers Vision von der anderen Seite — mit derselben offenen Frage, ob eine vor allem für Hausbesitzer zugängliche Teilhabe schon Demokratisierung ist.
+
 ### → [[Follow This — Die grüne Horzel in Big Oil]]
 
 Zwei Seiten derselben Medaille: Follow This demokratisiert die Konzern-Governance (Stimmrechte gegen das Management), Bürgerenergie demokratisiert die Erzeugung (Genossenschaften statt Konzerne). Beide nutzen kapitalistische Strukturen für die Transformation.

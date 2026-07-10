@@ -198,6 +198,10 @@ Söder hat einen Begriff richtig verwendet: "Realität". Nur ist die Realität n
 
 ## Verbindungen
 
+### → [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus]]
+
+Dieselbe Umkehrung der Rahmung — nicht die Erneuerbaren sind der „Traum“, die fossile Strategie ist der Albtraum; hier positiv als Patriotismus besetzt.
+
 ### → [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade|Sterner — Energiewende-Studie und Reiche-Blockade]]
 
 Direkte Vorläufer-Note: Sterner deckt auf, wie das BMWK eine eigene Studie zur regionalen Wertschöpfung durch Erneuerbare nicht kommuniziert — dasselbe Muster von politischem Verschweigen unbequemer Fakten, das auch diese Note adressiert.

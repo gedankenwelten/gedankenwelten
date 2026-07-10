@@ -186,6 +186,10 @@ Zusammen mit der [[Michael Sterner — Energiewende-Studie und Reiche-Blockade|e
 
 ## Verbindungen
 
+### → [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus]]
+
+Derselbe „Technologieoffenheit = Auswahl“-Vorwurf, hier auf das Kraftwerksgesetz gemünzt und in einen Sicherheits- und Patriotismus-Rahmen gestellt.
+
 ### → [[Michael Sterner — Energiewende-Studie und Reiche-Blockade]]
 
 Direkter Vorgänger — Teil 1 der Sterner-Analyse. Die erste Note liefert die Bestandsaufnahme: verschwiegene BMWK-Studie, vier Gesetze, vier Blockaden. Diese Note liefert die juristische Tiefe: drei konkrete Paragraphen des StromVKG, die Batterien aussperren, plus zwei Technologie-Alternativen (CO2-Batterie, Eisen-Luft), die bei echtem Wettbewerb konkurrieren könnten.

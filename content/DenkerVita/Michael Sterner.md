@@ -48,6 +48,7 @@ Sein YouTube-Kanal ist mittlerweile eine der wenigen Stimmen, die Energiepolitik
 
 - [Warum kommuniziert das Ministerium diese Ergebnisse nicht?](https://www.youtube.com/watch?v=fSC6jE34If0) — Verschwiegene BMWK-Studie + Reiche-Schlucht Update (2026)
 - [Ministerin gegen Marktwirtschaft? Reiche schränkt Wettbewerb ein](https://www.youtube.com/watch?v=pyGt0Inl3TM) — StromVKG-Analyse: Drei Paragraphen gegen Batteriespeicher + CO2-Batterie und Eisen-Luft-Speicher als Alternativen (2026)
+- [Energiewende ist gelebter Patriotismus — Klartext zur Energiepolitik](https://www.youtube.com/watch?v=vJclquxvZ8g) — Impuls zur Podiumsdiskussion des Vereins Energiewende Erlangen: fossile Abhängigkeit als Sicherheitsrisiko, Rückeroberung des Patriotismus-Begriffs (2026)
 
 ---
 
@@ -77,3 +78,5 @@ Sterner ist parteilos und positioniert sich als wissenschaftlicher Pragmatiker. 
 
 - [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade|Energiewende-Studie und Reiche-Blockade]]
 - [[Zeitgeist/Michael Sterner — Reiche gegen Marktwirtschaft|Reiche gegen Marktwirtschaft]]
+- [[Zeitgeist/Michael Sterner — Soeders Energie-Irrtum Faktencheck|Söders Energie-Irrtum: Faktencheck]]
+- [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus|Energiewende ist gelebter Patriotismus]]

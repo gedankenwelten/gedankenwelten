@@ -417,3 +417,11 @@ Externe Studien und Primärquellen, auf die sich dieses Panorama stützt — ins
 
 - [Fraunhofer ISE — Studie Stromgestehungskosten Erneuerbare Energien](https://www.ise.fraunhofer.de/de/veroeffentlichungen/studien/studie-stromgestehungskosten-erneuerbare-energien.html) — PV/Wind 4–9 ct/kWh vs. neue Kernkraft als eine der teuersten Erzeugungsformen
 - [World Nuclear Industry Status Report](https://www.worldnuclearreport.org/) — unabhängiges jährliches Monitoring; Kostenexplosionen Olkiluoto, Flamanville, Hinkley Point
+
+---
+
+## Verbindungen
+
+### → [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]
+
+Das Innenbild: gemessene Zuverlässigkeit (15 Min. Ausfall/Jahr) gegen gefühlte Verwundbarkeit (76 % Angst vor Infrastruktur-Angriffen), das Zieldreieck aus Klimaneutralität, Bezahlbarkeit und Versorgungssicherheit als nüchterne Landkarte.

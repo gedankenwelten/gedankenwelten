@@ -160,6 +160,10 @@ Aufgabe der Linken: Gesellschaftliche Mehrheiten (gegen den Krieg, für Marktein
 
 ## Verbindungen
 
+### → [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]
+
+Netzbetreiber Müller korrigiert dieselbe Preisdebatte von der Sachseite: Der Strompreisanstieg gehe im Kern auf den russischen Überfall zurück, nicht auf die Energiewende. Beide landen bei der Verteilungsfrage — die Sorge vor finanziellem Abstieg entscheidet, wen die Wende noch erreicht.
+
 ### → [[Zeitgeist/Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
 Direkter thematischer Zwilling: Quaschning analysiert dieselbe Energiepreiskrise aus wissenschaftlicher Perspektive — Ölmarktmechanismen, Konzernmargen, politische Scheinlösungen. Schwerdtner liefert die politische Handlungsdimension. Zusammen ergibt sich ein vollständiges Bild.
 

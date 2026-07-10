@@ -150,6 +150,10 @@ Sterners Ansage an den Bayerischen Energiebeirat fasst die Lage zusammen: Reiche
 
 ## Verbindungen
 
+### → [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus]]
+
+Der „letzter Patriot im Land“-Frame ausgebaut zur Haltung; auch hier die Forderung nach vorgeschalteter wissenschaftlicher Gesetzesprüfung.
+
 ### → [[Presseclub — Reiches Energiewende]]
 
 Direkte thematische Überlappung — eine Woche Abstand. Der Presseclub diskutierte dieselben Reiche-Reformen (EEG, Netzpaket, Kraftwerksstrategie) aus journalistischer Perspektive. Sterner liefert die Innensicht des Wissenschaftlers, der persönlich von Reiches Zensur betroffen ist. Besonders die Kritik an der selektiven „Technologieoffenheit" (Heizung ja, Kraftwerke nein) findet sich in beiden Quellen.
