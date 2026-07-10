@@ -179,6 +179,10 @@ Anschluss für Oettings Gegenentwurf: Dörres „autoritärer Liberalismus" bene
 
 Konkreter Fall: Quaschning zeigt am Spritpreis den Streetlight-Effekt — die unbequeme Wahrheit (globaler Ölmarkt) gegen die populäre Halbwahrheit (jemand zockt uns ab). Genau die Wahrheit-sagen-statt-mischen-Entscheidung an einem einzelnen Politikfeld.
 
+### → [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]]
+
+Der empirische Beleg für Oettings These, dass die Lüge durch besseres *Marketing* gewinnt: Eine Oxford-Studie zählt aus, wie ein erfundenes Wort ein Gesetz kippte — Desinformation siegt nicht durch Wahrheit, sondern durch emotionales Story-Telling.
+
 ---
 
 ## Weiterdenken
