@@ -7,6 +7,7 @@ import Darkmode from "./Darkmode"
 import ReaderMode from "./ReaderMode"
 import RandomNote from "./RandomNote"
 import RssLink from "./RssLink"
+import FeedShare from "./FeedShare"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
@@ -43,6 +44,7 @@ export {
   ReaderMode,
   RandomNote,
   RssLink,
+  FeedShare,
   Head,
   PageTitle,
   ContentMeta,
