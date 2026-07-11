@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*255 Notes — automatisch generiert · nach Thema sortiert*
+*256 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -179,6 +179,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)|Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
 - [[Zeitgeist/Florian Homm - Ich war eine Leistungsmaschine|Florian Homm — Ich war eine Leistungsmaschine]]
 - [[Zeitgeist/Gerdes — Ukraine Zelensky wird staerker|Gerdes — Ukraine: Zelensky wird stärker]]
+- [[Zeitgeist/Koschi Politik — ICE erschiesst Lorenzo Salgado|ICE erschießt Lorenzo Salgado — ein Tod auf dem Weg zur Arbeit]] — 35 Jahre in Houston, drei Söhne durchs College, ein laufendes Visa-Verfahren — dann ein unmarkierter SUV, Schüsse, und ein Sohn, der den Vater in einem Facebook-Video sterben hört.
 - [[Zeitgeist/Konstantin Flemig — US-Seeblockade gegen Iran|Konstantin Flemig — US-Seeblockade gegen Iran]]
 - [[Zeitgeist/Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken|Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]]
 - [[Zeitgeist/Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ|Koschi Politik — Epstein: Leon Black und das Urteil gegen das DOJ]] — Zwei Risse an einem Tag: Ein Gericht erklärt das Schweigen des Justizministers für Gesetzesbruch, ein Milliardär flieht aus der Anhörung — und ein Iran-Schlag schiebt sich davor.

@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **11.07.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
+
+> **11.07.** — [[Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger|Helen Keller — Völkerrecht: Ein zahnloser Tiger?]]
+
 > **10.07.** — [[Zeitgeist/republica26 — Wie gelingt die Energiewende|re:publica 26 — Wie gelingt die Energiewende? Und was bedeutet sie für unsere Demokratie?]]
 >
 > Die Meinungsforscherin und der Netzbetreiber: Was die Deutschen mit der Energiewende verbinden — und warum Versorgungssicherheit das neue Wort für Freiheit ist.
@@ -36,15 +40,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Energieprofessor erobert ein Wort zurück: Wer sein Land liebt, macht es unabhängig — von Öl, Gas und den Kriegen, die an ihnen hängen.
 
-> **09.07.** — [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte|Der Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]]
->
-> Eine Oxford-Studie zählt nach, wie die BILD mit einem erfundenen Wort ein Gesetz zerlegte — und wie tausend seriöse Medien es nachdruckten. Eine Schande für den Journalismus.
-
-> **05.07.** — [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
->
-> Von Ayn Rand über René Girard zu Curtis Yarvin: die Ideengeschichte hinter der Allianz von Silicon Valley und Trump — und warum sie auf das Ende der Demokratie zielt.
-
-> → *6 weitere in* [[Zeitgeist]]
+> → *4 weitere in* [[Zeitgeist]]
 
 ### Spuren
 
@@ -86,7 +82,7 @@ Die Gedankenwelten (luc)
 >
 > Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
 
-> → *6 weitere in* [[Denker]]
+> → *5 weitere in* [[Denker]]
 
 ### Panorama
 
