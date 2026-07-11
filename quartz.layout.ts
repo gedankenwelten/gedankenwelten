@@ -40,6 +40,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.Banner(),
     Component.TagList(),
+    // Interaktive Feed-Liste (Teilen/Kopieren) — nur auf der /Feeds-Seite.
+    Component.ConditionalRender({
+      component: Component.FeedShare(),
+      condition: (page) => page.fileData.slug === "Feeds",
+    }),
     // Graph NUR auf der dedizierten /graph-Ansicht rendern. Auf normalen Notes
     // startete der Graph sonst eine dauerhafte PIXI/WebGL-Render-Schleife und lud
     // den 7,4-MB-contentIndex eager — das ließ iOS-Safari den Tab abschießen.
