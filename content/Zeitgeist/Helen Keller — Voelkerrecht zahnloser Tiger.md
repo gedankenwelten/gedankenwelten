@@ -17,6 +17,16 @@ aliases:
 
 # Helen Keller — Völkerrecht: Ein zahnloser Tiger?
 
+![[assets/Helen-Keller-Voelkerrecht-zahnloser-Tiger-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Henri Rousseau** — naive Dschungelmalerei, flächiges Blattwerk, satte Grün- und Ockertöne. Rousseaus Tiger brüllen nie und sind doch unübersehbar präsent — genau Kellers Völkerrecht: Es muss kein Gebiss zeigen, um zu wirken. Die Waage hängt perfekt im Lot im Geäst, die Handelsschiffe mit Tee- und Bananenkisten am Horizont sind ihr „Tee-Beispiel": das Recht, das still den Alltag trägt.
+
+*Prompt:* Naive art in the style of Henri Rousseau, flat stylized jungle painting. A calm powerful tiger stands watchful among dense oversized dark-green jungle leaves and exotic flowers, mouth closed, alert golden eyes. Behind the foliage a pale sea horizon with small cargo ships and sailing vessels carrying crates of tea and bananas. From one thick branch hangs a golden balance scale, perfectly level. Full moon in a dusky blue-green sky. Rich greens, deep blues, warm ochre tiger stripes. Wide panoramic banner composition, dreamlike stillness, no text, no photorealism.
+
+</details>
+
 Quelle: [Das Völkerrecht – ein zahnloser Tiger? | Sternstunde Philosophie | SRF Kultur](https://www.youtube.com/watch?v=6tkqelfT218)
 
 > [!info] Wer spricht?
