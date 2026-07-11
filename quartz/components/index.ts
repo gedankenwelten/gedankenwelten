@@ -27,8 +27,10 @@ import ConditionalRender from "./ConditionalRender"
 import Banner from "./Banner"
 import MobileFeed from "./MobileFeed"
 import DesktopFeed from "./DesktopFeed"
+import RssPanel from "./RssPanel"
 
 export {
+  RssPanel,
   ArticleTitle,
   Banner,
   MobileFeed,
