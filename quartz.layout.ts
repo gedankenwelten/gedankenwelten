@@ -80,7 +80,16 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
+    // Startseite: TOC würde nur die Journal-Überschriften zeigen → stattdessen
+    // das RSS-Panel (Haupt-Feed + Rubrik-Feeds). Auf Notes bleibt das TOC.
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.RssPanel()),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
     Component.Backlinks(),
   ],
 }
