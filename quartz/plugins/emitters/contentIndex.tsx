@@ -28,6 +28,10 @@ interface Options {
   rssFullHtml: boolean
   rssSlug: string
   includeEmptyFiles: boolean
+  // Rubrik-Ordner, deren Notes den Haupt-Feed bilden UND je einen eigenen
+  // Feed unter <Ordner>/index.xml bekommen. Meta-Seiten (Startseite, Indizes,
+  // Impressum, Quellen & Links …) bleiben so automatisch draußen.
+  feedFolders?: string[]
 }
 
 const defaultOptions: Options = {
@@ -51,7 +55,12 @@ function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string
   return `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${urls}</urlset>`
 }
 
-function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndexMap, limit?: number): string {
+function generateRSSFeed(
+  cfg: GlobalConfiguration,
+  idx: ContentIndexMap,
+  limit?: number,
+  channel?: { title: string; link: string; description: string },
+): string {
   const base = cfg.baseUrl ?? ""
 
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<item>
@@ -78,14 +87,19 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndexMap, limit?:
     .slice(0, limit ?? idx.size)
     .join("")
 
+  const title = channel?.title ?? cfg.pageTitle
+  const link = channel?.link ?? `https://${base}`
+  const description =
+    channel?.description ??
+    `${!!limit ? i18n(cfg.locale).pages.rss.lastFewNotes({ count: limit }) : i18n(cfg.locale).pages.rss.recentNotes} on ${cfg.pageTitle}`
+
   return `<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>${escapeHTML(cfg.pageTitle)}</title>
-      <link>https://${base}</link>
-      <description>${!!limit ? i18n(cfg.locale).pages.rss.lastFewNotes({ count: limit }) : i18n(cfg.locale).pages.rss.recentNotes} on ${escapeHTML(
-        cfg.pageTitle,
-      )}</description>
+      <title>${escapeHTML(title)}</title>
+      <link>${link}</link>
+      <description>${escapeHTML(description)}</description>
+      <language>${cfg.locale}</language>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       ${items}
     </channel>
@@ -129,12 +143,43 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       }
 
       if (opts?.enableRSS) {
+        // Ohne feedFolders: Original-Verhalten (alle Seiten). Mit feedFolders:
+        // nur echte Rubrik-Notes — keine Startseite, keine Indizes, kein Impressum.
+        const feedFolders = opts?.feedFolders
+        const isNote = (slug: FullSlug) =>
+          !feedFolders ||
+          feedFolders.some((f) => slug.startsWith(`${f}/`) && !slug.endsWith("/index"))
+
+        const mainIndex: ContentIndexMap = feedFolders
+          ? new Map(Array.from(linkIndex).filter(([slug]) => isNote(slug)))
+          : linkIndex
+
         yield write({
           ctx,
-          content: generateRSSFeed(cfg, linkIndex, opts.rssLimit),
+          content: generateRSSFeed(cfg, mainIndex, opts.rssLimit),
           slug: (opts?.rssSlug ?? "index") as FullSlug,
           ext: ".xml",
         })
+
+        // Je Rubrik ein eigener Feed unter <Rubrik>/index.xml
+        for (const folder of feedFolders ?? []) {
+          const folderIndex: ContentIndexMap = new Map(
+            Array.from(linkIndex).filter(
+              ([slug]) => slug.startsWith(`${folder}/`) && !slug.endsWith("/index"),
+            ),
+          )
+          if (folderIndex.size === 0) continue
+          yield write({
+            ctx,
+            content: generateRSSFeed(cfg, folderIndex, opts.rssLimit, {
+              title: `${cfg.pageTitle} — ${folder}`,
+              link: `https://${cfg.baseUrl}/${folder}`,
+              description: `Neue Notes aus der Rubrik ${folder} auf ${cfg.pageTitle}`,
+            }),
+            slug: joinSegments(folder, "index") as FullSlug,
+            ext: ".xml",
+          })
+        }
       }
 
       const fp = joinSegments("static", "contentIndex") as FullSlug

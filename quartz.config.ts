@@ -86,6 +86,21 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssLimit: 30,
+        // Haupt-Feed = nur echte Notes dieser Rubriken; jede bekommt zusätzlich
+        // einen eigenen Feed unter /<Rubrik>/index.xml
+        feedFolders: [
+          "Zeitgeist",
+          "Denker",
+          "DenkerVita",
+          "Geistesblitz",
+          "Kultur",
+          "Gedanken",
+          "Panorama",
+          "Spuren",
+          "GoodNews",
+          "Vipassana",
+        ],
       }),
       Plugin.Assets(),
       Plugin.Static(),

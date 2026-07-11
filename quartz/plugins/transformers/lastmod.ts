@@ -129,9 +129,14 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 created ||= st.birthtimeMs
                 modified ||= st.mtimeMs
               } else if (source === "frontmatter" && file.data.frontmatter) {
-                created ||= file.data.frontmatter.created as MaybeDate
-                modified ||= file.data.frontmatter.modified as MaybeDate
-                published ||= file.data.frontmatter.published as MaybeDate
+                // Cortex-Notes pflegen deutsche Keys: erstellt/aktualisiert.
+                // aktualisiert: = letzte INHALTLICHE Änderung (nicht der Sync-Commit) —
+                // dieselbe Quelle wie das Startseiten-Journal, damit Feed & Journal
+                // dieselbe Reihenfolge sprechen.
+                const fm = file.data.frontmatter as Record<string, unknown>
+                created ||= (fm.erstellt ?? fm.created) as MaybeDate
+                modified ||= (fm.aktualisiert ?? fm.modified) as MaybeDate
+                published ||= fm.published as MaybeDate
               } else if (source === "git" && repo) {
                 try {
                   const relativePath = path.relative(repositoryWorkdir, fullFp)

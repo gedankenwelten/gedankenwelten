@@ -11,6 +11,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Impressum: "/Impressum",
       Graph: "/graph",
+      RSS: "/Feeds",
       GitHub: "https://github.com/gedankenwelten/gedankenwelten",
     },
   }),
