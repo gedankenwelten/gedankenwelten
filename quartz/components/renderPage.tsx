@@ -23,6 +23,13 @@ interface RenderComponents {
 }
 
 const headerRegex = new RegExp(/h[1-6]/)
+
+// Build-Stempel als Cache-Buster für index.css/pre-/postscript.js: Das HTML ist
+// no-cache, die Assets cached Cloudflare aber 4h — ohne ?v= hinkte das CSS nach
+// jedem Deploy hinterher (Purge braucht ein Dashboard-Token, das wir nicht haben).
+// Ein Stempel pro Build-Prozess reicht: neue Version → neue URL → frischer Cache.
+const BUILD_STAMP = Date.now().toString(36)
+
 export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
@@ -33,13 +40,13 @@ export function pageResources(
   const resources: StaticResources = {
     css: [
       {
-        content: joinSegments(baseDir, "index.css"),
+        content: `${joinSegments(baseDir, "index.css")}?v=${BUILD_STAMP}`,
       },
       ...staticResources.css,
     ],
     js: [
       {
-        src: joinSegments(baseDir, "prescript.js"),
+        src: `${joinSegments(baseDir, "prescript.js")}?v=${BUILD_STAMP}`,
         loadTime: "beforeDOMReady",
         contentType: "external",
       },
@@ -55,7 +62,7 @@ export function pageResources(
   }
 
   resources.js.push({
-    src: joinSegments(baseDir, "postscript.js"),
+    src: `${joinSegments(baseDir, "postscript.js")}?v=${BUILD_STAMP}`,
     loadTime: "afterDOMReady",
     moduleType: "module",
     contentType: "external",
