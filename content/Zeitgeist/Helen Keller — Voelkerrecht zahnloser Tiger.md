@@ -1,6 +1,6 @@
 ---
 title: "Helen Keller — Völkerrecht: Ein zahnloser Tiger?"
-aktualisiert: 2026-04-22
+aktualisiert: 2026-07-11
 date: 2026-04-19
 tags:
   - zeitgeist
