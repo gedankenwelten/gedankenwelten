@@ -1,7 +1,7 @@
 ---
 title: "Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)"
 date: 2026-04-05
-aktualisiert: 2026-04-05
+aktualisiert: 2026-07-12
 tags:
   - denker
   - soziologie
@@ -189,6 +189,7 @@ Der Tiefpunkt: Südkorea, mit dem krassesten Gender Gap, hat eine Geburtenrate v
 
 ## Verbindungen
 
+- [[Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung]] — dieselbe Tischmetapher, angewandt auf Mädchen statt auf Kinder als demografische Minderheit: Malalas „Raum schaffen für Frauen an jenen Tischen, an denen über ihre Zukunft entschieden wird" ist El-Mafaalanis Mechanismus der Unsichtbarkeit — wer keine Stimme im Raum hat, dessen Anliegen „flutscht durch". Malala zeigt die Budget-Logik konkret (Mädchenbildung wird in der Krise stillschweigend gestrichen), El-Mafaalani die strukturelle Theorie dahinter
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — derselbe Denker, zwei Bücher: dort Vertrauen/Misstrauen als politische Kraft, hier Demografie/Kindheit als blinder Fleck der Demokratie; beide Bücher erschienen 2025, beide diagnostizieren strukturelle Demokratieschwächen
 - [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas Entfremdungsdiagnose findet ihren sozialen Ort hier: Kinder ohne physische Räume, in digitale Welten gedrängt, ohne verlässliche gesellschaftliche Institutionen — das ist Entfremdung nicht als philosophisches Konzept, sondern als empirisch messbare Lebensbedingung
 - [[Manfred Spitzer — KI, Gehirn und Lernen]] — Spitzer und El-Mafaalani kommen aus verschiedenen Richtungen zum selben Befund: Smartphones sind nicht das Problem, sondern Symptom — El-Mafaalani: fehlende analoge Räume zwingen Kinder in den digitalen Raum; Spitzer: digitale Dauerreizung verändert Hirnentwicklung

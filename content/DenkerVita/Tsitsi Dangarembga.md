@@ -1,7 +1,7 @@
 ---
 title: Tsitsi Dangarembga — DenkerVita
 date: 2026-07-02
-aktualisiert: 2026-07-02
+aktualisiert: 2026-07-12
 tags: [denker-vita, feminismus, postkolonialismus, simbabwe, literatur]
 ---
 

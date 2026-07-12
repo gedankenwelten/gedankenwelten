@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung (TED, 2020)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [An optimistic look at the future of girls' education — Malala Yousafzai (TED)](https://www.youtube.com/watch?v=T00TZkOMLZc) |
+| **Notiz** | [[Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung]] |
+| **DenkerVita** | [[DenkerVita/Malala Yousafzai]] |
+| **Fund via** | /kairos (Malala Day) + /sepia (PeerTube-Mirror, diler.tube) |
+| **Transkript** | `Gedankenwelten/Transkripte/Malala_Girls_Education_TED_Transkript.txt` |
+
 ## Koschi Politik — ICE erschießt Lorenzo Salgado (2026)
 
 | | |

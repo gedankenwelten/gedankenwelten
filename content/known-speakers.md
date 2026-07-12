@@ -290,6 +290,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Francesca Bria
 **Status:** ✓ Vollanalyse → [[DenkerVita/Francesca Bria]]
 
+## Malala Yousafzai
+**Status:** ✓ Vollanalyse → [[DenkerVita/Malala Yousafzai]]
+
 ## Maximilian Fichtner
 **Status:** ✓ Vollanalyse → [[DenkerVita/Maximilian Fichtner]]
 

@@ -22,6 +22,28 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **12.07.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
+
+> **12.07.** — [[Denker/Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung|Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung]]
+>
+> Eine junge Frau, die den Weg vom Schulverbot zum Nobelpreis ging, über Bildung als Emanzipation, Hoffnung als Methode und die einzige Niederlage, die zählt: am eigenen Wert zu zweifeln.
+
+> **09.07.** — [[Denker/Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts|Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
+>
+> Eine Physikerin liest die Welt vom Samenkorn her — und zeigt, wie eine Ökonomie, die das Lebendige für tot erklärt, am Ende die Erde selbst enteignet.
+
+> **09.07.** — [[Denker/Jok Madut Jok — Elitenpakt ist kein Frieden|Jok Madut Jok — Ein Elitenpakt ist kein Frieden]]
+>
+> Der jüngste Staat der Erde, fünfzehn Jahre alt und wieder im Krieg — ein Anthropologe erklärt von innen, warum ein Abkommen die Waffen verstummen lassen kann, ohne je Frieden zu schaffen.
+
+> **07.07.** — [[Denker/Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
+>
+> Nach 40 Jahren kehrt Han an die Universität zurück, aus der er einst floh — und erklärt, warum Glück Handarbeit ist und der streichelnde Daumen es zerstört.
+
+> → *6 weitere in* [[Denker]]
+
 ### Zeitgeist
 
 > **11.07.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
@@ -40,7 +62,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Energieprofessor erobert ein Wort zurück: Wer sein Land liebt, macht es unabhängig — von Öl, Gas und den Kriegen, die an ihnen hängen.
 
-> → *4 weitere in* [[Zeitgeist]]
+> → *2 weitere in* [[Zeitgeist]]
 
 ### Spuren
 
@@ -59,30 +81,6 @@ Die Gedankenwelten (luc)
 > **05.07.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
 >
 > Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
-
-### Denker
-
-> **09.07.** — [[Denker/Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts|Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
->
-> Eine Physikerin liest die Welt vom Samenkorn her — und zeigt, wie eine Ökonomie, die das Lebendige für tot erklärt, am Ende die Erde selbst enteignet.
-
-> **09.07.** — [[Denker/Jok Madut Jok — Elitenpakt ist kein Frieden|Jok Madut Jok — Ein Elitenpakt ist kein Frieden]]
->
-> Der jüngste Staat der Erde, fünfzehn Jahre alt und wieder im Krieg — ein Anthropologe erklärt von innen, warum ein Abkommen die Waffen verstummen lassen kann, ohne je Frieden zu schaffen.
-
-> **07.07.** — [[Denker/Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
->
-> Nach 40 Jahren kehrt Han an die Universität zurück, aus der er einst floh — und erklärt, warum Glück Handarbeit ist und der streichelnde Daumen es zerstört.
-
-> **07.07.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
->
-> Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
-
-> **07.07.** — [[Denker/Souleymane Bachir Diagne — Der Philosoph als Uebersetzer|Souleymane Bachir Diagne — Der Philosoph als Übersetzer]]
->
-> Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
-
-> → *5 weitere in* [[Denker]]
 
 ### Panorama
 

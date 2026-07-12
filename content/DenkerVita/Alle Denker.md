@@ -249,6 +249,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Donatella Marazziti|Donatella Marazziti]]** — Italienische Psychiaterin (Univ. Pisa); Neurobiologie der Liebe, Serotonin & Zwangsstörung; zeigte ~40 % niedrigere Serotonin-Transporter bei frisch Verliebten; Ig-Nobelpreis Chemie 2000
 
+**[[DenkerVita/Malala Yousafzai|Malala Yousafzai]]** — Pakistanische Bildungsaktivistin, jüngste Friedensnobelpreisträgerin (2014, mit 17); als Kind BBC-Bloggerin unter den Taliban, Attentat 2012 überlebt; Bildung als Menschenrecht, „ein Kind, ein Lehrer, ein Buch, ein Stift“, Geschlechter-Apartheid in Afghanistan; *Ich bin Malala* (2013), *Finding My Way* (2025)
+
 **[[DenkerVita/Marc Felix Serrao|Marc Felix Serrao]]** — Deutsch-brasilianischer Journalist; Chefredakteur NZZ Deutschland; Konservativ-liberales Korrektiv zum deutschen Mainstream
 
 **[[DenkerVita/Marcant|Marcant]]** — YouTuber (vollmarcant), 23 Jahre; Deradikalisierungsaktivismus durch Straßendialog; 500+ Menschen aus rechtsextremer Szene gebracht; Theodor-Heuss-Medaille 2026; Serie "Rechtsextrem oder verwirrtes Kind?"; Rechtsextremismusbekämpfung durch Respekt und Begegnung auf Augenhöhe

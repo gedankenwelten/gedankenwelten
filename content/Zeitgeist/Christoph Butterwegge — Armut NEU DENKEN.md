@@ -146,6 +146,10 @@ Butterwegge ist klar: Steuern und Umsteuern alleine reichen nicht. Es braucht ei
 
 ## Verbindungen
 
+### → [[Denker/Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung|Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung]]
+
+Malalas hellste analytische Passage — der Rückschritt bei Mädchenbildung entsteht nicht durch einen bösen Beschluss, sondern durch die unscheinbare Umschichtung knapper Mittel, eine gestrichene Budgetzeile — teilt Butterwegges Grundgeste: Not ist kein Naturzustand, sondern hergestellt, ein politisches Produkt. Beide argumentieren mit Mechanismus statt Moral, nur auf verschiedenen Kontinenten.
+
 ### → [[phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
 Butterwegges struktureller Armutsbegriff ist der Resonanzboden für die phoenix-Runde, in der bis zu 600.000 Haushalte ihre Grundsicherung aus Scham und Komplexität nicht abrufen.
 
