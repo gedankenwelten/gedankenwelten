@@ -5,6 +5,18 @@ tags: [denker-vita, bildung, menschenrechte, feminismus, pakistan]
 
 # Malala Yousafzai — DenkerVita
 
+![[assets/Malala-Yousafzai-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Hand:** Im Geist von Elizabeth Catletts würdevollen Linolschnitt- und Lithografie-Porträts von Frauen — Stärke und Zärtlichkeit in denselben Linien.
+
+**Warum:** Die Vita malt den *Menschen*, nicht das Thema (das Banner der Note zeigt die Landschaft). Catlett gab marginalisierten Frauen Würde ohne Pathos — genau der Ton für Malala jenseits der Ikone: eine junge Frau, die liest und schreibt und zur aufgehenden Sonne blickt. Bewusst *keine* Foto-Likeness — eine Sinnbild-Figur, kein Denkmal.
+
+**Prompt:** A dignified stylized portrait illustration in the tradition of Elizabeth Catlett's linocut and lithograph portraits of women — bold confident carved lines, warm earthy palette of terracotta, ochre, deep brown and cream. A young South Asian woman wearing a softly draped headscarf, seen in three-quarter view, calm and resolute, holding an open book and a pen close to her, her gaze steady and hopeful toward the light. Strength and tenderness together. The figure sits to the left of a wide panoramic composition; the right opens into a warm abstract geometric field suggesting dawn and open sky. Not a photorealistic likeness of any specific person — a symbolic figure of a girl who reads and speaks. No text.
+
+</details>
+
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
