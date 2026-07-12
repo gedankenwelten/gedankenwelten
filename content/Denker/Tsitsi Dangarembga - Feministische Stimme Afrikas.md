@@ -234,6 +234,10 @@ Die Globalisierung, die als Kolonialismus begann, ist für sie kein rückabzuwic
 
 ## Verbindungen
 
+### → [[Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung]]
+
+Die engste Brücke — und die produktivste Reibung. Beide begannen als lokale Aktivistinnen und wurden für ihren Widerstand bestraft; Dangarembgas umgedrehtes *Nhanga*-Zelt und Malalas Bottom-up-Aktivismus sind derselbe Gedanke (Wandel von innen, mit eigenen Begriffen). Der Bruch ist scharf: Malalas „optimistischer Blick auf die Zukunft" gegen Dangarembgas „ich glaube nicht an Utopien, es zählt das Hier und Jetzt" — Hoffnung als Antrieb gegen Praxis ohne Vision.
+
 ### → [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
 
 Dangarembgas Praxis-Ethik als Härtetest des Vertrauensvorschusses: Wo Armut als Waffe hergestellt wurde und die Wunden bis in die Köpfe reichen, ist Vertrauen schwer zu halten — und gerade dort beharrt sie auf der täglichen Übung, Wohlsein im Nächstliegenden herzustellen. Dasselbe Bild, aus härtestem Boden gelebt.

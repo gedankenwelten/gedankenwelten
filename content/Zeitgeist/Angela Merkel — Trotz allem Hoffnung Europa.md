@@ -207,6 +207,10 @@ Der zweite Teil des Gesprächs lebt von Fragen, die nicht Journalisten stellten,
 
 ## Verbindungen
 
+### → [[Denker/Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung|Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung]]
+
+Zwei Stimmen, die sich am Verhandlungstisch kreuzen: Merkel — die „oft als einzige Frau im Raum" saß — ist der Fall zu Malalas These, dass mehr Frauen an jene Tische gehören, an denen über ihre Zukunft entschieden wird. Beide setzen „Hoffnung trotz allem" gegen den Fatalismus. Doch die Perspektiven laufen gegeneinander: Merkel verteidigt das langsame Handwerk des Kompromisses aus dem Zentrum der Macht, Malala die Selbstermächtigung vom Rand her — Repräsentation an der Spitze gegen Aktivismus von unten.
+
 ### → [[StreitClub — Europa allein zu Haus]]
 
 Dieselbe Leitfrage aus anderem Winkel: Dort wird verhandelt, ob Europa nach dem US-Rückzug eigenständig wehrhaft werden kann; Merkel liefert die institutionelle Antwort — europäisches Recht, Diplomatie als zweite Seite der militärischen Medaille. Der Streit dort, der Plan hier.
