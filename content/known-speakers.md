@@ -122,6 +122,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Albert Moukheiber
 **Status:** ✓ Vollanalyse → [[DenkerVita/Albert Moukheiber]]
 
+## Anton Jäger
+**Status:** ✓ Vollanalyse → [[DenkerVita/Anton Jaeger]]
+
 ## Anabel Ternès von Hattburg
 **Status:** ✓ Vollanalyse → [[DenkerVita/Anabel Ternes von Hattburg]]
 

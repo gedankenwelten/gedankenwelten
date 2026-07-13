@@ -197,6 +197,7 @@ Habermas antwortet auf den ersten Einwand mit der *operativ wirksamen Fiktion*. 
 - [[Walther Ziegler — Marx in 60 Minuten]] — Habermas antwortet auf den Klassenkampf: Nicht die ökonomische Basis allein bestimmt den Überbau. Die Sphäre der Kommunikation hat eine eigene Rationalität, die sich gegen die instrumentelle Vernunft behaupten kann.
 - [[Walther Ziegler — Foucault in 60 Minuten]] — Beide diagnostizieren, wie Macht Diskurse formt. Aber während Foucault die Machtverhältnisse im Sprechen selbst aufdeckt und keinen Ausweg kennt, glaubt Habermas, dass die Sprache trotzdem eine emanzipatorische Tendenz enthält — die Geltungsansprüche sind eine immanente Kritik des Diskurses.
 - [[Walther Ziegler — Wittgenstein in 60 Minuten]] — Habermas und Wittgenstein teilen den Linguistic Turn — und trennen sich in der Konsequenz. Wittgenstein: Philosophie beschreibt Sprachspiele, ohne sie zu bewerten. Habermas: Im kommunikativen Handeln liegt eine normative Kraft — Verständigung als Telos. Was Wittgenstein für einen unsinnigen Satz gehalten hätte, macht Habermas zum Programm.
+- [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]] — Jägers Hyperpolitik lässt sich als jüngste Stufe von Habermas' Strukturwandel der Öffentlichkeit lesen: die Meinungsbildung verflüssigt sich bis zur digitalen Dauererregung ohne institutionellen Resonanzboden.
 
 ---
 

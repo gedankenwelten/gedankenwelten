@@ -27,6 +27,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]** — Migrations- und Bildungssoziologe (TU Dortmund); Integrationsparadox, Misstrauensgemeinschaften, Adultismus, Bildung als Sortiermaschine; «Integrationsparadox» (2018), «Mythos Bildung» (2020), «Wozu Rassismus?» (2021), «Kinder — Minderheit ohne Schutz» (2025), «Misstrauensgemeinschaften» (2025)
 
+**[[DenkerVita/Anton Jaeger|Anton Jäger]]** — Belgischer Historiker der politischen Ideen (KU Leuven / Oxford, Promotion Cambridge); prägte den Begriff „Hyperpolitik" — totale Politisierung ohne Organisation; *Hyperpolitik* (2023), *The Populist Moment* (mit Borriello), *Welfare for Markets* (mit Zamora)
+
 **[[DenkerVita/Anabel Ternes von Hattburg|Anabel Ternès von Hattburg]]** — (Vollanalyse vorhanden)
 
 **[[DenkerVita/Andreas Bartels|Andreas Bartels]]** — Neurowissenschaftler (Universität Tübingen, CIN), Leiter des Vision and Cognition Lab; bei Semir Zeki (UCL) Co-Autor der ersten fMRT-Studien zur romantischen und mütterlichen Liebe (2000, 2004), heute Forschung zu Bewegungssehen und visueller Stabilität
