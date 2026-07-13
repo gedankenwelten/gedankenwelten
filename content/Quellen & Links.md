@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Sternstunde Philosophie — Droht ein neuer Faschismus? (SRF, 2026)
+
+| | |
+|---|---|
+| **Video** | [Extremismus auf dem Vormarsch – Droht ein neuer Faschismus? — Sternstunde Philosophie](https://www.youtube.com/watch?v=jlbO-ckfIew) |
+| **Notiz** | [[Sternstunde Philosophie — Droht ein neuer Faschismus]] |
+| **DenkerVita** | [[DenkerVita/Eva von Redecker]] · [[DenkerVita/Damir Skenderovic]] |
+| **Fund via** | /kairos (13. Juli — Staatstag Montenegros / Aufstand 1941) |
+| **Transkript** | `Gedankenwelten/Transkripte/Sternstunde_Faschismus_Transkript.txt` |
+
 ## Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung (TED, 2020)
 
 | | |

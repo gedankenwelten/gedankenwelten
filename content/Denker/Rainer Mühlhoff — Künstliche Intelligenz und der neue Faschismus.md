@@ -420,3 +420,4 @@ Neitzel/Iltisberger formalisieren die Systemstruktur des KI-Hypes (3 Subsysteme,
 ### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
 
 Die philosophische Miniatur zur strukturellen Analyse: Hans „Vieh, das den Zaun nicht als Gefängnis erkennt, weil dort das Futter ist" beschreibt dieselbe Herrschaft-als-Bequemlichkeit, deren politische Ökonomie und autoritären Kipppunkt Mühlhoff ausbuchstabiert. Beide trennen streng Werkzeug von Herrschaftsform — auch bei der KI.
+- [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Mühlhoffs drei Kriterien werden in der SRF-Sendung als Referenzdefinition aufgerufen — und Redecker kritisiert das Technologie-Kriterium als „zu breit“: auch linke technokratische Regime nutzen Technik als Machtmittel, ohne faschistisch zu sein.

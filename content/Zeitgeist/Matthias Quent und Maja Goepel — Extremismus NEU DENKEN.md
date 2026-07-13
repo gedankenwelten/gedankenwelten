@@ -223,3 +223,4 @@ Man muss das Führungspersonal von den Wähler:innen unterscheiden. Und mit AfD-
 ### → [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Heims & Stark — Who the f#ck is Agartha?]]
 
 Die Agartha-Sphäre ist ein Anschauungsfall für Quents „Technik der Emotionalisierung": Kein Programm, keine Überzeugung — nur eine Gruppenidentität, die Zugehörigkeit verspricht und darüber Rassenlehre anschlussfähig macht. Der Hunger, den Quent vermisst, wird hier über Meme-Codes gestillt.
+- [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Skenderovic zerlegt in der SRF-Sendung die Schweizer NDB-Statistik und die Hufeisentheorie mit denselben Argumenten wie Quent: Gewaltverengung, Entpolitisierung, die Fiktion der unberührten Mitte.

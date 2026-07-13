@@ -356,6 +356,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Silke Stremlau|Silke Stremlau]]** — Geschäftsführerin Finance for Transition (F4T gGmbH, seit 2026); Vorsitzende Sustainable Finance-Beirat der Bundesregierung (2019–2025); Pionierin institutioneller ESG-Bewertung seit 2000; Transformationsfinanzierung, Kapitalallokation als strategisches Instrument, Langfristkapital vs. Renditekapital; Leser- und Vordenkerinnenpreis 2024
 
+**[[DenkerVita/Damir Skenderovic|Damir Skenderovic]]** — Schweizer Historiker (Prof. Zeitgeschichte, Univ. Freiburg), Erforscher der radikalen Rechten; Standardwerk *The Radical Right in Switzerland*; Kontinuität statt Ausbruch, verdrängte rechtsextreme Vergangenheit der Schweiz, Rechtspopulismus als Diskursverschieber
+
 **[[DenkerVita/Staiy|Staiy (Karim Staiy)]]** — YouTuber, Medienkritiker; meinungsmache.de, Almanara-Bica-Podcast, „NEWS"-Format; Medienschwigen, Rechtsextremismus, Demokratie aus deutsch-arabischer Perspektive
 
 **[[DenkerVita/Stefan Schulz|Stefan Schulz]]** — Soziologe, Autor; Die Neuen Zwanziger (mit Wolfgang M. Schmitt), ehem. Aufwachen! (mit Tilo Jung); Demografie, Spontanhistorisierung, Medienwandel

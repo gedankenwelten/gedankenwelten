@@ -295,3 +295,4 @@ MONITORs Recherche zeigt eine Variante, die in Kempers Faschismus-Taxonomie fehl
 ### → [[Yanis Varoufakis — Trump Has Lost Everything]]
 
 Varoufakis' Faschismus-Sequenz in zehn Stufen ergänzt Kempers Taxonomie um den historischen Mechanismus: Bankenkollaps → Austerität → Scheitern der Linken → populistische Mimikry → Big-Business-Allianz. Beide betonen: Faschismus ist kein Rückfall, sondern eine Mutation — Kemper ordnet theoretisch ein, Varoufakis liefert die ökonomische Genealogie.
+- [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Redeckers Einwand, der neue Faschismus sei „nicht notwendig ultranationalistisch“ (transnationale weiße Vorherrschaft, Tech-Freistaaten à la Srinivasan), bestätigt Kempers Plural der Faschismen aus philosophischer Richtung.
