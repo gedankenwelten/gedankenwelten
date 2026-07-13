@@ -601,6 +601,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Simon Schaupp
 **Status:** ✓ Vollanalyse → [[DenkerVita/Simon Schaupp]]
 
+## Damir Skenderovic
+**Status:** ✓ Vollanalyse → [[DenkerVita/Damir Skenderovic]]
+
 ## Staiy
 **Status:** ✓ Vollanalyse → [[DenkerVita/Staiy]]
 

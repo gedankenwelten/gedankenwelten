@@ -72,6 +72,7 @@ Sie lebt bewusst in einer **ländlichen Gemeinschaft in Brandenburg** — nicht 
 
 - [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
+- [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus]]
 
 ---
 
