@@ -244,6 +244,7 @@ Dieselbe „Machtverklumpung“ aus Tech-Monopolen und Trump-Regierung, dieselbe
 ### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
 
 Hans *Infokratie* ist die philosophische Fassung von Andrees Befund: Die Echtzeitkommunikation der Plattformen zersetzt die langsame Demokratie (Deliberation, Vertrauen, Versprechen). Andrees Entflechtung und Hans *Zeitpolitik* sind zwei Rezepte gegen dieselbe Machtverklumpung.
+- [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]] — Jägers Hype-Kollektive entstehen auf genau der monopolisierten Plattform-Infrastruktur, die Andree vermisst: Die gefallenen Kosten des politischen Ausdrucks zahlen ihre Dividende an zwei Konzerne.
 
 ---
 

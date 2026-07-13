@@ -280,3 +280,4 @@ El-Mafaalani hält es für wahrscheinlich, dass Europa demokratisch bleibt — a
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
 
 Wo El-Mafaalani das Misstrauen analysiert, formuliert Merkel die demokratische Gegendefinition: „jeder deutsche Staatsbürger ist das Volk“ — gegen den völkischen Volksbegriff.
+- [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]] — El-Mafaalanis Aktivierungs-Paradox (gleiche Einstellungen, neue Lautstärke) ist Jägers These der gefallenen Ausdruckskosten von der anderen Seite: Social Media politisiert, ohne zu organisieren.

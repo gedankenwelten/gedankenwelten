@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Anton Jäger — Lohnt sich politisches Engagement noch? (ARTE, 2026)
+
+| | |
+|---|---|
+| **Video** | [Lohnt sich politisches Engagement noch? — Offene Ideen, ARTE](https://www.youtube.com/watch?v=A-3zIg5Dp6g) |
+| **Mediathek** | [arte.tv (bis 09.04.2031)](https://www.arte.tv/de/videos/122772-015-A/lohnt-sich-politisches-engagement-noch/) |
+| **Notiz** | [[Anton Jaeger — Lohnt sich politisches Engagement noch]] |
+| **DenkerVita** | [[DenkerVita/Anton Jaeger]] |
+| **Fund via** | /kairos (13. Juli — Staatstag Montenegros / Aufstand 1941) |
+| **Transkript** | `Gedankenwelten/Transkripte/Jaeger_Hyperpolitik_ARTE_Transkript.txt` |
+
 ## Sternstunde Philosophie — Droht ein neuer Faschismus? (SRF, 2026)
 
 | | |

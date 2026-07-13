@@ -182,6 +182,7 @@ Konkreter Fall: Quaschning zeigt am Spritpreis den Streetlight-Effekt — die un
 ### → [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]]
 
 Der empirische Beleg für Oettings These, dass die Lüge durch besseres *Marketing* gewinnt: Eine Oxford-Studie zählt aus, wie ein erfundenes Wort ein Gesetz kippte — Desinformation siegt nicht durch Wahrheit, sondern durch emotionales Story-Telling.
+- [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]] — Jäger liefert die Diagnose, zu der Oettings System Delta die Therapie sein will: Repolitisierung ohne Reinstitutionalisierung — kollektiver Druck braucht eine Organisation, keine weitere Empörungswelle.
 
 ---
 

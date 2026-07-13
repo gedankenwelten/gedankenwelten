@@ -26,6 +26,10 @@ Die Gedankenwelten (luc)
 
 > **13.07.** — [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
 
+> **13.07.** — [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]]
+>
+> Wir sind politisierter denn je — und ändern nichts. Anton Jägers Hyperpolitik erklärt, warum Wut ohne Institutionen verpufft: Repolitisierung ohne Reinstitutionalisierung.
+
 > **13.07.** — [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]]
 >
 > Faschismus als entfesselte Eigentumslogik oder als Prozess der Faschisierung? Eva von Redecker und Damir Skenderovic vermessen, wo der Rechtsruck endet und das Kippen beginnt.
@@ -34,9 +38,7 @@ Die Gedankenwelten (luc)
 
 > **11.07.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
 
-> **11.07.** — [[Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger|Helen Keller — Völkerrecht: Ein zahnloser Tiger?]]
-
-> → *4 weitere in* [[Zeitgeist]]
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Denker
 
