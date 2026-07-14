@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*258 Notes — automatisch generiert · nach Thema sortiert*
+*259 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -292,6 +292,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Maja Göpel & Achim Truger — Wachstum NEU DENKEN]]
 - [[Zeitgeist/Mark Benecke — Fragerunde Time Is Up 2026|Mark Benecke — Fragerunde: Time Is Up 2026]]
 - [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?]]
+- [[Zeitgeist/Martin Oetting — Happy Planet Index 2026|Martin Oetting — Happy Planet Index 2026: Was ist echter Wohlstand?]] — Costa Rica vorn, die USA auf Platz 105 — der Happy Planet Index misst, wer aus wenig Welt viel Leben macht. Und stellt der deutschen Wachstumsdebatte eine unbequeme Frage.
 - [[Zeitgeist/Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby|Maurice Höfgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
 - [[Zeitgeist/Maurice Hoefgen — Heute Show entlarvt Kanzler Merz|Maurice Höfgen — Heute Show entlarvt Kanzler Merz]]
 - [[Zeitgeist/Michael Sterner — Energiewende-Studie und Reiche-Blockade|Michael Sterner — Energiewende-Studie und Reiche-Blockade]]

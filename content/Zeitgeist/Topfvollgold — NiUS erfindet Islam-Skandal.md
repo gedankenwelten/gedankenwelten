@@ -177,6 +177,10 @@ Prewalt beschreibt das Phänomen:
 
 ## Verbindungen
 
+### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
+
+Der Nachfolge-Fall: Wenige Monate nach dem erfundenen Ramadan-Skandal macht NIUS per Namensverwechslung eine Unbeteiligte zur mutmaßlichen Mord-Komplizin von Stade — derselbe Bauplan (Migrationsgeschichte als Zielscheibe, Hetzjagd, versteckte Korrektur), diesmal mit einem Kapitalverbrechen als Bühne.
+
 ### → [[Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
 
 Direktes Vorgängervideo von Topfvollgold zu derselben Methode: BILD und NiUS als Maschinerie zur Produktion islamfeindlicher Fake-Meldungen. Dort: der "Shopping-Skandal" mit den Afghanen. Hier: das Ramadan-Buffet. Dasselbe Playbook, zwei Monate später.

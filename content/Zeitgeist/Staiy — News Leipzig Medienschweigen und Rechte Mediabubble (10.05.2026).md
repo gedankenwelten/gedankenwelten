@@ -223,6 +223,10 @@ Der Appell: Statt nur zu feiern, sollte die Energie genutzt werden, um blockiere
 
 ## Verbindungen
 
+### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
+
+Der Beweis-Fall für die hier beschriebene Triggermedium-These: NIUS treibt die Logik „Angst + Migration + Steuergeld = Reichweite“ im Mordfall Stade bis zur falschen Beschuldigung einer Unbeteiligten.
+
 ### → [[Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]]
 Vorherige Staiy-NEWS-Folge, die den Orbán-Wahlabend begleitete — direkte Vorgeschichte zum Ungarn-Kapitel dieser Ausgabe. Magyar taucht dort als Wahlgewinner auf, hier als frisch vereidigter Ministerpräsident.
 

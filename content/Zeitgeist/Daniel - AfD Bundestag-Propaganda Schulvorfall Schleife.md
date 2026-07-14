@@ -95,6 +95,10 @@ Die AfD nutzt einen banalen, längst aufgearbeiteten Vorfall für drei Ziele:
 
 ## Verbindungen
 
+### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
+
+Dieselbe Arbeitsteilung mit einem Medienportal als Absender: NIUS legt mit einer falschen Verdächtigung im Mordfall Stade vor, AfD-Politiker verstärken, die Meute vollstreckt mit Deanonymisierung und Gewaltfantasien.
+
 ### → [[Gilda con Arne 28 — Angriff auf kritische Zivilgesellschaft]]
 
 dieselbe Kampagne, zwei Ebenen: Diese Note zeigt die konkrete Bundestags-Rhetorik gegen die AAS via Schulvorfall; GCA #28 dokumentiert die strukturelle Strategie (551 Parlamentsanfragen) zum Mittelentzug von Demokratieförderung
