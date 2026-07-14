@@ -172,6 +172,10 @@ Das letzte Konzept des Gesprächs schließt den Kreis zur Ökonomiekritik: [▶ 
 
 ## Verbindungen
 
+### → [[Martin Oetting — Happy Planet Index 2026]]
+
+Der Datenpunkt zu Sarrs Programm: Der Happy Planet Index 2026 zeigt, dass sechs der zehn erfolgreichsten Länder in Lateinamerika liegen und Costa Rica gewinnt, weil es dem Norden nicht folgte — die Rangordnung „reich = Vorbild“ kippt auch quantitativ.
+
 ### → [[Jok Madut Jok — Elitenpakt ist kein Frieden]]
 Joks Südsudan ist der Belastungstest von Sarrs Afrotopia: Sein „gewähltes Wir jenseits der Stammeslinie" teilt Sarrs relationales Menschenbild, aber sein Überlebensmodus zeigt, was den Traum erstickt — wer ums Brot ringt, entwirft keine Utopie.
 

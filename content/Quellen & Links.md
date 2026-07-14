@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Martin Oetting — Happy Planet Index 2026 (YouTube, 2026)
+
+| | |
+|---|---|
+| **Video** | [Neues Länderranking zu ECHTEM Wohlstand](https://www.youtube.com/watch?v=jKvJP0hPxZs) |
+| **Notiz** | [[Martin Oetting — Happy Planet Index 2026]] |
+| **DenkerVita** | [[DenkerVita/Martin Oetting]] |
+| **Report** | [The 2026 Happy Planet Index Report](https://hotorcool.org/publications/the-2026-happy-planet-index-report/) |
+| **Transkript** | `Gedankenwelten/Transkripte/Oetting_HappyPlanetIndex_Transkript.txt` |
+
 ## Pankaj Mishra — Age of Anger (Berkley Center, Georgetown, 2017)
 
 | | |

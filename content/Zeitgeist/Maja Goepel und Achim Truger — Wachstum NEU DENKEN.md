@@ -130,6 +130,10 @@ Ein wichtiger Punkt: Göpel und Truger diskutieren nicht, ob die Wirtschaft „w
 
 ## Verbindungen
 
+### → [[Martin Oetting — Happy Planet Index 2026]]
+
+Der Happy Planet Index liefert die Messlatte, die Göpel und Truger fordern, gleich mit: An 134 Ländern gemessen waren Deutschlands BIP-schwache Jahre die besten der Bundesrepublik — Wachstum ist nicht Wohlstand, jetzt mit Zahlen.
+
 **Makroökonomie & Fiskalpolitik:**
 
 ### → [[Denker/Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]

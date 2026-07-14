@@ -200,6 +200,10 @@ Was die empirische Forschung zu den zentralen Thesen sagt — Konsens von Einzel
 
 ## Verbindungen
 
+### → [[Martin Oetting — Happy Planet Index 2026]]
+
+Die Makro-Statistik zum Dopamin-Befund: Der Happy Planet Index 2026 findet eine leicht negative Korrelation zwischen Konsum und Zufriedenheit — was Schultz' Erwartungs-Codierung im Gehirn auf Länderebene sichtbar macht.
+
 ### → [[Manfred Spitzer — Hirnforscher Feldbach]]
 Spitzers „Lernturbo" (Dopamin geht an, wenn Realität die Erwartung übertrifft) ist dieselbe Entdeckung wie Schultz' Reward Prediction Error — nur nennt Schultz ihn beim Namen und hat ihn quantitativ ausgearbeitet. Beide zitieren Olds & Milner (1954) als Ursprungspunkt. Spitzers hedonische Tretmühle wird durch Schultz' Eskalationsspirale (positiver RPE erhöht Erwartungswert → immer mehr nötig) neurobiologisch präzisiert.
 

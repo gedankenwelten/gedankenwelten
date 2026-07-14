@@ -157,6 +157,10 @@ Was bleibt: Millionen Deutsche sind Mitglieder einer Genossenschaft — und wiss
 
 ## Verbindungen
 
+### → [[Martin Oetting — Happy Planet Index 2026]]
+
+Das quantitative Gegenstück zu diesem Panorama: Der Happy Planet Index misst, was demokratische Wertschöpfung anstrebt — langes, zufriedenes Leben pro verbrauchter Welt statt Geldumsatz.
+
 ### → [[Zeitgeist/Tilo Jung — Erben Wirtschaft AfD-Strategie]]
 
 Detaillierte Mondragón-Analyse mit allen Zahlen — Erfolge, Grenzen, Fagor-Insolvenz, Vergleich zu Steward-Ownership (Zeiss, Bosch). Auch: warum Wirtschaftsdemokratie im öffentlichen Diskurs systematisch verhindert wird.

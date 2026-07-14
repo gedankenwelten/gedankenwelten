@@ -151,6 +151,10 @@ Die eigentliche Gefahr für die Demokratie ist hier nicht die Radikalisierung, s
 
 ## Verbindungen
 
+### → [[Martin Oetting — Happy Planet Index 2026]]
+
+Dieselbe Stimme, das andere Ende des Gedankens: Dort füttert die Niedergangs-Erzählung den Faschismus — hier zeigt der Happy Planet Index 2026, dass der behauptete Niedergang an der relevanten Messlatte keiner ist.
+
 ### → [[Panorama/NoAfD]]
 
 Der Dachknoten: Oettings Note ist die Mikro-Ebene zur Frage des Panoramas — *was hilft gegen das, was die AfD verkörpert?* Sein Bild vom Umlenken der Angst (nach unten treten statt nach oben sehen) ist die psychologische Innenseite zur strukturellen Anatomie dort.

@@ -264,6 +264,10 @@ Göpel differenziert scharf zwischen zwei Arten von „Bürokratie":
 
 ## Verbindungen
 
+### → [[Martin Oetting — Happy Planet Index 2026]]
+
+Die produktive Gegenposition: Wo Hein Wirtschaft als Machtwaffe im multipolaren Ringen misst, steht die geoökonomisch dominante USA im Happy Planet Index 2026 auf Platz 105 — Stärke, die nicht in Lebensqualität umschlägt.
+
 ### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
 
 Konés digitale Souveränität als eine Etage von Heins geoökonomischer Multipolarität: „Das intelligente Zeitalter wird nicht nur aus Brüssel, Washington oder Peking regiert" — der Globale Süden verlangt einen Platz am Tisch.

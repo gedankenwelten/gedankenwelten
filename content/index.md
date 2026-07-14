@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört.
 
+> **14.07.** — [[Zeitgeist/Martin Oetting — Happy Planet Index 2026|Martin Oetting — Happy Planet Index 2026: Was ist echter Wohlstand?]]
+>
+> Costa Rica vorn, die USA auf Platz 105 — der Happy Planet Index misst, wer aus wenig Welt viel Leben macht. Und stellt der deutschen Wachstumsdebatte eine unbequeme Frage.
+
 > **13.07.** — [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
 
 > **13.07.** — [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]]
@@ -38,9 +42,7 @@ Die Gedankenwelten (luc)
 >
 > Faschismus als entfesselte Eigentumslogik oder als Prozess der Faschisierung? Eva von Redecker und Damir Skenderovic vermessen, wo der Rechtsruck endet und das Kippen beginnt.
 
-> **13.07.** — [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte|Arnd Henze — Bonhoeffer und die Neue Rechte]]
-
-> → *6 weitere in* [[Zeitgeist]]
+> → *7 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -72,6 +74,18 @@ Die Gedankenwelten (luc)
 >
 > Wozu? Die Frage, die alles in Mittel und Zwecke verwandelt — und der Moment des Aufwachens, in dem noch niemand zu Hause ist, der sie stellen könnte.
 
+### Panorama
+
+> **14.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
+>
+> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
+
+> **03.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
+>
+> Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
+
+> **23.06.** — [[Panorama/NoAfD|NoAfD]]
+
 ### Spuren
 
 > **10.07.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
@@ -81,18 +95,6 @@ Die Gedankenwelten (luc)
 > **07.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
 >
 > Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
-
-### Panorama
-
-> **09.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
->
-> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
-
-> **03.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
->
-> Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
-
-> **23.06.** — [[Panorama/NoAfD|NoAfD]]
 
 ### Gedanken
 
