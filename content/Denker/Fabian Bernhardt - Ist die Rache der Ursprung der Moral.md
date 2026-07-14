@@ -185,6 +185,10 @@ In einer Welt, die global alles andere als gerecht eingerichtet ist, simuliert d
 
 ## Verbindungen
 
+
+### → [[Pankaj Mishra — Zeitalter des Zorns]]
+
+Die politische Weltgeschichte dieses reaktiven Affekts: Mishra macht das Ressentiment, dessen moralphilosophische Wurzel Bernhardt freilegt, zur Signatur der Moderne — von Rousseau bis zum Populismus der Gegenwart.
 ### → [[Denker/Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke|Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke]]
 
 Direkter Gegenpol und Ergänzung. Bernhardts „unendliche Kränkbarkeit des Herzens" und Maios Verletzlichkeit als Grundmodus verankern Moral beide in der Verwundbarkeit — aber wo Maio aus der Offenheit das Sprungbrett für Beziehung und Wachstum gewinnt, zeigt Bernhardt denselben Boden als Quelle des Rachebedürfnisses. Zusammen sind sie die beiden Ausgänge derselben Wunde.

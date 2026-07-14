@@ -784,3 +784,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Vandana Shiva
 **Status:** ✓ Vollanalyse → [[DenkerVita/Vandana Shiva]]
+
+## Pankaj Mishra
+**Status:** ✓ Vollanalyse — [[DenkerVita/Pankaj Mishra]]

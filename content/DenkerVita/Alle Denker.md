@@ -323,6 +323,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Blaise Pascal|Blaise Pascal]]** — Mathematiker, Physiker, Erfinder und religiöser Denker (1623–1662); Wahrscheinlichkeitsrechnung mit Fermat, Rechenmaschine, Nachweis von Luftdruck und Vakuum — nach der mystischen Nacht von 1654 die Wende zur Menschenbetrachtung; die unvollendeten *Pensées* (postum 1670)
 
+**[[DenkerVita/Pankaj Mishra|Pankaj Mishra]]** — indischer Essayist, Romancier und Ideenhistoriker (*1969, Jhansi); autodidaktischer postkolonialer Kritiker des westlichen Liberalismus, schreibt für LRB/NYRB; Kernthese in *Age of Anger* (2017): das Ressentiment als Signatur der Moderne, die globale Wut als Erbe des gebrochenen Aufklärungsversprechens (Rousseau gegen Voltaire); *From the Ruins of Empire* (2012), *The World After Gaza* (2025)
+
 ## Q
 
 **[[DenkerVita/Volker Quaschning|Volker Quaschning]]** — Ingenieur und Professor für Regenerative Energiesysteme (HTW Berlin, seit 2004); Autor des Standardwerks *Regenerative Energiesysteme*, Mitinitiator von Scientists for Future, Podcast *Das ist eine gute Frage* — bewusst aktivistischer Wissenschaftskommunikator der Energiewende

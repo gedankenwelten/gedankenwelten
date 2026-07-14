@@ -165,6 +165,10 @@ Die Titelfrage beantwortet das Video nie direkt — und genau darin liegt die An
 
 ## Verbindungen
 
+
+### → [[Pankaj Mishra — Zeitalter des Zorns]]
+
+Mishra liefert die affektive Vorgeschichte der Hyperpolitik: das Ressentiment der Ausgeschlossenen, dem die Demagogen „fake community" anbieten — genau in die institutionelle Leerstelle hinein, die Jäger beschreibt.
 ### → [[Sternstunde Philosophie — Droht ein neuer Faschismus]]
 
 Die Schwester-Note desselben Gedenktags — und das präzise Gegenstück zu Jägers Leerstelle: Redeckers These, das faschistische „Wir" existiere vor der Mobilisierung gar nicht, sondern werde durch die Beschwörung des Diebstahls erst erzeugt, zeigt, dass die Rechte genau die (Re-)Institutionalisierung baut, die Jäger auf der zivilgesellschaftlichen Seite vermisst.

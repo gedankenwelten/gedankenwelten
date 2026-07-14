@@ -80,6 +80,10 @@ Alle drei Antworten können gleichzeitig wahr sein. In der polarisierten Debatte
 
 ## Verbindungen
 
+
+### → [[Pankaj Mishra — Zeitalter des Zorns]]
+
+Mishras Ausgangspunkt ist derselbe Befund im Großen: die gespaltene Familie nach Modis Wahl, der Zwang zur Lagerbildung — und seine Antwort (kontingente statt universale Lösungen) trifft diese Reflexion direkt.
 ### → [[Gedanken/Yin und Yang — Alles trägt sein Gegenteil in sich]]
 Die Wurzel des Problems: Wer das Yin im Yang nicht sehen kann oder darf, landet zwangsläufig in der Ideologie. Polarisierung ist die gesellschaftliche Konsequenz des Verlusts dieser Fähigkeit.
 

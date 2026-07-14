@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **14.07.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
+>
+> Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört.
+
 > **13.07.** — [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
 
 > **13.07.** — [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]]
@@ -36,11 +40,17 @@ Die Gedankenwelten (luc)
 
 > **13.07.** — [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte|Arnd Henze — Bonhoeffer und die Neue Rechte]]
 
-> **11.07.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
-
-> → *5 weitere in* [[Zeitgeist]]
+> → *6 weitere in* [[Zeitgeist]]
 
 ### Denker
+
+> **14.07.** — [[Denker/Leonhard Horowski — Adel, Klassen und Gesellschaft|Leonhard Horowski — Adel, Klassen und Gesellschaft]]
+
+> **14.07.** — [[Denker/Pankaj Mishra — Zeitalter des Zorns|Pankaj Mishra — Zeitalter des Zorns]]
+>
+> Pankaj Mishra führt die Wut der Gegenwart auf das unerfüllte Versprechen von 1789 zurück — Ressentiment als Signatur der Moderne, von Rousseau bis Modi.
+
+> **14.07.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
 
 > **12.07.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
 
@@ -48,19 +58,19 @@ Die Gedankenwelten (luc)
 >
 > Eine junge Frau, die den Weg vom Schulverbot zum Nobelpreis ging, über Bildung als Emanzipation, Hoffnung als Methode und die einzige Niederlage, die zählt: am eigenen Wert zu zweifeln.
 
-> **09.07.** — [[Denker/Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts|Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
->
-> Eine Physikerin liest die Welt vom Samenkorn her — und zeigt, wie eine Ökonomie, die das Lebendige für tot erklärt, am Ende die Erde selbst enteignet.
+> → *5 weitere in* [[Denker]]
 
-> **09.07.** — [[Denker/Jok Madut Jok — Elitenpakt ist kein Frieden|Jok Madut Jok — Ein Elitenpakt ist kein Frieden]]
->
-> Der jüngste Staat der Erde, fünfzehn Jahre alt und wieder im Krieg — ein Anthropologe erklärt von innen, warum ein Abkommen die Waffen verstummen lassen kann, ohne je Frieden zu schaffen.
+### Geistesblitz
 
-> **07.07.** — [[Denker/Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
->
-> Nach 40 Jahren kehrt Han an die Universität zurück, aus der er einst floh — und erklärt, warum Glück Handarbeit ist und der streichelnde Daumen es zerstört.
+> **14.07.** — [[Geistesblitz/Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt|Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt?]]
 
-> → *6 weitere in* [[Denker]]
+> **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+>
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
+
+> **03.07.** — [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens|Gert Scobel — Die gefährlichste Frage unseres Lebens]]
+>
+> Wozu? Die Frage, die alles in Mittel und Zwecke verwandelt — und der Moment des Aufwachens, in dem noch niemand zu Hause ist, der sie stellen könnte.
 
 ### Spuren
 
@@ -71,10 +81,6 @@ Die Gedankenwelten (luc)
 > **07.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
 >
 > Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
-
-> **06.07.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
->
-> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
 
 ### Panorama
 
@@ -87,20 +93,6 @@ Die Gedankenwelten (luc)
 > Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
 
 > **23.06.** — [[Panorama/NoAfD|NoAfD]]
-
-### Geistesblitz
-
-> **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
->
-> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
-
-> **03.07.** — [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens|Gert Scobel — Die gefährlichste Frage unseres Lebens]]
->
-> Wozu? Die Frage, die alles in Mittel und Zwecke verwandelt — und der Moment des Aufwachens, in dem noch niemand zu Hause ist, der sie stellen könnte.
-
-> **27.06.** — [[Geistesblitz/Tobias Ruether — Wie Sucht im Gehirn entsteht|Tobias Rüther — Wie Sucht im Gehirn entsteht]]
->
-> Sucht ist kein Willensdefekt, sondern ein gekapertes Belohnungssystem — und hinter jedem Konsum, der nicht aufhören kann, liegt ein Schmerz, den keiner allein zu tragen lernte.
 
 ### Gedanken
 

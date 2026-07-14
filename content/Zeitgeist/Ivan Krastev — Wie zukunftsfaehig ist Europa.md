@@ -244,6 +244,10 @@ Krastev dreht das um: Wenn er gute Laune hat, liest er Romane. Wenn er schlechte
 
 ## Verbindungen
 
+
+### → [[Pankaj Mishra — Zeitalter des Zorns]]
+
+Denselben Mechanismus liest Mishra ideengeschichtlich: Krastevs Imitationskrise ist die geopolitische Fassung der mimetischen Rivalität — der Nachahmungszwang produziert die Demütigung, deren Ressentiment sich gegen die Demokratie kehrt.
 ### → [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]]
 Krastev liest den Populismus als Rebellion gegen die Demütigung des Nachahmungszwangs, Baberowski als Reaktion auf eine Demokratie, die „am Volk vorbei" regiert — zwei Erklärungen desselben Ressentiments. Beide nehmen die illiberale Wende ernst, statt sie als bloßen Rückfall abzutun.
 
