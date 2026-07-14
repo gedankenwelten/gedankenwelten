@@ -1,6 +1,6 @@
 ---
 title: "Walther Ziegler — Hegel in 60 Minuten"
-aktualisiert: 2026-04-26
+aktualisiert: 2026-07-14
 date: 29.06.2023
 tags:
   - denker
@@ -261,6 +261,10 @@ Am Anfang war Gott das völlig Fremde — der Donnergott, dem man Opfer bringt. 
 
 ## Verbindungen
 
+
+### → [[Pankaj Mishra — Zeitalter des Zorns]]
+
+Die direkte Antithese: Was Hegel als „herrlichen Sonnenaufgang" und Fortschritt zur Freiheit deutet, liest Mishra als Geburtsstunde des Ressentiments — die Fortschrittserzählung selbst wird bei ihm zur „unschlagbaren Ersatzreligion".
 - [[Walther Ziegler — Nietzsche in 60 Minuten]] — Nietzsche reagiert auf Hegel: wo Hegel ein System baut, zerschlägt Nietzsche jedes System; wo Hegel die Geschichte als Fortschritt sieht, sieht Nietzsche die „ewige Wiederkehr"
 - [[Walther Ziegler — Platon in 60 Minuten]] — Platons Ideenlehre als Vorläufer: die Idee, dass hinter der sichtbaren Welt ein höheres Prinzip waltet, findet sich bei Hegel als Weltgeist wieder — nur dass Hegels Idee nicht statisch ist, sondern sich dialektisch entfaltet
 - [[Walther Ziegler — Sartre in 60 Minuten]] — Sartre rezipiert Hegel über Kojèves Hegel-Vorlesungen in Paris; die Herr-Knecht-Dialektik wird zur Grundlage von Sartres Freiheitsbegriff

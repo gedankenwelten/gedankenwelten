@@ -1,6 +1,6 @@
 ---
 title: Leonhard Horowski — Adel, Klassen und Gesellschaft
-aktualisiert: 2026-03-22
+aktualisiert: 2026-07-14
 tags:
   - geschichte
   - gesellschaft

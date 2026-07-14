@@ -2,7 +2,7 @@
 title: "Wendy Brown — Wie Neoliberalismus die Demokratie bedroht"
 description: "Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört."
 date: 2016
-aktualisiert: 2026-06-05
+aktualisiert: 2026-07-14
 tags:
   - zeitgeist
   - demokratie
@@ -207,6 +207,10 @@ Was Piketty zur ökonomischen Theorie und Bourdieu zur Soziologie beisteuern, fa
 
 ## Verbindungen
 
+
+### → [[Pankaj Mishra — Zeitalter des Zorns]]
+
+Ursache und Nachbeben: Brown beschreibt die Mechanik, mit der das Versprechen von 1789 ökonomisch ausgehöhlt wird — Mishra die Wut, die aus genau dieser Aushöhlung entsteht.
 ### → [[Denker/Ernesto Laclau — Macht und Repraesentation]]
 
 Laclau zeigt, dass „Demokratie" und „Freiheit" gleitende Signifikanten sind, die hegemonial *umkämpft* werden müssen. Brown zeigt, wie der Neoliberalismus genau diesen Kampf stillstellt — er ersetzt demokratische Vernunft durch Marktvernunft und nimmt dem *demos* die Sprache seiner Macht. Browns historische Erklärung dafür, warum Laclaus linker Populismus heute so schwer zu mobilisieren ist.

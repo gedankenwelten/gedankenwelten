@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Pankaj Mishra — Age of Anger (Berkley Center, Georgetown, 2017)
+
+| | |
+|---|---|
+| **Video** | [Age of Anger: Pankaj Mishra](https://www.youtube.com/watch?v=goq4eY6ykc8) |
+| **Notiz** | [[Pankaj Mishra — Zeitalter des Zorns]] |
+| **DenkerVita** | [[DenkerVita/Pankaj Mishra]] |
+| **Fund via** | /kairos (14. Juli — Französischer Nationalfeiertag / Sturm auf die Bastille) |
+| **Transkript** | `Gedankenwelten/Transkripte/Mishra_Age_of_Anger_Transkript.txt` |
+
 ## Anton Jäger — Lohnt sich politisches Engagement noch? (ARTE, 2026)
 
 | | |

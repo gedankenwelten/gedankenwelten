@@ -218,6 +218,10 @@ Das Kind kann neu beginnen, weil es nicht verbittert ist. Der Löwe zerstört �
 
 ## Verbindungen
 
+
+### → [[Pankaj Mishra — Zeitalter des Zorns]]
+
+Mishra säkularisiert und historisiert Nietzsches Ressentiment-Begriff: Aus dem Priester der Sklavenmoral wird der entfremdete junge Mann der Verheißung, der die globale Wut der Gegenwart trägt.
 - [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Silicon-Valley-Transhumanismus als unreflektierter Nietzscheanismus: Der "Wille zur Macht" als Unsterblichkeitsprojekt (Terror Management Theory). Die Note stellt die psychoanalytische Frage, die Nietzsche offen ließ: Was treibt den Willen zur Macht jenseits der Philosophie?
 - [[Walther Ziegler — Hegel in 60 Minuten]] — Nietzsche reagiert auf Hegel: wo Hegel ein System baut, zerschlägt Nietzsche jedes System; wo Hegel die Geschichte als Fortschritt zur Freiheit sieht, setzt Nietzsche die „ewige Wiederkehr" dagegen — Geschichte ohne Ziel, ohne Weltgeist, ohne Versöhnung
 - [[Walther Ziegler — Platon in 60 Minuten]] — Nietzsche's schärfster Kontrahent: Er attackiert Platon und Sokrates direkt für die Leibfeindlichkeit und die Verdrängung des Dionysischen. Beide stellen die Frage nach dem Guten — aber Platon sucht es in ewigen Ideen, Nietzsche im lebendigen Willen
