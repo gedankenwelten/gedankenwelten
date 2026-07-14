@@ -32,17 +32,17 @@ Die Gedankenwelten (luc)
 >
 > Costa Rica vorn, die USA auf Platz 105 — der Happy Planet Index misst, wer aus wenig Welt viel Leben macht. Und stellt der deutschen Wachstumsdebatte eine unbequeme Frage.
 
+> **14.07.** — [[Zeitgeist/Topfvollgold — Mordfall Stade und das Versagen von NiUS|Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
+>
+> Eine Namensgleichheit genügt: NIUS macht eine Unbeteiligte zur Mord-Komplizin, die Meute jagt sie — und die Korrektur ist ein versteckter Absatz.
+
 > **13.07.** — [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
 
 > **13.07.** — [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]]
 >
 > Wir sind politisierter denn je — und ändern nichts. Anton Jägers Hyperpolitik erklärt, warum Wut ohne Institutionen verpufft: Repolitisierung ohne Reinstitutionalisierung.
 
-> **13.07.** — [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]]
->
-> Faschismus als entfesselte Eigentumslogik oder als Prozess der Faschisierung? Eva von Redecker und Damir Skenderovic vermessen, wo der Rechtsruck endet und das Kippen beginnt.
-
-> → *7 weitere in* [[Zeitgeist]]
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -76,6 +76,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **14.07.** — [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien — das Geschäft mit der Lüge]]
+>
+> Gerichte nennen es „sämtlich unwahr“, die Portale nennen es Recherche: Wie rechte Medien Lügen als Geschäftsmodell betreiben — und woran man den Unterschied zwischen Fehler und Methode erkennt.
+
 > **14.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
 >
 > Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
@@ -83,8 +87,6 @@ Die Gedankenwelten (luc)
 > **03.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
 >
 > Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
-
-> **23.06.** — [[Panorama/NoAfD|NoAfD]]
 
 ### Spuren
 

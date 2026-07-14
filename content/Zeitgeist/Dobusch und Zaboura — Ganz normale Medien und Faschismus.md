@@ -165,6 +165,10 @@ Der „View from Nowhere" — die Illusion des neutralen, unverstellten Blicks �
 
 ## Verbindungen
 
+### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
+
+Der Extrempunkt der hier beschriebenen Anreizstruktur: Bei NIUS wird die Empörungslogik zum Kalkül, das im Mordfall Stade eine Unbeteiligte zur Verdächtigen macht — der Fall, an dem die Berufslogik als Waffe sichtbar wird.
+
 ### → [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
 
 Gutmairs Algorithmen-Kritik im Bundestalk und Dobusch/Zabouras Strukturanalyse des Mediensystems beschreiben das gleiche Problem auf verschiedenen Ebenen: Dort die redaktionelle Entscheidungslogik, die zu False Balance und Faszinationsjournalismus führt; hier die algorithmische Infrastruktur, die Empörung systematisch über Sachlichkeit stellt. Beide enden beim selben Schluss: Das Problem ist nicht Strafrecht, sondern Plattformarchitektur.

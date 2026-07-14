@@ -131,6 +131,10 @@ Hornung stellte das Interview über WhatsApp durch eine NGO. Er zweifelt nicht d
 
 ## Verbindungen
 
+### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
+
+Die jüngste Ausführung des hier beschriebenen Musters: NIUS erklärt nach dem Sechsfachmord von Stade eine völlig Unbeteiligte per Namensgleichheit zur Verdächtigen — die Fallstudie dazu, wie aus erfundenen Geschichten reale Hetzjagden werden.
+
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Topfvollgold dokumentiert den manuellen Vorgänger des Phänomens — erfundene Migrationsgeschichten von BILD, aufgepeppt mit KI-Fakebildern. Bei Nocun ist diese Pipeline vollständig automatisiert: der Fake entsteht per Prompt, die Verbreitung läuft über Sockenpuppen-Netzwerke. BILD/NIUS machen manuell, was KI-Slop industriell kann.

@@ -145,6 +145,10 @@ Quelle: [GCA #30: Wie rechte Milliardäre weltweit Medien unter ihre Kontrolle b
 
 ## Verbindungen
 
+### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
+
+Das deutsche Produkt der hier analysierten Eigentümerstruktur in Aktion: Gotthardts NIUS macht eine Unbeteiligte zur Mord-Komplizin von Stade — der Einzelfall, der zeigt, was die Anreizstruktur milliardärsfinanzierter Empörungsmedien konkret anrichtet.
+
 ### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
 
 Die Mikro- zur Makro-Ebene: Wertewesten streitet über einzelne „Einflussagenten" in Talkshows und um die öffentlich-rechtliche Bühne — diese Note zeigt die strukturelle Dimension dahinter, den Aufkauf ganzer Medienlandschaften. Heinrichs Sorge um einzelne Gäste wirkt klein neben der Frage, wem die privaten Bühnen überhaupt gehören.

@@ -254,6 +254,10 @@ Die entscheidende Frage: Bin ich **konfliktfähig** genug, dort die Stimme zu er
 
 ## Verbindungen
 
+### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
+
+Ein Lehrbuchfall der Verrohungs-Dynamik: Nach einer NIUS-Falschbeschuldigung im Mordfall Stade überziehen anonyme Nutzer eine unbeteiligte Mutter mit Folterfantasien — die Redaktion enthemmt, der Schwarm vollstreckt.
+
 ### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 Manow erklärt strukturell, *warum* Menschen populistisch wählen (Souveränitätsverlust, Öffnungsverlierer). Heitmeyer beschreibt, *was* diese gesellschaftlichen Verschiebungen auf der Verhaltens- und Klimaebene anrichten. Beide denken strukturell statt psychologisierend — die Diagnose ergänzt sich.
 
