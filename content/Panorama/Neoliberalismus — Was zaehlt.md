@@ -12,7 +12,7 @@ tags:
   - philosophie
   - komplexität
 erstellt: 2026-07-09
-aktualisiert: 2026-07-09
+aktualisiert: 2026-07-14
 ---
 
 # Neoliberalismus — Was zählt
@@ -67,6 +67,7 @@ Shivas tiefster Befund ist eine Verkehrung: Das Lebendige — Boden, Saat, Fürs
 Ein Panorama, das nur anklagt, wäre selbst zu billig. Die interessantere Frage: Wer versucht, anders zu zählen?
 
 > [!success] ✅ Was trägt bei
+> - **Das andere Maß existiert schon — und wird seit 2006 gemessen.** [[Martin Oetting — Happy Planet Index 2026|Der Happy Planet Index]] ist die empirische Antwort auf die Frage dieses Abschnitts: 134 Länder, gemessen daran, wer aus wenig Welt viel Leben macht. Das Ergebnis stellt die Rangordnung der Kennzahl auf den Kopf — Costa Rica (31.000 $ BIP/Kopf) auf Platz 1, die USA (85.800 $) auf Platz 105; und Deutschlands beste Werte stammen ausgerechnet aus den BIP-schwachen Jahren, die der Kanzler als verloren erzählt. Die Herrschaft der Kennzahl ist also nicht alternativlos: Man kann anders zählen, und es wird längst getan — nur regiert danach niemand.
 > - **Andere Kennzahlen statt kein Wachstum.** [[Maja Goepel — Mut zur Zukunft|Maja Göpel]] und die ganze *NEU DENKEN*-Reihe plädieren nicht für den Stillstand, sondern für ein anderes Maß: Wohlergehen, Zeitwohlstand, ökologische Bilanz statt bloßem BIP. Die Zählgrenze verschieben, nicht das Zählen abschaffen.
 > - **Die versteckten Kosten sichtbar machen.** [[Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen]] rechnet die Wegwerf-Logik nicht ans Gewissen, sondern in die Bilanz: Das eigentliche Risiko liegt nicht in der Transformation, sondern im Nicht-Handeln — man muss nur das Unbezahlte einpreisen.
 > - **Die Natur ins Recht setzen.** [[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche]] — Rechte der Natur als Rechtspraxis: Was ein Rechtssubjekt ist, kann nicht mehr als Null geführt werden.
@@ -102,3 +103,4 @@ Ein Panorama, das nur anklagt, wäre selbst zu billig. Die interessantere Frage:
 | [[Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko]] | Zeitgeist | Lösung (Kosten sichtbar) |
 | [[Felwine Sarr - Gehoert Afrika die Zukunft]] | Denker | Lösung (économie humaine) |
 | [[Christoph Butterwegge — Armut NEU DENKEN]] | Zeitgeist | Kontext (Armut vermessen) |
+| [[Martin Oetting — Happy Planet Index 2026]] | Zeitgeist | Lösung (das andere Maß, gemessen) |

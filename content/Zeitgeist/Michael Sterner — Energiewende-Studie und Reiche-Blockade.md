@@ -150,6 +150,10 @@ Sterners Ansage an den Bayerischen Energiebeirat fasst die Lage zusammen: Reiche
 
 ## Verbindungen
 
+### → [[Martin Oetting — Happy Planet Index 2026]]
+
+Die internationale Einordnung der Blockade: Der Happy Planet Index 2026 führt Costa Ricas und Spaniens Spitzenplätze auf erneuerbare Energie als politische Entscheidung zurück — und misst den ersten deutschen Fußabdruck-Anstieg seit anderthalb Jahrzehnten (2024→2025).
+
 ### → [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus]]
 
 Der „letzter Patriot im Land“-Frame ausgebaut zur Haltung; auch hier die Forderung nach vorgeschalteter wissenschaftlicher Gesetzesprüfung.

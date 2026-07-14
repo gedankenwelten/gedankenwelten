@@ -92,6 +92,10 @@ Flassbeck entlarvt den logischen Kurzschluss mit seinem Lieblingsargument, dem S
 
 ## Verbindungen
 
+### → [[Martin Oetting — Happy Planet Index 2026]]
+
+Dieselbe Merz-Erzählung von der anderen Seite seziert: Der Happy Planet Index 2026 zeigt, dass die „verlorenen Jahre“, die Merz beklagt, an der Wohlstands-Messlatte die besten der Bundesrepublik waren.
+
 ### → [[phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
 Flassbecks Sparparadoxon ist der schärfste makroökonomische Einwand gegen das Herzstück des Pakets — die neue gesetzliche Kapitalrente nach AP7-Vorbild, die die phoenix-Runde als „Gamechanger" verhandelt.
 

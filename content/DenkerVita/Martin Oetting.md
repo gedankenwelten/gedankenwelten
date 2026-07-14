@@ -71,3 +71,4 @@ Oetting steht in der Tradition der **Wellbeing-Economy- / Postwachstums-Bewegung
 ## Gedankenwelten-Notes
 
 - [[Martin Oetting — Faschismus stoppen, mit der Wahrheit arbeiten]]
+- [[Martin Oetting — Happy Planet Index 2026]]
