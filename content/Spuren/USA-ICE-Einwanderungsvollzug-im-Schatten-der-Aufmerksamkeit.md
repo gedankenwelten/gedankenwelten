@@ -9,7 +9,7 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 74%
+konfidenz: 77%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
 aktualisiert: 2026-07-15
@@ -54,6 +54,71 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 **Kalt, wenn:** Politikwechsel beendet das Thema ohne neue Daten.
 
 ## Verlauf
+
+### 2026-07-15 — Tiefen-Sweep: die unsichtbaren Toten (Konfidenz 74 % → 77 %)
+
+**Befund:** Gezielte Recherche nach Todesfällen *unterhalb* der Schlagzeilen-Schwelle. Drei Ebenen:
+
+*Erstens — das Fahrzeug-Muster ist älter und größer.* **Ruben Ray Martinez** (23, **US-Bürger**,
+15.3.2025, South Padre Island/TX): von einem HSI-Agenten durchs Seitenfenster erschossen, offizielle
+Version „wollte einen Agenten vorsätzlich überfahren" — das von der Familie erwirkte **Bodycam-Video
+widerspricht** (Auto kaum in Bewegung, niemand vor dem Wagen). Dass überhaupt ein *Bundesagent*
+schoss, wurde **elf Monate lang nicht bestätigt** (erst Feb. 2026); eine Grand Jury lehnte die Anklage
+dennoch ab. **Silverio Villegas González** (38, Koch, 12.9.2025, Franklin Park/IL): erschossen nach
+Verkehrsstopp, Minuten nachdem er sein Kind zur Kita brachte; DHS-Version „Agent erheblich
+mitgeschleift, schwer verletzt" — **Bodycam widerspricht** (der Agent selbst: „nichts Größeres").
+[Texas Tribune](https://www.texastribune.org/2026/05/04/ruben-ray-martinez-josh-orta-south-padre-ice-shooting-death/) ·
+[CBS](https://www.cbsnews.com/news/bodycam-video-ice-fatal-shooting-ruben-ray-martinez-texas/) ·
+[Sun-Times](https://chicago.suntimes.com/immigration/2025/09/15/silverio-villegas-gonzalez-fatally-shot-by-ice-agents-touched-the-lives-of-so-many-loved-ones-say)
+
+*Zweitens — eine Klasse indirekter Tode, fast unsichtbar:* **Jaime Alanis** (57, 10.7.2025,
+Camarillo/CA — 9-m-Sturz vom Gewächshausdach auf der Flucht vor der Razzia, erster Toter der
+Trump-2.0-Einsätze), **Roberto Carlos Montoya Valdez** (52, 14.8.2025, Monrovia/CA — floh vor Agenten
+auf die Interstate, von SUV erfasst), **Josué Castro-Rivera** (24, 23.10.2025, Norfolk/VA — floh zu
+Fuß auf die I-264, erfasst), ein **Unidentifizierter** (28, 14.7.2026, St. Augustine/FL — lief auf
+der Flucht in einen Sattelzug). Alle vier: nur lokale/regionale Berichterstattung, von DHS nicht als
+„durch ICE getötet" gezählt. Die Wikipedia-Liste der Agenten-Schießereien zählt **≥39 Schießereien
+und 11 Tote seit 20.1.2025**; das WSJ identifizierte allein Jul 2025–Jan 2026 **über ein Dutzend**
+Schüsse auf Menschen in Fahrzeugen.
+[Al Jazeera](https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed) ·
+[Wikipedia-Schießerei-Liste](https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration)
+
+*Drittens — die Haft-Statistik und die aktiv verengte Sichtbarkeit:* Kalenderjahr 2026 steht bei
+**18–21 Toten in ICE-Haft** (Stand Anfang Juli; offizielle Zahlen via UN/Türk: 2024 = 11, 2025 = 33)
+— der 2025-Rekord fällt absehbar. Die HRW-Kernzahl (52 Tote/500 Tage) hält. **ICE hat im Juni 2026
+die Meldepflicht für Todesfälle binnen 30 Tagen nach Entlassung abgeschafft** — wer kurz vor dem Tod
+entlassen wird, verschwindet aus der Zählung; UCLA Law nennt die dokumentierten Zahlen ausdrücklich
+„a floor, rather than a ceiling". Das Everglades-Lager **„Alligator Alcatraz" ist seit 25.6.2026
+geschlossen**; es lief als State-Betrieb *außerhalb* der ICE-Datenbanken (Meldepflicht unklar),
+Amnesty dokumentierte die Bedingungen als „Folter", eine Untersuchung behauptet **~1.200 zeitweise
+„off the grid"** geratene Häftlinge (Snopes: dokumentierte Behauptung, kein bestätigtes Faktum).
+Mexiko hat die diplomatische Schiene verlassen und lässt ICE-Verantwortliche für tote Mexikaner
+**formell anklagen**.
+[UCLA Law](https://uclaprisondata.org/ice-deaths-in-custody) ·
+[ZEIT/UN](https://www.zeit.de/politik/ausland/2026-06/einwanderungshaft-usa-ice-volker-tuerk-todesfaelle) ·
+[Amnesty](https://www.amnestyusa.org/reports/torture-and-enforced-disappearances-in-the-sunshine-state-human-rights-violations-at-alligator-alcatraz-and-krome-in-florida/) ·
+[El País](https://elpais.com/mexico/2026-07-09/mexico-abandona-la-via-diplomatica-y-lleva-a-los-tribunales-estadounidenses-los-casos-de-los-mexicanos-muertos-a-manos-de-ice.html)
+
+**Deutung:** Der bislang schwächste Teil der These — *Unsichtbarkeit als Bedingung, nicht
+Begleiterscheinung* — bekommt erstmals harte Mechanik: Ein Bundesagenten-Schuss auf einen US-Bürger
+blieb elf Monate unbestätigt; indirekte Tode werden kategorial nicht gezählt; die Meldepflicht wurde
+aktiv *verengt*, nicht erweitert; ein ganzes Lager lief außerhalb der Melde-Infrastruktur. Das ist
+nicht nachlassende Aufmerksamkeit der Medien, sondern **hergestellte Dunkelheit auf Behördenseite**
+— ein stärkerer Befund als jede Einzelzahl. Zudem zeigen Martinez und Villegas: In beiden Fällen,
+in denen Bodycam-Material existiert, widerlegt es die Behördenversion — was das Gewicht der vier
+kameralosen Fälle verschiebt. Konfidenz +3 statt mehr, wegen der Gegenbeobachtung.
+
+**Gegenbeobachtung (Pflicht):** Das härteste Gegensignal zuerst: Die **Haftpopulation ist gesunken**
+— vom Januar-Peak (~73.000) auf 60.311 am 4.4.2026 (TRAC). Das berührt die vorregistrierte
+„Geschwächt, wenn"-Bedingung *„Haftzahlen sinken nachhaltig"*. Ehrlich offen, ob das nachhaltig ist
+(der 100.000-Betten-Ausbau läuft weiter, und Rückgang kann auch Abschiebe-Durchsatz statt weniger
+Zugriffe bedeuten) — aber es ist der erste Datenpunkt in Richtung einer Schwächungs-Bedingung und
+wird ab jetzt pro Sweep geprüft. Auch die Schließung von „Alligator Alcatraz" ist als Rücknahme
+lesbar, nicht nur als Eskalation. Ferner: Die aggregierten Toten-Zahlen (ICEFall: „102 Tote 2025")
+stammen aus advocacy-nahen Trackern und mischen Haft- und Einsatz-Tode — für harte Aussagen taugen
+nur die getrennten Register (Wikipedia-Schießereien / UCLA / HRW). Und die Grand-Jury-Entscheidung
+im Fall Martinez ist formal ein rechtsstaatliches Verfahren mit Ergebnis — Straflosigkeit ist hier
+eine *Bewertung*, kein Verfahrensausfall.
 
 ### 2026-07-15 — Der Fall Guerrero: der vierte Fahrzeug-Fall, sechs Tage nach dem dritten (Konfidenz 72 % → 74 %)
 
@@ -170,10 +235,12 @@ Council, Al Jazeera) sind advocacy-gefärbt.
 sich der Vollzug selbst? Dieser Abschnitt beobachtet das tödliche Fahrzeug-Muster als eigenen Faden.
 Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur eigenen Spur ausgegründet.*
 
-**Das Fahrzeug-Muster — vier Tote, ein Drehbuch:**
+**Das Fahrzeug-Muster — sechs Tote, ein Drehbuch** *(erweitert 15.07.2026 nach Tiefen-Sweep)*:
 
 | Datum | Ort | Opfer | Status | Zielperson? | Bodycam | Behörden-Formel |
 |---|---|---|---|---|---|---|
+| 15.03.2025 | South Padre Island, TX | Ruben Ray Martinez | **US-Bürger** | — (Polizei-Assist) | **ja — widerlegt Version** | „wollte Agenten überfahren" / Notwehr |
+| 12.09.2025 | Franklin Park, IL | Silverio Villegas González | Koch, Vater | Verkehrsstopp | **ja — widerlegt Version** | „Agent mitgeschleift" / Notwehr |
 | 07.01.2026 | Minneapolis | Renée Good | US-Bürgerin | — | nein | „Fahrzeug als Waffe" / Notwehr |
 | 24.01.2026 | Minneapolis | Alex Pretti | US-Bürger | — | nein | „Fahrzeug als Waffe" / Notwehr |
 | 07.07.2026 | Houston | Lorenzo Salgado | 35 J. im Land, U-Visa-Verfahren | **nein** (Van-Verwechslung) | nein | „Fahrzeug als Waffe" / Notwehr |
@@ -181,22 +248,38 @@ Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur ei
 
 **Was sich über die Fälle abzeichnet:**
 
-1. **Beschleunigung.** Zwischen Fall 1 und 3 lagen fünf Monate, zwischen Fall 3 und 4 sechs Tage.
+1. **Beschleunigung.** 2025 zwei Fälle in sechs Monaten Abstand; 2026 vier Fälle, die letzten beiden
+   sechs Tage auseinander.
 2. **Rhetorische Drift nach unten.** Von der (prüfbaren) Notwehr-Behauptung zur (unprüfbaren)
    „öffentlichen Sicherheit" — der Apparat senkt den Anspruch an die eigene Rechtfertigung, statt ihn
    unter öffentlichem Druck zu erhöhen.
-3. **Die Zielperson ist austauschbar.** Zwei Bürger, zwei Verwechslungen — die Letalität hängt nicht
+3. **Die Zielperson ist austauschbar.** Drei Bürger, zwei Verwechslungen — die Letalität hängt nicht
    an der Gefährlichkeit oder auch nur der Identität des Getroffenen, sondern an der Situation
    „Fahrzeug + Zugriff".
-4. **Konstante Beweisarmut.** In keinem der vier Fälle Bodycams; die Behörde kontrolliert, welche
-   Aufnahmen die Öffentlichkeit sieht, und beschuldigt das Opfer binnen Stunden.
-5. **Bisher null strafrechtliche Konsequenz** (Stand 15.07.2026) — Good und Pretti sind je sechs
-   Monate her.
+4. **Beweisarmut mit Ansage.** In den beiden Fällen *mit* Bodycam widerlegt die Aufnahme die
+   Behördenversion (Martinez: 11 Monate zurückgehalten; Villegas: „schwer verletzter" Agent selbst —
+   „nichts Größeres"); in den vier Fällen *ohne* Kamera gilt Wort gegen Wort. Das verschiebt die
+   Beweislast des ganzen Musters.
+5. **Bisher null strafrechtliche Konsequenz** (Stand 15.07.2026) — im einzigen abgeschlossenen
+   Verfahren (Martinez) lehnte die Grand Jury die Anklage ab, *trotz* widersprechender Bodycam.
 
-**Ehrliche Grenze des Musters:** n=4 ist ein kleines n. Die Basisrate fehlt — wie viele
+**Die zweite Ebene: das Dunkelfeld der indirekten Tode.** Neben den Erschossenen gibt es eine Klasse
+von Toten, die in keiner DHS-Rechnung als „durch ICE" auftaucht und fast nur lokal berichtet wird:
+Flucht-Stürze (Jaime Alanis, Camarillo), auf der Flucht von Fahrzeugen Erfasste (Montoya Valdez /
+Monrovia, Castro-Rivera / Norfolk, ein Unbekannter / St. Augustine), Tote kurz nach Entlassung oder
+Abschiebung (L.A. TACO zählt mind. 6; ICE hat die 30-Tage-Meldepflicht im Juni 2026 abgeschafft).
+Systematische Register führen nur NGOs und Journalisten: [Wikipedia-Schießerei-Liste](https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration)
+(≥39 Schießereien, 11 Tote), [UCLA Law](https://uclaprisondata.org/ice-deaths-in-custody) (Haft),
+[L.A. TACO Death Tracker](https://lataco.com/ice-death-tracker), [ICEFall](https://icefalltracker.com/)
+(advocacy-nah, mischt Kategorien). Dass es **kein staatliches Gesamtregister** gibt, ist selbst der
+Befund.
+
+**Ehrliche Grenze des Musters:** n=6 bleibt ein kleines n, und die Basisrate fehlt — wie viele
 Fahrzeug-Stopps verlaufen *ohne* Schuss? Eine Behörde mit zigtausend Zugriffen pro Woche produziert
-auch ohne Radikalisierung seltene Extremereignisse; das Muster wird erst beweiskräftig, wenn Frequenz
-und Begründungsdrift sich über weitere Fälle halten. Genau dafür steht dieser Abschnitt.
+auch ohne Radikalisierung seltene Extremereignisse. Die Dunkelfeld-Zählungen (ICEFall „102 Tote 2025")
+sind advocacy-nah und kategorien-mischend — hier zählen nur die sauber getrennten Register. Das
+Muster wird erst beweiskräftig, wenn Frequenz und Begründungsdrift sich über weitere Fälle halten.
+Genau dafür steht dieser Abschnitt.
 
 ## Gleichmut-Spiegel
 
@@ -220,6 +303,13 @@ und Begründungsdrift sich über weitere Fälle halten. Genau dafür steht diese
 >   Extremwert-Statistik eines riesigen Apparats sein). Konfidenz nur +2, obwohl der Bauch mehr wollte.
 >   Wachpunkt: Sollten die Ermittlungen in Maine (Lokalpolizei, nicht nur Bund) zu echten Konsequenzen
 >   führen, wäre das ein Befund *gegen* die Straflosigkeits-Lesart — dann gehört er ins Muster, prominent.
+> - **15.07.2026 (Tiefen-Sweep):** Die Recherche nach „unsichtbaren Toten" ist strukturell
+>   bestätigungs-anfällig — wer Dunkelfeld sucht, findet Dunkelfeld. Deshalb bewusst: die
+>   advocacy-Aggregate (102 Tote) *nicht* in die These übernommen, nur die trennscharfen Register.
+>   Und das stärkste Gegensignal nicht weggedrückt: Die Haftzahlen sind seit Januar *gesunken* —
+>   das ist eine unserer vorregistrierten Schwächungs-Bedingungen und wird ab jetzt in jedem Sweep
+>   zuerst geprüft, nicht zuletzt. Wachpunkt: Wenn der Rückgang im Herbst anhält, muss die
+>   Konfidenz *runter*, auch wenn die Einzelfälle weiter empören.
 
 ## Verbindungen
 
@@ -260,6 +350,18 @@ Das ideologische Fundament, auf dem der Vollzug ruht.
 *Eintrag 15.07.2026 (Fall Guerrero):*
 
 - [Koschi Politik — 2 Tote in einer Woche!](https://www.youtube.com/watch?v=Yl4dJC0x65M) → Fall-Note [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
+
+*Tiefen-Sweep 15.07.2026 (die unsichtbaren Toten):*
+
+- [Texas Tribune — Ruben Ray Martinez / South Padre ICE shooting](https://www.texastribune.org/2026/05/04/ruben-ray-martinez-josh-orta-south-padre-ice-shooting-death/) · [CBS — Bodycam widerspricht ICE-Version](https://www.cbsnews.com/news/bodycam-video-ice-fatal-shooting-ruben-ray-martinez-texas/)
+- [Chicago Sun-Times — Silverio Villegas González](https://chicago.suntimes.com/immigration/2025/09/15/silverio-villegas-gonzalez-fatally-shot-by-ice-agents-touched-the-lives-of-so-many-loved-ones-say)
+- [CNN — Jaime Alanis, Sturz bei Razzia](https://www.cnn.com/2025/07/13/us/farmworker-dies-california-immigration-raids-hnk) · [CNN — Montoya Valdez, Interstate](https://www.cnn.com/2025/08/15/us/immigration-raid-man-freeway-death-hnk) · [WAVY — Castro-Rivera, I-264](https://www.wavy.com/news/local-news/man-killed-while-fleeing-ice-on-i-264-identified-as-honduran-national/) · [CNN — St. Augustine](https://www.cnn.com/2026/07/14/us/ice-agents-florida-death)
+- [Al Jazeera — Who else has ICE killed (Übersicht + Ende der 30-Tage-Meldepflicht)](https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed)
+- [Wikipedia — List of shootings by U.S. immigration agents (2nd Trump admin)](https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration) · [UCLA Law — ICE Deaths in Custody](https://uclaprisondata.org/ice-deaths-in-custody) · [L.A. TACO — ICE Death Tracker](https://lataco.com/ice-death-tracker)
+- [ZEIT — UN/Türk fordert Untersuchung (offizielle Zahlen 11/33/18)](https://www.zeit.de/politik/ausland/2026-06/einwanderungshaft-usa-ice-volker-tuerk-todesfaelle)
+- [Amnesty — Torture and Enforced Disappearances in the Sunshine State](https://www.amnestyusa.org/reports/torture-and-enforced-disappearances-in-the-sunshine-state-human-rights-violations-at-alligator-alcatraz-and-krome-in-florida/) · [PBS — Alligator Alcatraz geräumt](https://www.pbs.org/newshour/politics/all-detainees-from-immigration-facility-alligator-alcatraz-have-been-transferred) · [Snopes — „1.200 off the grid"-Behauptung](https://www.snopes.com/news/2026/02/02/1200-detainees-disappeared-claim/)
+- [El País — Mexiko bringt ICE-Todesfälle vor Gericht](https://elpais.com/mexico/2026-07-09/mexico-abandona-la-via-diplomatica-y-lleva-a-los-tribunales-estadounidenses-los-casos-de-los-mexicanos-muertos-a-manos-de-ice.html)
+- [TRAC — Detention Quick Facts (60.311 am 04.04.2026)](https://tracreports.org/immigration/quickfacts/)
 
 
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
