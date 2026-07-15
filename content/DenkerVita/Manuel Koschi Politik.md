@@ -105,3 +105,4 @@ Manuel ist kein Buchautor — sein Medium ist YouTube. Kernformate des Kanals:
 - [[Koschi Politik — Weißes Haus löscht Trumps Privatvideo]]
 - [[Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedrängt]]
 - [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
+- [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]

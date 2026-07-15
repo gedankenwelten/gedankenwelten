@@ -172,3 +172,7 @@ ICE als verlängerter Arm des Trump-Netzwerks — im Ungaro-Fall für einen priv
 ### → [[taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
 
 Konkretestes Fallbeispiel zu ICE-Terror: Marina Klimchuk berichtet vom vor Ort Erlebten nach der größten ICE-Razzia an einem Einzelstandort (Hyundai Ellabell, 475 Verhaftungen, 316 Südkoreaner). Lokale Reaktion: Desinteresse und Normalisierung statt Empörung.
+
+### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
+
+Die strukturelle Lesart dieser Note (Vollzug als Machtdemonstration) am tödlichen Einzelfall: ICE erschießt in Maine — dem sichersten Bundesstaat — einen Arbeitsberechtigten, der nicht die Zielperson war.

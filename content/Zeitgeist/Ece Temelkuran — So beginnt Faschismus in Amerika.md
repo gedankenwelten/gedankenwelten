@@ -285,3 +285,7 @@ Brockschmidt/Nocun liefern die US-deutschen Fallbeispiele zu Temelkurans Stufenm
 
 Theveßen liefert die laufenden Beweisstücke zu Temelkurans Stufenmodell: die „Volksfeind“-Genealogie (hostis publicus → NS → Trumps „enemy of the people“) und das NSPM-7, das Gesinnung zur Terrordefinition macht — Normalisierung der Enthemmung, dokumentiert von einem, der daneben steht.
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Skenderovics „Faschisierung als Prozess“ ist der historiografische Zwilling von Temelkurans Stufenmodell; zugleich warnt er (gegen Valentim), Normalisierung nicht als bloßes Sichtbarwerden eines ewigen Bodensatzes zu deuten: „Die Menschen kommen nicht als Rassisten auf die Welt.“
+
+### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
+
+Temelkurans Warnung im Vollzug angekommen: Die Sprache, die tödliche Gewalt deckt („öffentliche Sicherheit" statt Notwehr), verschiebt sich schneller als die Taten — Normalisierung als rhetorische Drift, dokumentiert an einem Toten in Maine.

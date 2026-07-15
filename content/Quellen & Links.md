@@ -68,6 +68,16 @@ tags:
 | **Fund via** | /kairos (Malala Day) + /sepia (PeerTube-Mirror, diler.tube) |
 | **Transkript** | `Gedankenwelten/Transkripte/Malala_Girls_Education_TED_Transkript.txt` |
 
+## Koschi Politik — ICE erschießt Joan Sebastián Guerrero (2026)
+
+| | |
+|---|---|
+| **Video** | [2 Tote in einer Woche! Schon wieder musste in den USA ein unschuldiger sterben!](https://www.youtube.com/watch?v=Yl4dJC0x65M) |
+| **Notiz** | [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]] |
+| **Spur** | [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit]] |
+| **DenkerVita** | [[DenkerVita/Manuel Koschi Politik]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Koschi_ICE_Zwei_Tote_Transkript.txt` |
+
 ## Koschi Politik — ICE erschießt Lorenzo Salgado (2026)
 
 | | |

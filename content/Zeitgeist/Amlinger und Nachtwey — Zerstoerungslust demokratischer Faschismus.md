@@ -263,6 +263,10 @@ Die Zerstörungslust im Vollzug: maskierte Agenten, die das Adrenalin der Jagd s
 - [[Denker/Erich Fromm — Im Namen des Lebens]] — Die Urquelle des Schlüsselzitats: Hier prägt Fromm 1973 selbst die Nekrophilie/Biophilie-Achse und sagt, Destruktivität sei „das Versagen der Kunst des Lebens". A/Ns „Zerstörungslust als Gefühlsstruktur" und „Need for Chaos" sind die soziologisch vermessene Gegenwartsvariante von Fromms tiefenpsychologischer Liebe zum Toten.
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Redeckers Person/System-Unterscheidung (Trump Faschist, USA noch kein Faschismus, „weil Teile der Institutionen halten“) ist das dialogische Gegenstück zum demokratischen Faschismus: beide vermessen das Kippen von innen.
 
+### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
+
+Die Theorie im Konkreten: ICE erschießt den Falschen und ersetzt die Notwehr-Behauptung durch die unprüfbare „öffentliche Sicherheit" — Gewalt innerhalb demokratischer Formen, die ihre Straflosigkeit bereits einpreist.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
