@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **15.07.** — [[Zeitgeist/Koschi Politik — ICE erschiesst Joan Sebastian Guerrero|ICE erschießt Joan Sebastián Guerrero — der zweite Tote in einer Woche]]
+>
+> Arbeitserlaubnis, Social Security Number, die dreijährige Tochter auf der Rückbank — und wieder war es der Falsche. Diesmal begründet DHS den Schuss nicht mit Notwehr, sondern mit „öffentlicher Sicherheit“.
+
 > **14.07.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
 >
 > Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört.
@@ -38,11 +42,13 @@ Die Gedankenwelten (luc)
 
 > **13.07.** — [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
 
-> **13.07.** — [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]]
->
-> Wir sind politisierter denn je — und ändern nichts. Anton Jägers Hyperpolitik erklärt, warum Wut ohne Institutionen verpufft: Repolitisierung ohne Reinstitutionalisierung.
+> → *9 weitere in* [[Zeitgeist]]
 
-> → *8 weitere in* [[Zeitgeist]]
+### Spuren
+
+> **15.07.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+>
+> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
 
 ### Denker
 
@@ -60,7 +66,7 @@ Die Gedankenwelten (luc)
 >
 > Eine junge Frau, die den Weg vom Schulverbot zum Nobelpreis ging, über Bildung als Emanzipation, Hoffnung als Methode und die einzige Niederlage, die zählt: am eigenen Wert zu zweifeln.
 
-> → *5 weitere in* [[Denker]]
+> → *2 weitere in* [[Denker]]
 
 ### Geistesblitz
 
@@ -87,16 +93,6 @@ Die Gedankenwelten (luc)
 > **03.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
 >
 > Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
-
-### Spuren
-
-> **10.07.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
-
-> **07.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
->
-> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
 ### Gedanken
 

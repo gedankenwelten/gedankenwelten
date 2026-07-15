@@ -9,10 +9,10 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 72%
+konfidenz: 74%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-07-10
+aktualisiert: 2026-07-15
 description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung."
 ---
 
@@ -54,6 +54,38 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 **Kalt, wenn:** Politikwechsel beendet das Thema ohne neue Daten.
 
 ## Verlauf
+
+### 2026-07-15 — Der Fall Guerrero: der vierte Fahrzeug-Fall, sechs Tage nach dem dritten (Konfidenz 72 % → 74 %)
+
+**Befund:** Am 13.7.2026 gegen 7 Uhr morgens erschoss ein ICE-Agent in **Biddeford, Maine**, den
+26-jährigen **Joan Sebastian Guerrero** — laut Maine Immigrant Rights Coalition arbeitsberechtigt mit
+Social Security Number, auf dem Weg zur Arbeit, seine **dreijährige Tochter auf der Rückbank**. ICE
+rammte sein Auto; verfügbare Aufnahmen und Zeugen sprechen für einen Schuss auf ein *stehendes*
+Fahrzeug. **Wieder keine Bodycams, wieder nicht die Zielperson** — das DHS-Statement räumt selbst ein,
+dass die Operation der „letzten bekannten Adresse eines illegalen Ausländers mit endgültiger
+Abschiebungsanordnung" galt, und nennt Guerrero nicht beim Namen. Neu: Die Begründung lautet diesmal
+nicht Notwehr, sondern Sorge um die **„öffentliche Sicherheit"**. Ermittlungen: Biddeford PD, FBI,
+DHS-OIG. Proteste in Maine wie zuvor in Texas. → Fall-Note:
+[[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
+
+**Deutung:** Zweierlei verdichtet sich. Erstens die **Kadenz**: Zwischen Fall 3 (Salgado) und Fall 4
+liegen sechs Tage — die tödlichen Fahrzeug-Fälle beschleunigen sich (Jan → Jan → Jul → Jul). Zweitens
+die **rhetorische Drift**: „Öffentliche Sicherheit" ist ein schwächerer, unüberprüfbarerer
+Rechtfertigungsstandard als Notwehr — die Behörde muss nicht mehr behaupten, ein Agent sei in
+Lebensgefahr gewesen. Wenn der Apparat den Anspruch an die eigene Rechtfertigung senkt, *obwohl* die
+Fälle sichtbarer werden, spricht das für gefestigte Straflosigkeitserwartung. Das Muster ist jetzt
+tragfähig genug für eine eigene Sektion (→ `## Muster`). Konfidenz +2: bestätigt Richtung und
+beschleunigt das Muster, aber der Kernmechanismus (Eskalation bei sinkender Aufmerksamkeit) bleibt
+derselbe.
+
+**Gegenbeobachtung (Pflicht):** Wie bei Salgado gilt: Dieser Fall ist **nicht unsichtbar** — CNN
+berichtet mit Augenzeugen, in Maine formiert sich Staats- und Lokalpolitik (die frühere
+DHS-Mitarbeiterin erwartet „sehr aggressive" Aufklärung, Collins' ICE-Votum wird zum Politikum),
+Proteste laufen. Der Unsichtbarkeits-Teil der These wird von den Todesfällen weiterhin *nicht*
+getragen — er trägt nur für den Routinevollzug (Haft, Razzien, Todesfälle in Haft). Zudem ist „Schuss
+auf stehendes Auto" bislang Video-Lesart von Kommentatoren und Zeugen, kein Ermittlungsergebnis; die
+DHS-Version (Fluchtversuch) ist nicht widerlegt. Und: Drei Ermittlungsstränge inkl. Lokalpolizei sind
+das Gegenteil eines rechtsfreien Raums — ob sie Konsequenzen erzeugen, ist der eigentliche Test.
 
 ### 2026-07-10 — Der Fall Lorenzo Salgado: das dritte „Fahrzeug als Waffe" (Konfidenz 70 % → 72 %)
 
@@ -132,6 +164,40 @@ Aufsicht (Rep. Chu u.a.) erhielt Zugang zum Adelanto-Zentrum. Das spricht *gegen
 Zudem: Der Haftzahl-Anstieg kann teils Backlog/Definition sein, und mehrere Quellen (American Immigration
 Council, Al Jazeera) sind advocacy-gefärbt.
 
+## Muster
+
+*Angelegt 15.07.2026, nach dem vierten Fall — die Meta-Ebene über den Einzelfällen: Radikalisiert
+sich der Vollzug selbst? Dieser Abschnitt beobachtet das tödliche Fahrzeug-Muster als eigenen Faden.
+Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur eigenen Spur ausgegründet.*
+
+**Das Fahrzeug-Muster — vier Tote, ein Drehbuch:**
+
+| Datum | Ort | Opfer | Status | Zielperson? | Bodycam | Behörden-Formel |
+|---|---|---|---|---|---|---|
+| 07.01.2026 | Minneapolis | Renée Good | US-Bürgerin | — | nein | „Fahrzeug als Waffe" / Notwehr |
+| 24.01.2026 | Minneapolis | Alex Pretti | US-Bürger | — | nein | „Fahrzeug als Waffe" / Notwehr |
+| 07.07.2026 | Houston | Lorenzo Salgado | 35 J. im Land, U-Visa-Verfahren | **nein** (Van-Verwechslung) | nein | „Fahrzeug als Waffe" / Notwehr |
+| 13.07.2026 | Biddeford, Maine | Joan Sebastian Guerrero | arbeitsberechtigt, SSN | **nein** (DHS räumt es ein) | nein | **„öffentliche Sicherheit"** |
+
+**Was sich über die Fälle abzeichnet:**
+
+1. **Beschleunigung.** Zwischen Fall 1 und 3 lagen fünf Monate, zwischen Fall 3 und 4 sechs Tage.
+2. **Rhetorische Drift nach unten.** Von der (prüfbaren) Notwehr-Behauptung zur (unprüfbaren)
+   „öffentlichen Sicherheit" — der Apparat senkt den Anspruch an die eigene Rechtfertigung, statt ihn
+   unter öffentlichem Druck zu erhöhen.
+3. **Die Zielperson ist austauschbar.** Zwei Bürger, zwei Verwechslungen — die Letalität hängt nicht
+   an der Gefährlichkeit oder auch nur der Identität des Getroffenen, sondern an der Situation
+   „Fahrzeug + Zugriff".
+4. **Konstante Beweisarmut.** In keinem der vier Fälle Bodycams; die Behörde kontrolliert, welche
+   Aufnahmen die Öffentlichkeit sieht, und beschuldigt das Opfer binnen Stunden.
+5. **Bisher null strafrechtliche Konsequenz** (Stand 15.07.2026) — Good und Pretti sind je sechs
+   Monate her.
+
+**Ehrliche Grenze des Musters:** n=4 ist ein kleines n. Die Basisrate fehlt — wie viele
+Fahrzeug-Stopps verlaufen *ohne* Schuss? Eine Behörde mit zigtausend Zugriffen pro Woche produziert
+auch ohne Radikalisierung seltene Extremereignisse; das Muster wird erst beweiskräftig, wenn Frequenz
+und Begründungsdrift sich über weitere Fälle halten. Genau dafür steht dieser Abschnitt.
+
 ## Gleichmut-Spiegel
 
 > [!question] Wo krallt der Beobachter?
@@ -148,6 +214,12 @@ Council, Al Jazeera) sind advocacy-gefärbt.
 >   überall in den Schlagzeilen). Nicht dem Impuls nachgegeben, die laufende Notwehr-Frage vorab zu
 >   entscheiden — sie bleibt offen, bis OIG/DA liefern. Wachpunkt: Wenn die Untersuchungen den Agenten
 >   entlasten, gehört das hier so prominent hin wie der Befund.
+> - **15.07.2026:** Der zweite Tote in einer Woche erzeugt den stärksten Bestätigungs-Sog bisher — und
+>   die Versuchung, sofort eine eigene „ICE radikalisiert sich"-Spur zu eröffnen. Bewusst dagegen
+>   entschieden: erst das Muster als Sektion führen, mit offener Basisraten-Frage (n=4 kann auch
+>   Extremwert-Statistik eines riesigen Apparats sein). Konfidenz nur +2, obwohl der Bauch mehr wollte.
+>   Wachpunkt: Sollten die Ermittlungen in Maine (Lokalpolizei, nicht nur Bund) zu echten Konsequenzen
+>   führen, wäre das ein Befund *gegen* die Straflosigkeits-Lesart — dann gehört er ins Muster, prominent.
 
 ## Verbindungen
 
@@ -184,6 +256,10 @@ Das ideologische Fundament, auf dem der Vollzug ruht.
 - [KPRC/Click2Houston — New video, expert analysis raise new questions](https://www.click2houston.com/news/local/2026/07/10/new-video-expert-analysis-raise-new-questions-in-deadly-ice-shooting-of-lorenzo-salgado-araujo/)
 - [NBC News — ICE officers in fatal Houston shooting not wearing bodycams](https://www.nbcnews.com/news/us-news/ice-officers-fatal-houston-shooting-not-wearing-bodycams-rcna353690)
 - [Wikipedia — Killing of Renée Good](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good) · [Killing of Alex Pretti](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti)
+
+*Eintrag 15.07.2026 (Fall Guerrero):*
+
+- [Koschi Politik — 2 Tote in einer Woche!](https://www.youtube.com/watch?v=Yl4dJC0x65M) → Fall-Note [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
 
 
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]

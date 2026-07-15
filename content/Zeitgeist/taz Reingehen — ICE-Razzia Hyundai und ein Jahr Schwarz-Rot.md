@@ -214,3 +214,7 @@ Beide ziehen dieselbe Jahresbilanz Schwarz-Rot — diese Note von innen (Ministe
 ### → [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch]]
 
 GCA 33 zieht dieselbe Bilanz von außen, die Jakobs Ministeriums-Quellen von innen stützen: ca. 87% Unzufriedenheit, AfD auf Allzeithoch, Migrationsverschärfung als Scheinlösung. Beide Notes dokumentieren, dass Schwarz-Rot ihr zentrales Versprechen — AfD halbieren — in sein Gegenteil verkehrt hat.
+
+### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
+
+Vom Massenzugriff zum Einzelschicksal: Der Fall Guerrero (Biddeford, Maine) zeigt denselben Apparat im tödlichen Einzelfall — falsche Zielperson, keine Bodycam, Opferbeschuldigung binnen Stunden.

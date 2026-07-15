@@ -263,6 +263,10 @@ Die Schwester-Spur: Dort ist die Frage, was eine Regierung *tut*, wenn die Aufme
 bereits Praxis — inklusive des Befunds, dass Gerichte das Tempo bremsen, nicht die Richtung. Ein
 mögliches Vorbild dessen, was hier Dimension A–C werden könnte.
 
+### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
+
+Die amerikanische Gegenwart zur deutschen Probe: „Wir schieben nur Kriminelle ab" war auch Trumps Wahlkampfformel — im Vollzug starb ein Arbeitsberechtigter, der nicht einmal die Zielperson war. Der Fall zeigt, was aus der Formel wird, wenn ein Apparat sie ohne wirksame Rechenschaft vollstreckt.
+
 ## Quellen
 
 - [GFF — Pressemitteilung zum Gutachten, 25.06.2026](https://freiheitsrechte.org/ueber-die-gff/presse/pressemitteilungen-der-gesellschaft-fur-freiheitsrechte/afd-ist-nachweislich-verfassungswidrig-gesellschaft-fuer-freiheitsrechte-stellt-nach-einem-jahr-arbeit-umfassendes-wissenschaftliches-gutachten-vor) · [afd-gutachten.de (Volltext)](https://afd-gutachten.de/)

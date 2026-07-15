@@ -161,6 +161,10 @@ Manuel: *„Ich kann mir keine tragischere Art vorstellen, darüber zu erfahren,
 
 ## Verbindungen
 
+### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
+
+Sechs Tage später der nächste Tote: Joan Sebastian Guerrero in Biddeford, Maine — wieder die falsche Zielperson, wieder keine Bodycam, aber eine neue Behörden-Formel („öffentliche Sicherheit" statt Notwehr). Zusammen dokumentieren die beiden Fälle das Fahrzeug-Muster der ICE-Spur.
+
 ### → [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|Spur: USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
 
 Dieser Fall ist ein Verlaufseintrag in der lebenden ICE-Spur: Er prüft ihre These — Eskalation bei sinkender Sichtbarkeit, Bremsen im Tempo statt in der Richtung — am härtesten denkbaren Einzelfall: einem Toten.

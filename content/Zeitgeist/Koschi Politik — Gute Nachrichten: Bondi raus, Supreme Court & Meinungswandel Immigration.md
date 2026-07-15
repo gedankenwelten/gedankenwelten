@@ -139,3 +139,7 @@ paralleles Format: positive Entwicklungen als Kontrapunkt zur Dauerkrise
 ### → [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
 
 Navidi erklärt, warum Bondis Entlassung kein gutes Zeichen ist: Sie wurde gefeuert weil nicht korrupt genug, ersetzt durch Trumps Privatanwalt. Koschi sieht ein institutionelles Signal; Navidi sieht den Verlust der letzten Bremse.
+
+### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
+
+Das Gegenstück zur Hoffnung dieser Note: Sechs Tage nach Salgado erschießt ICE in Maine den nächsten Falschen — die Frage, ob der demokratische Korrekturweg schneller ist als die Eskalation, wird dort konkret gestellt.

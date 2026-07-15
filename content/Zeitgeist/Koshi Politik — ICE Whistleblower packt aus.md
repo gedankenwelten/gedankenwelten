@@ -123,3 +123,7 @@ Spiegelstruktur: Während ICE Whistleblower intern durch institutionelle Machtlo
 ### → [[taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
 
 taz-Recherche vor Ort in Ellabell, Georgia: Die größte ICE-Razzia an einem Einzelstandort (475 Verhaftungen). Zeigt, wie Verhaftungen weit über die legale Grundlage hinausgehen — und wie lokale Communities das verschweigen.
+
+### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
+
+Was der Whistleblower als Ausbildungspraxis beschreibt (Verfassung ignorieren lernen), wird hier tödliche Realität: der Falsche erschossen, keine Bodycam, und eine Behörden-Formel — „öffentliche Sicherheit" statt Notwehr —, die den Rechtfertigungsanspruch weiter senkt.
