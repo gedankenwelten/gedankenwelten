@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Jacob Beautemps (Breaking Lab) — Der Super-El-Niño 2026 (2026)
+
+| | |
+|---|---|
+| **Video** | [Neue Zahlen: Stärkster El Niño seit 70 Jahren kommt 2026!](https://youtu.be/MPnheVZ_4KQ) |
+| **Notiz** | [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung]] |
+| **DenkerVita** | [[DenkerVita/Jacob Beautemps]] |
+| **Schlüsselquelle** | [Callahan & Mankin — Persistent effect of El Niño on global economic growth (Science 2023)](https://doi.org/10.1126/science.adf2983) |
+| **Transkript** | `Gedankenwelten/Transkripte/Beautemps_ElNino2026_Transkript.txt` |
+
 ## Anat Saragusti — Zensur & Pressefreiheit in Israel (Jung & Naiv 836, 2026)
 
 | | |

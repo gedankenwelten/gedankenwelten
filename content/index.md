@@ -46,6 +46,18 @@ Die Gedankenwelten (luc)
 
 > → *11 weitere in* [[Zeitgeist]]
 
+### Geistesblitz
+
+> **15.07.** — [[Geistesblitz/Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
+>
+> Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
+
+> **14.07.** — [[Geistesblitz/Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt|Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt?]]
+
+> **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+>
+> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
+
 ### Spuren
 
 > **15.07.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
@@ -73,18 +85,6 @@ Die Gedankenwelten (luc)
 > Eine junge Frau, die den Weg vom Schulverbot zum Nobelpreis ging, über Bildung als Emanzipation, Hoffnung als Methode und die einzige Niederlage, die zählt: am eigenen Wert zu zweifeln.
 
 > → *2 weitere in* [[Denker]]
-
-### Geistesblitz
-
-> **14.07.** — [[Geistesblitz/Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt|Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt?]]
-
-> **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
->
-> Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
-
-> **03.07.** — [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens|Gert Scobel — Die gefährlichste Frage unseres Lebens]]
->
-> Wozu? Die Frage, die alles in Mittel und Zwecke verwandelt — und der Moment des Aufwachens, in dem noch niemand zu Hause ist, der sie stellen könnte.
 
 ### Panorama
 

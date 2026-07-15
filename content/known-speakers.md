@@ -38,6 +38,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Jacob Beautemps
+**Status:** ✓ Vollanalyse → [[DenkerVita/Jacob Beautemps]]
+
+---
+
 ## Jok Madut Jok
 **Status:** ✓ Vollanalyse → [[DenkerVita/Jok Madut Jok]]
 

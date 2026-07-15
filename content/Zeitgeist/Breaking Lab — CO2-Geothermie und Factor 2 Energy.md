@@ -215,3 +215,7 @@ Benecke kontextualisiert die CO₂-Technologien: Net Zero hätte vor zwei Jahren
 ### → [[Good News - Gute Nachrichten Juni 2026]]
 
 Good News Juni meldet das Geothermie-Potenzial (Ember: könnte 42 % von Europas Kohle/Gas ersetzen) als Erfolgsnachricht — diese Note liefert die technologische Funktionsweise grundlastfähiger Next-Gen-Geothermie dahinter.
+
+### → [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
+
+Derselbe Sprecher, dasselbe Handwerk in anderem Feld: Hier sortiert Beautemps das *Versprechen* eines Energie-Startups von der belegten Wirkung, dort die *Prognose* eines Klimaphänomens von der Gewissheit. Beide Notes zeigen seine Kernkompetenz — einen Anspruch ehrlich halten, ohne ihn zu über- oder unterzeichnen.

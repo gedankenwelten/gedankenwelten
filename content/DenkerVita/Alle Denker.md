@@ -57,6 +57,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Joerg Baberowski|Jörg Baberowski]]** — Historiker (HU Berlin), Gewalt- und Stalinismusforscher; Gewalt als eigene Logik (jenseits der Ideologie), Herrschaft als Naturgesetz des Staates, Liberalismus ≠ Demokratie; renommiert und polarisierend zugleich
 
+**[[DenkerVita/Jacob Beautemps|Jacob Beautemps]]** — Physiker und Wissenschaftskommunikator (Dr., Physikdidaktik Köln 2024); Gesicht von *Breaking Lab* (~731k Abos); Technologie-Optimismus mit Bodenhaftung, epistemische Zurückhaltung gegen Klima-Panikmache, Erklärvideos als erforschbares Handwerk
+
 **[[DenkerVita/Barbara Tversky|Barbara Tversky]]** — Kognitionspsychologin (Stanford, Columbia Teachers College); Spatial Cognition als Fundament der Menschheit, Mind in Motion, Embodied Thinking, Gesten als externe Kognition
 
 **[[DenkerVita/Bijan Moini|Bijan Moini]]** — Jurist und Menschenrechtsanwalt (GFF); Überwachungs-Asymmetrie, digitale Grundrechte, automatisiertes Data Mining, BND-Auslandsüberwachung; Literarisierung juristischer Sorgen im Roman *Der Würfel* (2019)

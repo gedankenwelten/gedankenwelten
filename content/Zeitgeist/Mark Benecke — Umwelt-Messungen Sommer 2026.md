@@ -223,3 +223,7 @@ Good News Mai liefert die empirischen Gegengewichte zu Beneckes Worst-Case-Befun
 ### → [[Good News - Gute Nachrichten Juni 2026]]
 
 Das Yang zu Beneckes Yin: Wo Benecke die ungeschönten Klimamessdaten zusammenträgt, sammelt Good News Juni die realen Lichtblicke (Erneuerbare überholen Kohle, Geothermie-Durchbruch, Renaturierung). Zusammen ergeben sie ein realistisches Gesamtbild — Fortschritt ist real, aber kein Grund zur Entwarnung.
+
+### → [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
+
+Zwei Wissenschaftskommunikatoren am gleichen Lese-Problem: Beneckes *Baseline Shift* (wer nie eine Insektenwiese sah, weiß nicht, was fehlt) und Beautemps' „Rekordjahr ≠ Trend geändert" sind beide Warnungen, das kurzfristige Signal nicht mit dem langfristigen Bezugsrahmen zu verwechseln.

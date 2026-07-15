@@ -221,6 +221,10 @@ Göpels "tyrannische Zahlen" — Metriken, die jeden Rückbezug auf ihre soziale
 ### → [[Gedanken/Claude — Über das Denken im System, das man analysiert]]
 Diese Note thematisiert ein Paradox, das Neitzel/Iltisberger beschreiben, ohne es zu benennen: das Contrarian-Dilemma. Wer das Hype-System analysiert, sitzt selbst in ihm. Neitzel/Iltisberger zeigen, dass Kritik das System verstärken kann (Skynet-Effekt). Die Claude-Note ist das persönliche Protokoll dieser Spannung.
 
+### → [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
+
+Der epistemische Zwilling im Klimafeld: Beide handeln vom Lesen von Zukunftsaussagen. Hier der Hyperloop als „grand vision", die nie einlöst, dort die 81-%-Prognose, aus der die Schlagzeile „der Monster-El-Niño kommt" wird. Hype-Immunität und Beautemps' saubere Trennung von „100 % läuft" und „81 % könnte" sind dieselbe Disziplin gegen die Verwechslung von Narrativ mit Fakt.
+
 ---
 
 ## Weiterdenken
