@@ -294,3 +294,7 @@ Fichtners Podcast ist ein zeitgenössisches Fallbeispiel angewandter Agnotologie
 
 ### → [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen]]
 Holy Koolaid zeigt das staatliche Pendant zur Industrie-Agnotologie: US-zentrischer Geschichtsunterricht, CIA-Coups die aus Lehrplänen verschwinden, "Under God" als Marketing-Entscheidung, die als Gründertradition verkauft wird — Nicht-Wissen als Bildungspolitik.
+
+### → [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
+
+Die ethische Umkehrung im selben Raum: Beide leben in der wissenschaftlichen Unsicherheit. Die Agnotologie *fabriziert* Zweifel, um Handeln zu lähmen („doubt is our product"), Beautemps' ehrliches „das ist nicht so richtig geklärt" *kommuniziert* Unsicherheit in gutem Glauben — legitime, offengelegte Ungewissheit gegen strategisch bewaffnete Ungewissheit.

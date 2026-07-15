@@ -283,6 +283,10 @@ Die GoodNews-Monatsreihe ist konstruktiver Journalismus in Reinform — und Urne
 
 Die Umkehrung des Naivitäts-Vorwurfs in gelebter Form: Was Urner neurologisch als Willens- und Wegkraft beschreibt, klingt dort als „die Naiven seid ihr, die an den Krieg glauben".
 
+### → [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
+
+Beide arbeiten gegen dieselbe falsche Gabelung in der Klimakommunikation: Urner verortet Hoffnung als drittes zwischen Optimismus und Weltuntergang, Beautemps die „ehrliche Mitte" zwischen Alarmismus und Verharmlosung. Und beide drehen die Frage vom *Was passiert* auf das *Wie wir denken*.
+
 ---
 
 ## Weiterdenken

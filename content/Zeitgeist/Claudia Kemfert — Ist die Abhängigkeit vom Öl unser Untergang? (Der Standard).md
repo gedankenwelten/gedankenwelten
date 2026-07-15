@@ -322,3 +322,7 @@ Fichtner widerlegt den Rohstoff-Mythos mit demselben Argument, das Kemferts Stru
 ### → [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]]
 
 MONITOR bestätigt Kemferts ökonomische Einordnung der Atomkraft als teuerste Stromform mit ungelöstem Endlagerproblem — diesmal am Fall der Mini-Reaktoren. Beide zeigen: „Resilienz" und „Versorgungssicherheit" sind rhetorische Türöffner; die schnellste und billigste Antwort bleiben die Erneuerbaren.
+
+### → [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
+
+Die ökonomische Fernwirkung als Brücke: Beautemps' Callahan-&-Mankin-Befund (El Niño = Billionen-Schock mit jahrelangem Nachhall, Brandbeschleuniger bestehender Krisen) trifft Kemferts Analyse fossiler Abhängigkeit als systemische ökonomische Verwundbarkeit — Klima nicht als Wetter, sondern als Kraft auf Märkte und Preise.
