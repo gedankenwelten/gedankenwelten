@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*260 Notes — automatisch generiert · nach Thema sortiert*
+*261 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -182,6 +182,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)|Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
 - [[Zeitgeist/Florian Homm - Ich war eine Leistungsmaschine|Florian Homm — Ich war eine Leistungsmaschine]]
 - [[Zeitgeist/Gerdes — Ukraine Zelensky wird staerker|Gerdes — Ukraine: Zelensky wird stärker]]
+- [[Zeitgeist/Koschi Politik — ICE erschiesst Joan Sebastian Guerrero|ICE erschießt Joan Sebastián Guerrero — der zweite Tote in einer Woche]] — Arbeitserlaubnis, Social Security Number, die dreijährige Tochter auf der Rückbank — und wieder war es der Falsche. Diesmal begründet DHS den Schuss nicht mit Notwehr, sondern mit „öffentlicher Sicherheit“.
 - [[Zeitgeist/Koschi Politik — ICE erschiesst Lorenzo Salgado|ICE erschießt Lorenzo Salgado — ein Tod auf dem Weg zur Arbeit]] — 35 Jahre in Houston, drei Söhne durchs College, ein laufendes Visa-Verfahren — dann ein unmarkierter SUV, Schüsse, und ein Sohn, der den Vater in einem Facebook-Video sterben hört.
 - [[Zeitgeist/Konstantin Flemig — US-Seeblockade gegen Iran|Konstantin Flemig — US-Seeblockade gegen Iran]]
 - [[Zeitgeist/Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken|Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]]
