@@ -26,7 +26,7 @@ Die Gedankenwelten (luc)
 
 > **15.07.** — [[Zeitgeist/Yonatan Zeigen — A Place For Us All|Yonatan Zeigen — A Place For Us All]]
 >
-> Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und zog daraus nicht Rache, sondern eine Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist.
+> Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und antwortete nicht mit Rache, sondern mit einer Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist.
 
 > **15.07.** — [[Zeitgeist/Koschi Politik — ICE erschiesst Joan Sebastian Guerrero|ICE erschießt Joan Sebastián Guerrero — der zweite Tote in einer Woche]]
 >

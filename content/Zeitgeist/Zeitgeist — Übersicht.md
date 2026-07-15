@@ -47,13 +47,14 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*261 Notes — automatisch generiert · nach Thema sortiert*
+*263 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
 
 - [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle]]
 - [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
+- [[Zeitgeist/Anat Saragusti — Zensur und Pressefreiheit in Israel|Anat Saragusti — Zensur und Pressefreiheit in Israel]] — Die Frau, die 1982 als erste israelische Journalistin Arafat interviewte, beschreibt, wie Israels freie Presse stirbt — nicht durch Verbote, sondern durch Selbstzensur.
 - [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
 - [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD|Andreas Kemper — Technofaschismus und die AfD]]
 - [[Zeitgeist/Angela Merkel — Trotz allem Hoffnung Europa|Angela Merkel — Trotz allem: Hoffnung Europa?]] — Eine Frau, die 16 Jahre lang europäische Diplomatie verkörperte, über das Recht des Stärkeren, die zweite Seite der Medaille und warum Demokratie kein Selbstläufer ist.
@@ -172,6 +173,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Who the f#ck is Agartha? — Vom Vril-Roman zur rechtsextremen Meme-Welt]] — Ein Verschwörungsmythos reist 150 Jahre — vom viktorianischen Roman über Himmlers Pseudoforschung bis in den TikTok-Feed, wo der Witz die Tarnung der Ideologie ist.
 - [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 - [[Zeitgeist/Yanis Varoufakis — Trump Has Lost Everything|Yanis Varoufakis — Trump Has Lost Everything]]
+- [[Zeitgeist/Yonatan Zeigen — A Place For Us All|Yonatan Zeigen — A Place For Us All]] — Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und zog daraus nicht Rache, sondern eine Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist.
 - [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]]
 
 ### USA & Trump

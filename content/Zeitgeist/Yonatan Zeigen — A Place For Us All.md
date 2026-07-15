@@ -1,7 +1,7 @@
 ---
 title: "Yonatan Zeigen — A Place For Us All"
 date: 15.07.2026
-description: "Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und zog daraus nicht Rache, sondern eine Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist."
+description: "Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und antwortete nicht mit Rache, sondern mit einer Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist."
 aktualisiert: 15.07.2026
 tags:
   - zeitgeist
@@ -29,7 +29,7 @@ aliases:
 </details>
 
 > [!abstract] Worum es geht
-> Er hörte am Telefon, wie seine Mutter — die Friedensaktivistin Vivian Silver — am 7. Oktober ermordet wurde, und zog daraus nicht Rache, sondern eine Kandidatur. Yonatan Zeigen tritt für Makom Lekulanu an, „A Place For Us All": die erste Partei, die jüdisch-arabisch bis in den Kern sein will, drei jüdische und drei palästinensische Köpfe an der Spitze, Knesset-Wahl im Oktober 2026. Sein Kernargument ist kühl, nicht fromm: Wer Menschen unterdrückt, erntet Widerstand — Sicherheit gibt es darum nur durch Gleichheit. Und der Zeitgeist, der das unmöglich nennt, ist vorläufiger, als er sich anfühlt.
+> Er hörte am Telefon, wie seine Mutter — die Friedensaktivistin Vivian Silver — am 7. Oktober ermordet wurde, und antwortete darauf nicht mit Rache, sondern mit einer Kandidatur. Yonatan Zeigen tritt für Makom Lekulanu an, „A Place For Us All": die erste Partei, die jüdisch-arabisch bis in den Kern sein will, drei jüdische und drei palästinensische Köpfe an der Spitze, Knesset-Wahl im Oktober 2026. Sein Kernargument ist kühl, nicht fromm: Wer Menschen unterdrückt, erntet Widerstand — Sicherheit gibt es darum nur durch Gleichheit. Und der Zeitgeist, der das unmöglich nennt, ist vorläufiger, als er sich anfühlt.
 
 Quelle: [Yonatan Zeigen on Israel's new political party ("A Place For Us All") — Jung & Naiv: Episode 837](https://www.youtube.com/watch?v=UbbyQpvopw4) (09.07.2026, aufgezeichnet in Tel Aviv-Jaffa)
 
@@ -44,7 +44,7 @@ Quelle: [Yonatan Zeigen on Israel's new political party ("A Place For Us All") �
 
 ### Vom Kibbuz an der Grenze in die Knesset-Kandidatur
 
-[▶ 0:47](https://www.youtube.com/watch?v=UbbyQpvopw4&t=47) — Zeigen stellt sich vor, wie man sich in Israel vorstellt: mit Orten. Florentin in Tel Aviv, wo er heute lebt; Kibbuz Be'eri im „Gaza-Umschlag", wo er aufwuchs — jener Kibbuz, in dem am 7. Oktober eines der schwersten Massaker stattfand. Auf Tilos Feststellung, er sei jetzt Politiker, antwortet er mit einer Unterscheidung, die das ganze Gespräch grundiert: „Ich kandidiere fürs Parlament. Ich glaube, das ist ein Unterschied. Ich will meine Realität beeinflussen."
+[▶ 0:47](https://www.youtube.com/watch?v=UbbyQpvopw4&t=47) — Zeigen stellt sich vor, wie man sich in Israel vorstellt: mit Orten. Florentin in Tel Aviv, wo er heute lebt; Kibbuz Be'eri im „Gaza Envelope", dem israelischen Grenzgürtel um den Streifen, wo er aufwuchs — jener Kibbuz, in dem am 7. Oktober eines der schwersten Massaker stattfand. Auf Tilos Feststellung, er sei jetzt Politiker, antwortet er mit einer Unterscheidung, die das ganze Gespräch grundiert: „Ich kandidiere fürs Parlament. Ich glaube, das ist ein Unterschied. Ich will meine Realität beeinflussen."
 
 [▶ 1:34](https://www.youtube.com/watch?v=UbbyQpvopw4&t=94) — Seit dem 7. Oktober hat er getan, was Zivilgesellschaft tun kann: Vorstandsarbeit beim Parents Circle Families Forum, Demonstrationen, Schutzpräsenz im Westjordanland gegen Siedlergewalt. Aber genau daraus zieht er die Begründung seiner Kandidatur — Zivilgesellschaft hat „eine gläserne Decke". Petitionen ändern keine Gesetze. Sein Programm zählt er nüchtern auf: Ende der Besatzung, Frieden mit den Palästinensern, Gleichheit zwischen Juden und Arabern in Israel selbst — nicht als Gesinnungsfrage, sondern als Gesetzesfrage, denn es sind Gesetze, die Arabern Mobilität, Immobilienrechte, Bildung und Wohlfahrt beschneiden — dazu Mindestlohn, öffentliche Daseinsvorsorge, Infrastruktur. Bemerkenswert ist die Reihenfolge: Der Friedensaktivist redet zuerst über Busse, Schulen und Wohnungen, dann über den Konflikt.
 
@@ -75,7 +75,7 @@ Er kündigte als Anwalt, wurde Sozialarbeiter, bekam sein erstes Kind — und gl
 
 [▶ 17:49](https://www.youtube.com/watch?v=UbbyQpvopw4&t=1069) — Wie will er Millionen Israelis umstimmen, die nach den Umfragen das Gegenteil wollen? Zeigens Antwort ist das intellektuelle Herzstück des Gesprächs: Er glaubt nicht, dass die Israelis dem Wesen nach gegen ihn sind. Der rachedurchtränkte Israeli will am Ende Sicherheit und Wohlergehen — er hält militärische Macht nur deshalb für den Weg, „weil ihm nichts anderes angeboten wird". Öffentliche Meinung fühle sich an wie Schicksal, sei aber flüchtig:
 
-> *„Ich denke über den Zeitgeist sehr vorläufig — er kann sich schnell ändern und in einen neuen Zeitgeist verwandeln."*
+> *„Ich denke den Zeitgeist als etwas sehr Vorläufiges — er kann sich schnell ändern und sich in einen neuen Zeitgeist verwandeln."*
 
 [▶ 20:06](https://www.youtube.com/watch?v=UbbyQpvopw4&t=1206) — Dann dreht er die Beweislast um, mit Daten aus der eigenen Geschichte: Wie lange brauchte Israel, um den Deutschen formell zu vergeben? Fünf, sechs Jahre bis Entschädigung und diplomatischen Beziehungen. Wie lange vom Jom-Kippur-Krieg 1973 bis zum Frieden mit Ägypten, dem „schrecklichsten unserer Feinde"? Acht Jahre — weniger, wenn man Sadats Besuch zählt *(Faktencheck: vereinfacht — der Friedensvertrag kam 1979, also nach rund sechs Jahren; die Realität stützt sein Argument sogar stärker)*. „Wenn uns ein anderer Rahmen angeboten wird, nehmen wir ihn an." Sein jüngster Beleg ist bewusst zynisch gewählt: Als Trumps 20-Punkte-Plan kam, standen Netanjahu-Wähler mit „Danke Trump für den Frieden"-Plakaten auf der Straße. Wenn Führung den Diskurs ändert, reagieren die Menschen schnell — Militarismus ist eine Sprache, die diese Regierung spricht, nicht das Wesen der Gesellschaft.
 
@@ -93,7 +93,7 @@ Er kündigte als Anwalt, wurde Sozialarbeiter, bekam sein erstes Kind — und gl
 
 ### Die Rechnung zur Wahl — Hoffnung mit eingebauter Notbremse
 
-[▶ 39:37](https://www.youtube.com/watch?v=UbbyQpvopw4&t=2377) — Zum Schluss wird es arithmetisch, und gerade da zeigt sich der Charakter des Projekts. Interne Umfragen vor der Gründung: 75 Prozent der jungen palästinensischen Bürger wählen nicht, 60 Prozent der Frauen nicht — aber auf die Frage, ob sie eine Partei wie diese wählen würden, kamen positive Reaktionen. Diese Nichtwähler sind die Zielgruppe und das Kalkül: Ihre Stimmen fehlen bislang schlicht im System. Die Hürde liegt bei 3,25 Prozent, die Wahl kommt am 27. Oktober 2026 *(seit dem 12. Juli offiziell fixiert — im Interview war der Termin noch offen)* — und Israelis im Ausland dürfen nicht per Botschaft wählen, was Zeigen trocken einordnet: Expats würden meist gegen die jeweilige Regierung stimmen.
+[▶ 39:37](https://www.youtube.com/watch?v=UbbyQpvopw4&t=2377) — Zum Schluss wird es arithmetisch, und gerade da zeigt sich der Charakter des Projekts. Interne Umfragen vor der Gründung: 75 Prozent der jungen palästinensischen Bürger wählen nicht, 60 Prozent der Frauen nicht — aber auf die Frage, ob sie eine Partei wie diese wählen würden, kamen positive Reaktionen. Diese Nichtwähler sind die Zielgruppe und das Kalkül: Ihre Stimmen fehlen bislang schlicht im System. Die Hürde liegt bei 3,25 Prozent, die Wahl findet am 27. Oktober 2026 statt *(seit dem 12. Juli offiziell fixiert — im Interview war der Termin noch offen)* — und Israelis im Ausland dürfen nicht per Botschaft wählen, was Zeigen trocken einordnet: Expats würden meist gegen die jeweilige Regierung stimmen.
 
 [▶ 41:11](https://www.youtube.com/watch?v=UbbyQpvopw4&t=2471) — Bemerkenswert ist die Notbremse, die er offen ausspricht: „Wenn wir nur 3 Prozent bekommen, wandern diese Stimmen in den Müll — und das ist eine Katastrophe, weil wir jeden Sitz brauchen, um diese Regierung zu stürzen. Wenn wir sehen, dass es keine Gewissheit gibt, treten wir nicht bis zum Ende an." Eine Partei, die ihre eigene Rückzugsbedingung mitgründet, ist im Parteienspektrum eine Seltenheit — es ist dieselbe Haltung wie im ganzen Gespräch: Verantwortung schlägt Selbstbehauptung, das Lager schlägt die eigene Fahne.
 
