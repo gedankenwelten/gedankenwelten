@@ -206,6 +206,10 @@ Diese Note ist bewusst das Komplement zur Spur [[Spuren/Israel-Gaza-Voelkerrecht
 
 ## Verbindungen
 
+### → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
+
+Die israelische Innenansicht zu Johnsons US-Befund: Israels erste Kriegsfotografin, heute Pressefreiheits-Ressort der Journalistengewerkschaft, beschreibt dieselbe Unsichtbarmachung Gazas von der anderen Seite — Selbstzensur, IDF-Embedding, kein ausländischer Presse-Zugang. Zwei Länder, ein Mechanismus.
+
 ### → [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
 
 Der Gegenschuss (→ Einordnung oben): Die Spur *misst* mit registrierter Falsifikation, dass Aufmerksamkeit abfließt, während Recht vertagt wird; Johnson behauptet mit Zähl-Methodik, *wer* den Abfluss organisiert und wozu — Zeit kaufen. Sein „Ceasefire-Theater" ist die medienseitige Entsprechung der Verfahrenssimulation, die die Spur auf der Völkerrechtsebene verfolgt.

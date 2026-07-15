@@ -166,6 +166,10 @@ Die Titelfrage beantwortet das Video nie direkt — und genau darin liegt die An
 ## Verbindungen
 
 
+### → [[Yonatan Zeigen — A Place For Us All]]
+
+Ein lebender Beleg für Jägers These: Zeigen begründet seine Knesset-Kandidatur exakt mit der „gläsernen Decke“ der Zivilgesellschaft — Repolitisierung ohne Reinstitutionalisierung ändert keine Gesetze. Die Parteigründung Makom Lekulanu ist der Versuch der Rückbindung an Institutionen.
+
 ### → [[Pankaj Mishra — Zeitalter des Zorns]]
 
 Mishra liefert die affektive Vorgeschichte der Hyperpolitik: das Ressentiment der Ausgeschlossenen, dem die Demagogen „fake community" anbieten — genau in die institutionelle Leerstelle hinein, die Jäger beschreibt.

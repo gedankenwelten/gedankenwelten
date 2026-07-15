@@ -6,6 +6,26 @@ tags:
   - links
 ---
 
+## Anat Saragusti — Zensur & Pressefreiheit in Israel (Jung & Naiv 836, 2026)
+
+| | |
+|---|---|
+| **Video** | [Legendary reporter Anat Saragusti on censorship & press freedom in Israel](https://www.youtube.com/watch?v=w9RyY7z503M) |
+| **Notiz** | [[Anat Saragusti — Zensur und Pressefreiheit in Israel]] |
+| **DenkerVita** | [[DenkerVita/Anat Saragusti]] |
+| **Schlüsselquelle** | [CPJ: Israel-Gaza War — getötete Journalisten](https://cpj.org/issue/israel-gaza-war/) |
+| **Transkript** | `Gedankenwelten/Transkripte/Saragusti_Pressefreiheit_Transkript.txt` |
+
+## Yonatan Zeigen — A Place For Us All (Jung & Naiv 837, 2026)
+
+| | |
+|---|---|
+| **Video** | [Yonatan Zeigen on Israel's new political party ("A Place For Us All")](https://www.youtube.com/watch?v=UbbyQpvopw4) |
+| **Notiz** | [[Yonatan Zeigen — A Place For Us All]] |
+| **DenkerVita** | [[DenkerVita/Yonatan Zeigen]] |
+| **Schlüsselquelle** | [Times of Israel: Standing Together leaders launch „A Place for Us All"](https://www.timesofisrael.com/standing-together-leaders-launch-new-arab-jewish-party-a-place-for-us-all/) |
+| **Transkript** | `Gedankenwelten/Transkripte/Zeigen_Place_For_Us_All_Transkript.txt` |
+
 ## Topfvollgold — Mordfall Stade: Das Versagen von NiUS (YouTube, 2026)
 
 | | |

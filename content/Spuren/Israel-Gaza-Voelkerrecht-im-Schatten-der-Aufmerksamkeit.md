@@ -116,6 +116,14 @@ sind **nicht per se** Beweis strategischer Vertagung. Der Waffenstillstand brach
 
 ## Verbindungen
 
+### → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
+
+Der Medien-Mechanismus hinter dem Aufmerksamkeits-Schwund, den diese Spur misst: Saragusti (Jung & Naiv 836) beschreibt von innen, wie die israelische Presse Gaza aus dem Programm schnitt — Selbstzensur, IDF-Filter, kein unabhängiger Zugang für ausländische Journalisten. Erstes Interview der angekündigten Israel-Reihe.
+
+### → [[Yonatan Zeigen — A Place For Us All]]
+
+Die politische Gegenbewegung von innen: Der Sohn der am 7.10. ermordeten Vivian Silver kandidiert für die jüdisch-arabische Partei Makom Lekulanu (Jung & Naiv 837) — wo die Spur den Zerfall der Rechenschaft dokumentiert, versucht Zeigen den Umbau über die Knesset-Wahl am 27.10.2026.
+
 ### → [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA & ICE]] · [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 
 Schwester-Spuren: *Was die Flut wegspült.* Hier ist es das Recht, das im Verfahrenstempo verschwindet,

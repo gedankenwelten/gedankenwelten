@@ -179,6 +179,10 @@ Der Bevölkerung sind Rechtsstaatsfragen weitgehend egal — sie kämpfen mit In
 
 ## Verbindungen
 
+### → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
+
+Saragusti nennt Orbáns Medien-Übernahme ausdrücklich als das Modell, vor dem sie Israel warnt — die israelische Journalistengewerkschaft versucht, „alle roten Lampen anzuschalten“, bevor die ungarische Blaupause vollendet ist.
+
 ### → [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 
 Beide analysieren denselben Mechanismus: die schrittweise Aushöhlung demokratischer Institutionen durch legale Wahlen, die in Wahlautokratie enden. Kendi das US-Muster, Gelegs das ungarische — direkter Systemvergleich.

@@ -27,6 +27,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]** — Migrations- und Bildungssoziologe (TU Dortmund); Integrationsparadox, Misstrauensgemeinschaften, Adultismus, Bildung als Sortiermaschine; «Integrationsparadox» (2018), «Mythos Bildung» (2020), «Wozu Rassismus?» (2021), «Kinder — Minderheit ohne Schutz» (2025), «Misstrauensgemeinschaften» (2025)
 
+**[[DenkerVita/Anat Saragusti|Anat Saragusti]]** — Israelische Journalistin, Publizistin & Juristin; Israels erste Kriegsfotografin (Arafat-Interview 1982, belagertes Beirut), heute Pressefreiheits-Beauftragte der Union of Journalists in Israel; dokumentiert die systematische Aushöhlung der freien Presse unter Netanjahu
+
 **[[DenkerVita/Anton Jaeger|Anton Jäger]]** — Belgischer Historiker der politischen Ideen (KU Leuven / Oxford, Promotion Cambridge); prägte den Begriff „Hyperpolitik" — totale Politisierung ohne Organisation; *Hyperpolitik* (2023), *The Populist Moment* (mit Borriello), *Welfare for Markets* (mit Zamora)
 
 **[[DenkerVita/Anabel Ternes von Hattburg|Anabel Ternès von Hattburg]]** — (Vollanalyse vorhanden)
@@ -421,6 +423,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## Y
 
 **[[DenkerVita/Gabriel Yoran|Gabriel Yoran]]** — Autor & Unternehmer (Steady/Steganos/aka-aki), in Philosophie promoviert bei Graham Harman; „Verkrempelung der Welt" — warum Alltagsdinge schlechter und komplizierter werden und dennoch als Fortschritt verkauft werden
+
+**[[DenkerVita/Yonatan Zeigen|Yonatan Zeigen]]** — israelischer Friedensaktivist, Sozialarbeiter & Mediator; Sohn der am 7.10.2023 ermordeten Vivian Silver; kandidiert für die jüdisch-arabische Partei *Makom Lekulanu*; „der 7. Oktober war kein Anfang, sondern ein Ergebnis“ — Trauer ohne Rache
 
 ## Z
 

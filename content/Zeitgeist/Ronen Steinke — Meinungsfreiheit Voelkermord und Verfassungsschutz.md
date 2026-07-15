@@ -211,6 +211,10 @@ Steinkes These ist fundamentaler: Der *Staat* höhlt die Meinungsfreiheit aus �
 
 ## Verbindungen
 
+### → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
+
+Dasselbe unaussprechliche Wort, aus israelischer Innensicht: Saragusti beschreibt, wie die israelische Presse die Genozid-Definition selbst dann meidet, als B’Tselem und PHRI sie benutzen — während Steinke zeigt, wie der deutsche Staat das Aussprechen juristisch riskant macht.
+
 ### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
 
 Steinke analysiert dieselbe Doppelmoral beim Völkerrecht

@@ -122,6 +122,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Albert Moukheiber
 **Status:** ✓ Vollanalyse → [[DenkerVita/Albert Moukheiber]]
 
+## Anat Saragusti
+**Status:** ✓ Vollanalyse — [[DenkerVita/Anat Saragusti]]
+
 ## Anton Jäger
 **Status:** ✓ Vollanalyse → [[DenkerVita/Anton Jaeger]]
 
@@ -787,3 +790,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Pankaj Mishra
 **Status:** ✓ Vollanalyse — [[DenkerVita/Pankaj Mishra]]
+
+## Yonatan Zeigen
+**Status:** ✓ Vollanalyse — [[DenkerVita/Yonatan Zeigen]]

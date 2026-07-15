@@ -207,3 +207,12 @@ Die alte linke Utopie (Marcuse: Technologie befreit uns von Arbeit) war schon im
 - [[Denker/Erich Fromm — Im Namen des Lebens]] — Die Quelle, auf die Redecker aufbaut: Fromms Nekrophilie/Biophilie-Achse von 1973. Redecker übersetzt Fromms „Liebe zum Toten" in ihre „Phantombesitz-Verteidigung" — die Verteidigung eines toten, eingebildeten Besitzes als zeitgenössische Gestalt dessen, was Fromm tiefenpsychologisch beschrieb.
 - [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]] — Liefert die evolutionäre Tiefenzeit zu Redeckers Herrschaftsanalyse: Was sie als „Phantombesitz" und eigentumsförmige Herrschaft beschreibt, entlarven van Schaik und Michel als *nachträgliche* Prägung der letzten 5000 Jahre. Der Drang nach Härte bleibt — obwohl die erste, egalitäre Natur ihm widerspricht.
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Redecker verteidigt die Buchthese im SRF-Dialog mit dem Historiker Damir Skenderovic: Phantombesitz unter Widerspruch (Faschisierung als Prozess vs. Benennung), dazu der Streit um Longevity-Kult als Eugenik-Fortschreibung.
+
+---
+
+## Verbindungen
+
+### → [[Yonatan Zeigen — A Place For Us All]]
+
+Der hoffnungsvolle Gegenschnitt: Gegen Redeckers Diagnose vom Sog zur Härte setzt Zeigen die Wette, Militarismus sei nur „eine Sprache, die diese Regierung spricht, nicht das Wesen der Gesellschaft“ — der Zeitgeist sei vorläufig und kippe, sobald Führung anderes anbietet.
+

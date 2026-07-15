@@ -132,6 +132,10 @@ Der Mitarbeiter fürchtet, „dass wir unbewusst Gefahr laufen, uns selbst die S
 
 ## Verbindungen
 
+### → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
+
+Die zugespitzte Version der Schere im Kopf: Was ÖRR-Mitarbeitende anonym als Angst vor dem Hass beschreiben, formuliert Israels Pressefreiheits-Verantwortliche im Krieg — „Selbstzensur ist eine Art, sich zu schützen“. Gleiche Mechanik, härtere Umgebung.
+
 ### → [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]]
 
 Die direkte Gegenfolie: Dort zeigt Schönauer das Desinformations-Geschäftsmodell von außen — wie erfundene Migrations-Geschichten Hass industriell produzieren. Diese Note zeigt, wie genau dieser Hass beim Empfänger ankommt: Er erzeugt die Schere im Kopf, unter der Redakteure innerlich zusammenzucken. Beide Notes bilden zusammen den Kreislauf — Produktion von Hetze und ihre institutionelle Wirkung auf den Journalismus, den sie angreift.

@@ -219,6 +219,10 @@ Die Forderung: Mut zur Problemanalyse. Nicht Doom-Talk als Selbstzweck, aber auc
 
 ## Verbindungen
 
+### → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
+
+Die eskalierte Stufe desselben Musters: Was Steinke als aktivistischen Staatszugriff auf den Meinungsraum beschreibt, zeigt Saragusti in Israel als „Masterplan“ — Gesetzeswelle, SLAPP-Klagen, Einschüchterung, Selbstzensur.
+
 ### → [[Zeitgeist/Annette Dittert — Dear Britain]]
 Spannungsbrücke: Wo Steinke/Marinić die staatliche Einschränkung der Meinungsfreiheit verhandeln, zeigt Dittert die private Bedrohung — Plattformen, die durch Bullshit den Boden der Faktizität auflösen.
 

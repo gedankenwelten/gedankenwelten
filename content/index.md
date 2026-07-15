@@ -24,9 +24,17 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **15.07.** — [[Zeitgeist/Yonatan Zeigen — A Place For Us All|Yonatan Zeigen — A Place For Us All]]
+>
+> Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und zog daraus nicht Rache, sondern eine Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist.
+
 > **15.07.** — [[Zeitgeist/Koschi Politik — ICE erschiesst Joan Sebastian Guerrero|ICE erschießt Joan Sebastián Guerrero — der zweite Tote in einer Woche]]
 >
 > Arbeitserlaubnis, Social Security Number, die dreijährige Tochter auf der Rückbank — und wieder war es der Falsche. Diesmal begründet DHS den Schuss nicht mit Notwehr, sondern mit „öffentlicher Sicherheit“.
+
+> **15.07.** — [[Zeitgeist/Anat Saragusti — Zensur und Pressefreiheit in Israel|Anat Saragusti — Zensur und Pressefreiheit in Israel]]
+>
+> Die Frau, die 1982 als erste israelische Journalistin Arafat interviewte, beschreibt, wie Israels freie Presse stirbt — nicht durch Verbote, sondern durch Selbstzensur.
 
 > **14.07.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
 >
@@ -36,13 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Costa Rica vorn, die USA auf Platz 105 — der Happy Planet Index misst, wer aus wenig Welt viel Leben macht. Und stellt der deutschen Wachstumsdebatte eine unbequeme Frage.
 
-> **14.07.** — [[Zeitgeist/Topfvollgold — Mordfall Stade und das Versagen von NiUS|Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
->
-> Eine Namensgleichheit genügt: NIUS macht eine Unbeteiligte zur Mord-Komplizin, die Meute jagt sie — und die Korrektur ist ein versteckter Absatz.
-
-> **13.07.** — [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
-
-> → *9 weitere in* [[Zeitgeist]]
+> → *11 weitere in* [[Zeitgeist]]
 
 ### Spuren
 
