@@ -202,6 +202,10 @@ Potters Sorgen für die Zukunft: Wie verhält sich dieses Weltbild bei Taiwan/Ch
 
 ## Verbindungen
 
+### → [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]]
+
+Potters RT-/Kreml-Recherche liefert die westliche Belegkette zum Doku-Muster — und teilt die zentrale Krux: Der Vorwurf „Kreml-Agent" ist zugleich nötig (es gibt echte Einflussagenten) und gefährlich (er kann Kritik ersticken). Beide Notes ringen um dieselbe Grenze.
+
 ### → [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 
 Beide Notes analysieren gesellschaftliche Verrohung und Gewaltbereitschaft als politisches Phänomen; Potters «neue autoritäre Linke» ist ein konkreter Ausdruck jener enthemmten Gruppengewalt, die Heitmeyer als Symptom des Kontrollverlusts demokratischer Institutionen beschreibt.

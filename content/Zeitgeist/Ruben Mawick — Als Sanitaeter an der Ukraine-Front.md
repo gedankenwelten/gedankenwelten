@@ -238,6 +238,10 @@ Bei der Frage, ob Russland Deutschland angreift, wird er differenzierter. Er hä
 
 ## Verbindungen
 
+### → [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]]
+
+Die unsichtbare zweite Front zu Mawicks Zeugnis von der sichtbaren: Wo Mawick den Krieg körperlich erlebt, seziert die Doku seinen hybriden Schatten — Sabotage, Gift, Desinformation ohne Frontlinie. Beide Notes trennen methodisch sauber Erfahrung/Befund von politischer Erzählung.
+
 ### → [[Herfried Münkler — Muss es Kriege geben]]
 Münklers Begriff der *postheroischen Gesellschaft* — die im Tausch denkt, nicht im Opfer, und der die Bereitschaft zum Kampf abhandengekommen ist — ist die theoretische Kehrseite zu Mawicks gelebter Praxis. Mawick verkörpert, was Münkler als verlorene Disposition beschreibt: einen Menschen, der das eigene Leben nicht höher bewertet als das eines Fremden. Wo Münkler die Erkaltung des Opfergedankens als Verwundbarkeit diagnostiziert, ist Mawicks Bericht der seltene Gegenbeweis aus erster Hand — und zugleich die unbequeme Frage, ob solche Bereitschaft Tugend oder Trauma ist.
 

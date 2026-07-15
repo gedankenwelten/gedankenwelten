@@ -119,4 +119,5 @@ Anklage ohne Lösung wäre nur Empörung mit anderen Vorzeichen. Drei Gegenmitte
 | [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]] | Zeitgeist | Internationale Vernetzung des Modells |
 | [[Autoritaerer Internationalismus\|Autoritärer Internationalismus]] | Panorama | Nachbar-Panorama: die globale autoritäre Bewegung |
 | [[Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen]] | Zeitgeist | Gleichmut-Spiegel: der „Staatsmedien"-Vorwurf ehrlich geprüft |
+| [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]] | Zeitgeist | Die geopolitische Stufe: Voice of Europe & Desinformation als hybride Waffe im EU-Osten |
 | [[Martin Oetting — Faschismus stoppen mit der Wahrheit]] | Zeitgeist | Gegenwehr: Wahrheit als Strategie statt Dementi-Reflex |

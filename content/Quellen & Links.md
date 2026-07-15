@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## ARTE — Hybrider Angriff: Wie Putin Europas Osten destabilisiert (Szołajski, 2023)
+
+| | |
+|---|---|
+| **Video** | [Hybrider Angriff — Wie Putin Europas Osten destabilisiert (ARTE)](https://youtu.be/4PsH99c1Azo) |
+| **Mediathek** | [arte.tv (verfügbar bis 02.08.2026)](https://www.arte.tv/de/videos/106720-000-A/hybrider-angriff-wie-putin-europas-osten-destabilisiert/) |
+| **Notiz** | [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]] |
+| **Schlüsselquelle** | [Bellingcat — GRU Sabotage in Czechia and Bulgaria](https://www.bellingcat.com/news/uk-and-europe/2021/04/26/how-gru-sabotage-and-assassination-operations-in-czechia-and-bulgaria-sought-to-undermine-ukraine/) |
+| **Transkript** | `Gedankenwelten/Transkripte/ARTE_Hybrider_Angriff_Transkript.txt` |
+
 ## Jacob Beautemps (Breaking Lab) — Der Super-El-Niño 2026 (2026)
 
 | | |
