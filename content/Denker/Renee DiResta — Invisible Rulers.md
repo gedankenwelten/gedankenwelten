@@ -387,6 +387,10 @@ Das gleiche Reframing-Werkzeug, das gegen das SIO eingesetzt wurde, wird jetzt g
 
 ## Verbindungen
 
+### → [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]]
+
+Die empirische Feldstudie zu DiRestas Theorie: Russlands hybrider Krieg im EU-Osten erfindet nichts, er verstärkt vorhandenes Misstrauen — genau der Mechanismus, den DiResta beschreibt. Die „auf einen Knopf drücken"-These der Doku ist DiRestas dezentrale Propaganda in geopolitischer Anwendung.
+
 ### → [[Yuval Noah Harari — Das biologische Drama unserer Spezies]]
 
 Das empirische Gegenstück zu Hararis „Ballon, den keine Faktennadel zerplatzt“: DiResta hat vermessen, wie Widerlegung an Gruppenidentität abprallt. Harari liefert die Theorie der Grenze des Faktenchecks, DiResta die Feldforschung.

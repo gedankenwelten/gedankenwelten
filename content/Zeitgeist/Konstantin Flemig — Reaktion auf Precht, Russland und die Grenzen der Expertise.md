@@ -188,6 +188,10 @@ Damit bleibt der reale Dissens kleiner, als das kämpferische Format suggeriert:
 
 ## Verbindungen
 
+### → [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]]
+
+Flemigs Frage — nicht wer recht hat, sondern wann man schweigen sollte — ist genau der Gleichmut, den die Doku bei sich selbst verletzt, wenn sie mit Musik und Montage arbeitet. Sein Kriegsreporter-Wissen kontert zudem die Butscha-Leugnung, die der Film prüft.
+
 ### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
 
 Der empirische Beleg zur hiesigen These vom brüchigen Koloss: Ölverarbeitung auf dem Tiefstand seit 2009, eine Armee jenseits ihrer Rekrutierungskapazität. Diese Note mahnt zugleich epistemische Demut an — ein Vorbehalt gegen die Verlockung, aus einem schlechten Monat schon das Kriegsende zu lesen.

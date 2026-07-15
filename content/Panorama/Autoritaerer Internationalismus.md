@@ -243,6 +243,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Rainer Mausfeld — Warum schweigen die Lämmer]] | Theorie · Angstproduktion |
 | [[Dietrich Bonhoeffer — Theorie der Dummheit]] | Theorie · Dummheit als Machtwerkzeug |
 | [[Hannah Arendt — Denken ohne Geländer]] | Theorie · Totalitarismus |
+| [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]] | Empirie · Hybrider Krieg im EU-Osten (PL/CZ/BG/LV) |
 | [[Hannah Arendt — Die Banalität des Bösen]] | Theorie · Gedankenlosigkeit |
 | [[Andreas Kemper — Faschismen im 21. Jahrhundert]] | Theorie · Drei Faschismen |
 | [[Andreas Kemper — Technofaschismus und die AfD]] | Theorie · Silicon Valley → AfD |

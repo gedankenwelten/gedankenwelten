@@ -142,6 +142,10 @@ Das ist ein legitimes fiskalisches Risiko, das in der öffentlichen Debatte zu w
 
 ## Verbindungen
 
+### → [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]]
+
+Sonneborn verkörpert die vom Film geflaggte Parole („Pazifisten, aber…") — und die Doku zeigt, wie Moskau genau solche legitime Kriegskritik findet, gießt und verstärkt. Die offene Frage beider Notes: wie man Kriegskritik von der russisch verstärkten Erzählung trennt, ohne beide gleichzusetzen.
+
 ### → [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]]
 Dieselbe Eskalationsdynamik des Ukraine-Kriegs, entgegengesetzte Blickrichtung: Sonneborn macht die westliche Kriegsökonomie zur Ursache und blendet den Aggressor weitgehend aus, während Baberowski gerade Putins Diktatorendilemma und die unkontrollierbare Logik der Spirale ins Zentrum stellt — ein Kontrast, der zeigt, wie sehr der Standpunkt das Urteil formt.
 

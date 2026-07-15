@@ -127,6 +127,10 @@ Gleichzeitig: Szijjártó sperrte sich nach der Wahl in seinem Ministerium ein u
 
 ## Verbindungen
 
+### → [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]]
+
+Dieselben Propaganda-Mechanismen, die Anna in Ungarn liest, seziert die Doku in Polen, Tschechien, Bulgarien und Lettland — prorussischer Populismus im EU-Osten als Muster statt Einzelfall. Ungarn ist die fünfte Landschaft desselben stillen Krieges.
+
 ### → [[phoenix — Orbán abgewählt]]
 
 Dieselbe Wahl, andere Kamera: phoenix liefert den deutschen Blick (Gawrich, Strack-Zimmermann) auf das institutionelle Erbe; Anna liefert die ukrainische Perspektive auf den geopolitischen Verlust für Moskau
