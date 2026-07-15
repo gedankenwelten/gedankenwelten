@@ -52,6 +52,10 @@ Die Gedankenwelten (luc)
 >
 > Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
 
+> **15.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
+
 ### Denker
 
 > **14.07.** — [[Denker/Leonhard Horowski — Adel, Klassen und Gesellschaft|Leonhard Horowski — Adel, Klassen und Gesellschaft]]
