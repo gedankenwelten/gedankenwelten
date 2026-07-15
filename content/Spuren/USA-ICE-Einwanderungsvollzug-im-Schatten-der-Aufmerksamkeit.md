@@ -74,7 +74,7 @@ die **rhetorische Drift**: „Öffentliche Sicherheit" ist ein schwächerer, un�
 Rechtfertigungsstandard als Notwehr — die Behörde muss nicht mehr behaupten, ein Agent sei in
 Lebensgefahr gewesen. Wenn der Apparat den Anspruch an die eigene Rechtfertigung senkt, *obwohl* die
 Fälle sichtbarer werden, spricht das für gefestigte Straflosigkeitserwartung. Das Muster ist jetzt
-tragfähig genug für eine eigene Sektion (→ `## Muster`). Konfidenz +2: bestätigt Richtung und
+tragfähig genug für eine eigene Sektion (→ [[#Muster]]). Konfidenz +2: bestätigt Richtung und
 beschleunigt das Muster, aber der Kernmechanismus (Eskalation bei sinkender Aufmerksamkeit) bleibt
 derselbe.
 
