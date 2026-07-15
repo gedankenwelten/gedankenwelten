@@ -170,6 +170,10 @@ Diese Note schließt ein Triptychon: Die [[Spuren/Israel-Gaza-Voelkerrecht-im-Sc
 
 ## Verbindungen
 
+### → [[Yonatan Zeigen — A Place For Us All]]
+
+Dieselbe Konsequenz aus demselben Verlust: Zeigen hörte am Telefon, wie seine Mutter Vivian Silver am 7. Oktober ermordet wurde — und wählt statt Rache den parlamentarischen Weg, als Kandidat der jüdisch-arabischen Partei Makom Lekulanu. Wo Inon und Abu Sarah Bewegung bauen, versucht Zeigen den Umbau von innen.
+
 ### → [[Jok Madut Jok — Elitenpakt ist kein Frieden]]
 Dieselbe Grundfrage — was Frieden ist — von entgegengesetzten Enden: Inon und Abu Sarah bauen Frieden von unten als gewählte Beziehung; Jok seziert den Frieden von oben, den Elitenpakt, der das Leben der Menschen nie erreicht.
 

@@ -225,6 +225,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 
 ## Notes
 
+- [[Anat Saragusti — Zensur und Pressefreiheit in Israel]] — Israels Facette des Baukastens: Gesetzeswelle gegen die Presse, SLAPP-Klagen, Straßeneinschüchterung; Saragusti benennt Trump-Drehbuch und Orbán-Blaupause selbst
 | Note | Schwerpunkt |
 |---|---|
 | [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]] | Netzwerk · CPAC/Heritage/Atlas |

@@ -186,6 +186,10 @@ In einer Welt, die global alles andere als gerecht eingerichtet ist, simuliert d
 ## Verbindungen
 
 
+### → [[Yonatan Zeigen — A Place For Us All]]
+
+Der Praxistest zur Theorie: Zeigen, Sohn der am 7. Oktober ermordeten Vivian Silver, hätte jeden Grund zur Vergeltung — und weist sie zurück, nicht als moralische Geste, sondern als Sicherheitskalkül: Unterdrückung erzeugt Widerstand, also gibt es Sicherheit nur durch Gleichheit.
+
 ### → [[Pankaj Mishra — Zeitalter des Zorns]]
 
 Die politische Weltgeschichte dieses reaktiven Affekts: Mishra macht das Ressentiment, dessen moralphilosophische Wurzel Bernhardt freilegt, zur Signatur der Moderne — von Rousseau bis zum Populismus der Gegenwart.

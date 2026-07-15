@@ -189,6 +189,10 @@ Der Tiefpunkt: Südkorea, mit dem krassesten Gender Gap, hat eine Geburtenrate v
 
 ## Verbindungen
 
+### → [[Yonatan Zeigen — A Place For Us All]]
+
+Dieselbe analytische Bewegung an anderem Gegenstand: Zeigen liest die Mordwelle in der arabischen Gesellschaft Israels als Systemversagen statt Kultur — Diskriminierung in Bildung, Wohnen, Arbeitsmarkt treibt in die organisierte Kriminalität; das „so sind die eben“ verschleiert fehlenden Ressourcenzugang.
+
 - [[Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung]] — dieselbe Tischmetapher, angewandt auf Mädchen statt auf Kinder als demografische Minderheit: Malalas „Raum schaffen für Frauen an jenen Tischen, an denen über ihre Zukunft entschieden wird" ist El-Mafaalanis Mechanismus der Unsichtbarkeit — wer keine Stimme im Raum hat, dessen Anliegen „flutscht durch". Malala zeigt die Budget-Logik konkret (Mädchenbildung wird in der Krise stillschweigend gestrichen), El-Mafaalani die strukturelle Theorie dahinter
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — derselbe Denker, zwei Bücher: dort Vertrauen/Misstrauen als politische Kraft, hier Demografie/Kindheit als blinder Fleck der Demokratie; beide Bücher erschienen 2025, beide diagnostizieren strukturelle Demokratieschwächen
 - [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas Entfremdungsdiagnose findet ihren sozialen Ort hier: Kinder ohne physische Räume, in digitale Welten gedrängt, ohne verlässliche gesellschaftliche Institutionen — das ist Entfremdung nicht als philosophisches Konzept, sondern als empirisch messbare Lebensbedingung
