@@ -173,7 +173,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Who the f#ck is Agartha? — Vom Vril-Roman zur rechtsextremen Meme-Welt]] — Ein Verschwörungsmythos reist 150 Jahre — vom viktorianischen Roman über Himmlers Pseudoforschung bis in den TikTok-Feed, wo der Witz die Tarnung der Ideologie ist.
 - [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
 - [[Zeitgeist/Yanis Varoufakis — Trump Has Lost Everything|Yanis Varoufakis — Trump Has Lost Everything]]
-- [[Zeitgeist/Yonatan Zeigen — A Place For Us All|Yonatan Zeigen — A Place For Us All]] — Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und zog daraus nicht Rache, sondern eine Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist.
+- [[Zeitgeist/Yonatan Zeigen — A Place For Us All|Yonatan Zeigen — A Place For Us All]] — Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und antwortete nicht mit Rache, sondern mit einer Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist.
 - [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie]]
 
 ### USA & Trump

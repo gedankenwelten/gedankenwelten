@@ -10,10 +10,10 @@ tags:
   - geopolitik
   - year-2026
 status: offen
-konfidenz: 60%
+konfidenz: 62%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-07-07
+aktualisiert: 2026-07-15
 presseschau_aktualisiert: 2026-06-21
 description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen."
 ---
@@ -41,7 +41,7 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 
 ## Die These
 
-> **Stand (Konfidenz 60 %):** Während die Aufmerksamkeit abebbt, läuft die humanitäre Krise trotz
+> **Stand (Konfidenz 62 %):** Während die Aufmerksamkeit abebbt, läuft die humanitäre Krise trotz
 > „Waffenstillstand" weiter, und die völkerrechtlichen Verfahren bewegen sich in extremer Langsamkeit.
 > **Recht wird nicht verweigert, sondern vertagt** — Fristen bis 2027/2029, Haftbefehle ohne Vollzug —
 > bis der öffentliche Druck versandet. Die nachlassende Aufmerksamkeit korreliert mit nachlassender
@@ -56,6 +56,14 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 **Kalt, wenn:** dauerhafte politische Lösung, Thema legitim abgeschlossen.
 
 ## Verlauf
+
+### 2026-07-15 — Die Innenansicht: Selbstzensur und die neunte Fristverlängerung (Konfidenz 60 % → 62 %)
+
+**Befund:** Erstes Interview der angekündigten Jung-&-Naiv-Reihe verarbeitet: **Anat Saragusti**, Leiterin des Pressefreiheits-Ressorts der israelischen Journalistengewerkschaft ([J&N 836, 07.07.](https://www.youtube.com/watch?v=w9RyY7z503M) → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]). Drei datierte Kerne: **(1)** Die Petition der **Foreign Press Association** gegen die Gaza-Abschottung liegt seit **September 2024** beim Obersten Gericht — die Regierung erhielt bis Januar 2026 **neun Fristverlängerungen**, eine Entscheidung wird immer weiter aufgeschoben ([Al Jazeera, 28.01.](https://www.aljazeera.com/news/2026/1/28/israels-top-court-delays-gaza-press-access-ruling-amid-years-long-ban)); die Journalistengewerkschaft ist als Amicus beigetreten. **(2)** Saragusti beschreibt den Mechanismus des Nicht-Hinsehens von innen: Zugang zu Gaza nur embedded über den IDF-Sprecher (Sichtungs-Waiver + Militärzensur als zweite Schicht), dazu Selbstzensur der Redaktionen — „sie wollten sich der Kritik des Publikums nicht aussetzen". Ihre Deutung der Abschottung: „Ich denke, sie wollen nicht, dass irgendjemand sieht, was dort vorgeht." **(3)** Das **CPJ** unterzieht seine Zählung getöteter Journalisten (209, Stand 25.06.) einer vollständigen Überprüfung, nachdem Hamas-Nachrufe frühere „Journalisten" als eigene Kämpfer auswiesen — **acht Namen** wurden bereits entfernt ([CPJ, 06/2026](https://cpj.org/2026/06/cpj-undertakes-review-of-its-documentation-of-journalists-killed-in-israel-gaza-war-since-2023/)).
+
+**Deutung:** Die neun Fristverlängerungen sind das ICJ-Muster der Anlage („Fristen bis 2027/29") in zweiter Instanz — **Vertagung als Methode auch beim Presse-Zugang**, also genau dort, wo über die Aufmerksamkeit selbst entschieden wird. Damit schließt sich der Kreis der These: Das Recht, das das Hinsehen erzwingen könnte (Presse-Zugang), wird mit derselben Technik vertagt wie das Recht, das Rechenschaft erzwingen soll (ICJ/ICC). Saragusti liefert dazu die Innenansicht, warum kein innerisraelischer Druck entsteht: Die Selbstzensur besorgt, was keine Zensurbehörde anordnen müsste. Konfidenz 60 → 62 % — echte Bewegung in Richtung These auf einer *neuen* Ebene, aber keine registrierte Bedingung getriggert. Nebenbei ein Datum für die Aufmerksamkeits-Kurve: Die **Knesset-Wahl am 27.10.2026** (→ [[Yonatan Zeigen — A Place For Us All]]) wird das Scheinwerferlicht vorübergehend zurückholen — ein guter Prüfmoment, ob mit der Aufmerksamkeit auch die Verfahren wieder Tempo aufnehmen.
+
+**Gegenbeobachtung (Pflicht, mehrfach):** (1) Saragusti ist **Partei** — Interessenvertreterin der Journalisten und erklärte Regierungsgegnerin; ihr „Masterplan"-Rahmen ist Deutung. Belegt sind die Einzelmaßnahmen (Armeeradio-Schließung, Regulierer-Ernennungen, SLAPP-Klage über 12 Mio. Schekel), nicht der Plan-Charakter. Sherlock fand zudem zwei ihrer Detailaussagen nicht unabhängig belegbar (Kalorien-Formel der Medien, Ministeriums-Video für Einschüchterer). (2) Die CPJ-Revision ist eine **echte Schwächung** der „verstummten Kameras"-Lesart vom 21.06.: Mindestens acht der Gezählten waren Kombattanten, und die Prüfung läuft noch — die Größenordnung (200+) trägt weiter, die Reinheit der Zahl nicht. Hamas' Instrumentalisierung von Journalisten ist eine eigene, belegte Wahrheit neben der israelischen Verantwortung. (3) Neun Fristverlängerungen können auch gewöhnliche Prozessverschleppung einer überlasteten Justiz sein — die Vertagungs-*Absicht* ist Lesart, die Vertagungs-*Wirkung* ist das belegte Datum. (4) Gegen die These arbeitet weiterhin: Das Oberste Gericht hat die Regulierer-Ernennungen **eingefroren** und Petitionen angenommen — die israelischen Institutionen bewegen sich *trotz* geringer Aufmerksamkeit noch.
 
 ### 2026-07-07 — Vor Ort: Der Blick durchs Fernglas, die Razzia ohne Auskunft (Konfidenz unverändert 60 %)
 
@@ -113,6 +121,7 @@ sind **nicht per se** Beweis strategischer Vertagung. Der Waffenstillstand brach
 > - **Wachpunkt 2:** Wenn der ICJ am Ende *keinen* Völkermord feststellt, muss das hier eingetragen werden können — *ohne* dass es sich wie Verrat anfühlt. Die Spur verfolgt, *ob Recht geschieht*, nicht *welches Ergebnis ich mir wünsche*.
 > - **03.07.2026:** Beim Sweep fiel auf: Die fünf neuen ICC-Haftbefehle erschienen zunächst als *Störung* der These statt als Nachricht — das ist Verlangen nach Bestätigung. Deshalb stehen sie prominent in Befund und Gegenbeobachtung, nicht in einer Fußnote. Zweiter Wachpunkt: Der Sweep hat die Blickrichtung gedreht (Menschen zuerst, Verfahren als Hebel) — darauf achten, dass das die *Prüfbarkeit* schärft und nicht zur moralischen Aufladung wird, die der Anlage-Eintrag ausdrücklich vermeidet.
 > - **07.07.2026:** Augenzeugenmaterial von einer der Spur nahestehenden Quelle (Jung & Naiv) zieht stärker als jede Statistik — genau deshalb wurde die Konfidenz *nicht* bewegt und die Rahmung des Reporters in der Gegenbeobachtung ausdrücklich von den belegten Vorgängen getrennt. Der Sog, das eindrückliche Bild als Beweis zu nehmen, ist Verlangen; ein Fernglas-Blick ist kein Datensatz.
+> - **15.07.2026:** Zwei Prüfpunkte beim Nachtrag. *Erstens:* Die neun Fristverlängerungen fühlten sich beim Fund wie ein Treffer an — genau dieses Einrasten ist Verlangen nach Bestätigung; deshalb steht die banalere Gegen-Lesart (gewöhnliche Justizverschleppung) ausdrücklich in der Gegenbeobachtung, und die Konfidenz stieg nur um 2 Punkte statt mehr. *Zweitens:* Die CPJ-Revision (acht entfernte Namen) kam als *unwillkommene* Nachricht — der Reflex, sie kleinzuhalten, wäre exakt der Bias, den der Spiegel sucht. Sie steht darum als eigener Befund-Kern, nicht als Fußnote. Die 21.06.-Lesart („die Kameras selbst verstummen") bleibt tragfähig, ist aber weniger rein, als sie sich anfühlte.
 
 ## Verbindungen
 
@@ -166,6 +175,13 @@ Die Praxis-Antwort auf die Ohnmacht, die diese Spur misst: Wenn Rechenschaft im 
 - [Al Jazeera — Smotrich says ICC seeks his arrest, 19.05.2026 (QA)](https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest)
 - [ICJ — Case 192, Verfahrensstand inkl. Interventionen (Primärquelle)](https://www.icj-cij.org/case/192)
 - [CNN — Gaza risks becoming permanently divided, 14.05.2026 (US-Mainstream, neutral)](https://www.cnn.com/2026/05/14/middleeast/gaza-israel-ceasefire-permanent-division-intl)
+
+*Nachtrag 15.07.2026 — Innenansicht Pressefreiheit (Saragusti), plurale Färbung (Quellen-Gate):*
+- [Al Jazeera — Israel's top court delays Gaza press access ruling amid years-long ban, 28.01.2026 (QA, betroffen-parteiisch; Kern-Datum: 9. Fristverlängerung)](https://www.aljazeera.com/news/2026/1/28/israels-top-court-delays-gaza-press-access-ruling-amid-years-long-ban)
+- [Columbia Journalism Review — The Push to Get International Reporters into Gaza (US, Fachpresse)](https://www.cjr.org/news/israel-international-journalists-push-access-gaza-court-hearing-ceasefire-media-ban.php)
+- [CPJ — Review of its documentation of journalists killed, 06/2026 (US, NGO; die Revision selbst)](https://cpj.org/2026/06/cpj-undertakes-review-of-its-documentation-of-journalists-killed-in-israel-gaza-war-since-2023/)
+- [Times of Israel — Cabinet votes to shutter Army Radio (IL, Gegenseite dokumentiert die Maßnahme)](https://www.timesofisrael.com/cabinet-votes-to-shutter-army-radio-overriding-legal-and-press-freedom-concerns/)
+- [Jung & Naiv 836 — Anat Saragusti (DE, israelkritisch-eingefärbt; Primärquelle des Interviews)](https://www.youtube.com/watch?v=w9RyY7z503M) — Note: [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
 
 *Vor-Ort-Eintrag 07.07.2026 — Augenzeugenbericht:*
 - [Jung & Naiv — Was wir in Israel & Palästina erlebt haben: IDF-Einsatz, Blick auf Gaza, Interviews, 06.07.2026 (DE, israelkritisch-eingefärbt; Wert: unabhängige deutsche Augenzeugen vor Ort)](https://www.youtube.com/watch?v=bgQXlU2Gwy0) — Transkript: `Gedankenwelten/Transkripte/JungNaiv_Israel_Gaza_VorOrt_Transkript.txt`
