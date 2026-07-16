@@ -147,6 +147,10 @@ Das Paradox der Dystopie — die Mächtigen als Gefangene ihres eigenen Systems 
 - Robert Half (29 % rehiren) · Careerminds (73 % finanziell nicht besser) — *belastbar als Indiz, Anbieter-Umfragen, kein neutrales Institut*
 - *(weiter zu vertiefen: soziale Vereinzelung; Produktivitäts-Lohn-Schere; Open-Weights vs. Frontier-Lücke; Preis lokaler Inferenz; Diskurston gegenüber Nicht-Erwerbstätigen — Signal 1)*
 
+### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
+
+Misselhorns erster Grundsatz (KI soll Selbstbestimmung fördern, nicht ersetzen) gibt der Spur ihr ethisches Kriterium: Die Verletzung liegt darin, dass KI ausgerechnet das Genuin-Menschliche ersetzt — Kunst, Journalismus, soziale Beziehungen — statt der „dull, dirty, dangerous"-Jobs.
+
 ---
 
 ## Weiterdenken

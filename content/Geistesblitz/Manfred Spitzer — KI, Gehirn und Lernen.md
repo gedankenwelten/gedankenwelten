@@ -261,3 +261,7 @@ Beide arbeiten an der Schnittstelle von Neurowissenschaft und gesellschaftlicher
 ## Verbindung zu [[Gerald Huether — Lebendigkeit und das Ende der Hierarchien]]
 
 Beide sind Hirnforscher mit pädagogischem Anspruch — und beide kritisieren Schulroutine, KI-getriebene Außensteuerung und das Funktionieren-ohne-Lebendigkeit. Aber die Methode unterscheidet sich grundlegend: Spitzer arbeitet studien- und faktengetrieben (Smartphone-Nutzung → messbarer kognitiver Abbau), Hüther phänomenologisch-existenziell (das Hirn als Selbstorganisationssystem, das Lebendigkeit braucht). Wo Spitzer Smartphones verbieten würde, würde Hüther die Jugendlichen *einladen*, selbst die Konsequenzen zu spüren — Verbote wären für ihn schon wieder Objektivierung. Beide Diagnosen treffen sich, die pädagogischen Konsequenzen gehen auseinander.
+
+### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
+
+Die empirische Flanke zu Misselhorns begrifflichem Rechnen-vs-Denken: Spitzers Neurobiologie stützt von der Gehirnseite, was sie philosophisch begründet — gelebter gemäßigter Naturalismus, in dem Evidenz die Begriffe stützt, aber nicht ersetzt.

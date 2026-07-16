@@ -226,6 +226,10 @@ Steinke analysiert den Chilling-Effekt geheimdienstlicher Beobachtung auf legale
 
 Dieselbe Palantir-Infrastruktur am anderen Ende: Was Kurz als zivile Überwachungslogik freilegt, nutzt die NATO als Maven Smart System für die Kill Chain — die re:publica-Debatte diskutiert, wer diese Systeme kontrolliert und wer für sie haftet.
 
+### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
+
+Dieselbe Entmythologisierung philosophisch statt technisch: Wo Kurz den stochastischen Papagei zeigt, erklärt Misselhorn über das chinesische Zimmer, warum Syntax nie Semantik wird — und warum die Vermenschlichung trotz besseren Wissens wirkt (Empathie als Illusion).
+
 ---
 
 ## Weiterdenken

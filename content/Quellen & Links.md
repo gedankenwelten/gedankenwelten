@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Catrin Misselhorn — KI- & Roboter-Ethik (Jung & Naiv 835, 2026)
+
+| | |
+|---|---|
+| **Video** | [Philosophin Catrin Misselhorn über KI- & Roboter-Ethik — Jung & Naiv 835](https://www.youtube.com/watch?v=LoEXyaNqOHA) |
+| **Notiz** | [[Catrin Misselhorn — Grundfragen der Maschinenethik]] |
+| **DenkerVita** | [[DenkerVita/Catrin Misselhorn]] |
+| **Buch** | [Grundfragen der Maschinenethik (Reclam, genialokal)](https://www.genialokal.de/Produkt/Catrin-Misselhorn/Grundfragen-der-Maschinenethik_9783150194835.html) |
+| **Transkript** | `Gedankenwelten/Transkripte/Misselhorn_KI_Roboter_Ethik_Transkript.txt` |
+
 ## re:publica 26 — Senkt KI die Hemmschwelle zum Krieg? (Dahlmann & Kuhle, 2026)
 
 | | |

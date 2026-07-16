@@ -425,3 +425,7 @@ Die philosophische Miniatur zur strukturellen Analyse: Hans „Vieh, das den Zau
 ### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
 
 Mühlhoffs Verantwortungsdiffusion, ins Militärische verlängert: Die re:publica-Debatte zeigt am Beispiel Kundus, dass ohne menschliche Entscheidung kein Minister mehr zurücktreten kann — die demokratische Rechenschaft selbst entkoppelt sich.
+
+### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
+
+Misselhorn liefert die ethische Fassung von Mühlhoffs Machtanalyse: Ihr dritter Grundsatz (substanzielle menschliche Verantwortung, überprüfbar und anfechtbar) ist die normative Antwort auf die prädiktiven Verwaltungssysteme, deren Verantwortungsdiffusion er beschreibt.

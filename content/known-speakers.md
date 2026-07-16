@@ -199,6 +199,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Carolin Amlinger
 **Status:** ✓ Vollanalyse → [[DenkerVita/Carolin Amlinger]]
 
+## Catrin Misselhorn
+**Status:** ✓ Vollanalyse → [[DenkerVita/Catrin Misselhorn]]
+
 ## Christian Jakob
 **Status:** ✓ Vollanalyse → [[DenkerVita/Christian Jakob]]
 
