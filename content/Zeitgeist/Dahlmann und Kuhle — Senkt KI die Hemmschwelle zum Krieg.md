@@ -216,6 +216,10 @@ Greift die Zuschauerfrage auf — Sprachmodelle als „mächtigste Propagandawaf
 
 Beide teilen den Befund: Das humanitäre Völkerrecht gilt, aber niemand erzwingt es. MONITORs „Schweigen danach" ist dieselbe Leerstelle wie die hier vermisste politische Ächtung geschehener KI-Einsätze — und beide spielen im selben Iran-Krieg, den Dahlmann als Wendepunkt ihrer eigenen Antwort benennt.
 
+### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
+
+Der philosophische Unterbau der Debatte, am selben Tag entstanden: Misselhorn begründet, was hier gefordert wird — weil es keine moralische Pflicht zu töten gibt, ist jede Tötung eine Entscheidung, die einen menschlichen Träger braucht. Ihre drei Grundsätze sind Dahlmanns „Meaningful Human Control" und Kuhles Kundus-Argument in ethischer Reinform.
+
 ---
 
 ## Weiterdenken

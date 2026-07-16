@@ -50,6 +50,10 @@ Die Gedankenwelten (luc)
 
 > **16.07.** — [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 
+> **16.07.** — [[Denker/Catrin Misselhorn — Grundfragen der Maschinenethik|Catrin Misselhorn — Grundfragen der Maschinenethik]]
+>
+> Maschinen können handeln, aber nicht verantworten — Misselhorns drei Grundsätze ziehen die Grenze, hinter die kein Komfort der Automatisierung zurückführen darf.
+
 > **14.07.** — [[Denker/Leonhard Horowski — Adel, Klassen und Gesellschaft|Leonhard Horowski — Adel, Klassen und Gesellschaft]]
 
 > **14.07.** — [[Denker/Pankaj Mishra — Zeitalter des Zorns|Pankaj Mishra — Zeitalter des Zorns]]
@@ -58,9 +62,7 @@ Die Gedankenwelten (luc)
 
 > **14.07.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
 
-> **12.07.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
-
-> → *3 weitere in* [[Denker]]
+> → *4 weitere in* [[Denker]]
 
 ### Geistesblitz
 

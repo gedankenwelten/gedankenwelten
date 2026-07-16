@@ -105,6 +105,10 @@ Was gegen die Herrenlosigkeit hilft, ist deshalb keine große Geste und kein Mas
 - [[Denker/Renee DiResta — Invisible Rulers]] — Die Skynet-Umkehr, empirisch am Fall Springfield: „Kein einziger Akteur muss lügen wollen — das System produziert dennoch Propaganda, es gibt keine zentrale Schuld." Genau die Herrenlosigkeit, die dieser Gedanke ausbuchstabiert, nur im Feld der Desinformation.
 - [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Die technische Grammatik der „Herrschaft ohne Herrn": Nosthoffs Kybernetik zweiter Ordnung beschreibt Systeme, die sich selbst Ziele setzen und nur noch über Informationsflüsse steuern — Politik als Regelung statt Entscheidung. Der reine Prozess, den der leere Turm meint, hat hier seinen Namen.
 
+### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
+
+Misselhorns Meta-Reflexion zur Verantwortungslücke antwortet auf den leeren Turm: Wer den Mechanismus strategisch wählt, um sich der Verantwortung zu entziehen, hat genau dadurch wieder Verantwortung — die herrenlose Macht bekommt einen Namen zurück.
+
 ---
 
 ## Weiterdenken

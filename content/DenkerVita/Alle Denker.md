@@ -293,6 +293,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Michel Friedman|Michel Friedman]]** — Jurist, Publizist, Fernsehmoderator; Kind polnisch-jüdischer Holocaust-Überlebender; Heuchelei als demokratischer Befund, Antisemitismus als Querspektrum-Phänomen
 
+**[[DenkerVita/Catrin Misselhorn|Catrin Misselhorn]]** — Philosophin (Prof. Universität Göttingen); Vordenkerin der Maschinen- und Roboterethik in Deutschland; drei Grundsätze moralischer Maschinen (Selbstbestimmung fördern, nicht über Leben/Tod entscheiden, menschliche Letztverantwortung), Empathie als Moralquelle auch gegenüber Robotern, Uncanny Valley, gemäßigter Naturalismus; *Grundfragen der Maschinenethik*, *Künstliche Intelligenz und Empathie*
+
 **[[DenkerVita/Maoz Inon|Maoz Inon]]** — Israelischer Sozialunternehmer & Friedensaktivist, Gründer der Abraham-Hostels, des Jesus Trail und Fauzi Azar Inn, Co-CEO InterAct International; verlor seine Eltern am 7. Oktober 2023 und wählte öffentlich Frieden statt Rache; Co-Autor The Future Is Peace (2026)
 
 **[[DenkerVita/Rainer Mausfeld|Rainer Mausfeld]]** — Wahrnehmungspsychologe und Kognitionsforscher (Uni Kiel, emeritiert); anerkannter Grundlagenforscher, ab 2015 machtkritischer Analytiker von Meinungsmanagement und „Demokratie-Management“; *Warum schweigen die Lämmer?* (2018), *Angst und Macht* (2019), *Hybris und Nemesis* (2023)

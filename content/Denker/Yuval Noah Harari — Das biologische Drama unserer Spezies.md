@@ -235,6 +235,10 @@ Der stille Untergrund von Hararis KI-Diagnose: Er meditiert seit dem Jahr 2000 i
 
 Hararis „KI ist kein Werkzeug, sondern Agent" und die Frage nach der KI als Rechtsperson bekommen bei Mühlhoff die politökonomische Erdung: Er zeigt, wie sich reale Souveränität schon jetzt an autonome Systeme und ihre Konzerne verschiebt. Harari fragt, ob wir KIs Personhaftigkeit *zusprechen* — Mühlhoff zeigt, dass die Macht faktisch längst dort liegt.
 
+### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
+
+Produktive Reibung: Harari sieht die KI als neuen „Meister der Worte", Misselhorn hält dagegen, dass sie Bedeutung nur simuliert (Syntax ohne Semantik). Beide fürchten die Wirkung — uneins darüber, ob dahinter ein Verstehen steckt.
+
 ---
 
 ## Weiterdenken

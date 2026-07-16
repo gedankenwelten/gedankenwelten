@@ -252,6 +252,10 @@ Mu als wechselseitige Abhängigkeit ist die Mahāyāna-Entsprechung zu Anattā: 
 
 Derselbe scobel-Kosmos, dieselbe Denkbewegung: Gabriels *Mu* ent-fragt die falsch gestellte Frage — Scobels Wittgenstein-Schluss („wer keinen Zweck außer dem Leben mehr braucht“) löst die Wozu-Frage nicht, sondern lässt sie fallen.
 
+### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
+
+Gegensätzliche Gesten derselben Absage an KI-Subjekthaftigkeit: Gabriels „Mu" verweigert die Frage, Misselhorn beantwortet sie graduell (handlungsfähig ja, verantwortungsfähig nein) — und setzt dem Spiegel ihr „philosophisches Brennglas" entgegen.
+
 ---
 
 ## Weiterdenken
