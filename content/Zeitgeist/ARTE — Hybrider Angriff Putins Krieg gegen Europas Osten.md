@@ -193,6 +193,10 @@ Dialektischer Gegenpol: Sonneborn verkörpert die vom Film geflaggte Parole („
 
 Regionale Fortsetzung nach Ungarn: dieselben Propaganda-Mechanismen, die der Film in Polen, Tschechien, Bulgarien und Lettland seziert — prorussischer Populismus im EU-Osten, gelesen als Muster statt als Einzelfall.
 
+### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
+
+Die zweite Front derselben Technologie: Wo die ARTE-Doku Sabotage und Desinformation ausführt, fokussiert die re:publica-Debatte die Kill Chain — und ein Ex-Offizier im Publikum nennt Sprachmodelle „eine der mächtigsten Propagandawaffen", die Brücke zwischen beiden.
+
 ---
 
 ## Weiterdenken

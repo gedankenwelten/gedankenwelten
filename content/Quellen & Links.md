@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## re:publica 26 — Senkt KI die Hemmschwelle zum Krieg? (Dahlmann & Kuhle, 2026)
+
+| | |
+|---|---|
+| **Video** | [re:publica 26: Senkt KI die Hemmschwelle zum Krieg?](https://www.youtube.com/watch?v=4ctWOJjr4GQ) |
+| **Session** | [re-publica.com — Programmeintrag](https://re-publica.com/de/session/senkt-ki-die-hemmschwelle-zum-krieg) |
+| **Notiz** | [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]] |
+| **DenkerVita** | [[DenkerVita/Anja Dahlmann]] · [[DenkerVita/Konstantin Kuhle]] |
+| **Schlüsselquelle** | [+972 Magazine — 'Lavender': The AI machine directing Israel's bombing spree](https://www.972mag.com/lavender-ai-israeli-army-gaza/) |
+| **Transkript** | `Gedankenwelten/Transkripte/Dahlmann_Kuhle_KI_Krieg_Transkript.txt` |
+
 ## ARTE — Hybrider Angriff: Wie Putin Europas Osten destabilisiert (Szołajski, 2023)
 
 | | |

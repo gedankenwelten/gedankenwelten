@@ -241,3 +241,7 @@ Münklers *postheroische Gesellschaft* — die im Tausch denkt, nicht im Opfer �
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
 
 Merkels „zweite Seite der Medaille“ (Abschreckung + Diplomatie) ist gelebte Praxis dessen, was Münkler fürs postheroische Europa durchdenkt.
+
+### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
+
+Münklers Frage, unter welchen Bedingungen Kriege beginnen, bekommt eine neue Variable: Dahlmann nennt drei Gründe, warum KI die Hemmschwelle eher senkt — Überlegenheitsgefühl, gesenkte Kosten, Intransparenz, die den Erstschlag attraktiv macht.

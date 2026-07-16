@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **16.07.** — [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir|Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+>
+> CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt.
+
+> **16.07.** — [[Zeitgeist/Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg|Senkt KI die Hemmschwelle zum Krieg? — Dahlmann und Kuhle auf der re:publica]]
+>
+> Wenn die Maschine die Ziele wählt und der Mensch nur noch wegklickt, entkoppelt sich der Krieg von der Verantwortung — eine Debatte über das, was dann fehlt.
+
 > **15.07.** — [[Zeitgeist/Yonatan Zeigen — A Place For Us All|Yonatan Zeigen — A Place For Us All]]
 >
 > Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und antwortete nicht mit Rache, sondern mit einer Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist.
@@ -36,15 +44,23 @@ Die Gedankenwelten (luc)
 >
 > Die Frau, die 1982 als erste israelische Journalistin Arafat interviewte, beschreibt, wie Israels freie Presse stirbt — nicht durch Verbote, sondern durch Selbstzensur.
 
-> **15.07.** — [[Zeitgeist/ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten|Hybrider Angriff — Wie Putin Europas Osten destabilisiert]]
->
-> Ein stiller Krieg ohne Panzer — Sabotage, Gift und Desinformation ziehen durch vier EU-Länder. Wo endet der Befund, wo beginnt die Erzählung, die selbst mit Angst arbeitet?
+> → *14 weitere in* [[Zeitgeist]]
 
-> **14.07.** — [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]]
->
-> Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört.
+### Denker
 
-> → *12 weitere in* [[Zeitgeist]]
+> **16.07.** — [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
+
+> **14.07.** — [[Denker/Leonhard Horowski — Adel, Klassen und Gesellschaft|Leonhard Horowski — Adel, Klassen und Gesellschaft]]
+
+> **14.07.** — [[Denker/Pankaj Mishra — Zeitalter des Zorns|Pankaj Mishra — Zeitalter des Zorns]]
+>
+> Pankaj Mishra führt die Wut der Gegenwart auf das unerfüllte Versprechen von 1789 zurück — Ressentiment als Signatur der Moderne, von Rousseau bis Modi.
+
+> **14.07.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
+
+> **12.07.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
+
+> → *3 weitere in* [[Denker]]
 
 ### Geistesblitz
 
@@ -67,24 +83,6 @@ Die Gedankenwelten (luc)
 > **15.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
 >
 > Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
-
-### Denker
-
-> **14.07.** — [[Denker/Leonhard Horowski — Adel, Klassen und Gesellschaft|Leonhard Horowski — Adel, Klassen und Gesellschaft]]
-
-> **14.07.** — [[Denker/Pankaj Mishra — Zeitalter des Zorns|Pankaj Mishra — Zeitalter des Zorns]]
->
-> Pankaj Mishra führt die Wut der Gegenwart auf das unerfüllte Versprechen von 1789 zurück — Ressentiment als Signatur der Moderne, von Rousseau bis Modi.
-
-> **14.07.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
-
-> **12.07.** — [[Denker/Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)|Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
-
-> **12.07.** — [[Denker/Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung|Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung]]
->
-> Eine junge Frau, die den Weg vom Schulverbot zum Nobelpreis ging, über Bildung als Emanzipation, Hoffnung als Methode und die einzige Niederlage, die zählt: am eigenen Wert zu zweifeln.
-
-> → *2 weitere in* [[Denker]]
 
 ### Panorama
 

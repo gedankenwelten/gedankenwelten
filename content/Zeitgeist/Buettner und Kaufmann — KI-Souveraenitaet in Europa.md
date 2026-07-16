@@ -234,6 +234,10 @@ Varoufakis beschreibt Cloud Rent als neuen Tributmechanismus. Kaufmanns Kritik, 
 
 Merkel verteidigt europäische KI-Regeln gegen US-Druck; Büttner und Kaufmann liefern den Souveränitätsbegriff dazu — Vertrauen als europäischer Gegenentwurf zur Tech-Abhängigkeit.
 
+### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
+
+Die Souveränitätsfrage im schärfsten Anwendungsfall: Rüstungs-KI. Kuhle bestätigt die Abhängigkeitsdiagnose („kein EU-Unternehmen ohne massives US-Backbone") und setzt auf das Vergaberecht — Dahlmann hält die Drohszenarien amerikanischer Investoren dagegen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

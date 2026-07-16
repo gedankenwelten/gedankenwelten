@@ -103,6 +103,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## D
 
+**[[DenkerVita/Anja Dahlmann|Anja Dahlmann]]** — Rüstungskontrollexpertin (IFSH); autonome Waffensysteme und militärische KI, menschliche Kontrolle über Waffengewalt, feministische Rüstungskontrolle
+
 **[[DenkerVita/Dalai Lama|Dalai Lama (Tenzin Gyatso)]]** — 14. Dalai Lama, geistliches Oberhaupt des tibetischen Buddhismus, Friedensnobelpreisträger 1989; säkulare Ethik (Mitgefühl jenseits der Religion), Dialog mit der Wissenschaft, Gewaltlosigkeit, „Mittlerer Weg" für Tibet
 
 **[[DenkerVita/Der Dara|Der Dara (Marc)]]** — YouTuber, politischer Kommentator; Aufklärung gegen Rechts, Fake-News-Debunking, Reaction-Format als politische Bildung
@@ -230,6 +232,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Konfuzius|Konfuzius]]** — Philosoph, Ethiker; Achsenzeit-Denker neben Sokrates und Buddha; Ren (仁, Mitmenschlichkeit), Goldene Regel, fünf Kardinaltugenden, Junzi, Widerstandspflicht gegen unmenschliche Herrscher
 
 **[[DenkerVita/Konstantin Flemig|Konstantin Flemig]]** — Kriegsreporter, Dokumentarfilmer, Buchautor; Faktenjournalismus über Ukraine-Krieg, Zeitenwende-Industrialisierung, vergessene Kriege
+
+**[[DenkerVita/Konstantin Kuhle|Konstantin Kuhle]]** — Rechtsanwalt, FDP-Politiker, MdB 2017–2025 (stellv. Fraktionsvorsitz, Innen-/Rechtspolitik); sozialliberaler Bürgerrechtsliberalismus, wehrhafte Demokratie, parlamentarische Geheimdienstkontrolle, Pro-Europäer; re:publica 26 zu KI und Kriegs-Hemmschwelle
 
 **[[DenkerVita/Lacina Kone|Lacina Koné]]** — Ivorer, Director General & CEO des Smart Africa Secretariat (42+ Staaten, Kigali); Architekt der digitalen Souveränität Afrikas — Single Digital Market bis 2030, Africa AI Council, AfCFTA Digital Trade Protocol, Afrika-Europa-Partnerschaft auf Augenhöhe
 

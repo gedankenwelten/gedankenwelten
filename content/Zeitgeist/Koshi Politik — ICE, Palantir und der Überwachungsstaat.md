@@ -124,3 +124,7 @@ Während Koshi die ICE-Kooperation und die US-Dimension beleuchtet, zeigen Kurz 
 ### → [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
 
 Kurz ergänzt die US-Perspektive um die deutsche Innenperspektive: Während Koshi zeigt, wie ICE Palantir zur Migrantenverfolgung einsetzt, dokumentiert Kurz denselben Zweckbindungsbruch bei deutschen Polizeibehörden (15.000 Zugriffe in Hessen, Alltags-Kriminalität statt Terrorabwehr) — und analysiert, warum der Vendor Lock-in so stark ist, dass Polizisten erklären, ohne Palantir nicht mehr arbeiten zu können.
+
+### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
+
+Palantir im Krieg statt in der Abschiebebehörde: Die re:publica-Debatte zeigt dieselbe monopolartige Infrastruktur in der militärischen Zielauswahl (Maven) — und Kuhles vergaberechtlichen Hebel dagegen.
