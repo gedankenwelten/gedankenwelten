@@ -296,3 +296,7 @@ Reuters belegt: Der Krieg hat den Iran-Atomzeitrahmen nicht verändert (weiterhi
 ### → [[Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedraengt]]
 
 Netanyahu aktiviert die Bodentruppen-Logik öffentlich auf 60 Minutes — die politische Ereigniskette, die MONITORs völkerrechtliche Warnung vom März in aktuellen Handlungsdruck übersetzt. Was Kai Ambos als „disregard for international law" diagnostizierte, bekommt hier eine diplomatische Schnittstelle: Trump wurde öffentlich gebunden, ohne dass ein formeller Entscheid gefallen ist.
+
+### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
+
+Derselbe Befund aus der Regulierungsperspektive: Das humanitäre Völkerrecht gilt, aber niemand erzwingt es. Die re:publica-Debatte vermisst die politische Ächtung schon geschehener KI-Einsätze — Dahlmann nennt den Iran-Krieg als Wendepunkt ihrer eigenen Antwort.

@@ -1,7 +1,7 @@
 ---
 title: "Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir"
 date: 21.05.2026
-aktualisiert: 2026-06-05
+aktualisiert: 2026-07-16
 description: "CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt."
 tags:
   - zeitgeist
@@ -221,6 +221,10 @@ Nosthoff zeigt die historische Genealogie kybernetischer Steuerungslogik — Wie
 ### → [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]]
 
 Steinke analysiert den Chilling-Effekt geheimdienstlicher Beobachtung auf legales Verhalten. Kurz beschreibt denselben Mechanismus bei Palantir Gotham und der Chatkontrolle — zwei Instrumente, eine Pathologie: Verhaltensveränderung durch die bloße Existenz des Netzes, nicht erst durch konkrete Eingriffe.
+
+### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
+
+Dieselbe Palantir-Infrastruktur am anderen Ende: Was Kurz als zivile Überwachungslogik freilegt, nutzt die NATO als Maven Smart System für die Kill Chain — die re:publica-Debatte diskutiert, wer diese Systeme kontrolliert und wer für sie haftet.
 
 ---
 

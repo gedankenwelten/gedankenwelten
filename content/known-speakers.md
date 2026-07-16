@@ -247,6 +247,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Konfuzius
 **Status:** ✓ Vollanalyse → [[DenkerVita/Konfuzius]]
 
+## Anja Dahlmann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Anja Dahlmann]]
+
 ## Darin L. Gerdes
 **Status:** ✓ Vollanalyse → [[DenkerVita/Darin L. Gerdes]]
 
@@ -798,3 +801,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Yonatan Zeigen
 **Status:** ✓ Vollanalyse — [[DenkerVita/Yonatan Zeigen]]
+
+## Konstantin Kuhle
+**Status:** ✓ Vollanalyse — [[DenkerVita/Konstantin Kuhle]]

@@ -229,3 +229,7 @@ Kurz bremst das Anthropic-Narrativ von der anderen Seite: Während Tooze Anthrop
 ### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
 
 Trumps KI-Staatsfonds kippt Toozes Machtraum-Frage: Der Staat sozialisiert die Verluste der Privaten, ohne die Kontrolle zu übernehmen — das Gegenteil eines souveränen Staatsfonds à la Norwegen. Wer kontrolliert KI-Infrastruktur? Im Staatsfonds-Szenario: niemand, der es sollte.
+
+### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
+
+Die re:publica-Debatte mit Anja Dahlmann und Konstantin Kuhle stellt die Verantwortungsfrage zu Toozes Machtfrage: Während hier um die Kontrolle über militärische KI gerungen wird, fragen Dahlmann/Kuhle, was aus Verantwortung wird, wenn die Kill Chain den Menschen zum Abnick-Rädchen macht.

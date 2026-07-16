@@ -1,7 +1,7 @@
 ---
 title: "Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus"
 date: 2026-04-05
-aktualisiert: 2026-04-05
+aktualisiert: 2026-07-16
 tags:
   - denker
   - ki
@@ -421,3 +421,7 @@ Neitzel/Iltisberger formalisieren die Systemstruktur des KI-Hypes (3 Subsysteme,
 
 Die philosophische Miniatur zur strukturellen Analyse: Hans „Vieh, das den Zaun nicht als Gefängnis erkennt, weil dort das Futter ist" beschreibt dieselbe Herrschaft-als-Bequemlichkeit, deren politische Ökonomie und autoritären Kipppunkt Mühlhoff ausbuchstabiert. Beide trennen streng Werkzeug von Herrschaftsform — auch bei der KI.
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Mühlhoffs drei Kriterien werden in der SRF-Sendung als Referenzdefinition aufgerufen — und Redecker kritisiert das Technologie-Kriterium als „zu breit“: auch linke technokratische Regime nutzen Technik als Machtmittel, ohne faschistisch zu sein.
+
+### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
+
+Mühlhoffs Verantwortungsdiffusion, ins Militärische verlängert: Die re:publica-Debatte zeigt am Beispiel Kundus, dass ohne menschliche Entscheidung kein Minister mehr zurücktreten kann — die demokratische Rechenschaft selbst entkoppelt sich.
