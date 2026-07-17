@@ -289,3 +289,11 @@ Theveßen liefert die laufenden Beweisstücke zu Temelkurans Stufenmodell: die �
 ### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
 
 Temelkurans Warnung im Vollzug angekommen: Die Sprache, die tödliche Gewalt deckt („öffentliche Sicherheit" statt Notwehr), verschiebt sich schneller als die Taten — Normalisierung als rhetorische Drift, dokumentiert an einem Toten in Maine.
+
+---
+
+## Verbindungen
+
+### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
+
+Der Gegentest zur Ablenkungs-These: Ist der Epstein-Komplex Kulisse oder verdeckte Substanz? Hier die dokumentierte Mechanik der Schwärzung.

@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*265 Notes — automatisch generiert · nach Thema sortiert*
+*267 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -170,6 +170,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]]
 - [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa|Varoufakis — 2008 Crash, Populismus und Europa]]
 - [[Zeitgeist/Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit|Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
+- [[Zeitgeist/WDR Europaforum — Out of order Voelkerrecht|WDR Europaforum — Out of order? Wenn das Völkerrecht den Bach runtergeht]] — Drei Stimmen über die angebliche neue Weltunordnung: Für wen die Welt nie in Ordnung war, warum das Völkerrecht trotzdem täglich lebt — und wieso das Schweigen der Bundesregierung gefährlicher ist als jeder Rechtsbruch.
 - [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir|Welche Freiheit wollen wir? — Möllers trifft Poschardt]]
 - [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht|Wendy Brown — Wie Neoliberalismus die Demokratie bedroht]] — Wendy Brown zeigt, wie Neoliberalismus nicht nur Märkte dereguliert, sondern Demokratie selbst in ein Marktmodell verwandelt und dabei ihre Grundlage zerstört.
 - [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Who the f#ck is Agartha? — Vom Vril-Roman zur rechtsextremen Meme-Welt]] — Ein Verschwörungsmythos reist 150 Jahre — vom viktorianischen Roman über Himmlers Pseudoforschung bis in den TikTok-Feed, wo der Witz die Tarnung der Ideologie ist.
@@ -325,6 +326,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Akkudoktor — Lanz und die Energiewende|Akkudoktor — Programmbeschwerde gegen Markus Lanz: Energiewende-Desinformation im ZDF]]
 - [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte|Der Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]] — Eine Oxford-Studie zählt nach, wie die BILD mit einem erfundenen Wort ein Gesetz zerlegte — und wie tausend seriöse Medien es nachdruckten. Eine Schande für den Journalismus.
 - [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
+- [[Zeitgeist/Schwarz und Obermaier — Vom Smartphone ins Gericht|Schwarz & Obermaier — Vom Smartphone ins Gericht]] — Ein Tweet, ein Prahlvideo, ein heimlich gefilmtes Geständnis: Wie digitale Beweise einen Münchner Scharfschützen belasten — und warum die Bundesanwaltschaft trotzdem nicht ermittelt.
 
 ### Philosophie & Psychologie
 

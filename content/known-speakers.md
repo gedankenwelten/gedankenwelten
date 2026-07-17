@@ -16,6 +16,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Kai Ambos
 **Status:** ✓ Vollanalyse — [[DenkerVita/Kai Ambos]]
 
+## Kalayo
+**Status:** ✓ Vollanalyse — [[DenkerVita/Kalayo]]
+
 ## Adam Johnson
 **Status:** ✓ Vollanalyse → [[DenkerVita/Adam Johnson]]
 

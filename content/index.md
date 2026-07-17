@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Drei Stimmen über die angebliche neue Weltunordnung: Für wen die Welt nie in Ordnung war, warum das Völkerrecht trotzdem täglich lebt — und wieso das Schweigen der Bundesregierung gefährlicher ist als jeder Rechtsbruch.
 
+> **17.07.** — [[Zeitgeist/KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat|KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
+>
+> Das FBI bestätigt Schulungsvideos zur Schwärzung von Trumps Namen — und lässt die Gerichtsfrist verstreichen. Zwei Journalistinnen zwingen die Vertuschung ans Licht, Paragraf für Paragraf.
+
 > **17.07.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
 
 > **17.07.** — [[Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger|Helen Keller — Völkerrecht: Ein zahnloser Tiger?]]
@@ -36,11 +40,21 @@ Die Gedankenwelten (luc)
 >
 > Nicht die Verletzung ist neu — die gab es immer. Neu ist das Schweigen danach: Eine Weltmacht erklärt das Völkerrecht für irrelevant, und niemand kann sie zwingen.
 
-> **17.07.** — [[Zeitgeist/Schwarz und Obermaier — Vom Smartphone ins Gericht|Schwarz & Obermaier — Vom Smartphone ins Gericht]]
->
-> Ein Tweet, ein Prahlvideo, ein heimlich gefilmtes Geständnis: Wie digitale Beweise einen Münchner Scharfschützen belasten — und warum die Bundesanwaltschaft trotzdem nicht ermittelt.
+> → *17 weitere in* [[Zeitgeist]]
 
-> → *16 weitere in* [[Zeitgeist]]
+### Spuren
+
+> **17.07.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
+>
+> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
+
+> **15.07.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+>
+> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
+
+> **15.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
 ### Denker
 
@@ -71,16 +85,6 @@ Die Gedankenwelten (luc)
 > **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
 >
 > Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
-
-### Spuren
-
-> **15.07.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
-
-> **15.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
->
-> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
 ### Panorama
 

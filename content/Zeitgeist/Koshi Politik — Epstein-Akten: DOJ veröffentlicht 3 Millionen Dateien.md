@@ -114,6 +114,10 @@ Koshi im Trump-DHS-Video: „Wer weiß, was Israel bezüglich Epstein noch gegen
 ### → [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11]]
 TS11: Trump verteidigt Pam Bondi, die die Epstein-Anhörung im Kongress leitete.
 
+### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
+
+Was aus Blanches „maximaler Transparenz“ wurde: FBI-Schulungsvideos zur namensbezogenen Schwärzung — Existenz bestätigt, Herausgabe verweigert.
+
 ---
 
 ## Serie: Koshi Politik — Epstein-Dokumentation

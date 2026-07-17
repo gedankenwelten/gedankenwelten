@@ -92,3 +92,11 @@ Fortsetzung: Bondis Entlassung und was daraus folgt — sie bleibt zur Aussage v
 
 ### → [[Geistesblitz/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 Trumps Post-Muster: Selbst-Entlastung, Feind-Markierung (Massey als RINO), Loyalitätsprüfung (Bondi loben). Hagemeyers narzisstische Dynamik in komprimierter Form.
+
+---
+
+## Verbindungen
+
+### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
+
+Wie sich das Anhörungs-Muster von Bondi bei Blanche vor dem Senat wiederholt — und die Opferschutz-Rhetorik in ihr Gegenteil kippt (Mitverschwörer als „Opfer“).
