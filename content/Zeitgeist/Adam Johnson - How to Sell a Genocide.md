@@ -206,6 +206,11 @@ Diese Note ist bewusst das Komplement zur Spur [[Spuren/Israel-Gaza-Voelkerrecht
 
 ## Verbindungen
 
+### → [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]
+
+Die justizielle Seite von Johnsons Medienbefund: Beweise, die zum „Archiv folgenloser Taten“ werden, und ein Fall mit deutschem Bezug, der international breit, in Deutschland kaum aufgegriffen wurde — organisiertes Wegsehen in Redaktionen und Behörden.
+
+
 ### → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
 
 Die israelische Innenansicht zu Johnsons US-Befund: Israels erste Kriegsfotografin, heute Pressefreiheits-Ressort der Journalistengewerkschaft, beschreibt dieselbe Unsichtbarmachung Gazas von der anderen Seite — Selbstzensur, IDF-Embedding, kein ausländischer Presse-Zugang. Zwei Länder, ein Mechanismus.

@@ -164,6 +164,11 @@ Er kündigte als Anwalt, wurde Sozialarbeiter, bekam sein erstes Kind — und gl
 
 ## Verbindungen
 
+### → [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]
+
+Zwei Antworten auf dieselbe Entmenschlichung: Schwarz' juristische Weigerung, Zivilisten über „imaginäre Linien“ zu Zielen zu erklären, und Zeigens politische Weigerung, Sicherheit gegen Gleichheit auszuspielen.
+
+
 ### → [[Inon und Abu Sarah - The Future is Peace]]
 
 Das Schwesterstück des Verlusts: Maoz Inon verlor seine Eltern am 7. Oktober, Zeigen seine Mutter Vivian Silver — und beide ziehen dieselbe Konsequenz, nicht Rache, sondern Aufbau. Wo Inon und Abu Sarah den zivilgesellschaftlichen Weg gehen, wählt Zeigen den parlamentarischen: zwei Antworten auf denselben Schmerz.

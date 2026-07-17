@@ -13,6 +13,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Kai Ambos
+**Status:** ✓ Vollanalyse — [[DenkerVita/Kai Ambos]]
+
 ## Adam Johnson
 **Status:** ✓ Vollanalyse → [[DenkerVita/Adam Johnson]]
 
@@ -144,6 +147,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Alena Buyx
 **Status:** ✓ Vollanalyse → [[DenkerVita/Alena Buyx]]
+
+## Alexander Schwarz
+**Status:** ✓ Vollanalyse — [[DenkerVita/Alexander Schwarz]]
 
 ## Aladin El-Mafaalani
 **Status:** ✓ Vollanalyse → [[DenkerVita/Aladin El-Mafaalani]]
@@ -560,6 +566,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Natalie Amiri
 **Status:** ✓ Vollanalyse → [[DenkerVita/Natalie Amiri]]
 
+## Frederik Obermaier
+**Status:** ✓ Vollanalyse — [[DenkerVita/Frederik Obermaier]]
+
 ## Paul Heck
 **Status:** ✓ Vollanalyse → [[DenkerVita/Paul Heck]]
 
@@ -685,6 +694,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Walther Ziegler
 **Status:** ✓ Vollanalyse → [[DenkerVita/Walther Ziegler]]
 
+## Wolfgang Kaleck
+**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Kaleck]]
+
 ## Wilhelm Heitmeyer
 **Status:** Stub
 
@@ -807,3 +819,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Konstantin Kuhle
 **Status:** ✓ Vollanalyse — [[DenkerVita/Konstantin Kuhle]]
+
+## Sham Jaff
+**Status:** ✓ Vollanalyse — [[DenkerVita/Sham Jaff]]

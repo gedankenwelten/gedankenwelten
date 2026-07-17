@@ -24,27 +24,23 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
-> **16.07.** — [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir|Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
+> **17.07.** — [[Zeitgeist/WDR Europaforum — Out of order Voelkerrecht|WDR Europaforum — Out of order? Wenn das Völkerrecht den Bach runtergeht]]
 >
-> CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt.
+> Drei Stimmen über die angebliche neue Weltunordnung: Für wen die Welt nie in Ordnung war, warum das Völkerrecht trotzdem täglich lebt — und wieso das Schweigen der Bundesregierung gefährlicher ist als jeder Rechtsbruch.
 
-> **16.07.** — [[Zeitgeist/Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg|Senkt KI die Hemmschwelle zum Krieg? — Dahlmann und Kuhle auf der re:publica]]
+> **17.07.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
+
+> **17.07.** — [[Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger|Helen Keller — Völkerrecht: Ein zahnloser Tiger?]]
+
+> **17.07.** — [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts|MONITOR — Irankrieg und das Ende des Völkerrechts?]]
 >
-> Wenn die Maschine die Ziele wählt und der Mensch nur noch wegklickt, entkoppelt sich der Krieg von der Verantwortung — eine Debatte über das, was dann fehlt.
+> Nicht die Verletzung ist neu — die gab es immer. Neu ist das Schweigen danach: Eine Weltmacht erklärt das Völkerrecht für irrelevant, und niemand kann sie zwingen.
 
-> **15.07.** — [[Zeitgeist/Yonatan Zeigen — A Place For Us All|Yonatan Zeigen — A Place For Us All]]
+> **17.07.** — [[Zeitgeist/Schwarz und Obermaier — Vom Smartphone ins Gericht|Schwarz & Obermaier — Vom Smartphone ins Gericht]]
 >
-> Er hörte am Telefon, wie seine Mutter am 7. Oktober ermordet wurde — und antwortete nicht mit Rache, sondern mit einer Kandidatur: für die erste jüdisch-arabische Partei, die es bis in den Kern ist.
+> Ein Tweet, ein Prahlvideo, ein heimlich gefilmtes Geständnis: Wie digitale Beweise einen Münchner Scharfschützen belasten — und warum die Bundesanwaltschaft trotzdem nicht ermittelt.
 
-> **15.07.** — [[Zeitgeist/Koschi Politik — ICE erschiesst Joan Sebastian Guerrero|ICE erschießt Joan Sebastián Guerrero — der zweite Tote in einer Woche]]
->
-> Arbeitserlaubnis, Social Security Number, die dreijährige Tochter auf der Rückbank — und wieder war es der Falsche. Diesmal begründet DHS den Schuss nicht mit Notwehr, sondern mit „öffentlicher Sicherheit“.
-
-> **15.07.** — [[Zeitgeist/Anat Saragusti — Zensur und Pressefreiheit in Israel|Anat Saragusti — Zensur und Pressefreiheit in Israel]]
->
-> Die Frau, die 1982 als erste israelische Journalistin Arafat interviewte, beschreibt, wie Israels freie Presse stirbt — nicht durch Verbote, sondern durch Selbstzensur.
-
-> → *14 weitere in* [[Zeitgeist]]
+> → *16 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -62,7 +58,7 @@ Die Gedankenwelten (luc)
 
 > **14.07.** — [[Denker/Walther Ziegler — Hegel in 60 Minuten|Walther Ziegler — Hegel in 60 Minuten]]
 
-> → *4 weitere in* [[Denker]]
+> → *2 weitere in* [[Denker]]
 
 ### Geistesblitz
 

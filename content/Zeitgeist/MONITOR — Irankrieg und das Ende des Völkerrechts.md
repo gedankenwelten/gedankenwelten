@@ -1,7 +1,7 @@
 ---
 date: 2026-04-01
 title: MONITOR — Irankrieg und das Ende des Völkerrechts?
-aktualisiert: 2026-04-05
+aktualisiert: 2026-07-17
 tags:
   - zeitgeist
   - iran
@@ -194,6 +194,15 @@ Das Vertrauen des Globalen Südens in Deutschland als Vermittler ist massiv gesu
 ---
 
 ## Verbindungen
+
+### → [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]
+
+Das justizielle Gegenstück zum offenen Rechtsbruch: Hier verweigert ein Rechtsstaat leise die Durchsetzung trotz verdichteten Beweisgefüges — laute Verachtung und stilles Wegsehen als zwei Enden derselben Straflosigkeit.
+
+### → [[WDR Europaforum — Out of order Voelkerrecht]]
+
+Dieselbe Faktenlage, entgegengesetzte Prognose: Wo MONITOR das Ende des Völkerrechts diagnostiziert, hält Ambos dagegen — das Völkerrecht sei „kicking and alive“, es fehle nur der politische Wille, es zu benutzen.
+
 
 ### → [[Zeitgeist/auslandsjournal — Trump allein zu Haus]]
 Liefert die strategische Ergänzung zur völkerrechtlichen Analyse: Die Gesichtswahrungs-Logik erklärt, *warum* keine Seite ohne Souveränitätsverlust deeskalieren kann — der Mechanismus hinter der Rechtsordnungs-Erosion, die MONITOR diagnostiziert.

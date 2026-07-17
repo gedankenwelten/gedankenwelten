@@ -207,6 +207,11 @@ Der zweite Teil des Gesprächs lebt von Fragen, die nicht Journalisten stellten,
 
 ## Verbindungen
 
+### → [[WDR Europaforum — Out of order Voelkerrecht]]
+
+Vom selben re:publica-Europaforum 2026, dasselbe Thema von entgegengesetzten Enden der Macht: Merkel verteidigt das Völkerrecht als Regierende, Kaleck hält den Regierungen ihr instrumentelles Verhältnis dazu vor — institutionelle Hoffnung gegen Hoffnung von unten.
+
+
 ### → [[Denker/Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung|Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung]]
 
 Zwei Stimmen, die sich am Verhandlungstisch kreuzen: Merkel — die „oft als einzige Frau im Raum" saß — ist der Fall zu Malalas These, dass mehr Frauen an jene Tische gehören, an denen über ihre Zukunft entschieden wird. Beide setzen „Hoffnung trotz allem" gegen den Fatalismus. Doch die Perspektiven laufen gegeneinander: Merkel verteidigt das langsame Handwerk des Kompromisses aus dem Zentrum der Macht, Malala die Selbstermächtigung vom Rand her — Repräsentation an der Spitze gegen Aktivismus von unten.

@@ -1,6 +1,6 @@
 ---
 title: "Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz"
-aktualisiert: 2026-07-11
+aktualisiert: 2026-07-17
 date: 2026-05-01
 tags:
   - zeitgeist
@@ -210,6 +210,11 @@ Steinkes These ist fundamentaler: Der *Staat* höhlt die Meinungsfreiheit aus �
 ---
 
 ## Verbindungen
+
+### → [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]
+
+Schwarz und Obermaier liefern den konkreten Ermittlungsvorgang zu Steinkes These der Selektivität des Rechts: erdrückende Beweise gegen einen Münchner Scharfschützen in Gaza — und eine Bundesanwaltschaft, die nur „beobachtet“.
+
 
 ### → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
 

@@ -154,6 +154,11 @@ Jean-Philipp Kindler, Autor und Satiriker, analysiert Palmers Kommunikationsmust
 
 ## Verbindungen
 
+### → [[WDR Europaforum — Out of order Voelkerrecht]]
+
+Beide zerlegen dieselbe Legitimationsfigur: Gilda con Arne die „humanitäre Intervention“, Ambos das Vermengen von Tatsache (wer begann den Krieg) und Rechtfertigungsfrage — zwei Ebenen, die im Diskurs absichtlich verschwimmen.
+
+
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 Derselbe Kai Ambos — einmal vor dem Krieg (hypothetisch), einmal danach (Analyse des Bruchs). Zusammen bilden die zwei Folgen eine vollständige Vor-/Nachher-Perspektive.
 
