@@ -221,6 +221,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Kai Michel|Kai Michel]]** — Historiker und Literaturwissenschaftler; mit Carel van Schaik die evolutionäre Bibel-Trilogie (*Tagebuch der Menschheit*, *Wahrheit über Eva*, *Mensch sein*); die drei Naturen des Menschen, Religion als Bewältigungs- und Normalisierungsmaschine, egalitärer Normalzustand des Homo sapiens
 
+**[[DenkerVita/Kalayo|Kalayo]]** — Pseudonymer deutscher Politik-YouTuber (KALAYO OFFICIAL, ~124.000 Abonnenten); deutschsprachige Einordnung der US-Politik mit Fokus auf Epstein-Akten, Trump-Kritik und Elite-Korruption; Empörungsformat mit Clickbait-Titeln, aber ehrlich progressiv; betreibt das Spendenprojekt „KALAYO hilft“ (betterplace.org); Name = Cebuano für „Feuer“
+
 **[[DenkerVita/Kerstin Paschke|Kerstin Paschke]]** — Privatdozentin, Fachärztin für Kinder- und Jugendpsychiatrie; ärztliche Leiterin DZSKJ am UKE Hamburg; 50+ Publikationen zur Social-Media-Sucht bei Jugendlichen; neurobiologische Vulnerabilität als Regulierungsargument; Schutz als Voraussetzung für Befähigung
 
 **[[DenkerVita/Kristian Kunow|Kristian Kunow]]** — Stellvertretender Direktor der MABB; Regulierungspragmatiker für digitalen Jugendschutz; Mitglied Expertenkommission Bund 2026; smarte Lösungen statt Totalverbot; EU-weite Durchsetzung als Schlüssel

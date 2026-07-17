@@ -6,6 +6,18 @@ tags:
   - links
 ---
 
+## KALAYO — Epstein-Zensur & Blanche-Anhörung (2026)
+
+| | |
+|---|---|
+| **Video** | [Epstein-Zensur nachgewiesen!! Trump und Blanche überführt, Kongress-Anhörung wird politische Bombe](https://www.youtube.com/watch?v=0GDMq54TjuM) |
+| **Notiz** | [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]] |
+| **Spur** | [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]] (Sweep 17.07.) |
+| **DenkerVita** | [[DenkerVita/Kalayo]] |
+| **MeidasTouch (O-Ton Anhörung)** | [Blanche Storms Off as Hearing Goes Sideways](https://www.youtube.com/watch?v=eVr1_e8nJ5o) |
+| **Primärquelle Gill-FOIA** | [MSW Media — FBI Admits it has Epstein Files Training Videos](https://www.muellershewrote.com/p/breaking-exclusive-fbi-admits-it) |
+| **Transkript** | `Gedankenwelten/Transkripte/Kalayo_Epstein_Zensur_Transkript.txt` |
+
 ## re:publica 26 — Vom Smartphone ins Gericht (Schwarz & Obermaier, 2026)
 
 | | |

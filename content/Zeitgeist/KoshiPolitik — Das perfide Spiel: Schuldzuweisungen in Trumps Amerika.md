@@ -142,3 +142,11 @@ Gleicher Kanal; hier institutionelle Umsetzung von Trumps Schuldzuweisungen im M
 ### → [[Paul Lance — Amerikaner fragt Deutsche ueber Trump]]
 
 Lance beschreibt dieselbe Sündenbockstrategie aus der Innenperspektive: Deutsche erkennen das Muster sofort (Migranten, Muslime, Somalier) als historisch identisch mit der NS-Propaganda
+
+---
+
+## Verbindungen
+
+### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
+
+Schiff gibt dem „perfiden Spiel“ einen Namen: die Massenvernichtungswaffe der Ablenkung, die Empörung im Stundentakt entwertet.

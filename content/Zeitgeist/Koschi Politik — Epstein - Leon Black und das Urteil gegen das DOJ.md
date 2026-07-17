@@ -123,6 +123,10 @@ Die lebende Spur verfolgt die These des *strukturellen Elitenschutzes* über die
 
 Schwester-Notes zum Komplex Eliten, Macht und Rechenschaft.
 
+### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
+
+Die Fortsetzung dieser Note: Was aus der 2.-Juli-Frist wurde (DOJ wählte den Begründen-Pfad, Phang stellte Vollstreckungsantrag) und wie das FBI die Existenz namensbezogener Schwärzungs-Schulungsvideos bestätigte.
+
 ---
 
 ## Weiterdenken

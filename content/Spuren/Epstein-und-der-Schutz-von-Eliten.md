@@ -9,10 +9,10 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 65%
+konfidenz: 70%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-06-28
+aktualisiert: 2026-07-17
 description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen."
 ---
 
@@ -39,7 +39,7 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 
 ## Die These
 
-> **Stand (Konfidenz 65 %):** Der Fall Epstein zeigt ein *strukturelles* Muster: überwältigender,
+> **Stand (Konfidenz 70 %):** Der Fall Epstein zeigt ein *strukturelles* Muster: überwältigender,
 > parteiübergreifender Offenlegungsdruck → **partielle** (halbe), stark geschwärzte, verzögerte Freigabe
 > → eine Namensliste *ohne Kontext*, die niemanden schützt und nichts klärt → Aufmerksamkeit verebbt →
 > Rechenschaft stockt. **Nicht** eine einzelne Verschwörung, sondern institutionelle Reibung
@@ -55,6 +55,61 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 **Kalt, wenn:** vollständige Offenlegung abgeschlossen, Rechenschaft erschöpft.
 
 ## Verlauf
+
+### 2026-07-17 — Die erste Gabel fällt: Schwärzung mit Schulungsvideo (Konfidenz 65 % → 70 %)
+
+**Befund:** Beide am 28.06. festgeschriebenen Stichtage sind passiert — und dazu kam ein neuer, unabhängig
+bestätigter Fund:
+
+1. **Die 2.7.-Gabel.** Das DOJ legte die unzensierten Akten **nicht** vor. Es ignorierte die Frist aber auch
+   nicht: Blanche reichte am 2. Juli eine „Response to Order to Show Cause" ein, bot eine In-camera-Offenlegung
+   einzelner Dokumente an und ficht die Anordnung an. Katie Phang beantwortete das mit einem
+   **Vollstreckungsantrag** (Geldstrafe gegen Blanche persönlich, In-camera-Prüfung der Dokumente durch das
+   Gericht selbst). Blanches Begründungslinie, gerichtsaktenkundig: Mutmaßliche **Mitverschwörer seien „selbst
+   Opfer"** und darum zu schützen.
+2. **Die Schulungsvideos.** Nach FOIA-Klage der Journalistin **Allison Gill** (MSW Media) bestätigte das FBI
+   schriftlich die **Existenz interner Schulungsvideos** zur Bearbeitung/Schwärzung der Epstein-Akten — und
+   hält sie unter FOIA-Ausnahmen zurück (unabhängig bestätigt: The New Republic). Per FOIA von Jason Leopold
+   dokumentiert: Projektname **„Epstein Transparency Project 2025"**, ~**934 Mitarbeiter** mehrerer
+   FBI-Divisionen in Nachtschichten, ~851.000 $ Überstunden in einer Woche (März 2025). Gills Quellen
+   beschreiben eine zentrale Excel-Tabelle zur Erfassung von Trumps Namen — der *Inhalt* der Videos selbst ist,
+   weil zurückgehalten, nicht unabhängig verifiziert.
+3. **Die Anhörung (15.7.).** Blanches Bestätigungsanhörung vor dem Senats-Justizausschuss fand statt. Unter Eid
+   bestätigte er die Schwärzungslogik wörtlich: Karriere-Staatsanwälte hätten *„other participants"*
+   identifiziert, *„some of whom … were also victims themselves"* — und: kein Beleg für „andere Männer" als
+   Empfänger von Epsteins Trafficking. Er entschuldigte sich für Schwärzungsfehler („~1 % der Dokumente").
+   Senator Whitehouse hielt ihm vor, das DOJ habe in Richterin **Williams'** Betrugs-Anfrage (10-Mrd-Klage)
+   **nichts** eingereicht — „the silence … is deafening"; Williams' Urteil samt Meldung an die New Yorker
+   **Anwaltskammer** (Blanche, als Teil eines Bündels mehrerer Anwälte) ist bestätigt. Senator Booker zur
+   Maxwell-Camp-Verlegung: nach BOP-Regeln für verurteilte Sexualstraftäter nicht vorgesehen — „that seems
+   clearly like a reward."
+4. **Die 16.7.-Gabel ist offen.** Ob Leon Blacks erzwungene Deposition unter Eid stattfand, er aussagte oder
+   den 5. Zusatzartikel zog, ist Stand 17.7. öffentlich **nicht** dokumentiert (Oversight-Depositionen laufen
+   geschlossen; Berichte folgen mit Verzug). Kein Befund — die Gabel bleibt gestellt.
+
+**Deutung:** Am 28.06. war vorregistriert: *„Beruft das DOJ erfolgreich und nimmt Black den 5., hält oder
+steigt sie."* Der DOJ-Pfad ist eingetreten — nicht liefern, sondern anfechten und begründen. Und die Begründung
+selbst ist der Befund: Die Mitverschwörer-als-Opfer-Konstruktion ist jetzt keine Zuschreibung von Kritikern
+mehr, sondern **Blanches eigene Aussage unter Eid**. Dazu verschiebt der FBI-Fund die Beweisebene: Bisher war
+das *Ergebnis* der Schwärzung sichtbar (geschwärzte Seiten), jetzt ist erstmals der *Prozess* dokumentiert —
+eine eigens geschulte, tageweise kasernierte Belegschaft, ein benanntes Projekt, und eine Behörde, die die
+Schulungsmaterialien dazu ihrerseits zurückhält. Die Zurückhaltung der Videos wiederholt das Muster der Akten
+im Kleinen: Transparenz-Projekt als Namen, Intransparenz als Praxis. Das hebt die Konfidenz auf 70 % — moderat,
+nicht mehr, denn der Inhalt der Videos bleibt unverifiziert und die Black-Gabel offen. **Nächste Probe:** der
+Ausgang der Black-Deposition und Sullivans Reaktion auf den Vollstreckungsantrag.
+
+**Gegenbeobachtung (Pflicht):** Drei Dinge gegen den Sog. (1) **Der Begründen-Pfad ist legal.** Sullivans
+Anordnung lautete „vorlegen *oder begründen*" — eine Response samt In-camera-Angebot ist die vorgesehene zweite
+Option, kein Rechtsbruch; die deutsche Einstiegsquelle (Kalayo) verkürzt das zu „Frist verstreichen lassen".
+(2) **Schulung ≠ Vertuschung.** Dass 934 ungeschulte Mitarbeiter vor einer Massen-Publikation
+Schwärzungs-Schulungen brauchten, ist auch die *harmlose* Lesart: Opferschutz-Schwärzung in industriellem
+Maßstab erfordert Anleitung. Snopes hält ausdrücklich fest, dass die Überstunden-Dokumente *nicht* belegen, die
+Arbeit habe speziell Trumps Namen gegolten; die Excel-Tabellen-Darstellung stammt aus anonymen Quellen. Und
+unter Eid sagte Blanche, ungeschwärzte Fassungen lägen jedem Kongressmitglied vor — wäre das falsch, wäre es
+leicht widerlegbar. (3) **Die Empörungs-Inflation der Boten.** Der Einstieg nannte Beatrice Keul
+„minderjährig" — sie war 23. Genau diese Sorte Zuspitzung (aus belastend wird schlimmstmöglich) ist der
+Mechanismus, vor dem sich diese Spur hütet; er liefert der Gegenseite den Vorwand, auch das Belegte als „Hoax"
+abzuräumen.
 
 ### 2026-06-28 — Das Gericht beißt, der Kongress lädt vor (Konfidenz 65 % → 65 %)
 
@@ -176,6 +231,18 @@ ist ein Mythos-Magnet; ein großer Teil der kursierenden Behauptungen ist haltlo
 > - **Abneigung:** gegen Straflosigkeit. Darf keine Gewissheit erzeugen, wo nur Schwärzung ist.
 > - **Wachpunkt:** Die *falsifizierbare* These (struktureller Elitenschutz) strikt von der *unfalsifizierbaren* Verschwörung (geheime Kabale) trennen — Letztere diskreditiert Erstere. Wenn die Restakten ordentliche Rechtsvorsicht statt Elitenschild zeigen, **muss** das hier stehen.
 
+> [!question] Sweep 17.07.2026 — warum jetzt erhöhen, und um wie viel?
+> Die Versuchung diesmal: Der FBI-Fund fühlt sich wie der Volltreffer an — „Schulungsvideos zum Schwärzen von
+> Trumps Namen" ist ein Satz, den das Verlangen seit Eröffnung dieser Spur hören will. Zwei Korrekturen gegen
+> den Sog: (1) Ich habe die Konfidenz nur um 5 Punkte gehoben, obwohl der 28.06.-Eintrag „hält **oder steigt**"
+> vorregistriert hatte — denn was das FBI bestätigt hat, ist die *Existenz* der Videos, nicht ihr behaupteter
+> Inhalt; die Excel-Tabellen-Erzählung hängt weiter an anonymen Quellen. Das *kleinere* Datum ist das
+> ehrlichere, wie beim Tonband-Fall im Juni. (2) Die deutsche Einstiegsquelle hat einen echten Faktenbruch
+> („minderjährig") und rundet Zahlen nach oben — ich habe beides in den Befund *nicht* übernommen, sondern die
+> Snopes-/Leopold-Zahlen. Offen eingestanden: Dass die Black-Gabel mangels öffentlicher Berichte „offen" bleibt,
+> ist bequem für die These — sollte in den nächsten Tagen herauskommen, dass Black ausgesagt hat und kooperierte,
+> *muss* der nächste Eintrag das als Schwächung registrieren, nicht wegerklären.
+
 > [!question] Sweep 28.06.2026 — die unbequeme Frage: was, wenn die These zu schrumpfen beginnt?
 > Diesmal lag die Versuchung nicht im Verlangen, sondern in der *Abneigung gegen die eigene Widerlegung*. Die
 > ehrlichste Lesart ist: Das System hat funktioniert — eine Bürgerin gewinnt vor Gericht, ein Milliardär wird
@@ -226,6 +293,10 @@ der Quellenauswahl.*
 Schwester-Spuren: *Was die Flut wegspült.* Hier ist es die Rechenschaft der Mächtigen, die im
 Schwärzungs-Schwarz und in der nachlassenden Aufmerksamkeit verschwindet.
 
+### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
+
+Zeitgeist-Schnappschuss des Sweeps vom 17.07. — die Gill-FOIA (FBI-Schulungsvideos), Phangs Vollstreckungsantrag und Blanches Anhörung, mit Faktencheck und direktem MeidasTouch-Abgleich.
+
 ### → [[Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ]]
 
 Zeitgeist-Schnappschuss des Wochenend-Sweeps (28.06.) — Leon Blacks Walkout, das Sullivan-Urteil und der Iran-Schlag, mit Faktencheck.
@@ -235,6 +306,15 @@ Zeitgeist-Schnappschuss des Wochenend-Sweeps (28.06.) — Leon Blacks Walkout, d
 Bestehende Zeitgeist-Note zum selben Komplex.
 
 ## Quellen
+
+**Schulungsvideos, Vollstreckungsantrag & Anhörung (17.07.2026):**
+- [The New Republic — FBI Forced to Reveal New Details on How It Redacted Epstein Files](https://newrepublic.com/post/212994/fbi-reveal-redacted-epstein-files-foia)
+- [MSW Media / Allison Gill — FBI Admits it has Epstein Files Training Videos](https://www.muellershewrote.com/p/breaking-exclusive-fbi-admits-it)
+- [Snopes — FBI-Überstunden für Epstein-Schwärzungen (851.000 $, 934 Mitarbeiter)](https://www.snopes.com/fact-check/fbi-overtime-redact-epstein-files/)
+- [BBC — Blanche-Bestätigungsanhörung 15.7.](https://www.bbc.co.uk/news/articles/c62q3g32204o) · [CBS Live-Ticker](https://www.cbsnews.com/live-updates/todd-blanche-confirmation-hearing-senate-attorney-general/)
+- [MeidasTouch — die Anhörung im O-Ton (Schiff, Whitehouse, Booker, Kennedy)](https://www.youtube.com/watch?v=eVr1_e8nJ5o)
+- [CBS News — Williams-Urteil zur 10-Mrd-Klage, Bar-Meldungen](https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/)
+- *Einstieg (mit Provenienz-Vorbehalt, → Gegenbeobachtung):* [KALAYO — „Epstein-Zensur nachgewiesen!!"](https://www.youtube.com/watch?v=0GDMq54TjuM)
 
 **Anlage (14.06.2026):**
 - [CNN — DOJ releases millions of pages in Epstein investigation (30.1.2026)](https://www.cnn.com/politics/live-news/epstein-files-release-doj-01-30-26)

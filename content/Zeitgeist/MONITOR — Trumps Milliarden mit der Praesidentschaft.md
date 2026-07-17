@@ -221,3 +221,11 @@ Die Expertin dieses Beitrags im eigenen Vortrag: Clüver Ashbrook bettet die dyn
 ### → [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]]
 
 Theveßens „goldenes Zeitalter, nachgerechnet“ — Wachstum, das nur an KI-Investment und Rekord-Kreditkartenschulden hängt — ist die makroökonomische Rückseite von MONITORs Kleptokratie-Recherche: Der Ballsaal und die 250-Dollar-Scheine mit Trumps Konterfei sind die Fassade über den Deals, die MONITOR granular nachzeichnet.
+
+---
+
+## Verbindungen
+
+### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
+
+Dieselbe Pay-to-Play-Diagnose im Empörungsformat statt im leisen Investigativ-Ton: Begnadigungswesen und Elitenschutz konkret durchbuchstabiert.
