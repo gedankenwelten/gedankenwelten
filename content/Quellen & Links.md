@@ -3782,3 +3782,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Denker/Yuval Noah Harari — Das biologische Drama unserer Spezies]] |
 | **DenkerVita** | [[DenkerVita/Yuval Noah Harari]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Harari_Biologisches_Drama_Transkript.txt` · `Gedankenwelten/Transkripte/Harari_WEF_AI_Transkript.txt` |
+
+## Jürgen Kornmeier — Grenzgebiete der Psychologie
+
+| | |
+|---|---|
+| **Video / Gespräch** | [Neurobiologe Jürgen Kornmeier über „Grenzgebiete der Psychologie" — Jung & Naiv: Folge 838](https://www.youtube.com/live/tyCnzqcrP08) (16.07.2026, 4:23 Std.) |
+| **Notiz** | [[Juergen Kornmeier — Grenzgebiete der Psychologie]] |
+| **DenkerVita** | [[DenkerVita/Juergen Kornmeier]] |
+| **Institut** | [IGPP Freiburg](https://igpp.de/) |
+| **Optische Täuschungen** | [Michael Bach — Optische Täuschungen & visuelle Phänomene](https://michaelbach.de/ot/index-de.html) — 140+ interaktive Täuschungen mit Erklärung, von Kornmeiers Doktorvater; im Gespräch als „weltbeste Webseite" zum Thema empfohlen |
+| **Transkript** | `Gedankenwelten/Transkripte/Kornmeier_Grenzgebiete_JungNaiv838_Transkript.txt` |

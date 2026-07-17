@@ -189,6 +189,10 @@ Yorans ETF-Selbstbefund („Wer profitiert? Oh — das bin ja ich“) ist das *p
 
 Shivas *oikos* als gemeinsame Wurzel von Ökonomie und Ökologie spiegelt Morins *Terre-Patrie* und sein verbundenes gegen zersplittertes Denken.
 
+### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
+
+Das komplexe Denken im Laboralltag: Kornmeiers „Ich glaube nichts, halte aber alles für möglich" hält zwei entgegengesetzte Logiken zusammen, ohne sie aufzulösen — Absage an die Esoterik und Absage an die Zunft in einem Satz. Sein Gegenstück zu Morins „Respekt vor dem Mysterium" ist eine Anekdote: ein Genetik-Professor, der mit voller Autorität erklärte, ein Säugetier lasse sich nicht klonen — kurz bevor Dolly geboren wurde.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

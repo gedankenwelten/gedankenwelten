@@ -161,3 +161,7 @@ Ein starkes Argument sagt: Nein — prinzipiell nicht.
 ### → [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
 
 Scobel bringt mit Metzinger das „reine Bewusstsein“ beim morgendlichen Aufwachen als Alltagsbeleg: Wachheit ohne Besitzer, bevor das Ich hochfährt — die erlebbare Miniatur dessen, was diese Note zwischen den Lagern der Bewusstseinsphilosophie verortet.
+
+### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
+
+Wie sich diese Karte von unten anfühlt, wenn man in ihr arbeitet: Kornmeier misst mit dem EEG Kippfiguren und beschreibt sein eigenes Instrument als Ohr an der Mauer eines Gebäudes, in dem in jedem Zimmer ein anderer Chor ein anderes Lied singt. Er bezieht kein Lager, sondern nimmt die 22 Theorien in Seths Review als Diagnose: Wo es viele Theorien gibt, hat man noch nichts verstanden. Die Empirie-Seite der Grenze — nicht als Beweis, sondern als Erfahrung.

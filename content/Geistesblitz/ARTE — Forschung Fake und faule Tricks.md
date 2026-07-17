@@ -298,3 +298,7 @@ Holy Koolaid zeigt das staatliche Pendant zur Industrie-Agnotologie: US-zentrisc
 ### → [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 
 Die ethische Umkehrung im selben Raum: Beide leben in der wissenschaftlichen Unsicherheit. Die Agnotologie *fabriziert* Zweifel, um Handeln zu lähmen („doubt is our product"), Beautemps' ehrliches „das ist nicht so richtig geklärt" *kommuniziert* Unsicherheit in gutem Glauben — legitime, offengelegte Ungewissheit gegen strategisch bewaffnete Ungewissheit.
+
+### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
+
+Der Grenzfall zum Tabak-Blueprint — und darum lehrreich. Kornmeiers Haltungssatz „Ich glaube nichts, halte aber alles für möglich" ist formal derselbe Zweifel, den die Agnotologie fabriziert; der Unterschied liegt allein darin, dass er ihn gegen die eigenen Phänomene richtet und offen sagt, wo sie scheitern: zu klein zum Überzeugen, mit Replikationsproblem. Er ergänzt die Doku zudem um die Innenansicht der „orphaned science": Sein Institut existiert nur privat finanziert, weil das Thema karriereschädlich ist — und Bewusstsein wurde erst erforschbar, als mit Francis Crick ein Nobelpreisträger die Tür aufstieß.

@@ -262,6 +262,10 @@ Goenka: Die tiefste Quelle des Leidens ist das Reagieren aus Konditionierung —
 
 Carbon erwähnt am Ende seine eigene KI-Company (PSYAIhands.com) für neurodivergente Menschen — er schätzt, über eine Milliarde Menschen weltweit seien betroffen. Zimpel: Neurodiversität als Stärke und Ressource. Carbon: „Wahrscheinlich ticken wir alle ein bisschen anders." Beide gegen das Defizitmodell — für ein Verständnis von Vielfalt als Reichtum.
 
+### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
+
+Derselbe Befund, andere Konsequenz: Kornmeier misst die Konstruktion im EEG — Kippfiguren, 60 Millisekunden Versatz zwischen echtem und innerem Wechsel — und seine Mona-Lisa-Studie zeigt Carbons Namen-Experiment eine Etage höher: Nicht nur das Geschlecht eines Gesichts, auch dessen Emotion wird aus dem Kontext gebaut, weil das System keine absoluten Werte kennt, nur Verhältnisse. Wo Carbon aus dem Befund eine Position gewinnt, gewinnt Kornmeier daraus Zurückhaltung.
+
 ---
 
 ## Weiterführend

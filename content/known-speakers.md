@@ -13,6 +13,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Jürgen Kornmeier
+**Status:** ✓ Vollanalyse — [[DenkerVita/Juergen Kornmeier]]
+
 ## Kai Ambos
 **Status:** ✓ Vollanalyse — [[DenkerVita/Kai Ambos]]
 
