@@ -1,6 +1,6 @@
 ---
 title: "Helen Keller — Völkerrecht: Ein zahnloser Tiger?"
-aktualisiert: 2026-07-11
+aktualisiert: 2026-07-17
 date: 2026-04-19
 tags:
   - zeitgeist
@@ -179,6 +179,15 @@ Die neun Jahre am EGMR waren persönlich belastend: praktisch jede Woche jemand,
 ---
 
 ## Verbindungen
+
+### → [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]
+
+Der empirische Stresstest für Kellers These: Wenn das Völkerrecht durch Eigeninteresse trägt — was passiert, wenn das Eigeninteresse eines Rechtsstaats im Nicht-Ermitteln liegt? Der Gaza-Sniper-Fall mit Münchner Bezug stellt genau diese Frage an die Bundesanwaltschaft.
+
+### → [[WDR Europaforum — Out of order Voelkerrecht]]
+
+Das Europaforum-Panel (Kaleck, Ambos, Jaff) wendet Kellers Grundfrage geopolitisch: Ambos verteidigt das Gewaltverbot als Schutz der Schwachen aus Eigeninteresse, Jaff prüft die Ordnung an denen, für die sie nie galt.
+
 
 ### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
 

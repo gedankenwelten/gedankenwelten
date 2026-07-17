@@ -25,6 +25,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Albrecht von Lucke|Albrecht von Lucke]]** — Publizist, Journalist; Blätter-Redakteur; Nischengesellschaft, Konfliktunfähigkeit, Merz-Regierung als Führungsvakuum
 
+**[[DenkerVita/Alexander Schwarz|Alexander Schwarz]]** — Völkerstrafrechtler & Menschenrechtsanwalt, Co-Program Director am ECCHR; digitale Beweise (OSINT/Verifikation) für Völkerstrafverfahren, Weltrechtsprinzip, sexualisierte Gewalt vor internationalen Gerichten, deutsche Waffenexporte
+
 **[[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]** — Migrations- und Bildungssoziologe (TU Dortmund); Integrationsparadox, Misstrauensgemeinschaften, Adultismus, Bildung als Sortiermaschine; «Integrationsparadox» (2018), «Mythos Bildung» (2020), «Wozu Rassismus?» (2021), «Kinder — Minderheit ohne Schutz» (2025), «Misstrauensgemeinschaften» (2025)
 
 **[[DenkerVita/Anat Saragusti|Anat Saragusti]]** — Israelische Journalistin, Publizistin & Juristin; Israels erste Kriegsfotografin (Arafat-Interview 1982, belagertes Beirut), heute Pressefreiheits-Beauftragte der Union of Journalists in Israel; dokumentiert die systematische Aushöhlung der freien Presse unter Netanjahu
@@ -215,6 +217,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[DenkerVita/Kai Ambos|Kai Ambos]]** — Völker- und Strafrechtler (Uni Göttingen), Richter am Kosovo-Sondertribunal in Den Haag; Standardwerke zum Völkerstrafrecht (*Treatise on International Criminal Law*); These: Nicht das Völkerrecht ist das Problem, sondern seine selektive Durchsetzung — westliche Doppelmoral (*Doppelmoral — Der Westen und die Ukraine*, 2022)
+
 **[[DenkerVita/Kai Michel|Kai Michel]]** — Historiker und Literaturwissenschaftler; mit Carel van Schaik die evolutionäre Bibel-Trilogie (*Tagebuch der Menschheit*, *Wahrheit über Eva*, *Mensch sein*); die drei Naturen des Menschen, Religion als Bewältigungs- und Normalisierungsmaschine, egalitärer Normalzustand des Homo sapiens
 
 **[[DenkerVita/Kerstin Paschke|Kerstin Paschke]]** — Privatdozentin, Fachärztin für Kinder- und Jugendpsychiatrie; ärztliche Leiterin DZSKJ am UKE Hamburg; 50+ Publikationen zur Social-Media-Sucht bei Jugendlichen; neurobiologische Vulnerabilität als Regulierungsargument; Schutz als Voraussetzung für Befähigung
@@ -319,6 +323,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## O
 
+**[[DenkerVita/Frederik Obermaier|Frederik Obermaier]]** — investigativer Journalist (Panama Papers, Pulitzer 2017, paper trail media, ICIJ); Datenlecks, Steueroasen und digitale Beweise für Völkerstrafverfahren
+
 **[[DenkerVita/Ken Ono|Ken Ono]]** — Zahlentheoretiker (Ramanujan, Modulformen, Partitionen) & „Founding Mathematician" bei Axiom Math; menschliche Intelligenz und die gute Frage im KI-Zeitalter
 
 **[[DenkerVita/Martin Oetting|Martin Oetting]]** — Marktforscher & politischer Essayist; Postwachstums-Ökonomie, ökonomische Sackgasse als Nährboden des Faschismus, Initiative System Delta
@@ -360,6 +366,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
 
 **[[DenkerVita/Semir Zeki|Semir Zeki]]** — Neurobiologe (UCL), Begründer der Neuroästhetik; funktionelle Spezialisierung des visuellen Kortex (Farbe in V4, Bewegung in V5), neuronale Basis von Schönheit und Liebe; mit Andreas Bartels Autor der ersten fMRT-Studien zu romantischer und mütterlicher Liebe
+
+**[[DenkerVita/Sham Jaff|Sham Jaff]]** — Freie Journalistin & Politikwissenschaftlerin (kurdisch-deutsch), Autorin des Newsletters *what happened last week?*, Grimme-Preis für den Hanau-Podcast *190220*; Nachrichten aus dem Globalen Süden, konstruktiver Journalismus, Krise des Völkerrechts aus globaler Perspektive; WDR Europaforum / re:publica 26 Panel „Out of order?"
 
 **[[DenkerVita/Shi Heng Yi|Shi Heng Yi]]** — Shaolin-Meister (bürgerlich Tien Sy Vuong), Gründer Shaolin Tempel Europe; Auflösung der Identität, Peripherie vs. Essenz, der Finger der auf den Mond zeigt, Selbstführung statt Guru; öffentlicher Bruch mit seinem missbrauchenden früheren Abt
 
@@ -421,6 +429,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
 
 **[[DenkerVita/Wendy Brown|Wendy Brown]]** — Politische Theoretikerin und Kritikerin des Neoliberalismus (UPS Foundation Professor, Institute for Advanced Study Princeton); Foucault-Gelehrte; Analyse: Neoliberalismus als Regierungsrationalität, nicht nur Wirtschaftspolitik; Demokratie-Aushöhlung von innen; Kernwerk *Undoing the Demos* (2015, Spitz Prize 2017); *In the Ruins of Neoliberalism* (2019); aktive akademische Widerstandspraxis gegen UC-Privatisierung
+
+**[[DenkerVita/Wolfgang Kaleck|Wolfgang Kaleck]]** — Menschenrechtsanwalt, Gründer und Generalsekretär des ECCHR, Anwalt Edward Snowdens; transnationale Prozessführung gegen Straflosigkeit (Abu Ghraib, Argentiniens Militärs), Menschenrechte als „konkrete Utopie“, Kritik am „zweierlei Maß“ des westlichen Völkerstrafrechts
 
 **[[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]]** — Filmkritiker, YouTuber, Marxist; Die Filmanalyse, Wohlstand für Alle, Die Neuen Zwanziger; Ideologiekritische Filmanalyse, Kulturindustrie 2.0
 

@@ -186,6 +186,11 @@ Das "Betchberie"-System (Büro des obersten Führers) hat Fühler in unzähligen
 
 ## Verbindungen
 
+### → [[WDR Europaforum — Out of order Voelkerrecht]]
+
+Das Panel fordert die rechtliche Bewertung des Irankriegs ein, die Sternstunde liefert die machtpolitische Erklärung, warum sie ausbleibt — Recht und Geopolitik als zwei Lesarten desselben Testfalls.
+
+
 ### → [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Spur: Iran — hat der Krieg das Regime gestärkt?]]
 
 Die lebende Fortschreibung: Diese Note analysiert den Krieg im Moment, die Spur verfolgt seine Wirkung über die Zeit — ob der Schlag das Regime gestürzt oder paradox gefestigt hat.

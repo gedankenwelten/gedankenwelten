@@ -178,6 +178,11 @@ Quelle: [Legendary reporter Anat Saragusti on censorship & press freedom in Isra
 
 ## Verbindungen
 
+### → [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]
+
+Spiegelbildliches Schweigen: Saragusti beschreibt die Selbstzensur der israelischen Presse, Obermaier das Desinteresse der deutschen Öffentlichkeit an einem Gaza-Fall mit Münchner Bezug — Straflosigkeit lebt vom Nicht-Hinsehen, nicht von Vertuschung.
+
+
 ### → [[Yonatan Zeigen — A Place For Us All]]
 
 Aufgezeichnet auf derselben Tel-Aviv-Reise von Jung & Naiv, nur zwei Tage später — und die perfekte Gegenprobe: Saragusti zeigt, wie Israels Öffentlichkeit die eigene palästinensische Minderheit und Gaza aus dem Blick verliert; Zeigen macht genau diese Unsichtbaren zum Programm einer jüdisch-arabischen Partei. Diagnose und politische Antwort aus derselben Stadt.

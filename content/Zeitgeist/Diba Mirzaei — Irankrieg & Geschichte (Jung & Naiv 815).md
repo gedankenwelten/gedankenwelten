@@ -270,6 +270,11 @@ Methodisch wertvoll: Ihre Unterscheidung zwischen *Forschen* (Selbstdaten sammel
 
 ## Verbindungen
 
+### → [[WDR Europaforum — Out of order Voelkerrecht]]
+
+Mirzaei liefert die iranische Binnenperspektive, die dem Panel fehlt: Ambos' Klarstellung „das Regime verletzt die Menschenrechte, nicht das Völkerrecht“ gewinnt durch ihre historische Einordnung Kontur — gegen die Verwechslung von Regimekritik und Kriegslegitimation.
+
+
 ### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
 
 Mirzaei war auch dort Gesprächspartnerin; direkte Ergänzung zu Kai Ambos' Völkerrechtsperspektive

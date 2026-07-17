@@ -6,6 +6,26 @@ tags:
   - links
 ---
 
+## re:publica 26 — Vom Smartphone ins Gericht (Schwarz & Obermaier, 2026)
+
+| | |
+|---|---|
+| **Video** | [Vom Smartphone ins Gericht: Wie digitale Beweise Völkerstraftaten vor Gericht bringen](https://www.youtube.com/watch?v=yXk_srF0PcI) |
+| **Notiz** | [[Schwarz und Obermaier — Vom Smartphone ins Gericht]] |
+| **DenkerVita** | [[DenkerVita/Alexander Schwarz]] · [[DenkerVita/Frederik Obermaier]] |
+| **Originalrecherche** | [ARIJ — The Gaza family torn apart by IDF snipers](https://arij.net/investigations/israeli-soldier-unarmed-civilians-identified-gaza-gazasniper/en/) |
+| **Transkript** | `Gedankenwelten/Transkripte/Smartphone_Gericht_Transkript.txt` |
+
+## WDR Europaforum — Out of order? Völkerrecht (Kaleck, Ambos, Jaff, 2026)
+
+| | |
+|---|---|
+| **Video** | [Out of order? Wenn das Völkerrecht den Bach runtergeht](https://www.youtube.com/watch?v=7nKJtaD5_x4) |
+| **Notiz** | [[WDR Europaforum — Out of order Voelkerrecht]] |
+| **DenkerVita** | [[DenkerVita/Wolfgang Kaleck]] · [[DenkerVita/Kai Ambos]] · [[DenkerVita/Sham Jaff]] |
+| **Buch** | [Kaleck: Die Stärke des Rechts vs. Das Recht des Stärkeren (Kunstmann)](https://www.kunstmann.de/buecher/die-staerke-des-rechts-vs-das-recht-des-staerkeren-plaedoyer-fuer-voelkerrecht-und-menschenrechte) |
+| **Transkript** | `Gedankenwelten/Transkripte/Europaforum_Voelkerrecht_Transkript.txt` |
+
 ## Catrin Misselhorn — KI- & Roboter-Ethik (Jung & Naiv 835, 2026)
 
 | | |

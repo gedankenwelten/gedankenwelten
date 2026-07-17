@@ -179,6 +179,11 @@ Beide haben recht — auf verschiedenen Ebenen:
 
 ## Verbindungen
 
+### → [[WDR Europaforum — Out of order Voelkerrecht]]
+
+Die Bruchlinie zwischen deskriptiver Machtlogik und normativem Anspruch: Münklers Realpolitik ist genau die Denkfigur, die Kaleck als „Carl-Schmitt-mäßige Machtfantasie“ der Feuilletons angreift — Ambos insistiert auf dem Gewaltverbot als hartem Recht.
+
+
 ### → [[Dalai Lama — Die saekulare Ethik]]
 
 Der Dalai Lama kommt aus der Gewaltlosigkeit zu denselben Kriterien wie die Theorie des gerechten Krieges — ein Pazifist, der seine eigenen Ausnahmen kennt und benennt.
