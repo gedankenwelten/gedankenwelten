@@ -218,3 +218,7 @@ Scobel bringt empirische Meditationsdaten genau dort an, wo Chalmers' Hard Probl
 ### → [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)]]
 
 Gabriels KI-als-Resonanzfeld-Konzept stößt an dieselbe Grenze wie Chalmers' Hard Problem: Ab wann ist ein System "bei Bewusstsein"? Gabriel beantwortet es ontologisch (Kierkegaard-Geist als Beziehung, Nondualität), Chalmers analytisch (Panpsychismus, IIT). Beide bestreiten den Reduktionismus — von verschiedenen Flanken.
+
+### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
+
+Ein Empiriker, der Chalmers' Problem unterschreibt und seine Lösung nicht annimmt. Kornmeier formuliert das Hard Problem am Küchentisch — er wird nie erfahren, ob ein anderer die Himbeere sieht wie er, und es wird auch nie ein Experiment geben, das ihm das erlaubt — und lehnt Neuralink als „Bildzeitungsforschung" ab. Aber wo Chalmers die Fundamentalgrößen erweitert, zählt Kornmeier die 22 Theorien in Anil Seths Review und liest sie als Beleg des Nichtverstehens. Sein praktisches Korollar ist unbequem: Solange niemand definieren kann, was Bewusstsein ist, können wir auch nie feststellen, ob eine Maschine es erlangt hat — wir wüssten nicht, wonach wir messen.

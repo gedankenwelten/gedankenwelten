@@ -215,6 +215,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Juergen Habermas|Jürgen Habermas]]** — Philosoph, Frankfurt School; Kommunikatives Handeln, Diskursethik, herrschaftsfreier Diskurs, Kolonialisierung der Lebenswelt, letzter großer Geschichtsphilosoph
 
+**[[DenkerVita/Juergen Kornmeier|Jürgen Kornmeier]]** — Neurobiologe & Mathematiker, seit 2022 Direktor des Instituts für Grenzgebiete der Psychologie und Psychohygiene (IGPP) Freiburg, Privatdozent Uni Freiburg; Necker-Würfel und bistabile Wahrnehmung im EEG, Wahrnehmung als Konstruktion, mehrdeutige Reize als Labormodell für außergewöhnliche Erfahrungen, Geist-Materie-Problem
+
 ## K
 
 **[[DenkerVita/Kai Ambos|Kai Ambos]]** — Völker- und Strafrechtler (Uni Göttingen), Richter am Kosovo-Sondertribunal in Den Haag; Standardwerke zum Völkerstrafrecht (*Treatise on International Criminal Law*); These: Nicht das Völkerrecht ist das Problem, sondern seine selektive Durchsetzung — westliche Doppelmoral (*Doppelmoral — Der Westen und die Ukraine*, 2022)

@@ -222,3 +222,7 @@ Böhme stützt Gabriels Sinnesrealismus neurowissenschaftlich: Unsere Sinne habe
 ### → [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
 
 Gabriel zitiert Haidts Social-Media-Forschung (*Anxious Generation*) und diagnostiziert Plattformen als Wirtschaftsverbrechen. Philosophisch ein produktiver Gegensatz: Haidt beschreibt moralischen Pluralismus empirisch (verschiedene Foundations), Gabriel besteht auf moralischem Universalismus (moralische Tatsachen)
+
+### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
+
+Die empirische Sonde in Gabriels Streit mit dem Konstruktivismus. Kornmeier misst die Konstruktion im Labor — beim ersten Schritt des Sehens geht eine ganze Dimension verloren und wird rekonstruiert — und liefert mit der Mona-Lisa-Studie einen Befund, der Gabriels These von den objektiv realen Perspektiven herausfordert: Das Wahrnehmungssystem misst nicht, es vergleicht; die Skala entsteht aus dem Extremsten im Raum. Anders als Gabriel baut Kornmeier daraus keine Ontologie, sondern eine Zurückhaltung — Wissenschaft liefert gut funktionierende Modelle, nicht die Welt.

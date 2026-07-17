@@ -172,6 +172,10 @@ Zwei Wissenschaftskommunikatoren, die harte Klimadaten übersetzen und am gleich
 
 Die ökonomische Fernwirkung als Brücke: Beautemps' Callahan-&-Mankin-Befund (El Niño = Billionen-Schock mit jahrelangem Nachhall, Brandbeschleuniger bestehender Krisen) trifft Kemferts Analyse fossiler Abhängigkeit als systemische ökonomische Verwundbarkeit — Klima nicht als Wetter, sondern als Kraft auf Märkte und Preise.
 
+### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
+
+Die Kunst der Zurückhaltung als Berufsethos: Kornmeier beschreibt sein eigenes Messgerät als Ohr an der Außenmauer eines Hauses, in dem jeder Raum einen anderen Chor beherbergt — und fordert, dass Wissenschaftler genau das besser kommunizieren müssten. Wo Beautemps eine wahrscheinliche Katastrophe dämpft, dämpft Kornmeier den eigenen Befund. Beide zahlen dafür: mit Reichweite der eine, mit Überzeugungskraft der andere.
+
 ---
 
 ## Weiterdenken

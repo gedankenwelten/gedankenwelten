@@ -245,3 +245,7 @@ Böhmes Milkshake-Studie und Tverskys Embodied Cognition treffen sich im selben 
 
 Böhmes Predictive Processing (Erwartung formt körperliche Realität) und Schultz' RPE (Abweichung von Erwartung erzeugt Dopamin) sind zwei Seiten derselben Architektur: Das Gehirn minimiert Vorhersagefehler (Böhme), aber es ist genau dieser Fehler — die Überraschung — der Lernen und Motivation antreibt (Schultz). Böhmes Aufmerksamkeitsextraktion durch rote Eilmeldungen bekommt durch Schultz den biologischen Mechanismus: Neuigkeit als positiver RPE, der das Dopaminsystem aktiviert.
 
+### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
+
+Kornmeier teilt Böhmes Predictive-Processing-Rahmen bis ins Detail — der Torwart, der den Ball nie in Echtzeit verarbeiten könnte, ist ihr bayesianisches Gehirn in einem Bild. Und ihre Grenzziehung teilt er auch: Psychedelika setzen für ihn nur den Plausibilitätscheck außer Kraft, sie öffnen kein Fenster zur wahren Welt. Die Spannung liegt woanders: Böhmes Realitätsanker ist die aktive Interaktion — hingehen, anfassen, überprüfen. Kornmeiers Institut erforscht Phänomene, die sich genau dieser Prüfung entziehen, und er hält das aus, ohne die Prüfung aufzugeben.
+
