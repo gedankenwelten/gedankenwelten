@@ -238,3 +238,7 @@ Beide arbeiten mit einer vorstaatlichen Ordnung als Kontrastfolie — das egalit
 ### → [[Denker/Suraj Yengde — Annihilation of Caste|Suraj Yengde — Annihilation of Caste]]
 
 Kaste als radikalste Ausformung der zweiten Natur: „ein Geisteszustand, kein Stacheldraht" — der Feind ist das Skript, nicht der Schauspieler. Ambedkars Befund, dass die Praktizierenden „nur tun, was ihnen aufgetragen wurde", ist van Schaiks kulturell übergestülpte Hierarchie in ihrer härtesten Form; und beide erzählen dieselbe Umkehr der Religion von der Befreiungsbotschaft zur Herrschaftsinstitution.
+
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+
+Beide entmoralisieren denselben Befund: Der Mensch ist evolutionär fehl am Platz — Jäger-Sammler-Gehirne in einer hyperdiversen, hypermobilen Welt. Yus Other-Race-Effekt und frühkindliche Infrahumanisierung sind die neuronale Seite von van Schaiks erster Natur; ihre Rehumanisierungs-Strategien der Versuch, das Erbe zu steuern statt zu leugnen.

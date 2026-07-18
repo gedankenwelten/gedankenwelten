@@ -512,3 +512,7 @@ Elitenerziehung als Herrschaftstechnik, von der anderen Seite gesehen: Die kolon
 ### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
 
 Die 3sat-Doku zeigt das Ergebnis der hier beschriebenen Prägung in Reinform: eine Tech-Elite, deren „Herrschaft sich nicht mehr legitimieren muss" (Daub) — und die den uralten Eliten-Traum eigener Städte mit eigenem Recht (Seasteading, Próspera) technisch neu auflegt.
+
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+
+Das theoretische Fundament dieser Note, jetzt in der Utopie-Fassung: Yu erklärt bei den Tagen der Utopie nicht nur die mPFC-Abschaltung, sondern auch den Rückweg — Rehumanisierung durch multiple Kategorien und Mentalisierung. Für die Gefangenen des Systems die offene Frage: Erreichen diese Strategien auch Strukturen, die die Abschaltung systematisch belohnen?

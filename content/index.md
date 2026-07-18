@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
 
+> **18.07.** — [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Liya Yu — Dehumanisierung und Rehumanisierung]]
+>
+> Dehumanisierung ist keine moralische Schwäche, sondern eine Hirnfähigkeit, die wir alle täglich benutzen — und genau darum lässt sie sich steuern, umkehren, verlernen.
+
 > **18.07.** — [[Denker/Tsitsi Dangarembga - Feministische Stimme Afrikas|Tsitsi Dangarembga — Feministische Stimme Afrikas]]
 >
 > Zimbabwe ist kein armes Land — die Armut wurde hergestellt, als Waffe. Tsitsi Dangarembga über den Kolonialismus in den Köpfen und Wohlsein als Gegenentwurf zur Utopie.
@@ -38,11 +42,7 @@ Die Gedankenwelten (luc)
 >
 > Wer die Geschichte eines Kontinents verzerrt, formt die Gegenwart aller — Akala über Afrika vor der Versklavung und die Frage, wem der Lehrplan gehört.
 
-> **18.07.** — [[Denker/Isabel Wilkerson — Race Caste and Social Justice|Isabel Wilkerson — Race, Caste and Social Justice]]
->
-> Rasse ist die Haut, Kaste sind die Knochen — Isabel Wilkerson liest Amerika als Kastengesellschaft und findet in Ambedkars Indien den Spiegel, den das Land sich selbst verweigert.
-
-> → *8 weitere in* [[Denker]]
+> → *9 weitere in* [[Denker]]
 
 ### Zeitgeist
 

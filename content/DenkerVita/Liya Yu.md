@@ -64,6 +64,7 @@ Nebenbei: In Taipei war sie Leadsängerin der Doom-Metal-Band **Neuropathik** (K
 
 - [Ist unser Gehirn eine Gefahr für die Menschheit? | Der Standard](https://www.youtube.com/watch?v=8E-LtCSPon0) — Tiefes Gespräch über Neuropolitik, Dehumanisierung und Mentalisierung
 - [Nu Rho Psi 2025 Keynote](https://www.youtube.com/watch?v=-GrWo_vzC_Q) — Akademischer Vortrag auf Englisch
+- [Neuropolitik – Neue Wege aus Populismus und Polarisierung | Tage der Utopie 2025](https://www.youtube.com/watch?v=woDAlWqcpfA) — Der persönlichste der drei Vorträge: von der Dehumanisierung zur Rehumanisierung, mit der Gesamtkunstbefreiung als Schluss
 
 ---
 
@@ -98,4 +99,5 @@ Yu verortet sich selbst als antirassistische Aktivistin und linksliberal, kritis
 ## Gedankenwelten-Notes
 
 - [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
-- [[Zeitgeist/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yu — Der neuropolitische Gesellschaftsvertrag]]
+- [[Denker/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yu — Der neuropolitische Gesellschaftsvertrag]]
+- [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Liya Yu — Dehumanisierung und Rehumanisierung]]

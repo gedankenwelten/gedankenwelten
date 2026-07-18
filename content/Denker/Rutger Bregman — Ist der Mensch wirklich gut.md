@@ -280,6 +280,10 @@ Das empirische Gegenwarts-Anschauungsmaterial zu Bregmans These „Macht isolier
 
 Bregmans These vom Menschenbild als selbsterfüllender Prophezeiung, ins Persönliche gewendet: Der Vertrauensvorschuss macht ernst mit der Einsicht, dass Misstrauen die Fassade erzeugt, vor der es warnt. Wo Bregman auf Gesellschaftsebene argumentiert (Buurtzorg, Strafsystem, Demokratie), zeigt die Note dieselbe Mechanik im Maßstab 1:1 — und warum das Geben kein Opfer ist.
 
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+
+Der produktivste Widerspruch: Yu seziert das gute Menschenbild, das Bregman verteidigt, als rationalistische Illusion. Doch Bregmans „Homo puppy" ist freundlich zur Eigengruppe und gerade deshalb anfällig für Ausgrenzung — genau dort setzt Yus Dehumanisierungsforschung an. Er sagt: Der Mensch ist gut. Sie sagt: Er kann beides — und Politik muss für den zweiten Fall gebaut sein.
+
 ---
 
 ## Weiterdenken
