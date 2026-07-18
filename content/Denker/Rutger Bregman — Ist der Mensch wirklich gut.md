@@ -12,7 +12,7 @@ aliases:
   - Bregman Im Grunde gut
   - Survival of the Friendliest
 description: "Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung."
-aktualisiert: 17.06.2026
+aktualisiert: 18.07.2026
 ---
 
 # Rutger Bregman — Ist der Mensch wirklich gut?

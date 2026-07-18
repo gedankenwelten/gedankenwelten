@@ -6,6 +6,25 @@ tags:
   - links
 ---
 
+## Akala — Oxford Union (Black History)
+
+| | |
+|---|---|
+| **Vortrag** | [Akala — Full Address and Q&A, Oxford Union](https://www.youtube.com/watch?v=WUtAxUQjwB4) |
+| **Notiz** | [[Akala — Die verlorenen Seiten der Menschheitsgeschichte]] |
+| **DenkerVita** | [[DenkerVita/Akala]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Akala_Oxford_Union_Transkript.txt` |
+
+## Isabel Wilkerson — Ambedkar Lecture (Columbia, 2020)
+
+| | |
+|---|---|
+| **Vortrag** | [The Third Annual Ambedkar Lecture with Isabel Wilkerson](https://www.youtube.com/watch?v=oSL_dl4xJh8) |
+| **Notiz** | [[Isabel Wilkerson — Race Caste and Social Justice]] |
+| **DenkerVita** | [[DenkerVita/Isabel Wilkerson]] |
+| **Ambedkar–Du-Bois-Briefwechsel** | [SAADA/TIDES](https://www.saada.org/tides/article/ambedkar-du-bois) |
+| **Transkript** | `Gedankenwelten/Transkripte/Wilkerson_Ambedkar_Transkript.txt` |
+
 ## KALAYO — Epstein-Zensur & Blanche-Anhörung (2026)
 
 | | |

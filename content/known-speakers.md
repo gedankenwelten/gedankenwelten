@@ -112,6 +112,11 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Akala
+**Status:** ✓ Vollanalyse → [[DenkerVita/Akala]]
+
+---
+
 ## Achille Mbembe
 **Status:** ✓ Vollanalyse → [[DenkerVita/Achille Mbembe]]
 
@@ -399,6 +404,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Isabell Lorey
 **Status:** ✓ Vollanalyse → [[DenkerVita/Isabell Lorey]]
+
+## Isabel Wilkerson
+**Status:** ✓ Vollanalyse → [[DenkerVita/Isabel Wilkerson]]
 
 ## Ivan Krastev
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ivan Krastev]]

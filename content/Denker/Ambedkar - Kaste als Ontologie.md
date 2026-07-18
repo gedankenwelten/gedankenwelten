@@ -183,6 +183,10 @@ Das ist eine globale Konstante: Es ist einfacher, gegen Unrecht zu kämpfen, das
 
 Dieselbe Frage aus der anderen Weltreligion: Was ist Religion — Identitätsordnung oder Moral? Heck nennt den Dschihadismus „Religion als Identität statt als Moral"; Ambedkar verwirft den Hinduismus genau an diesem Punkt. Und die Dalit-Erfahrung stellt Soroushs „darwinische" Gelehrten-Auslese auf die Probe: Wer strukturell aus der deutenden Gemeinschaft ausgeschlossen ist, für den ist die Pluralität der Interpretationen kein Trost.
 
+### → [[Isabel Wilkerson — Race Caste and Social Justice]]
+
+Wilkerson ist Ambedkars amerikanische Antwort, 74 Jahre nach seinem Brief an Du Bois: Sie nimmt sein „not only natural but necessary" wörtlich und liest die USA als drittes Kastensystem. Seine Ontologie der Staffelung bekommt bei ihr die Phänomenologie — King in Kerala, die getrennte Bibel, der Lastenaufzug.
+
 ---
 
 ## Weiterdenken

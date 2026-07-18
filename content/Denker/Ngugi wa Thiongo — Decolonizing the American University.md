@@ -217,6 +217,10 @@ Direkte Fortführung von Ngũgĩs *Introjektions*-Passage (John Newton, *Amazing
 
 Höckes Satz „Wer die Begriffe prägt, prägt das Denken" ist Ngũgĩs „Prosperisch" in der Sprache der Neuen Rechten — dieselbe Einsicht, dass Sprache den Geist erobert, einmal als Herrschaftswerkzeug beklagt, einmal als Programm bekannt. Beide Notes teilen den Wittgenstein-Kern (Grenzen der Sprache = Grenzen der Welt) und stellen die Machtfrage der Begriffe.
 
+### → [[Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
+
+Akalas Oxford-Union-Vortrag ist die Vorgeschichte zu Ngũgĩs Universitätskritik: die konkreten verlorenen Seiten (Ägypten, Mali, Great Zimbabwe, Haiti), die ein dekolonisierter Lehrplan zurückholen müsste. Sein „Take two sets of notes" ist die Überlebenstechnik im noch unreformierten Bildungssystem.
+
 ---
 
 ## Weiterdenken

@@ -124,6 +124,10 @@ Die Gegenrichtung in Reinform: Sterner erobert „Patriotismus“ und „Heimat�
 
 - [[Zeitgeist/Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]] — Kaperung nicht einer Geste, sondern eines *Wortes*: „Heizungshammer" ist ein erfundener Begriff, geprägt um ein Gesetz zu besetzen, bevor es verstanden wird. Eine Oxford-Studie zählt aus, wie das Zeichen aus dem Boulevard bis ins Gesetzblatt wandert — Begriffshoheit als messbare Macht.
 
+### → [[Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
+
+Akala liefert die koloniale Vorgeschichte der Zeichen-Kaperung: abgeschlagene Statuennasen, weiß übermalte Madonnen, weiß besetzte Pharaonen — Aneignung von Zeichen als Enteignung von Geschichte, Jahrhunderte bevor Codes und Flaggen umkämpft waren.
+
 ---
 
 ## Weiterdenken

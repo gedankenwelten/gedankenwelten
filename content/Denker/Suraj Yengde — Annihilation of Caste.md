@@ -213,6 +213,14 @@ Ambedkars Einsicht, dass die Namen selbst geladene politische Ökonomie sind —
 
 Die Brücke, die Ngũgĩ afrikanischen Studierenden aufträgt („afroamerikanische Geschichte ist unsere Literatur"), baut Yengde von der anderen Seite: Dalit-Black Worlds, Kaste und Rasse als parallele Ontologien der Erniedrigung. Und beide kreisen um das verbotene Wort — Ambedkars zensierte Rede, die verbotenen Sprachen der Plantagen.
 
+### → [[Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
+
+Akala erzählt dieselbe Selbstbefreiung durch Bildung von der Black-British-Seite der Dalit-Black-Brücke: die panafrikanische Samstagsschule als Yengdes Ambedkar-Text. Und Haiti zeigt bei ihm, was gelingt, wo Yengdes zensierte Ambedkar-Rede das Ersticken der Stimme zeigt.
+
+### → [[Isabel Wilkerson — Race Caste and Social Justice]]
+
+Wilkerson zitiert Yengde in ihrer Ambedkar-Lecture als Gegenwartsstimme — ihr vergleichender Außenblick (Kaste als Struktur dreier Gesellschaften) und Yengdes gelebte Innenperspektive ergänzen sich zu genau dem transozeanischen Gespräch, das Ambedkar 1946 mit Du Bois begann.
+
 ---
 
 ## Weiterdenken

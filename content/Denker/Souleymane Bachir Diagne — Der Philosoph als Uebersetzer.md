@@ -188,6 +188,10 @@ Diagnes Maxime „Denke in Gegenwart der Vielheit der Sprachen" und die „Prüf
 
 Der senegalesische Nächste: Sarr (Mitgründer der *Ateliers de la Pensée* in Dakar) denkt Afrikas Zukunft aus eigenen Quellen — Diagne liefert dazu die sprachphilosophische Statik: „Eigene Quellen" taugen nur als übersetzbare, reziprok geöffnete, nicht als abgeschottete Andersheit. Endogenes Denken plus Gastfreundschaft der Übersetzung.
 
+### → [[Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
+
+Akalas Forderung nach einem Lehrplan, an dessen Tisch alle sitzen, findet bei Diagne ihr erkenntnistheoretisches Fundament: das laterale Universale, das keine Kultur zum Maßstab der anderen macht. Akala zeigt die Trümmer, die das vertikale Universale hinterließ.
+
 ---
 
 ## Weiterdenken

@@ -216,3 +216,7 @@ Linartas liefert das strukturelle Fundament zu Merkels Befund, die Jungen empfä
 ### → [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
 
 Yorans Pointe „die moralische Last liegt bei denen mit der geringsten Marktmacht“ verschränkt Konsumkritik mit Linartas' Verteilungsfrage: Nachhaltiger Konsum ist ein Privileg der Kaufkräftigen.
+
+### → [[Isabel Wilkerson — Race Caste and Social Justice]]
+
+Wilkersons Kaste und Linartas' Erbengesellschaft sind Zwillinge: vererbte, unverdiente Rangordnung — einmal als soziale Grammatik, einmal als Vermögensbilanz. Ihre Leiter-Bilder decken sich fast wörtlich; zusammen beantworten sie, warum Aufstieg strukturell scheitert und wer am alten Haus verdient.
