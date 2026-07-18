@@ -284,6 +284,10 @@ Bregmans These vom Menschenbild als selbsterfüllender Prophezeiung, ins Persön
 
 Der produktivste Widerspruch: Yu seziert das gute Menschenbild, das Bregman verteidigt, als rationalistische Illusion. Doch Bregmans „Homo puppy" ist freundlich zur Eigengruppe und gerade deshalb anfällig für Ausgrenzung — genau dort setzt Yus Dehumanisierungsforschung an. Er sagt: Der Mensch ist gut. Sie sagt: Er kann beides — und Politik muss für den zweiten Fall gebaut sein.
 
+### → [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]
+
+Das literarische Experiment, das Bregmans Optimismus herausfordert: kein Notstand, keine Gewalt-Erlaubnis von oben — nur Langeweile, Distanz und ein toter Winkel, und das wohlerzogene Internat kippt in die Folter. Wo Bregman das „Herr der Fliegen"-Bild als Fiktion entlarvt, hält Musil dagegen: Seine Fiktion hatte ein reales Vorbild, und die Täter blieben im System.
+
 ---
 
 ## Weiterdenken

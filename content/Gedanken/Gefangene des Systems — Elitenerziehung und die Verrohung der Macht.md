@@ -516,3 +516,7 @@ Die 3sat-Doku zeigt das Ergebnis der hier beschriebenen Prägung in Reinform: ei
 ### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
 
 Das theoretische Fundament dieser Note, jetzt in der Utopie-Fassung: Yu erklärt bei den Tagen der Utopie nicht nur die mPFC-Abschaltung, sondern auch den Rückweg — Rehumanisierung durch multiple Kategorien und Mentalisierung. Für die Gefangenen des Systems die offene Frage: Erreichen diese Strategien auch Strukturen, die die Abschaltung systematisch belohnen?
+
+### → [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]
+
+Das literarische Urdokument dieser These, 1906: Ein Elite-Internat als Verrohungsmaschine, in der wohlerzogene Söhne die Folgenlosigkeit ihrer Macht als erste Lektion lernen. Reiting hält den Ertappten verfügbar statt ihn anzuzeigen, die Institution bestraft am Ende das Opfer und behält die Täter — Musil nannte die beiden später die „Diktatoren in nucleo".

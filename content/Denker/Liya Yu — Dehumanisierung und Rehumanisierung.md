@@ -209,6 +209,10 @@ Innen- und Außenansicht desselben Phänomens: Yu kritisiert das „pietistische
 
 Yus Mechanismus in Anwendung: Die Gedanken-Note nutzt die mPFC-Abschaltung bereits als Fundament, um die Verrohung von Eliten zu erklären. Wo Yu die einzelne Begegnung beschreibt, verfolgt Luc, wie Dehumanisierung sich in Machtstrukturen einnistet und nach oben skaliert.
 
+### → [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]
+
+Die literarische Urszene, ein Jahrhundert vor dem Hirnscan: Musils Beineberg erklärt 1906, das bloße Menschsein sei „eine bloße äffende, äußerliche Ähnlichkeit" — und die imaginären Zahlen werden im Roman ausgerechnet mit einem Stuhl erklärt, den man einem Abwesenden hinstellt. Was Yu misst, hat Musil erzählt: bis hin zum Zuschauer, dessen Faszination das Mitleid ersetzt.
+
 ---
 
 ## Weiterdenken

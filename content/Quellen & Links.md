@@ -3421,6 +3421,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Renee DiResta — Invisible Rulers]] |
 | **Transkript** | `Gedankenwelten/Transkripte/DiResta_InvisibleRulers_Transkript.txt` |
 
+## Robert Musil — Die Verwirrungen des Zöglings Törleß
+
+| | |
+|---|---|
+| **Primärtext (gemeinfrei)** | [Volltext bei Projekt Gutenberg-DE](https://projekt-gutenberg.org/authors/robert-musil/books/die-verwirrungen-des-zoeglings-toerless) |
+| **Notiz** | [[Robert Musil — Die Verwirrungen des Zoeglings Toerless]] |
+| **Werkdatei / RAG** | `Gedankenwelten/Primaertexte/Musil — Die Verwirrungen des Zoeglings Toerless.txt` → Collection `gedankenwelten_primaer` (322 Chunks) |
+
 ## Liya Yu — Dehumanisierung und Rehumanisierung
 
 | | |
