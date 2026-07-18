@@ -334,3 +334,7 @@ Und Liselottes Schwestern: Sie blieben ihr Leben lang unverheiratet. Nicht weil 
 - [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Kehnel zeigt soziale Mobilität als Kernthema mittelalterlicher Geschichte (Universitäten als Motoren); Gegenthese zur Vorstellung starrer Feudalhierarchien — Ergänzung zu Horowskis Analyse des Absolutismus als Kulminationspunkt von Klassenfixierung
 - [[Florian Homm - Ich war eine Leistungsmaschine]] — Homm beschreibt die *moderne* Version von Horowskis Dynastienlogik: Kapital reproduziert sich über Generationen, Talente werden gezielt selektiert und geformt. Die Kontinuität von "Klasse als Formierungsprogramm" verbindet Ancien Régime und heutiges Elite-Milieu.
 - [[Steffen Mau — Spaltung der Gesellschaft]] — Maus „Spermienlotterie" zeigt: Horowskis Prinzip der Privilegienvererbung gilt weiter — in Hamburg wird mehr Erbschaftssteuer bezahlt als in ganz Ostdeutschland, 95% aller ostdeutschen Betriebe gingen an Westdeutsche
+
+### → [[Isabel Wilkerson — Race Caste and Social Justice]]
+
+Wilkersons Trennlinie „If you can act your way out of it, it's class — if you cannot, it's caste" macht Horowskis Adel als europäische Kaste lesbar: Rang durch Abstammung, aus dem man sich nicht herausspielen konnte. Das vormoderne Europa als drittes Vergleichsfeld neben Jim Crow und Jati.

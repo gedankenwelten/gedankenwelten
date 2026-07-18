@@ -21,6 +21,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Arlie Russell Hochschild|Arlie Russell Hochschild]]** — Soziologin (UC Berkeley emerita), Pionierin der Emotionssoziologie; emotional labor, deep story, Stolz-Paradox, Scham-Schild; Stolen Pride (2024): Trump schürft Scham wie Kohle
 
+**[[DenkerVita/Akala|Akala]]** — Britischer Rapper, Autor & autodidaktischer Historiker; verbindet Klasse und Race zu einer Analyse des Empire-Erbes; *Natives: Race and Class in the Ruins of Empire* (2018), Gründer der Hip-Hop Shakespeare Company
+
 **[[DenkerVita/Arthur Aron|Arthur Aron]]** — Sozialpsychologe (Stony Brook), erforscht Nähe und Intimität empirisch; Self-Expansion-Modell der Liebe, die „36 Fragen, die zu Liebe führen", fMRT-Studien (mit Fisher & Brown): Liebe als Belohnungs-/Motivationssystem
 
 **[[DenkerVita/Albrecht von Lucke|Albrecht von Lucke]]** — Publizist, Journalist; Blätter-Redakteur; Nischengesellschaft, Konfliktunfähigkeit, Merz-Regierung als Führungsvakuum
@@ -190,6 +192,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Immanuel Kant|Immanuel Kant]]** — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, "Was ist Aufklärung?"
 
 **[[DenkerVita/Isabell Lorey|Isabell Lorey]]** — Politikwissenschaftlerin, Professorin Queer Studies KHM Köln; Prekarisierung als Regierungstechnik, Immunisierung als Herrschaftslogik, Sorgebeziehungen als Gegenentwurf
+
+**[[DenkerVita/Isabel Wilkerson|Isabel Wilkerson]]** — US-Journalistin und Autorin, erste afroamerikanische Frau mit Pulitzer-Preis (1994); deutet US-Rassismus als Kastensystem (*Caste*, 2020) und erzählt die Große Migration (*The Warmth of Other Suns*, 2010)
 
 **[[DenkerVita/Ivan Krastev|Ivan Krastev]]** — Bulgarischer Politikwissenschaftler (Wien/Sofia); Illiberale Welle als Imitations-Rebellion, Demokratie braucht Zukunftsglauben, "unsere Träume europäisch — unsere Albträume national"
 

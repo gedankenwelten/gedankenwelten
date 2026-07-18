@@ -251,6 +251,10 @@ Brückenbegriff: **Imperial Overstretch trifft digitale Infrastrukturkontrolle**
 
 Das operative Gegenstück zur kulturellen Grundprogrammierung: Johnson zeigt, wie die fertige War-on-Terror-Rhetorik (*savage*, *barbaric*, „Hamas is ISIS") von der Stange genommen und der Hamas übergezogen wurde — Propaganda als Reflex, nicht als Erfindung.
 
+### → [[Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
+
+Akalas „For racism to function, everyone has to be functionally miseducated" ist Westbrooks Propaganda-These, auf die Geschichtsschreibung angewandt: Der produzierte Konsens beginnt im Lehrplan, nicht in der Tagesschau. Beide zeigen die Ökonomie hinter der Erzählung.
+
 ---
 
 ## Weiterdenken

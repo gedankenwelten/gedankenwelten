@@ -252,6 +252,10 @@ Ngũgĩs Caliban und sein „Prosperisch" sind das afrikanisch-amerikanische Geg
 
 Diagnes laterales Universales ist der strukturelle Zwilling von Ch'ixi: Bewegung ohne Endspiel, keine finale Reduktion der Vielheit auf das Eine. Beide dekolonisieren, indem sie die Synthese verweigern, die die Differenz einebnen würde — er in der Übersetzung, sie im Gefleckten.
 
+### → [[Isabel Wilkerson — Race Caste and Social Justice]]
+
+Cusicanquis symbolische Extraktion indigener Kultur ist Wilkersons Kasten-Wachdienst aus anderer Himmelsrichtung: Die dominante Gruppe schmückt sich, ohne die Rangordnung anzutasten. Ihr Ch'ixi-Denken hält dagegen die Kontradiktion aus, wo Wilkerson auf Auflösung der Hierarchie zielt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -22,6 +22,28 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **18.07.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
+>
+> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
+
+> **18.07.** — [[Denker/Tsitsi Dangarembga - Feministische Stimme Afrikas|Tsitsi Dangarembga — Feministische Stimme Afrikas]]
+>
+> Zimbabwe ist kein armes Land — die Armut wurde hergestellt, als Waffe. Tsitsi Dangarembga über den Kolonialismus in den Köpfen und Wohlsein als Gegenentwurf zur Utopie.
+
+> **18.07.** — [[Denker/Mbembe — The Earthly Community|Achille Mbembe — The Earthly Community]]
+
+> **18.07.** — [[Denker/Akala — Die verlorenen Seiten der Menschheitsgeschichte|Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
+>
+> Wer die Geschichte eines Kontinents verzerrt, formt die Gegenwart aller — Akala über Afrika vor der Versklavung und die Frage, wem der Lehrplan gehört.
+
+> **18.07.** — [[Denker/Isabel Wilkerson — Race Caste and Social Justice|Isabel Wilkerson — Race, Caste and Social Justice]]
+>
+> Rasse ist die Haut, Kaste sind die Knochen — Isabel Wilkerson liest Amerika als Kastengesellschaft und findet in Ambedkars Indien den Spiegel, den das Land sich selbst verweigert.
+
+> → *8 weitere in* [[Denker]]
+
 ### Zeitgeist
 
 > **17.07.** — [[Zeitgeist/WDR Europaforum — Out of order Voelkerrecht|WDR Europaforum — Out of order? Wenn das Völkerrecht den Bach runtergeht]]
@@ -40,27 +62,7 @@ Die Gedankenwelten (luc)
 >
 > Nicht die Verletzung ist neu — die gab es immer. Neu ist das Schweigen danach: Eine Weltmacht erklärt das Völkerrecht für irrelevant, und niemand kann sie zwingen.
 
-> → *17 weitere in* [[Zeitgeist]]
-
-### Denker
-
-> **17.07.** — [[Denker/Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
->
-> Ein Neurobiologe leitet das Institut für das, was es nicht geben darf — und bleibt der Skeptiker im Raum. Über Wahrnehmung als Konstruktion und die Würde des Nichtwissens.
-
-> **16.07.** — [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
-
-> **16.07.** — [[Denker/Catrin Misselhorn — Grundfragen der Maschinenethik|Catrin Misselhorn — Grundfragen der Maschinenethik]]
->
-> Maschinen können handeln, aber nicht verantworten — Misselhorns drei Grundsätze ziehen die Grenze, hinter die kein Komfort der Automatisierung zurückführen darf.
-
-> **14.07.** — [[Denker/Leonhard Horowski — Adel, Klassen und Gesellschaft|Leonhard Horowski — Adel, Klassen und Gesellschaft]]
-
-> **14.07.** — [[Denker/Pankaj Mishra — Zeitalter des Zorns|Pankaj Mishra — Zeitalter des Zorns]]
->
-> Pankaj Mishra führt die Wut der Gegenwart auf das unerfüllte Versprechen von 1789 zurück — Ressentiment als Signatur der Moderne, von Rousseau bis Modi.
-
-> → *3 weitere in* [[Denker]]
+> → *14 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

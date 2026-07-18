@@ -242,6 +242,10 @@ Der senegalesische Nächste: Diagne liefert Sarrs endogenem Denken die sprachphi
 
 Shiva mobilisiert wie Sarr eigenes, verbundenes Wissen gegen die Monokultur des westlichen Fortschrittsmodells — Dekolonisierung der Ökonomie aus den eigenen Quellen.
 
+### → [[Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
+
+Akalas Rundreise durch Kusch, Timbuktu und Great Zimbabwe liefert das historische Fundament für Sarrs Forderung, Afrika solle aus eigenen Quellen schöpfen: Die Quellen waren immer da — die koloniale Erzählung hat sie unsichtbar gemacht. Restitution und Haitis erpresste Goldfrancs sind dieselbe Rechnung.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

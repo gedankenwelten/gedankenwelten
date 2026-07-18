@@ -1,6 +1,6 @@
 ---
 title: "Achille Mbembe — The Earthly Community"
-aktualisiert: 2026-05-15
+aktualisiert: 2026-07-18
 date: 05.06.2024
 tags:
   - denker
@@ -245,6 +245,14 @@ Ngũgĩ trägt Mbembes Kernthese als Yale-Vorlesung vor: Kapitalismus und Rassis
 ### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
 
 Shivas *Earth Democracy* verlängert Mbembes *Earthly Community* ins Konkrete — das Saatkorn als kleinster Ort, an dem sich Zugehörigkeit statt Besitz entscheidet; die extraktive Vernunft reicht bei ihr bis in die Zelle.
+
+### → [[Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
+
+Akalas Fallstudie zur Hamiten-Theorie zeigt konkret, wie die Fabrikation „Rasse" hergestellt wurde, die Mbembe philosophisch seziert: nicht Irrtum, sondern Auftragsarbeit einer Ökonomie. Akalas menschenzentrierte Weltgeschichte und Mbembes Erdgemeinschaft sind zwei Wege aus derselben Wunde.
+
+### → [[Isabel Wilkerson — Race Caste and Social Justice]]
+
+Wilkersons „Rasse ist die brillante Ablenkung" und Mbembes Auflösung der Rassengrenzen greifen ineinander: Rasse als junge, gemachte Kategorie. Mbembe setzt fort, wo Wilkerson endet — nach der Diagnose der Teilung die Frage der Reparatur, des „being with others".
 
 ## Weiterdenken
 
