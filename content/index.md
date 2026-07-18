@@ -42,7 +42,7 @@ Die Gedankenwelten (luc)
 >
 > Wer die Geschichte eines Kontinents verzerrt, formt die Gegenwart aller — Akala über Afrika vor der Versklavung und die Frage, wem der Lehrplan gehört.
 
-> → *9 weitere in* [[Denker]]
+> → *10 weitere in* [[Denker]]
 
 ### Zeitgeist
 

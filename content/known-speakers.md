@@ -617,6 +617,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## René Descartes
 **Status:** ✓ Vollanalyse → [[DenkerVita/Rene Descartes]]
 
+## Robert Musil
+**Status:** ✓ Vollanalyse — [[DenkerVita/Robert Musil]]
+
 ## Ronen Steinke
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ronen Steinke]]
 

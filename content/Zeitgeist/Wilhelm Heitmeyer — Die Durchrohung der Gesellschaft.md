@@ -351,3 +351,7 @@ Heitmeyers strukturelle Brutalität trifft auf die Jugendhilfe-Kürzungen mit be
 ### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
 
 Das neuronale Substrat der Durchrohung: Was Heitmeyer soziologisch als schichtweise Normalisierung gruppenbezogener Menschenfeindlichkeit beschreibt, beginnt bei Yu als mPFC-Abschaltung im Einzelhirn — und ihre Rehumanisierungs-Strategien sind der Versuch, den Prozess an der Wurzel umzukehren.
+
+### → [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]
+
+Die Durchrohung im Zeitraffer eines Schuljahres, erzählt 1906: Vom Diebstahl über die Erpressung zur Folter, von drei Tätern zur halben Klasse — jede Stufe normalisiert die nächste, und die Institution registriert erst die Störung, nie den Prozess.
