@@ -281,3 +281,4 @@ El-Mafaalani hält es für wahrscheinlich, dass Europa demokratisch bleibt — a
 
 Wo El-Mafaalani das Misstrauen analysiert, formuliert Merkel die demokratische Gegendefinition: „jeder deutsche Staatsbürger ist das Volk“ — gegen den völkischen Volksbegriff.
 - [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]] — El-Mafaalanis Aktivierungs-Paradox (gleiche Einstellungen, neue Lautstärke) ist Jägers These der gefallenen Ausdruckskosten von der anderen Seite: Social Media politisiert, ohne zu organisieren.
+- [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]] — Beide suchen, was gegen die AfD wirklich wirkt, und beide verwerfen den Shaming-Diskurs: El-Mafaalani setzt auf Institutionen und Konfliktfähigkeit, Yu auf die kognitive Ebene darunter — Strukturen, die Begegnung ermöglichen, und Gehirne, die sie nicht sabotieren.

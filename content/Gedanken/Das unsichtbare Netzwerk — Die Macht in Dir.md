@@ -353,3 +353,7 @@ Die Gegenseite derselben Rechnung: Wenn der herrenlose Souverän aus Milliarden 
 ### → [[Das unsichtbare Netzwerk — Ubuntu]]
 
 Teil drei der Reihe: Das Netzwerk bekommt seinen alten Namen. Ubuntu — ich bin, weil wir sind — ist das Wort für das bewusste Bewohnen dessen, was hier beschrieben wird, samt der Haftung in beide Richtungen und der Warnung, was aus schönen Worten werden kann.
+
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+
+Die neurowissenschaftliche Unterfütterung der Gravitations-These: Yu zeigt den Mechanismus, warum die kleine Begegnung nicht klein ist — wer einen Menschen in mehreren Kategorien sieht und mentalisiert, schaltet in dessen Gehirn buchstäblich die Menschwahrnehmung wieder ein. Rehumanisierung geschieht im Maßstab 1:1 und wirkt unsichtbar weiter, wie die Fäden der Weber.

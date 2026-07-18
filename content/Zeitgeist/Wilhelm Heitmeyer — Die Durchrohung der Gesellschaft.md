@@ -347,3 +347,7 @@ Tianas Analyse ist der US-Kontext zu Heitmeyers Empathieverlust-These: Wenn Schu
 ### → [[MONITOR — Sparhammer gegen Jugendliche]]
 
 Heitmeyers strukturelle Brutalität trifft auf die Jugendhilfe-Kürzungen mit besonderer Schärfe: Wer Einzelfallhilfen durch Gruppenangebote ersetzt und §41a streicht, folgt der Logik der Durchrohung — Sparentscheid als Haushaltszwang kaschiert eine politische Priorisierung, die Schwächste systematisch ausblendet.
+
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+
+Das neuronale Substrat der Durchrohung: Was Heitmeyer soziologisch als schichtweise Normalisierung gruppenbezogener Menschenfeindlichkeit beschreibt, beginnt bei Yu als mPFC-Abschaltung im Einzelhirn — und ihre Rehumanisierungs-Strategien sind der Versuch, den Prozess an der Wurzel umzukehren.

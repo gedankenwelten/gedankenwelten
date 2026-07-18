@@ -234,3 +234,7 @@ Mentalisierung als drittes Architekturprinzip: Systeme so designen, dass sie Beg
 ### → [[Liya Yu — Der neuropolitische Gesellschaftsvertrag]]
 
 Die akademische Keynote mit dem Gesellschaftsvertragsrahmen; systematischer und tiefgehender als das Standard-Gespräch, mit ausführlicher Darstellung der Harris-Fiske-Studie, blatanter Dehumanisierung und angewandter Neuropolitik
+
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+
+Der Utopie-Vortrag 2025: dieselbe Theorie, aber von der Diagnose zur Strategie gedreht — Rehumanisierung durch multiple Kategorien, Mentalisierung ohne Zustimmung und Furchtlosigkeit, dazu der persönliche Ursprung des Ansatzes in Yus eigener Dissonanz-Erfahrung

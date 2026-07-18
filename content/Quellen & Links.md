@@ -3421,6 +3421,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Renee DiResta — Invisible Rulers]] |
 | **Transkript** | `Gedankenwelten/Transkripte/DiResta_InvisibleRulers_Transkript.txt` |
 
+## Liya Yu — Dehumanisierung und Rehumanisierung
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Neuropolitik – Neue Wege aus Populismus und Polarisierung \| Tage der Utopie 2025](https://www.youtube.com/watch?v=woDAlWqcpfA) |
+| **Notiz** | [[Liya Yu — Dehumanisierung und Rehumanisierung]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Yu_Neuropolitik_Utopie_Transkript.txt` |
+
 ## Liya Yu — Neuropolitik und die Grenzen der Moral
 
 | | |

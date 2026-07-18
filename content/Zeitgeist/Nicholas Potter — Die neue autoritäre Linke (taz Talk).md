@@ -261,3 +261,7 @@ Friedman verortet Antisemitismus strukturell rechtsaußen — ergänzt Potters A
 ### → [[Liya Yu — Der neuropolitische Gesellschaftsvertrag]]
 
 Yu kritisiert Cancel Culture als „potenziell totalitär", weil sie Mentalisierung verhindert; beide sehen die Linke in einem Reinheitsparadox gefangen
+
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+
+Innen- und Außenansicht desselben Phänomens: Yu benennt das „pietistische Reinheitsgebot" ihrer eigenen linken Bubble und liefert den neuronalen Grund — wer den Gegner nicht mentalisieren darf, verliert die Konfliktlösungsfähigkeit. Potter kartiert denselben autoritären Zug diskursiv.
