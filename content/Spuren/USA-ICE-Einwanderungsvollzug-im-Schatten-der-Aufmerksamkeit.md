@@ -97,10 +97,18 @@ der Pressekonferenz nicht vor — der Drogen-Frame wurde vor der Prüfung öffen
 [NBC](https://www.nbcnews.com/news/us-news/houston-ice-fatal-ice-shooting-fbi-search-warrant-drugs-salt-rcna587821) ·
 [ABC13](https://abc13.com/post/deadly-houston-ice-shooting-harris-county-da-says-inconsistent-drugs-found-lorenzo-salgado-araujos-van/19520834/)
 
-*Drittens — die Führung erklärt die Eskalation zum Programm.* DHS-Secretary **Markwayne Mullin**,
-auf die Frage, wie er nach zwei Toten in einer Woche Rechenschaft sicherstellen wolle: „When I say
-turn down the temperature, I mean with you guys [der Presse] — we're turning up the heat on the
-streets." AOC nennt die beiden Tötungen gegenüber MeidasTouch „criminal" und einen „abuse of power".
+*Drittens — die Bremse im eigenen Haus, vom Präsidenten gebrochen.* Nach den zwei Toten ordnete
+DHS-Secretary **Markwayne Mullin** an, die ICE-Fahrzeug-Stopps **zu pausieren** (Retraining) —
+Trump überstimmte ihn öffentlich per Truth Social: Die Agents dürften „eines ihrer effektivsten
+Werkzeuge" nicht aufgeben. Mullin vollzog die Kehrtwende offen nach („no daylight") — erst *danach*
+fiel sein Satz: „When I say turn down the temperature, I mean with you guys [der Presse] — we're
+turning up the heat on the streets." Pressesprecherin Leavitt bestätigte in ihrer ersten Briefing
+nach der Elternzeit (16.07.): Die Stopps laufen weiter, Präsident und Secretary seien „aligned" —
+die beiden Getöteten nannte sie nicht beim Namen. AOC nennt die Tötungen gegenüber MeidasTouch
+„criminal" und einen „abuse of power".
+[Latin Times — Trump Overturns ICE Order Suspending Traffic Stops](https://www.latintimes.com/trump-overturns-ice-order-suspending-traffic-stops-after-three-latino-men-die-during-enforcement-598239) ·
+[NPR — White House says ICE traffic stops will continue](https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings) ·
+[Latin Times — Leavitts erstes Briefing](https://www.latintimes.com/leavitts-first-briefing-back-covers-waterfront-talks-around-weeks-deadliest-immigration-story-598258)
 [Forbes](https://www.forbes.com/sites/saradorn/2026/07/17/ice-is-turning-up-the-heat-on-the-streets-despite-recent-killings-dhs-secretary-says/) ·
 [MeidasTouch](https://meidasnews.com/news/exclusive-aoc-on-ice-killings-in-maine-and-texas)
 
@@ -112,8 +120,11 @@ Drehbuch vervollständigt: Wo die Notwehr-Erzählung zerfällt (das Rammen ist a
 Version verschwunden), wird nachträglich das *Opfer* umgedeutet — der Drogen-Verdacht wurde vor
 jedem Laborergebnis in die Öffentlichkeit gesetzt. Die Sprache trägt die Umdeutung mit: In Reitz'
 offizieller Darstellung heißen die vier Männer im Van durchgehend „the aliens", „noncompliant
-aliens" — der Getötete kommt als Rechtsperson kaum vor, als Mensch gar nicht. Und die Spitze des
-Hauses beantwortet die Rechenschaftsfrage offen mit Eskalationsansage. Konfidenz nur +1: Beides stützt vor allem das
+aliens" — der Getötete kommt als Rechtsperson kaum vor, als Mensch gar nicht. Und an der Spitze
+zeigt die Mullin-Episode, *wo* die Eskalation ihren Sitz hat: Der Fachminister versuchte die
+naheliegendste Bremse (Stopps pausieren, Retraining) — und wurde vom Präsidenten persönlich und
+öffentlich gebrochen. Die Eskalation ist nicht Behörden-Eigendynamik, sondern Chefsache; die
+„turning up the heat"-Rhetorik ist der Klang der Unterwerfung danach. Konfidenz nur +1: Beides stützt vor allem das
 Fahrzeug-Muster und die Straflosigkeits-Lesart, nicht den Unsichtbarkeits-Kern der These — diese
 Fälle sind gerade maximal sichtbar.
 
@@ -125,7 +136,10 @@ ihn seinerzeit ebenfalls. In Houston ist die Substanz-Frage ehrlich offen: Der F
 ein reguläres Ermittlungsinstrument, „consistent with meth" eine übliche Vorab-Formel — bestätigt
 das Labor Drogen, ist der „Umdeutungs"-Vorwurf zu revidieren und gehört das hier so prominent hin
 wie der Befund. Und DA Teare, der der Drogen-These widerspricht, ist ein gewählter Lokalpolitiker
-mit eigener Interessenlage gegenüber dem Bund.
+mit eigener Interessenlage gegenüber dem Bund. Schließlich die Mullin-Episode selbst: Dass der
+DHS-Secretary die Stopps überhaupt pausieren *wollte*, ist ein Beleg, dass es im Apparat
+funktionierende Korrektur-Reflexe gibt — die Bremse existiert, sie wurde nur überstimmt. Ein
+Apparat, der von sich aus zum Retraining greift, ist nicht monolithisch radikalisiert.
 
 ### 2026-07-15 — Tiefen-Sweep: die unsichtbaren Toten (Konfidenz 74 % → 77 %)
 
