@@ -183,8 +183,11 @@ Die Fashwave- und POV-Ästhetik ist die Social-Media-Seite dessen, was die Stern
 
 Temelkurans Analyse, wie autoritäre Bewegungen das Publikum schrittweise zu Komplizen machen, spiegelt den historischen Rahmen der Note: 1937 lud der Staat das Volk ein, mitzuverachten — 89 Jahre später übernimmt der Algorithmus die Einladung.
 
----
+### → [[Paul Klee — Schoepferische Konfession]]
 
+Die Schwester-Note desselben Tages: Klees Werk in der Schandausstellung von 1937 ist die historische Urszene des Kampfes um die Erinnerung, den diese Note in der Gegenwart verfolgt. Damals der höhnische Wandspruch, heute der Algorithmus — dieselbe Umdeutung, nur die Werkzeuge wechseln.
+
+---
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -235,6 +235,10 @@ Hampes *Apparatus* (bei Scobel) ist die bewusstseinsphilosophische Fassung der V
 
 Hans Korea-University-Vorlesung „On Happiness": seine *Negativität des Anderen* — der Boden, der widersteht, die schwere Tür, das Gegenüber — ist Rosas Unverfügbarkeit in anderer Sprache. Beide sehen im Glatten, Verfügbaren den Feind des gelingenden Lebens; Hans *Zeitpolitik* gegen das Instantane ist die politische Kehrseite der Beschleunigungskritik.
 
+### → [[Paul Klee — Schoepferische Konfession]]
+
+Klees „Feuerbachs Stuhl“ — Sehen kostet Zeit, weil das Werk geronnene Zeit ist — ist Resonanz in der Praxis der Wahrnehmung. Wer „auf einmal fertig“ ist, hat nichts gesehen: derselbe Widerstand gegen Beschleunigung und Verfügbarmachung.
+
 ---
 ## Weiterdenken
 

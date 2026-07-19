@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Paul Klee — Schöpferische Konfession (Primärtext)
+
+| | |
+|---|---|
+| **Volltext** | [Schöpferische Konfession, Wikisource (gemeinfrei)](https://de.wikisource.org/wiki/Sch%C3%B6pferische_Konfession:_Paul_Klee) |
+| **Notiz** | [[Paul Klee — Schoepferische Konfession]] |
+| **DenkerVita** | [[DenkerVita/Paul Klee]] |
+| **Primärtext-RAG** | Collection `gedankenwelten_primaer` — 12 Chunks, Abschnitte I–VII |
+| **Werkdatei** | `Gedankenwelten/Primaertexte/Paul Klee — Schoepferische Konfession.txt` |
+
 ## Ingrid Brodnig — Gegenstrategien zum Frauenhass (re:publica 26)
 
 | | |

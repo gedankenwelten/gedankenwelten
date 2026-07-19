@@ -46,6 +46,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **19.07.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
+>
+> Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar: Klees Credo von 1920 — und der Tag 1937, an dem man den Sichtbarmacher unsichtbar machen wollte.
+
 > **19.07.** — [[Denker/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Der Teufelspakt zwischen Volk und Führung]]
 
 > **19.07.** — [[Denker/Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory|Kimberlé Crenshaw — Intersektionalität und Critical Race Theory]]
@@ -60,11 +64,7 @@ Die Gedankenwelten (luc)
 >
 > Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
 
-> **18.07.** — [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Liya Yu — Dehumanisierung und Rehumanisierung]]
->
-> Dehumanisierung ist keine moralische Schwäche, sondern eine Hirnfähigkeit, die wir alle täglich benutzen — und genau darum lässt sie sich steuern, umkehren, verlernen.
-
-> → *12 weitere in* [[Denker]]
+> → *13 weitere in* [[Denker]]
 
 ### Panorama
 

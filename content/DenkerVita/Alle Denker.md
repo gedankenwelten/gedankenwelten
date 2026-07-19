@@ -237,6 +237,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Kerstin Paschke|Kerstin Paschke]]** — Privatdozentin, Fachärztin für Kinder- und Jugendpsychiatrie; ärztliche Leiterin DZSKJ am UKE Hamburg; 50+ Publikationen zur Social-Media-Sucht bei Jugendlichen; neurobiologische Vulnerabilität als Regulierungsargument; Schutz als Voraussetzung für Befähigung
 
+**[[DenkerVita/Paul Klee|Paul Klee]]** — Maler, Grafiker und Kunsttheoretiker der klassischen Moderne, Bauhaus-Meister (Weimar/Dessau); „Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar“, Bewegung als Grund allen Werdens, das Werk als Gleichnis der Schöpfung; 1933 von den Nazis entlassen, 1937 als „entartet“ verfemt (102 Werke beschlagnahmt), gestorben 1940 im Berner Exil ohne die verweigerte Schweizer Einbürgerung
+
 **[[DenkerVita/Kristian Kunow|Kristian Kunow]]** — Stellvertretender Direktor der MABB; Regulierungspragmatiker für digitalen Jugendschutz; Mitglied Expertenkommission Bund 2026; smarte Lösungen statt Totalverbot; EU-weite Durchsetzung als Schlüssel
 
 **[[DenkerVita/Katharina Nocun|Katharina Nocun]]** — Deutsch-polnische Netzaktivistin, Autorin, Konspirationsmythologen-Forscherin; Digitale Bürgerrechte, Verschwörungstheorien, esoterische Vorfeld-Organisationen der extremen Rechten, KI-generierte Desinformation; Piratenpartei-Policy-Coordinator 2013–2016, Kampagnen für Campact und FSFE, Snowden-Supporter
