@@ -193,6 +193,13 @@ Beide suchen nach dem, was gegen die AfD wirklich wirkt, und beide verwerfen den
 
 Yus stärkstes Motiv — Nazis, die Goethe lasen; Kant, der die Sklaverei ablehnte und Schwarze dennoch herabsetzte — ist Arendts Frage in neuer Sprache: Das Böse braucht kein Dämonengesicht, es entsteht im Ausfall des Sich-Hineinversetzens. Was Arendt „Gedankenlosigkeit" nannte, bekommt bei Yu ein neuronales Substrat: die abgeschaltete Mentalisierung.
 
+### → [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|Spur: USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+
+Yus Theorie im Vollzug beobachtet: Die ICE-Spur dokumentiert (Sweep 19.07.2026), wie die offizielle
+Sprache Menschen durchgehend „aliens" nennt — nicht zu dieser Welt gehörig —, bevor Notwehr-Formeln
+und Drogen-Frames die Getöteten nachträglich zu Tätern umdeuten. Die abgeschaltete Mentalisierung,
+behördlich institutionalisiert.
+
 ### → [[Denker/Erich Fromm — Psychoanalyse des Faschismus]]
 
 Beide verwerfen das rationalistische Aufklärungs-Menschenbild — und beantworten dieselbe Frage („warum begehren die Unterdrückten nicht auf?") auf verschiedenen Tiefenschichten: Fromm in der Charakterstruktur (autoritärer Charakter, Verdrängung), Yu im Mechanismus (Werte und Mentalisierung wohnen in getrennten Systemen).
