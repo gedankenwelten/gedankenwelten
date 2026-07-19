@@ -301,8 +301,15 @@ Das Geländer bei Arendt ist die gemeinsame Faktizität — die geteilte Realit�
 
 Heims und Stark zeigen denselben Camouflage-Mechanismus als Meme-Community: Was hier die Esoterik-Pipeline ist, ist bei Agartha die Ironie-Tarnung — beide machen menschenfeindliche Inhalte anschlussfähig, indem sie harmlos aussehen und algorithmisch perfekt produziert sind.
 
----
+### → [[Ingrid Brodnig — Gegenstrategien zum Frauenhass]]
 
+Die zweite Hälfte der KI-Bildpolitik: Wo Nocun das *Erschaffen* idealisierter Fake-Frauen zeigt, zeigt Brodnig das *Ausziehen* realer Frauen durch dieselben Generatoren.
+
+### → [[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]
+
+Die Fortsetzung des Algorithmus-Arguments in der Kommentarspalte: Wenn selbst das Entlarven eines Codes seine Reichweite erhöht, hat der Algorithmus strukturell die Seite gewechselt.
+
+---
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

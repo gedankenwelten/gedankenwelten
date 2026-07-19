@@ -1,6 +1,6 @@
 ---
 title: "Götz Aly — Der Teufelspakt zwischen Volk und Führung"
-aktualisiert: 2026-05-03
+aktualisiert: 2026-07-19
 date: 25.09.2025
 tags:
   - denker

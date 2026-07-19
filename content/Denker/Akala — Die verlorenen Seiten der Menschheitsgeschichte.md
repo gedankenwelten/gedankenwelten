@@ -245,8 +245,11 @@ Westbrooks These, dass Propaganda nicht Lüge einzelner, sondern strukturell pro
 
 Akalas übermalte Schwarze Madonnen, abgeschlagene Statuennasen und weiß besetzte Pharaonen sind Lehrstücke desselben Mechanismus, den das Panorama sammelt: Ein Zeichen gehört dem, der es am sichtbarsten benutzt — Bedeutung wohnt im Blick, nicht im Ding. Akala liefert die koloniale Vorgeschichte der Zeichen-Kaperung; das Panorama zeigt ihre Rückeroberung.
 
----
+### → [[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory|Kimberlé Crenshaw — Intersektionalität und Critical Race Theory]]
 
+Akalas Frage nach dem Besitz des Lehrplans findet ihr US-Pendant in Crenshaws „Krieg um die Erinnerung“ — die Geschichtsschreibung als eigentliches Schlachtfeld, Race stets mit Klasse verschränkt.
+
+---
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

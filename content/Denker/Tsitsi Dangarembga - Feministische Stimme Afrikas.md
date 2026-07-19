@@ -2,7 +2,7 @@
 title: "Tsitsi Dangarembga — Feministische Stimme Afrikas"
 date: 02.07.2026
 description: "Zimbabwe ist kein armes Land — die Armut wurde hergestellt, als Waffe. Tsitsi Dangarembga über den Kolonialismus in den Köpfen und Wohlsein als Gegenentwurf zur Utopie."
-aktualisiert: 18.07.2026
+aktualisiert: 19.07.2026
 tags:
   - denker
   - postkolonialismus

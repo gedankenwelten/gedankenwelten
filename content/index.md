@@ -22,29 +22,15 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Denker
-
-> **18.07.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
->
-> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
-
-> **18.07.** — [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Liya Yu — Dehumanisierung und Rehumanisierung]]
->
-> Dehumanisierung ist keine moralische Schwäche, sondern eine Hirnfähigkeit, die wir alle täglich benutzen — und genau darum lässt sie sich steuern, umkehren, verlernen.
-
-> **18.07.** — [[Denker/Tsitsi Dangarembga - Feministische Stimme Afrikas|Tsitsi Dangarembga — Feministische Stimme Afrikas]]
->
-> Zimbabwe ist kein armes Land — die Armut wurde hergestellt, als Waffe. Tsitsi Dangarembga über den Kolonialismus in den Köpfen und Wohlsein als Gegenentwurf zur Utopie.
-
-> **18.07.** — [[Denker/Mbembe — The Earthly Community|Achille Mbembe — The Earthly Community]]
-
-> **18.07.** — [[Denker/Akala — Die verlorenen Seiten der Menschheitsgeschichte|Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
->
-> Wer die Geschichte eines Kontinents verzerrt, formt die Gegenwart aller — Akala über Afrika vor der Versklavung und die Frage, wem der Lehrplan gehört.
-
-> → *10 weitere in* [[Denker]]
-
 ### Zeitgeist
+
+> **19.07.** — [[Zeitgeist/Ingrid Brodnig — Gegenstrategien zum Frauenhass|Ingrid Brodnig — Gegenstrategien zum Frauenhass]]
+>
+> Frauenhass im Netz ist kein Gefühl, sondern ein Mechanismus: Wie digitale Gewalt Frauen auf ihren Platz verweist — und was Einzelne, Öffentlichkeit und die EU dagegen tun können.
+
+> **19.07.** — [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]
+>
+> Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
 
 > **17.07.** — [[Zeitgeist/WDR Europaforum — Out of order Voelkerrecht|WDR Europaforum — Out of order? Wenn das Völkerrecht den Bach runtergeht]]
 >
@@ -56,13 +42,43 @@ Die Gedankenwelten (luc)
 
 > **17.07.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
 
-> **17.07.** — [[Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger|Helen Keller — Völkerrecht: Ein zahnloser Tiger?]]
+> → *16 weitere in* [[Zeitgeist]]
 
-> **17.07.** — [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts|MONITOR — Irankrieg und das Ende des Völkerrechts?]]
+### Denker
+
+> **19.07.** — [[Denker/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Der Teufelspakt zwischen Volk und Führung]]
+
+> **19.07.** — [[Denker/Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory|Kimberlé Crenshaw — Intersektionalität und Critical Race Theory]]
 >
-> Nicht die Verletzung ist neu — die gab es immer. Neu ist das Schweigen danach: Eine Weltmacht erklärt das Völkerrecht für irrelevant, und niemand kann sie zwingen.
+> Die Frau, die Intersektionalität prägte, erzählt Amerikas Verfassungsgeschichte von unten: acht Jahre Fortschritt, sieben Jahrzehnte Rückbau — und warum der Krieg um die Erinnerung der eigentliche ist.
 
-> → *14 weitere in* [[Zeitgeist]]
+> **19.07.** — [[Denker/Tsitsi Dangarembga - Feministische Stimme Afrikas|Tsitsi Dangarembga — Feministische Stimme Afrikas]]
+>
+> Zimbabwe ist kein armes Land — die Armut wurde hergestellt, als Waffe. Tsitsi Dangarembga über den Kolonialismus in den Köpfen und Wohlsein als Gegenentwurf zur Utopie.
+
+> **18.07.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
+>
+> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
+
+> **18.07.** — [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Liya Yu — Dehumanisierung und Rehumanisierung]]
+>
+> Dehumanisierung ist keine moralische Schwäche, sondern eine Hirnfähigkeit, die wir alle täglich benutzen — und genau darum lässt sie sich steuern, umkehren, verlernen.
+
+> → *12 weitere in* [[Denker]]
+
+### Panorama
+
+> **19.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
+>
+> Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
+
+> **14.07.** — [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien — das Geschäft mit der Lüge]]
+>
+> Gerichte nennen es „sämtlich unwahr“, die Portale nennen es Recherche: Wie rechte Medien Lügen als Geschäftsmodell betreiben — und woran man den Unterschied zwischen Fehler und Methode erkennt.
+
+> **14.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
+>
+> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
 
 ### Spuren
 
@@ -89,20 +105,6 @@ Die Gedankenwelten (luc)
 > **04.07.** — [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
 >
 > Einer der zentralen KI-Köpfe Deutschlands rechnet nüchtern vor, warum das Exponentielle uns überfordert — und warum jedes „Ja, aber“ drei Monate später erledigt ist.
-
-### Panorama
-
-> **14.07.** — [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien — das Geschäft mit der Lüge]]
->
-> Gerichte nennen es „sämtlich unwahr“, die Portale nennen es Recherche: Wie rechte Medien Lügen als Geschäftsmodell betreiben — und woran man den Unterschied zwischen Fehler und Methode erkennt.
-
-> **14.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
->
-> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
-
-> **03.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
->
-> Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
 
 ### Gedanken
 

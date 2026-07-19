@@ -216,6 +216,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Carolin Amlinger
 **Status:** ✓ Vollanalyse → [[DenkerVita/Carolin Amlinger]]
 
+## Kimberlé Crenshaw
+**Status:** ✓ Vollanalyse → [[DenkerVita/Kimberle Crenshaw]]
+
 ## Catrin Misselhorn
 **Status:** ✓ Vollanalyse → [[DenkerVita/Catrin Misselhorn]]
 
@@ -360,6 +363,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Gilda Sahebi
 **Status:** ✓ Vollanalyse → [[DenkerVita/Gilda Sahebi]]
 
+## Gina Wiedemann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Gina Wiedemann]]
+
 ## Giulia Enders
 **Status:** ✓ Vollanalyse → [[DenkerVita/Giulia Enders]]
 
@@ -398,6 +404,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Herfried Münkler
 **Status:** Stub
+
+## Ingrid Brodnig
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ingrid Brodnig]]
 
 ## Immanuel Kant
 **Status:** ✓ Vollanalyse → [[DenkerVita/Immanuel Kant]]
@@ -477,6 +486,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Leonhard Horowski
 **Status:** Stub
+
+## Lilith Roska
+**Status:** ✓ Vollanalyse → [[DenkerVita/Lilith Roska]]
 
 ## Liya Yu
 **Status:** ✓ Vollanalyse → [[DenkerVita/Liya Yu]]

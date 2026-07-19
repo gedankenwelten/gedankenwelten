@@ -89,6 +89,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (UC Berkeley); Vier-Quadranten-Modell (Intelligent/Bandit/Hilflos/Dumm), Asymmetrie-Problem, Dummheit als strukturelle Handlungslogik, Zivilisationsverfall durch Kompositionsverschiebung, *The Basic Laws of Human Stupidity* (1976)
 
+**[[DenkerVita/Kimberle Crenshaw|Kimberlé Crenshaw]]** — US-Rechtswissenschaftlerin (UCLA, Columbia); prägte den Begriff *Intersektionalität* und begründete die Critical Race Theory mit; struktureller statt individueller Rassismus, Kritik der Farbenblindheit, *War on Memory*, Kampagne #SayHerName; Werke *On Intersectionality* (2017), *Backtalker: An American Memoir* (2026)
+
 **[[DenkerVita/Christine Dankbar|Christine Dankbar]]** — Ressortleiterin Politik & Hauptstadtkorrespondentin der *Frankfurter Rundschau*; Politikwissenschaftlerin, langjährige Erfahrung bei taz, Tagesspiegel, Berliner Zeitung; Schwerpunkt: Sozialpolitik, Reformdiskurs, Bürokratieabbau; regelmäßig zu Gast in phoenix "nachgefragt" und ZDF-Medien
 
 **[[DenkerVita/Christine Braehler|Christine Brähler]]** — Psychotherapeutin und internationale Vorreiterin des Selbstmitgefühls; integriert Bindungstheorie, Internal Family Systems und Compassion-Focused Therapy; über 20 Jahre Berufserfahrung; MSC-Trainerin (Kristin Neff), CFT nach Paul Gilbert; Spezialistin für Scham, Bindungstraumata und innere Anteile; Bücher: *Selbstmitgefühl entwickeln* (2015), *Der kleine Selbstcoach* (2022), *Lass die Liebe rein* (2024)
@@ -167,6 +169,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Gilda Sahebi|Gilda Sahebi]]** — Deutsch-iranische Journalistin, Autorin; Expertise: autoritäre Systeme, Rassismus, Iran; Politikjournalistin des Jahres 2022
 
+**[[DenkerVita/Gina Wiedemann|Gina Wiedemann]]** — Social-Media-Officerin der Arolsen Archives; digitale Erinnerungskultur auf TikTok/Instagram, Kampf gegen Geschichtsrevisionismus und Holocaust-Relativierung im Netz (#everynamecounts)
+
 **[[DenkerVita/Gert Scobel|Gert Scobel]]** — Philosoph, Moderator (3sat *scobel*); Meditationsforschung, Bewusstsein, Neurophilosophie, epistemische Demut, 40 Jahre Meditationserfahrung
 
 **[[DenkerVita/Götz Aly|Götz Aly]]** — Historiker, Journalist; NS-Forschung; "Hitlers Volksstaat"; Täterforschung
@@ -190,6 +194,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## I
 
 **[[DenkerVita/Immanuel Kant|Immanuel Kant]]** — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, "Was ist Aufklärung?"
+
+**[[DenkerVita/Ingrid Brodnig|Ingrid Brodnig]]** — Österreichische Journalistin und Autorin, Digital-Expertin; Enthemmung als Plattform-Design, Frauenhass als Verdrängungsstrategie, generationenspezifische Desinformation und der Werkzeugkasten zum Kontern (*Hass im Netz*, *Feindbild Frau*)
 
 **[[DenkerVita/Isabell Lorey|Isabell Lorey]]** — Politikwissenschaftlerin, Professorin Queer Studies KHM Köln; Prekarisierung als Regierungstechnik, Immunisierung als Herrschaftslogik, Sorgebeziehungen als Gegenentwurf
 
@@ -256,6 +262,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Leonie Heims|Leonie Heims]]** — Kommunikations- und Sprachwissenschaftlerin, wissenschaftliche Mitarbeiterin bei modus | zad; Verschwörungserzählungen, Desinformation, Souveränismus/„Reichsbürger“; Aufklärung mit Fakten und Humor (Projekt „Der Fabulant“)
 
 **[[DenkerVita/Leonhard Dobusch|Leonhard Dobusch]]** — Österreichischer Wirtschaftswissenschaftler, Professor für Organisation (Universität Innsbruck); Öffentlich-rechtliche Medien als Demokratie-Infrastruktur, mediale Immunisierung gegen Faschismus, digitale Gemeinschaften und Offenheit als Organisationsprinzip; ZDF-Verwaltungsrat, Co-Founder Momentum Institut; Bert-Donnepp-Preis 2019 für Transparenz im öffentlich-rechtlichen Mediensystem
+
+**[[DenkerVita/Lilith Roska|Lilith Roska]]** — Online-Redakteurin im Social-Media-Team der Arolsen Archives; digitale Erinnerungskultur für ein junges Publikum, Aufklärung über codierte Rechtsextreme-Geschichtsumdeutung (Zahlen, Memes, Emojis)
 
 **[[DenkerVita/Liya Yu|Liya Yu]]** — Politikwissenschaftlerin, neuropolitische Philosophin; Mitbegründerin Neuropolitik; Mentalisierung statt Moralisierung, Dehumanisierung als kognitive Fähigkeit, In-Group-Erweiterung
 
