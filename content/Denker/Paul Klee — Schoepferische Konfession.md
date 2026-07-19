@@ -70,6 +70,7 @@ Und dann, mitten im heiteren Inventar, kippt der Ton für zwei Sätze: „Vor de
 ### Im Anfang die Tat — darüber die Idee
 
 ![[assets/Klee-Zwitscher-Maschine-1922.jpg|500]]
+
 *Paul Klee, „Die Zwitscher-Maschine" (1922) — 1937 als „entartet" beschlagnahmt und in der Münchner Ausstellung gezeigt, 1939 vom NS-Staat an den Kunsthandel verkauft; heute im MoMA, New York. (Gemeinfrei)*
 
 In Abschnitt III verteidigt Klee die Elemente gegen ihre eigene Auflösung: Ein Werk soll nicht aus lauter Elementen *bestehen*, aber die Elemente sollen sich in den Formen „nicht opfern — sich selber bewahrend". Und dann hebt der Text zum ersten Mal ins Metaphysische ab, mit einem Satz, der Goethe und Luther zugleich antwortet: *„Im Anfang ist wohl die Tat, aber darüber liegt die Idee. Und da die Unendlichkeit keinen bestimmten Anfang hat, sondern kreisartig anfanglos ist, so mag die Idee für primär gelten."* (Abschnitt III)
@@ -87,6 +88,10 @@ Und der Betrachter? Klee zitiert Feuerbach: Zum Verstehen eines Bildes gehöre e
 
 ### Das Böse als mitschaffende Kraft
 
+![[assets/Klee-Gespensterzimmer-1925.jpg|420]]
+
+*Paul Klee, „Geisterzimmer mit der Hohen Türe (neue Fassung)" (1925) — das Gespensterzimmer-Motiv hing 1937 in der Schandausstellung; diese Fassung heute im Metropolitan Museum, New York. (Gemeinfrei)*
+
 Abschnitt V ist der gewagteste. Die neue Kunst, schreibt Klee, macht „die Realität der sichtbaren Dinge offenbar" und drückt dabei den Glauben aus, „daß das Sichtbare im Verhältnis zum Weltganzen nur isoliertes Beispiel ist, und daß andere Wahrheiten latent in der Überzahl sind". Und dann: *„Das Böse soll nicht triumphierender oder beschämender Feind sein, sondern am Ganzen mitschaffende Kraft."* (Abschnitt V) Urmännlich (bös, erregend, leidenschaftlich) und Urweiblich (gut, wachsend, gelassen) zugleich — „als Zustand ethischer Stabilität". Jede Energie erheischt ihr Complement, damit ein Zustand entsteht, der „über dem Spiel der Kräfte" ruht. Am Ende steht ein „formaler Kosmos", der der großen Schöpfung so ähnlich ist, „daß ein Hauch genügt", ihn religiös werden zu lassen.
 
 Das ist — ohne dass Klee das Wort kennte — reinstes dialogisches Denken: zwei gegensätzliche Kräfte, die einander nicht aufheben, sondern brauchen. Kein Triumph des Guten, keine Beschämung des Bösen, sondern Gleichgewicht als ethischer Zustand. Wer verstehen will, warum in Klees Bildern das Dämonische und das Heitere ununterscheidbar nebeneinander wohnen, findet hier den Bauplan.
@@ -100,6 +105,7 @@ Das relativistische Weltbild, die Systemtheorie, die Ökologie: 1920 stehen sie 
 ### 19. Juli 1937: Der Sichtbarmacher wird unsichtbar gemacht
 
 ![[assets/Klee-Sumpflegende-1919.jpg|600]]
+
 *Paul Klee, „Sumpflegende" (1919) — hing 1937 in der „Entartete Kunst"-Ausstellung im Dada-Spott-Saal; nach jahrzehntelangem Restitutionsstreit heute im Lenbachhaus München. (Gemeinfrei)*
 
 Siebzehn Jahre nach der Konfession hing die Sumpflegende in München an einer Wand, deren Beschriftung sie lächerlich machen sollte. 17 Klee-Werke zeigte die Schandausstellung, 102 beschlagnahmte der Staat aus öffentlichen Sammlungen; die Zwitscher-Maschine wurde 1939 über den Kunsthändler Buchholz nach New York verkauft — Devisen für das Regime, das sie verachtete. Klee selbst war da längst weg: 1933 aus der Düsseldorfer Professur entlassen, nach Bern emigriert, von der unheilbaren Sklerodermie gezeichnet. Verhöhnt wurde er ausgerechnet für seine Nähe zur Kinderzeichnung und zur Kunst von Psychiatrie-Patienten — also für den Ernst, mit dem er das Einfache als Erkenntnisweg nahm.
@@ -128,7 +134,8 @@ Dann wird der Text, der als Grammatik der Linie begann, zur Einladung: Schätze 
 
 > [!success] Bestätigt — Klee in der „Entartete Kunst"-Ausstellung
 > 17 Klee-Werke wurden in der Münchner Ausstellung (Eröffnung 19.07.1937, Hofgartenarkaden, 650 Werke von 112 Künstlern) gezeigt; 102 Werke wurden aus deutschen öffentlichen Sammlungen beschlagnahmt. Die „Sumpflegende" (1919) hing im Dada-Spott-Bereich; nach jahrzehntelangem Restitutionsstreit (26 Jahre) 2017 verglichen, heute Lenbachhaus München.
-> Quelle: [V&A — Entartete Kunst inventory](https://www.vam.ac.uk/articles/entartete-kunst-the-nazis-inventory-of-degenerate-art) · [Artnet — Sumpflegende-Vergleich](https://news.artnet.com/art-world/nazi-looted-paul-klee-settlement-1033238)
+> Neben Sumpflegende und Zwitscher-Maschine sind u. a. auch „Der Angler" (1921) und das „Gespensterzimmer mit der hohen Türe" (1925) als in München gezeigt dokumentiert.
+> Quelle: [V&A — Entartete Kunst inventory](https://www.vam.ac.uk/articles/entartete-kunst-the-nazis-inventory-of-degenerate-art) · [Artnet — Sumpflegende-Vergleich](https://news.artnet.com/art-world/nazi-looted-paul-klee-settlement-1033238) · [USHMM — Paul Klee](https://encyclopedia.ushmm.org/content/en/article/paul-klee)
 
 > [!success] Bestätigt — Provenienz der „Zwitscher-Maschine"
 > 1923 von der Nationalgalerie Berlin erworben, 1937 als „entartet" entfernt und in der Münchner Ausstellung gezeigt, 1939 über Karl Buchholz/Curt Valentin nach New York verkauft, am 14.10.1939 vom MoMA erworben.
