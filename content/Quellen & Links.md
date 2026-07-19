@@ -218,6 +218,15 @@ tags:
 | **Fund via** | /kairos (Malala Day) + /sepia (PeerTube-Mirror, diler.tube) |
 | **Transkript** | `Gedankenwelten/Transkripte/Malala_Girls_Education_TED_Transkript.txt` |
 
+## Koschi Politik — ICE-Schütze in Maine identifiziert & Salgado-Drogen-Frame (2026)
+
+| | |
+|---|---|
+| **Video** | [Breaking NEWS: ICE Schütze in Maine psychisch krank & Skandal in Austin!](https://www.youtube.com/watch?v=GOerDY4RsFw) |
+| **Spur** | [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit]] (Sweep 19.07.2026) |
+| **DenkerVita** | [[DenkerVita/Manuel Koschi Politik]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Koschi_ICE_Maine_Austin_Transkript.txt` |
+
 ## Koschi Politik — ICE erschießt Joan Sebastián Guerrero (2026)
 
 | | |
