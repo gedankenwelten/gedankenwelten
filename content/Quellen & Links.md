@@ -6,6 +6,34 @@ tags:
   - links
 ---
 
+## Ingrid Brodnig — Gegenstrategien zum Frauenhass (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag** | [re:publica 26: Ingrid Brodnig – Gegenstrategien zum Frauenhass](https://www.youtube.com/watch?v=9t143ZjxNHQ) |
+| **Notiz** | [[Ingrid Brodnig — Gegenstrategien zum Frauenhass]] |
+| **DenkerVita** | [[DenkerVita/Ingrid Brodnig]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Brodnig_Frauenhass_Transkript.txt` |
+
+## Arolsen Archives — Zahlen, Memes, Emojis (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag** | [re:publica 26: Wie Rechtsextreme Geschichte auf Social Media umdeuten](https://www.youtube.com/watch?v=DwCDRlstETI) |
+| **Notiz** | [[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]] |
+| **DenkerVitas** | [[DenkerVita/Gina Wiedemann]] · [[DenkerVita/Lilith Roska]] |
+| **271k-Faktencheck** | [Arolsen Archives](https://arolsen-archives.org/en/news/fact-check-this-document-does-not-relativize-the-holocaust/) |
+| **Transkript** | `Gedankenwelten/Transkripte/TikTok_Geschichtsumdeutung_Transkript.txt` |
+
+## Kimberlé Crenshaw — Jung & Naiv 830
+
+| | |
+|---|---|
+| **Interview** | [Kimberlé Crenshaw (Critical Race Theory) — Jung & Naiv: Episode 830](https://www.youtube.com/watch?v=nHs3mbCnURM) |
+| **Notiz** | [[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory]] |
+| **DenkerVita** | [[DenkerVita/Kimberle Crenshaw]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Crenshaw_JungNaiv_Transkript.txt` |
+
 ## Akala — Oxford Union (Black History)
 
 | | |

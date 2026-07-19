@@ -356,3 +356,11 @@ Beide analysieren denselben neuen Faschismus: Redecker philosophisch über Eigen
 - [[Zeitgeist/Wendy Brown - Wie Neoliberalismus die Demokratie bedroht]] — Brown liefert die strukturelle Ursache für das, was Redecker als neuen Faschismus beschreibt: Die neoliberale Zersetzung des demokratischen Imaginären (demos → Konsument) schafft das Vakuum, in das Phantombesitz-Ressentiment fließt. Redeckers Diagnose ist ohne Browns Vorarbeit unvollständig — und Browns Theorie bleibt abstrakt ohne Redeckers Analyse der politischen Konsequenz.
 - [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung]] — Redeckers „Phantombesitz“ und die „Rücknahme der Nachkriegsordnung“ sind die Denkfigur hinter Theveßens Reportage vom McKinley/Monroe-Revisionismus (Grönland „ist unser Territorium“, die Hemisphäre als wieder durchgesetzte Einflusssphäre). Dieselbe imperiale Besitzlogik, einmal begrifflich freigelegt, einmal auf der Landkarte beobachtet.
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — dieselbe Kerndefinition, aber im Streitgespräch: Skenderovic hält Redeckers Trump-Benennung den Prozessbegriff der Faschisierung entgegen; die Sternstunde zeigt, wie die These sich unter Widerspruch schärft.
+
+---
+
+## Verbindungen
+
+### → [[Ingrid Brodnig — Gegenstrategien zum Frauenhass]]
+
+Konkretisiert Redeckers „Zugriff auf Frauenkörper als Machtdekor“ am digitalen Fall: Grok, Meta und die Trump-Allianz als heutige Form der Playboy-Verbrüderung.

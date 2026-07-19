@@ -212,3 +212,7 @@ GCA kartiert die externe Bedrohung (Milliardäre kaufen Redaktionen — Orbán/K
 ### → [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]]
 
 Die konkurrierende Erklärung: Wo hier der Medien-Bias über Eigentumskonzentration erklärt wird, verortet Johnson ihn bewusst in der journalistischen Norm selbst — auch ein Medium ohne Milliardärs-Eigentümer setzt die Sicht der Mächtigen als neutrale Mitte.
+
+### → [[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory|Kimberlé Crenshaw — Intersektionalität und Critical Race Theory]]
+
+Crenshaw liefert die Theorie hinter den Medienkäufen: Wer eine Gesellschaft rückwärts umbauen will, muss den Konsent kaufen — nicht Rendite, sondern Reichweite ins Bewusstsein.

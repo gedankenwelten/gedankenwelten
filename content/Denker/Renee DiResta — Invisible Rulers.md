@@ -425,3 +425,7 @@ Das institutionelle Gegenstück zur dezentralen Crowd-Propaganda: Johnson zeigt,
 ### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird]]
 
 Der philosophische Überbau zu DiRestas Springfield-Befund: „Kein einziger Akteur muss lügen wollen, es gibt keine zentrale Schuld" ist exakt die Herrenlosigkeit, die der leere Turm zur These macht. Wo DiResta zeigt, dass Propaganda ohne Drahtzieher entsteht, verallgemeinert die Note den Mechanismus zur Verantwortungs-Entsorgung — und nennt das Gegengift: das Urteil behalten, milliardenfach klein.
+
+### → [[Ingrid Brodnig — Gegenstrategien zum Frauenhass]]
+
+Überträgt DiRestas „kein einziger Akteur muss lügen wollen“ auf die Misogynie: Auch Frauenhass wirkt als Mechanismus ohne bewusste Absicht, was klassisches Schuldstrafrecht ins Leere laufen lässt.

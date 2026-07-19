@@ -223,8 +223,11 @@ Cusicanquis „symbolischer Mehrwert", den Eliten aus indigener Kultur ziehen, i
 
 Wilkersons „Rasse ist die brillante Ablenkung" und Mbembes Auflösung der Rassengrenzen greifen ineinander: Beide behandeln Rasse als jüngere, gemachte Kategorie, nicht als Naturgesetz. Mbembe setzt fort, wo Wilkerson endet — nach der Diagnose der Teilung die Frage der Reparatur, des „being with others". Ihr Graben, der beide festhält, ist seine planetarische Verflechtung, negativ gewendet.
 
----
+### → [[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory|Kimberlé Crenshaw — Intersektionalität und Critical Race Theory]]
 
+Crenshaw denkt dieselbe strukturelle Ungleichheit juristisch als Intersektionalität, wo Wilkerson sie als Kaste denkt: Beide zeigen, dass Diskriminierung ohne Vorsatz und unterhalb des Bewusstseins wirkt.
+
+---
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

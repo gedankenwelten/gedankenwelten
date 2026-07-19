@@ -297,8 +297,11 @@ Dog Whistles setzen einen Empfänger voraus, der hören will — und Fromms auto
 
 Die Agartha-Sphäre führt das Dog-Whistle-Prinzip in seine Meme-Endstufe: Die Tarnung ist nicht mehr ein Codewort, sondern der Witz selbst — „It's not that deep" macht plausible deniability zum Community-Immunsystem, das seine eigenen Verbreiter nicht einweihen muss.
 
----
+### → [[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]
 
+Dasselbe Dog-Whistle-Prinzip von derselben re:publica, angewandt auf die deutsche NS-Erinnerung und aus der Praxis des täglichen Community-Managements: wie man einen Code entwaffnet, ohne seine Reichweite zu füttern.
+
+---
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -1,7 +1,7 @@
 ---
 title: "Gekaperte Zeichen"
 date: 2026-07-03
-aktualisiert: 2026-07-03
+aktualisiert: 2026-07-19
 description: "Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel."
 tags:
   - panorama
@@ -138,3 +138,5 @@ Akala liefert die koloniale Vorgeschichte der Zeichen-Kaperung: abgeschlagene St
 > - Die ADL listet die Geste und betont zugleich, dass fast alle Verwendungen harmlos sind — *kann eine Warnung vor einem Code den Code stärker machen als der Code selbst? Wo liegt die Verantwortung derer, die Symbole katalogisieren?*
 > - Beim arglosen Träger wird der eigene Körper zum Kontext des Zeichens — dieselbe Geste liest sich an verschiedenen Menschen verschieden. *Welche Gesten, Worte, Zeichen trägt man selbst unbefangen, die für andere Körper längst riskant sind?*
 > - Wenn eine winzige, gewalttätige Minderheit die Lesart einer Milliarde kippen kann — *ist die Öffentlichkeit dann Opfer der Kaperung, oder ihr wichtigster Komplize?*
+
+- [[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]] — Die Kaperung in Echtzeit aus der Kommentarspalte: Herzogs einsamer Pinguin und das Kugelschreiber-Emoji werden zu rechten Codes, während die 271k-Zahl ein echtes Opferdokument gegen die Opfer wendet.
