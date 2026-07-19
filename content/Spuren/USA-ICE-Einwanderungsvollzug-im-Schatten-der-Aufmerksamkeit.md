@@ -437,6 +437,14 @@ läuft weiter, sobald die Aufmerksamkeit weiterzieht.
 
 Das ideologische Fundament, auf dem der Vollzug ruht.
 
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Liya Yu — Dehumanisierung und Rehumanisierung]]
+
+Die neurowissenschaftliche Unterseite des Sprachbefunds vom 19.07.: Wenn die offizielle Darstellung
+Menschen durchgehend „aliens" nennt — Wesen, die nicht zu dieser Welt gehören —, ist das genau die
+Wahrnehmungsoperation, die Yu beschreibt: Dehumanisierung als abschaltbare Mentalisierung, sprachlich
+vorbereitet, bevor geschossen wird. Und Musils Beineberg ([[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless|Törleß]])
+hat die Formel dafür schon 1906: die „bloße äffende Ähnlichkeit" des Anderen.
+
 ## Quellen
 
 - [American Immigration Council — Immigration Detention Is Harsher and Less Accountable Than Ever (2026)](https://www.americanimmigrationcouncil.org/press-release/report-trump-immigration-detention-2026/)
