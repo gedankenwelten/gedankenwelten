@@ -9,10 +9,10 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 77%
+konfidenz: 78%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-07-15
+aktualisiert: 2026-07-19
 description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung."
 ---
 
@@ -54,6 +54,78 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 **Kalt, wenn:** Politikwechsel beendet das Thema ohne neue Daten.
 
 ## Verlauf
+
+### 2026-07-19 — Die Täter-Ebene wird sichtbar: Brouillette und die Salgado-Umdeutung (Konfidenz 77 % → 78 %)
+
+**Befund:** Drei Entwicklungen binnen einer Woche, alle zu bereits dokumentierten Fällen:
+
+*Erstens — der Maine-Schütze ist identifiziert, gegen den Willen der Behörde.* AP und Portland Press
+Herald identifizierten den Todesschützen von Biddeford als **David Brouillette, 37**, bei ICE erst
+seit Ende 2025. Die AP-Recherche, gestützt auf Familiengerichts-, Polizei- und Militärakten sowie
+zwei Ex-Frauen und die 18-jährige Tochter: schwere bipolare Störung seit der Kindheit (plus ADHS,
+zwei Suizidversuche mit 12), jahrelang dokumentierte häusliche Gewalt (kochendes Wasser auf die
+Ex-Frau, die das Baby hielt; Würgen; 2022 Polizei/Jugendamt, nachdem er die 13-jährige Tochter durch
+einen Glastisch warf), Drohanrufe bis November 2025. Die Army lehnte ihn zunächst wegen der
+psychiatrischen Diagnosen ab — angenommen wurde er, nachdem er auf Anraten eines Rekrutierers seine
+Bipolar-Medikamente etwa ein Jahr absetzte. 2021 Kopfverletzung durch einen Stahlträger; vor Gericht
+gab er selbst „cognitive deficits" an (CNN). Eine Ex-Frau berichtet von rassistischen Überzeugungen
+(Spitzname „White Boy David"). Nach dem Schuss rief er die Ex-Frau an und bat sie, öffentlich für
+seinen Charakter zu sprechen; der Tochter gestand er den Schuss am Telefon. Keine seiner
+Law-Enforcement-Stationen (Nationalgarde, Gefängnis, VA-Polizei) hielt länger als etwa ein Jahr.
+Rep. Bennie Thompson (Ranking Member Homeland Security): Der Fall stelle „das angebliche Vetting
+und Training von ICE direkt in Frage". *(Stille Korrektur: Das Opfer heißt vollständig
+**Johan Sebastián Durán Guerrero**, nicht „Joan".)*
+[AP/PBS](https://www.pbs.org/newshour/nation/ap-report-ice-officer-in-maine-shooting-has-history-of-violent-behavior-family-and-records-say) ·
+[Press Herald](https://www.pressherald.com/2026/07/16/ice-agent-who-shot-man-in-biddeford-identified-as-former-maine-law-enforcement-officer/) ·
+[CNN](https://www.cnn.com/2026/07/18/us/david-brouillette-injuries-ice-maine-shooting-invs) ·
+[NPR](https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette) ·
+[Boston Globe](https://www.bostonglobe.com/2026/07/18/metro/ice-agent-second-ex-wife/)
+
+*Zweitens — in Houston zerfällt die Notwehr-Version und wird durch eine Opfer-Umdeutung ersetzt.*
+US Attorney **Aaron Reitz** (Southern District of Texas) legte am 16.07. die neue offizielle Version
+vor: Vom ursprünglichen DHS-Narrativ, Salgado habe den ICE-SUV gerammt, ist keine Rede mehr (AP: die
+Offenlegung „complicates the government's earlier claim") — jetzt heißt es, ein Beamter sei
+„teilweise im Van" gewesen, als dieser rückwärts und vorwärts fuhr. Zugleich der neue Rahmen:
+Beamte hätten „in plain view" Tütchen mit weißer kristalliner Substanz gesehen; ein nachträglicher
+FBI-Durchsuchungsbeschluss (14.07., Affidavit: „consistent with methamphetamine") lief unter
+Drogenhandels-Verdacht. Der Familienanwalt: Es sei grobes Salz — selbstgemischte Elektrolyte für
+Bauarbeit in der Texas-Hitze. Harris County DA **Sean Teare**: „Based on what we've learned about
+the passengers, it's inconsistent that drugs were in the van." Ein Laborergebnis lag zum Zeitpunkt
+der Pressekonferenz nicht vor — der Drogen-Frame wurde vor der Prüfung öffentlich gesetzt.
+[Texas Tribune](https://www.texastribune.org/2026/07/16/texas-houston-ice-shooting-fbi-search-warrant-lorenzo-salgado-araujo/) ·
+[KSAT/AP](https://www.ksat.com/news/texas/2026/07/18/a-texas-prosecutor-reveals-new-details-in-an-ice-killing-of-a-houston-father/) ·
+[NBC](https://www.nbcnews.com/news/us-news/houston-ice-fatal-ice-shooting-fbi-search-warrant-drugs-salt-rcna587821) ·
+[ABC13](https://abc13.com/post/deadly-houston-ice-shooting-harris-county-da-says-inconsistent-drugs-found-lorenzo-salgado-araujos-van/19520834/)
+
+*Drittens — die Führung erklärt die Eskalation zum Programm.* DHS-Secretary **Markwayne Mullin**,
+auf die Frage, wie er nach zwei Toten in einer Woche Rechenschaft sicherstellen wolle: „When I say
+turn down the temperature, I mean with you guys [der Presse] — we're turning up the heat on the
+streets." AOC nennt die beiden Tötungen gegenüber MeidasTouch „criminal" und einen „abuse of power".
+[Forbes](https://www.forbes.com/sites/saradorn/2026/07/17/ice-is-turning-up-the-heat-on-the-streets-despite-recent-killings-dhs-secretary-says/) ·
+[MeidasTouch](https://meidasnews.com/news/exclusive-aoc-on-ice-killings-in-maine-and-texas)
+
+**Deutung:** Das Muster bekommt eine neue Ebene: Erstmals ist die *Täter*-Seite eines Falls
+durchleuchtet — und der Befund trifft die Institution, nicht nur den Mann. Einer, den das
+Army-Vetting zunächst aussortierte und den die eigene Familie seit Jahren für waffenungeeignet
+erklärt, ging durch die ICE-Rekrutierungswelle 2025 durch. Parallel die zweite Bewegung, die das
+Drehbuch vervollständigt: Wo die Notwehr-Erzählung zerfällt (das Rammen ist aus der offiziellen
+Version verschwunden), wird nachträglich das *Opfer* umgedeutet — der Drogen-Verdacht wurde vor
+jedem Laborergebnis in die Öffentlichkeit gesetzt. Die Sprache trägt die Umdeutung mit: In Reitz'
+offizieller Darstellung heißen die vier Männer im Van durchgehend „the aliens", „noncompliant
+aliens" — der Getötete kommt als Rechtsperson kaum vor, als Mensch gar nicht. Und die Spitze des
+Hauses beantwortet die Rechenschaftsfrage offen mit Eskalationsansage. Konfidenz nur +1: Beides stützt vor allem das
+Fahrzeug-Muster und die Straflosigkeits-Lesart, nicht den Unsichtbarkeits-Kern der These — diese
+Fälle sind gerade maximal sichtbar.
+
+**Gegenbeobachtung (Pflicht):** Die Identifizierung Brouillettes ist selbst ein Beleg *gegen* die
+hergestellte Dunkelheit: Die freie Presse (AP, Press Herald, Globe, NPR, CNN, WaPo) lieferte binnen
+drei Tagen, was die Behörde verweigerte, und die Kongress-Aufsicht reagiert. Brouillette ist zudem
+n=1 — ein Einzelfall belegt kein systemisches Vetting-Versagen, und Army wie Nationalgarde nahmen
+ihn seinerzeit ebenfalls. In Houston ist die Substanz-Frage ehrlich offen: Der FBI-Affidavit ist
+ein reguläres Ermittlungsinstrument, „consistent with meth" eine übliche Vorab-Formel — bestätigt
+das Labor Drogen, ist der „Umdeutungs"-Vorwurf zu revidieren und gehört das hier so prominent hin
+wie der Befund. Und DA Teare, der der Drogen-These widerspricht, ist ein gewählter Lokalpolitiker
+mit eigener Interessenlage gegenüber dem Bund.
 
 ### 2026-07-15 — Tiefen-Sweep: die unsichtbaren Toten (Konfidenz 74 % → 77 %)
 
@@ -244,7 +316,7 @@ Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur ei
 | 07.01.2026 | Minneapolis | Renée Good | US-Bürgerin | — | nein | „Fahrzeug als Waffe" / Notwehr |
 | 24.01.2026 | Minneapolis | Alex Pretti | US-Bürger | — | nein | „Fahrzeug als Waffe" / Notwehr |
 | 07.07.2026 | Houston | Lorenzo Salgado | 35 J. im Land, U-Visa-Verfahren | **nein** (Van-Verwechslung) | nein | „Fahrzeug als Waffe" / Notwehr |
-| 13.07.2026 | Biddeford, Maine | Joan Sebastian Guerrero | arbeitsberechtigt, SSN | **nein** (DHS räumt es ein) | nein | **„öffentliche Sicherheit"** |
+| 13.07.2026 | Biddeford, Maine | Johan Sebastián Durán Guerrero | arbeitsberechtigt, SSN | **nein** (DHS räumt es ein) | nein | **„öffentliche Sicherheit"** |
 
 **Was sich über die Fälle abzeichnet:**
 
@@ -262,6 +334,15 @@ Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur ei
    Beweislast des ganzen Musters.
 5. **Bisher null strafrechtliche Konsequenz** (Stand 15.07.2026) — im einzigen abgeschlossenen
    Verfahren (Martinez) lehnte die Grand Jury die Anklage ab, *trotz* widersprechender Bodycam.
+6. **Die Gegen-Erzählung über das Opfer** *(ergänzt 19.07.2026)*. Wenn die Notwehr-Version zerfällt
+   (Houston: das „Rammen" ist aus der offiziellen Darstellung verschwunden), wird das Opfer
+   nachträglich umgedeutet — Drogen-Frame vor jedem Laborergebnis. Die Rechtfertigung wandert von
+   der Situation („er griff an") zur Person („er war ohnehin kriminell").
+7. **Das Vetting als Vorstufe des Musters** *(ergänzt 19.07.2026)*. Der erste identifizierte Schütze
+   (Brouillette, Maine) trägt eine aktenkundige Geschichte aus schwerer psychischer Erkrankung,
+   häuslicher Gewalt und Rassismus-Vorwürfen — vom Army-Vetting einst aussortiert, von der
+   ICE-Rekrutierungswelle 2025 durchgewunken. n=1, aber die erste Innenansicht dessen, *wer* in
+   diesen Situationen den Abzug zieht.
 
 **Die zweite Ebene: das Dunkelfeld der indirekten Tode.** Neben den Erschossenen gibt es eine Klasse
 von Toten, die in keiner DHS-Rechnung als „durch ICE" auftaucht und fast nur lokal berichtet wird:
@@ -280,6 +361,33 @@ auch ohne Radikalisierung seltene Extremereignisse. Die Dunkelfeld-Zählungen (I
 sind advocacy-nah und kategorien-mischend — hier zählen nur die sauber getrennten Register. Das
 Muster wird erst beweiskräftig, wenn Frequenz und Begründungsdrift sich über weitere Fälle halten.
 Genau dafür steht dieser Abschnitt.
+
+## Stimmenspektrum
+
+*Angelegt 19.07.2026. Das betroffene Land ist hier die USA selbst — statt Länder-Ringen gilt die
+Perspektivmatrix dem **innenpolitischen Medienspektrum**: Wer nimmt das Thema auf, und was macht
+die regierungsnahe Seite daraus? Denn die zweite Frage der Spur ist, ob die staatlichen
+Institutionen Transparenz herstellen oder verschleiern — und die Medien-Ringe zeigen, wer ihnen
+dabei auf die Finger schaut und wer die Verschleierung weiterreicht.*
+
+**Zum Befund vom 19.07. (Brouillette-Identifizierung & Salgado-Drogen-Frame):**
+
+| Ring | Wer (Provenienz) | Was sie daraus machen |
+|---|---|---|
+| **Agentur / Lokal** | AP, Portland Press Herald, Texas Tribune, ABC13 (Nachrichtenagentur & Lokalredaktionen) | Die eigentliche Aufklärungsarbeit: AP identifiziert den Schützen *gegen* die Behörde, mit Akten; die Lokalpresse trägt die Widersprüche (Bodycams, Van-Verwechslung, Substanz-Streit) |
+| **Liberal / Mainstream** | CNN, NPR, WaPo, Boston Globe (Konzernmedien, Trump-kritisch) | Vertiefung: Kopfverletzung 2021, zweite Ex-Frau, Vetting-Systemfrage — der Fall wird zur Institutionenkritik |
+| **Progressive Advocacy** | MeidasTouch (Anti-Trump-Netzwerk, aus Anwaltsfamilie Meiselas) | Zuspitzung zur Anklage: AOC-Exklusiv („criminal", „abuse of power"); Reichweitenmotor für die Empörung — advocacy-gefärbt, aber quellennah |
+| **Konservativ — institutionell** | Fox News, Washington Examiner (Murdoch bzw. konservatives Establishment) | Überraschend faktentreu: Fox trägt „victim was not target" (mit dem Detail, dass **Mullin Senator King zuerst das Gegenteil sagte** und zurückrufen musste) und die fehlenden Bodycams; der Examiner: „DHS's claims under scrutiny". Nach dem 787-Mio.-Dominion-Vergleich sichtbar vorsichtiger geworden |
+| **MAGA-Kern** | Breitbart, Daily Wire, Newsmax (Bannon-Erbe / Shapiro / Trump-nah) | Der Täter-Frame wandert in die Schlagzeile: „Vehicle Assault on ICE Officer", „DOJ: Drugs Found in Van of Illegal Alien", „Mexican ‚Father' Had Meth In His Van" (Anführungszeichen um *Father*); DA Teare wird als „Soros-Funded" delegitimiert. **Die AP-Recherche zu Brouillettes Akte findet hier nicht statt** — die Täter-Ebene bleibt unberichtet |
+
+**Lesart:** Das Spektrum ist nicht binär, sondern dreistufig. Die Aufklärung leistet die Agentur-
+und Lokalebene; der konservativ-institutionelle Ring *transportiert* ihre härtesten Fakten
+(King/Mullin, Bodycams) — ein Riss zwischen Fox und der Regierungslinie, den es 2025 so kaum gab;
+nur der MAGA-Kern übernimmt die behördliche Gegen-Erzählung vollständig und ergänzt sie um eigene
+Delegitimierung (Soros-Frame). Für die Transparenz-Frage der Spur heißt das: Die Verschleierung
+funktioniert derzeit **nicht flächendeckend** — sie braucht den MAGA-Kern als Verstärker, und
+selbst der schreibt noch „alleged". Wachpunkt für den nächsten Sweep: Ob der Fox-Riss hält oder
+sich wieder schließt.
 
 ## Gleichmut-Spiegel
 
@@ -310,6 +418,13 @@ Genau dafür steht dieser Abschnitt.
 >   das ist eine unserer vorregistrierten Schwächungs-Bedingungen und wird ab jetzt in jedem Sweep
 >   zuerst geprüft, nicht zuletzt. Wachpunkt: Wenn der Rückgang im Herbst anhält, muss die
 >   Konfidenz *runter*, auch wenn die Einzelfälle weiter empören.
+> - **19.07.2026:** Brouillettes Akte (bipolar, Gewalt, Rassismus-Vorwürfe) ist erzählerisch fast zu
+>   passgenau — genau deshalb doppelt geprüft (AP-Aktenlage, nicht nur Familienaussagen) und der
+>   Reflex vermieden, aus einem Schützen ein System zu machen: n=1 steht ausdrücklich in Muster-Punkt 7.
+>   Beim Drogen-Frame in Houston die Versuchung, „Salz" schon als Fakt zu führen — es ist die
+>   Anwalts-Version; das Laborergebnis entscheidet, und ein Drogen-Befund würde hier prominent
+>   nachgetragen. Konfidenz nur +1, weil beide Entwicklungen die *sichtbarste* Zone der Spur
+>   betreffen — der Unsichtbarkeits-Kern bekommt diese Woche keinen neuen Beleg.
 
 ## Verbindungen
 
@@ -362,6 +477,20 @@ Das ideologische Fundament, auf dem der Vollzug ruht.
 - [Amnesty — Torture and Enforced Disappearances in the Sunshine State](https://www.amnestyusa.org/reports/torture-and-enforced-disappearances-in-the-sunshine-state-human-rights-violations-at-alligator-alcatraz-and-krome-in-florida/) · [PBS — Alligator Alcatraz geräumt](https://www.pbs.org/newshour/politics/all-detainees-from-immigration-facility-alligator-alcatraz-have-been-transferred) · [Snopes — „1.200 off the grid"-Behauptung](https://www.snopes.com/news/2026/02/02/1200-detainees-disappeared-claim/)
 - [El País — Mexiko bringt ICE-Todesfälle vor Gericht](https://elpais.com/mexico/2026-07-09/mexico-abandona-la-via-diplomatica-y-lleva-a-los-tribunales-estadounidenses-los-casos-de-los-mexicanos-muertos-a-manos-de-ice.html)
 - [TRAC — Detention Quick Facts (60.311 am 04.04.2026)](https://tracreports.org/immigration/quickfacts/)
+
+*Eintrag 19.07.2026 (Brouillette & Salgado-Umdeutung):*
+
+- [Koschi Politik — ICE Schütze in Maine psychisch krank & Skandal in Austin (19.07.2026)](https://www.youtube.com/watch?v=GOerDY4RsFw) — Anlass des Sweeps
+- [AP/PBS — ICE officer in Maine shooting has history of violent behavior, family and records say](https://www.pbs.org/newshour/nation/ap-report-ice-officer-in-maine-shooting-has-history-of-violent-behavior-family-and-records-say) — die zentrale AP-Recherche
+- [Portland Press Herald — ICE agent identified as former Maine law enforcement officer](https://www.pressherald.com/2026/07/16/ice-agent-who-shot-man-in-biddeford-identified-as-former-maine-law-enforcement-officer/) · [CNN — 2021 head injury, „cognitive deficits"](https://www.cnn.com/2026/07/18/us/david-brouillette-injuries-ice-maine-shooting-invs) · [NPR — Rassismus- und Gewaltvorwürfe der Ex-Frau](https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette) · [Boston Globe — die zweite Ex-Frau](https://www.bostonglobe.com/2026/07/18/metro/ice-agent-second-ex-wife/) · [Washington Post — Vetting-Fragen](https://www.washingtonpost.com/immigration/2026/07/18/ice-officers-troubled-past-renews-vetting-questions-after-maine-shooting/)
+- [Texas Tribune — Tests will find if men in Houston ICE shooting had drugs or salt](https://www.texastribune.org/2026/07/16/texas-houston-ice-shooting-fbi-search-warrant-lorenzo-salgado-araujo/) · [KSAT/AP — Reitz' neue Version, Rammen entfällt](https://www.ksat.com/news/texas/2026/07/18/a-texas-prosecutor-reveals-new-details-in-an-ice-killing-of-a-houston-father/) · [NBC — Familienanwalt: Substanz ist Salz](https://www.nbcnews.com/news/us-news/houston-ice-fatal-ice-shooting-fbi-search-warrant-drugs-salt-rcna587821) · [ABC13 — DA Teare: „inconsistent that drugs"](https://abc13.com/post/deadly-houston-ice-shooting-harris-county-da-says-inconsistent-drugs-found-lorenzo-salgado-araujos-van/19520834/)
+- [Forbes — Mullin: „turning up the heat on the streets"](https://www.forbes.com/sites/saradorn/2026/07/17/ice-is-turning-up-the-heat-on-the-streets-despite-recent-killings-dhs-secretary-says/) · [MeidasTouch — AOC on ICE Killings in Maine and Texas](https://meidasnews.com/news/exclusive-aoc-on-ice-killings-in-maine-and-texas)
+
+*Stimmenspektrum 19.07.2026:*
+
+- [Fox News — Maine ICE shooting victim was not target, Sen. King's office says after earlier DHS account](https://www.foxnews.com/us/maine-ice-shooting-victim-not-target-arrest-warrant-sen-kings-office-says-earlier-dhs-account) · [Fox News — ICE agents in fatal Houston shooting were not wearing body cameras](https://www.foxnews.com/us/ice-agents-fatal-houston-shooting-not-wearing-body-cameras)
+- [Washington Examiner — DHS's claims surrounding fatal ICE shooting in TX under scrutiny](https://www.washingtonexaminer.com/news/crime/4643671/dhs-scrutiny-fatal-ice-shooting-lorenzo-salgado-araujo-houston/)
+- [Breitbart — DOJ: Drugs Found in Van of Illegal Alien Shot by ICE Officer](https://www.breitbart.com/border/2026/07/17/doj-drugs-found-in-van-of-illegal-alien-shot-by-ice-officer-in-houston/) · [Breitbart — Soros-Funded Texas District Attorney Announces Investigation](https://www.breitbart.com/border/2026/07/13/soros-funded-texas-district-attorney-announces-investigation-into-fatal-ice-shooting-in-houston/) · [Daily Wire — Mexican ‚Father' Shot Dead By ICE Had Meth In His Van, Feds Believe](https://www.dailywire.com/news/suspected-meth-found-in-van-of-mexican-driver-fatally-shot-by-ice-feds-say)
 
 
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
