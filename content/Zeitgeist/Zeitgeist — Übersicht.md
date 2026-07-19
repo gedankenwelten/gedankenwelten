@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*268 Notes — automatisch generiert · nach Thema sortiert*
+*270 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -66,6 +66,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Arlie Hochschild — Stolen Pride|Arlie Hochschild — Stolen Pride: Scham, Verlust und der Aufstieg der Rechten]] — Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt.
 - [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte|Arnd Henze — Bonhoeffer und die Neue Rechte]]
 - [[Zeitgeist/Semsrott — Zur Gegenmacht|Arne Semsrott — Zur Gegenmacht]]
+- [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]] — Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
 - [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Bernhard Pörksen und Maja Göpel — Debatte NEU DENKEN]]
 - [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
 - [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk taz — Wird die Meinungsfreiheit zu sehr eingeschränkt?]]
@@ -296,6 +297,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Heiner Flassbeck — Die Wahrheit ueber Staatsschulden|Heiner Flassbeck — Die Wahrheit über Staatsschulden]]
 - [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit|Heiner Flassbeck — Merz' Rentenlüge und globale Ungleichheit]]
 - [[Zeitgeist/Heiner Flassbeck — Nachfragekrise und Schuldenlogik|Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
+- [[Zeitgeist/Ingrid Brodnig — Gegenstrategien zum Frauenhass|Ingrid Brodnig — Gegenstrategien zum Frauenhass]] — Frauenhass im Netz ist kein Gefühl, sondern ein Mechanismus: Wie digitale Gewalt Frauen auf ihren Platz verweist — und was Einzelne, Öffentlichkeit und die EU dagegen tun können.
 - [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]] — „Früher bauten wir CPUs für Menschen, jetzt für KI-Agenten“ — wie Nvidia den PC-Markt destabilisiert und dann die teure Lösung verkauft.
 - [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Maja Göpel & Achim Truger — Wachstum NEU DENKEN]]
 - [[Zeitgeist/Mark Benecke — Fragerunde Time Is Up 2026|Mark Benecke — Fragerunde: Time Is Up 2026]]

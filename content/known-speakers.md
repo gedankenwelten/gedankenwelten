@@ -851,3 +851,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Sham Jaff
 **Status:** ✓ Vollanalyse — [[DenkerVita/Sham Jaff]]
+
+## Paul Klee
+**Status:** ✓ Vollanalyse — [[DenkerVita/Paul Klee]]

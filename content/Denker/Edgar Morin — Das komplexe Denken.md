@@ -193,6 +193,10 @@ Shivas *oikos* als gemeinsame Wurzel von Ökonomie und Ökologie spiegelt Morins
 
 Das komplexe Denken im Laboralltag: Kornmeiers „Ich glaube nichts, halte aber alles für möglich" hält zwei entgegengesetzte Logiken zusammen, ohne sie aufzulösen — Absage an die Esoterik und Absage an die Zunft in einem Satz. Sein Gegenstück zu Morins „Respekt vor dem Mysterium" ist eine Anekdote: ein Genetik-Professor, der mit voller Autorität erklärte, ein Säugetier lasse sich nicht klonen — kurz bevor Dolly geboren wurde.
 
+### → [[Paul Klee — Schoepferische Konfession]]
+
+Klees Satz „Das Böse soll nicht triumphierender Feind sein, sondern am Ganzen mitschaffende Kraft“ (1920) ist das *principe dialogique* in Bildersprache — zwei gegensätzliche Kräfte, die einander brauchen statt sich aufzuheben, Jahrzehnte vor Morins Begriff.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
