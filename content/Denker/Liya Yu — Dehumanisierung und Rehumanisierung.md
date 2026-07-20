@@ -157,6 +157,10 @@ Utopie ist für Yu nichts Naturgegebenes, sondern etwas, das noch nicht existier
 
 ## Verbindungen
 
+### → [[Mats Appreciated — Fluchtgeschichten am Mauerweg]]
+
+Der Rehumanisierungs-Fall zur Theorie: Westberliner eilen ans Spreeufer und ziehen wildfremde DDR-Flüchtlinge heraus — der Fremde als Mensch gerahmt, das Gegenbild zur NS-Propaganda vom „gefährlichen Verbrecher" in der Wagner-Note.
+
 ### → [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
 
 Der historische Ernstfall der Dehumanisierung: Die NS-Propaganda vom „gefährlichen Verbrecher" machte die Bevölkerung zum wirksamsten Lagerzaun — Flüchtige wurden zu Tausenden ausgeliefert, Todesmärsche aus den Dörfern weitergetrieben. Wagner zieht die Linie zum heutigen Migrations-Framing.

@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Mats Appreciated — Fluchtgeschichten am Mauerweg
+
+| | |
+|---|---|
+| **Video** | [Ich habe nach guten Nachrichten gesucht – und Unglaubliches gefunden](https://www.youtube.com/watch?v=cgh9gIY67qA) |
+| **Notiz** | [[Mats Appreciated — Fluchtgeschichten am Mauerweg]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Mats_Mauerweg_Transkript.txt` |
+| **Weg** | [Berliner Mauerweg](https://www.berlin.de/mauer/mauerweg/) |
+
 ## aspekte — Warum niemand die Nazis aufhielt (ZDF)
 
 | | |

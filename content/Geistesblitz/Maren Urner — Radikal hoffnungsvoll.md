@@ -232,6 +232,10 @@ Hoffnung ist in diesem Licht das Gegenprogramm zur maschinellen Logik: kreativ, 
 
 ## Verbindungen
 
+### → [[Mats Appreciated — Fluchtgeschichten am Mauerweg]]
+
+Urners These in Reportageform: Mats diagnostiziert denselben Negativitätsbias („Hoffnungslosigkeit ist oft ein Wahrnehmungsfehler") und beantwortet ihn mit Urners Rezept — nicht Wegsehen, sondern genaueres Hinsehen, hier entlang der Berliner Mauer.
+
 ### → [[Denker/Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung|Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Mädchenbildung]]
 
 Derselbe Gedanke, einmal gelebt, einmal neurowissenschaftlich erklärt: Malalas „Hoffnung ist keine Stimmung, sondern eine Gelegenheit zur Veränderung" ist fast wörtlich Urners *Hope Theory* nach C. R. Snyder (Willenskraft + Wegkraft, ein erlernbarer Denkmodus, nicht Optimismus). Malalas „Gefühl der Dringlichkeit, das alle zum Handeln zwingt", ist Urners Wegkraft in Aktion — gelebte Haltung trifft ihre kognitive Erklärung.

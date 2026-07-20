@@ -233,6 +233,10 @@ Das Schlussbild: Zivilgesellschaftliches Engagement nicht als Bürgerpflicht ver
 
 ## Verbindungen
 
+### → [[Mats Appreciated — Fluchtgeschichten am Mauerweg]]
+
+Solidarität als helle, ansteckende Praxis: Fast jeder Gerettete am Mauerweg wurde selbst Fluchthelfer — Dankbarkeit, die handelt, als historischer Beleg für Semsrotts These vom Engagement aus Freude statt Pflicht.
+
 ### → [[aspekte — Warum niemand die Nazis aufhielt]]
 
 Die historische Begründung für Gegenmacht: Wenn Skandalisierung nachweislich nicht entzaubert (Ruchs „Machtschock" 1930), bleibt organisierte Zivilgesellschaft — die Doku endet genau an der Leerstelle, die Semsrott füllt.
