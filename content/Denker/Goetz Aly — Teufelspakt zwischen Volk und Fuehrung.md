@@ -210,6 +210,14 @@ Alys Rat ist konservativ im besten Sinne: Die liberale Mitte stärken, eigene Fe
 
 ## Verbindungen
 
+### → [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
+
+Die lokale Nahaufnahme des Teufelspakts: Weimar lebte nicht neben, sondern mit und vom Lager — Bauaufträge, Topf & Söhne, SS-Sold in den Gastwirtschaften, erpresste „Sühneleistung" der Juden als Finanzquelle.
+
+### → [[aspekte — Warum niemand die Nazis aufhielt]]
+
+Die Doku bringt die Volksstaat-These im Miniaturformat: geheimer Reichshaushalt ab 1934, soziale Wohltaten auf Pump — Loyalität als erkauftes Schweigen, hier als Fernseh-Erzählung.
+
 ### → [[Götz Aly — Wie konnte das geschehen]]
 
 Dasselbe Buch, andere Perspektive. Die bestehende Note dokumentiert Alys Vortrag am DHI Heidelberg — konzentriert, strukturiert, in Vortragsform. Dieses Interview bei Jung & Naiv ist das Gegenstück: fast fünf Stunden direktes Gespräch, in dem Tilo Jung nachhakt, provoziert und Aly zum Weiterdenken zwingt. Die Kernthesen sind identisch, aber hier kommen die Nuancen: das Chemie-Modell, die KPD-Kritik, die persönliche Geschichte des Vaters, die Warnung vor westlicher Überheblichkeit. Zusammen ergeben beide Notes ein Gesamtbild von Alys Lebenswerk.

@@ -151,6 +151,14 @@ Auf die Schlussfrage nach dem Inner-Circle-Reiz von Verschwörungserzählungen �
 
 ## Verbindungen
 
+### → [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
+
+Der Gedenkstätten-Direktor zur selben Front: Wagner benennt die drei Strategien der Umdeutung (Verharmlosen, Täter-Opfer-Umkehr, „die Nazis waren links"), erklärt die Rheinwiesenlager- und Bergen-Belsen-Legenden — und warum Revisionismus die Erfolgsbedingung der Rechten ist.
+
+### → [[aspekte — Warum niemand die Nazis aufhielt]]
+
+Die Gegenbewegung zur Umdeutung: Täterfamilien-Recherche (Christina Strunk), sprechende Steine (Nürnberg), offene Wunden (Goebbels-Haus) — Erinnerungsarbeit als aktive Verteidigung des Feldes, das Rechtsextreme kapern wollen.
+
 ### → [[Gekaperte Zeichen]]
 
 Das Panorama liefert die Mechanik, die diese Note am Einzelfall vorführt: Ein Zeichen gehört dem, der es am sichtbarsten benutzt — Pinguin und Kugelschreiber-Emoji sind exakt solche gekaperten Zeichen, frisch aus der Kommentarspalte. Und die Gegenregel „Kontext entscheidet" ist die Rückeroberungs-Richtung, die das Panorama als „keine Einbahnstraße" beschreibt.

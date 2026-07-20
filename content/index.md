@@ -24,25 +24,23 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
-> **19.07.** — [[Zeitgeist/Ingrid Brodnig — Gegenstrategien zum Frauenhass|Ingrid Brodnig — Gegenstrategien zum Frauenhass]]
+> **20.07.** — [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]]
 >
-> Frauenhass im Netz ist kein Gefühl, sondern ein Mechanismus: Wie digitale Gewalt Frauen auf ihren Platz verweist — und was Einzelne, Öffentlichkeit und die EU dagegen tun können.
+> Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
 
-> **19.07.** — [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]
+> **20.07.** — [[Zeitgeist/Jens-Christian Wagner — Buchenwald und deutsche Erinnerung|Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
 >
-> Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
+> Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist.
 
-> **17.07.** — [[Zeitgeist/WDR Europaforum — Out of order Voelkerrecht|WDR Europaforum — Out of order? Wenn das Völkerrecht den Bach runtergeht]]
+> **20.07.** — [[Zeitgeist/aspekte — Warum niemand die Nazis aufhielt|aspekte — Warum niemand die Nazis aufhielt]]
 >
-> Drei Stimmen über die angebliche neue Weltunordnung: Für wen die Welt nie in Ordnung war, warum das Völkerrecht trotzdem täglich lebt — und wieso das Schweigen der Bundesregierung gefährlicher ist als jeder Rechtsbruch.
+> Wie eine Splitterpartei legal eine Republik zerlegte — und warum Skandale sie nicht aufhielten. Eine Reise zu den steinernen Zeugen, am Gedenktag des 20. Juli.
 
-> **17.07.** — [[Zeitgeist/KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat|KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
->
-> Das FBI bestätigt Schulungsvideos zur Schwärzung von Trumps Namen — und lässt die Gerichtsfrist verstreichen. Zwei Journalistinnen zwingen die Vertuschung ans Licht, Paragraf für Paragraf.
+> **20.07.** — [[Zeitgeist/Semsrott — Zur Gegenmacht|Arne Semsrott — Zur Gegenmacht]]
 
-> **17.07.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
+> **20.07.** — [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte|Arnd Henze — Bonhoeffer und die Neue Rechte]]
 
-> → *16 weitere in* [[Zeitgeist]]
+> → *20 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -64,7 +62,7 @@ Die Gedankenwelten (luc)
 >
 > Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
 
-> → *13 weitere in* [[Denker]]
+> → *11 weitere in* [[Denker]]
 
 ### Panorama
 

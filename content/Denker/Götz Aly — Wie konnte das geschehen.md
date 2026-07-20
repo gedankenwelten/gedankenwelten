@@ -224,7 +224,17 @@ Die Niederlage, von der sich die meisten Deutschen nicht befreit *fühlten* (sie
 
 ---
 
-## Verbindungen in der Gedankenwelt
+## Verbindungen
+
+### → [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
+
+Der Buchenwald-Direktor bestätigt Alys Diagnose vom Ort des Verbrechens aus: öffentliche Verbrechen vor der Haustür, die Gesellschaft als wirksamster Zaun gegen fliehende Häftlinge, die Entlastungserzählungen beider deutscher Staaten.
+
+### → [[aspekte — Warum niemand die Nazis aufhielt]]
+
+Die ZDF-Doku (Tagesnote zum 20. Juli 2026) mit Aly als rotem Faden — die Verbrechensgemeinschaft, das „Alles, fast alles"-Wissen und die Selbstzerlegung der Mitte, erzählt an den Orten: Garnisonfriedhof, Nürnberg, Goebbels-Haus.
+
+ in der Gedankenwelt
 
 ### → [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
 Beide Notes fragen nach den Ermöglichungsbedingungen von Systemverbrechen durch "normale" Akteure. Aly historisch-kollektiv für den Holocaust; diese Note strukturell-biographisch für gegenwärtige Machtfiguren. Die methodologische Grundfrage — Erklären ohne Entschuldigen — steht in beiden im Zentrum.

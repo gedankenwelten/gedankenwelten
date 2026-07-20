@@ -157,6 +157,10 @@ Utopie ist für Yu nichts Naturgegebenes, sondern etwas, das noch nicht existier
 
 ## Verbindungen
 
+### → [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
+
+Der historische Ernstfall der Dehumanisierung: Die NS-Propaganda vom „gefährlichen Verbrecher" machte die Bevölkerung zum wirksamsten Lagerzaun — Flüchtige wurden zu Tausenden ausgeliefert, Todesmärsche aus den Dörfern weitergetrieben. Wagner zieht die Linie zum heutigen Migrations-Framing.
+
 ### → [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral]]
 
 Die Schwester-Note aus dem Standard-Gespräch: dieselbe Theorie im Dialogformat, mit Fokus auf die Grenzen des Moraldiskurses. Der Utopie-Vortrag geht einen Schritt weiter — von der Diagnose zur Strategie, von der Kritik zur Rehumanisierung als Programm.

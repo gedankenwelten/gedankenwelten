@@ -1,6 +1,6 @@
 ---
 title: "Arnd Henze — Bonhoeffer und die Neue Rechte"
-aktualisiert: 2026-07-13
+aktualisiert: 2026-07-20
 date: 30.06.2021
 tags:
   - zeitgeist
@@ -276,6 +276,14 @@ Die Kirche darf — und soll — scharf sein. Aber die Haltung, aus der heraus d
 ---
 
 ## Verbindungen
+
+### → [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
+
+Dieselbe Front, andere Flanke: Henze verteidigt die Widerstandsfiguren gegen ihre Kaperung, Wagner die Orte und Fakten gegen ihre Umdeutung (Schlössers SS-Gedenken statt KZ-Befreiung). Beide Tagesnotes zum 20. Juli 2026.
+
+### → [[aspekte — Warum niemand die Nazis aufhielt]]
+
+Die Tagesnote zum 20. Juli 2026 zeigt die andere Seite der Kirchengeschichte: die Erpressung der Katholiken über die Gestapo-Sittlichkeitsprozesse und das eifrige NSDAP-Wählen der Protestanten — der Boden, auf dem Bonhoeffers Widerstand die Ausnahme blieb.
 
 ### → [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]]
 

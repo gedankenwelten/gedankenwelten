@@ -202,6 +202,14 @@ Musk ließ Wikipedia von Grok umschreiben zu *„Grokipedia"* — mit verfälsch
 
 ## Verbindungen
 
+### → [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
+
+Die historische Materialbasis zu Kempers Höcke-Analyse: Wagner spiegelt die völkische Aufladung der AfD (Blut-Staatsangehörigkeit, „Vergangenheitsbewältigung als Grundübel", Bauhaus-Feindschaft) an den Völkischen der Zehner- und Zwanzigerjahre.
+
+### → [[aspekte — Warum niemand die Nazis aufhielt]]
+
+Der Kontrapunkt: Götz Aly bremst darin den Alarmismus („AfD keine Nachfolgepartei der NSDAP") und besteht auf den Unterschieden — gegen Kempers geschärften Faschismusbegriff gelesen, eine produktive Reibung.
+
 ### → [[Zeitgeist/Annette Dittert — Dear Britain]]
 Ditterts „zwei Stammeslogiken: archaisch + Tech" decken sich mit Kempers Diagnose eines Bündnisses aus völkischem Affekt und kühler Plattformmacht (Technofaschismus).
 

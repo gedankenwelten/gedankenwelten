@@ -178,6 +178,13 @@ Der Mensch hat die Kontrolle über seine Schöpfungen verloren — oder genauer:
 
 ## Verbindungen
 
+### → [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
+
+Die empirische Täterforschung zu Fromms Tiefenpsychologie: Browning (10 % verweigerten folgenlos), Milgram, Selbstobjektivierung, arbeitsteilige Täterschaft — Wagner zeigt, wie „ganz normale Männer" ohne Befehlsnotstand mordeten.
+
+### → [[aspekte — Warum niemand die Nazis aufhielt]]
+
+Die strukturelle Seite zu Fromms seelischer: Weltwirtschaftskrise, zerfallende Mitte und Ruchs „Machtschock" (Faschismus wird durch Erfolg attraktiv) — die Doku zeigt, worauf Fromms Autoritätsbegehren historisch traf.
 
 ### → [[Pankaj Mishra — Zeitalter des Zorns]]
 
