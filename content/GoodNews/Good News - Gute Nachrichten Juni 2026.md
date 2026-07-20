@@ -252,6 +252,10 @@ Am eindrücklichsten ist Burkina Faso: Dort fielen die Malaria-Todesfälle bei K
 
 ## Verbindungen
 
+### → [[Mats Appreciated — Fluchtgeschichten am Mauerweg]]
+
+Dieselbe Grundgeste als Langform: Statt gesammelter Meldungen eine einzige Reportage-Recherche am Mauerweg — sieben Fluchtgeschichten als Beleg, dass das Gute nicht selten ist, nur seltener erzählt wird.
+
 ### → [[Good News - Gute Nachrichten Mai 2026]]
 
 Direkte Fortsetzung der Monatsserie. Der Energiewende-Strang zieht sich durch: Wo Mai den IEA-Push und Amsterdams Werbeverbot zeigte, zeigt Juni die gekippte Bilanz (Erneuerbare decken das gesamte Nachfragewachstum) und die Geothermie als neue Grundlast-Säule. Im Längsschnitt wird sichtbar, dass die Energiewende das wiederkehrende Leitmotiv jeder Ausgabe ist.

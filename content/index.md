@@ -40,7 +40,7 @@ Die Gedankenwelten (luc)
 
 > **20.07.** — [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte|Arnd Henze — Bonhoeffer und die Neue Rechte]]
 
-> → *20 weitere in* [[Zeitgeist]]
+> → *21 weitere in* [[Zeitgeist]]
 
 ### Denker
 

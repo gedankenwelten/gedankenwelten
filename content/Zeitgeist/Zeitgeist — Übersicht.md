@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*270 Notes — automatisch generiert · nach Thema sortiert*
+*272 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -67,6 +67,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte|Arnd Henze — Bonhoeffer und die Neue Rechte]]
 - [[Zeitgeist/Semsrott — Zur Gegenmacht|Arne Semsrott — Zur Gegenmacht]]
 - [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]] — Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
+- [[Zeitgeist/aspekte — Warum niemand die Nazis aufhielt|aspekte — Warum niemand die Nazis aufhielt]] — Wie eine Splitterpartei legal eine Republik zerlegte — und warum Skandale sie nicht aufhielten. Eine Reise zu den steinernen Zeugen, am Gedenktag des 20. Juli.
 - [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Bernhard Pörksen und Maja Göpel — Debatte NEU DENKEN]]
 - [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
 - [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk taz — Wird die Meinungsfreiheit zu sehr eingeschränkt?]]
@@ -113,6 +114,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie|Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 - [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert|IT Mario — 40.000 Bundestagsreden analysiert: Welche Partei ist wirklich gefährlich?]]
 - [[Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa|Ivan Krastev — Wie zukunftsfähig ist Europa?]]
+- [[Zeitgeist/Jens-Christian Wagner — Buchenwald und deutsche Erinnerung|Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]] — Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist.
 - [[Zeitgeist/Julie Pagis — Psychologie der charismatischen Kontrolle|Julie Pagis — Zwischen Politik und Sekte: Die Psychologie der Kontrolle]]
 - [[Zeitgeist/Jung und Naiv — 1 Jahr Kanzler Merz|Jung & Naiv — 1 Jahr Kanzler Merz]]
 - [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten prägt]]

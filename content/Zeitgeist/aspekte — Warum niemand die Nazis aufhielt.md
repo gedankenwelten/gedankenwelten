@@ -202,6 +202,10 @@ Der Schluss des Films verweigert die Lehrformel ausdrücklich: „Wir können ni
 
 ## Verbindungen
 
+### → [[Mats Appreciated — Fluchtgeschichten am Mauerweg]]
+
+Das helle Drittel des Tages-Triptychons zum 20. Juli: Nach Untätigkeit (aspekte) und Auslieferung (Wagner) die tätige Solidarität — gelungene DDR-Fluchten entlang des Mauerwegs, erzählt an unmarkierten Orten.
+
 ### → [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
 
 Die Schwester-Tagesnote zum 20. Juli: Was die Doku an Orten und Familien durchbuchstabiert, vertieft der Buchenwald-Direktor systematisch — die Gesellschaft als wirksamster Zaun, die Entlastungserzählungen beider deutscher Staaten und der Geschichtsrevisionismus als Erfolgsbedingung der heutigen Rechten.

@@ -112,6 +112,10 @@ Koschi führt den Wandel auf die verstörenden Bilder von ICE-Einsätzen zurück
 
 ## Verbindungen
 
+### → [[Mats Appreciated — Fluchtgeschichten am Mauerweg]]
+
+Gute-Nachrichten-Verwandte mit tieferer Verbindung: Der Mauerweg zeigt historisch, wie die Erzählung über Fliehende über Rettung oder Auslieferung entscheidet — der Meinungswandel zur Immigration ist dieselbe Erzählung im Heute.
+
 ### → [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
 
 Das dunkle Gegenstück: Während hier die Bremsen greifen (Gerichte, öffentliche Meinung), zeigt der Fall Salgado, was der Apparat anrichtet, solange Sichtbarkeit noch keine Konsequenzen erzeugt.

@@ -220,6 +220,10 @@ Und falls die AfD in Thüringen regiert? Wagner erwartet keine Schließung über
 
 ## Verbindungen
 
+### → [[Mats Appreciated — Fluchtgeschichten am Mauerweg]]
+
+Das helle Gegenstück am selben Gedenktag: Wo hier die Bevölkerung der wirksamste Lagerzaun war, ziehen am Mauerweg eine Generation später Fremde Flüchtende aus der Spree, graben Studenten Tunnel für Unbekannte. Dieselbe Menschennatur, eine andere Erzählung über die Fliehenden.
+
 ### → [[aspekte — Warum niemand die Nazis aufhielt]]
 
 Die Schwester-Tagesnote zum 20. Juli: Beide fragen nach dem Versagen der vielen statt nach dem Handeln der wenigen. Wo aspekte zeigt, wie eine Splitterpartei legal eine Republik zerlegte und Skandale sie nicht stoppten, liefert Wagner die Fortsetzung — die Gesellschaft, die noch im April 1945 fliehende Häftlinge selbst auslieferte.
