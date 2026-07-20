@@ -720,6 +720,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Volker Quaschning
 **Status:** ✓ Vollanalyse → [[DenkerVita/Volker Quaschning]]
 
+## Jens-Christian Wagner
+**Status:** ✓ Vollanalyse → [[DenkerVita/Jens-Christian Wagner]]
+
 ## Walther Ziegler
 **Status:** ✓ Vollanalyse → [[DenkerVita/Walther Ziegler]]
 

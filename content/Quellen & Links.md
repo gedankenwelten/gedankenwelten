@@ -6,6 +6,25 @@ tags:
   - links
 ---
 
+## aspekte — Warum niemand die Nazis aufhielt (ZDF)
+
+| | |
+|---|---|
+| **Doku** | [Warum niemand die Nazis aufhielt \| aspekte](https://www.youtube.com/watch?v=wzGQoVdEuEk) |
+| **Notiz** | [[aspekte — Warum niemand die Nazis aufhielt]] |
+| **DenkerVita** | [[DenkerVita/Götz Aly]] |
+| **Transkript** | `Gedankenwelten/Transkripte/aspekte_Nazis_aufhielt_Transkript.txt` |
+
+## Jens-Christian Wagner — Buchenwald (Marcant Podcast)
+
+| | |
+|---|---|
+| **Podcast** | [Das weiß fast niemand über BUCHENWALD…](https://www.youtube.com/watch?v=cj3_gPxifPk) |
+| **Notiz** | [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]] |
+| **DenkerVita** | [[DenkerVita/Jens-Christian Wagner]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Wagner_Buchenwald_Transkript.txt` |
+| **Projekt** | [Geschichte statt Mythen](https://www.geschichte-statt-mythen.de/) |
+
 ## Paul Klee — Schöpferische Konfession (Primärtext)
 
 | | |

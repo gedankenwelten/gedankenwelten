@@ -101,3 +101,4 @@ Er ist kein Linker, kein Konservativer, kein Liberaler im parteipolitischen Sinn
 
 - [[Denker/Götz Aly — Wie konnte das geschehen]] — Vortrag DHI Heidelberg, Dez 2025
 - [[Denker/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung]] — Interview Jung & Naiv, Folge 781, Sep 2025
+- [[Zeitgeist/aspekte — Warum niemand die Nazis aufhielt]] — ZDF-aspekte-Doku mit Aly als rotem Faden, Tagesnote zum 20. Juli 2026

@@ -1,7 +1,7 @@
 ---
 title: "Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt"
 date: 23.06.2026
-aktualisiert: 23.06.2026
+aktualisiert: 20.07.2026
 description: "Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt."
 tags:
   - zeitgeist
@@ -150,6 +150,10 @@ Die eigentliche Gefahr für die Demokratie ist hier nicht die Radikalisierung, s
 ---
 
 ## Verbindungen
+
+### → [[aspekte — Warum niemand die Nazis aufhielt]]
+
+Philipp Ruch belegt darin historisch, was Oettings Ausgangspunkt ist: Skandale haben der NSDAP „kein Haar gekrümmt" — Aufdecken allein entzaubert nicht. Die Doku liefert die historische Evidenz für Oettings Strategiewechsel.
 
 ### → [[Martin Oetting — Happy Planet Index 2026]]
 

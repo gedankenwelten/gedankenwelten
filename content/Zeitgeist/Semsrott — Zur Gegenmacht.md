@@ -1,6 +1,6 @@
 ---
 title: "Arne Semsrott — Zur Gegenmacht"
-aktualisiert: 2026-05-20
+aktualisiert: 2026-07-20
 date: 20.05.2026
 tags:
   - zeitgeist
@@ -232,6 +232,10 @@ Das Schlussbild: Zivilgesellschaftliches Engagement nicht als Bürgerpflicht ver
 ---
 
 ## Verbindungen
+
+### → [[aspekte — Warum niemand die Nazis aufhielt]]
+
+Die historische Begründung für Gegenmacht: Wenn Skandalisierung nachweislich nicht entzaubert (Ruchs „Machtschock" 1930), bleibt organisierte Zivilgesellschaft — die Doku endet genau an der Leerstelle, die Semsrott füllt.
 
 ### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
 
