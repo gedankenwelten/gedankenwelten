@@ -44,19 +44,11 @@ Die Gedankenwelten (luc)
 
 > → *4 weitere in* [[Zeitgeist]]
 
-### Panorama
-
-> **25.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
->
-> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
-
-> **25.07.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
-
-> **19.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
->
-> Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
-
 ### Denker
+
+> **25.07.** — [[Denker/Andreas Reckwitz — Fortschritt NEU DENKEN|Andreas Reckwitz — Fortschritt NEU DENKEN]]
+>
+> Die Moderne glaubt, es werde besser — und hat darum keine Sprache für das, was verloren geht. Reckwitz sucht einen Fortschritt, der den Verlust mitdenkt.
 
 > **19.07.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
 >
@@ -72,11 +64,23 @@ Die Gedankenwelten (luc)
 >
 > Zimbabwe ist kein armes Land — die Armut wurde hergestellt, als Waffe. Tsitsi Dangarembga über den Kolonialismus in den Köpfen und Wohlsein als Gegenentwurf zur Utopie.
 
-> **18.07.** — [[Denker/Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman — Ist der Mensch wirklich gut?]]
->
-> Bregmans empirischer Optimismus: Nicht der Stärkste überlebt, sondern der Freundlichste — und ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung.
+> → *6 weitere in* [[Denker]]
 
-> → *5 weitere in* [[Denker]]
+### Panorama
+
+> **25.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
+>
+> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
+
+> **25.07.** — [[Panorama/Fortschritt|Fortschritt]]
+>
+> Zweieinhalb Jahrhunderte lang war klar, dass es besser wird. Was passiert mit einer Gesellschaft, deren Institutionen auf ein Versprechen gebaut sind, das sie selbst nicht mehr glaubt?
+
+> **25.07.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
+
+> **19.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
+>
+> Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
 
 ### Spuren
 

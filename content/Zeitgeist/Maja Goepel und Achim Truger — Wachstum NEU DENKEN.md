@@ -130,6 +130,10 @@ Ein wichtiger Punkt: Göpel und Truger diskutieren nicht, ob die Wirtschaft „w
 
 ## Verbindungen
 
+### → [[Andreas Reckwitz — Fortschritt NEU DENKEN]]
+
+Die Schwesterfolge derselben Reihe, gegen die Reckwitz argumentiert. Hier wird der Maßstab rekalibriert — Wohlstand jenseits des BIP, Transformation statt Schrumpfung. Dort heißt es: richtig, und nicht genug. Der blinde Fleck liege nicht beim Maßstab, sondern bei dessen Gegenteil, dem Verlust, für den die Moderne keine Sprache hat. Bemerkenswert, dass Göpel in beiden Gesprächen sitzt: Was sie mit Truger als Messproblem verhandelt, wird mit Reckwitz zur Frage, ob ein besserer Index einer Gesellschaft hilft, die etwas begraben muss.
+
 ### → [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
 
 Dieselbe These in schärferer Lage: Göpel argumentiert dort für ein besseres Maß, hier für die Verteidigung dessen, was schon erreicht war. Ihr Befund — der Zugewinn von zwanzig Jahren rutscht weg, nicht widerlegt, sondern aus der Sprache gedrängt.

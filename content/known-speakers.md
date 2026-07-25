@@ -857,3 +857,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Paul Klee
 **Status:** ✓ Vollanalyse — [[DenkerVita/Paul Klee]]
+
+## Andreas Reckwitz
+**Status:** ✓ Vollanalyse — [[DenkerVita/Andreas Reckwitz]]

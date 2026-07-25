@@ -32,6 +32,7 @@ Jedes Panorama folgt diesem Aufbau:
 
 | Thema | Datei | Notes |
 |---|---|---|
+| Fortschritt | [[Fortschritt]] | 29 |
 | Neoliberalismus — Was zählt | [[Neoliberalismus — Was zaehlt]] | 13 |
 | Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |
 | Kaufkraft | [[Kaufkraft]] | 9 |
@@ -40,3 +41,6 @@ Jedes Panorama folgt diesem Aufbau:
 | NoAfD | [[NoAfD]] | 33 |
 | Autoritärer Internationalismus | [[Autoritaerer Internationalismus]] | 38 |
 | Demokratische Wertschöpfung | [[Demokratische Wertschoepfung]] | 8 |
+| Gelebte Demokratie | [[Gelebte Demokratie]] | 24 |
+| Politik — Verstehen | [[Politik - Verstehen]] | 23 |
+| Rechte Medien — das Geschäft mit der Lüge | [[Rechte Medien — Das Geschaeft mit der Luege]] | 17 |

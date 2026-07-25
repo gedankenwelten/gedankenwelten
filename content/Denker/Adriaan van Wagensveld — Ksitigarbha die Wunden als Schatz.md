@@ -187,6 +187,7 @@ Das ist eine freundliche Formulierung für etwas Ernstes: Vipassana als Reinigun
 
 ## Verbindungen
 
+- [[Andreas Reckwitz — Fortschritt NEU DENKEN]] — Reckwitz diagnostiziert, der Moderne fehlten die kulturellen Werkzeuge für den Verlust: Wo sich alles über Verbesserung definiert, bleibt vor der Wunde Sprachlosigkeit. Hier liegt ein solches Werkzeug, ausgearbeitet und in Gebrauch — der Bodhisattva, der in die eigene Hölle absteigt statt sie zu überwinden. Das prüft Reckwitz' Rahmen an seiner Schwachstelle: Er denkt den Verlustumgang als Innovationsaufgabe und damit selbst noch als Fortschritt „auf einer Meta-Ebene", während hier eine Tradition zeigt, dass die Antwort nicht erfunden, sondern zurückgeholt werden müsste.
 - [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Fabian Bernhardt — Ist die Rache der Ursprung der Moral?]] — Die kontemplative Umkehrung von Bernhardts Befund: Dieselbe Verletzung, aus der die Rache entspringt, wird hier zum Tor des Mitgefühls statt zum Ausgangspunkt der Vergeltung — die Wunde als Schatz, nicht als Vergeltungsschuld. Ergänzt Bernhardts Vergeben-Versöhnen-Motiv um eine gelebte Praxis.
 - [[Vipassana — Anatta]] — Die Unterscheidung "Ich bin wütend" vs. "Wut wird wahrgenommen im Wahrnehmungsfeld" ist Anatta in Praxis: Adriaan beschreibt exakt das Auflösen der Ich-Identifikation durch Satipatthana-Witnessing.
 - [[Vipassana — Dukkha]] — Adriaans Kernthese ("Wunden als Schatz") ist eine Antwort auf Dukkha, die über Goenkas Diagnose hinausgeht: Leiden als Brücke statt als Feind.

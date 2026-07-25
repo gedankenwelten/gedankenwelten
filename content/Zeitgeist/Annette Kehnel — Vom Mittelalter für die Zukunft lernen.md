@@ -246,6 +246,10 @@ Kulturen der Verdrängung zahlen irgendwann den Preis — manchmal das eigene Le
 
 ## Verbindungen
 
+### → [[Andreas Reckwitz — Fortschritt NEU DENKEN]]
+
+Kehnel beweist Reckwitz' These von der historischen Anomalie des Fortschrittsglaubens von der anderen Seite. Er zeigt, dass vormoderne Gesellschaften Zeit zyklisch oder als Niedergang dachten; sie zeigt, dass das „finstere Mittelalter" im 18. und 19. Jahrhundert erfunden wurde, weil eine Epoche, die sich als Gipfel las, eine dunkle Vorzeit brauchte. Der Fortschrittsglaube schuf sich also seine eigene Kontrastfolie — Self-fulfilling Prophecy nicht nur nach vorn, sondern rückwärts. Und wo Reckwitz beim Diagnostischen bleibt, liefert Kehnel die vormodernen Praktiken (Commons, Kleinkredit, konsensuale Herrschaft), an denen sein eigenes Praxis-Argument ansetzen könnte.
+
 ### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
 
 Kehnels Allmende verlängert van Schaiks „erste Natur" in die historische Zeit: Teilen und egalitäre Ökonomie sind keine Steinzeit-Fossilien, sondern haben mitten in der zweiten Natur (Kultur) überlebt. Ein Beleg dafür, dass van Schaiks „neue Lagerfeuer" nicht bei null anfangen müssten — das Gegenmodell war nie ganz weg.
