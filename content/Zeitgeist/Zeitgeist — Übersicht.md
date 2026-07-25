@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*272 Notes — automatisch generiert · nach Thema sortiert*
+*273 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -134,6 +134,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
 - [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] — Demokratie braucht Öffentlichkeit — doch die gehört inzwischen zwei Konzernen. Martin Andree über Machtverklumpung, erkaufte Rechtsprivilegien und Regulierung als Befreiung.
 - [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]] — Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
+- [[Zeitgeist/Mats Appreciated — Fluchtgeschichten am Mauerweg|Mats Appreciated — Fluchtgeschichten am Mauerweg]] — 160 Kilometer Mauerweg, sieben Fluchtgeschichten voller Mut und Hilfsbereitschaft — und die Erkenntnis, dass unter jedem Gullideckel Hoffnung liegen kann.
 - [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Matthias Quent und Maja Göpel — Extremismus NEU DENKEN]]
 - [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]]
 - [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen|Morpheus — Warum alle chinesische KI nutzen]]

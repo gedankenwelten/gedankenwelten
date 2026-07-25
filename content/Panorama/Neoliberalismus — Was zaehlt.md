@@ -12,7 +12,7 @@ tags:
   - philosophie
   - komplexität
 erstellt: 2026-07-09
-aktualisiert: 2026-07-14
+aktualisiert: 2026-07-25
 ---
 
 # Neoliberalismus — Was zählt
@@ -47,6 +47,8 @@ Dieses Panorama fragt: Was fällt aus dieser Rechnung? Und wer versucht, anders 
 Am schärfsten fasst es [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts|Vandana Shiva]]: Ihre *production boundary* ist die unsichtbare Mauer, die entscheidet, was zählt. 80 % der Welternährung kommen von kleinen Höfen, großenteils aus der Arbeit von Frauen — und werden nicht gezählt, weil sie nicht durch Konzernhände gehen. Dieselbe Grenze, die die bäuerliche Subsistenz verschwinden lässt, lässt auch die Arbeit der Frauen verschwinden. „So wurden Frauen zum zweiten Geschlecht" — nicht weil sie weniger arbeiteten, sondern weil ihre Arbeit außerhalb der Zählgrenze fiel. (→ *andere Maße*)
 
 [[Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Göpel und Truger]] legen dieselbe Wunde am BIP frei: eine Zahl, die Ölkatastrophen und Autounfälle als Wachstum verbucht, weil sie Umsatz erzeugen, aber die intakte Natur und die unbezahlte Sorge als Nichts führt. Und [[NANO Talk — Arbeiten wir zu wenig oder voellig falsch|die NANO-Runde]] dreht die Frage vom Kopf auf die Füße: Arbeiten wir zu wenig — oder zählen wir bloß die falsche Arbeit? Die Care-Arbeit, die jede Gesellschaft trägt, taucht in keiner Produktivitätsstatistik auf. (→ *andere Maße*)
+
+[[Adam Tooze und Maja Goepel — Die Polykrise|Göpel und Tooze]] verschieben die Frage von der Kennzahl auf die **Definitionsmacht über die Kennzahl**. Göpels Satz „Wachstum hat nicht nur eine Höhe, sondern eine Richtung" ist kein neues Maß, sondern die Beobachtung, dass zwanzig Jahre mühsam erkämpfter Zusätze — ökologische und soziale Folgen links und rechts der Zahl — gerade wieder wegrutschen; und dass mit der Sprache die Macht mitwandert, zu bestimmen, was die Wirtschaft der Zukunft sein soll. Zwei Begriffe schärfen die Herrschaft der Kennzahl von innen: Herman Dalys **unökonomisches Wachstum** (das BIP wächst weiter, während die aufgelaufene Schadschöpfung den Zugewinn längst übersteigt — „wir bilanzieren es nur nicht") und Göpels **Regrettables**, die bedauerlichen Ausgaben. Flutaufräumen, Unfälle, Rüstung zählen als Wachstum, obwohl niemand sie sich wünscht — und der eigentliche Griff nach der Zahl besteht darin, sie zum „neuen Wachstumsmotor" oder gar zum nachhaltigen Investment umzudeuten. Tooze legt die historische Rückseite dazu: Der Neoliberalismus war für ihn weniger ein Wirtschaftsprogramm als eine **Verdrängungstechnik** — das Verfahren, mit dem ein in den Siebzigern erstmals sichtbares Krisenbündel für dreißig Jahre zugedeckt wurde. (→ *andere Maße*, *Wurzel*)
 
 ## Was herausfällt — das Unmessbare
 
@@ -104,3 +106,4 @@ Ein Panorama, das nur anklagt, wäre selbst zu billig. Die interessantere Frage:
 | [[Felwine Sarr - Gehoert Afrika die Zukunft]] | Denker | Lösung (économie humaine) |
 | [[Christoph Butterwegge — Armut NEU DENKEN]] | Zeitgeist | Kontext (Armut vermessen) |
 | [[Martin Oetting — Happy Planet Index 2026]] | Zeitgeist | Lösung (das andere Maß, gemessen) |
+| [[Adam Tooze und Maja Goepel — Die Polykrise]] | Zeitgeist | Problem (Definitionsmacht, Regrettables, unökonomisches Wachstum) |

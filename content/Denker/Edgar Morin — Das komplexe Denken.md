@@ -147,6 +147,10 @@ Zugleich der nüchterne Gegenbefund, ohne Trost: *„Jeder technische, wissensch
 
 ## Verbindungen
 
+### → [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
+
+Adam Tooze hält Morin in diesem Talk einen Nachruf und führt den Polykrise-Begriff ausdrücklich auf ihn zurück — Morin starb am 29. Mai 2026 mit 104 Jahren. Zugleich zeigt der Abend die Lücke, die Morin füllt: Tooze nennt Polykrise „eine Problembezeichnung und nicht den Begriff, mit dem man das Problem entziffert“. Genau diese Entzifferung ist das komplexe Denken.
+
 ### → [[Das verwobene Denken — im Geiste Edgar Morins]]
 
 Ein eigener Gedanke, der sich Morins Werkzeuge leiht: Andreas denkt Paradox, Polarisierung und das bewegliche Wir *mit* Morin weiter — dessen Maximen zitiert und gewürdigt, die Schlüsse selbst gezogen. Dort das *Was* (Leben, Werk, Belege), hier ein Denken, das damit arbeitet.

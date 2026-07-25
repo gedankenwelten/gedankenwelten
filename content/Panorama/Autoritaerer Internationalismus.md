@@ -1,7 +1,7 @@
 ---
 title: "Autoritärer Internationalismus — Die globale Rechte"
 date: 2026-04-27
-aktualisiert: 2026-06-23
+aktualisiert: 2026-07-25
 tags:
   - panorama
   - luc
@@ -56,6 +56,8 @@ Dieses Panorama bündelt 30+ Notes, die das Phänomen aus fünf Perspektiven bel
 [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft|Kevin Kühnert]] bringt die politiker-formulierte Variante derselben These — und benennt sie als zentralen Hebel: Extremer Reichtum komme „irgendwann an einen Punkt, an dem die allgemein geltenden Spielregeln ausgeschaltet werden für diese Leute und ein Sondersystem entsteht". Sein Beleg ist dieselbe US-Achse: Musk kauft sich mit Spenden in Trumps Kampagne ein und bekommt „als Gegenleistung seine eigene Behörde" (DOGE); Charlie Kirk und Turning Point USA fahren ihre Kampagnen „aus Spendengeldern sehr reicher Einzelpersonen". Für Kühnert ist das ein Rückfall hinter das Klassenwahlrecht des Kaiserreichs — und der „entscheidende Schlüssel" gegen die autoritär-rechte Entwicklung liege darin, „die Macht von extremreichen Leuten zu beschneiden". Seine Konsequenz ist organisatorisch und antwortet direkt auf Brias Befund der privatisierten Souveränität: Finanzwende als „Greenpeace der Finanzwelt", eine Gegenlobby gegen das große Geld.
 
 [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] vermisst die Mediendimension dieser Souveränität — und liefert die demokratietheoretische Diagnose: Über 60 % der gesamten Öffentlichkeit in Deutschland findet auf digitalen Medien statt, davon 85–90 % der Aufmerksamkeit bei Alphabet und Meta. Was Bria „Authoritarian Stack" nennt, heißt bei Andree „gestapelte Monopolschichten auf öffentlichen Gütern" — Suche, Social Media, Video, Cloud, Transaktionen übereinander, mit Kill-Switch-Macht über ganze Gesellschaften: dieselbe Architektur aus zwei Disziplinen. Andrees „Machtverklumpung" — die mächtigsten Konzerne der Welt verbunden mit der mächtigsten Regierungsmacht — benennt zugleich, was verloren geht: die **Forumshoheit**. Seit der Agora durften Demokratien selbst bestimmen, wie ihre Öffentlichkeit verfasst ist; genau dieses Recht bestreiten die Plattformen Europa, während sie das Wort „Meinungsfreiheit" als Kampfbegriff führen.
+
+[[Adam Tooze und Maja Goepel — Die Polykrise|Maja Göpel]] gibt dieser Architektur ihren ökonomischen Namen: einen **digital-finanziell-militärischen Komplex**, in den USA staatskapitalistisch gestützt. Ihr Beleg ist eine einzige Zahl. Palantir wird mit einem Kurs-Gewinn-Verhältnis von rund 400 bewertet — ein Vielfaches dessen, was Nvidia trägt. „Das kann ich nur haben, wenn alle Leute darauf vertrauen, dass das größte Militär der Welt die Zweifel raushaut oder eben Kunde bleibt." Was der Markt hier bepreist, ist kein Produkt, sondern eine Staatsgarantie: Brias privatisierte Souveränität, in eine Bewertungsprämie übersetzt. Zwei Beobachtungen ergänzen den Stack an seinen Rändern. Erstens die **Zahlungsinfrastruktur als Sanktionswaffe** — die Trump-Administration greift missliebige Richterinnen und Aktivistinnen nicht über Verfahren an, sondern über den Zugang zu ihren Zahlungsdienstleistern; keine Verhaftung, eine Kontosperrung. Zweitens die **Zerstörung von Daten** als juristische Strategie: Wer Umweltdaten löscht, nimmt den Klagen die Beweise, bevor sie erhoben werden können. Göpels Gegenbegriff dazu ist Enrico Lettas „fünfte Freiheit" — der freie Verkehr von Wissen und Daten — verteidigt nicht als Wirtschaftsprogramm, sondern als Bedingung dafür, dass Widerspruch überhaupt begründbar bleibt. Und der Widerstand kommt von unerwarteter Seite: Um die KI-Datencenter herum wächst in den USA eine parteiübergreifende Bewegung, in der Republikaner die Mehrheit der opponierenden Amtsträger stellen.
 
 → [Lösungsansatz ↓](#digitale-souveränität-und-regulierung)
 
@@ -235,6 +237,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]] | Tech · Ideengeschichte Valley→Trump (Rand, Girard, Yarvin) |
 | [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] | Oligarchie · Psychologie der Ultrareichen |
 | [[Adam Tooze — Pentagon vs. Anthropic]] | Tech · KI-Kontrolle und Militär |
+| [[Adam Tooze und Maja Goepel — Die Polykrise]] | Tech · digital-finanziell-militärischer Komplex, Palantir-Bewertung |
 | [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]] | Ideologie · GRT global |
 | [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] | Theorie · Phantombesitz |
 | [[Eva von Redecker — Dieser Drang nach Härte]] | Theorie · Neofaschismus |

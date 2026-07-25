@@ -172,6 +172,10 @@ Bria dokumentiert, wie das Modell bereits nach Europa exportiert wird:
 
 ## Verbindungen
 
+### → [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
+
+Göpel nennt dieselbe Architektur einen digital-finanziell-militärischen Komplex und nähert sich ihr von der Finanzierung statt von der Infrastruktur. Ihr Zusatz zum Stack: Souveränität ließe sich auch durch *Reduktion* von Ressourcenabhängigkeit gewinnen (shallow AI) statt durch Aufholen.
+
 - [[Renee DiResta — Invisible Rulers]] — Bria analysiert die politökonomische Struktur der Tech-Plattformen (Palantir, staatliche Kooperation); DiResta die Propaganda-Mechanik, die auf dieser Struktur operiert: zwei Ebenen desselben Problems
 - [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] — Bria analysiert die tech-politische Machtstruktur von außen (Palantir, Silicon Valley); diese Note liefert die psychologische Innenperspektive der gleichen Akteure (Thiel, Musk). Zusammen: strukturelle Macht + die Charakterformation derer, die sie ausüben.
 - [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] — Mühlhoff referiert Brias Studie als kompakte Version seiner eigenen These; ihre Datenbasis gibt seiner Analyse empirische Tiefe. Sein Konzept der „Desouveränisierung" = Brias „Privatized Sovereignty"

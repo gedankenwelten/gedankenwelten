@@ -215,6 +215,10 @@ Gießmann fügt hinzu: Visa und Mastercard werden das nicht ohne Weiteres tun �
 
 ## Verbindungen
 
+### → [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
+
+Hier die strukturelle Abhängigkeit, dort ihr Ernstfall: Die Trump-Administration greift Richterinnen und Aktivistinnen nicht über Verfahren an, sondern über den Zugang zu ihren Zahlungsdienstleistern. Keine Verhaftung — eine Kontosperrung.
+
 ### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
 
 Konés Warnung vor Daten als neuer Rohstoff-Extraktion, gespiegelt im Zahlungsverkehr — und sein Mobile-Money-Leapfrog (~70 % der globalen Transaktionen) als positives Gegenbild zum europäischen Abhängigkeits-Befund.
