@@ -64,6 +64,14 @@ Zwanzig Jahre lang, sagt Göpel später, sei mühsam erkämpft worden, dass man 
 
 Das ist der Kern ihrer Keynote, und man kann ihn leicht überhören, weil er so unspektakulär daherkommt. Es geht ihr nicht darum, wer welche Politik durchsetzt. Es geht ihr um die Ebene darunter: wer bestimmt, was überhaupt als *ökonomisch* zählt. Wer die Metrik hat, braucht das Argument nicht mehr.
 
+### Was der Risikobericht verrät
+
+[▶ 1:31](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=91) Bevor Göpel argumentiert, zeigt sie eine Rangliste — und benennt zugleich deren Schwäche. Sie nehme gern die Global-Risks-Rankings des World Economic Forum, sagt sie, das sei „eine rein umfragebasierte Erhebung". Kein Messwert also, sondern ein Stimmungsbild. Aber genau darin liegt ihr Wert: Es zeigt, „was eben in der sogenannten Führungsetage weltweit diskutiert wird".
+
+Zwei Bewegungen liest sie daraus ab. Über die letzten acht bis zehn Jahre ist das grüne Thema — im Bericht praktischerweise farbcodiert — auf der Zehn-Jahres-Skala immer weiter nach oben gerutscht. Auf kurze Sicht steht dagegen inzwischen **Geoökonomie** auf Platz eins.
+
+Das ist kein Widerspruch, sondern die Diagnose selbst, und sie erklärt den Rest des Abends. Dieselben Führungsetagen halten die ökologische Verwerfung langfristig für das größte Risiko — und richten ihr kurzfristiges Handeln an einem Begriff aus, der genau in die Gegenrichtung zieht. Was auf zehn Jahre bedrohlich ist, verliert gegen das, was diese Woche zählt. Göpels ganze Keynote ist der Versuch, diese Schere zu schließen, indem sie das Langfristige in die Sprache des Kurzfristigen übersetzt: Sicherheitspolitik, Kreditwürdigkeit, Bilanz.
+
 ### Geoökonomie — ein Begriff mit zwei Vätern
 
 [▶ 2:16](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=136) Göpel beginnt bei einem Wort, das derzeit durch alle Konferenzen getragen wird: Geoökonomie. Es sei nichts Neues, sondern eine erdverbundene Lesart der Ökonomie — vor rund hundert Jahren von zwei Denkern gleichzeitig geprägt, mit identischer Beobachtung und entgegengesetzter Konsequenz.
@@ -154,6 +162,10 @@ Göpel argumentiert nicht gegen deren Notwendigkeit. Sie argumentiert gegen ihre
 
 Das ist eine bemerkenswert erwachsene Position: die Notwendigkeit anerkennen, ohne sie zur Tugend zu erklären. Sie schützt vor beidem — vor der Naivität, die Aufrüstung leugnet, und vor dem Zynismus, der aus ihr ein Geschäftsmodell macht.
 
+[▶ 25:03](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1503) Was an die Stelle träte, benennt sie konkret: Energie, Investitionen und Ressourcen ließen sich in etwas stecken, das ziviles Wohlergehen voranbringt — „anstatt in Dinge, die hoffentlich immer nur rumstehen müssen und, wenn wir sie benutzen müssen, sehr viel Schaden anrichten". Ein Panzer ist im besten Fall totes Kapital; das ist keine pazifistische Aussage, sondern eine buchhalterische. Daraus zieht sie die Regel, die den Abschnitt trägt: *„Wir müssen klar bleiben in den Zahlen und in den Erzählungen, worum es wirklich geht."*
+
+Die Pointe liegt im Wörtchen *bleiben*. Ein Regrettable wird nicht dadurch zum Guten, dass es unvermeidlich ist — es bleibt eine Rechnung, die man lieber nicht hätte. Wer eine Taxonomie so lange umbaut, bis Munition als nachhaltiges Investment gilt, hat nicht die Welt verändert, sondern nur die Buchhaltung. Und genau darin liegt die Brücke zurück zu Göpels Hauptthese: Wer die Kategorien verschiebt, muss den Streit über die Sache nicht mehr führen.
+
 ### Tech for Earth
 
 [▶ 25:48](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1548) Auch beim Produktivitätsbegriff dreht sie die Perspektive. In den US-Tech-Konzernen gebe es Tokenization-Vorgaben: Du musst so viel KI in deinem eigenen Job verwenden wie irgend möglich — erstens, um dich ersetzbar zu machen, zweitens, um die Modelle zu trainieren, die dann deinen Job übernehmen. Was KI verbrauche, sei etwas ganz anderes als das, was IT vorher verbrauchte; für viele Anwendungen reiche *shallow AI*, eine flache, nicht besonders tiefe KI — und Europa könne Souveränität auch durch die Reduktion von Ressourcenabhängigkeit gewinnen statt allein durch Aufholen.
@@ -163,6 +175,31 @@ Das ist eine bemerkenswert erwachsene Position: die Notwendigkeit anerkennen, oh
 [▶ 28:05](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1685) Die europäische Antwort darauf hieße bei ihr *Tech for Earth* — mit Verweis auf den Techforscher W. Brian Arthur die Frage stellen, mit welchen Beobachtungen, welchem Wissen und welchen Phänomenen wir die Zahlen und Erzählungen prägen, auf die hin wir dann Technologien erfinden. Denn Geld, sagt sie, ist auch eine Technologie. Ihr letzter Satz ist unakademisch und sitzt:
 
 > *„Mir bleibt es wirklich ein ganz zentrales Anliegen, dass wir uns nicht durch eine Entkernung der Sprache und auch der Zahlenwerke zunehmend verarschen lassen."*
+
+### Wer bietet den USA die Stirn?
+
+[▶ 28:50](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1730) Nach der Keynote stellt der Moderator die Frage, die alles Vorherige auf den Boden holt: Wie stehen die Chancen, dass *Tech for Earth* von europäischen Akteuren tatsächlich standhaft vertreten wird — und wer sind diese Akteure überhaupt? Wer bietet den USA die Stirn?
+
+[▶ 29:35](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1775) Göpels erste Reaktion ist ein Lachen: „Diese Suche ist gerade voll im Laufen." Dann wird sie präzise. In jedem Sektor gebe es einflussreiche Unternehmen, die es „voll verstanden haben" und nicht zurückwollen — und daneben die, denen es „so ein bisschen total egal" ist, die nur auf Geldwerte schauen und darauf, was auf dem eigenen Konto liegen bleibt. Ihr Problem ist kein Mehrheitsproblem:
+
+> *„Das Problem ist, dass die mit dem ‚ist mir total egal' lauter sind und aggressiver sind."*
+
+[▶ 30:22](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1822) Und sie sind strukturell im Vorteil. Es sind immer noch die etablierten Indikatoren, die gelten; die Modelle der Konjunkturprognosen zeigen ökologische Verwerfungen schlicht nicht an — sie leiten künftige Produktionskapazitäten aus Kapitalbeständen ab, in denen Natur nicht vorkommt. Wer den Status quo will, muss also gar nichts gewinnen. Er muss nur verhindern, dass gerechnet wird.
+
+Daraus folgt für Göpel die Antwort auf die Wer-Frage: Allianzen quer durch die Sektoren und zwischen Wirtschaft, Zivilgesellschaft und Politik. Und ein Warnhinweis, welche Rhetorik man dabei nicht mitspielen darf — *Staat gegen Markt*, *Europa gegen nationale Stärke*. Beides sei „genau die Rhetorik, die im Grunde genommen verhindern soll, dass hier eine Größenordnung an Antwort kommen kann, die einen US-Markt beeindrucken würde". Die Lagerbildung ist nicht das Hindernis auf dem Weg zur Antwort; sie ist der Zweck.
+
+[▶ 31:07](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1867) Dann kommt der Satz, der den ganzen Abend unbequemer macht als jede Analyse davor — und Göpel sagt ihn sichtlich ungern:
+
+> *„Und das ist das Fiese: Wenn du weißt, dass Systemtrends eskalieren, dann braucht es irgendwann den Moment, wo die Friktion tatsächlich so groß wird, dass die Eskalation aufgehalten wird. Das möchte keine politische Figur notwendigerweise herbeiführen — und dann haben wir das Risiko, dass wir immer weitermachen, bis dann eben die Märkte knallen."*
+
+Das ist das Eingeständnis, das ihre eigene Gestaltungshoffnung untergräbt. Wenn Veränderung erst einsetzt, wenn die Reibung groß genug ist, dann arbeitet die Vernunft gegen die Zeit — und niemand mit Amt hat ein Interesse daran, den Bruch zu beschleunigen, der ihn möglich machen würde. Es ist derselbe Riss, den Tooze gleich darauf historisch aufmachen wird, nur von der anderen Seite: Er fragt, warum die richtige Antwort seit dreißig Jahren nicht durchdringt. Sie antwortet, ohne die Frage gehört zu haben — weil erst der Schaden überzeugt.
+
+> [!question] Weitergedacht
+> Wenn Umsteuern erst gelingt, wenn die Friktion groß genug ist — *ist es dann verantwortlich, den Bruch abzumildern?* Jede Krisenlinderung kauft Zeit und nimmt zugleich den Druck, der die Korrektur erzwingen würde.
+
+Ihr Schluss ist trotzdem kein resignierter. In den USA fange es „auf vielen dieser Ebenen gerade an zu ruckeln" — Europa könne einen Beitrag leisten, indem es sich „nicht zum unterjochten Vasall machen" lässt und jenen Akteuren in den USA hilft, die Teil dieser Allianz bleiben wollen. Ihr letztes Wort dazu ist nüchtern: „Aber es wird hochpolitisch sein."
+
+[▶ 31:53](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1913) Der Moderator fragt ins Publikum, ob noch eine kurze Frage komme. Es kommt keine. „Dann dürft ihr euch gerne noch weiter Gedanken machen."
 
 ### Toozes Einwand: Wir wiederholen uns
 
@@ -191,7 +228,7 @@ Und Tooze nimmt sich selbst nicht aus. Man müsse sich, „fast biographisch sog
 
 ## Zwei Stimmen, ein Riss
 
-Es lohnt, die Differenz nicht zu glätten, weil beide zu höflich waren, sie auszusprechen.
+Es lohnt, die Differenz nicht zu glätten, weil beide zu höflich waren, sie auszusprechen. Dabei hatte Göpel den Riss schon eine Viertelstunde vorher selbst geöffnet, in der Antwort auf die Publikumsfrage — als sie einräumte, dass es wohl erst die Friktion braucht, bevor eine Eskalation aufhört.
 
 Göpel argumentiert von der Gestaltung her: Die Instrumente sind falsch designt, die Metriken messen das Falsche, die Sprache ist entkernt — also müssen wir Bilanzierung, Eigentum und Definitionsmacht umbauen. Ihre Diagnose ist präzise, ihre Kampfzone ist die Zahl.
 
