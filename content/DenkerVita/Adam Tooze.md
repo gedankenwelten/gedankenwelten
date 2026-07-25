@@ -1,7 +1,7 @@
 ---
 title: Adam Tooze — DenkerVita
 date: 2026-07-07
-aktualisiert: 2026-07-07
+aktualisiert: 2026-07-25
 tags: [denker-vita, wirtschaft, geschichte, krisen, geopolitik]
 ---
 
@@ -97,3 +97,4 @@ Toozes Frage „Wer kontrolliert die KI — Staat oder Konzern?" (Pentagon vs. A
 ## Cortex-Notes
 
 - [[Adam Tooze — Pentagon vs. Anthropic]] — KI-Kontrolle als Machtfrage zwischen Staat und Konzernen (Surplus-Interview)
+- [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]] — Tooze zur Herkunft des Polykrise-Begriffs (Morin, Juncker) und zu seinem Zweifel, ob grüne Modernisierung als Antwort noch trägt

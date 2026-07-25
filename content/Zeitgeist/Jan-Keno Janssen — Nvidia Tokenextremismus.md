@@ -140,6 +140,10 @@ Die Preisinformation fehlt noch — was auf der Computex zu hören war: Es könn
 
 ## Verbindungen
 
+### → [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
+
+Dieselbe Zirkularität vom anderen Ende gesehen: Göpel beschreibt KI-Systeme, die „nur noch durch Schulden und sich gegenseitig stützende Kredite“ vorwärtsrasen — und stellt die Frage, die die Investitionslogik offen lässt: Wenn möglichst viele Menschen ersetzt werden, wer kauft dann noch das Produzierte?
+
 ### → [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
 
 Janssen beschreibt von innen die Marktkonzentration, die Kaltheuner als strukturelles Problem identifiziert: Nvidias Token-Monopol ist die Infrastrukturebene, auf der europäische Fördergelder in Abhängigkeit fließen, wenn die Investitionslogik nur auf Anwendung setzt ohne die Chip-/Cloud-Ebene zu adressieren.

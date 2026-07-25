@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Adam Tooze und Maja Göpel — Die Polykrise (Surplus Magazin)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Die Polykrise \| mit Adam Tooze und Maja Göpel](https://www.youtube.com/watch?v=YZvZ8LCGy-Q) |
+| **Notiz** | [[Adam Tooze und Maja Goepel — Die Polykrise]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Tooze_Goepel_Polykrise_Transkript.txt` |
+| **Vollversion** | [New Economy Talk (nur für Abonnenten)](https://www.surplusmagazin.de/new-economy-talk-polykrise-adamtooze-majagopel/) |
+
 ## Mats Appreciated — Fluchtgeschichten am Mauerweg
 
 | | |

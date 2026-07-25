@@ -163,6 +163,10 @@ Gleichzeitig verschlechtert die Qualität der Arbeit: Uber, Deliveroo, Amazon-La
 
 ## Verbindungen
 
+### → [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
+
+Eine produktive Gegenlesart: Göpel beschreibt dieselbe Machtkonzentration nicht als Rückkehr zum Feudalen, sondern als **staatskapitalistische** Variante — die Bewertung trägt nicht die Plattformrente, sondern die Erwartung staatlicher Aufträge. Die offene Frage zwischen beiden: Ist die neue Macht dem Staat entwachsen oder sein Produkt?
+
 ### → [[Zeitgeist/Annette Dittert — Dear Britain]]
 Dittert beschreibt das politische Verhalten der „zweiten Stammeslogik der Tech-Milliardäre"; Varoufakis liefert das ökonomische Klassenmodell dahinter — beide treffen sich bei Buffetts „Klassenkrieg".
 

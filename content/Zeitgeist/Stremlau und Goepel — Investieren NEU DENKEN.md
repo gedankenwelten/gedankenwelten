@@ -225,6 +225,10 @@ Das ist kein irrationaler Risikoabwehr-Reflex. Es ist rationale Reaktion auf pol
 
 ## Verbindungen
 
+### → [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
+
+„Geld ist niemals neutral“ als Machtbefund: Index-Anbieter wie MSCI setzen die Bedingungen, unter denen ein Land als Schwellenland gilt und welcher Investorenschutz gegeben sein muss — nicht legitimierte Akteure ohne Gegenmacht. Und die Rentenvorsorge soll dorthin.
+
 ### → [[Denker/Maja Goepel — Unsere Welt neu denken]]
 
 Göpel entwickelt im Gespräch weiter, was sie in ihrem Buch skizziert hat: Transformation als systemischer Suchprozess, nicht als linearer Masterplan. Stremlau bestätigt das aus der Praxis — die Finanzmarktregulierung ist kein Wissens-, sondern ein Koordinationsproblem.

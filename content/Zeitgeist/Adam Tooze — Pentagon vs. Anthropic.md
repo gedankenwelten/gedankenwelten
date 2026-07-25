@@ -141,6 +141,10 @@ Das wäre mehr als ein wirtschaftlicher Verlust. Es wäre ein Beweis dafür, das
 
 ## Verbindungen
 
+### → [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
+
+Die ökonomische Unterseite desselben Befunds. Wo Tooze hier den Rechtsstaat als Kampffeld der Milliarden beschreibt, liefert Göpel die Bewertungslogik: Palantirs Kurs-Gewinn-Verhältnis von rund 400 bepreist kein Produkt, sondern die Erwartung, dass das größte Militär der Welt Kunde bleibt.
+
 ### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
 
 Von außerhalb des Machttischs betrachtet: Koné verlangt einen Platz, wo Tooze den Kampf um die KI-Kontrolle innerhalb der Zentren kartiert. Zusammen die volle Machtgeografie der KI.

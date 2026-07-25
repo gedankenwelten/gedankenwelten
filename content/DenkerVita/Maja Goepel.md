@@ -1,7 +1,7 @@
 ---
 title: Maja Göpel — DenkerVita
 date: 2026-04-21
-aktualisiert: 2026-04-21
+aktualisiert: 2026-07-25
 tags: [denker-vita, wirtschaft, kapitalismus, demokratie, philosophie, deutschland]
 ---
 
@@ -69,3 +69,4 @@ Heute ist sie Professorin, öffentliche Intellektuelle und Gastgeberin von **NEU
 - [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Gespräch über Vermögensungleichheit und strukturelle Machtkonzentration
 - [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]] — Keynote über Agency gegen Ohnmacht, BIP-Kritik und die Verteidigung des Green Deal
 - [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN|Stremlau & Göpel — Investieren NEU DENKEN]] — Gespräch über ESG-Evolution, EU-Taxonomie und Transformationsfinanzierung; "Geld ist niemals neutral"
+- [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]] — Keynote beim Surplus-Talk: Definitionsmacht über ökonomische Sprache, der digital-finanziell-militärische Komplex, Regrettables und „Tech for Earth"
