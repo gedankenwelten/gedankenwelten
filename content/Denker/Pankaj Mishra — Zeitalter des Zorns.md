@@ -201,6 +201,10 @@ Die quantitativen Maße des Fortschritts lassen ganze Register menschlicher Bed�
 
 ## Verbindungen
 
+### → [[Andreas Reckwitz — Fortschritt NEU DENKEN]]
+
+Dieselbe Beobachtung von zwei Enden der Welt. Mishra nennt den Fortschritt die „unschlagbare Ersatzreligion", die keinen Zweifel duldet — genau die Bewegung, die Reckwitz mit Karl Löwith beschreibt, nur global und ohne Rettungsversuch. Der echte Konflikt liegt beim Erbe: Was Reckwitz als Errungenschaft zum Verteidigen aufzählt (liberale Demokratie, Prosperität, Infrastruktur), liest Mishra als Besitz einer Zivilisation der Minderheit, errungen durch die Entwurzelung derer, die nie geerbt haben. Reckwitz' Fortschrittserbe braucht Mishras Frage, wem es je gehörte — sonst wird es zur Besitzstandswahrung.
+
 ### → [[Ivan Krastev — Wie zukunftsfaehig ist Europa]]
 
 Die engste Parallele im Bestand: Krastevs „Imitationskrise" ist Mishras mimetische Rivalität auf geopolitischer Ebene — der Zwang, den Westen nachzuahmen, produziert die Demütigung, deren Ressentiment sich gegen die Demokratie selbst kehrt. Beide lesen Populismus nicht als Rückfall in die Vormoderne, sondern als Rebellion des Nachzüglers gegen ein Versprechen, das ihn strukturell beschämt.

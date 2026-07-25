@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Andreas Reckwitz — Fortschritt NEU DENKEN (Mission Wertvoll)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Fortschritt NEU DENKEN mit Andreas Reckwitz](https://www.youtube.com/watch?v=bItN82KYMgo) |
+| **Notiz** | [[Andreas Reckwitz — Fortschritt NEU DENKEN]] |
+| **DenkerVita** | [[DenkerVita/Andreas Reckwitz]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Reckwitz_Fortschritt_Transkript.txt` |
+| **Buch** | [*Verlust. Ein Grundproblem der Moderne*](https://www.genialokal.de/Suche/?q=reckwitz+verlust+grundproblem+der+moderne) (2024) |
+| **Format** | [Mission Wertvoll — Wertvolles Wirtschaften](https://wertvolles-wirtschaften.de/) · [NEU DENKEN unterstützen](https://www.mission-wertvoll.org/neu-denken-unterstuetzen/) |
+
 ## Adam Tooze und Maja Göpel — Die Polykrise (Surplus Magazin)
 
 | | |

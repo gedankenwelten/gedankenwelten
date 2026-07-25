@@ -174,6 +174,10 @@ Seine Frage ist subtiler: Ist in dem Entwicklungsprozess etwas verloren gegangen
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Andreas Reckwitz — Fortschritt NEU DENKEN]]
+
+Dasselbe Schlüsselwort, umgekehrtes Vorzeichen. Rosas *Unverfügbarkeit* ist die Bedingung gelingenden Lebens, die die Moderne im Verfügbarmachen zerstört; Reckwitz' Unverfügbarkeit ist der harte Rest — Klima, Demografie, Sicherheitslage —, an dem die Moderne ihre Ernüchterung lernt. Beide kommen von Charles Taylor her, beide erklären den Fortschrittsimperativ aus der Weltbeziehung statt aus der Ökonomie; wo Rosa Steigerung und dynamische Stabilisierung als Struktur beschreibt, sitzt sie bei Reckwitz im Habitus, im Kreditvertrag, im Investitionsplan. Die Reibung: Rosa will das Unverfügbare zurückgewinnen, Reckwitz will lernen, es zu erleiden.
+
 ### → [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]
 
 Van Schaik und Michel berufen sich im Gespräch selbst auf Rosa: sein „aggressives Weltverhältnis" und die Vereinzelung sind das Leiden, gegen das sie die „neuen Lagerfeuer" und die dritte Natur (Vernunft, Demokratie) setzen. Rosa diagnostiziert, van Schaik verschreibt — zwei Wege zum selben Problem der Entwurzelung.

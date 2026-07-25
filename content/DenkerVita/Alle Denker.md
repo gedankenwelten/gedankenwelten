@@ -365,6 +365,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## R
 
+**[[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Kultursoziologe an der Humboldt-Universität zu Berlin, Leibniz-Preisträger; Chronist der Spätmoderne — Singularisierung, Kulturalisierung des Sozialen, Kreativitätsdispositiv, Verlust als Grundproblem der Moderne; *Die Gesellschaft der Singularitäten* (2017), *Das Ende der Illusionen* (2019), *Verlust* (2024)
+
 **[[DenkerVita/Tobias Rüther|Tobias Rüther]]** — Suchtmediziner, Leiter der Tabakambulanz am LMU Klinikum München; Sucht als Krankheit nicht Willensschwäche, „das Problem dahinter", Motivation statt Abschreckung, Warnung vor designten Vape-Einsteigerprodukten
 
 **[[DenkerVita/Rebecca Boehme|Rebecca Böhme]]** — Neurowissenschaftlerin, Assistenzprofessorin Universität Linköping; Gehirn als bayesianische Vorhersagemaschine, Sprache als neuronaler Schalter, Freiheit trainierbar
