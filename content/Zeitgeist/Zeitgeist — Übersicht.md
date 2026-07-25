@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*273 Notes — automatisch generiert · nach Thema sortiert*
+*274 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -186,6 +186,7 @@ Jede Note folgt einer eigenen Struktur:
 ### USA & Trump
 
 - [[Zeitgeist/Adam Johnson - How to Sell a Genocide|Adam Johnson — How to Sell a Genocide]] — Ein Genozid braucht keine überzeugten Lügner — nur Redaktionen, die Zeit kaufen. Adam Johnson seziert die Grammatik des organisierten Wegsehens.
+- [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]] — Wachstum hat nicht nur eine Höhe, sondern eine Richtung — zwei Ökonomen vermessen eine Krise, in der ein digital-finanziell-militärischer Komplex die Macht übernimmt zu definieren, was Wirtschaft überhaupt heißen soll.
 - [[Zeitgeist/ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe|ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
 - [[Zeitgeist/Bundestalk — Iran USA und die Strasse von Hormus|Bundestalk — Iran, USA und die Straße von Hormus]]
 - [[Zeitgeist/Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)|Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
