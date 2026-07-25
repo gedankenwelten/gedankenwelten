@@ -70,7 +70,7 @@ Das ist der Kern ihrer Keynote, und man kann ihn leicht überhören, weil er so 
 
 Zwei Bewegungen liest sie daraus ab. Über die letzten acht bis zehn Jahre ist das grüne Thema — im Bericht praktischerweise farbcodiert — auf der Zehn-Jahres-Skala immer weiter nach oben gerutscht. Auf kurze Sicht steht dagegen inzwischen **Geoökonomie** auf Platz eins.
 
-Das ist kein Widerspruch, sondern die Diagnose selbst, und sie erklärt den Rest des Abends. Dieselben Führungsetagen halten die ökologische Verwerfung langfristig für das größte Risiko — und richten ihr kurzfristiges Handeln an einem Begriff aus, der genau in die Gegenrichtung zieht. Was auf zehn Jahre bedrohlich ist, verliert gegen das, was diese Woche zählt. Göpels ganze Keynote ist der Versuch, diese Schere zu schließen, indem sie das Langfristige in die Sprache des Kurzfristigen übersetzt: Sicherheitspolitik, Kreditwürdigkeit, Bilanz.
+Das ist die Diagnose selbst, und sie erklärt den Rest des Abends. Dieselben Führungsetagen halten die ökologische Verwerfung langfristig für das größte Risiko — und richten ihr kurzfristiges Handeln an einem Begriff aus, der genau in die Gegenrichtung zieht. Was auf zehn Jahre bedrohlich ist, verliert gegen das, was diese Woche zählt. Göpels ganze Keynote ist der Versuch, diese Schere zu schließen, indem sie das Langfristige in die Sprache des Kurzfristigen übersetzt: Sicherheitspolitik, Kreditwürdigkeit, Bilanz.
 
 ### Geoökonomie — ein Begriff mit zwei Vätern
 
@@ -87,11 +87,11 @@ Dass die imperiale Lesart wieder Gegenwart ist, muss sie kaum belegen: annektier
 
 ### Die Erpressung
 
-[▶ 5:17](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=317) Der schärfste Moment der Keynote ist der nüchternste. Göpel beschreibt, wie der Druck auf die europäische Regulierung — Lieferkettengesetz, Nachhaltigkeitsberichterstattung, Digitalregulierung — nicht als Argument kommt, sondern als Drohung: Ihr habt uns euer LNG abgenommen, als ihr euch von Putins Gas löstet; wenn ihr an dieser Regulierung festhaltet, sind wir uns nicht sicher, ob die Lieferungen nicht woanders hinmüssten.
+[▶ 5:17](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=317) Der schärfste Moment der Keynote ist der nüchternste. Göpel beschreibt, in welcher Form der Druck auf die europäische Regulierung ankommt — Lieferkettengesetz, Nachhaltigkeitsberichterstattung, Digitalregulierung. Nicht als Argument. Als Drohung: Ihr habt uns euer LNG abgenommen, als ihr euch von Putins Gas löstet; wenn ihr an dieser Regulierung festhaltet, sind wir uns nicht sicher, ob die Lieferungen nicht woanders hinmüssten.
 
 > *„Also es ist Erpressung."*
 
-Und ihre Konsequenz daraus ist keine moralische, sondern eine ökonomische: Was dort geschehe, bringe weder Wachstum noch Produktivität noch Wettbewerbsfähigkeit — [▶ 6:03](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=363) es sei „ein Wettrennen in den Abgrund". Sie beruft sich auf die Green-Deal-Kommissarin Teresa Ribera, die sinngemäß dasselbe sagt: Ein Rennen nach unten ist für Europa nicht zu gewinnen.
+Und sie rechnet dagegen, statt zu appellieren: Was dort geschehe, bringe weder Wachstum noch Produktivität noch Wettbewerbsfähigkeit — [▶ 6:03](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=363) es sei „ein Wettrennen in den Abgrund". Sie beruft sich auf die Green-Deal-Kommissarin Teresa Ribera, die sinngemäß dasselbe sagt: Ein Rennen nach unten ist für Europa nicht zu gewinnen.
 
 Hier liegt eine Härte, die man bei Göpel oft unterschätzt. Sie argumentiert nicht, Europa solle standhaft bleiben, weil es das Richtige sei. Sie argumentiert, ein Rennen nach unten sei nicht zu gewinnen — man kann nur aussteigen oder verlieren.
 
@@ -144,7 +144,7 @@ Sie stellt die Frage, die in der KI-Euphorie selten gestellt wird: Wenn möglich
 
 ### Daten zerstören, Sprache entkernen
 
-[▶ 21:15](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1275) Ihr wichtigstes Beispiel für die Definitionsmacht ist keine Rhetorik, sondern ein Löschvorgang. Die Trump-Administration habe nicht nur Daten abgezogen — DOGE habe dafür gesorgt, dass sie auf Privatrechnern landeten —, sondern auch Daten *zerstört*, die planetare Grenzen anzeigen könnten. Der Grund ist juristisch: Wer ökologische Gerechtigkeit vor Gericht verteidigen will, braucht Beweise, dass der Schaden stattgefunden hat. Keine Daten, kein Beweis, kein Verfahren.
+[▶ 21:15](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1275) Ihr wichtigstes Beispiel für die Definitionsmacht ist ein Löschvorgang. Die Trump-Administration habe nicht nur Daten abgezogen — DOGE habe dafür gesorgt, dass sie auf Privatrechnern landeten —, sondern auch Daten *zerstört*, die planetare Grenzen anzeigen könnten. Der Grund ist juristisch: Wer ökologische Gerechtigkeit vor Gericht verteidigen will, braucht Beweise, dass der Schaden stattgefunden hat. Keine Daten, kein Beweis, kein Verfahren.
 
 Dass die Strategie nicht aufging, liegt an etwas, das man nicht löschen kann: an der unmittelbaren Erfahrung. Göpel erinnert an AOC, die im Kongress schlicht ein Glas mitbrachte und zeigte, wie braun das vermeintliche Trinkwasser in den Datencenter-Regionen inzwischen ist.
 
@@ -162,9 +162,9 @@ Göpel argumentiert nicht gegen deren Notwendigkeit. Sie argumentiert gegen ihre
 
 Das ist eine bemerkenswert erwachsene Position: die Notwendigkeit anerkennen, ohne sie zur Tugend zu erklären. Sie schützt vor beidem — vor der Naivität, die Aufrüstung leugnet, und vor dem Zynismus, der aus ihr ein Geschäftsmodell macht.
 
-[▶ 25:03](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1503) Was an die Stelle träte, benennt sie konkret: Energie, Investitionen und Ressourcen ließen sich in etwas stecken, das ziviles Wohlergehen voranbringt — „anstatt in Dinge, die hoffentlich immer nur rumstehen müssen und, wenn wir sie benutzen müssen, sehr viel Schaden anrichten". Ein Panzer ist im besten Fall totes Kapital; das ist keine pazifistische Aussage, sondern eine buchhalterische. Daraus zieht sie die Regel, die den Abschnitt trägt: *„Wir müssen klar bleiben in den Zahlen und in den Erzählungen, worum es wirklich geht."*
+[▶ 25:03](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=1503) Was an die Stelle träte, benennt sie konkret: Energie, Investitionen und Ressourcen ließen sich in etwas stecken, das ziviles Wohlergehen voranbringt — „anstatt in Dinge, die hoffentlich immer nur rumstehen müssen und, wenn wir sie benutzen müssen, sehr viel Schaden anrichten". Ein Panzer ist im besten Fall totes Kapital — eine buchhalterische Feststellung. Daraus zieht sie die Regel, die den Abschnitt trägt: *„Wir müssen klar bleiben in den Zahlen und in den Erzählungen, worum es wirklich geht."*
 
-Die Pointe liegt im Wörtchen *bleiben*. Ein Regrettable wird nicht dadurch zum Guten, dass es unvermeidlich ist — es bleibt eine Rechnung, die man lieber nicht hätte. Wer eine Taxonomie so lange umbaut, bis Munition als nachhaltiges Investment gilt, hat nicht die Welt verändert, sondern nur die Buchhaltung. Und genau darin liegt die Brücke zurück zu Göpels Hauptthese: Wer die Kategorien verschiebt, muss den Streit über die Sache nicht mehr führen.
+Die Pointe liegt im Wörtchen *bleiben*. Ein Regrettable wird nicht dadurch zum Guten, dass es unvermeidlich ist — es bleibt eine Rechnung, die man lieber nicht hätte. Wer eine Taxonomie so lange umbaut, bis Munition als nachhaltiges Investment gilt, hat die Buchhaltung verändert, die Welt nicht. Und genau darin liegt die Brücke zurück zu Göpels Hauptthese: Wer die Kategorien verschiebt, muss den Streit über die Sache nicht mehr führen.
 
 ### Tech for Earth
 
@@ -215,7 +215,7 @@ Die grüne Modernisierung — entstanden in den frühen 2000ern in Europa, mitan
 
 [▶ 39:38](https://www.youtube.com/watch?v=YZvZ8LCGy-Q&t=2378) Seine Historisierung geht noch weiter zurück. Man könne sagen, die Polykrise sei zum ersten Mal in den Siebzigern entdeckt worden — Inflation, das letzte Aufbäumen der postkolonialen Bewegung, der Bericht des Club of Rome. „Und dann haben wir es mit Neoliberalismus zugedeckt. Und das war gewissermaßen die Funktion des Neoliberalismus, das zuzudecken." Als es in den Neunzigern wieder hervorsprudelte, war die grüne Modernisierung die postneoliberale Antwort.
 
-Das ist eine Deutung mit Sprengkraft: Der Neoliberalismus erscheint nicht als Wirtschaftsprogramm, sondern als *Verdrängungstechnik* — ein Verfahren, ein unlösbares Bündel für dreißig Jahre unsichtbar zu machen.
+Das ist eine Deutung mit Sprengkraft: Der Neoliberalismus erscheint hier als *Verdrängungstechnik* — ein Verfahren, ein unlösbares Bündel für dreißig Jahre unsichtbar zu machen.
 
 Und Tooze nimmt sich selbst nicht aus. Man müsse sich, „fast biographisch sogar", als Menschen verstehen, die dieses grüne Modernisierungsprojekt ein Leben lang immer wieder aufgenommen haben — „und es gibt wirklich keine bessere Alternative, meiner Meinung nach". Kein Zynismus, keine Absage. Nur die Beobachtung, dass man seit dreißig Jahren vor derselben Antwort steht.
 
