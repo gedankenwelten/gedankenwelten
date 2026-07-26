@@ -96,7 +96,7 @@ Butterwegges lebenslange Armutsforschung liefert die materielle Unterfütterung 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
 - [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]

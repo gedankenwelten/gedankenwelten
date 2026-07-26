@@ -56,7 +56,7 @@ Quelle: [Philosophin Catrin Misselhorn über KI- & Roboter-Ethik — Jung & Naiv
 [▶ 55:42](https://www.youtube.com/watch?v=LoEXyaNqOHA&t=3342) — Ihr methodisches Fundament nennt sie **gemäßigten Naturalismus**: Philosophische Theoriebildung darf den Naturwissenschaften nicht nur nicht widersprechen (das wäre der schwache Naturalismus), sie soll deren Evidenzen aktiv als Stütze nutzen — ohne sich darin zu erschöpfen. Den radikalen Naturalismus („die Naturwissenschaften sagen uns alles") hält sie schlicht für falsch: Modale Erkenntnis, das Thema ihrer Doktorarbeit, lässt sich nicht empirisch gewinnen.
 
 > [!note] Eigene Einschätzung
-> Dieser gemäßigte Naturalismus ist fast wörtlich die Haltung des Cortex — *Evidenz vor Meinung*, ohne die Philosophie an die Empirie zu verraten. Bemerkenswert ist, wie Misselhorn die Spiegelneuronen-Forschung als Beispiel nennt: Naturwissenschaft *stützt* ihre Empathie-Theorie, ersetzt sie aber nicht. Das ist gelebte zweite Säule — und zugleich eine Absage an beide bequemen Extreme, das szientistische wie das geisteswissenschaftlich-abgeschottete.
+> Dieser gemäßigte Naturalismus ist fast wörtlich die Haltung dieser Gedankenwelten — *Evidenz vor Meinung*, ohne die Philosophie an die Empirie zu verraten. Bemerkenswert ist, wie Misselhorn die Spiegelneuronen-Forschung als Beispiel nennt: Naturwissenschaft *stützt* ihre Empathie-Theorie, ersetzt sie aber nicht. Das ist gelebte zweite Säule — und zugleich eine Absage an beide bequemen Extreme, das szientistische wie das geisteswissenschaftlich-abgeschottete.
 
 ### Warum Maschinen rechnen, aber nicht denken
 

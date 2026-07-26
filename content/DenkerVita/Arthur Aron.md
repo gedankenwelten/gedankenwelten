@@ -62,5 +62,5 @@ Zur nötigen Differenzierung: Die Originalstudie von 1997 zielte auf **Nähe/Clo
 ## Verbindungen zu anderen Denkern
 *(Montaigne ergänzt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Die Neurobiologie der Liebe]]

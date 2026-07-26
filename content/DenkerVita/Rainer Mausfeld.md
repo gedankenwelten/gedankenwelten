@@ -95,7 +95,7 @@ Was Mausfeld analytisch als „Demokratie-Management" seziert — die Entkopplun
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Rainer Mausfeld — Warum schweigen die Lämmer]]
 - [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]

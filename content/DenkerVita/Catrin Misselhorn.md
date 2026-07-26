@@ -65,6 +65,6 @@ Keine parteipolitische Verortung. Misselhorn argumentiert als akademische Ethike
 
 ## Verbindungen zu anderen Denkern
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Catrin Misselhorn — Grundfragen der Maschinenethik]]

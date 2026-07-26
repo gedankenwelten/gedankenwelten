@@ -54,7 +54,7 @@ tags: [denker-vita, medien, israel, pressefreiheit]
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Legendary reporter Anat Saragusti on censorship & press freedom in Israel — Jung & Naiv: Episode 836](https://www.youtube.com/watch?v=w9RyY7z503M) — das ausführliche Porträt- und Themengespräch (Juli 2026), Grundlage der Cortex-Note
+- [Legendary reporter Anat Saragusti on censorship & press freedom in Israel — Jung & Naiv: Episode 836](https://www.youtube.com/watch?v=w9RyY7z503M) — das ausführliche Porträt- und Themengespräch (Juli 2026), Grundlage der Note
 - [Anat Saragusti on the Erosion of Press Freedom in Israel](https://www.youtube.com/watch?v=JvFYtdiVr9U) — Webinar der Canadian Friends of Peace Now, die vier Hebel der Presse-Aushöhlung unter Netanjahu
 - [Israel's pivot to the right brings unprecedented crackdown on freedom of speech (CNN, 03/2025)](https://www.cnn.com/2025/03/10/middleeast/israel-freedom-of-speech-crackdown-intl) — Saragusti im O-Ton: „ein Kapitel eines größeren Masterplans, Journalisten in Israel zum Schweigen zu bringen"
 

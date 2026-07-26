@@ -80,5 +80,5 @@ Ein weiterer Spannungspunkt: ihre Doppelrolle als unabhängige Forscherin *und* 
 ## Verbindungen zu anderen Denkern
 *(Montaigne ergänzt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Die Neurobiologie der Liebe]]

@@ -54,7 +54,7 @@ Offen bleibt die **Nachfolgefrage**. Peking beansprucht, den nächsten Dalai Lam
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Für mehr Mitgefühl! Die säkulare Ethik des Dalai Lama — Christof Spitz](https://www.youtube.com/watch?v=T0WYzEMaDx0) — Vortrag im Netzwerk Ethik heute. Der langjährige Dolmetscher des Dalai Lama erklärt dessen Konzept einer Ethik jenseits der Religion. (Grundlage der Cortex-Note.)
+- [Für mehr Mitgefühl! Die säkulare Ethik des Dalai Lama — Christof Spitz](https://www.youtube.com/watch?v=T0WYzEMaDx0) — Vortrag im Netzwerk Ethik heute. Der langjährige Dolmetscher des Dalai Lama erklärt dessen Konzept einer Ethik jenseits der Religion. (Grundlage der Note.)
 - [The Office of His Holiness The Dalai Lama — offizielle Website](https://www.dalailama.com/) — Videos, Live-Übertragungen von Belehrungen, News und die autorisierte Biografie.
 - [Mind & Life Dialogues](https://www.mindandlife.org/) — dokumentierte Gespräche zwischen dem Dalai Lama und Wissenschaftlern über Geist, Bewusstsein und Ethik.
 
@@ -87,6 +87,6 @@ Keiner dieser Punkte hebt die Größe seines Lebenswerks auf — sie erden es. D
 - [[DenkerVita/S.N. Goenka]] — dieselbe Kultivierungspraxis (*bhāvanā*) als säkular gelehrte Methode; Vipassana als das Werkzeug, das die säkulare Ethik voraussetzt.
 - [[DenkerVita/Markus Gabriel]] — sucht dasselbe Ziel (universelle Werte ohne Religion und ohne Beliebigkeit) auf dem erkenntnistheoretischen statt dem evolutionär-praktischen Weg.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Dalai Lama — Die saekulare Ethik]]

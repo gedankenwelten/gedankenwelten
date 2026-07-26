@@ -84,7 +84,7 @@ Stremlau bringt die Finanzierungsseite: Wie lenkt man Kapital in die nachhaltige
 ### → [[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]
 Der schärfste Gegenpol im eigenen Lager: Beide wollen die fossile Wirtschaft überwinden, aber Kemfert glaubt an grünes Wachstum durch Erneuerbare, während Herrmann bezweifelt, dass eine vollständig regenerative Vollversorgung den heutigen Wohlstand tragen kann, und für Schrumpfung plädiert. Die Reibung verläuft an der Machbarkeitsfrage der Energiewende selbst.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 - [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]

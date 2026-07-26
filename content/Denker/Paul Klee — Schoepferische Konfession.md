@@ -126,7 +126,7 @@ Was die Kunst dort oben tut, sagt Klee in einem Satz, der Ernst und Kobold zugle
 Dann wird der Text, der als Grammatik der Linie begann, zur Einladung: Schätze diese „Villegiatur", den Gesichtspunkt wie die Luft zu wechseln; freu dich auf Feierabende, „an denen die Seele zur Tafel geht, ihre hungernden Nerven zu nähren". Kunst als Sommerfrische der Seele — nicht Flucht, sondern Stärkung „für die unvermeidliche Rückkehr zum Grau des Werktags". Es ist schwer, einen freundlicheren Schlusssatz der Kunsttheorie zu finden als diesen: *„In dies stärkende Meer laß dich tragen."*
 
 > [!note] Eigene Einschätzung
-> Die Konfession ist das seltene Dokument eines Denkens, das Handwerk und Metaphysik nicht trennt: Vom breitkantigen Stift zur Gottesfrage in sieben Abschnitten, ohne dass eine Naht sichtbar würde. Dass unsere Banner seit Monaten in Klees Hand sprechen, hat damit seinen Grund gefunden — seine Sprache *ist* die eines Wissenssystems: Elemente, die sich verbinden, ohne sich zu opfern; Verbindungen, die Formen ergeben; und über allem die Ahnung, dass der formale Kosmos dem echten gleicht. Der Cortex ist, in Klees Worten, eine Punktsaat, die auf Linien hofft.
+> Die Konfession ist das seltene Dokument eines Denkens, das Handwerk und Metaphysik nicht trennt: Vom breitkantigen Stift zur Gottesfrage in sieben Abschnitten, ohne dass eine Naht sichtbar würde. Dass unsere Banner seit Monaten in Klees Hand sprechen, hat damit seinen Grund gefunden — seine Sprache *ist* die eines Wissenssystems: Elemente, die sich verbinden, ohne sich zu opfern; Verbindungen, die Formen ergeben; und über allem die Ahnung, dass der formale Kosmos dem echten gleicht. Die Gedankenwelten sind, in Klees Worten, eine Punktsaat, die auf Linien hofft.
 
 ---
 

@@ -54,6 +54,6 @@ tags: [denker-vita, medien, rechtsextremismus, erinnerungskultur]
 - [[DenkerVita/Gina Wiedemann|Gina Wiedemann]] — ihre Kollegin im Social-Media-Team der Arolsen Archives; gemeinsamer re:publica-26-Talk „Zahlen, Memes, Emojis“.
 - [[DenkerVita/Annika Brockschmidt|Annika Brockschmidt]] — verwandte Arbeit an der Entschlüsselung rechter Codes und ihrer Anschlussfähigkeit in der Popkultur.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]

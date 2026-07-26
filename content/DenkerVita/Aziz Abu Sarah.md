@@ -73,6 +73,6 @@ Abu Sarah ist palästinensischer Aktivist mit einer dezidiert gewaltfreien, bina
 
 *Wird via Cross-Linking befüllt.*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Inon und Abu Sarah - The Future is Peace]]

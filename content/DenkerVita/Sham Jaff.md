@@ -51,5 +51,5 @@ tags: [denker-vita, medien, journalismus, global]
 ## Verbindungen zu anderen Denkern
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[WDR Europaforum — Out of order Voelkerrecht]]

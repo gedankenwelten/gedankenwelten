@@ -55,5 +55,5 @@ Kaleck steht in der Tradition der linken, bürgerrechtlich orientierten Anwaltsc
 ## Verbindungen zu anderen Denkern
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[WDR Europaforum — Out of order Voelkerrecht]]

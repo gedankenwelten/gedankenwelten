@@ -248,7 +248,7 @@ El-Mafaalanis Befund über wachsendes Misstrauen gegenüber Expertise erklärt d
 Beide teilen denselben epistemischen Ansatz: politische Analyse durch öffentlich zugängliche, methodisch transparente Daten — BissenBlaBla via internationale Indizes, IT Mario via offene Spreadsheets und Zenodo. Methodische Transparenz als gemeinsame Gegenstrategie.
 
 ### → [[Panorama/NoAfD]]
-Das Panorama bündelt das gesamte AfD-Analysecorpus des Cortex. IT Marios Datenanalyse ergänzt die qualitativen Analysen (Kemper, Quent, Manow) um eine quantitative Schicht — eine der wenigen empirisch gestützten Aussagen im Corpus.
+Das Panorama bündelt das gesamte AfD-Analysecorpus der Gedankenwelten. IT Marios Datenanalyse ergänzt die qualitativen Analysen (Kemper, Quent, Manow) um eine quantitative Schicht — eine der wenigen empirisch gestützten Aussagen im Corpus.
 
 ---
 

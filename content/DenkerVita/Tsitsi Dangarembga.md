@@ -87,6 +87,6 @@ Dangarembga steht **links-emanzipatorisch, antikolonial und feministisch** — v
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]

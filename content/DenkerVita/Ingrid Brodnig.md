@@ -68,6 +68,6 @@ Brodnig ist keiner Partei zuzuordnen, aber klar demokratie- und aufklärungsorie
 - [[DenkerVita/Renee DiResta|Renée DiResta]] — teilt Brodnigs Blick auf Schaden ohne benennbaren Täter: Propaganda und Misogynie als Systemeffekte, nicht als Gesinnung Einzelner.
 - [[DenkerVita/Eva von Redecker|Eva von Redecker]] — liefert die Eigentums- und Männerbund-Theorie zu Brodnigs empirischem Befund vom „Zugriff auf Frauenkörper als Machtdekor“.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Ingrid Brodnig — Gegenstrategien zum Frauenhass]]

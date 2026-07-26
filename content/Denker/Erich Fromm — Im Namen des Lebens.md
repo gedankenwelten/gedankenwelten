@@ -54,7 +54,7 @@ Quelle: [Erich Fromm: Im Namen des Lebens (1973)](https://www.youtube.com/watch?
 Das ganze spätere Buch *Haben oder Sein* ist in dieser Beiläufigkeit schon enthalten. Ein echtes Gespräch ist offen, keine Bekehrung, kein Streit, sondern ein Austausch — und es kommt nicht einmal darauf an, ob das Gesagte wichtig ist, sondern *dass es echt ist*. Fromm gibt ein winziges Beispiel: Zwei Kollegen gehen nach Hause, der eine sagt „ich bin ziemlich müde", der andere „ich auch". Banal — und doch bauen die beiden in diesem Moment eine echte menschliche Brücke. Dagegen die zwei Intellektuellen, die in großen Worten ihre Theorien austauschen und nur Monologe halten, die einander nicht berühren.
 
 > [!note] Eigene Einschätzung
-> Bemerkenswert, wie Fromm den Maßstab verschiebt: nicht *interessant* ist das Kriterium, sondern *lebendig*. Später wird er es im selben Gespräch wiederholen — ein Mensch kann brillant sein und tot, einfach sein und lebendig. Das ist die ethische Wirbelsäule seines ganzen Denkens, lange bevor er die Begriffe dafür hat. Wer das Cortex-Prinzip „Substanz zuerst, Stimme ist Kür" kennt, hört hier den Vorläufer: Echtheit vor Glanz.
+> Bemerkenswert, wie Fromm den Maßstab verschiebt: nicht *interessant* ist das Kriterium, sondern *lebendig*. Später wird er es im selben Gespräch wiederholen — ein Mensch kann brillant sein und tot, einfach sein und lebendig. Das ist die ethische Wirbelsäule seines ganzen Denkens, lange bevor er die Begriffe dafür hat. Wer den Grundsatz „Substanz zuerst, Stimme ist Kür" kennt, hört hier den Vorläufer: Echtheit vor Glanz.
 
 ### Die zweite Welt auf Knopfdruck — Radio und Fernsehen
 
@@ -86,7 +86,7 @@ Er erzählt vom Urgroßvater, einem gelehrten Talmudisten mit einem kleinen Lade
 Sein Sozialismus, sagt er, war kein intellektueller Entschluss, keine Entscheidung — er wuchs aus dieser Herkunft. Was ihn dann an der modernen Welt anzog, waren gerade die Elemente, die auf die vorbürgerliche zurückwiesen: Marx, die Romantik, der deutsche Idealismus. Dort fand er die Synthese zwischen dem, was ihm lebendig war, und dem, was er an der Moderne liebte.
 
 > [!note] Eigene Einschätzung
-> Das ist die ehrlichste Auskunft des ganzen Gesprächs. Fromm reklamiert seine Politik nicht als Ergebnis überlegener Analyse, sondern erkennt sie als biografisch — als Nachhall einer Kindheit, in der Geldverdienen das Peinliche war und Studieren das Selbstverständliche. Diese Selbsteinordnung ist in der Vipassana-Sprache des Cortex ein Akt von *anattā*: Die Überzeugung wird als Gewordenes gesehen, nicht als Identität verteidigt. Wer seine eigenen Prägungen so benennen kann, urteilt freier.
+> Das ist die ehrlichste Auskunft des ganzen Gesprächs. Fromm reklamiert seine Politik nicht als Ergebnis überlegener Analyse, sondern erkennt sie als biografisch — als Nachhall einer Kindheit, in der Geldverdienen das Peinliche war und Studieren das Selbstverständliche. Diese Selbsteinordnung ist in der Sprache des Vipassana ein Akt von *anattā*: Die Überzeugung wird als Gewordenes gesehen, nicht als Identität verteidigt. Wer seine eigenen Prägungen so benennen kann, urteilt freier.
 
 ### Der Erste Weltkrieg — die Frage, die bleibt
 

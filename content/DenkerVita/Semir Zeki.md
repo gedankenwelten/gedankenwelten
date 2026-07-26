@@ -68,6 +68,6 @@ Kritisch diskutiert wird genau diese Lokalisierungslogik: Ob das Aufleuchten ein
 
 *(Montaigne ergänzt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Die Neurobiologie der Liebe]]

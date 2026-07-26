@@ -66,6 +66,6 @@ Callard ist keine politische Denkerin im Parteisinn — sie versteht sich als *p
 - **[[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard]]** — „Glaubt mir nichts, nur weil ich es sage" als sokratische Demut in buddhistischer Sprache; offener Streitpunkt bleibt das Meister-Schüler-Verhältnis.
 - **Platon & Sokrates** ([[Denker/Walther Ziegler — Platon in 60 Minuten|Walther Ziegler — Platon in 60 Minuten]]) — die Werkquelle: Statuen-Metapher, Anamnesis, Hebammenkunst, Symposion.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]

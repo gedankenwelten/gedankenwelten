@@ -39,7 +39,7 @@ erstellt: 2026-07-25
 
 ## Warum dieses Thema?
 
-Es gibt im Cortex ein Panorama zur [[Kaufkraft]] und eines zum [[Neoliberalismus — Was zaehlt|Neoliberalismus]]. Beide fragen, warum der materielle Aufstieg stockt. Dieses hier fragt eine Ebene tiefer: warum wir überhaupt Aufstieg *erwarten*.
+Es gibt in den Gedankenwelten ein Panorama zur [[Kaufkraft]] und eines zum [[Neoliberalismus — Was zaehlt|Neoliberalismus]]. Beide fragen, warum der materielle Aufstieg stockt. Dieses hier fragt eine Ebene tiefer: warum wir überhaupt Aufstieg *erwarten*.
 
 Denn das ist keine anthropologische Konstante. [[Andreas Reckwitz — Fortschritt NEU DENKEN|Andreas Reckwitz]] macht sichtbar, wie schmal das Zeitfenster ist. Vormoderne Gesellschaften dachten Geschichte zyklisch — es geht auf und ab —, oder als Gleichbleiben, oder als schleichenden Niedergang von einem goldenen Zeitalter her, das *hinter* einem lag. Erst seit dem späten 18. Jahrhundert denkt eine Kultur in Verbesserungssequenzen, und sie hält das für normal.
 
@@ -95,7 +95,7 @@ Bei KI wiederholt sich das Muster in Echtzeit. [[Christian Bauckhage - KI Wir ha
 
 ### Hegel und Schopenhauer — der Streit ist alt und nie entschieden
 
-Der Cortex hat die beiden Urpositionen als Notenpaar. [[Walther Ziegler — Hegel in 60 Minuten|Hegel]] formuliert den Fortschrittsglauben in seiner reinsten Form: *„Die Weltgeschichte ist der Fortschritt im Bewusstsein der Freiheit — ein Fortschritt, den wir in seiner Notwendigkeit zu erkennen haben."* Notwendigkeit, nicht Hoffnung. [[Walther Ziegler — Schopenhauer in 60 Minuten|Schopenhauer]] antwortet mit der Wiederholung: Die Weisen aller Zeiten haben immer dasselbe gesagt, und die Toren immer das Gegenteil getan.
+Die beiden Urpositionen liegen hier als Notenpaar. [[Walther Ziegler — Hegel in 60 Minuten|Hegel]] formuliert den Fortschrittsglauben in seiner reinsten Form: *„Die Weltgeschichte ist der Fortschritt im Bewusstsein der Freiheit — ein Fortschritt, den wir in seiner Notwendigkeit zu erkennen haben."* Notwendigkeit, nicht Hoffnung. [[Walther Ziegler — Schopenhauer in 60 Minuten|Schopenhauer]] antwortet mit der Wiederholung: Die Weisen aller Zeiten haben immer dasselbe gesagt, und die Toren immer das Gegenteil getan.
 
 Die Anekdote, die beide Notes verbindet, ist zu gut, um sie zu übergehen: Als 1831 in Berlin die Cholera ausbrach, floh Schopenhauer sofort nach Frankfurt. Hegel blieb, infizierte sich, starb zwei Monate später. Der Pessimist überlebte den Optimisten um 29 Jahre. Als Argument taugt das nichts. Als Bild für den blinden Fleck des Fortschrittsdenkens ist es kaum zu schlagen.
 
@@ -157,7 +157,7 @@ Auf der anderen Seite steht [[Rutger Bregman — Ist der Mensch wirklich gut|Rut
 
 ## Offene Fragen
 
-- **Hatte die Moderne wirklich keine Werkzeuge für den Verlust?** Sie hat Versicherungen erfunden, Sozialstaat, Rentensysteme, Hospizbewegung. Vielleicht ist die Diagnose präziser so: Sie hat *bürokratische* Werkzeuge gebaut statt kultureller. Was kann ein Ritual, was eine Auszahlung nicht kann? Der Cortex hat die Gegenseite dieser Frage in den Vergänglichkeitsnotes — [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz|Ksitigarbha]] behandelt die Wunde als Schatz, nicht als Störfall. Diese Achse ist im Panorama noch nicht ausgearbeitet.
+- **Hatte die Moderne wirklich keine Werkzeuge für den Verlust?** Sie hat Versicherungen erfunden, Sozialstaat, Rentensysteme, Hospizbewegung. Vielleicht ist die Diagnose präziser so: Sie hat *bürokratische* Werkzeuge gebaut statt kultureller. Was kann ein Ritual, was eine Auszahlung nicht kann? Die Gegenseite dieser Frage liegt in den Vergänglichkeitsnotes — [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz|Ksitigarbha]] behandelt die Wunde als Schatz, nicht als Störfall. Diese Achse ist im Panorama noch nicht ausgearbeitet.
 - **Wer soll die ehrliche Rede führen?** Reckwitz sagt selbst, ob es gehört werde, sei eine andere Frage. Ein Politiker, der im Wahlkampf von Verlustakzeptanz spricht, verliert. Es könnte sein, dass die Instanzen, die Verlust sprechbar machen, keine politischen sind — Nachbarschaften, Vereine, Gemeinden. Das wäre keine Verlustpolitik, sondern deren Voraussetzung.
 - **Ist Verlust überhaupt der zentrale Riss?** [[Steffen Mau — Triggerpunkte Konsens und Konflikt|Steffen Mau]] hat empirisch gezeigt, dass die deutsche Gesellschaft in den meisten Fragen einig ist und Konflikt nur an wenigen Triggerpunkten aufflammt. Reckwitz beschreibt härtere Gewinner-Verlierer-Konstellationen als je zuvor. Misst der eine Meinungen und der andere Lebenslagen?
 - **Wie unterscheidet man erreichte Grenzen von behaupteten?** Reckwitz nennt drei Unverfügbarkeiten — Klima, Demografie, Sicherheitslage. Jede ist real. Aber „unverfügbar" ist auch das mächtigste Argument gegen Veränderung, das es gibt. Wem nützt es, wenn ein Verlust zur Naturtatsache erklärt wird?

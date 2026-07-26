@@ -75,6 +75,6 @@ Die faire Doppelseite: Die Verfolgung hat sein Werk nicht gebrochen, sondern ver
 - [[DenkerVita/Götz Aly|Götz Aly]] — Die zwei Millionen Besucher der Schandausstellung sind Alys Thema: die aktive Zustimmung des Volks. Klees Biografie liefert das ästhetische Kapitel zum „Teufelspakt“.
 - [[DenkerVita/Michel Foucault|Michel Foucault]] — Produktiver Gegenpol: Klee feiert das Sichtbarmachen als Erkenntnis, Foucault entlarvt Sichtbarkeit als Machttechnik. Die Ausstellung von 1937 war beides zugleich.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Paul Klee — Schoepferische Konfession]]

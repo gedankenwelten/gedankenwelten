@@ -32,7 +32,7 @@ Die meisten Systeme, die unsere Welt dominieren, haben **Kapital als Fundament**
 
 **Die Gegenfrage:** Können wir Systeme so bauen, dass sie **das Leben als Fundament** haben — Menschen, Natur, alle Lebewesen — und alles andere darauf aufbauen? Nicht als utopisches Gedankenexperiment, sondern als konkrete Architektur?
 
-Die Antwort, die sich aus dem Cortex destilliert: **Ja. Und es passiert bereits.**
+Die Antwort, die sich aus dem Bestand destilliert: **Ja. Und es passiert bereits.**
 
 ---
 
@@ -68,7 +68,7 @@ Der Hobbes-Rahmen macht die Architekten-These nicht pessimistischer — er macht
 
 ## Methode: Synthese aus dem Vault
 
-Wo *Gefangene des Systems* von vier Fallbeispielen ausgeht (Trump, Musk, Thiel, Xi) und die Pathologie analysiert, geht dieser Essay von **konkreten Gegenmodellen** aus, die im Cortex bereits dokumentiert sind — und destilliert daraus die gemeinsamen Architekturprinzipien.
+Wo *Gefangene des Systems* von vier Fallbeispielen ausgeht (Trump, Musk, Thiel, Xi) und die Pathologie analysiert, geht dieser Essay von **konkreten Gegenmodellen** aus, die hier bereits dokumentiert sind — und destilliert daraus die gemeinsamen Architekturprinzipien.
 
 Die theoretischen Fundamente sind dieselben Denker — nur von der anderen Seite gelesen:
 
@@ -438,4 +438,4 @@ Heins geoökonomische Analyse ist das Architekten-Prinzip auf geopolitischer Ebe
 
 ---
 
-*Dieser Essay ist ein Fundament — kein fertiges Gebäude. Er wird wachsen, wie der Cortex wächst.*
+*Dieser Essay ist ein Fundament — kein fertiges Gebäude. Er wird wachsen, wie die Gedankenwelten wachsen.*

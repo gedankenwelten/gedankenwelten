@@ -72,6 +72,6 @@ Yin und Yang gebieten, die Kritiker ernst zu nehmen, statt sie pauschal als Desi
 - [[DenkerVita/Liya Yu|Liya Yu]] — beide verlassen den Shaming-Diskurs zugunsten der Ebene unter der Intention: Dehumanisierung als Hirnfähigkeit, Diskriminierung als Struktur ohne Vorsatz.
 
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory|Kimberlé Crenshaw — Intersektionalität und Critical Race Theory]]

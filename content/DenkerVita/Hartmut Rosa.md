@@ -111,6 +111,6 @@ Ein philosophischer Gesprächspartner für Rosas Grundfrage nach dem gelingenden
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]]

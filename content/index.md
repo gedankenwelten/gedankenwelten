@@ -64,8 +64,6 @@ Die Gedankenwelten (luc)
 >
 > Zimbabwe ist kein armes Land — die Armut wurde hergestellt, als Waffe. Tsitsi Dangarembga über den Kolonialismus in den Köpfen und Wohlsein als Gegenentwurf zur Utopie.
 
-> → *6 weitere in* [[Denker]]
-
 ### Panorama
 
 > **25.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]

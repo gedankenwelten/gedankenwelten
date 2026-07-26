@@ -57,5 +57,5 @@ Menschenrechtsjurist mit klarer Position für die Durchsetzbarkeit des Völkerre
 
 ## Verbindungen zu anderen Denkern
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]

@@ -49,5 +49,5 @@ Kein Parteijournalist — Obermaier arbeitet klassisch aufklärerisch und überp
 
 ## Verbindungen zu anderen Denkern
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]

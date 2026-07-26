@@ -94,7 +94,7 @@ Kemfert liefert die energieökonomische Seite von Toozes These „Klimapolitik i
 ### → [[DenkerVita/Francesca Bria|Francesca Bria]]
 Toozes Frage „Wer kontrolliert die KI — Staat oder Konzern?" (Pentagon vs. Anthropic) trifft Brias Kernthema der digitalen und technologischen Souveränität. Beide lesen die KI- und Plattformmacht als Fortsetzung der Machtstruktur des Geldes mit anderen Mitteln; Bria denkt dabei stärker in politischen Gegenentwürfen (öffentliche Infrastruktur), Tooze im diagnostischen Strukturbefund.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Adam Tooze — Pentagon vs. Anthropic]] — KI-Kontrolle als Machtfrage zwischen Staat und Konzernen (Surplus-Interview)
 - [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]] — Tooze zur Herkunft des Polykrise-Begriffs (Morin, Juncker) und zu seinem Zweifel, ob grüne Modernisierung als Antwort noch trägt

@@ -71,6 +71,6 @@ Zur Redlichkeit gehört auch die Ambivalenz: In Teilen Pakistans ist Malala umst
 
 *(Montaigne befüllt diesen Abschnitt.)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung]]

@@ -58,5 +58,5 @@ Marazzitis Studie von 1999 ist ein vielzitierter Ausgangspunkt der Neurobiologie
 ## Verbindungen zu anderen Denkern
 *(Montaigne ergänzt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Die Neurobiologie der Liebe]]

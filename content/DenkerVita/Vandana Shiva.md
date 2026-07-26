@@ -82,6 +82,6 @@ Das Muster ist erkennbar: Ihre *strukturellen* Befunde — dass Konzern-Saatgut 
 
 *(Wird von Montaigne befüllt.)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]

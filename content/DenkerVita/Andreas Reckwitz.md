@@ -125,7 +125,7 @@ Genau darin liegt aber auch seine Stärke: Er liefert Vokabular für Erfahrungen
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Andreas Reckwitz — Fortschritt NEU DENKEN]] — Gespräch mit Maja Göpel (NEU DENKEN, 07/2026): der Fortschrittsglaube als historische Anomalie, Verlust als blinder Fleck der Moderne, und die drei Bausteine einer nicht-populistischen Verlustpolitik (Resilienz, Verlustausgleich, Fortschrittserbe)
 - [[Panorama/Fortschritt|Panorama — Fortschritt]] — das Panorama, dem diese Note die Wirbelsäule gibt: 29 Notes zum Fortschrittsversprechen, von Hegel und Schopenhauer bis zur KI

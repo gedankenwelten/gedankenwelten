@@ -74,7 +74,7 @@ Büttner argumentiert für europäische KI-Souveränität aus der Perspektive vo
 ### → [[DenkerVita/Frederike Kaltheuner|Frederike Kaltheuner]]
 Kaltheuner arbeitet an den konkreten Regeln und Schäden algorithmischer Systeme — Rechenschaft, Aufsicht, die Rechte der Betroffenen. Bria setzt eine Ebene höher an, bei Eigentum und Infrastruktur; zusammen ergeben beide die zwei Hälften einer demokratischen Techpolitik: wem die Systeme gehören (Bria) und wie man die einhegt, die man nicht besitzt (Kaltheuner).
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Francesca Bria — The Authoritarian Stack]] — Brias Kartierung der staatsähnlichen Macht der US-Tech-Konzerne
 - [[Yanis Varoufakis — Technofeudalism]] — Bria liefert die politische Machtarchitektur, Varoufakis die ökonomische Erklärung dahinter

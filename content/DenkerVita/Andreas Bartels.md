@@ -54,5 +54,5 @@ Bartels gehört zur Tradition der **funktionellen Bildgebung** in der Nachfolge 
 ## Verbindungen zu anderen Denkern
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Die Neurobiologie der Liebe]]

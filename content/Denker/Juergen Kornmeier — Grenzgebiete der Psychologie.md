@@ -297,7 +297,7 @@ Damit schließt sich der Bogen zum Anfang: Unser Wahrnehmungssystem misst nicht,
 - [Liaci, Fischer, Heinrichs, Tebartz van Elst & Kornmeier — Mona Lisa is always happy, and only sometimes sad (2017)](https://doi.org/10.1038/srep43511) — die Mona-Lisa-Studie im Volltext
 - [Liaci et al. — Positive and negative hysteresis effects for the perception of geometric and emotional ambiguities (2018)](https://doi.org/10.1371/journal.pone.0202398) — die Fortführung, mit Atmanspacher als Koautor: die Brücke zur verallgemeinerten Quantentheorie
 - [Wilson, Hecker, Joos, Aertsen, Tebartz van Elst & Kornmeier — Spontaneous Necker-cube reversals may not be that spontaneous (2023)](https://doi.org/10.3389/fnhum.2023.1179081) — aktueller Stand zum akategorialen Zustand
-- [Kornmeier et al. — What happens in the brain of meditators when perception changes but not the stimulus? (2019)](https://doi.org/10.1371/journal.pone.0223843) — Kippfiguren und Meditation; die unerwartete Brücke zur Vipassana-Ecke des Cortex
+- [Kornmeier et al. — What happens in the brain of meditators when perception changes but not the stimulus? (2019)](https://doi.org/10.1371/journal.pone.0223843) — Kippfiguren und Meditation; die unerwartete Brücke zur Vipassana-Ecke der Gedankenwelten
 
 *Zur Replikationsdebatte — beide Seiten (via Sherlock):*
 

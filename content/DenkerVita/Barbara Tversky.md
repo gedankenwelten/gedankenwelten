@@ -219,7 +219,7 @@ Merleau-Ponty's philosophical insights finden empirical validation in Tversky's 
 
 **Difference:** Damasio fokussiert auf emotional bodily states (somatic markers); Tversky zeigt dass *spatial/motoric* embodiment fundamental ist — nicht nur emotional. Sie complement sich eher als compete.
 
-### Zu Rebecca Böhme (Cortex-Vault)
+### Zu Rebecca Böhme
 
 Böhme erforscht cognitive distortions und wie das Gehirn Realität rekonstruiert. Tversky's work auf spatial memory distortions gibt Böhme empirical foundation.
 

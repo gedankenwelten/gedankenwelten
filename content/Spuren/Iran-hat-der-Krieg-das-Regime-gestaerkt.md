@@ -173,7 +173,7 @@ Der zweite Befund ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — A
 | **Globale Mächte mit Einsatz** | USA (Trump: „Sieg"), EU (Snapback-Sanktionen, alarmiert), China & Russland | China (Wang Yi): „inakzeptabel", „Tötung eines souveränen Führers", Bruch des Völkerrechts; Putin: „zynischer Mord"; beide vetoten die Hormuz-Resolution (07.04.) | jede Macht mit Agenda — China/Russland mit Öl- und Anti-US-Interesse, nicht aus Iran-Liebe |
 | **Globaler Süden / Blockfreie** | UN-Charta-/Souveränitäts-Argument, NAM-nahe Stimmen | Angriff auf einen souveränen Staat *während* Verhandlungen als gefährlicher Präzedenzfall — unabhängig von Sympathie fürs Regime | der eigentliche Mehrwert ggü. dem westlichen Feuilleton: die Norm, nicht das Regime, im Zentrum |
 
-**Provenienz-Notiz:** Der schärfste Befund liegt quer zu allen Lagern — *kein* großer Akteur spricht ohne Eigeninteresse. China und Russland verteidigen nicht Iran, sondern das **Prinzip souveräner Unverletzlichkeit**, das ihre eigene Lage schützt. Der Westen feiert einen „Sieg", dessen Hauptergebnis (Regime überlebt, härter) seinem erklärten Ziel widerspricht. → Reaktiviert die Cortex-Idee der **Weltpresseschau**: nicht nur *wie wir* blicken.
+**Provenienz-Notiz:** Der schärfste Befund liegt quer zu allen Lagern — *kein* großer Akteur spricht ohne Eigeninteresse. China und Russland verteidigen nicht Iran, sondern das **Prinzip souveräner Unverletzlichkeit**, das ihre eigene Lage schützt. Der Westen feiert einen „Sieg", dessen Hauptergebnis (Regime überlebt, härter) seinem erklärten Ziel widerspricht. → Reaktiviert die Idee einer **Weltpresseschau**: nicht nur *wie wir* blicken.
 
 ## Verbindungen
 
