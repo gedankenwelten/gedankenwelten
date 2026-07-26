@@ -6,6 +6,28 @@ tags:
   - links
 ---
 
+## Frauke Fischer — Kann KI die Natur retten? (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Kann KI die Natur retten? Wie Künstliche Intelligenz den Naturschutz revolutionieren kann](https://www.youtube.com/watch?v=6nikpfDUA8U) |
+| **Notiz** | [[Frauke Fischer — Kann KI die Natur retten]] |
+| **DenkerVita** | [[DenkerVita/Frauke Fischer]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Fischer_KI_Naturschutz_Transkript.txt` |
+| **Buch zum Vortrag** | Frauke Fischer & Hilke Oberhansberg: *Kann KI die Natur retten?* (oekom 2025) |
+| **Lizenz** | CC BY-SA 4.0 — Standbilder in der Note stammen aus dem Video |
+
+## Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen (re:publica 26)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Vom Tropenwald bis Neukölln: Warum wir die Welt vermessen müssen, um sie zu retten](https://www.youtube.com/watch?v=isBtyQD79cM) |
+| **Notiz** | [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen]] |
+| **DenkerVitas** | [[DenkerVita/Madlen Nicolaus]] · [[DenkerVita/Martin Winistoerfer]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Nicolaus_Winistoerfer_Vermessung_Transkript.txt` |
+| **Hinweis** | Bezahlte Partner-Session von Hexagon AB |
+| **Lizenz** | CC BY-SA 4.0 — Standbilder in der Note stammen aus dem Video |
+
 ## Andreas Reckwitz — Fortschritt NEU DENKEN (Mission Wertvoll)
 
 | | |

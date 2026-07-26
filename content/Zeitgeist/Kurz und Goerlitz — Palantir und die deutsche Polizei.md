@@ -212,6 +212,10 @@ Steinke analysiert den Chilling-Effekt geheimdienstlicher Beobachtung auf legale
 
 Die GFF ist in beiden Notes die handelnde Rechtsschutzorganisation: Görlitz koordiniert die Palantir-Verfassungsbeschwerden, Moini/Chiofalo leiten das AfD-Verbotsgutachten — die GFF bespielt algorithmische Polizeiüberwachung und demokratischen Schutz vor Rechtsextremismus aus derselben Rechtsschutzlogik.
 
+### → [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]]
+
+Dieselbe Konferenz, dieselbe Lücke von der Erzeugerseite. Wo Kurz und Görlitz zeigen, wie bestehende Bestände zusammengeführt werden, entsteht dort gerade ein neuer: ein hochauflösender Digitaler Zwilling Deutschlands, dazu mobil gescannte Städte, deren Rohdaten vor der Anonymisierung personenbezogen sind. Bemerkenswert ist die Asymmetrie im Wissen — der Forschungsleiter des scannenden Konzerns sagt über die Rechtslage seines eigenen Kerngeschäfts „grundsätzlich glaube ich" und vermutet einen Erlaubnisvorbehalt, den es in Deutschland gar nicht gibt. Beide Notes zusammen zeigen: Die Frage entscheidet sich nie am Zweck der Erhebung, sondern daran, wer später Zugriff hat.
+
 ---
 
 ## Weiterdenken

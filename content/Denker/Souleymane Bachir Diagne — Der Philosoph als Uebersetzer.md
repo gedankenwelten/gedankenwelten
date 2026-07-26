@@ -2,7 +2,7 @@
 title: "Souleymane Bachir Diagne — Der Philosoph als Übersetzer"
 description: "Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen."
 date: 05.07.2026
-aktualisiert: 07.07.2026
+aktualisiert: 26.07.2026
 tags:
   - denker
   - kalender

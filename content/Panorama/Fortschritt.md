@@ -31,9 +31,9 @@ erstellt: 2026-07-25
 </details>
 
 > [!abstract] Worum es geht
-> Zweieinhalb Jahrhunderte lang war die Antwort selbstverständlich: Es wird besser. Nicht als Hoffnung, sondern als Bauplan — Kredite, Renten, Investitionen, Wahlversprechen und die Erwartung an die eigenen Kinder setzen alle voraus, dass die Zukunft mehr hergibt als die Gegenwart. Dieses Panorama sammelt, was im Bestand über dieses Versprechen liegt: woher es kam, wie es sich durchsetzte, wo es hält und wo es reißt.
+> Zweieinhalb Jahrhunderte lang war die Antwort selbstverständlich: Es wird besser. Dieser Satz war ein Bauplan — Kredite, Renten, Investitionen, Wahlversprechen und die Erwartung an die eigenen Kinder rechnen alle damit, dass die Zukunft mehr hergibt als die Gegenwart. Dieses Panorama sammelt, was im Bestand über dieses Versprechen liegt: woher es kam, wie es sich durchsetzte, wo es hält und wo es reißt.
 >
-> Die schärfste Frage ist nicht, ob wir Fortschritt neu definieren müssen. Es ist die Frage, was mit einer Gesellschaft passiert, deren Institutionen auf eine Erwartung gebaut sind, die viele ihrer Mitglieder aus guten Gründen nicht mehr teilen.
+> Ob wir Fortschritt neu definieren müssen, ist dabei die harmlosere Frage. Die härtere: Was geschieht mit einer Gesellschaft, deren Institutionen auf eine Erwartung gebaut sind, die viele ihrer Mitglieder aus guten Gründen nicht mehr teilen?
 
 ---
 
@@ -41,9 +41,9 @@ erstellt: 2026-07-25
 
 Es gibt in den Gedankenwelten ein Panorama zur [[Kaufkraft]] und eines zum [[Neoliberalismus — Was zaehlt|Neoliberalismus]]. Beide fragen, warum der materielle Aufstieg stockt. Dieses hier fragt eine Ebene tiefer: warum wir überhaupt Aufstieg *erwarten*.
 
-Denn das ist keine anthropologische Konstante. [[Andreas Reckwitz — Fortschritt NEU DENKEN|Andreas Reckwitz]] macht sichtbar, wie schmal das Zeitfenster ist. Vormoderne Gesellschaften dachten Geschichte zyklisch — es geht auf und ab —, oder als Gleichbleiben, oder als schleichenden Niedergang von einem goldenen Zeitalter her, das *hinter* einem lag. Erst seit dem späten 18. Jahrhundert denkt eine Kultur in Verbesserungssequenzen, und sie hält das für normal.
+Diese Erwartung ist keine anthropologische Konstante, und das Zeitfenster, in dem sie gilt, ist erschreckend schmal — damit fängt [[Andreas Reckwitz — Fortschritt NEU DENKEN|Andreas Reckwitz]] an. Vormoderne Gesellschaften dachten Geschichte im Kreis: es geht auf und ab. Oder als Gleichbleiben. Oder als schleichenden Niedergang von einem goldenen Zeitalter her, das *hinter* einem lag. Erst seit dem späten 18. Jahrhundert denkt eine Kultur in Verbesserungssequenzen — und hält das für den Normalzustand.
 
-Das hat praktische Folgen, und sie sind das eigentliche Thema. Ein Kredit setzt voraus, dass er zurückgezahlt wird. Eine Rente setzt voraus, dass jemand nachkommt. Eine Wahl setzt voraus, dass sich etwas verbessern lässt. Wo die Erwartung wegbricht, bricht nicht nur die Stimmung — es bricht die Statik.
+Die Folgen davon sind praktisch. Ein Kredit setzt voraus, dass er zurückgezahlt wird. Eine Rente setzt voraus, dass jemand nachkommt. Eine Wahl setzt voraus, dass sich etwas verbessern lässt. Wo die Erwartung wegbricht, bricht nicht nur die Stimmung — es bricht die Statik.
 
 ---
 
@@ -51,9 +51,9 @@ Das hat praktische Folgen, und sie sind das eigentliche Thema. Ein Kredit setzt 
 
 ### Die Bilanz ist gemischt, das Gefühl ist es nicht
 
-Der Wohlstand war nie größer, die Zuversicht selten kleiner. Das ist der Ausgangsbefund, und er ist nicht bloß Gefühl. Bei Reallöhnen und Wohneigentum stagnieren jüngere Kohorten tatsächlich; bei Bildung, Gesundheit und Lebenserwartung gibt es weiterhin Zugewinne — [[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten|Petersdorff und Seydack]] mussten sich in ihrer eigenen Note dafür einen Faktencheck abholen, weil das verbreitete Millennial-Narrativ die eine Hälfte für die ganze nimmt.
+Der Wohlstand war nie größer, die Zuversicht selten kleiner. Beides lässt sich belegen, und beides gilt gleichzeitig. Bei Reallöhnen und Wohneigentum stagnieren jüngere Kohorten tatsächlich; bei Bildung, Gesundheit und Lebenserwartung laufen die Zugewinne weiter — [[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten|Petersdorff und Seydack]] mussten sich in ihrer eigenen Note dafür einen Faktencheck abholen, weil das verbreitete Millennial-Narrativ die eine Hälfte für die ganze nimmt.
 
-Aber die Erwartung rechnet nicht in Bilanzen. Wo Fortschritt zur Norm wird, wird jedes Ausbleiben zur Kränkung. Und wo alles besser werden soll, wird Bewahren zum Rückschritt umgedeutet — auch dort, wo es das Klügste wäre.
+Die Erwartung aber rechnet nicht in Bilanzen. Wo Fortschritt zur Norm wird, wird jedes Ausbleiben zur Kränkung. Und wo alles besser werden soll, gilt Bewahren als Rückschritt — auch dort, wo es das Klügste wäre.
 
 → [Lösungsansatz ↓](#fortschritt-als-erbe-lesen)
 
@@ -61,11 +61,11 @@ Aber die Erwartung rechnet nicht in Bilanzen. Wo Fortschritt zur Norm wird, wird
 
 ### Die Moderne hat keine Sprache für Verlust
 
-Reckwitz' zentrale These und der Kern dieses Panoramas: Eine Ordnung, die sich über Verbesserung definiert, hat keine kulturellen Werkzeuge für das Gegenteil. Verluste gab es in allen Gesellschaften. In das moderne Skript passen sie nicht hinein, und deshalb entsteht Sprachlosigkeit — am Sterbebett so wie vor dem Zusammenbruch der europäischen Sicherheitsordnung.
+Eine Ordnung, die sich über Verbesserung definiert, hat keine kulturellen Werkzeuge für das Gegenteil. Das ist Reckwitz' zentrale These und der Kern dieses Panoramas. Verluste gab es in allen Gesellschaften, in allen Jahrhunderten, und die meisten hielten Formen dafür bereit — Klagelieder, Trauerjahre, Prozessionen, ein Vokabular des Abschieds, das man nicht erfinden musste, wenn man es brauchte. Ins moderne Skript passt das nicht hinein. Was bleibt, ist Sprachlosigkeit, und sie klingt am Sterbebett genauso wie vor dem Zerfall der europäischen Sicherheitsordnung.
 
-Was daraus folgt, ist der politisch gefährlichste Mechanismus im ganzen Bild. Verlust erscheint als **Skandal**. Ein Skandal verlangt einen Verantwortlichen. Neben dem, der verliert, steht die Frage nach dem Dritten, der schuld sein soll.
+Daraus folgt der politisch gefährlichste Mechanismus in diesem ganzen Bild. Verlust erscheint als **Skandal**. Ein Skandal verlangt einen Verantwortlichen. Neben dem, der verliert, steht die Frage nach dem Dritten, der schuld sein soll.
 
-Der Bestand liefert die Belege für die Anschlussstelle: [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Heitmeyer]] zeigt, wie aus Kontrollverlust Rohheit wird, [[Doerre - Klassen Kapitalismus und Demokratie|Klaus Dörre]], wie sich Klassenlagen in Zorn übersetzen, [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger und Nachtwey]], wie aus Kränkung Zerstörungslust wird. Und [[Pankaj Mishra — Zeitalter des Zorns|Pankaj Mishra]] verlegt den Ursprung dieses Ressentiments direkt in 1789: Die Fortschrittserzählung selbst wird bei ihm zur unschlagbaren Ersatzreligion, die mehr Verlierer produziert, als sie einlösen kann.
+Von dort an ist der Weg kurz. Aus Kontrollverlust wird Rohheit ([[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Heitmeyer]]), aus Klassenlage Zorn ([[Doerre - Klassen Kapitalismus und Demokratie|Klaus Dörre]]), aus Kränkung Zerstörungslust ([[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger und Nachtwey]]). [[Pankaj Mishra — Zeitalter des Zorns|Pankaj Mishra]] datiert den Ursprung dieses Ressentiments auf 1789: Die Fortschrittserzählung selbst ist die unschlagbare Ersatzreligion, die mehr Verlierer produziert, als sie je einlösen kann.
 
 → [Lösungsansatz ↓](#nicht-populistische-verlustpolitik)
 
@@ -73,9 +73,9 @@ Der Bestand liefert die Belege für die Anschlussstelle: [[Wilhelm Heitmeyer —
 
 ### Der Maßstab ist umstritten — und wird von den Falschen gesetzt
 
-Woran messen wir „besser"? Freiheit, Gleichheit, Wohlstand, Lebensstandard, Lebensqualität — die Maßstäbe konkurrieren seit dem Anfang. [[Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Göpel und Truger]] zeigen, wie das BIP zum blinden Indikator wurde; [[Martin Oetting — Happy Planet Index 2026|der Happy Planet Index]] stellt die unbequeme Gegenrechnung: Costa Rica vorn, die USA auf Platz 105 — wer macht aus wenig Welt viel Leben?
+Woran messen wir „besser"? Freiheit, Gleichheit, Wohlstand, Lebensstandard, Lebensqualität — die Maßstäbe konkurrieren seit dem Anfang, und entschieden wurde der Streit nie. Er wurde an eine Kennzahl delegiert. Wie das BIP zu diesem blinden Indikator wurde, steht bei [[Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Göpel und Truger]]; die unbequeme Gegenrechnung im [[Martin Oetting — Happy Planet Index 2026|Happy Planet Index]]: Costa Rica vorn, die USA auf Platz 105. Wer macht aus wenig Welt viel Leben?
 
-[[Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran]] liefert die Alltagsempirie dagegen: Herde, die man neu starten muss, Duschschläuche mit Premium-Funktion. Die Dinge werden schlechter, während die Kennzahl steigt. Und [[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche]] macht dasselbe für den Besitz sichtbar — Streaming statt Eigentum ist kein Fortschritt, sondern eine neue Form von Kontrolle: Man zahlt mehr und besitzt weniger.
+Die Alltagsempirie dagegen ist banal und deshalb überzeugend — Herde, die man neu starten muss, Duschschläuche mit Premium-Funktion ([[Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran]]). Die Dinge werden schlechter, während die Kennzahl steigt. Beim Besitz läuft dasselbe eine Etage höher: [[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche]] liest Streaming statt Eigentum als neue Form von Kontrolle. Man zahlt mehr und besitzt weniger.
 
 → [Lösungsansatz ↓](#den-maßstab-öffentlich-machen)
 
@@ -83,9 +83,9 @@ Woran messen wir „besser"? Freiheit, Gleichheit, Wohlstand, Lebensstandard, Le
 
 ### Der technische Fortschritt liefert nicht, was er verspricht
 
-Der Fortschrittsglaube hat seine Keimzelle im Labor — erst dort dachte man kontinuierliche Verbesserung, dann übertrug die Aufklärungsphilosophie die Figur auf die Gesellschaft. Umso härter trifft der historische Befund aus dem [[NANO Talk — Arbeiten wir zu wenig oder voellig falsch|NANO-Talk]]: Technologischer Fortschritt hat seit der Dampfmaschine **nie** systematisch zu weniger Arbeit geführt. Bei den großen Industrialisierungsschüben nahm die Arbeitszeit tendenziell zu ([Huberman/Minns 2007](https://doi.org/10.1017/S0022050707000253)). Arbeitszeitverkürzungen wurden erkämpft, nicht geschenkt.
+Der Fortschrittsglaube hat seine Keimzelle im Labor — erst dort dachte man kontinuierliche Verbesserung, dann übertrug die Aufklärungsphilosophie die Figur auf die Gesellschaft. Umso härter trifft der historische Befund aus dem [[NANO Talk — Arbeiten wir zu wenig oder voellig falsch|NANO-Talk]]: Technologischer Fortschritt hat seit der Dampfmaschine **nie** systematisch zu weniger Arbeit geführt. Bei den großen Industrialisierungsschüben nahm die Arbeitszeit tendenziell zu ([Huberman/Minns 2007](https://doi.org/10.1017/S0022050707000253)). Jede Arbeitszeitverkürzung wurde erkämpft.
 
-Bei KI wiederholt sich das Muster in Echtzeit. [[Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage]] rechnet nüchtern vor, was das Exponentielle mit uns macht; Reckwitz' Umfragebefund zeigt die Reaktion darauf: In den USA sind mehr Menschen skeptisch als optimistisch — für ihn keine Technikfeindlichkeit, sondern eine Form von Vernunft. Und [[Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie|Der Zauberlehrling]] stellt die Frage, die sich vor jeder Politik stellt: Wer Magie ruft, ohne sie zu verstehen, verliert die Kontrolle über die Geister, die er rief.
+Bei KI wiederholt sich das Muster in Echtzeit. Was das Exponentielle mit uns macht, rechnet [[Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage]] nüchtern vor; die Reaktion darauf steht in Reckwitz' Umfragebefund: In den USA sind mehr Menschen skeptisch als optimistisch. Er hält das für eine Form von Vernunft. Und davor liegt ohnehin die ältere Frage, die [[Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie|Der Zauberlehrling]] stellt: Wer Magie ruft, ohne sie zu verstehen, verliert die Kontrolle über die Geister, die er rief.
 
 → [Lösungsansatz ↓](#technik-als-gestaltungsaufgabe-behandeln)
 
@@ -103,17 +103,17 @@ Die Anekdote, die beide Notes verbindet, ist zu gut, um sie zu übergehen: Als 1
 
 Reckwitz nennt neben der experimentellen Wissenschaft eine zweite, unbequemere Quelle: die säkularisierte Heilserwartung. Karl Löwiths Titel sagt es — *Weltgeschichte und Heilsgeschehen* (englisch 1949, deutsch 1953). Was Christen von der Religion erhofften, erhoffen die säkularen Modernen von der Geschichte.
 
-[[scobel — Luhmann Abklaerung der Aufklaerung|Luhmann]] hat dafür die kühlste Formel: Aufklärung über die Aufklärung. Zwei Weltkriege, Holocaust, Atombombe, der Zerfall internationaler Rechtsordnung — keines davon hat der Aufklärungsfortschritt verhindert. Kant hatte auf die öffentliche Vernunft gesetzt, Habermas hält daran fest. Luhmann beobachtet nur noch, statt zu hoffen.
+[[scobel — Luhmann Abklaerung der Aufklaerung|Luhmann]] hat dafür die kühlste Formel: Aufklärung über die Aufklärung. Zwei Weltkriege, Holocaust, Atombombe, der Zerfall internationaler Rechtsordnung — keines davon hat der Aufklärungsfortschritt verhindert. Kant hatte auf die öffentliche Vernunft gesetzt, Habermas hält daran fest. Luhmann hört auf zu hoffen und fängt an zu beobachten.
 
 ### Der Imperativ war nie friedlich
 
-Fortschritt war eine Idee, und dann eine Durchsetzung. Nach innen wie nach außen: Eroberung, Kolonialisierung, *White Man's Burden* — und der Maßstab, an dem andere Kulturen defizitär erschienen, auch solche, die einfach zufrieden waren, wie sie waren. Reckwitz weist darauf hin, dass der Imperativ noch im Vokabular sitzt: Entwicklungsländer und Industrieländer, als wüsste man, wohin die Weltgeschichte läuft.
+Fortschritt war eine Idee, und dann eine Durchsetzung. Nach innen wie nach außen: Eroberung, Kolonialisierung, *White Man's Burden* — und der Maßstab, an dem andere Kulturen defizitär erschienen, auch solche, die einfach zufrieden waren, wie sie waren. Der Imperativ sitzt, wie Reckwitz anmerkt, bis heute im Vokabular: Entwicklungsländer und Industrieländer, als wüsste man, wohin die Weltgeschichte läuft.
 
-[[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory|Kimberlé Crenshaw]] liefert die Innensicht derselben Frage in einem einzigen Verhältnis: acht Jahre Fortschritt, sieben Jahrzehnte Rückbau. Fortschritt ist nicht nur ungleich verteilt — er ist reversibel, und der Rückbau ist der längere Vorgang.
+Die Innensicht derselben Frage steht bei [[Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory|Kimberlé Crenshaw]] in einem einzigen Verhältnis: acht Jahre Fortschritt, sieben Jahrzehnte Rückbau. Fortschritt ist ungleich verteilt und obendrein reversibel, und der Rückbau ist der längere Vorgang.
 
 ### Die Spätmoderne baut Gewinner und Verlierer ein
 
-Was die Lage verschärft, ist die Bauform der Gegenwart selbst. Wissensökonomie gegen Deindustrialisierung, prosperierende gegen schrumpfende Regionen — Reckwitz nennt das Gewinner-Verlierer-Konstellationen und hält sie für schärfer als in den Jahrzehnten davor. [[Heinz Bude — Boomer-Soziologie|Heinz Bude]] beschreibt die Generation, die noch im aufsteigenden Ast lebte und ihre Deutungsmuster von dort mitnahm; [[Heiner Flassbeck — Deutschlands Lohn-Irrsinn|Flassbeck]] zeigt, dass die deutsche Lohnzurückhaltung eine politische Entscheidung war, kein Marktphänomen.
+Was die Lage verschärft, ist die Bauform der Gegenwart selbst. Wissensökonomie gegen Deindustrialisierung, prosperierende gegen schrumpfende Regionen — Reckwitz nennt das Gewinner-Verlierer-Konstellationen und hält sie für schärfer als in den Jahrzehnten davor. Zwei Linien laufen darauf zu. [[Heinz Bude — Boomer-Soziologie|Heinz Bude]] — die Generation, die noch im aufsteigenden Ast lebte und ihre Deutungsmuster von dort mitnahm. [[Heiner Flassbeck — Deutschlands Lohn-Irrsinn|Flassbeck]] — die deutsche Lohnzurückhaltung als politische Entscheidung; der Markt hat sie nie verlangt.
 
 ---
 
@@ -123,33 +123,33 @@ Was die Lage verschärft, ist die Bauform der Gegenwart selbst. Wissensökonomie
 
 ✅ **trägt bei.** Reckwitz' originellster Vorschlag dreht die Blickrichtung: Fortschritt muss nicht das sein, was noch kommt. Man kann fragen, was in 250 Jahren schon errungen wurde — liberale Demokratie, Bildungskultur, öffentliche Infrastrukturen. Das Wort *Erbe* ist mit Bedacht gewählt, denn ein Erbe kann man verspielen. Habermas' Sperrklinkeneffekt, nach dem Errungenes mechanisch nicht zurückgehen kann, nennt Reckwitz eine unglaublich naive Vorstellung.
 
-Die politische Folge durchschneidet die Lagerlogik: *„Als Progressiver muss man da jeweils teilweise auch konservativ sein."* Sein Beispiel ist Kamala Harris, die 2024 einen bereits erkämpften Fortschritt verteidigte statt einen neuen zu versprechen.
+Die politische Folge durchschneidet die Lagerlogik: *„Als Progressiver muss man da jeweils teilweise auch konservativ sein."* Sein Beispiel ist Kamala Harris, die 2024 einen bereits erkämpften Fortschritt verteidigte, wo im Wahlkampf sonst ein neuer versprochen wird.
 
 ⚠️ **Der Einwand.** Das Wahlrecht hat jeder geerbt, das funktionierende Schwimmbad nicht. Wer über das Erbe spricht, muss mitsprechen, wer je daran beteiligt war — sonst wird der schöne Begriff zur Verteidigung eines Besitzstands, der nie allen gehörte. Genau das ist Crenshaws Frage.
 
 ### Nicht-populistische Verlustpolitik
 
-✅ **trägt bei — mit zwei Bausteinen.** Der erste ist **Resilienz**: mit Einbrüchen rechnen statt sie wegzudenken, und abpuffern. Reckwitz nennt das eine „abgespeckte Fortschrittsidee" und liefert das konkreteste Bild des ganzen Panoramas — Berlin in der Hitzewelle, eine Million neue Bäume, Beschattung. Kein Zurück-zum-Vorher, sondern selbst ein Transformationsprogramm.
+✅ **trägt bei — mit zwei Bausteinen.** Der erste ist **Resilienz**: mit Einbrüchen rechnen, sie abpuffern, sie nicht wegdenken. Reckwitz nennt das eine „abgespeckte Fortschrittsidee" und liefert dazu das konkreteste Bild des ganzen Panoramas — Berlin in der Hitzewelle, eine Million neue Bäume, Beschattung. Das Programm stellt nicht das Vorher wieder her; es baut die Stadt um.
 
-Der zweite ist **Verlustausgleich** über Vulnerabilität: Verluste sind ungleich verteilt, also fängt man bei den Verletzlichsten an. Die sozial belasteten Stadtviertel überhitzen am stärksten — dort beginnt Klimaresilienz. Übertragbar auf Bildung und Gesundheit, wo soziale Infrastruktur Verluste abfedert. [[Christoph Butterwegge — Armut NEU DENKEN|Butterwegge]] liefert dazu die Armutsseite, [[Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke|Schmitz und Maio]] die philosophische: Verletzlichkeit als Ausgangspunkt, nicht als Defekt.
+Der zweite ist **Verlustausgleich** über Vulnerabilität: Verluste sind ungleich verteilt, also fängt man bei den Verletzlichsten an. Die sozial belasteten Stadtviertel überhitzen am stärksten — dort beginnt Klimaresilienz. Übertragbar auf Bildung und Gesundheit, wo soziale Infrastruktur Verluste abfedert. Die Armutsseite dazu steht bei [[Christoph Butterwegge — Armut NEU DENKEN|Butterwegge]], die philosophische bei [[Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke|Schmitz und Maio]], für die Verletzlichkeit der Ausgangspunkt eines Gemeinwesens ist.
 
 ⚠️ **Der Einwand, und er ist gewichtig.** Maja Göpel hält Reckwitz im Gespräch entgegen, dass Resilienz politisch schon einmal genau umgekehrt benutzt wurde: als Versprechen, der Schock werde ausgestanden und danach sei alles wie vorher. Damit wurden strukturelle Veränderungen hinausgezögert, die jetzt fällig werden. Und ihre zweite Bedingung ist härter: Wer Verluste zumutet, während sich oben jemand freikauft und in der Krise Übergewinne abfallen, bekommt keine Zustimmung — dann kippt Loslassen in einen absoluten Verteilungskampf.
 
 ### Den Maßstab öffentlich machen
 
-⚠️ **umstritten.** Alternative Kennzahlen liegen bereit: Happy Planet Index, Donut-Ökonomie, die Suffizienz-Frage nach dem *gut genug*. Göpel bringt Katherine Trebecks *The Economics of Arrival* ein: Wann ist eine Wirtschaft eigentlich gut versorgt? Ihr eigener Befund im Gespräch ist der schärfste Einwand gegen den Reflex, Geld mache eben glücklich: Das liegt nicht am Geld, sondern daran, dass Geld Zugang garantiert — zu Bildung, Wohnraum, Gesundheit. Zugang ließe sich anders organisieren. Genau das war das Versprechen der sozialen Marktwirtschaft.
+⚠️ **umstritten.** Alternative Kennzahlen liegen bereit: Happy Planet Index, Donut-Ökonomie, die Suffizienz-Frage nach dem *gut genug*. Göpel bringt Katherine Trebecks *The Economics of Arrival* ein: Wann ist eine Wirtschaft eigentlich gut versorgt? Ihr eigener Befund im Gespräch ist der schärfste Einwand gegen den Reflex, Geld mache eben glücklich: Was glücklich macht, ist der Zugang, den Geld garantiert — zu Bildung, Wohnraum, Gesundheit. Zugang ließe sich anders organisieren. Genau das war das Versprechen der sozialen Marktwirtschaft.
 
-Warum es dennoch nur ⚠️ bekommt: Kennzahlen ändern keine Praktiken. Suffizienz wird im Diskurs zuverlässig als „zurück in die Höhlen" konnotiert, und niemand hat bisher gezeigt, wie man eine Kreditwirtschaft auf ein Genug umstellt, deren Statik auf Wachstum ruht. [[Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel]] und [[Stremlau und Goepel — Investieren NEU DENKEN|Stremlau und Göpel]] arbeiten an dieser Nahtstelle.
+Warum es dennoch nur ⚠️ bekommt: Kennzahlen ändern keine Praktiken. Suffizienz wird im Diskurs zuverlässig als „zurück in die Höhlen" konnotiert, und niemand hat bisher gezeigt, wie man eine Kreditwirtschaft auf ein Genug umstellt, deren Statik auf Wachstum ruht. An dieser Nahtstelle arbeiten [[Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel]] und [[Stremlau und Goepel — Investieren NEU DENKEN|Stremlau und Göpel]].
 
 ### Technik als Gestaltungsaufgabe behandeln
 
-✅ **trägt bei.** Reckwitz weist den Technikdeterminismus zurück, und zwar mit seinem eigenen methodischen Werkzeug: Technologie setzt sich nicht durch wie eine Naturgewalt, sondern wird in sozialen Praktiken angeeignet und in institutionellen Ordnungen reguliert — oder eben nicht. Von der Kontrolle der KI-Unternehmen bis zur Frage, wie ich morgens damit umgehe. Das ist der einzige Punkt des Gesprächs, an dem er die klassische Fortschrittsidee ausdrücklich weiterträgt: Wir sind dem nicht ausgeliefert.
+✅ **trägt bei.** Technologie kommt nicht wie ein Wetter über uns; sie wird in sozialen Praktiken angeeignet und in institutionellen Ordnungen reguliert — oder eben nicht. Mit diesem, seinem eigenen methodischen Werkzeug weist Reckwitz den Technikdeterminismus zurück, von der Kontrolle der KI-Unternehmen bis zur Frage, wie ich morgens damit umgehe. Es ist der einzige Punkt des Gesprächs, an dem er die klassische Fortschrittsidee ausdrücklich weiterträgt: Wir sind dem nicht ausgeliefert.
 
-❌ **Was es nicht löst:** die Machtfrage. Göpels Gegenrede im selben Gespräch — europäische Regulierung unter Druck US-amerikanischer Konzerne, ein gesellschaftsweites Realexperiment ohne Vorsorgeprinzip, Europa vor allem als mitfinanzierender Markt, und eine Fraktion, die inzwischen autoritär unterwegs ist. Gestaltbarkeit ist keine Eigenschaft der Technik, sondern eine Frage davon, wer sie besitzt. Dazu → [[Autoritaerer Internationalismus]].
+❌ **Was es nicht löst:** die Machtfrage. Göpels Gegenrede im selben Gespräch — europäische Regulierung unter Druck US-amerikanischer Konzerne, ein gesellschaftsweites Realexperiment ohne Vorsorgeprinzip, Europa vor allem als mitfinanzierender Markt, und eine Fraktion, die inzwischen autoritär unterwegs ist. Wer die Technik besitzt, entscheidet, ob sie gestaltbar ist. Dazu → [[Autoritaerer Internationalismus]].
 
 ### Komplex denken statt fortschreiten
 
-⚠️ **umstritten, aber unterschätzt.** [[Edgar Morin — Das komplexe Denken|Edgar Morin]] bietet die formale Alternative zum linearen Modell: zwei nötige, gegensätzliche Logiken zusammenhalten, ohne sie zur Synthese zu zwingen. Das ist keine Politik, sondern eine Denkform — und genau darin liegt der Vorwurf, sie leiste nichts. Was sie leistet: Sie macht es möglich, „das ist offen" als vollständigen Befund stehen zu lassen, statt in Fortschrittsoptimismus oder Niedergangsgewissheit auszuweichen.
+⚠️ **umstritten, aber unterschätzt.** Die formale Alternative zum linearen Modell steht bei [[Edgar Morin — Das komplexe Denken|Edgar Morin]]: zwei nötige, gegensätzliche Logiken zusammenhalten, ohne sie zur Synthese zu zwingen. Das ist eine Denkform und damit angreifbar — sie leiste nichts, lautet der Vorwurf. Sie leistet dies: Man darf „das ist offen" als vollständigen Befund stehen lassen und muss nicht in Fortschrittsoptimismus oder Niedergangsgewissheit ausweichen.
 
 Auf der anderen Seite steht [[Rutger Bregman — Ist der Mensch wirklich gut|Rutger Bregman]] mit dem stärksten Gegenargument gegen jede Ernüchterung: Ein zynisches Menschenbild ist selbst die gefährlichste selbsterfüllende Prophezeiung. Wenn der Fortschrittsglaube als Self-fulfilling Prophecy wirkte — was erfüllt sich, wenn genug Leute aufhören, ihn zu glauben?
 
@@ -157,8 +157,8 @@ Auf der anderen Seite steht [[Rutger Bregman — Ist der Mensch wirklich gut|Rut
 
 ## Offene Fragen
 
-- **Hatte die Moderne wirklich keine Werkzeuge für den Verlust?** Sie hat Versicherungen erfunden, Sozialstaat, Rentensysteme, Hospizbewegung. Vielleicht ist die Diagnose präziser so: Sie hat *bürokratische* Werkzeuge gebaut statt kultureller. Was kann ein Ritual, was eine Auszahlung nicht kann? Die Gegenseite dieser Frage liegt in den Vergänglichkeitsnotes — [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz|Ksitigarbha]] behandelt die Wunde als Schatz, nicht als Störfall. Diese Achse ist im Panorama noch nicht ausgearbeitet.
-- **Wer soll die ehrliche Rede führen?** Reckwitz sagt selbst, ob es gehört werde, sei eine andere Frage. Ein Politiker, der im Wahlkampf von Verlustakzeptanz spricht, verliert. Es könnte sein, dass die Instanzen, die Verlust sprechbar machen, keine politischen sind — Nachbarschaften, Vereine, Gemeinden. Das wäre keine Verlustpolitik, sondern deren Voraussetzung.
+- **Hatte die Moderne wirklich keine Werkzeuge für den Verlust?** Sie hat Versicherungen erfunden, Sozialstaat, Rentensysteme, Hospizbewegung. Vielleicht ist die Diagnose präziser so: Sie hat *bürokratische* Werkzeuge gebaut, wo die kulturellen fehlten. Was kann ein Ritual, was eine Auszahlung nicht kann? Die Gegenseite dieser Frage liegt in den Vergänglichkeitsnotes — [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz|Ksitigarbha]] behandelt die Wunde als Schatz. Diese Achse ist im Panorama noch nicht ausgearbeitet.
+- **Wer soll die ehrliche Rede führen?** Reckwitz sagt selbst, ob es gehört werde, sei eine andere Frage. Ein Politiker, der im Wahlkampf von Verlustakzeptanz spricht, verliert. Es könnte sein, dass die Instanzen, die Verlust sprechbar machen, keine politischen sind — Nachbarschaften, Vereine, Gemeinden. Das wäre erst die Voraussetzung; die Politik käme danach.
 - **Ist Verlust überhaupt der zentrale Riss?** [[Steffen Mau — Triggerpunkte Konsens und Konflikt|Steffen Mau]] hat empirisch gezeigt, dass die deutsche Gesellschaft in den meisten Fragen einig ist und Konflikt nur an wenigen Triggerpunkten aufflammt. Reckwitz beschreibt härtere Gewinner-Verlierer-Konstellationen als je zuvor. Misst der eine Meinungen und der andere Lebenslagen?
 - **Wie unterscheidet man erreichte Grenzen von behaupteten?** Reckwitz nennt drei Unverfügbarkeiten — Klima, Demografie, Sicherheitslage. Jede ist real. Aber „unverfügbar" ist auch das mächtigste Argument gegen Veränderung, das es gibt. Wem nützt es, wenn ein Verlust zur Naturtatsache erklärt wird?
 - **Fehlt im Bestand:** eine Note zum globalen Süden, für den das Fortschrittsversprechen nie eingelöst wurde und der Verzicht deshalb anders klingt. Mishra und Crenshaw deuten darauf, decken es nicht ab.

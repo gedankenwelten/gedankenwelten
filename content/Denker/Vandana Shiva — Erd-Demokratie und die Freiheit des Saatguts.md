@@ -229,4 +229,8 @@ Parallele Dekolonisierung der Ökonomie aus eigenen Quellen: Wo Sarr Ubuntu und 
 
 Erkenntnistheoretischer Unterbau: Morins *Terre-Patrie* und sein Denken gegen die Zersplitterung des Wissens spiegeln Shivas *oikos* als gemeinsame Wurzel von Ökonomie und Ökologie — verbundenes statt trennendes Denken.
 
+### → [[Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
+
+Die produktivste Reibung zu Shivas *production boundary*. Die Tropenökologin Fischer will die Natur genau dort hineinholen, wo Shiva die Wurzel des Übels sieht — in die Bilanz. Ihr Argument, dass ein Großteil der zugelassenen Medikamente auf Naturstoffe zurückgeht, verhandelt dasselbe Verhältnis, das Shiva am Neem-Patent als Biopiraterie beschreibt: Was für die eine ein Schutzargument ist, ist für die andere die Zugriffsgeste selbst, *bio nullius*. Und das Gorilla-Wallet, das nach gemessenem Ökosystemzustand an indigene Gemeinschaften auszahlt, wäre für Shiva vermutlich die Fortsetzung der Aneignung mit freundlichem Gesicht — während Fischer nüchtern sagt, sie habe aufgehört, auf Einsicht zu warten. Beide Notes zusammen stellen die Frage, die keine von beiden allein beantwortet: ob man etwas schützen kann, indem man es bepreist, oder ob der Preis schon die Enteignung ist.
+
 ---

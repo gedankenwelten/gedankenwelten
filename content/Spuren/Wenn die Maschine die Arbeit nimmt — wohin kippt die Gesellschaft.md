@@ -132,6 +132,10 @@ Der konkrete Einzelfall des Kill-Switch — ein Datenpunkt für Signal 5 (wer ko
 ### → [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
 Das Paradox der Dystopie — die Mächtigen als Gefangene ihres eigenen Systems — vertieft, warum auch der linke Pol des Seils niemanden glücklich macht.
 
+### → [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]]
+
+Ein harter Datenpunkt für das Seil, gesprochen vom Hersteller selbst: AEON, ein humanoider Roboter, steht seit Juni 2026 im BMW-Werk Leipzig an realen Produktionsaufgaben in der Hochvoltbatterie-Montage. Interessanter als die Maschine ist die Begründung — nicht Kostensenkung, sondern fehlende Menschen: repetitive Arbeit wolle niemand mehr machen, in der Landwirtschaft fehlten „irgendwie 20 Prozent" der Stellen, und für die Rückverlagerung der Fertigung aus China gebe es keine Arbeitskräfte. Der Faktencheck der Note findet für diese 20 Prozent keine Grundlage. Damit ist genau die Erzählung markiert, an der die Spur mitliest: Wenn der Business Case für humanoide Robotik daran hängt, dass niemand mehr da ist, wird das Fehlen von Menschen zur Behauptung mit Geschäftsinteresse.
+
 ## Quellen
 
 *Pilot — die Quellenbasis wächst mit den Sweeps. Erste Anker:*

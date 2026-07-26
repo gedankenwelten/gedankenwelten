@@ -1,6 +1,6 @@
 ---
 title: "Mark Benecke — Fragerunde: Time Is Up 2026"
-aktualisiert: 2026-05-11
+aktualisiert: 2026-07-26
 date: 11.05.2026
 tags:
   - zeitgeist
@@ -204,3 +204,7 @@ Alle Gedankenwelten-Notes zu Mark Benecke im Überblick.
 ### → [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
 
 Produktivste Gegenperspektive: Benecke beschreibt Bodenkollaps, Hunger und Meeresströmungs-Probleme — die Good-News-Note dokumentiert gleichzeitig Mpox-Sieg, Juan-Fernández-Meeresschutzgebiet und 60% weniger Kindertode. Wer beide liest, erhält ein ehrlicheres Bild als jede Note für sich.
+
+### → [[Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
+
+Der konkrete Gegenvorschlag zu Pöttingers 30×30-Kritik. Wo sie zeigt, dass Naturschutz als Vertreibung funktionieren kann — Tansania, Schusswaffen, Trophäenjagd auf entvölkerten Flächen —, stellt die Tropenökologin Fischer ein Modell vor, das genau umgekehrt gebaut ist: Interspecies Money zahlt für den gemessenen Zustand eines Lebensraums, und das Geld geht an Ranger, indigene Gemeinschaften, die Parkverwaltung, an einen Richter, der illegale Rodung verfolgt hat. Aufgelöst ist Pöttingers Einwand damit nicht, nur verlagert: Wer das Modell trainiert, definiert, wann ein Wald „in Ordnung" ist, und wessen Einkommen an dieser Definition hängt, hat auch ein Interesse an einem gefälligen Messwert. Hartliebs in Milliarden bezifferte Bestäuberleistung ist derselbe Zug wie Fischers ganze Argumentation — die Natur in eine Währung übersetzen, um überhaupt gehört zu werden.

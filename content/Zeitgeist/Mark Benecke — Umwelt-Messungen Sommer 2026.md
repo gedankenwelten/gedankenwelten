@@ -227,3 +227,7 @@ Das Yang zu Beneckes Yin: Wo Benecke die ungeschönten Klimamessdaten zusammentr
 ### → [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 
 Zwei Wissenschaftskommunikatoren am gleichen Lese-Problem: Beneckes *Baseline Shift* (wer nie eine Insektenwiese sah, weiß nicht, was fehlt) und Beautemps' „Rekordjahr ≠ Trend geändert" sind beide Warnungen, das kurzfristige Signal nicht mit dem langfristigen Bezugsrahmen zu verwechseln.
+
+### → [[Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
+
+Der *Baseline Shift* von der anderen Seite. Bei Benecke verschiebt sich der Maßstab im Betrachter — wer nie eine Wiese voller Insekten erlebt hat, weiß nicht, was fehlt. Die Tropenökologin Fischer zeigt, dass sich auch das Verlorene selbst dem Blick entzieht: Was zuerst verschwindet, ist nicht die Art, sondern die genetische Varianz innerhalb einer Population — also genau die Fähigkeit, auf eine Pandemie, einen neuen Räuber, drei Grad mehr zu reagieren. Selten werden heißt, diese Varianz verlieren, und Seltenwerden ist die Vorstufe zum Aussterben. Man kann eine Art zählen; ihre Resilienz kann man nicht fotografieren. Zusammen ergeben beide Notes eine Form des Verlusts, die stattgefunden hat, bevor sie zählbar wird — Beneckes einzelner Käfer auf dem Berliner Friedhof ist ihr Bild, Fischers Eimer Sand die Antwort auf die Frage, ob sich so etwas nachbauen ließe.
