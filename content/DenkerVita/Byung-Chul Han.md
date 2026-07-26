@@ -85,6 +85,6 @@ Die Rezeption ist gespalten: Weltweiter Erfolg wegen der luziden, aphoristischen
 - [[DenkerVita/Erich Fromm|Erich Fromm]] — Fromm ist Hans direkter Ahn: *Haben oder Sein* liefert die Struktur für Hans *Finger vs. Hand*, und Fromms *Flucht vor der Freiheit* ist die psychoanalytische Vorlage für Hans Bild vom Vieh, das den Zaun nicht mehr als Gefängnis erkennt. Kapitalismuskritik als Charakterdiagnose, von der Psychoanalyse zur Medienphänomenologie weitergereicht.
 - [[DenkerVita/Hannah Arendt|Hannah Arendt]] — Hans Kronzeugin gegen die Infokratie: Er zitiert Arendts Wahrheit als „Boden und Himmel" wörtlich. Beide verteidigen den gemeinsamen Faktenboden gegen seine Auflösung — Arendt gegen den Totalitarismus, Han gegen die Post-Truth-Plattform; und Arendts *Natalität* braucht genau das unverfügbare Gegenüber, dessen Verschwinden Han beklagt.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Byung-Chul Han — Das Glueck kommt durch die Haende]] — die Korea-University-Vorlesung „On Happiness" (2023): Glück als Handarbeit, Garten, Flügel, Vieh vs. Sklave, Infokratie

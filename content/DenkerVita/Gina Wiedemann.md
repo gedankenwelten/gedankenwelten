@@ -56,6 +56,6 @@ tags: [denker-vita, medien, rechtsextremismus, erinnerungskultur]
 - [[DenkerVita/Annika Brockschmidt|Annika Brockschmidt]] — dieselbe Entschlüsselungsarbeit an Dog Whistles, nur am US-Material: Codes der extremen Rechten als lesbare Sprache.
 - [[DenkerVita/Katharina Nocun|Katharina Nocun]] — beide zeigen, wie der Algorithmus extremistische Inhalte trägt — Nocun beim KI-Content, Wiedemann in der Kommentarspalte.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]

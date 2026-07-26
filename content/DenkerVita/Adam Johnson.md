@@ -71,6 +71,6 @@ Wichtig für die Einordnung: Johnsons Kritik zielt nicht auf „Fake News" oder 
 - **[[Zeitgeist/Max Blumenthal & Chris Hedges — Wie Israel Trump in den Krieg trieb|Max Blumenthal & Chris Hedges]]** — dieselbe US-Nahost-Medienkritik, anekdotisch statt quantitativ; Johnsons Zählwerk liefert die Daten zu ihren Fallgeschichten.
 - **Edward S. Herman / Noam Chomsky** — das Fundament: *Manufacturing Consent* (1988). Johnsons Buch ist im Kern die Anwendung des Propagandamodells auf Gaza 2023–2025.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Adam Johnson - How to Sell a Genocide]]

@@ -85,6 +85,6 @@ Vollständige Publikationsliste: [igpp.de — Jürgen Kornmeier](https://igpp.de
 
 **Harald Atmanspacher · Hartmann Römer · Michael Bach** — die drei Männer, die seinen Weg bestimmten: der theoretische Physiker, der ihm die Kippfiguren gab und freie Hand ließ; der Universalgelehrte, der die *verallgemeinerte Quantentheorie* aus dem Pauli-Jung-Dialog formalisierte; und der Sehforscher aus der Augenklinik, der die Ko-Betreuung übernahm, weil Kornmeier jemanden für die Praxis brauchte. „Meine Chefs waren meistens schlauer als ich, was ich immer toll fand."
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Juergen Kornmeier — Grenzgebiete der Psychologie]]

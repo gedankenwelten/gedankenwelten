@@ -76,6 +76,6 @@ Beide denken Fiskal- und Investitionspolitik empirisch und institutionennah stat
 ### → [[DenkerVita/Adam Tooze|Adam Tooze]]
 Tooze liefert die historisch-globale Einbettung für Trugers Fiskaldebatte: wie Staaten in Krisen tatsächlich handelten und wie Austerität historisch wirkte. Wo Truger die deutsche Schuldenbremse seziert, zeigt Tooze das größere Muster — dass die scheinbar technische Sparregel immer eine politische Machtentscheidung war.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Maja Goepel und Achim Truger — Wachstum NEU DENKEN]]

@@ -38,7 +38,7 @@ Daneben schreibt er unermüdlich: Seine Kolumne „Dalitality" im *Indian Expres
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Dr. Suraj Yengde on BR Ambedkar's „Annihilation of Caste"](https://www.youtube.com/watch?v=aDLvYIZY6Ao) — Radical Books Collective / WARSCAPES, 2021 (~2 Std.; Grundlage der Cortex-Note)
+- [Dr. Suraj Yengde on BR Ambedkar's „Annihilation of Caste"](https://www.youtube.com/watch?v=aDLvYIZY6Ao) — Radical Books Collective / WARSCAPES, 2021 (~2 Std.; Grundlage der Note)
 - [Suraj Yengde in Conversation with Anupama Rao on Caste Matters](https://www.youtube.com/watch?v=zDg_mopJZ6E) — Ambedkar Lectures, 2019
 - [Race and Caste Matters: International Connections](https://www.youtube.com/watch?v=IWhtmLivT8s) — mit Cornel West, 2020
 - [Caste Matters — Gespräch mit Surinder S. Jodhka](https://www.youtube.com/watch?v=pEVvznpS63E) — Jaipur Literature Festival, 2023
@@ -65,7 +65,7 @@ Yengde steht in der progressiven, ambedkaritischen Anti-Kaste-Linken: scharfer K
 - **[[Denker/Erich Fromm — Haben oder Sein|Erich Fromm]]** — der Kastenstatus als Haben ohne Besitz; Ambedkars tätiger Buddha als Sein-Modus in sozialer Aktion.
 - **W.E.B. Du Bois & Cornel West** — die Dalit-Black-Brücke ist Yengdes biografischer roter Faden (Oxford-Dissertation *Dalit-Black Worlds*; West schrieb das Vorwort-Umfeld zu *Caste Matters*).
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Suraj Yengde — Annihilation of Caste]]
 - [[Ambedkar - Kaste als Ontologie]] — dort ist Yengdes Harvard-Vortrag „The Dalitality in Du Bois and Ambedkar" Quelle C

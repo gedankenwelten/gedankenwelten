@@ -98,5 +98,5 @@ kämpferisch: Sie zielt auf Erkenntnis und Empathie, nicht auf Abrechnung.
 - [[DenkerVita/Achille Mbembe|Achille Mbembe]] — Rasse als junge, gemachte Kategorie; er setzt mit der Frage der Reparatur fort, wo ihre Diagnose endet
 - [[DenkerVita/Martyna Linartas|Martyna Linartas]] — die Erbengesellschaft als ökonomischer Zwilling der Kaste: vererbte, unverdiente Rangordnung
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Isabel Wilkerson — Race Caste and Social Justice]]

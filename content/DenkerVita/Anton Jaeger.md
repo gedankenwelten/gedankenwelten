@@ -64,6 +64,6 @@ Jäger schreibt aus dem Umfeld der demokratischen, marxistisch informierten Link
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]]

@@ -63,6 +63,6 @@ Skenderovic ist Wissenschaftler, kein Aktivist — sein Anliegen ist historische
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]]

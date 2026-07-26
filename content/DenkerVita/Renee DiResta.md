@@ -56,7 +56,7 @@ DiResta schrieb ihr Buch *Invisible Rulers* (2024) während und nach diesen Erei
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [The Invisible Rulers Turning Lies Into Reality](https://www.youtube.com/watch?v=Ad2gjdN_k5Y) — Commonwealth Club World Affairs, Juni 2024 (Grundlage der Cortex-Note)
+- [The Invisible Rulers Turning Lies Into Reality](https://www.youtube.com/watch?v=Ad2gjdN_k5Y) — Commonwealth Club World Affairs, Juni 2024 (Grundlage der Note)
 
 ---
 

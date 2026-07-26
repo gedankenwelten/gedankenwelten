@@ -50,7 +50,7 @@ Was danach kam, war vor allem Stille. Enders promovierte fertig, arbeitete ärzt
 ## Empfehlenswerte Videos & Vorträge
 
 - [Darm mit Charme — Science Slam Berlin](https://www.youtube.com/watch?v=MFsTSS7aZ5o) — Der viral gegangene Auftritt von 2012, aus dem das Buch entstand. Wissenschaft in wenigen Minuten, ansteckend erzählt.
-- [Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders (Hotel Matze)](https://www.youtube.com/watch?v=s6asGzLT1c8) — Langes Gespräch mit Matze Hielscher über Körper, Gefühl, Schlaf und das eigene Innenleben nach dem Ruhm. Grundlage der Cortex-Note.
+- [Belohnungssystem hacken, Dopaminfalle, besserer Schlaf — Dr. Giulia Enders (Hotel Matze)](https://www.youtube.com/watch?v=s6asGzLT1c8) — Langes Gespräch mit Matze Hielscher über Körper, Gefühl, Schlaf und das eigene Innenleben nach dem Ruhm. Grundlage der Note.
 
 ---
 
@@ -76,6 +76,6 @@ Böhme erforscht die Interozeption — wie der Körper sich selbst spürt und di
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Giulia Enders — Koerper als Verbuendeter]] — Hotel-Matze-Gespräch über Kopf und Körper, emotionale Intelligenz, das Belohnungssystem und Schlaf als Machtübergabe.

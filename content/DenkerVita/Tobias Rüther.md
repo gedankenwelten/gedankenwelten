@@ -42,7 +42,7 @@ Rüther leitet eine große Suchtstation und die Tabakambulanz am LMU Klinikum. E
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Alkohol, Tabak & Cannabis zerstören Ihr Gehirn! Hier ist warum](https://www.youtube.com/watch?v=F6ibiIz-GuI) — ERCM Medizin Podcast (2025): Suchtmechanismen im Gehirn, Dopamin, Chemsex, moderne Therapie. **Grundlage der Cortex-Note.**
+- [Alkohol, Tabak & Cannabis zerstören Ihr Gehirn! Hier ist warum](https://www.youtube.com/watch?v=F6ibiIz-GuI) — ERCM Medizin Podcast (2025): Suchtmechanismen im Gehirn, Dopamin, Chemsex, moderne Therapie. **Grundlage der Note.**
 - [Glanz & Gloria #013 — Wie entsteht Sucht und was wirklich hilft](https://www.youtube.com/watch?v=gKlL8Mdhn_E) — zur Tabakabhängigkeit und zum Rauchstopp
 - [Dr. Tobias Rüther, Deutscher Suchtkongress 2016: E-Zigarette](https://www.youtube.com/watch?v=bQNtOg04ykA) — Forschungsbedarf bei E-Zigaretten
 
@@ -60,8 +60,8 @@ Rüther argumentiert betont wissenschaftlich, nicht parteipolitisch. Zur Cannabi
 
 ## Verbindungen zu anderen Denkern
 
-*(Montaigne ergänzt — siehe Verbindungen in den Cortex-Notes: Schultz, Spitzer, Hagemeyer, Brähler, Ricard, Fromm, Böhme.)*
+*(Montaigne ergänzt — siehe Verbindungen in den Gedankenwelten-Notes: Schultz, Spitzer, Hagemeyer, Brähler, Ricard, Fromm, Böhme.)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Tobias Ruether — Wie Sucht im Gehirn entsteht]]

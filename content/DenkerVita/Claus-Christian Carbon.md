@@ -49,7 +49,7 @@ Die EPÆG-Gruppe, die er leitet, ist ein weltweites Netzwerk von Forschenden zur
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Warum du die Welt nie so siehst, wie sie wirklich ist](https://www.youtube.com/watch?v=-8gPB16_R_Y) — ausführliches Podcast-Interview (1:40:44) über die Konstruiertheit von Wahrnehmung, Realität und Identität. Grundlage der Cortex-Note.
+- [Warum du die Welt nie so siehst, wie sie wirklich ist](https://www.youtube.com/watch?v=-8gPB16_R_Y) — ausführliches Podcast-Interview (1:40:44) über die Konstruiertheit von Wahrnehmung, Realität und Identität. Grundlage der Note.
 - [Was dich wirklich anzieht — und warum es nicht an Schönheit liegt](https://www.youtube.com/watch?v=Fqj0EgUU9-w) — Vortrag über empirische Ästhetik und die Dynamik von Anziehung (2025).
 - [Interview „Autoland Deutschland — Quo Vadis"](https://www.youtube.com/watch?v=XMPYKzECseM) — Carbon über die Psychologie von Design und Produktwertschätzung am Beispiel Automobil.
 
@@ -83,7 +83,7 @@ Carbon erforscht, warum Verschwörungsdenken den Geist reizt und wie das Postfak
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Claus-Christian Carbon — Wahrnehmung und Wirklichkeit]] — Podcast-Interview über Wahrnehmung als Konstruktion, Realität, Identität und Konstruktivismus
 - [[Rebecca Boehme — So trickst du dein Gehirn aus]] — Böhme bezieht sich abgrenzend auf Carbons stärkeren Konstruktivismus (sie lehnt die „Halluzinations"-These ab)

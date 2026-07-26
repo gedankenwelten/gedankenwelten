@@ -68,6 +68,6 @@ Mawick steht klar und engagiert auf der Seite der Ukraine. Er befürwortet die W
 
 → Verwandt, aber (noch) ohne eigene Vita: [[Herfried Münkler — Muss es Kriege geben]] — Münklers These der postheroischen Gesellschaft, die das Opfer nicht mehr denken kann, ist die soziologische Folie, vor der Mawicks Bereitschaft, für andere ins Feuer zu gehen, als Anachronismus *und* als Korrektiv erscheint.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Ruben Mawick — Als Sanitaeter an der Ukraine-Front]]

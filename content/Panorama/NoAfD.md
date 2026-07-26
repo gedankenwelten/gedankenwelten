@@ -31,7 +31,7 @@ Die AfD ist die erfolgreichste rechtsextreme Partei in der Geschichte der Bundes
 
 Aber die AfD ist kein isoliertes deutsches Phänomen. Sie ist eingebettet in ein internationales Netzwerk rechtsextremer Bewegungen — von CPAC über die Heritage Foundation bis zur Identitären Bewegung. Ihre Ideologie speist sich aus Quellen, die tiefer reichen als Protestwahl: Technofaschismus, Klerikalfaschismus, völkischer Nationalismus — drei Faschismen, die parallel operieren.
 
-Dieses Panorama bündelt 40 Notes aus dem Cortex, die das Phänomen AfD von sechs Seiten beleuchten: Theorie, Empirie, Ökonomie, Netzwerke, historische Parallelen und demokratischer Widerstand. Die zentrale Frage ist nicht „Wie schlimm ist die AfD?", sondern: **Was macht eine Gesellschaft anfällig für das, was die AfD verkörpert — und was hilft dagegen?**
+Dieses Panorama bündelt 40 Notes der Gedankenwelten, die das Phänomen AfD von sechs Seiten beleuchten: Theorie, Empirie, Ökonomie, Netzwerke, historische Parallelen und demokratischer Widerstand. Die zentrale Frage ist nicht „Wie schlimm ist die AfD?", sondern: **Was macht eine Gesellschaft anfällig für das, was die AfD verkörpert — und was hilft dagegen?**
 
 Die FES-Mitte-Studie 2022/23 liefert die Baseline: 8 % der Befragten teilen ein rechtsextremes Weltbild (Anstieg von 2–3 % in Vorjahren). 33 % vertreten populistische Positionen. 29 % zeigen völkisch-autoritär-rebellische Haltungen. Die Radikalisierung findet nicht am Rand statt — sie rückt in die Mitte. ([Quelle: FES — Die distanzierte Mitte](https://www.fes.de/referat-demokratie-gesellschaft-und-innovation/gegen-rechtsextremismus/mitte-studie-2023))
 

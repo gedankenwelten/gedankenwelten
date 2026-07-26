@@ -92,7 +92,7 @@ ein Maßstab, an dem sich auch Breaking Lab messen lassen muss.
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
 - [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]

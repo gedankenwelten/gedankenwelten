@@ -88,7 +88,7 @@ Zimpels Neurodiversität ergänzt Moukheibers These, dass Verzerrungen Funktions
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Albert Moukheiber — Mein Hirn und ich]] — ARTE-Doku (1/2): kognitive Verzerrungen, Vorhersagegehirn, A-priori-Annahmen
 - [[Albert Moukheiber — Mein Hirn und die anderen]] — ARTE-Doku (2/2): das soziale Gehirn, Schwarmdenken, Gruppeneinfluss

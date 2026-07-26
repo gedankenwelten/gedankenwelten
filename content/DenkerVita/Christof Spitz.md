@@ -80,6 +80,6 @@ prägte.
 
 - [[DenkerVita/Dalai Lama]] — Spitz ist dessen langjährige deutsche Stimme; seine Vorträge vermitteln unmittelbar das Denken des Dalai Lama zur säkularen Ethik.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Dalai Lama — Die saekulare Ethik]]

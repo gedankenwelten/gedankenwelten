@@ -137,6 +137,6 @@ den aufkommenden Kollektivismus macht ihn zu einer unbequemen, unparteiischen St
 - **Maurice Maeterlinck** — neben Emerson wichtiger Anreger der jungen Jahre; Mystik und das
   Unsagbare hinter der Alltagssprache.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]

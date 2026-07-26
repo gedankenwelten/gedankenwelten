@@ -56,7 +56,7 @@ Was er lehrt, setzt er in Handlung um. Im Jahr 2000 gründet er **Karuna-Shechen
 
 - [The habits of happiness](https://www.ted.com/talks/matthieu_ricard_the_habits_of_happiness) — TED 2004. Ricards bekanntester Vortrag: Warum Glück eine trainierbare Geisteshaltung ist, nicht die Summe von Vergnügungen. Millionenfach gesehen.
 - [How to let altruism be your guide](https://www.ted.com/talks/matthieu_ricard_how_to_let_altruism_be_your_guide) — TED 2014. Altruismus als Kompass, der kurzfristige Wirtschaft, mittelfristige Lebensqualität und langfristiges Schicksal kommender Generationen verbindet.
-- [Sternstunde Philosophie — Vom Wissenschaftler zum buddhistischen Mönch](https://youtu.be/CGlHR9hcb5A) — SRF/WDR, 2021. Ausführliches Gespräch mit Barbara Bleisch über Ricards Lebensweg, Bewusstsein, Glück und Altruismus. (Grundlage der Cortex-Note.)
+- [Sternstunde Philosophie — Vom Wissenschaftler zum buddhistischen Mönch](https://youtu.be/CGlHR9hcb5A) — SRF/WDR, 2021. Ausführliches Gespräch mit Barbara Bleisch über Ricards Lebensweg, Bewusstsein, Glück und Altruismus. (Grundlage der Note.)
 
 ## Kernthesen
 
@@ -89,6 +89,6 @@ Ein Bruder im Metier: ebenfalls Dolmetscher und Brückenbauer zwischen tibetisch
 ### → [[DenkerVita/Gert Scobel|Gert Scobel]]
 Scobel führt aus der anderen Richtung dieselbe Grenze ab: der westlich-philosophisch geschulte Vermittler, der Kontemplation, Weisheitstraditionen und Wissenschaft zusammendenkt. Wo Ricard aus der gelebten Klosterpraxis zur Neurowissenschaft geht, geht Scobel vom kritischen Verstand auf die Meditation zu — komplementäre Bewegungen auf denselben Fluchtpunkt: einen Geist, der klarer und mitfühlender werden kann.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]]

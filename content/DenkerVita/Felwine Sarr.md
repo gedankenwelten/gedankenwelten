@@ -93,7 +93,7 @@ Sarr ist **postkolonialer Denker mit konstruktivem, nicht ressentimentgeladenem 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Felwine Sarr - Gehoert Afrika die Zukunft]] — Tiefenanalyse des Sternstunde-Kerngesprächs zu *Afrotopia*
 - [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]

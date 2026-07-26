@@ -53,5 +53,5 @@ Kuhle gilt als prominenter Vertreter des **sozialliberalen Flügels** der FDP �
 
 ## Verbindungen zu anderen Denkern
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]

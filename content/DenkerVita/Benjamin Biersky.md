@@ -24,7 +24,7 @@ tags: [denker-vita, medien, usa, politik-kommentar]
 ## Biografie
 
 - Politischer Kommentator und Content-Creator, aktiv im linken Spektrum.
-- Laut der Selbstbeschreibung im Cortex-Kontext ehemaliger Kreisgeschäftsführer einer Partei des linken Spektrums.
+- Laut eigener Selbstbeschreibung ehemaliger Kreisgeschäftsführer einer Partei des linken Spektrums.
 - Verortet im Oberbergischen (Nordrhein-Westfalen), verbunden mit dem Rosa-Luxemburg-Club Oberberg.
 - Weitere biografische Details (Geburtsjahr, Ausbildung, vollständiger Werdegang) sind öffentlich nicht sicher belegt und hier bewusst ausgelassen.
 
@@ -62,6 +62,6 @@ Marcant und Biersky teilen das Selbstverständnis: nicht neutrale Nachricht, son
 ### → [[DenkerVita/Maurice Hoefgen|Maurice Höfgen]]
 Wo Biersky die Oligarchie als Systemlogik liest — Gewinne privatisieren, Risiken sozialisieren, der KI-Staatsfonds als Rettungsring für Milliardäre —, liefert Höfgen das ökonomische Handwerkszeug dazu. Höfgens Geld- und MMT-Erklärungen unterfüttern genau die Umverteilungskritik, die bei Biersky als politische Beobachtung auftaucht.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel]]

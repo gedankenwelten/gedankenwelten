@@ -121,8 +121,8 @@ Rosas Beschleunigungs- und Resonanzkritik liest sich wie Pascals *divertissement
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[DenkerVita/Udo Marquardt]] — Marquardt zitiert die pascalsche Wette als persönliche Lebenshaltung und greift die *divertissement*-Diagnose als Beschleunigungskritik auf (400 Jahre später).
 
-*Im Cortex trägt außerdem der Schreib-Skill für persönliche Gedanken-Notes den Namen **`/pascal`** — nach den *Pensées*, jenen Fragmenten, in denen sich Denken nicht als System, sondern als aufblitzender Gedanke zeigt. Eine eigene Note über Pascal wartet noch darauf, geschrieben zu werden.*
+*In den Gedankenwelten trägt außerdem der Schreib-Skill für persönliche Gedanken-Notes den Namen **`/pascal`** — nach den *Pensées*, jenen Fragmenten, in denen sich Denken nicht als System, sondern als aufblitzender Gedanke zeigt. Eine eigene Note über Pascal wartet noch darauf, geschrieben zu werden.*

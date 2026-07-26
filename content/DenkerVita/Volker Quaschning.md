@@ -83,7 +83,7 @@ Die produktive Reibung: Löschel argumentiert marktökonomisch und technologieof
 ### → [[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]
 Der grundsätzliche Gegenpol: Quaschning glaubt, die Erneuerbaren könnten den Wohlstand technisch tragen, wenn man nur schnell genug ausbaut. Herrmann bezweifelt genau das und fordert Schrumpfung statt grünes Wachstum. Ihre Reibung markiert die offene Kernfrage — reicht die regenerative Vollversorgung für die Welt, die wir gewohnt sind?
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
 - [[Panorama/Energie]]

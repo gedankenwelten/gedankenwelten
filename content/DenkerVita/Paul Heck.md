@@ -58,6 +58,6 @@ Sein jüngstes Werk, *Political Theology and Islam* (2023), spannt den Bogen vom
 - **[[DenkerVita/Agnes Callard|Agnes Callard]]** — Hecks Wissen-als-Beziehung (acht Stunden Gespräch statt eines Interviews) ist die politische Schwester des sokratischen Denkens zu zweit.
 - **[[DenkerVita/Felwine Sarr|Felwine Sarr]]** — dieselbe Kritik am Kontrollwissen: Der Westen vermisst den Anderen (Islam/Afrika), statt sich auf ihn zu beziehen.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Soroush und Heck — Politische Tradition des Islam]]

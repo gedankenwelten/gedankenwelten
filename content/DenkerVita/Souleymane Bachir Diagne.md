@@ -73,7 +73,7 @@ Gastfreundschaft**.
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [The Philosopher as Translator](https://www.youtube.com/watch?v=5yQdiZ9t3Yo) — der Vortrag, aus dem die Cortex-Note entstand: Philosophie selbst als Akt des Übersetzens.
+- [The Philosopher as Translator](https://www.youtube.com/watch?v=5yQdiZ9t3Yo) — der Vortrag, aus dem die Note entstand: Philosophie selbst als Akt des Übersetzens.
 - ["In Praise of the Universal" — Keynote Lecture](https://www.youtube.com/watch?v=F0ArCWrb-_c) — sein Lob des Universalen, von unten gedacht (2025).
 - [Aga Khan Program Lecture: "African Art and Universal Museums"](https://www.youtube.com/watch?v=yeCBvRBTZ6E) — afrikanische Kunst, Restitution und die Idee des Universalmuseums (2025).
 - [Islamic Philosophical Perspectives on Universalism](https://www.youtube.com/watch?v=EKORTRvxNrw) — Vortrag über Universalismus aus der islamischen Denktradition (2025).
@@ -125,6 +125,6 @@ Kunst, um Dekolonisierung des Wissens und um die Rolle des Islam in der Moderne 
 - [[DenkerVita/Achille Mbembe|Achille Mbembe]] — afrikanischer Universalismus der Verflechtung; Diagnes laterales Universales und Mbembes Erdgemeinschaft suchen dasselbe Ganze ohne Thron.
 - [[DenkerVita/Markus Gabriel|Markus Gabriel]] — moralischer Universalismus „von unten" als ethische Parallele und produktiver Widerspruch (Realismus vs. Übersetzungs-Prozess).
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]

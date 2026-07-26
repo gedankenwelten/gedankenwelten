@@ -80,7 +80,7 @@ Cusicanquis Kritik der inneren Kolonialität — die Fortdauer der Erniedrigung 
 ### → [[DenkerVita/Ngugi wa Thiongo|Ngũgĩ wa Thiong'o]]
 Ambedkars Konversion zum Buddhismus und Ngũgĩs Bruch mit der Kolonialsprache sind verwandte Gesten: die Weigerung, die Ordnung der Erniedriger auch noch im eigenen Geist weiterzutragen. Beide erkennen, dass Befreiung erst dort greift, wo der Unterdrückte die theologische oder sprachliche Selbstverständlichkeit seiner Herabsetzung verlässt — der Austritt als politischer Akt.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Ambedkar - Kaste als Ontologie]]
 - [[Suraj Yengde — Annihilation of Caste]]

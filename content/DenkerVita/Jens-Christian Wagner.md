@@ -64,6 +64,6 @@ Diese Haltung hat einen Preis: Hassmails, Morddrohungen, pöbelnde Anrufe, und n
 - **[[DenkerVita/Arnd Henze|Arnd Henze]]** — zwei Verteidiger des Erbes gegen die Kaperung: Henze bei den Widerstandsfiguren (Bonhoeffer), Wagner bei den Orten und Fakten (Buchenwald, „Geschichte statt Mythen").
 - **Andreas Kemper** (→ [[Andreas Kemper — Faschismen im 21. Jahrhundert]]) — Kempers Höcke-Analyse und Wagners völkische Genealogie der AfD stützen einander: der eine soziologisch, der andere historisch.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]

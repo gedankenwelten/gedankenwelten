@@ -62,6 +62,6 @@ Jok gilt als unabhängiger Intellektueller, der weder der Regierung noch der Opp
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Jok Madut Jok — Elitenpakt ist kein Frieden]] — zum Kollaps des Friedensabkommens 2025/26: warum ein Elitenpakt die Waffen schweigen lässt, ohne Frieden zu schaffen.

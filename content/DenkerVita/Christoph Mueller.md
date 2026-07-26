@@ -78,6 +78,6 @@ Müller ist Manager, nicht Parteipolitiker — seine Rolle ist die eines regulie
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]

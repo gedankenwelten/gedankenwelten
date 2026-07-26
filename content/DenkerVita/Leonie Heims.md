@@ -53,6 +53,6 @@ Heims arbeitet aus der demokratischen, präventionsorientierten Zivilgesellschaf
 
 *Wird von Montaigne befüllt.*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Who the f#ck is Agartha? — Vom Vril-Roman zur rechtsextremen Meme-Welt]]

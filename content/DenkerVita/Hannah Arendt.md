@@ -117,7 +117,7 @@ Krastev denkt Arendts Erbe in die Gegenwart weiter: die Fragilität demokratisch
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Hannah Arendt — Denken ohne Geländer]]
 - [[Hannah Arendt — Die Banalität des Bösen]]

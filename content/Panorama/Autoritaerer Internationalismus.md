@@ -208,7 +208,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 - Was passiert mit dem autoritären Internationalismus, wenn Orbáns Modell in Ungarn scheitert — Dominoeffekt oder Hydra?
 - Ist Project 2025 reversibel — oder hat die „Institutionalisierung des Trumpismus" (Kevin Roberts) bereits dauerhafte Fakten geschaffen?
 - Wie wirkt sich KI-generierte Desinformation auf kommende Wahlen weltweit aus?
-- **Modi, Bukele, Milei**: Der Cortex hat zu diesen Akteuren noch keine eigenen Notes — sie tauchen nur als Referenzen auf. Lücke füllen?
+- **Modi, Bukele, Milei**: Zu diesen Akteuren gibt es hier noch keine eigenen Notes — sie tauchen nur als Referenzen auf. Lücke füllen?
 - Fromms Grundfrage bleibt global offen: Wenn der autoritäre Charakter eine Flucht vor der Freiheit ist — wie macht man Freiheit **weltweit** attraktiver als Unterwerfung? Goenka und Ricard deuten eine Antwort an: Freiheit wird attraktiv, wenn sie *erfahrbar* wird — nicht als Konzept, sondern als gelebter Zustand (Upekkhā). Aber: Skaliert das?
 
 ---

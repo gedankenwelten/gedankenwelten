@@ -63,6 +63,6 @@ Akala steht deutlich links, in der Tradition antikolonialer und materialistische
 - [[DenkerVita/Achille Mbembe|Achille Mbembe]] — Rasse als ökonomisch motivierte Fabrikation: Akalas Fallstudien, Mbembes Philosophie
 - [[DenkerVita/Felwine Sarr|Felwine Sarr]] — Afrikas eigene Quellen gegen die koloniale Erzählung; Restitution als materielle Seite der Geschichtsrückgabe
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Akala — Die verlorenen Seiten der Menschheitsgeschichte]]

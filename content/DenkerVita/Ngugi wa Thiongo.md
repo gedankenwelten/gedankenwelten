@@ -123,6 +123,6 @@ viele Zentren gleichberechtigt nebeneinander bestehen.
 - [[DenkerVita/Felwine Sarr|Felwine Sarr]] — endogene Zukunft (Afrotopia) als konstruktive Schwester von Ngũgĩs „from here to there to here".
 - [[DenkerVita/Suraj Yengde|Suraj Yengde]] — Dalit-Black-Brücke; verbindet Kaste und Rasse und erfüllt Ngũgĩs Auftrag, afroamerikanische Geschichte als „unsere" zu lesen.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Ngugi wa Thiongo — Decolonizing the American University]]

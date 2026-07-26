@@ -157,7 +157,7 @@ verteidigt, damit die Ideen des Buches überhaupt russische Leser erreichten.
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Yuval Noah Harari — Das biologische Drama unserer Spezies]] — Denker-Note aus dem ARTE-Gespräch „Das Buch meines Lebens" + dem WEF-Davos-Vortrag 2026 (Mensch als geschichtenerzählendes Tier, KI als Agent und neuer Meister der Worte)
 - [[S.N. Goenka]] — sein Vipassana-Lehrer; Harari widmete ihm *Homo Deus*

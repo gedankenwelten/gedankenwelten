@@ -81,6 +81,6 @@ Dahlmann argumentiert als wissenschaftliche Politikberaterin aus der Friedens- u
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]

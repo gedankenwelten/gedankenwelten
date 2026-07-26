@@ -52,7 +52,7 @@ Ambos gilt als scharfer, überparteilicher Kritiker westlicher Doppelstandards, 
 ## Verbindungen zu anderen Denkern
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[WDR Europaforum — Out of order Voelkerrecht]]
 - [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
 - [[Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer]]

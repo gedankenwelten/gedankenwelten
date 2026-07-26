@@ -67,6 +67,6 @@ Was bleibt, ist das Bild einer Frau, die Macht nüchtern ausübte und sie freiwi
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Angela Merkel — Trotz allem Hoffnung Europa]]

@@ -84,6 +84,6 @@ Der Streit ist damit weniger „richtig gegen falsch" als ein Ringen zweier Para
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]

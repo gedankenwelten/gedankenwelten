@@ -64,5 +64,5 @@ Kritisch einzuordnen ist, wie bei fMRT-Forschung generell, die Reichweite der Sc
 ## Verbindungen zu anderen Denkern
 *(Montaigne ergänzt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 - [[Die Neurobiologie der Liebe]]

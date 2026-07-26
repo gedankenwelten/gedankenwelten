@@ -65,7 +65,7 @@ Deutsche Ausgaben u.a.: *Die Glückshypothese*, *Generation Angst* (Rowohlt, 202
 ## Empfehlenswerte Videos & Vorträge
 
 - [The moral roots of liberals and conservatives](https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives) (TED 2008) — der Talk, der die Moral Foundations Theory berühmt machte: Warum Linke und Konservative auf verschiedenen moralischen Klaviaturen spielen.
-- [Can a divided America heal?](https://www.ted.com/talks/jonathan_haidt_can_a_divided_america_heal) (TED 2016, mit Chris Anderson) — direkt nach Trump und Brexit: Stammeslogik, Abscheu vs. Wut, negative Parteilichkeit. Quell-Video der Cortex-Note.
+- [Can a divided America heal?](https://www.ted.com/talks/jonathan_haidt_can_a_divided_america_heal) (TED 2016, mit Chris Anderson) — direkt nach Trump und Brexit: Stammeslogik, Abscheu vs. Wut, negative Parteilichkeit. Quell-Video der Note.
 - [How common threats can make common (political) ground](https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground) (TED 2012) — wie geteilte Bedrohungen Lager überbrücken können.
 - [The Anxious Generation — Vorträge & Interviews](https://www.youtube.com/results?search_query=jonathan+haidt+anxious+generation) (2024) — zahlreiche Auftritte zur Smartphone-Kindheit-These.
 
@@ -111,7 +111,7 @@ Ein aufschlussreicher Kontrast in der Frage, warum Menschen politisch handeln, w
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Jonathan Haidt — Kann ein gespaltenes Amerika heilen]]
 - [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
