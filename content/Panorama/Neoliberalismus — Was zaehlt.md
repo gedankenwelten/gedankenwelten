@@ -12,7 +12,7 @@ tags:
   - philosophie
   - komplexität
 erstellt: 2026-07-09
-aktualisiert: 2026-07-25
+aktualisiert: 2026-07-26
 ---
 
 # Neoliberalismus — Was zählt
@@ -50,6 +50,8 @@ Am schärfsten fasst es [[Vandana Shiva — Erd-Demokratie und die Freiheit des 
 
 [[Adam Tooze und Maja Goepel — Die Polykrise|Göpel und Tooze]] verschieben die Frage von der Kennzahl auf die **Definitionsmacht über die Kennzahl**. Göpels Satz „Wachstum hat nicht nur eine Höhe, sondern eine Richtung" ist kein neues Maß, sondern die Beobachtung, dass zwanzig Jahre mühsam erkämpfter Zusätze — ökologische und soziale Folgen links und rechts der Zahl — gerade wieder wegrutschen; und dass mit der Sprache die Macht mitwandert, zu bestimmen, was die Wirtschaft der Zukunft sein soll. Zwei Begriffe schärfen die Herrschaft der Kennzahl von innen: Herman Dalys **unökonomisches Wachstum** (das BIP wächst weiter, während die aufgelaufene Schadschöpfung den Zugewinn längst übersteigt — „wir bilanzieren es nur nicht") und Göpels **Regrettables**, die bedauerlichen Ausgaben. Flutaufräumen, Unfälle, Rüstung zählen als Wachstum, obwohl niemand sie sich wünscht — und der eigentliche Griff nach der Zahl besteht darin, sie zum „neuen Wachstumsmotor" oder gar zum nachhaltigen Investment umzudeuten. Tooze legt die historische Rückseite dazu: Der Neoliberalismus war für ihn weniger ein Wirtschaftsprogramm als eine **Verdrängungstechnik** — das Verfahren, mit dem ein in den Siebzigern erstmals sichtbares Krisenbündel für dreißig Jahre zugedeckt wurde. (→ *andere Maße*, *Wurzel*)
 
+Wie die Herrschaft der Kennzahl klingt, wenn sie sich selbst erklärt, zeigt [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen|ein Messtechnik-Konzern auf der re:publica 26]]: „Was wir nicht messen können, können wir nicht verbessern." Der Satz enthält eine stille Behauptung — dass alles Wichtige messbar sei —, und wo sie nicht gilt, kippt er in eine Anleitung, das Unmessbare für unwichtig zu halten. Der Gegenbeweis steht im selben Vortrag: Ein Wald sieht von oben gleichförmig grün aus, erst der Laser-Querschnitt trennt renaturierten Bestand von Eukalyptus-Plantage — die bisherige Zählweise hat jahrzehntelang Monokultur als Aufforstung verbucht, und Politik wurde darauf gebaut. Die Kennzahl war also nicht nur zu eng, sie war falsch. Und doch reicht Genauigkeit nicht: Die Mangrove wurde nicht zerstört, weil niemand sie messen konnte, sondern weil jemand den Garnelenertrag maß und den Küstenschutz nicht. Was in die Bilanz gehört, entscheidet kein Laserscanner. (→ *Wurzel*)
+
 ## Was herausfällt — das Unmessbare
 
 Wenn nur zählt, was sich messen lässt, dann verschwindet zuerst das, was seinem Wesen nach unmessbar ist.
@@ -74,6 +76,7 @@ Ein Panorama, das nur anklagt, wäre selbst zu billig. Die interessantere Frage:
 > - **Die versteckten Kosten sichtbar machen.** [[Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen]] rechnet die Wegwerf-Logik nicht ans Gewissen, sondern in die Bilanz: Das eigentliche Risiko liegt nicht in der Transformation, sondern im Nicht-Handeln — man muss nur das Unbezahlte einpreisen.
 > - **Die Natur ins Recht setzen.** [[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche]] — Rechte der Natur als Rechtspraxis: Was ein Rechtssubjekt ist, kann nicht mehr als Null geführt werden.
 > - **Aus eigenen Quellen schöpfen.** [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr]] setzt der importierten Entwicklungslogik eine *économie humaine* entgegen — Wirtschaft als Dienst am Menschen, aus Ubuntu und Beziehung gedacht, nicht aus der Kennzahl.
+> - **Die Rechnung stellen, die nie gestellt wird.** [[Frauke Fischer — Kann KI die Natur retten|Frauke Fischer]] beziffert, was gratis geliefert wird: rund 150.000 Liter Wasser pro Auto — bei 50 Cent pro Liter wären das 75.000 Euro Aufschlag. Der schärfste Einzelbeleg dieses Panoramas dafür, dass ein Preis nur hält, solange eine Position auf null steht. Ihre Grenze zeigt sie selbst: Der Walhai wird geschützt, weil die Reederei am Schiffsschaden spart — wer kein Eigeninteresse auf seiner Seite hat, fällt aus der Rechnung.
 
 > [!warning] ⚠️ Umstritten / unvollständig
 > - **Armut neu vermessen.** [[Christoph Butterwegge — Armut NEU DENKEN|Christoph Butterwegge]] zeigt, wie schon die Definition von Armut ein politischer Akt ist — wer die Messlatte setzt, entscheidet, wer arm „zählt". Aufklärend, aber es bleibt beim Messen; die Frage nach dem Unmessbaren stellt es nicht.
@@ -83,7 +86,7 @@ Ein Panorama, das nur anklagt, wäre selbst zu billig. Die interessantere Frage:
 
 ## Offene Fragen
 
-- Kann man das Unmessbare überhaupt „mitzählen", ohne es zu zerstören — oder braucht eine menschliche Ökonomie *neben* der Zahl einen ganz anderen Zugang zur Welt (Rosas Resonanz, Fromms Sein)?
+- Kann man das Unmessbare überhaupt „mitzählen", ohne es zu zerstören — oder braucht eine menschliche Ökonomie *neben* der Zahl einen ganz anderen Zugang zur Welt (Rosas Resonanz, Fromms Sein)? [[Frauke Fischer — Kann KI die Natur retten|Fischers]] Eimer Sand schiebt eine dritte Kategorie dazwischen: Fruchtbarer Boden ist nicht unmessbar, sondern unherstellbar.
 - Ist die Lösung ein *besseres* Maß (Wohlergehens-Indizes, Gemeinwohlbilanz) — oder die Entthronung des Maßes selbst als letzter Richter?
 - Wer verliert, wenn Fürsorge, Zeit und Natur plötzlich zählen? Die Herrschaft der Kennzahl hat Nutznießer — die Auseinandersetzung ist keine der besseren Argumente, sondern der Macht.
 - Wie viel „menschliche Ökonomie" verträgt ein globaler Markt, der genau die Länder am härtesten zählt, die am wenigsten Stimme haben ([[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts|Shiva]], [[Felwine Sarr - Gehoert Afrika die Zukunft|Sarr]])?
@@ -107,3 +110,5 @@ Ein Panorama, das nur anklagt, wäre selbst zu billig. Die interessantere Frage:
 | [[Christoph Butterwegge — Armut NEU DENKEN]] | Zeitgeist | Kontext (Armut vermessen) |
 | [[Martin Oetting — Happy Planet Index 2026]] | Zeitgeist | Lösung (das andere Maß, gemessen) |
 | [[Adam Tooze und Maja Goepel — Die Polykrise]] | Zeitgeist | Problem (Definitionsmacht, Regrettables, unökonomisches Wachstum) |
+| [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen]] | Zeitgeist | Problem (die Kennzahl als Geschäftsmodell) |
+| [[Frauke Fischer — Kann KI die Natur retten]] | Geistesblitz | Problem (die fehlende Position) |

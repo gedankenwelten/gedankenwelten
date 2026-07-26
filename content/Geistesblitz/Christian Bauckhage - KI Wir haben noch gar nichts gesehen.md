@@ -205,6 +205,10 @@ Bauckhages hybride KI — kleine, spezialisierte Modelle statt eines alles-wisse
 
 Ein produktiver Kontrast zweier Bonner Denker: Der Philosoph Gabriel deutet KI als Resonanzfeld und moralischen Fortschrittsmotor — der Lead Scientist Bauckhage entzaubert dieselbe Technik als „das Dümmste, was man machen kann", gigantische Lookup-Tabellen in einem lokalen Optimum. Beide fragen, ob eine Technologie verstanden sein muss, um zu wirken — und geben gegensätzliche Antworten.
 
+### → [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]]
+
+Bauckhages These vom schmalen Pfad — Verticals, kleine Modelle, eigene Daten — im Feldbericht eines Konzerns, der es täglich versucht. Hexagons AI-Forschungsleiter sagt es fast wörtlich: Bild-Foundation-Models wie Metas DINOv3 seien beeindruckend und für 3D-Punktwolken unbrauchbar, also trainiere man monatelang eigene, spezialisierte Netze; jeder Scanner ist anders, jede Prozessierung auch. Das ist der stille Widerspruch zur Skalierungserzählung, ausgerechnet aus der Industrie. Die zweite Brücke ist die Robotik: Bauckhages Weltmodelle sind Winistörfers *Physical AI*, und mit AEON im BMW-Werk Leipzig gibt es dazu einen datierbaren Zwischenstand statt eines Versprechens.
+
 ---
 
 ## Weiterdenken

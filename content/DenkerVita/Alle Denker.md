@@ -155,6 +155,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Freddy Leppin|Freddy Leppin]]** — Content Creator, Gründer YouTube-Kanäle *Good News* (monatliche positive Nachrichten) und *MegaBuilds* (>1,5 Mio. Abonnenten); Negativitätsbias-Gegenentwurf, Kuratierung verifizierten Fortschritts; Engineering und Innovation als narrative Kraft
 
+**[[DenkerVita/Frauke Fischer|Frauke Fischer]]** — Biologin, Biodiversitätsexpertin (Uni Würzburg, Gründerin „agentur auf!“ und PERÚ PURO); erzählt Artenvielfalt über konkrete Ökosystemleistungen statt über Aussterberaten — *Was hat die Mücke je für uns getan?*, *Wal macht Wetter!*, *Kann KI die Natur retten?*
+
 **[[DenkerVita/Frederike Kaltheuner|Frederike Kaltheuner]]** — Senior Advisor AI Now Institute, Leiterin *new possible*; KI-Industriepolitik und europäische Souveränität; kritische Technologiepolitik aus Menschenrechts-Perspektive; Herausgeberin *Fake AI* (2022); Co-Autorin EU AI Industrial Policy Monitor; Expert für Marktkonzentration, Regulierungsasymmetrien, public interest in KI-Märkten
 
 **[[DenkerVita/Maximilian Fichtner|Maximilian Fichtner]]** — Festkörperchemiker, Professor Universität Ulm, Direktor Helmholtz-Institut Ulm (HIU); Batterieforscher und Mythen-Aufklärer; E-Autos ökobilanzlich überlegen, Rohstoffverfügbarkeit technisch lösbar, europäische Batterieproduktion strategische Notwendigkeit; Sprecher POLiS (Post Lithium Energy Storage), wissenschaftlicher Direktor CELEST; Podcast *Geladen*
@@ -283,6 +285,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Malala Yousafzai|Malala Yousafzai]]** — Pakistanische Bildungsaktivistin, jüngste Friedensnobelpreisträgerin (2014, mit 17); als Kind BBC-Bloggerin unter den Taliban, Attentat 2012 überlebt; Bildung als Menschenrecht, „ein Kind, ein Lehrer, ein Buch, ein Stift“, Geschlechter-Apartheid in Afghanistan; *Ich bin Malala* (2013), *Finding My Way* (2025)
 
+**[[DenkerVita/Madlen Nicolaus|Madlen Nicolaus]]** — Chief Marketing Officer von Hexagon AB (seit 2023, zuvor Salesforce, SAP, Kodak); erklärt Messtechnik und digitale Zwillinge für ein nicht-fachliches Publikum — Vermessung als unsichtbare Infrastruktur jeder Nachhaltigkeitsentscheidung; Konzernstimme, kein unabhängiger Blick
+
 **[[DenkerVita/Marc Felix Serrao|Marc Felix Serrao]]** — Deutsch-brasilianischer Journalist; Chefredakteur NZZ Deutschland; Konservativ-liberales Korrektiv zum deutschen Mainstream
 
 **[[DenkerVita/Marcant|Marcant]]** — YouTuber (vollmarcant), 23 Jahre; Deradikalisierungsaktivismus durch Straßendialog; 500+ Menschen aus rechtsextremer Szene gebracht; Theodor-Heuss-Medaille 2026; Serie "Rechtsextrem oder verwirrtes Kind?"; Rechtsextremismusbekämpfung durch Respekt und Begegnung auf Augenhöhe
@@ -296,6 +300,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Mark Reicher|Mark Reicher]]** — Informatiker und Geopolitik-YouTuber (VisualPolitik DE, eigener Kanal, Podcast *Wertewesten*); lebt in Prag; Meinungsfreiheit als Selbstzweck, „die besseren Argumente setzen sich durch", Analyse statt Journalismus; brach 2024 mit VisualPolitik wegen Russland-Propaganda-Vorwurf
 
 **[[DenkerVita/Martin Andree|Martin Andree]]** — Medienwissenschaftler, apl. Professor Universität zu Köln; BigTech-Monopole als Demokratiegefahr, „Machtverklumpung" aus Tech-Oligarchen und Trump-Regierung, Entflechtung nach Telekom-Vorbild; *Atlas der digitalen Welt* (2020), *Big Tech muss weg!* (2023, Günter-Wallraff-Sonderpreis)
+
+**[[DenkerVita/Martin Winistoerfer|Martin Winistörfer]]** — Director AI Research bei Hexagon (Leica Geosystems, Heerbrugg/CH); KI auf Mess- und Geodaten — Reality Capture, Vertikalstruktur von Wäldern, autonome Fahrzeuge, Solarpotenzial ganzer Städte; Industriepraktiker ohne publiziertes Werk
 
 **[[DenkerVita/Mats Schoenauer|Mats Schoenauer]]** — Journalist, YouTuber, Buchautor; Betreiber YouTube-Kanal Topfvollgold; Gründer Topfvollgold (mit Moritz Tschermak, 2013); Medienmanipulation, Desinformation als Geschäftsmodell, Faktencheck-Journalismus
 

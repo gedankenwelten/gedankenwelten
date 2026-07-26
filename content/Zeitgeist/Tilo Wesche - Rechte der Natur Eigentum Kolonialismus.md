@@ -1,6 +1,6 @@
 ---
 title: "Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus"
-aktualisiert: 2026-05-29
+aktualisiert: 2026-07-26
 date: 29.05.2026
 tags:
   - zeitgeist
@@ -427,6 +427,14 @@ Wo Wesche Natur als Rechtssubjekt statt Eigentum denkt, zeigt Good News Juni die
 ### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
 
 Shiva liefert den Kampfplatz zu Wesches Theorie der Naturrechte: Saatgut als Gemeingut gegen die Patentierung des Lebendigen — Biopiraterie als Enteignung, *bio nullius* als Fortsetzung von *terra nullius*.
+
+### → [[Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
+
+Der Gegenweg zu Wesches Vorschlag, an derselben Lücke ansetzend. Die Tropenökologin Fischer will die Natur nicht ins Recht setzen, sondern in die Bilanz — sie beziffert, was gratis geliefert wird, und sucht Stellen, an denen der Schutz eines Tieres zufällig mit einem wirtschaftlichen Eigeninteresse zusammenfällt. Ihre eigenen Beispiele zeigen die Grenze dieses Wegs und damit die Stärke von Wesches: Der Walhai wird geschützt, weil die Reederei am Schiffsschaden spart; wer keinen solchen Zufall auf seiner Seite hat, taucht in keiner Rechnung auf. Am nächsten kommen sich beide beim Gorilla-Wallet — dort wird nicht für ein Versprechen gezahlt, sondern für einen gemessenen Zustand, und das Geld geht an die Menschen vor Ort statt an eine Organisation im Norden. Der Gorilla bleibt dabei Empfänger einer Gabe, nicht Träger eines Rechts.
+
+### → [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]]
+
+Die technische Gegenwart von Wesches historischem Befund. Ein Messtechnik-Konzern nennt Vermessung „die menschlichste aller Technologien" und meint das Positive — Wesche erklärt, warum der Satz stimmt und dabei mehr sagt, als er soll: Erst das Vermessen macht Land teilbar und zuschreibbar, und das koloniale Kartieren erklärte als herrenlos, was nur nicht nach europäischem Recht vermessen war. Der Katasterplan ist der Vorläufer des digitalen Zwillings, und Deutschland wird gerade flächendeckend als solcher erfasst. Wesches Kernargument bekommt dort außerdem einen Prüffall: Die Mangrove verschwand nicht, weil sie unmessbar gewesen wäre, sondern weil sie niemandem gehörte und deshalb in keiner Rechnung stand — genau die Leerstelle, die er mit dem Rechtssubjekt Natur schließen will.
 
 ## Weiterdenken
 

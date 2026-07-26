@@ -371,6 +371,14 @@ Die Note steuert dem Panorama zwei Bausteine bei, die dort fehlten: Herman Dalys
 
 Das Panorama liest die autoritäre Vernetzung politisch-ideologisch; Göpel liefert die ökonomische Unterseite — Erpressung als Regulierungspolitik (LNG gegen Lieferkettengesetz) und Datenzerstörung als Rechtsstrategie: keine Daten, kein Beweis, kein Verfahren. Autoritarismus erscheint hier nicht als Gesinnung, sondern als Geschäftsmodell mit Staatsgarantie.
 
+### → [[Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
+
+Die Fortsetzung von Göpels Biodiversitäts-Frage in der Praxis. Wo Göpel die EZB-Zahl als Argument gegen den Greenpeace-Verdacht setzt, rechnet die Tropenökologin Fischer den Einzelfall durch: 150.000 Liter Wasser pro Auto, gratis geliefert — bei 50 Cent pro Liter würde jedes Auto 75.000 Euro teurer. Bemerkenswerter ist, wie genau Fischers Schlusskapitel Göpels dystopische Bahn einholt. „Konzentrierte Kontrolle über knappe Ressourcen durch bessere Beobachtung" ist bei Fischer kein Szenario mehr, sondern ein Modell, das vorhersagt, wo ein bestimmter Walhai in drei Tagen schwimmt — schützbar und bejagbar mit demselben Datensatz. Ihre Konsequenz, Naturschutzdaten in geschlossene Räume zu legen, ist die operative Antwort auf Göpels Befund, dass die dystopische Bahn keine neue Technologie brauchte, nur die Bereitschaft, die vorhandene anders zu benutzen.
+
+### → [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]]
+
+Was aus Göpels WBGU-Vorschlag geworden ist. Sie hatte Sensorik, großmaßstäbliches Monitoring und Simulation gefordert, um ökologische Sollbruchstellen bearbeitbar zu machen, und sich dafür von beiden Seiten Widerstand geholt. Jahre später steht ein Messtechnik-Konzern damit auf einer Bühne — und die Note zeigt, was der Weg dorthin mit dem Argument gemacht hat: Aus „wir müssen die Natur endlich bilanzieren" ist „unsere Sensoren retten sie" geworden, und der Vortrag endet beim Arbeitskräftemangel und humanoiden Robotern. Göpels härtester Satz — wer den Status quo will, muss nur verhindern, dass gerechnet wird — bekommt dort eine unbequeme Ergänzung: Es wird gerechnet, nur wächst das Geschäft des Rechnenden am stärksten in Rüstung und Bergbau, und beides kommt im Vortrag nicht vor.
+
 ---
 
 ## Weiterdenken

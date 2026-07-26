@@ -345,6 +345,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Felwine Sarr
 **Status:** ✓ Vollanalyse → [[DenkerVita/Felwine Sarr]]
 
+## Frauke Fischer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Frauke Fischer]]
+
 ## Gabriel Yoran
 **Status:** ✓ Vollanalyse → [[DenkerVita/Gabriel Yoran]]
 
@@ -540,6 +543,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Martin Sonneborn
 **Status:** ✓ Vollanalyse → [[DenkerVita/Martin Sonneborn]]
+
+## Martin Winistörfer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Winistoerfer]]
+
+## Madlen Nicolaus
+**Status:** ✓ Vollanalyse → [[DenkerVita/Madlen Nicolaus]]
 
 ## Martyna Linartas
 **Status:** ✓ Vollanalyse → [[DenkerVita/Martyna Linartas]]
