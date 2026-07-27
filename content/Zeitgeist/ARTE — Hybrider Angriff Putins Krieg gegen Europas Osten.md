@@ -2,7 +2,7 @@
 title: "Hybrider Angriff — Wie Putin Europas Osten destabilisiert"
 date: 15.07.2026
 description: "Ein stiller Krieg ohne Panzer — Sabotage, Gift und Desinformation ziehen durch vier EU-Länder. Wo endet der Befund, wo beginnt die Erzählung, die selbst mit Angst arbeitet?"
-aktualisiert: 15.07.2026
+aktualisiert: 27.07.2026
 tags:
   - zeitgeist
   - year-2026
@@ -43,7 +43,7 @@ Quelle: [Hybrider Angriff — Wie Putin Europas Osten destabilisiert (ARTE)](htt
 
 [▶ 3:06](https://www.youtube.com/watch?v=4PsH99c1Azo&t=186) Der Film beginnt nicht mit einer Explosion, sondern mit einer Definition. Im NATO Strategic Communications Centre of Excellence in Riga erklärt eine Analystin, warum die alte Trennung von Krieg und Frieden nicht mehr trägt: *„Wir können nicht mehr genau sagen, ob wir im Krieg oder Frieden sind."* Man müsse längst keine Panzer mehr über eine Grenze rollen lassen, um ein Land zu erschüttern.
 
-Der Film datiert die Doktrin präzise: Im Februar 2013 veröffentlichte Valeri Gerassimow, Chef des russischen Generalstabs, einen Fachartikel über moderne Kriegsführung — über Spezialoperationen und eine „innere Opposition", mit der auf gegnerischem Territorium eine *„permanente Einsatzfront"* entstehen soll. Ein Jahr später, 2014, annektiert Russland die Krim, und die Doku setzt hier ihre Uhr: Von diesem Moment an häufen sich die „ungewöhnlichen Ereignisse" in den östlichen EU-Ländern.
+Der Film datiert den Ursprung auf einen einzigen Text: Im Februar 2013 veröffentlichte Valeri Gerassimow, Chef des russischen Generalstabs, einen Fachartikel über moderne Kriegsführung — über Spezialoperationen und eine „innere Opposition", mit der auf gegnerischem Territorium eine *„permanente Einsatzfront"* entstehen soll. *(Faktencheck: falsch — der Begriff entstand Jahre früher in der amerikanischen Militärwissenschaft, und Gerassimow beschrieb dort, was aus seiner Sicht der Westen tut; siehe unten.)* Ein Jahr später, 2014, annektiert Russland die Krim, und die Doku setzt hier ihre Uhr: Von diesem Moment an häufen sich die „ungewöhnlichen Ereignisse" in den östlichen EU-Ländern.
 
 Das ist die Kernbewegung des Films — und seine Stärke: Er nimmt einen abstrakten Begriff, *hybride Kriegsführung*, und zerlegt ihn in vier konkrete Landschaften, in Gesichter, Tatorte, Verhörprotokolle. Statt zu behaupten, führt er vor. Ob das Vorgeführte immer so eindeutig zusammengehört, wie die Montage suggeriert, ist die Frage, die man mitnehmen sollte.
 
@@ -133,9 +133,11 @@ Wer ihn richtig liest, nimmt beides mit: die harte Substanz *und* das Bewusstsei
 > Marek Falenta wurde für die Warschauer Abhöraktion 2014 (heimliche Restaurant-Aufnahmen von Regierungspolitikern) rechtskräftig zu 2,5 Jahren Haft verurteilt — das ist belegt. Die russische Steuerung der Operation bleibt jedoch ein gut begründeter Verdacht, kein Gerichtsbefund: Falentas Kohlegeschäfte und Schulden bei einem Putin-nahen Unternehmen (KTK) nähren die These, und ein Zeuge sagte 2021 aus, die Aufnahmen seien vor Veröffentlichung an russische Geheimdienstoperateure verkauft worden. Vor Gericht wurde die russische Urheberschaft nie bewiesen; Premier Tusk forderte 2024 erst eine Untersuchung. Die Doku präsentiert den Verdacht als Gewissheit.
 > Quelle: [AP/WFMZ — Tusk requests investigation of Russia role in Polish scandal](https://www.wfmz.com/news/ap/ap-business/tusk-calls-for-probe-into-russian-role-in-polish-wiretapping/article_0a2de576-0a45-5b0c-a7f7-f10bb2caae17.html) · [Washington Times — Pole whose secret recordings toppled govt](https://www.washingtontimes.com/news/2019/apr/8/polish-fugitive-in-spanish-prison-awaiting-extradi/)
 
-> [!warning] Vereinfacht / Nicht eindeutig belegt — „Gerassimow-Doktrin"
-> Der Gerassimow-Artikel von Februar 2013 („Der Wert der Wissenschaft in der Vorhersage") existiert — die Deutung als russische Blaupause für hybride Kriegsführung ist jedoch unter Analysten umstritten und gilt in der Fachdebatte als Fehllesart. Den Begriff „Gerassimow-Doktrin" prägte der Russland-Experte Mark Galeotti selbst und zog ihn später ausdrücklich zurück: Gerassimow beschrieb dort primär seine *Analyse westlicher* Methoden, formulierte aber keine Doktrin. Auch Michael Kofman bestätigt, dass der Begriff im russischen Militärdenken nicht existiert.
-> Quelle: [Mark Galeotti — „The Gerasimov Doctrine doesn't exist" (Rücknahme)](https://romeosquared.eu/2018/03/06/mark-galeotti-wants-to-apologize-for-the-term-the-gerasimov-doctrine/) · [Wikipedia — Gerasimov doctrine](https://en.wikipedia.org/wiki/Gerasimov_doctrine)
+> [!danger] Falsch — die „Gerassimow-Doktrin" als Ursprung des hybriden Krieges
+> Der Artikel von Februar 2013 („Der Wert der Wissenschaft in der Vorhersage") existiert — als Geburtsurkunde der hybriden Kriegführung taugt er nicht, und die Forschung ist hier ungewöhnlich einig. Der Begriff *hybrid warfare* stammt aus der amerikanischen Militärwissenschaft: geprägt von William J. Nemeth 2002 in einer Arbeit über Tschetschenien, verbreitet 2007 von Frank Hoffman am Beispiel der Hisbollah — beides Jahre vor Gerassimow. Was dieser schrieb, war die Mitschrift eines Vortrags vor der Akademie der Militärwissenschaften, in dem er beschrieb, was aus seiner Sicht **der Westen** in Arabischem Frühling und Farbrevolutionen tue: keine russische Anleitung, sondern eine Bedrohungsdiagnose. Die Formel „Gerassimow-Doktrin" erfand Mark Galeotti 2014 als Platzhalter in einem Blogpost und nahm sie 2018 öffentlich zurück; Michael Kofman bestätigt, dass sie im russischen Militärdenken nicht vorkommt.
+>
+> Der Befund des Films bleibt davon unangetastet: Dass Russland seit Jahren mit nichtmilitärischen Mitteln gegen Europa operiert, bestreitet niemand — die vier Landschaften, die er vorführt, sind belegt. Aber die Urheberschaft dem russischen Generalstabschef zuzuschreiben, macht aus einem diffusen Phänomen einen benannten Plan mit einem Autor, und die Uhr, die die Doku 2013 startet, hat kein Ziffernblatt. → dieselbe Zuschreibung, ausführlicher geprüft, in [[Herfried Münkler — Europas Platz in der neuen Weltordnung]].
+> Quelle: [Galeotti, Foreign Policy 2018 („I'm Sorry for Creating the 'Gerasimov Doctrine'")](https://foreignpolicy.com/2018/03/05/im-sorry-for-creating-the-gerasimov-doctrine/) · [Galeotti 2018, doi:10.1080/21624887.2018.1441623](https://doi.org/10.1080/21624887.2018.1441623) · [McDermott, Parameters 2016, doi:10.55540/0031-1723.2827](https://doi.org/10.55540/0031-1723.2827) · [Libiseller 2023, doi:10.1080/01402390.2023.2177987](https://doi.org/10.1080/01402390.2023.2177987) · [Nemeth 2002](https://calhoun.nps.edu/handle/10945/5865) · [Hoffman 2007 (PDF)](https://www.potomacinstitute.org/images/stories/publications/potomac_hybridwar_0108.pdf)
 
 ---
 
@@ -148,7 +150,7 @@ Wer ihn richtig liest, nimmt beides mit: die harte Substanz *und* das Bewusstsei
 *Im Film genannte Quellen:*
 
 - Grzegorz Rzeczkowski: *Obce alfabety* („Fremdes Alphabet", 2019) — Buch über den polnischen Abhörskandal und die russische Spur
-- Valeri Gerassimow (2013): Fachartikel über moderne Kriegsführung — die viel zitierte „Gerassimow-Doktrin"
+- Valeri Gerassimow (2013): Fachartikel über moderne Kriegsführung — Grundlage der sogenannten „Gerassimow-Doktrin", einer Zuschreibung, die ihr Urheber selbst zurückgenommen hat (→ Faktencheck)
 
 *Recherche & OSINT (Sherlock):*
 

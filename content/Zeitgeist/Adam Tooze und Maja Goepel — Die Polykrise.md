@@ -339,6 +339,10 @@ Der Ursprung des Begriffs, an dem dieser Abend hängt. Tooze beklagt, Polykrise 
 
 Dort ist „Wachstum hat eine Richtung, nicht nur eine Höhe" ausbuchstabiert, mit Truger als fiskalpolitischem Gegenpart. Die Polykrise-Keynote verschiebt die Tonart: Was dort noch als Debatte um bessere Metriken erscheint, ist hier ein Rückzugsgefecht. Der über zwanzig Jahre erkämpfte Zugewinn geht nicht durch Widerlegung verloren, sondern durch Sprachverschiebung.
 
+### → [[Andreas Reckwitz — Fortschritt NEU DENKEN]]
+
+Dieselbe Stimme, zwei sehr verschiedene Plätze im Raum: Hier hält Göpel die Keynote und hat den ökonomischen Apparat in der Hand, bei Reckwitz sitzt sie daneben und wendet ein — Resilienz sei politisch längst als Ausrede fürs Nichtstun benutzt worden, und wer Verluste zumutet, während sich oben jemand freikauft, bekommt keine Zustimmung. Was Reckwitz dieser Keynote entgegenhält, ist eine Sprache für das, was verloren geht. Ihre Diagnose lebt davon, dass alles gestaltet ist — Metriken, Bilanzierung, Instrumente —, weshalb der angebliche Zielkonflikt zwischen Sozialem und Ökologischem bei ihr *„ein Designversagen"* heißt, das zum Umbauen verpflichtet. Reckwitz nennt drei Dinge, an die kein Design heranreicht: den Klimawandel, die Altersstruktur, die Sicherheitslage. Er nennt das eine Ernüchterung, die nötig ist; sie würde darin die bequemste aller Ausreden wittern. Die beiden Sätze reiben sich präzise aneinander — ein Designversagen, das seit vierzig Jahren dasselbe produziert, sieht irgendwann aus wie eine Unverfügbarkeit, und eine Unverfügbarkeit ist das stärkste Argument, das je gegen Veränderung vorgebracht wurde. Am Ende treffen sie sich in derselben Ehrlichkeit: Sie räumt ein, dass es wohl erst die Friktion braucht, er, dass ein Politiker, der im Wahlkampf von Verlusten spricht, verliert.
+
 ### → [[Adam Tooze — Pentagon vs. Anthropic]]
 
 Toozes eigene Vorgeschichte zum digital-finanziell-militärischen Komplex: Dort beschreibt er den Rechtsstaat als Kampffeld, auf dem der mit den meisten Milliarden gewinnt. Hier liefert Göpel die Bewertungslogik dahinter — Palantirs KGV preist kein Produkt ein, sondern eine Staatsgarantie. Zusammengelesen: Der Staat ist nicht Regulator der Tech-Macht, sondern ihr Kunde und ihr Sicherheitsversprechen.
@@ -346,6 +350,10 @@ Toozes eigene Vorgeschichte zum digital-finanziell-militärischen Komplex: Dort 
 ### → [[Francesca Bria — The Authoritarian Stack]]
 
 Brias „autoritärer Stack" und Göpels „digital-finanziell-militärischer Komplex" beschreiben dieselbe Architektur aus verschiedenen Richtungen — Bria von der Infrastruktur her, Göpel von der Finanzierung her. Göpels Zusatz ist der interessantere Teil: Souveränität muss nicht durch Aufholen entstehen, sie kann durch *Reduktion* von Ressourcenabhängigkeit gewonnen werden (*shallow AI*). Diesen Weg bietet die Stack-Logik so nicht an.
+
+### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]
+
+Die geopolitische Oberseite desselben Komplexes, vorgetragen von jemandem, der die Rechnung annimmt. Münkler beschreibt ein Europa im Sandwich zwischen Putin und Trump und zieht daraus eine Liste, die er vor einem Industriekongress verliest: Führungsgruppe der fünf, Ende der Einstimmigkeit, eigene nukleare Abschreckung — und, direkt an den Saal gerichtet, *„Die Herrschaft der Betriebswirte ist vorbei."* Was bei ihm Redundanz und strategische Vorratshaltung heißt, ist genau das, was Göpel als bedauerliche Ausgabe in den Büchern stehen sehen will; sein Satz von der *„Produktivität von Feindschaft"* ist die These, gegen die ihr Regrettables-Argument geschrieben wurde. Ein Panzer, der im besten Fall totes Kapital bleibt, kann nicht produktiv sein — es sei denn, jemand hat ihn vorher als Wachstum verbucht. Die schärfste Reibung liegt aber im Wort *Sicherheitspolitik*, das beide für sich reklamieren. Göpel holt damit die planetaren Grenzen aus der Moralecke: Wer weniger Ressourcendruck erzeugt, muss sich weniger darum prügeln, wer die Ressourcen bekommt. Münkler antwortet auf denselben Ressourcenwettlauf mit Abschreckung und einem Portfolio der Machtsorten. Derselbe Befund, dasselbe Wort, entgegengesetztes Instrument — und Peter Thiel steht in beiden Analysen, hier als gelangweilter Junge mit zu viel Geld, dort als Beleg dafür, dass auch die USA ins Katechontische rücken.
 
 ### → [[Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet]]
 
@@ -362,6 +370,10 @@ Beide sehen dieselbe Zirkularität der KI-Ökonomie von entgegengesetzten Enden:
 ### → [[Stremlau und Goepel — Investieren NEU DENKEN]]
 
 Die natürliche Fortsetzung des Finanzmarkt-Strangs. Dort „Geld ist niemals neutral" als Prinzip, hier als Machtbefund: Index-Anbieter wie MSCI setzen die Bedingungen, unter denen ein Land als Schwellenland gilt und welcher Investorenschutz gegeben sein muss — Akteure ohne jede demokratische Legitimation, denen keine Gegenmacht gegenübersteht. Und wir alle sollen unsere Rente dort hineinlegen.
+
+### → [[Konstantin Flemig — Deutschland als Ruestungs-Grossmacht|Konstantin Flemig — Deutschland als Rüstungs-Großmacht]]
+
+Der Regrettables-Satz an dem Ort, an dem er sich entscheidet. Göpels Munitionshersteller mit 28 Prozent Marge heißt Rheinmetall, und Flemig führt vor, was aus dem Unternehmen in drei Jahren geworden ist: Artilleriemunition von 70.000 auf 1,1 Millionen Schuss im Jahr, ein Greenfield-Werk in Unterlüß, Standorte bis in die Ukraine hinein, dazu die Prognose, die Verteidigungsindustrie könne bis 2030 ein Drittel der wegfallenden Autoarbeitsplätze auffangen. Damit ist Göpels Bitte, man möge sich wenigstens einig bleiben, dass diese Ausgaben schnellstmöglich unnötig werden sollten, faktisch schon abgeräumt — eine Jobmaschine hofft nicht auf ihr Ende. Ihre Palantir-Pointe bekommt hier außerdem ein europäisches Gegenstück im Klartext: Rheinmetall verlangt ein Staatsfinanzierungsmodell nach dem Vorbild der fünfziger Jahre, bei dem der Staat die Fixkosten leerstehender Kapazitäten mitträgt. Was in Kalifornien in ein Kurs-Gewinn-Verhältnis eingepreist wird, wird in Niedersachsen beantragt. Und wo Göpel fragt, wem der knappe Bestand gehört, stellt sich hier die schlichtere Variante: Wem gehört eine Fabrik, die nur trägt, solange die Bedrohung anhält — und wer bezahlt sie, wenn sie nachlässt?
 
 ### → [[Panorama/Neoliberalismus — Was zaehlt]]
 
