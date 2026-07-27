@@ -30,15 +30,17 @@ Die Gedankenwelten (luc)
 >
 > Drei Menschen streiten über Aufrüstung — und der Streit dreht sich nicht um Zahlen, sondern darum, wie weit man in die Zukunft rechnen darf, wenn heute Morgen die Sirenen gingen.
 
+> **27.07.** — [[Zeitgeist/ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten|Hybrider Angriff — Wie Putin Europas Osten destabilisiert]]
+>
+> Ein stiller Krieg ohne Panzer — Sabotage, Gift und Desinformation ziehen durch vier EU-Länder. Wo endet der Befund, wo beginnt die Erzählung, die selbst mit Angst arbeitet?
+
 > **26.07.** — [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus]]
 
 > **26.07.** — [[Zeitgeist/Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]]
 >
 > Ein Messtechnik-Konzern erklärt auf einer Digitalkonferenz, dass wir die Welt vermessen müssen, um sie zu retten. Der Satz stimmt und ist zugleich das Problem — denn was gemessen wird, hat immer jemand ausgewählt.
 
-> **26.07.** — [[Zeitgeist/Mark Benecke — Fragerunde Time Is Up 2026|Mark Benecke — Fragerunde: Time Is Up 2026]]
-
-> → *7 weitere in* [[Zeitgeist]]
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Denker
 
