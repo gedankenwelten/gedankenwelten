@@ -199,6 +199,10 @@ Die zweite Front derselben Technologie: Wo die ARTE-Doku Sabotage und Desinforma
 
 ---
 
+### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]
+
+Was Münkler in zwei Minuten behauptet, führt diese Doku in vier Ländern vor — und bestätigt seinen entscheidenden Punkt: Die Waffe ist nicht der Schaden, sondern die Unzufriedenheit und wem sie nützt. Zugleich zeigt sie seine Grenze: Der Film behauptet Koordination und beweist ein Echo. Ein Begriff, der Stromausfall, Bahnstörung und Wahlkampf umfasst, verliert die Trennschärfe, deren Verlust Münkler beklagt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

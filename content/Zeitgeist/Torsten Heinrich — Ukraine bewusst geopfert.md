@@ -1,6 +1,6 @@
 ---
 title: "Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?"
-aktualisiert: 2026-05-06
+aktualisiert: 2026-07-27
 date: 06.05.2026
 tags:
   - zeitgeist
@@ -181,3 +181,8 @@ Heinrichs Analyse operiert im Raum zwischen Völkerrecht und Realpolitik. Das Ei
 ### → [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise]]
 
 Gemeinsamer Habitus des positionierten Fachmanns, der Parteilichkeit und Sachlichkeit trennt. Heinrichs „Ukraine als nützliche Schwächung Russlands" ergänzt Flemigs Motivlehre um eine dritte Ebene neben Prechts Ökonomie und Flemigs Imperialismus — Krieg als westliches Kalkül.
+
+### → [[WDR Europaforum — Frieden schaffen mit immer mehr Waffen]]
+
+Heinrichs „Eskalationsmanagement ist keine Strategie“ trifft beide Podiumspositionen zugleich: van Aken kritisiert das Zuviel an Waffen, Puglierin das Zuwenig an Fähigkeit — Heinrich zeigt, dass die westliche Politik gar keinen Zielzustand hat, an dem sich ein Zuviel oder Zuwenig messen ließe. Sein Kaskaden-Argument (abgegebene Panzer bedeuten untrainierte Besatzungen) widerspricht van Aken zusätzlich von der Fähigkeitsseite.
+

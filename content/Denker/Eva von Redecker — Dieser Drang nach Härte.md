@@ -216,3 +216,7 @@ Die alte linke Utopie (Marcuse: Technologie befreit uns von Arbeit) war schon im
 
 Der hoffnungsvolle Gegenschnitt: Gegen Redeckers Diagnose vom Sog zur Härte setzt Zeigen die Wette, Militarismus sei nur „eine Sprache, die diese Regierung spricht, nicht das Wesen der Gesellschaft“ — der Zeitgeist sei vorläufig und kippe, sobald Führung anderes anbietet.
 
+### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]
+
+Münklers stärkste Entdeckung — dass der russische Dekadenzvorwurf und die eigene hybride Kriegführung dieselbe Struktur haben, die Auflösung einer binären Ordnung — bleibt bei ihm eine Beobachtung über intellektuelle Inkonsistenz. Redecker erklärt, warum es keine ist: Phantombesitz und Ausnahmezustandslogik machen die verlorene Ordnung zu einem Anspruch, dessen Verteidigung Gewalt legitimiert. Ihre „Souveränität durch Verwüstung“ ist die dritte Lesart Putins neben Münklers Drehbuch und Baberowskis Blackbox.
+

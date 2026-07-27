@@ -222,6 +222,10 @@ Das Meta-Thema im Kern: Wer darf mit welcher Selbstgewissheit den Deutungsrahmen
 
 ---
 
+### → [[WDR Europaforum — Frieden schaffen mit immer mehr Waffen]]
+
+Flemigs Satz „Schwäche ist kein Beweis für Frieden“ ist die schärfste Gegenposition zu Jan van Akens Zeithorizont auf jenem Podium — und Margarita Šešelgytė formuliert ihn dort als gelebte Erfahrung eines Frontstaats. Beide Notes diagnostizieren zudem dieselbe Struktur: Precht und Flemig widerlegen einander nicht, sie reden über verschiedene Szenarien, so wie van Aken und Šešelgytė über verschiedene Zeitskalen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

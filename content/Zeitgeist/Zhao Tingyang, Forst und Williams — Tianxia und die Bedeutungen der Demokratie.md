@@ -214,6 +214,10 @@ Zhaos These, dass das westfälische Nationalstaatensystem keine negativen Extern
 
 ---
 
+### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]
+
+Münklers Satz „Es gibt eine Produktivität von Feindschaft“ hat in Zhaos relationaler Rationalität seine exakte Antithese: nicht Eigeninteresse maximieren, sondern gegenseitige Feindseligkeit minimieren — nicht als Moral, sondern als Stabilitätsbedingung. Wo Münkler die Handlungsunfähigkeit der 27 durch Hierarchisierung heilen will, setzt Tianxia auf Internalisierung der Welt; die Führungsgruppe der fünf ist dessen Gegenteil. Zhao ist zudem die dritte Großerzählung, die in Münklers Gegenüberstellung fehlt: China erscheint dort nur als Gläubiger mit Vetohebel, nie als Entwurf einer Ordnung.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

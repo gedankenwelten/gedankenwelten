@@ -1,7 +1,7 @@
 ---
 title: "Jok Madut Jok — Ein Elitenpakt ist kein Frieden"
 description: "Der jüngste Staat der Erde, fünfzehn Jahre alt und wieder im Krieg — ein Anthropologe erklärt von innen, warum ein Abkommen die Waffen verstummen lassen kann, ohne je Frieden zu schaffen."
-aktualisiert: 09.07.2026
+aktualisiert: 27.07.2026
 tags:
   - denker
   - geopolitik
@@ -151,6 +151,10 @@ Beide Notes verhandeln dieselbe Grundfrage — was Frieden *ist* — von entgege
 Joks „Sind wir die Hüter unseres Bruders?" ist die Weigerung, im Angesicht der Gräuel *nicht zu denken* — also genau die Instanz, deren Fehlen Arendt als Banalität des Bösen beschreibt. Der zermürbte, zu müde gewordene Bürger und der gedankenlose Schreibtischtäter sind zwei Gestalten derselben Abwesenheit von Urteilskraft — beide entlasten die Macht durch Schweigen.
 
 ---
+
+### → [[WDR Europaforum — Frieden schaffen mit immer mehr Waffen]]
+
+Joks Unterscheidung zwischen dem Schweigen der Waffen und dem Frieden im Leben der Menschen ist die Klammer jener Note, die zum 73. Jahrestag des Waffenstillstands von Panmunjom entstand — dem Elitenpakt in Reinform: ein Abkommen zwischen Generälen, das die Front einfriert, ohne ein Verhältnis zu regeln, von Südkorea nie unterschrieben. Das Podium streitet darüber, wie viel Waffen Frieden braucht, und setzt dabei voraus, Frieden sei das, was zwischen Staaten ausgehandelt wird — Joks Befund ist, dass ein solcher Frieden unterhalb der Unterzeichner gar nicht ankommen muss.
 
 ## Weiterdenken
 

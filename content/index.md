@@ -24,6 +24,12 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **27.07.** — [[Zeitgeist/Torsten Heinrich — Ukraine bewusst geopfert|Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?]]
+
+> **27.07.** — [[Zeitgeist/WDR Europaforum — Frieden schaffen mit immer mehr Waffen|Frieden schaffen mit immer mehr Waffen?]]
+>
+> Drei Menschen streiten über Aufrüstung — und der Streit dreht sich nicht um Zahlen, sondern darum, wie weit man in die Zukunft rechnen darf, wenn heute Morgen die Sirenen gingen.
+
 > **26.07.** — [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus]]
 
 > **26.07.** — [[Zeitgeist/Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]]
@@ -32,17 +38,17 @@ Die Gedankenwelten (luc)
 
 > **26.07.** — [[Zeitgeist/Mark Benecke — Fragerunde Time Is Up 2026|Mark Benecke — Fragerunde: Time Is Up 2026]]
 
-> **25.07.** — [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]]
->
-> Wachstum hat nicht nur eine Höhe, sondern eine Richtung — zwei Ökonomen vermessen eine Krise, in der ein digital-finanziell-militärischer Komplex die Macht übernimmt zu definieren, was Wirtschaft überhaupt heißen soll.
-
-> **20.07.** — [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]]
->
-> Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
-
 > → *7 weitere in* [[Zeitgeist]]
 
 ### Denker
+
+> **27.07.** — [[Denker/Herfried Münkler — Europas Platz in der neuen Weltordnung|Herfried Münkler — Europas Platz in der neuen Weltordnung]]
+>
+> Die Unterscheidung zwischen Krieg und Frieden ist keine Beschreibung der Welt mehr, sondern eine Gewohnheit — und Münkler erklärt kühl, was das für einen Kontinent heißt, der sich auf sie verlassen hat.
+
+> **27.07.** — [[Denker/Jok Madut Jok — Elitenpakt ist kein Frieden|Jok Madut Jok — Ein Elitenpakt ist kein Frieden]]
+>
+> Der jüngste Staat der Erde, fünfzehn Jahre alt und wieder im Krieg — ein Anthropologe erklärt von innen, warum ein Abkommen die Waffen verstummen lassen kann, ohne je Frieden zu schaffen.
 
 > **26.07.** — [[Denker/Souleymane Bachir Diagne — Der Philosoph als Uebersetzer|Souleymane Bachir Diagne — Der Philosoph als Übersetzer]]
 >
@@ -52,17 +58,11 @@ Die Gedankenwelten (luc)
 >
 > Die Moderne glaubt, es werde besser — und hat darum keine Sprache für das, was verloren geht. Reckwitz sucht einen Fortschritt, der den Verlust mitdenkt.
 
-> **19.07.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
+### Spuren
+
+> **27.07.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
 >
-> Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar: Klees Credo von 1920 — und der Tag 1937, an dem man den Sichtbarmacher unsichtbar machen wollte.
-
-> **19.07.** — [[Denker/Goetz Aly — Teufelspakt zwischen Volk und Fuehrung|Götz Aly — Der Teufelspakt zwischen Volk und Führung]]
-
-> **19.07.** — [[Denker/Kimberle Crenshaw — Intersektionalitaet und Critical Race Theory|Kimberlé Crenshaw — Intersektionalität und Critical Race Theory]]
->
-> Die Frau, die Intersektionalität prägte, erzählt Amerikas Verfassungsgeschichte von unten: acht Jahre Fortschritt, sieben Jahrzehnte Rückbau — und warum der Krieg um die Erinnerung der eigentliche ist.
-
-> → *1 weitere in* [[Denker]]
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
 ### Geistesblitz
 
@@ -87,16 +87,6 @@ Die Gedankenwelten (luc)
 > Zweieinhalb Jahrhunderte lang war klar, dass es besser wird. Was passiert mit einer Gesellschaft, deren Institutionen auf ein Versprechen gebaut sind, das sie selbst nicht mehr glaubt?
 
 > **25.07.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
-
-> **19.07.** — [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
->
-> Ein Zeichen kann sich nicht wehren — es gehört dem, der es am sichtbarsten benutzt. Aber nur so lange, wie die anderen es hergeben. Vom OK-Zeichen bis zum Rosa Winkel.
-
-### Spuren
-
-> **19.07.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
 
 ### Gedanken
 
