@@ -301,6 +301,10 @@ Merkel verkörpert genau das multilaterale Europa, das Krastev unter dem Druck d
 
 Havels Satz gelebt: Hoffnung als Handlung ohne Erfolgsgarantie — hier von zwei Hinterbliebenen im Nahostkonflikt gegen die Evidenz der Gegenwart geübt.
 
+### → [[WDR Europaforum — Frieden schaffen mit immer mehr Waffen]]
+
+Krastevs „Budgets führen keine Kriege. Menschen führen Kriege“ ist Jana Puglierins Output-Argument in seiner härtesten Form — stimmt es, misst van Akens 540-zu-153-Rechnung die falsche Größe. Und Krastevs Beobachtung, dass die Länder des ehemaligen russischen Reichs 2022 als eigenen Krieg erlebten, erklärt, warum der Riss jener Debatte nicht mit Argumenten zu schließen ist: Šešelgytės Geschichtsbuch in der Schublade ist geerbte, nicht gelernte Geschichte.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

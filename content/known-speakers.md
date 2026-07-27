@@ -13,6 +13,15 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Margarita Šešelgytė
+**Status:** ✓ Vollanalyse — [[DenkerVita/Margarita Seselgyte]]
+
+## Jana Puglierin
+**Status:** ✓ Vollanalyse — [[DenkerVita/Jana Puglierin]]
+
+## Jan van Aken
+**Status:** ✓ Vollanalyse — [[DenkerVita/Jan van Aken]]
+
 ## Jürgen Kornmeier
 **Status:** ✓ Vollanalyse — [[DenkerVita/Juergen Kornmeier]]
 
@@ -406,7 +415,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Heinz Bude]]
 
 ## Herfried Münkler
-**Status:** Stub
+**Status:** ✓ Vollanalyse — [[DenkerVita/Herfried Münkler]]
 
 ## Ingrid Brodnig
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ingrid Brodnig]]

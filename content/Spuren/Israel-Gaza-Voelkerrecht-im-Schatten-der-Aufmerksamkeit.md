@@ -13,7 +13,7 @@ status: offen
 konfidenz: 62%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-07-15
+aktualisiert: 2026-07-27
 presseschau_aktualisiert: 2026-06-21
 description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen."
 ---
@@ -149,6 +149,10 @@ Der Gegenschuss zur Spur: Wo die Spur *misst*, dass die Aufmerksamkeit abfließt
 ### → [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]]
 
 Die Praxis-Antwort auf die Ohnmacht, die diese Spur misst: Wenn Rechenschaft im Schatten versandet, setzen zwei Hinterbliebene (7. Oktober / israelische Haft) auf organisierte Wenige statt auf Aufmerksamkeit — Versöhnung als Politik mit Adressaten und Termin, nicht als Äquidistanz.
+
+### → [[WDR Europaforum — Frieden schaffen mit immer mehr Waffen]]
+
+Diese Spur ist der laufende Beleg für das, was Panmunjom in dreiundsiebzig Jahren zeigt — ein Waffenstillstand als Zustand, nicht als Übergang. Die Note zum 73. Jahrestag zieht dieselbe doppelte Bilanz, die hier als Pflicht-Gegenbeobachtung steht: ein Erfolg, wenn man Tote zählt, ein Scheitern, wenn man Leben zählt. Nur mit einem Datum, das noch läuft.
 
 ## Quellen
 

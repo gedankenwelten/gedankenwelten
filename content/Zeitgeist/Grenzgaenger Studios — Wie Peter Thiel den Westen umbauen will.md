@@ -266,6 +266,10 @@ Die 3sat-Doku liefert die Ideengeschichte zu der hier rekonstruierten Machtakkum
 
 ---
 
+### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]
+
+Münkler nennt Thiel beiläufig als Beleg dafür, dass die USA ins Katechontische rücken — diese Note ist die ausgeführte Fassung jener Fußnote. Thiels Antichrist-Vorträge arbeiten mit demselben Denkbild: eine Weltordnung, die dem Ende entgegengeht, und ein Aufhalter, der sie bremst; nur kommt der Antichrist bei ihm mit dem Versprechen von „Frieden und Sicherheit“. Damit wird Münklers Sorge vor einer amerikanisch-russischen Koalition konkret — sie bräuchte keine Werteverwandtschaft, nur dieselbe Apokalyptik.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

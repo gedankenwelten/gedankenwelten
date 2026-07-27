@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*274 Notes — automatisch generiert · nach Thema sortiert*
+*275 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -303,6 +303,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Heiner Flassbeck — Nachfragekrise und Schuldenlogik|Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
 - [[Zeitgeist/Ingrid Brodnig — Gegenstrategien zum Frauenhass|Ingrid Brodnig — Gegenstrategien zum Frauenhass]] — Frauenhass im Netz ist kein Gefühl, sondern ein Mechanismus: Wie digitale Gewalt Frauen auf ihren Platz verweist — und was Einzelne, Öffentlichkeit und die EU dagegen tun können.
 - [[Zeitgeist/Jan-Keno Janssen — Nvidia Tokenextremismus|Jan-Keno Janssen — Nvidia Tokenextremismus]] — „Früher bauten wir CPUs für Menschen, jetzt für KI-Agenten“ — wie Nvidia den PC-Markt destabilisiert und dann die teure Lösung verkauft.
+- [[Zeitgeist/Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]] — Ein Messtechnik-Konzern erklärt auf einer Digitalkonferenz, dass wir die Welt vermessen müssen, um sie zu retten. Der Satz stimmt und ist zugleich das Problem — denn was gemessen wird, hat immer jemand ausgewählt.
 - [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Maja Göpel & Achim Truger — Wachstum NEU DENKEN]]
 - [[Zeitgeist/Mark Benecke — Fragerunde Time Is Up 2026|Mark Benecke — Fragerunde: Time Is Up 2026]]
 - [[Zeitgeist/Markus Gabriel — Ethischer Kapitalismus|Markus Gabriel — Ethischer Kapitalismus: Modell der Zukunft?]]

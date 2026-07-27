@@ -1,7 +1,7 @@
 ---
 title: Alle Denker
 date: 2026-04-16
-aktualisiert: 2026-06-10
+aktualisiert: 2026-07-27
 tags: [meta, denker-vita]
 ---
 
@@ -193,6 +193,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Jonathan Haidt|Jonathan Haidt]]** — Sozialpsychologe (NYU Stern); Moral Foundations Theory, der Reiter auf dem Elefanten, moralische Demut gegen die politische Spaltung; *The Righteous Mind* (2012), *The Coddling of the American Mind* (2018), *The Anxious Generation* (2024)
 
+**[[DenkerVita/Herfried Münkler|Herfried Münkler]]** — Politikwissenschaftler, bis 2018 Professor für Theorie der Politik an der HU Berlin; *Die neuen Kriege* (Entstaatlichung, Asymmetrisierung, Autonomisierung), postheroische Gesellschaft, Imperium vs. Hegemonie, Deutschland als ungewollte Zentralmacht; *Welt in Aufruhr* (2023), *Macht im Umbruch* (2025)
+
 ## I
 
 **[[DenkerVita/Immanuel Kant|Immanuel Kant]]** — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, "Was ist Aufklärung?"
@@ -206,6 +208,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ivan Krastev|Ivan Krastev]]** — Bulgarischer Politikwissenschaftler (Wien/Sofia); Illiberale Welle als Imitations-Rebellion, Demokratie braucht Zukunftsglauben, "unsere Träume europäisch — unsere Albträume national"
 
 ## J
+
+**[[DenkerVita/Jan van Aken|Jan van Aken]]** — Biologe, 2004–2006 UN-Biowaffeninspekteur, zuvor Greenpeace-Gentechnikexperte; Vorsitzender der Linken von Oktober 2024 bis Juni 2026; Primat des Zivilen, strukturelle Nichtangriffsfähigkeit (nach Egon Bahr), EU- und Landesverteidigung ja — weltweite Machtprojektion nein
+
+**[[DenkerVita/Jana Puglierin|Jana Puglierin]]** — Politikwissenschaftlerin, seit 2020 Leiterin des ECFR-Büros Berlin; promoviert über John H. Herz, den Urheber des Begriffs Sicherheitsdilemma; europäische Verteidigungsfähigkeit ohne Amerika, aber nicht gegen es; *Wer verteidigt Europa?* (2026)
 
 **[[DenkerVita/Jan Hegenberg|Jan Hegenberg]]** — Blogger ("Der Graslutscher"), Autor; Energiewendemythen entkräften, Optimismus durch Fakten, Chinas CO₂-Trendwende
 
@@ -276,6 +282,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]]** — Philosoph, Begründer Sprachphilosophie; Linguistic Turn, "Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen
 
 ## M
+
+**[[DenkerVita/Margarita Seselgyte|Margarita Šešelgytė]]** — Litauische Politikwissenschaftlerin, seit 2019 Direktorin des Instituts für Internationale Beziehungen und Politikwissenschaft der Universität Vilnius; Abschreckung als psychologisches wie militärisches Problem, strategische Empathie und operative Solidarität, Total Defence als gesamtgesellschaftliche Resilienz
 
 **[[DenkerVita/Achille Mbembe|Achille Mbembe]]** — Kamerunischer Historiker und Politiktheoretiker; Necropolitics, Postkolonialtheorie, Planetare Ethik; Holberg Prize 2024 für *The Earthly Community*
 

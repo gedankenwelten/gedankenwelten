@@ -250,3 +250,12 @@ Merkels „zweite Seite der Medaille“ (Abschreckung + Diplomatie) ist gelebte 
 ### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
 
 Münklers Frage, unter welchen Bedingungen Kriege beginnen, bekommt eine neue Variable: Dahlmann nennt drei Gründe, warum KI die Hemmschwelle eher senkt — Überlegenheitsgefühl, gesenkte Kosten, Intransparenz, die den Erstschlag attraktiv macht.
+
+### → [[WDR Europaforum — Frieden schaffen mit immer mehr Waffen]]
+
+Die Frage dieser Note — muss es Kriege geben? — trifft auf dem re:publica-Podium auf ihre praktische Fassung: Wie viel Aufrüstung schafft Sicherheit? Jan van Aken liest die fehlende Verteidigungsbereitschaft junger Deutscher als Verteilungsproblem; Münklers postheroische Gesellschaft erklärt sie kulturell und demografisch. Wenn Münkler recht hat, würde auch ein reparierter Sozialstaat die Rekrutierungslücke nicht schließen.
+
+### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]
+
+Die Fortschreibung, und im Ton verändert. Dort fragt Münkler, *was jetzt zu tun ist*, und antwortet mit einer Liste statt mit einer Anthropologie. Dieselbe Clausewitz-Figur wandert vom Erklärungsmittel zum Werkzeug, die postheroische Gesellschaft von der Diagnose zur Forderung („Es gibt eine Produktivität von Feindschaft“) — und der Westen, hier noch Rahmen, ist dort verschwunden: „Diesen Westen gibt es nicht mehr.“
+

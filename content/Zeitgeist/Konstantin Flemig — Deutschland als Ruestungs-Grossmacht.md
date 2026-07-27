@@ -194,6 +194,10 @@ Munitionsproduktion im Maßstab von 1,1 Millionen Schuss benötigt Rohstoffe —
 
 Stremlau und Göpel setzen die analytische Gegenkategorie zu Flemigs Rüstungsboom: "notwendig aber nicht nachhaltig" (regrettable necessities). Flemig beschreibt, wie Rüstung zur neuen Jobmaschine wird; Stremlau erklärt, warum das keine Taxonomie-Kategorie werden darf — Waffen zerstören, was Transformation aufbauen soll. Zwei Notes, die dieselbe gesellschaftliche Wette aus entgegengesetzten Perspektiven beleuchten.
 
+### → [[WDR Europaforum — Frieden schaffen mit immer mehr Waffen]]
+
+Jan van Akens Verteilungsargument (100 Milliarden fürs Militär = Sozialabbau) trifft hier auf die materielle Gegenrechnung: Das Geld verschwindet nicht, es verlagert sich nach Unterlüß. Zugleich liefert diese Note van Akens stärkstes Argument nach, und zwar aus einer Quelle, die Aufrüstung nicht kritisiert — das Überkapazitäten-Problem: Wenn der Staat Leerkapazitäten mitträgt, entsteht ein Akteur, dessen Geschäftsgrundlage die Dauerhaftigkeit der Bedrohung ist. Das Sicherheitsdilemma hat nicht nur eine geopolitische Spirale, sondern auch eine industrielle.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

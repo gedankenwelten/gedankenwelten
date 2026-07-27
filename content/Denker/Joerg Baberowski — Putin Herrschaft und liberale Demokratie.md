@@ -236,6 +236,10 @@ Baberowski denkt vom Tod her — erst die Endlichkeit nötigt zum Sinn; Mawick h
 
 ---
 
+### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]
+
+Zwei Berliner Professoren derselben Universität lesen denselben Mann und widersprechen sich in der Methode. Münkler rekonstruiert aus Peter I., Katharina II. und Hitlers Infiltrationstaktik ein Drehbuch bis zur Ostsee; Baberowski nennt die Macht eine Blackbox und warnt genau vor der Projektion, aus der diese Prognose lebt. Beide teilen die kalte Anatomie der Eskalationsspirale — Baberowski leitet daraus Zurückhaltung ab, Münkler eine Handlungsliste. Zu dessen Hierarchisierung der EU liefert Baberowski das Störgeräusch: Wer demokratische Selbstregierung an umgrenzte Räume bindet, kann Beitritt ohne Vetorecht schwer als Demokratie verbuchen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

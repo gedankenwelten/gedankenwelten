@@ -6,6 +6,31 @@ tags:
   - links
 ---
 
+## Herfried Münkler — Europas Platz in der neuen Weltordnung (Industriekongress 2026)
+
+| | |
+|---|---|
+| **Keynote / Video** | [Trump, Putin, China: Europas Platz in der neuen Weltordnung](https://www.youtube.com/watch?v=_VN2sfUZZng) |
+| **Notiz** | [[Herfried Münkler — Europas Platz in der neuen Weltordnung]] |
+| **DenkerVita** | [[DenkerVita/Herfried Münkler]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Muenkler_Weltordnung_Transkript.txt` |
+| **Bücher** | [*Welt in Aufruhr*](https://www.genialokal.de/Suche/?q=muenkler+welt+in+aufruhr) (2023) · [*Macht im Umbruch*](https://www.genialokal.de/Suche/?q=muenkler+macht+im+umbruch) (2025) |
+| **Veranstalter** | [INDUSTRIEMAGAZIN — Industriekongress 2026, Schloss Pichlarn, 24.06.2026](https://industriemagazin.at/ruestung/europa-auf-der-speisekarte-muenklers-warnung-an-die-industrie/) (Video-Upload 05.07.2026) |
+| **Anlass** | Tagesnote zum 73. Jahrestag des Waffenstillstands von Panmunjom (27.07.1953) |
+
+## WDR Europaforum — Frieden schaffen mit immer mehr Waffen? (re:publica 26)
+
+| | |
+|---|---|
+| **Panel / Video** | [Frieden schaffen mit immer mehr Waffen? Aufrüstung und die Angst vor Krieg](https://www.youtube.com/watch?v=HxdaW3WCpFs) |
+| **Notiz** | [[WDR Europaforum — Frieden schaffen mit immer mehr Waffen]] |
+| **DenkerVitas** | [[DenkerVita/Jan van Aken]] · [[DenkerVita/Jana Puglierin]] · [[DenkerVita/Margarita Seselgyte]] |
+| **Transkript** | `Gedankenwelten/Transkripte/rp26_Frieden_Aufruestung_Transkript.txt` |
+| **Session-Seite** | [re:publica 26](https://re-publica.com/de/session/frieden-schaffen-mit-immer-mehr-waffen-aufruestung-und-die-angst-vor-krieg) · Partner: [WDR Europaforum](https://europaforum.wdr.de/) |
+| **Buch einer Sprecherin** | Jana Puglierin: [*Wer verteidigt Europa?*](https://www.genialokal.de/Suche/?q=puglierin+wer+verteidigt+europa) (Rowohlt 2026) |
+| **Lizenz** | CC BY-SA 4.0 |
+| **Anlass** | Tagesnote zum 73. Jahrestag des Waffenstillstands von Panmunjom (27.07.1953) |
+
 ## Frauke Fischer — Kann KI die Natur retten? (re:publica 26)
 
 | | |

@@ -216,6 +216,10 @@ Mirzaei füllt die Leerstelle, die das Panel bewusst offenlässt: die iranische 
 
 ---
 
+### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]
+
+Die direkte Gegenposition, hier sogar namentlich vorbereitet: Wolfgang Kalecks Kritik an der „Carl-Schmitt-mäßigen“ Lust der Feuilletons an Machtpolitik trifft eine Keynote, die gleich zwei Schmitt-Figuren aufruft — den Katechon und die Produktivität der Feindschaft. Wo Münkler den Begriff des Angriffskriegs mit Clausewitz „schwierig“ macht, bestehen Kai Ambos und Kaleck auf dem Gewaltverbot als hartem Recht. Und Sham Jaffs Einwand trifft Münklers Selbstkorrektur: Für den größeren Teil der Welt war der Westen nie der stabile Anker, dessen Verlust er beklagt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
