@@ -9,6 +9,12 @@ import { write } from "./helpers"
 import { i18n } from "../../i18n"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
+
+// Was im ausgelieferten schlanken Index landet: alles außer dem Volltext. Graph und
+// Explorer arbeiten damit; der Volltext geht in contentIndex.search.json und wird
+// erst geholt, wenn die Suche geöffnet wird.
+export type SlimContentDetails = Omit<ContentDetails, "content" | "richContent" | "description">
+
 export type ContentDetails = {
   slug: FullSlug
   filePath: FilePath
@@ -182,24 +188,45 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         }
       }
 
-      const fp = joinSegments("static", "contentIndex") as FullSlug
-      const simplifiedIndex = Object.fromEntries(
-        Array.from(linkIndex).map(([slug, content]) => {
-          // remove description and from content index as nothing downstream
-          // actually uses it. we only keep it in the index as we need it
-          // for the RSS feed
-          delete content.description
-          if (content.date) {
-            ;(content as any).date = (content.date as Date).getTime()
-          }
-          return [slug, content]
-        }),
-      )
+      // Zwei Indizes statt einem.
+      //
+      // Der Volltext ist das Schwergewicht — bei 750 Notes rund 12 MB — und wird
+      // ausschließlich von der Suche gebraucht. Graph und Explorer brauchen nur
+      // Titel, Links, Tags und Datum. Solange beides in einer Datei lag, zogen der
+      // Explorer (Sidebar, also jede Seite) und die Suche (nav-Handler) den ganzen
+      // Volltext bei jedem Seitenaufruf; das lazy thenable in renderPage.tsx lief
+      // damit ins Leere. Getrennt gilt: schlanker Index sofort, Volltext erst wenn
+      // jemand die Suche öffnet.
+      //
+      // Beide Dateien heißen absichtlich `contentIndex*` — so deckt ein einziges
+      // `Disallow: /static/contentIndex` in der robots.txt beide ab.
+      const slimIndex: Record<string, any> = {}
+      const searchIndex: Record<string, any> = {}
+
+      for (const [slug, details] of linkIndex) {
+        // description und richContent trägt nur der RSS-Feed (oben schon emittiert),
+        // content nur die Suche — alle drei raus aus dem schlanken Index.
+        const { content, richContent, description, date, ...rest } = details
+        const slim: Record<string, any> = { ...rest }
+        if (date) {
+          // Als Timestamp, nicht als ISO-String: der Explorer sortiert danach.
+          slim.date = (date as Date).getTime()
+        }
+        slimIndex[slug] = slim
+        searchIndex[slug] = { title: details.title, content, tags: details.tags }
+      }
 
       yield write({
         ctx,
-        content: JSON.stringify(simplifiedIndex),
-        slug: fp,
+        content: JSON.stringify(slimIndex),
+        slug: joinSegments("static", "contentIndex") as FullSlug,
+        ext: ".json",
+      })
+
+      yield write({
+        ctx,
+        content: JSON.stringify(searchIndex),
+        slug: joinSegments("static", "contentIndex.search") as FullSlug,
         ext: ".json",
       })
     },
