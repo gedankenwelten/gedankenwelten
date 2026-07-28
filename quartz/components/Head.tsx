@@ -38,6 +38,16 @@ export default (() => {
         ? url.toString()
         : joinSegments(url.toString(), simpleSlug)
 
+    // Tag-Seiten aus dem Index halten (Entscheidung 28.07.2026). Es sind ~700 dünne
+    // Auflistungen gegen 750 Notes — Google crawlte also rund die Hälfte seines
+    // Budgets in Listen statt in Texte, und indexierte sie ohnehin nicht („Gecrawlt –
+    // zurzeit nicht indexiert"). `follow` bleibt bewusst drin: die Seiten dürfen als
+    // Wegweiser auf die Notes weiter zählen, sie sollen nur selbst nicht ranken.
+    // Kein robots.txt-Disallow, denn dann sähe Google das noindex nie.
+    // Betrifft auch tags/index (die Tag-Wolke, ~2 MB HTML). Tag-Seiten stehen nicht
+    // in der Sitemap — kein Widerspruch zwischen Einreichung und noindex.
+    const isTagPage = (fileData.slug ?? "").startsWith("tags/")
+
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
     )
@@ -48,6 +58,7 @@ export default (() => {
         <title>{title}</title>
         <meta charSet="utf-8" />
         <link rel="canonical" href={canonicalUrl} />
+        {isTagPage && <meta name="robots" content="noindex, follow" />}
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
