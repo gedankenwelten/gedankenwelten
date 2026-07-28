@@ -7,6 +7,14 @@
 User-agent: *
 Allow: /
 
+# Der Suchindex bleibt draußen — nicht aus Geheimhaltung, sondern aus Rücksicht.
+# contentIndex.json trägt den Volltext aller Notes in einer 12-MB-Datei; Graph,
+# Explorer und Suche holen sie bei jedem Seitenaufruf. Ein Crawler, der jede Seite
+# rendert, lädt sie jedes Mal mit — und verbrennt sein Crawl-Budget in einer Datei,
+# statt in den Texten, um die es geht. Für die Indexierung ist nichts darin, was
+# nicht im HTML steht.
+Disallow: /static/contentIndex.json
+
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
 # Nicht willkommen: reine SEO-/Backlink-Trawler.
