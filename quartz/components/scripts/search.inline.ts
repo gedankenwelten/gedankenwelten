@@ -1,5 +1,4 @@
 import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
-import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
 
@@ -187,7 +186,7 @@ function highlightHTML(searchTerm: string, el: HTMLElement) {
   return html.body
 }
 
-async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: ContentIndex) {
+async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   const container = searchElement.querySelector(".search-container") as HTMLElement
   if (!container) return
 
@@ -202,7 +201,21 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const searchLayout = searchElement.querySelector(".search-layout") as HTMLElement
   if (!searchLayout) return
 
-  const idDataMap = Object.keys(data) as FullSlug[]
+  // Der Volltext-Index kommt erst, wenn die Suche geöffnet wird — bis dahin ist
+  // hier nichts. `idDataMap` muss dieselbe Reihenfolge haben wie die IDs, die
+  // fillDocument vergibt (Object.keys-Reihenfolge), darum beides an einer Stelle.
+  let data: SearchIndex = {}
+  let idDataMap: FullSlug[] = []
+  let indexReady: Promise<void> | undefined
+  function ensureIndex(): Promise<void> {
+    indexReady ??= (async () => {
+      data = await fetchSearchData
+      idDataMap = Object.keys(data) as FullSlug[]
+      await fillDocument(data)
+    })()
+    return indexReady
+  }
+
   const appendLayout = (el: HTMLElement) => {
     searchLayout.appendChild(el)
   }
@@ -238,6 +251,10 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     if (sidebar) sidebar.style.zIndex = "1"
     container.classList.add("active")
     searchBar.focus()
+    // Download hier anstoßen, aber nicht darauf warten: die Suche geht sofort auf,
+    // der Index kommt währenddessen. Getippt wird ohnehin erst danach — und onType
+    // wartet, falls jemand schneller ist.
+    void ensureIndex()
   }
 
   let currentHover: HTMLInputElement | null = null
@@ -437,7 +454,11 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   async function onType(e: HTMLElementEventMap["input"]) {
     if (!searchLayout || !index) return
-    currentSearchTerm = (e.target as HTMLInputElement).value
+    // Eingabe zuerst ablesen, dann warten — falls jemand tippt, bevor der Index
+    // durch ist, wird gewartet statt leer gesucht.
+    const typed = (e.target as HTMLInputElement).value
+    await ensureIndex()
+    currentSearchTerm = typed
     searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
 
@@ -501,7 +522,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
 
   registerEscapeHandler(container, hideSearch)
-  await fillDocument(data)
+  // Kein fillDocument mehr an dieser Stelle — das lief bei jedem Seitenaufruf und
+  // zog den ganzen Volltext mit. Jetzt macht es ensureIndex, beim Öffnen der Suche.
 }
 
 /**
@@ -510,11 +532,11 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
  * @param data data to fill index with
  */
 let indexPopulated = false
-async function fillDocument(data: ContentIndex) {
+async function fillDocument(data: SearchIndex) {
   if (indexPopulated) return
   let id = 0
   const promises: Array<Promise<unknown>> = []
-  for (const [slug, fileData] of Object.entries<ContentDetails>(data)) {
+  for (const [slug, fileData] of Object.entries<SearchIndexEntry>(data)) {
     promises.push(
       index.addAsync(id++, {
         id,
@@ -532,9 +554,10 @@ async function fillDocument(data: ContentIndex) {
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
-  const data = await fetchData
+  // Bewusst ohne await auf Indexdaten: das Aufsetzen der Suche braucht keine.
+  // Geholt wird erst beim Öffnen (ensureIndex).
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
-    await setupSearch(element, currentSlug, data)
+    await setupSearch(element, currentSlug)
   }
 })

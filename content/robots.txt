@@ -7,13 +7,12 @@
 User-agent: *
 Allow: /
 
-# Der Suchindex bleibt draußen — nicht aus Geheimhaltung, sondern aus Rücksicht.
-# contentIndex.json trägt den Volltext aller Notes in einer 12-MB-Datei; Graph,
-# Explorer und Suche holen sie bei jedem Seitenaufruf. Ein Crawler, der jede Seite
-# rendert, lädt sie jedes Mal mit — und verbrennt sein Crawl-Budget in einer Datei,
-# statt in den Texten, um die es geht. Für die Indexierung ist nichts darin, was
-# nicht im HTML steht.
-Disallow: /static/contentIndex.json
+# Die Indexdateien bleiben draußen — nicht aus Geheimhaltung, sondern aus Rücksicht.
+# Sie füttern Graph, Explorer und Suche, und ein Crawler, der jede Seite rendert,
+# lädt sie jedes Mal mit: das Crawl-Budget verbrennt dann in Hilfsdateien statt in
+# den Texten, um die es geht. Für die Indexierung ist nichts darin, was nicht im
+# HTML steht. Präfix-Regel — deckt contentIndex.json und contentIndex.search.json ab.
+Disallow: /static/contentIndex
 
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 

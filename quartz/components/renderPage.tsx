@@ -34,8 +34,14 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
+  // Zwei lazy thenables: fetchData holt den schlanken Index (Titel, Links, Tags —
+  // für Graph und Explorer), fetchSearchData den Volltext (nur für die Suche, und
+  // die zieht ihn erst, wenn sie geöffnet wird). Beide starten ihren Request erst
+  // beim ersten await und merken sich das Ergebnis; das Script ist spaPreserve,
+  // die Memos überleben also SPA-Navigationen.
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `let _cdnP; const fetchData = { then(r,e) { _cdnP = _cdnP || fetch("${contentIndexPath}").then(d => d.json()); return _cdnP.then(r,e); }, catch(e) { return this.then(undefined, e); } }`
+  const searchIndexPath = joinSegments(baseDir, "static/contentIndex.search.json")
+  const contentIndexScript = `let _cdnP; const fetchData = { then(r,e) { _cdnP = _cdnP || fetch("${contentIndexPath}").then(d => d.json()); return _cdnP.then(r,e); }, catch(e) { return this.then(undefined, e); } }; let _sdnP; const fetchSearchData = { then(r,e) { _sdnP = _sdnP || fetch("${searchIndexPath}").then(d => d.json()); return _sdnP.then(r,e); }, catch(e) { return this.then(undefined, e); } }`
 
   const resources: StaticResources = {
     css: [
