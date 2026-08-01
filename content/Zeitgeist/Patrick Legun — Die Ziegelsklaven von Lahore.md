@@ -25,7 +25,7 @@ aktualisiert: 2026-08-01
 
 **Künstlerhand:** Käthe Kollwitz
 
-**Warum:** Kollwitz hat ihr Leben lang arbeitende und leidende Körper gezeichnet, ohne sie je zu Symbolen zu machen — genau die Temperatur, die diese Reportage braucht. Der gebeugte Junge im Vordergrund, die Schlote im Staublicht: kein Elendsbild, das um Mitleid bittet, sondern eine Haltung, in der Erschöpfung und Würde nebeneinander stehen.
+**Warum:** Kollwitz hat ihr Leben lang arbeitende und leidende Körper gezeichnet, ohne sie je zu Symbolen zu machen — genau die Temperatur, die diese Reportage braucht. Der gebeugte Junge im Vordergrund, die Schlote im Staublicht: eine Haltung, in der Erschöpfung und Würde nebeneinander stehen, ohne dass das Bild um Mitleid bittet.
 
 </details>
 
@@ -168,7 +168,7 @@ Pakistan hat die Schuldknechtschaft 1992 verboten. Der *Bonded Labour System (Ab
 
 Dagegen steht das Konkrete. Ein Gesetz, das seit über dreißig Jahren nicht durchgesetzt wird, hilft Amba heute nicht. Die Familie, die auszieht, ist tatsächlich draußen. Die zuvor befreite Familie führt tatsächlich ein Restaurant. Und der Freikauf ist hier ausdrücklich nicht das Ende: Miete, Essen, Schule, ein Fahrzeug — die Begleitung danach ist Teil des Versprechens.
 
-Beides gilt. Der Freikauf ist eine Rettung für die Geretteten und keine Lösung des Problems, und Legun sagt das selbst, wenn er sagt, es breche ihm das Herz, die anderen zurückzulassen. Was fehlt, ist nicht die Absicht, sondern der Hebel: Durchsetzung des bestehenden Verbots, Zugang zu Bildung für die Gruppen, die als Analphabeten in diese Verträge geraten, und Kredite, die keine Menschen als Sicherheit nehmen.
+Beides gilt. Der Freikauf ist eine Rettung für die Geretteten und keine Lösung des Problems, und Legun sagt das selbst, wenn er sagt, es breche ihm das Herz, die anderen zurückzulassen. Was fehlt, ist der Hebel, nicht die Absicht: Durchsetzung des bestehenden Verbots, Zugang zu Bildung für die Gruppen, die als Analphabeten in diese Verträge geraten, und Kredite, die keine Menschen als Sicherheit nehmen.
 
 Die ILO benennt dabei einen Faktor, der in der Debatte meist untergeht und der die Reportage von hinten erklärt: Am härtesten ist die Knechtschaft für Familien, die **auf dem Gelände wohnen müssen, weil sie keine Alternative haben.** Es ist die Wohnung, die sie festhält, nicht die Schuld. Deshalb empfiehlt die ILO nicht Entschuldung, sondern Land und Unterkunft — und deshalb ist es kein Zufall, dass Legun neben dem Schuldbetrag drei Monate Miete bezahlt. Das produktivste Gegenmodell steht in Sindh: Azad Nagar, wo seit 2007 fast zweihundert befreite Familien auf neununddreißig Hektar mit Schule und Ausbildung leben. Die Frage lautet dann nicht mehr *ob* freikaufen, sondern *und was danach*.
 

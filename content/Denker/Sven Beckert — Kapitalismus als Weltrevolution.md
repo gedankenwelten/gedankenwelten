@@ -30,7 +30,7 @@ aktualisiert: 2026-08-01
 </details>
 
 > [!abstract] Worum es geht
-> Drei Stunden mit einem Historiker, der den Kapitalismus nicht bei der Dampfmaschine beginnen lässt, sondern auf einer Zuckerinsel. Beckerts These: Die industrielle Revolution ist nicht der Ursprung des Kapitalismus, sondern eines seiner Ergebnisse — und die Sklaverei gehört nicht in seine Vorgeschichte, sondern in sein Zentrum. Wer ihn definiert, sagt Beckert, definiere ihn falsch über die Lohnarbeit; entscheidend sei, dass Arbeitskraft überhaupt zur Ware wird. Zugleich verteidigt er, unpopulär im eigenen Lager, das Freiheitsversprechen des Arbeitsvertrags gegen die Gleichsetzung von Lohnarbeit und Sklaverei.
+> Drei Stunden mit einem Historiker, der den Kapitalismus auf einer Zuckerinsel beginnen lässt statt bei der Dampfmaschine. Beckerts These: Die industrielle Revolution ist eines seiner Ergebnisse, nicht sein Ursprung — und die Sklaverei gehört in sein Zentrum. Wer ihn über die Lohnarbeit definiert, sagt Beckert, definiere ihn falsch; entscheidend sei, dass Arbeitskraft überhaupt zur Ware wird. Zugleich verteidigt er, unpopulär im eigenen Lager, das Freiheitsversprechen des Arbeitsvertrags gegen die Gleichsetzung von Lohnarbeit und Sklaverei.
 
 > [!info] Anlass — Emancipation Day, 1. August
 > Am 1. August 1834 trat der britische *Slavery Abolition Act* in Kraft und beendete das Eigentum an Menschen in den karibischen Kolonien — auf Barbados, Jamaika, Trinidad, in Britisch-Guayana. Beckerts erstes Beispiel einer vollständig kapitalistischen Gesellschaft ist Barbados im Jahr 1670: eine Insel, auf der alles zur Ware geworden war, die Arbeitskraft eingeschlossen. Zwischen diesen beiden Daten liegen 164 Jahre, in denen die Ökonomie, die auf jener Insel entstand, zur Weltordnung wurde. Der Emancipation Day markiert das Ende einer ihrer Mobilisierungsformen — nicht das Ende der Ordnung.
@@ -79,7 +79,7 @@ Ein Satz, den heute jedes Kind für eine Selbstverständlichkeit hielte, war im 
 [▶ 69:02](https://www.youtube.com/watch?v=D11LeDeLvD8&t=4142) Dieser Widerstand kam von zwei Seiten. Von den Eliten: Feudalherren und kirchliche Autoritäten wollten keine Kaufleute, die sich einmischen, wie die Bauern ausgebeutet werden — sie wollten sie selbst ausbeuten. Und von unten: Wer in Subsistenzwirtschaft eingebettet war, für den war der Tausch von gesicherter Selbstversorgung gegen kurzfristig mehr Geld und übermorgen keinen Job ein sehr großes Risiko.
 
 > [!note] Eigene Einschätzung
-> Der zweite Widerstand ist der, den ich in der üblichen Erzählung am meisten vermisse. Wir kennen die Geschichte des Kapitalismus meist als Befreiung aus feudalen Fesseln — und blenden aus, dass die Befreiten selbst massiv dagegen waren. Nicht aus Rückständigkeit, sondern weil sie richtig gerechnet hatten: Subsistenz ist arm, aber sie ist berechenbar. Der Lohn ist höher und kann morgen weg sein. Das ist keine historische Randnotiz, sondern dieselbe Rechnung, die heute jede Debatte über Plattformarbeit und Grundsicherung durchzieht.
+> Der zweite Widerstand ist der, den ich in der üblichen Erzählung am meisten vermisse. Wir kennen die Geschichte des Kapitalismus meist als Befreiung aus feudalen Fesseln — und blenden aus, dass die Befreiten selbst massiv dagegen waren. Sie hatten richtig gerechnet: Subsistenz ist arm, aber sie ist berechenbar. Der Lohn ist höher und kann morgen weg sein. Dieselbe Rechnung durchzieht heute jede Debatte über Plattformarbeit und Grundsicherung.
 
 ### Barbados 1670 — der Kapitalismus vor der Fabrik
 

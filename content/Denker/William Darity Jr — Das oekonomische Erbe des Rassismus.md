@@ -56,7 +56,7 @@ Quelle: [The Economic Legacy of Racism](https://www.youtube.com/watch?v=j2RgwVHS
 
 > *„Wenn wir sorgfältig über die Ursprünge des Unabhängigkeitskampfes der dreizehn Kolonien nachdenken — dieser Kampf war eng damit verbunden, den Fortbestand der Sklaverei in den Vereinigten Staaten zu sichern."*
 
-Die Unabhängigkeitserklärung ist damit ein Freiheitsversprechen an eine Minderheit der Bevölkerung. Weiße Frauen waren im strengen Sinn nicht mitgemeint; schwarze Menschen waren ausdrücklich ausgeschlossen — nicht von einem Teil der Früchte der Staatsgründung, sondern von allen.
+Die Unabhängigkeitserklärung ist damit ein Freiheitsversprechen an eine Minderheit der Bevölkerung. Weiße Frauen waren im strengen Sinn nicht mitgemeint; schwarze Menschen waren ausdrücklich ausgeschlossen, und zwar von allen Früchten der Staatsgründung.
 
 Darity setzt diesen Befund an den Anfang, weil sein ganzes Argument darauf beruht, dass Ungleichheit einen Ursprung hat, den man benennen kann. Wer diesen Ursprung ausblendet, muss die Erklärung woanders suchen — und findet sie regelmäßig bei denen, die den Schaden tragen.
 
@@ -89,12 +89,12 @@ Die Logik dahinter ist so schlicht wie unbequem: Ein Regenschirm ist eine sinnvo
 
 [▶ 7:39](https://www.youtube.com/watch?v=j2RgwVHS1Wc&t=459) Der zweite Mechanismus ist der leisere und vermutlich der mächtigere. Familien mit mehr Mitteln können mehr an die nächste Generation weitergeben — durch Erbschaften, durch Schenkungen, durch das Bezahlen einer Ausbildung, durch die Möglichkeit, ein Kind in seinen prägenden Jahren zu tragen.
 
-Bis hierhin ist das eine Aussage über Vermögen. Rassisch wird sie dadurch, dass schwarze Familien im Durchschnitt erheblich weniger zu vererben haben. Die Lücke reproduziert sich also nicht über Verhalten, sondern über Substanz. Sie braucht keinen Rassisten mehr, um weiterzubestehen — nur die Vergangenheit und die Zeit.
+Bis hierhin ist das eine Aussage über Vermögen. Rassisch wird sie dadurch, dass schwarze Familien im Durchschnitt erheblich weniger zu vererben haben. Die Lücke reproduziert sich damit über Substanz, nicht über Verhalten. Sie braucht keinen Rassisten mehr, um weiterzubestehen — nur die Vergangenheit und die Zeit.
 
 Genau darum ist der Emancipation Day für Daritys Argument mehr als ein Datum. 1834 endete in den britischen Kolonien das Eigentumsrecht an Menschen; entschädigt wurden die Eigentümer. In den USA endete die Sklaverei 1865 ohne jede Entschädigung an die Befreiten — die versprochenen vierzig Acres kamen nie. Der Startpunkt der Vermögensakkumulation war für die einen ein Vermögen und für die anderen die Null. Alles, was danach kommt, rechnet mit diesen Anfangswerten weiter.
 
 > [!note] Eigene Einschätzung
-> Das ist der Punkt, an dem Daritys Ökonomie unbequemer wird als jede moralische Anklage. Eine moralische Anklage kann man mit gutem Willen beantworten. Eine Vermögensrechnung nicht — sie läuft weiter, auch wenn alle Beteiligten es gut meinen. Deshalb landet Darity bei Reparationen, und deshalb ist das bei ihm keine Geste der Wiedergutmachung, sondern eine Korrektur an einer Anfangsbedingung. Was mich daran überzeugt, ist die Kälte des Arguments; was mich zögern lässt, ist die Frage, ob eine Gesellschaft eine solche Korrektur je beschließen kann, solange die Mehrheit sich als Erbin und nicht als Nutznießerin versteht.
+> Das ist der Punkt, an dem Daritys Ökonomie unbequemer wird als jede moralische Anklage. Eine moralische Anklage kann man mit gutem Willen beantworten. Eine Vermögensrechnung nicht — sie läuft weiter, auch wenn alle Beteiligten es gut meinen. Deshalb landet Darity bei Reparationen, und deshalb ist das bei ihm die Korrektur einer Anfangsbedingung und keine Geste der Wiedergutmachung. Was mich daran überzeugt, ist die Kälte des Arguments; was mich zögern lässt, ist die Frage, ob eine Gesellschaft eine solche Korrektur je beschließen kann, solange die Mehrheit sich als Erbin und nicht als Nutznießerin versteht.
 
 ### Die Ironie im Datensatz
 
@@ -124,7 +124,7 @@ Seine Antwort ist eine Vergleichsgruppe. Im untersten Einkommensquintil verfüge
 
 > *„Wenn wir die Wahrscheinlichkeit vergleichen würden, eine Begegnung mit der Polizei lebend zu überstehen — sie ist sehr viel höher für jemanden, der weiß ist, unabhängig von seinem Einkommensniveau."*
 
-Wer am unteren Ende steht, aber immer noch messbar über jemand anderem, hat etwas zu verlieren, das nicht in Geld ausgedrückt wird. Das ist Daritys Erklärung für die Stabilität der Koalition: Es geht nicht um absolute Verbesserung, sondern um relative Position. Ein Argument, das weit über die USA hinaus trägt — überall dort, wo Menschen gegen ihre materiellen Interessen wählen und Beobachter das für irrational halten.
+Wer am unteren Ende steht, aber immer noch messbar über jemand anderem, hat etwas zu verlieren, das nicht in Geld ausgedrückt wird. Das ist Daritys Erklärung für die Stabilität der Koalition: Es geht um die relative Position, nicht um absolute Verbesserung. Ein Argument, das weit über die USA hinaus trägt — überall dort, wo Menschen gegen ihre materiellen Interessen wählen und Beobachter das für irrational halten.
 
 > [!question] Weitergedacht
 > Wenn relative Position mehr wiegt als absoluter Zugewinn — *was heißt das für jede Politik, die mit dem Versprechen antritt, dass es allen besser geht?*
