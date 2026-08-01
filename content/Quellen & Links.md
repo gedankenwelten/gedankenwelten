@@ -3970,3 +3970,39 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Institut** | [IGPP Freiburg](https://igpp.de/) |
 | **Optische Täuschungen** | [Michael Bach — Optische Täuschungen & visuelle Phänomene](https://michaelbach.de/ot/index-de.html) — 140+ interaktive Täuschungen mit Erklärung, von Kornmeiers Doktorvater; im Gespräch als „weltbeste Webseite" zum Thema empfohlen |
 | **Transkript** | `Gedankenwelten/Transkripte/Kornmeier_Grenzgebiete_JungNaiv838_Transkript.txt` |
+
+## Sven Beckert — Geschichte des Kapitalismus
+
+| | |
+|---|---|
+| **Video / Gespräch** | [Historiker Sven Beckert über die Geschichte des Kapitalismus — Jung & Naiv: Folge 802](https://www.youtube.com/watch?v=D11LeDeLvD8) (09.01.2026, 3:04 Std.) |
+| **Notiz** | [[Denker/Sven Beckert — Kapitalismus als Weltrevolution]] |
+| **DenkerVita** | [[DenkerVita/Sven Beckert]] |
+| **Buch** | [*Kapitalismus — Geschichte einer Weltrevolution*](https://www.genialokal.de/Suche/?q=beckert+kapitalismus+weltrevolution) (Rowohlt 2025) · [*Empire of Cotton*](https://www.genialokal.de/Suche/?q=beckert+empire+of+cotton) (2014, Bancroft-Preis) |
+| **Fachkontroverse** | Olmstead & Rhode, *Cotton, slavery, and the new history of capitalism*, [doi:10.1016/j.eeh.2017.12.002](https://doi.org/10.1016/j.eeh.2017.12.002) · Vries, [doi:10.1353/jwh.2017.0006](https://doi.org/10.1353/jwh.2017.0006) |
+| **Transkript** | `Gedankenwelten/Transkripte/Beckert_Kapitalismus_JungNaiv_802_Transkript.txt` |
+
+## William Darity Jr. — Das ökonomische Erbe des Rassismus
+
+| | |
+|---|---|
+| **Video / Gespräch** | [The Economic Legacy of Racism](https://www.youtube.com/watch?v=j2RgwVHS1Wc) — Institute for New Economic Thinking (2016, 22 Min., mit Rob Johnson) |
+| **Notiz** | [[Denker/William Darity Jr — Das oekonomische Erbe des Rassismus]] |
+| **DenkerVita** | [[DenkerVita/William Darity Jr.]] |
+| **Bericht** | [*Umbrellas Don't Make It Rain* (Cook Center, PDF)](https://socialequity.duke.edu/wp-content/uploads/2019/10/Umbrellas_Dont_Make_It_Rain_Final.pdf) — die Zahlen des Gesprächs |
+| **Buch** | [*From Here to Equality*](https://www.genialokal.de/Suche/?q=darity+from+here+to+equality) (2020, mit A. Kirsten Mullen) |
+| **Transkript** | `Gedankenwelten/Transkripte/Darity_Economic_Legacy_of_Racism_Transkript.txt` |
+
+## Patrick Legun / humanvoll — Ziegelsklaverei in Pakistan
+
+| | |
+|---|---|
+| **Video / Reportage** | [Ich habe eine Familie aus der Sklaverei freigekauft 🇵🇰](https://www.youtube.com/watch?v=4MRupM63PpU) — humanvoll (26.04.2026, 28 Min.) |
+| **Notiz** | [[Zeitgeist/Patrick Legun — Die Ziegelsklaven von Lahore]] |
+| **DenkerVita** | [[DenkerVita/Patrick Legun]] |
+| **Organisation** | [humanvoll.de](https://humanvoll.de) · Partner vor Ort: [Project Jubilee / Hina und Elisha Eman](https://www.instagram.com/emanmc/) |
+| **Feldstudie** | [ILO Working Paper 24 — *Unfree labour in Pakistan* (PDF)](https://www.ilo.org/media/316696/download) — Ercelawn/Nauman für PILER, über 100 besuchte Ziegeleien |
+| **Parlamentsbericht** | [APPG for Pakistani Minorities — *Exploitation of Bonded Brick Kiln Labourers* (2025, PDF)](https://appgfreedomofreligionorbelief.org/media/25.1.2025-APPG-Report_Final-copy-ND-1.pdf) |
+| **Rechtslage** | [Bonded Labour System (Abolition) Act, 1992 (PDF)](https://www.ilo.org/media/43121/download) — § 6: bestehende Schulden gelten als erloschen |
+| **Freikauf-Debatte** | [Appiah/Bunzl (Hg.), *Buying Freedom* (Princeton UP)](https://press.princeton.edu/books/paperback/9780691130101/buying-freedom) |
+| **Transkript** | `Gedankenwelten/Transkripte/Legun_Ziegelsklaverei_Pakistan_Transkript.txt` |

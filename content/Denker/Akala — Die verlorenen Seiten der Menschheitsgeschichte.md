@@ -249,6 +249,10 @@ Akalas übermalte Schwarze Madonnen, abgeschlagene Statuennasen und weiß besetz
 
 Akalas Frage nach dem Besitz des Lehrplans findet ihr US-Pendant in Crenshaws „Krieg um die Erinnerung“ — die Geschichtsschreibung als eigentliches Schlachtfeld, Race stets mit Klasse verschränkt.
 
+### → [[William Darity Jr — Das oekonomische Erbe des Rassismus]]
+
+Akala zeigt, dass Rassenwissenschaft produziert wurde, weil eine Ökonomie sie brauchte. Darity beobachtet dieselbe Bewegung in der Gegenwart: die Rückkehr der Rasse als biogenetisches Konstrukt durch die Hintertür der Genomik, über rassenspezifische Krankheiten und Medikamente. Bei beiden entlastet die Biologisierung, statt zu erklären.
+
 ---
 ## Weiterdenken
 

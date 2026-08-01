@@ -57,6 +57,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## B
 
+**[[DenkerVita/Sven Beckert|Sven Beckert]]** — Historiker (Laird Bell Professor, Harvard); Globalgeschichte des Kapitalismus, „Kriegskapitalismus“ — Sklaverei, Landraub und Gewalt als konstitutive Grundlage des Kapitalismus, nicht als seine Vorgeschichte
+
 **[[DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026
 
 **[[DenkerVita/Joerg Baberowski|Jörg Baberowski]]** — Historiker (HU Berlin), Gewalt- und Stalinismusforscher; Gewalt als eigene Logik (jenseits der Ideologie), Herrschaft als Naturgesetz des Staates, Liberalismus ≠ Demokratie; renommiert und polarisierend zugleich
@@ -363,6 +365,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## P
 
+**[[DenkerVita/Patrick Legun|Patrick Legun]]** — Aktivist, Filmemacher und Lehramtsstudent aus Aachen, Gründer der Hilfsorganisation humanvoll; von „Random Acts of Kindness“ auf Social Media zur Reportage aus den pakistanischen Ziegeleien — Freikauf aus der Schuldknechtschaft, Hilfe mit Mitbestimmung statt Spendenapparat
+
 **[[DenkerVita/Paul Heck|Paul Heck]]** — Islamwissenschaftler (Georgetown, römisch-katholisch); Skeptizismus im klassischen Islam, politische Theologie, religiöser Pluralismus — Religion als etwas Größeres als Identität, „Epistemologie der Freundschaft“
 
 **[[DenkerVita/Paul Lance|Paul Lance]]** — Amerikanischer Aktivist; Trump als Faschismus-Muster, Apathie als Enabler, Ex-Republikaner, Perspektive aus dem amerikanischen Innenleben
@@ -467,6 +471,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
 
 **[[DenkerVita/Wendy Brown|Wendy Brown]]** — Politische Theoretikerin und Kritikerin des Neoliberalismus (UPS Foundation Professor, Institute for Advanced Study Princeton); Foucault-Gelehrte; Analyse: Neoliberalismus als Regierungsrationalität, nicht nur Wirtschaftspolitik; Demokratie-Aushöhlung von innen; Kernwerk *Undoing the Demos* (2015, Spitz Prize 2017); *In the Ruins of Neoliberalism* (2019); aktive akademische Widerstandspraxis gegen UC-Privatisierung
+
+**[[DenkerVita/William Darity Jr.|William Darity Jr.]]** — Ökonom (Duke), Begründer der *Stratification Economics* und führender Reparations-Ökonom der USA; Diskriminierung als rationale Verteidigung von Gruppenpositionen; Vermögen statt Einkommen; *From Here to Equality* (2020) mit A. Kirsten Mullen; Baby Bonds mit Darrick Hamilton
 
 **[[DenkerVita/Wolfgang Kaleck|Wolfgang Kaleck]]** — Menschenrechtsanwalt, Gründer und Generalsekretär des ECCHR, Anwalt Edward Snowdens; transnationale Prozessführung gegen Straflosigkeit (Abu Ghraib, Argentiniens Militärs), Menschenrechte als „konkrete Utopie“, Kritik am „zweierlei Maß“ des westlichen Völkerstrafrechts
 

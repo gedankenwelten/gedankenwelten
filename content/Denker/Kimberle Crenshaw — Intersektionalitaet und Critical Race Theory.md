@@ -213,6 +213,10 @@ Das College Board opfert den Begriff „Intersektionalität", weil er „zu verz
 
 Yus neuropolitische Pointe — Dehumanisierung wirkt *unterhalb der moralischen Absicht* — spiegelt Crenshaws juristischen Kern: Strukturen diskriminieren ohne Vorsatz, und Gesetze, die nur böse Absichten suchen, kommen „only halfway if that". Beide verlassen den Shaming-Diskurs zugunsten der Ebene unter der Intention.
 
+### → [[William Darity Jr — Das oekonomische Erbe des Rassismus]]
+
+Daritys *reconstruction exhaustion* und Crenshaws *reform and retrenchment* sind derselbe Befund aus zwei Disziplinen — bei ihm ökonomisch als nachlassende Aufmerksamkeit, bei ihr juristisch als aktiv geführte zweite Schlacht um die Erinnerung. Darity gibt diesem Erinnerungskrieg das materielle Fundament: Es wird auch darum gestritten, wer für einen Vermögensstand haftet, den niemand mehr bewusst herstellt.
+
 ---
 
 ## Weiterdenken

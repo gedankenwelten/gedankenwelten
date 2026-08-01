@@ -422,6 +422,10 @@ Die philosophische Grundlage der Naturrechte — dass Flüsse und Berge als Rech
 
 Wo Wesche Natur als Rechtssubjekt statt Eigentum denkt, zeigt Good News Juni die gelebte Praxis: die Orang-Utan-Seilbrücke gegen Inzucht, die Seepferdchen-Rettung im Hafen von Sydney, die Renaturierung der Lausitzer Tagebaue. Der Mensch, der Lebensräume zurückgibt, statt sie nur zu verwerten.
 
+### → [[Sven Beckert — Kapitalismus als Weltrevolution]]
+
+Wesche liefert das juristische Getriebe zu Beckerts Kriegskapitalismus: Beckert benennt Landraub als konstitutiv, erklärt aber nicht, wie er legal wurde — Wesche zeigt, wie gemeinschaftliches Eigentum als Abwesenheit von Eigentum gelesen und das Land damit aneigenbar wurde. Beckerts Diagnose, der Neoliberalismus habe den Kapitalismus naturalisiert, ist dasselbe wie Wesches „Das war schon immer so".
+
 ---
 
 ### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]

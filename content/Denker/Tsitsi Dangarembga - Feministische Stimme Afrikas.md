@@ -286,6 +286,10 @@ Das Kerngespräch hinter dem Einspieler dieser Sendung, jetzt in voller Tiefe: S
 
 Ngũgĩs Yale-Vorlesung liefert die historischen Kategorien hinter Dangarembgas Befund: Die Siedlerkolonie (er nennt Kenia, Südafrika, Simbabwe) und die vererbte „Architektur des Geistes" grundieren ihre These der hergestellten Armut und der kolonialen Wunde in den Köpfen. Wo sie das Erzählen als Wundreinigung setzt, setzt er die Rückkehr zur eigenen Sprache.
 
+### → [[Patrick Legun — Die Ziegelsklaven von Lahore]]
+
+Armut als hergestellte Waffe, im Detail nachgerechnet: Der Tageslohn von fünf Euro in den Ziegeleien ist ein Familienlohn, weil das Soll von tausend Ziegeln fünf bis sechs Menschen braucht — Kinderarbeit ist in die Preisgestaltung eingebaut. Und die Weigerung, in Utopien zu denken, ist die präziseste Antwort auf die Freikauf-Debatte: Wohlsein im Nächstliegenden statt eines Entwurfs für alle.
+
 ---
 
 ### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]

@@ -1,7 +1,7 @@
 ---
 title: "Felwine Sarr — Gehört Afrika die Zukunft?"
 date: 02.07.2026
-aktualisiert: 2026-07-02
+aktualisiert: 2026-08-01
 description: "Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma."
 tags:
   - denker

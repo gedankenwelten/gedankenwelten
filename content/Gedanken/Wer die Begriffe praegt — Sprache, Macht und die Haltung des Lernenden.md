@@ -179,6 +179,10 @@ Der Lehrling definiert durch Abgrenzung: noch kein Geselle, noch kein Meister. D
 
 - [[Denker/Ngugi wa Thiongo — Decolonizing the American University]] — Höckes Formel in kolonialer Tiefenschärfe: „Prosperisch", die Sprache, in der Caliban sich nur noch kennt, wie der Herr ihn sieht — von Spensers Irland-Manifest über die Plantagen bis „Kill the Indian, save the man". Wer die Sprache prägt, prägt das Gedächtnis; Ngũgĩ zeigt dieselbe Machtformel als Imperium.
 
+### → [[Sven Beckert — Kapitalismus als Weltrevolution]]
+
+Der historische Beleg zu dieser Note: Beckert liest „soziale Marktwirtschaft" als Umtaufung nach verlorener Deutungsschlacht — das Wort Kapitalismus hatte durch eine wirksame Kritik einen schlechten Geschmack bekommen. Und das Begriffspaar „Arbeitgeber/Arbeitnehmer", das im Gespräch das Verhältnis exakt verkehrt, ist ein Musterfall des hier beschriebenen Einfrierens.
+
 ---
 
 ## Weiterdenken

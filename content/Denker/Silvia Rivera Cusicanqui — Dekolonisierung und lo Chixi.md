@@ -2,7 +2,7 @@
 title: "Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi"
 date: 2026-06-10
 description: "Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft."
-aktualisiert: 2026-06-10
+aktualisiert: 2026-08-01
 tags:
   - denker
   - dekolonisierung

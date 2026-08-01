@@ -227,6 +227,14 @@ Wilkersons „Rasse ist die brillante Ablenkung" und Mbembes Auflösung der Rass
 
 Crenshaw denkt dieselbe strukturelle Ungleichheit juristisch als Intersektionalität, wo Wilkerson sie als Kaste denkt: Beide zeigen, dass Diskriminierung ohne Vorsatz und unterhalb des Bewusstseins wirkt.
 
+### → [[Patrick Legun — Die Ziegelsklaven von Lahore]]
+
+Wilkersons Trennschärfe — *if you can act your way out of it, it’s class* — findet in Amba ihren Fall: Sie kennt weder Grund noch Ende ihrer Schuld und kann sich nicht herausarbeiten, weil die Rechnung ihr nicht gehört. Auch die kalendarische Klammer trägt: Die Entschädigung, die 1834 an die Halter ging, hat ihre Entsprechung in einem Gesetz von 1992, das Schulden für erloschen erklärt und die Familien trotzdem in der Ziegelei lässt.
+
+### → [[William Darity Jr — Das oekonomische Erbe des Rassismus]]
+
+Wilkerson beschreibt die Architektur, Darity führt die Buchhaltung dazu. Ihr Bild von der Leiter, auf der man dem Nächstunteren auf die Finger tritt, ist exakt seine Erklärung dafür, warum die weiße Arbeiterklasse bleibt: 15.000 Dollar Nettovermögen gegen null im untersten Quintil. Beide berufen sich auf Barbara Jeanne Fields’ Ideologiebegriff.
+
 ---
 ## Weiterdenken
 

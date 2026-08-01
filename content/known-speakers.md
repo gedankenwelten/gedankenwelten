@@ -744,6 +744,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Walther Ziegler
 **Status:** ✓ Vollanalyse → [[DenkerVita/Walther Ziegler]]
 
+## William Darity Jr.
+**Status:** ✓ Vollanalyse → [[DenkerVita/William Darity Jr.]]
+
 ## Wolfgang Kaleck
 **Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Kaleck]]
 
@@ -878,3 +881,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Andreas Reckwitz
 **Status:** ✓ Vollanalyse — [[DenkerVita/Andreas Reckwitz]]
+
+## Patrick Legun
+**Status:** ✓ Vollanalyse — [[DenkerVita/Patrick Legun]]
+
+## Sven Beckert
+**Status:** ✓ Vollanalyse — [[DenkerVita/Sven Beckert]]

@@ -213,3 +213,8 @@ Yorans Befund „die Interessen von Hersteller und Kunde sind nicht aligned“ i
 ### → [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]]
 
 Produktive Spannung: Gabriel begründet Profit als Folge des moralisch Richtigen, Bendsen dreht die Achse bewusst weg vom Moralischen — Zirkularität „weder moralisch noch ideologisch, sondern finanziell nachvollziehbar“ verkaufen. Ob die Moral nicht doch im Excel steckt, ist der Reibungspunkt.
+
+### → [[Sven Beckert — Kapitalismus als Weltrevolution]]
+
+Zwei unvereinbare Definitionen desselben Gegenstands. Gabriel zählt die Vertragsfreiheit zu den Bedingungen des Kapitalismus und schreibt ihr die Abschaffung der Sklaverei zu; Beckert definiert ihn über die Kommodifizierung von Arbeitskraft, weshalb die Sklavenplantage bei ihm eine Betriebsform innerhalb der Ordnung ist. Wer Gabriel folgt, kann ethisch reformieren; wer Beckert folgt, muss erklären, warum dieselbe Ordnung 164 Jahre ohne Freiwilligkeit auskam.
+

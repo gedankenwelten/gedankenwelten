@@ -263,6 +263,10 @@ Matteis Kernthese: Austerität ist kein Politikfehler, sondern struktureller Mec
 ### → [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt]]
 Mau beschreibt die *demobilisierte Klassengesellschaft*: Klasse strukturiert Lebenschancen, führt aber nicht mehr zu Mobilisierung. Das ist exakt Dörres Befund auf Gewerkschaftsebene — der VW-Kompromiss als Symptom einer demobilisierten Klasse, die nicht mehr kämpft, auch wenn sie könnte.
 
+### → [[Sven Beckert — Kapitalismus als Weltrevolution]]
+
+Dörres „Landnahme" ist Beckerts Kriegskapitalismus in die Gegenwart verlängert — dieselbe Aneignung des noch nicht Kommodifizierten, heute gerichtet auf Natur, Zeit und Zukunft. Und Dörre buchstabiert den Einwand aus, der bei Beckert nur als Stichwort vorkommt: dass formale Demokratie ohne Wirtschaftsdemokratie keine sei, weil das Kapital der Souverän bleibt.
+
 ---
 
 - [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust]] — A/Ns These des demokratischen Faschismus ist das emotionale Pendant zu Dörres struktureller Beobachtung, dass Faschismus in liberalen Demokratien von innen wächst. Dörres Outlaw-Stolz und A/Ns Zerstörungslust beschreiben denselben affektiven Boden — aus Klassen- vs. Gefühlsstruktur-Perspektive.
