@@ -203,7 +203,7 @@ Dieselbe Mechanik, zwei Kontinente: Brockschmidt und Nocun sezieren die Dog Whis
 
 Nocun kartiert die Esoterik-Bubble als unterschätzte Radikalisierungs-Pipeline — Inhalt klingt nach Spiritualität, denkt aber in Überlegenheit und Feindbildern. Das ist Heims' „großer okkulter Mixer" in seiner heutigen, KI-getriebenen Form: dieselbe Camouflage, dieselbe algorithmische Hochglanz-Produktion der Agartha-Edits (CapCut, Hyperpop). Zusammen benennen beide die Anschlussstelle, an der Esoterik, Popkultur und Rechtsextremismus verschmelzen.
 
-### → [[Zeitgeist/Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]]
+### → [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]]
 
 Ein produktiver Kontrast: Loosh ist die *geschlossene Sinnwelt*, in der man wirklich glaubt und sich gegen jeden Widerspruch immunisiert. Agartha dreht genau das um — hier will „wirklich niemand überzeugen", der Glaube fehlt, geblieben ist nur die Zugehörigkeit. Nebeneinander zeigen sie die zwei Aggregatzustände derselben Milieu-Familie (Esoterik × Rechts × Apokalyptik): einmal als Überzeugungsgemeinschaft, einmal als Codeschule. Beide teilen dasselbe Inventar — geheimes Wissen, Reinheitsfantasien, Hohle Erde —, aber der Kitt ist ein anderer.
 

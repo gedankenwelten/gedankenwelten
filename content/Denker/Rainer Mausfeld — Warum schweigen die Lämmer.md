@@ -255,7 +255,7 @@ Mausfelds Thesen wurden von sehr unterschiedlichen Lagern vereinnahmt — darunt
 - [[Konstantin Flemig — Sudan Massaker el Fashir und die VAE]] — El Fashir als konkreter Beweis: Warum schweigt die Weltgemeinschaft beim Völkermord? Weil wirtschaftliche Beziehungen zu Täter-Sponsoren nie hinterfragt werden
 - [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]] — Citizens United als der Moment, in dem oligarchische Einflussnahme legalisiert wurde. Mausfelds Meinungskorridor in der Praxis
 - [[Ernst Gelegs — Ist das Regime Orbán am Ende]] — Mausfelds „schweigendes Lamm" unter illiberalen Bedingungen: kein Bewusstsein für den Käfig, weil der Käfig Normalzustand ist
-- [[Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]] — Kosmische Variante der Angst-als-Steuerungsinstrument-These; Mastermind-Narrativ lenkt von realen Machtstrukturen ab
+- [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]] — Kosmische Variante der Angst-als-Steuerungsinstrument-These; Mastermind-Narrativ lenkt von realen Machtstrukturen ab
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Zupančičs Verleugnen als philosophische Mikro-Analyse von Mausfelds demokratischer Selbsttäuschung
 - [[Walther Ziegler — Adorno in 60 Minuten]] — Adornos Kulturindustrie und Verblendungszusammenhang liefern das theoretische Fundament; Mausfeld zeigt die Perfektionierung
 - [[Walther Ziegler — Platon in 60 Minuten]] — Platons Höhlengleichnis als älteste Beschreibung der Manipulationsthese: Die Gefangenen verteidigen die Schatten gegen die Befreiten

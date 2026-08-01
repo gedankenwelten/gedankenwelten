@@ -3140,18 +3140,22 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 
 ## Verschwörungstheorien / KI-Content
 
-### Loosh & Solar-Flash — Die 666-Matrix
+### Loosh & Solar-Flash — die datierte Prophezeiung (Spur)
 
 | | |
 |---|---|
 | **Ursprungsvideo** | [Der Solar-Flash und das Erwachen der schlafenden Götter — Ouroboros](https://www.youtube.com/watch?v=0skaq7E8jcE) |
 | **Tag danach (27.06.)** | [Der 26.06.2026 — Der Anfang vom Ende — Ouroboros](https://www.youtube.com/watch?v=xc1CnMVD5o4) |
 | **Vorabend (25.06.)** | [Es ist soweit … was passiert wirklich? — Ouroboros](https://www.youtube.com/watch?v=EeKNK-cu9Wk) |
+| **Blog des Urhebers** | [ouroboros803643273.blog](https://ouroboros803643273.blog/) — [„Kein Instant-Knall …" (26.05.2026)](https://ouroboros803643273.blog/2026/05/26/der-26-06-2026-kein-instant-knall-sondern-der-systemstart-des-solar-flash-prozesses/) · [„Die Praxis des neutralen Beobachters" (30.07.2026)](https://ouroboros803643273.blog/2026/07/30/die-praxis-des-neutralen-beobachters/) |
 | **Urheber „V-Logik"** | Sascha Zimmermann / „DJ Trapstar" — [Instagram](https://www.instagram.com/djtrapstar_official) · Buch „Das Universum Herz" (Amazon) |
 | **Netz** | [pat_atlas_ — „Der schwarze Codex"](https://www.instagram.com/pat_atlas_) · [weltverstehen.org](https://www.weltverstehen.org/der-solar-flash-und-die-lazarus-physik/) |
-| **Recherche-Quellen** | Felsenecht (YouTube `J9CjwhatfMU`) · OnkelRyo (`wmoXtvo-0u0`) |
-| **Notiz** | [[Zeitgeist/Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]] |
-| **Transkripte** | `Loosh_Seelenernte_Transkript.txt` · `Loosh_Ouroboros_Tag-danach_27.06.2026_Transkript.txt` · `Loosh_Ouroboros_Vorabend_25.06.2026_Transkript.txt` (in `Gedankenwelten/Transkripte/`) |
+| **Recherche-Quellen** | Felsenecht ([Teil 1](https://www.youtube.com/watch?v=J9CjwhatfMU) · [Teil 2](https://www.youtube.com/watch?v=GEzZV0800iM)) · OnkelRyo ([Reaktion](https://www.youtube.com/watch?v=wmoXtvo-0u0)) |
+| **Rückblick-Gespräch (31.07.2026)** | [26.06.2026 vorbei… Was bleibt vom Solar Flash? — Felsenecht × OnkelRyo](https://www.youtube.com/watch?v=_JsTJIdHgVE) |
+| **Szene-interne Skepsis** | [Wizard-Forum — Thread 26.06.2026 Solarflash](https://wizardforums.com/threads/26-06-2026-solarflash.21566/) |
+| **Weltraumwetter** | [NASA — X1.1-Flare 30.06.2026](https://science.nasa.gov/blogs/solar-cycle-25/2026/06/30/sun-releases-strong-flare-11/) · [SpaceWeatherLive — Top-50-Flares 2026](https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares/year/2026.html) |
+| **Notiz** | [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]] |
+| **Transkripte** | `Loosh_Seelenernte_Transkript.txt` · `Loosh_Ouroboros_Tag-danach_27.06.2026_Transkript.txt` · `Loosh_Ouroboros_Vorabend_25.06.2026_Transkript.txt` · `Felsenecht_Solar_Flash_Rueckblick_Transkript.txt` (in `Gedankenwelten/Transkripte/`) |
 
 ---
 

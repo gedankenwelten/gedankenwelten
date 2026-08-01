@@ -327,7 +327,6 @@ Jede Note folgt einer eigenen Struktur:
 
 ### KI & Technologie
 
-- [[Zeitgeist/Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter|Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]] — Eine datierte Apokalypse verstreicht — und eine KI-geborene Prophezeiung macht ihr eigenes Ausbleiben zum Beweis. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 - [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]]
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder|re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?]] — Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen.
 

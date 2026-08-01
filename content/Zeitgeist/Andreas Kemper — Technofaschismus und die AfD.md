@@ -216,7 +216,7 @@ Tooze zeigt den Technofaschismus aus wirtschaftspolitischer Perspektive in Aktio
 
 ---
 
-### → [[Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]]
+### → [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]]
 
 Transhumanismus als Versklavungsnarrativ (Graphenoxid, Smart Cities, KI-Überwachung) in der Loosh-Note trifft Kempers Analyse von Technologie als totalem Kontrollmittel. Die Stoßrichtungen sind entgegengesetzt — Kemper analytisch, die Loosh-Note paranoid-mythologisch — aber die Diagnose desselben Phänomens (Technologie als Machtinstrument) macht die Gegenüberstellung erhellend.
 

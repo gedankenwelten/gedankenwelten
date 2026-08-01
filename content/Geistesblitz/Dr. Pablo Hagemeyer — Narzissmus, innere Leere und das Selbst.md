@@ -410,7 +410,7 @@ Rosa beschreibt Resonanz als echte Verbindung — als ein Berührt-werden von de
 ### → [[KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika]]
 Trumps systematisches Verschieben von Verantwortung auf Demokraten, Hegseth, oder "schlechte Berater" ist ein klassisches narzisstisches Abwehrmuster: keine Fehlerübernahme, stattdessen Externalisierung. Koshis Fallstudie illustriert Hagemeyers Diagnose im politischen Kontext.
 
-### → [[Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]]
+### → [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]]
 
 Das kosmische Erwähltheitsgefühl der „schlafenden Götter" bedient narzisstische Kompensationsbedürfnisse. Isolation und innere Leere sind die Einstiegsbedingungen — das Loosh-Narrativ bietet in einem Schritt: vollständige Welterklärung, Feindbilder, kosmische Mission und Sonderstatus als „Erwachter".
 
