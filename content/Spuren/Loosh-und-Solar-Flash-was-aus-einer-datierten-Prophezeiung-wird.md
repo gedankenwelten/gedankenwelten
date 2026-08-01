@@ -28,6 +28,18 @@ aliases:
 
 # Loosh & Solar-Flash — was aus einer datierten Prophezeiung wird
 
+![[assets/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ein gewöhnlicher Abendhimmel** — gedecktes Blau über Ocker, eine dünne Mondsichel, verstreute Sterne, kein Ereignis. Der erste Befund der Spur als Bild: In der Nacht, für die das Ende der Welt angekündigt war, war der Himmel leerer als an einem Durchschnittstag. Keine esoterische Bejahung, kein Spott — nur ein Abend, der kam und ging.
+
+*Prompt:* A long horizontal painting of a crowd of small people standing on a dark plain at dusk, all of them faceless silhouettes with their heads tilted back, looking up at the sky. On the left the crowd is dense and packed shoulder to shoulder; toward the right the crowd thins out until only three lone figures are left standing apart. The sky above them is enormous, pale and completely empty — a huge expanse of soft ochre and grey holding one thin black outlined circle, hollow, giving no light at all. Far in the upper right, one tiny orange spark of light that none of them is facing. Flat matte gouache, dry brush lines, muted ochre, dusty rose and grey-blue, melancholic, in the manner of Ben Shahn. No realistic faces, no photorealism.
+
+*Zur Entstehung:* Angestrebt war eine Ben-Shahn-Komposition — eine Menge, die nach rechts hin ausdünnt, darüber ein hohler Kreis ohne Licht, am Rand ein Funke, den niemand ansieht. FLUX war an diesem Tag nicht erreichbar; Recraft setzt Figuren und Himmel nicht zusammen und hat aus demselben Prompt diesen Abendhimmel gemacht. Bei Gelegenheit neu.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein KI-generiertes YouTube-Video kündigte für den **26. Juni 2026** einen „Solar-Flash" an: 72 Stunden
 > Ionisation, dreitägige Finsternis, das Ende der Matrix. Apokalypsen tragen selten ein Datum, das man im
