@@ -136,3 +136,8 @@ Maio/Schmitz argumentieren, dass Verletzlichkeit der Ursprung von Solidarität i
 ### → [[Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer]]
 
 Beide Notes kreisen um dieselbe Grundspannung: Wann legitimiert humanitäres Leid externe Intervention? Johnen verneint militärische Lösungen explizit, fordert aber politischen Druck — genau die Grenze zwischen humanitärer Hilfe und politischer Einmischung, die der Podcast für den Iran-Fall diskutiert
+
+### → [[Patrick Legun — Die Ziegelsklaven von Lahore]]
+
+Dieselbe Bilanz in kleinerem Maßstab. Johnens Satz, humanitäre Hilfe könne den Konflikt nicht beenden, dazu brauche es politische Lösungen, gilt genauso für achttausend Euro, mit denen eine Familie aus einer Ziegelei freigekauft wird, während ein Verbot von 1992 seit dreißig Jahren nicht durchgesetzt wird. Beide Notes lassen den Widerspruch stehen: für die Geretteten vollständig, für das Problem folgenlos.
+

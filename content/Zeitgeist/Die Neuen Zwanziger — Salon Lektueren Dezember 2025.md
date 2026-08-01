@@ -195,3 +195,7 @@ Markovits' Yale-Studenten, die alle bereit wären, 15 Stunden pro Woche für ein
 
 Stefan nutzt im Salon explizit den Luhmann-Begriff der *Autopoiesis*, um die Income Defense Industry zu erklären [▶ 118:39]: operative Schließung, Selbstreproduktion, Immunisierung gegen Störungen. Markovits' System ist ein Luhmann'sches System — es folgt seiner eigenen Logik, unabhängig von den Absichten der Beteiligten.
 
+### → [[William Darity Jr — Das oekonomische Erbe des Rassismus]]
+
+Markovits’ Meritokratie-Falle und Daritys Regenschirm-Bild sagen dasselbe über Bildung, von entgegengesetzten Enden: Markovits zeigt die Drehung vom Aufstiegsmechanismus zur Kastenreproduktion, Darity zeigt, dass sie am unteren Ende nie Aufstieg war. Sein entlassener Manager, der bei 300 gleichzeitigen Kündigungen an sein persönliches Versagen glaubt, ist die Falle nach innen gewendet.
+

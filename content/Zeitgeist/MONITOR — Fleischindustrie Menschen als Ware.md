@@ -1,6 +1,6 @@
 ---
 title: "MONITOR — Wie die Fleischindustrie Menschen zur Ware macht"
-aktualisiert: 2026-05-05
+aktualisiert: 2026-08-01
 date: 2026-04-20
 tags:
   - zeitgeist
@@ -150,3 +150,8 @@ Linartas analysiert „unverdiente Ungleichheit" am Beispiel deutscher Sozialpol
 ### → [[Markus Gabriel — Ethischer Kapitalismus]]
 
 Gabriel fragt, ob Kapitalismus ethisch sein kann. Die Fleischindustrie liefert die Gegenprobe: In einem System, das über den Preis konkurriert und keine wirksame Regulierung hat, gewinnt der skrupelloseste Anbieter. Ethik wird zum Wettbewerbsnachteil — solange der Verbraucher im Supermarkt zum billigsten Fleisch greift.
+
+### → [[Patrick Legun — Die Ziegelsklaven von Lahore]]
+
+Derselbe Mechanismus in einer anderen Rechtsordnung. Was hier die legale Vermittlungsgebühr leistet, leistet in pakistanischen Ziegeleien die *peshgi* — ein Kredit, dessen Sicherheit der Schuldner selbst ist. Pakistan hat das Verbot seit 1992 und keine Durchsetzung, Deutschland hat die Durchsetzung und keine Lücke im Gesetz. Das Paar zeigt, dass Schuldknechtschaft kein Zustand armer Länder beschreibt, sondern eine Vertragsform, die entsteht, wo jemand ohne Alternative unterschreibt.
+

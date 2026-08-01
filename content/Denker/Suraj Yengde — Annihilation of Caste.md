@@ -221,6 +221,14 @@ Akala erzählt dieselbe Selbstbefreiung durch Bildung von der Black-British-Seit
 
 Wilkerson zitiert Yengde in ihrer Ambedkar-Lecture als Gegenwartsstimme — ihr vergleichender Außenblick (Kaste als Struktur dreier Gesellschaften) und Yengdes gelebte Innenperspektive ergänzen sich zu genau dem transozeanischen Gespräch, das Ambedkar 1946 mit Du Bois begann.
 
+### → [[Patrick Legun — Die Ziegelsklaven von Lahore]]
+
+Der empirische Härtetest für Ambedkars Satz, Kaste sei ein Geisteszustand und kein Stacheldraht. Neun von zehn pakistanischen Christen stammen von Chuhra-Dalits ab, deren Konversion zwischen 1870 und 1930 genau den Ausweg suchte, den Ambedkar später selbst wählte. Ein Jahrhundert danach, in einem Staat ohne Kastenrecht, sortiert die Ordnung dieselben Menschen an dasselbe Ende.
+
+### → [[William Darity Jr — Das oekonomische Erbe des Rassismus]]
+
+Ein produktiver Widerspruch. Yengde und Ambedkar bestehen darauf, dass die Zerstörung der Kaste im Bewusstsein beginnt. Darity rechnet für den US-Fall das Gegenteil vor: Die Vermögenslücke braucht keinen Glauben mehr, um weiterzubestehen, und kein Bewusstseinswandel schließt sie — nur ein Vermögenstransfer. Die offene Frage lautet, ob Hierarchien primär über Überzeugung oder über Substanz weitergegeben werden.
+
 ---
 
 ## Weiterdenken

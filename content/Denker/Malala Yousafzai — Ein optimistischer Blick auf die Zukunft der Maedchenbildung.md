@@ -176,6 +176,10 @@ Zwei Stimmen, die sich am Verhandlungstisch kreuzen: Merkel — die „oft als e
 
 Die leiseste, aber tragfähige Brücke. Malalas hellste analytische Passage — der Rückschritt entsteht nicht durch einen bösen Beschluss, sondern durch die unscheinbare Umschichtung knapper Mittel, eine gestrichene Budgetzeile — teilt Butterwegges Grundgeste: Not ist kein Naturzustand, sondern hergestellt, ein politisches Produkt. Wo Malala früh Heirat, Kinderarbeit und Schulausschluss als verkettete Schwellen zeigt, entnaturalisiert Butterwegge Armut binnendeutsch. Beide argumentieren mit Mechanismus statt Moral.
 
+### → [[Patrick Legun — Die Ziegelsklaven von Lahore]]
+
+Zwei Notes aus demselben Land, die an einem Scharnier ineinandergreifen: dem Vertrag, den man nicht lesen kann. Die ganze Konstruktion der Schuldknechtschaft in den pakistanischen Ziegeleien hängt am Analphabetismus — und Amba, die dort tausend Ziegel am Tag formt, antwortet auf die Frage, was sie täte, wenn sie frei wäre, wortwörtlich mit Malalas Anliegen: ihre Kinder unterrichten lassen. Der Bruch zählt genauso: Manche Familien reagieren im Moment ihrer Befreiung gar nicht, weil sie dafür keine Reaktion vorrätig haben.
+
 ---
 
 ## Weiterdenken

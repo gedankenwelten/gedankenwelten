@@ -24,6 +24,12 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **01.08.** — [[Zeitgeist/Patrick Legun — Die Ziegelsklaven von Lahore|Patrick Legun — Die Ziegelsklaven von Lahore]]
+>
+> Ein Kredit für ein krankes Kind, ein Vertrag, den niemand lesen kann — und eine Familie, die drei Generationen später noch Ziegel formt, um Zinsen abzutragen.
+
+> **01.08.** — [[Zeitgeist/MONITOR — Fleischindustrie Menschen als Ware|MONITOR — Wie die Fleischindustrie Menschen zur Ware macht]]
+
 > **27.07.** — [[Zeitgeist/Torsten Heinrich — Ukraine bewusst geopfert|Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?]]
 
 > **27.07.** — [[Zeitgeist/WDR Europaforum — Frieden schaffen mit immer mehr Waffen|Frieden schaffen mit immer mehr Waffen?]]
@@ -34,31 +40,31 @@ Die Gedankenwelten (luc)
 >
 > Ein stiller Krieg ohne Panzer — Sabotage, Gift und Desinformation ziehen durch vier EU-Länder. Wo endet der Befund, wo beginnt die Erzählung, die selbst mit Angst arbeitet?
 
-> **26.07.** — [[Zeitgeist/Tilo Wesche - Rechte der Natur Eigentum Kolonialismus|Tilo Wesche — Rechte der Natur, Eigentum & Kolonialismus]]
-
-> **26.07.** — [[Zeitgeist/Nicolaus und Winistoerfer — Warum wir die Welt vermessen|Madlen Nicolaus und Martin Winistörfer — Warum wir die Welt vermessen]]
->
-> Ein Messtechnik-Konzern erklärt auf einer Digitalkonferenz, dass wir die Welt vermessen müssen, um sie zu retten. Der Satz stimmt und ist zugleich das Problem — denn was gemessen wird, hat immer jemand ausgewählt.
-
-> → *8 weitere in* [[Zeitgeist]]
+> → *4 weitere in* [[Zeitgeist]]
 
 ### Denker
+
+> **01.08.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+>
+> Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
+
+> **01.08.** — [[Denker/Sven Beckert — Kapitalismus als Weltrevolution|Sven Beckert — Kapitalismus als Weltrevolution]]
+>
+> Die Sklaverei ist nicht die Vorgeschichte des Kapitalismus, sondern eine seiner reinsten Formen — und Barbados 1670 war eine kapitalistische Gesellschaft, bevor es eine Fabrik gab.
+
+> **01.08.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+>
+> Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
+
+> **01.08.** — [[Denker/William Darity Jr — Das oekonomische Erbe des Rassismus|William Darity Jr. — Das ökonomische Erbe des Rassismus]]
+>
+> Wer die Schuld beim Benachteiligten sucht, muss die Ursache nicht mehr suchen — und ein Regenschirm, sagt Darity, macht noch keinen Regen.
 
 > **27.07.** — [[Denker/Herfried Münkler — Europas Platz in der neuen Weltordnung|Herfried Münkler — Europas Platz in der neuen Weltordnung]]
 >
 > Die Unterscheidung zwischen Krieg und Frieden ist keine Beschreibung der Welt mehr, sondern eine Gewohnheit — und Münkler erklärt kühl, was das für einen Kontinent heißt, der sich auf sie verlassen hat.
 
-> **27.07.** — [[Denker/Jok Madut Jok — Elitenpakt ist kein Frieden|Jok Madut Jok — Ein Elitenpakt ist kein Frieden]]
->
-> Der jüngste Staat der Erde, fünfzehn Jahre alt und wieder im Krieg — ein Anthropologe erklärt von innen, warum ein Abkommen die Waffen verstummen lassen kann, ohne je Frieden zu schaffen.
-
-> **26.07.** — [[Denker/Souleymane Bachir Diagne — Der Philosoph als Uebersetzer|Souleymane Bachir Diagne — Der Philosoph als Übersetzer]]
->
-> Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
-
-> **25.07.** — [[Denker/Andreas Reckwitz — Fortschritt NEU DENKEN|Andreas Reckwitz — Fortschritt NEU DENKEN]]
->
-> Die Moderne glaubt, es werde besser — und hat darum keine Sprache für das, was verloren geht. Reckwitz sucht einen Fortschritt, der den Verlust mitdenkt.
+> → *3 weitere in* [[Denker]]
 
 ### Spuren
 

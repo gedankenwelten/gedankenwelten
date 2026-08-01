@@ -270,3 +270,7 @@ Mattei zeigt, dass Liberalismus und Faschismus historisch die kapitalistische Ei
 
 Matteis historischer Befund operationalisiert Browns Theorie: Was Brown als "stealth revolution" — die Aushöhlung der Demokratie durch Marktlogik — beschreibt, zeigt Mattei historisch als Austeritätspolitik in Aktion: Wirtschaftspolitik als gezielte Disziplinierungstechnik, die demokratische Kontrolle des Kapitals systematisch schwächt.
 
+### → [[Sven Beckert — Kapitalismus als Weltrevolution]]
+
+Der schärfste Widerspruch im Bestand. Beckert verteidigt den Arbeitsvertrag als Errungenschaft gegenüber dem körperlichen Zwang; Matteis Archivarbeit zeigt, dass genau diese Vertragsordnung nach 1919 mit Streikverboten und Zinsschocks wiederhergestellt werden musste. Und beide erzählen die Zwischenkriegszeit gegensätzlich: Für Beckert war 1941 offen, welche Vision gewinnt — Mattei zeigt liberale Ökonomen, die Mussolinis Programm bejubelten.
+

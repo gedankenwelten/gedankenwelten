@@ -220,3 +220,8 @@ Yorans Pointe „die moralische Last liegt bei denen mit der geringsten Marktmac
 ### → [[Isabel Wilkerson — Race Caste and Social Justice]]
 
 Wilkersons Kaste und Linartas' Erbengesellschaft sind Zwillinge: vererbte, unverdiente Rangordnung — einmal als soziale Grammatik, einmal als Vermögensbilanz. Ihre Leiter-Bilder decken sich fast wörtlich; zusammen beantworten sie, warum Aufstieg strukturell scheitert und wer am alten Haus verdient.
+
+### → [[William Darity Jr — Das oekonomische Erbe des Rassismus]]
+
+Der transatlantische Zwilling. Dieselbe methodische Weichenstellung — Vermögen als Bestandsgröße statt Einkommen als Flussgröße —, und das Grunderbe ist der europäische Bruder von Daritys und Hamiltons Baby Bonds. Der Unterschied liegt in der Anfangsbedingung: Die Erbengesellschaft hat Klassenlagen als Ausgangswerte, Darity hat eine Gruppe, deren Ausgangswert per Gesetz null war, während die Halter entschädigt wurden.
+
