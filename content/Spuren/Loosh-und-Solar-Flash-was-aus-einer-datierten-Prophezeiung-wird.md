@@ -555,8 +555,9 @@ Zugehörigkeit anbietet.
 > - **Der schärfste Punkt:** Ich zähle Views eines Kanals, dem Menschen glauben, und nenne den Rückgang
 >   ein Ergebnis. Für die rund 750, die geblieben sind, ist das kein Datenpunkt. Diese Spur wird von einem
 >   Menschen mitgelesen, der daran glaubt.
-> - **Konfidenz:** 70 % für die neue These (mein Vorschlag) — die Publikationsliste ist ein harter,
->   selbst nachprüfbarer Beleg, ein Monat ist eine kurze Zeit. → *deine Entscheidung.*
+> - **Konfidenz: 70 % — bestätigt am 01.08.2026.** Die Publikationsliste ist ein harter, selbst
+>   nachprüfbarer Beleg; ein Monat ist eine kurze Beobachtungszeit. Der nächste Sweep entscheidet, ob die
+>   Zahl steigt oder fällt.
 
 > [!question] Wo krallt der Beobachter? (Anlage)
 > - **Verlangen:** Recht zu behalten wäre hier billig — die Prophezeiung ist widerlegt, bevor die Spur
