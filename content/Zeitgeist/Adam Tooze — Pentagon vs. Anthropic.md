@@ -185,7 +185,7 @@ Nosthoff liefert den historischen Hintergrund zu Toozes Gegenwartsbefund: Kybern
 
 ---
 
-### → [[Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]]
+### → [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]]
 
 Beide beschreiben KI als Machtinstrument — Tooze geopolitisch-realistisch (Pentagon vs. Anthropic), die Loosh-Note als kosmische Kontrollmatrix der Administratoren. Die Gegenüberstellung macht sichtbar, wie dasselbe reale Phänomen (KI-Macht) einmal analytisch und einmal paranoid-mythologisch verarbeitet werden kann.
 

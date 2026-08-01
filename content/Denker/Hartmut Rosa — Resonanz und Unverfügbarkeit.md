@@ -219,7 +219,7 @@ Arendt verbindet Rosa direkt: Rosa erwähnt explizit Arendts Begriff der **Natal
 
 ---
 
-### → [[Loosh & Solar-Flash — Die 666-Matrix und das Erwachen der schlafenden Götter]]
+### → [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]]
 
 Das Loosh-Narrativ adressiert echte Resonanzsehnsucht (Verbindung, Bedeutung, Transzendenz) und bietet eine paranoid überformte Antwort darauf. Wer keine Resonanz mehr findet, wird anfällig für geschlossene Sinnsysteme, die Resonanz simulieren — durch kollektive Erwählung, kosmische Mission, Feindbilder.
 
