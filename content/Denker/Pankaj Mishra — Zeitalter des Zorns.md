@@ -239,6 +239,10 @@ Mishras Ausgangspunkt — die gespaltene Familie, „democracy has produced a mo
 
 ---
 
+### → [[Duezen Tekkal — Deutschland ist bedroht]]
+
+Dieselbe Einheit der Phänomene, andere Wurzel. Tekkal führt Islamismus und Rechtsradikalismus auf Demokratiefeindschaft zurück, Mishra auf das Ressentiment der Moderne. Damit stützt er ihren stärksten Satz — Deutschland habe den Terror exportiert, nicht importiert — und untergräbt ihren bekanntesten: Wenn beides dieselbe moderne Kränkung ist, dann handelt es sich nicht um Zwillinge: es ist dasselbe Kind.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

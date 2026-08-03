@@ -206,3 +206,8 @@ D/Z liefern den theoretischen Rahmen für das, was Topfvollgold konkret dokument
 
 ### → [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
 Die Innenseite des Kreislaufs: Diese Note zeigt, wie erfundene Geschichten Hass produzieren — Schönauers ÖRR-Insider-Recherche zeigt, wo dieser Hass ankommt. Redakteure berichten von der „Angst vor dem Hass" und dem „kurzen Zusammenzucken bei der Themenverteilung": Die Hetzmaschine wirkt nicht nur aufs Publikum, sondern erzeugt die Schere im Kopf im Inneren des Journalismus, den sie angreift.
+
+### → [[GfbV — Jesidische Familien in der Diaspora]]
+
+Zwei Sterbeweisen desselben Staatsversprechens. Hier werden Aufnahmezusagen an gefährdete Afghaninnen widerrufen, aus Angst vor der nächsten Schlagzeile; dort scheitert die versprochene Nachholung der Ehemänner jesidischer Frauen an Ressortstreit und einem zurückgezogenen Fraktionsvotum. Die eine Zusage stirbt an Öffentlichkeit, die andere an Zuständigkeit — beide treffen Menschen, deren Schutzbedürftigkeit der Staat selbst amtlich festgestellt hat.
+

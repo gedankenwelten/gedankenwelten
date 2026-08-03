@@ -259,3 +259,7 @@ Die Frage dieser Note — muss es Kriege geben? — trifft auf dem re:publica-Po
 
 Die Fortschreibung, und im Ton verändert. Dort fragt Münkler, *was jetzt zu tun ist*, und antwortet mit einer Liste statt mit einer Anthropologie. Dieselbe Clausewitz-Figur wandert vom Erklärungsmittel zum Werkzeug, die postheroische Gesellschaft von der Diagnose zur Forderung („Es gibt eine Produktivität von Feindschaft“) — und der Westen, hier noch Rahmen, ist dort verschwunden: „Diesen Westen gibt es nicht mehr.“
 
+### → [[Jihan Alomar — Gefangen vom Islamischen Staat]]
+
+Erklärung trifft Zeugnis. Die strukturelle Ableitung des Frauenraubs — Frauen als knappes Gut, Krieg als Lizenz zum Zugriff, die Linie von der Ilias bis zur Ukraine — bekommt dort ihre Grenze. Jihan Alomar gibt die Sätze der Täter im Futur wieder: „Ihr werdet uns heiraten, mit uns Kinder bekommen." Das war kein Kriegsbegleitumstand alter Herkunft, sondern das erklärte Programm einer Auslöschung, das die nächste Generation zum Ziel hatte.
+

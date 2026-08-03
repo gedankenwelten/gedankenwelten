@@ -213,6 +213,10 @@ Soroushs Theorie ist die Anklageschrift gegen genau das Regime, das diese Spur l
 
 ---
 
+### → [[Duezen Tekkal — Deutschland ist bedroht]]
+
+Häresie entsteht dort, wo Macht eine Deutung erzwingt — das erklärt, warum die Jesiden zu Abgefallenen und Teufelsanbetern erklärt werden konnten: weil der IS die Deutungsmacht hatte, nicht wegen ihrer Theologie. Und hier reibt es: Diese Note verwirft die Religion, die Identität statt Moral ist. Tekkals Jesidentum ist die reinste Form davon — nur durch Geburt betretbar — und sie begründet die Strenge selbst mit der Verfolgungsgeschichte. Ist eine Identitätsreligion aus Notwehr eine andere als eine aus Machtanspruch?
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

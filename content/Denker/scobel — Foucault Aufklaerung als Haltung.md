@@ -200,3 +200,8 @@ Und:
 ### → [[Denker/Soroush und Heck — Politische Tradition des Islam]]
 
 Foucaults Macht-Wissen-Kopplung in religionsphilosophischer Übersetzung: Soroushs These, Häresie entstehe erst, wo eine Deutung sich mit politischer Macht verheiratet, und Hecks Kritik am westlichen „Kontrollwissen" über den Islam sind beide zutiefst foucaultianisch — Wissen, das definieren will statt sich zu beziehen, ist eine Machtform.
+
+### → [[Duezen Tekkal — Deutschland ist bedroht]]
+
+Aufklärung als Haltung statt als Epoche — Tekkal macht dieselbe Bewegung mit der Integration und kann darum die Menge von Clausnitz „nicht integriert" nennen. Dazu die dunkle Ergänzung: Ihr Gegner ist der Rezipient, der sich für den Vollstrecker des Göttlichen hält — selbstverschuldete Unmündigkeit in ihrer tödlichen Form. Und Tausi Melek, der Engel, der Gott widersprach, ist bei ihr das *sapere aude* als Gründungsmythos.
+

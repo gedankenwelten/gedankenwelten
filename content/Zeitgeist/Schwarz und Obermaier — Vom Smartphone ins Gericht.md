@@ -208,6 +208,10 @@ Beide Notes weigern sich, Zivilisten pauschal in Kombattanten aufzulösen: Schwa
 
 ---
 
+### → [[GfbV — Jesidische Familien in der Diaspora]]
+
+Dieselbe Lücke zwischen Feststellung und Verfolgung. Für die Jesiden war Strafverfolgung eine der drei Hoffnungen, die an der Anerkennung des Völkermords hingen — samt der Sprachkorrektur, es seien keine IS-Bräute, sondern IS-Täterinnen. Dass das UN-Ermittlungsteam UNITAD 2024 auf Wunsch der irakischen Regierung schließen musste, ist die Fortsetzung: Ein Verbrechen zu benennen und es zu verfolgen sind zwei getrennte Akte, und der zweite kostet politischen Willen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

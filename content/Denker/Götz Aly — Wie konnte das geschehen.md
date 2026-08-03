@@ -285,6 +285,10 @@ Fromms Urfrage angesichts des Ersten Weltkriegs — „Wie ist das möglich?" �
 
 ---
 
+### → [[Duezen Tekkal — Deutschland ist bedroht]]
+
+Dieselbe Struktur in zwei Völkermorden. Alys Prinzip der Verstrickung erklärt, was Tekkal als das Unerträglichste des Sindschar benennt: dass die Nachbarn zu Verrätern wurden und die Liste aus der Nachbarschaft kam. Beide widerstehen der bequemen Deutung — Aly weigert sich, die Täter zu Monstern zu machen, Tekkal weigert sich, den Holocaust einzuebnen, und nennt ihn ausdrücklich singulär. Vergleichbar ist der Weg dorthin, nicht das Verbrechen.
+
 ## Eine eigene Reflexion
 
 Alys Vortrag endet nicht mit Beruhigung. Er zeigt, dass die Deutschen von 1933–45 keine andere Species waren. Dieselben Mechanismen — materielle Interessenbindung, Angst vor Konsequenzen, kollektive Verstrickung, die Logik des Kein-Weg-Zurück — sind keine historische Ausnahme.

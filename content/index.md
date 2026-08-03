@@ -24,25 +24,35 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
-> **01.08.** — [[Zeitgeist/Patrick Legun — Die Ziegelsklaven von Lahore|Patrick Legun — Die Ziegelsklaven von Lahore]]
+> **03.08.** — [[Zeitgeist/Jens-Christian Wagner — Buchenwald und deutsche Erinnerung|Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
 >
-> Ein Kredit für ein krankes Kind, ein Vertrag, den niemand lesen kann — und eine Familie, die drei Generationen später noch Ziegel formt, um Zinsen abzutragen.
+> Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist.
 
-> **01.08.** — [[Zeitgeist/MONITOR — Fleischindustrie Menschen als Ware|MONITOR — Wie die Fleischindustrie Menschen zur Ware macht]]
-
-> **27.07.** — [[Zeitgeist/Torsten Heinrich — Ukraine bewusst geopfert|Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?]]
-
-> **27.07.** — [[Zeitgeist/WDR Europaforum — Frieden schaffen mit immer mehr Waffen|Frieden schaffen mit immer mehr Waffen?]]
+> **03.08.** — [[Zeitgeist/GfbV — Jesidische Familien in der Diaspora|GfbV — Jesidische Familien in der Diaspora]]
 >
-> Drei Menschen streiten über Aufrüstung — und der Streit dreht sich nicht um Zahlen, sondern darum, wie weit man in die Zukunft rechnen darf, wenn heute Morgen die Sirenen gingen.
+> Ein Vortrag, der um Anerkennung bittet — zehn Monate bevor sie kam. Alles andere, worum er bittet, ist bis heute offen.
 
-> **27.07.** — [[Zeitgeist/ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten|Hybrider Angriff — Wie Putin Europas Osten destabilisiert]]
+> **03.08.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
+
+> **03.08.** — [[Zeitgeist/Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten|Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten]]
 >
-> Ein stiller Krieg ohne Panzer — Sabotage, Gift und Desinformation ziehen durch vier EU-Länder. Wo endet der Befund, wo beginnt die Erzählung, die selbst mit Angst arbeitet?
+> Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
 
-> → *4 weitere in* [[Zeitgeist]]
+> **03.08.** — [[Zeitgeist/Jihan Alomar — Gefangen vom Islamischen Staat|Jihan Alomar — Gefangen vom Islamischen Staat]]
+>
+> Sie war zehn, als der Gedenktag noch ein Sonntag war. Zehn Monate IS-Gefangenschaft, ein vermisster Vater, und die Entscheidung, in Klassenzimmer zu gehen.
+
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Denker
+
+> **03.08.** — [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Liya Yu — Dehumanisierung und Rehumanisierung]]
+>
+> Dehumanisierung ist keine moralische Schwäche, sondern eine Hirnfähigkeit, die wir alle täglich benutzen — und genau darum lässt sie sich steuern, umkehren, verlernen.
+
+> **03.08.** — [[Denker/Duezen Tekkal — Deutschland ist bedroht|Düzen Tekkal — Deutschland ist bedroht]]
+>
+> Ein Engel, der Gott widersprach, und ein Vater, der sich ins Grundgesetz rettete — woher eine umstrittene Stimme ihr Recht auf Widerspruch nimmt.
 
 > **01.08.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
 >
@@ -55,14 +65,6 @@ Die Gedankenwelten (luc)
 > **01.08.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
 >
 > Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
-
-> **01.08.** — [[Denker/William Darity Jr — Das oekonomische Erbe des Rassismus|William Darity Jr. — Das ökonomische Erbe des Rassismus]]
->
-> Wer die Schuld beim Benachteiligten sucht, muss die Ursache nicht mehr suchen — und ein Regenschirm, sagt Darity, macht noch keinen Regen.
-
-> **27.07.** — [[Denker/Herfried Münkler — Europas Platz in der neuen Weltordnung|Herfried Münkler — Europas Platz in der neuen Weltordnung]]
->
-> Die Unterscheidung zwischen Krieg und Frieden ist keine Beschreibung der Welt mehr, sondern eine Gewohnheit — und Münkler erklärt kühl, was das für einen Kontinent heißt, der sich auf sie verlassen hat.
 
 > → *3 weitere in* [[Denker]]
 

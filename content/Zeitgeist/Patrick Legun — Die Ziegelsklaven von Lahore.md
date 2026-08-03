@@ -278,6 +278,10 @@ Darity zeigt an den USA, was in Lahore erst bevorsteht: was mit einer Gruppe ges
 
 ---
 
+### → [[Jihan Alomar — Gefangen vom Islamischen Staat]]
+
+Dieselbe unbequeme Frage an die Befreiung. Hier ein Freikauf von Menschen, deren Schulden rechtlich längst nicht bestehen; dort eine Zehnjährige, die gekauft wurde und über einen Täter freikam, der seine eigenen Leute für Geld verriet. Zweimal läuft der Ausweg über den Markt, weil das Recht nicht existiert — und beide Male bleibt offen, was das über die Ordnung sagt, die die Rettung nicht leisten konnte.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

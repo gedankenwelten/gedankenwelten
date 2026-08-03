@@ -211,6 +211,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## J
 
+**[[DenkerVita/Jihan Alomar|Jihan Alomar]]** — Jesidische Überlebende des Völkermords vom 3. August 2014, Zeitzeugin & Bildungsreferentin; mit zehn Jahren zehn Monate in IS-Gefangenschaft, heute Tübingen; Buch *Dankbarkeit — Die schlimmste Zeit meines Lebens* (2021), HÁWAR.help-Wertebotschafterin, Protagonistin von „Bêmal — Heimatlos"
+
 **[[DenkerVita/Jan van Aken|Jan van Aken]]** — Biologe, 2004–2006 UN-Biowaffeninspekteur, zuvor Greenpeace-Gentechnikexperte; Vorsitzender der Linken von Oktober 2024 bis Juni 2026; Primat des Zivilen, strukturelle Nichtangriffsfähigkeit (nach Egon Bahr), EU- und Landesverteidigung ja — weltweite Machtprojektion nein
 
 **[[DenkerVita/Jana Puglierin|Jana Puglierin]]** — Politikwissenschaftlerin, seit 2020 Leiterin des ECFR-Büros Berlin; promoviert über John H. Herz, den Urheber des Begriffs Sicherheitsdilemma; europäische Verteidigungsfähigkeit ohne Amerika, aber nicht gegen es; *Wer verteidigt Europa?* (2026)
@@ -431,6 +433,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## T
 
 **[[DenkerVita/Tim Stark|Tim Stark]]** — Referent (kognitive Einflussnahme) im re:publica-26-Talk „Who the f#ck is Agartha?“; wie ironische Meme-Kulturen extremistische Inhalte kognitiv anschlussfähig machen
+
+**[[DenkerVita/Duezen Tekkal|Düzen Tekkal]]** — Journalistin, Filmemacherin, Menschenrechtsaktivistin (HÁWAR.help, GermanDream); deutsch-jesidische Zeugin des IS-Genozids von 2014, „böse Zwillinge" (Islamismus und Rechtsextremismus als eine Demokratiefeindschaft), Bundesverdienstkreuz 2021 — nah an CDU-Zirkeln und darum selbst umstritten
 
 **[[DenkerVita/Teresa Bücker|Teresa Bücker]]** — Journalistin, Autorin; Zeitgerechtigkeit, Zeitwohlstand, Sorgearbeit; NDR Sachbuchpreis 2023 für *Alle_Zeit*
 

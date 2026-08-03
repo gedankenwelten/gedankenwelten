@@ -2,7 +2,7 @@
 title: "Arolsen Archives — Wie Rechtsextreme Geschichte umdeuten"
 date: 19.07.2026
 description: "Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet."
-aktualisiert: 2026-07-19
+aktualisiert: 2026-08-03
 tags:
   - zeitgeist
   - kalender
@@ -196,6 +196,11 @@ Temelkurans Analyse, wie autoritäre Bewegungen das Publikum schrittweise zu Kom
 Die Schwester-Note desselben Tages: Klees Werk in der Schandausstellung von 1937 ist die historische Urszene des Kampfes um die Erinnerung, den diese Note in der Gegenwart verfolgt. Damals der höhnische Wandspruch, heute der Algorithmus — dieselbe Umdeutung, nur die Werkzeuge wechseln.
 
 ---
+
+### → [[GfbV — Jesidische Familien in der Diaspora]]
+
+Zwei Weisen, wie eine Zahl Erinnerung trägt statt zu rechnen. Hier wird eine Zahl von außen zur Waffe, um ein Verbrechen zu schrumpfen; dort ist „630 Jahre, 1,8 Millionen" die eigene tradierte Größenordnung einer Gemeinschaft, deren Unschärfe der Faktencheck offenlegen muss, ohne den Relativierern Munition zu liefern. Erinnerungszahlen folgen anderen Regeln als Historiografie — und Ehrlichkeit darüber tut in beide Richtungen weh.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

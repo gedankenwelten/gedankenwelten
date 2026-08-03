@@ -182,6 +182,14 @@ Zwei Notes aus demselben Land, die an einem Scharnier ineinandergreifen: dem Ver
 
 ---
 
+### → [[Jihan Alomar — Gefangen vom Islamischen Staat]]
+
+Die engste Parallele im Bestand. Zwei Mädchen, denen ihr Geschlecht zur Ursache der Gefahr wurde — hier das Schulverbot, dort die Haare, die die Mutter abschnitt, damit die IS-Männer sie nicht mitnehmen. Beide gingen als Minderjährige an die Öffentlichkeit, obwohl das Sprechen sie erkennbar macht, und beide wählten das Klassenzimmer als Instrument. Der Unterschied liegt im Ton: Malalas Hoffnung blickt nach vorn, Jihan Alomars „Dankbarkeit" ist die härteste Vokabel, die für einen offenen Verlust zu finden war.
+
+### → [[Duezen Tekkal — Deutschland ist bedroht]]
+
+Ein frontaler Zusammenstoß zweier Frauen, die islamistische Gewalt überlebten. Diese Note beruht auf dem Satz, dass ein Buch und ein Stift die Verhältnisse ändern. Tekkal sagt trocken: „Bildung schützt vor Extremismus nicht", und stellt die gebrochen Deutsch sprechenden Arbeitskollegen ihres Vaters über studierte Verbandsvertreter. Auflösbar ist der Widerspruch nur, wenn man trennt, was beide meinen — Zugang für Mädchen gegen formale Abschlüsse als Immunisierung.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
