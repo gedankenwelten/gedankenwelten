@@ -305,6 +305,10 @@ Havels Satz gelebt: Hoffnung als Handlung ohne Erfolgsgarantie — hier von zwei
 
 Krastevs „Budgets führen keine Kriege. Menschen führen Kriege“ ist Jana Puglierins Output-Argument in seiner härtesten Form — stimmt es, misst van Akens 540-zu-153-Rechnung die falsche Größe. Und Krastevs Beobachtung, dass die Länder des ehemaligen russischen Reichs 2022 als eigenen Krieg erlebten, erklärt, warum der Riss jener Debatte nicht mit Argumenten zu schließen ist: Šešelgytės Geschichtsbuch in der Schublade ist geerbte, nicht gelernte Geschichte.
 
+### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
+
+Krastevs Beobachtung, dass kleine Nationen unter der Frage leben, ob es sie in hundert Jahren noch gibt, erklärt eine Merkwürdigkeit bei Knaus: Warum tagt Helsinki wegen eines Vorfalls in Nordafrika? Knaus nennt es eine traumatisierte politische Elite und lässt es dabei; bei Krastev hat dieselbe Panik eine demografische Wurzel. Zusammengelesen ergibt sich, warum Argumente über Größenordnungen so wenig ausrichten.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

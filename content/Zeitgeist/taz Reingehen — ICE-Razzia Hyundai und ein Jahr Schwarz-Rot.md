@@ -218,3 +218,8 @@ GCA 33 zieht dieselbe Bilanz von außen, die Jakobs Ministeriums-Quellen von inn
 ### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
 
 Vom Massenzugriff zum Einzelschicksal: Der Fall Guerrero (Biddeford, Maine) zeigt denselben Apparat im tödlichen Einzelfall — falsche Zielperson, keine Bodycam, Opferbeschuldigung binnen Stunden.
+
+### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
+
+Knaus beschreibt die Alternative der Rechtspopulisten als Zukunftsszenario — Asylrecht abschaffen, Soldaten an die Grenze, das Modell Trump. Christian Jakob dokumentiert es als laufenden Betrieb. Und seine These, rechte Fluchterzählungen wirkten auch gegen die Fakten, weil sie auf Angst zielen, ist zugleich der schärfste Einwand gegen Knaus' Hoffnung, eine seriös geführte Zahlendebatte könne die Lage drehen.
+

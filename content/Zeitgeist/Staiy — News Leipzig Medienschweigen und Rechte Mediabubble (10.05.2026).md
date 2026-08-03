@@ -275,3 +275,8 @@ Dobusch/Zaboura formulieren auf der re:publica 26 denselben Teufelskreis, den St
 ### → [[Zeitgeist/Leonie Heims und Tim Stark — Who the fck is Agartha|Heims & Stark — Who the f#ck is Agartha?]]
 
 Heims formuliert die andere Hälfte von Staiys Medienkritik: Nicht nur Schweigen versagt, auch das verharmlosende Berichten arbeitet der rechten Meme-Sphäre zu. Beide umkreisen dieselbe Klinge — Aufmerksamkeit als Verstärker, Schweigen als Normalisierung.
+
+### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
+
+Knaus beobachtet, dass Bilder Zahlen schlagen, und ärgert sich über ein Aufklärungsdefizit. Die hier beschriebene Mechanik der Nachrichtenfaktoren zeigt, warum sein Ärger ins Leere geht: Migration wird als Ereignis berichtet, die unauffällige Normalität nie. Sein Nachweis, dass nach Spanien kaum jemand irregulär kam, hatte im System keinen Platz — nicht aus Nachlässigkeit, sondern aus Bauart.
+

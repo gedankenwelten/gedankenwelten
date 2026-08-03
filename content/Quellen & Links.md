@@ -4037,3 +4037,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Rechtslage** | [Bonded Labour System (Abolition) Act, 1992 (PDF)](https://www.ilo.org/media/43121/download) — § 6: bestehende Schulden gelten als erloschen |
 | **Freikauf-Debatte** | [Appiah/Bunzl (Hg.), *Buying Freedom* (Princeton UP)](https://press.princeton.edu/books/paperback/9780691130101/buying-freedom) |
 | **Transkript** | `Gedankenwelten/Transkripte/Legun_Ziegelsklaverei_Pakistan_Transkript.txt` |
+
+## Gerald Knaus — Ceuta und die Erpressbarkeit Europas
+
+| | |
+|---|---|
+| **Podcast / Video** | [Ansturm auf Ceuta: Was steckt dahinter? \| Gerald Knaus](https://www.youtube.com/watch?v=b7hxSZGi-b4) — DER STANDARD, „Thema des Tages", 03.08.2026 (aufgezeichnet 02.08.) |
+| **Notiz** | [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]] |
+| **DenkerVita** | [[DenkerVita/Gerald Knaus]] |
+| **Denkfabrik** | [European Stability Initiative (ESI)](https://www.esiweb.org/) · Knaus' Blog [Rumeli Observer](https://www.esiweb.org/rumeliobserver/) |
+| **Transkript** | `Gedankenwelten/Transkripte/Knaus_Ceuta_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

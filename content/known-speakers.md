@@ -893,3 +893,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Düzen Tekkal
 **Status:** ✓ Vollanalyse — [[DenkerVita/Duezen Tekkal]]
+
+## Gerald Knaus
+**Status:** ✓ Vollanalyse — [[DenkerVita/Gerald Knaus]]

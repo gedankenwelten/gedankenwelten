@@ -257,3 +257,7 @@ Merkels Bekenntnis zum Vorrang des europäischen Rechts gegen das „Recht des S
 
 Das Argument doppelt geprüft. Das Bild vom Recht, das still im Alltag wirkt, ohne Gebiss zu zeigen, ist genau das, was Jihan Alomar als Überraschung benennt — Frieden, Rechte für jeden, Bildung —, weil sie das Fehlen kennt. Und die These, Feststellungen ohne Vollstreckung seien mehr als Symbolik, hat hier ihren Härtefall: UN und Bundestag haben den Völkermord anerkannt, das Ermittlungsteam UNITAD wurde 2024 auf Wunsch Bagdads geschlossen, und die Schutzquote für Jesiden in Deutschland fiel auf gut die Hälfte.
 
+### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
+
+Knaus' Migrationsmodell hängt ganz an einer Bedingung: dass UNHCR und europäische Gerichte auch in einem Drittstaat tausende Kilometer entfernt wirksam bleiben. Kellers Blick aus neun Jahren am EGMR auf die Lücke zwischen Norm und Vollzug ist die genaueste Probe auf diese Bedingung. Beide teilen dabei eine Vorsicht: Wer das Ende des Rechts ausruft, betreibt seine Erosion mit.
+
