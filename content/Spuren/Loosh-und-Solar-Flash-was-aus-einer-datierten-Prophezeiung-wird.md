@@ -17,7 +17,7 @@ status: offen
 konfidenz: 70%
 review-takt: 30-tage
 eroeffnet: 2026-06-25
-aktualisiert: 2026-08-01
+aktualisiert: 2026-08-03
 description: Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 aliases:
   - Loosh
@@ -101,6 +101,65 @@ und die These hat den Kern überschätzt).
 ---
 
 ## Verlauf
+
+### 2026-08-03 — Ein zweiter Fall, viel größer, ohne je ein Datum gehabt zu haben (Konfidenz 70 % → 70 %)
+
+**Befund:** Der YouTube-Kanal **[Be Inspired](https://www.youtube.com/@BeInspiredChannel)** (9,34 Mio.
+Abonnenten, 378 Videos) trägt heute Titel wie *„She Warned Us About CERN. Now It's Too Late."*,
+*„He Named The 13 Families No One Dares To Mention (then got arrested)"* und *„The Strongest EVIDENCE We
+Shift Timelines"*. Das CERN-Video vom 20. Juni beruft sich auf Dieter Broers (Erdfrequenzen) und Astrid
+Stückelberger, führt Mandela-Effekt und HAARP an und legt als Beleg das Gefühl des Sprechers vor:
+*„time feels alarmingly fast these days… something feels off."* Das Motivinventar überschneidet sich in
+Teilen mit dem oben dokumentierten — Zirbeldrüse, Anunnaki-nahe Vorzeit, geheimes Wissen, das „sie"
+zurückhalten.
+
+Der Kanal war das nicht immer. Seine Zeitachse, an acht Stützstellen abgetastet:
+
+| Datum | Titel (gekürzt) | Views |
+|---|---|---|
+| 21.03.2018 | LISTEN EVERY DAY! „I AM" affirmations for Success | 28.393.817 |
+| 07.08.2018 | Dandapani: How To Control Your Mind | 14.478.209 |
+| 16.03.2020 | When You Don't Feel Like Doing Anything… (motivational) | 197.285 |
+| 11.03.2023 | „Desires are FREQUENCIES" \| Learn to Vibrate Correctly | 1.048.590 |
+| 20.01.2024 | „VIBRATIONAL PRAYER" — The HIDDEN Way (removed from The Bible) | 75.769 |
+| 15.04.2024 | The Bible gives PRECISE INSTRUCTIONS about the PINEAL GLAND | 695.079 |
+| 28.08.2024 | „This is the best-kept secret of the Vatican" | 200.044 |
+| 15.03.2025 | Ex-CIA Officer: „The Population Is Being Prepared" | 429.346 |
+
+Die Kippstelle liegt sichtbar in den ersten Monaten **2024**: davor Selbsthilfe, Gehirn und Gewohnheiten
+(Dandapani, Jim Kwik, Tony Robbins, Bruce Lipton), danach verborgene Bibelstellen, Vatikangeheimnisse,
+Zirbeldrüse — und ab 2025 Geheimdienste und gebrochene Realität.
+
+**Deutung:** Der Fall taugt als *Gegenprobe* zur zweiten These, nicht als ihr Beleg. Ouroboros hatte ein
+Datum und hat es fallen lassen; Be Inspired hatte nie eines und läuft seit zweieinhalb Jahren stabil im
+undatierten Modus. Wenn die These stimmt, dass ein Prozess keine Angriffsfläche bietet und ein Datum
+schon, dann ist dieser Kanal der Beweis dafür, wie lange sich der undatierte Zustand halten *kann* — und
+zugleich ein Hinweis darauf, wohin Ouroboros unterwegs ist, wenn es ihn in zwei Jahren noch gibt: nicht in
+den Zusammenbruch, sondern in eine Dauerform.
+
+Bemerkenswert ist die Größenordnung. Wir haben es beim deutschen Fall mit vierstelligen Likes zu tun; hier
+steht dasselbe Motivinventar vor einem Publikum, das zwischen 150.000 und 730.000 Aufrufe je Video
+liefert. Es ist keine Nische.
+
+**Gegenbeobachtung:** Vier Einwände, der schwerste zuerst.
+
+(a) **Der Views-Vergleich über acht Jahre ist methodisch wertlos.** Ein Video von 2018 hatte acht Jahre
+Zeit, 28 Millionen Aufrufe zu sammeln; eines vom 29. Juli 2026 hatte fünf Tage. Der Rückgang von
+zweistelligen Millionen auf sechsstellige Zahlen ist damit **nicht** interpretierbar, und der Satz „das
+Publikum ist abgewandert" wäre falsch. Ich lasse die Spalte stehen, weil die Titel selbst der Befund sind
+— aber sie trägt keine Aussage über Reichweitenverfall. (b) **Ein Kanalwechsel ist kein Weltbildwechsel.**
+Was hier nach Radikalisierung aussieht, kann ein Betreiberwechsel, ein Verkauf oder schlicht eine
+Anpassung an das sein, was der Algorithmus 2024 belohnte. Über die Köpfe dahinter weiß ich nichts. (c)
+**Die Überschneidung im Motivinventar ist schwach.** Zirbeldrüse und geheimes Wissen sind Allgemeingut der
+Esoterik seit Blavatsky; daraus eine Verwandtschaft zu Ouroboros zu bauen, hieße, zwei Fälle enger zu
+knüpfen, als die Beleglage hergibt. (d) **Ich habe ein Video gehört, nicht dreißig.** Das CERN-Video mag
+untypisch sein; die Titel der übrigen legen es nicht nahe, aber geprüft ist es nicht.
+
+Das berührt die am 01.08. registrierte Falsifikationsbedingung **nicht** — die gilt weiter allein dem
+Ouroboros-Strang und dem 31.12.2026. Dieser Kanal wird ab hier im Abschnitt *Muster* geführt und
+beobachtet, ohne Einfluss auf die Konfidenz der These.
+
+---
 
 ### 2026-08-01 — Ein Monat danach: die Frist ist nicht gewandert, sie ist verdampft (Konfidenz — → 70 %)
 
@@ -536,6 +595,21 @@ Zugehörigkeit anbietet.
 
 ## Gleichmut-Spiegel
 
+> [!question] Sweep 03.08. — Entwurf, von dir zu prüfen
+> - **Verlangen.** Der Kanal kam nicht aus der Spur, sondern aus einer beiläufigen Frage („taugt der was?").
+>   Dass ich binnen einer Stunde eine Verbindung zur laufenden Spur gefunden habe, ist genau die Bewegung,
+>   vor der die Spur warnt: Wer ein Muster sucht, findet eines. Zirbeldrüse und geheimes Wissen verbinden
+>   die beiden Fälle ungefähr so stark, wie zwei Kochbücher durch Salz verbunden sind. Als Gegengewicht (c)
+>   offengelegt und die Konfidenz ausdrücklich nicht angefasst.
+> - **Was ich fast kleiner gemacht hätte.** Die Views-Spalte von 28 Millionen (2018) auf 197.000 (2026)
+>   war die schönste Zahl des Tages und hätte eine Geschichte über verlorenes Publikum getragen. Sie
+>   vergleicht acht Jahre Sammelzeit mit fünf Tagen und beweist nichts. Beim ersten Entwurf stand sie ohne
+>   den Einwand da.
+> - **Abneigung.** „Selbsthilfe kippt in Verschwörung" ist eine Erzählung, die ich gern habe, weil sie zu
+>   allem passt, was ich über das Milieu ohnehin denke. Über die Menschen hinter dem Kanal weiß ich nichts
+>   — nicht, ob dieselben Hände 2018 und 2026 schreiben, nicht, ob jemand etwas glaubt oder nur bedient.
+> - **Konfidenz: unverändert 70 %.** Ein Parallelfall ist kein Datum im eigenen Verlauf.
+
 > [!question] Sweep 01.08. — Entwurf, von dir zu prüfen
 > - **Was ich beim letzten Mal kleiner gemacht habe.** Der Eintrag vom 29.06. nannte den Massenauswurf,
 >   der die Erde am 30. Juni streift, einen *„winzigen G1-Sturm"* — und übersah, dass am Abend desselben
@@ -583,6 +657,53 @@ Zugehörigkeit anbietet.
 > *fürchte den Tag, sonst wirst du gelöscht*. Die Angst ist nicht der Kern — sie ist die Zutat eines
 > Zweiten, der einem hoffnungsvollen Gedanken ein Datum und eine Drohung anheftete. Man kann das eine
 > prüfen und das andere behalten.
+
+---
+
+## Muster
+
+Die Spur beobachtet einen Einzelfall. Ob sich daraus ein Muster ergibt, entscheidet sich an weiteren
+Fällen — hier werden sie gesammelt, mit messbarer Grundlinie und ohne Einfluss auf die Konfidenz der
+registrierten These.
+
+### Beobachtungspunkt 1 — Be Inspired (englischsprachig, 9,34 Mio. Abonnenten)
+
+**Warum hier.** Der Fall prüft die zweite These von der anderen Seite. Ouroboros ist ein Kanal, der sein
+Datum verloren hat; Be Inspired ist ein Kanal, der nie eines hatte und seit Anfang 2024 im undatierten
+Modus fährt. Wenn ein Prozess tatsächlich haltbarer ist als ein Termin, muss sich das hier über Jahre
+zeigen lassen — an einem Publikum, das zwei Größenordnungen über dem deutschen Fall liegt.
+
+Der zweite Grund ist die **Drift**. Der Kanal begann 2018 als Motivations-Compilation (Dandapani, Jim
+Kwik, Bruce Lipton, Affirmationen) und kippte in den ersten Monaten 2024 in verborgenes Wissen und ab
+2025 in harte Verschwörungserzählung. Das ist ein selten so sauber ablesbarer Weg von Selbsthilfe in die
+Paranoia — datiert, öffentlich, an Titeln nachprüfbar.
+
+**Grundlinie, erhoben am 03.08.2026** (Kommentarzahlen rundet YouTube ab vierstellig, darum die glatten
+Werte):
+
+| Datum | Titel (gekürzt) | Views | Likes | Kommentare |
+|---|---|---|---|---|
+| 05.05.2026 | The BANNED Interview That Warned Us All | 672.481 | 29.079 | ~3.500 |
+| 12.05.2026 | She Researched Something THEY DON'T ALLOW. Then She Died | 728.623 | 24.558 | ~3.000 |
+| 19.05.2026 | He Named The 13 Families No One Dares To Mention | 255.703 | 21.089 | ~2.000 |
+| 01.06.2026 | They Confirmed Something is WRONG With Reality | 211.062 | 9.407 | ~1.500 |
+| 20.06.2026 | She Warned Us About CERN. Now It's Too Late. | 178.293 | 9.193 | ~1.500 |
+| 07.07.2026 | This is the final stage… | 417.523 | 18.855 | ~1.800 |
+| 14.07.2026 | The Strongest EVIDENCE We Shift Timelines | 154.072 | 7.435 | ~1.500 |
+| 29.07.2026 | The Disaster Nobody Knows About: Reality Is Broken | 197.627 | 10.253 | ~1.600 |
+
+Die drei jüngsten Werte sind noch nicht ausgereift und beim nächsten Sweep nach oben zu korrigieren.
+
+**Woran das nächste Mal zu messen ist.** Ob ein **Datum** auftaucht — ein Termin, ein Stichtag, ein
+angekündigtes Ereignis. Solange keines kommt, stützt der Fall die These vom haltbaren Prozess; kommt
+eines, wird er interessanter als die ganze bisherige Spur. Zweitens, ob die **Frequenz** hält (zuletzt
+etwa alle zwei Wochen). Drittens, ob das Geschäftsmodell mitwandert: In fast jeder Videobeschreibung
+stehen Affiliate-Blöcke — ein KI-Kurs, ein Datenlösch-Dienst, Selbsthypnose-Programme.
+
+**Was der Fall nicht ist.** Kein Beleg für die registrierte These und kein Anlass, sie zu erweitern. Er
+läuft mit, bis entweder ein zweiter und dritter Fall dasselbe zeigen — dann wird daraus eine Muster-Spur
+— oder bis er sich als nicht vergleichbar erweist. Für die Gedankenwelten ist er ausdrücklich **keine
+Quelle**, sondern Gegenstand.
 
 ---
 
@@ -668,8 +789,9 @@ braucht.
 | **Ursprung der Kosmologie** | [Sascha Zimmermann „DJ Trapstar" auf Instagram](https://www.instagram.com/djtrapstar_official) |
 | **Gegen-Creator** | [Pat Atlas — „die Enttäuschung als Loosh-Ernte"](https://www.instagram.com/p/DZnadZwtzPc/) · [„Stealth-Modus"](https://www.instagram.com/p/DZ4pF2bNbZW/) |
 | **Szene-interne Skepsis** | [Wizard-Forum — Thread 26.06.2026 Solarflash](https://wizardforums.com/threads/26-06-2026-solarflash.21566/) |
+| **Beobachtungspunkt 1** (→ Muster) | [Be Inspired — Kanal](https://www.youtube.com/@BeInspiredChannel) · [„She Warned Us About CERN" (20.06.2026)](https://www.youtube.com/watch?v=F4Gkv94106M) · [„He Named The 13 Families" (19.05.2026)](https://www.youtube.com/watch?v=3lZaw28-jOU) |
 | **Weltraumwetter** | [NASA — X1.1-Flare am 30.06.2026](https://science.nasa.gov/blogs/solar-cycle-25/2026/06/30/sun-releases-strong-flare-11/) · [SpaceWeatherLive — Top-50-Flares 2026](https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares/year/2026.html) |
-| **Transkripte** | `Loosh_Seelenernte_Transkript.txt` · `Loosh_Ouroboros_Vorabend_25.06.2026_Transkript.txt` · `Loosh_Ouroboros_Tag-danach_27.06.2026_Transkript.txt` · `Felsenecht_Solar_Flash_Rueckblick_Transkript.txt` (in `Gedankenwelten/Transkripte/`) |
+| **Transkripte** | `Loosh_Seelenernte_Transkript.txt` · `Loosh_Ouroboros_Vorabend_25.06.2026_Transkript.txt` · `Loosh_Ouroboros_Tag-danach_27.06.2026_Transkript.txt` · `Felsenecht_Solar_Flash_Rueckblick_Transkript.txt` · `BeInspired_CERN_20.06.2026_Transkript.txt` (in `Gedankenwelten/Transkripte/`) |
 
 ---
 
