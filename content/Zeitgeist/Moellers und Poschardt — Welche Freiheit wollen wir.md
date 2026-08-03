@@ -211,6 +211,10 @@ Yu erklärt neurologisch, warum das linksliberale Menschenbild scheitert — das
 
 Steinkes Justiz-Aktivismus-These und Marinićs "Teilzeitliberalismus"-Begriff sind die empirischen Belege für den abstrakten Freiheitsdiskurs bei Möllers/Poschardt. Posschardts Diagnose des gekaperten Freiheitsbegriffs bekommt durch Steinkes konkreten Welt-Fall (Musk-Wahlaufruf als unpopuläre Meinung, aber Kriminalisierung pro-palästinensischer Filmemacher) seinen schärfsten Ausdruck. Möllers' institutioneller Freiheitsbegriff wird durch Steinkes Befund bestätigt und provoziert: Auch der progressive Staat schränkt Meinungsfreiheit ein — nicht nur der konservative.
 
+### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
+
+Der Streit um Shklars *Freiheit von Furcht* — Poschardt beansprucht sie für die Aufnahmegesellschaft, Möllers hält den Schluss von Migration auf Bedrohung für zu schnell — bekommt bei Knaus einen konkreten Fall. In Ceuta war die Furcht in ganz Europa real und wurde gefüttert, und sie richtete sich auf ein Ereignis, das niemanden aufs Festland brachte. Die Frage, wessen Furcht politisch zählt, wird hier vor jeder Statistik entschieden.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

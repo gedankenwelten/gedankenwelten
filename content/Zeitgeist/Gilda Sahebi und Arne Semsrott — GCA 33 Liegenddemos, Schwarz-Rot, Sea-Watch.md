@@ -236,6 +236,10 @@ Das BR-Feature "Der Arbeiter und die AfD" über Peter aus Köln ist die empirisc
 
 ---
 
+### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
+
+Was hier als Schüsse auf die Sea-Watch 5 erscheint, heißt bei Knaus nüchtern: „Italien ist abhängig von Libyen." Er zieht daraus die Forderung nach mehr Abkommen statt weniger, damit kein einzelner Partner Europa erpressen kann. Diese Note liefert die Gegenerfahrung — was aus einem Abkommen wird, wenn die Aufmerksamkeit weiterzieht. Sein Vorwurf an die NGOs und ihr Misstrauen treffen hier direkt aufeinander.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

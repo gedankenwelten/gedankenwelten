@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist.
 
+> **03.08.** — [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas|Ceuta und die Erpressbarkeit Europas]]
+>
+> Fünfzigtausend Menschen an einem Tag, achtundachtzig Tote — und die Panik reist weiter als die Menschen selbst. Über eine Verwundbarkeit, die Europa sich gebaut hat.
+
 > **03.08.** — [[Zeitgeist/GfbV — Jesidische Familien in der Diaspora|GfbV — Jesidische Familien in der Diaspora]]
 >
 > Ein Vortrag, der um Anerkennung bittet — zehn Monate bevor sie kam. Alles andere, worum er bittet, ist bis heute offen.
@@ -38,11 +42,7 @@ Die Gedankenwelten (luc)
 >
 > Drei Ziffern und ein Buchstabe genügen, um den Holocaust zu relativieren: Das Social-Media-Team der Arolsen Archives entschlüsselt rechte Codes — und zeigt, wie man sie entwaffnet.
 
-> **03.08.** — [[Zeitgeist/Jihan Alomar — Gefangen vom Islamischen Staat|Jihan Alomar — Gefangen vom Islamischen Staat]]
->
-> Sie war zehn, als der Gedenktag noch ein Sonntag war. Zehn Monate IS-Gefangenschaft, ein vermisster Vater, und die Entscheidung, in Klassenzimmer zu gehen.
-
-> → *5 weitere in* [[Zeitgeist]]
+> → *6 weitere in* [[Zeitgeist]]
 
 ### Denker
 

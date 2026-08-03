@@ -224,3 +224,8 @@ Sirus Schyek (Historiker, Genf) und Kamran Safiarian (ZDF-Journalist) — beide 
 - [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Iran-Forscherin mit historischer Tiefe; Perspektive auf Revolutionsgeschichte, IRGC, Golfstaaten-Dilemma und westliche Doppelstandards
 - [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]] — direkte Nachfolgefolge; BaWü-Wahl-Analyse aus #24 mündet in #27 in die bundespolitische SPD-Krise und Schröder-Nostalgie
 - [[Natalie Amiri — Hoelle auf Erden im Iran]] — Amiri verkörpert das Fluchtnarrativ: Journalistin, die über ein Land berichtet, in das sie nicht zurück kann. Ihre „geographische Amputation" ist das Muster, das GCA diskutiert.
+
+### → [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]]
+
+Der Experte, den *Spiegel* und *Welt* bei Kriegsbeginn anriefen, erzählt dieselben Anrufe aus seiner Sicht: dutzende in 24 Stunden, immer dieselbe Frage nach der nächsten Flüchtlingskrise, immer dieselbe geografische Antwort. Sahebi liest den Vorgang als Beleg für eine Presse, die ohne Landeskenntnis titelt; Knaus als Beleg für einen Reflex, gegen den er anredet. Wer von beiden den meistgefragten Migrationsexperten richtig verortet, bleibt offen — und ist genau die interessante Frage.
+

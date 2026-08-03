@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*276 Notes — automatisch generiert · nach Thema sortiert*
+*278 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -246,9 +246,11 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Januar 2026|Die Neuen Zwanziger — Salon Lektüren Januar 2026]]
 - [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]] — Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
 - [[Zeitgeist/WDR Europaforum — Frieden schaffen mit immer mehr Waffen|Frieden schaffen mit immer mehr Waffen?]] — Drei Menschen streiten über Aufrüstung — und der Streit dreht sich nicht um Zahlen, sondern darum, wie weit man in die Zukunft rechnen darf, wenn heute Morgen die Sirenen gingen.
+- [[Zeitgeist/GfbV — Jesidische Familien in der Diaspora|GfbV — Jesidische Familien in der Diaspora]] — Ein Vortrag, der um Anerkennung bittet — zehn Monate bevor sie kam. Alles andere, worum er bittet, ist bis heute offen.
 - [[Zeitgeist/Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer|Gilda con Arne #20 — Humanitäre Intervention im Iran & Boris Palmer]]
 - [[Zeitgeist/Herfried Münkler — Muss es Kriege geben|Herfried Münkler — Muss es Kriege geben?]]
 - [[Zeitgeist/Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung|Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]]
+- [[Zeitgeist/Jihan Alomar — Gefangen vom Islamischen Staat|Jihan Alomar — Gefangen vom Islamischen Staat]] — Sie war zehn, als der Gedenktag noch ein Sonntag war. Zehn Monate IS-Gefangenschaft, ein vermisster Vater, und die Entscheidung, in Klassenzimmer zu gehen.
 - [[Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht|Konstantin Flemig — Deutschland als Rüstungs-Großmacht]]
 - [[Zeitgeist/Konstantin Flemig — Russlands Katastrophen-Monat|Konstantin Flemig — Russlands Katastrophen-Monat]] — Drohnen über Moskau und St. Petersburg, abgeschnürte Krim, rationiertes Benzin: wie der Mythos der russischen Unbesiegbarkeit in einem einzigen Monat zerfällt.
 - [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026|Konstantin Flemig — Ukraine Gebietsgewinne 2026]]

@@ -169,6 +169,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Gerald Hüther|Gerald Hüther]]** — Neurobiologe, Bestsellerautor; Selbstorganisation, Potenzialentfaltung statt Anpassung, Schule im Aufbruch, Akademie für Potentialentfaltung
 
+**[[DenkerVita/Gerald Knaus|Gerald Knaus]]** — Österreichischer Sozialwissenschaftler, Gründer und Vorsitzender der European Stability Initiative (ESI); Architekt des EU-Türkei-Abkommens 2016, kommt aus der Balkan-Nachkriegs-Staatsbildung (UNMIK Kosovo, „European Raj"-Kritik) statt aus der Migrationsforschung; „humane Kontrolle" als dritter Weg zwischen offenen Grenzen und Abschottung, Mobilitätspartnerschaften mit Drittstaaten, Rückführungen als Preis für legale Wege — gefeiert für die Wirkung in der Ägäis, angegriffen für Moria, Pushbacks und Erpressbarkeit
+
 **[[DenkerVita/Gesine Schwan|Gesine Schwan]]** — Politikwissenschaftlerin; Gestaltungsmacht vs. Herrschaftsmacht, demokratische Kultur, kommunale Entwicklungsbeiräte, zweifache Bundespräsidentschaftskandidatin
 
 **[[DenkerVita/Gilda Sahebi|Gilda Sahebi]]** — Deutsch-iranische Journalistin, Autorin; Expertise: autoritäre Systeme, Rassismus, Iran; Politikjournalistin des Jahres 2022
