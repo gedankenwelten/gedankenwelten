@@ -3182,7 +3182,21 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Szene-interne Skepsis** | [Wizard-Forum — Thread 26.06.2026 Solarflash](https://wizardforums.com/threads/26-06-2026-solarflash.21566/) |
 | **Weltraumwetter** | [NASA — X1.1-Flare 30.06.2026](https://science.nasa.gov/blogs/solar-cycle-25/2026/06/30/sun-releases-strong-flare-11/) · [SpaceWeatherLive — Top-50-Flares 2026](https://www.spaceweatherlive.com/en/solar-activity/top-50-solar-flares/year/2026.html) |
 | **Notiz** | [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]] |
-| **Transkripte** | `Loosh_Seelenernte_Transkript.txt` · `Loosh_Ouroboros_Tag-danach_27.06.2026_Transkript.txt` · `Loosh_Ouroboros_Vorabend_25.06.2026_Transkript.txt` · `Felsenecht_Solar_Flash_Rueckblick_Transkript.txt` (in `Gedankenwelten/Transkripte/`) |
+| **Transkripte** | `Loosh_Seelenernte_Transkript.txt` · `Loosh_Ouroboros_Tag-danach_27.06.2026_Transkript.txt` · `Loosh_Ouroboros_Vorabend_25.06.2026_Transkript.txt` · `Felsenecht_Solar_Flash_Rueckblick_Transkript.txt` · `BeInspired_CERN_20.06.2026_Transkript.txt` (in `Gedankenwelten/Transkripte/`) |
+
+### Be Inspired — Beobachtungspunkt 1 der Solar-Flash-Spur
+
+> [!warning] Keine Quelle, sondern Gegenstand
+> Der Kanal wurde geprüft, ob er für die Gedankenwelten taugt, und **abgelehnt**. Er steht hier als
+> beobachteter Fall im `## Muster`-Abschnitt der Spur — nicht als Beleg und nicht zum Zitieren.
+
+| | |
+|---|---|
+| **Kanal** | [Be Inspired](https://www.youtube.com/@BeInspiredChannel) — 9,34 Mio. Abonnenten, 378 Videos (Stand 03.08.2026) |
+| **Geprüftes Video** | [She Warned Us About CERN. Now It's Too Late. (20.06.2026)](https://www.youtube.com/watch?v=F4Gkv94106M) |
+| **Weitere belegte Titel** | [He Named The 13 Families No One Dares To Mention (19.05.2026)](https://www.youtube.com/watch?v=3lZaw28-jOU) |
+| **Notiz** | [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird\|Loosh & Solar-Flash]], Abschnitt „Muster" |
+| **Transkript** | `BeInspired_CERN_20.06.2026_Transkript.txt` (in `Gedankenwelten/Transkripte/`) |
 
 ---
 

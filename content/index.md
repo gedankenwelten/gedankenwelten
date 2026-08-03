@@ -70,7 +70,7 @@ Die Gedankenwelten (luc)
 
 ### Spuren
 
-> **01.08.** — [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash — was aus einer datierten Prophezeiung wird]]
+> **03.08.** — [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash — was aus einer datierten Prophezeiung wird]]
 >
 > Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 

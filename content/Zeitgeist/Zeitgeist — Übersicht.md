@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*278 Notes — automatisch generiert · nach Thema sortiert*
+*279 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -72,6 +72,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
 - [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk taz — Wird die Meinungsfreiheit zu sehr eingeschränkt?]]
 - [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]] — Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.
+- [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas|Ceuta und die Erpressbarkeit Europas]] — Fünfzigtausend Menschen an einem Tag, achtundachtzig Tote — und die Panik reist weiter als die Menschen selbst. Über eine Verwundbarkeit, die Europa sich gebaut hat.
 - [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Christoph Butterwegge — Armut NEU DENKEN]]
 - [[Zeitgeist/Christoph Hein — Geooekonomie NEU DENKEN|Christoph Hein — Geoökonomie NEU DENKEN]]
 - [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]]
