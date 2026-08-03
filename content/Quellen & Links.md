@@ -6,6 +6,33 @@ tags:
   - links
 ---
 
+## Gesellschaft für bedrohte Völker — Jesidische Familien in der Diaspora
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Reihe Zerstörung von Familien: Yezidische Diaspora](https://www.youtube.com/watch?v=J1VFfiX3muM) (Online-Vortrag, 08.03.2022, Titel „Zwischen Familie und Flucht") |
+| **Notiz** | [[GfbV — Jesidische Familien in der Diaspora]] |
+| **Transkript** | `Gedankenwelten/Transkripte/GfbV_Yezidische_Diaspora_Transkript.txt` (mlx-whisper — die YouTube-Automatikuntertitel gaben „jesidisch" durchgehend als „jüdisch" aus) |
+
+## Jihan Alomar — Gefangen vom Islamischen Staat
+
+| | |
+|---|---|
+| **Reportage / Video** | [Gefangen vom Islamischen Staat: Jihan (18) überlebt Genozid](https://www.youtube.com/watch?v=5B5yrovaZaE) (TRU DOKU / funk, 12.04.2022) · [ZDF-Mediathek](https://www.zdf.de/funk/tru-doku-12074/funk-gefangen-vom-islamischen-staat-jihan-18-ueberlebt-genozid-i-tru-doku-102.html) |
+| **Buch** | *Dankbarkeit — Die schlimmste Zeit meines Lebens* (MARBA, Tübingen; 4. Aufl. 2022, ISBN 978-3-949121-04-3) — [DNB-Nachweis](https://d-nb.info/1238260837) |
+| **Notiz** | [[Jihan Alomar — Gefangen vom Islamischen Staat]] · [[DenkerVita/Jihan Alomar]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Jihan_IS_Genozid_Transkript.txt` (redaktionelle funk-Untertitel) |
+
+## Düzen Tekkal — Deutschland ist bedroht
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Düzen Tekkal: Deutschland ist bedroht](https://www.youtube.com/watch?v=0CZOmGE_vsI) (Einstein Forum Potsdam, 29.06.2017, Reihe „Solidarity in Danger") |
+| **Buch** | *Deutschland ist bedroht. Warum wir unsere Werte jetzt verteidigen müssen* (2016) — [genialokal](https://www.genialokal.de/Suche/?q=tekkal+deutschland+ist+bedroht) |
+| **Film** | *HÁWAR — Meine Reise in den Genozid* (2015) · *Jiyan* (2020) · *Bêmal* (2024) — [HÁWAR.help](https://www.hawar.help/de/) |
+| **Notiz** | [[Duezen Tekkal — Deutschland ist bedroht]] · [[DenkerVita/Duezen Tekkal]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Tekkal_Deutschland_bedroht_Transkript.txt` |
+
 ## Herfried Münkler — Europas Platz in der neuen Weltordnung (Industriekongress 2026)
 
 | | |

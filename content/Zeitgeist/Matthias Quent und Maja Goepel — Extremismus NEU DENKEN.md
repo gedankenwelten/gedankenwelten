@@ -224,3 +224,8 @@ Man muss das Führungspersonal von den Wähler:innen unterscheiden. Und mit AfD-
 
 Die Agartha-Sphäre ist ein Anschauungsfall für Quents „Technik der Emotionalisierung": Kein Programm, keine Überzeugung — nur eine Gruppenidentität, die Zugehörigkeit verspricht und darüber Rassenlehre anschlussfähig macht. Der Hunger, den Quent vermisst, wird hier über Meme-Codes gestillt.
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Skenderovic zerlegt in der SRF-Sendung die Schweizer NDB-Statistik und die Hufeisentheorie mit denselben Argumenten wie Quent: Gewaltverengung, Entpolitisierung, die Fiktion der unberührten Mitte.
+
+### → [[Duezen Tekkal — Deutschland ist bedroht]]
+
+Der Gegentest zu dieser Note. Tekkal setzt Islamismus und Rechtsextremismus als „böse Zwillinge" gleich — genau die Symmetrie, die Quent für sozialwissenschaftlich unhaltbar hält. Sein eigenes Kriterium, Ungleichwertigkeitsideologie plus Faschismus als Technik der Emotionalisierung, erfasst den Islamismus aber lückenlos und gibt ihr in der Sache recht. Der Streit dreht sich also um Verankerung und Zugang zu Staatsmacht, nicht um die Funktion beider Bewegungen.
+

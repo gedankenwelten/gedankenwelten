@@ -252,3 +252,8 @@ Die Sea-Watch-Sequenz — Schiff beschossen, 35.000 Tote, EU kooperiert aktiv mi
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
 
 Merkels Bekenntnis zum Vorrang des europäischen Rechts gegen das „Recht des Stärkeren“ ist die politische Kehrseite von Kellers juristischer Diagnose eines machtlosen Völkerrechts.
+
+### → [[Jihan Alomar — Gefangen vom Islamischen Staat]]
+
+Das Argument doppelt geprüft. Das Bild vom Recht, das still im Alltag wirkt, ohne Gebiss zu zeigen, ist genau das, was Jihan Alomar als Überraschung benennt — Frieden, Rechte für jeden, Bildung —, weil sie das Fehlen kennt. Und die These, Feststellungen ohne Vollstreckung seien mehr als Symbolik, hat hier ihren Härtefall: UN und Bundestag haben den Völkermord anerkannt, das Ermittlungsteam UNITAD wurde 2024 auf Wunsch Bagdads geschlossen, und die Schutzquote für Jesiden in Deutschland fiel auf gut die Hälfte.
+

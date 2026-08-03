@@ -253,6 +253,10 @@ Die Gegenprobe zur Verkaufslogik des Genozids: zwei Hinterbliebene, die dieselbe
 
 ---
 
+### → [[Jihan Alomar — Gefangen vom Islamischen Staat]]
+
+Dieselbe Maschine von der anderen Seite gesehen. Hier wird gemessen, wie Desinteresse hergestellt wird — zwei Jahre Sonntags-Talkshows ohne eine einzige palästinensische Stimme. Dort sagt eine Überlebende, ihre größte Angst sei nicht der IS gewesen, sondern dass die Menschen kein Interesse zeigen. Sie hat sich eine Schulaula genommen, ohne auf ein Mikrofon zu warten.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

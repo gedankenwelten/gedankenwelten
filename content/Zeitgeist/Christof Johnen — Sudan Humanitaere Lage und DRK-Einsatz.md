@@ -141,3 +141,7 @@ Beide Notes kreisen um dieselbe Grundspannung: Wann legitimiert humanitäres Lei
 
 Dieselbe Bilanz in kleinerem Maßstab. Johnens Satz, humanitäre Hilfe könne den Konflikt nicht beenden, dazu brauche es politische Lösungen, gilt genauso für achttausend Euro, mit denen eine Familie aus einer Ziegelei freigekauft wird, während ein Verbot von 1992 seit dreißig Jahren nicht durchgesetzt wird. Beide Notes lassen den Widerspruch stehen: für die Geretteten vollständig, für das Problem folgenlos.
 
+### → [[GfbV — Jesidische Familien in der Diaspora]]
+
+Derselbe Kern von der anderen Seite: Hilfe kommt nur über Strukturen an, die vor Ort schon tragen. Bei den Jesiden sind das die Pîr- und Scheich-Struktur, die Gruppentherapie und die geteilte Trauer nach einem Todesfall — Dinge, die eine Gesellschaft übersieht, die Hilfe nur in Praxen denkt. Zwei Belege dafür, dass ein Programm ohne die vorhandenen Netze leerläuft, gleich wie gut es finanziert ist.
+

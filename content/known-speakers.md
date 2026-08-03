@@ -13,6 +13,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Jihan Alomar
+**Status:** ✓ Vollanalyse — [[DenkerVita/Jihan Alomar]]
+
 ## Margarita Šešelgytė
 **Status:** ✓ Vollanalyse — [[DenkerVita/Margarita Seselgyte]]
 
@@ -887,3 +890,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Sven Beckert
 **Status:** ✓ Vollanalyse — [[DenkerVita/Sven Beckert]]
+
+## Düzen Tekkal
+**Status:** ✓ Vollanalyse — [[DenkerVita/Duezen Tekkal]]

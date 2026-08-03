@@ -203,6 +203,10 @@ Die lebende Spur liefert den völkerrechtlichen Hintergrund, gegen den Zeigens P
 
 ---
 
+### → [[Jihan Alomar — Gefangen vom Islamischen Staat]]
+
+Dieselbe Wendung von Verlust in öffentliche Arbeit statt in Rache — mit einem entscheidenden Unterschied im Ausgangspunkt. Zeigen hörte am Telefon, wie seine Mutter starb: Gewissheit, aus der eine Kandidatur wurde. Jihan Alomars Vater ist seit dem 3. August 2014 vermisst. Ihre Arbeit hat darum ein Ziel, das dieser Weg nicht kennt — die Suche nach den Verschollenen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

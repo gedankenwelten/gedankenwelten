@@ -209,3 +209,8 @@ Dieselbe analytische Bewegung an anderem Gegenstand: Zeigen liest die Mordwelle 
 - [[Andreas Zimpel — Neurodiversität]] — El-Mafaalani zeigt Kinder als systematisch diskriminierte Gruppe; Zimpel zeigt, dass dieses Muster sich innerhalb der Kindergruppe fortsetzt: neurodiverse Kinder werden nicht nur als jung, sondern als *falsch denkend* behandelt. Beide diagnostizieren, dass das Bildungssystem Differenz als Defizit codiert — El-Mafaalani erklärt die sozialstrukturelle Mechanik, Zimpel die neurowissenschaftliche.
 - [[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten]] — Generationengerechtigkeit: die erste Generation, der es schlechter geht als den Eltern.
 - [[Markus Gabriel — Universelle Moral]] — Gabriel und El-Mafaalani treffen sich beim Thema Kinderrechte: Gabriel geht weiter und fordert Kinderwahlrecht, weil Kinder moralisch innovativer seien als Erwachsene
+
+### → [[GfbV — Jesidische Familien in der Diaspora]]
+
+Der Extremfall der hier beschriebenen Struktur. Wenn Kinder keine Artikulationsmacht haben und Adultismus keinen Namen, dann sieht das unter Traumabedingungen so aus: Kinder, die ihren Müttern die Behörden erklären, und ein Jugendlicher, der sein Studium aufgibt, um Geld für die Ausreise seiner freigekommenen Schwester zu verdienen. Parentifizierung als unbezahlte Sozialarbeit von Minderjährigen.
+

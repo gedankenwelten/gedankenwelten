@@ -207,6 +207,10 @@ Doppelte Brücke: Mandelas Versöhnung, die weiter reichte als das Recht (Ubuntu
 
 ---
 
+### → [[Duezen Tekkal — Deutschland ist bedroht]]
+
+Der lebende Gegenbeweis zu Tekkals gefährlichstem Befund, dass Opfer herrschen wollen. Hier verweigern zwei Hinterbliebene genau den Anspruch, den ihr Verlust ihnen zusprechen würde. Bemerkenswert: Tekkal gehört mit HÁWAR.help auf ihre Seite — die Organisation entstand aus einer jesidischen Katastrophe und wurde bewusst keine jesidische Organisation. Ihre These und ihre eigene Praxis widersprechen sich.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

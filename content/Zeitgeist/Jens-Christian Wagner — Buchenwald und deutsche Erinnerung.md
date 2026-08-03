@@ -1,7 +1,7 @@
 ---
 title: "Jens-Christian Wagner — Buchenwald und deutsche Erinnerung"
 date: 20.07.2026
-aktualisiert: 20.07.2026
+aktualisiert: 2026-08-03
 description: "Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist."
 tags:
   - zeitgeist
@@ -255,3 +255,12 @@ Wagners Täterbild — „funktionierende Rädchen", Selbstobjektivierung, „de
 ### → [[Arnd Henze — Bonhoeffer und die Neue Rechte]]
 
 Beide Notes kreisen um den 20. Juli und den Widerstand aus christlich-humanistischer Wurzel — Henze über die Vereinnahmung Bonhoeffers durch die Neue Rechte, Wagner über den Missbrauch der Erinnerung selbst (Schlössers Umdeutung der KZ-Befreiung zum Soldatengedenken). Wagners Schluss über Artikel 1 und Hessels „Engagiert euch" trifft Henzes Frage, wie man Vermächtnisse gegen ihre Kaperung verteidigt.
+
+### → [[GfbV — Jesidische Familien in der Diaspora]]
+
+Der dunkelste Befund dieser Note — dass die Fluchten an der Bevölkerung scheiterten, die Flüchtige auslieferte, nicht am Zaun — hat dort seine Gegenwartsform im Kleinen: Ein Mädchen aus dem Sonderkontingent sagt, es habe Angst, auf die Straße zu gehen, und eine Schülerin verschweigt, dass sie jesidisch ist. Der Staat kann Betten stellen; die Gesichter auf der Straße kann er nicht ändern. Die Referentinnen ziehen daraus dieselbe Konsequenz, die Gedenkstättenarbeit begründet: Die Adresse ist die Mehrheitsgesellschaft.
+
+### → [[Jihan Alomar — Gefangen vom Islamischen Staat]]
+
+Dieselbe Arbeit an zwei Enden der Zeitachse: Dort ist die lebende Zeugin, die selbst in Schulen geht; hier die Institution, die übernehmen muss, wenn keine Zeugen mehr kommen. Dazu eine bittere Parallele — bei Wagner scheitern Fluchten an der Bevölkerung, bei Jihan Alomar gelingt sie nicht durch Recht, sondern durch die Bestechlichkeit eines Täters. Rettung findet in beiden Fällen dort statt, wo keine Institution zuständig ist.
+

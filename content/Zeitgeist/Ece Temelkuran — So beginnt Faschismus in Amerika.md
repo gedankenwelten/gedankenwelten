@@ -292,6 +292,10 @@ Temelkurans Warnung im Vollzug angekommen: Die Sprache, die tödliche Gewalt dec
 
 ---
 
+### → [[Jihan Alomar — Gefangen vom Islamischen Staat]]
+
+Der Begriff *unhomed* findet dort seinen Fall: Jihan Alomar sagt, der Irak sei ihre Heimat und Shingal sei ihre Heimat — und sie wolle nicht mehr dorthin. Heimatlosigkeit als Zustand, nicht als Ortswechsel. Dazu die Umkehrung: Temelkurans Anwalt bat sie, im Exil zu schweigen, Schweigen als Preis des Bleiberechts. Alomar zahlt den umgekehrten Preis und spricht, obwohl es sie gefährdet.
+
 ## Verbindungen
 
 ### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]

@@ -268,3 +268,8 @@ Verfügbare Quellen: Suhrkamp-Ausgaben, englische Originale auf Archive.org (Pub
 - [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Katharina Nocun — KI-Content und die extreme Rechte]] — Der Admin, der „mach sie hübscher" in ein Promptfeld tippt; die 190 koordinierten Fake-Frauen-Netzwerke als verwaltete Infrastruktur — das ist Banalität des Bösen im KI-Zeitalter. Kein Hass, kein Dämon. Nur Workflow.
 - [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]] — Yus Utopie-Vortrag führt Arendts Motiv weiter aus: Nazis, die Goethe lasen; Kant, der die Sklaverei ablehnte und Schwarze herabsetzte. Die „Gedankenlosigkeit" bekommt ein neuronales Substrat (abgeschaltete Mentalisierung) — und mit den Rehumanisierungs-Strategien erstmals ein Gegenprogramm.
 - [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]] — Die Vorgeschichte der Banalitätsthese als Roman von 1906: Törleß, der gebildete Zuschauer, der beim Quälen Erkenntnis sucht, ist die Internatsfassung der Gedankenlosigkeit — und die Kommission, die Protokoll führt und nichts versteht, ihre bürokratische.
+
+### → [[GfbV — Jesidische Familien in der Diaspora]]
+
+Ein Fall für die Herrschaft des Niemand, in dem niemand stirbt. Baden-Württemberg versprach jesidischen Frauen, ihre überlebenden Männer nachzuholen; das Versprechen zerfiel, weil zwischen den Ministerien keine Übereinstimmung zustande kam. Kein Täter, kein Beschluss, keine Adresse — und getrennte Familien bis heute. Arendts Begriff zeigt hier, dass Verantwortungslosigkeit keine Verbrechen braucht, um zu wirken.
+

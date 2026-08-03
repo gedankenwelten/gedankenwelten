@@ -1,7 +1,7 @@
 ---
 title: "Liya Yu — Dehumanisierung und Rehumanisierung"
 date: 18.07.2026
-aktualisiert: 2026-07-18
+aktualisiert: 2026-08-03
 description: "Dehumanisierung ist keine moralische Schwäche, sondern eine Hirnfähigkeit, die wir alle täglich benutzen — und genau darum lässt sie sich steuern, umkehren, verlernen."
 tags:
   - denker
@@ -229,6 +229,10 @@ Yus Mechanismus in Anwendung: Die Gedanken-Note nutzt die mPFC-Abschaltung berei
 Die literarische Urszene, ein Jahrhundert vor dem Hirnscan: Musils Beineberg erklärt 1906, das bloße Menschsein sei „eine bloße äffende, äußerliche Ähnlichkeit" — und die imaginären Zahlen werden im Roman ausgerechnet mit einem Stuhl erklärt, den man einem Abwesenden hinstellt. Was Yu misst, hat Musil erzählt: bis hin zum Zuschauer, dessen Faszination das Mitleid ersetzt.
 
 ---
+
+### → [[GfbV — Jesidische Familien in der Diaspora]]
+
+Beide Pole dieser These in einem Fall. Die Dehumanisierung wurde 2014 vollständig durchgeführt — Versklavung als erklärtes Programm, sexualisierte Gewalt als Mittel der Auslöschung. Die Rehumanisierung führen die Überlebenden selbst aus: Ein jesidischer Jugendlicher sagt in dem Vortrag, es gebe gute und schlechte Jesiden wie gute und schlechte Muslime, man müsse erst den Menschen kennenlernen. Das Hoffnungsprogramm wird von denen praktiziert, die dazu am wenigsten verpflichtet wären.
 
 ## Weiterdenken
 
