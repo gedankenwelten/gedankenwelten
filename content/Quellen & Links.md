@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Arnaud Orain — Kapitalismus der Endlichkeit
+
+| | |
+|---|---|
+| **Gespräch / Video** | [Und was, wenn es nicht für alle reicht?](https://www.youtube.com/watch?v=c1kjZm28fY0) (*Offene Ideen*, ARTE, veröffentlicht 05.08.2026 — Aufzeichnung 12.01.2026) · französisches Original: [Et s'il n'y en avait pas assez pour tout le monde ?](https://youtu.be/cZfRkmuxk5M) (*Les idées larges*) |
+| **Buch zum Gespräch** | Arnaud Orain: *Le monde confisqué. Essai sur le capitalisme de la finitude (XVIᵉ–XXIᵉ siècle)* (Flammarion, 2025) → [Verlag](https://editions.flammarion.com/le-monde-confisque/9782080466570) · [genialokal](https://www.genialokal.de/Suche/?q=orain+monde+confisque) |
+| **Vertiefung (Video)** | [Groenland : le retour du capitalisme prédateur](https://youtu.be/GTInwRQ4tpg) (France Culture, 13.01.2026) · [Guerre des ressources : l'Europe est-elle en train de se faire vassaliser ?](https://youtu.be/GdM3wqM1fzs) (Greenletter Club, 07.06.2026) · [A capitalism of finitude](https://youtu.be/-TD7wjURLJM) (Politika, englisch, 25.02.2025) |
+| **Kritische Rezeption** | [Branko Milanović: Capitalism of finitude](https://branko2f7.substack.com/p/capitalism-of-finitude-pessimism) · [Nicholas Mulder: Interludes of Abundance](https://newleftreview.org/issues/ii155/articles/nicholas-mulder-interludes-of-abundance) (NLR 155) |
+| **Notiz** | [[Arnaud Orain — Kapitalismus der Endlichkeit]] · [[DenkerVita/Arnaud Orain]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Orain_Kapitalismus_Endlichkeit_Transkript.txt` (YouTube-Automatikuntertitel, deutsch — aus dem rohen VTT neu aufgebaut, weil die Standardkonvertierung Sätze verschluckte) |
+
 ## Lukas Bärfuss — Die Fesseln der eigenen Herkunft
 
 | | |

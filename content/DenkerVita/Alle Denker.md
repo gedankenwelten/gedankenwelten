@@ -369,6 +369,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Martin Oetting|Martin Oetting]]** — Marktforscher & politischer Essayist; Postwachstums-Ökonomie, ökonomische Sackgasse als Nährboden des Faschismus, Initiative System Delta
 
+**[[DenkerVita/Arnaud Orain|Arnaud Orain]]** — Wirtschaftshistoriker & Ökonom (EHESS Paris); der Kapitalismus pendelt zwischen liberalen Phasen und einem „Kapitalismus der Endlichkeit“ aus Monopolen, militarisierten Meeren und Landnahme — seit 2010 wieder letzterer
+
 ## P
 
 **[[DenkerVita/Patrick Legun|Patrick Legun]]** — Aktivist, Filmemacher und Lehramtsstudent aus Aachen, Gründer der Hilfsorganisation humanvoll; von „Random Acts of Kindness“ auf Social Media zur Reportage aus den pakistanischen Ziegeleien — Freikauf aus der Schuldknechtschaft, Hilfe mit Mitbestimmung statt Spendenapparat

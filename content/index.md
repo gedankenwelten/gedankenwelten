@@ -50,6 +50,10 @@ Die Gedankenwelten (luc)
 >
 > Nicht die Fahne macht frei, sondern die Bilanz — Prashad liest die Weltordnung von unten und findet Sozialismus in einer Schultoilette in Kerala.
 
+> **07.08.** — [[Denker/Arnaud Orain — Kapitalismus der Endlichkeit|Kapitalismus der Endlichkeit — und was, wenn es nicht für alle reicht?]]
+>
+> Wer glaubt, die Welt reiche nicht für alle, greift zu, bevor ein anderer greift. Arnaud Orain zeigt, dass dieser Griff eine fünfhundertjährige Geschichte hat — und dass Freihandel die Ausnahme war, nicht die Regel.
+
 > **07.08.** — [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
 >
 > Ein Büchner-Preisträger, der mit 16 auf der Straße lebte, weigert sich, seine eigene Geschichte als Heldenreise zu erzählen — und fragt, wem die Herkunft nützt.
@@ -62,11 +66,7 @@ Die Gedankenwelten (luc)
 >
 > Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
 
-> **07.08.** — [[Denker/Souleymane Bachir Diagne — Der Philosoph als Uebersetzer|Souleymane Bachir Diagne — Der Philosoph als Übersetzer]]
->
-> Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
-
-> → *5 weitere in* [[Denker]]
+> → *6 weitere in* [[Denker]]
 
 ### Spuren
 

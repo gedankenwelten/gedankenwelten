@@ -218,6 +218,10 @@ Zhaos These, dass das westfälische Nationalstaatensystem keine negativen Extern
 
 Münklers Satz „Es gibt eine Produktivität von Feindschaft“ hat in Zhaos relationaler Rationalität seine exakte Antithese: nicht Eigeninteresse maximieren, sondern gegenseitige Feindseligkeit minimieren — nicht als Moral, sondern als Stabilitätsbedingung. Wo Münkler die Handlungsunfähigkeit der 27 durch Hierarchisierung heilen will, setzt Tianxia auf Internalisierung der Welt; die Führungsgruppe der fünf ist dessen Gegenteil. Zhao ist zudem die dritte Großerzählung, die in Münklers Gegenüberstellung fehlt: China erscheint dort nur als Gläubiger mit Vetohebel, nie als Entwurf einer Ordnung.
 
+### → [[Arnaud Orain — Kapitalismus der Endlichkeit]]
+
+Orain beschreibt eine Weltordnung, die vom Glauben lebt, es reiche nicht für alle — und gibt am Ende zu, kein drittes Wort jenseits von Überfluss und Macht zu haben. Zhaos relationale Rationalität ist genau dieses dritte Wort: nicht Eigeninteresse maximieren, sondern gegenseitige Feindseligkeit minimieren; die Internalisierung der Welt schließt das Außen, in das Orains Akteure greifen. Die Ironie: Der Aufstieg von Zhaos Land ist für Orain der Auslöser der westlichen Endlichkeitswende.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

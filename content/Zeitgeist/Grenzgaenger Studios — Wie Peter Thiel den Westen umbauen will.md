@@ -270,6 +270,10 @@ Die 3sat-Doku liefert die Ideengeschichte zu der hier rekonstruierten Machtakkum
 
 Münkler nennt Thiel beiläufig als Beleg dafür, dass die USA ins Katechontische rücken — diese Note ist die ausgeführte Fassung jener Fußnote. Thiels Antichrist-Vorträge arbeiten mit demselben Denkbild: eine Weltordnung, die dem Ende entgegengeht, und ein Aufhalter, der sie bremst; nur kommt der Antichrist bei ihm mit dem Versprechen von „Frieden und Sicherheit“. Damit wird Münklers Sorge vor einer amerikanisch-russischen Koalition konkret — sie bräuchte keine Werteverwandtschaft, nur dieselbe Apokalyptik.
 
+### → [[Arnaud Orain — Kapitalismus der Endlichkeit]]
+
+Die wirtschaftshistorische Tiefenschärfe zu dieser Recherche. Für Orain erfindet Thiel mit *Zero to One* nichts, sondern reaktiviert die merkantilistische Doktrin des 17. Jahrhunderts, nach der nicht der Wettbewerb den Kapitalismus antreibt, sondern das Monopol. Und Chaudhrys „State-Made Milliardär" hat in Orains Rahmen einen Namen: die Ostindienkompanie — ein Konzern, dessen Marktmacht ein staatliches Privileg ist und der dafür hoheitliche Aufgaben übernimmt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

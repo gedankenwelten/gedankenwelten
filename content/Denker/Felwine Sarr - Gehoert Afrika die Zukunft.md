@@ -246,6 +246,10 @@ Shiva mobilisiert wie Sarr eigenes, verbundenes Wissen gegen die Monokultur des 
 
 Akalas Rundreise durch Kusch, Timbuktu und Great Zimbabwe liefert das historische Fundament für Sarrs Forderung, Afrika solle aus eigenen Quellen schöpfen: Die Quellen waren immer da — die koloniale Erzählung hat sie unsichtbar gemacht. Restitution und Haitis erpresste Goldfrancs sind dieselbe Rechnung.
 
+### → [[Arnaud Orain — Kapitalismus der Endlichkeit]]
+
+Die Gegenprobe auf Sarrs Utopie. Orain beschreibt, wie Staatsbetriebe aus den Emiraten und China Ackerland in Afrika kaufen, Saatgut stellen und die Ernte abtransportieren, ohne dass die Waren je einen Markt durchlaufen — Landnahme ohne Flagge und ohne Kolonialverwaltung. Genau die Bewegung, die den Kontinent wieder zum Objekt macht, während *Afrotopia* ihn zum Subjekt erklären will. Sarrs Ökonomie der Beziehung ist zugleich eine Antwort auf die Leerstelle, die Orain offen lässt: wie eine endliche Welt geteilt wird, ohne dass der Stärkere zuerst greift.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

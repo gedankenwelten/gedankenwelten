@@ -226,3 +226,7 @@ Brown (2015) und Varoufakis sind Stationen derselben Diagnose: Brown beschreibt,
 
 Die 3sat-Doku zeigt die Selbsterzählung, die Varoufakis' Diagnose verdeckt: Rands schöpferischer Held als Kostüm einer Rentiersklasse, die nichts mehr erschafft, sondern Plattformen besitzt — und mit Próspera und Seasteading ihre feudalen Lehen gleich mitbaut.
 
+### → [[Arnaud Orain — Kapitalismus der Endlichkeit]]
+
+Dieselbe Zeitenwende, eine andere Ursache. Orain datiert den Bruch auf die 2010er wie Varoufakis auf 2008, hält aber dagegen, dass der Kapitalismus nicht gestorben sei, sondern in einen Modus zurückgefallen, den er seit dem 16. Jahrhundert beherrscht: Monopol, Zoll, bewaffnete Handelsmarine. Wo Varoufakis' Ursache technologisch ist, ist Orains physisch — die Welt gilt als zu klein. Beide treffen sich bei Gütern, die den Markt nie berühren: „amazon.com ist kein Markt" und aufgekauftes Ackerland, dessen Ernte nie in eine Preisbildung eingeht.
+
