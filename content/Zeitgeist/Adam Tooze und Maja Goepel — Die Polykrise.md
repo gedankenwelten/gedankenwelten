@@ -391,6 +391,10 @@ Die Fortsetzung von Göpels Biodiversitäts-Frage in der Praxis. Wo Göpel die E
 
 Was aus Göpels WBGU-Vorschlag geworden ist. Sie hatte Sensorik, großmaßstäbliches Monitoring und Simulation gefordert, um ökologische Sollbruchstellen bearbeitbar zu machen, und sich dafür von beiden Seiten Widerstand geholt. Jahre später steht ein Messtechnik-Konzern damit auf einer Bühne — und die Note zeigt, was der Weg dorthin mit dem Argument gemacht hat: Aus „wir müssen die Natur endlich bilanzieren" ist „unsere Sensoren retten sie" geworden, und der Vortrag endet beim Arbeitskräftemangel und humanoiden Robotern. Göpels härtester Satz — wer den Status quo will, muss nur verhindern, dass gerechnet wird — bekommt dort eine unbequeme Ergänzung: Es wird gerechnet, nur wächst das Geschäft des Rechnenden am stärksten in Rüstung und Bergbau, und beides kommt im Vortrag nicht vor.
 
+### → [[Arnaud Orain — Kapitalismus der Endlichkeit]]
+
+Die unbequeme Ergänzung zur ökologischen Diagnose. Orain hält fest, dass „auch die zügellosesten Kapitalisten" die Knappheit längst verstanden haben — und daraus nicht Suffizienz ableiten, sondern den Griff nach dem Rest. Die Erkenntnis der Endlichkeit ist ein Befund ohne eingebaute Ethik. Damit bekommt Toozes Frage, ob die grüne Modernisierung als westliche Standardantwort noch trägt, eine schärfere Fassung, und Göpels digital-finanziell-militärischer Komplex eine fünfhundertjährige Vorgeschichte.
+
 ---
 
 ## Weiterdenken

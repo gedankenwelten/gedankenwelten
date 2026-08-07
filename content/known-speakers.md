@@ -902,3 +902,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Gerald Knaus
 **Status:** ✓ Vollanalyse — [[DenkerVita/Gerald Knaus]]
+
+## Arnaud Orain
+**Status:** ✓ Vollanalyse — [[DenkerVita/Arnaud Orain]]

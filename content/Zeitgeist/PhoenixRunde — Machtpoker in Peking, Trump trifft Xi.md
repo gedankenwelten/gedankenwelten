@@ -239,6 +239,10 @@ Zhao Tingyangs Tianxia-Konzept ist Chinas philosophische Antwort auf die liberal
 
 Die PhoenixRunde nennt KI-Regulierung als ungelöste Frage des Xi-Trump-Gipfels. Morpheus liefert das technische Substrat: Chinas "Deliberate Industrial Scale Campaigns" zum Abgreifen westlicher KI-Systeme sind exakt das, was Xi Trump als Verhandlungsmasse nicht auf den Tisch legt.
 
+### → [[Arnaud Orain — Kapitalismus der Endlichkeit]]
+
+Was hier als Gipfelchoreografie sichtbar wird, ist bei Orain die Signatur einer Epoche: Eine liberale Phase endet, weil die Sieger von gestern schlechte Verlierer sind, die es nicht ertragen, im eigenen Spiel geschlagen zu werden. Sein China lässt genau das ausrichten, was Xi in Peking nicht sagen muss — wendet doch selbst an, was ihr uns gelehrt habt. Zugleich stützt der Abend den Haupteinwand gegen Orain: Branko Milanović erklärt die Wende schlicht mit dem Hegemonieverlust, und Chinas Anteil an der Weltwirtschaft (1820: 30 Prozent, dann 3, heute 17) kommt ohne einen einzigen erschöpften Rohstoff aus.
+
 ---
 
 ## Weiterdenken

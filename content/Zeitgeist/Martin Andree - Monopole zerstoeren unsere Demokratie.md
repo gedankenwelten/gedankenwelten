@@ -246,6 +246,10 @@ Dieselbe „Machtverklumpung“ aus Tech-Monopolen und Trump-Regierung, dieselbe
 Hans *Infokratie* ist die philosophische Fassung von Andrees Befund: Die Echtzeitkommunikation der Plattformen zersetzt die langsame Demokratie (Deliberation, Vertrauen, Versprechen). Andrees Entflechtung und Hans *Zeitpolitik* sind zwei Rezepte gegen dieselbe Machtverklumpung.
 - [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]] — Jägers Hype-Kollektive entstehen auf genau der monopolisierten Plattform-Infrastruktur, die Andree vermisst: Die gefallenen Kosten des politischen Ausdrucks zahlen ihre Dividende an zwei Konzerne.
 
+### → [[Arnaud Orain — Kapitalismus der Endlichkeit]]
+
+Der offene Widerspruch zu Andrees hoffnungsvollster These. Für ihn stehen Monopole auf abschaffbaren Rechtsprivilegien — „nichts ist leichter zu ändern als Monopole". Orain beschreibt Monopole dagegen als Signatur einer Epoche, die erst kippt, wenn ein Hegemon seinen Rang gewinnt oder verliert; Kartellrecht wirkt bei ihm nur in liberalen Phasen und verstummt in den anderen von selbst. Dass Lina Khans FTC nicht an juristischen Argumenten scheiterte, sondern an einer Wahl, spricht eher für Orain — Andrees Telekom-Beispiel dagegen für die Machbarkeit.
+
 ---
 
 ## Weiterdenken

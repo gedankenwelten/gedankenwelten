@@ -151,3 +151,7 @@ Die Seeblockade in der Praxis: Statt 100 Schiffen pro Tag fahren nur noch 2 unte
 ### → [[Markus Reisner — Strasse von Hormus fragil]]
 
 Reisner liefert die operative Perspektive: Irans Moskitoflotte und Minenkrieg als asymmetrische Antwort auf die Seeblockade
+
+### → [[Arnaud Orain — Kapitalismus der Endlichkeit]]
+
+Der historische Rahmen für diese Eskalation. Orain nennt die Militarisierung der Handelswege als zweites Merkmal seines „Kapitalismus der Endlichkeit": In liberalen Phasen garantiert ein Hegemon die freie Fahrt, in räuberischen wird sie zum Gegenstand des Zugriffs. Die Blockade gegen Schiffe aller Nationen und Irans Durchfahrtsgebühren in der Meerenge sind in dieser Lesart keine Ausreißer eines Konflikts, sondern die Rückkehr eines Zustands — und die Fußnote „Völkerrecht interessiert hier niemanden mehr" markiert den Verlust genau des Rechtsguts, das die liberale Ordnung konstituierte.
