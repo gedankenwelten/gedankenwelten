@@ -2,7 +2,7 @@
 title: "Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi"
 date: 2026-06-10
 description: "Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft."
-aktualisiert: 2026-08-01
+aktualisiert: 2026-08-07
 tags:
   - denker
   - dekolonisierung
@@ -255,6 +255,10 @@ Diagnes laterales Universales ist der strukturelle Zwilling von Ch'ixi: Bewegung
 ### → [[Isabel Wilkerson — Race Caste and Social Justice]]
 
 Cusicanquis symbolische Extraktion indigener Kultur ist Wilkersons Kasten-Wachdienst aus anderer Himmelsrichtung: Die dominante Gruppe schmückt sich, ohne die Rangordnung anzutasten. Ihr Ch'ixi-Denken hält dagegen die Kontradiktion aus, wo Wilkerson auf Auflösung der Hierarchie zielt.
+
+### → [[Vijay Prashad — Marxismus als Methode]]
+
+Prashads Satz, unfrei mache „nicht der eigene Geist, sondern die Strukturen da draußen", ist die direkteste Absage an den internalisierten Kolonialismus im ganzen Korpus — und er widerlegt sich selbst, wenn er von *cultures of cruelty* spricht: wie man mit der Person redet, die im Haus arbeitet, wie über Muslime geredet wird. Das ist die Kette der Scharniere in indischem Idiom, und es ist sein Eingeständnis, dass die Linke diesen Boden nicht allein pflügen kann. Wo er den Sozialismus dann aber an einem Kabinettsbeschluss in Kerala beweist, beginnt der zweite Streit: Für sie wäre die fürsorgliche Verwaltung nicht der Beleg, sondern der Verdachtsfall.
 
 ## Weiterdenken
 

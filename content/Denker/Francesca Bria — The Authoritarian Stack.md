@@ -230,3 +230,8 @@ Brias These der „privatisierten Souveränität" bekommt hier ihre konkrete Geg
 ### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
 
 Die 3sat-Doku liefert die Ideengeschichte zu Brias Struktur-Diagnose: *Privatized Sovereignty* konkret als Yarvins „Reboot", Thiels Exit-Städte und Palantirs Regierungsdatenbanken — Bria benennt den Stack, die Doku die Denker dahinter.
+
+### → [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]]
+
+Geraldine de Bastion beschreibt denselben Stack von unten — Seekabel, Betriebssysteme, Internetzugänge und Rechenzentren in einer Hand, bis hinein in die Innovationszentren afrikanischer Länder. Brias Kingmaker-Netzwerk erscheint dort aus der Empfängerperspektive: als Abhängigkeit von philanthropischen Geldgebern, die ihr Geld mit denselben Daten machen und digitale Pluralität eher unterdrücken. Die Machtkarte bekommt so ihre Handlungsseite — und die Praxis ihr Bild vom Ganzen.
+

@@ -381,6 +381,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Pankaj Mishra|Pankaj Mishra]]** — indischer Essayist, Romancier und Ideenhistoriker (*1969, Jhansi); autodidaktischer postkolonialer Kritiker des westlichen Liberalismus, schreibt für LRB/NYRB; Kernthese in *Age of Anger* (2017): das Ressentiment als Signatur der Moderne, die globale Wut als Erbe des gebrochenen Aufklärungsversprechens (Rousseau gegen Voltaire); *From the Ruins of Empire* (2012), *The World After Gaza* (2025)
 
+**[[DenkerVita/Vijay Prashad|Vijay Prashad]]** — indischer Historiker, Journalist und Marxist (*1967, Kolkata); Direktor von Tricontinental: Institute for Social Research, Chefredakteur LeftWord Books; die Dritte Welt als *Projekt* statt als Ort (*The Darker Nations*, 2007), Hyperimperialismus, „neue Stimmung im Globalen Süden“, Kerala als gelebtes Beispiel — quellenreich nach außen, umstritten wegen seiner Haltung zu China, Syrien und Venezuela
+
 ## Q
 
 **[[DenkerVita/Volker Quaschning|Volker Quaschning]]** — Ingenieur und Professor für Regenerative Energiesysteme (HTW Berlin, seit 2004); Autor des Standardwerks *Regenerative Energiesysteme*, Mitinitiator von Scientists for Future, Podcast *Das ist eine gute Frage* — bewusst aktivistischer Wissenschaftskommunikator der Energiewende

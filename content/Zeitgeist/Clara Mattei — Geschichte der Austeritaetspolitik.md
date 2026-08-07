@@ -274,3 +274,7 @@ Matteis historischer Befund operationalisiert Browns Theorie: Was Brown als "ste
 
 Der schärfste Widerspruch im Bestand. Beckert verteidigt den Arbeitsvertrag als Errungenschaft gegenüber dem körperlichen Zwang; Matteis Archivarbeit zeigt, dass genau diese Vertragsordnung nach 1919 mit Streikverboten und Zinsschocks wiederhergestellt werden musste. Und beide erzählen die Zwischenkriegszeit gegensätzlich: Für Beckert war 1941 offen, welche Vision gewinnt — Mattei zeigt liberale Ökonomen, die Mussolinis Programm bejubelten.
 
+### → [[Vijay Prashad — Marxismus als Methode]]
+
+Matteis Zentralbank-Unabhängigkeit als Entdemokratisierung ist das Verfahren, mit dem Prashads Frage — „nicht die Planung, sondern: wer plant?" — der Abstimmung entzogen wird; und ihre These, Austerität sei kein Politikfehler, sondern Systemfunktion, ist dieselbe Lesart, mit der er den „Konjunkturzyklus" in Krisenzyklen umtauft. Am dichtesten berühren sie sich bei ihrer Beobachtung, Militärausgaben seien die politisch sichere Form der Staatsökonomie: Das ist Prashads Hyperimperialismus nach innen gedreht.
+

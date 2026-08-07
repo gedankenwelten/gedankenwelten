@@ -6,6 +6,23 @@ tags:
   - links
 ---
 
+## Vijay Prashad — Marxismus als Methode
+
+| | |
+|---|---|
+| **Gespräch / Video** | [Marxism as Method: Vijay Prashad on Power, Planning & the Global South](https://www.youtube.com/watch?v=LRcbuZzL_hA) (*Dark Matter, Bright Minds*, Kindle Cast, Gespräch mit Pritha Kejriwal, 2026) |
+| **Notiz** | [[Vijay Prashad — Marxismus als Methode]] · [[DenkerVita/Vijay Prashad]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Prashad_Marxism_Method_Transkript.txt` (YouTube-Automatikuntertitel, englisch) |
+
+## Decolonize the Digital — Wem gehört die Infrastruktur
+
+| | |
+|---|---|
+| **Panel / Video** | [Decolonize the Digital: From Connectivity to Collective Solidarity](https://www.youtube.com/watch?v=Dy7zOlKJ2YM) (re:publica 26, Berlin, 20.05.2026 — CC BY-SA 4.0) |
+| **Session-Seite** | [re-publica.com](https://re-publica.com/de/session/decolonize-digital-connectivity-collective-solidarity) |
+| **Notiz** | [[Decolonize the Digital — Wem gehoert die Infrastruktur]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Decolonize_Digital_rp26_Transkript.txt` (YouTube-Automatikuntertitel, englisch) |
+
 ## Gesellschaft für bedrohte Völker — Jesidische Familien in der Diaspora
 
 | | |

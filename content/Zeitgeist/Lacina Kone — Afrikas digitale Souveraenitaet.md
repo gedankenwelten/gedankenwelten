@@ -260,6 +260,10 @@ Das Panorama beschreibt *privatisierte Souveränität* — die Tech-Oligarchie, 
 
 Das philosophische Fundament von Konés Souveränitätsforderung: Sarrs utopisches Bewusstsein — Afrika als Subjekt der eigenen Geschichte, nicht Objekt fremder Diskurse — buchstabiert Koné technologisch aus. Beide Fäden laufen zudem nach Ruanda: Koné über Smart Africa/Kigali, Sarr über Gacaca und den Völkermord.
 
+### → [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]]
+
+Konés Warnung, Daten dürften nicht zum neuen Rohstoff werden, geht in diesem Panel einen Schritt zurück zum alten: Kave Bulambo, geboren in der DR Kongo, nimmt *dekolonisieren* wörtlich und landet beim Kobalt, bevor sie die Linie über die Datenarbeit in Kenia und Indien in die KI-Gegenwart zieht. Dieselbe Diagnose, zwei Etagen — Koné verhandelt Souveränität als Chef einer Staatenallianz, das Panel buchstabiert sie für Organisationen ohne jede Verhandlungsmacht durch.
+
 ---
 
 ## Weiterdenken
