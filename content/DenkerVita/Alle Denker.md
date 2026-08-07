@@ -57,6 +57,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## B
 
+**[[DenkerVita/Lukas Baerfuss|Lukas Bärfuss]]** — Schweizer Schriftsteller, Dramatiker und Essayist (Georg-Büchner-Preis 2019); Autodidakt ohne Schulabschluss, als Jugendlicher obdachlos, schlug das Schulden-Erbe des Vaters aus — schreibt über Herkunft als Fessel, Erben als politischen Skandal und die Selbstgerechtigkeit der Schweiz
+
 **[[DenkerVita/Sven Beckert|Sven Beckert]]** — Historiker (Laird Bell Professor, Harvard); Globalgeschichte des Kapitalismus, „Kriegskapitalismus“ — Sklaverei, Landraub und Gewalt als konstitutive Grundlage des Kapitalismus, nicht als seine Vorgeschichte
 
 **[[DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026

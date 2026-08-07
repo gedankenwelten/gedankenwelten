@@ -520,3 +520,7 @@ Das theoretische Fundament dieser Note, jetzt in der Utopie-Fassung: Yu erklärt
 ### → [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]
 
 Das literarische Urdokument dieser These, 1906: Ein Elite-Internat als Verrohungsmaschine, in der wohlerzogene Söhne die Folgenlosigkeit ihrer Macht als erste Lektion lernen. Reiting hält den Ertappten verfügbar statt ihn anzuzeigen, die Institution bestraft am Ende das Opfer und behält die Täter — Musil nannte die beiden später die „Diktatoren in nucleo".
+
+### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+
+Derselbe Habitus, vom anderen Ende der Leiter. Wo Eliteschulen jungen Menschen beibringen, Privilegien als natürlich zu *erleben*, führt Bärfuss vor, wie sich das Fehlen dieser Natürlichkeit anfühlt: Der Ehrendoktor liegt in seiner Hand, und ihm fehlt das Wissen, wie man ihn trägt. Der Vorsprung liegt in der Selbstverständlichkeit, nicht im Titel.

@@ -207,6 +207,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Benjamin Biersky
 **Status:** ✓ Vollanalyse → [[DenkerVita/Benjamin Biersky]]
 
+## Lukas Bärfuss
+**Status:** ✓ Vollanalyse → [[DenkerVita/Lukas Baerfuss]]
+
 ## Bijan Moini
 **Status:** ✓ Vollanalyse → [[DenkerVita/Bijan Moini]]
 

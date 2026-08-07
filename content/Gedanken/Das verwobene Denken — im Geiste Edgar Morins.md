@@ -107,6 +107,10 @@ Dieselbe Diagnose der Zersplitterung, die entgegengesetzte Antwort: Lyotard feie
 
 ---
 
+### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+
+Bärfuss führt die *dialogique* am eigenen Leib vor: durch die Herkunft determiniert (der Habitus bis in die Zahnstellung) und trotzdem frei, beides gleichzeitig, ohne Auflösung. Er nennt es einen produktiven Widerspruch und liefert dazu die Formel, die diesem Gedanken fehlte — man muss sich zuerst zuwenden, um sich entfernen zu können.
+
 ## Weiterdenken
 
 > [!question] Was bleibt zu bedenken

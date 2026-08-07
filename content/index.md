@@ -50,6 +50,10 @@ Die Gedankenwelten (luc)
 >
 > Nicht die Fahne macht frei, sondern die Bilanz — Prashad liest die Weltordnung von unten und findet Sozialismus in einer Schultoilette in Kerala.
 
+> **07.08.** — [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+>
+> Ein Büchner-Preisträger, der mit 16 auf der Straße lebte, weigert sich, seine eigene Geschichte als Heldenreise zu erzählen — und fragt, wem die Herkunft nützt.
+
 > **07.08.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
 >
 > Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
@@ -62,11 +66,7 @@ Die Gedankenwelten (luc)
 >
 > Wenn kein Logos mehr über den Sprachen thront, bleibt nur die Bewegung zwischen ihnen — Diagnes laterales Universales: Übersetzung als die Sprache aller Sprachen.
 
-> **03.08.** — [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Liya Yu — Dehumanisierung und Rehumanisierung]]
->
-> Dehumanisierung ist keine moralische Schwäche, sondern eine Hirnfähigkeit, die wir alle täglich benutzen — und genau darum lässt sie sich steuern, umkehren, verlernen.
-
-> → *4 weitere in* [[Denker]]
+> → *5 weitere in* [[Denker]]
 
 ### Spuren
 

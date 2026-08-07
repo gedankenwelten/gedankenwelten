@@ -254,6 +254,10 @@ Akalas Frage nach dem Besitz des Lehrplans findet ihr US-Pendant in Crenshaws �
 Akala zeigt, dass Rassenwissenschaft produziert wurde, weil eine Ökonomie sie brauchte. Darity beobachtet dieselbe Bewegung in der Gegenwart: die Rückkehr der Rasse als biogenetisches Konstrukt durch die Hintertür der Genomik, über rassenspezifische Krankheiten und Medikamente. Bei beiden entlastet die Biologisierung, statt zu erklären.
 
 ---
+### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+
+Zwei Autodidakten ohne Abschluss, die sich das Recht auf die eigene Erzählung nehmen — mit entgegengesetzten Schlüssen. Für Bärfuss ist die fehlende Überlieferung Armut, die zum Werkzeug wird („die Wahrheit hat etwas Totalitäres“); für Akala ist sie produzierte Auslöschung, gegen die er mit Herodot und Grabungsbefunden eine belegbare Wahrheit zurückerobert.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

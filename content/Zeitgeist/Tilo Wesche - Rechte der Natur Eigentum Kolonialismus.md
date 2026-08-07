@@ -440,6 +440,10 @@ Der Gegenweg zu Wesches Vorschlag, an derselben Lücke ansetzend. Die Tropenöko
 
 Die technische Gegenwart von Wesches historischem Befund. Ein Messtechnik-Konzern nennt Vermessung „die menschlichste aller Technologien" und meint das Positive — Wesche erklärt, warum der Satz stimmt und dabei mehr sagt, als er soll: Erst das Vermessen macht Land teilbar und zuschreibbar, und das koloniale Kartieren erklärte als herrenlos, was nur nicht nach europäischem Recht vermessen war. Der Katasterplan ist der Vorläufer des digitalen Zwillings, und Deutschland wird gerade flächendeckend als solcher erfasst. Wesches Kernargument bekommt dort außerdem einen Prüffall: Die Mangrove verschwand nicht, weil sie unmessbar gewesen wäre, sondern weil sie niemandem gehörte und deshalb in keiner Rechnung stand — genau die Leerstelle, die er mit dem Rechtssubjekt Natur schließen will.
 
+### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+
+Bärfuss benennt genau die Lücke, die Wesche schließen will: Das Erbrecht kennt keinen Eintrag für die Atmosphäre, das CO₂ bleibt herrenloses Gut. Er bleibt dort stehen, wo Wesche weitergeht — Natur als Rechtssubjekt. Umgekehrt zeigt Wesches Eigentumskritik die Rückseite, die Bärfuss übersieht: Wer alles zuordnet, öffnet auch den Handel damit.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
