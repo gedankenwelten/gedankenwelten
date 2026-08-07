@@ -187,6 +187,10 @@ Dieselbe Frage aus der anderen Weltreligion: Was ist Religion — Identitätsord
 
 Wilkerson ist Ambedkars amerikanische Antwort, 74 Jahre nach seinem Brief an Du Bois: Sie nimmt sein „not only natural but necessary" wörtlich und liest die USA als drittes Kastensystem. Seine Ontologie der Staffelung bekommt bei ihr die Phänomenologie — King in Kerala, die getrennte Bibel, der Lastenaufzug.
 
+### → [[Vijay Prashad — Marxismus als Methode]]
+
+Prashad ist der marxistische Historiker, der Ambedkars Einwand annimmt, statt ihn zu verwalten: Sein Verlag gibt Ambedkars Text über Indien und den Kommunismus heraus, und seine Erklärung dafür, dass progressive Politik im Süden Indiens Fuß fasste, ist der frontale Angriff auf die Kastenhierarchie — „der Boden in Indien muss gepflügt werden, und er kann nicht von der Linken selbst gepflügt werden". Damit liefert er die späte Antwort der Linken auf *Kaste teilt nicht Arbeit, sondern Arbeitende* — und lässt zugleich offen, was Roy hier anmerkt: dass die Führung dieser Linken noch immer überwiegend aus privilegierten Kasten kommt.
+
 ---
 
 ## Weiterdenken

@@ -2,7 +2,7 @@
 title: "Ngũgĩ wa Thiong'o — Decolonizing the American University"
 description: "Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört."
 date: 05.07.2026
-aktualisiert: 07.07.2026
+aktualisiert: 07.08.2026
 tags:
   - denker
   - kalender
@@ -224,6 +224,10 @@ Akalas Oxford-Union-Vortrag ist die Vorgeschichte zu Ngũgĩs Universitätskriti
 ### → [[Sven Beckert — Kapitalismus als Weltrevolution]]
 
 Ngũgĩs Satz, moderner Kapitalismus und Rassismus seien voneinander geboren worden, ist Beckerts These in ihrer knappsten Form — bei Beckert ist Barbados 1670 die reine Form, bei Ngũgĩ die Kolonie die Geburtsurkunde. Beide fragen zudem, wem die Eliteuniversität gehört: Beckert bestätigt von innen, dass Harvard Eliten reproduziert; Ngũgĩ argumentiert, dass die Hierarchie sich in den Wissenssystemen selbst fortschreibt.
+
+### → [[Vijay Prashad — Marxismus als Methode]]
+
+Prashad hat für Ngũgĩs Leitfrage ein Wort und eine Rechnung: *Fahnenunabhängigkeit* — das Territorium wird frei, die Bilanz nicht, und 1991 muss Indien sein Gold nach London fliegen, um sich eigenes Geld leihen zu dürfen. Beide berufen sich auf dieselben Zeugen (Smith und Marx bei Ngũgĩ, Naoroji und Ambedkar bei Prashad, überall derselbe *drain of wealth*), stehen aber im Zentrum gegeneinander: Prashads Satz, unfrei mache „nicht der eigene Geist, sondern die Strukturen da draußen", ist die glatte Verneinung von *Decolonising the Mind*.
 
 ---
 

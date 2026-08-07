@@ -247,6 +247,10 @@ Varoufakis' Beobachtung, dass Finanzsysteme demokratischer Deliberation entzogen
 
 Krastevs Unterscheidung von Disruption (vorübergehende Störung) und Rupture (echter Bruch) gibt der historischen Diagnose einen Rahmen: Die Eurocard-Übernahme 2003 war eine Disruption — still und schmerzhaft. Ein Abschneiden vom Visa/Mastercard-Netzwerk wäre ein Rupture — irreversibel. Krastevs Warnung, dass Europa systemische Risiken als korrigierbare Betriebsunfälle behandelt, spiegelt sich direkt im langsamen parlamentarischen Prozess wider, den Gehring & Gießmann beschreiben.
 
+### → [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]]
+
+Vero als Enttäuschungsmanöver ist die europäische Großform dessen, was Katrin Hünemörder in diesem Panel für Beteiligungsverfahren formuliert: Man darf über die Farbe des Stoffs entscheiden, nicht über die Form des Stuhls. Und Geraldine de Bastions Vorwurf, Europa predige digitale Souveränität und liefere keine Alternativen, findet hier seine Erklärung — in einer Lobbying-Asymmetrie von 58 zu 1 und einer Souveränität, die Europa 2003 besaß und verkaufte.
+
 ---
 
 ## Weiterdenken

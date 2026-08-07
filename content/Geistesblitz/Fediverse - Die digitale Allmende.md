@@ -207,6 +207,10 @@ Bria und Wähner beschreiben komplementäre Ebenen desselben Problems: Bria kart
 
 DiResta erklärt, warum Stockmanns Karawane von Plattform zu Plattform weiterzieht: Ihre „Rewarding Extremity"-These zeigt, dass kommerzielle Algorithmen Engagement durch Radikalisierung maximieren — und dass dieses Design Bindungskraft erzeugt, die keine Architekturprinzipien ersetzen. Das Fediverse löst DiRestas „Reality Fragmentation"-Problem prinzipiell (chronologische Timeline, keine Engagement-Optimierung) — und verliert genau deshalb die Nutzer, die Wähner zurückgewinnen will. Beide beschreiben eine Gesellschaft, in der die Infrastruktur des Diskurses bestimmt, wer gehört wird — DiResta auf der Inhalts-, Wähner auf der Eigentumsebene.
 
+### → [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]]
+
+Wähners Vorschlag, Vereine und NGOs zu Trägern der Infrastruktur zu machen, wird in Neukölln gerade gebaut — ein Digital Hub auf dem Dach eines NGO-Zentrums, das den NGOs selbst gehört, betrieben auf Matrix, Nextcloud und Discourse. Die Praktikerinnen dort bestätigen zugleich die unbequeme Seite dieser Note: Alternativen existieren, werden aber weniger benutzt, weil ihnen die Intuitivität fehlt oder schlicht das Geld für Bekanntheit — und weil Fördermittel Werkzeuge finanzieren, nie den gemeinsamen Betrieb.
+
 ---
 
 ## Weiterdenken

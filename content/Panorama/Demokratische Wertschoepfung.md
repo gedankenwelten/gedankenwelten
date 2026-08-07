@@ -202,6 +202,10 @@ Die Plattformgenossenschaft findet im Fediverse ihren konkreten Präzedenzfall: 
 
 Bendsens „Collective Impact“ (viele Akteure schlagen gemeinsam dieselbe Richtung ein) findet hier seine historische Vertiefung: Ostroms Allmende-Forschung belegt, dass gemeinschaftliche Ressourcenverwaltung keine Utopie ist, sondern eine verdrängte Wirtschaftsform.
 
+### → [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]]
+
+Kave Bulambos Satz *„uns gehören diese Plattformen nicht"* ist die Diagnose, für die die Plattformgenossenschaft die strukturelle Antwort wäre — und ihr Prüfstein für echte Machtumverteilung (Zugang zu Finanzierung, eigenes Budget, umgesetzte Entscheidung) liest sich wie eine Kurzfassung dessen, was Genossenschaftsrecht formalisiert. Das Berlin Global Village zeigt daneben die Bodenfrage als Voraussetzung: Wer digitale Souveränität will, fängt bei bezahlbaren Quadratmetern an, hier über einen Hundertjahresvertrag in NGO-Hand.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

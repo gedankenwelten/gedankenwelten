@@ -260,6 +260,10 @@ Die beiden Notes treffen sich an einem konkreten Ort: New York als Baumwollstadt
 
 Der Praxistest für Beckerts kategoriale Unterscheidung. Er besteht darauf, dass vertraglicher Zwang etwas anderes ist als körperlicher — man wird bezahlt, man kann theoretisch gehen, man versklavt nicht die eigenen Kinder. In den Ziegeleien von Lahore trifft jede dieser drei Bedingungen auf ihre Grenze: Bezahlt wird, aber der Lohn geht an die Schuld; gehen darf man, aber das Gelände ist die Wohnung; und die Schuld erbt sich auf die Kinder. Die Note zeigt damit, dass Beckerts Grenze real ist und wo sie ausfranst.
 
+### → [[Vijay Prashad — Marxismus als Methode]]
+
+Beckerts Schlussdiagnose — der Neoliberalismus habe den Kapitalismus *naturalisiert* — bekommt bei Prashad ihre sprachliche Mechanik: „Markt" als Synonym für Kapitalismus („sehr cleveres Branding"), „Konjunkturzyklus" als Wort, das die Krise zum Wetter erklärt. Auch der Ursprung deckt sich, Barbados 1670 und der koloniale *drain of wealth* sind dieselbe Geburtsurkunde. Nur am Ende trennen sie sich: Beckert überlässt die Alternative bewusst den Lesern, Prashad hält die Frage für gestellt und beantwortet — von *ob* geplant wird auf *wer*.
+
 ---
 
 ## Weiterdenken

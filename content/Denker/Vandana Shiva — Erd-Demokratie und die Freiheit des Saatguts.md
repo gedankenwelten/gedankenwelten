@@ -233,4 +233,9 @@ Erkenntnistheoretischer Unterbau: Morins *Terre-Patrie* und sein Denken gegen di
 
 Die produktivste Reibung zu Shivas *production boundary*. Die Tropenökologin Fischer will die Natur genau dort hineinholen, wo Shiva die Wurzel des Übels sieht — in die Bilanz. Ihr Argument, dass ein Großteil der zugelassenen Medikamente auf Naturstoffe zurückgeht, verhandelt dasselbe Verhältnis, das Shiva am Neem-Patent als Biopiraterie beschreibt: Was für die eine ein Schutzargument ist, ist für die andere die Zugriffsgeste selbst, *bio nullius*. Und das Gorilla-Wallet, das nach gemessenem Ökosystemzustand an indigene Gemeinschaften auszahlt, wäre für Shiva vermutlich die Fortsetzung der Aneignung mit freundlichem Gesicht — während Fischer nüchtern sagt, sie habe aufgehört, auf Einsicht zu warten. Beide Notes zusammen stellen die Frage, die keine von beiden allein beantwortet: ob man etwas schützen kann, indem man es bepreist, oder ob der Preis schon die Enteignung ist.
 
+### → [[Vijay Prashad — Marxismus als Methode]]
+
+Der innerindische Gegenpol. Shivas *Seed Freedom* denkt Gandhis Salz weiter — Swadeshi im Register des Korns; Prashad steht auf Ambedkars Seite und fragt beim Spinnrad und beim idealisierten Dorf zurück, wer dort unten bleibt. Ihre *production boundary* und seine erste Methodenfrage (*wem nützt es, wer trägt die Kosten*) richten sich gegen dieselbe Kennzahl, aber ihre Maßstäbe sind unvereinbar: Er trauert der geschlossenen Planungskommission nach und lobt staatliche Großkonzerne im Wettbewerb, sie sieht die extraktive Vernunft schon in der Großform selbst.
+
 ---
+

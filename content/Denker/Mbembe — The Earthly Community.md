@@ -254,6 +254,10 @@ Akalas Fallstudie zur Hamiten-Theorie zeigt konkret, wie die Fabrikation „Rass
 
 Wilkersons „Rasse ist die brillante Ablenkung" und Mbembes Auflösung der Rassengrenzen greifen ineinander: Rasse als junge, gemachte Kategorie. Mbembe setzt fort, wo Wilkerson endet — nach der Diagnose der Teilung die Frage der Reparatur, des „being with others".
 
+### → [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]]
+
+Kave Bulambos Befund, die Tech-Industrie operiere auf kolonialen Rahmenwerken, ist Mbembes Denkfigur in der Betriebstemperatur des Alltags: vom Kobalt aus dem Kongo über die Datenarbeit in Kenia bis zu einem Anteil von einem Prozent in der deutschen Tech-Branche. Die Reibung lohnt sich — Mbembe denkt planetarisch und stellt Zugehörigkeit selbst zur Debatte, das Panel rechnet in Budgetzeilen und benennt, was diese Arbeit an psychischer Gesundheit kostet.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
