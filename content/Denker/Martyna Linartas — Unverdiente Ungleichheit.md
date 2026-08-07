@@ -225,3 +225,6 @@ Wilkersons Kaste und Linartas' Erbengesellschaft sind Zwillinge: vererbte, unver
 
 Der transatlantische Zwilling. Dieselbe methodische Weichenstellung — Vermögen als Bestandsgröße statt Einkommen als Flussgröße —, und das Grunderbe ist der europäische Bruder von Daritys und Hamiltons Baby Bonds. Der Unterschied liegt in der Anfangsbedingung: Die Erbengesellschaft hat Klassenlagen als Ausgangswerte, Darity hat eine Gruppe, deren Ausgangswert per Gesetz null war, während die Halter entschädigt wurden.
 
+### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+
+Bärfuss' ausgeschlagenes Erbe — Schulden und eine Bananenkiste — ist der Negativabdruck der Erbengesellschaft, die Linartas beziffert. In der Konsequenz gehen beide auseinander: Sie will das Erbe fiskalisch umverteilen, er verschiebt die Frage auf das, was niemandem gehört und darum von keiner Erbschaftsteuer erfasst wird — das CO₂ als herrenloses Gut.

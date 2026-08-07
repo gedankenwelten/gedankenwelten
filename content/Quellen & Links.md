@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Lukas Bärfuss — Die Fesseln der eigenen Herkunft
+
+| | |
+|---|---|
+| **Gespräch / Video** | [Lukas Bärfuss: Die Fesseln der eigenen Herkunft sprengen](https://www.youtube.com/watch?v=EaMtTYfrO1w) (*Sternstunde Philosophie*, SRF Kultur, 27.11.2022 — Moderation Barbara Bleisch) |
+| **Buch zum Gespräch** | Lukas Bärfuss: *Vaters Kiste. Eine Geschichte über das Erbe* (Rowohlt, 2022) → [genialokal](https://www.genialokal.de/Suche/?q=baerfuss+vaters+kiste) |
+| **Notiz** | [[Lukas Baerfuss — Die Fesseln der eigenen Herkunft]] · [[DenkerVita/Lukas Baerfuss]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Baerfuss_Herkunft_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
 ## Vijay Prashad — Marxismus als Methode
 
 | | |

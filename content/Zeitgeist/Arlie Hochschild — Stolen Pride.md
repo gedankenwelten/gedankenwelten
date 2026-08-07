@@ -228,6 +228,10 @@ Von unten und von oben auf denselben Nährboden: Wo Hochschild die emotionale Ch
 
 ---
 
+### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+
+Bärfuss zerschneidet das Stolz-Paradox an der Wurzel. Wer den Erfolg dem eigenen Willen zuschreibt, muss auch das Scheitern dort verbuchen — er schreibt sich schon den Erfolg nicht zu, sondern Gesundheit, Nicht-Sucht und Glück. Wo Pikeville seine Scham an einen Demagogen verkauft, der sie in Fremdschuld verwandelt, kommt er ohne beides aus.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

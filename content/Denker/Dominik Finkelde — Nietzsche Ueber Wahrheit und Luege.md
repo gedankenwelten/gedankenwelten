@@ -179,3 +179,7 @@ Die Gouvernementalitäts-Analyse ist eine direkte Anwendung von Nietzsches These
 ### → [[Denker/scobel — Lyotard das Ende der Wahrheit]]
 
 Lyotard ist einer der Züge, die von Finkeldes "Drehscheibe Nietzsche" abfahren. Das postmoderne Misstrauen gegenüber Metaerzählungen ist die direkte Weiterführung von Nietzsches These: Wahrheit ist ein bewegliches Heer von Metaphern. Die Finkelde-Note vergleicht Nietzsche bereits mit Habermas — dieselbe Spannung, die auch den Lyotard-Habermas-Konflikt strukturiert.
+
+### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+
+Bärfuss' Satz „Die Wahrheit hat etwas Totalitäres“ ist die praktische Kurzfassung dessen, was Finkelde an Nietzsche entfaltet: Wahrheit als gesellschaftlicher Friedensschluss, als erstarrte Metapher. Und Bärfuss bleibt genau an der Gabelung stehen, die Finkelde markiert — Habermas' Geltungsanspruch oder Nietzsches raffiniertere Täuschung.

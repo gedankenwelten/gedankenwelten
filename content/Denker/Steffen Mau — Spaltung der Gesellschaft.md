@@ -269,3 +269,6 @@ Grenzen verschwinden nicht — sie werden zu *Sortiermaschinen*: Smart Borders f
 
 - [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas]] — Maus *Sortiermaschinen* beschreiben die Architektur, die Knaus voraussetzt: befestigte Grenzen, gestaffelte Mobilitätsrechte, kaum eine offene EU-Außengrenze mehr. Knaus will diese Anlage human machen statt abbauen — Mau liefert die Beschreibung dessen, was da human gemacht werden soll. Und die Polarisierungsunternehmer, die Sollbruchstellen suchen und groß machen, sind die Akteure für Knaus' offen liegenden Hebel: ein Ventil in Nordafrika, ein paar Videos, ein Krisenstab in Kopenhagen.
 
+### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+
+Der Sortiermaschinen-Befund bekommt bei Bärfuss ein Gesicht: Der Schweizer Schriftsteller, der als Jugendlicher obdachlos war, nennt den Pass den entscheidenden Faktor seines Lebens und die 20.000 im Mittelmeer Ertrunkenen die eigentliche Herkunftsfrage. Zugleich ist er die Gegenprobe zu Maus Befund, dass der Leistungsglaube unten am festesten sitzt — der Aufsteiger, der sich weigert, den eigenen Aufstieg als Verdienst zu lesen.
