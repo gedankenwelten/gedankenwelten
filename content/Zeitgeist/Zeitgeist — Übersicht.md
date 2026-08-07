@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*279 Notes — automatisch generiert · nach Thema sortiert*
+*280 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -330,6 +330,7 @@ Jede Note folgt einer eigenen Struktur:
 
 ### KI & Technologie
 
+- [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]] — Vier Praktikerinnen fragen, was Souveränität heißt, wenn Kabel, Betriebssystem und Rechenzentrum anderen gehören — und wo das Kobalt herkommt.
 - [[Zeitgeist/Markus Gabriel — Ethische Intelligenz (scobel)|Markus Gabriel — Ethische Intelligenz: Warum der Westen KI völlig falsch versteht]]
 - [[Zeitgeist/republica26 — Social-Media-Verbot fuer Kinder|re:publica 26 — Offline per Gesetz: Social-Media-Verbot für Kinder?]] — Schutz ist die Voraussetzung für Befähigung, nicht ihr Gegenteil — über suchtgefährdete Jugendliche und Plattformen, die das ausnutzen.
 
