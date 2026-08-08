@@ -300,6 +300,10 @@ Die Ölpreis- und Düngemittelkrise als Kriegsfolge, die Lange skizziert, ist ge
 - [[Walther Ziegler — Smith in 60 Minuten]] — Smiths Freihandelsharmonie vs. Flassbecks Nachweis: Handelsüberschüsse erzeugen systematisch Verlierer
 - [[Walther Ziegler — Rawls in 60 Minuten]] — Flassbeck liefert die makroökonomischen Daten zu Rawls' Differenzprinzip
 
+### → [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+
+Geteilte Diagnose, unvereinbare Therapie. Herrmann teilt Flassbecks Keynes und seine Kausalkette vom Lohndruck zum Rechtsruck bis in die Formulierung hinein — ihre AfD-Beobachtung, größte Arbeiterpartei mit neoliberalem Programm, ist genau sein Befund. Sie bestreitet aber die Voraussetzung seiner Lösung: Nachfragepolitik hilft nur, wenn die Produktion ihr folgen kann, und ihre Kostenrechnung für synthetische Energie sagt, dass sie das nicht mehr kann. Damit steht die Frage im Raum, ob der Keynesianismus ein Instrument für Krisen ist oder eines für Wachstumsökonomien.
+
 ---
 
 ## Weiterführend

@@ -264,6 +264,10 @@ Der Praxistest für Beckerts kategoriale Unterscheidung. Er besteht darauf, dass
 
 Beckerts Schlussdiagnose — der Neoliberalismus habe den Kapitalismus *naturalisiert* — bekommt bei Prashad ihre sprachliche Mechanik: „Markt" als Synonym für Kapitalismus („sehr cleveres Branding"), „Konjunkturzyklus" als Wort, das die Krise zum Wetter erklärt. Auch der Ursprung deckt sich, Barbados 1670 und der koloniale *drain of wealth* sind dieselbe Geburtsurkunde. Nur am Ende trennen sie sich: Beckert überlässt die Alternative bewusst den Lesern, Prashad hält die Frage für gestellt und beantwortet — von *ob* geplant wird auf *wer*.
 
+### → [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+
+Die Gegenprobe auf die Definitionsfrage, mit hohem Einsatz. Herrmann setzt Kapitalismus mit Industrialisierung und damit mit fossiler Energie gleich und leitet daraus ab, dass er mit dem billigen Öl endet. Beckerts Zuckerinsel, auf der der Kapitalismus vor jeder Maschine vollständig funktionierte, schneidet diese Ableitung durch: Was sie als Systemende beschreibt, wäre in seiner Lesart ein Wechsel der Mobilisierungsform — wie die Abolition einer war, die das System nicht beendete.
+
 ---
 
 ## Weiterdenken

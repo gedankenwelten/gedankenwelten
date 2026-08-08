@@ -203,6 +203,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Herfried Münkler|Herfried Münkler]]** — Politikwissenschaftler, bis 2018 Professor für Theorie der Politik an der HU Berlin; *Die neuen Kriege* (Entstaatlichung, Asymmetrisierung, Autonomisierung), postheroische Gesellschaft, Imperium vs. Hegemonie, Deutschland als ungewollte Zentralmacht; *Welt in Aufruhr* (2023), *Macht im Umbruch* (2025)
 
+**[[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]** — Wirtschaftsjournalistin (*taz*), gelernte Bankkauffrau, Historikerin und Philosophin; grünes Schrumpfen statt grünem Wachstum, die britische Kriegswirtschaft 1940 als Modell einer privaten demokratischen Planwirtschaft, technisch machbar ≠ ökonomisch effizient; Keynesianerin gegen Marx *und* Neoliberale, die beide Ausbeutung für das Funktionsprinzip halten; *Das Ende des Kapitalismus* (2022), *Geld als Waffe* (2026)
+
 ## I
 
 **[[DenkerVita/Immanuel Kant|Immanuel Kant]]** — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, "Was ist Aufklärung?"

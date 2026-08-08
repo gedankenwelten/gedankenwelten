@@ -220,6 +220,10 @@ Bendsen seziert auf Unternehmensebene dieselbe Bewertungsblindheit, die Göpel/T
 
 Shivas Kritik an der *production boundary*, die Care-Arbeit und Subsistenz als „unproduktiv“ ausblendet, ist dieselbe Vermessungslücke des BIP, die Göpel/Truger freilegen — Ökofeminismus trifft Wachstumskritik.
 
+### → [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+
+Der Einwand gegen die dritte Option. Wo Göpel und Truger die Frage wachsen-oder-schrumpfen mit „Transformation" überspringen, hält Herrmann dagegen, dass Transformation die Effizienz senkt und gesenkte Effizienz volkswirtschaftlich Schrumpfen heißt — die dritte Option sei die zweite unter freundlicherem Namen. Ihre Übereinstimmung liegt bei der Rolle des Staates, ihr Bruch bei der Frage, ob sich der Umbau finanzieren lässt oder nur verteilen.
+
 ## Faktencheck
 
 > [!success] Bestätigt — Achim Truger ist Sachverständigenrats-Mitglied

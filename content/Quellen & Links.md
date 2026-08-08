@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar
+
+| | |
+|---|---|
+| **Primärquelle** | [Expertin warnt: USA vor Bürgerkrieg, China am Abgrund, Russland zerfällt](https://www.youtube.com/watch?v=IAIRwBmvJ_0) (*DER STANDARD — Thema des Tages*, 13.07.2026, 90:29 — Interview: Schorsch Wilhelm) |
+| **Bücher** | Ulrike Herrmann: *Das Ende des Kapitalismus. Warum Wachstum und Klimaschutz nicht vereinbar sind* (2022) → [genialokal](https://www.genialokal.de/Suche/?q=herrmann+das+ende+des+kapitalismus) · *Geld als Waffe. Wie die Wirtschaft über Krieg und Frieden entscheidet* (2026) → [genialokal](https://www.genialokal.de/Suche/?q=herrmann+geld+als+waffe) · *Kein Kapitalismus ist auch keine Lösung* (2016) → [genialokal](https://www.genialokal.de/Suche/?q=herrmann+kein+kapitalismus+ist+auch+keine+loesung) |
+| **Widersprochene These** | Yanis Varoufakis: *Technofeudalism. What Killed Capitalism* (2023) → [genialokal](https://www.genialokal.de/Suche/?q=varoufakis+technofeudalism) — Herrmann widerspricht ihr im Gespräch namentlich |
+| **Notiz** | [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar]] · [[DenkerVita/Ulrike Herrmann]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Herrmann_Kapitalismus_Kollaps_Transkript.txt` (deutsch, Automatikuntertitel) |
+
 ## Ray Dalio — Der große Zyklus und die Rechnung Amerikas
 
 | | |

@@ -152,6 +152,10 @@ Der eingebaute Gegner. Flassbeck lässt die Zahlen stehen und bestreitet ihre Be
 
 Beschreibt denselben Mechanismus — Notenbankgeld hebt Vermögenspreise und rettet damit die Besitzenden — und liest ihn als Herrschaftswechsel statt als Bauart. Für diese Spur relevant, weil Varoufakis' Lesart eine andere Erwartung erzeugt: Eine Ordnung, die den Vermögenden nützt, hat kein Interesse daran zusammenzubrechen, und wird deshalb eher in die finanzielle Repression laufen als in den Krach. Das wäre Bedingung 5 ohne Bedingung 1 bis 4.
 
+### → [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+
+Die alternative Ursache, die dieselben Indikatoren erzeugen könnte. Herrmann erklärt Amerikas Schwäche politisch und institutionell statt monetär — Polarisierung, Zollschäden, ausgehöhlte Verwaltungskompetenz — und hält den Schaden für real, aber gebremst durch die strategische Unfähigkeit des Amtsinhabers. Für den Gleichmut-Spiegel gehört das mitgeführt: Schlägt eine Schwelle an, bestätigt das die Zeitreihe, nicht die Kausalkette dahinter.
+
 ---
 
 ## Quellen

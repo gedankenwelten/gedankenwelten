@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **08.08.** — [[Denker/Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+>
+> Die Physik kennt keinen Rabatt. Wer sie ernst nimmt, landet bei einer Rechnung, die niemand aufmachen will — und bei Mächtigen, die alle schon in ihrer eigenen Falle sitzen.
+
 > **08.08.** — [[Denker/Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
 >
 > Ein Milliardär behauptet, der Niedergang von Weltmächten sei messbar wie ein Blutdruck. Sein Modell trägt weiter, als seine Popularisierer es tragen lassen — und weiter, als ihm selbst lieb ist.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Büchner-Preisträger, der mit 16 auf der Straße lebte, weigert sich, seine eigene Geschichte als Heldenreise zu erzählen — und fragt, wem die Herkunft nützt.
 
-> **07.08.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
->
-> Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
-
-> → *7 weitere in* [[Denker]]
+> → *8 weitere in* [[Denker]]
 
 ### Spuren
 
