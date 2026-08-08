@@ -219,3 +219,7 @@ Operation Freedom als innenpolitische Farce: Trump unterminiert am selben Tag se
 ### → [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
 
 Der Bundestalk analysiert die Hormuz-Blockade als geopolitische Zäsur — die PhoenixRunde zeigt, wie genau diese Blockade Chinas Machtinstrument (Seltene Erden, Eisenbahnroute) und Trumps Schwäche im Xi-Gipfel bedingt. Mikro-Ökonomie und Makro-Geopolitik desselben Konflikts.
+
+### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
+
+Dieselbe Suez-Analogie, unabhängig gezogen: Dalio erreicht sie über die Ökonomie und über das, was ihm asiatische Regierungschefs sagen, die taz-Runde über die Militärtechnik der asymmetrischen Kriegsführung. Zusammen ergeben beide Wege Dalios These, dass militärische Stärke zuerst eine Frage ökonomischer Substanz ist. Sein Taiwan-Beispiel ist der Hormus-Fall ohne einen einzigen Schuss.

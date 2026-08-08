@@ -315,6 +315,10 @@ Der innerindische Streit, den der Anlass dieser Note bereits aufmacht. Shiva den
 
 Prashads Verschiebung — „Die Frage ist nicht die Planung. Die Frage ist, wer plant" — findet bei Mattei ihre institutionelle Antwort: Zentralbank-Unabhängigkeit ist genau das Verfahren, mit dem diese Frage der Abstimmung entzogen wird. Ihre These, Austerität sei kein Politikfehler, sondern das notwendige Werkzeug des Kapitalismus, ist dieselbe Systemlesart, mit der er den „Konjunkturzyklus" in Krisenzyklen umbenennt: Was wie Missgeschick aussieht, ist Funktion. Am dichtesten berühren sie sich an einer Stelle, die keiner von beiden ausbaut — Matteis Beobachtung, Militärausgaben seien die politisch sichere Form der Staatsökonomie, weil sie Privatinvestoren subventionieren, ohne Marktabhängigkeit zu lockern, ist Prashads Hyperimperialismus nach innen gedreht. Und sein Schock über die geschlossene indische Planungskommission wird in ihrem Rahmen lesbar als das, was er war: kein Verwaltungsakt, eine Entwaffnung.
 
+### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
+
+Dalios acht Machtgrößen von unten gelesen ergeben Prashads Hyperimperialismus: Militärmacht wird zum ökonomischen Instrument, gerade weil die ökonomische Konkurrenz verloren ist. Prashads drei Fragen — wem nützt es, wer trägt die Kosten, wer entscheidet über „alternativlos“ — sind genau die, die Dalios Mechanik-Vokabular unstellbar macht. Sein Kapitel über den gekaperten Begriff „Markt“ beschreibt dieselbe sprachliche Operation.
+
 ---
 
 ## Weiterdenken

@@ -278,3 +278,7 @@ Der schärfste Widerspruch im Bestand. Beckert verteidigt den Arbeitsvertrag als
 
 Matteis Zentralbank-Unabhängigkeit als Entdemokratisierung ist das Verfahren, mit dem Prashads Frage — „nicht die Planung, sondern: wer plant?" — der Abstimmung entzogen wird; und ihre These, Austerität sei kein Politikfehler, sondern Systemfunktion, ist dieselbe Lesart, mit der er den „Konjunkturzyklus" in Krisenzyklen umtauft. Am dichtesten berühren sie sich bei ihrer Beobachtung, Militärausgaben seien die politisch sichere Form der Staatsökonomie: Das ist Prashads Hyperimperialismus nach innen gedreht.
 
+### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
+
+Was bei Mattei ein Klassenprojekt ist, steht bei Dalio als „Weg 1: Kürzen“ — eine von vier technisch gleichwertigen Optionen. Ihre Pointe trifft ihn dort, wo er nie hinsieht: Die Unabhängigkeit der Zentralbank ist für ihn bloß der Rahmen, in dem die Maschine läuft; bei Mattei ist sie der Ort, an dem Verteilungsentscheidungen aus der Reichweite von Wahlen gehoben wurden.
+

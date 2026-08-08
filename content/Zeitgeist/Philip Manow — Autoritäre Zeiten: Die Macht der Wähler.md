@@ -345,6 +345,10 @@ Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblö
 
 Marinićs Ohnmachtsgefühl — das demokratische Versprechen der Mitbestimmung als gebrochenes Versprechen — ist dieselbe Erfahrung wie Manows Souveränitätsverlust durch EU/WTO-Verlagerung. Steinkes "Kamikaze-Lösungen" für 30% AfD-Umfragen sind Manows strukturelle Protestwahl-Logik. Das Debattenproblem Deutschland, das Manow ("erbärmlicher Zustand politischer Kultur") und Steinke/Marinić ("Lösungslust statt Schaufenster-Debatte") unabhängig voneinander benennen, ist ein gemeinsamer blinder Fleck.
 
+### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
+
+Geteilte Ursache, gegensätzliche Diagnose. Beide erklären den autoritären Zug strukturell-ökonomisch statt psychologisch — der Verteilungsdruck zerlegt den Kompromiss. Dann trennen sie sich: Dalio zieht die Linie zu Caesar, Mussolini und Hitler und datiert den Übergang auf drei bis fünf Jahre innerhalb der Regeln der Demokratie; Manow hält den Autoritarismus-Diskurs selbst für ein Werkzeug der Gewinnerklasse.
+
 ## Weiterführend
 
 - **Philip Manow**: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp, 2023)

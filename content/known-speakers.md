@@ -905,3 +905,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Arnaud Orain
 **Status:** ✓ Vollanalyse — [[DenkerVita/Arnaud Orain]]
+
+## Ray Dalio
+**Status:** ✓ Vollanalyse — [[DenkerVita/Ray Dalio]]

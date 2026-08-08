@@ -107,3 +107,7 @@ Truger (ebenfalls Sachverständigenrat-Mitglied, Gegenpol zu Grimm) vertritt die
 
 Butterwegge beschreibt die Verteilungsseite dessen, was Flassbeck makroökonomisch erklärt: Wenn der Staat spart statt investiert, wächst die Ungleichheit. Flassbecks Zinskreislauf zeigt, *warum* Staatsschulden nicht per se schlecht sind — Butterwegge zeigt, *was passiert*, wenn der Staat trotzdem spart.
 
+### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
+
+Der direkte Gegenfall. Dalios Untergangsrechnung setzt voraus, dass Staatsschuld eine Last ist, die irgendwohin abfließt — genau den Ausgang, den Flassbecks geschlossener Zinskreislauf bestreitet. Kurios ist die gemeinsame Wurzel: Beide gehen von derselben Saldenmechanik aus („Deine Ausgaben sind das Einkommen eines anderen“), Flassbeck zieht sie konsequent durch, Dalio bricht sie an der Staatsgrenze ab.
+
