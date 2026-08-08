@@ -146,7 +146,7 @@ Die Mutternote dieser Spur. Dort steht das Denken in seiner Breite — die Masch
 
 ### → [[Heiner Flassbeck — Die Wahrheit ueber Staatsschulden]]
 
-Der eingebaute Gegner. Flassbeck bestreitet nicht die Zahlen, sondern ihre Bedeutung: Ein Staat in eigener Währung ist kein Haushalt, der Zinskreislauf ist geschlossen. Wenn Flassbeck recht hat, kann Dalios Arithmetik vollständig stimmen und trotzdem nichts von dem folgen, was er erwartet. Diese Spur wird auch zu einer Probe auf diese Differenz.
+Der eingebaute Gegner. Flassbeck lässt die Zahlen stehen und bestreitet ihre Bedeutung: Ein Staat in eigener Währung ist kein Haushalt, der Zinskreislauf ist geschlossen. Wenn Flassbeck recht hat, kann Dalios Arithmetik vollständig stimmen und trotzdem nichts von dem folgen, was er erwartet. Diese Spur wird auch zu einer Probe auf diese Differenz.
 
 ### → [[Yanis Varoufakis — Technofeudalism]]
 

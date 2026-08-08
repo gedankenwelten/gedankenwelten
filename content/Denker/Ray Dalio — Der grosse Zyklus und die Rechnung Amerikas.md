@@ -327,7 +327,7 @@ Der deutsche Essay übernimmt den ersten Teil und lässt den zweiten weg. Damit 
 
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
-Die engste und schärfste Verbindung im Bestand. Beide beschreiben denselben Vorgang — die Notenbanken kauften nach 2008 Wertpapiere, also stiegen die Kurse, also wurde reicher, wer schon besaß. Varoufakis liest darin die Geburtsstunde des Cloud-Kapitals, einen Herrschaftswechsel von Profit zu Tribut. Dalio liest darin die Bauart einer Maschine. Der Streit geht nicht um die Fakten, sondern um die Grammatik: Varoufakis' Satz hat ein Subjekt, Dalios nicht. Wer die Verteilungswirkung als Mechanik beschreibt, hat sie damit auch schon aus der Reichweite politischer Entscheidung geschoben. Varoufakis' „Doom Loop" der in der Falle sitzenden Zentralbanken ist zudem Dalios vierter Weg, von der anderen Seite betrachtet.
+Die engste und schärfste Verbindung im Bestand. Beide beschreiben denselben Vorgang — die Notenbanken kauften nach 2008 Wertpapiere, also stiegen die Kurse, also wurde reicher, wer schon besaß. Varoufakis liest darin die Geburtsstunde des Cloud-Kapitals, einen Herrschaftswechsel von Profit zu Tribut. Dalio liest darin die Bauart einer Maschine. Die Fakten sind dabei unstrittig; der Streit betrifft die Grammatik. Varoufakis' Satz hat ein Subjekt, Dalios nicht. Wer die Verteilungswirkung als Mechanik beschreibt, hat sie damit auch schon aus der Reichweite politischer Entscheidung geschoben. Varoufakis' „Doom Loop" der in der Falle sitzenden Zentralbanken ist zudem Dalios vierter Weg, von der anderen Seite betrachtet.
 
 ### → [[Heiner Flassbeck — Die Wahrheit ueber Staatsschulden]]
 
