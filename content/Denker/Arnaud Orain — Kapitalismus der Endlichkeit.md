@@ -318,6 +318,10 @@ Die Gegenthese der Rezensenten, als Szene. Milanović hält Orains Knappheits-Ka
 
 Zwei Fünfhundert-Jahre-Bögen mit derselben niederländischen Fallhöhe und unvereinbarer Geometrie: bei Dalio ein Zyklus mit Reihenfolge und damit einer Prognose, bei Orain ein Pendel mit zwei Zuständen und der Frage, welcher gerade herrscht. Beide lesen dieselben Zeichen — Grönland, Zölle, militarisierte Meerengen —, aber Orain nennt Trumps Zugriff Schwäche, wo Dalio ihn als Phasensymptom führt.
 
+### → [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+
+Die materielle Unterfütterung des Pendels und zugleich sein Gegenprogramm. Orains Endlichkeit ist eine Weltanschauung, die den Griff auslöst; Herrmanns ist eine Energiebilanz, die unabhängig davon gilt — und sie zieht daraus das gerechte Verteilen des Knappen nach britischem Vorbild 1940 statt der Landnahme. Zwischen beiden liegt die unangenehmste Frage der Debatte: Warum sollten Akteure, die die Grenzen längst begriffen haben, sich für die Rationierung entscheiden?
+
 ---
 
 ## Weiterdenken

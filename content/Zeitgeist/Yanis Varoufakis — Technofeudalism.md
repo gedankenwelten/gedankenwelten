@@ -234,3 +234,7 @@ Dieselbe Zeitenwende, eine andere Ursache. Orain datiert den Bruch auf die 2010e
 
 Dalio beschreibt denselben Vorgang — Notenbankgeld hebt Wertpapierkurse, also wird reicher, wer schon besaß — und nennt ihn die Bauart einer Maschine statt einen Herrschaftswechsel. Die Gegenprobe auf das Cloud-Kapital: Der Streit geht nicht um die Fakten, sondern um die Grammatik. Varoufakis' Satz hat ein Subjekt, Dalios nicht.
 
+### → [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+
+Der direkteste Widerspruch im Bestand, im Gespräch namentlich vorgetragen. Herrmann bestreitet nicht die Cloud-Rente, sondern ihre Stabilisierbarkeit: Wer Leibeigene hat, hat keine Kunden mehr, und Facebook lebt von Werbung für Leute mit Geld. Ihr Vorwurf zielt auf die geteilte Prämisse mit Marx — dass Ausbeutung das System trage —, wo bei ihr steigende Löhne dessen Betriebsbedingung sind. Wer beide liest, muss entscheiden, ob Tribut eine neue Ordnung ist oder ein Kapitalismus, der sich selbst falsch versteht.
+

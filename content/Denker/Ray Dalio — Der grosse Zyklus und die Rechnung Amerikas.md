@@ -361,6 +361,10 @@ Dieselbe Analogie, unabhängig voneinander gezogen: die Straße von Hormus als S
 
 Diese Note friert ein, was Dalio denkt. Die Spur prüft, ob er recht behält. Sie nimmt den einen datierten Satz aus dem Bloomberg-Interview — das verwundbarste Fenster liege zwischen den Zwischenwahlen und der Präsidentschaftswahl — und übersetzt ihn in fünf vorab registrierte Schwellen an öffentlich abrufbaren Zeitreihen. Startkonfidenz vierzig Prozent: Der Mechanismus überzeugt, das Datum nicht.
 
+### → [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+
+Der Gegenentwurf zur Zyklusform. Dalios vier Wege aus der Schuldenfalle setzen voraus, dass am Ende wieder eine Wachstumsphase steht; Herrmanns Rechnung sagt, dass die Energie für diese Phase fehlt und sinkende Effizienz volkswirtschaftlich Schrumpfen heißt. Bemerkenswert ist die Überschneidung im Werkzeugkasten: Was Dalio finanzielle Repression nennt und als Vorboten des Verfalls führt, heißt bei ihr Rationierung und ist der geordnete Ausweg. Der Streit geht um die Frage, ob dieselben Maßnahmen eine Diagnose sind oder ein Programm.
+
 ---
 
 ## Weiterdenken

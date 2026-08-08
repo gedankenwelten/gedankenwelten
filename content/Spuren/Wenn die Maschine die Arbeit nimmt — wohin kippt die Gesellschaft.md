@@ -136,6 +136,10 @@ Das Paradox der Dystopie — die Mächtigen als Gefangene ihres eigenen Systems 
 
 Ein harter Datenpunkt für das Seil, gesprochen vom Hersteller selbst: AEON, ein humanoider Roboter, steht seit Juni 2026 im BMW-Werk Leipzig an realen Produktionsaufgaben in der Hochvoltbatterie-Montage. Interessanter als die Maschine ist die Begründung — nicht Kostensenkung, sondern fehlende Menschen: repetitive Arbeit wolle niemand mehr machen, in der Landwirtschaft fehlten „irgendwie 20 Prozent" der Stellen, und für die Rückverlagerung der Fertigung aus China gebe es keine Arbeitskräfte. Der Faktencheck der Note findet für diese 20 Prozent keine Grundlage. Damit ist genau die Erzählung markiert, an der die Spur mitliest: Wenn der Business Case für humanoide Robotik daran hängt, dass niemand mehr da ist, wird das Fehlen von Menschen zur Behauptung mit Geschäftsinteresse.
 
+### → [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+
+Die Stimme, die das Seil für dünner hält, als es aussieht. Herrmann bestreitet die Größenordnung: KI sei eine normale Technikwelle plus eine Bewertungsblase, und ein Kapitalismus, der seine eigenen Kunden abschafft, frisst sich selbst — ein ökonomischer Selbstkorrekturmechanismus, den die Spur bisher nicht führt. Ihre Unterscheidung zwischen Börsen- und Immobiliencrash gehört als Maßstab dazu, falls ein Platzen der Blase als Datenpunkt eingeht.
+
 ## Quellen
 
 *Pilot — die Quellenbasis wächst mit den Sweeps. Erste Anker:*

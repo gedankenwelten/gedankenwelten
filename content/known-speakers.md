@@ -908,3 +908,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Ray Dalio
 **Status:** ✓ Vollanalyse — [[DenkerVita/Ray Dalio]]
+
+## Ulrike Herrmann
+**Status:** ✓ Vollanalyse — [[DenkerVita/Ulrike Herrmann]]
