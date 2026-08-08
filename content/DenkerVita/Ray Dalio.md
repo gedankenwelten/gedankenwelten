@@ -73,7 +73,7 @@ Persönlichkeitswerkzeug *PrinciplesYou*.
   2022, über 195 Millionen Aufrufe. 500 Jahre Weltmachtzyklen im Zeitraffer, mit den acht Machtgrößen als
   laufender Kurve.
 - [How Countries Go Broke: The Big Cycle](https://www.youtube.com/watch?v=2pa0trbk_no) — 2025, die animierte
-  Fassung des Schuldenzyklus-Buchs: warum Staaten nicht durch Bankrott sterben, sondern durch Entwertung.
+  Fassung des Schuldenzyklus-Buchs: warum Staaten an der Entwertung ihres Geldes sterben, nicht am Bankrott.
 - [Ray Dalio with David Rubenstein — How Countries Go Broke](https://www.youtube.com/watch?v=eGtGKk0E_qk) — 92nd
   Street Y, New York. Gespräch statt Animation; hier wird nachgefragt.
 - [Ray Dalio: Warum Amerika gerade den Weg aller Weltmächte geht](https://www.youtube.com/watch?v=ACCCGKz_dzk) —
