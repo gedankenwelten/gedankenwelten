@@ -228,3 +228,7 @@ Der transatlantische Zwilling. Dieselbe methodische Weichenstellung — Vermöge
 ### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
 
 Bärfuss' ausgeschlagenes Erbe — Schulden und eine Bananenkiste — ist der Negativabdruck der Erbengesellschaft, die Linartas beziffert. In der Konsequenz gehen beide auseinander: Sie will das Erbe fiskalisch umverteilen, er verschiebt die Frage auf das, was niemandem gehört und darum von keiner Erbschaftsteuer erfasst wird — das CO₂ als herrenloses Gut.
+
+### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
+
+Dalios Satz „Vermögen ist nicht Geld“ meint dieselbe Unterscheidung wie Linartas' Trennung von Vermögens- und Einkommensungleichheit und zieht die entgegengesetzte Konsequenz: bei ihm ein Liquiditätsproblem, bei ihr ein Machtproblem. Ihre These, dass Vermögenskonzentration die Demokratie untergräbt, liefert die kausale Brücke, die Dalio zwischen Schuldenzyklus und Demagogen-Kapitel offenlässt.

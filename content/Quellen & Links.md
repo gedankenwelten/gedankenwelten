@@ -6,6 +6,20 @@ tags:
   - links
 ---
 
+## Ray Dalio — Der große Zyklus und die Rechnung Amerikas
+
+| | |
+|---|---|
+| **Primärquelle (Modell)** | [How Countries Go Broke: The Big Cycle](https://www.youtube.com/watch?v=2pa0trbk_no) (*Principles by Ray Dalio*, 05.06.2025, 41:30 — Dalio liest Kapitel 8 seines Buchs vollständig vor) |
+| **Primärquelle (Lage 2026)** | [Ray Dalio on US Debt, AI Bubble, Bond Markets](https://www.youtube.com/watch?v=Al0SLSS4vmw) (*Bloomberg Television*, 03.06.2026, 13:19 — Interview mit Dani Burger auf dem Forbes Iconoclast Summit, New York) |
+| **Vermittlung (deutsch)** | [Ray Dalio: Warum Amerika gerade den Weg aller Weltmächte geht](https://www.youtube.com/watch?v=ACCCGKz_dzk) (*DominiksDesk*, 06.08.2026, 43:50 — Video-Essay; die Note vergleicht ihn mit den Primärquellen) |
+| **Bücher** | Ray Dalio: *How Countries Go Broke. The Big Cycle* (2025) → [genialokal](https://www.genialokal.de/Suche/?q=ray+dalio+how+countries+go+broke) · *Principles for Dealing with the Changing World Order* (2021) → [genialokal](https://www.genialokal.de/Suche/?q=ray+dalio+changing+world+order) · *Principles for Navigating Big Debt Crises* (2018) · *Principles. Life and Work* (2017) |
+| **Weitere Videos** | [Principles for Dealing with the Changing World Order](https://www.youtube.com/watch?v=xguam0TKMw8) (2022, 43 Min, animiert) · [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) (2013, 31 Min) |
+| **Kritische Rezeption** | Rob Copeland: *The Fund. Ray Dalio, Bridgewater Associates and the Unraveling of a Wall Street Legend* (2023) → [genialokal](https://www.genialokal.de/Suche/?q=rob+copeland+the+fund) |
+| **Daten zur Spur** | [Debt to the Penny](https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny) (US-Finanzministerium) · [FRED DGS10](https://fred.stlouisfed.org/series/DGS10) · [DGS2](https://fred.stlouisfed.org/series/DGS2) · [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) · [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) · [TreasuryDirect Auktionsergebnisse](https://www.treasurydirect.gov/auctions/announcements-data-results/) |
+| **Notiz** | [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas]] · [[DenkerVita/Ray Dalio]] · Spur: [[Dalios Fenster — Amerikas Schuldenlast bis November 2028]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Dalio_BigCycle_HowCountriesGoBroke_Transkript.txt` (englisch) · `Dalio_Bloomberg_USDebt_AIBubble_Transkript.txt` (englisch) · `Dalio_DominiksDesk_Weltmaechte_Transkript.txt` (deutsch, Automatikuntertitel — stellenweise stark verstümmelt) |
+
 ## Arnaud Orain — Kapitalismus der Endlichkeit
 
 | | |

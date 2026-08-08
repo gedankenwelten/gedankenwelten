@@ -22,6 +22,40 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **08.08.** — [[Denker/Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
+>
+> Ein Milliardär behauptet, der Niedergang von Weltmächten sei messbar wie ein Blutdruck. Sein Modell trägt weiter, als seine Popularisierer es tragen lassen — und weiter, als ihm selbst lieb ist.
+
+> **07.08.** — [[Denker/Vijay Prashad — Marxismus als Methode|Vijay Prashad — Marxismus als Methode]]
+>
+> Nicht die Fahne macht frei, sondern die Bilanz — Prashad liest die Weltordnung von unten und findet Sozialismus in einer Schultoilette in Kerala.
+
+> **07.08.** — [[Denker/Arnaud Orain — Kapitalismus der Endlichkeit|Kapitalismus der Endlichkeit — und was, wenn es nicht für alle reicht?]]
+>
+> Wer glaubt, die Welt reiche nicht für alle, greift zu, bevor ein anderer greift. Arnaud Orain zeigt, dass dieser Griff eine fünfhundertjährige Geschichte hat — und dass Freihandel die Ausnahme war, nicht die Regel.
+
+> **07.08.** — [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+>
+> Ein Büchner-Preisträger, der mit 16 auf der Straße lebte, weigert sich, seine eigene Geschichte als Heldenreise zu erzählen — und fragt, wem die Herkunft nützt.
+
+> **07.08.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
+>
+> Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
+
+> → *7 weitere in* [[Denker]]
+
+### Spuren
+
+> **08.08.** — [[Spuren/Dalios Fenster — Amerikas Schuldenlast bis November 2028|Dalios Fenster — Amerikas Schuldenlast bis November 2028]]
+>
+> Ein Milliardär nennt ein Datum und die Instrumente, an denen man ihn prüfen kann. Diese Spur nimmt ihn beim Wort — und rechnet damit, dass er sich irrt.
+
+> **03.08.** — [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash — was aus einer datierten Prophezeiung wird]]
+>
+> Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
+
 ### Zeitgeist
 
 > **07.08.** — [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]]
@@ -43,36 +77,6 @@ Die Gedankenwelten (luc)
 > **03.08.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
 
 > → *4 weitere in* [[Zeitgeist]]
-
-### Denker
-
-> **07.08.** — [[Denker/Vijay Prashad — Marxismus als Methode|Vijay Prashad — Marxismus als Methode]]
->
-> Nicht die Fahne macht frei, sondern die Bilanz — Prashad liest die Weltordnung von unten und findet Sozialismus in einer Schultoilette in Kerala.
-
-> **07.08.** — [[Denker/Arnaud Orain — Kapitalismus der Endlichkeit|Kapitalismus der Endlichkeit — und was, wenn es nicht für alle reicht?]]
->
-> Wer glaubt, die Welt reiche nicht für alle, greift zu, bevor ein anderer greift. Arnaud Orain zeigt, dass dieser Griff eine fünfhundertjährige Geschichte hat — und dass Freihandel die Ausnahme war, nicht die Regel.
-
-> **07.08.** — [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
->
-> Ein Büchner-Preisträger, der mit 16 auf der Straße lebte, weigert sich, seine eigene Geschichte als Heldenreise zu erzählen — und fragt, wem die Herkunft nützt.
-
-> **07.08.** — [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Silvia Rivera Cusicanqui — Dekolonisierung und lo Ch'ixi]]
->
-> Die bolivianische Soziologin denkt Dekolonisierung als tägliche Praxis: Lo Ch'ixi — das Gefleckte aus Schwarz und Weiß — als Dialektik ohne Synthese, die alle betrifft.
-
-> **07.08.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
->
-> Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
-
-> → *6 weitere in* [[Denker]]
-
-### Spuren
-
-> **03.08.** — [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash — was aus einer datierten Prophezeiung wird]]
->
-> Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 
 ### Geistesblitz
 

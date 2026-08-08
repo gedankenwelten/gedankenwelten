@@ -314,6 +314,10 @@ Zwei Wirtschaftshistoriker, dieselbe Gegenwart, verschiedene Achsen. Göpels „
 
 Die Gegenthese der Rezensenten, als Szene. Milanović hält Orains Knappheits-Kausalität für zu schwach und setzt eine sparsamere dagegen: Der Westen habe erkannt, dass die neoliberale Globalisierung am Ende Chinas Vorherrschaft sichern würde, und daraufhin die Regeln gewechselt. Genau dieser Abstieg wird in Peking Protokoll — ein Präsident, der zu Xi reisen muss statt umgekehrt, den niemand am Flughafen empfängt, den Merz „gedemütigt" nennt. Chinas Anteil an der Weltwirtschaft (1820: 30 Prozent, dann 3, heute 17) ist die vollständige Erklärung, die ohne einen einzigen erschöpften Rohstoff auskommt. Umgekehrt kommt kein Beobachter dieses Gipfels an Orains Frage vorbei, warum der Westen keine Antwort im eigenen Lehrbuch hat: Xi muss nur zitieren, was man ihm beigebracht hat.
 
+### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
+
+Zwei Fünfhundert-Jahre-Bögen mit derselben niederländischen Fallhöhe und unvereinbarer Geometrie: bei Dalio ein Zyklus mit Reihenfolge und damit einer Prognose, bei Orain ein Pendel mit zwei Zuständen und der Frage, welcher gerade herrscht. Beide lesen dieselben Zeichen — Grönland, Zölle, militarisierte Meerengen —, aber Orain nennt Trumps Zugriff Schwäche, wo Dalio ihn als Phasensymptom führt.
+
 ---
 
 ## Weiterdenken

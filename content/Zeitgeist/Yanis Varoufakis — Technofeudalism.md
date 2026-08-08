@@ -230,3 +230,7 @@ Die 3sat-Doku zeigt die Selbsterzählung, die Varoufakis' Diagnose verdeckt: Ran
 
 Dieselbe Zeitenwende, eine andere Ursache. Orain datiert den Bruch auf die 2010er wie Varoufakis auf 2008, hält aber dagegen, dass der Kapitalismus nicht gestorben sei, sondern in einen Modus zurückgefallen, den er seit dem 16. Jahrhundert beherrscht: Monopol, Zoll, bewaffnete Handelsmarine. Wo Varoufakis' Ursache technologisch ist, ist Orains physisch — die Welt gilt als zu klein. Beide treffen sich bei Gütern, die den Markt nie berühren: „amazon.com ist kein Markt" und aufgekauftes Ackerland, dessen Ernte nie in eine Preisbildung eingeht.
 
+### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
+
+Dalio beschreibt denselben Vorgang — Notenbankgeld hebt Wertpapierkurse, also wird reicher, wer schon besaß — und nennt ihn die Bauart einer Maschine statt einen Herrschaftswechsel. Die Gegenprobe auf das Cloud-Kapital: Der Streit geht nicht um die Fakten, sondern um die Grammatik. Varoufakis' Satz hat ein Subjekt, Dalios nicht.
+

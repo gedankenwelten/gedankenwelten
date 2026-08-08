@@ -117,6 +117,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Dalai Lama|Dalai Lama (Tenzin Gyatso)]]** — 14. Dalai Lama, geistliches Oberhaupt des tibetischen Buddhismus, Friedensnobelpreisträger 1989; säkulare Ethik (Mitgefühl jenseits der Religion), Dialog mit der Wissenschaft, Gewaltlosigkeit, „Mittlerer Weg" für Tibet
 
+**[[DenkerVita/Ray Dalio|Ray Dalio]]** — Investor, Gründer von Bridgewater Associates; der große Schuldenzyklus (~80 Jahre) und der Aufstieg und Fall von Weltmächten, die fünf großen Kräfte, „Idea Meritocracy" — mechanistischer Blick auf Geschichte, mit blindem Fleck bei China
+
 **[[DenkerVita/Der Dara|Der Dara (Marc)]]** — YouTuber, politischer Kommentator; Aufklärung gegen Rechts, Fake-News-Debunking, Reaction-Format als politische Bildung
 
 **[[DenkerVita/Darin L. Gerdes|Darin L. Gerdes]]** — Leadership-Professor; Ukraine-Krieg aus Leadership-Perspektive, „Reagan-Republican who fully supports Ukraine", tägliche YouTube-Analysen
