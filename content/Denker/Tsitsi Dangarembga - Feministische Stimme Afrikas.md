@@ -296,6 +296,11 @@ Armut als hergestellte Waffe, im Detail nachgerechnet: Der Tageslohn von fünf E
 
 Shivas kapitalistisches Patriarchat und die Zerstörung weiblicher Subsistenz treffen Dangarembgas „zwei Patriarchate“ und die These der *hergestellten* Armut — Frauen als erste Enteignete der Naturherrschaft.
 
+
+### → [[Steelpan — Was aus einem Trommelverbot wurde]]
+
+Der Härtetest ihrer These, dass die koloniale Wunde in den Köpfen weiterlebt — und ein Beispiel für die feinere Form des Ausschlusses: Frauen war der Pan Yard nicht verboten, das *Instrument* schon. Sie durften bewirten, beschützen, Fahnen schwingen. Und in Toronto halten Eltern ihre Töchter noch heute fern, gemessen an einem Trinidad, das es nicht mehr gibt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

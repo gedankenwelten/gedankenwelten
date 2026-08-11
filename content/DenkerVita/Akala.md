@@ -66,3 +66,4 @@ Akala steht deutlich links, in der Tradition antikolonialer und materialistische
 ## Gedankenwelten-Notes
 
 - [[Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
+- [[Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]

@@ -1,7 +1,7 @@
 ---
 title: "Felwine Sarr — Gehört Afrika die Zukunft?"
 date: 02.07.2026
-aktualisiert: 2026-08-01
+aktualisiert: 2026-08-11
 description: "Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma."
 tags:
   - denker
@@ -249,6 +249,11 @@ Akalas Rundreise durch Kusch, Timbuktu und Great Zimbabwe liefert das historisch
 ### → [[Arnaud Orain — Kapitalismus der Endlichkeit]]
 
 Die Gegenprobe auf Sarrs Utopie. Orain beschreibt, wie Staatsbetriebe aus den Emiraten und China Ackerland in Afrika kaufen, Saatgut stellen und die Ernte abtransportieren, ohne dass die Waren je einen Markt durchlaufen — Landnahme ohne Flagge und ohne Kolonialverwaltung. Genau die Bewegung, die den Kontinent wieder zum Objekt macht, während *Afrotopia* ihn zum Subjekt erklären will. Sarrs Ökonomie der Beziehung ist zugleich eine Antwort auf die Leerstelle, die Orain offen lässt: wie eine endliche Welt geteilt wird, ohne dass der Stärkere zuerst greift.
+
+
+### → [[Steelpan — Was aus einem Trommelverbot wurde]]
+
+Sarrs Hysterese-Begriff im Kleinformat: Ein Stigma aus den Dreißigern hält Eltern in Toronto davon ab, ihre Töchter in den Pan Yard zu lassen. Und ein Einwand gegen die Utopie aus eigenen Quellen — Trinidads Nationalinstrument wurde nicht aus dem Eigenen geschöpft, sondern aus den leeren Fässern der Ölindustrie, die das Land ausnahm. Umwidmung des Fremden als dritter Weg zwischen Nachahmung und Rückgriff.
 
 ## Weiterdenken
 

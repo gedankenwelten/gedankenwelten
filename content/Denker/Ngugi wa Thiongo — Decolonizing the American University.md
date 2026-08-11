@@ -2,7 +2,7 @@
 title: "Ngũgĩ wa Thiong'o — Decolonizing the American University"
 description: "Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört."
 date: 05.07.2026
-aktualisiert: 07.08.2026
+aktualisiert: 11.08.2026
 tags:
   - denker
   - kalender
@@ -228,6 +228,16 @@ Ngũgĩs Satz, moderner Kapitalismus und Rassismus seien voneinander geboren wor
 ### → [[Vijay Prashad — Marxismus als Methode]]
 
 Prashad hat für Ngũgĩs Leitfrage ein Wort und eine Rechnung: *Fahnenunabhängigkeit* — das Territorium wird frei, die Bilanz nicht, und 1991 muss Indien sein Gold nach London fliegen, um sich eigenes Geld leihen zu dürfen. Beide berufen sich auf dieselben Zeugen (Smith und Marx bei Ngũgĩ, Naoroji und Ambedkar bei Prashad, überall derselbe *drain of wealth*), stehen aber im Zentrum gegeneinander: Prashads Satz, unfrei mache „nicht der eigene Geist, sondern die Strukturen da draußen", ist die glatte Verneinung von *Decolonising the Mind*.
+
+
+### → [[Steelpan — Was aus einem Trommelverbot wurde]]
+
+Ngũgĩs Passage über die Versklavten, die aus dem Sprachverbot neue Sprachen schufen, hat hier ihr materielles Gegenstück: Trinidad kriminalisiert ab den 1880ern die afrikanische Trommel — und der Weg über Bambus und Blech endet beim gestimmten Ölfass. Sein Bild der Sprachen als gleichrangige Instrumente unter einem Zelt wird dort zum Ernstfall.
+
+
+### → [[Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]
+
+Der positive Gegenzug zur Verlustgeschichte: Wo Ngũgĩ zeigt, was das Sprachverbot zerstörte, und beim Hip-Hop als Erbe der Plantagen endet, holt Akala die Abstammungslinie explizit ein — vom MC über Jamaikas Soundsysteme und Congo Square zurück zu den westafrikanischen Griots. Und er liefert die Fußnote zur Spracherhebung: Der größte Schriftsteller der englischen Sprache hat das, was als korrektes Englisch gelehrt wird, nie gesprochen.
 
 ---
 

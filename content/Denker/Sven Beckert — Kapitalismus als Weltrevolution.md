@@ -268,6 +268,11 @@ Beckerts Schlussdiagnose — der Neoliberalismus habe den Kapitalismus *naturali
 
 Die Gegenprobe auf die Definitionsfrage, mit hohem Einsatz. Herrmann setzt Kapitalismus mit Industrialisierung und damit mit fossiler Energie gleich und leitet daraus ab, dass er mit dem billigen Öl endet. Beckerts Zuckerinsel, auf der der Kapitalismus vor jeder Maschine vollständig funktionierte, schneidet diese Ableitung durch: Was sie als Systemende beschreibt, wäre in seiner Lesart ein Wechsel der Mobilisierungsform — wie die Abolition einer war, die das System nicht beendete.
 
+
+### → [[Steelpan — Was aus einem Trommelverbot wurde]]
+
+Beckerts Barbados-Argument hat einen älteren Zwilling, der im Panel des Watson Institute wieder auftaucht: C. L. R. James' *Schwarze Jakobiner*, wonach die Plantage in Maßstab und Betriebsorganisation an der Spitze der kapitalistischen Entwicklung stand — inklusive der soziologischen Voraussetzungen eines Proletariats, nur ohne Freiheit. Die Note zeigt zudem, was Beckerts Kreislauf am Rand abwirft: Das Nationalinstrument Trinidads besteht aus den leeren Fässern genau jener Ölindustrie, die das Land ausnahm.
+
 ---
 
 ## Weiterdenken

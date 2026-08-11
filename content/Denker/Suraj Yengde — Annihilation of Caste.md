@@ -229,6 +229,11 @@ Der empirische Härtetest für Ambedkars Satz, Kaste sei ein Geisteszustand und 
 
 Ein produktiver Widerspruch. Yengde und Ambedkar bestehen darauf, dass die Zerstörung der Kaste im Bewusstsein beginnt. Darity rechnet für den US-Fall das Gegenteil vor: Die Vermögenslücke braucht keinen Glauben mehr, um weiterzubestehen, und kein Bewusstseinswandel schließt sie — nur ein Vermögenstransfer. Die offene Frage lautet, ob Hierarchien primär über Überzeugung oder über Substanz weitergegeben werden.
 
+
+### → [[Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]
+
+Dieselbe Kränkung, anderes System: Was bei Yengde als Sünde gilt — dass ein Unberührbarer denkt —, formuliert Akala als „das Recht, intelligent zu sein", das man Jugendlichen aus bestimmten Vierteln nirgends ausdrücklich abspricht und darum auch nirgends bestreiten kann. Sein Wu-Tang-Beispiel ist zugleich der Ursprung jenes „Harlem-Moments", den Yengde für die Dalits reklamiert.
+
 ---
 
 ## Weiterdenken

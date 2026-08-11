@@ -1,7 +1,7 @@
 ---
 title: "Akala — Die verlorenen Seiten der Menschheitsgeschichte"
 description: "Wer die Geschichte eines Kontinents verzerrt, formt die Gegenwart aller — Akala über Afrika vor der Versklavung und die Frage, wem der Lehrplan gehört."
-aktualisiert: 2026-07-18
+aktualisiert: 2026-08-11
 tags:
   - denker
   - kalender
@@ -257,6 +257,11 @@ Akala zeigt, dass Rassenwissenschaft produziert wurde, weil eine Ökonomie sie b
 ### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
 
 Zwei Autodidakten ohne Abschluss, die sich das Recht auf die eigene Erzählung nehmen — mit entgegengesetzten Schlüssen. Für Bärfuss ist die fehlende Überlieferung Armut, die zum Werkzeug wird („die Wahrheit hat etwas Totalitäres“); für Akala ist sie produzierte Auslöschung, gegen die er mit Herodot und Grabungsbefunden eine belegbare Wahrheit zurückerobert.
+
+
+### → [[Steelpan — Was aus einem Trommelverbot wurde]]
+
+Der Gegenbeweis zu Naipauls „in Westindien wurde nichts geschaffen", im zwanzigsten Jahrhundert: Brian Meeks kontert mit C. L. R. James und der Plantage als Vorhut einer alternativen Moderne — dieselbe Haitianische Revolution, die Akala gegen den Wilberforce-Lehrplan stellt, hier als Beweisfigur für ein Instrument, das aus einem Verbot entstand.
 
 ## Weiterdenken
 

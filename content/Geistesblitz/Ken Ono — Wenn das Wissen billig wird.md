@@ -193,6 +193,16 @@ Zimpels Förderschüler, der 60÷4 als „sechs Männer mit zehn Fingern" rechne
 ### → [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — die Schicht zwischen Mensch und Wissen]]
 Onos LLM als „außergewöhnlichster Bibliothekar" ist genau die *Schicht zwischen Mensch und Wissen*, um die diese Spur kreist. Ono betrachtet sie kognitiv (was bleibt dem Menschen, wenn die Bibliothek alles weiß?), die Spur machtpolitisch (wem gehört diese Schicht?) — zwei Perspektiven auf dieselbe Vermittlerinstanz.
 
+
+### → [[Steelpan — Was aus einem Trommelverbot wurde]]
+
+Onos Frage „Wie finden wir die Ramanujans, die nicht aus dem Privileg kommen?" hat in Port of Spain eine Antwort im Plural: Ungelernte Stimmer fanden in den Vierzigern durch Hämmern und Hören ein nichtlineares akustisches System, dessen vollständige Beschreibung erst achtzig Jahre später in den Proceedings of the Royal Society erschien. Erkenntnis, die nach oben sickert.
+
+
+### → [[Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]
+
+Onos unentdeckte Ramanujans bekommen hier eine soziale Ursache. Akalas Publikum hält GZA zu 99 Prozent für Shakespeare — das Urteil über Qualität hängt an der zugeschriebenen Herkunft, nicht am Text. Und sein Wu-Tang-Satz („sie haben es sexy gemacht, intelligent zu sein") ist die Antwort auf Onos Frage nach dem Staunen: Es braucht jemanden aus demselben Treppenhaus, der es vormacht.
+
 ---
 
 ## Weiterdenken

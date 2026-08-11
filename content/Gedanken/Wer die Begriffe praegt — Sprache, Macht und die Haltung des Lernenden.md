@@ -183,6 +183,11 @@ Der Lehrling definiert durch Abgrenzung: noch kein Geselle, noch kein Meister. D
 
 Der historische Beleg zu dieser Note: Beckert liest „soziale Marktwirtschaft" als Umtaufung nach verlorener Deutungsschlacht — das Wort Kapitalismus hatte durch eine wirksame Kritik einen schlechten Geschmack bekommen. Und das Begriffspaar „Arbeitgeber/Arbeitnehmer", das im Gespräch das Verhältnis exakt verkehrt, ist ein Musterfall des hier beschriebenen Einfrierens.
 
+
+### → [[Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]
+
+Das Einfrieren, angewandt auf einen ganzen Autor: Shakespeare erfand Wörter, brach Grammatik und schrieb für die Bühne — als Kanon liefert er die Regeln, an denen die nächsten Regelbrecher scheitern. Dazu die Pointe zur Begriffshoheit über das „richtige" Englisch: Received Pronunciation existierte zu seinen Lebzeiten gar nicht.
+
 ---
 
 ## Weiterdenken
