@@ -6,6 +6,27 @@ tags:
   - links
 ---
 
+## Steelpan — Was aus einem Trommelverbot wurde
+
+| | |
+|---|---|
+| **Primärquelle** | [Beyond Rum and Coca-Cola — The Radical and Creative Origins of the Steelpan](https://www.youtube.com/watch?v=F9hB9k4fUiw) (*Watson Institute, Brown University*, 04.12.2018, 2:00:59 — Panel: Patsy Lewis, Zophia Edwards, Brian Meeks, Ivor Picou, Wendy Jones, Stephon Alexander) |
+| **Bücher** | C. L. R. James: *Die schwarzen Jakobiner* (1938) → [genialokal](https://www.genialokal.de/Suche/?q=clr+james+schwarze+jakobiner) · V. S. Naipaul: *The Middle Passage* (1962) → [genialokal](https://www.genialokal.de/Suche/?q=naipaul+middle+passage) · Stephen Stuempfle: *The Steelband Movement* (1995) → [genialokal](https://www.genialokal.de/Suche/?q=stuempfle+steelband+movement) · Stephon Alexander: *The Jazz of Physics* (2016) → [genialokal](https://www.genialokal.de/Suche/?q=stephon+alexander+jazz+of+physics) |
+| **Forschung** | Bryde & Mahadevan: *Localization in musical steelpans*, Proc. R. Soc. A 2023 → [doi:10.1098/rspa.2022.0869](https://doi.org/10.1098/rspa.2022.0869) · Monteil/Thomas/Touzé, Applied Acoustics 2014 → [doi:10.1016/j.apacoust.2014.08.008](https://doi.org/10.1016/j.apacoust.2014.08.008) · Zophia Edwards: *Fueling Development*, Duke UP 2025 → [doi:10.1215/9781478061243](https://doi.org/10.1215/9781478061243) |
+| **Anlass** | [UN — World Steelpan Day, Resolution A/RES/77/316](https://www.un.org/en/observances/steelpan-day) |
+| **Notiz** | [[Steelpan — Was aus einem Trommelverbot wurde]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Steelpan_Brown_Panel_Transkript.txt` (englisch, Automatikuntertitel) |
+
+## Akala — Warum Shakespeare gerappt gehört
+
+| | |
+|---|---|
+| **Primärquelle** | [GCPH Seminar Series 9, Lecture 1 — Akala presents Hip Hop Shakespeare](https://www.youtube.com/watch?v=k1yGD0Mn8YU) (*Glasgow Centre for Population Health*, 42:17) |
+| **Bücher** | Akala: *Natives — Race and Class in the Ruins of Empire* (2018) → [genialokal](https://www.genialokal.de/Suche/?q=akala+natives) · *The Dark Lady* (2021) → [genialokal](https://www.genialokal.de/Suche/?q=akala+dark+lady) |
+| **Projekt** | [The Hip-Hop Shakespeare Company](https://www.hiphopshakespeare.com/) (gegr. 2009) |
+| **Notiz** | [[Akala — Warum Shakespeare gerappt gehoert]] · [[DenkerVita/Akala]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Akala_Hip_Hop_Shakespeare_Transkript.txt` (englisch, Automatikuntertitel) |
+
 ## Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar
 
 | | |

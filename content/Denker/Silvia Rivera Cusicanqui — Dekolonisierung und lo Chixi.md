@@ -260,6 +260,11 @@ Cusicanquis symbolische Extraktion indigener Kultur ist Wilkersons Kasten-Wachdi
 
 Prashads Satz, unfrei mache „nicht der eigene Geist, sondern die Strukturen da draußen", ist die direkteste Absage an den internalisierten Kolonialismus im ganzen Korpus — und er widerlegt sich selbst, wenn er von *cultures of cruelty* spricht: wie man mit der Person redet, die im Haus arbeitet, wie über Muslime geredet wird. Das ist die Kette der Scharniere in indischem Idiom, und es ist sein Eingeständnis, dass die Linke diesen Boden nicht allein pflügen kann. Wo er den Sozialismus dann aber an einem Kabinettsbeschluss in Kerala beweist, beginnt der zweite Streit: Für sie wäre die fürsorgliche Verwaltung nicht der Beleg, sondern der Verdachtsfall.
 
+
+### → [[Steelpan — Was aus einem Trommelverbot wurde]]
+
+*Plusvalía simbólica* in der Karibik: Die Steelpan kam über Öl-Sponsoring, eine hellere Mittelschicht und Wahlkampfgelder in die Mitte der Gesellschaft — Amoco übernahm die Renegades 1970 als Antwort auf Black Power. Zugleich ist das Instrument selbst ein Ch'ixi-Fall: Widerstandsartefakt und Nationalsymbol, gefleckt, ohne Synthese.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

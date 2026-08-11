@@ -24,37 +24,47 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **11.08.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+>
+> Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
+
+> **11.08.** — [[Denker/Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]
+>
+> Ein Rapper liest zehn Zeilen vor und lässt raten: Shakespeare oder Hip-Hop? Fast alle liegen falsch — und aus diesem Irrtum wird eine Frage danach, wer das Recht hat, klug zu sein.
+
+> **11.08.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
+>
+> Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
+
+> **11.08.** — [[Denker/Akala — Die verlorenen Seiten der Menschheitsgeschichte|Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
+>
+> Wer die Geschichte eines Kontinents verzerrt, formt die Gegenwart aller — Akala über Afrika vor der Versklavung und die Frage, wem der Lehrplan gehört.
+
 > **08.08.** — [[Denker/Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
 >
 > Die Physik kennt keinen Rabatt. Wer sie ernst nimmt, landet bei einer Rechnung, die niemand aufmachen will — und bei Mächtigen, die alle schon in ihrer eigenen Falle sitzen.
 
-> **08.08.** — [[Denker/Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
->
-> Ein Milliardär behauptet, der Niedergang von Weltmächten sei messbar wie ein Blutdruck. Sein Modell trägt weiter, als seine Popularisierer es tragen lassen — und weiter, als ihm selbst lieb ist.
+> → *6 weitere in* [[Denker]]
 
-> **07.08.** — [[Denker/Vijay Prashad — Marxismus als Methode|Vijay Prashad — Marxismus als Methode]]
->
-> Nicht die Fahne macht frei, sondern die Bilanz — Prashad liest die Weltordnung von unten und findet Sozialismus in einer Schultoilette in Kerala.
+### Geistesblitz
 
-> **07.08.** — [[Denker/Arnaud Orain — Kapitalismus der Endlichkeit|Kapitalismus der Endlichkeit — und was, wenn es nicht für alle reicht?]]
+> **11.08.** — [[Geistesblitz/Steelpan — Was aus einem Trommelverbot wurde|Steelpan — Was aus einem Trommelverbot wurde]]
 >
-> Wer glaubt, die Welt reiche nicht für alle, greift zu, bevor ein anderer greift. Arnaud Orain zeigt, dass dieser Griff eine fünfhundertjährige Geschichte hat — und dass Freihandel die Ausnahme war, nicht die Regel.
+> Eine Kolonialverwaltung verbot die Trommel, eine Ölindustrie ließ Fässer liegen — und die Ärmsten von Port of Spain bauten daraus das Instrument, dessen Akustik bis heute niemand ganz versteht.
 
-> **07.08.** — [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
+> **26.07.** — [[Geistesblitz/Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
 >
-> Ein Büchner-Preisträger, der mit 16 auf der Straße lebte, weigert sich, seine eigene Geschichte als Heldenreise zu erzählen — und fragt, wem die Herkunft nützt.
+> Die Natur stellt keine Rechnung — und genau darum steht sie in keiner Bilanz. Eine Biologin rechnet vor, was wir umsonst bekommen, und fragt, ob ausgerechnet die Maschine helfen kann, es zu behalten.
 
-> → *8 weitere in* [[Denker]]
+> **15.07.** — [[Geistesblitz/Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
+>
+> Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
 
 ### Spuren
 
 > **08.08.** — [[Spuren/Dalios Fenster — Amerikas Schuldenlast bis November 2028|Dalios Fenster — Amerikas Schuldenlast bis November 2028]]
 >
 > Ein Milliardär nennt ein Datum und die Instrumente, an denen man ihn prüfen kann. Diese Spur nimmt ihn beim Wort — und rechnet damit, dass er sich irrt.
-
-> **03.08.** — [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash — was aus einer datierten Prophezeiung wird]]
->
-> Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 
 ### Zeitgeist
 
@@ -69,26 +79,6 @@ Die Gedankenwelten (luc)
 > **03.08.** — [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas|Ceuta und die Erpressbarkeit Europas]]
 >
 > Fünfzigtausend Menschen an einem Tag, achtundachtzig Tote — und die Panik reist weiter als die Menschen selbst. Über eine Verwundbarkeit, die Europa sich gebaut hat.
-
-> **03.08.** — [[Zeitgeist/GfbV — Jesidische Familien in der Diaspora|GfbV — Jesidische Familien in der Diaspora]]
->
-> Ein Vortrag, der um Anerkennung bittet — zehn Monate bevor sie kam. Alles andere, worum er bittet, ist bis heute offen.
-
-> **03.08.** — [[Zeitgeist/Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz|Ronen Steinke — Meinungsfreiheit, Völkermord & Verfassungsschutz]]
-
-> → *4 weitere in* [[Zeitgeist]]
-
-### Geistesblitz
-
-> **26.07.** — [[Geistesblitz/Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
->
-> Die Natur stellt keine Rechnung — und genau darum steht sie in keiner Bilanz. Eine Biologin rechnet vor, was wir umsonst bekommen, und fragt, ob ausgerechnet die Maschine helfen kann, es zu behalten.
-
-> **15.07.** — [[Geistesblitz/Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
->
-> Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
-
-> **14.07.** — [[Geistesblitz/Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt|Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt?]]
 
 ### Panorama
 

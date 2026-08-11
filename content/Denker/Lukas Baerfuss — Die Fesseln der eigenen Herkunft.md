@@ -328,6 +328,11 @@ Bärfuss' produktiver Widerspruch — durch die Herkunft determiniert und trotzd
 
 Beide arbeiten mit Bourdieus Habitus, von entgegengesetzten Enden der Leiter. Dort lernen junge Menschen an Eliteschulen, ihre Privilegien als natürlich zu *erleben*; hier führt Bärfuss vor, wie sich das Fehlen dieser Natürlichkeit anfühlt — der Ehrendoktor liegt in der Hand, und es fehlt das Wissen, wie man ihn trägt. Zusammengelesen: Der Vorsprung liegt nicht im Titel, sondern in der Selbstverständlichkeit, mit der man ihn führt.
 
+
+### → [[Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]
+
+Bärfuss sagt, wer keine Ahnengalerie hat, habe dafür lebendige Erinnerung — Akala führt die Berufsgruppe vor, die genau das war: die Griots, Dichter, Historiker und Genealogen in einer Person. Und wo Bärfuss beim Ehrendoktor nicht weiß, ob man das auf die Visitenkarte druckt, beschreibt Akala dieselbe Habitus-Grenze eine Etage früher: den Dreizehnjährigen, dem niemand die Rolle des Wissenshüters zeigt.
+
 ---
 
 ## Weiterdenken

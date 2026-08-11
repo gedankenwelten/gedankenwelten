@@ -192,6 +192,11 @@ Der senegalesische Nächste: Sarr (Mitgründer der *Ateliers de la Pensée* in D
 
 Akalas Forderung nach einem Lehrplan, an dessen Tisch alle sitzen, findet bei Diagne ihr erkenntnistheoretisches Fundament: das laterale Universale, das keine Kultur zum Maßstab der anderen macht. Akala zeigt die Trümmer, die das vertikale Universale hinterließ.
 
+
+### → [[Steelpan — Was aus einem Trommelverbot wurde]]
+
+Das laterale Universale als akustischer Fall: Ein Physiker in Brown stellt die Steelpan quer zu Pythagoras' linearer Saite — sympathetische, nichtlineare Schwingungen, deren Beschreibung erst 2023 gelang. Zwei Ordnungen des Klangs, die sich gegenseitig prüfen müssen, statt einer über der anderen.
+
 ---
 
 ## Weiterdenken
