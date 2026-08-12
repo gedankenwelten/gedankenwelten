@@ -188,6 +188,10 @@ Damit bleibt der reale Dissens kleiner, als das kämpferische Format suggeriert:
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
+
+Die Gegenprobe zur Frage, die diese Note offenlässt. Beide drehen sich um dieselbe Figur — die Logik des Gegners verstehen, ohne sie zu übernehmen — und ziehen die Grenze verschieden: Weigelin-Schwiedrzik empfiehlt, sich in die Kreml-Logik hineinzudenken, bis man den Anker findet, an dem ein Kriegsende verhandelbar wird, und Prechts „nichts zu holen" zeigt, wie schnell dieses Hineindenken zur Bequemlichkeit wird, sobald es die Motivlage des anderen nach der eigenen Buchhaltung berechnet. Die zweite Brücke ist die eigentliche: Wo diese Note fragt, wann jemand über etwas schweigen sollte, und Flemigs Selbstsicherheit als Fall des Problems liest, das er kritisiert, nimmt Weigelin-Schwiedrzik mitten im Gespräch eine eigene frühere Empfehlung zurück und sagt, woran sie sich geirrt hat.
+
 ### → [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]]
 
 Flemigs Frage — nicht wer recht hat, sondern wann man schweigen sollte — ist genau der Gleichmut, den die Doku bei sich selbst verletzt, wenn sie mit Musik und Montage arbeitet. Sein Kriegsreporter-Wissen kontert zudem die Butscha-Leugnung, die der Film prüft.

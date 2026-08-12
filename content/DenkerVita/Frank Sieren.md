@@ -83,3 +83,4 @@ Dem gegenüber stehen: breite Rezeption in seriösen deutschen Medien, hohe Eins
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi]]
+- [[Zeitgeist/Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]] — die Sinologin zitiert Sierens Rat als Ausgangspunkt: weniger fragen, was China mit der Welt macht, mehr, wie China sich selbst versteht

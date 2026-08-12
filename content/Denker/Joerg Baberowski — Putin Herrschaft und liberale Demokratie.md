@@ -203,6 +203,10 @@ Putin habe seinen Leuten gesagt: Wenn wir das nicht zu Ende bringen, war's das m
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
+
+Zwei Kenner autoritärer Herrschaft mit derselben erkenntnistheoretischen Grundierung und einem echten Streit über deren Reichweite. Das Diktatorendilemma — der isolierte Despot, den nur noch drei, vier Leute erreichen, die wissen, dass sie ihn manipulieren können — ist die Anatomie derselben Führungsangst, die sie in Peking beschreibt; und die Diagnose, eine Eskalationsspirale bräuchte einen mächtigen Spieler von außen, der sie beendet, ist die stille Voraussetzung ihres ménage-à-trois-Arguments. Der Widerspruch ist methodisch. Wo hier steht, man wisse nicht, wer entschieden habe, die Ukraine anzugreifen, weil die Blackbox bewusst im Unklaren gehalten werde, traut sie sich zu, aus Fernsehprogrammen, Reserveaufbau und Marinemanövern zu lesen, was Peking denkt. Entweder ist sie gegen die Projektion immun, vor der hier gewarnt wird, oder sie tut genau das, nur besser belegt.
+
 ### → [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
 
 Ein „Raum der Gewalt" mitten in einer Demokratie: ICE-Vollzug ohne Bodycams und ohne Konsequenzen — Baberowskis These, dass Gewalt sich verselbständigt, wo Rechenschaft fehlt, am aktuellen Fall.

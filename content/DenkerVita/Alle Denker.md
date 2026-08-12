@@ -486,6 +486,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
 
+**[[DenkerVita/Susanne Weigelin-Schwiedrzik|Susanne Weigelin-Schwiedrzik]]** — Sinologin und Japanologin (Uni Wien, 2011–2015 Vizerektorin); chinesische Geschichtsschreibung, Kulturrevolution, Hungersnot-Diskurs; außenpolitische Realistin: „Balance of Power“ statt Moral, Europa als versteckter Akteur im Dreieck China–USA–Russland; *China und die Neuordnung der Welt* (2023)
+
 **[[DenkerVita/Wendy Brown|Wendy Brown]]** — Politische Theoretikerin und Kritikerin des Neoliberalismus (UPS Foundation Professor, Institute for Advanced Study Princeton); Foucault-Gelehrte; Analyse: Neoliberalismus als Regierungsrationalität, nicht nur Wirtschaftspolitik; Demokratie-Aushöhlung von innen; Kernwerk *Undoing the Demos* (2015, Spitz Prize 2017); *In the Ruins of Neoliberalism* (2019); aktive akademische Widerstandspraxis gegen UC-Privatisierung
 
 **[[DenkerVita/William Darity Jr.|William Darity Jr.]]** — Ökonom (Duke), Begründer der *Stratification Economics* und führender Reparations-Ökonom der USA; Diskriminierung als rationale Verteidigung von Gruppenpositionen; Vermögen statt Einkommen; *From Here to Equality* (2020) mit A. Kirsten Mullen; Baby Bonds mit Darrick Hamilton
