@@ -188,6 +188,10 @@ Das Werkzeug dafür nennt er *Syntextualisierung* — nach Schellings *focal poi
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
+
+Tianxia, angetroffen als laufende Bündnispolitik. Weigelin-Schwiedrzik erklärt Chinas Verhältnis zu SCO und BRICS mit exakt Zhaos Geometrie — der Kaiser im Zentrum, konzentrische Kreise darum, befreundete Reiche suzerän statt souverän, je weiter außen, desto weniger Loyalitätsbeweis. Bei Zhao trägt diese Form ein normatives Versprechen: Internalisierung der Welt, damit kein Staat Kosten nach außen abwälzen kann. Bei ihr trägt sie eine Entwicklungsbank, ausdrücklich für Länder gedacht, die aus der EU austreten, dazu Belarus aufgenommen und die Türkei hingehalten. Die Shanghaier Organisation wird damit zum Prüfstein, ob Tianxia eine Alternative zur Hegemonie ist oder ihre höflichere Grammatik — und Zhaos Eingeständnis gegenüber Forst, für die Kontrolle der Kontrolleure keine Antwort zu haben, klingt danach anders.
+
 ### → [[Denker/Walther Ziegler — Habermas in 60 Minuten|Habermas in 60 Minuten]]
 Zhao und Habermas kreisen dasselbe Zentralproblem ein, halten aber entgegengesetzte Antworten bereit. Habermas' herrschaftsfreier Diskurs und seine Diagnose der «Kolonialisierung der Lebenswelt» durch den Finanzkapitalismus decken sich fast wortgleich mit Zhaos «neuer Despotie» — doch wo Habermas auf kommunikative Vernunft als immanentes Gegenmittel setzt, vertraut Zhao keiner Sprachvernunft, sondern auf institutionelles Redesign (smarte Demokratie, Tianxia-Netzwerk). Forst als Habermas-Schüler macht diesen Clash im Gespräch direkt sichtbar: Er ist der lebendige Vertreter der diskursethischen Position, die Zhao Stück für Stück herausfordert.
 

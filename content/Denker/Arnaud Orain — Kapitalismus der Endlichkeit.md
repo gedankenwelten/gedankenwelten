@@ -282,6 +282,10 @@ Orains Buch hat außerhalb Frankreichs zwei Rezensenten von Gewicht gefunden, un
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
+
+Die Endlichkeitsthese in chinesischer Buchführung. Orain erkennt die dritte Phase an militarisierten Meeren, Zöllen und Landnahme; Weigelin-Schwiedrzik erzählt, warum ein Staat, dessen Öl durch Malakka fließt und dessen Meerengen ein anderer kontrolliert, Milliarden in Gleise legt, die im Kriegsfall halten — der Warenverkehr zwischen Iran und China lief über die Schiene weiter, nachdem Israel die Bahnlinien bombardiert hatte. Die Seidenstraße wird so zur Versicherung gegen die Verknappung der Wege. Beim Ursprung der Wende widersprechen sie sich scharf: Orain leitet sie aus der Weltlage ab, sie aus chinesischer Innenpolitik — Export trägt die Binnenwirtschaft, die Binnenwirtschaft die Stabilität, die Stabilität die Partei. Und ihr Eingeständnis, dass 2013 auch in Peking noch niemand die eigene Strategie kannte, entzieht dem Pendel den Akteur.
+
 ### → [[Yanis Varoufakis — Technofeudalism]]
 
 Zwei Diagnosen desselben Bruchs, die einander ausschließen. Varoufakis datiert das Ende der Marktordnung auf 2008 und macht das Quantitative Easing zum Geburtshelfer einer neuen Kapitalform; Orain datiert auf 2010 und sieht die Rückkehr einer alten Form. Wo Varoufakis sagt, der Kapitalismus sei *gestorben* und durch Tribut ersetzt worden, sagt Orain, er habe nur den Modus gewechselt, den er seit dem 16. Jahrhundert kennt. Der Unterschied ist nicht akademisch: Varoufakis' Ursache ist technologisch — wem die Algorithmen gehören —, Orains ist physisch — wie viel Erde übrig ist. Beide treffen sich aber an einer verblüffend konkreten Stelle: bei Waren, die den Markt nie berühren. Varoufakis' Satz „amazon.com ist kein Markt" und Orains emiratisches Ackerland, dessen Ernte nie in eine Preisbildung eingeht, beschreiben dieselbe Amputation der Informationsfunktion — einmal digital, einmal territorial.

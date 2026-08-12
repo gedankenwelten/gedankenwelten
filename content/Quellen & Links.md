@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt
+
+| | |
+|---|---|
+| **Primärquelle** | [Was China macht, ist viel gefährlicher](https://www.youtube.com/watch?v=VgudHW-rVzY) (*Thema des Tages*, DER STANDARD, 22.06.2026, 1:19:20 — Moderation Zsolt Wilhelm, Produktion Tobias Holub) |
+| **Buch** | Susanne Weigelin-Schwiedrzik: *China und die Neuordnung der Welt* (Brandstätter 2023, Neuauflage 2026) → [genialokal](https://www.genialokal.de/Suche/?q=Weigelin-Schwiedrzik+China+und+die+Neuordnung+der+Welt) |
+| **Primärdokumente** | [Wang Yi, Pressekonferenz zum NVK, 08.03.2026](https://www.fmprc.gov.cn/eng/wjbzhd/202603/t20260308_11870805.html) · [Wang Yi, MSC München 2025](https://www.fmprc.gov.cn/eng/xw/zyjh/202502/t20250215_11555665.html) · [2025 National Security Strategy (PDF)](https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf) · [Anti-Secession Law (NVK, 2005)](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/13/content_1384099.htm) · [Carney, Davos 20.01.2026 (CBC)](https://www.cbc.ca/news/politics/mark-carney-speech-davos-rules-based-order-9.7053350) |
+| **Notiz** | [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]] · [[DenkerVita/Susanne Weigelin-Schwiedrzik]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Weigelin_China_Neuordnung_Transkript.txt` (deutsch, Automatikuntertitel) |
+
 ## Steelpan — Was aus einem Trommelverbot wurde
 
 | | |

@@ -144,6 +144,10 @@ Das ist der entscheidende Unterschied zu Sonneborn: Sonneborn sieht Absicht (Kri
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
+
+Dieselbe Skepsis gegen das Wort Masterplan, gegensätzlich verbucht. Die Trennung von Nutzen und Absicht — dass ein eingefrorener Krieg Russland bindet, macht ihn noch nicht zum Plan — wendet Weigelin-Schwiedrzik auf China an, wenn sie sagt, auch in Peking habe 2013 niemand die eigene Belt-and-Road-Strategie gekannt. Bei der Rechnung trennen sie sich. „Zum Sterben zu viel, zum Leben zu wenig" beschreibt eine Ukraine, die zwischen Großmächten verheizt wird, und behandelt das als Skandal; sie beschreibt denselben Vorgang von oben und mit trockenem Spott als vertrauensbildende Maßnahme — Grönland für Trump, die Ostukraine für Putin, Taiwan für Xi —, deren Ertrag weniger Krieg an den Rändern sei. Wer beide liest, sieht, was diese Nüchternheit kostet.
+
 ### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
 
 Produktive Spannung über das Tempo: Heinrich fragt, ob der Westen den Krieg bewusst verlängert, um Russland langsam auszubluten. Flemigs Katastrophen-Monat erzählt dagegen von einer rapiden, womöglich kippenden Erosion — kein langsames Ausbluten, sondern beschleunigter Verfall. Wer hat recht?

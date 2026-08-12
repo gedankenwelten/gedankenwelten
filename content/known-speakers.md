@@ -698,6 +698,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Suraj Yengde
 **Status:** ✓ Vollanalyse → [[DenkerVita/Suraj Yengde]]
 
+## Susanne Weigelin-Schwiedrzik
+**Status:** ✓ Vollanalyse → [[DenkerVita/Susanne Weigelin-Schwiedrzik]]
+
 ## Tahir Chaudhry
 **Status:** Stub
 
