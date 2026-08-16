@@ -273,6 +273,12 @@ Die Gegenprobe auf die Definitionsfrage, mit hohem Einsatz. Herrmann setzt Kapit
 
 Beckerts Barbados-Argument hat einen älteren Zwilling, der im Panel des Watson Institute wieder auftaucht: C. L. R. James' *Schwarze Jakobiner*, wonach die Plantage in Maßstab und Betriebsorganisation an der Spitze der kapitalistischen Entwicklung stand — inklusive der soziologischen Voraussetzungen eines Proletariats, nur ohne Freiheit. Die Note zeigt zudem, was Beckerts Kreislauf am Rand abwirft: Das Nationalinstrument Trinidads besteht aus den leeren Fässern genau jener Ölindustrie, die das Land ausnahm.
 
+### → [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+
+Hartmann empfiehlt im Gespräch ein brillantes Buch eines Harvard-Wirtschaftshistorikers, „das einfach Kapitalismus heißt", und erinnert den Namen nicht — gemeint ist Beckert. Ihm gefällt daran vor allem, was gern vergessen werde: welche Rolle der Staat beim Erfolg des Kapitalismus spielte.
+
+Interessanter ist, wohin die beiden auseinandergehen. Beide trennen sauber zwischen Wunsch und Befund, und beide kommen zu entgegengesetzten Prognosen. Beckert zieht aus der Geschichte Zuversicht, weil Ordnungen gemacht und darum änderbar sind; Hartmann hält den Zusammenbruch für unwahrscheinlich und sagt dazu, er hätte ihn gern gesehen. Der Historiker argumentiert vom offenen Moment her, der Soziologe von der Zählung, dass sich an der Spitze in hundertfünfzig Jahren nichts bewegt hat.
+
 ---
 
 ## Weiterdenken

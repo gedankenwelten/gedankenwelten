@@ -326,6 +326,12 @@ Thieles Einwand gegen das Entzaubern — von Papens „in zwei Monaten quietscht
 
 Thiele braucht Peter Thiel als Testfall: einen, der offen sagt, dass Demokratie und Fortschritt unvereinbar seien, und damit die Grenze zwischen Vereinfachen und Exkludieren sichtbar macht. Tahir Chaudhry liefert die Genealogie dazu und dreht die Selbsterzählung um — Thiel, Musk und Palantir sind keine Selfmade-, sondern **State-made** Milliardäre, groß geworden an Geheimdienst- und Militäraufträgen. Das schärft Thieles „digitalen Leviathan" um eine Pointe: Die libertäre Verachtung des Staates richtet sich gegen eine Institution, ohne die es diese Vermögen nie gegeben hätte — und seine Warnung vor der deutschen Palantir-Blauäugigkeit bekommt hier ihre Vorgeschichte.
 
+### → [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+
+Thieles These, der Verfassungsstaat habe die AfD selbst großgemacht, bekommt bei Hartmann ein zählbares Defizit: eine politische Spitze, die seit der Jahrtausendwende bürgerlich geworden ist und die Facharbeiter und mittleren Angestellten verloren hat, die sie jahrzehntelang stellte.
+
+Die Abhilfen ziehen auseinander. Thiele setzt auf Erzählung und Institution — und unterstellt damit Entscheider, die sich die Interessen der unteren sechsundneunzig Prozent vorstellen können. Hartmann bestreitet genau diese Voraussetzung und will die Zusammensetzung ändern. Dazu ein Befund, der direkt in Thieles Fach fällt: Der Präsident des Bundesverfassungsgerichts kam als stellvertretender Unionsfraktionsvorsitzender ans Gericht und war anderthalb Jahre später dessen Präsident.
+
 ---
 
 ## Weiterdenken

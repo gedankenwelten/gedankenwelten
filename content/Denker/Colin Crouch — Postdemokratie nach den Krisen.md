@@ -165,6 +165,12 @@ Und die paradoxe Verbindung: Trump, Orbán, Bolsonaro — populistisch in der Rh
 - [[Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]] — Crouchs Goldman-Sachs-Beispiel ist die institutionelle Version des Gewebe-Arguments: Postdemokratie zieht Fäden heraus, die man nicht sieht — bis zum Systemversagen 2008
 - [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Mau — Triggerpunkte]] — Maus "left behind"-Analyse des deutschen Kontexts ist Crouchs theoretischer Rahmen empirisch gefüllt
 
+### → [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+
+Hartmann liefert die Rekrutierungsdaten, die Crouchs „kleine, sich überschneidende Eliten aus Politikern und Wirtschaftsführern" von einer Beobachtung in eine überprüfbare Behauptung verwandeln — samt deutschem Goldman-Sachs-Muster: zwei Wirtschaftsvertreter direkt ins Kabinett, in siebzig Jahren zuvor genau zweimal.
+
+Der Widerspruch steckt in der Zeitachse. Crouch datiert die Entleerung auf den Neoliberalismus ab den achtziger Jahren; Hartmanns Langzeitstudie ab 1871 findet für die Wirtschaftselite gar keine Veränderung. Dort gab es nie einen goldenen Zustand, von dem man hätte fallen können.
+
 ---
 
 ## Weiterdenken

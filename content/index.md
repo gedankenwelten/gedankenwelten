@@ -36,13 +36,11 @@ Die Gedankenwelten (luc)
 >
 > Eine Sinologin dreht die Kamera um und schaut von Peking aus auf uns — und was sie dort findet, ist eine Führung, deren größte Angst dem eigenen Land gilt.
 
-### Spuren
-
-> **15.08.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
->
-> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
-
 ### Denker
+
+> **16.08.** — [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+>
+> Vierzig Jahre Zählen ergeben einen Satz, der wehtut: Wer oben entscheidet, entscheidet nach seiner Herkunft — und die Herkunft wird gerade wieder enger.
 
 > **11.08.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
 >
@@ -59,6 +57,12 @@ Die Gedankenwelten (luc)
 > **11.08.** — [[Denker/Akala — Die verlorenen Seiten der Menschheitsgeschichte|Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
 >
 > Wer die Geschichte eines Kontinents verzerrt, formt die Gegenwart aller — Akala über Afrika vor der Versklavung und die Frage, wem der Lehrplan gehört.
+
+### Spuren
+
+> **15.08.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
+>
+> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
 
 ### Geistesblitz
 
