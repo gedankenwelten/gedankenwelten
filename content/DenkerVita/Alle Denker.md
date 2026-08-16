@@ -411,6 +411,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Renee DiResta|Renée DiResta]]** — Forscherin am Stanford Internet Observatory; *Invisible Rulers: The People Who Turn Lies into Reality*; Propaganda dezentralisiert, Verstärkung statt Überzeugung
 
+**[[DenkerVita/Ronnie Vuine|Ronnie Vuine]]** — Informatiker, Philosoph und Gründer von Micropsi Industries (Berlin, 2014); aus Joscha Bachs kognitiver Architektur MicroPsi in die Industrierobotik — Roboter, die Bewegungen durch Vormachen lernen (MIRAI); Entzauberer des KI-Diskurses, Skeptiker humanoider Roboter
+
 **[[DenkerVita/Robert Musil|Robert Musil]]** — österreichischer Schriftsteller & Essayist (1880–1942), Ingenieur und Ernst-Mach-Kenner; Möglichkeitssinn vs. Wirklichkeitssinn, Einheit von Präzision und Seele, der „andere Zustand"; *Die Verwirrungen des Zöglings Törleß* (1906), *Der Mann ohne Eigenschaften* (unvollendet); vom NS verboten, im Genfer Exil verarmt gestorben
 
 **[[DenkerVita/Ronen Steinke|Ronen Steinke]]** — Journalist, Sachbuchautor, Jurist; SZ-Korrespondent; Meinungsfreiheit, Verfassungsschutz als Demokratieproblem, Fritz Bauer als Kompass

@@ -266,6 +266,10 @@ Heideggers *Gestell* ist der Begriff, den dieser Vortrag ohne ihn auskommen lass
 
 Ein datierbarer Punkt für die Spur, und er kommt aus einer Quelle, die keinen Grund zur Untertreibung hat. AEON steht seit Juni 2026 im BMW-Werk Leipzig an realen Produktionsaufgaben; die Begründung, die auf der Bühne fällt, ist nicht Kostensenkung, sondern fehlende Menschen — repetitive Arbeit wolle niemand mehr machen, dazu die Rückverlagerung der Fertigung aus China. Genau diese Begründung ist der Punkt, an dem die Spur hinsehen sollte: Der Faktencheck findet für die genannten 20 Prozent offener Stellen in der Landwirtschaft keine Grundlage, und der Business Case für humanoide Robotik steht und fällt mit der Behauptung, es gebe niemanden mehr für die Arbeit.
 
+### → [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Ronnie Vuine — Warum Roboter keine Beine brauchen]]
+
+Der empirische Gegencheck zur AEON-Demo. Sechs Wochen nachdem Hexagon den Humanoiden in der Leipziger Batteriemontage zeigt, sagt Ronnie Vuine, in Teslas Fabrik stünden keine — beide können recht haben, wenn das Wort „humanoid" driftet. Wichtiger ist die Begründung: Hexagon nennt fehlende Menschen, Vuine rechnet dagegen, dass der Arbeiter billig war und der Ingenieur teuer ist, den ein ausgefallenes Gelenk nachts aus dem Bett holt.
+
 ---
 
 ## Weiterdenken
