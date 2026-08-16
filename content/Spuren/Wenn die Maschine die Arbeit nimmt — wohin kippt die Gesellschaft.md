@@ -140,6 +140,10 @@ Ein harter Datenpunkt für das Seil, gesprochen vom Hersteller selbst: AEON, ein
 
 Die Stimme, die das Seil für dünner hält, als es aussieht. Herrmann bestreitet die Größenordnung: KI sei eine normale Technikwelle plus eine Bewertungsblase, und ein Kapitalismus, der seine eigenen Kunden abschafft, frisst sich selbst — ein ökonomischer Selbstkorrekturmechanismus, den die Spur bisher nicht führt. Ihre Unterscheidung zwischen Börsen- und Immobiliencrash gehört als Maßstab dazu, falls ein Platzen der Blase als Datenpunkt eingeht.
 
+### → [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Ronnie Vuine — Warum Roboter keine Beine brauchen]]
+
+Das bislang stärkste Material für die Kalt-Bedingung dieser Spur, jedenfalls für die körperliche Hälfte der Arbeit. Der Robotiker Ronnie Vuine zeigt, dass generalistische Modelle bei rund siebzig Prozent Erfolgsquote stehen, wo die Produktion 99,x braucht, und dass die Humanoiden nicht an Intelligenz scheitern, sondern an Wartung. Sein Bild der funktionierenden Fabrik — die Roboter laufen, einer sitzt halb schlafend daneben am Telefon — ist für Signal 2 und 3 zugleich doppeldeutig: befreite Zeit oder entwertete Anwesenheit?
+
 ## Quellen
 
 *Pilot — die Quellenbasis wächst mit den Sweeps. Erste Anker:*

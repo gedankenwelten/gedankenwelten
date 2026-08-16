@@ -101,6 +101,10 @@ Die Kehrseite der Vernetzung: Je tiefer die KI in den Alltag verwoben ist, desto
 
 Die 3sat-Doku dokumentiert, was diese Note vorausdenkt: Yarvins Stadtstaat als Aktienunternehmen („no vote, free exit"), Seasteading, Próspera — die goldene Turmstadt als realer Businessplan, ideengeschichtlich hergeleitet von Rand über Girard bis zur politischen Theologie.
 
+### → [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Ronnie Vuine — Warum Roboter keine Beine brauchen]]
+
+Die Dystopie beantwortet seine Frage, indem sie zeigt, dass es die falsche ist. Ronnie Vuine hält eine Superintelligenz für ungefährlich, weil sie keinen Grund hätte, sich Skynet in die Belohnungsfunktion zu schreiben — es gebe sie ja auch bei Menschen nicht, die Leute im Vulkan. Hier steht, dass Gefahr keine Absicht braucht: Wer die Maschinen besitzt, nimmt beide Hebel zugleich, den des Produzenten und den des Käufers. Die Umkehrung seines Optimismus steht in der grausamen Wendung — Macht braucht den Untertan, weil der Roboter keinen Widerstand bietet.
+
 ---
 
 ## Weiterdenken

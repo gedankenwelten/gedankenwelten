@@ -429,3 +429,8 @@ Mühlhoffs Verantwortungsdiffusion, ins Militärische verlängert: Die re:public
 ### → [[Catrin Misselhorn — Grundfragen der Maschinenethik]]
 
 Misselhorn liefert die ethische Fassung von Mühlhoffs Machtanalyse: Ihr dritter Grundsatz (substanzielle menschliche Verantwortung, überprüfbar und anfechtbar) ist die normative Antwort auf die prädiktiven Verwaltungssysteme, deren Verantwortungsdiffusion er beschreibt.
+
+### → [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Ronnie Vuine — Warum Roboter keine Beine brauchen]]
+
+Methodisch verbündet, politisch getrennt. Der Robotiker Ronnie Vuine praktiziert die Regel, dass KI nicht im Singular existiert, indem er über dieses Gelenk in dieser Nachtschicht spricht statt über Robotik. Und er sieht die Machtfrage — wer „wir" definiert, herrscht darüber —, legt sie aber als individuelle Skepsis beiseite und geht zur Erziehung einer künftigen Intelligenz über. Seine KI-Kindergärten setzen voraus, dass jemand Unbefangenes das Curriculum schreibt; hier stehen die Eigentumsverhältnisse des Kindergartens.
+

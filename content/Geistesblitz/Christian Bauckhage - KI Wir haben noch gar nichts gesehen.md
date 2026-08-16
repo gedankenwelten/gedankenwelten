@@ -209,6 +209,10 @@ Ein produktiver Kontrast zweier Bonner Denker: Der Philosoph Gabriel deutet KI a
 
 Bauckhages These vom schmalen Pfad — Verticals, kleine Modelle, eigene Daten — im Feldbericht eines Konzerns, der es täglich versucht. Hexagons AI-Forschungsleiter sagt es fast wörtlich: Bild-Foundation-Models wie Metas DINOv3 seien beeindruckend und für 3D-Punktwolken unbrauchbar, also trainiere man monatelang eigene, spezialisierte Netze; jeder Scanner ist anders, jede Prozessierung auch. Das ist der stille Widerspruch zur Skalierungserzählung, ausgerechnet aus der Industrie. Die zweite Brücke ist die Robotik: Bauckhages Weltmodelle sind Winistörfers *Physical AI*, und mit AEON im BMW-Werk Leipzig gibt es dazu einen datierbaren Zwischenstand statt eines Versprechens.
 
+### → [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Ronnie Vuine — Warum Roboter keine Beine brauchen]]
+
+Das erste „Ja, aber", das die Verdopplungskurve nicht einholt — weil es nicht in ihrer Dimension liegt. Der Robotiker Ronnie Vuine rechnet vor, dass Modellgröße exponentiell wächst und Reibung nicht: Montage lässt sich nicht simulieren, und Fabrikteile stehen in keinem Trainingskorpus. Beide messen nüchtern und kommen zu unvereinbaren Zeithorizonten, weil der eine das Kognitive extrapoliert und der andere das Körperliche.
+
 ---
 
 ## Weiterdenken

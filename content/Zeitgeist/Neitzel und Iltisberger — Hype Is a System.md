@@ -225,6 +225,10 @@ Diese Note thematisiert ein Paradox, das Neitzel/Iltisberger beschreiben, ohne e
 
 Der epistemische Zwilling im Klimafeld: Beide handeln vom Lesen von Zukunftsaussagen. Hier der Hyperloop als „grand vision", die nie einlöst, dort die 81-%-Prognose, aus der die Schlagzeile „der Monster-El-Niño kommt" wird. Hype-Immunität und Beautemps' saubere Trennung von „100 % läuft" und „81 % könnte" sind dieselbe Disziplin gegen die Verwechslung von Narrativ mit Fakt.
 
+### → [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Ronnie Vuine — Warum Roboter keine Beine brauchen]]
+
+Der Contrarian aus der Fragerunde in Person. Vuine ist der nüchterne Fachmann, dessen Einwand — diese Technologie hat reale Grenzen — strukturell nicht durchs Attention System kommt; er löst es durch Zuspitzung, und der Kanal verkauft es als „brutale Wahrheit". Kritik, die den Loop bedient, den sie kritisiert. Sein Argument gegen die Alignment-Debatte leitet außerdem den Skynet-Effekt unabhängig her: Wer „die Menschheit" definiert, herrscht über dieses Wir.
+
 ---
 
 ## Weiterdenken

@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **16.08.** — [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Warum Roboter keine Beine brauchen]]
+>
+> Eine Erfolgsquote von 70 Prozent heißt in der Küche: ein kaputter Teller pro Woche. Der Robotiker Ronnie Vuine rechnet dem Humanoiden-Hype die Physik vor — und der Alignment-Debatte ihr Wir.
+
 > **16.08.** — [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Rechtspopulismus und der demokratische Verfassungsstaat]]
 >
 > Vereinfachen ist kein Angriff auf die Demokratie. Der Angriff beginnt dort, wo jemand aufhört, die gleiche politische Freiheit aller überhaupt zu wollen.

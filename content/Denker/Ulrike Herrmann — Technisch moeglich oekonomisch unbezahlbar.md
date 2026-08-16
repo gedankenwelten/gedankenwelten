@@ -358,6 +358,10 @@ Die direkteste Gegenposition zu ihrer Kernforderung, und sie hat einen Namen: Tr
 
 Eine deflationäre Stimme, die dieser Spur guttut, weil sie deren Prämisse angreift statt ihre Signale zu füllen. Herrmann liest KI als normale Weiterentwicklung des Kapitalismus, in der Reihe von Elektrizität, Chemie und Flugzeug — Mustererkennung, die funktioniert, umgeben von einer Erzählung, die sie für gnadenlos übertrieben hält. Ihre Kernaussage für das Tauziehen ist ökonomisch: Wer die Menschen überflüssig macht, macht auch seine Kunden überflüssig, weshalb sie die Zerschlagung der Konzerne für wahrscheinlicher hält als deren Herrschaft. Dazu die Unterscheidung, die in der Blasendebatte fast immer fehlt — ein gemanagter Börsencrash ist verkraftbar, gefährlich sind Immobilien, weil dort fünfzig bis sechzig Prozent des Volksvermögens liegen.
 
+### → [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Ronnie Vuine — Warum Roboter keine Beine brauchen]]
+
+Dieselbe Denkfigur in der Robotik. Ronnie Vuine erklärt den Humanoiden für technisch möglich und ökonomisch unbezahlbar, sobald man die Ausfallwahrscheinlichkeit von vierzehn Gelenken mit einer Nachtzulage multipliziert — Herrmann rechnet Thermodynamik in Euro, er Servos in Wartungsstunden. Beide entziehen der Vorführung ihre Beweiskraft. Und beide zahlen denselben Preis: Wer scharf rechnet, rechnet dort ungenau, wo es ihm nützt.
+
 ---
 
 ## Weiterdenken

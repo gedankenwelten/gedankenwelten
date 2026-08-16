@@ -6,6 +6,19 @@ tags:
   - links
 ---
 
+## Ronnie Vuine — Warum Roboter keine Beine brauchen
+
+| | |
+|---|---|
+| **Interview / Video** | [Robotiker packt aus — Die brutale Wahrheit über Humanoide](https://www.youtube.com/watch?v=AktS_a6Ru7E) — Everlast AI, Leonard Schmedding im Gespräch mit Ronnie Vuine, 14.07.2026, 78 Min. |
+| **Essay** | *Do Not Align* (2023) — Vuines Gegenposition zur Alignment-Debatte; im Gespräch als „mein Paper" bezeichnet, **öffentlich nicht auffindbar** (Humboldt/Sherlock: kein Treffer auf Blog, Substack, Medium, LessWrong) |
+| **Firma** | [Micropsi Industries](https://www.micropsi-industries.com/) — MIRAI; [Fallstudie BSH Leckageprüfung](https://www.micropsi-industries.com/mirai-cases/bsh-automates-leak-testing) |
+| **Primärtext dahinter** | [Rodney Brooks — Why Today's Humanoids Won't Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/) (26.09.2025) |
+| **Forschung (Faktencheck)** | [Li et al., *Making AI Less „Thirsty"*, CACM 2025 (DOI 10.1145/3724499)](https://doi.org/10.1145/3724499) · [Gimeno et al., *Residence time of water vapour*, Nat Rev Earth Environ 2021 (DOI 10.1038/s43017-021-00181-9)](https://doi.org/10.1038/s43017-021-00181-9) · [Levine et al., *Learning Hand-Eye Coordination*, arXiv:1603.02199](https://arxiv.org/abs/1603.02199) · [GRASP Lab — Evaluating π0 in the Wild](https://penn-pal-lab.github.io/Pi0-Experiment-in-the-Wild/) |
+| **Notiz** | [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen]] |
+| **Vita** | [[DenkerVita/Ronnie Vuine]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Vuine_Humanoide_Robotik_Transkript.txt` |
+
 ## Michael Hartmann — Herkunft schlägt Parteibuch
 
 | | |

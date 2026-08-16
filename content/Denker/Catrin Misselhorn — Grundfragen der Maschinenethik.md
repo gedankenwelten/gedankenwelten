@@ -193,6 +193,10 @@ Produktive Reibung: Harari sieht die KI als neuen „Meister der Worte", der han
 
 Empirische Flanke zu Misselhorns philosophischem Rechnen-vs-Denken: Spitzers Neurobiologie stützt von der Gehirnseite, was sie begrifflich behauptet. Ihr gemäßigter Naturalismus (Spiegelneuronen stützen die Empathie-Theorie, ersetzen sie nicht) ist genau diese Arbeitsteilung von Evidenz und Begriff.
 
+### → [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Ronnie Vuine — Warum Roboter keine Beine brauchen]]
+
+Der offene Gegensatz. Ronnie Vuines Position gegen die Alignment-Debatte behandelt eine kommende Intelligenz als Gegenüber, dem man Kultur zeigt, statt als Gerät, das man festbindet — sein Einwand, auf ein gemeinsames Wertesystem werde man sich nie einigen, trifft Misselhorns Prinzipien, ihr Verantwortungsargument trifft seine Erziehungsidee zurück. Zweite Naht bei der Kunst: Sein Grounding-Argument, eine KI könne nicht in den Wald gehen, ist die technische Fassung der *Fake Art*-These.
+
 ---
 
 ## Weiterdenken
