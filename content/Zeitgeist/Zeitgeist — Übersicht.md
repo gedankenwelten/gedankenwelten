@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*281 Notes — automatisch generiert · nach Thema sortiert*
+*283 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -151,6 +151,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel|phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
 - [[Zeitgeist/rabbit hole — Ungarn-Wahl KI-Wahlkampf|rabbit hole — Ungarn-Wahl: Wird Politik zum KI-Albtraum?]]
 - [[Zeitgeist/republica26 — Wie gelingt die Energiewende|re:publica 26 — Wie gelingt die Energiewende? Und was bedeutet sie für unsere Demokratie?]] — Die Meinungsforscherin und der Netzbetreiber: Was die Deutschen mit der Energiewende verbinden — und warum Versorgungssicherheit das neue Wort für Freiheit ist.
+- [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Rechtspopulismus und der demokratische Verfassungsstaat]] — Vereinfachen ist kein Angriff auf die Demokratie. Der Angriff beginnt dort, wo jemand aufhört, die gleiche politische Freiheit aller überhaupt zu wollen.
 - [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland|rp26 — Stresstest für die Demokratie: Sind wir bereit für den Ernstfall in Ostdeutschland?]]
 - [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]] — Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter an der ukrainischen Front, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
 - [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
@@ -235,6 +236,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren|Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren?]]
 - [[Zeitgeist/PhoenixRunde — Machtpoker in Peking, Trump trifft Xi|PhoenixRunde — Machtpoker in Peking: Trump trifft Xi]]
 - [[Zeitgeist/PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?|PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
+- [[Zeitgeist/Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)|Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]] — Sieben Jahre nach Epsteins Tod ist die Bilanz eine Anwesenheitsliste von Abwesenden — und die Frage, warum Rechenschaft überall funktioniert außer dort, wo die Akten liegen.
 - [[Zeitgeist/Staiy — News: Die Regierung zockt euch ab (02.04.2026)|Staiy — News: Die Regierung zockt euch ab (02.04.2026)]]
 - [[Zeitgeist/Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart|Sternstunde Philosophie — Der Iran-Krieg und die Geopolitik der Gegenwart]]
 - [[Zeitgeist/Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt|Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]] — Eine Sinologin dreht die Kamera um und schaut von Peking aus auf uns — und was sie dort findet, ist eine Führung, deren größte Angst dem eigenen Land gilt.

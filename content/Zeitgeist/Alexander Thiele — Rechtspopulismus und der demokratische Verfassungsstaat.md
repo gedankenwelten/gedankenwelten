@@ -89,7 +89,7 @@ Der Reiz dieser Trias liegt darin, dass sie kein politisches Programm ist. Sie s
 
 ### Warum es einmal funktioniert hat
 
-Das interessanteste Kapitel des Gesprächs ist eine Fallgeschichte, die zeigt, dass Thieles Rezept schon einmal gewirkt hat.
+Thieles Rezept hat schon einmal gewirkt — das ist die überraschendste Stelle des Gesprächs.
 
 [▶ 44:28](https://www.youtube.com/watch?v=Y16yv3FrxTg&t=2668) Die AfD entstand 2013 aus einem Teilhabedefizit. Merkel nannte die Euro-Rettung alternativlos, und ein Wort, das eine politische Frage für entschieden erklärt, produziert die Partei, die sich Alternative nennt. [▶ 45:13](https://www.youtube.com/watch?v=Y16yv3FrxTg&t=2713) Zwei Jahre später war die Partei praktisch erledigt — weil der Bundestag die Debatte geöffnet hatte. Abgeordnete wie Frank Schäffler durften gegen die eigene Fraktion sprechen. Das Defizit war behoben, das Motiv weg.
 
@@ -320,7 +320,7 @@ Dieselbe Rechtsfrage, entgegengesetzte Folgerung — und die Reibung verläuft m
 
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
 
-Thieles Einwand gegen das Entzaubern — von Papens „in zwei Monaten quietscht er", der größte Irrtum der Menschheitsgeschichte — ist eine Prognose, und die Spur ist der Ort, an dem sie sich messen lässt. Dort wird nicht die Rhetorik beobachtet, sondern die **Praxis** dort, wo die Partei bereits Macht hat. Fällt sie in Landratsämtern und mit Sperrminoritäten anders aus als das Gutachten erwartet, verliert Thiele sein stärkstes Argument gegen die Regierungsbeteiligung; bestätigt sie sich, verliert die Gegenseite ihr Entzauberungs-Angebot.
+Thieles Einwand gegen das Entzaubern — von Papens „in zwei Monaten quietscht er", der größte Irrtum der Menschheitsgeschichte — ist eine Prognose, und die Spur ist der Ort, an dem sie sich messen lässt. Dort wird die **Praxis** beobachtet, dort wo die Partei bereits Macht hat. Fällt sie in Landratsämtern und mit Sperrminoritäten anders aus als das Gutachten erwartet, verliert Thiele sein stärkstes Argument gegen die Regierungsbeteiligung; bestätigt sie sich, verliert die Gegenseite ihr Entzauberungs-Angebot.
 
 ### → [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
 

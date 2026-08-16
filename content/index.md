@@ -28,7 +28,7 @@ Die Gedankenwelten (luc)
 >
 > Vereinfachen ist kein Angriff auf die Demokratie. Der Angriff beginnt dort, wo jemand aufhört, die gleiche politische Freiheit aller überhaupt zu wollen.
 
-> **16.08.** — [[Zeitgeist/Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)|Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]]
+> **15.08.** — [[Zeitgeist/Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)|Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]]
 >
 > Sieben Jahre nach Epsteins Tod ist die Bilanz eine Anwesenheitsliste von Abwesenden — und die Frage, warum Rechenschaft überall funktioniert außer dort, wo die Akten liegen.
 
