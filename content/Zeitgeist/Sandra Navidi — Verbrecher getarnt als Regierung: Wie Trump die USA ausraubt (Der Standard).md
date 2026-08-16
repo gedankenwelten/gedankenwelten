@@ -22,6 +22,8 @@ Quelle: [„Verbrecher getarnt als Regierung": Wie Trump die USA ausraubt | Sand
 
 > [!info] Wer spricht?
 > **Sandra Navidi** — Deutsch-amerikanische Juristin, Finanzexpertin und Autorin. CEO von BeyondGlobal LLC in New York, Autorin von *SuperHubs* (2016, über globale Finanzeliten) und *Die DNA der USA* (über die Mechanismen amerikanischer Macht). Regelmäßig als Expertin bei n-tv, CNBC und CNN. Navidi beobachtet das amerikanische Finanzsystem aus der Innenperspektive New Yorks — sie kennt die Akteure, die Strukturen und die ungeschriebenen Regeln.
+>
+> → [[DenkerVita/Sandra Navidi|DenkerVita]]
 
 ---
 
@@ -216,6 +218,9 @@ Aber: Navidi traut den Midterms nicht. Die Republikaner drehen an allen Stellsch
 ---
 
 ## Verbindungen
+
+### → [[Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]]
+Dieselbe Stimme vier Monate später, angewandt auf einen einzelnen Strafkomplex: Was hier als System beschrieben wird — Geld kauft sich ein Sondersystem —, wird dort an Personen konkret, die an den Nadelöhren des Justizapparats sitzen. Und Navidi ist darin selbst betroffen: Ihr Name steht ungeschwärzt in den Epstein-Akten, der des Absenders geschwärzt.
 
 ### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
 Kühnert blickt warnend auf die USA — „weil es manchmal einfach schon drei Schritte weiter ist". Navidi zeigt von innen, wie weit: Wo Geld unbegrenzt in Politik fließt (Citizens United, Musk → eigene Behörde), kauft sich Reichtum ein Sondersystem. Sein deutsches Vorsorge-Argument findet hier den eingetretenen Ernstfall.

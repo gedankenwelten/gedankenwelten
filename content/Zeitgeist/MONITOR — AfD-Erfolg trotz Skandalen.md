@@ -235,3 +235,7 @@ Die materielle Kehrseite des AfD-Erfolgs: Evers' *Fun Facts Utopia* zitiert den 
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
 
 MONITORs Befund, dass Empörung als Messgröße verbraucht ist, wurde zum Konstruktionsprinzip der AfD-Spur: Sie zählt keine Skandale, sondern nur Maßnahmen — Eingriffe in Gegner, Würde, Institutionen, geprüft am GFF-Maßstab.
+
+### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
+
+Thiele baut sein Buch auf der Prämisse, die MONITOR bestreitet: dass die Wählenden nachvollziehbare Gründe haben und ihre Defizite darum behebbar sind. Die ZEW-Analyse zeigt ein Programm, das ausgerechnet Geringverdienende am wenigsten entlastet und trotzdem von ihnen gewählt wird; Matthias Quents Erklärung — die Partei sprenge „die Fesseln der Realität, der Komplexität" — ist Thieles Gegenthese in einem Satz. Beide beschreiben dasselbe Konto, auf das jedes Regierungsversagen einzahlt, ziehen daraus aber verschieden hoffnungsvolle Schlüsse.

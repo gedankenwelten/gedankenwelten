@@ -191,3 +191,7 @@ Empirischer Beleg für die Polarisierungsunternehmer-These: NiUS transformiert e
 ### → [[Zeitgeist/Doerre - Klassen Kapitalismus und Demokratie]]
 
 Dörres VW-Forschung liefert die Betriebsebene zu Maus demobilisierter Klassengesellschaft: Selbst im am besten organisierten Unternehmen Europas wird ein schlechter Kompromiss akzeptiert. Outlaw-Stolz (Dörre/Hochschild) und Maus Triggerpunkte-Modell beschreiben denselben emotionalen Mechanismus aus verschiedenen Perspektiven — das Nicht-gesehen-Werden als Grundierung des Rechtsrucks.
+
+### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
+
+Thiele diagnostiziert dieselbe Erosion und schlägt vor, sie zu reparieren: Teilhabe öffnen, Übergriffigkeit begrenzen, Leistungsfähigkeit herstellen. Maus Befund stellt genau das infrage. Ist die Oben-Unten-Arena gesättigt und entzündet sich Erregung an Triggerpunkten der Zugehörigkeit, repariert Thiele die falsche Arena — eine instandgesetzte Brücke beantwortet keine Anerkennungsfrage. Die Veränderungsmüdigkeit trifft zudem seinen Schlussvorschlag frontal: Eine geteilte Zukunftserzählung für 2050 ist genau das Transformationsversprechen, für dessen Gegenteil vierzig Prozent empfänglich sind.
