@@ -248,6 +248,10 @@ Quent leitet aus Löwensteins Faschismus-Definition die Notwendigkeit *instituti
 
 Die Langzeit-Spur, die dieses Gutachten als vorregistrierte Messlatte übernimmt: Sie beobachtet über Jahre, ob die AfD dort, wo sie reale Macht ausübt (Kommune, Sperrminorität, evtl. Regierung), die nachgewiesenen Ziele realisiert — und ob die hier bewusst beiseitegelegten Steine (Antisemitismus, Behindertenfeindlichkeit, NS-Wesensverwandtschaft) die Maßnahmen-Schwelle doch noch nehmen.
 
+### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
+
+Dieselbe Rechtsfrage, entgegengesetzte Folgerung. Thiele gehörte 2024 zu den Rechtswissenschaftlern, die die Voraussetzungen für ein Verbotsverfahren öffentlich bejahten — das Gutachten hat diesen Nachweis zwei Jahre später mit über 2.500 Belegen geführt. Er bestreitet das Ergebnis nicht, er verschiebt die Frage von *ginge es?* zu *hilft es?* und landet beim Nein: Das Schlimmste wäre ein Verbot, nach dem sich alle zurücklehnen, während keines der Defizite behoben ist, die die Partei groß gemacht haben. Die GFF beantwortet die juristische Vorfrage und lässt die politische offen; Thiele füllt genau diese Lücke.
+
 ---
 
 ## Weiterdenken

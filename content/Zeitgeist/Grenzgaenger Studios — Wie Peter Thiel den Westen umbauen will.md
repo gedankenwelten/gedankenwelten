@@ -274,6 +274,10 @@ Münkler nennt Thiel beiläufig als Beleg dafür, dass die USA ins Katechontisch
 
 Die wirtschaftshistorische Tiefenschärfe zu dieser Recherche. Für Orain erfindet Thiel mit *Zero to One* nichts, sondern reaktiviert die merkantilistische Doktrin des 17. Jahrhunderts, nach der nicht der Wettbewerb den Kapitalismus antreibt, sondern das Monopol. Und Chaudhrys „State-Made Milliardär" hat in Orains Rahmen einen Namen: die Ostindienkompanie — ein Konzern, dessen Marktmacht ein staatliches Privileg ist und der dafür hoheitliche Aufgaben übernimmt.
 
+### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
+
+Der Staatsrechtler braucht Peter Thiel als Testfall für seine Grenzziehung: Vereinfachen gehört zur Demokratie, das Sortieren in geeignete und ungeeignete Bürger nicht. Thiel liefert den Reinfall, weil er offen sagt, Demokratie und technologischer Fortschritt seien unvereinbar. Wo Chaudhry die Genealogie erzählt — State-made statt Selfmade —, beschreibt Thiele das Ergebnis: Trump und Musk als Verschränkung von libertärer Säule und Staatsmacht, ein neuer digitaler Leviathan. Die deutsche Zusammenarbeit mit Palantir nennt er eine Blauäugigkeit, die an Fahrlässigkeit grenzt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

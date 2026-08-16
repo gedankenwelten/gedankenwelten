@@ -285,3 +285,7 @@ Dankbars These zur Abstiegsangst als AfD-Treiber ist Frickes Kontrollverlust-Arg
 ### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
 
 Clüver Ashbrooks „umgekehrtes Robin-Hood-Gesetz“ ist Frickes These in Aktion: Die Umverteilung nach oben ist nicht nur ungerecht, sondern der Treibstoff der nächsten rechten Radikalisierung.
+
+### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
+
+Der Staatsrechtler teilt Frickes Weigerung, den Aufstieg der AfD als Charakterwandel der Wählenden zu lesen — und benennt einen anderen Motor. Wo Fricke Kontrollverlust und ökonomische Brüche sieht, sieht Thiele drei Legitimitätsdefizite: Teilhabe, Begrenzung der Herrschaft, Leistungsfähigkeit. Der Streit entzündet sich an 2015. Für Thiele ist die von CDU bis Linkspartei konsentierte Willkommenskultur das Teilhabedefizit, das blieb; Fricke hält Migration für ein Scheinargument, weil die AfD dort am stärksten ist, wo am wenigsten Migranten leben.

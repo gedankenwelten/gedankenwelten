@@ -175,6 +175,10 @@ Drei Momente aus dem Kreuzverhör tragen weiter als alle Empörung. Erstens, [�
 
 Dieses Video liefert die Daten für den Sweep vom 17.07.: Die vorregistrierte 2.7.-Gabel ist gefallen (DOJ wählte den Begründen-Pfad statt zu liefern), der FBI-Schulungsvideo-Befund gibt der Schwärzungs-These erstmals eine dokumentierte, namensbezogene Mechanik.
 
+### → [[Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]]
+
+Derselbe Komplex einen Monat später, aus dem entgegengesetzten Register: eine New Yorker Juristin ohne Empörungsdramaturgie. Beide tragen denselben Kern (FBI-Schulungsvideos, Blanches Mitverschwörer-als-Opfer-Konstruktion) — und beide übernehmen die nicht gedeckte Zuspitzung, die Schwärzungsarbeit habe „vor allem Trumps Namen" gegolten. Ein Lehrstück darüber, dass ruhiger Ton keine bessere Quellenlage bedeutet.
+
 ### → [[Koschi Politik — Epstein - Leon Black und das Urteil gegen das DOJ]]
 
 Der direkte Vorgänger: dieselbe Katie-Phang-Klage, derselbe Todd Blanche — eine Prozess-Stufe früher. Koschi zeigt den Riss in der Mauer (Gericht rügt Blanche, setzt die 2.7.-Frist), diese Note zeigt, was danach durch den Riss sichtbar wird. Zusammen der Verlauf einer einzigen Klage.

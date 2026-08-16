@@ -119,6 +119,10 @@ Diese Note gehört zur lebenden **Spur** [[Spuren/Epstein-und-der-Schutz-von-Eli
 
 Die lebende Spur verfolgt die These des *strukturellen Elitenschutzes* über die Zeit. Dieses Wochenende ist dort als Verlaufseintrag (28.06.) festgehalten — als erster echter Test der vorab registrierten Falsifikationsbedingungen.
 
+### → [[Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]]
+
+Die Fortsetzung, sieben Wochen später: Blacks hier angekündigte Deposition unter Eid fand am 16. Juli nicht statt — sie wurde auf den 3. September vertagt. Das Verfahren gegen das DOJ läuft dagegen weiter und ist bei einer Contempt-Warnung angekommen.
+
 ### → [[Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]] · [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] · [[NANO Talk - Eliten Machtmissbrauch und Verantwortung]]
 
 Schwester-Notes zum Komplex Eliten, Macht und Rechenschaft.

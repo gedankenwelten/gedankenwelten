@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat
+
+| | |
+|---|---|
+| **Podcast / Video** | [Alexander Thiele: Rechtspopulismus und der demokratische Verfassungsstaat](https://www.youtube.com/watch?v=Y16yv3FrxTg) — Einmischen! Politik Podcast, 10.08.2026, 133 Min. |
+| **Buch** | [Rechtspopulismus und der demokratische Verfassungsstaat](https://www.reclam.de/produktdetail/rechtspopulismus-und-der-demokratische-verfassungsstaat-9783150147900) — Reclam, „Was bedeutet das alles?", Juli 2026 |
+| **Notiz** | [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]] |
+| **Vita** | [[DenkerVita/Alexander Thiele]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Thiele_Rechtspopulismus_Transkript.txt` |
+
 ## Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt
 
 | | |
@@ -276,6 +286,16 @@ tags:
 | **DenkerVita** | [[DenkerVita/Isabel Wilkerson]] |
 | **Ambedkar–Du-Bois-Briefwechsel** | [SAADA/TIDES](https://www.saada.org/tides/article/ambedkar-du-bois) |
 | **Transkript** | `Gedankenwelten/Transkripte/Wilkerson_Ambedkar_Transkript.txt` |
+
+## Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard, 2026)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Sandra Navidi: Epsteins Mittäter und Trump kommen davon — Thema des Tages](https://www.youtube.com/watch?v=5BXCGZGXaSk) (14.08.2026, 46 Min.) |
+| **Notiz** | [[Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]] |
+| **Spur** | [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]] (Sweep 15.08.) |
+| **Zweite Navidi-Quelle** | [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Navidi_Epstein_Transkript.txt` |
 
 ## KALAYO — Epstein-Zensur & Blanche-Anhörung (2026)
 

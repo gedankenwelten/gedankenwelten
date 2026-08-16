@@ -12,7 +12,7 @@ status: offen
 konfidenz: 70%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-07-17
+aktualisiert: 2026-08-15
 description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen."
 ---
 
@@ -55,6 +55,94 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 **Kalt, wenn:** vollständige Offenlegung abgeschlossen, Rechenschaft erschöpft.
 
 ## Verlauf
+
+### 2026-08-15 — Europa verhaftet, Amerika vertagt (Konfidenz 70 % → 70 %)
+
+**Befund:** Beide am 17.07. offenen Gabeln haben sich aufgelöst — und zwar **keine** davon in Richtung
+Aufklärung:
+
+1. **Die Black-Gabel ist gefallen — als Verschiebung.** Die für den **16. Juli** subpoenierte, videographierte
+   Deposition unter Eid fand **nicht statt**; sie wurde auf den **3. September 2026** vertagt (Just the News,
+   14.07.). Was am 17.07. stattdessen öffentlich wurde, war das **Transkript** des freiwilligen Gesprächs vom
+   26.06.: Black bestreitet darin eine Freundschaft („I was not involved with and had no knowledge of any of
+   Epstein's heinous conduct"), räumt ein, Epsteins Netzwerk gesellschaftlich genutzt zu haben, und nennt drei
+   Menschen, die Epstein ihm vorgestellt habe — **Elon Musk, Bill Gates, Deepak Chopra**. Die NDAs sollten „Ende
+   nächster Woche" folgen.
+2. **Sullivan droht mit Beugehaft-Instrument.** Am **6. August** ordnete Richter Sullivan an, das DOJ müsse seine
+   Behauptung, geschwärzte Namen seien Opfernamen, **dokumentieren** statt zu behaupten. Am **13. August** stellte
+   er in öffentlicher Sitzung fest, das sei nicht geschehen, und setzte die DOJ-Anwälte förmlich auf **Civil
+   Contempt** in Kenntnis — mit Verweis auf den Ted-Stevens-Fall, in dem er das schon einmal tat: *„That isn't a
+   threat. That's a promise."* Streitpunkte: die fehlende Dokumentation, handschriftliche FBI-Vernehmungsnotizen
+   (DOJ: „duplikativ" und schwer zu schwärzen — das Gesetz kennt keine Duplikat-Ausnahme) und der bis heute
+   **nie im Federal Register veröffentlichte** Schwärzungs-Katalog, den der Transparency Act vorschreibt.
+3. **Der Apollo-Aufsichtsrat führt jetzt die Geheimdienste.** **Jay Clayton** wurde am **28. Juli 2026** mit
+   **51:47** zum **Director of National Intelligence** bestätigt (18 Dienste). Clayton war ab Februar 2021 *Lead
+   Independent Director* und später nicht-exekutiver Vorsitzender von **Apollo Global Management** — dem
+   Unternehmen, aus dem Leon Black wegen seiner Epstein-Zahlungen ausscheiden musste.
+4. **Neue US-Ermittlungen: keine.** Nach Sandra Navidi (Anwältin, in New York zugelassen) ist gegen keinen der
+   in den Akten Genannten ein US-Strafverfahren eröffnet worden. Strukturell belegt: Von den **14** Epstein-
+   Befragungen des Oversight Committee waren **11 „transcribed interviews"** — Gespräche ohne Eid, ohne Video
+   (so auch Handelsminister **Howard Lutnick**, 06.05., Epsteins direkter Nachbar). Bill Gates sagte am 10.06.
+   aus, Epstein habe über einen Mittelsmann „verhüllte" Drohungen wegen außerehelicher Affären gesendet:
+   *„He never blackmailed me, but looking at these emails, it raises a serious probability that he contemplated
+   blackmailing me."*
+5. **Ein weiterer Zeuge ist tot.** Der französische Model-Scout **Daniel Siad** (68), in freigegebenen
+   DOJ-Dokumenten als Rekrutierer für Epstein nach dessen Verurteilung von 2008 benannt und von der
+   französischen Justiz wegen Menschenhandels und Vergewaltigungsvorwürfen beschuldigt, wurde am **20. Juli
+   2026** in Colombes bei Paris tot aufgefunden. Todesursache laut seinem Anwalt: Herzinfarkt.
+6. **Europa dagegen greift durch.** **Peter Mandelson** — britischer US-Botschafter, im September wegen der
+   Epstein-Mails entlassen — wurde am **23. Februar 2026** von der Metropolitan Police wegen *misconduct in
+   public office* **festgenommen** und auf Kaution entlassen; die Mails legen nahe, dass er Epstein 2009 als
+   Minister marktbewegende Regierungsinformationen zuspielte. Er trat aus Labour aus und legte sein Lordsmandat
+   nieder; Premier **Keir Starmer** trat auch deshalb zurück. **Prinz Andrew** verlor Titel, Schirmherrschaften
+   und militärische Ehren.
+
+**Deutung:** Die Spur hat bisher „Elitenschutz" gesagt und dabei stillschweigend „westliche Eliten" gemeint.
+Dieser Sweep zerlegt das. In Großbritannien fällt ein Botschafter, wird ein Lord verhaftet, stürzt ein
+Premierminister; in Frankreich ermittelte die Justiz gegen Siad bis zu seinem Tod. In den USA passiert im
+selben Zeitraum: eine Vertagung, eine Nicht-Vorlage, eine Bestätigung. Das ist nicht dieselbe Kraft, die
+überall gleich schwach wirkt — es sind **zwei verschiedene Regime**. Und der Unterschied hat einen Namen:
+Personal. Der amtierende Justizminister war Trumps Strafverteidiger; der neue Geheimdienstkoordinator saß im
+Aufsichtsrat der Firma, die Epsteins größten Geldgeber tragen musste. Navidi nennt das „Türstopper" — Leute an
+Zuständigkeitsgrenzen, die nicht vertuschen müssen, sondern nur **nichts anstoßen**. Genau darum ist die
+Vertagung vom 16. Juli auf den 3. September aussagekräftiger als jede Verweigerung: Verzögerung braucht keinen
+Beschluss und hinterlässt keine Spur. Der zweite Befund ist der Formfehler als System: Elf von vierzehn
+Befragungen ohne Eid und ohne Kamera — die Anhörung wird zur Bühne, auf der man sich reinwäscht, statt zum
+Verfahren, in dem etwas hängen bleibt.
+
+Die Konfidenz bleibt trotzdem bei **70 %**, und zwar bewusst. Der Sweep liefert das *stärkste* Material für
+die These (kein einziges neues US-Verfahren, personelle Besetzung der Nadelöhre) und im selben Fenster die
+*stärkste* Gegenkraft seit Eröffnung (ein Bundesrichter, der ein Ministerium förmlich vor Beugestrafen warnt;
+ein europäischer Staat, der einen Lord verhaftet). Wer beides sieht, darf nicht aufrunden.
+
+**Vorab registriert für den nächsten Sweep** — drei datierte Gabeln, nicht aufzuweichen:
+- **~24.08.2026** — legt das DOJ die von Sullivan verlangte *Dokumentation* der Opfer-Schwärzungen vor und
+  erscheint der Schwärzungs-Katalog im Federal Register? Beides ja → Schwächung. Beides nein oder erneut
+  „Behauptung statt Beleg" → Stärkung.
+- **03.09.2026** — Blacks Deposition. Sagt er unter Eid substanziell zu den NDAs aus → **Schwächung**. Zieht er
+  den 5. Zusatzartikel, wird erneut vertagt, oder kommen die NDAs geschwärzt → Stärkung.
+- **31.12.2026** — die Jurisdiktions-Hypothese als eigener Test: Wenn bis Jahresende in Europa mindestens
+  **eine Anklage** aus dem Epstein-Komplex erhoben ist und in den USA **keine**, gewinnt die enge Lesart
+  („US-Institutionen sind erfasst, nicht Eliten überall"). Umgekehrt fällt sie.
+
+**Gegenbeobachtung (Pflicht):** Vier Dinge gegen den Sog. (1) **Die Gegenkraft war noch nie so laut.** Sullivan
+droht nicht abstrakt — er hat Civil Contempt schon einmal verhängt, und die drei Punkte, auf denen er reitet
+(Dokumentation, handschriftliche Notizen, Federal Register), sind exakt die Stellen, an denen ein Elitenschild
+zerbrechen würde. Es kann sein, dass diese Spur gerade den Moment vor ihrer eigenen Widerlegung protokolliert.
+(2) **Der Clayton-Befund ist umgekehrt zu lesen, als es sich anfühlt.** Navidi sagt, Black habe Clayton „in
+führende Positionen untergebracht". Das Gegenteil ist dokumentiert: Apollo installierte Clayton im Februar 2021
+als *unabhängigen* Aufsichtsrat, **weil** Blacks Epstein-Zahlungen aufgeflogen waren — Governance-Reform, nicht
+Patronage. Dass er heute die Dienste führt, ist ein Interessenkonflikt, den man benennen darf; „Blacks Mann"
+ist er nicht. (3) **Die Todesfälle sind kein Befund.** Navidi nennt eine „statistisch ungewöhnliche Häufung"
+und stützt das nicht — kein Nenner, keine Basisrate. Siads Tod ist als Herzinfarkt eines 68-Jährigen berichtet,
+Brunels Suizid 2022 gerichtlich behandelt, bei Giuffre gibt es keine amtliche Feststellung von Fremdverschulden.
+Ein Verdacht ohne Zahl ist genau die Sorte Evidenz, mit der dieser Fall seine eigene Aufklärung ruiniert.
+(4) **Zwei alte Fehler kehren wieder, jetzt im Mund einer Juristin.** Navidi sagt, ohne Eid „können die sogar
+lügen" — falsch: **18 U.S.C. § 1001** stellt Falschaussagen gegenüber dem Kongress unter Strafe, mit oder ohne
+Eid; ohne Eid entfällt der Meineid-Tatbestand, nicht die Strafbarkeit. Und sie wiederholt als Tatsache, die
+FBI-Nachtschichten hätten „vor allem dringend Trumps Namen geschwärzt" — genau das, was Snopes an den
+Überstunden-Dokumenten ausdrücklich **nicht** belegt findet. Diese Spur hat das im Juli notiert; sie notiert es
+wieder.
 
 ### 2026-07-17 — Die erste Gabel fällt: Schwärzung mit Schulungsvideo (Konfidenz 65 % → 70 %)
 
@@ -231,6 +319,23 @@ ist ein Mythos-Magnet; ein großer Teil der kursierenden Behauptungen ist haltlo
 > - **Abneigung:** gegen Straflosigkeit. Darf keine Gewissheit erzeugen, wo nur Schwärzung ist.
 > - **Wachpunkt:** Die *falsifizierbare* These (struktureller Elitenschutz) strikt von der *unfalsifizierbaren* Verschwörung (geheime Kabale) trennen — Letztere diskreditiert Erstere. Wenn die Restakten ordentliche Rechtsvorsicht statt Elitenschild zeigen, **muss** das hier stehen.
 
+> [!question] Sweep 15.08.2026 — ist das Schärfen der These schon Tor-Verschieben?
+> Diesmal liegt die Gefahr nicht im Datum, sondern in der *Formulierung*. Europa hat geliefert, was die These
+> nicht erwartet hat: eine Festnahme, einen Rücktritt, einen entzogenen Titel. Mein erster Impuls war, die These
+> stillschweigend enger zu ziehen — „gemeint waren immer die **US**-Institutionen" — und die Konfidenz *trotz*
+> der Gegenevidenz zu heben. Genau so verschiebt man ein Tor: Man behält die Zahl und tauscht die Behauptung.
+> Korrektur, in drei Schritten: Ich habe die Verengung **benannt** statt sie einzuschmuggeln, sie **nicht** in
+> „Die These" hochgeschrieben (dort steht weiter der weitere Anspruch), und sie stattdessen als **eigene,
+> datierte Falsifikationsbedingung** registriert (31.12.). Wenn Europa bis Jahresende auch nichts anklagt, ist
+> die Verengung erfunden und muss zurückgenommen werden. Zweite Unbequemlichkeit, offen ausgesprochen: Die
+> stärkste Bewegung dieses Fensters ist ein Richter, der einem Ministerium mit Beugestrafen droht — also
+> funktionierende Gewaltenteilung, nicht Elitenschild. Ich habe deshalb nicht erhöht, obwohl der
+> Personal-Befund (Blanche, Clayton) für sich genommen dafür gereicht hätte. Und die dritte: Ich habe die
+> Quelle diesmal härter angefasst als sie sich anfühlt — Navidi ist Juristin, in New York zugelassen, sie
+> spricht ruhig und ohne Empörungston, was ihre unbelegten Stellen (§ 1001, die „Häufung" von Todesfällen,
+> die Clayton-Kausalität) *leichter* durchgehen lässt als ein schriller YouTube-Einstieg. Genau deshalb
+> mussten sie in die Gegenbeobachtung.
+
 > [!question] Sweep 17.07.2026 — warum jetzt erhöhen, und um wie viel?
 > Die Versuchung diesmal: Der FBI-Fund fühlt sich wie der Volltreffer an — „Schulungsvideos zum Schwärzen von
 > Trumps Namen" ist ein Satz, den das Verlangen seit Eröffnung dieser Spur hören will. Zwei Korrekturen gegen
@@ -286,12 +391,36 @@ der Quellenauswahl.*
 > die Pointe der Spur: Wo echte Rechenschaft stockt, gedeiht die Erfindung — und diskreditiert rückwirkend die
 > *berechtigte* Frage.
 
+### Nachtrag 15.08.2026 — der europäische Ring, jetzt tragend
+
+Im Juni war der Ring „Region / westliche Verbündete" eine Randnotiz (eine britische Boulevard-Aufbereitung,
+deutsche Leitmedien schwiegen). Diesmal ist er der **Befund**: Nicht die Perspektive der Europäer auf Amerika
+ist interessant, sondern dass die europäischen Rechtssysteme im selben Fall **anders handeln**. Die
+Metropolitan Police ermittelt gegen einen Lord wegen *misconduct in public office* und nimmt ihn fest
+([Al Jazeera](https://www.aljazeera.com/news/2026/2/23/british-police-arrest-epstein-linked-ex-ambassador-mandelson),
+[PBS](https://www.pbs.org/newshour/world/british-police-arrest-former-ambassador-to-the-u-s-peter-mandelson-in-probe-into-epstein-ties));
+die französische Justiz führte bis zu seinem Tod ein Verfahren gegen Siad
+([CNN](https://www.cnn.com/2026/07/22/europe/model-recruiter-epstein-dead-france-intl)). Beides ausgelöst durch
+**amerikanische** Aktenfreigaben — die US-Transparenz erzeugt Rechenschaft, nur nicht im eigenen Land.
+
+*Ehrliche Grenze dieses Nachtrags:* Er beruht auf englischsprachiger Suche. Britische und Katar-Quellen sind
+vertreten, französische Primärberichterstattung (Le Monde, Mediapart) und der Globale Süden zum
+**spezifischen** Mandelson-Komplex sind **nicht** gesampelt — das ist eine Lücke, kein Befund.
+
 ## Verbindungen
 
 ### → [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA & ICE]] · [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel & Gaza]]
 
 Schwester-Spuren: *Was die Flut wegspült.* Hier ist es die Rechenschaft der Mächtigen, die im
 Schwärzungs-Schwarz und in der nachlassenden Aufmerksamkeit verschwindet.
+
+### → [[Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]]
+
+Zeitgeist-Schnappschuss des Sweeps vom 15.08. — Navidis Bilanz mit vollem Faktencheck: die Anhörung als
+Waschanlage, die Türstopper an den Nadelöhren, die umgedrehte Schwärzung. Und die Asymmetrie der Spur an
+einem einzelnen Menschen: Ihr eigener Name steht ungeschwärzt in den Akten (eine E-Mail *über* sie, die sie
+nie beantwortet hat), der des Absenders ist geschwärzt; ihr Löschantrag ist bis heute unbearbeitet.
+Daneben ihre frühere Analyse des größeren Rahmens: [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Wie Trump die USA ausraubt]].
 
 ### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]
 
@@ -306,6 +435,16 @@ Zeitgeist-Schnappschuss des Wochenend-Sweeps (28.06.) — Leon Blacks Walkout, d
 Bestehende Zeitgeist-Note zum selben Komplex.
 
 ## Quellen
+
+**Sweep 15.08.2026 — Vertagung, Contempt-Warnung, europäische Gegenbewegung:**
+- *Einstieg:* [Sandra Navidi im Gespräch mit Schult Wilhelm — „Epsteins Mittäter und Trump kommen davon" (DER STANDARD, Thema des Tages, 14.08.2026)](https://www.youtube.com/watch?v=5BXCGZGXaSk) · Transkript: `Gedankenwelten/Transkripte/Navidi_Epstein_Transkript.txt`
+- *Black-Vertagung:* [Just the News — House Oversight panel to depose Leon Black in September (14.07.)](https://justthenews.com/government/congress/house-oversight-panel-depose-leon-black-epstein-probe-september) · [Forbes — Black says Epstein introduced him to Musk (Transkript vom 26.06., veröffentlicht 17.07.)](https://www.forbes.com/sites/alisondurkee/2026/07/17/leon-black-says-epstein-introduced-him-to-elon-musk/) · [House Oversight — Chairman Comer Issues Two Subpoenas to Leon Black](https://oversight.house.gov/release/chairman-comer-issues-two-subpoenas-to-leon-black/)
+- *Sullivan / Civil Contempt:* [All Rise News — Judge raises specter of contempt (13.08.)](https://www.allrisenews.com/p/judge-sullivan-contempt-phang-blanche) · [NBC News — Judge shows signs of frustration with DOJ attorneys](https://www.nbcnews.com/politics/justice-department/judge-shows-signs-frustration-doj-attorneys-handling-epstein-files-rcna592418) · [Joyce Vance — An Important Epstein Files Update](https://joycevance.substack.com/p/an-important-epstein-files-update)
+- *Jay Clayton als DNI:* [NBC News — Senate confirms Clayton (51:47)](https://www.nbcnews.com/politics/national-security/senate-confirms-clayton-new-director-intelligence-rcna589654) · [ODNI — Clayton sworn in](https://www.odni.gov/14064/pr-12-26/) · [Wikipedia — Clayton als Apollo Lead Independent Director ab 02/2021](https://en.wikipedia.org/wiki/Jay_Clayton)
+- *Anhörungen ohne Eid:* [CBS News — Lutnick's testimony earns harsh criticism](https://www.cbsnews.com/news/howard-lutnick-epstein-deposition-house-oversight-committee/) · [CNBC — Lutnick interviewed by House Oversight (06.05.)](https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html) · [Oversight — Lutnick-Transkript (PDF)](https://oversight.house.gov/wp-content/uploads/2026/05/Lutnick-Transcript.pdf)
+- *Gates zur Erpressung:* [The Hill — Gates: Epstein „contemplated blackmailing me"](https://thehill.com/homenews/house/5939238-gates-testimony-epstein-affairs/) · [ABC News](https://abcnews.com/US/bill-gates-told-house-panel-epstein-plotting-blackmail/story?id=134098296) · [NPR — Gates tells lawmakers he was not aware of Epstein's crimes](https://www.npr.org/2026/06/10/nx-s1-5851609/bill-gates-jeffrey-epstein-files-congress-pam-bondi)
+- *Daniel Siad († 20.07.2026):* [CNN](https://www.cnn.com/2026/07/22/europe/model-recruiter-epstein-dead-france-intl) · [Al Jazeera](https://www.aljazeera.com/news/2026/7/22/french-model-recruiter-with-close-ties-to-jeffrey-epstein-found-dead) · [NBC News](https://www.nbcnews.com/world/europe/french-modelling-scout-linked-epstein-found-dead-rcna588701)
+- *Mandelson / europäische Konsequenzen:* [NPR — UK investigates ex-ambassador over alleged leaks to Epstein](https://www.npr.org/2026/02/03/g-s1-108529/epstein-files-uk-peter-mandelson) · [Al Jazeera — Mandelson released on bail after arrest](https://www.aljazeera.com/news/2026/2/23/british-police-arrest-epstein-linked-ex-ambassador-mandelson) · [The Hill — What the Epstein files say about Mandelson](https://thehill.com/policy/international/5936256-epstein-files-former-uk-ambassador-us-peter-mandelson/)
 
 **Schulungsvideos, Vollstreckungsantrag & Anhörung (17.07.2026):**
 - [The New Republic — FBI Forced to Reveal New Details on How It Redacted Epstein Files](https://newrepublic.com/post/212994/fbi-reveal-redacted-epstein-files-foia)

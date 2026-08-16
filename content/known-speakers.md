@@ -174,6 +174,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Alexander Schwarz
 **Status:** ✓ Vollanalyse — [[DenkerVita/Alexander Schwarz]]
 
+## Alexander Thiele
+**Status:** ✓ Vollanalyse — [[DenkerVita/Alexander Thiele]]
+
 ## Aladin El-Mafaalani
 **Status:** ✓ Vollanalyse → [[DenkerVita/Aladin El-Mafaalani]]
 
@@ -663,7 +666,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** Stub
 
 ## Sandra Navidi
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Sandra Navidi]]
 
 ## Semir Zeki
 **Status:** ✓ Vollanalyse → [[DenkerVita/Semir Zeki]]

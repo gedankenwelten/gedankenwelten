@@ -234,3 +234,7 @@ Flassbeck erklärt Rechtsruck durch makroökonomische Ohnmacht. Daniel Günthers
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
 
 Die im Panel durchgespielten Szenarien — MDR-Staatsvertrag, Bundesrat-Resilienz, Kürzung der Demokratieprojekte — sind konkrete Beobachtungspunkte der Dimension „Institutionen“ in der AfD-Spur; was hier Vorsorge-Debatte ist, wird dort ab der Sachsen-Anhalt-Wahl als Praxis dokumentiert.
+
+### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
+
+Was dieses Panel als Lage schildert, taucht bei Thiele als einzelne Anekdote auf: der Kollege aus Sachsen-Anhalt, der auf die Frage nach der Vorbereitung „mal schauen" antwortet. Thiele liefert den Mechanismus dazu — Dienstaufsichtsbeschwerden, Versetzungen, neu zugewiesene Aufgaben sind im Beamtenrecht angelegt und lassen sich ausnutzen — und die Diagnose, dass das Signal von oben längst lautet: Wenn es hart auf hart kommt, steht ihr allein. Die drei Prozent Ostdeutsche in der Justiz sind sein Teilhabedefizit als Zahl.

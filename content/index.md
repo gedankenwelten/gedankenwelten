@@ -24,17 +24,23 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **16.08.** — [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Rechtspopulismus und der demokratische Verfassungsstaat]]
+>
+> Vereinfachen ist kein Angriff auf die Demokratie. Der Angriff beginnt dort, wo jemand aufhört, die gleiche politische Freiheit aller überhaupt zu wollen.
+
+> **16.08.** — [[Zeitgeist/Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)|Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]]
+>
+> Sieben Jahre nach Epsteins Tod ist die Bilanz eine Anwesenheitsliste von Abwesenden — und die Frage, warum Rechenschaft überall funktioniert außer dort, wo die Akten liegen.
+
 > **12.08.** — [[Zeitgeist/Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt|Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
 >
 > Eine Sinologin dreht die Kamera um und schaut von Peking aus auf uns — und was sie dort findet, ist eine Führung, deren größte Angst dem eigenen Land gilt.
 
-> **07.08.** — [[Zeitgeist/Decolonize the Digital — Wem gehoert die Infrastruktur|Decolonize the Digital — Wem gehört die Infrastruktur]]
->
-> Vier Praktikerinnen fragen, was Souveränität heißt, wenn Kabel, Betriebssystem und Rechenzentrum anderen gehören — und wo das Kobalt herkommt.
+### Spuren
 
-> **03.08.** — [[Zeitgeist/Jens-Christian Wagner — Buchenwald und deutsche Erinnerung|Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
+> **15.08.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >
-> Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist.
+> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
 
 ### Denker
 
@@ -54,12 +60,6 @@ Die Gedankenwelten (luc)
 >
 > Wer die Geschichte eines Kontinents verzerrt, formt die Gegenwart aller — Akala über Afrika vor der Versklavung und die Frage, wem der Lehrplan gehört.
 
-> **08.08.** — [[Denker/Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
->
-> Die Physik kennt keinen Rabatt. Wer sie ernst nimmt, landet bei einer Rechnung, die niemand aufmachen will — und bei Mächtigen, die alle schon in ihrer eigenen Falle sitzen.
-
-> → *6 weitere in* [[Denker]]
-
 ### Geistesblitz
 
 > **11.08.** — [[Geistesblitz/Steelpan — Was aus einem Trommelverbot wurde|Steelpan — Was aus einem Trommelverbot wurde]]
@@ -73,12 +73,6 @@ Die Gedankenwelten (luc)
 > **15.07.** — [[Geistesblitz/Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 >
 > Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
-
-### Spuren
-
-> **08.08.** — [[Spuren/Dalios Fenster — Amerikas Schuldenlast bis November 2028|Dalios Fenster — Amerikas Schuldenlast bis November 2028]]
->
-> Ein Milliardär nennt ein Datum und die Instrumente, an denen man ihn prüfen kann. Diese Spur nimmt ihn beim Wort — und rechnet damit, dass er sich irrt.
 
 ### Panorama
 

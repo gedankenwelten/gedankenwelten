@@ -15,6 +15,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
+**[[DenkerVita/Alexander Thiele|Alexander Thiele]]** — Staatsrechtler (BSP Business & Law School Berlin), Verfassungsblog-Editor; Demokratie als Ordnung, die das Verlieren organisierbar macht — Rechtspopulisten als Demokratiefeinde, aber gegen ein AfD-Verbot, weil es kein einziges der Defizite repariert, die die AfD groß gemacht haben
+
 **[[DenkerVita/Adam Johnson|Adam Johnson]]** — US-Medienkritiker & Journalist, Co-Host des Podcasts *Citations Needed*, FAIR-Analyst; Kritik der journalistischen Norm in der Tradition von *Manufacturing Consent*; *How to Sell a Genocide* (2026) über die mediale Komplizenschaft im Gaza-Krieg
 
 **[[DenkerVita/Abdolkarim Soroush|Abdolkarim Soroush]]** — Iranischer Religionsphilosoph, pro-Demokratie-Aktivist; Qabz va Bast (Kontraktion/Expansion religiösen Wissens), religiöser Pluralismus, Kritik am velayat-e faqih, Reformislam; Erasmus-Preis 2004, Time 100 2005
@@ -416,6 +418,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Hartmut Rosa|Hartmut Rosa]]** — Soziologe und Sozialphilosoph (Jena, Max-Weber-Kolleg Erfurt); fragt nicht, wie Gesellschaft gerechter, sondern wie Leben lebendig wird — soziale Beschleunigung, Resonanz, Unverfügbarkeit; *Beschleunigung* (2005), *Resonanz* (2016), *Unverfügbarkeit* (2018)
 
 ## S
+
+**[[DenkerVita/Sandra Navidi|Sandra Navidi]]** — Juristin und Finanzexpertin in New York, CEO von BeyondGlobal; liest das Finanzsystem als soziales Netzwerk (*SuperHubs*) — nicht Institutionen regieren, sondern einige hundert Menschen in dessen Knotenpunkten; nüchterne, juristisch geführte Trump-Kritik
 
 **[[DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
 
