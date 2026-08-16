@@ -272,3 +272,9 @@ Grenzen verschwinden nicht — sie werden zu *Sortiermaschinen*: Smart Borders f
 ### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
 
 Der Sortiermaschinen-Befund bekommt bei Bärfuss ein Gesicht: Der Schweizer Schriftsteller, der als Jugendlicher obdachlos war, nennt den Pass den entscheidenden Faktor seines Lebens und die 20.000 im Mittelmeer Ertrunkenen die eigentliche Herkunftsfrage. Zugleich ist er die Gegenprobe zu Maus Befund, dass der Leistungsglaube unten am festesten sitzt — der Aufsteiger, der sich weigert, den eigenen Aufstieg als Verdienst zu lesen.
+
+### → [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+
+Mau zeigt die ideologische Verwirrung von unten: Die Benachteiligten verteidigen die Leistungsgesellschaft stärker als die Begünstigten. Hartmann liefert das obere Ende derselben Zange — Großbürgerkinder in der Elite halten die Verteilung für gerecht, weil sie sie als Leistung ihrer Väter und Großväter lesen.
+
+Er beantwortet damit auch Maus offene Frage, warum die Verteilungsfrage keinen Triggerpunkt erzeugt, obwohl eine große Mehrheit die Ungleichheit für zu groß hält: Unter denen, die Themen setzen, war kein einziges Bürgerkind dafür.

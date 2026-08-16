@@ -15,6 +15,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## A
 
+**[[DenkerVita/Alexander Teske|Alexander Teske]]** — Journalist, sechs Jahre Planungsredakteur der ARD-Tagesschau, Autor von *inside TAGESSCHAU*; Medienkritik als Herkunftsargument — Redaktionen als sozial homogener Zirkel, dessen „getönte Brille" schon bei der Themenauswahl wirkt, nicht erst in der Formulierung
+
 **[[DenkerVita/Alexander Thiele|Alexander Thiele]]** — Staatsrechtler (BSP Business & Law School Berlin), Verfassungsblog-Editor; Demokratie als Ordnung, die das Verlieren organisierbar macht — Rechtspopulisten als Demokratiefeinde, aber gegen ein AfD-Verbot, weil es kein einziges der Defizite repariert, die die AfD groß gemacht haben
 
 **[[DenkerVita/Adam Johnson|Adam Johnson]]** — US-Medienkritiker & Journalist, Co-Host des Podcasts *Citations Needed*, FAIR-Analyst; Kritik der journalistischen Norm in der Tradition von *Manufacturing Consent*; *How to Sell a Genocide* (2026) über die mediale Komplizenschaft im Gaza-Krieg

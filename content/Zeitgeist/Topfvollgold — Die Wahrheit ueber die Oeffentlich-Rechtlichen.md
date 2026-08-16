@@ -169,6 +169,12 @@ Der US-Außenbefund zur hiesigen Innenansicht: Was die ÖRR-Insider als „Scher
 
 Theveßen liefert das Funktions-Argument von außen: Am US-Beispiel der „News Deserts“ zeigt sich, was Deutschland mit ÖRR plus Regionalpresse noch hat — die Infrastruktur zum Gegenhalten. „Thukydides steht sozusagen im Gesetz“ (Rundfunkstaatsvertrag) ist die positive Kehrseite zu Topfvollgolds Abwehr der ÖRR-Delegitimierung.
 
+### → [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+
+Dieselbe Institution von innen und von oben. Die Insider hier beschreiben die Schere im Kopf als Angst vor dem Hass von außen; der Elitenforscher beschreibt dieselbe Konformität als Karrierephysik — der Aufstieg läuft am geschmeidigsten, wenn man sich im Erwartbaren bewegt, ganz ohne Anweisung von oben. Dazu die Herkunftsdaten der Entscheidungsetagen, die diese Enge messbar machen.
+
+Beide Notes enden mit derselben Bewegung: schärfste Kritiker, die die Institution trotzdem verteidigen. Hartmann formuliert den Grund als übertragbares Prinzip und hält Frankreich unter Bolloré daneben, damit sichtbar wird, was das Alternativangebot wäre.
+
 ---
 
 ## Weiterdenken

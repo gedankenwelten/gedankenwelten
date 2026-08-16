@@ -232,3 +232,9 @@ Bärfuss' ausgeschlagenes Erbe — Schulden und eine Bananenkiste — ist der Ne
 ### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas|Ray Dalio — Der große Zyklus und die Rechnung Amerikas]]
 
 Dalios Satz „Vermögen ist nicht Geld“ meint dieselbe Unterscheidung wie Linartas' Trennung von Vermögens- und Einkommensungleichheit und zieht die entgegengesetzte Konsequenz: bei ihm ein Liquiditätsproblem, bei ihr ein Machtproblem. Ihre These, dass Vermögenskonzentration die Demokratie untergräbt, liefert die kausale Brücke, die Dalio zwischen Schuldenzyklus und Demagogen-Kapitel offenlässt.
+
+### → [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+
+Linartas zitiert Hartmann bereits (über 80 % der Milliardenvermögen ererbt) — die Verbindung trägt aber weiter. Sie zeigt, was materiell weitergegeben wird; Hartmanns Befragung der tausend mächtigsten Positionen zeigt, dass die Prägung das Geld überlebt: Arbeiterkinder auf Spitzengehältern stimmten mit drei zu zwei für höhere Vermögenssteuern, gegen ihr eigenes Interesse.
+
+Daraus folgt die unbequeme Pointe für das Grunderbe: Es müsste von genau den Leuten beschlossen werden, unter denen Hartmann in der Wirtschaftselite neun zu zwei dagegen gemessen hat — und unter den Spitzenpolitikern kein einziges Bürgerkind dafür, quer durch die Parteien.

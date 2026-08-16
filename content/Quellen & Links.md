@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Michael Hartmann — Herkunft schlägt Parteibuch
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Eine exklusive Elite entscheidet alles im Land!](https://youtu.be/XIZ5LzimmEU) — Alexander Teske im Gespräch mit Michael Hartmann, 11.08.2026, ca. 80 Min. |
+| **Studie** | [Mehr Kontinuität als Wandel — die deutschen Eliten vom Kaiserreich bis heute](https://link.springer.com/article/10.1007/s11609-025-00557-4) — Berliner Journal für Soziologie, 2025 (DOI 10.1007/s11609-025-00557-4); die Langzeitstudie 1871 bis heute, auf die sich das Gespräch stützt |
+| **Bücher** | [Die Abgehobenen — wie die Eliten die Demokratie gefährden](https://www.genialokal.de/Suche/?q=michael+hartmann+abgehobenen+demokratie) (Campus 2018) · [Soziale Ungleichheit — kein Thema für die Eliten?](https://www.genialokal.de/Suche/?q=michael+hartmann+soziale+ungleichheit) (Campus 2013, Quelle der Herkunfts- und Steuerzahlen) · [inside TAGESSCHAU](https://www.genialokal.de/Suche/?q=teske+inside+tagesschau) (Alexander Teske, Langen Müller 2025) |
+| **Notiz** | [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]] |
+| **Vitas** | [[DenkerVita/Michael Hartmann]] · [[DenkerVita/Alexander Teske]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Hartmann_Teske_Elite_Transkript.txt` |
+
 ## Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat
 
 | | |

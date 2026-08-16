@@ -211,6 +211,12 @@ Osnos analysiert die Psychologie der Ultrareichen — wie die *principal*-Strukt
 
 Hartmann beschreibt die Oberseite der Ungleichheit (wer Macht hat und warum); Butterwegge die Unterseite (wer ausgeschlossen wird und wie). Beide verweisen auf dieselbe Diagnose: soziale Mobilität in Deutschland ist eine Fiktion. Die Schere ist politisch produziert — Butterwegge durch Armutsforschung, Hartmann durch Elitesoziologie.
 
+### → [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+
+Derselbe Hartmann elf Wochen später, allein und mit dem Unterbau, den die Talkrunde nicht zuließ: die Befragung der tausend Machtpositionen, die Langzeitstudie ab 1871, die Zahlen zur Steuerhaltung nach sozialer Herkunft.
+
+Zwischen beiden Auftritten liegt eine leise Verschiebung. Hier erklärt Hartmann Machtmissbrauch über familiale Sozialisation — im Notfall regelt der Vater das mit dem Direktor. Dort zeigen die Steuerzahlen dieselbe Prägung als etwas anderes als Verwöhnung: als Weltbild, das auch dann trägt, wenn es dem eigenen Geldbeutel zuwiderläuft. Herkunft einmal als Privileg gelesen, einmal als Perspektive.
+
 ---
 
 ## Weiterdenken

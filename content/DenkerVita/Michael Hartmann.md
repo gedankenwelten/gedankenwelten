@@ -45,6 +45,7 @@ Hartmann publizierte in zwölf Sprachen und war bis 2021 Mitglied des Wissenscha
 
 ## Empfehlenswerte Videos & Vorträge
 
+- [**Eine exklusive Elite entscheidet alles im Land!**](https://youtu.be/XIZ5LzimmEU) (Alexander Teske, 11.08.2026, ca. 80 Min.) — das bislang ausführlichste Gespräch zu Hartmanns Langzeitstudie 1871 bis heute; enthält die Zahlen zur Steuerhaltung nach sozialer Herkunft und am Ende eine bemerkenswerte Verteidigung des Rundfunkbeitrags
 - [**NANO Talk: Eliten zwischen Machtmissbrauch und Verantwortung**](https://www.youtube.com/watch?v=Jfg69dF8Ybo) (3sat, 2026) — Der Video-Kontext, den Sie erwähnen: Hartmann argumentiert, dass Macht (nicht Netzwerk) das Kernmerkmal von Eliten ist
 - [**Die Eliten und der Aufstieg des Rechtspopulismus**](https://www.youtube.com/watch?v=k72g7Sc90ZQ) (YouTube, ca. 61 Min.) — Vortrag zur These, dass neoliberale Elite-Politik soziale Spaltung schuf
 - [**Hartmann im Gespräch über seine Elitenforschung**](https://www.youtube.com/watch?v=HwnmjkfLgW4&t=7764s) (Jung & Naiv, 2024) — Ausführliches Interview
@@ -109,6 +110,8 @@ Hartmann versteht sich nicht als Ideolog, sondern als empirischer Soziologe. Sei
 
 ## Gedankenwelten-Notes
 
+- [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]] — achtzigminütiges Einzelgespräch (2026): die Langzeitstudie 1871 bis heute, die Medienelite als abhängige Elite, und der Befund, dass soziale Herkunft die Parteiprogramme schlägt
+- [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung|NANO Talk — Eliten zwischen Machtmissbrauch und Verantwortung]] — Hartmanns Machtdefinition im Streit mit zwei konkurrierenden Elitebegriffen
 - [[Denker/Martyna Linartas — Unverdiente Ungleichheit]] (erwähnt Hartmanns 80%-Erbschaftsthese)
 
 ---

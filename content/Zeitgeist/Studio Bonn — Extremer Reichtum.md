@@ -282,6 +282,12 @@ Hartmann liefert den soziologischen Rahmen für das, was Studio Bonn im konkrete
 
 Wesche kommt von der Eigentumstheorie zum selben Befund: Eigentumsrecht ist nicht nur Freiheitsrecht, sondern strukturiert Entscheidungsmacht — wer viel besitzt, entscheidet über mehr. Die Naturrechts-These radikalisiert das: Wenn die Natur selbst Eigentümerin ist, monetarisieren Konzerne wie RWE fremdes Eigentum. Das Vermögensungleichheitsproblem (Engelhorn, Studio Bonn) vertieft sich in einen Eigentumskonflikt zwischen Menschen und Natur.
 
+### → [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+
+Diese Note setzt auf die Einsicht der Vermögenden. Hartmanns Zahl macht diese Hoffnung messbar und dämpft sie: In der Wirtschaftselite stimmten Großbürgerkinder neun zu zwei gegen höhere Steuern auf Vermögen und Erbschaften — manche von ihnen Erben dreistelliger Millionenbeträge.
+
+Marlene Engelhorn wäre damit keine Vorhut einer Einsicht, sondern eine statistisch dünn besetzte Ausnahme. Hartmanns Konsequenz fällt entsprechend anders aus: Er verlässt sich nicht auf das Gewissen der Erben, sondern auf Eigentumsfragen, Genossenschaften und den Umweg über die Zusammensetzung derer, die entscheiden.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

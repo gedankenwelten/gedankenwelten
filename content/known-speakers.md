@@ -37,6 +37,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Adam Johnson
 **Status:** ✓ Vollanalyse → [[DenkerVita/Adam Johnson]]
 
+## Alexander Teske
+**Status:** ✓ Vollanalyse → [[DenkerVita/Alexander Teske]]
+
 ---
 
 ## Cathryn Clüver Ashbrook
