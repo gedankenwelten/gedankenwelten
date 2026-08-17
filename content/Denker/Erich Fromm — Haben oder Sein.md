@@ -359,6 +359,7 @@ Hans Unterscheidung *Finger vs. Hand* (der Finger wählt und konsumiert, die Han
 ### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]
 
 Shivas *production boundary* — nur was durch den Markt geht, zählt — ist Fromms Haben-Modus in ökonomischer Form; beide setzen dem Verwerten des Lebendigen das In-Beziehung-Sein entgegen.
+- [[Hans Maggi — Kurdistan im Nordirak]] — die Ratlosigkeit der Beschenkten als Fromm-Lehrstück: Sie suchen den Grund für ein Geschenk, weil sie Großzügigkeit als Transaktion denken. Ihre Gastgeber denken sie als Zustand
 
 ## Weiterdenken
 

@@ -22,6 +22,16 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Kultur
+
+> **17.08.** — [[Kultur/Hans Maggi — Kurdistan im Nordirak|Hans Maggi — Kurdistan im Nordirak]]
+>
+> Zwei Wochen mit dem Fahrrad durch eine Region, die im deutschen Kopf als Nachrichtenlage existiert und sonst als nichts — und die ihre Gäste so lange beschenkt, bis das Ablehnen unmöglich wird.
+
+> **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
+>
+> Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
+
 ### Zeitgeist
 
 > **16.08.** — [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Warum Roboter keine Beine brauchen]]
@@ -113,12 +123,6 @@ Die Gedankenwelten (luc)
 > **30.06.** — [[GoodNews/Good News - Gute Nachrichten Juni 2026|Good News — Gute Nachrichten Juni 2026]]
 >
 > Neun Erfolgsmeldungen aus einem Monat — von 250 Millionen Bäumen über kippende Energiebilanzen bis zu einem kirschroten Medikament, das Säuglinge vor Malaria retten soll.
-
-### Kultur
-
-> **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
->
-> Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
 
 <!-- JOURNAL:END -->
 

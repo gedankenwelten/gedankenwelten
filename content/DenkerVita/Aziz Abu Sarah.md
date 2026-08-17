@@ -72,6 +72,7 @@ Abu Sarah ist palästinensischer Aktivist mit einer dezidiert gewaltfreien, bina
 - **[[DenkerVita/Maoz Inon|Maoz Inon]]** — sein israelischer Partner. Beide verloren nahe Angehörige durch den Konflikt (Abu Sarah seinen Bruder Tayseer, Inon seine Eltern am 7. Oktober 2023) und entschieden sich gemeinsam gegen Rache. Zusammen Co-CEOs von InterAct International, Co-Autoren von *The Future Is Peace* und die beiden Stimmen des TED-Talks „A Palestinian and an Israeli, Face to Face".
 
 *Wird via Cross-Linking befüllt.*
+- [[Hans Maggi — Kurdistan im Nordirak]] — was Abu Sarah als Dual-Narrative-Methode entwickelt hat, passiert hier ungeplant: Ein Reisender stellt sein eigenes Bild eines Landes auf die Probe, indem er hindurchfährt und den Menschen begegnet, die darin wohnen
 
 ## Gedankenwelten-Notes
 

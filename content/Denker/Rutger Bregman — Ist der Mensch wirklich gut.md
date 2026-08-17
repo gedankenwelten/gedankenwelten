@@ -289,6 +289,7 @@ Der produktivste Widerspruch: Yu seziert das gute Menschenbild, das Bregman vert
 Das literarische Experiment, das Bregmans Optimismus herausfordert: kein Notstand, keine Gewalt-Erlaubnis von oben — nur Langeweile, Distanz und ein toter Winkel, und das wohlerzogene Internat kippt in die Folter. Wo Bregman das „Herr der Fliegen"-Bild als Fiktion entlarvt, hält Musil dagegen: Seine Fiktion hatte ein reales Vorbild, und die Täter blieben im System.
 
 ---
+- [[Hans Maggi — Kurdistan im Nordirak]] — Bregmans These im Alltagsformat: zwei Wochen lang schenken Menschen mit wenig Geld zwei Fremden so beharrlich, dass diese am Tag nur noch drei Euro ausgeben. Das unspektakulärste Beweisstück ist ein geschenkter Müllsack
 
 ## Weiterdenken
 

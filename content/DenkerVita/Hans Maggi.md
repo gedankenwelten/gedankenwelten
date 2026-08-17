@@ -17,7 +17,7 @@ tags: [denker-vita, reise, fahrrad, begegnung, nachhaltigkeit]
 
 </details>
 
-→ Gedankenwelten-Notes: [[Hans Maggi — Sokotra]]
+→ Gedankenwelten-Notes: [[Hans Maggi — Sokotra]] · [[Hans Maggi — Kurdistan im Nordirak]]
 
 ---
 
@@ -93,10 +93,14 @@ Der Wandel vom werbefreien Weltreisenden zum kooperationsfinanzierten Reiseerzä
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Aziz Abu Sarah|Aziz Abu Sarah]] — der Friedensstifter, der aus Reisen eine Methode gegen Feindbilder gemacht hat („Dual Narrative"). Was Abu Sarah plant, tut Maggi beiläufig: durch ein Land fahren, bis dessen Bild nicht mehr hält
+- [[Patrick Legun — Die Ziegelsklaven von Lahore]] — derselbe Typus des Augenzeugen ohne Fachmandat: selbst hinfahren, filmen, zurückbringen. Legun sucht das Unrecht, Maggi sucht die Begegnung — beide beziehen ihre Glaubwürdigkeit aus der eigenen Anwesenheit
+- [[Rutger Bregman — Ist der Mensch wirklich gut]] — Maggis Reisen liefern das anekdotische Gegenstück zu Bregmans Empirie: Wo er hinkommt, verhalten sich Fremde beharrlich großzügiger, als jede pessimistische Anthropologie erwarten ließe
+- [[Erich Fromm — Haben oder Sein]] — Maggis Reisestil ist Fromms Unterscheidung als Praxis: ein Leben, dessen Reichtum in Begegnungen liegt und dessen Ausrüstung aus Bambus besteht
 
 ---
 
 ## Gedankenwelten-Notes
 
 - [[Hans Maggi — Sokotra]] — Radreise durch die Insel Sokotra (Jemen) als erstes „exotisches Projekt" nach der Weltreise
+- [[Hans Maggi — Kurdistan im Nordirak]] — zwei Wochen mit Franzi durch die kurdische Autonomieregion (Juni 2023, Etappe #12 der Weltreise): Hitze, Checkpoints und eine Gastfreundschaft, die sich nicht ablehnen lässt

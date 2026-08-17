@@ -150,3 +150,4 @@ Was bleibt, ist ein Schirm aus Blättern gegen einen weißen Himmel, das rote Ha
 - [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — *„Du kannst nicht wissen, was im nächsten Dorf passiert"* ist Resonanz in Reinform: Begegnung gelingt, wo nichts planbar ist
 - [[Rutger Bregman — Ist der Mensch wirklich gut]] — die Gastfreundschaft von Menschen, deren Ernte verdorrt, als gelebter Beleg gegen den Hobbes'schen Pessimismus
 - [[Yin und Yang — Alles trägt sein Gegenteil in sich]] — das „Beides ist wahr" der Note (Armut neben Zufriedenheit, Müll neben Magie) als gelebter Grundsatz
+- [[Hans Maggi — Kurdistan im Nordirak]] — dieselbe Haltung zwei Jahre früher, noch zu zweit mit Franzi: der Nordirak als Region, die im deutschen Kopf nur als Nachrichtenlage existiert. Dort wie hier sind es Menschen mit wenig, die zu viel geben

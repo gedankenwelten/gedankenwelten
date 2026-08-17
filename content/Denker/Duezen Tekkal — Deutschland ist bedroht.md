@@ -377,6 +377,7 @@ Soroushs Kernsatz — Häresie entsteht erst dort, wo Macht eine Deutung erzwing
 Der produktivste Widerspruch im Bestand, weil beide aus demselben Milieu kommen und dieselben Konflikte umgekehrt lesen. Tekkal sieht in Parallel- und Gegengesellschaften das Versäumnis; El-Mafaalanis Integrationsparadox deutet wachsende Reibung als Beweis des Gelingens — wer die Spielregeln mitverhandelt, sitzt am Tisch. Tekkals Integrationsbegriff braucht diesen Einwand, sonst kippt „Haltung statt Herkunft" in eine Prüfung, die man immer verfehlen kann. Umgekehrt fehlt dem Paradox ihre Frage, ob jede Reibung Teilhabe ist oder manche einfach Ablehnung.
 
 ---
+- [[Hans Maggi — Kurdistan im Nordirak]] — die andere Hälfte derselben Landschaft. Tekkal flog 2014 in den Shingal, als der IS die Jesiden ermordete; ein Radreisender fährt neun Jahre später durch den Nordirak und wird von morgens bis abends beschenkt. Beide Berichte sind wahr, und keiner ersetzt den anderen
 
 ## Weiterdenken
 
