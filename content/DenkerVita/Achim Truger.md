@@ -75,6 +75,7 @@ Beide denken Fiskal- und Investitionspolitik empirisch und institutionennah stat
 
 ### → [[DenkerVita/Adam Tooze|Adam Tooze]]
 Tooze liefert die historisch-globale Einbettung für Trugers Fiskaldebatte: wie Staaten in Krisen tatsächlich handelten und wie Austerität historisch wirkte. Wo Truger die deutsche Schuldenbremse seziert, zeigt Tooze das größere Muster — dass die scheinbar technische Sparregel immer eine politische Machtentscheidung war.
+- [[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]] — der nächste Verwandte in der Position: heterodox in der Sache, reformerisch im Instrument. Beide wollen die Schuldenbremse justieren statt bestreiten und arbeiten von innen gegen eine Regel, deren Logik sie nicht angreifen — die Grenze des institutionell Sagbaren in der deutschen Fiskaldebatte verläuft ungefähr zwischen ihnen und Flassbeck.
 
 ## Gedankenwelten-Notes
 

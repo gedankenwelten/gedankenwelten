@@ -22,17 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Kultur
-
-> **17.08.** — [[Kultur/Hans Maggi — Kurdistan im Nordirak|Hans Maggi — Kurdistan im Nordirak]]
->
-> Zwei Wochen mit dem Fahrrad durch eine Region, die im deutschen Kopf als Nachrichtenlage existiert und sonst als nichts — und die ihre Gäste so lange beschenkt, bis das Ablehnen unmöglich wird.
-
-> **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
->
-> Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
-
 ### Zeitgeist
+
+> **17.08.** — [[Zeitgeist/Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
+>
+> Zwei progressive Ökonomen räumen dieselben Denkfehler ab — und geraten sich über die Bilder in die Haare, mit denen man sie abräumt.
 
 > **16.08.** — [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Warum Roboter keine Beine brauchen]]
 >
@@ -49,6 +43,16 @@ Die Gedankenwelten (luc)
 > **12.08.** — [[Zeitgeist/Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt|Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
 >
 > Eine Sinologin dreht die Kamera um und schaut von Peking aus auf uns — und was sie dort findet, ist eine Führung, deren größte Angst dem eigenen Land gilt.
+
+### Kultur
+
+> **17.08.** — [[Kultur/Hans Maggi — Kurdistan im Nordirak|Hans Maggi — Kurdistan im Nordirak]]
+>
+> Zwei Wochen mit dem Fahrrad durch eine Region, die im deutschen Kopf als Nachrichtenlage existiert und sonst als nichts — und die ihre Gäste so lange beschenkt, bis das Ablehnen unmöglich wird.
+
+> **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
+>
+> Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
 
 ### Denker
 

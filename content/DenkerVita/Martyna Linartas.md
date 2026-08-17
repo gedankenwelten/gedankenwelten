@@ -87,6 +87,7 @@ Linartas ordnet sich klar als Demokratin ein — nicht als Parteipolitikerin. Wi
 - [[Hannah Arendt — Denken ohne Geländer]] — Arendt zeigt, dass Gedankenlosigkeit die Bedingung des Bösen ist; Linartas zeigt, dass strukturelle Ungleichheit sich genau dadurch perpetuiert, dass sie als "natürliche Konsequenz von Verdienst" nie eigentlich gedacht wird. Mausfelds Manipulationsmechanismus und Arendts Urteilslosigkeit konvergieren in der Leistungslüge.
 
 - [[Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas Beschleunigungsdiagnose und Linartas' Erbengesellschaft berühren denselben Krisenpunkt: Die strukturelle Entkopplung von Leistung und Ergebnis macht Resonanz unmöglich — wer nicht erbt, arbeitet im Hamsterrad ohne aufzuholen. Linartas macht sichtbar, was Rosa als Hintergrundstruktur voraussetzt.
+- [[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]] — sie präzisiert seine Verteilungsanalyse dort, wo sie unbequem wird. Fratzscher trennt Ungleichheit aus freien Entscheidungen von Ungleichheit aus fehlenden Chancen; Linartas' Befund passt in keine der Kategorien, weil über die Hälfte der deutschen Vermögen geerbt ist. Sie nimmt seine makroökonomische Lesart der Vermögensungleichheit ernst und treibt sie weiter, als er selbst geht.
 
 ---
 

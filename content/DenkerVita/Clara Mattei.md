@@ -95,6 +95,7 @@ Mattei bezeichnet sich als *antikapitalistisch* — nicht als kommunistisch oder
 - [[DenkerVita/Erich Fromm]] — Fromms „Haben oder Sein"-Kritik beschreibt die psychische Dimension dessen, was Mattei ökonomisch analysiert: der „tugendhafte Sparer" als Idealtypus der Haben-Orientierung
 - [[DenkerVita/Heiner Flassbeck]] — Flassbeck teilt die Kritik an neoklassischer Ökonomie und Austeritätspolitik, bleibt aber im keynesianischen Rahmen — genau die Position, die Mattei als zu unpolitisch kritisiert
 - [[DenkerVita/Maurice Hoefgen]] — Höfgens MMT-Perspektive auf Staatsfinanzierung ergänzt Matteis strukturelle Austeritäts-Analyse, geht aber nicht an die Eigentumsfrage
+- [[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]] — der Gegenfall zu ihrer These. Fratzscher behandelt die Sparlogik als Denkfehler, der sich mit Daten korrigieren lässt, und widerlegt sie öffentlich seit Jahren; für Mattei ist sie ein Werkzeug zur Herstellung von Marktabhängigkeit und überlebt deshalb jede Widerlegung. Aus ihrer Sicht sind seine „guten Schulden" keine unglückliche Formulierung, sondern die Grenze dessen, was ein Institutspräsident sagen kann.
 
 ---
 

@@ -299,6 +299,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## M
 
+**[[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]]** — Makroökonom, seit 2013 Präsident des DIW Berlin und Professor an der HU Berlin; elf Jahre EZB; Exportüberschuss als Symptom einer Investitionslücke, Schuldenbremse als Investitionsbremse, Vermögensungleichheit als makroökonomisches Problem — *Die Deutschland-Illusion*, *Verteilungskampf*
+
 **[[DenkerVita/Margarita Seselgyte|Margarita Šešelgytė]]** — Litauische Politikwissenschaftlerin, seit 2019 Direktorin des Instituts für Internationale Beziehungen und Politikwissenschaft der Universität Vilnius; Abschreckung als psychologisches wie militärisches Problem, strategische Empathie und operative Solidarität, Total Defence als gesamtgesellschaftliche Resilienz
 
 **[[DenkerVita/Achille Mbembe|Achille Mbembe]]** — Kamerunischer Historiker und Politiktheoretiker; Necropolitics, Postkolonialtheorie, Planetare Ethik; Holberg Prize 2024 für *The Earthly Community*

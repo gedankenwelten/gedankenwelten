@@ -282,3 +282,6 @@ Matteis Zentralbank-Unabhängigkeit als Entdemokratisierung ist das Verfahren, m
 
 Was bei Mattei ein Klassenprojekt ist, steht bei Dalio als „Weg 1: Kürzen“ — eine von vier technisch gleichwertigen Optionen. Ihre Pointe trifft ihn dort, wo er nie hinsieht: Die Unabhängigkeit der Zentralbank ist für ihn bloß der Rahmen, in dem die Maschine läuft; bei Mattei ist sie der Ort, an dem Verteilungsentscheidungen aus der Reichweite von Wahlen gehoben wurden.
 
+### → [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
+
+Der Gegentest zu Matteis These an einem lebenden Fall. Dort streiten zwei progressive Ökonomen darüber, wie man die Sparlogik am besten widerlegt — und setzen damit voraus, dass sie einem Denkfehler entspringt. Für Mattei ist sie ein Werkzeug, das Marktabhängigkeit herstellt und deshalb jede Widerlegung überlebt. Ihre Lesart schärft dort besonders eine Passage: Höfgens Wunsch, die Preisstabilität von der Notenbank zu den Regierungen zu verschieben, ist bei ihr die Rücknahme einer Entdemokratisierung, die von Anfang an gewollt war.

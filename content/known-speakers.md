@@ -535,6 +535,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Marcant
 **Status:** ✓ Vollanalyse → [[DenkerVita/Marcant]]
 
+## Marcel Fratzscher
+**Status:** ✓ Vollanalyse → [[DenkerVita/Marcel Fratzscher]]
+
 ## Marie-Agnes Strack-Zimmermann
 **Status:** ✓ Vollanalyse → [[DenkerVita/Marie-Agnes Strack-Zimmermann]]
 

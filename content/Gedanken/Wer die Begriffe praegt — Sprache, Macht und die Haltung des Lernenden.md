@@ -188,6 +188,10 @@ Der historische Beleg zu dieser Note: Beckert liest „soziale Marktwirtschaft" 
 
 Das Einfrieren, angewandt auf einen ganzen Autor: Shakespeare erfand Wörter, brach Grammatik und schrieb für die Bühne — als Kanon liefert er die Regeln, an denen die nächsten Regelbrecher scheitern. Dazu die Pointe zur Begriffshoheit über das „richtige" Englisch: Received Pronunciation existierte zu seinen Lebzeiten gar nicht.
 
+### → [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
+
+Der Fall aus der Wirtschaftsdebatte, an dem sich das Einfrieren nachrechnen lässt. „Schuldenberg", „gute Schulden", „Geld drucken" — drei Substantive, die eine Wertung mitschleppen, sobald man sie ausspricht, und die deshalb auch den treffen, der sie zur Widerlegung benutzt. Höfgens Vorwurf an Fratzscher ist die ökonomische Fassung dieses Gedankens; sein Gegenbild von der Monopoly-Bank zeigt zugleich die Grenze, die diese Note benennt — ein neues Bild kann man anbieten, aber nicht verordnen.
+
 ---
 
 ## Weiterdenken

@@ -4208,3 +4208,16 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **DenkerVita** | [[DenkerVita/Gerald Knaus]] |
 | **Denkfabrik** | [European Stability Initiative (ESI)](https://www.esiweb.org/) · Knaus' Blog [Rumeli Observer](https://www.esiweb.org/rumeliobserver/) |
 | **Transkript** | `Gedankenwelten/Transkripte/Knaus_Ceuta_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Marcel Fratzscher / Maurice Höfgen — Zehn Wirtschaftsmythen
+
+| | |
+|---|---|
+| **Reaction / Video** | [Ökonom Fratzscher entlarvt 10 Wirtschaftsmythen](https://www.youtube.com/watch?v=ks0OSunDPrM) — Maurice Höfgen, *Geld für die Welt*, 14.08.2026 |
+| **Originalvideo** | [Die nervigsten Wirtschaftsmythen entlarvt \| Marcel Fratzscher \| DE/CODED](https://www.youtube.com/watch?v=ZYD_8ORqNxY) — Terra X Lesch & Co, ZDF, 05.08.2026 |
+| **Notiz** | [[Zeitgeist/Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen]] |
+| **DenkerVita** | [[DenkerVita/Marcel Fratzscher]] · [[DenkerVita/Maurice Hoefgen]] |
+| **Buch (Höfgen)** | *TEUER! Die Wahrheit über Inflation, ihre Profiteure und das Versagen der Politik* (2023) — [genialokal](https://www.genialokal.de/Suche/?q=hoefgen+teuer+inflation) |
+| **Buch (Fratzscher)** | *Die Deutschland-Illusion* (2014) — der Exportüberschuss als Symptom einer Investitionslücke — [genialokal](https://www.genialokal.de/Suche/?q=fratzscher+deutschland+illusion) |
+| **Transkript (Reaction)** | `Gedankenwelten/Transkripte/Fratzscher_Wirtschaftsmythen_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+| **Transkript (ZDF-Original)** | `Gedankenwelten/Transkripte/Fratzscher_ZDF_Original_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
