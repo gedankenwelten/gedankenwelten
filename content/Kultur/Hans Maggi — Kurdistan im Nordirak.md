@@ -55,7 +55,7 @@ Was dann beginnt, ist schwer zu erzählen, ohne dass es nach Reklame klingt. Es 
 
 Die schönste Szene ist die kleinste. Ein Müllauto hält neben ihnen, die Männer steigen aus, und man sieht ihnen an, dass sie etwas verschenken wollen. Dann bricht leichte Panik aus, weil sie nichts finden. Schließlich kommt einer zurück und überreicht ihnen — einen Müllsack [▶ 33:44](https://www.youtube.com/watch?v=u1JrMDld6L4&t=2024).
 
-Die Wirkung auf den Geldbeutel ist absurd: *Wir haben gerade einfach eine durchschnittliche Ausgabe von drei bis fünf Euro am Tag. Mehr braucht man gerade einfach nicht* [▶ 30:09](https://www.youtube.com/watch?v=u1JrMDld6L4&t=1809). Die Wirkung auf den Körper ist schlechter. Sie leben wochenlang von dem, was man ihnen schenkt, und das sind Chips, Kekse, Kuchen, Baklava. *Das ist halt wirklich die reine Chemie* [▶ 10:35](https://www.youtube.com/watch?v=u1JrMDld6L4&t=635), sagt Hans, und nimmt sich vor, wieder zu kochen. Sie tun es nicht.
+Es kostet sie am Ende fast nichts, durch dieses Land zu fahren: *Wir haben gerade einfach eine durchschnittliche Ausgabe von drei bis fünf Euro am Tag. Mehr braucht man gerade einfach nicht* [▶ 30:09](https://www.youtube.com/watch?v=u1JrMDld6L4&t=1809). Man sieht es ihnen allerdings an. Sie leben wochenlang von dem, was man ihnen reicht, und das sind Chips, Kekse, Kuchen, Baklava — *wirklich die reine Chemie* [▶ 10:35](https://www.youtube.com/watch?v=u1JrMDld6L4&t=635). Hans nimmt sich vor, wieder zu kochen. Sie tun es nicht.
 
 Und dann, an einem Pool im Tal, formuliert Franzi die Frage, um die das ganze Video kreist. Ein Mann hat ihnen Gurken aus seinem Gewächshaus gebracht, Pfirsiche, Tee:
 
@@ -69,7 +69,7 @@ Sie kommt nicht weiter als bis zum Staunen. Kurz darauf sitzen die beiden nebene
 
 ## Was die Trophäe kostet
 
-Es hat eine Kehrseite, und Hans lässt sie stehen. Wo sie ankommen, wird die Verwandtschaft gerufen, dann die Nachbarn. *Sobald wir irgendwo sind, sind wir wie die Trophäe, die gezeigt werden muss. Und dann gibt es einen Bildermarathon* [▶ 27:40](https://www.youtube.com/watch?v=u1JrMDld6L4&t=1660). So viele Fotos wie an diesem Abend mussten sie noch nie machen.
+Hans lässt auch die Kehrseite stehen. Wo sie ankommen, wird die Verwandtschaft gerufen, dann die Nachbarn. *Sobald wir irgendwo sind, sind wir wie die Trophäe, die gezeigt werden muss. Und dann gibt es einen Bildermarathon* [▶ 27:40](https://www.youtube.com/watch?v=u1JrMDld6L4&t=1660). So viele Fotos wie an diesem Abend mussten sie noch nie machen.
 
 In derselben Nacht bleibt die Kamera zum ersten Mal aus. Es sei unangebracht gewesen, sagt Hans, und der Gastgeber wollte nicht, dass sie die Frauen filmen. Also gibt es von diesem Abend keine Bilder — nur den Satz, dass es schön war.
 
@@ -77,13 +77,13 @@ Einmal kippt es ins Unangenehme. Ein Mann fasst Franzi ins Gesicht, hält die ga
 
 ## Der Körper
 
-Was diese Etappe von den anderen unterscheidet, ist die Hitze. Sie ist kein Wetter, sie ist ein Gegner. Um vier Uhr klingelt der Wecker, damit die Pässe im Dunkeln beginnen können; um acht Uhr morgens steht das Thermometer weit über dreißig, mittags bei vierzig. *Also so heiß hatten wir es wirklich noch nie auf der Reise* [▶ 32:51](https://www.youtube.com/watch?v=u1JrMDld6L4&t=1971).
+Die Hitze richtet den Tag ein. Um vier klingelt der Wecker, damit der Paß im Dunkeln anfängt; um acht steht das Thermometer weit über dreißig, und ab Mittag gehört der Tag nicht mehr ihnen. *Also so heiß hatten wir es wirklich noch nie auf der Reise* [▶ 32:51](https://www.youtube.com/watch?v=u1JrMDld6L4&t=1971).
 
-Hans, der sich für nicht hitzeempfindlich hielt, dehydriert, sobald er zwanzig Minuten nichts trinkt. Alle drei Minuten wird ihm schwindlig. Was hilft, ist banal und wird zum Höhepunkt des Tages: Wasser über den Kopf. An einem Zaun spritzt eine defekte Leitung, und er stellt sich darunter, *klitschnass bis auf die Unterhose* [▶ 41:56](https://www.youtube.com/watch?v=u1JrMDld6L4&t=2516).
+Hans hatte sich für unempfindlich gehalten. Jetzt genügen zwanzig Minuten ohne Trinken, und die Straße kippt weg; alle drei Minuten wird ihm schwindlig. Was ihn rettet, kostet nichts. An einem Zaun spritzt eine defekte Leitung ins Gras, und er stellt sich darunter, *klitschnass bis auf die Unterhose* [▶ 41:56](https://www.youtube.com/watch?v=u1JrMDld6L4&t=2516).
 
-Die Nächte sind nicht besser. Sie stellen das Zelt ohne Innenzelt auf, weil kein Baum Schatten gibt, und liegen zehn Minuten später *wie im Gewächshaus* [▶ 13:04](https://www.youtube.com/watch?v=u1JrMDld6L4&t=784). Ameisen, aus dem Mittagsquartier eingeschleppt, halten Hans die halbe Nacht auf Jagd; Franzi schläft um Mitternacht ein, um vier klingelt *dieser Kackwecker*.
+Nachts wird es kaum besser. Weil kein Baum Schatten wirft, stellen sie nur die Außenplane auf und liegen zehn Minuten später *wie im Gewächshaus* [▶ 13:04](https://www.youtube.com/watch?v=u1JrMDld6L4&t=784). Ameisen, vom Mittagsplatz eingeschleppt, halten Hans die halbe Nacht auf der Jagd. Franzi schläft gegen Mitternacht ein. Um vier klingelt *dieser Kackwecker*.
 
-Und einmal bricht ihr etwas anderes das Herz. Eine Hündin mit ihren Jungen läuft ihnen hinterher, kilometerweit. Franzi weiß, dass sie nicht streicheln und nicht füttern darf, tut es nicht, und das Tier folgt trotzdem. Erst eine Abfahrt hängt sie ab. *Jetzt stehen sie halt oben, mit ihren traurigen Augen* [▶ 38:38](https://www.youtube.com/watch?v=u1JrMDld6L4&t=2318). Sie bekommt es nicht aus dem Kopf. Immerhin, sagt sie, sah die Mutter gut genährt aus.
+Dann läuft eine Hündin mit ihren Jungen hinter ihnen her, kilometerweit. Franzi weiß, was man nicht tun darf — nicht streicheln, nicht füttern —, sie tut es nicht, und das Tier bleibt trotzdem. Erst eine Abfahrt hängt es ab. *Jetzt stehen sie halt oben, mit ihren traurigen Augen* [▶ 38:38](https://www.youtube.com/watch?v=u1JrMDld6L4&t=2318). Sie bekommt es nicht aus dem Kopf. Immerhin, sagt sie, sah die Mutter gut genährt aus.
 
 ## Was hinter den Bergen liegt
 
@@ -100,7 +100,7 @@ Kurz darauf wird die Grenze konkret. An einem Polizeiposten führt man sie ins B
 > Was Hans hier weitergegeben wird, ist keine Legende. Die türkische Armee fliegt seit Jahren Drohnen- und Luftangriffe gegen PKK-Stellungen auf irakisch-kurdischem Gebiet; allein im Jahr dieser Aufnahmen trafen sie mehrfach Ziele in der Region, im August 2023 etwa bei Sidekan mit sieben Toten, darunter zwei Sanitäter. Menschenrechtsorganisationen zählen seit 2015 über hundert getötete Zivilisten in Irakisch-Kurdistan infolge türkischer Angriffe. Die Warnung der Dorfbewohner beschreibt also eine reale Lage — und erklärt zugleich, warum das Checkpoint-System, das die beiden als lästig empfinden, überhaupt existiert.
 > Quellen: [August 2023 Turkish airstrikes in Iraq](https://en.wikipedia.org/wiki/August_2023_Turkish_airstrikes_in_Iraq) · [The Defense Post, 16.05.2023](https://thedefensepost.com/2023/05/16/turkey-drone-attack-iraqi-kurdistan/)
 
-Das Bemerkenswerte ist, was Hans daraus zieht. Nicht Angst — das Gegenteil. Ihm sei erst jetzt aufgefallen, dass sie wirklich von Checkpoint zu Checkpoint fahren und *wie wichtig das eigentlich ist* [▶ 29:19](https://www.youtube.com/watch?v=u1JrMDld6L4&t=1759). Vorher war das nur eine Kontrolle, die aufhält. Und dann, unmittelbar danach, beide fast gleichzeitig: *Ich fühle mich sehr sicher hier. — Ich fühle mich auch extrem sicher.* Sie fügen hinzu, dass es gefährlicher klinge, als es sei.
+Hans wird davon ruhiger. Ihm sei erst jetzt aufgefallen, dass sie wirklich von Checkpoint zu Checkpoint fahren und *wie wichtig das eigentlich ist* [▶ 29:19](https://www.youtube.com/watch?v=u1JrMDld6L4&t=1759). Vorher war das nur eine Kontrolle, die aufhält. Und dann, unmittelbar danach, beide fast gleichzeitig: *Ich fühle mich sehr sicher hier. — Ich fühle mich auch extrem sicher.* Sie fügen hinzu, dass es gefährlicher klinge, als es sei.
 
 Beides gilt. Die Region ist sicher, weil jemand sie sichert; die Ruhe auf der Straße ist keine Abwesenheit von Krieg, sondern ein Kordon davor. Wer nur die Straße sieht, hält das Zweite für das Erste.
 
@@ -109,17 +109,17 @@ Beides gilt. Die Region ist sicher, weil jemand sie sichert; die Ruhe auf der St
 
 ## Erbil
 
-Für das Iran-Visum müssen sie in die Hauptstadt, und weil die Strecke ein sinnloser Umweg wäre, lassen sie die Räder stehen und fahren mit dem Bus. In Erbil kippt der Ton.
+Für das Iran-Visum müssen sie nach Erbil. Die Strecke wäre ein sinnloser Umweg, also lassen sie die Räder bei Gastgebern stehen und nehmen den Bus.
 
-*Das ist so eine andere Welt hier. Wie reich hier mit einmal alles ist — oder reich scheint* [▶ 48:30](https://www.youtube.com/watch?v=u1JrMDld6L4&t=2910). Die Restaurants sind unbezahlbar, überall riesige Bauten. Zwei Menschen, die seit Wochen von drei Euro am Tag leben, weil ihnen alles geschenkt wird, können sich hier nichts leisten. *Irgendwie ein komisches Gefühl.*
+*Das ist so eine andere Welt hier. Wie reich hier mit einmal alles ist — oder reich scheint* [▶ 48:30](https://www.youtube.com/watch?v=u1JrMDld6L4&t=2910). Glastürme, riesige Bauten, Restaurants mit Preisen aus einer anderen Rechnung. Zwei Menschen, die seit Wochen mit drei Euro am Tag auskommen, weil ihnen alles geschenkt wird, können sich hier kein Mittagessen leisten. *Irgendwie ein komisches Gefühl.*
 
-Und zum ersten und einzigen Mal auf dieser Etappe versucht jemand, sie übers Ohr zu hauen. Ein Taxifahrer vor dem Einkaufszentrum verlangt hundert Dollar für die Rückfahrt. Am Busterminal, ein paar Straßen weiter, bieten Fahrer dieselbe Strecke für dreizehn an [▶ 49:15](https://www.youtube.com/watch?v=u1JrMDld6L4&t=2955).
+Und zum ersten und einzigen Mal auf dieser Etappe versucht jemand, sie übers Ohr zu hauen. Vor dem Einkaufszentrum verlangt ein Taxifahrer hundert Dollar für die Rückfahrt. Am Busterminal, ein paar Straßen weiter, machen Fahrer dieselbe Strecke für dreizehn [▶ 49:15](https://www.youtube.com/watch?v=u1JrMDld6L4&t=2955).
 
-Das Visum klappt und kostet sogar weniger als in Ankara. Das chinesische, das sie für die Weiterreise über den Pamir bräuchten, klappt erwartungsgemäß nicht — woraufhin die beiden von einem Tag auf den anderen beschließen, nach Armenien zu fahren und dort einen Anwalt zu suchen. *Also das klingt wie aus einem Buch* [▶ 52:28](https://www.youtube.com/watch?v=u1JrMDld6L4&t=3148).
+Das iranische Visum klappt und kostet weniger als in Ankara. Das chinesische, das sie für den Weg über den Pamir bräuchten, klappt erwartungsgemäß nicht — woraufhin sie von einem Tag auf den anderen beschließen, nach Armenien zu fahren und dort einen Anwalt zu suchen. *Also das klingt wie aus einem Buch* [▶ 52:28](https://www.youtube.com/watch?v=u1JrMDld6L4&t=3148). So werden auf dieser Reise die Ziele gemacht.
 
-Zurück auf dem Land wird geschenkt wie zuvor. In einem Obstgeschäft wollen sie einkaufen und bekommen zwei volle Säcke — *ein Geschenk von uns allen aus Kurdistan*, da gebe es keine Widerrede [▶ 54:25](https://www.youtube.com/watch?v=u1JrMDld6L4&t=3265). Die letzte Nacht verbringen sie bei einer Familie am Fluss, zwischen Bergen mit Schnee auf den Gipfeln, zwei Kühen und einem Hahn, der Franzi um fünf weckt.
+Draußen auf dem Land wird geschenkt wie zuvor. Sie gehen in ein Obstgeschäft, um einzukaufen, und tragen zwei volle Säcke wieder heraus — *ein Geschenk von uns allen aus Kurdistan*, da gebe es keine Widerrede [▶ 54:25](https://www.youtube.com/watch?v=u1JrMDld6L4&t=3265). Die letzte Nacht verbringen sie bei einer Familie am Fluss: Schnee auf den Gipfeln, zwei Kühe, ein Garten, und ein Hahn, der Franzi um fünf aus dem Schlaf holt.
 
-Eine Erwartung hat sich unterwegs still aufgelöst. Die Gebetsrufe, in der Türkei noch überall, hört man hier kaum. *Ganz krass, weil ich dachte, dass es im Irak alles viel strenger und religiöser ist* [▶ 53:40](https://www.youtube.com/watch?v=u1JrMDld6L4&t=3220).
+Unterwegs hat sich eine Erwartung still aufgelöst. Die Gebetsrufe, in der Türkei noch überall, hört man hier kaum. *Ganz krass, weil ich dachte, dass es im Irak alles viel strenger und religiöser ist* [▶ 53:40](https://www.youtube.com/watch?v=u1JrMDld6L4&t=3220).
 
 Am Ende steht die Anpassung an das nächste Land: Franzi muss zum ersten Mal ein Kopftuch tragen, Hans gibt ihr seine längeren T-Shirts. *Wir sind die Ausländer, wir müssen uns anpassen* [▶ 57:10](https://www.youtube.com/watch?v=u1JrMDld6L4&t=3430).
 
