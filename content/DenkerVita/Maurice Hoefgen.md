@@ -110,7 +110,10 @@ Kritiker werfen ihm Vereinfachung vor — was teilweise stimmt (YouTube-Format b
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne befüllt.*
+- [[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]] — der Verbündete, dem er widerspricht. Beide kritisieren die Schuldenbremse, aber Höfgen liest Fratzschers Begründungen als halben Schritt: Wer die schwäbische Hausfrau mit der Lebensdauer des Staates widerlegt statt mit dem Unterschied zwischen Währungsherausgeber und Währungsnutzer, lässt das Bild von der Schuld als Last stehen. Nachgearbeitet in [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]] — samt der Gegenfrage, was seine Position im Euroraum kostet, wo die Währung des Bundes von der EZB kommt.
+- [[DenkerVita/Heiner Flassbeck|Heiner Flassbeck]] — die vorangehende Generation derselben Argumentation, postkeynesianisch statt MMT. Flassbeck rechnet die Sektorbilanzen vor, aus denen Höfgens Formel vom Ersparnisberg folgt, und liefert die Exportkritik, die Höfgen bei Fratzscher vermisst.
+- [[DenkerVita/Clara Mattei|Clara Mattei]] — der Einwand gegen seine Methode. Höfgen behandelt Wirtschaftsmythen als Denkfehler, die mit besseren Begriffen zu heilen sind; für Mattei ist die Sparlogik ein Werkzeug, das Marktabhängigkeit herstellt und deshalb jede Widerlegung überlebt. Wo er die Preisstabilität von der Notenbank zu den Regierungen verschieben will, ist Zentralbankunabhängigkeit bei ihr von Anfang an der liberale Weg zur Austerität.
+- [[DenkerVita/Achim Truger|Achim Truger]] — die institutionelle Variante seiner Ziele: Sachverständigenrat statt YouTube, Ausgabenregel statt Systemkritik. Wer beide liest, sieht die Kosten und den Nutzen der Anschlussfähigkeit.
 
 ---
 
@@ -118,4 +121,5 @@ Kritiker werfen ihm Vereinfachung vor — was teilweise stimmt (YouTube-Format b
 
 - [[Maurice Hoefgen — Florian Bauer entlarvt Familienunternehmer-Lobby]]
 - [[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz]]
+- [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen]]
 - [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]

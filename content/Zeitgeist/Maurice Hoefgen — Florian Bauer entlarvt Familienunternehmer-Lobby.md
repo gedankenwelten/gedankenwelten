@@ -199,6 +199,10 @@ Höfgen lobt Bauer als seltene Ausnahme und kritisiert Illner/Maischberger. Gild
 ### → [[Varoufakis — 2008 Crash, Populismus und Europa]]
 Varoufakis nennt die Mainstream-Ökonomie "eine Religion mit Gleichungen" — Höfgen operiert als MMT-Ökonom auf demselben Terrain der heterodoxen Gegenöffentlichkeit. Beide kritisieren, dass Frames ("Schuldenbremse", "Haushaltsdisziplin") nie selbst zur Debatte stehen; Varoufakis theoretisch, Höfgen am deutschen Fallbeispiel.
 
+### → [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
+
+Der dritte Fall im selben Format, eine Etage höher. Hier lehnt eine Lobbyistin einen Krisenbonus als „Belastung" ab, der ihren eigenen Mitgliedern Spielraum gegeben hätte — eine Wertung, die gegen das eigene Interesse arbeitet, weil sie im Vokabular der Gegenseite denkt. Genau diesen Vorgang hält Höfgen dort einem Ökonomen vor, mit dem er politisch einig ist.
+
 ---
 
 ## Weiterdenken

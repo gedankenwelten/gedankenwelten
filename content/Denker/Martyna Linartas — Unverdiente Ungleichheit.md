@@ -238,3 +238,7 @@ Dalios Satz „Vermögen ist nicht Geld“ meint dieselbe Unterscheidung wie Lin
 Linartas zitiert Hartmann bereits (über 80 % der Milliardenvermögen ererbt) — die Verbindung trägt aber weiter. Sie zeigt, was materiell weitergegeben wird; Hartmanns Befragung der tausend mächtigsten Positionen zeigt, dass die Prägung das Geld überlebt: Arbeiterkinder auf Spitzengehältern stimmten mit drei zu zwei für höhere Vermögenssteuern, gegen ihr eigenes Interesse.
 
 Daraus folgt die unbequeme Pointe für das Grunderbe: Es müsste von genau den Leuten beschlossen werden, unter denen Hartmann in der Wirtschaftselite neun zu zwei dagegen gemessen hat — und unter den Spitzenpolitikern kein einziges Bürgerkind dafür, quer durch die Parteien.
+
+### → [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
+
+Fratzscher trennt dort Ungleichheit aus freien Entscheidungen von Ungleichheit aus fehlenden Chancen — eine Unterscheidung, die Linartas' Befund sprengt: Über die Hälfte der Vermögen in Deutschland ist geerbt, bei Milliardenvermögen vier Fünftel. Das passt in keine der beiden Schubladen und macht Höfgens Beispiel vom Kind der Unternehmerfamilie zur Regel. Der Mijs-Befund verbindet beides — je ungleicher eine Gesellschaft, desto fester ihr Glaube an die Leistungserzählung.

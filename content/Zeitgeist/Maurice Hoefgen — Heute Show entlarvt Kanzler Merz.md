@@ -206,3 +206,7 @@ Komplementäre Perspektive auf die Merz-Regierung: Während Höfgen die makroök
 ### → [[Horst Evers — Kostenloser Nahverkehr als Utopie]]
 
 Schwesternfall in Methode (Comedy-Format + ökonomische Faktenkorrektur) *und* Substanz: Höfgens *Mythos Geldknappheit* ist das ökonomische Rückgrat von Evers' Pointe „es liegt nicht am Geld, sondern am politischen Willen" — Knappheit als politische Entscheidung, nicht als Sachzwang.
+
+### → [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
+
+Dieselbe Methode gegen einen Verbündeten statt gegen einen Gegner. Wo Höfgen hier Merz' Faulheitsvorwurf mit Erwerbstätigenquote und Teilzeitdaten zerlegt, korrigiert er dort einen Ökonomen, der dasselbe will wie er — nicht dessen Zahlen, dessen Begriffe. Der Bürgergeld-Abschnitt setzt fort, was hier mit dem Faulheitsvorwurf beginnt: die Richtung, in die eine Debatte ihren Verdacht schickt.

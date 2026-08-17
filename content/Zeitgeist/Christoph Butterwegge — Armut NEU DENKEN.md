@@ -329,3 +329,7 @@ MONITOR dokumentiert, wie §41a-Streichung und Jugendhilfe-Kürzungen genau die 
 ### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
 
 Dieselbe These in radikalerer Fassung: Armut ist kein Zustand, sondern hergestellt. Was Butterwegge für Deutschland strukturell zeigt, beschreibt Dangarembga für Simbabwe als Waffe — Kolonialverwaltung ersetzt Nahrungspflanzen, presst Preise, hält Menschen am Abgrund, „damit sie an nichts anderes denken können als ans Überleben".
+
+### → [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
+
+Die Steuerverschiebung, die Butterwegge hier dokumentiert — Vermögenssteuern weg, Mehrwertsteuer von 16 auf 19 Prozent —, ist die Weichenstellung, gegen die Höfgens Vorschlag dort anläuft: die Mehrwertsteuer auf Grundnahrungsmittel zu streichen statt die Einkommensteuer zu reformieren, weil Konsumsteuern das ärmste Drittel treffen. Auch der Leistungsbegriff kehrt wieder: Er ist es, der beim Bürgergeld die 800.000 Aufstocker aus dem Blick schiebt.

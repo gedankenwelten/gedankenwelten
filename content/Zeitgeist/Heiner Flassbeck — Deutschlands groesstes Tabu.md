@@ -240,6 +240,10 @@ Das Panorama nimmt Flassbecks Kausalkette (Schröder-Reformen → Lohndumping �
 
 Höfgen führt Flassbecks antizyklisches Kernargument am konkreten Streitfall vor: Wenn Staat und private Akteure gleichzeitig sparen, verstärkt das den Abschwung. Die Familienunternehmer-Lobby fordert genau das — Höfgen zeigt, warum das gegen die eigenen Mitgliederinteressen geht.
 
+### → [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
+
+Höfgen zieht dieselbe Saldenmechanik, mit der Flassbeck hier arbeitet, gegen einen ungewohnten Gegner: nicht gegen einen Sparpolitiker, sondern gegen Marcel Fratzscher, der die Schuldenbremse ebenfalls kritisiert. Der Streit dreht sich um die Begründung — wer „gute Schulden" sagt, akzeptiert, dass es schlechte gibt. Flassbecks Tabu-Analyse liefert dazu die längere Linie: Bei ihm ist die Agenda 2010, die Fratzscher als überwundene Krise erzählt, die Ursache der Binnenschwäche.
+
 ---
 
 ## Weiterdenken

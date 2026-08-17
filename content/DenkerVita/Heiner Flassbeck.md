@@ -122,6 +122,7 @@ Flassbeck ist **Post-Keynesianer** — kein Marxist, kein Sozialdemokrat alter S
 ## Verbindungen zu anderen Denkern
 
 - [[DenkerVita/Maurice Hoefgen]] — Höfgen ist Flassbecks intellektueller Erbe in der nächsten Generation: gleiche keynesianische Denkschule, aber mit YouTube-Reichweite und MMT-Erweiterung. Flassbeck liefert die theoretische Tiefe, Höfgen die mediale Durchschlagskraft. Höfgen hat Flassbecks SPD-Remscheid-Vortrag auf seinem Kanal veröffentlicht — ein Zeichen gegenseitiger Wertschätzung.
+- [[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]] — inhaltlich nah, im Fundament entgegengesetzt. Beide lesen den deutschen Exportüberschuss als Schwächezeichen (Fratzscher als Investitionslücke, Flassbeck als Nullsummenspiel) und kritisieren die Schuldenbremse. Die Bruchstelle ist die Agenda 2010: Fratzscher führt sie als überwundene Krise, Flassbeck als Ursache der Binnenschwäche und der europäischen Ungleichgewichte — eine Abwertung ohne Währung, zu Lasten der Nachbarn.
 
 ---
 
