@@ -874,6 +874,17 @@ tags:
 | **Kanal** | [Hans Maggi (YouTube)](https://www.youtube.com/channel/UCPR1tzTGQV2Unxsrr4XuLQg) — Reise-/Fahrrad-Weltreise, Projekt „Rückenwind" |
 | **Transkripte** | `Gedankenwelten/Transkripte/HansMaggi_Jemen_1_KulturSchock_Transkript.txt` · `…_2_Sokotra_…` · `…_3_Hoehlenmensch_…` |
 
+## Hans Maggi — Kurdistan im Nordirak
+
+| | |
+|---|---|
+| **Video** | [Kampf gegen die Hitze im Irak / Kurdistan — Fahrrad-Weltreise im Nordirak [#12]](https://www.youtube.com/watch?v=u1JrMDld6L4) (58:54, Aufnahmen Juni 2023) |
+| **Notiz** | [[Hans Maggi — Kurdistan im Nordirak]] |
+| **DenkerVita** | [[DenkerVita/Hans Maggi]] |
+| **Kanal** | [Hans Maggi (YouTube)](https://www.youtube.com/channel/UCPR1tzTGQV2Unxsrr4XuLQg) — Etappe #12 der Fahrrad-Weltreise „Rückenwind" |
+| **Route** | [Gefahrene Strecke (Google Maps)](https://www.google.com/maps/d/u/0/viewer?mid=1JvK9M9g4CJroo4ahOONxLwOM5Zv3fX8) |
+| **Transkript** | `Gedankenwelten/Transkripte/Maggi_Irak_Kurdistan_Transkript.txt` (mlx-whisper large-v3-turbo — die YouTube-Auto-Untertitel sind unbrauchbar, weil YouTube die Sprache als Chinesisch erkennt) |
+
 ## Horst Evers / Fun Facts Utopia — Kostenloser ÖPNV
 
 | | |
