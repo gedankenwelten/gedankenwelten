@@ -203,3 +203,7 @@ Sterner beschreibt theoretisch, was die ARTE-Doku in Großbardorf zeigt: Biogas 
 ### → [[Good News - Gute Nachrichten Juni 2026]]
 
 Schwesterformat in der „Gute Nachrichten"-Tradition: Die Juni-Ausgabe von Good News meldet, dass Erneuerbare 2025 erstmals das gesamte globale Nachfragewachstum deckten und die Kohle überholten — der globale Beleg für das, was diese ARTE-Doku am konkreten Dorf-Beispiel zeigt.
+
+### → [[Good News - Gute Nachrichten August 2026]]
+
+Die August-Ausgabe schreibt den Faden fort: US-Solarboom trotz Förder-Aus und neue Klimaszenarien, in denen das fossile Worst-Case unrealistisch geworden ist — der globale Zwischenstand zu den Lösungen, die diese Doku im Konkreten zeigt.

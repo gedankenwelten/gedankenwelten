@@ -279,6 +279,10 @@ Das Panorama versammelt Praktiken, die Demokratie herstellen statt nur fordern �
 
 Evers' *Fun Facts Utopia* ist die praktische Anwendung von Urners „radikaler Hoffnung": konstruktiver Journalismus, der das Bessere zeigt statt nur das Schlechte zu beklagen. Urner liefert die neurokognitive Begründung für die „Angst vor dem Gelingen", die Evers an der Berliner Mentalität festmacht.
 
+### → [[Good News - Gute Nachrichten August 2026]]
+
+Testfall der radikalen Hoffnung: Die August-Ausgabe hält in ihrer Klima-Meldung Fortschritt (Worst-Case unrealistisch geworden) und gebrochenes Versprechen (1,5 Grad fällt) in einem Atemzug zusammen — konstruktiver Journalismus, der weder beschönigt noch resigniert.
+
 ### → [[Good News - Gute Nachrichten Juni 2026]]
 
 Die GoodNews-Monatsreihe ist konstruktiver Journalismus in Reinform — und Urner liefert ihr neurokognitives Fundament: Negativitätsbias, Angst-Journalismus, Hoffnung als Denkweise. Leppins neun Erfolgsmeldungen sind die gelebte Praxis von Urners „radikaler Hoffnung".

@@ -258,6 +258,10 @@ Heitmeyers Kernargument, dass *Psychologisierung Strukturen schützt*, ist metho
 
 Dieselbe Denkfigur vom anderen Ende der Kolonialgeschichte: ein ideologisches Betriebssystem, das sich selbst tarnt. Dangarembgas „Kolonialismus in den Köpfen" und ihre Resilienz-Falle (das Lob „so stark" rechtfertigt das Weitermachen) zeigen die Mechanik aus der Sicht der Kolonisierten, Tianas Betriebssystem-Analyse aus der Innenansicht der Nachfolgegesellschaft.
 
+### → [[Good News - Gute Nachrichten August 2026]]
+
+Die Gegenbuchung zum Betriebssystem-Befund: In Connecticut kauft eine Charity mit 6,5 Mio. $ Programmmitteln rund 315 Mio. $ Krankenhausschulden frei — bewundernswerte Reparatur an genau der Stelle, die Tianas Analyse als Konstruktionsfehler ausweist.
+
 ---
 
 ## Weiterdenken

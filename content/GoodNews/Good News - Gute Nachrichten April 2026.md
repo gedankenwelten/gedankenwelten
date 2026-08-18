@@ -189,3 +189,7 @@ Mai-Ausgabe: Ecuador-Korridor, Kākāpō-Rekordsaison, Amsterdams Werbeverbot f�
 ### → [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
 
 Zweiter Teil der Mai-Ausgabe: Solar-Langzeitstudie (0,5% Degradation statt 1%/Jahr) als direktes Gegenstück zur Nordsee-Wind-Chronik in dieser April-Note — beide revidieren Wirtschaftlichkeitsannahmen für Erneuerbare nach oben und schreiben denselben Faden fort.
+
+### → [[Good News - Gute Nachrichten August 2026]]
+
+Dasselbe Muster, vier Monate später: Auch im August tilgt Undue Medical Debt Medizinschulden (97.000 Menschen in Connecticut, ~315 Mio. $). Die Wiederholung ist der eigentliche Befund — die Charity skaliert, das Systemproblem bleibt.

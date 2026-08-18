@@ -219,3 +219,7 @@ Morpheus' erste Subventionsebene — Industriestrom 50% günstiger als in der EU
 ### → [[Good News - Gute Nachrichten Juni 2026]]
 
 Good News Juni liefert die globale Schlagzeile zu dieser Analyse: 2025 deckten Erneuerbare erstmals das gesamte Wachstum der Stromnachfrage, fossile Erzeugung fiel — Haupttreiber China. Meyer und Hegenberg erklären den industriepolitischen Unterbau hinter genau dieser Zahl.
+
+### → [[Good News - Gute Nachrichten August 2026]]
+
+Die August-Ausgabe liefert die Gesundheits-Dividende zu dieser Analyse: Chinas E-Auto-Umstieg verhinderte laut *Nature Health* 262.000 vorzeitige Todesfälle — die menschliche Seite der Industriepolitik, deren Unterbau Meyer und Hegenberg zeigen.

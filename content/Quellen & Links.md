@@ -1560,6 +1560,15 @@ tags:
 | **Notiz** | [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Topfvollgold_NiUS_Islam_Transkript.txt` |
 
+## Good News — August 2026
+
+| | |
+|---|---|
+| **Video** | [Your Monthly Dose of Good News \| August](https://www.youtube.com/watch?v=QcYtiD0zQ0Y) |
+| **Notiz** | [[GoodNews/Good News - Gute Nachrichten August 2026]] |
+| **Quellen (Kanal)** | [Notion — Good News August Sources](https://app.notion.com/p/good-news/Your-Monthly-Dose-of-Good-News-August-3bd60ebea8a3804e868cd03bbcbbe16f) |
+| **Transkript** | `Gedankenwelten/Transkripte/GoodNews_August2026_Transkript.txt` |
+
 ## Good News — Juni 2026
 
 | | |

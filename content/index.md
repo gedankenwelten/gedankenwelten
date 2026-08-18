@@ -22,6 +22,12 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### GoodNews
+
+> **18.08.** — [[GoodNews/Good News - Gute Nachrichten August 2026|Good News — Gute Nachrichten August 2026]]
+>
+> Zwölf Meldungen, ein Muster: Das Schlimmste wurde abgesagt, das Beste auch — übrig bleibt der Wettlauf, das Überschießen kurz zu halten.
+
 ### Zeitgeist
 
 > **17.08.** — [[Zeitgeist/Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
@@ -121,12 +127,6 @@ Die Gedankenwelten (luc)
 > **02.07.** — [[Gedanken/Das unsichtbare Netzwerk — Ubuntu|Das unsichtbare Netzwerk — Ubuntu]]
 >
 > Ein Gedanke, den man lange allein trägt, bis ihn jemand ausspricht: Ich bin, weil wir sind. Über Ubuntu — das Wort, das uns fehlt, und den Alltag, in dem es längst wohnt.
-
-### GoodNews
-
-> **30.06.** — [[GoodNews/Good News - Gute Nachrichten Juni 2026|Good News — Gute Nachrichten Juni 2026]]
->
-> Neun Erfolgsmeldungen aus einem Monat — von 250 Millionen Bäumen über kippende Energiebilanzen bis zu einem kirschroten Medikament, das Säuglinge vor Malaria retten soll.
 
 <!-- JOURNAL:END -->
 
