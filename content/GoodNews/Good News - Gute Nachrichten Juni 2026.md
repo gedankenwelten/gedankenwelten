@@ -291,3 +291,7 @@ Das Yin zum Yang: Benecke trägt die ungeschönten Klimamessdaten zusammen, wäh
 ### → [[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
 
 Philosophischer Unterbau für die Naturschutz-Meldungen (Orang-Utan-Seilbrücke, Seepferdchen-Rettung, Lausitzer Seenrenaturierung): Wesche denkt Natur als Rechtssubjekt statt als Eigentum. Leppins Beispiele sind gelebte Praxis dieser Haltung — der Mensch, der Lebensräume zurückgibt, statt sie nur zu verwerten.
+
+### → [[Good News - Gute Nachrichten August 2026]]
+
+Fortsetzung der Monatsserie. Die hier gemeldete 10-%-Ozean-Marke bekommt im August ihr nächstes Puzzlestück (PNG-Reservat in UK-Größe), und der Energiewende-Faden läuft weiter: Auf die gekippte globale Bilanz folgt der US-Solarboom, der politischen Gegenwind übersteht.

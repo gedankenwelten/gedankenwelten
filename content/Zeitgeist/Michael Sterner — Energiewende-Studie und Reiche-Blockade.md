@@ -194,3 +194,7 @@ Pöttingers marxistische Analyse bestätigt Sterners Kernbefund von der politisc
 ### → [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft]]
 
 Großmann setzt Sterners wissenschaftliche These — 2/3 Wertschöpfung lokal möglich — als bewusstes Designprinzip um: 2/3 der Aufträge gehen an regionale Stahlbauer. Sterner liefert die Grundlage, Großmann die praktische Umsetzung.
+
+### → [[Good News - Gute Nachrichten August 2026]]
+
+Das US-Gegenstück zur Reiche-Blockade: Solar und Speicher stellen 91 % der neuen US-Kapazität, obwohl die Trump-Regierung die Förderung kappte. Beide Notes zeigen dieselbe Lage — die Erneuerbaren gewinnen über den Preis, die Politik kann verzögern, aber nicht mehr stoppen.

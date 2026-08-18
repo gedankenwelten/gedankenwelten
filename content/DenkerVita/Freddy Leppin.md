@@ -99,6 +99,7 @@ Nicht: Ideologische Schärfe, sondern pragmatische Problemorientierung.
 - [[GoodNews/Good News - Gute Nachrichten Mai 2026]]
 - [[GoodNews/Good News - Gute Nachrichten Mai 2026 Teil 2]]
 - [[GoodNews/Good News - Gute Nachrichten Juni 2026]]
+- [[GoodNews/Good News - Gute Nachrichten August 2026]]
 
 ---
 
