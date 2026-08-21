@@ -101,11 +101,11 @@ Das zweite Bild ist häuslicher und sitzt besser. Mundraub — sich im Vorbeigeh
 
 ### Der Völkermord, der keiner war
 
-[▶ 8:22](https://www.youtube.com/watch?v=wGGSq-dTlf8&t=502) — Am Donbass zeigt Heinrich das Verfahren im Zeitlupentempo. Der Ausgangswert ist echt: Rund fünfzehn- bis siebzehntausend Tote zwischen 2014 und 2021, von den Vereinten Nationen bestätigt. Diese Zahl kursiert als Beleg für einen Völkermord an Russischsprachigen.
+[▶ 8:22](https://www.youtube.com/watch?v=wGGSq-dTlf8&t=502) — Am Donbass zeigt Heinrich das Verfahren im Zeitlupentempo. Der Ausgangswert ist echt: rund vierzehntausend Tote zwischen 2014 und 2021, von den Vereinten Nationen gezählt *(Faktencheck: Heinrich sagt „fünfzehn oder siebzehntausend" — die OHCHR-Bilanz nennt 14.200 bis 14.400)*. Diese Zahl kursiert als Beleg für einen Völkermord an Russischsprachigen.
 
 > *„Was sie halt ignorieren ist, sich die Zahlen der UNO anzuschauen — dass 70 Prozent davon Soldaten waren. Ich habe noch nicht gehört, dass Kämpfe zwischen Soldaten einen Völkermord bedeuten."*
 
-Bleiben rund dreißig Prozent Zivilisten, auf beiden Seiten der Kontaktlinie. Dass auf der russisch gehaltenen Seite mehr starben, erklärt Heinrich geografisch: Die Front verlief direkt an der Stadtgrenze von Donezk. Auf der einen Seite eine Millionenstadt, aus der heraus gekämpft wurde, auf der anderen teilweise evakuierte Dörfer — der Unterschied in den Opferzahlen folgt daraus fast zwangsläufig. Und er benennt, was das Verfahren ausmacht:
+Bleiben knapp ein Viertel Zivilisten, auf beiden Seiten der Kontaktlinie — das Verhältnis fällt sogar deutlicher aus, als Heinrich es angibt. Dass auf der russisch gehaltenen Seite mehr starben, erklärt Heinrich geografisch: Die Front verlief direkt an der Stadtgrenze von Donezk. Auf der einen Seite eine Millionenstadt, aus der heraus gekämpft wurde, auf der anderen teilweise evakuierte Dörfer — der Unterschied in den Opferzahlen folgt daraus fast zwangsläufig. Und er benennt, was das Verfahren ausmacht:
 
 > *„Das sind so Sachen, wo halt dann mit Halbwahrheiten gearbeitet wird, um falsche Analogien zu erzeugen."*
 

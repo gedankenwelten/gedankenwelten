@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*285 Notes — automatisch generiert · nach Thema sortiert*
+*286 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -269,6 +269,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE|Sudan: Das Massaker von El Fashir und die Rolle der VAE]]
 - [[Zeitgeist/Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz|Sudan: Humanitäre Lage und DRK-Einsatz — Christof Johnen (phoenix)]]
 - [[Zeitgeist/taz Reingehen — Wer das Öl hat, hat das Sagen|taz Reingehen — Wer das Öl hat, hat das Sagen]]
+- [[Zeitgeist/Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird|Torsten Heinrich — Die NATO-Lüge und wie aus Funken Rechtfertigung wird]] — Wie aus einem wahren Funken eine Rechtfertigung wird — ein Historiker räumt der Gegenseite ein, was ihr zusteht, und zeigt genau dort, wo die Lüge beginnt.
 - [[Zeitgeist/Torsten Heinrich — Was die Tagesschau verschweigt|Torsten Heinrich — Was dir die Tagesschau verschweigt]]
 - [[Zeitgeist/Torsten Heinrich — Ukraine bewusst geopfert|Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?]]
 
