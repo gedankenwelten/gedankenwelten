@@ -88,4 +88,5 @@ Heinrich bezeichnet sich als „freiheitlich-liberal" und „pro-amerikanisch, p
 
 - [[Torsten Heinrich — Was die Tagesschau verschweigt]] — 4:23h-Interview auf ungeskriptet (April 2026): Quellenkritik, Neutralität, Ukraine, Israel, Drohnen, Biografie
 - [[Torsten Heinrich — Ukraine bewusst geopfert]] — Kurzanalyse (Mai 2026): Eskalationsmanagement statt Strategie, Biden-Dilemma, Bundeswehr-Grenzen, Scholz' Rolle
+- [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]] — Ausschnitt aus {ungeskriptet} (August 2026): das prorussische Argumentset durchgeprüft — NATO-Osterweiterung ohne Vertrag, Kosovo als eingeräumtes Gegenargument, Halbwahrheit und Whataboutism als Verfahren, Maidan als Revolution mit folgendem Staatsstreich
 - [[Wertewesten — Eiserner Besen oder bessere Argumente]] — Methodenstreit mit Co-Host Mark Reicher (Juni 2026): Heinrich plädiert für den „eisernen Besen" gegen Kreml-nahe Stimmen im ÖR, Reicher hält dagegen. Popper-Toleranzparadox; zeigt Heinrich in der ungewohnt restriktiveren Rolle

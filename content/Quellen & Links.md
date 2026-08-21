@@ -3600,6 +3600,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Torsten Heinrich — Ukraine bewusst geopfert]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Heinrich_Ukraine_Geopfert_Transkript.txt` |
 
+## Torsten Heinrich — Die NATO-Lüge und wie aus Funken Rechtfertigung wird
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Deutschland wird mit der NATO-Lüge gespalten! (Torsten Heinrich)](https://www.youtube.com/watch?v=wGGSq-dTlf8) |
+| **Volle Folge** | [{ungeskriptet} mit Torsten Heinrich](https://www.youtube.com/watch?v=sTOcI1G7wgg&t=11238s) |
+| **Notiz** | [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Heinrich_NATO_Luege_Transkript.txt` |
+
 ---
 
 ## Bernhard Pörksen & Maja Göpel — Debatte NEU DENKEN

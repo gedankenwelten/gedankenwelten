@@ -111,3 +111,7 @@ Die religionspolitische Anwendung der Ideologisierungsfalle: Soroush zeigt, dass
 
 ### → [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]]
 Die Empörungsmaschine als Komplize der Kaperung: Das OK-Zeichen wurde 2017 erst dadurch zum Hasssymbol, dass die Öffentlichkeit die erfundene Behauptung seiner Vergiftung durch ihre Reaktion beglaubigte — die Ideologisierungsfalle, angewandt auf Zeichen.
+
+### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
+
+Der Ausgang aus der Falle, in einem Satz: Kritik wird nicht dadurch falsch, dass die falschen Leute sie benutzen. Heinrich lässt das ukrainische Sprachgesetz diskutabel und nennt die Absetzung Janukowytschs formal einen Staatsstreich, obwohl beides seiner eigenen Seite schadet. Diese Note erklärt, warum das im polarisierten Raum so selten passiert.

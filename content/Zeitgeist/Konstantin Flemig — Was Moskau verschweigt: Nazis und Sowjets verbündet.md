@@ -209,3 +209,7 @@ Bria beschreibt moderne Autoritarismen als technologisch vernetzte Systeme. Flem
 ### → [[Andreas Kemper — Faschismen im 21. Jahrhundert]]
 
 Kemper analysiert, wie faschistische Bewegungen im 21. Jahrhundert aussehen. Flemigs historische Analyse zeigt, dass Faschismus kein ideologisches Monolith braucht — er kann mit entgegengesetzten Ideologien kooperieren, wenn die Machtinteressen stimmen. Das gilt für 1939 und für die heutige Achse der Diktatoren.
+
+### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
+
+Dieselbe Werkstatt, das umgekehrte Werkzeug. Heinrich zeigt, wie aus einem wahren Funken durch Aufblasen eine Rechtfertigung wird — 15.000 Tote im Donbass werden zum Völkermord. Diese Note zeigt die Gegenbewegung: wie aus einem Loch durch Weglassen ein Gründungsmythos wird. Verstärkung und Auslöschung sind die zwei Hände desselben Handwerks.

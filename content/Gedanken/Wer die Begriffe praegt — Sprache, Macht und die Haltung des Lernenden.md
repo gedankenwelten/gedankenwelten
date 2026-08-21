@@ -192,6 +192,10 @@ Das Einfrieren, angewandt auf einen ganzen Autor: Shakespeare erfand Wörter, br
 
 Der Fall aus der Wirtschaftsdebatte, an dem sich das Einfrieren nachrechnen lässt. „Schuldenberg", „gute Schulden", „Geld drucken" — drei Substantive, die eine Wertung mitschleppen, sobald man sie ausspricht, und die deshalb auch den treffen, der sie zur Widerlegung benutzt. Höfgens Vorwurf an Fratzscher ist die ökonomische Fassung dieses Gedankens; sein Gegenbild von der Monopoly-Bank zeigt zugleich die Grenze, die diese Note benennt — ein neues Bild kann man anbieten, aber nicht verordnen.
 
+### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
+
+Der Fall zur These. Heinrichs wirksamster Einwand gegen das russische Narrativ ist grammatikalisch: Er tauscht das Subjekt aus, und mit dem Subjekt kippt die Schuld — die NATO ist nicht vorgerückt, der Osten ist beigetreten. „Osterweiterung" gibt sich als Sachbegriff und enthält bereits die Entscheidung darüber, wer handelt.
+
 ---
 
 ## Weiterdenken

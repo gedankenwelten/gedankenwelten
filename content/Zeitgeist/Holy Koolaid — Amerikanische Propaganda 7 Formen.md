@@ -255,6 +255,10 @@ Das operative Gegenstück zur kulturellen Grundprogrammierung: Johnson zeigt, wi
 
 Akalas „For racism to function, everyone has to be functionally miseducated" ist Westbrooks Propaganda-These, auf die Geschichtsschreibung angewandt: Der produzierte Konsens beginnt im Lehrplan, nicht in der Tagesschau. Beide zeigen die Ökonomie hinter der Erzählung.
 
+### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
+
+Der Yin-Yang-Test für Heinrichs Whataboutism-Kapitel. Er behandelt „und was ist mit euch?" als sowjetische Ablenkungstechnik — diese Note liefert das Material, das die Ablenkung sachlich weitgehend zutreffend macht: Mosaddegh, Árbenz, Allende. Genau hier entscheidet sich, ob Heinrichs Dimensions-Maßstab ein Argument ist oder eine Nachjustierschraube.
+
 ---
 
 ## Weiterdenken

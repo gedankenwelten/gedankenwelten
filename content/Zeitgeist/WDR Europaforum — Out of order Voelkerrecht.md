@@ -224,6 +224,10 @@ Die direkte Gegenposition, hier sogar namentlich vorbereitet: Wolfgang Kalecks K
 
 Jaffs 85 Prozent bekommen bei Prashad ihre institutionelle Definition: Der Globale Norden ist eine Menge von Verträgen — NATO, G7, Five Eyes —, und der Süden ist, was nach der Subtraktion übrig bleibt. Seine Buchhaltungsfrage („Wie viele Staaten haben die Charta gebrochen? Sambia nicht. Simbabwe nicht.") ist Kalecks instrumentelles Verhältnis des Westens in einer Zeile. Und sein Staunen über die *Group of Friends in Defense of the Charter of the United Nations* trifft genau den Punkt dieses Panels: Ein Vertrag, der eine Freundesgruppe braucht, sagt schon alles über seinen Zustand.
 
+### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
+
+Der Gegentest zu Heinrichs Maßstab. Er räumt Kosovo als Rechtsbruch ein und sortiert dann nach Größenordnung — Apfel gegen Marktstand. Kaleck, Ambos und Jaff halten dagegen, dass genau dieses Sortieren westliche Praxis ist und die Ordnung für den Großteil der Menschheit nie in Ordnung war. Wer beide liest, sieht: Der Maßstab taugt nur, solange jemand ihn glaubwürdig hält.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

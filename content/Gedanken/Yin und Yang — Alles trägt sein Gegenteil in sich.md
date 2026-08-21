@@ -95,3 +95,7 @@ Das Prinzip im Vertrauen: Der bewusste Vorschuss trägt sein Gegenteil in sich �
 
 ### → Bis es keine Anstrengung mehr braucht *(zurückgehalten, derzeit nicht öffentlich)*
 Das Prinzip persönlich erlebt: weder das Glück bleibt noch die Traurigkeit — jedes trägt seinen Umschlag schon in sich. Jedes Loch fühlte sich an wie das Ende der Welt, war aber nie das Ende. Yin und Yang nicht als Erkenntnis, sondern als die Beruhigung, die aus durchlebten Krisen erwächst.
+
+### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
+
+Die Leseanleitung, angewandt auf einen Streitfall. Heinrich geht das prorussische Argumentset durch und räumt erst ein, was einzuräumen ist — Kosovo war ein Angriff, die NATO kein rein defensives Bündnis —, bevor er die Grenze zieht. Sein „fünfte Kolonne" am Schluss ist die Stelle, an der er die eigene Regel bricht: auch das gehört zum Bild.
