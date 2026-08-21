@@ -205,6 +205,10 @@ Die zweite Front derselben Technologie: Wo die ARTE-Doku Sabotage und Desinforma
 
 Was Münkler in zwei Minuten behauptet, führt diese Doku in vier Ländern vor — und bestätigt seinen entscheidenden Punkt: Die Waffe ist nicht der Schaden, sondern die Unzufriedenheit und wem sie nützt. Zugleich zeigt sie seine Grenze: Der Film behauptet Koordination und beweist ein Echo. Ein Begriff, der Stromausfall, Bahnstörung und Wahlkampf umfasst, verliert die Trennschärfe, deren Verlust Münkler beklagt.
 
+### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
+
+Was Heinrich am ukrainischen Sprachgesetz methodisch fordert — eine berechtigte Kritik nicht einziehen, nur weil die Falschen sie benutzen —, zeigt der Lettland-Abschnitt im Konkreten: Die russischsprachige Minderheit ist realer Hebel Moskaus und Gruppe mit echten Härten zugleich. Der Film ist zugleich Prüffall dafür, weil er die Fälschung am Ende mit einem eigenen Deepfake bekämpft.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

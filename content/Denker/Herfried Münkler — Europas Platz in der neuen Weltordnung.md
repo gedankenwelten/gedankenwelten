@@ -340,6 +340,10 @@ Münklers stärkste Entdeckung — dass der russische Dekadenzvorwurf und die ei
 
 Münklers Satz „Es gibt eine Produktivität von Feindschaft" hat hier eine exakte Antithese: Zhaos relationale Rationalität, die nicht Eigeninteresse maximiert, sondern *gegenseitige Feindseligkeit minimiert* — und das nicht als Moral, sondern als Stabilitätsbedingung eines Systems. Wo Münkler die Handlungsunfähigkeit der 27 durch Hierarchisierung heilen will, setzt Tianxia auf Internalisierung der Welt: kein Außen mehr, auf das Staaten ihre Probleme abwälzen — die Führungsgruppe der fünf ist dessen Gegenteil. Und Zhao ist die dritte Großerzählung, die in Münklers Gegenüberstellung von Atlantizismus und Eurasismus fehlt: China erscheint bei ihm nur als Gläubiger mit Vetohebel, nie als Entwurf einer Ordnung.
 
+### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
+
+Heinrich zerlegt an konkreten Bausteinen, was Münkler als Weltbild beschreibt: das imperiale Denken in Einflusssphären, aus dem folgt, dass die Bündniswahl eines souveränen Staates schon als Angriff gilt. Und er dreht Münklers Clausewitz-Volte um — wenn der Aggressor den Krieg als Verteidigung erzählt, hilft es, das Satzsubjekt zurückzudrehen: Die NATO ist nicht vorgerückt, der Osten ist beigetreten.
+
 ---
 
 ## Weiterführende Quellen

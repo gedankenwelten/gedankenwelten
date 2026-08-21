@@ -22,13 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### GoodNews
-
-> **18.08.** — [[GoodNews/Good News - Gute Nachrichten August 2026|Good News — Gute Nachrichten August 2026]]
->
-> Zwölf Meldungen, ein Muster: Das Schlimmste wurde abgesagt, das Beste auch — übrig bleibt der Wettlauf, das Überschießen kurz zu halten.
-
 ### Zeitgeist
+
+> **21.08.** — [[Zeitgeist/Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird|Torsten Heinrich — Die NATO-Lüge und wie aus Funken Rechtfertigung wird]]
+>
+> Wie aus einem wahren Funken eine Rechtfertigung wird — ein Historiker räumt der Gegenseite ein, was ihr zusteht, und zeigt genau dort, wo die Lüge beginnt.
 
 > **17.08.** — [[Zeitgeist/Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
 >
@@ -46,9 +44,11 @@ Die Gedankenwelten (luc)
 >
 > Sieben Jahre nach Epsteins Tod ist die Bilanz eine Anwesenheitsliste von Abwesenden — und die Frage, warum Rechenschaft überall funktioniert außer dort, wo die Akten liegen.
 
-> **12.08.** — [[Zeitgeist/Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt|Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
+### GoodNews
+
+> **18.08.** — [[GoodNews/Good News - Gute Nachrichten August 2026|Good News — Gute Nachrichten August 2026]]
 >
-> Eine Sinologin dreht die Kamera um und schaut von Peking aus auf uns — und was sie dort findet, ist eine Führung, deren größte Angst dem eigenen Land gilt.
+> Zwölf Meldungen, ein Muster: Das Schlimmste wurde abgesagt, das Beste auch — übrig bleibt der Wettlauf, das Überschießen kurz zu halten.
 
 ### Kultur
 
@@ -73,14 +73,6 @@ Die Gedankenwelten (luc)
 > **11.08.** — [[Denker/Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]
 >
 > Ein Rapper liest zehn Zeilen vor und lässt raten: Shakespeare oder Hip-Hop? Fast alle liegen falsch — und aus diesem Irrtum wird eine Frage danach, wer das Recht hat, klug zu sein.
-
-> **11.08.** — [[Denker/Ngugi wa Thiongo — Decolonizing the American University|Ngũgĩ wa Thiong'o — Decolonizing the American University]]
->
-> Sprache vollendet, was das Schwert beginnt — Ngũgĩs letzte große Vorlesung über Amerikas drei Gründungsströme und die Frage, wem eine Universität gehört.
-
-> **11.08.** — [[Denker/Akala — Die verlorenen Seiten der Menschheitsgeschichte|Akala — Die verlorenen Seiten der Menschheitsgeschichte]]
->
-> Wer die Geschichte eines Kontinents verzerrt, formt die Gegenwart aller — Akala über Afrika vor der Versklavung und die Frage, wem der Lehrplan gehört.
 
 ### Spuren
 
