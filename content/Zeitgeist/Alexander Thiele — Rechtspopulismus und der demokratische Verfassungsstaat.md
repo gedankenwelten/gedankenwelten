@@ -332,6 +332,11 @@ Thieles These, der Verfassungsstaat habe die AfD selbst großgemacht, bekommt be
 
 Die Abhilfen ziehen auseinander. Thiele setzt auf Erzählung und Institution — und unterstellt damit Entscheider, die sich die Interessen der unteren sechsundneunzig Prozent vorstellen können. Hartmann bestreitet genau diese Voraussetzung und will die Zusammensetzung ändern. Dazu ein Befund, der direkt in Thieles Fach fällt: Der Präsident des Bundesverfassungsgerichts kam als stellvertretender Unionsfraktionsvorsitzender ans Gericht und war anderthalb Jahre später dessen Präsident.
 
+### → [[Andreas Puettmann — Werte NEU DENKEN]]
+
+Dieselbe Diagnose, die umgekehrte Therapie. Püttmann und Thiele sind sich einig, dass die AfD den Verfassungsstaat bekämpft — Thiele hält das Abarbeiten an ihr für kontraproduktiv und setzt auf Leistungsfähigkeit, Püttmann verlangt genau dieses Gegenhalten als „primär nicht-neutrale Positionierung um der Neutralisierung willen".
+
+
 ---
 
 ## Weiterdenken

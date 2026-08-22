@@ -330,6 +330,11 @@ Studio Bonn setzt auf die Einsicht der Vermögenden, mit Marlene Engelhorn als E
 
 Statistisch ist Engelhorn damit eine sehr dünn besetzte Ausnahme. Hartmanns Konsequenz fällt entsprechend anders aus: Er verlässt sich nicht auf das Gewissen der Erben, sondern auf Eigentumsfragen, Genossenschaften und den Umweg über die Zusammensetzung derer, die entscheiden.
 
+### → [[Andreas Puettmann — Werte NEU DENKEN]]
+
+Hartmann erklärt, was Püttmann nur beklagt. Dessen Verwunderung über die „politische Dummheit bestimmter Teile des Großbürgertums" und über die Eroberung der Union durch die Mittelstandsvereinigung wird bei Hartmann zur Klassenlogik: Herkunft wirkt stärker als das Parteibuch. Dann hilft die parteiinterne Bildungsarbeit, die Püttmann der CDU rät, wenig.
+
+
 ---
 
 ## Weiterdenken

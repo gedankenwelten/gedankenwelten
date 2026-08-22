@@ -278,6 +278,11 @@ Die wirtschaftshistorische Tiefenschärfe zu dieser Recherche. Für Orain erfind
 
 Der Staatsrechtler braucht Peter Thiel als Testfall für seine Grenzziehung: Vereinfachen gehört zur Demokratie, das Sortieren in geeignete und ungeeignete Bürger nicht. Thiel liefert den Reinfall, weil er offen sagt, Demokratie und technologischer Fortschritt seien unvereinbar. Wo Chaudhry die Genealogie erzählt — State-made statt Selfmade —, beschreibt Thiele das Ergebnis: Trump und Musk als Verschränkung von libertärer Säule und Staatsmacht, ein neuer digitaler Leviathan. Die deutsche Zusammenarbeit mit Palantir nennt er eine Blauäugigkeit, die an Fahrlässigkeit grenzt.
 
+### → [[Andreas Puettmann — Werte NEU DENKEN]]
+
+Maja Göpel bringt Thiels Antichrist-Rede in Rom und *The Sovereign Individual* in ihr Gespräch mit Püttmann ein — hier steht die Genealogie dazu. Püttmanns These, jede Ideologie wolle sich der herrschenden Religion bemächtigen, bekommt damit ihren Silicon-Valley-Fall.
+
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

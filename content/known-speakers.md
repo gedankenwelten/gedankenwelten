@@ -926,3 +926,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Ulrike Herrmann
 **Status:** ✓ Vollanalyse — [[DenkerVita/Ulrike Herrmann]]
+
+## Andreas Püttmann
+**Status:** ✓ Vollanalyse — [[DenkerVita/Andreas Puettmann]]

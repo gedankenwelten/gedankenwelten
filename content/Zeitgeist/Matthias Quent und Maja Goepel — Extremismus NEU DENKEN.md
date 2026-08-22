@@ -229,3 +229,8 @@ Die Agartha-Sphäre ist ein Anschauungsfall für Quents „Technik der Emotional
 
 Der Gegentest zu dieser Note. Tekkal setzt Islamismus und Rechtsextremismus als „böse Zwillinge" gleich — genau die Symmetrie, die Quent für sozialwissenschaftlich unhaltbar hält. Sein eigenes Kriterium, Ungleichwertigkeitsideologie plus Faschismus als Technik der Emotionalisierung, erfasst den Islamismus aber lückenlos und gibt ihr in der Sache recht. Der Streit dreht sich also um Verankerung und Zugang zu Staatsmacht, nicht um die Funktion beider Bewegungen.
 
+### → [[Andreas Puettmann — Werte NEU DENKEN]]
+
+Dieselbe Gastgeberin, entgegengesetzte Herkunft, dieselbe Schlussfolgerung. Quent kommt über die Baseballschlägerjahre zur wehrhaften Demokratie, der Katholik Püttmann über Allensbach und die Adenauer-Stiftung — beide behandeln „Faschismus" als analytischen Begriff und suchen das Problem bei der Trägheit der Gemäßigten.
+
+

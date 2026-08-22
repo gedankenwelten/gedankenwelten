@@ -195,3 +195,9 @@ Dörres VW-Forschung liefert die Betriebsebene zu Maus demobilisierter Klassenge
 ### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
 
 Thiele diagnostiziert dieselbe Erosion und schlägt vor, sie zu reparieren: Teilhabe öffnen, Übergriffigkeit begrenzen, Leistungsfähigkeit herstellen. Maus Befund stellt genau das infrage. Ist die Oben-Unten-Arena gesättigt und entzündet sich Erregung an Triggerpunkten der Zugehörigkeit, repariert Thiele die falsche Arena — eine instandgesetzte Brücke beantwortet keine Anerkennungsfrage. Die Veränderungsmüdigkeit trifft zudem seinen Schlussvorschlag frontal: Eine geteilte Zukunftserzählung für 2050 ist genau das Transformationsversprechen, für dessen Gegenteil vierzig Prozent empfänglich sind.
+
+### → [[Andreas Puettmann — Werte NEU DENKEN]]
+
+Zwei Umfrageleser, zwei unvereinbare Bilder desselben Landes. Püttmann sieht mit Ortega y Gasset den Weg von der Demokratie zur Ochlokratie; Maus Daten zeigen einen breiten Konsens, der nur an wenigen Triggerpunkten reißt. Wer recht hat, entscheidet, ob Püttmanns „Militanz der Mitte" Notwehr ist oder selbst Lagerbildung.
+
+
