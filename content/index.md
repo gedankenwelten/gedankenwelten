@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **22.08.** — [[Zeitgeist/Andreas Puettmann — Werte NEU DENKEN|Andreas Püttmann — Werte NEU DENKEN]]
+>
+> Ein Konservativer über das C der CDU als Vorzeichen vor der Klammer, den Rechtsstaat als Luft zum Atmen und die Notwendigkeit einer Militanz der Mitte.
+
 > **21.08.** — [[Zeitgeist/Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird|Torsten Heinrich — Die NATO-Lüge und wie aus Funken Rechtfertigung wird]]
 >
 > Wie aus einem wahren Funken eine Rechtfertigung wird — ein Historiker räumt der Gegenseite ein, was ihr zusteht, und zeigt genau dort, wo die Lüge beginnt.
@@ -40,9 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Vereinfachen ist kein Angriff auf die Demokratie. Der Angriff beginnt dort, wo jemand aufhört, die gleiche politische Freiheit aller überhaupt zu wollen.
 
-> **15.08.** — [[Zeitgeist/Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)|Sandra Navidi — Epsteins Mittäter und Trump kommen davon (Der Standard)]]
->
-> Sieben Jahre nach Epsteins Tod ist die Bilanz eine Anwesenheitsliste von Abwesenden — und die Frage, warum Rechenschaft überall funktioniert außer dort, wo die Akten liegen.
+> → *1 weitere in* [[Zeitgeist]]
 
 ### GoodNews
 

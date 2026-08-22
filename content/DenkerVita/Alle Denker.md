@@ -59,6 +59,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Hannah Arendt|Hannah Arendt]]** — Politische Denkerin (1906–1975), die sich selbst nie „Philosophin“ nennen wollte; Totalitarismus-Theorie, Banalität des Bösen, Natalität, Pluralität; *Elemente und Ursprünge totaler Herrschaft* (1951), *Vita activa* (1958), *Eichmann in Jerusalem* (1963) — Denken ohne Geländer
 
+**[[DenkerVita/Andreas Puettmann|Andreas Püttmann]]** — Politikwissenschaftler & katholischer Publizist (Bonn, ZdK), früher Allensbach und Konrad-Adenauer-Stiftung; das „C“ als Vorzeichen vor der Klammer statt als konservativer Flügel — Rechtspopulismus als Antithese zum Christentum, „Militanz der Mitte“, Verantwortungsethik vor Gesinnungsethik
+
 ## B
 
 **[[DenkerVita/Lukas Baerfuss|Lukas Bärfuss]]** — Schweizer Schriftsteller, Dramatiker und Essayist (Georg-Büchner-Preis 2019); Autodidakt ohne Schulabschluss, als Jugendlicher obdachlos, schlug das Schulden-Erbe des Vaters aus — schreibt über Herkunft als Fessel, Erben als politischen Skandal und die Selbstgerechtigkeit der Schweiz

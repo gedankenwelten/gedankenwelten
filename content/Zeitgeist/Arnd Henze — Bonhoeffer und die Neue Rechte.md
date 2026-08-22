@@ -305,6 +305,11 @@ Was Henze für Deutschland beschreibt, ist Teil eines transnationalen Netzwerks:
 
 Die Frage nach demokratischen Institutionen, die widerstehen können, taucht in beiden Notes auf — von verschiedenen Seiten. Henze fragt, was Bonhoeffers Realitätsblick für heute bedeutet; das Panorama fragt, welche wirtschaftlichen und sozialen Strukturen Demokratie tragen.
 
+### → [[Andreas Puettmann — Werte NEU DENKEN]]
+
+Die katholische Spiegelung. Was Henze am Fall Bonhoeffer zeigt, typologisiert Püttmann: Ideologien unterdrücken die herrschende Religion entweder brutal (SED, Sowjetunion) oder hängen sie sich um wie ein Mäntelchen (MAGA). Zwei Konfessionen, dieselbe Beobachtung einer Kirche, die ihre Symbole nicht mehr verteidigt.
+
+
 ---
 
 ## Weiterdenken

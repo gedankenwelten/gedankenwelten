@@ -1926,6 +1926,16 @@ tags:
 
 ---
 
+## Andreas Püttmann & Maja Göpel — Werte NEU DENKEN
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Werte NEU DENKEN mit Andreas Püttmann](https://www.youtube.com/watch?v=7IUR-tKu7yw) |
+| **Notiz** | [[Andreas Puettmann — Werte NEU DENKEN]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Puettmann_Werte_Transkript.txt` |
+
+---
+
 ## Gesine Schwan & Maja Göpel — Macht NEU DENKEN
 
 | | |

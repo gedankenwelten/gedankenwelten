@@ -247,6 +247,11 @@ Ergänzt die strukturelle Dimension, die im Wertewesten-Streit fehlt: Es geht ni
 
 Dieselbe Stimme, ausführlich: Heinrichs Methodik der Quellenkritik, sein Neutralitäts-Begriff („Neutralität ist eine Lüge — ehrlich ist, wer seine Position offenlegt") und seine Biografie. Erklärt, warum er hier so vehement auf Belegpflicht und „Waffengleichheit" pocht — und liefert den Maßstab, an dem man seinen eigenen „eisernen Besen" messen kann.
 
+### → [[Andreas Puettmann — Werte NEU DENKEN]]
+
+Püttmann liefert die Theorie zu dem Streit, der hier ausgefochten wird. Er zitiert Poppers Toleranzparadoxon und die wehrhafte Demokratie als Verfahren — Heinrichs „eiserner Besen" und Reichers Vertrauen auf die besseren Argumente sind die zwei Antworten, die sich daraus ziehen lassen.
+
+
 ---
 
 ## Weiterdenken

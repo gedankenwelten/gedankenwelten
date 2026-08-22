@@ -319,3 +319,9 @@ Schwans normative Machttheorie setzt dort an, wo Browns strukturelle Diagnose en
 ### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
 
 Löschels Begleitung des Bürgerenergiegesetzes NRW ist angewandte Gestaltungsmacht: strukturierte Partizipation entmachtet die „laute Minderheit" und macht die stille Mehrheit handlungsfähig — Schwans Machtbegriff, energiepolitisch operationalisiert.
+
+### → [[Andreas Puettmann — Werte NEU DENKEN]]
+
+Die religiöse Parallelkonstruktion zu Schwans säkularem Fundament. Beide sagen, Institutionen allein tragen nicht — Schwan sucht den Grund in Vertrauen und erfahrbarer Beteiligung, Püttmann mit Böckenförde in Normen, Tugenden und einer Wertbindung aus der Religion. Und beide landen beim Narzissmus.
+
+
