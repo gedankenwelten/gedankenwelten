@@ -212,6 +212,10 @@ Beide Notes weigern sich, Zivilisten pauschal in Kombattanten aufzulösen: Schwa
 
 Dieselbe Lücke zwischen Feststellung und Verfolgung. Für die Jesiden war Strafverfolgung eine der drei Hoffnungen, die an der Anerkennung des Völkermords hingen — samt der Sprachkorrektur, es seien keine IS-Bräute, sondern IS-Täterinnen. Dass das UN-Ermittlungsteam UNITAD 2024 auf Wunsch der irakischen Regierung schließen musste, ist die Fortsetzung: Ein Verbrechen zu benennen und es zu verfolgen sind zwei getrennte Akte, und der zweite kostet politischen Willen.
 
+### → [[Xavier Abu Eid — Was vom Voelkerrecht uebrig ist]]
+
+Die Gegenprobe zur Fallrekonstruktion: Schwarz und Obermaier zeigen, wie ein Verfahren aus offenen Quellen überhaupt erst entsteht — Abu Eid hat die Instanzen dahinter alle durchlaufen und fragt, was am Ende herauskam. „Es fehlt nicht an Werkzeugen. Es fehlt am Willen, sie anzuwenden.“
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

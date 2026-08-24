@@ -47,12 +47,13 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*287 Notes — automatisch generiert · nach Thema sortiert*
+*292 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
 
 - [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle]]
+- [[Zeitgeist/Ami Ayalon — Wir haben den Krieg gewonnen|Ami Ayalon — Wir haben den Krieg gewonnen]] — Israels früherer Geheimdienstchef sagt zwei Sätze, die einander tragen: Wir haben den Krieg längst gewonnen und weigern uns, es zu sehen — und wäre ich Palästinenser, ich würde kämpfen.
 - [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
 - [[Zeitgeist/Anat Saragusti — Zensur und Pressefreiheit in Israel|Anat Saragusti — Zensur und Pressefreiheit in Israel]] — Die Frau, die 1982 als erste israelische Journalistin Arafat interviewte, beschreibt, wie Israels freie Presse stirbt — nicht durch Verbote, sondern durch Selbstzensur.
 - [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
@@ -89,6 +90,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Maerz 2026|Die Neuen Zwanziger — Salon Lektüren März 2026]]
 - [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 - [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus|Dobusch und Zaboura — Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus]]
+- [[Zeitgeist/Dror Etkes — Die Landkarte der Besatzung|Dror Etkes — Die Landkarte der Besatzung]] — Er wuchs in einer Siedlung auf und kartiert heute jede neue. Sein Befund über die Zweistaatenlösung ist der unbequemste dieser Reihe: Sie ist vorbei — und er weiß nicht, was danach kommt.
 - [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
 - [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]] — Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
 - [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]] — Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.
@@ -156,6 +158,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland|rp26 — Stresstest für die Demokratie: Sind wir bereit für den Ernstfall in Ostdeutschland?]]
 - [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]] — Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter an der ukrainischen Front, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
 - [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
+- [[Zeitgeist/Sari Nusseibeh — Die Geduld des Philosophen|Sari Nusseibeh — Die Geduld des Philosophen]] — Warum nahm Schahrazad kein Messer mit ins Schlafgemach? Ein palästinensischer Philosoph beantwortet aus einem Märchen die Frage, warum Gewalt niemals der Ausweg aus Gewalt ist.
 - [[Zeitgeist/Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg|Senkt KI die Hemmschwelle zum Krieg? — Dahlmann und Kuhle auf der re:publica]] — Wenn die Maschine die Ziele wählt und der Mensch nur noch wegklickt, entkoppelt sich der Krieg von der Verantwortung — eine Debatte über das, was dann fehlt.
 - [[Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|Spahns Maskendeal und das Spendendinner]]
 - [[Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)|Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
@@ -273,6 +276,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird|Torsten Heinrich — Die NATO-Lüge und wie aus Funken Rechtfertigung wird]] — Wie aus einem wahren Funken eine Rechtfertigung wird — ein Historiker räumt der Gegenseite ein, was ihr zusteht, und zeigt genau dort, wo die Lüge beginnt.
 - [[Zeitgeist/Torsten Heinrich — Was die Tagesschau verschweigt|Torsten Heinrich — Was dir die Tagesschau verschweigt]]
 - [[Zeitgeist/Torsten Heinrich — Ukraine bewusst geopfert|Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?]]
+- [[Zeitgeist/Yisrael Medad — Der Siedler und sein Recht|Yisrael Medad — Der Siedler und sein Recht]] — Ein Siedler seit 45 Jahren erklärt ruhig, warum das Völkerrecht irrt, warum es keinen palästinensischen Staat geben wird — und sagt auf die härteste Frage des Gesprächs schlicht: klar.
 
 ### Energie & Klima
 
@@ -363,5 +367,6 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende: Rolle rückwärts oder wirtschaftlich vernünftig?]]
 - [[Zeitgeist/Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)|Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]]
 - [[Zeitgeist/Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)|Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)]]
+- [[Zeitgeist/Xavier Abu Eid — Was vom Voelkerrecht uebrig ist|Xavier Abu Eid — Was vom Völkerrecht übrig ist]] — Er hat alle Instanzen durchlaufen — Den Haag, Sicherheitsrat, Generalversammlung — und fragt heute, was ihm das Recht gebracht hat. Aufgeben will er es trotzdem nicht.
 
 <!-- ZEITGEIST:END -->

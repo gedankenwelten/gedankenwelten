@@ -265,3 +265,7 @@ Yu kritisiert Cancel Culture als „potenziell totalitär", weil sie Mentalisier
 ### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
 
 Innen- und Außenansicht desselben Phänomens: Yu benennt das „pietistische Reinheitsgebot" ihrer eigenen linken Bubble und liefert den neuronalen Grund — wer den Gegner nicht mentalisieren darf, verliert die Konfliktlösungsfähigkeit. Potter kartiert denselben autoritären Zug diskursiv.
+
+### → [[Yisrael Medad — Der Siedler und sein Recht]]
+
+Dieselbe Bewegung, umgekehrtes Vorzeichen. Was Potter an Teilen der Linken beschreibt — das Abwehren unbequemer Befunde über die eigene Seite —, führt Medad von rechts vor: Das Gericht, das ihm widerspricht, ist unterwandert; die Studie, die ihm widerspricht, ist ideologisch. Die Struktur der Erkenntnisverweigerung ist identisch.

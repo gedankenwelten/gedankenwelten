@@ -42,13 +42,13 @@ Der Siedler, dessen Leugnung der Hungersnot der Prüfung nicht standhält, zitie
 
 | Wer | Position | Der Satz, der bleibt |
 |---|---|---|
-| [[Anat Saragusti — Zensur und Pressefreiheit in Israel\|**Anat Saragusti**]] (836) | Israels erste Kriegsfotografin, heute Pressefreiheit bei der Journalistengewerkschaft | „Selbstzensur ist eine Art, sich zu schützen." |
-| [[Yonatan Zeigen — A Place For Us All\|**Yonatan Zeigen**]] (837) | Sohn der am 7.10. ermordeten Vivian Silver, Kandidat einer jüdisch-arabischen Partei | Sicherheit gibt es nur durch Gleichheit — wer unterdrückt, erntet Widerstand. |
-| [[Ami Ayalon — Wir haben den Krieg gewonnen\|**Ami Ayalon**]] (839) | Marinechef, danach Chef des Schin Bet 1996–2000 | „Wir haben den Krieg gewonnen. Und wir weigern uns, unseren Sieg anzuerkennen." |
-| [[Yisrael Medad — Der Siedler und sein Recht\|**Yisrael Medad**]] (840) | Siedler in Schilo seit 1981, zwölf Jahre Knesset-Mitarbeiter | Auf die Frage, ob Freiheit auf fremder Unfreiheit ruhen dürfe: „Klar." |
-| [[Xavier Abu Eid — Was vom Voelkerrecht uebrig ist\|**Xavier Abu Eid**]] (841) | Palästinensischer Politikwissenschaftler, Ex-Berater des PLO-Verhandlungsteams | „Es fehlt nicht an Werkzeugen. Es fehlt am Willen, sie anzuwenden." |
-| [[Sari Nusseibeh — Die Geduld des Philosophen\|**Sari Nusseibeh**]] (842) | Philosoph, Präsident der Al-Quds-Universität, gewaltfreier Widerstand seit den 70ern | Warum nahm Schahrazad kein Messer mit? Weil der Nachfolger schlimmer gewesen wäre. |
-| [[Dror Etkes — Die Landkarte der Besatzung\|**Dror Etkes**]] (843) | Kartograf der Besatzung (Kerem Navot), selbst in einer Siedlung aufgewachsen | „Es fehlen nur zwei Wörter: die einzige Demokratie *für Juden* im Nahen Osten." |
+| **[[Anat Saragusti — Zensur und Pressefreiheit in Israel\|Anat Saragusti]]** (836) | Israels erste Kriegsfotografin, heute Pressefreiheit bei der Journalistengewerkschaft | „Selbstzensur ist eine Art, sich zu schützen." |
+| **[[Yonatan Zeigen — A Place For Us All\|Yonatan Zeigen]]** (837) | Sohn der am 7.10. ermordeten Vivian Silver, Kandidat einer jüdisch-arabischen Partei | Sicherheit gibt es nur durch Gleichheit — wer unterdrückt, erntet Widerstand. |
+| **[[Ami Ayalon — Wir haben den Krieg gewonnen\|Ami Ayalon]]** (839) | Marinechef, danach Chef des Schin Bet 1996–2000 | „Wir haben den Krieg gewonnen. Und wir weigern uns, unseren Sieg anzuerkennen." |
+| **[[Yisrael Medad — Der Siedler und sein Recht\|Yisrael Medad]]** (840) | Siedler in Schilo seit 1981, zwölf Jahre Knesset-Mitarbeiter | Auf die Frage, ob Freiheit auf fremder Unfreiheit ruhen dürfe: „Klar." |
+| **[[Xavier Abu Eid — Was vom Voelkerrecht uebrig ist\|Xavier Abu Eid]]** (841) | Palästinensischer Politikwissenschaftler, Ex-Berater des PLO-Verhandlungsteams | „Es fehlt nicht an Werkzeugen. Es fehlt am Willen, sie anzuwenden." |
+| **[[Sari Nusseibeh — Die Geduld des Philosophen\|Sari Nusseibeh]]** (842) | Philosoph, Präsident der Al-Quds-Universität, gewaltfreier Widerstand seit den 70ern | Warum nahm Schahrazad kein Messer mit? Weil der Nachfolger schlimmer gewesen wäre. |
+| **[[Dror Etkes — Die Landkarte der Besatzung\|Dror Etkes]]** (843) | Kartograf der Besatzung (Kerem Navot), selbst in einer Siedlung aufgewachsen | „Es fehlen nur zwei Wörter: die einzige Demokratie *für Juden* im Nahen Osten." |
 
 Vier Israelis, drei Palästinenser. Fünf Männer, zwei Frauen — eine Schieflage, die dem Sampling der Reise gehört, nicht diesem Panorama, und die man beim Lesen mitführen sollte.
 
