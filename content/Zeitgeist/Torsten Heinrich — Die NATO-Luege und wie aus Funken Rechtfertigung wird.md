@@ -272,6 +272,10 @@ Heinrichs brauchbarster Satz — Kritik wird nicht falsch, weil die falschen Leu
 
 Die Leseanleitung, an der sich Heinrichs Methode messen lässt, mit dem Völkerrecht als eigenem Beispiel: echte Stärke als Gegenprojekt zur Machtpolitik, echte Schwäche in der selektiven Anwendung. „Was ist das Wahre an dieser Position, was ist der blinde Fleck?" ist als Frage identisch mit Heinrichs Vorgehen. Sein „fünfte Kolonne" am Ende ist zugleich die Stelle, an der er die eigene Regel bricht.
 
+### → [[Ami Ayalon — Wir haben den Krieg gewonnen]]
+
+Dieselbe Mechanik, anderer Schauplatz: Wie aus einem Funken eine Rechtfertigung wird, beschreibt Ayalon aus dem Inneren des Apparats — die Regierung brauche den Krieg, um im Amt zu bleiben, und ein gerechter Krieg habe ein Verfallsdatum.
+
 ---
 
 ## Weiterdenken

@@ -280,3 +280,7 @@ Heinrichs Biografie (Gründung der JA 2013, Austritt 2014, „Partei der Spinner
 
 ### → [[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 Beiderseitiges Medienschweigen-Thema: Staiy analysiert die Täter-Ethnie-Logik bei Leipzig/Aschaffenburg — ergänzt Heinrichs Kritik am Tagesschau-Schweigen zu Kriegsthemen um eine weitere Richtung der selektiven Sichtbarkeit.
+
+### → [[Xavier Abu Eid — Was vom Voelkerrecht uebrig ist]] · [[Dror Etkes — Die Landkarte der Besatzung]]
+
+Zwei Blicke von außen auf dieselbe deutsche Debatte, die Heinrich von innen seziert. Abu Eid nimmt die politische Praxis hinter dem Framing: Worte zu E1, denen zwei Tage später Ausschreibungen folgen, und ein Land, das Bio-Eier streng kennzeichnet und Siedlungsprodukte nicht. Etkes richtet den letzten Satz seines Gesprächs direkt an das deutsche Publikum.
