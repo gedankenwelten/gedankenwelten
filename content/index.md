@@ -24,27 +24,47 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
-> **22.08.** — [[Zeitgeist/Andreas Puettmann — Werte NEU DENKEN|Andreas Püttmann — Werte NEU DENKEN]]
+> **24.08.** — [[Zeitgeist/Ami Ayalon — Wir haben den Krieg gewonnen|Ami Ayalon — Wir haben den Krieg gewonnen]]
 >
-> Ein Konservativer über das C der CDU als Vorzeichen vor der Klammer, den Rechtsstaat als Luft zum Atmen und die Notwendigkeit einer Militanz der Mitte.
+> Israels früherer Geheimdienstchef sagt zwei Sätze, die einander tragen: Wir haben den Krieg längst gewonnen und weigern uns, es zu sehen — und wäre ich Palästinenser, ich würde kämpfen.
 
-> **21.08.** — [[Zeitgeist/Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird|Torsten Heinrich — Die NATO-Lüge und wie aus Funken Rechtfertigung wird]]
+> **24.08.** — [[Zeitgeist/Dror Etkes — Die Landkarte der Besatzung|Dror Etkes — Die Landkarte der Besatzung]]
 >
-> Wie aus einem wahren Funken eine Rechtfertigung wird — ein Historiker räumt der Gegenseite ein, was ihr zusteht, und zeigt genau dort, wo die Lüge beginnt.
+> Er wuchs in einer Siedlung auf und kartiert heute jede neue. Sein Befund über die Zweistaatenlösung ist der unbequemste dieser Reihe: Sie ist vorbei — und er weiß nicht, was danach kommt.
 
-> **17.08.** — [[Zeitgeist/Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
+> **24.08.** — [[Zeitgeist/Xavier Abu Eid — Was vom Voelkerrecht uebrig ist|Xavier Abu Eid — Was vom Völkerrecht übrig ist]]
 >
-> Zwei progressive Ökonomen räumen dieselben Denkfehler ab — und geraten sich über die Bilder in die Haare, mit denen man sie abräumt.
+> Er hat alle Instanzen durchlaufen — Den Haag, Sicherheitsrat, Generalversammlung — und fragt heute, was ihm das Recht gebracht hat. Aufgeben will er es trotzdem nicht.
 
-> **16.08.** — [[Zeitgeist/Ronnie Vuine — Warum Roboter keine Beine brauchen|Warum Roboter keine Beine brauchen]]
+> **24.08.** — [[Zeitgeist/Yisrael Medad — Der Siedler und sein Recht|Yisrael Medad — Der Siedler und sein Recht]]
 >
-> Eine Erfolgsquote von 70 Prozent heißt in der Küche: ein kaputter Teller pro Woche. Der Robotiker Ronnie Vuine rechnet dem Humanoiden-Hype die Physik vor — und der Alignment-Debatte ihr Wir.
+> Ein Siedler seit 45 Jahren erklärt ruhig, warum das Völkerrecht irrt, warum es keinen palästinensischen Staat geben wird — und sagt auf die härteste Frage des Gesprächs schlicht: klar.
 
-> **16.08.** — [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Rechtspopulismus und der demokratische Verfassungsstaat]]
+> **24.08.** — [[Zeitgeist/Sari Nusseibeh — Die Geduld des Philosophen|Sari Nusseibeh — Die Geduld des Philosophen]]
 >
-> Vereinfachen ist kein Angriff auf die Demokratie. Der Angriff beginnt dort, wo jemand aufhört, die gleiche politische Freiheit aller überhaupt zu wollen.
+> Warum nahm Schahrazad kein Messer mit ins Schlafgemach? Ein palästinensischer Philosoph beantwortet aus einem Märchen die Frage, warum Gewalt niemals der Ausweg aus Gewalt ist.
 
-> → *1 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
+
+### Panorama
+
+> **24.08.** — [[Panorama/Sieben Zeugen, kein Konsens|Sieben Zeugen, kein Konsens]]
+>
+> Eine Woche, sieben Gespräche, ein Land — und keine zwei, die dasselbe sagen. Was übrig bleibt, wenn man alle sieben ernst nimmt, statt sich eine Stimme auszusuchen.
+
+> **26.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
+>
+> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
+
+> **25.07.** — [[Panorama/Fortschritt|Fortschritt]]
+>
+> Zweieinhalb Jahrhunderte lang war klar, dass es besser wird. Was passiert mit einer Gesellschaft, deren Institutionen auf ein Versprechen gebaut sind, das sie selbst nicht mehr glaubt?
+
+### Spuren
+
+> **24.08.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
 ### GoodNews
 
@@ -76,12 +96,6 @@ Die Gedankenwelten (luc)
 >
 > Ein Rapper liest zehn Zeilen vor und lässt raten: Shakespeare oder Hip-Hop? Fast alle liegen falsch — und aus diesem Irrtum wird eine Frage danach, wer das Recht hat, klug zu sein.
 
-### Spuren
-
-> **15.08.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
->
-> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
-
 ### Geistesblitz
 
 > **11.08.** — [[Geistesblitz/Steelpan — Was aus einem Trommelverbot wurde|Steelpan — Was aus einem Trommelverbot wurde]]
@@ -95,18 +109,6 @@ Die Gedankenwelten (luc)
 > **15.07.** — [[Geistesblitz/Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 >
 > Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
-
-### Panorama
-
-> **26.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
->
-> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
-
-> **25.07.** — [[Panorama/Fortschritt|Fortschritt]]
->
-> Zweieinhalb Jahrhunderte lang war klar, dass es besser wird. Was passiert mit einer Gesellschaft, deren Institutionen auf ein Versprechen gebaut sind, das sie selbst nicht mehr glaubt?
-
-> **25.07.** — [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus — Die globale Rechte]]
 
 ### Gedanken
 

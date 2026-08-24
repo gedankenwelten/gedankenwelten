@@ -44,3 +44,4 @@ Jedes Panorama folgt diesem Aufbau:
 | Gelebte Demokratie | [[Gelebte Demokratie]] | 24 |
 | Politik — Verstehen | [[Politik - Verstehen]] | 23 |
 | Rechte Medien — das Geschäft mit der Lüge | [[Rechte Medien — Das Geschaeft mit der Luege]] | 17 |
+| Sieben Zeugen, kein Konsens | [[Sieben Zeugen, kein Konsens]] | 7 |

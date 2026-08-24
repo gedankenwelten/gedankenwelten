@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*286 Notes — automatisch generiert · nach Thema sortiert*
+*287 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -57,6 +57,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Anat Saragusti — Zensur und Pressefreiheit in Israel|Anat Saragusti — Zensur und Pressefreiheit in Israel]] — Die Frau, die 1982 als erste israelische Journalistin Arafat interviewte, beschreibt, wie Israels freie Presse stirbt — nicht durch Verbote, sondern durch Selbstzensur.
 - [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert|Andreas Kemper — Faschismen im 21. Jahrhundert]]
 - [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD|Andreas Kemper — Technofaschismus und die AfD]]
+- [[Zeitgeist/Andreas Puettmann — Werte NEU DENKEN|Andreas Püttmann — Werte NEU DENKEN]] — Ein Konservativer über das C der CDU als Vorzeichen vor der Klammer, den Rechtsstaat als Luft zum Atmen und die Notwendigkeit einer Militanz der Mitte.
 - [[Zeitgeist/Angela Merkel — Trotz allem Hoffnung Europa|Angela Merkel — Trotz allem: Hoffnung Europa?]] — Eine Frau, die 16 Jahre lang europäische Diplomatie verkörperte, über das Recht des Stärkeren, die zweite Seite der Medaille und warum Demokratie kein Selbstläufer ist.
 - [[Zeitgeist/Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)|Anna from Ukraine — Orbán verliert Ungarn (12.04.2026)]]
 - [[Zeitgeist/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)|Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]

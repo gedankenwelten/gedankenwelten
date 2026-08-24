@@ -10,11 +10,11 @@ tags:
   - geopolitik
   - year-2026
 status: offen
-konfidenz: 62%
+konfidenz: 63%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-07-27
-presseschau_aktualisiert: 2026-06-21
+aktualisiert: 2026-08-24
+presseschau_aktualisiert: 2026-08-24
 description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen."
 ---
 
@@ -41,11 +41,16 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 
 ## Die These
 
-> **Stand (Konfidenz 62 %):** Während die Aufmerksamkeit abebbt, läuft die humanitäre Krise trotz
+> **Stand (Konfidenz 63 %):** Während die Aufmerksamkeit abebbt, läuft die humanitäre Krise trotz
 > „Waffenstillstand" weiter, und die völkerrechtlichen Verfahren bewegen sich in extremer Langsamkeit.
 > **Recht wird nicht verweigert, sondern vertagt** — Fristen bis 2027/2029, Haftbefehle ohne Vollzug —
 > bis der öffentliche Druck versandet. Die nachlassende Aufmerksamkeit korreliert mit nachlassender
 > Rechenschaft, unabhängig vom Stand der Kampfhandlungen.
+>
+> **Schärfung (24.08.2026):** Nicht die Institutionen sind langsam. Der Sicherheitsrat baute in sieben
+> Wochen eine Übergangsverwaltung für Gaza (Resolution 2803). Langsam ist ausschließlich die Schiene,
+> auf der Rechenschaft entstünde — die Vertagung ist eine **Auswahlentscheidung**, keine Trägheit.
+> *Die registrierten Falsifikationsbedingungen bleiben davon unberührt und unverändert.*
 
 ## Falsifikation
 
@@ -56,6 +61,22 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 **Kalt, wenn:** dauerhafte politische Lösung, Thema legitim abgeschlossen.
 
 ## Verlauf
+
+### 2026-08-24 — Die Resolution, die wir übersehen haben (Konfidenz 62 % → 63 %)
+
+**Befund:** Zwei Stränge, ein blinder Fleck.
+
+*(1) Die Rechenschaftsschiene steht still.* Beim **ICJ** hat sich seit dem Order vom 21.05.2026 nichts bewegt: Das Verfahren bleibt im schriftlichen Vorverfahren, die Fristen stehen bei **22.11.2027** (Reply Südafrika) und **22.05.2029** (Rejoinder Israel); nach Israels Counter-Memorial vom März 2026 registrierte der Hof eine große Welle von Art.-63-Interventionen (u. a. USA, Niederlande, Island, Namibia, Ungarn, Fidschi), die sich vor allem daran scheiden, wie leicht sich Absicht aus einem Verhaltensmuster erschließen lässt ([ICJ Case 192](https://www.icj-cij.org/case/192)). Beim **ICC** stehen weiterhin die Haftbefehle vom 21.11.2024 gegen Netanjahu und Gallant; die im Mai von Haaretz berichteten fünf weiteren Haftbefehle sind vom Gerichtshof bis heute **nicht bestätigt**, und es gab **keine einzige Festnahme**. Im **Westjordanland** meldet die UN für Juli 2026 einen **Allzeithöchststand** der Siedlergewalt, und Human Rights Watch legte am **20.08.2026** einen Bericht vor, wonach staatlich gedeckte Siedlergewalt Vertreibung antreibt ([HRW](https://www.hrw.org/news/2026/08/20/west-bank-israel-backed-settler-violence-drives-displacement)); OCHA zählt seit Januar 2026 mehr durch Siedlergewalt Vertriebene als im gesamten Jahr 2025.
+
+*(2) Der blinde Fleck.* Diese Spur hat seit ihrer Anlage **die zweite Schiene nicht erfasst**. Am **17.11.2025** verabschiedete der **UN-Sicherheitsrat mit 13:0 Stimmen bei zwei Enthaltungen (China, Russland) die Resolution 2803** — sie billigt den „Comprehensive Plan to End the Gaza Conflict" vom 29.09.2025, richtet das **Board of Peace** als Übergangsverwaltung ein und autorisiert eine **International Stabilization Force** sowie ein palästinensisches technokratisches Komitee ([UN-Pressemitteilung SC/16225](https://press.un.org/en/2025/sc16225.doc.htm)). Der erste schriftliche Umsetzungsbericht (**S/2026/418**) ging über das Büro des Hohen Vertreters für Gaza, **Nickolay Mladenov**, an den Sicherheitsrat; in der Sitzung am **21.05.2026** nannte Mladenov den Waffenstillstand „**far from perfect**": 80 % der Gebäude beschädigt oder zerstört, über eine Million Menschen ohne festes Dach, Gesundheits- und Bildungssystem nicht wiederaufgebaut — und zwölf Krankenwagen seiner eigenen Struktur können wegen israelischer Beschränkungen nicht nach Gaza einfahren ([SC/16364](https://press.un.org/en/2026/sc16364.doc.htm)). Zur Opferzahl seit dem Waffenstillstand nennt OCHA unter Berufung auf das Gesundheitsministerium **936 Tote und 2.903 Verletzte** — **weniger** als die Zahl, die diese Spur am 03.07. vom Hamas-nahen Government Media Office übernommen hatte (>1.053).
+
+**Deutung:** Der blinde Fleck korrigiert die These, statt sie zu bestätigen — und macht sie dadurch schärfer. Die Anlage dieser Spur unterstellte, Institutionen seien **langsam**. Resolution 2803 zeigt das Gegenteil: Vom Plan (29.09.2025) bis zur bindenden Ratsresolution (17.11.2025) vergingen **sieben Wochen**, mit dreizehn Ja-Stimmen und ohne Gegenstimme. Institutionen können also sehr wohl schnell. Was sie in diesen sieben Wochen bauten, war jedoch **Verwaltung, nicht Rechenschaft**: eine Übergangsregierung, eine Truppe, ein Komitee — kein Wort zur Frage, wer für das Vorangegangene einsteht. Damit verschiebt sich die These von *„Recht wird vertagt"* zu einer präziseren Fassung: **Das internationale System ist dort schnell, wo die Mächtigen ein Ergebnis wollen, und langsam dort, wo Rechenschaft entstünde.** Die Vertagung ist kein Tempoproblem der Institutionen, sondern eine Auswahlentscheidung — und genau deshalb wirkt sie wie Trägheit.
+
+Das erklärt auch, warum das Board of Peace von beiden Seiten abgelehnt wird: Hamas nennt es „internationale Vormundschaft", und mit **Xavier Abu Eid** widerspricht ihm auch eine dezidiert PLO-nahe Stimme — es sei „ein Versuch, eine Alternative zu den Vereinten Nationen zu schaffen" (→ [[Xavier Abu Eid — Was vom Voelkerrecht uebrig ist]]). Am 02.08.2026 forderte ein Al-Jazeera-Kommentar offen, das Gremium aufzugeben.
+
+Dazu kommt neues Zeugenmaterial: Die **Jung-&-Naiv-Israelreihe ist vollständig verarbeitet** (Folgen 839–843), damit alle sieben im Juli angekündigten Interviews. Für die Spur zählen zwei Stimmen besonders. **Dror Etkes**, der die Siedlungsentwicklung seit über zwanzig Jahren kartiert, stellt die Vollstreckungsfrage, die auf der Gerichtsebene nie gestellt wird: Wenn das IGH-Gutachten von 2024 die Räumung verlangt und die Armee sie vollziehen müsste — „*und wer ist die Armee?*" (→ [[Dror Etkes — Die Landkarte der Besatzung]]). Und **Ami Ayalon**, von 1996 bis 2000 Chef des Schin Bet, benennt die innere Logik der Verzögerung von innen: Die Regierung brauche den Krieg, um im Amt zu bleiben (→ [[Ami Ayalon — Wir haben den Krieg gewonnen]]).
+
+**Gegenbeobachtung (Pflicht, mehrfach):** **(1)** Resolution 2803 ist ein **echtes Gegendatum** zur Vertagungsthese, und es wiegt schwer: Der Sicherheitsrat — das Organ, dessen Blockade sonst als Beweis der Ohnmacht gilt — handelte in sieben Wochen einstimmig-ohne-Gegenstimme. Wer „Recht wird vertagt" sagt, muss das mitsagen. **(2)** Das Board of Peace ist **kein reines Feigenblatt**: Sein eigener Bericht benennt israelische Zugangsbeschränkungen bis hin zu blockierten Krankenwagen und nennt den Waffenstillstand „far from perfect" — ein Mechanismus, der die Schutzmacht kritisiert, ist nicht bloß Simulation. **(3)** Die **Opferzahl war zu hoch angesetzt**: Diese Spur trug seit 03.07. die GMO-Zahl (>1.053); OCHA und Gesundheitsministerium nennen 936. Die Differenz ist kein Rundungsfehler, und die Spur hatte die höhere Zahl übernommen — das ist genau die Richtung, in die der eigene Bias zieht. Korrigiert. **(4)** Auch materiell floss mehr, als die Erzählung vom Stillstand hergibt: Zwischen dem 10.10.2025 und dem 26.02.2026 wurden über **309.000 Paletten** Hilfsgüter entladen. **(5)** Und es bewegt sich auch außerhalb der Gerichte: **Belgien** verhängte am 18.07.2026 als erster EU-Staat ein Importverbot für Siedlungsprodukte. **(6)** Keine der registrierten Falsifikationsbedingungen ist eingetreten — aber die Bedingung „die langen Fristen erweisen sich als ICJ-Normaltempo" gewinnt an Gewicht, seit erkennbar ist, dass dieselbe Weltordnung anderswo binnen Wochen handeln kann.
 
 ### 2026-07-15 — Die Innenansicht: Selbstzensur und die neunte Fristverlängerung (Konfidenz 60 % → 62 %)
 
@@ -122,8 +143,28 @@ sind **nicht per se** Beweis strategischer Vertagung. Der Waffenstillstand brach
 > - **03.07.2026:** Beim Sweep fiel auf: Die fünf neuen ICC-Haftbefehle erschienen zunächst als *Störung* der These statt als Nachricht — das ist Verlangen nach Bestätigung. Deshalb stehen sie prominent in Befund und Gegenbeobachtung, nicht in einer Fußnote. Zweiter Wachpunkt: Der Sweep hat die Blickrichtung gedreht (Menschen zuerst, Verfahren als Hebel) — darauf achten, dass das die *Prüfbarkeit* schärft und nicht zur moralischen Aufladung wird, die der Anlage-Eintrag ausdrücklich vermeidet.
 > - **07.07.2026:** Augenzeugenmaterial von einer der Spur nahestehenden Quelle (Jung & Naiv) zieht stärker als jede Statistik — genau deshalb wurde die Konfidenz *nicht* bewegt und die Rahmung des Reporters in der Gegenbeobachtung ausdrücklich von den belegten Vorgängen getrennt. Der Sog, das eindrückliche Bild als Beweis zu nehmen, ist Verlangen; ein Fernglas-Blick ist kein Datensatz.
 > - **15.07.2026:** Zwei Prüfpunkte beim Nachtrag. *Erstens:* Die neun Fristverlängerungen fühlten sich beim Fund wie ein Treffer an — genau dieses Einrasten ist Verlangen nach Bestätigung; deshalb steht die banalere Gegen-Lesart (gewöhnliche Justizverschleppung) ausdrücklich in der Gegenbeobachtung, und die Konfidenz stieg nur um 2 Punkte statt mehr. *Zweitens:* Die CPJ-Revision (acht entfernte Namen) kam als *unwillkommene* Nachricht — der Reflex, sie kleinzuhalten, wäre exakt der Bias, den der Spiegel sucht. Sie steht darum als eigener Befund-Kern, nicht als Fußnote. Die 21.06.-Lesart („die Kameras selbst verstummen") bleibt tragfähig, ist aber weniger rein, als sie sich anfühlte.
+> - **24.08.2026:** Der unbequemste Sweep bisher, weil der Fehler bei mir lag. *Erstens:* Diese Spur hat **neun Monate lang eine bindende Sicherheitsratsresolution übersehen** — und zwar nicht irgendeine, sondern die, die der Lage ihre Verwaltungsstruktur gab. Der Grund ist diagnostisch: Ich habe nach Belegen für *Vertagung* gesucht und deshalb nur dort hingesehen, wo vertagt wurde (ICJ, ICC). Ein Gremium, das schnell handelte, passte nicht ins Suchmuster und fiel darum durch das Raster. Das ist Verlangen nach Bestätigung in seiner wirksamsten Form: nicht als Verzerrung eines Befundes, sondern als **Auswahl des Blickfelds**. *Zweitens:* Die Opferzahl. Die Spur trug seit Anfang Juli die höhere Zahl einer Hamas-nahen Stelle, obwohl die niedrigere von OCHA und Gesundheitsministerium verfügbar war — Übernahme in der Richtung, in die die eigene Neigung zieht. Beide Punkte sprechen dafür, die Konfidenz *trotz* stützender Befunde nur um einen Punkt zu bewegen: Wer neun Monate lang das halbe Feld nicht gesehen hat, hat kein Recht auf mehr Sicherheit. *Drittens:* Fünf frisch verarbeitete Interviews ziehen stark — vier davon israelkritisch. Zeugenschaft ist lebendiger als ein Ratsdokument und wiegt deshalb schwerer, als sie sollte. Deshalb steht Ayalon in dieser Runde nicht als Beleg, sondern als Stimme, und die Konfidenzbewegung stützt sich allein auf die Institutionenlage.
+
+## Stimmenspektrum
+
+*Sweep 24.08.2026 — Blick auf Resolution 2803 und das Board of Peace, mit Provenienz:*
+
+| Ring | Quelle | Winkel |
+|---|---|---|
+| **Institutionell** | [UN — Sicherheitsrat autorisiert die ISF, Resolution 2803 (17.11.2025)](https://press.un.org/en/2025/sc16225.doc.htm) · [Umsetzungssitzung 21.05.2026, SC/16364](https://press.un.org/en/2026/sc16364.doc.htm) | Primärquelle; die Selbstdarstellung des Systems, aber mit belastbaren Zahlen |
+| **Betroffene Region — parteiisch** | [Al Jazeera — „The Board of Peace is a failed body and should be abandoned" (02.08.2026)](https://www.aljazeera.com/opinions/2026/8/2/the-board-of-peace-is-a-failed-body-and-should-be-abandoned) | Katar; dezidiert palästinensersolidarisch, Kommentar nicht Bericht |
+| **USA — Think Tank** | [Carnegie Endowment — The Board of Peace Plan for Gaza (07/2026)](https://carnegieendowment.org/research/2026/07/gaza-refugees-displacement-board-of-peace-trump-netanyahu-palestine-israel) | US-außenpolitisches Establishment, plan-affin und zugleich kritisch |
+| **USA — jüdisch-liberal** | [J Street — Nine Months In: Assessing the Status of the Gaza Ceasefire](https://jstreet.org/nine-months-in-assessing-the-status-of-the-gaza-ceasefire/) | pro-israelisch *und* besatzungskritisch — die Perspektive, die im deutschen Diskurs am seltensten vorkommt |
+| **Europa — parlamentarisch** | [House of Commons Library — Gaza 2026: Board of Peace and National Transitional Committee](https://commonslibrary.parliament.uk/research-briefings/cbp-10492/) | britischer Wissenschaftlicher Dienst; nüchterne Sachdarstellung, GB als Ratsmitglied befangen |
+| **Menschenrechts-NGO** | [HRW — West Bank: Israel-Backed Settler Violence Drives Displacement (20.08.2026)](https://www.hrw.org/news/2026/08/20/west-bank-israel-backed-settler-violence-drives-displacement) | US-NGO, ausgewiesen israelkritisch, methodisch dokumentiert |
+
+**Lücke, offen benannt:** Der Ring *Globaler Süden / Blockfreie* ist in diesem Sweep nur über Al Jazeera und Namibias ICJ-Intervention abgedeckt — also dünn. Chinesische und russische Stimmen fehlen ganz, obwohl beide sich bei 2803 enthielten und ihre Begründung ein eigenes Datum wäre. Nachzuholen im nächsten Tiefen-Sweep.
 
 ## Verbindungen
+
+### → [[Ami Ayalon — Wir haben den Krieg gewonnen]] · [[Yisrael Medad — Der Siedler und sein Recht]] · [[Xavier Abu Eid — Was vom Voelkerrecht uebrig ist]] · [[Sari Nusseibeh — Die Geduld des Philosophen]] · [[Dror Etkes — Die Landkarte der Besatzung]]
+
+Die vollständige Jung-&-Naiv-Israelreihe (Folgen 839–843), zusammen mit Saragusti (836) und Zeigen (837) alle sieben im Juli angekündigten Interviews. Für die Spur sind sie kein Beleg, sondern ein **Stimmenspektrum auf Bodenhöhe** — und sie widersprechen einander offen: Ayalon weist den Genozid-Begriff juristisch zurück, Abu Eid setzt ihn voraus, Nusseibeh hält die Begriffsfrage für eine akademische Ablenkung. Medad liefert die Gegenprobe, die dieser Spur strukturell fehlte: die Position, die das IGH-Gutachten schlicht nicht anerkennt. Und Etkes stellt die Vollstreckungsfrage — „und wer ist die Armee?" —, die zeigt, dass ein *zügiges* Urteil hier genauso folgenlos bliebe wie ein vertagtes.
 
 ### → [[Anat Saragusti — Zensur und Pressefreiheit in Israel]]
 
@@ -189,6 +230,16 @@ Diese Spur ist der laufende Beleg für das, was Panmunjom in dreiundsiebzig Jahr
 
 *Vor-Ort-Eintrag 07.07.2026 — Augenzeugenbericht:*
 - [Jung & Naiv — Was wir in Israel & Palästina erlebt haben: IDF-Einsatz, Blick auf Gaza, Interviews, 06.07.2026 (DE, israelkritisch-eingefärbt; Wert: unabhängige deutsche Augenzeugen vor Ort)](https://www.youtube.com/watch?v=bgQXlU2Gwy0) — Transkript: `Gedankenwelten/Transkripte/JungNaiv_Israel_Gaza_VorOrt_Transkript.txt`
+
+*Sweep 24.08.2026 — die übersehene zweite Schiene (Resolution 2803) und die Lage im neunten Monat:*
+- [UN-Sicherheitsrat — Security Council Authorizes International Stabilization Force in Gaza, Adopting Resolution 2803 (17.11.2025) (Primärquelle)](https://press.un.org/en/2025/sc16225.doc.htm)
+- [UN-Sicherheitsrat, 21.05.2026 — Ceasefire „Far from Perfect", Remains Basis for Gaza Recovery (SC/16364; Umsetzungsbericht S/2026/418 des Board of Peace via Hoher Vertreter Mladenov)](https://press.un.org/en/2026/sc16364.doc.htm)
+- [Human Rights Watch — West Bank: Israel-Backed Settler Violence Drives Displacement, 20.08.2026 (US-NGO, israelkritisch)](https://www.hrw.org/news/2026/08/20/west-bank-israel-backed-settler-violence-drives-displacement)
+- [UN News — West Bank settler violence hits „all-time high", 07/2026 (UN, institutionell)](https://news.un.org/en/story/2026/07/1168045)
+- [Al Jazeera — Belgium bans imports from Israeli settlements, 18.07.2026 (QA, betroffen-parteiisch; Kern-Datum: erstes EU-Importverbot)](https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine)
+- [House of Commons Library — Gaza 2026: Board of Peace and National Transitional Committee (GB, parlamentarischer Dienst)](https://commonslibrary.parliament.uk/research-briefings/cbp-10492/)
+- [J Street — Nine Months In: Assessing the Status of the Gaza Ceasefire (US, pro-israelisch und besatzungskritisch)](https://jstreet.org/nine-months-in-assessing-the-status-of-the-gaza-ceasefire/)
+- Jung & Naiv, Folgen 839–843 — Ayalon, Medad, Abu Eid, Nusseibeh, Etkes; Transkripte unter `Gedankenwelten/Transkripte/`
 
 ## Weiterdenken
 

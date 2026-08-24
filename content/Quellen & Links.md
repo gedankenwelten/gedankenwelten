@@ -394,6 +394,56 @@ tags:
 | **Schlüsselquelle** | [Callahan & Mankin — Persistent effect of El Niño on global economic growth (Science 2023)](https://doi.org/10.1126/science.adf2983) |
 | **Transkript** | `Gedankenwelten/Transkripte/Beautemps_ElNino2026_Transkript.txt` |
 
+## Ami Ayalon — Wir haben den Krieg gewonnen (Jung & Naiv 839, 2026)
+
+| | |
+|---|---|
+| **Video** | [Former Head of Shin Bet: Ami Ayalon on Israel vs Palestine](https://www.youtube.com/watch?v=ey-7MrNsWCs) |
+| **Notiz** | [[Ami Ayalon — Wir haben den Krieg gewonnen]] |
+| **DenkerVita** | [[DenkerVita/Ami Ayalon]] |
+| **Schlüsselquelle** | [Arabische Friedensinitiative 2002 — Podeh, Middle East Journal 68(4)](https://mej.mei.edu/content/68/4/584) |
+| **Transkript** | `Gedankenwelten/Transkripte/Ayalon_ShinBet_JungNaiv839_Transkript.txt` |
+
+## Yisrael Medad — Der Siedler und sein Recht (Jung & Naiv 840, 2026)
+
+| | |
+|---|---|
+| **Video** | [Jewish settler in the occupied Westbank, Yisrael Medad](https://www.youtube.com/watch?v=_DByEPp7dLc) |
+| **Notiz** | [[Yisrael Medad — Der Siedler und sein Recht]] |
+| **DenkerVita** | [[DenkerVita/Yisrael Medad]] |
+| **Schlüsselquelle** | [IPC — Hungersnot im Gouvernement Gaza bestätigt, 22.08.2025](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-134/en/) |
+| **Transkript** | `Gedankenwelten/Transkripte/Medad_Siedler_JungNaiv840_Transkript.txt` |
+
+## Xavier Abu Eid — Was vom Völkerrecht übrig ist (Jung & Naiv 841, 2026)
+
+| | |
+|---|---|
+| **Video** | [Palestinian political scientist Xavier Abu Eid](https://www.youtube.com/watch?v=s0-vD5LH1T8) |
+| **Notiz** | [[Xavier Abu Eid — Was vom Voelkerrecht uebrig ist]] |
+| **DenkerVita** | [[DenkerVita/Xavier Abu Eid]] |
+| **Schlüsselquelle** | [Global Echo — Importing Occupation (EU-Agrarimporte aus Siedlungen, 06/2026)](https://www.globalecho.law/wp-content/uploads/2026/06/Global-Echo_Importing-Occupation_Executive-Summary_ENG.pdf) |
+| **Transkript** | `Gedankenwelten/Transkripte/AbuEid_Palaestina_JungNaiv841_Transkript.txt` |
+
+## Sari Nusseibeh — Die Geduld des Philosophen (Jung & Naiv 842, 2026)
+
+| | |
+|---|---|
+| **Video** | [Philosopher Sari Nusseibeh on peace between Israelis & Palestinians](https://www.youtube.com/watch?v=NGqAmkHeg_0) |
+| **Notiz** | [[Sari Nusseibeh — Die Geduld des Philosophen]] |
+| **DenkerVita** | [[DenkerVita/Sari Nusseibeh]] |
+| **Schlüsselquelle** | [B'Tselem — Fatalities in the first Intifada](https://www.btselem.org/statistics/first_intifada_tables) |
+| **Transkript** | `Gedankenwelten/Transkripte/Nusseibeh_Frieden_JungNaiv842_Transkript.txt` |
+
+## Dror Etkes — Die Landkarte der Besatzung (Jung & Naiv 843, 2026)
+
+| | |
+|---|---|
+| **Video** | [Siedlungsbau-Experte Dror Etkes über die israelische Gesellschaft](https://www.youtube.com/watch?v=TEUL6L0N24Y) |
+| **Notiz** | [[Dror Etkes — Die Landkarte der Besatzung]] |
+| **DenkerVita** | [[DenkerVita/Dror Etkes]] |
+| **Schlüsselquelle** | [Times of Israel — Bildungsministerium untersagt Karten mit der Grünen Linie](https://www.timesofisrael.com/tel-aviv-marks-green-line-on-classroom-maps-bucking-education-ministry/) |
+| **Transkript** | `Gedankenwelten/Transkripte/Etkes_Siedlungen_JungNaiv843_Transkript.txt` |
+| **Transkript (dt. Original)** | `Gedankenwelten/Transkripte/Etkes_Siedlungen_JungNaiv843_DE_Transkript.txt` |
 ## Anat Saragusti — Zensur & Pressefreiheit in Israel (Jung & Naiv 836, 2026)
 
 | | |

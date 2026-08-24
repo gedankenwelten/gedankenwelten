@@ -257,6 +257,14 @@ Die Gegenprobe zur Verkaufslogik des Genozids: zwei Hinterbliebene, die dieselbe
 
 Dieselbe Maschine von der anderen Seite gesehen. Hier wird gemessen, wie Desinteresse hergestellt wird — zwei Jahre Sonntags-Talkshows ohne eine einzige palästinensische Stimme. Dort sagt eine Überlebende, ihre größte Angst sei nicht der IS gewesen, sondern dass die Menschen kein Interesse zeigen. Sie hat sich eine Schulaula genommen, ohne auf ein Mikrofon zu warten.
 
+### → [[Ami Ayalon — Wir haben den Krieg gewonnen]]
+
+Ein ernsthafter Widerspruch, den auszuhalten sich lohnt: Johnson hält den Genozid für erwiesen und die Weigerung, ihn zu benennen, für die eigentliche Komplizenschaft. Ayalon — der die israelische Kriegführung Kriegsverbrechen nennt und sich für Gaza schämt — verweigert genau diese Benennung als juristisch unzulässig.
+
+### → [[Yisrael Medad — Der Siedler und sein Recht]]
+
+Die Endstufe dessen, was Johnson analysiert: Wo er beschreibt, wie das Leid in Gaza aus der Berichterstattung verschwand, sagt Medad schlicht, es existiere nicht — die vom IPC im August 2025 förmlich festgestellte Hungersnot inbegriffen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
