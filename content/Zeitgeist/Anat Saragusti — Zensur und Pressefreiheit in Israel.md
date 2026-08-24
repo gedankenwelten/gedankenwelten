@@ -215,7 +215,20 @@ Saragusti benennt selbst das Muster: Netanjahus „ihr lügt die ganze Zeit" sei
 
 Beide legen dieselbe leise Mechanik frei: nicht das Verbot, sondern die Schere im Kopf. Was ÖRR-Mitarbeitende anonym als wachsende Angst vor dem Hass schildern, formuliert Saragusti zugespitzt — „Selbstzensur ist eine Art, sich zu schützen". Selbstzensur als rationaler Selbstschutz, kollektiv verheerend.
 
+
+### → [[Ami Ayalon — Wir haben den Krieg gewonnen]]
+
+Dieselbe Reise, zwei Wochen später: Der frühere Schin-Bet-Chef beschreibt den Austausch der Torwächter im Sicherheitsapparat, wie Saragusti den in den Redaktionen. Beide sind Zeugen aus dem Inneren einer Institution, die sie verteidigen wollen — und beide sagen, der Mechanismus sei nicht Verbot, sondern Aushöhlung.
+
+### → [[Dror Etkes — Die Landkarte der Besatzung]]
+
+Die Ergänzung eine Ebene tiefer: Wo Saragusti beschreibt, wie Redaktionen aufhören zu zeigen, beschreibt Etkes, wie das Bildungssystem nie gezeigt hat — zwei Generationen mit Schulkarten ohne Grüne Linie. Eine Information fällt weg, die andere hat nie existiert.
+
 ---
+
+### → [[Panorama/Sieben Zeugen, kein Konsens|Sieben Zeugen, kein Konsens]]
+
+Das Panorama liest alle sieben Gespräche dieser Reise nebeneinander — und zeigt, was keine Einzelnote zeigen kann: Beim Wort *Genozid* gehen alle drei denkbaren Wege auseinander, beim Druck von außen steht einer gegen alle, und trotzdem beschreiben alle sieben dasselbe Nicht-Sehen.
 
 ## Weiterdenken
 

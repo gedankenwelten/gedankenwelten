@@ -13,6 +13,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ---
 
+## Ami Ayalon
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ami Ayalon]]
+
+## Dror Etkes
+**Status:** ✓ Vollanalyse → [[DenkerVita/Dror Etkes]]
+
 ## Jihan Alomar
 **Status:** ✓ Vollanalyse — [[DenkerVita/Jihan Alomar]]
 
@@ -51,6 +57,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Elmar Thevessen]]
 
 ---
+
+## Sari Nusseibeh
+**Status:** ✓ Vollanalyse → [[DenkerVita/Sari Nusseibeh]]
 
 ## Tobias Rüther
 **Status:** ✓ Vollanalyse → [[DenkerVita/Tobias Rüther]]
@@ -404,6 +413,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Hannah Arendt
 **Status:** ✓ Vollanalyse → [[DenkerVita/Hannah Arendt]]
+
+## Xavier Abu Eid
+**Status:** ✓ Vollanalyse → [[DenkerVita/Xavier Abu Eid]]
+
+## Yisrael Medad
+**Status:** ✓ Vollanalyse → [[DenkerVita/Yisrael Medad]]
 
 ## Yuval Noah Harari
 **Status:** ✓ Vollanalyse → [[DenkerVita/Yuval Noah Harari]]

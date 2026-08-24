@@ -211,6 +211,14 @@ Doppelte Brücke: Mandelas Versöhnung, die weiter reichte als das Recht (Ubuntu
 
 Der lebende Gegenbeweis zu Tekkals gefährlichstem Befund, dass Opfer herrschen wollen. Hier verweigern zwei Hinterbliebene genau den Anspruch, den ihr Verlust ihnen zusprechen würde. Bemerkenswert: Tekkal gehört mit HÁWAR.help auf ihre Seite — die Organisation entstand aus einer jesidischen Katastrophe und wurde bewusst keine jesidische Organisation. Ihre These und ihre eigene Praxis widersprechen sich.
 
+### → [[Sari Nusseibeh — Die Geduld des Philosophen]]
+
+Dieselbe Wette auf die Begegnung, anderes Tempo: Nusseibeh begründet Gewaltfreiheit aus dem Schahrazad-Märchen und denkt in Jahrhunderten, wo Inon und Abu Sarah eine Bewegung mit Zieldatum 2030 bauen. Die langsamste Fassung derselben Überzeugung.
+
+### → [[Ami Ayalon — Wir haben den Krieg gewonnen]]
+
+Ayalons zweite Schin-Bet-Lektion — Sicherheit für Israelis nur, wenn Palästinenser Hoffnung haben — ist hier keine Doktrin, sondern Praxis. Der Geheimdienstchef denkt die Abschreckungslogik zu Ende und landet bei der Hoffnung; die beiden fangen dort an.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

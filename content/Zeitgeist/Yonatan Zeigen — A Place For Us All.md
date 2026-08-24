@@ -207,6 +207,18 @@ Die lebende Spur liefert den völkerrechtlichen Hintergrund, gegen den Zeigens P
 
 Dieselbe Wendung von Verlust in öffentliche Arbeit statt in Rache — mit einem entscheidenden Unterschied im Ausgangspunkt. Zeigen hörte am Telefon, wie seine Mutter starb: Gewissheit, aus der eine Kandidatur wurde. Jihan Alomars Vater ist seit dem 3. August 2014 vermisst. Ihre Arbeit hat darum ein Ziel, das dieser Weg nicht kennt — die Suche nach den Verschollenen.
 
+### → [[Ami Ayalon — Wir haben den Krieg gewonnen]]
+
+Die Wahl vom 27. Oktober, nüchtern gegengerechnet: Ayalon hält Netanjahus Wiederwahl für unwahrscheinlich — aber auch jede Alternative, weil sich alle weigern, die arabischen Parteien einzubeziehen. Genau die Koalitionsarithmetik, gegen die Zeigens Partei antritt.
+
+### → [[Yisrael Medad — Der Siedler und sein Recht]]
+
+Medad behauptet drei Folgen später, es gebe auf palästinensischer Seite keine einzige Friedensorganisation. Zeigen sitzt im Vorstand des Parents Circle — der israelisch-palästinensischen Organisation Hinterbliebener. Die Reihe widerlegt sich in sich selbst.
+
+### → [[Panorama/Sieben Zeugen, kein Konsens|Sieben Zeugen, kein Konsens]]
+
+Das Panorama liest alle sieben Gespräche dieser Reise nebeneinander — und zeigt, was keine Einzelnote zeigen kann: Beim Wort *Genozid* gehen alle drei denkbaren Wege auseinander, beim Druck von außen steht einer gegen alle, und trotzdem beschreiben alle sieben dasselbe Nicht-Sehen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
