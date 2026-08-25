@@ -243,6 +243,10 @@ Mishras Ausgangspunkt — die gespaltene Familie, „democracy has produced a mo
 
 Dieselbe Einheit der Phänomene, andere Wurzel. Tekkal führt Islamismus und Rechtsradikalismus auf Demokratiefeindschaft zurück, Mishra auf das Ressentiment der Moderne. Damit stützt er ihren stärksten Satz — Deutschland habe den Terror exportiert, nicht importiert — und untergräbt ihren bekanntesten: Wenn beides dieselbe moderne Kränkung ist, dann handelt es sich nicht um Zwillinge: es ist dasselbe Kind.
 
+### → [[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Voß & Rudolph — Die Geister hinter MAGA]]
+
+Girard, gelesen von den Gewinnern. Peter Thiel bezeichnet sich als Girard-Schüler und leitet aus der mimetischen Rivalität eine apokalyptische Notwendigkeit ab — und daraus die Berechtigung von Palantir. Mishra leitet aus derselben Mechanik das Ressentiment der Ausgeschlossenen ab. Dass beide bei Girard landen und in entgegengesetzte Richtungen gehen, ist der schärfste Test für die Reichweite dieser Theorie.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

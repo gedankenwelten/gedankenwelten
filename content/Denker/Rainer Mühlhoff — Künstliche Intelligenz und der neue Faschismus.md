@@ -434,3 +434,7 @@ Misselhorn liefert die ethische Fassung von Mühlhoffs Machtanalyse: Ihr dritter
 
 Methodisch verbündet, politisch getrennt. Der Robotiker Ronnie Vuine praktiziert die Regel, dass KI nicht im Singular existiert, indem er über dieses Gelenk in dieser Nachtschicht spricht statt über Robotik. Und er sieht die Machtfrage — wer „wir" definiert, herrscht darüber —, legt sie aber als individuelle Skepsis beiseite und geht zur Erziehung einer künftigen Intelligenz über. Seine KI-Kindergärten setzen voraus, dass jemand Unbefangenes das Curriculum schreibt; hier stehen die Eigentumsverhältnisse des Kindergartens.
 
+### → [[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Voß & Rudolph — Die Geister hinter MAGA]]
+
+Carlotta Voß empfiehlt Mühlhoffs Buch am Ende des Abends — und die Texte, die sie vorher gelesen haben, sind die Belegstellen dazu. Andreessens *Techno-Optimist Manifesto* liefert das Zwiebelschalen-Modell in Reinform, samt frustrierter Männlichkeit („we are not victims, we are conquerors"). Gegenläufig steht Asma Mhallas These im Raum, all das sei „Infraideologie" — Ablenkung vom eigentlichen Staatsumbau. Wer Mühlhoffs Desouveränisierung ernst nimmt, muss entscheiden, ob die Ideologie den Umbau trägt oder von ihm ablenkt.
+

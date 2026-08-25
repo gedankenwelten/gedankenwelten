@@ -6,6 +6,19 @@ tags:
   - links
 ---
 
+## Carlotta Voß & Moritz Rudolph — Die Geister hinter MAGA
+
+| | |
+|---|---|
+| **Gespräch / Video** | [Die Geister hinter MAGA: Ideengeschichtliche Linien neoreaktionären Denkens](https://www.youtube.com/watch?v=DLKg11OBkWA) — Deutsches Hygiene-Museum Dresden, 19.08.2026, 109 Min., Reihe „Männlichkeit.Macht.USA" mit der bpb |
+| **Primärtexte im Gespräch** | [Peter Thiel — *The Straussian Moment*](https://www.academia.edu/8891915/The_Straussian_Moment_by_Peter_Thiel) (2004/2007) · [Curtis Yarvin — *Patchwork*](https://www.unqualified-reservations.org/2008/11/patchwork-positive-vision-part-1/) (2008) · [Marc Andreessen — *The Techno-Optimist Manifesto*](https://a16z.com/the-techno-optimist-manifesto/) (2023) · Ayn Rand, Apollo-Text (1973) |
+| **Sekundärtexte im Gespräch** | Asma Mhalla über den zweiköpfigen Leviathan · Volker Weiß — *Katechon. Zur Wiederkehr der politischen Theologie in der Gegenwart* |
+| **Bücherschau am Schluss** | Laura K. Field — *Furious Minds* · Adrian Daub über das Silicon Valley · Quinn Slobodian u.a. über Elon Musk · Rainer Mühlhoff — *Künstliche Intelligenz und der neue Faschismus* |
+| **Notiz** | [[Zeitgeist/Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA]] |
+| **Vitas** | [[DenkerVita/Carlotta Voss]] · [[DenkerVita/Moritz Rudolph]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Voss_Rudolph_MAGA_Geister_Transkript.txt` |
+| **Reihe** | [Deutsches Hygiene-Museum Dresden — „Männlichkeit.Macht.USA"](https://www.dhmd.de/) |
+
 ## Ronnie Vuine — Warum Roboter keine Beine brauchen
 
 | | |
