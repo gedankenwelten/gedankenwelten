@@ -423,6 +423,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Matthieu Ricard|Matthieu Ricard]]** — Molekularbiologe (Institut Pasteur, promoviert bei Nobelpreisträger François Jacob) und buddhistischer Mönch im Kloster Shechen bei Kathmandu; Dolmetscher des Dalai Lama, Gründer des Hilfswerks Karuna-Shechen; Altruismus und Glück als trainierbare Fähigkeiten
 
+**[[DenkerVita/Moritz Rudolph|Moritz Rudolph]]** — Philosoph, Politikwissenschaftler und Redakteur des *Philosophie Magazins* (Leipzig, geb. 1989); Linkshegelianer aus der Kritischen Theorie — der Weltgeist schwimmt wie ein Lachs stromaufwärts zurück nach China und erscheint als künstliche Intelligenz; *Der Weltgeist als Lachs* (2021), *Einheit und Zerfall* (2025)
+
 **[[DenkerVita/Hartmut Rosa|Hartmut Rosa]]** — Soziologe und Sozialphilosoph (Jena, Max-Weber-Kolleg Erfurt); fragt nicht, wie Gesellschaft gerechter, sondern wie Leben lebendig wird — soziale Beschleunigung, Resonanz, Unverfügbarkeit; *Beschleunigung* (2005), *Resonanz* (2016), *Unverfügbarkeit* (2018)
 
 ## S
@@ -491,6 +493,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Ökonom, Politiker, ehem. griechischer Finanzminister; Technofeudalism — Kapitalismus ist tot, Cloud Capital ersetzt Märkte, Big Tech verwandelt Profit in feudale Rente
 
 **[[DenkerVita/Vandana Shiva|Vandana Shiva]]** — Physikerin, Ökofeministin & Umweltaktivistin (Navdanya, Alt-Nobelpreis 1993); Earth Democracy, production boundary, Biopiraterie, Saatgut als Gemeingut — das Lebendige gegen das mechanistische „kapitalistische Patriarchat"; zugleich wissenschaftlich umstritten (Bt-Baumwolle/Suizide)
+
+**[[DenkerVita/Carlotta Voss|Carlotta Voß]]** — Politikwissenschaftlerin & Ideenhistorikerin (FIPH Hannover), Publizistin; erforscht den Postliberalismus als eigenständige Ideologie — J. D. Vance, politische Theologie und die Katechontik hinter MAGA, und setzt eine „personale Demokratie" (Plessner, Ricœur, Cornel West) dagegen
 
 ## W
 

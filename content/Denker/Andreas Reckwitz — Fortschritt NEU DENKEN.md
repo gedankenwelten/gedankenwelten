@@ -342,6 +342,10 @@ Die Schwesterfolge, gegen die Reckwitz argumentiert. Dort wird der Maßstab reka
 
 ---
 
+### → [[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Voß & Rudolph — Die Geister hinter MAGA]]
+
+Ein Anschauungsfall für Reckwitz' Doppelbefund. Sechs Texte der US-Rechten, von Ayn Rand 1973 bis Marc Andreessen 2023, teilen dieselbe Konstante: der Griff nach den Sternen und zugleich die Sehnsucht nach einer Vergangenheit, in der Größe noch galt. Das ist Fortschrittsglaube plus unbetrauerter Verlust in Personalunion — und am Ende steht mit dem Katechon eine Figur, die vom Reich Gottes nur noch das Aufhalten übrig behält.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

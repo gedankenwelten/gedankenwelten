@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **25.08.** — [[Zeitgeist/Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Die Geister hinter MAGA — Ideengeschichtliche Linien neoreaktionären Denkens]]
+>
+> Sechs Texte, ein Abend, eine Frage: Woher kommen die Ideen, die im Weißen Haus regieren — und was tut man, wenn das Lesen selbst zur Ablenkung wird?
+
 > **24.08.** — [[Zeitgeist/Ami Ayalon — Wir haben den Krieg gewonnen|Ami Ayalon — Wir haben den Krieg gewonnen]]
 >
 > Israels früherer Geheimdienstchef sagt zwei Sätze, die einander tragen: Wir haben den Krieg längst gewonnen und weigern uns, es zu sehen — und wäre ich Palästinenser, ich würde kämpfen.
@@ -39,10 +43,6 @@ Die Gedankenwelten (luc)
 > **24.08.** — [[Zeitgeist/Yisrael Medad — Der Siedler und sein Recht|Yisrael Medad — Der Siedler und sein Recht]]
 >
 > Ein Siedler seit 45 Jahren erklärt ruhig, warum das Völkerrecht irrt, warum es keinen palästinensischen Staat geben wird — und sagt auf die härteste Frage des Gesprächs schlicht: klar.
-
-> **24.08.** — [[Zeitgeist/Sari Nusseibeh — Die Geduld des Philosophen|Sari Nusseibeh — Die Geduld des Philosophen]]
->
-> Warum nahm Schahrazad kein Messer mit ins Schlafgemach? Ein palästinensischer Philosoph beantwortet aus einem Märchen die Frage, warum Gewalt niemals der Ausweg aus Gewalt ist.
 
 > → *3 weitere in* [[Zeitgeist]]
 

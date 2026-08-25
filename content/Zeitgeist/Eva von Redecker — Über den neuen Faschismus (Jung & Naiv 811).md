@@ -364,3 +364,8 @@ Beide analysieren denselben neuen Faschismus: Redecker philosophisch über Eigen
 ### → [[Ingrid Brodnig — Gegenstrategien zum Frauenhass]]
 
 Konkretisiert Redeckers „Zugriff auf Frauenkörper als Machtdekor“ am digitalen Fall: Grok, Meta und die Trump-Allianz als heutige Form der Playboy-Verbrüderung.
+
+### → [[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Voß & Rudolph — Die Geister hinter MAGA]]
+
+Der Vordenker im Original gelesen: Carlotta Voß nimmt Yarvins *Patchwork* auseinander und kommt auf einem anderen Weg zu demselben Befund. Mit Robert Spaemann zeigt sie, dass die Restauration nihilistisch wird, sobald sie ihre Tradition begründen muss — der Monarch ohne Gott behält die absolute Gewalt und verliert die Fürsorgepflicht. Übrig bleibt genau die Eigentumslogik, die Redecker als Phantombesitz beschreibt: Wer die Macht hat, soll sie haben, weil er sie hat.
+

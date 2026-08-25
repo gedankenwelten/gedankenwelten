@@ -228,6 +228,10 @@ Redecker liefert die Theorie zu Daubs Diagnose („jetzt zeigt er sich eben sehr
 
 ---
 
+### → [[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Voß & Rudolph — Die Geister hinter MAGA]]
+
+Die Primärtext-Probe aufs Exempel: Was die Doku als Wirkungsgeschichte erzählt, lesen zwei Ideenhistoriker im Original nach — Rands Apollo-Nachruf, Thiels *Straussian Moment*, Yarvins Patchwork-Post, Andreessens Manifest. Volker Weiß tritt dort nicht als Interviewpartner auf, sondern als Buch; sein Katechon-Essay wird zum Schlüssel dafür, warum eine christlich-moralische Anhängerschaft einen unmoralischen Präsidenten trägt: Der Aufhalter kommt ohne moralischen Index.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

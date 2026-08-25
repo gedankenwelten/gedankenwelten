@@ -944,3 +944,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Andreas Püttmann
 **Status:** ✓ Vollanalyse — [[DenkerVita/Andreas Puettmann]]
+
+## Moritz Rudolph
+**Status:** ✓ Vollanalyse — [[DenkerVita/Moritz Rudolph]]
+
+## Carlotta Voß
+**Status:** ✓ Vollanalyse — [[DenkerVita/Carlotta Voss]]

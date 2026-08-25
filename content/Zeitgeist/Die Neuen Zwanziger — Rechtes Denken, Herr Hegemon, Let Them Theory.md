@@ -228,3 +228,8 @@ Vorgänger-Salon: Ulrike Herrmanns „Geld als Waffe" — Russland, China, westl
 ### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 
 Kubitscheks "politischer Staat, in dem über bestimmte Dinge nicht mehr diskutiert wird" ist die ideologische Zielbeschreibung für das, was Marinić als "Meinungsfreiheit als Waffe der Autoritären" analysiert. Der Hegemon-Begriff erklärt das Paradox: Wer bestimmt, wer Rechtfertigungspflichten hat, kann "Freiheit" als Hebel nutzen, um unerwünschte Meinungen aus dem Diskurs zu drängen — unter dem Banner der Meinungsfreiheit selbst.
+
+### → [[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Voß & Rudolph — Die Geister hinter MAGA]]
+
+Dieselbe Übung an amerikanischem Material: zwei Ideenhistoriker lesen Rand, Thiel, Yarvin und Andreessen, statt sie zu verurteilen. Was hier Mohlers „faschistischer Stil" und Kubitscheks Agonalität ist, heißt dort Trolling und esoterisches Schreiben — Yarvin baut eine Gewaltfantasie aus und ruft danach „schlechter Traum, sorry". Und „notfalllibertär" findet in Andreessens Manifest sein Spiegelbild: ein Prinzip, das die eigene Ausnahme schon mitliefert.
+

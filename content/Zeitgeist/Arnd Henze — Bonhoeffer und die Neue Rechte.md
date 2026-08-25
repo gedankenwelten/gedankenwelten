@@ -312,6 +312,10 @@ Die katholische Spiegelung. Was Henze am Fall Bonhoeffer zeigt, typologisiert P�
 
 ---
 
+### → [[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Voß & Rudolph — Die Geister hinter MAGA]]
+
+Der Gegenfall zur Bonhoeffer-Vereinnahmung: Carlotta Voß holt Leo Strauss aus dem Giftschrank zurück, in den Peter Thiels Berufung ihn gestellt hat — Strauss habe den Historismus kritisiert, nicht die Demokratie. Und wie Henze richtet sie die unbequeme Frage gegen die eigene Seite: Wenn Ideologie vor allem Ablenkung vom Staatsumbau ist, war der Leseabend dann Aufklärung oder Mitwirkung?
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

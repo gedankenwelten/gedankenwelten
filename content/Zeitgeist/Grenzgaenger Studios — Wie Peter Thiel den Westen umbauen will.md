@@ -282,6 +282,9 @@ Der Staatsrechtler braucht Peter Thiel als Testfall für seine Grenzziehung: Ver
 
 Maja Göpel bringt Thiels Antichrist-Rede in Rom und *The Sovereign Individual* in ihr Gespräch mit Püttmann ein — hier steht die Genealogie dazu. Püttmanns These, jede Ideologie wolle sich der herrschenden Religion bemächtigen, bekommt damit ihren Silicon-Valley-Fall.
 
+### → [[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Voß & Rudolph — Die Geister hinter MAGA]]
+
+Die Gegenprobe zur biografischen Methode: Voß und Rudolph verweigern das Personenporträt und lesen stattdessen Thiels *The Straussian Moment* (2004) — geschrieben ein Jahr nach der Gründung von Palantir und, so Voß, genau als dessen Begründung. Dieselbe Symbiose von Staat und Tech-Monopol, die Chaudhry und Hübsch empirisch belegen, erscheint dort als politische Theologie: der Westen, der seine Werte nur durch eine Geheimelite sichern kann.
 
 ## Weiterdenken
 
