@@ -199,6 +199,12 @@ Der affektive Rahmen des Musters: Grausamkeit gegen Wehrlose nicht als Nebenwirk
 
 ---
 
+### → [[Koschi Politik — ICE setzt neue Rekorde]]
+
+Sechs Wochen später und eine Ebene höher: Während die Einzelfälle die Schlagzeilen hielten, wuchs der
+Routinevollzug auf Rekordwerte — 43.000 Festnahmen im Juni, 49.000 im Juli, unter vier Prozent davon
+mit einer Gewaltverurteilung. Der Fall Salgado war sichtbar; die Maschine dahinter war es nicht.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

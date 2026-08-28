@@ -147,3 +147,9 @@ Navidi erklärt, warum Bondis Entlassung kein gutes Zeichen ist: Sie wurde gefeu
 ### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
 
 Das Gegenstück zur Hoffnung dieser Note: Sechs Tage nach Salgado erschießt ICE in Maine den nächsten Falschen — die Frage, ob der demokratische Korrekturweg schneller ist als die Eskalation, wird dort konkret gestellt.
+
+### → [[Koschi Politik — ICE setzt neue Rekorde]]
+
+Das Yang zu diesem Yin, aus demselben Kanal. Dort die Belege dafür, dass die Korrekturwege noch
+funktionieren; hier die Zahlen, gegen die sie anlaufen müssen — Rekordfestnahmen, wachsende
+Haftkapazität und ein Vollzug, der gelernt hat, keine Schlagzeilen mehr zu produzieren.
