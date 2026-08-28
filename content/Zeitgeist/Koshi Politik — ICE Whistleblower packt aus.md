@@ -127,3 +127,10 @@ taz-Recherche vor Ort in Ellabell, Georgia: Die größte ICE-Razzia an einem Ein
 ### → [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
 
 Was der Whistleblower als Ausbildungspraxis beschreibt (Verfassung ignorieren lernen), wird hier tödliche Realität: der Falsche erschossen, keine Bodycam, und eine Behörden-Formel — „öffentliche Sicherheit" statt Notwehr —, die den Rechtfertigungsanspruch weiter senkt.
+
+### → [[Koschi Politik — ICE setzt neue Rekorde]]
+
+Was hier als Lehrplan enthüllt wurde, erscheint dort als Statistik. Wenn Kadetten beigebracht wird,
+der 4. Verfassungszusatz gelte für sie nicht, ist es keine Überraschung mehr, dass im Juli 2026 rund
+drei Viertel der Festgenommenen keinerlei Vorstrafe hatten und unter vier Prozent je wegen einer
+Gewalttat verurteilt waren. Die Ausbildung erklärt die Zahlen.

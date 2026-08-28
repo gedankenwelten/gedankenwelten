@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **28.08.** — [[Zeitgeist/Koschi Politik — ICE setzt neue Rekorde|ICE setzt neue Rekorde — der leise Vollzug und die vier Prozent]]
+>
+> Rekordfestnahmen bei gefallener Aufmerksamkeit — und unter vier Prozent der Festgenommenen haben je eine Gewalttat begangen. Der Vollzug hat gelernt, leise zu sein.
+
 > **25.08.** — [[Zeitgeist/Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Die Geister hinter MAGA — Ideengeschichtliche Linien neoreaktionären Denkens]]
 >
 > Sechs Texte, ein Abend, eine Frage: Woher kommen die Ideen, die im Weißen Haus regieren — und was tut man, wenn das Lesen selbst zur Ablenkung wird?
@@ -40,11 +44,17 @@ Die Gedankenwelten (luc)
 >
 > Er hat alle Instanzen durchlaufen — Den Haag, Sicherheitsrat, Generalversammlung — und fragt heute, was ihm das Recht gebracht hat. Aufgeben will er es trotzdem nicht.
 
-> **24.08.** — [[Zeitgeist/Yisrael Medad — Der Siedler und sein Recht|Yisrael Medad — Der Siedler und sein Recht]]
->
-> Ein Siedler seit 45 Jahren erklärt ruhig, warum das Völkerrecht irrt, warum es keinen palästinensischen Staat geben wird — und sagt auf die härteste Frage des Gesprächs schlicht: klar.
+> → *4 weitere in* [[Zeitgeist]]
 
-> → *3 weitere in* [[Zeitgeist]]
+### Spuren
+
+> **28.08.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+>
+> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
+
+> **24.08.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
 ### Panorama
 
@@ -59,12 +69,6 @@ Die Gedankenwelten (luc)
 > **25.07.** — [[Panorama/Fortschritt|Fortschritt]]
 >
 > Zweieinhalb Jahrhunderte lang war klar, dass es besser wird. Was passiert mit einer Gesellschaft, deren Institutionen auf ein Versprechen gebaut sind, das sie selbst nicht mehr glaubt?
-
-### Spuren
-
-> **24.08.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
->
-> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
 ### GoodNews
 

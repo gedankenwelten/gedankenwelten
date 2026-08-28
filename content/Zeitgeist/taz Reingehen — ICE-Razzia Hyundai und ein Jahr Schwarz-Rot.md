@@ -223,3 +223,9 @@ Vom Massenzugriff zum Einzelschicksal: Der Fall Guerrero (Biddeford, Maine) zeig
 
 Knaus beschreibt die Alternative der Rechtspopulisten als Zukunftsszenario — Asylrecht abschaffen, Soldaten an die Grenze, das Modell Trump. Christian Jakob dokumentiert es als laufenden Betrieb. Und seine These, rechte Fluchterzählungen wirkten auch gegen die Fakten, weil sie auf Angst zielen, ist zugleich der schärfste Einwand gegen Knaus' Hoffnung, eine seriös geführte Zahlendebatte könne die Lage drehen.
 
+### → [[Koschi Politik — ICE setzt neue Rekorde]]
+
+Was aus dem Apparat wurde, als die Bilder aufhörten. Die Hyundai-Razzia war die spektakuläre Form;
+seit dem Frühjahr 2026 verteilt sich dieselbe Menge Festnahmen auf Verkehrsstopps in fast allen
+Bundesstaaten — mit Rekordwerten und ohne Weltnachricht. Der DHS-Minister hatte genau das angekündigt:
+leiser und effektiver.

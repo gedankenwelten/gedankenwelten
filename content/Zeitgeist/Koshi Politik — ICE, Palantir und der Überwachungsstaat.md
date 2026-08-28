@@ -128,3 +128,9 @@ Kurz ergänzt die US-Perspektive um die deutsche Innenperspektive: Während Kosh
 ### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
 
 Palantir im Krieg statt in der Abschiebebehörde: Die re:publica-Debatte zeigt dieselbe monopolartige Infrastruktur in der militärischen Zielauswahl (Maven) — und Kuhles vergaberechtlichen Hebel dagegen.
+
+### → [[Koschi Politik — ICE setzt neue Rekorde]]
+
+Die Wirkung des hier beschriebenen Aufbaus, in Zahlen. Eine ehemalige hochrangige ICE-Beamtin
+resümiert der New York Times: mehr Beamte, mehr Geld, mehr Haftplätze, mehr lokale Partner — und
+*„bessere Systeme"*. Die Technik aus dieser Note ist der letzte Teil dieser Aufzählung.

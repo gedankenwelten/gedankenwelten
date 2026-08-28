@@ -218,6 +218,14 @@ Dieselbe Konferenz, dieselbe Lücke von der Erzeugerseite. Wo Kurz und Görlitz 
 
 ---
 
+### → [[Koschi Politik — ICE setzt neue Rekorde]]
+
+Die amerikanische Fortsetzung derselben Bewegung. Über das Programm 287(g) führt inzwischen die
+örtliche Polizei rund 14 Prozent aller ICE-Festnahmen selbst durch — in Wyoming und West Virginia
+über die Hälfte. Was in Deutschland als Frage nach Werkzeugen für die Länderpolizei verhandelt wird,
+ist dort bereits die Antwort: Der Bundesvollzug wächst nicht zentral, er wächst in den Streifendienst
+hinein — und wird dort unsichtbar.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

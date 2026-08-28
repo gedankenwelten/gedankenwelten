@@ -234,6 +234,14 @@ Die literarische Urszene, ein Jahrhundert vor dem Hirnscan: Musils Beineberg erk
 
 Beide Pole dieser These in einem Fall. Die Dehumanisierung wurde 2014 vollständig durchgeführt — Versklavung als erklärtes Programm, sexualisierte Gewalt als Mittel der Auslöschung. Die Rehumanisierung führen die Überlebenden selbst aus: Ein jesidischer Jugendlicher sagt in dem Vortrag, es gebe gute und schlechte Jesiden wie gute und schlechte Muslime, man müsse erst den Menschen kennenlernen. Das Hoffnungsprogramm wird von denen praktiziert, die dazu am wenigsten verpflichtet wären.
 
+### → [[Koschi Politik — ICE setzt neue Rekorde]]
+
+Ein Lehrstück im Konkreten. Sieben Monate nach dem Tod ihres Sohnes bittet die Familie des
+erschossenen US-Bürgers Alex Pretti nicht in erster Linie um Strafe, sondern um die Löschung von
+Regierungsposts, die ihn *assassin* und *domestic terrorist* nennen. Die Sprache hat die
+Mentalisierung abgeschaltet, bevor ein Verfahren beginnen konnte — genau die Operation, die Yu
+beschreibt, nur diesmal vom Staat selbst ausgeführt und öffentlich archiviert.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

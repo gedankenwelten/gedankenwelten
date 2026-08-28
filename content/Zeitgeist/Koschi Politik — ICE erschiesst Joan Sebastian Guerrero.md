@@ -181,6 +181,13 @@ Temelkurans Diagnose-Schablone für die Normalisierung: wie ein Staat tödliche 
 
 ---
 
+### → [[Koschi Politik — ICE setzt neue Rekorde]]
+
+Die Antwort auf die Frage, die diese Note offenließ. Hier hieß es, der eigentliche Test sei, ob die
+Sichtbarkeit des Falls *Konsequenzen* erzeugt. Die NYT-Auswertung vom August sagt: Die beiden
+tödlichen Schüsse in Texas und Maine haben das Tempo der Festnahmen nicht wesentlich verlangsamt —
+Juni und Juli wurden Rekordmonate.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

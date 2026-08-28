@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*292 Notes — automatisch generiert · nach Thema sortiert*
+*293 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -83,6 +83,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Daniel - Lena Kotré plant private Abschiebeindustrie|Daniel - Lena Kotré plant private Abschiebeindustrie]]
 - [[Zeitgeist/Daniel - Weidel beim Schwurblertreff AWEF|Daniel - Weidel beim Schwurblertreff AWEF]]
 - [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz|Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+- [[Zeitgeist/Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Die Geister hinter MAGA — Ideengeschichtliche Linien neoreaktionären Denkens]] — Sechs Texte, ein Abend, eine Frage: Woher kommen die Ideen, die im Weißen Haus regieren — und was tut man, wenn das Lesen selbst zur Ablenkung wird?
 - [[Zeitgeist/Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory|Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]]
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren 06.03.2026|Die Neuen Zwanziger — Salon Lektüren 06.03.2026]]
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Dezember 2025|Die Neuen Zwanziger — Salon Lektüren Dezember 2025]]
@@ -198,6 +199,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)|Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
 - [[Zeitgeist/Florian Homm - Ich war eine Leistungsmaschine|Florian Homm — Ich war eine Leistungsmaschine]]
 - [[Zeitgeist/Gerdes — Ukraine Zelensky wird staerker|Gerdes — Ukraine: Zelensky wird stärker]]
+- [[Zeitgeist/Koschi Politik — ICE setzt neue Rekorde|ICE setzt neue Rekorde — der leise Vollzug und die vier Prozent]] — Rekordfestnahmen bei gesunkener Aufmerksamkeit, unter vier Prozent Gewaltverurteilte, und ein Vollzug, der in den örtlichen Streifendienst abwandert. Dagegen: die Familie Pretti nach sieben Monaten.
 - [[Zeitgeist/Koschi Politik — ICE erschiesst Joan Sebastian Guerrero|ICE erschießt Joan Sebastián Guerrero — der zweite Tote in einer Woche]] — Arbeitserlaubnis, Social Security Number, die dreijährige Tochter auf der Rückbank — und wieder war es der Falsche. Diesmal begründet DHS den Schuss nicht mit Notwehr, sondern mit „öffentlicher Sicherheit“.
 - [[Zeitgeist/Koschi Politik — ICE erschiesst Lorenzo Salgado|ICE erschießt Lorenzo Salgado — ein Tod auf dem Weg zur Arbeit]] — 35 Jahre in Houston, drei Söhne durchs College, ein laufendes Visa-Verfahren — dann ein unmarkierter SUV, Schüsse, und ein Sohn, der den Vater in einem Facebook-Video sterben hört.
 - [[Zeitgeist/KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat|KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]] — Das FBI bestätigt Schulungsvideos zur Schwärzung von Trumps Namen — und lässt die Gerichtsfrist verstreichen. Zwei Journalistinnen zwingen die Vertuschung ans Licht, Paragraf für Paragraf.

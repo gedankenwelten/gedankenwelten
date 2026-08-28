@@ -9,10 +9,10 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 78%
+konfidenz: 84%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-07-19
+aktualisiert: 2026-08-28
 description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung."
 ---
 
@@ -39,11 +39,13 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 
 ## Die These
 
-> **Stand (Konfidenz 70 %):** Der ICE-Vollzug eskaliert *messbar* (Rekordhaft, Festnahmen ohne
-> individuellen Tatverdacht, Erosion des due process, dokumentierte Fälle zu Unrecht festgehaltener
-> US-Bürger), während die mediale Aufmerksamkeit nachlässt. Die institutionellen Bremsen — Gerichte,
-> Kongress-Aufsicht — **verlangsamen, stoppen aber die Eskalation nicht**. Die nachlassende Sichtbarkeit
-> ist dabei Bedingung, nicht bloß Begleiterscheinung.
+> **Stand (Konfidenz 84 %, 28.08.2026):** Der ICE-Vollzug eskaliert *messbar* (Rekordfestnahmen,
+> Zugriffe ohne individuellen Tatverdacht, Erosion des due process, dokumentierte Fälle zu Unrecht
+> festgehaltener US-Bürger), während die mediale Aufmerksamkeit nachlässt. Die institutionellen
+> Bremsen — Gerichte, Kongress-Aufsicht — **verlangsamen, stoppen aber die Eskalation nicht**. Die
+> nachlassende Sichtbarkeit ist dabei Bedingung, nicht bloß Begleiterscheinung — und seit dem Eintrag
+> vom 28.08. schärfer: Sie ist ein **erklärtes operatives Ziel** („quieter but more effective
+> enforcement"), an dem gearbeitet wurde und das aufgegangen ist.
 
 ## Falsifikation
 
@@ -54,6 +56,100 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 **Kalt, wenn:** Politikwechsel beendet das Thema ohne neue Daten.
 
 ## Verlauf
+
+### 2026-08-28 — Die Strategie ist belegt: Rekordfestnahmen bei gefallener Aufmerksamkeit (Konfidenz 78 % → 84 %)
+
+**Befund:** Die *New York Times* hat am 27.08. die vollständigen Rohdaten zu jeder einzelnen
+ICE-Festnahme bis zum **5. August 2026** ausgewertet — erstritten vom **Deportation Data Project**,
+einer akademischen Gruppe, über eine Klage auf Akteneinsicht. Es ist das bisher umfassendste Bild
+des Vollzugs. Vier Befunde:
+
+*Erstens — die angekündigte Strategie ist aufgegangen.* DHS-Secretary **Markwayne Mullin** hatte bei
+seiner Bestätigung im Frühjahr eine *„unauffälligere, aber effektivere"* Durchsetzung versprochen —
+im Klartext: *„We are not — not — slowing down a bit. We're just pushing harder, but being a little
+bit more quiet about it."* Ergebnis: **43.021 Festnahmen im Juni, 49.571 im Juli** (+15 %,
+Tagesschnitt 1.599) — Rekordwerte, in fast allen Bundesstaaten, bei gleichzeitig deutlich gesunkener
+Berichterstattung. Das erklärte Ziel von **2.000 Festnahmen pro
+Tag** ist näher denn je. Die zwei tödlichen Schüsse in Texas und Maine (siehe Einträge 10.07./15.07.)
+haben das Tempo laut NYT **nicht wesentlich verlangsamt**. Claire Trickler-McNulty, ehemals
+hochrangige ICE-Beamtin, fasst es nüchtern zusammen: *„Sie haben mehr Beamte, mehr Geld, mehr
+Haftplätze, mehr lokale Partner und bessere Systeme — und sie setzen endlich alle Puzzleteile
+zusammen, um die Abschiebungsmaschinerie aufzubauen."*
+
+*Zweitens — die Zielgruppe hat sich umgekehrt.* Der Anteil der Festgenommenen mit einer früheren
+Verurteilung wegen einer **Gewalttat liegt unter 4 %** (Amtszeit-Durchschnitt ~6 %); rund **drei
+Viertel** haben **keine Verurteilung**, gut **50 %** überhaupt keine strafrechtliche Berührung, auch
+kein laufendes Verfahren. Der Juli war der erste Monat dieser Amtszeit, in dem Menschen mit
+*ausschließlich* zivilrechtlichen Aufenthaltsverstößen die **Mehrheit** aller Festnahmen stellten. Neu erfasst werden Menschen, die mit
+US-Bürgern verheiratet sind, die legal einreisten und Asyl beantragten, und Inhaber eines
+befristeten Aufenthaltsstatus, dessen Aufhebung die Regierung selbst betreibt. Der Cato-Befund vom
+Juli (73 % ohne Vorstrafe) war also keine Momentaufnahme, sondern der Normalzustand.
+
+*Drittens — der Vollzug wandert nach unten in die örtliche Polizei.* Das ICE-Personal wuchs von rund
+**21.000 auf etwa 29.000** (OPM-Daten, Juni). Entscheidender ist die Verlagerung über das Programm
+**287(g)**, das lokale Polizeibeamte zu Einwanderungsfestnahmen ermächtigt: Es macht inzwischen rund
+**14 % aller Festnahmen** aus — in Florida mindestens 15.000, in Texas fast 10.000 Fälle (kumuliert
+über die Amtszeit; im Juli allein landesweit ~6.500), und in **Wyoming und West Virginia über 50 %**. Deshalb greift auch Sanctuary-Gesetzgebung nicht mehr: In
+**New Jersey und New Mexico haben sich die Festnahmen verdoppelt, obwohl** beide Staaten 2026 Gesetze
+gegen die ICE-Kooperation verabschiedet haben. Der Grund ist konkret: Schutzgesetze bremsen den Zugriff *in den Gefängnissen*, nicht auf der
+Straße — und über 287(g) greift die Straße. Auch Montana und Vermont mehr als verdoppelt; Texas
+über 380 Festnahmen pro Tag, Florida über 230 — je rund +100 **seit dem Frühjahr** (nicht gegenüber
+dem Vorjahr).
+
+*Viertens — Haft und Abschiebungen steigen wieder.* Nach dem Rückgang im Frühjahr liegt die
+ICE-Haftpopulation wieder bei rund **66.000**; das Ziel von 100.000 Betten ist nicht erreicht, aber
+mehrere neue Einrichtungen öffnen im Herbst, und die *Detention Reengineering Initiative* (24
+Lagerhallen-Umbauten) **könnte** wiederbelebt werden — die NYT formuliert hier als Möglichkeit, nicht
+als Beschluss. Abgeschoben werden seit Sommer 2025 durchschnittlich über
+**1.000 Menschen pro Tag**; im Juli erreichten die Abschiebeflüge mit mindestens **329 in 37 Länder**
+einen Rekordwert — +14 % zum Vormonat, +59 % zu Juli 2025; am 30. Juli 22 Flüge an einem Tag, der
+höchste Tageswert seit Erfassungsbeginn 2020 (ICE Flight Monitor / Human Rights First).
+
+*Dazu, auf der Fall-Ebene:* Die Familie von **Alex Pretti** (erschossen 24.01.2026, Minneapolis,
+US-Bürger — die Schützen waren **CBP**-Beamte, nicht ICE) hat sich sieben Monate danach erstmals
+öffentlich geäußert, bei *Good Morning America* (ABC, 25.08.2026). Sie erfuhr vom Tod ihres
+Sohnes **über das Fernsehen** — keine Behörde, kein Krankenhaus, niemand aus der Regierung hatte sie
+informiert. Die Regierungsposts, die ihn *domestic terrorist* (Noem), *assassin* (Stephen Miller,
+weiterverbreitet von Vizepräsident Vance) und *agitator* (Trump) nennen, stehen weiterhin online.
+Die Familie verlangt Rechenschaft — und eine Entschuldigung. → Fall-Note:
+[[Koschi Politik — ICE setzt neue Rekorde]]
+
+**Deutung:** Das ist der stärkste Eintrag, den diese Spur bisher hat — und der erste, der den
+Unsichtbarkeits-Kern der These **nicht aus Indizien erschließt**. Bisher stützte er sich auf
+Verweigerungen: ein elf Monate unbestätigter Schuss, eine abgeschaffte Meldepflicht, ein Lager
+außerhalb der Datenbanken. Jetzt gibt es beides zusammen — die *erklärte* Strategie („leiser und
+effektiver") und die Daten, dass sie aufging. Damit ist die Formulierung der These präzisierbar: Die
+Unsichtbarkeit ist nicht nur Bedingung, sie ist ein **operatives Ziel**, an dem gearbeitet wurde —
+Mullin hat es selbst so gesagt. Zweitens fällt eine vorregistrierte Schwächungs-Bedingung: Der
+Haftzahl-Rückgang (70.766 am 24.01. → 60.311 am 04.04., TRAC), den der Tiefen-Sweep vom 15.07.
+ehrlich als erstes Gegensignal geführt hatte, war eine **Delle, kein Trend** — am 11.07. standen
+wieder 65.765. *(Korrektur nebenbei: Der im Eintrag vom 06.07. genannte Januar-Peak von „~73.000"
+stammt aus einer CBS-Momentaufnahme; die durchgehende TRAC-Reihe weist 70.766 als Höchstwert aus. Ab
+jetzt gilt in dieser Spur TRAC, damit die Reihe vergleichbar bleibt.)* Drittens kommt ein *neuer* Unsichtbarkeits-Mechanismus hinzu,
+den die Spur bisher nicht kannte: die **Dezentralisierung über 287(g)**. Ein Verkehrsstopp durch den
+örtlichen Sheriff produziert keine filmbare Razzia, unterläuft Sanctuary-Gesetze und verteilt den
+Vollzug über tausende Dienststellen, für die niemand eine Meldepflicht führt. Viertens ist die
+Umkehrung der Zielgruppe jetzt über den vollen Datensatz quantifiziert statt über eine Stichprobe.
+
+**Gegenbeobachtung (Pflicht):** Das härteste Gegensignal steckt in der Quelle selbst. Diese Daten
+existieren, weil eine akademische Gruppe sie **einklagte** und die größte Zeitung des Landes sie
+auswertete und prominent veröffentlichte. Ein Apparat, dessen Rohdaten per Akteneinsichtsklage
+herauskommen und auf der Titelseite landen, ist nicht dunkel — er ist **langsamer beleuchtet**. Der
+Begriff „hergestellte Dunkelheit" aus dem Juli-Sweep ist damit zu stark und wird hier ausdrücklich
+zurückgenommen: Er trifft die Melde- und Zählpraxis der Behörde, nicht die Informationslage
+insgesamt. Zweitens ist der Haft-Wiederanstieg **kein Rekord**: 65.765 liegt unter dem Januar-Peak
+von 70.766, und Haftbelegung wächst ohnehin mit Kapazität — die Rekorde liegen bei den *Festnahmen*,
+nicht in der Haft. Drittens ist 287(g) ein Programm mit gesetzlicher Grundlage seit 1996; gewachsen
+ist der Anteil, nicht das Instrument, und lokale Kooperation ist nicht per se rechtswidrig.
+Viertens — und das ist die ehrlichste Einschränkung — hat die Zusammensetzungsverschiebung eine
+unspektakuläre Alternativerklärung: Nach eineinhalb Jahren Vollzug ist die Kohorte der
+Vorbestraften weitgehend abgearbeitet; dass der Rest keine Vorstrafen hat, wäre dann Arithmetik, nicht
+Radikalisierung. Die in der Fall-Note referierte Quoten-Erklärung (die erfundene 20-Millionen-Zahl
+erzwingt Ersatzziele) ist eine plausible Deutung, kein Datum. Und fünftens steht in den NYT-Daten
+selbst ein Beleg *für* die Wirksamkeit von Öffentlichkeit: In **Minneapolis** führte die öffentliche
+Kritik Anfang des Jahres zu einem tatsächlichen Rückzug von den aggressivsten Taktiken. Sichtbarkeit
+hat also lokal gewirkt — sie hat nur die Gesamtmenge nicht gesenkt.
+
 
 ### 2026-07-19 — Die Täter-Ebene wird sichtbar: Brouillette und die Salgado-Umdeutung (Konfidenz 77 % → 78 %)
 
@@ -346,12 +442,18 @@ Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur ei
    Behördenversion (Martinez: 11 Monate zurückgehalten; Villegas: „schwer verletzter" Agent selbst —
    „nichts Größeres"); in den vier Fällen *ohne* Kamera gilt Wort gegen Wort. Das verschiebt die
    Beweislast des ganzen Musters.
-5. **Bisher null strafrechtliche Konsequenz** (Stand 15.07.2026) — im einzigen abgeschlossenen
-   Verfahren (Martinez) lehnte die Grand Jury die Anklage ab, *trotz* widersprechender Bodycam.
+5. **Bisher null strafrechtliche Konsequenz** (Stand 28.08.2026) — im einzigen abgeschlossenen
+   Verfahren (Martinez) lehnte die Grand Jury die Anklage ab, *trotz* widersprechender Bodycam. Sieben
+   Monate nach Pretti sagt seine Familie, sie erfahre bis heute nichts über den Ermittlungsstand; das
+   DOJ verweist auf Standardprotokoll.
 6. **Die Gegen-Erzählung über das Opfer** *(ergänzt 19.07.2026)*. Wenn die Notwehr-Version zerfällt
    (Houston: das „Rammen" ist aus der offiziellen Darstellung verschwunden), wird das Opfer
    nachträglich umgedeutet — Drogen-Frame vor jedem Laborergebnis. Die Rechtfertigung wandert von
-   der Situation („er griff an") zur Person („er war ohnehin kriminell").
+   der Situation („er griff an") zur Person („er war ohnehin kriminell"). *(Fortgeschrieben
+   28.08.2026: Im Fall Pretti wurde nichts davon je zurückgenommen. Noems „domestic terrorism",
+   Millers „assassin", Vances Weiterverbreitung, Trumps „agitator" stehen sieben Monate später
+   unwidersprochen; auf die Frage nach einer Entschuldigung antwortete Vance „For what?". Die
+   Umdeutung ist damit kein Reflex in den ersten Stunden mehr, sondern eine gehaltene Position.)*
 7. **Das Vetting als Vorstufe des Musters** *(ergänzt 19.07.2026)*. Der erste identifizierte Schütze
    (Brouillette, Maine) trägt eine aktenkundige Geschichte aus schwerer psychischer Erkrankung,
    häuslicher Gewalt und Rassismus-Vorwürfen — vom Army-Vetting einst aussortiert, von der
@@ -432,6 +534,17 @@ sich wieder schließt.
 >   das ist eine unserer vorregistrierten Schwächungs-Bedingungen und wird ab jetzt in jedem Sweep
 >   zuerst geprüft, nicht zuletzt. Wachpunkt: Wenn der Rückgang im Herbst anhält, muss die
 >   Konfidenz *runter*, auch wenn die Einzelfälle weiter empören.
+> - **28.08.2026:** Dieser Eintrag bestätigt die These fast zu vollständig — die erklärte Strategie
+>   *und* die Daten, dass sie aufging. Genau deshalb geprüft, woher die Bestätigung kommt: aus
+>   eingeklagten Regierungsrohdaten über die NYT, nicht aus einem Advocacy-Tracker. Das trägt. Zwei
+>   Versuchungen bewusst abgewehrt: den Haft-Wiederanstieg als „Rekord" zu lesen (er ist keiner —
+>   65.765 gegen 70.766 im Januar), und die elegante Quoten-Erklärung (die erfundene
+>   20-Millionen-Zahl erzwingt Ersatzziele) als Befund zu führen statt als Deutung. Und die härteste
+>   Selbstkorrektur: „Hergestellte Dunkelheit" aus dem Juli-Sweep war zu stark und ist oben
+>   zurückgenommen — ein Apparat, dessen Rohdaten einklagbar sind und auf der Titelseite landen, ist
+>   langsamer beleuchtet, nicht dunkel. Wachpunkt für den nächsten Sweep: Wenn die Festnahmezahlen im
+>   Herbst fallen, *während* die Aufmerksamkeit niedrig bleibt, wäre das ein ernstes Signal gegen den
+>   Kernmechanismus — dann muss die Konfidenz runter.
 > - **19.07.2026:** Brouillettes Akte (bipolar, Gewalt, Rassismus-Vorwürfe) ist erzählerisch fast zu
 >   passgenau — genau deshalb doppelt geprüft (AP-Aktenlage, nicht nur Familienaussagen) und der
 >   Reflex vermieden, aus einem Schützen ein System zu machen: n=1 steht ausdrücklich in Muster-Punkt 7.
@@ -446,6 +559,11 @@ sich wieder schließt.
 
 Schwester-Spuren derselben Familie: *Was die Flut wegspült.* Drei Fälle, ein Mechanismus — Eskalation/Unrecht
 läuft weiter, sobald die Aufmerksamkeit weiterzieht.
+
+### → [[Koschi Politik — ICE setzt neue Rekorde]]
+
+Die Fall-Note zum Eintrag vom 28.08. — die NYT-Auswertung im Detail, die Zahlen zur Verlagerung in
+die örtliche Polizei und das erste Interview der Familie Pretti.
 
 ### → [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 
@@ -507,6 +625,18 @@ hat die Formel dafür schon 1906: die „bloße äffende Ähnlichkeit" des Ander
 - [Portland Press Herald — ICE agent identified as former Maine law enforcement officer](https://www.pressherald.com/2026/07/16/ice-agent-who-shot-man-in-biddeford-identified-as-former-maine-law-enforcement-officer/) · [CNN — 2021 head injury, „cognitive deficits"](https://www.cnn.com/2026/07/18/us/david-brouillette-injuries-ice-maine-shooting-invs) · [NPR — Rassismus- und Gewaltvorwürfe der Ex-Frau](https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette) · [Boston Globe — die zweite Ex-Frau](https://www.bostonglobe.com/2026/07/18/metro/ice-agent-second-ex-wife/) · [Washington Post — Vetting-Fragen](https://www.washingtonpost.com/immigration/2026/07/18/ice-officers-troubled-past-renews-vetting-questions-after-maine-shooting/)
 - [Texas Tribune — Tests will find if men in Houston ICE shooting had drugs or salt](https://www.texastribune.org/2026/07/16/texas-houston-ice-shooting-fbi-search-warrant-lorenzo-salgado-araujo/) · [KSAT/AP — Reitz' neue Version, Rammen entfällt](https://www.ksat.com/news/texas/2026/07/18/a-texas-prosecutor-reveals-new-details-in-an-ice-killing-of-a-houston-father/) · [NBC — Familienanwalt: Substanz ist Salz](https://www.nbcnews.com/news/us-news/houston-ice-fatal-ice-shooting-fbi-search-warrant-drugs-salt-rcna587821) · [ABC13 — DA Teare: „inconsistent that drugs"](https://abc13.com/post/deadly-houston-ice-shooting-harris-county-da-says-inconsistent-drugs-found-lorenzo-salgado-araujos-van/19520834/)
 - [Forbes — Mullin: „turning up the heat on the streets"](https://www.forbes.com/sites/saradorn/2026/07/17/ice-is-turning-up-the-heat-on-the-streets-despite-recent-killings-dhs-secretary-says/) · [MeidasTouch — AOC on ICE Killings in Maine and Texas](https://meidasnews.com/news/exclusive-aoc-on-ice-killings-in-maine-and-texas)
+
+*Eintrag 28.08.2026 (Rekordfestnahmen, 287(g), Pretti-Interview):*
+
+- [Koschi Politik — ICE setzt neue Rekorde! Heimlich und unbarmherzig! (28.08.2026)](https://www.youtube.com/watch?v=ti2RpgVaFSo) → Fall-Note [[Koschi Politik — ICE setzt neue Rekorde]]
+- [New York Times — ICE Arrests Soar as People With No Criminal Record Are Increasingly Targeted (27.08.2026)](https://www.nytimes.com/interactive/2026/08/27/us/ice-immigrant-arrests-trump-deportation-dhs.html) · [Volltext-Spiegelung](https://www.rsn.org/001/ice-arrests-soar-as-people-with-no-criminal-record-are-increasingly-targeted.html) — die zentrale Auswertung
+- [Deportation Data Project](https://deportationdata.org/) — die per FOIA-Klage erstrittene Primärquelle · [NPR — Immigration arrests soar, hitting 50,000 in July](https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record) · [CBS News — eigene Auswertung derselben Rohdaten](https://www.cbsnews.com/news/ice-arrests-record-high-july-new-data/)
+- [TRAC — Detention Quick Facts](https://tracreports.org/immigration/quickfacts/) · [TRAC — ICE Detention Is Down from Its Early-2026 Peak (70.766 → 60.311)](https://tracreports.org/whatsnew/email.260410.html) — die Haftreihe und ihr Gegenlicht
+- [Human Rights First — ICE Flight Monitor Juli 2026 (329 Flüge)](https://www.humanrightsfirst.org/library/ice-flight-monitor-july-2026-report)
+- [NOTUS — OPM-Daten widersprechen den DHS-Personalzahlen](https://www.notus.org/trump-white-house/immigration-and-customs-enforcement-hiring-opm-noem) · [Stateline — Warum Sanctuary-Gesetze nur im Gefängnis bremsen](https://stateline.org/2026/08/24/sanctuary-policies-are-keeping-prisoners-in-local-jails-away-from-ice/)
+- [ABC News — Das GMA-Interview der Familie Pretti (25.08.2026)](https://abcnews.com/US/family-alex-pretti-speaks-exclusive-interview-murdered-child/story?id=135910349) · [Common Dreams — Vance verweigert die Entschuldigung](https://www.commondreams.org/news/vance-wont-apologize-pretti) · [Wikipedia — Killing of Alex Pretti](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti)
+- [CNN — Mullins erste zwei Monate im DHS](https://www.cnn.com/2026/05/25/politics/markwayne-mullin-dhs-deportations-immigration) · [Washington Examiner — der weniger „flashy" Kurs](https://www.washingtonexaminer.com/policy/immigration/4569275/dhs-ditches-kristi-noem-immigrant-detention-plans-markwayne-mullin-less-flashy/)
+- [NPR — Police experts question ICE officer vetting](https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting) · [American Immigration Council — ICE kauft Lagerhallen](https://www.americanimmigrationcouncil.org/blog/ice-buys-warehouses-immigration-detention/)
 
 *Stimmenspektrum 19.07.2026:*
 

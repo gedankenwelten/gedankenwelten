@@ -539,6 +539,17 @@ tags:
 | **Fund via** | /kairos (Malala Day) + /sepia (PeerTube-Mirror, diler.tube) |
 | **Transkript** | `Gedankenwelten/Transkripte/Malala_Girls_Education_TED_Transkript.txt` |
 
+## Koschi Politik — ICE setzt neue Rekorde (2026)
+
+| | |
+|---|---|
+| **Video** | [ICE setzt neue Rekorde! Heimlich und unbarmherzig!](https://www.youtube.com/watch?v=ti2RpgVaFSo) |
+| **Notiz** | [[Koschi Politik — ICE setzt neue Rekorde]] |
+| **Primärquelle** | [NYT — ICE Arrests Soar as People With No Criminal Record Are Increasingly Targeted (27.08.2026)](https://www.nytimes.com/interactive/2026/08/27/us/ice-immigrant-arrests-trump-deportation-dhs.html) · [Deportation Data Project](https://deportationdata.org/) |
+| **Spur** | [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit]] (Eintrag 28.08.2026) |
+| **DenkerVita** | [[DenkerVita/Manuel Koschi Politik]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Koschi_ICE_Rekorde_Transkript.txt` |
+
 ## Koschi Politik — ICE-Schütze in Maine identifiziert & Salgado-Drogen-Frame (2026)
 
 | | |

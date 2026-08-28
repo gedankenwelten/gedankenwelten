@@ -135,3 +135,10 @@ US-Pendant: ICE verhaftet 316 südkoreanische Fachkräfte mit gültigen Arbeitsv
 ### → [[MONITOR — Fleischindustrie Menschen als Ware]]
 
 Die Kehrseite der Abschiebungspolitik: Deutschland schiebt integrierte Menschen ab und wirbt gleichzeitig „Fachkräfte" an, die unter menschenunwürdigen Bedingungen in der Fleischindustrie arbeiten. Anwerbung und Ausbeutung als zwei Seiten derselben Medaille.
+
+### → [[Koschi Politik — ICE setzt neue Rekorde]]
+
+Dieselbe Umkehrung mit amerikanischen Zahlen. Auch dort war das Versprechen, „die Schlimmsten der
+Schlimmsten" abzuschieben; im Juli 2026 hatten unter vier Prozent der Festgenommenen eine
+Gewaltverurteilung und rund drei Viertel gar keine Vorstrafe. Wo eine Vollzugsbehörde eine Tagesquote
+bekommt, entscheidet nicht Gefährlichkeit, wer sie erfüllt, sondern Greifbarkeit.
