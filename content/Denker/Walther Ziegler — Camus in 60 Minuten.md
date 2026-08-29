@@ -209,3 +209,8 @@ Fromms Unterscheidung von Haben und Sein resoniert überraschend mit Camus' Revo
 ### → [[Walther Ziegler — Platon in 60 Minuten]]
 
 Camus ist Platons radikaler Gegenentwurf. Platon antwortet auf die Sinnfrage mit der „Idee des Guten" — einer ewigen, unveränderlichen Ordnung hinter den Erscheinungen. Camus sagt: Es gibt keine Ideen hinter den Dingen. Die Höhle hat keinen Ausgang. Aber statt daran zu verzweifeln, sollen wir die Höhle *bewohnbar machen* — durch Revolte, Solidarität und die Schaffung eigener Werte.
+
+### → [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
+
+Der Camus danach. Hier steht der Sisyphos von 1942 — trotzig, algerisches Licht, Revolte im Kleinen; dort der Satz aus *Der Fall* von 1956, in dem die Wahrheit blendet und die Lüge den Dingen ein erträgliches Relief gibt. Clamence beichtet in einer Amsterdamer Bar, dass sein Wohltätertum Eitelkeit war: dieselbe Ehrlichkeit, nach innen gewendet, und deutlich weniger heroisch als die Revolte.
+

@@ -298,6 +298,10 @@ Lyotard radikalisiert Wittgensteins Sprachspiel-Begriff zu einer Gesellschaftsth
 
 Diagnes „Denke in Gegenwart der Vielheit der Sprachen" steht auf Wittgensteins Fundament: Sprachspiele, Bedeutung als Gebrauch, die Grenzen meiner Sprache als Grenzen meiner Welt. Diagne zieht daraus die dekoloniale Konsequenz — jedes Argument muss die Prüfung durch das Fremde bestehen.
 
+### → [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
+
+§ 109 als einer von sechs Sätzen, die Scobel für lebensverändernd hält — die Verhexung des Verstandes durch die Mittel der Sprache. Die Note liest die Sprachtherapie als eine Fluchtbewegung unter sechsen: Wo Sartre die Flucht ins falsche Selbstbild beschreibt, findet Wittgenstein sie eine Etage tiefer in der bequemen Formulierung. Und sie hängt sich an denselben Schlusssatz, an dem diese Note beim beredten Schweigen endet — dass die Lebensprobleme nach aller Klärung übrig bleiben.
+
 ---
 
 ## Weiterdenken

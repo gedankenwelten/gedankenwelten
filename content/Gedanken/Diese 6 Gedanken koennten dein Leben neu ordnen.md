@@ -140,6 +140,10 @@ Jeder der sechs Sätze ist in der Videobeschreibung mustergültig belegt — Fun
 
 ## Verbindungen
 
+### → [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
+
+Die Fortsetzung, und sie kippt das Register. Hier liegen die Sätze zweieinhalb Jahrtausende auseinander und handeln vom *Prüfen*; dort stammen fünf von sechs aus den Jahren 1943 bis 1956 — Sartre, Camus, Wittgenstein, Arendt, Simone Weil — und handeln vom *Aushalten* dessen, was beim Prüfen herauskommt. Zusammengelesen wird das Prüfen zur leichteren Hälfte: Man kann ein Leben lang seine Überzeugungen umwälzen und dabei jedem Blick in den Spiegel ausweichen.
+
 ### → [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]]
 Callard schärft die hier verdichtete Sokrates-Weisheit philologisch: Er sagt *nur*, das Ungeprüfte sei nicht lebenswert — nicht, das Geprüfte sei es. Die Weigerung aufzurunden ist selbst gelebte sokratische Demut.
 

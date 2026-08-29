@@ -178,6 +178,7 @@ Der Lehrling definiert durch Abgrenzung: noch kein Geselle, noch kein Meister. D
 - [[Panorama/Gekaperte Zeichen|Gekaperte Zeichen]] — Derselbe Vorgang eine Schicht tiefer: Begriffshoheit für Gesten und Symbole. Gegen die Umdeutung eines Zeichens hilft kein Gegenargument — man kann es nur weiter benutzen oder hergeben.
 
 - [[Denker/Ngugi wa Thiongo — Decolonizing the American University]] — Höckes Formel in kolonialer Tiefenschärfe: „Prosperisch", die Sprache, in der Caliban sich nur noch kennt, wie der Herr ihn sieht — von Spensers Irland-Manifest über die Plantagen bis „Kill the Indian, save the man". Wer die Sprache prägt, prägt das Gedächtnis; Ngũgĩ zeigt dieselbe Machtformel als Imperium.
+- [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — Die philosophische Wurzel derselben Formel: Wittgensteins § 109, der Kampf gegen die Verhexung des Verstandes durch die Mittel der Sprache. Dort täuscht die Grammatik uns unabsichtlich über die Zeit und das Ich, hier täuscht sie uns von interessierter Hand — dieselbe Therapie (genauer hinsehen, wie ein Wort benutzt wird), aber nur eine der beiden Notes hat einen Gegner
 
 ### → [[Sven Beckert — Kapitalismus als Weltrevolution]]
 

@@ -199,6 +199,10 @@ Hecks „Epistemologie der Freundschaft" (Erkenntnis entsteht in der Beziehung, 
 
 Die Gegen-Frage: Callards Sokrates *sucht* die eine Frage, die das Leben prüft — Scobels Hampe/Wittgenstein *entlässt* uns aus der gefährlichsten aller Fragen, dem Wozu. Prüfen oder Loslassen: zwei Antworten darauf, was ein untersuchtes Leben heißt.
 
+### → [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
+
+Der offene Widerspruch. Dort steht Hannah Arendts sokratisches Denken als *innerer* Dialog — zwei in einem, man kommt mit sich allein aus, und genau darin liegt die Bedingung moralischen Handelns. Callard bestreitet das: Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen; Denken geschieht wesentlich zu zweit. Beide berufen sich auf denselben Sokrates und geben unvereinbare Antworten darauf, ob das Selbstgespräch genügt.
+
 ---
 
 ## Weiterdenken

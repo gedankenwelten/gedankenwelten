@@ -95,5 +95,17 @@ Politisch ist er schwer einzuordnen — er macht keine parteipolitischen Aussage
 
 ## Gedankenwelten-Notes
 
+**Scobel selbst:**
+
 - [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein]]
 - [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
+- [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 1]] — Kant, Aristoteles, Sokrates, Heraklit, Erasmus, Zhuangzi
+- [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — Sartre, Camus, Wittgenstein, Arendt, Simone Weil
+
+**Aus seinen Formaten (Denker-Porträts und Gespräche):**
+
+- [[Denker/scobel — Foucault Aufklaerung als Haltung]]
+- [[Denker/scobel — Luhmann Abklaerung der Aufklaerung]]
+- [[Denker/scobel — Lyotard das Ende der Wahrheit]]
+- [[Denker/Markus Gabriel — Ethische Intelligenz (scobel)]]
+- [[Denker/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]

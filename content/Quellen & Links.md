@@ -976,6 +976,17 @@ tags:
 | **Notiz** | [[Diese 6 Gedanken koennten dein Leben neu ordnen]] |
 | **Primärquellen** | [Kant, Logik AA IX, S. 25](https://korpora.org/kant/aa09/025.html) · [Aristoteles, Metaphysik 982b (Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0051%3Abook%3D1%3Asection%3D982b) · [Platon, Apologie 38a (Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0169%3Atext%3DApol.%3Asection%3D38a) |
 
+## Scobel — Sechs philosophische Sätze (Folge 2)
+
+| | |
+|---|---|
+| **Video** | [Diese 6 Gedanken könnten dein Leben neu ordnen \| Folge 2 – scobel](https://www.youtube.com/watch?v=HZIA9qk2BhU) (scobel/AVE-Institut, 27.08.2026) |
+| **Notiz** | [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2]] |
+| **DenkerVita** | [[DenkerVita/Gert Scobel]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Scobel_6_Gedanken_Folge2_Transkript.txt` |
+| **Primärquellen** | Sartre: *Das Sein und das Nichts* (1943), Rowohlt 1991, S. 883 · Camus: *Der Fall* (1956), Reinbek 1972, S. 112 · [Wittgenstein, Philosophische Untersuchungen § 109 (Volltext)](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#100) · Sartre: *Geschlossene Gesellschaft* (1944), 5. Szene · Arendt: *Sokrates. Apologie der Pluralität*, Matthes & Seitz 2016, S. 58 · Simone Weil: *Cahiers/Aufzeichnungen*, Bd. 3, München ²2017, S. 79 |
+| **Kanal** | finanziert vom gemeinnützigen [AVE-Institut für Achtsamkeit, Verbundenheit, Engagement](https://ave-institut.de/) |
+
 ## Rutger Bregman — Ist der Mensch wirklich gut?
 
 | | |

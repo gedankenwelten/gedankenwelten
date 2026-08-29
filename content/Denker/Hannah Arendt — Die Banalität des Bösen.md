@@ -273,3 +273,5 @@ Verfügbare Quellen: Suhrkamp-Ausgaben, englische Originale auf Archive.org (Pub
 
 Ein Fall für die Herrschaft des Niemand, in dem niemand stirbt. Baden-Württemberg versprach jesidischen Frauen, ihre überlebenden Männer nachzuholen; das Versprechen zerfiel, weil zwischen den Ministerien keine Übereinstimmung zustande kam. Kein Täter, kein Beschluss, keine Adresse — und getrennte Familien bis heute. Arendts Begriff zeigt hier, dass Verantwortungslosigkeit keine Verbrechen braucht, um zu wirken.
 
+- [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — Die Kette von der anderen Seite: Dort steht Arendts Satz, dass das Selbst die einzige Person ist, die man nicht verlassen kann, und die Note führt ihn über das Zwei-in-einem und die Unterscheidung von Alleinsein und Einsamkeit bis zum Schlusskapitel von *Elemente und Ursprünge* — und von dort zu Eichmann. Wer mit sich nicht mehr redet, hat keine Instanz mehr, vor der ein Befehl scheitern könnte
+
