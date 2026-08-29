@@ -433,6 +433,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik
 
+**[[DenkerVita/Jean-Paul Sartre|Jean-Paul Sartre]]** — Philosoph, Romancier, Dramatiker (1905–1980); Hauptfigur des Existentialismus und Prototyp des französischen Intellektuellen; Existenz vor Essenz, zur Freiheit verurteilt, *mauvaise foi*, der Blick des anderen; *Der Ekel* (1938), *Das Sein und das Nichts* (1943), *Geschlossene Gesellschaft* (1944); lehnte 1964 den Literaturnobelpreis ab, weil ein Autor sich nicht in eine Institution verwandeln lassen dürfe
+
 **[[DenkerVita/Semir Zeki|Semir Zeki]]** — Neurobiologe (UCL), Begründer der Neuroästhetik; funktionelle Spezialisierung des visuellen Kortex (Farbe in V4, Bewegung in V5), neuronale Basis von Schönheit und Liebe; mit Andreas Bartels Autor der ersten fMRT-Studien zu romantischer und mütterlicher Liebe
 
 **[[DenkerVita/Sham Jaff|Sham Jaff]]** — Freie Journalistin & Politikwissenschaftlerin (kurdisch-deutsch), Autorin des Newsletters *what happened last week?*, Grimme-Preis für den Hanau-Podcast *190220*; Nachrichten aus dem Globalen Süden, konstruktiver Journalismus, Krise des Völkerrechts aus globaler Perspektive; WDR Europaforum / re:publica 26 Panel „Out of order?"
@@ -501,6 +503,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Jens-Christian Wagner|Jens-Christian Wagner]]** — Historiker, Direktor der Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora; streitbarer Verteidiger der NS-Erinnerungskultur gegen rechten Geschichtsrevisionismus und die AfD
 
 **[[DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
+
+**[[DenkerVita/Simone Weil|Simone Weil]]** — Philosophin, Mystikerin, Fabrikarbeiterin (1909–1943); ENS-Absolventin, die 1934 an die Fräsmaschine ging, um zu erfahren, was Industriearbeit mit einem Menschen macht; *attention* als reinste Form der Großzügigkeit, *malheur*, Entwurzelung, Kraft als das, was Menschen zu Dingen macht; zu Lebzeiten kein Buch — *Schwerkraft und Gnade* (1947), *Die Einwurzelung* (1949, hg. von Camus) erschienen posthum; gestorben mit 34
 
 **[[DenkerVita/Susanne Weigelin-Schwiedrzik|Susanne Weigelin-Schwiedrzik]]** — Sinologin und Japanologin (Uni Wien, 2011–2015 Vizerektorin); chinesische Geschichtsschreibung, Kulturrevolution, Hungersnot-Diskurs; außenpolitische Realistin: „Balance of Power“ statt Moral, Europa als versteckter Akteur im Dreieck China–USA–Russland; *China und die Neuordnung der Welt* (2023)
 

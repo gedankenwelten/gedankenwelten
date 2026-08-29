@@ -950,3 +950,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Carlotta Voß
 **Status:** ✓ Vollanalyse — [[DenkerVita/Carlotta Voss]]
+
+## Jean-Paul Sartre
+**Status:** ✓ Vollanalyse — [[DenkerVita/Jean-Paul Sartre]]
+
+## Simone Weil
+**Status:** ✓ Vollanalyse — [[DenkerVita/Simone Weil]]
