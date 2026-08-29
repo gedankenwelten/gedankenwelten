@@ -55,6 +55,8 @@ Vielleicht ist das der Grund, warum diese sechs Sätze nicht mehr vom Prüfen ha
 > [!quote]
 > **„Wir sind zur Freiheit verurteilt […] in die Freiheit geworfen."**
 > — Jean-Paul Sartre, *Das Sein und das Nichts* (1943)
+>
+> → [[DenkerVita/Jean-Paul Sartre|DenkerVita]]
 
 [▶ 0:56](https://www.youtube.com/watch?v=HZIA9qk2BhU&t=56) — *Verurteilt.* Ein Wort aus dem Gerichtssaal, gesetzt vor das Wort, das sonst alles verspricht. Sartre meint es genau so: Wir können nicht nicht wählen. Auch die Entscheidung, nicht zu entscheiden, ist eine. Wir sind nicht frei, unfrei zu sein — die Freiheit lässt sich nicht abgeben, nicht einmal an jemanden, der sie gern nähme.
 
@@ -70,6 +72,8 @@ Man muss sich klarmachen, wo dieser Satz geschrieben wurde. Paris, 1943, unter d
 > [!quote]
 > **„Die Wahrheit blendet wie ein grelles Licht. Wohingegen die Lüge ein milder Dämmerschein ist, der jedem Ding Relief verleiht."**
 > — Albert Camus, *Der Fall* (1956)
+>
+> → [[DenkerVita/Albert Camus|DenkerVita]]
 
 [▶ 1:57](https://www.youtube.com/watch?v=HZIA9qk2BhU&t=117) — Der Satz klingt düster, beinahe wie eine Rechtfertigung. Ein Jahr nach dem Erscheinen des Romans bekam Camus den Nobelpreis für Literatur.
 
@@ -82,6 +86,8 @@ Und Lügen glätten das Leben, wenigstens für den Moment. Clamence, der Erzähl
 > [!quote]
 > **„Die Philosophie ist ein Kampf gegen die Verhexung unseres Verstandes durch die Mittel unserer Sprache."**
 > — Ludwig Wittgenstein, *Philosophische Untersuchungen* § 109
+>
+> → [[DenkerVita/Ludwig Wittgenstein|DenkerVita]]
 
 [▶ 3:52](https://www.youtube.com/watch?v=HZIA9qk2BhU&t=232) — Philosophie ist keine Wissenschaft, davon war Wittgenstein überzeugt, und trotzdem unentbehrlich. Denn uns verwirrt das Leben, und mehr noch verwirrt uns das eigene Nachdenken darüber. Die Aufgabe der Philosophie ist es, Übersichtlichkeit herzustellen — Klarheit, damit man leben und handeln kann.
 
@@ -99,6 +105,8 @@ Der ehrlichste Satz kommt zum Schluss und wird gern überhört: Was nach getaner
 > [!quote]
 > **„Die Hölle, das sind die anderen."**
 > *L'enfer, c'est les autres* — Jean-Paul Sartre, *Geschlossene Gesellschaft* (1944), 5. Szene
+>
+> → [[DenkerVita/Jean-Paul Sartre|DenkerVita]]
 
 [▶ 5:39](https://www.youtube.com/watch?v=HZIA9qk2BhU&t=339) — Kein Satz Sartres ist gründlicher missverstanden worden. Man hört Menschenhass heraus, eine Absage an das Zusammenleben. Gemeint ist beinahe das Gegenteil.
 
@@ -113,6 +121,8 @@ Die Analogie trägt weiter, als sie im ersten Moment scheint. Eine Timeline ist 
 > [!quote]
 > **„Wer versteht, mit sich selbst zu leben, ist geeignet für das Leben mit anderen. Das Selbst ist die einzige Person, die ich nicht verlassen kann, mit der ich zusammengeschweißt bin."**
 > — Hannah Arendt, *Sokrates. Apologie der Pluralität* (Berlin 2016)
+>
+> → [[DenkerVita/Hannah Arendt|DenkerVita]]
 
 [▶ 7:05](https://www.youtube.com/watch?v=HZIA9qk2BhU&t=425) — Ferien von sich selbst zu machen ist unmöglich. Das Ich reist immer mit, so weit man auch von sich wegzufahren versucht; man trifft sich unterwegs andauernd wieder. Also ist es klug, mit sich auszukommen.
 
@@ -127,6 +137,8 @@ Das ist die schärfste Konsequenz dieses Satzes, und sie führt geradewegs zu Ei
 > [!quote]
 > **„Man muß das Mögliche vollbringen, um das Unmögliche zu berühren."**
 > *Il faut accomplir le possible pour toucher l'impossible* — Simone Weil, *Cahiers / Aufzeichnungen*, Bd. 3
+>
+> → [[DenkerVita/Simone Weil|DenkerVita]]
 
 [▶ 8:47](https://www.youtube.com/watch?v=HZIA9qk2BhU&t=527) — Viele verzweifeln an den Grenzen. Jenseits davon ahnen wir etwas Besseres und erreichen es nicht, im politischen Leben so wenig wie im eigenen. Das reine Gute, schreibt Weil, erscheint uns ebenso begehrenswert wie unmöglich.
 
