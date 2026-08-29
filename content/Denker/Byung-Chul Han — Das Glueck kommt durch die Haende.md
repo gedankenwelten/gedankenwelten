@@ -228,6 +228,10 @@ Andree liefert die medienökonomische Empirie zu Hans *Infokratie*: Demokratie b
 
 Hier stützt und präzisiert die Forschung Hans These zugleich. Han setzt gegen die kontaktlose Gesellschaft die *Berührung* und das Oxytocin; die Neurobiologie zeigt genau diesen Übergang — wie das dopaminerge Verzehren des Verliebtseins sich über Oxytocin in dauerhafte **Bindung** wandelt. Das ist Hans Punkt biologisch beglaubigt: Nähe, die bleibt, braucht den körperlichen Kontakt, den der Bildschirm nicht ersetzt. Zugleich mahnt die Note zur Präzision, die auch der Faktencheck dieser Note anlegt — Oxytocin ist kein simples „Glückshormon", sondern ein kontextabhängiger Mediator.
 
+### → [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
+
+Simone Weil als Probe aufs Exempel. Han findet das Glück im Widerstand — die schwere Erde, die fremden Wurzeln, die Türschwelle. Weil ließ sich 1934 vom Schuldienst beurlauben und ging als Philosophielehrerin an die Fräsmaschine, um zu erfahren, was Arbeit mit einem Menschen macht, und was sie dort fand, war Zerstörung. Im Grundsatz stützt sie ihn — das Unmögliche berührt man durch die Hände —, im Ergebnis ist sie sein Gegenbeweis: Derselbe Widerstand kann aufzehren.
+
 ---
 
 ## Weiterdenken

@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Gedanken
+
+> **29.08.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
+>
+> Sechs Sätze aus einem Jahrhundert der Trümmer — und alle sechs handeln von derselben Flucht, der vor sich selbst. Von Sartres Freiheit bis Simone Weils Arbeit am Möglichen.
+
+> **03.07.** — [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
+>
+> Keine Machtergreifung, nur Milliarden kleiner Abgaben: Wie Verantwortung entsorgt wird, Macht herrenlos wird — und warum das Urteil das Einzige ist, was man nie delegieren darf.
+
+> **03.07.** — [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
+>
+> Ein Gedankenspiel über bewusstes Vertrauen: Das Geben wirkt im Gebenden, das vermeintliche Opfer löst sich auf — aus der Machtlosigkeit wird ein mögliches Fundament.
+
 ### Zeitgeist
 
 > **28.08.** — [[Zeitgeist/Koschi Politik — ICE setzt neue Rekorde|ICE setzt neue Rekorde — der leise Vollzug und die vier Prozent]]
@@ -44,7 +58,7 @@ Die Gedankenwelten (luc)
 >
 > Er hat alle Instanzen durchlaufen — Den Haag, Sicherheitsrat, Generalversammlung — und fragt heute, was ihm das Recht gebracht hat. Aufgeben will er es trotzdem nicht.
 
-> → *4 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Spuren
 
@@ -113,20 +127,6 @@ Die Gedankenwelten (luc)
 > **15.07.** — [[Geistesblitz/Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 >
 > Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
-
-### Gedanken
-
-> **03.07.** — [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
->
-> Keine Machtergreifung, nur Milliarden kleiner Abgaben: Wie Verantwortung entsorgt wird, Macht herrenlos wird — und warum das Urteil das Einzige ist, was man nie delegieren darf.
-
-> **03.07.** — [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
->
-> Ein Gedankenspiel über bewusstes Vertrauen: Das Geben wirkt im Gebenden, das vermeintliche Opfer löst sich auf — aus der Machtlosigkeit wird ein mögliches Fundament.
-
-> **02.07.** — [[Gedanken/Das unsichtbare Netzwerk — Ubuntu|Das unsichtbare Netzwerk — Ubuntu]]
->
-> Ein Gedanke, den man lange allein trägt, bis ihn jemand ausspricht: Ich bin, weil wir sind. Über Ubuntu — das Wort, das uns fehlt, und den Alltag, in dem es längst wohnt.
 
 <!-- JOURNAL:END -->
 
