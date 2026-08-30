@@ -261,3 +261,7 @@ Das Argument doppelt geprüft. Das Bild vom Recht, das still im Alltag wirkt, oh
 
 Knaus' Migrationsmodell hängt ganz an einer Bedingung: dass UNHCR und europäische Gerichte auch in einem Drittstaat tausende Kilometer entfernt wirksam bleiben. Kellers Blick aus neun Jahren am EGMR auf die Lücke zwischen Norm und Vollzug ist die genaueste Probe auf diese Bedingung. Beide teilen dabei eine Vorsicht: Wer das Ende des Rechts ausruft, betreibt seine Erosion mit.
 
+### → [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
+
+Der Ereignisfall zu Kellers Grundsatzfrage. Die Note liest die US-Sanktionen gegen die IStGH-Präsidentin als Erosionsschritt; Keller würde einwenden, dass die Schlagzeile den Ausnahmefall zeigt und der Ausnahmefall keine Bilanz ist. Beide treffen sich an einem Punkt: Ein Gericht ohne Polizei hängt vollständig daran, dass man es weiter für ein Gericht hält — und genau dort setzen Sanktionen gegen die Spitze der Institution an.
+

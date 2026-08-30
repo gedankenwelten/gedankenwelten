@@ -94,4 +94,13 @@ Abgrenzung: Staiy ist kein Anti-Institutionalist — er plädiert für *bessere*
 
 ## Gedankenwelten-Notes
 
-*(werden ergänzt, wenn Notes im Vault Bezug auf Staiy nehmen)*
+Alle Notes, die eine Staiy-Sendung verarbeiten — neueste zuerst:
+
+- [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
+- [[Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)|Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
+- [[Zeitgeist/Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)|Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]]
+- [[Zeitgeist/Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)|Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]]
+- [[Zeitgeist/Staiy — News: Die Regierung zockt euch ab (02.04.2026)|Staiy — News: Die Regierung zockt euch ab (02.04.2026)]]
+- [[Zeitgeist/Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)|Staiy — News: NATO-Drohung, No-Kings-Proteste & Iran-Bodenoffensive (29.03.2026)]]
+- [[Zeitgeist/Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)|Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]]
+- [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)|Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]

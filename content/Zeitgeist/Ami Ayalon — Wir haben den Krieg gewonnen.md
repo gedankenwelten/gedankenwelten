@@ -239,6 +239,10 @@ Ayalons Herrschaftsanalyse mit Orwell — die Regierung braucht den äußeren Fe
 
 Das Panorama liest alle sieben Gespräche dieser Reise nebeneinander — und zeigt, was keine Einzelnote zeigen kann: Beim Wort *Genozid* gehen alle drei denkbaren Wege auseinander, beim Druck von außen steht einer gegen alle, und trotzdem beschreiben alle sieben dasselbe Nicht-Sehen.
 
+### → [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
+
+Die Note verarbeitet Ben-Gvirs Podcast-Aufruf zu nächtlichen Tötungen und die deutsche Reaktion darauf — und merkt beim Sprecher eine Lücke an: Die Hamas kommt in 41 Minuten nicht vor. Ayalon füllt genau diese Lücke von innen, indem er die Hamas als jahrelang bewusst gestützten Aktivposten israelischer Politik beschreibt. Beide Notes landen unabhängig voneinander bei Orwell, an verschiedenen Bauweisen: Ayalon bei der Sprache, die einen Feind erzeugt, die Note bei der, die eine Frage vorzeitig schließt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
