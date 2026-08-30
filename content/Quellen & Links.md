@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt (30.08.2026)
+
+| | |
+|---|---|
+| **Video** | [Wie AfD und rechte Influencer vor der Landtagswahl in Sachsen-Anhalt um Wähler werben](https://www.youtube.com/watch?v=TZVxJwJH0HU) — Kanal *DW Deutsch*, Reportage vom 30.08.2026, 12:39 Min. |
+| **Ergänzend recherchiert** | [wahlrecht.de — Sonntagsfrage Sachsen-Anhalt](https://www.wahlrecht.de/umfragen/landtage/sachsen-anhalt.htm) · [t-online — Der gar nicht so freundliche Herr Siegmund](https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101407904/afd-in-sachsen-anhalt-ulrich-siegmund-und-sein-kampf-gegen-die-presse.html) · [ZDFheute — Wer ist Ulrich Siegmund?](https://www.zdfheute.de/politik/deutschland/ulrich-siegmund-afd-sachsen-anhalt-wahlkampf-portrait-100.html) · [Campact — Der Spitzenkandidat, der Sachsen-Anhalt kippen könnte](https://www.campact.de/blog/2026/02/ulrich-siegmund-spitzenkandidat-afd-sachsen-anhalt/) |
+| **Notiz** | [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]] |
+| **Transkript** | `Gedankenwelten/Transkripte/DW_Sachsen_Anhalt_Rechte_Influencer_Transkript.txt` |
+| **Kanal** | [DW Deutsch (YouTube)](https://www.youtube.com/user/deutschewelle) · [dw.com/de](https://www.dw.com/de/) |
+
 ## Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)
 
 | | |

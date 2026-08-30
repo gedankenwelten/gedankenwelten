@@ -113,6 +113,10 @@ Sie beziffert diesen Graubereich auf **rund 20 % der Bevölkerung**: nicht recht
 
 ## Verbindungen
 
+### → [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]]
+
+Die ZEW-Zahlen sagen, das AfD-Programm entlaste Geringverdienende am wenigsten; Quent deutet die Wahl als Erlösung von der Komplexität. In Ihlewitz nennt Ulrich Siegmund aber präzise die Liste der Dinge, deren Verschwinden einen Ort unbewohnbar macht — irrational klingt das nicht. Beide Notes zusammen fragen, ob dort Irrationalität gewählt wird oder die einzige zutreffende Diagnose, die noch angeboten wird.
+
 ### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
 
 Die Medienseite des Normalisierungsmechanismus: Die reichweitenstarke NIUS-Falschmeldung im Mordfall Stade bleibt haften, die versteckte Korrektur erreicht niemanden — Wiederholung schlägt Wahrheit.

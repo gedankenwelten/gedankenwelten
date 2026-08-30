@@ -248,6 +248,10 @@ El-Mafaalani hält es für wahrscheinlich, dass Europa demokratisch bleibt — a
 
 ## Verbindungen
 
+### → [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]]
+
+Eine junge Frau in Querfurt formuliert die Misstrauens-These in Alltagssprache — es werde kein Konsens gefunden, „und dadurch verlieren die Leute prinzipiell einfach das Vertrauen“. Das erdet das Modell: Dieses Misstrauen entsteht nicht algorithmisch. Es entsteht aus einem versprochenen Jugendclub, der nie kam. Erfahrungswissen statt Fehlglaube.
+
 - [[Martin Oetting — Faschismus stoppen mit der Wahrheit]] — Oetting liefert die politische Konsequenz: Der halbgare Regierungs-Mix („das eine sagen, das andere tun") ist genau der Beschleuniger, der konstruktives in destruktives Misstrauen kippt; nur Mut zur unbequemen Wahrheit kann den Vertrauensverlust noch aufhalten
 - [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] — komplementäre Analyse: Manow erklärt AfD-Aufstieg durch Globalisierungsverlierer und Öffnung-Schließung-Konflikt; El-Mafaalani ergänzt die psychologisch-soziologische Dimension (Vertrauen/Misstrauen)
 - [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Frickes ökonomische Erklärung des Rechtsrucks (Austerität, Ungleichheit) als strukturelle Grundlage für den Vertrauensverlust, den El-Mafaalani beschreibt

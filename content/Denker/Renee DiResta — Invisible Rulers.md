@@ -387,6 +387,10 @@ Das gleiche Reframing-Werkzeug, das gegen das SIO eingesetzt wurde, wird jetzt g
 
 ## Verbindungen
 
+### → [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]]
+
+Das „Hijacking der alten Medien“ als vierzig Sekunden Rohmaterial: Ein rechter Streamer hält der DW das Mikrofon ins laufende Interview und nennt das „Zensur verhindern“ — und jede Kamera, die er blockiert, wird sein Material. Die Falle, die DiResta als Bauplan beschreibt, schnappt hier in einer deutschen Kleinstadt zu.
+
 ### → [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]]
 
 Die empirische Feldstudie zu DiRestas Theorie: Russlands hybrider Krieg im EU-Osten erfindet nichts, er verstärkt vorhandenes Misstrauen — genau der Mechanismus, den DiResta beschreibt. Die „auf einen Knopf drücken"-These der Doku ist DiRestas dezentrale Propaganda in geopolitischer Anwendung.

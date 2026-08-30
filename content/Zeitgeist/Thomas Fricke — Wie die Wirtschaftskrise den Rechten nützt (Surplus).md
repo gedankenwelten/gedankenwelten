@@ -134,6 +134,10 @@ Konkrete Ansätze:
 
 ## Verbindungen
 
+### → [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]]
+
+Der Härtefall für die ökonomische Erklärung: Im Saalekreis fiel die Arbeitslosigkeit von 21,8 auf 6,8 Prozent, alle Interviewten haben Arbeit — und die AfD steht bei 40 bis 43. Entweder greift die Kette eine Ebene tiefer, als die Arbeitslosenquote misst, oder sie greift dort gar nicht.
+
 ### → [[Martin Oetting — Faschismus stoppen mit der Wahrheit]]
 
 Ursache und Mechanik: Fricke zeigt, *warum* die Angst da ist (ökonomischer Kontrollverlust durch Umbruch und Austerität), Oetting, *wie* die AfD sie umlenkt — den „Taschenspielertrick", aus hilfloser Angst vor Übermächtigen zupackende Wut auf die Schwachen zu machen.

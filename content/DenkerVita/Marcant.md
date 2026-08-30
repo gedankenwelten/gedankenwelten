@@ -153,3 +153,7 @@ Ein Community-Konzept (Details begrenzt verfügbar), das vermutlich auf Vernetzu
 ---
 
 **Quelle dieser Vita:** Web-Recherche Mai 2026 (Theodor-Heuss-Medaille, taz, Tagesspiegel, Deutschland.de, ND-Aktuell, YouTube-Channel-Statistiken)
+
+## Cortex-Notes
+
+- [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]] — Marcant auf einem AfD-Familienfest im Saalekreis, eine Woche vor der Landtagswahl: Ein rechter Streamer stürzt sich auf ihn und macht daraus Content.
