@@ -408,6 +408,10 @@ Staiy selbst entkommt dem Muster übrigens nicht ganz. Sein Video beginnt mit ei
 
 ## Verbindungen
 
+### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
+
+Die Folge neun Tage später, nach demselben Prinzip gebaut und mit dem gegenläufigen Befund. Hier hält fünf unverbundene Meldungen ein Reflex zusammen: Wer antworten müsste, wechselt den Kanal — das Schweigen als Technik. Dort ist die Antwort jedes Mal längst gegeben, nachgerechnet und veröffentlicht, und trägt trotzdem nicht. Zwei Formen desselben Ausfalls: einmal fehlt die Auskunft, einmal liegt sie vor und wirkt nicht. Zusammengelesen ergibt sich die unbequemere Diagnose — mehr Transparenz löst das Problem nicht, weil es nie ein Informationsproblem war.
+
 ### → [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel, Gaza und das Völkerrecht im Schatten der Aufmerksamkeit]]
 
 Die Spur verfolgt seit Juni 2026 die These, das internationale System sei schnell dort, wo die Mächtigen ein Ergebnis wollen, und langsam dort, wo Rechenschaft entstünde — die Vertagung als Auswahlentscheidung. Die Sanktionen gegen Akane sind für sie ein hartes neues Datum: die Stufe nach der Vertagung. Wo Verzögerung nicht mehr reicht, wird die Instanz selbst angegriffen. Umgekehrt gibt die Spur dieser Note, was ihr fehlt — die Zeitachse. Der Befund „die Lücken werden größer, je öfter man sie benutzt" ist dort seit Wochen gemessen, samt Falsifikationsbedingung.

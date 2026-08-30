@@ -71,6 +71,10 @@ Und sie hatte Folgen bis ins Gesetzblatt: die schrittweise Aufgabe der 65-Prozen
 
 ## Verbindungen
 
+### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
+
+Vier weitere Fälle derselben Asymmetrie, in einer einzigen Nachrichtensendung. Was die Oxford-Studie hier misst — der Kampfbegriff ist ein Wort lang, die Richtigstellung braucht drei Absätze —, wiederholt sich dort an vier Gegenständen: den Planspielen des Pentagon, dem Faktenfinder zur Briefwahl, dem Wort „Beziehungstat" und einer Erbschaftsteuer-Studie an zehn durchgerechneten Mietshäusern. In allen vier Fällen liegt die Rechnung vor, und in dreien behält die Behauptung den Raum. Der Heizungshammer liefert dazu die gemessene Erklärung, warum das kein Zufall ist.
+
 ### → [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]
 
 Meinungsforscherin Mütze misst die Folge des Heizungshammers: eine „Null-eins-Debatte“, die nicht mehr an Fakten, sondern an Emotionen angreift („ein Habeck im Heizungskeller genügt“) — während die Zustimmung zu den Erneuerbaren stabil bei 60 % bleibt. Der Diskurs tobt, die Sache steht still.

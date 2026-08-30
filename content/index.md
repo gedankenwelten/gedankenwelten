@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
 
+> **30.08.** — [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
+>
+> Vier Meldungen, in denen jemand längst nachgerechnet hat — und die Behauptung trotzdem den Raum behält, weil die Rechnung Mühe kostet und die Behauptung keine.
+
 > **28.08.** — [[Zeitgeist/Koschi Politik — ICE setzt neue Rekorde|ICE setzt neue Rekorde — der leise Vollzug und die vier Prozent]]
 >
 > Rekordfestnahmen bei gefallener Aufmerksamkeit — und unter vier Prozent der Festgenommenen haben je eine Gewalttat begangen. Der Vollzug hat gelernt, leise zu sein.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Israels früherer Geheimdienstchef sagt zwei Sätze, die einander tragen: Wir haben den Krieg längst gewonnen und weigern uns, es zu sehen — und wäre ich Palästinenser, ich würde kämpfen.
 
-> **24.08.** — [[Zeitgeist/Dror Etkes — Die Landkarte der Besatzung|Dror Etkes — Die Landkarte der Besatzung]]
->
-> Er wuchs in einer Siedlung auf und kartiert heute jede neue. Sein Befund über die Zweistaatenlösung ist der unbequemste dieser Reihe: Sie ist vorbei — und er weiß nicht, was danach kommt.
-
-> → *3 weitere in* [[Zeitgeist]]
+> → *4 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

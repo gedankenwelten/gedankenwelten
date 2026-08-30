@@ -1,7 +1,7 @@
 ---
 title: Staiy — DenkerVita
 date: 2026-05-11
-aktualisiert: 2026-05-11
+aktualisiert: 2026-08-30
 tags: [denker-vita, medienkritik, demokratie, deutschland, rechtsextremismus, youtube, aktivismus]
 ---
 
@@ -96,6 +96,7 @@ Abgrenzung: Staiy ist kein Anti-Institutionalist — er plädiert für *bessere*
 
 Alle Notes, die eine Staiy-Sendung verarbeiten — neueste zuerst:
 
+- [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
 - [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
 - [[Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)|Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 - [[Zeitgeist/Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)|Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]]

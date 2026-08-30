@@ -163,6 +163,10 @@ Dagegen helfe keine individuelle Blockier-Taktik, sondern Regulierung: Der Digit
 
 ## Verbindungen
 
+### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
+
+Der konkrete Fall zu Brodnigs Begriffsarbeit. In Gosen-Neu Zittau tötet ein Neunzehnjähriger seine Ex-Freundin und den Erzieher, der dazwischenging; die Staatsanwaltschaft geht von einer „Beziehungstat" aus, die Landtagspräsidentin nennt es einen „feigen Femizid". Genau dazwischen liegt Kate Mannes Unterscheidung, die Brodnig hier einführt: Ein Wort beschreibt eine Gesinnung zwischen zwei Menschen, das andere eine Funktion in einer Reihe. Die Note trägt außerdem die belastbaren Zahlen nach — 308 getötete Mädchen und Frauen 2024, davon 132 durch (Ex-)Partner — und zeigt, warum das BKA vom Begriff „Femizid" inzwischen abrückt.
+
 ### → [[Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Derselbe KI-Bildgenerator (Grok) am weiblichen Körper, von entgegengesetzten Enden: Brodnig dokumentiert das *Ausziehen* realer Frauen, Nocun das *Erschaffen* idealisierter Fake-Frauen für Antifeminismus und Beschützernarrativ — zusammen das volle Bild einer Technologie, die weibliche Bilder in beide Richtungen verwertet.
