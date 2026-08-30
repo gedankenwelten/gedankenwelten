@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*295 Notes — automatisch generiert · nach Thema sortiert*
+*296 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -162,6 +162,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Sari Nusseibeh — Die Geduld des Philosophen|Sari Nusseibeh — Die Geduld des Philosophen]] — Warum nahm Schahrazad kein Messer mit ins Schlafgemach? Ein palästinensischer Philosoph beantwortet aus einem Märchen die Frage, warum Gewalt niemals der Ausweg aus Gewalt ist.
 - [[Zeitgeist/Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg|Senkt KI die Hemmschwelle zum Krieg? — Dahlmann und Kuhle auf der re:publica]] — Wenn die Maschine die Ziele wählt und der Mensch nur noch wegklickt, entkoppelt sich der Krieg von der Verantwortung — eine Debatte über das, was dann fehlt.
 - [[Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|Spahns Maskendeal und das Spendendinner]]
+- [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]] — Vier Meldungen, in denen jemand längst nachgerechnet hat — und die Behauptung trotzdem den Raum behält, weil die Rechnung Mühe kostet und die Behauptung keine.
 - [[Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)|Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 - [[Zeitgeist/Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)|Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]]
 - [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]] — Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
