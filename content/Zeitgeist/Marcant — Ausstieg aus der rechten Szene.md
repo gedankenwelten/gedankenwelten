@@ -172,6 +172,10 @@ Das Unkomfortable daran: Marcants Methode funktioniert mit denselben algorithmis
 
 ## Verbindungen
 
+### → [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]]
+
+Marcant selbst auf einem AfD-Festplatz im Saalekreis, eine Woche vor der Wahl — und dort die Kehrseite seiner Methode: Ein rechter Streamer stürzt sich auf ihn und macht daraus Content. Seine „Trendrechts“-These erklärt dort den jungen Anhänger, der sich von der schwarzen Sonne ausdrücklich distanziert und trotzdem bleibt.
+
 ### → [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
 
 Quent analysiert denselben Radikalisierungsmechanismus von der Außenperspektive: Ohnmacht als Einfallstor, Faschismus als Technik der Emotionalisierung. Marcant beschreibt ihn von innen. Und beider Gegenrezept konvergiert: Quents *„Hoffnung kommt vom Machen"* und Marcants Freundschaft als Rettungsanker sind beide Formen wiederhergestellter Selbstwirksamkeit.

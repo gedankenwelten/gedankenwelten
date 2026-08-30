@@ -105,6 +105,10 @@ Für alle, die einzelnen Fällen nachgehen wollen — geordnet wie im Text:
 
 ## Verbindungen
 
+### → [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]]
+
+Der Grenzfall am anderen Ende der Kaperung: Die schwarze Sonne wurde in der Wewelsburg eigens erfunden, gekapert hat sie niemand — und auf dem Querfurter Festplatz ist auch niemand arglos. Ein junger AfD-Anhänger benennt das Zeichen, verwirft es ausdrücklich und bleibt. Das Symbol ist dort ein Eintrittspreis, kein Missverständnis.
+
 ### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
 
 Die Mechanik dieses Panoramas, angewandt auf ein Wahlverfahren. Wie das OK-Zeichen zum Hasssymbol wurde, weil Trolle es behaupteten, wird die Briefwahl verdächtig, weil die AfD sie verdächtigt — mit dem zusätzlichen Dreh, dass die Partei ihre eigenen Wähler seit Jahren von der Briefwahl abhält und das entstehende Ungleichgewicht anschließend als Manipulationsbeweis vorträgt. Der Verdacht erzeugt seine eigene Evidenz. Was dort allerdings fehlt, ist die Gegenrichtung, die dieses Panorama betont: Ein Zeichen lässt sich zurückerobern. Ein Vertrauensverlust in die Auszählung hat kein Hongkong.

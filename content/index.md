@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
 
+> **30.08.** — [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|AfD und rechte Influencer vor der Landtagswahl in Sachsen-Anhalt]]
+>
+> Zwischen dem guten Leben und der fehlenden Perspektive liegt ein Ort — und wer ihn zuerst benennt, gewinnt die Jungen, auch mit der schwarzen Sonne im Rücken.
+
 > **30.08.** — [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
 >
 > Vier Meldungen, in denen jemand längst nachgerechnet hat — und die Behauptung trotzdem den Raum behält, weil die Rechnung Mühe kostet und die Behauptung keine.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Sechs Texte, ein Abend, eine Frage: Woher kommen die Ideen, die im Weißen Haus regieren — und was tut man, wenn das Lesen selbst zur Ablenkung wird?
 
-> **24.08.** — [[Zeitgeist/Ami Ayalon — Wir haben den Krieg gewonnen|Ami Ayalon — Wir haben den Krieg gewonnen]]
->
-> Israels früherer Geheimdienstchef sagt zwei Sätze, die einander tragen: Wir haben den Krieg längst gewonnen und weigern uns, es zu sehen — und wäre ich Palästinenser, ich würde kämpfen.
-
-> → *4 weitere in* [[Zeitgeist]]
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Spuren
 
