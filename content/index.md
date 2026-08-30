@@ -22,21 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Gedanken
-
-> **29.08.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
->
-> Sechs Sätze aus einem Jahrhundert der Trümmer — und alle sechs handeln von derselben Flucht, der vor sich selbst. Von Sartres Freiheit bis Simone Weils Arbeit am Möglichen.
-
-> **03.07.** — [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
->
-> Keine Machtergreifung, nur Milliarden kleiner Abgaben: Wie Verantwortung entsorgt wird, Macht herrenlos wird — und warum das Urteil das Einzige ist, was man nie delegieren darf.
-
-> **03.07.** — [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
->
-> Ein Gedankenspiel über bewusstes Vertrauen: Das Geben wirkt im Gebenden, das vermeintliche Opfer löst sich auf — aus der Machtlosigkeit wird ein mögliches Fundament.
-
 ### Zeitgeist
+
+> **30.08.** — [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
+>
+> Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
 
 > **28.08.** — [[Zeitgeist/Koschi Politik — ICE setzt neue Rekorde|ICE setzt neue Rekorde — der leise Vollzug und die vier Prozent]]
 >
@@ -54,11 +44,21 @@ Die Gedankenwelten (luc)
 >
 > Er wuchs in einer Siedlung auf und kartiert heute jede neue. Sein Befund über die Zweistaatenlösung ist der unbequemste dieser Reihe: Sie ist vorbei — und er weiß nicht, was danach kommt.
 
-> **24.08.** — [[Zeitgeist/Xavier Abu Eid — Was vom Voelkerrecht uebrig ist|Xavier Abu Eid — Was vom Völkerrecht übrig ist]]
->
-> Er hat alle Instanzen durchlaufen — Den Haag, Sicherheitsrat, Generalversammlung — und fragt heute, was ihm das Recht gebracht hat. Aufgeben will er es trotzdem nicht.
-
 > → *3 weitere in* [[Zeitgeist]]
+
+### Gedanken
+
+> **29.08.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
+>
+> Sechs Sätze aus einem Jahrhundert der Trümmer — und alle sechs handeln von derselben Flucht, der vor sich selbst. Von Sartres Freiheit bis Simone Weils Arbeit am Möglichen.
+
+> **03.07.** — [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
+>
+> Keine Machtergreifung, nur Milliarden kleiner Abgaben: Wie Verantwortung entsorgt wird, Macht herrenlos wird — und warum das Urteil das Einzige ist, was man nie delegieren darf.
+
+> **03.07.** — [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
+>
+> Ein Gedankenspiel über bewusstes Vertrauen: Das Geben wirkt im Gebenden, das vermeintliche Opfer löst sich auf — aus der Machtlosigkeit wird ein mögliches Fundament.
 
 ### Spuren
 

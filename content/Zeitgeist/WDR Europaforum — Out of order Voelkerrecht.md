@@ -228,6 +228,10 @@ Jaffs 85 Prozent bekommen bei Prashad ihre institutionelle Definition: Der Globa
 
 Der Gegentest zu Heinrichs Maßstab. Er räumt Kosovo als Rechtsbruch ein und sortiert dann nach Größenordnung — Apfel gegen Marktstand. Kaleck, Ambos und Jaff halten dagegen, dass genau dieses Sortieren westliche Praxis ist und die Ordnung für den Großteil der Menschheit nie in Ordnung war. Wer beide liest, sieht: Der Maßstab taugt nur, solange jemand ihn glaubwürdig hält.
 
+### → [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
+
+Was das Europaforum grundsätzlich verhandelt, tritt hier als Ereignis ein: Die USA sanktionieren die Präsidentin des Gerichtshofs, und die Bundesregierung reagiert auf einen Aufruf zum Töten mit dem Prüfen eines Einreiseverbots. Zwei frische Belege für Kalecks Befund, das folgenlose Schweigen sei gefährlicher als der Rechtsbruch selbst — und ein Testfall für Ambos’ Gegenposition, es fehle der Wille, nicht das Recht.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

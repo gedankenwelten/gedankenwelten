@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)
+
+| | |
+|---|---|
+| **Video** | [🗞️ So weit ist Trump noch nie gegangen…](https://www.youtube.com/watch?v=kNhLN3IX6rc) — Kanal *Meinungsmache*, Sendung vom 19.08.2026, 41 Min. |
+| **Verarbeitete Artikel** | [Deutschlandfunk — Frontalangriff auf Völkerstrafrecht](https://www.deutschlandfunk.de/frontalangriff-auf-voelkerstrafrecht-internationaler-strafgerichtshof-bekommt-breite-unterstuetzung-100.html) · [Tagesschau — Millionenverluste Krankenkassen](https://www.tagesschau.de/investigativ/millionenverluste-krankenkassen-100.html) · [Tagesschau — Asylstreit Italien/Deutschland](https://www.tagesschau.de/ausland/asylstreit-italien-deutschland-100.html) · [Tagesschau — Merz' Sommerpause](https://www.tagesschau.de/inland/innenpolitik/merz-sommerpause-schweigen-100.html) · [Zeit — Ben-Gvir, Merz, gezielte Tötungen](https://www.zeit.de/politik/ausland/2026-08/itamar-ben-gvir-friedrich-merz-cdu-israel-gezielte-toetungen-gxe) |
+| **Notiz** | [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]] |
+| **Vita** | [[DenkerVita/Staiy]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Staiy_Meinungsmache_Trump_ICC_Transkript.txt` |
+| **Kanal** | [Meinungsmache (YouTube)](https://www.youtube.com/@staiy) · [meinungsmache.de](https://meinungsmache.de) |
+
 ## Carlotta Voß & Moritz Rudolph — Die Geister hinter MAGA
 
 | | |

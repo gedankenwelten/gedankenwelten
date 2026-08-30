@@ -219,6 +219,10 @@ Zwischen beiden Auftritten liegt eine leise Verschiebung. Hier erklärt Hartmann
 
 ---
 
+### → [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
+
+Der Verius-Fonds als frischer Fall zu Hartmanns Satz, Elite sei immer Macht und nicht Verantwortung. Rund eine Milliarde Euro treuhänderisch gehaltenes Geld verschwindet in einem Hochrisikofonds, und die meisten Betroffenen beantworten die Presseanfrage nicht. Dieselbe Konstruktion wie bei Cum-Ex: Jeder Einzelschritt sieht legal aus, der gesunde Menschenverstand widerspricht trotzdem.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

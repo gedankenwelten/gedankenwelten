@@ -240,6 +240,10 @@ Das BR-Feature "Der Arbeiter und die AfD" über Peter aus Köln ist die empirisc
 
 Was hier als Schüsse auf die Sea-Watch 5 erscheint, heißt bei Knaus nüchtern: „Italien ist abhängig von Libyen." Er zieht daraus die Forderung nach mehr Abkommen statt weniger, damit kein einzelner Partner Europa erpressen kann. Diese Note liefert die Gegenerfahrung — was aus einem Abkommen wird, wenn die Aufmerksamkeit weiterzieht. Sein Vorwurf an die NGOs und ihr Misstrauen treffen hier direkt aufeinander.
 
+### → [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
+
+Salvinis Forderung, Deutschland solle den NGO-Rettungsschiffen die Flagge entziehen, bevor auch nur eine Person rücküberstellt werde, bekommt hier ihren Gegenstand: die beschossene Sea-Watch 5, über 60 dokumentierte Angriffe der sogenannten libyschen Küstenwache, 35.000 Tote im Mittelmeer. Geteilt ist der Befund über Normalisierung — dort auf der Aufmerksamkeitsseite, in der neuen Note auf der Seite der Zuständigkeit.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

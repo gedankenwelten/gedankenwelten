@@ -227,3 +227,8 @@ Direkte Konsequenzkette: Minijobs ohne Sozialversicherungspflicht → keine Rent
 ### → [[Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit]]
 
 Flassbeck liefert die makroökonomische Analyse (Sparparadoxon) zur selben Rentendebatte
+
+### → [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
+
+Derselbe Sprecher fünf Monate später, gegen sich selbst gelesen. Hier begrüßt Staiy die Riester-Nachfolge samt Altersvorsorgedepot ohne Garantie; im August liest er vor, was geschieht, wenn Vorsorgegeld auf ein Renditeversprechen trifft, das niemand hinterfragt — knapp eine Milliarde Euro aus Krankenkassen, Kirchenkreisen und ärztlichen Versorgungswerken im Verius-Fonds. Die Bewährungsprobe zur These vom März: Hängt kapitalgedeckte Vorsorge an der Produktqualität oder an der Sorgfalt der Treuhänder?
+

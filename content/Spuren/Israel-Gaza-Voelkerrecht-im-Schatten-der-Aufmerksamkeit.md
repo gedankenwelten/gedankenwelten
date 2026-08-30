@@ -195,6 +195,10 @@ Die Praxis-Antwort auf die Ohnmacht, die diese Spur misst: Wenn Rechenschaft im 
 
 Diese Spur ist der laufende Beleg für das, was Panmunjom in dreiundsiebzig Jahren zeigt — ein Waffenstillstand als Zustand, nicht als Übergang. Die Note zum 73. Jahrestag zieht dieselbe doppelte Bilanz, die hier als Pflicht-Gegenbeobachtung steht: ein Erfolg, wenn man Tote zählt, ein Scheitern, wenn man Leben zählt. Nur mit einem Datum, das noch läuft.
 
+### → [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
+
+Die Stufe nach der Vertagung. Am 19.08.2026 sanktionieren die USA erstmals die amtierende Präsidentin des Strafgerichtshofs — die Bewegung geht vom Ankläger über die Richterbank bis an die Spitze der Institution. Für diese Spur ist das ein Härtetest der eigenen These: Wo Verzögerung nicht mehr reicht, wird die Instanz angegriffen, die Rechenschaft überhaupt erst ermöglicht. Die Note legt daneben vier weitere Fälle desselben Reflexes aus einem einzigen deutschen Nachrichtennachmittag — Antwortverweigerung, jedes Mal legal.
+
 ## Quellen
 
 - [ICJ — South Africa v. Israel (Verfahrensstand, Wikipedia-Überblick mit Primärquellen)](https://en.wikipedia.org/wiki/South_Africa's_genocide_case_against_Israel)
