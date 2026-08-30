@@ -46,6 +46,16 @@ Die Gedankenwelten (luc)
 
 > → *3 weitere in* [[Zeitgeist]]
 
+### Spuren
+
+> **30.08.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
+
+> **28.08.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+>
+> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
+
 ### Gedanken
 
 > **29.08.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
@@ -59,16 +69,6 @@ Die Gedankenwelten (luc)
 > **03.07.** — [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
 >
 > Ein Gedankenspiel über bewusstes Vertrauen: Das Geben wirkt im Gebenden, das vermeintliche Opfer löst sich auf — aus der Machtlosigkeit wird ein mögliches Fundament.
-
-### Spuren
-
-> **28.08.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
-
-> **24.08.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
->
-> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
 ### Panorama
 

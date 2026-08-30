@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*294 Notes — automatisch generiert · nach Thema sortiert*
+*295 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -164,6 +164,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|Spahns Maskendeal und das Spendendinner]]
 - [[Zeitgeist/Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)|Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)]]
 - [[Zeitgeist/Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)|Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]]
+- [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]] — Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
 - [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)|Staiy — News: Krasser Machtmissbrauch von CDU/CSU (25.03.2026)]]
 - [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Faschismus als entfesselte Eigentumslogik oder als Prozess der Faschisierung? Eva von Redecker und Damir Skenderovic vermessen, wo der Rechtsruck endet und das Kippen beginnt.
