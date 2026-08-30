@@ -52,6 +52,10 @@ Die Gedankenwelten (luc)
 >
 > Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
 
+> **30.08.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
+>
+> Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
+
 > **28.08.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
 >
 > Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.

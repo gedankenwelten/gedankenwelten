@@ -361,6 +361,17 @@ Die Forscherin, die genau das Phänomen untersucht hat, an dem der Erbschaftsteu
 
 Der Tagesschau-Kommentar zum Halbjahr ist ein hartes neues Datum für diese laufende Spur. Sie prüft seit Monaten die These, der Krieg sei an seinem eigenen realen Ziel gescheitert und habe das wankende Regime konsolidiert; der Kommentar liefert die Kostenseite dazu — leere Flugabwehr-Bestände, gerissene Lieferketten, stumpf gewordene Sekundärsanktionen, die Erwägung, zerstörte Stützpunkte nicht wieder aufzubauen. Umgekehrt gibt die Spur dieser Note die Zeitachse und den eingebauten Gegner: Die Bedrohung, gegen die der Krieg sich richtete, war real, und die Fehlschlag-Diagnose trägt eine Konfidenz, keine Gewissheit. Und sie schärft den Befund des Kommentars — dass die Planspiele jahrzehntelang identisch verliefen, macht das Ignorieren zum Verfahren, nicht zum Betriebsunfall.
 
+### → [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
+
+Der Briefwahl-Block dieser Note hat den Sweep dieser Spur vom 30.08. ausgelöst — und die Spur gibt ihm den
+Teil zurück, den der Faktencheck offen ließ. Korrigiert wurde hier die Adresse: Trumps Kampagne 2020, nicht
+Project 2025. Ungeprüft blieb die Richtung. Die AfD-Bundestagsfraktion schrieb schon im Oktober 2018
+„Vertrauen Sie nicht der Briefwahl", zur Bundestagswahl 2021 warb sie mit „Steck ihn selber rein!" für die
+Urne — die deutsche Erzählung ist die ältere. Damit ist auch „billige Kopie" zu freundlich gegenüber der
+AfD und zu unfreundlich gegenüber der Wirklichkeit: Beide Bewegungen rechnen dieselbe Rechnung, weil ihre
+Wähler an der Urne stehen und die der Gegner schreiben. Was aussieht wie Abschreiben, ist eine geteilte
+Anreizlage — und die lässt sich nicht kappen wie eine Leitung.
+
 ---
 
 ## Weiterdenken
