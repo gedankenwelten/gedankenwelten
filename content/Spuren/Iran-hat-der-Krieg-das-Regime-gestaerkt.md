@@ -177,6 +177,10 @@ Der zweite Befund ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — A
 
 ## Verbindungen
 
+### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
+
+Ein neues Datum zur Kostenseite dieser Spur, mit Vorbehalt. Der Tagesschau-Kommentar zum Halbjahr (Carsten Kühntopp, 28.08.2026) trägt zusammen, was der Krieg die USA gekostet hat: leere Flugabwehr-Bestände, gerissene Lieferketten am Golf, stumpf gewordene Sekundärsanktionen, die Erwägung, zerstörte Stützpunkte nicht wieder aufzubauen. Der Vorbehalt gehört dazu — es ist ein Kommentar, und die stärksten Bilder darin stehen ohne Quellenangabe. Als Verlaufsbeleg für diese Spur ist der Text darum ein Indiz, kein Nachweis.
+
 ### → [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel & Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
 
 Schwester-Spur derselben Region: dort versandet das Recht im Verfahrenstempo, hier wird Völkerrecht im Angriff *selbst* zur Streitfrage (Tötung eines Staatsoberhaupts während Verhandlungen). Beide prüfen, was Gewalt mit der Ordnung macht, die sie zu schützen vorgibt.

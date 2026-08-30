@@ -223,6 +223,10 @@ Der Appell: Statt nur zu feiern, sollte die Energie genutzt werden, um blockiere
 
 ## Verbindungen
 
+### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
+
+Die Anwendung dieser Note auf einen konkreten Fall — und ihr stiller Widerspruch. Drei Monate später steht Staiy vor derselben Frage, diesmal bei einem Femizid in Brandenburg mit deutschem Tatverdächtigen, und markiert seine Beobachtung ausdrücklich als „anekdotische Evidenz". Die Zahlen, die er hier ausgezählt hat — Aschaffenburg viereinhalb Tage auf den Startseiten, Leipzig keine zwei —, ruft er nicht ab. Wer die eigene Messung kennt und im Ernstfall trotzdem zur Anekdote greift, zeigt genau, was die neuere Note über alle vier ihrer Blöcke behauptet: Die Rechnung existiert, und sie wird nicht abgerufen.
+
 ### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
 
 Der Beweis-Fall für die hier beschriebene Triggermedium-These: NIUS treibt die Logik „Angst + Migration + Steuergeld = Reichweite“ im Mordfall Stade bis zur falschen Beschuldigung einer Unbeteiligten.

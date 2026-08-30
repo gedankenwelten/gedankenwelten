@@ -105,6 +105,10 @@ Für alle, die einzelnen Fällen nachgehen wollen — geordnet wie im Text:
 
 ## Verbindungen
 
+### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
+
+Die Mechanik dieses Panoramas, angewandt auf ein Wahlverfahren. Wie das OK-Zeichen zum Hasssymbol wurde, weil Trolle es behaupteten, wird die Briefwahl verdächtig, weil die AfD sie verdächtigt — mit dem zusätzlichen Dreh, dass die Partei ihre eigenen Wähler seit Jahren von der Briefwahl abhält und das entstehende Ungleichgewicht anschließend als Manipulationsbeweis vorträgt. Der Verdacht erzeugt seine eigene Evidenz. Was dort allerdings fehlt, ist die Gegenrichtung, die dieses Panorama betont: Ein Zeichen lässt sich zurückerobern. Ein Vertrauensverlust in die Auszählung hat kein Hongkong.
+
 ### → [[Zeitgeist/republica26 — Wie gelingt die Energiewende]]
 
 Nicht ein Symbol, sondern ein ganzes *Thema* wird gekapert: Energieunabhängigkeit als „typisches AfD-Thema“, das „den Grünen zugeschrieben“ ist. Mützes Antwort — über den ökonomischen Case statt Parteirhetorik zurückholen — ist der Versuch der Rückeroberung.

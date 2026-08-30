@@ -175,6 +175,10 @@ Quelle: [Ungleichheitsforscherin Martyna Linartas über Umverteilung von Reichtu
 
 ## Verbindungen
 
+### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
+
+Der empirische Beleg zu Linartas' Befund über Erbschaftsteuer-Narrative — und zugleich die Probe darauf, wie wenig er ausrichtet. Eine Studie des Netzwerks Steuergerechtigkeit rechnet zehn vermietete Mehrfamilienhäuser unter absichtlich ungünstigen Annahmen durch und findet in keinem einzigen Fall, dass die Erbschaftsteuer zum Verkauf zwingt; der effektive Steuersatz liegt beim Münchner Beispiel bei 11,5 statt nominal 19 Prozent, und die wohlhabendsten dreißig Prozent halten rund 96 Prozent des vermieteten Immobilienvermögens. Linartas erklärt, warum das die Debatte nicht bewegt: Je ungleicher eine Gesellschaft, desto fester glaubt sie an die Leistungserzählung.
+
 ### → [[phoenix-Runde — Rentenreform Wer gewinnt wer verliert]]
 Die phoenix-Runde streitet über die gesetzliche Kapitalrente; Linartas liefert die Verteilungsklinge dazu — kapitalgedeckte Vorsorge setzt Kapital voraus, die Ungleichheit verdoppelt sich im Alter.
 

@@ -138,6 +138,10 @@ Woher das Geld kommt, ist unklar — Presseanfragen blieben unbeantwortet.
 
 ## Verbindungen
 
+### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
+
+Der deutsche Kleinfall zur ungarischen Vollmaschine. Dieselbe Kampagne — Storm-1516 — produzierte zur Bundestagswahl 2025 ein gefälschtes Video vom angeblichen Schreddern von AfD-Briefwahlstimmen; die Note zeigt, wie diese Fälschung in eine laufende AfD-Erzählung von der unsicheren Briefwahl greift. Für den deutschen Fall ist die ungarische Erfahrung die wichtigere Probe: Orbán fuhr die volle Maschine und verlor trotzdem. Das relativiert die Allmacht der Fälschung, ohne zu entwarnen.
+
 ### → [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt]]
 
 Nocun zeigt die privatwirtschaftliche Komplementärseite: Während rabbit hole staatlich orchestrierte KI-Propaganda (Orbán/Fidesz) dokumentiert, analysiert Nocun das Ecosystem privater Akteure — Fake-Frauen, Fake-Rabbiner, Verfallporn. Zusammen das vollständige Bild: KI-Propaganda als Zwei-Sektor-Infrastruktur aus Staat und Markt.

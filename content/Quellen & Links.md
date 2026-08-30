@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)
+
+| | |
+|---|---|
+| **Video** | [🗞️ NEWS: Ist die Briefwahl unsicher? FAKTENCHECK!](https://www.youtube.com/watch?v=vmaCNzXI6OA) — Kanal *Meinungsmache*, Sendung vom 28.08.2026, 39 Min. |
+| **Verarbeitete Artikel** | [Tagesschau — Sechs Monate Irankrieg (Kommentar)](https://www.tagesschau.de/kommentar/sechs-monate-irankrieg-100.html) · [Tagesschau Faktenfinder — Briefwahl-Manipulationsvorwürfe Sachsen-Anhalt](https://www.tagesschau.de/faktenfinder/briefwahl-manipulation-landtagswahl-sachsen-anhalt-100.html) · [Tagesspiegel — Haftantrag wegen zweifachen Mordes, Gosen-Neu Zittau](https://www.tagesspiegel.de/potsdam/brandenburg/staatsanwaltschaft-stellt-haftantrag-wegen-zweifachen-mordes-ex-freund-soll-schulerin-und-horterzieher-an-brandenburger-schule-mit-messer-getotet-haben-15989470.html) · [Zeit — Erbschaftsteuer auf Immobilien](https://www.zeit.de/geld/2026-08/erbschaftsteuer-immobilien-erbe-einnahmen-miete) |
+| **Notiz** | [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]] |
+| **Vita** | [[DenkerVita/Staiy]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Staiy_Briefwahl_2026-08-29_Transkript.txt` |
+| **Kanal** | [Meinungsmache (YouTube)](https://www.youtube.com/@staiy) · [meinungsmache.de](https://meinungsmache.de) · [Meinungsmache-App (iOS)](https://apps.apple.com/de/app/diemeinungsmache/id6772943165) |
+
 ## Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)
 
 | | |

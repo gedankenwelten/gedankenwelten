@@ -73,7 +73,7 @@ Die Maßnahme kostet den Bund **185 Millionen Euro in 2026**, bis 2030 steigend 
 
 [▶ 17:41](https://www.youtube.com/watch?v=Vh5Cf4DgNRY&t=1061) — Das Paradox entsteht durch das Zusammenspiel der Instrumente: Die Einkommenssteuer wird gesenkt — was Geringverdienern kaum hilft, weil sie ohnehin wenig davon zahlen (im Schnitt nur 27 € Entlastung pro Jahr). Gleichzeitig soll die Mehrwertsteuer von 19 auf 21 % steigen, was **ausgerechnet jene trifft, die nahezu ihr gesamtes Einkommen für den Alltag ausgeben müssen**.
 
-[▶ 20:43](https://www.youtube.com/watch?v=Vh5Cf4DgNRY&t=1243) — Steuerexpertin Julia Jermann (Netzwerk Steuergerechtigkeit): *„Wenn ich die unteren ein bisschen über die Einkommenssteuer entlaste und dann mit der Mehrwertsteuer wieder voll reinknalle, dann sind sie unterm Strich am Ende belastet."*
+[▶ 20:43](https://www.youtube.com/watch?v=Vh5Cf4DgNRY&t=1243) — Steuerexpertin Julia Jirmann (Netzwerk Steuergerechtigkeit): *„Wenn ich die unteren ein bisschen über die Einkommenssteuer entlaste und dann mit der Mehrwertsteuer wieder voll reinknalle, dann sind sie unterm Strich am Ende belastet."*
 
 Haushalte unter 1.300 € Nettoeinkommen geben laut Statistischem Bundesamt bereits 64% davon für Lebensmittel und Wohnen aus — eine Mehrwertsteuererhöhung trifft sie proportional am härtesten. Die bereits beschlossene Senkung der Unternehmenssteuer und der Gastronomie-Mehrwertsteuer dagegen kommen in diesen Einkommensklassen kaum an.
 
