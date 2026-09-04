@@ -181,6 +181,10 @@ Diese Beobachtung ist die intellektuell stärkste der Analyse: Tiefe schützt nu
 
 ## Verbindungen
 
+### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
+
+Dieselbe Diagnose zweieinhalb Monate später, aus dem Mund von Katrin Eigendorf und eine Stufe steiler: Russland als „Auslaufmodell", das aus Verzweiflung zuschlägt. Die Zahlen von hier tragen sie — und der Faktencheck dort hält dagegen, dass BOFIT für 2026 bis 2028 Stagnation erwartet, nicht Kollaps. Zusammen datieren die beiden Notes eine Erzählung, die seit 2022 jährlich neu terminiert wird. Das Gegengift steht schon hier: Ein Regime, das sich das Kriegsende wirtschaftlich nicht leisten kann, ist keine auslaufende Maschine, sondern eine ohne Bremse.
+
 ### → [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
 Die direkte Vorgeschichte derselben Stimme: Dort die ukrainischen Geländegewinne und Putin „unter Druck" im April, hier zwei Monate später die Verdichtung auf die Heimatfront — Drohnen über Moskau, Benzinrationierung, Krim abgeschnürt. Zusammen lesen sich die beiden Notes als Flemigs These einer fortschreitenden Erosion: erst die Front, dann das Hinterland.
 

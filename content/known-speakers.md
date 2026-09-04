@@ -956,3 +956,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Simone Weil
 **Status:** ✓ Vollanalyse — [[DenkerVita/Simone Weil]]
+
+## Katrin Eigendorf
+**Status:** ✓ Vollanalyse — [[DenkerVita/Katrin Eigendorf]]
+
+## Ulf Röller
+**Status:** ✓ Vollanalyse — [[DenkerVita/Ulf Roeller]]

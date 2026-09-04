@@ -298,6 +298,10 @@ Ein Kontinent, der eben noch auf der Speisekarte stand, ist am Ende der Rede der
 
 ## Verbindungen
 
+### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
+
+Der Fall, an dem Münklers Diagnose politisch wird. Was er begrifflich beschreibt — das Dritte zwischen Krieg und Frieden, für das Grotius keine Kategorie vorsah —, spricht der deutsche Innenminister am 1. September 2026 aus: kein Krieg, aber tägliches Ziel hybrider Kriegsführung. Auch seine These, Sabotage ziele auf Unzufriedenheit statt auf Schaden, findet dort ihre Anschauung. Der Unterschied liegt im Rezept: Münkler will Hierarchisierung und eigene Abschreckung, die ZDF-Runde bilanziert bescheidener, dass Europa überhaupt noch da ist.
+
 ### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
 
 Dieselbe Lage, zwei Tage später aufgenommen, von der entgegengesetzten Seite betrachtet — und mit entgegengesetztem Rat. Die Sinologin beschreibt Münklers Dreieck aus Peking und nennt es eine *ménage à trois*, in der Grönland, die Ostukraine und Taiwan als vertrauensbildende Pfänder getauscht werden; sie liefert damit die Innenansicht zu dem, was er von außen als Sandwich erlebt. Wo er die chinesischen Lebensmittelreserven als Beleg für das Ende der Betriebswirte-Ära anführt, erklärt sie deren Ursprung: Worst-Case-Denken einer Partei, deren eigentliche Angst nicht Washington gilt, sondern dem Kontrollverlust im eigenen Land. Und seine 17+1-Kausalkette bekommt bei ihr eine schärfere Fassung — die geplante Entwicklungsbank der Shanghaier Organisation, ausdrücklich als Auffangnetz für Länder gedacht, die aus der EU austreten.
