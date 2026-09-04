@@ -255,6 +255,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[DenkerVita/Katrin Eigendorf|Katrin Eigendorf]]** — ZDF-Sonderkorrespondentin für Krisenregionen (*1962); seit den 1990ern aus Kriegsgebieten — Tschetschenien, Afghanistan, Nahost, Ukraine; zweimal Moskau-Korrespondentin (1993–96 RTL, 2015–18 ZDF); Hanns-Joachim-Friedrichs-Preis 2021, Grimme-Preis 2022, zweimal Journalistin des Jahres; *Putins Krieg* (2022), *Erzählen, was ist* (2026); These: Empathie ist ein Erkenntnisinstrument, keine Parteinahme — und Ausgewogenheit ist keine Symmetrie zwischen Angreifer und Angegriffenem
+
 **[[DenkerVita/Kai Ambos|Kai Ambos]]** — Völker- und Strafrechtler (Uni Göttingen), Richter am Kosovo-Sondertribunal in Den Haag; Standardwerke zum Völkerstrafrecht (*Treatise on International Criminal Law*); These: Nicht das Völkerrecht ist das Problem, sondern seine selektive Durchsetzung — westliche Doppelmoral (*Doppelmoral — Der Westen und die Ukraine*, 2022)
 
 **[[DenkerVita/Kai Michel|Kai Michel]]** — Historiker und Literaturwissenschaftler; mit Carel van Schaik die evolutionäre Bibel-Trilogie (*Tagebuch der Menschheit*, *Wahrheit über Eva*, *Mensch sein*); die drei Naturen des Menschen, Religion als Bewältigungs- und Normalisierungsmaschine, egalitärer Normalzustand des Homo sapiens
@@ -426,6 +428,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Moritz Rudolph|Moritz Rudolph]]** — Philosoph, Politikwissenschaftler und Redakteur des *Philosophie Magazins* (Leipzig, geb. 1989); Linkshegelianer aus der Kritischen Theorie — der Weltgeist schwimmt wie ein Lachs stromaufwärts zurück nach China und erscheint als künstliche Intelligenz; *Der Weltgeist als Lachs* (2021), *Einheit und Zerfall* (2025)
 
 **[[DenkerVita/Hartmut Rosa|Hartmut Rosa]]** — Soziologe und Sozialphilosoph (Jena, Max-Weber-Kolleg Erfurt); fragt nicht, wie Gesellschaft gerechter, sondern wie Leben lebendig wird — soziale Beschleunigung, Resonanz, Unverfügbarkeit; *Beschleunigung* (2005), *Resonanz* (2016), *Unverfügbarkeit* (2018)
+
+**[[DenkerVita/Ulf Roeller|Ulf Röller]]** — Fernsehjournalist, Leiter des ZDF-Studios Brüssel (zuvor acht Jahre Washington, drei Jahre Peking); Hanns-Joachim-Friedrichs-Preis 2020 für die Berichterstattung aus China und Hongkong — europäische Souveränität, transatlantische Erosion und China als systemischer Rivale, gesehen von jemandem, der beide Pole von innen kennt
 
 ## S
 

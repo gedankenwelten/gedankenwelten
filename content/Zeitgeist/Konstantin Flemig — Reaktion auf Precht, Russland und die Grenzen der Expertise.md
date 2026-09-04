@@ -188,6 +188,10 @@ Damit bleibt der reale Dissens kleiner, als das kämpferische Format suggeriert:
 
 ## Verbindungen
 
+### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
+
+Anschauungsmaterial für die Frage dieser Note, und zwar in beide Richtungen. Theveßen und Röller kennzeichnen ihre Vermutung über die angeworbenen Low-Level-Agenten ausdrücklich als Spekulation — deshalb trägt die Passage. Im selben Gespräch setzt Theveßen hinter eine Behauptung über den GRU das Siegel „das ist eindeutig belegt" — deshalb fällt sie. Der Unterschied liegt nicht in der Sachkenntnis, sondern in der Kennzeichnung.
+
 ### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
 
 Die Gegenprobe zur Frage, die diese Note offenlässt. Beide drehen sich um dieselbe Figur — die Logik des Gegners verstehen, ohne sie zu übernehmen — und ziehen die Grenze verschieden: Weigelin-Schwiedrzik empfiehlt, sich in die Kreml-Logik hineinzudenken, bis man den Anker findet, an dem ein Kriegsende verhandelbar wird, und Prechts „nichts zu holen" zeigt, wie schnell dieses Hineindenken zur Bequemlichkeit wird, sobald es die Motivlage des anderen nach der eigenen Buchhaltung berechnet. Die zweite Brücke ist die eigentliche: Wo diese Note fragt, wann jemand über etwas schweigen sollte, und Flemigs Selbstsicherheit als Fall des Problems liest, das er kritisiert, nimmt Weigelin-Schwiedrzik mitten im Gespräch eine eigene frühere Empfehlung zurück und sagt, woran sie sich geirrt hat.

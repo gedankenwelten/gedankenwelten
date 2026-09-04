@@ -6,6 +6,18 @@ tags:
   - links
 ---
 
+## auslandsjournal — Putins Zielscheibe Europa (02.09.2026)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Putins Zielscheibe: Europa \| Der Trump Effekt #71](https://www.youtube.com/watch?v=Get3sRghxyg) — Kanal *ZDFheute Nachrichten*, aufgezeichnet 01.09.2026, veröffentlicht 02.09.2026, 61:22 Min. |
+| **Sprechende** | Katrin Eigendorf · Elmar Theveßen · Ulf Röller (Moderation) |
+| **Notiz** | [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Auslandsjournal_Putins_Zielscheibe_Europa_Transkript.txt` |
+| **Vorgängerfolge** | [[Zeitgeist/auslandsjournal — Trump allein zu Haus]] (Folge #61) |
+| **Kanal** | [ZDFheute Nachrichten (YouTube)](https://www.youtube.com/@ZDFheute) · [zdfheute.de](https://www.zdfheute.de/) |
+| **Produktion** | BosePark Productions im Auftrag des ZDF auslandsjournal |
+
 ## DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt (30.08.2026)
 
 | | |

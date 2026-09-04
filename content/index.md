@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **04.09.** — [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|Putins Zielscheibe Europa — Der Tag, an dem Berlin es beim Namen nannte]]
+>
+> Ein Zünder, der nicht verbunden war, und ein Satz, der eine Schwelle markiert: Wie Europa lernt, eine Feindseligkeit zu benennen, ohne sie Krieg nennen zu dürfen.
+
 > **30.08.** — [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
 >
 > Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
@@ -39,12 +43,6 @@ Die Gedankenwelten (luc)
 > **28.08.** — [[Zeitgeist/Koschi Politik — ICE setzt neue Rekorde|ICE setzt neue Rekorde — der leise Vollzug und die vier Prozent]]
 >
 > Rekordfestnahmen bei gefallener Aufmerksamkeit — und unter vier Prozent der Festgenommenen haben je eine Gewalttat begangen. Der Vollzug hat gelernt, leise zu sein.
-
-> **25.08.** — [[Zeitgeist/Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Die Geister hinter MAGA — Ideengeschichtliche Linien neoreaktionären Denkens]]
->
-> Sechs Texte, ein Abend, eine Frage: Woher kommen die Ideen, die im Weißen Haus regieren — und was tut man, wenn das Lesen selbst zur Ablenkung wird?
-
-> → *5 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

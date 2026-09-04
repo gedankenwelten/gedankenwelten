@@ -196,6 +196,10 @@ Die Fragerunde (ab [▶ 76:08](https://www.youtube.com/watch?v=u08t-GOQp0I&t=456
 
 ## Verbindungen
 
+### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
+
+Die Probe auf die eigene These, zwei Monate später. In Tübingen gründet Theveßen sein Handwerk auf Thukydides: Der erste Satz meldet, der zweite ordnet ein, und ohne den zweiten wird die Lüge zur Normalität. Im Podcast nimmt er die abgeholzten Weiden am Kennedy Center im Vorbeigehen mit — eine Falschmeldung, die am Aufzeichnungstag bereits widerlegt war. Keine Häme, sondern der Beleg für die Schärfe seiner eigenen Diagnose: Die Normalisierungsfalle hat keine Außenseite, von der aus man auf sie zeigen könnte.
+
 ### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]]
 
 Das Doppelbild desselben Tages. Beide Notes entstehen zum 250. Geburtstag der USA (4. Juli 2026), beide messen die Gegenwart am Gründungsversprechen — aber aus entgegengesetzten Handwerken: Die Politologin Clüver Ashbrook seziert den *Umbau des Systems* von innen (Institutionen, Gewaltenteilung, „ewige Wachsamkeit“), der Korrespondent Theveßen das *Handwerk der Einordnung*, das diesen Umbau überhaupt sichtbar macht. Wo sie fragt, was die Republik strukturell aushöhlt, fragt er, wie man das berichtet, ohne es zu normalisieren — Diagnose und Diagnostik desselben Patienten.

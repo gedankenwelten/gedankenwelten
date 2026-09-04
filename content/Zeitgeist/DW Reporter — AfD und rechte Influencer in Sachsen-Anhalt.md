@@ -286,6 +286,10 @@ Am 6. September wird gewählt. Auf dem AOK-Parkplatz sitzt bis dahin weiter die 
 
 ## Verbindungen
 
+### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
+
+Derselbe Hans-Thomas Tillschneider, dieselbe Woche vor derselben Wahl, aus dem anderen Winkel: Hier die Sprache, die ihr Gegenteil meint, dort die Tasse der russischen Armee in seinem Regal. Wichtiger ist, was diese Note der anderen voraushat — die Erklärung. In Querfurt gewinnt die AfD nicht, weil Moskau sie stärkt, sondern weil ein Jugendclub fehlt. Moskau gießt eine Pflanze, die es nicht gepflanzt hat. Und wenn Sabotage mit Menschen funktioniert, die hier leben und Geld brauchen, ist die Angriffsfläche in beiden Fällen dieselbe: sozial, nicht sicherheitspolitisch.
+
 ### → [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland|rp26 — Stresstest für die Demokratie: Ostdeutschland]]
 
 Alexander Prinz sagt dort den Satz, der in Querfurt fehlt: Die AfD hat seit den wilden Neunzigern die ländlichen Strukturen besetzt — Gasthöfe, Stammtische, soziale Räume —, während die demokratischen Parteien sie aufgegeben haben. Der fehlende Jugendclub ist die Mikro-Version dieser Aufgabe, der Kümmerer-Mechanismus ihre Ausbeute. Prinz schärft außerdem die „Bürger zweiter Klasse"-Erfahrung zur Milieu- statt Regionalfrage.

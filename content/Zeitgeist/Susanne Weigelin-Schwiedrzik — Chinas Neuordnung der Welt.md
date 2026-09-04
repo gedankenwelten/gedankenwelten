@@ -247,6 +247,10 @@ Ihr Schlussbild ordnet Europa neu ein, und zwar nach unten: [▶ 78:00](https://
 
 ## Verbindungen
 
+### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
+
+Der Praxisfall für ihre These. Am Tisch der ZDF-Runde stehen beide China-Lesarten nebeneinander: Theveßen sieht in Bischkek die geschlossene Autokratenfront und China als lachenden Dritten, Eigendorf hält dagegen, Peking habe kein Interesse an einer untergehenden russischen Wirtschaft. Weigelin-Schwiedrzik gibt der zweiten Position ihr Fundament. Und ihre unbequemste Empfehlung — Europa solle aufhören, Großmacht spielen zu wollen — trifft dort genau auf die Schlagzeile „Die Europäer finden ihr Rückgrat".
+
 ### → [[Herfried Münkler — Europas Platz in der neuen Weltordnung]]
 
 Zwei Tage Abstand, dieselbe Weltlage, entgegengesetzte Standorte. Münkler beschreibt sie von Europa aus als Sandwich zwischen einem drohenden Putin und einem erpressenden Trump; Weigelin-Schwiedrzik beschreibt dasselbe Dreieck von Peking aus als *ménage à trois*, die einander Grönland, die Ostukraine und Taiwan zuschiebt. Wo Münkler die chinesischen Infrastrukturkredite als Hebel gegen die europäische Einstimmigkeit sieht, nennt sie die geplante Entwicklungsbank der Shanghaier Organisation beim Namen: ein Auffangnetz für Länder, die aus der EU austreten. Und wo Münkler die chinesischen Lebensmittelreserven als Beleg anführt, dass die Ära der Betriebswirte vorbei ist, erklärt sie deren Ursprung — Worst-Case-Denken einer Partei, die vor allem den Kontrollverlust im eigenen Land fürchtet.

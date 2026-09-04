@@ -188,6 +188,10 @@ Die soziale Schere — in den USA wie in Europa — sei „der Dünger, aus dem 
 
 ## Verbindungen
 
+### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
+
+Folge #71 derselben Runde, drei Monate später — und sie beantwortet Röllers Gedankenexperiment von hier. Im Juni rechnete er vor, eine einzige Drohne über Rumänien könne sichtbar machen, dass Artikel 5 leer sei. Im September liegt sie am Flughafen Leipzig, die Bundesregierung schreibt sie Russland zu — und vermeidet den Bündnisfall, indem sie es nicht Krieg nennt. Der Test findet nicht statt, weil man ihn nicht stattfinden lässt. Auch das Urteil über Europa kippt zwischen beiden Folgen: aus „schreibt sich selber gar nicht rein in das Problem" wird „Die Europäer finden ihr Rückgrat".
+
 ### → [[Zeitgeist/StreitClub — Europa allein zu Haus]]
 
 Dieselbe Kernmetapher (Kevin allein zu Haus), zwei Blickrichtungen: Der StreitClub fragt, ob *Europa* clever genug reagiert; das auslandsjournal fragt, ob *Trump* überhaupt weiß, was er tut. Direkte Brücke: NATO als „innen hohles Bündnis" trifft auf die strukturelle EU-Verteidigungsschwäche.

@@ -163,6 +163,10 @@ Wer ihn richtig liest, nimmt beides mit: die harte Substanz *und* das Bewusstsei
 
 ## Verbindungen
 
+### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
+
+Der Tag, an dem das Muster dieser Doku im Westen amtlich wird — mit derselben Personalwirtschaft aus angeworbenen Kleinkriminellen, nur diesmal in Leipzig. Die beiden Stücke gehen mit dem gleichen Befund entgegengesetzt um: Die Doku arbeitet mit der Angst, weil Angst der Wirkstoff des hybriden Krieges ist; die Bundesregierung zieht sie heraus, indem sie den Vorgang präzise unterhalb des Kriegsbegriffs einsortiert. Beide Wege haben ihren Preis.
+
 ### → [[Renee DiResta — Invisible Rulers]]
 
 Der theoretische Unterbau zur Doku: DiResta zeigt, dass wirksame Beeinflussung nichts erfinden muss, sondern nur vorhandenes Misstrauen verstärkt — exakt die „Knopf"-These des Films, dass Russland die Parolen nur finden und gießen, nicht erdenken muss. Auch ihre Anti-Impf→Radikalisierungs-Beobachtung spiegelt die Anti-Impf→Anti-Ukraine-Pipeline (Sykulski, Rédová).
