@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*297 Notes — automatisch generiert · nach Thema sortiert*
+*298 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -154,6 +154,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/phoenix — Orbán abgewählt|phoenix — Orbán abgewählt]]
 - [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland|phoenixRunde — Arm und Reich in Deutschland]]
 - [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel|phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
+- [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|Putins Zielscheibe Europa — Der Tag, an dem Berlin es beim Namen nannte]] — Ein Zünder, der nicht verbunden war, und ein Satz, der eine Schwelle markiert: Wie Europa lernt, eine Feindseligkeit zu benennen, ohne sie Krieg nennen zu dürfen.
 - [[Zeitgeist/rabbit hole — Ungarn-Wahl KI-Wahlkampf|rabbit hole — Ungarn-Wahl: Wird Politik zum KI-Albtraum?]]
 - [[Zeitgeist/republica26 — Wie gelingt die Energiewende|re:publica 26 — Wie gelingt die Energiewende? Und was bedeutet sie für unsere Demokratie?]] — Die Meinungsforscherin und der Netzbetreiber: Was die Deutschen mit der Energiewende verbinden — und warum Versorgungssicherheit das neue Wort für Freiheit ist.
 - [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Rechtspopulismus und der demokratische Verfassungsstaat]] — Vereinfachen ist kein Angriff auf die Demokratie. Der Angriff beginnt dort, wo jemand aufhört, die gleiche politische Freiheit aller überhaupt zu wollen.
