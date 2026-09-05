@@ -47,13 +47,14 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*298 Notes — automatisch generiert · nach Thema sortiert*
+*299 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
 
 - [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle]]
 - [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|AfD und rechte Influencer vor der Landtagswahl in Sachsen-Anhalt]] — Zwischen dem guten Leben und der fehlenden Perspektive liegt ein Ort — und wer ihn zuerst benennt, gewinnt die Jungen, auch mit der schwarzen Sonne im Rücken.
+- [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Alena Buyx — Gesellschaft NEU DENKEN]] — Eine Ärztin erklärt Gesellschaft über den Körper: warum wir Krisen zu spät erkennen, was der Klick ist, der Menschen umbauen lässt, und woher Zuversicht kommt, wenn die Daten sie nicht hergeben.
 - [[Zeitgeist/Ami Ayalon — Wir haben den Krieg gewonnen|Ami Ayalon — Wir haben den Krieg gewonnen]] — Israels früherer Geheimdienstchef sagt zwei Sätze, die einander tragen: Wir haben den Krieg längst gewonnen und weigern uns, es zu sehen — und wäre ich Palästinenser, ich würde kämpfen.
 - [[Zeitgeist/Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger & Nachtwey — Zerstörungslust: Elemente des demokratischen Faschismus]]
 - [[Zeitgeist/Anat Saragusti — Zensur und Pressefreiheit in Israel|Anat Saragusti — Zensur und Pressefreiheit in Israel]] — Die Frau, die 1982 als erste israelische Journalistin Arafat interviewte, beschreibt, wie Israels freie Presse stirbt — nicht durch Verbote, sondern durch Selbstzensur.
