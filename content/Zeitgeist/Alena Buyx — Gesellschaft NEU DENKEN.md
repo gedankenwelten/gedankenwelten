@@ -86,7 +86,7 @@ Und dann, manchmal, macht es Klick.
 
 > *„Da verrückt sich was, und dann geht das nie mehr. Total krass. Und die Leute fangen dann an, Wege zu finden, wie sie das alles nacheinander verändern."*
 
-Woran sie das festmacht, ist unmittelbar körperlich. Früher habe man gedacht, wenn sich an den Arterien etwas ablagert, sei das eben so — bis zum Bluthochdruck, bis zum Infarkt. *„Das ist alles reversibel, du kriegst das weg."* Man könne Volkskrankheiten durch Lebensstil heilen, nicht immer und nicht bei allen, aber bei sehr vielen. *(Faktencheck: die Richtung stimmt, „heilen" ist zu stark — unten.)* Daher kommt ihr Wort von der Selbstwirksamkeit, und es ist keine Coaching-Vokabel, sondern eine Beobachtung an Menschen, deren Blutwerte sich änderten.
+Woran sie das festmacht, ist unmittelbar körperlich. Früher habe man gedacht, wenn sich an den Arterien etwas ablagert, sei das eben so — bis zum Bluthochdruck, bis zum Infarkt. *„Das ist alles reversibel, du kriegst das weg."* Man könne Volkskrankheiten durch Lebensstil heilen, nicht immer und nicht bei allen, aber bei sehr vielen. *(Faktencheck: die Richtung stimmt, „heilen" ist zu stark — unten.)* Daher kommt ihr Wort von der Selbstwirksamkeit. Es klingt nach Coaching-Vokabular und meint eine Beobachtung an Menschen, deren Blutwerte sich änderten.
 
 Sie zieht die Linie von dort ins Historische, und an dieser Stelle wird das Gespräch groß: Was war das für ein Klick bei den Menschen, die sich im Nationalsozialismus gegen den Mainstream entschieden haben, unter vollem Sanktionsdruck? In den Biografien, sagt sie, steht oft dasselbe: *„Ich stehe hier und kann nicht anders."*
 
@@ -383,7 +383,7 @@ Buyx nennt Longtermism und Enklave, ohne ihre Herkunft zu erzählen; die Doku li
 
 ### → [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin, mehr als ein Glückshormon]]
 
-Buyx entschuldigt sich zweimal für ihren Holzhammer; Schultz liefert das Original und verschärft es. Nicht die Suche schüttet aus, sondern der Vorhersagefehler — und ein positiver Fehler hebt die Erwartung, sodass beim nächsten Mal mehr kommen muss. Das ist genau der Grund, warum eine Empörungsspirale die Zinne immer höher setzen muss. Buyx' Hoffnung auf die kollektive Erschöpfung hat damit einen neurobiologischen Boden und bleibt kein Gefühl.
+Buyx entschuldigt sich zweimal für ihren Holzhammer; Schultz liefert das Original und verschärft es. Was ausschüttet, ist der Vorhersagefehler — und ein positiver Fehler hebt die Erwartung, sodass beim nächsten Mal mehr kommen muss. Das ist genau der Grund, warum eine Empörungsspirale die Zinne immer höher setzen muss. Buyx' Hoffnung auf die kollektive Erschöpfung hat damit einen neurobiologischen Boden und bleibt kein Gefühl.
 
 ### → [[Denker/Steffen Mau — Triggerpunkte Konsens und Konflikt|Steffen Mau — Triggerpunkte]]
 
@@ -395,7 +395,7 @@ Zwei Gespräche derselben Reihe, dieselbe Leerstelle in zwei Vokabularen. Reckwi
 
 ### → [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften]]
 
-Einigkeit im Ziel, offener Streit im Werkzeug. Beide verlegen den entscheidenden Ort von den Rändern in die Mitte. Aber wo Buyx auf Prebunking und Beziehungsebene setzt, hält El-Mafaalani ausgefeilte Kommunikation für kontraproduktiv, weil sie dem Misstrauenden beweist, dass man ihn bearbeiten will. Die Inokulationstheorie trifft hier auf ihren härtesten Einwand — und er kommt nicht von den Gegnern der Aufklärung, sondern von jemandem, der dasselbe will.
+Einigkeit im Ziel, offener Streit im Werkzeug. Beide verlegen den entscheidenden Ort von den Rändern in die Mitte. Aber wo Buyx auf Prebunking und Beziehungsebene setzt, hält El-Mafaalani ausgefeilte Kommunikation für kontraproduktiv, weil sie dem Misstrauenden beweist, dass man ihn bearbeiten will. Die Inokulationstheorie trifft hier auf ihren härtesten Einwand, und er kommt von jemandem, der dasselbe will.
 
 ### → [[Zeitgeist/Martin Oetting — Happy Planet Index 2026|Martin Oetting — Happy Planet Index 2026]]
 
