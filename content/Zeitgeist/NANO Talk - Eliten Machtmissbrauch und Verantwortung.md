@@ -184,6 +184,10 @@ Das ist der Kern-Widerspruch, der ungelöst bleibt: Möller und Ternès haben ei
 
 ## Verbindungen
 
+### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]]
+
+Die Moderatorin dieser Runde ein Jahr später als Sprecherin — mit dem Argument, das Hartmanns Elitendiagnose ihre Grenze zeigt. Wer gelernt hat, dass die normalen Regeln für ihn nicht ganz gelten, baut Bunker, Inseln und Mars-Pläne, „kann aber keine eigene Luftversorgung haben". Die Selbstausnahme ist sozial jahrzehntelang belastbar und atmosphärisch keinen Tag.
+
 ### → [[Jok Madut Jok — Elitenpakt ist kein Frieden]]
 Hartmanns „Elite ist immer Macht, nicht Verantwortung" wird bei Jok zur Staatskatastrophe: Der Elitenpakt des Südsudan ist Macht, die sich selbst befriedet, ohne je Verantwortung für die Beherrschten zu übernehmen.
 

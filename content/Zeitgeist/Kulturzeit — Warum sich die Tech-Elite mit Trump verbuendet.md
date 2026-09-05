@@ -190,6 +190,10 @@ Die Stärke der Doku ist ihre Methode: Sie nimmt die Tech-Elite bei ihren *eigen
 
 ## Verbindungen
 
+### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]]
+
+Die Medizinethikerin nimmt derselben Konstruktion von der anderen Seite die Luft, im Wortsinn. Wo diese Doku Thiels Próspera und Yarvins „no vote, free exit" ideengeschichtlich herleitet, prüft Buyx die Enklave auf ihre Physik: eigene Wasserversorgung eine Weile, eigene Luftversorgung nie. Ein Einwand, der niemandes Gesinnung braucht und darum schwerer abzuwehren ist als die Ideologiekritik.
+
 ### → [[Die goldenen Tuerme — eine Dystopie der Maschinen-Aera]]
 
 Unsere eigene Dystopie-Note beschreibt als Gedankenexperiment, was diese Doku dokumentarisch belegt: Macht ohne Gegenseitigkeit, Herrschaft ohne Legitimation, die eingezäunte anonyme Masse unter den goldenen Türmen. Yarvins Frescorp — der Stadtstaat als Aktienunternehmen, „no vote, free exit" — ist die goldene Turmstadt als Businessplan. Was dort vorausgedacht wurde, wird hier in Echtzeit gebaut.

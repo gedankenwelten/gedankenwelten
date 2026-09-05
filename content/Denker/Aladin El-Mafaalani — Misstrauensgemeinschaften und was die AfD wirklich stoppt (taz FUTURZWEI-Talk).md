@@ -248,6 +248,10 @@ El-Mafaalani hält es für wahrscheinlich, dass Europa demokratisch bleibt — a
 
 ## Verbindungen
 
+### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]]
+
+Einigkeit im Ziel, offener Streit im Werkzeug. Buyx teilt den Befund — der entscheidende Ort ist die Mitte, nicht der Rand — und widerspricht im Mittel: Sie setzt auf Prebunking nach der Inokulationstheorie und auf die Beziehungsebene, während El-Mafaalani jede ausgefeilte Kommunikationsstrategie für einen Verstärker hält, weil sie dem Misstrauenden beweist, dass er bearbeitet werden soll. Der härteste Einwand gegen die Inokulationstheorie kommt hier von jemandem, der dasselbe will.
+
 ### → [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]]
 
 Eine junge Frau in Querfurt formuliert die Misstrauens-These in Alltagssprache — es werde kein Konsens gefunden, „und dadurch verlieren die Leute prinzipiell einfach das Vertrauen“. Das erdet das Modell: Dieses Misstrauen entsteht nicht algorithmisch. Es entsteht aus einem versprochenen Jugendclub, der nie kam. Erfahrungswissen statt Fehlglaube.

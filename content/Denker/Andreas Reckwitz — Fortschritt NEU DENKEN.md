@@ -296,6 +296,10 @@ Drei nennt er. [▶ 58:36](https://www.youtube.com/watch?v=bItN82KYMgo&t=3516) D
 
 ## Verbindungen
 
+### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]]
+
+Dieselbe Leerstelle, aus der Medizin gedacht. Reckwitz' Befund, die moderne Kultur habe keine Werkzeuge für Verlusterfahrung, heißt bei Buyx: Ein System, das gut darin ist, sich anzupassen, hat kein Organ für den Fall, dass die Anpassungsgrundlage selbst wegbricht. Die Reibung liegt in der Folge — bei Reckwitz ruft der Verlust nach einem Schuldigen und wird politisch, bei Buyx bleibt die Trägheit unschuldig. Wer ihre Diagnose übernimmt, gewinnt einen Ton ohne Verachtung und verliert Reckwitz' Erklärung dafür, warum der Verlust brennt.
+
 ### → [[Panorama/Fortschritt|Panorama — Fortschritt]]
 
 Diese Note ist die Wirbelsäule eines neuen Panoramas: 29 Notes im Bestand kreisen um das Fortschrittsversprechen, ohne bisher verbunden zu sein — Hegel gegen Schopenhauer, Mishra und Crenshaw zur Frage *für wen und wie lange*, der Befund, dass technischer Fortschritt nie Arbeit gespart hat. Reckwitz liefert den Begriffsapparat, der den Cluster zusammenhält.
