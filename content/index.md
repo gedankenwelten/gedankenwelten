@@ -46,6 +46,10 @@ Die Gedankenwelten (luc)
 
 ### Spuren
 
+> **05.09.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
+>
+> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
+
 > **30.08.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
 >
 > Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
