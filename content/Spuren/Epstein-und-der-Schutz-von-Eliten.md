@@ -9,10 +9,10 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 70%
+konfidenz: 75%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-08-15
+aktualisiert: 2026-09-05
 description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen."
 ---
 
@@ -39,7 +39,7 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 
 ## Die These
 
-> **Stand (Konfidenz 70 %):** Der Fall Epstein zeigt ein *strukturelles* Muster: überwältigender,
+> **Stand (Konfidenz 75 %):** Der Fall Epstein zeigt ein *strukturelles* Muster: überwältigender,
 > parteiübergreifender Offenlegungsdruck → **partielle** (halbe), stark geschwärzte, verzögerte Freigabe
 > → eine Namensliste *ohne Kontext*, die niemanden schützt und nichts klärt → Aufmerksamkeit verebbt →
 > Rechenschaft stockt. **Nicht** eine einzelne Verschwörung, sondern institutionelle Reibung
@@ -55,6 +55,92 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 **Kalt, wenn:** vollständige Offenlegung abgeschlossen, Rechenschaft erschöpft.
 
 ## Verlauf
+
+### 2026-09-05 — Der leere Stuhl und der leere Kalender (Konfidenz 70 % → 75 %)
+
+**Befund:** Beide am 15.08. vorregistrierten Gabeln sind gefallen — und ein dritter Mechanismus kam dazu,
+den die Spur bisher nicht kannte:
+
+1. **Die Black-Gabel (03.09.) ist gefallen — als Verweigerung.** Leon Black erschien am **3. September** nicht
+   zur subpoenierten Deposition unter Eid. Stattdessen verklagte er am selben Morgen das House Oversight
+   Committee vor einem Bundesgericht und beantragte, beide Subpoenas (Deposition + NDAs) für ungültig zu
+   erklären: Sie überschritten die Ausschusskompetenz, es gehe um Privates ohne „legitimate legislative
+   purpose". Seine Anwältin Susan Estrich: *„This is no longer about finding the truth about Epstein. It is
+   about trying to destroy Mr. Black."* Der Ausschuss ließ die Deposition mit einem **leeren Stuhl** zu
+   Protokoll laufen. Comer (R): *„Of all the powerful billionaires and political people we've brought in for
+   interview and depositions, this is the first time anyone's filed suit."* Garcia (D): *„Today, the process
+   of contempt has to begin."* Contempt of Congress bräuchte eine Abstimmung im Plenum — und die
+   Strafverfolgung läge danach beim **DOJ**.
+2. **Die DOJ-Gabel (24.08.) ist gefallen — als Berufung.** Exakt am 60. Tag nach Sullivans einstweiliger
+   Verfügung vom 25.06. reichte das DOJ am **24. August** eine „protective notice of appeal" ein — ohne
+   Rechtsargumente und mit dem eigenen Vermerk, ob die Anordnung überhaupt anfechtbar sei, sei „inconclusive".
+   Bei der Anhörung am 13.08. hatte der DOJ-Anwalt Andrew Block weder die verlangte Dokumentation der
+   Opfer-Schwärzungen noch einen Termin für den Schwärzungs-Katalog im **Federal Register** nennen können;
+   die handschriftlichen FBI-Notizen seien „duplikativ", wie das festgestellt wurde, konnte er nicht sagen.
+   Sullivan: *„You want me to issue another order and say, 'I really mean it this time'?"* Ein
+   Federal-Register-Eintrag ist bis heute nicht auffindbar. *(Ehrliche Grenze: Ob nach dem 13.08. doch noch
+   eine Dokumentation unter Siegel einging, konnte dieser Sweep nicht abschließend prüfen.)*
+3. **Der neue Mechanismus: der Kalender.** Thomas Massie (R-KY, Vorwahl gegen Trumps Wunschkandidaten
+   verloren, ab Januar draußen) reichte am **31. August** mit Ro Khanna eine Discharge Petition für den
+   **Epstein Files Transparency Act II** ein: Er gäbe State-Attorneys-General, Opfern und Abgeordneten ein
+   **Klagerecht** gegen das DOJ, verböte Privileg-Ausnahmen als Rückhaltegrund und ließe Opfer die
+   ungeschwärzten Akten über sich selbst einsehen. Stand 03.09.: **106 Unterschriften, davon zwei
+   Republikaner** (Massie, Nancy Mace); nötig sind 218. Am Dienstag (01.09.) wies Speaker Johnson Massies
+   Vorhersage, er werde das Haus nach Hause schicken, vor laufender Kamera zurück: *„We have a schedule, a
+   calendar that's been out for a year. We are abiding by that calendar. We are going to work all the way
+   through September."* Am Donnerstag (03.09.) strich die Fraktionsführung die Sitzungswochen vom **21. und
+   28. September**. Bis zur Wahl am 3. November bleiben dem Repräsentantenhaus **vier Sitzungstage**.
+4. **Ein Bundesstaat als Kläger.** New Mexico verklagte am **5. August** Blanche und das DOJ vor dem District
+   Court in D.C.: Das Ministerium halte ungeschwärzte Ermittlungsakten zurück, die der Staat für sein im
+   Februar wiedereröffnetes Verfahren zur **Zorro Ranch** (erste Durchsuchung im März) brauche — Opfer,
+   Zeugen, mögliche weitere Taten. Das DOJ verweist auf Gerichtsbeschlüsse zum Opferschutz. Genau diese
+   Lücke — ein Staat ohne Klagerecht gegen das Bundesministerium — soll der Act II schließen.
+5. **Nebenbefund, zurechtgerückt.** Eine Look-alike-Seite (`gopdallas2026.com`), per Suchmaschinen-
+   Optimierung an die Spitze der Google-Treffer für „GOP midterm convention" gebracht, leitete am 04.09.
+   Besucher auf die DOJ-Seite mit den Epstein-Akten um und ging nachmittags offline. Die offizielle
+   Konventionsseite war nie betroffen. **Kein Hack** — Aktivismus.
+
+**Deutung:** Das Muster der Spur hieß bisher: Schwärzung, Vertagung, Begründen-statt-Liefern. Dieser Sweep
+fügt zwei Formen hinzu, die noch weniger Spuren hinterlassen. Die erste ist die **Klage als Nicht-Erscheinen**:
+Black muss nichts verweigern, nichts beschwören, nichts vorlegen — er lässt ein Gericht die Frage prüfen, ob
+er überhaupt gefragt werden darf, und die Zeit läuft für ihn. Die zweite ist der **Kalender**: Ein Parlament,
+das nicht tagt, muss nicht abstimmen, und niemand hat gegen die Petition gestimmt. Das ist der leiseste
+Schutz von allen — er besteht aus Abwesenheit. Und die Schleife schließt sich: Sollte der Ausschuss Black in
+Contempt setzen, entscheidet über die Anklage das Ministerium, das gerade selbst gegen die Freigabe Berufung
+einlegt. Beide Gabeln sind so gefallen, wie es am 15.08. als Stärkung registriert war. Darum steigt die
+Konfidenz auf **75 %** — um fünf Punkte, nicht mehr, denn was der Kalender-Befund *bedeutet*, ist die
+schwächste Stelle dieses Eintrags (→ Gegenbeobachtung 3).
+
+**Vorab registriert für den nächsten Sweep** — nicht aufzuweichen:
+- **17.09.2026** (letzter Sitzungstag vor der Pause) — kommt eine **Contempt-Resolution** gegen Black ins
+  Plenum, oder verschluckt sie der Kalender? Abstimmung → Schwächung. Keine Abstimmung, oder Contempt
+  beschlossen und vom DOJ nicht verfolgt → Stärkung.
+- **03.11.2026** (Midterms) — erreicht die Petition **218** vor der Wahl? Ja → Schwächung, und zwar deutlich:
+  Dann hat der Kalender nicht gewirkt. Nein → Stärkung, aber schwach, weil 106 → 218 an vier Sitzungstagen
+  auch ohne jeden Elitenschild unwahrscheinlich ist.
+- **31.12.2026** — die Jurisdiktions-Gabel vom 15.08. bleibt unverändert stehen.
+
+**Gegenbeobachtung (Pflicht):** Vier Dinge gegen den Sog. (1) **Blacks Klage ist ein Rechtsweg, kein
+Rechtsbruch** — dieselbe Logik wie beim DOJ-„Begründen"-Pfad im Juli. Und Comers eigener Satz enthält das
+Gegengewicht: „the first time anyone's filed suit" heißt, dass Clinton, Lutnick, Gates und zehn weitere
+*gekommen* sind. Der Ausschuss arbeitet überparteilich, der republikanische Vorsitzende treibt den Contempt
+selbst. (2) **Die Gegenkräfte vermehren sich.** Ein Bundesstaat klagt, ein Gesetz gegen genau die beobachtete
+Lücke liegt vor, 106 Abgeordnete haben unterschrieben, ein Bundesrichter hält die Drohung aufrecht. Das ist
+mehr institutionelle Gegenwehr als in jedem früheren Sweep. (3) **Der Kalender hat eine harmlose Lesart, und
+sie ist stark.** Die Politico-Recherche, aus der der Einstieg eigentlich besteht, handelt nicht von Epstein,
+sondern von Republikanern, die Trump vor den Midterms aus ihren Wahlkreisen fernhalten wollen; die
+Sitzungspause dient dem Wahlkampf. Dass sie *auch* die Petition trifft, ist Massies Deutung — belegt ist sie
+nicht. Schärfer noch: Mit zwei republikanischen Unterschriften war die Petition von 218 so weit entfernt,
+dass niemand vor ihr hätte fliehen müssen. Wer den Kalender als Elitenschild liest, muss erklären, warum man
+vor einer Abstimmung flieht, die nicht kommt. Der Befund bleibt (Dementi Dienstag, Absage Donnerstag), die
+Kausalität bleibt offen. (4) **Der Einstieg ist die schwächste Quelle dieser Spur.** Koschi Politik nennt die
+Look-alike-Seite einen Hack (falsch), präsentiert Comers Fox-Aussage als Neuigkeit (sie ist vom 10. März) und
+macht aus ihr „Trump schützt seit sieben Jahren seinen Freund" — dabei sagte Comer, das DOJ, wohl der
+Southern District of New York, habe New Mexico 2019 zum Stillhalten gebeten; das war Barrs Ministerium, das
+Epstein in genau jenem Sommer anklagte, und eine Bundesstaatsanwaltschaft, die einen Staat bittet, ihr
+Verfahren nicht zu stören, ist Routine, kein Beleg. Das „exklusive" GOP-Kommunikations-Memo stammt aus
+einem einzelnen X-Post (Dominic Michael Tripi) und ist unverifiziert; „Hinz und Kunz" könnte unter dem Act II
+nicht klagen, sondern Staaten, Opfer und Abgeordnete. Nichts davon ist in den Befund gelangt.
 
 ### 2026-08-15 — Europa verhaftet, Amerika vertagt (Konfidenz 70 % → 70 %)
 
@@ -319,6 +405,22 @@ ist ein Mythos-Magnet; ein großer Teil der kursierenden Behauptungen ist haltlo
 > - **Abneigung:** gegen Straflosigkeit. Darf keine Gewissheit erzeugen, wo nur Schwärzung ist.
 > - **Wachpunkt:** Die *falsifizierbare* These (struktureller Elitenschutz) strikt von der *unfalsifizierbaren* Verschwörung (geheime Kabale) trennen — Letztere diskreditiert Erstere. Wenn die Restakten ordentliche Rechtsvorsicht statt Elitenschild zeigen, **muss** das hier stehen.
 
+> [!question] Sweep 05.09.2026 — darf man erhöhen, wenn es sich wie ein Sieg anfühlt?
+> Beide Gabeln fielen so, wie die Spur es als Stärkung vorregistriert hatte, und genau das ist die Falle:
+> „Ich hatte recht" ist das befriedigendste Gefühl, das eine These erzeugen kann. Erste Korrektur: Die
+> Vorregistrierung schneidet in beide Richtungen. Hätte ich diesmal *nicht* erhöht — aus der Vorsicht, die im
+> August richtig war —, wäre auch das Tor-Verschieben, nur in die andere Richtung. Also fünf Punkte, weil die
+> Bedingungen eingetreten sind, und keine zehn, weil der neue Befund (der Kalender) der ist, der mich am
+> meisten zieht und den ich am wenigsten beweisen kann. Ich habe ihn deshalb geteilt: Das Ereignis (Dementi,
+> Absage, vier Sitzungstage) steht im Befund, die Kausalität in der Deutung mit Massie als Quelle, und die
+> harmlose Lesart in der Gegenbeobachtung — dort steht auch das Argument, das mir am unangenehmsten ist: dass
+> man vor einer Abstimmung, die nicht kommt, nicht fliehen muss. Zweite Unbequemlichkeit: Der Einstieg
+> dieses Sweeps ist die schwächste Quelle, die diese Spur je hatte, und ich habe ihn trotzdem genommen, weil
+> er Andreas' Fund war. Der Weg damit war, ihn als Einstieg zu benennen und nichts von ihm in den Befund zu
+> lassen — jede Zahl und jedes Datum kommt aus AP, Roll Call, Courthouse News oder der Klage selbst. Dritte:
+> Ich weiß nicht, ob das DOJ nach dem 13.08. unter Siegel doch noch dokumentiert hat, und ich habe das
+> hingeschrieben, statt es unter „nicht auffindbar" verschwinden zu lassen.
+
 > [!question] Sweep 15.08.2026 — ist das Schärfen der These schon Tor-Verschieben?
 > Diesmal liegt die Gefahr nicht im Datum, sondern in der *Formulierung*. Europa hat geliefert, was die These
 > nicht erwartet hat: eine Festnahme, einen Rücktritt, einen entzogenen Titel. Mein erster Impuls war, die These
@@ -435,6 +537,15 @@ Zeitgeist-Schnappschuss des Wochenend-Sweeps (28.06.) — Leon Blacks Walkout, d
 Bestehende Zeitgeist-Note zum selben Komplex.
 
 ## Quellen
+
+**Sweep 05.09.2026 — leerer Stuhl, Berufung, Kalender:**
+- *Einstieg (mit Provenienz-Vorbehalt, → Gegenbeobachtung 4):* [Koschi Politik — „MAGA Mike KAPITULIERT vor der Epstein PANIK!" (05.09.2026)](https://www.youtube.com/watch?v=Qbiug4fFaHE) · Transkript: `Gedankenwelten/Transkripte/Koschi_MagaMike_Epstein_Transkript.txt` · dessen Quelle: [Politico — „We told them he can't come": Republicans wrestle with Trump on the trail (04.09.)](https://www.politico.com/news/2026/09/04/trump-republicans-struggle-midterms-01064541)
+- *Black-Deposition 03.09.:* [PBS/AP — Billionaire Leon Black skips Epstein deposition and sues House committee](https://www.pbs.org/newshour/politics/billionaire-leon-black-skips-epstein-deposition-and-sues-house-committee-over-subpoenas) · [NPR](https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit) · [NBC News](https://www.nbcnews.com/politics/congress/billionaire-leon-black-sues-house-oversight-epstein-probe-subpoenas-rcna595887) · [Washington Post](https://www.washingtonpost.com/politics/2026/09/03/jeffrey-epstein-leon-black-oversight/eb8a9410-a79a-11f1-9e38-f705d048bd5a_story.html)
+- *DOJ-Berufung & Sullivan:* [The Hill — DOJ signals it will appeal ruling requiring removal of some redactions (24.08.)](https://thehill.com/regulation/court-battles/6047840-doj-appeals-epstein-files-ruling/) · [Courthouse News — Feds struggle to explain redactions (13.08.)](https://www.courthousenews.com/feds-struggle-to-explain-redactions-in-epstein-files-compliance-case/) · [CNN — „The public has a right to know what the hell is going on"](https://www.cnn.com/2026/08/13/politics/epstein-judge-hearing-justice-department-contempt-warning)
+- *Kalender & Petition:* [ABC News — Speaker Johnson, in reversal, cancels House votes](https://abcnews.com/Politics/speaker-johnson-reversal-cancels-house-votes-leaving-days/story?id=136173855) · [Washington Times — House cancels two upcoming weeks](https://www.washingtontimes.com/news/2026/sep/3/house-cancels-two-upcoming-weeks-washington-extending-pre-midterm/) · [Roll Call — Second Epstein petition looks for Republican support](https://rollcall.com/2026/09/03/second-epstein-petition-looks-for-republican-support/) · [Washington Times — Massie launches discharge petition (31.08.)](https://www.washingtontimes.com/news/2026/aug/31/thomas-massie-launches-discharge-petition-bill-enforce-release/) · [Newsweek — 106 lawmakers sign petition](https://www.newsweek.com/epstein-update-106-lawmakers-sign-petition-to-make-doj-release-more-files-12406192)
+- *New Mexico gegen Blanche:* [NM DOJ — Pressemitteilung zur Klage (05.08.)](https://nmdoj.gov/press-release/new-mexico-sues-doj-for-blocking-access-to-unredacted-epstein-investigative-files-in-zorro-ranch-criminal-probe/) · [Axios](https://www.axios.com/2026/08/05/new-mexico-sues-doj-epstein-files) · [PBS/AP](https://www.pbs.org/newshour/politics/state-of-new-mexico-sues-justice-department-and-todd-blanche-saying-they-blocked-its-epstein-probe)
+- *Comer über 2019 (Fox, 10.03.2026):* [The Hill — DOJ asked New Mexico to end initial probe, Comer says](https://thehill.com/homenews/state-watch/5778421-comer-trump-doj-jeffrey-epstein-ranch/) · [Newsweek](https://www.newsweek.com/trump-doj-jeffrey-epstein-zorro-ranch-probe-11658898)
+- *Look-alike-Seite:* [Al Jazeera — Mock Republican convention website redirects users to Epstein files](https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files) · [FOX 4 Dallas](https://www.fox4news.com/news/fake-dallas-gop-convention-website-sends-people-epstein-files) · *GOP-Memo (unverifiziert):* [Raw Story](https://www.rawstory.com/jeffrey-epstein-2677821149/)
 
 **Sweep 15.08.2026 — Vertagung, Contempt-Warnung, europäische Gegenbewegung:**
 - *Einstieg:* [Sandra Navidi im Gespräch mit Schult Wilhelm — „Epsteins Mittäter und Trump kommen davon" (DER STANDARD, Thema des Tages, 14.08.2026)](https://www.youtube.com/watch?v=5BXCGZGXaSk) · Transkript: `Gedankenwelten/Transkripte/Navidi_Epstein_Transkript.txt`
