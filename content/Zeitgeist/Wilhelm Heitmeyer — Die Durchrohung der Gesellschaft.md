@@ -254,6 +254,10 @@ Die entscheidende Frage: Bin ich **konfliktfähig** genug, dort die Stimme zu er
 
 ## Verbindungen
 
+### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]]
+
+Der Frühwarnmarker zur Strukturdiagnose. Buyx unterscheidet Zynismus vom Nihilismus und macht die Verachtung im Ton zum erkennbaren Vorzeichen — drei Schritte früher, im Alltag prüfbar. Ihr Befund, dass das Torpedieren von Umgangsformen zur Strategie gehört, um Grausamkeit zu normalisieren, ist Heitmeyers Durchrohung in einem Satz. Offen bleibt, was ein individueller Marker gegen einen Prozess ausrichtet, der laut Heitmeyer strukturell eingefordert wird.
+
 ### → [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]]
 
 Ein Lehrbuchfall der Verrohungs-Dynamik: Nach einer NIUS-Falschbeschuldigung im Mordfall Stade überziehen anonyme Nutzer eine unbeteiligte Mutter mit Folterfantasien — die Redaktion enthemmt, der Schwarm vollstreckt.

@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **05.09.** — [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Alena Buyx — Gesellschaft NEU DENKEN]]
+>
+> Eine Ärztin erklärt Gesellschaft über den Körper: warum wir Krisen zu spät erkennen, was der Klick ist, der Menschen umbauen lässt, und woher Zuversicht kommt, wenn die Daten sie nicht hergeben.
+
 > **04.09.** — [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|Putins Zielscheibe Europa — Der Tag, an dem Berlin es beim Namen nannte]]
 >
 > Ein Zünder, der nicht verbunden war, und ein Satz, der eine Schwelle markiert: Wie Europa lernt, eine Feindseligkeit zu benennen, ohne sie Krieg nennen zu dürfen.
@@ -40,10 +44,6 @@ Die Gedankenwelten (luc)
 >
 > Vier Meldungen, in denen jemand längst nachgerechnet hat — und die Behauptung trotzdem den Raum behält, weil die Rechnung Mühe kostet und die Behauptung keine.
 
-> **28.08.** — [[Zeitgeist/Koschi Politik — ICE setzt neue Rekorde|ICE setzt neue Rekorde — der leise Vollzug und die vier Prozent]]
->
-> Rekordfestnahmen bei gefallener Aufmerksamkeit — und unter vier Prozent der Festgenommenen haben je eine Gewalttat begangen. Der Vollzug hat gelernt, leise zu sein.
-
 ### Spuren
 
 > **30.08.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
@@ -53,10 +53,6 @@ Die Gedankenwelten (luc)
 > **30.08.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
 >
 > Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
-
-> **28.08.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
 
 ### Gedanken
 

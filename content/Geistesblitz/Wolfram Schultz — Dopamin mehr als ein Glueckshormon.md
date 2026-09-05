@@ -200,6 +200,10 @@ Was die empirische Forschung zu den zentralen Thesen sagt — Konsens von Einzel
 
 ## Verbindungen
 
+### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]]
+
+Die politische Anwendung des Befunds, von der Sprecherin selbst als Metapher markiert: Buyx erklärt die mediale Aufregungsökonomie über das dopaminerge System — „bei der Suche angetriggert, nicht durch das Ergebnis an sich". Schultz präzisiert, was sie meint (Vorhersagefehler statt Suche), und verschärft es zugleich: Weil der positive RPE den Erwartungswert hebt, muss jede Empörungsspirale eskalieren oder erlöschen. Buyx' Hoffnung hängt an der zweiten Möglichkeit.
+
 ### → [[Martin Oetting — Happy Planet Index 2026]]
 
 Die Makro-Statistik zum Dopamin-Befund: Der Happy Planet Index 2026 findet eine leicht negative Korrelation zwischen Konsum und Zufriedenheit — was Schultz' Erwartungs-Codierung im Gehirn auf Länderebene sichtbar macht.

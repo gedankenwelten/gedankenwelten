@@ -4378,3 +4378,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Buch (Fratzscher)** | *Die Deutschland-Illusion* (2014) — der Exportüberschuss als Symptom einer Investitionslücke — [genialokal](https://www.genialokal.de/Suche/?q=fratzscher+deutschland+illusion) |
 | **Transkript (Reaction)** | `Gedankenwelten/Transkripte/Fratzscher_Wirtschaftsmythen_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
 | **Transkript (ZDF-Original)** | `Gedankenwelten/Transkripte/Fratzscher_ZDF_Original_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Alena Buyx & Maja Göpel — Gesellschaft NEU DENKEN
+
+| | |
+|---|---|
+| **Podcast / Video** | [Gesellschaft NEU DENKEN mit Alena Buyx](https://www.youtube.com/watch?v=CCEMuEfUdSU) — NEU DENKEN mit Maja Göpel, Mission Wertvoll, 01.09.2026 (76 Min.) |
+| **Notiz** | [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]] |
+| **DenkerVita** | [[DenkerVita/Alena Buyx]] · [[DenkerVita/Maja Goepel]] |
+| **Format** | [Mission Wertvoll — Wertvolles Wirtschaften](https://wertvolles-wirtschaften.de/) · [NEU DENKEN unterstützen](https://www.mission-wertvoll.org/neu-denken-unterstuetzen/) |
+| **Buch (Buyx)** | *Das Solidaritätsprinzip. Plädoyer für eine Renaissance in Medizin und Bioethik* (2016, mit Barbara Prainsack) — [genialokal](https://www.genialokal.de/Suche/?q=solidaritaetsprinzip+buyx+prainsack) |
+| **Buch (Buyx)** | *Leben und Sterben. Die großen Fragen ethisch entscheiden* (2023) — [genialokal](https://www.genialokal.de/Suche/?q=leben+sterben+buyx) |
+| **Transkript** | `Gedankenwelten/Transkripte/Buyx_Gesellschaft_NEU_DENKEN_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

@@ -164,6 +164,10 @@ Oettings trockene Folgerung: Die Männer könnten von den Frauen lernen. Hinter 
 
 ## Verbindungen
 
+### → [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN]]
+
+Der US-Rang 105 in Alltagsauflösung. Buyx legt dieselbe Lücke als Körperbefund hin — über die Hälfte übergewichtig, der weitaus größte Teil der Zeit drinnen, ein Drittel der jungen Männer ohne Gespräch, die Lebenserwartung lange auf Plateau. Sie nennt diese Auswahl ausdrücklich strategisch: Determinanten des guten Lebens statt makroökonomischer Indikatoren — die Begründung dafür, warum ein Index wie der HPI überhaupt gebraucht wird.
+
 ### → [[Maja Goepel und Achim Truger — Wachstum NEU DENKEN]]
 
 Die theoretische Grundierung zu Oettings empirischem Befund: Göpel und Truger argumentieren, *warum* das BIP als Wohlstandsmaß versagt — der Index liefert die Messlatte, die sie fordern, gleich mit. Wo Göpel Wachstum konzeptuell entkoppelt, zeigt Oetting an 134 Ländern, dass es messbar ist (Costa Rica: ein Drittel des BIP, Platz 1).

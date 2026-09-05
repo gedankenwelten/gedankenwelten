@@ -88,7 +88,8 @@ Sie ist eine ihrer Träger Stimme Deutschlands für **evidenzbasierte, pragmatis
 
 ## Gedankenwelten-Notes
 
-- [[Zeitgeist/NANO Talk - Eliten zwischen Machtmissbrauch und Verantwortung|NANO Talk — Eliten zwischen Machtmissbrauch und Verantwortung]] (3sat, 28. Mai 2026, Moderation und Beitrag Buyx)
+- [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung|NANO Talk — Eliten zwischen Machtmissbrauch und Verantwortung]] (3sat, 28. Mai 2026, Moderation und Beitrag Buyx)
+- [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Alena Buyx — Gesellschaft NEU DENKEN]] (NEU DENKEN mit Maja Göpel, 1. September 2026) — 76 Minuten über den gesellschaftlichen Zusammenhalt: Homöostase als Erklärung für Trägheit, der „Klick" als Umschlagpunkt, Longtermism-Kritik, das dopaminerge System als Modell der Aufregungsökonomie, Solidaritätsforschung zur Pandemie, der Verachtungsmarker für Zynismus
 
 ---
 
