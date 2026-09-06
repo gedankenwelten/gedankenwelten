@@ -306,6 +306,7 @@ Theveßen dämpft: [▶ 13:44](https://www.youtube.com/watch?v=Get3sRghxyg&t=824
 
 ## Verbindungen
 
+
 ### → [[Zeitgeist/auslandsjournal — Trump allein zu Haus|auslandsjournal — Trump allein zu Haus (Der Trump-Effekt #61)]]
 
 Dieselben drei Stimmen, drei Monate früher — und dazwischen liegt ein Fall, den sie damals nur als Gedankenexperiment hatten. Im Juni rechnete Röller vor, Putin müsse mit *einer einzigen Drohne über Rumänien* sichtbar machen können, dass Artikel 5 im Ernstfall leer sei; die NATO sei „innen hohl, weil das Wichtigste, die wichtigste Waffe weg ist, nämlich Vertrauen". Im September liegt die Drohne auf einem deutschen Flughafen, und die Antwort besteht darin, den Bündnisfall sprachlich zu vermeiden. Röllers Frage ist damit beantwortet, nur anders als erwartet: Das Bündnis wird nicht getestet, weil man den Test nicht stattfinden lässt. Noch schärfer die Umkehr im Urteil über Europa — im Juni „schreibt sich Europa selber gar nicht rein in das Problem", im September lauten die Schlagzeilen derselben Runde „Die Europäer finden ihr Rückgrat". Wer beide Folgen nacheinander liest, sieht eine Stimmungskurve und muss entscheiden, ob sich die Lage geändert hat oder die Erwartung.
@@ -337,6 +338,10 @@ Derselbe Mann, der in Tübingen sein eigenes Handwerk auf Thukydides gründet: D
 ### → [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland und die Grenzen der Expertise]]
 
 Die Note, die fragt, wann ein kompetenter Mensch besser schweigt — und diese Folge ist ihr Anschauungsmaterial in beide Richtungen. Theveßen und Röller markieren ihre Vermutung über die Low-Level-Agenten ausdrücklich als Spekulation, und genau deshalb trägt die Passage. Im selben Gespräch setzt Theveßen hinter die GRU-Behauptung das Siegel „das ist eindeutig belegt", und genau deshalb fällt sie. Der Unterschied liegt nicht in der Sachkenntnis, sondern in der Kennzeichnung — was die Precht-Note als die eigentliche Frage herausarbeitet, statt zu zählen, wer recht hat. Sie ergänzt zudem das Motiv-Argument, das hier fehlt: Prechts „in Deutschland gibt es nichts zu holen" ist die Gegenthese zu allem, was diese Folge voraussetzt, und Flemigs Einwand — Bedrohung heißt heute Bündnisverteidigung im Baltikum, nicht Panzer durch Polen — beschreibt dieselbe Schwelle, an der Berlin nun das Wort „Krieg" vermeidet.
+
+### → [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage]]
+
+Derselbe Fall, fünf Tage später und mit umgekehrtem Vorzeichen. Was hier als juristische Notwendigkeit erscheint — „hybrider Angriff, aber kein Krieg", damit Artikel 5 nicht anspringt —, wird im Presseclub zum Vorwurf: ein Wort, das den Handlungsdruck abbaut, den es beschreibt. Und wo die ZDF-Runde einträchtig bleibt, bricht dort ein offener Streit über Nord Stream auf, der die Beweisfrage auf beide Seiten anwendet.
 
 ---
 

@@ -163,6 +163,7 @@ Der Lehrling definiert durch Abgrenzung: noch kein Geselle, noch kein Meister. D
 
 ## Verbindungen
 
+
 - [[Denker/Zhao Tingyang — Verbales Denken und Neo-Aufklaerung]] — Nomenbasiertes vs. verbales Denken: das philosophische Fundament dieser Reflexion. Nominalisierung friert ein; Verb-Denken hält in Bewegung.
 - [[Denker/Walther Ziegler — Wittgenstein in 60 Minuten]] — „Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt." Höcke macht Wittgenstein zur Machtformel — das zeigt, wie neutral das Werkzeug ist.
 - [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]] — Sprache als Herrschaftsinstrument. Mausfeld beschreibt das System, das von Höckes Prinzip profitiert. Die Weigerung, im Begriffe-Krieg mitzumachen, ist auch politische Intervention.
@@ -196,6 +197,10 @@ Der Fall aus der Wirtschaftsdebatte, an dem sich das Einfrieren nachrechnen läs
 ### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
 
 Der Fall zur These. Heinrichs wirksamster Einwand gegen das russische Narrativ ist grammatikalisch: Er tauscht das Subjekt aus, und mit dem Subjekt kippt die Schuld — die NATO ist nicht vorgerückt, der Osten ist beigetreten. „Osterweiterung" gibt sich als Sachbegriff und enthält bereits die Entscheidung darüber, wer handelt.
+
+### → [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage]]
+
+Höckes Regel, angewandt auf die, die schon regieren. Anna Sauerbreys Beobachtung im Presseclub — wer „Terroranschlag" sagt, muss entsprechend handeln, also bleibt die Regierung im Weichen — ist derselbe Satz ohne den Triumph des Herausforderers. Das ist die unbequemere Fassung: Begriffsmacht ist kein Angriffswerkzeug von außen, sondern der Normalzustand jeder Regierung, die abwägt, welche Folgen sie sich vom eigenen Vokabular leisten will.
 
 ---
 

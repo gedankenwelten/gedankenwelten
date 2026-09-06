@@ -196,6 +196,7 @@ Die Fragerunde (ab [▶ 76:08](https://www.youtube.com/watch?v=u08t-GOQp0I&t=456
 
 ## Verbindungen
 
+
 ### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
 
 Die Probe auf die eigene These, zwei Monate später. In Tübingen gründet Theveßen sein Handwerk auf Thukydides: Der erste Satz meldet, der zweite ordnet ein, und ohne den zweiten wird die Lüge zur Normalität. Im Podcast nimmt er die abgeholzten Weiden am Kennedy Center im Vorbeigehen mit — eine Falschmeldung, die am Aufzeichnungstag bereits widerlegt war. Keine Häme, sondern der Beleg für die Schärfe seiner eigenen Diagnose: Die Normalisierungsfalle hat keine Außenseite, von der aus man auf sie zeigen könnte.
@@ -231,6 +232,10 @@ Theveßens Schlussfrage — warum europäische Rechtspopulisten ausgerechnet „
 ### → [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
 
 Theveßen verteidigt den öffentlich-rechtlichen Rundfunk aus dem amerikanischen Negativ heraus: In den USA ganze „News Deserts“ ohne verlässliche Lokalnachrichten, in Deutschland noch die Infrastruktur zum Gegenhalten. Der Rundfunkstaatsvertrag verpflichtet ohnehin zum Aufzeigen von Zusammenhängen — „Thukydides steht sozusagen im Gesetz“. Damit liefert er von außen das Funktions-Argument, das Topfvollgold von innen gegen die ÖRR-Delegitimierung stellt.
+
+### → [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage]]
+
+Die Probe auf Theveßens Thukydides-Regel — der zweite Satz, der einordnet — in beide Richtungen. Im Podcast mit dem russischen Botschafter fehlt er ganz: Die nukleare Andeutung bleibt stehen, danach wird zur Friedensfrage gewechselt. Im Presseclub kommt er nach, aber mit einem Wort zu viel („unverhohlen"), das die Drohung schärfer macht, als sie ausgesprochen wurde. Die Einordnung kann also auch verzerren, was sie einordnet.
 
 ---
 

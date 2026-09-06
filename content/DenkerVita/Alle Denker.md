@@ -61,6 +61,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Andreas Puettmann|Andreas Püttmann]]** — Politikwissenschaftler & katholischer Publizist (Bonn, ZdK), früher Allensbach und Konrad-Adenauer-Stiftung; das „C“ als Vorzeichen vor der Klammer statt als konservativer Flügel — Rechtspopulismus als Antithese zum Christentum, „Militanz der Mitte“, Verantwortungsethik vor Gesinnungsethik
 
+**[[DenkerVita/Andrey Gurkov|Andrey Gurkov]]** — Russischer Journalist und Autor (1959 Moskau), 1993–2025 Russische Redaktion der Deutschen Welle, zuvor Chefredakteur der deutschen Glasnost-Ausgabe *Moskau News*; liest Russland ökonomisch statt ideologisch (Gasprom, Nord Stream, Schattenflotte); *Für Russland ist Europa der Feind* (2025): der Bruch mit Europa sitzt in der Gesellschaft, nicht nur im Kreml
+
 ## B
 
 **[[DenkerVita/Lukas Baerfuss|Lukas Bärfuss]]** — Schweizer Schriftsteller, Dramatiker und Essayist (Georg-Büchner-Preis 2019); Autodidakt ohne Schulabschluss, als Jugendlicher obdachlos, schlug das Schulden-Erbe des Vaters aus — schreibt über Herkunft als Fessel, Erben als politischen Skandal und die Selbstgerechtigkeit der Schweiz
