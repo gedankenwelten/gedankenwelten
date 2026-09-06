@@ -71,6 +71,7 @@ Und sie hatte Folgen bis ins Gesetzblatt: die schrittweise Aufgabe der 65-Prozen
 
 ## Verbindungen
 
+
 ### → [[Zeitgeist/Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)|Staiy — News Briefwahl, Femizid und Erbschaftssteuer (28.08.2026)]]
 
 Vier weitere Fälle derselben Asymmetrie, in einer einzigen Nachrichtensendung. Was die Oxford-Studie hier misst — der Kampfbegriff ist ein Wort lang, die Richtigstellung braucht drei Absätze —, wiederholt sich dort an vier Gegenständen: den Planspielen des Pentagon, dem Faktenfinder zur Briefwahl, dem Wort „Beziehungstat" und einer Erbschaftsteuer-Studie an zehn durchgerechneten Mietshäusern. In allen vier Fällen liegt die Rechnung vor, und in dreien behält die Behauptung den Raum. Der Heizungshammer liefert dazu die gemessene Erklärung, warum das kein Zufall ist.
@@ -91,3 +92,8 @@ Oettings These — die Lüge wirkt wie eine Droge, weil sie besser *kommuniziert
 
 ### → [[Panorama/Gekaperte Zeichen]]
 „Heizungshammer" als gekapertes Zeichen: geprägt, um eine Sache zu besetzen, bevor sie verstanden wird.
+
+### → [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage]]
+
+Dasselbe Werkzeug, in die andere Richtung gedreht. Hier erfindet ein Boulevardblatt ein Wort, um Handlungsdruck zu *erzeugen*; im Presseclub wählt eine Regierung mit „hybrider Kriegsführung" ein Wort, das nichts erfindet und trotzdem verschiebt — um Handlungsdruck zu *vermeiden*. Zusammen ergeben beide Notes die vollständige Mechanik: Ein Begriff kann eine Lage schärfen, die keine ist, und eine weichzeichnen, die eine ist.
+

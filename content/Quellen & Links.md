@@ -6,6 +6,19 @@ tags:
   - links
 ---
 
+## ARD-Presseclub — Drohnen, Sprengstoff, Sabotage (06.09.2026)
+
+| | |
+|---|---|
+| **Sendung / Video** | [Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?](https://www.youtube.com/watch?v=GXeZAGRYRM8) — Kanal *tagesschau*, live am 06.09.2026, 56:50 Min. |
+| **Sprechende** | Jörg Diehl (NDR/WDR/SZ) · Marina Kormbaki (DER SPIEGEL) · Anna Sauerbrey (DIE ZEIT) · Andrey Gurkov (Journalist und Autor) |
+| **Notiz** | [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Presseclub_Sabotage_Transkript.txt` |
+| **Gegenprobe / Zweitquelle** | [„Unsere Geduld ist nicht grenzenlos" — Russlands Botschafter](https://www.youtube.com/watch?v=Tlj7LbR_c6g) — Kanal *{ungeskriptet} by Ben*, Interview mit Botschafter Sergej Netschajew, 66:05 Min. · Transkript `Gedankenwelten/Transkripte/Netschajew_Botschafter_Transkript.txt` |
+| **Sendungsseite** | [wdr.de — Presseclub, Russland-116](https://www1.wdr.de/daserste/presseclub/sendungen/Russland-116.html) · [Gäste der Sendung](https://www1.wdr.de/daserste/presseclub/gaeste/gaeste-Russland-100.html) |
+| **Vita** | [[DenkerVita/Andrey Gurkov]] |
+| **Frühere Presseclub-Note** | [[Zeitgeist/Presseclub — Reiches Energiewende]] |
+
 ## auslandsjournal — Putins Zielscheibe Europa (02.09.2026)
 
 | | |

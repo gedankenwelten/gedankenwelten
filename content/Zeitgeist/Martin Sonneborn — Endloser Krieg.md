@@ -142,6 +142,7 @@ Das ist ein legitimes fiskalisches Risiko, das in der öffentlichen Debatte zu w
 
 ## Verbindungen
 
+
 ### → [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]]
 
 Sonneborn verkörpert die vom Film geflaggte Parole („Pazifisten, aber…") — und die Doku zeigt, wie Moskau genau solche legitime Kriegskritik findet, gießt und verstärkt. Die offene Frage beider Notes: wie man Kriegskritik von der russisch verstärkten Erzählung trennt, ohne beide gleichzusetzen.
@@ -196,3 +197,8 @@ Flemig liefert die Zahlen, die Sonneborns Kriegsgewinn-These konkret machen — 
 ### → [[Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise]]
 
 Die direkte Erwiderung auf Sonneborns monokausale Lesart. Wo Sonneborn den Krieg aufs Rüstungs-Geschäftsmodell reduziert und Putin als Aggressor ausblendet, hält Flemig (gegen Precht) dagegen: Kriege haben imperiale, status- und geografiegetriebene Motive jenseits von Geld und Rohstoffen. Beide markieren die Pole der deutschen Russland-Debatte.
+
+### → [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage]]
+
+Die Alltagsfassung derselben Sorge steht im Presseclub in der Fragerunde: Ein Zuschauer fürchtet, je mehr Deutschland liefert, desto größer die Gefahr für die eigene Bevölkerung. Sonneborn dreht diese Angst zur Systemthese und blendet den Aggressor aus; Marina Kormbaki setzt genau dort an — der Expansionsdrang endet nicht an der ukrainischen Grenze. Dieselbe Angst, zwei sehr verschiedene Schlüsse, und berechtigt bleibt sie in beiden Fällen.
+

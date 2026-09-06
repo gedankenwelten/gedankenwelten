@@ -188,6 +188,7 @@ Damit bleibt der reale Dissens kleiner, als das kämpferische Format suggeriert:
 
 ## Verbindungen
 
+
 ### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
 
 Anschauungsmaterial für die Frage dieser Note, und zwar in beide Richtungen. Theveßen und Röller kennzeichnen ihre Vermutung über die angeworbenen Low-Level-Agenten ausdrücklich als Spekulation — deshalb trägt die Passage. Im selben Gespräch setzt Theveßen hinter eine Behauptung über den GRU das Siegel „das ist eindeutig belegt" — deshalb fällt sie. Der Unterschied liegt nicht in der Sachkenntnis, sondern in der Kennzeichnung.
@@ -233,6 +234,10 @@ Das Meta-Thema im Kern: Wer darf mit welcher Selbstgewissheit den Deutungsrahmen
 ### → [[WDR Europaforum — Frieden schaffen mit immer mehr Waffen]]
 
 Flemigs Satz „Schwäche ist kein Beweis für Frieden“ ist die schärfste Gegenposition zu Jan van Akens Zeithorizont auf jenem Podium — und Margarita Šešelgytė formuliert ihn dort als gelebte Erfahrung eines Frontstaats. Beide Notes diagnostizieren zudem dieselbe Struktur: Precht und Flemig widerlegen einander nicht, sie reden über verschiedene Szenarien, so wie van Aken und Šešelgytė über verschiedene Zeitskalen.
+
+### → [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage]]
+
+Leipzig ist der Prüfstein für Prechts „in Deutschland gibt es nichts zu holen": Die Drohne lag zwischen Frachtmaschinen, die Munition in die Ukraine fliegen — es gab etwas zu holen, nur nicht das, was Precht sich unter Beute vorstellte. Und der Presseclub führt beide Antworten auf die Kennzeichnungsfrage in einer Sendung vor: Gurkovs Nord-Stream-These trägt, weil er sie selbst als These markiert; Diehls Widerspruch trägt, weil er eine Aktenlage dahinterlegt statt eines Siegels.
 
 ## Weiterdenken
 

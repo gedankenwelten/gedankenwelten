@@ -962,3 +962,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Ulf Röller
 **Status:** ✓ Vollanalyse — [[DenkerVita/Ulf Roeller]]
+
+## Andrey Gurkov
+**Status:** ✓ Vollanalyse — [[DenkerVita/Andrey Gurkov]]

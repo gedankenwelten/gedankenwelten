@@ -163,6 +163,7 @@ Wer ihn richtig liest, nimmt beides mit: die harte Substanz *und* das Bewusstsei
 
 ## Verbindungen
 
+
 ### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
 
 Der Tag, an dem das Muster dieser Doku im Westen amtlich wird — mit derselben Personalwirtschaft aus angeworbenen Kleinkriminellen, nur diesmal in Leipzig. Die beiden Stücke gehen mit dem gleichen Befund entgegengesetzt um: Die Doku arbeitet mit der Angst, weil Angst der Wirkstoff des hybriden Krieges ist; die Bundesregierung zieht sie heraus, indem sie den Vorgang präzise unterhalb des Kriegsbegriffs einsortiert. Beide Wege haben ihren Preis.
@@ -212,6 +213,10 @@ Was Münkler in zwei Minuten behauptet, führt diese Doku in vier Ländern vor �
 ### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
 
 Was Heinrich am ukrainischen Sprachgesetz methodisch fordert — eine berechtigte Kritik nicht einziehen, nur weil die Falschen sie benutzen —, zeigt der Lettland-Abschnitt im Konkreten: Die russischsprachige Minderheit ist realer Hebel Moskaus und Gruppe mit echten Härten zugleich. Der Film ist zugleich Prüffall dafür, weil er die Fälschung am Ende mit einem eigenen Deepfake bekämpft.
+
+### → [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage]]
+
+Was die Doku im EU-Osten als eingespieltes Verfahren zeigt, ist in Leipzig zum ersten Mal weiter westlich passiert — dieselben Bausätze, dieselbe Personalwirtschaft aus angeworbenen Kleinkriminellen. Andrey Gurkov liefert dort die begriffliche Schärfung nach, die hier fehlt: Wegwerfagenten holt man von der Straße, Schläfer sind Profis, und wer beides vermischt, lässt die Lage größer erscheinen, als sie zählbar ist. Methodisch stehen beide gegeneinander — der Film arbeitet mit der Angst, weil sie der Wirkstoff des hybriden Krieges ist, die Runde arbeitet gegen sie an.
 
 ## Weiterdenken
 
