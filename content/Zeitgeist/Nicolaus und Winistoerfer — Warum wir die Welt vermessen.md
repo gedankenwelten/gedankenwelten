@@ -270,6 +270,10 @@ Ein datierbarer Punkt für die Spur, und er kommt aus einer Quelle, die keinen G
 
 Der empirische Gegencheck zur AEON-Demo. Sechs Wochen nachdem Hexagon den Humanoiden in der Leipziger Batteriemontage zeigt, sagt Ronnie Vuine, in Teslas Fabrik stünden keine — beide können recht haben, wenn das Wort „humanoid" driftet. Wichtiger ist die Begründung: Hexagon nennt fehlende Menschen, Vuine rechnet dagegen, dass der Arbeiter billig war und der Ingenieur teuer ist, den ein ausgefallenes Gelenk nachts aus dem Bett holt.
 
+### → [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2|Good News — Gute Nachrichten August 2026 Teil 2]]
+
+Zwei Anwendungsfälle des Hexagon-Versprechens, mit derselben Kehrseite: Griechenland startet Satelliten, die Waldbrände ab vier Metern erkennen — und dieselbe Sensorinfrastruktur ist in der EU für Grenzüberwachung vorgesehen. Dazu die formale Parallele: Auch jene Ausgabe hat einen bezahlten Abschnitt, offengelegt und im redaktionellen Fluss.
+
 ---
 
 ## Weiterdenken

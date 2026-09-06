@@ -60,6 +60,12 @@ Die Gedankenwelten (luc)
 >
 > Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
 
+### GoodNews
+
+> **06.09.** — [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2|Good News — Gute Nachrichten August 2026 Teil 2]]
+>
+> Dreizehn Meldungen, ein Faden: Fast jede handelt von einer Verbindung, die wiederhergestellt wird — ein Netz unter der Erde, ein Netz über dem Land, ein Abkommen zwischen Feinden.
+
 ### Gedanken
 
 > **29.08.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
@@ -87,12 +93,6 @@ Die Gedankenwelten (luc)
 > **25.07.** — [[Panorama/Fortschritt|Fortschritt]]
 >
 > Zweieinhalb Jahrhunderte lang war klar, dass es besser wird. Was passiert mit einer Gesellschaft, deren Institutionen auf ein Versprechen gebaut sind, das sie selbst nicht mehr glaubt?
-
-### GoodNews
-
-> **18.08.** — [[GoodNews/Good News - Gute Nachrichten August 2026|Good News — Gute Nachrichten August 2026]]
->
-> Zwölf Meldungen, ein Muster: Das Schlimmste wurde abgesagt, das Beste auch — übrig bleibt der Wettlauf, das Überschießen kurz zu halten.
 
 ### Kultur
 

@@ -6,6 +6,18 @@ tags:
   - links
 ---
 
+## Good News — Gute Nachrichten August 2026 Teil 2 (29.08.2026)
+
+| | |
+|---|---|
+| **Video** | [Your Monthly Dose of Good News | August](https://www.youtube.com/watch?v=XaHRd7rhGKo) — Kanal *Good News*, 21:31 Min., zweite August-Ausgabe |
+| **Sprecher** | Freddy Leppin |
+| **Notiz** | [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2]] |
+| **Transkript** | `Gedankenwelten/Transkripte/GoodNews_August2026_Teil2_Transkript.txt` |
+| **Quellenliste des Kanals** | [Notion — Sources August 2](https://good-news.notion.site/Your-Monthly-Dose-of-Good-News-August-2-3cb60ebea8a38049964ef257709b36aa) |
+| **Vita** | [[DenkerVita/Freddy Leppin]] |
+| **Sponsor-Hinweis** | Der Abschnitt zum Forktree Project ist der bezahlte Beitrag von Planet Wild — im Video als Partnerschaft, in der Beschreibung als „(sponsored)" gekennzeichnet |
+
 ## DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA (06.09.2026)
 
 | | |

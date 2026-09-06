@@ -339,3 +339,8 @@ Der Systemkontext zum Connecticut-Segment: Tiana beschreibt von innen, wie das a
 ### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
 
 Das Yin zum Yang, auch diesen Monat: Benecke trägt die ungeschönten Messdaten zusammen, der August-Aufmacher meldet die gestrichenen Extremszenarien. Beide sagen dasselbe aus entgegengesetzter Richtung — die Lage reagiert auf Handeln, und genau deshalb ist weder Panik noch Entwarnung eine ehrliche Option.
+
+### → [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2|Good News — Gute Nachrichten August 2026 Teil 2]]
+
+Die zweite Ausgabe desselben Monats, elf Tage später — und das gegenläufige Bauprinzip. Wo diese Ausgabe ihr Muster in der Korrektur fand (das Schlimmste abgesagt, das Beste auch), findet Teil 2 es in der Wiederherstellung: ein Pilznetz, ein Stromnetz, eine Grünbrücke, ein Abkommen zwischen Gegnern. Der Meeresschutz hier bekommt dort seine stillste Fortsetzung — ein arktisches Meer, das durch Nichtstun geschützt bleibt.
+

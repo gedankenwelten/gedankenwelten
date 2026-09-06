@@ -295,6 +295,10 @@ Die Umkehrung des Naivitäts-Vorwurfs in gelebter Form: Was Urner neurologisch a
 
 Beide arbeiten gegen dieselbe falsche Gabelung in der Klimakommunikation: Urner verortet Hoffnung als drittes zwischen Optimismus und Weltuntergang, Beautemps die „ehrliche Mitte" zwischen Alarmismus und Verharmlosung. Und beide drehen die Frage vom *Was passiert* auf das *Wie wir denken*.
 
+### → [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2|Good News — Gute Nachrichten August 2026 Teil 2]]
+
+Das Format, das aus Urners Diagnose folgt — und die Probe darauf. Die HPV-Meldung ist ihr Kernbeispiel in Reinform: ein Erfolg, der aus einem Nicht-Ereignis besteht und im Nachrichtensystem keine Form hat, in der er auftauchen könnte. Die unbequeme Frage stellt die Note selbst: ob ein Kanal, der nur Gutes bringt, dasselbe Auswahlproblem hat wie einer, der nur Schlechtes bringt.
+
 ---
 
 ## Weiterdenken

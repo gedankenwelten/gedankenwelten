@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*301 Notes — automatisch generiert · nach Thema sortiert*
+*302 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -94,6 +94,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 - [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus|Dobusch und Zaboura — Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus]]
 - [[Zeitgeist/Dror Etkes — Die Landkarte der Besatzung|Dror Etkes — Die Landkarte der Besatzung]] — Er wuchs in einer Siedlung auf und kartiert heute jede neue. Sein Befund über die Zweistaatenlösung ist der unbequemste dieser Reihe: Sie ist vorbei — und er weiß nicht, was danach kommt.
+- [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]] — Die Cloud ist ein Bauwerk aus Beton, Strom und Wasser, und sie wird dort gebaut, wo am wenigsten zurückgefragt wird. Was der KI-Boom kostet, zahlt eine andere Adresse als die, die ihn bucht.
 - [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika|Ece Temelkuran — So beginnt Faschismus in Amerika]]
 - [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]] — Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
 - [[Zeitgeist/Elmar Thevessen - Die neue Weltunordnung|Elmar Theveßen — Die neue Weltunordnung]] — Der ZDF-Mann in Washington erklärt sein Handwerk nach Thukydides: Der erste Satz meldet, der zweite ordnet ein — und ohne den zweiten wird die Lüge zur Normalität.

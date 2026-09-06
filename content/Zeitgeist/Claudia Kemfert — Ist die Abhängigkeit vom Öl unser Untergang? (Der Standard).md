@@ -326,3 +326,8 @@ MONITOR bestätigt Kemferts ökonomische Einordnung der Atomkraft als teuerste S
 ### → [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 
 Die ökonomische Fernwirkung als Brücke: Beautemps' Callahan-&-Mankin-Befund (El Niño = Billionen-Schock mit jahrelangem Nachhall, Brandbeschleuniger bestehender Krisen) trifft Kemferts Analyse fossiler Abhängigkeit als systemische ökonomische Verwundbarkeit — Klima nicht als Wetter, sondern als Kraft auf Märkte und Preise.
+
+### → [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2|Good News — Gute Nachrichten August 2026 Teil 2]]
+
+Die Buchungszeile zum Sicherheitsargument: Die EU sparte 2025 einen zweistelligen Milliardenbetrag allein dadurch, dass Solarstrom fossile Importe ersetzte — und wurde damit unempfindlicher gegen Preissprünge aus fremden Konflikten. Kemferts These, dass Fossilabhängigkeit zuerst eine Sicherheitsfrage ist, in einer Jahreszahl.
+
