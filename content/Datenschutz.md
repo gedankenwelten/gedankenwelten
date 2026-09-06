@@ -35,9 +35,9 @@ Wir verwenden [Umami](https://umami.is/) — eine datenschutzfreundliche, cookie
 
 Diese Website verwendet **keine Cookies**.
 
-### Rückmeldungen
+### Feedback
 
-Über den Link **„Rückmeldung"** in der Fußzeile kann uns jede Leserin und jeder Leser eine Nachricht schreiben. Dabei werden gespeichert:
+Über den Link **„Feedback"** in der Fußzeile kann uns jede Leserin und jeder Leser eine Nachricht schreiben. Dabei werden gespeichert:
 
 | Datenkategorie | Verarbeitung |
 |---|---|
@@ -89,7 +89,7 @@ Alle Inhalte auf gedankenwelten.org sind öffentlich zugänglich. Direkte Zitate
 
 ## 5. Ihre Rechte
 
-Abgesehen von freiwillig übermittelten Rückmeldungen (siehe oben) speichern wir keine personenbezogenen Daten; die DSGVO-Betroffenenrechte (Auskunft, Löschung, Berichtigung, Widerruf) gelten für diese Rückmeldungen uneingeschränkt. Wenden Sie sich dafür oder bei sonstigen Fragen an: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org)
+Abgesehen von freiwillig übermitteltem Feedback (siehe oben) speichern wir keine personenbezogenen Daten; die DSGVO-Betroffenenrechte (Auskunft, Löschung, Berichtigung, Widerruf) gelten für dieses Feedback uneingeschränkt. Wenden Sie sich dafür oder bei sonstigen Fragen an: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org)
 
 ---
 
