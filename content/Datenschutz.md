@@ -1,6 +1,6 @@
 ---
 title: Datenschutzerklärung
-date: 2026-05-31
+date: 2026-09-06
 tags: []
 aliases:
   - Privacy Policy
@@ -8,7 +8,7 @@ aliases:
 
 # Datenschutzerklärung
 
-Stand: 31. Mai 2026
+Stand: 6. September 2026
 
 ## 1. Verantwortlicher
 
@@ -25,7 +25,7 @@ E-Mail: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org)
 
 ### Hosting
 
-Diese Website wird über Cloudflare Pages ausgeliefert. Cloudflare verarbeitet technisch notwendige Verbindungsdaten (IP-Adresse, Zeitstempel, aufgerufene Seite). Details: [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+Diese Website wird auf eigener Infrastruktur betrieben (ein Server in Deutschland) und über das Netz von Cloudflare ausgeliefert. Cloudflare verarbeitet als vorgeschalteter Proxy technisch notwendige Verbindungsdaten (IP-Adresse, Zeitstempel, aufgerufene Seite). Details: [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/). Der eigene Webserver führt ein technisches Zugriffsprotokoll (aufgerufene Seite, Zeitpunkt, Browser-Kennung), das spätestens nach 30 Tagen gelöscht wird und keiner Person zugeordnet wird.
 
 ### Analyse
 
@@ -34,6 +34,20 @@ Wir verwenden [Umami](https://umami.is/) — eine datenschutzfreundliche, cookie
 ### Cookies
 
 Diese Website verwendet **keine Cookies**.
+
+### Rückmeldungen
+
+Über den Link **„Rückmeldung"** in der Fußzeile kann uns jede Leserin und jeder Leser eine Nachricht schreiben. Dabei werden gespeichert:
+
+| Datenkategorie | Verarbeitung |
+|---|---|
+| **Text der Nachricht** | Wird gespeichert, um sie zu lesen und die Seite zu verbessern. |
+| **Seite**, von der aus geschrieben wurde | Wird mitgeschickt, damit ein Hinweis („hier stimmt eine Zahl nicht") ohne Erklärung ankommt. |
+| **Zeitpunkt** | Wird gespeichert. |
+| **E-Mail-Adresse** | **Nur wenn freiwillig angegeben** — und nur, um zu antworten. |
+| **IP-Adresse** | **Wird nicht gespeichert.** Zur Abwehr von Massensendungen wird sie für kurze Zeit ausschließlich als nicht rückrechenbarer Hashwert im Arbeitsspeicher gehalten. |
+
+Kein Cookie, kein Profil, keine Weitergabe an Dritte. Die Nachrichten liegen auf unserer eigenen Infrastruktur. Rechtsgrundlage ist die mit dem Absenden erteilte Einwilligung (Art. 6 Abs. 1 lit. a DSGVO); sie kann jederzeit widerrufen werden. Wer seine Nachricht gelöscht haben möchte, schreibt an [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org).
 
 ---
 
@@ -75,7 +89,7 @@ Alle Inhalte auf gedankenwelten.org sind öffentlich zugänglich. Direkte Zitate
 
 ## 5. Ihre Rechte
 
-Da wir keine personenbezogenen Daten speichern, fallen die meisten DSGVO-Betroffenenrechte (Auskunft, Löschung, Berichtigung) praktisch nicht an. Sollten Sie dennoch Fragen haben, wenden Sie sich an: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org)
+Abgesehen von freiwillig übermittelten Rückmeldungen (siehe oben) speichern wir keine personenbezogenen Daten; die DSGVO-Betroffenenrechte (Auskunft, Löschung, Berichtigung, Widerruf) gelten für diese Rückmeldungen uneingeschränkt. Wenden Sie sich dafür oder bei sonstigen Fragen an: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org)
 
 ---
 
