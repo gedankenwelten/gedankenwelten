@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*299 Notes — automatisch generiert · nach Thema sortiert*
+*300 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -276,6 +276,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/MONITOR — Abschiebungen vs. Fachkräfte|MONITOR — Abschiebungen vs. Fachkräfte]]
 - [[Zeitgeist/MONITOR — Fleischindustrie Menschen als Ware|MONITOR — Wie die Fleischindustrie Menschen zur Ware macht]]
 - [[Zeitgeist/Norio — Kupferschiefer-Mine in der Lausitz|Norio — Vergessener DDR-Schatz: Neue Giga-Mine rettet Deutschlands Industrie?]]
+- [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]] — Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
 - [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht|rp26 — KI-Industriepolitik richtig gemacht]] — Marktkonzentration, Fragilität, Subventionen — kein freier KI-Markt. „AI Directionism“ als Gegenmodell: die Anwendung lenken, nicht nur Infrastruktur bauen.
 - [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE|Sudan: Das Massaker von El Fashir und die Rolle der VAE]]
 - [[Zeitgeist/Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz|Sudan: Humanitäre Lage und DRK-Einsatz — Christof Johnen (phoenix)]]
