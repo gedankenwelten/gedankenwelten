@@ -236,6 +236,10 @@ Redecker liefert die Theorie zu Daubs Diagnose („jetzt zeigt er sich eben sehr
 
 Die Primärtext-Probe aufs Exempel: Was die Doku als Wirkungsgeschichte erzählt, lesen zwei Ideenhistoriker im Original nach — Rands Apollo-Nachruf, Thiels *Straussian Moment*, Yarvins Patchwork-Post, Andreessens Manifest. Volker Weiß tritt dort nicht als Interviewpartner auf, sondern als Buch; sein Katechon-Essay wird zum Schlüssel dafür, warum eine christlich-moralische Anhängerschaft einen unmoralischen Präsidenten trägt: Der Aufhalter kommt ohne moralischen Index.
 
+### → [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
+
+Die Fortsetzung der Herrschaft, die sich nicht mehr legitimieren muss — diesmal im ländlichen Georgia. Ein Campus, dessen Bauherr nicht genannt werden darf, gebaut auf Steueranreizen von einer bis 1,4 Millionen Dollar je Arbeitsplatz; dazu eine Executive Order, die Genehmigungen beschleunigt und Bundesland als Bauland öffnet. Die Enklave muss kein Inselstaat sein: Es genügt ein Grundstück, das von den Regeln ausgenommen ist, die für alle anderen gelten.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

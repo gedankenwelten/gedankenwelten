@@ -6,6 +6,19 @@ tags:
   - links
 ---
 
+## DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA (06.09.2026)
+
+| | |
+|---|---|
+| **Reportage / Video** | [Warum der Widerstand gegen die KI-Rechenzentren in den USA wächst](https://www.youtube.com/watch?v=-w9LfBc0PYQ) — Kanal *DW Deutsch*, 12:32 Min. |
+| **Autorin** | Ines Pohl (DW) |
+| **Sprechende** | Robin Angus (Coweta County, GA) · Yiyang Zeng (Georgia Tech) · Gregory Alonso Pirio (Sterling, VA) · Kristin Phillips (Emory University) · Delsia Bare und Ida Huddleston (Mason County, KY) · Tyler McHugh (Maysville-Mason County IDA) |
+| **Notiz** | [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]] |
+| **Transkript** | `Gedankenwelten/Transkripte/DW_KI_Rechenzentren_Transkript.txt` |
+| **Datengrundlage** | [Berkeley Lab — 2024 US Data Center Energy Usage Report](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report_1.pdf) · [Pew Research — Rechenzentren auf dem Land](https://www.pewresearch.org/short-reads/2026/04/13/most-new-data-centers-in-the-us-are-coming-to-rural-areas/) |
+| **Forschung** | [Siddik, Shehabi & Marston (2021), Wasserfußabdruck](https://doi.org/10.1088/1748-9326/abfba1) · [Yue & Zeng, Local Economic Effects of Data Center Entry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6497238) |
+| **Korrektur** | Project Oak wurde Ende August 2026 **einstimmig abgelehnt**, nicht für sechs Monate vertagt — [Times-Herald](https://www.times-herald.com/news/project-oak-data-center-denied-by-commissioners/article_76db6b0a-615b-48e6-aacd-5042bdd0f401.html) |
+
 ## Die Anstalt — Warum Wohnen unbezahlbar wird (11.11.2025)
 
 | | |

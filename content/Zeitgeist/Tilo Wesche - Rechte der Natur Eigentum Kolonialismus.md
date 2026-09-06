@@ -444,6 +444,10 @@ Die technische Gegenwart von Wesches historischem Befund. Ein Messtechnik-Konzer
 
 Bärfuss benennt genau die Lücke, die Wesche schließen will: Das Erbrecht kennt keinen Eintrag für die Atmosphäre, das CO₂ bleibt herrenloses Gut. Er bleibt dort stehen, wo Wesche weitergeht — Natur als Rechtssubjekt. Umgekehrt zeigt Wesches Eigentumskritik die Rückseite, die Bärfuss übersieht: Wer alles zuordnet, öffnet auch den Handel damit.
 
+### → [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
+
+Die Gegenprobe zur These vom Eigentum als Enteignungsvehikel. Eine Rinderzüchterin in Kentucky lehnt 26 Millionen Dollar für Land ab, das ihrer Familie seit 1848 gehört — und es ist genau der Titel, der ihr das erlaubt. Ihr Satz, es gebe nichts, was man für 26 Millionen kaufen könne und das sie nicht schon hätten, behauptet dabei keinen höheren Preis, sondern die Unzuständigkeit des Preises. Offen bleibt, was mit denen geschieht, die am selben Ort wohnen und keinen Titel haben.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

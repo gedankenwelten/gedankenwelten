@@ -213,6 +213,10 @@ Bauckhages These vom schmalen Pfad — Verticals, kleine Modelle, eigene Daten �
 
 Das erste „Ja, aber", das die Verdopplungskurve nicht einholt — weil es nicht in ihrer Dimension liegt. Der Robotiker Ronnie Vuine rechnet vor, dass Modellgröße exponentiell wächst und Reibung nicht: Montage lässt sich nicht simulieren, und Fabrikteile stehen in keinem Trainingskorpus. Beide messen nüchtern und kommen zu unvereinbaren Zeithorizonten, weil der eine das Kognitive extrapoliert und der andere das Körperliche.
 
+### → [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
+
+Die Rechnung zu Bauckhages Größenordnungen, ausgestellt an Menschen, die nie gefragt wurden: 4,4 Prozent des US-Landesstroms 2023, projiziert 6,7 bis 12 Prozent bis 2028, über 1.500 geplante Anlagen, zwei Drittel davon auf dem Land. Sein Gegenprogramm der hybriden KI — kleine, spezialisierte Modelle ohne Rechenzentrum — bekommt dort sein stärkstes Argument, und es ist kein technisches.
+
 ---
 
 ## Weiterdenken

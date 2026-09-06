@@ -138,6 +138,10 @@ Die Defensive als Hintergrundfolie: Was in *Gelebte Demokratie* aufgebaut wird, 
 
 Der Berliner Volksentscheid von 2021 taucht dort als Pointe auf: Der Investor auf der Bühne nennt Vergesellschaftung eine „radikale Enteignungsfantasie“, mit der man allein dastehe — 59,1 Prozent der Berliner hatten anders gestimmt. Fünf Jahre später ist das Gesetz noch immer nicht zur Abstimmung gestellt. Ein Lehrstück für den Abstand zwischen Mehrheit und Umsetzung, den dieses Panorama beschreibt.
 
+### → [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
+
+Derselbe Typus wie die hier versammelten Initiativen, aber mit dem anderen Ausgang: Eine Anwohnerin in Georgia bringt einen Rechenzentrums-Campus zu Fall — einstimmig, und zwar *durch* die Repräsentation statt gegen sie. Das ergänzt dieses Panorama an seiner schwächsten Stelle: Praxis und Vertretung fallen zusammen, wenn die Entscheidungsebene klein genug ist, dass die Entscheider mit den Betroffenen im selben Supermarkt einkaufen.
+
 ---
 
 ## Weiterdenken
