@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*300 Notes — automatisch generiert · nach Thema sortiert*
+*301 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -312,6 +312,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel — Vom Mittelalter für die Zukunft lernen]]
 - [[Zeitgeist/Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
 - [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]] — Souveränität ist Wahlfreiheit, nicht Isolation — über Europas 90%-Abhängigkeit von US-Tech und Vertrauen als europäischen Gegenentwurf.
+- [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]] — Der Staat zahlt die Mieten, statt Wohnungen zu besitzen — und finanziert so die Dividenden jener Konzerne, denen die Wohnungen gehören. Ein Kreislauf, an dessen Ende der Schuldige feststeht: der Mieter.
 - [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien|Dirk Specht — Strom, Merit Order und Großbatterien]]
 - [[Zeitgeist/Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten|Dirk von Petersdorff & Niclas Seydack — Wie wir unsere Leichtigkeit retten]]
 - [[Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand|Energiewende mit Tücken — Wenn der Versorger die eigene Solaranlage abschaltet]]

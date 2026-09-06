@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **06.09.** — [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
+>
+> Die Cloud ist ein Bauwerk aus Beton, Strom und Wasser, und sie wird dort gebaut, wo am wenigsten zurückgefragt wird. Was der KI-Boom kostet, zahlt eine andere Adresse als die, die ihn bucht.
+
 > **06.09.** — [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
 >
 > Der Staat zahlt die Mieten, statt Wohnungen zu besitzen — und finanziert so die Dividenden jener Konzerne, denen die Wohnungen gehören. Ein Kreislauf, an dessen Ende der Schuldige feststeht: der Mieter.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Zünder, der nicht verbunden war, und ein Satz, der eine Schwelle markiert: Wie Europa lernt, eine Feindseligkeit zu benennen, ohne sie Krieg nennen zu dürfen.
 
-> **30.08.** — [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
->
-> Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
-
-> → *2 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

@@ -265,6 +265,10 @@ Hünemörders Satz — wenn es nichts zu entscheiden gibt, nennt es nicht Beteil
 
 Bulambo sagt, die Tech-Industrie operiere auf kolonialen Rahmenwerken; Mbembe hat die Denkfigur ausgearbeitet, die diesen Satz trägt — koloniale Logiken sterben nicht, sie wandern in neue technische Formen, und das Zeitalter der Artefakte schreibt das Nord-Süd-Gefälle als Infrastruktur fort. Die Reibung zwischen beiden ist produktiv: Mbembe denkt planetarisch und stellt die Zugehörigkeit selbst zur Debatte, Bulambo denkt in Budgetzeilen und Stellenanteilen und rechnet vor, dass ein Prozent auf zwei Prozent steigen soll. Wer Mbembe gelesen hat, könnte Bulambos Ziel für zu klein halten. Wer Bulambo zuhört, hört den Preis, den die große Perspektive nicht zahlt — dass diese Arbeit ohne Ressourcen, ohne Förderung und auf Kosten der eigenen psychischen Gesundheit geleistet wird.
 
+### → [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
+
+Die Etage *Rechenzentrum* von innen — und mit umgedrehter Himmelsrichtung. Wo Bulambo die Extraktion im Süden und den Nutzen im Norden verortet, liegt in dieser Reportage beides in denselben Vereinigten Staaten: Die Lohngewinne bleiben in der Metropolregion, Lärm, Wasser und Flächenverbrauch bleiben draußen. Das koloniale Muster ist damit kein Verhältnis zwischen Kontinenten, sondern eine Form, die auch zwischen Coweta County und Atlanta funktioniert.
+
 ---
 
 ## Weiterdenken

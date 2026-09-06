@@ -336,6 +336,10 @@ Bendsens sprachkritische Beobachtung — „Externalität" klingt harmlos, obwoh
 
 Das Panorama fragt, was aus der Rechnung fällt und wer versucht, anders zu zählen. Fischers Wasserbeispiel ist der klarste empirische Fall seiner These: Ein Gut ist nur deshalb bezahlbar, weil eine Position auf null steht. Zugleich schiebt sie eine dritte Kategorie zwischen die beiden, mit denen das Panorama arbeitet. Fruchtbarer Boden ist nicht unmessbar wie Fürsorge oder Resonanz — er ist unherstellbar. Die Nobelpreisträger kommen mit dem Eimer Sand wieder heraus. Was das Panorama als offene Frage stellt — ob man das Unmessbare mitzählen kann, ohne es zu zerstören —, bekommt hier seinen härtesten Testfall: etwas, das sich exakt beziffern lässt und trotzdem nicht ersetzbar ist.
 
+### → [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
+
+Dieselbe Methode, auf den Retter angewandt: das Ausrechnen des Verschwiegenen. Was bei Fischer die 150.000 Liter Wasser pro Auto sind, ist dort das Kühlwasser der KI-Infrastruktur — 17 Milliarden Gallonen direkt, 211 Milliarden indirekt, ein Fünftel aus wassergestressten Einzugsgebieten, und in keiner Nachhaltigkeitsbroschüre. Der Bilanz fehlt nicht nur die Zahl, sondern auch der Name dessen, der sie verursacht.
+
 ---
 
 ## Weiterdenken
