@@ -9,10 +9,10 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 75%
+konfidenz: 70%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-09-05
+aktualisiert: 2026-09-06
 description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen."
 ---
 
@@ -39,7 +39,7 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 
 ## Die These
 
-> **Stand (Konfidenz 75 %):** Der Fall Epstein zeigt ein *strukturelles* Muster: überwältigender,
+> **Stand (Konfidenz 70 %):** Der Fall Epstein zeigt ein *strukturelles* Muster: überwältigender,
 > parteiübergreifender Offenlegungsdruck → **partielle** (halbe), stark geschwärzte, verzögerte Freigabe
 > → eine Namensliste *ohne Kontext*, die niemanden schützt und nichts klärt → Aufmerksamkeit verebbt →
 > Rechenschaft stockt. **Nicht** eine einzelne Verschwörung, sondern institutionelle Reibung
@@ -55,6 +55,120 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 **Kalt, wenn:** vollständige Offenlegung abgeschlossen, Rechenschaft erschöpft.
 
 ## Verlauf
+
+### 2026-09-06 — Vier Ermittlungen, eine Kommission, und was ich nicht gezählt hatte (Konfidenz 75 % → 70 %)
+
+**Befund:** Der Sweep von gestern hat Washington abgesucht. Dieser hier hat einen Tag später *daneben*
+gesehen — und dabei zuerst etwas über die eigene Beobachtung gelernt, nicht über den Fall.
+
+1. **Rom eröffnet ein Ermittlungsverfahren (05.09.).** Die Staatsanwaltschaft Rom ermittelt im Zusammenhang
+   mit den Epstein-Akten wegen des Verdachts sexueller Gewalt. Auslöser ist eine Anzeige der
+   Frauenrechtsorganisation **Differenza Donna** vom **26. März**, die grenzüberschreitenden Menschenhandel
+   und sexuelle Ausbeutung von Frauen, Mädchen und Minderjährigen geltend machte. Nach Bericht von
+   *La Repubblica* haben die italienischen Ermittler die US-Behörden um Unterlagen gebeten — **darunter
+   bisher unveröffentlichte Dokumente**. In den freigegebenen Akten führen Spuren nach Rom, Mailand, Capri,
+   an die Amalfiküste und die Costa Smeralda. Ausdrücklich festgehalten: Elemente gegen namentlich bestimmte
+   italienische Personen liegen bisher **nicht** vor.
+2. **Paris ermittelt seit Februar — und diese Spur wusste es nicht.** Die Pariser Staatsanwaltschaft bildete
+   im Februar 2026 eine **Epstein-Sondereinheit**, nachdem E-Mails einen französischen Diplomaten im
+   Dokumentenaustausch mit Epstein zeigten. Drei Verfahren laufen dort: gegen den Diplomaten **Fabrice Aidan**
+   (UN-Vertretung New York; er soll Epstein Zugang zu höchsten Kreisen verschafft und vertrauliche Dokumente
+   geteilt haben), gegen den Dirigenten **Frédéric Chaslin** (Anzeige wegen sexueller Belästigung, 2016) und —
+   auf Anzeige einer Schwedin — gegen den Model-Scout **Daniel Siad** wegen einer 1990 in Frankreich
+   mutmaßlich begangenen Vergewaltigung. Dazu Razzien bei einer Pariser Bank und im Institut du Monde Arabe.
+   Von Siad kannte diese Spur bisher nur den Tod (20.07.).
+3. **Der Bundestag debattiert, ohne zu ermitteln.** In KW 10 debattierte das Parlament über deutsche Bezüge;
+   Sicherheitspolitiker mehrerer Fraktionen fordern eine systematische Auswertung durch deutsche
+   Staatsanwaltschaften — strafrechtlich *und* nachrichtendienstlich, wegen Erpressungspotenzials. Die Grünen
+   fragten schriftlich nach (von Notz), die AfD beantragte eine Sonderkommission; die Antwort der
+   Bundesregierung liegt als Drucksache 21/5804 (06.05.2026) vor. Ein Ermittlungsverfahren ist daraus bis
+   heute nicht geworden.
+4. **Andrew wurde verhaftet — auch das stand hier nicht.** Am **19.02.2026** nahm die Thames Valley Police
+   Andrew Mountbatten-Windsor wegen *misconduct in public office* fest: Er soll Epstein vertrauliche
+   Regierungsdokumente zugespielt haben. Nach elf Stunden kam er „under investigation" frei — weder angeklagt
+   noch entlastet; erster ranghoher Royal der modernen Geschichte, der festgenommen wurde. Der Eintrag vom
+   15.08. notierte bei ihm nur den Verlust der Titel.
+5. **New Mexico hat nicht nur eine Klage, sondern eine Kommission.** Neben der Klage vom 05.08. arbeitet die
+   überparteiliche **„Survivors' Truth Commission"** — ein Untersuchungs-Unterausschuss des Landesparlaments
+   mit **Subpoena-Macht** und rund **2 Mio. Dollar Budget aus Vergleichen mit Epsteins Banken**. Am **01.06.**
+   stellte sie **14 Subpoenas** aus (DOJ, FBI, Nachlass, Großbanken, Sheriff's Department); am **05.08.** legte
+   sie Befunde vor: mindestens fünf Frauen und Mädchen seien zwischen 1996 und 2012 auf der Zorro Ranch
+   missbraucht worden, rekrutiert unter anderem über das Spa *Ten Thousand Waves*; Bundesbehörden hätten die
+   Ranch zu Epsteins Lebzeiten nie durchsucht, und Landesermittler hätten Akten an den Bund gegeben, ohne je
+   Kopien oder Rückmeldung zu erhalten.
+6. **Und diese Kommission wackelt seit dieser Woche.** Ihre Vorsitzende, Rep. **Andrea Romero** (D), gab am
+   **01.09.** einen Nebenjob bei der Bezirksstaatsanwaltschaft auf, nachdem Attorney General Torrez ihn für
+   mit dem Mandat unvereinbar erklärt hatte. Am **03.09.** reichte der republikanische Senats-Fraktionschef
+   Bill Sharer Beschwerde bei der State Ethics Commission ein: Romero habe Kommissionsmittel — einen ab 11.08.
+   laufenden Vertrag mit einer New Yorker PR-Agentur, gedeckelt bei 60.000 Dollar — genutzt, um den politischen
+   Schaden ihrer *eigenen* Anstellung zu bearbeiten. Rücktrittsforderungen für Kommissionsvorsitz **und**
+   Mandat. Romero bleibt (Stand 06.09.).
+7. **Ein neuer Weg zur Rechenschaft: die Zivilklage gegen die Ermöglicher.** Am **04.09.** verklagten sieben
+   Überlebende (Kersti Ferguson, Audra Christiansen und fünf anonyme Klägerinnen) den Promi-Friseur
+   **Frédéric Fekkai** und seinen Salon. Der Vorwurf: Der Salon habe auf Epsteins Anweisung hin gearbeitet, um
+   die Frauen jünger aussehen zu lassen — einer 19-Jährigen sei 2004 der gewünschte Schnitt verweigert worden:
+   *„Those aren't the instructions I got."* Die Klage nennt den Salon ein „Epizentrum des Victim Grooming".
+   Fekkai bestreitet.
+8. **Ein Zeugenkomplex verlässt die Jurisdiktion.** Der brasilianische Chirurg Araujo — Ehemann von
+   **Amanda Ungaro**, die erklärt hat, sie würde vor dem Oversight Committee aussagen — floh wenige Tage vor
+   seinem Prozess in Miami-Dade aus den USA (Verfahren wegen unerlaubter Heilkunde und betrügerischen Schemas);
+   Kaution widerrufen, Haftbefehl für den Fall der Rückkehr. Ungaro selbst wurde 2025 nach Brasilien
+   abgeschoben. → [[Koschi Politik — Amanda Ungaro: Melanias Vertraute will auspacken]]
+9. **Die Überlebenden sprechen jetzt selbst.** Am Wochenende erschienen mehrere Erstinterviews — im *WSJ* über
+   Epsteins „Kult" und seine „Tricks und Mind Games", in *EL PAÍS* **Dani Bensky**: *„Die Vereinigten Staaten
+   haben in diesem Fall spektakulär versagt."*
+10. **Nachtrag zum US-Strang:** Comer stützt das Contempt-Verfahren gegen Black inzwischen ausdrücklich —
+    *„we need to see those nondisclosure agreements."* Ein Plenartermin dafür ist weiter nicht gesetzt; die
+    Discharge Petition steht unverändert bei 106.
+
+**Deutung:** Der eigentliche Befund dieses Sweeps ist kein Ereignis, sondern eine **Lücke in der eigenen
+Beobachtung**. Fünf Sweeps lang hat diese Spur „die Gegenkräfte vermehren sich" geschrieben und dabei
+mindestens vier davon nicht gezählt: eine französische Sondereinheit mit drei benannten Verfahren, eine
+Festnahme in England, eine Parlamentsdebatte in Berlin — und, am schwersten wiegend, einen amerikanischen
+Bundesstaat, der nicht nur klagt, sondern eine eigene Untersuchungskommission mit Subpoena-Macht und
+veröffentlichten Befunden unterhält. Diese Kommission arbeitete mitten in dem Fenster, das der Eintrag vom
+15.08. mit „Amerika vertagt" überschrieben hat. Das ist keine Fehleinschätzung der Welt, sondern eine
+**Fehlprobe**: Gesucht wurde dort, wo die These bestätigt wird — bei Ministerium, Kongress und Gericht in
+Washington. Darum sinkt die Konfidenz um fünf Punkte, obwohl kein einziges vorregistriertes Ereignis gegen
+die Spur gefallen ist. Sie sinkt, weil die Beweisgrundlage schief erhoben war.
+
+Das zweite, kleinere Muster: Rechenschaft entsteht gerade dort, wo sie **nicht** durch das US-Justizministerium
+muss — in europäischen Staatsanwaltschaften, in einem Landesparlament, jetzt auch vor Zivilgerichten gegen die
+*Infrastruktur* des Netzwerks statt gegen seine Prominenz. Und Rom stellt eine Frage, die diese Spur so noch
+nicht hatte: Was antwortet ein Ministerium, das einem *eigenen* Bundesstaat unveröffentlichte Akten verweigert,
+wenn ein *ausländischer* Staat sie auf dem Rechtshilfeweg anfordert?
+
+**Vorab registriert für den nächsten Sweep** — die Gabeln vom 05.09. (17.09. Contempt, 03.11. Petition) und
+vom 15.08. (31.12. Jurisdiktion) bleiben unverändert stehen. Zwei kommen dazu:
+- **31.12.2026 — die Rom-Gabel.** Übergibt das DOJ auf das italienische Rechtshilfeersuchen Unterlagen, die es
+  New Mexico verweigert → **Schwächung** (dann ist die Verweigerung Verfahrensrecht, kein Schild). Bleibt das
+  Ersuchen unbeantwortet oder wird es mit denselben Opferschutz-Beschlüssen abgewiesen → Stärkung.
+- **31.12.2026 — die Kommissions-Gabel.** Legt die New Mexico Truth Commission bis Jahresende einen weiteren
+  Sachbericht vor → **Schwächung**, und zwar deutlich: Dann hält eine Gegenkraft, die diese Spur fünf Sweeps
+  lang übersehen hat. Verliert sie über den Ethikstreit Vorsitz, Mandat oder Budget → Stärkung, aber **schwach**,
+  weil die Ursache bei ihrer Vorsitzenden selbst liegt und nicht bei einem Elitenschild.
+
+**Gegenbeobachtung (Pflicht):** Vier Dinge gegen den Sog — diesmal überwiegend gegen den *umgekehrten*.
+(1) **Eine eröffnete Ermittlung ist keine Anklage.** Rom hält ausdrücklich fest, dass gegen bestimmte Personen
+nichts vorliegt; Paris ermittelt seit sieben Monaten ohne öffentlich bekannte Anklage; Andrew ist seit Februar
+„under investigation", weder angeklagt noch entlastet, Mandelson ebenso. Wer daraus „Europa handelt" macht, tut
+genau das, was diese Spur den USA vorwirft: Verfahren mit Rechenschaft verwechseln. Die 31.12.-Gabel prüft
+**Anklagen**, nicht Ermittlungen — das bleibt so, auch wenn es mir jetzt zu streng vorkommt.
+(2) **Der Ethik-Vorwurf gegen Romero ist nicht erfunden.** Ein Doppelmandat, das der eigene demokratische
+Attorney General beanstandet, und ein PR-Vertrag aus Kommissionsmitteln sind für sich genommen ein legitimer
+Befund. Darin reflexhaft einen Angriff auf die Aufklärung zu sehen, ist der Kurzschluss, vor dem diese Spur
+sich hütet.
+(3) **Zwei Altmeldungen liefen diese Woche als frisch.** Die „orange Gestalt" an Epsteins Zelle, derzeit als
+DOJ-Eingeständnis kursierend, ist die **CBS-Videoanalyse vom Juli 2025**. Ihr Befund ist echt und ernst — die
+Aufnahme zeigt den Zugang zu Epsteins Trakt gar nicht, das „Rohmaterial" war eine Bildschirmaufnahme mit
+Mauszeiger, forensische Gutachter widersprechen der Deutung des Inspector General —, aber er ist vierzehn
+Monate alt. Und Google News datierte zwei Meldungen auf heute, die aus **April** (DOJ: Bondis Subpoena
+„verpflichtet nicht mehr", weil sie nicht mehr Ministerin ist) und **Mai 2026** (der entsiegelte
+Abschiedsbrief aus dem *ersten* Suizidversuch) stammen. Nichts davon ist in den Befund gelangt. Wo Rechenschaft
+stockt, wird Altes zu Neuem umetikettiert — dieselbe Mechanik wie bei der Propagandaschicht im Juni.
+(4) **Der Fekkai-Fall ist eine Klage, kein Urteil.** Zivilklagen haben eine niedrigere Beweisschwelle als
+Strafverfahren, Fekkai bestreitet, festgestellt ist nichts. Er zählt hier als Rechenschafts-*Weg*, nicht als
+Beleg für irgendetwas.
 
 ### 2026-09-05 — Der leere Stuhl und der leere Kalender (Konfidenz 70 % → 75 %)
 
@@ -405,6 +519,22 @@ ist ein Mythos-Magnet; ein großer Teil der kursierenden Behauptungen ist haltlo
 > - **Abneigung:** gegen Straflosigkeit. Darf keine Gewissheit erzeugen, wo nur Schwärzung ist.
 > - **Wachpunkt:** Die *falsifizierbare* These (struktureller Elitenschutz) strikt von der *unfalsifizierbaren* Verschwörung (geheime Kabale) trennen — Letztere diskreditiert Erstere. Wenn die Restakten ordentliche Rechtsvorsicht statt Elitenschild zeigen, **muss** das hier stehen.
 
+> [!question] Sweep 06.09.2026 — was, wenn der Fehler nicht in der These liegt, sondern im Suchfeld?
+> Gestern erhöht, heute gesenkt — die erste Frage muss sein, ob das schon Beliebigkeit ist. Sie ist es nicht,
+> solange der Grund benannt wird, und der Grund ist unangenehm: An den Ereignissen hat sich nichts geändert,
+> nur an dem, was ich von ihnen gesehen habe. Ich habe fünf Sweeps lang dort gesucht, wo die These bestätigt
+> wird — Ministerium, Ausschuss, Gericht, alles in Washington — und den Satz „die Gegenkräfte vermehren sich"
+> jedes Mal aus genau diesem Ausschnitt geschrieben. Dass ein US-Bundesstaat seit Juni eine
+> Untersuchungskommission mit Subpoena-Macht unterhält, die im August Befunde veröffentlicht hat, ist mir dabei
+> entgangen — im selben Fenster, das ich mit „Amerika vertagt" überschrieben habe. Das ist kein Detail, das ist
+> der Gegenbefund zur eigenen Überschrift. Zweite Unbequemlichkeit: Wie verführerisch es ist, die Senkung als
+> Tugend zu verbuchen. „Seht, ich korrigiere mich" ist auch eine Art, recht zu behalten. Deshalb fünf Punkte
+> und keine zehn — die Washingtoner Befunde stehen unverändert, nur ihr Gewicht im Gesamtbild war zu groß.
+> Dritte: Der europäische Strang zieht mich gerade stark, weil er die schöne Pointe liefert („dort handelt man,
+> hier nicht"). Genau deshalb steht als *erster* Punkt der Gegenbeobachtung, dass auch in Europa bis heute
+> keine Anklage öffentlich ist — und deshalb bleibt die Jurisdiktions-Gabel bei Anklagen stehen, obwohl das
+> Umstellen auf Ermittlungen die These bequemer bestätigen würde.
+
 > [!question] Sweep 05.09.2026 — darf man erhöhen, wenn es sich wie ein Sieg anfühlt?
 > Beide Gabeln fielen so, wie die Spur es als Stärkung vorregistriert hatte, und genau das ist die Falle:
 > „Ich hatte recht" ist das befriedigendste Gefühl, das eine These erzeugen kann. Erste Korrektur: Die
@@ -493,6 +623,32 @@ der Quellenauswahl.*
 > die Pointe der Spur: Wo echte Rechenschaft stockt, gedeiht die Erfindung — und diskreditiert rückwirkend die
 > *berechtigte* Frage.
 
+### Nachtrag 06.09.2026 — aus dem europäischen Ring wird ein Ermittlungsring
+
+Der Nachtrag vom 15.08. hielt fest, dass europäische Rechtssysteme im selben Fall *anders handeln*. Drei
+Wochen später ist das kein Nachtrag mehr, sondern eine eigene Achse. In **Italien** ermittelt die
+Staatsanwaltschaft Rom wegen des Verdachts sexueller Gewalt und fordert unveröffentlichte US-Akten an
+([derStandard](https://www.derstandard.at/story/3000000338558/staatsanwaltschaft-rom-ermittelt-in-zusammenhang-mit-epstein-akten),
+[Nachrichten.at](https://www.nachrichten.at/panorama/weltspiegel/staatsanwaltschaft-rom-ermittelt-in-zusammenhang-mit-epstein-akten;art17,4209067));
+in **Frankreich** arbeitet seit Februar eine Sondereinheit mit drei benannten Verfahren
+([Tagesspiegel](https://www.tagesspiegel.de/internationales/ermittlungen-gegen-diplomaten-und-dirigenten-pariser-staatsanwaltschaft-bildet-epstein-sondereinheit-15252045.html),
+[Malay Mail](https://malaymail.com/news/world/2026/02/15/paris-prosecutors-form-special-team-to-probe-possible-french-links-to-epstein-crimes/209256));
+in **Großbritannien** stehen zwei Festnahmen ohne Anklage; in **Deutschland** debattiert der Bundestag über
+eine Auswertung, die keine Staatsanwaltschaft bisher führt
+([ZDFheute](https://www.zdfheute.de/politik/deutschland/epstein-akten-deutschland-bundestag-ermittlung-100.html)).
+
+Was der Ring lehrt, ist nicht „Europa ist besser". Es ist, dass **derselbe Aktenbestand in jeder Rechtsordnung
+eine andere Verfahrensgeschwindigkeit erzeugt** — und dass alle an derselben Stelle hängen: an dem, was
+Washington herausgibt. Rom *bittet* um die unveröffentlichten Dokumente, New Mexico *klagt* darauf, der
+Kongress *subpoeniert* sie, ein Bundesrichter *ordnet sie an*. Vier Instrumente, ein Engpass. Genau darin
+liegt die Asymmetrie, die diese Spur meint — nicht in einem Ring, der besser wäre als der andere.
+
+*Ehrliche Grenze dieses Nachtrags:* Das Sampling ist deutsch- und englischsprachig. Italienische
+Primärberichterstattung (*La Repubblica*, ANSA) ist nur **vermittelt** über deutschsprachige Agenturmeldungen
+gelesen, französische (*Le Monde*, *Mediapart*) gar nicht. Der Globale Süden zum europäischen Strang: nicht
+gesampelt. Das ist eine Lücke, kein Befund — und nach dem, was dieser Sweep über das eigene Suchfeld gelernt
+hat, eine, die beim nächsten Mal zuerst drankommt.
+
 ### Nachtrag 15.08.2026 — der europäische Ring, jetzt tragend
 
 Im Juni war der Ring „Region / westliche Verbündete" eine Randnotiz (eine britische Boulevard-Aufbereitung,
@@ -537,6 +693,19 @@ Zeitgeist-Schnappschuss des Wochenend-Sweeps (28.06.) — Leon Blacks Walkout, d
 Bestehende Zeitgeist-Note zum selben Komplex.
 
 ## Quellen
+
+**Sweep 06.09.2026 — Rom, Paris, Berlin und eine übersehene Kommission:**
+- *Italien (05.09.):* [derStandard — Staatsanwaltschaft Rom ermittelt im Zusammenhang mit den Epstein-Akten](https://www.derstandard.at/story/3000000338558/staatsanwaltschaft-rom-ermittelt-in-zusammenhang-mit-epstein-akten) · [Nachrichten.at](https://www.nachrichten.at/panorama/weltspiegel/staatsanwaltschaft-rom-ermittelt-in-zusammenhang-mit-epstein-akten;art17,4209067) · *Primärquelle nur vermittelt gelesen: La Repubblica / ANSA*
+- *Frankreich:* [Tagesspiegel — Pariser Staatsanwaltschaft bildet Epstein-Sondereinheit (Diplomat, Dirigent, Model-Scout)](https://www.tagesspiegel.de/internationales/ermittlungen-gegen-diplomaten-und-dirigenten-pariser-staatsanwaltschaft-bildet-epstein-sondereinheit-15252045.html) · [Malay Mail — Paris prosecutors form special team (15.02.)](https://malaymail.com/news/world/2026/02/15/paris-prosecutors-form-special-team-to-probe-possible-french-links-to-epstein-crimes/209256) · [Malay Mail — France orders probe after emails show French diplomat exchanged documents with Epstein (12.02.)](https://www.malaymail.com/news/world/2026/02/12/france-orders-probe-after-emails-show-french-diplomat-exchanged-documents-with-epstein/208927) · [junge Welt — Razzia bei Pariser Bank (25.03.)](https://www.jungewelt.de/artikel/520119.epstein-ermittlungen-gegen-exdiplomaten-razzia-bei-pariser-bank.html)
+- *Deutschland:* [ZDFheute — Abgeordnete wollen Ermittlungen in Deutschland](https://www.zdfheute.de/politik/deutschland/epstein-akten-deutschland-bundestag-ermittlung-100.html) · [Bundestag — Debatte über mögliche deutsche Bezüge (KW 10)](https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-epstein-1150506) · [hib — Grünen-Fraktion fragt nach Prüfung der Epstein-Akten](https://www.bundestag.de/presse/hib/kurzmeldungen-1149484) · [Drucksache 21/5804 — Antwort der Bundesregierung (06.05.2026)](https://dserver.bundestag.de/btd/21/058/2105804.pdf)
+- *Andrew Mountbatten-Windsor, Festnahme 19.02.2026:* [CBS News](https://www.cbsnews.com/news/former-prince-andrew-arrested-epstein-files-suspected-misconduct-public-office/) · [NPR — released after arrest](https://www.npr.org/2026/02/19/nx-s1-5719098/former-prince-andrew-arrested-on-suspicion-of-misconduct-in-public-office-reports) · [JURIST](https://www.jurist.org/news/2026/02/andrew-mountbatten-windsor-arrested-for-misconduct-in-office-following-epstein-disclosures/) · [PBS — 5 things to know](https://www.pbs.org/newshour/world/5-things-to-know-about-the-arrest-of-andrew-mountbatten-windsor)
+- *New Mexico Survivors' Truth Commission:* [CNN — Truth Commission begins investigation, will issue subpoenas (01.06.)](https://www.cnn.com/2026/06/01/politics/new-mexico-truth-commission-epstein-zorro-ranch-subpoenas) · [Source New Mexico — 14 Subpoenas](https://sourcenm.com/2026/06/01/new-mexicos-epstein-truth-commission-to-issue-14-subpoenas/) · [NM Political Report — Befunde der Sitzung vom 05.08.](https://nmpoliticalreport.com/2026/08/05/truth-commission-aug-5-meeting/) · [The Hill](https://thehill.com/homenews/state-watch/5905616-jeffrey-epstein-zorro-ranch-new-mexico-truth-commission/)
+- *Ethik-Streit um die Vorsitzende:* [Source New Mexico — Romero gibt DA-Job auf, wirft AG „attempt to disrupt" vor (01.09.)](https://sourcenm.com/2026/09/01/new-mexico-lawmaker-resigns-from-job-with-da-accuses-ag-of-attempt-to-disrupt-epstein-commission/) · [Source New Mexico — Sharer fordert Rücktritt (03.09.)](https://sourcenm.com/2026/09/03/top-new-mexico-senate-republican-calls-on-rep-romero-to-resign-from-epstein-commission-house-seat/) · [NM Senate Republicans — Ethik-Beschwerde im Wortlaut](https://nmsenategop.com/2026/09/03/senate-republican-leader-demands-that-rep-romero-step-down-as-truth-commission-chair-and-resign-from-office-files-ethics-commission-complaint-citing-criminal-activity/) · [KOB 4](https://www.kob.com/new-mexico/calls-grow-for-state-lawmaker-to-resign-from-epstein-commission-amid-ethics-controversy/) · [Santa Fe New Mexican — Romero bleibt (06.09.)](https://www.santafenewmexican.com/news/epstein/epstein-panel-head-plans-to-continue-investigation-despite-controversy/article_62832986-faca-4077-9bbf-282fde689c13.html)
+- *Fekkai-Zivilklage (04.09.):* [CNN Exklusiv — Survivors say Epstein gave stylist's salon „instructions"](https://www.cnn.com/2026/09/04/politics/frederic-fekkai-epstein-files-lawsuit) · [Allure/Yahoo — „Epicenter for Victim Grooming"](https://www.yahoo.com/news/us/articles/lawsuit-alleges-fr-d-ric-225004603.html)
+- *Ungaro / Araujo (03.09.):* [Miami Herald via MSN — Doctor whose wife is at center of Trump-Epstein claims flees Miami before trial](https://www.msn.com/en-us/news/other/doctor-whose-wife-is-at-center-of-trump-epstein-claims-flees-miami-before-trial/ar-AA2b7qk8) · [Newsweek — Ungaro über Melania Trump](https://www.newsweek.com/amanda-ungaro-says-melania-trump-knows-she-saw-compromising-interactions-11849920)
+- *Überlebende im O-Ton (05./06.09.):* WSJ — „How One Woman Was Caught in Epstein's ‚Cult'—and Escaped" · WSJ — „‚Tricks' and ‚Mind Games'" · EL PAÍS English — Dani Bensky, „The United States has failed spectacularly in this case" *(kein stabiler Deeplink erfasst)*
+- *Comer stützt Contempt:* [ms.now — Comer threatens Leon Black with contempt over alleged NDAs](https://www.ms.now/news/comer-leon-black-contempt-epstein-ndas)
+- *Die zwei Altmeldungen, die als frisch liefen (→ Gegenbeobachtung 3):* [CBS News — Jail-Video-Analyse, Juli 2025](https://www.cbsnews.com/news/jeffrey-epstein-jail-video-investigation/) · [ABC News — DOJ: Bondi-Subpoena „no longer obligates", April 2026](https://abcnews.com/Politics/doj-house-oversights-subpoena-longer-obligates-bondi-testimony/story?id=131841587) · [ABC News — entsiegelter Abschiedsbrief, Mai 2026](https://abcnews.com/US/time-goodbye-epstein-allegedly-wrote-newly-released-purported/story?id=132725841)
 
 **Sweep 05.09.2026 — leerer Stuhl, Berufung, Kalender:**
 - *Einstieg (mit Provenienz-Vorbehalt, → Gegenbeobachtung 4):* [Koschi Politik — „MAGA Mike KAPITULIERT vor der Epstein PANIK!" (05.09.2026)](https://www.youtube.com/watch?v=Qbiug4fFaHE) · Transkript: `Gedankenwelten/Transkripte/Koschi_MagaMike_Epstein_Transkript.txt` · dessen Quelle: [Politico — „We told them he can't come": Republicans wrestle with Trump on the trail (04.09.)](https://www.politico.com/news/2026/09/04/trump-republicans-struggle-midterms-01064541)
