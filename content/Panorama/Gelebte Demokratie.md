@@ -134,6 +134,10 @@ Das wirtschaftliche Gegenstück: Wo dieses Panorama politische Praxis versammelt
 ### → [[Panorama/NoAfD|NoAfD]]
 Die Defensive als Hintergrundfolie: Was in *Gelebte Demokratie* aufgebaut wird, ist auch das, was in *NoAfD* verteidigt wird. Beide Panoramen brauchen einander — das Eine zeigt die Bedrohung, das Andere die Antwort.
 
+### → [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
+
+Der Berliner Volksentscheid von 2021 taucht dort als Pointe auf: Der Investor auf der Bühne nennt Vergesellschaftung eine „radikale Enteignungsfantasie“, mit der man allein dastehe — 59,1 Prozent der Berliner hatten anders gestimmt. Fünf Jahre später ist das Gesetz noch immer nicht zur Abstimmung gestellt. Ein Lehrstück für den Abstand zwischen Mehrheit und Umsetzung, den dieses Panorama beschreibt.
+
 ---
 
 ## Weiterdenken

@@ -221,3 +221,8 @@ Stattdessen prüft das Bundesverfassungsgericht, ob eine Partei „aktiv, agitat
 - [[Panorama/NoAfD|Panorama: NoAfD]] — Kühnert speist zwei Stränge: die bürgernahe Aufklärung über das Verbotsverfahren (was es bedeutet, die zwei Hürden, die NPD-Verhältnismäßigkeit, „kein Verbot löst die Gesinnung") und „Geld = Macht" als Demokratiegefahr (extremer Reichtum schafft ein Sondersystem).
 - [[Panorama/Autoritaerer Internationalismus|Panorama: Autoritärer Internationalismus]] — Kühnerts „Sondersystem"-These und die Musk/Charlie-Kirk-Mechanik sind die politiker-formulierte Variante der dort kartierten Tech-Oligarchie und privatisierten Souveränität.
 - [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]] — Jägers Theorie zu Kühnerts Praxis: Snippet-Politik = Politics/Policy-Trennung, die ins Kulturelle verschobene soziale Frage = Flucht ins Symbolische; Außendiagnose und Innenansicht desselben Zerfalls.
+
+### → [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
+
+Was Kühnert nüchtern durchrechnet, führt Die Anstalt als Szene vor: Wohngeld und Unterkunftskosten von zusammen rund zwanzig Milliarden im Jahr, die keine einzige Wohnung schaffen. Auch dort ist Wien das Gegenbild. Die Sendung geht an einem Punkt weiter als er — sie spielt die Vergesellschaftung durch und lässt die Bauministerin sagen: „Das kann ich nicht machen. Ich bin Sozialdemokratin.“ Kühnerts tatsächliche Zurückhaltung beim Berliner Volksentscheid gibt dieser Pointe ihren realen Grund.
+

@@ -180,4 +180,5 @@ Verbundene Notes: [[Heiner Flassbeck — Deutschlands Lohn-Irrsinn]] · [[Heiner
 | [[MONITOR — Minijobs als Armutsfalle]] | Problem |
 | [[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder]] | Ursache |
 | [[Rente]] | Verbundenes Panorama |
+| [[Die Anstalt — Warum Wohnen unbezahlbar wird]] | Problem · Lösung |
 | [[Demokratische Wertschoepfung]] | Verbundenes Panorama |

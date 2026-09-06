@@ -285,3 +285,8 @@ Was bei Mattei ein Klassenprojekt ist, steht bei Dalio als „Weg 1: Kürzen“ 
 ### → [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
 
 Der Gegentest zu Matteis These an einem lebenden Fall. Dort streiten zwei progressive Ökonomen darüber, wie man die Sparlogik am besten widerlegt — und setzen damit voraus, dass sie einem Denkfehler entspringt. Für Mattei ist sie ein Werkzeug, das Marktabhängigkeit herstellt und deshalb jede Widerlegung überlebt. Ihre Lesart schärft dort besonders eine Passage: Höfgens Wunsch, die Preisstabilität von der Notenbank zu den Regierungen zu verschieben, ist bei ihr die Rücknahme einer Entdemokratisierung, die von Anfang an gewollt war.
+
+### → [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
+
+Der Wohnungsmarkt als Fallstudie zu Matteis These: Um zu sparen, verkauften Länder und Kommunen in den Nullerjahren ihre Wohnungsbestände — Dresden den kompletten, an einen Finanzinvestor. Heute kauft die Stadt zurück, teurer, unter einem FDP-Oberbürgermeister. Austerität als Übertragung öffentlicher Substanz in privaten Ertrag, samt der Rechnung, die zwanzig Jahre später fällig wird.
+
