@@ -246,3 +246,8 @@ Daraus folgt die unbequeme Pointe für das Grunderbe: Es müsste von genau den L
 ### → [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
 
 Fratzscher trennt dort Ungleichheit aus freien Entscheidungen von Ungleichheit aus fehlenden Chancen — eine Unterscheidung, die Linartas' Befund sprengt: Über die Hälfte der Vermögen in Deutschland ist geerbt, bei Milliardenvermögen vier Fünftel. Das passt in keine der beiden Schubladen und macht Höfgens Beispiel vom Kind der Unternehmerfamilie zur Regel. Der Mijs-Befund verbindet beides — je ungleicher eine Gesellschaft, desto fester ihr Glaube an die Leistungserzählung.
+
+### → [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
+
+Die Finanzierungsseite der Erbengesellschaft: Zwanzig Milliarden Wohngeld und Unterkunftskosten fließen jedes Jahr als Einkommensstrom in einen Vermögensbestand, der vererbt wird — während der Zuschuss jedes Jahr neu erkämpft werden muss. Der Staat kauft befristete Bindungen, die Gegenseite kauft Substanz.
+

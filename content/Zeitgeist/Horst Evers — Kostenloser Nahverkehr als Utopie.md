@@ -227,6 +227,10 @@ Eichpunkt für „Satire als politisches Instrument": Wahrheit, die nur im Witz 
 
 Direkte Brücke zum Befund „fehlende Busanbindung ↔ AfD-Wahl": Abgehängtsein als materielle Bedingung von Demokratiefrust. Evers liest mangelnde Mobilität als Vereinsamungs- und Teilhabeproblem — MONITOR zeigt, wie sich solches Abgehängtsein politisch in Protestwahl übersetzt.
 
+### → [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
+
+Die formale Zwillingsnote: Kabarett, das statt Empörung vorrechnet, und dabei zur selben Diagnose kommt — es liegt am politischen Willen, nicht am Geld. Evers zeigt, dass die bessere Lösung funktionieren würde; Die Anstalt zeigt, dass die bestehende Konstruktion längst funktioniert, nur für die Aktionäre.
+
 ---
 
 ## Weiterdenken

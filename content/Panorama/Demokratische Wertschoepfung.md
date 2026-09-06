@@ -206,6 +206,10 @@ Bendsens „Collective Impact“ (viele Akteure schlagen gemeinsam dieselbe Rich
 
 Kave Bulambos Satz *„uns gehören diese Plattformen nicht"* ist die Diagnose, für die die Plattformgenossenschaft die strukturelle Antwort wäre — und ihr Prüfstein für echte Machtumverteilung (Zugang zu Finanzierung, eigenes Budget, umgesetzte Entscheidung) liest sich wie eine Kurzfassung dessen, was Genossenschaftsrecht formalisiert. Das Berlin Global Village zeigt daneben die Bodenfrage als Voraussetzung: Wer digitale Souveränität will, fängt bei bezahlbaren Quadratmetern an, hier über einen Hundertjahresvertrag in NGO-Hand.
 
+### → [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
+
+Wohnen als Testfall des Prinzips: Wiener Gemeindebau und gemeinnützige Bauvereinigungen halten knapp eine Million Wohnungen dauerhaft in gemeinwohlgebundener Hand — die Kostenmiete läuft nicht aus, weil keine Aktionäre auf Rendite warten. Deutschland fördert stattdessen befristete Bindungen an privatem Eigentum und zahlt jährlich zwanzig Milliarden Miethilfe an dieselben Eigentümer. Derselbe Bedarf, zwei Rechtsformen, gegensätzliches Ergebnis.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

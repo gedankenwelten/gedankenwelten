@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **06.09.** — [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
+>
+> Der Staat zahlt die Mieten, statt Wohnungen zu besitzen — und finanziert so die Dividenden jener Konzerne, denen die Wohnungen gehören. Ein Kreislauf, an dessen Ende der Schuldige feststeht: der Mieter.
+
 > **06.09.** — [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]]
 >
 > Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
 
-> **30.08.** — [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|AfD und rechte Influencer vor der Landtagswahl in Sachsen-Anhalt]]
->
-> Zwischen dem guten Leben und der fehlenden Perspektive liegt ein Ort — und wer ihn zuerst benennt, gewinnt die Jungen, auch mit der schwarzen Sonne im Rücken.
-
-> → *1 weitere in* [[Zeitgeist]]
+> → *2 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

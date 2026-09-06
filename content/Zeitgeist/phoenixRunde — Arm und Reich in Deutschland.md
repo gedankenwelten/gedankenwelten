@@ -363,6 +363,10 @@ Deißners Unterscheidung „gebundenes Betriebsvermögen vs. Finanzkapital" als 
 
 David Deißner von der Stiftung Familienunternehmen tritt in der phoenixRunde unwidersprochen auf — Höfgen zeigt in seiner Note, was in diesem Format fehlt: kritische Einordnung der Interessen hinter den Positionen. Florian Bauer macht beim Phoenix-Interview genau das, was Talkshow-Formate wie die phoenixRunde regelmäßig auslassen.
 
+### → [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
+
+Die Anstalt zeigt denselben Mechanismus als geschlossene Kette: Weil öffentliches Geld überhöhte Mieten bezahlt, steigen die Kosten des Bürgergelds — und der Vorwurf landet bei den Empfängern, während der Ertrag beim Vermieter bleibt. Was hier als Diskursbefund beschrieben wird („Arm gegen Arm auszuspielen, das funktioniert leider“), ist dort mit Zahlen unterlegt.
+
 ---
 
 ## Weiterdenken

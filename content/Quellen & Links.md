@@ -6,6 +6,18 @@ tags:
   - links
 ---
 
+## Die Anstalt — Warum Wohnen unbezahlbar wird (11.11.2025)
+
+| | |
+|---|---|
+| **Sendung / Video** | [Warum Wohnen unbezahlbar wird | Die Anstalt](https://www.youtube.com/watch?v=Q3rJzvt2Hh0) — Kanal *ZDF Satire*, 11:42 Min.; Ausschnitt aus *„Die Abriss-Anstalt"*, Sendung vom 11.11.2025 |
+| **Ensemble** | Max Uthoff · Claus von Wagner · Maike Kühl |
+| **Notiz** | [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Anstalt_Wohnen_Transkript.txt` (mlx-whisper, keine Untertitel vorhanden) |
+| **Quellenliste des Senders** | [Der Faktencheck zur Sendung vom 11. November 2025](https://www.zdf.de/assets/faktencheck-vom-11-november-2025-100~original) — PDF, 33 Seiten; Abschnitt „Asozialer Wohnungsbau" ab S. 23, Modellrechnung von Andrej Holm ab S. 30 |
+| **Vollständige Sendung** | [Die Abriss-Anstalt, ZDF-Mediathek](https://www.zdf.de/video/shows/die-anstalt-104/die-anstalt-vom-11-november-2025-100) — 48 Min. |
+| **Statistische Grundlage** | [Pestel-Institut / Mieterbund — Bauen und Wohnen 2024](https://mieterbund.de/app/uploads/2024/01/Bauen-und-Wohnen-im-Jahr-2024.pdf) · Gegenpol: [IW-Kurzbericht 87/2023](https://www.iwkoeln.de/fileadmin/user_upload/Studien/Kurzberichte/PDF/2023/IW-Kurzbericht_2023-Sozialwohnungen.pdf) |
+
 ## ARD-Presseclub — Drohnen, Sprengstoff, Sabotage (06.09.2026)
 
 | | |
