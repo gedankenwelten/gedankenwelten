@@ -340,6 +340,10 @@ Das Panorama fragt, was aus der Rechnung fällt und wer versucht, anders zu zäh
 
 Dieselbe Methode, auf den Retter angewandt: das Ausrechnen des Verschwiegenen. Was bei Fischer die 150.000 Liter Wasser pro Auto sind, ist dort das Kühlwasser der KI-Infrastruktur — 17 Milliarden Gallonen direkt, 211 Milliarden indirekt, ein Fünftel aus wassergestressten Einzugsgebieten, und in keiner Nachhaltigkeitsbroschüre. Der Bilanz fehlt nicht nur die Zahl, sondern auch der Name dessen, der sie verursacht.
 
+### → [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2|Good News — Gute Nachrichten August 2026 Teil 2]]
+
+Die unheimlichste Illustration des Satzes, der größte Wirtschaftssektor der Welt sei die Biodiversität und niemand bezahle ihn: Die erste globale Karte der arbuskulären Mykorrhiza zeigt ein Pilznetz, das den Gegenwert von elf Prozent der jährlichen fossilen Emissionen bindet, in keiner Bilanz auftaucht und beim Pflügen zerreißt — am dichtesten unter Grasland, dem Ökosystem ohne Lobby.
+
 ---
 
 ## Weiterdenken

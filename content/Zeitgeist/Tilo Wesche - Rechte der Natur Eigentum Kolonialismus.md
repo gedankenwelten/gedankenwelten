@@ -448,6 +448,10 @@ Bärfuss benennt genau die Lücke, die Wesche schließen will: Das Erbrecht kenn
 
 Die Gegenprobe zur These vom Eigentum als Enteignungsvehikel. Eine Rinderzüchterin in Kentucky lehnt 26 Millionen Dollar für Land ab, das ihrer Familie seit 1848 gehört — und es ist genau der Titel, der ihr das erlaubt. Ihr Satz, es gebe nichts, was man für 26 Millionen kaufen könne und das sie nicht schon hätten, behauptet dabei keinen höheren Preis, sondern die Unzuständigkeit des Preises. Offen bleibt, was mit denen geschieht, die am selben Ort wohnen und keinen Titel haben.
 
+### → [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2|Good News — Gute Nachrichten August 2026 Teil 2]]
+
+Der Praxistest der Kernfrage: Die Amazonas-Rodung fällt auf den tiefsten Wert seit 2014, weil eine Regierung wechselte — und ließe sich mit der nächsten Wahl zurückdrehen. Genau diese Abhängigkeit soll die Natur als Rechtssubjekt aufheben. Der südaustralische Abschnitt schließt den zweiten Bogen: Kolonisierung als Enteignung auch des Wissens, das ein Land gepflegt hat.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

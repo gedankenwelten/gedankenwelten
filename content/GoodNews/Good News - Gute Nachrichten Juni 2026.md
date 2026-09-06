@@ -295,3 +295,8 @@ Philosophischer Unterbau für die Naturschutz-Meldungen (Orang-Utan-Seilbrücke,
 ### → [[Good News - Gute Nachrichten August 2026]]
 
 Fortsetzung der Monatsserie. Die hier gemeldete 10-%-Ozean-Marke bekommt im August ihr nächstes Puzzlestück (PNG-Reservat in UK-Größe), und der Energiewende-Faden läuft weiter: Auf die gekippte globale Bilanz folgt der US-Solarboom, der politischen Gegenwind übersteht.
+
+### → [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2|Good News — Gute Nachrichten August 2026 Teil 2]]
+
+Das Brücken-Leitmotiv dieser Ausgabe, ins Große gezogen: Eine Grünbrücke in Idaho senkt Wildunfälle um über achtzig Prozent, und die erste globale Karte der Mykorrhiza-Pilze zeigt ein Verbindungsnetz, das immer schon da war und nur zerrissen wurde. Dieselbe Figur, andere Größenordnung.
+

@@ -235,3 +235,8 @@ Der *Baseline Shift* von der anderen Seite. Bei Benecke verschiebt sich der Maß
 ### → [[Good News - Gute Nachrichten August 2026]]
 
 Das Yang zum Yin, auch im August: Den ungeschönten Messdaten stehen die gestrichenen Extremszenarien gegenüber — beide Notes sagen, dass die Lage auf Handeln reagiert, und verbieten damit Panik wie Entwarnung gleichermaßen.
+
+### → [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2|Good News — Gute Nachrichten August 2026 Teil 2]]
+
+Der Gegenpol aus derselben Woche, und an einem Punkt berühren sich beide: dem Umgang mit der dramatischen Zahl. Die GoodNews-Note verteidigt den UNESCO-Befund ausdrücklich *gegen* die daneben stehenden minus 73 Prozent des Living Planet Index — eine Durchschnittsgröße, keine Bestandszahl. Zusammengelesen ergeben beide dieselbe Haltung aus entgegengesetzter Richtung: Weder Panik noch Entwarnung ist ehrlich.
+
