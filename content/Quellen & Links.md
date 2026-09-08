@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Judith Mangelsdorf — Positive Psychologie, Flourishing und Mattering (08.09.2026)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Positive Psychologie: Was wir für ein erfülltes Leben wirklich brauchen!](https://www.youtube.com/watch?v=dRnY8IR0oLQ) — *Rebellisch Gesund* (detoxRebels), Folge 175, 86:31 Min. |
+| **Sprecherin** | Prof. Dr. Judith Mangelsdorf, Gastgeber: Jonas Höhn |
+| **Notiz** | [[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Mangelsdorf_Positive_Psychologie_Transkript.txt` |
+| **Vita** | [[DenkerVita/Judith Mangelsdorf]] |
+| **Buch (Hrsg.)** | *Positive Psychologie*, Beltz Juventa, angekündigt 25.02.2027 — 94 Kapitel, über 100 Forschende |
+
 ## Good News — Gute Nachrichten August 2026 Teil 2 (29.08.2026)
 
 | | |

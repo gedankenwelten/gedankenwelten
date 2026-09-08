@@ -271,6 +271,11 @@ Die Zerstörungslust im Vollzug: maskierte Agenten, die das Adrenalin der Jagd s
 
 Die Theorie im Konkreten: ICE erschießt den Falschen und ersetzt die Notwehr-Behauptung durch die unprüfbare „öffentliche Sicherheit" — Gewalt innerhalb demokratischer Formen, die ihre Straflosigkeit bereits einpreist.
 
+### → [[Judith Mangelsdorf — Flourishing und Mattering]]
+
+Der schärfste Widerspruch im ganzen Bestand — und er läuft über das Nullsummendenken. Auf der einen Seite bestätigt Mangelsdorf diese Note: Ihr Begriff *Anti-Mattering* (nicht gesehen, nicht gehört, gefragt werden ohne Folgen) ist die psychologische Fassung dessen, was hier als Vollbeschäftigung ohne Würde beschrieben wird. Auf der anderen Seite sagt sie zustimmend über das Glück, was Amlinger und Nachtwey als Wahrnehmungsstörung diagnostizieren: Es sei ein Irrtum zu denken, dass Glück unlimitiert ist. Wenn Wohlergehen tatsächlich aus einer endlichen Quelle schöpft, ist die Kränkung derer, die sich bestohlen fühlen, kein Denkfehler mehr, sondern richtig gerechnet. Die Glücksforschung liefert dem Nullsummendenken unfreiwillig eine Grundlage.
+
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

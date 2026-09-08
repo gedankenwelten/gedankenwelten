@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **08.09.** — [[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering|Judith Mangelsdorf — Flourishing und Mattering]]
+>
+> Ein Gefühl entscheidet mehr über ein Leben als Erfolg: ob jemand merkt, dass die Welt ohne ihn eine andere wäre. Und ob dieses Gefühl gerecht verteilt ist.
+
+> **11.08.** — [[Geistesblitz/Steelpan — Was aus einem Trommelverbot wurde|Steelpan — Was aus einem Trommelverbot wurde]]
+>
+> Eine Kolonialverwaltung verbot die Trommel, eine Ölindustrie ließ Fässer liegen — und die Ärmsten von Port of Spain bauten daraus das Instrument, dessen Akustik bis heute niemand ganz versteht.
+
+> **26.07.** — [[Geistesblitz/Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
+>
+> Die Natur stellt keine Rechnung — und genau darum steht sie in keiner Bilanz. Eine Biologin rechnet vor, was wir umsonst bekommen, und fragt, ob ausgerechnet die Maschine helfen kann, es zu behalten.
+
 ### Zeitgeist
 
 > **06.09.** — [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
@@ -44,21 +58,11 @@ Die Gedankenwelten (luc)
 >
 > Ein Zünder, der nicht verbunden war, und ein Satz, der eine Schwelle markiert: Wie Europa lernt, eine Feindseligkeit zu benennen, ohne sie Krieg nennen zu dürfen.
 
-> → *3 weitere in* [[Zeitgeist]]
-
 ### Spuren
 
 > **06.09.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 >
 > Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
-
-> **30.08.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
->
-> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
-
-> **30.08.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
->
-> Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
 
 ### GoodNews
 
@@ -117,20 +121,6 @@ Die Gedankenwelten (luc)
 > **11.08.** — [[Denker/Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]
 >
 > Ein Rapper liest zehn Zeilen vor und lässt raten: Shakespeare oder Hip-Hop? Fast alle liegen falsch — und aus diesem Irrtum wird eine Frage danach, wer das Recht hat, klug zu sein.
-
-### Geistesblitz
-
-> **11.08.** — [[Geistesblitz/Steelpan — Was aus einem Trommelverbot wurde|Steelpan — Was aus einem Trommelverbot wurde]]
->
-> Eine Kolonialverwaltung verbot die Trommel, eine Ölindustrie ließ Fässer liegen — und die Ärmsten von Port of Spain bauten daraus das Instrument, dessen Akustik bis heute niemand ganz versteht.
-
-> **26.07.** — [[Geistesblitz/Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
->
-> Die Natur stellt keine Rechnung — und genau darum steht sie in keiner Bilanz. Eine Biologin rechnet vor, was wir umsonst bekommen, und fragt, ob ausgerechnet die Maschine helfen kann, es zu behalten.
-
-> **15.07.** — [[Geistesblitz/Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
->
-> Ein pazifisches Wetterphänomen wird 2026 wahrscheinlich das stärkste seit 70 Jahren — doch die eigentliche Lektion liegt darin, wie man eine Prognose liest, ohne in Panik oder Sorglosigkeit zu kippen.
 
 <!-- JOURNAL:END -->
 

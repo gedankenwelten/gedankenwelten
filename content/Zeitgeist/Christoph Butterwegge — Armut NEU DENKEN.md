@@ -333,3 +333,8 @@ Dieselbe These in radikalerer Fassung: Armut ist kein Zustand, sondern hergestel
 ### → [[Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]]
 
 Die Steuerverschiebung, die Butterwegge hier dokumentiert — Vermögenssteuern weg, Mehrwertsteuer von 16 auf 19 Prozent —, ist die Weichenstellung, gegen die Höfgens Vorschlag dort anläuft: die Mehrwertsteuer auf Grundnahrungsmittel zu streichen statt die Einkommensteuer zu reformieren, weil Konsumsteuern das ärmste Drittel treffen. Auch der Leistungsbegriff kehrt wieder: Er ist es, der beim Bürgergeld die 800.000 Aufstocker aus dem Blick schiebt.
+
+### → [[Judith Mangelsdorf — Flourishing und Mattering]]
+
+Die Glücksforschung landet bei der Verteilungsfrage — und bleibt dort stehen. Mangelsdorf übernimmt Isaac Prilleltenskys Formel *no wellness without fairness*: Ungleichbehandlung ist die stärkste Form, Nichtbedeutsamkeit zu erzeugen, und wahrgenommene Unfairness senkt das Wohlbefinden innerhalb einer Gesellschaft messbar. Was daraus politisch folgt, sagt sie nicht; ihre Empfehlungen bleiben privat. Butterwegge beginnt genau an dieser Stelle und rechnet weiter — womit sichtbar wird, dass die Verteilung von Bedeutsamkeit selbst ein politisches Produkt ist.
+

@@ -244,6 +244,12 @@ Hans Korea-University-Vorlesung „On Happiness": seine *Negativität des Andere
 Klees „Feuerbachs Stuhl“ — Sehen kostet Zeit, weil das Werk geronnene Zeit ist — ist Resonanz in der Praxis der Wahrnehmung. Wer „auf einmal fertig“ ist, hat nichts gesehen: derselbe Widerstand gegen Beschleunigung und Verfügbarmachung.
 
 ---
+
+### → [[Judith Mangelsdorf — Flourishing und Mattering]]
+
+Die Positive Psychologie misst, was Rosa für unverfügbar erklärt. Mangelsdorfs *Mattering* — das Gefühl, dass die Welt eine andere ist, weil ich da bin — ist Resonanz aus der Gegenrichtung gedacht und in Skalen operationalisiert. Sie zitiert Rosa im Gespräch sogar selbst (immer auf dem Weg zum Flughafen). Die offene Frage geht an beide: Wenn Gelingen genau dort geschieht, wo wir es nicht verfügbar machen — was tut dann ein Fragebogen, der es erhebt, und ein Masterstudiengang, der es lehrt?
+
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

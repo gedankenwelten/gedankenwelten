@@ -237,6 +237,11 @@ Bärfuss zerschneidet das Stolz-Paradox an der Wurzel. Wer den Erfolg dem eigene
 
 Der Satz über den einzigen Unterschied — „twangy tragic music" hier, Rap dort — bekommt hier seine andere Hälfte. Akala beschreibt dieselbe Chemie aus Verachtung und Scham ausdrücklich als Frage der seelischen Gesundheit, kommt aber zu einer anderen Verwertung: Wo Pikeville die Scham an jemanden verkauft, der sie in Fremdschuld verwandelt, verwandelte sie der Wu-Tang Clan in den Anspruch, Hüter von Wissen sein zu dürfen. Zwei Ausgänge aus derselben Kränkung.
 
+### → [[Judith Mangelsdorf — Flourishing und Mattering]]
+
+Die Begriffe zu dem, was Hochschild im Feld gesehen hat. Was in Pikeville als *They are desperately looking to be seen* auftaucht, heißt in der Psychologie **Anti-Mattering** — das Ausbleiben der Rückmeldung, dass man einen Unterschied macht, mit einer Abwärtsspirale von verstärkter Bemühung über Rückzug bis zu Depression. Mangelsdorf erklärt den Rechtsruck teilweise daraus. Hochschild liefert die Zwischenstufe, die ihr fehlt: die Umwandlung des Nichtgesehenwerdens in Scham und deren Umleitung nach außen.
+
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

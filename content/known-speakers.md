@@ -965,3 +965,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Andrey Gurkov
 **Status:** ✓ Vollanalyse — [[DenkerVita/Andrey Gurkov]]
+
+## Judith Mangelsdorf
+**Status:** ✓ Vollanalyse — [[DenkerVita/Judith Mangelsdorf]]

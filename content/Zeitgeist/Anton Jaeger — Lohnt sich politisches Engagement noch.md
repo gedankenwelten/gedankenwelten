@@ -200,3 +200,8 @@ Die politökonomische Unterfütterung: Wenn die Kosten des politischen Ausdrucks
 ### → [[Walther Ziegler — Habermas in 60 Minuten]]
 
 Habermas' Strukturwandel der Öffentlichkeit ist die historische Tiefenschicht unter Jägers Epochendiagnose — die Verflüssigung der politischen Meinungsbildung, bei Jäger bis zur digitalen Dauererregung weitergetrieben.
+
+### → [[Judith Mangelsdorf — Flourishing und Mattering]]
+
+Hyperpolitik als strukturelle Ursache dessen, was Mangelsdorf psychologisch misst. Ihr härtester Satz lautet, schlimmer als nicht gefragt zu werden sei, gefragt zu werden und zu merken, dass die eigene Antwort keinen Unterschied macht — Invalidierung. Auf Gesellschaftsgröße ist das Jägers Befund: Politisierung so hoch wie nie, Institutionalisierung so niedrig wie nie. Zugleich ein Einwand gegen ihre Lösung: Wenn die Institutionen fehlen, in die Beteiligung einrasten könnte, ist der Rat zum Ehrenamt zu klein.
+

@@ -198,3 +198,8 @@ Epstein-Diskussion: Homms Insider-Erfahrung als Kontext für die Systemfrage, di
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
 Hübsch und Chaudhry verwenden MK Ultra als historisch belegte CIA-Forschung und ziehen die Linie zur Kybernetik und Social Media. Homm verwendet denselben Begriff als subjektive Deutungsfolie für seine eigene Elite-Formierung. Beide kreisen um dieselbe Kernfrage — ob systematische Bewusstseinsformierung ein Feature des Systems ist — nur von verschiedenen Seiten: Homm von innen (Phänomenologie), Grenzgänger von außen (Investigativrecherche).
+
+### → [[Judith Mangelsdorf — Flourishing und Mattering]]
+
+Homms Lebenslauf ist der Einzelfall zu einem Muster, das Mangelsdorf benennt: die *Instrumentalisierung von Bedeutsamkeit* — du bist bedeutsam, wenn du etwas leistest. Anerkennung, die nur floss, wenn er lieferte, und daraus eine Maschine, die an der Spitze Leere fand. Nicht der Erfolg macht unglücklich (ihre These vom Erfolg als Negativprädiktor hält der Prüfung nicht stand), sondern die Bedingung, unter der die Zuwendung gewährt wurde. Genau das nennt Mangelsdorf die *Instrumentalisierung von Bedeutsamkeit* — du bist bedeutsam, wenn du etwas leistest.
+
