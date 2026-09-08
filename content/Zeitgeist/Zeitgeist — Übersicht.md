@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*302 Notes — automatisch generiert · nach Thema sortiert*
+*303 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -174,6 +174,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Faschismus als entfesselte Eigentumslogik oder als Prozess der Faschisierung? Eva von Redecker und Damir Skenderovic vermessen, wo der Rechtsruck endet und das Kippen beginnt.
 - [[Zeitgeist/StreitClub — Europa allein zu Haus|StreitClub #17 — Europa allein zu Haus]]
+- [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]] — Drei Instrumente sollen die Demokratie schützen — Verbot, Brandmauer, Entzauberung. An einem Abend nach der Wahl wird jedes einzelne geprüft, und keines hält.
 - [[Zeitgeist/Studio Bonn — Extremer Reichtum|Studio Bonn — Extremer Reichtum]]
 - [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]]
 - [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)|Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
