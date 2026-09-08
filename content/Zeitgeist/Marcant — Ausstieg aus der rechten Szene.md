@@ -198,6 +198,10 @@ Heims und Stark liefern die Meme-Anatomie zu Marcants „Trendrechts": Die Agart
 
 ---
 
+### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+
+Die Theorie zu Felix' Geschichte, und sie kommt aus der sozialen Arbeit: funktionale Äquivalenz — Menschen brauchen Gemeinschaft, Anerkennung, Austausch, und Prävention heißt, diese Angebote zu machen, bevor Extremisten es tun. Matthias Quent unterlegt das dort mit einem Satz über sich selbst: „Hätte mir jemand eine Böhse-Onkelz-CD gegeben, wäre ich damals vielleicht auch Nazi geworden." Das ist derselbe Befund wie hier — Radikalisierung als Frage von Zufall, Peers und Angebot, nicht von Charakter.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -324,6 +324,10 @@ Frickes empirisch gestützte Kette — Austerität, Inflation, Kontrollverlust �
 
 ---
 
+### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+
+Der Abend danach — und der Einwand gegen die eigene Fragestellung. Quent hält Siegmund und sein TikTok-Profil für höchstens drei bis vier Prozentpunkte wert: In Thüringen steht die AfD mit Höcke bei denselben Werten, in Sachsen mit Urban ebenso, „die könnten auch einen blauen Besen aufstellen". Das Vakuum von Querfurt bleibt trotzdem der Kern: Was dort als fehlender Jugendclub sichtbar wird, heißt bei Quent funktionale Äquivalenz — Angebote machen, bevor andere sie machen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

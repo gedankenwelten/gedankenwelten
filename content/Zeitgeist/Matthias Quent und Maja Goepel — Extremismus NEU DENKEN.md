@@ -232,5 +232,4 @@ Der Gegentest zu dieser Note. Tekkal setzt Islamismus und Rechtsextremismus als 
 ### → [[Andreas Puettmann — Werte NEU DENKEN]]
 
 Dieselbe Gastgeberin, entgegengesetzte Herkunft, dieselbe Schlussfolgerung. Quent kommt über die Baseballschlägerjahre zur wehrhaften Demokratie, der Katholik Püttmann über Allensbach und die Adenauer-Stiftung — beide behandeln „Faschismus" als analytischen Begriff und suchen das Problem bei der Trägheit der Gemäßigten.
-
-
+- [[StreitClub — Extremismus und der Schutz der Demokratie]] — Quent vier Monate später, am Abend nach der Wahl in Sachsen-Anhalt, und diesmal mit Widerspruch auf der Bühne: Aus der Löwenstein-These wird dort eine Handlungsforderung (Klärung der Verbotswürdigkeit, Plattformregulierung), und die Ohnmachtsdiagnose bekommt eine biografische Spitze — mit einer anderen CD wäre er vielleicht selbst Nazi geworden

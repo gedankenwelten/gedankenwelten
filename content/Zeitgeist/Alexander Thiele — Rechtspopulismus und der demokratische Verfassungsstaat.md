@@ -339,6 +339,10 @@ Dieselbe Diagnose, die umgekehrte Therapie. Püttmann und Thiele sind sich einig
 
 ---
 
+### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+
+Thieles Aufforderung, sich nicht länger an den Populisten abzuarbeiten, taucht dort als Michel Friedmans vierte Idee wieder auf: Die Demokraten müssten erst untereinander aushandeln lernen, was Freiheit heute heißt — der anstrengendste Weg, „er wird nie diskutiert". Und Thieles Diagnose der fehlenden Erzählung für 2050 bekommt eine Erklärung: Matthias Quent hält das deutsche Demokratiefundament für eines, das auf Wohlstand stand und nicht auf Überzeugung. Ein solches Fundament braucht kein Zukunftsbild, solange es trägt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

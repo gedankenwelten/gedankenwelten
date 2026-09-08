@@ -271,6 +271,10 @@ Die amerikanische Gegenwart zur deutschen Probe: „Wir schieben nur Kriminelle 
 
 Thieles stärkstes Argument gegen die Regierungsbeteiligung ist eine Prognose, und diese Spur ist der Ort, an dem sie sich messen lässt. Er hält das Entzauberungs-Angebot für die Wiederholung von von Papens Irrtum („in zwei Monaten haben wir Hitler in die Ecke gedrückt, daß er quietscht") und rechnet die Kosten vor: Selbst bei vierzig Prozent bleiben sechzig, denen man fünf Jahre Leiden zur Belehrung der anderen zumutet. Was die Spur in Landratsämtern und bei Sperrminoritäten beobachtet, entscheidet, wer von beiden sein Argument behält.
 
+### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+
+Der Abend, an dem die vierte Macht-Ebene dieser Spur in Reichweite rückt. Einen Tag nach der Wahl in Sachsen-Anhalt zählen Nicole Deitelhoff und Matthias Quent konkret auf, was eine AfD-geführte Landesregierung greifen kann: Zugriff auf Daten der Sicherheitsbehörden, Austrocknung unliebsamer Fächer über Fördermittel, Besetzung frei werdender Richterstellen. Die Note liefert damit die Ausgangsmessung für den Verlauf, den diese Spur ab hier zu führen hat — und mit Quents Satz, dass Magdeburg die Zwischenstation für Berlin ist, zugleich das Argument, sie nicht auf ein Bundesland zu verengen.
+
 ## Quellen
 
 - [GFF — Pressemitteilung zum Gutachten, 25.06.2026](https://freiheitsrechte.org/ueber-die-gff/presse/pressemitteilungen-der-gesellschaft-fur-freiheitsrechte/afd-ist-nachweislich-verfassungswidrig-gesellschaft-fuer-freiheitsrechte-stellt-nach-einem-jahr-arbeit-umfassendes-wissenschaftliches-gutachten-vor) · [afd-gutachten.de (Volltext)](https://afd-gutachten.de/)

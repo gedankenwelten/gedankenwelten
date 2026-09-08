@@ -298,3 +298,7 @@ Der produktivste Widerspruch: Beide kommen aus demselben Milieu und lesen diesel
 ### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
 
 Thieles Legitimitätstheorie beschreibt, woran Zustimmung erodiert; El-Mafaalani beschreibt, was danach passiert. Ist das Systemvertrauen einmal aufgekündigt, richtet sich das Misstrauen gegen die Rolle statt gegen die Person und trägt sich selbst — dann hilft auch ein Staat nicht weiter, der wieder liefert. Thieles Corona-Beispiel gehört genau hierher: Die Übergriffigkeitserfahrung traf auf Vertrauen, das durch die Jahre davor schon gebröckelt war. Das macht seinen Optimismus fragiler, als er im Podcast klingt.
+
+### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+
+Der Praxistest der These, dass Misstrauensgemeinschaften sich nicht entzaubern lassen: Deitelhoff legt dort Studien vor, wonach rechtsradikale Parteien in Regierungsverantwortung im Schnitt sechs Punkte gewinnen. Und Hasnain Kazim vertritt an diesem Abend genau die Position, die El-Mafaalani für den Kardinalfehler hält — „Können wir diese Leute zurückholen? Als Demokraten muss es unser Ziel sein." Der Widerspruch bleibt dort unaufgelöst, weil niemand am Tisch die andere Hälfte der Bevölkerung als Adressatin im Blick hat.

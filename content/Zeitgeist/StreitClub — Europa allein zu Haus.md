@@ -243,3 +243,7 @@ Krastev benennt die vier zerschlagenen Annahmen europäischer Sicherheit und ver
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]
 
 Merkel liefert die institutionelle Antwort auf dieselbe Frage: europäisches Recht und Diplomatie als zweite Seite der militärischen Medaille — der Plan zum hier geführten Streit.
+
+### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+
+Die Fortsetzung der Reihe mit demselben Moderationsduo, zwei Jahre später und mit engerem Fokus: Statt um Europas Verlassenheit geht es dort um die eigenen Schutzvorrichtungen — Parteiverbot, Brandmauer, Entzauberung, geprüft am Abend nach der Wahl in Sachsen-Anhalt. Der Widerhall liegt in Friedmans Rede von der Lebenslüge des liberalen Europa: Matthias Quent sagt dort, die Doppelmoral des westlichen Liberalismus sei nicht mehr durchzuhalten. Beide Abende kommen von verschiedenen Seiten zum selben Verdacht.
