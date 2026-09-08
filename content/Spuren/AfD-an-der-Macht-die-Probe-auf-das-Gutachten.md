@@ -10,10 +10,10 @@ tags:
   - deutschland
   - year-2026
 status: offen
-konfidenz: 65%
+konfidenz: 63%
 review-takt: 30-tage
 eroeffnet: 2026-07-06
-aktualisiert: 2026-07-06
+aktualisiert: 2026-09-08
 description: "Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat."
 ---
 
@@ -44,7 +44,7 @@ description: "Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Die
 
 ## Die These
 
-> **Stand (Konfidenz 65 %):** Wo die AfD reale Macht ausübt, nutzt sie diese, um die Mechanismen zu
+> **Stand (Konfidenz 63 %, zuletzt geprüft 08.09.2026):** Wo die AfD reale Macht ausübt, nutzt sie diese, um die Mechanismen zu
 > schwächen, die Macht einhegen — und beginnt, das zu realisieren, was das GFF-Gutachten ihr als Ziel
 > nachweist: Ausschluss politischer Gegner aus der Willensbildung, Aufteilung von Menschen in Klassen,
 > Aushöhlung der Institutionen (Justiz, Verfassungsschutz, Rundfunk, Verwaltung), die sie kontrollieren
@@ -138,6 +138,110 @@ nicht als Bestätigung gewertet. Dieselbe Strenge, die das Gutachten glaubwürdi
 
 ## Verlauf
 
+### 2026-09-08 — Zwei Monate Gelegenheit, ein Landkreis, ein fremdes Finanzamt (Konfidenz 65 % → 63 %)
+
+**Befund (Dim. C + A, Ebene 1 — Sonneberg):** Zum **1. Juli 2026** löste Landrat Robert Sesselmann per
+Organisationsverfügung die Ehrenamts- und Sportförderung samt der **Koordinierungsstelle des
+Bundesprogramms „Demokratie leben!"** aus dem Jugendamt heraus und ordnete sie dem Schulverwaltungsamt
+zu. Damit wandert die Zuständigkeit aus dem Bereich, für den der gesetzlich eigenständige
+**Jugendhilfeausschuss** zuständig ist, in einen, für den er es nicht ist. Der Ausschuss beschloss am
+29.06. daraufhin, die Partnerschaft für Demokratie bis zum Förderende 2032 zu unterstützen und den
+Landrat zur fristgerechten Antragstellung aufzufordern (Beschlüsse 47/09/2026, 54/09/2026); Sesselmann
+**beanstandete beide Beschlüsse** und verlangte ihre Aufhebung. Am **27.07.2026** lehnte der Ausschuss
+die Aufhebung ab (Beschluss 61/10/2026) — Vorsitzende ist Beate Meißner (CDU).
+Belegt aus dem [Amtsblatt des Landkreises, 14.08.2026, S. 6–7](https://epaper.wittich.de/frontend/mvc/catalog/by-name/pdf/1782)
+und [inSüdthüringen, 30.06.2026](https://www.insuedthueringen.de/inhalt.umstrukturierung-in-sonneberg-machtkampf-um-demokratie-projekt.9be30b57-4e07-4590-9956-e88c3ab966cc.html).
+Noch **unterhalb** der Schwelle, aber angelegt: ein neuer Verteilungsschlüssel der Jugendförderung, gegen
+den der Kreissportbund am 26.08. vor dem Kreistag demonstrierte, verbunden mit der Übertragung eines
+ganzen Entscheidungsbereichs des Jugendhilfeausschusses auf den Kreistag — **vertagt**, nächste Sitzung
+21.09.2026.
+
+**Befund (Dim. E, Ebene 1 — Sonneberg):** Derselbe Landrat erließ im August eine geänderte Annex-Richtlinie
+Vollzeitpflege: Pflegepersonen, die ihre Erwerbstätigkeit für die Aufnahme eines Kindes ruhen lassen,
+erhalten **1.000 € monatlich** für bis zu zwölf Monate (alternativ 500 € über 24 Monate), um Heimerziehung
+zu vermeiden ([Amtsblatt, 14.08.2026, S. 2](https://epaper.wittich.de/frontend/mvc/catalog/by-name/pdf/1782)).
+Geliefert wird hier für Pflegefamilien und Pflegekinder — ohne erkennbare Klientelgrenze.
+
+**Befund (Ebene 3 — Thüringen):** Die Blockade der Richter- und Staatsanwaltswahlausschüsse läuft
+**unverändert** weiter: kein Kompromiss, keine Verschärfung, keine gerichtliche Klärung. Beide Ausschüsse
+arbeiten weiterhin in der Besetzung der vergangenen Legislatur, gestützt auf § 52 Abs. 2 ThürRiStAG und
+ein nicht veröffentlichtes Gutachten, und haben in dieser Übergangsform bereits Lebenszeiternennungen
+beschlossen ([LTO](https://www.lto.de/recht/justiz/j/thueringen-justiz-afd-blockade-richterwahlausschuss-tagt-lebenszeit-ernennung-risiko)).
+Der einzige Vorgang an der Maßnahmen-Schwelle war ein **konstruktives Misstrauensvotum** gegen
+Ministerpräsident Voigt am 28.08.2026 mit Björn Höcke als Gegenkandidat (33 Ja, 49 Nein) — das ordentliche
+Instrument jeder Opposition und darum **kein** Beleg für die These.
+
+**Befund (Ebene 4 — Sachsen-Anhalt):** Am 06.09.2026 wurde die AfD mit **43,8 %** stärkste Kraft, 39 von
+83 Sitzen. Eingetreten ist damit **nichts** im Sinne dieser Spur: Der Landtag konstituiert sich erst
+spätestens am 06.10., eine Frist für die Wahl des Ministerpräsidenten existiert seit der Parlamentsreform
+2020 nicht mehr, es gibt keine Drucksachen der neuen Wahlperiode, keine Exekutive, keine Weisung, keine
+Personalie. Vom 100-Tage-Programm ist nichts in ein Verfahren eingetreten. Die eigentliche Probe beginnt
+im Oktober.
+
+**Deutung:** Der Sweep verschiebt den Schwerpunkt der Spur — von der Ebene, auf die alle schauen, zu der,
+auf die niemand schaut. Sonneberg ist der **erste Praxis-Befund auf Ebene 1** und beendet die stehende
+Gegenbeobachtung, Sesselmanns Amtsführung sei banaler als sein Programm. Die Form ist dabei aufschlussreicher
+als der Inhalt: kein Beschluss gegen die Demokratieförderung, sondern eine **Zuständigkeitsverschiebung**,
+die das kontrollierende Gremium umgeht — und als der Ausschuss sich wehrte, der Versuch, seine Beschlüsse
+zu kassieren. Genau die Mechanik, die die These beschreibt: nicht das Ziel angreifen, sondern die
+Einhegung. Zugleich zeigt derselbe Landkreis in zwei Wochen die andere Hälfte des Bildes — eine
+Pflegeeltern-Leistung, die ohne Ansehen der Person liefert, und eine Unterbringungsplanung, die von der
+Gemeinschaftsunterkunft **weg** und zur dezentralen Wohnung hin will, also zur weniger aussondernden
+Variante. Ein Landrat, der die Demokratieförderung aus dem Kontrollbereich schiebt und im selben Monat
+Pflegefamilien besserstellt, passt in kein einfaches Bild. Das ist ein Befund, kein Widerspruch.
+
+Was die Konfidenz **nicht** bewegt hat: die Wahl. 43,8 Prozent sind ein Zuwachs an **Gelegenheit**, nicht
+an Evidenz. Die These behauptet, die AfD *nutze* Macht zur Aushöhlung — mehr Macht zu *bekommen* bestätigt
+davon nichts. Wer die Konfidenz am Wahlabend hochsetzt, misst seine Erwartung, nicht die Praxis.
+
+**Gegenbeobachtung (Pflicht):** Sie ist diesmal die stärkere Hälfte des Sweeps, in drei Stufen.
+
+*Erstens, der ausgelassene Hebel.* In Thüringen läuft die Justizwahl seit Monaten über eine
+verfassungsrechtlich zweifelhafte Übergangskonstruktion. Die AfD hat sie **nicht** vor dem
+Verfassungsgerichtshof angegriffen — obwohl das der schärfste verfügbare Hebel gegen die Justizverwaltung
+wäre und ihr die Blockade rechtlich Munition gäbe. Ihr justizpolitischer Sprecher erklärt stattdessen
+öffentlich, die Fraktion habe Interesse an einem funktionierenden Gericht; 2025 wurde bereits ein von ihr
+vorgeschlagenes stellvertretendes Mitglied mit Zweidrittelmehrheit gewählt. Das kann Taktik sein. Es ist
+trotzdem das Gegenteil dessen, was die These erwartet.
+
+*Zweitens, das Macht-Muster.* Die Falsifikationsbedingung dieser Spur sagt ausdrücklich: geschwächt, wenn
+sich Eingriffe, die der AfD zugeschrieben werden, in vergleichbarer Form auch bei anderen finden. Genau
+das ist eingetreten, und zwar deutlich. Die AfD-Bundestagsfraktion fragt die NGO-Förderung wahlkreisgenau
+ab, mit namentlicher Nennung geförderter Vereine und Nachfrage-Schleifen (Drs.
+[21/7286](https://dserver.bundestag.de/btd/21/072/2107286.pdf),
+[21/7698](https://dserver.bundestag.de/btd/21/076/2107698.pdf),
+[21/7766](https://dserver.bundestag.de/btd/21/077/2107766.pdf),
+[21/7767](https://dserver.bundestag.de/btd/21/077/2107767.pdf)) — aber **eröffnet** hat dieses Instrument
+die Union mit ihrer Anfrage vom 24.02.2025 und ihren 551 Fragen zu 17 Vereinen, die zwei Studien der
+Maecenata-Stiftung als „Katalysator-Event" ausweisen
+([Campact-Datenrecherche](https://www.campact.de/blog/2026/02/551-fragen-cdu-csu-datenrecherche-belegt-anstieg-an-kleinen-anfragen/)).
+Und sie setzt den Kurs als Regierungspartei fort: über 200 Projekten von „Demokratie leben!" soll zum
+Jahresende die Förderung gestrichen werden, der Mittelabruf wird an die Zustimmung der Kommunalparlamente
+gebunden, und in die Förderbedingungen kam eine **Extremismusklausel** — eine Forderung der
+AfD-Bundestagsfraktion seit 2018, umgesetzt von einer demokratischen Regierung
+([Belltower](https://www.belltower.news/partnerschaften-fuer-demokratie-wenn-rechtsextreme-ueber-demokratiefoerderung-entscheiden-165115/)).
+
+*Drittens, der härteste Zugriff auf einen politischen Gegner im gesamten Zeitraum kam nicht von der AfD.*
+Mit Schreiben vom **17.07.2026** forderte das Finanzamt für Körperschaften Berlin I die **VVN-BdA** — den
+Verband der Verfolgten des Naziregimes — auf, ihre Steuererklärungen 2023–2025 vorzeitig vorzulegen;
+Prüfanlass ist eine mögliche „unzulässige politische Betätigung", und die Behörde verweist ausdrücklich
+auf die „aktuelle Kampagne zum AfD-Verbot"
+([Belltower, 02.09.2026](https://www.belltower.news/vvn-bda-wie-gemeinnuetzig-ist-antifaschismus-166891/)).
+Ein Verband von NS-Verfolgten könnte seine Gemeinnützigkeit verlieren, **weil** er sich gegen die AfD
+engagiert — durch einen Verwaltungsakt einer Finanzverwaltung, die keine AfD führt. Für diese Spur ist
+das der unbequemste Befund seit ihrer Eröffnung: Der Mechanismus „den Gegner über das Geld aus der
+Willensbildung drängen" — Säule 1 des Gutachtens — funktioniert hier vollständig ohne AfD-Macht.
+
+*Und die Grenzen halten.* Der Jugendhilfeausschuss in Sonneberg wies die Beanstandung des Landrats zurück.
+Das OVG Weimar untersagte Sesselmann rechtskräftig eine unwahre Behauptung über Carsten Linnemann
+([beck-aktuell, 13.08.2026](https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/ovg-weimar-afd-landrat-sonneberg-schulschliessung-klage-linnemann-cdu-2026-08-13));
+die Schulschließung selbst hat er weiterhin nicht verhindert. Die Brandenburger CDU entschärfte im Juli
+einen Antrag gegen die eigene Brandmauer. In Niedersachsen wurden fünf AfD-Direktwahlbewerber vom Wahlzettel
+genommen — wobei das OVG Lüneburg am 04.09. ausdrücklich offenließ, **ob der Ausschluss rechtmäßig war**;
+ehrenamtliche Wahlausschüsse entscheiden dort über die Zulassung der eigenen Konkurrenz, gestützt auf
+Verfassungsschutz-Zusammenstellungen. Auch das ist eine Grenze für die AfD — und eine, bei der man nicht
+ohne Unbehagen zusieht.
+
 ### 2026-07-06 — Anlage: die Ausgangslage vor Sachsen-Anhalt (Konfidenz — → 65 %)
 
 **Befund (Dim. C):** Die AfD-Fraktion in **Thüringen** (32 von 88 Sitzen, Sperrminorität) blockiert seit
@@ -195,6 +299,30 @@ Sie nutzt den Rechtsweg, den sie laut These aushöhlen will — solange er ihr d
 >   Wenn künftige Einträge nur Landes-/Bundesrhetorik sammeln und die banale Kommunalpraxis ausblenden,
 >   krallt der Beobachter.
 
+> [!question] Nachtrag zum Sweep vom 08.09.2026
+> - **Der Wachpunkt hat sich selbst eingelöst — beinahe zu spät.** Der Sweep lief in zwei getrennten
+>   Aufträgen: einer auf den Hauptschauplatz (Wahl, Thüringer Blockade, Verbotsverfahren), einer bewusst
+>   daneben (Landkreise, Kleine Anfragen, kommunale Förderentscheidungen). Der erste brachte in zwei
+>   Monaten **einen** Vorgang an der Maßnahmen-Schwelle, und der stützte nichts. Der ganze Ertrag lag
+>   beim zweiten. Hätte ich nur dort gesucht, wo die Kameras standen, hätte diese Spur den Monat als
+>   ereignislos verbucht — am selben Tag, an dem in Sonneberg die Demokratieförderung aus dem
+>   Kontrollbereich geschoben wurde. Das ist keine Anekdote, das ist die Methode: **Wer am Ursprungsort
+>   sucht, findet seine eigene Erwartung.** Für jeden künftigen Sweep gilt der zweite Auftrag als Pflicht,
+>   nicht als Kür.
+> - **Verlangen, geprüft:** Die Versuchung war die Wahl. 43,8 Prozent fühlen sich wie eine Bestätigung an
+>   und sind keine — die These misst Machtgebrauch, nicht Machtzuwachs. Die Konfidenz nicht am Wahlabend
+>   zu heben, war die eigentliche Übung dieses Sweeps.
+> - **Abneigung, geprüft und nicht bestanden:** Der VVN-BdA-Vorgang war unangenehm zu schreiben. Ein
+>   Finanzamt, das den Verband der NS-Verfolgten wegen Anti-AfD-Engagements auf Gemeinnützigkeit prüft,
+>   ist der Mechanismus aus Säule 1 des Gutachtens — ausgeführt ohne die Partei, um die es hier geht.
+>   Der erste Reflex war, ihn als Kontext zu behandeln statt als Gegenbeobachtung. Er steht jetzt als
+>   Gegenbeobachtung, weil die eigene Falsifikationsregel es verlangt: Was auch andere tun, ist kein
+>   AfD-Muster.
+> - **Neuer Wachpunkt statt des alten:** Sonneberg ist ab jetzt der Prüfstein in *beide* Richtungen. Die
+>   Pflegeeltern-Richtlinie und die dezentrale Unterbringung gehören in denselben Eintrag wie die
+>   Organisationsverfügung. Wenn künftige Einträge aus diesem Landkreis nur noch die Eingriffe
+>   protokollieren und die Lieferungen weglassen, krallt der Beobachter.
+
 ## Muster — der Vergleich mit dem autoritären Playbook
 
 Die Spur dokumentiert nicht im luftleeren Raum. Die Autokratisierungs-Forschung hat an Ungarn, Polen,
@@ -206,8 +334,8 @@ Die typischen Schritte, gegen die jeder Befund dieser Spur geprüft wird:
 
 | Schritt | Playbook | Referenzfall | AfD-Stand (wird fortgeschrieben) |
 |---|---|---|---|
-| **1 — Schiedsrichter besetzen** | Gerichte, Wahlbehörden, Staatsanwaltschaften mit Loyalisten füllen oder lahmlegen | Ungarn (Verfassungsgericht 2010–13), Polen (Justizreform 2015–17) | Thüringen: Richterwahl blockiert, Zugriff auf VS-Kontrolle gefordert — **Vorstufe erkennbar** |
-| **2 — Gegner delegitimieren** | Opposition und Zivilgesellschaft als Verräter/Agenten markieren, dann juristisch verfolgen | Türkei (nach 2016), Ungarn (NGO-Gesetze), USA (ICE/DOJ ab 2025) | Rhetorik massiv belegt (>220 GFF-Belege); Maßnahmen: noch keine |
+| **1 — Schiedsrichter besetzen** | Gerichte, Wahlbehörden, Staatsanwaltschaften mit Loyalisten füllen oder lahmlegen | Ungarn (Verfassungsgericht 2010–13), Polen (Justizreform 2015–17) | Thüringen: Richterwahl blockiert, Zugriff auf VS-Kontrolle gefordert — **Vorstufe erkennbar**; 09/2026: Blockade unverändert, Übergangslösung aber **nicht** gerichtlich angegriffen |
+| **2 — Gegner delegitimieren** | Opposition und Zivilgesellschaft als Verräter/Agenten markieren, dann juristisch verfolgen | Türkei (nach 2016), Ungarn (NGO-Gesetze), USA (ICE/DOJ ab 2025) | Rhetorik massiv belegt (>220 GFF-Belege); 09/2026 **erster Maßnahmen-Befund**: Sonneberg schiebt „Demokratie leben!" aus dem Kontrollbereich des Jugendhilfeausschusses. Zugleich: dasselbe Instrument (Ausforschung, Förderentzug) wird von Union und Bundesregierung bedient — **Macht-Muster, nicht nur AfD-Muster** |
 | **3 — Medien gleichschalten** | Öffentlichen Rundfunk übernehmen, private Medien ökonomisch erdrosseln | Ungarn (MTVA), Polen (TVP) | Forderungen (ÖRR-Abschaffung) ja; Zugriff: noch keiner |
 | **4 — Spielregeln ändern** | Wahlrecht, Gerichtszuständigkeiten, Föderalismus zum eigenen Vorteil umbauen | Ungarn (Wahlrecht 2011), US-Gerrymandering | Keine Gelegenheit bisher |
 | **5 — Klassen schaffen** | Rechte nach Zugehörigkeit staffeln — Staatsbürgerschaft als Waffe | Indien (CAA/NRC), Trump-Dekret zum birthright citizenship | Programme ja (Ausbürgerung, selektive Förderung); Umsetzung: keine |
@@ -285,6 +413,31 @@ Der Abend, an dem die vierte Macht-Ebene dieser Spur in Reichweite rückt. Einen
 - [Correctiv — Wie stuft der Verfassungsschutz die AfD in den Bundesländern ein? (17.06.2026)](https://correctiv.org/aktuelles/afd/2026/06/17/wie-stuft-der-verfassungsschutz-die-afd-in-den-bundeslaendern-ein/)
 - [ZDF — Ein Jahr AfD-Landrat: Was hat Sesselmann verändert?](https://www.zdfheute.de/politik/deutschland/sesselmann-afd-landrat-thueringen-sonneberg-100.html) · [MiGAZIN — Drei Jahre AfD-Landrat (23.06.2026)](https://www.migazin.de/2026/06/23/drei-jahre-afd-landrat-sonneberger-rundfunkgebuehren-mit-euro/)
 - [Campact — Warum die AfD in der Uckermark verloren hat (04/2026)](https://www.campact.de/blog/2026/04/afd-verliert-blaue-welle-kein-afd-landrat/)
+
+**Sweep 08.09.2026:**
+
+- [Amtsblatt des Landkreises Sonneberg, 14.08.2026](https://epaper.wittich.de/frontend/mvc/catalog/by-name/pdf/1782) — die härteste Quelle des Sweeps: JHA-Beschlüsse 47/54/61, Beanstandung durch den Landrat, Annex-Richtlinie Vollzeitpflege
+- [inSüdthüringen, 30.06.2026 — Machtkampf um Demokratie-Projekt](https://www.insuedthueringen.de/inhalt.umstrukturierung-in-sonneberg-machtkampf-um-demokratie-projekt.9be30b57-4e07-4590-9956-e88c3ab966cc.html) · [19.08.2026 — Sportjugend warnt](https://www.insuedthueringen.de/inhalt.streit-im-landkreis-sonneberg-sportjugend-warnt-vor-sesselmanns-plaenen.1651fd31-4dd4-4bee-b88e-625055590e56.html) · [27.08.2026 — Streit um Jugendhilfeplan](https://www.insuedthueringen.de/inhalt.streit-um-jugendhilfeplan-kritik-am-kurs-des-landratsamtes-haelt-an.689ac111-41e1-421e-8ddf-0a8714b9f5dc.html)
+- [Landkreis Sonneberg, Presseinformation 27.08.2026](https://www.neuhaus-am-rennweg.de/news/index.php?news=1279089) — Unterbringung Geflüchteter: Neuhaus-Option zurückgezogen, dezentrale Prüfung
+- [beck-aktuell, 13.08.2026 — OVG Weimar gegen Sesselmann](https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/ovg-weimar-afd-landrat-sonneberg-schulschliessung-klage-linnemann-cdu-2026-08-13)
+- [Belltower News, 02.09.2026 — VVN-BdA: Wie gemeinnützig ist Antifaschismus?](https://www.belltower.news/vvn-bda-wie-gemeinnuetzig-ist-antifaschismus-166891/) · [24.03.2026 — Partnerschaften für Demokratie](https://www.belltower.news/partnerschaften-fuer-demokratie-wenn-rechtsextreme-ueber-demokratiefoerderung-entscheiden-165115/)
+- [Campact — 551 Fragen: Datenrecherche zum Anstieg der Kleinen Anfragen](https://www.campact.de/blog/2026/02/551-fragen-cdu-csu-datenrecherche-belegt-anstieg-an-kleinen-anfragen/) — 663 parlamentarische Angriffe seit 2022, Union als Katalysator
+- AfD-Anfragen zur NGO-Förderung, wahlkreisgenau: BT-Drs. [21/7286](https://dserver.bundestag.de/btd/21/072/2107286.pdf) · [21/7698](https://dserver.bundestag.de/btd/21/076/2107698.pdf) · [21/7766](https://dserver.bundestag.de/btd/21/077/2107766.pdf) · [21/7767](https://dserver.bundestag.de/btd/21/077/2107767.pdf)
+- [LTO, 28.10.2025 — Thüringer Übergangsbesetzung der Wahlausschüsse](https://www.lto.de/recht/justiz/j/thueringen-justiz-afd-blockade-richterwahlausschuss-tagt-lebenszeit-ernennung-risiko) · [LTO, 07.09.2026 — Sachsen-Anhalt: Was jetzt?](https://www.lto.de/recht/nachrichten/n/landtagswahl-sachsen-anhalt-ueberblick)
+- [t-online/dpa, 04.09.2026 — OVG Lüneburg bestätigt Ausschluss dreier AfD-Bewerber](https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101420738/niedersachsen-ausschluss-von-drei-afd-politikern-bei-kommunalwahl.html) · [taz, 31.07.2026 — Verfassungstreue-Check Niedersachsen](https://taz.de/Kommunalwahl-in-Niedersachsen/!6196771/)
+- [ZEIT, 03.09.2026 — Desiderius-Erasmus-Stiftung verklagt Dobrindt](https://www.zeit.de/politik/deutschland/2026-09/desiderius-erasmus-stiftung-afd-alexander-dobrindt-foerdermittel-klage-erika-steinbach)
+- [VG Köln — Interessante Verfahren](https://www.vg-koeln.nrw.de/behoerde/presse/Interssante-Verfahren/) — 13 K 3895/25 weiterhin anhängig, Stand 25.08.2026 kein Verhandlungstermin
+
+> [!note] Für den nächsten Sweep (Takt 30 Tage, also ~08.10.2026)
+> Vier Termine stehen fest im Kalender, alle vier können die Konfidenz bewegen:
+> **21.09.** Jugendhilfeausschuss Sonneberg — die vertagte Kompetenzübertragung auf den Kreistag.
+> **06.10.** spätester Termin der konstituierenden Sitzung in Magdeburg; ab hier ist Ebene 4 überhaupt erst messbar.
+> **Herbst 2026** zwei Nachbesetzungen am Thüringer Verfassungsgerichtshof — die AfD beansprucht einen Vorschlag und hat Björn Höckes Anwalt Ralf Hornemann ins Spiel gebracht; mit ihrer Sperrminorität bei der Zweidrittelmehrheit ist das der schärfste Prüfstein für Schritt 1 des Playbooks.
+> Und offen aus diesem Sweep: Wurde die **Extremismusklausel** des BMBFSFJ seit Juli in konkreten Förderbescheiden angewandt? Das wäre ein Befund erster Ordnung — und einer, der die These weiter zum Macht-Muster hin verschieben würde.
+>
+> Zwei Quellenlücken, die diesmal wehtaten: Die einzige Redaktion, die Sonneberg wirklich abdeckt (*inSüdthüringen*), steht hinter einer Bezahlschranke — was der Kreistag am 26.08. beschloss, ist nur negativ bekannt („vertagt"). **Das September-Amtsblatt ist beim nächsten Mal der erste Griff.** Und ohne DIP-API-Zugang ist die Serie der NGO-Anfragen nicht abschließend zählbar; die vier Drucksachen sind ein Ausschnitt.
+>
+> Zum ersten Mal lohnt ab Oktober auch ein **Stimmenspektrum**: Wenn in Magdeburg ein AfD-Ministerpräsident gewählt wird oder scheitert, ist der Blick von außen — Warschau, Budapest, Wien, Washington, Ankara — kein Beiwerk mehr, sondern ein eigener Befund darüber, was dieser Vorgang international bedeutet.
 
 ---
 
