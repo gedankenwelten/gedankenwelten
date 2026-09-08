@@ -14,6 +14,16 @@ aliases:
 
 # Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen
 
+![[assets/Bewusstsein-als-Netzwerk-Buddhismus,-Chalmers-und-die-Frage-nach-dem-Ganzen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Yayoi Kusama** — *Infinity Net*, tausende einzelne Ölbögen in Knochenweiß und Blassgold auf tiefem Schwarz, links zu einer glühenden Fläche verwoben, nach rechts in lose Punkte zerfallend, dazwischen ein Oval, in dem gar nichts ist. Kusamas Netze sind die Frage dieser Note in Farbe: Aus der Ferne ein Ganzes, aus der Nähe nur Einzelnes — und ihr eigenes Wort dafür heißt Selbstauslöschung. Wo IIT wachsende Integration sieht, sieht Vipassana Desintegration; das Bild kann beides zugleich zeigen, weil es dieselbe Fläche ist. Die Fäden am rechten Rand greifen hinaus und enden im Nichts.
+
+*Prompt:* A wide horizontal painting in the style of Yayoi Kusama's Infinity Net paintings: thousands of small hand-painted arcs and loops in bone white and pale gold covering a deep indigo, almost black ground, each brushstroke thick and slightly irregular with visible ridges of oil paint. On the left third the net is dense and tightly woven, glowing warm, with a small cluster of vermilion at its heart, reading as one single luminous body. Toward the right the loops loosen and break apart into separate free-floating dots scattered on bare dark ground, a few thin threads reaching outward and ending in nothing. Near the centre a small oval area where the net is completely absent, pure untouched darkness. Obsessive repetitive mark-making, matte oil surface, no figures, no faces, no text, no photorealism.
+
+</details>
+
 > [!note] Entstehungskontext
 > Diese Reflexion entstand nach der Verarbeitung von [[David Chalmers — Das Hard Problem des Bewusstseins]] — ausgehend von der Frage, wie der Buddhismus zu Bewusstsein steht und was passiert, wenn man es nicht als individuelle Eigenschaft, sondern als Netzwerk denkt.
 

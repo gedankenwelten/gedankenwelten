@@ -19,6 +19,16 @@ aliases:
 
 # Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien
 
+![[assets/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Gerd Arntz** — Linolschnitt der Wiener Bildstatistik (Isotype), flache geschnittene Silhouetten, Ocker und Ziegelrot gegen Blauschwarz. Isotype wurde erfunden, um Zahlen für alle sichtbar zu machen, gegen Statistik als Herrschaftswissen — die Bildsprache, die eine Note verdient, deren These *Sichtbarkeit als politische Waffe* lautet. Oben vier Häuser mit je einem roten Quadrat: abzählbar, auf jeder Stromrechnung. Unten dieselbe Rechnung als Fässerfeld, das über den Bildrand hinausläuft und nicht aufhört.
+
+*Prompt:* A wide horizontal linocut print in the style of Gerd Arntz: solid flat silhouettes cut from single colours, hard carved edges, absolutely no gradients, no gloss, no outlines, no drop shadows. The upper quarter is a pale ochre band holding a short row of five identical small brick red house silhouettes, each with one small solid red square beside it, few and neat and easy to count. One hard horizontal line divides the picture. The lower three quarters is a deep blue black block filled edge to edge with a dense mass of small black silhouettes of storage drums, a squat institute building and a lattice guard tower, packed in even rows that continue past the bottom edge of the picture. The mass below is many times larger than the row above. Printed ink on paper, palette limited to off white, ochre, brick red and blue black. No text, no numbers, no lettering, no vehicles, no shops, no photorealism.
+
+</details>
+
 Quellen: FÖS-Studie 2020 · Bundestag WD 5-090/2021 · Statista EEG-Vergütungen · BMWE Rückbaufinanzierung
 
 > [!info] Worum geht es?
