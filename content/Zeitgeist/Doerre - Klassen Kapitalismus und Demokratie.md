@@ -20,6 +20,16 @@ aliases:
 
 # Klaus Dörre — Klassen, Kapitalismus & Demokratie
 
+![[assets/Doerre-Klassen-Kapitalismus-und-Demokratie-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera** — Fresko auf Kalkputz, Erdtöne und Arbeitsblau, monumentales Fries. Riveras Detroit-Industry-Wand ist buchstäblich Dörres Terrain: die Autofabrik als Ort, an dem sich Klassenverhältnisse besichtigen lassen. Und *Landnahme* verlangt ein Bild, in dem eine Grenze sichtbar vorrückt — hier bricht der Putz auf, links steht die Fließbandlinie, rechts frisst sich die Anlage in Feld und Wald. Über beidem läuft die Balustrade durch, von der aus zugesehen wird.
+
+*Prompt:* A wide horizontal fresco in the style of Diego Rivera's Detroit Industry murals: on the left a factory hall with workers in blue overalls bent over an assembly line, an electric car chassis half finished on the belt, faces simplified in profile and turned away, no individual features. In the centre the factory wall is broken open and the plant pushes outward into green fields and a stand of trees, an excavator biting into raw brown earth, the boundary line of the works visibly advancing. Along the top a narrow band where a few small dark-suited figures look down from a balustrade, one holding a ledger. Matte lime plaster surface, earth tones of ochre terracotta and industrial grey with strong worker blue, firm dark contours, monumental frieze composition, no photorealism, no text.
+
+</details>
+
 Quelle: [Jung & Naiv, Folge 793](https://www.youtube.com/watch?v=E0vTcXBKIFw)
 
 > [!info] Wer spricht?

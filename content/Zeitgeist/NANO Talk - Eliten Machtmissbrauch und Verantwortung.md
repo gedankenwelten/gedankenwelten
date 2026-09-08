@@ -20,6 +20,16 @@ aliases:
 
 # NANO Talk — Eliten: Zwischen Machtmissbrauch und Verantwortung
 
+![[assets/NANO-Talk-Eliten-Machtmissbrauch-und-Verantwortung-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**George Grosz** — Weimarer Tuschfeder mit schmutzigen Aquarellwaschungen, gläserne Wände, karikierte Machtgesichter. Grosz hat dieses Sujet erfunden: die Herrenrunde oben, die Straße darunter, beide im selben Bild sichtbar. Genau das ist Hartmanns These — Elite ist Macht, nicht Verdienst, und sie sitzt nicht neben der Gesellschaft, sondern über ihr. Die Leiter endet drei Sprossen unter dem Boden der Tafel: die Studienstiftung, die den Akademikeranteil in Jahrzehnten von 75 auf 73 Prozent gesenkt hat. Rechts hat der Serverturm bereits einen eigenen Stuhl.
+
+*Prompt:* A wide horizontal drawing in the style of George Grosz's Weimar-era ink and watercolour satires: a raised dining table on the upper level where four caricatured figures in dark suits sit close together, one with a cigar, one clutching a leather folder, faces reduced to blunt greedy masks without individual features. The walls and floor of their room are transparent like glass, so that beneath them a crowded grey street is visible, small hunched figures walking, a cripple, a queue. A wooden ladder rises from the street and stops three rungs short of the table's floor. At the right edge of the table a dark server tower has been given its own chair. Nervous scratchy pen line, muddy ochre and grey watercolour washes, one poisonous red accent, paper texture showing through, no photorealism, no text.
+
+</details>
+
 Quelle: [Eliten: Zwischen Machtmissbrauch und Verantwortung | NANO Talk](https://www.youtube.com/watch?v=Jfg69dF8Ybo) (3sat, 28.05.2026)
 
 > [!info] Wer spricht?
