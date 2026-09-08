@@ -968,3 +968,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Judith Mangelsdorf
 **Status:** ✓ Vollanalyse — [[DenkerVita/Judith Mangelsdorf]]
+
+## Hasnain Kazim
+**Status:** ✓ Vollanalyse — [[DenkerVita/Hasnain Kazim]]

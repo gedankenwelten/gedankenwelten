@@ -243,3 +243,7 @@ MONITORs Befund, dass Empörung als Messgröße verbraucht ist, wurde zum Konstr
 ### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
 
 Thiele baut sein Buch auf der Prämisse, die MONITOR bestreitet: dass die Wählenden nachvollziehbare Gründe haben und ihre Defizite darum behebbar sind. Die ZEW-Analyse zeigt ein Programm, das ausgerechnet Geringverdienende am wenigsten entlastet und trotzdem von ihnen gewählt wird; Matthias Quents Erklärung — die Partei sprenge „die Fesseln der Realität, der Komplexität" — ist Thieles Gegenthese in einem Satz. Beide beschreiben dasselbe Konto, auf das jedes Regierungsversagen einzahlt, ziehen daraus aber verschieden hoffnungsvolle Schlüsse.
+
+### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+
+Derselbe Quent, ein halbes Jahr später, mit dem Begriff für das, was MONITOR beschreibt: eine emotionale kollektive Identität, in der Widersprüche folgenlos bleiben, weil es „Leute von uns" sind. Der Beleg des Abends ist die Hausdurchsuchung bei einem AfD-Abgeordneten drei Tage vor der Wahl, die niemanden interessierte. Damit ist auch die Entzauberungshoffnung erledigt, die hinter jeder Skandalrecherche steht — Deitelhoff zitiert Studien, wonach rechtsradikale Parteien in Regierungsverantwortung im Schnitt sechs Punkte gewinnen.

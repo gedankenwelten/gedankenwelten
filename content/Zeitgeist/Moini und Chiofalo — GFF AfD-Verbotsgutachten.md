@@ -233,6 +233,10 @@ Die methodische Strenge dieser Note — Grundtendenz statt Einzelfall, Maßnahme
 
 ---
 
+### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+
+Wozu diese Methodik gut ist, zeigt sich dort im Einwand von Hasnain Kazim: Er hat den Verfassungsschutzbericht gelesen, findet vieles darin widerlich — und lehnt das Verbot trotzdem ab, weil ausgerechnet die Behörde der NPD-V-Leute und des NSU-Komplexes als Kronzeugin auftreten soll. Genau diese Abhängigkeit löst das GFF-Gutachten auf. Der Abend belegt zugleich den Preis der Untätigkeit, den Quent aus Ostdeutschland zitiert: „Sie ist nicht verboten, also können wir sie wählen."
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

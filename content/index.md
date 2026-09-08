@@ -22,21 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Geistesblitz
-
-> **08.09.** — [[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering|Judith Mangelsdorf — Flourishing und Mattering]]
->
-> Ein Gefühl entscheidet mehr über ein Leben als Erfolg: ob jemand merkt, dass die Welt ohne ihn eine andere wäre. Und ob dieses Gefühl gerecht verteilt ist.
-
-> **11.08.** — [[Geistesblitz/Steelpan — Was aus einem Trommelverbot wurde|Steelpan — Was aus einem Trommelverbot wurde]]
->
-> Eine Kolonialverwaltung verbot die Trommel, eine Ölindustrie ließ Fässer liegen — und die Ärmsten von Port of Spain bauten daraus das Instrument, dessen Akustik bis heute niemand ganz versteht.
-
-> **26.07.** — [[Geistesblitz/Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
->
-> Die Natur stellt keine Rechnung — und genau darum steht sie in keiner Bilanz. Eine Biologin rechnet vor, was wir umsonst bekommen, und fragt, ob ausgerechnet die Maschine helfen kann, es zu behalten.
-
 ### Zeitgeist
+
+> **08.09.** — [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+>
+> Drei Instrumente sollen die Demokratie schützen — Verbot, Brandmauer, Entzauberung. An einem Abend nach der Wahl wird jedes einzelne geprüft, und keines hält.
 
 > **06.09.** — [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
 >
@@ -54,9 +44,21 @@ Die Gedankenwelten (luc)
 >
 > Eine Ärztin erklärt Gesellschaft über den Körper: warum wir Krisen zu spät erkennen, was der Klick ist, der Menschen umbauen lässt, und woher Zuversicht kommt, wenn die Daten sie nicht hergeben.
 
-> **04.09.** — [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|Putins Zielscheibe Europa — Der Tag, an dem Berlin es beim Namen nannte]]
+> → *1 weitere in* [[Zeitgeist]]
+
+### Geistesblitz
+
+> **08.09.** — [[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering|Judith Mangelsdorf — Flourishing und Mattering]]
 >
-> Ein Zünder, der nicht verbunden war, und ein Satz, der eine Schwelle markiert: Wie Europa lernt, eine Feindseligkeit zu benennen, ohne sie Krieg nennen zu dürfen.
+> Ein Gefühl entscheidet mehr über ein Leben als Erfolg: ob jemand merkt, dass die Welt ohne ihn eine andere wäre. Und ob dieses Gefühl gerecht verteilt ist.
+
+> **11.08.** — [[Geistesblitz/Steelpan — Was aus einem Trommelverbot wurde|Steelpan — Was aus einem Trommelverbot wurde]]
+>
+> Eine Kolonialverwaltung verbot die Trommel, eine Ölindustrie ließ Fässer liegen — und die Ärmsten von Port of Spain bauten daraus das Instrument, dessen Akustik bis heute niemand ganz versteht.
+
+> **26.07.** — [[Geistesblitz/Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
+>
+> Die Natur stellt keine Rechnung — und genau darum steht sie in keiner Bilanz. Eine Biologin rechnet vor, was wir umsonst bekommen, und fragt, ob ausgerechnet die Maschine helfen kann, es zu behalten.
 
 ### Spuren
 

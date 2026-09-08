@@ -254,6 +254,10 @@ Dieselbe Rechtsfrage, entgegengesetzte Folgerung. Thiele gehörte 2024 zu den Re
 
 ---
 
+### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+
+Matthias Quent formuliert dort die Position, für die dieses Gutachten die Vorwegnahme ist: für die Klärung der Verbotswürdigkeit sein, ohne für das Verbot zu sein — auch um den Preis, dass das Gericht sagt, ihr habt das überschätzt. Die GFF hat diese Klärung außergerichtlich geleistet und ergebnisoffen begonnen; was fehlt, ist der Antrag. Der Abend zeigt, was diese Lücke politisch kostet, wenn eine Demokratie sich wehrhaft nennt und die Sanktion nie anwendet.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

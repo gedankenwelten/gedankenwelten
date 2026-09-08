@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## StreitClub #19 — Extremismus und der Schutz der Demokratie (08.09.2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [StreitClub #19 „Extremismus" mit Hasnain Kazim & Matthias Quent](https://www.youtube.com/watch?v=kLt848lYV4I) — FGZ Frankfurt, 07.09.2026, 125:33 Min. |
+| **Sprecher** | Hasnain Kazim, Matthias Quent · Moderation: Nicole Deitelhoff, Michel Friedman · Co-Moderation: Leistungskurs Politik/Wirtschaft, Georg-Büchner-Gymnasium Bad Vilbel |
+| **Notiz** | [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie]] |
+| **Transkript** | `Gedankenwelten/Transkripte/StreitClub_Extremismus_Transkript.txt` |
+| **Vitas** | [[DenkerVita/Hasnain Kazim]] · [[DenkerVita/Matthias Quent]] · [[DenkerVita/Nicole Deitelhoff]] · [[DenkerVita/Michel Friedman]] |
+| **Reihe** | [StreitClub am FGZ](https://fgz-risc.uni-frankfurt.de/category/veranstaltungen/streitclub/) — vgl. [[Zeitgeist/StreitClub — Europa allein zu Haus]] (#17) |
+
 ## Judith Mangelsdorf — Positive Psychologie, Flourishing und Mattering (08.09.2026)
 
 | | |
