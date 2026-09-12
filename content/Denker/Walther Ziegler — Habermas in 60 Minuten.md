@@ -205,6 +205,10 @@ Habermas antwortet auf den ersten Einwand mit der *operativ wirksamen Fiktion*. 
 
 ---
 
+- [[Paul Ricoeur — Die zweite Naivitaet]] — Ricœur zählte Habermas selbstverständlich zur „Tochter der Aufklärung", und ihr Sprachbegriff berührt sich: Wer lügt, verrät für Ricœur die Institution der Sprache, weil sie darauf beruht, dass wir meinen, was wir sagen — Habermas' Geltungsansprüche in anderer Grammatik. Die Wege trennen sich am Ausgang. Habermas erwartet vom Diskurs den begründeten Konsens; Ricœur rechnet mit Konflikten, für die kein Verfahren mehr reicht und an deren Ende jemand entscheiden muss: „Hier stehe ich."
+
+---
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

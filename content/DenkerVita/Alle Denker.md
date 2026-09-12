@@ -413,6 +413,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## R
 
+**[[DenkerVita/Paul Ricoeur|Paul Ricœur]]** — französischer Philosoph (1913–2005), Phänomenologe und Hermeneutiker, Professor in Straßburg, an der Sorbonne, in Nanterre und Chicago; Denker des langen Umwegs — zweite Naivität, Hermeneutik des Verdachts und des Vertrauens, narrative Identität, die kleine Ethik (das gute Leben, mit und für andere, in gerechten Institutionen); *Die Symbolik des Bösen* (1960), *Zeit und Erzählung* (1983–85), *Das Selbst als ein Anderer* (1990), *Gedächtnis, Geschichte, Vergessen* (2000)
+
 **[[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Kultursoziologe an der Humboldt-Universität zu Berlin, Leibniz-Preisträger; Chronist der Spätmoderne — Singularisierung, Kulturalisierung des Sozialen, Kreativitätsdispositiv, Verlust als Grundproblem der Moderne; *Die Gesellschaft der Singularitäten* (2017), *Das Ende der Illusionen* (2019), *Verlust* (2024)
 
 **[[DenkerVita/Tobias Rüther|Tobias Rüther]]** — Suchtmediziner, Leiter der Tabakambulanz am LMU Klinikum München; Sucht als Krankheit nicht Willensschwäche, „das Problem dahinter", Motivation statt Abschreckung, Warnung vor designten Vape-Einsteigerprodukten

@@ -193,6 +193,8 @@ Maio ergänzt mit dem Begriff der **Gemeinschaftlichkeit**:
 
 - [[Neue Akropolis — Der Mensch ist besser als sein Ruf]] — Diese Note liefert den empirischen Unterbau für Schmitz' und Maios anthropologische These: In Krisensituationen helfen Menschen spontan und kooperieren — das ist nicht moralisches Verdienst, sondern Natur. Was die Verletzlichkeitsphilosophie normativ fordert (Angewiesenheit anerkennen, Sorge als Grundhaltung), zeigt die Krisenforschung deskriptiv: Der Mensch ist nicht primär ein autonomes Nutzenmaximierungssubjekt, sondern ein relationales Wesen. Gemeinsam bilden sie eine überzeugende Widerlegung des homo oeconomicus — von zwei Seiten.
 
+- [[Paul Ricoeur — Die zweite Naivitaet]] — Ricœur denkt dieselbe Anthropologie von der Handlung her: Zu jeder Fähigkeit zu handeln (*agir*) gehört eine Fähigkeit zu erleiden (*subir*), und weil jede Handlung ein Handeln *auf* jemanden ist, steht schon das gewöhnlichste Tun am Abhang der Gewalt. Sein schwerster ethischer Fall ist derselbe wie Maios: die Palliativmedizin zwischen Übertherapie und heimlichem Abgleiten. Und seine Antwort ist die Beratungszelle — die Weisheit wird zu mehreren gefunden, mit den Pflegenden, die den Alltag kennen, nicht nur mit denen, die die Regeln kennen.
+
 ---
 
 ## Weiterführende Quellen

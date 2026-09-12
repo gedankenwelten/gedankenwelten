@@ -649,6 +649,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Paul Lance
 **Status:** ✓ Vollanalyse → [[DenkerVita/Paul Lance]]
 
+## Paul Ricœur
+**Status:** ✓ Vollanalyse → [[DenkerVita/Paul Ricoeur]]
+
 ## Pascal Kaufmann
 **Status:** ✓ Vollanalyse → [[DenkerVita/Pascal Kaufmann]]
 

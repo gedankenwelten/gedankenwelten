@@ -302,3 +302,7 @@ Thieles Legitimitätstheorie beschreibt, woran Zustimmung erodiert; El-Mafaalani
 ### → [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
 
 Der Praxistest der These, dass Misstrauensgemeinschaften sich nicht entzaubern lassen: Deitelhoff legt dort Studien vor, wonach rechtsradikale Parteien in Regierungsverantwortung im Schnitt sechs Punkte gewinnen. Und Hasnain Kazim vertritt an diesem Abend genau die Position, die El-Mafaalani für den Kardinalfehler hält — „Können wir diese Leute zurückholen? Als Demokraten muss es unser Ziel sein." Der Widerspruch bleibt dort unaufgelöst, weil niemand am Tisch die andere Hälfte der Bevölkerung als Adressatin im Blick hat.
+
+### → [[Paul Ricoeur — Die zweite Naivitaet]]
+
+Die philosophische Vorgeschichte des Befunds: *Hermeneutik des Verdachts* nennt Ricœur das, was Marx, Nietzsche und Freud der Moderne beigebracht haben — hinter jeder Aussage ein Interesse zu vermuten. Er hält diese Schule für unumgänglich und ihre Verabsolutierung für den Ruin: Wer nur noch entlarvt, hört irgendwann nichts mehr, weil die Brille, die überall Maschinerie sieht, sie auch dort sieht, wo keine ist. Die Misstrauensgemeinschaften sind, was daraus wird, wenn eine ganze Gesellschaft nur diese eine Hälfte gelernt hat.

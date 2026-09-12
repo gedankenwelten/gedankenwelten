@@ -4462,3 +4462,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Buch (Buyx)** | *Das Solidaritätsprinzip. Plädoyer für eine Renaissance in Medizin und Bioethik* (2016, mit Barbara Prainsack) — [genialokal](https://www.genialokal.de/Suche/?q=solidaritaetsprinzip+buyx+prainsack) |
 | **Buch (Buyx)** | *Leben und Sterben. Die großen Fragen ethisch entscheiden* (2023) — [genialokal](https://www.genialokal.de/Suche/?q=leben+sterben+buyx) |
 | **Transkript** | `Gedankenwelten/Transkripte/Buyx_Gesellschaft_NEU_DENKEN_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Paul Ricœur
+
+| | |
+|---|---|
+| **Gespräche** | [À voix nue — Paul Ricœur s'entretient avec Katharina von Bülow, France Culture 1993](https://www.youtube.com/watch?v=e4Bh_E6Lz6o) |
+| **Vortrag** | [La philosophie morale — Forum Universitaire de l'Ouest parisien, 25.10.1994 (Fonds Ricœur, CC-BY)](https://www.youtube.com/watch?v=C5Zu3r1faXk) |
+| **Notiz** | [[Paul Ricoeur — Die zweite Naivitaet]] |
+| **DenkerVita** | [[DenkerVita/Paul Ricoeur]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Ricoeur_Entretiens_AVoixNue_Transkript.txt` · `Gedankenwelten/Transkripte/Ricoeur_Philosophie_Morale_1994_Transkript.txt` (beide Französisch) |
+| **Weitere** | [Une Vie, une œuvre (France Culture 2013)](https://www.youtube.com/watch?v=g3NoJ3SqPAc) · [Fonds Ricœur](https://fondsricoeur.ehess.fr/) · [Études Ricœuriennes](https://ricoeur.pitt.edu/ojs/ricoeur/about) |

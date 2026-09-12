@@ -269,6 +269,10 @@ Narzissmus ist ein genuin Freudsches Konzept — er beschreibt die Libido, die s
 
 Moukheiber bringt die empirische Neurobiologie, wo Freud noch Theorie hatte: Das Gehirn als Vorhersagemaschine, die vergangene Erfahrungen auf die Gegenwart projiziert — das ist Freuds Übertragung in neurobiologischer Sprache. Moukheibers These, dass wir kaum autonom denken und uns unseren Überzeugungen erst *nach* dem Verhalten anschließen, spiegelt Freuds Ich-als-Rationalisierungsinstanz direkt wider.
 
+### → [[Paul Ricoeur — Die zweite Naivitaet]]
+
+Ricœurs Freud-Buch von 1965 liest die Psychoanalyse nicht als Therapie, sondern als Erkenntnismodell — und prägt dabei den Begriff, den heute fast jeder benutzt, ohne den Urheber zu kennen: die *Hermeneutik des Verdachts*, mit Marx, Nietzsche und Freud als ihren drei Meistern. Er nimmt Freuds Entlarvung vollständig ernst und stellt trotzdem die Frage, die bei Freud nicht vorgesehen ist: Was kommt nach dem Verdacht, wenn man in die Naivität nicht zurückkann?
+
 ---
 
 ## Weiterdenken

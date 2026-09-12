@@ -115,3 +115,7 @@ Die Empörungsmaschine als Komplize der Kaperung: Das OK-Zeichen wurde 2017 erst
 ### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
 
 Der Ausgang aus der Falle, in einem Satz: Kritik wird nicht dadurch falsch, dass die falschen Leute sie benutzen. Heinrich lässt das ukrainische Sprachgesetz diskutabel und nennt die Absetzung Janukowytschs formal einen Staatsstreich, obwohl beides seiner eigenen Seite schadet. Diese Note erklärt, warum das im polarisierten Raum so selten passiert.
+
+### → [[Denker/Paul Ricoeur — Die zweite Naivitaet|Paul Ricœur — Die zweite Naivität]]
+
+Ricœurs Antigone-Satz markiert die Schwelle, an der diese Note die Ideologisierung ansetzen sieht: „Der Bruder, der ein Verräter ist, ist ein Bruder, bevor er ein Verräter ist." Kreon und Antigone dienen beide einer wirklichen Größe und beide in der Enge eines Standpunkts — genau der Kern Recht auf beiden Seiten, den man in der Polarisierung nicht aussprechen darf, ohne sofort zugeordnet zu werden. Dazu sein Befund zur Empörung: Sie ist intakt, aber sie findet immer den anderen schuldig; die Fähigkeit zur Selbstanklage ist die schwächere.

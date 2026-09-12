@@ -201,6 +201,10 @@ Das komplexe Denken im Laboralltag: Kornmeiers „Ich glaube nichts, halte aber 
 
 Klees Satz „Das Böse soll nicht triumphierender Feind sein, sondern am Ganzen mitschaffende Kraft“ (1920) ist das *principe dialogique* in Bildersprache — zwei gegensätzliche Kräfte, die einander brauchen statt sich aufzuheben, Jahrzehnte vor Morins Begriff.
 
+### → [[Paul Ricoeur — Die zweite Naivitaet]]
+
+Ricœur nannte es sein Los, „immer zwischen zwei Einflüssen platziert" zu sein, und schrieb ein Buch darüber: *Der Konflikt der Interpretationen*. Das ist das *principe dialogique* als Biografie — zwei Logiken zusammenhalten, ohne eine zu opfern. Auch der Weg ist derselbe: Beide verlangen den Umweg durch die Wissenschaften vom Menschen, bevor man vom Menschen spricht, und beide weigern sich, das Erklären gegen das Verstehen auszuspielen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
