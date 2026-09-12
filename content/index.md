@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **13.09.** — [[Denker/Paul Ricoeur — Die zweite Naivitaet|Paul Ricœur — Die zweite Naivität]]
+>
+> Wer die Kritik durchlaufen hat, kann nicht zurück zum Kind — aber wieder hinhören. Ricœurs Leben und Denken als langer Umweg vom Verdacht zur zweiten Naivität.
+
+> **16.08.** — [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+>
+> Vierzig Jahre Zählen ergeben einen Satz, der wehtut: Wer oben entscheidet, entscheidet nach seiner Herkunft — und die Herkunft wird gerade wieder enger.
+
+> **11.08.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
+>
+> Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
+
 ### Spuren
 
 > **12.09.** — [[Spuren/Dalios Fenster — Amerikas Schuldenlast bis November 2028|Dalios Fenster — Amerikas Schuldenlast bis November 2028]]
@@ -63,10 +77,6 @@ Die Gedankenwelten (luc)
 > **06.09.** — [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]]
 >
 > Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
-
-> **05.09.** — [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Alena Buyx — Gesellschaft NEU DENKEN]]
->
-> Eine Ärztin erklärt Gesellschaft über den Körper: warum wir Krisen zu spät erkennen, was der Klick ist, der Menschen umbauen lässt, und woher Zuversicht kommt, wenn die Daten sie nicht hergeben.
 
 ### Geistesblitz
 
@@ -125,20 +135,6 @@ Die Gedankenwelten (luc)
 > **22.06.** — [[Kultur/Hans Maggi — Sokotra|Hans Maggi — Sokotra]]
 >
 > Eine Radreise an den Rand des Krieges und ans Ende der bewohnten Welt — Sokotra, wo Drachenblutbäume wie Schirme stehen und ein Mann von vierundsechzig Jahren in seiner Höhle die Fülle des Wenigen lebt.
-
-### Denker
-
-> **16.08.** — [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
->
-> Vierzig Jahre Zählen ergeben einen Satz, der wehtut: Wer oben entscheidet, entscheidet nach seiner Herkunft — und die Herkunft wird gerade wieder enger.
-
-> **11.08.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
->
-> Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
-
-> **11.08.** — [[Denker/Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]
->
-> Ein Rapper liest zehn Zeilen vor und lässt raten: Shakespeare oder Hip-Hop? Fast alle liegen falsch — und aus diesem Irrtum wird eine Frage danach, wer das Recht hat, klug zu sein.
 
 <!-- JOURNAL:END -->
 

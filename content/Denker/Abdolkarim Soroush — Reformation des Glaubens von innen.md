@@ -217,6 +217,10 @@ Reform vs. Exodus: Wo Soroush den Glauben von innen erneuert und Wesenskern von 
 
 Diagnes „Koran des Pluralismus" (Verschiedenheit, „damit ihr einander kennenlernt"; der Wettstreit in guten Taten) ist die übersetzungsphilosophische Fassung von Soroushs religiösem Pluralismus: Beide retten das Universale von innen gegen den Absolutismus — Soroush theologisch, Diagne über die Gastfreundschaft zwischen den Sprachen.
 
+### → [[Paul Ricoeur — Die zweite Naivitaet]]
+
+*Qabz va Bast* und Ricœurs zweite Naivität beschreiben dieselbe Bewegung in zwei Traditionen: nach der Kritik glauben, nicht vor ihr — das Symbol weder für wahr noch für überholt erklären, sondern für etwas, das zu denken gibt. Auch die Lebensform ähnelt sich. Ricœur war fünfzig Jahre lang „Philosoph *und* Protestant", nie protestantischer Philosoph, und hielt beide Bibliotheken auseinander; Soroush trennt Religion und religiöses Wissen aus demselben Motiv — damit keines dem anderen seine Gewissheit leiht.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

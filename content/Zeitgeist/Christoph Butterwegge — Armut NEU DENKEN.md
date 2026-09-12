@@ -338,3 +338,6 @@ Die Steuerverschiebung, die Butterwegge hier dokumentiert — Vermögenssteuern 
 
 Die Glücksforschung landet bei der Verteilungsfrage — und bleibt dort stehen. Mangelsdorf übernimmt Isaac Prilleltenskys Formel *no wellness without fairness*: Ungleichbehandlung ist die stärkste Form, Nichtbedeutsamkeit zu erzeugen, und wahrgenommene Unfairness senkt das Wohlbefinden innerhalb einer Gesellschaft messbar. Was daraus politisch folgt, sagt sie nicht; ihre Empfehlungen bleiben privat. Butterwegge beginnt genau an dieser Stelle und rechnet weiter — womit sichtbar wird, dass die Verteilung von Bedeutsamkeit selbst ein politisches Produkt ist.
 
+### → [[Paul Ricoeur — Die zweite Naivitaet]]
+
+Ricœur benennt 1993 als kommendes Problem, was Butterwegge als deutsche Gegenwart durchrechnet. Seine Unterscheidung liegt unter der Sache: Der Markt ist das allgemeine Gesetz des Tauschs, der Kapitalismus dagegen eine *Ideologie*, nach der der Markt seine Widersprüche selbst löse — und es gebe Güter, die man nicht kaufen und verkaufen kann, Bildung, Gesundheit, Sicherheit, Staatsbürgerschaft. Dazu die Grenze des Verteilungsdenkens, die Butterwegges Ausgeschlossene betrifft: Wer aus dem Gesellschaftsvertrag herausgefallen ist, kommt in keiner Verteilungsregel mehr vor.

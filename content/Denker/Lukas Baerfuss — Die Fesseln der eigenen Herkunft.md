@@ -333,6 +333,10 @@ Beide arbeiten mit Bourdieus Habitus, von entgegengesetzten Enden der Leiter. Do
 
 Bärfuss sagt, wer keine Ahnengalerie hat, habe dafür lebendige Erinnerung — Akala führt die Berufsgruppe vor, die genau das war: die Griots, Dichter, Historiker und Genealogen in einer Person. Und wo Bärfuss beim Ehrendoktor nicht weiß, ob man das auf die Visitenkarte druckt, beschreibt Akala dieselbe Habitus-Grenze eine Etage früher: den Dreizehnjährigen, dem niemand die Rolle des Wissenshüters zeigt.
 
+### → [[Paul Ricoeur — Die zweite Naivitaet]]
+
+Ricœur benutzt lieber das Wort *Erbe* als *Tradition*, weil ein Erbe eine Schuld erzeugt, die man nur bezahlt, indem man es fruchtbar macht. Die Bananenschachtel ist der Grenzfall dazu: Was tut man mit einem Erbe, das nur aus Schulden besteht? Und Bärfuss' Weigerung, das eigene Leben als Heldenreise zu erzählen, ist narrative Identität in ihrer schärfsten Form — dieselbe Geschichte immer wieder neu fassen dürfen, gerade gegen die Fassung, die andere für einen bereithalten.
+
 ---
 
 ## Weiterdenken
