@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Spuren
 
+> **12.09.** — [[Spuren/Dalios Fenster — Amerikas Schuldenlast bis November 2028|Dalios Fenster — Amerikas Schuldenlast bis November 2028]]
+>
+> Ein Milliardär nennt ein Datum und die Instrumente, an denen man ihn prüfen kann. Diese Spur nimmt ihn beim Wort — und rechnet damit, dass er sich irrt.
+
+> **12.09.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
+>
+> Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
+
 > **10.09.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
 >
 > Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
@@ -36,13 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird.
 
-> **08.09.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
->
-> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
-
-> **06.09.** — [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
->
-> Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen.
+> → *2 weitere in* [[Spuren]]
 
 ### Zeitgeist
 
@@ -65,8 +67,6 @@ Die Gedankenwelten (luc)
 > **05.09.** — [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Alena Buyx — Gesellschaft NEU DENKEN]]
 >
 > Eine Ärztin erklärt Gesellschaft über den Körper: warum wir Krisen zu spät erkennen, was der Klick ist, der Menschen umbauen lässt, und woher Zuversicht kommt, wenn die Daten sie nicht hergeben.
-
-> → *1 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

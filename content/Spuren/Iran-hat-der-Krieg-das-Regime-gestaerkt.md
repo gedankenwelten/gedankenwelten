@@ -13,11 +13,11 @@ tags:
   - krieg
   - year-2026
 status: offen
-konfidenz: 58%
+konfidenz: 64%
 review-takt: 21-tage
 eroeffnet: 2026-06-19
-aktualisiert: 2026-06-19
-presseschau_aktualisiert: 2026-06-21
+aktualisiert: 2026-09-12
+presseschau_aktualisiert: 2026-09-12
 description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte."
 ---
 
@@ -46,7 +46,7 @@ description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht d
 
 ## Die These
 
-> **Stand (Konfidenz 58 %):** Das reale Ziel des Krieges war, eine **atomar strebende, terror-stützende
+> **Stand (Konfidenz 64 %):** Das reale Ziel des Krieges war, eine **atomar strebende, terror-stützende
 > Macht zu zerschlagen** — auf zwei Säulen: (1) **die Bombe / Urananreicherung** stoppen und (2) den **Staat
 > brechen, der Hisbollah, Hamas und Huthis stützt** (die „Achse"). *Nicht* ein Regimewechsel an sich, *nicht*
 > ein humanitäres Anliegen. **Belegt:** weder USA noch Israel handelten im Interesse der iranischen *Menschen*;
@@ -131,6 +131,14 @@ Der zweite Befund ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — A
 
 ## Verlauf
 
+### 2026-09-12 — Presseschau: Bab al-Mandab — der abgeschriebene Arm der Achse (Konfidenz 58 % → 64 %)
+
+**Befund (Presseschau, datiert):** Am **Freitag, 11.09.2026**, übernahmen die jemenitischen Huthi die gesamte Küste am Roten Meer und sicherten sich damit den Zugriff auf die Meerenge **Bab al-Mandab** ([Tagesschau](https://www.tagesschau.de/tagesschau_20_uhr/video-1647514.html), [SPIEGEL](https://www.spiegel.de/ausland/nadeloehr-bab-al-mandab-droht-im-nahen-osten-die-naechste-seeblockade-a-48abe99c-0a7a-41b6-a262-57bacb6c2374), [Le Monde](https://www.lemonde.fr/international/article/2026/09/12/les-succes-des-houthistes-au-yemen-renforcent-l-iran-face-aux-etats-unis_6770842_3210.html)). Le Monde berichtet, Teheran plane, die Erfolge seiner Verbündeten bei möglichen Verhandlungen als Hebel zu nutzen — zwei Monate nach der Sperrung der Straße von Hormus. TASS zitiert den Ölmarkt-Experten Ziyad al-Hashemi: eine Schließung gefährde saudische Lieferungen nach Asien und treibe die Preise, besonders am Spotmarkt ([TASS](https://tass.com/world/2186407)). Die NYT meldet steigende Ölpreise und hält fest, dass die BRICS Iran am Verhandlungstisch haben, die USA nicht ([NYT](https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html)).
+
+**Deutung:** Das trifft nicht zuerst die These, sondern einen **eigenen Befund dieser Spur**. Bei Anlage steht als Kontext, die „Achse" sei bereits 2024 gebrochen gewesen — Nasrallah und Sinwar tot, Assad gestürzt — und wer die Schwächung der Proxys diesem Krieg zuschreibe, begehe einen Kausalfehler. Für Hisbollah und Hamas bleibt der Satz richtig. Für die Huthis ist er es nicht mehr: Der Arm, den die Spur mit abgeschrieben hat, macht seinen größten territorialen Gewinn und sitzt nun an der **zweiten** Öl-Meerenge. Damit rückt die vorab registrierte Stärkungsbedingung *„Iran rekonstituiert seine regionalen Allianzen"* erstmals in Sichtweite — eingetreten ist sie nicht. Die Konfidenz steigt um sechs Punkte, und zwar nicht, weil der Befund die These beweist, sondern weil er eine Annahme entkräftet, die **gegen** sie sprach.
+
+**Gegenbeobachtung (Pflicht):** (1) Der Vormarsch ist jemenitische Bürgerkriegsdynamik, nicht iranische Regie. Dass ein Verbündeter gewinnt, ist nicht dasselbe wie *rekonstituieren* — das Wort setzt einen handelnden Akteur voraus, den keine der fünf Quellen belegt. (2) Le Monde berichtet eine **Absicht** Teherans, keinen erzielten Verhandlungsvorteil; ein Vorhaben ist keine Wirkung. (3) Der Hebel schneidet zurück: Eine Blockade, die saudische Lieferungen nach Asien trifft, trifft chinesische Käufer — also Irans wichtigsten Abnehmer. Wer die Meerenge zumacht, verkauft sein eigenes Öl schlechter. (4) Quellen-Gate: fünf Stimmen aus vier Lagern, der **Kern** (Küstenübernahme, Zugriff auf die Meerenge) trägt über alle hinweg; die **Zurechnung an Iran** stammt bislang allein von Le Monde. (5) Ein Freitag ist kein Trend.
+
 ### 2026-06-21 — Presseschau: Hormuz an/aus — die Waffenruhe als Bühne (Konfidenz unverändert 58 %)
 
 **Befund (Presseschau, datiert):** Drei Tage nach dem Islamabad-Memorandum (17.06.) ist die Ruhe brüchig. Am **20.06.** passierten laut US-Militär 55 Schiffe die Straße von Hormuz — dann kündigte Teheran an, die Meerenge **erneut zu schließen** ([NYT](https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html)); US-Truppen überwachen sie, „um sie offen zu halten" ([Middle East Eye](https://www.middleeasteye.net/live-blog/live-blog-update/us-forces-monitoring-strait-hormuz-ensure-it-stays-open)). Zugleich testet Israel die Waffenruhe: Schläge im Südlibanon, während die Regierung formell Feuer-Stopp befiehlt, aber „in Position bleiben" ([Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes), [TASS](https://tass.com/world/2149357)).
@@ -160,6 +168,8 @@ Der zweite Befund ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — A
 > - **Projektion:** Dem Krieg ein *humanitäres* Motiv anzudichten (um ihn dann daran scheitern zu lassen) — *oder* umgekehrt Trump *nur* Banalität zu unterstellen — ist beides Bias. Belegt sind Zielwahl und Folgen, nicht die Absicht dahinter; Motiv bleibt Deutung. Auch die reizvolle „Obama-Hass"-Erklärung nicht zur Gewissheit aufblasen.
 > - **Wachpunkt:** Wenn Mojtabas Regime in 12 Monaten *doch* fällt oder sich öffnet, muss das hier eingetragen werden können — ohne dass es sich wie Niederlage anfühlt. Die Spur verfolgt, *was geschah*, nicht *was ich kommen sah*.
 > - **Selbst-Audit Datum:** Habe ich beim Anlegen die Hinrichtungszahl groß und die DIA-„nur-Monate"-Schätzung klein gemacht, weil das die These stützt? — Bewusst beide stehen lassen.
+
+**Nachtrag 12.09.2026.** Diesmal saß die Krallung an einer anderen Stelle: Der Befund war reizvoll, *weil* er einen eigenen Fehler aufdeckt — „ich habe die Huthis zu früh abgeschrieben" liest sich als Redlichkeit und fühlt sich darum gut an. Genau deshalb ist zu prüfen, ob die Konfidenz nicht zu großzügig gestiegen ist: Belohnt wurde womöglich die Geste der Selbstkorrektur, nicht die Evidenz. Was tatsächlich belegt ist, ist eine Küstenübernahme; alles über iranische Urheberschaft und Verhandlungsmacht ist Zuschreibung **einer** Zeitung. Sechs Punkte sind dafür an der oberen Kante. Beim nächsten Sweep zuerst hier nachsehen.
 
 ## Stimmenspektrum
 
@@ -206,6 +216,16 @@ Das Muster-Fundament: Der Schlag trägt sein Gegenteil in sich (Yin-Yang) — un
 Das augenzwinkernde Schwester-Stück: Die hier ernst eingehegte „banale Obama-Erasure-Lesart" wird dort satirisch auf die Spitze getrieben — die Spannung zwischen Strenge und Spott ist der Reiz.
 
 ## Quellen
+
+**Presseschau 12.09.2026 — Bab al-Mandab (Stimmenspektrum des Befunds):**
+
+- [Le Monde (FR, liberal) — Les succès des houthistes au Yémen renforcent l'Iran face aux États-Unis](https://www.lemonde.fr/international/article/2026/09/12/les-succes-des-houthistes-au-yemen-renforcent-l-iran-face-aux-etats-unis_6770842_3210.html) — 12.09.2026; die einzige Quelle, die den Gewinn ausdrücklich Iran zurechnet
+- [Tagesschau (DE, öffentlich-rechtlich) — Eskalation am Roten Meer: Huthi greifen nach Bab al-Mandab](https://www.tagesschau.de/tagesschau_20_uhr/video-1647514.html) — 11.09.2026
+- [SPIEGEL (DE) — Nadelöhr Bab al-Mandab: Droht im Nahen Osten die nächste Seeblockade?](https://www.spiegel.de/ausland/nadeloehr-bab-al-mandab-droht-im-nahen-osten-die-naechste-seeblockade-a-48abe99c-0a7a-41b6-a262-57bacb6c2374) — 11.09.2026; Fokus Welthandel
+- [TASS (RU, staatsnah) — Schließung von Bab el-Mandeb gefährdet saudische Öllieferungen nach Asien](https://tass.com/world/2186407) — 11.09.2026; russisches Interesse an hohen Ölpreisen mitlesen
+- [NYT (US, liberal) — As oil prices rise, BRICS leaders have what the U.S. does not: Iran at the table](https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html) — 12.09.2026
+
+**Grundlage:**
 
 - [Wikipedia — 2026 Iran war (Verlauf, Islamabad-Memorandum, Opferzahlen)](https://en.wikipedia.org/wiki/2026_Iran_war)
 - [Wikipedia — Iran internal crisis (2025–present)](https://en.wikipedia.org/wiki/Iran_internal_crisis_(2025%E2%80%93present))

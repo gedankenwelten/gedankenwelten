@@ -10,10 +10,11 @@ tags:
   - geopolitik
   - year-2026
 status: offen
-konfidenz: 40%
+konfidenz: 37%
 review-takt: 90-tage
 eroeffnet: 2026-08-08
-aktualisiert: 2026-08-08
+aktualisiert: 2026-09-12
+presseschau_aktualisiert: 2026-09-12
 description: "Ein Milliardär nennt ein Datum und die Instrumente, an denen man ihn prüfen kann. Diese Spur nimmt ihn beim Wort — und rechnet damit, dass er sich irrt."
 ---
 
@@ -36,7 +37,7 @@ description: "Ein Milliardär nennt ein Datum und die Instrumente, an denen man 
 
 ## Die These
 
-> **Stand (Konfidenz 40 %):** Zwischen dem 3. November 2026 und dem 7. November 2028 wird die von Dalio benannte Abfolge in den von ihm selbst genannten Größen messbar sichtbar — lange Zinsen steigen gegenüber kurzen, der Dollar gibt nach, Gold zieht an, danach gerät der Aktienmarkt unter Druck — und/oder die Vereinigten Staaten greifen zu erkennbaren Maßnahmen finanzieller Repression.
+> **Stand (Konfidenz 37 %):** Zwischen dem 3. November 2026 und dem 7. November 2028 wird die von Dalio benannte Abfolge in den von ihm selbst genannten Größen messbar sichtbar — lange Zinsen steigen gegenüber kurzen, der Dollar gibt nach, Gold zieht an, danach gerät der Aktienmarkt unter Druck — und/oder die Vereinigten Staaten greifen zu erkennbaren Maßnahmen finanzieller Repression.
 
 Die These ist bewusst an **öffentlich abrufbaren Zeitreihen** falsifizierbar, nicht an Stimmungen. Jeder Befund dieser Spur muss von jedem selbst nachgerechnet werden können — FRED, das US-Finanzministerium, ein Goldkurs. Nichts hier darf auf mein Wort hin geglaubt werden müssen.
 
@@ -98,6 +99,24 @@ Diese Bedingungen werden nach Eröffnung **nicht aufgeweicht**. Wenn sie sich sp
 
 ## Verlauf
 
+### 2026-09-12 — Presseschau: die Kurve läuft in die falsche Richtung (Konfidenz 40 % → 37 %)
+
+**Befund (nachgerechnet am 12.09.2026, alle Werte öffentlich abrufbar):**
+
+| Größe | Start 06.08.2026 | Stand | Δ | Schwelle |
+|---|---|---|---|---|
+| Rendite 10J ([DGS10](https://fred.stlouisfed.org/series/DGS10)) | 4,69 % | **4,95 %** (10.09.) | +26 bp | ≥ 5,69 % |
+| Rendite 2J ([DGS2](https://fred.stlouisfed.org/series/DGS2)) | 4,25 % | **4,56 %** (10.09.) | +31 bp | — |
+| Zinsstruktur 10J−2J ([T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y)) | +0,46 pp | **+0,33 pp** (11.09.) | **−13 bp** | ≥ +1,46 pp |
+| Dollar breit ([DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS)) | 119,70 | 118,07 (04.09.) | −1,4 % | ≤ 107,70 |
+| Gold je Unze | 4.399,70 USD | **4.349,70 USD** (12.09.) | −1,1 % | ≥ 5.500 USD |
+
+Anlass des Nachrechnens war eine dichte Berichtswoche: El País meldet am 12.09., Trumps Versprechen von **5.000 Dollar für alle erwachsenen Amerikaner** im Fall eines republikanischen Siegs bei der Kongresswahl schlage Alarm am Schuldenmarkt ([El País](https://elpais.com/economia/2026-09-12/el-bono-electoral-de-trump-enciende-las-alarmas-con-el-mercado-de-deuda-al-rojo-vivo.html)); der SPIEGEL berichtet von Investoren, die am Schuldenkurs und an US-Staatsanleihen zweifeln ([SPIEGEL, 11.09.](https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301)); Al Jazeera von einer globalen Verkaufswelle bei Anleihen ([11.09.](https://www.aljazeera.net/ebusiness/2026/9/11/)); die NZZ vom Machtkampf des Finanzministers mit dem Anleihemarkt ([11.09.](https://www.nzz.ch/wirtschaft/finanzminister-gegen-finanzmaerkte-in-den-usa-spitzt-sich-der-machtkampf-um-die-finanzierung-der-staatsschulden-zu-ld.10023215)).
+
+**Deutung:** Die Renditen sind real gestiegen, die Berichte beschreiben keine Erfindung. Aber sie sind in der **falschen Form** gestiegen. Dalios Reihenfolge beginnt ausdrücklich damit, dass die *langen* Zinsen gegenüber den *kurzen* steigen, „während man versucht, die kurzen unten zu halten". Eingetreten ist das Gegenteil: Die zweijährige Rendite legte stärker zu als die zehnjährige, die Kurve hat sich von +0,46 auf +0,33 Punkte **verengt** und damit von der Schwelle entfernt statt sich ihr zu nähern. Gold ist leicht gefallen, der Dollar kaum bewegt. Von fünf Bedingungen ist keine näher am Auslösen als bei Eröffnung; zwei messbare Indikatoren laufen entgegen der Vorhersage. Das ist genau der Fall, für den diese Spur gebaut wurde — die Schlagzeilen klingen nach Dalio, die Zeitreihe sagt nein. Drei Punkte runter.
+
+**Gegenbeobachtung (Pflicht):** (1) Das **Fenster ist noch nicht offen.** Es beginnt am 03.11.2026; eine Bewegung davor kann Dalio weder bestätigen noch widerlegen, und die Konfidenz dafür überhaupt zu senken, ist streng genommen schon eine Überinterpretation. Drei Punkte sind bewusst wenig. (2) Ein Monat ist kein Trend, und der Review-Takt dieser Spur steht nicht ohne Grund auf 90 Tagen. (3) Eine Verengung bei *steigendem* Niveau ist nicht dasselbe wie Entspannung — wenn die kurzen Zinsen steigen, weil der Markt weniger Zinssenkungen erwartet, kann daraus später sehr wohl eine Steilheit werden, sobald die Fed nachgibt. Die Reihenfolge könnte lediglich später einsetzen. (4) Bedingung 4 (Auktionen mit Bid-to-Cover unter 2,0) ist in diesem Sweep **nicht** geprüft worden; ein Verkaufsdruck dieser Woche könnte sich dort zeigen, ohne dass es die Kurve verrät. Offener Punkt für den nächsten Durchgang.
+
 ### 2026-08-08 — Eröffnung (Konfidenz — → 40 %)
 
 **Befund:** Am 03.06.2026 sagt Ray Dalio auf dem Forbes Iconoclast Summit gegenüber Bloomberg auf die direkte Frage, ob der Punkt ohne Wiederkehr überschritten sei: *„Yes, we're past the point of no return."* Er benennt das Fenster nach den Zwischenwahlen und vor der Präsidentschaftswahl sowie die Abfolge der Indikatoren. Die Ausgangswerte sind oben festgehalten; die US-Staatsschulden lagen am 06.08.2026 bei 39,89 Billionen Dollar.
@@ -111,6 +130,12 @@ Diese Bedingungen werden nach Eröffnung **nicht aufgeweicht**. Wenn sie sich sp
 ## Gleichmut-Spiegel
 
 *Selbst-Audit bei jedem Sweep. Anattā auf die eigene Überzeugung angewandt.*
+
+### 2026-09-12 — nach dem ersten Nachrechnen
+
+**Wo verlange ich Bestätigung?** Nirgends in die erwartete Richtung — und genau das ist verdächtig. Beim Nachrechnen stellte sich eine kleine Genugtuung ein, die These *gegen* die Schlagzeilen senken zu dürfen: „ich falle nicht auf Panik-Berichterstattung herein" schmeichelt genauso wie Rechtbehalten. Die Konfidenz um drei Punkte zu senken, obwohl das Fenster noch gar nicht offen ist, ist streng genommen dieselbe Sünde wie sie am Wahlabend hochzusetzen — ich messe eine Erwartung, nicht das Ereignis. Ich lasse die drei Punkte stehen, weil die Kurvenform ein echtes Datum ist, notiere aber, dass die saubere Antwort „unverändert 40 %, das Fenster ist zu" gewesen wäre.
+
+**Was habe ich kleiner gemacht, als es ist?** Den Renditeanstieg selbst. 26 Basispunkte auf zehn Jahre in fünf Wochen sind kein Nichts; ich betone die Kurvenform, weil sie meine skeptische Lesart trägt. Wer nur auf das Niveau schaut, sieht eine Bewegung in Dalios Richtung.
 
 ### 2026-08-08 — bei Eröffnung
 
@@ -165,6 +190,14 @@ Die alternative Ursache, die dieselben Indikatoren erzeugen könnte. Herrmann er
 - [Debt to the Penny](https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny) — US-Finanzministerium, tagesaktueller Schuldenstand
 - [FRED DGS10](https://fred.stlouisfed.org/series/DGS10) · [DGS2](https://fred.stlouisfed.org/series/DGS2) · [T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) · [DTWEXBGS](https://fred.stlouisfed.org/series/DTWEXBGS) — Federal Reserve Bank of St. Louis
 - [TreasuryDirect Auktionsergebnisse](https://www.treasurydirect.gov/auctions/announcements-data-results/) — Bid-to-Cover je Auktion
+
+**Presseschau 12.09.2026 — die Berichtswoche zum Anleihemarkt (Stimmenspektrum):**
+
+- [El País (ES) — El bono electoral de Trump enciende las alarmas con el mercado de deuda al rojo vivo](https://elpais.com/economia/2026-09-12/el-bono-electoral-de-trump-enciende-las-alarmas-con-el-mercado-de-deuda-al-rojo-vivo.html) — 12.09.2026; der Wahlscheck als fiskalischer Anlass
+- [SPIEGEL (DE) — Investoren zweifeln am Schuldenkurs und an US-Staatsanleihen](https://www.spiegel.de/wirtschaft/usa-unter-donald-trump-investoren-zweifeln-am-schuldenkurs-und-an-us-staatsanleihen-a-8992d399-14c7-4604-baa4-be01075b1301) — 11.09.2026
+- [NZZ (CH, liberal-konservativ) — Finanzminister gegen Finanzmärkte: der Machtkampf um die Finanzierung der Staatsschulden](https://www.nzz.ch/wirtschaft/finanzminister-gegen-finanzmaerkte-in-den-usa-spitzt-sich-der-machtkampf-um-die-finanzierung-der-staatsschulden-zu-ld.10023215) — 11.09.2026
+- [Al Jazeera (QA, arabisch) — Globale Verkaufswelle bei Anleihen treibt die Renditen der US-Staatspapiere](https://www.aljazeera.net/ebusiness/2026/9/11/) — 11.09.2026; die außerwestliche Lesart der Dollar-Abhängigkeit
+- [gold-api.com](https://api.gold-api.com/price/XAU) — Spotpreis Gold, 12.09.2026
 
 ---
 
