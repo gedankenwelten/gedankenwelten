@@ -15,6 +15,16 @@ erstellt: 2026-04-27
 
 # Autoritärer Internationalismus — Die globale Rechte
 
+![[assets/Autoritaerer-Internationalismus-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Mark Lombardi** — Bleistift auf cremefarbenem Papier, feine Bögen und Kreise, ein paar rote Linien im grauen Netz. Lombardi zeichnete in den 1990ern die Geldflüsse von BCCI und Iran-Contra als „narrative structures": Wer mit wem, nachprüfbar, ohne Kommentar. Genau das tut dieses Panorama in Prosa — und sein erster Lösungsansatz heißt Netzwerk-Kartierung. Die drei Server-Racks als Knoten sind das Neue: Faschismus mit Servern, nicht mit Braunhemden.
+
+*Prompt:* A wide banner in the style of Mark Lombardi's narrative structure drawings: fine graphite pencil lines on cream ivory paper, the faint grain of the paper visible. Across the whole sheet a faint, lightly sketched outline map of the world. Over it a vast hand-drawn network diagram: dozens of small pencil circles as nodes spread over every continent, joined by long sweeping curved arcs and tight elliptical loops. Three dense hubs, one over North America, one over central Europe, one over South America, each a cluster of concentric circles, and beside each hub a small drawn rectangle like a server rack with rows of tiny dots. A handful of arcs drawn in thin red pencil cut through the grey web. Near the lower right one small circle stands alone, unconnected, with empty paper around it. No words, no letters, no labels, no faces. Delicate, precise, hand-drawn, matte, no photorealism.
+
+</details>
+
 ## Warum dieses Thema?
 
 Die autoritäre Wende ist kein nationales Phänomen — sie ist ein **globales Projekt**. Trump, Orbán, Modi, Milei, Meloni, Erdoğan, Bukele: Was wie unabhängige nationale Bewegungen aussieht, ist tatsächlich ein koordiniertes Netzwerk mit gemeinsamer Infrastruktur, gemeinsamen Geldgebern und gemeinsamer Ideologie. Das **Atlas Network** verbindet fast 600 Organisationen in über 100 Ländern. Die **Heritage Foundation** hat mit Project 2025 eine 920-seitige Blaupause für die Umgestaltung des US-Staates vorgelegt. Laut *Time*-Analyse ähnelten vier Tage nach Amtsantritt knapp zwei Drittel von Trumps Executive Actions Vorschlägen aus Project 2025 — „mirror or partially mirror". Das heißt nicht, dass ⅔ des Gesamtprojekts umgesetzt sind, aber dass die Stoßrichtung der ersten Dekrete eng an der Blaupause orientiert war. **CPAC** hält inzwischen Konferenzen in Budapest, São Paulo, Seoul und Sydney ab.
