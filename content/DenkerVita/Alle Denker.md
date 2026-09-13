@@ -259,6 +259,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## K
 
+**[[DenkerVita/Patrick Kaczmarczyk|Patrick Kaczmarczyk]]** — Politökonom und Entwicklungsökonom (Uni Mannheim, Kompetenzzentrum Transformation; zuvor UNCTAD, Ostafrika); stellv. Mitglied der Schuldenbremsen-Expertenkommission; *Kampf der Nationen* (2022), *Raus aus dem Ego-Kapitalismus* (2023), *Zerfall der Weltordnung* (2026); Studien mit Tom Krebs zu Stromnetz-Finanzierung und Militärausgaben; These: Geld ist eine Institution, und die westliche Wirtschaftsordnung war nie eine Ordnung für alle
+
 **[[DenkerVita/Katrin Eigendorf|Katrin Eigendorf]]** — ZDF-Sonderkorrespondentin für Krisenregionen (*1962); seit den 1990ern aus Kriegsgebieten — Tschetschenien, Afghanistan, Nahost, Ukraine; zweimal Moskau-Korrespondentin (1993–96 RTL, 2015–18 ZDF); Hanns-Joachim-Friedrichs-Preis 2021, Grimme-Preis 2022, zweimal Journalistin des Jahres; *Putins Krieg* (2022), *Erzählen, was ist* (2026); These: Empathie ist ein Erkenntnisinstrument, keine Parteinahme — und Ausgewogenheit ist keine Symmetrie zwischen Angreifer und Angegriffenem
 
 **[[DenkerVita/Kai Ambos|Kai Ambos]]** — Völker- und Strafrechtler (Uni Göttingen), Richter am Kosovo-Sondertribunal in Den Haag; Standardwerke zum Völkerstrafrecht (*Treatise on International Criminal Law*); These: Nicht das Völkerrecht ist das Problem, sondern seine selektive Durchsetzung — westliche Doppelmoral (*Doppelmoral — Der Westen und die Ukraine*, 2022)
@@ -454,6 +456,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Shi Heng Yi|Shi Heng Yi]]** — Shaolin-Meister (bürgerlich Tien Sy Vuong), Gründer Shaolin Tempel Europe; Auflösung der Identität, Peripherie vs. Essenz, der Finger der auf den Mond zeigt, Selbstführung statt Guru; öffentlicher Bruch mit seinem missbrauchenden früheren Abt
 
 **[[DenkerVita/Simon Schaupp|Simon Schaupp]]** — Arbeitsforscher und Soziologe (KU Leuven); kybernetische Proletarisierung, algorithmische Arbeitssteuerung, Gewerkschaften und digitale Transformation, Ökologie und Arbeitzeitverkürzung; Autor *Technopolitik von unten*
+
+**[[DenkerVita/Philippa Sigl-Gloeckner|Philippa Sigl-Glöckner]]** — Ökonomin, Gründungsdirektorin Dezernat Zukunft (Berlin), Mitglied der Schuldenbremsen-Expertenkommission 2025/26; spürte der zufälligen Herkunft der Maastricht-Quote nach, Freiheit als Nichtbeherrschung als Ziel der Finanzpolitik, Vollbeschäftigung statt fixer Schuldenquote; Autorin *Gutes Geld* (2024)
 
 
 **[[DenkerVita/Silvia Rivera Cusicanqui|Silvia Rivera Cusicanqui]]** — Bolivianische Soziologin und Aktivistin Aymara-Abstammung; Gründerin THOA (Taller de Historia Oral Andina) 1983; Kernkonzept ch'ixi (nicht-harmonische Koexistenz); Kritik an akademischem Dekolonialitäts-Chic und an Evo Morales; Anarchistische Epistemologie, Oral History als Praxis, Sociología de la imagen

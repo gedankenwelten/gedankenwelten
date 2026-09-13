@@ -205,6 +205,10 @@ Wolfgangs Musiktipp: Ein Album des französischen Trio Wanderer, das sich der Ka
 
 ## Verbindungen
 
+### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+
+Kaczmarczyk live und im Streit: Auf der Leuphana-Utopie-Konferenz überträgt er die Doppelmoral, die sein Buch dem Westen gegenüber dem Süden vorhält, auf den deutschen Haushalt — Knappheit für Kitas, keine für Rüstung, De-Risking als Rückimport aus dem Globalen Süden. Schmitt fragt ihn dort, ob die progressiven Ökonomen die Aufrüstung nicht selbst möglich gemacht haben.
+
 ### → [[Die Neuen Zwanziger — Salon Lektueren Februar 2026]]
 
 der nachfolgende Salon. Ulrike Herrmanns *Geld als Waffe* macht exakt den Fehler, den Kaczmarczyk aufdeckt: westliche Ordnung als Normalzustand setzen, statt ihre Widersprüche zu analysieren

@@ -245,6 +245,10 @@ Wenn man das Kernmerkmal des Faschismus auf einen Satz bringen müsste: Es ist f
 
 ## Verbindungen
 
+### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+
+Dasselbe Nullsummendenken, vom Haushalt her gelesen: Wolfgang M. Schmitt nennt es auf der Leuphana-Konferenz „Austerität in den Köpfen“ — Engherzigkeit gegenüber dem Nachbarn bei realer Verknappung. Diese Note hält dagegen, dass nicht jeder empfundene Verlust aus dem Haushalt stammt und darum auch nicht jeder mit Geld zu heilen ist.
+
 ### → [[Andreas Reckwitz — Fortschritt NEU DENKEN]]
 
 Die empirische Unterfütterung von Reckwitz' Verlust-These, die sie gleichzeitig zerlegt. Amlingers Fallbeispiel lebt schon in der „Welt nach dem Fortschritt", das Nullsummendenken ist Reckwitz' Suche nach dem Dritten in Reinform. Aber der Verlust wird hier in drei Quellen aufgespalten, und eine davon ist der Abbau von *Privilegienschranken* (die Ernährerrolle). Damit stolpert Reckwitz' Verlustausgleich: Man kann nicht kompensieren, was jemand nur verliert, weil andere gleichgestellt wurden. Sein Vulnerabilitätskriterium müsste den einen Verlust anerkennen und den anderen verweigern — diese Unterscheidung liefert er nicht.

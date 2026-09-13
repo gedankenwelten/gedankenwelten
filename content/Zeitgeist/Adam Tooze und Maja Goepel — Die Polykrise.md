@@ -331,6 +331,10 @@ Beide Antworten sind wahr, und sie sind nicht dieselbe Antwort. Wer nur Göpel h
 
 ## Verbindungen
 
+### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+
+Die Regrettables unter Beschuss aus dem eigenen Lager: In Lüneburg fragt Göpel nach Übergewinnen auf Munition, Kaczmarczyk bestreitet mit Tom Krebs das „olivgrüne Wirtschaftswunder“, und Sigl-Glöckner zeigt, dass eine bedauerliche Ausgabe ohne Verhandlungsmacht zur doppelt bedauerlichen wird.
+
 ### → [[Edgar Morin — Das komplexe Denken]]
 
 Der Ursprung des Begriffs, an dem dieser Abend hängt. Tooze beklagt, Polykrise sei „eine Problembezeichnung und nicht unmittelbar der Begriff, mit dem man dieses Problem entziffert" — bei Morin ist genau diese Entzifferung mitgeliefert: Polykrise folgt aus der *pensée complexe*, dem Denken, das Widerspruch aushält, statt ihn wegzuschneiden. Wer Toozes Einwand ernst nimmt, dass wir seit dreißig Jahren dieselbe Antwort wiederholen, findet bei Morin die erkenntnistheoretische Begründung dafür: Eine einzelne Lösungsformel für ein verwobenes Problem muss strukturell scheitern.

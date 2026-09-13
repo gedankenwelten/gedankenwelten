@@ -341,6 +341,10 @@ Geprüft wurden beide Sprecher mit demselben Maßstab — der Erzähler des Vide
 
 ## Verbindungen
 
+### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+
+Einspruch gegen die MMT aus dem eigenen Lager: Sigl-Glöckner lehnt die Jobgarantie ab, weil der Staat als einziger Arbeitgeber zum Monopolisten wird, dem gegenüber man schwächer ist als gegenüber jedem Unternehmen. Ihr Liberia-Beispiel — ein Kredit in Dollar, die das Land nicht drucken kann — zeigt, wo das Argument vom währungssouveränen Staat an seine Grenze kommt.
+
 ### → [[Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden|Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden]]
 
 Der theoretische Boden unter dem ganzen Streit. Zhao Tingyangs Diagnose — Nomen frieren ein, was Bewegung war, und werden dann besetzt — beschreibt „Schuldenberg", „gute Schulden" und „Geld drucken" genau: drei Substantive, die eine Wertung mitschleppen, sobald man sie ausspricht. Höfgens Vorwurf, Fratzscher widerlege den Mythos mit den Begriffen des Mythos, ist dasselbe Problem von der anderen Seite gelesen. Und die Note liefert den Einwand mit: Ein neues Bild kann man anbieten, aber nicht verordnen — die Monopoly-Bank muss erst leben, bevor sie etwas erklärt.

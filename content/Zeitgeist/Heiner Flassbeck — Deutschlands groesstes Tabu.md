@@ -180,6 +180,10 @@ Das ist keine Botschaft, die revolutionäre Systeme entwirft. Es ist eine Bitte 
 
 ## Verbindungen
 
+### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+
+Maastricht von innen: Sigl-Glöckner suchte die Herkunft der 60 Prozent und fand in den Protokollen einer Unterarbeitsgruppe nur eine Fußnote, die die Übereinstimmung mit dem EG-Durchschnitt Zufall nennt. Zusammen mit Abeilles 3 Prozent stützt das Flassbecks Kern — eine Lehre ohne Fundament — und macht die Zuschreibung als deutsches Exportprodukt brüchig. Neben ihr sitzt Kaczmarczyk, den Flassbeck einst ins Palästina-Projekt holte.
+
 ### → [[Heiner Flassbeck — Nachfragekrise und Schuldenlogik]]
 
 Direkte Fortsetzung desselben Kernarguments: Klingbeils Fehler ist Flassbecks Diagnose — *Nachfragemangel erfordert staatliche Verschuldung, nicht Reformitis.* Das neue Gespräch führt das Exportmechanismus-Argument breiter aus und kontextualisiert es historisch (Schröder, Trump, China).
