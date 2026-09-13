@@ -1,0 +1,246 @@
+{
+ "stand": "2026-09-13",
+ "tage": 30,
+ "pfade": [
+  {
+   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+   "aufrufe": 38
+  },
+  {
+   "pfad": "/DenkerVita/Hans-Maggi",
+   "aufrufe": 31
+  },
+  {
+   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+   "aufrufe": 22
+  },
+  {
+   "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+   "aufrufe": 16
+  },
+  {
+   "pfad": "/DenkerVita/Mark-Reicher",
+   "aufrufe": 15
+  },
+  {
+   "pfad": "/DenkerVita/Marc-Felix-Serrao",
+   "aufrufe": 13
+  },
+  {
+   "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
+   "aufrufe": 13
+  },
+  {
+   "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
+   "aufrufe": 10
+  },
+  {
+   "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
+   "aufrufe": 8
+  },
+  {
+   "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Fabian-Pfeffer",
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/DenkerVita/Marco-Waehner",
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Freddy-Leppin",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Katharina-Nocun",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Zeitgeist/DW-Reporter-Widerstand-gegen-die-KI-Rechenzentren-in-den-USA",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Zeitgeist/Tim-Meyer-und-Jan-Hegenberg-China-Energiewende",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Zeitgeist/Jung-und-Naiv-1-Jahr-Kanzler-Merz",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Panorama/Sieben-Zeugen,-kein-Konsens",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/DenkerVita/Götz-Aly",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/DenkerVita/Marina-Klimchuk",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/DenkerVita/Janina-Muetze",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Gedanken/Bewusstsein-als-Netzwerk-Buddhismus,-Chalmers-und-die-Frage-nach-dem-Ganzen",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/DenkerVita/Benjamin-Biersky",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Zeitgeist/Morpheus-Warum-alle-chinesische-KI-nutzen",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/DenkerVita/Kalayo",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/DenkerVita/Liya-Yu",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Zeitgeist/NANO-Talk-Eliten-Machtmissbrauch-und-Verantwortung",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Kultur/Hans-Maggi-Kurdistan-im-Nordirak",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Denker/Walther-Ziegler-Nietzsche-in-60-Minuten",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/DenkerVita/Teresa-Bücker",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Denker/Lukas-Baerfuss-Die-Fesseln-der-eigenen-Herkunft",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/DenkerVita/Ralf-Stockmann",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/DenkerVita/Dirk-Specht",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/DenkerVita/Udo-Marquardt",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Zeitgeist/Koschi-Politik-ICE-setzt-neue-Rekorde",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Zeitgeist/Dirk-Specht-Strom,-Merit-Order-und-Grossbatterien",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Zeitgeist/Dirk-Specht-Strom,-Merit-Order-und-Grossbatterien",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/Zeitgeist/Volker-Quaschning-Sprit-Abzocke-und-Ölabhängigkeit",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/Denker/Byung-Chul-Han-Das-Glueck-kommt-durch-die-Haende",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/DenkerVita/Marco-Waehner.html",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/DenkerVita/Hans-Maggi#biographischer-snapshot",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/Zeitgeist/Klarsprech-Peter-Thiel-und-ObjectionAI",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/DenkerVita/Torsten-Heinrich",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/Zeitgeist/Nachtsitzung-Die-rechte-Internationale:-CPAC-und-sein-Netzwerk-bis-nach-Deutschland",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/Zeitgeist/Christoph-Hein-Geooekonomie-NEU-DENKEN",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/DenkerVita/Nadia-Zaboura",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/DenkerVita/Arne-Semsrott",
+   "aufrufe": 1
+  },
+  {
+   "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen-Folge-2",
+   "aufrufe": 1
+  }
+ ]
+}
