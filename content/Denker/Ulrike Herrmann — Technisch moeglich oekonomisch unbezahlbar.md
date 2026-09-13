@@ -326,6 +326,10 @@ Es ist bemerkenswert, dass eine Frau, die neunzig Minuten lang Interessen und Me
 
 ## Verbindungen
 
+### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+
+Das Gegenstück aus der Haushaltsdebatte: Sigl-Glöckner und Kaczmarczyk halten Knappheit oft für eine Entscheidung. Herrmann erinnert an die Knappheit, die sich nicht wegbeschließen lässt — und Sigl-Glöckners „zwei statt drei Autos exportieren, dafür genug Pflege“ liegt näher an Herrmanns Planungsdenken, als beide Lager vermuten würden.
+
 ### → [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas]]
 
 Zwei Diagnosen desselben Abstiegs mit unvereinbarer Physik. Dalios Niedergang ist monetär und zyklisch — ein Muster, das sich seit fünfhundert Jahren wiederholt und im Prinzip steuerbar bleibt, weil es das „schöne Deleveraging" gibt. Herrmanns ist thermodynamisch und einmalig: Eine Umwandlungskette mit vier Stufen wird nie so billig wie eine mit einer. Der schärfste Punkt liegt im Instrument. Was Dalio als *finanzielle Repression* beschreibt — gedrückte Renditen, höhere Steuern, im Extremfall Devisenkontrollen — und als Symptom des Verfalls führt, schlägt Herrmann als *demokratische Rationierung* zur Rettung vor. Dieselben Eingriffe, einmal Krankheitsbild, einmal Therapie. Und beide Werke tragen denselben Riss: Das Modell sagt behandelbar, der Urheber sagt, wir schaffen es wahrscheinlich nicht.

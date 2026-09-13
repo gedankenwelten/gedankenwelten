@@ -155,6 +155,10 @@ Die Fabrikräte waren demokratischer als Gewerkschaften: Jeder konnte teilnehmen
 
 ## Verbindungen
 
+### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+
+Matteis These auf einer deutschen Bühne 2026: Kaczmarczyk wundert sich mit Kalecki, dass die Gesetze der Knappheit ausgerechnet bei der Rüstung nicht gelten — Matteis „Militärausgaben sind sicherer“ erklärt es. Sigl-Glöckner setzt dagegen auf Aufklärung und Unternehmer als Verbündete, genau das, was Mattei für aussichtslos hält.
+
 ### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
 
 Kühnert beschreibt den „Aufbruch ins Unpolitische" der 90er als Versäumnis — die Politik habe verlernt, ökonomisch zu denken. Mattei deutet dieselbe Entpolitisierung als *Strategie*: Austerität als bewusstes Werkzeug, die Verteilungsfrage stillzustellen und Kapitalmacht zu sichern. Produktive Spannung zwischen Versäumnis und Absicht.

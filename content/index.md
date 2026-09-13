@@ -22,6 +22,28 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **13.09.** — [[Zeitgeist/Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da|Sigl-Glöckner & Kaczmarczyk — Geld ist genug da?]]
+>
+> Die 60-Prozent-Grenze stammt aus einer Fußnote, die sich selbst Zufall nennt. Vier Stimmen fragen, ob Knappheit eine Tatsache ist oder eine Entscheidung — und wem sie dient.
+
+> **08.09.** — [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
+>
+> Drei Instrumente sollen die Demokratie schützen — Verbot, Brandmauer, Entzauberung. An einem Abend nach der Wahl wird jedes einzelne geprüft, und keines hält.
+
+> **06.09.** — [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
+>
+> Die Cloud ist ein Bauwerk aus Beton, Strom und Wasser, und sie wird dort gebaut, wo am wenigsten zurückgefragt wird. Was der KI-Boom kostet, zahlt eine andere Adresse als die, die ihn bucht.
+
+> **06.09.** — [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
+>
+> Der Staat zahlt die Mieten, statt Wohnungen zu besitzen — und finanziert so die Dividenden jener Konzerne, denen die Wohnungen gehören. Ein Kreislauf, an dessen Ende der Schuldige feststeht: der Mieter.
+
+> **06.09.** — [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]]
+>
+> Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
+
 ### Denker
 
 > **13.09.** — [[Denker/Paul Ricoeur — Die zweite Naivitaet|Paul Ricœur — Die zweite Naivität]]
@@ -59,24 +81,6 @@ Die Gedankenwelten (luc)
 > Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird.
 
 > → *2 weitere in* [[Spuren]]
-
-### Zeitgeist
-
-> **08.09.** — [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]]
->
-> Drei Instrumente sollen die Demokratie schützen — Verbot, Brandmauer, Entzauberung. An einem Abend nach der Wahl wird jedes einzelne geprüft, und keines hält.
-
-> **06.09.** — [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]]
->
-> Die Cloud ist ein Bauwerk aus Beton, Strom und Wasser, und sie wird dort gebaut, wo am wenigsten zurückgefragt wird. Was der KI-Boom kostet, zahlt eine andere Adresse als die, die ihn bucht.
-
-> **06.09.** — [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
->
-> Der Staat zahlt die Mieten, statt Wohnungen zu besitzen — und finanziert so die Dividenden jener Konzerne, denen die Wohnungen gehören. Ein Kreislauf, an dessen Ende der Schuldige feststeht: der Mieter.
-
-> **06.09.** — [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]]
->
-> Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
 
 ### Geistesblitz
 

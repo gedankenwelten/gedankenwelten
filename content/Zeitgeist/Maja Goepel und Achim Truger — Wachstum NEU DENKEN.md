@@ -130,6 +130,10 @@ Ein wichtiger Punkt: Göpel und Truger diskutieren nicht, ob die Wirtschaft „w
 
 ## Verbindungen
 
+### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+
+Die Fortsetzung auf der Leuphana-Bühne, wieder mit Göpel: Sigl-Glöckner findet in den Maastricht-Protokollen die Fußnote, die die 60 Prozent selbst „puren Zufall“ nennt — ein Beleg aus dem Archiv für Trugers These, dass Schuldengrenzen politisch gesetzt sind. Und der Abend zeigt die Kehrseite: Seit dem Sondervermögen muss „Geld ist da“ beweisen, dass es nie „Geld ist egal“ hieß.
+
 ### → [[Andreas Reckwitz — Fortschritt NEU DENKEN]]
 
 Die Schwesterfolge derselben Reihe, gegen die Reckwitz argumentiert. Hier wird der Maßstab rekalibriert — Wohlstand jenseits des BIP, Transformation statt Schrumpfung. Dort heißt es: richtig, und nicht genug. Der blinde Fleck liege nicht beim Maßstab, sondern bei dessen Gegenteil, dem Verlust, für den die Moderne keine Sprache hat. Bemerkenswert, dass Göpel in beiden Gesprächen sitzt: Was sie mit Truger als Messproblem verhandelt, wird mit Reckwitz zur Frage, ob ein besserer Index einer Gesellschaft hilft, die etwas begraben muss.

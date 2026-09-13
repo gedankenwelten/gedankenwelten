@@ -974,3 +974,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Hasnain Kazim
 **Status:** ✓ Vollanalyse — [[DenkerVita/Hasnain Kazim]]
+
+## Philippa Sigl-Glöckner
+**Status:** ✓ Vollanalyse — [[DenkerVita/Philippa Sigl-Gloeckner]]
+
+## Patrick Kaczmarczyk
+**Status:** ✓ Vollanalyse — [[DenkerVita/Patrick Kaczmarczyk]]
