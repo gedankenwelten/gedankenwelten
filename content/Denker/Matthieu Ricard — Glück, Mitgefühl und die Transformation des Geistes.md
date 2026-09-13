@@ -493,18 +493,6 @@ Gleichmut als Politik: Was Ricard als inneren Transformationsweg beschreibt, fü
 
 Produktive Reibung: Ricard kultiviert Meditation als trainierbare Fähigkeit zum Glück — genau die Zweck-Einspannung, die Scobels Apparatus-Kritik verdächtigt (die Flucht aus der Falle als Teil der Falle). Die Grenze zwischen Übung und Selbstoptimierung verläuft zwischen diesen beiden Notes.
 
----
-
-## Weiterdenken
-
-> [!question] Was Sokrates vielleicht gefragt hätte
-> - Ricard sagt: Es gibt kein festes Ich — und doch spricht er von „Transformation des Geistes". *Wer oder was wird transformiert, wenn es kein Subjekt gibt, das sich transformiert?* Ist das ein Sprachproblem oder ein echtes philosophisches Paradox?
-> - 50.000 Stunden Meditation für tiefe Veränderung. 2 Wochen à 30 Min für erste Effekte. *Wo liegt die Schwelle, ab der Praxis in Lebensform übergeht?* Und: Ist ein Mönch, der 50.000 Stunden meditiert hat, noch *in* der Gesellschaft — oder hat er sich ihr entzogen, um über sie zu sprechen?
-> - Ricard argumentiert: Altruismus ist das einzige Konzept, das alle drei Zeitebenen verbindet. Aber [[Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld]] würde antworten: *Mitgefühl ohne Machtanalyse ist genau das, was die Herrschenden sich wünschen.* Ist Ricards Altruismus am Ende systemstabilisierend — weil er die Frage nach Macht durch die Frage nach Gesinnung ersetzt?
-> - Der Buddhismus lehnt ein festes Ich ab. Die westliche Psychologie baut auf dem Ich auf (Ego-Stärkung, Selbstwert, Identität). *Sind beide Wege zum selben Ziel — oder schließen sie sich grundsätzlich aus?* Kann man gleichzeitig ein gesundes Ego aufbauen und es als Illusion durchschauen?
-> - Ricard nennt seinen Weggang „Kofferpacken" — *aber wie viele Menschen auf der Welt können überhaupt einen Koffer packen?* Braucht es das Privileg einer gesicherten westlichen Existenz, um sie verlassen zu können — und was sagt das über die Universalität seiner Botschaft?
-> - Ricard sagt: *„Der Botschafter muss die Botschaft sein"* — und fordert gleichzeitig: *„Prüft alles an eurer eigenen Erfahrung."* Wenn ich alles selbst prüfen soll — *wozu dann 15 Jahre bei einem Meister?* Ist die freiwillige Meister-Schüler-Beziehung Freiheit — oder die subtilste Form der Autorität?
-
 ### → [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein]]
 
 Ricard ist einer der Probanden der Lutz-&-Davidson-Studie 2004 — seine Gamma-Wellen-Daten sind buchstäblich das empirische Fundament, auf das Scobel seine zweite Meditationswelle aufbaut. Scobel bestätigt aus der Forschungsperspektive, was Ricard aus der Praxis beschreibt: Nicht-Selbst-Erfahrung korreliert mit erhöhter Empathie. Scobels Nebenwirkungsbefund ergänzt Ricards Praxis-Optimismus mit kritischer Wissenschaftlichkeit.
@@ -520,3 +508,15 @@ Ricard aus tibetisch-buddhistischer Tradition, Brähler aus westlicher Psychothe
 ### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
 
 Der schärfste Kontrapunkt zu Ricards trainierbarem Glück: Für Han fährt Glück von außen in den Leib — durch den Widerstand der Gartenerde, der Klaviertasten, des Anderen —, nie durch Introspektion allein. Die produktive Reibung: Ist Glücks-*Training* nicht schon die Selbstoptimierung, die Han als Selbstausbeutung entlarvt? Und entgeht Ricard mit dem Weg nach innen nicht gerade dem Gegenüber, das Han für unverzichtbar hält?
+
+---
+
+## Weiterdenken
+
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Ricard sagt: Es gibt kein festes Ich — und doch spricht er von „Transformation des Geistes". *Wer oder was wird transformiert, wenn es kein Subjekt gibt, das sich transformiert?* Ist das ein Sprachproblem oder ein echtes philosophisches Paradox?
+> - 50.000 Stunden Meditation für tiefe Veränderung. 2 Wochen à 30 Min für erste Effekte. *Wo liegt die Schwelle, ab der Praxis in Lebensform übergeht?* Und: Ist ein Mönch, der 50.000 Stunden meditiert hat, noch *in* der Gesellschaft — oder hat er sich ihr entzogen, um über sie zu sprechen?
+> - Ricard argumentiert: Altruismus ist das einzige Konzept, das alle drei Zeitebenen verbindet. Aber [[Rainer Mausfeld — Warum schweigen die Lämmer|Mausfeld]] würde antworten: *Mitgefühl ohne Machtanalyse ist genau das, was die Herrschenden sich wünschen.* Ist Ricards Altruismus am Ende systemstabilisierend — weil er die Frage nach Macht durch die Frage nach Gesinnung ersetzt?
+> - Der Buddhismus lehnt ein festes Ich ab. Die westliche Psychologie baut auf dem Ich auf (Ego-Stärkung, Selbstwert, Identität). *Sind beide Wege zum selben Ziel — oder schließen sie sich grundsätzlich aus?* Kann man gleichzeitig ein gesundes Ego aufbauen und es als Illusion durchschauen?
+> - Ricard nennt seinen Weggang „Kofferpacken" — *aber wie viele Menschen auf der Welt können überhaupt einen Koffer packen?* Braucht es das Privileg einer gesicherten westlichen Existenz, um sie verlassen zu können — und was sagt das über die Universalität seiner Botschaft?
+> - Ricard sagt: *„Der Botschafter muss die Botschaft sein"* — und fordert gleichzeitig: *„Prüft alles an eurer eigenen Erfahrung."* Wenn ich alles selbst prüfen soll — *wozu dann 15 Jahre bei einem Meister?* Ist die freiwillige Meister-Schüler-Beziehung Freiheit — oder die subtilste Form der Autorität?
