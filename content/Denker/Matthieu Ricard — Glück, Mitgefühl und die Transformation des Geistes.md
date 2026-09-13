@@ -1,5 +1,6 @@
 ---
 title: Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes
+description: Der Molekularbiologe vom Institut Pasteur, der in den Himalaya ging — nicht aus Scheitern, sondern weil er etwas Besseres fand. Ricard über Glück als übbare Fähigkeit und Mitgefühl als Methode.
 date: 2026-04-05
 aktualisiert: 2026-07-06
 tags:
