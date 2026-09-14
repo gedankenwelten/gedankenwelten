@@ -216,6 +216,10 @@ Dieselbe Lücke zwischen Feststellung und Verfolgung. Für die Jesiden war Straf
 
 Die Gegenprobe zur Fallrekonstruktion: Schwarz und Obermaier zeigen, wie ein Verfahren aus offenen Quellen überhaupt erst entsteht — Abu Eid hat die Instanzen dahinter alle durchlaufen und fragt, was am Ende herauskam. „Es fehlt nicht an Werkzeugen. Es fehlt am Willen, sie anzuwenden.“
 
+### → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
+
+Die Linkage Evidence von der anderen Seite: Im Sudan belegt ein forensisch geprüftes Geheimdienst-Dossier Täter, Baupläne und Lager der Chlorbomben sehr genau. Zur Tat selbst gibt es dagegen nur einen belegten Einsatz ohne medizinische Belege, und die OPCW holt bisher nur „clarifications“ ein.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

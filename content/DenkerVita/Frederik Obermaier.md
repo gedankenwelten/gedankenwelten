@@ -49,5 +49,7 @@ Kein Parteijournalist — Obermaier arbeitet klassisch aufklärerisch und überp
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Konstantin Flemig]] — Flemig stützt seine Sudan-Analyse auf geleakte Akten, wie Obermaier sie verifiziert; beide kennen die Einsicht, dass Sichtbarkeit noch keine Rechenschaft schafft. → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
+
 ## Gedankenwelten-Notes
 - [[Schwarz und Obermaier — Vom Smartphone ins Gericht]]

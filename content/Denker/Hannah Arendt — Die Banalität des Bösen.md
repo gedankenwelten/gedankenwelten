@@ -275,3 +275,6 @@ Ein Fall für die Herrschaft des Niemand, in dem niemand stirbt. Baden-Württemb
 
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — Die Kette von der anderen Seite: Dort steht Arendts Satz, dass das Selbst die einzige Person ist, die man nicht verlassen kann, und die Note führt ihn über das Zwei-in-einem und die Unterscheidung von Alleinsein und Einsamkeit bis zum Schlusskapitel von *Elemente und Ursprünge* — und von dort zu Eichmann. Wer mit sich nicht mehr redet, hat keine Instanz mehr, vor der ein Befehl scheitern könnte
 
+### → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
+
+Die Sudan-Leaks lesen sich wie ein Lehrstück der Herrschaft des Niemand: Chargen, Testprotokolle, tote Insekten nach Gaslecks in der Werkshalle. Nach den Dokumenten wussten die Planer allerdings genau, welche Abkommen sie brechen. Das stellt auf die Probe, wie weit Arendts Begriff der Gedankenlosigkeit reicht.

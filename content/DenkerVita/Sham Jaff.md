@@ -49,7 +49,7 @@ tags: [denker-vita, medien, journalismus, global]
 *(Sham Jaff versteht sich als Journalistin, nicht als Aktivistin einer Parteilinie. Ihre Arbeit ist geprägt von einer dekolonialen, globalen Perspektive und dem Anspruch des konstruktiven Journalismus — Nähe zu Betroffenen von Rassismus, Flucht und Marginalisierung, ohne sich einem klassischen Links-Rechts-Schema zuzuordnen.)*
 
 ## Verbindungen zu anderen Denkern
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Konstantin Flemig]] — Flemig berichtet über Kriege, von denen er vorher weiß, dass sie keine Klicks bringen; Jaffs Erinnerung an den folgenlosen Giftgaseinsatz im Irak verlängert seine Linie von Syrien zum Sudan nach hinten. → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
 
 ## Gedankenwelten-Notes
 - [[WDR Europaforum — Out of order Voelkerrecht]]

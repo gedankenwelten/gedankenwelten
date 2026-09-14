@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Konstantin Flemig — Sudan: Chlorbomben im vergessenen Krieg
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Schlimmster Bürgerkrieg der Welt – jetzt mit MASSENVERNICHTUNGSWAFFEN!](https://www.youtube.com/watch?v=0-EV7XRWuZI) |
+| **Notiz** | [[Zeitgeist/Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Flemig_Sudan_Chemiewaffen_Transkript.txt` |
+
 ## StreitClub #19 — Extremismus und der Schutz der Demokratie (08.09.2026)
 
 | | |

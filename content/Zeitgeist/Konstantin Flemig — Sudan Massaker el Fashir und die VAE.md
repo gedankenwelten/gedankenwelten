@@ -164,3 +164,7 @@ Flemigs überparteilicher Kriegsjournalismus: gleicher Stil, andere Konfliktzone
 ### → [[Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz]]
 
 Johnen zeigt die humanitäre Gegenseite zu Flemigs Ursachenanalyse: Was DRK und Roter Halbmond unter unmöglichen Bedingungen leisten — und warum 1,5 Milliarden Euro Spenden das politische Vakuum nicht füllen können
+
+### → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
+
+Die Fortsetzung von der anderen Seite der Front: Während die RSF in El Fashir mordete, baute die Armee, die gegen sie kämpft, 2024 Chlorbomben. Wer im Sudan eine Seite zur guten erklären will, findet in diesen beiden Notes keinen Halt.

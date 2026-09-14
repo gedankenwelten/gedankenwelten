@@ -232,6 +232,11 @@ Der Gegentest zu Heinrichs Maßstab. Er räumt Kosovo als Rechtsbruch ein und so
 
 Was das Europaforum grundsätzlich verhandelt, tritt hier als Ereignis ein: Die USA sanktionieren die Präsidentin des Gerichtshofs, und die Bundesregierung reagiert auf einen Aufruf zum Töten mit dem Prüfen eines Einreiseverbots. Zwei frische Belege für Kalecks Befund, das folgenlose Schweigen sei gefährlicher als der Rechtsbruch selbst — und ein Testfall für Ambos’ Gegenposition, es fehle der Wille, nicht das Recht.
 
+### → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
+
+Jaffs Satz über die 85 Prozent, die Rechtsbrüche anprangern, während niemand etwas tut, findet im Sudan 2026 einen neuen Beleg: Chlorbomben der Armee, dokumentiert und doch kaum mit Folgen. Flemig zieht die Linie von Syrien zum Sudan, und Jaff erinnert daran, dass sie bis in den Irak zurückreicht.
+
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

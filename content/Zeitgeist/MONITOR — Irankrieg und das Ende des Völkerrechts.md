@@ -249,6 +249,10 @@ Trump schreibt mitten im Krieg, den MONITOR als Völkerrechtsbruch einordnet: �
 ### → [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
 Lange liefert die militärisch-strategische Ergänzung zu MONITORs völkerrechtlicher Analyse: Was Ambos normativ als Rechtsbruch einordnet, beschreibt Lange als strategische Sackgasse. Beide kommen zum Ergebnis: Trump hat die Situation falsch eingeschätzt und findet keinen Ausweg.
 
+### → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
+
+Ambos beschreibt, wie das Völkerrecht im Zentrum der Macht erodiert; die Chlorbomben im Sudan zeigen, was daraus an den Rändern folgt. Wer rote Linien selbst nicht mehr achtet, kann sie anderen kaum glaubhaft ziehen, und in einem Krieg ohne Publikum zieht sie dann niemand.
+
 ---
 
 ## Weiterführend

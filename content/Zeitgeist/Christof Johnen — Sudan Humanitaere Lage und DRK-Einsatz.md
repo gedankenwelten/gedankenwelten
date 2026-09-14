@@ -145,3 +145,6 @@ Dieselbe Bilanz in kleinerem Maßstab. Johnens Satz, humanitäre Hilfe könne de
 
 Derselbe Kern von der anderen Seite: Hilfe kommt nur über Strukturen an, die vor Ort schon tragen. Bei den Jesiden sind das die Pîr- und Scheich-Struktur, die Gruppentherapie und die geteilte Trauer nach einem Todesfall — Dinge, die eine Gesellschaft übersieht, die Hilfe nur in Praxen denkt. Zwei Belege dafür, dass ein Programm ohne die vorhandenen Netze leerläuft, gleich wie gut es finanziert ist.
 
+### → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
+
+Johnen nennt die Neutralität den einzigen Schutz der Helfer. Die Recherche zu den sudanesischen Chlorbomben zeigt, wie verletzlich auch die Neutralität der Güter ist: Chlor aus einer von IKRK, CARE und UNICEF versorgten Wasseraufbereitungsanlage landete womöglich in Bomben der Armee — und jede künftige Kontrolle wird auf dem Rücken derer ausgehandelt, die sauberes Wasser brauchen.
