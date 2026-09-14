@@ -1,6 +1,6 @@
 ---
 title: Datenschutzerklärung
-date: 2026-09-06
+date: 2026-09-14
 tags: []
 aliases:
   - Privacy Policy
@@ -8,7 +8,7 @@ aliases:
 
 # Datenschutzerklärung
 
-Stand: 6. September 2026
+Stand: 14. September 2026
 
 ## 1. Verantwortlicher
 
@@ -29,7 +29,9 @@ Diese Website wird auf eigener Infrastruktur betrieben (ein Server in Deutschlan
 
 ### Analyse
 
-Wir verwenden [Umami](https://umami.is/) — eine datenschutzfreundliche, cookielose Webanalyse. Umami erhebt **keine personenbezogenen Daten**, setzt **keine Cookies** und speichert **keine IP-Adressen**. Die erhobenen Daten (Seitenaufrufe, Verweildauer, Referrer) sind vollständig anonymisiert und werden auf unserer eigenen Infrastruktur verarbeitet.
+Wir verwenden [Umami](https://umami.is/), eine cookielose, datenschutzfreundliche Webanalyse auf unserer eigenen Infrastruktur. Umami setzt **keine Cookies** und speichert **keine IP-Adressen**. Erfasst werden nur: aufgerufene Seite, Verweildauer, Referrer, Browser, Betriebssystem und Gerätetyp (aus der Browser-Kennung, die jeder Browser ohnehin mitschickt) sowie der **ungefähre Standort (Land, Region, Stadt)**. Den Standort leitet Cloudflare beim Aufruf aus der IP-Adresse ab und übergibt nur das Ergebnis. Bildschirmgröße und Spracheinstellung, die Umami üblicherweise ebenfalls überträgt, schicken wir bewusst nicht mit.
+
+Um Besuche zählen zu können, bildet Umami aus IP-Adresse, Browser-Kennung und einem monatlich wechselnden Zufallswert eine Kennung, die sich nicht auf die IP-Adresse zurückrechnen lässt. Ein Profil über den Monat hinaus entsteht nicht; eine Weitergabe an Dritte findet nicht statt. Rechtsgrundlage ist unser berechtigtes Interesse, zu verstehen, welche Inhalte gelesen werden (Art. 6 Abs. 1 lit. f DSGVO).
 
 ### Cookies
 
@@ -89,7 +91,7 @@ Alle Inhalte auf gedankenwelten.org sind öffentlich zugänglich. Direkte Zitate
 
 ## 5. Ihre Rechte
 
-Abgesehen von freiwillig übermitteltem Feedback (siehe oben) speichern wir keine personenbezogenen Daten; die DSGVO-Betroffenenrechte (Auskunft, Löschung, Berichtigung, Widerruf) gelten für dieses Feedback uneingeschränkt. Wenden Sie sich dafür oder bei sonstigen Fragen an: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org)
+Abgesehen von freiwillig übermitteltem Feedback (siehe oben) speichern wir keine Daten, die einer Person zugeordnet werden können; die DSGVO-Betroffenenrechte (Auskunft, Löschung, Berichtigung, Widerruf, Widerspruch) gelten uneingeschränkt. Wenden Sie sich dafür oder bei sonstigen Fragen an: [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org)
 
 ---
 
