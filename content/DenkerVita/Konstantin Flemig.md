@@ -68,7 +68,8 @@ Sein Buch *Freiheit unter Feuer* erscheint beim Heyne Verlag — ein Bericht üb
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne befüllt.*
+- [[DenkerVita/Frederik Obermaier]] — Obermaier baut Recherchen aus Leaks, Geolokalisierung und Verifikation, Flemig stützt seine Sudan-Analyse auf genau solche Akten. Bei beiden kehrt dieselbe Einsicht wieder: Sichtbarkeit schafft noch keine Rechenschaft, und das Netz droht zum Archiv folgenloser Taten zu werden.
+- [[DenkerVita/Sham Jaff]] — Jaff sammelt Nachrichten jenseits des westlichen Blicks, Flemig macht Videos über Kriege, von denen er vorher weiß, dass sie keine Klicks bringen. Beide gehen davon aus, dass ein vergessener Krieg an der Aufmerksamkeit anderer hängt; Jaffs Erinnerung an den folgenlosen Chemiewaffeneinsatz im Irak verlängert Flemigs Linie von Syrien zum Sudan nach hinten.
 
 ---
 
@@ -77,6 +78,7 @@ Sein Buch *Freiheit unter Feuer* erscheint beim Heyne Verlag — ein Bericht üb
 - [[Zeitgeist/Konstantin Flemig — Russlands Katastrophen-Monat]] — Häufung russischer Rückschläge Juni 2026: Drohnen über Moskau/St. Petersburg, Krim abgeschnürt, Benzinrationierung, Mythos der Unbesiegbarkeit zerstört
 - [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026]] — Frontanalyse Ukraine, Drohnenkrieg, russische Verluste
 - [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE]] — Sudan-Krieg, VAE-Rolle, vergessene Krisenregion
+- [[Zeitgeist/Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]] — Chlorbomben der sudanesischen Armee (2024), Herkunft des Chlors offen, Erosion des Chemiewaffenverbots in einem vergessenen Krieg
 - [[Zeitgeist/Konstantin Flemig — US-Seeblockade gegen Iran]] — Geopolitik Straße von Hormuz, US-Militärpräsenz
 - [[Zeitgeist/Konstantin Flemig — Deutschland als Ruestungs-Grossmacht]] — Rheinmetall, Zeitenwende als Industriemotor, Munitionsproduktion
 - [[Zeitgeist/Konstantin Flemig — Was Moskau verschweigt: Nazis und Sowjets verbündet]] — Rapallo 1922, Hitler-Stalin-Pakt 1939, Basis Nord, Gestapo-NKWD, Katin — Geschichtsfälschung als Putin-Staatspropaganda

@@ -218,6 +218,10 @@ Diese Spur ist der laufende Beleg für das, was Panmunjom in dreiundsiebzig Jahr
 
 Die Stufe nach der Vertagung. Am 18.08.2026 kündigen die USA erstmals Sanktionen gegen die amtierende Präsidentin des Strafgerichtshofs an — die Bewegung geht vom Ankläger über die Richterbank bis an die Spitze der Institution. Für diese Spur ist das ein Härtetest der eigenen These: Wo Verzögerung nicht mehr reicht, wird die Instanz angegriffen, die Rechenschaft überhaupt erst ermöglicht. Die Note legt daneben vier weitere Fälle desselben Reflexes aus einem einzigen deutschen Nachrichtennachmittag — Antwortverweigerung, jedes Mal legal.
 
+### → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
+
+Ein Vergleichsfall außerhalb von Gaza: Chlorbomben der sudanesischen Armee sind geleakt und forensisch geprüft, die OPCW holt bisher nur Klarstellungen ein. „Wenn keiner hinschaut, dann interessiert es ja wohl auch keinen.“ Für den Gleichmut-Spiegel bemerkenswert: Die Aufmerksamkeit ging hier von einem Geheimdienst mit eigenem Interesse aus.
+
 ## Quellen
 
 - [ICJ — South Africa v. Israel (Verfahrensstand, Wikipedia-Überblick mit Primärquellen)](https://en.wikipedia.org/wiki/South_Africa's_genocide_case_against_Israel)

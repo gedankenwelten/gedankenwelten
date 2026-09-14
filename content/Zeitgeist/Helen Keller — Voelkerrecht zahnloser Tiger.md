@@ -265,3 +265,6 @@ Knaus' Migrationsmodell hängt ganz an einer Bedingung: dass UNHCR und europäis
 
 Der Ereignisfall zu Kellers Grundsatzfrage. Die Note liest die US-Sanktionen gegen die IStGH-Präsidentin als Erosionsschritt; Keller würde einwenden, dass die Schlagzeile den Ausnahmefall zeigt und der Ausnahmefall keine Bilanz ist. Beide treffen sich an einem Punkt: Ein Gericht ohne Polizei hängt vollständig daran, dass man es weiter für ein Gericht hält — und genau dort setzen Sanktionen gegen die Spitze der Institution an.
 
+### → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
+
+Ein Prüffall für Kellers Zuversicht: Sudans Armee baute 2024 Chlorbomben und plante die Tarnung gleich mit. Nach den US-Sanktionen wurde die Produktion offenbar eingestellt — ein Hinweis darauf, dass auch Folgen ohne Bomben wirken können.

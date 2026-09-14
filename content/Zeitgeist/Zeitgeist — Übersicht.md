@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*303 Notes — automatisch generiert · nach Thema sortiert*
+*304 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -344,6 +344,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Patrick Legun — Die Ziegelsklaven von Lahore|Patrick Legun — Die Ziegelsklaven von Lahore]] — Ein Kredit für ein krankes Kind, ein Vertrag, den niemand lesen kann — und eine Familie, die drei Generationen später noch Ziegel formt, um Zinsen abzutragen.
 - [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert|phoenix-Runde — Rentenreform: Wer gewinnt, wer verliert?]] — Rente zwischen Nachhaltigkeit und Gerechtigkeit — wenn das Reformpaket nur als Ganzes trägt: Wer schultert die Last des längeren Lebens, und wer entscheidet, was fair heißt?
 - [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte|rp26 — KIs unsichtbare Arbeitskräfte]]
+- [[Zeitgeist/Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da|Sigl-Glöckner & Kaczmarczyk — Geld ist genug da?]] — Die 60-Prozent-Grenze stammt aus einer Fußnote, die sich selbst Zufall nennt. Vier Stimmen fragen, ob Knappheit eine Tatsache ist oder eine Entscheidung — und wem sie dient.
 - [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN|Silke Stremlau & Maja Göpel — Investieren NEU DENKEN]]
 - [[Zeitgeist/Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)|Staiy — News: Reiche EXPOSED, Kerosinmangel und Haushaltskürzungen (16.04.2026)]]
 - [[Zeitgeist/Yanis Varoufakis — Technofeudalism|Yanis Varoufakis — Technofeudalism]]
