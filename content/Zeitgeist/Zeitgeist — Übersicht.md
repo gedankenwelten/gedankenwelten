@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*304 Notes — automatisch generiert · nach Thema sortiert*
+*305 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -280,6 +280,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Norio — Kupferschiefer-Mine in der Lausitz|Norio — Vergessener DDR-Schatz: Neue Giga-Mine rettet Deutschlands Industrie?]]
 - [[Zeitgeist/Presseclub — Drohnen, Sprengstoff, Sabotage|Presseclub — Drohnen, Sprengstoff, Sabotage: Wie reagieren auf Russlands Angriffe?]] — Eine Drohne, die nicht zündete, und ein Wort, das beruhigt — wie Deutschland einen Angriff benennt, den es weder vollständig beweisen darf noch ernsthaft bestreiten kann.
 - [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht|rp26 — KI-Industriepolitik richtig gemacht]] — Marktkonzentration, Fragilität, Subventionen — kein freier KI-Markt. „AI Directionism“ als Gegenmodell: die Anwendung lenken, nicht nur Infrastruktur bauen.
+- [[Zeitgeist/Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg|Sudan: Chlorbomben im vergessenen Krieg]] — Chlor gegen die Cholera, Chlor in der Bombe: Geleakte Akten zeigen, wie Sudans Armee Giftgas baute — und wie ein Verbot zerfällt, wenn niemand hinsieht.
 - [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE|Sudan: Das Massaker von El Fashir und die Rolle der VAE]]
 - [[Zeitgeist/Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz|Sudan: Humanitäre Lage und DRK-Einsatz — Christof Johnen (phoenix)]]
 - [[Zeitgeist/taz Reingehen — Wer das Öl hat, hat das Sagen|taz Reingehen — Wer das Öl hat, hat das Sagen]]

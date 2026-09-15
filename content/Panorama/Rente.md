@@ -17,6 +17,16 @@ aliases:
 
 # Rente — Krise des Generationenvertrags
 
+![[assets/Rente-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ben Shahn / amerikanischer sozialer Realismus** — flache Tempera auf Holz, matte Fläche, drahtige schwarze Kontur, Ocker, Umbra, Schieferblau, ein roter Akzent. Der Generationenvertrag als Eimerkette: Junge reichen volle Eimer nach rechts, wo die Alten am Tisch sitzen. Wer in der Kette leer dasteht, verblasst — Minijobs, eingebaute Altersarmut. Oben rechts, abseits der Kette, der Verkäufer mit dem glänzenden, löchrigen Eimer und dem Preisschild: Riester, Kapitaldeckung. Shahn, weil diese Note keine Anklage in Rot ist, sondern ein Blick auf arbeitende Menschen in einem System — nüchtern, würdevoll, ohne Pathos.
+
+*Prompt:* Wide panoramic painting in the style of Ben Shahn, American social realism, flat opaque tempera on board, matte surface, wiry angular black contour lines, muted palette of ochre, umber, slate blue and chalk white with one red accent. A long bucket brigade of working people stretches from left to right across the whole banner, passing full buckets hand to hand: young workers on the left in overalls and aprons, middle-aged in the center, ending at the right where elderly figures sit at a plain wooden table receiving the buckets. Several figures in the line stand with empty hands, painted paler, no bucket to pass. In the upper right corner, small and apart from the line, a man in a suit at a little stand holds out a shiny bucket with a hole in the bottom, water trickling out onto the ground, a red price tag hanging from its handle. Simple horizon, bare ground, large empty sky. No realistic faces, stylized mask-like Shahn faces, no photorealism, no text, no signature. 1200x500px.
+
+</details>
+
 ## Warum dieses Thema?
 
 Das Rentensystem ist die größte Umverteilungsmaschine Deutschlands — und sie gerät unter Druck. 121 Milliarden Euro schießt der Bund 2025 zu, der Beitragssatz steigt, das Rentenniveau sinkt, und die politische Antwort ist bislang: Privatvorsorge. Die Riester-Rente hat gezeigt, wohin das führt. Der demografische Wandel ist keine ferne Bedrohung — er ist bereits eingepreist. Wer heute 40 ist, wird eine andere Rente bekommen als seine Eltern. Und wer heute im Minijob arbeitet, wird gar keine bekommen.
