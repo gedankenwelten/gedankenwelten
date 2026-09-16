@@ -980,3 +980,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Patrick Kaczmarczyk
 **Status:** ✓ Vollanalyse — [[DenkerVita/Patrick Kaczmarczyk]]
+
+## Thomas Laschyk
+**Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Laschyk]]

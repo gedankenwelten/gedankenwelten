@@ -335,6 +335,10 @@ Statistisch ist Engelhorn damit eine sehr dünn besetzte Ausnahme. Hartmanns Kon
 Hartmann erklärt, was Püttmann nur beklagt. Dessen Verwunderung über die „politische Dummheit bestimmter Teile des Großbürgertums" und über die Eroberung der Union durch die Mittelstandsvereinigung wird bei Hartmann zur Klassenlogik: Herkunft wirkt stärker als das Parteibuch. Dann hilft die parteiinterne Bildungsarbeit, die Püttmann der CDU rät, wenig.
 
 
+### → [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Thomas Laschyk — Vermögenssteuer gegen Fake News]]
+
+Laschyk beschreibt den Weg vom Vermögen über die Medien zur Politik. Hartmann zeigt einen stilleren: Die Herkunft der Entscheider erreicht dasselbe Ergebnis ohne Umweg über die Presse.
+
 ---
 
 ## Weiterdenken

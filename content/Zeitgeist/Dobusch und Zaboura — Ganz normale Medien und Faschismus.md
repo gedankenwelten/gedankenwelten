@@ -190,6 +190,10 @@ Dieselbe These über zwei Mediensysteme: Wo Dobusch/Zaboura zeigen, wie *normale
 
 Was Dobusch/Zaboura strukturell als „Performing Balance by Practicing Bias“ fassen, führt Theveßen als Praktiker am Einzelfall vor: seine „Normalisierungsfalle“ (aus Trumps Tirade wird eine „breit gefächerte Rede“) und sein Thukydides-Gebot des „zweiten Satzes“ sind Feldbericht und Gegenentwurf zu ihrer False-Balance-Diagnose.
 
+### → [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Thomas Laschyk — Vermögenssteuer gegen Fake News]]
+
+Laschyk zieht aus der Kritik an falscher Balance die offene Parteinahme. Der Faktencheck dort zeigt den Preis: Belege, die der eigenen Geschichte widersprechen, fallen leichter heraus.
+
 ---
 
 ## Weiterdenken

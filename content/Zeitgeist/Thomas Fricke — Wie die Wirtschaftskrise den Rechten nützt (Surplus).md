@@ -293,3 +293,8 @@ Clüver Ashbrooks „umgekehrtes Robin-Hood-Gesetz“ ist Frickes These in Aktio
 ### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
 
 Der Staatsrechtler teilt Frickes Weigerung, den Aufstieg der AfD als Charakterwandel der Wählenden zu lesen — und benennt einen anderen Motor. Wo Fricke Kontrollverlust und ökonomische Brüche sieht, sieht Thiele drei Legitimitätsdefizite: Teilhabe, Begrenzung der Herrschaft, Leistungsfähigkeit. Der Streit entzündet sich an 2015. Für Thiele ist die von CDU bis Linkspartei konsentierte Willkommenskultur das Teilhabedefizit, das blieb; Fricke hält Migration für ein Scheinargument, weil die AfD dort am stärksten ist, wo am wenigsten Migranten leben.
+
+### → [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Thomas Laschyk — Vermögenssteuer gegen Fake News]]
+
+Laschyk führt die Anfälligkeit für Desinformation auf einen ausgehungerten Sozialstaat zurück. Frickes Kontrollverlust-These gibt dieser Kette den Mechanismus — und den Einwand, dass eine Steuer allein keine Kontrolle zurückgibt.
+

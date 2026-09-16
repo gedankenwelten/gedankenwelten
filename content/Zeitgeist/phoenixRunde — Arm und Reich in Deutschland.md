@@ -367,6 +367,10 @@ David Deißner von der Stiftung Familienunternehmen tritt in der phoenixRunde un
 
 Die Anstalt zeigt denselben Mechanismus als geschlossene Kette: Weil öffentliches Geld überhöhte Mieten bezahlt, steigen die Kosten des Bürgergelds — und der Vorwurf landet bei den Empfängern, während der Ertrag beim Vermieter bleibt. Was hier als Diskursbefund beschrieben wird („Arm gegen Arm auszuspielen, das funktioniert leider“), ist dort mit Zahlen unterlegt.
 
+### → [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Thomas Laschyk — Vermögenssteuer gegen Fake News]]
+
+Das Gegenstück zu Deißners „Diskursindustrie“: Laschyk sieht die Industrie auf der Seite der Vermögenden, deren Geld Reichweite kauft — und bittet am Ende selbst um Spenden. Beide sprechen als interessierte Partei.
+
 ---
 
 ## Weiterdenken

@@ -121,3 +121,4 @@ Anklage ohne Lösung wäre nur Empörung mit anderen Vorzeichen. Drei Gegenmitte
 | [[Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen]] | Zeitgeist | Gleichmut-Spiegel: der „Staatsmedien"-Vorwurf ehrlich geprüft |
 | [[ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten]] | Zeitgeist | Die geopolitische Stufe: Voice of Europe & Desinformation als hybride Waffe im EU-Osten |
 | [[Martin Oetting — Faschismus stoppen mit der Wahrheit]] | Zeitgeist | Gegenwehr: Wahrheit als Strategie statt Dementi-Reflex |
+| [[Thomas Laschyk — Vermoegenssteuer gegen Fake News]] | Zeitgeist | Der Kreislauf hinter „Wem die Maschinen gehören“: Vermögen → Reichweite → Politik → Steuerschonung — und eine Aufklärerseite, die ihre Belege ebenfalls in eine Richtung wählt |

@@ -295,6 +295,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## L
 
+**[[DenkerVita/Thomas Laschyk|Thomas Laschyk]]** — Gründer, Chefredakteur und Geschäftsführer des Anti-Fake-News-Blogs Volksverpetzer (*1992, Augsburg; Literaturwissenschaftler); *Werbung für die Wahrheit* (2024), Petition „Prüft ein AfD-Verbot!“; These: Fake News siegen als Geschichten, darum braucht die Wahrheit Werbung, und weil Reichweite käuflich ist, wird Steuerpolitik zur Medienpolitik
+
 **[[DenkerVita/Leonie Heims|Leonie Heims]]** — Kommunikations- und Sprachwissenschaftlerin, wissenschaftliche Mitarbeiterin bei modus | zad; Verschwörungserzählungen, Desinformation, Souveränismus/„Reichsbürger“; Aufklärung mit Fakten und Humor (Projekt „Der Fabulant“)
 
 **[[DenkerVita/Leonhard Dobusch|Leonhard Dobusch]]** — Österreichischer Wirtschaftswissenschaftler, Professor für Organisation (Universität Innsbruck); Öffentlich-rechtliche Medien als Demokratie-Infrastruktur, mediale Immunisierung gegen Faschismus, digitale Gemeinschaften und Offenheit als Organisationsprinzip; ZDF-Verwaltungsrat, Co-Founder Momentum Institut; Bert-Donnepp-Preis 2019 für Transparenz im öffentlich-rechtlichen Mediensystem
