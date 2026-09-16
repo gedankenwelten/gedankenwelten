@@ -15,6 +15,16 @@ aliases:
 
 # Marcant — Ausstieg aus der rechten Szene
 
+![[assets/Marcant-Ausstieg-aus-der-rechten-Szene-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Frans Masereel**: Holzschnitt, schwarze Kerblinien auf Cremepapier, ein einziger warmer Gelbton. Links ein marschierender Block gleicher Silhouetten mit Fackeln, Fahnen und leuchtenden Handys. In der Mitte ein Junge im Hoodie, der aus der Reihe getreten ist und in einen Handspiegel schaut. Rechts eine offene Tür, in der ein Freund lehnt und sie aufhält. Dazwischen ein Straßenschild, das in beide Richtungen zeigt. Masereels Romane in Bildern erzählen ohne ein Wort vom Einzelnen, der sich aus der Masse löst. Diese Hand passt zu Felix, weil es in seiner Geschichte keine Argumente braucht: Er wird rechts durch Nachahmung, sieht sich im Spiegel des viralen Videos und findet zurück, weil ein Freund die Tür offen hält.
+
+*Prompt:* Woodcut in the style of Frans Masereel, bold black ink carved lines on cream paper, visible wood grain in the black areas, wide 1200x500 banner. On the left a dense marching crowd of identical dark silhouettes with flags and torches, lit by the cold glow of many phone screens. In the center a thin teenage boy in a hoodie has stepped out of the crowd and turned around, looking into a small hand mirror. On the right a narrow open doorway spilling warm yellow light onto the street, a friend leaning in the doorframe holding the door open. A one-way street arrow sign on a pole between them, bent backwards. Black and cream with a single warm yellow accent only in the doorway light. Stylized woodcut figures, no realistic faces, no photorealism.
+
+</details>
+
 Quelle: [1 Mio Klicks: Unser Interview ließ ihn aussteigen](https://www.youtube.com/watch?v=NZcdZVmZd1A)
 
 > [!info] Wer spricht?
