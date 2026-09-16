@@ -8,7 +8,7 @@ aliases:
 
 # Datenschutzerklärung
 
-Stand: 14. September 2026
+Stand: 16. September 2026
 
 ## 1. Verantwortlicher
 
@@ -30,6 +30,10 @@ Diese Website wird auf eigener Infrastruktur betrieben (ein Server in Deutschlan
 ### Analyse
 
 Wir verwenden [Umami](https://umami.is/), eine cookielose, datenschutzfreundliche Webanalyse auf unserer eigenen Infrastruktur. Umami setzt **keine Cookies** und speichert **keine IP-Adressen**. Erfasst werden nur: aufgerufene Seite, Verweildauer, Referrer, Browser, Betriebssystem und Gerätetyp (aus der Browser-Kennung, die jeder Browser ohnehin mitschickt) sowie der **ungefähre Standort (Land, Region, Stadt)**. Den Standort leitet Cloudflare beim Aufruf aus der IP-Adresse ab und übergibt nur das Ergebnis. Bildschirmgröße und Spracheinstellung, die Umami üblicherweise ebenfalls überträgt, schicken wir bewusst nicht mit.
+
+Auf den Textseiten zählen wir zusätzlich, **wie lange und wie weit ein Text gelesen wurde**: die Sekunden, in denen die Seite sichtbar ist und gescrollt oder bewegt wird, und bis zu welchem Anteil des Textes gescrollt wurde. Beides wird beim Verlassen der Seite als zwei Zahlen übertragen, ohne weitere Angaben und nach denselben Regeln wie der Seitenaufruf. So sehen wir, ob ein Text gelesen oder nur angeklickt wird.
+
+**Nicht gezählt werden:** Wer eine beliebige Adresse dieser Website einmal mit dem Zusatz `?nicht-zaehlen` aufruft (zum Beispiel `gedankenwelten.org/?nicht-zaehlen`), wird in diesem Browser nicht mehr erfasst. Die Einstellung liegt nur im eigenen Browser; `?wieder-zaehlen` hebt sie auf.
 
 Um Besuche zählen zu können, bildet Umami aus IP-Adresse, Browser-Kennung und einem monatlich wechselnden Zufallswert eine Kennung, die sich nicht auf die IP-Adresse zurückrechnen lässt. Ein Profil über den Monat hinaus entsteht nicht; eine Weitergabe an Dritte findet nicht statt. Rechtsgrundlage ist unser berechtigtes Interesse, zu verstehen, welche Inhalte gelesen werden (Art. 6 Abs. 1 lit. f DSGVO).
 
