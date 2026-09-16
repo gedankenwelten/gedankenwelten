@@ -33,7 +33,7 @@ Wir verwenden [Umami](https://umami.is/), eine cookielose, datenschutzfreundlich
 
 Auf den Textseiten zählen wir zusätzlich, **wie lange und wie weit ein Text gelesen wurde**: die Sekunden, in denen die Seite sichtbar ist und gescrollt oder bewegt wird, und bis zu welchem Anteil des Textes gescrollt wurde. Beides wird beim Verlassen der Seite als zwei Zahlen übertragen, ohne weitere Angaben und nach denselben Regeln wie der Seitenaufruf. So sehen wir, ob ein Text gelesen oder nur angeklickt wird.
 
-**Nicht gezählt werden:** Wer eine beliebige Adresse dieser Website einmal mit dem Zusatz `?nicht-zaehlen` aufruft (zum Beispiel `gedankenwelten.org/?nicht-zaehlen`), wird in diesem Browser nicht mehr erfasst. Die Einstellung liegt nur im eigenen Browser; `?wieder-zaehlen` hebt sie auf.
+**Nicht gezählt werden:** Wer [diesen Link](/?nicht-zaehlen) einmal antippt (oder eine beliebige Adresse dieser Website mit dem Zusatz `?nicht-zaehlen` aufruft), wird in diesem Browser nicht mehr erfasst. Die Einstellung liegt nur im eigenen Browser; eine als App auf dem Home-Bildschirm abgelegte Seite hat ihren eigenen Speicher und braucht den Link dort noch einmal. [Wieder zählen lassen](/?wieder-zaehlen) hebt sie auf.
 
 Um Besuche zählen zu können, bildet Umami aus IP-Adresse, Browser-Kennung und einem monatlich wechselnden Zufallswert eine Kennung, die sich nicht auf die IP-Adresse zurückrechnen lässt. Ein Profil über den Monat hinaus entsteht nicht; eine Weitergabe an Dritte findet nicht statt. Rechtsgrundlage ist unser berechtigtes Interesse, zu verstehen, welche Inhalte gelesen werden (Art. 6 Abs. 1 lit. f DSGVO).
 
