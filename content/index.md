@@ -72,8 +72,6 @@ Die Gedankenwelten (luc)
 >
 > Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird.
 
-> → *1 weitere in* [[Spuren]]
-
 ### Geistesblitz
 
 > **08.09.** — [[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering|Judith Mangelsdorf — Flourishing und Mattering]]
