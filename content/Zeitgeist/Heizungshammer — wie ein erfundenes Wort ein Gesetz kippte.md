@@ -97,3 +97,7 @@ Oettings These — die Lüge wirkt wie eine Droge, weil sie besser *kommuniziert
 
 Dasselbe Werkzeug, in die andere Richtung gedreht. Hier erfindet ein Boulevardblatt ein Wort, um Handlungsdruck zu *erzeugen*; im Presseclub wählt eine Regierung mit „hybrider Kriegsführung" ein Wort, das nichts erfindet und trotzdem verschiebt — um Handlungsdruck zu *vermeiden*. Zusammen ergeben beide Notes die vollständige Mechanik: Ein Begriff kann eine Lage schärfen, die keine ist, und eine weichzeichnen, die eine ist.
 
+### → [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Thomas Laschyk — Vermögenssteuer gegen Fake News]]
+
+Derselbe Autor, dessen Analyse diese Note stützt, fragt, wem die Maschine gehört, die das Wort druckte — und landet bei Döpfners weitgehend steuerfrei geschenktem Aktienpaket.
+

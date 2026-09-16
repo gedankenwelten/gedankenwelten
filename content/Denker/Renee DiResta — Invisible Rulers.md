@@ -433,3 +433,8 @@ Der philosophische Überbau zu DiRestas Springfield-Befund: „Kein einziger Akt
 ### → [[Ingrid Brodnig — Gegenstrategien zum Frauenhass]]
 
 Überträgt DiRestas „kein einziger Akteur muss lügen wollen“ auf die Misogynie: Auch Frauenhass wirkt als Mechanismus ohne bewusste Absicht, was klassisches Schuldstrafrecht ins Leere laufen lässt.
+
+### → [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Thomas Laschyk — Vermögenssteuer gegen Fake News]]
+
+Laschyk übersetzt DiRestas Befund ins Deutsche und setzt den Hebel beim Geld an, das Reichweite kauft, statt beim Ranking. Beide halten den reinen Faktencheck für zu schwach und ziehen daraus verschiedene Schlüsse.
+

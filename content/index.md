@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Mit siebzehn auf einem Nazikonzert, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt.
 
+> **16.09.** — [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Vermögenssteuer gegen Fake News]]
+>
+> Reichweite hat einen Preis, und ihn zahlen wenige: Thomas Laschyk führt Desinformation auf große Vermögen zurück — mit gut belegtem Kern und kuratierten Belegen.
+
 > **14.09.** — [[Zeitgeist/Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg|Sudan: Chlorbomben im vergessenen Krieg]]
 >
 > Chlor gegen die Cholera, Chlor in der Bombe: Geleakte Akten zeigen, wie Sudans Armee Giftgas baute — und wie ein Verbot zerfällt, wenn niemand hinsieht.

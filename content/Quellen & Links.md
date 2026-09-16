@@ -4493,3 +4493,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Buch (Sigl-Glöckner)** | *Gutes Geld. Wege zu einer gerechten und nachhaltigen Gesellschaft* (Quadriga 2024) — [genialokal](https://www.genialokal.de/Suche/?q=sigl-gloeckner+gutes+geld) |
 | **Buch (Kaczmarczyk)** | *Kampf der Nationen* (Westend 2022) — [genialokal](https://www.genialokal.de/Suche/?q=kaczmarczyk+kampf+der+nationen) · *Zerfall der Weltordnung* (Westend 2026) — [genialokal](https://www.genialokal.de/Suche/?q=kaczmarczyk+zerfall+der+weltordnung) |
 | **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Geld_genug_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Thomas Laschyk (Volksverpetzer) — Vermögenssteuer gegen Fake News
+
+| | |
+|---|---|
+| **Video** | [Das effektivste Mittel gegen Fake News wäre eine Vermögenssteuer](https://www.youtube.com/watch?v=nMa0L-wHpDs) — Volksverpetzer, 16.09.2026 (36 Min.) |
+| **Notiz** | [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News]] |
+| **DenkerVita** | [[DenkerVita/Thomas Laschyk]] |
+| **Quellenliste des Kanals** | [Proton Drive](https://drive.proton.me/urls/FP06ANQSF4#QIOq0iTOb19Q) |
+| **Buch** | *Werbung für die Wahrheit* (Komplett-Media 2024) — [genialokal](https://www.genialokal.de/Suche/?q=laschyk+werbung+wahrheit) |
+| **Transkript** | `Gedankenwelten/Transkripte/Laschyk_Vermoegenssteuer_FakeNews_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

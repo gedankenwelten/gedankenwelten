@@ -372,6 +372,10 @@ AfD und zu unfreundlich gegenüber der Wirklichkeit: Beide Bewegungen rechnen di
 Wähler an der Urne stehen und die der Gegner schreiben. Was aussieht wie Abschreiben, ist eine geteilte
 Anreizlage — und die lässt sich nicht kappen wie eine Leitung.
 
+### → [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Thomas Laschyk — Vermögenssteuer gegen Fake News]]
+
+Dieselben Verschonungsregeln, von der Medienseite gesehen: Laschyk zeigt, wie ein weitgehend steuerfrei geschenktes Aktienpaket beim Verleger von Zeitungen landet, die gegen das Schließen solcher Lücken trommeln.
+
 ---
 
 ## Weiterdenken
