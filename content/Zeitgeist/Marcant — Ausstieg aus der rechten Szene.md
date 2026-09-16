@@ -1,5 +1,6 @@
 ---
 title: "Marcant — Ausstieg aus der rechten Szene"
+description: "Mit siebzehn auf einem Nazikonzert, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt."
 aktualisiert: 2026-05-24
 date: 30.12.2025
 tags:
