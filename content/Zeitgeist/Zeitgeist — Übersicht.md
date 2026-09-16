@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*305 Notes — automatisch generiert · nach Thema sortiert*
+*306 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -187,6 +187,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/auslandsjournal — Trump allein zu Haus|Trump allein zu Haus — Das One-and-Done-Syndrom]]
 - [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]]
 - [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa|Varoufakis — 2008 Crash, Populismus und Europa]]
+- [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Vermögenssteuer gegen Fake News]] — Reichweite hat einen Preis, und ihn zahlen wenige: Thomas Laschyk führt Desinformation auf große Vermögen zurück — mit gut belegtem Kern und kuratierten Belegen.
 - [[Zeitgeist/Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit|Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
 - [[Zeitgeist/WDR Europaforum — Out of order Voelkerrecht|WDR Europaforum — Out of order? Wenn das Völkerrecht den Bach runtergeht]] — Drei Stimmen über die angebliche neue Weltunordnung: Für wen die Welt nie in Ordnung war, warum das Völkerrecht trotzdem täglich lebt — und wieso das Schweigen der Bundesregierung gefährlicher ist als jeder Rechtsbruch.
 - [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir|Welche Freiheit wollen wir? — Möllers trifft Poschardt]]
