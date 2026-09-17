@@ -13,6 +13,18 @@ type: persönliches-dokument
 
 # Vipassana — Zehn Tage
 
+![[assets/Vipassana-Zehn-Tage-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Ajanta-Höhlenfresko** (indische Wandmalerei, 2. Jh. v. Chr. – 5. Jh. n. Chr.) — Eisenoxidrot, Ocker, Lampenruß und Terre verte auf Kalkputz. Eine sitzende Figur, ein Atemband quer durch die Wand, elf Striche für elf Tage, rechts das Auflösen des Körpers in Vibration.
+
+Keine europäische Hand über eine asiatische Praxis gelegt, sondern die Bildsprache der Tradition selbst. Und der Träger trägt den Gedanken mit: Der Putz bröckelt, Fehlstellen fressen sich in die Fläche — während die Figur unbewegt sitzt. *Anicca* ist hier nicht Motiv, sondern Material.
+
+*Prompt:* Ancient Ajanta cave fresco painting on weathered lime plaster, wide horizontal panel. Centre: a single stylised seated figure cross-legged in meditation, eyes closed, no facial detail, outlined in iron-oxide red on yellow ochre ground. A thin pale chalk-white band flows horizontally from the figure across the whole panel like a breath crossing the wall. Left side: a row of eleven small vertical tally strokes in lampblack, some fully painted, some half lost where the plaster has flaked away. Right side: fine concentric ripples and a dissolving field of tiny dots in terre verte and ochre, the body breaking into vibration. A narrow lotus-petal border band along the bottom edge. Mineral pigment sunk into lime plaster, matte and chalky, hairline crazing, patches of bare grey wall showing through. Palette: iron oxide red, yellow ochre, lampblack, terre verte, chalk white on grey-brown plaster. Ancient Buddhist mural style, no photorealism, no realistic faces, no text.
+
+</details>
+
 *Die Lehren des S.N. Goenka aus einem 10-Tage-Kurs, festgehalten als persönliches Zeugnis*
 
 ---
