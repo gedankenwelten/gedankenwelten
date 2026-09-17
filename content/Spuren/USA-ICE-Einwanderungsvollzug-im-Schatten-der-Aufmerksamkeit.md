@@ -12,7 +12,7 @@ status: offen
 konfidenz: 84%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-08-28
+aktualisiert: 2026-09-17
 description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung."
 ---
 
@@ -56,6 +56,105 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 **Kalt, wenn:** Politikwechsel beendet das Thema ohne neue Daten.
 
 ## Verlauf
+
+### 2026-09-17 — Dritter Rekordmonat — und zum ersten Mal tun die Gerichte mehr als bremsen (Konfidenz unverändert 84 %)
+
+**Befund:** Der Trend ist weitergelaufen, nicht abgeflacht. Aber der Satz dieser These, der am meisten
+wackelt, ist nicht mehr *„es eskaliert"*.
+
+*(1) Der dritte Rekordmonat in Folge, von der Behörde selbst gemeldet.* **50.925 Festnahmen im August**
+(Juli 50.208, Juni 43.900 nach DHS-Zählung). Secretary **Mullin** wörtlich: *„For the third straight month,
+ICE set a new record for the highest number of illegal aliens arrested in a single month, nearly 51,000"*
+([DHS, 02.09.2026](https://www.dhs.gov/news/2026/09/02/ices-august-arrests-break-record-number-illegal-aliens-arrested)).
+NBC News formuliert den Kern dieser Spur in eigenen Worten: Die Operationen seien *„not as visible as
+aggressive enforcement efforts earlier in the year"* — bei rund 70 Mrd. Dollar Kongressmitteln für ICE und
+Border Patrol bis zum Amtszeitende
+([NBC, 01.09.2026](https://www.nbcnews.com/news/us-news/ice-arrests-50-thousand-people-august-continuing-record-rcna595510)).
+
+*(2) Die Zielgruppe hat sich weiter verschoben.* Nach den Daten des Deportation Data Project lag der Anteil
+der Festgenommenen mit Vorstrafe im Juli bei **27 %** — dem Allzeittief des Datensatzes; in den ersten
+Augusttagen hatte nur noch **jede fünfte** Festnahme eine Verurteilung im Rücken
+([Austin Kocher, 25.08.2026](https://austinkocher.substack.com/p/ices-summer-enforcement-surge-driven) ·
+[DDP-Analyse](https://deportationdata.org/analysis/immigration-arrests-in-2026.html)). Reuters berichtet am
+14.09. von internem Druck auf **3.000 Festnahmen pro Tag** — eine Verschärfung gegenüber dem hier bisher
+notierten 2.000er-Ziel; DHS bestreitet Quoten
+([Reuters](https://www.hawaiitribune-herald.com/2026/09/15/nation-world-news/ice-arrests-keep-soaring-heres-why-they-are-not-leading-to-more-deportations/)).
+
+*(3) Der Vollzug wandert weiter in die Fläche.* The Marshall Project belegt am 10.09. den Mechanismus
+ausdrücklich: ICE setzt auf lokale Behörden, **getrieben von Geld und von der Sorge vor negativer
+Publizität** — die operative Fassung von „quieter but more effective"
+([Marshall Project](https://www.themarshallproject.org/2026/09/10/ice-arrests-immigrants-local-police-287g)).
+In **Pennsylvania**, das in dieser Spur bisher nicht vorkam: 1.216 Festnahmen über 287(g) in sieben Monaten,
+über 130 beteiligte Polizeibehörden — und **70 % der so Festgenommenen hatten keine Vorstrafe und kein
+laufendes Verfahren**. In Schuylkill County flossen über 1,5 Mio. Dollar an die örtlichen Behörden
+([Philadelphia Inquirer, 10.09.2026](https://www.inquirer.com/opinion/pennsylvania-immigration-arrests-287g-local-police-collaboration-20260910.html)).
+
+*(4) Die Bürger-Festnahmen sind jetzt beziffert — und sie sind folgenlos geblieben.* Acting ICE Director
+**David Venturella** teilte den Abgeordneten Omar und Craig in einem Brief vom **18.08.2026** mit, dass bei
+Operation Metro Surge **131 US-Bürger** festgenommen wurden. Die Staatsanwaltschaft nahm zwischen 08.01. und
+20.05.2026 nur **44** dieser Fälle überhaupt an; am 20.05. waren davon noch **14** aktiv, der Rest
+eingestellt, abgelehnt oder im Diversionsverfahren erledigt
+([Axios Twin Cities, 03.09.2026](https://www.axios.com/local/twin-cities/2026/09/03/ice-arrests-us-citizens-metro-surge)).
+Das ist die registrierte Bestätigungsbedingung *„weitere Bürger-Festnahmen ohne Konsequenz"* — in Serie und
+behördlich bestätigt. Dazu der Einzelfall **Leo Garcia Venegas**, US-Bürger, am 02.05.2026 zum dritten Mal
+festgehalten, trotz gültiger REAL ID vor dem eigenen Haus aus dem Auto gezogen; ein Bundesrichter in Alabama
+wies am 03.09. den Abweisungsantrag der Regierung zurück, die Klage läuft weiter — Disziplinarfolgen für
+Beamte: keine ([Reason, 03.09.2026](https://reason.com/2026/09/03/this-u-s-citizen-is-suing-ice-for-arresting-him-three-times-his-lawsuit-is-moving-forward/)).
+
+**Deutung:** Alles daran bestätigt die These — und trotzdem bewegt sich die Konfidenz nicht, weil im
+September an drei Stellen etwas geschehen ist, das diese Spur bisher für ausgeschlossen hielt.
+
+Der Satz der These lautet: Gerichte und Aufsicht *„verlangsamen, stoppen aber die Eskalation nicht"*. Am
+**16.09.** verpflichtete das Gericht im Central District of California die Beamten, vor jeder Festnahme ohne
+Haftbefehl eine echte Fluchtgefahr zu prüfen und zu dokumentieren — der bloße irreguläre Status genügt
+nicht mehr, und das ICE-Memo vom Januar darf nicht mehr als Grundlage dienen
+([ACLU SoCal](https://www.aclusocal.org/press-releases/breaking-federal-court-blocks-unlawful-warrantless-immigration-arrests-in-southern-california/)).
+Am **10.09.** kippte der vierte Bundesberufungsgerichtshof die No-Bond-Politik — die neunte
+Appellate-Niederlage der Regierung in derselben Frage; Richterin Keenan zog die Linie zur Internierung
+japanischstämmiger Amerikaner
+([ACLU](https://www.aclu.org/press-releases/federal-appeals-court-rules-against-trump-mandatory-detention-policy)).
+Und am **16.09.** wurde erstmals ein ICE-Beamter wegen Metro Surge tatsächlich in Haft genommen: **Christian
+Castro**, der am 14.01.2026 durch eine Haustür auf einen 24-Jährigen schoss und dem FBI anschließend nach
+Anklageschrift *„six separate lies"* auftischte
+([MPR News, 17.09.2026](https://www.mprnews.org/story/2026/09/17/ice-agent-christian-castro-charged-shooting-operation-metro-surge-arrested-minneapolis)).
+
+Das ist kein Richtungswechsel — es ist der erste Widerstand, der etwas kostet. Und es steht neben dem
+Befund, den Reuters am 14.09. liefert und der die Maschinenmetapher dieser Spur trifft: Trotz 51.000
+Festnahmen im August bleiben die **Abschiebungen bei rund 1.200 pro Tag** — derselbe Wert wie im Mai, als
+19.000 Festnahmen weniger anfielen. Die Maschine greift zu. Sie räumt nicht ab. Woraus folgt, dass der
+Druck sich in den Haftanlagen staut, nicht am Flughafen.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Die Castro-Festnahme ist ausdrücklich ein **Einzelfall**, kein
+Serienbeginn — MPR nennt sie den ersten Bundesfall überhaupt im Zusammenhang mit Metro Surge, NPR *„a rare
+moment"*. Dagegen stehen 131 folgenlos festgenommene US-Bürger aus derselben Operation und der Umstand, dass
+Gouverneur Abbott die Auslieferung nach Minnesota monatelang blockieren konnte. **(2)** Die
+Vasquez-Perdomo-Verfügung erfüllt die registrierte Widerlegungsbedingung **nicht**: Sie betrifft die
+warrantlose Festnahme, nicht die vom Supreme Court am 08.09.2025 freigegebenen Profiling-Faktoren; der
+SCOTUS-Stay steht unangetastet. **(3)** Beim 4th Circuit besteht ein Circuit Split — die Frage geht
+wahrscheinlich an den Supreme Court, der Schutz ist bis dahin regional. **(4)** Die Rücknahme der
+Nominierung von **Lance Schroyer** als ICE-Direktor am 17.09. sieht nach Reibung aus, ist aber zweischneidig:
+Die Zweifel kamen laut Berichten von Einwanderungs-Hardlinern und aus dem DHS selbst, wegen *mangelnder*
+Erfahrung, und eine Lesart lautet, man wolle *„in a tougher direction"*. ICE bleibt ohne vom Senat
+bestätigten Direktor — was selbst ein Aufsichtsdefizit ist
+([Washington Post](https://www.washingtonpost.com/immigration/2026/09/17/trump-withdraws-his-nominee-lead-ice/)).
+**(5)** Die republikanische Abgeordnete **María Elvira Salazar** stellte sich am 17.09. öffentlich gegen den
+Vollzug (*„Mr. President, your immigration policies have gone too far"*, hispanische Wähler fühlten sich
+„betrogen") — aber sie steht in ihrem Distrikt bei 45:45 und tritt am 03.11. zur Wiederwahl an. Wahlkampf
+unter Druck entwertet den Befund nicht, begrenzt aber seine Reichweite. **(6)** Die Datenbasis wird dünner,
+nicht dicker: Austin Kocher warnt ausdrücklich, die DHS-Zahlen seien nicht unabhängig überprüfbar; für
+denselben Juli existieren drei Zählungen (NYT/DDP 49.571 · DDP/Kocher 49.138 · DHS 50.208), und ICE lieferte
+zur Augustfreigabe zwei Datenfelder **nicht mehr** mit. Die Abweichung liegt bei ein bis zwei Prozent und
+dreht die Richtung nicht um — die registrierte Bedingung „statistisch überzeichnet" ist damit **nicht**
+erfüllt. Aber wer sich auf diese Zahlen stützt, stützt sich zunehmend auf Selbstauskunft. **(7)** Für
+September gibt es **keine unabhängigen Zahlen**: Die letzte Rohdatenfreigabe des Deportation Data Project
+reicht bis zum 06.08.2026, die Haftpopulation steht bei TRAC unverändert auf dem Stand vom 11.07. Ob der
+Trend weiterläuft, ist datenseitig offen.
+
+*Konfidenz bewusst unverändert bei 84 %.* Die Eskalationshälfte ist stärker belegt als je zuvor. Die
+Bremsen-Hälfte hat ihren ersten echten Gegenbefund bekommen — an drei Stellen, in zehn Tagen. Beides
+zusammen ergibt keine Bewegung nach oben; ob es eine nach unten ergibt, entscheidet der Supreme Court.
+
+---
 
 ### 2026-08-28 — Die Strategie ist belegt: Rekordfestnahmen bei gefallener Aufmerksamkeit (Konfidenz 78 % → 84 %)
 
@@ -552,6 +651,7 @@ sich wieder schließt.
 >   Anwalts-Version; das Laborergebnis entscheidet, und ein Drogen-Befund würde hier prominent
 >   nachgetragen. Konfidenz nur +1, weil beide Entwicklungen die *sichtbarste* Zone der Spur
 >   betreffen — der Unsichtbarkeits-Kern bekommt diese Woche keinen neuen Beleg.
+> - **17.09.2026:** Der Wachpunkt dieser Spur — *„Wenn Gerichte tatsächlich wirksam bremsen, muss das hier so prominent stehen wie die Übergriffe"* — ist heute zum ersten Mal fällig geworden, und zwar dreifach in zehn Tagen: die Verfügung vom 16.09., die neunte Appellate-Niederlage am 10.09., die erste tatsächliche Inhaftierung eines Beamten am 16.09. Beim Lesen war der erste Impuls, sie als Einzelfälle einzusortieren und weiterzuziehen — jede der drei lässt sich relativieren, und die Relativierungen stimmen sogar. Genau darin liegt die Gefahr: Eine These, für die jede Bremse ein Einzelfall und jede Festnahme ein Muster ist, prüft nichts mehr. Deshalb stehen die drei in der Deutung und nicht in einer Fußnote, und deshalb bewegt sich die Konfidenz nicht nach oben, obwohl die Eskalationsseite so gut belegt ist wie nie. **Der Teilsatz, der ab jetzt auf dem Prüfstand steht, ist nicht „es eskaliert", sondern „die Gerichte verlangsamen nur".** Was ihn entscheidet, ist der Circuit Split beim Supreme Court — und dessen Ausgang darf nicht vorweggenommen werden, in keine Richtung. *Zweiter Punkt:* Die Zahlen, auf denen diese Spur ruht, kommen für August und September ausschließlich vom DHS selbst; die unabhängige Datenfreigabe endet am 06.08. Eine Spur über Unsichtbarkeit, die sich auf die Selbstauskunft der beobachteten Behörde stützt, hat ein Problem, auch wenn die Richtung stimmt. Das gehört benannt, bevor es jemand anderes tut.
 
 ## Verbindungen
 

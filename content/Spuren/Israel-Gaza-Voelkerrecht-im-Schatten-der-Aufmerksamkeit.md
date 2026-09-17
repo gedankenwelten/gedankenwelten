@@ -10,10 +10,10 @@ tags:
   - geopolitik
   - year-2026
 status: offen
-konfidenz: 63%
+konfidenz: 50%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-08-30
+aktualisiert: 2026-09-17
 presseschau_aktualisiert: 2026-08-24
 description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen."
 ---
@@ -61,6 +61,141 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 **Kalt, wenn:** dauerhafte politische Lösung, Thema legitim abgeschlossen.
 
 ## Verlauf
+
+### 2026-09-17 — Die Uhr, die wir für eine Strategie hielten (Konfidenz 63 % → 50 %)
+
+> [!danger] Registrierte Falsifikationsbedingung getriggert
+> *„Die langen Fristen erweisen sich als ICJ-Normaltempo (Verfahren dauern üblicherweise Jahre) statt
+> strategischer Vertagung"* — registriert am 14.06.2026, eingetreten am 17.09.2026. Diese Spur hat seit
+> ihrer Anlage die Fristen 2027/2029 als Kernbeleg geführt. Der Beleg trägt nicht.
+
+**Befund:**
+
+*(1) Die Fristen sind die Summe der Parteienanträge — nachzulesen im Beschluss selbst.* Am **29.04.2026**
+trafen die Parteienvertreter den Gerichtspräsidenten nach Artikel 31 der Verfahrensordnung. Der Order vom
+21.05.2026 protokolliert, was dort gesagt wurde: Südafrikas Agent hielt eine zweite Schriftsatzrunde für
+geboten und **erbat für die Reply *„at least 18 months"*** — wegen der Komplexität des Falls, des Umfangs
+von Israels Counter-Memorial samt Anlagen und weil dieses neben der Sache auch **Einreden gegen
+Zuständigkeit und Zulässigkeit** enthält, die zu beantworten sind. Israels Vize-Agent erklärte, eine
+zweite Runde sei **nicht nötig**; falls das Gericht sie anordne, habe man gegen die achtzehn Monate für
+Südafrika nichts einzuwenden, *„provided that the same amount of time be accorded to Israel to prepare
+its Rejoinder"*. Der Gerichtshof entschied *„Taking into account the views of the Parties"* und setzte
+22.11.2027 und 22.05.2029 ([Order vom 21.05.2026, Case
+192](https://www.icj-cij.org/case/192)).
+
+Achtzehn Monate für die Klägerin, die sie selbst beantragte, plus achtzehn für die Beklagte, die auf
+Gleichbehandlung bestand — das ergibt den Mai 2029. Die Partei, die auf Tempo drängen müsste, hat den
+ersten und längeren Block erbeten; die andere wollte die zweite Runde ganz vermeiden, also den kürzeren
+Weg. Es gibt in dieser Kette niemanden, der vertagt hat.
+
+*(2) Und das Tempo liegt im Band der Vergleichsfälle.* Alle Verfahren nach der Völkermordkonvention:
+
+| Verfahren | Klage | Rejoinder | Abstand |
+|---|---|---|---|
+| Bosnien ./. Serbien (Nr. 91) | 20.03.1993 | — | Sachurteil nach **~14 Jahren** (26.02.2007) |
+| Gambia ./. Myanmar (Nr. 178) | 11.11.2019 | 30.12.2024 | **5,1 Jahre** · Urteil nach 6,9 Jahren weiter offen |
+| Ukraine ./. Russland (Nr. 182) | 26.02.2022 | 07.12.2027 | **5,8 Jahre** |
+| **Südafrika ./. Israel (Nr. 192)** | 29.12.2023 | 22.05.2029 | **5,4 Jahre** |
+
+Südafrika/Israel liegt in der Mitte — schneller als das Ukraine-Verfahren. Südafrikas eigene Präsidentschaft
+schrieb am 02.06.2026: *„A second round of written pleadings is common in ICJ cases; in fact, in all previous
+cases brought under the Genocide Convention, parties have submitted a Reply and a Rejoinder"*
+([The Presidency](https://www.thepresidency.gov.za/presidency-notes-icj-order-21-may-2026-matter-between-government-republic-south-africa-and-state)).
+
+*(3) Drei weitere Korrekturen an eigenen Einträgen.* **Die Vertragsstaatenzahl:** Der Eintrag vom 30.08.
+führte Ungarns zurückgenommenen Austritt als Standfestigkeitsbeleg und notierte, es bleibe „weiter bei 125".
+Tatsächlich haben 2026 **fünf** Staaten formell notifiziert — Niger (18.06.), Burkina Faso und Mali (24.06.),
+Venezuela (24.07.), Tschad (27.07.), alle wirksam ein Jahr später
+([Coalition for the ICC](https://www.coalitionfortheicc.org/news/rome-statute-withdrawals-and-new-us-campaign-threaten-victims-access-justice) ·
+[ICC-ASP, 07.08.2026](https://www.icc-cpi.int/news/statement-presidency-assembly-states-parties-withdrawals-rome-statute-chad-and-venezuela)).
+Diesmal wurde ein *Verfallsbeleg* übersehen — die Gegenrichtung zum Muster vom 30.08.
+**Die fünf Haftbefehle:** Die Spur schrieb, sie seien „bis heute nicht bestätigt". Präziser: Der Gerichtshof
+hat den Haaretz-Bericht **aktiv dementiert** — Sprecherin Oriane Maillet nannte ihn *„not accurate"*, das
+Gericht *„denies the issuance of new arrest warrants in the situation in the state of Palestine"*. Haaretz
+hatte über *beantragte*, versiegelte Haftbefehle berichtet; Antrag ist nicht Erlass.
+**Die Bewegungslosigkeit:** Am **01.09.2026** legte Südafrika dem Gerichtshof Beweismaterial zur
+Nichteinhaltung der vorläufigen Maßnahmen vor ([Amnesty,
+01.09.2026](https://www.amnesty.org/en/latest/news/2026/09/israel-opt-south-africa-icj-submission-must-spur-states-to-press-israel-to-end-its-genocide-in-gaza/)).
+Bewegung einer Partei, nicht des Gerichts — aber „seit dem 21.05. nichts" stimmt so nicht mehr.
+
+*(4) Was gleichzeitig unbestreitbar stärker wurde.* Am **16.09.2026** verweigerte das US-Außenministerium
+der palästinensischen Delegation samt Präsident Abbas zum zweiten Jahr in Folge die Visa für die
+UN-Generalversammlung. Die Begründung nennt an erster Stelle die **Verfolgung rechtlicher Schritte gegen
+Israel vor IGH und IStGH** ([NBC
+News](https://www.nbcnews.com/world/middle-east/trump-administration-denies-visas-palestinian-delegation-attend-un-gen-rcna598265) ·
+[AP](https://www.usnews.com/news/politics/articles/2026-09-16/trump-administration-again-denies-visas-for-palestinian-delegation-to-attend-the-un-general-assembly)).
+Es ist die erste schriftliche staatliche Begründung, die das Anrufen eines Gerichts ausdrücklich als Grund
+einer Sanktion nennt.
+Dazu ein Vorgang aus dem Juli, den Politico am **10.09.** aufdeckte: US-NATO-Botschafter **Matthew
+Whitaker** forderte die Verbündeten bei einem geschlossenen Treffen in Brüssel schriftlich zum Austritt aus
+dem Römischen Statut auf. Aus dem US-Papier: *„The United States will systematically dismantle the
+capabilities of the ICC … we firmly request that you immediately take steps to withdraw."* Whitaker schloss
+mit *„We will be watching closely who stands with America."*
+([Politico-Referat](https://tribune.com.pk/story/2628580/us-pushes-nato-allies-to-dismantle-icc-withdraw-from-founding-treaty-repor)).
+Und **heute, am 17.09.**, lief die Abwicklungsfrist der Sanktionen gegen Gerichtspräsidentin Akane und
+Prozessanwalt Seye ab. Was das praktisch heißt, sagte Interimschefankläger **Mame Mandiaye Niang** am
+11.09.: es sei *„praktisch unmöglich, auf Zahlungssysteme zuzugreifen oder einfache Dinge wie Flug- und
+Hotelbuchungen zu erledigen"* ([Times of
+Israel](https://www.timesofisrael.com/icc-interim-chief-prosecutor-hopes-netanyahu-putin-will-end-up-on-dock-nothings-impossible/)).
+Kein Verbot, kein Urteil — eine Buchungssperre.
+
+*(5) Die Lage der Menschen, unverändert kritisch.* OCHA zählt zum **04.09.2026** seit Beginn des
+Waffenstillstands **1.334 Getötete und 4.429 Verletzte**. Am **31.08.** stellte Israel die Versorgung der
+Entsalzungsanlagen ein — **eine Million Menschen** betroffen; die Nahrungsmittelration wurde Mitte August
+auf **75 % des Mindestkalorienbedarfs** abgesenkt; 60 % der begutachteten Wohneinheiten sind schwer
+beschädigt oder zerstört ([OCHA,
+04.09.2026](https://www.ochaopt.org/content/humanitarian-situation-report-4-september-2026)). Im
+Westjordanland ist 2026 das gewalttätigste Jahr seit Beginn der OCHA-Erfassung: 6,6 Siedler-Vorfälle
+täglich, über 1.600 Angriffe in 275 Gemeinden zwischen Januar und August. Für **E1** erging im August die
+erste Bauausschreibung über 1.200 Wohneinheiten, Angebotsfrist 19.10.2026; ein israelisches Gericht wies
+am 08.09. einen Eilantrag dagegen zurück.
+
+**Deutung:** Der Sweep nimmt dieser Spur ihr bequemstes Argument und lässt ihr das unbequemere.
+
+Was fällt, ist die Fristen-Lesart. Wir haben auf eine Uhr gesehen, die die Prozessparteien selbst gestellt
+haben, und darin eine Absicht erkannt. Der Order lag drei Absätze weit offen; niemand hat ihn gelesen, weil
+die Zahl 2029 für sich schon so überzeugend aussah. Es ist derselbe Fehler wie am 24.08. bei der Resolution
+2803, nur andersherum: damals ein übersehenes Dokument, das zu schnellem Handeln passte, diesmal ein
+ungelesenes, das die eigene Langsamkeitserzählung entkräftet hätte. Beide Male entschied nicht die
+Verzerrung eines Befundes, sondern die **Auswahl des Blickfelds**.
+
+Was steht, ist die zweite Säule, unberührt: Haftbefehle seit dem 21.11.2024, **keine einzige Festnahme**,
+kein Vollzugsmechanismus in irgendeinem Vertragsstaat, kein Schritt der Vorverfahrenskammer im
+Sweep-Fenster. Dort, wo Rechenschaft konkret würde, geschieht weiterhin nichts.
+
+Und daneben wächst etwas, das die Spur bisher nicht behauptet hat und heute noch nicht behaupten soll: Die
+Sanktionen reichen inzwischen bis zur Gerichtspräsidentin, ein NATO-Botschafter betreibt schriftlich die
+Demontage des Gerichtshofs, fünf Staaten haben den Austritt notifiziert, und die Anrufung eines Gerichts
+steht als Begründung in einem Visa-Bescheid. Das ist nicht mehr Vertagung. Das wäre die Aussage, **dass
+der Gebrauch des Rechtswegs mit staatlichen Mitteln bestraft wird** — beweiskräftiger als jede
+Fristenrechnung, und etwas anderes als das, was hier seit Juni steht. Sie wird deshalb **nicht** in die
+These geschrieben. Wenn sie trägt, trägt sie auch über die nächsten drei Sweeps; sich den besseren Befund
+rückwirkend als eigene These gutzuschreiben, wäre genau die Bewegung, die diese Rubrik verbietet.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Das stärkste Gegendatum zur Auswahlentscheidungs-Lesart ist die
+**staatliche Schiene, die sich tatsächlich bewegt hat**: Großbritannien verhängte am **08.09.2026** ein
+Einfuhrverbot für Waren aus israelischen Siedlungen und sanktionierte Siedler und beteiligte Unternehmen;
+**zwölf Staaten** kündigten in einer gemeinsamen Erklärung eigene Handelsbeschränkungen an
+([Al Jazeera](https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements) ·
+[Washington Post](https://www.washingtonpost.com/world/2026/09/08/uk-bar-imports-west-bank-growing-rift-with-israel/)).
+Das ist Vollzug mit Datum, ausdrücklich dem ICJ-Gutachten von 2024 folgend — nur eben durch Staaten statt
+durch Gerichte. Einschränkung, die dazugehört: Inkrafttreten erst in sechs bis neun Monaten, und die
+Maßnahme hat dokumentierte Schlupflöcher. **(2)** Der Rechtsweg gegen die Sanktionen ist **innerhalb der
+USA nicht geschlossen**: Drei sanktionierte ICC-Richterinnen und -Richter klagen seit Juni 2026 in
+Manhattan, und US-Gerichte haben die zugrundeliegende Executive Order in früheren Verfahren bereits für
+verfassungswidrig erklärt. **(3)** Zur humanitären Lage gehört die Teilverbesserung: Der Hungersnot-Status
+wurde nach dem Waffenstillstand zurückgenommen; OCHA nennt die Gewinne „fragile" und rückläufig, aber die
+Ausgangslage ist besser als 2025. **(4)** Die Aufmerksamkeit ist nicht durchweg gesunken — die
+BRICS-Erklärung von Delhi (12.09.) fordert die volle UN-Mitgliedschaft Palästinas, und die
+Hochrangigenwoche der Generalversammlung (22.–29.09.) führt Gaza als Kernthema. Die im Netz kursierenden
+Prozentzahlen zum Rückgang der Berichterstattung (*„minus 80–90 %"*) stammen aus einem parteiischen
+Editorial ohne offengelegte Methodik und werden hier **nicht** übernommen. **(5)** Auch die Aufbau-Schiene,
+die am 24.08. als die schnelle galt, steht inzwischen: Der Wiederaufbau ist in der 15-Punkte-Roadmap
+ausdrücklich an verifizierte Stabilität gekoppelt, 7 Mrd. USD Zusagen liegen bedingt bereit, und die
+israelischen Wahlen am 27.10.2026 haben die Planungen des Board of Peace stillgelegt. Die Schärfung vom
+24.08. („nicht die Institutionen sind langsam") gilt damit nur noch eingeschränkt.
+
+---
 
 ### 2026-08-30 — Die Stufe nach der Vertagung — und wer daraufhin aufwacht (Konfidenz unverändert 63 %)
 
@@ -163,6 +298,7 @@ sind **nicht per se** Beweis strategischer Vertagung. Der Waffenstillstand brach
 > - **15.07.2026:** Zwei Prüfpunkte beim Nachtrag. *Erstens:* Die neun Fristverlängerungen fühlten sich beim Fund wie ein Treffer an — genau dieses Einrasten ist Verlangen nach Bestätigung; deshalb steht die banalere Gegen-Lesart (gewöhnliche Justizverschleppung) ausdrücklich in der Gegenbeobachtung, und die Konfidenz stieg nur um 2 Punkte statt mehr. *Zweitens:* Die CPJ-Revision (acht entfernte Namen) kam als *unwillkommene* Nachricht — der Reflex, sie kleinzuhalten, wäre exakt der Bias, den der Spiegel sucht. Sie steht darum als eigener Befund-Kern, nicht als Fußnote. Die 21.06.-Lesart („die Kameras selbst verstummen") bleibt tragfähig, ist aber weniger rein, als sie sich anfühlte.
 > - **24.08.2026:** Der unbequemste Sweep bisher, weil der Fehler bei mir lag. *Erstens:* Diese Spur hat **neun Monate lang eine bindende Sicherheitsratsresolution übersehen** — und zwar nicht irgendeine, sondern die, die der Lage ihre Verwaltungsstruktur gab. Der Grund ist diagnostisch: Ich habe nach Belegen für *Vertagung* gesucht und deshalb nur dort hingesehen, wo vertagt wurde (ICJ, ICC). Ein Gremium, das schnell handelte, passte nicht ins Suchmuster und fiel darum durch das Raster. Das ist Verlangen nach Bestätigung in seiner wirksamsten Form: nicht als Verzerrung eines Befundes, sondern als **Auswahl des Blickfelds**. *Zweitens:* Die Opferzahl. Die Spur trug seit Anfang Juli die höhere Zahl einer Hamas-nahen Stelle, obwohl die niedrigere von OCHA und Gesundheitsministerium verfügbar war — Übernahme in der Richtung, in die die eigene Neigung zieht. Beide Punkte sprechen dafür, die Konfidenz *trotz* stützender Befunde nur um einen Punkt zu bewegen: Wer neun Monate lang das halbe Feld nicht gesehen hat, hat kein Recht auf mehr Sicherheit. *Drittens:* Fünf frisch verarbeitete Interviews ziehen stark — vier davon israelkritisch. Zeugenschaft ist lebendiger als ein Ratsdokument und wiegt deshalb schwerer, als sie sollte. Deshalb steht Ayalon in dieser Runde nicht als Beleg, sondern als Stimme, und die Konfidenzbewegung stützt sich allein auf die Institutionenlage.
 > - **30.08.2026:** Zwei Prüfpunkte. *Erstens:* Die Sanktionen gegen die Gerichtspräsidentin rasteten beim Lesen sofort als Bestätigung ein — „genau das sagt die Spur doch". Das ist Verlangen. Beim zweiten Hinsehen trägt der Vorgang die These nur zur Hälfte: Er stützt die Auswahlentscheidungs-Lesart und liefert zugleich das **beste Gegenbeispiel gegen die Aufmerksamkeits-Lesart**, das diese Spur bisher hat — 79 Staaten, eine geschlossene EU-Spitze, Ungarns zurückgenommener Austritt. Deshalb steht die Konfidenz still, obwohl sich der Eintrag nach Aufwärtsbewegung anfühlte. *Zweitens:* Die Spur führte seit dem 03.07. Ungarns ICC-Austritt als Erosionsbeleg. Er ist nie eingetreten — Ungarn widerrief im Mai 2026 mit 133:37. Ein Fehler in genau der Richtung, in die die Neigung zieht, und der zweite dieser Art binnen einer Woche (nach der Opferzahl am 24.08.). Das Muster ist inzwischen benennbar: **Diese Spur nimmt Belege für Verfall schneller an als Belege für Standfestigkeit.** Der nächste Sweep beginnt deshalb ausdrücklich mit der Gegenfrage — was hat gehalten?
+> - **17.09.2026:** Der Sweep, in dem der eigene Kernbeleg fiel — und die Diagnose ist unangenehmer als der Verlust. *Erstens:* Die Fristen 2027/2029 standen seit dem 14.06. als Vertagungsbeleg in dieser Note. Der Beschluss, der sie erklärt, ist drei Absätze lang, öffentlich, und protokolliert wörtlich, dass **Südafrika selbst** die achtzehn Monate beantragte und **Israel die zweite Schriftsatzrunde ganz vermeiden wollte**. Niemand hat je hineingesehen. Der Grund ist nicht Nachlässigkeit, sondern dass die Zahl 2029 *für sich* schon überzeugend aussah — eine Zahl, die die eigene These trägt, wird nicht nachgeprüft, sie wird zitiert. Das ist derselbe Mechanismus wie bei der übersehenen Resolution 2803 am 24.08., nur eine Ebene tiefer: dort das falsche Blickfeld, hier die ungeprüfte Zahl im richtigen. *Zweitens:* Auch der Vergleich mit Gambia/Myanmar und Ukraine/Russland war in zwanzig Minuten zu haben und wurde in drei Monaten nicht gemacht. Diese Spur prüft ihre eigenen Zahlenbehauptungen nicht gegen Vergleichsfälle — das ist ab jetzt ein fester Prüfschritt jedes Sweeps. *Drittens:* Der 30.08. hatte sich vorgenommen, mit der Gegenfrage zu beginnen — was hat gehalten? Dabei fielen die **fünf notifizierten Austritte** durch das Raster, ein Verfallsbeleg diesmal, nicht ein Standfestigkeitsbeleg. Das korrigiert die Musterdiagnose vom 30.08.: Es ist keine Schlagseite in *eine* Richtung. Es ist, dass die Belegprüfung in *beide* Richtungen zu flach war. *Viertens, und das ist die eigentliche Versuchung dieser Runde:* Der Sweep liefert mit der Visa-Begründung und dem Whitaker-Papier einen Befund, der stärker ist als alles, was diese Spur je hatte — und er passt nicht in die registrierte These. Der Reflex, sie darauf umzuschreiben, war sofort da, und er wäre als Schärfung durchgegangen. Genau deshalb steht er in der Deutung und **nicht** in der These. Eine Spur, die beim Fallen ihres Belegs den Zuschnitt wechselt, kann nicht fallen. *Konfidenz 63 % → 50 %:* eine von zwei Säulen weg, drei eigene Korrekturen, die zweite Säule (null Festnahmen) unberührt.
 
 ## Stimmenspektrum
 

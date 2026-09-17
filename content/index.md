@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Spuren
+
+> **17.09.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
+>
+> Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?
+
+> **17.09.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+>
+> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
+
+> **17.09.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
+>
+> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
+
+> **17.09.** — [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash — was aus einer datierten Prophezeiung wird]]
+>
+> Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
+
+> **17.09.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
+>
+> Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
+
+> → *5 weitere in* [[Spuren]]
+
 ### Zeitgeist
 
 > **16.09.** — [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
@@ -53,28 +77,6 @@ Die Gedankenwelten (luc)
 > **11.08.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
 >
 > Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
-
-### Spuren
-
-> **12.09.** — [[Spuren/Dalios Fenster — Amerikas Schuldenlast bis November 2028|Dalios Fenster — Amerikas Schuldenlast bis November 2028]]
->
-> Ein Milliardär nennt ein Datum und die Instrumente, an denen man ihn prüfen kann. Diese Spur nimmt ihn beim Wort — und rechnet damit, dass er sich irrt.
-
-> **12.09.** — [[Spuren/Iran-hat-der-Krieg-das-Regime-gestaerkt|Iran — hat der Krieg das Regime gestärkt, das er zerschlagen wollte?]]
->
-> Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte.
-
-> **10.09.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
->
-> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
-
-> **10.09.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
->
-> Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
-
-> **10.09.** — [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?]]
->
-> Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird.
 
 ### Geistesblitz
 

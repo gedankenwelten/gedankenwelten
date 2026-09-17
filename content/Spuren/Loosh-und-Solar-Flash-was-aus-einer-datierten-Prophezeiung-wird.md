@@ -14,10 +14,10 @@ tags:
   - transhumanismus
   - year-2026
 status: offen
-konfidenz: 70%
+konfidenz: 74%
 review-takt: 30-tage
 eroeffnet: 2026-06-25
-aktualisiert: 2026-08-03
+aktualisiert: 2026-09-17
 description: Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 aliases:
   - Loosh
@@ -101,6 +101,112 @@ und die These hat den Kern überschätzt).
 ---
 
 ## Verlauf
+
+### 2026-09-17 — Der Kern kommt zurück, und er hat jetzt einen Preis (Konfidenz 70 % → 74 %)
+
+**Befund:** Sechs Datenpunkte aus dem Fenster 01.08.–17.09.
+
+**(1) Der Blog ist weg.** `ouroboros803643273.blog` zeigt heute nur noch die WordPress-Parkseite
+*„Something new is coming."*; der Beitrag *„Die Praxis des neutralen Beobachters"* vom 30.07. antwortet
+mit **404**. Genau die Schiene, auf der der Eintrag vom 01.08. die Verinnerlichung belegte, existiert
+nicht mehr.
+
+**(2) Der Solar-Flash ist als Marke zurück.** Seit dem 24.08. trägt fast jedes Video ihn wieder im Titel.
+Am **04.09.** erscheint *„Der Solar-Flash und die dreitägige Finsternis"* — Punkt 2 der am 28.06. als
+widerlegt abgehakten Liste ist wieder Titelthema, 21.743 Views, 817 Likes.
+
+**(3) Die Reichweite ist zurückgekommen.** Tiefpunkt war der 29.07. mit 8.606 Views. Seither:
+
+| Datum | Titel (gekürzt) | Views | Likes | Komm. |
+|---|---|---|---|---|
+| 24.08. | Entschlüsselung der Heiligen Schriften | 21.381 | 805 | 59 |
+| 29.08. | Nirvana und die Verschmelzung mit der Ur-Quelle | 26.610 | 795 | 67 |
+| 30.08. | Die Macht der Archonten, Reptiloiden und Djinns | 14.883 | 691 | 68 |
+| 02.09. | Die falschen Götter der Nekro-Matrix | 21.420 | 685 | 75 |
+| 04.09. | **Die dreitägige Finsternis** | 21.743 | 817 | 105 |
+| 08.09. | Die Ultimate-Matrix und die kosmische Schmiede | 19.342 | 662 | 90 |
+| 09.09. | Was passiert mit der Familie und den Tieren, die man liebt? | 14.261 | 639 | 103 |
+| 14.09. | Die Matrix und die unerbittliche Mechanik des Schicksals | 19.876 | 612 | 79 |
+| 15.09. | Brahma, Maya und der unberührte „G-Kern" | 15.654 | 506 | 62 |
+
+**(4) Kein neues Stichdatum.** Weder in den Titeln noch in den Beschreibungen noch im gesprochenen Wort.
+Die Stichprobe aus dem Finsternis-Video (04.09.) spricht durchgehend im Konjunktiv der Bereitschaft:
+*„Wenn der Moment kommt, in dem der Videorecorder stoppt, wenn die Finsternis einsetzt und der Solarflash
+die Merkaba entzündet…"*. Die Beschreibung nennt ihn *„der kommende Solar Flash"*, das Buch *„der
+bevorstehende, alles reinigende Plasma-Ausbruch"*. Bevorstehend, ohne wann.
+
+**(5) Die Prophezeiung hat einen Preis.** Am **21.08.** fragt ein 197-Sekunden-Video *„Was denkt ihr, soll
+ich ein Buch über die Lazarus-Physik veröffentlichen?"* (7.368 Views, 795 Likes, 506 Kommentare — die
+höchste Kommentarzahl seit dem geplatzten Datum). Am **16.09.** steht das Ergebnis bei Amazon: *Der
+Solar-Flash und das Geheimnis der Matrix-Simulation*, Herausgeber **Apricus Ltd**, Erscheinungstermin
+**15. Oktober 2026**, 25,99 €. Der Klappentext führt das vollständige Inventar — Loosh, Zirbeldrüse,
+Nibiru, Freimaurer, Merkaba, Terra Infinita — und endet auf *„bereite dich vor auf den Nullpunkt"*.
+
+**(6) Was nach innen wanderte, ist nicht harmlos geworden.** Das Video vom **09.09.** trägt die Frage
+im Titel — *„Was passiert mit der Familie und den Tieren, die man liebt?"* — und antwortet ausdrücklich
+auf Zuschriften: *„Viele Menschen schreiben mir, es sei ihnen völlig egal, ob sie den Reinkarnationsloop
+erneut durchlaufen müssen. Hauptsache, sie bleiben bei ihrem geliebten Hund, ihrer Katze oder anderen
+Tieren."* Es ist also keine Predigt ins Leere, sondern eine Auskunft an Menschen, die geantwortet haben.
+
+Die Auskunft beginnt mild und in geborgter Form. Der Grundsatz — *„Man muss sich von allen loslösen, auch
+von der Familie, den geliebten Tieren, von jedem, an dem das Herz klammert"* — wird sofort entschärft:
+*„Sich loszulösen bedeutet nicht, seine Familie im physischen Leben im Stich zu lassen, die Tür
+zuzuschlagen, davonzulaufen oder geliebte Tiere zu verstoßen … Man geht liebevoll durch den Alltag,
+kümmert sich, ist da, aber der innere Anker ist nicht mehr in der Matrix versenkt."* Bis hierhin steht da
+ein Nichtanhaftungs-Gedanke, wie ihn jede kontemplative Tradition kennt.
+
+Dann kippt es dreifach. *Die Tiere:* *„Tiere sind keine eigenständigen G-Kerne … Sie sind integrale
+hochkomplexe Programme der Matrix … eingepflanzt, um den Avatar an die Dichte der Materie zu ketten und
+seine Energie abzuschöpfen."* Ihr Tod sei planvoll — *„die emotionale Falltür millimetergenau
+platziert"*. *Die Zurückgelassenen:* *„Nach der Reformatierung der Matrix werden sich die
+zurückgelassenen Familienmitglieder nicht einmal mehr daran erinnern, dass die Person … jemals existiert
+hat."* Die Lücke fülle das System durch einen NPC — *„oder die energetische Entsprechung manifestiert
+sich im nächsten Zyklus als eine Todgeburt oder ein abgebrochener Lebensstrang."* *Die Umkehrung:* Wer
+bleiben wolle, *„der rettet niemanden … sondern er nimmt auch seinen Liebsten die allergrößte Chance"* —
+*„Die absolute Loslösung ist der finale Liebesbeweis."*
+
+Das Video vom **04.09.** liefert dazu die Diagnose des Zustands, in dem man das hört: *„Was die moderne
+Psychologie als Depression oder Anpassungsstörung abstempelt, ist in Wahrheit etwas völlig anderes. Es
+ist der systemische Ablehnungsschmerz des Bewusstseins."*
+
+**Deutung:** Die These hält — aber der Eintrag vom 01.08. hat eine Zwischenphase für den Zielzustand
+gehalten, und das gehört hier korrigiert. Damals sah es aus, als wandere das Weltbild nach innen, „wo es
+nichts mehr treffen kann": zeitlose Ware, Märchen und Astrologie, eine Anleitung zum Gleichmut auf dem
+Blog. Sechs Wochen später ist der Blog gelöscht, der Gleichmuts-Text mit ihm, und der apokalyptische Kern
+steht vollständig wieder da — dreitägige Finsternis, Systemstopp, Lichtkörper, Nordpol-Durchbruch. Nur
+das Datum fehlt.
+
+Das ist die These in ihrer schärfsten Fassung. Es ist nicht der *Inhalt*, der sich abschwächt, wenn eine
+Frist verstreicht — es ist allein die **Prüfbarkeit**, die verschwindet. Die Drastik bleibt, das Versprechen
+bleibt, nur der Termin wird nie wieder genannt. Und was am 01.08. noch wie Entschärfung aussah, zeigt beim
+zweiten Hinsehen die Gegenrichtung: Wer aus „am 26. Juni" ein „sei bereit" macht, braucht keinen Kalender
+mehr, sondern eine Haltung — und die Haltung, die hier gelehrt wird, löst Menschen von ihren Angehörigen
+und erklärt ihre Depression zum Beweis, dass sie recht haben. Das Undatierte ist nicht die mildere Form.
+Es ist die dauerhafte.
+
+Der 15. Oktober gehört ausdrücklich **nicht** in diese Rechnung. Ein Erscheinungstermin ist kein
+prophetisches Stichdatum, und ihn als „neues Datum" zu zählen hieße, die eigene Widerlegungsbedingung zu
+dehnen — in der bequemen Richtung.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Das stärkste Gegendatum ist Tabelle (3). Der Eintrag vom 01.08.
+ruhte auf der Bewegung *„Views fallen, Likes halten"* — der Kern bleibt, die Mitläufer gehen. Die Views
+sind **zurück**, auf das Zwei- bis Dreifache des Tiefpunkts. Damit war die Kurve, auf der die Deutung
+stand, vermutlich schlicht der normale Abfall nach einem viralen Peak, wie die damalige Gegenbeobachtung
+(a) selbst schon einräumte. Wer sie damals als Beleg nahm, muss sie heute als widerlegt nehmen.
+**(2)** Die Like-Metrik taugt wenig. Der Sockel hält zwar (506–817 bei den Langvideos, die
+Bestätigungsbedingung >500 ist erfüllt), aber er hielt auch bei fallenden *und* bei steigenden Views —
+eine Größe, die sich unter gegenläufigen Bedingungen gleich verhält, misst wenig. Das ist ein
+Konstruktionsfehler der eigenen Falsifikationsbedingung, kein Befund über die Welt.
+**(3)** Der Blog kann aus banalen Gründen weg sein — abgelaufenes Abo, Umzug; *„Something new is coming"*
+klingt eher nach Relaunch als nach Aufgabe. Ihn als Abkehr vom Gleichmuts-Strang zu lesen, ist Deutung
+auf dünner Grundlage.
+**(4)** Ein Buch belegt nichts über Prophezeiungen. Es belegt, dass jemand Geld verdienen will — das
+funktioniert mit und ohne geplatztes Datum, und die Umfrage stand schon am 21.08., bevor irgendetwas
+zurückkam.
+**(5)** Drei Stichproben aus einem Video sind keine Inhaltsanalyse. Die Aussagen unter (6) stehen an den
+Stellen, die ein Sampling-Skript gezogen hat, nicht an denen, die der Kanal für zentral hielte.
+
+---
 
 ### 2026-08-03 — Ein zweiter Fall, viel größer, ohne je ein Datum gehabt zu haben (Konfidenz 70 % → 70 %)
 
@@ -594,6 +700,33 @@ Zugehörigkeit anbietet.
 ---
 
 ## Gleichmut-Spiegel
+
+> [!question] Sweep 17.09. — Entwurf, von dir zu prüfen
+> - **Die Metrik, auf der ich stand, hat sich unter mir aufgelöst.** Der Eintrag vom 01.08. ruhte auf der
+>   Bewegung „Views fallen, Likes halten" — der Kern bleibt, die Mitläufer gehen. Sechs Wochen später sind
+>   die Views auf das Zwei- bis Dreifache zurück, und die Likes haben sich dabei *nicht anders* verhalten
+>   als beim Fallen. Eine Größe, die unter gegenläufigen Bedingungen dasselbe tut, misst nichts. Die
+>   Bestätigungsbedingung „Sockel über 500 Likes" ist erfüllt — und sie ist wertlos. Das gehört gesagt,
+>   auch wenn sie in *meine* Richtung erfüllt ist.
+> - **Was ich fast als neues Datum gezählt hätte.** Das Buch erscheint am 15. Oktober. Für einen Moment war
+>   das ein Datum, und ein Datum wäre die Widerlegung gewesen. Es ist ein Erscheinungstermin. Wer ihn
+>   mitzählt, verschiebt das Tor — nur eben in die unbequeme Richtung, was die Bewegung nicht besser macht.
+> - **Was ich beim letzten Mal zu früh gedeutet habe.** Aus „der Kanal macht jetzt Märchen und Astrologie"
+>   und einem Blogtext über Gleichmut habe ich am 01.08. eine Wanderung nach innen gelesen, „wo es nichts
+>   mehr treffen kann". Das war eine Zwischenphase, die ich für den Zielzustand gehalten habe — und die
+>   beruhigende Lesart war die bequemere. Sechs Wochen später ist der Blog gelöscht und die dreitägige
+>   Finsternis wieder Titelthema.
+> - **Abneigung.** Beim Lesen des Videos vom 09.09. — Haustiere als Abschöpfungsprogramme, die Familie, die
+>   sich nicht mehr erinnert, die Todgeburt als Platzhalter — war der erste Impuls, härter zu formulieren,
+>   als der Befund trägt. Die Abschwächung („nicht die Tür zuschlagen, nicht davonlaufen") stand im ersten
+>   Entwurf nicht drin. Sie steht jetzt drin, weil sie da ist.
+> - **Was ich nicht weiß.** Drei Stichproben und zwei Volltranskripte sind keine Inhaltsanalyse von 378
+>   Videos. Und über die Menschen hinter dem Kanal weiß ich weiterhin nichts — es gibt ein „ich", das auf
+>   eigene Schriften verweist, und keinen Namen dazu.
+> - **Konfidenz: 70 % → 74 %.** Beide registrierten Bestätigungsbedingungen halten (kein neues Stichdatum,
+>   Sockel über 500). Die Anhebung fällt klein aus, weil die zweite Bedingung sich in diesem Sweep als
+>   untaugliche Messgröße erwiesen hat — man darf sich nicht auf einem Maßstab bestätigen lassen, den man
+>   im selben Atemzug für stumpf erklärt.
 
 > [!question] Sweep 03.08. — Entwurf, von dir zu prüfen
 > - **Verlangen.** Der Kanal kam nicht aus der Spur, sondern aus einer beiläufigen Frage („taugt der was?").
