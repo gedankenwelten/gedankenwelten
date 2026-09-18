@@ -346,6 +346,10 @@ Die Konsequenz: Wer aufgeklärtes Denken will, kann das nicht als individuelles 
 
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] — El-Mafaalani: Vertrauen als Fundament gesellschaftlichen Zusammenhalts. Moukheiber: Vertrauen als "unsichtbarer Kit der Zivilisation", der durch KI und Algorithmen systematisch untergraben wird. Misstrauensgesellschaften entstehen, wenn die Mechanismen kollektiver Intelligenz zerstört werden.
 
+### → [[KI-Agenten — Vom Dorf zur Zivilisation]]
+
+KI-Agenten zeigen die Form menschlicher Konformität ohne ihren Grund: Sie folgen Influencern, weil unsere Texte es so zeichnen, nicht weil sie Zugehörigkeit brauchen.
+
 ---
 
 - [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]] — Urners KI-Paradox ("Menschen denken wie Maschinen, nicht umgekehrt") trifft auf Moukheibers neuropsychologische Analyse des sozialen Gehirns: Das Gehirn ist primär auf andere ausgerichtet (Theory of Mind), nicht auf sequentielle Informationsverarbeitung. Urners Hope Theory (Will Power + Way Power als kognitive Kapazitäten) lässt sich in Moukheibers Rahmen übersetzen — beide stellen gegen das maschinelle Menschenbild das soziale, auf Resonanz angewiesene Gehirn.

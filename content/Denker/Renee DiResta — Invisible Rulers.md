@@ -438,3 +438,6 @@ Der philosophische Überbau zu DiRestas Springfield-Befund: „Kein einziger Akt
 
 Laschyk übersetzt DiRestas Befund ins Deutsche und setzt den Hebel beim Geld an, das Reichweite kauft, statt beim Ranking. Beide halten den reinen Faktencheck für zu schwach und ziehen daraus verschiedene Schlüsse.
 
+### → [[KI-Agenten — Vom Dorf zur Zivilisation]]
+
+Im Minecraft-Experiment Project Sid folgten die Stimmen simulierter Bürger den eingebauten Steuer-Influencern — DiRestas Mechanismus im Labormaßstab.

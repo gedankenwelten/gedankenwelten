@@ -197,6 +197,10 @@ Empirische Flanke zu Misselhorns philosophischem Rechnen-vs-Denken: Spitzers Neu
 
 Der offene Gegensatz. Ronnie Vuines Position gegen die Alignment-Debatte behandelt eine kommende Intelligenz als Gegenüber, dem man Kultur zeigt, statt als Gerät, das man festbindet — sein Einwand, auf ein gemeinsames Wertesystem werde man sich nie einigen, trifft Misselhorns Prinzipien, ihr Verantwortungsargument trifft seine Erziehungsidee zurück. Zweite Naht bei der Kunst: Sein Grounding-Argument, eine KI könne nicht in den Wald gehen, ist die technische Fassung der *Fake Art*-These.
 
+### → [[KI-Agenten — Vom Dorf zur Zivilisation]]
+
+Smallville-Figuren antworten glaubwürdiger als Menschen, ohne dass ihnen je etwas wichtig gewesen wäre — empirisches Material für Misselhorns Grenze zwischen Simulieren und Erleben.
+
 ---
 
 ## Weiterdenken

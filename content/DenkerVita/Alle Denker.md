@@ -229,6 +229,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## J
 
+**[[DenkerVita/Joon Sung Park|Joon Sung Park]]** — Informatiker (Stanford-PhD bei Bernstein & Liang, Mitgründer und CEO von Simile); Erfinder der Generative Agents: das „Smallville"-Dorf mit 25 KI-Agenten (Gedächtnis, Reflexion, Planung), 2024 Agenten-Simulationen von 1.052 realen Menschen — Gesellschaftssimulation als Labor für Entscheidungen
+
 **[[DenkerVita/Jihan Alomar|Jihan Alomar]]** — Jesidische Überlebende des Völkermords vom 3. August 2014, Zeitzeugin & Bildungsreferentin; mit zehn Jahren zehn Monate in IS-Gefangenschaft, heute Tübingen; Buch *Dankbarkeit — Die schlimmste Zeit meines Lebens* (2021), HÁWAR.help-Wertebotschafterin, Protagonistin von „Bêmal — Heimatlos"
 
 **[[DenkerVita/Jan van Aken|Jan van Aken]]** — Biologe, 2004–2006 UN-Biowaffeninspekteur, zuvor Greenpeace-Gentechnikexperte; Vorsitzender der Linken von Oktober 2024 bis Juni 2026; Primat des Zivilen, strukturelle Nichtangriffsfähigkeit (nach Egon Bahr), EU- und Landesverteidigung ja — weltweite Machtprojektion nein

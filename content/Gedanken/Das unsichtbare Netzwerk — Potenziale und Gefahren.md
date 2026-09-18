@@ -128,6 +128,10 @@ Die Dystopie zeigt die Zuspitzung dieser Macht: Je unentrinnbarer das Netzwerk, 
 
 Teil drei der Reihe wendet den hier beschriebenen Doppelcharakter auf ein einzelnes Wort an: Ubuntu trug Verfassungen und kippte Todesurteile — und wurde zur Einheits-Rhetorik, die Kritiker zum Schweigen bringt. Werkzeug und Waffe, diesmal als Vokabel.
 
+### → [[KI-Agenten — Vom Dorf zur Zivilisation]]
+
+Die höflichen KI-Figuren aus Smallville sind ein kleines Duplikat der simulierten Resonanz, vor der diese Note warnt — geglättet durch ein Training auf Hilfsbereitschaft.
+
 ---
 
 ## Weiterdenken

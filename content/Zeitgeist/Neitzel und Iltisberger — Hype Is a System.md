@@ -229,6 +229,10 @@ Der epistemische Zwilling im Klimafeld: Beide handeln vom Lesen von Zukunftsauss
 
 Der Contrarian aus der Fragerunde in Person. Vuine ist der nüchterne Fachmann, dessen Einwand — diese Technologie hat reale Grenzen — strukturell nicht durchs Attention System kommt; er löst es durch Zuspitzung, und der Kanal verkauft es als „brutale Wahrheit". Kritik, die den Loop bedient, den sie kritisiert. Sein Argument gegen die Alignment-Debatte leitet außerdem den Skynet-Effekt unabhängig her: Wer „die Menschheit" definiert, herrscht über dieses Wir.
 
+### → [[KI-Agenten — Vom Dorf zur Zivilisation]]
+
+Ein Fall zum Beobachten: Das Paper zu Project Sid nennt seine Grenzen offen, Video und Presse machen daraus „KI erschafft Zivilisation".
+
 ---
 
 ## Weiterdenken
