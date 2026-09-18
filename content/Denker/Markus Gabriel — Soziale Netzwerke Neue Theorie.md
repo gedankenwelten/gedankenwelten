@@ -196,3 +196,7 @@ Heitmeyers Diagnose digitaler Plattformen als „Verrohungsmaschinen" ist die em
 ### → [[Marcant — Ausstieg aus der rechten Szene]]
 
 Erfahrungsbericht zur Triangulations-These: Marcant beschreibt die algorithmische Radikalisierungsspirale als Erlebnisprotokoll dessen, was Gabriel als „Sozialität ohne korrigierenden Gegenstand" analysiert. *„Die Flut"* als Gegenstrategie (Community-Gegencontent) ist der Versuch, Triangulation in gegenstandslosen Räumen künstlich herzustellen.
+
+### → [[KI-Agenten — Vom Dorf zur Zivilisation]]
+
+*Social Simulacra* will Plattformen vorab mit simulierten Nutzern gegen Trolle und Brände testen; Parks Folgestudie misst Agenten wieder an echten Menschen — Triangulation zurück.

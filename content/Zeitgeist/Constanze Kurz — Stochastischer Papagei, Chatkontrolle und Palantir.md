@@ -230,6 +230,10 @@ Dieselbe Palantir-Infrastruktur am anderen Ende: Was Kurz als zivile Überwachun
 
 Dieselbe Entmythologisierung philosophisch statt technisch: Wo Kurz den stochastischen Papagei zeigt, erklärt Misselhorn über das chinesische Zimmer, warum Syntax nie Semantik wird — und warum die Vermenschlichung trotz besseren Wissens wirkt (Empathie als Illusion).
 
+### → [[KI-Agenten — Vom Dorf zur Zivilisation]]
+
+Der Papagei im Dorf: Wenn KI-Agenten aus unseren Texten eine Gesellschaft nachspielen, ist das technisch Emergenz und zugleich Echo. Die Note hält beides nebeneinander.
+
 ---
 
 ## Weiterdenken

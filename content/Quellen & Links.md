@@ -4504,3 +4504,16 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Quellenliste des Kanals** | [Proton Drive](https://drive.proton.me/urls/FP06ANQSF4#QIOq0iTOb19Q) |
 | **Buch** | *Werbung für die Wahrheit* (Komplett-Media 2024) — [genialokal](https://www.genialokal.de/Suche/?q=laschyk+werbung+wahrheit) |
 | **Transkript** | `Gedankenwelten/Transkripte/Laschyk_Vermoegenssteuer_FakeNews_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Joon Sung Park / Project Sid — KI-Agenten vom Dorf zur Zivilisation
+
+| | |
+|---|---|
+| **Vortrag** | [Generative Agents: Interactive Simulacra of Human Behavior — Joon Sung Park (Stanford)](https://www.youtube.com/watch?v=XY5Wncq5vAE) — CLSP, Johns Hopkins, 25.08.2023 (45 Min.) |
+| **Video** | [1000 AI NPCs simulate a CIVILIZATION in Minecraft](https://www.youtube.com/watch?v=2tbaCn0Kl90) — Fundamental Research Labs (vormals Altera), 03.09.2024 (2:35) |
+| **Video (Rezeption)** | [GRUSELIG! KI erschafft Zivilisation in Minecraft](https://www.youtube.com/watch?v=ptQKzC-xgzY) — PC-WELT, 10.12.2024 (7 Min.) |
+| **Papers** | [Generative Agents](https://arxiv.org/abs/2304.03442) · [Social Simulacra](https://arxiv.org/abs/2208.04024) · [1,000 People](https://arxiv.org/abs/2411.10109) · [Project Sid](https://arxiv.org/abs/2411.00114) |
+| **Notiz** | [[Geistesblitz/KI-Agenten — Vom Dorf zur Zivilisation]] |
+| **DenkerVita** | [[DenkerVita/Joon Sung Park]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Park_Smallville_Generative_Agents_Transkript.txt` (YouTube, englisch) · `Altera_ProjectSid_Transkript.txt` (YouTube, englisch) · `PCWELT_ProjectSid_Transkript.txt` (Whisper, deutsch) |
+

@@ -8,7 +8,7 @@ aliases:
 
 # Datenschutzerklärung
 
-Stand: 16. September 2026
+Stand: 18. September 2026
 
 ## 1. Verantwortlicher
 
@@ -32,6 +32,8 @@ Diese Website wird auf eigener Infrastruktur betrieben (ein Server in Deutschlan
 Wir verwenden [Umami](https://umami.is/), eine cookielose, datenschutzfreundliche Webanalyse auf unserer eigenen Infrastruktur. Umami setzt **keine Cookies** und speichert **keine IP-Adressen**. Erfasst werden nur: aufgerufene Seite, Verweildauer, Referrer, Browser, Betriebssystem und Gerätetyp (aus der Browser-Kennung, die jeder Browser ohnehin mitschickt) sowie der **ungefähre Standort (Land, Region, Stadt)**. Den Standort leitet Cloudflare beim Aufruf aus der IP-Adresse ab und übergibt nur das Ergebnis. Bildschirmgröße und Spracheinstellung, die Umami üblicherweise ebenfalls überträgt, schicken wir bewusst nicht mit.
 
 Auf den Textseiten zählen wir zusätzlich, **wie lange und wie weit ein Text gelesen wurde**: die Sekunden, in denen die Seite sichtbar ist und gescrollt oder bewegt wird, und bis zu welchem Anteil des Textes gescrollt wurde. Beides wird beim Verlassen der Seite als zwei Zahlen übertragen, ohne weitere Angaben und nach denselben Regeln wie der Seitenaufruf. So sehen wir, ob ein Text gelesen oder nur angeklickt wird.
+
+Wird auf einer Textseite der eingebettete Videoplayer benutzt, zählen wir außerdem, **wie lange das Video lief** und wodurch es gestartet wurde (ein Zitat, eine Zeitmarke oder der Player selbst), sowie ob der Player blockiert war. Auch das sind nur Zahlen, übertragen beim Verlassen der Seite nach denselben Regeln. Wer den Player nicht benutzt, sendet nichts davon.
 
 **Nicht gezählt werden:** Wer [diesen Link](/?nicht-zaehlen) einmal antippt (oder eine beliebige Adresse dieser Website mit dem Zusatz `?nicht-zaehlen` aufruft), wird in diesem Browser nicht mehr erfasst. Die Einstellung liegt nur im eigenen Browser; eine als App auf dem Home-Bildschirm abgelegte Seite hat ihren eigenen Speicher und braucht den Link dort noch einmal. [Wieder zählen lassen](/?wieder-zaehlen) hebt sie auf.
 

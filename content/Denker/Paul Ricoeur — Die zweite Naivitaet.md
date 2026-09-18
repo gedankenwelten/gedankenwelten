@@ -234,6 +234,10 @@ Was Ricœur 1993 als kommendes Problem benennt, rechnet Butterwegge für die deu
 ### → [[Polarisierung als Ideologisierungsfalle]]
 „Der Bruder, der ein Verräter ist, ist ein Bruder, bevor er ein Verräter ist" — Ricœurs Antigone-Satz markiert genau die Schwelle, an der diese Note die Ideologisierung ansetzen sieht: Sobald eine Position zur Identität wird, ist der andere zuerst Gegner und erst danach Mensch. Sein Nachsatz zur Empörung passt dazu wie der Schlüssel ins Schloss: Sie ist intakt und findet immer den anderen schuldig; die Fähigkeit zur Selbstanklage ist die schwächere.
 
+### → [[KI-Agenten — Vom Dorf zur Zivilisation]]
+
+Die Smallville-Agenten erzählen sich aus ihren Handlungen eine Identität, per Reflexionsbaum: narrative Identität als Rechenverfahren. Was ihnen fehlt, ist Ricœurs zweite Hälfte, das Erleiden.
+
 ---
 
 ## Weiterdenken
