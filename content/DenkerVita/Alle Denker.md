@@ -69,6 +69,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Sven Beckert|Sven Beckert]]** — Historiker (Laird Bell Professor, Harvard); Globalgeschichte des Kapitalismus, „Kriegskapitalismus“ — Sklaverei, Landraub und Gewalt als konstitutive Grundlage des Kapitalismus, nicht als seine Vorgeschichte
 
+**[[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]]** — Lutherischer Theologe und Widerstandskämpfer (1906–1945), hingerichtet in Flossenbürg; Dummheit als sozialer Zustand unter Macht („Befreiung, nicht Belehrung“), billige vs. teure Gnade, Verantwortung als Schuldübernahme, religionsloses Christentum — und eine Legende, die ihn ständig zur Ikone rundet
+
 **[[DenkerVita/Leon Black|Leon Black]]** — US-Finanzmilliardär, Mitgründer und Ex-CEO von Apollo Global Management; zentrale Figur im Epstein-Komplex (170 Mio. USD an Epstein für Steuerberatung), Kunstsammler (Munchs „Schrei"); bestreitet alle Missbrauchsvorwürfe, vor dem House Oversight Committee 2026
 
 **[[DenkerVita/Joerg Baberowski|Jörg Baberowski]]** — Historiker (HU Berlin), Gewalt- und Stalinismusforscher; Gewalt als eigene Logik (jenseits der Ideologie), Herrschaft als Naturgesetz des Staates, Liberalismus ≠ Demokratie; renommiert und polarisierend zugleich

@@ -94,6 +94,7 @@ Er ist kein Linker, kein Konservativer, kein Liberaler im parteipolitischen Sinn
 - [[DenkerVita/Theodor W. Adorno]] — Adornos „Erziehung nach Auschwitz" stellt dieselbe Frage wie Aly, aber philosophisch statt historisch-empirisch. Aly misstraut der Frankfurter Schule — zu abstrakt, zu wenig Archivarbeit.
 - [[DenkerVita/Tilo Jung]] — Als Interviewer hat Jung zwei der wichtigsten Aly-Gespräche geführt (Folge 553 und 781). Jungs Methode des geduldigen Zuhörens passt zu Alys ausführlichem Erzählen.
 - [[DenkerVita/Steffen Mau]] — Maus Analyse der „Triggerpunkte" in der modernen Gesellschaft ergänzt Alys Befund, dass gesellschaftliche Kipppunkte nicht ideologisch, sondern strukturell entstehen.
+- [[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]] — Aly rekonstruiert aus den Akten, was Bonhoeffer 1942 von innen beobachtet hat, und liefert dabei den handfesten Einwand gegen ihn. Wo Bonhoeffer einen Bann sieht, in den die Menschen geschlagen werden, zeigt Aly einen Handel: Sozialleistungen, Steuerentlastung, Waren aus geplünderten Ländern — ein Regime, das sich die Zustimmung kaufte. Das macht die Dummheit weniger unschuldig, als der Essay sie erscheinen lässt, denn wer profitiert, hat einen Grund wegzusehen, und der Grund heißt Rechnung, nicht Verblendung. Zusammen ergeben Anthropologie und Buchführung das vollständigere Bild.
 
 ---
 

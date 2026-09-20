@@ -102,6 +102,7 @@ Die philosophische Wirkung ist davon nicht abtrennbar, aber auch nicht darauf re
 
 - [[DenkerVita/Hannah Arendt]] — Schülerin, Geliebte, lebenslange intellektuelle Gegenspielerin. Arendt verteidigte sein Denken und kritisierte seine Politik. Ihre Konzepte der *Natalität* und des *Handelns* sind Gegenentwürfe zu Heideggers Sein-zum-Tode
 - [[DenkerVita/Arthur Schopenhauer]] — Beide sehen das Leben als Herausforderung, nicht als Geschenk. Schopenhauers *Wille zum Leben* resoniert mit Heideggers *Sorgecharakter des Daseins* — der Ruf des Gewissens, der zum Weiterleben ruft
+- [[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]] — der Theologe, der ihn früh las und dann den entgegengesetzten Weg ging. In *Akt und Sein* (1930) arbeitet Bonhoeffer sich an *Sein und Zeit* ab und hält dem Dasein vor, es bleibe in sich verschlossen und könne sich nicht von innen aufbrechen — dafür brauche es ein Wort von außen. Drei Jahre später steht Bonhoeffer am 1. Februar im Rundfunk und sagt, aus dem Führer werde der Verführer, während Heidegger im Mai in die NSDAP eintritt und als Freiburger Rektor die Rede vom Dienst des Wissens am Volk hält. Heideggers *Man* ist die philosophische Fassung dessen, was Bonhoeffer 1942 Dummheit nennen wird — und dass ihr Erfinder ihr selbst erlag, ist Bonhoeffers schärfstes Beispiel dafür, dass Intelligenz nicht schützt
 
 ---
 

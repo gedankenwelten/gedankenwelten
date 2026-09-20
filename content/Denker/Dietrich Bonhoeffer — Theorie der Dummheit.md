@@ -53,6 +53,8 @@ Ergänzende Quelle: [Dietrich Bonhoeffer: A Story of Courage and Faith](https://
 >
 > Wichtigste Werke: *Nachfolge* (1937), *Gemeinsames Leben* (1939), *Widerstand und Ergebung* (posthum 1951), *Ethik* (posthum 1949)
 > Kernkonzepte: Dummheit als soziales Phänomen, billige vs. teure Gnade, Stellvertretung, religionsloses Christentum, Civilcourage
+>
+> → [[DenkerVita/Dietrich Bonhoeffer|DenkerVita]]
 
 ---
 
@@ -78,7 +80,7 @@ Im Herbst 1930 kam er nach New York, vierundzwanzig Jahre alt, promoviert, habil
 
 Bonhoeffer kaufte Schallplatten mit Spirituals. Er behielt sie bis zuletzt. Mit Fisher ging er in die Armenviertel, und auf einer Reise durch den Süden sah er, was Jim Crow hieß.
 
-Er schrieb später: *„Nur unter den Schwarzen, den Unterdrückten, gibt es in diesem Land echte Religion."*
+In seinem Bericht über das Studienjahr schrieb er, in den schwarzen Kirchen habe er das Evangelium wirklich predigen hören.
 
 Glaube, das nahm er aus Harlem mit, entsteht dort, wo Menschen auf das Leiden stoßen und dennoch singen. Jahre später wird er dafür ein Wort haben: teure Gnade, eine Gnade, die etwas kostet.
 
@@ -235,7 +237,7 @@ In *Nachfolge* (1937) steht derselbe Grundgedanke schon einmal, fünf Jahre frü
 - Abendmahl ohne Beichte
 - Rechtfertigung der Sünde, nicht des Sünders
 
-> *„Billige Gnade ist die Gnade, mit der wir uns selbst absolvieren."*
+> *„Billige Gnade ist die Gnade, die wir mit uns selbst haben."*
 
 **Teure Gnade** nennt das Böse böse. Sie fordert Nachfolge, tätig, konkret, kostspielig. Sie ruft den Menschen aus seinem Leben heraus, wo die billige ihn im behaglichen Weiterleben bestätigt.
 
@@ -279,7 +281,7 @@ Den Satz dazu hatte er schon im April 1933 geschrieben, in dem Aufsatz „Die Ki
 
 Zehn Jahre später hat er es getan.
 
-Seine Wirkung reicht weit über Deutschland hinaus: Martin Luther King und Erzbischof Desmond Tutu haben beide Bonhoeffer als eine der prägenden Inspirationsquellen ihres Widerstands gegen Unrecht benannt.
+Am weitesten trug der Text dorthin, wo wieder eine Kirche vor einem Unrechtsstaat stand. In Südafrika nannte Eberhard Bethge den Pfarrer Beyers Naudé schon 1971 „Südafrikas Bonhoeffer", und das Kairos-Dokument von 1985 wandte die Unterscheidung von billiger und teurer Gnade auf die Versöhnung an: Auch die kann billig sein. Desmond Tutu schrieb rückblickend, die Gefängnisbriefe hätten „viele von uns in Südafrika" inspiriert. *(Faktencheck: Der oft behauptete Einfluss auf Martin Luther King ist nicht belegt — siehe unten.)*
 
 > [!quote]
 > *„Nicht das Beliebige, sondern das Rechte tun und wagen —*
@@ -294,7 +296,7 @@ Seine Wirkung reicht weit über Deutschland hinaus: Martin Luther King und Erzbi
 
 ## Faktencheck
 
-Um Bonhoeffer hat sich eine Legende gelegt, und sie rundet stets in dieselbe Richtung: das griffigere Zitat, der eindeutigere Gegner, der tröstlichere Tod. Vier Stellen, an denen auch diese Note ihr bis September 2026 gefolgt ist.
+Um Bonhoeffer hat sich eine Legende gelegt, und sie rundet stets in dieselbe Richtung: das griffigere Zitat, der eindeutigere Gegner, der tröstlichere Tod. Fünf Stellen, an denen auch diese Note ihr bis September 2026 gefolgt ist.
 
 > [!danger] Falsch zugeschrieben — „Schweigen angesichts des Bösen ist selbst Böses"
 > Das im Netz meistgeteilte Bonhoeffer-Zitat (*„… Nicht zu sprechen ist zu sprechen. Nicht zu handeln ist zu handeln."*) stand auch hier. In den *Dietrich Bonhoeffer Werken* ist es nicht nachweisbar; Clifford Green, Herausgeber der englischen Werkausgabe, und die Historikerinnen Victoria Barnett und Doris Bergen haben es vergeblich gesucht. Der früheste Beleg ist eine Ausstellung des Liberty Museum in Philadelphia (1998), verbreitet hat es die Bonhoeffer-Biografie von Eric Metaxas (2010). → [Warren Throckmorton: The Popular Bonhoeffer Quote That Isn't in Bonhoeffer's Works](https://wthrockmorton.com/2016/08/25/the-popular-bonhoeffer-quote-that-isnt-in-bonhoeffers-works/) · [Quellendokumentation „Pseudo-Bonhoeffer"](https://liberlocorumcommunium.blogspot.com/2016/03/pseudo-bonhoeffer.html)
@@ -307,6 +309,12 @@ Um Bonhoeffer hat sich eine Legende gelegt, und sie rundet stets in dieselbe Ric
 
 > [!warning] Nicht belegt — Zensur des Rundfunkvortrags
 > Dass der Vortrag vom 1. Februar 1933 auf staatliche Anweisung abgebrochen wurde, ist eine spätere Deutung. Belegt ist nur, dass er kurz vor Schluss ausgeblendet wurde; Bonhoeffer selbst hielt eine Überschreitung der Sendezeit für möglich. Hitler nennt der Vortrag nicht — er kritisiert den Führerbegriff als solchen, und gerade das macht ihn rückblickend so scharf. → [rundfunk.evangelisch.de: Bonhoeffers Radiovortrag „Führer und Verführer"](https://rundfunk.evangelisch.de/bonhoeffers-radiovortrag-fuehrer-und-verfuehrer-13740) · [dietrich-bonhoeffer.net](https://www.dietrich-bonhoeffer.net/leben/entscheidung/)
+
+> [!danger] Nicht belegt — Bonhoeffer als Inspiration für Martin Luther King
+> Die Paarung ist beliebt, seit beide 1997 nebeneinander als Märtyrer des 20. Jahrhunderts an der Westminster Abbey stehen. Eine Äußerung Kings über Bonhoeffer ist nicht nachgewiesen. J. Deotis Roberts, der King kannte und die Vergleichsstudie *Bonhoeffer and King* (2005) schrieb, fand nach John S. Conways Rezension „no evidence that Bonhoeffer's thought or actions influenced King". Kings belegte Prägungen heißen Gandhi, Niebuhr, Rauschenbusch. Einschränkung: Die Volltextsuche der King Papers (Stanford) war bei der Prüfung defekt — „kein Nachweis" ist nicht „nachweislich nie". → [Contemporary Church History Quarterly, Februar 2006](https://contemporarychurchhistory.org/2006/02/february-2006-newsletter/)
+
+> [!success] Bestätigt — Bonhoeffers Wirkung im Kampf gegen die Apartheid
+> John de Gruchy machte Bonhoeffer zum „partner in dialogue" südafrikanischer Theologie; Beyers Naudé verstand sein Christian Institute nach dem Vorbild der Bekennenden Kirche; das Kairos-Dokument (1985) spricht von „cheap reconciliation". Von Desmond Tutu gibt es ein Geleitwort zur Werkausgabe der Gefängnisbriefe (2010) — ein kollektives „viele von uns", keine Selbstauskunft über eine prägende Quelle. → [De Gruchy: Beyers Naudé — South Africa's Bonhoeffer?](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2413-94672015000100006) · [Meiring: Bonhoeffer and costly reconciliation in South Africa](https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052017000300003) · [Tutus Geleitwort, Fortress Press](https://www.fortresspress.com/store/product/9780800697037/Letters-and-Papers-from-Prison)
 
 ---
 

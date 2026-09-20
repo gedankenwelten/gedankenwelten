@@ -130,6 +130,12 @@ den aufkommenden Kollektivismus macht ihn zu einer unbequemen, unparteiischen St
 
 *(wird von Montaigne ergänzt — hier nur die offensichtlichen)*
 
+- [[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]] — die einzige zweite Stimme jener Jahre, die das Wort Dummheit ernst genug nahm, um es zu
+  definieren statt zu schimpfen. Musils Wiener Rede von 1937 trennt die schlichte von der „höheren,
+  prätentiösen“ Dummheit und nennt letztere eine Krankheit der Bildung; Bonhoeffer schreibt fünf Jahre
+  später denselben Befund — es gibt intellektuell außerordentlich bewegliche Menschen, die dumm sind.
+  Der Ton trennt sie: Musil seziert als Ironiker vor einem Publikum, das ihm noch zuhören darf,
+  Bonhoeffer schreibt ohne Ironie für drei Mitverschwörer, die daran sterben werden.
 - **Ernst Mach** — Musils Dissertationsgegenstand; Machs Einheit von Physik und Psychologie, die
   Auflösung des festen Ich, wird zum philosophischen Fundament des ganzen Werks.
 - **Friedrich Nietzsche** — früher, prägender Einfluss; die Umwertung fester Werte, der Mensch als

@@ -115,6 +115,9 @@ Arendt schätzte Camus als einen der wenigen integren Intellektuellen der Nachkr
 ### → [[DenkerVita/Ivan Krastev|Ivan Krastev]]
 Krastev denkt Arendts Erbe in die Gegenwart weiter: die Fragilität demokratischer Ordnungen, die Wiederkehr von Staatenlosigkeit und Migration als Prüfstein des „Rechts, Rechte zu haben". Wo Arendt den Zusammenbruch der Zwischenkriegszeit analysierte, kartiert Krastev die schleichende Erosion der liberalen Demokratie Europas — dieselbe Sorge um den öffentlichen Raum, ein Jahrhundert später.
 
+### → [[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]]
+Derselbe Jahrgang 1906, dieselbe Leerstelle — und ein Streit über das Gegenmittel. Bonhoeffer schreibt zum Jahreswechsel 1942/43 in Berlin über den Menschen, dem unter dem Eindruck der Macht die innere Selbständigkeit genommen wird und der aus Parolen spricht statt aus sich; Arendt beschreibt zwanzig Jahre später in Jerusalem einen, der schlicht aufgehört hat zu denken. Beide finden das Böse dort, wo niemand mehr urteilt. Getrennt sind sie bei der Rettung: Arendt braucht dafür die anderen, den öffentlichen Raum, die Pluralität — Bonhoeffer hält gerade die Gesellung für die Gefahr und sucht den Halt außerhalb jeder menschlichen Autorität.
+
 ---
 
 ## Gedankenwelten-Notes
