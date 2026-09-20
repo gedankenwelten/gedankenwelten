@@ -58,21 +58,11 @@ Die Gedankenwelten (luc)
 >
 > Vierzig Jahre Zählen ergeben einen Satz, der wehtut: Wer oben entscheidet, entscheidet nach seiner Herkunft — und die Herkunft wird gerade wieder enger.
 
-### Geistesblitz
-
-> **18.09.** — [[Geistesblitz/KI-Agenten — Vom Dorf zur Zivilisation|KI-Agenten — Vom Dorf zur Zivilisation]]
->
-> Fünfundzwanzig KI-Figuren feiern eine Party, tausend gründen eine Religion. Was diese Simulationen zeigen, hängt davon ab, wer genau hinsieht: an ihnen erkennen wir uns selbst.
-
-> **08.09.** — [[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering|Judith Mangelsdorf — Flourishing und Mattering]]
->
-> Ein Gefühl entscheidet mehr über ein Leben als Erfolg: ob jemand merkt, dass die Welt ohne ihn eine andere wäre. Und ob dieses Gefühl gerecht verteilt ist.
-
-> **11.08.** — [[Geistesblitz/Steelpan — Was aus einem Trommelverbot wurde|Steelpan — Was aus einem Trommelverbot wurde]]
->
-> Eine Kolonialverwaltung verbot die Trommel, eine Ölindustrie ließ Fässer liegen — und die Ärmsten von Port of Spain bauten daraus das Instrument, dessen Akustik bis heute niemand ganz versteht.
-
 ### Spuren
+
+> **20.09.** — [[Spuren/Burnhams-Massstab-was-ein-ausgesprochenes-Kriterium-aushaelt|Burnhams Maßstab — was ein ausgesprochenes Kriterium aushält]]
+>
+> Ein Premier nennt den Maßstab, an dem er sich messen lassen will — und verliert ihn im selben Atemzug an seine Gegner. Die Probe darauf, ob ein Satz eine Regierung binden kann.
 
 > **17.09.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
 >
@@ -90,9 +80,21 @@ Die Gedankenwelten (luc)
 >
 > Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 
-> **17.09.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
+> → *1 weitere in* [[Spuren]]
+
+### Geistesblitz
+
+> **18.09.** — [[Geistesblitz/KI-Agenten — Vom Dorf zur Zivilisation|KI-Agenten — Vom Dorf zur Zivilisation]]
 >
-> Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
+> Fünfundzwanzig KI-Figuren feiern eine Party, tausend gründen eine Religion. Was diese Simulationen zeigen, hängt davon ab, wer genau hinsieht: an ihnen erkennen wir uns selbst.
+
+> **08.09.** — [[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering|Judith Mangelsdorf — Flourishing und Mattering]]
+>
+> Ein Gefühl entscheidet mehr über ein Leben als Erfolg: ob jemand merkt, dass die Welt ohne ihn eine andere wäre. Und ob dieses Gefühl gerecht verteilt ist.
+
+> **11.08.** — [[Geistesblitz/Steelpan — Was aus einem Trommelverbot wurde|Steelpan — Was aus einem Trommelverbot wurde]]
+>
+> Eine Kolonialverwaltung verbot die Trommel, eine Ölindustrie ließ Fässer liegen — und die Ärmsten von Port of Spain bauten daraus das Instrument, dessen Akustik bis heute niemand ganz versteht.
 
 ### GoodNews
 
