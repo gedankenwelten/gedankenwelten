@@ -58,8 +58,6 @@ Die Gedankenwelten (luc)
 >
 > Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
 
-> → *2 weitere in* [[Spuren]]
-
 ### Zeitgeist
 
 > **16.09.** — [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
