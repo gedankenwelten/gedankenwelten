@@ -278,3 +278,7 @@ Ein Fall für die Herrschaft des Niemand, in dem niemand stirbt. Baden-Württemb
 ### → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
 
 Die Sudan-Leaks lesen sich wie ein Lehrstück der Herrschaft des Niemand: Chargen, Testprotokolle, tote Insekten nach Gaslecks in der Werkshalle. Nach den Dokumenten wussten die Planer allerdings genau, welche Abkommen sie brechen. Das stellt auf die Probe, wie weit Arendts Begriff der Gedankenlosigkeit reicht.
+
+### → [[DenkerVita/Lena Kotre]]
+
+Der Begriff in seiner Gegenwartsform: Was eine AfD-Landtagsabgeordnete öffentlich vorschlägt, kommt nicht als Gewaltfantasie daher, sondern als Verwaltungsvorgang — öffentliche Ausschreibung, Ressourcenmanagement, Zugriff, Transport, private Haftanstalten, Passbeschaffung. Arendts Beobachtung war nie, dass Täter Ungeheuer seien, sondern dass sich das Ungeheure in Zuständigkeiten zerlegen lässt, bis es niemandem mehr gehört. Hier ist es ein Vergabeverfahren. → [[Zeitgeist/Daniel - Lena Kotré plant private Abschiebeindustrie|die Note zum Konzept]]

@@ -27,11 +27,11 @@
    "aufrufe": 14
   },
   {
-   "pfad": "/DenkerVita/Mark-Reicher",
+   "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
    "aufrufe": 13
   },
   {
-   "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
+   "pfad": "/DenkerVita/Mark-Reicher",
    "aufrufe": 13
   },
   {
@@ -43,12 +43,12 @@
    "aufrufe": 10
   },
   {
-   "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
+   "pfad": "/DenkerVita/Mark-Reicher.html",
    "aufrufe": 9
   },
   {
-   "pfad": "/DenkerVita/Mark-Reicher.html",
-   "aufrufe": 8
+   "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
+   "aufrufe": 9
   },
   {
    "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
@@ -59,15 +59,11 @@
    "aufrufe": 7
   },
   {
+   "pfad": "/DenkerVita/Jihan-Alomar",
+   "aufrufe": 6
+  },
+  {
    "pfad": "/DenkerVita/Benjamin-Biersky",
-   "aufrufe": 6
-  },
-  {
-   "pfad": "/DenkerVita/Freddy-Leppin",
-   "aufrufe": 6
-  },
-  {
-   "pfad": "/DenkerVita/Udo-Marquardt",
    "aufrufe": 6
   },
   {
@@ -75,7 +71,11 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Jihan-Alomar",
+   "pfad": "/DenkerVita/Udo-Marquardt",
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Freddy-Leppin",
    "aufrufe": 6
   },
   {
@@ -83,19 +83,15 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
-   "aufrufe": 5
-  },
-  {
    "pfad": "/DenkerVita/Torsten-Heinrich",
    "aufrufe": 5
   },
   {
-   "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
-   "aufrufe": 4
+   "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
+   "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Marcant",
+   "pfad": "/Spuren/Trumps-Wille-geschehe",
    "aufrufe": 4
   },
   {
@@ -103,11 +99,11 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
+   "pfad": "/DenkerVita/Marcant",
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Katharina-Nocun",
+   "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
    "aufrufe": 4
   },
   {
@@ -115,11 +111,15 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/Spuren/Trumps-Wille-geschehe",
+   "pfad": "/DenkerVita/Katharina-Nocun",
    "aufrufe": 4
   },
   {
-   "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+   "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
    "aufrufe": 4
   },
   {
@@ -273,7 +273,7 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher.html",
-     "aufrufe": 7
+     "aufrufe": 8
     },
     {
      "pfad": "/DenkerVita/Jihan-Alomar",
@@ -517,11 +517,11 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
      "aufrufe": 13
     },
     {
-     "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
+     "pfad": "/DenkerVita/Mark-Reicher",
      "aufrufe": 13
     },
     {
@@ -533,12 +533,12 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
+     "pfad": "/DenkerVita/Mark-Reicher.html",
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
-     "aufrufe": 8
+     "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
+     "aufrufe": 9
     },
     {
      "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
@@ -549,15 +549,11 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Jihan-Alomar",
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/DenkerVita/Freddy-Leppin",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/DenkerVita/Udo-Marquardt",
      "aufrufe": 6
     },
     {
@@ -565,7 +561,11 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Jihan-Alomar",
+     "pfad": "/DenkerVita/Udo-Marquardt",
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Freddy-Leppin",
      "aufrufe": 6
     },
     {
@@ -573,19 +573,15 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Torsten-Heinrich",
      "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
-     "aufrufe": 4
+     "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
+     "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/Spuren/Trumps-Wille-geschehe",
      "aufrufe": 4
     },
     {
@@ -593,11 +589,11 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
+     "pfad": "/DenkerVita/Marcant",
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Katharina-Nocun",
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "aufrufe": 4
     },
     {
@@ -605,11 +601,15 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Spuren/Trumps-Wille-geschehe",
+     "pfad": "/DenkerVita/Katharina-Nocun",
      "aufrufe": 4
     },
     {
-     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
      "aufrufe": 4
     },
     {
@@ -746,11 +746,11 @@
      "aufrufe": 60
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
+     "pfad": "/DenkerVita/Hans-Maggi",
      "aufrufe": 41
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
      "aufrufe": 41
     },
     {
@@ -782,11 +782,11 @@
      "aufrufe": 17
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
      "aufrufe": 14
     },
     {
-     "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 14
     },
     {
@@ -794,11 +794,11 @@
      "aufrufe": 13
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
      "aufrufe": 12
     },
     {
-     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
+     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
      "aufrufe": 12
     },
     {
@@ -830,6 +830,10 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "aufrufe": 9
+    },
+    {
      "pfad": "/Denker/Maren-Urner-Radikal-hoffnungsvoll",
      "aufrufe": 9
     },
@@ -839,10 +843,6 @@
     },
     {
      "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
      "aufrufe": 8
     },
     {
@@ -991,11 +991,11 @@
      "aufrufe": 60
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
+     "pfad": "/DenkerVita/Hans-Maggi",
      "aufrufe": 41
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
      "aufrufe": 41
     },
     {
@@ -1027,11 +1027,11 @@
      "aufrufe": 17
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
      "aufrufe": 14
     },
     {
-     "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 14
     },
     {
@@ -1039,11 +1039,11 @@
      "aufrufe": 13
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
      "aufrufe": 12
     },
     {
-     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
+     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
      "aufrufe": 12
     },
     {
@@ -1075,6 +1075,10 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "aufrufe": 9
+    },
+    {
      "pfad": "/Denker/Maren-Urner-Radikal-hoffnungsvoll",
      "aufrufe": 9
     },
@@ -1084,10 +1088,6 @@
     },
     {
      "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
      "aufrufe": 8
     },
     {

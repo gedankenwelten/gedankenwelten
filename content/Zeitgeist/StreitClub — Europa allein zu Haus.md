@@ -1,5 +1,6 @@
 ---
 title: "StreitClub #17 — Europa allein zu Haus"
+description: "Vier Stimmen streiten über ein verlassenes Haus: Ist die Gefahr der abgereiste Bruder, der Aggressor vor der Tür — oder die eigene Unfähigkeit, sie zu schließen?"
 aktualisiert: 2026-04-26
 date: 2026-04-21
 tags:
@@ -25,6 +26,9 @@ aliases:
 *Prompt:* Wide banner 1200x500px, metaphysical painting in the style of Giorgio de Chirico, Italian piazza period, early 1920s. A deserted sunlit European square in late afternoon, seen in steep exaggerated perspective. Palette: pale ochre walls, acid green-yellow sky, deep sienna and cobalt shadows, dusty terracotta ground. Matte oil on canvas, flat opaque colour fields, hard-edged shadows. No photorealism, no realistic faces. Composition: on the right, a small plain house with a single shuttered window lit warm yellow from inside and a dark doorway standing slightly ajar; nobody visible. Along the left and centre, a long arcade of classical arches and two fluted columns, one column broken off at half height. In the middle of the empty square stands a white classical statue on a low plinth, armless and headless, casting a very long shadow across the paving stones. From the left edge, three enormous elongated shadows of unseen standing figures stretch into the square, their owners outside the picture frame. On the far horizon, beyond the arcade, a small dark steam locomotive departs to the right trailing a white plume of smoke. A single green apple and a folded map lie on the ground near the statue's plinth. Utter stillness, no people, no text, no lettering, no signature.
 
 </details>
+
+> [!abstract] Worum es geht
+> Vier Stimmen streiten über ein verlassenes Haus: Ist die Gefahr der abgereiste Bruder, der Aggressor vor der Tür — oder die eigene Unfähigkeit, sie zu schließen? Strack-Zimmermann hält die schleichende Erosion in den USA für bedrohlicher als Putins offene Aggression, weil sie subtil kommt und ein Vorbild zerstört. Serrao hält beides für zweitrangig gegenüber Europas eigener Schwäche. Friedman schiebt den Faktor Zeit dazwischen: Wer so tut, als könne Europa sich bald verteidigen, belügt die Bevölkerung. Gegen Ende kippt der Abend von der Sicherheitsfrage in eine unbequemere — ob das liberale Europa sich selbst noch glaubt, wenn jüdisches Leben ausgerechnet in seinen tolerantesten Städten am stärksten bedroht ist.
 
 Quelle: [StreitClub #17 "Europa allein zu Haus" mit Marie-Agnes Strack-Zimmermann & Marc Felix Serrao](https://www.youtube.com/watch?v=he1g_SxnCkM)
 

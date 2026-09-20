@@ -12,6 +12,7 @@ tags:
   - year-2026
 aliases:
   - Kotré Abschiebeindustrie
+description: "Eine Abschiebung als Vergabeverfahren zu denken, verlangt keinen Hass — nur ein Formular. Was passiert, wenn das Ungeheure sich in Zuständigkeiten zerlegen lässt."
 ---
 
 # Daniel - Lena Kotré plant private Abschiebeindustrie
