@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **20.09.** — [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]]
+>
+> Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung.
+
+> **13.09.** — [[Denker/Paul Ricoeur — Die zweite Naivitaet|Paul Ricœur — Die zweite Naivität]]
+>
+> Wer die Kritik durchlaufen hat, kann nicht zurück zum Kind — aber wieder hinhören. Ricœurs Leben und Denken als langer Umweg vom Verdacht zur zweiten Naivität.
+
+> **16.08.** — [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
+>
+> Vierzig Jahre Zählen ergeben einen Satz, der wehtut: Wer oben entscheidet, entscheidet nach seiner Herkunft — und die Herkunft wird gerade wieder enger.
+
 ### Geistesblitz
 
 > **18.09.** — [[Geistesblitz/KI-Agenten — Vom Dorf zur Zivilisation|KI-Agenten — Vom Dorf zur Zivilisation]]
@@ -75,20 +89,6 @@ Die Gedankenwelten (luc)
 > **13.09.** — [[Zeitgeist/Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da|Sigl-Glöckner & Kaczmarczyk — Geld ist genug da?]]
 >
 > Die 60-Prozent-Grenze stammt aus einer Fußnote, die sich selbst Zufall nennt. Vier Stimmen fragen, ob Knappheit eine Tatsache ist oder eine Entscheidung — und wem sie dient.
-
-### Denker
-
-> **13.09.** — [[Denker/Paul Ricoeur — Die zweite Naivitaet|Paul Ricœur — Die zweite Naivität]]
->
-> Wer die Kritik durchlaufen hat, kann nicht zurück zum Kind — aber wieder hinhören. Ricœurs Leben und Denken als langer Umweg vom Verdacht zur zweiten Naivität.
-
-> **16.08.** — [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
->
-> Vierzig Jahre Zählen ergeben einen Satz, der wehtut: Wer oben entscheidet, entscheidet nach seiner Herkunft — und die Herkunft wird gerade wieder enger.
-
-> **11.08.** — [[Denker/Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
->
-> Afrika soll aufhören, den Westen nachzuahmen — Sarr entwirft eine Utopie aus eigenen Quellen: Beziehung statt BIP, Ubuntu statt Entwicklungsdogma.
 
 ### GoodNews
 

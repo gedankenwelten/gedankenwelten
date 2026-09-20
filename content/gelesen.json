@@ -260,11 +260,11 @@
      "aufrufe": 17
     },
     {
-     "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+     "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
      "aufrufe": 9
     },
     {
@@ -272,19 +272,23 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
-     "aufrufe": 6
-    },
-    {
      "pfad": "/DenkerVita/Jihan-Alomar",
      "aufrufe": 6
     },
     {
-     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
-     "aufrufe": 4
+     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Torsten-Heinrich",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Spuren/Trumps-Wille-geschehe",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
      "aufrufe": 4
     },
     {
@@ -296,23 +300,15 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Spuren/Trumps-Wille-geschehe",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft.html",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Martyna-Linartas-Unverdiente-Ungleichheit",
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "aufrufe": 3
     },
     {
      "pfad": "/DenkerVita/Giulia-Enders",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft.html",
      "aufrufe": 3
     },
     {
@@ -324,15 +320,11 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Denker/Martyna-Linartas-Unverdiente-Ungleichheit",
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Panorama/Kaufkraft",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher",
      "aufrufe": 2
     },
     {
@@ -344,7 +336,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Martyna-Linartas",
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "aufrufe": 2
     },
     {
@@ -352,7 +344,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "pfad": "/Zeitgeist/StreitClub-Europa-allein-zu-Haus",
      "aufrufe": 2
     },
     {
@@ -364,15 +356,19 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/StreitClub-Europa-allein-zu-Haus",
-     "aufrufe": 2
-    },
-    {
      "pfad": "/DenkerVita/Jochen-Grossmann",
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
      "aufrufe": 2
     },
     {
@@ -384,8 +380,16 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
+     "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
      "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Madlen-Nicolaus",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "aufrufe": 1
     },
     {
      "pfad": "/Denker/Erich-Fromm-Psychoanalyse-des-Faschismus",
@@ -481,10 +485,6 @@
     },
     {
      "pfad": "/DenkerVita/Christof-Spitz",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Aziz-Abu-Sarah",
      "aufrufe": 1
     }
    ]
