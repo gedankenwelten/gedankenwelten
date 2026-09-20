@@ -1,5 +1,5 @@
 ---
-title: "Burnhams Maßstab — was ein ausgesprochenes Kriterium aushält"
+title: "Zerfällt das Vereinigte Königreich — und kehren seine Teile in die EU zurück?"
 tags:
   - spur
   - grossbritannien
@@ -15,28 +15,41 @@ konfidenz: 55%
 review-takt: 30-tage
 eroeffnet: 2026-09-20
 aktualisiert: 2026-09-20
-description: "Ein Premier nennt den Maßstab, an dem er sich messen lassen will — und verliert ihn im selben Atemzug an seine Gegner. Die Probe darauf, ob ein Satz eine Regierung binden kann."
+description: "Zehn Jahre nach dem Brexit wollen drei von vier Landesteilen zurück nach Brüssel. Gemessen wird das an einem einzigen Satz, den ein Premier nicht mehr zurücknehmen kann."
 ---
 
-# Burnhams Maßstab — was ein ausgesprochenes Kriterium aushält
+# Zerfällt das Vereinigte Königreich — und kehren seine Teile in die EU zurück?
 
 > [!abstract] Worum es geht
-> Am 9. September 2026 fragte der SNP-Abgeordnete Chris Law im Unterhaus, warum Nordirland einen
-> gesetzlich festgelegten Weg zu einem Referendum habe und Schottland nicht. Andy Burnham, seit sieben
-> Wochen Premierminister, antwortete mit einem Satz, der beides zugleich war — eine Absage und eine
-> Bedingung: *„I would say exactly the same situation in Scotland. I am not aware that there is a
-> majority of public support for another referendum, and until that changes, Mr Speaker, there won't
-> be one."* Fünf Tage später unterschrieben in Cardiff die Regierungschefs von Schottland, Wales und
-> Nordirland ein gemeinsames Papier und beriefen sich auf genau diesen Halbsatz. Diese **Spur**
-> verfolgt nicht die große Frage, ob das Vereinigte Königreich zerfällt — die ist zu weit und könnte
-> in diesem Jahrzehnt nicht sterben. Sie verfolgt den **Mechanismus, der darüber entscheidet**: Was
-> hält ein ausgesprochenes Kriterium aus, wenn die Zahlen auf es zulaufen?
+> Am 14. September 2026 unterschrieben in Cardiff die Parteichefs von SNP, Plaid Cymru und Sinn Féin
+> ein gemeinsames Papier — zum ersten Mal überhaupt — und schrieben hinein: *„the future of our nations
+> belongs in the European Union."* Zehn Jahre nach dem Brexit wollen drei von vier Landesteilen zurück
+> nach Brüssel, auf drei verschiedenen Wegen: Schottland und Wales als neue Mitgliedstaaten, Nordirland
+> über die Vereinigung mit der Republik. Das Vereinigte Königreich würde sich dabei nicht
+> reintegrieren — es würde aufhören zu bestehen.
+>
+> Dass das mehr ist als eine Absichtserklärung, hängt an einem Satz von fünf Tagen davor. Auf die
+> Frage, warum Nordirland einen gesetzlich festgelegten Weg zu einem Referendum habe und Schottland
+> nicht, antwortete Premier Andy Burnham im Unterhaus mit einer Absage, die eine Bedingung enthielt:
+> *„I am not aware that there is a majority of public support for another referendum, and until that
+> changes, Mr Speaker, there won't be one."* Damit hat er seine Verweigerung an eine Zahl gebunden,
+> die er nicht kontrolliert.
+>
+> Diese **Spur** stellt die große Frage, misst sie aber an der kleinen: **Kann ein Regierungschef
+> einen einmal ausgesprochenen Maßstab wieder einfangen?** Denn an diesem Maßstab hängt alles
+> Weitere — kein Referendum ohne ihn, keine Rückkehr nach Europa ohne Referendum.
 
 **Quellen:** [Memorandum of Understanding im Volltext](https://sinnfein.ie/news/leaders-of-plaid-cymru-snp-and-sinn-fein-agree-memorandum-of-understanding-to-build-towards-constitutional-change/) · [Burnhams Antwort vom 09.09.2026 (RTÉ)](https://www.rte.ie/news/ulster/2026/0909/1590922-uk-politics-ni/) · [Pressekonferenz Cardiff, ungeschnitten (ITV News, 1:08:49)](https://www.youtube.com/watch?v=UYws9cgjj1A)
 
 ---
 
 ## Die These
+
+Die Spur hat zwei Stränge von sehr verschiedener Reichweite. Der erste ist prüfbar und hat eine Frist.
+Der zweite ist die eigentliche Frage und hat sie nicht — er wird mitgeführt, entscheidet aber nicht
+über den Status dieser Spur. Das ist Absicht: Eine Spur, die nicht sterben kann, wird zur Last.
+
+### Strang 1 — der Maßstab (prüfbar, mit Frist)
 
 *Ein ausgesprochenes Kriterium dreht nur in eine Richtung.*
 
@@ -54,6 +67,29 @@ kann er ihn — aber jede Umdeutung ist sichtbar und kostet.
 Aktuelle Konfidenz: **55 %**. Bewusst knapp über der Mitte, denn die stärkste Gegen-Lesart ist banal
 und stark: Regierungen nehmen ständig Sätze zurück, und meistens passiert nichts.
 
+### Strang 2 — die Rückkehr nach Europa (mitgeführt, ohne Frist)
+
+Die Titelfrage. Sie ist zu weit für eine Falsifikation innerhalb dieses Jahrzehnts, und ich weigere
+mich, ihr eine künstliche zu geben. Ein Beitritt dauert nach einer Unabhängigkeit Jahre bis
+Jahrzehnte; kein Datum, das ich heute setze, wäre ehrlich.
+
+Beobachtet wird sie trotzdem, an drei Wegmarken, die vor dem Beitritt liegen und sich prüfen lassen:
+
+- **Was Brüssel sagt.** Bislang schweigt die Kommission zu der Aussicht. Eine erste offizielle Äußerung
+  — in welche Richtung auch immer — wäre ein Datenpunkt ersten Ranges. Spanien mit Blick auf Katalonien
+  ist der eingebaute Gegner dieses Strangs.
+- **Ob die drei Wege verschieden bleiben.** Schottland und Wales müssten beitreten, Nordirland käme
+  über die Republik automatisch in den Binnenmarkt zurück. Der dritte Weg ist der einzige, der keinen
+  Beitrittsprozess braucht — er könnte das Feld vor den anderen erreichen.
+- **Ob Wales mitgeht.** 2016 stimmte Wales mehrheitlich *für* den Austritt. Wenn ein Landesteil seine
+  eigene Brexit-Entscheidung öffentlich revidiert, ist das ein stärkeres Signal als jede Umfrage in
+  Schottland, das nie raus wollte.
+
+> [!question] Weitergedacht
+> Der Brexit galt als der Beweis, dass Integration umkehrbar ist. *Was wäre bewiesen, wenn die Teile
+> des Austrittslandes einzeln zurückkehren — dass sie doch nicht umkehrbar ist, oder nur, dass die
+> Einheit, die austrat, nie eine war?*
+
 > [!question] Weitergedacht
 > Wenn eine Regierung nur dadurch verwundbar wird, dass sie einen Maßstab *nennt* — belohnt unser
 > politisches System dann nicht systematisch das Vage? Und was heißt das für die Forderung nach
@@ -63,7 +99,9 @@ und stark: Regierungen nehmen ständig Sätze zurück, und meistens passiert nic
 
 ## Falsifikation
 
-Vorab registriert am 20.09.2026. Diese Bedingungen werden später **nicht** aufgeweicht.
+Vorab registriert am 20.09.2026. Diese Bedingungen werden später **nicht** aufgeweicht. Sie gelten für
+**Strang 1** — der Europa-Strang läuft ohne eigene Frist mit und kann diese Spur weder bestätigen noch
+widerlegen.
 
 **Bestätigt**, wenn eines eintritt:
 

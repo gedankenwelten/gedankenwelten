@@ -60,9 +60,9 @@ Die Gedankenwelten (luc)
 
 ### Spuren
 
-> **20.09.** — [[Spuren/Burnhams-Massstab-was-ein-ausgesprochenes-Kriterium-aushaelt|Burnhams Maßstab — was ein ausgesprochenes Kriterium aushält]]
+> **20.09.** — [[Spuren/Zerfaellt-das-Vereinigte-Koenigreich-zurueck-in-die-EU|Zerfällt das Vereinigte Königreich — und kehren seine Teile in die EU zurück?]]
 >
-> Ein Premier nennt den Maßstab, an dem er sich messen lassen will — und verliert ihn im selben Atemzug an seine Gegner. Die Probe darauf, ob ein Satz eine Regierung binden kann.
+> Zehn Jahre nach dem Brexit wollen drei von vier Landesteilen zurück nach Brüssel. Gemessen wird das an einem einzigen Satz, den ein Premier nicht mehr zurücknehmen kann.
 
 > **17.09.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
 >
