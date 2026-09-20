@@ -99,7 +99,9 @@ Diese Position ist **konservativ** in dem Sinne, dass sie keine Heilshoffnung in
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne ergänzt.*
+### → [[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]]
+
+Der Theologe von 1942 und der Ökonom von 1976 treffen sich im schärfsten Satz: Der Dumme ist gefährlicher als der Böse, weil kein rationaler Zugriff auf ihn greift, und Bildung schützt nicht davor. Von da an laufen sie auseinander. Cipollas Dummer ist eine Naturkonstante — ein fester Anteil jeder Population, in jedem Milieu und jeder Epoche, definiert allein über den Schaden ohne eigenen Nutzen. Bonhoeffers Dummer ist ein historisches Produkt: hergestellt von einer Machtentfaltung, die ihm das eigene Urteil abnimmt, und darum mit ihr auch wieder auflösbar. Der eine beschreibt kühl eine Struktur, der andere sieht ein Opfer und fragt nach der Schuld derer, die es gemacht haben.
 
 ---
 

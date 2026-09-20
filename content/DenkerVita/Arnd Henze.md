@@ -61,7 +61,9 @@ Liberal-progressiv, aber aus theologischer Tiefenschärfe — nicht flacher Säk
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+### → [[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]]
+
+Henzes eigentliches Thema: was nach Bonhoeffer mit Bonhoeffer geschah. Er verfolgt, wie aus dem Theologen eine Verfügungsmasse wurde — Metaxas' Biografie, der „Bonhoeffer-Moment“ im US-Wahlkampf, die AfD-Broschüre, die die Bekennende Kirche für sich reklamiert — und sagt dabei den unangenehmen Teil: Verfügbar gemacht hat ihn nicht die Rechte, sondern das eigene liberale Milieu, das ihn auf Kalendersprüche und Kirchentagsshirts heruntergekocht hat. Damit wendet Henze Bonhoeffers eigene These auf ihn an. Ein Satz ohne Zusammenhang ist eine Parole, und Parolen sind genau das Material, aus dem nach Bonhoeffers Beschreibung die Dummheit gemacht wird.
 
 ## Gedankenwelten-Notes
 

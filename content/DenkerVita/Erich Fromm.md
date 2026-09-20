@@ -89,6 +89,8 @@ Seine politische Vision: eine Gesellschaft, in der **Mitbestimmung** in Arbeit u
 
 - **Johann Jakob Bachofen** — *Das Mutterrecht* (1861) war für den jungen Fromm „ein Schlüssel". Bachofens Unterscheidung zwischen mütterlichem Prinzip (unbedingte Liebe) und väterlichem Prinzip (Liebe nach Verdienst) wird zur Grundlage von Fromms Theorie der Mutterbindung und seiner Deutung des Ödipuskomplexes als Sehnsucht nach einer entlastenden Instanz — nicht als sexuelle Bindung.
 
+- [[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]] — dasselbe Rätsel, von beiden Seiten des Atlantiks gestellt. Fromm schreibt 1941 im New Yorker Exil *Die Furcht vor der Freiheit* und fragt, warum Menschen eine Last abgeben, die sie eben erst erkämpft haben; Bonhoeffer schreibt anderthalb Jahre später mitten in Deutschland auf, was der Abgabe folgt — „die Macht der einen braucht die Dummheit der anderen“. Fromm findet eine Charakterstruktur, die sich in der Unterwerfung erleichtert fühlt, Bonhoeffer ein soziologisches Gesetz. Der Bruch liegt im Ausweg: Fromms Antwort ist ein Ich, das die Einsamkeit der Freiheit trägt, Bonhoeffers ein Ich, das sich an ein Gegenüber bindet, um vor Menschen nicht einzuknicken.
+
 ## Gedankenwelten-Notes
 
 - [[Erich Fromm — Haben oder Sein]] — Das 1977er Gespräch: tiefere Analyse der Haben/Sein-Unterscheidung

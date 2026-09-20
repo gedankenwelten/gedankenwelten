@@ -316,7 +316,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Der Dara]]
 
 ## Dietrich Bonhoeffer
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Dietrich Bonhoeffer]]
 
 ## Dirk Specht
 **Status:** ✓ Vollanalyse → [[DenkerVita/Dirk Specht]]

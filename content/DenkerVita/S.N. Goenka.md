@@ -192,6 +192,7 @@ Goenka betonte unermüdlich: Dies ist kein Buddhismus. Kein Ritual, kein Dogma, 
 - [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] — Ricard verbindet tibetische Meditation mit Neurowissenschaft; Goenka besteht auf der Theravada-Reinheit. Beide zeigen: Meditation ist empirisch überprüfbar
 - [[Denker/Hartmut Rosa — Resonanz und Unverfügbarkeit]] — Rosas „stumme Welt" ist Goenkas blinde Reaktion auf Sankhāras; Resonanz ist die soziologische Entsprechung von Upekkhā — nicht Gleichgültigkeit, sondern offenes Empfangen
 - [[Denker/Hans-Peter Dürr — Die neue Physik]] — Dürr kommt über die Quantenphysik zum selben Ergebnis: Es gibt keine Substanz. Was Buddha als Anattā und Anicca lehrte, bestätigt die Physik
+- [[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]] — Bonhoeffer führte in Finkenwalde eine tägliche halbe Stunde Schweigen über einem einzigen Bibelvers ein und musste sie gegen Brüder verteidigen, denen das zu katholisch war. Strukturell ist das Goenkas Übung: die Pause zwischen Reiz und Reaktion, in der ein Mensch sein eigenes Verhalten zu dem findet, was ihm begegnet — genau jene „innere Selbständigkeit“, deren Verlust Bonhoeffer Dummheit nennt. An der Wurzel trennen sie sich: Goenkas Praxis löst den auf, der festhalten könnte, weil es kein festes Ich gibt; Bonhoeffers Anker ist ein Gegenüber, dem gehorcht wird — und wer das tut, fürchtet keine Menschen mehr
 
 ---
 
