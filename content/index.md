@@ -22,6 +22,28 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **20.09.** — [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Maja Göpel & Achim Truger — Wachstum NEU DENKEN]]
+>
+> Zwei Ökonomen über die Zahl, die alles regiert: Das BIP misst weder die zerstörte Natur noch die unbezahlte Arbeit noch die Verteilung — und der Sachverständigenrat hat ein besseres Instrument, das er selbst nicht benutzt.
+
+> **16.09.** — [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
+>
+> Mit siebzehn auf einem Nazikonzert, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt.
+
+> **16.09.** — [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Vermögenssteuer gegen Fake News]]
+>
+> Reichweite hat einen Preis, und ihn zahlen wenige: Thomas Laschyk führt Desinformation auf große Vermögen zurück — mit gut belegtem Kern und kuratierten Belegen.
+
+> **14.09.** — [[Zeitgeist/Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg|Sudan: Chlorbomben im vergessenen Krieg]]
+>
+> Chlor gegen die Cholera, Chlor in der Bombe: Geleakte Akten zeigen, wie Sudans Armee Giftgas baute — und wie ein Verbot zerfällt, wenn niemand hinsieht.
+
+> **13.09.** — [[Zeitgeist/Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da|Sigl-Glöckner & Kaczmarczyk — Geld ist genug da?]]
+>
+> Die 60-Prozent-Grenze stammt aus einer Fußnote, die sich selbst Zufall nennt. Vier Stimmen fragen, ob Knappheit eine Tatsache ist oder eine Entscheidung — und wem sie dient.
+
 ### Denker
 
 > **20.09.** — [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]]
@@ -71,24 +93,6 @@ Die Gedankenwelten (luc)
 > **17.09.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
 >
 > Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
-
-### Zeitgeist
-
-> **16.09.** — [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
->
-> Mit siebzehn auf einem Nazikonzert, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt.
-
-> **16.09.** — [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Vermögenssteuer gegen Fake News]]
->
-> Reichweite hat einen Preis, und ihn zahlen wenige: Thomas Laschyk führt Desinformation auf große Vermögen zurück — mit gut belegtem Kern und kuratierten Belegen.
-
-> **14.09.** — [[Zeitgeist/Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg|Sudan: Chlorbomben im vergessenen Krieg]]
->
-> Chlor gegen die Cholera, Chlor in der Bombe: Geleakte Akten zeigen, wie Sudans Armee Giftgas baute — und wie ein Verbot zerfällt, wenn niemand hinsieht.
-
-> **13.09.** — [[Zeitgeist/Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da|Sigl-Glöckner & Kaczmarczyk — Geld ist genug da?]]
->
-> Die 60-Prozent-Grenze stammt aus einer Fußnote, die sich selbst Zufall nennt. Vier Stimmen fragen, ob Knappheit eine Tatsache ist oder eine Entscheidung — und wem sie dient.
 
 ### GoodNews
 

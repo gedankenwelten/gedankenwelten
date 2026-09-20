@@ -16,6 +16,16 @@ aliases:
 
 # StreitClub #17 — Europa allein zu Haus
 
+![[assets/StreitClub-Europa-allein-zu-Haus-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Giorgio de Chirico — metaphysische Piazza** — Acidgrüner Himmel, ockerne Arkaden, ein leerer Platz in steiler Perspektive. De Chirico malte Europa als Ort, an dem gerade eben noch jemand war: Das Drohende steht nie im Bild, es steht davor und wirft nur seinen Schatten hinein. Genau das ist der Abend — Friedmans Kevin-Metapher ohne Kevin. Das Haus rechts hat ein warm erleuchtetes Fenster und eine angelehnte Tür, aber niemanden davor. Die Arkade links ist das Erbe, um das gestritten wird (Akropolis, römisches Recht) — eine Säule ist auf halber Höhe abgebrochen. Der Torso auf dem Sockel hat weder Kopf noch Arme: der Anspruch steht, die Mittel fehlen. Die Lokomotive am Horizont fährt nach rechts aus dem Bild, das klassische de-Chirico-Motiv für den, der gerade abreist. Und vom linken Rand reichen drei riesige Schatten in den Platz, deren Urheber außerhalb bleiben — die Einbrecher, die noch niemand gesehen hat.
+
+*Prompt:* Wide banner 1200x500px, metaphysical painting in the style of Giorgio de Chirico, Italian piazza period, early 1920s. A deserted sunlit European square in late afternoon, seen in steep exaggerated perspective. Palette: pale ochre walls, acid green-yellow sky, deep sienna and cobalt shadows, dusty terracotta ground. Matte oil on canvas, flat opaque colour fields, hard-edged shadows. No photorealism, no realistic faces. Composition: on the right, a small plain house with a single shuttered window lit warm yellow from inside and a dark doorway standing slightly ajar; nobody visible. Along the left and centre, a long arcade of classical arches and two fluted columns, one column broken off at half height. In the middle of the empty square stands a white classical statue on a low plinth, armless and headless, casting a very long shadow across the paving stones. From the left edge, three enormous elongated shadows of unseen standing figures stretch into the square, their owners outside the picture frame. On the far horizon, beyond the arcade, a small dark steam locomotive departs to the right trailing a white plume of smoke. A single green apple and a folded map lie on the ground near the statue's plinth. Utter stillness, no people, no text, no lettering, no signature.
+
+</details>
+
 Quelle: [StreitClub #17 "Europa allein zu Haus" mit Marie-Agnes Strack-Zimmermann & Marc Felix Serrao](https://www.youtube.com/watch?v=he1g_SxnCkM)
 
 > [!info] Wer spricht?
