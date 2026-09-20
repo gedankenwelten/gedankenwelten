@@ -205,6 +205,9 @@ Wer lange bequem in einer Demokratie gelebt habe, müsse erst wieder lernen, das
 
 ## Verbindungen
 
+### → [[Spuren/Burnhams-Massstab-was-ein-ausgesprochenes-Kriterium-aushaelt]]
+Die Fortschreibung von Ditterts Frühwarnsystem in die Verfassungsfrage hinein. Sie liest die Insel als den Ort, an dem zuerst sichtbar wird, was anderswo noch kommt — die Spur prüft, was von diesem Land nach dem Brexit übrig bleibt, und zwar an einem einzigen Satz: dem Kriterium, an das Premier Burnham am 9.9.2026 seine Absage an ein schottisches Referendum gebunden hat.
+
 ### → [[Denker/Renee DiResta — Invisible Rulers]]
 DiResta liefert die *Mechanik* hinter Ditterts Beobachtung, dass Musk & MAGA über X die UK-Unruhen befeuern: Wie aus algorithmisch verstärkter Wiederholung geteilte „Realität" wird. Ditterts „Bürgerkrieg programmieren" ist DiRestas „bespoke reality" im konkreten britischen Anwendungsfall — Befund trifft auf Theorie der Influence-Architektur.
 

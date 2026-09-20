@@ -6,6 +6,18 @@ tags:
   - links
 ---
 
+## Cardiff-Memorandum — Schottland, Wales und Nordirland (14.09.2026)
+
+| | |
+|---|---|
+| **Primärdokument** | [Memorandum of Understanding im Volltext](https://sinnfein.ie/news/leaders-of-plaid-cymru-snp-and-sinn-fein-agree-memorandum-of-understanding-to-build-towards-constitutional-change/) — sinnfein.ie |
+| **Burnhams Antwort im Unterhaus (09.09.2026)** | [RTÉ — Burnham commits to Good Friday Agreement on border poll](https://www.rte.ie/news/ulster/2026/0909/1590922-uk-politics-ni/) |
+| **Pressekonferenz Cardiff, ungeschnitten** | [ITV News, 1:08:49](https://www.youtube.com/watch?v=UYws9cgjj1A) |
+| **Einordnung** | [Sky News, 46:20](https://www.youtube.com/watch?v=wqLQydLvqzY) · [ITV News — Is this the beginning of the end for the UK?, 13:49](https://www.youtube.com/watch?v=QT-sX5byNyg) · [Al Jazeera](https://www.aljazeera.com/news/2026/9/14/leaders-of-scotland-wales-northern-ireland-unite-for-self-determination) · [Modern Diplomacy — Westminster Still Holds Every Legal Card](https://moderndiplomacy.eu/2026/09/15/uk-independence-scotland-wales-northern-ireland-burnham/) |
+| **Einstieg (als Gegenstand, nicht als Beleg)** | [Es passiert: Warum das UK jetzt aufgeteilt wird](https://www.youtube.com/watch?v=dLw3QaHYno8) — Clever Camel, 11:32 |
+| **Notiz** | [[Spuren/Burnhams-Massstab-was-ein-ausgesprochenes-Kriterium-aushaelt]] |
+| **Transkript** | `Gedankenwelten/Transkripte/CleverCamel_UK_Aufteilung_Transkript.txt` |
+
 ## Konstantin Flemig — Sudan: Chlorbomben im vergessenen Krieg
 
 | | |
