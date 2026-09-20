@@ -855,6 +855,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Annette Dittert
 **Status:** ✓ Vollanalyse → [[DenkerVita/Annette Dittert]]
 
+## Lena Kotré
+**Status:** ✓ Vollanalyse → [[DenkerVita/Lena Kotre]] — Register, ausschließlich belegte und mehrfach veröffentlichte Äußerungen
+
 ## Rutger Bregman
 **Status:** ✓ Vollanalyse → [[DenkerVita/Rutger Bregman]]
 

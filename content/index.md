@@ -28,6 +28,8 @@ Die Gedankenwelten (luc)
 >
 > Zwei Ökonomen über die Zahl, die alles regiert: Das BIP misst weder die zerstörte Natur noch die unbezahlte Arbeit noch die Verteilung — und der Sachverständigenrat hat ein besseres Instrument, das er selbst nicht benutzt.
 
+> **20.09.** — [[Zeitgeist/Daniel - Lena Kotré plant private Abschiebeindustrie|Daniel - Lena Kotré plant private Abschiebeindustrie]]
+
 > **16.09.** — [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
 >
 > Mit siebzehn auf einem Nazikonzert, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt.
@@ -40,9 +42,7 @@ Die Gedankenwelten (luc)
 >
 > Chlor gegen die Cholera, Chlor in der Bombe: Geleakte Akten zeigen, wie Sudans Armee Giftgas baute — und wie ein Verbot zerfällt, wenn niemand hinsieht.
 
-> **13.09.** — [[Zeitgeist/Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da|Sigl-Glöckner & Kaczmarczyk — Geld ist genug da?]]
->
-> Die 60-Prozent-Grenze stammt aus einer Fußnote, die sich selbst Zufall nennt. Vier Stimmen fragen, ob Knappheit eine Tatsache ist oder eine Entscheidung — und wem sie dient.
+> → *1 weitere in* [[Zeitgeist]]
 
 ### Denker
 
