@@ -205,7 +205,7 @@ Wer lange bequem in einer Demokratie gelebt habe, müsse erst wieder lernen, das
 
 ## Verbindungen
 
-### → [[Spuren/Zerfaellt-das-Vereinigte-Koenigreich-zurueck-in-die-EU]]
+### → [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck]]
 Die Fortschreibung von Ditterts Frühwarnsystem in die Verfassungsfrage hinein. Sie liest die Insel als den Ort, an dem zuerst sichtbar wird, was anderswo noch kommt — die Spur prüft, was von diesem Land nach dem Brexit übrig bleibt, und zwar an einem einzigen Satz: dem Kriterium, an das Premier Burnham am 9.9.2026 seine Absage an ein schottisches Referendum gebunden hat.
 
 ### → [[Denker/Renee DiResta — Invisible Rulers]]

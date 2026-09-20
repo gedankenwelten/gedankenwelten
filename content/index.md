@@ -60,9 +60,9 @@ Die Gedankenwelten (luc)
 
 ### Spuren
 
-> **20.09.** — [[Spuren/Zerfaellt-das-Vereinigte-Koenigreich-zurueck-in-die-EU|Zerfällt das Vereinigte Königreich — und kehren seine Teile in die EU zurück?]]
+> **20.09.** — [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck|Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?]]
 >
-> Zehn Jahre nach dem Brexit wollen drei von vier Landesteilen zurück nach Brüssel. Gemessen wird das an einem einzigen Satz, den ein Premier nicht mehr zurücknehmen kann.
+> Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
 
 > **17.09.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
 >

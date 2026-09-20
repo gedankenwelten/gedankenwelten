@@ -1,5 +1,5 @@
 ---
-title: "Zerfällt das Vereinigte Königreich — und kehren seine Teile in die EU zurück?"
+title: "Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?"
 tags:
   - spur
   - grossbritannien
@@ -15,29 +15,30 @@ konfidenz: 55%
 review-takt: 30-tage
 eroeffnet: 2026-09-20
 aktualisiert: 2026-09-20
-description: "Zehn Jahre nach dem Brexit wollen drei von vier Landesteilen zurück nach Brüssel. Gemessen wird das an einem einzigen Satz, den ein Premier nicht mehr zurücknehmen kann."
+description: "Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen."
 ---
 
-# Zerfällt das Vereinigte Königreich — und kehren seine Teile in die EU zurück?
+# Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?
 
 > [!abstract] Worum es geht
-> Am 14. September 2026 unterschrieben in Cardiff die Parteichefs von SNP, Plaid Cymru und Sinn Féin
-> ein gemeinsames Papier — zum ersten Mal überhaupt — und schrieben hinein: *„the future of our nations
-> belongs in the European Union."* Zehn Jahre nach dem Brexit wollen drei von vier Landesteilen zurück
-> nach Brüssel, auf drei verschiedenen Wegen: Schottland und Wales als neue Mitgliedstaaten, Nordirland
-> über die Vereinigung mit der Republik. Das Vereinigte Königreich würde sich dabei nicht
-> reintegrieren — es würde aufhören zu bestehen.
+> Zehn Jahre nach dem Brexit zeigen sämtliche Zahlen in dieselbe Richtung. 54 bis 57 Prozent der
+> Briten halten den Austritt inzwischen für falsch, rund die Hälfte würde für einen Wiedereintritt
+> stimmen. Am 14. September 2026 unterschrieben in Cardiff die Parteichefs von SNP, Plaid Cymru und
+> Sinn Féin erstmals ein gemeinsames Papier und schrieben hinein: *„the future of our nations belongs
+> in the European Union."* Nicht mehr offen ist also die Richtung. Offen ist, **wer ankommt**.
 >
-> Dass das mehr ist als eine Absichtserklärung, hängt an einem Satz von fünf Tagen davor. Auf die
-> Frage, warum Nordirland einen gesetzlich festgelegten Weg zu einem Referendum habe und Schottland
-> nicht, antwortete Premier Andy Burnham im Unterhaus mit einer Absage, die eine Bedingung enthielt:
-> *„I am not aware that there is a majority of public support for another referendum, and until that
-> changes, Mr Speaker, there won't be one."* Damit hat er seine Verweigerung an eine Zahl gebunden,
-> die er nicht kontrolliert.
+> Denn dorthin führen zwei Wege, und sie schließen einander aus. Entweder **zerfällt das Königreich
+> und seine Teile kehren einzeln zurück** — Schottland und Wales als neue Mitgliedstaaten, Nordirland
+> über die Vereinigung mit der Republik. Oder **London rückt selbst wieder nach Europa**, womöglich
+> gerade unter dem Druck des Zerfalls — und nimmt den Sezessionisten damit ihr stärkstes Argument aus
+> der Hand.
 >
-> Diese **Spur** stellt die große Frage, misst sie aber an der kleinen: **Kann ein Regierungschef
-> einen einmal ausgesprochenen Maßstab wieder einfangen?** Denn an diesem Maßstab hängt alles
-> Weitere — kein Referendum ohne ihn, keine Rückkehr nach Europa ohne Referendum.
+> Beide Wege laufen durch denselben Mann und durch zwei Sätze, die er gesagt hat. Zum Referendum:
+> *„I am not aware that there is a majority of public support … and until that changes, there won't be
+> one."* Zu Europa: Er würde die Rückkehr gern noch erleben — und hält als Premier zugleich die roten
+> Linien seines Vorgängers, kein Binnenmarkt, keine Zollunion. Zweimal eine selbstgesetzte Grenze,
+> zweimal an Zahlen gebunden, die ihm nicht gehören. Diese **Spur** verfolgt, welche der beiden
+> zuerst nachgibt — denn wer zuerst nachgibt, entscheidet, wer zurückkehrt.
 
 **Quellen:** [Memorandum of Understanding im Volltext](https://sinnfein.ie/news/leaders-of-plaid-cymru-snp-and-sinn-fein-agree-memorandum-of-understanding-to-build-towards-constitutional-change/) · [Burnhams Antwort vom 09.09.2026 (RTÉ)](https://www.rte.ie/news/ulster/2026/0909/1590922-uk-politics-ni/) · [Pressekonferenz Cardiff, ungeschnitten (ITV News, 1:08:49)](https://www.youtube.com/watch?v=UYws9cgjj1A)
 
@@ -45,11 +46,21 @@ description: "Zehn Jahre nach dem Brexit wollen drei von vier Landesteilen zurü
 
 ## Die These
 
-Die Spur hat zwei Stränge von sehr verschiedener Reichweite. Der erste ist prüfbar und hat eine Frist.
-Der zweite ist die eigentliche Frage und hat sie nicht — er wird mitgeführt, entscheidet aber nicht
-über den Status dieser Spur. Das ist Absicht: Eine Spur, die nicht sterben kann, wird zur Last.
+*Die Rückkehr nach Europa ist wahrscheinlicher als ihr Weg. Die beiden Wege dorthin kannibalisieren
+einander — je näher London an Brüssel rückt, desto schwächer der Grund, London zu verlassen; und je
+näher der Zerfall rückt, desto größer der Druck auf London, nach Brüssel zu rücken.*
 
-### Strang 1 — der Maßstab (prüfbar, mit Frist)
+Das ist der Kern, und er macht aus zwei Geschichten eine. Der stärkste Grund für die schottische
+Unabhängigkeit ist seit 2016 nicht die Nation, sondern Europa — 62 Prozent der Schotten stimmten
+damals für den Verbleib und wurden gegen ihren Willen herausgezogen. Nimmt man dieses Argument weg,
+indem man das ganze Land zurückführt, verliert die Sezession ihren Motor. Nimmt man es nicht weg,
+treibt sie weiter. **Der Zerfall und der Wiedereintritt sind keine zwei Themen. Sie sind zwei Enden
+desselben Seils.**
+
+Beobachtet wird das an zwei roten Linien desselben Premiers. Beide sind prüfbar, beide haben einen
+Startwert, und beide stehen unter Druck von Zahlen, die er nicht kontrolliert.
+
+### Linie 1 — das Referendum
 
 *Ein ausgesprochenes Kriterium dreht nur in eine Richtung.*
 
@@ -67,23 +78,30 @@ kann er ihn — aber jede Umdeutung ist sichtbar und kostet.
 Aktuelle Konfidenz: **55 %**. Bewusst knapp über der Mitte, denn die stärkste Gegen-Lesart ist banal
 und stark: Regierungen nehmen ständig Sätze zurück, und meistens passiert nichts.
 
-### Strang 2 — die Rückkehr nach Europa (mitgeführt, ohne Frist)
+### Linie 2 — Binnenmarkt und Zollunion
 
-Die Titelfrage. Sie ist zu weit für eine Falsifikation innerhalb dieses Jahrzehnts, und ich weigere
-mich, ihr eine künstliche zu geben. Ein Beitritt dauert nach einer Unabhängigkeit Jahre bis
-Jahrzehnte; kein Datum, das ich heute setze, wäre ehrlich.
+Dieselbe Figur, anderer Gegenstand. Burnham hat vor seiner Amtszeit gesagt, er würde die Rückkehr des
+Vereinigten Königreichs in die EU gern noch erleben. Als Premier hat er Starmers rote Linien bestätigt:
+kein Binnenmarkt, keine Zollunion, keine Freizügigkeit. Sein eigener Wahlkreis Makerfield stimmte 2016
+zu 64 Prozent für den Austritt — er ist kein Europäer aus bequemer Herkunft, sondern einer gegen die
+eigene Gegend.
 
-Beobachtet wird sie trotzdem, an drei Wegmarken, die vor dem Beitritt liegen und sich prüfen lassen:
+Startwerte am 20.09.2026: 54 bis 57 Prozent halten den Brexit für falsch, rund die Hälfte würde für
+einen Wiedereintritt stimmen, **aber nur 38 Prozent wollen ein Referendum darüber, 52 Prozent nicht.**
+Genau diese Lücke ist die Pointe — die Briten bereuen, ohne umkehren zu wollen. Solange sie besteht,
+hält die Linie ohne Anstrengung.
 
-- **Was Brüssel sagt.** Bislang schweigt die Kommission zu der Aussicht. Eine erste offizielle Äußerung
-  — in welche Richtung auch immer — wäre ein Datenpunkt ersten Ranges. Spanien mit Blick auf Katalonien
-  ist der eingebaute Gegner dieses Strangs.
-- **Ob die drei Wege verschieden bleiben.** Schottland und Wales müssten beitreten, Nordirland käme
-  über die Republik automatisch in den Binnenmarkt zurück. Der dritte Weg ist der einzige, der keinen
-  Beitrittsprozess braucht — er könnte das Feld vor den anderen erreichen.
-- **Ob Wales mitgeht.** 2016 stimmte Wales mehrheitlich *für* den Austritt. Wenn ein Landesteil seine
-  eigene Brexit-Entscheidung öffentlich revidiert, ist das ein stärkeres Signal als jede Umfrage in
-  Schottland, das nie raus wollte.
+Wegmarken, die vor einem Beitritt liegen und sich prüfen lassen:
+
+- **Bewegt sich eine der drei roten Linien** — Zollunion, Binnenmarkt, Freizügigkeit? Teilabkommen
+  (Veterinär, Jugendmobilität, Energie) sind das Vorfeld, an dem man es zuerst sieht.
+- **Schließt sich die Lücke** zwischen „Brexit war falsch" und „ich will ein Referendum"? Das ist die
+  Zahl, an der Linie 2 hängt, so wie 47:43 an Linie 1 hängt.
+- **Was sagt Brüssel?** Die Kommission schweigt bislang zu beiden Wegen. Spanien ist wegen Kataloniens
+  der eingebaute Gegner des Zerfallswegs — ein Beitritt Schottlands bräuchte spanische Zustimmung.
+- **Geht Wales mit?** 2016 stimmte Wales mehrheitlich *für* den Austritt. Wenn ein Landesteil seine
+  eigene Brexit-Entscheidung öffentlich revidiert, wiegt das schwerer als jede Umfrage in Schottland,
+  das nie raus wollte.
 
 > [!question] Weitergedacht
 > Der Brexit galt als der Beweis, dass Integration umkehrbar ist. *Was wäre bewiesen, wenn die Teile
@@ -99,32 +117,47 @@ Beobachtet wird sie trotzdem, an drei Wegmarken, die vor dem Beitritt liegen und
 
 ## Falsifikation
 
-Vorab registriert am 20.09.2026. Diese Bedingungen werden später **nicht** aufgeweicht. Sie gelten für
-**Strang 1** — der Europa-Strang läuft ohne eigene Frist mit und kann diese Spur weder bestätigen noch
-widerlegen.
+Vorab registriert am 20.09.2026. Diese Bedingungen werden später **nicht** aufgeweicht.
 
-**Bestätigt**, wenn eines eintritt:
+Die Spur fragt nach dem Ergebnis, aber sie **entscheidet sich an den beiden Linien** — der Beitritt
+selbst liegt jenseits jeder ehrlichen Frist, das Nachgeben einer Linie nicht. Kippt eine, ist die Frage
+„wer kehrt zurück" beantwortet, lange bevor jemand einen Vertrag unterschreibt.
 
-- Burnham oder ein Nachfolger räumt **unter Verweis auf dieses Kriterium** eines der drei Verfahren
-  ein: eine Section-30-Order für Schottland, ein Datum für den nordirischen Grenzentscheid, oder ein
-  walisisches Referendumsgesetz.
-- Das Kriterium wird erreicht (eine belastbare Mehrheit über mehrere Institute und mehrere Monate)
-  und die Regierung muss es **öffentlich umdefinieren** — und zahlt dafür erkennbar, in Rücktritten,
-  Abweichlern oder Umfragewerten.
+**Bestätigt — Weg A (die Teile kehren zurück)**, wenn eines eintritt:
 
-**Widerlegt**, wenn eines eintritt:
+- Eine **Section-30-Order** wird gewährt, ein **Datum für den nordirischen Grenzentscheid** gesetzt,
+  oder Westminster schafft einen Referendumsweg für Wales.
+- Das Referendumskriterium wird erreicht (belastbare Mehrheit über mehrere Institute und mehrere
+  Monate) und die Regierung muss es **öffentlich umdefinieren** — und zahlt dafür erkennbar, in
+  Rücktritten, Abweichlern oder Umfragewerten.
 
-- Burnham widerruft das Kriterium ausdrücklich — sinngemäß „für Schottland gilt das nicht" — und
-  **übersteht es folgenlos**. Dann lässt sich ein Maßstab doch wieder einfangen, und die These war
-  falsch.
-- Die schottischen Ja-Zahlen fallen bis zum 31.12.2027 über mindestens ein halbes Jahr durable unter
-  45 %. Dann hat das Kriterium seinen Hebel verloren, ohne dass jemand es anfassen musste.
+**Bestätigt — Weg B (das Königreich kehrt zurück)**, wenn eines eintritt:
+
+- Eine der drei **roten Linien fällt offiziell**: Zollunion, Binnenmarkt oder Freizügigkeit. Nicht
+  gemeint sind Teilabkommen (Veterinär, Jugendmobilität, Energie) — die zählen als Vorfeld im Verlauf,
+  nicht als Bestätigung.
+- Die britische Regierung erklärt eine **Wiederannäherung an die Mitgliedschaft** zum erklärten Ziel,
+  oder ein Beitrittsprozess wird formell eröffnet.
+
+**Widerlegt**, wenn **beides** zutrifft:
+
+- Bis zum 31.12.2029 ist **keine** der beiden Linien nachgegeben worden — und
+- beide Antriebszahlen sind zurückgefallen: schottisches Ja über mindestens ein halbes Jahr durable
+  unter 45 % (Startwert 47:43), **und** die Zustimmung zum Wiedereintritt unter 45 % (Startwert rund
+  50 %). Dann war der Druck, von dem diese Spur ausgeht, nie da.
+
+**Teil-widerlegt — die Kannibalisierung**, wenn:
+
+- Eine rote Linie zu Europa fällt **und** die schottische Ja-Zahl innerhalb von zwölf Monaten danach
+  *nicht* nachgibt. Dann sind die beiden Wege keine Rivalen, und der Kern der These trägt nicht — auch
+  wenn die Rückkehr selbst weitergeht. Dieser Befund wird im Verlauf ausdrücklich als Irrtum notiert,
+  ohne den Status zu schließen.
 
 **Kalt**, wenn:
 
-- Burnham das Amt verlässt, ohne dass eines von beidem eingetreten ist, **und** sein Nachfolger den
-  Maßstab nicht übernimmt. Dann war es ein Satz und kein Mechanismus — kein Irrtum, nur eine Sache,
-  die sich nicht entschieden hat.
+- Burnham das Amt verlässt, ohne dass eines von alledem eingetreten ist, **und** sein Nachfolger keine
+  der beiden Linien in eigener Formulierung übernimmt. Dann waren es zwei Sätze und kein Mechanismus —
+  kein Irrtum, nur eine Sache, die sich nicht entschieden hat.
 
 ---
 
@@ -145,10 +178,18 @@ Unabhängigkeitsumfrage: 47 zu 43 (Survation für die Diffley Partnership).
 ist kein gemeinsames Ziel, sondern ein gemeinsamer Adressat. Der Engpass ist dreimal derselbe Schalter
 und dreimal dieselbe Hand.
 
+**Nachtrag desselben Tages — die Startwerte für Weg B:** 54 bis 57 % der Briten halten den Brexit
+inzwischen für falsch, etwa die Hälfte würde für einen Wiedereintritt stimmen — **aber nur 38 % wollen
+ein Referendum darüber, 52 % nicht.** Burnham hat vor seiner Amtszeit gesagt, er wolle die Rückkehr
+noch erleben; als Premier hält er Starmers rote Linien (kein Binnenmarkt, keine Zollunion, keine
+Freizügigkeit). Sein Wahlkreis Makerfield stimmte 2016 zu 64 % für den Austritt.
+
 **Gegenbeobachtung:** Der zusammengenommene Stimmenanteil der Unabhängigkeitsparteien in Schottland ist
 bei der Wahl am 07.05.2026 *gefallen*. Die 73 Sitze von SNP und Grünen sind eine Mehrheit des
 Wahlsystems, keine Mehrheit der Wähler. Und Reform UK kam von null auf 17 Sitze — die stärkste
-Bewegung des Abends lief in die andere Richtung.
+Bewegung des Abends lief in die andere Richtung. Für Weg B gilt dasselbe in anderer Form: Die Lücke
+zwischen Bereuen (57 %) und Umkehren-Wollen (38 %) ist fast zwanzig Punkte breit. Ein Land kann eine
+Entscheidung bedauern und trotzdem keine Kraft haben, sie noch einmal anzufassen.
 
 ### 2026-09-14 — Das Memorandum von Cardiff (rekonstruiert bei Eröffnung)
 
@@ -219,6 +260,13 @@ für alle folgenden Sweeps: erst das Dokument, dann die Meldung.**
 ein Interesse daran, dass die These interessant bleibt. Das ist derselbe Fehler in schwächerer Form.
 Ein früher `kalt`-Befund wäre ein gutes Ergebnis, kein langweiliges.
 
+**Wo hat mich jemand anderes korrigiert?** Die Spur hieß am Tag ihrer Eröffnung zweimal anders. Zuerst
+ging es nur um Burnhams Kriterium, dann um den Zerfall. Beide Male war der Gegenstand zu eng: Ich hatte
+am *Mechanismus* geklebt, den ich gerade erst verstanden hatte, statt am Ergebnis, auf das er zuläuft.
+Den Ausschlag gab Andreas' Einwand, die Rückkehr des Königreichs *als Ganzes* gehöre dazu — womöglich
+gerade durch diesen Druck. Erst damit wurden aus zwei Geschichten eine. Merker: **Wenn eine These
+elegant wird, prüfen, ob sie nicht eigentlich nur die halbe Frage ist.**
+
 ---
 
 ## Stimmenspektrum
@@ -248,11 +296,20 @@ Datenpunkt über die These — ein Kriterium wird erst dann wirklich teuer, wenn
 
 ## Muster
 
-Die Spur ist als Einzelfall angelegt, zielt aber auf ein wiederkehrendes Muster: **Was passiert mit
-einer Regierung, die einen prüfbaren Maßstab ausspricht?** Vergleichsfälle, die im Bestand liegen oder
-anzulegen wären — Merkels „Wir schaffen das", Camerons Zusage eines EU-Referendums, die Kriterien des
-Karfreitagsabkommens selbst, die seit 1998 nie definiert wurden. Wenn sich über drei, vier Fälle
-dasselbe Verhalten zeigt, wird aus dieser Fallspur eine Musterspur.
+Zwei Muster laufen hier ineinander, und beide reichen über den Fall hinaus.
+
+**Der ausgesprochene Maßstab.** Was passiert mit einer Regierung, die eine prüfbare Bedingung nennt,
+statt vage zu bleiben? Vergleichsfälle, die im Bestand liegen oder anzulegen wären: Merkels „Wir
+schaffen das", Camerons Zusage eines EU-Referendums — die einzige dieser Zusagen, die eingelöst wurde,
+und sie kostete das Land seine Mitgliedschaft —, und die Kriterien des Karfreitagsabkommens selbst, die
+seit 1998 bewusst nie definiert wurden.
+
+**Desintegration als Integrationsmotor.** Die eigentliche Frage dieser Spur: Ob der Druck der
+Auflösung ein Land näher an das bringt, was es verlassen hat. Das wäre keine britische Eigenheit,
+sondern das Gegenstück zu dem, was der Brexit zu beweisen schien. Wenn es sich hier zeigt, lohnt der
+Blick auf Spanien und Katalonien, auf Belgien, auf Kanada und Québec — überall dort, wo eine
+Sezessionsdrohung eine Zentralregierung zu etwas gebracht hat, das sie ohne die Drohung nie getan
+hätte.
 
 ---
 
@@ -290,6 +347,15 @@ dasselbe Verhalten zeigt, wird aus dieser Fallspur eine Musterspur.
 | **Bloomberg** | [Swinney Seizes on Burnham Shift to Push Scotland Referendum](https://www.bloomberg.com/news/articles/2026-09-10/swinney-seizes-on-burnham-shift-to-push-scotland-referendum) |
 | **STV News** | [Swinney writes to Burnham in bid to legally launch independence vote](https://news.stv.tv/politics/john-swinney-writes-to-prime-minister-andy-burnham-in-bid-to-legally-launch-independence-vote) |
 | **Modern Diplomacy** | [Westminster Still Holds Every Legal Card](https://moderndiplomacy.eu/2026/09/15/uk-independence-scotland-wales-northern-ireland-burnham/) |
+
+**Startwerte für Linie 2 (Europa)**
+
+| | |
+|---|---|
+| **Brexit-Tracker** | [YouGov — What do Britons think of Brexit, 10 years since the referendum?](https://yougov.com/en-gb/articles/54925-what-do-britons-think-of-brexit-10-years-since-the-referendum) · [How strong is UK support for rejoining the European Union?](https://yougov.com/en-gb/articles/54567-how-strong-is-uk-support-for-rejoining-the-european-union) |
+| **Zehn Jahre danach** | [„A decade of regret" — Eunews, 23.06.2026](https://www.eunews.it/en/2026/06/23/a-decade-of-regret-most-britons-would-now-vote-to-rejoin-the-eu/) · [CBS News](https://www.cbsnews.com/news/uk-brexit-vote-decade-after-referendum-majority-say-leaving-eu-mistake/) |
+| **Burnham und Europa** | [UK in a Changing Europe — What will Andy Burnham mean for EU relations?](https://ukandeu.ac.uk/what-will-andy-burnham-mean-for-eu-relations/) |
+| **Beitrittsfrage** | [Potential re-accession of the United Kingdom to the European Union](https://en.wikipedia.org/wiki/Potential_re-accession_of_the_United_Kingdom_to_the_European_Union) |
 | **Trump in Dublin, 12.09.2026** | [Washington Post](https://www.washingtonpost.com/world/2026/09/12/trump-dublin-says-he-would-love-see-irish-reunification/) · [BBC News, 3:20](https://www.youtube.com/watch?v=xaEDbBa4dbA) |
 
 **Der Einstieg — und warum er hier steht**
