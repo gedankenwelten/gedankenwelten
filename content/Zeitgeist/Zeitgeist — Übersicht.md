@@ -82,7 +82,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Clara Mattei — Geschichte der Austeritaetspolitik|Clara Mattei — Geschichte der Austeritätspolitik]]
 - [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir|Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]] — CCC-Sprecherin Constanze Kurz entmythologisiert KI als stochastischen Papagei und zeigt, wie dieselbe Überwachungslogik von Palantir über Chatkontrolle bis zur UN-Cybercrime-Konvention wirkt.
 - [[Zeitgeist/Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife|Daniel - AfD Bundestag-Propaganda Schulvorfall Schleife]]
-- [[Zeitgeist/Daniel - Lena Kotré plant private Abschiebeindustrie|Daniel - Lena Kotré plant private Abschiebeindustrie]]
+- [[Zeitgeist/Daniel - Lena Kotré plant private Abschiebeindustrie|Daniel - Lena Kotré plant private Abschiebeindustrie]] — Eine Abschiebung als Vergabeverfahren zu denken, verlangt keinen Hass — nur ein Formular. Was passiert, wenn das Ungeheure sich in Zuständigkeiten zerlegen lässt.
 - [[Zeitgeist/Daniel - Weidel beim Schwurblertreff AWEF|Daniel - Weidel beim Schwurblertreff AWEF]]
 - [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz|Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 - [[Zeitgeist/Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Die Geister hinter MAGA — Ideengeschichtliche Linien neoreaktionären Denkens]] — Sechs Texte, ein Abend, eine Frage: Woher kommen die Ideen, die im Weißen Haus regieren — und was tut man, wenn das Lesen selbst zur Ablenkung wird?
@@ -173,7 +173,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Staiy — News Machtmissbrauch CDU CSU (25.03.2026)|Staiy — News: Krasser Machtmissbrauch von CDU/CSU (25.03.2026)]]
 - [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Faschismus als entfesselte Eigentumslogik oder als Prozess der Faschisierung? Eva von Redecker und Damir Skenderovic vermessen, wo der Rechtsruck endet und das Kippen beginnt.
-- [[Zeitgeist/StreitClub — Europa allein zu Haus|StreitClub #17 — Europa allein zu Haus]]
+- [[Zeitgeist/StreitClub — Europa allein zu Haus|StreitClub #17 — Europa allein zu Haus]] — Vier Stimmen streiten über ein verlassenes Haus: Ist die Gefahr der abgereiste Bruder, der Aggressor vor der Tür — oder die eigene Unfähigkeit, sie zu schließen?
 - [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]] — Drei Instrumente sollen die Demokratie schützen — Verbot, Brandmauer, Entzauberung. An einem Abend nach der Wahl wird jedes einzelne geprüft, und keines hält.
 - [[Zeitgeist/Studio Bonn — Extremer Reichtum|Studio Bonn — Extremer Reichtum]]
 - [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]]
