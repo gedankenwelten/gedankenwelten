@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Lena Kotré — Abschiebeindustrie, Vetschau, Einstufung
+
+| | |
+|---|---|
+| **Video** | [AFD POLITIKERIN Will Sich Eine PRIVATARMEE Bauen…](https://www.youtube.com/watch?v=GBOBFCtGA3I) — Daniel, Politik und Aufklärung |
+| **Vetschau 23.01.2026** | [Correctiv](https://correctiv.org/aktuelles/neue-rechte/2026/01/23/sellner-kotre-brandenburg-vortrag-remigration/) · [MIK Brandenburg, PM 27.01.2026](https://mik.brandenburg.de/mik/de/service/presse/pressemitteilungen/detail-pm-und-meldungen/~27-01-2026-afd-brandenburg) · [NZZ](https://www.nzz.ch/international/wir-lassen-uns-die-remigration-nicht-nehmen-afd-politikerin-tritt-gegen-den-willen-ihrer-parteispitze-mit-martin-sellner-auf-ld.1921644) · [taz](https://taz.de/AfD-Abgeordnete-und-die-Identitaeren/!6148076/) · [ZDFheute](https://www.zdfheute.de/politik/martin-sellner-afd-kotre-debatte-konsequenzen-100.html) |
+| **Einstufungsvermerk** | [MIK Brandenburg, Anlage zur PM 14.08.2025](https://mik.brandenburg.de/mik/de/service/presse/pressemitteilungen/anlage-pm-14-08-2025/) |
+| **Einstufung Kotré** | [Tagesspiegel](https://www.tagesspiegel.de/afd-brandenburg-landtagsabgeordnete-lena-kotre-auch-gesichert-rechtsextremistisch-14176865.html) · [Nordkurier](https://www.nordkurier.de/regional/brandenburg/auch-brandenburger-afd-jetzt-gesichert-rechtsextrem-3560439) |
+| **Kloten Dez. 2024** | [t-online](https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_100560250/afd-frau-lena-kotre-fantasiert-bei-treffen-mit-rechtsextremen-ueber-dna-tests.html) · [Berliner Kurier](https://www.berliner-kurier.de/news/diese-brandenburger-afd-politikerin-will-politische-gegner-ausbuergern-li.2284921) |
+| **Notiz** | [[Zeitgeist/Daniel - Lena Kotré plant private Abschiebeindustrie]] · [[DenkerVita/Lena Kotre]] |
+
 ## Cardiff-Memorandum — Schottland, Wales und Nordirland (14.09.2026)
 
 | | |
