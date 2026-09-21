@@ -441,3 +441,7 @@ Laschyk übersetzt DiRestas Befund ins Deutsche und setzt den Hebel beim Geld an
 ### → [[KI-Agenten — Vom Dorf zur Zivilisation]]
 
 Im Minecraft-Experiment Project Sid folgten die Stimmen simulierter Bürger den eingebauten Steuer-Influencern — DiRestas Mechanismus im Labormaßstab.
+
+### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+
+„Rewarding Extremity" von der anderen Seite: Mössner zeigt, wie schon ein harmloses Rezept in die Empörungsmechanik gerät, und Crockett erklärt, warum moralisch-emotionale Wörter Reichweite bringen (rund 20 Prozent mehr Retweets je Wort, Brady et al. 2017).

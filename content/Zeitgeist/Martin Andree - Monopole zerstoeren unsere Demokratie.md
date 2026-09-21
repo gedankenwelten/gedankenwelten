@@ -250,6 +250,9 @@ Hans *Infokratie* ist die philosophische Fassung von Andrees Befund: Die Echtzei
 
 Der offene Widerspruch zu Andrees hoffnungsvollster These. Für ihn stehen Monopole auf abschaffbaren Rechtsprivilegien — „nichts ist leichter zu ändern als Monopole". Orain beschreibt Monopole dagegen als Signatur einer Epoche, die erst kippt, wenn ein Hegemon seinen Rang gewinnt oder verliert; Kartellrecht wirkt bei ihm nur in liberalen Phasen und verstummt in den anderen von selbst. Dass Lina Khans FTC nicht an juristischen Argumenten scheiterte, sondern an einer Wahl, spricht eher für Orain — Andrees Telekom-Beispiel dagegen für die Machbarkeit.
 
+### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+Andrees „Regulierung ist Befreiung" am Innenleben des Feeds: Facebook setzte das Wutgesicht 2020 von fünf Punkten auf null, und der Digital Services Act verlangt eine Sortierung ohne Profiling. Das Sortierziel ist eine Entscheidung und lässt sich ändern.
+
 ---
 
 ## Weiterdenken

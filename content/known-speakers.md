@@ -989,3 +989,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Thomas Laschyk
 **Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Laschyk]]
+
+## Molly Crockett
+**Status:** ✓ Vollanalyse → [[DenkerVita/Molly Crockett]]

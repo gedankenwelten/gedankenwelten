@@ -299,6 +299,10 @@ Beide arbeiten gegen dieselbe falsche Gabelung in der Klimakommunikation: Urner 
 
 Das Format, das aus Urners Diagnose folgt — und die Probe darauf. Die HPV-Meldung ist ihr Kernbeispiel in Reinform: ein Erfolg, der aus einem Nicht-Ereignis besteht und im Nachrichtensystem keine Form hat, in der er auftauchen könnte. Die unbequeme Frage stellt die Note selbst: ob ein Kanal, der nur Gutes bringt, dasselbe Auswahlproblem hat wie einer, der nur Schlechtes bringt.
 
+### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+
+Die Müdigkeit des Feeds als fehlende Wegkraft: Man fühlt ständig mit und kann nichts tun. Mössner nennt 72 Prozent Nachrichtenvermeider in Deutschland und baut sich einen Reader, der „alles gelesen" sagt, eine Bastellösung für Urners Frage nach dem Handlungsweg.
+
 ---
 
 ## Weiterdenken

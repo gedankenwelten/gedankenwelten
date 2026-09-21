@@ -213,3 +213,7 @@ Steinke und Marinić diagnostizieren dieselbe Krankheit wie Pörksen — aber vo
 ### → [[Zeitgeist/Topfvollgold — Die Wahrheit ueber die Oeffentlich-Rechtlichen|Topfvollgold — Die Wahrheit über die Öffentlich-Rechtlichen]]
 
 Der Realitätstest für Pörksens „redaktionelle Gesellschaft": ÖRR-Insider fordern bei Schönauer exakt die dialogische Transparenz, die Pörksen als Gegenmittel beschreibt — „die Programmzahlerinnen auf Augenhöhe informieren, wofür ihr Geld ausgegeben wird". Die Note zeigt aber auch, warum das scheitert: Bürokratische Abstimmungsschleifen machen jede Stellungnahme „immer unschärfer", bis die Institution wie ein unbelehrbares Bollwerk wirkt.
+
+### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+
+Der Filterclash als Ranking-Entscheidung: Das Feature gegen die Blase setzt das vegane Rezept vor die Grill-Glaubenskrieger, „ein Treffen der Anonymen Alkoholiker in einer Bar".

@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **21.09.** — [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+>
+> Der Feed kennt keinen Unterschied zwischen Liebe und Hass, nur Verweildauer. Er verstärkt ein altes Gefühl, das einmal Gruppen zusammenhielt, und macht uns dabei müde.
+
+> **18.09.** — [[Geistesblitz/KI-Agenten — Vom Dorf zur Zivilisation|KI-Agenten — Vom Dorf zur Zivilisation]]
+>
+> Fünfundzwanzig KI-Figuren feiern eine Party, tausend gründen eine Religion. Was diese Simulationen zeigen, hängt davon ab, wer genau hinsieht: an ihnen erkennen wir uns selbst.
+
+> **08.09.** — [[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering|Judith Mangelsdorf — Flourishing und Mattering]]
+>
+> Ein Gefühl entscheidet mehr über ein Leben als Erfolg: ob jemand merkt, dass die Welt ohne ihn eine andere wäre. Und ob dieses Gefühl gerecht verteilt ist.
+
 ### Zeitgeist
 
 > **20.09.** — [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Maja Göpel & Achim Truger — Wachstum NEU DENKEN]]
@@ -43,8 +57,6 @@ Die Gedankenwelten (luc)
 > **14.09.** — [[Zeitgeist/Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg|Sudan: Chlorbomben im vergessenen Krieg]]
 >
 > Chlor gegen die Cholera, Chlor in der Bombe: Geleakte Akten zeigen, wie Sudans Armee Giftgas baute — und wie ein Verbot zerfällt, wenn niemand hinsieht.
-
-> → *1 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -83,20 +95,6 @@ Die Gedankenwelten (luc)
 > Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 
 > → *1 weitere in* [[Spuren]]
-
-### Geistesblitz
-
-> **18.09.** — [[Geistesblitz/KI-Agenten — Vom Dorf zur Zivilisation|KI-Agenten — Vom Dorf zur Zivilisation]]
->
-> Fünfundzwanzig KI-Figuren feiern eine Party, tausend gründen eine Religion. Was diese Simulationen zeigen, hängt davon ab, wer genau hinsieht: an ihnen erkennen wir uns selbst.
-
-> **08.09.** — [[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering|Judith Mangelsdorf — Flourishing und Mattering]]
->
-> Ein Gefühl entscheidet mehr über ein Leben als Erfolg: ob jemand merkt, dass die Welt ohne ihn eine andere wäre. Und ob dieses Gefühl gerecht verteilt ist.
-
-> **11.08.** — [[Geistesblitz/Steelpan — Was aus einem Trommelverbot wurde|Steelpan — Was aus einem Trommelverbot wurde]]
->
-> Eine Kolonialverwaltung verbot die Trommel, eine Ölindustrie ließ Fässer liegen — und die Ärmsten von Port of Spain bauten daraus das Instrument, dessen Akustik bis heute niemand ganz versteht.
 
 ### GoodNews
 

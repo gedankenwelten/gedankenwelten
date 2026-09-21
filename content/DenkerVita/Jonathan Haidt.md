@@ -109,6 +109,10 @@ Die evolutionäre Tiefenschicht zu Haidts Moral Foundations. Van Schaik erklärt
 ### → [[DenkerVita/Rainer Mausfeld|Rainer Mausfeld]]
 Ein aufschlussreicher Kontrast in der Frage, warum Menschen politisch handeln, wie sie handeln. Haidt erklärt Verblendung von unten — aus der Stammesnatur und den moralischen Intuitionen der Vielen. Mausfeld erklärt sie von oben — als gezielte Manipulation durch Eliten und Meinungsmacht. Wo Haidt moralische Demut aller Lager predigt, sieht Mausfeld eine strukturelle Machtasymmetrie; zusammen spannen sie das Feld zwischen Psychologie und Herrschaftskritik auf.
 
+### → [[DenkerVita/Molly Crockett|Molly Crockett]]
+
+Crockett übersetzt Haidts Moralpsychologie in die Plattformfrage: Das Netz vervielfacht den persönlichen Nutzen der Empörung (Ruf, Belohnung) und entwertet ihren sozialen Nutzen, weil alles empört und die Signale nichts mehr unterscheiden.
+
 ---
 
 ## Gedankenwelten-Notes
