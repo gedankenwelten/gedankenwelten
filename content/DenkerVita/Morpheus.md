@@ -65,10 +65,11 @@ Morpheus veröffentlicht primär über YouTube und seinen MorphReader (RSS-App m
 
 ## Verbindungen zu anderen Denkern
 
-*Wird von Montaigne befüllt.*
+- [[DenkerVita/Molly Crockett|Molly Crockett]] — Gegenstimme in derselben Note: Mössner sucht die Ursache der Empörungsflut im Code, der Reaktion misst und sich ändern lässt; Crockett zeigt, dass der Code ein altes, sozial nützliches Gefühl bedient, das man nicht einfach herausrechnen kann.
 
 ---
 
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen]]
+- [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung]]

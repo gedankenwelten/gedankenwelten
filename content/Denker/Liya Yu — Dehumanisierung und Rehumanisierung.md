@@ -242,6 +242,10 @@ Regierungsposts, die ihn *assassin* und *domestic terrorist* nennen. Die Sprache
 Mentalisierung abgeschaltet, bevor ein Verfahren beginnen konnte — genau die Operation, die Yu
 beschreibt, nur diesmal vom Staat selbst ausgeführt und öffentlich archiviert.
 
+### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+
+Die industrielle Seite der Asymmetrie: Crockett zeigt, dass Menschen weniger strafen, wenn sie das Gesicht des anderen sehen, und dass online davon ein Avatar bleibt. Der Feed ist die Fabrik, gegen die Yus Handarbeit der Rehumanisierung ankommen muss.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

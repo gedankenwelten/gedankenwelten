@@ -229,6 +229,10 @@ Redeckers Phantombesitz und Bernhardts Rache spiegeln sich: Beide deuten faschis
 
 Der Praxis-Test der These: zwei Menschen an genau der Wunde, aus der Bernhardt die Rache (und mit ihr die Moral) entspringen sieht — und die ihr die Vergeltung dennoch verweigern. Gerechtigkeit ohne Rachebalance, als Wette mit vollem Einsatz.
 
+### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+
+Der reaktive Affekt empirisch: Crockett zeigt, dass moralische Empörung Normen durchsetzt und schon bei Vierjährigen zugleich dem eigenen Ruf dient, und dass sie online ihre Signaltreue verliert, sobald sie nichts mehr kostet.
+
 ---
 
 ## Weiterdenken

@@ -54,6 +54,7 @@ Akademischer Philosoph ohne ausgeprägtes parteipolitisches Profil. Sein Zugriff
 - [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard]] — schärfster Gegenpol: den Groll auflösen statt ausgleichen; Gleichmut gegen den thymotischen Pol.
 - [[Denker/Markus Gabriel — Universelle Moral|Markus Gabriel]] — Vernunft-Fundament der Moral gegen Bernhardts Kränkungs-Fundament.
 - [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen|Jonathan Haidt]] — moralische Intuitionen (Haidt) vs. die Kränkung als Ursprung darunter (Bernhardt).
+- [[DenkerVita/Molly Crockett|Molly Crockett]] — moralische Empörung als Normdurchsetzer mit evolutionärer Funktion; online billig, belohnt und ohne Signaltreue.
 - [[Denker/Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke|Schmitz & Maio]] — dieselbe Wunde der Verletzlichkeit, zwei Ausgänge: Wachstum vs. Rache.
 - [[Denker/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker]] — Phantombesitz und Rache als Verteidigung eines verletzten Ordnungsanspruchs.
 

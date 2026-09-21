@@ -282,3 +282,7 @@ Der Sortiermaschinen-Befund bekommt bei Bärfuss ein Gesicht: Der Schweizer Schr
 Mau zeigt die ideologische Verwirrung von unten: Die Benachteiligten verteidigen die Leistungsgesellschaft stärker als die Begünstigten. Hartmann liefert das obere Ende derselben Zange — Großbürgerkinder in der Elite halten die Verteilung für gerecht, weil sie sie als Leistung ihrer Väter und Großväter lesen.
 
 Er beantwortet damit auch Maus offene Frage, warum die Verteilungsfrage keinen Triggerpunkt erzeugt, obwohl eine große Mehrheit die Ungleichheit für zu groß hält: Unter denen, die Themen setzen, war kein einziges Bürgerkind dafür.
+
+### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+
+Das algorithmische Stück zur gefühlten Spaltung: „Der Feed ist keine Volkszählung". Beim Klima würden 69 Prozent ein Prozent ihres Einkommens geben, geschätzt werden 43 Prozent, weil Zustimmung keine Kommentare erzeugt und der Feed nach Reaktion sortiert.

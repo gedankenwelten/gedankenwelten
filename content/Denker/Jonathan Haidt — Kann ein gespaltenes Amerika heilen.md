@@ -358,3 +358,6 @@ IT Marios drei Populismus-Merkmale (Antielitarismus, Antipluralismus, Komplexit�
 ### → [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
 
 Tianas dreigliedrige Analyse — Systemabsurditäten, Schul-Konditionierung, Wahlverhalten — ist eine empirische Fallstudie zu Haidts Spaltungs-Diagnose. Und ihre eigene Auswanderung ist ein radikaler Ausweg, den Haidts Heilungsansätze nicht vorsehen.
+
+### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+Crockett liefert die Forschung zu Haidts Satz vom Dopamin der Empörung: Empörung zeigen baut den eigenen Ruf auf, im Hirnscan springt das Belohnungssystem an, und online wächst dieser persönliche Nutzen, während der Nutzen für die Gruppe schwindet.

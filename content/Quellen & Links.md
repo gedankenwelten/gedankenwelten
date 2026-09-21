@@ -4540,3 +4540,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **DenkerVita** | [[DenkerVita/Joon Sung Park]] |
 | **Transkripte** | `Gedankenwelten/Transkripte/Park_Smallville_Generative_Agents_Transkript.txt` (YouTube, englisch) · `Altera_ProjectSid_Transkript.txt` (YouTube, englisch) · `PCWELT_ProjectSid_Transkript.txt` (Whisper, deutsch) |
 
+## Morpheus und Molly Crockett — Ragebait und moralische Empörung
+
+| | |
+|---|---|
+| **Video** | [Es reicht mit Ragebait](https://www.youtube.com/watch?v=ojyWXJvwOQw) — The Morpheus (Cedric Mössner), 20.09.2026 (28 Min.) |
+| **Vortrag** | [Molly Crockett — Moral Outrage in the Digital Age](https://www.youtube.com/watch?v=LLGvtaI5eAE) — Yale SOM, Center for Customer Insights, 2019 (25 Min.) |
+| **Paper** | [Crockett 2017, Moral outrage in the digital age](https://doi.org/10.1038/s41562-017-0213-3) · [Brady et al. 2021, How social learning amplifies moral outrage](https://doi.org/10.1126/sciadv.abe5641) |
+| **Notiz** | [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung]] |
+| **DenkerVita** | [[DenkerVita/Morpheus]] · [[DenkerVita/Molly Crockett]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Moessner_Ragebait_Transkript.txt` (YouTube, deutsch) · `Crockett_Moral_Outrage_Yale_Transkript.txt` (YouTube, englisch) |
