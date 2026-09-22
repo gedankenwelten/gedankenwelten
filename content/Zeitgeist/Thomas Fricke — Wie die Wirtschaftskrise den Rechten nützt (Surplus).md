@@ -298,3 +298,6 @@ Der Staatsrechtler teilt Frickes Weigerung, den Aufstieg der AfD als Charakterwa
 
 Laschyk führt die Anfälligkeit für Desinformation auf einen ausgehungerten Sozialstaat zurück. Frickes Kontrollverlust-These gibt dieser Kette den Mechanismus — und den Einwand, dass eine Steuer allein keine Kontrolle zurückgibt.
 
+### → [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
+
+Die Anti-Ohnmacht-Agenda im Kleinen: Beschäftigte einer insolventen Spinnerei in Lothringen holen sich die Kontrolle zurück, indem sie den Betrieb kaufen. Der Nachbarbetrieb Sitek scheitert an der Regionalpolitik, die Fricke fordert und die dort ausblieb.

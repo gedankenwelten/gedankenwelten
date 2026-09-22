@@ -234,6 +234,10 @@ Teresa Bücker hat mit *Alle Zeit* (2022) eine der wichtigsten deutschsprachigen
 
 „So eine KI fällt ja nicht vom Himmel" — diese Note zeigt, was wirklich dahinter steckt: 150–430 Mio. Menschen, 18–20 Stunden täglich, $20/Woche. Während NANO über die Zukunft der Arbeit diskutiert, arbeitet Joan Kinyua in einem System, das diese Zukunft produziert — ohne Tarifvertrag, ohne Krankenversicherung, mit PTSD.
 
+### → [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
+
+Schaupps zweite Hälfte der Demokratie, gefilmt: Eine Belegschaft wählt ihren Verwaltungsrat und damit ihre Chefs. Der Preis steht mit im Bild, mehr Arbeit für dasselbe Geld.
+
 ---
 
 ## Weiterdenken

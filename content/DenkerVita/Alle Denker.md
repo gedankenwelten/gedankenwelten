@@ -183,6 +183,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Frederike Kaltheuner|Frederike Kaltheuner]]** — Senior Advisor AI Now Institute, Leiterin *new possible*; KI-Industriepolitik und europäische Souveränität; kritische Technologiepolitik aus Menschenrechts-Perspektive; Herausgeberin *Fake AI* (2022); Co-Autorin EU AI Industrial Policy Monitor; Expert für Marktkonzentration, Regulierungsasymmetrien, public interest in KI-Märkten
 
+**[[DenkerVita/Valentine Fanjeaux|Valentine Fanjeaux]]** — Textilingenieurin, Präsidentin und Generaldirektorin der Bergère de France SCOP (Bar-le-Duc); führt die letzte französische Spinnerei für Strickgarn, die ihre Belegschaft 2024 aus der Liquidation gekauft hat
+
 **[[DenkerVita/Maximilian Fichtner|Maximilian Fichtner]]** — Festkörperchemiker, Professor Universität Ulm, Direktor Helmholtz-Institut Ulm (HIU); Batterieforscher und Mythen-Aufklärer; E-Autos ökobilanzlich überlegen, Rohstoffverfügbarkeit technisch lösbar, europäische Batterieproduktion strategische Notwendigkeit; Sprecher POLiS (Post Lithium Energy Storage), wissenschaftlicher Direktor CELEST; Podcast *Geladen*
 
 ## G
@@ -328,6 +330,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Martin Buber|Martin Buber]]** — jüdischer Religionsphilosoph (1878–1965), Wien–Heppenheim–Jerusalem; *Ich und Du* (1923), das dialogische Prinzip, Erzähler des Chassidismus, Bibelverdeutschung mit Rosenzweig, Binationalist; „Der Mensch wird am Du zum Ich“
 
 **[[DenkerVita/Judith Mangelsdorf|Judith Mangelsdorf]]** — Psychologin und Glücksforscherin; erste volle Professorin für Positive Psychologie im deutschsprachigen Raum (DHGS Berlin, seit 2021), Direktorin der DGPP; Wachstum braucht kein Leid (Meta-Analyse zu posttraumatischem und postekstatischem Wachstum, IPPA-Dissertationspreis 2019), Flourishing und Languishing als zwei Kontinua, Mattering und Anti-Mattering, *No wellness without fairness*
+
+**[[DenkerVita/Marie-Madeleine Maucourt|Marie-Madeleine Maucourt]]** — Genossenschaftspraktikerin, Direktorin der Union régionale des Scop Grand Est; begleitet Belegschaftsübernahmen wie Bergère de France (2024); partizipatives Management gegen den „knallharten Kapitalismus“
 
 **[[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]]** — Makroökonom, seit 2013 Präsident des DIW Berlin und Professor an der HU Berlin; elf Jahre EZB; Exportüberschuss als Symptom einer Investitionslücke, Schuldenbremse als Investitionsbremse, Vermögensungleichheit als makroökonomisches Problem — *Die Deutschland-Illusion*, *Verteilungskampf*
 

@@ -210,6 +210,10 @@ Kave Bulambos Satz *„uns gehören diese Plattformen nicht"* ist die Diagnose, 
 
 Wohnen als Testfall des Prinzips: Wiener Gemeindebau und gemeinnützige Bauvereinigungen halten knapp eine Million Wohnungen dauerhaft in gemeinwohlgebundener Hand — die Kostenmiete läuft nicht aus, weil keine Aktionäre auf Rendite warten. Deutschland fördert stattdessen befristete Bindungen an privatem Eigentum und zahlt jährlich zwanzig Milliarden Miethilfe an dieselben Eigentümer. Derselbe Bedarf, zwei Rechtsformen, gegensätzliches Ergebnis.
 
+### → [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
+
+Die Genossenschaft in der Industrie und auf dem schwersten Weg: 56 Beschäftigte kaufen eine insolvente Spinnerei in Lothringen mit ihren Abfindungen. Daneben scheitert Sitek Insulation an 5,7 Millionen Euro, und die Kapitalfrage, die das Panorama bei Mondragón streift, bekommt ein Gesicht.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
