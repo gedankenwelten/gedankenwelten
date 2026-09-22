@@ -320,3 +320,7 @@ Mattei gibt dem Thema Wirtschaftsdemokratie den historischen und theoretischen R
 ### → [[Zeitgeist/Studio Bonn — Extremer Reichtum]]
 
 Studio Bonn bringt Engelhorn ins Gespräch — eine Erbin, die freiwillig umverteilt, wo Jung strukturellen Zwang fordert. Jungs "das System muss sich ändern" vs. Engelhorns "ich ändere mich innerhalb des Systems": zwei Antworten auf dieselbe Diagnose.
+
+### → [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
+
+Ein Fall zu Gabels Gründungsproblem: Bei Bergère de France tragen die Beschäftigten das Kapitalrisiko selbst, mit ihren Abfindungen. Der regionale Solidarfonds des Genossenschaftsverbands ist ein kleines Mondragón-Bankmodell, und Sitek zeigt, was passiert, wenn er nicht reicht.

@@ -36,6 +36,12 @@ Die Gedankenwelten (luc)
 >
 > Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung.
 
+### GoodNews
+
+> **22.09.** — [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
+>
+> Sechsundfünfzig Beschäftigte einer insolventen Spinnerei kaufen mit ihren Abfindungen die Fabrik. Das gelingt, es kostet viel, und nebenan scheitert dasselbe am Geld.
+
 ### Geistesblitz
 
 > **21.09.** — [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
@@ -91,12 +97,6 @@ Die Gedankenwelten (luc)
 > Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
 
 > → *1 weitere in* [[Spuren]]
-
-### GoodNews
-
-> **06.09.** — [[GoodNews/Good News - Gute Nachrichten August 2026 Teil 2|Good News — Gute Nachrichten August 2026 Teil 2]]
->
-> Dreizehn Meldungen, ein Faden: Fast jede handelt von einer Verbindung, die wiederhergestellt wird — ein Netz unter der Erde, ein Netz über dem Land, ein Abkommen zwischen Feinden.
 
 ### Gedanken
 

@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## ARTE Re: — Wenn Arbeiter Chefs werden (Bergère de France, 2024)
+
+| | |
+|---|---|
+| **Reportage** | [Wenn Arbeiter Chefs werden · ARTE Re:](https://www.youtube.com/watch?v=AjfhQCunEG0) — ARTE, F 2024, 31 Min. · [ARTE-Mediathek](https://www.arte.tv/de/videos/121276-006-A/re-wenn-arbeiter-chefs-werden/) |
+| **Notiz** | [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden]] · [[DenkerVita/Valentine Fanjeaux]] · [[DenkerVita/Marie-Madeleine Maucourt]] |
+| **Transkript** | `Gedankenwelten/Transkripte/ARTE_Re_Arbeiter_Chefs_Transkript.txt` |
+
 ## Martin Buber und Emmanuel Levinas — Philosophische Soirée (Haus am Dom, 2021)
 
 | | |

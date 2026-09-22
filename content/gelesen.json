@@ -35,11 +35,11 @@
    "aufrufe": 12
   },
   {
-   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+   "pfad": "/DenkerVita/Mark-Reicher.html",
    "aufrufe": 11
   },
   {
-   "pfad": "/DenkerVita/Mark-Reicher.html",
+   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
    "aufrufe": 11
   },
   {
@@ -51,12 +51,20 @@
    "aufrufe": 9
   },
   {
+   "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
+   "aufrufe": 8
+  },
+  {
    "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
    "aufrufe": 8
   },
   {
-   "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
-   "aufrufe": 8
+   "pfad": "/DenkerVita/Udo-Marquardt",
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Jihan-Alomar",
+   "aufrufe": 6
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -67,19 +75,11 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Jihan-Alomar",
-   "aufrufe": 6
-  },
-  {
    "pfad": "/DenkerVita/Freddy-Leppin",
    "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Udo-Marquardt",
-   "aufrufe": 6
-  },
-  {
-   "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
+   "pfad": "/DenkerVita/Juergen-Kornmeier",
    "aufrufe": 5
   },
   {
@@ -87,11 +87,15 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Juergen-Kornmeier",
+   "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
    "aufrufe": 5
   },
   {
-   "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+   "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
    "aufrufe": 4
   },
   {
@@ -111,7 +115,7 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+   "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
    "aufrufe": 4
   },
   {
@@ -132,10 +136,6 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Jürgen-Völz",
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
    "aufrufe": 4
   },
   {
@@ -211,7 +211,7 @@
    "aufrufe": 3
   },
   {
-   "pfad": "/Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit",
+   "pfad": "/Panorama/Autoritaerer-Internationalismus",
    "aufrufe": 2
   },
   {
@@ -219,19 +219,7 @@
    "aufrufe": 2
   },
   {
-   "pfad": "/Panorama/Autoritaerer-Internationalismus",
-   "aufrufe": 2
-  },
-  {
    "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Fuer-dich-sorgen-heisst-fuer-andere-sorgen",
-   "aufrufe": 2
-  },
-  {
-   "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken.html",
-   "aufrufe": 2
-  },
-  {
-   "pfad": "/DenkerVita/Ralf-Stockmann",
    "aufrufe": 2
   },
   {
@@ -239,7 +227,19 @@
    "aufrufe": 2
   },
   {
+   "pfad": "/DenkerVita/Ralf-Stockmann",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken.html",
+   "aufrufe": 2
+  },
+  {
    "pfad": "/Zeitgeist/Wendy-Brown-Wie-Neoliberalismus-die-Demokratie-bedroht",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/DenkerVita/Christof-Spitz",
    "aufrufe": 2
   }
  ],
@@ -372,6 +372,10 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Maja-Goepel",
+     "aufrufe": 1
+    },
+    {
      "pfad": "/DenkerVita/Ruben-Mawick",
      "aufrufe": 1
     },
@@ -482,10 +486,6 @@
     {
      "pfad": "/Zeitgeist/Andreas-Kemper-Technofaschismus-und-die-AfD",
      "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft.html",
-     "aufrufe": 1
     }
    ]
   },
@@ -525,11 +525,11 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "pfad": "/DenkerVita/Mark-Reicher.html",
      "aufrufe": 11
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "aufrufe": 11
     },
     {
@@ -541,12 +541,20 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
+     "aufrufe": 8
+    },
+    {
      "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
-     "aufrufe": 8
+     "pfad": "/DenkerVita/Udo-Marquardt",
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Jihan-Alomar",
+     "aufrufe": 6
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -557,19 +565,11 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Jihan-Alomar",
-     "aufrufe": 6
-    },
-    {
      "pfad": "/DenkerVita/Freddy-Leppin",
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Udo-Marquardt",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
      "aufrufe": 5
     },
     {
@@ -577,11 +577,15 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
      "aufrufe": 5
     },
     {
-     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
      "aufrufe": 4
     },
     {
@@ -601,7 +605,7 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "aufrufe": 4
     },
     {
@@ -622,10 +626,6 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
      "aufrufe": 4
     },
     {
@@ -701,7 +701,7 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit",
+     "pfad": "/Panorama/Autoritaerer-Internationalismus",
      "aufrufe": 2
     },
     {
@@ -709,19 +709,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Panorama/Autoritaerer-Internationalismus",
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Fuer-dich-sorgen-heisst-fuer-andere-sorgen",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
      "aufrufe": 2
     },
     {
@@ -729,7 +717,19 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken.html",
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Zeitgeist/Wendy-Brown-Wie-Neoliberalismus-die-Demokratie-bedroht",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Christof-Spitz",
      "aufrufe": 2
     }
    ]
@@ -830,6 +830,10 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
+     "aufrufe": 9
+    },
+    {
      "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
      "aufrufe": 9
     },
@@ -839,10 +843,6 @@
     },
     {
      "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
      "aufrufe": 8
     },
     {
@@ -1075,6 +1075,10 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
+     "aufrufe": 9
+    },
+    {
      "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
      "aufrufe": 9
     },
@@ -1084,10 +1088,6 @@
     },
     {
      "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
      "aufrufe": 8
     },
     {

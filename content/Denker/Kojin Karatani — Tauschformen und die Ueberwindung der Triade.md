@@ -251,6 +251,10 @@ Karatanis Reziprozität (Tauschform A) in existenzieller Sprache: Ubuntu als die
 
 Karatanis Tauschmodus der Reziprozität als gelebte Gegenwart: Sarrs „Ökonomie der Beziehung" (die Muriden-Bruderschaft, *homo africanus* statt *homo oeconomicus*) zeigt aus senegalesischer Praxis, was Karatani welthistorisch systematisiert — eine Wirtschaft, die Beziehung stiftet statt nur Güter zu bewegen.
 
+### → [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
+
+Ein Prüfstein für Mode D: Eine Belegschaft übernimmt ihre Spinnerei und überlebt, weil Département und Markt mitziehen, eine zweite scheitert, weil das Geld nicht kommt. Die Frage aus dem Weiterdenken, warum Genossenschaften am Markt scheitern, bekommt hier einen konkreten Fall.
+
 ---
 
 ## Weiterdenken

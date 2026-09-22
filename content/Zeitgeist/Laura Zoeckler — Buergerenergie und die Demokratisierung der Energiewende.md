@@ -230,3 +230,7 @@ Großmanns Klettwitz-Modell (80€/Einwohner/Jahr Direktausschüttung) ist das p
 ### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
 
 Der Energieökonom liefert die Forschungsgrundlage zu Zöcklers Praxis: Co-Benefits wirken umso stärker, je weiter sie vom Klima entfernt sind (Hallenbad statt CO₂-Bilanz), und die „laute Minderheit" verdeckt die stille Mehrheit pro Windkraft — Bürgerenergie ist die Operationalisierung dieses Befunds.
+
+### → [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
+
+Dasselbe Prinzip in der Industrie: 56 Beschäftigte übernehmen eine Spinnerei, und ein regionaler Verband mit Solidarfonds übernimmt die Rolle, die hier die Bürgerwerke spielen. Auch Zöcklers Grenzen kehren wieder, das Amt neben dem Beruf und das fehlende Kapital für den großen Fall.

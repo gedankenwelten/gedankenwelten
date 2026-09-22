@@ -243,3 +243,4 @@ Er fügt hinzu: Mit einem gläubigen Katholiken, der kein Fanatiker ist, hätte 
 
 Ernst Tugendhat kommt von der Todesangst her zu einem verwandten Schluss: Die Angst vor dem Ende tritt zurück, wenn man sich nicht mehr als letzten Bezugspunkt nimmt und die Welt schwerer wiegt als man selbst.
 
+- [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]] — Fromms These, das Interesse an der Arbeit wachse mit der Mitbestimmung über die eigenen Arbeitsbedingungen, erprobt in einer Spinnerei, die ihren Beschäftigten gehört: zwei Stunden gemeinsam auf der Messe ersetzen einen Monat Hierarchie, und die Erschöpfung wächst mit.

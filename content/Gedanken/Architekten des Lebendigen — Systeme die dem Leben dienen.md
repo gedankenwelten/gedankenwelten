@@ -439,3 +439,7 @@ Heins geoökonomische Analyse ist das Architekten-Prinzip auf geopolitischer Ebe
 ---
 
 *Dieser Essay ist ein Fundament — kein fertiges Gebäude. Er wird wachsen, wie die Gedankenwelten wachsen.*
+
+### → [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
+
+Eine Genossenschaft aus der Nähe, an der sich die These der geteilten Last prüfen lässt: Das Eigentum verteilt sich auf 56 Köpfe, die Erschöpfung auf wenige. Dazu der Anfang einer Antwort auf die offene Frage, warum die demokratischste Rechtsform die stabilste ist.

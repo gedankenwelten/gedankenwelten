@@ -1007,3 +1007,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Joachim Valentin
 **Status:** ✓ Vollanalyse → [[DenkerVita/Joachim Valentin]]
+
+## Marie-Madeleine Maucourt
+**Status:** ✓ Vollanalyse → [[DenkerVita/Marie-Madeleine Maucourt]]
+
+## Valentine Fanjeaux
+**Status:** ✓ Vollanalyse → [[DenkerVita/Valentine Fanjeaux]]
