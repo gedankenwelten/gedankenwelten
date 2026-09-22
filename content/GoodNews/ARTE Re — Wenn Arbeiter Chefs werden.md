@@ -243,6 +243,10 @@ Schaupp nennt es eine halbe Demokratie, dass man die Regierung wählen kann, den
 
 Zöckler nennt zwei Grenzen der Bürgerenergie: das Ehrenamt als Flaschenhals und das Kapital, das für große Projekte fehlt. Beide tauchen in der Spinnerei wieder auf. Valentines Vorsitz kommt mit drei bis vier Stunden am Tag obendrauf, ohne mehr Lohn, und Sitek scheitert an 5,7 Millionen Euro. Die Bürgerwerke als Dachgenossenschaft und Maucourts Verband mit seinem Fonds antworten auf dieselbe Schwäche des Einzelbetriebs. Was eine Genossenschaft allein nicht stemmt, trägt ein Verbund, der aus den Beiträgen der anderen lebt.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
+
+Die Monatsausgabe desselben Monats erzählt dasselbe Maß in elf Meldungen: das Gute als lange Kurve, und die Frage, ob man Erfolg an dem misst, was getan wurde, oder an dem, was geblieben ist.
+
 ---
 
 ## Weiterdenken

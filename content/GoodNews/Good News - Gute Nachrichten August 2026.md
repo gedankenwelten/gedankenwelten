@@ -344,3 +344,6 @@ Das Yin zum Yang, auch diesen Monat: Benecke trägt die ungeschönten Messdaten 
 
 Die zweite Ausgabe desselben Monats, elf Tage später — und das gegenläufige Bauprinzip. Wo diese Ausgabe ihr Muster in der Korrektur fand (das Schlimmste abgesagt, das Beste auch), findet Teil 2 es in der Wiederherstellung: ein Pilznetz, ein Stromnetz, eine Grünbrücke, ein Abkommen zwischen Gegnern. Der Meeresschutz hier bekommt dort seine stillste Fortsetzung — ein arktisches Meer, das durch Nichtstun geschützt bleibt.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
+
+Einen Monat später wird das Aufhören zum roten Faden: kein Grundschleppnetz mehr vor Arran, weniger Rodung bei den Mangroven, sechzig Jahre sinkendes Rauchen. Die E-Zigarette spielt dabei die Rolle der Ersatzchemikalien bei den Basstölpeln, und die Messung muss weiterlaufen.

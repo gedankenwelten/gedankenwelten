@@ -240,3 +240,6 @@ Das Yang zum Yin, auch im August: Den ungeschönten Messdaten stehen die gestric
 
 Der Gegenpol aus derselben Woche, und an einem Punkt berühren sich beide: dem Umgang mit der dramatischen Zahl. Die GoodNews-Note verteidigt den UNESCO-Befund ausdrücklich *gegen* die daneben stehenden minus 73 Prozent des Living Planet Index — eine Durchschnittsgröße, keine Bestandszahl. Zusammengelesen ergeben beide dieselbe Haltung aus entgegengesetzter Richtung: Weder Panik noch Entwarnung ist ehrlich.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
+
+Die Große Grüne Mauer bestätigt Beneckes Einwand gegen die Aufforstung von beiden Seiten: Sie wirkt, und sie hat fünfzig Jahre dafür gebraucht. Auch die Arran-Zahl misst ihren Erfolg an den geschleppten Nachbarflächen, also an einer verschobenen Basislinie.

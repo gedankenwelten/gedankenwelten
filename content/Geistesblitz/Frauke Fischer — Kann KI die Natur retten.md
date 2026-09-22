@@ -344,6 +344,10 @@ Dieselbe Methode, auf den Retter angewandt: das Ausrechnen des Verschwiegenen. W
 
 Die unheimlichste Illustration des Satzes, der größte Wirtschaftssektor der Welt sei die Biodiversität und niemand bezahle ihn: Die erste globale Karte der arbuskulären Mykorrhiza zeigt ein Pilznetz, das den Gegenwert von elf Prozent der jährlichen fossilen Emissionen bindet, in keiner Bilanz auftaucht und beim Pflügen zerreißt — am dichtesten unter Grasland, dem Ökosystem ohne Lobby.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
+
+Die Mangrove, an der Fischer die nie gestellte Rechnung erklärt, wächst laut einer Science-Studie seit etwa 2010 wieder, vor allem weil weniger gerodet wurde. Am Viktoriasee zeigt der Sponsorenteil dieser Ausgabe ihren Eimer Sand im Gelände: Hänge, auf denen nach der Rodung nur Fels blieb.
+
 ---
 
 ## Weiterdenken

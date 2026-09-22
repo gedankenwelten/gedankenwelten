@@ -200,3 +200,7 @@ Böhmes prädiktives Gehirn erklärt, warum Rüthers „trügerisches Gedächtni
 ### → [[Die Neurobiologie der Liebe]]
 
 Die helle Schwester: Verliebtsein aktiviert dasselbe Belohnungssystem (VTA, Nucleus caudatus), das Rüther bei der Sucht beschreibt — nur ist die Quelle ein Mensch, nicht ein Molekül. Liebeskummer zeigt sich im fMRT als Entzug mit Craving-Signatur; der Unterschied ist, dass die Liebe sich in Bindung wandeln kann, statt in Toleranz zu eskalieren.
+
+### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
+
+In den USA ist das Rauchen auf den tiefsten je gemessenen Stand gefallen, nach sechzig Jahren aus Steuern, Warnhinweisen und einem gedrehten Bild. Rüthers Befund zu den Drohbildern und seine Warnung vor Nikotin im Jugendgehirn zeigen, wo diese Kurve an ihre Grenze stößt: bei der E-Zigarette, die vor allem junge Menschen bindet.
