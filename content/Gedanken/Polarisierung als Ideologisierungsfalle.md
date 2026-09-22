@@ -119,3 +119,8 @@ Der Ausgang aus der Falle, in einem Satz: Kritik wird nicht dadurch falsch, dass
 ### → [[Denker/Paul Ricoeur — Die zweite Naivitaet|Paul Ricœur — Die zweite Naivität]]
 
 Ricœurs Antigone-Satz markiert die Schwelle, an der diese Note die Ideologisierung ansetzen sieht: „Der Bruder, der ein Verräter ist, ist ein Bruder, bevor er ein Verräter ist." Kreon und Antigone dienen beide einer wirklichen Größe und beide in der Enge eines Standpunkts — genau der Kern Recht auf beiden Seiten, den man in der Polarisierung nicht aussprechen darf, ohne sofort zugeordnet zu werden. Dazu sein Befund zur Empörung: Sie ist intakt, aber sie findet immer den anderen schuldig; die Fähigkeit zur Selbstanklage ist die schwächere.
+
+### → [[Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+
+Bubers Unterscheidung von Bestätigen und Billigen ist ein alter Ausweg aus dieser Spirale: dem Gegner als Person Ja sagen, ohne seiner Position zuzustimmen.
+

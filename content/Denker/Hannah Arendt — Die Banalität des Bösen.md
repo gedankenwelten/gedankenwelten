@@ -240,6 +240,10 @@ Joks „Sind wir die Hüter unseres Bruders?" ist die Weigerung, im Angesicht de
 
 - [[Zeitgeist/Konstantin Flemig — Sudan Massaker el Fashir und die VAE]] — El Fashir ist kein Ausrutscher, sondern organisiertes Töten durch Bürokratie und Befehlsketten der RSF — Arendts Konzept der institutionalisierten Grausamkeit ohne persönliche moralische Reflexion trifft erschreckend präzise. Der PR-Krieg aus Dubai fügt eine neue Schicht hinzu: die kommunikative Normalisierung von Massenmord.
 
+### → [[Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+
+Arendts Gedankenlosigkeit hat einen Widerpart in Levinas, der die Vernichtung aus einem allzu zugreifenden Denken erklärt. Und am Eichmann-Urteil stand Buber ihr gegenüber, als einer der wenigen, die um Verzicht auf die Hinrichtung baten.
+
 ---
 
 ## Primärtexte für Embedding-Pipeline

@@ -238,6 +238,10 @@ Was Ricœur 1993 als kommendes Problem benennt, rechnet Butterwegge für die deu
 
 Die Smallville-Agenten erzählen sich aus ihren Handlungen eine Identität, per Reflexionsbaum: narrative Identität als Rechenverfahren. Was ihnen fehlt, ist Ricœurs zweite Hälfte, das Erleiden.
 
+### → [[Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+
+Ricœurs Dreiklang aus Selbst, Nächstem und Drittem liest sich wie die Vermittlung eines Streits, den Buber und Levinas nie geführt haben: das Du auf Augenhöhe, der Andere als Anspruch, die Gerechtigkeit für den Fernen — auf einer Achse.
+
 ---
 
 ## Weiterdenken

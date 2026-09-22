@@ -196,3 +196,8 @@ Quelle: [Heidegger in 60 Minuten](https://www.youtube.com/watch?v=cG3ol6AYAWI)
 - [[Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt]] — Im Q&A wird das Verhältnis Heidegger-Arendt diskutiert: Heideggers Versagen gegenüber dem Nationalsozialismus als Beispiel für die Grenzen philosophischer Freiheitstheorie in der Praxis
 - [[Markus Gabriel — Was ist Realitaet]] — Gabriel beantwortet explizit Heideggers Fundamentalfrage: „Der Sinn von Sein ist Erscheinen in einem Sinnfeld." Sein In-Sein-Konzept (wir gelangen nicht zur Wirklichkeit, wir entstehen in ihr) reinterpretiert Heideggers In-der-Welt-Sein ontologisch neu
 - [[Nicolaus und Winistoerfer — Warum wir die Welt vermessen]] — Das *Gestell* in seiner technisch reinsten Form: „Jeder Sensor wird zu einem Entscheidungsträger, jede Messung zu einer verlässlichen Handlung." Ein Wald wird zur klassifizierten Punktwolke, ein Dach zur Ertragsfläche, eine Stadt zum digitalen Zwilling — und ein Vortrag über Naturrettung landet mühelos bei der Batteriemontage, weil es dieselbe Grundbewegung ist. Die Note hält aber auch dagegen: Der Laser-Querschnitt, der eine Eukalyptus-Plantage von renaturiertem Wald trennt, korrigiert einen Irrtum, den das gröbere Vermessen erzeugt hatte. Für diesen Fall — genaueres Stellen als Berichtigung, nicht als weiterer Zugriff — hat Heidegger keine gute Antwort.
+
+### → [[Ernst Tugendhat — Unsere Angst vor dem Tod]]
+
+Sein Schüler Ernst Tugendhat widerspricht dem Vorlaufen in den Tod: Das „Irgendwann" macht keine Angst und ist keine Verdrängung, gefürchtet wird nur das Bald — und die Angst liegt für ihn in der Biologie, nicht im Nichts.
+

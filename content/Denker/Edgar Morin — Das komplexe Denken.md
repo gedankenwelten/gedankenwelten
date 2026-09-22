@@ -187,6 +187,10 @@ Zwei französische Denker mit derselben Biografie-Wurzel — engagierter Marxist
 
 Yorans ETF-Selbstbefund („Wer profitiert? Oh — das bin ja ich“) ist das *principe dialogique* in Reinform: Der Kritiker findet sich als Teil des Kritisierten wieder, ohne Auflösung des Widerspruchs.
 
+### → [[Ernst Tugendhat — Unsere Angst vor dem Tod]]
+
+Was Morin in der Résistance erlebte, hat Ernst Tugendhat später als Denkfigur beschrieben: Die Angst vor dem Ende tritt zurück, wenn man den Maßstab der Wichtigkeit von sich selbst auf anderes verlegt.
+
 ---
 
 ### → [[Vandana Shiva — Erd-Demokratie und die Freiheit des Saatguts]]

@@ -316,6 +316,10 @@ Fromms „Haben-Modus" — Identität durch Besitz, Kontrolle, Anhäufung — is
 
 Kehnel zeigt das Mittelalter als gelebtes Archiv anderer Zeitstrukturen — Commons-Denken, Jahreszeitenrhythmus, liturgische Zeit statt linearer Produktionszeit. Das ist das historische Material für Marquardts These, dass die Moderne einen spezifischen (und falschen) Zeitbegriff erfunden hat. Kehnels Befund: Es gab andere Möglichkeiten. Marquardts Befund: Wir haben sie vergessen.
 
+### → [[Ernst Tugendhat — Unsere Angst vor dem Tod]]
+
+Ernst Tugendhat stellt dieselbe Frage vom Tod her: Erst knappe Zeit zwingt zur Frage „Wie will ich leben?", und ohne den Tod im Hintergrund, vermutet er, sähe diese Frage ganz anders aus.
+
 ---
 
 ## Weiterdenken

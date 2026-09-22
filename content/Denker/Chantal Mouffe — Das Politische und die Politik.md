@@ -180,6 +180,10 @@ Eine Wir/Sie-Neuziehung in der Praxis: Zeigen verschiebt die Frontlinie des Naho
 - [[Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen|Das Gewebe der Freiheit]] — Mouffes Radikale Demokratie als theoretisches Fundament: Das Gewebe entsteht durch Kämpfe, nicht durch Konsens
 - [[Denker/Silvia Rivera Cusicanqui — Dekolonisierung und lo Chixi|Cusicanqui — Dekolonisierung und lo Ch'ixi]] — Ch'ixi ist Agonismus in nicht-westlichem Gewand: eine Ontologie des ungelösten Gegensatzes aus der Aymara-Webkunst, Energie aus Reibung statt Synthese. Wo Mouffe um den institutionellen Raum des Widerspruchs kämpft, spielt Cusicanqui ihn im Körper, im Haus, in der Neocomunidad aus — zwei Antworten auf dieselbe Grundfrage einer Demokratie ohne Konsensillusion
 
+### → [[Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+
+Mouffes legitimer Gegner hat einen Vorläufer in Bubers echtem Gespräch, das den anderen als Person bestätigt, ohne ihn zu billigen. Bei Levinas beginnt die Politik mit dem Dritten, der das Gegenüber unterbricht.
+
 ---
 
 ### → [[Angela Merkel — Trotz allem Hoffnung Europa]]

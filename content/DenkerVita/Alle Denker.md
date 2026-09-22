@@ -1,7 +1,7 @@
 ---
 title: Alle Denker
 date: 2026-04-16
-aktualisiert: 2026-07-27
+aktualisiert: 2026-09-22
 tags: [meta, denker-vita]
 ---
 
@@ -91,6 +91,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## C
 
+**[[DenkerVita/Christian Wiese|Christian Wiese]]** — evangelischer Theologe und Judaist, Martin-Buber-Professor für jüdische Religionsphilosophie an der Goethe-Universität Frankfurt, Leiter des Buber-Rosenzweig-Instituts; Hans-Jonas-Forscher, Herausgeber in der Buber-Werkausgabe, Gedenkbuch der hessischen Synagogen
+
 **[[DenkerVita/Agnes Callard|Agnes Callard]]** — Philosophin (antike Philosophie & Ethik), University of Chicago; verteidigt das sokratische Leben als das einzig lebenswerte; Kernkonzepte Aspiration (Werte-Erwerb statt Selbstoptimierung), unzeitgemäße Fragen, Denken als dialogische Praxis, sokratische Liebe; Werke *Aspiration* (2018), *Open Socrates* (2025)
 
 **[[DenkerVita/Carsten Jung|Carsten Jung]]** — Associate Director for Economic Policy in AI, IPPR (UK); Ökonom, ehem. Bank of England (6 Jahre); AI Directionism — staatliche Lenkung von KI-Märkten statt Laissez-faire; Publikationen zu Windfallgewinnen, Benefit Sharing, Procurement als Marktformer; Makroökonom mit Fokus auf Arbeitsmarkt-Asymmetrien
@@ -148,6 +150,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Dominik Finkelde|Dominik Finkelde]]** — (Vollanalyse vorhanden, Details ausstehend)
 
 ## E
+
+**[[DenkerVita/Ernst Tugendhat|Ernst Tugendhat]]** — Philosoph (1930–2023), aufgewachsen in der Villa Tugendhat in Brünn, Exil in Venezuela, Heidegger-Hörer und später sein Kritiker; holte die sprachanalytische Philosophie nach Deutschland; Moral ohne Metaphysik, Egozentrizität und Selbstrelativierung; *Vorlesungen über Ethik* (1993), *Egozentrizität und Mystik* (2003)
+
+**[[DenkerVita/Emmanuel Levinas|Emmanuel Levinas]]** — litauisch-französischer Philosoph (1906–1995), Schüler Husserls und Heideggers, Kriegsgefangener 1940–45, Familie in Litauen ermordet; Ethik als erste Philosophie, das Antlitz des Anderen, asymmetrische Verantwortung, der Dritte; *Totalität und Unendlichkeit* (1961), *Jenseits des Seins* (1974)
 
 **[[DenkerVita/Elmar Thevessen|Elmar Theveßen]]** — ZDF-Studioleiter Washington, zuvor stv. Chefredakteur; Chronist der US-Demokratie unter Druck (*Deadline*, 2025), Journalismus als „zweiter Satz“ in der Tradition des Thukydides
 
@@ -233,6 +239,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## J
 
+**[[DenkerVita/Joachim Valentin|Joachim Valentin]]** — katholischer Theologe, Gründungsdirektor des Hauses am Dom Frankfurt, apl. Professor für Christliche Religions- und Kulturtheorie; promovierte über Derrida und kam über ihn zu Levinas; Rat der Religionen Frankfurt, Film und Theologie
+
 **[[DenkerVita/Joon Sung Park|Joon Sung Park]]** — Informatiker (Stanford-PhD bei Bernstein & Liang, Mitgründer und CEO von Simile); Erfinder der Generative Agents: das „Smallville"-Dorf mit 25 KI-Agenten (Gedächtnis, Reflexion, Planung), 2024 Agenten-Simulationen von 1.052 realen Menschen — Gesellschaftssimulation als Labor für Entscheidungen
 
 **[[DenkerVita/Jihan Alomar|Jihan Alomar]]** — Jesidische Überlebende des Völkermords vom 3. August 2014, Zeitzeugin & Bildungsreferentin; mit zehn Jahren zehn Monate in IS-Gefangenschaft, heute Tübingen; Buch *Dankbarkeit — Die schlimmste Zeit meines Lebens* (2021), HÁWAR.help-Wertebotschafterin, Protagonistin von „Bêmal — Heimatlos"
@@ -316,6 +324,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ludwig Wittgenstein|Ludwig Wittgenstein]]** — Philosoph, Begründer Sprachphilosophie; Linguistic Turn, "Wovon man nicht sprechen kann, darüber muss man schweigen", Sprachspiele als Lebensformen
 
 ## M
+
+**[[DenkerVita/Martin Buber|Martin Buber]]** — jüdischer Religionsphilosoph (1878–1965), Wien–Heppenheim–Jerusalem; *Ich und Du* (1923), das dialogische Prinzip, Erzähler des Chassidismus, Bibelverdeutschung mit Rosenzweig, Binationalist; „Der Mensch wird am Du zum Ich“
 
 **[[DenkerVita/Judith Mangelsdorf|Judith Mangelsdorf]]** — Psychologin und Glücksforscherin; erste volle Professorin für Positive Psychologie im deutschsprachigen Raum (DHGS Berlin, seit 2021), Direktorin der DGPP; Wachstum braucht kein Leid (Meta-Analyse zu posttraumatischem und postekstatischem Wachstum, IPPA-Dissertationspreis 2019), Flourishing und Languishing als zwei Kontinua, Mattering und Anti-Mattering, *No wellness without fairness*
 

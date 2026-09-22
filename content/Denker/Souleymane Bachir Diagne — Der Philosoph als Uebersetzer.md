@@ -197,6 +197,10 @@ Akalas Forderung nach einem Lehrplan, an dessen Tisch alle sitzen, findet bei Di
 
 Das laterale Universale als akustischer Fall: Ein Physiker in Brown stellt die Steelpan quer zu Pythagoras' linearer Saite — sympathetische, nichtlineare Schwingungen, deren Beschreibung erst 2023 gelang. Zwei Ordnungen des Klangs, die sich gegenseitig prüfen müssen, statt einer über der anderen.
 
+### → [[Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+
+Diagnes Einwand gegen Levinas bekommt einen Gegenpol in der Frankfurter Soirée: Dort wirft Levinas Buber gerade die Gegenseitigkeit vor, die Diagne als Bedingung jedes Universalen einfordert.
+
 ---
 
 ## Weiterdenken
