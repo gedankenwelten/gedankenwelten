@@ -228,6 +228,10 @@ Yus Mechanismus in Anwendung: Die Gedanken-Note nutzt die mPFC-Abschaltung berei
 
 Die literarische Urszene, ein Jahrhundert vor dem Hirnscan: Musils Beineberg erklärt 1906, das bloße Menschsein sei „eine bloße äffende, äußerliche Ähnlichkeit" — und die imaginären Zahlen werden im Roman ausgerechnet mit einem Stuhl erklärt, den man einem Abwesenden hinstellt. Was Yu misst, hat Musil erzählt: bis hin zum Zuschauer, dessen Faszination das Mitleid ersetzt.
 
+### → [[Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+
+Was Yu als Abschalten der Mentalisierung misst, nannte Buber 1923 das Grundwort Ich–Es. Levinas ging weiter und sah die Gewalt schon im Denken, das den Anderen einordnet.
+
 ---
 
 ### → [[GfbV — Jesidische Familien in der Diaspora]]

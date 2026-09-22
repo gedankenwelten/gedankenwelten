@@ -6,6 +6,23 @@ tags:
   - links
 ---
 
+## Martin Buber und Emmanuel Levinas — Philosophische Soirée (Haus am Dom, 2021)
+
+| | |
+|---|---|
+| **Vortrag / Gespräch** | [Philosophische Soirée: Ich, Du und der Andere – Buber und Levinas im Gespräch](https://www.youtube.com/watch?v=BYqyNSC7gl8) — Christian Wiese & Joachim Valentin, 22.06.2021 |
+| **Notiz** | [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]] · [[DenkerVita/Martin Buber]] · [[DenkerVita/Emmanuel Levinas]] · [[DenkerVita/Christian Wiese]] · [[DenkerVita/Joachim Valentin]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Wiese_Buber_Levinas_Ich_Du_und_der_Andere_Transkript.txt` |
+
+## Ernst Tugendhat — Unsere Angst vor dem Tod (Siemens Stiftung, 2003)
+
+| | |
+|---|---|
+| **Vortrag** | [Ernst Tugendhat: „Unsere Angst vor dem Tod“](https://www.youtube.com/watch?v=Anbp8kDk2eU) — Carl Friedrich von Siemens Stiftung, 02.07.2003 |
+| **Buch** | [Der Tod im Leben. Ein Symposium (2004)](https://www.carl-friedrich-von-siemens-stiftung.de/veroeffentlichung-der-tod-im-leben.html) |
+| **Notiz** | [[Denker/Ernst Tugendhat — Unsere Angst vor dem Tod]] · [[DenkerVita/Ernst Tugendhat]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Tugendhat_Angst_vor_dem_Tod_Transkript.txt` |
+
 ## Lena Kotré — Abschiebeindustrie, Vetschau, Einstufung
 
 | | |

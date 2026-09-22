@@ -230,3 +230,8 @@ Was er meint: Es gibt Formen der *Geistesgegenwärtigkeit*, die nicht über spra
 - [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)]] — Eilenbergers „Mystik als Sandfluss" und Gabriels Mu-Konzept zielen auf dieselbe Schicht unterhalb des begrifflichen Dualismus. Eilenberger nennt es das abgekappte Erbe der westlichen Philosophie, Gabriel findet es als lebendige Ressource der Kyoto-Schule wieder. Beide bei scobel, beide zur Frage: Was kann Philosophie leisten, was KI nicht kann?
 
 - [[Geistesblitz/Marquardt - Zeit als Schluessel zum guten Leben]] — Marquardt beschreibt denselben Ort, den Eilenberger als Geistesgegenwart benennt: das vollständige Eintauchen in die eigene Gegenwart. Wo Eilenberger erkenntnistheoretisch fragt (*Was ist meine Gegenwart?*), zeigt Marquardt phänomenologisch, wie man dorthin gelangt — durch Rituale, Genügsamkeit und das Sich-anrufen-lassen. Beide SRF Sternstunde Philosophie, beide gegen den Zeitfetisch der Moderne.
+
+### → [[Ernst Tugendhat — Unsere Angst vor dem Tod]]
+
+Ernst Tugendhat ist ein Gegenbeispiel zu diesem Befund: Ausgerechnet der Mann, der die analytische Philosophie nach Deutschland zurückbrachte, kommt über Grammatik und Biologie bei einer Mystik ohne Gott an.
+

@@ -238,3 +238,8 @@ Er fügt hinzu: Mit einem gläubigen Katholiken, der kein Fanatiker ist, hätte 
 - [[Erich Fromm — Menschliches Wachstum]] — Der 1971er Vortrag als intellektuelle Vorarbeit: Schuldmoral, Konsumkritik und die Frage nach lebendigem Überfluss — acht Jahre vor dem persönlicheren SRF-Gespräch
 - [[Geistesblitz/Christine Braehler — Selbstmitgefuehl, Scham und reife Liebe]] — Fromms *„Liebe ist eine Kunst, die Übung erfordert"* und Brählers *„Selbstliebe ermöglicht reife Liebe"* sind dieselbe Einsicht aus zwei Traditionen. Liebe als innere Praxis, nicht als Reaktion auf den richtigen Anderen.
 - [[Die Neurobiologie der Liebe]] — Die produktive Spannung: Was die Neurowissenschaft als zeitlich begrenzten Dopamin-Trieb misst (Verliebtsein als „Widerfahrnis"), beginnt genau dort, wo Fromm die *reife* Liebe ansetzt — als Kunst und Entscheidung, die nach dem Rausch erst anhebt. Biologie erklärt das Verlieben, Fromm das Lieben.
+
+### → [[Ernst Tugendhat — Unsere Angst vor dem Tod]]
+
+Ernst Tugendhat kommt von der Todesangst her zu einem verwandten Schluss: Die Angst vor dem Ende tritt zurück, wenn man sich nicht mehr als letzten Bezugspunkt nimmt und die Welt schwerer wiegt als man selbst.
+

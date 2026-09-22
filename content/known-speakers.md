@@ -992,3 +992,18 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Molly Crockett
 **Status:** ✓ Vollanalyse → [[DenkerVita/Molly Crockett]]
+
+## Martin Buber
+**Status:** ✓ Vollanalyse → [[DenkerVita/Martin Buber]]
+
+## Emmanuel Levinas
+**Status:** ✓ Vollanalyse → [[DenkerVita/Emmanuel Levinas]]
+
+## Ernst Tugendhat
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ernst Tugendhat]]
+
+## Christian Wiese
+**Status:** ✓ Vollanalyse → [[DenkerVita/Christian Wiese]]
+
+## Joachim Valentin
+**Status:** ✓ Vollanalyse → [[DenkerVita/Joachim Valentin]]

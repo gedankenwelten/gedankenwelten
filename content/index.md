@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **22.09.** — [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere|Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+>
+> Buber sucht das Du auf Augenhöhe, Levinas bestreitet, dass es sie geben darf. Zwei jüdische Denker, ein Gespräch, das nie stattfand — und die Frage, was zuerst kommt, die Begegnung oder die Verantwortung.
+
+> **22.09.** — [[Denker/Ernst Tugendhat — Unsere Angst vor dem Tod|Ernst Tugendhat — Unsere Angst vor dem Tod]]
+>
+> Irgendwann zu sterben macht keine Angst, bald zu sterben schon. Tugendhat denkt die Todesfurcht zu Ende und landet beim Leben — und bei der Frage, wie schwer man sich selbst nehmen muss.
+
+> **20.09.** — [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]]
+>
+> Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung.
+
 ### Geistesblitz
 
 > **21.09.** — [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
@@ -53,24 +67,6 @@ Die Gedankenwelten (luc)
 > **16.09.** — [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Vermögenssteuer gegen Fake News]]
 >
 > Reichweite hat einen Preis, und ihn zahlen wenige: Thomas Laschyk führt Desinformation auf große Vermögen zurück — mit gut belegtem Kern und kuratierten Belegen.
-
-> **14.09.** — [[Zeitgeist/Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg|Sudan: Chlorbomben im vergessenen Krieg]]
->
-> Chlor gegen die Cholera, Chlor in der Bombe: Geleakte Akten zeigen, wie Sudans Armee Giftgas baute — und wie ein Verbot zerfällt, wenn niemand hinsieht.
-
-### Denker
-
-> **20.09.** — [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]]
->
-> Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung.
-
-> **13.09.** — [[Denker/Paul Ricoeur — Die zweite Naivitaet|Paul Ricœur — Die zweite Naivität]]
->
-> Wer die Kritik durchlaufen hat, kann nicht zurück zum Kind — aber wieder hinhören. Ricœurs Leben und Denken als langer Umweg vom Verdacht zur zweiten Naivität.
-
-> **16.08.** — [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]]
->
-> Vierzig Jahre Zählen ergeben einen Satz, der wehtut: Wer oben entscheidet, entscheidet nach seiner Herkunft — und die Herkunft wird gerade wieder enger.
 
 ### Spuren
 

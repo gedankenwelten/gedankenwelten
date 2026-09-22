@@ -201,6 +201,10 @@ Der Gegenschnitt: Redecker seziert den Sog zur Härte als Kern des neuen Faschis
 
 Die lebende Spur liefert den völkerrechtlichen Hintergrund, gegen den Zeigens Projekt sich abhebt. Wo die Spur den Zerfall dokumentiert, ist Makom Lekulanu die konkrete politische Gegenbewegung von innen — Beobachtung des Verfalls und Versuch des Umbaus im selben Feld.
 
+### → [[Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+
+Zeigens Parität bis in die Parteispitze hat einen Vorläufer in Bubers Binationalismus der Zwanziger. Seine Verantwortung, die aus der Ohnmacht kam, ist fast wörtlich Levinas' Verantwortung vor der Beziehung.
+
 ---
 
 ### → [[Jihan Alomar — Gefangen vom Islamischen Staat]]

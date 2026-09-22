@@ -243,3 +243,8 @@ Wichtig: Selbstmord ist kein Ausweg. Der Selbstmörder „verneint nur das Indiv
 - [[Walther Ziegler — Konfuzius in 60 Minuten]] — Konfuzius' Achsenzeit-Genosse Buddha und Schopenhauers Willensphilosophie konvergieren: Beide sehen im Begehren die Wurzel des Leidens. Konfuzius ist der aktive Gegenpart — er zieht nicht in den Wald, sondern in die Gesellschaft
 - [[Walther Ziegler — Buddha in 60 Minuten]] — Buddhas Vier Edle Wahrheiten sind der Originaltext zu Schopenhauers sechsfachem Leiden: dieselbe Diagnose (Begehren als Wurzel des Leidens), aber Buddha bietet den konkreten Übungsweg (Achtfacher Pfad), den Schopenhauer nur theoretisch skizziert
 - [[Walther Ziegler — Freud in 60 Minuten]] — Schopenhauers *Wille zum Leben* und Freuds *Es* sind strukturell identisch: ein blinder, vernunftloser Drang ohne Moral. Aber die Konsequenzen sind entgegengesetzt — Schopenhauer empfiehlt Entsagung; Freud will das Ich stärken, das mit dem Es verhandelt.
+
+### → [[Ernst Tugendhat — Unsere Angst vor dem Tod]]
+
+Ernst Tugendhat nimmt Schopenhauers Befund auf und streicht die Metaphysik: Übrig bleibt ein biologischer Wille zum nächsten Lebensstück, und die Rücknahme des Ego geschieht ohne Askese, als Umgewichtung des eigenen Ich gegenüber der Welt.
+
