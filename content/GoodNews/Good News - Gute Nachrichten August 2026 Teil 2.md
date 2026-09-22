@@ -320,6 +320,10 @@ Die Antwort auf die offene Frage der Amazonas-Meldung. Der Wald erholt sich, wei
 
 Der zweite, seltener genannte Effekt der EU-Einsparung — wer weniger importiert, ist weniger erpressbar — ist Kemferts Hauptargument in einem Satz. Sie rechnet die Fossilabhängigkeit als Sicherheitsfrage durch, nicht als Klimafrage; die Meldung liefert die Buchungszeile aus einem realen Jahr. Und wo diese Note anmerkt, dass die genannten Beträge über den eigenen Quellen liegen, zeigt Kemfert, warum solche Zahlen in beide Richtungen politisch aufgeladen sind.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
+
+Der Folgemonat erzählt die England-Zahl zur HPV-Impfung ein zweites Mal. Neben das Arktis-Moratorium stellt er den Fall, in dem erst nach dem Schaden aufgehört wurde: das Schleppnetzverbot vor Arran, von den Inselbewohnern selbst angestoßen. Das ist eine mögliche Antwort auf die Amazonas-Frage, wie Schutz den Regierungswechsel überlebt.
+
 ---
 
 ## Weiterdenken

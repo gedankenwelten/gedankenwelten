@@ -300,3 +300,6 @@ Fortsetzung der Monatsserie. Die hier gemeldete 10-%-Ozean-Marke bekommt im Augu
 
 Das Brücken-Leitmotiv dieser Ausgabe, ins Große gezogen: Eine Grünbrücke in Idaho senkt Wildunfälle um über achtzig Prozent, und die erste globale Karte der Mykorrhiza-Pilze zeigt ein Verbindungsnetz, das immer schon da war und nur zerrissen wurde. Dieselbe Figur, andere Größenordnung.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
+
+Drei Monate später wird der Ecosia-Maßstab, nämlich prüfen, ob die Bäume überleben, zur Prüffrage an die Große Grüne Mauer mit ihren sechzig Milliarden Bäumen. Diesmal spricht ihn ausgerechnet der bezahlte Abschnitt eines Sponsors aus.

@@ -331,3 +331,6 @@ Die ökonomische Fernwirkung als Brücke: Beautemps' Callahan-&-Mankin-Befund (E
 
 Die Buchungszeile zum Sicherheitsargument: Die EU sparte 2025 einen zweistelligen Milliardenbetrag allein dadurch, dass Solarstrom fossile Importe ersetzte — und wurde damit unempfindlicher gegen Preissprünge aus fremden Konflikten. Kemferts These, dass Fossilabhängigkeit zuerst eine Sicherheitsfrage ist, in einer Jahreszahl.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
+
+Ein halbes Jahr nach dem Gespräch zeigt Spanien Kemferts Friedenstechnologie in Euro: In der Gaspreiskrise nach dem Iran-Krieg blieb der Strompreis stabil, weil Wind und Sonne ihn vom Gas gelöst haben, rund zehn Euro pro Haushalt und Monat.

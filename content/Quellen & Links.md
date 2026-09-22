@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Freddy Leppin — Your Monthly Dose of Good News, September 2026
+
+| | |
+|---|---|
+| **Video** | [Your Monthly Dose of Good News · September](https://www.youtube.com/watch?v=K_ToMu4_p98) — Good News, 13.09.2026 · [Quellenliste](https://good-news.notion.site/your-monthly-dose-of-good-news-september) |
+| **Notiz** | [[GoodNews/Good News - Gute Nachrichten September 2026]] · [[DenkerVita/Freddy Leppin]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Leppin_GoodNews_September_Transkript.txt` |
+
 ## ARTE Re: — Wenn Arbeiter Chefs werden (Bergère de France, 2024)
 
 | | |
