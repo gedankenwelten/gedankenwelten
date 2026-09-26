@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Herfried Münkler — Die Sehnsucht nach Ordnung (Körber-Stiftung, 2026)
+
+| | |
+|---|---|
+| **Gespräch** | [Autoritäre Zeiten: Die Sehnsucht nach Ordnung (2026)](https://www.youtube.com/watch?v=ziNOiJ6LLFQ) — Körber-Stiftung, KörberForum Hamburg, 15.09.2026, 96 Min · Moderation Shila Behjat |
+| **Notiz** | [[Zeitgeist/Herfried Muenkler — Die Sehnsucht nach Ordnung]] · [[DenkerVita/Herfried Münkler]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Muenkler_Autoritaere_Zeiten_Sehnsucht_nach_Ordnung_Transkript.txt` |
+| **Reihe** | Körber „Autoritäre Zeiten“ — Auftakt: [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]] |
+
 ## Mark Benecke — Zu Besuch in der Drogenhilfe Halle (drobs Halle, 2026)
 
 | | |

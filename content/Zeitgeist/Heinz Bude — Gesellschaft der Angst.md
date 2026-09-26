@@ -238,3 +238,8 @@ Budes „schuldig werden an sich selbst" trifft Hans Leistungssubjekt, das sich 
 ### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
 
 Budes „liberales Kümmern“ hat in der Drogenhilfe Halle eine konkrete Form: Schadensminderung, die Menschen als Entscheider über ihr Leben ernst nimmt und trotzdem da bleibt. Das Geld dafür muss jedes Jahr neu beantragt werden.
+
+### → [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]]
+
+Zwölf Jahre später nimmt Münkler Budes wandelbares Misstrauen auf und nennt es Angst, die sich ihre Gegenstände selbst sucht, seit der Fortschrittsglaube sie nicht mehr dämpft. Wo Bude ein Kümmern vorschlägt, setzt Münkler auf das Los und auf den Satz, es gebe kein Recht auf Sorglosigkeit.
+

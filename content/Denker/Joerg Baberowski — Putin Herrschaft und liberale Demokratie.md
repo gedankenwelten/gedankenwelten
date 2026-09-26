@@ -244,6 +244,10 @@ Baberowski denkt vom Tod her — erst die Endlichkeit nötigt zum Sinn; Mawick h
 
 Zwei Berliner Professoren derselben Universität lesen denselben Mann und widersprechen sich in der Methode. Münkler rekonstruiert aus Peter I., Katharina II. und Hitlers Infiltrationstaktik ein Drehbuch bis zur Ostsee; Baberowski nennt die Macht eine Blackbox und warnt genau vor der Projektion, aus der diese Prognose lebt. Beide teilen die kalte Anatomie der Eskalationsspirale — Baberowski leitet daraus Zurückhaltung ab, Münkler eine Handlungsliste. Zu dessen Hierarchisierung der EU liefert Baberowski das Störgeräusch: Wer demokratische Selbstregierung an umgrenzte Räume bindet, kann Beitritt ohne Vetorecht schwer als Demokratie verbuchen.
 
+### → [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]]
+
+Münkler erzählt die Geschichte der Repräsentation als Filter, der die Demokratie vor Unvernunft und Ressentiment schützt — genau die Lesart, die Baberowski als liberale Abwehr des „Pöbels“ angreift. Beim Los treffen sich die beiden trotzdem, aus entgegengesetzten Gründen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

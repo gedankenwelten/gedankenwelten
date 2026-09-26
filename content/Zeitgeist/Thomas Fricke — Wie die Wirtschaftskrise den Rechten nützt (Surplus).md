@@ -301,3 +301,8 @@ Laschyk führt die Anfälligkeit für Desinformation auf einen ausgehungerten So
 ### → [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
 
 Die Anti-Ohnmacht-Agenda im Kleinen: Beschäftigte einer insolventen Spinnerei in Lothringen holen sich die Kontrolle zurück, indem sie den Betrieb kaufen. Der Nachbarbetrieb Sitek scheitert an der Regionalpolitik, die Fricke fordert und die dort ausblieb.
+
+### → [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]]
+
+Münkler trennt Furcht, die einen Gegenstand hat, von Angst, die sich ihre Gegenstände sucht, und hält die Mitte gegen die Angst für „ziemlich hilflos“. Frickes Befund zum Kontrollverlust legt nahe, dass vieles davon Furcht mit sehr konkreten Ursachen ist.
+

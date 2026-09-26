@@ -221,3 +221,8 @@ Die ideengeschichtliche Außenseite von Fromms autoritärem Charakter: Mishra ze
 - [[Zeitgeist/Arlie Hochschild — Stolen Pride|Hochschild — Stolen Pride]] — Hochschild ergänzt Fromms Charakterologie um die emotionale Genese: Das Stolz-Paradox (Individualismus → Selbstbeschuldigung → Scham) erklärt, wie gewöhnliche Menschen immer wieder neu für den sadomasochistischen Modus *empfänglich gemacht werden*, auch ohne autoritäre Sozialisation. Fromm beschreibt die Struktur, Hochschild die laufende Reproduktion.
 - [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]] — Dieselbe Frage („warum begehren die Unterdrückten nicht auf?"), zwei Tiefenschichten darunter: Fromm antwortet mit der Charakterstruktur, Yu mit dem neuronalen Mechanismus — Werte und Mentalisierung wohnen in getrennten Systemen. Beide verwerfen das rationalistische Aufklärungs-Menschenbild.
 - [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]] — Beineberg ist eine Fallstudie zum autoritären Charakter, Jahrzehnte vor dem Begriff: die geliehene Kosmologie, die das eigene Mitleid zur Schwäche erklärt und die Grausamkeit zur höheren Pflicht adelt. Fromm erklärt die Struktur, Musil zeigt ihre Entstehung im Kadetteninternat der Monarchie.
+
+### → [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]]
+
+Münkler deutet die Sehnsucht nach Ordnung als Sehnsucht nach Sorglosigkeit — die Entlastung, die Fromm im autoritären Charakter beschreibt. Seine Gegenmittel, Parteien und das Los als Schulen des Urteils, passen zu Fromms Erziehung zur rationalen Autorität.
+

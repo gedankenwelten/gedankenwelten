@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*306 Notes — automatisch generiert · nach Thema sortiert*
+*307 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -377,6 +377,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder|Gilda con Arne #27 — Die alte Tante SPD will zurück zu Opa Schröder]]
 - [[Zeitgeist/Heinz Bude — Boomer-Soziologie|Heinz Bude — Brauchen wir eine Boomer-Soziologie?]]
 - [[Zeitgeist/Mark Benecke — Umwelt-Messungen Sommer 2026|Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026]]
+- [[Zeitgeist/Mark Benecke — Zu Besuch in der Drogenhilfe Halle|Mark Benecke — Zu Besuch in der Drogenhilfe Halle]] — Spritzentausch eins zu eins, ein Streetworker für eine ganze Großstadt: wie Schadensminderung aussieht, wenn das Geld jedes Jahr neu erkämpft werden muss.
 - [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren|MONITOR — Atomkraft-Comeback? Was hinter den neuen Mini-Reaktoren steckt]]
 - [[Zeitgeist/Presseclub — Reiches Energiewende|Presseclub — Reiches Energiewende: Rolle rückwärts oder wirtschaftlich vernünftig?]]
 - [[Zeitgeist/Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)|Staiy — News: Altersvorsorge 2.0, MwSt-Debatte & Demo Coline Fernandez (27.03.2026)]]
