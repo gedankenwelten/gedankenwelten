@@ -281,6 +281,7 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 | [[Ernst Gelegs — Ist das Regime Orbán am Ende]] | Kontext · Ungarn |
 | [[ARTE — Forschung Fake und faule Tricks]] | Ursache · Agnotologie |
 | [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen]] | Konsequenzen · Machtbilanz der AfD-Vorbilder |
+| [[Panorama/Wie kann Demokratie funktionieren\|Wie kann Demokratie funktionieren?]] | Institutionen · Wehrhafte Demokratie, Parteiverbot und Demophobie als Frage der Bauweise |
 | [[Zeitgeist/Moini und Chiofalo — GFF AfD-Verbotsgutachten]] | Instrument · GFF-Gutachten zur Verfassungswidrigkeit — juristische Operationalisierung des Verbotsdiskurses |
 | [[Zeitgeist/Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig]] | Instrument · Das Ergebnis (25.06.2026): AfD verfassungswidrig — zwei Säulen, Verbotsantrag „wahrscheinlich erfolgreich" |
 | [[Annette Dittert — Dear Britain]] | Netzwerk · Musks transnationales Schema — UK als Frühwarnsystem |
