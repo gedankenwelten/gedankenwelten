@@ -120,6 +120,7 @@ Ihre Radikalität liegt in der **konzeptuellen Kohärenz**: Sie nimmt die bürge
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Panel mit Engelhorn, Kühnert, Friedrichs, Pfeffer; zentrale Quelle ihrer Kernthesen
+- [[Panorama/Wie kann Demokratie funktionieren#Das Los: Bürgerräte in den Kommunen|Wie kann Demokratie funktionieren]] — ihr Guter Rat als Stimme zum Los: das einzige Losgremium im Bestand, das wirklich entschied
 - [[DenkerVita/Martyna Linartas]] — Forschung zu Erbengesellschaft und unverdientes Vermögen; strukturelle Parallele zu Engelhorn
 - [[DenkerVita/Clara Mattei]] — Geschichte der Austeritätspolitik; zeigt wie Klassenpolitik die Umverteilung verhindert
 - [[DenkerVita/Evan Osnos]] — Megayachten und Oligarchie; Gegenperspektive auf Ultrareiche

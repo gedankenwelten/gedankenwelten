@@ -117,11 +117,12 @@ Bleibt Manows Einwand, dass niemand einen gelosten Rat abwählen kann. Die Forsc
 - **[[Joerg Baberowski — Putin Herrschaft und liberale Demokratie#Liberalismus ist nicht Demokratie|Jörg Baberowski]]:** Das eigentliche demokratische Modell sei Athen gewesen — direkt, gelost, fähig, korrupte Amtsträger zu verbannen.
 - **[[Albert Moukheiber — Mein Hirn und die anderen#9. Weisheit der Vielen — Galtons fehlgeschlagener Beweis der Dummheit|Albert Moukheiber]]:** Kollektive Intelligenz funktioniert, wenn jeder sich erst allein vorbereitet, die Gruppe vielfältig ist und Unsicherheit ausgesprochen werden darf; Frankreichs Bürgerkonvente kamen so zu fundierten Empfehlungen.
 - **[[Gesine Schwan — Macht NEU DENKEN#Kommunale Entwicklungsbeiräte Demokratie erfahrbar machen|Gesine Schwan]]:** Sie setzt auf Beiräte aus Politik, Wirtschaft und Zivilgesellschaft statt Gelosten, beauftragt vom Stadtrat; alle zehn kamen zu einstimmigen Empfehlungen, alle zehn wurden umgesetzt.
-- **[[Martyna Linartas — Unverdiente Ungleichheit#Zuschauerfragen (Kira-Runde)|Martyna Linartas]]:** Ihr Beispiel ist der Bürgerrat, der Marlene Engelhorns Erbe verteilte — 50 geloste Menschen, 25 Millionen Euro, kein Veto der Erbin. Das einzige Losgremium im Bestand, das wirklich entschied.
+- **[[DenkerVita/Marlene Engelhorn#Biografie|Marlene Engelhorn]]:** Ließ 50 zufällig ausgewählte Menschen über 25 Millionen Euro ihres Erbes entscheiden und behielt sich kein Veto vor; das Geld ging an 77 Organisationen. Das einzige Losgremium im Bestand, das wirklich entschied.
 - **[[Andreas Loeschel — Strom NEU DENKEN#Co-Benefits und die laute Minderheit — Akzeptanz neu gedacht|Andreas Löschel]]:** Bei örtlicher Beteiligung bestimmt eine laute Minderheit, was wahrgenommen wird — ein Befund, der Manows Sorge vor den Eloquenten stützt.
 
-<details><summary>Weitere Stimmen (3)</summary>
+<details><summary>Weitere Stimmen (4)</summary>
 
+- **[[Martyna Linartas — Unverdiente Ungleichheit#Zuschauerfragen (Kira-Runde)|Martyna Linartas]]:** Nennt Engelhorns Bürgerrat als ihr Beispiel dafür, wie ein großes Vermögen anders verteilt werden kann als durch die Erbin allein.
 - **[[Presseclub — Reiches Energiewende#Presseclub nachgefragt Bürgerrat, Flächennutzung, Verstaatlichung|Presseclub]]:** Ein Anrufer will einen gelosten Bürgerrat zur Energiewende, Claudia Reiser mehr Einbindung vor Ort, Christian Geinitz verweist auf den gewählten Bundestag.
 - **[[Clara Mattei — Geschichte der Austeritaetspolitik#FREE und partizipatives Budgetieren|Clara Mattei]]:** Ein Bürgerhaushalt in Tulsa nach dem Vorbild Porto Alegres, 400 Teilnehmende, die meisten nicht links.
 - **[[Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt#Drei Meilensteine der Freiheit|Walther Ziegler]]:** Perikles' Richter per Losmaschine, gegen Bestechung, und Diäten, damit auch Arme ein Amt tragen konnten.
