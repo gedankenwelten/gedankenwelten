@@ -107,3 +107,4 @@ Manuel ist kein Buchautor — sein Medium ist YouTube. Kernformate des Kanals:
 - [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
 - [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
 - [[Koschi Politik — ICE setzt neue Rekorde]]
+- [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|Spur: USA und ICE]] — seine Videos waren Anlass mehrerer Einträge, zuletzt am 26.09.2026 (Austin, Drittstaaten, GAO)

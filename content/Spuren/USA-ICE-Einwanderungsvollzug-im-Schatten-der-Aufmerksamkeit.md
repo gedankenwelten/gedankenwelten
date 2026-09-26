@@ -12,7 +12,7 @@ status: offen
 konfidenz: 84%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-09-17
+aktualisiert: 2026-09-26
 description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung."
 ---
 
@@ -39,7 +39,7 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 
 ## Die These
 
-> **Stand (Konfidenz 84 %, 28.08.2026):** Der ICE-Vollzug eskaliert *messbar* (Rekordfestnahmen,
+> **Stand (Konfidenz 84 %, seit 28.08.2026; zuletzt geprüft 26.09.2026):** Der ICE-Vollzug eskaliert *messbar* (Rekordfestnahmen,
 > Zugriffe ohne individuellen Tatverdacht, Erosion des due process, dokumentierte Fälle zu Unrecht
 > festgehaltener US-Bürger), während die mediale Aufmerksamkeit nachlässt. Die institutionellen
 > Bremsen — Gerichte, Kongress-Aufsicht — **verlangsamen, stoppen aber die Eskalation nicht**. Die
@@ -56,6 +56,124 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 **Kalt, wenn:** Politikwechsel beendet das Thema ohne neue Daten.
 
 ## Verlauf
+
+### 2026-09-26 — Der Zugriff wird leiser, die Aufklärung wandert ins eigene Haus (Konfidenz unverändert 84 %)
+
+**Befund:** Anlass war ein Video von Koschi Politik vom 25.09. (*„Man möchte das Thema nicht im Fokus der
+Öffentlichkeit haben!"*), das drei Meldungen der Woche zusammenlegt. Nachgeprüft trägt jede davon für
+sich — und eine vierte, die im Video nur als Anekdote vorkommt.
+
+*(1) Der siebte Fahrzeug-Fall, der erste mit einem Überlebenden.* Am **Sonntag, 20.09.**, kurz vor 13 Uhr,
+schoss ein ICE-Beamter im Norden von **Austin** auf **Wilber Rafael Garces Perez**, 28, Venezolaner,
+unterwegs mit einer DoorDash-Lieferung. Nach Darstellung seiner Anwältin Kate Lincoln-Goldfinch hatte ein
+nicht gekennzeichneter ICE-Pick-up seinen Wagen zweimal seitlich gerammt; Stadtrat Mike Siegel spricht von
+mindestens fünf Schüssen, am Corolla waren Einschusslöcher zu sehen. Die Kugel sitzt im oberen Rücken nahe
+der Wirbelsäule. Nach rund sechs Stunden wurde er aus dem Dell Seton Medical Center entlassen, die Kugel
+noch im Körper; Frau und Anwältin wurden vom Klinikgelände gewiesen. Er sitzt im Rollstuhl im **South
+Texas ICE Processing Center in Pearsall**; laut Rep. **Greg Casar**, der ihn am 23.09. besuchte, hat ein
+Facharzt die Operation angeraten. Er war die Zielperson: Eingereist 2024 über **CBP One**, Asylbewerber mit
+gültiger Arbeitserlaubnis, dann ein Abschiebebescheid in Abwesenheit wegen eines verpassten Gerichtstermins
+([CBS, 20.09.](https://www.cbsnews.com/news/austin-ice-shooting-investigation/) ·
+[NBC, 24.09.](https://www.nbcnews.com/news/us-news/congressman-says-venezuelan-man-shot-ice-taken-custody-told-needs-surg-rcna599627)).
+Das DHS-Statement nennt keinen Grund für den Schuss. Es nennt den Mann einen *„illegalen Ausländer"*, der
+*„unter der Biden-Regierung illegal eingereist"* sei — über CBP One kam er auf einem legalen Weg ins Land.
+
+*(2) Die Aufklärung wechselt die Hand.* Die Ermittlungen leitet **Homeland Security Investigations** — eine
+Abteilung von ICE selbst —, das FBI assistiert nur. CBS nennt das eine *„notable departure from longstanding
+federal practice"*: Schüsse von Bundesbeamten untersuchte bisher das FBI, samt Zuständigkeit für
+Bürgerrechtsverletzungen. Schon im Juli waren FBI-Außenstellen angewiesen worden, solche Fälle an HSI
+abzugeben; DOJ und DHS bestreiten eine formelle Änderung (CBS, s.o.). Ob der Beamte eine Bodycam trug, hat
+ICE nicht gesagt; öffentlich sind nur die Aufnahmen der später eintreffenden Austin-Polizei.
+
+*(3) 25.000 Menschen in Länder, die nicht ihre sind.* DHS-Chefjustitiar **James Percival** meldete am 23.09.
+auf X, man habe **25.000** Menschen in Drittstaaten abgeschoben — *„an essential public safety tool"*, dazu
+ein Taylor-Swift-GIF (*„How my wife looks at me when I tell her…"*). Es gibt Abkommen mit **35 Ländern**, viele
+davon nach AP geheim, darunter die Zentralafrikanische Republik, für die das State Department selbst die
+höchste Warnstufe führt. Zwei nach Äquatorialguinea Abgeschobene wurden laut ihren Anwälten in einem zur Haft
+umgebauten Hotel geschlagen, mit Waffen bedroht, mit Säcken über dem Kopf. Der **1st Circuit** hatte eine
+Woche zuvor verlangt, dass Betroffene rechtzeitig erfahren, wohin sie sollen, und widersprechen können (Richter
+Seth Aframe: ein Schutzrecht bedeute wenig *„if one does not receive prior notice"*); am **23.09. kurz vor
+Mitternacht** stellte er klar, dass die bisherige Duldung der Flüge nicht mehr gilt. Ein Flug mit 70 Menschen
+von Alexandria, Louisiana, nach Burundi, Ruanda und in die Zentralafrikanische Republik fiel aus. Am **24.09.**
+beantragte Solicitor General **Sauer** beim Supreme Court, die Entscheidung auszusetzen
+([ABC, 24.09.](https://abcnews.com/US/removal-migrants-3rd-countries-essential-public-safety-tool/story?id=136684112) ·
+[AP, 24.09.](https://www.click2houston.com/news/politics/2026/09/24/trump-administration-asks-the-supreme-court-to-allow-quick-third-country-deportations-to-continue/)).
+
+*(4) Der Rechnungshof findet die Lagerhallen leer.* Das **GAO** (Bericht GAO-26-108663, 24.09.) stellt fest,
+dass ICE seit Januar 2025 sechs Ausbau-Initiativen *„without necessary analysis and planning"* betrieben hat.
+Für rund **1,07 Mrd. $** kaufte die Behörde **elf Lagerhallen**, **sieben** davon will sie wieder verkaufen;
+über **20 Mio. $** sind nicht zurückzuholen (7,7 Mio. für Gutachten und Versicherungen, 12,8 Mio. für
+Strom, Wachschutz und Betrieb leerstehender Hallen bis August). Einen Gesamtplan will ICE bis zum
+**31.08.2027** vorlegen; das GAO hält das für zu spät
+([GAO](https://www.gao.gov/products/gao-26-108663) ·
+[PBS](https://www.pbs.org/newshour/politics/ice-has-wasted-tens-of-millions-of-dollars-with-uninformed-detention-plans-gao-finds)).
+
+*(5) Die Flughäfen als leiser Kanal.* Seit dem Frühjahr gleicht ICE Passagierlisten der TSA gegen die eigenen
+Akten ab und nimmt Menschen am Gate oder am Check-in fest — auch solche mit laufendem Verfahren und gültiger
+Arbeitserlaubnis. Die Vereinbarung dazu hat die Organisation American Oversight per Akteneinsichtsklage
+öffentlich gemacht. Die Anwältin Rosanna Berardi aus Buffalo: *„There is no investigation or no home visit
+involved. It's simply a name match at a checkpoint"*
+([ABC, 28.07.](https://abcnews.com/US/federal-immigration-authorities-targeting-airports-arrests/story?id=135170980)).
+CBS zählt die Flughäfen ausdrücklich zu den Wegen, auf denen ICE die Festnahmen *„more quietly"* gesteigert
+habe ([CBS, Anfang August](https://www.cbsnews.com/news/ice-detentions-trump-high-july-2026-immigration-crackdown-widens/)).
+Koschi, selbst Greencard-Inhaber in Buffalo, schildert zwei Kontrollen, bei denen die TSA nach seiner
+Staatsangehörigkeit fragte — eine Anekdote, kein Beleg, aber genau der Ort, den die Quellen beschreiben.
+
+**Deutung:** Der Kern dieser Spur — die Unsichtbarkeit als operatives Ziel — bekommt keinen neuen Beleg
+für die Absicht, aber zwei neue Mechanismen dafür, *wie* sie hergestellt wird. Der eine ist der Ort: Ein
+Namensabgleich am Gate ist das Gegenteil einer Razzia, niemand filmt eine Datenbankabfrage. Nach 287(g) und
+den Verkehrskontrollen ist das der dritte Kanal, über den der Zugriff aus dem Bild wandert. Der andere ist
+schwerer wiegend, weil er nicht den Zugriff betrifft, sondern das Danach. Wenn eine Abteilung von ICE die
+Schüsse von ICE untersucht, dann ist die Frage, wer die Behördenversion prüft, an die Behörde selbst
+zurückgegeben. Im Fahrzeug-Muster war bisher der Punkt 4 (*„in den Fällen mit Bodycam widerlegt die Aufnahme
+die Behördenversion"*) die einzige unabhängige Kontrolle über den Hergang; eine eigene Ermittlung, die über
+die Herausgabe dieser Aufnahmen mitentscheidet, verschiebt diese Kontrolle nach innen.
+
+Das Muster selbst hat in Austin eine weitere Stufe. Die Rechtfertigung war von der Notwehr über die
+„öffentliche Sicherheit" nach unten gewandert; hier nennt die Behörde für den Schuss überhaupt keinen
+Grund mehr, nur den Status des Getroffenen und den Namen des Vorgängers im Amt. Und die Umdeutung des
+Opfers (Punkt 6) braucht diesmal keinen Drogenverdacht: Es genügt, einen legalen Einreiseweg „illegal" zu
+nennen.
+
+Die Drittstaaten sind neu in dieser Spur und gehören zu ihrer zweiten Frage, den Bremsen. Der 1st Circuit
+verbietet die Abschiebungen nicht, er verlangt nur, dass der Mensch vorher erfährt, wohin er soll. Dass die
+Regierung dagegen binnen Stunden zum Supreme Court geht, zeigt, wie viel an der Schnelligkeit hängt. Damit
+liegen jetzt **zwei** Fragen dieser Spur beim Supreme Court: die No-Bond-Haft (Circuit Split, s. 17.09.)
+und die Drittstaaten. Der Satz *„die Gerichte verlangsamen nur"* wird dort entschieden, nicht hier.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Das GAO ist selbst ein Stück funktionierender Aufsicht — ein
+Organ des Kongresses, das hinsieht, rechnet und veröffentlicht, und dem das DHS in der Empfehlung
+**zustimmt**. Und der Befund zeigt keine Eskalation, sondern ihr Gegenteil im Kleinen: Der
+Lagerhallen-Plan wird zurückgebaut, sieben von elf Hallen gehen in den Verkauf. Die
+Haftkapazität wächst langsamer, als sie sollte, und zwar aus Unfähigkeit, nicht aus Einsicht — aber sie
+wächst langsamer. **(2)** Der Hergang in Austin ist offen. Die Polizeichefin Lisa Davis sprach am
+Sonntag vorläufig von einer möglichen Verfolgung zu Fuß; ein Schuss in den oberen Rücken passt dazu so gut
+wie zum Rammen. Das DHS bestreitet, dass Garces Perez auf dem Boden schlafen musste oder ihm die Behandlung
+verweigert wird; er sei zweimal im Krankenhaus gewesen und werde rund um die Uhr versorgt (NBC). Beides steht
+Aussage gegen Aussage. **(3)** HSI ermittelt „mit Unterstützung des FBI" — das FBI ist nicht draußen, und DOJ
+wie DHS bestreiten eine formelle Neuregelung. Eine gelenkte Praxis ist schwerer zu belegen als eine
+Anordnung; hier steht bisher nur die CBS-Recherche. **(4)** Für die Drittstaaten nennt Percival einen
+echten Rechtszwang: Nach *Zadvydas v. Davis* darf ein Mensch mit Abschiebebescheid in der Regel nur sechs
+Monate festgehalten werden; nimmt das Herkunftsland ihn nicht zurück, muss er frei. Das Instrument ist kein
+reiner Selbstzweck. Und seine Behauptung, die Betroffenen seien *„disproportionately serious criminals"*, ist
+nicht widerlegt, nur durch Einzelfälle (ABC) angezweifelt. **(5)** Percivals GIF ist das Gegenteil von
+Verbergen. Die Regierung zeigt ihre Zahlen, wo sie ihrem Publikum gefallen, und hält sie zurück, wo sie
+Rechenschaft kosten würden — Unsichtbarkeit ist hier kein Zustand, sondern eine Wahl des Publikums.
+**(6)** Zum Anlass selbst: Das Video vermischt Festnahmen und Abschiebungen. *„Die Abschiebungen sind
+aktuell auf Rekordniveau"* stimmt nicht — Rekord sind die Festnahmen, die Abschiebungen liegen seit Mai
+flach bei rund 1.200 pro Tag (Eintrag 17.09.). Der eingespielte CBS-Clip ist von Anfang August: Die
+„46.000" sind die Einbuchungen in Haft im **Juli**, in Haft saßen damals rund **68.000**, unter dem
+Januar-Rekord von über 70.000. Und Koschis Satz, ein illegaler Grenzübertritt sei nur eine
+Ordnungswidrigkeit, ist falsch: Die erste unerlaubte Einreise ist nach 8 U.S.C. § 1325 ein Bundesvergehen.
+Zivilrechtlich ist nur der bloße Aufenthalt ohne Status, etwa nach abgelaufenem Visum. Mullins Antwort bei
+CNN, alle seien Kriminelle, weil sie die Einreisegesetze gebrochen hätten, ist genauso schief — Garces Perez
+etwa kam über CBP One.
+
+*Konfidenz bewusst unverändert bei 84 %.* Die Selbstermittlung durch HSI und die Flughäfen stützen den
+Unsichtbarkeits-Kern mit Mechanik; der 1st Circuit und der GAO-Befund stehen auf der Seite der Bremsen.
+Unabhängige Zahlen für September gibt es weiterhin nicht. Beide offenen Punkte liegen jetzt beim Supreme Court.
+
+---
 
 ### 2026-09-17 — Dritter Rekordmonat — und zum ersten Mal tun die Gerichte mehr als bremsen (Konfidenz unverändert 84 %)
 
@@ -516,7 +634,7 @@ Council, Al Jazeera) sind advocacy-gefärbt.
 sich der Vollzug selbst? Dieser Abschnitt beobachtet das tödliche Fahrzeug-Muster als eigenen Faden.
 Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur eigenen Spur ausgegründet.*
 
-**Das Fahrzeug-Muster — sechs Tote, ein Drehbuch** *(erweitert 15.07.2026 nach Tiefen-Sweep)*:
+**Das Fahrzeug-Muster — sechs Tote, ein Überlebender, ein Drehbuch** *(erweitert 15.07.2026 nach Tiefen-Sweep; Austin nachgetragen 26.09.2026)*:
 
 | Datum | Ort | Opfer | Status | Zielperson? | Bodycam | Behörden-Formel |
 |---|---|---|---|---|---|---|
@@ -526,6 +644,7 @@ Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur ei
 | 24.01.2026 | Minneapolis | Alex Pretti | US-Bürger | — | nein | „Fahrzeug als Waffe" / Notwehr |
 | 07.07.2026 | Houston | Lorenzo Salgado | 35 J. im Land, U-Visa-Verfahren | **nein** (Van-Verwechslung) | nein | „Fahrzeug als Waffe" / Notwehr |
 | 13.07.2026 | Biddeford, Maine | Johan Sebastián Durán Guerrero | arbeitsberechtigt, SSN | **nein** (DHS räumt es ein) | nein | **„öffentliche Sicherheit"** |
+| 20.09.2026 | Austin, TX | Wilber Rafael Garces Perez *(überlebt, Kugel nahe der Wirbelsäule)* | CBP One 2024, Asylbewerber mit Arbeitserlaubnis, Abschiebebescheid in Abwesenheit | ja | ungeklärt (ICE schweigt) | **keine Begründung** — nur „unter Biden illegal eingereist" |
 
 **Was sich über die Fälle abzeichnet:**
 
@@ -534,6 +653,8 @@ Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur ei
 2. **Rhetorische Drift nach unten.** Von der (prüfbaren) Notwehr-Behauptung zur (unprüfbaren)
    „öffentlichen Sicherheit" — der Apparat senkt den Anspruch an die eigene Rechtfertigung, statt ihn
    unter öffentlichem Druck zu erhöhen.
+   *(Fortgeschrieben 26.09.2026: In Austin nennt das DHS-Statement für den Schuss gar keinen Grund mehr,
+   nur den Status des Getroffenen. n=1 — aber die nächste Stufe derselben Bewegung.)*
 3. **Die Zielperson ist austauschbar.** Drei Bürger, zwei Verwechslungen — die Letalität hängt nicht
    an der Gefährlichkeit oder auch nur der Identität des Getroffenen, sondern an der Situation
    „Fahrzeug + Zugriff".
@@ -545,6 +666,10 @@ Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur ei
    Verfahren (Martinez) lehnte die Grand Jury die Anklage ab, *trotz* widersprechender Bodycam. Sieben
    Monate nach Pretti sagt seine Familie, sie erfahre bis heute nichts über den Ermittlungsstand; das
    DOJ verweist auf Standardprotokoll.
+   *(Fortgeschrieben 26.09.2026: Seit dem 16.09. gibt es mit Christian Castro die erste Inhaftierung eines
+   Beamten — und zugleich wandert die Aufklärung nach innen: Den Schuss von Austin untersucht HSI, eine
+   Abteilung von ICE, das FBI assistiert nur. Wer die Behördenversion prüft, ist damit an die Behörde
+   zurückgegeben.)*
 6. **Die Gegen-Erzählung über das Opfer** *(ergänzt 19.07.2026)*. Wenn die Notwehr-Version zerfällt
    (Houston: das „Rammen" ist aus der offiziellen Darstellung verschwunden), wird das Opfer
    nachträglich umgedeutet — Drogen-Frame vor jedem Laborergebnis. Die Rechtfertigung wandert von
@@ -652,6 +777,20 @@ sich wieder schließt.
 >   nachgetragen. Konfidenz nur +1, weil beide Entwicklungen die *sichtbarste* Zone der Spur
 >   betreffen — der Unsichtbarkeits-Kern bekommt diese Woche keinen neuen Beleg.
 > - **17.09.2026:** Der Wachpunkt dieser Spur — *„Wenn Gerichte tatsächlich wirksam bremsen, muss das hier so prominent stehen wie die Übergriffe"* — ist heute zum ersten Mal fällig geworden, und zwar dreifach in zehn Tagen: die Verfügung vom 16.09., die neunte Appellate-Niederlage am 10.09., die erste tatsächliche Inhaftierung eines Beamten am 16.09. Beim Lesen war der erste Impuls, sie als Einzelfälle einzusortieren und weiterzuziehen — jede der drei lässt sich relativieren, und die Relativierungen stimmen sogar. Genau darin liegt die Gefahr: Eine These, für die jede Bremse ein Einzelfall und jede Festnahme ein Muster ist, prüft nichts mehr. Deshalb stehen die drei in der Deutung und nicht in einer Fußnote, und deshalb bewegt sich die Konfidenz nicht nach oben, obwohl die Eskalationsseite so gut belegt ist wie nie. **Der Teilsatz, der ab jetzt auf dem Prüfstand steht, ist nicht „es eskaliert", sondern „die Gerichte verlangsamen nur".** Was ihn entscheidet, ist der Circuit Split beim Supreme Court — und dessen Ausgang darf nicht vorweggenommen werden, in keine Richtung. *Zweiter Punkt:* Die Zahlen, auf denen diese Spur ruht, kommen für August und September ausschließlich vom DHS selbst; die unabhängige Datenfreigabe endet am 06.08. Eine Spur über Unsichtbarkeit, die sich auf die Selbstauskunft der beobachteten Behörde stützt, hat ein Problem, auch wenn die Richtung stimmt. Das gehört benannt, bevor es jemand anderes tut.
+> - **26.09.2026:** Der Anlass war diesmal ein Video, das auf meiner Seite steht — ein Einwanderer, der
+>   seinem deutschen Publikum zeigt, worauf man sich mit einem solchen System einlässt. Genau deshalb zuerst
+>   gegen die Quelle geprüft, nicht mit ihr: Drei ihrer Sätze halten nicht (Abschiebungs-„Rekord", ein
+>   Clip von Anfang August als aktueller Stand, die „Ordnungswidrigkeit"), und die stehen oben so deutlich
+>   wie Mullins schiefer Gegensatz. Beim Fall Austin zog es mich zur Version der Anwältin, weil sie ins
+>   Muster passt — das Rammen, die Kugel im Rücken, die Frau vor dem Klinikgelände. Die Polizeichefin
+>   sprach aber von einer möglichen Verfolgung zu Fuß, und das DHS bestreitet die Haftbedingungen; beides
+>   steht jetzt im Eintrag, und die Tabellenzeile sagt „ungeklärt", nicht „widerlegt". Die stärkste
+>   Versuchung war der GAO-Bericht: Er liest sich wie eine Pointe gegen „waste, fraud and abuse". Als Befund
+>   für diese Spur sagt er etwas Unbequemeres — der Ausbau der Haft kommt langsamer voran als geplant, und
+>   die Aufsicht hat ihn gesehen. Das gehört auf die Seite der Bremsen, auch wenn es aus Ungeschick kommt.
+>   Wachpunkt: Entscheidet der Supreme Court bei den Drittstaaten für die Anhörungspflicht, ist das der
+>   zweite Befund gegen *„die Gerichte verlangsamen nur"* — dann muss der Teilsatz neu gefasst werden, nicht
+>   die Fußnote wachsen.
 
 ## Verbindungen
 
@@ -737,6 +876,15 @@ hat die Formel dafür schon 1906: die „bloße äffende Ähnlichkeit" des Ander
 - [ABC News — Das GMA-Interview der Familie Pretti (25.08.2026)](https://abcnews.com/US/family-alex-pretti-speaks-exclusive-interview-murdered-child/story?id=135910349) · [Common Dreams — Vance verweigert die Entschuldigung](https://www.commondreams.org/news/vance-wont-apologize-pretti) · [Wikipedia — Killing of Alex Pretti](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti)
 - [CNN — Mullins erste zwei Monate im DHS](https://www.cnn.com/2026/05/25/politics/markwayne-mullin-dhs-deportations-immigration) · [Washington Examiner — der weniger „flashy" Kurs](https://www.washingtonexaminer.com/policy/immigration/4569275/dhs-ditches-kristi-noem-immigrant-detention-plans-markwayne-mullin-less-flashy/)
 - [NPR — Police experts question ICE officer vetting](https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting) · [American Immigration Council — ICE kauft Lagerhallen](https://www.americanimmigrationcouncil.org/blog/ice-buys-warehouses-immigration-detention/)
+
+*Eintrag 26.09.2026 (Austin, Drittstaaten, GAO, Flughäfen):*
+
+- [Koschi Politik — Man möchte das Thema nicht im Fokus der Öffentlichkeit haben! (25.09.2026)](https://www.youtube.com/watch?v=mFhRBwc04w0) — Anlass des Eintrags
+- [CBS News — ICE agent shoots and wounds man in Austin (HSI ermittelt, FBI assistiert)](https://www.cbsnews.com/news/austin-ice-shooting-investigation/) · [NBC News — Congressman says Venezuelan man shot by ICE needs surgery](https://www.nbcnews.com/news/us-news/congressman-says-venezuelan-man-shot-ice-taken-custody-told-needs-surg-rcna599627) · [CNN — What we know](https://www.cnn.com/2026/09/22/us/venezuelan-man-shot-ice-austin) · [NPR](https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas)
+- [ABC News — Percival: 25.000 Drittstaaten-Abschiebungen, „essential public safety tool"](https://abcnews.com/US/removal-migrants-3rd-countries-essential-public-safety-tool/story?id=136684112) · [AP — Trump administration turns to Supreme Court as third-country deportations are thrown into question](https://www.click2houston.com/news/politics/2026/09/24/trump-administration-asks-the-supreme-court-to-allow-quick-third-country-deportations-to-continue/) · [Washington Post — Antrag beim Supreme Court](https://www.washingtonpost.com/politics/2026/09/24/trump-administration-asks-supreme-court-allow-third-country-deportations-now/) · [Third Country Deportation Watch](https://www.thirdcountrydeportationwatch.org/)
+- [GAO-26-108663 — Immigration Detention: Urgent Planning Needed to Avoid Further Waste of Taxpayer Dollars (24.09.2026)](https://www.gao.gov/products/gao-26-108663) · [PBS](https://www.pbs.org/newshour/politics/ice-has-wasted-tens-of-millions-of-dollars-with-uninformed-detention-plans-gao-finds) · [Axios](https://www.axios.com/2026/09/25/ice-detention-expansion-waste-gao-report)
+- [ABC News — Federal immigration authorities targeting airports for arrests (TSA-ICE-Vereinbarung)](https://abcnews.com/US/federal-immigration-authorities-targeting-airports-arrests/story?id=135170980) · [CBS News — ICE detentions set Trump-era high in July (46.000 Einbuchungen, 68.000 in Haft)](https://www.cbsnews.com/news/ice-detentions-trump-high-july-2026-immigration-crackdown-widens/)
+- [8 U.S.C. § 1325 — Improper entry by alien](https://www.law.cornell.edu/uscode/text/8/1325) — die erste unerlaubte Einreise als Bundesvergehen
 
 *Stimmenspektrum 19.07.2026:*
 

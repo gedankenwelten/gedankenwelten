@@ -739,6 +739,16 @@ tags:
 | **DenkerVita** | [[DenkerVita/Manuel Koschi Politik]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Koschi_ICE_Maine_Austin_Transkript.txt` |
 
+## Koschi Politik — ICE aus dem Fokus: Austin, Drittstaaten, GAO (2026)
+
+| | |
+|---|---|
+| **Video** | [Man möchte das Thema nicht im Fokus der Öffentlichkeit haben!](https://www.youtube.com/watch?v=mFhRBwc04w0) |
+| **Primärquelle** | [GAO-26-108663 (24.09.2026)](https://www.gao.gov/products/gao-26-108663) · [AP — Drittstaaten-Abschiebungen vor dem Supreme Court](https://www.click2houston.com/news/politics/2026/09/24/trump-administration-asks-the-supreme-court-to-allow-quick-third-country-deportations-to-continue/) · [CBS — Schüsse in Austin, HSI ermittelt](https://www.cbsnews.com/news/austin-ice-shooting-investigation/) |
+| **Spur** | [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit]] (Eintrag 26.09.2026) |
+| **DenkerVita** | [[DenkerVita/Manuel Koschi Politik]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Koschi_ICE_Fokus_Oeffentlichkeit_Transkript.txt` |
+
 ## Koschi Politik — ICE erschießt Joan Sebastián Guerrero (2026)
 
 | | |
