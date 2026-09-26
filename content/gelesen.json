@@ -23,12 +23,12 @@
    "aufrufe": 22
   },
   {
-   "pfad": "/DenkerVita/Mark-Reicher.html",
+   "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
    "aufrufe": 20
   },
   {
-   "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-   "aufrufe": 18
+   "pfad": "/DenkerVita/Mark-Reicher.html",
+   "aufrufe": 20
   },
   {
    "pfad": "/DenkerVita/Marc-Felix-Serrao",
@@ -257,7 +257,7 @@
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 18
+     "aufrufe": 20
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher.html",
@@ -280,24 +280,16 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "aufrufe": 4
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
      "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Spuren/Trumps-Wille-geschehe",
-     "aufrufe": 3
     },
     {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
@@ -308,11 +300,19 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Damir-Skenderovic",
+     "pfad": "/Spuren/Trumps-Wille-geschehe",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Giulia-Enders",
+     "pfad": "/DenkerVita/Marcant",
      "aufrufe": 2
     },
     {
@@ -328,6 +328,10 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Giulia-Enders",
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Blaise-Pascal",
      "aufrufe": 2
     },
@@ -336,16 +340,8 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
+     "pfad": "/DenkerVita/Damir-Skenderovic",
      "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
-     "aufrufe": 1
     },
     {
      "pfad": "/Denker/Lukas-Baerfuss-Die-Fesseln-der-eigenen-Herkunft",
@@ -486,6 +482,10 @@
     {
      "pfad": "/DenkerVita/Ulf-Poschardt",
      "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Maja-Goepel-und-Achim-Truger-Wachstum-NEU-DENKEN",
+     "aufrufe": 1
     }
    ]
   },
@@ -513,12 +513,12 @@
      "aufrufe": 22
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
      "aufrufe": 20
     },
     {
-     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 18
+     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "aufrufe": 20
     },
     {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
@@ -767,7 +767,7 @@
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 23
+     "aufrufe": 25
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
@@ -1012,7 +1012,7 @@
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 23
+     "aufrufe": 25
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
