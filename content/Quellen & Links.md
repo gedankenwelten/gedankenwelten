@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Torsten Wilholt — Wahrheit und Wissen (Leibniz Universität Hannover, 2023)
+
+| | |
+|---|---|
+| **Vorlesung** | [Einführung in die Erkenntnistheorie (Wahrheit und Wissen, 1. Vorlesung)](https://www.youtube.com/watch?v=2eZMhUVew0Q) — InstPhil, 30.03.2023, 55 Min · [ganze Reihe](https://youtube.com/playlist?list=PL4O7bFNxwUHoONv6nCBNvuVq2ABYB362a) |
+| **Notiz** | [[Geistesblitz/Torsten Wilholt — Wahrheit und Wissen]] · [[DenkerVita/Torsten Wilholt]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Wilholt_Wahrheit_Wissen_Transkript.txt` |
+| **Fund** | Diogenes, Nacht 31.08.2026 (`gedankenwelten_pro`) |
+
 ## Freddy Leppin — Your Monthly Dose of Good News, September 2026
 
 | | |

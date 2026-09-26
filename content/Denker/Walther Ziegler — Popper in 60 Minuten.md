@@ -253,3 +253,7 @@ Arendt und Popper analysieren denselben Befund — wie Moderne in Totalitarismus
 ### → [[Walther Ziegler — Wittgenstein in 60 Minuten]]
 
 Der Schürhaken-Streit ist einer der berühmtesten Momente der Philosophiegeschichte — und ein echter Philosophenstreit. Popper glaubt an echte philosophische Probleme, rational lösbar durch Falsifikation. Wittgenstein hält das für sprachliche Missverständnisse. Dass Popper ihm mit einem moralischen Satz antwortet (*„Man soll Gastdozenten nicht bedrohen"*), ist gleichzeitig Sieg und Ironie: Er beweist Wittgensteins Sprachspieltheorie, indem er ein Lebensform-Sprachspiel zitiert.
+
+### → [[Torsten Wilholt — Wahrheit und Wissen]]
+
+Wilholt trennt den Fallibilismus sauber vom Skeptizismus („Es kann immer sein, dass ich mich irre“ ist nicht „Es kann sein, dass ich mich immer irre“) und hält, anders als Popper, an der Rechtfertigung als Baustein des Wissens fest. Poppers Methodenlehre ist bei ihm ein Beispiel für das evaluative Projekt der Erkenntnistheorie.

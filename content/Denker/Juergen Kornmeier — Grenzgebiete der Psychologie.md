@@ -350,6 +350,11 @@ Kornmeiers Satz ist Morins *principe dialogique* in sieben Wörtern: zwei Logike
 
 Dieselbe Tugend, aus entgegengesetzten Richtungen. Beautemps hat eine Prognose, die wahrscheinlich zutrifft, und dämpft sie — sein „großes Aber" schützt die Aussage davor, zur Gewissheit zu werden. Kornmeier hat Phänomene, die wahrscheinlich nicht überzeugen, und dämpft ebenfalls — er erklärt, warum sein EEG nur das Rauschen hinter der Mauer hört. Beide sagen den Satz, den man in populärer Wissenschaft fast nie hört: Jedes Ergebnis gehört ins Licht der Frage, was das Messgerät überhaupt erfassen kann. Bei Beautemps kostet die Zurückhaltung Reichweite, bei Kornmeier kostet sie den Befund selbst.
 
+### → [[Torsten Wilholt — Wahrheit und Wissen]]
+
+Wilholt begründet philosophisch, was Kornmeier mit der Dolly-Anekdote erzählt: Wissen verlangt keine Gewissheit, und wer Irrtum für möglich hält, ist deshalb noch kein Skeptiker.
+
+
 ---
 
 ## Weiterdenken

@@ -354,6 +354,11 @@ KI-Agenten zeigen die Form menschlicher Konformität ohne ihren Grund: Sie folge
 
 - [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll|Urner — Radikal hoffnungsvoll]] — Urners KI-Paradox ("Menschen denken wie Maschinen, nicht umgekehrt") trifft auf Moukheibers neuropsychologische Analyse des sozialen Gehirns: Das Gehirn ist primär auf andere ausgerichtet (Theory of Mind), nicht auf sequentielle Informationsverarbeitung. Urners Hope Theory (Will Power + Way Power als kognitive Kapazitäten) lässt sich in Moukheibers Rahmen übersetzen — beide stellen gegen das maschinelle Menschenbild das soziale, auf Resonanz angewiesene Gehirn.
 
+### → [[Torsten Wilholt — Wahrheit und Wissen]]
+
+Wilholt führt die Mitteilung anderer als eigene Wissensquelle ein und nennt das Feld, das sie ernst nimmt, soziale Erkenntnistheorie. Das ist der philosophische Rahmen für Moukheibers epistemische Abhängigkeit.
+
+
 ## Verwandte Notes
 
 - [[Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz]] — Das Versagen internationaler Institutionen in Sudan zeigt, was passiert wenn kollektive Intelligenz (Bürgerkonvente, kooperative Entscheidungsstrukturen) durch Machtinteressen ersetzt wird.

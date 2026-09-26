@@ -203,6 +203,11 @@ Onos Frage „Wie finden wir die Ramanujans, die nicht aus dem Privileg kommen?"
 
 Onos unentdeckte Ramanujans bekommen hier eine soziale Ursache. Akalas Publikum hält GZA zu 99 Prozent für Shakespeare — das Urteil über Qualität hängt an der zugeschriebenen Herkunft, nicht am Text. Und sein Wu-Tang-Satz („sie haben es sexy gemacht, intelligent zu sein") ist die Antwort auf Onos Frage nach dem Staunen: Es braucht jemanden aus demselben Treppenhaus, der es vormacht.
 
+### → [[Torsten Wilholt — Wahrheit und Wissen]]
+
+Mit Gettiers stehengebliebener Uhr erklärt Wilholt, warum eine wahre Antwort noch kein Wissen ist, wenn der Weg zu ihr nicht verlässlich war. Das ist die erkenntnistheoretische Begründung für Onos Satz, dass die Verifikation teuer wird.
+
+
 ---
 
 ## Weiterdenken
