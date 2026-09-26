@@ -221,6 +221,12 @@ Was an die Stelle der Parteien tritt, beschreiben die Stimmen unterschiedlich: P
 
 ## Verbindungen
 
+### → [[Panorama/Schoener Wohnen|Schöner Wohnen]]
+Am Berliner Volksentscheid berühren sich die beiden Panoramen: hier die Frage, wie bindend eine Abstimmung ist, dort die, ob Zurückkaufen Wohnungen schafft.
+
+### → [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
+Thieles Satz, dass eine Demokratie ohne Zukunft keine Zukunft hat, gehört zu beiden: Wenn der Aufzug steht, fragt man auch, wer ihn repariert.
+
 ### → [[Panorama/Gelebte Demokratie|Gelebte Demokratie]]
 Das Schwester-Panorama von unten: Informationsfreiheitsanfragen, Streiks, Volksbegehren, die Demokratie herstellen statt sie zu verwalten. Hier geht es um die Bauweise, dort um die Praxis. Am Berliner Volksentscheid treffen sich beide, mit entgegengesetzten Lesarten.
 

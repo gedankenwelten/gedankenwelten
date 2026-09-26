@@ -114,6 +114,16 @@ Das ist die tragende These des Abends, und sie ist stark, weil sie erklärt, war
 > [!question] Weitergedacht
 > Wenn Angst eine Disposition ist, die sich ihre Gegenstände sucht — *was hilft dann überhaupt? Ein neuer Fortschrittsglaube, den man kaum verordnen kann? Oder eine Fähigkeit, die Angst selbst zu bemerken, bevor sie sich ein Objekt greift — und wer lehrt die?*
 
+### Der Aufzug und der Schmied
+
+[▶ 55:09](https://www.youtube.com/watch?v=ziNOiJ6LLFQ&t=3309) — Wie der Fortschrittsglaube im Alltag aussah, sagt Münkler etwas später mit einem Bild. Aufstieg funktioniere „nicht mehr wie mit dem Aufzug, indem man einfach reingeht und dann geht's nach oben“. Man müsse selbst etwas beitragen, *„seines eigenen Glückes Schmied“* sein, und die Bereitschaft dazu gehe „scherenförmig auseinander“; die jüngste PISA-Studie zeige es. Das habe mit Politik zu tun, aber auch mit Erwartungshaltung und Sorglosigkeit.
+
+[▶ 55:56](https://www.youtube.com/watch?v=ziNOiJ6LLFQ&t=3356) — Dann nennt er den Kanzler:
+
+> *„Ihr arbeitet zu wenig … 35-Stunden-Woche ist vorbei, wir müssen zur 40-Stunden-Woche zurückkehren — und der Merz hat's nur miserabel kommuniziert.“*
+
+In der Sache, sagt Münkler, habe Merz „die Realität gut beschrieben“. Zwei Behauptungen liegen hier ineinander, die man trennen sollte. Dass die Bereitschaft, in Bildung und Aufstieg zu investieren, sozial auseinanderläuft, ist ein Befund; PISA misst den Einfluss der Herkunft seit Jahren. Dass die Deutschen zu wenig arbeiten, ist eine andere Behauptung, und sie hält der Arbeitszeitrechnung schlecht stand: Gesunken ist die Stundenzahl pro Kopf, weil mehr Menschen arbeiten, viele davon in Teilzeit; die Summe aller Stunden ist fast dieselbe wie 1991 und verteilt sich auf sieben Millionen Menschen mehr (→ [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]). Und das Bild vom Aufzug hat eine zweite Seite: Bleibt ein Aufzug stehen, sagt das zuerst etwas über den Aufzug.
+
 ### Der Blick von Westen
 
 [▶ 13:53](https://www.youtube.com/watch?v=ziNOiJ6LLFQ&t=833) — Vor zehn Jahren, sagt Münkler, habe er noch geschrieben, die Deutschen seien durch die Auseinandersetzung mit dem NS gegen den Rechtspopulismus immunisiert. Das könne man so nicht mehr sagen. Seine Erklärung für den Abstand zwischen Niedersachsen und Sachsen-Anhalt: Im Westen habe die Beschäftigung mit dem Nationalsozialismus Spuren darin hinterlassen, „was man wollen darf“. Die DDR habe den NS als Faschismus verbucht, als Triumph des Kapitals über die Arbeiterklasse, und sich mit Rassismus und Volksgemeinschaft nie auseinandersetzen müssen. [▶ 15:25](https://www.youtube.com/watch?v=ziNOiJ6LLFQ&t=925) Seine erste Frage an die neuen Ost-Berliner Mitarbeiter 1992 lautete, wie die Nationale Volksarmee Uniformschnitt und Stechschritt der Wehrmacht übernehmen konnte, während die Bundeswehr nie im Paradeschritt marschierte.
@@ -221,7 +231,7 @@ Fünf Tage später war die Prognose widerlegt: Die AfD gewann in Mecklenburg-Vor
 
 ## Nachbesprechung
 
-*Das Video ist hier zu Ende, zwei seiner Themen noch nicht. Was man über das hinaus weiß, was Münkler an diesem Abend sagte — und wo es mit anderen Stimmen weitergeht.*
+*Das Video ist hier zu Ende, drei seiner Themen noch nicht. Was man über das hinaus weiß, was Münkler an diesem Abend sagte — und wo es mit anderen Stimmen weitergeht.*
 
 ### Das Los und der Bürgerrat, den er sinnlos nennt
 
@@ -250,6 +260,12 @@ Seine Prüfungsfrage aus der Lehrerausbildung hält. Die Volksabstimmungen der N
 Und sein Berliner Beispiel wird gerade Tagespolitik. Heute vor fünf Jahren, am 26. September 2021, stimmten 59,1 Prozent der gültigen Stimmen für „Deutsche Wohnen & Co enteignen“, über eine Aufforderung an den Senat, die rechtlich nicht band. Vergesellschaftet ist bis heute keine Wohnung; ein Rahmengesetz vom März 2026 gilt erst ab 2028 ([entwicklungsstadt, 09/2026](https://www.entwicklungsstadt.de/deutsche-wohnen-enteignen-was-aus-dem-berliner-volksentscheid-wurde/)). Münkler hat recht, dass die Vergesellschaftung keine einzige zusätzliche Wohnung schafft; das war allerdings auch nie ihr Ziel, sie ändert das Eigentum, nicht den Bestand. Am 20. September 2026 gewann die Linke die Berliner Wahl mit genau diesem Thema, am 21. kündigte Kanzler Merz ein Bundesgesetz an, das Enteignungen großer Wohnungsunternehmen verbieten soll, gegen die Bedenken der eigenen Justizministerin ([tagesschau, 21.09.2026](https://www.tagesschau.de/inland/innenpolitik/enteignung-vergesellschaftung-wohnungen-berlin-100.html)). Die Frage, die der Abend offenließ, stellt sich damit neu: Wie bindend ist eine Abstimmung, die nicht bindet?
 
 → Weiter im Panorama: **[[Wie kann Demokratie funktionieren#Was kann direkte Demokratie — und was nicht?|Was kann direkte Demokratie — und was nicht?]]**, mit fünf Lesarten desselben Berliner Entscheids, Wesche, Semsrott, Varoufakis' übergangenem Nein und den Briten, die den Brexit bereuen, aber kein neues Referendum wollen.
+
+### Wer den Hammer hat
+
+Merz' Appell, den Münkler in der Sache verteidigt, und sein Bild vom Aufzug führen in eine eigene Frage: Wer hat eigentlich den Hammer, wer den Amboss? Pro Kopf arbeitet in keinem OECD-Land ein Erwerbstätiger so wenige Stunden wie in Deutschland; insgesamt leisteten 2025 aber 46 Millionen Menschen fast dieselben Stunden wie 1991 38,9 Millionen ([IAB](https://iab.de/presseinfo/ergebnisse-der-iab-arbeitszeitrechnung-fuer-das-jahr-2025-teilzeitbeschaeftigte-arbeiteten-132-millionen-stunden/)). Und der Aufzug, dessen Stillstand Münkler beklagt, lief in Deutschland länger als in den USA: Zwei Drittel der Söhne der Jahrgänge 1955 bis 1975 verdienten real mehr als ihre Väter ([Stockhausen 2021, doi:10.1007/s10888-021-09483-w](https://doi.org/10.1007/s10888-021-09483-w)).
+
+→ Weiter im Panorama: **[[Das Glueck des Schmieds|Das Glück des Schmieds]]**, mit Bücker, Höfgen, Dalio, Bude und Bärfuss, und der Frage, ob Sicherheit träge macht. Den Berliner Entscheid in der Sache, jenseits des Verfahrens, verhandelt **[[Schoener Wohnen#Enteignen, regulieren oder bauen?|Schöner Wohnen]]**.
 
 > [!question] Weitergedacht
 > Münkler sieht die Schule des Urteils im Schweizer Büchlein und im gelosten Gemeinderat, und beide gibt es in Deutschland schon im Kleinen: bei den Schöffen, in Aachen, in Hamburg. *Fehlt uns die Lernzeit — oder nur der Mut, das Kleine ernst zu nehmen?*

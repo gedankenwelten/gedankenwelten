@@ -204,6 +204,7 @@ Auf der anderen Seite steht [[Rutger Bregman — Ist der Mensch wirklich gut|Rut
 ## Verwandte Panoramas
 
 - [[Kaufkraft]] — warum ein Lohn nicht mehr für eine Familie reicht: die materielle Seite des stockenden Aufstiegs
+- [[Das Glueck des Schmieds]] — dasselbe Versprechen im einzelnen Leben: Fleiß, Wohlstand, Sicherheit, Herkunft *(wachsend)*
 - [[Neoliberalismus — Was zaehlt]] — welche Bewertungsordnung sich seit 1980 durchgesetzt hat
 - [[Demokratische Wertschoepfung]] — wie Wirtschaften aussähe, das demokratisch verantwortet ist
 - [[Autoritaerer Internationalismus]] — wer die Gestaltungsmacht hält, wenn Technik gestaltet werden soll
