@@ -15,6 +15,16 @@ erstellt: 2026-05-14
 
 # Demokratische Wertschöpfung
 
+![[assets/Demokratische-Wertschoepfung-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Pieter Bruegel d. Ä.** — Dorfpanorama aus hohem Blickwinkel, Öl auf Eichenholz, Ocker, Oliv, Rostrot. Im Vordergrund ziehen die Fischer aus mehreren Booten ein gemeinsames Netz (der Bodensee, 500 Jahre nicht überfischt). Am Ufer hebt unter der Linde eine Dorfversammlung die Hände, eine Person, eine Stimme. Ringsum Backofen, Kornkarren und eine Fachwerkscheune mit Solardach, auf den Hügeln Windräder zwischen alten Windmühlen. Bei Bruegel steht nie eine einzelne Heldenfigur im Mittelpunkt. Viele kleine Menschen tragen gemeinsam ein Ganzes, und das ist die Allmende als Bild. Die Windräder zwischen den Mühlen zeigen die These der Note: Die Genossenschaft ist eine alte Form, die neue Maschinen in sich aufnimmt.
+
+*Prompt:* Wide panoramic village landscape in the style of Pieter Bruegel the Elder, seen from a high vantage point. On a broad lake in the foreground, several small boats of fishermen haul one long shared net together. On the shore a village where dozens of small peasant figures gather beneath a great linden tree in an assembly, many with raised hands voting. Around them daily communal work: a bakery oven, carts of grain, a timber-framed barn whose roof is covered with solar panels, and on the green hills behind, two slender white wind turbines standing among old windmills. Earthy palette of ochre, olive green, russet and pale blue-grey sky. Oil on oak panel, thin translucent layers, fine detailed brushwork. No photorealism, no realistic faces, no text, no signature.
+
+</details>
+
 ## Warum dieses Thema?
 
 Der öffentliche Diskurs kennt zwei Wirtschaftsformen: Markt und Staat. Entweder regelt der Wettbewerb, oder der Staat greift ein. Diese Dichotomie ist eine Verengung — sie blendet eine dritte Form aus, die älter ist als der moderne Kapitalismus, robuster als die meisten staatlichen Eingriffe und in Deutschland tief verwurzelt: **die Genossenschaft**.

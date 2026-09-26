@@ -16,6 +16,16 @@ erstellt: 2026-05-17
 
 # Politik — Verstehen
 
+![[assets/Politik-Verstehen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Remedios Varo** — mystischer Surrealismus, Ölglasuren auf Masonit, Ocker, Kupfer und Salbeigrün. Ein Querschnitt durch die Erde: Oben sitzen verhüllte Gestalten in Reihen vor einer Wand voller Schatten (Kronen, Fahnen, Spruchbänder). Die goldenen Fäden, aus denen diese Schatten entstehen, spinnen Weber in einem Turm. Unten steigt eine einzelne Gestalt mit Laterne die Treppe hinab und findet, dass die Fäden als Wurzelwerk in einen alten Webstuhl laufen. Varo hat ihr Leben lang Menschen gemalt, die die Welt weben und dem Faden nachgehen. Die Note will genau diese Bewegung: von den Schatten an der Wand zur Wurzel, vom Konsumieren zum Hinabsteigen. Platons Höhle und Bernays' gewebte Narrative passen in ein Bild.
+
+*Prompt:* Wide panoramic painting in the style of Remedios Varo, cross-section of the earth. Above ground: a small ochre town square where tiny cloaked figures with almond-shaped eyes sit in rows, gazing at a pale wall on which flickering shadow-shapes of crowns, flags and speech-scrolls are cast by lanterns. From a narrow tower behind them, hooded weavers spin fine golden threads that stream out to form those shadows. In the foreground, one lone cloaked figure carrying a small lantern descends a spiral stair beneath the square, into an earthen chamber where the golden threads turn into a vast tangled root system converging on a single old loom. Palette of ochre, burnt sienna, copper, muted sage green and deep umber, soft candlelight glow. Fine oil glazes on masonite with delicate craquelure, meticulous mystical detail. No photorealism, no realistic faces, no text.
+
+</details>
+
 > *Nicht mehr konsumieren. Tiefer schauen.*
 
 Wer Politik verstehen will, steht vor einem Paradox: Je mehr man konsumiert, desto mehr weiß man — und desto weniger versteht man. Die Details häufen sich, aber das Muster dahinter wird nicht klarer. Manchmal wird es unklarer.
