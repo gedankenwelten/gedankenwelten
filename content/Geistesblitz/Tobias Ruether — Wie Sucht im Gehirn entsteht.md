@@ -204,3 +204,7 @@ Die helle Schwester: Verliebtsein aktiviert dasselbe Belohnungssystem (VTA, Nucl
 ### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
 
 In den USA ist das Rauchen auf den tiefsten je gemessenen Stand gefallen, nach sechzig Jahren aus Steuern, Warnhinweisen und einem gedrehten Bild. Rüthers Befund zu den Drohbildern und seine Warnung vor Nikotin im Jugendgehirn zeigen, wo diese Kurve an ihre Grenze stößt: bei der E-Zigarette, die vor allem junge Menschen bindet.
+
+### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
+
+Was Rüther in der Klinik fordert — Motivation statt Abschreckung, kein Stigma beim Rückfall —, zeigt die Drogenhilfe Halle als Alltag auf der Straße. Dazu kommt die Lücke, die er beschreibt: Das Hilfesystem trennt Sucht und Psyche, obwohl der Mensch beides zusammen trägt.

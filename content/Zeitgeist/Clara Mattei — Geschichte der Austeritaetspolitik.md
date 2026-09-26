@@ -294,3 +294,6 @@ Der Gegentest zu Matteis These an einem lebenden Fall. Dort streiten zwei progre
 
 Der Wohnungsmarkt als Fallstudie zu Matteis These: Um zu sparen, verkauften Länder und Kommunen in den Nullerjahren ihre Wohnungsbestände — Dresden den kompletten, an einen Finanzinvestor. Heute kauft die Stadt zurück, teurer, unter einem FDP-Oberbürgermeister. Austerität als Übertragung öffentlicher Substanz in privaten Ertrag, samt der Rechnung, die zwanzig Jahre später fällig wird.
 
+### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
+
+Was Austerität unten bedeutet, zeigt die Drogenhilfe Halle: Dort muss selbst der Spritzentausch, das am besten belegte Werkzeug der Drogenhilfe, jedes Jahr neu gegen den Haushalt verteidigt werden.

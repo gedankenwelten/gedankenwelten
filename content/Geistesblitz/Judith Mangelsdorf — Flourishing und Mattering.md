@@ -359,6 +359,10 @@ Mangelsdorfs steilste These — Erfolg als Negativprädiktor des Wohlergehens �
 
 Jägers Hyperpolitik ist die Schupfnudel-Szene auf Gesellschaftsgröße: Politisierung so hoch wie nie, Institutionalisierung so niedrig wie nie — man wird gefragt, man antwortet laut, und die Antwort macht keinen Unterschied. Damit liefert er die strukturelle Ursache für das, was Mangelsdorf auf der vierten Ebene des Mattering diagnostiziert, und zugleich einen Einwand gegen ihre Lösung: Wenn ausgerechnet die Institutionen verschwunden sind, in die Wut einrasten konnte, dann ist der Rat, sich im Schwimmverein zu engagieren, zu klein. Beide zeigen dasselbe Vakuum — sie misst, was sein Fehlen mit dem Einzelnen macht, er, was es mit der Demokratie macht.
 
+### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
+
+Die Drogenhilfe Halle zeigt Mangelsdorfs Präventions-Paradox in der Praxis: Was wirkt, weil etwas ausbleibt — Infektionen, Überdosen, der Absturz —, muss jedes Jahr neu begründet werden.
+
 ---
 
 ## Weiterdenken

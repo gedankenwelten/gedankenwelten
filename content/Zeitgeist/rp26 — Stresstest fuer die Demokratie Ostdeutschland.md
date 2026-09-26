@@ -242,3 +242,7 @@ Die im Panel durchgespielten Szenarien — MDR-Staatsvertrag, Bundesrat-Resilien
 ### → [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat]]
 
 Was dieses Panel als Lage schildert, taucht bei Thiele als einzelne Anekdote auf: der Kollege aus Sachsen-Anhalt, der auf die Frage nach der Vorbereitung „mal schauen" antwortet. Thiele liefert den Mechanismus dazu — Dienstaufsichtsbeschwerden, Versetzungen, neu zugewiesene Aufgaben sind im Beamtenrecht angelegt und lassen sich ausnutzen — und die Diagnose, dass das Signal von oben längst lautet: Wenn es hart auf hart kommt, steht ihr allein. Die drei Prozent Ostdeutsche in der Justiz sind sein Teilhabedefizit als Zahl.
+
+### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
+
+Wie dünn die Hilfsstruktur in Sachsen-Anhalt ist, zeigt die Drogenhilfe Halle: Dort kämpft eine Anlaufstelle jedes Jahr ums Geld und hofft, sich trotz der politischen Entwicklungen zu halten.

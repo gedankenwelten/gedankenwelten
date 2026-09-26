@@ -99,3 +99,4 @@ tags: [denker-vita, naturwissenschaft, klimawandel, deutschland, wissenschaftsko
 
 - [[Mark Benecke — Umwelt-Messungen Sommer 2026]] — Forensische Klimadaten-Analyse mit 12 Statistikcharts, Daten-Quellen bis Mai 2026
 - [[Mark Benecke — Fragerunde Time Is Up 2026]] — Fragerunde mit Hartlieb, Pöttinger: Konsumkritik vs. Systemkritik, 2050-Horizont, Artensterben, Hoffnung als Handlungsspielraum
+- [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]] — Rundgang durch die Drogenberatungsstelle drobs Halle: Spritzentausch, akzeptierende Beratung, ein Streetworker für alle über 27, der Wunsch nach Drug-Checking
