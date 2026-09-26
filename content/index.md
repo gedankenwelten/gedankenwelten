@@ -56,17 +56,17 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **26.09.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
+>
+> Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
+
 > **26.09.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 >
 > Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Fünf offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
-> **24.08.** — [[Panorama/Sieben Zeugen, kein Konsens|Sieben Zeugen, kein Konsens]]
+> **26.09.** — [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
 >
-> Eine Woche, sieben Gespräche, ein Land — und keine zwei, die dasselbe sagen. Was übrig bleibt, wenn man alle sieben ernst nimmt, statt sich eine Stimme auszusuchen.
-
-> **26.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
->
-> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
+> Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
 
 ### Spuren
 

@@ -32,6 +32,9 @@ Jedes Panorama folgt diesem Aufbau:
 
 | Thema | Datei | Notes |
 |---|---|---|
+| Das Glück des Schmieds *(wachsend)* | [[Das Glueck des Schmieds]] | ~30 |
+| Schöner Wohnen *(wachsend)* | [[Schoener Wohnen]] | ~25 |
+| Wie kann Demokratie funktionieren? *(wachsend)* | [[Wie kann Demokratie funktionieren]] | ~50 |
 | Fortschritt | [[Fortschritt]] | 29 |
 | Neoliberalismus — Was zählt | [[Neoliberalismus — Was zaehlt]] | 13 |
 | Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |

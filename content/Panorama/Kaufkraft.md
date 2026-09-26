@@ -131,6 +131,8 @@ Verbundene Notes: [[Martyna Linartas — Unverdiente Ungleichheit]] · [[Christo
 
 ✅ **Trägt bei** — Wenn 27,8 % des Durchschnittseinkommens in die Miete fließen (in Ballungsräumen 40 %+), ist Wohnen der größte Kaufkraft-Killer. Öffentlicher Wohnungsbau, Mietendeckel, Vorkaufsrechte, Spekulationsbesteuerung. Wien zeigt, dass es geht — 60 % der Bevölkerung wohnt dort in kommunalen oder gemeinnützigen Wohnungen.
 
+→ Vertieft im wachsenden Panorama [[Panorama/Schoener Wohnen|Schöner Wohnen]]: Forschungsstand zu Boden, Mietpreisbremse, Neubau und Genossenschaften.
+
 ---
 
 ### Lohnzurückhaltung beenden
