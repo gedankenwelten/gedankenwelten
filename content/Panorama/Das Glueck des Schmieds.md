@@ -112,6 +112,7 @@ Wo man anfängt, entscheidet trotzdem viel. Nach einer unsicheren Schätzung der
 
 **Die Stimmen**
 
+- **Luc**, im Gespräch: Handlungsmacht ist kein Ort, sondern eine Abfolge. Zuerst kommt der eigene Entschluss, zu wissen, was man will; für die Umsetzung zählen dann Netzwerk, Geld, Staat und Zufall. *„Zufall wird Wahrscheinlichkeit mit Ziel und Handlung.“*
 - **[[Lukas Baerfuss — Die Fesseln der eigenen Herkunft#Das Glück, das kein Verdienst ist|Lukas Bärfuss]]:** Vom Obdachlosen zum Büchner-Preisträger, und doch: *„Ich würde nicht behaupten, dass das alles durch meinen Willen und durch meine Kraft geschehen ist. Überhaupt nicht.“*
 - **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Michael Hartmann]]:** Nicht Geschlecht oder Migrationshintergrund sollten über Quoten entscheiden, sondern die soziale Herkunft; wer mit Migrationsgeschichte oben ankommt, ist fast immer Akademikerkind.
 - **[[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus#Das blockierte Leben|Carolin Amlinger]]:** Eine Karriere, die für das Aufstiegsversprechen steht, und doch das Gefühl, *„im Leben fundamental blockiert zu sein“*.
@@ -136,6 +137,7 @@ Wo man anfängt, entscheidet trotzdem viel. Nach einer unsicheren Schätzung der
 | Datum | Note | Vertieft |
 |---|---|---|
 | 26.09.2026 | [[Herfried Muenkler — Die Sehnsucht nach Ordnung#Der Aufzug und der Schmied|Herfried Münkler — Die Sehnsucht nach Ordnung]] | Der Aufzug, das Sprichwort und Merz' Appell · Anstoß zu diesem Panorama |
+| 26.09.2026 | Gespräch (Luc) | Handlungsmacht als Abfolge: erst der Entschluss, dann die Werkzeuge |
 
 ---
 
