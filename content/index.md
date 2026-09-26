@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **26.09.** — [[Geistesblitz/Torsten Wilholt — Wahrheit und Wissen|Torsten Wilholt — Wahrheit und Wissen]]
+>
+> Wer richtig liegt, weiß deshalb noch nichts: Wissen ist wahre Überzeugung, die nicht vom Zufall lebt — und wer Irrtum für möglich hält, ist darum noch lange kein Skeptiker.
+
+> **21.09.** — [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+>
+> Der Feed kennt keinen Unterschied zwischen Liebe und Hass, nur Verweildauer. Er verstärkt ein altes Gefühl, das einmal Gruppen zusammenhielt, und macht uns dabei müde.
+
+> **18.09.** — [[Geistesblitz/KI-Agenten — Vom Dorf zur Zivilisation|KI-Agenten — Vom Dorf zur Zivilisation]]
+>
+> Fünfundzwanzig KI-Figuren feiern eine Party, tausend gründen eine Religion. Was diese Simulationen zeigen, hängt davon ab, wer genau hinsieht: an ihnen erkennen wir uns selbst.
+
 ### Spuren
 
 > **26.09.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
@@ -51,20 +65,6 @@ Die Gedankenwelten (luc)
 > **22.09.** — [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
 >
 > Sechsundfünfzig Beschäftigte einer insolventen Spinnerei kaufen mit ihren Abfindungen die Fabrik. Das gelingt, es kostet viel, und nebenan scheitert dasselbe am Geld.
-
-### Geistesblitz
-
-> **21.09.** — [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
->
-> Der Feed kennt keinen Unterschied zwischen Liebe und Hass, nur Verweildauer. Er verstärkt ein altes Gefühl, das einmal Gruppen zusammenhielt, und macht uns dabei müde.
-
-> **18.09.** — [[Geistesblitz/KI-Agenten — Vom Dorf zur Zivilisation|KI-Agenten — Vom Dorf zur Zivilisation]]
->
-> Fünfundzwanzig KI-Figuren feiern eine Party, tausend gründen eine Religion. Was diese Simulationen zeigen, hängt davon ab, wer genau hinsieht: an ihnen erkennen wir uns selbst.
-
-> **08.09.** — [[Geistesblitz/Judith Mangelsdorf — Flourishing und Mattering|Judith Mangelsdorf — Flourishing und Mattering]]
->
-> Ein Gefühl entscheidet mehr über ein Leben als Erfolg: ob jemand merkt, dass die Welt ohne ihn eine andere wäre. Und ob dieses Gefühl gerecht verteilt ist.
 
 ### Zeitgeist
 

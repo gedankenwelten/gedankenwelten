@@ -203,6 +203,11 @@ Die Gegen-Frage: Callards Sokrates *sucht* die eine Frage, die das Leben prüft 
 
 Der offene Widerspruch. Dort steht Hannah Arendts sokratisches Denken als *innerer* Dialog — zwei in einem, man kommt mit sich allein aus, und genau darin liegt die Bedingung moralischen Handelns. Callard bestreitet das: Die Fragen, die unser Leben bestimmen, können wir uns nicht selbst stellen; Denken geschieht wesentlich zu zweit. Beide berufen sich auf denselben Sokrates und geben unvereinbare Antworten darauf, ob das Selbstgespräch genügt.
 
+### → [[Torsten Wilholt — Wahrheit und Wissen]]
+
+Herbarts Satz „Jeder Skeptiker ist ein Anfänger“, den Wilholt in seiner Vorlesung zitiert, trifft dieselbe Verwechslung, die Callard auflöst: Die Einsicht, dass man sich irren kann, ist Vernunft und noch keine Skepsis.
+
+
 ---
 
 ## Weiterdenken

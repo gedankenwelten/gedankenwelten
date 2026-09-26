@@ -306,3 +306,7 @@ Der Praxistest der These, dass Misstrauensgemeinschaften sich nicht entzaubern l
 ### → [[Paul Ricoeur — Die zweite Naivitaet]]
 
 Die philosophische Vorgeschichte des Befunds: *Hermeneutik des Verdachts* nennt Ricœur das, was Marx, Nietzsche und Freud der Moderne beigebracht haben — hinter jeder Aussage ein Interesse zu vermuten. Er hält diese Schule für unumgänglich und ihre Verabsolutierung für den Ruin: Wer nur noch entlarvt, hört irgendwann nichts mehr, weil die Brille, die überall Maschinerie sieht, sie auch dort sieht, wo keine ist. Die Misstrauensgemeinschaften sind, was daraus wird, wenn eine ganze Gesellschaft nur diese eine Hälfte gelernt hat.
+
+### → [[Torsten Wilholt — Wahrheit und Wissen]]
+
+Wilholt behandelt die Mitteilung anderer als Quelle des Wissens. Damit wird der Vertrauensverlust, den El-Mafaalani beschreibt, auch zu einem Verlust an gemeinsamem Wissen, und die Trennung von Fallibilismus und Skeptizismus entspricht der von konstruktivem und destruktivem Misstrauen.

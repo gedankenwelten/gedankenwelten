@@ -302,3 +302,7 @@ Die ethische Umkehrung im selben Raum: Beide leben in der wissenschaftlichen Uns
 ### → [[Juergen Kornmeier — Grenzgebiete der Psychologie|Jürgen Kornmeier — Grenzgebiete der Psychologie]]
 
 Der Grenzfall zum Tabak-Blueprint — und darum lehrreich. Kornmeiers Haltungssatz „Ich glaube nichts, halte aber alles für möglich" ist formal derselbe Zweifel, den die Agnotologie fabriziert; der Unterschied liegt allein darin, dass er ihn gegen die eigenen Phänomene richtet und offen sagt, wo sie scheitern: zu klein zum Überzeugen, mit Replikationsproblem. Er ergänzt die Doku zudem um die Innenansicht der „orphaned science": Sein Institut existiert nur privat finanziert, weil das Thema karriereschädlich ist — und Bewusstsein wurde erst erforschbar, als mit Francis Crick ein Nobelpreisträger die Tür aufstieß.
+
+### → [[Torsten Wilholt — Wahrheit und Wissen]]
+
+Wilholts Unterscheidung von Wissen und Gewissheit, von Fallibilismus und Skeptizismus benennt den Fehlschluss, den die Tabakindustrie zur Strategie gemacht hat: Aus „nicht völlig sicher“ wird „nicht gewusst“.

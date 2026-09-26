@@ -1013,3 +1013,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Valentine Fanjeaux
 **Status:** ✓ Vollanalyse → [[DenkerVita/Valentine Fanjeaux]]
+
+## Torsten Wilholt
+**Status:** ✓ Vollanalyse → [[DenkerVita/Torsten Wilholt]]

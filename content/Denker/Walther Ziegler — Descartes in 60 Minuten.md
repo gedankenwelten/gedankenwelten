@@ -189,3 +189,6 @@ Descartes' Vermächtnis in einem Satz: *„Zu leben, ohne zu philosophieren, ist
 
 Shiva rechnet die ökologische Rechnung des cartesianischen *res extensa* auf: die Trennung, die Descartes begründet, ist bei ihr (mit Bacon) die Wurzel von Naturherrschaft und Patriarchat.
 
+### → [[Torsten Wilholt — Wahrheit und Wissen]]
+
+Wilholt stellt klar, dass Descartes den Traum und den bösen Dämon als Prüfsteine einsetzte und kein Skeptiker war. Und er zeigt, wo der kartesische Maßstab in die Irre führt: Wer Wissen mit Gewissheit gleichsetzt, verliert fast alles, was wir wissen.

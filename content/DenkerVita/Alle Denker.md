@@ -548,6 +548,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Wendy Brown|Wendy Brown]]** — Politische Theoretikerin und Kritikerin des Neoliberalismus (UPS Foundation Professor, Institute for Advanced Study Princeton); Foucault-Gelehrte; Analyse: Neoliberalismus als Regierungsrationalität, nicht nur Wirtschaftspolitik; Demokratie-Aushöhlung von innen; Kernwerk *Undoing the Demos* (2015, Spitz Prize 2017); *In the Ruins of Neoliberalism* (2019); aktive akademische Widerstandspraxis gegen UC-Privatisierung
 
+**[[DenkerVita/Torsten Wilholt|Torsten Wilholt]]** — Wissenschaftsphilosoph (Leibniz Universität Hannover), Erkenntnistheorie und soziale Erkenntnistheorie; fragt, wann Vertrauen in die Wissenschaft berechtigt ist, und zeigt, dass es geteilte Werturteile über induktive Risiken voraussetzt; *Die Freiheit der Forschung* (2012), Ko-Direktor der DFG-Gruppe SOCRATES
+
 **[[DenkerVita/William Darity Jr.|William Darity Jr.]]** — Ökonom (Duke), Begründer der *Stratification Economics* und führender Reparations-Ökonom der USA; Diskriminierung als rationale Verteidigung von Gruppenpositionen; Vermögen statt Einkommen; *From Here to Equality* (2020) mit A. Kirsten Mullen; Baby Bonds mit Darrick Hamilton
 
 **[[DenkerVita/Wolfgang Kaleck|Wolfgang Kaleck]]** — Menschenrechtsanwalt, Gründer und Generalsekretär des ECCHR, Anwalt Edward Snowdens; transnationale Prozessführung gegen Straflosigkeit (Abu Ghraib, Argentiniens Militärs), Menschenrechte als „konkrete Utopie“, Kritik am „zweierlei Maß“ des westlichen Völkerstrafrechts
