@@ -22,6 +22,16 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Spuren
+
+> **26.09.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+>
+> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
+
+> **20.09.** — [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck|Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?]]
+>
+> Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
+
 ### Denker
 
 > **22.09.** — [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere|Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
@@ -69,34 +79,6 @@ Die Gedankenwelten (luc)
 > **16.09.** — [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]]
 >
 > Mit siebzehn auf einem Nazikonzert, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt.
-
-> **16.09.** — [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Vermögenssteuer gegen Fake News]]
->
-> Reichweite hat einen Preis, und ihn zahlen wenige: Thomas Laschyk führt Desinformation auf große Vermögen zurück — mit gut belegtem Kern und kuratierten Belegen.
-
-### Spuren
-
-> **20.09.** — [[Spuren/Zurueck-in-die-EU-wer-kehrt-zurueck|Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?]]
->
-> Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa. Offen ist nur, wer ankommt — das Königreich als Ganzes oder seine Teile einzeln. Zwei Wege, die einander ausschließen.
-
-> **17.09.** — [[Spuren/Trumps-Wille-geschehe|Trumps Wille geschehe]]
->
-> Was, wenn Trumps gesamte Politik nichts weiter ist als das systematische Übermalen seiner Rivalen — bis nichts von ihnen übrig bleibt?
-
-> **17.09.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
-
-> **17.09.** — [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel und Gaza — Völkerrecht im Schatten der Aufmerksamkeit]]
->
-> Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen.
-
-> **17.09.** — [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash — was aus einer datierten Prophezeiung wird]]
->
-> Eine datierte Apokalypse verstreicht — und die Frist springt nicht auf ein neues Datum, sie verdampft. Über geschlossene Kreise und die Tür, die ein Irrtum braucht.
-
-> → *1 weitere in* [[Spuren]]
 
 ### Gedanken
 
