@@ -378,6 +378,10 @@ Die Spur wurde am 6. Juli 2026 ausdrücklich **vor** dieser Wahl eröffnet, als 
 
 Dieselbe Reihe, dasselbe Moderationsduo, zwei Jahre später ein anderer Maßstab: Dort ging es um Europa, das vom großen Bruder zurückgelassen wurde, hier um ein Land, das seine eigenen Schutzvorrichtungen prüft. Der Widerhall liegt in einem Punkt — Friedmans Rede von der Lebenslüge des liberalen Europa trifft Quents Bemerkung, die Doppelmoral des westlichen Liberalismus sei nicht mehr durchzuhalten. Beide Abende kommen von verschiedenen Seiten zum selben Verdacht: Das Modell, dem viele nachhängen, gibt es so schon länger nicht mehr.
 
+### → [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]]
+
+Eine gute Woche später spricht Münkler über dieselbe Wahl und erklärt den Ost-West-Abstand mit dem DDR-Faschismusbegriff. Quents Jugenddaten ohne Ost-West-Unterschied stellen diese These in Frage; Münklers Fortschrittsglaube als Angstblocker trifft sich mit Quents Wohlstandsfundament.
+
 ---
 
 ## Weiterdenken

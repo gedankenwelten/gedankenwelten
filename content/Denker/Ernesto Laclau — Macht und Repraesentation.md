@@ -194,6 +194,10 @@ Dörre arbeitet mit dem marxistischen Klasseninteresse — dort, wo Laclau mit d
 
 Semsrotts Befund — dass ein Großteil der Bevölkerung sich von der Regierung nicht repräsentiert fühlt — ist ein praktisches Beispiel für Laclaus These, dass Repräsentation kein neutrales Abbildungsverhältnis ist, sondern das „Volk" erst konstituiert. Sein Gegenmacht-Konzept (Zivilgesellschaft als antagonistischer Pol) ist laclauscher Populismus in der Anwendung — ohne dass Semsrott diesen Rahmen explizit zieht.
 
+### → [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]]
+
+Münkler liest dieselbe Einsicht als Warnung: Das Volk existiert nicht vor seiner Führung, also „wer Volk sagt, meint autoritäre Führung“. Er erzählt außerdem, wie Gramscis Hegemoniebegriff, den Laclau und Mouffe für die Linke fruchtbar machten, im Umfeld von Schnellroda zur Strategie des Stellungskriegs wurde.
+
 ---
 
 ## Weiterdenken

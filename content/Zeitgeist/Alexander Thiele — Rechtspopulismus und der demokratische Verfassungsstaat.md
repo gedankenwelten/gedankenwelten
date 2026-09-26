@@ -343,6 +343,10 @@ Dieselbe Diagnose, die umgekehrte Therapie. Püttmann und Thiele sind sich einig
 
 Thieles Aufforderung, sich nicht länger an den Populisten abzuarbeiten, taucht dort als Michel Friedmans vierte Idee wieder auf: Die Demokraten müssten erst untereinander aushandeln lernen, was Freiheit heute heißt — der anstrengendste Weg, „er wird nie diskutiert". Und Thieles Diagnose der fehlenden Erzählung für 2050 bekommt eine Erklärung: Matthias Quent hält das deutsche Demokratiefundament für eines, das auf Wohlstand stand und nicht auf Überzeugung. Ein solches Fundament braucht kein Zukunftsbild, solange es trägt.
 
+### → [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]]
+
+Münkler beschreibt denselben Verlust wie Thieles „Land ohne 2050“: Mit dem Fortschrittsglauben verschwindet die Gewissheit, dass Demokratie Ordnung schaffen kann. Anders als Thiele sucht er die Ursache eher in der Angst der Wähler als in prüfbaren Defiziten des Staates.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

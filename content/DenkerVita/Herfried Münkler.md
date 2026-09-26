@@ -124,7 +124,10 @@ Innenpolitisch überrascht er mit Vorschlägen, die quer zum sicherheitspolitisc
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Joerg Baberowski|Jörg Baberowski]] — Kollege an der Humboldt-Universität, der die Geschichte der Repräsentation als liberale Abwehr des „Pöbels“ erzählt, wo Münkler einen schützenden Filter sieht. Beim Losverfahren treffen sich beide aus entgegengesetzten Gründen.
+- [[DenkerVita/Ernesto Laclau|Ernesto Laclau]] — Gemeinsamer Ausgangspunkt sind Gramscis Hegemoniebegriff und die Einsicht, dass es das Volk vor seiner Führung nicht gibt. Münkler folgert daraus Misstrauen gegen das Wort, Laclau den Kampf darum.
+- [[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]] — Beide lesen mit Koselleck den Fortschrittsglauben als tragende Erwartung der Moderne. Münkler nennt ihn Angstblocker, Reckwitz zeigt, dass diese Kultur keine Sprache für den Verlust hat.
+- [[DenkerVita/Heinz Bude|Heinz Bude]] — Budes kollektives Misstrauen mit „wandelbaren Gegenständen“ nimmt Münklers Angst ohne festes Objekt um zwölf Jahre vorweg.
 
 ---
 
@@ -132,3 +135,4 @@ Innenpolitisch überrascht er mit Vorschlägen, die quer zum sicherheitspolitisc
 
 - [[Herfried Münkler — Muss es Kriege geben]] — ZEIT-Podcast: Kriegsdefinition, postheroische Gesellschaft, der fehlende Hüter des Friedens
 - [[Herfried Münkler — Europas Platz in der neuen Weltordnung]] — Keynote 2026: die Auflösung der Krieg/Frieden-Unterscheidung, Europas Sandwichposition, Atlantizismus gegen Eurasismus, Messianismus gegen Katechon
+- [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]] — Körber-Stiftung 2026 nach der Sachsen-Anhalt-Wahl: Angst gegen Furcht, der Fortschrittsglaube als verlorener Angstblocker, „Wer Volk sagt, meint Führung“, Los statt Plebiszit, kein Recht auf Sorglosigkeit

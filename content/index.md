@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Spritzentausch eins zu eins, ein Streetworker für eine ganze Großstadt: wie Schadensminderung aussieht, wenn das Geld jedes Jahr neu erkämpft werden muss.
 
+> **26.09.** — [[Zeitgeist/Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]]
+>
+> Angst sucht sich ihre Gegenstände selbst, und gegen sie ist die Mitte machtlos: Münkler über eine Sehnsucht nach Ordnung, die eigentlich Sorglosigkeit meint.
+
 > **20.09.** — [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Maja Göpel & Achim Truger — Wachstum NEU DENKEN]]
 >
 > Zwei Ökonomen über die Zahl, die alles regiert: Das BIP misst weder die zerstörte Natur noch die unbezahlte Arbeit noch die Verteilung — und der Sachverständigenrat hat ein besseres Instrument, das er selbst nicht benutzt.
