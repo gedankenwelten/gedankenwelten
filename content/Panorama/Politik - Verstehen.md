@@ -133,3 +133,4 @@ Das alles bleibt abstrakt, solange es nicht auf die eigene Person zurückfällt.
 | [[Gedanken/Polarisierung als Ideologisierungsfalle\|Polarisierung als Ideologisierungsfalle]] | Wenn Überzeugung zur Identität wird |
 | [[Gedanken/Die Wurzel verstehen - Politik jenseits des Konsums\|Die Wurzel verstehen — Politik jenseits des Konsums]] | Persönliche Reflexion, Baum-Metapher |
 | [[Gedanken/Das Gewebe der Freiheit - Demokratie tiefer als das Waehlen\|Das Gewebe der Freiheit — Demokratie tiefer als das Wählen]] | Was Demokratie wirklich bedeutet: Gewöhnungsblindheit, das Gewebe, das Auenland |
+| [[Panorama/Wie kann Demokratie funktionieren\|Wie kann Demokratie funktionieren?]] | Die Bauweise der Demokratie: Wer entscheidet, was schützt, was Bürger brauchen — Mündigkeit als eine von fünf Fragen |

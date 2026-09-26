@@ -243,6 +243,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]] | Netzwerk · CPAC/Heritage/Atlas |
 | [[Francesca Bria — The Authoritarian Stack]] | Netzwerk · 250+ Akteure, \$45 Mrd. |
 | [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] | Tech · Desouveränisierung |
+| [[Panorama/Wie kann Demokratie funktionieren\|Wie kann Demokratie funktionieren?]] | Institutionen · Orbáns Verfassungsfallen, Schutz vor Willkür als Bauweise |
 | [[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] | Tech · Infrastrukturelle Souveränität |
 | [[Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]] | Tech · Ideengeschichte Valley→Trump (Rand, Girard, Yarvin) |
 | [[Evan Osnos — Megayachten und die Seele der Ultrareichen]] | Oligarchie · Psychologie der Ultrareichen |

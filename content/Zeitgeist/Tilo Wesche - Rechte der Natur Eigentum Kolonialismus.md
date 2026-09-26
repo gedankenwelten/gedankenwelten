@@ -73,7 +73,7 @@ Sein Argument: Die parlamentarische Demokratie wurde unter den Bedingungen ihrer
 
 > *„Der Parlamentarismus sollte beibehalten werden unter zwei Bedingungen. Erstens: eine stärkere Kontrolle des Parlaments. [...] Es muss wirklich eine Repräsentation der Bevölkerung sein und nicht, wie im amerikanischen Kongress, einfach nur noch Millionäre. Das andere ist, dass der Parlamentarismus ergänzt wird durch Elemente der direkten Demokratie — verbindliche Volksentscheide."*
 
-Wesche nennt das Berliner Volksbegehren „Deutsche Wohnen & Co. enteignen" als Lehrstück: ein verbindlicher Mehrheitsbeschluss, der dann politisch versandet, weil der Parlamentarismus ihn als unverbindliche Empfehlung behandelt. Echte Mischform — das ist sein Vorschlag. Nicht Abschaffung des Parlaments, sondern seine Ergänzung durch verbindliche Bürgerentscheide. Das ist methodisch dieselbe Bewegung wie bei den Naturrechten: das bestehende Recht nicht abreißen, sondern konsequenter machen.
+Wesche nennt das Berliner Volksbegehren „Deutsche Wohnen & Co. enteignen" als Lehrstück: ein klarer Mehrheitsbeschluss, der rechtlich nur eine Aufforderung an den Senat war und darum politisch versanden konnte, weil der Parlamentarismus ihn als unverbindliche Empfehlung behandelt. Echte Mischform — das ist sein Vorschlag. Nicht Abschaffung des Parlaments, sondern seine Ergänzung durch verbindliche Bürgerentscheide. Das ist methodisch dieselbe Bewegung wie bei den Naturrechten: das bestehende Recht nicht abreißen, sondern konsequenter machen.
 
 ---
 

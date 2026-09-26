@@ -54,6 +54,20 @@ Die Gedankenwelten (luc)
 >
 > Fünfundzwanzig KI-Figuren feiern eine Party, tausend gründen eine Religion. Was diese Simulationen zeigen, hängt davon ab, wer genau hinsieht: an ihnen erkennen wir uns selbst.
 
+### Panorama
+
+> **26.09.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+>
+> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Fünf offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
+
+> **24.08.** — [[Panorama/Sieben Zeugen, kein Konsens|Sieben Zeugen, kein Konsens]]
+>
+> Eine Woche, sieben Gespräche, ein Land — und keine zwei, die dasselbe sagen. Was übrig bleibt, wenn man alle sieben ernst nimmt, statt sich eine Stimme auszusuchen.
+
+> **26.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
+>
+> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
+
 ### Spuren
 
 > **26.09.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
@@ -97,20 +111,6 @@ Die Gedankenwelten (luc)
 > **03.07.** — [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]
 >
 > Ein Gedankenspiel über bewusstes Vertrauen: Das Geben wirkt im Gebenden, das vermeintliche Opfer löst sich auf — aus der Machtlosigkeit wird ein mögliches Fundament.
-
-### Panorama
-
-> **24.08.** — [[Panorama/Sieben Zeugen, kein Konsens|Sieben Zeugen, kein Konsens]]
->
-> Eine Woche, sieben Gespräche, ein Land — und keine zwei, die dasselbe sagen. Was übrig bleibt, wenn man alle sieben ernst nimmt, statt sich eine Stimme auszusuchen.
-
-> **26.07.** — [[Panorama/Neoliberalismus — Was zaehlt|Neoliberalismus — Was zählt]]
->
-> Der Neoliberalismus zählt, was sich rechnet — und macht damit unsichtbar, was das Leben trägt: Fürsorge, Zeit, Natur, das Lebendige. Ein Panorama über die Herrschaft der Kennzahl und die Frage nach einer menschlichen Ökonomie.
-
-> **25.07.** — [[Panorama/Fortschritt|Fortschritt]]
->
-> Zweieinhalb Jahrhunderte lang war klar, dass es besser wird. Was passiert mit einer Gesellschaft, deren Institutionen auf ein Versprechen gebaut sind, das sie selbst nicht mehr glaubt?
 
 ### Kultur
 

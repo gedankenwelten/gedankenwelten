@@ -134,6 +134,9 @@ Das wirtschaftliche Gegenstück: Wo dieses Panorama politische Praxis versammelt
 ### → [[Panorama/NoAfD|NoAfD]]
 Die Defensive als Hintergrundfolie: Was in *Gelebte Demokratie* aufgebaut wird, ist auch das, was in *NoAfD* verteidigt wird. Beide Panoramen brauchen einander — das Eine zeigt die Bedrohung, das Andere die Antwort.
 
+### → [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+Das Schwester-Panorama zur Bauweise: Wo dieses die Praxis von unten versammelt, fragt jenes nach Verfahren und Institutionen — Gewählte, Geloste oder alle, und was die Mehrheit in Schranken hält. Am Berliner Volksentscheid treffen sich beide; dort steht er neben vier anderen Lesarten, darunter Münklers „DDR-Verhältnissen“.
+
 ### → [[Zeitgeist/Die Anstalt — Warum Wohnen unbezahlbar wird|Die Anstalt — Warum Wohnen unbezahlbar wird]]
 
 Der Berliner Volksentscheid von 2021 taucht dort als Pointe auf: Der Investor auf der Bühne nennt Vergesellschaftung eine „radikale Enteignungsfantasie“, mit der man allein dastehe — 59,1 Prozent der Berliner hatten anders gestimmt. Fünf Jahre später ist das Gesetz noch immer nicht zur Abstimmung gestellt. Ein Lehrstück für den Abstand zwischen Mehrheit und Umsetzung, den dieses Panorama beschreibt.
@@ -170,5 +173,6 @@ Derselbe Typus wie die hier versammelten Initiativen, aber mit dem anderen Ausga
 | [[Gedanken/Architekten des Lebendigen — Systeme die dem Leben dienen\|Architekten des Lebendigen]] | Theoretisches Fundament: Systeme, die dem Leben dienen |
 | [[Panorama/Demokratische Wertschoepfung\|Demokratische Wertschöpfung]] | Wirtschaftliche Dimension: Genossenschaften, Bürgerenergie |
 | [[Panorama/NoAfD\|NoAfD]] | Die Defensive: Was gelebte Demokratie verteidigt |
+| [[Panorama/Wie kann Demokratie funktionieren\|Wie kann Demokratie funktionieren?]] | Die Bauweise: Wahl, Los, Abstimmung, Institutionen — wachsendes Schwester-Panorama |
 | [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland\|rp26 — Stresstest Demokratie Ostdeutschland]] | Mangelbedingungen · Demokratie ohne staatliche Förderstruktur im Osten |
 | [[Geistesblitz/Maren Urner — Radikal hoffnungsvoll\|Maren Urner — Radikal hoffnungsvoll]] | Neurobiologische Fundierung: Hoffnung als trainierbare Kapazität (Will Power + Way Power) — drei Praxisbeispiele: Positive Money, Freedom Writers, Funf |

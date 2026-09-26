@@ -27,6 +27,10 @@
    "aufrufe": 20
   },
   {
+   "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+   "aufrufe": 18
+  },
+  {
    "pfad": "/DenkerVita/Marc-Felix-Serrao",
    "aufrufe": 16
   },
@@ -36,10 +40,6 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher",
-   "aufrufe": 12
-  },
-  {
-   "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
    "aufrufe": 12
   },
   {
@@ -256,12 +256,12 @@
      "aufrufe": 22
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
-     "aufrufe": 13
+     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "aufrufe": 18
     },
     {
-     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 12
+     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "aufrufe": 13
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
@@ -269,7 +269,7 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 8
+     "aufrufe": 7
     },
     {
      "pfad": "/DenkerVita/Juergen-Kornmeier",
@@ -280,6 +280,10 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
      "aufrufe": 4
     },
@@ -288,19 +292,11 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Spuren/Trumps-Wille-geschehe",
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
+     "pfad": "/Spuren/Trumps-Wille-geschehe",
      "aufrufe": 3
     },
     {
@@ -308,7 +304,11 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Damir-Skenderovic",
      "aufrufe": 2
     },
     {
@@ -340,7 +340,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Damir-Skenderovic",
+     "pfad": "/DenkerVita/Marcant",
      "aufrufe": 2
     },
     {
@@ -424,10 +424,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Denker/Markus-Gabriel-Soziale-Netzwerke-Neue-Theorie",
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
      "aufrufe": 1
     },
@@ -486,6 +482,10 @@
     {
      "pfad": "/DenkerVita/Aziz-Abu-Sarah",
      "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Ulf-Poschardt",
+     "aufrufe": 1
     }
    ]
   },
@@ -517,6 +517,10 @@
      "aufrufe": 20
     },
     {
+     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "aufrufe": 18
+    },
+    {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 16
     },
@@ -526,10 +530,6 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "aufrufe": 12
-    },
-    {
-     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
      "aufrufe": 12
     },
     {
@@ -766,27 +766,27 @@
      "aufrufe": 27
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
-     "aufrufe": 22
+     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "aufrufe": 23
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
-     "aufrufe": 20
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
      "aufrufe": 20
     },
     {
-     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "aufrufe": 20
+    },
+    {
+     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
      "aufrufe": 17
     },
     {
      "pfad": "/Denker/Vipassana-Vedana",
-     "aufrufe": 17
-    },
-    {
-     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
      "aufrufe": 17
     },
     {
@@ -1011,27 +1011,27 @@
      "aufrufe": 27
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
-     "aufrufe": 22
+     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "aufrufe": 23
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
-     "aufrufe": 20
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
      "aufrufe": 20
     },
     {
-     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "aufrufe": 20
+    },
+    {
+     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
      "aufrufe": 17
     },
     {
      "pfad": "/Denker/Vipassana-Vedana",
-     "aufrufe": 17
-    },
-    {
-     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
      "aufrufe": 17
     },
     {
