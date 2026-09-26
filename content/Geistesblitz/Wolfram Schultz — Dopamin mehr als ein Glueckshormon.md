@@ -237,6 +237,10 @@ Die klinische Schwester-Note. Was Schultz als Reward Prediction Error misst, beh
 
 Dieselbe VTA, andere Quelle: Was Schultz als Reward Prediction Error beschreibt, treibt auch das Verliebtsein — das Belohnungssystem feuert auf Erwartung und Überraschung, weshalb das Sehnen nach dem Geliebten stärker brennt als die Erfüllung. Liebe als natürlicher, an einen Menschen gebundener Belohnungsreiz statt chemischer Überflutung.
 
+### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
+
+Wo Schultz den neurobiologischen Kurzschluss beschreibt, setzt die Drogenhilfe Halle praktisch an: Mit Drug-Checking will sie Menschen erreichen, bevor aus Genusskonsum eine Abhängigkeit wird.
+
 ---
 
 ## Weiterdenken

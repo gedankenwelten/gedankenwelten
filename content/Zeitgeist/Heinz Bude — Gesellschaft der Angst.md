@@ -234,3 +234,7 @@ Krastev beschreibt dieselbe affektive Enttäuschungsstruktur im Ost-West-Verhäl
 ### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
 
 Budes „schuldig werden an sich selbst" trifft Hans Leistungssubjekt, das sich die Peitsche selbst gibt und es Selbstverwirklichung nennt: dieselbe erschöpfte Figur, einmal soziologisch als Angst, einmal philosophisch als Depression durch Weltverlust beschrieben.
+
+### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
+
+Budes „liberales Kümmern“ hat in der Drogenhilfe Halle eine konkrete Form: Schadensminderung, die Menschen als Entscheider über ihr Leben ernst nimmt und trotzdem da bleibt. Das Geld dafür muss jedes Jahr neu beantragt werden.

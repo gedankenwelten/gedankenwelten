@@ -194,6 +194,10 @@ Die phoenixRunde stellt die Verteilungsfrage abstrakt. Die Jugendhilfe-Note mach
 
 Flassbecks Sparparadoxon gilt nicht nur für Kapitaldeckung, sondern auch für Sozialinvestitionen: Wido Geis-Thöne argumentiert bei der Jugendhilfe im gleichen Modus — wer heute spart, schafft morgen Schuldner beim Staat. Flassbeck liefert das makroökonomische Fundament für das, was Geis-Thöne auf Sozialausgaben anwendet.
 
+### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
+
+Was hinter der Altersgrenze der Jugendhilfe liegt, zeigt die Drogenhilfe Halle: Für alle über 27, die Drogen nehmen, gibt es in der ganzen Stadt einen einzigen Streetworker, und über 27-jährige Alkoholkranke haben praktisch niemanden.
+
 ---
 
 ## Weiterdenken

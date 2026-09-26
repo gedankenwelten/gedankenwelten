@@ -250,6 +250,10 @@ beschreibt, nur diesmal vom Staat selbst ausgeführt und öffentlich archiviert.
 
 Die industrielle Seite der Asymmetrie: Crockett zeigt, dass Menschen weniger strafen, wenn sie das Gesicht des anderen sehen, und dass online davon ein Avatar bleibt. Der Feed ist die Fabrik, gegen die Yus Handarbeit der Rehumanisierung ankommen muss.
 
+### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
+
+Die Drogenhilfe Halle ist ein Ort praktischer Rehumanisierung für die Gruppe, die Yu als am stärksten dehumanisiert beschreibt. Ihre wichtigste Arbeit ist, das Stigma so weit abzubauen, dass Menschen überhaupt an der Tür klingeln.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

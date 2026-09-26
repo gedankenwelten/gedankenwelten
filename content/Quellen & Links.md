@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Mark Benecke — Zu Besuch in der Drogenhilfe Halle (drobs Halle, 2026)
+
+| | |
+|---|---|
+| **Video** | [Drogen-Hilfe in Halle](https://www.youtube.com/watch?v=mPwt58h71xo) — Dr. Mark Benecke, 26.09.2026, 38 Min |
+| **Notiz** | [[Zeitgeist/Mark Benecke — Zu Besuch in der Drogenhilfe Halle]] · [[DenkerVita/Mark Benecke]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Benecke_Drogenhilfe_Halle_Transkript.txt` |
+
 ## Torsten Wilholt — Wahrheit und Wissen (Leibniz Universität Hannover, 2023)
 
 | | |
