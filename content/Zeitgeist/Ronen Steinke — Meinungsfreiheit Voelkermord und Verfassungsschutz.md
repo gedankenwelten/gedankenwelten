@@ -263,3 +263,8 @@ Steinke und Görlitz beschreiben denselben Mechanismus aus verschiedenen Richtun
 ### → [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk — Meinungsfreiheit in Deutschland 2026]]
 
 Vier taz-Journalist:innen wenden Steinkes Befund auf konkrete 2026-Fälle an: §188 (Habeck-Schwachkopf), hessischer Gesetzentwurf zum Existenzrecht Israels, Hamburg-Demonstrationsverbot. Christian Rath (Rechtskorrespondent taz) bestätigt Steinkes Diagnose aus der Gerichtspraxis — insbesondere der Strafrechtsverschärfungsdynamik. Ergänzung: Bundestalk diskutiert Chillingeffekt vs. Streisandeffekt als Gegenthesen zur Wirkung von Strafrecht.
+
+### → [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
+
+Eralp zieht aus dem NSU-Komplex den Schluss, den Steinkes Sonderweg-Befund nahelegt: V-Leute mit Skepsis sehen und den Dienst langfristig durch eine offen arbeitende Einrichtung ersetzen. Bei Jung antwortet auch sie auf Nahost als Juristin, gegen den Druck von links.
+

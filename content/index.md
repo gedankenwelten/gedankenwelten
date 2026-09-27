@@ -22,27 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Geistesblitz
-
-> **27.09.** — [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
->
-> Jede Wissenschaft treibt Geister aus, und in jede Lücke zieht ein neuer ein. Der jüngste wohnt in der Statistik — und weiß selbst nicht, ob er gefunden oder erfunden hat.
-
-> **26.09.** — [[Geistesblitz/Torsten Wilholt — Wahrheit und Wissen|Torsten Wilholt — Wahrheit und Wissen]]
->
-> Wer richtig liegt, weiß deshalb noch nichts: Wissen ist wahre Überzeugung, die nicht vom Zufall lebt — und wer Irrtum für möglich hält, ist darum noch lange kein Skeptiker.
-
-> **21.09.** — [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
->
-> Der Feed kennt keinen Unterschied zwischen Liebe und Hass, nur Verweildauer. Er verstärkt ein altes Gefühl, das einmal Gruppen zusammenhielt, und macht uns dabei müde.
-
-### GoodNews
-
-> **27.09.** — [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
->
-> Dreizehn Meldungen und eine Geste: nachsehen. Ein Riff galt sechzig Jahre als tot, weil niemand zurückging. Wer die Quellen der Sendung nachliest, findet das Gute kleiner, aber echt.
-
 ### Zeitgeist
+
+> **27.09.** — [[Zeitgeist/Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]]
+>
+> Siebzehn Tage vor dem Wahlsieg sagt Elif Eralp bei Tilo Jung, was sie will, und verweigert die eine Zahl, an der man sie messen könnte. Ein Protokoll des Versprechens, bevor es Macht wird.
 
 > **26.09.** — [[Zeitgeist/Mark Benecke — Zu Besuch in der Drogenhilfe Halle|Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
 >
@@ -60,19 +44,39 @@ Die Gedankenwelten (luc)
 >
 > Eine Abschiebung als Vergabeverfahren zu denken, verlangt keinen Hass — nur ein Formular. Was passiert, wenn das Ungeheure sich in Zuständigkeiten zerlegen lässt.
 
+### Geistesblitz
+
+> **27.09.** — [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+>
+> Jede Wissenschaft treibt Geister aus, und in jede Lücke zieht ein neuer ein. Der jüngste wohnt in der Statistik — und weiß selbst nicht, ob er gefunden oder erfunden hat.
+
+> **26.09.** — [[Geistesblitz/Torsten Wilholt — Wahrheit und Wissen|Torsten Wilholt — Wahrheit und Wissen]]
+>
+> Wer richtig liegt, weiß deshalb noch nichts: Wissen ist wahre Überzeugung, die nicht vom Zufall lebt — und wer Irrtum für möglich hält, ist darum noch lange kein Skeptiker.
+
+> **21.09.** — [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+>
+> Der Feed kennt keinen Unterschied zwischen Liebe und Hass, nur Verweildauer. Er verstärkt ein altes Gefühl, das einmal Gruppen zusammenhielt, und macht uns dabei müde.
+
 ### Panorama
 
-> **26.09.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
+> **27.09.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
 >
 > Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
 
-> **26.09.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+> **27.09.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 >
-> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Fünf offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
+> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sechs offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
 > **26.09.** — [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
 >
 > Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
+
+### GoodNews
+
+> **27.09.** — [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
+>
+> Dreizehn Meldungen und eine Geste: nachsehen. Ein Riff galt sechzig Jahre als tot, weil niemand zurückging. Wer die Quellen der Sendung nachliest, findet das Gute kleiner, aber echt.
 
 ### Spuren
 

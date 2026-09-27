@@ -2,7 +2,7 @@
 title: "Schöner Wohnen"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-09-26
+aktualisiert: 2026-09-27
 description: "Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht."
 panorama-art: wachsend
 tags:
@@ -70,6 +70,8 @@ Für das Bauen gibt es inzwischen deutsche Evidenz. Ein Prozent mehr neue Wohnun
 
 Über die Vergesellschaftung kann keine Studie etwas sagen, denn es hat sie nie gegeben. Beim Volksentscheid am 26. September 2021 stimmten 57,6 Prozent der Abstimmenden dafür. Die Expertenkommission des Senats hielt sie im Juni 2023 mehrheitlich für zulässig und verhältnismäßig, eine Entschädigung unter dem Verkehrswert für möglich; drei Mitglieder widersprachen ([Abschlussbericht](https://www.berlin.de/kommission-vergesellschaftung/_assets/abschlussbericht_vergesellschaftung-grosser-wohnungsunternehmen-230627.pdf)). Am 21. September 2026, nach dem Wahlsieg der Linken in Berlin, kündigte Kanzler Merz ein Bundesgesetz gegen Enteignungen an. Betroffen wären rund 240.000 Wohnungen, der öffentliche Anteil in Berlin stiege von etwa 20 auf über 30 Prozent; die Justizministerin äußerte Bedenken, Verfassungsrechtler zweifeln an der Zuständigkeit des Bundes ([tagesschau](https://www.tagesschau.de/inland/innenpolitik/enteignung-vergesellschaftung-wohnungen-berlin-100.html)).
 
+Seit der Wahl vom 20. September 2026 ist die Frage keine Theorie mehr. Die Linke wurde stärkste Kraft, und ihr Sonderparteitag machte die Umsetzung des Entscheids am 25. September zur Bedingung einer Koalition ([Tagesspiegel](https://www.tagesspiegel.de/berlin/naturlich-hassen-sie-uns-linke-legt-sich-auf-vergesellschaftung-von-immobilienkonzernen-in-berlin-fest-16096595.html)). Die Hürde, an der es hängt, ist der Preis. Der Landesrechnungshof hat 2024 aus eigenem Antrieb nachgerechnet und sieht „keine Möglichkeit, eine Vergesellschaftung mit vertretbaren Risiken umzusetzen“ ([taz](https://taz.de/Neues-Gutachten-zu-Enteignung/!5993681/)). Zum Verkehrswert von rund 42 Milliarden Euro trägt sich der Bestand nur mit Zuschüssen oder höheren Mieten, deutlich darunter wächst das Rechtsrisiko. Genau dort setzt ein Antrag Bayerns im Bundesrat an, der einen „äquivalenten Ausgleich“ verlangt, also den Verkehrswert ([BR-Drs. 380/26](https://www.bundesrat.de/SharedDocs/drucksachen/2026/0301-0400/380-26.pdf?__blob=publicationFile&v=1)). Das reine Verbotsgesetz, das Merz angekündigt hat, halten die meisten Staatsrechtler für stumpf ([LTO](https://www.lto.de/recht/hintergruende/h/vergesellschaftung-wohnungen-berlin-verbotsgesetz-verfassungswidrig)). Was ein öffentlicher Bestand für die Mieten der anderen bedeutet, zeigt Wien. Ein hoher Anteil gemeinnütziger Wohnungen drückt dort die privaten Mieten im Viertel, beim Gemeindebau mit seinen strengeren Zugangsregeln ist der Effekt viel kleiner ([Banabak 2022, doi:10.1080/12265934.2022.2110144](https://doi.org/10.1080/12265934.2022.2110144), eine Stadt, Querschnitt). Zu seinem Bestand kam Wien über eine stark progressive Wohnbausteuer und Bodenkäufe, nicht über Enteignung ([Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/Wohnbaupolitik_des_%22Roten_Wien%22)).
+
 **Die Stimmen**
 
 - **[[Semsrott — Zur Gegenmacht#Die versteckten Mehrheiten — was die Bevölkerung wirklich will|Arne Semsrott]]:** 59,1 Prozent stimmten in Berlin für „Deutsche Wohnen & Co enteignen“, mehr Menschen, als CDU und SPD zusammen gewählt hatten; eine Minderheit verhindert die Umsetzung.
@@ -77,11 +79,17 @@ Für das Bauen gibt es inzwischen deutsche Evidenz. Ein Prozent mehr neue Wohnun
 - **[[Die Anstalt — Warum Wohnen unbezahlbar wird#Der Ausverkauf und das Wort, das die SPD nicht sagen darf|Die Anstalt]]:** „Wir holen uns die Wohnungen einfach zurück“ — selbst ein FDP-Oberbürgermeister kaufte in Dresden zurück, allerdings 1.213 von 48.000 verkauften.
 - **[[Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Wohnen: Ware oder Grundrecht?|Kevin Kühnert]]:** Die eigentliche Frage sei nicht die Enteignung, sondern warum Wohnraum als Ware behandelt wird; den Berliner Entscheid hat er nicht unterstützt.
 - **[[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder#Thema 1: Die SPD und die Sehnsucht nach Schröder|Gilda Sahebi und Arne Semsrott]]:** Mit dem Wohnungsforscher Peter Burg: Mehr Bauen allein senkt keine Mieten, weil Neubau nicht unter die Mietpreisbremse fällt, aber in den Mietspiegel eingeht.
+- **[[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Vergesellschaftung und der Preis, an dem alles hängt|Elif Eralp]]:** „Wenn wir regieren, wird vergesellschaftet“, mit einem Gesetz im ersten Jahr. Für die kleineren Vermieter will sie ein Gesetz, nach dem ab 50 Wohnungen jede dritte günstig vermietet werden muss. Aus dem gescheiterten Mietendeckel hat sie gelernt, immer einen Plan B zu haben.
+- **[[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus#Demokratie als Errungenschaft — aber nicht als Endzustand|Tilo Wesche]]:** Der Entscheid konnte versanden, weil das Parlament ihn als unverbindliche Aufforderung behandeln durfte. Er ist für ihn ein Lehrstück für verbindlichere direkte Demokratie.
 - **[[Varoufakis — 2008 Crash, Populismus und Europa#Ehrliche Ökonomie: Warum Vermögenssteuern allein nicht reichen|Yanis Varoufakis]]:** Mietpreisbremsen sind im Prinzip richtig und als einziges Mittel unzureichend.
 
-<details><summary>Weitere Stimmen (1)</summary>
+<details><summary>Weitere Stimmen (4)</summary>
 
 - **[[Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch#Ein Jahr Schwarz-Rot: 86% Unzufriedenheit und die Frage nach dem Warum|Gilda con Arne 33]]:** Die angekündigte staatliche Wohnungsbaugesellschaft des Bundes sei gut, aber allein nicht ausreichend.
+
+- **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Michael Hartmann]]:** Am schwersten werde es bei der Wirtschaft, weil es um Eigentum geht; Genossenschaften wären ein Weg, ob die Berliner Initiative etwas bewegt, müsse man abwarten.
+- **[[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Verfassungsschutz — Ein deutscher Sonderweg|Ronen Steinke]]:** Das Grundgesetz sagt ausdrücklich, dass vergesellschaftet werden *kann*. Wer das will, steht nicht außerhalb der Verfassung.
+- **[[Walther Ziegler — Popper in 60 Minuten#Der Stückwerk-Ingenieur — Politik als Versuch und Irrtum|Karl Popper]]** (bei Walther Ziegler): Politik als Stückwerk, Versuch und Irrtum. Er ist das Gegenmodell zu jeder Reform, die auf einen Schlag ganze Bestände umbauen will.
 
 </details>
 
@@ -131,6 +139,7 @@ Selbst tun heißt auch mitentscheiden. In Freiburg fragte ein Bürgerentscheid 2
 | Datum | Note | Vertieft |
 |---|---|---|
 | 26.09.2026 | Gespräch (Andreas) | Anstoß und Titel; vier Fragen; die Stimmen aus einem Vorkommens-Sieb über alle 13.136 Abschnitte der Gedankenwelten |
+| 27.09.2026 | [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Nachbesprechung|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]] | Vergesellschaftung nach der Wahl: Koalitionsbedingung, Rechnungshof, Verkehrswert-Antrag Bayerns, Wiener Evidenz; Eralp, Wesche, Hartmann, Steinke, Popper |
 
 ---
 

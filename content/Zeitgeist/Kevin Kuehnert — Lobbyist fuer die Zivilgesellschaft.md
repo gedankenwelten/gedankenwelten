@@ -226,3 +226,7 @@ Stattdessen prüft das Bundesverfassungsgericht, ob eine Partei „aktiv, agitat
 
 Was Kühnert nüchtern durchrechnet, führt Die Anstalt als Szene vor: Wohngeld und Unterkunftskosten von zusammen rund zwanzig Milliarden im Jahr, die keine einzige Wohnung schaffen. Auch dort ist Wien das Gegenbild. Die Sendung geht an einem Punkt weiter als er — sie spielt die Vergesellschaftung durch und lässt die Bauministerin sagen: „Das kann ich nicht machen. Ich bin Sozialdemokratin.“ Kühnerts tatsächliche Zurückhaltung beim Berliner Volksentscheid gibt dieser Pointe ihren realen Grund.
 
+### → [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
+
+Eralp geht den umgekehrten Weg, aus der Stadtteilarbeit ins Rote Rathaus, und will ohne Machtwort führen, allein über den Koalitionsvertrag. Ein Praxistest für Kühnerts Frage, wann ein Kompromiss in Selbstbetrug kippt.
+

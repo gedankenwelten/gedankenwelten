@@ -2,8 +2,8 @@
 title: "Wie kann Demokratie funktionieren?"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-09-26
-description: "Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Fünf offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben."
+aktualisiert: 2026-09-27
+description: "Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sechs offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
   - panorama
@@ -28,7 +28,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Wer entscheidet in einer Demokratie: die Gewählten, die Gelosten oder alle? Und was hält eine Mehrheit davon ab, mit der Minderheit zu machen, was sie will? Dieses Panorama fragt nicht, wer die Demokratie bedroht (dafür gibt es [[Panorama/NoAfD|NoAfD]] und [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien]]), sondern wie sie gebaut ist. Fünf offene Fragen, zu jeder das, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen. Jede führt mit einem Klick an die Stelle in ihrer Note, an der sie das sagt.
+> Wer entscheidet in einer Demokratie: die Gewählten, die Gelosten oder alle? Und was hält eine Mehrheit davon ab, mit der Minderheit zu machen, was sie will? Dieses Panorama fragt nicht, wer die Demokratie bedroht (dafür gibt es [[Panorama/NoAfD|NoAfD]] und [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien]]), sondern wie sie gebaut ist. Sechs offene Fragen, zu jeder das, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen. Jede führt mit einem Klick an die Stelle in ihrer Note, an der sie das sagt.
 
 > [!info] Ein wachsendes Panorama
 > Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Die erste war [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler]] im September 2026. Unten steht, welche Notes seither dazukamen.
@@ -54,16 +54,45 @@ Die Forschung liefert zu dieser Grundfrage kein Urteil, aber eine nützliche Beo
 - **[[Chantal Mouffe — Das Politische und die Politik#3. Die Liberalismus-Kritik II — Habermas und der deliberative Konsens|Chantal Mouffe]]** (in einem Vortrag über sie): Wer Politik als Suche nach dem besseren Argument versteht, übersieht die Leidenschaften; der Ort der Demokratie ist der Streit zwischen echten Alternativen, nicht der Konsens.
 - **[[Colin Crouch — Postdemokratie nach den Krisen#1. Was ist Postdemokratie? — Die Grunddiagnose|Colin Crouch]]:** Die Wahlen finden statt, die Entscheidungen fallen anderswo.
 
-<details><summary>Weitere Stimmen (3)</summary>
+<details><summary>Weitere Stimmen (1)</summary>
 
 - **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Gewichtetes Wahlrecht als Idee|Aladin El-Mafaalani]]:** Stimmen nach verbleibender Lebenserwartung gewichten, weil eine alternde Wählerschaft die Jungen dauerhaft überstimmt. Die Idee verletzt Thieles Gleichheit mit Absicht.
+
+</details>
+
+*Wer überhaupt zu „allen“ gehört, verhandelt die nächste Frage.*
+
+> [!question] Die Reibung
+> Bregman und Hartmann teilen die Diagnose: Die Gewählten sind eine Aristokratie, die sich selbst ähnlich sieht. Bregman folgert daraus das Los, Hartmann die Quote. *Wenn beide recht haben mit dem Befund — welche Kur heilt ihn, ohne Poppers Abwahl zu opfern?*
+
+---
+
+## Wer gehört zum Demos — wer darf mitentscheiden?
+
+Jede der anderen Fragen setzt voraus, dass man weiß, wer „alle“ sind. In Berlin lebten Ende 2025 rund 3,7 Millionen Menschen, rund 833.000 davon ohne deutschen Pass ([Amt für Statistik](https://www.statistik-berlin-brandenburg.de/presse/2026/73-bevoelkerungsfortschreibung-2025-berlin/)). Wählen durften am 20. September 2026 2,49 Millionen. Wer den Gesetzen unterworfen ist und wer sie mitbestimmt, fällt also um ein Drittel auseinander, Kinder und Nichtdeutsche zusammengenommen.
+
+Die Rechtslage in Deutschland ist klar. 1990 verwarf das Bundesverfassungsgericht die Ausländerwahlrechte von Schleswig-Holstein und Hamburg: Das Volk, von dem die Staatsgewalt ausgeht, ist das Staatsvolk, in Bund, Ländern und Gemeinden. Wer mehr Menschen beteiligen wolle, dem „bliebe nur das Staatsangehörigkeitsrecht“ (BVerfGE 83, 37 und 83, 60). Für EU-Bürger öffnete 1992 eine Grundgesetzänderung das Kommunalwahlrecht. Der Parlamentsdienst des Abgeordnetenhauses hält ein Landeswahlrecht für Nichtdeutsche sogar mit Grundgesetzänderung für angreifbar, wegen der Ewigkeitsklausel ([Gutachten 2022](https://www.parlament-berlin.de/media/download/3363)). Andere Länder haben sich anders entschieden. Irland lässt seit 1963 alle Einwohner kommunal wählen, Schottland und Wales seit 2020 auch das Regionalparlament. National tun es nur fünf Staaten, darunter Neuseeland seit 1975 und Chile nach fünf Jahren Aufenthalt ([Altman et al. 2023, doi:10.1080/1369183x.2023.2182713](https://doi.org/10.1080/1369183x.2023.2182713)). Wo die Bürger selbst abstimmen, sagen sie oft Nein, in Luxemburg 2015 mit 78 Prozent. In New York kippte das oberste Gericht des Staates 2025 ein kommunales Wahlrecht für Nichtbürger.
+
+Was ein solches Wahlrecht bewirkt, ist erstaunlich gut erforscht. In Schweden, wo Nichtbürger seit 1976 kommunal wählen, stiegen danach die Ausgaben für Bildung und Familien, in den Gemeinden, in denen sie einen spürbaren Teil der Wählerschaft stellten ([Vernby 2013, doi:10.1111/j.1540-5907.2012.00612.x](https://doi.org/10.1111/j.1540-5907.2012.00612.x)). In Norwegen gingen Menschen, die das Wahlrecht früher bekamen, später öfter wählen, am stärksten jene aus Diktaturen ([Ferwerda et al. 2018, doi:10.1017/s0007123417000643](https://doi.org/10.1017/s0007123417000643)). Eine Verkürzung der Frist von sechs bis sieben auf drei Jahre änderte in Schweden dagegen weder Beteiligung noch Einbürgerung ([Engdahl et al. 2020, doi:10.1177/0197918319890256](https://doi.org/10.1177/0197918319890256)). Das Wahlrecht wirkt auch auf den Pass zurück. Menschen aus armen Ländern bürgern sich danach häufiger ein, Menschen aus reichen seltener ([Slotwinski et al. 2023, doi:10.1080/1369183x.2023.2193863](https://doi.org/10.1080/1369183x.2023.2193863)). Dass der Pass selbst integriert, politisch wie sozial und umso stärker, je früher er kommt, zeigen Schweizer Gemeinden, die über Einbürgerungen abstimmten ([Hainmueller et al. 2015, doi:10.1073/pnas.1418794112](https://doi.org/10.1073/pnas.1418794112), PNAS, quasi-experimentell). Und wer schon wählt, teilt ungern: Je höher der Ausländeranteil einer Schweizer Gemeinde, desto seltener stimmt sie für ein Ausländerwahlrecht ([Koukal et al. 2021, doi:10.1016/j.jce.2021.03.001](https://doi.org/10.1016/j.jce.2021.03.001)).
+
+**Die Stimmen**
+
+- **[[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Wer darf wählen?|Elif Eralp]]:** Wer fünf Jahre in Berlin lebt, soll Abgeordnetenhaus und Bezirke mitwählen. Rot-Rot-Grün habe dafür nur „zu lange gebraucht“, dabei scheitert es am Grundgesetz.
+- **[[Semsrott — Zur Gegenmacht#Die Mehrheitslüge — wer entscheidet eigentlich?|Arne Semsrott]]:** Zählt man Nichtwähler, Minderjährige und Menschen ohne Pass mit, hat die Regierungskoalition nur 27 Prozent der Bevölkerung hinter sich.
+- **[[Joerg Baberowski — Putin Herrschaft und liberale Demokratie#Herrschaft als Naturgesetz — und die Demokratie als das erträglichste Joch|Jörg Baberowski]]:** Demokratische Selbstregierung braucht einen umgrenzten Raum, ein definiertes Staatsvolk und Grenzen; erst Grenzen schaffen Rechtsräume.
+- **[[Valentiner und Moini - GFF-Gutachten AfD verfassungswidrig#Die zweite Säule Klassen von Menschen|Valentiner und Moini]]:** Das Grundgesetz kennt nur ein Staatsvolk, das nicht nach Herkunft sortiert. Derselbe Begriff, der Nichtbürger ausschließt, schützt Eingebürgerte vor dem ethnischen Volk der AfD.
+- **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Das demokratische Defizit Eltern sind politisch bedeutungslos|Aladin El-Mafaalani]]:** Eltern kleiner Kinder haben überproportional keinen deutschen Pass, darum können Parteien sie im Wahlkampf übergehen.
 - **[[Markus Gabriel — Universelle Moral#Von Kindern lernen — Moralische Innovation statt Tradition|Markus Gabriel]]:** Ein Kinderwahlrecht würde Erwachsene zwingen, auf Kinder zuzugehen.
-- **[[Semsrott — Zur Gegenmacht#Die Mehrheitslüge — wer entscheidet eigentlich?|Arne Semsrott]]:** Die Regierungskoalition hat nur 27 Prozent der Bevölkerung hinter sich, wenn man Nichtwähler, Minderjährige und Menschen ohne Pass mitzählt.
+- **[[Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat#Wo der Angriff wirklich beginnt|Alexander Thiele]]:** Wer das Wahlrecht an Steuern koppeln will, trennt „geeignete“ von „weniger geeigneten“ Bürgern, und dort beginnt der Angriff auf die Demokratie. Ob sein Versprechen gleicher Freiheit aller auch Nichtbürger meint, lässt er offen.
+
+<details><summary>Weitere Stimmen (1)</summary>
+
+- **[[Ernesto Laclau — Macht und Repraesentation#Repräsentation — der Vertreter formt das Vertretene|Ernesto Laclau]]:** Das Volk ist nicht vorgegeben; erst die Vertretung formt, wer dazugehört.
 
 </details>
 
 > [!question] Die Reibung
-> Bregman und Hartmann teilen die Diagnose: Die Gewählten sind eine Aristokratie, die sich selbst ähnlich sieht. Bregman folgert daraus das Los, Hartmann die Quote. *Wenn beide recht haben mit dem Befund — welche Kur heilt ihn, ohne Poppers Abwahl zu opfern?*
+> Eralp und Semsrott messen die Demokratie daran, ob die Beherrschten auch die Wählenden sind. Das Bundesverfassungsgericht und Baberowski messen sie an einem abgegrenzten Staatsvolk, dessen Tür die Einbürgerung ist. Die Forschung verschiebt den Streit: Der Pass integriert, und das Wahlrecht fördert die Einbürgerung bei den einen und ersetzt sie bei den anderen. *Ist ein Wahlrecht nach fünf Jahren ein Weg zum Pass oder ein Ersatz für ihn?*
 
 ---
 
@@ -216,6 +245,7 @@ Was an die Stelle der Parteien tritt, beschreiben die Stimmen unterschiedlich: P
 |---|---|---|
 | 26.09.2026 | [[Herfried Muenkler — Die Sehnsucht nach Ordnung#Nachbesprechung|Herfried Münkler — Die Sehnsucht nach Ordnung]] | Das Los und der Bürgerrat · Plebiszit als Denkzettel oder Sachfrage |
 | 26.09.2026 | Gespräch (Andreas, mit dem Einwand eines Kollegen) | Direkte Demokratie: Minderheitenschutz (Minarettverbot, Einbürgerungen) · Geld in Abstimmungskampagnen · Reibung neu gefasst |
+| 27.09.2026 | [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Nachbesprechung|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]] | Neue Frage: Wer gehört zum Demos? (Wahlrecht nach fünf Jahren, Forschung zu Ausländerwahlrecht und Einbürgerung) |
 
 ---
 
@@ -248,4 +278,4 @@ Wie autoritäre Bewegungen sich über Grenzen hinweg vernetzen und Institutionen
 > - Ein ignorierter Bürgerrat schadet dem Vertrauen mehr als gar keiner. *Was sagt das über die Parlamente, die Bürgerräte einsetzen, um Beteiligung zu zeigen?*
 > - Münkler will die Schule der Urteilsfähigkeit, Bonhoeffer die Befreiung statt der Belehrung. *Kann man Urteilskraft lehren, oder nur Räume schaffen, in denen sie gebraucht wird?*
 > - Institutionen, die außerhalb des Mehrheitswillens stehen, schützen vor Willkür — und werden in falschen Händen zur Fessel. *Gibt es eine Leitplanke, die sich nicht umdrehen lässt?*
-> - *Welche dieser fünf Fragen würde ich in meiner eigenen Gemeinde zuerst stellen — und wer würde mir antworten?*
+> - *Welche dieser sechs Fragen würde ich in meiner eigenen Gemeinde zuerst stellen — und wer würde mir antworten?*

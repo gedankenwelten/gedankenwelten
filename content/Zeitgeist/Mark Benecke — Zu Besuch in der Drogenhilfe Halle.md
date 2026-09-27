@@ -291,6 +291,10 @@ Beneckes dritte Note im Cortex, nach den Umwelt-Messungen und der Fragerunde *Ti
 
 Kambodscha hat das HIV-Ziel 95-95-95 erreicht, und die erste Stufe waren Gesundheitsarbeiterinnen, die hinausgingen und Person für Person testeten. Es ist die Arbeit, für die Halle einen einzigen Streetworker hat, dort im großen Maßstab und über zwei Jahrzehnte finanziert, vor allem aus einem US-Programm, das sich gerade zurückzieht.
 
+### → [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
+
+Eine Berliner Spitzenkandidatin will gegen Crack am Görlitzer Park Drug Checking und mehr Konsumräume, also genau das, was Halle fehlt. Ob sie dafür das Geld findet, das die drobs jedes Jahr neu erkämpfen muss, lässt sie offen.
+
 ---
 
 ## Weiterdenken

@@ -310,3 +310,8 @@ Die philosophische Vorgeschichte des Befunds: *Hermeneutik des Verdachts* nennt 
 ### → [[Torsten Wilholt — Wahrheit und Wissen]]
 
 Wilholt behandelt die Mitteilung anderer als Quelle des Wissens. Damit wird der Vertrauensverlust, den El-Mafaalani beschreibt, auch zu einem Verlust an gemeinsamem Wissen, und die Trennung von Fallibilismus und Skeptizismus entspricht der von konstruktivem und destruktivem Misstrauen.
+
+### → [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
+
+Eralps Wahlsieg prüft die These der spürbaren Bewegung. Sie verspricht Kleinigkeiten wie Müll, Takt und Schlagloch und begründet ihre Polizeikritik mit dem Vertrauen, das ein Staat verspielt, wenn er Bürgern ohne Anlass misstraut.
+

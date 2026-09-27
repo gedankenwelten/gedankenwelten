@@ -379,6 +379,10 @@ Der produktivste Widerspruch im Bestand, weil beide aus demselben Milieu kommen 
 ---
 - [[Hans Maggi — Kurdistan im Nordirak]] — die andere Hälfte derselben Landschaft. Tekkal flog 2014 in den Shingal, als der IS die Jesiden ermordete; ein Radreisender fährt neun Jahre später durch den Nordirak und wird von morgens bis abends beschenkt. Beide Berichte sind wahr, und keiner ersetzt den anderen
 
+### → [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
+
+Eralp hat denselben Ausgangspunkt wie Tekkal, als Tochter politisch Verfolgter aus der Türkei, und steht heute an der Spitze der Berliner Linken. Sie weist die Integrationsforderung als Bringschuld zurück und fragt bei Parolen nach denen, die sie als Drohung hören.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

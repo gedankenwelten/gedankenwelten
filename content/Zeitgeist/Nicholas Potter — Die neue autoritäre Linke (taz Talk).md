@@ -269,3 +269,8 @@ Innen- und Außenansicht desselben Phänomens: Yu benennt das „pietistische Re
 ### → [[Yisrael Medad — Der Siedler und sein Recht]]
 
 Dieselbe Bewegung, umgekehrtes Vorzeichen. Was Potter an Teilen der Linken beschreibt — das Abwehren unbequemer Befunde über die eigene Seite —, führt Medad von rechts vor: Das Gericht, das ihm widerspricht, ist unterwandert; die Studie, die ihm widerspricht, ist ideologisch. Die Struktur der Erkenntnisverweigerung ist identisch.
+
+### → [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
+
+Der Neuköllner Wahlkampfauftritt mit „Yalla Yalla Intifada“ (August 2026) ist ein Testfall für Potters These. Die Spitzenkandidatin distanziert sich; ob es im Landesverband ein Muster gibt, bleibt in den Sondierungen offen.
+

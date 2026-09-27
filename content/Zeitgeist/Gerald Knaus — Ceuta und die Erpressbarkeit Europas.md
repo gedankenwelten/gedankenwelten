@@ -385,6 +385,10 @@ Was Knaus als Alternative der Rechtspopulisten skizziert — man macht es wie Tr
 
 Dort wird Judith Shklars *Freiheit von Furcht* an der Migrationsfrage zerrieben — Poschardt beansprucht sie für die Aufnahmegesellschaft, Möllers hält den kurzen Schluss von Migration auf Bedrohung für zu schnell. Knaus liefert den unbequemen Zwischenbefund: Die Furcht der Europäer ist real und wird gefüttert, aber sie richtet sich hier auf ein Ereignis, das keinen einzigen Menschen aufs Festland brachte. Wessen Furcht politisch zählt, entscheidet sich vor jeder Statistik.
 
+### → [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
+
+Das Gegenmodell zu Knaus' Stichtag: Die Berliner Linke will einen Stichtag, der Menschen ohne Papiere legalisiert, nach dem spanischen Dekret von 2026. Mit „jede Abschiebung eine zu viel“ steht sie in dem Lager, dem Knaus die Blockade mit anlastet.
+
 ---
 
 ## Weiterdenken
