@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*309 Notes — automatisch generiert · nach Thema sortiert*
+*310 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -85,6 +85,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Daniel - Lena Kotré plant private Abschiebeindustrie|Daniel - Lena Kotré plant private Abschiebeindustrie]] — Eine Abschiebung als Vergabeverfahren zu denken, verlangt keinen Hass — nur ein Formular. Was passiert, wenn das Ungeheure sich in Zuständigkeiten zerlegen lässt.
 - [[Zeitgeist/Daniel - Weidel beim Schwurblertreff AWEF|Daniel - Weidel beim Schwurblertreff AWEF]]
 - [[Zeitgeist/Der Entscheidende Punkt — 1 Jahr Kanzler Merz|Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
+- [[Zeitgeist/Der Entscheidende Punkt — Nach den Landtagswahlen|Der Entscheidende Punkt — Nach den Landtagswahlen]] — Am Tag nach der Wahl findet eine Runde von Journalisten für AfD und Linke dasselbe Wort: Hoffnung. Was wird aus Menschen, die sich lange nicht gehört fühlten, wenn sie gehört werden wollen?
 - [[Zeitgeist/Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Die Geister hinter MAGA — Ideengeschichtliche Linien neoreaktionären Denkens]] — Sechs Texte, ein Abend, eine Frage: Woher kommen die Ideen, die im Weißen Haus regieren — und was tut man, wenn das Lesen selbst zur Ablenkung wird?
 - [[Zeitgeist/Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory|Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]]
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren 06.03.2026|Die Neuen Zwanziger — Salon Lektüren 06.03.2026]]

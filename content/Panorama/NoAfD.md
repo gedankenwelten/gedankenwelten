@@ -297,3 +297,7 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
 
 Die Zeit-Dimension zu diesem Panorama: Was hier als Lage kartiert ist, verfolgt die Spur als Verlauf — die AfD-Praxis an der Macht, gemessen am GFF-Gutachten, fortgeschrieben solange die Partei eine größere Rolle spielt.
+
+### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
+
+Das Schwester-Panorama über die Wählenden: materieller Kern oder Einstellung, Protest oder Überzeugung, der Osten, Weimar und die Frage, was Wähler zurückholt, mit Forschung und Wahldaten zu dem, was hier unter „Ursachen“ theoretisch steht.

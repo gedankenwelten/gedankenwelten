@@ -241,6 +241,10 @@ Der Satz über den einzigen Unterschied — „twangy tragic music" hier, Rap do
 
 Die Begriffe zu dem, was Hochschild im Feld gesehen hat. Was in Pikeville als *They are desperately looking to be seen* auftaucht, heißt in der Psychologie **Anti-Mattering** — das Ausbleiben der Rückmeldung, dass man einen Unterschied macht, mit einer Abwärtsspirale von verstärkter Bemühung über Rückzug bis zu Depression. Mangelsdorf erklärt den Rechtsruck teilweise daraus. Hochschild liefert die Zwischenstufe, die ihr fehlt: die Umwandlung des Nichtgesehenwerdens in Scham und deren Umleitung nach außen.
 
+### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
+
+Das Stolz-Paradox ist dort die internationale Brücke zwischen Ökonomie und Kränkung, in drei der fünf Fragen.
+
 
 ## Weiterdenken
 

@@ -291,3 +291,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] | Infrastruktur · Plattform-Monopole als privatisierte Forumshoheit |
 | [[Geistesblitz/Fediverse - Die digitale Allmende|Fediverse — Die digitale Allmende]] | Lösung · Dezentrale Infrastruktur als Gegenentwurf — und warum sie Organisation braucht |
 | [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft\|Kevin Kühnert — Lobbyist für die Zivilgesellschaft]] | Oligarchie · Geld=Macht → Sondersystem, Gegenlobby Finanzwende |
+
+### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
+
+Die Nachfrageseite zu diesem Panorama der Angebotsseite: warum Menschen die Autoritären wählen, deren Vernetzung hier beschrieben ist.

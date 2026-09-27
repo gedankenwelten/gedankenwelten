@@ -382,6 +382,10 @@ Dieselbe Reihe, dasselbe Moderationsduo, zwei Jahre später ein anderer Maßstab
 
 Eine gute Woche später spricht Münkler über dieselbe Wahl und erklärt den Ost-West-Abstand mit dem DDR-Faschismusbegriff. Quents Jugenddaten ohne Ost-West-Unterschied stellen diese These in Frage; Münklers Fortschrittsglaube als Angstblocker trifft sich mit Quents Wohlstandsfundament.
 
+### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
+
+Friedman, Kazim und Quent streiten dort über die Wähler, die Brandmauer und das Verbot, verteilt auf drei Fragen.
+
 ---
 
 ## Weiterdenken
