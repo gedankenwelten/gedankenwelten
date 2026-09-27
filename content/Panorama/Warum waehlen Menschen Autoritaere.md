@@ -218,6 +218,10 @@ Die Angebotsseite: wie sich die autoritäre Rechte über Grenzen vernetzt und fi
 
 Das Geschwister-Panorama über die Bauweise der Demokratie. Wo Menschen sich nicht gehört fühlen, beginnen beide Fragen an derselben Stelle.
 
+### → [[Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+
+Die Kehrseite der Sehnsucht nach dem starken Mann: Was kann eine Demokratie tun, damit sie handelt, bevor jemand verspricht, es an ihrer Stelle zu tun?
+
 ---
 
 ## Weiterdenken

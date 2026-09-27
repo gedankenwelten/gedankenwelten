@@ -423,6 +423,10 @@ Das Panorama, in das die Nachbesprechung dieser Note führt. Dort stehen Münkle
 
 Die Probe auf seine Angst-These: Die US-Mordrate steuert auf den tiefsten Stand seit Jahrzehnten zu, und das Gefühl allgegenwärtiger Kriminalität bleibt. Das Format der guten Nachrichten ist auch der Versuch, den Fortschrittsglauben gegen die „Angstblockade" mit Meldungen wiederaufzubauen.
 
+### → [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]]
+
+Münklers Los mit Amtszwang hat einen Gegenentwurf bekommen: Ardalan Ibrahim will geloste Gremien ohne Zwang, die entscheiden statt nur zu beraten, und hält geschriebene Schranken wie Artikel 1 für Papier — genau der Demos ohne Rechtsstaat, vor dem Münkler warnt.
+
 ---
 
 ## Weiterdenken

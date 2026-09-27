@@ -157,14 +157,17 @@ Bleibt Manows Einwand, dass niemand einen gelosten Rat abwählen kann. Die Forsc
 - **[[DenkerVita/Marlene Engelhorn#Biografie|Marlene Engelhorn]]:** Ließ 50 zufällig ausgewählte Menschen über 25 Millionen Euro ihres Erbes entscheiden und behielt sich kein Veto vor; das Geld ging an 77 Organisationen. Das einzige Losgremium im Bestand, das wirklich entschied.
 - **[[Andreas Loeschel — Strom NEU DENKEN#Co-Benefits und die laute Minderheit — Akzeptanz neu gedacht|Andreas Löschel]]:** Bei örtlicher Beteiligung bestimmt eine laute Minderheit, was wahrgenommen wird — ein Befund, der Manows Sorge vor den Eloquenten stützt.
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
+- **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Die Pyramide im Kreis|Ardalan Ibrahim]]:** Der Gründer der Losdemokratie will geloste Gremien, die entscheiden statt zu beraten, geheim tagen und gewählte Minister alle paar Monate bestätigen oder entlassen; das Eigentum lässt er dabei außen vor.
 - **[[Martyna Linartas — Unverdiente Ungleichheit#Zuschauerfragen (Kira-Runde)|Martyna Linartas]]:** Nennt Engelhorns Bürgerrat als ihr Beispiel dafür, wie ein großes Vermögen anders verteilt werden kann als durch die Erbin allein.
 - **[[Presseclub — Reiches Energiewende#Presseclub nachgefragt Bürgerrat, Flächennutzung, Verstaatlichung|Presseclub]]:** Ein Anrufer will einen gelosten Bürgerrat zur Energiewende, Claudia Reiser mehr Einbindung vor Ort, Christian Geinitz verweist auf den gewählten Bundestag.
 - **[[Clara Mattei — Geschichte der Austeritaetspolitik#FREE und partizipatives Budgetieren|Clara Mattei]]:** Ein Bürgerhaushalt in Tulsa nach dem Vorbild Porto Alegres, 400 Teilnehmende, die meisten nicht links.
 - **[[Walther Ziegler — Recht auf Freiheit oder zur Freiheit verurteilt#Drei Meilensteine der Freiheit|Walther Ziegler]]:** Perikles' Richter per Losmaschine, gegen Bestechung, und Diäten, damit auch Arme ein Amt tragen konnten.
 
 </details>
+
+*Was aus den Empfehlungen wird, wer sie umsetzt und wer die Gelosten kontrolliert, verfolgt der Ast [[Wie handelt eine Demokratie|Wie handelt eine Demokratie?]].*
 
 > [!question] Die Reibung
 > Rund 60.000 Schöffen urteilen in Deutschland an Gerichten mit, bestimmt aus Vorschlagslisten, notfalls aus dem Melderegister, und wer unentschuldigt fehlt, zahlt ein Ordnungsgeld ([bpb](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/519153/schoeffenwahl-2023-im-namen-des-volkes/)). Münklers Amtszwang gibt es also längst, nur nicht in der Politik. *Warum trauen wir dem Laien das Urteil über einen Menschen eher zu als das über einen Kindergarten?*
@@ -277,6 +280,14 @@ Wie autoritäre Bewegungen sich über Grenzen hinweg vernetzen und Institutionen
 ### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
 
 Das Geschwister-Panorama über die Wählenden. Wo Menschen sich nicht gehört fühlen, beginnen beide Fragen an derselben Stelle.
+
+### → [[Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+
+Der erste Ast dieses Stamms. Hier geht es darum, wer entscheiden darf; dort darum, wie aus der Entscheidung eine Tat wird: woran die Sachfrage hängen bleibt, wer berät und wer umsetzt, ob Demokratie langsam sein muss und wer die Handelnden bewacht.
+
+### → [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]]
+
+Ardalan Ibrahim will das Los als Ersatz für Wahlen: Gremien, die entscheiden und geheim beraten, und gewählte Minister, die sich alle paar Monate vor Gelosten verantworten. Er ist die Stimme am äußersten Rand der Fragen „Wer soll entscheiden?“ und „Das Los“.
 
 ---
 

@@ -23,6 +23,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Abdolkarim Soroush|Abdolkarim Soroush]]** — Iranischer Religionsphilosoph, pro-Demokratie-Aktivist; Qabz va Bast (Kontraktion/Expansion religiösen Wissens), religiöser Pluralismus, Kritik am velayat-e faqih, Reformislam; Erasmus-Preis 2004, Time 100 2005
 
+**[[DenkerVita/Ardalan Ibrahim|Ardalan Ibrahim]]** — Philosoph, Coach und Organisationsberater (München), Gründer und Bundesvorsitzender der Partei „Losdemokratie" (2025); hält die repräsentative Demokratie für eine verschleierte Aristokratie und will geloste Bürgerversammlungen verbindlich ins Grundgesetz bringen, danach soll sich die Partei auflösen; auf YouTube als „Nut Los"
+
 **[[DenkerVita/Arlie Russell Hochschild|Arlie Russell Hochschild]]** — Soziologin (UC Berkeley emerita), Pionierin der Emotionssoziologie; emotional labor, deep story, Stolz-Paradox, Scham-Schild; Stolen Pride (2024): Trump schürft Scham wie Kohle
 
 **[[DenkerVita/Akala|Akala]]** — Britischer Rapper, Autor & autodidaktischer Historiker; verbindet Klasse und Race zu einer Analyse des Empire-Erbes; *Natives: Race and Class in the Ruins of Empire* (2018), Gründer der Hip-Hop Shakespeare Company

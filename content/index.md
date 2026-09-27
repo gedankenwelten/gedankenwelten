@@ -32,6 +32,10 @@ Die Gedankenwelten (luc)
 >
 > Am Tag nach der Wahl findet eine Runde von Journalisten für AfD und Linke dasselbe Wort: Hoffnung. Was wird aus Menschen, die sich lange nicht gehört fühlten, wenn sie gehört werden wollen?
 
+> **27.09.** — [[Zeitgeist/Ardalan Ibrahim — Die Partei fuer Losdemokratie|Ardalan Ibrahim — Die Partei für Losdemokratie]]
+>
+> Ein Parteigründer will die Macht dem Los anvertrauen, das Eigentum soll bleiben, wo es ist. Vier Stunden Jung & Naiv über Aristokratie, Hinterzimmer und eine Demokratie, die es seiner Meinung nach nie gab.
+
 > **26.09.** — [[Zeitgeist/Mark Benecke — Zu Besuch in der Drogenhilfe Halle|Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
 >
 > Spritzentausch eins zu eins, ein Streetworker für eine ganze Großstadt: wie Schadensminderung aussieht, wenn das Geld jedes Jahr neu erkämpft werden muss.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Angst sucht sich ihre Gegenstände selbst, und gegen sie ist die Mitte machtlos: Münkler über eine Sehnsucht nach Ordnung, die eigentlich Sorglosigkeit meint.
 
-> **20.09.** — [[Zeitgeist/Maja Goepel und Achim Truger — Wachstum NEU DENKEN|Maja Göpel & Achim Truger — Wachstum NEU DENKEN]]
->
-> Zwei Ökonomen über die Zahl, die alles regiert: Das BIP misst weder die zerstörte Natur noch die unbezahlte Arbeit noch die Verteilung — und der Sachverständigenrat hat ein besseres Instrument, das er selbst nicht benutzt.
-
-> → *1 weitere in* [[Zeitgeist]]
+> → *2 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -65,6 +65,10 @@ Die Gedankenwelten (luc)
 > **27.09.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
 >
 > Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
+
+> **27.09.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
 
 > **27.09.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >

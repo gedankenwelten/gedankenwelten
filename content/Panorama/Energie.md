@@ -430,3 +430,6 @@ Das Innenbild: gemessene Zuverlässigkeit (15 Min. Ausfall/Jahr) gegen gefühlte
 
 Der Rechenzentrums-Hunger von unten gesehen — und mit der Zahl, die in der Terawattstunden-Debatte fehlt: dem Wasser (17 Milliarden Gallonen Kühlung direkt, 211 Milliarden indirekt über die Stromerzeugung, ein Fünftel aus wassergestressten Einzugsgebieten). Auch die Hoffnung auf Rechenzentren als *verschiebbare* Last bekommt dort ihren Realitätstest: In Sterling, Virginia, versorgt sich eine Anlage mit acht Gasturbinen rund um die Uhr selbst und umgeht das Netz.
 
+### → [[Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+
+Netzausbau und Genehmigungsdauer sind dort der konkrete Fall für die Frage, woran eine Demokratie beim Handeln hängen bleibt.

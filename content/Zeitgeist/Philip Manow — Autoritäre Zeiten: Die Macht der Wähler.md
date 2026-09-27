@@ -357,6 +357,10 @@ Die Wahlnachlese vom September 2026 liefert zur Wanderungstabelle die ostdeutsch
 
 Manows rationale Protestwahl, die neuen Arbeiterparteien und die gebrochene Verfassungszusage tragen dort drei von fünf Fragen.
 
+### → [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]]
+
+Manows „Das Wichtigste ist die Abwahl“ bekommt hier seinen härtesten Prüffall: Ardalan Ibrahim will geloste Gremien, die bindend und geheim entscheiden, und antwortet auf die Sorge vor den Eloquenten mit ständig neu gelosten Kleingruppen.
+
 ## Weiterführend
 
 - **Philip Manow**: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp, 2023)

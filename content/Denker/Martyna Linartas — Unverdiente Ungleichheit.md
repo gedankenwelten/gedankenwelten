@@ -251,3 +251,6 @@ Fratzscher trennt dort Ungleichheit aus freien Entscheidungen von Ungleichheit a
 
 Die Finanzierungsseite der Erbengesellschaft: Zwanzig Milliarden Wohngeld und Unterkunftskosten fließen jedes Jahr als Einkommensstrom in einen Vermögensbestand, der vererbt wird — während der Zuschuss jedes Jahr neu erkämpft werden muss. Der Staat kauft befristete Bindungen, die Gegenseite kauft Substanz.
 
+### → [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]]
+
+Linartas' Optimismus mit Piketty hat einen Gegenspieler bekommen: Ardalan Ibrahim sieht die Vermögenspyramide als Naturprozess und klammert das Eigentum aus der Demokratie aus, obwohl er seine Konzentration als Kern des Problems beschreibt.

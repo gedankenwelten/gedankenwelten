@@ -343,6 +343,10 @@ Laschyk beschreibt den Weg vom Vermögen über die Medien zur Politik. Hartmann 
 
 Eralp belegt Hartmanns Befund in einer Person: eine Arzttochter mit Migrationsgeschichte an der Spitze der neuen Linken. Das Publikum fragt sie ausdrücklich, wie eine Akademikerpartei die Unterschicht vertreten will.
 
+### → [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]]
+
+Ardalan Ibrahim zieht aus Hartmanns Befund die radikalere Konsequenz: Statt einer Quote für Arbeiterkinder will er das Los, das niemand mehr auswählt.
+
 ---
 
 ## Weiterdenken

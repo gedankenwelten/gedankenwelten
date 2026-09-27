@@ -79,6 +79,7 @@ Jessen hat einen sozialdemokratischen Hintergrund: Jusos und AStA-Vorsitz als St
 - [[Der Entscheidende Punkt — Nach den Landtagswahlen]]
 - [[Der Entscheidende Punkt — 1 Jahr Kanzler Merz]]
 - [[Jung und Naiv — 1 Jahr Kanzler Merz]]
+- [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]] *(Publikumsfragen — Streit über Habermas, Kapitalismus und Adorno)*
 - [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]] *(Publikumsfragen)*
 - [[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]] *(Publikumsfragen)*
 - [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] *(Publikumsfragen)*
