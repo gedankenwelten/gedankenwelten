@@ -4667,3 +4667,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Ardalan Ibrahim — Die Partei fuer Losdemokratie]] |
 | **DenkerVita** | [[DenkerVita/Ardalan Ibrahim]] · [[DenkerVita/Tilo Jung]] · [[DenkerVita/Hans Jessen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Ibrahim_Losdemokratie_JungNaiv850_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Philipp Blom — Die Unterwerfung (Jung & Naiv 670)
+
+| | |
+|---|---|
+| **Video** | [Philosoph & Historiker Philipp Blom — Jung & Naiv: Folge 670](https://www.youtube.com/watch?v=vqbLpSczJI4) — Livestream, 31.10.2023 (3:35 h) |
+| **Buch** | Philipp Blom: *Die Unterwerfung. Anfang und Ende der menschlichen Herrschaft über die Natur* (Hanser, 2022) — [genialokal](https://www.genialokal.de/Suche/?q=blom+unterwerfung) |
+| **Notiz** | [[Denker/Philipp Blom — Die Unterwerfung]] |
+| **DenkerVita** | [[DenkerVita/Philipp Blom]] · [[DenkerVita/Tilo Jung]] · [[DenkerVita/Hans Jessen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Blom_Unterwerfung_JungNaiv670_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

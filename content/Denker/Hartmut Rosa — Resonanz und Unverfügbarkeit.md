@@ -249,6 +249,9 @@ Klees „Feuerbachs Stuhl“ — Sehen kostet Zeit, weil das Werk geronnene Zeit
 
 Die Positive Psychologie misst, was Rosa für unverfügbar erklärt. Mangelsdorfs *Mattering* — das Gefühl, dass die Welt eine andere ist, weil ich da bin — ist Resonanz aus der Gegenrichtung gedacht und in Skalen operationalisiert. Sie zitiert Rosa im Gespräch sogar selbst (immer auf dem Weg zum Flughafen). Die offene Frage geht an beide: Wenn Gelingen genau dort geschieht, wo wir es nicht verfügbar machen — was tut dann ein Fragebogen, der es erhebt, und ein Masterstudiengang, der es lehrt?
 
+### → [[Philipp Blom — Die Unterwerfung]]
+
+Blom gibt dem Verfügbarmachen eine lange Vorgeschichte, vom Gilgamesch, der den Waldgeist erschlägt und den Wald zur Ressource macht, bis zu den „Externalitäten“ der Ökonomen. Auf Rosa angesprochen, erzählt er, warum *gift* und *Gift* dasselbe Wort sind: Das Geschenk bindet in einen Kreislauf, Geld schneidet ihn ab.
 
 ## Weiterdenken
 

@@ -1031,3 +1031,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Ardalan Ibrahim
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ardalan Ibrahim]]
+
+## Philipp Blom
+**Status:** ✓ Vollanalyse → [[DenkerVita/Philipp Blom]]

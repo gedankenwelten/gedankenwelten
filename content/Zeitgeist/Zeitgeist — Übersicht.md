@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*310 Notes — automatisch generiert · nach Thema sortiert*
+*311 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -67,6 +67,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain: Großbritannien als Europas Frühwarnsystem]] — Eine Korrespondentin liest Großbritannien als Europas Frühwarnsystem — wie aus einem Mord ein Vehikel wird, sobald das Verwischen von Fakten zur Methode der Macht geworden ist.
 - [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Annika Brockschmidt & Katharina Nocun — Codes der extremen US-Rechten]]
 - [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]] — Wir sind politisierter denn je — und ändern nichts. Anton Jägers Hyperpolitik erklärt, warum Wut ohne Institutionen verpufft: Repolitisierung ohne Reinstitutionalisierung.
+- [[Zeitgeist/Ardalan Ibrahim — Die Partei fuer Losdemokratie|Ardalan Ibrahim — Die Partei für Losdemokratie]] — Ein Parteigründer will die Macht dem Los anvertrauen, das Eigentum soll bleiben, wo es ist. Vier Stunden Jung & Naiv über Aristokratie, Hinterzimmer und eine Demokratie, die es seiner Meinung nach nie gab.
 - [[Zeitgeist/Arlie Hochschild — Stolen Pride|Arlie Hochschild — Stolen Pride: Scham, Verlust und der Aufstieg der Rechten]] — Scham ist der Rohstoff, den Trump abbaut wie die Kumpel einst die Kohle — Hochschild seziert die emotionale Chemie, die Verlust in rechte Wut verwandelt.
 - [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte|Arnd Henze — Bonhoeffer und die Neue Rechte]]
 - [[Zeitgeist/Semsrott — Zur Gegenmacht|Arne Semsrott — Zur Gegenmacht]]

@@ -452,6 +452,10 @@ Die Gegenprobe zur These vom Eigentum als Enteignungsvehikel. Eine Rinderzüchte
 
 Der Praxistest der Kernfrage: Die Amazonas-Rodung fällt auf den tiefsten Wert seit 2014, weil eine Regierung wechselte — und ließe sich mit der nächsten Wahl zurückdrehen. Genau diese Abhängigkeit soll die Natur als Rechtssubjekt aufheben. Der südaustralische Abschnitt schließt den zweiten Bogen: Kolonisierung als Enteignung auch des Wissens, das ein Land gepflegt hat.
 
+### → [[Philipp Blom — Die Unterwerfung]]
+
+Blom liefert die Vorgeschichte zu Wesches These: Der Bibelsatz „Macht euch die Erde untertan“ erklärte die Erde zu totem Territorium, das nichts will und keine Rechte hat, eine „Atombombe“ in die animistische Welt. Wesches Eigentumsrechte der Natur geben ihr diese Handlungsmacht rechtlich zurück, ohne zum Waldgeist zurückzukehren.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
