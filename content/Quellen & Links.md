@@ -4646,3 +4646,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]] |
 | **DenkerVita** | [[DenkerVita/Elif Eralp]] · [[DenkerVita/Tilo Jung]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Eralp_JungNaiv_Berlin-Wahl_2026_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Der Entscheidende Punkt — Nach den Landtagswahlen (Jung & Naiv)
+
+| | |
+|---|---|
+| **Video** | [DER ENTSCHEIDENDE PUNKT: Nach den Landtagswahlen \| Mit Jana Hensel (ZEIT), Marina Kormbaki (SPIEGEL)](https://www.youtube.com/watch?v=IrJkGoR-6Y8) — Jung & Naiv, Livestream 21.09.2026 (2:09 h) |
+| **Buch** | Jana Hensel: *Es war einmal ein Land. Warum sich der Osten von der Demokratie verabschiedet* (Aufbau, 2026) |
+| **Nachwahldaten** | [KAS-Wahlanalyse Sachsen-Anhalt](https://www.kas.de/documents/252038/40211523/Wahlanalyse+der+Landtagswahl+in+Sachsen-Anhalt+am+6+September+2026.pdf) · [tagesschau/infratest MV — AfD-Wähler](https://www.tagesschau.de/inland/landtagswahlen/mecklenburg-vorpommern/2026/afd) |
+| **Notiz** | [[Zeitgeist/Der Entscheidende Punkt — Nach den Landtagswahlen]] |
+| **DenkerVita** | [[DenkerVita/Jana Hensel]] · [[DenkerVita/Marina Kormbaki]] · [[DenkerVita/Hans Jessen]] · [[DenkerVita/Tilo Jung]] |
+| **Transkript** | `Gedankenwelten/Transkripte/EntscheidenderPunkt_Landtagswahlen_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

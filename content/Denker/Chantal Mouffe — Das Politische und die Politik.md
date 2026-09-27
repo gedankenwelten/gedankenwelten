@@ -190,6 +190,10 @@ Mouffes legitimer Gegner hat einen Vorläufer in Bubers echtem Gespräch, das de
 
 Spannungsreich: Merkel feiert den Kompromiss als Wesen der Demokratie, während Mouffe gerade die Glättung des Konflikts für eine Ursache des Rechtspopulismus hält.
 
+### → [[Der Entscheidende Punkt — Nach den Landtagswahlen]]
+
+Nach den Landtagswahlen 2026 sagt Marina Kormbaki, AfD und Linke gewännen, weil sie den Anschein der Alternativlosigkeit durchbrechen — Mouffes These im Befund einer Hauptstadtjournalistin; der Unterschied zwischen Gegner und Feind bleibt dabei offen.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

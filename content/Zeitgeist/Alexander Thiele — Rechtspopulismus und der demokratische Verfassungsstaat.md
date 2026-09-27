@@ -347,6 +347,10 @@ Thieles Aufforderung, sich nicht länger an den Populisten abzuarbeiten, taucht 
 
 Münkler beschreibt denselben Verlust wie Thieles „Land ohne 2050“: Mit dem Fortschrittsglauben verschwindet die Gewissheit, dass Demokratie Ordnung schaffen kann. Anders als Thiele sucht er die Ursache eher in der Angst der Wähler als in prüfbaren Defiziten des Staates.
 
+### → [[Der Entscheidende Punkt — Nach den Landtagswahlen]]
+
+Nach den Landtagswahlen 2026 zieht Hans Jessen dieselbe Summe wie Thieles erster Satz, Menschen, die sich nicht gehört fühlen, und Marina Kormbaki beschreibt vom Schweriner Marktplatz, wie ein Land ohne 2050 im Wahlkampf klingt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

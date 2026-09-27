@@ -407,6 +407,10 @@ Der Abend, an dem die vierte Macht-Ebene dieser Spur in Reichweite rückt. Einen
 
 Das Gegenstück in derselben Bauweise: eine Partei, gemessen am Vorwurf gegen sie, mit einem Maßstab, den andere vor uns festgelegt haben (EHRC-Untersuchung zu Labour). Beim nächsten Sweep dieser Spur werden dieselben sechs Kriterien auf die AfD und den Antisemitismus angelegt (Dimension D), damit beide Parteien an einem Vorwurf mit einem Maßstab gemessen sind.
 
+### → [[Der Entscheidende Punkt — Nach den Landtagswahlen]]
+
+Die Wahlnachlese vom 21.09.2026 hält das Magdeburger Patt fest: Siegmund braucht das BSW, und Jana Hensel sieht Wagenknecht als „heimliche Ministerpräsidentin“. Der Moment, bevor die Spur womöglich die Ebene der Landesregierung erreicht.
+
 ## Quellen
 
 - [GFF — Pressemitteilung zum Gutachten, 25.06.2026](https://freiheitsrechte.org/ueber-die-gff/presse/pressemitteilungen-der-gesellschaft-fur-freiheitsrechte/afd-ist-nachweislich-verfassungswidrig-gesellschaft-fuer-freiheitsrechte-stellt-nach-einem-jahr-arbeit-umfassendes-wissenschaftliches-gutachten-vor) · [afd-gutachten.de (Volltext)](https://afd-gutachten.de/)

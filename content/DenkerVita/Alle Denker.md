@@ -211,6 +211,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Yuval Noah Harari|Yuval Noah Harari]]** — Israelischer Historiker (Hebräische Universität Jerusalem), Autor von *Sapiens*, *Homo Deus*, *Nexus*; geteilte Fiktionen als Motor der Menschheitsgeschichte, KI als erste Geschichten erzählende Technologie, „Dataismus“; langjähriger Vipassana-Praktiker (Goenka-Tradition)
 
+**[[DenkerVita/Hans Jessen|Hans Jessen]]** — Fernsehjournalist (* 1949), langjähriger ARD-Hauptstadtkorrespondent für Tagesschau/Tagesthemen und CvD *Bericht aus Berlin*, zuvor Radio Bremen (*buten un binnen*); heute „Alterspräsident“ bei Jung & Naiv (Bundespressekonferenz, Publikumsfragen, „Der entscheidende Punkt“, Aufwachen!); Agenda 2010 als Folge neoliberaler Vorjahrzehnte, Frust statt „Denkzettel“, Demut und Dienen als Maß politischer Macht
+
 **[[DenkerVita/Hans Maggi|Hans Maggi]]** — Reise-YouTuber und Fahrrad-Weltreisender; Projekt *Rückenwind* (~800 Tage um die Welt auf Bambusrädern), Begegnung vor Landschaft, Langsamkeit als Methode
 
 **[[DenkerVita/Hasnain Kazim|Hasnain Kazim]]** — Journalist und Autor, ehem. *Spiegel*-Korrespondent (Islamabad, Istanbul, Wien), zuvor Marineoffizier; *Post von Karlheinz*, *Auf sie mit Gebrüll!*, *Deutschlandtour* — Antworten statt Blockieren, Streit als demokratische Kulturtechnik
@@ -224,6 +226,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Helen Keller|Helen Keller]]** — Völkerrechtlerin, Professorin an der Uni Zürich, neun Jahre Richterin am EGMR
 
 **[[DenkerVita/Jonathan Haidt|Jonathan Haidt]]** — Sozialpsychologe (NYU Stern); Moral Foundations Theory, der Reiter auf dem Elefanten, moralische Demut gegen die politische Spaltung; *The Righteous Mind* (2012), *The Coddling of the American Mind* (2018), *The Anxious Generation* (2024)
+
+**[[DenkerVita/Jana Hensel|Jana Hensel]]** — Schriftstellerin und Journalistin (*ZEIT*), Chronistin des Ostens seit *Zonenkinder* (2002); Hartz IV als erste Abbruchkante des ostdeutschen Demokratieglaubens, der materielle Kern des Rechtsrucks, gegen jeden Determinismus; *Es war einmal ein Land* (2026)
 
 **[[DenkerVita/Herfried Münkler|Herfried Münkler]]** — Politikwissenschaftler, bis 2018 Professor für Theorie der Politik an der HU Berlin; *Die neuen Kriege* (Entstaatlichung, Asymmetrisierung, Autonomisierung), postheroische Gesellschaft, Imperium vs. Hegemonie, Deutschland als ungewollte Zentralmacht; *Welt in Aufruhr* (2023), *Macht im Umbruch* (2025)
 
@@ -304,6 +308,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Konfuzius|Konfuzius]]** — Philosoph, Ethiker; Achsenzeit-Denker neben Sokrates und Buddha; Ren (仁, Mitmenschlichkeit), Goldene Regel, fünf Kardinaltugenden, Junzi, Widerstandspflicht gegen unmenschliche Herrscher
 
 **[[DenkerVita/Konstantin Flemig|Konstantin Flemig]]** — Kriegsreporter, Dokumentarfilmer, Buchautor; Faktenjournalismus über Ukraine-Krieg, Zeitenwende-Industrialisierung, vergessene Kriege
+
+**[[DenkerVita/Marina Kormbaki|Marina Kormbaki]]** — Journalistin, stellvertretende Leiterin des SPIEGEL-Hauptstadtbüros (zuvor HAZ, RND, The Pioneer); berichtet über Kanzler, Außen- und Verteidigungspolitik; These: An den blauen Balken darf man sich nicht gewöhnen — und Aufrüstung gegen ein aggressives Russland ist nötig, ihr Preis beim Sozialstaat aber offen zu verhandeln
 
 **[[DenkerVita/Konstantin Kuhle|Konstantin Kuhle]]** — Rechtsanwalt, FDP-Politiker, MdB 2017–2025 (stellv. Fraktionsvorsitz, Innen-/Rechtspolitik); sozialliberaler Bürgerrechtsliberalismus, wehrhafte Demokratie, parlamentarische Geheimdienstkontrolle, Pro-Europäer; re:publica 26 zu KI und Kriegs-Hemmschwelle
 

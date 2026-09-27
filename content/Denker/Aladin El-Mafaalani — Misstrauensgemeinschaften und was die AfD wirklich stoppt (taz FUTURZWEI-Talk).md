@@ -315,3 +315,7 @@ Wilholt behandelt die Mitteilung anderer als Quelle des Wissens. Damit wird der 
 
 Eralps Wahlsieg prüft die These der spürbaren Bewegung. Sie verspricht Kleinigkeiten wie Müll, Takt und Schlagloch und begründet ihre Polizeikritik mit dem Vertrauen, das ein Staat verspielt, wenn er Bürgern ohne Anlass misstraut.
 
+### → [[Der Entscheidende Punkt — Nach den Landtagswahlen]]
+
+Nach den Landtagswahlen 2026 nennt eine Journalistenrunde die AfD mit de Maizière eine „Hoffnungspartei“. Die Misstrauensgemeinschaft ohne positives Projekt ist der Einspruch dagegen. Die Nachwahldaten aus Mecklenburg-Vorpommern sprechen diesmal eher für das Wort: Der Anteil der AfD-Wähler aus Überzeugung stieg seit 2016 von 24 auf 53 Prozent.
+

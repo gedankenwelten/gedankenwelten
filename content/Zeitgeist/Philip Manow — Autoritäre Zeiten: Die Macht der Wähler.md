@@ -349,6 +349,10 @@ Marinićs Ohnmachtsgefühl — das demokratische Versprechen der Mitbestimmung a
 
 Geteilte Ursache, gegensätzliche Diagnose. Beide erklären den autoritären Zug strukturell-ökonomisch statt psychologisch — der Verteilungsdruck zerlegt den Kompromiss. Dann trennen sie sich: Dalio zieht die Linie zu Caesar, Mussolini und Hitler und datiert den Übergang auf drei bis fünf Jahre innerhalb der Regeln der Demokratie; Manow hält den Autoritarismus-Diskurs selbst für ein Werkzeug der Gewinnerklasse.
 
+### → [[Der Entscheidende Punkt — Nach den Landtagswahlen]]
+
+Die Wahlnachlese vom September 2026 liefert zur Wanderungstabelle die ostdeutsche Zahl (61 % der Arbeiter in Sachsen-Anhalt wählen AfD) und mit Jana Hensel eine Stimme, die Hartz IV als die eine Abbruchkante setzt, wo Manow zwei sieht.
+
 ## Weiterführend
 
 - **Philip Manow**: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp, 2023)
