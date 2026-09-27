@@ -32,6 +32,10 @@ Die Gedankenwelten (luc)
 >
 > Am Tag nach der Wahl findet eine Runde von Journalisten für AfD und Linke dasselbe Wort: Hoffnung. Was wird aus Menschen, die sich lange nicht gehört fühlten, wenn sie gehört werden wollen?
 
+> **27.09.** — [[Zeitgeist/Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+>
+> Korruption kommt selten mit dem Geldkoffer. Neunzehn Jahre Bundestag, erzählt von einem, der das Spiel kennengelernt, fast mitgespielt und dann benannt hat, kurz bevor er starb.
+
 > **27.09.** — [[Zeitgeist/Ardalan Ibrahim — Die Partei fuer Losdemokratie|Ardalan Ibrahim — Die Partei für Losdemokratie]]
 >
 > Ein Parteigründer will die Macht dem Los anvertrauen, das Eigentum soll bleiben, wo es ist. Vier Stunden Jung & Naiv über Aristokratie, Hinterzimmer und eine Demokratie, die es seiner Meinung nach nie gab.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Spritzentausch eins zu eins, ein Streetworker für eine ganze Großstadt: wie Schadensminderung aussieht, wenn das Geld jedes Jahr neu erkämpft werden muss.
 
-> **26.09.** — [[Zeitgeist/Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]]
->
-> Angst sucht sich ihre Gegenstände selbst, und gegen sie ist die Mitte machtlos: Münkler über eine Sehnsucht nach Ordnung, die eigentlich Sorglosigkeit meint.
-
-> → *2 weitere in* [[Zeitgeist]]
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Denker
 

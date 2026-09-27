@@ -347,6 +347,10 @@ Eralp belegt Hartmanns Befund in einer Person: eine Arzttochter mit Migrationsge
 
 Ardalan Ibrahim zieht aus Hartmanns Befund die radikalere Konsequenz: Statt einer Quote für Arbeiterkinder will er das Los, das niemand mehr auswählt.
 
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Bülow teilt die Oligarchie-Diagnose und zeigt den umgekehrten Weg in dieselbe Nähe zur Macht: den Aufsteiger aus Dortmund, den man mit Podium, Kontakten und Aufstieg gewinnt.
+
 ---
 
 ## Weiterdenken

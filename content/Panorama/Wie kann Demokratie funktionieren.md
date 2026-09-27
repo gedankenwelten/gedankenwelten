@@ -54,8 +54,9 @@ Die Forschung liefert zu dieser Grundfrage kein Urteil, aber eine nützliche Beo
 - **[[Chantal Mouffe — Das Politische und die Politik#3. Die Liberalismus-Kritik II — Habermas und der deliberative Konsens|Chantal Mouffe]]** (in einem Vortrag über sie): Wer Politik als Suche nach dem besseren Argument versteht, übersieht die Leidenschaften; der Ort der Demokratie ist der Streit zwischen echten Alternativen, nicht der Konsens.
 - **[[Colin Crouch — Postdemokratie nach den Krisen#1. Was ist Postdemokratie? — Die Grunddiagnose|Colin Crouch]]:** Die Wahlen finden statt, die Entscheidungen fallen anderswo.
 
-<details><summary>Weitere Stimmen (1)</summary>
+<details><summary>Weitere Stimmen (2)</summary>
 
+- **[[Marco Buelow — Korrumpiert#Der Waschzettel Ein Parlament, das abnickt|Marco Bülow]]:** Nach neunzehn Jahren Bundestag: Die Gewählten nicken ab, was Ministerien vorlegen und die Fraktion vorgibt; die Menschen brauchen mehr Rechte als das Wählen, Bürgerräte als Korrektiv.
 - **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Gewichtetes Wahlrecht als Idee|Aladin El-Mafaalani]]:** Stimmen nach verbleibender Lebenserwartung gewichten, weil eine alternde Wählerschaft die Jungen dauerhaft überstimmt. Die Idee verletzt Thieles Gleichheit mit Absicht.
 
 </details>
@@ -290,6 +291,10 @@ Der erste Ast dieses Stamms. Hier geht es darum, wer entscheiden darf; dort daru
 ### → [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]]
 
 Ardalan Ibrahim will das Los als Ersatz für Wahlen: Gremien, die entscheiden und geheim beraten, und gewählte Minister, die sich alle paar Monate vor Gelosten verantworten. Er ist die Stimme am äußersten Rand der Fragen „Wer soll entscheiden?“ und „Das Los“.
+
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Ein Ex-Abgeordneter beschreibt den Fraktionszwang von innen und wünscht sich am Ende Bürgerräte: die Insider-Diagnose zur Frage, wer entscheiden soll.
 
 ---
 

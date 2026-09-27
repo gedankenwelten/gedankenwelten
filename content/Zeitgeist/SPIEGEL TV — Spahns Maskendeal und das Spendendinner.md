@@ -192,6 +192,10 @@ Zwei Seiten derselben Ungleichgewichtsmaschine: Während Spahns Netzwerk Zugang 
 
 Das Panorama rahmt den Einzelfall in einen größeren Zusammenhang ein: Autoritäre Erosion beginnt nicht mit Putsch, sondern mit der Normalisierung von Vetternwirtschaft innerhalb bestehender demokratischer Institutionen. Spahns Netzwerk ist ein Musterbeispiel dafür, wie demokratische Strukturen von innen ausgehöhlt werden — nicht durch Regelbruch, sondern durch die systematische Ausnutzung von Regelgraubereichen.
 
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Bülow nennt das Leipziger Dinner „Methode“ und ordnet es mit Gröners Spende und der Maskenaffäre um Nüßlein als legale Korruption ein, die kein Einzelfall ist.
+
 ---
 
 ## Weiterdenken

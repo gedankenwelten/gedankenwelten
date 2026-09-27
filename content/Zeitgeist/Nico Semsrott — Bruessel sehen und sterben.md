@@ -204,3 +204,8 @@ Semsrotts „Transparenz-Attrappen" auf EU-Ebene haben ihr nationales Gegenstüc
 ### → [[Zeitgeist/Semsrott — Zur Gegenmacht]]
 
 Arnes Gegenmacht-Vortrag ist die Antwort auf Nicos EU-Diagnose von unten: Wo Nico die strukturelle Entleerung der EU-Demokratie dokumentiert, zeigt Arne konkrete Gegenmacht-Strategien auf nationalem Terrain — Freiheitsfonds, Gegenrechtsschutz, Organisierung von unten. Beide Brüder kommen zur selben Schlussfolgerung aus verschiedenen Ebenen: Institutionelle Kontrolle funktioniert nur mit zivilgesellschaftlichem Druck.
+
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Dasselbe Spiel im Bundestag, erzählt vom früheren PARTEI-Politiker im Gespräch mit Sonneborn. Bülow setzt eine Ebene tiefer an als die Transparenz: Korrumpiert wird man über Nähe und Karriere, lange bevor Geld fließt.
+

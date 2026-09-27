@@ -80,4 +80,5 @@ Sein Stil — Satire mit ernstem Kern — macht es Kritikern leicht, ihn nicht e
 ## Gedankenwelten-Notes
 
 - [[Martin Sonneborn — Endloser Krieg]] — Kritik an EU-Ukraine-Finanzierung als Kriegsgewinngeschäft (Mai 2026)
+- [[Marco Buelow — Korrumpiert]] — Buchvorstellung „Korrumpiert“ (Westend, März 2025) und Volksbühne „Krieg & Frieden“ (Nov. 2025): Sonneborn als Fragesteller, mit eigenem Brüssel-Stoff (Kaili, Sikorski, Aserbaidschan, Huawei)
 - [[Horst Evers — Kostenloser Nahverkehr als Utopie]] — Kontrast zweier Satire-Modi: Sonneborn setzt sie *demaskierend/destruktiv* ein, Evers (*Fun Facts Utopia*) *konstruktiv* — als Vehikel, eine ernste Utopie überhaupt sagbar zu machen.

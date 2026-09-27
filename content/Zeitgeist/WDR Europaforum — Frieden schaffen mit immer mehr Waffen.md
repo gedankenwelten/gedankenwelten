@@ -330,6 +330,10 @@ Die Spur ist der laufende Beleg für das, was Panmunjom in dreiundsiebzig Jahren
 
 Van Akens Verteilungsargument trifft hier auf die materielle Gegenrechnung: In Unterlüß entstehen Arbeitsplätze, Rheinmetall wächst um 40 Prozent — das Geld verschwindet nicht, es verlagert sich. Zugleich liefert die Note van Akens stärkstes Argument nach, und zwar aus einer Quelle, die Aufrüstung nicht kritisiert: das Überkapazitäten-Problem. Rheinmetall fordert ein Staatsfinanzierungsmodell, bei dem der Staat Leerkapazitäten mitträgt, damit sie im Ernstfall bereitstehen — womit ein Akteur entsteht, dessen Geschäftsgrundlage die Dauerhaftigkeit der Bedrohung ist, unabhängig davon, ob sie besteht. Das ist der Teil des Sicherheitsdilemmas, den van Aken nicht anspricht: Es hat nicht nur eine geopolitische Spirale, sondern auch eine industrielle.
 
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Bülow hält die Aufrüstung für einen Lobbydeal mit erfundener Begründung. Neben Šešelgytės Schutzraum-Morgen und van Akens Rechnung sieht man, wo seine Kritik an der Beschaffung trägt und wo die Bedrohung aus seinem Bild fällt.
+
 ---
 
 ## Weiterdenken

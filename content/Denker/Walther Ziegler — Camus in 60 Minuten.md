@@ -214,3 +214,7 @@ Camus ist Platons radikaler Gegenentwurf. Platon antwortet auf die Sinnfrage mit
 
 Der Camus danach. Hier steht der Sisyphos von 1942 — trotzig, algerisches Licht, Revolte im Kleinen; dort der Satz aus *Der Fall* von 1956, in dem die Wahrheit blendet und die Lüge den Dingen ein erträgliches Relief gibt. Clamence beichtet in einer Amsterdamer Bar, dass sein Wohltätertum Eitelkeit war: dieselbe Ehrlichkeit, nach innen gewendet, und deutlich weniger heroisch als die Revolte.
 
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Camus' Revolte als politisches Programm eines Abgeordneten: Bülow beruft sich auf die „permanente Revolte“ und formuliert die Leitplanken einer Koalition fast mit Camus' Worten, „bis hierhin und nie weiter“.
+
