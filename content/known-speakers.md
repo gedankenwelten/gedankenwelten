@@ -1028,3 +1028,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Jana Hensel
 **Status:** ✓ Vollanalyse → [[DenkerVita/Jana Hensel]]
+
+## Ardalan Ibrahim
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ardalan Ibrahim]]

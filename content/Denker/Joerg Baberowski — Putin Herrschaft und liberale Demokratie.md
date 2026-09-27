@@ -248,6 +248,10 @@ Zwei Berliner Professoren derselben Universität lesen denselben Mann und widers
 
 Münkler erzählt die Geschichte der Repräsentation als Filter, der die Demokratie vor Unvernunft und Ressentiment schützt — genau die Lesart, die Baberowski als liberale Abwehr des „Pöbels“ angreift. Beim Los treffen sich die beiden trotzdem, aus entgegengesetzten Gründen.
 
+### → [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]]
+
+Ardalan Ibrahim erzählt im selben Studio Baberowskis „Am Volk vorbei“ als Parteiprogramm: Wahl als Aristokratie, Athen und das Los als eigentliche Demokratie, die Pyramide als Naturprozess. Beim Staatsvolk stellt er die Frage dessen, der am Rand steht.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

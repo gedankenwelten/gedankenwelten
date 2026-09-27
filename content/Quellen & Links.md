@@ -4657,3 +4657,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Der Entscheidende Punkt — Nach den Landtagswahlen]] |
 | **DenkerVita** | [[DenkerVita/Jana Hensel]] · [[DenkerVita/Marina Kormbaki]] · [[DenkerVita/Hans Jessen]] · [[DenkerVita/Tilo Jung]] |
 | **Transkript** | `Gedankenwelten/Transkripte/EntscheidenderPunkt_Landtagswahlen_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Ardalan Ibrahim — Die Partei für Losdemokratie (Jung & Naiv 850)
+
+| | |
+|---|---|
+| **Video** | [Partei für Losdemokratie \| Gründer Ardalan Ibrahim — Jung & Naiv: Folge 850](https://www.youtube.com/watch?v=HVojqYBttw0) — Livestream, 08.09.2026 (4:11 h) |
+| **Partei** | [losdemokratie.de](https://losdemokratie.de) · [Programm](https://losdemokratie.de/docs/programm) · [Satzung](https://www.losdemokratie.de/docs/satzung) |
+| **Notiz** | [[Zeitgeist/Ardalan Ibrahim — Die Partei fuer Losdemokratie]] |
+| **DenkerVita** | [[DenkerVita/Ardalan Ibrahim]] · [[DenkerVita/Tilo Jung]] · [[DenkerVita/Hans Jessen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Ibrahim_Losdemokratie_JungNaiv850_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

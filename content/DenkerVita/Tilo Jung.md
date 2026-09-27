@@ -84,3 +84,4 @@ Dezidiert links, marxistisch geprägt in der Kapitalismuskritik. Geht offen dami
 
 - [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Streitgespräch bei Tim Gabel (April 2026)
 - [[Der Entscheidende Punkt — Nach den Landtagswahlen]] — moderiert die Wahlnachlese mit Hensel, Kormbaki und Jessen (September 2026)
+- [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]] — drei Stunden mit dem Gründer der Losdemokratie, hartnäckig bei Eigentum und Grundgesetz (Jung & Naiv 850, September 2026)
