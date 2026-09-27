@@ -436,3 +436,7 @@ Hararis Davos-Frage — kann die KI *fühlen* oder ordnet sie nur Wörter? — i
 - [[Hans-Peter Dürr — Die neue Physik]] — Anti-Reduktionismus aus der Physik: nicht-materielle Ebene, die organisiert; verwandt mit Kastrups Idealismus
 - [[Platon — Das Höhlengleichnis]] — Korrelation vs. Erklärung: die Schatten kartieren oder das Feuer finden?
 - [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein]] — Daniel Ingrams Jhana-fMRT-Daten als empirisches Material für die Nibbāna/Φ=0-Frage; Josipovic (DMN/dorsales Aufmerksamkeitsnetzwerk) ergänzt die Varela/Metzinger/Seth-Linie
+
+### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+
+Seths „Halluzination, die von der Realität in Schach gehalten wird“, ist die Messlatte, an der Scobel die Sprachmodelle scheitern sieht. Sie füllen Lücken wie das Gehirn, nur ohne Rückbindung an eine Welt.

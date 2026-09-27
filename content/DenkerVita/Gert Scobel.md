@@ -99,6 +99,7 @@ Politisch ist er schwer einzuordnen — er macht keine parteipolitischen Aussage
 
 - [[Geistesblitz/Gert Scobel — Meditation kann gefaehrlich sein]]
 - [[Geistesblitz/Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
+- [[Geistesblitz/Gert Scobel — Die Geister in der Maschine]] — Krakauers Exorzismus der Wissenschaft, Ryles Kategorienfehler, halluzinierte Quellen und die Intelligenzkränkung
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 1]] — Kant, Aristoteles, Sokrates, Heraklit, Erasmus, Zhuangzi
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — Sartre, Camus, Wittgenstein, Arendt, Simone Weil
 

@@ -256,6 +256,10 @@ Derselbe scobel-Kosmos, dieselbe Denkbewegung: Gabriels *Mu* ent-fragt die falsc
 
 Gegensätzliche Gesten derselben Absage an KI-Subjekthaftigkeit: Gabriels „Mu" verweigert die Frage, Misselhorn beantwortet sie graduell (handlungsfähig ja, verantwortungsfähig nein) — und setzt dem Spiegel ihr „philosophisches Brennglas" entgegen.
 
+### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+
+In einer späteren Folge begründet Scobel, der Maschine fehle Geist, weil „nie etwas wie Geist an diesem Ort war“. Gabriels Satz, KI sei nicht im Gerät, ist der Einwand, der Ryle treu bleibt.
+
 ---
 
 ## Weiterdenken

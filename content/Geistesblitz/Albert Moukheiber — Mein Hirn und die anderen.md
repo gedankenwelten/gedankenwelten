@@ -358,6 +358,9 @@ KI-Agenten zeigen die Form menschlicher Konformität ohne ihren Grund: Sie folge
 
 Wilholt führt die Mitteilung anderer als eigene Wissensquelle ein und nennt das Feld, das sie ernst nimmt, soziale Erkenntnistheorie. Das ist der philosophische Rahmen für Moukheibers epistemische Abhängigkeit.
 
+### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+
+Die erfundenen Referenzen, die Scobel in der Medizinforschung zählt, sind Moukheibers Ende des kalibrierten Vertrauens in Zahlen: Ein Werkzeug, das nur mit Wahrscheinlichkeiten antwortet, kommt durchs Nadelöhr, weil niemand nachsieht.
 
 ## Verwandte Notes
 

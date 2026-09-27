@@ -200,3 +200,7 @@ Erfahrungsbericht zur Triangulations-These: Marcant beschreibt die algorithmisch
 ### → [[KI-Agenten — Vom Dorf zur Zivilisation]]
 
 *Social Simulacra* will Plattformen vorab mit simulierten Nutzern gegen Trolle und Brände testen; Parks Folgestudie misst Agenten wieder an echten Menschen — Triangulation zurück.
+
+### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+
+Die Triangulation, die den sozialen Netzwerken fehlt, fehlt nach Scobel auch den Sprachmodellen: Es gibt keinen Gegenstand, an dem ihre Behauptungen scheitern könnten.
