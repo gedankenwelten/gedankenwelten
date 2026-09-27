@@ -143,6 +143,8 @@ Die Frage, warum Menschen Autoritäre wählen, ist in Deutschland zuerst an den 
 
 Dieselbe Forschung findet die Gegenseite ebenso deutlich. In Orten, in denen es im Pestjahr 1349 Pogrome gegeben hatte, war die antisemitische Gewalt der Zwanzigerjahre häufiger und der NSDAP-Anteil 1928 höher, sechs Jahrhunderte später ([Voigtländer & Voth 2012, doi:10.1093/qje/qjs019](https://doi.org/10.1093/qje/qjs019)). Und die NSDAP breitete sich dort schneller aus, wo das Vereinsleben dicht war, in Gesangs-, Turn- und Schützenvereinen: Bürgersinn schützte nicht, er diente als Leitung ([Satyanath, Voigtländer & Voth 2017, doi:10.1086/690949](https://doi.org/10.1086/690949)). Im Juli 1932 wählten zusammen knapp 58 Prozent Parteien, die die Republik abschaffen wollten, NSDAP, KPD und DNVP. Was danach kam, beschreibt Götz Aly: Die Zustimmung zum Regime wurde zu einem guten Teil gekauft, mit Sozialpolitik, Steuern für die Starken und dem Raub an den Verfolgten.
 
+Wie lange die Lehre aus Weimar hält, ist eine eigene Frage. Das *kommunikative Gedächtnis*, das Menschen einander erzählen, reicht nach Jan Assmann drei bis vier Generationen ([Assmann 1995, doi:10.2307/488538](https://doi.org/10.2307/488538)); für 1945 läuft es jetzt aus. Die Forschung zeigt, dass eine Prägung dann den Träger wechselt: In italienischen Orten mit mehr Antifaschisten unter Mussolini wird bis heute weniger neofaschistisch gewählt, getragen erst von der Erinnerung, dann von Denkmälern, doch seit 2018 schützt das nicht mehr gegen Fratelli d'Italia ([Lecci, Panza, Swee & Zanella 2026, doi:10.1017/S0022050726101491](https://doi.org/10.1017/S0022050726101491)). In Deutschland wählten Orte mit starker NSDAP 2013 noch nicht häufiger AfD, ab 2015 schon, sobald das Angebot da war ([Cantoni, Hagemeister & Westcott, Arbeitspapier](https://epub.ub.uni-muenchen.de/60795/1/Cantoni_Hagemeister_Persistence_and_Activation_of_Right-Wing_Political_Ideology.pdf)). Und im Oktober 2024 stimmten erstmals mehr Befragte einem „Schlussstrich“ zu als widersprachen, 38 zu 37 Prozent ([MEMO 2025](https://www.stiftung-evz.de/assets/1_Was_wir_f%C3%B6rdern/Bilden/Bilden_fuer_lebendiges_Erinnern/MEMO_Studie/Gedenkansto%C3%9F/Gedenkansto%C3%9F_MEMO-Studie_2025_2._Auflage.pdf)).
+
 **Die Stimmen**
 
 - **[[Goetz Aly — Teufelspakt zwischen Volk und Fuehrung#Sozialpolitik als Herrschaftsinstrument — Mit Wasser kochen|Götz Aly]]:** Die Nazis kochten „mit Wasser“, mit normaler Sozialpolitik: halbierte Arztgebühren, Kindergeld, Urlaub, höhere Steuern für Konzerne. Das Ergebnis war eine halbpassive Zustimmung, wenig Fanatismus.
@@ -152,6 +154,7 @@ Dieselbe Forschung findet die Gegenseite ebenso deutlich. In Orten, in denen es 
 - **[[Erich Fromm — Psychoanalyse des Faschismus#Das Kleinbürgertum Die soziale Basis des Faschismus|Erich Fromm]]:** Das ökonomisch bedrohte Kleinbürgertum mit autoritärem Charakter war die soziale Basis, ein Befund, den die Wahldaten auf ihre Weise bestätigen.
 - **[[Clara Mattei — Geschichte der Austeritaetspolitik#Liberale und Faschisten — ökonomische Verbündete|Clara Mattei]]:** Liberale Ökonomen und Faschisten waren in der Austerität Verbündete; die Sparpolitik diente dazu, die Arbeit zu disziplinieren.
 - **[[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)|Thomas Fricke]]:** zieht die Linie von Brüning zur Gegenwart, von der Sparpolitik zum Kontrollverlust.
+- **[[Philipp Blom — Die Unterwerfung#„Nie wieder“ und seine Frist|Philipp Blom]]:** Nach 1945 wurden Transnationalismus, Umverteilung und Abrüstung zur Vermeidungshaltung gegen alles, was zu 1933 führte. Solche Haltungen halten zwei bis drei Generationen; danach ist das „Nie wieder“ nur noch „eine Möglichkeit unter vielen“.
 
 > [!question] Die Reibung
 > Aly zeigt eine Zustimmung, die gekauft war, mit Kindergeld, Urlaub und Raub; Voigtländer und Voth finden Einstellungen, die sechs Jahrhunderte überdauerten. *Wurde die Gefolgschaft 1933 erst erzeugt — oder nur geweckt, was lange bereit lag? Und wenn beides: Welcher Teil davon ist heute wieder im Angebot?*
@@ -201,6 +204,7 @@ Zwei Fälle aus dem Jahr 2026 stehen quer zu jeder Regel. In Ungarn verlor Orbá
 | Datum | Note | Vertieft |
 |---|---|---|
 | 27.09.2026 | [[Der Entscheidende Punkt — Nach den Landtagswahlen#Nachbesprechung|Der Entscheidende Punkt — Nach den Landtagswahlen]] | Gründungsnote: materieller Kern oder Einstellung (Ort gegen Person, Statusverlust, Nachwahlzahlen Sachsen-Anhalt) · Protest oder Überzeugung (Zeitreihe MV 24 → 53 %) |
+| 27.09.2026 | [[Philipp Blom — Die Unterwerfung#Nachbesprechung|Philipp Blom — Die Unterwerfung]] | Was lehrt Weimar — und wie lange? Assmanns Frist des kommunikativen Gedächtnisses, Persistenz vs. Verblassen (Lecci et al. 2026, Voigtländer & Voth, Cantoni et al.), MEMO-Schlussstrich 2024 |
 
 ---
 

@@ -264,3 +264,7 @@ Der dunkelste Befund dieser Note — dass die Fluchten an der Bevölkerung schei
 
 Dieselbe Arbeit an zwei Enden der Zeitachse: Dort ist die lebende Zeugin, die selbst in Schulen geht; hier die Institution, die übernehmen muss, wenn keine Zeugen mehr kommen. Dazu eine bittere Parallele — bei Wagner scheitern Fluchten an der Bevölkerung, bei Jihan Alomar gelingt sie nicht durch Recht, sondern durch die Bestechlichkeit eines Täters. Rettung findet in beiden Fällen dort statt, wo keine Institution zuständig ist.
 
+### → [[Philipp Blom — Die Unterwerfung]]
+
+Blom liefert das historische Muster zu Wagners Arbeit: Vermeidungshaltungen wie das „Nie wieder“ halten zwei bis drei Generationen, dann wird die Lehre für die Nachgeborenen „eine Möglichkeit unter vielen“. Was Blom konstatiert, versucht die Gedenkstätte aufzuhalten, wenn keine Zeugen mehr sprechen.
+

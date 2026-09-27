@@ -202,6 +202,10 @@ Der engagierte Buddhismus liefert die Praxis-Grundlage für Matsumotos „innere
 
 Ergänzung mit produktiver Reibung: Ricard teilt das Bild vom Selbst als fließendem Prozess ohne festes Ich — kultiviert Meditation aber explizit als *trainierbare Fähigkeit* zum Glück. Genau das ist der Verdacht, den Scobels Apparatus formuliert (Meditation, um ein besserer Leader zu werden). Die beiden Notes markieren die feine Grenze zwischen Übung und Selbstoptimierung.
 
+### → [[Philipp Blom — Die Unterwerfung]]
+
+Blom liest Spinozas *Deus sive natura* politisch: Wenn nichts außerhalb der Natur steht, gibt es keinen Platz, von dem aus man sie beherrschen könnte. Scobels Spinoza erlöst von den Zwecken, Bloms Spinoza von der Herrschaftsformel. Offen bleibt, ob Bloms Hoffnung auf einen neuen „Metabolismus“ nicht selbst wieder ein Zweck ist.
+
 ---
 
 ## Weiterdenken

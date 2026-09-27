@@ -157,8 +157,9 @@ Bleibt Manows Einwand, dass niemand einen gelosten Rat abwählen kann. Die Forsc
 - **[[DenkerVita/Marlene Engelhorn#Biografie|Marlene Engelhorn]]:** Ließ 50 zufällig ausgewählte Menschen über 25 Millionen Euro ihres Erbes entscheiden und behielt sich kein Veto vor; das Geld ging an 77 Organisationen. Das einzige Losgremium im Bestand, das wirklich entschied.
 - **[[Andreas Loeschel — Strom NEU DENKEN#Co-Benefits und die laute Minderheit — Akzeptanz neu gedacht|Andreas Löschel]]:** Bei örtlicher Beteiligung bestimmt eine laute Minderheit, was wahrgenommen wird — ein Befund, der Manows Sorge vor den Eloquenten stützt.
 
-<details><summary>Weitere Stimmen (5)</summary>
+<details><summary>Weitere Stimmen (6)</summary>
 
+- **[[Philipp Blom — Die Unterwerfung#Das Los Was aus den guten Entscheidungen wird|Philipp Blom]]:** Geloste Bürgerversammlungen, die wie Geschworene tagelang beraten, als Ergänzung des Parlaments; wer ausgelost ist, macht keine Karriere daraus und muss mit den Folgen leben. Sein Gespräch bei Jung & Naiv (2023) nennt Ibrahim als Anstoß zur Losdemokratie.
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Die Pyramide im Kreis|Ardalan Ibrahim]]:** Der Gründer der Losdemokratie will geloste Gremien, die entscheiden statt zu beraten, geheim tagen und gewählte Minister alle paar Monate bestätigen oder entlassen; das Eigentum lässt er dabei außen vor.
 - **[[Martyna Linartas — Unverdiente Ungleichheit#Zuschauerfragen (Kira-Runde)|Martyna Linartas]]:** Nennt Engelhorns Bürgerrat als ihr Beispiel dafür, wie ein großes Vermögen anders verteilt werden kann als durch die Erbin allein.
 - **[[Presseclub — Reiches Energiewende#Presseclub nachgefragt Bürgerrat, Flächennutzung, Verstaatlichung|Presseclub]]:** Ein Anrufer will einen gelosten Bürgerrat zur Energiewende, Claudia Reiser mehr Einbindung vor Ort, Christian Geinitz verweist auf den gewählten Bundestag.
@@ -254,6 +255,7 @@ Was an die Stelle der Parteien tritt, beschreiben die Stimmen unterschiedlich: P
 | 26.09.2026 | Gespräch (Andreas, mit dem Einwand eines Kollegen) | Direkte Demokratie: Minderheitenschutz (Minarettverbot, Einbürgerungen) · Geld in Abstimmungskampagnen · Reibung neu gefasst |
 | 27.09.2026 | [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Nachbesprechung|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]] | Neue Frage: Wer gehört zum Demos? (Wahlrecht nach fünf Jahren, Forschung zu Ausländerwahlrecht und Einbürgerung) |
 | 27.09.2026 | [[Der Entscheidende Punkt — Nach den Landtagswahlen#Nachbesprechung|Der Entscheidende Punkt — Nach den Landtagswahlen]] | Direkte Demokratie: Was ein Beschluss bindet (Berlin gegen Hamburg, Tegel, Tempelhof) · Vertrauensforschung zu liegengelassenen Entscheiden · zwei neue Lesarten (Jung, Jessen) |
+| 27.09.2026 | [[Philipp Blom — Die Unterwerfung#Nachbesprechung|Philipp Blom — Die Unterwerfung]] | Das Los: Bloms „Ergänzung, nicht Ersatz“ gegen die Forschung (Legitimität nur bei Befolgung, Webb et al. 2026) · Irlands Drogen-Assembly ignoriert · Ursprung der Losdemokratie-Idee |
 
 ---
 

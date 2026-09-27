@@ -46,6 +46,24 @@ Die Gedankenwelten (luc)
 
 > → *2 weitere in* [[Zeitgeist]]
 
+### Denker
+
+> **27.09.** — [[Denker/Philipp Blom — Die Unterwerfung|Philipp Blom — Die Unterwerfung]]
+>
+> Ein Satz aus der Bronzezeit regiert noch den Weltmarkt: Philipp Blom über die Idee, der Mensch stehe über der Natur, und warum Siegen dumm macht.
+
+> **22.09.** — [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere|Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+>
+> Buber sucht das Du auf Augenhöhe, Levinas bestreitet, dass es sie geben darf. Zwei jüdische Denker, ein Gespräch, das nie stattfand — und die Frage, was zuerst kommt, die Begegnung oder die Verantwortung.
+
+> **22.09.** — [[Denker/Ernst Tugendhat — Unsere Angst vor dem Tod|Ernst Tugendhat — Unsere Angst vor dem Tod]]
+>
+> Irgendwann zu sterben macht keine Angst, bald zu sterben schon. Tugendhat denkt die Todesfurcht zu Ende und landet beim Leben — und bei der Frage, wie schwer man sich selbst nehmen muss.
+
+> **20.09.** — [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]]
+>
+> Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung.
+
 ### Geistesblitz
 
 > **27.09.** — [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
@@ -101,20 +119,6 @@ Die Gedankenwelten (luc)
 > **27.09.** — [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
 >
 > Dreizehn Meldungen und eine Geste: nachsehen. Ein Riff galt sechzig Jahre als tot, weil niemand zurückging. Wer die Quellen der Sendung nachliest, findet das Gute kleiner, aber echt.
-
-### Denker
-
-> **22.09.** — [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere|Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
->
-> Buber sucht das Du auf Augenhöhe, Levinas bestreitet, dass es sie geben darf. Zwei jüdische Denker, ein Gespräch, das nie stattfand — und die Frage, was zuerst kommt, die Begegnung oder die Verantwortung.
-
-> **22.09.** — [[Denker/Ernst Tugendhat — Unsere Angst vor dem Tod|Ernst Tugendhat — Unsere Angst vor dem Tod]]
->
-> Irgendwann zu sterben macht keine Angst, bald zu sterben schon. Tugendhat denkt die Todesfurcht zu Ende und landet beim Leben — und bei der Frage, wie schwer man sich selbst nehmen muss.
-
-> **20.09.** — [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]]
->
-> Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung.
 
 ### Gedanken
 

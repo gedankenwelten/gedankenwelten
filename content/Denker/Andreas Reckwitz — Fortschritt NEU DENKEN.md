@@ -354,6 +354,10 @@ Ein Anschauungsfall für Reckwitz' Doppelbefund. Sechs Texte der US-Rechten, von
 
 Münkler nennt den Fortschrittsglauben, den Reckwitz seziert, die Angstblockade der Moderne. Mit ihrem Wegfall erklärt er, warum Menschen in offenen Gesellschaften nach dem starken Mann rufen. Kosellecks Erwartungshorizont steht bei beiden im Zentrum, als dieselbe Diagnose aus zwei Fächern.
 
+### → [[Philipp Blom — Die Unterwerfung]]
+
+Blom kommt unabhängig zur selben Genealogie: Fortschritt als umetikettierte Heilsgeschichte, der Kredit über 100, der mit 110 zurückgezahlt werden muss, als eingebauter Wachstumszwang. Er verlängert die Linie bis zum Bibelsatz „Macht euch die Erde untertan“, und sein „Siegen macht dumm“ ist Reckwitz' blinder Fleck Verlust, erzählt aus der Sicht des Siegers.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

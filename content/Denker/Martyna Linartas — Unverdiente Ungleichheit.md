@@ -254,3 +254,8 @@ Die Finanzierungsseite der Erbengesellschaft: Zwanzig Milliarden Wohngeld und Un
 ### → [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]]
 
 Linartas' Optimismus mit Piketty hat einen Gegenspieler bekommen: Ardalan Ibrahim sieht die Vermögenspyramide als Naturprozess und klammert das Eigentum aus der Demokratie aus, obwohl er seine Konzentration als Kern des Problems beschreibt.
+
+### → [[Philipp Blom — Die Unterwerfung]]
+
+Blom beschreibt denselben Rückfall von der Demokratie zur Dynastie als „neuen Adel“, der weniger Steuern zahlt und sich Staatsbürgerschaften kauft, und liefert das Bild dazu: das Mädchen, das sagt, die anderen hätten sich ihr Pony „nicht genug gewünscht“. Seine Kulissen der Demokratie sind das Gegenstück zu Linartas' Theaterstück Neoliberalismus.
+
