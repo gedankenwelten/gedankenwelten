@@ -307,3 +307,8 @@ Der konkrete Unternehmensfall aus Burgbernheim zeigt, was Reiches Netzverschlepp
 ### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
 
 Löschel liefert den theoretischen Rahmen zum MONITOR-Befund: Antizipierte Politik-Umkehr zerstört Investitionserwartungen und erzwingt fossile Pfadabhängigkeit — der Tankrabatt-Mechanismus, den Reiches Gas-Politik institutionalisiert.
+
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Der Mechanismus hinter dem Fall, erzählt von einem, der jahrelang im Umweltausschuss mit der Energielobby zu tun hatte: Die Lobby sitze längst in den Ministerien, weil der Bundestag ohnehin abnicke.
+

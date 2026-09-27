@@ -1034,3 +1034,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Philipp Blom
 **Status:** ✓ Vollanalyse → [[DenkerVita/Philipp Blom]]
+
+## Marco Bülow
+**Status:** ✓ Vollanalyse → [[DenkerVita/Marco Buelow]]

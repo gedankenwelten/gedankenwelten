@@ -171,6 +171,10 @@ Hartmann liefert die Rekrutierungsdaten, die Crouchs „kleine, sich überschnei
 
 Der Widerspruch steckt in der Zeitachse. Crouch datiert die Entleerung auf den Neoliberalismus ab den achtziger Jahren; Hartmanns Langzeitstudie ab 1871 findet für die Wirtschaftselite gar keine Veränderung. Dort gab es nie einen goldenen Zustand, von dem man hätte fallen können.
 
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Postdemokratie von innen erzählt: Ein Ex-Abgeordneter beschreibt, wie die Entleerung der Institutionen im Alltag abläuft (Waschzettel, Wohlfühllobbyismus, Drehtür), und endet bei der Justiz, die Crouch als Schutzinstitution aufwertet.
+
 ---
 
 ## Weiterdenken

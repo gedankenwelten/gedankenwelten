@@ -4677,3 +4677,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Denker/Philipp Blom — Die Unterwerfung]] |
 | **DenkerVita** | [[DenkerVita/Philipp Blom]] · [[DenkerVita/Tilo Jung]] · [[DenkerVita/Hans Jessen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Blom_Unterwerfung_JungNaiv670_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Marco Bülow — Korrumpiert (mit Martin Sonneborn)
+
+| | |
+|---|---|
+| **Video** | [Korrumpiert \| Martin Sonneborn & Marco Bülow](https://www.youtube.com/watch?v=FfsIGJTAtDg) — Westend Verlag, Buchvorstellung, 30.03.2025 (1:18 h) |
+| **Video** | [Marco Bülow: Korruption!](https://www.youtube.com/watch?v=9vKaNRk8ikk) — Festival „Krieg & Frieden“, Volksbühne Berlin, 09.11.2025 (50 Min) |
+| **Hinweis** | empfohlen von Ardalan Ibrahim in [Jung & Naiv 850 bei 2:33:25](https://www.youtube.com/watch?v=HVojqYBttw0&t=9205) |
+| **Buch** | Marco Bülow: *Korrumpiert. Wie ich fast Lobbyist wurde und jetzt die Demokratie retten will* (Westend, 2025) |
+| **Notiz** | [[Zeitgeist/Marco Buelow — Korrumpiert]] |
+| **DenkerVita** | [[DenkerVita/Marco Buelow]] · [[DenkerVita/Martin Sonneborn]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Buelow_Korrumpiert_Sonneborn_Transkript.txt` · `Gedankenwelten/Transkripte/Buelow_Korruption_Volksbuehne_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

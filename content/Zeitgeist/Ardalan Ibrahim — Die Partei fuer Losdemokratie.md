@@ -361,6 +361,10 @@ Ibrahim beschimpft Habermas und baut zugleich eine Maschine für dessen herrscha
 
 Das Gespräch, das Ibrahim als Anstoß nennt: In Jung & Naiv 670 (Oktober 2023) wirbt Blom für geloste Bürgerversammlungen als *Ergänzung* des Parlaments, beratend wie Geschworene, begleitet von gelosten Expertinnen. Das ist der gemäßigte Ursprung, von dem Ibrahims entscheidende Losgremien weit weggewandert sind. Bloms „neuer Adel“, der weniger Steuern zahlt und sich Staatsbürgerschaften kauft, ist die ökonomische Hälfte dessen, was Ibrahim Aristokratie nennt.
 
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Der Vortrag, den Ibrahim bei 2:33:25 empfiehlt: neunzehn Jahre Bundestag von innen, Waschzettel, Fraktionszwang und Wohlfühllobbyismus. Bülow landet am Ende ebenfalls bei Bürgerräten, aber als Ergänzung des Parlaments, und er beruft sich dabei gerade auf das Grundgesetz, dem Ibrahim misstraut.
+
 ---
 
 ## Weiterdenken

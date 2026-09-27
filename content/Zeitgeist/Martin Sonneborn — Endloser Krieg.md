@@ -202,3 +202,7 @@ Die direkte Erwiderung auf Sonneborns monokausale Lesart. Wo Sonneborn den Krieg
 
 Die Alltagsfassung derselben Sorge steht im Presseclub in der Fragerunde: Ein Zuschauer fürchtet, je mehr Deutschland liefert, desto größer die Gefahr für die eigene Bevölkerung. Sonneborn dreht diese Angst zur Systemthese und blendet den Aggressor aus; Marina Kormbaki setzt genau dort an — der Expansionsdrang endet nicht an der ukrainischen Grenze. Dieselbe Angst, zwei sehr verschiedene Schlüsse, und berechtigt bleibt sie in beiden Fällen.
 
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Sonneborn im Gespräch mit Bülow, der Rüstung mit derselben Figur liest: Weil Konzerne verdienen, sei die Begründung gelogen. Stark ist Bülow dort, wo er den Bundestag von innen beschreibt.
+

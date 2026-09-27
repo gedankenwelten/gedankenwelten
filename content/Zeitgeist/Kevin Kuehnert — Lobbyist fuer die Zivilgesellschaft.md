@@ -230,3 +230,7 @@ Was Kühnert nüchtern durchrechnet, führt Die Anstalt als Szene vor: Wohngeld 
 
 Eralp geht den umgekehrten Weg, aus der Stadtteilarbeit ins Rote Rathaus, und will ohne Machtwort führen, allein über den Koalitionsvertrag. Ein Praxistest für Kühnerts Frage, wann ein Kompromiss in Selbstbetrug kippt.
 
+### → [[Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+
+Ein zweiter Aussteiger aus der SPD-Fraktion, mit derselben Asymmetrie-Diagnose und demselben Verweis auf Brorhilker. Nur liest er das Abschleifen im Kompromiss, das Kühnert als normal verteidigt, als Anfang der Korrumpierung.
+

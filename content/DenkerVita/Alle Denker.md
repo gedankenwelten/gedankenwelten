@@ -111,6 +111,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Kimberle Crenshaw|Kimberlé Crenshaw]]** — US-Rechtswissenschaftlerin (UCLA, Columbia); prägte den Begriff *Intersektionalität* und begründete die Critical Race Theory mit; struktureller statt individueller Rassismus, Kritik der Farbenblindheit, *War on Memory*, Kampagne #SayHerName; Werke *On Intersectionality* (2017), *Backtalker: An American Memoir* (2026)
 
+**[[DenkerVita/Marco Buelow|Marco Bülow]]** — Ex-Bundestagsabgeordneter aus Dortmund (2002–2021, SPD, zuletzt Die PARTEI, † 2026); beschrieb Profitlobbyismus als legale Korruption und den Bundestag als Parlament der Abnicker (*Wir Abnicker*, *Lobbyland*, *Korrumpiert*).
+
 **[[DenkerVita/Molly Crockett|Molly Crockett]]** — US-Psychologin und Neurowissenschaftlerin (Princeton, zuvor Yale, Oxford, UCL); vom Serotonin im Ultimatumspiel zur moralischen Empörung im Netz: soziale Medien senken den Preis der Empörung und belohnen ihren Ausdruck; zuletzt Kritik an KI-Illusionen des Verstehens in der Wissenschaft (mit Lisa Messeri, *Nature* 2024)
 
 **[[DenkerVita/Christine Dankbar|Christine Dankbar]]** — Ressortleiterin Politik & Hauptstadtkorrespondentin der *Frankfurter Rundschau*; Politikwissenschaftlerin, langjährige Erfahrung bei taz, Tagesspiegel, Berliner Zeitung; Schwerpunkt: Sozialpolitik, Reformdiskurs, Bürokratieabbau; regelmäßig zu Gast in phoenix "nachgefragt" und ZDF-Medien
