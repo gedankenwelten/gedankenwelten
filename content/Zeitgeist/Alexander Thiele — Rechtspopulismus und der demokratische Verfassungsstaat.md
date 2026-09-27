@@ -351,6 +351,10 @@ Münkler beschreibt denselben Verlust wie Thieles „Land ohne 2050“: Mit dem 
 
 Nach den Landtagswahlen 2026 zieht Hans Jessen dieselbe Summe wie Thieles erster Satz, Menschen, die sich nicht gehört fühlen, und Marina Kormbaki beschreibt vom Schweriner Marktplatz, wie ein Land ohne 2050 im Wahlkampf klingt.
 
+### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
+
+Die Brandmauer, die stumpfe Klinge und der Moment 2013–2015, in dem es einmal funktionierte, stehen dort in der Frage „Was holt Wähler zurück?“.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

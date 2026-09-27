@@ -165,7 +165,7 @@ Die Nachwahlzahlen aus Sachsen-Anhalt zeigen beides zugleich, fast an der Decke.
 
 Am tragfähigsten ist, was die Forschung einen Statusverlust nennt: Das Materielle ist oft die Ursache zweiter Ordnung, die Einstellung der unmittelbare Antrieb ([Gidron & Hall 2017, doi:10.1111/1468-4446.12319](https://doi.org/10.1111/1468-4446.12319); [Kurer 2020, doi:10.1177/0010414020912283](https://doi.org/10.1177/0010414020912283)). Das gibt Hensel in der Diagnose recht und macht ihr Rezept unsicherer. Kurer folgert, dass klassische Sozialpolitik gegen gefühlten Abstieg wenig ausrichten könnte. Und für ihre Hartz-IV-Kante gibt es bisher keine Studie, die sie kausal prüft; die ersten, die davon profitierten, waren PDS und Linke.
 
-→ Weiter im Bestand: Die materielle Seite vertreten [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Die ostdeutsche Parteienwanderung — chronologisch|Manows Wanderungstabelle]] und [[Heiner Flassbeck — Krise und Rechtsruck#8. Rechtsruck als Konsequenz|Flassbeck]], die Anerkennung ohne Brot [[DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt#Bürger zweiter Klasse, mit Job|Querfurt]] und [[Doerre - Klassen Kapitalismus und Demokratie#Outlaw-Stolz — Die emotionale Ökonomie des Rechtsrucks|Dörres Outlaw-Stolz]], die Gegenseite [[Herfried Muenkler — Die Sehnsucht nach Ordnung#Angst sucht sich ihre Gegenstände|Münklers gegenstandslose Angst]], [[MONITOR — AfD-Erfolg trotz Skandalen#Wählen gegen das eigene Interesse — die ZEW-Studie|die ZEW-Studie]] und [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Das Paradox Einstellungen stabil, Gesellschaft polarisiert|El-Mafaalanis stabile Einstellungen]]. Den Überblick hält [[Panorama/NoAfD|NoAfD]].
+→ Weiter im Panorama: **[[Warum waehlen Menschen Autoritaere#Materieller Kern oder Einstellung?|Materieller Kern oder Einstellung?]]**, mit Flassbeck, Quent, Münkler, Aly, Hochschild und Querfurt, und gleich daneben **[[Warum waehlen Menschen Autoritaere#Protest oder Überzeugung?|Protest oder Überzeugung?]]**, wo die Zeitreihe aus Mecklenburg-Vorpommern steht. Das Panorama ist aus dieser Note entstanden.
 
 > [!question] Weitergedacht
 > Drei von fünf AfD-Wählern in Sachsen-Anhalt geht es nach eigener Auskunft gut, neun von zehn fürchten die nächste Rechnung. *Ist das Materielle die Ursache — oder die Sprache für einen Verlust, der keinen Preis hat?*
@@ -310,6 +310,10 @@ Querfurt ist der Prüfstein für Hensels materiellen Kern, und die Reportage bes
 ### → [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
 
 Siebzehn Tage vor der Wahl versprach Eralp bei Tilo Jung die Vergesellschaftung im ersten Regierungsjahr. Hier sitzt sie als Siegerin in der Zange, die Jessen beschreibt: Ein möglicher Partner sagt zu ihrem zentralen Thema „mit mir nicht“, und eine Umfrage zeigt eine Mehrheit gegen Enteignung. Kormbaki erwartet, dass ein Linksbündnis eher am Antisemitismus-Streit um die Neuköllner Linke scheitert. Diese Frage hält die Spur [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]] offen, mit derselben Unterscheidung zwischen glaubwürdiger Spitze und geduldeter Basis.
+
+### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]] · [[Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+
+Die beiden wachsenden Panoramen, in die die Nachbesprechung dieser Note führt: das eine fragt nach den Wählenden, von Weimar bis Schwerin, das andere nach der Bauweise der Demokratie und danach, was ein Volksentscheid bindet.
 
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
 

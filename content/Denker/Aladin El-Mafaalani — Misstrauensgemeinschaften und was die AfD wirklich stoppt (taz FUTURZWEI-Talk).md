@@ -319,3 +319,7 @@ Eralps Wahlsieg prüft die These der spürbaren Bewegung. Sie verspricht Kleinig
 
 Nach den Landtagswahlen 2026 nennt eine Journalistenrunde die AfD mit de Maizière eine „Hoffnungspartei“. Die Misstrauensgemeinschaft ohne positives Projekt ist der Einspruch dagegen. Die Nachwahldaten aus Mecklenburg-Vorpommern sprechen diesmal eher für das Wort: Der Anteil der AfD-Wähler aus Überzeugung stieg seit 2016 von 24 auf 53 Prozent.
 
+### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
+
+Die stabile Einstellung, die Gemeinschaft ohne Projekt und die Unentzauberbarkeit sind dort die stärkste Gegenstimme, zuletzt gegen Orbáns Abwahl gestellt.
+

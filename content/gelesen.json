@@ -11,11 +11,11 @@
    "aufrufe": 61
   },
   {
-   "pfad": "/DenkerVita/Hans-Maggi",
-   "aufrufe": 41
+   "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+   "aufrufe": 43
   },
   {
-   "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+   "pfad": "/DenkerVita/Hans-Maggi",
    "aufrufe": 41
   },
   {
@@ -249,7 +249,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 41
+     "aufrufe": 43
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
@@ -261,7 +261,7 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "aufrufe": 10
+     "aufrufe": 9
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -272,19 +272,7 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Martin-Oetting",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "aufrufe": 3
     },
     {
@@ -292,16 +280,12 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "pfad": "/DenkerVita/Martin-Oetting",
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Marcant",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Kalayo",
-     "aufrufe": 2
+     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
+     "aufrufe": 3
     },
     {
      "pfad": "/DenkerVita/Damir-Skenderovic",
@@ -312,15 +296,11 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
+     "pfad": "/DenkerVita/Marcant",
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/DenkerVita/Kalayo",
      "aufrufe": 2
     },
     {
@@ -328,8 +308,28 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Blaise-Pascal",
      "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "aufrufe": 1
     },
     {
      "pfad": "/Denker/Lukas-Baerfuss-Die-Fesseln-der-eigenen-Herkunft",
@@ -345,6 +345,10 @@
     },
     {
      "pfad": "/Zeitgeist/Sandra-Navidi-Verbrecher-getarnt-als-Regierung:-Wie-Trump-die-USA-ausraubt-(Der-Standard)",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
      "aufrufe": 1
     },
     {
@@ -482,10 +486,6 @@
     {
      "pfad": "/Zeitgeist/Staiy-News:-NATO-Drohung,-No-Kings-Proteste-and-Iran-Bodenoffensive-(29.03.2026)",
      "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Martyna-Linartas",
-     "aufrufe": 1
     }
    ]
   },
@@ -501,11 +501,11 @@
      "aufrufe": 61
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "aufrufe": 41
+     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "aufrufe": 43
     },
     {
-     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "pfad": "/DenkerVita/Hans-Maggi",
      "aufrufe": 41
     },
     {
@@ -755,7 +755,7 @@
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 46
+     "aufrufe": 48
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -1000,7 +1000,7 @@
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 46
+     "aufrufe": 48
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",

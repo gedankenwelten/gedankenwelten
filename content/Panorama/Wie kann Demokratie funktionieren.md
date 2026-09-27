@@ -274,6 +274,10 @@ Die Bedrohung, von der dieses Panorama bewusst absieht. Die Fragen nach Parteive
 ### → [[Panorama/Autoritaerer Internationalismus|Autoritärer Internationalismus]]
 Wie autoritäre Bewegungen sich über Grenzen hinweg vernetzen und Institutionen von innen umbauen. Orbáns Verfassungsfallen und das amerikanische Beispiel sind dort der größere Zusammenhang für die Frage nach dem Schutz vor Willkür.
 
+### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
+
+Das Geschwister-Panorama über die Wählenden. Wo Menschen sich nicht gehört fühlen, beginnen beide Fragen an derselben Stelle.
+
 ---
 
 ## Weiterdenken

@@ -257,3 +257,7 @@ Fernando bot keine materiellen Vorteile — aber *Sinn* und *Zugehörigkeit*. Al
 ### → [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]
 
 Der Teufelspakt im Kammerspiel, 1906: Aus drei Tätern wird ein Kollektiv, als die halbe Klasse Basini als Freiwild übernimmt — das Schweigen der anderen ist stille Teilhabe, kein Zufall. Was Aly makrohistorisch am NS-Volk zeigt (Zustimmung durch Vorteil), erzählt Musil im Schlafsaal eines k.u.k. Internats.
+
+### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
+
+Alys „Mit Wasser kochen“ ist dort Anker der Frage „Was lehrt Weimar?“, neben der Wirtschaftsgeschichte der NSDAP-Wahl (Austerität, Bankenkrise, Pogrom-Gedächtnis). Seine enttäuschte Aufsteiger-Generation steht zugleich in der Frage nach dem materiellen Kern.

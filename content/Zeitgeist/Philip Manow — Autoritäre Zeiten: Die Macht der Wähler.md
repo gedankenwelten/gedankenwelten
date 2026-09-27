@@ -353,6 +353,10 @@ Geteilte Ursache, gegensätzliche Diagnose. Beide erklären den autoritären Zug
 
 Die Wahlnachlese vom September 2026 liefert zur Wanderungstabelle die ostdeutsche Zahl (61 % der Arbeiter in Sachsen-Anhalt wählen AfD) und mit Jana Hensel eine Stimme, die Hartz IV als die eine Abbruchkante setzt, wo Manow zwei sieht.
 
+### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
+
+Manows rationale Protestwahl, die neuen Arbeiterparteien und die gebrochene Verfassungszusage tragen dort drei von fünf Fragen.
+
 ## Weiterführend
 
 - **Philip Manow**: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp, 2023)
