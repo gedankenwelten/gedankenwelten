@@ -274,3 +274,7 @@ Dieselbe Bewegung, umgekehrtes Vorzeichen. Was Potter an Teilen der Linken besch
 
 Der Neuköllner Wahlkampfauftritt mit „Yalla Yalla Intifada“ (August 2026) ist ein Testfall für Potters These. Die Spitzenkandidatin distanziert sich; ob es im Landesverband ein Muster gibt, bleibt in den Sondierungen offen.
 
+### → [[Spuren/Duldet-die-Linke-Antisemitismus|Spur: Duldet die Linke Antisemitismus?]]
+
+Potters Befund über das Milieu, an einer Partei gemessen: Die Spur trennt, was die Linke beschließt, von dem, was sie in Gliederungen und Mandaten geschehen lässt, und beobachtet bis März 2027, ob der Berliner Landesverband Konsequenzen zieht.
+
