@@ -415,7 +415,7 @@ Münklers Satz, in der Demokratie gebe es kein Recht auf Sorglosigkeit, fasst Fr
 
 ### → [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 
-Das Panorama, in das die Nachbesprechung dieser Note führt. Dort stehen Münklers Los, sein Misstrauen gegen das Plebiszit und seine Schule der Urteilsfähigkeit neben den Stimmen, die ihm widersprechen, zu fünf Fragen nach der Bauweise der Demokratie.
+Das Panorama, in das die Nachbesprechung dieser Note führt. Dort stehen Münklers Los, sein Misstrauen gegen das Plebiszit und seine Schule der Urteilsfähigkeit neben den Stimmen, die ihm widersprechen, zu sechs Fragen nach der Bauweise der Demokratie.
 
 ### → [[DenkerVita/Herfried Münkler|Herfried Münkler — DenkerVita]]
 

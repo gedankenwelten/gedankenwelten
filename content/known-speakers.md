@@ -1016,3 +1016,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Torsten Wilholt
 **Status:** ✓ Vollanalyse → [[DenkerVita/Torsten Wilholt]]
+
+## Elif Eralp
+**Status:** ✓ Vollanalyse → [[DenkerVita/Elif Eralp]]

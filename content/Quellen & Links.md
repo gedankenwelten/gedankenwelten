@@ -4636,3 +4636,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung]] |
 | **DenkerVita** | [[DenkerVita/Morpheus]] · [[DenkerVita/Molly Crockett]] |
 | **Transkripte** | `Gedankenwelten/Transkripte/Moessner_Ragebait_Transkript.txt` (YouTube, deutsch) · `Crockett_Moral_Outrage_Yale_Transkript.txt` (YouTube, englisch) |
+
+## Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv
+
+| | |
+|---|---|
+| **Video** | [Elif Eralp, Spitzenkandidatin der Linken \| Berlin-Wahl 2026 — Jung & Naiv: Folge 849](https://www.youtube.com/watch?v=r_-Z3nv5jAc) — Jung & Naiv, 03.09.2026 (2:36 h) |
+| **Wahlprogramm** | [Die Linke Berlin: Berlin bezahlbar machen (AGH 2026, PDF)](https://dielinke.berlin/fileadmin/download/2026/Wahlprogramm_AGH_2026_Die_Linke_Berlin.pdf) |
+| **Notiz** | [[Zeitgeist/Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]] |
+| **DenkerVita** | [[DenkerVita/Elif Eralp]] · [[DenkerVita/Tilo Jung]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Eralp_JungNaiv_Berlin-Wahl_2026_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

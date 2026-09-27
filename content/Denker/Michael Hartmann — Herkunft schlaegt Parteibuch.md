@@ -339,6 +339,10 @@ Hartmann erklärt, was Püttmann nur beklagt. Dessen Verwunderung über die „p
 
 Laschyk beschreibt den Weg vom Vermögen über die Medien zur Politik. Hartmann zeigt einen stilleren: Die Herkunft der Entscheider erreicht dasselbe Ergebnis ohne Umweg über die Presse.
 
+### → [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
+
+Eralp belegt Hartmanns Befund in einer Person: eine Arzttochter mit Migrationsgeschichte an der Spitze der neuen Linken. Das Publikum fragt sie ausdrücklich, wie eine Akademikerpartei die Unterschicht vertreten will.
+
 ---
 
 ## Weiterdenken

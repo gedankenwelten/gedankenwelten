@@ -155,6 +155,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Emmanuel Levinas|Emmanuel Levinas]]** — litauisch-französischer Philosoph (1906–1995), Schüler Husserls und Heideggers, Kriegsgefangener 1940–45, Familie in Litauen ermordet; Ethik als erste Philosophie, das Antlitz des Anderen, asymmetrische Verantwortung, der Dritte; *Totalität und Unendlichkeit* (1961), *Jenseits des Seins* (1974)
 
+**[[DenkerVita/Elif Eralp|Elif Eralp]]** — Juristin, Politikerin (Die Linke), Spitzenkandidatin und Wahlsiegerin Berlin 2026; Tochter türkischer politischer Flüchtlinge, Menschenrechtsjuristin, Mitgründerin Links*Kanax; Vergesellschaftung, Antirassismus als Klassenpolitik, „kein Problem ist zu klein“
+
 **[[DenkerVita/Elmar Thevessen|Elmar Theveßen]]** — ZDF-Studioleiter Washington, zuvor stv. Chefredakteur; Chronist der US-Demokratie unter Druck (*Deadline*, 2025), Journalismus als „zweiter Satz“ in der Tradition des Thukydides
 
 **[[DenkerVita/Erich Fromm|Erich Fromm]]** — Psychoanalytiker, Sozialphilosoph; Haben/Sein-Modus, Biophilie, humanistischer Sozialismus, Prophet als Warner

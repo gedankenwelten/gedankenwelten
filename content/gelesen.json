@@ -16,7 +16,7 @@
   },
   {
    "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-   "aufrufe": 33
+   "aufrufe": 35
   },
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -249,15 +249,15 @@
    "pfade": [
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 33
+     "aufrufe": 35
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
-     "aufrufe": 27
+     "aufrufe": 23
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "aufrufe": 22
+     "aufrufe": 19
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher.html",
@@ -272,12 +272,16 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "aufrufe": 4
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "aufrufe": 3
     },
     {
      "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
@@ -288,43 +292,15 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "aufrufe": 3
-    },
-    {
      "pfad": "/DenkerVita/Martin-Oetting",
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Marcant",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Blaise-Pascal",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Damir-Skenderovic",
-     "aufrufe": 2
+     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
+     "aufrufe": 3
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Jung-und-Naiv-1-Jahr-Kanzler-Merz",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
      "aufrufe": 2
     },
     {
@@ -332,19 +308,35 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Kalayo",
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Staiy-News:-NATO-Drohung,-No-Kings-Proteste-and-Iran-Bodenoffensive-(29.03.2026)",
-     "aufrufe": 1
+     "pfad": "/DenkerVita/Marcant",
+     "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Martyna-Linartas",
-     "aufrufe": 1
+     "pfad": "/DenkerVita/Damir-Skenderovic",
+     "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Morpheus-Warum-alle-chinesische-KI-nutzen",
+     "pfad": "/DenkerVita/Blaise-Pascal",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Jung-und-Naiv-1-Jahr-Kanzler-Merz",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
      "aufrufe": 1
     },
     {
@@ -352,59 +344,7 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Die-NATO-Luege-und-wie-aus-Funken-Rechtfertigung-wird",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Jens-Christian-Wagner-Buchenwald-und-deutsche-Erinnerung.html",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Liya-Yu",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Maja-Goepel-und-Achim-Truger-Wachstum-NEU-DENKEN",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Lukas-Baerfuss-Die-Fesseln-der-eigenen-Herkunft",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Ronen-Steinke",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Dirk-Specht",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Aziz-Abu-Sarah",
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Zeitgeist/Sandra-Navidi-Verbrecher-getarnt-als-Regierung:-Wie-Trump-die-USA-ausraubt-(Der-Standard)",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Marina-Klimchuk",
      "aufrufe": 1
     },
     {
@@ -417,10 +357,6 @@
     },
     {
      "pfad": "/DenkerVita/Moritz-Rudolph",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
      "aufrufe": 1
     },
     {
@@ -440,23 +376,11 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/DenkerVita/Isabell-Lorey",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Giulia-Enders",
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Gedanken/Architekten-des-Lebendigen-Systeme-die-dem-Leben-dienen",
      "aufrufe": 1
     },
     {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Ingrid-Brodnig",
      "aufrufe": 1
     },
     {
@@ -486,6 +410,82 @@
     {
      "pfad": "/DenkerVita/Torsten-Heinrich",
      "aufrufe": 1
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-April-2026",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Maren-Urner",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Kultur/Hans-Maggi-Sokotra",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Udo-Marquardt",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Morpheus-Warum-alle-chinesische-KI-nutzen",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Ronen-Steinke",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Giulia-Enders",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Dirk-Specht",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Anton-Jaeger",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Ingrid-Brodnig",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Isabell-Lorey",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Marina-Klimchuk",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Aziz-Abu-Sarah",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Jens-Christian-Wagner-Buchenwald-und-deutsche-Erinnerung.html",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Walther-Ziegler-Kafka-in-60-Minuten.html",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Kerstin-Paschke",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Hartwin-Maas-Bildung-NEU-DENKEN",
+     "aufrufe": 1
     }
    ]
   },
@@ -506,7 +506,7 @@
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 33
+     "aufrufe": 35
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -759,7 +759,7 @@
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 38
+     "aufrufe": 40
     },
     {
      "pfad": "/Zeitgeist/Tilo-Wesche-Rechte-der-Natur-Eigentum-Kolonialismus",
@@ -1004,7 +1004,7 @@
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 38
+     "aufrufe": 40
     },
     {
      "pfad": "/Zeitgeist/Tilo-Wesche-Rechte-der-Natur-Eigentum-Kolonialismus",
