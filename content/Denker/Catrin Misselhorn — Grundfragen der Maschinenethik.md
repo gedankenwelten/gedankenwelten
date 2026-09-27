@@ -201,6 +201,10 @@ Der offene Gegensatz. Ronnie Vuines Position gegen die Alignment-Debatte behande
 
 Smallville-Figuren antworten glaubwürdiger als Menschen, ohne dass ihnen je etwas wichtig gewesen wäre — empirisches Material für Misselhorns Grenze zwischen Simulieren und Erleben.
 
+### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+
+Scobel zeigt an der Wendung „den Geist aufgeben“, wie Sprache Maschinen beseelt, bevor wir es merken. Misselhorns Empathie-Illusion, die sich durch Wissen nicht auflösen lässt, ist der Mechanismus darunter.
+
 ---
 
 ## Weiterdenken

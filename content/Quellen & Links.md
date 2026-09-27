@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Gert Scobel — Die Geister in der Maschine (scobel, 2026)
+
+| | |
+|---|---|
+| **Video** | [Die gefährlichste Illusion über KI: Sie weiß, was wahr ist – scobel](https://www.youtube.com/watch?v=CfjEWi94de4) — scobel, 24.09.2026, 25 Min |
+| **Essay** | [David Krakauer — Sizing Up the Ghosts in the Machines](https://sfiscience.substack.com/p/sizing-up-the-ghosts-in-the-machines) — SFI *Parallax*, Sommer 2026 |
+| **Notiz** | [[Geistesblitz/Gert Scobel — Die Geister in der Maschine]] · [[DenkerVita/Gert Scobel]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Scobel_Geister_Maschine_Transkript.txt` |
+
 ## Herfried Münkler — Die Sehnsucht nach Ordnung (Körber-Stiftung, 2026)
 
 | | |

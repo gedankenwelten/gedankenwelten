@@ -250,6 +250,10 @@ El-Mafaalanis vier Zustände (blindes Vertrauen, konstruktives Vertrauen, konstr
 
 Kornmeiers „Ich glaube nichts, halte aber alles für möglich“ ist gelebter Fallibilismus, und die Dolly-Anekdote zeigt, was Wilholt mit Wissen ohne Gewissheit meint: Ein Genetikprofessor erklärt das Klonschaf für unmöglich und irrt, und das übrige Wissen seines Fachs wird dadurch nicht zu Unwissen. Zugleich ist die Note ein Fall für Wilholts Quellenprojekt. Ausgerechnet dort, wo das Erbe seines Instituts auf dem Spiel steht, rundet Kornmeier die Belege in die eigene Richtung; auch eine sonst verlässliche Quelle hat eine Stelle, an der ihr Mechanismus aussetzt.
 
+### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+
+Scobels Frage, ob eine KI weiß, ob sie etwas gefunden oder erfunden hat, ist das Gettier-Problem am Werkzeug. Die erfundenen Referenzen in der Medizinforschung zeigen, was geschieht, wenn niemand prüft, auf welchem Weg eine Quelle zustande kam.
+
 ---
 
 ## Weiterdenken

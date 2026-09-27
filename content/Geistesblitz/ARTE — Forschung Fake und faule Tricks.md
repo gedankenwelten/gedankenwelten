@@ -306,3 +306,7 @@ Der Grenzfall zum Tabak-Blueprint — und darum lehrreich. Kornmeiers Haltungssa
 ### → [[Torsten Wilholt — Wahrheit und Wissen]]
 
 Wilholts Unterscheidung von Wissen und Gewissheit, von Fallibilismus und Skeptizismus benennt den Fehlschluss, den die Tabakindustrie zur Strategie gemacht hat: Aus „nicht völlig sicher“ wird „nicht gewusst“.
+
+### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+
+Zu den gezielt produzierten Zweifeln kommt bei Scobel eine absichtslose Verunreinigung der Forschung: erfundene KI-Referenzen, die ohne Täuschungswillen dasselbe Nadelöhr passieren.

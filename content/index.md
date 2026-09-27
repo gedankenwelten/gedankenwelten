@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **27.09.** — [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+>
+> Jede Wissenschaft treibt Geister aus, und in jede Lücke zieht ein neuer ein. Der jüngste wohnt in der Statistik — und weiß selbst nicht, ob er gefunden oder erfunden hat.
+
+> **26.09.** — [[Geistesblitz/Torsten Wilholt — Wahrheit und Wissen|Torsten Wilholt — Wahrheit und Wissen]]
+>
+> Wer richtig liegt, weiß deshalb noch nichts: Wissen ist wahre Überzeugung, die nicht vom Zufall lebt — und wer Irrtum für möglich hält, ist darum noch lange kein Skeptiker.
+
+> **21.09.** — [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
+>
+> Der Feed kennt keinen Unterschied zwischen Liebe und Hass, nur Verweildauer. Er verstärkt ein altes Gefühl, das einmal Gruppen zusammenhielt, und macht uns dabei müde.
+
 ### GoodNews
 
 > **27.09.** — [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
@@ -45,20 +59,6 @@ Die Gedankenwelten (luc)
 > **20.09.** — [[Zeitgeist/Daniel - Lena Kotré plant private Abschiebeindustrie|Daniel - Lena Kotré plant private Abschiebeindustrie]]
 >
 > Eine Abschiebung als Vergabeverfahren zu denken, verlangt keinen Hass — nur ein Formular. Was passiert, wenn das Ungeheure sich in Zuständigkeiten zerlegen lässt.
-
-### Geistesblitz
-
-> **26.09.** — [[Geistesblitz/Torsten Wilholt — Wahrheit und Wissen|Torsten Wilholt — Wahrheit und Wissen]]
->
-> Wer richtig liegt, weiß deshalb noch nichts: Wissen ist wahre Überzeugung, die nicht vom Zufall lebt — und wer Irrtum für möglich hält, ist darum noch lange kein Skeptiker.
-
-> **21.09.** — [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
->
-> Der Feed kennt keinen Unterschied zwischen Liebe und Hass, nur Verweildauer. Er verstärkt ein altes Gefühl, das einmal Gruppen zusammenhielt, und macht uns dabei müde.
-
-> **18.09.** — [[Geistesblitz/KI-Agenten — Vom Dorf zur Zivilisation|KI-Agenten — Vom Dorf zur Zivilisation]]
->
-> Fünfundzwanzig KI-Figuren feiern eine Party, tausend gründen eine Religion. Was diese Simulationen zeigen, hängt davon ab, wer genau hinsieht: an ihnen erkennen wir uns selbst.
 
 ### Panorama
 

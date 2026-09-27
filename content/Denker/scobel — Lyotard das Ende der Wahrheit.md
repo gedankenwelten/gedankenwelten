@@ -264,6 +264,10 @@ Dieselbe Diagnose der Zersplitterung, entgegengesetzte Konsequenz: Lyotard feier
 
 Der Denker, der an Lyotards Klippe nicht zerschellen will: Diagne teilt die Absage an den überwölbenden Logos und die Metaerzählung, weigert sich aber, daraus die Inkommensurabilität der Sprachspiele zu folgern — gegen den Zerfall in unübersetzbare Provinzen setzt er die Übersetzung als laterales Universales.
 
+### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+
+Scobels Geister-Folge zeigt das Performativitätskriterium an erfundenen Referenzen in der Medizinforschung — und endet doch mit einem Appell an die Wahrheit, den Lyotard so nicht mehr unterschreiben würde.
+
 ---
 
 ## Weiterdenken
