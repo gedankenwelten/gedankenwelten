@@ -347,3 +347,7 @@ Die zweite Ausgabe desselben Monats, elf Tage später — und das gegenläufige 
 ### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
 
 Einen Monat später wird das Aufhören zum roten Faden: kein Grundschleppnetz mehr vor Arran, weniger Rodung bei den Mangroven, sechzig Jahre sinkendes Rauchen. Die E-Zigarette spielt dabei die Rolle der Ersatzchemikalien bei den Basstölpeln, und die Messung muss weiterlaufen.
+
+### → [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
+
+Die Akte für jede Kuh bekommt im September ihr europäisches Gegenstück: Wer neue Kleidung vernichtet, muss es offenlegen, und seit Juli ist es großen Firmen weitgehend verboten. Neben die Nordkaper-Kälber stellt die Ausgabe die Buckelwale im Südatlantik, die nach dem Ende der Jagd von 440 auf rund 25.000 Tiere zurückkamen.

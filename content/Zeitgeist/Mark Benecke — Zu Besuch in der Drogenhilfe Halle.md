@@ -287,6 +287,10 @@ Diese Note hält den knappen kommunalen Haushalt für einen nachvollziehbaren Ei
 
 Beneckes dritte Note im Cortex, nach den Umwelt-Messungen und der Fragerunde *Time Is Up*: Der Kriminalbiologe, der sonst Klimadaten seziert, wechselt hier in die Rolle des Fragenden und lässt anderen die Antworten.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
+
+Kambodscha hat das HIV-Ziel 95-95-95 erreicht, und die erste Stufe waren Gesundheitsarbeiterinnen, die hinausgingen und Person für Person testeten. Es ist die Arbeit, für die Halle einen einzigen Streetworker hat, dort im großen Maßstab und über zwei Jahrzehnte finanziert, vor allem aus einem US-Programm, das sich gerade zurückzieht.
+
 ---
 
 ## Weiterdenken

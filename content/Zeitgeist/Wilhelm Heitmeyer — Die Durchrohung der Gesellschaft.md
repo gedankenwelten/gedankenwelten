@@ -305,6 +305,10 @@ Haidts Abscheu-vs-Wut-Unterscheidung liefert den psychologischen Mechanismus fü
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Mel Robbins' Let-Them-Philosophie als Symptom der von Heitmeyer beschriebenen Entsolidarisierung und Individualisierung
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — NZ-Salon spannt Bogen von Teheran über kriminalisierte Aktivisten bis normalisierten Tabubruch — Heitmeyers Verrohungs-Framework
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
+
+Das Gegenbild aus den USA: Dort fallen Morde, Raub und Einbruch fast überall, während häusliche Gewalt und Drogendelikte steigen, und das Gefühl sagt trotzdem das Gegenteil. Neben Heitmeyers steigenden Kurven stellt sich dieselbe Frage von der anderen Seite, ob eine Zahl die Welt misst oder das Zählen.
+
 ---
 
 ## Weiterführend

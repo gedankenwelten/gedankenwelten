@@ -194,6 +194,10 @@ Der schärfere Gegenpol: Dörres „Landnahme" beschreibt genau das, was Bendsen
 
 Bendsens Beobachtung, dass „Externalität" harmlos klingt, obwohl die Kosten nur wandern, bekommt bei der Tropenökologin Fischer ihren härtesten Einzelfall: Ein Auto verbraucht über alle Vorketten rund 150.000 Liter Wasser, die die Natur liefert und die Gesellschaft fast umsonst weitergibt — bei 50 Cent pro Liter läge der Aufschlag bei 75.000 Euro pro Wagen. Beide arbeiten mit derselben Weigerung, ans Gewissen zu appellieren, und mit demselben Hebel, der Bewertungslogik. Der Unterschied ist die Position: Bendsen dreht die Rechnung innerhalb der Wirtschaft, bei Materialströmen mit Eigentümern und Verträgen; Fischer steht an der Außengrenze, wo der Lieferant gar keine Rechnung stellen kann. Ihre Kehrseite ist auch Bendsens: Wer das Unbezahlte einpreist, lädt jene ein, die am Schrumpfen des Bestands verdienen.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
+
+Das EU-Verbot, neue Kleidung zu vernichten, ist ein Fall ihrer These: Vernichten war jahrelang billiger als prüfen, reinigen und neu verpacken. Die Note setzt dabei auf die Offenlegungspflicht, also genau auf das Reporting, dem Bendsen wenig zutraut.
+
 ---
 
 ## Weiterdenken

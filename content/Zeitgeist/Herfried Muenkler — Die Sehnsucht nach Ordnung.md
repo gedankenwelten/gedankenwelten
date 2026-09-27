@@ -419,6 +419,10 @@ Das Panorama, in das die Nachbesprechung dieser Note führt. Dort stehen Münkle
 
 ### → [[DenkerVita/Herfried Münkler|Herfried Münkler — DenkerVita]]
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
+
+Die Probe auf seine Angst-These: Die US-Mordrate steuert auf den tiefsten Stand seit Jahrzehnten zu, und das Gefühl allgegenwärtiger Kriminalität bleibt. Das Format der guten Nachrichten ist auch der Versuch, den Fortschrittsglauben gegen die „Angstblockade" mit Meldungen wiederaufzubauen.
+
 ---
 
 ## Weiterdenken
