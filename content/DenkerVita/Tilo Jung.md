@@ -83,3 +83,4 @@ Dezidiert links, marxistisch geprägt in der Kapitalismuskritik. Geht offen dami
 ## Gedankenwelten-Notes
 
 - [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Streitgespräch bei Tim Gabel (April 2026)
+- [[Der Entscheidende Punkt — Nach den Landtagswahlen]] — moderiert die Wahlnachlese mit Hensel, Kormbaki und Jessen (September 2026)

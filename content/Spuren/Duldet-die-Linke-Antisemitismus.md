@@ -161,6 +161,10 @@ Steinke verteidigt die Meinungsfreiheit auch für Aussagen, die man falsch finde
 
 Wem gehört die Bedeutung einer Parole? Das Panorama beschreibt die Mechanik, an der sich der Streit um „Yalla Intifada“ entzündet.
 
+### → [[Der Entscheidende Punkt — Nach den Landtagswahlen]]
+
+Am Tag nach der Berlin-Wahl erwartet Marina Kormbaki (SPIEGEL), ein Linksbündnis scheitere eher am Antisemitismus als an den Mieten. Eralps Distanzierung hält sie für glaubwürdig, die Bezüge ihrer Leute nicht für Ausnahmen.
+
 ## Quellen
 
 - [EHRC: Investigation into antisemitism in the Labour Party (2020)](https://www.equalityhumanrights.com/sites/default/files/investigation-into-antisemitism-in-the-labour-party.pdf) — der übernommene Maßstab

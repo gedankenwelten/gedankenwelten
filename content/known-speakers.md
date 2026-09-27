@@ -1019,3 +1019,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Elif Eralp
 **Status:** ✓ Vollanalyse → [[DenkerVita/Elif Eralp]]
+
+## Marina Kormbaki
+**Status:** ✓ Vollanalyse → [[DenkerVita/Marina Kormbaki]]
+
+## Hans Jessen
+**Status:** ✓ Vollanalyse → [[DenkerVita/Hans Jessen]]
+
+## Jana Hensel
+**Status:** ✓ Vollanalyse → [[DenkerVita/Jana Hensel]]

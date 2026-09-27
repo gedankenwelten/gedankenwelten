@@ -219,6 +219,10 @@ Flassbeck demontiert mit dem Sparparadoxon die ökonomische Logik hinter Merz' k
 
 Die Minijob-Note zeigt denselben CDU-Widerspruch in der Arbeitspolitik, den die Bilanz-Runde für die Sozialpolitik insgesamt benennt: Merz fordert "mehr Arbeit", erhält aber ein System aufrecht, das reguläre Beschäftigung verhindert und Altersarmut produziert. Das ist das mikroökonomische Fallbeispiel für Herrmanns Makro-Diagnose: "Oben wird gegeben, unten wird genommen."
 
+### → [[Der Entscheidende Punkt — Nach den Landtagswahlen]]
+
+Die Fortsetzung nach den Landtagswahlen im September 2026: Bei Hensel und Jessen wird aus dem Führungsproblem eine Haltungsfrage, ein Kanzler, der klar spricht, weil er sich nicht verantwortlich fühlt.
+
 ---
 
 ## Weiterdenken

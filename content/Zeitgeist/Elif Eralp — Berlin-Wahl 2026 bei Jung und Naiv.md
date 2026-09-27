@@ -437,6 +437,10 @@ Die Frage, die im Studio niemand stellte, als Langzeit-These mit vorregistrierte
 
 ### → [[DenkerVita/Elif Eralp|Elif Eralp — DenkerVita]]
 
+### → [[Der Entscheidende Punkt — Nach den Landtagswahlen]]
+
+Einen Tag nach dem Wahlsieg beschreiben Jessen und Kormbaki Eralp in der Zange: der Auftrag des Volksentscheids, ein Partner, der zur Vergesellschaftung „mit mir nicht“ sagt, und der Antisemitismus-Streit um Neukölln.
+
 ---
 
 ## Weiterdenken

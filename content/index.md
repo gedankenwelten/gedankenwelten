@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Siebzehn Tage vor dem Wahlsieg sagt Elif Eralp bei Tilo Jung, was sie will, und verweigert die eine Zahl, an der man sie messen könnte. Ein Protokoll des Versprechens, bevor es Macht wird.
 
+> **27.09.** — [[Zeitgeist/Der Entscheidende Punkt — Nach den Landtagswahlen|Der Entscheidende Punkt — Nach den Landtagswahlen]]
+>
+> Am Tag nach der Wahl findet eine Runde von Journalisten für AfD und Linke dasselbe Wort: Hoffnung. Was wird aus Menschen, die sich lange nicht gehört fühlten, wenn sie gehört werden wollen?
+
 > **26.09.** — [[Zeitgeist/Mark Benecke — Zu Besuch in der Drogenhilfe Halle|Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
 >
 > Spritzentausch eins zu eins, ein Streetworker für eine ganze Großstadt: wie Schadensminderung aussieht, wenn das Geld jedes Jahr neu erkämpft werden muss.
@@ -40,9 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Zwei Ökonomen über die Zahl, die alles regiert: Das BIP misst weder die zerstörte Natur noch die unbezahlte Arbeit noch die Verteilung — und der Sachverständigenrat hat ein besseres Instrument, das er selbst nicht benutzt.
 
-> **20.09.** — [[Zeitgeist/Daniel - Lena Kotré plant private Abschiebeindustrie|Daniel - Lena Kotré plant private Abschiebeindustrie]]
->
-> Eine Abschiebung als Vergabeverfahren zu denken, verlangt keinen Hass — nur ein Formular. Was passiert, wenn das Ungeheure sich in Zuständigkeiten zerlegen lässt.
+> → *1 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

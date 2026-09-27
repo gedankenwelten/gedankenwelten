@@ -328,6 +328,10 @@ Frickes empirisch gestützte Kette — Austerität, Inflation, Kontrollverlust �
 
 Der Abend danach — und der Einwand gegen die eigene Fragestellung. Quent hält Siegmund und sein TikTok-Profil für höchstens drei bis vier Prozentpunkte wert: In Thüringen steht die AfD mit Höcke bei denselben Werten, in Sachsen mit Urban ebenso, „die könnten auch einen blauen Besen aufstellen". Das Vakuum von Querfurt bleibt trotzdem der Kern: Was dort als fehlender Jugendclub sichtbar wird, heißt bei Quent funktionale Äquivalenz — Angebote machen, bevor andere sie machen.
 
+### → [[Der Entscheidende Punkt — Nach den Landtagswahlen]]
+
+Nach der Wahl berichtet Marina Kormbaki, Siegmunds Reden in Merseburg und Schwerin seien voller „Zukunft“ gewesen, und Jana Hensel besteht auf einem materiellen Kern des Rechtsrucks. Querfurt zeigt, dass dieser Kern eher Infrastruktur und Anerkennung ist als Lohn.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
