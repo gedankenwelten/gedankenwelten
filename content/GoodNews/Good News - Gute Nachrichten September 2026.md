@@ -262,6 +262,10 @@ Die Rauch-Meldung nennt als Gründe für den Rückgang Preise, Kampagnen und War
 
 Kemfert nannte die Erneuerbaren im März, mitten in der Energiekrise nach dem Iran-Krieg, Friedenstechnologien. Die spanischen Ember-Grafiken liefern ein halbes Jahr später die Messung dazu: Der Strompreis folgt dem Gaspreis nicht mehr, rund zehn Euro pro Haushalt und Monat. Ihr Bild von der fossilen Energie als Droge bekommt in derselben Note einen echten Vergleichsfall. Der Abschied von der Zigarette hat in den USA sechzig Jahre gedauert, über Preis, Etikett und Ansehen, und ist nicht beendet. Das ist eine nüchterne Vorlage für die Frage, wie schnell ein „kalter Entzug" gesellschaftlich überhaupt gehen kann.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
+
+Die zweite Ausgabe desselben Monats bringt die Spanien-Hochrechnung ein zweites Mal, als Erinnerung an diese Folge, mit derselben falschen Zahl. Ihr roter Faden ist das Nachsehen: ein Riff vor Benin, sechzig Jahre für tot gehalten, weil niemand zurückging. Die Wale und die Kemp's-Ridley-Schildkröte führen das Aufhören und Warten dieser Ausgabe fort, die Schildkröte auch bis an seine Grenze.
+
 ---
 
 ## Weiterdenken

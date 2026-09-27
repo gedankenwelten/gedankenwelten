@@ -32,6 +32,14 @@ tags:
 | **Transkript** | `Gedankenwelten/Transkripte/Wilholt_Wahrheit_Wissen_Transkript.txt` |
 | **Fund** | Diogenes, Nacht 31.08.2026 (`gedankenwelten_pro`) |
 
+## Freddy Leppin — Your Monthly Dose of Good News, September 2026 (Teil 2)
+
+| | |
+|---|---|
+| **Video** | [Your Monthly Dose of Good News · September](https://www.youtube.com/watch?v=WSgGE6OLMFE) — Good News, 26.09.2026 · [Quellenliste](https://good-news.notion.site/Your-Monthly-Dose-of-Good-News-September-Part-2-3e760ebea8a380dfaecfcc3871bcdc58) |
+| **Notiz** | [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2]] · [[DenkerVita/Freddy Leppin]] |
+| **Transkript** | `Gedankenwelten/Transkripte/GoodNews_September2026_Teil2_Transkript.txt` |
+
 ## Freddy Leppin — Your Monthly Dose of Good News, September 2026
 
 | | |

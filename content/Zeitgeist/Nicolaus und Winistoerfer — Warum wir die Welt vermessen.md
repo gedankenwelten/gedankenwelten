@@ -274,6 +274,10 @@ Der empirische Gegencheck zur AEON-Demo. Sechs Wochen nachdem Hexagon den Humano
 
 Zwei Anwendungsfälle des Hexagon-Versprechens, mit derselben Kehrseite: Griechenland startet Satelliten, die Waldbrände ab vier Metern erkennen — und dieselbe Sensorinfrastruktur ist in der EU für Grenzüberwachung vorgesehen. Dazu die formale Parallele: Auch jene Ausgabe hat einen bezahlten Abschnitt, offengelegt und im redaktionellen Fluss.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
+
+Ein Fall für den Schlusssatz: Ein Riff vor Benin galt sechzig Jahre als tot, weil das Echolot eine Form zeigte und kein Leben. Und einer für die Auswahlfrage: Die EU lässt große Unternehmen offenlegen, wie viel Kleidung sie vernichten, die Pakete aus Übersee bleiben ungezählt.
+
 ---
 
 ## Weiterdenken

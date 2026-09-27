@@ -324,6 +324,10 @@ Der zweite, seltener genannte Effekt der EU-Einsparung — wer weniger importier
 
 Der Folgemonat erzählt die England-Zahl zur HPV-Impfung ein zweites Mal. Neben das Arktis-Moratorium stellt er den Fall, in dem erst nach dem Schaden aufgehört wurde: das Schleppnetzverbot vor Arran, von den Inselbewohnern selbst angestoßen. Das ist eine mögliche Antwort auf die Amazonas-Frage, wie Schutz den Regierungswechsel überlebt.
 
+### → [[GoodNews/Good News - Gute Nachrichten September 2026 Teil 2|Good News — Gute Nachrichten September 2026 Teil 2]]
+
+Was hier das Pilznetz war, ist dort ein Riff vor Benin: sechzig Jahre für tot gehalten, weil niemand mehr hinuntertauchte. Der Befund dieser Ausgabe, dass die Fehler des Kanals in eine Richtung zeigen, bestätigt sich dort über die Zeit, weil eine widerlegte Zahl in der Folge darauf wiederkehrt.
+
 ---
 
 ## Weiterdenken
