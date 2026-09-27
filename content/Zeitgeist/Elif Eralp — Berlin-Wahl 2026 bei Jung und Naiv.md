@@ -431,6 +431,10 @@ Gegen Crack am Görli nennt Eralp Drug Checking und Konsumräume und schiebt die
 
 Die beiden wachsenden Panoramen, in die die Nachbesprechung führt: zur Vergesellschaftung und zur neuen Frage, wer zum Demos gehört.
 
+### → [[Spuren/Duldet-die-Linke-Antisemitismus|Spur: Duldet die Linke Antisemitismus?]]
+
+Die Frage, die im Studio niemand stellte, als Langzeit-These mit vorregistriertem Maßstab. Befund zum Auftakt: keine antisemitische Partei, aber ein Berliner Landesverband, der Positionen in Gliederungen und Mandaten ohne Konsequenz duldet. Eralps Zusage, aufzuarbeiten, ist dort einer von vier Prüfsteinen bis März 2027.
+
 ### → [[DenkerVita/Elif Eralp|Elif Eralp — DenkerVita]]
 
 ---

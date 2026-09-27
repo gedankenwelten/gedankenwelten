@@ -403,6 +403,10 @@ Thieles stärkstes Argument gegen die Regierungsbeteiligung ist eine Prognose, u
 
 Der Abend, an dem die vierte Macht-Ebene dieser Spur in Reichweite rückt. Einen Tag nach der Wahl in Sachsen-Anhalt zählen Nicole Deitelhoff und Matthias Quent konkret auf, was eine AfD-geführte Landesregierung greifen kann: Zugriff auf Daten der Sicherheitsbehörden, Austrocknung unliebsamer Fächer über Fördermittel, Besetzung frei werdender Richterstellen. Die Note liefert damit die Ausgangsmessung für den Verlauf, den diese Spur ab hier zu führen hat — und mit Quents Satz, dass Magdeburg die Zwischenstation für Berlin ist, zugleich das Argument, sie nicht auf ein Bundesland zu verengen.
 
+### → [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]]
+
+Das Gegenstück in derselben Bauweise: eine Partei, gemessen am Vorwurf gegen sie, mit einem Maßstab, den andere vor uns festgelegt haben (EHRC-Untersuchung zu Labour). Beim nächsten Sweep dieser Spur werden dieselben sechs Kriterien auf die AfD und den Antisemitismus angelegt (Dimension D), damit beide Parteien an einem Vorwurf mit einem Maßstab gemessen sind.
+
 ## Quellen
 
 - [GFF — Pressemitteilung zum Gutachten, 25.06.2026](https://freiheitsrechte.org/ueber-die-gff/presse/pressemitteilungen-der-gesellschaft-fur-freiheitsrechte/afd-ist-nachweislich-verfassungswidrig-gesellschaft-fuer-freiheitsrechte-stellt-nach-einem-jahr-arbeit-umfassendes-wissenschaftliches-gutachten-vor) · [afd-gutachten.de (Volltext)](https://afd-gutachten.de/)

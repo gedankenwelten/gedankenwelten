@@ -16,7 +16,7 @@
   },
   {
    "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-   "aufrufe": 37
+   "aufrufe": 39
   },
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -63,7 +63,7 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/DenkerVita/Jihan-Alomar",
+   "pfad": "/DenkerVita/Juergen-Kornmeier",
    "aufrufe": 6
   },
   {
@@ -79,23 +79,15 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Juergen-Kornmeier",
-   "aufrufe": 6
-  },
-  {
    "pfad": "/DenkerVita/Freddy-Leppin",
    "aufrufe": 6
   },
   {
-   "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
-   "aufrufe": 5
+   "pfad": "/DenkerVita/Jihan-Alomar",
+   "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Hans-Jürgen-Völz",
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/DenkerVita/Kalayo",
+   "pfad": "/DenkerVita/Torsten-Heinrich",
    "aufrufe": 5
   },
   {
@@ -103,7 +95,11 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Torsten-Heinrich",
+   "pfad": "/DenkerVita/Kalayo",
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
    "aufrufe": 5
   },
   {
@@ -111,16 +107,8 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Martyna-Linartas",
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Panorama/Rente",
-   "aufrufe": 4
+   "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+   "aufrufe": 5
   },
   {
    "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
@@ -135,15 +123,23 @@
    "aufrufe": 4
   },
   {
+   "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Martyna-Linartas",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
+   "aufrufe": 4
+  },
+  {
    "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
    "aufrufe": 4
   },
   {
-   "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+   "pfad": "/Panorama/Rente",
    "aufrufe": 4
   },
   {
@@ -155,39 +151,11 @@
    "aufrufe": 4
   },
   {
+   "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
+   "aufrufe": 4
+  },
+  {
    "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
-   "aufrufe": 3
-  },
-  {
-   "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
-   "aufrufe": 3
-  },
-  {
-   "pfad": "/Denker/Martyna-Linartas-Unverdiente-Ungleichheit",
-   "aufrufe": 3
-  },
-  {
-   "pfad": "/DenkerVita/Dirk-Specht",
-   "aufrufe": 3
-  },
-  {
-   "pfad": "/DenkerVita/Martin-Oetting",
-   "aufrufe": 3
-  },
-  {
-   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft.html",
-   "aufrufe": 3
-  },
-  {
-   "pfad": "/DenkerVita/Jochen-Grossmann",
-   "aufrufe": 3
-  },
-  {
-   "pfad": "/DenkerVita/Liya-Yu",
-   "aufrufe": 3
-  },
-  {
-   "pfad": "/Zeitgeist/Tim-Meyer-und-Jan-Hegenberg-China-Energiewende",
    "aufrufe": 3
   },
   {
@@ -195,7 +163,11 @@
    "aufrufe": 3
   },
   {
-   "pfad": "/Denker/Paul-Ricoeur-Die-zweite-Naivitaet",
+   "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft.html",
    "aufrufe": 3
   },
   {
@@ -203,7 +175,35 @@
    "aufrufe": 3
   },
   {
-   "pfad": "/Denker/Walther-Ziegler-Foucault-in-60-Minuten",
+   "pfad": "/DenkerVita/Martin-Oetting",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Denker/Martyna-Linartas-Unverdiente-Ungleichheit",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Zeitgeist/Tim-Meyer-und-Jan-Hegenberg-China-Energiewende",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/DenkerVita/Jochen-Grossmann",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Denker/Paul-Ricoeur-Die-zweite-Naivitaet",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/DenkerVita/Dirk-Specht",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/DenkerVita/Liya-Yu",
+   "aufrufe": 3
+  },
+  {
+   "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
    "aufrufe": 2
   },
   {
@@ -219,15 +219,7 @@
    "aufrufe": 2
   },
   {
-   "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
-   "aufrufe": 2
-  },
-  {
    "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-   "aufrufe": 2
-  },
-  {
-   "pfad": "/Zeitgeist/Koschi-Politik-ICE-setzt-neue-Rekorde",
    "aufrufe": 2
   },
   {
@@ -241,6 +233,14 @@
   {
    "pfad": "/DenkerVita/David-Chalmers",
    "aufrufe": 2
+  },
+  {
+   "pfad": "/Panorama/Kaufkraft",
+   "aufrufe": 2
+  },
+  {
+   "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
+   "aufrufe": 2
   }
  ],
  "zeitraeume": {
@@ -249,18 +249,14 @@
    "pfade": [
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 37
+     "aufrufe": 39
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
-     "aufrufe": 23
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher.html",
-     "aufrufe": 13
-    },
-    {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "aufrufe": 13
     },
     {
@@ -272,23 +268,15 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "aufrufe": 3
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
      "aufrufe": 3
     },
     {
@@ -296,8 +284,44 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Blaise-Pascal",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Jung-und-Naiv-1-Jahr-Kanzler-Merz",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Kalayo",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Damir-Skenderovic",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "aufrufe": 2
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
@@ -308,32 +332,8 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Kalayo",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Damir-Skenderovic",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Blaise-Pascal",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Jung-und-Naiv-1-Jahr-Kanzler-Merz",
-     "aufrufe": 2
+     "pfad": "/Denker/Lukas-Baerfuss-Die-Fesseln-der-eigenen-Herkunft",
+     "aufrufe": 1
     },
     {
      "pfad": "/DenkerVita/Ralf-Stockmann",
@@ -373,6 +373,10 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "aufrufe": 1
     },
     {
@@ -482,10 +486,6 @@
     {
      "pfad": "/DenkerVita/Kerstin-Paschke",
      "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Hartwin-Maas-Bildung-NEU-DENKEN",
-     "aufrufe": 1
     }
    ]
   },
@@ -506,7 +506,7 @@
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
-     "aufrufe": 37
+     "aufrufe": 39
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -553,7 +553,7 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Jihan-Alomar",
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
      "aufrufe": 6
     },
     {
@@ -569,23 +569,15 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "aufrufe": 6
-    },
-    {
      "pfad": "/DenkerVita/Freddy-Leppin",
      "aufrufe": 6
     },
     {
-     "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
-     "aufrufe": 5
+     "pfad": "/DenkerVita/Jihan-Alomar",
+     "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Kalayo",
+     "pfad": "/DenkerVita/Torsten-Heinrich",
      "aufrufe": 5
     },
     {
@@ -593,7 +585,11 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Torsten-Heinrich",
+     "pfad": "/DenkerVita/Kalayo",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
      "aufrufe": 5
     },
     {
@@ -601,16 +597,8 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Martyna-Linartas",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Panorama/Rente",
-     "aufrufe": 4
+     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "aufrufe": 5
     },
     {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
@@ -625,15 +613,23 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Martyna-Linartas",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Zeitgeist/Doerre-Klassen-Kapitalismus-und-Demokratie",
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+     "pfad": "/Panorama/Rente",
      "aufrufe": 4
     },
     {
@@ -645,39 +641,11 @@
      "aufrufe": 4
     },
     {
+     "pfad": "/Zeitgeist/Torsten-Heinrich-Was-die-Tagesschau-verschweigt",
+     "aufrufe": 4
+    },
+    {
      "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Martyna-Linartas-Unverdiente-Ungleichheit",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Dirk-Specht",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Martin-Oetting",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft.html",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Jochen-Grossmann",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Liya-Yu",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Tim-Meyer-und-Jan-Hegenberg-China-Energiewende",
      "aufrufe": 3
     },
     {
@@ -685,7 +653,11 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Paul-Ricoeur-Die-zweite-Naivitaet",
+     "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft.html",
      "aufrufe": 3
     },
     {
@@ -693,7 +665,35 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Walther-Ziegler-Foucault-in-60-Minuten",
+     "pfad": "/DenkerVita/Martin-Oetting",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Martyna-Linartas-Unverdiente-Ungleichheit",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Tim-Meyer-und-Jan-Hegenberg-China-Energiewende",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Jochen-Grossmann",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Paul-Ricoeur-Die-zweite-Naivitaet",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Dirk-Specht",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Liya-Yu",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
      "aufrufe": 2
     },
     {
@@ -709,15 +709,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Steffen-Mau-Spaltung-der-Gesellschaft",
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-ICE-setzt-neue-Rekorde",
      "aufrufe": 2
     },
     {
@@ -730,6 +722,14 @@
     },
     {
      "pfad": "/DenkerVita/David-Chalmers",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Panorama/Kaufkraft",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
      "aufrufe": 2
     }
    ]
@@ -754,11 +754,11 @@
      "aufrufe": 49
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 42
+     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "aufrufe": 44
     },
     {
-     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "aufrufe": 42
     },
     {
@@ -999,11 +999,11 @@
      "aufrufe": 49
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 42
+     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "aufrufe": 44
     },
     {
-     "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "aufrufe": 42
     },
     {
