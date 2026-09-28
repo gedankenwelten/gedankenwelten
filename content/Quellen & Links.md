@@ -4689,3 +4689,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Marco Buelow — Korrumpiert]] |
 | **DenkerVita** | [[DenkerVita/Marco Buelow]] · [[DenkerVita/Martin Sonneborn]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Buelow_Korrumpiert_Sonneborn_Transkript.txt` · `Gedankenwelten/Transkripte/Buelow_Korruption_Volksbuehne_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Omar M. Yaghi — Die Welt retten mit Chemie?
+
+| | |
+|---|---|
+| **Video** | [Die Welt retten mit Chemie? Nobelpreisträger Omar Yaghi \| Sternstunde Philosophie \| SRF Kultur](https://www.youtube.com/watch?v=GT_5cWTzJ1g) — Gespräch mit Barbara Bleisch, 27.09.2026 (56 Min, deutsche Synchronfassung) · [englisches Original](https://youtu.be/i0Vw1pQsXRI) |
+| **Buch** | Omar M. Yaghi, Markus J. Kalmutzki, Christian S. Diercks: *Introduction to Reticular Chemistry* (Wiley, 2019) — [genialokal](https://www.genialokal.de/Suche/?q=yaghi+reticular+chemistry) |
+| **Notiz** | [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie]] |
+| **DenkerVita** | [[DenkerVita/Omar M. Yaghi]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Yaghi_Chemie_Welt_retten_Sternstunde_Transkript.txt` (YouTube-Automatikuntertitel der Synchronfassung, deutsch) |

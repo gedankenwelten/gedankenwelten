@@ -303,6 +303,11 @@ Das Format, das aus Urners Diagnose folgt — und die Probe darauf. Die HPV-Meld
 
 Die Müdigkeit des Feeds als fehlende Wegkraft: Man fühlt ständig mit und kann nichts tun. Mössner nennt 72 Prozent Nachrichtenvermeider in Deutschland und baut sich einen Reader, der „alles gelesen" sagt, eine Bastellösung für Urners Frage nach dem Handlungsweg.
 
+### → [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
+
+Ein Nobelpreisträger nennt Wissenschaft „eine Übung in Optimismus“ und beschreibt dabei, was Urner Hoffnung nennt: nach jedem gescheiterten Experiment einen neuen Weg finden.
+
+
 ---
 
 ## Weiterdenken

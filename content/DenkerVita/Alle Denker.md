@@ -576,6 +576,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## Y
 
+**[[DenkerVita/Omar M. Yaghi|Omar M. Yaghi]]** — Chemiker, Nobelpreis 2025 für die metallorganischen Gerüstverbindungen (MOFs), Sohn palästinensischer Flüchtlinge aus Amman, seit 2026 in Peking; Grundlagenforschung als zweckfreie Neugier, Wasser aus Wüstenluft, „Selektionswissenschaft“ im Zeitalter der KI
+
 **[[DenkerVita/Gabriel Yoran|Gabriel Yoran]]** — Autor & Unternehmer (Steady/Steganos/aka-aki), in Philosophie promoviert bei Graham Harman; „Verkrempelung der Welt" — warum Alltagsdinge schlechter und komplizierter werden und dennoch als Fortschritt verkauft werden
 
 **[[DenkerVita/Yonatan Zeigen|Yonatan Zeigen]]** — israelischer Friedensaktivist, Sozialarbeiter & Mediator; Sohn der am 7.10.2023 ermordeten Vivian Silver; kandidiert für die jüdisch-arabische Partei *Makom Lekulanu*; „der 7. Oktober war kein Anfang, sondern ein Ergebnis“ — Trauer ohne Rache

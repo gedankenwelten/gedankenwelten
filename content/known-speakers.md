@@ -1037,3 +1037,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Marco Bülow
 **Status:** ✓ Vollanalyse → [[DenkerVita/Marco Buelow]]
+
+## Omar M. Yaghi
+**Status:** ✓ Vollanalyse → [[DenkerVita/Omar M. Yaghi]]
