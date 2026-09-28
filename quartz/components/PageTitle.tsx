@@ -10,7 +10,7 @@ import script from "./scripts/pageTitle.inline"
 // Täglicher Wechsel (siehe pageTitle.inline.ts). Neuen Stil hinzufügen =
 // 2 Bilder ablegen + Schlüssel hier ergänzen. Ziel: Pool durch 3 teilbar
 // (passt gleichmäßig auf ~30 Tage).
-const WORDMARK_STYLES = ["klee", "sumie", "aquarell", "aether", "buntglas", "miniatur", "scherenschnitt"]
+const WORDMARK_STYLES = ["klee", "sumie", "aquarell", "aether", "buntglas", "miniatur", "scherenschnitt", "klint", "hokusai"]
 
 const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
@@ -68,6 +68,12 @@ PageTitle.css = `
 .page-title-mark.wm-aether {
   height: 3.1rem;
 }
+.page-title-mark.wm-klint {
+  height: 3.3rem;
+}
+.page-title-mark.wm-hokusai {
+  height: 3.5rem;
+}
 /* Stil-Achse: nur der aktive (per JS täglich gewählte) Stil hat wm-active.
    Theme-Achse: dark/light per CSS. Kombiniert = genau ein sichtbares Bild. */
 :root:not([saved-theme="light"]) .page-title-mark.wm-active.wm-dark {
@@ -88,6 +94,12 @@ PageTitle.css = `
   }
   .page-title-mark.wm-aether {
     height: 2.35rem;
+  }
+  .page-title-mark.wm-klint {
+    height: 2.5rem;
+  }
+  .page-title-mark.wm-hokusai {
+    height: 2.7rem;
   }
 }
 `
