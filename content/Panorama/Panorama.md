@@ -36,6 +36,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Schöner Wohnen *(wachsend)* | [[Schoener Wohnen]] | ~25 |
 | Wie kann Demokratie funktionieren? *(wachsend)* | [[Wie kann Demokratie funktionieren]] | ~50 |
 | Wie handelt eine Demokratie? *(wachsend, Ast aus „Wie kann Demokratie funktionieren?“)* | [[Wie handelt eine Demokratie]] | ~30 |
+| Forschung *(wachsend)* | [[Forschung]] | ~45 |
 | Warum wählen Menschen Autoritäre? *(wachsend)* | [[Warum waehlen Menschen Autoritaere]] | ~50 |
 | Fortschritt | [[Fortschritt]] | 29 |
 | Neoliberalismus — Was zählt | [[Neoliberalismus — Was zaehlt]] | 13 |

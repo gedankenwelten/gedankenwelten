@@ -314,3 +314,8 @@ Zu den gezielt produzierten Zweifeln kommt bei Scobel eine absichtslose Verunrei
 ### → [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
 
 Ein Nobelpreisträger, der zugleich die Firma gegründet hat, deren Wasserernter er bewirbt: Der Fall zeigt, warum „Wer bezahlt?“ auch ohne jeden Betrug zur Glaubwürdigkeit gehört. Und er plädiert für eine Grundfinanzierung, die den „Waisen der Wissenschaft“ helfen würde.
+
+### → [[Panorama/Forschung|Forschung]]
+
+Das wachsende Panorama zur Forschung: Bisphenol A, der Heidelberger Aufruf und Lewandowskys Konsens-Abwehr stehen dort bei den Fragen nach dem Geld und nach dem Vertrauen.
+
