@@ -160,6 +160,10 @@ Was Flemig dabei nicht explizit sagt, aber implizit zeigt: Die Zeitenwende ist k
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
+
+Die Warnung zu diesem Boom: Europa solle nicht noch einmal glauben, es könne seine Wirtschaft mit Waffen in Gang setzen. Am japanischen Beispiel zeigt sie, dass Aufrüstung zudem die Abhängigkeit von chinesischen Seltenen Erden wieder erhöht.
+
 ### → [[Konstantin Flemig — Russlands Katastrophen-Monat]]
 
 Die Kehrseite derselben Medaille: Während Russlands Ölverarbeitung und Rekrutierung kollabieren, skaliert Deutschland die Munitionsproduktion. Der Krieg als Frage industrieller Durchhaltefähigkeit — wer die Produktion verliert, verliert die Front.

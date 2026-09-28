@@ -199,6 +199,10 @@ Menschenrechte? „Interessiert Trump nicht und interessiert natürlich China ni
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
+
+Nach dem Gegenbesuch in Washington dosiert die Sinologin den Hebel, den diese Runde Chinas stärkste Waffe nannte: Peking liefert Seltene Erden gerade so, dass der Gegner nicht mit aller Kraft aufholt — und die Abhängigkeit war eine westliche Wahl.
+
 ### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
 
 Dieselbe Konstellation, von einer Sinologin analytisch durchgerechnet statt am Panel-Tisch kommentiert — und mit Frank Sieren als personeller Brücke: Sein Rat, weniger zu fragen was China mit der Welt macht als wie China sich selbst versteht, ist der Ausgangspunkt ihres ganzen Gesprächs. Taiwan taucht in beiden Notes als Verhandlungschip auf. Auseinander gehen sie bei der Deutung derselben chinesischen Gelassenheit: Hier liest die Runde eine selbstbewusste Macht mit langem Atem und zweiundzwanzig Jahrhunderten im Rücken; Weigelin-Schwiedrzik dreht die Ruhe um und findet dahinter eine Führung, die Öl hortet, Worst-Case-Szenarien ins Fernsehen sendet und den Kontrollverlust im eigenen Land fürchtet. Derselbe Xi, einmal von der Stärke und einmal von der Schwäche her gelesen.

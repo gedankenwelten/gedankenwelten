@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **29.09.** — [[Zeitgeist/Susanne Weigelin-Schwiedrzik — China in den Krieg treiben|Susanne Weigelin-Schwiedrzik — Amerikas Plan, China in den Krieg zu treiben]]
+>
+> Zwei Supermächte lächeln in Washington und rüsten dahinter für einen Konflikt, den keine überleben würde. Seltene Erden gegen Chips, Beiboot Europa.
+
+> **27.09.** — [[Zeitgeist/Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]]
+>
+> Siebzehn Tage vor dem Wahlsieg sagt Elif Eralp bei Tilo Jung, was sie will, und verweigert die eine Zahl, an der man sie messen könnte. Ein Protokoll des Versprechens, bevor es Macht wird.
+
+> **27.09.** — [[Zeitgeist/Der Entscheidende Punkt — Nach den Landtagswahlen|Der Entscheidende Punkt — Nach den Landtagswahlen]]
+>
+> Am Tag nach der Wahl findet eine Runde von Journalisten für AfD und Linke dasselbe Wort: Hoffnung. Was wird aus Menschen, die sich lange nicht gehört fühlten, wenn sie gehört werden wollen?
+
+> **27.09.** — [[Zeitgeist/Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
+>
+> Korruption kommt selten mit dem Geldkoffer. Neunzehn Jahre Bundestag, erzählt von einem, der das Spiel kennengelernt, fast mitgespielt und dann benannt hat, kurz bevor er starb.
+
+> **27.09.** — [[Zeitgeist/Ardalan Ibrahim — Die Partei fuer Losdemokratie|Ardalan Ibrahim — Die Partei für Losdemokratie]]
+>
+> Ein Parteigründer will die Macht dem Los anvertrauen, das Eigentum soll bleiben, wo es ist. Vier Stunden Jung & Naiv über Aristokratie, Hinterzimmer und eine Demokratie, die es seiner Meinung nach nie gab.
+
+> → *2 weitere in* [[Zeitgeist]]
+
 ### Denker
 
 > **28.09.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
@@ -54,10 +78,6 @@ Die Gedankenwelten (luc)
 >
 > Wer richtig liegt, weiß deshalb noch nichts: Wissen ist wahre Überzeugung, die nicht vom Zufall lebt — und wer Irrtum für möglich hält, ist darum noch lange kein Skeptiker.
 
-> **21.09.** — [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
->
-> Der Feed kennt keinen Unterschied zwischen Liebe und Hass, nur Verweildauer. Er verstärkt ein altes Gefühl, das einmal Gruppen zusammenhielt, und macht uns dabei müde.
-
 ### Panorama
 
 > **28.09.** — [[Panorama/Forschung|Forschung]]
@@ -81,30 +101,6 @@ Die Gedankenwelten (luc)
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Fünf offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
 > → *1 weitere in* [[Panorama]]
-
-### Zeitgeist
-
-> **27.09.** — [[Zeitgeist/Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]]
->
-> Siebzehn Tage vor dem Wahlsieg sagt Elif Eralp bei Tilo Jung, was sie will, und verweigert die eine Zahl, an der man sie messen könnte. Ein Protokoll des Versprechens, bevor es Macht wird.
-
-> **27.09.** — [[Zeitgeist/Der Entscheidende Punkt — Nach den Landtagswahlen|Der Entscheidende Punkt — Nach den Landtagswahlen]]
->
-> Am Tag nach der Wahl findet eine Runde von Journalisten für AfD und Linke dasselbe Wort: Hoffnung. Was wird aus Menschen, die sich lange nicht gehört fühlten, wenn sie gehört werden wollen?
-
-> **27.09.** — [[Zeitgeist/Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
->
-> Korruption kommt selten mit dem Geldkoffer. Neunzehn Jahre Bundestag, erzählt von einem, der das Spiel kennengelernt, fast mitgespielt und dann benannt hat, kurz bevor er starb.
-
-> **27.09.** — [[Zeitgeist/Ardalan Ibrahim — Die Partei fuer Losdemokratie|Ardalan Ibrahim — Die Partei für Losdemokratie]]
->
-> Ein Parteigründer will die Macht dem Los anvertrauen, das Eigentum soll bleiben, wo es ist. Vier Stunden Jung & Naiv über Aristokratie, Hinterzimmer und eine Demokratie, die es seiner Meinung nach nie gab.
-
-> **26.09.** — [[Zeitgeist/Mark Benecke — Zu Besuch in der Drogenhilfe Halle|Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
->
-> Spritzentausch eins zu eins, ein Streetworker für eine ganze Großstadt: wie Schadensminderung aussieht, wenn das Geld jedes Jahr neu erkämpft werden muss.
-
-> → *1 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

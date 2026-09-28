@@ -282,6 +282,10 @@ Orains Buch hat außerhalb Frankreichs zwei Rezensenten von Gewicht gefunden, un
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
+
+Grönland und die militarisierten Seewege als Teil eines amerikanischen Plans aus Stellvertretern, Nadelöhren und Autarkie. Wo Orain Trumps Zugriff als Rückzug schlechter Verlierer liest, rekonstruiert sie eine Einhegungsstrategie und empfiehlt Europa industrielle Breite.
+
 ### → [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
 
 Die Endlichkeitsthese in chinesischer Buchführung. Orain erkennt die dritte Phase an militarisierten Meeren, Zöllen und Landnahme; Weigelin-Schwiedrzik erzählt, warum ein Staat, dessen Öl durch Malakka fließt und dessen Meerengen ein anderer kontrolliert, Milliarden in Gleise legt, die im Kriegsfall halten — der Warenverkehr zwischen Iran und China lief über die Schiene weiter, nachdem Israel die Bahnlinien bombardiert hatte. Die Seidenstraße wird so zur Versicherung gegen die Verknappung der Wege. Beim Ursprung der Wende widersprechen sie sich scharf: Orain leitet sie aus der Weltlage ab, sie aus chinesischer Innenpolitik — Export trägt die Binnenwirtschaft, die Binnenwirtschaft die Stabilität, die Stabilität die Partei. Und ihr Eingeständnis, dass 2013 auch in Peking noch niemand die eigene Strategie kannte, entzieht dem Pendel den Akteur.

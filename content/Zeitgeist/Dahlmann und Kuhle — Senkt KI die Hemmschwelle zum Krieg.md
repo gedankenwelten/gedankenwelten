@@ -184,6 +184,10 @@ Sein Szenario für 2030, falls Regulierung ausbleibt: Krieg und politische Veran
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
+
+Die Sinologin gründet den Frieden zwischen USA und China auf die Angst vor gegenseitiger Vernichtung und erwähnt nebenbei KI-gesteuerte Zweit- und Drittschläge. Genau dort setzt diese Debatte an: Was bleibt von der Abschreckung, wenn die Maschine die Schwelle senkt?
+
 ### → [[Adam Tooze — Pentagon vs. Anthropic]]
 
 Beide fragen, wer die Kontrolle über militärische KI behält — Tooze aus der Machtperspektive (Pentagon vs. Anthropic), Dahlmann/Kuhle aus der Verantwortungsperspektive. Diese Note nennt Anthropic/Claude selbst als mutmaßlichen Akteur (Maduro-Festnahme); Tooze liefert das strukturelle Ringen dahinter.

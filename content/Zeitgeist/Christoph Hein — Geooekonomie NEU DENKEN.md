@@ -264,6 +264,10 @@ Göpel differenziert scharf zwischen zwei Arten von „Bürokratie":
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
+
+Sie beschreibt Chinas Weg als „Häfen statt Stützpunkte", Heins Hambantota-Befund spricht dagegen. Sein Bündnis der Mittelmächte mit Japan, Australien und Indien ist genau das, was China laut ihr verhindern muss; ihr Gegenbild für Europa ist das Beiboot, das Verbindung zu allen Großen hält.
+
 ### → [[Martin Oetting — Happy Planet Index 2026]]
 
 Die produktive Gegenposition: Wo Hein Wirtschaft als Machtwaffe im multipolaren Ringen misst, steht die geoökonomisch dominante USA im Happy Planet Index 2026 auf Platz 105 — Stärke, die nicht in Lebensqualität umschlägt.
