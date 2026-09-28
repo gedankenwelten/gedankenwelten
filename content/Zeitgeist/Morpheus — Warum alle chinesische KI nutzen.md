@@ -246,6 +246,10 @@ KI-Modelle lesen täglich Verträge in Anwaltskanzleien, Patientenakten in Krank
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
+
+Die geopolitische Lesart zur Technik hier: Chinas offene Modelle als risikobewusste Wette auf breite Anwendung gegen Amerikas Wette auf die Superintelligenz. Ihre These, Sanktionen erzeugten Konkurrenten, findet in MoE und Effizienz ihre Anschauung; die Destillation relativiert sie.
+
 ### → [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]]
 
 Morpheus zeigt empirisch, was Kaltheuner theoretisch fordert: China setzt staatlich gesteuerte Industriepolitik im KI-Bereich gezielt ein ("Commoditize your complement"). Der Vergleich macht deutlich, wie weit Europa von einer kohärenten Marktstrategie entfernt ist — und warum die Frage nicht "ob Industriepolitik", sondern "welche" ist.

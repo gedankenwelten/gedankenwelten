@@ -107,3 +107,4 @@ Zur Ukraine bezieht sie eine im deutschsprachigen Diskurs unpopuläre Position (
 ## Gedankenwelten-Notes
 
 - [[Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt]]
+- [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]] — Seltene Erden gegen Chips, Amerikas Einhegung und das „heimliche Einverständnis“ der Atommächte; Europa als Beiboot (Sept. 2026)

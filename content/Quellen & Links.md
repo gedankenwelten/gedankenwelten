@@ -276,6 +276,15 @@ tags:
 | **Vita** | [[DenkerVita/Alexander Thiele]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Thiele_Rechtspopulismus_Transkript.txt` |
 
+## Susanne Weigelin-Schwiedrzik — Amerikas Plan, China in den Krieg zu treiben
+
+| | |
+|---|---|
+| **Primärquelle** | [Amerikas Plan, China in den Krieg zu treiben](https://www.youtube.com/watch?v=NuZxGgn9ALU) (*Thema des Tages*, DER STANDARD, 28.09.2026, 1:24:30 — Moderation Zsolt Wilhelm, Produktion Emily Melzer) |
+| **Buch** | Susanne Weigelin-Schwiedrzik: *China und die Neuordnung der Welt* (Brandstätter, Neuauflage 2026) → [Verlag](https://www.brandstaetterverlag.com/buch/china-und-die-neuordnung-der-welt/) · [genialokal](https://www.genialokal.de/Suche/?q=weigelin-schwiedrzik+china+neuordnung+welt) |
+| **Notiz** | [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]] · [[DenkerVita/Susanne Weigelin-Schwiedrzik]] |
+| **Transkript** | `Gedankenwelten/Transkripte/WeigelinSchwiedrzik_USA_China_Krieg_Transkript.txt` (deutsch, Automatikuntertitel) |
+
 ## Susanne Weigelin-Schwiedrzik — Chinas Neuordnung der Welt
 
 | | |

@@ -179,6 +179,10 @@ Beide haben recht — auf verschiedenen Ebenen:
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
+
+Die Gegenthese zur gescheiterten nuklearen Geiselnahme: Zwischen den Großmächten gelte seit der Kubakrise ein „heimliches Einverständnis", nicht direkt gegeneinander Krieg zu führen. Sie spricht über Atommächte untereinander, Münkler über Atommacht gegen Nichtatommacht.
+
 ### → [[WDR Europaforum — Out of order Voelkerrecht]]
 
 Die Bruchlinie zwischen deskriptiver Machtlogik und normativem Anspruch: Münklers Realpolitik ist genau die Denkfigur, die Kaleck als „Carl-Schmitt-mäßige Machtfantasie“ der Feuilletons angreift — Ambos insistiert auf dem Gewaltverbot als hartem Recht.

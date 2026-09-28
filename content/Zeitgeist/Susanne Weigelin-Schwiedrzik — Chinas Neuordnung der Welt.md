@@ -247,6 +247,10 @@ Ihr Schlussbild ordnet Europa neu ein, und zwar nach unten: [▶ 78:00](https://
 
 ## Verbindungen
 
+### → [[Susanne Weigelin-Schwiedrzik — China in den Krieg treiben]]
+
+Die Fortsetzung drei Monate später, diesmal vom amerikanischen Plan her gelesen. Die Chokepoints von hier werden dort zur Zange aus Grönland und Malakka, Japan wird zum Stellvertreter, und der „vierte Akteur" Europa schrumpft zum Beiboot.
+
 ### → [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|auslandsjournal — Putins Zielscheibe Europa]]
 
 Der Praxisfall für ihre These. Am Tisch der ZDF-Runde stehen beide China-Lesarten nebeneinander: Theveßen sieht in Bischkek die geschlossene Autokratenfront und China als lachenden Dritten, Eigendorf hält dagegen, Peking habe kein Interesse an einer untergehenden russischen Wirtschaft. Weigelin-Schwiedrzik gibt der zweiten Position ihr Fundament. Und ihre unbequemste Empfehlung — Europa solle aufhören, Großmacht spielen zu wollen — trifft dort genau auf die Schlagzeile „Die Europäer finden ihr Rückgrat".
