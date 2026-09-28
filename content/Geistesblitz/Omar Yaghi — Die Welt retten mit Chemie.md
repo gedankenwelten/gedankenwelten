@@ -72,7 +72,7 @@ Dann kommen die großen Zahlen. Bleisch nennt 2,2 Milliarden Menschen ohne siche
 
 Hier gehört der Beipackzettel hin. Yaghi spricht an dieser Stelle auch als Gründer und wissenschaftlicher Leiter von Atoco, der Firma, die diese Geräte baut; die tausend Liter stehen bisher in Interviews und Firmenmitteilungen, in keinem begutachteten Paper. Zwischen dem Drittel Tasse im Film und tausend Litern am Tag liegt Ingenieursarbeit, die Yaghi als *„nur noch eine Frage der technischen Umsetzung"* abtut. [▶ 21:22](https://www.youtube.com/watch?v=GT_5cWTzJ1g&t=1282) Bleisch hakt an der richtigen Stelle nach: Wer bezahlt, wenn die Entwicklungshilfe weltweit gekürzt wird? Yaghi antwortet mit Skalierung und einem *„gut finanzierten Startup"* und lässt ihre Frage damit liegen. Die großen Literzahlen hängen an Abwärme, und die fällt vor allem in Industrieanlagen und Rechenzentren an. Dazu kommt ein Befund, der im Gespräch fehlt: Zwei Drittel der Menschen ohne sicheres Trinkwasser leben in den feuchten Tropen, weit weg von jeder Wüste ([Lord et al., *Nature* 2021](https://doi.org/10.1038/s41586-021-03900-w)); ihr Problem ist sauberes Wasser, selten trockene Luft. Seine eigene Liste der Einsatzorte endet folgerichtig bei Landwirtschaft, Reinigung und der Kühlung von Rechenzentren. Das Prinzip ist echt und im Feld erprobt, begutachtet allerdings im Maßstab von 0,1 bis 1,3 Litern pro Kilogramm MOF und Tag ([Hanikel et al., *ACS Central Science* 2019](https://doi.org/10.1021/acscentsci.9b00745)); die Container hat noch niemand unabhängig vermessen. Ob sie die Menschen erreicht, die an der Wasserstelle anstehen, entscheidet der Preis, und über den fiel an diesem Abend kein Wort. (→ [[#Faktencheck]])
 
-### „Ganz und gar nicht" — die Kanister und die schönen Moleküle
+### Ganz und gar nicht — die Kanister und die schönen Moleküle
 
 [▶ 22:53](https://www.youtube.com/watch?v=GT_5cWTzJ1g&t=1373) — Noch bevor Bleisch ihn danach fragt, räumt Yaghi etwas ein: Zu Beginn habe ihn ausschließlich interessiert, schöne Moleküle und schöne Strukturen zu erschaffen. Gesellschaftliche Probleme zu lösen, war nicht der Plan.
 
@@ -87,7 +87,7 @@ Das ist der ehrlichste Moment des Gesprächs. Medien lieben den geschlossenen Kr
 > [!question] Weitergedacht
 > Wenn der Nutzen gerade dort entsteht, wo niemand ihn sucht — *wie soll eine Gesellschaft dann entscheiden, welche zweckfreie Neugier sie bezahlt und welche nicht?*
 
-### „Das ist nicht mein Bereich"
+### Das ist nicht mein Bereich
 
 [▶ 27:27](https://www.youtube.com/watch?v=GT_5cWTzJ1g&t=1647) — Die zweite Anwendung ist der CO₂-Fänger. Dafür nimmt Yaghi eine verwandte Materialklasse, die COFs (*covalent organic frameworks*), Gerüste ohne Metall, nur aus Kohlenstoffbindungen, robust wie Diamant. In ihre Poren bauen Chemiker Bausteine ein, die nur CO₂ binden. Die Aufgabe ist heikel: Jedes CO₂-Molekül in der Luft muss aus rund 2.500 anderen herausgefischt werden. Bleisch warnt vor dem technischen Schnellschuss — Staubsauger hin, alles paletti — und kommt auf die Politik: Solange Emissionen nichts kosten, rechnet sich das Absaugen nicht; es brauche das Verursacherprinzip. Müsse er sich nicht doch für Politik interessieren? [▶ 29:48](https://www.youtube.com/watch?v=GT_5cWTzJ1g&t=1788) *„Nein, ich bin Wissenschaftler."* Er verweist auf Hunderte Tonnen MOF, die heute für Zementwerke in Kanada hergestellt würden. Gemeint sein dürfte CALF-20, ein MOF, das an der Universität Calgary ohne ihn entstand; BASF stellt es in South Carolina für die kanadische Firma Svante her, im Zementwerk Richmond läuft damit bislang eine Pilotanlage mit rund einer Tonne CO₂ am Tag *(Faktencheck: vereinfacht)*. Und es fängt Abgas; CO₂ aus der Umgebungsluft zu holen, ist um ein Vielfaches schwerer. Bleisch fragt ein drittes Mal, ob ihn das nicht frustriere.
 
@@ -150,6 +150,45 @@ Das ist der modernste Gedanke der Stunde, und er bekommt kaum zwei Minuten. Die 
 
 > [!note] Eigene Einschätzung
 > Das Gespräch lebt von einer produktiven Reibung. Bleisch will Sinn, Yaghi liefert Struktur. Sie sucht die Verbindung zwischen Leben und Werk, er schneidet sie ab und lässt sie an anderer Stelle doch sichtbar werden: in den geputzten Gläsern, in der Flucht in die Zeichnungen, in der Pore, die immer gleich groß ist. Gerade weil er sich der Heilsgeschichte verweigert, glaubt man ihm die Freude, mit der er den Wasserfilm anschaut. Nur bei den Zahlen zu seinen eigenen Geräten spricht der Forscher mit der Zuversicht dessen, der sie verkaufen will — und dort sollte man mit dem Zweifel des Doktorvaters zuhören.
+
+---
+
+## Nachbesprechung
+
+*Die Sendung ist nach 56 Minuten zu Ende, zwei ihrer Fragen noch nicht: was an Yaghis Wasserversprechen heute tatsächlich greifbar ist, und was man über die Linie weiß, die er zwischen Labor und Gesellschaft zieht.*
+
+### Wasser aus der Luft — was es an Zahlen gibt
+
+„Bis Ende dieses Jahres marktreif“, sagte Yaghi, die Produktionszentren stünden. Wer daraufhin nach Zahlen sucht, findet welche, nur die entscheidenden fehlen. Atoco nennt Kapazitäten: einen 20-Fuß-Container, der mit Strom 2.000 bis 4.000 Liter am Tag liefern soll, einen passiven, der mit einem Temperaturunterschied von sieben Grad oder Abwärme ab 50 °C bis zu 1.000 Liter schafft, und kleinere Einheiten mit 150 Litern ([AgNavigator, Januar 2026](https://www.agnavigator.com/Article/2026/01/21/atoco-targets-commercial-rollout-of-atmospheric-water-harvesting-tech-following-nobel-prize/); [AIChE ChEnected](https://chenected.aiche.org/2025/12/atmospheric-water-harvesting-path-toward-global-water-security)). Zu keiner dieser Zahlen stehen Luftfeuchte und Temperatur dabei, es gibt keinen Energiebedarf pro Liter, keinen Gerätepreis, keinen namentlich genannten Kunden und keine unabhängige Messung. Im Mai nahm die Firma laut Bloomberg noch keine Bestellungen an; für 2027 plant sie den Bau von 200 Geräten, gefertigt in Irvine, Kalifornien ([Bloomberg via mining.com, Mai 2026](https://www.mining.com/web/a-startup-confronts-water-shortages-by-pulling-it-out-of-the-air/)). „Marktreif“ heißt demnach: eine Vorserie und die ersten Pilotkunden.
+
+Die einzige Preisangabe stammt von Atoco selbst: Das Wasser solle „ein paar Cent pro Liter“ kosten, grob 20 bis 50 Dollar je Kubikmeter. Daneben gelegt ergibt das eine ernüchternde Reihe:
+
+| Wasser aus … | Kosten je m³ |
+|---|---|
+| Meerwasserentsalzung am Golf (Rekord Hassyan, Dubai) | 0,31 $ |
+| Jordaniens neuer Nationaler Wasserträger, inkl. 450 km Leitung | ca. 2,7 $ |
+| Tankwagen im Flüchtlingslager (Itang, Äthiopien, 2014) | 11,38 $ ([doi:10.2166/washdev.2024.150](https://doi.org/10.2166/washdev.2024.150)) |
+| Atocos Zielpreis | ca. 20–50 $ |
+
+Die Physik erklärt den Abstand. Wer Wasser mit Wärme aus einem Sorbens treibt, muss mindestens die Verdampfungswärme aufbringen, gut 0,6 Kilowattstunden je Liter; eine Entsalzungsanlage braucht drei bis vier Wattstunden. Das thermodynamische Minimum für Wasser aus sehr trockener Luft liegt über dem 250-Fachen dessen, was Entsalzung mindestens kostet ([Rao, Warsinger et al. 2022, doi:10.1039/d2ee01071b](https://doi.org/10.1039/d2ee01071b)). Darum setzt Atoco auf Abwärme, und darum sieht ein aktueller Übersichtsartikel den Wert der Technik vor allem beim Reinstwasser für Halbleiterwerke und Rechenzentren; das ehrgeizige Kostenziel der DARPA von rund zwei Dollar je Kubikmeter ist noch weit entfernt ([Fu, Elimelech et al. 2026, doi:10.1002/wat2.70086](https://doi.org/10.1002/wat2.70086), Review). Dass der Schritt vom eindrucksvollen Prototyp zum haltbaren Feldgerät teuer werden kann, zeigt SOURCE Global: Rund 270 Millionen Dollar Kapital, Solarpaneele mit zwei bis fünf Litern am Tag, in Allensworth, Kalifornien, nach zwei Jahren viele defekt, seit 2025 ist die Firma faktisch am Ende ([SJV Water 2024](https://sjvwater.org/allensworth-residents-feel-abandoned-by-company-that-makes-water-out-of-thin-air/); [dww.show](https://dww.show/source-global-failure/)).
+
+Die Technik hat trotzdem ihren Platz, und der Yin-Yang-Blick gehört dazu. Wo keine Leitung hinführt, auf Inseln, nach Katastrophen, in Krisen, zählt kein Kubikmeterpreis; seit am Golf Entsalzungsanlagen zu militärischen Zielen geworden sind, ist das Interesse gewachsen. Eine Modellstudie hält solargetriebene Geräte grundsätzlich für geeignet, eine Milliarde Menschen mit fünf Litern Trinkwasser am Tag zu versorgen ([Lord et al. 2021, doi:10.1038/s41586-021-03900-w](https://doi.org/10.1038/s41586-021-03900-w); finanziert von Alphabets X, mehrere Autoren halten Patente auf solche Geräte).
+
+Und der Junge mit den Kanistern? In Amman wird seit 1987 rationiert; viele Haushalte bekommen ihr Leitungswasser bis heute einmal die Woche, wie in Yaghis Kindheit. Jordanien, eines der wasserärmsten Länder der Erde mit weniger als 60 Kubikmetern je Kopf und Jahr, hat im April 2026 seine Antwort unterschrieben: eine Entsalzungsanlage in Aqaba und eine Leitung über 450 Kilometer und 1.100 Höhenmeter nach Amman, 4,3 Milliarden Dollar, Betrieb ab etwa 2030, danach Wasser an bis zu drei Tagen pro Woche ([Smart Water Magazine, April 2026](https://smartwatermagazine.com/news/smart-water-magazine/jordan-signs-final-agreement-43-billion-national-water-carrier-targets)). Das Land seiner Kindheit setzt auf das Meer.
+
+→ Weiter im Panorama: **[[Forschung#Wer bezahlt die Forschung — und wofür muss sie gut sein?|Wer bezahlt die Forschung — und wofür muss sie gut sein?]]**, mit Flexners Essay, den Daten zum Ertrag der Grundlagenforschung und dem, was Geldgeber mitkaufen.
+
+### Nicht mein Bereich — was man über die Verantwortung der Forschung weiß
+
+Yaghi beruft sich, ohne ihn zu nennen, auf Max Weber. Weber ist allerdings strenger mit ihm, als es klingt. Die Wissenschaft, schreibt er 1919, könne die Frage „Was sollen wir tun?“ nicht beantworten, wohl aber „Klarheit“ schaffen: über den Zweck, die „unvermeidlichen Mittel“ und die Folgen, damit sich jeder „Rechenschaft“ geben könne ([Wissenschaft als Beruf, Deutsches Textarchiv](https://www.deutschestextarchiv.de/book/show/weber_wissenschaft_1919)). Die Rechenschaft über die Folgen gehört also zum Beruf. Die Wissenschaftsphilosophin Heather Douglas geht weiter: Weil jeder Befund ein Irrtumsrisiko trägt, entscheiden Forschende ständig mit, welcher Irrtum schlimmer wäre, und damit sind Werte schon im Labor am Werk ([Douglas 2000, doi:10.1086/392855](https://doi.org/10.1086/392855)).
+
+Die Geschichte kennt beide Haltungen. Fritz Haber erfand die Ammoniaksynthese und leitete 1915 bei Ypern den ersten Chlorgasangriff. 1945 baten James Franck, Leo Szilard und andere, die Bombe vor Zeugen auf einer unbewohnten Insel vorzuführen, statt sie auf eine Stadt zu werfen, vergeblich; Joseph Rotblat verließ als einziger das Manhattan-Projekt aus Gewissensgründen und bekam 1995 den Friedensnobelpreis für die Pugwash-Bewegung. 1975 legten Molekularbiologen in Asilomar ihrer eigenen Gentechnik ein Moratorium auf. Sie alle wussten etwas, das die Gesellschaft noch nicht wissen konnte. Genau das ist das Dilemma, das David Collingridge 1980 beschrieb: Solange eine Technik jung ist, kennt man ihre Folgen nicht; wenn man sie kennt, lässt sie sich kaum noch steuern. In der frühen Phase weiß der Erfinder am meisten.
+
+Und was erwartet die Öffentlichkeit? In einer Befragung in 68 Ländern wollen 83 Prozent, dass Forschende mit der Öffentlichkeit sprechen, 52 Prozent, dass sie sich aktiv an der Politik beteiligen; nur 23 Prozent lehnen politische Empfehlungen ab ([Cologna et al. 2025, doi:10.1038/s41562-024-02090-5](https://doi.org/10.1038/s41562-024-02090-5)). In Deutschland wünschen sich 70 Prozent, dass Forschende sich einmischen, wenn Fakten verzerrt werden ([Wissenschaftsbarometer 2025](https://wissenschaft-im-dialog.de/projekte/wissenschaftsbarometer/)). Das kostet ihre Glaubwürdigkeit meist wenig ([Kotcher et al. 2017, doi:10.1080/17524032.2016.1275736](https://doi.org/10.1080/17524032.2016.1275736)); eine Wahlempfehlung der Zeitschrift *Nature* dagegen senkte bei den Anhängern der Gegenseite das Vertrauen in die Wissenschaft insgesamt ([Zhang 2023, doi:10.1038/s41562-023-01537-5](https://doi.org/10.1038/s41562-023-01537-5)). Einordnen wird gewünscht, Parteinahme wird bestraft.
+
+Yaghis eigene Lage bildet diese Forschung kaum ab. Er ist Wissenschaftler und Gründer in einer Person, und genau diese Doppelrolle ist empirisch kaum untersucht. Was die Leute von ihr halten, zeigt eine andere Zahl: Der häufigste Grund, Forschenden zu misstrauen, ist in Deutschland ihre Abhängigkeit von Geldgebern, 54 Prozent nennen ihn ([Wissenschaftsbarometer 2023](https://wissenschaft-im-dialog.de/documents/47/WiD-Wissenschaftsbarometer2023_Broschuere_web.pdf)).
+
+→ Weiter im Panorama: **[[Forschung#Wofür ist Forschung verantwortlich?|Wofür ist Forschung verantwortlich?]]**, mit Weber, Haber, Rotblat und den Stimmen des Bestands, die zwischen Labor und Gesellschaft verschieden ziehen.
 
 ---
 
@@ -220,6 +259,10 @@ Das ist der modernste Gedanke der Stunde, und er bekommt kaum zwei Minuten. Die 
 ---
 
 ## Verbindungen
+
+### → [[Panorama/Forschung|Forschung]]
+
+Das Panorama, in das die Nachbesprechung dieser Note führt. Dort steht Yaghis „nicht mein Bereich“ neben Weber, Haber und Rotblat und neben den Stimmen des Bestands, zu vier Fragen: Verantwortung, Geld, Vertrauen und die KI im Labor.
 
 ### → [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
 

@@ -258,6 +258,10 @@ Scobels Frage, ob eine KI weiß, ob sie etwas gefunden oder erfunden hat, ist da
 
 Ein Chemiker beschreibt aus dem Labor, was Wilholt begrifflich fasst: wiederholen, bevor man etwas einen Fakt nennt, und ein Zweifel, der nicht in Skepsis kippt. Dazu der Fall eines Forschers, dessen Zahlen man mit Blick auf sein Firmeninteresse lesen muss.
 
+### → [[Panorama/Forschung|Forschung]]
+
+Das wachsende Panorama zur Forschung: Wilholts Fallibilismus steht dort bei der Frage, wie viel man der Wissenschaft glauben darf, seine Kernthesen zur Forschungsfreiheit bei der Verantwortung.
+
 
 ---
 

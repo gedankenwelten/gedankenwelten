@@ -2,7 +2,7 @@
 title: "Das Glück des Schmieds"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-09-26
+aktualisiert: 2026-09-28
 description: "Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft."
 panorama-art: wachsend
 tags:
@@ -114,15 +114,16 @@ Wo man anfängt, entscheidet trotzdem viel. Nach einer unsicheren Schätzung der
 
 - **Luc**, im Gespräch: Handlungsmacht ist kein Ort, sondern eine Abfolge. Zuerst kommt der eigene Entschluss, zu wissen, was man will; für die Umsetzung zählen dann Netzwerk, Geld, Staat und Zufall. *„Zufall wird Wahrscheinlichkeit mit Ziel und Handlung.“*
 - **[[Lukas Baerfuss — Die Fesseln der eigenen Herkunft#Das Glück, das kein Verdienst ist|Lukas Bärfuss]]:** Vom Obdachlosen zum Büchner-Preisträger, und doch: *„Ich würde nicht behaupten, dass das alles durch meinen Willen und durch meine Kraft geschehen ist. Überhaupt nicht.“*
+- **[[Omar Yaghi — Die Welt retten mit Chemie#Trauben und Käse am Zoll|Omar Yaghi]]:** Vom Flüchtlingsraum in Amman zum Nobelpreis, und seine Lehre ist die Gegenrede zu Bärfuss: *„Man kriegt nichts geschenkt, aber das stärkt die Resilienz und letztlich zahlt sich die harte Arbeit aus.“* In seiner Erzählung treten dann doch auffallend viele Helfer auf.
 - **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Michael Hartmann]]:** Nicht Geschlecht oder Migrationshintergrund sollten über Quoten entscheiden, sondern die soziale Herkunft; wer mit Migrationsgeschichte oben ankommt, ist fast immer Akademikerkind.
 - **[[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus#Das blockierte Leben|Carolin Amlinger]]:** Eine Karriere, die für das Aufstiegsversprechen steht, und doch das Gefühl, *„im Leben fundamental blockiert zu sein“*.
-- **[[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten#Soziale Durchlässigkeit — die erste Generation ohne Aufstiegsversprechen|Petersdorff und Seydack]]:** Die Jahrzehnte der Leichtigkeit waren Jahrzehnte der Durchlässigkeit; jetzt kommt die erste Generation, die es nicht besser haben wird als die Eltern.
 - **[[Tiana Travels — Das amerikanische Betriebssystem#Temporarily Embarrassed Millionaires|Tiana Travels]]:** Wer sich als vorübergehend zurückgefallen sieht, als *temporarily embarrassed millionaire*, schützt die Reichen vorsorglich.
 - **[[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Die Falle — Warum niemand rauskommt|Die Neuen Zwanziger]]:** Mit Markovits: *„Das größte Opfer der meritokratischen Klasse ist die meritokratische Klasse selber.“*
 - **[[Goetz Aly — Teufelspakt zwischen Volk und Fuehrung#Die junge Generation — Aufstieg ohne Zukunft|Götz Aly]]:** Weimar verdreifachte die Zahl der Abiturienten, dann brach die Wirtschaft zusammen; aus der enttäuschten Aufsteigergeneration kamen die Funktionäre der NSDAP.
 
-<details><summary>Weitere Stimmen (1)</summary>
+<details><summary>Weitere Stimmen (2)</summary>
 
+- **[[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten#Soziale Durchlässigkeit — die erste Generation ohne Aufstiegsversprechen|Petersdorff und Seydack]]:** Die Jahrzehnte der Leichtigkeit waren Jahrzehnte der Durchlässigkeit; jetzt kommt die erste Generation, die es nicht besser haben wird als die Eltern.
 - **[[ARTE Re — Wenn Arbeiter Chefs werden#Mehr arbeiten für das gleiche Geld|ARTE Re]]:** Marilyn wird die 56. Anteilseignerin ihrer Genossenschaft, sie verdient den Mindestlohn und strahlt: Arbeit, die einem mitgehört.
 
 </details>
@@ -138,6 +139,7 @@ Wo man anfängt, entscheidet trotzdem viel. Nach einer unsicheren Schätzung der
 |---|---|---|
 | 26.09.2026 | [[Herfried Muenkler — Die Sehnsucht nach Ordnung#Der Aufzug und der Schmied|Herfried Münkler — Die Sehnsucht nach Ordnung]] | Der Aufzug, das Sprichwort und Merz' Appell · Anstoß zu diesem Panorama |
 | 26.09.2026 | Gespräch (Luc) | Handlungsmacht als Abfolge: erst der Entschluss, dann die Werkzeuge |
+| 28.09.2026 | [[Omar Yaghi — Die Welt retten mit Chemie#Trauben und Käse am Zoll|Omar Yaghi — Die Welt retten mit Chemie?]] | Der amerikanische Traum aus Gewinnersicht, als Gegenstimme zu Bärfuss |
 
 ---
 
