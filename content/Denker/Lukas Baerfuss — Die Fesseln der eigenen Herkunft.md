@@ -337,6 +337,11 @@ Bärfuss sagt, wer keine Ahnengalerie hat, habe dafür lebendige Erinnerung — 
 
 Ricœur benutzt lieber das Wort *Erbe* als *Tradition*, weil ein Erbe eine Schuld erzeugt, die man nur bezahlt, indem man es fruchtbar macht. Die Bananenschachtel ist der Grenzfall dazu: Was tut man mit einem Erbe, das nur aus Schulden besteht? Und Bärfuss' Weigerung, das eigene Leben als Heldenreise zu erzählen, ist narrative Identität in ihrer schärfsten Form — dieselbe Geschichte immer wieder neu fassen dürfen, gerade gegen die Fassung, die andere für einen bereithalten.
 
+### → [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
+
+Ein zweiter Aufsteiger bei Barbara Bleisch, der die schöne Deutung ablehnt (Kindheit an der Wasserstelle, darum Wasser aus der Luft). Anders als Bärfuss erzählt er seinen Weg dann aber doch als Lohn harter Arbeit.
+
+
 ---
 
 ## Weiterdenken

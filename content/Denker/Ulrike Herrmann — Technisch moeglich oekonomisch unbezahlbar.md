@@ -366,6 +366,11 @@ Eine deflationäre Stimme, die dieser Spur guttut, weil sie deren Prämisse angr
 
 Dieselbe Denkfigur in der Robotik. Ronnie Vuine erklärt den Humanoiden für technisch möglich und ökonomisch unbezahlbar, sobald man die Ausfallwahrscheinlichkeit von vierzehn Gelenken mit einer Nachtzulage multipliziert — Herrmann rechnet Thermodynamik in Euro, er Servos in Wartungsstunden. Beide entziehen der Vorführung ihre Beweiskraft. Und beide zahlen denselben Preis: Wer scharf rechnet, rechnet dort ungenau, wo es ihm nützt.
 
+### → [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
+
+Ein Nobelpreisträger bietet genau das Werkzeug an, das in Herrmanns Kerosin-Kette am teuersten ist: Materialien, die CO₂ aus der Luft fangen. Auf die Kostenfrage antwortet er „nicht mein Bereich“, und an dieser Lücke setzt ihre Rechnung an.
+
+
 ---
 
 ## Weiterdenken

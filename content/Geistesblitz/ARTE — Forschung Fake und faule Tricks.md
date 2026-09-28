@@ -310,3 +310,7 @@ Wilholts Unterscheidung von Wissen und Gewissheit, von Fallibilismus und Skeptiz
 ### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
 
 Zu den gezielt produzierten Zweifeln kommt bei Scobel eine absichtslose Verunreinigung der Forschung: erfundene KI-Referenzen, die ohne Täuschungswillen dasselbe Nadelöhr passieren.
+
+### → [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
+
+Ein Nobelpreisträger, der zugleich die Firma gegründet hat, deren Wasserernter er bewirbt: Der Fall zeigt, warum „Wer bezahlt?“ auch ohne jeden Betrug zur Glaubwürdigkeit gehört. Und er plädiert für eine Grundfinanzierung, die den „Waisen der Wissenschaft“ helfen würde.

@@ -344,6 +344,11 @@ Der Nebensatz, mit dem Göpel hier die eigene Arbeit als Beispiel für Unverfüg
 
 Die Schwesterfolge, gegen die Reckwitz argumentiert. Dort wird der Maßstab rekalibriert (Wohlstand jenseits des BIP, Transformation statt Schrumpfung), hier heißt es: richtig und nicht genug — der blinde Fleck liege nicht beim Maßstab, sondern bei dessen Gegenteil. Göpel sitzt in beiden Gesprächen. Was sie mit Truger als Messproblem verhandelt, wird mit Reckwitz zur Frage, ob ein besserer Index einer Gesellschaft hilft, die etwas begraben muss.
 
+### → [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
+
+Die Materialepochen eines Chemie-Nobelpreisträgers, von der Bronze bis zum einzelnen Atom, führen Reckwitz' Laborglauben an den stetigen Fortschritt ungebrochen vor — ohne ein Wort für das, was dabei verloren geht.
+
+
 ---
 
 ### → [[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Voß & Rudolph — Die Geister hinter MAGA]]

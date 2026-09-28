@@ -207,6 +207,10 @@ Onos unentdeckte Ramanujans bekommen hier eine soziale Ursache. Akalas Publikum 
 
 Mit Gettiers stehengebliebener Uhr erklärt Wilholt, warum eine wahre Antwort noch kein Wissen ist, wenn der Weg zu ihr nicht verlässlich war. Das ist die erkenntnistheoretische Begründung für Onos Satz, dass die Verifikation teuer wird.
 
+### → [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
+
+Der Chemiker beschreibt für das Labor, was Ono für die Mathematik erlebt: Wenn Maschinen Tausende Materialien am Tag erzeugen, wird das Auswählen zur eigentlichen Wissenschaft. Und seine Biografie, vom Flüchtlingskind in Amman zum Nobelpreis, ist die eines entdeckten Ramanujan.
+
 
 ---
 

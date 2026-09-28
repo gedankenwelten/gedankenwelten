@@ -254,6 +254,11 @@ Kornmeiers „Ich glaube nichts, halte aber alles für möglich“ ist gelebter 
 
 Scobels Frage, ob eine KI weiß, ob sie etwas gefunden oder erfunden hat, ist das Gettier-Problem am Werkzeug. Die erfundenen Referenzen in der Medizinforschung zeigen, was geschieht, wenn niemand prüft, auf welchem Weg eine Quelle zustande kam.
 
+### → [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
+
+Ein Chemiker beschreibt aus dem Labor, was Wilholt begrifflich fasst: wiederholen, bevor man etwas einen Fakt nennt, und ein Zweifel, der nicht in Skepsis kippt. Dazu der Fall eines Forschers, dessen Zahlen man mit Blick auf sein Firmeninteresse lesen muss.
+
+
 ---
 
 ## Weiterdenken
