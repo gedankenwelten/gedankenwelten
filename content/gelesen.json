@@ -8,7 +8,7 @@
   },
   {
    "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-   "aufrufe": 63
+   "aufrufe": 62
   },
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
@@ -253,7 +253,7 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
-     "aufrufe": 12
+     "aufrufe": 9
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher.html",
@@ -284,27 +284,11 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Kalayo",
-     "aufrufe": 2
-    },
-    {
      "pfad": "/DenkerVita/Damir-Skenderovic",
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Denker/Walther-Ziegler-Foucault-in-60-Minuten",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Anton-Jaeger",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Marcant",
      "aufrufe": 2
     },
     {
@@ -316,11 +300,15 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
+     "pfad": "/DenkerVita/Anton-Jaeger",
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
+     "pfad": "/DenkerVita/Marcant",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Kalayo",
      "aufrufe": 2
     },
     {
@@ -332,6 +320,14 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Blaise-Pascal",
      "aufrufe": 2
     },
@@ -340,8 +336,12 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-     "aufrufe": 1
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Albert-Camus",
+     "aufrufe": 2
     },
     {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Mai-2026-Teil-2",
@@ -432,19 +432,11 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/DenkerVita/Albert-Camus",
-     "aufrufe": 1
-    },
-    {
      "pfad": "/DenkerVita/Helen-Keller",
      "aufrufe": 1
     },
     {
      "pfad": "/DenkerVita/Yonatan-Zeigen",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Markus-Reisner",
      "aufrufe": 1
     },
     {
@@ -486,6 +478,14 @@
     {
      "pfad": "/DenkerVita/Jochen-Grossmann",
      "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Walther-Ziegler-Kafka-in-60-Minuten.html",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Hartmut-Rosa-Resonanz-und-Unverfügbarkeit",
+     "aufrufe": 1
     }
    ]
   },
@@ -498,7 +498,7 @@
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "aufrufe": 63
+     "aufrufe": 62
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
@@ -810,11 +810,11 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Zeitgeist/Constanze-Kurz-Stochastischer-Papagei,-Chatkontrolle-und-Palantir",
+     "pfad": "/Spuren/Trumps-Wille-geschehe",
      "aufrufe": 11
     },
     {
-     "pfad": "/Spuren/Trumps-Wille-geschehe",
+     "pfad": "/Zeitgeist/Constanze-Kurz-Stochastischer-Papagei,-Chatkontrolle-und-Palantir",
      "aufrufe": 11
     },
     {
@@ -830,7 +830,7 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Vipassana-Anicca",
+     "pfad": "/Zeitgeist/Gilda-Sahebi-und-Arne-Semsrott-GCA-35-Selbstzerstörung-der-Sozialdemokratie",
      "aufrufe": 9
     },
     {
@@ -838,15 +838,15 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/Gilda-Sahebi-und-Arne-Semsrott-GCA-35-Selbstzerstörung-der-Sozialdemokratie",
-     "aufrufe": 9
-    },
-    {
-     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
+     "pfad": "/Denker/Vipassana-Anicca",
      "aufrufe": 9
     },
     {
      "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
      "aufrufe": 9
     },
     {
@@ -866,19 +866,15 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/Zeitgeist/Adam-Tooze-—-Pentagon-vs.-Anthropic",
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
      "aufrufe": 7
     },
     {
      "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/Zeitgeist/Adam-Tooze-—-Pentagon-vs.-Anthropic",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit",
      "aufrufe": 7
     },
     {
@@ -894,11 +890,11 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "pfad": "/Denker/Aladin-El-Mafaalani-—-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Jihan-Alomar",
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "aufrufe": 7
     },
     {
@@ -906,11 +902,15 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/DenkerVita/Jihan-Alomar",
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-—-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "pfad": "/Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit",
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
      "aufrufe": 7
     },
     {
@@ -1055,11 +1055,11 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Zeitgeist/Constanze-Kurz-Stochastischer-Papagei,-Chatkontrolle-und-Palantir",
+     "pfad": "/Spuren/Trumps-Wille-geschehe",
      "aufrufe": 11
     },
     {
-     "pfad": "/Spuren/Trumps-Wille-geschehe",
+     "pfad": "/Zeitgeist/Constanze-Kurz-Stochastischer-Papagei,-Chatkontrolle-und-Palantir",
      "aufrufe": 11
     },
     {
@@ -1075,7 +1075,7 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Vipassana-Anicca",
+     "pfad": "/Zeitgeist/Gilda-Sahebi-und-Arne-Semsrott-GCA-35-Selbstzerstörung-der-Sozialdemokratie",
      "aufrufe": 9
     },
     {
@@ -1083,15 +1083,15 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/Gilda-Sahebi-und-Arne-Semsrott-GCA-35-Selbstzerstörung-der-Sozialdemokratie",
-     "aufrufe": 9
-    },
-    {
-     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
+     "pfad": "/Denker/Vipassana-Anicca",
      "aufrufe": 9
     },
     {
      "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
      "aufrufe": 9
     },
     {
@@ -1111,19 +1111,15 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/Zeitgeist/Adam-Tooze-—-Pentagon-vs.-Anthropic",
+     "aufrufe": 7
+    },
+    {
      "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
      "aufrufe": 7
     },
     {
      "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/Zeitgeist/Adam-Tooze-—-Pentagon-vs.-Anthropic",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit",
      "aufrufe": 7
     },
     {
@@ -1139,11 +1135,11 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
+     "pfad": "/Denker/Aladin-El-Mafaalani-—-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Jihan-Alomar",
+     "pfad": "/Zeitgeist/Koschi-Politik-Trump-von-FOX-und-Netanyahu-in-die-Ecke-gedraengt",
      "aufrufe": 7
     },
     {
@@ -1151,11 +1147,15 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/DenkerVita/Jihan-Alomar",
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-—-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "pfad": "/Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit",
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
      "aufrufe": 7
     },
     {
