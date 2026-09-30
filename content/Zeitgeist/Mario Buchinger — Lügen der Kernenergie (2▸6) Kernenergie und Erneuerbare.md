@@ -175,3 +175,7 @@ Reiches Gesetzentwurf könnte als politisches Werkzeug gelesen werden, die Inkom
 ### → [[Akkudoktor — Lanz und die Energiewende]]
 
 Umgekehrte Stoßrichtung, gleiche Methodik: Akkudoktor entlarvt statistische Manipulation contra Erneuerbare, Buchinger pro Kernenergie
+
+### → [[Akkudoktor — SMR und drei Versprechen]]
+
+Krebbers Satz kehrt beim Akkudoktor als Nebensatz über 500 Stunden negativer Strompreise wieder: Je mehr Sonne im Netz, desto seltener verkauft ein teurer Reaktor, was er verkaufen muss. Dazu trennt er Dauerbetrieb und Reserve und rechnet vor, warum ein SMR für die Dunkelflaute das falsche Werkzeug ist.

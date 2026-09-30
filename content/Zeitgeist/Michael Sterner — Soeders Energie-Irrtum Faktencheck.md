@@ -246,6 +246,10 @@ Specht entzaubert denselben "Primärenergieirrtum" wie Sterner Söders Kernkraft
 
 MONITOR zeigt Söders SMR-Vorstoß („Blaupause made in Bavaria") im O-Ton, den Sterner hier faktencheckt — mit denselben Belegen (Flamanville, Olkiluoto, Kostenexplosion). Sterner liefert die wissenschaftliche Widerlegung, MONITOR das investigative Fallbeispiel inklusive des insolventen THTR-Erbes.
 
+### → [[Akkudoktor — SMR und drei Versprechen]]
+
+Söders zweiter Atom-Vorstoß, die Transmutation, fällt beim Akkudoktor an denselben Stellen durch. Sterners Russland-Argument kehrt dort verschärft wieder: Mehr als die Hälfte der SMR-Konzepte braucht höher angereicherten Brennstoff, den es kommerziell nur aus Russland gibt.
+
 ---
 
 ## Weiterdenken

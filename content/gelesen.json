@@ -51,12 +51,20 @@
    "aufrufe": 9
   },
   {
+   "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
+   "aufrufe": 8
+  },
+  {
    "pfad": "/DenkerVita/Benjamin-Biersky",
    "aufrufe": 8
   },
   {
-   "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
-   "aufrufe": 8
+   "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+   "aufrufe": 7
+  },
+  {
+   "pfad": "/DenkerVita/Juergen-Kornmeier",
+   "aufrufe": 7
   },
   {
    "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
@@ -71,23 +79,7 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "aufrufe": 7
-  },
-  {
-   "pfad": "/DenkerVita/Juergen-Kornmeier",
-   "aufrufe": 7
-  },
-  {
-   "pfad": "/DenkerVita/Marco-Waehner",
-   "aufrufe": 6
-  },
-  {
    "pfad": "/DenkerVita/Torsten-Heinrich",
-   "aufrufe": 6
-  },
-  {
-   "pfad": "/DenkerVita/Jihan-Alomar",
    "aufrufe": 6
   },
   {
@@ -95,7 +87,19 @@
    "aufrufe": 6
   },
   {
+   "pfad": "/DenkerVita/Martin-Oetting",
+   "aufrufe": 6
+  },
+  {
    "pfad": "/DenkerVita/Marcant",
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Jihan-Alomar",
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Marco-Waehner",
    "aufrufe": 6
   },
   {
@@ -104,6 +108,10 @@
   },
   {
    "pfad": "/DenkerVita/Freddy-Leppin",
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/DenkerVita/Martyna-Linartas",
    "aufrufe": 5
   },
   {
@@ -116,10 +124,6 @@
   },
   {
    "pfad": "/DenkerVita/Valentina-Chiofalo",
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/DenkerVita/Martin-Oetting",
    "aufrufe": 5
   },
   {
@@ -139,10 +143,6 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-   "aufrufe": 4
-  },
-  {
    "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
    "aufrufe": 4
   },
@@ -155,7 +155,7 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Martyna-Linartas",
+   "pfad": "/DenkerVita/Katharina-Nocun",
    "aufrufe": 4
   },
   {
@@ -179,7 +179,7 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Katharina-Nocun",
+   "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
    "aufrufe": 4
   },
   {
@@ -264,6 +264,10 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/DenkerVita/Martin-Oetting",
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Cordula-Tutt",
      "aufrufe": 5
     },
@@ -280,19 +284,15 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Martin-Oetting",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
      "aufrufe": 4
     },
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
      "aufrufe": 4
     },
     {
@@ -312,6 +312,10 @@
      "aufrufe": 3
     },
     {
+     "pfad": "/Zeitgeist/Die-Anstalt-Warum-Wohnen-unbezahlbar-wird",
+     "aufrufe": 3
+    },
+    {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
      "aufrufe": 3
     },
@@ -320,11 +324,7 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Die-Anstalt-Warum-Wohnen-unbezahlbar-wird",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
      "aufrufe": 2
     },
     {
@@ -344,15 +344,15 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Jung-und-Naiv-1-Jahr-Kanzler-Merz",
      "aufrufe": 2
     },
     {
      "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Anton-Jaeger",
      "aufrufe": 2
     },
     {
@@ -376,8 +376,12 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Anton-Jaeger",
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
      "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "aufrufe": 1
     },
     {
      "pfad": "/Zeitgeist/Susanne-Weigelin-Schwiedrzik-China-in-den-Krieg-treiben",
@@ -482,10 +486,6 @@
     {
      "pfad": "/DenkerVita/Maren-Urner",
      "aufrufe": 1
-    },
-    {
-     "pfad": "/Kultur/Hans-Maggi-Sokotra",
-     "aufrufe": 1
     }
    ]
   },
@@ -541,12 +541,20 @@
      "aufrufe": 9
     },
     {
+     "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
+     "aufrufe": 8
+    },
+    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
-     "aufrufe": 8
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "aufrufe": 7
+    },
+    {
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "aufrufe": 7
     },
     {
      "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
@@ -561,23 +569,7 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Marco-Waehner",
-     "aufrufe": 6
-    },
-    {
      "pfad": "/DenkerVita/Torsten-Heinrich",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/DenkerVita/Jihan-Alomar",
      "aufrufe": 6
     },
     {
@@ -585,7 +577,19 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/DenkerVita/Martin-Oetting",
+     "aufrufe": 6
+    },
+    {
      "pfad": "/DenkerVita/Marcant",
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Jihan-Alomar",
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Marco-Waehner",
      "aufrufe": 6
     },
     {
@@ -594,6 +598,10 @@
     },
     {
      "pfad": "/DenkerVita/Freddy-Leppin",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Martyna-Linartas",
      "aufrufe": 5
     },
     {
@@ -606,10 +614,6 @@
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Martin-Oetting",
      "aufrufe": 5
     },
     {
@@ -629,10 +633,6 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Geistesblitz/Fediverse-Die-digitale-Allmende",
      "aufrufe": 4
     },
@@ -645,7 +645,7 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Martyna-Linartas",
+     "pfad": "/DenkerVita/Katharina-Nocun",
      "aufrufe": 4
     },
     {
@@ -669,7 +669,7 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Katharina-Nocun",
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "aufrufe": 4
     },
     {
@@ -802,11 +802,11 @@
      "aufrufe": 13
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
      "aufrufe": 12
     },
     {
-     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
+     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
      "aufrufe": 12
     },
     {
@@ -834,7 +834,7 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
+     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
      "aufrufe": 9
     },
     {
@@ -842,7 +842,7 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
+     "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
      "aufrufe": 9
     },
     {
@@ -858,7 +858,7 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
      "aufrufe": 8
     },
     {
@@ -870,7 +870,11 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
+     "aufrufe": 8
+    },
+    {
+     "pfad": "/DenkerVita/Martin-Oetting",
      "aufrufe": 8
     },
     {
@@ -890,11 +894,11 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Vipassana-Ānāpāna",
+     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "pfad": "/Denker/Vipassana-Ānāpāna",
      "aufrufe": 7
     },
     {
@@ -914,6 +918,10 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/Zeitgeist/Adam-Tooze-—-Pentagon-vs.-Anthropic",
+     "aufrufe": 7
+    },
+    {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "aufrufe": 7
     },
@@ -922,19 +930,11 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Martin-Oetting",
-     "aufrufe": 7
-    },
-    {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Mai-2026-Teil-3",
      "aufrufe": 7
     },
     {
-     "pfad": "/Zeitgeist/Adam-Tooze-—-Pentagon-vs.-Anthropic",
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
      "aufrufe": 7
     },
     {
@@ -1047,11 +1047,11 @@
      "aufrufe": 13
     },
     {
-     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
+     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
      "aufrufe": 12
     },
     {
-     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
+     "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
      "aufrufe": 12
     },
     {
@@ -1079,7 +1079,7 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
+     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
      "aufrufe": 9
     },
     {
@@ -1087,7 +1087,7 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
+     "pfad": "/Denker/Liya-Yu-Neuropolitik-und-die-Grenzen-der-Moral",
      "aufrufe": 9
     },
     {
@@ -1103,7 +1103,7 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
      "aufrufe": 8
     },
     {
@@ -1115,7 +1115,11 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
+     "aufrufe": 8
+    },
+    {
+     "pfad": "/DenkerVita/Martin-Oetting",
      "aufrufe": 8
     },
     {
@@ -1135,11 +1139,11 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Vipassana-Ānāpāna",
+     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "pfad": "/Denker/Vipassana-Ānāpāna",
      "aufrufe": 7
     },
     {
@@ -1159,6 +1163,10 @@
      "aufrufe": 7
     },
     {
+     "pfad": "/Zeitgeist/Adam-Tooze-—-Pentagon-vs.-Anthropic",
+     "aufrufe": 7
+    },
+    {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "aufrufe": 7
     },
@@ -1167,19 +1175,11 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Martin-Oetting",
-     "aufrufe": 7
-    },
-    {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Mai-2026-Teil-3",
      "aufrufe": 7
     },
     {
-     "pfad": "/Zeitgeist/Adam-Tooze-—-Pentagon-vs.-Anthropic",
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
      "aufrufe": 7
     },
     {

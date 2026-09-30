@@ -18,7 +18,9 @@ aliases:
 Quelle: [Das geht zu WEIT! Wir gehen offiziell gegen Markus Lanz vor!](https://www.youtube.com/watch?v=jCOR5aM0OKU)
 
 > [!info] Wer spricht?
-> **Dr. Andreas Schmitz** (*Akkudoktor*) — Wissenschaftler für mathematische Optimierung & KI, studierter Informatiker und Maschinenbauer mit Promotion im Ingenieurwesen. Auf seinem YouTube-Kanal *Akkudoktor* (435.000+ Abonnenten) erklärt er die Energiewende praxisnah — mit DIY-PV-Anlagen, Lithium-Akkus aus Gebrauchtteilen und Open-Source-Lösungen. Sein Community-Forum (akkudoktor.net) hat über 3.000 aktive Nutzer. In diesem Video analysiert er gemeinsam mit **Leonhard Gandhi** (Fraunhofer ISE / energy-charts.info) eine ZDF-Sendung von Markus Lanz (02.04.2026), in der irreführende Behauptungen zur Energiewende stehen blieben — und dokumentiert seine formale Programmbeschwerde beim ZDF.
+> **Dr. Andreas Schmitz** (*Akkudoktor*) — Wissenschaftler für mathematische Optimierung & KI, studierter Informatiker und Maschinenbauer mit Promotion im Ingenieurwesen. Auf seinem YouTube-Kanal *Akkudoktor* (435.000+ Abonnenten) erklärt er die Energiewende praxisnah — mit DIY-PV-Anlagen, Lithium-Akkus aus Gebrauchtteilen und Open-Source-Lösungen. Sein Community-Forum (akkudoktor.net) hat über 3.000 aktive Nutzer. In diesem Video analysiert er gemeinsam mit **Leonhard Gandhi** (Fraunhofer ISE / energy-charts.info) eine ZDF-Sendung von Markus Lanz (01.04.2026), in der irreführende Behauptungen zur Energiewende stehen blieben — und dokumentiert seine formale Programmbeschwerde beim ZDF.
+>
+> → [[DenkerVita/Andreas Schmitz|DenkerVita]]
 
 ---
 
@@ -26,9 +28,9 @@ Quelle: [Das geht zu WEIT! Wir gehen offiziell gegen Markus Lanz vor!](https://w
 
 ### Der 8%-Trick — Wie Lanz die Erneuerbaren kleinrechnet
 
-[▶ 2:19](https://www.youtube.com/watch?v=jCOR5aM0OKU&t=139) — In der Sendung behauptet Peter Altmeier, Deutschland erzeuge nur 8 % seines Energiebedarfs mit Wind und Sonne. Markus Lanz lässt die Aussage unkommentiert stehen. Schmitz zerlegt den Trick in drei Fehler:
+[▶ 2:19](https://www.youtube.com/watch?v=jCOR5aM0OKU&t=139) — In der Sendung behauptet Peter Altmaier, Deutschland erzeuge nur 8 % seines Energiebedarfs mit Wind und Sonne. Markus Lanz lässt die Aussage unkommentiert stehen. Schmitz zerlegt den Trick in drei Fehler:
 
-**Fehler 1 — Begriffschaos:** Altmeier wirft „Energiebedarf" in den Raum, ohne zwischen Primärenergie und Endenergie zu unterscheiden. Primärenergie ist das Rohöl im Boden, Endenergie das Benzin im Tank. Ohne diese Differenzierung ist jede Prozentangabe bedeutungslos.
+**Fehler 1 — Begriffschaos:** Altmaier wirft „Energiebedarf" in den Raum, ohne zwischen Primärenergie und Endenergie zu unterscheiden. Primärenergie ist das Rohöl im Boden, Endenergie das Benzin im Tank. Ohne diese Differenzierung ist jede Prozentangabe bedeutungslos.
 
 **Fehler 2 — Cherry-Picking:** Die 8 % beziehen sich nur auf Wind und Sonne. Biomasse, Wasserkraft und andere Erneuerbare werden komplett ignoriert. Der tatsächliche Anteil erneuerbarer Energien am Primärenergiebedarf liegt bei rund 20 %.
 
@@ -52,7 +54,7 @@ Das ist der Kernfehler: Effiziente Technologien schrumpfen den Nenner. Je besser
 
 [▶ 12:15](https://www.youtube.com/watch?v=jCOR5aM0OKU&t=735) — Bei den Neuzulassungen haben E-Autos im letzten Monat erstmals die Benziner überholt. Bei Heizungen haben Wärmepumpen 2025 die Gasheizungen bei den Neuverkäufen geschlagen (48 % vs. 45 %).
 
-**Die Altmeier-Delle:** [▶ 15:20](https://www.youtube.com/watch?v=jCOR5aM0OKU&t=920) — Wer fragt, warum die Energiewende langsam vorankommt, muss den PV-Zubau zwischen 2013 und 2017 ansehen: ein massiver Einbruch, verursacht durch die Reformen von Peter Altmeier als Umweltminister. Hunderttausende Jobs, dutzende Firmen — die deutsche Solarindustrie wurde in dieser Phase weitgehend zerstört. Und genau dieser Altmeier saß bei Lanz am Tisch, ohne dass ihn jemand damit konfrontierte.
+**Die Altmaier-Delle:** [▶ 15:20](https://www.youtube.com/watch?v=jCOR5aM0OKU&t=920) — Wer fragt, warum die Energiewende langsam vorankommt, muss den PV-Zubau zwischen 2013 und 2017 ansehen: ein massiver Einbruch, verursacht durch die Reformen von Peter Altmaier als Umweltminister. Hunderttausende Jobs, dutzende Firmen — die deutsche Solarindustrie wurde in dieser Phase weitgehend zerstört. Und genau dieser Altmaier saß bei Lanz am Tisch, ohne dass ihn jemand damit konfrontierte.
 
 ### „Teuerste Strompreise der Welt" — Stammtisch-Argument trifft Realität
 
@@ -93,7 +95,7 @@ Wichtig: Schmitz betont, dass dies kein genereller Angriff auf den öffentlich-r
 > [!success] Bestätigt — Kaufkraftbereinigt nicht am teuersten
 > Eurostat bestätigt: Deutschland hat nominell die höchsten Haushaltsstrompreise in der EU (€0,3835/kWh, H1 2025). Kaufkraftbereinigt liegen jedoch Tschechien, Polen und Italien deutlich höher. Deutschlands hohe Kaufkraft relativiert den Nominalpreis erheblich. Quelle: [Eurostat — Electricity price statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Electricity_price_statistics)
 
-> [!success] Bestätigt — Altmeier-Delle mit massivem Jobverlust
+> [!success] Bestätigt — Altmaier-Delle mit massivem Jobverlust
 > Der PV-Zubau fiel von 7,6 GW (2012) auf 1,4 GW (2015) — ein Rückgang um über 80 %. Die Beschäftigtenzahl sank von 156.700 (2011) auf 42.800 (2017) — ein Verlust von rund 114.000 Arbeitsplätzen. „100.000e Jobs" ist korrekt. Quelle: [Wikipedia — Photovoltaik in Deutschland](https://de.wikipedia.org/wiki/Photovoltaik_in_Deutschland)
 
 ---
@@ -132,7 +134,7 @@ MONITOR dokumentiert die politische Pipeline (Drehtür CDU→E.ON), Akkudoktor d
 
 ### → [[Presseclub — Reiches Energiewende]]
 
-Die Altmeier-Delle findet in Reiches Solarförderungs-Streichung ihre direkte politische Fortsetzung. Was auf Lanz als „die Energiewende dreht sich im Kreis" erscheint, ist politisch verursachter Stillstand.
+Die Altmaier-Delle findet in Reiches Solarförderungs-Streichung ihre direkte politische Fortsetzung. Was auf Lanz als „die Energiewende dreht sich im Kreis" erscheint, ist politisch verursachter Stillstand.
 
 ### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
 
@@ -162,4 +164,8 @@ Die Altmaier-Delle hat den PV-Ausbau politisch verlangsamt — die Kontrovers-No
 Strukturell parallele Mythen-Dekonstruktion: Fichtner widerlegt Batterie-Mythen im Wissenschafts-Podcast, Akkudoktor widerlegt Energiewende-Mythen im ZDF-Talkshow-Format — beide zeigen denselben Mechanismus (statistische Verzerrung, Cherry-Picking, Interessenlage), nur auf verschiedenen Bühnen.
 
 ### → [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus]]
-D/Z liefern den akademischen Rahmen für das, was Akkudoktor mit seiner Programmbeschwerde konkret belegt: Bewertungsverlagerung im Qualitätsjournalismus. Lanz lässt Altmeiers rassifizierende Energie-Narrative stehen, weil er sich als neutraler Moderator versteht — das ist D/Zs „Performing balance by practicing bias" in Reinform. Aus Sicht von D/Z ist Lanz kein böser Mensch, sondern ein ganz normaler Journalist, der ganz normal falsch liegt.
+D/Z liefern den akademischen Rahmen für das, was Akkudoktor mit seiner Programmbeschwerde konkret belegt: Bewertungsverlagerung im Qualitätsjournalismus. Lanz lässt Altmaiers rassifizierende Energie-Narrative stehen, weil er sich als neutraler Moderator versteht — das ist D/Zs „Performing balance by practicing bias" in Reinform. Aus Sicht von D/Z ist Lanz kein böser Mensch, sondern ein ganz normaler Journalist, der ganz normal falsch liegt.
+
+### → [[Akkudoktor — SMR und drei Versprechen]]
+
+Die zweite Note über den Kanal: drei SMR-Versprechen auf dem Taschenrechner, und wieder trifft der Spott einen Unionspolitiker, diesmal Söder.

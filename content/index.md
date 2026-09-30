@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Makroökonom aus dem Innern des Fachs nennt dessen Leitbild ein Märchen, rechnet Berlin die Vergesellschaftung vor und liest den Aufstieg der AfD an Energiepreisen ab. Am Tisch sitzt keine Gegenstimme.
 
+> **30.09.** — [[Zeitgeist/Akkudoktor — SMR und drei Versprechen|Akkudoktor — Mini-Atomkraftwerke und drei Versprechen]]
+>
+> Ein Ingenieur legt drei Versprechen der Mini-Atomkraftwerke auf den Taschenrechner. Für die Dunkelflaute taugen sie nicht, beim Rest ist die ehrlichste Antwort: Das weiß heute niemand.
+
 > **29.09.** — [[Zeitgeist/Susanne Weigelin-Schwiedrzik — China in den Krieg treiben|Susanne Weigelin-Schwiedrzik — Amerikas Plan, China in den Krieg zu treiben]]
 >
 > Zwei Supermächte lächeln in Washington und rüsten dahinter für einen Konflikt, den keine überleben würde. Seltene Erden gegen Chips, Beiboot Europa.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Am Tag nach der Wahl findet eine Runde von Journalisten für AfD und Linke dasselbe Wort: Hoffnung. Was wird aus Menschen, die sich lange nicht gehört fühlten, wenn sie gehört werden wollen?
 
-> **27.09.** — [[Zeitgeist/Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]]
->
-> Korruption kommt selten mit dem Geldkoffer. Neunzehn Jahre Bundestag, erzählt von einem, der das Spiel kennengelernt, fast mitgespielt und dann benannt hat, kurz bevor er starb.
-
-> → *3 weitere in* [[Zeitgeist]]
+> → *4 weitere in* [[Zeitgeist]]
 
 ### Panorama
 

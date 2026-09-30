@@ -140,6 +140,10 @@ Beide entkräften dasselbe Grundlast-Argument, mit dem Atom und neue Gaskraftwer
 
 Kails Säule 3 (Batterie-Kaskade aus Millionen E-Autos) ist genau das V2G-Prinzip — die fahrende Flotte als größter verteilter Kurzzeitspeicher.
 
+### → [[Akkudoktor — SMR und drei Versprechen]]
+
+Der Akkudoktor rechnet die Dunkelflaute von der Kostenseite: Ein Kraftwerk für 400 Stunden im Jahr muss vor allem billig in der Anschaffung sein, darum 25 Milliarden Euro mit Gasturbinen gegen 250 mit SMR. Kails Umrüstung des Bestands treibt diese Logik zu Ende, denn am billigsten ist die Anlage, die schon steht.
+
 ---
 
 ## Weiterdenken

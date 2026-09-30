@@ -4718,3 +4718,15 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Tom Krebs — Wege aus der Krise und neoliberale Maerchen]] |
 | **DenkerVita** | [[DenkerVita/Tom Krebs]] · [[DenkerVita/Tilo Jung]] · [[DenkerVita/Hans Jessen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Krebs_Vergesellschaftung_JungNaiv853_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Akkudoktor — Mini-Atomkraftwerke und drei Versprechen
+
+| | |
+|---|---|
+| **Video** | [China baut DIE TEILE schon? Machen SMRs unsere Solaranlagen nutzlos?](https://www.youtube.com/watch?v=Nnxo01TO4AA) — Akkudoktor, 30.09.2026 (24 min), CC BY |
+| **Quellenliste** | [Quellendokument des Kanals (92 Einträge)](https://docs.google.com/document/d/1jiBbQjEl68ugli4oEPfr09R2Y6H1xqwsdqxUPTRkQ30/edit?usp=sharing) |
+| **Notiz** | [[Zeitgeist/Akkudoktor — SMR und drei Versprechen]] |
+| **DenkerVita** | [[DenkerVita/Andreas Schmitz]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Schmitz_SMR_Akkudoktor_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+| **Standbilder** | `Gedankenwelten/assets/Akkudoktor-SMR_395/525/795/985/1255.jpg` (Grafiken des Kanals, CC BY) |
+
