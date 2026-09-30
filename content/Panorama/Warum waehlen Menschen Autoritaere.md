@@ -2,7 +2,7 @@
 title: "Warum wählen Menschen Autoritäre?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-09-27
+aktualisiert: 2026-09-30
 description: "Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Fünf offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -167,6 +167,8 @@ Die Strategie, die am häufigsten versucht wird, ist am besten untersucht und sc
 
 Ob Ausgrenzung oder Einbindung radikale Parteien mäßigt, ist ebenfalls untersucht, mit einem ernüchternden Ergebnis in beide Richtungen. Ausgegrenzte Parteien werden nicht gemäßigter ([Van Spanje & Van der Brug 2007, doi:10.1080/01402380701617431](https://doi.org/10.1080/01402380701617431)), eingebundene auch nicht ([Akkerman & Rooduijn 2014, doi:10.1111/1467-9248.12146](https://doi.org/10.1111/1467-9248.12146)). Die Brandmauer ist also kein Erziehungsinstrument für die Partei. Was sie für die Wähler bedeutet, ist schwerer zu messen; die Befunde zur Normalisierung (→ Protest oder Überzeugung) sprechen dafür, dass jede Form der Anerkennung das offene Bekenntnis erleichtert.
 
+Besser belegt ist der materielle Weg, zumindest in einer Richtung. Sparpolitik treibt extreme Parteien nachweislich nach oben, vor allem in wirtschaftlich verwundbaren Regionen ([Gabriel, Klein & Pessoa 2026, doi:10.1162/rest_a_01373](https://doi.org/10.1162/rest_a_01373); [Baccini & Sattler 2024, doi:10.1111/ajps.12865](https://doi.org/10.1111/ajps.12865); Review: [Hübscher & Sattler 2026, doi:10.1146/annurev-polisci-032624-022749](https://doi.org/10.1146/annurev-polisci-032624-022749)). Sichtbar steigende Energiepreise tun es ebenso ([Voeten 2024, doi:10.1177/00104140241237468](https://doi.org/10.1177/00104140241237468)). Für den Rückweg ist die Beweislage dünner. EU-Kohäsionsgeld senkte die populistische Wahl in italienischen Gemeinden nur wenig ([Albanese, Barone & de Blasio 2022, doi:10.1016/j.euroecorev.2021.104000](https://doi.org/10.1016/j.euroecorev.2021.104000)). Eine Entlastung wirkt, wenn sie gezielt und sichtbar ankommt: Mailänder Autohalter, die für ein Fahrverbot entschädigt wurden, wechselten nicht zur Lega ([Colantone et al. 2023, doi:10.1017/s0003055423000308](https://doi.org/10.1017/s0003055423000308)). Breite Entlastungen, die niemand bemerkt, verpuffen eher. Und öffentliches Eigentum an knappen Gütern kann selbst Stimmen nach rechts treiben, wenn es einen Verteilungskampf auslöst. Als Österreich Gemeindewohnungen für Zugewanderte öffnen musste, stieg die FPÖ-Wahl ([Cavaillé & Ferwerda 2023, doi:10.1086/720643](https://doi.org/10.1086/720643)).
+
 Zwei Fälle aus dem Jahr 2026 stehen quer zu jeder Regel. In Ungarn verlor Orbán nach sechzehn Jahren, entschieden über Schulen, Krankenhäuser und Korruption, gegen einen Überläufer aus dem eigenen Lager, der in der Migration dieselbe Linie fährt. In Mecklenburg-Vorpommern holte Manuela Schwesig mit einem sozialdemokratischen Wahlkampf der Nähe fast zur AfD auf, und zwar vor allem aus den anderen demokratischen Parteien.
 
 **Die Stimmen**
@@ -175,13 +177,14 @@ Zwei Fälle aus dem Jahr 2026 stehen quer zu jeder Regel. In Ungarn verlor Orbá
 - **[[Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat#Die Klinge, die stumpf wird|Alexander Thiele]]:** Die Brandmauer bleibt; das Entzaubern hält er für Papens Irrtum und eine Zumutung für die sechzig Prozent, die die AfD nicht wollen.
 - **[[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Warum die AfD nicht entzauberbar ist|Aladin El-Mafaalani]]:** Misstrauensgemeinschaften entzaubern sich nicht; statt AfD-Wähler umzudrehen, müsse man den Vertrauensverlust in der Mitte stoppen, mit einem Staat, der liefert.
 - **[[phoenix — Orbán abgewählt#Warum ist Orbán so deutlich gescheitert?|Gawrich zu Ungarn]]:** Orbáns Feindbilder zogen nicht mehr, entschieden haben Bildung, Gesundheit, Korruption und ein Graswurzel-Wahlkampf in 700 Orten.
-- **[[Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie#Die Ecological Fallacy Wer hat Labour wirklich verlassen?|Gilda Sahebi & Arne Semsrott]]:** Wer nach rechts rückt, verliert die eigene Basis; Labour hat nicht an Reform UK verloren.
 - **[[Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat#Warum es einmal funktioniert hat|Alexander Thiele]]** (zweiter Befund): 2013 bis 2015 verschwand die AfD fast, als der Bundestag die Euro-Debatte öffnete. Wer die Teilhabelücke schließt, nimmt ihr das Motiv.
 - **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Schwesig, die Ausnahme von der Regel|Jana Hensel]]:** Schwesig ist keine Ausnahme, sondern prototypisch sozialdemokratisch; Kormbaki hält dagegen, ihr Playbook tauge nicht als Blaupause.
 - **[[DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt#Der Kümmerer|Siegmund als Kümmerer]]:** Kindergarten, Arzt, Schule: „Der Platz war frei. Jemand hat ihn besetzt.“
+- **[[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Drei Schübe für die AfD|Tom Krebs]]:** Die AfD wuchs in drei Schüben, jeder nach einem wirtschaftspolitischen Versäumnis; wer sie klein machen will, muss Strom und Mieten billiger machen, notfalls über öffentliches Eigentum.
 
-<details><summary>Weitere Stimmen (9)</summary>
+<details><summary>Weitere Stimmen (10)</summary>
 
+- **[[Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie#Die Ecological Fallacy Wer hat Labour wirklich verlassen?|Gilda Sahebi & Arne Semsrott]]:** Wer nach rechts rückt, verliert die eigene Basis; Labour hat nicht an Reform UK verloren.
 - **[[StreitClub — Extremismus und der Schutz der Demokratie#Erstes Instrument das Parteiverbot|Michel Friedman]]:** Das Verbot ist im Prinzip richtig: „Muss das Auschwitz kommen, um gegen Hitler zu sein?“ Kazim widerspricht im selben Abschnitt.
 - **[[StreitClub — Extremismus und der Schutz der Demokratie#Drittes Instrument Entzauberung — und Friedmans vierte Idee|Matthias Quent]]:** Brandmauer zwischen den Institutionen ja, zwischen den Menschen nein; Gemeinschaftsangebote vor die Extremisten stellen.
 - **[[Annette Dittert — Dear Britain#Die Selbstzerstörung der konservativen Mitte — eine Warnung an die CDU|Annette Dittert]]:** Die Tories haben Farage kopiert und sich aus der Existenz kopiert.
@@ -205,6 +208,7 @@ Zwei Fälle aus dem Jahr 2026 stehen quer zu jeder Regel. In Ungarn verlor Orbá
 |---|---|---|
 | 27.09.2026 | [[Der Entscheidende Punkt — Nach den Landtagswahlen#Nachbesprechung|Der Entscheidende Punkt — Nach den Landtagswahlen]] | Gründungsnote: materieller Kern oder Einstellung (Ort gegen Person, Statusverlust, Nachwahlzahlen Sachsen-Anhalt) · Protest oder Überzeugung (Zeitreihe MV 24 → 53 %) |
 | 27.09.2026 | [[Philipp Blom — Die Unterwerfung#Nachbesprechung|Philipp Blom — Die Unterwerfung]] | Was lehrt Weimar — und wie lange? Assmanns Frist des kommunikativen Gedächtnisses, Persistenz vs. Verblassen (Lecci et al. 2026, Voigtländer & Voth, Cantoni et al.), MEMO-Schlussstrich 2024 |
+| 30.09.2026 | [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Nachbesprechung|Tom Krebs — Wege aus der Krise]] | Was holt Wähler zurück? Sparpolitik schadet belegt (Gabriel et al. 2026, Baccini & Sattler 2024), der Rückweg über Geld ist schwächer (Albanese et al. 2022); Entlastung wirkt nur sichtbar (Colantone 2023, Voeten 2024); öffentlicher Wohnbau kann selbst Rechtswahl auslösen (Cavaillé & Ferwerda 2023) |
 
 ---
 

@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **30.09.** — [[Zeitgeist/Tom Krebs — Wege aus der Krise und neoliberale Maerchen|Tom Krebs — Wege aus der Krise, Vergesellschaftung und neoliberale Märchen]]
+>
+> Ein Makroökonom aus dem Innern des Fachs nennt dessen Leitbild ein Märchen, rechnet Berlin die Vergesellschaftung vor und liest den Aufstieg der AfD an Energiepreisen ab. Am Tisch sitzt keine Gegenstimme.
+
 > **29.09.** — [[Zeitgeist/Susanne Weigelin-Schwiedrzik — China in den Krieg treiben|Susanne Weigelin-Schwiedrzik — Amerikas Plan, China in den Krieg zu treiben]]
 >
 > Zwei Supermächte lächeln in Washington und rüsten dahinter für einen Konflikt, den keine überleben würde. Seltene Erden gegen Chips, Beiboot Europa.
@@ -40,45 +44,13 @@ Die Gedankenwelten (luc)
 >
 > Korruption kommt selten mit dem Geldkoffer. Neunzehn Jahre Bundestag, erzählt von einem, der das Spiel kennengelernt, fast mitgespielt und dann benannt hat, kurz bevor er starb.
 
-> **27.09.** — [[Zeitgeist/Ardalan Ibrahim — Die Partei fuer Losdemokratie|Ardalan Ibrahim — Die Partei für Losdemokratie]]
->
-> Ein Parteigründer will die Macht dem Los anvertrauen, das Eigentum soll bleiben, wo es ist. Vier Stunden Jung & Naiv über Aristokratie, Hinterzimmer und eine Demokratie, die es seiner Meinung nach nie gab.
-
-> → *2 weitere in* [[Zeitgeist]]
-
-### Denker
-
-> **28.09.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
->
-> Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar: Klees Credo von 1920 — und der Tag 1937, an dem man den Sichtbarmacher unsichtbar machen wollte.
-
-> **27.09.** — [[Denker/Philipp Blom — Die Unterwerfung|Philipp Blom — Die Unterwerfung]]
->
-> Ein Satz aus der Bronzezeit regiert noch den Weltmarkt: Philipp Blom über die Idee, der Mensch stehe über der Natur, und warum Siegen dumm macht.
-
-> **22.09.** — [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere|Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
->
-> Buber sucht das Du auf Augenhöhe, Levinas bestreitet, dass es sie geben darf. Zwei jüdische Denker, ein Gespräch, das nie stattfand — und die Frage, was zuerst kommt, die Begegnung oder die Verantwortung.
-
-> **22.09.** — [[Denker/Ernst Tugendhat — Unsere Angst vor dem Tod|Ernst Tugendhat — Unsere Angst vor dem Tod]]
->
-> Irgendwann zu sterben macht keine Angst, bald zu sterben schon. Tugendhat denkt die Todesfurcht zu Ende und landet beim Leben — und bei der Frage, wie schwer man sich selbst nehmen muss.
-
-### Geistesblitz
-
-> **28.09.** — [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
->
-> Ein Flüchtlingsjunge verliebt sich in Molekülzeichnungen, Jahrzehnte später zieht sein Material Wasser aus Wüstenluft. Als Rettungsgeschichte will er es nicht erzählt haben.
-
-> **27.09.** — [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
->
-> Jede Wissenschaft treibt Geister aus, und in jede Lücke zieht ein neuer ein. Der jüngste wohnt in der Statistik — und weiß selbst nicht, ob er gefunden oder erfunden hat.
-
-> **26.09.** — [[Geistesblitz/Torsten Wilholt — Wahrheit und Wissen|Torsten Wilholt — Wahrheit und Wissen]]
->
-> Wer richtig liegt, weiß deshalb noch nichts: Wissen ist wahre Überzeugung, die nicht vom Zufall lebt — und wer Irrtum für möglich hält, ist darum noch lange kein Skeptiker.
+> → *3 weitere in* [[Zeitgeist]]
 
 ### Panorama
+
+> **30.09.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Fünf offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
 > **28.09.** — [[Panorama/Forschung|Forschung]]
 >
@@ -96,11 +68,35 @@ Die Gedankenwelten (luc)
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> **27.09.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Fünf offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
 > → *1 weitere in* [[Panorama]]
+
+### Denker
+
+> **28.09.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
+>
+> Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar: Klees Credo von 1920 — und der Tag 1937, an dem man den Sichtbarmacher unsichtbar machen wollte.
+
+> **27.09.** — [[Denker/Philipp Blom — Die Unterwerfung|Philipp Blom — Die Unterwerfung]]
+>
+> Ein Satz aus der Bronzezeit regiert noch den Weltmarkt: Philipp Blom über die Idee, der Mensch stehe über der Natur, und warum Siegen dumm macht.
+
+> **22.09.** — [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere|Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
+>
+> Buber sucht das Du auf Augenhöhe, Levinas bestreitet, dass es sie geben darf. Zwei jüdische Denker, ein Gespräch, das nie stattfand — und die Frage, was zuerst kommt, die Begegnung oder die Verantwortung.
+
+### Geistesblitz
+
+> **28.09.** — [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
+>
+> Ein Flüchtlingsjunge verliebt sich in Molekülzeichnungen, Jahrzehnte später zieht sein Material Wasser aus Wüstenluft. Als Rettungsgeschichte will er es nicht erzählt haben.
+
+> **27.09.** — [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+>
+> Jede Wissenschaft treibt Geister aus, und in jede Lücke zieht ein neuer ein. Der jüngste wohnt in der Statistik — und weiß selbst nicht, ob er gefunden oder erfunden hat.
+
+> **26.09.** — [[Geistesblitz/Torsten Wilholt — Wahrheit und Wissen|Torsten Wilholt — Wahrheit und Wissen]]
+>
+> Wer richtig liegt, weiß deshalb noch nichts: Wissen ist wahre Überzeugung, die nicht vom Zufall lebt — und wer Irrtum für möglich hält, ist darum noch lange kein Skeptiker.
 
 ### Spuren
 

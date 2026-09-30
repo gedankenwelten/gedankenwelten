@@ -224,6 +224,10 @@ Wohnen als Testfall des Prinzips: Wiener Gemeindebau und gemeinnützige Bauverei
 
 Die Genossenschaft in der Industrie und auf dem schwersten Weg: 56 Beschäftigte kaufen eine insolvente Spinnerei in Lothringen mit ihren Abfindungen. Daneben scheitert Sitek Insulation an 5,7 Millionen Euro, und die Kapitalfrage, die das Panorama bei Mondragón streift, bekommt ein Gesicht.
 
+### → [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]]
+
+Krebs will Wertschöpfung jenseits der Rendite auf einem anderen Weg: Staatseigentum mit Arbeitnehmern im Aufsichtsrat statt Genossenschaften, die er nur im Kleinen für tragfähig hält. Chinas Industriepolitik nennt er „in großen Bereichen“ ein Vorbild.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

@@ -1040,3 +1040,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Omar M. Yaghi
 **Status:** ✓ Vollanalyse → [[DenkerVita/Omar M. Yaghi]]
+
+## Tom Krebs
+**Status:** ✓ Vollanalyse → [[DenkerVita/Tom Krebs]]

@@ -322,6 +322,10 @@ Im Salon ging es um Kaczmarczyks *Zerfall der Weltordnung*: Troika-Sparen für G
 
 Die Gegenrechnung zum Titel. Selbst wenn Geld genug da ist, liegt für Herrmann die Grenze in der Physik der Energieumwandlung, die kein Haushaltsbeschluss aufhebt. Sigl-Glöckner behält als Einzige am Tisch diese echte Knappheit im Blick — Fachkräfte, Stahl, gute Jobs in einer schwachen Industrie; ihr „zwei statt drei Autos exportieren, dafür genug Pflege“ lenkt reale Ressourcen um und ist keine Geldfrage mehr. Herrmanns demokratische Rationierung und Sigl-Glöckners „Kochrezept“ gehen in derselben Reihenfolge vor: erst festlegen, was gebraucht wird. Sie trennen sich an der Frage, ob die Wirtschaft dabei wachsen darf.
 
+### → [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]]
+
+Kaczmarczyks Koautor macht aus der Netzrechnung dieses Abends ein Programm: öffentliches Eigentum überall, wo privates Kapital Rendite kostet, ohne Innovation zu bringen. Sigl-Glöckners Einwand vom Staat als Monopolisten trifft ihn am härtesten, und Krebs räumt selbst ein, dass auch Stadtwerke sich wie Blackrock benehmen können.
+
 ---
 
 ## Weiterdenken
