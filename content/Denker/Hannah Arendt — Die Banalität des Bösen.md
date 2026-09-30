@@ -286,3 +286,7 @@ Die Sudan-Leaks lesen sich wie ein Lehrstück der Herrschaft des Niemand: Charge
 ### → [[DenkerVita/Lena Kotre]]
 
 Der Begriff in seiner Gegenwartsform: Was eine AfD-Landtagsabgeordnete öffentlich vorschlägt, kommt nicht als Gewaltfantasie daher, sondern als Verwaltungsvorgang — öffentliche Ausschreibung, Ressourcenmanagement, Zugriff, Transport, private Haftanstalten, Passbeschaffung. Arendts Beobachtung war nie, dass Täter Ungeheuer seien, sondern dass sich das Ungeheure in Zuständigkeiten zerlegen lässt, bis es niemandem mehr gehört. Hier ist es ein Vergabeverfahren. → [[Zeitgeist/Daniel - Lena Kotré plant private Abschiebeindustrie|die Note zum Konzept]]
+
+### → [[Philipp Blom — Die strauchelnde Welt]]
+
+Blom überträgt die Banalität des Bösen auf die ICE-Festnahmen in den USA: Diktaturen beginnen mit einer Kette von Unterschriften, und für die eine wirft niemand den Job hin und riskiert die Hypothek. Bei ihm scheitert die Verweigerung weniger am Nicht-Denken als an ihrem Preis.

@@ -247,6 +247,10 @@ Dieselbe Einheit der Phänomene, andere Wurzel. Tekkal führt Islamismus und Rec
 
 Girard, gelesen von den Gewinnern. Peter Thiel bezeichnet sich als Girard-Schüler und leitet aus der mimetischen Rivalität eine apokalyptische Notwendigkeit ab — und daraus die Berechtigung von Palantir. Mishra leitet aus derselben Mechanik das Ressentiment der Ausgeschlossenen ab. Dass beide bei Girard landen und in entgegengesetzte Richtungen gehen, ist der schärfste Test für die Reichweite dieser Theorie.
 
+### → [[Philipp Blom — Die strauchelnde Welt]]
+
+Philipp Blom zieht dieselbe Linie von der Vorkriegszeit in die Gegenwart und findet im Schuster neben der Schuhfabrik die Kleinbürgerfassung des Ressentiments gegen die Moderne. Sein Buch über 2001 bis 2014 versucht, Europa aus der Mitte zu rücken, und beginnt im Kongo.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

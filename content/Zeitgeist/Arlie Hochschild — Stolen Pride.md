@@ -245,6 +245,10 @@ Die Begriffe zu dem, was Hochschild im Feld gesehen hat. Was in Pikeville als *T
 
 Das Stolz-Paradox ist dort die internationale Brücke zwischen Ökonomie und Kränkung, in drei der fünf Fragen.
 
+### → [[Philipp Blom — Die strauchelnde Welt]]
+
+Blom nennt dasselbe Entwürdigung: eine Arbeiterklasse, die mit Gewerkschaft und Druckmittel ihre Würde verlor und „nur noch Konsument“ ist. Er ergänzt, warum die Wut ihr Ziel verfehlt: Die Verursacher der Deindustrialisierung haben kein Gesicht, die syrische Familie im Ort hat eins.
+
 
 ## Weiterdenken
 

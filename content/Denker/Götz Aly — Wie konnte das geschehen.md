@@ -293,6 +293,10 @@ Dieselbe Struktur in zwei Völkermorden. Alys Prinzip der Verstrickung erklärt,
 
 Der „materielle Kitt“ aus Sozialpolitik und Raub steht dort in der Frage „Was lehrt Weimar?“, gegen den Befund, dass manche Einstellungen sechs Jahrhunderte überdauern.
 
+### → [[Philipp Blom — Die strauchelnde Welt]]
+
+Blom erzählt den Wiener Antisemitismus um Lueger als Ressentiment des Schusters gegen die Schuhfabrik, deren Prokurist oft Jude war. Neben Alys Neid der Aufsteiger steht damit eine zweite Erklärung aus derselben statistischen Lage: die Angst der Absteiger.
+
 ## Eine eigene Reflexion
 
 Alys Vortrag endet nicht mit Beruhigung. Er zeigt, dass die Deutschen von 1933–45 keine andere Species waren. Dieselben Mechanismen — materielle Interessenbindung, Angst vor Konsequenzen, kollektive Verstrickung, die Logik des Kein-Weg-Zurück — sind keine historische Ausnahme.

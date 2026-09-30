@@ -2,7 +2,7 @@
 title: "Wie handelt eine Demokratie?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-09-27
+aktualisiert: 2026-09-30
 description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -117,6 +117,8 @@ Trotzdem wächst die Sehnsucht. 2017 hielten sechs Prozent der Deutschen einen s
 
 Kann Beratung eine Demokratie auch schneller machen? Irland hatte das Abtreibungsverbot seit 1983 in der Verfassung, und erst nach der Citizens' Assembly stimmten 2018 zwei Drittel für seine Aufhebung ([Farrell, Suiter & Harris 2019, doi:10.1080/07907184.2018.1534832](https://doi.org/10.1080/07907184.2018.1534832)). Die Versammlung galt 2016 zunächst als Vertagungsmanöver, und ein übertragbares „irisches Modell“ gibt es nicht; der Erfolg hing am Willen der Regierung ([Courant 2021, doi:10.3389/fpos.2020.591983](https://doi.org/10.3389/fpos.2020.591983)). Vom Bürgerrat Ernährung des Bundestags wurde bis Februar 2025 keine der neun Empfehlungen umgesetzt, auch weil die Wahlperiode nach dem Bruch der Ampel verkürzt war ([Das Parlament](https://www.das-parlament.de/panorama/ortstermin/was-aus-den-empfehlungen-des-buergerrates-wurde)).
 
+Ob Handeln der Zustimmung vorausgehen darf, lässt sich an Maßnahmen prüfen, die gegen die Mehrheit begannen. Die Stockholmer City-Maut fiel vor dem Start auf 36 Prozent Zustimmung, kam nach einer Probephase im Referendum auf 53 und hielt sich danach über 70 ([Börjesson et al. 2012, doi:10.1016/j.tranpol.2011.11.001](https://doi.org/10.1016/j.tranpol.2011.11.001)); geurteilt wurde vorher nach befürchteten Kosten, nachher nach erlebtem Nutzen ([Schuitema, Steg & Forward 2010, doi:10.1016/j.tra.2009.11.005](https://doi.org/10.1016/j.tra.2009.11.005)). Nach Rauchverboten steigt die Zustimmung selbst unter Rauchern, aber nur, wenn das Verbot konsequent ist ([Mons et al. 2012, doi:10.1093/eurpub/ckr202](https://doi.org/10.1093/eurpub/ckr202)). Göteborg zeigt die Grenze: Die Einstellungen zur Maut wurden nach der Einführung freundlicher, das Referendum ging trotzdem verloren, weil Werte, Geldverwendung und Legitimität des Verfahrens schwerer wogen ([Hansla et al. 2017, doi:10.1016/j.tranpol.2016.10.003](https://doi.org/10.1016/j.tranpol.2016.10.003)). Wo die Last an einem Ort hängt, wie bei Windrädern in Ontario, folgt der Backlash ([Stokes 2016, doi:10.1111/ajps.12220](https://doi.org/10.1111/ajps.12220)). Was hilft, ist bekannt: Probephase, sichtbarer Nutzen, Rückverteilung, verteilte Kosten ([Carattini, Carvalho & Fankhauser 2018, doi:10.1002/wcc.531](https://doi.org/10.1002/wcc.531), Review). Die erfolgreichsten Fälle, Stockholm und die Wiener Mariahilfer Straße, gingen einen dritten Weg zwischen oben und unten: erst probieren, dann abstimmen.
+
 Die Gegenbewegung sind Beschleunigungsgesetze, die Beteiligung und Klagerechte beschneiden. Ob sie beschleunigen, ist kaum untersucht. Umweltverbände klagen rund 69-mal im Jahr und gewinnen in über der Hälfte der Fälle ganz oder teilweise, bei allen Verwaltungsklagen sind es zwölf Prozent ([UfU für das Umweltbundesamt 2025](https://www.ufu.de/wp-content/uploads/2025/03/250214_UfU-PM_Rechtsschutz-in-Umweltangelegenheiten-1.pdf)). Der Sachverständigenrat für Umweltfragen findet für die Klage als Bremse keine empirische Stütze und warnt vor „symbolischer Handlungsdynamik“ ([SRU 2026](https://www.umweltrat.de/SharedDocs/Downloads/DE/04_Stellungnahmen/2024_2028/2026_02_SN_Beschleunigung.html)). Und einmal hat das Bundesverfassungsgericht die Eile selbst gestoppt: Im Juli 2023 hielt es die Abstimmung über das Gebäudeenergiegesetz an, weil die Abgeordneten zu wenig Zeit zum Beraten hatten ([BVerfG](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2023/bvg23-063.html)).
 
 **Die Stimmen**
@@ -127,11 +129,14 @@ Die Gegenbewegung sind Beschleunigungsgesetze, die Beteiligung und Klagerechte b
 - **[[Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA#Der CEO sorgt sich nicht|Carlotta Voß]]:** Säkularisiert man den Monarchen, fällt die Fürsorge weg, darum wird er zum CEO.
 - **[[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)#Macht — Willen durchsetzen oder geteilte Handlungsfähigkeit?|Eva von Redecker]]:** Macht ist mit Arendt geteilte Handlungsfähigkeit, nicht Herrschaft über andere; die Energiewende ist Macht in diesem Sinn.
 - **[[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Exkurs Digitalisierung und der schwindende Vorteil der Demokratie|Aladin El-Mafaalani]]:** Die Digitalisierung macht Kontrolle billig, der Effizienzvorteil der Demokratie schwindet; sie muss sich künftig normativ begründen.
-- **[[Tim Meyer und Jan Hegenberg — China Energiewende#Brutaler Wettbewerb im strategischen Rahmen — Chinas Erfolgsmodell|Tim Meyer]]:** China setzt einen Fünfjahresrahmen und lässt darin brutal konkurrieren; Bürgermeister werden nach Kennzahlen ersetzt.
+- **[[Philipp Blom — Die strauchelnde Welt#Warum das Ozonloch leichter war|Philipp Blom]]:** „Menschen lernen nicht durch kluge Argumente, sondern nur durch Erfahrungen“; nach dem Geschrei kommt die Gewöhnung, darum muss es Revolution von oben und von unten geben.
 - **[[Walther Ziegler — Popper in 60 Minuten#Der Stückwerk-Ingenieur — Politik als Versuch und Irrtum|Karl Popper]]** (bei Walther Ziegler): Kleine, korrigierbare Schritte statt des großen Umbaus.
 
-<details><summary>Weitere Stimmen (6)</summary>
+<details><summary>Weitere Stimmen (9)</summary>
 
+- **[[Tim Meyer und Jan Hegenberg — China Energiewende#Brutaler Wettbewerb im strategischen Rahmen — Chinas Erfolgsmodell|Tim Meyer]]:** China setzt einen Fünfjahresrahmen und lässt darin brutal konkurrieren; Bürgermeister werden nach Kennzahlen ersetzt.
+- **[[Maja Goepel und Achim Truger — Wachstum NEU DENKEN#Planvoll, gemeinsam, schrittweise|Achim Truger]]:** Was schrittweise gelingt, „schafft die Erfahrung, dass es nicht weh tut“, etwa die autofreie Innenstadt.
+- **[[Steffen Mau — Triggerpunkte Konsens und Konflikt#Triggerpunkte — Wo Konsens in Dissens umschlägt|Steffen Mau]]:** Verhaltenszumutungen wie Heizungsgesetz oder Tempolimit sind die Punkte, an denen Konsens in Dissens kippt.
 - **[[Ivan Krastev — Wie zukunftsfaehig ist Europa#Zeithorizonte der Mächtigen — Trump, Putin, Xi|Ivan Krastev]]:** Ein „TikTok-Präsident mit dem Zeithorizont eines toten Fuchses“; die Demokratie lebte von Politikern, die an kommende Generationen dachten.
 - **[[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas#Was das Referat weglässt|Ray Dalio]]:** Ein starker CEO ist von einem Demagogen kaum zu unterscheiden, und der Übergang zur Autokratie geschieht meist innerhalb der Regeln.
 - **[[Herfried Muenkler — Die Sehnsucht nach Ordnung#Angst sucht sich ihre Gegenstände|Herfried Münkler]]:** Den Starken wählt man aus Angst, und gegen Angst ist die Mitte hilflos.
@@ -188,6 +193,7 @@ Der am besten gestützte Mittelweg: die Beratung schützen, die Gründe offenleg
 | Datum | Note | Vertieft |
 |---|---|---|
 | 27.09.2026 | [[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Nachbesprechung|Ardalan Ibrahim — Die Partei für Losdemokratie]] | Gründungsnote: Beraten oder entscheiden (bindende Losgremien, Michigan, Paris, Guter Rat) · Vor der Kamera oder dahinter (Elster, Zentralbank-Protokolle, Begründung statt Prozess) |
+| 30.09.2026 | [[Philipp Blom — Die strauchelnde Welt#Nachbesprechung|Philipp Blom — Die strauchelnde Welt]] | Gründlich oder schnell? Gewöhnen sich Menschen an das Verordnete? Stockholm-Maut 36 → 53 → über 70 % (Börjesson et al. 2012, Eliasson 2014), Rauchverbote nur konsequent (Mons et al. 2012), Göteborg und Gelbwesten als Grenze (Hansla et al. 2017, Douenne & Fabre 2022); der dritte Weg: erst probieren, dann abstimmen |
 
 ---
 

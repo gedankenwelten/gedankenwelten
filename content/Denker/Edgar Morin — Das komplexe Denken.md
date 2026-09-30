@@ -209,6 +209,10 @@ Klees Satz „Das Böse soll nicht triumphierender Feind sein, sondern am Ganzen
 
 Ricœur nannte es sein Los, „immer zwischen zwei Einflüssen platziert" zu sein, und schrieb ein Buch darüber: *Der Konflikt der Interpretationen*. Das ist das *principe dialogique* als Biografie — zwei Logiken zusammenhalten, ohne eine zu opfern. Auch der Weg ist derselbe: Beide verlangen den Umweg durch die Wissenschaften vom Menschen, bevor man vom Menschen spricht, und beide weigern sich, das Erklären gegen das Verstehen auszuspielen.
 
+### → [[Philipp Blom — Die strauchelnde Welt]]
+
+Philipp Blom beendet sein Gespräch über die strauchelnde Welt mit Morins Satz „Ich bin weder Optimist noch Pessimist. Ich bin entschlossen.“ Auch sonst denkt er in Morins Art: Lueger als Antisemit und großer Bürgermeister zugleich, die Wut der Abgehängten als berechtigt und doch fehlgeleitet.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
