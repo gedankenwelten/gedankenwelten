@@ -2,8 +2,8 @@
 title: "Wie kann Demokratie funktionieren?"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-09-27
-description: "Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sechs offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben."
+aktualisiert: 2026-09-30
+description: "Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
   - panorama
@@ -28,7 +28,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Wer entscheidet in einer Demokratie: die Gewählten, die Gelosten oder alle? Und was hält eine Mehrheit davon ab, mit der Minderheit zu machen, was sie will? Dieses Panorama fragt nicht, wer die Demokratie bedroht (dafür gibt es [[Panorama/NoAfD|NoAfD]] und [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien]]), sondern wie sie gebaut ist. Sechs offene Fragen, zu jeder das, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen. Jede führt mit einem Klick an die Stelle in ihrer Note, an der sie das sagt.
+> Wer entscheidet in einer Demokratie: die Gewählten, die Gelosten oder alle? Und was hält eine Mehrheit davon ab, mit der Minderheit zu machen, was sie will? Dieses Panorama fragt nicht, wer die Demokratie bedroht (dafür gibt es [[Panorama/NoAfD|NoAfD]] und [[Panorama/Rechte Medien — Das Geschaeft mit der Luege|Rechte Medien]]), sondern wie sie gebaut ist. Sieben offene Fragen, zu jeder das, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen. Jede führt mit einem Klick an die Stelle in ihrer Note, an der sie das sagt.
 
 > [!info] Ein wachsendes Panorama
 > Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Die erste war [[Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler]] im September 2026. Unten steht, welche Notes seither dazukamen.
@@ -248,6 +248,38 @@ Was an die Stelle der Parteien tritt, beschreiben die Stimmen unterschiedlich: P
 
 ---
 
+## Wiegt jede Stimme gleich?
+
+Am Wahltag gilt ein Mensch, eine Stimme. Die Frage ist, wie viel Gewicht die Stimme zwischen den Wahltagen hat. In den USA fanden Gilens und Page über 1.779 Politikfragen, dass Wirtschaftseliten und Unternehmensverbände eigenen Einfluss hatten und Durchschnittsbürger kaum ([Gilens & Page 2014, doi:10.1017/S1537592714001595](https://doi.org/10.1017/S1537592714001595)); die Kritik hielt dagegen, dass Mitte und Reiche meist dasselbe wollen und die Mitte darum oft bekommt, was sie will ([Enns 2015, doi:10.1017/S1537592715002315](https://doi.org/10.1017/S1537592715002315)). Für Europa ist der Befund leiser und stabil. Über dreißig Länder und fast vierzig Jahre werden Vorschläge, die die Reichen wollen, häufiger umgesetzt, ein knapper Vorsprung ([Persson & Sundell 2024, doi:10.1017/s0007123423000066](https://doi.org/10.1017/s0007123423000066)). Im Bundestag neigten die Entscheidungen von 1980 bis 2013 den oberen Berufs- und Bildungsgruppen zu, gleich unter welcher Koalition, und zwar *nicht nur* über Geld, sondern über die soziale Zusammensetzung des Parlaments ([Elsässer, Hense & Schäfer 2021, doi:10.1080/13501763.2020.1801804](https://doi.org/10.1080/13501763.2020.1801804)); in den Niederlanden über die höhere Beteiligung der Wohlhabenden ([Schakel 2021, doi:10.1093/ser/mwz018](https://doi.org/10.1093/ser/mwz018)).
+
+Wo das Geld selbst wirkt, ist es am deutlichsten in der Öffentlichkeit. Nach den Übernahmen der Sinclair-Gruppe rückten US-Lokalsender messbar nach rechts, ohne dass die Zuschauer es verlangten ([Martin & McCrain 2019, doi:10.1017/S0003055418000965](https://doi.org/10.1017/S0003055418000965)), und der Algorithmus-Feed von X verschob in einem randomisierten Experiment politische Haltungen dauerhaft ([Gauthier et al. 2026, doi:10.1038/s41586-026-10098-2](https://doi.org/10.1038/s41586-026-10098-2)). In Deutschland flossen 2024/25 rund 42 Millionen Euro Großspenden an Parteien, ohne Deckel, den 19 von 27 EU-Staaten haben ([LobbyControl](https://www.lobbycontrol.de/parteienfinanzierung/parteispenden-2025-afd-grossspenden-explodieren-123936/)); Österreich deckelt seit 2019 bei 7.500 Euro pro Spender und Jahr. Zum Geld in Volksabstimmungen → [[#Was kann direkte Demokratie — und was nicht?|Wer bezahlt]].
+
+Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründet sie mit der Demokratie, nicht mit Moral ([Robeyns 2022, doi:10.1111/jopp.12275](https://doi.org/10.1111/jopp.12275)); das Demokratie-Argument begründe aber keinen Vorrang vor anderer Umverteilung, halten Kritiker dagegen ([Halldenius 2022, doi:10.1007/s10677-022-10337-1](https://doi.org/10.1007/s10677-022-10337-1)). Frankreichs Zucman-Steuer, zwei Prozent ab 100 Millionen, scheiterte 2025 an Senat und Haushalt. Ob Vermögensteuern die Reichen vertreiben, hängt an der Ausgestaltung: In der Schweiz weicht Vermögen stark aus ([Brülhart et al. 2022, doi:10.1257/pol.20200258](https://doi.org/10.1257/pol.20200258)), in Norwegen blieb der angekündigte Exodus klein ([Ring 2026, doi:10.2139/ssrn.7534880](https://doi.org/10.2139/ssrn.7534880), Preprint).
+
+**Die Stimmen**
+
+- **[[Philipp Blom — Die strauchelnde Welt#Die Demokratie umbauen, bevor andere es tun|Philipp Blom]]:** Überreichtum zersetzt die Demokratie wie die sozialen Medien, und beide hängen zusammen; „100 Millionen sind wahrscheinlich genug pro Nase“.
+- **[[Martyna Linartas — Unverdiente Ungleichheit#Demokratie in Gefahr|Martyna Linartas]]:** Wo Vermögen sich vererbt und ballt, werden Demokratien zu Dynastien.
+- **[[Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft#Erbschaft, das günstigste Einkommen — und warum Geld Macht ist|Kevin Kühnert]]:** Milliardenerben zahlen zwei bis drei Prozent Steuern, und darum „geht es um Macht“.
+- **[[Thomas Laschyk — Vermoegenssteuer gegen Fake News#Wem die Zeitung gehört|Thomas Laschyk]]:** Am Anfang jeder Verlags- und Plattformmacht steht ein großes Vermögen, von Bezos bis Döpfner.
+- **[[Evan Osnos — Megayachten und die Seele der Ultrareichen#Das Nerd Reich und die Demokratie-Verachtung|Evan Osnos]]:** Unter den Ultrareichen des Silicon Valley gilt die Demokratie als ineffizientes Experiment.
+- **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Wir leben in der Aristokratie|Ardalan Ibrahim]]:** Die Wahl war die Erfindung, die das Volk wählen lässt, ohne die Macht der Vermögenden zu gefährden.
+- **[[phoenixRunde — Arm und Reich in Deutschland#Arm gegen Arm Der Verteilungskonflikt als politisches Instrument|David Deißner]]:** „Reich gegen Arm“ sei ebenso populistisch wie „Arm gegen Arm“, Substanzsteuern schadeten den Familienunternehmen.
+
+<details><summary>Weitere Stimmen (4)</summary>
+
+- **[[Philipp Blom — Die Unterwerfung#Die Kulissen der Demokratie|Philipp Blom]]** (2023): Der Milliardär hat am Sonntag eine Stimme, vorher Stiftungen, Thinktanks und Spenden; „die Kulissen stehen noch“.
+- **[[Studio Bonn — Extremer Reichtum#Vermögenskonzentration als Demokratiegefahr|Studio Bonn]]:** Wo Vermögen sich konzentriert, sinkt das Engagement der Bürger vor Ort.
+- **[[Gilda con Arne — Rechte Milliardaere kaufen Medien#USA Ellison, Bezos und das schrumpfende kritische Mediensystem|Gilda con Arne]]:** Ellison und Bezos kaufen und lenken, was vom kritischen Mediensystem bleibt.
+- **[[Marco Buelow — Korrumpiert#1.500 gegen 630 Die Fallhöhe|Marco Bülow]]:** 1.500 Lobbyisten stehen 630 Abgeordneten gegenüber; Einfluss ist eine Frage der Größenordnung.
+
+</details>
+
+> [!question] Die Reibung
+> Blom und Linartas sehen die Stimme vom Geld entwertet, die Forschung findet in Europa nur einen knappen Vorsprung der Reichen, der eher aus dem Hörsaal kommt als aus dem Tresor, und Deißner nennt schon die Frage populistisch. *Wenn die Schieflage vor allem aus der Zusammensetzung der Parlamente kommt: Wäre eine Vermögensgrenze dann die richtige Antwort, oder eher ein Parlament, das anders aussieht, bis hin zum Los?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | Vertieft |
@@ -257,6 +289,7 @@ Was an die Stelle der Parteien tritt, beschreiben die Stimmen unterschiedlich: P
 | 27.09.2026 | [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Nachbesprechung|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]] | Neue Frage: Wer gehört zum Demos? (Wahlrecht nach fünf Jahren, Forschung zu Ausländerwahlrecht und Einbürgerung) |
 | 27.09.2026 | [[Der Entscheidende Punkt — Nach den Landtagswahlen#Nachbesprechung|Der Entscheidende Punkt — Nach den Landtagswahlen]] | Direkte Demokratie: Was ein Beschluss bindet (Berlin gegen Hamburg, Tegel, Tempelhof) · Vertrauensforschung zu liegengelassenen Entscheiden · zwei neue Lesarten (Jung, Jessen) |
 | 27.09.2026 | [[Philipp Blom — Die Unterwerfung#Nachbesprechung|Philipp Blom — Die Unterwerfung]] | Das Los: Bloms „Ergänzung, nicht Ersatz“ gegen die Forschung (Legitimität nur bei Befolgung, Webb et al. 2026) · Irlands Drogen-Assembly ignoriert · Ursprung der Losdemokratie-Idee |
+| 30.09.2026 | [[Philipp Blom — Die strauchelnde Welt#Nachbesprechung|Philipp Blom — Die strauchelnde Welt]] | Neue Frage: Wiegt jede Stimme gleich? Ungleiche Responsivität (Gilens & Page 2014, Elsässer et al. 2021, Persson & Sundell 2024: „slight edge“), Medien- und Plattformbesitz (Martin & McCrain 2019, Gauthier et al. 2026), Großspenden ohne Deckel, Limitarismus (Robeyns 2022) und Zucman-Steuer, Vermögensflucht Schweiz vs. Norwegen |
 
 ---
 
