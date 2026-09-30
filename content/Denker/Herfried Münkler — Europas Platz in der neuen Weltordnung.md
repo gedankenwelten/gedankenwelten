@@ -353,6 +353,10 @@ Heinrich zerlegt an konkreten Bausteinen, was Münkler als Weltbild beschreibt: 
 
 Der Fall, an dem Münklers „Drittes zwischen Krieg und Frieden" praktisch wird — und bestritten. Für ihn ist „hybride Kriegsführung" der beste verfügbare Name für eine reale Lücke seit dem Zerfall der Grotius-Ordnung; Marina Kormbaki hält denselben Begriff für ein schwammiges Wort, das die Lage kleiner macht, als sie ist. Beide können recht haben: Ein Begriff, der eine echte Zwischenzone benennt, taugt genau deshalb dazu, sich hinter ihr zu verstecken.
 
+### → [[Philipp Blom — Die strauchelnde Welt]]
+
+Blom stellt dieselbe Frage („Sitzen wir am Tisch oder sind wir am Menü?“) und gibt die Gegenantwort: eine direkt gewählte, föderale europäische Regierung statt einer Führungsgruppe der Großen. Wie Münkler sieht er Europas Chance als Hüter von Institutionen und Verträgen, begründet sie aber mit fünfhundert Jahren Massaker.
+
 ---
 
 ## Weiterführende Quellen

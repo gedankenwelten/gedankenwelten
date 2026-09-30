@@ -309,6 +309,10 @@ Krastevs „Budgets führen keine Kriege. Menschen führen Kriege“ ist Jana Pu
 
 Krastevs Beobachtung, dass kleine Nationen unter der Frage leben, ob es sie in hundert Jahren noch gibt, erklärt eine Merkwürdigkeit bei Knaus: Warum tagt Helsinki wegen eines Vorfalls in Nordafrika? Knaus nennt es eine traumatisierte politische Elite und lässt es dabei; bei Krastev hat dieselbe Panik eine demografische Wurzel. Zusammengelesen ergibt sich, warum Argumente über Größenordnungen so wenig ausrichten.
 
+### → [[Philipp Blom — Die strauchelnde Welt]]
+
+Blom greift den demografischen Kollaps und die Abwanderung der Jungen aus Osteuropa auf („Wenn man kaum noch Kinder auf der Straße sieht …“) und landet mit Morins „entschlossen“ bei der Haltung, die Krastev mit Havel beschreibt. Seine Konsequenz geht weiter: eine direkt gewählte, föderale europäische Regierung.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

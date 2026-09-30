@@ -70,6 +70,7 @@ Romane: *Luxor* (2006), *Bei Sturm am Meer* (2016), *Diebe des Lichts* (2021). A
 ## Empfehlenswerte Videos & Vorträge
 
 - [Jung & Naiv: Folge 670](https://www.youtube.com/watch?v=vqbLpSczJI4) (2023) — dreieinhalb Stunden über *Die Unterwerfung*, Wachstum, Demokratie, Nahost und seine Biografie; sein einziger Auftritt bei Jung & Naiv → [[Philipp Blom — Die Unterwerfung]]
+- [Ist die Welt verrückt geworden?](https://www.youtube.com/watch?v=HXvO3q4dxvA) (DER STANDARD, *Thema des Tages*, 2026) — gut eine Stunde zu *Die strauchelnde Welt*: Beschleunigung, Entwürdigung, der falsche Liberalismus, Europas Lehre, wie Diktaturen anfangen → [[Philipp Blom — Die strauchelnde Welt]]
 - [Die Klimakatastrophe und ihre Erzählung](https://www.youtube.com/watch?v=RRvxyQqBkq4) (Keynote, 2021)
 - [Aufklärung in Zeiten der Verdunkelung](https://www.youtube.com/live/4n5bmn_zuFM) (Livestream, 2026)
 - [3sat-Interview zu *Der taumelnde Kontinent*](https://www.youtube.com/watch?v=9lqrBT7fvHs) (2014)
@@ -112,4 +113,5 @@ Die Kritik an *Die Unterwerfung* ([Perlentaucher](https://www.perlentaucher.de/b
 ## Cortex-Notes
 
 - [[Philipp Blom — Die Unterwerfung]]
+- [[Philipp Blom — Die strauchelnde Welt]] — STANDARD-Podcast *Thema des Tages* (2026) zum Buch *Die strauchelnde Welt*: Entwürdigung, gesichtslose Gegner, der falsche Liberalismus, Europas Lehre, wie Diktaturen anfangen
 - [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]] — Ibrahim nennt das Jung-&-Naiv-Gespräch mit Blom als Anstoß zur Parteigründung

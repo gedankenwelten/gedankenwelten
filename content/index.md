@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Makroökonom aus dem Innern des Fachs nennt dessen Leitbild ein Märchen, rechnet Berlin die Vergesellschaftung vor und liest den Aufstieg der AfD an Energiepreisen ab. Am Tisch sitzt keine Gegenstimme.
 
+> **30.09.** — [[Zeitgeist/Philipp Blom — Die strauchelnde Welt|Philipp Blom — Die strauchelnde Welt]]
+>
+> Wie aus dem Jubel der Jahrtausendwende in einer Generation die Zeit der Monster wurde: Philipp Blom über Entwürdigung, gesichtslose Gegner, den falschen Liberalismus und die Unterschrift, mit der Diktaturen beginnen.
+
 > **30.09.** — [[Zeitgeist/Akkudoktor — SMR und drei Versprechen|Akkudoktor — Mini-Atomkraftwerke und drei Versprechen]]
 >
 > Ein Ingenieur legt drei Versprechen der Mini-Atomkraftwerke auf den Taschenrechner. Für die Dunkelflaute taugen sie nicht, beim Rest ist die ehrlichste Antwort: Das weiß heute niemand.
@@ -40,13 +44,13 @@ Die Gedankenwelten (luc)
 >
 > Siebzehn Tage vor dem Wahlsieg sagt Elif Eralp bei Tilo Jung, was sie will, und verweigert die eine Zahl, an der man sie messen könnte. Ein Protokoll des Versprechens, bevor es Macht wird.
 
-> **27.09.** — [[Zeitgeist/Der Entscheidende Punkt — Nach den Landtagswahlen|Der Entscheidende Punkt — Nach den Landtagswahlen]]
->
-> Am Tag nach der Wahl findet eine Runde von Journalisten für AfD und Linke dasselbe Wort: Hoffnung. Was wird aus Menschen, die sich lange nicht gehört fühlten, wenn sie gehört werden wollen?
-
-> → *4 weitere in* [[Zeitgeist]]
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Panorama
+
+> **30.09.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
 
 > **30.09.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
@@ -63,10 +67,6 @@ Die Gedankenwelten (luc)
 > **27.09.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
 >
 > Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
-
-> **27.09.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
 
 > → *1 weitere in* [[Panorama]]
 

@@ -4687,6 +4687,16 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **DenkerVita** | [[DenkerVita/Philipp Blom]] · [[DenkerVita/Tilo Jung]] · [[DenkerVita/Hans Jessen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Blom_Unterwerfung_JungNaiv670_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
 
+## Philipp Blom — Die strauchelnde Welt (DER STANDARD, Thema des Tages)
+
+| | |
+|---|---|
+| **Video** | [Ist die Welt verrückt geworden? \| Philipp Blom](https://www.youtube.com/watch?v=HXvO3q4dxvA) — DER STANDARD, *Thema des Tages*, 15.09.2026 (1:14 h) |
+| **Buch** | Philipp Blom: *Die strauchelnde Welt* (Hanser, 2026) — [genialokal](https://www.genialokal.de/Suche/?q=blom+strauchelnde+welt) |
+| **Notiz** | [[Zeitgeist/Philipp Blom — Die strauchelnde Welt]] |
+| **DenkerVita** | [[DenkerVita/Philipp Blom]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Blom_Strauchelnde_Welt_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
 ## Marco Bülow — Korrumpiert (mit Martin Sonneborn)
 
 | | |

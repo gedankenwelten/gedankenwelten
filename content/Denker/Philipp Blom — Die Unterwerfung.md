@@ -429,6 +429,10 @@ Linartas liefert die Verteilung, die Bloms Rechnung „zurück zum Energieverbra
 
 Bloms These, dass Vermeidungshaltungen wie das „Nie wieder“ nach zwei bis drei Generationen verblassen, beschreibt genau die Lage, in der Wagner arbeitet: Die Zeitzeugen sterben, die Rhetorik bleibt, der Revisionismus wächst. Was Blom als historisches Muster konstatiert, versucht Wagner als Gedenkstättenleiter aufzuhalten.
 
+### → [[Philipp Blom — Die strauchelnde Welt]]
+
+Drei Jahre später sitzt Blom beim STANDARD und hat sich entschieden: Social Media und Demokratie können nicht miteinander leben, 100 Millionen sind genug pro Kopf, und Diktaturen beginnen mit Leuten, die einen Job machen. Die Fortsetzung macht aus dem „neuen Adel“ und den Kulissen der Demokratie ein Programm für Europa.
+
 ### → [[DenkerVita/Philipp Blom|Philipp Blom — DenkerVita]]
 
 ---
