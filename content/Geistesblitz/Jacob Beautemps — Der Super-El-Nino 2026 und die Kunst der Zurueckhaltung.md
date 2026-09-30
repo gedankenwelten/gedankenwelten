@@ -176,6 +176,10 @@ Die ökonomische Fernwirkung als Brücke: Beautemps' Callahan-&-Mankin-Befund (E
 
 Die Kunst der Zurückhaltung als Berufsethos: Kornmeier beschreibt sein eigenes Messgerät als Ohr an der Außenmauer eines Hauses, in dem jeder Raum einen anderen Chor beherbergt — und fordert, dass Wissenschaftler genau das besser kommunizieren müssten. Wo Beautemps eine wahrscheinliche Katastrophe dämpft, dämpft Kornmeier den eigenen Befund. Beide zahlen dafür: mit Reichweite der eine, mit Überzeugungskraft der andere.
 
+### → [[Akkudoktor — SMR und drei Versprechen]]
+
+Ein zweiter promovierter Wissenschaftler auf YouTube, der an der entscheidenden Stelle „ich weiß es nicht“ sagt, beim Atommüll der SMR, und die heutige Kostenlücke von Annahmen über das Jahr 2045 trennt. Seine Zurückhaltung im Inhalt bezahlt er allerdings nicht mit Reichweite, der Titel bleibt laut.
+
 ---
 
 ## Weiterdenken

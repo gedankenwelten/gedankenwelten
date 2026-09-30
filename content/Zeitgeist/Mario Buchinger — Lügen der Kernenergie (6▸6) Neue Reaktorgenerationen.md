@@ -242,3 +242,7 @@ Kemfert und Buchinger kommen unabhängig zum selben SMR-Schluss: IEA frühestens
 ### → [[Zeitgeist/MONITOR — Atomkraft-Comeback und die Mini-Reaktoren]]
 
 MONITOR liefert das journalistische Fallbeispiel zu Buchingers These: Der THTR-300 in Hamm-Uentrop verkörpert die „neue Reaktorgeneration", die vor 50 Jahren wortgleich beworben wurde — und nach 423 Tagen als Milliardengrab endete. Das aktuelle SMR-Versprechen wiederholt exakt diese Rhetorik.
+
+### → [[Akkudoktor — SMR und drei Versprechen]]
+
+Der Akkudoktor prüft dieselben Kandidaten und findet bei der Transmutation dieselben Haken: andere Reaktortypen nötig, der Müll strahlt kürzer, ein Endlager braucht es trotzdem. Bei den SMR-Kosten liest er Zahlen wie Buchingers 5.000 Einheiten als eine Schätzung unter mehreren (17 bis 3.000) und lässt offen, was Buchinger für entschieden hält.

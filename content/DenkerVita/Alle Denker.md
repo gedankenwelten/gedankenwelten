@@ -487,6 +487,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Jean-Paul Sartre|Jean-Paul Sartre]]** — Philosoph, Romancier, Dramatiker (1905–1980); Hauptfigur des Existentialismus und Prototyp des französischen Intellektuellen; Existenz vor Essenz, zur Freiheit verurteilt, *mauvaise foi*, der Blick des anderen; *Der Ekel* (1938), *Das Sein und das Nichts* (1943), *Geschlossene Gesellschaft* (1944); lehnte 1964 den Literaturnobelpreis ab, weil ein Autor sich nicht in eine Institution verwandeln lassen dürfe
 
+**[[DenkerVita/Andreas Schmitz|Andreas Schmitz]]** — Ingenieur und KI-/Optimierungsforscher (DLR, Promotion Ruhr-Uni Bochum), YouTuber *Akkudoktor*; DIY-Energiewende mit PV, Heimspeicher und Wärmepumpe, Hauptpetent der Balkonsolar-Petition 2023, Open-Source-Energiemanagement Akkudoktor-EOS; Motto „Physik ist keine Meinung“
+
 **[[DenkerVita/Semir Zeki|Semir Zeki]]** — Neurobiologe (UCL), Begründer der Neuroästhetik; funktionelle Spezialisierung des visuellen Kortex (Farbe in V4, Bewegung in V5), neuronale Basis von Schönheit und Liebe; mit Andreas Bartels Autor der ersten fMRT-Studien zu romantischer und mütterlicher Liebe
 
 **[[DenkerVita/Sham Jaff|Sham Jaff]]** — Freie Journalistin & Politikwissenschaftlerin (kurdisch-deutsch), Autorin des Newsletters *what happened last week?*, Grimme-Preis für den Hanau-Podcast *190220*; Nachrichten aus dem Globalen Süden, konstruktiver Journalismus, Krise des Völkerrechts aus globaler Perspektive; WDR Europaforum / re:publica 26 Panel „Out of order?"

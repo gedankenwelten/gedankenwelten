@@ -222,3 +222,7 @@ Kemfert ordnet die Atomkraft ökonomisch als teuerste Stromform mit ungelöstem 
 ### → [[Panorama/Energie]]
 
 Diese Note ist Teil des Energie-Panoramas — konkret der Sektion „Die neue Nachfrage: Wird KI zum trojanischen Pferd der Atomkraft?". Das Panorama bettet den SMR-Hype in den größeren Zusammenhang ein: Reiche-Lobbyismus, Subventionsasymmetrie, Batteriespeicher-Blockade und die Frage, ob die explodierende KI- und E-Mobilitäts-Nachfrage rein erneuerbar gedeckt werden kann (Fraunhofer/IEA/Jacobson vs. Clack).
+
+### → [[Akkudoktor — SMR und drei Versprechen]]
+
+Dieselbe Frage vier Monate später, mit Kostenkurven statt Zeitzeugen: Der Akkudoktor legt die Schätzungen zur Serienfertigung nebeneinander (von 17 bis 3.000 Reaktoren) und liefert dabei auch das Argument *für* SMR, nach dem die letzte Weiterdenken-Frage hier sucht, die passive Kühlung als echten, aber unbewiesenen Fortschritt. Wimmers' „wir wissen es noch nicht“ wird dort zum Fazit des ganzen Videos.

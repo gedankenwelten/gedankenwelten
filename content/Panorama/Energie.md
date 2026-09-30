@@ -433,3 +433,7 @@ Der Rechenzentrums-Hunger von unten gesehen — und mit der Zahl, die in der Ter
 ### → [[Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
 
 Netzausbau und Genehmigungsdauer sind dort der konkrete Fall für die Frage, woran eine Demokratie beim Handeln hängen bleibt.
+
+### → [[Akkudoktor — SMR und drei Versprechen]]
+
+Beitrag zur Frage nach dem trojanischen Pferd: Die Nachfrage nach SMR kommt heute vor allem von Rechenzentren und Industriestandorten, während der Reaktor im Netz gegen die Mittagssonne verliert. Dazu die 400-Stunden-Rechnung, die SMR als Reserve für die Dunkelflaute ausschließt.

@@ -233,6 +233,10 @@ Der Contrarian aus der Fragerunde in Person. Vuine ist der nüchterne Fachmann, 
 
 Ein Fall zum Beobachten: Das Paper zu Project Sid nennt seine Grenzen offen, Video und Presse machen daraus „KI erschafft Zivilisation".
 
+### → [[Akkudoktor — SMR und drei Versprechen]]
+
+Das erste Hype-Merkmal, die Vision als Gewissheit, ist beim Akkudoktor das Schlusskriterium: Wer SMR als sichere Lösung oder sichere Katastrophe verkauft, „verkauft euch etwas“. Zugleich steckt das Video in der Falle des Attention Systems, mit einem Titel, der die Aufregung bedient, vor der das Fazit warnt.
+
 ---
 
 ## Weiterdenken

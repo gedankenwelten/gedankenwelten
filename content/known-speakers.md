@@ -1043,3 +1043,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Tom Krebs
 **Status:** ✓ Vollanalyse → [[DenkerVita/Tom Krebs]]
+
+## Andreas Schmitz
+**Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Schmitz]]
