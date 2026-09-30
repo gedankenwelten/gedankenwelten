@@ -4708,3 +4708,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie]] |
 | **DenkerVita** | [[DenkerVita/Omar M. Yaghi]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Yaghi_Chemie_Welt_retten_Sternstunde_Transkript.txt` (YouTube-Automatikuntertitel der Synchronfassung, deutsch) |
+
+## Tom Krebs — Wege aus der Krise und neoliberale Märchen
+
+| | |
+|---|---|
+| **Video** | [Tom Krebs über Wege aus der Krise, Vergesellschaftung & neoliberale Märchen — Jung & Naiv: Folge 853](https://www.youtube.com/watch?v=A7IUzy6sCn0) — 24.09.2026 (3:46 h), mit Publikumsfragen via Hans Jessen |
+| **Buch** | Tom Krebs: *Kapital und Krise. Wie Deutschland aus der Wirtschaftskrise findet – und wie nicht* (oekom, 2026) — [genialokal](https://www.genialokal.de/Suche/?q=krebs+kapital+und+krise) · *Fehldiagnose* (Westend, 2024) — [genialokal](https://www.genialokal.de/Suche/?q=krebs+fehldiagnose) |
+| **Notiz** | [[Zeitgeist/Tom Krebs — Wege aus der Krise und neoliberale Maerchen]] |
+| **DenkerVita** | [[DenkerVita/Tom Krebs]] · [[DenkerVita/Tilo Jung]] · [[DenkerVita/Hans Jessen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Krebs_Vergesellschaftung_JungNaiv853_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

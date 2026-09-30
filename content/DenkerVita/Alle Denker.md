@@ -321,6 +321,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Lacina Kone|Lacina Koné]]** — Ivorer, Director General & CEO des Smart Africa Secretariat (42+ Staaten, Kigali); Architekt der digitalen Souveränität Afrikas — Single Digital Market bis 2030, Africa AI Council, AfCFTA Digital Trade Protocol, Afrika-Europa-Partnerschaft auf Augenhöhe
 
+**[[DenkerVita/Tom Krebs|Tom Krebs]]** — Makroökonom (Uni Mannheim, Kompetenzzentrum Transformation; Columbia-PhD, Brown, Weltbank/IWF-Berater), wissenschaftliches Mitglied der Mindestlohnkommission; *Fehldiagnose* (2024), *Kapital und Krise* (2026); These: Die öffentliche Ökonomik erzählt Märchen vom funktionierenden Markt, privates Kapital ist dort zu teuer, wo kein Wettbewerb Innovation bringt, und die geplante Marktwirtschaft mit mehr öffentlichem Eigentum schützt auch die Demokratie
+
 **[[DenkerVita/Claudia Kemfert|Claudia Kemfert]]** — Deutschlands bekannteste Energieökonomin (*1968; DIW Berlin, Leuphana Universität); rechnet vor, dass die Energiewende ökonomisch die vernünftigere Wahl ist — und zahlt dafür den Preis der öffentlichen Wissenschaftlerin: Beifall hier, organisierte Anfeindung dort
 
 ## L

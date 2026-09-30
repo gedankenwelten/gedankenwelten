@@ -306,3 +306,7 @@ Die Anti-Ohnmacht-Agenda im Kleinen: Beschäftigte einer insolventen Spinnerei i
 
 Münkler trennt Furcht, die einen Gegenstand hat, von Angst, die sich ihre Gegenstände sucht, und hält die Mitte gegen die Angst für „ziemlich hilflos“. Frickes Befund zum Kontrollverlust legt nahe, dass vieles davon Furcht mit sehr konkreten Ursachen ist.
 
+### → [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]]
+
+Krebs erzählt Frickes Befund als deutsche Chronologie: drei AfD-Schübe nach drei Versäumnissen (Energiepreise 2022, Heizungsgesetz 2023, Schwarz-Rot). Daraus zieht er die Eigentumsfrage statt einer Förderagenda, und die Migration fällt bei ihm genauso aus der Erklärung wie hier.
+

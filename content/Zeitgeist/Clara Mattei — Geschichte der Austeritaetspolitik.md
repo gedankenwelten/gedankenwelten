@@ -297,3 +297,8 @@ Der Wohnungsmarkt als Fallstudie zu Matteis These: Um zu sparen, verkauften Län
 ### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
 
 Was Austerität unten bedeutet, zeigt die Drogenhilfe Halle: Dort muss selbst der Spritzentausch, das am besten belegte Werkzeug der Drogenhilfe, jedes Jahr neu gegen den Haushalt verteidigt werden.
+
+### → [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]]
+
+Krebs will die EZB nicht demokratisieren, aber ihre Unabhängigkeit „ein bisschen in Frage stellen“ und Geld- und Finanzpolitik offen koordinieren. Ob seine Zunft irrt oder Interessen dient, lässt er offen, weil er beides sagt.
+

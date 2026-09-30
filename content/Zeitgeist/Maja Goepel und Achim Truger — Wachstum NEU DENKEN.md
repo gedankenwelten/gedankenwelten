@@ -397,6 +397,10 @@ Stremlau schließt direkt an die Transformationslücke an, die Truger fiskalpoli
 
 Dieselbe BIP-Kritik von der postkolonialen Seite: Sarrs „Wohlsein statt Wohlstand" trifft Göpels Wachstumskritik im selben blinden Fleck — die entscheidenden Reichtümer (Beziehung, Sinn, Gemeinschaft) tauchen im BIP nicht auf, ob man von Dakar oder von Berlin aus schaut.
 
+### → [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]]
+
+Krebs baut aus Trugers „planvoll“ ein Programm, die geplante Marktwirtschaft. Er verteidigt aber das BIP als Warnsignal und würde den Sachverständigenrat, in dem Truger Minderheitsvoten schreibt, lieber abschaffen als umbesetzen.
+
 ---
 
 ## Weiterdenken

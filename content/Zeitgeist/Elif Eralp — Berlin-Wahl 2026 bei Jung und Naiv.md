@@ -449,6 +449,10 @@ Die Frage, die im Studio niemand stellte, als Langzeit-These mit vorregistrierte
 
 Einen Tag nach dem Wahlsieg beschreiben Jessen und Kormbaki Eralp in der Zange: der Auftrag des Volksentscheids, ein Partner, der zur Vergesellschaftung „mit mir nicht“ sagt, und der Antisemitismus-Streit um Neukölln.
 
+### → [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]]
+
+Wenige Tage nach der Wahl stellt Krebs der Rechnung des Landesrechnungshofs eine eigene entgegen: Über einen Ertragswert aus den landeseigenen Mieten kommt er auf 13 bis 15 Milliarden, die sich aus den Mieten selbst tragen. Die Schwachstelle ist dieselbe wie in der Nachbesprechung, ein ausstehendes Urteil aus Karlsruhe.
+
 ---
 
 ## Weiterdenken

@@ -304,6 +304,10 @@ Die Ölpreis- und Düngemittelkrise als Kriegsfolge, die Lange skizziert, ist ge
 
 Geteilte Diagnose, unvereinbare Therapie. Herrmann teilt Flassbecks Keynes und seine Kausalkette vom Lohndruck zum Rechtsruck bis in die Formulierung hinein — ihre AfD-Beobachtung, größte Arbeiterpartei mit neoliberalem Programm, ist genau sein Befund. Sie bestreitet aber die Voraussetzung seiner Lösung: Nachfragepolitik hilft nur, wenn die Produktion ihr folgen kann, und ihre Kostenrechnung für synthetische Energie sagt, dass sie das nicht mehr kann. Damit steht die Frage im Raum, ob der Keynesianismus ein Instrument für Krisen ist oder eines für Wachstumsökonomien.
 
+### → [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]]
+
+Krebs teilt die Diagnose, dass der Rechtsruck eine Reaktion auf realen Verlust ist, nennt sich aber ausdrücklich keinen Keynesianer. Mehr Kredit allein ende in Krediten für Panzer, der Hebel liege beim Eigentum an Netzen, Wohnungen und Grundstoffen.
+
 ---
 
 ## Weiterführend
