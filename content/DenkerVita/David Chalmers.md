@@ -1,5 +1,6 @@
 ---
 title: David Chalmers — DenkerVita
+description: "1994 gab David Chalmers der Frage einen Namen, warum sich Erleben überhaupt nach etwas anfühlt: das Hard Problem. Bewusstsein, vermutet er, ist eine Grundgröße der Natur wie Raum und Zeit."
 date: 2026-05-06
 aktualisiert: 2026-05-06
 tags:

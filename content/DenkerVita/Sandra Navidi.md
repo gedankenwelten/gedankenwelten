@@ -1,5 +1,6 @@
 ---
 title: Sandra Navidi — DenkerVita
+description: "Sandra Navidi saß an den Tischen, über die sie schreibt. Die New Yorker Juristin zeigt, wie Macht in den Netzwerken der Finanzelite entsteht und wie Trump sie offen nutzt."
 date: 2026-08-15
 aktualisiert: 2026-08-15
 tags: [denker-vita, usa, wirtschaft, oligarchie, medien, deutschland]

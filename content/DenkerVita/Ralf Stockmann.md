@@ -1,5 +1,6 @@
 ---
 title: Ralf Stockmann — DenkerVita
+description: "Ralf Stockmann, Bibliothekar in Berlin, baut Werkzeuge für das Fediverse und fordert, dass jede Institution mit öffentlichem Geld auch in den nichtkommerziellen Netzen präsent ist."
 date: 2026-06-12
 tags: [denker-vita, technologie, medien, deutschland, datenschutz]
 ---

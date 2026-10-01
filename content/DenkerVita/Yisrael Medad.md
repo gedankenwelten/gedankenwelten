@@ -1,5 +1,6 @@
 ---
 title: Yisrael Medad — DenkerVita
+description: "Seit 1981 lebt Yisrael Medad in Schilo im besetzten Westjordanland. In Jabotinskys Tradition lehnt der Siedler einen Palästinenserstaat ab und will Bürgerrechte gestuft vergeben."
 tags: [denker-vita, israel, siedlungen, konservatismus]
 ---
 

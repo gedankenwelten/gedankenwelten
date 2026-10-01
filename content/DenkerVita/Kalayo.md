@@ -1,5 +1,6 @@
 ---
 title: "Kalayo — DenkerVita"
+description: "Kalayo heißt auf Cebuano Feuer. Der pseudonyme YouTuber verfolgt für ein deutsches Publikum die Epstein-Akten und Trumps Amerika, im Empörungston und mit einem Spendenprojekt für Opfer."
 tags: [denker-vita, usa, medien, youtube]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Staiy — DenkerVita
+description: "Staiy, bürgerlich Karim Staiy, greift in seinen NEWS-Videos auf, worüber Leitmedien schweigen, offen parteiisch für Demokratie und gegen rechts, aus deutsch-arabischer Sicht."
 date: 2026-05-11
 aktualisiert: 2026-08-30
 tags: [denker-vita, medienkritik, demokratie, deutschland, rechtsextremismus, youtube, aktivismus]

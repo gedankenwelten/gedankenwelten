@@ -1,5 +1,6 @@
 ---
 title: Gerald Hüther — DenkerVita
+description: "Gerald Hüther, Neurobiologe und 1979 mit selbstgebautem Stempel aus der DDR geflohen, will nie einen Menschen zum Objekt gemacht sehen — und eine Schule, die einlädt statt belehrt."
 date: 2026-04-28
 aktualisiert: 2026-04-28
 tags: [denker-vita, neurowissenschaft, philosophie, psychologie, pädagogik, potenzialentfaltung, deutschland]

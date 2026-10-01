@@ -1,5 +1,6 @@
 ---
 title: Yuval Noah Harari — DenkerVita
+description: "Geteilte Fiktionen machten den Homo sapiens mächtig, erzählt Yuval Noah Harari; nun warnt der Historiker, dass mit der KI erstmals etwas Nichtmenschliches Geschichten erzählt."
 tags: [denker-vita, geschichte, ki, israel]
 ---
 

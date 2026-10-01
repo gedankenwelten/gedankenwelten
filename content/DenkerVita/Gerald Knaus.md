@@ -1,5 +1,6 @@
 ---
 title: Gerald Knaus — DenkerVita
+description: "Gerald Knaus, Mitarchitekt des EU-Türkei-Deals, will das Asylrecht retten, indem er es durchsetzbar macht. Menschenrechtsgruppen werfen ihm vor, damit die Auslagerung zu legitimieren."
 tags: [denker-vita, migration, geopolitik, demokratie, ethik]
 ---
 

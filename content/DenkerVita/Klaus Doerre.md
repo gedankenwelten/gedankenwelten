@@ -1,5 +1,6 @@
 ---
 title: Klaus Dörre — DenkerVita
+description: "Industriesoziologe Klaus Dörre fand in Werkshallen und Betriebsratsbüros eine Klassengesellschaft ohne Konflikt und einen Kapitalismus, der immer neues Land nehmen muss."
 date: 2026-05-17
 aktualisiert: 2026-05-17
 tags: [denker-vita, soziologie, kapitalismus, gewerkschaften, deutschland, wirtschaft]

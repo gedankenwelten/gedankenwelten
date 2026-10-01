@@ -1,5 +1,6 @@
 ---
 title: Teresa Bücker — DenkerVita
+description: "Wer darf über die eigene Zeit bestimmen? Teresa Bücker macht Zeitnot zur Machtfrage und verlangt, Zeit so umzuverteilen wie Geld, weil Sorgearbeit und Demokratie sonst leer ausgehen."
 date: 2026-04-21
 aktualisiert: 2026-04-21
 tags: [denker-vita, soziale-ungleichheit, wirtschaft, demokratie, philosophie, deutschland]

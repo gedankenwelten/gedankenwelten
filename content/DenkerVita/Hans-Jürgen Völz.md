@@ -1,5 +1,6 @@
 ---
 title: Hans-Jürgen Völz — DenkerVita
+description: "Sozial ist, was Arbeit schafft: Hans-Jürgen Völz, Chefvolkswirt des Mittelstandsverbands BVMW und CDU-Mitglied, hält den Sozialstaat für ineffizient und schlecht konstruiert."
 date: 2026-06-02
 aktualisiert: 2026-06-02
 tags: [denker-vita, wirtschaft, deutschland, kapitalismus, neoliberalismus]

@@ -1,5 +1,6 @@
 ---
 title: Damir Skenderovic — DenkerVita
+description: "Damir Skenderovic, Historiker in Freiburg, schrieb das Standardwerk zur radikalen Rechten der Schweiz und erinnert an eine Kontinuität seit 1945, die das Land gern vergisst."
 tags: [denker-vita, rechtsextremismus, schweiz]
 ---
 

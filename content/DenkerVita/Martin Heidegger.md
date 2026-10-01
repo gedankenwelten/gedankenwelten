@@ -1,5 +1,6 @@
 ---
 title: "Martin Heidegger — DenkerVita"
+description: "Martin Heidegger fragte nach dem vergessenen Sinn von Sein und dachte die Technik als Gestell, das alles zum Bestand macht. 1933 trat er als Freiburger Rektor der NSDAP bei."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags:

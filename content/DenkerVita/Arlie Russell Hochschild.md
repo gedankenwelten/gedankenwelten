@@ -1,5 +1,6 @@
 ---
 title: Arlie Russell Hochschild — DenkerVita
+description: "Arlie Russell Hochschild prägte den Begriff der emotionalen Arbeit und erzählt mit der Tiefengeschichte von der Warteschlange, wie Scham die amerikanische Rechte nährt."
 date: 2026-06-10
 tags: [denker-vita, soziologie, usa, psychologie, politik, populismus]
 ---

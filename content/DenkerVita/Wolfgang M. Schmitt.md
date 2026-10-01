@@ -1,5 +1,6 @@
 ---
 title: Wolfgang M. Schmitt — DenkerVita
+description: "Was erzählt ein Blockbuster über den Kapitalismus? Wolfgang M. Schmitt liest Filme und Influencer als Ideologie, mit Adorno und Kracauer im Rücken, auf YouTube und in seinen Podcasts."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, kulturkritik, kapitalismus, medien]

@@ -1,5 +1,6 @@
 ---
 title: Alle Denker
+description: "Das Verzeichnis aller DenkerVitas der Gedankenwelten von A bis Z: Philosophinnen, Forscher, Journalistinnen, Aktivisten und Augenzeugen, jede Stimme mit einem Satz zu ihrem Denken."
 date: 2026-04-16
 aktualisiert: 2026-09-22
 tags: [meta, denker-vita]

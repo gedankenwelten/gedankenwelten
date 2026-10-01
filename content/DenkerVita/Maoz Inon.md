@@ -1,5 +1,6 @@
 ---
 title: Maoz Inon — DenkerVita
+description: "Beim Hamas-Überfall am 7. Oktober 2023 verlor Maoz Inon seine Eltern. Er verweigerte die Rache und arbeitet seither mit dem Palästinenser Aziz Abu Sarah für den Frieden."
 tags: [denker-vita, frieden, israel, aktivismus]
 ---
 

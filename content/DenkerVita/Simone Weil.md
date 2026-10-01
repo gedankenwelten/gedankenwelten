@@ -1,5 +1,6 @@
 ---
 title: Simone Weil — DenkerVita
+description: "Simone Weil stellte sich als Philosophin an die Fabrikmaschine, um die Demütigung der Arbeit zu erfahren. Ihre Mystik der Aufmerksamkeit sieht hin, wo Gewalt Menschen zu Dingen macht."
 date: 2026-08-29
 aktualisiert: 2026-08-29
 tags: [denker-vita, philosophie, mystik, frankreich]

@@ -1,5 +1,6 @@
 ---
 title: Ami Ayalon — DenkerVita
+description: "Israel habe den Krieg 2002 gewonnen und weigere sich, den Sieg zu sehen: Ami Ayalon, einst Marinechef und Schin-Bet-Direktor, argumentiert aus dem Sicherheitsapparat für die Teilung."
 tags: [denker-vita, israel, sicherheit, frieden]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Ulrike Herrmann — DenkerVita
+description: "Wachstum und Klimaschutz passen nicht zusammen, sagt die taz-Journalistin Ulrike Herrmann, und empfiehlt eine geplante Schrumpfung nach dem Vorbild der britischen Kriegswirtschaft."
 date: 2026-05-10
 aktualisiert: 2026-05-10
 tags: [denker-vita, wirtschaft, kapitalismus, klimakrise, deutschland]

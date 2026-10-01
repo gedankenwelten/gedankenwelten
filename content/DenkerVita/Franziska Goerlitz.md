@@ -1,5 +1,6 @@
 ---
 title: Franziska Görlitz — DenkerVita
+description: "Mit strategischen Klagen gegen Palantir-Software bei der Polizei erreichte die GFF-Juristin Franziska Görlitz, dass Karlsruhe 2023 Grenzen für automatisierte Datenanalysen zog."
 date: 2026-05-21
 aktualisiert: 2026-05-21
 tags:

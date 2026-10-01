@@ -1,5 +1,6 @@
 ---
 title: Konstantin Kuhle — DenkerVita
+description: "Wer Bürgerrechte gegen Sicherheit tauscht, verliert oft beides: Konstantin Kuhle, Jurist vom sozialliberalen Flügel der FDP, kontrollierte im Bundestag die Geheimdienste."
 tags: [denker-vita, deutschland, demokratie, ki]
 ---
 

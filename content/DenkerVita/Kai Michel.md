@@ -1,5 +1,6 @@
 ---
 title: Kai Michel — DenkerVita
+description: "Der Historiker Kai Michel liest mit Carel van Schaik die Bibel als Tagebuch der Menschheit: als Protokoll, wie Menschen die Zumutungen der Sesshaftigkeit zu ertragen lernten."
 tags: [denker-vita, philosophie, psychologie, religion, deutschland, evolution]
 ---
 

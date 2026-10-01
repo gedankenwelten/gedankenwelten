@@ -1,5 +1,6 @@
 ---
 title: Anja Dahlmann — DenkerVita
+description: "Rüstungskontrolle an der Front der KI: Anja Dahlmann hält ein Verbot autonomer Waffen für Wunschdenken und arbeitet daran, dass die Entscheidung über Leben und Tod beim Menschen bleibt."
 date: 2026-07-16
 aktualisiert: 2026-07-16
 tags: [denker-vita, ki, geopolitik, deutschland]

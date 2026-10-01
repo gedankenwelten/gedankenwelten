@@ -1,5 +1,6 @@
 ---
 title: Marina Kormbaki — DenkerVita
+description: "Marina Kormbaki leitet stellvertretend das SPIEGEL-Hauptstadtbüro, verteidigt die Aufrüstung und nennt im selben Atemzug, was sie Bildung und Gesundheit kostet."
 date: 2026-09-27
 aktualisiert: 2026-09-27
 tags: [denker-vita, medien, deutschland, bundesregierung, geopolitik, afd]

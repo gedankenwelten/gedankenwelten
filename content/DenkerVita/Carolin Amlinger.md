@@ -1,5 +1,6 @@
 ---
 title: Carolin Amlinger — DenkerVita
+description: "Warum wollen Menschen, die Freiheit über alles stellen, die Demokratie brennen sehen? Carolin Amlinger sucht die Antwort mit Oliver Nachtwey in einem gekränkten Freiheitsbegriff."
 date: 2026-05-20
 aktualisiert: 2026-05-20
 tags: [denker-vita, demokratie, autoritarismus, faschismus, literatursoziologie, deutschland]

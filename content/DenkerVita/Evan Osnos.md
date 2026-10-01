@@ -1,5 +1,6 @@
 ---
 title: Evan Osnos — DenkerVita
+description: "Der New-Yorker-Reporter Evan Osnos kartiert die Welt der Ultrareichen so genau wie zuvor das neue China — und findet eine Elite, der Demokratie zum lästigen Kompromiss geworden ist."
 date: 2026-04-21
 aktualisiert: 2026-04-21
 tags: [denker-vita, kapitalismus, oligarchie, usa]

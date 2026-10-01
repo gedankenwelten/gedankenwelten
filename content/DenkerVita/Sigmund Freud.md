@@ -1,5 +1,6 @@
 ---
 title: Sigmund Freud — DenkerVita
+description: "Das Ich ist nicht Herr im eigenen Haus. Sigmund Freud, Begründer der Psychoanalyse, suchte das Unbewusste in Träumen, Versprechern und Symptomen und ist bis heute umstritten."
 date: 2026-05-09
 aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, psychologie, psychoanalyse, oesterreich]

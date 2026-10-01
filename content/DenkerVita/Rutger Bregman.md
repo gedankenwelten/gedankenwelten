@@ -1,5 +1,6 @@
 ---
 title: Rutger Bregman — DenkerVita
+description: "Rutger Bregman hält die meisten Menschen für anständig und belegt es gegen Hobbes und Herr der Fliegen, der Historiker, der 2019 in Davos den Reichen ihre Steuervermeidung vorhielt."
 date: 2026-06-17
 tags: [denker-vita, philosophie, anthropologie, niederlande]
 ---

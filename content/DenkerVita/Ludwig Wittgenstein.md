@@ -1,5 +1,6 @@
 ---
 title: Ludwig Wittgenstein — DenkerVita
+description: "Wovon man nicht sprechen kann: Ludwig Wittgenstein zog der Sprache erst eine Grenze und fand später, dass ein Wort bedeutet, wie man es gebraucht. Dazwischen verschenkte er sein Erbe."
 date: 2026-05-09
 aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, sprache, erkenntnistheorie, oesterreich]

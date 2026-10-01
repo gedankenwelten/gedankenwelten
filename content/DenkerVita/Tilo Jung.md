@@ -1,5 +1,6 @@
 ---
 title: Tilo Jung — DenkerVita
+description: "Tilo Jung fragt bewusst naiv und lässt Politiker stundenlang ungekürzt reden. Seine linke Haltung legt er offen; sein Format Jung & Naiv lebt allein von Spenden."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, journalismus, demokratie, kapitalismus]

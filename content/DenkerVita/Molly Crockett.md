@@ -1,5 +1,6 @@
 ---
 title: Molly Crockett — DenkerVita
+description: "Empörung ist ein altes Werkzeug der Moral; im Netz wird sie eingeübt. Molly Crockett aus Princeton zeigt, wie Likes und Shares sie belohnen, bis sie zur Gewohnheit wird."
 date: 2026-09-21
 aktualisiert: 2026-09-21
 tags: [denker-vita, psychologie, neurowissenschaft, moral, social-media, usa]

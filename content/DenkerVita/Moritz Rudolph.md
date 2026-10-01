@@ -1,5 +1,6 @@
 ---
 title: Moritz Rudolph — DenkerVita
+description: "Bei Moritz Rudolph schwimmt der Weltgeist wie ein Lachs zurück nach Osten, nach China, und erscheint am Ende als künstliche Intelligenz: Geschichtsphilosophie als kühne Spekulation."
 tags: [denker-vita, philosophie, geopolitik, ki, deutschland]
 ---
 

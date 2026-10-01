@@ -1,5 +1,6 @@
 ---
 title: Fabian Pfeffer — DenkerVita
+description: "Wie hoch ist ein Münzstapel aus hundert Milliarden Euro? Der Soziologe Fabian Pfeffer macht Vermögensungleichheit begreifbar und zeigt, wie sie sich über Generationen vererbt."
 date: 2026-05-10
 aktualisiert: 2026-05-10
 tags: [denker-vita, wirtschaft, soziale-ungleichheit, philosophie, deutschland]

@@ -1,5 +1,6 @@
 ---
 title: Dror Etkes — DenkerVita
+description: "Jeden neuen Außenposten, jeden verschobenen Zaun im Westjordanland hält Dror Etkes fest — ein Israeli aus Ost-Jerusalem, der sich selbst zu den Nutznießern der Besatzung zählt."
 tags: [denker-vita, israel, siedlungen, menschenrechte]
 ---
 

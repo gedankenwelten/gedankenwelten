@@ -1,5 +1,6 @@
 ---
 title: Ulf Poschardt — DenkerVita
+description: "Ulf Poschardt, Herausgeber der Welt, wirft in „Shitbürgertum“ dem linksliberalen Milieu, aus dem er stammt, vor, seine Freiheitsliebe gegen Staatsnähe und Moral getauscht zu haben."
 date: 2026-05-10
 aktualisiert: 2026-05-10
 tags: [denker-vita, philosophie, medien, deutschland, liberalismus, kulturkritik]

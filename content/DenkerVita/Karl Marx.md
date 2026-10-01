@@ -1,5 +1,6 @@
 ---
 title: Karl Marx — DenkerVita
+description: "Karl Marx las Geschichte von den Produktionsverhältnissen her und den Kapitalismus als System, das Überfluss und Elend zugleich erzeugt. Auf ihn beriefen sich Revolutionen."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, kapitalismus, materialismus, deutschland]

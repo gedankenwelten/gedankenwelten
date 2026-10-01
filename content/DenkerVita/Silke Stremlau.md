@@ -1,5 +1,6 @@
 ---
 title: Silke Stremlau — DenkerVita
+description: "Silke Stremlau hält Geld für niemals neutral und will das Kapital von Pensionskassen und Stiftungen dorthin lenken, wo die sozial-ökologische Transformation es braucht."
 date: 2026-05-31
 aktualisiert: 2026-05-31
 tags: [denker-vita, wirtschaft, nachhaltigkeit, finanzmarkt, transformation, deutschland]

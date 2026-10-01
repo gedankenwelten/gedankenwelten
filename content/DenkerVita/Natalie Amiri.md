@@ -1,5 +1,6 @@
 ---
 title: Natalie Amiri — DenkerVita
+description: "Bis ihr die Geiselnahme drohte, leitete Natalie Amiri fünf Jahre das ARD-Studio Teheran. Die deutsch-iranische Journalistin trennt scharf zwischen Irans Regime und seiner Gesellschaft."
 date: 2026-04-30
 aktualisiert: 2026-04-30
 tags: [denker-vita, iran, nahost, journalismus]

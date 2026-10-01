@@ -1,5 +1,6 @@
 ---
 title: Götz Aly — DenkerVita
+description: "Götz Aly suchte in den Akten, wie normale Deutsche zu Mittätern wurden: Das NS-Regime kaufte sich Zustimmung mit Sozialpolitik, bezahlt aus geraubtem jüdischem Vermögen."
 date: 2026-05-03
 aktualisiert: 2026-05-03
 tags: [denker-vita, geschichte, nationalsozialismus]

@@ -1,5 +1,6 @@
 ---
 title: Rebecca Böhme — DenkerVita
+description: "Die Neurowissenschaftlerin Rebecca Böhme erforscht Berührung und leibliche Selbstwahrnehmung. Wahrnehmung ist für sie keine Halluzination: Unsere Sinne wuchsen mit der Welt."
 date: 2026-05-02
 aktualisiert: 2026-05-02
 tags: [denker-vita, neurowissenschaften, psychologie, schweden]

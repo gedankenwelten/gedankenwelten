@@ -1,5 +1,6 @@
 ---
 title: Helen Keller — DenkerVita
+description: "Helen Keller, Völkerrechtlerin in Zürich und einst Richterin in Straßburg, widerspricht dem Abgesang aufs Völkerrecht: Die meisten Staaten halten es ein, weil es ihnen nützt."
 date: 2026-04-22
 aktualisiert: 2026-04-22
 tags: [denker-vita, völkerrecht, philosophie, demokratie, geopolitik, schweiz]

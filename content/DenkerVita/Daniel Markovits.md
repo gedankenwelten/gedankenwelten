@@ -1,5 +1,6 @@
 ---
 title: Daniel Markovits — DenkerVita
+description: "Daniel Markovits lehrt in Yale, mitten in der Maschine, die er beschreibt: Die Meritokratie vererbt Privilegien wie früher der Adel — und erschöpft dabei sogar die eigenen Gewinner."
 date: 2026-05-06
 aktualisiert: 2026-05-06
 tags: [denker-vita, kapitalismus, usa, demokratie]

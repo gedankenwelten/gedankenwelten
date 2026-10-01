@@ -1,5 +1,6 @@
 ---
 title: Donatella Marazziti — DenkerVita
+description: "Frisch Verliebte tragen so wenig Serotonin-Transporter im Blut wie Zwangskranke: Mit diesem Befund vermaß die Psychiaterin Donatella Marazziti aus Pisa 1999 die Verliebtheit."
 tags: [denker-vita, psychiatrie, neurowissenschaft, serotonin, liebe, italien]
 ---
 

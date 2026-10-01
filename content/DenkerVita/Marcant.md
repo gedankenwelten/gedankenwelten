@@ -1,5 +1,6 @@
 ---
 title: Marcant — DenkerVita
+description: "Marcant geht mit Mikrofon auf rechtsextreme Demonstrationen und spricht dort ohne Verachtung mit jungen Leuten; über 500, sagt er, haben danach die Szene verlassen."
 date: 2026-05-24
 aktualisiert: 2026-05-24
 tags: [denker-vita, deutschland, rechtsextremismus, deradikalisierung, youtube, aktivismus]

@@ -1,5 +1,6 @@
 ---
 title: Freddy Leppin — DenkerVita
+description: "Jeden Monat sammelt Freddy Leppin mit seinem Kanal Good News belegte Erfolgsmeldungen aus aller Welt, ein bewusstes Gegengewicht zu Medien, die Krisen bevorzugen."
 date: 2026-05-26
 aktualisiert: 2026-05-26
 tags: [denker-vita, medien, umwelt, wissenschaft, technologie, deutschland]

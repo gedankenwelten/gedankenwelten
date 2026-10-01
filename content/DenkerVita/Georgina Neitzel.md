@@ -1,5 +1,6 @@
 ---
 title: Georgina Neitzel — DenkerVita
+description: "Wie entsteht ein Technik-Hype? Georgina Neitzel vom ERGO Innovation Lab beschreibt ihn als System, das Prognosen zu Marketing macht und Risiken erst spät sichtbar werden lässt."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, ki, technologie, innovation, zukunftsforschung]

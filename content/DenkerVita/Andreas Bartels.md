@@ -1,5 +1,6 @@
 ---
 title: Andreas Bartels — DenkerVita
+description: "Mit Semir Zeki legte Andreas Bartels erstmals Verliebte in den Hirnscanner. Sein Lebensthema ist aber das Sehen: wie das Gehirn aus flackernden Netzhautbildern eine stabile Welt baut."
 tags: [denker-vita, neurowissenschaft, neuroimaging, liebe, deutschland]
 ---
 

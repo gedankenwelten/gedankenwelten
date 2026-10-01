@@ -1,5 +1,6 @@
 ---
 title: Abdolkarim Soroush — DenkerVita
+description: "Abdolkarim Soroush trennt die vollkommene Religion vom religiösen Wissen, das menschlich und fehlbar bleibt, und nimmt damit den Rechtsgelehrten im Iran den Anspruch auf Herrschaft."
 date: 2026-05-16
 aktualisiert: 2026-05-16
 tags: [denker-vita, islam, demokratie, philosophie, religionsphilosophie, hermeneutik, iran, reformislam]

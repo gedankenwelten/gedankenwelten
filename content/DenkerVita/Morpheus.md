@@ -1,5 +1,6 @@
 ---
 title: Morpheus — DenkerVita
+description: "Morpheus heißt eigentlich Cedric Mössner: Der Informatik-Erklärer von YouTube nutzt chinesische KI offen und vermisst zugleich in Tausenden Tests ihre propagandistische Schlagseite."
 date: 2026-05-17
 aktualisiert: 2026-05-17
 tags: [denker-vita, ki, technologie, bildung, deutschland]

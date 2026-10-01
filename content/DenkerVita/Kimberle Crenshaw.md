@@ -1,5 +1,6 @@
 ---
 title: Kimberlé Crenshaw — DenkerVita
+description: "Fünf schwarze Frauen verloren 1976 gegen General Motors, weil das Gericht Rassismus und Sexismus getrennt prüfte. Daraus formte Kimberlé Crenshaw den Begriff Intersektionalität."
 tags: [denker-vita, usa, rechtsextremismus, philosophie, soziale-ungleichheit]
 ---
 

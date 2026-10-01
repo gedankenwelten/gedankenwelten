@@ -1,5 +1,6 @@
 ---
 title: Akala — DenkerVita
+description: "Rapper und Historiker aus eigenem Studium: Akala liest den Rassismus im heutigen Britannien als Erbe des Empire — und Race und Klasse als eine einzige Frage."
 tags: [denker-vita, rassismus, kolonialismus, grossbritannien]
 ---
 

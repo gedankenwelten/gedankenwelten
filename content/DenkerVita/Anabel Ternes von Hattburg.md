@@ -1,5 +1,6 @@
 ---
 title: Anabel Ternès von Hattburg — DenkerVita
+description: "Zukunftsforscherin und Psychologin Anabel Ternès von Hattburg misst Eliten an zwei Bedingungen, Können und Gemeinwohl. Wer nur Macht hat, gehört für sie nicht dazu."
 date: 2026-05-30
 aktualisiert: 2026-05-30
 tags: [denker-vita, zukunftsforschung, psychologie, nachhaltigkeit, unternehmertum, deutschland]

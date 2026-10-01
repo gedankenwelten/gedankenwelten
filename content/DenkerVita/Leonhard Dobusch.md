@@ -1,5 +1,6 @@
 ---
 title: Leonhard Dobusch — DenkerVita
+description: "Leonhard Dobusch, Organisationsforscher und ZDF-Verwaltungsrat, fragt, wie ganz normale Medienlogik dem Faschismus die Tür öffnet und wie Sender sich dagegen wappnen."
 date: 2026-05-25
 aktualisiert: 2026-05-25
 tags: [denker-vita, medien, demokratie, österreich, organisation, digitales]

@@ -1,5 +1,6 @@
 ---
 title: Bijan Moini — DenkerVita
+description: "Bijan Moini leitet das Legal Team der Gesellschaft für Freiheitsrechte und klagt bis nach Karlsruhe, wo der Staat schneller Daten sammelt, als Bürger sich dagegen wehren können."
 date: 2026-05-20
 aktualisiert: 2026-05-20
 tags: [denker-vita, rechtsrecht, demokratie, deutschland, grundrechte]

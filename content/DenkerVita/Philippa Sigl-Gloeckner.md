@@ -1,5 +1,6 @@
 ---
 title: Philippa Sigl-Glöckner — DenkerVita
+description: "Woher kommt die 60-Prozent-Grenze für Staatsschulden? Philippa Sigl-Glöckner fand in den Maastricht-Protokollen den Vermerk „purer Zufall“ und denkt Finanzpolitik seither vom Ziel her."
 tags: [denker-vita, wirtschaft, fiskalpolitik, schuldenbremse, deutschland]
 ---
 

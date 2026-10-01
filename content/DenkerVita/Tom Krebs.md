@@ -1,5 +1,6 @@
 ---
 title: Tom Krebs — DenkerVita
+description: "Tom Krebs kam über die Physik zur Ökonomie und rechnet heute mit seiner Zunft ab: Ihr Marktmodell aus der Einführungsvorlesung nennt der Mannheimer Makroökonom eine Märchenwelt."
 tags: [denker-vita, wirtschaft, neoliberalismus, wirtschaftspolitik, deutschland]
 ---
 

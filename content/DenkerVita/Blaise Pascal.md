@@ -1,5 +1,6 @@
 ---
 title: Blaise Pascal — DenkerVita
+description: "Er maß den Luftdruck und begründete die Wahrscheinlichkeitsrechnung, bis eine Nacht des Feuers ihn zum Glauben trieb: Blaise Pascal, der dem Verstand das Herz an die Seite stellte."
 date: 2026-07-07
 aktualisiert: 2026-07-07
 tags:

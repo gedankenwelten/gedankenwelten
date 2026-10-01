@@ -1,5 +1,6 @@
 ---
 title: Joon Sung Park — DenkerVita
+description: "In Joon Sung Parks Pixeldorf Smallville planten 25 KI-Agenten von selbst eine Party. Heute simuliert der Informatiker reale Menschen und verkauft die digitalen Zwillinge mit Simile."
 tags: [denker-vita, ki, technologie, psychologie, usa]
 ---
 

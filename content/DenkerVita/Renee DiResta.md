@@ -1,5 +1,6 @@
 ---
 title: Renée DiResta — DenkerVita
+description: "Wie wird aus einer Lüge geteilte Wirklichkeit? Renée DiResta erforschte es am Stanford Internet Observatory, bis das Institut unter politischem Druck aufgelöst wurde."
 date: 2026-04-29
 aktualisiert: 2026-04-29
 tags: [denker-vita, propaganda, medien, desinformation, usa]

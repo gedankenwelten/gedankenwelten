@@ -1,5 +1,6 @@
 ---
 title: "Ronnie Vuine — DenkerVita"
+description: "Von der Frage, wie ein Geist entsteht, zu Roboterarmen, die durch Vormachen lernen: Ronnie Vuine gründete Micropsi Industries und nennt KI Statistik im Abendkleid."
 tags: [denker-vita, ki, technologie, robotik, deutschland]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Yonatan Zeigen — DenkerVita
+description: "Als die Hamas am 7. Oktober seine Mutter Vivian Silver ermordete, war Yonatan Zeigen mit ihr am Telefon. Er antwortet mit Politik für jüdisch-arabische Gleichheit und verweigert die Rache."
 tags: [denker-vita, israel, frieden, aktivismus]
 ---
 

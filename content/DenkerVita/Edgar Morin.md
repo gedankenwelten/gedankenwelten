@@ -1,5 +1,6 @@
 ---
 title: Edgar Morin — DenkerVita
+description: "Wilderer des Wissens nannte sich Edgar Morin: Er verband, was die Fächer trennen, und lehrte ein Denken, das den Menschen als sapiens und demens zugleich aushält."
 tags: [denker-vita, philosophie, soziologie, erkenntnistheorie, ethik, komplexität, dialogique, paradox]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Konfuzius — DenkerVita
+description: "Konfuzius lehrte Mitmenschlichkeit als tägliche Übung und hielt jeden Menschen für bildbar. Gehorsam schuldete man bei ihm nur einem Herrscher, der selbst tugendhaft handelt."
 date: 2026-05-09
 aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, ethik, china]

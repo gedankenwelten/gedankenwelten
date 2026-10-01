@@ -1,5 +1,6 @@
 ---
 title: Matthias Quent — DenkerVita
+description: "Matthias Quent wuchs in der Thüringer Gegend auf, aus der der NSU kam, und erforscht, wie Rechtsextremismus in der Mitte gedeiht und autoritäre Bewegungen Ohnmacht verherrlichen."
 date: 2026-05-13
 aktualisiert: 2026-05-13
 tags: [denker-vita, rechtsextremismus, demokratie, radikalisierung]

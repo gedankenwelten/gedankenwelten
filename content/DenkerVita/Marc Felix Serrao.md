@@ -1,5 +1,6 @@
 ---
 title: Marc Felix Serrao — DenkerVita
+description: "Europas größte Gefahr sei die eigene Schwäche, sagt Marc Felix Serrao, Chefredakteur der NZZ Deutschland, der gegen moralische Absolutsetzung auf Differenzierung pocht."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, medien, journalismus, konservatismus]

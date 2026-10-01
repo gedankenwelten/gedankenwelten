@@ -1,5 +1,6 @@
 ---
 title: Julia Kloiber — DenkerVita
+description: "Wer baut die KI, und für wen? Julia Kloiber vom SUPERRR Lab macht die unsichtbare Arbeit hinter den Modellen sichtbar und streitet für eine feministische Technik."
 date: 2026-05-25
 aktualisiert: 2026-05-25
 tags: [denker-vita, ki, technologie, feminismus, digitale-gerechtigkeit, deutschland]

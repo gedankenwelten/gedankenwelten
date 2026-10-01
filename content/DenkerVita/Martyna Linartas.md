@@ -1,5 +1,6 @@
 ---
 title: Martyna Linartas — DenkerVita
+description: "Mehr als die Hälfte der Privatvermögen in Deutschland ist geerbt. Martyna Linartas, die als Kind ein Jahr im Kieler Obdachlosenheim lebte, will mit einem Grunderbe gegensteuern."
 date: 2026-04-20
 aktualisiert: 2026-04-20
 tags: [denker-vita, soziale-ungleichheit, wirtschaft, demokratie, deutschland]

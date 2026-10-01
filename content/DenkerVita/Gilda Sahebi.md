@@ -1,5 +1,6 @@
 ---
 title: Gilda Sahebi — DenkerVita
+description: "Gilda Sahebi, in Teheran geboren als Tochter eines geflohenen Regimegegners, liest Polarisierung als Herrschaftsinstrument, im Iran ebenso wie in deutschen Debatten über Rassismus."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, medien, iran, rassismus, autoritarismus]

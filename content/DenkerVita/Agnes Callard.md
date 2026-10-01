@@ -1,5 +1,6 @@
 ---
 title: Agnes Callard — DenkerVita
+description: "Nur das geprüfte Leben ist lebenswert — Agnes Callard nimmt Sokrates beim Wort und fragt, wie Menschen Werte erwerben, die sie noch gar nicht haben."
 tags: [denker-vita, philosophie, usa]
 ---
 

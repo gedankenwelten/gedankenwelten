@@ -1,5 +1,6 @@
 ---
 title: Vijay Prashad — DenkerVita
+description: "Der marxistische Historiker Vijay Prashad erzählt die Dritte Welt als politisches Projekt und dessen Zerschlagung — stark beim Blick auf westliche Macht, umstritten bei China und Syrien."
 date: 2026-08-07
 aktualisiert: 2026-08-07
 tags: [denker-vita, geopolitik, kapitalismus, postkolonialismus, indien, wirtschaft]

@@ -1,5 +1,6 @@
 ---
 title: Philipp Blom — DenkerVita
+description: "Philipp Blom liest „Macht euch die Erde untertan“ als Gründungsformel des Westens, erzählt Epochenbrüche bis zur Klimakrise und hält dagegen: Wir sind Natur."
 date: 2026-09-27
 aktualisiert: 2026-09-27
 tags: [denker-vita, geschichte, philosophie, aufklaerung, natur, klimakrise, oesterreich, deutschland]

@@ -1,5 +1,6 @@
 ---
 title: Felwine Sarr — DenkerVita
+description: "Afrika soll sich nicht länger am Westen vermessen: Felwine Sarr, Ökonom, Musiker und Mitautor des Restitutionsberichts, entwirft in Afrotopia eine Zukunft aus eigenen Quellen."
 date: 2026-07-02
 aktualisiert: 2026-07-02
 tags: [denker-vita, afrotopia, postkolonialismus, senegal, oekonomie]

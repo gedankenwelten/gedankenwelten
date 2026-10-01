@@ -1,5 +1,6 @@
 ---
 title: "Ngũgĩ wa Thiong'o — DenkerVita"
+description: "Ngũgĩ wa Thiong'o schrieb im Gefängnis einen Roman auf Klopapier, auf Gĩkũyũ statt Englisch. Wer die Sprache eines Volkes tötet, lehrte er, tötet sein Gedächtnis."
 tags: [denker-vita, dekolonisierung, literatur, kenia, sprache]
 ---
 

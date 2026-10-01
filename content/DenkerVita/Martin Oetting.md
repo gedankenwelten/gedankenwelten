@@ -1,5 +1,6 @@
 ---
 title: Martin Oetting — DenkerVita
+description: "Martin Oetting erforschte einst Mundpropaganda; heute will er mit der Initiative System Delta die Parteien zwingen, die unbequeme Wahrheit über Wachstum und Multikrise auszusprechen."
 tags: [denker-vita, demokratie, wirtschaft, deutschland]
 ---
 

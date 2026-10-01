@@ -1,5 +1,6 @@
 ---
 title: Christian Bauckhage — DenkerVita
+description: "Christian Bauckhage, Informatiker in Bonn und am Fraunhofer IAIS, entzaubert den KI-Hype mathematisch nüchtern und wirbt für erklärbare, hybride Modelle aus europäischer Hand."
 tags: [denker-vita, ki, technologie, wissenschaft, deutschland]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Arnaud Orain — DenkerVita
+description: "Arnaud Orain, Wirtschaftshistoriker an der EHESS, sieht den Kapitalismus seit dem 16. Jahrhundert pendeln: Wer die Welt für endlich hält, greift zu, bevor ein anderer greift."
 tags: [denker-vita, wirtschaft, kapitalismus, geopolitik, neoliberalismus]
 aktualisiert: 07.08.2026
 ---

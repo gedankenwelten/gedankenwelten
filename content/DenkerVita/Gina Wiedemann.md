@@ -1,5 +1,6 @@
 ---
 title: Gina Wiedemann — DenkerVita
+description: "Für die Arolsen Archives erzählt Gina Wiedemann auf TikTok von NS-Verfolgten und entschlüsselt täglich die Codes, mit denen Rechtsextreme Geschichte umdeuten."
 tags: [denker-vita, medien, rechtsextremismus, erinnerungskultur]
 ---
 

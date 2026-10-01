@@ -1,5 +1,6 @@
 ---
 title: Marie-Agnes Strack-Zimmermann — DenkerVita
+description: "Marie-Agnes Strack-Zimmermann drängte als Ausschussvorsitzende im Bundestag auf Waffen für die Ukraine; heute leitet die FDP-Politikerin den Verteidigungsausschuss im Europaparlament."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, europa, sicherheitspolitik, fdp]

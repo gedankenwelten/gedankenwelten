@@ -1,5 +1,6 @@
 ---
 title: Markus Gabriel — DenkerVita
+description: "Die Welt gibt es nicht, moralische Tatsachen schon: Markus Gabriel, mit 29 Philosophieprofessor in Bonn, verbindet Neuen Realismus mit dem Glauben an moralischen Fortschritt."
 date: 2026-04-30
 aktualisiert: 2026-04-30
 tags: [denker-vita, philosophie, ethik, neuer-realismus, deutschland]

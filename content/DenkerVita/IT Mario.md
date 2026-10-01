@@ -1,5 +1,6 @@
 ---
 title: IT Mario — DenkerVita
+description: "IT Mario ließ 40.000 Bundestagsreden von einer KI auf Populismus prüfen und legte Rohdaten und Prompts offen. Seine Botschaft ist die Methode, sein Rat: selbst nachprüfen."
 date: 2026-05-24
 aktualisiert: 2026-05-24
 tags: [denker-vita, technologie, ki, demokratie, deutschland]

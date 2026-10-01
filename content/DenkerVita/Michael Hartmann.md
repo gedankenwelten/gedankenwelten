@@ -1,5 +1,6 @@
 ---
 title: Michael Hartmann — DenkerVita
+description: "Herkunft schlägt Leistung: Michael Hartmann belegt, dass Deutschlands Eliten aus wenigen Prozent der Gesellschaft stammen — und dass ihre Abgehobenheit den Rechtspopulismus nährt."
 date: 2026-05-30
 aktualisiert: 2026-05-30
 tags: [denker-vita, soziologie, eliten, soziale-ungleichheit, deutschland, macht]

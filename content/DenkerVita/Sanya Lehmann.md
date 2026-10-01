@@ -1,5 +1,6 @@
 ---
 title: Sanya Lehmann — DenkerVita
+description: "Sanya Lehmann vom Jugendrat der Medienanstalt Berlin-Brandenburg hält Social-Media-Verbote für Kinder für wirkungslos und will stattdessen die Suchtmechanik der Plattformen abbauen."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, medien, deutschland, jugend]

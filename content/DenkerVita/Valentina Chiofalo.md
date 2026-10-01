@@ -1,5 +1,6 @@
 ---
 title: Valentina Chiofalo — DenkerVita
+description: "Die Berliner Juristin Valentina Chiofalo leitete das GFF-Gutachten zu einem AfD-Verbot, gestützt auf zwei Millionen Datenpunkte, und denkt reproduktive Rechte als Frage der Verfassung."
 date: 2026-05-20
 aktualisiert: 2026-05-20
 tags: [denker-vita, recht, demokratie, deutschland, feminismus, antidiskriminierung]

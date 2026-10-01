@@ -1,5 +1,6 @@
 ---
 title: Francesca Bria — DenkerVita
+description: "In Barcelona machte Francesca Bria die Bürger zu Eigentümern ihrer Daten. Mit EuroStack will sie Europa eine eigene digitale Infrastruktur geben, frei von US-Konzernen."
 date: 2026-07-07
 aktualisiert: 2026-07-07
 tags: [denker-vita, digitalpolitik, technologie, souveränität, europa]

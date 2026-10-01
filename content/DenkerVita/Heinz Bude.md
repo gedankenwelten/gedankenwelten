@@ -1,5 +1,6 @@
 ---
 title: Heinz Bude — DenkerVita
+description: "Arbeiterkind aus Wuppertal und Soziologe der Generationen: Heinz Bude erzählt die Bundesrepublik von den Flakhelfern bis zu den Boomern, zu denen er selbst gehört."
 date: 2026-05-05
 aktualisiert: 2026-05-05
 tags: [denker-vita, soziologie, generationen, deutschland]

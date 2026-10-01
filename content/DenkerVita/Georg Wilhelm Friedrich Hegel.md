@@ -1,5 +1,6 @@
 ---
 title: Georg Wilhelm Friedrich Hegel — DenkerVita
+description: "In Napoleon sah er die „Weltseele zu Pferde“: Georg Wilhelm Friedrich Hegel dachte Geschichte als Weg des Geistes zur Freiheit, vorangetrieben vom Widerspruch."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Christine Dankbar — DenkerVita
+description: "Wer zahlt, wer verliert? Christine Dankbar, Politikchefin der Frankfurter Rundschau, fragt das am Sozialstaat und zeigt, wie ein dreißigseitiges Antragsformular selbst zum Armutsproblem wird."
 date: 2026-06-02
 aktualisiert: 2026-06-02
 tags: [denker-vita, medien, deutschland, demokratie]

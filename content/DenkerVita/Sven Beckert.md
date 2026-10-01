@@ -1,5 +1,6 @@
 ---
 title: Sven Beckert — DenkerVita
+description: "Der Harvard-Historiker Sven Beckert erzählt den Kapitalismus als globale Geschichte, in der Plantage und Spinnerei ein einziges System bilden — und Gewalt zu seinem Fundament gehört."
 tags: [denker-vita, kapitalismus, wirtschaft, usa, soziale-ungleichheit]
 ---
 

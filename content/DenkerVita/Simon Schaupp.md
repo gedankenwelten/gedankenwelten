@@ -1,5 +1,6 @@
 ---
 title: Simon Schaupp — DenkerVita
+description: "Wenn Arbeiter die Algorithmen trainieren, die sie ersetzen: Der Soziologe Simon Schaupp nennt das kybernetische Proletarisierung und sieht in kürzerer Arbeitszeit auch Klimapolitik."
 date: 2026-05-15
 aktualisiert: 2026-05-15
 tags: [denker-vita, arbeit, digitalisierung, gewerkschaften, kritische-theorie, belgien]

@@ -1,5 +1,6 @@
 ---
 title: Isabel Wilkerson — DenkerVita
+description: "Rasse ist die Haut, Kaste der Knochen: Die Pulitzer-Preisträgerin Isabel Wilkerson liest den US-Rassismus als verborgene Rangordnung, verwandt mit Indiens Kastensystem."
 tags: [denker-vita, rassismus, kaste, usa]
 ---
 

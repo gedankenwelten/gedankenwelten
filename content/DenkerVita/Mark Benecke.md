@@ -1,5 +1,6 @@
 ---
 title: Mark Benecke — DenkerVita
+description: "Für den Kriminalbiologen Mark Benecke sind Insekten auf Leichen stumme Zeugen. Mit derselben Sorgfalt wie einen Tatortbericht legt er heute Klimadaten vor, nüchtern und ohne Panik."
 date: 2026-05-11
 aktualisiert: 2026-05-11
 tags: [denker-vita, naturwissenschaft, klimawandel, deutschland, wissenschaftskommunikation]

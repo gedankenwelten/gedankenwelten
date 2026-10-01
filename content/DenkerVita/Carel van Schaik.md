@@ -1,5 +1,6 @@
 ---
 title: Carel van Schaik — DenkerVita
+description: "Der Orang-Utan-Forscher Carel van Schaik liest die Bibel als Tagebuch der Menschheit und sieht in der Sesshaftigkeit den Bruch, an dem unsere kooperative Natur aus dem Takt geriet."
 tags: [denker-vita, philosophie, psychologie, evolution, religion]
 ---
 

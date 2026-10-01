@@ -1,5 +1,6 @@
 ---
 title: Liya Yu — DenkerVita
+description: "Liya Yu sucht im Gehirn, warum Menschen das Richtige sagen und das Falsche tun. Ihre Neuropolitik setzt gegen Entmenschlichung die Fähigkeit, das Denken des Anderen mitzudenken."
 date: 2026-04-29
 aktualisiert: 2026-04-29
 tags:

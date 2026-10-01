@@ -1,5 +1,6 @@
 ---
 title: Hartmut Rosa — DenkerVita
+description: "Je mehr Zeit wir sparen, desto weniger haben wir: Hartmut Rosa beschrieb die Beschleunigung der Moderne und fand in der Resonanz ihren Gegenbegriff, ein Weltverhältnis, das antwortet."
 date: 2026-07-07
 aktualisiert: 2026-07-07
 tags: [denker-vita, soziologie, beschleunigung, resonanz, moderne]

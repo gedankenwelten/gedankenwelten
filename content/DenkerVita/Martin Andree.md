@@ -1,5 +1,6 @@
 ---
 title: Martin Andree — DenkerVita
+description: "Zahl gegen Zahl belegt Martin Andree, wie wenige Plattformen die digitale Öffentlichkeit beherrschen, und hält ihre Entflechtung für machbar — eine Überlebensfrage der Demokratie."
 date: 2026-06-11
 tags: [denker-vita, medien, big-tech, demokratie, deutschland]
 ---

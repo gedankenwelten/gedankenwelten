@@ -1,5 +1,6 @@
 ---
 title: Christoph Möllers — DenkerVita
+description: "Für Christoph Möllers gibt es Freiheit nur in Graden. Der Berliner Rechtsphilosoph sieht im demokratischen Staat ein Ergebnis der Freiheit und in der Demokratie geordneten Streit."
 date: 2026-05-10
 aktualisiert: 2026-05-10
 tags: [denker-vita, philosophie, demokratie, deutschland, rechtswissenschaft]

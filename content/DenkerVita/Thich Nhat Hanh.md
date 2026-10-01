@@ -1,5 +1,6 @@
 ---
 title: Thich Nhat Hanh — DenkerVita
+description: "Meditieren, während draußen Dörfer brennen? Thich Nhat Hanh antwortete: beides. Der Zen-Mönch, den beide Kriegsparteien ins Exil schickten, lehrte, dass nichts für sich allein existiert."
 date: 2026-04-20
 aktualisiert: 2026-04-20
 tags: [denker-vita, buddhismus, vipassana, meditation, interbeing, engaged-buddhism]

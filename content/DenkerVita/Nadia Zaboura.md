@@ -1,5 +1,6 @@
 ---
 title: Nadia Zaboura — DenkerVita
+description: "Wie ebnet gewöhnlicher Journalismus dem Neofaschismus den Weg? Die Kommunikationswissenschaftlerin Nadia Zaboura findet die Antwort in falscher Balance und doppelten Standards."
 date: 2026-05-25
 aktualisiert: 2026-05-25
 tags: [denker-vita, medien, demokratie, deutschland, zeitgeist]

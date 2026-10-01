@@ -1,5 +1,6 @@
 ---
 title: René Descartes — DenkerVita
+description: "René Descartes zweifelte an allem, bis ein Satz blieb: Ich denke, also bin ich. Seine Trennung von Geist und Materie trägt die Moderne bis heute, samt ihrer Naturbeherrschung."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, rationalismus, frankreich]

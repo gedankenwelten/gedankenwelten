@@ -1,5 +1,6 @@
 ---
 title: Niclas Seydack — DenkerVita
+description: "Kindheit im analogen Bullerbü, Erwachsensein in der digitalen Dauerkrise: Reporter Niclas Seydack erzählt seine Millennial-Generation und fragt, wie viel Leichtigkeit ihr bleibt."
 date: 2026-04-29
 aktualisiert: 2026-04-29
 tags: [denker-vita, journalismus, generationen, millennials]

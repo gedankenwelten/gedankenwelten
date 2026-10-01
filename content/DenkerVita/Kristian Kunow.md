@@ -1,5 +1,6 @@
 ---
 title: Kristian Kunow — DenkerVita
+description: "Ein Social-Media-Verbot für Kinder hält Kristian Kunow für nicht durchsetzbar; der Vizedirektor der Medienanstalt Berlin-Brandenburg will die Plattformen für schädliches Design haften lassen."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, medien, deutschland]

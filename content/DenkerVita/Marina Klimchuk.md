@@ -1,5 +1,6 @@
 ---
 title: Marina Klimchuk — DenkerVita
+description: "Als jüdischer Kontingentflüchtling kam Marina Klimchuk nach Deutschland. Ihre Reportagen fahren mit, etwa im Greyhound durch ein Amerika, das über Politik lieber schweigt."
 date: 2026-05-03
 aktualisiert: 2026-05-03
 tags: [denker-vita, migration, usa, erinnerungskultur, journalismus]

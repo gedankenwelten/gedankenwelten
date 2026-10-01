@@ -1,5 +1,6 @@
 ---
 title: Tobias Rüther — DenkerVita
+description: "Hinter jeder Sucht steht ein älterer Schmerz, sagt Tobias Rüther, der an der LMU München die Tabakambulanz leitet, und behandelt Abhängige darum mit Motivation statt mit Drohbildern."
 tags: [denker-vita, sucht, psychologie, neurowissenschaft, medizin, deutschland]
 ---
 

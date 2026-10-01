@@ -1,5 +1,6 @@
 ---
 title: Frank Sieren — DenkerVita
+description: "Seit 1994 berichtet Frank Sieren aus Peking und wirbt dafür, China zu verstehen statt zu verdammen. Dass er die Parteiherrschaft als gegeben nimmt, trägt ihm den Vorwurf der Regimenähe ein."
 date: 2026-05-17
 aktualisiert: 2026-05-17
 tags: [denker-vita, geopolitik, china, journalismus]

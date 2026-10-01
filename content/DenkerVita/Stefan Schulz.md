@@ -1,5 +1,6 @@
 ---
 title: Stefan Schulz — DenkerVita
+description: "Stefan Schulz, Soziologe aus der Bielefelder Schule und Stimme der Neuen Zwanziger, hält die Demografie für Deutschlands unterschätztes Problem: eine Altenrepublik ohne Kinder."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, demografie, medien, deutschland]

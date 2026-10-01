@@ -1,5 +1,6 @@
 ---
 title: Torsten Heinrich — DenkerVita
+description: "Neutralität hält Torsten Heinrich für eine Lüge, Quellenkritik für Pflicht. Der Historiker, 2014 aus der AfD ausgetreten, analysiert auf „Militär & Geschichte“ den Ukrainekrieg."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, geopolitik, militaer, youtube]

@@ -1,5 +1,6 @@
 ---
 title: Hans Jessen — DenkerVita
+description: "Lange ARD-Korrespondent in Berlin, heute „Alterspräsident“ bei Jung & Naiv: Hans Jessen stellt die Fragen aus dem Live-Chat und erzählt die Wut von heute aus ihrer langen Vorgeschichte."
 date: 2026-09-27
 aktualisiert: 2026-09-27
 tags: [denker-vita, medien, deutschland, demokratie, bundesregierung, afd]

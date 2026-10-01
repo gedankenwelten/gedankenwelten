@@ -1,5 +1,6 @@
 ---
 title: Dalai Lama — DenkerVita
+description: "Der 14. Dalai Lama gab 2011 seine politische Macht an eine gewählte Exilregierung ab. Er lehrt eine Ethik ohne Religion, die der Wissenschaft den Vortritt lässt."
 tags: [denker-vita, buddhismus, ethik, tibet]
 ---
 

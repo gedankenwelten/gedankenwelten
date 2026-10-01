@@ -1,5 +1,6 @@
 ---
 title: Gesine Schwan — DenkerVita
+description: "Wer erlebt, dass gemeinsames Ringen trägt, verteidigt die Demokratie: Darum baut Gesine Schwan, Tochter von NS-Widerständlern, kommunale Entwicklungsbeiräte auf."
 date: 2026-04-21
 aktualisiert: 2026-04-21
 tags: [denker-vita, demokratie, philosophie, macht, deutschland]

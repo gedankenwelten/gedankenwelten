@@ -1,5 +1,6 @@
 ---
 title: Theodor W. Adorno — DenkerVita
+description: "Kein richtiges Leben im Falschen: Theodor W. Adorno las die Vernunft selbst als Werkzeug der Herrschaft und verweigerte sich 1968 den Studenten, die aus seiner Kritik Praxis machen wollten."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, kapitalismus, kulturkritik, dialektik]

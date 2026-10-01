@@ -1,5 +1,6 @@
 ---
 title: Jan Hegenberg — DenkerVita
+description: "Als „Der Graslutscher“ zerlegt Jan Hegenberg Energiewende-Mythen mit Daten und Spott, gegen Leugner wie gegen Untergangspropheten. Die Wende, sagt er, funktioniert bereits."
 date: 2026-05-11
 aktualisiert: 2026-05-11
 tags: [denker-vita, energiepolitik, deutschland, wirtschaft, geopolitik]

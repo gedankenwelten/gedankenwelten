@@ -1,5 +1,6 @@
 ---
 title: Dirk Specht — DenkerVita
+description: "Dirk Specht hält die Merit Order für eine EU-Konstruktion, kein Naturgesetz, und rechnet in Blog und Newsletter vor, warum Großbatterien dem Gaskraftwerk längst Konkurrenz machen."
 date: 2026-05-10
 aktualisiert: 2026-05-10
 tags: [denker-vita, energiewende, strommarkt, batterie, deutschland, wirtschaft]

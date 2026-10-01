@@ -1,5 +1,6 @@
 ---
 title: Janina Mütze — DenkerVita
+description: "Janina Mütze gründete mit 24 Civey und holte die Meinungsforschung ins Netz — mit einer Methode, über deren Repräsentativität die etablierten Institute seither streiten."
 date: 2026-07-10
 aktualisiert: 2026-07-10
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Kerstin Paschke — DenkerVita
+description: "Jeder vierte Jugendliche nutzt Social Media suchtartig. Kerstin Paschke, Jugendpsychiaterin am UKE Hamburg, behandelt diese Jugendlichen und fordert Plattformregeln, die rasch greifen."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, psychologie, medien, deutschland]

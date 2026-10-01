@@ -1,5 +1,6 @@
 ---
 title: Eva von Redecker — DenkerVita
+description: "Freiheit als das Recht zu bleiben: Die Philosophin Eva von Redecker denkt von der Sorgearbeit her und deutet den neuen Faschismus als Verteidigung von Phantombesitz."
 date: 2026-05-15
 aktualisiert: 2026-05-15
 tags: [denker-vita, philosophie, kapitalismus-kritik, faschismus, feminismus, deutschland]

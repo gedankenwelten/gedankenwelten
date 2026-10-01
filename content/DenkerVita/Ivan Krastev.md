@@ -1,5 +1,6 @@
 ---
 title: Ivan Krastev — DenkerVita
+description: "Warum kehrt sich Osteuropa vom liberalen Modell ab? Ivan Krastev erklärt es mit der Demütigung der Nachahmung nach 1989, deren Ressentiment sich nun gegen die Demokratie richtet."
 date: 2026-05-15
 aktualisiert: 2026-05-15
 tags: [denker-vita, demokratie, geopolitik, osteuropa, philosophie]

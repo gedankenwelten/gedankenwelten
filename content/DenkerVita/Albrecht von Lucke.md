@@ -1,5 +1,6 @@
 ---
 title: Albrecht von Lucke — DenkerVita
+description: "Seit 2003 Redakteur der Blätter: Albrecht von Lucke sieht eine Republik, die sich ins Private zurückzieht und das Streiten verlernt — ein neues Biedermeier ohne Horizont."
 date: 2026-05-10
 aktualisiert: 2026-05-10
 tags: [denker-vita, politikwissenschaft, deutschland, bundesregierung, demokratie]

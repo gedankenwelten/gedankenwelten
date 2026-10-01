@@ -1,5 +1,6 @@
 ---
 title: Katrin Eigendorf — DenkerVita
+description: "ZDF-Sonderkorrespondentin Katrin Eigendorf kennt Russland seit den Jelzin-Jahren und erzählt Kriege von den Menschen her; Empathie ist für sie ein Werkzeug des Erkennens."
 tags: [denker-vita, journalismus, medien, russland, ukraine, deutschland]
 ---
 

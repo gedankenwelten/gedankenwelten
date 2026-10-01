@@ -1,5 +1,6 @@
 ---
 title: Markus Reisner — DenkerVita
+description: "Oberst Markus Reisner war mit dem Jagdkommando in Afghanistan und promovierte zweimal. Im Fernsehen erklärt er, wie billige Drohnen das Kalkül des Krieges verschieben."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, militär, geopolitik, österreich]

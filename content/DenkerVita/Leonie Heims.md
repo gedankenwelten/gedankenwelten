@@ -1,5 +1,6 @@
 ---
 title: Leonie Heims — DenkerVita
+description: "Leonie Heims kennt das Reichsbürger-Milieu vom Reptiloiden bis zur Reichsflugscheibe und begegnet Verschwörungsmythen mit Fakten und Humor, in der Forschung wie in Memes."
 tags: [denker-vita, rechtsextremismus, desinformation, deutschland]
 ---
 

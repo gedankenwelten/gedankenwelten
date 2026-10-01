@@ -1,5 +1,6 @@
 ---
 title: Raphael Iltisberger — DenkerVita
+description: "Tech-Hype ist ein System mit wiederkehrenden Akteuren, sagt Raphael Iltisberger. Der Wirtschaftspsychologe fragt, wie Organisationen darin Kurs halten, wenn die nächste Welle anrollt."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, technologie, innovation, organisationsentwicklung, zukunftsforschung]

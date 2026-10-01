@@ -1,5 +1,6 @@
 ---
 title: Niklas Luhmann — DenkerVita
+description: "„Theorie der modernen Gesellschaft. Laufzeit: 30 Jahre. Kosten: keine.“ Niklas Luhmann hielt Wort und beschrieb die Gesellschaft ohne moralischen Anspruch, im Gespräch mit 90.000 Zettelkarten."
 date: 2026-04-23
 aktualisiert: 2026-04-23
 tags: [denker-vita, philosophie, systemtheorie, soziologie, erkenntnistheorie]

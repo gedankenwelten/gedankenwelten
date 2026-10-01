@@ -1,5 +1,6 @@
 ---
 title: Immanuel Kant — DenkerVita
+description: "Elf Jahre veröffentlichte er nichts, dann erschien die Kritik der reinen Vernunft: Immanuel Kant zog der Erkenntnis Grenzen und gründete die Moral auf die Vernunft des Einzelnen."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, aufklaerung, erkenntnistheorie, ethik]

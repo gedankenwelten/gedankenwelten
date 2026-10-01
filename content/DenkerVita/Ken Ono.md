@@ -1,5 +1,6 @@
 ---
 title: Ken Ono — DenkerVita
+description: "Vom Schulabbrecher zum Ramanujan-Forscher: Ken Ono fragt bei einem KI-Startup, was am Menschen zählt, wenn Wissen billig wird — seine Antwort ist die gute Frage."
 tags: [denker-vita, mathematik, ki]
 ---
 

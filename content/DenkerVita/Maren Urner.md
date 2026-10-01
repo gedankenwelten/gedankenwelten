@@ -1,5 +1,6 @@
 ---
 title: Maren Urner — DenkerVita
+description: "Die Neurowissenschaftlerin Maren Urner sieht unser Steinzeithirn von der Nachrichtenflut überfordert und gründete dagegen Perspective Daily, eine Zeitung, die nach Lösungen fragt."
 date: 2026-06-05
 aktualisiert: 2026-06-05
 tags: [denker-vita, psychologie, medien, demokratie, deutschland]

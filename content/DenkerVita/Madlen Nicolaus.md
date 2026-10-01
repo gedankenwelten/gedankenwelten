@@ -1,5 +1,6 @@
 ---
 title: Madlen Nicolaus — DenkerVita
+description: "Madlen Nicolaus, Marketingchefin des Messtechnik-Konzerns Hexagon, erklärt, wie Laserscanner und digitale Zwillinge die Welt vermessen, sachkundig und als Stimme ihres Unternehmens."
 tags: [denker-vita, technologie, ki, wirtschaft, medien]
 ---
 

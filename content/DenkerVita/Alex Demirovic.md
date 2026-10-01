@@ -1,5 +1,6 @@
 ---
 title: Alex Demirović — DenkerVita
+description: "Frankfurter Schule, mit Gramsci und Foucault gekreuzt: Alex Demirović liest den Staat als Verdichtung von Kräfteverhältnissen und will Demokratie auch in der Wirtschaft."
 date: 2026-04-30
 aktualisiert: 2026-04-30
 tags: [denker-vita, philosophie, macht, kritische-theorie, demokratie]

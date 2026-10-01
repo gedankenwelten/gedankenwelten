@@ -1,5 +1,6 @@
 ---
 title: André Zimpel — DenkerVita
+description: "Ein Förderschüler rechnete 60 durch 4 als sechs Männer mit zehn Fingern. Seither fragt André Zimpel, wie viel Begabung eine Schule übersieht, die nur Sprach-Denken misst."
 date: 2026-04-29
 aktualisiert: 2026-04-29
 tags:

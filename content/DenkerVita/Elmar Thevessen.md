@@ -1,5 +1,6 @@
 ---
 title: "Elmar Theveßen — DenkerVita"
+description: "Elmar Theveßen erklärte nach 9/11 im ZDF den Terror. Heute beschreibt er als Studioleiter in Washington, wie eine Demokratie von innen gebeugt wird, ganz ohne Putsch."
 tags: [denker-vita, usa, trump, medien, demokratie, deutschland]
 ---
 

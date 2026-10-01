@@ -1,5 +1,6 @@
 ---
 title: Clara Mattei — DenkerVita
+description: "Austerität als Klassenpolitik: Die Ökonomin Clara Mattei zeigt, wie Ökonomen nach 1918 die Sparpolitik erfanden, mit der Liberale wie Faschisten die Arbeit disziplinierten."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, kapitalismus, austerität, faschismus]

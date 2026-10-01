@@ -1,5 +1,6 @@
 ---
 title: Jagoda Marinić — DenkerVita
+description: "Sanfte Radikalität nennt Jagoda Marinić es, eine Idee in der Welt zu verwirklichen, ohne dabei selbst hart zu werden — erprobt als Direktorin des Interkulturellen Zentrums Heidelberg."
 date: 2026-05-19
 aktualisiert: 2026-05-19
 tags: [denker-vita, meinungsfreiheit, gesellschaft, deutschland, literatur]

@@ -1,5 +1,6 @@
 ---
 title: Christof Spitz — DenkerVita
+description: "Über dreißig Jahre war Christof Spitz die deutsche Stimme des Dalai Lama. Der frühere Mönch lehrt eine Ethik, die Mitgefühl für übbar hält und keinen Glauben voraussetzt."
 tags: [denker-vita, buddhismus, ethik]
 ---
 

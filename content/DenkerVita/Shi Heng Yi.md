@@ -1,5 +1,6 @@
 ---
 title: Shi Heng Yi — DenkerVita
+description: "Shi Heng Yi, Gründer des Shaolin Tempel Europe, lehrte Selbstmeisterung, bis die Missbrauchsvorwürfe gegen seinen Abt ihn dazu brachten, Rolle und Meistertitel selbst abzustreifen."
 date: 2026-06-09
 tags:
   - denker-vita

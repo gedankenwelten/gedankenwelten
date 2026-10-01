@@ -1,5 +1,6 @@
 ---
 title: Wendy Brown — DenkerVita
+description: "Wendy Brown zeigt, wie der Neoliberalismus die Demokratie von innen aushöhlt. Wo Bürger nur noch Humankapital sind, wächst aus den Ruinen der autoritäre Populismus."
 date: 2026-06-05
 aktualisiert: 2026-06-05
 tags: [denker-vita, demokratie, kapitalismus, neoliberalismus, usa, philosophie, politische-theorie]

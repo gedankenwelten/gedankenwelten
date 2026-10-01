@@ -1,5 +1,6 @@
 ---
 title: Dirk von Petersdorff — DenkerVita
+description: "Dirk von Petersdorff, Lyriker und Germanist in Jena, versteht Ironie als Lebenshaltung der offenen Moderne und verteidigt die Leichtigkeit, von Brentano bis Tocotronic."
 date: 2026-04-29
 aktualisiert: 2026-04-29
 tags: [denker-vita, literaturwissenschaft, lyrik, ironie]

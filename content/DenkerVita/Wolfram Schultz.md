@@ -1,5 +1,6 @@
 ---
 title: Wolfram Schultz — DenkerVita
+description: "Dopamin ist ein Lernsignal: Wolfram Schultz fand an einzelnen Nervenzellen den Belohnungsvorhersagefehler, mit dem das Gehirn misst, wie weit die Wirklichkeit von der Erwartung abweicht."
 date: 2026-05-19
 aktualisiert: 2026-05-19
 tags: [denker-vita, neurowissenschaft, belohnungssystem, lernmechanismen]

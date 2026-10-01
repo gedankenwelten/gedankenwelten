@@ -1,5 +1,6 @@
 ---
 title: Wolfgang Kaleck — DenkerVita
+description: "Der Menschenrechtsanwalt Wolfgang Kaleck, Gründer des ECCHR, verklagt Mächtige über Grenzen hinweg — auch die des Westens, gegen die das Völkerrecht sonst selten greift."
 tags: [denker-vita, völkerrecht, menschenrechte, deutschland]
 ---
 

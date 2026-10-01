@@ -1,5 +1,6 @@
 ---
 title: Jean-François Lyotard — DenkerVita
+description: "Jean-François Lyotard erklärte die großen Erzählungen für unglaubwürdig und bestand darauf, dass mancher Streit keinen gerechten Schiedsrichter kennt. Habermas sah darin eine Kampfansage."
 date: 2026-05-15
 aktualisiert: 2026-05-15
 tags: [denker-vita, philosophie, postmoderne, erkenntnistheorie, sprachphilosophie, frankreich]

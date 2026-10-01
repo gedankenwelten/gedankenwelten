@@ -1,5 +1,6 @@
 ---
 title: Kolja Möller — DenkerVita
+description: "Populismus gehört für Kolja Möller zur modernen Demokratie wie die Volkssouveränität selbst. Der Frankfurter Politikwissenschaftler liest ihn als Dauerproblem der Verfassung."
 date: 2026-05-30
 aktualisiert: 2026-05-30
 tags: [denker-vita, demokratie, populismus, politikwissenschaft, deutschland]

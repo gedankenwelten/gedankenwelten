@@ -1,5 +1,6 @@
 ---
 title: Christoph Butterwegge — DenkerVita
+description: "Armutsforscher Christoph Butterwegge kam vom Rechtsextremismus zur sozialen Frage, weil für ihn die Ungleichheit der Boden ist, auf dem autoritäre Ideologien wachsen."
 date: 2026-06-02
 aktualisiert: 2026-06-02
 tags: [denker-vita, soziale-ungleichheit, armut, kapitalismus, deutschland]

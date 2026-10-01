@@ -1,5 +1,6 @@
 ---
 title: "Souleymane Bachir Diagne — DenkerVita"
+description: "Übersetzen als Gastfreundschaft: Souleymane Bachir Diagne, Philosoph aus dem Senegal, sucht ein Universales, das seitlich wächst, zwischen Sprachen, von denen keine über der anderen steht."
 tags: [denker-vita, philosophie, uebersetzung, senegal, islam, universalismus]
 ---
 

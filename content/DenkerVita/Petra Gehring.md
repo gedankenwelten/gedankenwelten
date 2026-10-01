@@ -1,5 +1,6 @@
 ---
 title: Petra Gehring — DenkerVita
+description: "Die Darmstädter Philosophin Petra Gehring kam von Foucault zur Digitalethik und holt Bürgerinnen und Bürger an den Tisch, an dem über den digitalen Euro entschieden wird."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, philosophie, demokratie, technologie, datenschutz]

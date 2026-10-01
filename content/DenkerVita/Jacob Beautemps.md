@@ -1,5 +1,6 @@
 ---
 title: Jacob Beautemps — DenkerVita
+description: "Physiker Jacob Beautemps erklärt auf Breaking Lab Energie, Klima und Medizin und hat darüber promoviert, wie Menschen mit Erklärvideos tatsächlich lernen."
 tags: [denker-vita, wissenschaft, klima, deutschland]
 ---
 

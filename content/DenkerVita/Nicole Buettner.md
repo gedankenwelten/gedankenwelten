@@ -1,5 +1,6 @@
 ---
 title: Nicole Büttner — DenkerVita
+description: "Als Techoptimistin will Nicole Büttner, KI-Unternehmerin und bis 2026 FDP-Generalsekretärin, Europas KI-Souveränität über Wettbewerb gewinnen statt über Verbote."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, ki, technologie, unternehmertum, deutschland]

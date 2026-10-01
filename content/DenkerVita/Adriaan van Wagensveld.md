@@ -1,5 +1,6 @@
 ---
 title: Adriaan van Wagensveld — DenkerVita
+description: "Adriaan van Wagensveld lehrt Vipassana aus der Schule Thich Nhat Hanhs und mit dem Bodhisattva-Ideal: Wer selbst in der Hölle war, kann anderen den Weg hinaus zeigen."
 date: 2026-04-19
 aktualisiert: 2026-04-19
 tags: [denker-vita, vipassana, buddhismus, meditation, mitgefühl, bodhisattva]

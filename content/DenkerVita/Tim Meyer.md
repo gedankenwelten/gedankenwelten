@@ -1,5 +1,6 @@
 ---
 title: Tim Meyer — DenkerVita
+description: "Für Tim Meyer, Energieökonom und früher Geschäftsführer der dena, hat der Markt die Energiewende längst entschieden; aus China brachte er eine Warnung an Europa mit."
 date: 2026-05-11
 aktualisiert: 2026-05-11
 tags: [denker-vita, energiepolitik, wirtschaft, geopolitik, deutschland]
