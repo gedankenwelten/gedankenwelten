@@ -1,5 +1,6 @@
 ---
 title: Rainer Mausfeld — DenkerVita
+description: "Wie wird in Demokratien Zustimmung organisiert und Empörung zerstreut? Der Kieler Psychologe Rainer Mausfeld fragt es scharf; Kritiker sehen darin verschwörungstheoretische Züge."
 tags: [denker-vita, psychologie, medien, macht, demokratie]
 ---
 

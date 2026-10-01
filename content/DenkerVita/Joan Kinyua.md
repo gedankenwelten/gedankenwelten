@@ -1,5 +1,6 @@
 ---
 title: Joan Kinyua — DenkerVita
+description: "„KI ist keine Magie. Es sind Menschen.“ Joan Kinyua annotierte jahrelang Trainingsdaten für ein, zwei Dollar die Stunde und gründete die Data Labelers Association Kenya."
 date: 2026-05-25
 aktualisiert: 2026-05-25
 tags: [denker-vita, ki, arbeit, kapitalismus, soziale-ungleichheit, datenarbeit, aktivismus]

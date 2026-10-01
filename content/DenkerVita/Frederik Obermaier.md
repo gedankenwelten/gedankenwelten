@@ -1,5 +1,6 @@
 ---
 title: Frederik Obermaier — DenkerVita
+description: "Frederik Obermaier folgt Papierspuren von Steueroasen bis zu Kriegsverbrechen. Der Panama-Papers-Journalist setzt auf Datenlecks und Recherchen, die Hunderte Redaktionen teilen."
 tags: [denker-vita, medien, investigativjournalismus, deutschland]
 ---
 

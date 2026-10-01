@@ -1,5 +1,6 @@
 ---
 title: Andreas Reckwitz — DenkerVita
+description: "Andreas Reckwitz beschreibt eine Spätmoderne, die das Einzigartige belohnt und das Gewöhnliche entwertet, und eine Moderne, die Verluste erzeugt, ohne eine Sprache für sie zu haben."
 date: 2026-07-25
 aktualisiert: 2026-07-25
 tags: [denker-vita, soziologie, deutschland, spaetmoderne]

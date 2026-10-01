@@ -1,5 +1,6 @@
 ---
 title: Angela Merkel — DenkerVita
+description: "Sechzehn Jahre Kanzlerin, die Macht freiwillig abgegeben: Angela Merkel regierte vom erreichbaren Ergebnis her. Ihre Russlandpolitik gilt vielen heute als ihr größter Fehler."
 tags: [denker-vita, deutschland, demokratie, europa]
 ---
 

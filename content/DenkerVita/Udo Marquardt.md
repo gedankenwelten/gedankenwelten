@@ -1,5 +1,6 @@
 ---
 title: Udo Marquardt — DenkerVita
+description: "Udo Marquardt, Philosoph und früherer ARD-Hörfunkredakteur, hält die Zeit für unser Leben selbst und stellt die Lebensfrage vom Ende her: Wer möchte ich gewesen sein?"
 date: 2026-05-20
 aktualisiert: 2026-05-20
 tags: [denker-vita, philosophie, zeit, deutschland]

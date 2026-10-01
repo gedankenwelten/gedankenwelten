@@ -1,5 +1,6 @@
 ---
 title: Giulia Enders — DenkerVita
+description: "Mit einem Science Slam über den Darm fing es an. Seither erklärt die Ärztin Giulia Enders den Körper so, dass man ihn wieder spürt, als Verbündeten statt als Reparaturfall."
 date: 2026-07-07
 aktualisiert: 2026-07-07
 tags: [denker-vita, medizin, wissenschaftskommunikation, körper]

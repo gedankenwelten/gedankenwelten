@@ -1,5 +1,6 @@
 ---
 title: Xavier Abu Eid — DenkerVita
+description: "Xavier Abu Eid, palästinensischer Christ und früherer PLO-Berater, verlangt Rechenschaft von Netanjahu wie von der Hamas-Führung: Seit Oktober 2023 stehe das Völkerrecht auf dem Spiel."
 tags: [denker-vita, palästina, völkerrecht, diaspora]
 ---
 

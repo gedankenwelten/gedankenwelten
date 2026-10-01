@@ -1,5 +1,6 @@
 ---
 title: Aziz Abu Sarah — DenkerVita
+description: "Sein Bruder starb nach israelischer Haft. Aziz Abu Sarah wählte statt Rache die Begegnung und erfand Reisen, die ein Israeli und ein Palästinenser gemeinsam führen."
 tags: [denker-vita, frieden, palästina, aktivismus]
 ---
 

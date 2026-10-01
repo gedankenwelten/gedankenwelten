@@ -1,5 +1,6 @@
 ---
 title: Nico Semsrott — DenkerVita
+description: "Erst Demotivationstrainer der heute-show, dann EU-Abgeordneter: Nico Semsrott legte seine Budgets offen und reichte eine Mallorca-Reise ein, um zu zeigen, dass in Brüssel niemand prüft."
 date: 2026-05-07
 aktualisiert: 2026-05-07
 tags: [denker-vita, eu, transparenz, satire, demokratie]

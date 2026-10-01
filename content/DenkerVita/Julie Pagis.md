@@ -1,5 +1,6 @@
 ---
 title: Julie Pagis — DenkerVita
+description: "Julie Pagis, Soziologin am CNRS und Kind einer 68er-Kommune, zeigt an einer maoistischen Kleingruppe, dass Charisma im Glauben der Gefolgschaft entsteht, nicht im Propheten."
 date: 2026-05-07
 aktualisiert: 2026-05-07
 tags: [denker-vita, psychologie, autoritarismus, frankreich]

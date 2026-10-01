@@ -1,5 +1,6 @@
 ---
 title: Carlotta Voß — DenkerVita
+description: "Carlotta Voß liest J. D. Vance als Träger einer kohärenten Ideologie und trennt den Postliberalismus scharf vom Konservatismus. Ihre Antwort darauf heißt personale Demokratie."
 tags: [denker-vita, philosophie, demokratie, usa, autoritarismus, deutschland]
 ---
 

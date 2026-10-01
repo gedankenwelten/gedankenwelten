@@ -1,5 +1,6 @@
 ---
 title: Sebastian Gießmann — DenkerVita
+description: "Wer Standards setzt, schafft Abhängigkeiten: Sebastian Gießmann erzählt die Kulturgeschichte der Kreditkarte und zeigt, dass Europa beim Bezahlen andere Wege hätte gehen können."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, technologie, wirtschaft, geopolitik, medien]

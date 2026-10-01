@@ -1,5 +1,6 @@
 ---
 title: Thomas Westbrook — DenkerVita
+description: "Als Evangelikaler in Aserbaidschan aufgewachsen, später Atheist: Thomas Westbrook untersucht auf Holy Koolaid Kultmechanismen, auch die im amerikanischen Nationalismus."
 date: 2026-06-02
 aktualisiert: 2026-06-02
 tags: [denker-vita, usa, propaganda, medien, atheismus]

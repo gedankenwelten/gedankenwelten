@@ -1,5 +1,6 @@
 ---
 title: Ronen Steinke — DenkerVita
+description: "Jurist und SZ-Korrespondent Ronen Steinke, Biograf Fritz Bauers, sieht die Meinungsfreiheit von Polizei und Justiz bedroht und Arme vor deutschen Gerichten benachteiligt."
 date: 2026-05-01
 aktualisiert: 2026-05-01
 tags: [denker-vita, recht, meinungsfreiheit, journalismus]

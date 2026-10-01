@@ -1,5 +1,6 @@
 ---
 title: Margarita Šešelgytė — DenkerVita
+description: "Margarita Šešelgytė, Politikwissenschaftlerin in Vilnius, denkt Sicherheit aus der Lage eines Frontstaats am Suwałki-Korridor und wirbt in Europa für strategische Empathie."
 date: 2026-07-27
 aktualisiert: 2026-07-27
 tags: [denker-vita, geopolitik, europa, nato, russland, krieg, litauen]

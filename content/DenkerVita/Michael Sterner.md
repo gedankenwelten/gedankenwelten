@@ -1,5 +1,6 @@
 ---
 title: Michael Sterner — DenkerVita
+description: "Michael Sterner hat Power-to-Gas mitentwickelt und lehrt in Regensburg Energiespeicher. Auf YouTube rechnet er parteilos vor, wo die Politik Speicher ausbremst."
 date: 2026-05-05
 aktualisiert: 2026-05-05
 tags:

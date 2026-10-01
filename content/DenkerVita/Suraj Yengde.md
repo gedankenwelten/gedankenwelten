@@ -1,5 +1,6 @@
 ---
 title: Suraj Yengde — DenkerVita
+description: "Aufgewachsen in einer Dalit-Familie in Nanded, liest Suraj Yengde Kaste als globales Phänomen, verwandt mit dem Rassismus gegen Schwarze, und Ambedkar als unerledigten Auftrag."
 tags: [denker-vita, soziale-ungleichheit, indien, philosophie, widerstand]
 ---
 

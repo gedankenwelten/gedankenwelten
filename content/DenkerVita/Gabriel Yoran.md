@@ -1,5 +1,6 @@
 ---
 title: Gabriel Yoran — DenkerVita
+description: "Warum werden Alltagsdinge schlechter und heißen trotzdem Fortschritt? Gabriel Yoran, Gründer und promovierter Philosoph, nennt das die Verkrempelung der Welt."
 tags: [denker-vita, konsum, kapitalismus, technologie, deutschland]
 ---
 

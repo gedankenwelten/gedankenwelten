@@ -1,5 +1,6 @@
 ---
 title: Arthur Aron — DenkerVita
+description: "Lässt sich Nähe herstellen? Der Sozialpsychologe Arthur Aron ließ Fremde 36 Fragen beantworten und kartierte romantische Liebe im Hirnscan als Antriebssystem."
 tags: [denker-vita, psychologie, sozialpsychologie, liebe, usa]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Lacina Koné — DenkerVita
+description: "Afrika soll die nützlichste KI bauen, nicht die mächtigste: Lacina Koné leitet die Allianz Smart Africa und verhandelt digitale Souveränität, mit Europa auf Augenhöhe."
 tags: [denker-vita, technologie, ki, geopolitik, afrika]
 ---
 

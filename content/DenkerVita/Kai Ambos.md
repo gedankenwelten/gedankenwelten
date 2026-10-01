@@ -1,5 +1,6 @@
 ---
 title: Kai Ambos — DenkerVita
+description: "Die Regel gilt für alle oder für niemanden: Kai Ambos, Strafrechtler in Göttingen und Richter in Den Haag, misst den Westen an dem Völkerrecht, das dieser Russland vorhält."
 tags: [denker-vita, völkerrecht, strafrecht, deutschland]
 ---
 

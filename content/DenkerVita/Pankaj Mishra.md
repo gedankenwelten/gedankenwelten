@@ -1,5 +1,6 @@
 ---
 title: Pankaj Mishra — DenkerVita
+description: "In Bibliotheken in Benares las sich Pankaj Mishra in den Weltkanon. Die globale Wut liest er als Erbe der Aufklärung: Ressentiment derer, denen Gleichheit versprochen wurde."
 tags: [denker-vita, philosophie, geopolitik, kapitalismus, populismus, indien]
 ---
 

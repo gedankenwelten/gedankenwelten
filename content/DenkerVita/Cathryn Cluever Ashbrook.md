@@ -1,5 +1,6 @@
 ---
 title: Cathryn Clüver Ashbrook — DenkerVita
+description: "Die deutsch-amerikanische Politologin Cathryn Clüver Ashbrook liest Trumps Umbau der US-Demokratie als Strategie und als Warnung an ein Europa, das sich für immun hält."
 tags: [denker-vita, usa, trump, demokratie, geopolitik, deutschland, transatlantisch]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Robert Musil — DenkerVita
+description: "Präzision und Seele zusammendenken: Das war Robert Musils Lebensprogramm, und sein unvollendeter Mann ohne Eigenschaften stellt dem Wirklichkeitssinn den Möglichkeitssinn zur Seite."
 tags: [denker-vita, literatur, philosophie, oesterreich]
 ---
 

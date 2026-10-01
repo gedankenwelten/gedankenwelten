@@ -1,5 +1,6 @@
 ---
 title: Jana Puglierin — DenkerVita
+description: "Wer verteidigt Europa, wenn Amerika nicht kommt? Jana Puglierin vom ECFR setzt auf europäische Abschreckung und nimmt zugleich ernst, ob die Bürger sie mittragen."
 date: 2026-07-27
 aktualisiert: 2026-07-27
 tags: [denker-vita, geopolitik, deutschland, militär, usa]

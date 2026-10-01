@@ -1,5 +1,6 @@
 ---
 title: Lilith Roska — DenkerVita
+description: "Gegen rechte Codes aus Zahlen, Memes und Emojis erzählt Lilith Roska für die Arolsen Archives auf TikTok und Instagram die Geschichten von Menschen, die die Nazis verfolgten."
 tags: [denker-vita, medien, rechtsextremismus, erinnerungskultur]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Malala Yousafzai — DenkerVita
+description: "Mit elf schrieb sie gegen das Schulverbot der Taliban an, mit fünfzehn schoss man ihr in den Kopf: Malala Yousafzai kämpft für das Recht jedes Mädchens, zur Schule zu gehen."
 tags: [denker-vita, bildung, menschenrechte, feminismus, pakistan]
 ---
 

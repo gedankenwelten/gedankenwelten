@@ -1,5 +1,6 @@
 ---
 title: Anton Jäger — DenkerVita
+description: "Alles ist politisch, und doch folgt nichts daraus: Der belgische Ideenhistoriker Anton Jäger nennt das Hyperpolitik, Empörung ohne die Organisationen, die sie einst in Macht verwandelten."
 tags: [denker-vita, philosophie, demokratie, populismus, belgien]
 ---
 

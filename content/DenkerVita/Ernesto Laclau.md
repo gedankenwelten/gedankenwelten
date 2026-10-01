@@ -1,5 +1,6 @@
 ---
 title: Ernesto Laclau — DenkerVita
+description: "Ernesto Laclau, argentinisch-britischer Theoretiker der Hegemonie, sah im Populismus die Grundlogik der Politik: Ein leeres Wort wie „das Volk“ bündelt Forderungen, die sonst nichts verbindet."
 date: 2026-06-08
 tags: [denker-vita, philosophie, politische-theorie, hegemonie, post-marxismus, populismus, diskurstheorie, argentinien, großbritannien]
 aktualisiert: 2026-06-08

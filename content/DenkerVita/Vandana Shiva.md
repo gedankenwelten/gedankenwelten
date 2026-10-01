@@ -1,5 +1,6 @@
 ---
 title: Vandana Shiva — DenkerVita
+description: "Vandana Shiva, Physikerin und Gründerin der Saatgut-Bewegung Navdanya, nennt Patente auf Leben eine koloniale Geste — stark in der Strukturkritik, umstritten bei manchen empirischen Behauptungen."
 tags:
   - denker-vita
   - oekologie

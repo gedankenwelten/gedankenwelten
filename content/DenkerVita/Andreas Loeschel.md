@@ -1,5 +1,6 @@
 ---
 title: Andreas Löschel — DenkerVita
+description: "Andreas Löschel hat die Energiewende jahrelang für die Bundesregierung vermessen. Der Bochumer Ökonom zeigt, was sie kostet, und überlässt der Politik, welcher Preis zu hoch ist."
 date: 2026-06-10
 tags: [denker-vita, energiepolitik, wirtschaft, deutschland, klimapolitik]
 aktualisiert: 2026-06-10

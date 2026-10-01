@@ -1,5 +1,6 @@
 ---
 title: Tim Stark — DenkerVita
+description: "Tim Stark untersucht, wie ironische Meme-Kulturen kognitiv wirken — und wie aus dem rechtsextremen Insider-Witz um „Agartha“ schrittweise Radikalisierung werden kann."
 tags: [denker-vita, rechtsextremismus, desinformation, deutschland]
 ---
 

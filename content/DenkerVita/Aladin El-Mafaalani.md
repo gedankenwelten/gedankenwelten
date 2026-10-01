@@ -1,5 +1,6 @@
 ---
 title: Aladin El-Mafaalani — DenkerVita
+description: "Vom Hauptschüler zum Soziologen: Aladin El-Mafaalani erklärt, warum gelingende Integration mehr Streit erzeugt und wie das Netz vereinzeltes Misstrauen zu Gemeinschaften verknüpft."
 tags: [denker-vita, soziologie, migration, bildung, demokratie]
 ---
 

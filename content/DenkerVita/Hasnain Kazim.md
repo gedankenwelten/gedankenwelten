@@ -1,5 +1,6 @@
 ---
 title: Hasnain Kazim — DenkerVita
+description: "Hasnain Kazim antwortet auf Hassmails, statt sie zu blockieren. Für den früheren Marineoffizier und Spiegel-Korrespondenten ist Streit eine demokratische Kulturtechnik."
 tags: [denker-vita, medien, migration, demokratie, rechtsextremismus, deutschland, türkei]
 ---
 

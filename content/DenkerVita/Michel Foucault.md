@@ -1,5 +1,6 @@
 ---
 title: Michel Foucault — DenkerVita
+description: "Psychiatrie, Klinik und Gefängnis legen fest, was als normal gilt: Michel Foucault zeigte, wie das freie Subjekt aus Disziplin entsteht. Freiheit war ihm tägliche Übung."
 date: 2026-04-19
 aktualisiert: 2026-04-19
 tags: [denker-vita, philosophie, macht, diskurs, frankreich]

@@ -1,5 +1,6 @@
 ---
 title: Alexander Thiele — DenkerVita
+description: "Staatsrechtler Alexander Thiele bejahte 2024 die Voraussetzungen eines AfD-Verbots und rät heute doch davon ab: Kein Verbot saniert eine einzige Brücke oder dichtet ein Schuldach ab."
 tags: [denker-vita, deutschland, demokratie, philosophie, wirtschaft]
 ---
 

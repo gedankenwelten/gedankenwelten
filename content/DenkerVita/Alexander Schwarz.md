@@ -1,5 +1,6 @@
 ---
 title: Alexander Schwarz — DenkerVita
+description: "Alexander Schwarz vom Berliner ECCHR arbeitet daran, dass Handyvideos und Satellitenbilder vor Gericht als Beweis taugen, damit Völkerstraftaten nicht straflos bleiben."
 tags: [denker-vita, völkerrecht, menschenrechte, deutschland]
 ---
 

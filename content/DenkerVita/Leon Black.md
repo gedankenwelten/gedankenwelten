@@ -1,5 +1,6 @@
 ---
 title: Leon Black — DenkerVita
+description: "Leon Black, Mitgründer von Apollo, zahlte Jeffrey Epstein rund 170 Millionen Dollar für Steuerberatung. Missbrauchsvorwürfe gegen ihn bestreitet er; angeklagt wurde er nie."
 tags: [denker-vita, usa, oligarchie, finanzwelt]
 ---
 

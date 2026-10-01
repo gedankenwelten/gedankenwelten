@@ -1,5 +1,6 @@
 ---
 title: Hans Maggi — DenkerVita
+description: "Auf Bambusrädern fuhr Hans Maggi mit seiner Freundin Franzi von Deutschland bis Japan, langsam genug, dass ihn die Menschen am Weg ansprechen; sie interessieren ihn mehr als jede Landschaft."
 date: 2026-06-21
 aktualisiert: 2026-06-21
 tags: [denker-vita, reise, fahrrad, begegnung, nachhaltigkeit]

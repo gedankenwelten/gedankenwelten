@@ -1,5 +1,6 @@
 ---
 title: Steffen Mau — DenkerVita
+description: "Deutschland ist nicht gespalten, sagt Steffen Mau, aber es hat Triggerpunkte, an denen Erregung eskaliert. Den Umbruch kennt der Soziologe aus Rostock und der NVA-Kaserne 1989."
 date: 2026-04-28
 aktualisiert: 2026-04-28
 tags: [denker-vita, demokratie, deutschland]

@@ -1,5 +1,6 @@
 ---
 title: Cordula Tutt — DenkerVita
+description: "Cordula Tutt, Wirtschaftsjournalistin im Berliner Büro der WirtschaftsWoche, misst Reformen an Zahlen und hält das Gießkannenprinzip für unsozial: Hilfe soll dort ankommen, wo Not ist."
 date: 2026-06-02
 aktualisiert: 2026-06-02
 tags: [denker-vita, wirtschaft, medien, deutschland]

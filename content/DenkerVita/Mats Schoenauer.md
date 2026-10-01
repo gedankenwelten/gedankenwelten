@@ -1,5 +1,6 @@
 ---
 title: Mats Schoenauer — DenkerVita
+description: "Mats Schönauer, einst Chefredakteur des BILDblogs, zerlegt auf Topfvollgold Klatschpresse und Desinformation, oft nach Hunderten einzeln gesichteten Videos und Titelseiten."
 date: 2026-05-14
 aktualisiert: 2026-05-14
 tags: [denker-vita, medien, desinformation, deutschland, medienkritik]

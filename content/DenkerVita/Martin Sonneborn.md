@@ -1,5 +1,6 @@
 ---
 title: Martin Sonneborn — DenkerVita
+description: "Martin Sonneborn, Ex-Chef der Titanic und Gründer von Die PARTEI, saß zehn Jahre im EU-Parlament. Seine Satire zielt auf Rüstungslobby und Waffenlieferungen an die Ukraine."
 date: 2026-05-03
 aktualisiert: 2026-05-03
 tags: [denker-vita, satire, eu, geopolitik]

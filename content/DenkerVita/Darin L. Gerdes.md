@@ -1,5 +1,6 @@
 ---
 title: Darin L. Gerdes — DenkerVita
+description: "Darin L. Gerdes lehrt Leadership in South Carolina und liest den Ukraine-Krieg auf YouTube als Frage der Führung, als Reagan-Republikaner, der mit dem MAGA-Kurs gebrochen hat."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, geopolitik, ukraine, leadership]

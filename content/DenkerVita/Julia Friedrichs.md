@@ -1,5 +1,6 @@
 ---
 title: Julia Friedrichs — DenkerVita
+description: "Julia Friedrichs saß dabei, wenn Berater Superreichen ihr Vermögen steuerfrei rechnen. Ihr Befund: Deutschland streitet über Einkommen, die eigentliche Ungleichheit liegt im Vermögen."
 date: 2026-05-10
 aktualisiert: 2026-05-10
 tags: [denker-vita, wirtschaft, soziale-ungleichheit, medien, deutschland, journalismus]

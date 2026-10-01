@@ -1,5 +1,6 @@
 ---
 title: William Darity Jr. — DenkerVita
+description: "Diskriminierung hält sich, weil sie sich lohnt: Der Duke-Ökonom William Darity Jr. begründete die Stratification Economics und beziffert, was Reparationen für Schwarze Amerikaner kosten."
 tags: [denker-vita, wirtschaft, usa, soziale-ungleichheit, kapitalismus]
 ---
 

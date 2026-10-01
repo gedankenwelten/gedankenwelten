@@ -1,5 +1,6 @@
 ---
 title: Andrey Gurkov — DenkerVita
+description: "32 Jahre sendete Andrey Gurkov aus Bonn auf Russisch nach Russland. Er liest das Land über Gasverträge und Bilanzen und sieht die ganze russische Gesellschaft mit Europa gebrochen."
 tags: [denker-vita, journalismus, medien, russland, ukraine, deutschland, geopolitik, wirtschaft, energiepolitik]
 ---
 

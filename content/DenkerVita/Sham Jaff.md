@@ -1,5 +1,6 @@
 ---
 title: Sham Jaff — DenkerVita
+description: "Nicht alles muss für Deutschland wichtig sein, um berichtenswert zu sein: Sham Jaff sammelt seit 2014 im Newsletter Nachrichten aus dem Globalen Süden, die sonst untergehen."
 tags: [denker-vita, medien, journalismus, global]
 ---
 

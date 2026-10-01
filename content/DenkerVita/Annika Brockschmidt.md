@@ -1,5 +1,6 @@
 ---
 title: Annika Brockschmidt — DenkerVita
+description: "Wie die Religiöse Rechte die Republikaner übernahm und in welchen Codes Extremisten sprechen: Annika Brockschmidt entschlüsselt, was Amerikas Rechte nach Europa exportiert."
 date: 2026-05-20
 aktualisiert: 2026-05-20
 tags: [denker-vita, usa, rechtsextremismus, religion, journalismus, deutschland]

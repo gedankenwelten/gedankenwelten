@@ -1,5 +1,6 @@
 ---
 title: Ninia LaGrande — DenkerVita
+description: "Debatten ermöglichen statt Thesen setzen: Ninia LaGrande, Slam-Poetin aus Hannover und Mitgründerin von #ausnahmslos, versteht zugängliche Moderation als politische Praxis."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, medien, deutschland]

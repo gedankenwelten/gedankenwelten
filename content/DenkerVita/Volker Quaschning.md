@@ -1,5 +1,6 @@
 ---
 title: Volker Quaschning — DenkerVita
+description: "Volker Quaschning schrieb das Standard-Lehrbuch der Erneuerbaren und erklärt auf YouTube, warum fast alles elektrisch werden muss, offen als Professor, der sich politisch einmischt."
 date: 2026-07-07
 aktualisiert: 2026-07-07
 tags: [denker-vita, energiepolitik, klima, technologie, deutschland]

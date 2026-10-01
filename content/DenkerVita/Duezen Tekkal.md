@@ -1,5 +1,6 @@
 ---
 title: Düzen Tekkal — DenkerVita
+description: "Im August 2014 flog Düzen Tekkal mit ihrem Vater in den Genozid an den Jesiden. Seither kämpft sie dafür, dass er Folgen hat: ein Tribunal für die Täter, Bleiberecht für Überlebende."
 tags: [denker-vita, journalismus, menschenrechte, jesiden, deutschland]
 ---
 

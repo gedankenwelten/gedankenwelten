@@ -1,5 +1,6 @@
 ---
 title: Lucy Brown — DenkerVita
+description: "Verliebtheit ist ein Antrieb wie Hunger: Die New Yorker Neurologin Lucy Brown fand mit Helen Fisher die romantische Liebe im Belohnungssystem des Gehirns, dort, wo auch Sucht entsteht."
 tags: [denker-vita, neurowissenschaft, neuroimaging, liebe, usa]
 ---
 

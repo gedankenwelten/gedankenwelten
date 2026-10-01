@@ -1,5 +1,6 @@
 ---
 title: Adam Johnson — DenkerVita
+description: "Adam Johnson zählt, wessen Tod in US-Zeitungen „bestätigt“ und wessen bloß „behauptet“ wird, und liest daraus, wie Leitmedien den Krieg in Gaza vertretbar erscheinen ließen."
 tags: [denker-vita, medien, medienkritik, usa, gaza]
 ---
 

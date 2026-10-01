@@ -1,5 +1,6 @@
 ---
 title: Gert Scobel — DenkerVita
+description: "Gert Scobel meditiert seit vierzig Jahren und redet offen über die Nebenwirkungen: ein Philosoph im Fernsehen, der die Hirnforschung ernst nimmt und ihre Grenzen benennt."
 date: 2026-05-23
 aktualisiert: 2026-05-23
 tags:

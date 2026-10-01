@@ -1,5 +1,6 @@
 ---
 title: Catrin Misselhorn — DenkerVita
+description: "Catrin Misselhorn, Philosophin in Göttingen, schrieb die Grundfragen der Maschinenethik und zieht eine harte Linie: Keine Maschine soll über Leben und Tod entscheiden."
 tags: [denker-vita, ki, ethik, philosophie, deutschland]
 ---
 

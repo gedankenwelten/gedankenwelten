@@ -1,5 +1,6 @@
 ---
 title: Ulf Röller — DenkerVita
+description: "Erst Washington, dann Peking, seit 2022 Brüssel: Ulf Röller, Leiter des ZDF-Studios, kennt beide Pole der neuen Weltordnung von innen und misst Europas Souveränität an ihnen."
 tags: [denker-vita, journalismus, medien, europa, china, geopolitik]
 ---
 

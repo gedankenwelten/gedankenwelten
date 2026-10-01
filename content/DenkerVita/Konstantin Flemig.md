@@ -1,5 +1,6 @@
 ---
 title: Konstantin Flemig — DenkerVita
+description: "Kriegsreporter Konstantin Flemig war in Kramatorsk und Butscha und berichtet heute unabhängig auf YouTube — von der Ukraine wie aus dem Sudan, den die Welt übersieht."
 date: 2026-05-09
 aktualisiert: 2026-05-09
 tags: [denker-vita, journalismus, ukraine, krieg, geopolitik]

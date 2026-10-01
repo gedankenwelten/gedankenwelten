@@ -1,5 +1,6 @@
 ---
 title: Achille Mbembe — DenkerVita
+description: "Achille Mbembe, Historiker aus Kamerun, gab der Macht über den Tod den Namen Nekropolitik — und sucht in afrikanischen Kosmogonien eine Ethik, die der ganzen Erde gilt."
 date: 2026-05-15
 aktualisiert: 2026-05-15
 tags: [denker-vita, philosophie, postkolonialismus, geopolitik, demokratie]

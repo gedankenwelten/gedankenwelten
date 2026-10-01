@@ -1,5 +1,6 @@
 ---
 title: Ruben Mawick — DenkerVita
+description: "Seit 2023 fährt der westfälische Rettungssanitäter Ruben Mawick als Combat Medic an die ukrainische Front — auch nachdem bei Bachmut eine russische Rakete sein Hilfsfahrzeug traf."
 tags: [denker-vita, ukraine, krieg, humanitaere-hilfe, deutschland]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Frederike Kaltheuner — DenkerVita
+description: "Märkte werden gemacht, nicht gefunden: Frederike Kaltheuner zeigt, wie Europas Rede von KI-Souveränität an US-Modellen und US-Infrastruktur hängt, und wo die EU gegensteuern könnte."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, ki, industriepolitik, europa, technologie-politik, marktkonzentration]

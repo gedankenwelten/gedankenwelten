@@ -1,5 +1,6 @@
 ---
 title: Dana-Sophia Valentiner — DenkerVita
+description: "Die Hamburger Verfassungsrechtlerin Dana-Sophia Valentiner denkt Grundrechte von der Selbstbestimmung her und hält die AfD nach dem Gutachten der GFF für verfassungswidrig."
 tags: [denker-vita, recht, demokratie, deutschland]
 ---
 

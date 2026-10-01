@@ -1,5 +1,6 @@
 ---
 title: Jana Hensel — DenkerVita
+description: "Seit „Zonenkinder“ erzählt Jana Hensel den Osten von innen. In seiner Abkehr von der Demokratie sieht sie einen materiellen Kern, dessen erste Abbruchkante Hartz IV war."
 date: 2026-09-27
 aktualisiert: 2026-09-27
 tags: [denker-vita, deutschland, demokratie, afd, soziale-ungleichheit, medien]

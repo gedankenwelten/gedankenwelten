@@ -1,5 +1,6 @@
 ---
 title: Zhao Tingyang — DenkerVita
+description: "Eine Weltordnung ohne Außen: Zhao Tingyangs Tianxia-System will Feindschaft in Gastfreundschaft verwandeln — Kritiker hören darin einen verdeckten Sinozentrismus."
 date: 2026-05-16
 aktualisiert: 2026-05-16
 tags: [denker-vita, philosophie, geopolitik, politische-ordnung, weltordnung, china, erkenntnistheorie, demokratie]

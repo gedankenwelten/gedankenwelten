@@ -1,5 +1,6 @@
 ---
 title: Erich Fromm — DenkerVita
+description: "Warum folgen Menschen Autoritäten, die ihnen schaden? Erich Fromm fand die Antwort in der Furcht vor der Freiheit und den Ausweg im Sein statt im Haben."
 date: 2026-04-19
 aktualisiert: 2026-06-24
 tags: [denker-vita, philosophie, psychologie, humanismus, psychoanalyse]

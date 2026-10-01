@@ -1,5 +1,6 @@
 ---
 title: Paul Heck — DenkerVita
+description: "Ein Katholik, der den Islam von innen verstehen will: Paul Heck, Islamwissenschaftler in Georgetown, nennt sein Ziel eine Epistemologie der Freundschaft — erkennen, um nahe zu sein."
 date: 2026-07-03
 aktualisiert: 2026-07-03
 tags: [denker-vita, islam, religionsphilosophie, theologie, pluralismus, usa]

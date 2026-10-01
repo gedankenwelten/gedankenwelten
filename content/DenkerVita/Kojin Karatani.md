@@ -1,5 +1,6 @@
 ---
 title: Kojin Karatani — DenkerVita
+description: "Nicht die Produktion treibt die Geschichte, sagt Kojin Karatani, sondern die Art, wie Menschen tauschen. Der Japaner sucht einen Weg über Kapital, Nation und Staat hinaus."
 date: 2026-05-15
 aktualisiert: 2026-05-15
 tags: [denker-vita, philosophie, marxismus, japan, politische-oekonomie, literaturtheorie]

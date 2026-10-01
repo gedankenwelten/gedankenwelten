@@ -1,5 +1,6 @@
 ---
 title: Maja Göpel — DenkerVita
+description: "Für Maja Göpel sind Wachstum und BIP Erzählungen, die sich ändern lassen. Die Transformationsforscherin denkt Wirtschaft innerhalb planetarer Grenzen und fragt, wie es besser geht."
 date: 2026-04-21
 aktualisiert: 2026-07-25
 tags: [denker-vita, wirtschaft, kapitalismus, demokratie, philosophie, deutschland]

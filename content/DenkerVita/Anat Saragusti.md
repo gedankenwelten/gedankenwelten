@@ -1,5 +1,6 @@
 ---
 title: Anat Saragusti — DenkerVita
+description: "Israels erste Kriegsfotografin schlich sich 1982 trotz Verbot ins belagerte Beirut. Heute dokumentiert Anat Saragusti, wie Netanjahus Regierung die Presse aushöhlt."
 tags: [denker-vita, medien, israel, pressefreiheit]
 ---
 

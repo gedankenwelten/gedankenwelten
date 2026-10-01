@@ -1,5 +1,6 @@
 ---
 title: Alexander Teske — DenkerVita
+description: "Sechs Jahre plante Alexander Teske mit, was in die Tagesschau kommt. Sein Befund aus ostdeutscher Sicht: Die Verzerrung beginnt bei der Themenauswahl eines sozial engen Milieus."
 tags: [denker-vita, medien, journalismus, deutschland, ostdeutschland]
 aktualisiert: 16.08.2026
 ---

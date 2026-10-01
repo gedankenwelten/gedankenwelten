@@ -1,5 +1,6 @@
 ---
 title: Der Dara — DenkerVita
+description: "Der Dara, bürgerlich Dara Marc Sasmaz, kommentiert auf YouTube Reden und Interviews der Innenpolitik im Reaction-Format, gegen rechte Desinformation und Verschwörungsdenken."
 date: 2026-05-13
 aktualisiert: 2026-05-13
 tags: [denker-vita, politik, youtube, deutschland]

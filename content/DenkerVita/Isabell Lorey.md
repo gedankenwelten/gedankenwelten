@@ -1,5 +1,6 @@
 ---
 title: Isabell Lorey — DenkerVita
+description: "Isabell Lorey liest Prekarität mit Foucault als Regierungstechnik, die Unsicherheit gezielt verteilt, und setzt dagegen Sorge und eine Demokratie, die im Präsens geübt wird."
 date: 2026-04-30
 aktualisiert: 2026-04-30
 tags: [denker-vita, philosophie, macht, prekaritaet, queer-theorie]

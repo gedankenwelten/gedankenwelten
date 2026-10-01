@@ -1,5 +1,6 @@
 ---
 title: Jörg Baberowski — DenkerVita
+description: "Der Berliner Stalinismusforscher Jörg Baberowski erklärt Gewalt aus ihrer eigenen Dynamik statt aus Ideologie; seit 2014 streitet er öffentlich und umstritten über Migration und Demokratie."
 tags: [denker-vita, geschichte, gewalt, stalinismus, demokratie, deutschland]
 ---
 

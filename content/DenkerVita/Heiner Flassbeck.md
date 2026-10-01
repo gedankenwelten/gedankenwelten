@@ -1,5 +1,6 @@
 ---
 title: Heiner Flassbeck — DenkerVita
+description: "Wer spart, braucht einen Schuldner. Mit dieser Saldenmechanik liest Heiner Flassbeck, einst Chefökonom der UNCTAD, die Eurokrise als Folge deutschen Lohndumpings."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, wirtschaft, kapitalismus, deutschland]

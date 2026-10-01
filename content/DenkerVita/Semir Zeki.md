@@ -1,5 +1,6 @@
 ---
 title: Semir Zeki — DenkerVita
+description: "Semir Zeki kartierte, wo das Gehirn Farbe und Bewegung sieht, und fragte dann, wo es Schönheit und Liebe erlebt: der Begründer der Neuroästhetik am University College London."
 tags: [denker-vita, neurowissenschaft, neuroaesthetik, liebe, grossbritannien]
 ---
 

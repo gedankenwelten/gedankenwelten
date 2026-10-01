@@ -1,5 +1,6 @@
 ---
 title: Bernhard Pörksen — DenkerVita
+description: "Bernhard Pörksen nennt es Filterclash: Im Netz prallen Weltbilder aufeinander. Der Medienforscher setzt ein Zuhören dagegen, das fragt, in welcher Welt der andere recht hat."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, medien, debattenkultur, konstruktivismus]

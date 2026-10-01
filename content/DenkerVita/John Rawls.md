@@ -1,5 +1,6 @@
 ---
 title: John Rawls — DenkerVita
+description: "Im Krieg erlebte John Rawls, wie willkürlich Leben und Tod verteilt sind. Daraus wurde der Schleier des Nichtwissens: Gerecht ist, was wir wählten, ohne zu wissen, wer wir sind."
 date: 2026-04-27
 aktualisiert: 2026-04-27
 tags: [denker-vita, philosophie, gerechtigkeit, ethik, usa]

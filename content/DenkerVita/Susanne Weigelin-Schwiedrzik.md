@@ -1,5 +1,6 @@
 ---
 title: Susanne Weigelin-Schwiedrzik — DenkerVita
+description: "Wie erzählt China seine eigenen Katastrophen? Die Wiener Sinologin Susanne Weigelin-Schwiedrzik liest daraus Pekings Machtpolitik und rät Europa zu kühlem Realismus."
 date: 2026-08-12
 aktualisiert: 2026-08-12
 tags: [denker-vita, china, geopolitik, geschichte, sinologie, österreich]

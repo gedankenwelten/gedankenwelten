@@ -1,5 +1,6 @@
 ---
 title: Albert Moukheiber — DenkerVita
+description: "Albert Moukheiber nutzt den Zaubertrick als Labor: Wer sieht, wie eine Illusion das Gehirn täuscht, versteht seine Selbsttäuschung — und misstraut der Neuromania der eigenen Zunft."
 date: 2026-07-07
 aktualisiert: 2026-07-07
 tags: [denker-vita, neurowissenschaft, psychologie, kognition]

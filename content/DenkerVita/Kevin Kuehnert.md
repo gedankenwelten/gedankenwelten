@@ -1,5 +1,6 @@
 ---
 title: Kevin Kühnert — DenkerVita
+description: "Vom SPD-Generalsekretär zur Bürgerbewegung Finanzwende: Kevin Kühnert will großen Vermögen eine Rendite von sechs Prozent unterstellen und diese besteuern wie jedes Einkommen."
 date: 2026-05-10
 aktualisiert: 2026-05-10
 tags: [denker-vita, politik, soziale-ungleichheit, deutschland, verteilungsgerechtigkeit]

@@ -1,5 +1,6 @@
 ---
 title: Dominik Finkelde — DenkerVita
+description: "Der Münchner Jesuit Dominik Finkelde liest Wittgenstein mit Lacan und fragt mit Nietzsche, was in der Philosophie der Neuesten Zeit vom Subjekt und von der Wahrheit bleibt."
 date: 2026-05-02
 aktualisiert: 2026-05-02
 tags: [denker-vita, philosophie, poststrukturalismus]

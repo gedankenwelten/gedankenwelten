@@ -1,5 +1,6 @@
 ---
 title: Patrick Legun — DenkerVita
+description: "Patrick Legun aus Aachen kauft mit humanvoll Familien aus der Schuldknechtschaft pakistanischer Ziegeleien frei. Ob das befreit oder einen Markt nährt, ist die offene Frage seiner Arbeit."
 tags: [denker-vita, soziale-ungleichheit, pakistan, medien, ethik, deutschland]
 ---
 

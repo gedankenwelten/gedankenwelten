@@ -1,5 +1,6 @@
 ---
 title: Helen Fisher — DenkerVita
+description: "Helen Fisher schob frisch Verliebte in den Hirnscanner und fand einen Antrieb, der mächtiger ist als der Sexualtrieb: Liebe als Schaltung, die die Evolution zur Partnerwahl anlegte."
 tags: [denker-vita, neurowissenschaft, psychologie, anthropologie, liebe, usa]
 ---
 

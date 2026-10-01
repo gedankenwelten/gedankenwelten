@@ -1,5 +1,6 @@
 ---
 title: Jürgen Habermas — DenkerVita
+description: "Jürgen Habermas fand die Hoffnung, die Adorno aufgab, in der Sprache selbst: Wer spricht, erhebt Geltungsansprüche und unterstellt, dass Verständigung ohne Herrschaft möglich ist."
 date: 2026-05-09
 aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, kritische-theorie, sprache, demokratie, deutschland]

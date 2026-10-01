@@ -1,5 +1,6 @@
 ---
 title: Jan-Keno Janssen — DenkerVita
+description: "Jan-Keno Janssen, Gesicht des Heise-Formats c't 3003, testet Technik im Alltag und rechnet nach, wie Nvidia und die KI-Industrie den Menschen als Kunden aus dem Blick verlieren."
 date: 2026-06-02
 aktualisiert: 2026-06-02
 tags: [denker-vita, technologie, ki, journalismus, deutschland]

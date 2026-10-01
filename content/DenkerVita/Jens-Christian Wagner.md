@@ -1,5 +1,6 @@
 ---
 title: Jens-Christian Wagner — DenkerVita
+description: "Die Lager standen mitten in der Gesellschaft: Jens-Christian Wagner leitet die Gedenkstätten Buchenwald und Mittelbau-Dora und stellt sich offen gegen rechten Geschichtsrevisionismus."
 tags: [denker-vita, erinnerungskultur, nationalsozialismus, deutschland]
 ---
 

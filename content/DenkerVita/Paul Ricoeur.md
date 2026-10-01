@@ -1,5 +1,6 @@
 ---
 title: Paul Ricœur — DenkerVita
+description: "Paul Ricœur ging durch Freud, Strukturalismus und Erzähltheorie und kam verändert zurück. Wer die Kritik hinter sich hat, kann dem Symbol wieder zuhören: in zweiter Naivität."
 date: 2026-09-13
 aktualisiert: 2026-09-13
 tags: [denker-vita, philosophie, hermeneutik, ethik, erkenntnistheorie, frankreich]

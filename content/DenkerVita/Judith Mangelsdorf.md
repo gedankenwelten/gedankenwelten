@@ -1,5 +1,6 @@
 ---
 title: Judith Mangelsdorf — DenkerVita
+description: "Braucht Wachstum Leid? Judith Mangelsdorf, erste Professorin für Positive Psychologie im deutschsprachigen Raum, zeigte per Meta-Analyse, dass auch Glück Menschen reifen lässt."
 date: 2026-09-08
 aktualisiert: 2026-09-08
 tags: [denker-vita, psychologie, deutschland, wissenschaft]

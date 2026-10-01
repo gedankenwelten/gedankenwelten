@@ -1,5 +1,6 @@
 ---
 title: Lukas Bärfuss — DenkerVita
+description: "Lukas Bärfuss erbte vom Vater eine Bananenkiste voller Schuldscheine. Der Büchner-Preisträger ohne Schulabschluss schreibt über Herkunft und das Erben als politische Frage."
 date: 2026-08-07
 aktualisiert: 2026-08-07
 tags: [denker-vita, literatur, schweiz, soziale-ungleichheit, philosophie]

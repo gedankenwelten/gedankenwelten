@@ -1,5 +1,6 @@
 ---
 title: Katharina Nocun — DenkerVita
+description: "Katharina Nocun kam über den Datenschutz zur Verschwörungsforschung und zeigt, wie Esoterik und KI-generierte Bilder Menschen ins Vorfeld der extremen Rechten ziehen."
 date: 2026-05-19
 aktualisiert: 2026-05-19
 tags: [denker-vita, datenschutz, verschwörungstheorien, esoterismus, ai, desinformation, deutschland]

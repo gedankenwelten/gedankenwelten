@@ -1,5 +1,6 @@
 ---
 title: Herfried Münkler — DenkerVita
+description: "Seit seiner Doktorarbeit über Machiavelli fragt Herfried Münkler, wie Ordnung entsteht und zerfällt; Kriege, die sich selbst finanzieren, beschrieb er lange vor der deutschen Debatte."
 date: 2026-07-27
 aktualisiert: 2026-07-27
 tags: [denker-vita, geopolitik, krieg, politik, deutschland, philosophie, machiavelli]

@@ -1,5 +1,6 @@
 ---
 title: Claudia Kemfert — DenkerVita
+description: "Claudia Kemfert, Energieökonomin am DIW, rechnet vor, dass sich die Energiewende lohnt, und macht die Verzögerungskampagnen der fossilen Industrie zum Gegenstand ihrer Forschung."
 date: 2026-07-07
 aktualisiert: 2026-07-07
 tags: [denker-vita, energiepolitik, klima, wirtschaft, deutschland]

@@ -1,5 +1,6 @@
 ---
 title: Claus-Christian Carbon — DenkerVita
+description: "Warum gefällt ein neues Design erst nicht und dann doch? Der Bamberger Wahrnehmungspsychologe Claus-Christian Carbon misst Ästhetik und zeigt, wie das Gehirn Wirklichkeit herstellt."
 date: 2026-07-07
 aktualisiert: 2026-07-07
 tags: [denker-vita, psychologie, wahrnehmung, ästhetik]

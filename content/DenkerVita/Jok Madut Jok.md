@@ -1,5 +1,6 @@
 ---
 title: Jok Madut Jok — DenkerVita
+description: "Ein Elitenpakt lässt die Waffen schweigen, schafft aber keinen Frieden: Der südsudanesische Anthropologe Jok Madut Jok fragt, wem es nützt, wenn Gewalt als Stammesfeindschaft erscheint."
 tags: [denker-vita, geopolitik, südsudan]
 ---
 

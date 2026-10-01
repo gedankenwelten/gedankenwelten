@@ -1,5 +1,6 @@
 ---
 title: Sari Nusseibeh — DenkerVita
+description: "Philosoph aus altem Jerusalemer Geschlecht: Sari Nusseibeh bleibt beim gewaltfreien Widerstand und mutet auch der eigenen Seite zu, Israels Gründung mit israelischen Augen zu sehen."
 tags: [denker-vita, philosophie, palästina, gewaltfreiheit]
 ---
 

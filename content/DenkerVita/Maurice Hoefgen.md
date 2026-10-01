@@ -1,5 +1,6 @@
 ---
 title: Maurice Höfgen — DenkerVita
+description: "Ein Staat mit eigener Währung kann immer zahlen, knapp sind nur die realen Ressourcen: Maurice Höfgen erklärt Wirtschaftspolitik auf YouTube aus der Sicht der Modern Monetary Theory."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, wirtschaft, mmt, deutschland]

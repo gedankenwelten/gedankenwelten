@@ -1,5 +1,6 @@
 ---
 title: Alena Buyx — DenkerVita
+description: "Ärztin, Philosophin, bis 2024 an der Spitze des Ethikrats: Alena Buyx stellt der Autonomie die Solidarität zur Seite und bestreitet, dass Leben das höchste Gut sei."
 date: 2026-05-30
 aktualisiert: 2026-05-30
 tags: [denker-vita, ethik, medizinethik, bioethik, deutschland]

@@ -1,5 +1,6 @@
 ---
 title: Arthur Schopenhauer — DenkerVita
+description: "Hinter allem Streben ein blinder, zielloser Wille: Arthur Schopenhauer las die Welt mit Kant und den Upanishaden — und fand die Moral im Mitleid, das im Anderen sich selbst erkennt."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags:

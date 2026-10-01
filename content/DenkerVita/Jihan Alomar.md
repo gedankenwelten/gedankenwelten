@@ -1,5 +1,6 @@
 ---
 title: Jihan Alomar — DenkerVita
+description: "Mit zehn vom IS verschleppt, heute in Tübingen: Die Jesidin Jihan Alomar spricht an Schulen und vor Bundestagsausschüssen als Zeugin des Völkermords, bis Shingal wieder aufgebaut wird."
 tags: [denker-vita, menschenrechte, jesiden, irak, zeitzeugnis]
 aktualisiert: 03.08.2026
 ---

@@ -1,5 +1,6 @@
 ---
 title: Frauke Fischer — DenkerVita
+description: "Was hat die Mücke je für uns getan? Biologin Frauke Fischer erklärt Artenschutz an Dingen des Alltags und hält den Verlust der Vielfalt für die tiefere Krise als die Erwärmung."
 tags: [denker-vita, biodiversität, ki, technologie, wirtschaft, deutschland]
 ---
 

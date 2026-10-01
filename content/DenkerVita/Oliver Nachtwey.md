@@ -1,5 +1,6 @@
 ---
 title: Oliver Nachtwey — DenkerVita
+description: "Die Rolltreppe läuft abwärts: Oliver Nachtwey beschrieb die Abstiegsgesellschaft und fragt heute mit Carolin Amlinger, wie aus blockiertem Leben Lust an der Zerstörung wird."
 date: 2026-05-20
 aktualisiert: 2026-05-20
 tags: [denker-vita, demokratie, autoritarismus, kapitalismus, soziale-ungleichheit, deutschland]

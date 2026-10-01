@@ -1,5 +1,6 @@
 ---
 title: Patrick Kaczmarczyk — DenkerVita
+description: "Patrick Kaczmarczyk kam über ein Währungsprojekt in Palästina zum Geld; heute zeigt der Ökonom, wie die Regeln von IWF und Dollar den globalen Süden ausbremsen."
 tags: [denker-vita, wirtschaft, entwicklungspolitik, fiskalpolitik, deutschland]
 ---
 

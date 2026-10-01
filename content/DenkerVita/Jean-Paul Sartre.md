@@ -1,5 +1,6 @@
 ---
 title: Jean-Paul Sartre — DenkerVita
+description: "Der Mensch ist, wozu er sich macht: Jean-Paul Sartre dachte die Freiheit als Last, die niemand abgeben kann, und irrte politisch fast immer dorthin, wo etwas zur Befreiung erklärt wurde."
 date: 2026-08-29
 aktualisiert: 2026-08-29
 tags: [denker-vita, philosophie, existenzialismus, frankreich]

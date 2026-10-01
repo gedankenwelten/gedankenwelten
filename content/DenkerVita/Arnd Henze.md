@@ -1,5 +1,6 @@
 ---
 title: Arnd Henze — DenkerVita
+description: "Arnd Henze, Theologe und WDR-Journalist, verfolgt, wie christlicher Nationalismus die Demokratie angreift und wie Bonhoeffer zur Parole der Neuen Rechten wurde."
 date: 2026-05-16
 aktualisiert: 2026-05-16
 tags: [denker-vita, demokratie, rechtsextremismus, medien, deutschland]

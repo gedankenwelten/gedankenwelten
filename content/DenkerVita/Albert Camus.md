@@ -1,5 +1,6 @@
 ---
 title: Albert Camus — DenkerVita
+description: "Die Welt schweigt, der Mensch fragt nach Sinn: Albert Camus nannte diese Kluft das Absurde und hielt ihr eine Revolte entgegen, die Gewalt im Namen der Geschichte verweigert."
 date: 2026-05-09
 aktualisiert: 2026-05-09
 tags: [denker-vita, philosophie, existenzialismus, frankreich]

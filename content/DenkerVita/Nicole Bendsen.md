@@ -1,5 +1,6 @@
 ---
 title: Nicole Bendsen — DenkerVita
+description: "Kreislaufwirtschaft als Risikominimierung, nicht als Moral: Nicole Bendsen von Circular Berlin macht sichtbar, welche Kosten die lineare Wirtschaft aus ihren Bilanzen auslagert."
 tags: [denker-vita, wirtschaft, nachhaltigkeit, deutschland]
 ---
 

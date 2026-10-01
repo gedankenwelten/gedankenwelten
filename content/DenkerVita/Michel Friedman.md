@@ -1,5 +1,6 @@
 ---
 title: Michel Friedman — DenkerVita
+description: "Michel Friedman, Sohn von Holocaust-Überlebenden, streitet für eine Demokratie, die sich am Schutz ihrer Minderheiten messen lassen muss, im Gespräch hart und stets am Argument."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, publizistik, philosophie, demokratie, antisemitismus]

@@ -1,5 +1,6 @@
 ---
 title: Barbara Tversky — DenkerVita
+description: "Denken ist räumlich, bevor es sprachlich wird: Die Kognitionspsychologin Barbara Tversky zeigt, wie Gesten und Skizzen am Denken mitarbeiten — die Hand denkt mit."
 date: 2026-05-16
 aktualisiert: 2026-05-16
 tags: [denker-vita, psychologie, kognition, embodied-cognition, spatial-cognition, usa]

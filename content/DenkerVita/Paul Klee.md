@@ -1,5 +1,6 @@
 ---
 title: Paul Klee — DenkerVita
+description: "„Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar“: Paul Klee, Bauhaus-Meister und Geiger, dachte das Bild als Werden — als einen Punkt, der spazieren geht."
 tags: [denker-vita, kunst, philosophie, bauhaus]
 ---
 

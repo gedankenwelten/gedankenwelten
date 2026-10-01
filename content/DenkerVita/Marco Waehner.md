@@ -1,5 +1,6 @@
 ---
 title: Marco Wähner — DenkerVita
+description: "Warum ballt sich das dezentrale Fediverse auf wenigen Servern? Der Soziologe Marco Wähner sieht darin ein Kollektivgut-Problem und fordert öffentliche Grundfinanzierung."
 date: 2026-06-12
 tags: [denker-vita, technologie, soziologie, demokratie, datenschutz]
 ---

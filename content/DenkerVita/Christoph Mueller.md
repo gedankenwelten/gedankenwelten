@@ -1,5 +1,6 @@
 ---
 title: Christoph Müller — DenkerVita
+description: "Ohne Trassen bleibt der Windstrom im Norden: Christoph Müller führt Amprion, das Höchstspannungsnetz für 29 Millionen Menschen, und steht für die physische Seite der Energiewende."
 date: 2026-07-10
 aktualisiert: 2026-07-10
 tags:

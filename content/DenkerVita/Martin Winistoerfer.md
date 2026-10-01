@@ -1,5 +1,6 @@
 ---
 title: Martin Winistörfer — DenkerVita
+description: "Martin Winistörfer leitet die KI-Forschung bei Hexagon und bringt Maschinen bei, in Punktwolken zu lesen, was ein Wald ist: Schichtung, Kronendach, gespeicherter Kohlenstoff."
 tags: [denker-vita, technologie, ki]
 ---
 

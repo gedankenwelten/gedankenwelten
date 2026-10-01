@@ -1,5 +1,6 @@
 ---
 title: Benjamin Biersky — DenkerVita
+description: "Mit seinem Kanal Nachtsitzung erklärt Benjamin Biersky aus dem Oberbergischen Trumps Amerika, offen links und als politische Bildung, Vermutungen als Vermutungen markiert."
 tags: [denker-vita, medien, usa, politik-kommentar]
 ---
 

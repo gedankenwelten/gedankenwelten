@@ -1,5 +1,6 @@
 ---
 title: Fabian Braesemann — DenkerVita
+description: "Mit Jobbörsen- und Lohndaten misst Fabian Braesemann am Oxford Internet Institute, wen KI tatsächlich trifft: oft eher Programmierer und Designer als die körperliche Routinearbeit."
 date: 2026-05-15
 aktualisiert: 2026-05-15
 tags: [denker-vita, wirtschaft, ki, arbeit, oxford, deutschland]

@@ -1,5 +1,6 @@
 ---
 title: Carlo Cipolla — DenkerVita
+description: "Berühmt wurde der Wirtschaftshistoriker Carlo Cipolla mit einem privaten Witz: seinen Gesetzen der Dummheit, die anderen schadet und sich selbst dazu — in jedem Milieu, auf jeder Bildungsstufe."
 date: 2026-05-15
 aktualisiert: 2026-05-15
 tags: [denker-vita, philosophie, wirtschaft, wirtschaftsgeschichte, gesellschaft, dummheit, italien]

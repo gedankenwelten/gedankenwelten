@@ -1,5 +1,6 @@
 ---
 title: "Manuel (Koschi Politik) — DenkerVita"
+description: "Manuel lebt in Buffalo, New York, und erklärt auf seinem Kanal Koschi Politik den Deutschsprachigen die Trump-Jahre aus der Nähe, ohne Medienhaus, getragen von seinem Publikum."
 date: 2026-05-11
 aktualisiert: 2026-05-11
 tags: [denker-vita, usa, medien, journalismus, year-2026]

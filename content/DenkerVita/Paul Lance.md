@@ -1,5 +1,6 @@
 ---
 title: Paul Lance — DenkerVita
+description: "Paul Lance, früher Republikaner und gläubiger Christ, fragt auf Europas Straßen, wie die Welt Trumps Amerika sieht, und hält das Schweigen der Gleichgültigen für Mitschuld."
 date: 2026-04-22
 aktualisiert: 2026-04-22
 tags: [denker-vita, usa, trump, widerstand, demokratie]

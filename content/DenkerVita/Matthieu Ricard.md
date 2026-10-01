@@ -1,5 +1,6 @@
 ---
 title: Matthieu Ricard — DenkerVita
+description: "Matthieu Ricard verließ das Institut Pasteur für ein Kloster in Nepal. Als Mönch und Molekularbiologe vertritt er, dass Glück und Mitgefühl sich üben lassen wie ein Instrument."
 tags: [denker-vita, buddhismus, glück, mitgefühl, neurowissenschaft]
 ---
 

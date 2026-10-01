@@ -1,5 +1,6 @@
 ---
 title: Christoph Hein — DenkerVita
+description: "25 Jahre berichtete Christoph Hein für die F.A.Z. aus Asien. Seine Folgerung: Die Globalisierung alter Art ist vorbei, Handel und Lieferketten sind zu Waffen geworden."
 date: 2026-05-13
 aktualisiert: 2026-05-13
 tags: [denker-vita, geooekonomie, geopolitik, wirtschaft, asien, deutschland]

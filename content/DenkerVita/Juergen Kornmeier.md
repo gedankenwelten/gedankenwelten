@@ -1,5 +1,6 @@
 ---
 title: Jürgen Kornmeier — DenkerVita
+description: "Der Necker-Würfel kippt, obwohl der Reiz gleich bleibt. Daran zeigt Jürgen Kornmeier, dass Wahrnehmung gebaut ist, und leitet in Freiburg ein Institut, das Spuk und Telepathie mit Methode prüft."
 tags: [denker-vita, wahrnehmung, bewusstsein, psychologie, deutschland]
 ---
 

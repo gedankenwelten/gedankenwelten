@@ -1,5 +1,6 @@
 ---
 title: Nicole Deitelhoff — DenkerVita
+description: "Wenn selbst Mittelmächte Völkerrechtsbrüche nicht mehr benennen, vergisst die Welt, dass Recht verletzt wurde, warnt die Frankfurter Friedensforscherin Nicole Deitelhoff."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, politikwissenschaft, friedensforschung, voelkerrecht]

@@ -1,5 +1,6 @@
 ---
 title: Mark Reicher — DenkerVita
+description: "Geopolitik-YouTuber Mark Reicher stellt die Meinungsfreiheit fast über alles und verließ 2024 doch VisualPolitik, weil der Kanal aus seiner Sicht russische Propaganda transportierte."
 date: 2026-06-09
 aktualisiert: 2026-06-09
 tags: [denker-vita, geopolitik, medien, youtube]

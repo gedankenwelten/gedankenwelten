@@ -1,5 +1,6 @@
 ---
 title: Hannah Arendt — DenkerVita
+description: "Was Eichmann fehlte, war das Denken: Hannah Arendt, staatenlos geflohen, fand das Böse banal und setzte ihm die Natalität entgegen — mit jedem Menschen kommt ein Anfang in die Welt."
 date: 2026-07-07
 aktualisiert: 2026-07-07
 tags:

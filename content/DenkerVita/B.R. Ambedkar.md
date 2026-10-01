@@ -1,5 +1,6 @@
 ---
 title: B.R. Ambedkar — DenkerVita
+description: "Als Unberührbarer geboren, schrieb B.R. Ambedkar Indiens Verfassung und führte fast eine halbe Million Dalits in den Buddhismus. Kaste, sagte er, teilt die Arbeiter, nicht die Arbeit."
 tags: [denker-vita, indien, kaste, verfassung, buddhismus]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Achim Truger — DenkerVita
+description: "Achim Truger sitzt auf dem Gewerkschaftsplatz im Rat der Wirtschaftsweisen und schreibt dort die Minderheitsvoten: Die Schuldenbremse bremse vor allem Investitionen."
 tags: [denker-vita, wirtschaft, finanzpolitik, schuldenbremse]
 ---
 

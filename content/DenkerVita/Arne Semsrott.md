@@ -1,5 +1,6 @@
 ---
 title: Arne Semsrott — DenkerVita
+description: "Mit FragDenStaat zwingt Arne Semsrott Behörden, sich zu erklären. Wo ein Gesetz die Pressefreiheit beschneidet, verstößt er bewusst dagegen, um es vor Gericht prüfen zu lassen."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, pressefreiheit, transparenz, demokratie]

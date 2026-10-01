@@ -1,5 +1,6 @@
 ---
 title: Ardalan Ibrahim — DenkerVita
+description: "Eine Partei mit einem einzigen Ziel: Ardalan Ibrahim, Philosoph und Coach aus München, will geloste Bürgerversammlungen ins Grundgesetz bringen — und die Partei danach auflösen."
 date: 2026-09-27
 aktualisiert: 2026-09-27
 tags: [denker-vita, demokratie, losverfahren, philosophie, deutschland]

@@ -1,5 +1,6 @@
 ---
 title: Pascal Kaufmann — DenkerVita
+description: "Neurowissenschaftler und Gründer von Alpine AI: Pascal Kaufmann setzt gegen die Abhängigkeit von US-Konzernen auf eine Schweizer KI, deren Daten Europa nicht verlassen."
 date: 2026-06-03
 aktualisiert: 2026-06-03
 tags: [denker-vita, ki, technologie, unternehmertum, schweiz]

@@ -1,5 +1,6 @@
 ---
 title: Franz Kafka — DenkerVita
+description: "Franz Kafka schrieb nachts, nach acht Stunden Versicherungsamt, und wollte alles verbrannt sehen. Seine Figuren zeigen, wie sehr ein Mensch auf den Zuspruch anderer angewiesen ist."
 date: 2026-04-26
 aktualisiert: 2026-04-26
 tags: [denker-vita, philosophie, existenzialismus, literatur]

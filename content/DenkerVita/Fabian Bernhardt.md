@@ -1,5 +1,6 @@
 ---
 title: Fabian Bernhardt — DenkerVita
+description: "Ohne Rache keine Moral? Der Berliner Philosoph Fabian Bernhardt liest die Rache als verdrängte Seite der Moderne, als frühes Gespür dafür, dass etwas nicht hätte geschehen dürfen."
 tags: [denker-vita, philosophie, ethik, psychologie]
 ---
 

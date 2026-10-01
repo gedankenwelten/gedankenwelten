@@ -1,5 +1,6 @@
 ---
 title: Adam Tooze — DenkerVita
+description: "Adam Tooze liest Geld als Machtfrage. Der Wirtschaftshistoriker schrieb über Hitlers Kriegswirtschaft und den Crash von 2008 und machte das Wort Polykrise populär."
 date: 2026-07-07
 aktualisiert: 2026-07-25
 tags: [denker-vita, wirtschaft, geschichte, krisen, geopolitik]

@@ -1,5 +1,6 @@
 ---
 title: Elif Eralp — DenkerVita
+description: "Mit 25,7 Prozent machte Elif Eralp die Linke 2026 zur stärksten Kraft in Berlin. Die Juristin, Tochter politischer Flüchtlinge, knüpft jedes Regieren an die Vergesellschaftung großer Wohnkonzerne."
 date: 2026-09-27
 aktualisiert: 2026-09-27
 tags: [denker-vita, politik, die-linke, berlin, deutschland]

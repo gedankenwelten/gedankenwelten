@@ -1,5 +1,6 @@
 ---
 title: Christian Jakob — DenkerVita
+description: "taz-Reporter Christian Jakob behandelt Migration und Desinformation als ein Feld: Er recherchiert, wie Falschmeldungen über Geflüchtete rechte Politik mobilisieren."
 date: 2026-05-03
 aktualisiert: 2026-05-03
 tags: [denker-vita, migration, menschenrechte, deutschland, journalismus]

@@ -1,5 +1,6 @@
 ---
 title: Maximilian Fichtner — DenkerVita
+description: "Maximilian Fichtner leitet das Helmholtz-Institut Ulm für Batterieforschung und räumt im Podcast mit Mythen über E-Autos auf: Das Problem ist die Politik, die Batterie längst nicht mehr."
 date: 2026-05-23
 aktualisiert: 2026-05-23
 tags: [denker-vita, energiewende, batterie, wissenschaft, e-mobilitaet]

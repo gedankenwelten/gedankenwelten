@@ -1,5 +1,6 @@
 ---
 title: Prof. Dr.-Ing. Jochen Großmann — DenkerVita
+description: "Jochen Großmann, Dresdner Ingenieur und Gründer der GICON-Gruppe, baut in der Lausitz einen 365 Meter hohen Windturm und denkt die Energiewende als Systemaufgabe."
 date: 2026-05-16
 aktualisiert: 2026-05-16
 tags: [denker-vita, energie, ingenieurskultur, deutschland, energiewende, technologie, nachhaltigkeit]

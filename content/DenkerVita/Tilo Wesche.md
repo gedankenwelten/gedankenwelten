@@ -1,5 +1,6 @@
 ---
 title: Tilo Wesche — DenkerVita
+description: "Kann ein Fluss Rechte haben? Der Oldenburger Philosoph Tilo Wesche denkt die Rechte der Natur aus der Eigentumstheorie heraus, geprägt von einer Jugend im Namibia der Apartheid."
 date: 2026-05-29
 aktualisiert: 2026-05-29
 tags: [denker-vita, philosophie, eigentumstheorie, kritische-theorie, naturrechte, nachhaltigkeit, deutschland]

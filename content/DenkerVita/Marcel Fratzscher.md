@@ -1,5 +1,6 @@
 ---
 title: Marcel Fratzscher — DenkerVita
+description: "Marcel Fratzscher, Präsident des DIW Berlin, liest Deutschlands Exportüberschuss als unterlassene Investition und hält der Wirtschaftsdebatte Daten entgegen, wo sie Mythen erzählt."
 date: 2026-08-17
 aktualisiert: 2026-08-17
 tags: [denker-vita, wirtschaft, deutschland]

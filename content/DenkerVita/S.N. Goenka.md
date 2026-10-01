@@ -1,5 +1,6 @@
 ---
 title: S.N. Goenka — DenkerVita
+description: "Ein Kaufmann aus Mandalay, den die Migräne zur Meditation trieb: S.N. Goenka lehrte Vipassana als Technik ohne Konversion, in kostenlosen Zehn-Tages-Kursen weltweit."
 date: 2026-04-25
 aktualisiert: 2026-04-25
 tags: [denker-vita, buddhismus, vipassana, meditation, philosophie]

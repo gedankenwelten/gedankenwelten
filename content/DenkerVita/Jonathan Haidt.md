@@ -1,5 +1,6 @@
 ---
 title: Jonathan Haidt — DenkerVita
+description: "Das moralische Urteil kommt aus dem Bauch, die Vernunft rechtfertigt hinterher: So erklärt Jonathan Haidt die Gräben der Politik — und warnt, umstritten, vor der Smartphone-Kindheit."
 tags: [denker-vita, psychologie, moral, polarisierung, social-media]
 ---
 

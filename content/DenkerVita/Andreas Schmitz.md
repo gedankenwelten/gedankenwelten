@@ -1,5 +1,6 @@
 ---
 title: Andreas Schmitz — DenkerVita
+description: "„Physik ist keine Meinung“, sagt Andreas Schmitz, der Akkudoktor: ein Ingenieur, der die Energiewende vom Balkon aus vorrechnet und die Kritik an sich in einer öffentlichen Tabelle beantwortet."
 tags: [denker-vita, energiewende, energiepolitik, technologie, medien, deutschland]
 ---
 

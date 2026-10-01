@@ -1,5 +1,6 @@
 ---
 title: Ray Dalio — DenkerVita
+description: "Seine falsche Depressionsprognose von 1982 kostete ihn fast alles. Seither sucht Ray Dalio Regeln für die großen Schuldenzyklen, mit einer Bilanz aus Treffern und Fehlalarmen."
 tags: [denker-vita, wirtschaft, kapitalismus, schulden, geopolitik, usa]
 ---
 

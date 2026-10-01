@@ -1,5 +1,6 @@
 ---
 title: Annette Dittert — DenkerVita
+description: "Vom Hausboot am Regent's Canal aus hat Annette Dittert den Brexit als langsame Selbstverletzung eines Landes begleitet — und liest Großbritannien als Frühwarnsystem für Europa."
 date: 2026-06-16
 tags: [denker-vita, journalismus, grossbritannien, medien, demokratie, populismus, brexit]
 ---
