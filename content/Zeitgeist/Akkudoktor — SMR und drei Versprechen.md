@@ -20,6 +20,16 @@ aliases:
 
 # Akkudoktor — Mini-Atomkraftwerke und drei Versprechen
 
+![[assets/Akkudoktor-SMR-und-drei-Versprechen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Saul Steinberg**: wacklige Tuschlinie auf grünem Rechenpapier, ein Hauch Aquarell. Auf der Waage liegen links ein Spielzeugreaktor mit drei leeren Versprechens-Fähnchen, rechts Sonne und Wind. Der Balken steht im Gleichgewicht und ruht auf der Mütze eines kleinen Mannes mit Taschenrechner. Dessen Rechenstreifen läuft in ein Fragezeichen aus. Steinberg, weil die Note ein Ingenieur ist, der nachrechnet: Witz statt Pathos, Karopapier statt Atomkraft-Ikonografie, und am Ende steht ehrlich das „Das weiß heute niemand“.
+
+*Prompt:* Wide banner in the style of Saul Steinberg: wobbly, witty black ink line drawing on pale green engineering graph paper, the grid visible through sparse watercolor washes. A long hand-drawn balance scale stretches across the page, its beam perfectly level. On the left pan sits a small toy-like nuclear reactor, a little dome beside a short cooling tower; exactly three blank ribbon banners flutter up from it like promises, completely empty, no letters, no writing. On the right pan a big round yellow sun and two thin wind turbines. Below the scale a small cartoon man in a cap holds a pocket calculator; a long paper strip of calculation runs from it along the bottom of the page and curls at its far end into a large question mark. Palette: ink black, pale grid green, sun yellow, a soft grey cloud behind the reactor. Flat, humorous, no text anywhere, no photorealism, no signature.
+
+</details>
+
 > [!abstract] Worum es geht
 > Ein Ingenieur legt drei Versprechen der Mini-Atomkraftwerke auf den Taschenrechner. Für die Dunkelflaute taugen sie nicht, beim Rest ist die ehrlichste Antwort: Das weiß heute niemand. Andreas Schmitz, der „Akkudoktor“, nimmt sich die Small Modular Reactors vor, die in Bayern, Schweden und Großbritannien gerade als Zukunft verhandelt werden: billiger durch Serienfertigung, Partner von Wind und Sonne, sicherer und sauberer als die großen Meiler. Er rechnet mit veröffentlichten Projektkosten, zeigt seine Annahmen offen und sagt an mehreren Stellen, dass er etwas nicht beurteilen kann. Sein Ergebnis gefällt keinem Lager ganz. Am Ende steht ein Satz, an dem sich auch das Video selbst messen lassen muss: Wer eine sichere Antwort verkauft, verkauft euch etwas.
 
