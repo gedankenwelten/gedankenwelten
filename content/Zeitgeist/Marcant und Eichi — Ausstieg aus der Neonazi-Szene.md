@@ -248,7 +248,7 @@ Quents „funktionale Äquivalenz“ lässt sich an Eichi in beide Richtungen ab
 
 ### → [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN]]
 
-Quent wurde als Jugendlicher in Thüringen von Neonazis verprügelt; in denselben Jahren zog Eichi in Neubrandenburg los, um Punks zu provozieren. Die Baseballschlägerjahre, aus denen Quent seine Lebensfrage gemacht hat, erzählt hier jemand vom Rand der Täterseite. Seine Antwort auf das Warum reibt sich an Quents Ohnmachtsthese: keine Kränkung, kein Verlust, sondern Langeweile, Alkohol und die Angst, vor dem Leitwolf als Verräter dazustehen.
+Quent wurde als Jugendlicher in Thüringen von Neonazis verprügelt; in denselben Jahren zog Eichi in Neubrandenburg los, um Punks zu provozieren. Die Baseballschlägerjahre, aus denen Quent seine Lebensfrage gemacht hat, erzählt hier jemand vom Rand der Täterseite. Seine Antwort auf das Warum reibt sich an Quents Ohnmachtsthese: Er nennt Langeweile, Alkohol und die Angst, vor dem Leitwolf als Verräter dazustehen. Eine Kränkung oder einen Verlust nennt er nicht.
 
 ### → [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]]
 
