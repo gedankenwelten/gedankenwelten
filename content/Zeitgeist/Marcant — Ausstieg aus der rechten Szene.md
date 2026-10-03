@@ -244,6 +244,9 @@ Dreißig Jahre früher und ohne Handy rutschte Eichi in Neubrandenburg über Bom
 
 Felix ist eine der tragenden Stimmen im Panorama über den Ausstieg: der TikTok-Mitläufer neben dem Neonazi der Neunziger, die Halbe-Stunde-Verspätung neben dem Bierkasten.
 
+### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
+Ein anderer Felix, zwanzig Jahre früher in der Szene, begleitet heute selbst Ausstiege und erzählt, dass sich die TikTok-Jugendlichen meist erst nach einer Hausdurchsuchung melden. Der Ausstiegsbegleiter Fabian Wichmann sagt, Argumente perlen ab wie an Teflon — und setzt wie Marcant auf die offene Tür.
+
 ---
 
 ## Weiterdenken

@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Kasten Bier landet auf der Straße, und ein Neonazi der Neunziger trainiert heute Geflüchtete: wie man aus der Szene herausfindet, ohne je zu wissen, warum man hineinging — und warum die Geschichte beim Erzählen leichter wird.
 
+> **03.10.** — [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg|Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
+>
+> Einer floh vor den Nazis, einer wich ihnen aus, einer war einer: ein Gespräch über den Weg hinein, den Weg heraus und darüber, warum Argumente dabei abperlen wie an Teflon.
+
 > **30.09.** — [[Zeitgeist/Tom Krebs — Wege aus der Krise und neoliberale Maerchen|Tom Krebs — Wege aus der Krise, Vergesellschaftung und neoliberale Märchen]]
 >
 > Ein Makroökonom aus dem Innern des Fachs nennt dessen Leitbild ein Märchen, rechnet Berlin die Vergesellschaftung vor und liest den Aufstieg der AfD an Energiepreisen ab. Am Tisch sitzt keine Gegenstimme.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Ingenieur legt drei Versprechen der Mini-Atomkraftwerke auf den Taschenrechner. Für die Dunkelflaute taugen sie nicht, beim Rest ist die ehrlichste Antwort: Das weiß heute niemand.
 
-> **29.09.** — [[Zeitgeist/Susanne Weigelin-Schwiedrzik — China in den Krieg treiben|Susanne Weigelin-Schwiedrzik — Amerikas Plan, China in den Krieg zu treiben]]
->
-> Zwei Supermächte lächeln in Washington und rüsten dahinter für einen Konflikt, den keine überleben würde. Seltene Erden gegen Chips, Beiboot Europa.
-
-> → *6 weitere in* [[Zeitgeist]]
+> → *7 weitere in* [[Zeitgeist]]
 
 ### Panorama
 

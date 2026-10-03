@@ -399,6 +399,7 @@ Dürr zeigt die physikalische Konsequenz von Bonhoeffers Diagnose: *„Wir könn
 - [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]] — Henze zeigt die Kehrseite: Wenn Bonhoeffer zur inhaltsleeren Ikone wird, ist er für jeden verfügbar — auch für die Neue Rechte. Dummheit als soziale Entmächtigung erklärt, warum diese Vereinnahmung wirkt; Entkontextualisierung erklärt, warum sie möglich wurde.
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Zupančičs Verleugnen im NZ-Salon resoniert mit Bonhoeffers These der gewählten Unwissenheit
 - [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] — Bonhoeffers „Befreiung, nicht Belehrung“ als Lebenslauf: Argumente erreichten den Neonazi Eichi nie, und die Begegnung mit Geflüchteten konnte erst wirken, als sich die Gruppe gelöst hatte, durch das Ultimatum seiner Freundin.
+- [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]] — Der Ausstiegsbegleiter Fabian Wichmann sagt, Argumente perlen ab wie an Teflon: Bonhoeffers Gespräch mit den Schlagworten statt mit dem Menschen; Befreiung statt Belehrung ist heute die Arbeit der Ausstiegshilfe.
 
 ---
 

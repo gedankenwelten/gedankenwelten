@@ -49,10 +49,12 @@ Das heißt nicht, dass jeder zufällig hineinstolpert. In einer US-Studie mit 91
 - **[[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN#Ohnmacht als Kernmechanismus — Fromms vier Reaktionsmuster|Quent und Göpel]]:** Ohnmacht ist der Kern — wer nichts bewirken kann, tritt nach unten.
 - **[[Leonie Heims und Tim Stark — Who the fck is Agartha#Der Witz, der keiner ist Gruppenidentität statt Glauben|Heims und Stark]]:** Die Meme-Szene hält kein Glaube zusammen, sondern eine Geheimsprache „von jungen Männern für junge Männer“.
 - **[[Sternstunde Philosophie — Droht ein neuer Faschismus#Lifestyle-Faschismus Active Clubs, Körperkult, Schwiegersohn-Optik|Damir Skenderovic]]:** Rechtsextremismus hing immer an Jugendkulturen; neu ist nur die Verpackung.
+- **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#„Ich habe mir das gezielt rausgepickt“|Felix Benneckenstein]]:** Erst Diebstahl und Abbruch, dann das passende Angebot eines NPD-Kreisverbands — und doch: „Ich habe mir das gezielt rausgepickt.“
+
+<details><summary>Weitere Stimmen (6)</summary>
+
 - **[[Albert Moukheiber — Mein Hirn und die anderen#6. Konformismus — der evolutionäre Preis der Zugehörigkeit|Albert Moukheiber]]:** Sich der Gruppe anzupassen ist evolutionär eingebaut — bei Asch folgte ein Drittel der Antworten der falschen Mehrheit.
-
-<details><summary>Weitere Stimmen (4)</summary>
-
+- **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Was man ausblenden kann|Felix Benneckenstein]]** (Ausblenden): Der Bruder mit Down-Syndrom saß jeden Tag am Tisch, und er las sich trotzdem in die Holocaustleugnung ein; Wichmann nennt das „Konfliktkompensation — das ist menschlich“.
 - **[[Marcant und Eichi — Ausstieg aus der Neonazi-Szene#„Gesagt wurde uns eigentlich gar nichts"|Eichi]]** (zweiter Befund): Kein Flugblatt, keine Schulung — das Feindbild war ein Ziel für Langeweile und Schnaps.
 - **[[Julie Pagis — Psychologie der charismatischen Kontrolle#Fernando Der „rote Prophet" und die biographische Sackgasse|Julie Pagis]]** (übertragbar, Sekte): Hineingezogen wird, wer in einer „biographischen Sackgasse“ steckt — „zufriedene Menschen lassen sich nicht unterwerfen“.
 - **[[Leonie Heims und Tim Stark — Who the fck is Agartha#Die entpolitisierte Zwischenzeit Call of Duty als Erstkontakt|Tim Stark]]:** Die Popkultur hat die Anschlussstelle gebaut, ohne es zu wollen.
@@ -69,7 +71,7 @@ Das heißt nicht, dass jeder zufällig hineinstolpert. In einer US-Studie mit 91
 
 Die Forschung ist sich hier ungewöhnlich einig: Fast nie ist es ein Argument. Tore Bjørgo nannte schon 2002 als stärkste Zugkräfte eine Partnerin, Kinder und den Wunsch nach einem normalen Leben ([*Exit Neo-Nazism*, NUPI](http://hdl.handle.net/11250/2394077)). Bei ehemaligen White-Power-Aktivisten in den USA war Elternschaft ein Wendepunkt, an dem sich das Selbstbild verschob ([Bubolz & Simi 2015, doi:10.1177/0002764215588814](https://doi.org/10.1177/0002764215588814)); eine Auswertung von zehn Autobiografien beschreibt Vaterschaft als emotional aufgeladenen Auslöser des Umdenkens ([Munden 2023, doi:10.1080/19434472.2023.2192771](https://doi.org/10.1080/19434472.2023.2192771)). In einer Studie mit 300 früheren Extremisten nannte die Hälfte Kinder als Faktor, gut ein Drittel neue Beziehungen außerhalb der Szene ([Jensen & Simi, NIJ 2022](https://nij.ojp.gov/topics/articles/domestic-extremism-no-one-size-fits-all-approach-disengagement-extremism-activity)). Die Kriminologie kennt dasselbe Muster für alle Delikte: Heirat senkt Straffälligkeit innerhalb derselben Person ([Sampson, Laub & Wimer 2006, doi:10.1111/j.1745-9125.2006.00055.x](https://doi.org/10.1111/j.1745-9125.2006.00055.x)).
 
-Die Beraterinnen und Berater des Ausstiegsprojekts JUMP in Mecklenburg-Vorpommern sprechen von „Irritationsmomenten“: eine persönliche Krise, der Beginn einer Ausbildung, neue Freunde, eine Begegnung — und oft die Erfahrung, selbst Opfer der eigenen Kameradschaft geworden zu sein ([NDR, 24.02.2026](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/rechtsextreme-jugend-in-mv-was-bewegt-zum-ausstieg,jugend-110.html)). Wichtig ist die Unterscheidung, die ein systematischer Review zieht: Sich von der Szene zu lösen (*disengagement*) und ihr Denken abzulegen (*deradicalization*) sind zwei Schritte, die oft Jahre auseinanderliegen ([Windisch et al. 2016](https://digitalcommons.chapman.edu/sociology_articles/23)).
+Die Beraterinnen und Berater des Ausstiegsprojekts JUMP in Mecklenburg-Vorpommern sprechen von „Irritationsmomenten“: eine persönliche Krise, der Beginn einer Ausbildung, neue Freunde, eine Begegnung — und oft die Erfahrung, selbst Opfer der eigenen Kameradschaft geworden zu sein ([NDR, 24.02.2026](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/rechtsextreme-jugend-in-mv-was-bewegt-zum-ausstieg,jugend-110.html)). Wichtig ist die Unterscheidung, die ein systematischer Review zieht: Sich von der Szene zu lösen (*disengagement*) und ihr Denken abzulegen (*deradicalization*) sind zwei Schritte, die oft Jahre auseinanderliegen ([Windisch et al. 2016](https://digitalcommons.chapman.edu/sociology_articles/23)). Und der Staat? Polizeidruck kann erschöpfen und zum Ausstieg treiben, die Festnahme *mit der Gruppe* kann sie zusammenschweißen — beides beschreibt derselbe Bericht ([Bjørgo & Carlsson 2005](https://www.files.ethz.ch/isn/27305/677.pdf)). Abschreckend wirkt die Wahrscheinlichkeit, erwischt zu werden, kaum die Härte ([Nagin 2013, doi:10.1086/670398](https://doi.org/10.1086/670398)); als unfair erlebte Strafe erzeugt Trotz ([Sherman 1993, doi:10.1177/0022427893030004006](https://doi.org/10.1177/0022427893030004006)).
 
 **Die Stimmen**
 
@@ -80,10 +82,12 @@ Die Beraterinnen und Berater des Ausstiegsprojekts JUMP in Mecklenburg-Vorpommer
 - **[[Marcant — Ausstieg aus der rechten Szene#Marcants Methode Peinlichkeit als politisches Werkzeug|Marcant]]** (Methode): Lächerlichkeit wirkt bei den Trendrechten besser als jede Widerlegung; die Gefestigten erreicht er nicht.
 - **[[Dietrich Bonhoeffer — Theorie der Dummheit#3. Der Weg heraus — Befreiung, nicht Bildung|Dietrich Bonhoeffer]]:** „Nicht ein Akt der Belehrung, sondern allein ein Akt der Befreiung“ — zuerst muss sich die Gruppe lösen.
 - **[[ARTE 42 — Koennen wir uns aendern#Wie stabil sind wir? Das Gummiband|ARTE 42]]:** Persönlichkeit reift an Partnerschaft und Beruf, weniger an Vorsätzen.
+- **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Das Straßenfest in Erding|Felix Benneckenstein]]** (Gegenfall): Mit sechzehn geht er dazwischen, als ein Skinhead eine Gaspistole auf Kinder richtet, wird verprügelt, ist fast draußen — bis ein Kader den Abend umdeutet. Entscheidend ist, wer die Irritation zuerst deutet.
+
+<details><summary>Weitere Stimmen (6)</summary>
+
 - **[[Julie Pagis — Psychologie der charismatischen Kontrolle#Gender und Widerstand Warum die Frauen sich leichter lösten|Julie Pagis]]** (übertragbar, Sekte): Die Frauen lösten sich leichter, weil sie die Bindung an Kinder und Familie nie abrissen.
-
-<details><summary>Weitere Stimmen (4)</summary>
-
+- **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Weckt der Rechtsstaat auf?|Felix Benneckenstein]]** (Rechtsstaat): Junge TikTok-Neonazis melden sich meist nach einer Hausdurchsuchung; die Forschung sagt, früh und verlässlich wirkt, hart kaum — und als unfair erlebt erzeugt Trotz.
 - **[[Marcant und Eichi — Ausstieg aus der Neonazi-Szene#Alkohol, Angst und eine stille Grenze|Eichi]]** (Gegenbefund): Seine private Grenze bei Waffen hat ihn nicht aus der Szene geführt — er hat sie nie laut gesagt.
 - **[[DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt#Die Symbole, und was Wegsehen kostet|Ein junger AfD-Anhänger]]:** „Ich distanziere mich stark davon“ — und bleibt. Wissen allein löst keinen Ausstieg aus.
 - **[[Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird#Die These|Spur Loosh]]** (übertragbar, Verschwörungsglaube): Widerlegung tötet kein Weltbild; die Peripherie fällt ab, der Kern bleibt.
@@ -111,10 +115,11 @@ Für die gemeinsame Sache — Team, Stube, Kurs — sind die Befunde enger und g
 - **[[Poerksen und Goepel — Debatte neu denken#Fünf Mythen der Debattenkultur — Techniken der Abkühlung|Bernhard Pörksen]]:** Der Dialogmythos: Vorschnelles Reden ist Fassade, Menschen spüren Heuchelei; er setzt auf respektvolle Konfrontation.
 - **[[Liya Yu — Dehumanisierung und Rehumanisierung#Meta-Dehumanisierung — die Spirale der Entmenschlichung|Liya Yu]]:** Wer sich entmenschlicht fühlt, entmenschlicht zurück — „Nazi“ und „Volksverräter“ sind die Wörter, die Gespräche töten.
 - **[[Jonathan Haidt — Kann ein gespaltenes Amerika heilen#Abscheu ist nicht Wut|Jonathan Haidt]]:** Wut ist umkehrbar, Abscheu ist „unauslöschliche Tinte“; heilen kann nur die konkrete Person, die man mag.
+- **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Argumente wie Teflon — und ein Abend im Jugendclub|Fabian Wichmann und Dennis Chiponda]]:** Wichmann: Argumente perlen ab wie Teflon. Chiponda: Sein Schulfeind verbrannte nach Jahren gemeinsamer Klassenfahrten und einer Nacht im geteilten Zimmer sein Nazizeug — „so scheiße bist du gar nicht“.
+
+<details><summary>Weitere Stimmen (6)</summary>
+
 - **[[Duezen Tekkal — Deutschland ist bedroht#Die Macht der Begegnung|Düzen Tekkal]]:** „Nichts, was stärker ist als die Macht der Begegnung“ — gegen die Anonymität des Netzes.
-
-<details><summary>Weitere Stimmen (5)</summary>
-
 - **[[Matthias Quent und Maja Goepel — Extremismus NEU DENKEN#Brandmauer — politisches Instrument, kein soziales|Matthias Quent]]:** Die Brandmauer gilt zwischen Institutionen, nicht zwischen Menschen — mit Sympathisanten im Gespräch bleiben, konfrontativ und auf Augenhöhe.
 - **[[Inon und Abu Sarah - The Future is Peace#Die Entscheidung zwei Tage nach dem Mord|Aziz Abu Sarah]]** (übertragbar, Nahost): Er wollte Rache, bis er unter Israelis Hebräisch lernte — „wenn ich Rache wähle, bin ich Sklave dessen, der mir das angetan hat“.
 - **[[Arlie Hochschild — Stolen Pride#Q&A — Gewerkschaften, Klasse, und Empathie als Stärke|Arlie Hochschild]]:** Empathie heißt, in fremden Schuhen zu stehen, nicht zuzustimmen.
@@ -132,7 +137,7 @@ Für die gemeinsame Sache — Team, Stube, Kurs — sind die Befunde enger und g
 
 Wie viele ohne Hilfe aussteigen, hat niemand gezählt. Die Größenordnungen sprechen eine deutliche Sprache: Einem rechtsextremistischen Personenpotenzial von 58.700 ([BfV 2025](https://www.verfassungsschutz.de/DE/themen/rechtsextremismus/zahlen-und-fakten/zahlen-und-fakten_node.html)) stehen bei EXIT-Deutschland 30 bis 40 begleitete Ausstiege im Jahr gegenüber ([Krause & Wagner 2023](https://journal-exit.de/wp-content/uploads/2023/03/Ausstieg-aus-dem-Extremismus_krause_wagner_exit_2023.pdf)), in Mecklenburg-Vorpommern 17 bei JUMP. Ob die Programme wirken, ist im strengen Sinn offen: Ein Campbell-Review fand 2024 keine Studie, die die Wirkung von Fallbegleitung belastbar misst ([Lewis et al. 2024, doi:10.1002/cl2.1386](https://doi.org/10.1002/cl2.1386)); die oft zitierte EXIT-Rückfallquote von zwei Prozent ist eine selbst gezählte Abbruchquote.
 
-Was trägt, ist besser belegt. Für Rechtsextreme ohne Haftstrafe war eine positive Beziehung zu jemandem außerhalb der Szene in der NIJ-Studie eine notwendige Bedingung; ein Viertel brauchte zehn Jahre oder mehr, nur ein Drittel ließ Straftaten, Gruppe und Ideologie zugleich hinter sich ([Jensen & Simi 2022](https://nij.ojp.gov/topics/articles/domestic-extremism-no-one-size-fits-all-approach-disengagement-extremism-activity)). Was zurückbleibt, beschreiben Ehemalige wie eine Sucht — Reflexe, Bilder, Wut, die ungefragt kommen ([Simi et al. 2017, doi:10.1177/0003122417728719](https://doi.org/10.1177/0003122417728719)). Wer sich verändert hat, aber nicht als verändert anerkannt wird, rutscht in Einsamkeit und Hoffnungslosigkeit ([Nugent & Schinkel 2016, doi:10.1177/1748895816634812](https://doi.org/10.1177/1748895816634812)). Und wer draußen bleibt, erzählt sein Leben oft als Erlösungsgeschichte, in der der gute Kern immer schon da war ([Maruna, *Making Good*, doi:10.1037/10430-000](https://doi.org/10.1037/10430-000)). Wenn Aussteiger diese Geschichte öffentlich erzählen, in Schulen oder vor Kameras, wirkt sie messbar wenig: kein Effekt auf rechte Einstellungen in einem Schulexperiment in Schleswig-Holstein ([Walsh & Gansewig 2019](https://journal-derad.com/index.php/jd/article/download/275/183/913)), Unglaubwürdigkeit ausgerechnet im rechten Milieu ([Koehler et al. 2023, doi:10.1080/1057610x.2023.2166000](https://doi.org/10.1080/1057610x.2023.2166000)). Was dem Bestand fehlt: eine Stimme aus der Ausstiegsarbeit selbst und ein Fall von Rückfall.
+Was trägt, ist besser belegt. Für Rechtsextreme ohne Haftstrafe war eine positive Beziehung zu jemandem außerhalb der Szene in der NIJ-Studie eine notwendige Bedingung; ein Viertel brauchte zehn Jahre oder mehr, nur ein Drittel ließ Straftaten, Gruppe und Ideologie zugleich hinter sich ([Jensen & Simi 2022](https://nij.ojp.gov/topics/articles/domestic-extremism-no-one-size-fits-all-approach-disengagement-extremism-activity)). Was zurückbleibt, beschreiben Ehemalige wie eine Sucht — Reflexe, Bilder, Wut, die ungefragt kommen ([Simi et al. 2017, doi:10.1177/0003122417728719](https://doi.org/10.1177/0003122417728719)). Wer sich verändert hat, aber nicht als verändert anerkannt wird, rutscht in Einsamkeit und Hoffnungslosigkeit ([Nugent & Schinkel 2016, doi:10.1177/1748895816634812](https://doi.org/10.1177/1748895816634812)). Und wer draußen bleibt, erzählt sein Leben oft als Erlösungsgeschichte, in der der gute Kern immer schon da war ([Maruna, *Making Good*, doi:10.1037/10430-000](https://doi.org/10.1037/10430-000)). Wenn Aussteiger diese Geschichte öffentlich erzählen, in Schulen oder vor Kameras, wirkt sie messbar wenig: kein Effekt auf rechte Einstellungen in einem Schulexperiment in Schleswig-Holstein ([Walsh & Gansewig 2019](https://journal-derad.com/index.php/jd/article/download/275/183/913)), Unglaubwürdigkeit ausgerechnet im rechten Milieu ([Koehler et al. 2023, doi:10.1080/1057610x.2023.2166000](https://doi.org/10.1080/1057610x.2023.2166000)). Aus der Ausstiegsarbeit selbst sprechen inzwischen Fabian Wichmann (EXIT) und Felix Benneckenstein (Aussteigerhilfe Bayern). Was dem Bestand noch fehlt: ein Fall von Rückfall.
 
 **Die Stimmen**
 
@@ -143,10 +148,11 @@ Was trägt, ist besser belegt. Für Rechtsextreme ohne Haftstrafe war eine posit
 - **[[Marcant — Ausstieg aus der rechten Szene#Deradikalisierung Was einen Menschen zurückbringt|Max]]:** „Macht bitte die Tür nie komplett zu“ — die Freundschaft ist wieder da.
 - **[[StreitClub — Extremismus und der Schutz der Demokratie#Der Streit über die Wähler|Hasnain Kazim und Michel Friedman]]:** Kazim will alle außer den überzeugten Faschisten zurückholen; Friedman hält dagegen, man dürfe mündige Menschen nicht exkulpieren.
 - **[[rp26 — Stresstest fuer die Demokratie Ostdeutschland#AfD-Verbotsverfahren und die moralische Klarheit von Lina Mitschke|Lina Mitschke]]:** Mit dreizehn von Neonazis verprügelt — die Stimme der Opferseite, die in Aussteigergeschichten meist Kulisse bleibt.
+- **[[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Was Ausstiegsbegleitung tut|Fabian Wichmann]]** (aus der Ausstiegsarbeit): Der Begleiter setzt nur den Rahmen — Beziehung, Sicherheit, Tattoos, Umzug —, aussteigen muss die Person selbst; akut vier Jahre, „ein Teil deines Lebens bis zum Ende“. Benneckensteins Klienten von vor acht Jahren sind alle draußen geblieben.
+
+<details><summary>Weitere Stimmen (6)</summary>
+
 - **[[ARTE 42 — Koennen wir uns aendern#Kann man sich gezielt ändern? Neuroplastizität und die CHILL-Studie|ARTE 42]]:** Dauerhafte Veränderung braucht Übung in vielen Situationen und gepflegte Beziehungen — sonst schnellt das Gummiband zurück.
-
-<details><summary>Weitere Stimmen (5)</summary>
-
 - **[[Marcant und Eichi — Ausstieg aus der Neonazi-Szene#Was hält einen draußen?|Eichi]]** (Nachbesprechung): „Es war alleine mein Wille“ — wie die meisten, die ohne Programm aussteigen, während die wenigen Programme schrumpfen.
 - **[[Marcant und Eichi — Ausstieg aus der Neonazi-Szene#Die Gegenwart holt ein|Eichi]]** (strukturell): Seine zweite Chance hängt an Menschen, die abgeschoben werden, seine Stelle an Spenden.
 - **[[Marcant — Ausstieg aus der rechten Szene#Die Flut — Content als Gegenmacht|Marcant]]:** Das Aussteiger-Video als Beweis, dass Radikalisierung keine Einbahnstraße ist — erzählt mit den Mitteln der Gegenseite.
@@ -165,10 +171,14 @@ Was trägt, ist besser belegt. Für Rechtsextreme ohne Haftstrafe war eine posit
 | Datum | Note | Vertieft |
 |---|---|---|
 | 03.10.2026 | [[Marcant und Eichi — Ausstieg aus der Neonazi-Szene#Nachbesprechung|Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] | Gründungsnote · Begegnung im Team: Namens-Feldexperimente in Amateurvereinen (Gómez-González et al. 2021, Nobis et al. 2021), Stuben- und Kursexperimente, DFB-Lagebild und FC Al Karama Greifswald · Was hält einen draußen: Programme gegen Größenordnung, Campbell-Review 2024, NIJ-Studie, Aussteiger als Redner |
+| 03.10.2026 | [[Benneckenstein und Wichmann — Zwischen Hass und Ausstieg#Nachbesprechung|Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]] | Stimme aus der Ausstiegsarbeit (Wichmann, Benneckenstein) · Weckt der Rechtsstaat auf? Bjørgo & Carlsson (Push und Wir-Gefühl), Nagin 2013, Sherman 1993, Petrosino 2010 (Diversion), Razzien 2025/26, Raumergreifung im Harz |
 
 ---
 
 ## Verbindungen
+
+### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg|Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
+Die Stimme aus der Ausstiegsarbeit, die dem Bestand fehlte: Wichmann über Rahmung, Sicherheit und die vier akuten Jahre, Benneckenstein als Ex-Neonazi und heutiger Ausstiegsbegleiter, dazu das Straßenfest als Irritation, die ein Kader umdeutet.
 
 ### → [[Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 Die direkte Nachbarin: Ihre Frage „Was holt Wähler zurück?“ behandelt das Zurückholen auf der Ebene der Wählenden, dieses Panorama auf der Ebene der Szene. Quent, Hochschild und die DW-Reportage stehen in beiden.

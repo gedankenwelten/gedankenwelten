@@ -254,6 +254,9 @@ Die industrielle Seite der Asymmetrie: Crockett zeigt, dass Menschen weniger str
 
 Die Drogenhilfe Halle ist ein Ort praktischer Rehumanisierung für die Gruppe, die Yu als am stärksten dehumanisiert beschreibt. Ihre wichtigste Arbeit ist, das Stigma so weit abzubauen, dass Menschen überhaupt an der Tür klingeln.
 
+### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
+Ein Ex-Neonazi erzählt, wie die Szene jede Gewalt zur Notwehr umdeutet; ein Schwarzer aus der Lausitz erzählt, wie sein Schulfeind nach einer Nacht im geteilten Zimmer sein Nazizeug verbrennt. Rehumanisierung im Einzelfall.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

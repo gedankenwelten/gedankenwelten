@@ -370,6 +370,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Thomas Eichstaedt|Thomas „Eichi" Eichstädt]]** — Aussteiger aus der Neonazi-Szene der 90er (Neubrandenburg); heute Trainer des FC Pio für junge Geflüchtete im AWO-Jugendclub Torgelow; Doku *Im Osten was Neues* (ZDF 2025)
 
+**[[DenkerVita/Felix Benneckenstein|Felix Benneckenstein]]** — Ex-Neonazi aus Bayern (Liedermacher „Flex“, ~2001–2011), Ausstieg mit EXIT; Gründer der Aussteigerhilfe Bayern, begleitet heute selbst Ausstiege
+
+**[[DenkerVita/Fabian Wichmann|Fabian Wichmann]]** — Erziehungswissenschaftler aus Brandenburg; Ausstiegsbegleiter bei EXIT-Deutschland (ab 2009), Kampagnen „Rechts gegen Rechts“, #HassHilft; seit 2025 bei Grüner Vogel (IS-Rückkehrer)
+
 **[[DenkerVita/Edgar Morin|Edgar Morin]]** — Französischer Philosoph und Soziologe (1921–2026); *pensée complexe* / komplexes Denken gegen die Zersplitterung des Wissens; sechsbändiges Hauptwerk *La Méthode*, Résistance-Kämpfer, „Denker des Jahrhunderts"
 
 **[[DenkerVita/Marco Waehner|Marco Wähner]]** — Soziologe (Dr.), Postdoc am Center for Advanced Internet Studies (CAIS), Bochum; empirische Forschung zu dezentralen Netzwerken (Fediverse, Mastodon, Tor); dezentrale Netzwerke als Kollektivgut-Problem, originäre Instabilität, Zentralisierung trotz dezentraler Architektur, öffentliche Grundfinanzierung als Lösung

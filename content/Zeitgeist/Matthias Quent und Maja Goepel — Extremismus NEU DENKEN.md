@@ -236,3 +236,6 @@ Dieselbe Gastgeberin, entgegengesetzte Herkunft, dieselbe Schlussfolgerung. Quen
 
 ### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 Quents Baseballschlägerjahre von der anderen Seite: Eichi jagte mit seiner Clique in Neubrandenburg Punks, in denselben Jahren, in denen Quent wegen seiner Frisur verprügelt wurde. Eine Ideologie, sagt er, habe er dafür nie gebraucht.
+
+### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
+Dennis Chiponda floh in den Neunzigern in der Lausitz vor Neonazis, so wie Quent in Thüringen verprügelt wurde. Mit ihm am Tisch: ein Ex-Neonazi und ein Ausstiegsbegleiter, und die Frage, was Menschen hinein- und wieder hinausführt.
