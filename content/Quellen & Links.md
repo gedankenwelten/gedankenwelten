@@ -1541,6 +1541,16 @@ tags:
 | **Notiz** | [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Marcant_Ausstieg_Transkript.txt` |
 
+## Benneckenstein und Wichmann — Zwischen Hass und Ausstieg (taz-Podcast Mauerecho)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Rechtsextremismus in Ost und West: Zwischen Hass und Ausstieg](https://www.youtube.com/watch?v=j661_7hhQYI) |
+| **Begleittext** | [taz.de](https://taz.de/Rechtsextremismus-in-Ost-und-West/!6115839/) |
+| **Notiz** | [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]] |
+| **Vitas** | [[DenkerVita/Felix Benneckenstein]] · [[DenkerVita/Fabian Wichmann]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Mauerecho_Ausstieg_Transkript.txt` |
+
 ## Marcant und Eichi — Ausstieg aus der Neonazi-Szene (YouTube)
 
 | | |

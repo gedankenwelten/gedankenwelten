@@ -389,6 +389,9 @@ Friedman, Kazim und Quent streiten dort über die Wähler, die Brandmauer und da
 ### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 Quents funktionale Äquivalenz von beiden Seiten erlebt: In den Neunzigern bot eine Neonazi-Clique Eichi die Kameradschaft, heute bietet er sie selbst an, als Trainer in einem Jugendclub in Torgelow. Er ist einer von denen, die die Böhse-Onkelz-CD tatsächlich bekommen haben.
 
+### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
+Quent sagt, bei ihm sei es Zufall gewesen, welche CD er bekam. Der Ex-Neonazi Felix Benneckenstein hält dagegen: „Ich habe mir das gezielt rausgepickt.“
+
 ---
 
 ## Weiterdenken

@@ -246,3 +246,6 @@ Was dieses Panel als Lage schildert, taucht bei Thiele als einzelne Anekdote auf
 ### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
 
 Wie dünn die Hilfsstruktur in Sachsen-Anhalt ist, zeigt die Drogenhilfe Halle: Dort kämpft eine Anlaufstelle jedes Jahr ums Geld und hofft, sich trotz der politischen Entwicklungen zu halten.
+
+### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
+Gegenstimme zu Lina Mitschke: Der Lausitzer Dennis Chiponda nennt „rechter Osten, liberaler Westen“ eine German Legend; der bayerische Ex-Neonazi Benneckenstein spricht von derselben Ideologie, trat im Osten aber „mit breiter Brust“ auf.

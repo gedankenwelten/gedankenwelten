@@ -306,6 +306,9 @@ Eichi spricht drei Tage vor der Wahl in Mecklenburg-Vorpommern und fürchtet ein
 
 Der Streamer sah den Film über den FC Pio und machte mit einer Spendenaktion aus Eichis Ehrenamt eine bezahlte Stelle.
 
+### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
+Das Gegenstück zum Bierkasten: Benneckenstein war mit sechzehn nach einem Straßenfest fast draußen und radikalisierte sich weiter, weil ein Kader den Abend schneller deutete als seine Freunde. Wie Eichi besteht er darauf, gewählt zu haben.
+
 ---
 
 ## Weiterdenken

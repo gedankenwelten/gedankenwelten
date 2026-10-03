@@ -556,6 +556,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Thomas „Eichi" Eichstädt
 **Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Eichstaedt]]
 
+## Felix Benneckenstein
+**Status:** ✓ Vollanalyse → [[DenkerVita/Felix Benneckenstein]]
+
+## Fabian Wichmann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Fabian Wichmann]]
+
 ## Marcel Fratzscher
 **Status:** ✓ Vollanalyse → [[DenkerVita/Marcel Fratzscher]]
 
