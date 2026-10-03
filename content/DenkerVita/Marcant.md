@@ -135,11 +135,13 @@ Ein Community-Konzept (Details begrenzt verfügbar), das vermutlich auf Vernetzu
 
 ## Verbindungen zu anderen Denkern
 
+- [[DenkerVita/Thomas Eichstaedt|Thomas „Eichi" Eichstädt]] — Gast im Podcast #23; der Aussteiger, an dem Marcants Methode von der anderen Seite sichtbar wird: Begegnung statt Belehrung.
 - [[DenkerVita/Ruben Mawick|Ruben Mawick]] — zwei Junge, die hingehen, wo andere wegsehen; beide lagerlos und von beiden Seiten angefeindet. Marcant führte das zentrale Mawick-Langgespräch (Podcast #11).
 
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] — Felix: Wie ein virales Interview einen 17-Jährigen aus der Neonazi-Szene brachte (30.12.2025)
+- [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] — Eichi: Neonazi der Neunziger, heute Trainer des FC Pio für Geflüchtete in Torgelow (03.10.2026)
 
 ---
 

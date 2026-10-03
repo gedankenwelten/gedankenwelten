@@ -553,6 +553,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Marcant
 **Status:** ✓ Vollanalyse → [[DenkerVita/Marcant]]
 
+## Thomas „Eichi" Eichstädt
+**Status:** ✓ Vollanalyse → [[DenkerVita/Thomas Eichstaedt]]
+
 ## Marcel Fratzscher
 **Status:** ✓ Vollanalyse → [[DenkerVita/Marcel Fratzscher]]
 

@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **03.10.** — [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene|Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
+>
+> Ein Kasten Bier landet auf der Straße, und ein Neonazi der Neunziger trainiert heute Geflüchtete: wie man aus der Szene herausfindet, ohne je zu wissen, warum man hineinging — und warum die Geschichte beim Erzählen leichter wird.
+
 > **30.09.** — [[Zeitgeist/Tom Krebs — Wege aus der Krise und neoliberale Maerchen|Tom Krebs — Wege aus der Krise, Vergesellschaftung und neoliberale Märchen]]
 >
 > Ein Makroökonom aus dem Innern des Fachs nennt dessen Leitbild ein Märchen, rechnet Berlin die Vergesellschaftung vor und liest den Aufstieg der AfD an Energiepreisen ab. Am Tisch sitzt keine Gegenstimme.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Zwei Supermächte lächeln in Washington und rüsten dahinter für einen Konflikt, den keine überleben würde. Seltene Erden gegen Chips, Beiboot Europa.
 
-> **27.09.** — [[Zeitgeist/Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]]
->
-> Siebzehn Tage vor dem Wahlsieg sagt Elif Eralp bei Tilo Jung, was sie will, und verweigert die eine Zahl, an der man sie messen könnte. Ein Protokoll des Versprechens, bevor es Macht wird.
-
-> → *5 weitere in* [[Zeitgeist]]
+> → *6 weitere in* [[Zeitgeist]]
 
 ### Panorama
 

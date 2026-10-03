@@ -374,6 +374,9 @@ Blom beendet das Gespräch mit Morin, der im Mai 2026 gestorben ist. Die Verwand
 
 ### → [[DenkerVita/Philipp Blom|Philipp Blom — DenkerVita]]
 
+### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
+Ein Fall aus dem ländlichen Osten: Eichi, früher Neonazi, wurde durch seine Mannschaft aus Geflüchteten verändert, und dieselbe Mannschaft hört bei einem Dorfturnier „Geh mal zurück in dein Land“. Der Kontakt wirkte bei dem, der mitspielte, nicht bei denen, die am Rand standen.
+
 ---
 
 ## Weiterdenken

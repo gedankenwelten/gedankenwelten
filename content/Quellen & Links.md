@@ -1541,6 +1541,18 @@ tags:
 | **Notiz** | [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Marcant_Ausstieg_Transkript.txt` |
 
+## Marcant und Eichi — Ausstieg aus der Neonazi-Szene (YouTube)
+
+| | |
+|---|---|
+| **Video** | [So schafft man den AUSSTIEG aus der Neo-Nazi-Szene… — MARCANT PODCAST #23](https://www.youtube.com/watch?v=SbodjU9bFo4) |
+| **Kanal** | [vollmarcant](https://www.youtube.com/@vollmarcant) |
+| **Gegenquelle** | [stern TV — Wie ein ehemaliger Neonazi sein Leben komplett verändert hat](https://www.youtube.com/watch?v=AnOJg8uHMBY) |
+| **Film** | [Im Osten was Neues (ZDF, Loraine Blumenthal 2025)](https://www.zdf.de/dokus/im-osten-was-neues-movie-100) |
+| **Notiz** | [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] |
+| **Vita** | [[DenkerVita/Thomas Eichstaedt]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Marcant_Eichi_Ausstieg_Transkript.txt` |
+
 ## Fichtner — Zehn Batteriemythen (Geladen Podcast)
 
 | | |

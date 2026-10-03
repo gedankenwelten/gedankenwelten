@@ -76,3 +76,4 @@ Dara ist auf mehreren Plattformen aktiv (YouTube, Instagram, TikTok, Discord) un
 ## Gedankenwelten-Notes
 
 - [[Der Dara — Merz 72-Stunden-Arbeitswoche]] — Merz beim DGB-Kongress, 72-Stunden-Arbeitswoche, Gewerkschaftswiderstand
+- [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] — Daras Spendenaktion (März 2026, über 86.000 €) machte aus Eichis Ehrenamt eine AWO-Stelle

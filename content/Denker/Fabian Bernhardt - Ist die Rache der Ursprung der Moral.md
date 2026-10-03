@@ -233,6 +233,9 @@ Der Praxis-Test der These: zwei Menschen an genau der Wunde, aus der Bernhardt d
 
 Der reaktive Affekt empirisch: Crockett zeigt, dass moralische Empörung Normen durchsetzt und schon bei Vierjährigen zugleich dem eigenen Ruf dient, und dass sie online ihre Signaltreue verliert, sobald sie nichts mehr kostet.
 
+### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
+Eine Szene, an der sich Bernhardts drei Begriffe trennen lassen: Ein früherer Neonazi erzählt seinen geflüchteten Spielern, wer er war, und lässt sie über die zweite Chance entscheiden. Die Väter umarmen ihn, eine Gabe von Menschen, die nicht seine Opfer waren.
+
 ---
 
 ## Weiterdenken

@@ -398,6 +398,7 @@ Dürr zeigt die physikalische Konsequenz von Bonhoeffers Diagnose: *„Wir könn
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Bonhoeffers These der Dummheit als soziologisches Phänomen findet sich in Stefans Hegemon-Analyse wieder: Der Debile reagiert aus dem Stegreif
 - [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]] — Henze zeigt die Kehrseite: Wenn Bonhoeffer zur inhaltsleeren Ikone wird, ist er für jeden verfügbar — auch für die Neue Rechte. Dummheit als soziale Entmächtigung erklärt, warum diese Vereinnahmung wirkt; Entkontextualisierung erklärt, warum sie möglich wurde.
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Zupančičs Verleugnen im NZ-Salon resoniert mit Bonhoeffers These der gewählten Unwissenheit
+- [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] — Bonhoeffers „Befreiung, nicht Belehrung“ als Lebenslauf: Argumente erreichten den Neonazi Eichi nie, und die Begegnung mit Geflüchteten konnte erst wirken, als sich die Gruppe gelöst hatte, durch das Ultimatum seiner Freundin.
 
 ---
 
