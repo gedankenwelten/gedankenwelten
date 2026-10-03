@@ -258,6 +258,9 @@ Brähler liefert die psychotherapeutische Form von Rüthers „motivieren statt 
 
 Brählers „reife Liebe" ist die psychotherapeutische Beschreibung dessen, was die Neurobiologie als Übergang vom Dopamin-Trieb der Verliebtheit zum Oxytocin-Vasopressin-Bindungssystem fasst — die Liebe, die bleibt, wenn der Rausch endet.
 
+### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
+Ein Ex-Neonazi hängt in der Zelle ein Jahr lang den Spiegel ab, weil er sich nicht erträgt; sein Psychologe fragt, wie man leben soll, wenn man sich jeden Morgen hasst. Brählers Scham, bei einem Täter.
+
 ---
 
 ## Weiterdenken

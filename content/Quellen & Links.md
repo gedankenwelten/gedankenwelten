@@ -1541,6 +1541,16 @@ tags:
 | **Notiz** | [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Marcant_Ausstieg_Transkript.txt` |
 
+## Philip Schlaffer — Kann man sich ändern? (Spielfeld Gesellschaft, DENKRAUM Hannover)
+
+| | |
+|---|---|
+| **Video** | [Kann man sich ändern? Mit Ex-Nazi Philip Schlaffer](https://www.youtube.com/watch?v=Ug7ZgiFk3q0) |
+| **Veranstalter** | [Spielfeld Gesellschaft](https://spielfeld-gesellschaft.de/) (Niedersächsische Lotto-Sport-Stiftung) |
+| **Notiz** | [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]] |
+| **Vita** | [[DenkerVita/Philip Schlaffer]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Schlaffer_Aendern_Transkript.txt` |
+
 ## Benneckenstein und Wichmann — Zwischen Hass und Ausstieg (taz-Podcast Mauerecho)
 
 | | |

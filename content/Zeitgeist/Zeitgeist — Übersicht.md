@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*318 Notes — automatisch generiert · nach Thema sortiert*
+*319 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -159,6 +159,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Nico Semsrott — Bruessel sehen und sterben|Nico Semsrott — Brüssel sehen und sterben]]
 - [[Zeitgeist/Paul Lance — Amerikaner fragt Deutsche ueber Trump|Paul Lance — Amerikaner fragt Deutsche über Trump]]
 - [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler|Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
+- [[Zeitgeist/Philip Schlaffer — Kann man sich aendern|Philip Schlaffer — Kann man sich ändern?]] — Zwanzig Jahre Täter, ein abgehängter Spiegel in der Zelle, ein Sportverein, der heimlich abstimmt — und eine Zuhörerin, die sagt: Vergeben dürfen nur die Opfer.
 - [[Zeitgeist/Philipp Blom — Die strauchelnde Welt|Philipp Blom — Die strauchelnde Welt]] — Wie aus dem Jubel der Jahrtausendwende in einer Generation die Zeit der Monster wurde: Philipp Blom über Entwürdigung, gesichtslose Gegner, den falschen Liberalismus und die Unterschrift, mit der Diktaturen beginnen.
 - [[Zeitgeist/phoenix — Orbán abgewählt|phoenix — Orbán abgewählt]]
 - [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland|phoenixRunde — Arm und Reich in Deutschland]]

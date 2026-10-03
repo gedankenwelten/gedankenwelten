@@ -400,6 +400,7 @@ Dürr zeigt die physikalische Konsequenz von Bonhoeffers Diagnose: *„Wir könn
 - [[Die Neuen Zwanziger — Salon Lektueren 06.03.2026]] — Zupančičs Verleugnen im NZ-Salon resoniert mit Bonhoeffers These der gewählten Unwissenheit
 - [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] — Bonhoeffers „Befreiung, nicht Belehrung“ als Lebenslauf: Argumente erreichten den Neonazi Eichi nie, und die Begegnung mit Geflüchteten konnte erst wirken, als sich die Gruppe gelöst hatte, durch das Ultimatum seiner Freundin.
 - [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]] — Der Ausstiegsbegleiter Fabian Wichmann sagt, Argumente perlen ab wie an Teflon: Bonhoeffers Gespräch mit den Schlagworten statt mit dem Menschen; Befreiung statt Belehrung ist heute die Arbeit der Ausstiegshilfe.
+- [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]] — Befreiung statt Belehrung in einer Biografie: Erst die Zelle trennt einen Kameradschaftsführer von seiner Gruppe; seine Selbstvergebung muss sich an der „billigen Gnade, die wir mit uns selbst haben“, messen lassen — und die Wende kam von einer Gefängnispastorin.
 
 ---
 

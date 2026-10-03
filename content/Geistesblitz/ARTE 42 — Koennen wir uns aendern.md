@@ -201,6 +201,9 @@ Scobel bremst den naiven Veränderungs-Optimismus: Wer am eigenen Geist arbeitet
 ### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 Das Reifungsprinzip als Straßenszene: Eine schwangere Freundin stellt einen jungen Neonazi vor die Wahl, und er wirft den Bierkasten weg. Nach der einen Ursache, warum er überhaupt hineinging, sucht er dreißig Jahre später nicht mehr.
 
+### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
+Dieselbe Titelfrage als Täterbiografie: Deradikalisierung dauert so lange wie die Radikalisierung, und es tragen Beziehungen und ein Sportverein, kein Vorsatz.
+
 ---
 
 ## Weiterdenken

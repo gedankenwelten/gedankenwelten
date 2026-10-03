@@ -309,6 +309,9 @@ Der Streamer sah den Film über den FC Pio und machte mit einer Spendenaktion au
 ### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
 Das Gegenstück zum Bierkasten: Benneckenstein war mit sechzehn nach einem Straßenfest fast draußen und radikalisierte sich weiter, weil ein Kader den Abend schneller deutete als seine Freunde. Wie Eichi besteht er darauf, gewählt zu haben.
 
+### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
+Eichis Mannschaft entscheidet offen über die zweite Chance, über Schlaffer berät ein Sportverein heimlich. Beide lassen Menschen über sich urteilen, die nicht ihre Opfer waren — und Schlaffer bekommt dafür im Saal eine Zuhörerin, die genau das bestreitet.
+
 ---
 
 ## Weiterdenken
