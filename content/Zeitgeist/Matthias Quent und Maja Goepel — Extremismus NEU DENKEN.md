@@ -233,3 +233,6 @@ Der Gegentest zu dieser Note. Tekkal setzt Islamismus und Rechtsextremismus als 
 
 Dieselbe Gastgeberin, entgegengesetzte Herkunft, dieselbe Schlussfolgerung. Quent kommt über die Baseballschlägerjahre zur wehrhaften Demokratie, der Katholik Püttmann über Allensbach und die Adenauer-Stiftung — beide behandeln „Faschismus" als analytischen Begriff und suchen das Problem bei der Trägheit der Gemäßigten.
 - [[StreitClub — Extremismus und der Schutz der Demokratie]] — Quent vier Monate später, am Abend nach der Wahl in Sachsen-Anhalt, und diesmal mit Widerspruch auf der Bühne: Aus der Löwenstein-These wird dort eine Handlungsforderung (Klärung der Verbotswürdigkeit, Plattformregulierung), und die Ohnmachtsdiagnose bekommt eine biografische Spitze — mit einer anderen CD wäre er vielleicht selbst Nazi geworden
+
+### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
+Quents Baseballschlägerjahre von der anderen Seite: Eichi jagte mit seiner Clique in Neubrandenburg Punks, in denselben Jahren, in denen Quent wegen seiner Frisur verprügelt wurde. Eine Ideologie, sagt er, habe er dafür nie gebraucht.

@@ -368,6 +368,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Marcant|Marcant]]** — YouTuber (vollmarcant), 23 Jahre; Deradikalisierungsaktivismus durch Straßendialog; 500+ Menschen aus rechtsextremer Szene gebracht; Theodor-Heuss-Medaille 2026; Serie "Rechtsextrem oder verwirrtes Kind?"; Rechtsextremismusbekämpfung durch Respekt und Begegnung auf Augenhöhe
 
+**[[DenkerVita/Thomas Eichstaedt|Thomas „Eichi" Eichstädt]]** — Aussteiger aus der Neonazi-Szene der 90er (Neubrandenburg); heute Trainer des FC Pio für junge Geflüchtete im AWO-Jugendclub Torgelow; Doku *Im Osten was Neues* (ZDF 2025)
+
 **[[DenkerVita/Edgar Morin|Edgar Morin]]** — Französischer Philosoph und Soziologe (1921–2026); *pensée complexe* / komplexes Denken gegen die Zersplitterung des Wissens; sechsbändiges Hauptwerk *La Méthode*, Résistance-Kämpfer, „Denker des Jahrhunderts"
 
 **[[DenkerVita/Marco Waehner|Marco Wähner]]** — Soziologe (Dr.), Postdoc am Center for Advanced Internet Studies (CAIS), Bochum; empirische Forschung zu dezentralen Netzwerken (Fediverse, Mastodon, Tor); dezentrale Netzwerke als Kollektivgut-Problem, originäre Instabilität, Zentralisierung trotz dezentraler Architektur, öffentliche Grundfinanzierung als Lösung

@@ -319,6 +319,9 @@ Die beiden wachsenden Panoramen, in die die Nachbesprechung dieser Note führt: 
 
 Hensels Abschlusstipp macht die Spur konkret. Im Magdeburger Patt braucht Siegmund die aktiven Stimmen des BSW, und Wagenknecht könnte die „heimliche Ministerpräsidentin“ werden; Jessen setzt dagegen, dass sie auch diese Parteiorganisation schreddert. Ob die AfD in Sachsen-Anhalt zum ersten Mal an eine Landesregierung kommt, entscheidet, ob die Spur ihre oberste Macht-Ebene erreicht. Die Wahlnachlese hält den Zustand davor fest.
 
+### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
+Drei Tage vor dieser Wahl fürchtet in Torgelow ein früherer Neonazi ein hohes AfD-Ergebnis, weil seine Stelle im Jugendclub an den Geflüchteten hängt, die dort ein- und ausgehen. In den Neunzigern war er in Neubrandenburg in der Szene, in derselben Gegend, an die sich Tilo Jung hier erinnert.
+
 ---
 
 ## Weiterdenken

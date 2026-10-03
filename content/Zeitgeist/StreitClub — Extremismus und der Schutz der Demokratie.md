@@ -386,6 +386,9 @@ Eine gute Woche später spricht Münkler über dieselbe Wahl und erklärt den Os
 
 Friedman, Kazim und Quent streiten dort über die Wähler, die Brandmauer und das Verbot, verteilt auf drei Fragen.
 
+### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
+Quents funktionale Äquivalenz von beiden Seiten erlebt: In den Neunzigern bot eine Neonazi-Clique Eichi die Kameradschaft, heute bietet er sie selbst an, als Trainer in einem Jugendclub in Torgelow. Er ist einer von denen, die die Böhse-Onkelz-CD tatsächlich bekommen haben.
+
 ---
 
 ## Weiterdenken

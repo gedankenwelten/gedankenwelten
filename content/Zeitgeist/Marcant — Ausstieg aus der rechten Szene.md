@@ -237,6 +237,9 @@ Die Theorie zu Felix' Geschichte, und sie kommt aus der sozialen Arbeit: funktio
 ### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein]]
 Marcant ist das lebendige Beispiel: keine Angriffsfläche, kein Dogma, keine ideologische Flanke. Was auf den ersten Blick wie Schwäche aussieht, ist die Stärke einer elastischen Brandmauer — Informationen werden nach Dogma-Freiheit selektiert, nicht nach politischer Zugehörigkeit.
 
+### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
+Dreißig Jahre früher und ohne Handy rutschte Eichi in Neubrandenburg über Bomberjacke und „die Jungs nicht enttäuschen“ in die Szene und kam durch das Ultimatum seiner schwangeren Freundin wieder heraus. Was Felix noch vor sich hat, zeigt er als Fußballtrainer für Geflüchtete in Torgelow, samt der Frage nach dem Warum, auf die er bis heute „keine Ahnung“ sagt.
+
 ---
 
 ## Weiterdenken

@@ -198,6 +198,9 @@ Das Plädoyer am Ende der Doku — die Gesellschaft *braucht* Vielfalt, jede Eig
 
 Scobel bremst den naiven Veränderungs-Optimismus: Wer am eigenen Geist arbeitet, kann sich auch verletzen. Die Doku sagt „viel hilft viel" und feiert die App-Intervention — Scobel erinnert daran, dass die gezielte Transformation des Geistes kein harmloses Selbstoptimierungs-Tool ist. Ein notwendiges Korrektiv zur technokratischen Lesart von Persönlichkeitsveränderung.
 
+### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
+Das Reifungsprinzip als Straßenszene: Eine schwangere Freundin stellt einen jungen Neonazi vor die Wahl, und er wirft den Bierkasten weg. Nach der einen Ursache, warum er überhaupt hineinging, sucht er dreißig Jahre später nicht mehr.
+
 ---
 
 ## Weiterdenken
