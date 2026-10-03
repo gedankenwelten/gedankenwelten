@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*316 Notes — automatisch generiert · nach Thema sortiert*
+*317 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -142,6 +142,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende]]
 - [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]]
 - [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]] — Einer verlor die Eltern am 7. Oktober, der andere den Bruder in israelischer Haft — und beide sagen: Die Naiven seid ihr, die an den Krieg glauben. Frieden ist eine Handlung.
+- [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene|Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] — Ein Kasten Bier landet auf der Straße, und ein Neonazi der Neunziger trainiert heute Geflüchtete: wie man aus der Szene herausfindet, ohne je zu wissen, warum man hineinging — und warum die Geschichte beim Erzählen leichter wird.
 - [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene|Marcant — Ausstieg aus der rechten Szene]] — Mit siebzehn auf einem Nazikonzert, fünf Monate später draußen: Radikalisierung beginnt oft als Nachahmung, und der Rückweg bleibt offen, solange jemand die Tür nicht zuschlägt.
 - [[Zeitgeist/Marco Buelow — Korrumpiert|Marco Bülow — Korrumpiert]] — Korruption kommt selten mit dem Geldkoffer. Neunzehn Jahre Bundestag, erzählt von einem, der das Spiel kennengelernt, fast mitgespielt und dann benannt hat, kurz bevor er starb.
 - [[Zeitgeist/Martin Andree - Monopole zerstoeren unsere Demokratie|Martin Andree — Monopole zerstören unsere Demokratie]] — Demokratie braucht Öffentlichkeit — doch die gehört inzwischen zwei Konzernen. Martin Andree über Machtverklumpung, erkaufte Rechtsprivilegien und Regulierung als Befreiung.

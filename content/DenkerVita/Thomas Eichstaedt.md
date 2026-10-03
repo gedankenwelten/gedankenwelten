@@ -54,7 +54,7 @@ Weil das Amt „richtige Arbeit" verlangte, startete der Streamer DerDara im Mä
 
 ## Kernthesen
 
-1. **Zugehörigkeit vor Ideologie.** Er ging nicht wegen einer Weltanschauung in die Szene, sondern um dazuzugehören; Alkohol machte mutig, die Gruppe machte Druck.
+1. **Zugehörigkeit vor Ideologie.** Er ging in die Szene, um dazuzugehören, eine Weltanschauung brauchte er dafür nicht; Alkohol machte mutig, die Gruppe machte Druck.
 2. **Hinter die Kulissen schauen.** *„Ich höre nicht auf Medien, ich höre nicht auf irgendwelche Leute — ich lerne diese Menschen kennen."* Begegnung, nicht Belehrung, hat sein Bild verändert.
 3. **Offenheit über die eigene Vergangenheit.** Wer eine zweite Chance will, legt die Karten auf den Tisch und lässt die anderen entscheiden.
 4. **Nicht alle erreicht man.** *„Die Menschen müssen halt wollen."* Reden hilft nur, wo jemand zuhören kann.
