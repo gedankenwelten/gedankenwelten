@@ -20,6 +20,16 @@ description: "Zehn Jahre nach dem Brexit zeigen alle Zahlen zurück nach Europa.
 
 # Zurück in die EU — und wer kehrt zurück: das Vereinigte Königreich oder seine Teile?
 
+![[assets/Zurueck-in-die-EU-wer-kehrt-zurueck-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Eric Ravilious**: Aquarell mit trockenem Pinsel, gepunktete Kreidefelsen, blasses Winterlicht, Grau-Grün und Schieferblau. Drei Kreideinseln, jede mit eigener Leine. Die Leinen laufen in einem einzigen Knoten zusammen, von dort führt ein Seil über ein leeres Ruderboot zu einem Steg an der flachen Festlandküste mit Windmühle und Kirchturm. Ein Strang am Knoten franst aus, und eine vierte Insel liegt schon für sich vor dem Festland. Das ist das Bild der These, „zwei Enden desselben Seils“: Ob das Ganze hinübergezogen wird oder sich die Stränge einzeln lösen, bleibt offen. Ravilious, weil er die englische Küste nüchtern und geduldig gemalt hat, ohne Pathos. Das passt zu einer Spur, die kein Datum hat und wartet.
+
+*Prompt:* Watercolour in the style of Eric Ravilious: dry-brush strokes, stippled and hatched textures on white paper, pale chalky winter light, muted palette of grey-green, slate blue, chalk white and a touch of ochre. A wide calm grey sea. On the left edge, four separate small rocky islands with white chalk cliffs, arranged in a loose group, each crowned by one iron mooring post. From every one of the four posts a thin rope runs out over the water, four ropes in total, all clearly visible; they converge and are knotted together in a single big knot just above the water, and from that knot one thick taut rope continues to the right. Halfway across, the thick rope rests over an empty wooden rowing boat. On the far right, a flat low sandy continental coast with dunes, a windmill and a distant church spire, and a wooden pier where the rope is tied. One of the four thin ropes near the islands is visibly frayed. No people, no text, no flags. Wide panoramic banner, quiet, patient, still.
+
+</details>
+
 > [!abstract] Worum es geht
 > Zehn Jahre nach dem Brexit zeigen sämtliche Zahlen in dieselbe Richtung. 54 bis 57 Prozent der
 > Briten halten den Austritt inzwischen für falsch, rund die Hälfte würde für einen Wiedereintritt

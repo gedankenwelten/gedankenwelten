@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Kasten Bier landet auf der Straße, und ein Neonazi der Neunziger trainiert heute Geflüchtete: wie man aus der Szene herausfindet, ohne je zu wissen, warum man hineinging — und warum die Geschichte beim Erzählen leichter wird.
 
+> **03.10.** — [[Zeitgeist/Philip Schlaffer — Kann man sich aendern|Philip Schlaffer — Kann man sich ändern?]]
+>
+> Zwanzig Jahre Täter, ein abgehängter Spiegel in der Zelle, ein Sportverein, der heimlich abstimmt — und eine Zuhörerin, die sagt: Vergeben dürfen nur die Opfer.
+
 > **03.10.** — [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg|Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
 >
 > Einer floh vor den Nazis, einer wich ihnen aus, einer war einer: ein Gespräch über den Weg hinein, den Weg heraus und darüber, warum Argumente dabei abperlen wie an Teflon.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Wie aus dem Jubel der Jahrtausendwende in einer Generation die Zeit der Monster wurde: Philipp Blom über Entwürdigung, gesichtslose Gegner, den falschen Liberalismus und die Unterschrift, mit der Diktaturen beginnen.
 
-> **30.09.** — [[Zeitgeist/Akkudoktor — SMR und drei Versprechen|Akkudoktor — Mini-Atomkraftwerke und drei Versprechen]]
->
-> Ein Ingenieur legt drei Versprechen der Mini-Atomkraftwerke auf den Taschenrechner. Für die Dunkelflaute taugen sie nicht, beim Rest ist die ehrlichste Antwort: Das weiß heute niemand.
-
-> → *7 weitere in* [[Zeitgeist]]
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Panorama
 
