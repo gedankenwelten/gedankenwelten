@@ -240,6 +240,10 @@ Marcant ist das lebendige Beispiel: keine Angriffsfläche, kein Dogma, keine ide
 ### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 Dreißig Jahre früher und ohne Handy rutschte Eichi in Neubrandenburg über Bomberjacke und „die Jungs nicht enttäuschen“ in die Szene und kam durch das Ultimatum seiner schwangeren Freundin wieder heraus. Was Felix noch vor sich hat, zeigt er als Fußballtrainer für Geflüchtete in Torgelow, samt der Frage nach dem Warum, auf die er bis heute „keine Ahnung“ sagt.
 
+### → [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Panorama: Wie kommt man aus der rechten Szene wieder heraus?]]
+
+Felix ist eine der tragenden Stimmen im Panorama über den Ausstieg: der TikTok-Mitläufer neben dem Neonazi der Neunziger, die Halbe-Stunde-Verspätung neben dem Bierkasten.
+
 ---
 
 ## Weiterdenken

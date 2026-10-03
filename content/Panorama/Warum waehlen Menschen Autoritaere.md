@@ -238,6 +238,10 @@ Das Geschwister-Panorama über die Bauweise der Demokratie. Wo Menschen sich nic
 
 Die Kehrseite der Sehnsucht nach dem starken Mann: Was kann eine Demokratie tun, damit sie handelt, bevor jemand verspricht, es an ihrer Stelle zu tun?
 
+### → [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Panorama: Wie kommt man aus der rechten Szene wieder heraus?]]
+
+Das Schwester-Panorama auf der Ebene der Szene: Wo dieses fragt, was Wählende zurückholt, fragt jenes, wie Einzelne aus der rechten Szene herausfinden — über Partnerin, Kind, Begegnung und oft zehn Jahre.
+
 ---
 
 ## Weiterdenken

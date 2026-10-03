@@ -38,6 +38,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Wie handelt eine Demokratie? *(wachsend, Ast aus „Wie kann Demokratie funktionieren?“)* | [[Wie handelt eine Demokratie]] | ~30 |
 | Forschung *(wachsend)* | [[Forschung]] | ~45 |
 | Warum wählen Menschen Autoritäre? *(wachsend)* | [[Warum waehlen Menschen Autoritaere]] | ~50 |
+| Wie kommt man aus der rechten Szene wieder heraus? *(wachsend)* | [[Wie kommt man aus der rechten Szene wieder heraus]] | ~40 |
 | Fortschritt | [[Fortschritt]] | 29 |
 | Neoliberalismus — Was zählt | [[Neoliberalismus — Was zaehlt]] | 13 |
 | Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |
