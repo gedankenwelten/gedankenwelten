@@ -257,6 +257,9 @@ Bonhoeffer schreibt, im Gespräch habe man es mit „über ihn mächtig geworden
 
 Yus Spirale, in der jede Seite die eigene Entmenschlichung für Notwehr hält, ist Benneckensteins „die Gewalt geht von den anderen aus“. Chipondas Schulfeind, der nach einer Nacht im geteilten Zimmer sein Nazizeug verbrennt, ist Rehumanisierung im Einzelfall.
 
+### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
+Wichmanns Teflon aus dem Mund eines Gefestigten: Ein Flyer hätte ihn nie erreicht, erst ein „Riss“ macht das Gespräch möglich. Wie bei Benneckenstein trennte die Haft ihn von der Gruppe, ohne den Ausstieg auszulösen.
+
 ---
 
 ## Weiterdenken

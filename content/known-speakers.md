@@ -562,6 +562,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Fabian Wichmann
 **Status:** ✓ Vollanalyse → [[DenkerVita/Fabian Wichmann]]
 
+## Philip Schlaffer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Philip Schlaffer]]
+
 ## Marcel Fratzscher
 **Status:** ✓ Vollanalyse → [[DenkerVita/Marcel Fratzscher]]
 

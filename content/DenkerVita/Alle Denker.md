@@ -374,6 +374,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Fabian Wichmann|Fabian Wichmann]]** — Erziehungswissenschaftler aus Brandenburg; Ausstiegsbegleiter bei EXIT-Deutschland (ab 2009), Kampagnen „Rechts gegen Rechts“, #HassHilft; seit 2025 bei Grüner Vogel (IS-Rückkehrer)
 
+**[[DenkerVita/Philip Schlaffer|Philip Schlaffer]]** — Ex-Neonazi (Kameradschaft „Werwolf Wismar“) und Rockerpräsident („Schwarze Schar MC“), Haft 2014–2016; heute Deradikalisierungstrainer, Extremislos e.V.; Autobiografie *Hass. Macht. Gewalt.*
+
 **[[DenkerVita/Edgar Morin|Edgar Morin]]** — Französischer Philosoph und Soziologe (1921–2026); *pensée complexe* / komplexes Denken gegen die Zersplitterung des Wissens; sechsbändiges Hauptwerk *La Méthode*, Résistance-Kämpfer, „Denker des Jahrhunderts"
 
 **[[DenkerVita/Marco Waehner|Marco Wähner]]** — Soziologe (Dr.), Postdoc am Center for Advanced Internet Studies (CAIS), Bochum; empirische Forschung zu dezentralen Netzwerken (Fediverse, Mastodon, Tor); dezentrale Netzwerke als Kollektivgut-Problem, originäre Instabilität, Zentralisierung trotz dezentraler Architektur, öffentliche Grundfinanzierung als Lösung

@@ -236,6 +236,9 @@ Der reaktive Affekt empirisch: Crockett zeigt, dass moralische Empörung Normen 
 ### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 Eine Szene, an der sich Bernhardts drei Begriffe trennen lassen: Ein früherer Neonazi erzählt seinen geflüchteten Spielern, wer er war, und lässt sie über die zweite Chance entscheiden. Die Väter umarmen ihn, eine Gabe von Menschen, die nicht seine Opfer waren.
 
+### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
+Ein Ex-Neonazi sagt, er habe sich selbst vergeben, und eine Zuhörerin hält ihm Bernhardts Gabe-Begriff entgegen: Vergeben kann nur das Opfer. Selbstvergebung ist die Kategorie, die in der Dreiteilung fehlt.
+
 ---
 
 ## Weiterdenken

@@ -247,6 +247,9 @@ Felix ist eine der tragenden Stimmen im Panorama über den Ausstieg: der TikTok-
 ### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
 Ein anderer Felix, zwanzig Jahre früher in der Szene, begleitet heute selbst Ausstiege und erzählt, dass sich die TikTok-Jugendlichen meist erst nach einer Hausdurchsuchung melden. Der Ausstiegsbegleiter Fabian Wichmann sagt, Argumente perlen ab wie an Teflon — und setzt wie Marcant auf die offene Tür.
 
+### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
+Ein Ex-Kader zieht die Altersgrenze von Marcants Methode: Bei Jugendlichen wie Felix dranbleiben, bei gefestigten Neonazis hält er das Gespräch für Zeitverschwendung. Seine „Stoppkarte statt Ausgrenzung“ ist Max' offene Tür.
+
 ---
 
 ## Weiterdenken
