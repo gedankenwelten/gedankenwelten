@@ -250,6 +250,10 @@ Ein anderer Felix, zwanzig Jahre früher in der Szene, begleitet heute selbst Au
 ### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
 Ein Ex-Kader zieht die Altersgrenze von Marcants Methode: Bei Jugendlichen wie Felix dranbleiben, bei gefestigten Neonazis hält er das Gespräch für Zeitverschwendung. Seine „Stoppkarte statt Ausgrenzung“ ist Max' offene Tür.
 
+### → [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]]
+
+Was hier „Verfügbarkeitsheuristik“ heißt, misst [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Wie das Bild entsteht|BissenBlaBla]] an Fernsehberichten — und zeigt, dass das „banale“ Gegenmittel, alle Herkünfte zu nennen, bei einer Lokalzeitung tatsächlich gewirkt hat (Keita et al. 2023).
+
 ---
 
 ## Weiterdenken

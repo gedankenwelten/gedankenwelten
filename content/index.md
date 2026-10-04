@@ -32,6 +32,10 @@ Die Gedankenwelten (luc)
 >
 > Vier Berliner Journalisten fragen zwei Wochen nach dem Wahlsieg der Linken, ob man mit einer Partei regieren kann, deren Erfolg an den Leuten hängt, von denen sie sich trennen müsste.
 
+> **04.10.** — [[Zeitgeist/BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]]
+>
+> Die 40 Prozent stimmen, und der Satz darüber täuscht trotzdem. Fünf Behauptungen über Ausländerkriminalität, gegen die Statistik gelesen, aus der sie stammen.
+
 > **04.10.** — [[Zeitgeist/Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
 >
 > Beginnt Großzügigkeit dort, wo die Gerechtigkeit endet, oder ist sie nur ihr freundlicherer Name? Vier Stimmen streiten über die Gabe, den Backlash und einen Kuchen, der nicht mehr wächst.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Kriegsreporter geht in die Labore der Lebensmittelkonzerne und findet keine Verschwörung — nur Menschen, die Glückspunkte berechnen, und Aktionäre, die keinen Bissen weniger dulden.
 
-> **04.10.** — [[Zeitgeist/Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
->
-> Russland war nie isoliert, nur aus Europa betrachtet: Hanna Notte und Sergey Lagodinsky über Dankbarkeit, die Moskau geerbt hat, und einen Westen, der seine eigenen Regeln zerbröseln ließ.
-
-> → *11 weitere in* [[Zeitgeist]]
+> → *12 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -82,15 +82,15 @@ Die Gedankenwelten (luc)
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, und wer bewacht die Handelnden? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
 
+> **04.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
+>
+> Der Abstand in der Statistik ist echt, sein Grund umstritten. Drei offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, und was ihn kleiner macht.
+
 > **04.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
-> **04.10.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
->
-> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
-
-> → *4 weitere in* [[Panorama]]
+> → *5 weitere in* [[Panorama]]
 
 ### Spuren
 

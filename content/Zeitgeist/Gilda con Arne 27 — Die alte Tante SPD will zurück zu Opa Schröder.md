@@ -149,7 +149,7 @@ Als er auf Gegenwind reagierte, antwortete er bei der FAZ nicht mit Distanzierun
 > Der Grundfall (Übernahme Deutsche Wohnen, Nutzung von Steuerprivilegien/Share Deal) ist belegt und bekannt. Die genaue Summe von „1 Milliarde Euro" ist eine Schätzung; das genaue Ausmaß der vermiedenen Steuer variiert je nach Berechnung. Der strukturelle Punkt (Immobilienkonzerne nutzen Share Deals zur Steuervermeidung während öffentliche Haushalte kürzen) ist faktisch korrekt.
 
 > [!warning] Vereinfacht — Merz-Zitat: „beachtlicher Teil der Gewalt durch Zuwanderer"
-> Das Zitat ist authentisch und dokumentiert. Die Behauptung selbst ist jedoch stark vereinfacht — sexualisierte Gewalt ist in allen Bevölkerungsgruppen vorhanden; die Statistiken zeigen kein so eindeutiges Migrationsmuster wie impliziert. Die wissenschaftliche Forschung widerspricht der Kausalbehauptung. Merz' Framing ist rassistisch und sachlich irreführend.
+> Das Zitat ist authentisch und dokumentiert. Empirisch hat es einen Kern: Bei Vergewaltigung und schwerer sexueller Nötigung waren 2025 38,5 % der Tatverdächtigen nichtdeutsch, etwa das Zweieinhalbfache ihres Bevölkerungsanteils ([BKA, PKS 2025](https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260420_PM_PKS_SKiD.html)). Auch nach Kontrolle von Alter, Einkommen und Bildung bleibt in schwedischen Registerdaten eine Überrepräsentation bei Vergewaltigung (Faktor 3,2 → 2,2, [Brå 2021](https://bra.se/download/18.45e4b8e192705389a34c2b/1729515966490/2021_9_Registered_offending_among_persons.pdf); [Khoshnood, Sundquist & Sundquist 2025, doi:10.1177/08862605241311611](https://doi.org/10.1177/08862605241311611), Einzelstudie). Ein „beachtlicher Teil“ ist damit belegbar. Vereinfacht ist der Satz trotzdem: Die Mehrheit der Tatverdächtigen ist deutsch, das Hellfeld ist durch ein höheres Anzeigeverhalten gegenüber fremden Tätern verzerrt ([KFN FB 171](https://kfn.de/wp-content/uploads/2025/10/FB_171.pdf)), „Zuwanderer“ ist in der PKS eine engere Kategorie als „Nichtdeutsche“ — und im Anlassfall war der Beschuldigte ein Deutscher, die Bemerkung lenkt also vom Fall weg. Ob das Framing rassistisch ist, ist ein Urteil, keine Faktenfrage. *(Nachgeschärft am 04.10.2026; die frühere Fassung „Die wissenschaftliche Forschung widerspricht der Kausalbehauptung“ war zu pauschal. → [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Kultur oder Lage|Kultur oder Lage]])*
 
 ---
 
@@ -231,3 +231,8 @@ GCA #27 erklärt, warum Kühnerts Forderungen aus Studio Bonn politisch folgenlo
 ### → [[Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie]]
 
 GCA #35 erweitert die GCA #27-Analyse auf die internationale Ebene: Dasselbe Muster (Sozialstaatskürzungen, fehlende Ideologie, Übernahme rechter Erzählungen) zeigt sich bei Labour UK und der dänischen Sozialdemokratie. Oxford-Professor Tarik Abu-Chadi liefert den akademischen Erklärungsrahmen: Valenzpolitik statt Vision seit Blair/Schröder.
+
+### → [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]]
+
+Die Daten, an denen der Merz-Faktencheck nachgeschärft wurde, stehen bei [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Kultur oder Lage|BissenBlaBla]], samt der Frage, warum die Vergewaltigungszahl (38,5 %) mehr über den Streit sagt als die Oberkategorie.
+

@@ -64,6 +64,8 @@ Weitere Autoren, die künftig hinzukommen, erhalten je einen **eigenen** Tag (K�
 
 > `wohnen` = Wohnungsmarkt, Mieten, Bodenpreise, sozialer Wohnungsbau, Eigentum an Wohnraum — gesetzt mit [[Die Anstalt — Warum Wohnen unbezahlbar wird]].
 
+> `kriminalität` = Kriminalstatistik, Kriminalitätsentwicklung und ihre Deutung (Hell-/Dunkelfeld, Tatverdächtige vs. Verurteilte, Ausländerkriminalität) — gesetzt mit [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet]].
+
 **Medien:**
 `medien` · `propaganda` · `desinformation` · `meinungsfreiheit` · `symbole`
 

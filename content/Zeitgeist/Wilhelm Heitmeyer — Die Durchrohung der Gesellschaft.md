@@ -309,6 +309,10 @@ Haidts Abscheu-vs-Wut-Unterscheidung liefert den psychologischen Mechanismus fü
 
 Das Gegenbild aus den USA: Dort fallen Morde, Raub und Einbruch fast überall, während häusliche Gewalt und Drogendelikte steigen, und das Gefühl sagt trotzdem das Gegenteil. Neben Heitmeyers steigenden Kurven stellt sich dieselbe Frage von der anderen Seite, ob eine Zahl die Welt misst oder das Zählen.
 
+### → [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]]
+
+Die Sensibilisierungsthese, die Heitmeyer abwehrt, kehrt bei [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Die Statistik misst auch uns|BissenBlaBla]] in anderer Form wieder: Es wird anders angezeigt, je nachdem, wer der Täter ist. Die Note belegt die Richtung (KFN) und gibt Heitmeyer beim Dunkelfeld zugleich recht.
+
 ---
 
 ## Weiterführend

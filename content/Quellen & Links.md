@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität
+
+| | |
+|---|---|
+| **Vortrag / Video** | [5 AfD-Lügen über AUSLÄNDERKRIMINALITÄT (YouTube, 04.10.2026)](https://www.youtube.com/watch?v=pmWLVzpdorc) |
+| **Notiz** | [[Zeitgeist/BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet]] |
+| **Transkript** | `Gedankenwelten/Transkripte/BissenBlaBla_Auslaenderkriminalitaet_Transkript.txt` |
+| **Primärdaten** | [PKS 2025 (BKA)](https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/PKS2025/Polizeiliche_Kriminalstatistik_2025/Polizeiliche_Kriminalstatistik_2025_node.html) · [ifo Adema/Alipour 2025](https://www.ifo.de/DocDL/sd-2025-digital-03-adema-alipour-migration-kriminalitaet.pdf) · [Hestermann, mediendiskurs](https://mediendiskurs.online/beitrag/mediale-verzerrung-so-hoch-wie-noch-nie-beitrag-1292/) |
+
 ## Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen (Körber-Stiftung, 2026)
 
 | | |
