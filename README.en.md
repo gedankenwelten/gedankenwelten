@@ -245,7 +245,7 @@ This repo contains ready-made configurations for all major AI CLI tools — just
 | [Cursor](https://cursor.com) | `.cursor/rules/gedankenwelten.mdc` | Open Cursor |
 | [GitHub Copilot](https://github.com/features/copilot) | `.github/copilot-instructions.md` | In editor |
 
-Full pipeline documentation (8 steps, quality standard, tag taxonomy) lives in **`AGENTS.md`** — readable by any tool, plain Markdown.
+The workshop — all skills, agents, rules and playbooks the notes are actually made with (in German) — lives in **[`.claude/`](.claude/LIESMICH.md)** and is mirrored from the private vault with every publication. Full pipeline documentation (8 steps, quality standard, tag taxonomy) lives in **`AGENTS.md`** — readable by any tool, plain Markdown.
 
 ---
 

@@ -95,6 +95,9 @@ COMPILED = [(re.compile(p), label, sev) for p, label, sev in PATTERNS]
 ALLOWED_EXACT = {
     "<!-- JOURNAL:START -->",
     "<!-- JOURNAL:END -->",
+    # Einfuegemarke der Leserpost-Inbox, gesetzt vom Pi-Dienst
+    # gedankenwelten-rueckmeldung (owner-inbox/Rueckmeldungen.md)
+    "<!-- NEU:START -->",
 }
 
 # ---------------------------------------------------------------------------

@@ -326,7 +326,7 @@ Dieses Repo enthält fertige Konfigurationen für alle gängigen KI-CLI-Tools �
 | [Cursor](https://cursor.com) | `.cursor/rules/gedankenwelten.mdc` | Cursor öffnen |
 | [GitHub Copilot](https://github.com/features/copilot) | `.github/copilot-instructions.md` | im Editor |
 
-Die vollständige Pipeline-Dokumentation (8 Schritte, Qualitätsstandard, Tag-Taxonomie) liegt in **`AGENTS.md`** und ist für jedes Tool lesbar — kein spezielles Format, plain Markdown.
+Die Werkstatt — alle Skills, Agenten, Regeln und Playbooks, mit denen die Notes tatsächlich entstehen — liegt in **[`.claude/`](.claude/LIESMICH.md)** und wird bei jeder Veröffentlichung aus dem privaten Vault gespiegelt. Die vollständige Pipeline-Dokumentation (8 Schritte, Qualitätsstandard, Tag-Taxonomie) liegt in **`AGENTS.md`** und ist für jedes Tool lesbar — kein spezielles Format, plain Markdown.
 
 > **MCP-Tipp:** Claude Code erkennt die `.mcp.json` automatisch — der Gedankenwelten MCP-Server steht sofort als Tool bereit, ohne manuelle Konfiguration.
 
