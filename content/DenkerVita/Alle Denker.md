@@ -374,6 +374,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Marcant|Marcant]]** — YouTuber (vollmarcant), 23 Jahre; Deradikalisierungsaktivismus durch Straßendialog; 500+ Menschen aus rechtsextremer Szene gebracht; Theodor-Heuss-Medaille 2026; Serie "Rechtsextrem oder verwirrtes Kind?"; Rechtsextremismusbekämpfung durch Respekt und Begegnung auf Augenhöhe
 
+**[[DenkerVita/Stephan Marks|Stephan Marks]]** — Sozialwissenschaftler und Supervisor (*1951, Freiburg); fand in Interviews mit ehemaligen Hitler-Anhängern die Scham als Schlüssel (*Warum folgten sie Hitler?*, 2007) und lehrt seit *Scham – die tabuisierte Emotion* (2007), Scham zuzumuten, ohne zu beschämen
+
 **[[DenkerVita/Thomas Eichstaedt|Thomas „Eichi" Eichstädt]]** — Aussteiger aus der Neonazi-Szene der 90er (Neubrandenburg); heute Trainer des FC Pio für junge Geflüchtete im AWO-Jugendclub Torgelow; Doku *Im Osten was Neues* (ZDF 2025)
 
 **[[DenkerVita/Felix Benneckenstein|Felix Benneckenstein]]** — Ex-Neonazi aus Bayern (Liedermacher „Flex“, ~2001–2011), Ausstieg mit EXIT; Gründer der Aussteigerhilfe Bayern, begleitet heute selbst Ausstiege

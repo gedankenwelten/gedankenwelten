@@ -56,6 +56,10 @@ Die Gedankenwelten (luc)
 >
 > Wir verarbeiten unser Essen, seit wir Menschen sind. Neu ist eine Nahrung aus Pulvern, Ölen und Zusatzstoffen, die schneller satt macht als der Körper es merkt — und an der vor allem die Rendite hängt.
 
+> **04.10.** — [[Geistesblitz/Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
+>
+> Wer sich schämt, kann nicht großzügig sein: Es geht ums nackte Überleben. Ein Schamforscher über die Wächterin der Würde, über Hitlers Blick und die Kunst, Scham zuzumuten, ohne zu beschämen.
+
 > **28.09.** — [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
 >
 > Ein Flüchtlingsjunge verliebt sich in Molekülzeichnungen, Jahrzehnte später zieht sein Material Wasser aus Wüstenluft. Als Rettungsgeschichte will er es nicht erzählt haben.

@@ -226,3 +226,6 @@ Die ideengeschichtliche Außenseite von Fromms autoritärem Charakter: Mishra ze
 
 Münkler deutet die Sehnsucht nach Ordnung als Sehnsucht nach Sorglosigkeit — die Entlastung, die Fromm im autoritären Charakter beschreibt. Seine Gegenmittel, Parteien und das Los als Schulen des Urteils, passen zu Fromms Erziehung zur rationalen Autorität.
 
+### → [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
+
+Marks stellt Fromms Frage an die Gefolgsleute selbst, in 43 Interviews, und findet die Scham: Wer beschämt, lädt sie beim anderen ab, Fromms Treten nach unten als Gefühl beschrieben. Wo Fromm eine Charakterstruktur sieht, sieht Marks ein Gefäß, das sich weiten lässt.

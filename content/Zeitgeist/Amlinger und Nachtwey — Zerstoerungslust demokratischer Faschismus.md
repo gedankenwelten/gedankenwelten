@@ -279,6 +279,9 @@ Die Theorie im Konkreten: ICE erschießt den Falschen und ersetzt die Notwehr-Be
 
 Der schärfste Widerspruch im ganzen Bestand — und er läuft über das Nullsummendenken. Auf der einen Seite bestätigt Mangelsdorf diese Note: Ihr Begriff *Anti-Mattering* (nicht gesehen, nicht gehört, gefragt werden ohne Folgen) ist die psychologische Fassung dessen, was hier als Vollbeschäftigung ohne Würde beschrieben wird. Auf der anderen Seite sagt sie zustimmend über das Glück, was Amlinger und Nachtwey als Wahrnehmungsstörung diagnostizieren: Es sei ein Irrtum zu denken, dass Glück unlimitiert ist. Wenn Wohlergehen tatsächlich aus einer endlichen Quelle schöpft, ist die Kränkung derer, die sich bestohlen fühlen, kein Denkfehler mehr, sondern richtig gerechnet. Die Glücksforschung liefert dem Nullsummendenken unfreiwillig eine Grundlage.
 
+### → [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
+
+Auf der Utopie-Konferenz hält El-Mafaalani dieses Buch dem Schamforscher Marks entgegen: Wenn Zerstörungslust treibt, erreicht man dann noch etwas mit Interesse? Marks bleibt dabei, es sei die einzige Chance. Die Demütigung, die die rachsüchtige Destruktivität vergilt, ist bei ihm das übergelaufene Gefäß.
 
 ## Weiterdenken
 

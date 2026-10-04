@@ -102,3 +102,4 @@ Butterwegges lebenslange Armutsforschung liefert die materielle Unterfütterung 
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
 - [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
 - [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — erstmals Host des Utopie-Quartetts (Leuphana 2026): „Wenn alle Superman sind, ist niemand Superman“; mehr Gerechtigkeit führe in der Regel zu mehr Konflikten, und Tocquevilles Übergang habe „nicht geklappt“
+- [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]] — lädt als Gastgeber den Schamforscher Stephan Marks ein, fragt nach Sachsen-Anhalt und dem Osten und folgert, eine Gesellschaft könne kippen, ohne dass die Mehrheit rechtsextrem denkt; hält Marks *Zerstörungslust* entgegen

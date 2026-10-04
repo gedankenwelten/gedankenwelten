@@ -4693,6 +4693,17 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
 | **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Verhaerten_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
 
+## Stephan Marks & Aladin El-Mafaalani — Unter der Wut die Scham?
+
+| | |
+|---|---|
+| **Video** | [Stephan Marks & Aladin El-Mafaalani: Unter der Wut: die Scham?](https://www.youtube.com/watch?v=Xu6slaccfXE) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (59 Min.) |
+| **Notiz** | [[Geistesblitz/Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham]] |
+| **DenkerVita** | [[DenkerVita/Stephan Marks]] · [[DenkerVita/Aladin El-Mafaalani]] |
+| **Bücher (Marks)** | *Scham – die tabuisierte Emotion* (Patmos) — [genialokal](https://www.genialokal.de/Suche/?q=marks+scham+tabuisierte+emotion) · *Warum folgten sie Hitler?* (Patmos) — [genialokal](https://www.genialokal.de/Suche/?q=marks+warum+folgten+sie+hitler) |
+| **Website** | [menschenwuerde-scham.de](https://www.menschenwuerde-scham.de/) |
+| **Transkript** | `Gedankenwelten/Transkripte/Marks_Scham_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
 ## Thomas Laschyk (Volksverpetzer) — Vermögenssteuer gegen Fake News
 
 | | |

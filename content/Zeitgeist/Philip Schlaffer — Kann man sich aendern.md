@@ -260,6 +260,10 @@ Ein Jahr lang ein Handtuch über dem Spiegel: Brählers Scham, sich selbst als v
 
 Dieselbe Titelfrage, einmal aus der Persönlichkeitsforschung, einmal als Täterbiografie. Deradikalisierung dauert so lange wie die Radikalisierung, und es tragen Beziehungen und ein Sportverein, kein Vorsatz — das Gummiband unter langer Spannung.
 
+### → [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
+
+Ein Junge, der gestohlen hat, schämt sich vor dem Spiegel, und Marks würde ihm gratulieren: Du bist ein Mensch. Gegen Tangneys Befund gelesen, ist das die Scham über verratene Werte, die dicht bei der Schuld liegt. Gefährlich wird die andere, die auf andere abgeladen wird.
+
 ---
 
 ## Weiterdenken

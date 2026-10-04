@@ -367,6 +367,10 @@ Die Drogenhilfe Halle zeigt Mangelsdorfs Präventions-Paradox in der Praxis: Was
 
 Die Frage aus dem Mattering-Abschnitt, Anspruch oder Gabe, wird in Lüneburg ausgestritten: Bleisch trennt das Geschuldete vom Geschenkten und nennt Simone Weils Aufmerksamkeit die reinste Gabe. El-Mafaalanis Misstrauische, die ökonomisch nicht verloren haben, sind Mangelsdorfs vierte Ebene im Befund.
 
+### → [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
+
+Anti-Mattering heißt bei Marks Anerkennungsscham, die erste von vier Formen. Er liefert die Stufe, die hier fehlt: wie aus dem Nichtgesehenwerden eine Scham wird, die sich politisch einsammeln lässt. Seine Botschaft für den Raum der Würde könnte über Mangelsdorfs Kapitel stehen: „Millionen von Jahren hat es dich noch nie gegeben.“
+
 ---
 
 ## Weiterdenken
