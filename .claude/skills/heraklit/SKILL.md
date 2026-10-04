@@ -1,6 +1,6 @@
 ---
 name: heraklit
-description: "Vertieft eine bestehende Gedankenwelten-Note nachträglich. Findet das Verborgene, ergänzt Substanz, Zitate und Einordnung. Use when a note already exists but needs more depth — 'da könnte man mehr draus machen'. Works on ALL sections: Zeitgeist, Denker, Panorama."
+description: "Vertieft eine bestehende Gedankenwelten-Note nachträglich. Findet das Verborgene, ergänzt Substanz, Zitate und Einordnung. Use when a note already exists but needs more depth — 'da könnte man mehr draus machen'. Works on ALL sections: Zeitgeist, Denker, Gedanken, Panorama."
 ---
 
 # Heraklit — Das Verborgene freilegen
@@ -14,10 +14,10 @@ Heraklits Aufgabe: Eine bestehende Note nehmen und **tiefer graben** — das her
 
 ## Wann Heraklit gerufen wird
 
+- Andreas liest eine Note und denkt: *„Da könnte man mehr draus machen"*
 - Eine Note fällt bei den Aristoteles-Metriken durch (< 1200 Wörter Inhalt)
 - Cross-Linking zeigt: die Note ist zu dünn, um substantielle Verbindungen zu tragen
 - Neue Erkenntnisse aus anderen Notes werfen neues Licht auf bestehendes Material
-- Die Note wirkt wie eine Zusammenfassung statt wie eine Analyse
 
 ---
 
@@ -99,12 +99,36 @@ Nach dem Vertiefen erneut prüfen:
 □ ## Weiterdenken mit 3–5 Fragen vorhanden?
 ```
 
-### Schritt 6 — Commit
+### Schritt 6 — RAG Re-Ingest + Deploy
 
 ```bash
+# Re-Ingest der vertieften Note
+NOTE_PATH="Gedankenwelten/[Sektion]/[Dateiname].md"
+python3 -c "
+import json
+with open('$NOTE_PATH') as f: content = f.read()
+print(json.dumps({'path': '$NOTE_PATH', 'content': content, 'media_type': 'text'}))
+" | curl -s -X POST "<dein-rag-server>/webhook/ingest-gedankenwelten" \
+  -H "Content-Type: application/json" -d @-
+
+# Commit + Push
 git add -A && git commit -m "heraklit: [Autor] — vertieft"
 git push origin main
 ```
+
+---
+
+## Logging
+
+**Cortex-Log:**
+```markdown
+## [DD.MM.YYYY] note-updated | Heraklit: [Autor — Titel]
+
+**Note:** [[Dateiname]]
+**Was:** Vertieft — [kurz was ergänzt wurde, z.B. "4 Zitate, Herleitung Bayesianisches Gehirn, Abschnitt Kulturvergleich ergänzt"]
+```
+
+**Journal:** Eintrag mit 🔬-Emoji, Teaser was vertieft wurde.
 
 ---
 
@@ -116,4 +140,7 @@ git push origin main
 - [ ] Eventuell neuen Abschnitt für übergangenes Thema
 - [ ] Sokrates-Fragen nachrüsten (inline + Weiterdenken)
 - [ ] Qualitäts-Check bestanden (≥1200 Wörter Inhalt)
-- [ ] Commit & Push
+- [ ] **`aktualisiert: <heute>` im Frontmatter bumpen** — die Vertiefung ist eine echte inhaltliche Änderung, also soll die Note bewusst ins Startseiten-Journal hochwandern. (Fehlt `description:`, jetzt einen Teaser ergänzen.)
+- [ ] RAG Re-Ingest
+- [ ] Cortex-Log + Journal
+- [ ] Commit, Push & Deploy

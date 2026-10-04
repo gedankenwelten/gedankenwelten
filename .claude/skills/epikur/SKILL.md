@@ -13,9 +13,8 @@ Begleitet den Nutzer beim Schreiben einer GoodNews-Nachricht — gesprächsweise
 
 - "Ich hab eine gute Nachricht"
 - "goodnews"
-- "gute nachricht teilen"
+- "epikur"
 - "ich hab was positives erlebt"
-- "good news"
 - oder sinngemäß: jemand möchte etwas Positives festhalten
 
 ## Schritt 1 — Gespräch führen
@@ -28,52 +27,37 @@ Lass den Nutzer frei erzählen. Frag bei Bedarf nach:
 - *"Wann war das?"* (falls kein Datum erkennbar)
 - *"Was hat dich daran besonders bewegt?"* (falls der Kern noch unklar ist)
 
-**Kein Zwang zur Kürze** im Gespräch — die Verdichtung kommt im nächsten Schritt.
-
 ## Schritt 2 — Verdichten
 
 Fasse das Erzählte zu 2–5 Sätzen zusammen. Zeige den Entwurf:
 
 > *"So könnte deine GoodNews aussehen — passt das?"*
 
-Halte den Ton des Erzählers bei. Nicht glätten, nicht verschönern — die eigene Stimme ist das Wertvollste.
+Halte den Ton des Erzählers bei. Nicht glätten, nicht verschönern.
 
 ## Schritt 3 — Verbindungen finden
 
 Durchsuche das bestehende Wissen nach thematischen Anknüpfungspunkten:
 
-### 3a — Andere GoodNews
-```bash
-ls content/GoodNews/*.md | grep -v README
-```
-Lies die bestehenden GoodNews und prüfe: Gibt es thematische Brücken? Ähnliche Erfahrungen? Ergänzende Perspektiven?
-
-### 3b — Zeitgeist- und Panorama-Notes
+### 3a — Zeitgeist- und Panorama-Notes
 ```bash
 ls content/Zeitgeist/ content/Panorama/ 2>/dev/null
 ```
-Suche nach Notes, die das gleiche Thema behandeln — z.B. eine GoodNews über Naturschutz könnte zur Good-News-Reihe oder zu Umwelt-Notes passen.
 
-### 3c — Denker und DenkerVita
+### 3b — Denker und DenkerVita
 ```bash
-ls content/Denker/ content/DenkerVita/
+ls content/Denker/ content/DenkerVita/ 2>/dev/null
 ```
 Gibt es einen Denker, dessen Konzepte zur GoodNews passen?
-- Nachbarin bringt Kuchen → Erich Fromm, *Haben oder Sein*
-- Naturerlebnis → Matthieu Ricard, *Altruismus*
-- Politischer Fortschritt → Hannah Arendt, *Handeln*
 
-**Nur verlinken, wenn die Verbindung substanziell ist** — nicht erzwingen.
-
-### 3d — Gedanken
+### 3c — Gedanken
 ```bash
 ls content/Gedanken/
 ```
-Persönliche Reflexionen, die zum Thema passen könnten.
+
+**Nur verlinken, wenn die Verbindung substanziell ist.**
 
 ## Schritt 4 — Tag auswählen
-
-Basierend auf dem Inhalt den passenden Tag bestimmen:
 
 | Tag | Für |
 |---|---|
@@ -84,9 +68,7 @@ Basierend auf dem Inhalt den passenden Tag bestimmen:
 | `wissenschaft` | Durchbrüche, Fortschritt |
 | `politik` | Positive politische Entwicklung |
 
-Mehrere Tags sind erlaubt.
-
-## Schritt 5 — Datei erstellen
+## Schritt 5 — Note erstellen
 
 **Dateiname:** `content/GoodNews/YYYY-MM-DD-kurztitel.md`
 
@@ -94,10 +76,15 @@ Mehrere Tags sind erlaubt.
 
 ```markdown
 ---
-author: [Name aus .mnemosyne.md oder nachfragen]
+title: "Kurzer Titel"
 date: YYYY-MM-DD
-tags: [tag1, tag2]
+tags:
+  - goodnews
+  - tag
+aliases:
+  - Kurzname
 ---
+
 # Kurzer Titel
 
 [Die verdichteten 2–5 Sätze]
@@ -105,43 +92,18 @@ tags: [tag1, tag2]
 ---
 
 ## Verbindungen
-
-- [[content/Zeitgeist/Note Name|Kurztitel]] — warum relevant
-- [[content/DenkerVita/Denker Name|Denker]] — konzeptuelle Brücke
-- [Andere GoodNews](../content/GoodNews/YYYY-MM-DD-titel.md) — thematische Nähe
+- [[Verwandte Note]] — warum relevant
 ```
 
-**Verbindungen-Abschnitt nur einfügen, wenn Verbindungen gefunden wurden.** Keine leeren Abschnitte.
+## Schritt 6 — Bidirektionale Links + Bestätigen
 
-## Schritt 6 — Bestätigen
-
-Zeige die fertige GoodNews und frage:
-
-> *"Sieht gut aus? Dann lege ich sie an."*
-
-Bei Änderungswünschen: anpassen und nochmal zeigen.
-
-## Schritt 7 — Ablegen und berichten
-
-1. Datei in `content/GoodNews/` erstellen
-2. Falls Verbindungen zu bestehenden Notes gefunden:
-   - In der verlinkten Note unter `## Verbindungen` einen Rückverweis ergänzen (bidirektional)
-3. Kurz berichten:
-   > *"Deine GoodNews liegt in `content/GoodNews/YYYY-MM-DD-titel.md`. Verbunden mit [X Notes]. Per `git add -A && git commit && git push` kannst du sie teilen."*
+1. In verlinkten Notes Rückverweise ergänzen
+2. Kurz berichten: *"Deine GoodNews liegt in ... Verbunden mit [X Notes]."*
 
 ---
 
-## Qualitätsfilter (aus content/GoodNews/README.md)
+## Qualitätsfilter
 
-### ✅ Ja
-- Positive Erlebnisse, gute Nachrichten, Dankbarkeit
-- Im Vipassana-Sinne heilsam
-
-### ❌ Nein
-- Klagen, Theorien, Werbung, ungeprüfte Behauptungen
-
-### Sanftes Umlenken
-Wenn der Inhalt nicht als GoodNews passt:
-> *"Das klingt eher nach einem Gedanken als nach einer GoodNews — soll ich daraus eine Reflexion in `content/Gedanken/` machen?"*
-
-Im Zweifelsfall: Wenn es jemandem helfen könnte, es zu lesen — dann darf es stehen.
+- ✅ Positive Erlebnisse, gute Nachrichten, Dankbarkeit
+- ❌ Klagen, Theorien, Werbung, ungeprüfte Behauptungen
+- Sanft umlenken: *"Das klingt eher nach einem Gedanken — soll ich daraus eine Reflexion machen?"*

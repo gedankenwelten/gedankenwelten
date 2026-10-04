@@ -10,7 +10,7 @@ Usage:
 
 Example:
     python3 merge_vtt_chunks.py /tmp/whisper_chunks/ \
-        "Gedankenwelten/Transkripte/output.vtt" \
+        "content/Transkripte/output.vtt" \
         --chunk-duration 1500
 """
 
