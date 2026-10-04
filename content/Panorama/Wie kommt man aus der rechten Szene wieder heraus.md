@@ -204,6 +204,10 @@ Die Fütterung, von der Felix' Feed lebte — der Medienteil der Frage, wie man 
 ### → [[Panorama/Sieben Zeugen, kein Konsens|Sieben Zeugen, kein Konsens]]
 Begegnung über Feindschaft hinweg im Nahen Osten — das übertragbare Gegenstück zur Frage, ob die Begegnung mit den Feinden von gestern hilft.
 
+### → [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+
+„Wie gerät man hinein?“ beginnt oft in der Schulzeit; das Schwester-Panorama fragt, was Schule an Scham, Ohnmacht und Anerkennung austeilt.
+
 ---
 
 ## Weiterdenken

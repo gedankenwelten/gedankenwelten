@@ -157,6 +157,10 @@ Die Wohnung als das, woran Aufstieg heute am sichtbarsten scheitert, und das Erb
 ### → [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 Thieles Satz, dass eine Demokratie ohne Zukunft keine Zukunft hat, verbindet beide: Wenn der Aufzug steht, fragt man auch, wer ihn repariert.
 
+### → [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+
+Was die Schule an Herkunft nicht ausgleicht, rechnet die Gesellschaft später als Verdienst ab: Münklers Aufzug und Bärfuss' Glück stehen dort unter der Frage „Sortiert die Schule nach Herkunft?“.
+
 ---
 
 ## Weiterdenken

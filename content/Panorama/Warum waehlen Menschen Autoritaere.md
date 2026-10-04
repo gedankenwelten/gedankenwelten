@@ -292,6 +292,10 @@ Das Schwester-Panorama auf der Ebene der Szene: Wo dieses fragt, was Wählende z
 
 Ein Schamforscher antwortet auf die Ost-Frage mit beidem: verratene Integrität in der DDR, Beschämung durch die Abwicklung. Es ist eine Deutung aus Interviews, keine Messung. El-Mafaalani folgert, eine Gesellschaft könne kippen, ohne dass die Mehrheit rechtsextrem denkt.
 
+### → [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+
+Die Jahre davor: Beschämung, Herkunft und Mitsprache in der Schule — wer dort gelernt hat, dass er nicht zählt, hört später womöglich auf die, die ihm das Gegenteil versprechen.
+
 ---
 
 ## Weiterdenken

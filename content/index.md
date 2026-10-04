@@ -70,6 +70,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **04.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, ein Handy in der Tasche: Vier offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
 > **04.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
 >
 > Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Vier offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
@@ -86,11 +90,7 @@ Die Gedankenwelten (luc)
 >
 > Hinein für die Jungs, heraus für ein Kind — und dazwischen oft zehn Jahre. Vier offene Fragen zum Ausstieg aus der rechten Szene, und die Stimmen, die sich an ihnen reiben.
 
-> **30.09.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> → *3 weitere in* [[Panorama]]
+> → *4 weitere in* [[Panorama]]
 
 ### Denker
 
