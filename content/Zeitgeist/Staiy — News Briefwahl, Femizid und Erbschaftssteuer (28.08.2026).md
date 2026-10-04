@@ -376,6 +376,10 @@ Anreizlage — und die lässt sich nicht kappen wie eine Leitung.
 
 Dieselben Verschonungsregeln, von der Medienseite gesehen: Laschyk zeigt, wie ein weitgehend steuerfrei geschenktes Aktienpaket beim Verleger von Zeitungen landet, die gegen das Schließen solcher Lücken trommeln.
 
+### → [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]]
+
+Dieselbe Hestermann-Zahl prüft [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Das Bild im Kopf|BissenBlaBla]] genauer: Die Verzerrung hält, ihre Größe hängt an der Vergleichszahl, und der Kanal wählt dabei die günstigere.
+
 ---
 
 ## Weiterdenken

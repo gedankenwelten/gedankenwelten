@@ -142,3 +142,8 @@ Dieselbe Umkehrung mit amerikanischen Zahlen. Auch dort war das Versprechen, „
 Schlimmsten" abzuschieben; im Juli 2026 hatten unter vier Prozent der Festgenommenen eine
 Gewaltverurteilung und rund drei Viertel gar keine Vorstrafe. Wo eine Vollzugsbehörde eine Tagesquote
 bekommt, entscheidet nicht Gefährlichkeit, wer sie erfüllt, sondern Greifbarkeit.
+
+### → [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]]
+
+Dass ein unsicherer Aufenthalt selbst Kriminalität erzeugt, belegt [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Kultur oder Lage|BissenBlaBla]] mit der Forschung zum Legalstatus; Emekas Abschiebung ist das Gegenteil dessen, was diese Studien empfehlen.
+

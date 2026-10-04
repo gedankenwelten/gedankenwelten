@@ -284,3 +284,7 @@ Heims formuliert die andere Hälfte von Staiys Medienkritik: Nicht nur Schweigen
 
 Knaus beobachtet, dass Bilder Zahlen schlagen, und ärgert sich über ein Aufklärungsdefizit. Die hier beschriebene Mechanik der Nachrichtenfaktoren zeigt, warum sein Ärger ins Leere geht: Migration wird als Ereignis berichtet, die unauffällige Normalität nie. Sein Nachweis, dass nach Spanien kaum jemand irregulär kam, hatte im System keinen Platz — nicht aus Nachlässigkeit, sondern aus Bauart.
 
+### → [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]]
+
+Den Vergleich zweier Taten macht [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Das Bild im Kopf|BissenBlaBla]] an München und Mannheim, mit dem Einwand, dass dort mehr als der Pass die Fälle trennt; die Nachbesprechung zeigt, wie die Herkunftsnennung seit 2014 gestiegen ist.
+

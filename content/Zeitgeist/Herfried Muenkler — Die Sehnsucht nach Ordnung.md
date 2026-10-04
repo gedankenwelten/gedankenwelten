@@ -431,6 +431,10 @@ Münklers Los mit Amtszwang hat einen Gegenentwurf bekommen: Ardalan Ibrahim wil
 
 Ein Mittelweg zwischen dem übergangenen Bürgerrat Ernährung und Münklers entscheidenden Losgremien: ein Zukunftsrat, dem das Parlament Gründe schuldet, in den Kommunen auch mit aufschiebendem Veto.
 
+### → [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]]
+
+Wie weit Zahlen gegen Angst tragen, prüft [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Die Grenze der Gegenrede|BissenBlaBla]] an fünf Sätzen über Ausländerkriminalität: Die Zahlen widerlegen das Bild, der Abstand bleibt echt, und das Bild bleibt auch.
+
 ---
 
 ## Weiterdenken
