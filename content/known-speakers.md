@@ -1064,3 +1064,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Michael Moss
 **Status:** ✓ Vollanalyse → [[DenkerVita/Michael Moss]]
+
+## Jutta Roosen
+**Status:** ✓ Vollanalyse → [[DenkerVita/Jutta Roosen]]
+
+## Hanna Notte
+**Status:** ✓ Vollanalyse → [[DenkerVita/Hanna Notte]]
+
+## Sergey Lagodinsky
+**Status:** ✓ Vollanalyse → [[DenkerVita/Sergey Lagodinsky]]

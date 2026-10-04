@@ -224,6 +224,10 @@ Beide teilen den Befund: Das humanitäre Völkerrecht gilt, aber niemand erzwing
 
 Der philosophische Unterbau der Debatte, am selben Tag entstanden: Misselhorn begründet, was hier gefordert wird — weil es keine moralische Pflicht zu töten gibt, ist jede Tötung eine Entscheidung, die einen menschlichen Träger braucht. Ihre drei Grundsätze sind Dahlmanns „Meaningful Human Control" und Kuhles Kundus-Argument in ethischer Reinform.
 
+### → [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
+
+Sergey Lagodinsky, Mitverhandler des AI Act, schlägt einen KI-Kontrollvertrag mit den USA und China nach dem Vorbild der Atomwaffenabkommen vor. Dahlmanns Befund, dass Verbote nur gelingen, wo sie wenig kosten, ist die nüchterne Gegenprobe.
+
 ---
 
 ## Weiterdenken

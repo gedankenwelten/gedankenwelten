@@ -240,6 +240,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]** — Wirtschaftsjournalistin (*taz*), gelernte Bankkauffrau, Historikerin und Philosophin; grünes Schrumpfen statt grünem Wachstum, die britische Kriegswirtschaft 1940 als Modell einer privaten demokratischen Planwirtschaft, technisch machbar ≠ ökonomisch effizient; Keynesianerin gegen Marx *und* Neoliberale, die beide Ausbeutung für das Funktionsprinzip halten; *Das Ende des Kapitalismus* (2022), *Geld als Waffe* (2026)
 
+**[[DenkerVita/Hanna Notte|Hanna Notte]]** — Politikwissenschaftlerin, leitet das Eurasien-Programm des CNS (Berlin), Senior Associate am CSIS; Russlands Außenpolitik, Nahost, Rüstungskontrolle — *We Shall Outlast Them* (2026): wie Moskau nach 2022 den Globalen Süden mobilisierte und die sowjetische Dankbarkeit allein beerbte
+
 ## I
 
 **[[DenkerVita/Immanuel Kant|Immanuel Kant]]** — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, "Was ist Aufklärung?"
@@ -464,6 +466,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## R
 
+**[[DenkerVita/Jutta Roosen|Jutta Roosen]]** — Agrar- und Konsumökonomin, Lehrstuhl für Marketing und Konsumforschung an der TU München, Mitherausgeberin von *Food Policy*, seit 2026 im WBAE; Ernährungspolitik als Dreieck aus Information, Preis und Rezeptur — die Effekte sind klein, aber gerichtet, und nur die Kombination trägt
+
 **[[DenkerVita/Paul Ricoeur|Paul Ricœur]]** — französischer Philosoph (1913–2005), Phänomenologe und Hermeneutiker, Professor in Straßburg, an der Sorbonne, in Nanterre und Chicago; Denker des langen Umwegs — zweite Naivität, Hermeneutik des Verdachts und des Vertrauens, narrative Identität, die kleine Ethik (das gute Leben, mit und für andere, in gerechten Institutionen); *Die Symbolik des Bösen* (1960), *Zeit und Erzählung* (1983–85), *Das Selbst als ein Anderer* (1990), *Gedächtnis, Geschichte, Vergessen* (2000)
 
 **[[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Kultursoziologe an der Humboldt-Universität zu Berlin, Leibniz-Preisträger; Chronist der Spätmoderne — Singularisierung, Kulturalisierung des Sozialen, Kreativitätsdispositiv, Verlust als Grundproblem der Moderne; *Die Gesellschaft der Singularitäten* (2017), *Das Ende der Illusionen* (2019), *Verlust* (2024)
@@ -524,6 +528,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Steffen Mau|Steffen Mau]]** — Makrosoziologe, Professor HU Berlin, seit 2025 Direktor MPI Göttingen; Triggerpunkte statt Spaltung, Polarisierungsunternehmer, Sortiermaschinen
 
 **[[DenkerVita/Ralf Stockmann|Ralf Stockmann]]** — Bibliothekar und Digital-Stratege (ZLB / Staatsbibliothek Berlin); profilierte Fediverse-Stimme, Mastodon-UX-Reformer; Schöpfer von Ultraschall, Mastowall, Sendegate; „+1"-Prinzip (öffentliches Geld → Fediverse-Pflicht)
+
+**[[DenkerVita/Sergey Lagodinsky|Sergey Lagodinsky]]** — Jurist, Europaabgeordneter (Grüne), stellv. Vorsitzender der Fraktion Grüne/EFA; 1993 als Kontingentflüchtling aus Moskau gekommen; Multipolarität als Herrschernarrativ, „hirngeleitete“ statt wertegeleitete Außenpolitik, KI-Rüstungskontrolle
 
 ## T
 

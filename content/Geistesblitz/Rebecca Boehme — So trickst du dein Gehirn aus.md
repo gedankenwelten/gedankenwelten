@@ -249,3 +249,6 @@ Böhmes Predictive Processing (Erwartung formt körperliche Realität) und Schul
 
 Kornmeier teilt Böhmes Predictive-Processing-Rahmen bis ins Detail — der Torwart, der den Ball nie in Echtzeit verarbeiten könnte, ist ihr bayesianisches Gehirn in einem Bild. Und ihre Grenzziehung teilt er auch: Psychedelika setzen für ihn nur den Plausibilitätscheck außer Kraft, sie öffnen kein Fenster zur wahren Welt. Die Spannung liegt woanders: Böhmes Realitätsanker ist die aktive Interaktion — hingehen, anfassen, überprüfen. Kornmeiers Institut erforscht Phänomene, die sich genau dieser Prüfung entziehen, und er hält das aus, ohne die Prüfung aufzugeben.
 
+### → [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]
+
+Roosen zieht aus der Konsumforschung denselben Schluss wie Böhme aus der Hirnforschung: Aufklärung braucht Ressourcen, die eine verlockende Umgebung aufzehrt. Darum gehören Bildung und weniger Verlockung zusammen.

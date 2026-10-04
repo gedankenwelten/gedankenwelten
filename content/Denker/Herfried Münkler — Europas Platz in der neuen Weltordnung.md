@@ -357,6 +357,10 @@ Der Fall, an dem Münklers „Drittes zwischen Krieg und Frieden" praktisch wird
 
 Blom stellt dieselbe Frage („Sitzen wir am Tisch oder sind wir am Menü?“) und gibt die Gegenantwort: eine direkt gewählte, föderale europäische Regierung statt einer Führungsgruppe der Großen. Wie Münkler sieht er Europas Chance als Hüter von Institutionen und Verträgen, begründet sie aber mit fünfhundert Jahren Massaker.
 
+### → [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
+
+Hanna Notte beschreibt Russlands Weg von der nuklearen Drohkulisse zum hybriden Krieg und zur offenen Erklärung Europas zum „strategischen Hinterland“ — Münklers aufgelöste Grenze zwischen Krieg und Frieden in der Praxis. Lagodinskys Europäischer Sicherheitsrat ist eine Parallele zur Führungsgruppe der Fünf.
+
 ---
 
 ## Weiterführende Quellen

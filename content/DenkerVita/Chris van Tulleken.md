@@ -104,6 +104,9 @@ Was Butterwegge für die Verteilung zeigt — Armut als politische Entscheidung,
 ### → [[DenkerVita/Giulia Enders|Giulia Enders]]
 Enders hat den Darm und sein Mikrobiom als mitdenkendes Organ ins Gespräch gebracht; van Tullekens Sorge um synthetische Emulgatoren setzt genau dort an.
 
+### → [[DenkerVita/Jutta Roosen|Jutta Roosen]]
+Dieselben Forderungen — Kennzeichnung, Werbegrenzen, echtes Essen in Schulen — aus der Konsumökonomie geprüft: klein, aber gerichtet.
+
 ## Cortex-Notes
 
 - [[Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]

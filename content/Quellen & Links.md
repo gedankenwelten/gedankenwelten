@@ -6,6 +6,25 @@ tags:
   - links
 ---
 
+## Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen (Körber-Stiftung, 2026)
+
+| | |
+|---|---|
+| **Panel** | [Globales Kräftemessen: Russland und Europa (2026)](https://www.youtube.com/watch?v=0RhHezPZ3PQ) — Körber-Stiftung, KörberForum Hamburg, veröffentlicht 29.09.2026, 91 Min, Moderation Leslie Schübel |
+| **Buch** | Hanna Notte: *We Shall Outlast Them. Putin's Global Campaign to Defeat the West* (2026) |
+| **Notiz** | [[Zeitgeist/Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen]] · [[DenkerVita/Hanna Notte]] · [[DenkerVita/Sergey Lagodinsky]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Koerber_Russland_Europa_Globales_Kraeftemessen_Transkript.txt` |
+
+## Jutta Roosen — Wie wirksam sind Zuckersteuer und Co. (Deutsches Museum, 2021)
+
+| | |
+|---|---|
+| **Vortrag** | [Jutta Roosen: Wie wirksam sind Zuckersteuer & Co.?](https://www.youtube.com/watch?v=X6_BmDoCnKc) — Deutsches Museum, Wissenschaft für jedermann (ENABLE-Cluster), April 2021, 59 Min |
+| **Ergänzend** | [Breaking Lab — Zuckersteuer in Deutschland, wissenschaftlich geprüft](https://www.youtube.com/watch?v=vqa7lZO9ENs) — Jacob Beautemps, 08.09.2026, 14 Min |
+| **Notiz** | [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]] · [[DenkerVita/Jutta Roosen]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Roosen_Zuckersteuer_DeutschesMuseum_Transkript.txt` · `Gedankenwelten/Transkripte/Beautemps_Zuckersteuer_BreakingLab_Transkript.txt` |
+| **Anlass** | Erster „Zwilling“ (Ideenschmiede, 04.10.2026): wissenschaftliches Gegenstück zur Zuckersteuer-Debatte, Schwester-Note zu Moss |
+
 ## Chris van Tulleken — Ultra-verarbeitete Lebensmittel (Royal Institution, 2023)
 
 | | |

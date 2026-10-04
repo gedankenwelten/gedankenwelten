@@ -381,6 +381,10 @@ Ein Fall aus dem ländlichen Osten: Eichi, früher Neonazi, wurde durch seine Ma
 
 Moss' Wende bei der Zuckersteuer ist ein Testfall für die Gewöhnung ans Verordnete: Er hielt sie erst für regressiv und ist inzwischen „umgeschwenkt", und selbst ein früherer Philip-Morris-Chef riet den Lebensmittelkonzernen, Regeln selbst vorzuschlagen.
 
+### → [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]
+
+Dänemarks schnell abgeschaffte Fettsteuer und die deutsche Zuckerabgabe 2026/27 sind frische Prüfsteine für die Bedingungen der Gewöhnung. Eine Steuer, die die Ärmeren stärker trifft und deren Geld im allgemeinen Haushalt verschwindet, steht dem Backlash näher als Stockholm.
+
 
 ---
 

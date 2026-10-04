@@ -99,6 +99,9 @@ Beide finden in der Konsumwelt keine Schurken, nur Produkte, die dem Hersteller 
 ### → [[DenkerVita/Philipp Blom|Philipp Blom]]
 Bloms Beobachtung, dass Menschen sich an Verordnetes wie das Rauchverbot gewöhnen und es dann verteidigen, stützt Moss' späte Wende zur Zuckersteuer.
 
+### → [[DenkerVita/Jutta Roosen|Jutta Roosen]]
+Die Konsumökonomin vermisst, was ein Staat gegen die Kronjuwelen der Industrie ausrichten kann — und gibt Moss' Wende zur Zuckersteuer die Zahlen.
+
 ## Cortex-Notes
 
 - [[Michael Moss — Salz Zucker Fett]]

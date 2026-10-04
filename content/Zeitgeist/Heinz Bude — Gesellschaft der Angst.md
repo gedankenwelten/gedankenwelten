@@ -243,3 +243,6 @@ Budes „liberales Kümmern“ hat in der Drogenhilfe Halle eine konkrete Form: 
 
 Zwölf Jahre später nimmt Münkler Budes wandelbares Misstrauen auf und nennt es Angst, die sich ihre Gegenstände selbst sucht, seit der Fortschrittsglaube sie nicht mehr dämpft. Wo Bude ein Kümmern vorschlägt, setzt Münkler auf das Los und auf den Satz, es gebe kein Recht auf Sorglosigkeit.
 
+### → [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]
+
+Was Bude als liberales Kümmern skizziert, misst Roosen am Essen aus: Nudges, Etiketten und neue Rezepturen wirken klein, aber gerichtet. Der Zuschauereinwand gegen den „Erziehungsstaat" zeigt, wo die Grenze zum Oberkümmerer gefühlt wird.

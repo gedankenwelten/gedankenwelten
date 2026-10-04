@@ -213,3 +213,7 @@ Kemper analysiert, wie faschistische Bewegungen im 21. Jahrhundert aussehen. Fle
 ### → [[Torsten Heinrich — Die NATO-Luege und wie aus Funken Rechtfertigung wird]]
 
 Dieselbe Werkstatt, das umgekehrte Werkzeug. Heinrich zeigt, wie aus einem wahren Funken durch Aufblasen eine Rechtfertigung wird — 15.000 Tote im Donbass werden zum Völkermord. Diese Note zeigt die Gegenbewegung: wie aus einem Loch durch Weglassen ein Gründungsmythos wird. Verstärkung und Auslöschung sind die zwei Hände desselben Handwerks.
+
+### → [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
+
+Das Gegenstück im Globalen Süden: Hanna Notte zeigt, wie Russland die antikoloniale Dankbarkeit, die der ganzen Sowjetunion galt, für sich allein beansprucht, obwohl ANC-Kämpfer in Odessa und Kiew ausgebildet wurden. Die Privatisierung des sowjetischen Erbes wirkt nach innen wie nach außen.

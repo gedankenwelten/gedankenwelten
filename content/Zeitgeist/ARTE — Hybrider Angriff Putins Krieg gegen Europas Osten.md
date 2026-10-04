@@ -218,6 +218,10 @@ Was Heinrich am ukrainischen Sprachgesetz methodisch fordert — eine berechtigt
 
 Was die Doku im EU-Osten als eingespieltes Verfahren zeigt, ist in Leipzig zum ersten Mal weiter westlich passiert — dieselben Bausätze, dieselbe Personalwirtschaft aus angeworbenen Kleinkriminellen. Andrey Gurkov liefert dort die begriffliche Schärfung nach, die hier fehlt: Wegwerfagenten holt man von der Straße, Schläfer sind Profis, und wer beides vermischt, lässt die Lage größer erscheinen, als sie zählbar ist. Methodisch stehen beide gegeneinander — der Film arbeitet mit der Angst, weil sie der Wirkstoff des hybriden Krieges ist, die Runde arbeitet gegen sie an.
 
+### → [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
+
+Was der Film in Bulgarien als „dankbare Nation“ zeigt, findet Hanna Notte in Afrika wieder: eine gepflegte Dankbarkeit, die Moskau nur aktivieren muss. Sergey Lagodinskys „Wir müssen Propaganda lernen“ stellt die Frage des Deepfake-Schlusses neu — wo endet das Zeugnis, wo beginnt die Gegen-Manipulation?
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

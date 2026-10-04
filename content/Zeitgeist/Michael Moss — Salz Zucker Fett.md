@@ -143,7 +143,7 @@ In der Fragerunde sagt Moss den Satz, der ihn von radikaleren Kritikern untersch
 
 Tiefgefrorene Heidelbeeren, sagt er, seien oft gesünder und ethischer als frische, die von weit her eingeflogen werden. Zum Unterschied zu Frankreich: In den Achtzigern sei es in Amerika „über Nacht" sozial akzeptabel geworden, alles überall jederzeit zu essen. Die Industrie habe Produkte für eine Hand entwickelt, ohne Besteck, für nebenbei, und das Snacken wurde zur vierten Mahlzeit [▶ 53:42](https://www.youtube.com/watch?v=BEEiHk_31xw&t=3222).
 
-Auch seine Meinung zur Zuckersteuer hat er geändert. Früher hielt er sie für regressiv, weil sie die Armen trifft; inzwischen sei er „umgeschwenkt" [▶ 55:15](https://www.youtube.com/watch?v=BEEiHk_31xw&t=3315). Geoff Bible, der frühere Chef von Philip Morris, sagte ihm etwas Unerwartetes: Die Konzerne täten gut daran, selbst Regeln vorzuschlagen, schon um Deckung gegenüber der Wall Street zu haben, die jedes Jahr mehr Gewinn verlangt. Moss selbst bleibt bei seiner Hoffnung, der Wandel möge aus den Firmen kommen, die mit gesünderen Produkten Geld verdienen lernen.
+Auch seine Meinung zur Zuckersteuer hat er geändert. Früher hielt er sie für regressiv, weil sie die Armen trifft; inzwischen sei er „umgeschwenkt" (was die Forschung dazu sagt, und wie Deutschland 2026 darüber streitet: [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co#Nachbesprechung|Nachbesprechung bei Jutta Roosen]]) [▶ 55:15](https://www.youtube.com/watch?v=BEEiHk_31xw&t=3315). Geoff Bible, der frühere Chef von Philip Morris, sagte ihm etwas Unerwartetes: Die Konzerne täten gut daran, selbst Regeln vorzuschlagen, schon um Deckung gegenüber der Wall Street zu haben, die jedes Jahr mehr Gewinn verlangt. Moss selbst bleibt bei seiner Hoffnung, der Wandel möge aus den Firmen kommen, die mit gesünderen Produkten Geld verdienen lernen.
 
 > [!note] Eigene Einschätzung
 > Gegen Ende verlässt Moss das Feld des Reporters und wird zum Optimisten des Marktes: Dieselben Werkzeuge, die uns süchtig nach Chips gemacht haben, sollen uns Karotten verkaufen. Das hat Charme und ist nicht naiv; an der Kasse zeigen Studien, dass die Umgebung zählt. Aber es lässt die Frage offen, die er zehn Minuten zuvor mit der Kraft-Szene selbst gestellt hat: Wenn die Aktionäre 1999 keinen Bissen weniger duldeten, warum sollten sie es bei der Karotte anders sehen, solange sie weniger Marge bringt? Chris van Tulleken wird diese Lücke sieben Jahre später mit einem Wort füllen: *Finanzialisierung*.
@@ -257,6 +257,11 @@ In Moss' Industrie gibt es keine Schurken, bei Yoran auch nicht. Techniker löse
 ### → [[Zeitgeist/Philipp Blom — Die strauchelnde Welt#Gewöhnen sich Menschen an das Verordnete|Philipp Blom — Die strauchelnde Welt]]
 
 Moss hielt die Zuckersteuer lange für eine Last der Armen und ist umgeschwenkt; Geoff Bible von Philip Morris riet den Konzernen sogar, Regeln selbst vorzuschlagen. Bloms Nachbesprechung liefert die Daten zu dieser Wende: Nach dem Rauchverbot stieg die Zustimmung sogar unter Rauchern, und die Studien, die ein Wirtesterben meldeten, waren von der Tabakindustrie bezahlt. Der Wandel, den Moss sich von den Firmen erhofft, könnte also auch von außen kommen und erst danach gewollt werden.
+
+### → [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]
+
+Der wissenschaftliche Zwilling: Roosen vermisst die Werkzeuge, mit denen ein Staat auf die Industrie antworten kann — Kennzeichnung, Rezeptur, Preis —, und die Zuckersteuer, zu der Moss seine Meinung geändert hat, samt ihrer Grenzen. Dazu der deutsche Stand 2026.
+
 
 ---
 

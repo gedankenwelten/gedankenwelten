@@ -319,6 +319,10 @@ Prashads Verschiebung — „Die Frage ist nicht die Planung. Die Frage ist, wer
 
 Dalios acht Machtgrößen von unten gelesen ergeben Prashads Hyperimperialismus: Militärmacht wird zum ökonomischen Instrument, gerade weil die ökonomische Konkurrenz verloren ist. Prashads drei Fragen — wem nützt es, wer trägt die Kosten, wer entscheidet über „alternativlos“ — sind genau die, die Dalios Mechanik-Vokabular unstellbar macht. Sein Kapitel über den gekaperten Begriff „Markt“ beschreibt dieselbe sprachliche Operation.
 
+### → [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
+
+Auch Sergey Lagodinsky verwirft die „Multipolarität“, aus der Gegenrichtung: Für den grünen Europaabgeordneten heißt sie „mehr Herrscher“ statt gemeinsamer Normen. Hanna Notte zeigt, wie Moskau gerade die Doppelmoral-Erfahrung, die Prashad schildert, im Globalen Süden zur Waffe macht.
+
 ---
 
 ## Weiterdenken

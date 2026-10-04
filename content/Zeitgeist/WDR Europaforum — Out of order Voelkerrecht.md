@@ -236,6 +236,9 @@ Was das Europaforum grundsätzlich verhandelt, tritt hier als Ereignis ein: Die 
 
 Jaffs Satz über die 85 Prozent, die Rechtsbrüche anprangern, während niemand etwas tut, findet im Sudan 2026 einen neuen Beleg: Chlorbomben der Armee, dokumentiert und doch kaum mit Folgen. Flemig zieht die Linie von Syrien zum Sudan, und Jaff erinnert daran, dass sie bis in den Irak zurückreicht.
 
+### → [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
+
+Sergey Lagodinsky, selbst Völkerrechtler, nennt den Irakkrieg den „Sündenfall“, mit dem das Zerbröseln der Regeln lange vor Trump und Putin begann. Hanna Notte zeigt, wie Russland diesen Riss im Globalen Süden nutzt, wo die Weltordnung für die meisten nie in Ordnung war.
 
 ## Weiterdenken
 
