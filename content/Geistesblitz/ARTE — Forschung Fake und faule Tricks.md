@@ -319,3 +319,10 @@ Ein Nobelpreisträger, der zugleich die Firma gegründet hat, deren Wasserernter
 
 Das wachsende Panorama zur Forschung: Bisphenol A, der Heidelberger Aufruf und Lewandowskys Konsens-Abwehr stehen dort bei den Fragen nach dem Geld und nach dem Vertrauen.
 
+### → [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
+
+Der Tabak-Blueprint in der Ernährung: Van Tulleken zeichnet nach, wie von Coca-Cola finanzierte Forschung das Dogma „Kalorien rein, Kalorien raus" stützte. Er will das Geld der Lebensmittelindustrie in der Wissenschaft behandelt sehen wie Tabakgeld.
+
+### → [[Zeitgeist/Michael Moss — Salz Zucker Fett]]
+
+Moss zeigt die zweite Karriere des Tabak-Blueprints: Philip Morris wurde über Kraft und General Foods zum größten Lebensmittelhersteller Nordamerikas und reichte seine Marketingmethoden an die Lebensmittelmanager weiter.

@@ -208,3 +208,11 @@ In den USA ist das Rauchen auf den tiefsten je gemessenen Stand gefallen, nach s
 ### → [[Mark Benecke — Zu Besuch in der Drogenhilfe Halle]]
 
 Was Rüther in der Klinik fordert — Motivation statt Abschreckung, kein Stigma beim Rückfall —, zeigt die Drogenhilfe Halle als Alltag auf der Straße. Dazu kommt die Lücke, die er beschreibt: Das Hilfesystem trennt Sucht und Psyche, obwohl der Mensch beides zusammen trägt.
+
+### → [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
+
+Van Tulleken trägt Rüthers Satz vom Problem hinter der Sucht ins Supermarktregal: Wer aus Stress isst, greift zu ultra-verarbeitetem Essen wie zu Tabak oder Alkohol. Der Unterschied ist, dass vom Essen niemand abstinent leben kann.
+
+### → [[Zeitgeist/Michael Moss — Salz Zucker Fett]]
+
+Moss bringt Rüthers Satz, das Gehirn kenne die Grenze zwischen legal und illegal nicht, ins Supermarktregal. Nora Volkow hielt ihm entgegen, manche zucker- und fettreichen Lebensmittel machten so süchtig wie Drogen und seien schwerer aufzugeben, weil man vom Essen nicht kalt entziehen kann.

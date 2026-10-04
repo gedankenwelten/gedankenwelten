@@ -341,3 +341,7 @@ Die Glücksforschung landet bei der Verteilungsfrage — und bleibt dort stehen.
 ### → [[Paul Ricoeur — Die zweite Naivitaet]]
 
 Ricœur benennt 1993 als kommendes Problem, was Butterwegge als deutsche Gegenwart durchrechnet. Seine Unterscheidung liegt unter der Sache: Der Markt ist das allgemeine Gesetz des Tauschs, der Kapitalismus dagegen eine *Ideologie*, nach der der Markt seine Widersprüche selbst löse — und es gebe Güter, die man nicht kaufen und verkaufen kann, Bildung, Gesundheit, Sicherheit, Staatsbürgerschaft. Dazu die Grenze des Verteilungsdenkens, die Butterwegges Ausgeschlossene betrifft: Wer aus dem Gesellschaftsvertrag herausgefallen ist, kommt in keiner Verteilungsregel mehr vor.
+
+### → [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
+
+Van Tulleken gibt Butterwegges Leistungskritik einen Körper: Wer Übergewicht als Versagen der Willenskraft liest, übersieht, dass „echtes Essen fantastisch teuer" ist. Armut, sagt auch er, ist eine politische Entscheidung.

@@ -239,6 +239,11 @@ Böhmes Predictive Processing (das Gehirn als Vorhersagemaschine, Aufmerksamkeit
 
 DiResta zeigt, wie Plattformen Narrative verstärken und Crowds zu Propagandaapparaten werden. Paschkes klinische Beobachtung, dass Jugendliche durch KI-Personalisierung gezielt auf gefährdende Inhalte (Drogendealer, Suizid-Content, riskante Challenges) geleitet werden, ist DiRestas algorithmische Verstärkung angewandt auf eine vulnerablere Zielgruppe — mit direkten gesundheitlichen Folgen statt nur politischen.
 
+### → [[Zeitgeist/Michael Moss — Salz Zucker Fett]]
+
+Was die Plattformen mit Aufmerksamkeit tun, hat die Lebensmittelindustrie mit Süße vorgemacht. Moss erzählt, wie Coca-Cola und die Erfinder der Lunchables gezielt Kinder ansprachen und dabei, so ein Lebensmittelwissenschaftler, „die Biologie des Kindes" ausnutzten.
+
+
 ---
 
 ## Weiterdenken

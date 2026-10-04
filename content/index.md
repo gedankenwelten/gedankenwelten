@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **04.10.** — [[Zeitgeist/Michael Moss — Salz Zucker Fett|Michael Moss — Salz, Zucker, Fett]]
+>
+> Ein Kriegsreporter geht in die Labore der Lebensmittelkonzerne und findet keine Verschwörung — nur Menschen, die Glückspunkte berechnen, und Aktionäre, die keinen Bissen weniger dulden.
+
 > **03.10.** — [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene|Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 >
 > Ein Kasten Bier landet auf der Straße, und ein Neonazi der Neunziger trainiert heute Geflüchtete: wie man aus der Szene herausfindet, ohne je zu wissen, warum man hineinging — und warum die Geschichte beim Erzählen leichter wird.
@@ -40,11 +44,21 @@ Die Gedankenwelten (luc)
 >
 > Ein Makroökonom aus dem Innern des Fachs nennt dessen Leitbild ein Märchen, rechnet Berlin die Vergesellschaftung vor und liest den Aufstieg der AfD an Energiepreisen ab. Am Tisch sitzt keine Gegenstimme.
 
-> **30.09.** — [[Zeitgeist/Philipp Blom — Die strauchelnde Welt|Philipp Blom — Die strauchelnde Welt]]
->
-> Wie aus dem Jubel der Jahrtausendwende in einer Generation die Zeit der Monster wurde: Philipp Blom über Entwürdigung, gesichtslose Gegner, den falschen Liberalismus und die Unterschrift, mit der Diktaturen beginnen.
+> → *7 weitere in* [[Zeitgeist]]
 
-> → *8 weitere in* [[Zeitgeist]]
+### Geistesblitz
+
+> **04.10.** — [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel|Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
+>
+> Wir verarbeiten unser Essen, seit wir Menschen sind. Neu ist eine Nahrung aus Pulvern, Ölen und Zusatzstoffen, die schneller satt macht als der Körper es merkt — und an der vor allem die Rendite hängt.
+
+> **28.09.** — [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
+>
+> Ein Flüchtlingsjunge verliebt sich in Molekülzeichnungen, Jahrzehnte später zieht sein Material Wasser aus Wüstenluft. Als Rettungsgeschichte will er es nicht erzählt haben.
+
+> **27.09.** — [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
+>
+> Jede Wissenschaft treibt Geister aus, und in jede Lücke zieht ein neuer ein. Der jüngste wohnt in der Statistik — und weiß selbst nicht, ob er gefunden oder erfunden hat.
 
 ### Panorama
 
@@ -84,29 +98,11 @@ Die Gedankenwelten (luc)
 >
 > Buber sucht das Du auf Augenhöhe, Levinas bestreitet, dass es sie geben darf. Zwei jüdische Denker, ein Gespräch, das nie stattfand — und die Frage, was zuerst kommt, die Begegnung oder die Verantwortung.
 
-### Geistesblitz
-
-> **28.09.** — [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
->
-> Ein Flüchtlingsjunge verliebt sich in Molekülzeichnungen, Jahrzehnte später zieht sein Material Wasser aus Wüstenluft. Als Rettungsgeschichte will er es nicht erzählt haben.
-
-> **27.09.** — [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
->
-> Jede Wissenschaft treibt Geister aus, und in jede Lücke zieht ein neuer ein. Der jüngste wohnt in der Statistik — und weiß selbst nicht, ob er gefunden oder erfunden hat.
-
-> **26.09.** — [[Geistesblitz/Torsten Wilholt — Wahrheit und Wissen|Torsten Wilholt — Wahrheit und Wissen]]
->
-> Wer richtig liegt, weiß deshalb noch nichts: Wissen ist wahre Überzeugung, die nicht vom Zufall lebt — und wer Irrtum für möglich hält, ist darum noch lange kein Skeptiker.
-
 ### Spuren
 
 > **27.09.** — [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]]
 >
 > Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin.
-
-> **26.09.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
 
 ### GoodNews
 
