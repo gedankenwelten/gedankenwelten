@@ -2,7 +2,7 @@
 title: "Wie handelt eine Demokratie?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-09-30
+aktualisiert: 2026-10-04
 description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -81,6 +81,8 @@ Wie Menschen solche Verfahren bewerten, hängt stark vom Ergebnis ab. In zwölf 
 
 Der dritte Schritt, das Umsetzen, ist der am wenigsten beleuchtete. Wer im Ministerium einen Gesetzestext formuliert, gehört zur Macht, auch wenn ihn niemand wählt, und je kürzer die Gewählten im Amt sind, desto mehr Gewicht hat die Verwaltung. Ob geloste, rotierende Gremien sie besser kontrollieren oder ihr ausgeliefert wären, hat noch niemand untersucht.
 
+Für die Zukunft gibt es eigene Beratungsorgane, und ihre Geschichte ist ernüchternd. Finnlands Parlament hat seit 1993 einen Ausschuss für die Zukunft, der indirekt wirkt, über Expertise und Transparenz, als „kein Zauberhebel“ ([Koskimaa & Raunio 2020, doi:10.1080/13572334.2020.1738670](https://doi.org/10.1080/13572334.2020.1738670)). Wales verpflichtete 2015 alle öffentlichen Stellen auf künftige Generationen; nach zehn Jahren nennt ein Parlamentsausschuss die Umsetzung „zu langsam“ ([Senedd 2026](https://senedd.wales/senedd-now/news/landmark-future-generations-act-failing-to-deliver-the-change-it-promised/)). Israels Kommissar für künftige Generationen (2001–2006) durfte Ausschüsse zum Warten zwingen und wurde nach einer Amtszeit nicht neu besetzt, weil er zu viel störte; Ungarn stufte seinen Ombudsmann 2011 herab ([Smith 2020, doi:10.1177/0032321719885100](https://doi.org/10.1177/0032321719885100)). Solche Ämter sind umso gefährdeter, je wirksamer sie sind. Deutschlands Parlamentarischer Beirat für nachhaltige Entwicklung hat vor allem formale Aufmerksamkeit erzeugt ([Kinski & Whiteside 2022, doi:10.1080/09644016.2022.2031441](https://doi.org/10.1080/09644016.2022.2031441)).
+
 **Die Stimmen**
 
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Die Pyramide im Kreis|Ardalan Ibrahim]]:** Geloste Gremien sollen entscheiden, nicht empfehlen; ein zweites Losgremium bestimmt Tagesordnung und Experten, und die Regierung schrumpft zur Aufsicht über die Verwaltung.
@@ -90,10 +92,12 @@ Der dritte Schritt, das Umsetzen, ist der am wenigsten beleuchtete. Wer im Minis
 - **[[Anton Jaeger — Lohnt sich politisches Engagement noch#Postpolitik Als Politics und Policy sich schieden|Anton Jäger]]:** Die Politik wurde zum Spektakel, die Entscheidungen wanderten zu Technokraten ohne Mandat.
 - **[[Clara Mattei — Geschichte der Austeritaetspolitik#Zentralbank-Unabhängigkeit als Entdemokratisierung|Clara Mattei]]:** Die unabhängige Zentralbank ist ein Weg, Politik der Demokratie zu entziehen; sie gehört demokratisiert.
 - **[[Colin Crouch — Postdemokratie nach den Krisen#2. Die Selbstkritik — Drei Fehler seines Originalbuches|Colin Crouch]]:** Zentralbanken, Statistikämter und Gerichte schützen die Bürger gerade deshalb, weil sie nicht gewählt sind.
+- **[[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Der Zukunftsrat|Henrike von Scheliha]]:** Der Rat soll nichts entscheiden und nichts blockieren; aber das Parlament muss ihn anhören und begründen, wenn es abweicht. „Dann wird Zukunft eben nicht nur behauptet, sondern begründet mitgedacht.“
+
+<details><summary>Weitere Stimmen (7)</summary>
+
 - **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Die Definition, an der sich alle stoßen|Michael Hartmann]]:** Zur Elite gehört auch die Verwaltung, die die Gesetzestexte tatsächlich formuliert, oft mit Lobbyisten am Tisch.
-
-<details><summary>Weitere Stimmen (5)</summary>
-
+- **[[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Der Personalrat und die kleinen Knirpse|Aladin El-Mafaalani]]** (Personalrat): Im Bundesjugendkuratorium „hat keiner auf uns gehört“; ein öffentliches Gremium wirke wie ein Personalrat — „man macht den Blödsinn gar nicht erst“.
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Publikumsfragen|Hans Jessen]]:** Je kürzer und unerfahrener die Politiker, desto mächtiger die Beamten, wie in der BBC-Serie *Yes Minister*; ein Einwand gegen rotierende Gremien.
 - **[[Yanis Varoufakis — Technofeudalism#Der Doom Loop — Zentralbanken in der Falle|Yanis Varoufakis]]:** 2008 waren die Zentralbanken „the only game in town“, weil die Parlamente keine eigenen Werkzeuge geschaffen hatten.
 - **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Souveränitätsverlust → Protestwahl Die strukturelle Diagnose|Philip Manow]]:** Die Entscheidungen sind an EU, WTO und Gerichte gewandert; wer das merkt, wählt aus Protest.
@@ -193,6 +197,7 @@ Der am besten gestützte Mittelweg: die Beratung schützen, die Gründe offenleg
 | Datum | Note | Vertieft |
 |---|---|---|
 | 27.09.2026 | [[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Nachbesprechung|Ardalan Ibrahim — Die Partei für Losdemokratie]] | Gründungsnote: Beraten oder entscheiden (bindende Losgremien, Michigan, Paris, Guter Rat) · Vor der Kamera oder dahinter (Elster, Zentralbank-Protokolle, Begründung statt Prozess) |
+| 04.10.2026 | [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Nachbesprechung|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]] | Beraten oder entscheiden: Institutionen für künftige Generationen — Finnland (Koskimaa & Raunio), Wales (Senedd 2026), Israel und Ungarn abgeschafft bzw. herabgestuft (Smith 2020), Parlamentarischer Beirat (Kinski & Whiteside 2022); von Schelihas Begründungspflicht, El-Mafaalanis Personalrat |
 | 30.09.2026 | [[Philipp Blom — Die strauchelnde Welt#Nachbesprechung|Philipp Blom — Die strauchelnde Welt]] | Gründlich oder schnell? Gewöhnen sich Menschen an das Verordnete? Stockholm-Maut 36 → 53 → über 70 % (Börjesson et al. 2012, Eliasson 2014), Rauchverbote nur konsequent (Mons et al. 2012), Göteborg und Gelbwesten als Grenze (Hansla et al. 2017, Douenne & Fabre 2022); der dritte Weg: erst probieren, dann abstimmen |
 
 ---
@@ -210,6 +215,10 @@ Wer erlebt, dass eine Demokratie nicht handelt, sucht sich jemanden, der verspri
 ### → [[Panorama/Energie|Energie]]
 
 Der konkrete Fall für die erste Frage: Netzausbau, Genehmigungsdauer, ein Land, das eine Leitung jahrelang blockiert.
+
+### → [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
+
+Eine Antwort auf die Reibung in „Beraten oder entscheiden?“: Eine Verfassungsjuristin baut den Zukunftsrat ganz auf die Begründungspflicht, El-Mafaalani misstraut ihr aus der Erfahrung im Bundesjugendkuratorium und setzt auf öffentliche Hearings.
 
 ---
 

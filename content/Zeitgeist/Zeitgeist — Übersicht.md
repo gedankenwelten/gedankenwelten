@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*322 Notes — automatisch generiert · nach Thema sortiert*
+*323 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -165,6 +165,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/phoenix — Orbán abgewählt|phoenix — Orbán abgewählt]]
 - [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland|phoenixRunde — Arm und Reich in Deutschland]]
 - [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel|phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
+- [[Zeitgeist/Presseclub — Brandmauer nach links|Presseclub — Wer regiert die Hauptstadt? Kommt die Brandmauer nach links?]] — Vier Berliner Journalisten fragen zwei Wochen nach dem Wahlsieg der Linken, ob man mit einer Partei regieren kann, deren Erfolg an den Leuten hängt, von denen sie sich trennen müsste.
 - [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|Putins Zielscheibe Europa — Der Tag, an dem Berlin es beim Namen nannte]] — Ein Zünder, der nicht verbunden war, und ein Satz, der eine Schwelle markiert: Wie Europa lernt, eine Feindseligkeit zu benennen, ohne sie Krieg nennen zu dürfen.
 - [[Zeitgeist/rabbit hole — Ungarn-Wahl KI-Wahlkampf|rabbit hole — Ungarn-Wahl: Wird Politik zum KI-Albtraum?]]
 - [[Zeitgeist/republica26 — Wie gelingt die Energiewende|re:publica 26 — Wie gelingt die Energiewende? Und was bedeutet sie für unsere Demokratie?]] — Die Meinungsforscherin und der Netzbetreiber: Was die Deutschen mit der Energiewende verbinden — und warum Versorgungssicherheit das neue Wort für Freiheit ist.
@@ -276,7 +277,6 @@ Jede Note folgt einer eigenen Struktur:
 
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Januar 2026|Die Neuen Zwanziger — Salon Lektüren Januar 2026]]
 - [[Zeitgeist/Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]] — Siebzehn Tage vor dem Wahlsieg sagt Elif Eralp bei Tilo Jung, was sie will, und verweigert die eine Zahl, an der man sie messen könnte. Ein Protokoll des Versprechens, bevor es Macht wird.
-- [[Zeitgeist/Presseclub — Brandmauer nach links|Presseclub — Wer regiert die Hauptstadt? Kommt die Brandmauer nach links?]] — Vier Berliner Journalisten fragen zwei Wochen nach dem Wahlsieg der Linken, ob man mit einer Partei regieren kann, deren Erfolg an den Leuten hängt, von denen sie sich trennen müsste.
 - [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]] — Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
 - [[Zeitgeist/WDR Europaforum — Frieden schaffen mit immer mehr Waffen|Frieden schaffen mit immer mehr Waffen?]] — Drei Menschen streiten über Aufrüstung — und der Streit dreht sich nicht um Zahlen, sondern darum, wie weit man in die Zukunft rechnen darf, wenn heute Morgen die Sirenen gingen.
 - [[Zeitgeist/GfbV — Jesidische Familien in der Diaspora|GfbV — Jesidische Familien in der Diaspora]] — Ein Vortrag, der um Anerkennung bittet — zehn Monate bevor sie kam. Alles andere, worum er bittet, ist bis heute offen.

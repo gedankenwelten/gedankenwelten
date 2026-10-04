@@ -1080,6 +1080,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Stephan Marks
 **Status:** ✓ Vollanalyse → [[DenkerVita/Stephan Marks]]
 
+## Henrike von Scheliha
+**Status:** ✓ Vollanalyse → [[DenkerVita/Henrike von Scheliha]]
+
 ## Anke Myrrhe
 **Status:** ✓ Vollanalyse → [[DenkerVita/Anke Myrrhe]]
 

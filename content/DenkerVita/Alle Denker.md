@@ -236,6 +236,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Helen Keller|Helen Keller]]** — Völkerrechtlerin, Professorin an der Uni Zürich, neun Jahre Richterin am EGMR
 
+**[[DenkerVita/Henrike von Scheliha|Henrike von Scheliha]]** — Rechtswissenschaftlerin, Juniorprofessorin für Familien- und Erbrecht an der Bucerius Law School Hamburg, zuvor am Bundesverfassungsgericht (Dezernat Radtke); Recht auf Zukunft und prozedurale Generationengerechtigkeit — der Zukunftsrat junger Menschen mit Anhörung, Stellungnahme und Begründungspflicht; Kinder als Rechtsträgerinnen, reproduktive Gerechtigkeit (ReproGerecht)
+
 **[[DenkerVita/Jonathan Haidt|Jonathan Haidt]]** — Sozialpsychologe (NYU Stern); Moral Foundations Theory, der Reiter auf dem Elefanten, moralische Demut gegen die politische Spaltung; *The Righteous Mind* (2012), *The Coddling of the American Mind* (2018), *The Anxious Generation* (2024)
 
 **[[DenkerVita/Jana Hensel|Jana Hensel]]** — Schriftstellerin und Journalistin (*ZEIT*), Chronistin des Ostens seit *Zonenkinder* (2002); Hartz IV als erste Abbruchkante des ostdeutschen Demokratieglaubens, der materielle Kern des Rechtsrucks, gegen jeden Determinismus; *Es war einmal ein Land* (2026)

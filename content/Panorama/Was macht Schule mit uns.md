@@ -82,10 +82,12 @@ In der Schule selbst ist Mitsprache selten. Ein offenes Diskussionsklima im Unte
 
 Die dunkle Seite der Macht über Kinder hat Namen. An der Odenwaldschule wurden über 130 Betroffene gezählt; die Aufarbeitung beschreibt, wie das reformpädagogische Ideal der Nähe dem Missbrauch Deckung gab ([Keupp et al. 2019, doi:10.1007/978-3-658-23363-1](https://doi.org/10.1007/978-3-658-23363-1)). Nähe schützt also nicht von selbst. Was schützt, beschreibt Erich Fromm als rationale Autorität: eine, die auf Kompetenz beruht und sich überflüssig machen will. Die Erziehungsforschung findet ihr Gegenstück im warmen und fordernden Stil (Pinquart 2017, s. o.).
 
+Wie wenig Kinder in der Schule mitentscheiden, zeigen Befragungen seit zwanzig Jahren übereinstimmend. Zu Hause bestimmen drei Viertel der Zwölf- bis Achtzehnjährigen viel mit, in der Schule rund jeder Siebte ([Fatke & Schneider 2005](https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/GP_Kinder-_und_Jugendpartizipation_in_Deutschland.pdf)); Grundschulkinder bestimmen in der Schule am häufigsten den Sitznachbarn (World Vision Kinderstudie 2018). Beteiligung wirkt mäßig, aber gerichtet: auf Selbstwert, demokratische Kompetenz und das Verhältnis zu den Erwachsenen, kaum auf Leistung, fast nie schädlich ([Mager & Nowak 2012, doi:10.1016/j.edurev.2011.11.001](https://doi.org/10.1016/j.edurev.2011.11.001)). Autonomieunterstützung durch Lehrkräfte sagt die Lernmotivation stärker voraus als die durch Eltern ([Bureau et al. 2022, doi:10.3102/00346543211042426](https://doi.org/10.3102/00346543211042426)); die Schule hätte den größeren Hebel und nutzt ihn am wenigsten. Gefragt zu werden reicht dabei nicht: Beteiligung braucht Raum, Stimme, Gehör und Einfluss ([Lundy 2007, doi:10.1080/01411920701657033](https://doi.org/10.1080/01411920701657033)).
+
 **Die Stimmen**
 
 - **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Adultismus — die unsichtbare Diskriminierung|Aladin El-Mafaalani]]:** Junge Menschen werden wegen ihres Alters häufiger diskriminiert als Rentner, aber niemand hat dafür eine Sprache oder eine Lobby.
-- **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Scham, Recht und das Nötigste|Henrike von Scheliha]]:** Kinder haben mehr Recht auf Beteiligung, als ihnen gewährt wird; wer „großzügig“ sagt, macht einen Rechtsanspruch zur Gnade.
+- **[[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Großzügigkeit ist keine Rechtskategorie|Henrike von Scheliha]]:** „Minderheitenschutz darf nicht von Großzügigkeit abhängen“: Kinder tragen eigene Rechte auf Beteiligung, und sie brauchen Verfahren, die auch dann gelten, wenn die Erwachsenen nicht wohlwollend sind.
 - **[[Erich Fromm — Psychoanalyse des Faschismus#Erziehung als Gegenkraft Rationale vs. irrationale Autorität|Erich Fromm]]:** Legitime Autorität beruht auf Kompetenz und will sich überflüssig machen; irrationale herrscht durch Angst.
 - **[[Robert Musil — Die Verwirrungen des Zoeglings Toerless#Niemand wird bestraft|Robert Musil]]:** Die Institution bestraft nicht die Grausamkeit, sondern die Störung: Das Opfer fliegt, die Täter bleiben.
 - **[[Duezen Tekkal — Deutschland ist bedroht#Zuschauerfragen|Eine Berliner Grundschullehrerin]]:** Weinende Mädchen wollten mit zum Schwimmen, sie musste sie abweisen: „Das musst du mit deinem Vater verhandeln.“
@@ -93,8 +95,10 @@ Die dunkle Seite der Macht über Kinder hat Namen. An der Odenwaldschule wurden 
 - **[[republica26 — Social-Media-Verbot fuer Kinder#Das Containerschiff-Bild Regulierung auf Zeit|Kerstin Paschke]]:** Bis die Regulierung aufholt, nimmt man das kleine Boot aus dem Fahrwasser, Kinder also befristet von den Plattformen.
 - **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Gute direkte Beziehungen, schlechtes gesellschaftliches Generationenverhältnis|Aladin El-Mafaalani]]** (zweiter Befund): Die netten Eltern nehmen den Jungen den Hebel zur Rebellion gegen schlechte Zustände.
 
-<details><summary>Weitere Stimmen (6)</summary>
+<details><summary>Weitere Stimmen (8)</summary>
 
+- **[[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Publikumsfragen|Aladin El-Mafaalani]]** (Grundschule): „Die autoritärsten Familien ermöglichen ihren Kindern mehr Beteiligung als der Durchschnitt unserer Grundschulen“ — in der Richtung belegt, in der Spitze nicht gemessen.
+- **[[Judith Mangelsdorf — Flourishing und Mattering#Anti-Mattering — die Abwärtsspirale|Judith Mangelsdorf]]:** Schlimmer, als nicht gefragt zu werden, ist es, gefragt zu werden, wenn die Antwort keinen Unterschied macht.
 - **[[Markus Gabriel — Universelle Moral#Von Kindern lernen — Moralische Innovation statt Tradition|Markus Gabriel]]:** Kinder reden klüger über KI als Konzernchefs; er will moralische Innovation statt Tradition und ein Kinderwahlrecht.
 - **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Der Zukunftsrat — ein konkreter Reformvorschlag|Der Zukunftsrat]]:** Zehn- bis Zwanzigjährige prüfen jede Parlamentsentscheidung öffentlich, ohne Veto, mit Begründungspflicht.
 - **[[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht#Boarding School Syndrome (Schaverien 2015)|Luc]]:** Das Internat als totale Institution erzeugt Verlassenheit und Abspaltung, aus der später kalte Macht wird.
@@ -190,6 +194,7 @@ Bleibt die alte Frage, ob Schule bildet oder brauchbar macht. Inklusion schadet 
 | Datum | Note | Vertieft |
 |---|---|---|
 | 04.10.2026 | [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham#Nachbesprechung|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]] | Gründungsnote · Beschämen oder schonen: Kim et al. 2011, Leach & Cidam 2015 (reparierbares Versagen), Pinquart 2017, Brummelman 2014, Dresel 2024, INTAKT, Oser/Spychiger; Cyrulniks „kleine Gefäße“ gegen Pluess/Belsky |
+| 04.10.2026 | [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Nachbesprechung|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]] | Wer bestimmt über Kinder: Mitbestimmung Familie vs. Schule (Fatke & Schneider 2005, World Vision 2018, Kinderrechte-Index 2025), Wirkung (Mager & Nowak 2012, Bureau et al. 2022), Lundys vier Bedingungen; von Scheliha mit der ganzen Begründung, El-Mafaalanis Grundschul-Satz geprüft |
 
 ---
 
@@ -210,6 +215,10 @@ Münklers Aufzug und Bärfuss' Glück stehen in beiden: Was die Schule an Herkun
 ### → [[Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 
 „Was braucht Demokratie von ihren Bürgern?“ — die Antwort beginnt in der Schule, beim offenen Klassenklima und bei Wahlalter 16.
+
+### → [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
+
+Die ausführliche Fassung der Stimme von Scheliha in „Wer bestimmt über Kinder?“: Rechte statt Großzügigkeit, ein Zukunftsrat, die Murmelwahl in der Kita und der Satz, die autoritärsten Familien beteiligten ihre Kinder mehr als die Grundschule.
 
 ---
 

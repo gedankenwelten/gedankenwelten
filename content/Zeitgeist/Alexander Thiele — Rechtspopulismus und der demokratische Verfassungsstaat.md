@@ -355,6 +355,10 @@ Nach den Landtagswahlen 2026 zieht Hans Jessen dieselbe Summe wie Thieles erster
 
 Die Brandmauer, die stumpfe Klinge und der Moment 2013–2015, in dem es einmal funktionierte, stehen dort in der Frage „Was holt Wähler zurück?“.
 
+### → [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
+
+Auf „Ein Land ohne 2050“ antwortet eine Verfassungsjuristin mit einem Verfahren statt einer Erzählung: Sie liest aus dem Grundgesetz ein Recht auf Zukunft und will ihm einen Zukunftsrat junger Menschen geben.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

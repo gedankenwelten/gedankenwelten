@@ -198,6 +198,10 @@ Flassbecks Sparparadoxon gilt nicht nur für Kapitaldeckung, sondern auch für S
 
 Was hinter der Altersgrenze der Jugendhilfe liegt, zeigt die Drogenhilfe Halle: Für alle über 27, die Drogen nehmen, gibt es in der ganzen Stadt einen einzigen Streetworker, und über 27-jährige Alkoholkranke haben praktisch niemanden.
 
+### → [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
+
+„Minderheitenschutz darf nicht von Großzügigkeit abhängen“: Eine Verfassungsjuristin begründet, warum Kinderrechte ein Verfahren brauchen. Dieser Fall zeigt, was aus einem Rechtsanspruch wird, wenn über seinen Haushalt ohne die Betroffenen entschieden wird.
+
 ---
 
 ## Weiterdenken

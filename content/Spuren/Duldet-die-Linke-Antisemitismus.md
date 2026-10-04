@@ -14,7 +14,7 @@ status: offen
 konfidenz: 60%
 review-takt: 30-tage
 eroeffnet: 2026-09-27
-aktualisiert: 2026-09-27
+aktualisiert: 2026-10-04
 description: "Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin."
 ---
 
@@ -37,7 +37,7 @@ description: "Die Linke ist keine antisemitische Partei. Offen ist, ob sie dulde
 
 ## Die These
 
-> **Stand (Konfidenz 60 %, eröffnet 27.09.2026):** Die Linke **duldet in Berlin Antisemitismus in ihren Reihen.** Sie ist nach dem vorregistrierten Maßstab keine antisemitische Partei (Stufe A nicht erfüllt), aber ihr **Berliner Landesverband** steht auf **Stufe B**: Er ist im Sinne der britischen Gleichstellungsbehörde *verantwortlich* für Antisemitismus in seinen Reihen, weil er Positionen seiner Gliederungen und Mandatsträger duldet, ohne daraus Konsequenzen zu ziehen. Die Bundespartei liegt näher an Stufe C: Sie hat ein Problem, und sie handelt, wenn auch zögerlich.
+> **Stand (Konfidenz 60 %, eröffnet 27.09.2026, zuletzt geprüft 04.10.2026):** Die Linke **duldet in Berlin Antisemitismus in ihren Reihen.** Sie ist nach dem vorregistrierten Maßstab keine antisemitische Partei (Stufe A nicht erfüllt), aber ihr **Berliner Landesverband** steht auf **Stufe B**: Er ist im Sinne der britischen Gleichstellungsbehörde *verantwortlich* für Antisemitismus in seinen Reihen, weil er Positionen seiner Gliederungen und Mandatsträger duldet, ohne daraus Konsequenzen zu ziehen. Die Bundespartei lag bei der Anlage näher an Stufe C: Sie hat ein Problem, und sie handelte, wenn auch zögerlich. Nach dem Sweep vom 4. Oktober steht sie zwischen B und C.
 
 Die These ist an der **Praxis** falsifizierbar. Ob einzelne Mitglieder antisemitisch denken, ist nicht die Frage; das gibt es in jeder Partei. Die Frage ist, was die Partei mit denen macht, die in ihrem Namen sprechen. Wer sie wählt, kann keine Partei steuern; wem sie eine Bühne, ein Mandat oder Rückhalt gibt, schon.
 
@@ -79,9 +79,40 @@ Die Grauzone wird nie zu Stufe A gezählt, aber offen ausgewiesen, mit der Angab
 
 **Kalt, wenn** das Thema aus der öffentlichen Debatte verschwindet, ohne dass einer der Schritte erfolgt oder ausbleibt, der sich belegen ließe, oder wenn die Linke in Berlin die Regierungsbildung verliert und der Landesverband die offenen Fälle nicht mehr bearbeitet. Dann folgt eine Schluss-Bilanz ohne angemaßtes Urteil.
 
+**Präzisierung, vorab registriert am 04.10.2026**, vor dem Satzungsbeschluss vom 6. Oktober und vor dem Ergebnis der Vorgespräche: Eine Satzungsklausel oder eine Vereinbarung mit SPD und Grünen zählt als Schritt 4 nur, wenn sie (a) eine benannte Instanz, (b) Sanktionen und (c) die Anwendung auf mindestens einen der offenen Fälle enthält. Sonst ist sie eine Zusage, kein Schritt. Die Präzisierung verschärft den Maßstab, sie weicht ihn nicht auf.
+
 **Sonderregel zur Querachse:** Die Messung der Berichterstattung (unten) darf die Stufe weder heben noch senken. Eine laute Kampagne macht einen Vorwurf weder wahr noch falsch.
 
 ## Verlauf
+
+### 2026-10-04 — Erste Woche: Regeln nach vorn, kein Schritt zurück (Konfidenz 60 % → 60 %)
+
+*Außerplanmäßiger Kurz-Sweep. Anlass war der ARD-Presseclub vom 4. Oktober ([[Presseclub — Brandmauer nach links]]), Sherlock prüfte als Gegner.*
+
+**Befund, nach Kriterien:**
+
+**2 — Führung: keine eigene antisemitische Äußerung, aber die Abwehr als Kampagne wird deutlicher.** Seit Juni 2026 führen Ines Schwerdtner und Luigi Pantisano die Partei. Der Eintrag vom 27.09. nennt für den März noch van Aken, damals zu Recht. Schwerdtner sagte am 28. September: *„Seit dem Wahlsieg in Berlin läuft eine Kampagne gegen uns mit allen Mitteln“*, und wer den Vorwurf des Antisemitismus *„so leichtfertig“* erhebe, schwäche den Kampf gegen den realen ([n-tv](https://www.n-tv.de/politik/Schwerdtner-wirft-Union-Kampagne-mit-allen-Mitteln-vor-id31357419.html)). Der Anlass war konkret (Dobrindt, Reiche), die Formulierung allgemein. Das ist ein Grenzfall im Sinne des EHRC-Kriteriums, deutlicher als der Fall Abed. Pantisano wies den Vorwurf am 27. September im „Bericht aus Berlin“ zurück und nannte auch auf Nachfrage keine Konsequenzen. Ausschlüsse liefen über die *„ordentlichen Wege“* und würden nicht *„von oben herab“* entschieden ([dts](https://www.ad-hoc-news.de/politik/pantisano-weist-antisemitismusvorwuerfe-gegen-linke-zurueck/70190339)). Den Ausschluss Kilanis hatte die Bundesspitze 2024 allerdings selbst beantragt. Laut WELT bat die Spitze die Mitglieder intern, sich zu Koçak öffentlich zurückzuhalten ([WELT](https://www.welt.de/politik/deutschland/article6abf432785d64113fb06c5e2/kontakte-zum-remmo-clan-linke-fuehrung-ueber-kocak-einig-ausserhalb-des-verdachts-von-organisierter-kriminalitaet.html), eine Quelle, von der [taz](https://taz.de/Konsequenzen-fuer-Kocak/!6218425/) indirekt bestätigt).
+
+**3 — Amtsträger und Gliederungen: kein neuer Fall im gemeinsamen Kern.** Die LAG Palästinasolidarität rief am 29. September zum akademischen Boykott Israels auf ([ruhrbarone](https://www.ruhrbarone.de/die-linke-berlin-konsequenzen-fordern-nachfragen-aussitzen/268146/)). Das ist Grauzone: nach der JDA nicht per se antisemitisch, nach der IHRA strittig. Neben dem Hauptschauplatz: Nach Angaben der Vorsitzenden der Israelitischen Religionsgemeinschaft Württembergs ruft die Linke in Baden-Württemberg mit dem Palästinakomitee Stuttgart zu einer Kundgebung am 7. Oktober auf ([SWR](https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-linke-widerspricht-antisemitismusvorwuerfen-stuttgarter-ex-linken-chef-sieht-kampagne-gegen-die-partei-100.html)). Welche Gliederung dahintersteht, ist offen.
+
+**4 — Verfahren: ein datierter Schritt nach vorn, bei den offenen Fällen nichts.** Fraktions- und Landesvorstand wollen am 6. Oktober die Mandatsträgervereinbarung in die Fraktionssatzung schreiben. Sie verlangt eine Haltung gegen Antisemitismus und verbietet die Zusammenarbeit mit Akteuren, die den 7. Oktober glorifizieren ([rbb24](https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-fraktion-per-satzung-gegen-antisemitismus.html)). Wer über Verstöße entscheidet und was daraus folgt, ist nicht bekannt. In den Vorgesprächen am 1. und 3. Oktober, zusammen rund zehn Stunden, verlangen SPD und Grüne *„verbindliche Absprachen und Mechanismen“* für künftige Vorfälle. Einen öffentlichen Text gibt es nicht, das Ergebnis ist für die Woche ab dem 7. Oktober angekündigt ([tagesschau/rbb](https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html); [taz](https://taz.de/Vorgespraech-ueber-Linksbuendns/!6218450/)). Das Verfahren gegen Hannah Bruns läuft weiter auf Antrag von Mitgliedern, die Landesschiedskommission rechnet mit „mehreren Monaten“ ([Berliner Zeitung](https://www.berliner-zeitung.de/article/sabotageakt-linke-will-antisemitische-extremistin-ausschliessen-10422164)).
+
+**5 — Konsequenz: keine Sanktion auf einen belegten Fall.** Nachzutragen aus der Zeit vor der Anlage, und es entlastet: Laut Eralp (t-online, 15.09.) bewertete der geschäftsführende Landesvorstand den Dahabflex-Auftritt einstimmig als Fehler, und der Bezirksverband sagte zu, Veranstaltungen künftig mit der Landesspitze abzusprechen ([Wiedergabe bei ruhrbarone](https://www.ruhrbarone.de/die-linke-berlin-konsequenzen-fordern-nachfragen-aussitzen/268146/)). Ob die Zusage gehalten wird, lässt sich nicht prüfen.
+
+| Schritt (Frist 31.03.2027) | Stand am 04.10. |
+|---|---|
+| 1 — Landesvorstand trägt ein Verfahren mit | nicht erfolgt |
+| 2 — Ergebnis der Ombudsstelle | nicht erfolgt |
+| 3 — Koçak, Konsequenz über das Ruhenlassen hinaus | nicht erfolgt, Grenzfall: Er gab am 30. September den Sitz im Innenausschuss ganz ab und räumte am 2. Oktober Fehler ein, behält aber Mandat und Sprecherposten ([SPIEGEL](https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c); [rbb24](https://www.rbb24.de/politik/beitrag/2026/10/berlin-linke-kocak-fehler-eingeraeumt-umgang-remmo-clan.html)). Der Schritt war selbst gewählt, keine Sanktion, und er betrifft den Clan-Strang. Das Foto mit Ibrahim Ibrahim ist laut taz „nicht überzeugend aufgeklärt“ ([taz](https://taz.de/Debatte-um-Ferat-Kocak/!6218524/)). |
+| 4 — Aufarbeitung mit datierten Schritten | offen: Datiert ist nur die Satzung, und die regelt die Zukunft, nicht die Neuköllner Vorgänge. |
+
+**Nicht in die Kriterien:** Sören Pellmanns demonstrativer Eintritt in die Rote Hilfe und Koçaks Kontakte zum Remmo-Clan gehören zur Debatte über Linksextremismus und organisierte Kriminalität, nicht zur Frage dieser Spur. Sie zählen hier in keine Richtung.
+
+**Deutung:** Für Verfahren, die Monate dauern, ist eine Woche kein Befund. Berlin bleibt auf Stufe B, die Konfidenz bei 60 Prozent. Neu ist die Richtung. Unter dem Druck von SPD und Grünen baut der Landesverband gerade das, was die EHRC von Labour verlangt hat: veröffentlichte, verbindliche Regeln. Das alles zeigt nach vorn, für die zurückliegenden Fälle gibt es weiter keine Konsequenz. Beim Bund hat sich das Bild verschoben. Die Anlage sah die Bundespartei näher an C, weil sie handelt, wenn auch zögerlich. In dieser Woche lehnt der Co-Vorsitzende Anstöße von oben ab, die Spitze bittet intern um Zurückhaltung, die Bundestagsfraktion berät laut Pellmann *„keine weiteren Konsequenzen“* für Koçak, und Schwerdtner deutet den Vorwurf allgemein als Kampagne. Für den Bund heißt das: zwischen B und C, in dieser Woche eher B. Auf die Berliner Konfidenz wirkt sich das nicht aus.
+
+**Gegenbeobachtung:** Parteiausschlüsse sind rechtlich Sache der Schiedskommissionen ([BZPP-Blog der FU](https://blogs.fu-berlin.de/bzpp/2026/09/23/parteiausschlussverfahren-bei-der-linken-berlin/)). Pantisanos Verweis auf die „ordentlichen Wege“ ist also auch Rechtslage und nicht nur Ausflucht. Die Satzungsbindung, Vorgespräche mit dem Antisemitismus als Vorbedingung, Koçaks Fehlereingeständnis, die Zusage des Bezirks und die LAG Shalom, die intern verlangt, *„die antizionistischen Sektierer\*innen nicht gewähren zu lassen“* ([LAG Shalom, 21.09.](https://dielinke.berlin/zusammenschluesse/lag-shalom/details/news/257-unsere-gedanken-zum-wahlsieg/)), sind zusammen mehr Bewegung, als die Anlage erwartet hat. Im Presseclub fasste Anke Myrrhe die These dieser Spur fast wörtlich. Sebastian Puschner hielt dagegen, der Vorwurf werde gegen den Wahlsieger in Stellung gebracht. Beides kann zugleich stimmen.
+
+**Wachpunkte:** Satzungsbeschluss am 6. Oktober, Ergebnis der Vorgespräche ab dem 7. Oktober, die Stuttgarter Kundgebung am 7. Oktober. Ein Kurz-Sweep folgt am 8. oder 9. Oktober.
 
 ### 2026-09-27 — Anlage: sechs Kriterien, ein Landesverband auf der Grenze (Konfidenz — → 60 %)
 
@@ -122,6 +153,8 @@ Neben dem Urteil über die Partei misst diese Spur die Berichterstattung. Grundl
 
 Die hundert Artikel nach der Berliner Wahl bestanden zu knapp einem Drittel aus Forderungen und Warnungen politischer Akteure, zu einem guten Viertel aus Einordnungen und zu einem Fünftel aus Gegenstimmen. Zehn berichteten einen neuen Vorfall. Die Aufmerksamkeit ist mit der Macht gestiegen, und sie war asymmetrisch: Die AfD, deren Wähler beim klassischen Antisemitismus und bei der Schuldabwehr weit vorn liegen, geriet im Moment ihres Wahlsiegs kaum unter diese Linse. Der Grund liegt vermutlich in der Koalitionsfrage. In Berlin entscheidet der Vorwurf mit darüber, ob SPD und Grüne mit der Linken regieren. Bei der AfD steht keine Koalition auf dem Spiel, die an ihm hinge.
 
+**Nachtrag 04.10.2026, ohne neue Zählung:** Die Lautstärke ist weiter gestiegen und kommt jetzt auch über staatliche Kanäle. Bundesinnenminister Dobrindt antwortete bei „Maybrit Illner“ auf die Frage, ob Eralp Antisemitin sei, mit *„Na, doch“*, und Eralp und der Landesverband stellten Strafanzeige ([LTO](https://www.lto.de/recht/hintergruende/h/dobrindt-eralp-strafanzeige-antisemitismusvorwurf-maybrit-illner)). Gegen ein Video auf dem Kanal des Wirtschaftsministeriums, das der Linken nachsagt, sie lebe Antisemitismus offen, klagt die Partei auf Unterlassung, mit Berufung auf die Neutralitätspflicht ([DLF](https://www.deutschlandfunk.de/linke-geht-wegen-kritischem-video-gerichtlich-gegen-bundeswirtschaftsministerin-reiche-vor-100.html)). Das sächsische Innenministerium löschte einen Post seines Ministers ([ZEIT](https://www.zeit.de/politik/deutschland/2026-10/armin-schuster-instagram-x-innenministerium-sachsen-die-linke)), Unionsländer drohen Berlin bei einer Linksregierung mit Geldentzug ([taz](https://taz.de/Unionslaender-drohen-Berlin-bei-Linksregierung-mit-Geldentzug/!6217228/)). Der ARD-Presseclub vom 4. Oktober lief unter dem Titel „Brandmauer nach links“ und zitierte Kramp-Karrenbauer verkürzt: Ihre Warnung an die eigene Partei vor der „Geiselhaft der AfD“ fehlte ([[Presseclub — Brandmauer nach links#Faktencheck|Faktencheck]]). In die Gegenrichtung prüft der Tagesspiegel in einem Podcast die eigene Berichterstattung über die Linke ([taz](https://taz.de/Berichterstattung-ueber-die-Linkspartei/!6218077/)). Eine neue Medienzählung steht aus.
+
 Grenzen der Messung: Springer-Medien, NIUS, Tagesspiegel und Berliner Zeitung fehlen in der Datenbank. Ausgewertet wurden nur Titel und Anrisse, kodiert hat eine Person. Die Vorsortierung fand rund 94 Prozent der Treffer, das Übersehene lag überwiegend nach der Wahl.
 
 Für das Urteil über die Partei spielt diese Messung nach der eigenen Regel keine Rolle. Sie beantwortet eine zweite Frage, die der Forde-Bericht zu Labour so beantwortet hat: *„both factions treated it as a factional weapon“*, und zugleich *„we have seen no evidence that claims of antisemitism were fabricated by complainants“* ([Forde-Report, S. 7, 37](https://www.fordeinquiry.org/wp-content/uploads/2022/07/The-Forde-Report.pdf)). Der Vorwurf kann als Waffe dienen und trotzdem stimmen.
@@ -133,6 +166,7 @@ Für das Urteil über die Partei spielt diese Messung nach der eigenen Regel kei
 > - **Identitätsnähe:** Die Partei steht dem Betreiber dieser Seite näher als jede andere. Das Playbook warnt davor, den Schnitt am eigenen Herzen zu lernen. Die Gegenmaßnahme ist der vorab festgelegte Maßstab eines Dritten, dazu die Regel, dass die Einstufung B nur mit belegten Schritten verlassen werden kann und nicht mit Beteuerungen.
 > - **Abneigung:** Die unbequemste Zahl ist die eine, bei der die Linke-Wähler neben den AfD-Wählern stehen. Sie beruht auf 75 Befragten. Es wäre leicht, sie deshalb kleinzureden, und ebenso leicht, sie groß zu machen. Sie bleibt ein Kulturindikator mit Vorbehalt. Wenn eine größere Stichprobe kommt, gehört sie in den Verlauf, egal in welche Richtung.
 > - **Wachpunkt Definition:** Das Urteil hängt daran, dass nur der gemeinsame Kern zählt. Wer die IHRA allein anlegt, kommt für Niedersachsen und den Jugendverband zu Stufe A. Wer die JDA allein anlegt, sieht fast nur Grauzone. Die Spur hält beide Rechnungen offen, damit niemand sich die Definition nach dem gewünschten Ergebnis aussucht, auch sie selbst nicht.
+> - **Verlangen, erste Woche (04.10.):** Die Bewegung nach vorn, Satzung und Vorgespräche, fühlt sich an wie Einsicht, und genau das ist die Falle. Ohne die vorab festgelegte Regel hätte dieser Sweep die Satzung womöglich schon als Schritt 4 gezählt. Die Präzisierung steht deshalb vor dem 6. Oktober in der Falsifikation, nicht danach.
 > - **Wachpunkt Hauptschauplatz:** Neukölln ist, wo die Kameras stehen. Künftige Sweeps suchen auch daneben: andere Landesverbände, Kommunalparlamente, die Arbeit der BAG Shalom, und die Fälle, in denen die Partei gehandelt hat und niemand darüber berichtet.
 
 ## Muster — Labour als Spiegel
@@ -166,7 +200,7 @@ Wem gehört die Bedeutung einer Parole? Das Panorama beschreibt die Mechanik, an
 Am Tag nach der Berlin-Wahl erwartet Marina Kormbaki (SPIEGEL), ein Linksbündnis scheitere eher am Antisemitismus als an den Mieten. Eralps Distanzierung hält sie für glaubwürdig, die Bezüge ihrer Leute nicht für Ausnahmen.
 
 ### → [[Presseclub — Brandmauer nach links]]
-Zwei Wochen nach der Wahl streiten vier Berliner Journalisten im ARD-Presseclub über die Vorsondierungen. Anke Myrrhe formuliert fast wörtlich Stufe B: Die Mehrheit sei nicht antisemitisch, aber antisemitische Positionen dürften in einer Regierungspartei nicht folgenlos bleiben. Material für den nächsten Verlaufseintrag: der „Mechanismus“, den die Grünen verlangen, Pellmanns demonstrativer Eintritt in die Rote Hilfe, das eine öffentlich bekannte Ausschlussverfahren.
+Zwei Wochen nach der Wahl streiten vier Berliner Journalisten im ARD-Presseclub über die Vorsondierungen. Anke Myrrhe formuliert fast wörtlich Stufe B: Die Mehrheit sei nicht antisemitisch, aber antisemitische Positionen dürften in einer Regierungspartei nicht folgenlos bleiben. Die Sendung war Anlass des Sweeps vom 4. Oktober.
 
 ## Quellen
 

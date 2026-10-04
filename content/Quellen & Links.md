@@ -4704,6 +4704,17 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Website** | [menschenwuerde-scham.de](https://www.menschenwuerde-scham.de/) |
 | **Transkript** | `Gedankenwelten/Transkripte/Marks_Scham_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
 
+## Henrike von Scheliha & Aladin El-Mafaalani — Minderheitenschutz für Kinder?
+
+| | |
+|---|---|
+| **Video** | [Henrike von Scheliha & Aladin El-Mafaalani: Minderheitenschutz für Kinder?](https://www.youtube.com/watch?v=Ru341MOa0Hc) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (78 Min.) |
+| **Notiz** | [[Zeitgeist/Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder]] |
+| **DenkerVita** | [[DenkerVita/Henrike von Scheliha]] · [[DenkerVita/Aladin El-Mafaalani]] |
+| **Aufsatz** | von Scheliha: „Zukunftsrat – Stimme der Zukunft bei Entscheidungen der Gegenwart“, *ZRP* 58 (2025), S. 121–125 |
+| **Buch** | El-Mafaalani, Kurtenbach, Strohmeier: *Kinder – Minderheit ohne Schutz* (KiWi 2025) — [genialokal](https://www.genialokal.de/Suche/?q=el-mafaalani+kinder+minderheit+ohne+schutz) |
+| **Transkript** | `Gedankenwelten/Transkripte/Scheliha_Kinder_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
 ## Thomas Laschyk (Volksverpetzer) — Vermögenssteuer gegen Fake News
 
 | | |
