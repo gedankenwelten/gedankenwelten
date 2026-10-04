@@ -427,6 +427,10 @@ Die Probe auf seine Angst-These: Die US-Mordrate steuert auf den tiefsten Stand 
 
 Münklers Los mit Amtszwang hat einen Gegenentwurf bekommen: Ardalan Ibrahim will geloste Gremien ohne Zwang, die entscheiden statt nur zu beraten, und hält geschriebene Schranken wie Artikel 1 für Papier — genau der Demos ohne Rechtsstaat, vor dem Münkler warnt.
 
+### → [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
+
+Ein Mittelweg zwischen dem übergangenen Bürgerrat Ernährung und Münklers entscheidenden Losgremien: ein Zukunftsrat, dem das Parlament Gründe schuldet, in den Kommunen auch mit aufschiebendem Veto.
+
 ---
 
 ## Weiterdenken

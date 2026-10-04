@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **04.10.** — [[Zeitgeist/Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
+>
+> Kinder waren immer Außenseiter, aber früher waren sie die Mehrheit. Eine Verfassungsjuristin will ihnen Gehör verschaffen, das nicht von der Großzügigkeit der Alten abhängt.
+
 > **04.10.** — [[Zeitgeist/Presseclub — Brandmauer nach links|Presseclub — Wer regiert die Hauptstadt? Kommt die Brandmauer nach links?]]
 >
 > Vier Berliner Journalisten fragen zwei Wochen nach dem Wahlsieg der Linken, ob man mit einer Partei regieren kann, deren Erfolg an den Leuten hängt, von denen sie sich trennen müsste.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Russland war nie isoliert, nur aus Europa betrachtet: Hanna Notte und Sergey Lagodinsky über Dankbarkeit, die Moskau geerbt hat, und einen Westen, der seine eigenen Regeln zerbröseln ließ.
 
-> **03.10.** — [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene|Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
->
-> Ein Kasten Bier landet auf der Straße, und ein Neonazi der Neunziger trainiert heute Geflüchtete: wie man aus der Szene herausfindet, ohne je zu wissen, warum man hineinging — und warum die Geschichte beim Erzählen leichter wird.
-
-> → *10 weitere in* [[Zeitgeist]]
+> → *11 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -78,6 +78,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Vier offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
 
+> **04.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
+
 > **04.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
@@ -86,11 +90,13 @@ Die Gedankenwelten (luc)
 >
 > Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
-> **03.10.** — [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Wie kommt man aus der rechten Szene wieder heraus?]]
->
-> Hinein für die Jungs, heraus für ein Kind — und dazwischen oft zehn Jahre. Vier offene Fragen zum Ausstieg aus der rechten Szene, und die Stimmen, die sich an ihnen reiben.
-
 > → *4 weitere in* [[Panorama]]
+
+### Spuren
+
+> **04.10.** — [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]]
+>
+> Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin.
 
 ### Denker
 
@@ -105,12 +111,6 @@ Die Gedankenwelten (luc)
 > **22.09.** — [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere|Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
 >
 > Buber sucht das Du auf Augenhöhe, Levinas bestreitet, dass es sie geben darf. Zwei jüdische Denker, ein Gespräch, das nie stattfand — und die Frage, was zuerst kommt, die Begegnung oder die Verantwortung.
-
-### Spuren
-
-> **27.09.** — [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]]
->
-> Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin.
 
 ### GoodNews
 

@@ -186,3 +186,7 @@ Der Dalai Lama sucht dasselbe Ziel wie Gabriels universelle Moral — Werte ohne
 ### → [[Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]]
 
 Diagnes laterales Universales ist die erkenntnistheoretische Parallele zu Gabriels Universalismus „von unten" — ein Universales ohne Thron. Und der produktive Widerspruch: Gabriel behauptet objektiv erkennbare moralische Tatsachen, Diagne verlegt das Universale ganz in die unabschließbare Bewegung der Übersetzung.
+
+### → [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
+
+Die juristische Antwort auf das Kinderwahlrecht: Von Scheliha hält ein stellvertretendes Familienwahlrecht für verfassungsrechtlich kaum haltbar und erzwingt das Zugehen auf Kinder über einen Zukunftsrat mit Begründungspflicht.
