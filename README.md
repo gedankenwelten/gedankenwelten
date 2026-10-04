@@ -38,7 +38,7 @@ Rund 880 Notes in zehn Rubriken — die Texte liegen in [`content/`](content/), 
 
 ### Die Website
 
-[gedankenwelten.org](https://gedankenwelten.org) ist seit September 2026 eine eigene Fassung (Astro): eine Startseite, die zeigt, was zuletzt gedacht wurde, Notes mit Lesezeit und Zeitsprüngen ins Video, Suche, Feeds und einen [MCP-Server](https://gedankenwelten.org/MCP). Die Notes in diesem Repo sind dieselben — sie werden bei jeder Veröffentlichung synchronisiert. Die Wiki zum Selbst-Starten (Docker, unten) baut weiterhin mit Quartz.
+[gedankenwelten.org](https://gedankenwelten.org) ist seit September 2026 eine eigene Fassung (Astro): eine Startseite, die zeigt, was zuletzt gedacht wurde, Notes mit Lesezeit und Zeitsprüngen ins Video, Suche, Feeds und einen [MCP-Server](https://gedankenwelten.org/MCP). Die Notes in diesem Repo sind dieselben — sie werden bei jeder Veröffentlichung synchronisiert. Die Wiki zum Selbst-Starten (Docker, unten) baut weiterhin mit Quartz. Den Code der Website gibt es offen in [gedankenwelten/website](https://github.com/gedankenwelten/website) (MIT) — mit beiden Repos lässt sich die Seite selbst bauen.
 
 Und wer auf dem Bild einer Note genau hinsieht — zweimal —, findet vielleicht einen Raum, den keine Navigation verrät.
 
