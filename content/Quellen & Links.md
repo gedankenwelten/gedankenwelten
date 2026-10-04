@@ -6,6 +6,26 @@ tags:
   - links
 ---
 
+## Chris van Tulleken — Ultra-verarbeitete Lebensmittel (Royal Institution, 2023)
+
+| | |
+|---|---|
+| **Vortrag** | [The harsh reality of ultra processed food — with Chris van Tulleken](https://www.youtube.com/watch?v=5QOTBreQaIk) — Royal Institution, London, 19.09.2023, 58 Min |
+| **Buch** | *Ultra-Processed People* (2023), dt. *Gefährlich lecker* — [genialokal](https://www.genialokal.de/Suche/?q=van+tulleken+gefaehrlich+lecker) |
+| **Notiz** | [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel]] · [[DenkerVita/Chris van Tulleken]] |
+| **Transkript** | `Gedankenwelten/Transkripte/vanTulleken_UPF_RoyalInstitution_Transkript.txt` |
+| **Anlass** | Auf Andreas' Frage nach einer besseren Quelle als [LebenUSA — „USA: Das nennt ihr noch ESSEN?“](https://www.youtube.com/watch?v=i-hgfC--hX4) |
+
+## Michael Moss — Salz, Zucker, Fett (Cornell University, 2016 · TVO, 2013)
+
+| | |
+|---|---|
+| **Vortrag** | [Michael Moss: A Journey into the Underbelly of the Processed Food Industry](https://www.youtube.com/watch?v=BEEiHk_31xw) — Cornell University, Messenger Lecture, 17.02.2016, 58 Min |
+| **Gespräch** | [Michael Moss: How the Food Giants Hooked Us](https://www.youtube.com/watch?v=bs2auTOPUxE) — TVO *The Agenda* mit Steve Paikin, 2013, 26 Min |
+| **Artikel** | [The Extraordinary Science of Addictive Junk Food](https://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html) — New York Times Magazine, 2013 |
+| **Notiz** | [[Zeitgeist/Michael Moss — Salz Zucker Fett]] · [[DenkerVita/Michael Moss]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Moss_SaltSugarFat_Cornell_Transkript.txt` · `Gedankenwelten/Transkripte/Moss_SaltSugarFat_TVO_Transkript.txt` |
+
 ## Gert Scobel — Die Geister in der Maschine (scobel, 2026)
 
 | | |

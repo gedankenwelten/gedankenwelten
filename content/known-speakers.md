@@ -1058,3 +1058,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Andreas Schmitz
 **Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Schmitz]]
+
+## Chris van Tulleken
+**Status:** ✓ Vollanalyse → [[DenkerVita/Chris van Tulleken]]
+
+## Michael Moss
+**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Moss]]

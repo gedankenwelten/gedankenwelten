@@ -344,6 +344,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## M
 
+**[[DenkerVita/Michael Moss|Michael Moss]]** — US-Investigativjournalist (*New York Times*), Pulitzer-Preis 2010 für die Recherche über E.-coli-verseuchtes Hackfleisch; *Salt Sugar Fat* (2013, dt. *Das Salz-Zucker-Fett-Komplott*) und *Hooked* (2021) — der Bliss Point, die Kronjuwelen Salz, Zucker, Fett und eine Industrie, die von ihnen abhängiger ist als wir
+
 **[[DenkerVita/Martin Buber|Martin Buber]]** — jüdischer Religionsphilosoph (1878–1965), Wien–Heppenheim–Jerusalem; *Ich und Du* (1923), das dialogische Prinzip, Erzähler des Chassidismus, Bibelverdeutschung mit Rosenzweig, Binationalist; „Der Mensch wird am Du zum Ich“
 
 **[[DenkerVita/Judith Mangelsdorf|Judith Mangelsdorf]]** — Psychologin und Glücksforscherin; erste volle Professorin für Positive Psychologie im deutschsprachigen Raum (DHGS Berlin, seit 2021), Direktorin der DGPP; Wachstum braucht kein Leid (Meta-Analyse zu posttraumatischem und postekstatischem Wachstum, IPPA-Dissertationspreis 2019), Flourishing und Languishing als zwei Kontinua, Mattering und Anti-Mattering, *No wellness without fairness*
@@ -552,6 +554,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## U
 
 ## V
+
+**[[DenkerVita/Chris van Tulleken|Chris van Tulleken]]** — britischer Infektiologe (UCLH) und Professor am UCL, BBC-Wissenschaftsmoderator mit Zwillingsbruder Xand; *Ultra-Processed People* (2023, dt. *Gefährlich lecker*) — ultra-verarbeitete Lebensmittel als Hauptursache ernährungsbedingter Krankheit, die Finanzialisierung der Lebensmittelkonzerne, Warnhinweise statt Verbote
 
 **[[DenkerVita/Dana-Sophia Valentiner|Dana-Sophia Valentiner]]** — Juristin (Öffentliches Recht, HSU Hamburg), GFF-Vorstand; Grundrechte, Legal Gender Studies & wehrhafte Demokratie — Mitvorstellerin des GFF-Gutachtens zur Verfassungswidrigkeit der AfD
 

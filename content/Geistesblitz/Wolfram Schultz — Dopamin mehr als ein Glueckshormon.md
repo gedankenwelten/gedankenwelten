@@ -241,6 +241,15 @@ Dieselbe VTA, andere Quelle: Was Schultz als Reward Prediction Error beschreibt,
 
 Wo Schultz den neurobiologischen Kurzschluss beschreibt, setzt die Drogenhilfe Halle praktisch an: Mit Drug-Checking will sie Menschen erreichen, bevor aus Genusskonsum eine Abhängigkeit wird.
 
+### → [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
+
+Van Tulleken wendet das Vorhersage-Modell auf den Süßstoff an: Diet Coke kündigt dem Körper Zucker an, der nie eintrifft, ein Signal ohne die Sache selbst.
+
+### → [[Zeitgeist/Michael Moss — Salz Zucker Fett]]
+
+Moss zeigt, wie die Industrie das Belohnungssystem vermisst: Howard Moskowitz berechnet aus Tausenden Verkostungen den *bliss point*, die Süße, bei der ein Produkt am stärksten lockt.
+
+
 ---
 
 ## Weiterdenken

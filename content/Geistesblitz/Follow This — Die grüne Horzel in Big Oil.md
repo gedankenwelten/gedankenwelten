@@ -236,3 +236,7 @@ Follow This' Judo-Technik im Kleinen ist, was Hein für Europa im Großen forder
 ### → [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]]
 
 Derselbe Hebel von der anderen Seite: Follow This zwingt über die Aktionärsseite externalisierte Klimakosten zurück in die Bilanz, Bendsen über die Kredit- und Bewertungslogik der Banken — beide machen das Finanzsystem selbst zum Ort der Kostenwahrheit, statt an Konsumenten zu appellieren.
+
+### → [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
+
+Der Spiegelfall aus der Nahrungsindustrie: Bei van Tulleken nutzen aktivistische Investoren den Hebel der Hauptversammlung, um Konzernchefs abzusetzen, die Lebensmittel gesünder machen wollten, etwa Emmanuel Faber bei Danone.

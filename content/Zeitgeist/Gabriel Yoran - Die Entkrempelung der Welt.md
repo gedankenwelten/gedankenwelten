@@ -238,6 +238,15 @@ Yorans Abschnitt „Warum der Markt das nicht richtet" (Konzentration bei BSH, w
 
 Die Schwester-Note zum selben Anlass (Plastiktütenfreier Tag): Yoran zeigt von der Produktseite, *dass* die Einweg-Logik Krempel produziert und der Markt es nicht richtet — Bendsen setzt an der Bewertungslogik an, die genau dieses lineare Verhalten belohnt. Sein „Kostenwahrheit erzwingen" und ihr „versteckte Verluste sichtbar machen" sind derselbe Hebel, einmal als Forderung an die Politik, einmal als Werkzeug für Unternehmen und Banken.
 
+### → [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
+
+Was Yoran am Krempel zeigt, zeigt van Tulleken am Essen: ein Produkt, das der Bilanz dient, und ein Kritiker, der im Spiegel die eigene Altersvorsorge findet, bei ihm die Rente bei BlackRock.
+
+### → [[Zeitgeist/Michael Moss — Salz Zucker Fett]]
+
+Die „Erlaubnis zu täuschen" aus Moss' Recherche, Marshmallow-Geschmack ohne Marshmallow, ist Krempel auf dem Teller. Auch Moss findet dahinter keine Schurken, nur Aktionäre, die keinen Bissen weniger dulden.
+
+
 ---
 
 ## Weiterdenken

@@ -185,3 +185,7 @@ China sichert seine südamerikanischen Lieferketten parallel ab — über Invest
 ### → [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]]
 
 Kaczmarczyks Handelsbilanz-Kritik zeigt das System hinter den Rohstoffströmen, die ARTE am Beispiel Soja konkretisiert
+
+### → [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
+
+Van Tulleken folgt der Bohne bis ins Regal: Soja, Mais, Weizen und Reis werden zu billigen Pulvern zerlegt, aus denen ultra-verarbeitetes Essen entsteht. Die Rodung dafür lässt den „fliegenden Fluss" über dem Amazonas versiegen.

@@ -377,6 +377,11 @@ Blom beendet das Gespräch mit Morin, der im Mai 2026 gestorben ist. Die Verwand
 ### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 Ein Fall aus dem ländlichen Osten: Eichi, früher Neonazi, wurde durch seine Mannschaft aus Geflüchteten verändert, und dieselbe Mannschaft hört bei einem Dorfturnier „Geh mal zurück in dein Land“. Der Kontakt wirkte bei dem, der mitspielte, nicht bei denen, die am Rand standen.
 
+### → [[Zeitgeist/Michael Moss — Salz Zucker Fett]]
+
+Moss' Wende bei der Zuckersteuer ist ein Testfall für die Gewöhnung ans Verordnete: Er hielt sie erst für regressiv und ist inzwischen „umgeschwenkt", und selbst ein früherer Philip-Morris-Chef riet den Lebensmittelkonzernen, Regeln selbst vorzuschlagen.
+
+
 ---
 
 ## Weiterdenken
