@@ -1,4 +1,4 @@
-🇩🇪 **Deutsch** | [🇬🇧 English](README.en.md) | [🌐 28 Sprachen auf gedankenwelten.org](https://gedankenwelten.org/?lang=en)
+🇩🇪 **Deutsch** | [🇬🇧 English](README.en.md)
 
 ---
 
@@ -14,19 +14,33 @@ Eine eigene Welt ganz gewiss. Aber wir vernetzen unsere Welten mit jeder Interak
 
 ### Was du hier findest
 
-**[[Denker]]** — Manche Menschen widmen ihr Leben dem Denken. Hier begegnen sie einander: ihre Ideen, ihre Fragen, ihre Widersprüche. Vernetzt, weil Denken nie allein entsteht.
+Rund 880 Notes in zehn Rubriken — die Texte liegen in [`content/`](content/), lesen lässt es sich am schönsten auf [gedankenwelten.org](https://gedankenwelten.org).
 
-**[[Zeitgeist]]** — Was bewegt die Welt — und wer spricht darüber, und warum? Stimmen, die den Moment deuten. Mit Faktencheck, weil Haltung Verantwortung trägt.
+**[Denker](https://gedankenwelten.org/Denker)** — Manche Menschen widmen ihr Leben dem Denken. Hier begegnen sie einander: ihre Ideen, ihre Fragen, ihre Widersprüche. Vernetzt, weil Denken nie allein entsteht.
 
-**[[Geistesblitz]]** — Grundsätzliches Wissen und menschliche Schöpferkraft: Wissenschaft, Philosophie, Psychologie, Technik. Notes, die die Welt erklären und das Außergewöhnliche am Menschen sichtbar machen — den Funken, der Erkennen und Erschaffen verbindet. Zeitlos statt tagesaktuell.
+**[Zeitgeist](https://gedankenwelten.org/Zeitgeist)** — Was bewegt die Welt — und wer spricht darüber, und warum? Stimmen, die den Moment deuten. Mit Faktencheck, weil Haltung Verantwortung trägt.
 
-**[[Panorama]]** — Wenn mindestens drei Notes dasselbe Thema aus verschiedenen Winkeln beleuchten, entsteht eine verdichtete Perspektive. Was ergibt sich, wenn man die Einzelstimmen zusammenhält?
+**[Geistesblitz](https://gedankenwelten.org/Geistesblitz)** — Grundsätzliches Wissen und menschliche Schöpferkraft: Wissenschaft, Philosophie, Psychologie, Technik. Notes, die die Welt erklären und das Außergewöhnliche am Menschen sichtbar machen — den Funken, der Erkennen und Erschaffen verbindet. Zeitlos statt tagesaktuell.
 
-**[[Gedanken]]** — Persönliche Reflexionen und Denkanstöße. Keine fertigen Antworten — Denkbewegungen.
+**[Kultur](https://gedankenwelten.org/Kultur)** — Land und Leute, wie man sie selten zu sehen bekommt: gelebte Kultur, Alltag, das Fremde von innen — erzählt von Reisenden, die wirklich hinsehen.
 
-**[[DenkerVita]]** — Ausführliche Profile: Biografie, Werke, Kernthesen, Verbindungen. Wächst mit jeder analysierten Person.
+**[Spuren](https://gedankenwelten.org/Spuren)** — Lebende Thesen: ein Phänomen über die Zeit verfolgt, mit Verlauf, Gegenstimmen und der Frage, was die These widerlegen würde. Nachrichten als Prozess.
 
-**[[GoodNews]]** — Gute Nachrichten aus der Community. Persönliche Erlebnisse, positive Entwicklungen, Momente der Dankbarkeit. Im Geist von Epikur: Freude durch Einfachheit und Freundschaft.
+**[Panorama](https://gedankenwelten.org/Panorama)** — Wenn mehrere Notes dasselbe Thema aus verschiedenen Winkeln beleuchten, entsteht eine verdichtete Perspektive. Manche wachsen weiter: offene Fragen, zu jeder der Stand des Wissens und die Stimmen, die einander widersprechen.
+
+**[Gedanken](https://gedankenwelten.org/Gedanken)** — Persönliche Reflexionen und Denkanstöße. Keine fertigen Antworten — Denkbewegungen.
+
+**[DenkerVita](https://gedankenwelten.org/DenkerVita)** — Über 300 Profile: Biografie, Werke, Kernthesen, Verbindungen. Ein Fenster zum Menschen hinter den Gedanken.
+
+**[Vipassana](https://gedankenwelten.org/Vipassana)** — Die zehn Tage eines Kurses, Abend für Abend: das Fundament, auf dem hier geschaut wird.
+
+**[GoodNews](https://gedankenwelten.org/GoodNews)** — Gute Nachrichten, die tragen. Im Geist von Epikur: Freude durch Einfachheit und Freundschaft.
+
+### Die Website
+
+[gedankenwelten.org](https://gedankenwelten.org) ist seit September 2026 eine eigene Fassung (Astro): eine Startseite, die zeigt, was zuletzt gedacht wurde, Notes mit Lesezeit und Zeitsprüngen ins Video, Suche, Feeds und einen [MCP-Server](https://gedankenwelten.org/MCP). Die Notes in diesem Repo sind dieselben — sie werden bei jeder Veröffentlichung synchronisiert. Die Wiki zum Selbst-Starten (Docker, unten) baut weiterhin mit Quartz.
+
+Und wer auf dem Bild einer Note genau hinsieht — zweimal —, findet vielleicht einen Raum, den keine Navigation verrät.
 
 ### Das KI-Team
 
@@ -134,7 +148,7 @@ Sei geduldig, erkläre verständlich, biete immer Alternativen an.
 | **Was** | gedankenwelten.org lesen | Eigene Wiki im Browser | Interaktiver Vault | Semantische Suche via KI |
 | **Setup** | Keins | `docker compose up -d` | Ordner als Vault öffnen | `.mcp.json` — automatisch |
 | **Graph** | ✓ | ✓ | ✓ (interaktiv) | ✗ |
-| **Suche** | ✓ | ✓ | ✓ (schneller) | ✓ (semantisch, 12.500+ Chunks) |
+| **Suche** | ✓ | ✓ | ✓ (schneller) | ✓ (semantisch) |
 | **Querverbindungen** | ✓ | ✓ | ✓ (Backlinks) | ✓ (`explore_connections`) |
 | **Beitragen** | ✗ | ✓ (mit Fork) | ✓ (mit Fork) | ✗ |
 | **Offline** | ✗ | ✓ | ✓ | ✗ |
@@ -155,9 +169,9 @@ Dieses Repo enthält eine `.mcp.json` — wer es in **Claude Code** oder einem a
 
 | Tool | Was es tut |
 |---|---|
-| `search` | Semantische Suche über 12.500+ Textchunks — mit Relevanz-Score und Link zur Note |
+| `search` | Semantische Suche über die ganze Wissensbasis — mit Relevanz-Score und Link zur Note |
 | `read_note` | Volltext einer Note lesen — alle Abschnitte zusammengefügt, mit URL |
-| `list_thinkers` | Alle 30+ Denker-Profile mit Kernthemen und Querverweisen |
+| `list_thinkers` | Die Denker-Profile mit Kernthemen und Querverweisen |
 | `explore_connections` | Thematische Brücken zwischen Denkern, Interviews und Konzepten entdecken |
 
 ### Beispiele
@@ -234,7 +248,7 @@ Die KI merkt sich deinen Namen, deine Sprache und Interessen in einer lokalen `.
 ### Pipeline: Neue Note aus YouTube / Podcast / Artikel
 
 ```
-/gedankenwelten-note-pipeline
+/gedankenwelt
 ```
 
 Die Pipeline führt durch den gesamten Prozess:
@@ -341,7 +355,7 @@ Gedankenwelten lebt von Beiträgen. Das Modell ist einfach: **Fork → eigene No
    docker compose up   →   http://localhost:9999
 
 4. KI-Tool starten und Note erstellen:
-   claude              →   /gedankenwelten-note-pipeline
+   claude              →   /gedankenwelt
    gemini / codex / aider — funktionieren genauso
 
 5. Commit & Push in deinen Fork:
@@ -379,4 +393,4 @@ Die Gedanken sind frei.
 
 ---
 
-Gebaut mit [Quartz](https://github.com/jackyzha0/quartz) © Jacky Zhao, MIT License.
+Die lokale Wiki ist gebaut mit [Quartz](https://github.com/jackyzha0/quartz) © Jacky Zhao, MIT License. gedankenwelten.org ist eine eigene Fassung mit [Astro](https://astro.build).

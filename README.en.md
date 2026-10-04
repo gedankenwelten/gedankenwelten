@@ -1,4 +1,4 @@
-[🇩🇪 Deutsch](README.md) | 🇬🇧 **English** | [🌐 28 languages on gedankenwelten.org](https://gedankenwelten.org/?lang=en)
+[🇩🇪 Deutsch](README.md) | 🇬🇧 **English**
 
 ---
 
@@ -8,25 +8,39 @@
 
 Every person carries their own thought-world — shaped by experience, learning, and reflection. From that inner world, we look outward. These worlds aren't isolated: they connect with every interaction. We are all co-composers of the world we inhabit.
 
-→ [gedankenwelten.org](https://gedankenwelten.org/?lang=en)
+→ [gedankenwelten.org](https://gedankenwelten.org) (the notes are written in German)
 
 ---
 
 ### What you'll find here
 
-**[[Denker]]** (Thinkers) — Some people dedicate their lives to thinking. Here their ideas meet: questions, contradictions, connections. Networked, because thinking never happens in isolation.
+Around 880 notes in ten sections — the texts live in [`content/`](content/), the nicest way to read them is [gedankenwelten.org](https://gedankenwelten.org).
 
-**[[Zeitgeist]]** (Spirit of the Times) — What moves the world — and who speaks about it, and why? Voices interpreting the current moment. With fact-checks, because conviction carries responsibility.
+**[Denker](https://gedankenwelten.org/Denker)** (Thinkers) — Some people dedicate their lives to thinking. Here their ideas meet: questions, contradictions, connections. Networked, because thinking never happens in isolation.
 
-**[[Geistesblitz]]** (Flash of Insight) — Fundamental knowledge and human creative power: science, philosophy, psychology, technology. Notes that explain the world and make visible what is extraordinary about being human — the spark that joins knowing and creating. Timeless rather than topical.
+**[Zeitgeist](https://gedankenwelten.org/Zeitgeist)** (Spirit of the Times) — What moves the world — and who speaks about it, and why? Voices interpreting the current moment. With fact-checks, because conviction carries responsibility.
 
-**[[Panorama]]** — When three or more notes illuminate the same topic from different angles, a condensed perspective emerges. What becomes visible when you hold the individual voices together?
+**[Geistesblitz](https://gedankenwelten.org/Geistesblitz)** (Flash of Insight) — Fundamental knowledge and human creative power: science, philosophy, psychology, technology. Timeless rather than topical.
 
-**[[Gedanken]]** (Thoughts) — Personal reflections and provocations. No finished answers — movements of thought.
+**[Kultur](https://gedankenwelten.org/Kultur)** (Culture) — Lands and people as one rarely sees them: lived culture, everyday life, the foreign from within — told by travellers who really look.
 
-**[[DenkerVita]]** (Thinker Profiles) — Detailed profiles: biography, works, core theses, connections. Grows with every analyzed person.
+**[Spuren](https://gedankenwelten.org/Spuren)** (Traces) — Living theses: a phenomenon followed over time, with its history, counter-voices and the question of what would refute it. News as a process.
 
-**[[GoodNews]]** — Good news from the community. Personal experiences, positive developments, moments of gratitude. In the spirit of Epicurus: joy through simplicity and friendship.
+**[Panorama](https://gedankenwelten.org/Panorama)** — When several notes illuminate the same topic from different angles, a condensed perspective emerges. Some keep growing: open questions, the state of knowledge for each, and the voices that contradict one another.
+
+**[Gedanken](https://gedankenwelten.org/Gedanken)** (Thoughts) — Personal reflections and provocations. No finished answers — movements of thought.
+
+**[DenkerVita](https://gedankenwelten.org/DenkerVita)** (Thinker Profiles) — More than 300 profiles: biography, works, core theses, connections. A window onto the person behind the thoughts.
+
+**[Vipassana](https://gedankenwelten.org/Vipassana)** — The ten days of a course, evening by evening: the foundation from which everything here is observed.
+
+**[GoodNews](https://gedankenwelten.org/GoodNews)** — Good news that holds. In the spirit of Epicurus: joy through simplicity and friendship.
+
+### The website
+
+Since September 2026, [gedankenwelten.org](https://gedankenwelten.org) is its own build (Astro): a front page showing what was thought most recently, notes with reading time and jumps into the source video, search, feeds and an [MCP server](https://gedankenwelten.org/MCP). The notes in this repo are the same — they are synchronised with every publication. The self-hosted wiki (Docker, below) still builds with Quartz.
+
+And whoever looks closely at the picture of a note — twice — may find a room that no navigation reveals.
 
 ### The AI Team
 
@@ -51,15 +65,6 @@ All notes are created with AI assistance — analyzed, contextualized, cross-lin
 
 ---
 
-## 🌐 Multi-language Support
-
-The live website at [gedankenwelten.org](https://gedankenwelten.org) supports **28 languages** via automatic translation (DeepL + Cloudflare Workers). Simply add `?lang=en` to any URL, or use the language switcher widget on the site.
-
-Supported: Arabic, Bulgarian, Czech, Danish, Greek, English, Spanish, Estonian, Finnish, French, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Latvian, Norwegian, Dutch, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Swedish, Turkish, Ukrainian, Chinese.
-
-The original notes are written in German — translations are AI-generated and cached for performance.
-
----
 
 ## 🚀 Getting Started — with AI Guidance
 
@@ -162,7 +167,7 @@ The AI remembers your name, language, and interests in a local `.mnemosyne.md` (
 ### Pipeline: New Note from YouTube / Podcast / Article
 
 ```
-/gedankenwelt-note-pipeline
+/gedankenwelt
 ```
 
 The pipeline guides through the entire process:
@@ -267,7 +272,7 @@ Gedankenwelten thrives on contributions. The model is simple: **Fork → write y
    docker compose up   →   http://localhost:9999
 
 4. Start AI tool and create note:
-   claude              →   /gedankenwelt-note-pipeline
+   claude              →   /gedankenwelt
    gemini / codex / aider — work the same way
 
 5. Commit & Push to your fork:
@@ -305,4 +310,4 @@ Thoughts are free.
 
 ---
 
-Built with [Quartz](https://github.com/jackyzha0/quartz) © Jacky Zhao, MIT License.
+The local wiki is built with [Quartz](https://github.com/jackyzha0/quartz) © Jacky Zhao, MIT License. gedankenwelten.org is its own build with [Astro](https://astro.build).
