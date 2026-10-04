@@ -207,6 +207,8 @@ Wirtschaftlich ist Russland in Afrika klein: rund 18 Milliarden Dollar Handel, g
 
 Nottes These trägt also im Kern, und sie lässt sich schärfen: Die Soldaten gingen in die Ukraine, die Führung nach Moskau, und die Dankbarkeit wurde erst im 21. Jahrhundert wieder eingesammelt. Die Neutralität der Regierungen ist keine Russland-Liebe der Bevölkerungen. Und die Enttäuschung über den Westen braucht keine russische Hilfe, um wahr zu sein.
 
+→ Weiter im Panorama: **[[Wie umgehen mit Russland#Warum hört der Globale Süden zu|Warum hört der Globale Süden zu?]]**, mit Sham Jaff gegen Elmar Theveßen, Prashad, Heinrichs Whataboutism-These, Felwine Sarr und der Frage, wem die Anklage der Doppelmoral gehört.
+
 ### Wirken die Sanktionen?
 
 Lagodinsky nennt die Isolation nötig und trotzdem „zu einfach“, Notte beschreibt ein Land, das strukturell geschwächt ist und doch „noch gut eine Weile weiterkämpfen“ kann. Die Forschung gibt beiden recht, und das ist weniger bequem, als es klingt.
@@ -219,7 +221,7 @@ Nottes Zahlen zur China-Abhängigkeit halten zur Hälfte: China liefert rund 39 
 
 Bleibt Lagodinskys Völkerrechts-Skrupel. Er entspricht der Mehrheitsmeinung — die Vollstreckungsimmunität von Zentralbanken steht einer Einziehung entgegen, auch wenn manche sie als Gegenmaßnahme für vertretbar halten ([Kamminga 2023](https://doi.org/10.1007/s40802-023-00231-7), peer-reviewed). Der Stand ist der, den er beschreibt: Im Dezember 2025 setzte die EU die Gelder dauerhaft fest, der Reparationskredit scheiterte vor allem an Belgien, wo Euroclear rund 185 Milliarden Euro Zentralbankvermögen verwahrt; stattdessen kamen die 90 Milliarden aus gemeinsamer Schuld, und die Ukraine zahlt nur zurück, wenn Russland Reparationen leistet ([Europäisches Parlament, Februar 2026](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33903/parliament-approves-EU90-billion-ukraine-support-loan-package)). Vertagt, nicht gelöst, sagt das Max-Planck-Institut für Völkerrecht. Lagodinskys „irgendwann wird sich die Frage stellen“ beschreibt also schlicht die Tagesordnung.
 
-*Beide Themen stehen noch ohne Panorama im Nachbesprechungs-Register und warten dort auf Geschwister.*
+→ Weiter im Panorama: **[[Wie umgehen mit Russland#Isolieren oder reden|Isolieren oder reden?]]**, mit Merkel, van Aken gegen Šešelgytė, Herrmanns „Putin kann nicht aufhören“ und der Forschungslücke auf der Seite der Verhandlungen.
 
 ---
 
@@ -339,6 +341,10 @@ Die Nahaufnahme zu Nottes Antwort auf die Frage nach den hybriden Angriffen: „
 ### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
 
 Lagodinsky hofft auf einen KI-Vertrag nach dem Vorbild der Atomwaffenabkommen. Dahlmann bilanziert über zehn Jahre UN-Prozess: Präventive Verbote gelangen bisher nur, wo der militärische Nutzen gering war; ABC-Waffen wurden erst geächtet, nachdem sie gewirkt hatten. Die Vision und die nüchterne Bilanz gehören nebeneinander.
+
+### → [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+
+Das wachsende Panorama, das aus dieser Note entstand: vier offene Fragen — Was will Putin? Isolieren oder reden? Warum hört der Globale Süden zu? Wie schützt man sich vor dem hybriden Krieg? — und die Stimmen des Bestands dazu.
 
 ### → [[DenkerVita/Hanna Notte|Hanna Notte — DenkerVita]]
 

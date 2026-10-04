@@ -66,6 +66,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **04.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Vier offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
 > **03.10.** — [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Wie kommt man aus der rechten Szene wieder heraus?]]
 >
 > Hinein für die Jungs, heraus für ein Kind — und dazwischen oft zehn Jahre. Vier offene Fragen zum Ausstieg aus der rechten Szene, und die Stimmen, die sich an ihnen reiben.
@@ -82,11 +86,7 @@ Die Gedankenwelten (luc)
 >
 > Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
-> **28.09.** — [[Panorama/Forschung|Forschung]]
->
-> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
-
-> → *2 weitere in* [[Panorama]]
+> → *3 weitere in* [[Panorama]]
 
 ### Denker
 
