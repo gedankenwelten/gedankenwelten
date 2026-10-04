@@ -67,3 +67,6 @@ Die Gedanken sind frei. Aber nicht jeder Gedanke, der als Wahrheit verkleidet ko
 - [[Gedanken/Der Leuchtturm — Warum Gedankenwelten existiert]] — der Leuchtturm-Gedanke beschreibt das *Warum* von Gedankenwelten. Die elastische Brandmauer beschreibt das *Wie*.
 - [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert]] — Auslöser dieser Reflexion: IT Marios AfD-Wortschatz-Befund und BSW-Überraschung als Beispiel für unbequeme Wahrheiten, die durch eine ehrliche Methode kommen.
 - [[Zeitgeist/Marcant — Ausstieg aus der rechten Szene]] — Marcant als lebendiges Beispiel: keine Angriffsfläche, kein Dogma, keine Flanke. Was schwach aussieht, hält am meisten aus.
+
+### → [[Presseclub — Brandmauer nach links]]
+Die Brandmauer-Frage nach links, im ARD-Presseclub nach der Berlin-Wahl. Anke Myrrhes Fairness-Regel „Nimm links, setze rechts“ endet mit dem Satz „Die Rechten werden es ausschlachten“, also mit genau dem Kriterium, das diese Note als Maßstab für ein Urteil zurückweist.

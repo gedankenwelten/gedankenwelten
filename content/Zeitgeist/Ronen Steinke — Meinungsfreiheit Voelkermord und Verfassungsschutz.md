@@ -268,3 +268,5 @@ Vier taz-Journalist:innen wenden Steinkes Befund auf konkrete 2026-Fälle an: §
 
 Eralp zieht aus dem NSU-Komplex den Schluss, den Steinkes Sonderweg-Befund nahelegt: V-Leute mit Skepsis sehen und den Dienst langfristig durch eine offen arbeitende Einrichtung ersetzen. Bei Jung antwortet auch sie auf Nahost als Juristin, gegen den Druck von links.
 
+### → [[Presseclub — Brandmauer nach links]]
+Steinkes Wort von der „Hexenjagd“ wird im Presseclub zur Mitgliedschaft Elif Eralps in der Roten Hilfe zitiert. Sebastian Puschner verbindet es mit der Angst vor der ersten Anwendung von Artikel 15, Sascha Chaimowicz hält die Satzung dagegen und braucht den Verfassungsschutz für sein Urteil nicht.

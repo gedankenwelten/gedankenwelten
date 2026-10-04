@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **04.10.** — [[Zeitgeist/Presseclub — Brandmauer nach links|Presseclub — Wer regiert die Hauptstadt? Kommt die Brandmauer nach links?]]
+>
+> Vier Berliner Journalisten fragen zwei Wochen nach dem Wahlsieg der Linken, ob man mit einer Partei regieren kann, deren Erfolg an den Leuten hängt, von denen sie sich trennen müsste.
+
 > **04.10.** — [[Zeitgeist/Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
 >
 > Beginnt Großzügigkeit dort, wo die Gerechtigkeit endet, oder ist sie nur ihr freundlicherer Name? Vier Stimmen streiten über die Gabe, den Backlash und einen Kuchen, der nicht mehr wächst.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Kasten Bier landet auf der Straße, und ein Neonazi der Neunziger trainiert heute Geflüchtete: wie man aus der Szene herausfindet, ohne je zu wissen, warum man hineinging — und warum die Geschichte beim Erzählen leichter wird.
 
-> **03.10.** — [[Zeitgeist/Philip Schlaffer — Kann man sich aendern|Philip Schlaffer — Kann man sich ändern?]]
->
-> Zwanzig Jahre Täter, ein abgehängter Spiegel in der Zelle, ein Sportverein, der heimlich abstimmt — und eine Zuhörerin, die sagt: Vergeben dürfen nur die Opfer.
-
-> → *9 weitere in* [[Zeitgeist]]
+> → *10 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 

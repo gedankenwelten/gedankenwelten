@@ -165,6 +165,9 @@ Wem gehört die Bedeutung einer Parole? Das Panorama beschreibt die Mechanik, an
 
 Am Tag nach der Berlin-Wahl erwartet Marina Kormbaki (SPIEGEL), ein Linksbündnis scheitere eher am Antisemitismus als an den Mieten. Eralps Distanzierung hält sie für glaubwürdig, die Bezüge ihrer Leute nicht für Ausnahmen.
 
+### → [[Presseclub — Brandmauer nach links]]
+Zwei Wochen nach der Wahl streiten vier Berliner Journalisten im ARD-Presseclub über die Vorsondierungen. Anke Myrrhe formuliert fast wörtlich Stufe B: Die Mehrheit sei nicht antisemitisch, aber antisemitische Positionen dürften in einer Regierungspartei nicht folgenlos bleiben. Material für den nächsten Verlaufseintrag: der „Mechanismus“, den die Grünen verlangen, Pellmanns demonstrativer Eintritt in die Rote Hilfe, das eine öffentlich bekannte Ausschlussverfahren.
+
 ## Quellen
 
 - [EHRC: Investigation into antisemitism in the Labour Party (2020)](https://www.equalityhumanrights.com/sites/default/files/investigation-into-antisemitism-in-the-labour-party.pdf) — der übernommene Maßstab

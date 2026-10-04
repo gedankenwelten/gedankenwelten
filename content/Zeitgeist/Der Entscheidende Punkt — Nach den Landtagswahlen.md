@@ -322,6 +322,9 @@ Hensels Abschlusstipp macht die Spur konkret. Im Magdeburger Patt braucht Siegmu
 ### → [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 Drei Tage vor dieser Wahl fürchtet in Torgelow ein früherer Neonazi ein hohes AfD-Ergebnis, weil seine Stelle im Jugendclub an den Geflüchteten hängt, die dort ein- und ausgehen. In den Neunzigern war er in Neubrandenburg in der Szene, in derselben Gegend, an die sich Tilo Jung hier erinnert.
 
+### → [[Presseclub — Brandmauer nach links]]
+Kormbakis Prognose vom Tag nach der Wahl wird zwei Wochen später im Presseclub fast wörtlich bestätigt. Anke Myrrhe hält Eralp für glaubwürdig und ihre Leute nicht für Ausnahmen, und sie fürchtet die Enttäuschung, wenn die Mieten nicht sinken.
+
 ---
 
 ## Weiterdenken

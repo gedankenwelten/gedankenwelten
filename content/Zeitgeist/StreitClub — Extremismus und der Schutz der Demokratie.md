@@ -392,6 +392,9 @@ Quents funktionale Äquivalenz von beiden Seiten erlebt: In den Neunzigern bot e
 ### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
 Quent sagt, bei ihm sei es Zufall gewesen, welche CD er bekam. Der Ex-Neonazi Felix Benneckenstein hält dagegen: „Ich habe mir das gezielt rausgepickt.“
 
+### → [[Presseclub — Brandmauer nach links]]
+Kazims Misstrauen gegen den Verfassungsschutz als Kronzeugen kehrt im Presseclub nach der Berlin-Wahl wieder, gegen links gewendet: Sebastian Puschner relativiert mit dem NSU die Einstufung der Roten Hilfe, Anke Myrrhe hält ihm die Regel „Nimm links, setze rechts“ entgegen, wer der Behörde hier misstraue, könne sich beim AfD-Verbot nicht auf sie berufen.
+
 ---
 
 ## Weiterdenken

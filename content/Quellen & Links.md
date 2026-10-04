@@ -4832,3 +4832,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Transkript** | `Gedankenwelten/Transkripte/Schmitz_SMR_Akkudoktor_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
 | **Standbilder** | `Gedankenwelten/assets/Akkudoktor-SMR_395/525/795/985/1255.jpg` (Grafiken des Kanals, CC BY) |
 
+
+## ARD-Presseclub — Wer regiert die Hauptstadt? Kommt die Brandmauer nach links?
+
+| | |
+|---|---|
+| **Video** | [presseclub \| Wer regiert die Hauptstadt: Kommt die „Brandmauer“ nach links? \| 04.10.26](https://www.youtube.com/watch?v=tHkdixdCoSY) — phoenix, 04.10.2026 (57 min, inkl. *Presseclub nachgefragt*) · Parallelfassung [tagesschau](https://www.youtube.com/watch?v=fkwH-9lpTQY) |
+| **Sendungsseite** | [WDR-Programmvorschau mit Gästeprofilen](https://www.wdr.de/programmvorschau/ard/sendung/2026-10-04/12-03/poc_import_4004969955/presseclub.html) |
+| **Notiz** | [[Zeitgeist/Presseclub — Brandmauer nach links]] |
+| **DenkerVita** | [[DenkerVita/Anke Myrrhe]] · [[DenkerVita/Sebastian Puschner]] · [[DenkerVita/Sascha Chaimowicz]] · [[DenkerVita/Christine Dankbar]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Presseclub_Brandmauer_Links_Transkript.txt` (YouTube-Automatikuntertitel, deutsch; Sprecher per Standbild zugeordnet) |
