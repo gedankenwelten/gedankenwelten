@@ -3,7 +3,7 @@ title: "Wie handelt eine Demokratie?"
 date: 2026-09-27
 erstellt: 2026-09-27
 aktualisiert: 2026-10-04
-description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben."
+description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, und wer bewacht die Handelnden? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
   - panorama
@@ -28,7 +28,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Eine Demokratie muss nicht nur wissen, wer entscheiden darf. Sie muss auch vom Willen zur Tat kommen, und daran zweifeln gerade viele: Reformen bleiben liegen, Genehmigungen dauern ein Jahrzehnt, Bürgerräte beraten, und niemand setzt um. Dieses Panorama ist ein Ast aus [[Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]. Der Stamm fragt nach der Bauweise, also danach, wer entscheiden darf; hier geht es um das Handeln. Vier offene Fragen: Woran bleibt die Sachfrage hängen? Wer berät, wer entscheidet, wer setzt um? Muss Demokratie langsam sein? Und wer bewacht die, die handeln? Das Los ist dabei eines von mehreren Werkzeugen. Zu jeder Frage steht, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen, jede mit einem Klick an der Stelle, an der sie es sagt.
+> Eine Demokratie muss nicht nur wissen, wer entscheiden darf. Sie muss auch vom Willen zur Tat kommen, und daran zweifeln gerade viele: Reformen bleiben liegen, Genehmigungen dauern ein Jahrzehnt, Bürgerräte beraten, und niemand setzt um. Dieses Panorama ist ein Ast aus [[Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]. Der Stamm fragt nach der Bauweise, also danach, wer entscheiden darf; hier geht es um das Handeln. Fünf offene Fragen: Woran bleibt die Sachfrage hängen? Wer berät, wer entscheidet, wer setzt um? Muss Demokratie langsam sein? Was kostet ein Versprechen, das nicht gehalten wird? Und wer bewacht die, die handeln? Das Los ist dabei eines von mehreren Werkzeugen. Zu jeder Frage steht, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen, jede mit einem Klick an der Stelle, an der sie es sagt.
 
 > [!info] Ein wachsendes Panorama
 > Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Die erste war [[Ardalan Ibrahim — Die Partei fuer Losdemokratie|Ardalan Ibrahim bei Jung & Naiv]] im September 2026, der Gründer einer Partei, die die Macht dem Los anvertrauen will. Unten steht, welche Notes seither dazukamen.
@@ -155,6 +155,41 @@ Die Gegenbewegung sind Beschleunigungsgesetze, die Beteiligung und Klagerechte b
 
 ---
 
+## Was kostet ein Versprechen, das nicht gehalten wird?
+
+Die Rückseite des Handelns ist das Versprechen, das liegen bleibt. Die Forschung räumt zuerst mit einem Vorurteil auf. Eine Auswertung von über 20.000 Wahlversprechen aus 57 Wahlkämpfen in zwölf Ländern fand, dass Regierungsparteien die meisten einlösen, Alleinregierungen am häufigsten, Koalitionspartner seltener, je weniger Macht sie im Bündnis haben (Thomson et al. 2017, [doi:10.1111/ajps.12313](https://doi.org/10.1111/ajps.12313), große Vergleichsstudie). Die Bürger glauben trotzdem das Gegenteil; Elin Naurin nennt das „Pledge Puzzle“ ([Naurin 2011, doi:10.1057/9780230319301](https://doi.org/10.1057/9780230319301)).
+
+Ein Grund liegt darin, wie Wähler rechnen. Gebrochene Versprechen wiegen schwerer als gehaltene, und eine Einlösung kann bei Nicht-Anhängern mehr kosten, als sie bei Anhängern bringt (Naurin, Soroka & Markwat 2019, [doi:10.1177/0010414019830740](https://doi.org/10.1177/0010414019830740), zwei Experimente mit 23.000 Befragten). Wer mehr Versprechen hält, verliert seltener Wahlen ([Matthieß 2020, doi:10.1111/1475-6765.12377](https://doi.org/10.1111/1475-6765.12377), 69 Wahlen in 14 Ländern), und wer der Politik wenig traut, straft härter ([Matthieß 2022, doi:10.1016/j.electstud.2022.102547](https://doi.org/10.1016/j.electstud.2022.102547), deutsches Experiment). Juniorpartner verlieren besonders oft, weil sie wenig durchsetzen und sich schwer abgrenzen ([Klüver & Spoon 2020, doi:10.1086/708239](https://doi.org/10.1086/708239)). Die Gegenbefunde gehören dazu: Wähler verzeihen Nichterfüllung, wenn sie die Hürden der Koalition sehen ([Ylisalo et al. 2025, doi:10.1017/s0007123425100860](https://doi.org/10.1017/s0007123425100860)), und ein gebrochenes Versprechen schadet dem Urteil im Sachgebiet, kaum dem Gesamturteil, bei der eigenen Seite wird es kleingeredet ([Zoizner & Amsalem 2025, doi:10.1177/19401612251317261](https://doi.org/10.1177/19401612251317261)).
+
+Wohin die Enttäuschten gehen, hängt vom Angebot ab. Misstrauen führt in die Nichtwahl, zu ungültigen Stimmen oder zu Populisten ([Hooghe, Marien & Pauwels 2011, doi:10.1111/j.1477-7053.2010.01338.x](https://doi.org/10.1111/j.1477-7053.2010.01338.x)), und die Protestwahl vertieft das Misstrauen weiter ([Hooghe & Dassonneville, doi:10.1017/gov.2016.18](https://doi.org/10.1017/gov.2016.18)). Über alle Studien hinweg ist der Zusammenhang zwischen Vertrauen und Wahlentscheidung aber nur schwach bis mäßig ([Devine 2024, doi:10.1007/s11109-024-09916-y](https://doi.org/10.1007/s11109-024-09916-y), Meta-Analyse über 61 Studien).
+
+Die Fälle zeigen, wie verschieden das ausgeht. Berlin hat drei Enttäuschungen hinter sich: den Verkauf der GSW 2004 durch den rot-roten Senat, nach dem die PDS von 22,6 auf 13,4 Prozent fiel, aus mehreren Gründen und vor allem in die Nichtwahl; den Mietendeckel, den Karlsruhe 2021 kippte, und nach dem der Volksentscheid fünf Monate später gewann; den liegen gebliebenen Entscheid, der 2026 der Linken 75.000 frühere Nichtwähler brachte ([[Presseclub — Brandmauer nach links#Was macht eine enttäuschte Hoffnung mit einer Stadt?|Nachbesprechung]]). Syriza brach 2015 ihr Kernversprechen, gewann im September trotzdem wieder und verlor erst Jahre später, an die Konservativen ([Tsatsanis & Teperoglou 2016, doi:10.1080/13608746.2016.1208906](https://doi.org/10.1080/13608746.2016.1208906)). Labour unter Starmer verbrannte eine Hoffnung mit einer symbolischen ersten Kürzung.
+
+**Die Stimmen**
+
+- **[[Presseclub — Brandmauer nach links#Die Miete, um die es eigentlich ging|Anke Myrrhe]]:** Die Linke hat so getan, als könne sie Berlin wieder bezahlbar machen; sie hat Angst davor, was die Enttäuschung danach mit der Stadt macht.
+- **[[Presseclub — Brandmauer nach links#Die Miete, um die es eigentlich ging|Sebastian Puschner]]:** Ein Volksentscheid mit klarem Ergebnis ist ein Auftrag, und der nächste Volksentscheid setzt den Druck von unten fort.
+- **[[Herfried Muenkler — Die Sehnsucht nach Ordnung#Die Schule der Urteilsfähigkeit|Herfried Münkler]]:** Der Vorwurf gebrochener Wahlversprechen ist „eigentlich Blödsinn“, verbindlich wären sie nur bei absoluter Mehrheit.
+- **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Die lange Abschiedsbewegung|Jana Hensel]]:** Hartz IV war im Osten die erste sichtbare Abbruchkante, drei Jahre nachdem er Schröder im Amt gehalten hatte; der Protest ging erst zur PDS, später zur AfD.
+- **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Die Hoffnungspartei|Marina Kormbaki]]:** Die AfD ist zur Hoffnungspartei geworden, für Nichtwähler, die sich verraten fühlen, und das Gefühl ist oft real unterfüttert.
+- **[[Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie#Labour unter Starmer Wie man eine Hoffnung in zwei Jahren verbrennt|Gilda Sahebi und Arne Semsrott]]:** Labour hat eine Hoffnung in zwei Jahren verbrannt, mit einer Kürzung, die mehr Symbol war als Geld.
+- **[[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Mieten sind Armutspolitik|Elif Eralp]]:** Die Lehre aus dem Mietendeckel: Bei den wichtigsten Dingen schnell sein und einen Plan B haben.
+- **[[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Berlin 13 oder 30 Milliarden|Tom Krebs]]:** Bei 13 bis 15 Milliarden Euro trägt sich die Vergesellschaftung aus den Mieten selbst, und an dieser einen Zahl hängt, ob das Versprechen hält.
+
+<details><summary>Weitere Stimmen (4)</summary>
+
+- **[[Presseclub — Brandmauer nach links#Die Miete, um die es eigentlich ging|Sascha Chaimowicz]]:** Kein Wähler der Linken wird in den nächsten Jahren durch Enteignung auch nur einen Euro Miete sparen.
+- **[[Gesine Schwan — Macht NEU DENKEN#Bürger sind keine Käufer|Gesine Schwan]]:** Wer Demokratie als Lieferdienst versteht, verliert das Interesse, wenn die Lieferung ausbleibt.
+- **[[Pankaj Mishra — Zeitalter des Zorns#Die unschlagbare Ersatzreligion|Pankaj Mishra]]:** Ein Versprechen, das man gesehen hat und im eigenen Leben blockiert findet, wird mit der Zeit politisch giftig.
+- **[[Ivan Krastev — Wie zukunftsfaehig ist Europa#Ost-West-Enttäuschung Wechselseitig und tief|Ivan Krastev]]:** Das Versprechen der Angleichung an den Osten Europas war von Anfang an unrealistisch, und die Enttäuschung ist wechselseitig.
+
+</details>
+
+> [!question] Die Reibung
+> Myrrhe fürchtet das gebrochene Versprechen, Puschner setzt auf den Druck von unten. Die Forschung sagt, dass Wähler Nichterfüllung verzeihen, wenn sie sehen, wer blockiert hat, und Berlin hat erlebt, wie die Enttäuschung über einen liegen gebliebenen Entscheid zu der Partei wanderte, die ihn weitertrug. *Ist ein sichtbares Scheitern an Partnern, Bund und Gericht für eine Partei ungefährlicher als ein halbes Gelingen, das niemandem einen Euro spart? Und wen trifft die Enttäuschung dann, die Partei oder die, die vorher gar nicht gewählt haben?*
+
+---
+
 ## Wer bewacht die Handelnden?
 
 Wer handelt, braucht Spielraum, und wer Spielraum hat, braucht Aufsicht. Die Demokratie kennt dafür drei Werkzeuge. Das erste ist die Abwahl, für Karl Popper der Kern des Ganzen: eine Regierung ohne Blutvergießen loswerden zu können. Das zweite ist das Recht, Gerichte, Rechnungshöfe, Untersuchungsausschüsse. Das dritte ist die Öffentlichkeit. Athen kannte alle drei in eigener Form. Wer ein Amt antrat, wurde vorher geprüft (*dokimasie*), wer es verließ, musste Rechenschaft ablegen (*euthyna*) und konnte verklagt werden; ausgenommen waren nur die gelosten Geschworenengerichte ([Hansen 1999, doi:10.5040/9781472540614](https://doi.org/10.5040/9781472540614)). Rechenschaft ohne Wiederwahl ist also möglich, sie läuft dann über Prüfung und Klage.
@@ -199,6 +234,7 @@ Der am besten gestützte Mittelweg: die Beratung schützen, die Gründe offenleg
 | 27.09.2026 | [[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Nachbesprechung|Ardalan Ibrahim — Die Partei für Losdemokratie]] | Gründungsnote: Beraten oder entscheiden (bindende Losgremien, Michigan, Paris, Guter Rat) · Vor der Kamera oder dahinter (Elster, Zentralbank-Protokolle, Begründung statt Prozess) |
 | 04.10.2026 | [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Nachbesprechung|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]] | Beraten oder entscheiden: Institutionen für künftige Generationen — Finnland (Koskimaa & Raunio), Wales (Senedd 2026), Israel und Ungarn abgeschafft bzw. herabgestuft (Smith 2020), Parlamentarischer Beirat (Kinski & Whiteside 2022); von Schelihas Begründungspflicht, El-Mafaalanis Personalrat |
 | 30.09.2026 | [[Philipp Blom — Die strauchelnde Welt#Nachbesprechung|Philipp Blom — Die strauchelnde Welt]] | Gründlich oder schnell? Gewöhnen sich Menschen an das Verordnete? Stockholm-Maut 36 → 53 → über 70 % (Börjesson et al. 2012, Eliasson 2014), Rauchverbote nur konsequent (Mons et al. 2012), Göteborg und Gelbwesten als Grenze (Hansla et al. 2017, Douenne & Fabre 2022); der dritte Weg: erst probieren, dann abstimmen |
+| 04.10.2026 | [[Presseclub — Brandmauer nach links#Nachbesprechung|ARD-Presseclub — Kommt die Brandmauer nach links?]] | Neue Frage: Was kostet ein Versprechen, das nicht gehalten wird? Pledge Puzzle (Thomson et al. 2017, Naurin 2011), gebrochen wiegt schwerer (Naurin et al. 2019, Matthieß 2020/2022), Juniorpartner (Klüver & Spoon 2020), Nachsicht bei sichtbaren Hürden (Ylisalo et al. 2025), Vertrauen und Wahl nur schwach verbunden (Devine 2024); Berlin 2004/2021/2026, Syriza |
 
 ---
 

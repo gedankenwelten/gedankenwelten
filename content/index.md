@@ -80,7 +80,7 @@ Die Gedankenwelten (luc)
 
 > **04.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
 >
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, und wer bewacht die Handelnden? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
 
 > **04.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
