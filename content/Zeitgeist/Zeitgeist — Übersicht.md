@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*323 Notes — automatisch generiert · nach Thema sortiert*
+*324 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -120,6 +120,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu|Heiner Flassbeck — Deutschlands größtes Tabu]]
 - [[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude — Gesellschaft der Angst]]
 - [[Zeitgeist/Helen Keller — Voelkerrecht zahnloser Tiger|Helen Keller — Völkerrecht: Ein zahnloser Tiger?]]
+- [[Zeitgeist/Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]] — Kinder waren immer Außenseiter, aber früher waren sie die Mehrheit. Eine Verfassungsjuristin will ihnen Gehör verschaffen, das nicht von der Großzügigkeit der Alten abhängt.
 - [[Zeitgeist/Herfried Muenkler — Die Sehnsucht nach Ordnung|Herfried Münkler — Die Sehnsucht nach Ordnung]] — Angst sucht sich ihre Gegenstände selbst, und gegen sie ist die Mitte machtlos: Münkler über eine Sehnsucht nach Ordnung, die eigentlich Sorglosigkeit meint.
 - [[Zeitgeist/Holy Koolaid — Amerikanische Propaganda 7 Formen|Holy Koolaid — Amerikanische Propaganda: 7 Formen, die du nie hinterfragt hast]] — Was als „Land of the Free“ verkauft wird, hält der Prüfung nicht stand: sieben Formen amerikanischer Propaganda, empirisch zerlegt.
 - [[Zeitgeist/Horst Evers — Kostenloser Nahverkehr als Utopie|Horst Evers — Kostenloser Nahverkehr als Utopie]] — Wenn das größte Problem an einer Idee wäre, dass sie funktioniert — wie Comedy die Utopie des kostenlosen Nahverkehrs ernster nimmt als jede Talkshow.
