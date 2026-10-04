@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **04.10.** — [[Zeitgeist/Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
+>
+> Beginnt Großzügigkeit dort, wo die Gerechtigkeit endet, oder ist sie nur ihr freundlicherer Name? Vier Stimmen streiten über die Gabe, den Backlash und einen Kuchen, der nicht mehr wächst.
+
 > **04.10.** — [[Zeitgeist/Michael Moss — Salz Zucker Fett|Michael Moss — Salz, Zucker, Fett]]
 >
 > Ein Kriegsreporter geht in die Labore der Lebensmittelkonzerne und findet keine Verschwörung — nur Menschen, die Glückspunkte berechnen, und Aktionäre, die keinen Bissen weniger dulden.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Zwanzig Jahre Täter, ein abgehängter Spiegel in der Zelle, ein Sportverein, der heimlich abstimmt — und eine Zuhörerin, die sagt: Vergeben dürfen nur die Opfer.
 
-> **03.10.** — [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg|Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
->
-> Einer floh vor den Nazis, einer wich ihnen aus, einer war einer: ein Gespräch über den Weg hinein, den Weg heraus und darüber, warum Argumente dabei abperlen wie an Teflon.
-
-> → *8 weitere in* [[Zeitgeist]]
+> → *9 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
 
@@ -70,6 +70,14 @@ Die Gedankenwelten (luc)
 >
 > Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Vier offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
 
+> **04.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
+> **04.10.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+>
+> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
+
 > **03.10.** — [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Wie kommt man aus der rechten Szene wieder heraus?]]
 >
 > Hinein für die Jungs, heraus für ein Kind — und dazwischen oft zehn Jahre. Vier offene Fragen zum Ausstieg aus der rechten Szene, und die Stimmen, die sich an ihnen reiben.
@@ -77,14 +85,6 @@ Die Gedankenwelten (luc)
 > **30.09.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, und wer bewacht die Handelnden? Vier offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **30.09.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Fünf offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **30.09.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
->
-> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
 > → *3 weitere in* [[Panorama]]
 

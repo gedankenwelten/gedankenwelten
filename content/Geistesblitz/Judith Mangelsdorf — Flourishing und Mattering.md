@@ -363,6 +363,10 @@ Jägers Hyperpolitik ist die Schupfnudel-Szene auf Gesellschaftsgröße: Politis
 
 Die Drogenhilfe Halle zeigt Mangelsdorfs Präventions-Paradox in der Praxis: Was wirkt, weil etwas ausbleibt — Infektionen, Überdosen, der Absturz —, muss jedes Jahr neu begründet werden.
 
+### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
+
+Die Frage aus dem Mattering-Abschnitt, Anspruch oder Gabe, wird in Lüneburg ausgestritten: Bleisch trennt das Geschuldete vom Geschenkten und nennt Simone Weils Aufmerksamkeit die reinste Gabe. El-Mafaalanis Misstrauische, die ökonomisch nicht verloren haben, sind Mangelsdorfs vierte Ebene im Befund.
+
 ---
 
 ## Weiterdenken

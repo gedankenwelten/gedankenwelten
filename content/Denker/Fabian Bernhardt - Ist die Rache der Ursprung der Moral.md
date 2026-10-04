@@ -239,6 +239,10 @@ Eine Szene, an der sich Bernhardts drei Begriffe trennen lassen: Ein früherer N
 ### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
 Ein Ex-Neonazi sagt, er habe sich selbst vergeben, und eine Zuhörerin hält ihm Bernhardts Gabe-Begriff entgegen: Vergeben kann nur das Opfer. Selbstvergebung ist die Kategorie, die in der Dreiteilung fehlt.
 
+### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
+
+Bleischs These, Großzügigkeit keime dort, wo das Denken in Gerechtigkeit aufhört, ist Bernhardts Vergeben als Verzicht auf den Ausgleich, ins Politische übertragen. Göpels Püttmann-Zitat über die Wut, die nie zufrieden wird, zeigt die andere Hälfte des thymotischen Pols.
+
 ---
 
 ## Weiterdenken

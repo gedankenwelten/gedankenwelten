@@ -363,6 +363,10 @@ Münkler nennt den Fortschrittsglauben, den Reckwitz seziert, die Angstblockade 
 
 Blom kommt unabhängig zur selben Genealogie: Fortschritt als umetikettierte Heilsgeschichte, der Kredit über 100, der mit 110 zurückgezahlt werden muss, als eingebauter Wachstumszwang. Er verlängert die Linie bis zum Bibelsatz „Macht euch die Erde untertan“, und sein „Siegen macht dumm“ ist Reckwitz' blinder Fleck Verlust, erzählt aus der Sicht des Siegers.
 
+### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
+
+El-Mafaalanis Kuchen, der aufhört zu wachsen, ist Reckwitz' Verlust, der nach einem Schuldigen ruft, und Göpel bringt in beiden Gesprächen dieselbe Fairness-Bedingung mit. Bleischs Tocqueville-Paradox fügt hinzu, dass schon das Abnehmen der Ungleichheit die verbleibende unerträglicher macht.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

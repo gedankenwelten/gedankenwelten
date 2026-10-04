@@ -100,6 +100,7 @@ Stilistisch wird er als „Marxismus im Maßanzug" beschrieben — rhetorisch ve
 ## Gedankenwelten-Notes
 
 - [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
+- [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun]]
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]]
 - [[Die Neuen Zwanziger — Salon Lektueren Maerz 2026]]
 - [[Die Neuen Zwanziger — Salon Lektueren Februar 2026]]

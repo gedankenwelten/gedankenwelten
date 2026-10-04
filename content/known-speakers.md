@@ -1073,3 +1073,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Sergey Lagodinsky
 **Status:** ✓ Vollanalyse → [[DenkerVita/Sergey Lagodinsky]]
+
+## Barbara Bleisch
+**Status:** ✓ Vollanalyse → [[DenkerVita/Barbara Bleisch]]

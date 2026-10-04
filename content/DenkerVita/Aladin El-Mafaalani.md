@@ -19,7 +19,7 @@ tags: [denker-vita, soziologie, migration, bildung, demokratie]
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Aladin El-Mafaalani** (*1978, Datteln*) — Soziologe, Professor für Migrations- und Bildungssoziologie an der TU Dortmund. Sohn eines akademischen Elternpaars, das 1971 aus Syrien einwanderte; aufgewachsen im Ruhrgebiet, zunächst selbst Hauptschüler, später Lehrer an einem Berufskolleg. Einer der meistgelesenen öffentlichen Soziologen Deutschlands, bekannt für zugängliche Analysen zu Integration, Bildungsgerechtigkeit, Rassismus und zuletzt zur Demokratie in der alternden Gesellschaft. Bundesverdienstkreuz 2023.
+> **Aladin El-Mafaalani** (*1978, Datteln*) — Soziologe, Professor für Migrations- und Bildungssoziologie an der TU Dortmund. Sohn eines akademischen Elternpaars, das 1971 aus Syrien einwanderte; aufgewachsen im Ruhrgebiet, mit Hauptschulempfehlung, die sein Vater ignorierte — Abitur am Gymnasium in Waltrop, später Lehrer an einem Berufskolleg. Einer der meistgelesenen öffentlichen Soziologen Deutschlands, bekannt für zugängliche Analysen zu Integration, Bildungsgerechtigkeit, Rassismus und zuletzt zur Demokratie in der alternden Gesellschaft. Bundesverdienstkreuz 2023.
 >
 > Wichtigste Werke: *Das Integrationsparadox* (2018), *Mythos Bildung* (2020), *Wozu Rassismus?* (2021), *Kinder — Minderheit ohne Schutz* (2025), *Misstrauensgemeinschaften* (2025)
 > Kernkonzepte: Integrationsparadox, Misstrauensgemeinschaften, Adultismus, Tischmetapher, strukturelle Außenseiter
@@ -101,3 +101,4 @@ Butterwegges lebenslange Armutsforschung liefert die materielle Unterfütterung 
 
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
 - [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
+- [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — erstmals Host des Utopie-Quartetts (Leuphana 2026): „Wenn alle Superman sind, ist niemand Superman“; mehr Gerechtigkeit führe in der Regel zu mehr Konflikten, und Tocquevilles Übergang habe „nicht geklappt“
