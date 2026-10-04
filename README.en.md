@@ -38,7 +38,7 @@ Around 880 notes in ten sections — the texts live in [`content/`](content/), t
 
 ### The website
 
-Since September 2026, [gedankenwelten.org](https://gedankenwelten.org) is its own build (Astro): a front page showing what was thought most recently, notes with reading time and jumps into the source video, search, feeds and an [MCP server](https://gedankenwelten.org/MCP). The notes in this repo are the same — they are synchronised with every publication. The self-hosted wiki (Docker, below) still builds with Quartz.
+Since September 2026, [gedankenwelten.org](https://gedankenwelten.org) is its own build (Astro): a front page showing what was thought most recently, notes with reading time and jumps into the source video, search, feeds and an [MCP server](https://gedankenwelten.org/MCP). The notes in this repo are the same — they are synchronised with every publication. The self-hosted wiki (Docker, below) still builds with Quartz. The code of the website is open in [gedankenwelten/website](https://github.com/gedankenwelten/website) (MIT) — with both repos you can build the site yourself.
 
 And whoever looks closely at the picture of a note — twice — may find a room that no navigation reveals.
 
