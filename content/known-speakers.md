@@ -1076,3 +1076,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Barbara Bleisch
 **Status:** ✓ Vollanalyse → [[DenkerVita/Barbara Bleisch]]
+
+## Stephan Marks
+**Status:** ✓ Vollanalyse → [[DenkerVita/Stephan Marks]]

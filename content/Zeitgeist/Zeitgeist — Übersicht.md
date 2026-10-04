@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*321 Notes — automatisch generiert · nach Thema sortiert*
+*322 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -115,6 +115,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch|Gilda Sahebi und Arne Semsrott — GCA #33: Liegenddemos, Schwarz-Rot, Sea-Watch]]
 - [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie|Gilda Sahebi und Arne Semsrott — GCA #35: Die Selbstzerstörung der Sozialdemokratie]]
 - [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
+- [[Zeitgeist/Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — Beginnt Großzügigkeit dort, wo die Gerechtigkeit endet, oder ist sie nur ihr freundlicherer Name? Vier Stimmen streiten über die Gabe, den Backlash und einen Kuchen, der nicht mehr wächst.
 - [[Zeitgeist/Hartwin Maas — Bildung NEU DENKEN|Hartwin Maas — Bildung NEU DENKEN]]
 - [[Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu|Heiner Flassbeck — Deutschlands größtes Tabu]]
 - [[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude — Gesellschaft der Angst]]

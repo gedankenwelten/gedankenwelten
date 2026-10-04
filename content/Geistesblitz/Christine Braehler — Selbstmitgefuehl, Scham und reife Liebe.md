@@ -261,6 +261,10 @@ Brählers „reife Liebe" ist die psychotherapeutische Beschreibung dessen, was 
 ### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]]
 Ein Ex-Neonazi hängt in der Zelle ein Jahr lang den Spiegel ab, weil er sich nicht erträgt; sein Psychologe fragt, wie man leben soll, wenn man sich jeden Morgen hasst. Brählers Scham, bei einem Täter.
 
+### → [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
+
+Marks unterscheidet Scham, die von innen kommt, von Beschämung, die von außen nachgießt, und will die Scham weder nehmen noch vergrößern. Sein Raum der Würde ist Brählers Selbstmitgefühl, von einem anderen Menschen gehalten.
+
 ---
 
 ## Weiterdenken

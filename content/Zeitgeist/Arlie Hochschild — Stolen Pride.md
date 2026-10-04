@@ -249,6 +249,9 @@ Das Stolz-Paradox ist dort die internationale Brücke zwischen Ökonomie und Kr�
 
 Blom nennt dasselbe Entwürdigung: eine Arbeiterklasse, die mit Gewerkschaft und Druckmittel ihre Würde verlor und „nur noch Konsument“ ist. Er ergänzt, warum die Wut ihr Ziel verfehlt: Die Verursacher der Deindustrialisierung haben kein Gesicht, die syrische Familie im Ort hat eins.
 
+### → [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
+
+Ein Freiburger Schamforscher kommt mit Interviews alter Hitler-Anhänger zum selben Mechanismus: gesammelte Scham, als Wut gegen andere gewendet, und er zitiert dafür die Trump-These. Er legt die Kindheit darunter. Für seine Gesprächspartner war Hitlers Blick in ihre Augen das Erlebnis ihres Lebens, *desperately looking to be seen*, achtzig Jahre früher.
 
 ## Weiterdenken
 

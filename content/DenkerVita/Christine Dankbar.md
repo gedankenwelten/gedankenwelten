@@ -1,8 +1,8 @@
 ---
 title: Christine Dankbar — DenkerVita
-description: "Wer zahlt, wer verliert? Christine Dankbar, Politikchefin der Frankfurter Rundschau, fragt das am Sozialstaat und zeigt, wie ein dreißigseitiges Antragsformular selbst zum Armutsproblem wird."
+description: "Wer zahlt, wer verliert? Christine Dankbar, Politikchefin der Frankfurter Rundschau und Leiterin ihres Berliner Hauptstadtbüros, fragt das am Sozialstaat und an jeder Koalition."
 date: 2026-06-02
-aktualisiert: 2026-06-02
+aktualisiert: 2026-10-04
 tags: [denker-vita, medien, deutschland, demokratie]
 ---
 
@@ -19,19 +19,21 @@ tags: [denker-vita, medien, deutschland, demokratie]
 </details>
 
 > [!info] Wer spricht?
-> **Christine Dankbar** — Ressortleiterin Politik & Hauptstadtkorrespondentin der *Frankfurter Rundschau*. Politikwissenschaftlerin mit langjähriger Erfahrung als Bundespolitik-Journalistin. Regelmäßig zu Gast in Phoenix-Talkshows und öffentlich-rechtlichen Medien.
+> **Christine Dankbar** ist Politikchefin der *Frankfurter Rundschau* und leitet deren Hauptstadtbüro in Berlin. Die Politologin hat ein Vierteljahrhundert bei der *Berliner Zeitung* verbracht und kommentiert regelmäßig im Fernsehen (phoenix, ZDF-Morgenmagazin, ARD-Presseclub) und mittwochs auf Radio Eins.
 
 ## Biografie
 
-**Christine Dankbar** (* Geburtsjahr unbekannt) ist Politikwissenschaftlerin und Journalistin mit Fokus auf deutsche Innenpolitik, Sozialpolitik und parlamentarische Abläufe.
+**Christine Dankbar** studierte Politikwissenschaft am Otto-Suhr-Institut der Freien Universität Berlin. Ihr Handwerk lernte sie im Volontariat beim Berliner *Tagesspiegel*. Danach schrieb sie für die *taz* und das Berliner Magazin *Tango*, bevor sie zur *Berliner Zeitung* ging und dort rund 25 Jahre blieb. Sie war lange stellvertretende Leiterin des Berlin-Ressorts, später Leiterin der Politikredaktion und bis August 2023 verantwortlich für die Meinungsseite. Zuletzt arbeitete sie als politische Korrespondentin, auch aus der Bundespressekonferenz. Zum 1. September 2023 holte die *Frankfurter Rundschau* sie an die Spitze ihres Politikressorts, als Nachfolgerin von Martin Benninghoff. Dort leitet sie inzwischen auch das Hauptstadtbüro. Ihr Thema ist die Bundespolitik, insbesondere der Sozialstaat, Verteilungsfragen und die Mechanik von Koalitionen. Ein Geburtsjahr ist öffentlich nicht bekannt.
 
 ### Karriereverlauf
-- **Praktikum / Frühe Karriere:** Tagesspiegel (1991–1993)
-- **Weitere Stationen:** taz, Tango-Magazin
-- **Berliner Zeitung:** Ressortleiterin Politik und Gesellschaft, später Leiterin des Meinungsressorts
-- **Seit September 2023:** Ressortleiterin Politik & Hauptstadtkorrespondentin, *Frankfurter Rundschau*
-- **Nebenbeschäftigungen:** Regelmäßige TV-Kommentare für ZDF Morgenmagazin, phoenix "nachgefragt", Radio Eins (rbb); Politische Analyse aktueller Entwicklungen
-- **Frühe politische Arbeit:** Sprecherin der Grünen-Fraktion im Bayerischen Landtag
+- **Studium:** Politikwissenschaft, Otto-Suhr-Institut, FU Berlin
+- **Volontariat:** *Der Tagesspiegel*, Berlin
+- **Weitere frühe Stationen:** *taz*, Magazin *Tango*
+- **Berliner Zeitung (rund 25 Jahre):** stellv. Ressortleiterin Berlin · Leiterin der Politikredaktion · verantwortlich für die Meinungsseite (bis 08/2023) · politische Korrespondentin
+- **Seit 1. September 2023:** Ressortleiterin Politik der *Frankfurter Rundschau*, inzwischen auch Leiterin des Hauptstadtbüros Berlin
+- **Kommentatorin:** phoenix „nachgefragt", ZDF-Morgenmagazin, wöchentlicher Kommentar auf Radio Eins (rbb), Gast im ARD-Presseclub
+
+*Quellen: [FR — Christine Dankbar wird Politikchefin](https://www.fr.de/ueber-uns/christine-dankbar-politik-ressort-leitung-frankfurter-rundschau-92395388.html) (2023) · [Autorenseite Berliner Zeitung](https://www.berliner-zeitung.de/autoren/christine-dankbar--li.7) · [Mediengruppe Frankfurt](https://www.mediengruppe-frankfurt.de/pressemeldungen/christine-dankbar-wird-politikchefin-der-frankfurter-rundschau/) · [WDR Presseclub, 04.10.2026](https://www.wdr.de/programmvorschau/ard/sendung/2026-10-04/12-03/poc_import_4004969955/presseclub.html) · [Radio Eins](https://www.radioeins.de/themen/kommentare_kolumnen/kommentatoren/christine-dankbar.html)*
 
 ### Mediales Profil
 Die Frankfurter Rundschau ist ein linksliberales Blatt mit Schwerpunkt auf Sozialpolitik und parlamentarischer Kontrolle. Dankbars Artikel behandeln systematisch die Finanzierbarkeit des Sozialstaates, Reformmechanismen und die sozialen Folgen von Sparmaßnahmen.
