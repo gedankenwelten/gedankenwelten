@@ -4683,6 +4683,16 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Buch (Kaczmarczyk)** | *Kampf der Nationen* (Westend 2022) — [genialokal](https://www.genialokal.de/Suche/?q=kaczmarczyk+kampf+der+nationen) · *Zerfall der Weltordnung* (Westend 2026) — [genialokal](https://www.genialokal.de/Suche/?q=kaczmarczyk+zerfall+der+weltordnung) |
 | **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Geld_genug_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
 
+## Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?
+
+| | |
+|---|---|
+| **Video** | [Maja Göpel, Barbara Bleisch, Aladin El-Mafaalani & Wolfgang M. Schmitt: Verhärten. Überall. Und nun?](https://www.youtube.com/watch?v=SA2L0tiWyig) — Utopie-Quartett, Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg, veröffentlicht 11.09.2026 (58 Min.) |
+| **Notiz** | [[Zeitgeist/Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun]] |
+| **DenkerVita** | [[DenkerVita/Barbara Bleisch]] · [[DenkerVita/Aladin El-Mafaalani]] · [[DenkerVita/Maja Goepel]] · [[DenkerVita/Wolfgang M. Schmitt]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Verhaerten_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
 ## Thomas Laschyk (Volksverpetzer) — Vermögenssteuer gegen Fake News
 
 | | |

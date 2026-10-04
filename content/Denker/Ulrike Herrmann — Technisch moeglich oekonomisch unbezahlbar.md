@@ -370,6 +370,9 @@ Dieselbe Denkfigur in der Robotik. Ronnie Vuine erklärt den Humanoiden für tec
 
 Ein Nobelpreisträger bietet genau das Werkzeug an, das in Herrmanns Kerosin-Kette am teuersten ist: Materialien, die CO₂ aus der Luft fangen. Auf die Kostenfrage antwortet er „nicht mein Bereich“, und an dieser Lücke setzt ihre Rechnung an.
 
+### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
+
+Bleisch beruft sich auf Herrmann gegen El-Mafaalanis These vom stehenden Kuchen, der den Backlash nährt. Herrmanns gleiche Rationierung ist die Bedingung, unter der ein schrumpfender Kuchen keinen Verteilungskampf auslösen müsste.
 
 ---
 

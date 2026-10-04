@@ -202,4 +202,6 @@ Thiele diagnostiziert dieselbe Erosion und schlägt vor, sie zu reparieren: Teil
 
 Zwei Umfrageleser, zwei unvereinbare Bilder desselben Landes. Püttmann sieht mit Ortega y Gasset den Weg von der Demokratie zur Ochlokratie; Maus Daten zeigen einen breiten Konsens, der nur an wenigen Triggerpunkten reißt. Wer recht hat, entscheidet, ob Püttmanns „Militanz der Mitte" Notwehr ist oder selbst Lagerbildung.
 
+### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
 
+Der Streit um Tisch und Kuchen spielt in Maus Arenen: El-Mafaalani setzt auf Oben/Unten, Bleisch auf Wir/Sie. Maus gesättigte Verteilungsarena spricht für sie, und sein Gleichbehandlungs-Trigger erklärt, warum Rechte, als „Großzügigkeit“ gerahmt, wie Privilegien wirken.

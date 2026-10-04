@@ -72,6 +72,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Sven Beckert|Sven Beckert]]** — Historiker (Laird Bell Professor, Harvard); Globalgeschichte des Kapitalismus, „Kriegskapitalismus“ — Sklaverei, Landraub und Gewalt als konstitutive Grundlage des Kapitalismus, nicht als seine Vorgeschichte
 
+**[[DenkerVita/Barbara Bleisch|Barbara Bleisch]]** — Schweizer Philosophin und Ethikerin (*1973, Basel; Ethik-Zentrum Universität Zürich), 2010–2026 Moderatorin der *Sternstunde Philosophie*; *Warum wir unseren Eltern nichts schulden*, *Mitte des Lebens* — Pflicht aus der Beziehung statt aus Schuld, globale Gerechtigkeit, Großzügigkeit jenseits dessen, was die Gerechtigkeit verlangt
+
 **[[DenkerVita/Philipp Blom|Philipp Blom]]** — Historiker, Philosoph und Schriftsteller (*1970, Hamburg; lebt in Wien); *Der taumelnde Kontinent*, *Böse Philosophen*, *Die Unterwerfung* (2022): die Herrschaft über die Natur vom Gilgamesch bis zur Ökonomie, Aufklärung als umetikettierte Theologie, *Wir sind Natur*
 
 **[[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]]** — Lutherischer Theologe und Widerstandskämpfer (1906–1945), hingerichtet in Flossenbürg; Dummheit als sozialer Zustand unter Macht („Befreiung, nicht Belehrung“), billige vs. teure Gnade, Verantwortung als Schuldübernahme, religionsloses Christentum — und eine Legende, die ihn ständig zur Ikone rundet

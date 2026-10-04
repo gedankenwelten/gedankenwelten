@@ -255,6 +255,10 @@ Karatanis Tauschmodus der Reziprozität als gelebte Gegenwart: Sarrs „Ökonomi
 
 Ein Prüfstein für Mode D: Eine Belegschaft übernimmt ihre Spinnerei und überlebt, weil Département und Markt mitziehen, eine zweite scheitert, weil das Geld nicht kommt. Die Frage aus dem Weiterdenken, warum Genossenschaften am Markt scheitern, bekommt hier einen konkreten Fall.
 
+### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
+
+Tauschform A und D im Streit: Bleisch zeigt mit Mauss die beschämende Seite der Gabe, Schmitt will mit Marx' „jedem nach seinen Bedürfnissen“ ihre Wiederkehr auf höherer Stufe. El-Mafaalanis Einwand, verallgemeinerte Großzügigkeit sei keine mehr, trifft D dort, wo Karatani es zur regulativen Idee erklärt.
+
 ---
 
 ## Weiterdenken

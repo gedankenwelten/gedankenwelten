@@ -302,3 +302,6 @@ Was Austerität unten bedeutet, zeigt die Drogenhilfe Halle: Dort muss selbst de
 
 Krebs will die EZB nicht demokratisieren, aber ihre Unabhängigkeit „ein bisschen in Frage stellen“ und Geld- und Finanzpolitik offen koordinieren. Ob seine Zunft irrt oder Interessen dient, lässt er offen, weil er beides sagt.
 
+### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
+
+Wolfgang M. Schmitt nennt Schuldenregeln eine „Politik der Engherzigkeit“, die den Souverän einhegt, und wendet die These dann gegen das eigene Lager: Hält man es aus, wenn die Gegenseite ihre Ziele ebenso in die Verfassung schreibt wie man selbst den Klimaschutz?
