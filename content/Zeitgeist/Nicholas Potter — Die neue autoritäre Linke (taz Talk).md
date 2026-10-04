@@ -278,3 +278,5 @@ Der Neuköllner Wahlkampfauftritt mit „Yalla Yalla Intifada“ (August 2026) i
 
 Potters Befund über das Milieu, an einer Partei gemessen: Die Spur trennt, was die Linke beschließt, von dem, was sie in Gliederungen und Mandaten geschehen lässt, und beobachtet bis März 2027, ob der Berliner Landesverband Konsequenzen zieht.
 
+### → [[Presseclub — Brandmauer nach links]]
+Was Potter als Milieu beschreibt, sitzt nach der Berlin-Wahl mit einer Eintrittswelle in einer Partei, die die Hauptstadt regieren will: In Neukölln wuchs die Linke von gut 400 auf über 2000 Mitglieder. Der Presseclub fragt, ob sie sich von denen trennen kann, die ihr den Sieg gebracht haben.

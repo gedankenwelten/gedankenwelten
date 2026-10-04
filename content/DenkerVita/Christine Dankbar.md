@@ -46,6 +46,7 @@ Keine bekannten Monografien veröffentlicht. Schwerpunkt auf Zeitungs- und Medie
 
 | Video | Jahr | Format | Thema |
 |---|---|---|---|
+| [ARD-Presseclub — Wer regiert die Hauptstadt: Kommt die „Brandmauer“ nach links?](https://www.youtube.com/watch?v=tHkdixdCoSY) | 2026 | Presseclub (phoenix) | Linke, Antisemitismus, Rote Hilfe, Vergesellschaftung nach der Berlin-Wahl (04.10.26) |
 | [phoenix nachgefragt — Koalitionsgespräche](https://www.youtube.com/watch?v=MouTvlEydRo) | 2025 | TV-Kommentar | Stand der Koalitionsgespräche (31.03.25) |
 | [phoenix nachgefragt — Streit um das Rentenpaket](https://www.youtube.com/watch?v=lGJVJ-UE7Jo) | 2025 | TV-Kommentar | Rentenpolitik & Finanzierung (03.12.25) |
 | [phoenix nachgefragt — Weltklimakonferenz](https://www.youtube.com/watch?v=wqUbIGKIJvc) | 2025 | TV-Kommentar | Klimapolitik & Koalition (10.11.25) |
@@ -85,6 +86,7 @@ Sie argumentiert für:
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel]]
+- [[Zeitgeist/Presseclub — Brandmauer nach links]]
 
 ---
 

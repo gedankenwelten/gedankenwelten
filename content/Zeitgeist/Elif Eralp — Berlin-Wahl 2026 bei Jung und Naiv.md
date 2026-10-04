@@ -453,6 +453,9 @@ Einen Tag nach dem Wahlsieg beschreiben Jessen und Kormbaki Eralp in der Zange: 
 
 Wenige Tage nach der Wahl stellt Krebs der Rechnung des Landesrechnungshofs eine eigene entgegen: Über einen Ertragswert aus den landeseigenen Mieten kommt er auf 13 bis 15 Milliarden, die sich aus den Mieten selbst tragen. Die Schwachstelle ist dieselbe wie in der Nachbesprechung, ein ausstehendes Urteil aus Karlsruhe.
 
+### → [[Presseclub — Brandmauer nach links]]
+Zwei Wochen nach dem Wahlsieg: Im ARD-Presseclub geht es um das, was hier noch Versprechen war. Anke Myrrhe nimmt Eralp die Abgrenzung persönlich ab, bezweifelt aber ihre Macht in der Partei, weil die Linke gewonnen habe, *weil* die radikalen Kräfte da sind. Dazu ihre Mitgliedschaft in der Roten Hilfe und die Vergesellschaftung, die man in Verhandlungen „abräumen“ könne.
+
 ---
 
 ## Weiterdenken

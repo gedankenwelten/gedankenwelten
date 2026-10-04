@@ -1079,3 +1079,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Stephan Marks
 **Status:** ✓ Vollanalyse → [[DenkerVita/Stephan Marks]]
+
+## Anke Myrrhe
+**Status:** ✓ Vollanalyse → [[DenkerVita/Anke Myrrhe]]
+
+## Sebastian Puschner
+**Status:** ✓ Vollanalyse → [[DenkerVita/Sebastian Puschner]]
+
+## Sascha Chaimowicz
+**Status:** ✓ Vollanalyse → [[DenkerVita/Sascha Chaimowicz]]

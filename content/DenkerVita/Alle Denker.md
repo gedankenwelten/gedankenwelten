@@ -66,6 +66,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Andrey Gurkov|Andrey Gurkov]]** — Russischer Journalist und Autor (1959 Moskau), 1993–2025 Russische Redaktion der Deutschen Welle, zuvor Chefredakteur der deutschen Glasnost-Ausgabe *Moskau News*; liest Russland ökonomisch statt ideologisch (Gasprom, Nord Stream, Schattenflotte); *Für Russland ist Europa der Feind* (2025): der Bruch mit Europa sitzt in der Gesellschaft, nicht nur im Kreml
 
+**[[DenkerVita/Anke Myrrhe|Anke Myrrhe]]** — stellv. Chefredakteurin des *Tagesspiegels*, Autorin des Berlin-Newsletters *Checkpoint*; Chronistin der Berliner Landespolitik; nach der Berlin-Wahl 2026: Antisemitismus in Teilen der Linken, „gleiche Maßstäbe nach links und rechts“, die Angst vor der Enttäuschung eines unhaltbaren Mietversprechens
+
 ## B
 
 **[[DenkerVita/Lukas Baerfuss|Lukas Bärfuss]]** — Schweizer Schriftsteller, Dramatiker und Essayist (Georg-Büchner-Preis 2019); Autodidakt ohne Schulabschluss, als Jugendlicher obdachlos, schlug das Schulden-Erbe des Vaters aus — schreibt über Herkunft als Fessel, Erben als politischen Skandal und die Selbstgerechtigkeit der Schweiz
@@ -118,7 +120,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Molly Crockett|Molly Crockett]]** — US-Psychologin und Neurowissenschaftlerin (Princeton, zuvor Yale, Oxford, UCL); vom Serotonin im Ultimatumspiel zur moralischen Empörung im Netz: soziale Medien senken den Preis der Empörung und belohnen ihren Ausdruck; zuletzt Kritik an KI-Illusionen des Verstehens in der Wissenschaft (mit Lisa Messeri, *Nature* 2024)
 
-**[[DenkerVita/Christine Dankbar|Christine Dankbar]]** — Ressortleiterin Politik & Hauptstadtkorrespondentin der *Frankfurter Rundschau*; Politikwissenschaftlerin, langjährige Erfahrung bei taz, Tagesspiegel, Berliner Zeitung; Schwerpunkt: Sozialpolitik, Reformdiskurs, Bürokratieabbau; regelmäßig zu Gast in phoenix "nachgefragt" und ZDF-Medien
+**[[DenkerVita/Christine Dankbar|Christine Dankbar]]** — Politikchefin der *Frankfurter Rundschau* und Leiterin ihres Hauptstadtbüros; Politologin (OSI, FU Berlin), Volontariat *Tagesspiegel*, *taz*, rund 25 Jahre *Berliner Zeitung* (Meinungsseite, Politikredaktion, Korrespondentin); Sozialstaat, Verteilungsfragen, Koalitionsmechanik; kommentiert bei phoenix, im ZDF-Morgenmagazin, auf Radio Eins und im ARD-Presseclub
 
 **[[DenkerVita/Christine Braehler|Christine Brähler]]** — Psychotherapeutin und internationale Vorreiterin des Selbstmitgefühls; integriert Bindungstheorie, Internal Family Systems und Compassion-Focused Therapy; über 20 Jahre Berufserfahrung; MSC-Trainerin (Kristin Neff), CFT nach Paul Gilbert; Spezialistin für Scham, Bindungstraumata und innere Anteile; Bücher: *Selbstmitgefühl entwickeln* (2015), *Der kleine Selbstcoach* (2022), *Lass die Liebe rein* (2024)
 
@@ -534,6 +536,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ralf Stockmann|Ralf Stockmann]]** — Bibliothekar und Digital-Stratege (ZLB / Staatsbibliothek Berlin); profilierte Fediverse-Stimme, Mastodon-UX-Reformer; Schöpfer von Ultraschall, Mastowall, Sendegate; „+1"-Prinzip (öffentliches Geld → Fediverse-Pflicht)
 
 **[[DenkerVita/Sergey Lagodinsky|Sergey Lagodinsky]]** — Jurist, Europaabgeordneter (Grüne), stellv. Vorsitzender der Fraktion Grüne/EFA; 1993 als Kontingentflüchtling aus Moskau gekommen; Multipolarität als Herrschernarrativ, „hirngeleitete“ statt wertegeleitete Außenpolitik, KI-Rüstungskontrolle
+
+**[[DenkerVita/Sebastian Puschner|Sebastian Puschner]]** — stellv. Chefredakteur und politischer Korrespondent von *der Freitag*, früher *taz* Berlin; Politik und Ökonomie „von Hartz IV bis Cum-Ex“; Vergesellschaftung nach Artikel 15, Kritik am Verfassungsschutz, die Linke als Partei, die man in die Pflicht nehmen muss
+
+**[[DenkerVita/Sascha Chaimowicz|Sascha Chaimowicz]]** — Chefredakteur des *ZEITmagazins*, geb. 1984 in München, jüdisch und schwarz, lebt in Kreuzberg; jüdischer Alltag in Berlin seit dem 7. Oktober, die Grenze zwischen Palästina-Solidarität und Volksverhetzung, das „Versäumnis der Mitte“
 
 ## T
 

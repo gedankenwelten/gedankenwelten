@@ -123,3 +123,4 @@ Offen bleibt, ob die Grenze, die Eralp zieht, im eigenen Landesverband trägt. I
 ## Gedankenwelten-Notes
 
 - [[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv]]
+- [[Zeitgeist/Presseclub — Brandmauer nach links]] — vier Berliner Journalisten über die Vorsondierungen, die Rote Hilfe und die Frage, ob sie die Stadt regieren kann
