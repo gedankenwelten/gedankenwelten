@@ -342,6 +342,10 @@ Ardalan Ibrahim will das Los als Ersatz für Wahlen: Gremien, die entscheiden un
 
 Ein Ex-Abgeordneter beschreibt den Fraktionszwang von innen und wünscht sich am Ende Bürgerräte: die Insider-Diagnose zur Frage, wer entscheiden soll.
 
+### → [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+
+Was Demokratie von ihren Bürgern braucht, wird in der Schule geübt oder verlernt: offenes Klassenklima, Mitsprache, Wahlalter 16.
+
 ---
 
 ## Weiterdenken

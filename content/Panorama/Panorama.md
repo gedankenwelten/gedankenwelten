@@ -40,6 +40,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Warum wählen Menschen Autoritäre? *(wachsend)* | [[Warum waehlen Menschen Autoritaere]] | ~50 |
 | Wie kommt man aus der rechten Szene wieder heraus? *(wachsend)* | [[Wie kommt man aus der rechten Szene wieder heraus]] | ~40 |
 | Wie umgehen mit Russland? *(wachsend)* | [[Wie umgehen mit Russland]] | ~50 |
+| Was macht Schule mit uns? *(wachsend)* | [[Was macht Schule mit uns]] | ~70 |
 | Fortschritt | [[Fortschritt]] | 29 |
 | Neoliberalismus — Was zählt | [[Neoliberalismus — Was zaehlt]] | 13 |
 | Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |
