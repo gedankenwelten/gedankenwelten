@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Kriegsreporter geht in die Labore der Lebensmittelkonzerne und findet keine Verschwörung — nur Menschen, die Glückspunkte berechnen, und Aktionäre, die keinen Bissen weniger dulden.
 
+> **04.10.** — [[Zeitgeist/Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
+>
+> Russland war nie isoliert, nur aus Europa betrachtet: Hanna Notte und Sergey Lagodinsky über Dankbarkeit, die Moskau geerbt hat, und einen Westen, der seine eigenen Regeln zerbröseln ließ.
+
 > **03.10.** — [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene|Marcant und Eichi — Ausstieg aus der Neonazi-Szene]]
 >
 > Ein Kasten Bier landet auf der Straße, und ein Neonazi der Neunziger trainiert heute Geflüchtete: wie man aus der Szene herausfindet, ohne je zu wissen, warum man hineinging — und warum die Geschichte beim Erzählen leichter wird.
@@ -40,13 +44,13 @@ Die Gedankenwelten (luc)
 >
 > Einer floh vor den Nazis, einer wich ihnen aus, einer war einer: ein Gespräch über den Weg hinein, den Weg heraus und darüber, warum Argumente dabei abperlen wie an Teflon.
 
-> **30.09.** — [[Zeitgeist/Tom Krebs — Wege aus der Krise und neoliberale Maerchen|Tom Krebs — Wege aus der Krise, Vergesellschaftung und neoliberale Märchen]]
->
-> Ein Makroökonom aus dem Innern des Fachs nennt dessen Leitbild ein Märchen, rechnet Berlin die Vergesellschaftung vor und liest den Aufstieg der AfD an Energiepreisen ab. Am Tisch sitzt keine Gegenstimme.
-
-> → *7 weitere in* [[Zeitgeist]]
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Geistesblitz
+
+> **04.10.** — [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]]
+>
+> Ob eine Steuer, ein Etikett oder ein neues Rezept: Keines wirkt allein, und jedes verändert, was die anderen bewirken. Eine Konsumforscherin über das Für und Wider, wenn der Staat beim Essen mitlenkt.
 
 > **04.10.** — [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel|Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
 >

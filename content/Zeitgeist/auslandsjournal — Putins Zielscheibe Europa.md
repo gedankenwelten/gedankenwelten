@@ -343,6 +343,10 @@ Die Note, die fragt, wann ein kompetenter Mensch besser schweigt — und diese F
 
 Derselbe Fall, fünf Tage später und mit umgekehrtem Vorzeichen. Was hier als juristische Notwendigkeit erscheint — „hybrider Angriff, aber kein Krieg", damit Artikel 5 nicht anspringt —, wird im Presseclub zum Vorwurf: ein Wort, das den Handlungsdruck abbaut, den es beschreibt. Und wo die ZDF-Runde einträchtig bleibt, bricht dort ein offener Streit über Nord Stream auf, der die Beweisfrage auf beide Seiten anwendet.
 
+### → [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
+
+Hanna Notte ordnet „Wegwerfagenten“, die Schließung des Russischen Hauses und die Schattenflotte in zwei Wege ein — Resilienz und Abschreckung durch Bestrafung — und nennt die Hausschließung Symbolpolitik. Ihr Befund, dass Russland außerhalb des Krieges an Einfluss verliert, stützt Eigendorfs Einwand gegen das geschlossene Autokraten-Foto.
+
 ---
 
 ## Weiterdenken

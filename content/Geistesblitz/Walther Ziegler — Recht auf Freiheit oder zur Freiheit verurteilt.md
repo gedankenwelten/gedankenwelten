@@ -235,3 +235,7 @@ Im Q&A wird das Verhältnis Heidegger-Arendt diskutiert: Heideggers Versagen geg
 ### → [[Walther Ziegler — Popper in 60 Minuten]]
 
 Poppers Freiheitsbegriff als institutionelles Komplementär: Wo Sartre die individuelle Freiheit als existenzielle Last beschreibt, zeigt Popper, dass gesellschaftliche Freiheit abwählbare Regierungen braucht — die offene Gesellschaft als politische Architektur für Sartres zur Freiheit verurteilte Menschen
+
+### → [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]
+
+Die Zuckersteuer ist ein weiterer Grenzfall neben Tempolimit und Impfpflicht, und für Mill der unbequemere: Das Getränk schadet zuerst dem, der es trinkt. Roosens Befund, dass Willensstärke ungleich verteilt ist, stellt dabei in Frage, wie frei diese Wahl war.

@@ -401,6 +401,11 @@ Dieselbe BIP-Kritik von der postkolonialen Seite: Sarrs „Wohlsein statt Wohlst
 
 Krebs baut aus Trugers „planvoll“ ein Programm, die geplante Marktwirtschaft. Er verteidigt aber das BIP als Warnsignal und würde den Sachverständigenrat, in dem Truger Minderheitsvoten schreibt, lieber abschaffen als umbesetzen.
 
+### → [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]
+
+Roosens Zuckersteuer ist Trugers Pigou-Steuer auf dem Teller. Wo die Abgabe ab einer Zuckerschwelle greift, wirkt sie vor allem über den Hersteller, der sein Rezept darunter senkt: Die Kasse leert sich, weil die Lenkung gelingt.
+
+
 ---
 
 ## Weiterdenken

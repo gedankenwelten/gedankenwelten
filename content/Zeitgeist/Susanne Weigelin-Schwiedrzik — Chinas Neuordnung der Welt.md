@@ -293,6 +293,10 @@ Beide Notes drehen sich um dieselbe Figur — die Logik des Gegners verstehen, o
 
 Die zweite Brücke ist die eigentliche. Jene Note fragt am Ende, wann jemand über etwas schweigen sollte, und wirft Flemig vor, seine Selbstsicherheit sei selbst ein Fall des Problems, das er kritisiert. Weigelin-Schwiedrzik liefert die Gegenprobe: Sie nimmt mitten im Gespräch eine eigene frühere Empfehlung zurück, den Taiwan-Konflikt zu regionalisieren, und sagt, woran sie sich geirrt hat. Der Test aus der einen Note, bestanden in der anderen.
 
+### → [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]
+
+Hanna Notte beziffert Russlands Abhängigkeit von China (40 Prozent der Importe, 35 Prozent der Exporterlöse) und zeigt BRICS als Moskaus Bühne. Sergey Lagodinsky setzt gegen Multialignment eine „hirngeleitete“ Außenpolitik, die Prinzipien nicht preisgibt — ein Streitgespräch über Europas Rolle zwischen den Mächten.
+
 ---
 
 ## Weiterführende Quellen

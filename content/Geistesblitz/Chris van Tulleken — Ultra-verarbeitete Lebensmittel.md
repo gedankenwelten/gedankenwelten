@@ -296,6 +296,11 @@ Die ARTE-Folge erzählt die Sojabohne als Futter der Fleischindustrie und Rohsto
 
 Bei van Tulleken sind aktivistische Investoren die Kraft, die einen Konzernchef wie Emmanuel Faber bei Danone stürzt, sobald er gesünder wirtschaften will. Follow This zieht denselben Hebel in die Gegenrichtung und bringt Klima-Resolutionen auf die Hauptversammlungen von Shell und BP. Wenn die Firmen ihr Geschäftsmodell nicht kontrollieren, wie ein BlackRock-Analyst van Tulleken sagte — wer tut es dann, und kann die Hand am Steuer die Richtung wechseln?
 
+### → [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]
+
+Roosen prüft aus der Konsumökonomie, was van Tullekens Forderungen leisten: Kennzeichnung wirkt klein, aber gerichtet; Werbegrenzen werden umgangen; eine Steuer wirkt vor allem über den Hersteller. Beide nehmen der Willenskraft ihre Unschuld — sie ohne Polemik, mit Elastizitäten.
+
+
 ---
 
 ## Weiterdenken

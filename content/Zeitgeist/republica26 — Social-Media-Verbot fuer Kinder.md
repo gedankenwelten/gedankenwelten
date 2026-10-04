@@ -243,6 +243,10 @@ DiResta zeigt, wie Plattformen Narrative verstärken und Crowds zu Propagandaapp
 
 Was die Plattformen mit Aufmerksamkeit tun, hat die Lebensmittelindustrie mit Süße vorgemacht. Moss erzählt, wie Coca-Cola und die Erfinder der Lunchables gezielt Kinder ansprachen und dabei, so ein Lebensmittelwissenschaftler, „die Biologie des Kindes" ausnutzten.
 
+### → [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]
+
+Roosen zeigt an der Kinderwerbung für Süßes, was das Panel bei den Plattformen fürchtet: Eingeschränkte Werbung wandert in allgemeine Kanäle, zu Influencern und in Preisaktionen — eine Regulierung, die nur eine Stelle drückt, verschiebt den Druck an die nächste.
+
 
 ---
 
