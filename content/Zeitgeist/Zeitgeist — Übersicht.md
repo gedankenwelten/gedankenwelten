@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*325 Notes — automatisch generiert · nach Thema sortiert*
+*326 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -217,6 +217,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]] — Wachstum hat nicht nur eine Höhe, sondern eine Richtung — zwei Ökonomen vermessen eine Krise, in der ein digital-finanziell-militärischer Komplex die Macht übernimmt zu definieren, was Wirtschaft überhaupt heißen soll.
 - [[Zeitgeist/ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe|ARTE Mit offenen Karten — Die Sojabohne als geopolitische Waffe]]
 - [[Zeitgeist/Bundestalk — Iran USA und die Strasse von Hormus|Bundestalk — Iran, USA und die Straße von Hormus]]
+- [[Zeitgeist/Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts|Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts (Jung & Naiv 826)]] — Nürnberg schrieb sieben Sätze, die für alle gelten sollten. Achtzig Jahre später fragt ein Völkerrechtler, wer sie noch ernst nimmt, und wo Berlin wegsieht.
 - [[Zeitgeist/Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)|Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
 - [[Zeitgeist/Florian Homm - Ich war eine Leistungsmaschine|Florian Homm — Ich war eine Leistungsmaschine]]
 - [[Zeitgeist/Gerdes — Ukraine Zelensky wird staerker|Gerdes — Ukraine: Zelensky wird stärker]]
