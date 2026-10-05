@@ -220,6 +220,10 @@ Die Gegenprobe zur Fallrekonstruktion: Schwarz und Obermaier zeigen, wie ein Ver
 
 Die Linkage Evidence von der anderen Seite: Im Sudan belegt ein forensisch geprüftes Geheimdienst-Dossier Täter, Baupläne und Lager der Chlorbomben sehr genau. Zur Tat selbst gibt es dagegen nur einen belegten Einsatz ohne medizinische Belege, und die OPCW holt bisher nur „clarifications“ ein.
 
+### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
+
+Safferling erwartet, dass der Generalbundesanwalt die deutsche Mitverantwortung für Gaza „früher oder später“ prüft. Diese Note zeigt, wie weit die Behörde davon noch entfernt ist.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
