@@ -114,6 +114,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (UC Berkeley); Vier-Quadranten-Modell (Intelligent/Bandit/Hilflos/Dumm), Asymmetrie-Problem, Dummheit als strukturelle Handlungslogik, Zivilisationsverfall durch Kompositionsverschiebung, *The Basic Laws of Human Stupidity* (1976)
 
+**[[DenkerVita/Christoph Safferling|Christoph Safferling]]** — Strafrechtler und Völkerrechtler (FAU Erlangen-Nürnberg), Direktor der Internationalen Akademie Nürnberger Prinzipien; *Die Akte Rosenburg* (NS-Juristen im BMJ), *Ohnmacht des Völkerrechts* (2025); Nürnberger Prinzipien, kalte Verjährung, Selektivität des Völkerrechts
+
 **[[DenkerVita/Kimberle Crenshaw|Kimberlé Crenshaw]]** — US-Rechtswissenschaftlerin (UCLA, Columbia); prägte den Begriff *Intersektionalität* und begründete die Critical Race Theory mit; struktureller statt individueller Rassismus, Kritik der Farbenblindheit, *War on Memory*, Kampagne #SayHerName; Werke *On Intersectionality* (2017), *Backtalker: An American Memoir* (2026)
 
 **[[DenkerVita/Marco Buelow|Marco Bülow]]** — Ex-Bundestagsabgeordneter aus Dortmund (2002–2021, SPD, zuletzt Die PARTEI, † 2026); beschrieb Profitlobbyismus als legale Korruption und den Bundestag als Parlament der Abnicker (*Wir Abnicker*, *Lobbyland*, *Korrumpiert*).

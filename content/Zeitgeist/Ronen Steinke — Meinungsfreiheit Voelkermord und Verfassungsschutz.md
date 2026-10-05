@@ -270,3 +270,7 @@ Eralp zieht aus dem NSU-Komplex den Schluss, den Steinkes Sonderweg-Befund nahel
 
 ### → [[Presseclub — Brandmauer nach links]]
 Steinkes Wort von der „Hexenjagd“ wird im Presseclub zur Mitgliedschaft Elif Eralps in der Roten Hilfe zitiert. Sebastian Puschner verbindet es mit der Angst vor der ersten Anwendung von Artikel 15, Sascha Chaimowicz hält die Satzung dagegen und braucht den Verfassungsschutz für sein Urteil nicht.
+
+### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
+
+Derselbe Gastgeber, dieselbe Unterscheidung beim Genozidvorwurf gegen Israel; Safferling führt sie weiter zur Verhinderungspflicht der Vertragsstaaten und damit zur deutschen Verantwortung, mit Fritz Bauer im Hintergrund.

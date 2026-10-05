@@ -240,6 +240,10 @@ Jaffs Satz über die 85 Prozent, die Rechtsbrüche anprangern, während niemand 
 
 Sergey Lagodinsky, selbst Völkerrechtler, nennt den Irakkrieg den „Sündenfall“, mit dem das Zerbröseln der Regeln lange vor Trump und Putin begann. Hanna Notte zeigt, wie Russland diesen Riss im Globalen Süden nutzt, wo die Weltordnung für die meisten nie in Ordnung war.
 
+### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
+
+Safferling teilt Kalecks Befund der Selektivität und Ambos’ Vorschlag eines EU-Sitzes im Sicherheitsrat, weist aber Carneys Schluss zurück, die regelbasierte Ordnung sei nur eine „Fiktion“.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

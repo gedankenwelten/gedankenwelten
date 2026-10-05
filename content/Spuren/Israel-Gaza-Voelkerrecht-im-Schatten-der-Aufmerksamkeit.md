@@ -358,6 +358,10 @@ Die Stufe nach der Vertagung. Am 18.08.2026 kündigen die USA erstmals Sanktione
 
 Ein Vergleichsfall außerhalb von Gaza: Chlorbomben der sudanesischen Armee sind geleakt und forensisch geprüft, die OPCW holt bisher nur Klarstellungen ein. „Wenn keiner hinschaut, dann interessiert es ja wohl auch keinen.“ Für den Gleichmut-Spiegel bemerkenswert: Die Aufmerksamkeit ging hier von einem Geheimdienst mit eigenem Interesse aus.
 
+### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
+
+Ein Völkerrechtler nennt die Achse, die diese Spur noch nicht misst: die Verhinderungspflicht der Vertragsstaaten und eine mögliche Prüfung deutscher Beihilfe durch den Generalbundesanwalt. Ob sich unter den Pressebedingungen in Gaza ein Völkermord feststellen lässt, beantwortet er mit „Nein“.
+
 ## Quellen
 
 - [ICJ — South Africa v. Israel (Verfahrensstand, Wikipedia-Überblick mit Primärquellen)](https://en.wikipedia.org/wiki/South_Africa's_genocide_case_against_Israel)

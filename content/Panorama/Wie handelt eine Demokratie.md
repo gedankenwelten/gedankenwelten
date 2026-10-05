@@ -2,8 +2,8 @@
 title: "Wie handelt eine Demokratie?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-10-04
-description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, und wer bewacht die Handelnden? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben."
+aktualisiert: 2026-10-05
+description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
   - panorama
@@ -28,7 +28,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Eine Demokratie muss nicht nur wissen, wer entscheiden darf. Sie muss auch vom Willen zur Tat kommen, und daran zweifeln gerade viele: Reformen bleiben liegen, Genehmigungen dauern ein Jahrzehnt, Bürgerräte beraten, und niemand setzt um. Dieses Panorama ist ein Ast aus [[Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]. Der Stamm fragt nach der Bauweise, also danach, wer entscheiden darf; hier geht es um das Handeln. Fünf offene Fragen: Woran bleibt die Sachfrage hängen? Wer berät, wer entscheidet, wer setzt um? Muss Demokratie langsam sein? Was kostet ein Versprechen, das nicht gehalten wird? Und wer bewacht die, die handeln? Das Los ist dabei eines von mehreren Werkzeugen. Zu jeder Frage steht, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen, jede mit einem Klick an der Stelle, an der sie es sagt.
+> Eine Demokratie muss nicht nur wissen, wer entscheiden darf. Sie muss auch vom Willen zur Tat kommen, und daran zweifeln gerade viele: Reformen bleiben liegen, Genehmigungen dauern ein Jahrzehnt, Bürgerräte beraten, und niemand setzt um. Dieses Panorama ist ein Ast aus [[Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]. Der Stamm fragt nach der Bauweise, also danach, wer entscheiden darf; hier geht es um das Handeln. Sechs offene Fragen: Woran bleibt die Sachfrage hängen? Wer berät, wer entscheidet, wer setzt um? Muss Demokratie langsam sein? Was kostet ein Versprechen, das nicht gehalten wird? Wer bewacht die, die handeln? Und mit wem fängt sie nach einer Diktatur neu an? Das Los ist dabei eines von mehreren Werkzeugen. Zu jeder Frage steht, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen, jede mit einem Klick an der Stelle, an der sie es sagt.
 
 > [!info] Ein wachsendes Panorama
 > Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Die erste war [[Ardalan Ibrahim — Die Partei fuer Losdemokratie|Ardalan Ibrahim bei Jung & Naiv]] im September 2026, der Gründer einer Partei, die die Macht dem Los anvertrauen will. Unten steht, welche Notes seither dazukamen.
@@ -227,6 +227,38 @@ Der am besten gestützte Mittelweg: die Beratung schützen, die Gründe offenleg
 
 ---
 
+## Mit wem fängt eine Demokratie neu an?
+
+Nach einer Diktatur braucht die neue Ordnung Richter, Beamte, Lehrer, und fast alle, die das Handwerk können, haben dem alten Regime gedient. Die Bundesrepublik entschied sich 1949 für die Integration. 1957 waren 77 Prozent der Führungskräfte im Bundesjustizministerium ehemalige NSDAP-Mitglieder, geholt, weil man mit ihnen „arbeiten“ konnte ([[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#Im Keller der Rosenburg|Akte Rosenburg]]). Hermann Lübbe hat diese Wahl verteidigt: Das „kommunikative Beschweigen“ sei die Bedingung gewesen, unter der die junge Demokratie Millionen Belastete einbinden und stabil bleiben konnte ([Lübbe 1983, doi:10.1524/hzhz.1983.236.jg.579](https://doi.org/10.1524/hzhz.1983.236.jg.579)). Norbert Frei hielt dagegen, Amnestie und Integration seien eine aktive Politik gewesen, bezahlt mit der Strafverfolgung (*Vergangenheitspolitik*, 1996).
+
+Den Preis kann man heute messen. An westdeutschen Gerichten, an denen mehr NS-belastete Richter saßen, kamen angeklagte NS-Täter deutlich öfter ohne Verurteilung davon, und die Berufungsinstanz korrigierte das nicht ([Kern & Vanberg 2024, doi:10.1086/729959](https://doi.org/10.1086/729959)). Die Haltung reiste mit ins neue Amt; am Volksgerichtshof hatte die ideologische Bindung eines Richters schon die Zahl seiner Todesurteile vorhergesagt ([Geerling et al. 2018, doi:10.1111/ecoj.12497](https://doi.org/10.1111/ecoj.12497)).
+
+Der Vergleich spricht eher für den Wechsel. In postkommunistischen Staaten gingen umfassende Säuberungen mit deutlich mehr Demokratie und beständigerem Vertrauen in die Institutionen einher, verbindliche Personalwechsel wirkten stärker als symbolische ([Horne 2014, zwölf Länder, doi:10.1093/ijtj/iju011](https://doi.org/10.1093/ijtj/iju011)); am besten wirken Prozesse und Amnestien zusammen ([Olsen, Payne & Reiter 2010, doi:10.1353/hrq.2010.0021](https://doi.org/10.1353/hrq.2010.0021)). Einen dritten Weg zeigen Umfrage-Experimente: Wer bleiben darf und gesteht, gewinnt Vertrauen zurück, bloße Offenlegung kostet es ([Choi & David 2012, doi:10.1086/662648](https://doi.org/10.1086/662648)). Integration gegen ein Bekenntnis gab es in Bonn nicht. Und der Osten nach 1990 zeigt den umgekehrten Preis: Dort wurden die Eliten ausgetauscht, und Ostdeutsche sind bis heute in Justiz und Wissenschaft kaum vertreten. Wie lange das Misstrauen trägt, das daraus folgt, ist offen.
+
+**Die Stimmen**
+
+- **[[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#„Man hat sich wechselseitig unglaublich viel verziehen“|Christoph Safferling]]:** Die Spruchkammern machten fast alle zu Mitläufern, und man verzieh sich gegenseitig; die kalte Verjährung von 1968 war die Folge.
+- **[[Götz Aly — Wie konnte das geschehen#9. Die Stunde Null — notwendige Verdrängung?|Götz Aly]]:** Wahrscheinlich hatten sie keine andere Wahl, als erst einmal zu verdrängen, sonst wäre ein Neuanfang sehr schwierig gewesen.
+- **[[Heinz Bude — Boomer-Soziologie#Kommunikatives Beschweigen und die ausgebliebene Katastrophe|Heinz Bude]]:** „Wir wissen, was wir voneinander zu halten haben, aber wir sagen es nicht“ — Beschweigen als Technik der Koexistenz.
+- **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Die Entlastungserzählungen — Ost, West und der Mythos vom Befehlsnotstand|Jens-Christian Wagner]]:** Der Befehlsnotstand war ein Mythos; aufgearbeitet wurde erst mit den Enkeln, weil die Täter mitten in der Gesellschaft lebten.
+- **[[Hannah Arendt — Denken ohne Geländer#3. Persönliche Verantwortung in der Diktatur|Hannah Arendt]]:** Die Frage an den Funktionsträger lautet nicht „Warum hast du gehorcht?“, sondern „Warum hast du Unterstützung geleistet?“.
+- **[[Steffen Mau — Spaltung der Gesellschaft#Trauma-Weitergabe — Warum hatte Ostdeutschland kein 68er?|Steffen Mau]]:** Im Osten waren die NS-Eliten schon abgeräumt, darum gab es keinen Generationenkonflikt, nur Mitgefühl mit den Eltern und Schweigen.
+- **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Die DDR als Gegenprobe|Michael Hartmann]]:** Nach 1989 besetzten Westdeutsche die Lehrstühle mit den eigenen Leuten, Konkurrenz beseitigt, Potenzial verschenkt.
+- **[[Felwine Sarr - Gehoert Afrika die Zukunft#Ubuntu — Mandela und die Rehabilitierung der Utopie|Felwine Sarr]]:** Südafrika integrierte durch Amnestie und Wahrheitskommission und vermied einen Krieg; den Preis bezahlten die Opfer.
+
+<details><summary>Weitere Stimmen (3)</summary>
+
+- **[[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz#Fritz Bauer als Vorbild|Ronen Steinke]]:** Fritz Bauer wollte die Gesellschaft zum Hinsehen zwingen, gegen den eigenen Apparat.
+- **[[rp26 — Stresstest fuer die Demokratie Ostdeutschland#Das Ingo-Problem Westdeutsche Vorurteile als Brandbeschleuniger|Melanie Stein]]:** Ostdeutsche stellen ein Fünftel der Bevölkerung und nur einen kleinen Teil der Justiz, und das Misstrauen wächst daraus.
+- **[[Philipp Blom — Die Unterwerfung#„Nie wieder“ und seine Frist|Philipp Blom]]:** Vermeidungshaltungen halten zwei, drei Generationen; heute stimmen mehr Menschen einem „Schlussstrich“ zu als nicht.
+
+</details>
+
+> [!question] Die Reibung
+> Aly und Bude halten das Beschweigen für den Preis der Stabilität, Wagner und Safferling zeigen, wer ihn bezahlte, und der Osten nach 1990 zeigt den Preis des Gegenteils. *Gibt es einen Neuanfang, der weder die Täter schont noch die Mehrheit verliert — und hätte Bonn 1949 die Kraft dazu gehabt?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | Vertieft |
@@ -235,7 +267,7 @@ Der am besten gestützte Mittelweg: die Beratung schützen, die Gründe offenleg
 | 04.10.2026 | [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Nachbesprechung|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]] | Beraten oder entscheiden: Institutionen für künftige Generationen — Finnland (Koskimaa & Raunio), Wales (Senedd 2026), Israel und Ungarn abgeschafft bzw. herabgestuft (Smith 2020), Parlamentarischer Beirat (Kinski & Whiteside 2022); von Schelihas Begründungspflicht, El-Mafaalanis Personalrat |
 | 30.09.2026 | [[Philipp Blom — Die strauchelnde Welt#Nachbesprechung|Philipp Blom — Die strauchelnde Welt]] | Gründlich oder schnell? Gewöhnen sich Menschen an das Verordnete? Stockholm-Maut 36 → 53 → über 70 % (Börjesson et al. 2012, Eliasson 2014), Rauchverbote nur konsequent (Mons et al. 2012), Göteborg und Gelbwesten als Grenze (Hansla et al. 2017, Douenne & Fabre 2022); der dritte Weg: erst probieren, dann abstimmen |
 | 04.10.2026 | [[Presseclub — Brandmauer nach links#Nachbesprechung|ARD-Presseclub — Kommt die Brandmauer nach links?]] | Neue Frage: Was kostet ein Versprechen, das nicht gehalten wird? Pledge Puzzle (Thomson et al. 2017, Naurin 2011), gebrochen wiegt schwerer (Naurin et al. 2019, Matthieß 2020/2022), Juniorpartner (Klüver & Spoon 2020), Nachsicht bei sichtbaren Hürden (Ylisalo et al. 2025), Vertrauen und Wahl nur schwach verbunden (Devine 2024); Berlin 2004/2021/2026, Syriza |
-
+| 05.10.2026 | [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#Nachbesprechung|Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts]] | Neue Frage: Mit wem fängt eine Demokratie neu an? Lübbe 1983, Kern & Vanberg 2024, Geerling et al. 2018, Horne 2014, Olsen/Payne/Reiter 2010, Choi & David 2012 |
 ---
 
 ## Verbindungen
@@ -255,6 +287,10 @@ Der konkrete Fall für die erste Frage: Netzausbau, Genehmigungsdauer, ein Land,
 ### → [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
 
 Eine Antwort auf die Reibung in „Beraten oder entscheiden?“: Eine Verfassungsjuristin baut den Zukunftsrat ganz auf die Begründungspflicht, El-Mafaalani misstraut ihr aus der Erfahrung im Bundesjugendkuratorium und setzt auf öffentliche Hearings.
+
+### → [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
+
+Beide gehen auf Nürnberg zurück: Hier die Frage, mit wem Bonn nach 1945 neu anfing, dort die nach dem Recht, das im Saal für alle versprochen wurde.
 
 ---
 

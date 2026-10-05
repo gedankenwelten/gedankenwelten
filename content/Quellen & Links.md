@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts (Jung & Naiv 826, 2026)
+
+| | |
+|---|---|
+| **Interview** | [Christoph Safferling über die Nürnberger Prozesse, Völkerrecht & Altnazis — Jung & Naiv: Folge 826 (13.05.2026)](https://www.youtube.com/watch?v=0NzEeHewC7Q) |
+| **Buch** | Christoph Safferling: *Ohnmacht des Völkerrechts. Die Rückkehr des Kriegs und der Menschheitsverbrechen* (dtv 2025) · Görtemaker/Safferling: *Die Akte Rosenburg* (C.H. Beck 2016) |
+| **Notiz** | [[Zeitgeist/Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]] · [[DenkerVita/Christoph Safferling]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Safferling_Nuernberg_JungNaiv826_Transkript.txt` |
+
 ## BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität
 
 | | |

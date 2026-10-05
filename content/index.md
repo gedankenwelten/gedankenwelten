@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **05.10.** — [[Zeitgeist/Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts|Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts (Jung & Naiv 826)]]
+>
+> Nürnberg schrieb sieben Sätze, die für alle gelten sollten. Achtzig Jahre später fragt ein Völkerrechtler, wer sie noch ernst nimmt, und wo Berlin wegsieht.
+
 > **04.10.** — [[Zeitgeist/Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
 >
 > Kinder waren immer Außenseiter, aber früher waren sie die Mehrheit. Eine Verfassungsjuristin will ihnen Gehör verschaffen, das nicht von der Großzügigkeit der Alten abhängt.
@@ -40,11 +44,31 @@ Die Gedankenwelten (luc)
 >
 > Beginnt Großzügigkeit dort, wo die Gerechtigkeit endet, oder ist sie nur ihr freundlicherer Name? Vier Stimmen streiten über die Gabe, den Backlash und einen Kuchen, der nicht mehr wächst.
 
-> **04.10.** — [[Zeitgeist/Michael Moss — Salz Zucker Fett|Michael Moss — Salz, Zucker, Fett]]
->
-> Ein Kriegsreporter geht in die Labore der Lebensmittelkonzerne und findet keine Verschwörung — nur Menschen, die Glückspunkte berechnen, und Aktionäre, die keinen Bissen weniger dulden.
+> → *9 weitere in* [[Zeitgeist]]
 
-> → *12 weitere in* [[Zeitgeist]]
+### Panorama
+
+> **05.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **05.10.** — [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
+>
+> Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?
+
+> **04.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, ein Handy in der Tasche: Vier offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
+> **04.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Vier offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
+> **04.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
+>
+> Der Abstand in der Statistik ist echt, sein Grund umstritten. Drei offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, und was ihn kleiner macht.
+
+> → *5 weitere in* [[Panorama]]
 
 ### Geistesblitz
 
@@ -63,34 +87,6 @@ Die Gedankenwelten (luc)
 > **28.09.** — [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
 >
 > Ein Flüchtlingsjunge verliebt sich in Molekülzeichnungen, Jahrzehnte später zieht sein Material Wasser aus Wüstenluft. Als Rettungsgeschichte will er es nicht erzählt haben.
-
-> **27.09.** — [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
->
-> Jede Wissenschaft treibt Geister aus, und in jede Lücke zieht ein neuer ein. Der jüngste wohnt in der Statistik — und weiß selbst nicht, ob er gefunden oder erfunden hat.
-
-### Panorama
-
-> **04.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, ein Handy in der Tasche: Vier offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> **04.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Vier offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> **04.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, und wer bewacht die Handelnden? Fünf offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **04.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
->
-> Der Abstand in der Statistik ist echt, sein Grund umstritten. Drei offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, und was ihn kleiner macht.
-
-> **04.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> → *5 weitere in* [[Panorama]]
 
 ### Spuren
 

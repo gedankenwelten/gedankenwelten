@@ -49,7 +49,7 @@ Was ist dann Kultur? Als Wesen einer Herkunft trägt sie nicht: In Stockholmer K
 **Die Stimmen**
 
 - **[[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Der Abstand ist echt|BissenBlaBla]]:** Der Abstand ist echt, aber „nicht der Pass entscheidet, sondern die Postleitzahl“; zwei junge Männer in derselben Straße, und von der „Kulturnummer“ bleibe nichts.
-- **[[Yonatan Zeigen — A Place For Us All#„Arabisches Verbrechen" — die Anatomie eines Systemversagens|Yonatan Zeigen]]:** Die Mordwelle unter Israels arabischen Bürgern ist Staatsversagen; in Jordanien und im Westjordanland gibt es sie nicht, und als Netanja dasselbe Problem hatte, nannte es niemand Kultur.
+- **[[Yonatan Zeigen — A Place For Us All#„Arabisches Verbrechen" — die Anatomie eines Systemversagens|Yonatan Zeigen]]:** Die Mordwelle unter Israels arabischen Bürgern ist Staatsversagen; in Jordanien und im Westjordanland gibt es sie nicht, und als die jüdische Küstenstadt Netanja dasselbe Problem hatte, nannte es niemand Kultur.
 - **[[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder#Thema 3 Jerk of all Weeks — Friedrich Merz|Friedrich Merz]]:** Zur Vollständigkeit des Bildes gehöre, dass „ein beachtlicher Teil dieser Gewalt aus den Gruppen der Zuwanderer“ komme.
 - **[[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder#Thema 3 Jerk of all Weeks — Friedrich Merz|Gilda Sahebi]]:** Wer bei einem deutschen Täter auf Zuwanderer zeigt, dem ist der Schutz von Frauen gleichgültig.
 - **[[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)#Politische Instrumentalisierung als Flucht vor Ursachen|Staiy]]:** „Der Täter war Ausländer, also: Ausländer raus“ erspart den Blick auf psychiatrische Unterversorgung und gescheiterte Integration.
@@ -88,7 +88,7 @@ Abschiebung setzt am anderen Ende an. Sie senkt die Zahl dort, wo sie Täter tri
 - **[[Daniel - Lena Kotré plant private Abschiebeindustrie#Das Konzept Private Abschiebeindustrie|Lena Kotré]]:** „Warum sollte es nicht einfach auch eine Abschiebeindustrie geben?“ Abschiebungen per Ausschreibung an private Unternehmen.
 - **[[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Jede Abschiebung eine zu viel|Elif Eralp]]:** Jede Abschiebung sei eine zu viel; ihre Werkzeuge sind Ausbildungsduldung, Härtefallregeln und Verfahrenshinweise.
 - **[[MONITOR — Abschiebungen vs. Fachkräfte#Francis Emeka — 10 Jahre Bäcker, abgeschoben|MONITOR]]:** Abgeschoben wird, wer erreichbar ist: ein Bäcker nach zehn Jahren im Betrieb.
-- **[[Yonatan Zeigen — A Place For Us All#„Arabisches Verbrechen" — die Anatomie eines Systemversagens|Yonatan Zeigen]]:** In Netanja löste eine nationale Kampagne gegen die organisierte Kriminalität das Problem; der Staat kann, wenn er will.
+- **[[Yonatan Zeigen — A Place For Us All#„Arabisches Verbrechen" — die Anatomie eines Systemversagens|Yonatan Zeigen]]:** In der Küstenstadt Netanja löste eine nationale Kampagne gegen die organisierte Kriminalität das Problem; der Staat kann, wenn er will.
 
 > [!question] Die Reibung
 > Kotré will schneller abschieben, Eralp gar nicht, und die Forschung sagt, dass ein sicherer Status die Kriminalität halbieren kann. *Wenn derselbe Mensch mit Aufenthaltsrecht seltener straffällig wird als ohne — was genau soll eine Abschiebedrohung dann bewirken?*

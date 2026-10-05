@@ -290,3 +290,7 @@ Der Begriff in seiner Gegenwartsform: Was eine AfD-Landtagsabgeordnete öffentli
 ### → [[Philipp Blom — Die strauchelnde Welt]]
 
 Blom überträgt die Banalität des Bösen auf die ICE-Festnahmen in den USA: Diktaturen beginnen mit einer Kette von Unterschriften, und für die eine wirft niemand den Job hin und riskiert die Hypothek. Bei ihm scheitert die Verweigerung weniger am Nicht-Denken als an ihrem Preis.
+
+### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
+
+Safferling findet Arendts Verwaltungsmenschen in der Bonner Justiz wieder: Ein selbst verfolgter Staatssekretär holte NS-Juristen ins Ministerium, weil sie Vorgaben „perfekt umsetzen“. Das Nürnberger Prinzip „Befehl entlastet nicht“ ist ihr „Niemand hat das Recht zu gehorchen“ als Rechtssatz.

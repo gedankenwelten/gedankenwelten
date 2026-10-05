@@ -205,6 +205,14 @@ Das Schwester-Panorama von der anderen Seite: wie sich autoritäre Bewegungen im
 
 Wenn der hybride Krieg vor allem Gräben vertieft, die schon da sind, liegt ein Teil der Antwort auf die dritte Frage hier — bei den Gründen, aus denen Menschen Parteien wählen, die Moskaus Erzählungen teilen.
 
+### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
+
+Ein Völkerrechtler, der die westliche Doppelmoral voll eingesteht, den Irakkrieg wie Lagodinsky einen „Sündenfall“ nennt und daraus strengere Geltung zieht, samt einer Allianz mit Staaten des Globalen Südens.
+
+### → [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
+
+Das Schwester-Panorama zum Recht zwischen den Staaten: ob Haftbefehle abschrecken, ob die Selektivität des Westens den Siegerjustiz-Vorwurf nährt, den Moskau so gern erhebt, und wer durchsetzt, wenn der Sicherheitsrat blockiert ist.
+
 ---
 
 ## Weiterdenken

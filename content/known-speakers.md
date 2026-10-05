@@ -16,6 +16,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Ami Ayalon
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ami Ayalon]]
 
+## Christoph Safferling
+**Status:** ✓ Vollanalyse → [[DenkerVita/Christoph Safferling]]
+
 ## Dror Etkes
 **Status:** ✓ Vollanalyse → [[DenkerVita/Dror Etkes]]
 

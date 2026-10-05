@@ -268,3 +268,6 @@ Dieselbe Arbeit an zwei Enden der Zeitachse: Dort ist die lebende Zeugin, die se
 
 Blom liefert das historische Muster zu Wagners Arbeit: Vermeidungshaltungen wie das „Nie wieder“ halten zwei bis drei Generationen, dann wird die Lehre für die Nachgeborenen „eine Möglichkeit unter vielen“. Was Blom konstatiert, versucht die Gedenkstätte aufzuhalten, wenn keine Zeugen mehr sprechen.
 
+### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
+
+Wagners Entlastungserzählungen haben bei Safferling ihre Akten: Spruchkammern, die sich „wechselseitig unglaublich viel verziehen“, ein Justizministerium mit 77 Prozent ehemaligen NSDAP-Mitgliedern in der Führung und die kalte Verjährung von 1968.

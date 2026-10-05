@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*324 Notes — automatisch generiert · nach Thema sortiert*
+*325 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -75,6 +75,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/aspekte — Warum niemand die Nazis aufhielt|aspekte — Warum niemand die Nazis aufhielt]] — Wie eine Splitterpartei legal eine Republik zerlegte — und warum Skandale sie nicht aufhielten. Eine Reise zu den steinernen Zeugen, am Gedenktag des 20. Juli.
 - [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg|Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]] — Einer floh vor den Nazis, einer wich ihnen aus, einer war einer: ein Gespräch über den Weg hinein, den Weg heraus und darüber, warum Argumente dabei abperlen wie an Teflon.
 - [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Bernhard Pörksen und Maja Göpel — Debatte NEU DENKEN]]
+- [[Zeitgeist/BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]] — Die 40 Prozent stimmen, und der Satz darüber täuscht trotzdem. Fünf Behauptungen über Ausländerkriminalität, gegen die Statistik gelesen, aus der sie stammen.
 - [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
 - [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk taz — Wird die Meinungsfreiheit zu sehr eingeschränkt?]]
 - [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]] — Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.

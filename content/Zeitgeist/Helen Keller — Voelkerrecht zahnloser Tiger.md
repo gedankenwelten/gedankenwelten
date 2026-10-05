@@ -268,3 +268,7 @@ Der Ereignisfall zu Kellers Grundsatzfrage. Die Note liest die US-Sanktionen geg
 ### → [[Konstantin Flemig — Sudan Chlorbomben im vergessenen Krieg]]
 
 Ein Prüffall für Kellers Zuversicht: Sudans Armee baute 2024 Chlorbomben und plante die Tarnung gleich mit. Nach den US-Sanktionen wurde die Produktion offenbar eingestellt — ein Hinweis darauf, dass auch Folgen ohne Bomben wirken können.
+
+### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
+
+Auch Safferling hält die Norm für klar und nur die Durchsetzung für schwach; er gibt dem mit Nürnberg die historische Tiefe und mit EU-Sitz und ausgeweitetem „Uniting for Peace“ zwei Reformhebel.
