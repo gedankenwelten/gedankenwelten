@@ -2,7 +2,7 @@
 title: "Wie kann Demokratie funktionieren?"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-10-04
+aktualisiert: 2026-10-07
 description: "Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -43,6 +43,8 @@ Einen Maßstab, an dem sich alle vier messen lassen, formuliert der Staatsrechtl
 
 Die Forschung liefert zu dieser Grundfrage kein Urteil, aber eine nützliche Beobachtung: Direkte Demokratie bringt Politik und Wählerwillen dort am stärksten zusammen, wo die Vertretung schlecht funktioniert ([Leemann & Wasserfallen 2016, APSR, doi:10.1017/s0003055416000307](https://doi.org/10.1017/s0003055416000307)). Die drei Wege sind also eher Ergänzungen, die einspringen, wo der andere versagt, als Konkurrenten.
 
+Das Los hat dabei die engsten Bedingungen. Ausgeloste Gremien gewinnen an Legitimität fast nur, wenn ihre Empfehlungen umgesetzt werden ([Germann, Mariën & Muradova 2022, doi:10.1177/00323217221137444](https://doi.org/10.1177/00323217221137444)), und schon kleine Verzerrungen in der Zusammensetzung schmälern den Gewinn ([Germann 2025, doi:10.1017/s0007123424000322](https://doi.org/10.1017/s0007123424000322)). Gegen die Lottokratie halten Rummens und Geenens, Wahlen machten sichtbar, wer wofür steht, und hielten die Vertreter im Austausch mit den Vertretenen ([Rummens & Geenens 2023, doi:10.1007/s11158-023-09648-6](https://doi.org/10.1007/s11158-023-09648-6)). Die Rätedemokratie, die ältere Alternative zu beiden, hat in Hannah Arendt eine große Fürsprecherin, aber kaum Empirie; was es gibt, zeigt die Neigung von Delegationsketten zur Oligarchie, die Robert Michels beschrieb, überwiegend bestätigt, wenn auch nicht als ehernes Gesetz ([Rucht 1999, doi:10.17813/maiq.4.2.l2680365q32h6616](https://doi.org/10.17813/maiq.4.2.l2680365q32h6616)).
+
 **Die Stimmen**
 
 - **[[Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat#Ein einziges Versprechen|Alexander Thiele]]:** Gleiche politische Freiheit aller ist das eine Versprechen; alles andere ist Umsetzung und darf sich ändern.
@@ -54,8 +56,9 @@ Die Forschung liefert zu dieser Grundfrage kein Urteil, aber eine nützliche Beo
 - **[[Chantal Mouffe — Das Politische und die Politik#3. Die Liberalismus-Kritik II — Habermas und der deliberative Konsens|Chantal Mouffe]]** (in einem Vortrag über sie): Wer Politik als Suche nach dem besseren Argument versteht, übersieht die Leidenschaften; der Ort der Demokratie ist der Streit zwischen echten Alternativen, nicht der Konsens.
 - **[[Colin Crouch — Postdemokratie nach den Krisen#1. Was ist Postdemokratie? — Die Grunddiagnose|Colin Crouch]]:** Die Wahlen finden statt, die Entscheidungen fallen anderswo.
 
-<details><summary>Weitere Stimmen (2)</summary>
+<details><summary>Weitere Stimmen (3)</summary>
 
+- **[[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Publikumsfragen|Robin Celikates]]:** Das Los ist eine Auflockerung, kein Königsweg; Parteien bündeln Interessen zu Optionen, was ein ausgeloster Rat schwer kann. Interessanter findet er föderative Räte mit gestuften Mandaten.
 - **[[Marco Buelow — Korrumpiert#Der Waschzettel Ein Parlament, das abnickt|Marco Bülow]]:** Nach neunzehn Jahren Bundestag: Die Gewählten nicken ab, was Ministerien vorlegen und die Fraktion vorgibt; die Menschen brauchen mehr Rechte als das Wählen, Bürgerräte als Korrektiv.
 - **[[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)#Gewichtetes Wahlrecht als Idee|Aladin El-Mafaalani]]:** Stimmen nach verbleibender Lebenserwartung gewichten, weil eine alternde Wählerschaft die Jungen dauerhaft überstimmt. Die Idee verletzt Thieles Gleichheit mit Absicht.
 
@@ -314,6 +317,7 @@ Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründ
 | 30.09.2026 | [[Philipp Blom — Die strauchelnde Welt#Nachbesprechung|Philipp Blom — Die strauchelnde Welt]] | Neue Frage: Wiegt jede Stimme gleich? Ungleiche Responsivität (Gilens & Page 2014, Elsässer et al. 2021, Persson & Sundell 2024: „slight edge“), Medien- und Plattformbesitz (Martin & McCrain 2019, Gauthier et al. 2026), Großspenden ohne Deckel, Limitarismus (Robeyns 2022) und Zucman-Steuer, Vermögensflucht Schweiz vs. Norwegen |
 | 04.10.2026 | [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Nachbesprechung|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] | Wie schützen Institutionen vor Willkür: erster Sachstand (Holmes 1988, Elsters Rücknahme, Hirschl, Waldron 2006, Scheppele 2022), Fiskalregeln (Heinemann et al. 2018, Ardanaz et al. 2021), Ungarn vs. Schweiz, drei Prüfsteine (Irreversibilität, Verfahren nach Ely, Breite des Konsenses), Art. 143h und BVerfG-Resilienzreform 2024 · zweite Reibung: Schmitt gegen Göpel |
 | 04.10.2026 | [[Presseclub — Brandmauer nach links#Nachbesprechung|ARD-Presseclub — Kommt die Brandmauer nach links?]] | Wie schützen Institutionen vor Willkür: gleiche Maßstäbe (Ditto et al. 2019 vs. Baron & Jost 2019), Form gleich, Inhalt nicht (van Prooijen & Krouwel 2019, Jungkunz 2019), Gerichte korrigieren den Verfassungsschutz in beide Richtungen, Palestine Action, Wirkung von Verboten (Capoccia 2013, Casal Bértoa & Bourne 2017, van Spanje & de Vreese 2015); neue Reibung „mit vertauschtem Etikett“ |
+| 07.10.2026 | [[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems#Nachbesprechung|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]] | Wer soll entscheiden: Los oder Räte? Legitimität nur bei Befolgung und repräsentativer Zusammensetzung (Germann et al. 2022, Germann 2025), Bürgerrat Ernährung ohne Gesetz, Wahlen als Sichtbarkeit (Rummens & Geenens 2023), Räte und Michels (Rucht 1999, Shaw & Hill 2014), Rojava (Leezenberg 2016) |
 
 ---
 

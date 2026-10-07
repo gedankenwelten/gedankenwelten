@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **07.10.** — [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems (Jung & Naiv 855)]]
+>
+> Wenn die Krise einen Schuldigen sucht, findet sie ihn unten. Ein Kritischer Theoretiker über Faschisierung als Prozess, und warum Hoffnung keine Stimmung ist.
+
+> **28.09.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
+>
+> Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar: Klees Credo von 1920 — und der Tag 1937, an dem man den Sichtbarmacher unsichtbar machen wollte.
+
+> **27.09.** — [[Denker/Philipp Blom — Die Unterwerfung|Philipp Blom — Die Unterwerfung]]
+>
+> Ein Satz aus der Bronzezeit regiert noch den Weltmarkt: Philipp Blom über die Idee, der Mensch stehe über der Natur, und warum Siegen dumm macht.
+
 ### Geistesblitz
 
 > **07.10.** — [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
@@ -46,6 +60,14 @@ Die Gedankenwelten (luc)
 >
 > Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
 
+> **07.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
+> **07.10.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+>
+> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
+
 > **05.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
@@ -53,14 +75,6 @@ Die Gedankenwelten (luc)
 > **05.10.** — [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
 >
 > Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?
-
-> **04.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, ein Handy in der Tasche: Vier offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> **04.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Vier offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
 
 > → *3 weitere in* [[Panorama]]
 
@@ -93,20 +107,6 @@ Die Gedankenwelten (luc)
 > **04.10.** — [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]]
 >
 > Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin.
-
-### Denker
-
-> **28.09.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
->
-> Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar: Klees Credo von 1920 — und der Tag 1937, an dem man den Sichtbarmacher unsichtbar machen wollte.
-
-> **27.09.** — [[Denker/Philipp Blom — Die Unterwerfung|Philipp Blom — Die Unterwerfung]]
->
-> Ein Satz aus der Bronzezeit regiert noch den Weltmarkt: Philipp Blom über die Idee, der Mensch stehe über der Natur, und warum Siegen dumm macht.
-
-> **22.09.** — [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere|Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]
->
-> Buber sucht das Du auf Augenhöhe, Levinas bestreitet, dass es sie geben darf. Zwei jüdische Denker, ein Gespräch, das nie stattfand — und die Frage, was zuerst kommt, die Begegnung oder die Verantwortung.
 
 ### GoodNews
 

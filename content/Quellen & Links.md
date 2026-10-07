@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems (Jung & Naiv 855, 2026)
+
+| | |
+|---|---|
+| **Interview** | [Philosoph Robin Celikates über AfD, Faschismus & die Krise des Systems — Jung & Naiv: Folge 855 (06.10.2026)](https://www.youtube.com/watch?v=w2CvCOle0vo) |
+| **Buch** | Robin Celikates: *Kritik als soziale Praxis* (Campus 2009) · Jaeggi/Celikates: *Sozialphilosophie. Eine Einführung* (C.H. Beck 2017) |
+| **Notiz** | [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]] · [[DenkerVita/Robin Celikates]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Celikates_JungNaiv855_Transkript.txt` |
+
 ## Christian Walburg — Migration, Flucht und Kriminalität (TACHELES Freiburg, 2021)
 
 | | |

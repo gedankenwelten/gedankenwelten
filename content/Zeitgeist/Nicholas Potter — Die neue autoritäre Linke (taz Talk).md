@@ -118,7 +118,7 @@ Was er stattdessen beobachtete: Teile der Szene **fanden den Angriff gut** — T
 
 [▶ 44:44](https://www.youtube.com/watch?v=SvWnC0wfpHQ&t=2684)
 
-Der Angriff auf Lave Shapira (lebensgefährlich zusammengeschlagen, FU Berlin) steht exemplarisch für die Radikalisierung an Hochschulen. Potter beobachtet:
+Der Angriff auf Lahav Shapira (lebensgefährlich zusammengeschlagen, FU Berlin) steht exemplarisch für die Radikalisierung an Hochschulen. Potter beobachtet:
 
 - Postkoloniale Theorie als Einstiegsdroge: *Settler Colonial Studies*, insbesondere der Essay *Decolonialization is not a Metaphor* wurde nach dem 7. Oktober als Rechtfertigung instrumentalisiert («Der 7. Oktober ist der lebende Beweis dafür — so meinten wir das»)
 - Viele bei Uni-Besetzungen Festgenommene waren gar keine eingeschriebenen Studierenden
@@ -280,3 +280,7 @@ Potters Befund über das Milieu, an einer Partei gemessen: Die Spur trennt, was 
 
 ### → [[Presseclub — Brandmauer nach links]]
 Was Potter als Milieu beschreibt, sitzt nach der Berlin-Wahl mit einer Eintrittswelle in einer Partei, die die Hauptstadt regieren will: In Neukölln wuchs die Linke von gut 400 auf über 2000 Mitglieder. Der Presseclub fragt, ob sie sich von denen trennen kann, die ihr den Sieg gebracht haben.
+
+### → [[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]]
+
+Die Gegenperspektive von der FU Berlin: Celikates beschreibt einen „repressiven Anti-Antisemitismus“, der palästinasolidarischen Protest einschränkt. Den 7. Oktober erwähnt er dabei nicht. Nebeneinander gelesen zeigen beide Notes, was jede für sich ausblendet.
