@@ -361,6 +361,10 @@ Manows rationale Protestwahl, die neuen Arbeiterparteien und die gebrochene Verf
 
 Manows „Das Wichtigste ist die Abwahl“ bekommt hier seinen härtesten Prüffall: Ardalan Ibrahim will geloste Gremien, die bindend und geheim entscheiden, und antwortet auf die Sorge vor den Eloquenten mit ständig neu gelosten Kleingruppen.
 
+### → [[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]]
+
+Die Gegenposition zu Manows Skepsis gegenüber dem Autoritarismus-Diskurs: Celikates hält „Extremismus der Mitte“ für richtiger als die Rede von den Rändern und bestätigt damit ungewollt Manows Warnung vor der akademischen Deutungsklasse. Beim Los sind sich beide einig.
+
 ## Weiterführend
 
 - **Philip Manow**: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp, 2023)

@@ -358,6 +358,10 @@ Heitmeyer nennt die Sensibilisierungsthese eine „Beruhigungsformel“ und steh
 ### → [[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude — Gesellschaft der Angst]]
 Bude beschreibt kollektives Misstrauen als „unbestimmte Negation“, deren Gegenstände austauschbar sind. Das erklärt Walburgs Eröffnungsbefund: Die Sorge um Kriminalität als Problem des Landes ist bei AfD-Anhängern am größten, während die eigene Furcht auf dem Heimweg seit den 1990ern sank. Walburgs „Ethnisierung des Sozialen“ ist der Moment, in dem diese diffuse Angst ein fassbares Objekt findet.
 
+### → [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]]
+
+Walburgs „Ethnisierung des Sozialen“, als Faschisierungsmechanismus gelesen: Für Celikates wird die ökonomische Krise auf schon markierte Gruppen projiziert. Anders als Walburg nimmt er die Migration dabei fast ganz aus der Rechnung, und genau dort setzt die Kritik der Note an.
+
 ---
 
 ## Weiterdenken

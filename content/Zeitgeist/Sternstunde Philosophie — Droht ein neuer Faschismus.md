@@ -274,3 +274,7 @@ Direkt anschlussfähig an den Links-Streit: Quent zerlegt den symmetrischen Extr
 
 Redeckers stärkste Ursachenerklärung — der Umschlag des latenten Vorurteils in den politischen Ankerpunkt, der „Durst, jemanden hassen zu dürfen" — stammt aus Arendts Antisemitismus-Analyse; die Arendt-Note vertieft den Mechanismus.
 - [[Zeitgeist/Anton Jaeger — Lohnt sich politisches Engagement noch|Anton Jäger — Lohnt sich politisches Engagement noch?]] — die Schwester-Note desselben Gedenktags: Jägers Hyperpolitik erklärt, warum die demokratische Seite die Organisationskraft verlor, deren faschistisches Zerrbild Redecker beschreibt — das mobilisierte „Wir“ der Rechten füllt eine Lücke, die die zerfallene Massenpolitik hinterließ.
+
+### → [[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]]
+
+Skenderovics Faschisierungsbegriff, ausgebaut von einem Kritischen Theoretiker: Für Celikates beginnt der Prozess in der Mitte, beim Verschieben realer Krisen auf markierte Minderheiten. Auch er verwirft die Hufeisentheorie, „politisch wirklich fatal“.

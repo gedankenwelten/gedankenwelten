@@ -173,7 +173,7 @@ Die Grundlogik des Longtermismus (Musk, Nick Bostrom): Intelligenz ist das zentr
 
 **Rita Segato** (brasilianisch-argentinische Feministin, dekoloniale Tradition): Es gibt immer einen *ersten Staat* (demokratisch legitimiert, öffentlich rechtfertigungspflichtig) und dahinter einen *zweiten Staat* — brutal gewalttätige Männerbünde mit einem Fuß in der Halbwelt.
 
-Segato greift damit ein Motiv aus **Franz Neumanns *Behemoth*** auf, der für den NS den Begriff *Doppelstaat* verwendet: eine Ebene des Rechtsstaats und eine Ebene des Maßnahmenstaats (Executive Orders, Standrecht).
+Segato greift damit ein Motiv auf, das **Ernst Fraenkel** 1941 für den NS als *Doppelstaat* beschrieb: eine Ebene des Rechtsstaats und eine Ebene des Maßnahmenstaats (Executive Orders, Standrecht).
 
 Beide Hälften verzahnen sich: Wahlkampfspenden, Geldwäsche, gemeinsame Bordelle, Schweigegeld. Die offizielle Macht ist nie vollständig unabhängig vom zweiten Staat.
 
@@ -369,3 +369,6 @@ Konkretisiert Redeckers „Zugriff auf Frauenkörper als Machtdekor“ am digita
 
 Der Vordenker im Original gelesen: Carlotta Voß nimmt Yarvins *Patchwork* auseinander und kommt auf einem anderen Weg zu demselben Befund. Mit Robert Spaemann zeigt sie, dass die Restauration nihilistisch wird, sobald sie ihre Tradition begründen muss — der Monarch ohne Gott behält die absolute Gewalt und verliert die Fürsorgepflicht. Übrig bleibt genau die Eigentumslogik, die Redecker als Phantombesitz beschreibt: Wer die Macht hat, soll sie haben, weil er sie hat.
 
+### → [[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]]
+
+Ein halbes Jahr später auf derselben Bank: Celikates übernimmt Redeckers Phantombesitz und den Doppelstaat, beschreibt den Faschismus aber als Prozess der verschobenen Krise. Bei der Hoffnung widerspricht er ihr: Für ihn ist sie die Pflicht derer, die sich Verzweiflung leisten könnten.

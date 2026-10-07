@@ -274,3 +274,7 @@ Steinkes Wort von der „Hexenjagd“ wird im Presseclub zur Mitgliedschaft Elif
 ### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
 
 Derselbe Gastgeber, dieselbe Unterscheidung beim Genozidvorwurf gegen Israel; Safferling führt sie weiter zur Verhinderungspflicht der Vertragsstaaten und damit zur deutschen Verantwortung, mit Fritz Bauer im Hintergrund.
+
+### → [[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]]
+
+Celikates teilt Steinkes Kritik an abgesagten Veranstaltungen und eingeschränkter Versammlungsfreiheit, geht aber weiter: Er nennt den Antisemitismus-Vorwurf instrumentalisiert und greift zu Fraenkels Doppelstaat. Wo Steinke Grundrechte durchgängig verteidigt, nennt Celikates die Corona-Eingriffe „ziemlich moderat“.

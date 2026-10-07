@@ -283,6 +283,10 @@ Der schärfste Widerspruch im ganzen Bestand — und er läuft über das Nullsum
 
 Auf der Utopie-Konferenz hält El-Mafaalani dieses Buch dem Schamforscher Marks entgegen: Wenn Zerstörungslust treibt, erreicht man dann noch etwas mit Interesse? Marks bleibt dabei, es sei die einzige Chance. Die Demütigung, die die rachsüchtige Destruktivität vergilt, ist bei ihm das übergelaufene Gefäß.
 
+### → [[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]]
+
+Die philosophische Seite zum demokratischen Faschismus: Celikates sieht die Faschisierung in der liberalen Demokratie beginnen und unterscheidet einen kalkulierenden von einem nihilistischen Faschismus, der „alles niederbrennen“ will. Das ist Zerstörungslust, aus der Kritischen Theorie gedacht.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

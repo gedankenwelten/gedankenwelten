@@ -496,6 +496,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Ronen Steinke|Ronen Steinke]]** — Journalist, Sachbuchautor, Jurist; SZ-Korrespondent; Meinungsfreiheit, Verfassungsschutz als Demokratieproblem, Fritz Bauer als Kompass
 
+**[[DenkerVita/Robin Celikates|Robin Celikates]]** — Sozialphilosoph (FU Berlin), Kritische Theorie in der Frankfurter Linie, Sohn eines türkischen Gastarbeiters; *Kritik als soziale Praxis*, Theorie des zivilen Ungehorsams als Demokratisierung, Faschisierung als Prozess statt Etikett
+
 **[[DenkerVita/Matthieu Ricard|Matthieu Ricard]]** — Molekularbiologe (Institut Pasteur, promoviert bei Nobelpreisträger François Jacob) und buddhistischer Mönch im Kloster Shechen bei Kathmandu; Dolmetscher des Dalai Lama, Gründer des Hilfswerks Karuna-Shechen; Altruismus und Glück als trainierbare Fähigkeiten
 
 **[[DenkerVita/Moritz Rudolph|Moritz Rudolph]]** — Philosoph, Politikwissenschaftler und Redakteur des *Philosophie Magazins* (Leipzig, geb. 1989); Linkshegelianer aus der Kritischen Theorie — der Weltgeist schwimmt wie ein Lachs stromaufwärts zurück nach China und erscheint als künstliche Intelligenz; *Der Weltgeist als Lachs* (2021), *Einheit und Zerfall* (2025)
