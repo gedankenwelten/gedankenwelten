@@ -313,6 +313,9 @@ Das Gegenbild aus den USA: Dort fallen Morde, Raub und Einbruch fast überall, w
 
 Die Sensibilisierungsthese, die Heitmeyer abwehrt, kehrt bei [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Die Statistik misst auch uns|BissenBlaBla]] in anderer Form wieder: Es wird anders angezeigt, je nachdem, wer der Täter ist. Die Note belegt die Richtung (KFN) und gibt Heitmeyer beim Dunkelfeld zugleich recht.
 
+### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
+Wie Heitmeyer hält Walburg die Anzeigebereitschaft für einen Teil der Erklärung, nicht für die ganze, und erklärt die Kriminalität von Zugewanderten aus Alter, Status und Lebenslage statt aus Herkunft.
+
 ---
 
 ## Weiterführend

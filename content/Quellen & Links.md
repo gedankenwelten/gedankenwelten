@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+## Christian Walburg — Migration, Flucht und Kriminalität (TACHELES Freiburg, 2021)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Migration, Flucht und Kriminalität: Zwischen Ressentiments und realen Problemlagen (Universität Freiburg, 18.11.2021)](https://www.youtube.com/watch?v=EKbSyGwhigA) |
+| **Fortschreibung** | [Walburg, „Wer ist ‚wir‘?“, Verfassungsblog 10.12.2025](https://doi.org/10.59704/21504e48ce1752a4) · [bpb-Dossier „Migration und Kriminalität“ (07/2025)](https://www.bpb.de/themen/innere-sicherheit/dossier-innere-sicherheit/301624/migration-und-kriminalitaet/) |
+| **Notiz** | [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet]] · [[DenkerVita/Christian Walburg]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Walburg_Migration_Kriminalitaet_Transkript.txt` |
+| **Fund** | Diogenes, Nacht vom 10.09.2026 (`gedankenwelten_pro`) |
+
 ## Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts (Jung & Naiv 826, 2026)
 
 | | |

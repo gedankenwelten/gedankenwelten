@@ -288,3 +288,5 @@ Knaus beobachtet, dass Bilder Zahlen schlagen, und ärgert sich über ein Aufkl�
 
 Den Vergleich zweier Taten macht [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Das Bild im Kopf|BissenBlaBla]] an München und Mannheim, mit dem Einwand, dass dort mehr als der Pass die Fälle trennt; die Nachbesprechung zeigt, wie die Herkunftsnennung seit 2014 gestiegen ist.
 
+### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
+Die Nachbesprechung „Wird verschwiegen?“ belegt Staiys Beobachtung mit Daten: Die Herkunftsnennung stieg von 11 auf 33 Prozent der Berichte, und Herkunftsverweise verstärken in 60 von 71 Studien Vorurteile. Sie hält zugleich fest, dass der Abstand in der Statistik auch bereinigt real bleibt.

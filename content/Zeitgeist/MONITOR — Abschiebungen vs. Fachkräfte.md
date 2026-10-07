@@ -147,3 +147,5 @@ bekommt, entscheidet nicht Gefährlichkeit, wer sie erfüllt, sondern Greifbarke
 
 Dass ein unsicherer Aufenthalt selbst Kriminalität erzeugt, belegt [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Kultur oder Lage|BissenBlaBla]] mit der Forschung zum Legalstatus; Emekas Abschiebung ist das Gegenteil dessen, was diese Studien empfehlen.
 
+### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
+Walburg liefert die kriminologische Rechnung zu Emekas Fall: Wer Menschen, die bleiben werden, Arbeit und Status verweigert, erzeugt die Lage, die man mit Kriminalität verbindet. Der Spurwechsel ist bei ihm darum auch eine Frage der Sicherheit.

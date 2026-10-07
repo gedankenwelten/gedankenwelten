@@ -22,6 +22,48 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Geistesblitz
+
+> **07.10.** — [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
+>
+> Wer mit dreißig einwandert, wird selten noch straffällig; wer jahrelang geduldet wartet, eher. Ein Kriminologe über Migration und Kriminalität, jenseits von Ressentiment und Beschwichtigung.
+
+> **04.10.** — [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]]
+>
+> Ob eine Steuer, ein Etikett oder ein neues Rezept: Keines wirkt allein, und jedes verändert, was die anderen bewirken. Eine Konsumforscherin über das Für und Wider, wenn der Staat beim Essen mitlenkt.
+
+> **04.10.** — [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel|Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
+>
+> Wir verarbeiten unser Essen, seit wir Menschen sind. Neu ist eine Nahrung aus Pulvern, Ölen und Zusatzstoffen, die schneller satt macht als der Körper es merkt — und an der vor allem die Rendite hängt.
+
+> **04.10.** — [[Geistesblitz/Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
+>
+> Wer sich schämt, kann nicht großzügig sein: Es geht ums nackte Überleben. Ein Schamforscher über die Wächterin der Würde, über Hitlers Blick und die Kunst, Scham zuzumuten, ohne zu beschämen.
+
+### Panorama
+
+> **07.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
+>
+> Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
+
+> **05.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **05.10.** — [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
+>
+> Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?
+
+> **04.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, ein Handy in der Tasche: Vier offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
+> **04.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Vier offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
+> → *3 weitere in* [[Panorama]]
+
 ### Zeitgeist
 
 > **05.10.** — [[Zeitgeist/Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts|Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts (Jung & Naiv 826)]]
@@ -44,49 +86,7 @@ Die Gedankenwelten (luc)
 >
 > Beginnt Großzügigkeit dort, wo die Gerechtigkeit endet, oder ist sie nur ihr freundlicherer Name? Vier Stimmen streiten über die Gabe, den Backlash und einen Kuchen, der nicht mehr wächst.
 
-> → *9 weitere in* [[Zeitgeist]]
-
-### Panorama
-
-> **05.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **05.10.** — [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
->
-> Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?
-
-> **04.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, ein Handy in der Tasche: Vier offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> **04.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Vier offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> **04.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
->
-> Der Abstand in der Statistik ist echt, sein Grund umstritten. Drei offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, und was ihn kleiner macht.
-
-> → *5 weitere in* [[Panorama]]
-
-### Geistesblitz
-
-> **04.10.** — [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]]
->
-> Ob eine Steuer, ein Etikett oder ein neues Rezept: Keines wirkt allein, und jedes verändert, was die anderen bewirken. Eine Konsumforscherin über das Für und Wider, wenn der Staat beim Essen mitlenkt.
-
-> **04.10.** — [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel|Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
->
-> Wir verarbeiten unser Essen, seit wir Menschen sind. Neu ist eine Nahrung aus Pulvern, Ölen und Zusatzstoffen, die schneller satt macht als der Körper es merkt — und an der vor allem die Rendite hängt.
-
-> **04.10.** — [[Geistesblitz/Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
->
-> Wer sich schämt, kann nicht großzügig sein: Es geht ums nackte Überleben. Ein Schamforscher über die Wächterin der Würde, über Hitlers Blick und die Kunst, Scham zuzumuten, ohne zu beschämen.
-
-> **28.09.** — [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]
->
-> Ein Flüchtlingsjunge verliebt sich in Molekülzeichnungen, Jahrzehnte später zieht sein Material Wasser aus Wüstenluft. Als Rettungsgeschichte will er es nicht erzählt haben.
+> → *8 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

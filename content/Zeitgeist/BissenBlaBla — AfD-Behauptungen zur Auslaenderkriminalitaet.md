@@ -342,6 +342,9 @@ Staiys Vergleich Aschaffenburg gegen Leipzig ist das Gegenstück zu München geg
 
 Merz’ Satz, ein „beachtlicher Teil“ der Gewalt gegen Frauen komme von Zuwanderern, und Sahebis Vorwurf, er instrumentalisiere damit einen Fall mit deutschem Täter, sind beide nur halb belegt. Bei Vergewaltigung sind 38,5 Prozent der Tatverdächtigen nichtdeutsch, in Schweden bleibt nach allen Kontrollen ein Faktor von 2,2: Merz’ Satz hat einen Kern. Sahebis Kritik trifft trotzdem, sie richtet sich gegen die Verschiebung weg vom konkreten Fall.
 
+### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
+Der Kriminologe, auf dessen Gutachten sich das Video stützt, im Freiburger Vortrag selbst. Er lässt einen Rest stehen, den das Video wegerklärt: Alter und Geschlecht erklären nur 25 bis 30 Prozent des Abstands, und patriarchale Prägung „sollte man nicht leugnen“.
+
 ---
 
 ## Weiterdenken
