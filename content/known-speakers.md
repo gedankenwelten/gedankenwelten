@@ -1094,3 +1094,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Sascha Chaimowicz
 **Status:** ✓ Vollanalyse → [[DenkerVita/Sascha Chaimowicz]]
+
+## Christian Walburg
+**Status:** ✓ Vollanalyse → [[DenkerVita/Christian Walburg]]

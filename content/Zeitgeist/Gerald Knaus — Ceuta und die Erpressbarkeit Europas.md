@@ -389,6 +389,9 @@ Dort wird Judith Shklars *Freiheit von Furcht* an der Migrationsfrage zerrieben 
 
 Das Gegenmodell zu Knaus' Stichtag: Die Berliner Linke will einen Stichtag, der Menschen ohne Papiere legalisiert, nach dem spanischen Dekret von 2026. Mit „jede Abschiebung eine zu viel“ steht sie in dem Lager, dem Knaus die Blockade mit anlastet.
 
+### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
+Ein Kriminologe trennt die persönliche Furcht, die seit den 1990ern gesunken ist, von der Sorge um das Land. Er widerspricht Knaus' Rückkehr-Logik mit der historischen Erfahrung, dass ein Teil der Abgelehnten immer bleibt.
+
 ---
 
 ## Weiterdenken

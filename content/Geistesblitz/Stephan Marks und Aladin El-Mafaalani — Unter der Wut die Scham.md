@@ -312,6 +312,9 @@ Marks' Junge schaut abends in den Spiegel und schämt sich. Schlaffer hängt in 
 
 Das Panorama fragt zum Osten: Prägung aus der Diktatur oder Kränkung aus der Einheit? Marks antwortet mit beidem, als zwei Formen der Scham: die verratene Integrität in der DDR und die Beschämung einer Einheit, die als Abwicklung erlebt wurde. Es ist eine Deutung aus Interviews, keine Messung. El-Mafaalanis Folgerung, eine Gesellschaft könne kippen, ohne dass die Mehrheit rechtsextrem denkt, gehört in die Frage „Protest oder Überzeugung?“.
 
+### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
+Walburgs „Das Einzige, was man dann zu verlieren hat, ist eben Respekt auf der Straße“ ist Marks' Anerkennungsscham in der Kriminologie junger Männer. Die Sammelunterkunft ohne Rückzugsraum ist das Gegenteil eines Raums der Würde.
+
 ---
 
 ## Weiterdenken

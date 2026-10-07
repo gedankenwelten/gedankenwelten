@@ -246,3 +246,6 @@ Zwölf Jahre später nimmt Münkler Budes wandelbares Misstrauen auf und nennt e
 ### → [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]
 
 Was Bude als liberales Kümmern skizziert, misst Roosen am Essen aus: Nudges, Etiketten und neue Rezepturen wirken klein, aber gerichtet. Der Zuschauereinwand gegen den „Erziehungsstaat" zeigt, wo die Grenze zum Oberkümmerer gefühlt wird.
+
+### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
+Walburg zeigt Budes kollektives Misstrauen an einem Fall: Die Sorge um Kriminalität als Problem des Landes ist bei AfD-Anhängern am größten, während die Angst um sich selbst seit den 1990ern sank. Die „Ethnisierung des Sozialen“ gibt der diffusen Negation ein Gesicht.

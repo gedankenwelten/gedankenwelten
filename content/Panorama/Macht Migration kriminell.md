@@ -2,8 +2,8 @@
 title: "Macht Migration kriminell?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-10-04
-description: "Der Abstand in der Statistik ist echt, sein Grund umstritten. Drei offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, und was ihn kleiner macht."
+aktualisiert: 2026-10-07
+description: "Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird."
 raetsel: "Zwei Jungen, eine Straße, ein Laternenlicht. Nur einer wird gefragt, wohin."
 panorama-art: wachsend
 tags:
@@ -29,7 +29,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Der Abstand in der Statistik ist echt, sein Grund umstritten. Ausländer werden in Deutschland gut zweieinhalbmal so oft als Tatverdächtige registriert wie Deutsche, bei Gewalt etwa viermal so oft. Die eine Seite liest daraus Herkunft, die andere Statistikfehler, und beide lesen meist nur die Zeile, die ihnen passt. Dieses Panorama fragt, was man über den Abstand weiß: woher er kommt, wie viel davon die Anzeige erzeugt und was ihn kleiner macht. Zu jeder Frage der Stand der Forschung und die Stimmen aus den Gedankenwelten, die einander widersprechen. Wie das *Bild* dieser Kriminalität in den Medien entsteht, steht im Nachbar-Panorama [[Panorama/Warum waehlen Menschen Autoritaere#Warum im Osten doppelt so viel?|Warum wählen Menschen Autoritäre?]].
+> Der Abstand in der Statistik ist echt, sein Grund umstritten. Ausländer werden in Deutschland gut zweieinhalbmal so oft als Tatverdächtige registriert wie Deutsche, bei Gewalt etwa viermal so oft. Die eine Seite liest daraus Herkunft, die andere Statistikfehler, und beide lesen meist nur die Zeile, die ihnen passt. Dieses Panorama fragt, was man über den Abstand weiß: woher er kommt, wie viel davon die Anzeige erzeugt, was ihn kleiner macht und ob über ihn geschwiegen wird. Zu jeder Frage der Stand der Forschung und die Stimmen aus den Gedankenwelten, die einander widersprechen. Wie das *Bild* dieser Kriminalität in den Medien entsteht, steht im Nachbar-Panorama [[Panorama/Warum waehlen Menschen Autoritaere#Warum im Osten doppelt so viel?|Warum wählen Menschen Autoritäre?]].
 
 > [!info] Ein wachsendes Panorama
 > Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Die erste war [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla]] im Oktober 2026. Unten steht, welche Notes seither dazukamen.
@@ -53,6 +53,7 @@ Was ist dann Kultur? Als Wesen einer Herkunft trägt sie nicht: In Stockholmer K
 - **[[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder#Thema 3 Jerk of all Weeks — Friedrich Merz|Friedrich Merz]]:** Zur Vollständigkeit des Bildes gehöre, dass „ein beachtlicher Teil dieser Gewalt aus den Gruppen der Zuwanderer“ komme.
 - **[[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder#Thema 3 Jerk of all Weeks — Friedrich Merz|Gilda Sahebi]]:** Wer bei einem deutschen Täter auf Zuwanderer zeigt, dem ist der Schutz von Frauen gleichgültig.
 - **[[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)#Politische Instrumentalisierung als Flucht vor Ursachen|Staiy]]:** „Der Täter war Ausländer, also: Ausländer raus“ erspart den Blick auf psychiatrische Unterversorgung und gescheiterte Integration.
+- **[[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet#Die zweite Generation Lage, Herkunft und der Respekt auf der Straße|Christian Walburg]]:** Patriarchale Prägungen „sollte man nicht leugnen“, aber auch nicht einseitig aus der Herkunft erklären; Härte ist die Ressource dessen, der sonst nichts hat, bei Einheimischen wie bei Migranten.
 
 > [!question] Die Reibung
 > Zeigen findet die Ursache vollständig in der Lage, und Merz zeigt auf die Herkunft. Die schwedischen Registerdaten lassen nach allen Kontrollen einen Rest stehen. *Ist dieser Rest Kultur, Trauma, oder einfach das, was die Kontrollen nicht messen?*
@@ -65,11 +66,14 @@ Die Polizeiliche Kriminalstatistik zählt, was der Polizei bekannt wird, und das
 
 Die Grenze des Arguments liegt bei den schwersten Taten. Ein Tötungsdelikt wird kaum je nicht angezeigt, und dort bleibt die Überrepräsentation bestehen (Brå 2021, oben). Die Dunkelfeldbefragung des BKA zeigt außerdem, dass nicht nur die Furcht gestiegen ist: Die Betroffenheit von Körperverletzung stieg von 2,0 auf 2,6 Prozent, bei 16- und 17-Jährigen von 3,1 auf 8,5 ([BKA, SKiD 2024](https://skid.bka.de/assets/files/SKiD2024_Ergebnisbericht.pdf)). Eine zweite Tür ins Hellfeld ist die Kontrolle: Drogenbesitz kennt die Statistik nur, wo kontrolliert wird. Wie stark beides die Zahlen verzerrt, ist nicht gemessen; die Kriminologin Gina Wollinger spricht von „keinen gesicherten Zahlen“ ([Mediendienst Integration](https://mediendienst-integration.de/news/die-wichtigsten-fragen-zur-auslaenderkriminalitaet/)).
 
+Wie viel des Abstands bleibt, wenn man die Zusammensetzung herausrechnet? Alter und Geschlecht verringern ihn, über alle Delikte, um „vorsichtig geschätzt 25 bis 30 Prozent – nicht (viel) mehr, aber auch nicht weniger“ ([Walburg 2025, doi:10.59704/21504e48ce1752a4](https://doi.org/10.59704/21504e48ce1752a4), gestützt auf [Glaubitz & Bliesener 2018, KFN FB 137](https://kfn.de/wp-content/uploads/Forschungsberichte/FB_137.pdf)). Der Rest teilt sich zwischen Anzeige, Kontrolle, Lage und dem, was keine Statistik misst.
+
 **Die Stimmen**
 
 - **[[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Die Statistik misst auch uns|BissenBlaBla]]:** Die Statistik misst auch, wen wir anzeigen und kontrollieren; sie hat „unsere eigenen Vorurteile als Messfehler eingebaut“ und wird dann als Beweis für sie hochgehalten.
 - **[[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft#Die Sensibilisierungsthese|Wilhelm Heitmeyer]]:** Die These, es werde nur mehr angezeigt, münde „in einer Art von Beruhigungsformeln“; das Dunkelfeld zeige, dass die Gewalt wirklich zunimmt.
 - **[[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Die Polizei, die sich kontrollieren lässt|Elif Eralp]]:** An den „kriminalitätsbelasteten Orten“ darf ohne Anlass kontrolliert werden; die Kontrollquittung soll sichtbar machen, nach welchem Bild ausgewählt wird.
+- **[[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet#Anzeige, Kontrolle, Untersuchungshaft — der Anteil des Blicks|Christian Walburg]]:** Anzeige, Kontrolle und die häufigere Untersuchungshaft für Ausländer sind „ein Teil der Wahrheit“, aber sie erklären nicht alles.
 
 > [!question] Die Reibung
 > BissenBlaBla erklärt einen Teil des Abstands mit dem Blick derer, die anzeigen, und Heitmeyer hält genau dieses Argument für eine Beruhigung. *Wie ließe sich messen, wie viel die Anzeige erzeugt — und würde die Seite, der das Ergebnis nicht passt, es glauben?*
@@ -82,16 +86,38 @@ Hier ist die Forschung am deutlichsten, und sie gibt beiden Lagern etwas zu denk
 
 Abschiebung setzt am anderen Ende an. Sie senkt die Zahl dort, wo sie Täter trifft; ob sie die Kriminalität insgesamt senkt, ist für Deutschland nicht untersucht, und sie trifft oft die Falschen: Ausgebildete, Beschäftigte, Familien, weil sie erreichbar sind. Eine Politik, die Arbeitsverbote und Kettenduldungen verlängert, hält Menschen genau in der Lage, die die Forschung mit Kriminalität verbindet.
 
+Die Drohung selbst wirkt schwach. Abschreckung hängt an der Gewissheit, gefasst zu werden, kaum an der Härte der Folge ([Nagin 2013, Review, doi:10.1086/670398](https://doi.org/10.1086/670398)); als die USA Bezirk für Bezirk das Programm *Secure Communities* einführten, folgten rund 250.000 Festnahmen zur Abschiebung und keine messbare Änderung der Kriminalität ([Miles & Cox 2014, doi:10.1086/680935](https://doi.org/10.1086/680935)), es sei denn, die Nachbarbezirke zogen mit ([Kang & Song 2021, doi:10.1093/jleo/ewab013](https://doi.org/10.1093/jleo/ewab013)). Für Europa ist die Abschreckung durch Ausweisung nicht kausal untersucht. Der Status zeigt dagegen ein klares Gefälle: Unter den 172.203 tatverdächtigen „Zuwanderern“ 2024 waren Menschen im Asylverfahren und Geduldete gemessen an ihrer Zahl um ein Vielfaches häufiger als Anerkannte ([BKA, Lagebild Zuwanderung 2024](https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/JahresberichteUndLagebilder/KriminalitaetImKontextVonZuwanderung/KriminalitaetImKontextVonZuwanderung_2024.pdf?__blob=publicationFile&v=3); Längsschnitt: [Neumann et al. 2022, KFN FB 161](https://kfn.de/wp-content/uploads/Forschungsberichte/FB_161.pdf)), nach grober Rechnung, denn eine echte Belastungszahl je Status lässt sich nicht bilden, und ein Teil ist Auswahl; eine Kreisstudie findet für 2010–2015 sogar mehr Eigentumsdelikte, wo mehr Anerkannte leben ([Dehos 2021, doi:10.1016/j.regsciurbeco.2020.103640](https://doi.org/10.1016/j.regsciurbeco.2020.103640)). Wo der legale Job versperrt wird, steigt die Kriminalität ([Freedman, Owens & Bohn 2018, doi:10.1257/pol.20150165](https://doi.org/10.1257/pol.20150165)); sieben Monate längeres Arbeitsverbot kosteten in Deutschland fünf Jahre später 20 Prozentpunkte Erwerbstätigkeit ([Marbach, Hainmueller & Hangartner 2018, doi:10.1126/sciadv.aap9519](https://doi.org/10.1126/sciadv.aap9519)). Ob Ausbildungsduldung, Chancen-Aufenthaltsrecht oder Spurwechsel Kriminalität senken, hat niemand gemessen.
+
 **Die Stimmen**
 
 - **[[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Der Abstand ist echt|BissenBlaBla]]:** Ein soziales Problem kostet Geld, „Herkunft kannst du abschieben“, das ist billiger und bringt Stimmen.
 - **[[Daniel - Lena Kotré plant private Abschiebeindustrie#Das Konzept Private Abschiebeindustrie|Lena Kotré]]:** „Warum sollte es nicht einfach auch eine Abschiebeindustrie geben?“ Abschiebungen per Ausschreibung an private Unternehmen.
 - **[[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Jede Abschiebung eine zu viel|Elif Eralp]]:** Jede Abschiebung sei eine zu viel; ihre Werkzeuge sind Ausbildungsduldung, Härtefallregeln und Verfahrenshinweise.
 - **[[MONITOR — Abschiebungen vs. Fachkräfte#Francis Emeka — 10 Jahre Bäcker, abgeschoben|MONITOR]]:** Abgeschoben wird, wer erreichbar ist: ein Bäcker nach zehn Jahren im Betrieb.
+- **[[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet#Wirkt die Drohung — oder wirkt der Status?|Christian Walburg]]:** Abschreckung durch Ausweisung ist „kaum zu erwarten“; wer bleibt und weiter ausgeschlossen wird, dem bleibt der illegale Weg, und die Gesellschaft müsse „sich ehrlich machen“, wer bleibt.
 - **[[Yonatan Zeigen — A Place For Us All#„Arabisches Verbrechen" — die Anatomie eines Systemversagens|Yonatan Zeigen]]:** In der Küstenstadt Netanja löste eine nationale Kampagne gegen die organisierte Kriminalität das Problem; der Staat kann, wenn er will.
 
 > [!question] Die Reibung
 > Kotré will schneller abschieben, Eralp gar nicht, und die Forschung sagt, dass ein sicherer Status die Kriminalität halbieren kann. *Wenn derselbe Mensch mit Aufenthaltsrecht seltener straffällig wird als ohne — was genau soll eine Abschiebedrohung dann bewirken?*
+
+---
+
+## Wird verschwiegen?
+
+Die Frage dieses Panoramas wird von einer zweiten überlagert: ob man sie überhaupt ehrlich stellen darf. Im November 2025 schrieben die Strafrechtlerinnen Elisa Hoven und Frauke Rostalski in der FAZ, „wir“ müssten [ehrlicher über Straftaten von Migranten sprechen](https://www.faz.net/einspruch/exklusiv/warum-wir-ehrlicher-ueber-straftaten-von-migranten-sprechen-muessen-accg-200264700.html); schon der Hinweis auf die höhere Belastung gelte „vielen als ‚gefährlich‘“, und wer Armut oder Alter anführe, um Migration aus dem Spiel zu nehmen, betreibe ein „ideologisches Hütchenspiel“ (zit. nach [Focus, 26.04.2026](https://www.focus.de/politik/juristinnen-migranten-gewalt-darf-nicht-laenger-schoengeredet-werden_694f5475-2ffd-4647-8061-e694008eae1e.html)). Christian Walburg hielt dagegen, die Debatte sei längst im „Klartextmodus“ ([Verfassungsblog 2025, doi:10.59704/21504e48ce1752a4](https://doi.org/10.59704/21504e48ce1752a4)); Tobias Singelnstein nannte das Tabu einen „rhetorischen Kniff“ und wies nach, dass die Belastungszahlen im FAZ-Text Verstöße gegen das Ausländerrecht enthielten ([FAZ, 19.12.2025](https://normativeorders.net/press/wir-muessen-differenzierter-ueber-straftaten-von-migranten-sprechen/)).
+
+Was sich messen lässt, spricht gegen ein Schweigen der Institutionen. Das BKA veröffentlichte 2025 erstmals bundesweite Belastungszahlen für Nichtdeutsche, ein jährliches Lagebild zur Zuwanderung kommt hinzu, und Nordrhein-Westfalen (2024), Bayern (2025) und Baden-Württemberg (angekündigt 2026) lassen die Polizei die Nationalität jedes Verdächtigen nennen. Zeitungen nannten die Herkunft 2014 in 11 Prozent der Kriminalitätsberichte, 2018 in 33 Prozent ([Dittrich & Klimmt 2021, doi:10.5771/0934-9200-2021-1-28](https://doi.org/10.5771/0934-9200-2021-1-28)), und wenn das Fernsehen sie 2025 nannte, ging es zu 94,6 Prozent um Ausländer ([Hestermann 2025](https://mediendienst-integration.de/fileadmin/user_upload/Expertisen/Mediendienst_Integration_Expertise_Kriminalitaet_und_Migration_in_deutschen_Medien_Thomas_Hestermann.pdf)). Diese Auswahl hat Folgen: In 60 von 71 Studien verstärkten Herkunftsverweise Vorurteile ([Klimmt et al. 2022, systematische Übersicht, doi:10.1007/s11616-022-00765-5](https://doi.org/10.1007/s11616-022-00765-5)), und nach Taten, die Migranten zugeschrieben werden, steigt lokal die Hasskriminalität gegen Geflüchtete ([Riaz, Bischof & Wagner 2023, doi:10.1086/726948](https://doi.org/10.1086/726948)). Wo die Herkunft *aller* Verdächtigen genannt wird, auch der deutschen, sinkt die Sorge um Migration ([Keita, Renault & Valette 2024, doi:10.1093/ej/uead059](https://doi.org/10.1093/ej/uead059)). Ob Offenheit das Vertrauen in die Medien zurückbringt, wie Innenminister hoffen, ist nicht gemessen. Und was die Daten nicht entscheiden: ob das Relativieren den öffentlichen Ton prägt oder nur in Nischen vorkommt. Im Bestand der Gedankenwelten hat die Seite, die ein Schweigen beklagt, bisher kaum eine eigene Stimme; das ist selbst ein Befund.
+
+**Die Stimmen**
+
+- **[[Gilda con Arne 27 — Die alte Tante SPD will zurück zu Opa Schröder#Thema 3 Jerk of all Weeks — Friedrich Merz|Friedrich Merz]]:** „Zur Vollständigkeit des Bildes“ gehöre die Herkunft der Täter; der Satz unterstellt, dass sie sonst fehlt.
+- **[[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet#Wird verschwiegen?|Christian Walburg]]:** In der Sache gibt er Hoven und Rostalski weitgehend recht, ihre Zeitdiagnose aber nähre die Erzählung von Rechtsaußen, „die da oben“ würden verschweigen.
+- **[[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#„Man wird ja wohl noch die Fakten nennen dürfen“|BissenBlaBla]]:** Die AfD nennt die Statistik „geheim gehalten“ — „Leute, ich habe da drei Klicks gebraucht.“
+- **[[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)#Medienanalyse Leipzig — Der Tag danach|Staiy]]:** Aschaffenburg mit afghanischem Täter blieb tagelang auf den Startseiten, die Amokfahrt eines Deutschen in Leipzig keine zwei Tage; geschwiegen wird eher über die deutschen Täter.
+- **[[Topfvollgold — Mordfall Stade und das Versagen von NiUS#Kein Einzelfall das Geschäftsmodell hinter dem „Fehler"|Topfvollgold]]:** NIUS machte aus einer Namensgleichheit eine Mord-Komplizin; wo das Schweigen beklagt wird, wird manchmal erfunden.
+
+> [!question] Die Reibung
+> Merz sieht ein Bild, dem etwas fehlt, Staiy eines, in dem zu viel steht, und beide zählen Schlagzeilen. Walburg und Hoven sind sich über die Zahlen fast einig und streiten über den Ton. *Woran ließe sich überhaupt messen, ob eine Gesellschaft ein Problem verschweigt — und wer müsste dem Maßstab vorher zustimmen?*
 
 ---
 
@@ -100,6 +126,7 @@ Abschiebung setzt am anderen Ende an. Sie senkt die Zahl dort, wo sie Täter tri
 | Datum | Note | vertieft |
 |---|---|---|
 | 04.10.2026 | [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Nachbesprechung|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]] | Gründungsnote. Kultur oder Lage: Ousey & Kubrin 2018, Gehrsitz & Ungerer 2022, Lange & Sommerfeld 2024, Brå 2021, Khoshnood et al. 2025, Hällsten et al. 2013, Pfeiffer/Baier/Kliem 2018, Couttenier et al. 2019 · Legalstatus: Pinotti 2017 · Anzeigeverhalten: KFN FB 171 |
+| 07.10.2026 | [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet#Nachbesprechung|Christian Walburg — Migration, Flucht und Kriminalität]] | Kriminologen-Stimme in allen drei Fragen; Abstand kleiner: Nagin 2013, Miles & Cox 2014, Kang & Song 2021, BKA-Lagebild 2024, KFN FB 137/161, Freedman et al. 2018, Marbach et al. 2018 · **neue Frage „Wird verschwiegen?“**: Hoven/Rostalski 2025/26, Walburg 2025, Singelnstein 2025, Dittrich & Klimmt 2021, Klimmt et al. 2022, Riaz et al. 2023, Keita et al. 2024 |
 
 ---
 
