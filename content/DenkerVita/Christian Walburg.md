@@ -48,6 +48,7 @@ Er ist ein gefragter Einordner in der öffentlichen Debatte: Autor des Überblic
 ## Empfehlenswerte Videos & Vorträge
 
 - [Migration, Flucht und Kriminalität: Zwischen Ressentiments und realen Problemlagen](https://www.youtube.com/watch?v=EKbSyGwhigA) — TACHELES-Vortrag an der Uni Freiburg, 18.11.2021 (Humanistische Union BW, Institut für Kriminologie und Wirtschaftsstrafrecht, AKJ Freiburg); Überblick über vier Jahrzehnte Forschung (YouTube; die anschließende Diskussion ist nicht aufgezeichnet)
+- [12 Thesen zu „Migration und Kriminalität“ (Folien)](https://www.jura.uni-leipzig.de/fileadmin/Fakult%C3%A4t_Juristen/Professuren/Hoven/Vortragsveranstaltungen/RechtspolitischeGespr%C3%A4che/walburg_2026_leipzig_migr-krim.pdf) — Rechtspolitische Gespräche, Uni Leipzig, 16.04.2026, auf Einladung von Elisa Hoven: der Freiburger Vortrag fünf Jahre später, mit Rotherham, Femiziden und Elias' *Etablierten und Außenseitern*
 - [Folge 2: Silvesterkrawalle — mit Samira Bekkadour und Christian Walburg](https://mediendienst-integration.de/news/silvesterkrawalle/) — Podcast des Mediendienstes Integration (03.01.2024) über Ursachen von Jugendkriminalität und was Sozialarbeit in den Kiezen bewirkt
 - [Podcast über Kriminalität in Deutschland](https://www.uni-muenster.de/kommunikation/podcast/2024/20240303_walburg.html) — Interview der Uni Münster (2024): Entwicklung der Kriminalität über Jahrzehnte, Jugendstrafe und Gefängnis
 
