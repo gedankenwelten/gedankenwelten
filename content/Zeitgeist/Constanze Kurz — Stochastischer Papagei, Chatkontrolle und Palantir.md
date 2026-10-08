@@ -234,6 +234,10 @@ Dieselbe Entmythologisierung philosophisch statt technisch: Wo Kurz den stochast
 
 Der Papagei im Dorf: Wenn KI-Agenten aus unseren Texten eine Gesellschaft nachspielen, ist das technisch Emergenz und zugleich Echo. Die Note hält beides nebeneinander.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wer trägt Verantwortung, wenn die Maschine handelt?“.
+
 ---
 
 ## Weiterdenken

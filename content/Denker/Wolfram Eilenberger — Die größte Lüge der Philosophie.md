@@ -235,3 +235,7 @@ Was er meint: Es gibt Formen der *Geistesgegenwärtigkeit*, die nicht über spra
 
 Ernst Tugendhat ist ein Gegenbeispiel zu diesem Befund: Ausgerechnet der Mann, der die analytische Philosophie nach Deutschland zurückbrachte, kommt über Grammatik und Biologie bei einer Mystik ohne Gott an.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“.
+

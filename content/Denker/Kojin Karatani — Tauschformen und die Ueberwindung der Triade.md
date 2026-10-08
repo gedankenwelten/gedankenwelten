@@ -263,6 +263,10 @@ Tauschform A und D im Streit: Bleisch zeigt mit Mauss die beschämende Seite der
 
 Daths „kein Zurück zur Gabe, nur eine nächste Stufe“ ist Karatanis Tauschform D — gedacht als Frage der Produktion statt als regulative Idee.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“.
+
 ---
 
 ## Weiterdenken

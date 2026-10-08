@@ -191,6 +191,10 @@ Adriaan stammt aus der Plum Village-Linie — sein Begriff von Selbstfürsorge a
 
 Das Netzwerk-Essay beantwortet die Kollektivfrage, die Adriaans Vortrag am Ende aufwirft: Wenn ein Mensch in einem System diesen Weg geht, erscheint ein anderes Licht — aber wie? Das Netzwerk liefert den Mechanismus (Myzel, Gravitation, Prediction Error). Adriaan gibt das *Warum* der inneren Arbeit, das Netzwerk das *Wie* seiner kollektiven Wirkung.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Wann wird Großzügigkeit zu viel?“.
+
 ---
 
 ## Weiterdenken

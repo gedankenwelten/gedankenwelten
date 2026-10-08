@@ -215,6 +215,10 @@ Der Chemiker beschreibt für das Labor, was Ono für die Mathematik erlebt: Wenn
 
 Auch Dath beruft sich auf Terence Tao, sieht die Chance aber von den Arbeitsverhältnissen her: Wem gehört die Prüfzeit, die die Maschine spart?
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
+
 ---
 
 ## Weiterdenken

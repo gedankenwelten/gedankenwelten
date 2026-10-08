@@ -2,7 +2,7 @@
 title: "Das Glück des Schmieds"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-09-28
+aktualisiert: 2026-10-08
 description: "Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft."
 panorama-art: wachsend
 tags:
@@ -41,17 +41,23 @@ Pro Kopf arbeitet in keinem OECD-Land ein Erwerbstätiger so wenige Stunden wie 
 
 Wer weniger Stunden arbeitet, sind vor allem Frauen. 49,5 Prozent der erwerbstätigen Frauen arbeiten in Teilzeit, 13,9 Prozent der Männer. Als Grund nennen 27,9 Prozent den eigenen Wunsch und 23,5 Prozent die Betreuung von Kindern oder Pflegebedürftigen, bei Frauen 28,8 Prozent; die meisten von ihnen wollen diese Betreuung selbst übernehmen, jede neunte findet kein passendes Angebot ([Destatis 2026](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/01/PD26_N007_13.html)). Friedrich Merz sagte im Mai 2025, mit „Vier-Tage-Woche und Work-Life-Balance“ werde man den Wohlstand nicht erhalten ([Tagesspiegel](https://www.tagesspiegel.de/politik/merz-kritisiert-vier-tage-woche-und-work-life-balance-wir-mussen-in-diesem-land-wieder-mehr-arbeiten-13687588.html)); im Januar 2026 nannte er die Arbeitsleistung der Volkswirtschaft „nicht hoch genug“, in der Schweiz werde 200 Stunden mehr gearbeitet, und er sehe „keine genetischen Unterschiede“ ([n-tv](https://www.n-tv.de/politik/Merz-kritisiert-die-Arbeitsmoral-der-Deutschen-id30242973.html)); laut OECD sind es rund 180. Im Sommerinterview 2026 sagte er dann: „Ich habe nie jemandem persönliche Faulheit unterstellt“ ([Zeit](https://www.zeit.de/politik/deutschland/2026-07/friedrich-merz-zdf-sommerinterview-faulheit-arbeitsstunden)).
 
+Die Gegenforderung, weniger zu arbeiten, ist mit der Arbeitslosigkeit verknotet. In Westdeutschland stieg die Zahl der Arbeitslosen von rund 270.000 im Jahr 1973 auf über eine Million 1975 und über zwei Millionen 1983. Darauf antwortete die IG Metall mit der 35-Stunden-Woche: Die vorhandene Arbeit sollte gerechter verteilt werden. 1984 streikte sie dafür sieben Wochen, seit 1995 gilt die 35-Stunden-Woche in der westdeutschen Metallindustrie. Stellen hat sie nicht geschaffen. Für die westdeutschen Branchen von 1984 bis 1994 fand Jennifer Hunt keinen Beschäftigungsgewinn, eher einen Verlust ([Hunt 1999, doi:10.1162/003355399555963](https://doi.org/10.1162/003355399555963)), für Frankreichs 35-Stunden-Gesetz fanden Matthieu Chemin und Étienne Wasmer keinen messbaren Effekt ([Chemin & Wasmer 2009, doi:10.1086/605426](https://doi.org/10.1086/605426)). Als Wunsch der Beschäftigten wurde die kürzere Woche trotzdem erfüllt, mit vollem Lohn. Älter ist die Wette von John Maynard Keynes, der 1930 vorhersagte, seine Enkel kämen mit fünfzehn Wochenstunden aus. Der Wohlstand ist eingetroffen, die freie Zeit nicht, und warum, ist bis heute umstritten ([Pecchi & Piga 2008, doi:10.7551/mitpress/9780262162494.001.0001](https://doi.org/10.7551/mitpress/9780262162494.001.0001), Sammelband); eine Antwort lautet, die Menschen hätten den Zuwachs lieber in Gütern genommen als in Zeit ([Cowen 2017, doi:10.1017/s0265052517000267](https://doi.org/10.1017/s0265052517000267)). Zur Vier-Tage-Woche gibt es inzwischen einen großen Versuch mit Vergleichsgruppe: 141 Organisationen in sechs Ländern stellten bei gleichem Lohn um, und ihre Beschäftigten berichteten weniger Burnout und mehr Zufriedenheit ([Fan et al. 2025, doi:10.1038/s41562-025-02259-6](https://doi.org/10.1038/s41562-025-02259-6)). Ein Pilot der Universität Münster mit 45 Organisationen fand Ähnliches ([idw 2024](https://idw-online.de/de/news841502)). Belastbar ist das nur zum Teil, denn die Firmen hatten sich selbst beworben, und gemessen wurde vor allem, was die Beschäftigten über sich angaben.
+
 **Die Stimmen**
 
 - **[[Herfried Muenkler — Die Sehnsucht nach Ordnung#Der Aufzug und der Schmied|Herfried Münkler]]:** Merz habe mit „ihr arbeitet zu wenig“ und der 40-Stunden-Woche die Realität gut beschrieben und es nur miserabel kommuniziert.
 - **[[Teresa Buecker — Zeit NEU DENKEN#Die Lüge "Deutschland ist faul"|Teresa Bücker]]:** Das Arbeitsvolumen ist seit der Wiedervereinigung gestiegen; gesunken ist nur der Durchschnitt, weil mehr Frauen arbeiten, viele in Teilzeit. „Man muss es als Lüge einstufen.“
-- **[[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz#Arbeitszeit: Der Durchschnitt lügt|Maurice Höfgen]]:** Die Jahresarbeitszeit pro Kopf sank von 1.554 auf rund 1.343 Stunden, die Teilzeitquote stieg von 18,5 auf fast 40 Prozent, die Erwerbstätigenquote auf 77,2 Prozent.
 - **[[NANO Talk — Arbeiten wir zu wenig oder voellig falsch#Die unsichtbare Arbeit: Sorgearbeit als strukturelles Problem|Eva von Redecker]]:** Frauen leisten 44 Prozent mehr unbezahlte Sorgearbeit, einen Vollzeittag pro Woche; was nicht als Arbeit gilt, taucht in keiner Arbeitszeitstatistik auf.
 - **[[MONITOR — Minijobs als Armutsfalle#Die Leistungs-Lüge — wer arbeitet hier zu wenig?|MONITOR]]:** Die Union verlangt, dass mehr gearbeitet wird, und hält an den Minijobs fest, die genau das verhindern.
 - **[[Annette Kehnel — Vom Mittelalter für die Zukunft lernen#Arbeitszeit und Erholung|Annette Kehnel]]:** Im Mittelalter arbeitete man rund 1.600 Stunden im Jahr, mit Blauem Montag und vielen Feiertagen; die langen Arbeitstage sind eine Erfindung der Industrialisierung.
+- **[[NANO Talk — Arbeiten wir zu wenig oder voellig falsch#Arbeitszeitverkürzung als ökologische Kernforderung|Simon Schaupp]]:** Kürzere Arbeitszeit bei vollem Lohnausgleich ist die alte Antwort der Gewerkschaften und heute auch eine ökologische, denn von selbst habe technischer Fortschritt noch nie zu weniger Arbeit geführt.
+- **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Der Köder|Dietmar Dath]]:** Als man nach 1968 weniger arbeiten wollte, antwortete der Markt mit *„der nächsten Wirtschaftskrise. Sehr viele Arbeitslose“*; Wünsche erfüllt er *„vor allen Dingen als Köder“*.
+- **[[DenkerVita/Moritz Rudolph|Moritz Rudolph]]** ([Leuphana 2026](https://www.youtube.com/watch?v=Ne_NPwRpUa4)): Lying Flat in China [▶ 10:43](https://www.youtube.com/watch?v=Ne_NPwRpUa4&t=643) und seine Geschwister in den USA und Indien sind für ihn ein Desengagement, das dem System Energie entzieht, *„systemübergreifend“* [▶ 11:30](https://www.youtube.com/watch?v=Ne_NPwRpUa4&t=690); macht eines Tages die KI die Arbeit, bleibt mit Kojève das Häuserbauen *„zum Zeitvertreib als Form höheren Spiels“* [▶ 39:41](https://www.youtube.com/watch?v=Ne_NPwRpUa4&t=2381).
 
-<details><summary>Weitere Stimmen (2)</summary>
+<details><summary>Weitere Stimmen (4)</summary>
 
+- **[[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz#Arbeitszeit: Der Durchschnitt lügt|Maurice Höfgen]]:** Die Jahresarbeitszeit pro Kopf sank von 1.554 auf rund 1.343 Stunden, die Teilzeitquote stieg von 18,5 auf fast 40 Prozent, die Erwerbstätigenquote auf 77,2 Prozent.
+- **[[Teresa Buecker — Zeit NEU DENKEN#Arbeitsverdichtung und der Technologie-Rebound|Teresa Bücker]]:** Mit der Waschmaschine stiegen die Ansprüche an saubere Wäsche, mit der KI steigt, was an einem Tag herauszuholen ist; gewonnene Zeit wird als Erwartung wieder aufgezehrt.
 - **[[Der Dara — Merz 72-Stunden-Arbeitswoche#Merz beim DGB-Bundeskongress — Buhrufe und Gelächter|Der Dara]]:** Merz fordert vor dem DGB-Bundeskongress Einschnitte und „Eigenverantwortung“ und erntet Buhrufe und Gelächter.
 - **[[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory|Die Neuen Zwanziger]]:** Der Sezession-Herausgeber Erik Lehnert sagt offen, was weniger Einwanderung bedeutet: länger arbeiten, weniger Urlaub.
 
@@ -116,13 +122,14 @@ Wo man anfängt, entscheidet trotzdem viel. Nach einer unsicheren Schätzung der
 - **[[Lukas Baerfuss — Die Fesseln der eigenen Herkunft#Das Glück, das kein Verdienst ist|Lukas Bärfuss]]:** Vom Obdachlosen zum Büchner-Preisträger, und doch: *„Ich würde nicht behaupten, dass das alles durch meinen Willen und durch meine Kraft geschehen ist. Überhaupt nicht.“*
 - **[[Omar Yaghi — Die Welt retten mit Chemie#Trauben und Käse am Zoll|Omar Yaghi]]:** Vom Flüchtlingsraum in Amman zum Nobelpreis, und seine Lehre ist die Gegenrede zu Bärfuss: *„Man kriegt nichts geschenkt, aber das stärkt die Resilienz und letztlich zahlt sich die harte Arbeit aus.“* In seiner Erzählung treten dann doch auffallend viele Helfer auf.
 - **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Michael Hartmann]]:** Nicht Geschlecht oder Migrationshintergrund sollten über Quoten entscheiden, sondern die soziale Herkunft; wer mit Migrationsgeschichte oben ankommt, ist fast immer Akademikerkind.
-- **[[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus#Das blockierte Leben|Carolin Amlinger]]:** Eine Karriere, die für das Aufstiegsversprechen steht, und doch das Gefühl, *„im Leben fundamental blockiert zu sein“*.
+- **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Womit soll ich dich überraschen?|Dietmar Dath]]:** *„Wir steigen in dieses Monopoly nicht bei Runde 1 ein, sondern bei Runde 70“*, und gemessen wird, wie viele ein Medikament bezahlen können, nicht wie viele es brauchen.
 - **[[Tiana Travels — Das amerikanische Betriebssystem#Temporarily Embarrassed Millionaires|Tiana Travels]]:** Wer sich als vorübergehend zurückgefallen sieht, als *temporarily embarrassed millionaire*, schützt die Reichen vorsorglich.
 - **[[Die Neuen Zwanziger — Salon Lektueren Dezember 2025#Die Falle — Warum niemand rauskommt|Die Neuen Zwanziger]]:** Mit Markovits: *„Das größte Opfer der meritokratischen Klasse ist die meritokratische Klasse selber.“*
 - **[[Goetz Aly — Teufelspakt zwischen Volk und Fuehrung#Die junge Generation — Aufstieg ohne Zukunft|Götz Aly]]:** Weimar verdreifachte die Zahl der Abiturienten, dann brach die Wirtschaft zusammen; aus der enttäuschten Aufsteigergeneration kamen die Funktionäre der NSDAP.
 
-<details><summary>Weitere Stimmen (2)</summary>
+<details><summary>Weitere Stimmen (3)</summary>
 
+- **[[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus#Das blockierte Leben|Carolin Amlinger]]:** Eine Karriere, die für das Aufstiegsversprechen steht, und doch das Gefühl, *„im Leben fundamental blockiert zu sein“*.
 - **[[Petersdorff und Seydack — Wie wir unsere Leichtigkeit retten#Soziale Durchlässigkeit — die erste Generation ohne Aufstiegsversprechen|Petersdorff und Seydack]]:** Die Jahrzehnte der Leichtigkeit waren Jahrzehnte der Durchlässigkeit; jetzt kommt die erste Generation, die es nicht besser haben wird als die Eltern.
 - **[[ARTE Re — Wenn Arbeiter Chefs werden#Mehr arbeiten für das gleiche Geld|ARTE Re]]:** Marilyn wird die 56. Anteilseignerin ihrer Genossenschaft, sie verdient den Mindestlohn und strahlt: Arbeit, die einem mitgehört.
 
@@ -140,6 +147,7 @@ Wo man anfängt, entscheidet trotzdem viel. Nach einer unsicheren Schätzung der
 | 26.09.2026 | [[Herfried Muenkler — Die Sehnsucht nach Ordnung#Der Aufzug und der Schmied|Herfried Münkler — Die Sehnsucht nach Ordnung]] | Der Aufzug, das Sprichwort und Merz' Appell · Anstoß zu diesem Panorama |
 | 26.09.2026 | Gespräch (Luc) | Handlungsmacht als Abfolge: erst der Entschluss, dann die Werkzeuge |
 | 28.09.2026 | [[Omar Yaghi — Die Welt retten mit Chemie#Trauben und Käse am Zoll|Omar Yaghi — Die Welt retten mit Chemie?]] | Der amerikanische Traum aus Gewinnersicht, als Gegenstimme zu Bärfuss |
+| 08.10.2026 | [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Nachbesprechung|Dath und Schmitt — Verschwendung als Möglichkeit?]] | Weniger Arbeit als Köder? Arbeitslosigkeit nach 1973, Work-Sharing (Hunt, Chemin & Wasmer), Keynes, Vier-Tage-Woche (Fan et al. 2025) |
 
 ---
 

@@ -239,6 +239,10 @@ Hararis „KI ist kein Werkzeug, sondern Agent" und die Frage nach der KI als Re
 
 Produktive Reibung: Harari sieht die KI als neuen „Meister der Worte", Misselhorn hält dagegen, dass sie Bedeutung nur simuliert (Syntax ohne Semantik). Beide fürchten die Wirkung — uneins darüber, ob dahinter ein Verstehen steckt.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
+
 ---
 
 ## Weiterdenken

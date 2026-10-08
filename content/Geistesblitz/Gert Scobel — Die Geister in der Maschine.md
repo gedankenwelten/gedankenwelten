@@ -276,6 +276,10 @@ Beide Notes handeln von Wissenschaft, deren Prüfmechanismen ausgehöhlt werden,
 
 Lyotards Performativitätskriterium erklärt, warum das Nadelöhr verstopft: Wo Wissen nach Verwertbarkeit und Ausstoß bemessen wird, lohnt sich ein Werkzeug, das schnell plausiblen Text liefert — das Nachschlagen lohnt sich nicht. Zugleich steht Scobels Schluss quer zu seiner eigenen Lyotard-Folge, denn „wir sind es, die die Wahrheit sagen“ setzt eine Instanz voraus, deren Autorität Lyotard bestritten hat.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Maschine widersprechen oder schmeicheln?“.
+
 ---
 
 ## Weiterdenken

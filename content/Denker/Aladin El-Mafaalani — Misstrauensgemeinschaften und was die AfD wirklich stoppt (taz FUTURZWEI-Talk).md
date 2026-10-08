@@ -413,3 +413,7 @@ Marina Weisband hält das Modell „Papa Staat“ — Vertrauen als Lieferleistu
 
 De Weck teilt den Gemeinschaftsbefund und warnt gegen den Deliverism, der Staat solle nur liefern.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“.
+

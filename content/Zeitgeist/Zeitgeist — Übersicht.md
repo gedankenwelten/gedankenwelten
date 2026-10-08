@@ -47,11 +47,12 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*326 Notes — automatisch generiert · nach Thema sortiert*
+*334 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
 
+- [[Zeitgeist/Adam Tooze — Krise und demokratische Gelegenheit|Adam Tooze — Krise und demokratische Gelegenheit]] — Eine Politik, die niemanden zurücklassen will, ist keine Demokratie, sagt Adam Tooze. Am Morgen vor den Ostwahlen 2024 streitet er mit Maja Göpel über Mehrheit, Konsens und Feinde.
 - [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic: Der Kampf um die KI-Kontrolle]]
 - [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|AfD und rechte Influencer vor der Landtagswahl in Sachsen-Anhalt]] — Zwischen dem guten Leben und der fehlenden Perspektive liegt ein Ort — und wer ihn zuerst benennt, gewinnt die Jungen, auch mit der schwarzen Sonne im Rücken.
 - [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Alena Buyx — Gesellschaft NEU DENKEN]] — Eine Ärztin erklärt Gesellschaft über den Körper: warum wir Krisen zu spät erkennen, was der Klick ist, der Menschen umbauen lässt, und woher Zuversicht kommt, wenn die Daten sie nicht hergeben.
@@ -78,6 +79,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]] — Die 40 Prozent stimmen, und der Satz darüber täuscht trotzdem. Fünf Behauptungen über Ausländerkriminalität, gegen die Statistik gelesen, aus der sie stammen.
 - [[Zeitgeist/BissenBlaBla — Bilanz rechter Regierungen|BissenBlaBla — Bilanz rechter Regierungen]]
 - [[Zeitgeist/Bundestalk — Meinungsfreiheit in Deutschland 2026|Bundestalk taz — Wird die Meinungsfreiheit zu sehr eingeschränkt?]]
+- [[Zeitgeist/Carsten Brosda — Naechste Demokratie|Carsten Brosda — Nächste Demokratie?]] — Demokratien verlieren, wenn sie kein Bild mehr von morgen haben. Carsten Brosda sucht es in Siena, bei Cassirer und in der Lücke zwischen Versprechen und Erfüllung.
 - [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf|Cathryn Clüver Ashbrook — Der amerikanische Weckruf]] — Am 250. Geburtstag der USA seziert eine, die beide Ufer kennt, den Umbau der Republik von innen — und was Jeffersons „ewige Wachsamkeit“ heute von uns verlangt.
 - [[Zeitgeist/Gerald Knaus — Ceuta und die Erpressbarkeit Europas|Ceuta und die Erpressbarkeit Europas]] — Fünfzigtausend Menschen an einem Tag, achtundachtzig Tote — und die Panik reist weiter als die Menschen selbst. Über eine Verwundbarkeit, die Europa sich gebaut hat.
 - [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Christoph Butterwegge — Armut NEU DENKEN]]
@@ -96,6 +98,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Februar 2026|Die Neuen Zwanziger — Salon Lektüren Februar 2026]]
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Maerz 2026|Die Neuen Zwanziger — Salon Lektüren März 2026]]
 - [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
+- [[Zeitgeist/Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]] — Was sich nicht rechnet, wird gestrichen: der lange Artikel, der ungeprüfte Beweis, die Gabe ohne Gegengabe. Dietmar Dath verteidigt die Verschwendung und fragt, welche Ordnung Großzügigkeit wirklich macht.
 - [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus|Dobusch und Zaboura — Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus]]
 - [[Zeitgeist/Dror Etkes — Die Landkarte der Besatzung|Dror Etkes — Die Landkarte der Besatzung]] — Er wuchs in einer Siedlung auf und kartiert heute jede neue. Sein Befund über die Zweistaatenlösung ist der unbequemste dieser Reihe: Sie ist vorbei — und er weiß nicht, was danach kommt.
 - [[Zeitgeist/DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA|DW Reporter — Widerstand gegen die KI-Rechenzentren in den USA]] — Die Cloud ist ein Bauwerk aus Beton, Strom und Wasser, und sie wird dort gebaut, wo am wenigsten zurückgefragt wird. Was der KI-Boom kostet, zahlt eine andere Adresse als die, die ihn bucht.
@@ -117,6 +120,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie|Gilda Sahebi und Arne Semsrott — GCA #35: Die Selbstzerstörung der Sozialdemokratie]]
 - [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
 - [[Zeitgeist/Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — Beginnt Großzügigkeit dort, wo die Gerechtigkeit endet, oder ist sie nur ihr freundlicherer Name? Vier Stimmen streiten über die Gabe, den Backlash und einen Kuchen, der nicht mehr wächst.
+- [[Zeitgeist/Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]] — Ein Transformationsforscher gesteht, seine Hoffnung sei nie so klein gewesen, und sammelt trotzdem Utopien im Alltag. Barbara Bleisch fragt ihn, wo er Großzügigkeit selbst lebt.
 - [[Zeitgeist/Hartwin Maas — Bildung NEU DENKEN|Hartwin Maas — Bildung NEU DENKEN]]
 - [[Zeitgeist/Heiner Flassbeck — Deutschlands groesstes Tabu|Heiner Flassbeck — Deutschlands größtes Tabu]]
 - [[Zeitgeist/Heinz Bude — Gesellschaft der Angst|Heinz Bude — Gesellschaft der Angst]]
@@ -144,6 +148,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]] — Von Ayn Rand über René Girard zu Curtis Yarvin: die Ideengeschichte hinter der Allianz von Silicon Valley und Trump — und warum sie auf das Ende der Demokratie zielt.
 - [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei|Kurz & Görlitz — Palantir und die deutsche Polizei (re:publica 26)]]
 - [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler — Bürgerenergie und die Demokratisierung der Energiewende]]
+- [[Zeitgeist/Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]] — Vertrauen heißt, die Hand zu reichen, ohne zu wissen, ob man über den Tisch gezogen wird. Drei Runden fragen, woher es kommt, wer es verspielt und was die Angst daraus macht.
 - [[Zeitgeist/Maja Goepel — Mut zur Zukunft|Maja Göpel — Mut zur Zukunft]]
 - [[Zeitgeist/Inon und Abu Sarah - The Future is Peace|Maoz Inon & Aziz Abu Sarah — The Future is Peace]] — Einer verlor die Eltern am 7. Oktober, der andere den Bruder in israelischer Haft — und beide sagen: Die Naiven seid ihr, die an den Krieg glauben. Frieden ist eine Handlung.
 - [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene|Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] — Ein Kasten Bier landet auf der Straße, und ein Neonazi der Neunziger trainiert heute Geflüchtete: wie man aus der Szene herausfindet, ohne je zu wissen, warum man hineinging — und warum die Geschichte beim Erzählen leichter wird.
@@ -153,6 +158,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]] — Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
 - [[Zeitgeist/Mats Appreciated — Fluchtgeschichten am Mauerweg|Mats Appreciated — Fluchtgeschichten am Mauerweg]] — 160 Kilometer Mauerweg, sieben Fluchtgeschichten voller Mut und Hilfsbereitschaft — und die Erkenntnis, dass unter jedem Gullideckel Hoffnung liegen kann.
 - [[Zeitgeist/Matthias Quent und Maja Goepel — Extremismus NEU DENKEN|Matthias Quent und Maja Göpel — Extremismus NEU DENKEN]]
+- [[Zeitgeist/Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]] — Ist Pazifismus Passivität oder die mühsamere Arbeit? Zwei Schriftstellerinnen und zwei Gastgeber streiten über Aufrüstung, Deserteure und darüber, was eine Stadt sicher macht.
 - [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]]
 - [[Zeitgeist/Morpheus — Warum alle chinesische KI nutzen|Morpheus — Warum alle chinesische KI nutzen]]
 - [[Zeitgeist/Morpheus - Whistleblower mundtot machen|Morpheus — Whistleblower mundtot machen (powered by AI)]]
@@ -172,6 +178,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/rabbit hole — Ungarn-Wahl KI-Wahlkampf|rabbit hole — Ungarn-Wahl: Wird Politik zum KI-Albtraum?]]
 - [[Zeitgeist/republica26 — Wie gelingt die Energiewende|re:publica 26 — Wie gelingt die Energiewende? Und was bedeutet sie für unsere Demokratie?]] — Die Meinungsforscherin und der Netzbetreiber: Was die Deutschen mit der Energiewende verbinden — und warum Versorgungssicherheit das neue Wort für Freiheit ist.
 - [[Zeitgeist/Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat|Rechtspopulismus und der demokratische Verfassungsstaat]] — Vereinfachen ist kein Angriff auf die Demokratie. Der Angriff beginnt dort, wo jemand aufhört, die gleiche politische Freiheit aller überhaupt zu wollen.
+- [[Zeitgeist/Roger de Weck — Was ist konservativ|Roger de Weck — Was ist konservativ, was reaktionär?]] — Konservativ ist demokratisch, reaktionär ist es nicht: Roger de Weck zieht eine Grenze mitten durch das rechte Lager und fragt, warum Konservative in Krisen so oft hinüberkippen.
 - [[Zeitgeist/rp26 — Stresstest fuer die Demokratie Ostdeutschland|rp26 — Stresstest für die Demokratie: Sind wir bereit für den Ernstfall in Ostdeutschland?]]
 - [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]] — Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter an der ukrainischen Front, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
 - [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)|Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
@@ -364,6 +371,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Nicole Bendsen - Zirkulaerer Wert statt lineares Risiko|Nicole Bendsen — Zirkulärer Wert statt lineares Risiko]] — Nur 7 % der globalen Materialströme kehren in den Kreislauf zurück. Nicole Bendsen will die Bewertungslogik der Wirtschaft drehen: Zirkularität nicht als Moral, sondern als Risikorechnung.
 - [[Zeitgeist/Patrick Legun — Die Ziegelsklaven von Lahore|Patrick Legun — Die Ziegelsklaven von Lahore]] — Ein Kredit für ein krankes Kind, ein Vertrag, den niemand lesen kann — und eine Familie, die drei Generationen später noch Ziegel formt, um Zinsen abzutragen.
 - [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert|phoenix-Runde — Rentenreform: Wer gewinnt, wer verliert?]] — Rente zwischen Nachhaltigkeit und Gerechtigkeit — wenn das Reformpaket nur als Ganzes trägt: Wer schultert die Last des längeren Lebens, und wer entscheidet, was fair heißt?
+- [[Zeitgeist/Raul Krauthausen — Teilgabe statt Teilhabe|Raúl Krauthausen — Teilgabe statt Teilhabe]] — Wer schenkt, kann zurücknehmen, und wer beschenkt wird, schuldet Dank. Raúl Krauthausen fragt, wie eine Gesellschaft aussähe, in der Behinderte selbst großzügig sein können.
 - [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte|rp26 — KIs unsichtbare Arbeitskräfte]]
 - [[Zeitgeist/Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da|Sigl-Glöckner & Kaczmarczyk — Geld ist genug da?]] — Die 60-Prozent-Grenze stammt aus einer Fußnote, die sich selbst Zufall nennt. Vier Stimmen fragen, ob Knappheit eine Tatsache ist oder eine Entscheidung — und wem sie dient.
 - [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN|Silke Stremlau & Maja Göpel — Investieren NEU DENKEN]]

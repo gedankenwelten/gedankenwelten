@@ -178,3 +178,7 @@ Gabriel beschreibt philosophisch, wie KI den Menschen nicht mehr als Gegenüber,
 
 Beide finden Claudes Verfassung zu kalifornisch. Gabriel will moralische Tatsachen, Simanowski Perspektivenvielfalt — eine Pflicht zur Pluralität nach dem Vorbild des Rundfunks.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“ und „Soll die Maschine widersprechen oder schmeicheln?“.
+

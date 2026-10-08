@@ -371,6 +371,10 @@ El-Mafaalanis Kuchen, der aufhört zu wachsen, ist Reckwitz' Verlust, der nach e
 
 Brosdas Frage „Resilienz — Rückkehr vor welche Krise, und war der Zustand gut?“ greift die schwache Fassung des Begriffs an.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

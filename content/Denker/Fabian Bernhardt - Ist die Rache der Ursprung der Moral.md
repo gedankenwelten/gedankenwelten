@@ -247,6 +247,10 @@ Bleischs These, Großzügigkeit keime dort, wo das Denken in Gerechtigkeit aufh�
 
 Die Philosophin, von der Bernhardt sich hier abgrenzt, antwortet in Lüneburg: Verzeihen ist der Verzicht auf den Vorwurf, nicht auf die Strafe; Strafverzicht wäre „erwartbar nicht die bessere Idee“, die Großzügigkeit gehöre ins Verfahren, in die Täter-Opfer-Mediation. Wo Bernhardt mit Derrida ein reines Vergeben denkt, knüpft Boshammer das Verzeihen an Bekenntnis.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Wann wird Großzügigkeit zu viel?“.
+
 ---
 
 ## Weiterdenken

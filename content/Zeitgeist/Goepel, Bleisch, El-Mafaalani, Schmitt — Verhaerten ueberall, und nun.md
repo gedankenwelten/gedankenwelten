@@ -363,6 +363,10 @@ Am Nachmittag dreht Krauthausen Bleischs dunkle Seite der Gabe um und fragt nach
 
 Am Nachmittag legt Bleisch ihre Morgenthese Welzer vor; er verweigert die Begriffsfrage und gesteht, den Rollback nicht erwartet zu haben.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“ und „Kann eine Gesellschaft großzügig sein?“.
+
 ---
 
 ## Weiterdenken

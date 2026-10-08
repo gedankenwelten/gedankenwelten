@@ -277,6 +277,10 @@ Steinke/Marinić analysieren, wie Staat und Justiz in den Meinungsraum eingreife
 
 Geschwister-Perspektive: Nico zeigt die EU als demokratisch entleerte Bürokratie, Arne die Bundesrepublik als Ort, wo demokratische Mehrheiten aktiv ignoriert werden. Beide kommen zur selben Diagnose von unterschiedlichen Ebenen — Arne national (IFG, FragDenStaat), Nico europäisch (Bürokostenpauschale, Reisekosten).
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“.
+
 ---
 
 ## Weiterdenken

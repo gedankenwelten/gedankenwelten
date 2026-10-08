@@ -238,6 +238,10 @@ Merkel verteidigt europäische KI-Regeln gegen US-Druck; Büttner und Kaufmann l
 
 Die Souveränitätsfrage im schärfsten Anwendungsfall: Rüstungs-KI. Kuhle bestätigt die Abhängigkeitsdiagnose („kein EU-Unternehmen ohne massives US-Backbone") und setzt auf das Vergaberecht — Dahlmann hält die Drohszenarien amerikanischer Investoren dagegen.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

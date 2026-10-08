@@ -270,6 +270,10 @@ Gabriel argumentiert, KI sei nicht im Gerät, sondern im Resonanzfeld zwischen N
 
 Morpheus' erste Subventionsebene — Industriestrom 50% günstiger als in der EU — hat ihre Vorgeschichte in Chinas jahrzehntelangem Ausbau erneuerbarer Energien. Die Preiswaffe ist das Ergebnis einer grünen Industriestrategie, die der Westen als Klimapolitik beobachtet hat.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“.
+
 ---
 
 ## Weiterdenken

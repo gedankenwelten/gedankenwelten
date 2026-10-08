@@ -237,6 +237,10 @@ Rosas Mediopassiv: Man öffnet sich, das Erleben kommt von woanders. Spitzers In
 
 Feldbestätigung für Spitzers These: Berliner Schüler-Experiment (3 Wochen ohne Handy) und DAK-Studie zeigen in der Praxis, was Spitzer neurobiologisch herleitet. Besonders das Detail, dass jeder 10. Jugendliche KI als empathischer erlebt als echte Menschen, treibt Spitzers Argument auf eine neue Ebene — nicht mehr nur kognitive Ablenkung, sondern Beziehungsersatz.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
+
 ---
 
 ## Weiterführend

@@ -174,3 +174,8 @@ Am Schluss stellt Hans seine Frage noch einmal — was das Bild vom Irak vorher 
 - [[Patrick Legun — Die Ziegelsklaven von Lahore]] — dieselbe Erzählform, entgegengesetzter Befund: ein junger Mann fährt selbst hin, filmt und bringt zurück, was er gesehen hat. Legun findet Schuldknechtschaft, Hans findet Gastfreundschaft. Dass beide ehrlich gearbeitet haben, ist der eigentliche Punkt — Augenzeugenschaft garantiert kein Ergebnis, nur Nähe
 - [[Rutger Bregman — Ist der Mensch wirklich gut]] — bei Bregman ist die Großzügigkeit fremder Menschen eine Beweislage aus Studien und Schiffbrüchen; hier ist sie zwei Wochen Alltag am Straßenrand. Seine These bekommt in diesem Video ihr unspektakulärstes Beweisstück: einen geschenkten Müllsack
 - [[Erich Fromm — Haben oder Sein]] — Fromms Unterscheidung erklärt Franzis Ratlosigkeit am Pool. Sie sucht nach dem Grund für ein Geschenk, weil sie Großzügigkeit als Transaktion denkt. Ihre Gastgeber denken sie als Zustand
+
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Muss man sich Großzügigkeit leisten können?“ und „Wann wird Großzügigkeit zu viel?“.
+

@@ -2,7 +2,7 @@
 title: "Forschung"
 date: 2026-09-28
 erstellt: 2026-09-28
-aktualisiert: 2026-09-28
+aktualisiert: 2026-10-08
 description: "Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -85,11 +85,13 @@ Der Staat ist kein neutraler Mäzen. In den USA scheiterten die geplanten Kürzu
 - **[[ARTE — Forschung Fake und faule Tricks#Bisphenol A: Wenn die Industrie die Ratten aussucht|Robert Proctor und Frederick vom Saal]]:** 93 Prozent der unabhängig finanzierten Studien zu Bisphenol A fanden Schäden, keine einzige der industriefinanzierten; wer zahlt, sucht den Rattenstamm aus.
 - **[[scobel — Lyotard das Ende der Wahrheit#Performativitätskriterium — Wissen als Ware|Lyotard]]** (mit Scobel): Gefragt wird nur noch, ob Wissen verwertbar ist, nicht, ob es wahr ist, und die Universität wird zum Unternehmen, das man an Drittmitteln misst.
 - **[[Michael Sterner — Energiewende-Studie und Reiche-Blockade#Die verschwiegene Studie: 21 Milliarden Euro regionale Wertschöpfung|Michael Sterner]]:** Das Ministerium hält die eigene Auftragsstudie zurück, weil sie der Linie der Ministerin widerspricht; der Auftraggeber kauft notfalls das Schweigen.
+- **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Der Beweis, der vier Jahre wartete|Dietmar Dath]]:** Lieber noch einmal zwei Jahre an einem Beweis sitzen als *„irgendein waffenrelevantes Zeug rechnen“*: *„Ist das nicht die Großzügigkeit, die wir brauchen?“*
+- **Sascha Spoun** (Präsident der Leuphana, im Gespräch mit Stefan Brandt): Auch das Nicht-Ergebnis einer Forschung hat *„einen sehr großen Wert“* [▶ 34:11](https://www.youtube.com/watch?v=FKgygB8FLF4&t=2051), und seine Utopiekonferenz ist mit Absicht *„kein Drittmittelantrag, wo ich vorher schon weiß, was hinten rauskommt“* [▶ 35:08](https://www.youtube.com/watch?v=FKgygB8FLF4&t=2108).
+
+<details><summary>Weitere Stimmen (10)</summary>
+
 - **[[Juergen Kornmeier — Grenzgebiete der Psychologie#Das Institut, das es nicht geben dürfte|Jürgen Kornmeier]]:** Nur eine private Stiftung bezahlt, was der Karriere schadet. *„Wissenschaft ist zum gewissen Teil Politik.“*
 - **[[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar#Der Satz, an dem alles hängt|Ulrike Herrmann]]:** Dass etwas technisch geht, sagt nichts darüber, ob es trägt; am Ende entscheidet, was es kostet.
-
-<details><summary>Weitere Stimmen (8)</summary>
-
 - **[[ARTE — Forschung Fake und faule Tricks#Der Markt als neue Kirche|ARTE]]:** Wo Drittmittel alles steuern, bleiben verwaiste Felder zurück, Nichtwissen ohne Täter.
 - **[[ARTE — Forschung Fake und faule Tricks#Der Heidelberger Aufruf: Nobel-Preisträger als Industrie-Schild|Der Heidelberger Aufruf]]:** Die Asbestindustrie lieh sich die Autorität von 52 Nobelpreisträgern, und niemand fragte, wer bezahlt hatte.
 - **[[Omar Yaghi — Die Welt retten mit Chemie#Trauben und Käse am Zoll|Omar Yaghi]]:** Er geht nach Peking, weil er dort *„die dafür nötigen Ressourcen“* findet; große Wissenschaft folgt dem Geld über Ozeane.
@@ -108,23 +110,27 @@ Der Staat ist kein neutraler Mäzen. In den USA scheiterten die geplanten Kürzu
 
 ## Wie viel darf man der Wissenschaft glauben?
 
-Einen allgemeinen Vertrauensverlust gibt es nicht. In 68 Ländern liegt das Vertrauen in Forschende im Mittel bei 3,62 von 5; 78 Prozent halten sie für kompetent, 57 Prozent für ehrlich, nur 42 Prozent für offen gegenüber anderen Sichtweisen ([Cologna et al. 2025, doi:10.1038/s41562-024-02090-5](https://doi.org/10.1038/s41562-024-02090-5)). In Deutschland vertrauen 54 Prozent der Wissenschaft, mit hoher Bildung 72, mit niedriger 38 Prozent, und nur noch ein Viertel fühlt sich gut informiert ([Wissenschaftsbarometer 2025](https://wissenschaft-im-dialog.de/projekte/wissenschaftsbarometer/)). In den USA ist das Vertrauen seit 2020 von 87 auf 77 Prozent gefallen, zwischen Demokraten und Republikanern liegen 25 Punkte ([Pew 2026](https://www.pewresearch.org/science/2026/01/15/americans-confidence-in-scientists/)).
+Einen allgemeinen Vertrauensverlust gibt es nicht. In 68 Ländern liegt das Vertrauen in Forschende im Mittel bei 3,62 von 5; 78 Prozent halten sie für kompetent, 57 Prozent für ehrlich, nur 42 Prozent für offen gegenüber anderen Sichtweisen ([Cologna et al. 2025, doi:10.1038/s41562-024-02090-5](https://doi.org/10.1038/s41562-024-02090-5)). In Deutschland vertrauen 54 Prozent der Wissenschaft, mit hoher Bildung 72, mit niedriger 38 Prozent, und nur noch ein Viertel fühlt sich gut informiert ([Wissenschaftsbarometer 2025](https://wissenschaft-im-dialog.de/projekte/wissenschaftsbarometer/)). Die Pandemie hat die Kurve kurz hochgerissen, von 46 Prozent 2019 auf 73 im April 2020 ([Wissenschaftsbarometer 2020](https://wissenschaft-im-dialog.de/documents/4/WiD-Wissenschaftsbarometer_2020_Broschuere_final.pdf)); seither ist sie deutlich gefallen und liegt doch über dem Stand vor der Krise. In den USA ist das Vertrauen seit 2020 von 87 auf 77 Prozent gefallen, zwischen Demokraten und Republikanern liegen 25 Punkte ([Pew 2026](https://www.pewresearch.org/science/2026/01/15/americans-confidence-in-scientists/)).
 
 Dagegen steht, was die Forschung über sich selbst herausfand. Als 270 Psychologen hundert veröffentlichte Studien wiederholten, bestätigte sich gut ein Drittel, und die Effekte waren im Schnitt halb so groß ([Open Science Collaboration 2015, doi:10.1126/science.aac4716](https://doi.org/10.1126/science.aac4716)); die Deutung ist umstritten ([Gilbert et al. 2016, doi:10.1126/science.aad7243](https://doi.org/10.1126/science.aad7243)). Von 21 sozialwissenschaftlichen Experimenten aus *Nature* und *Science* hielten 13 ([Camerer et al. 2018, doi:10.1038/s41562-018-0399-z](https://doi.org/10.1038/s41562-018-0399-z)); in der Krebsbiologie lagen die wiederholten Effekte im Median um 85 Prozent unter den ursprünglichen ([Errington et al. 2021, doi:10.7554/eLife.71601](https://doi.org/10.7554/eLife.71601)). Und selbst die Korrektur korrigiert sich: Eine Studie, die 2023 mit besseren Methoden 86 Prozent Wiederholbarkeit meldete, wurde 2024 zurückgezogen, weil ihre Angaben zur Vorab-Registrierung nicht stimmten ([Protzko et al., doi:10.1038/s41562-023-01749-9](https://doi.org/10.1038/s41562-023-01749-9)). Das Verfahren findet seine Fehler, nur langsamer, als die Schlagzeilen sie verbreiten.
+
+Wie viel es kostet, diese Unsicherheit offen auszusprechen, ist gemessen, und es ist wenig. Wer zu einer Zahl die Spanne nennt, in der sie liegen kann, verliert dabei nur geringfügig an Vertrauen ([van der Bles et al. 2020, doi:10.1073/pnas.1913678117](https://doi.org/10.1073/pnas.1913678117)). In Experimenten aus Dänemark und den USA machte Offenheit über die Nachteile eines Impfstoffs die Menschen etwas weniger impfbereit, aber sie vertrauten den Behörden mehr und glaubten seltener an Verschwörungen ([Petersen et al. 2021, doi:10.1073/pnas.2024597118](https://doi.org/10.1073/pnas.2024597118)). Die Gegenstrategie, in der Krise mit Angst zu arbeiten, verfolgt die Nachbesprechung zu [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Darf ein Staat in der Krise Angst machen?|Vertrauen, utopisch?]]; ein eigenes Panorama hat diese Frage noch nicht.
 
 **Die Stimmen**
 
 - **[[Torsten Wilholt — Wahrheit und Wissen#Der Skeptiker als Anfänger — Wissen ist keine Gewissheit|Torsten Wilholt]]:** Aus „ich kann mich immer irren“ folgt nicht „ich irre mich immer“; Fallibilismus ist vernünftig, Skeptizismus ein Fehlschluss.
 - **[[Philipp Blom — Die Unterwerfung#Meinungen sind wie Kleider|Philipp Blom]]:** Wissenschaft liefert nützliche Modelle und keine Wahrheit, und doch ist sie das Beste, dem man glauben kann; er räumt ein, dass gerade Zweifler diesen Satz gern zitieren.
-- **[[Juergen Kornmeier — Grenzgebiete der Psychologie#Der Rosenduft|Jürgen Kornmeier]]:** Über einen Befund entscheidet, ob er wiederkommt, wenn ein anderer ihn ruft, nicht seine Wucht.
-- **[[Rutger Bregman — Ist der Mensch wirklich gut#Der Widerlegungsapparat — wenn berühmte Experimente Schwindel waren|Rutger Bregman]]:** Das Stanford-Prison-Experiment war inszeniert und wurde trotzdem zum Lehrbuchwissen über den Menschen.
+- **[[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Alimentiert, um nachzudenken|Heinz Bude]]:** Er werde *„alimentiert“*, um über die Welt nachzudenken, und hält sich an Bruno Latours Unterscheidung: Wissenschaft macht evidente Aussagen, Forschung ist institutionalisierte Neugier, die sich an der Wirklichkeit selbst in Frage stellt.
+- **[[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Alimentiert, um nachzudenken|Florence Gaub]]:** Im selben Gespräch die Gegenantwort: *„Man sollte seine Ideen nicht heiraten, man sollte sie daten“*; ihr Team prüft die eigenen alten Zukunftsberichte darauf, was eingetreten ist und warum nicht.
 - **[[ARTE — Forschung Fake und faule Tricks#Kognitive Mechanismen: Wenn das Gehirn selbst Nichtwissen produziert|Stephan Lewandowsky]]:** Wer einen Konsens als Bedrohung seines Weltbilds erlebt, muss ihn wegerklären, am leichtesten mit der Behauptung, er sei abgesprochen.
 - **[[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung#Das große Aber|Jacob Beautemps]]:** Offen benannte Unsicherheit kostet Dramatik und gewinnt Vertrauen.
 - **[[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Vertrauen und Misstrauen: Soziologische Grundlagen|Aladin El-Mafaalani]]:** Konstruktives Misstrauen will verbessern, destruktives lehnt das System ab; verlorenes Vertrauen kommt kaum zurück.
 - **[[Mark Benecke — Umwelt-Messungen Sommer 2026#1975 — Die Vorhersage, die niemand hören wollte|Mark Benecke]]:** Die Klimaprognose von 1975 stimmte fast genau; am Wissen lag es nie, die Gesellschaft hat weggeschaut.
 
-<details><summary>Weitere Stimmen (5)</summary>
+<details><summary>Weitere Stimmen (7)</summary>
 
+- **[[Juergen Kornmeier — Grenzgebiete der Psychologie#Der Rosenduft|Jürgen Kornmeier]]:** Über einen Befund entscheidet, ob er wiederkommt, wenn ein anderer ihn ruft, nicht seine Wucht.
+- **[[Rutger Bregman — Ist der Mensch wirklich gut#Der Widerlegungsapparat — wenn berühmte Experimente Schwindel waren|Rutger Bregman]]:** Das Stanford-Prison-Experiment war inszeniert und wurde trotzdem zum Lehrbuchwissen über den Menschen.
 - **[[Walther Ziegler — Popper in 60 Minuten#Falsifikation — das Schwanen-Prinzip|Karl Popper]]** (mit Ziegler): Alles Wissen ist Vermutung, aber es gibt Annäherung an die Wahrheit.
 - **[[Albert Moukheiber — Mein Hirn und die anderen#10. Vertrauen — der unsichtbare Kit der Zivilisation|Albert Moukheiber]]:** Wir hängen alle vom Wissen anderer ab; entscheidend ist, zu wissen, wann man vertrauen darf.
 - **[[ARTE — Forschung Fake und faule Tricks#Klimaskepsis: Twitter-Schlachtfeld und ideologische Wurzeln|Naomi Oreskes]]:** Die ersten Klimaskeptiker waren Physiker des Kalten Krieges, getrieben mehr von Ideologie als von Geld.
@@ -140,6 +146,8 @@ Dagegen steht, was die Forschung über sich selbst herausfand. Als 270 Psycholog
 
 ## Was macht die KI aus der Forschung?
 
+*Was die Maschine mit dem Denken der Einzelnen macht, mit Lesen, Schreiben und Erinnern, verfolgt das Panorama [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]. Hier geht es um die Forschung als Betrieb.*
+
 2021 sagte AlphaFold Proteinstrukturen mit fast atomarer Genauigkeit voraus ([Jumper et al. 2021, doi:10.1038/s41586-021-03819-2](https://doi.org/10.1038/s41586-021-03819-2)), 2024 gab es dafür den Chemie-Nobelpreis. Ein selbstfahrendes Labor meldete 2023, es habe in 17 Tagen 41 neue Verbindungen hergestellt ([Szymanski et al. 2023, doi:10.1038/s41586-023-06734-w](https://doi.org/10.1038/s41586-023-06734-w)); eine Nachprüfung fand systematische Fehler in der automatischen Auswertung und kam zu dem Schluss, dass keine neuen Materialien entdeckt worden waren ([Leeman et al. 2024, doi:10.1103/PRXEnergy.3.011002](https://doi.org/10.1103/PRXEnergy.3.011002)). Ein vielzitiertes Arbeitspapier, nach dem KI Materialforschern zu weit mehr Entdeckungen verholfen habe, wurde 2025 zurückgezogen, weil das MIT kein Vertrauen in seine Daten mehr hatte ([MIT Economics 2025](https://economics.mit.edu/news/assuring-accurate-research-record)).
 
 Was die KI mit den Forschenden macht, ist inzwischen gemessen. Wer sie nutzt, veröffentlicht dreimal so viel, wird fast fünfmal so oft zitiert und leitet früher eigene Projekte, während sich die Wissenschaft als Ganzes auf weniger Themen verengt ([Hao et al. 2026, doi:10.1038/s41586-025-09922-y](https://doi.org/10.1038/s41586-025-09922-y), 41 Millionen Artikel). Die Anthropologin Lisa Messeri und die Psychologin Molly Crockett hatten genau das vorhergesagt: KI erzeuge die Illusion, mehr zu verstehen, und Monokulturen des Wissens, in denen man die Fragen stellt, die zur Maschine passen ([Messeri & Crockett 2024, doi:10.1038/s41586-024-07146-0](https://doi.org/10.1038/s41586-024-07146-0), Perspektive). Mindestens 13,5 Prozent der biomedizinischen Zusammenfassungen von 2024 wurden mit Sprachmodellen bearbeitet ([Kobak et al. 2025, doi:10.1126/sciadv.adt3813](https://doi.org/10.1126/sciadv.adt3813)). Und dieselbe Technik schneidet in beide Richtungen: Ein Modell, das Medikamente entwerfen sollte, lieferte umgepolt in unter sechs Stunden rund 40.000 Kandidaten für Giftstoffe ([Urbina et al. 2022, doi:10.1038/s42256-022-00465-9](https://doi.org/10.1038/s42256-022-00465-9)).
@@ -148,15 +156,16 @@ Was die KI mit den Forschenden macht, ist inzwischen gemessen. Wer sie nutzt, ve
 
 - **[[Christian Bauckhage - KI Wir haben noch gar nichts gesehen#AlphaFold, oder: wenn das Unmögliche fällt|Christian Bauckhage]]:** Siebzig Jahre Forschung ergaben 200.000 Proteinstrukturen, AlphaFold 200 Millionen; wem da nicht schwindlig wird, dem ist nicht zu helfen.
 - **[[Ken Ono — Wenn das Wissen billig wird#Der außergewöhnlichste Bibliothekar der Welt|Ken Ono]]:** Die KI hält das Wissen, der Mensch verantwortet die Entscheidung; wenn Wissen billig wird, wird das Urteil teuer.
+- **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Der Beweis, der vier Jahre wartete|Dietmar Dath]]:** Eine KI könnte schnell prüfen, worauf ein Mathematiker vier Jahre warten musste; Dath fragt lieber, warum niemand einem Menschen zwei Jahre schenkt, um sich mit dem Beweis zu befassen (geprüft hat den Beweis am Ende das Projekt Flyspeck, elf Jahre menschlicher Arbeit an Beweisassistenten, keine KI).
 - **[[Omar Yaghi — Die Welt retten mit Chemie#Wenn Moleküle billig werden|Omar Yaghi]]:** Früher 200 MOFs in 35 Jahren, heute Tausende in zwei Tagen; es entsteht eine „Selektionswissenschaft“, deren Qualität an der Auswahl hängt.
 - **[[Gert Scobel — Die Geister in der Maschine#Wer exorziert die Exorzisten?|Gert Scobel]]:** KI rechnet mit Wahrscheinlichkeiten statt mit Wahrheiten; die Prüfung muss beim Menschen bleiben.
 - **[[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#MuZero — Technisches Mu als Realisierung von Kreativität|Markus Gabriel]]:** *„KI ist Kreativität“* — die Frage, ob Maschinen Neues schaffen können, ist für ihn erledigt.
-- **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Was können künstliche neuronale Netze nicht lernen?|Rainer Mühlhoff]]:** Was KI wirklich kann, interessiert ihn weniger als das, wofür sie verkauft wird; das verändert, was eine Tätigkeit wie Benoten überhaupt heißt.
 - **[[KI-Agenten — Vom Dorf zur Zivilisation#Glaubwürdiger als Menschen?|Joon Sung Park]]:** Simulierte KI-Agenten wirken glaubwürdiger als menschliche Antworten und werden so zum Werkzeug der Sozialforschung; ob der Eindruck stimmt, bleibt offen.
 - **[[Wolfram Eilenberger — Die größte Lüge der Philosophie#KI als unerwartete Befreiung|Wolfram Eilenberger]]:** Wenn KI Fachartikel in dreißig Sekunden schreibt, bricht das akademische Prüfsystem zusammen, und darin liegt eine Chance.
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
+- **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Was können künstliche neuronale Netze nicht lernen?|Rainer Mühlhoff]]:** Was KI wirklich kann, interessiert ihn weniger als das, wofür sie verkauft wird; das verändert, was eine Tätigkeit wie Benoten überhaupt heißt.
 - **[[Manfred Spitzer — KI, Gehirn und Lernen#5. AlphaFold — KI löst ein 50 Jahre altes Problem|Manfred Spitzer]]:** AlphaFold ohne Patent hat die Pharmaforschung entfesselt; Autor eines Fachartikels kann eine KI trotzdem nie sein.
 - **[[Albert Moukheiber — Mein Hirn und die anderen#11. KI und das Ende des kalibrierten Vertrauens|Albert Moukheiber]]:** Es braucht ein System, das die Zuverlässigkeit der KI bewertet.
 - **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#KI als Marketingbegriff — und seine militärische Herkunft|Constanze Kurz]]:** Die Durchbruchsversprechen der KI kehren seit den 1960er-Jahren wieder.
@@ -175,6 +184,7 @@ Was die KI mit den Forschenden macht, ist inzwischen gemessen. Wer sie nutzt, ve
 |---|---|---|
 | 28.09.2026 | [[Omar Yaghi — Die Welt retten mit Chemie#Nicht mein Bereich — was man über die Verantwortung der Forschung weiß|Omar Yaghi — Die Welt retten mit Chemie?]] | Die Linie zwischen Labor und Gesellschaft, Weber und die Doppelrolle als Forscher und Gründer · Anstoß zu diesem Panorama |
 | 28.09.2026 | [[Omar Yaghi — Die Welt retten mit Chemie#Wasser aus der Luft — was es an Zahlen gibt|Omar Yaghi — Die Welt retten mit Chemie?]] | Was vom Wasserversprechen greifbar ist: Kapazitäten ohne Messung, Preis im Vergleich, Jordaniens Entsalzung |
+| 08.10.2026 | [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Darf ein Staat in der Krise Angst machen?|Göpel und Marinić — Vertrauen, utopisch?]] | Vertrauen in die Wissenschaft vor, in und nach der Pandemie; was offen benannte Unsicherheit kostet (van der Bles 2020, Petersen 2021) · die Angst-Frage selbst bleibt ohne Panorama |
 
 ---
 
@@ -182,6 +192,9 @@ Was die KI mit den Forschenden macht, ist inzwischen gemessen. Wer sie nutzt, ve
 
 ### → [[Panorama/Fortschritt|Fortschritt]]
 Das Versprechen, dass es besser wird, im Großen. Hier die Werkstatt, in der es gemacht wird, und die Frage, wer über ihre Erzeugnisse entscheidet.
+
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+Die Schwesterfrage zur vierten hier: was die Maschine mit dem Denken der Einzelnen macht, nicht mit dem Labor.
 
 ### → [[Panorama/Energie|Energie]]
 Das Feld, in dem die Fragen dieses Panoramas am schärfsten aufeinandertreffen: Gutachten, die zurückgehalten werden, Forschende, die sich einmischen, und Technik, die möglich ist und trotzdem unbezahlbar sein kann.

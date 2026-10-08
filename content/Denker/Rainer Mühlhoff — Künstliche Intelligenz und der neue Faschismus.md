@@ -442,3 +442,7 @@ Carlotta Voß empfiehlt Mühlhoffs Buch am Ende des Abends — und die Texte, di
 
 Desouveränisierung als Verwaltungsvorgang: Amtsträger unterschreiben Geheimhaltungsvereinbarungen, der Bauherr bleibt ein namenloser Fortune-100-Konzern, die EPA gibt die Regulierung 2026 an die Bundesstaaten zurück. Gewählte Vertreter dürfen entscheiden, aber nicht wissen. Der Riss in der Prognose sitzt allerdings an einer unerwarteten Stelle: Ausgerechnet die unterste Ebene — Bebauungsplan, Anhörung, Kreistagssitzung — hält stand und lehnt einstimmig ab.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“.
+
