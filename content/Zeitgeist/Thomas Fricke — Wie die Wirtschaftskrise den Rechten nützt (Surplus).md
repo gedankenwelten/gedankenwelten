@@ -164,7 +164,7 @@ Heitmeyers Verrohungsthese und Frickes Kontrollverlust-These greifen ineinander:
 
 ### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
-Frickes empirische Analyse der wirtschaftlichen Stagnation liefert den materiellen Unterbau zu Posschardts Kulturkritik: Dieselbe Erschöpfung des Gegenwartsmodells — bei Poschardt kulturell-ästhetisch, bei Fricke ökonomisch gefasst.
+Frickes empirische Analyse der wirtschaftlichen Stagnation liefert den materiellen Unterbau zu Poschardts Kulturkritik: Dieselbe Erschöpfung des Gegenwartsmodells — bei Poschardt kulturell-ästhetisch, bei Fricke ökonomisch gefasst.
 
 ### → [[Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
 

@@ -181,7 +181,7 @@ Moukheiber beschreibt das soziale Gehirn und kognitive Verzerrungen; Yu politisi
 
 ### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
-Yus neurologische Erklärung, warum liberal/konservativ tiefer liegt als rationale Überzeugung, unterfüttert Möllers' Prämisse, dass Demokratie unauflösbaren Dissens institutionell anerkennen muss — und erklärt, warum Posschardts Kulturkritik so schwer in politische Lösungen übersetzt.
+Yus neurologische Erklärung, warum liberal/konservativ tiefer liegt als rationale Überzeugung, unterfüttert Möllers' Prämisse, dass Demokratie unauflösbaren Dissens institutionell anerkennen muss — und erklärt, warum Poschardts Kulturkritik so schwer in politische Lösungen übersetzt.
 
 ### → [[Albert Moukheiber — Mein Hirn und ich]]
 

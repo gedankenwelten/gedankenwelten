@@ -259,7 +259,7 @@ beide zitieren Hannah Arendt als Zeugin der Gegenwart; Redecker beschreibt den n
 
 ### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
-Schwans Unterscheidung von Herrschaftsmacht und Gestaltungsmacht kartiert denselben Spannungsraum wie Möllers: Demokratie als Ermöglichungsbedingung von Freiheit — nicht als ihr Gegenpol. Posschardts Staatsnähekritik würde Schwan als Fehldeutung von Macht lesen.
+Schwans Unterscheidung von Herrschaftsmacht und Gestaltungsmacht kartiert denselben Spannungsraum wie Möllers: Demokratie als Ermöglichungsbedingung von Freiheit — nicht als ihr Gegenpol. Poschardts Staatsnähekritik würde Schwan als Fehldeutung von Macht lesen.
 
 Hagemeyer liefert die klinische Innenperspektive auf Narzissmus, die Schwan politisch anwendet: warum narzisstische Persönlichkeiten gerade in Machtpositionen katastrophisch sind
 

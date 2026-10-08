@@ -226,7 +226,7 @@ Kempers Analyse von Faschismus als Klassen- und Ideologiephänomen des 21. Jahrh
 
 ### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
-Potters empirische Analyse der neuen autoritären Linken ist das Fallbeispiel zu Posschardts Schitbürgertum-These: Wo Poschardt das Phänomen kulturkritisch benennt, seziert Potter es journalistisch von innen.
+Potters empirische Analyse der neuen autoritären Linken ist das Fallbeispiel zu Poschardts Shitbürgertum-These: Wo Poschardt das Phänomen kulturkritisch benennt, seziert Potter es journalistisch von innen.
 
 Haidts Stammeslogik erklärt, wie postkoloniale Theorie als moralisches Fundierungssystem funktioniert: sie liefert eine klare In-group/Out-group-Struktur, die Potters Beschreibung der Radikalisierungsdynamik psychologisch untermauert.
 

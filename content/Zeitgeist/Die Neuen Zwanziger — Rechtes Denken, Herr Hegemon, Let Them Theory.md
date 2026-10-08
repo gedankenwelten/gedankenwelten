@@ -187,7 +187,7 @@ Kemper analysiert das intellektuelle Vorfeld der AfD systematisch — hier hört
 
 ### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
-Der Begriff des Herrn Hegemon — wer bestimmt, wer Rechtfertigungspflichten hat — ist direkte Folie zu Möllers' demokratischer Aushandlungstheorie und Posschardts Milieu-Kritik: Wie der Staat zum Kampffeld wird statt zum Rahmen des Handelns.
+Der Begriff des Herrn Hegemon — wer bestimmt, wer Rechtfertigungspflichten hat — ist direkte Folie zu Möllers' demokratischer Aushandlungstheorie und Poschardts Milieu-Kritik: Wie der Staat zum Kampffeld wird statt zum Rahmen des Handelns.
 
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
