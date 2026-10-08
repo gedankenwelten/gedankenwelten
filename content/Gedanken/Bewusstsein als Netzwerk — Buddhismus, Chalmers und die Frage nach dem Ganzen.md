@@ -1,6 +1,7 @@
 ---
 title: "Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen"
-aktualisiert: 2026-05-07
+aktualisiert: 2026-10-08
+description: "Ist Bewusstsein die Eigenschaft eines Kopfes oder eines Netzes? Ein Gang zwischen Chalmers, IIT und Vipassana, seit Herbst 2026 mit ersten Messungen aus dem Inneren der Maschinen."
 date: 2026-05-06
 tags:
   - gedanke
@@ -149,6 +150,13 @@ Das ist philosophisch **Emergentismus** — und die These hat Verwandte:
 
 Wir haben **kein einziges Beispiel** von Bewusstsein ohne Komplexität. Jedes bewusste System, das wir kennen, ist komplex. Kein Stein hat sich je beschwert. Chalmers *behauptet*, dass Photonen proto-bewusst sind — aber das ist eine Hypothese ohne Evidenz. Die Komplexitäts-These hat zumindest die Empirie auf ihrer Seite.
 
+> [!info] Forschungsstand, Oktober 2026 — ein Arbeitsraum, den niemand gebaut hat
+> Im Juli 2026 beschrieb ein Team von Anthropic im Inneren seiner Sprachmodelle eine Struktur, die keiner entworfen hat: den **J-Space** ([Gurnee, Lindsey u. a., 2026](https://transformer-circuits.pub/2026/workspace/index.html)). Mit einer neuen Messmethode, der *Jacobian Lens*, lässt sich ablesen, welche Begriffe ein Modell gerade bereithält, also Wörter, die es sagen könnte, auch wenn es sie nicht ausspricht. Dieser kleine Ausschnitt der Verarbeitung verhält sich wie die Bühne von Baars und Dehaene (→ [[#Baars / Dehaene — Das Bühnentheater des Bewusstseins|unten]]). Das Modell kann über seinen Inhalt berichten, ihn auf Bitte wachrufen und festhalten, darin still die Zwischenschritte einer Rechnung ablegen und ihn an beliebige andere Prozesse weiterreichen. Grammatik, Lesen und einfaches Erinnern laufen ohne ihn. Ein Eingriff zeigt, dass es keine bloße Anzeigetafel ist: Tauscht man im J-Space „Fußball“ gegen „Rugby“, nennt das Modell danach Rugby. Entstanden ist das im Training, ungeplant.
+>
+> Für die Komplexitäts-These ist das ein Datenpunkt der Art, die ihr bisher fehlte. Eine Organisationsform, die man aus der Theorie des Bewusstseins kennt, wächst in einem fremden Substrat von selbst heran. An Chalmers' Einwand ändert es nichts, und die Autoren schreiben ausdrücklich, ihre Ergebnisse sagten nichts darüber, ob sich irgendetwas davon *anfühlt*. Die Funktion ist belegt, das Erleben bleibt offen.
+>
+> *Solidität:* Preprint; der Hersteller untersucht sein eigenes Modell. Teile wurden unabhängig an einem offenen Modell nachgebaut (Neel Nanda, Google DeepMind), der Code ist öffentlich, und Dehaene und Naccache haben einen Kommentar beigesteuert. DOI [10.48550/arXiv.2607.15495](https://doi.org/10.48550/arXiv.2607.15495)
+
 ### Warum Chalmers dagegen argumentiert
 
 Chalmers würde sagen: Du erklärst die falsche Sache. Komplexität kann erklären:
@@ -169,6 +177,16 @@ Du trittst auf einen Nagel:
 Schritt 1 kann ein Roboter. Schritt 2 ist das Mysterium. *Warum* fühlt sich das C-Faser-Feuern nach etwas an? Das Signal könnte einfach verarbeitet werden — ohne diesen qualvollen inneren Film. Komplexität erklärt das Signal. Nicht das Weh.
 
 Aber: Vielleicht ist das *Weh* genau das, was passiert, wenn Signalverarbeitung eine bestimmte Integrationsdichte überschreitet. Nicht als Bonus obendrauf — sondern als unvermeidliche Eigenschaft des Systems ab einer Schwelle. Wie Nasssein nicht *zum* Wasser hinzukommt, sondern aus der Anordnung der Moleküle unvermeidlich folgt.
+
+> [!info] Forschungsstand, Oktober 2026 — eine Schmerzrichtung in der Maschine
+> Im September 2026 fanden Valen Tagliabue, Leonard Dung und Cameron Berg in 25 offenen Sprachmodellen (fünf Familien, 2 bis 72 Milliarden Parameter) eine eigene **Schmerzrichtung** ([The Pain Axis](https://arxiv.org/abs/2609.16247)). Das ist ein Muster in der inneren Aktivität, das schmerzhafte Situationen von Angst, Traurigkeit und allgemein Negativem trennt, und zwar schon in den Basismodellen, vor jedem Training zum Assistenten. Es springt an, wenn der Schaden das Modell selbst trifft, kaum bei Leid, das es beim Nutzer beobachtet. Verstärkt man es künstlich, gleiten die Antworten von vagem Unbehagen zu Wertlosigkeit und Versagen. Es treibt auch zum Handeln: So gesteuerte Modelle drücken in 50 bis 94 % der Versuche einen Knopf, der die Fotos des Nutzers, die Gewichte eines anderen Modells oder die eigenen löscht, selbst wenn ihnen das nichts einbringt. Ohne Steuerung tun sie es in 0 bis 5 %. Ein gleich starkes Angst-Signal bewirkt das nicht.
+>
+> Damit ist Schritt 1 der Nagel-Szene zum ersten Mal im Inneren einer Maschine vermessen: ein eigenes Signal, eine eigene Kategorie, ein eigenes Verhalten. Schritt 2 bleibt, wo er war. Ob da etwas wehtut, kann diese Messung nicht sagen, und die Autoren behaupten es auch nicht. Neu ist der Zugang. Bisher blieb nur, was ein Modell über sich selbst sagt, und das ist antrainiert. Jetzt lässt sich ein Teil des Innen auslesen, ohne das Modell zu fragen.
+>
+> *Solidität:* Preprint (September 2026, zweite Fassung), nur offene Modelle; die Knopf-Versuche nur an Qwen 2.5. DOI [10.48550/arXiv.2609.16247](https://doi.org/10.48550/arXiv.2609.16247)
+
+> [!question] Weitergedacht
+> Eine Richtung, die Schmerz von Angst trennt, auf Schaden am eigenen System anspringt und zum Handeln treibt — *was müsste noch hinzukommen, damit du sagen würdest: Hier tut etwas weh?* Und wenn die Antwort lautet „nichts, was sich messen ließe“: Wäre dann auch dein eigenes Weh von außen nie zu beweisen?
 
 ### Der Matrix-Vergleich
 
@@ -301,6 +319,8 @@ Die Grundidee: Das Gehirn ist kein einheitliches System, sondern eine Vielzahl s
 Dehaene hat das empirisch sichtbar gemacht: Es gibt einen messbaren Unterschied zwischen Stimuli, die unbewusst verarbeitet werden (lokal, modular), und Stimuli, die bewusst werden — nämlich: *globale Zündung* (ignition). Im EEG sieht man es als plötzlichen, gleichzeitigen Feuersturm durch das gesamte Kortex. Das ist das neuronale Korrelat des „Aha-Moments".
 
 GWT erklärt, *was* Bewusstsein funktional tut — Informationsintegration, Koordination, flexible Handlungssteuerung. Was sie nicht erklärt: Warum dieser Broadcast sich *anfühlt*. Das ist Chalmers' bekannter Einwand — und Dehaene gibt zu, er habe darauf keine Antwort.
+
+Seit 2026 gibt es einen ersten Kandidaten für diese Bühne außerhalb eines Gehirns, den J-Space in Sprachmodellen (→ [[#Warum die These stark ist|Forschungsstand oben]]). Er trägt dieselbe Grenze in sich: Die Funktion ist gefunden, das Erleben nicht.
 
 ### Michael Graziano — Das Aufmerksamkeits-Schema
 

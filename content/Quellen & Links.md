@@ -4899,3 +4899,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Presseclub — Brandmauer nach links]] |
 | **DenkerVita** | [[DenkerVita/Anke Myrrhe]] · [[DenkerVita/Sebastian Puschner]] · [[DenkerVita/Sascha Chaimowicz]] · [[DenkerVita/Christine Dankbar]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Presseclub_Brandmauer_Links_Transkript.txt` (YouTube-Automatikuntertitel, deutsch; Sprecher per Standbild zugeordnet) |
+
+
+## KI von innen: J-Space und Pain Axis (Forschungsstand Oktober 2026)
+
+| | |
+|---|---|
+| **Paper** | [Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html): Gurnee, Lindsey u. a. (Anthropic), Juli 2026, Preprint, DOI [10.48550/arXiv.2607.15495](https://doi.org/10.48550/arXiv.2607.15495) · [Blogpost](https://www.anthropic.com/research/global-workspace) · [Kommentare Dehaene/Naccache, Eleos, Nanda](https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf) |
+| **Paper** | [The Pain Axis: LLMs Represent Self-Directed Harm and Act on It](https://arxiv.org/abs/2609.16247): Tagliabue, Dung, Berg, September 2026, Preprint (v2), DOI [10.48550/arXiv.2609.16247](https://doi.org/10.48550/arXiv.2609.16247) |
+| **Anlass** | [Mark Benecke & Ines — Eifersüchtige und täuschende KI](https://www.youtube.com/watch?v=EypeFFG4eNU) (04.10.2026, 37 min): nicht verwendet, ohne Quellen und in mehreren Punkten ungenau |
+| **Notiz** | [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]] |
+
