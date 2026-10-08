@@ -39,7 +39,7 @@ Möllers' Weg zur Rechtsphilosophie war von Anfang an von einer doppelten Frage 
 
 Er promovierte früh, habilitierte in München, und was ihn von der großen Mehrheit seiner Kollegen unterscheidet: Er schreibt für mehr als die Zunft. *Freiheitsgrade* war kein Fachbuch — es war ein Traktat, das in der Öffentlichkeit gelesen und debattiert wurde. Der Essay-Preis der Traktatus-Auszeichnung bestätigt: Möllers kann nicht nur analysieren, er kann schreiben.
 
-Sein Denken über Demokratie ist nicht naiv. Er hat miterlebt, wie die Grünen von einer staatskritischen Bewegung zu einer staatsbejahenden Partei wurden — er interpretiert das nicht als Verrat, sondern als soziale Logik von Institutionalisierung. Er sieht, dass der Freiheitsbegriff heute von rechts mit Leidenschaft vertreten wird — und er weiß, warum das so ist. Aber er gibt keine wohlfeilen Antworten. Seine Antwort auf Posschardts Schitbürgertum ist nicht Zustimmung oder Empörung, sondern eine präzise philosophische Revision: Was demokratische Mehrheiten beschlossen haben, ist selbst Produkt der Freiheit.
+Sein Denken über Demokratie ist nicht naiv. Er hat miterlebt, wie die Grünen von einer staatskritischen Bewegung zu einer staatsbejahenden Partei wurden — er interpretiert das nicht als Verrat, sondern als soziale Logik von Institutionalisierung. Er sieht, dass der Freiheitsbegriff heute von rechts mit Leidenschaft vertreten wird — und er weiß, warum das so ist. Aber er gibt keine wohlfeilen Antworten. Seine Antwort auf Poschardts Shitbürgertum ist nicht Zustimmung oder Empörung, sondern eine präzise philosophische Revision: Was demokratische Mehrheiten beschlossen haben, ist selbst Produkt der Freiheit.
 
 ---
 
@@ -74,7 +74,7 @@ Sein Denken über Demokratie ist nicht naiv. Er hat miterlebt, wie die Grünen v
 
 ## Politische Einordnung
 
-Möllers ist schwer einzuordnen — und das ist sein Programm. Er ist kein Libertärer, kein Neoliberaler, kein Etatist. Er ist institutionalistischer Liberaler: Er glaubt an die Notwendigkeit staatlicher Strukturen als Voraussetzung von Freiheit, aber er ist kein Staatsverherrlicher. Seine Kritik an Posschardts Anti-Staatismus ist nicht Staatsliebe, sondern demokratietheoretische Präzision.
+Möllers ist schwer einzuordnen — und das ist sein Programm. Er ist kein Libertärer, kein Neoliberaler, kein Etatist. Er ist institutionalistischer Liberaler: Er glaubt an die Notwendigkeit staatlicher Strukturen als Voraussetzung von Freiheit, aber er ist kein Staatsverherrlicher. Seine Kritik an Poschardts Anti-Staatismus ist nicht Staatsliebe, sondern demokratietheoretische Präzision.
 
 In der politischen Debatte wirkt er oft als Korrektiv — als jemand, der Schärfen glättet, nicht weil er feige ist, sondern weil er Komplexität ernst nimmt. Das macht ihn manchmal angreifbar: Man kann ihm vorwerfen, keine klaren politischen Konsequenzen zu ziehen. Er würde entgegnen: Das ist der Job der Wissenschaft.
 

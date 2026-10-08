@@ -186,7 +186,7 @@ Leichtigkeit als Sein-Modus: Die kulturelle Leichtigkeit der 70er/80er war ein M
 
 ### → [[Zeitgeist/Moellers und Poschardt — Welche Freiheit wollen wir]]
 
-Petersdorffs Kulturgeschichte der Leichtigkeit ist direktes kulturelles Gedächtnis zu Posschardts Diagnose: Der neoliberale Freiheitsbegriff war für eine Generation zunächst als Befreiung erlebt — bevor er sich in Selbstoptimierungsdruck und moralische Bevormundung umwandelte.
+Petersdorffs Kulturgeschichte der Leichtigkeit ist direktes kulturelles Gedächtnis zu Poschardts Diagnose: Der neoliberale Freiheitsbegriff war für eine Generation zunächst als Befreiung erlebt — bevor er sich in Selbstoptimierungsdruck und moralische Bevormundung umwandelte.
 
 ### → [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
 
