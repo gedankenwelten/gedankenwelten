@@ -88,6 +88,8 @@ Ihre Botschaft zur Meinungsfreiheit auf der re:publica 26: Freiheit ist nicht a 
 
 ## Gedankenwelten-Notes
 
+- [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]] — als Gastgeberin der Utopie-Konferenz 2024; erzeugt in jedem Panel die Reibung, von der jugoslawischen Erfahrung bis zu Budes Angst-Erzählung
+- [[Adam Tooze — Krise und demokratische Gelegenheit]] — als Gastgeberin, gegen Freund-Feind-Denken
 - [[Zeitgeist/re:publica 26 — Jagoda Marinić & Ronen Steinke - Meinungsfreiheit]]
 - [[Denker/Jagoda Marinić — Sanfte Radikalität und Gesellschaftsgestaltung]]
 

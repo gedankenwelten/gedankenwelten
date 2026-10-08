@@ -173,3 +173,8 @@ Morpheus zeigt Gabriels These in ihrer dunkelsten Anwendung: Objection.ai nutzt 
 ### → [[Jan-Keno Janssen — Nvidia Tokenextremismus]]
 
 Gabriel beschreibt philosophisch, wie KI den Menschen nicht mehr als Gegenüber, sondern als Datenpunkt modelliert. Bei Janssen wird das zur Produktstrategie: Jensen Huang erklärt explizit, die neue Zielgruppe seien KI-Agenten, nicht Menschen. Was Gabriel als epistemische Verschiebung analysiert, hat Nvidia als Business-Modell implementiert.
+
+### → [[Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen]]
+
+Beide finden Claudes Verfassung zu kalifornisch. Gabriel will moralische Tatsachen, Simanowski Perspektivenvielfalt — eine Pflicht zur Pluralität nach dem Vorbild des Rundfunks.
+

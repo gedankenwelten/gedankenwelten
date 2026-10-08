@@ -399,6 +399,10 @@ Was aus Göpels WBGU-Vorschlag geworden ist. Sie hatte Sensorik, großmaßstäbl
 
 Die unbequeme Ergänzung zur ökologischen Diagnose. Orain hält fest, dass „auch die zügellosesten Kapitalisten" die Knappheit längst verstanden haben — und daraus nicht Suffizienz ableiten, sondern den Griff nach dem Rest. Die Erkenntnis der Endlichkeit ist ein Befund ohne eingebaute Ethik. Damit bekommt Toozes Frage, ob die grüne Modernisierung als westliche Standardantwort noch trägt, eine schärfere Fassung, und Göpels digital-finanziell-militärischer Komplex eine fünfhundertjährige Vorgeschichte.
 
+### → [[Adam Tooze — Krise und demokratische Gelegenheit]]
+
+Die politische Vorgeschichte von 2024: Dasselbe Paar streitet auf der Utopie-Konferenz, ob sich ein Ziel jenseits der Lager formulieren lässt — Göpel mit Grundgesetz und Nachhaltigkeitszielen, Tooze mit Mehrheit statt Konsens.
+
 ---
 
 ## Weiterdenken

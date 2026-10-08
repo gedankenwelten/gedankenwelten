@@ -310,3 +310,7 @@ Münkler trennt Furcht, die einen Gegenstand hat, von Angst, die sich ihre Gegen
 
 Krebs erzählt Frickes Befund als deutsche Chronologie: drei AfD-Schübe nach drei Versäumnissen (Energiepreise 2022, Heizungsgesetz 2023, Schwarz-Rot). Daraus zieht er die Eigentumsfrage statt einer Förderagenda, und die Migration fällt bei ihm genauso aus der Erklärung wie hier.
 
+### → [[Adam Tooze — Krise und demokratische Gelegenheit]]
+
+Tooze feiert das US-Paket von 2021 als vergessenen Erfolg; die Inflation, die er „eingepreist“ nennt, ist Frickes Ohnmachtserfahrung.
+

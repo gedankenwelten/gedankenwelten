@@ -115,6 +115,9 @@ Zwei Philosophinnen, die das Fach aus dem Seminar holen. Callard will das Leben 
 
 ## Cortex-Notes
 
+- [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]] — Gastgeberin, Leuphana 2026; hält Welzer ihre Definition vor und zieht die Grenze: Wo ein Recht besteht, hat Großzügigkeit nichts zu suchen
+- [[Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]] — als Gastgeberin des Abendgesprächs, Leuphana 2026; vertritt beim *Philomena*-Streit die Selbstachtung gegen Boshammers Souveränität
+- [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]] — im Gespräch mit Mae Bengert, Leuphana 2026; liest Weil mit Iris Murdoch säkular: großzügig ist, was sich nicht einklagen lässt (die Sprechstunde gegen das Zuhören)
 - [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — als Gastgeberin des Utopie-Quartetts, Leuphana 2026
 - [[Lukas Baerfuss — Die Fesseln der eigenen Herkunft]] — als Moderatorin der Sternstunde Philosophie
 - [[Agnes Callard - Warum lohnt sich ein sokratisches Leben]] — als Moderatorin der Sternstunde Philosophie

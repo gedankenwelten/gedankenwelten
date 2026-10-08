@@ -307,6 +307,9 @@ Die Müdigkeit des Feeds als fehlende Wegkraft: Man fühlt ständig mit und kann
 
 Ein Nobelpreisträger nennt Wissenschaft „eine Übung in Optimismus“ und beschreibt dabei, was Urner Hoffnung nennt: nach jedem gescheiterten Experiment einen neuen Weg finden.
 
+### → [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]]
+
+Marina Weisband beruft sich auf *Radikal emotional*: Die AfD lüge in den Fakten, spreche aber eine emotionale Wahrheit.
 
 ---
 

@@ -324,4 +324,7 @@ Löschels Begleitung des Bürgerenergiegesetzes NRW ist angewandte Gestaltungsma
 
 Die religiöse Parallelkonstruktion zu Schwans säkularem Fundament. Beide sagen, Institutionen allein tragen nicht — Schwan sucht den Grund in Vertrauen und erfahrbarer Beteiligung, Püttmann mit Böckenförde in Normen, Tugenden und einer Wertbindung aus der Religion. Und beide landen beim Narzissmus.
 
+### → [[Carsten Brosda — Naechste Demokratie|Carsten Brosda — Nächste Demokratie?]]
+
+Ihr früherer Pressesprecher Brosda macht aus „Bürger ist nicht Käufer“ die Pointe vom Liefertermin der Bundesregierung.
 

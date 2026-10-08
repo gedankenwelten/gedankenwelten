@@ -435,6 +435,10 @@ Ein Mittelweg zwischen dem übergangenen Bürgerrat Ernährung und Münklers ent
 
 Wie weit Zahlen gegen Angst tragen, prüft [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Die Grenze der Gegenrede|BissenBlaBla]] an fünf Sätzen über Ausländerkriminalität: Die Zahlen widerlegen das Bild, der Abstand bleibt echt, und das Bild bleibt auch.
 
+### → [[Adam Tooze — Krise und demokratische Gelegenheit]]
+
+Tooze will Ängste mit Vernunft prüfen und vorbeugend löschen; Münklers These, dass Angst sich ihre Gegenstände selbst sucht, ist die Gegenrede — beide berufen sich auf Koselleck.
+
 ---
 
 ## Weiterdenken

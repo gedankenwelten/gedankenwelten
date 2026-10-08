@@ -257,6 +257,10 @@ Die Drogenhilfe Halle ist ein Ort praktischer Rehumanisierung für die Gruppe, d
 ### → [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]]
 Ein Ex-Neonazi erzählt, wie die Szene jede Gewalt zur Notwehr umdeutet; ein Schwarzer aus der Lausitz erzählt, wie sein Schulfeind nach einer Nacht im geteilten Zimmer sein Nazizeug verbrennt. Rehumanisierung im Einzelfall.
 
+### → [[Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
+
+Boshammers Geständnis, es falle ihr schwer, bei Rechten Überzeugung und Person zu trennen, ist Rehumanisierung im Selbstversuch: die Lügnerin wieder als Person sehen, die gelogen hat.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

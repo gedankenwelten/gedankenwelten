@@ -320,3 +320,7 @@ Zimpels Befund, dass Selbsteinschätzung der stärkste Bildungsfaktor ist, triff
 
 Zimpels Kritik der Normalverteilung hat dort ihren Schulfall: Nölte nennt es fatal, dass es gute Noten nur gibt, „weil es auch schlechte Noten gibt“, und setzt Lerndialoge an die Stelle der Bewertung. Meidinger widerspricht mit einem Einwand, den sich auch Zimpels Selbsteinschätzung gefallen lassen muss: Jede Selbsteinschätzung braucht einen Maßstab von außen.
 
+### → [[Raul Krauthausen — Teilgabe statt Teilhabe|Raúl Krauthausen — Teilgabe statt Teilhabe]]
+
+Krauthausen will Inklusion ohne die Lüge, alle könnten alles — und mit dem Recht auf Niederlagen.
+

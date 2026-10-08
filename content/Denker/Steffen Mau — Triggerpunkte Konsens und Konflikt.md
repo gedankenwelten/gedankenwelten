@@ -205,3 +205,8 @@ Zwei Umfrageleser, zwei unvereinbare Bilder desselben Landes. Püttmann sieht mi
 ### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
 
 Der Streit um Tisch und Kuchen spielt in Maus Arenen: El-Mafaalani setzt auf Oben/Unten, Bleisch auf Wir/Sie. Maus gesättigte Verteilungsarena spricht für sie, und sein Gleichbehandlungs-Trigger erklärt, warum Rechte, als „Großzügigkeit“ gerahmt, wie Privilegien wirken.
+
+### → [[Roger de Weck — Was ist konservativ|Roger de Weck — Was ist konservativ, was reaktionär?]]
+
+De Weck wählt in Nassehis Dilemma die defensive Modernisierung und lobt Merkel; die positive Vision bleibt auch bei ihm offen.
+

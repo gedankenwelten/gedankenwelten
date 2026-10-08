@@ -418,6 +418,10 @@ Die Gegenstimme aus der Politikwissenschaft. Manow hält „autoritär“ für e
 
 Die Forschung zu Celikates' Behauptungen: dass man am Ende gleich das Original wählt, dass Abstiegsangst mehr treibt als der Abstieg selbst, und ob seine „Konkretion“, sichtbar gebaute Daseinsvorsorge, Wähler zurückholt. Seine Stimme steht dort unter „Was holt Wähler zurück?“.
 
+### → [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]]
+
+Şeyda Kurts „Militarisierung nach innen“ ist seine These von der Gewalt, die nach innen zurückkehrt — verlegt nach Köln-Kalk.
+
 ---
 
 ## Weiterdenken

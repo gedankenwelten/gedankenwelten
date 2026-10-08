@@ -264,6 +264,10 @@ Das philosophische Fundament von Konés Souveränitätsforderung: Sarrs utopisch
 
 Konés Warnung, Daten dürften nicht zum neuen Rohstoff werden, geht in diesem Panel einen Schritt zurück zum alten: Kave Bulambo, geboren in der DR Kongo, nimmt *dekolonisieren* wörtlich und landet beim Kobalt, bevor sie die Linie über die Datenarbeit in Kenia und Indien in die KI-Gegenwart zieht. Dieselbe Diagnose, zwei Etagen — Koné verhandelt Souveränität als Chef einer Staatenallianz, das Panel buchstabiert sie für Organisationen ohne jede Verhandlungsmacht durch.
 
+### → [[Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen]]
+
+Was Koné von innen als Sprachlücke beschreibt, beschreibt Simanowski von außen als „Epistemizid“ und Wertexport: vertreten werden gegen sich selbst vertreten.
+
 ---
 
 ## Weiterdenken

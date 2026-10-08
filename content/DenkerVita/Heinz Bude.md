@@ -102,5 +102,6 @@ Bude lässt sich keinem klassischen politischen Lager zuordnen. Er selbst berich
 
 ## Gedankenwelten-Notes
 
+- [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]] — Leuphana 2024: die eigene Erzählung der Corona-Beratung („Ich habe die Angst der Leute übernommen“), eingeordnet gegen das Strategiepapier mit seiner „Schockwirkung“
 - [[Heinz Bude — Boomer-Soziologie]] — Vortrag an der Humboldt-Universität (16.01.2024): Generationssoziologie der Boomer, von Flakhelfern bis „Wirkungswille ohne Letztbegründung"
 - [[Heinz Bude — Gesellschaft der Angst]] — Wiener Stadtgespräch (19.11.2014): Angst als Gesellschaftsdiagnose — von depressiver Orientierungslosigkeit über die Null-Fehler-Generation bis zur inneren Spaltung der Mittelschicht

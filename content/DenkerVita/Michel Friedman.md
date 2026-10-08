@@ -78,4 +78,5 @@ Schwer einzuordnen: Biographisch CDU, aber in der öffentlichen Debatte position
 
 ## Gedankenwelten-Notes
 
+- [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]] — Leuphana 2024: „Vertrauen im Misstrauen“, Vertrauen ist nicht Zutrauen, und die Lehrerin, ohne die er nicht dort säße: „Es darf kein Zufall sein“
 - [[StreitClub — Europa allein zu Haus]] — Co-Moderation mit scharfen Interventionen zu Antisemitismus und EU-Demokratiedefizit (April 2026)

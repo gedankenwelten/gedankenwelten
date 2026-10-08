@@ -241,6 +241,10 @@ Smallville-Figuren antworten glaubwürdiger als Menschen, ohne dass ihnen je etw
 
 Scobel zeigt an der Wendung „den Geist aufgeben“, wie Sprache Maschinen beseelt, bevor wir es merken. Misselhorns Empathie-Illusion, die sich durch Wissen nicht auflösen lässt, ist der Mechanismus darunter.
 
+### → [[Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen]]
+
+Simanowski kommt durch eine andere Tür zu Hegel: Herr und Knecht als Bild der Delegation an die KI, die zweimal kostet — die Kompetenz und die Anerkennung.
+
 ---
 
 ## Weiterdenken

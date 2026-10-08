@@ -405,6 +405,10 @@ Buyx nennt ihre US-Zahlen ausdrücklich strategisch gewählt: Determinanten des 
 
 Heitmeyer beschreibt Verrohung als Prozess, der durch alle Räume geht und von Strukturen eingefordert wird; Buyx liefert den kleinsten prüfbaren Indikator dafür — die Verachtung im Ton, drei Schritte vor dem Nihilismus. Ihre Beobachtung, das Torpedieren von Umgangsformen sei Strategie zur Normalisierung von Grausamkeit, ist Heitmeyers These in einem Satz. Offen bleibt, was ein individueller Marker gegen einen Prozess ausrichtet, der strukturell erzwungen wird.
 
+### → [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]]
+
+Budes Erzählung von der Corona-Beratung und Marinićs Vorwurf, die Pandemie sei „weggemacht“ worden, stehen gegen Buyx’ Befund, dass die meisten Menschen solidarisch blieben.
+
 ---
 
 ## Weiterdenken

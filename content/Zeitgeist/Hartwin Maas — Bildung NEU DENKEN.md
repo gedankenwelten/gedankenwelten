@@ -225,3 +225,8 @@ Empirischer Einzelfall zu Maas' Strukturdiagnose: fehlende epistemische Resilien
 ### → [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
 
 Tianas US-Schulanalyse ist der internationale Vergleichsfall zu Maas' Diagnose: Niceness als Konformitätstraining, Patriotismus-Ritual, Gehorsam vor Urteilsvermögen — das amerikanische Schulsystem als Gehorsamsmaschine, die Compliance belohnt statt kritisches Denken zu ermöglichen.
+
+### → [[Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen]]
+
+Kognitives Auslagern als Hegels Herr, der die Dinge verlernt; Simanowskis praktische Antwort für die Schule: Aufsätze schreiben, um herauszufinden, was man denkt, und die Prüfung als Gespräch über den eigenen Text.
+

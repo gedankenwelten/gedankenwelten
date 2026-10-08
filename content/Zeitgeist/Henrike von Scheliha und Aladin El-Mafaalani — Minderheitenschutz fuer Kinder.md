@@ -297,6 +297,14 @@ Die Zuhörerin, die fragt, ob der Rat symbolisch bleibt, hat die Nachbesprechung
 
 Zwei Verfassungsjuristen, dieselbe Sorge: Thiele sagt, eine Demokratie ohne Zukunft habe keine Zukunft, von Scheliha liest aus dem Grundgesetz ein Recht auf Zukunft. Thiele verlangt eine gemeinsame Erzählung für 2050, auf die sich alle demokratischen Parteien einigen. Von Scheliha versucht das gar nicht: Die Ergebnisse dürfen umstritten bleiben, nur soll die Zukunft im Verfahren eine Stimme haben.
 
+### → [[Carsten Brosda — Naechste Demokratie|Carsten Brosda — Nächste Demokratie?]]
+
+Das Hamburger Kinderkulturmanifest mit seinem Steuerungsrat aus Jugendlichen ist ein gelebter kleiner Zukunftsrat.
+
+### → [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]]
+
+Welzer nennt die Bildungspolitik der Siebziger großzügig; Bleisch und von Scheliha würden darin einen eingelösten Anspruch sehen.
+
 ---
 
 ## Weiterdenken

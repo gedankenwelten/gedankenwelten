@@ -246,6 +246,10 @@ Ebenfalls re:publica 26 — aber aus der entgegengesetzten Perspektive: Büttner
 
 Was hier über zwei Vorträge hinweg mit Namen und Zahlen belegt wird, fasst Kave Bulambo auf derselben re:publica in einem Satz zusammen — die Arbeiter in Kenia, die die Daten einspeisen, die Arbeiter in Indien, die die schädlichen Inhalte herausnehmen, das sei die Ebene, an der Dekolonisierung ansetzen müsse. Beide Notes zusammen zeigen die unbequeme Symmetrie: die Forderung nach ihren Stimmen auf der einen Bühne, die verweigerten Visa auf der anderen.
 
+### → [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]]
+
+Dath nennt die KI ein „Massengrab der Arbeit“, dessen Namen niemand kennt. Diese Note gibt den Namen zurück.
+
 ---
 
 ## Weiterdenken

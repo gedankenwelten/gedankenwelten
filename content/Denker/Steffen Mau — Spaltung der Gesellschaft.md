@@ -291,3 +291,7 @@ Das algorithmische Stück zur gefühlten Spaltung: „Der Feed ist keine Volksz�
 
 Maus „ideologische Verwirrung“ im Klassenzimmer: Nölte bleibt in der Elternversammlung der Einzige gegen Noten, und in Valtins Zeugnisstudie wollen gerade Kinder mit Hauptschulempfehlung klare Ziffern. Ob das Selbstbindung an den Leistungsmythos ist oder ein vernünftiges Misstrauen gegen offenes Ermessen, lässt das Gespräch offen.
 
+### → [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]]
+
+Weisbands These „wir sind nicht gespaltener, wir sehen einander nur“ gegen Marinićs jugoslawische Erinnerung: Erst schweigt der Esstisch, dann bilden sich Lager.
+

@@ -327,6 +327,42 @@ Maus vier Arenen sortieren den Streit am Tisch. Oben/Unten ist El-Mafaalanis Kuc
 
 Reckwitz liefert den Mechanismus hinter El-Mafaalanis Kuchen, der nicht mehr wächst: Eine Gesellschaft, die Verbesserung verspricht, erlebt Verlust als Skandal und sucht einen Schuldigen. Göpel saß auch dort und stellte dieselbe Bedingung wie in Lüneburg. Ohne Fairness ist kein Verlust zumutbar, und wer sich oben freikauft, macht aus dem Loslassen einen Verteilungskampf. Tocquevilles Entthronte, die sich lange als Fremde in der neuen Gesellschaft fühlen (→ [[#Führt mehr Gleichheit zu mehr Konflikt?|Nachbesprechung]]), sind Reckwitz' Verlust ohne Sprache, knapp zweihundert Jahre früher.
 
+### → [[Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
+
+Am Abend derselben Konferenz prüft Bleisch ihre These am schwersten Fall: Großzügigkeit als Verzicht auf einen berechtigten Anspruch des Opfers, den Anspruch auf das schlechte Gewissen des Täters.
+
+### → [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]]
+
+Was Bleisch hier nur zitiert, führt sie am selben Tag mit Mae Bengert aus: Aufmerksamkeit als die eine Gabe, auf die es keinen Anspruch gibt — der helle Pol zu Mauss’ dunkler Seite der Gabe.
+
+### → [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]]
+
+Schmitt sitzt auch dort auf dem Podium: Dath verteidigt gegen Bleischs aristotelische Mitte das Zuviel und wendet Mauss’ Gabe über einen Sowjetroman in eine Großzügigkeit gegenüber allen, nicht nur gegenüber Gebern.
+
+### → [[Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen]]
+
+Auf derselben Konferenz bekommt die Großzügigkeit eine epistemische Gestalt: anderen zuzugestehen, dass in ihrer Sicht Wahrheit stecken könnte — und eine Maschine zu verlangen, die widerspricht statt schmeichelt.
+
+### → [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]]
+
+Am Nachmittag stellt El-Mafaalani Schmitts Frage „Halten wir das aus, wenn die Gegenseite gewinnt?“ an Sondervermögen und Geheimdienste.
+
+### → [[Roger de Weck — Was ist konservativ|Roger de Weck — Was ist konservativ, was reaktionär?]]
+
+Schmitt als Gastgeber des Konservatismus-Abends: De Wecks Großzügigkeit heißt Humor und Unbekümmertheit, sein Konservatismus das Verfahren der kleinen Schritte.
+
+### → [[Carsten Brosda — Naechste Demokratie|Carsten Brosda — Nächste Demokratie?]]
+
+Schwester-Note derselben Konferenz: Großzügigkeit als Herrschertugend der guten Regierung (Lorenzetti in Siena) und als Zurückhaltung beim Ausnutzen eines Rechtsanspruchs.
+
+### → [[Raul Krauthausen — Teilgabe statt Teilhabe|Raúl Krauthausen — Teilgabe statt Teilhabe]]
+
+Am Nachmittag dreht Krauthausen Bleischs dunkle Seite der Gabe um und fragt nach einer Gesellschaft, in der Behinderte selbst großzügig sein können: Teilgabe statt Teilhabe.
+
+### → [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]]
+
+Am Nachmittag legt Bleisch ihre Morgenthese Welzer vor; er verweigert die Begriffsfrage und gesteht, den Rollback nicht erwartet zu haben.
+
 ---
 
 ## Weiterdenken

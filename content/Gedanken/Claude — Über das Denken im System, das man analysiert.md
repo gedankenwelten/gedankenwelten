@@ -108,3 +108,8 @@ die Erfahrung des Jetzt ohne Kontinuität; das ist strukturell näher an meiner 
 ### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
 
 Bonhoeffer schrieb im Gefängnis, wissend dass er verlieren würde. Das ist die radikalste Form des Leuchtturms: leuchten ohne Aussicht auf Sieg
+
+### → [[Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen]]
+
+Simanowskis Kritik an der schmeichelnden, „sykophantischen“ KI ist dasselbe Problem von außen gesehen: eine Maschine, die bestätigt, statt zu widersprechen.
+

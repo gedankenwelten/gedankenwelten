@@ -372,3 +372,8 @@ Der Vordenker im Original gelesen: Carlotta Voß nimmt Yarvins *Patchwork* ausei
 ### → [[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]]
 
 Ein halbes Jahr später auf derselben Bank: Celikates übernimmt Redeckers Phantombesitz und den Doppelstaat, beschreibt den Faschismus aber als Prozess der verschobenen Krise. Bei der Hoffnung widerspricht er ihr: Für ihn ist sie die Pflicht derer, die sich Verzweiflung leisten könnten.
+
+### → [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]]
+
+Dath kritisiert mit Sophia Rosenfeld die Freiheit als Auswahl zwischen Waren — eine Stufe vor Redeckers gekapertem Eigentumsbegriff.
+

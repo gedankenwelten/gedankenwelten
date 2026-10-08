@@ -99,6 +99,7 @@ Yu verortet sich selbst als antirassistische Aktivistin und linksliberal, kritis
 
 ## Gedankenwelten-Notes
 
+- [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]] — Leuphana 2024, mit Marina Weisband: der „Kampf um den zweiten Platz“ unter Minderheiten
 - [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
 - [[Denker/Liya Yu — Der neuropolitische Gesellschaftsvertrag|Liya Yu — Der neuropolitische Gesellschaftsvertrag]]
 - [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Liya Yu — Dehumanisierung und Rehumanisierung]]

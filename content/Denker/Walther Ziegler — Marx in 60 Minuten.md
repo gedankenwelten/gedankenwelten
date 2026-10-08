@@ -213,3 +213,8 @@ Quelle: [Marx in 60 Minuten](https://www.youtube.com/watch?v=thoI8naBo4E)
 ### → [[Tsitsi Dangarembga - Feministische Stimme Afrikas]]
 
 Marxsche Pointe im Schwarzen Feminismus: Dangarembgas „Eigentums-Patriarchat" macht das Privateigentum zur Variablen der Geschlechterherrschaft — der Kapitalismus verwandelt die vorkoloniale Vertragslogik in eine Verkaufslogik, in der man Ehefrauen besitzen kann. Anders als Marx will sie aber keinen Umsturz: Der Kapitalismus sei nicht rückgängig zu machen, gesucht wird eine Form des Wohlseins.
+
+### → [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]]
+
+Dath wendet Gothaer Programm sowie Basis und Überbau auf die Konferenzfrage an — mit dem Eingeständnis, dass auch ein richtiger Plan furchtbar schiefgehen kann.
+

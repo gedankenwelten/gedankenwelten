@@ -1,7 +1,8 @@
 ---
 title: "Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt"
 date: 2026-04-05
-aktualisiert: 2026-04-05
+aktualisiert: 2026-10-08
+description: "Misstrauen verbindet stärker als jeder gemeinsame Glaube. Und wo Recht das Vertrauen ersetzt, wird es zur Prothese, schwächer als der Muskel, den es ersetzt."
 tags:
   - denker
   - soziologie
@@ -218,6 +219,60 @@ El-Mafaalani hält es für wahrscheinlich, dass Europa demokratisch bleibt — a
 
 ---
 
+## Nachtrag: Lüneburg 2026 — Großzügigkeit gehört zwischen Menschen
+
+Quelle: [Aladin El-Mafaalani: Misstrauen und Populismus](https://www.youtube.com/watch?v=HmbSPqhej-o) — Vortrag auf der Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), 52 Min., veröffentlicht am 11.09.2026
+
+Eineinhalb Jahre nach dem taz-Talk steht El-Mafaalani allein auf der Bühne, nach eigener Vermutung als Einziger an drei Konferenztagen. Das meiste ist das Buch in Kurzform: Luhmann, das anstrengende Dazwischen, die vier Strategien, die nicht helfen. Fünf Dinge sind neu. Das letzte gibt der Diagnose eine Richtung, die sie im taz-Talk noch nicht hatte.
+
+### Gemeinsames Misstrauen, kein gemeinsamer Glaube
+
+[▶ 5:23](https://www.youtube.com/watch?v=HmbSPqhej-o&t=323) An den Anfang stellt er den Satz, der ihn nach eigener Aussage monatelang beschäftigt hat:
+
+> *„Misstrauische Menschen haben angefangen, anderen misstrauischen Menschen zu vertrauen.“*
+
+[▶ 8:24](https://www.youtube.com/watch?v=HmbSPqhej-o&t=504) Eine neuere Forschungsarbeit zeigt ihm, wie weit das reicht. Die Verschwörungsgläubigen glauben gar nicht an dieselbe Verschwörung. Sie halten die des anderen für Quatsch und verschaffen ihr trotzdem Reichweite, auch wenn sie mit der eigenen konkurriert. Was sie verschweißt, ist das geteilte Misstrauen. Damit wird die These vom fehlenden positiven Projekt schärfer: Die Gemeinschaft hält sogar gegen ihren eigenen Inhalt. Dazu passt ein Befund aus derselben Passage: Nach dem eigenen Umfeld gefragt, sehen die Leute kaum mehr Misstrauen als früher. Nach Deutschland gefragt, sehen sie ein Land voller Misstrauen.
+
+[▶ 28:21](https://www.youtube.com/watch?v=HmbSPqhej-o&t=1701) Neu ist auch eine Unterscheidung, die er selbst „komisch“ nennt: Eine Partei, die Misstrauen repräsentiert, sei in der Politik erst einmal in Ordnung, Parteien sollen die Bevölkerung abbilden. Die Wissenschaft kennt keine Repräsentanz, dort zählt Professionalität. Das Problem beginnt, wenn die Misstrauensinfrastruktur in diese Bereiche hineinwächst.
+
+### Haltung ohne Wirkungsbedingung
+
+[▶ 36:42](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2202) Gegen Argumentieren und Demonstrieren hat er nichts. Man müsse nur wissen, wofür man es tut. Dann wird er persönlich, er hat für den Vortrag drei freie Tage hergegeben:
+
+> *„Ich mache das nicht, weil es gekoppelt ist an: Es muss einen Effekt haben. Ich mache es, weil ich es machen muss … wenn es keinen Effekt hat, ich mach's trotzdem.“* [▶ 37:27](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2247)
+
+[▶ 38:16](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2296) Der Grund ist strategisch. Schlimmer als jede Wirkungslosigkeit sei eine Großdemo, nach der die Gegenseite aggressiver wird und die Enttäuschten aufhören: Für die Misstrauensgemeinschaft sieht das wie ein Sieg aus. Erfolge gegen solche Prozesse habe es nur durch sehr langes Dagegenhalten gegeben. [▶ 39:02](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2342) Hier klingt er härter als im taz-Talk. Habecks sauberen Wahlkampf bewundert er und fürchtet zugleich, „man muss aggressiv dagegenhalten“, nicht um die anderen zur Vernunft zu bringen, sondern um die eigenen Kräfte zu mobilisieren. Für den Angriffsmodus der Gegenseite verweist er auf [[Amlinger und Nachtwey — Zerstoerungslust demokratischer Faschismus|Amlinger und Nachtweys *Zerstörungslust*]].
+
+### Erwartung wecken, Erwartung enttäuschen
+
+[▶ 42:06](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2526) Nach seiner Rechnung hatte Olaf Scholz die schlechtesten Vertrauenswerte, die je ein Bundeskanzler hatte, und Friedrich Merz liegt noch darunter. Zwei Minusrekorde in Folge, und El-Mafaalani liest daraus vor allem einen Trend: Auch Angela Merkel würde es heute nicht mehr schaffen. Einen Fehler rechnet er Merz aber persönlich zu:
+
+> *„Erwartung erzeugen und sie dann enttäuschen ist die Definition von Vertrauen verlieren.“* [▶ 42:52](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2572)
+
+Das ist die Kehrseite seiner taz-These, Vertrauen brauche spürbare Bewegung in die richtige Richtung. Auf derselben Konferenz warnte [[Roger de Weck — Was ist konservativ#Gegen den Deliverism|Roger de Weck]] vor dem *Deliverism*, dem Glauben, eine Regierung müsse nur liefern. Der Lüneburger Satz verschiebt den Streit zwischen beiden. Wie viel geliefert wird, ist nur die halbe Rechnung, den Schaden macht die Lücke zwischen Ankündigung und Lieferung. Wer wenig verspricht und es hält, verliert weniger als einer, der eine Wende ausruft und sie nicht bringt.
+
+### Recht als Prothese
+
+[▶ 43:38](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2618) Immer mehr Gesetze, Verordnungen, Bürokratie: Einen Teil denken sich Experten aus, den anderen tragen die Bürger selbst an den Staat heran. [▶ 44:24](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2664) Er wählt mit Absicht ein schweres Beispiel, die Love Parade 2010. Danach hieß es sofort, das dürfe nie wieder passieren. Seither sind Veranstaltungen teurer und komplizierter, und ganz verhindern lässt sich ein Unglück trotzdem nicht. [▶ 45:10](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2710) Ähnlich im Nachbarschaftsrecht, beim Zaun, bei den Bäumen, bei der Frage, wer wann was zu tun hat: Das seien keine Gesetze, die Politiker unbedingt machen wollten, „in der Bevölkerung entstand das Bedürfnis, das muss geregelt werden“. Jede Regel braucht eine Verwaltung, die sie überwacht, und Verwaltungen gehen auf Nummer sicher.
+
+> *„Recht ersetzt Vertrauen, aber es ersetzt es … wie eine Prothese.“* [▶ 47:27](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2847)
+
+Aus dem Muskel wird Ersatz, der nicht dieselbe Kraft hat. Jede einzelne Regelung erfüllt einen Wunsch, und am Ende ist man schwächer geworden. Das Bild schließt an die Muskel-Metapher des taz-Talks an: Wer Vertrauen zu lange durch Recht ersetzt, verlernt es.
+
+> [!question] Weitergedacht
+> Wenn Recht Vertrauen ersetzt wie eine Prothese — *wer sagt nach dem nächsten Unglück, dass man diesmal nichts regelt? Und wer trägt dann die Schuld, wenn es wieder passiert?*
+
+### Großzügig zwischen Menschen, streng in den Systemen
+
+[▶ 48:12](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2892) Hier landet das Konferenzthema, mit einer klaren Grenze. Wissenschaftler sollen nicht großzügiger werden, sie sollen sich kritisieren „und genauso weiter kloppen auf Tagungen“. Dasselbe gilt für die großen Systeme. [▶ 19:01](https://www.youtube.com/watch?v=HmbSPqhej-o&t=1141) Richterinnen, Ermittler, Gutachter sind *misstrauische Berufe*: Sie misstrauen stellvertretend, damit die Bürger es nicht müssen, und leben davon, dass man ihnen vertraut. Großzügig sein sollen die Menschen untereinander, und nicht alles von der Polizei regeln lassen wollen, die inzwischen für Dinge gerufen wird, für die man sie früher nicht rief.
+
+[▶ 48:58](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2938) Wer Vertrauen gibt, bekommt es mit großer Wahrscheinlichkeit zurück. „Vertrauen hat eine Sogwirkung.“ [▶ 49:44](https://www.youtube.com/watch?v=HmbSPqhej-o&t=2984) Sein Beispiel: Man zieht neu in eine Straße, muss in den Urlaub, klingelt bei einem beliebigen Nachbarn, lädt ihn auf einen Kaffee ein und gibt ihm den Hausschlüssel. Verrückt, sagt er, und doch werde sich dieser Mensch alle Mühe geben, das Vertrauen zu erwidern, solange eine Gesellschaft einigermaßen gesund funktioniert. Wer mit „Hallo, neuer Nachbar, hier sind die Regeln“ anfängt, macht es unmöglich.
+
+> [!note] Eigene Einschätzung
+> Der Vorschlag ist bescheidener als die Forderungen des taz-Talks und zugleich anspruchsvoller. Bescheidener, weil er keine Reform braucht. Anspruchsvoller, weil er einen Teil der Reparatur vom Staat zu den Menschen verlegt, ausgerechnet zu denen, die im Dazwischen schon erschöpft sind. Er setzt dort an, wo die Umfragen das Vertrauen noch intakt zeigen: in der Nachbarschaft. Aber seine Bedingung, „solange eine Gesellschaft einigermaßen gesund funktioniert“, ist genau das, was die Diagnose in Frage stellt. Marina Weisbands Mitbesitz-Idee in [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Vertrauen, utopisch?]] und der Vertrauensvorschuss in [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]] gehen in dieselbe Richtung.
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — Einstellungsebene stabil
@@ -243,6 +298,33 @@ El-Mafaalani hält es für wahrscheinlich, dass Europa demokratisch bleibt — a
 
 > [!warning] Vereinfacht — Antifaschismus wirkt gar nicht
 > Die These, dass Antifaschismus und Demonstrationen prinzipiell nichts bewirken, ist empirisch schwer zu falsifizieren. El-Mafaalani räumt selbst ein, dass Demonstrieren für die eigene Gruppe sinnvoll sein kann (Sichtbarkeit, Solidarität). Die Hauptaussage — dass man Misstrauensgemeinschaften damit nicht erreicht — ist plausibel, aber die völlige Ablehnung von Mobilisierung als Strategie bleibt umstritten.
+
+### Nachtrag Lüneburg 2026
+
+> [!warning] Vereinfacht — „Keine einzige Studie zeigt Polarisierung“
+> Für die Einstellungen trägt der Befund, für die Gefühle zwischen den Lagern ist „keine einzige“ zu absolut. Über Sachfragen sind die Deutschen weniger gespalten, als die Debatte glauben macht (Mau, Lux & Westheuser, *Triggerpunkte*, 2023). Auch die Abneigung zwischen Parteianhängern ist in Westdeutschland von 1977 bis 2017 gesunken, so stark wie in keinem anderen der neun untersuchten Länder (Boxell, Gentzkow & Shapiro 2024, [doi:10.1162/rest_a_01160](https://doi.org/10.1162/rest_a_01160), Ländervergleich über vier Jahrzehnte; die Daten enden 2017). Doch genau in El-Mafaalanis Ausgangsfall fand eine Panelstudie affektive Polarisierung zwischen Befürwortern und Gegnern der Corona-Maßnahmen, quer zu den Parteien und über die Zeit stabil (Schieferdecker, Joly & Faas 2024, [doi:10.1093/ijpor/edae009](https://doi.org/10.1093/ijpor/edae009), repräsentatives Online-Panel mit Experiment). Die Spaltung verläuft also eher zwischen Meinungsgruppen als zwischen Parteien, gemessen ist sie aber. Bei der Menschenfeindlichkeit gab es einen Ausschlag: Das manifest rechtsextreme Weltbild stieg in der Mitte-Studie 2022/23 auf 8 % und fiel 2025 auf 3,3 % zurück, das Niveau von 2014 bis 2021 ([FES Mitte-Studie 2024/25](https://www.fes.de/mitte-studie)). Seine lange Linie hält, die „ganz kleinen“ Ausschläge waren zwischenzeitlich größer.
+
+> [!warning] Nicht eindeutig belegt — „40 % der erfolgreichsten Podcasts weltweit“
+> Keine unabhängige Quelle gefunden. El-Mafaalani markiert die Zahl selbst als Schätzung („würde ich sagen“). Am nächsten kommt eine Auszählung von Media Matters für die USA: Unter 320 politischen Online-Shows hatten die rechtsgerichteten ein Vielfaches an Followern, neun der zehn größten lehnen sich nach rechts ([Media Matters 2025](https://www.mediamatters.org/google/right-dominates-online-media-ecosystem-seeping-sports-comedy-and-other-supposedly)). Das sind Follower statt Hörer, nur ein Land, von einer progressiven Beobachtungsstelle, und „rechtsgerichtet“ ist nicht dasselbe wie „Misstrauensgemeinschaft“. Die Richtung trägt, die Zahl nicht.
+
+> [!warning] Vereinfacht — Das größte AfD-Potenzial waren frühere Nichtwähler
+> Als größter Einzelstrom stimmt es. Nach der Wählerwanderung von Infratest dimap gewann die AfD 2025 rund 1,8 Millionen Stimmen von früheren Nichtwählern, mehr als von Union (≈ 0,83 Mio.), FDP (≈ 0,75 Mio.) oder SPD (≈ 0,63 Mio.) einzeln ([Statista nach Infratest dimap](https://de.statista.com/infografik/33990/waehlerwanderung-der-afd-bei-der-bundestagswahl-2025)). Bei gut 10,3 Millionen Zweitstimmen ist das aber weniger als ein Fünftel der Wählerschaft, die meisten hatten die AfD schon gewählt oder kamen von anderen Parteien. „Genau diese 20 % sind nicht wählen gegangen vorher“ geht über die Daten hinaus. Wanderungsbilanzen sind zudem Modellschätzungen, keine Zählungen.
+
+> [!warning] Vereinfacht — Bitcoin-Whitepaper und „trustless structure“
+> Sinngemäß richtig, als Zitat nicht. Das Wort *trustless* steht nicht im [Whitepaper](https://bitcoin.org/bitcoin.pdf) vom 31.10.2008, sechs Wochen nach Lehman. Dort ist von den „inherent weaknesses of the trust based model“ die Rede, und der Schluss lautet: „a system for electronic transactions without relying on trust“. Das ausdrückliche Misstrauen gegen Zentralbanken und Banken steht in Satoshi Nakamotos Forumsbeitrag vom 11.02.2009 („The root problem with conventional currency is all the trust that's required to make it work“, [Nakamoto Institute](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)), Regierungen nennt auch er nicht. El-Mafaalani kündigt ein wörtliches Zitat an („ich zitiere“), das es so nicht gibt. Neu ist die Lesart auch nicht: Schon der erste Block der Kette (03.01.2009) trägt die Schlagzeile der *Times* über eine zweite Bankenrettung.
+
+> [!warning] Vereinfacht — Vertrauen wird „nahezu immer“ erwidert
+> Die Richtung ist gut belegt, das „nahezu 100 %“ ist eine Anekdote. Im Vertrauensspiel geben Menschen einen Vertrauensvorschuss und bekommen im Schnitt einen Teil zurück, aber längst nicht immer (Berg, Dickhaut & McCabe 1995, [doi:10.1006/game.1995.1027](https://doi.org/10.1006/game.1995.1027); Meta-Analyse über 162 Replikationen: Johnson & Mislin 2011, [doi:10.1016/j.joep.2011.05.007](https://doi.org/10.1016/j.joep.2011.05.007)). Wer gibt, bekommt wahrscheinlicher etwas zurück, sicher ist es nicht.
+
+---
+
+## Weiterführende Quellen
+
+- [Aladin El-Mafaalani: Misstrauen und Populismus](https://www.youtube.com/watch?v=HmbSPqhej-o) — Vortrag auf der Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (52 Min.) · Transkript: `Gedankenwelten/Transkripte/Leuphana_ElMafaalani_Misstrauen_Transkript.txt`
+- [Utopie-Konferenz der Leuphana Universität Lüneburg](https://www.leuphana.de/utopie) — Programm, Gäste und Mitschnitte (26.–28.08.2026)
+- Aladin El-Mafaalani: [*Misstrauensgemeinschaften*](https://www.genialokal.de/Suche/?q=El-Mafaalani+Misstrauensgemeinschaften) (2025)
+- Niklas Luhmann: [*Vertrauen. Ein Mechanismus der Reduktion sozialer Komplexität*](https://www.genialokal.de/Suche/?q=Luhmann+Vertrauen) (1968) — Misstrauen als funktionales Äquivalent des Vertrauens
+- Carolin Amlinger & Oliver Nachtwey: [*Zerstörungslust*](https://www.genialokal.de/Suche/?q=Amlinger+Nachtwey+Zerst%C3%B6rungslust) — im Vortrag als Parallele genannt
 
 ---
 
@@ -322,4 +404,12 @@ Nach den Landtagswahlen 2026 nennt eine Journalistenrunde die AfD mit de Maiziè
 ### → [[Warum waehlen Menschen Autoritaere|Panorama: Warum wählen Menschen Autoritäre?]]
 
 Die stabile Einstellung, die Gemeinschaft ohne Projekt und die Unentzauberbarkeit sind dort die stärkste Gegenstimme, zuletzt gegen Orbáns Abwahl gestellt.
+
+### → [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]]
+
+Marina Weisband hält das Modell „Papa Staat“ — Vertrauen als Lieferleistung — für erschöpft und setzt auf Mitbesitz: Es ist meine Institution.
+
+### → [[Roger de Weck — Was ist konservativ|Roger de Weck — Was ist konservativ, was reaktionär?]]
+
+De Weck teilt den Gemeinschaftsbefund und warnt gegen den Deliverism, der Staat solle nur liefern.
 

@@ -246,3 +246,8 @@ Das ist kein Aufruf zur Passivität. Haidt verweist auf Sergio Vieira de Mello �
 - [[Markus Gabriel — Ethischer Kapitalismus]] — Epistemologischer Gegenspieler: Haidt sieht Moral als evolutionäre Intuition, Gabriel als objektive Tatsache — entscheidend, ob ethischer Kapitalismus universal begründbar ist
 - [[Markus Gabriel — Was ist Realitaet]] — Gabriel zitiert Haidts *Anxious Generation* direkt und diagnostiziert Social-Media-Plattformen als Wirtschaftsverbrechen. Philosophisch produktiver Gegensatz: Haidt beschreibt moralischen Pluralismus empirisch (verschiedene Foundations), Gabriel besteht auf moralischem Universalismus (moralische Tatsachen). Beide fordern Konsequenzen gegen die Aufmerksamkeitsökonomie
 - [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]] — Tiana liefert die konkrete politische Praxis zu Haidts Moral Foundations: Trumps Sprache spricht Loyalität, Autorität und Reinheit an; das progressive Establishment spricht vor allem Fürsorge und Fairness — exakt der Kommunikationsfehler, den Haidt beschreibt.
+
+### → [[Roger de Weck — Was ist konservativ|Roger de Weck — Was ist konservativ, was reaktionär?]]
+
+Derselbe Burke, gelesen als Tempo und Demokratiebekenntnis statt als moralische Matrix.
+

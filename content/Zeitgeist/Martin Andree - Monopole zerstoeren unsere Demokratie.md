@@ -253,6 +253,10 @@ Der offene Widerspruch zu Andrees hoffnungsvollster These. Für ihn stehen Monop
 ### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
 Andrees „Regulierung ist Befreiung" am Innenleben des Feeds: Facebook setzte das Wutgesicht 2020 von fünf Punkten auf null, und der Digital Services Act verlangt eine Sortierung ohne Profiling. Das Sortierziel ist eine Entscheidung und lässt sich ändern.
 
+### → [[Carsten Brosda — Naechste Demokratie|Carsten Brosda — Nächste Demokratie?]]
+
+Brosda erzählt die Plattformmacht in drei Schritten bis zur agentischen KI und beruft sich auf Andree.
+
 ---
 
 ## Weiterdenken

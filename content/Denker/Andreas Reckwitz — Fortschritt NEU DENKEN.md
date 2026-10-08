@@ -367,6 +367,10 @@ Blom kommt unabhängig zur selben Genealogie: Fortschritt als umetikettierte Hei
 
 El-Mafaalanis Kuchen, der aufhört zu wachsen, ist Reckwitz' Verlust, der nach einem Schuldigen ruft, und Göpel bringt in beiden Gesprächen dieselbe Fairness-Bedingung mit. Bleischs Tocqueville-Paradox fügt hinzu, dass schon das Abnehmen der Ungleichheit die verbleibende unerträglicher macht.
 
+### → [[Carsten Brosda — Naechste Demokratie|Carsten Brosda — Nächste Demokratie?]]
+
+Brosdas Frage „Resilienz — Rückkehr vor welche Krise, und war der Zustand gut?“ greift die schwache Fassung des Begriffs an.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

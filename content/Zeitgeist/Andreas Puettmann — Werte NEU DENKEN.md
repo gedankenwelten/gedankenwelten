@@ -444,6 +444,10 @@ Zwei Umfrageleser, zwei unvereinbare Bilder desselben Landes. Püttmann liest So
 
 Die säkulare Parallelkonstruktion zum Böckenförde-Diktum. Schwan sucht das Fundament der Demokratie in Vertrauen, demokratischer Kultur und erfahrbarer Beteiligung, Püttmann in Normen, Tugenden und einer Wertbindung, die aus der Religion kommt. Beide sagen: Institutionen allein tragen nicht. Und beide landen beim Narzissmus — Schwan bei dem der Autokraten, Püttmann bei dem des Intellektuellen, der lieber oben schwimmt, als antizyklisch zu widersprechen.
 
+### → [[Roger de Weck — Was ist konservativ|Roger de Weck — Was ist konservativ, was reaktionär?]]
+
+De Weck hält das C ebenfalls für den Schutz der Union vor dem Schlimmsten, definiert konservativ aber über das Verfahren, nicht über einen Glauben.
+
 ---
 
 ## Weiterdenken

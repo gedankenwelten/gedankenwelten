@@ -219,6 +219,14 @@ Dieselbe Wette auf die Begegnung, anderes Tempo: Nusseibeh begründet Gewaltfrei
 
 Ayalons zweite Schin-Bet-Lektion — Sicherheit für Israelis nur, wenn Palästinenser Hoffnung haben — ist hier keine Doktrin, sondern Praxis. Der Geheimdienstchef denkt die Abschreckungslogik zu Ende und landet bei der Hoffnung; die beiden fangen dort an.
 
+### → [[Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
+
+Verzicht auf Rache, ohne dass die Täter um Verzeihung gebeten hätten: In Boshammers Begriffen ist das Versöhnung, die nach vorn schaut, nicht Verzeihen, das zurückschaut.
+
+### → [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]]
+
+Die gespiegelten Biografien sind gelebte Betrauerbarkeit — das gemeinsame Trauern, das Mae Bengert mit Weils Ilias-Essay und Judith Butler als einzigen Ausweg aus der Gewaltspirale nennt.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

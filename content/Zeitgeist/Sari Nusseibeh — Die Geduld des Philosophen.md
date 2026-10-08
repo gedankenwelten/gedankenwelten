@@ -229,6 +229,10 @@ Nusseibehs Schahrazad ist eine Antwort auf Mouffes Grundfrage: Wie verwandelt ma
 
 Das Panorama liest alle sieben Gespräche dieser Reise nebeneinander — und zeigt, was keine Einzelnote zeigen kann: Beim Wort *Genozid* gehen alle drei denkbaren Wege auseinander, beim Druck von außen steht einer gegen alle, und trotzdem beschreiben alle sieben dasselbe Nicht-Sehen.
 
+### → [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]]
+
+Die Menschlichkeit im anderen suchen ist Weils Antwort auf die *force*, die Täter wie Opfer zu Dingen macht — ohne die Taten zu relativieren.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

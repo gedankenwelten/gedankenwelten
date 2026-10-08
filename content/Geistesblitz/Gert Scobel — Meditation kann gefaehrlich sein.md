@@ -219,6 +219,10 @@ Der Realfall zu Scobels Warnung. Scobel beschreibt theoretisch, wie Autoritätsg
 
 Dieselbe Stimme, die Kehrseite: Die Zwecklosigkeits-Folge feiert das „reine Bewusstsein ohne Besitzer“ beim Aufwachen als das zu Kultivierende — diese Note zeigt, was passiert, wenn die Ich-Auflösung unvorbereitet kommt. Erlösung und Gefahr desselben Zustands.
 
+### → [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]]
+
+Bengerts Klarstellung, Weils Dekreation heiße porös werden und nicht verschwinden, „sonst wird es psychotisch“, zieht dieselbe Grenze, die Scobel klinisch beschreibt.
+
 ---
 
 ## Weiterdenken

@@ -22,6 +22,52 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **08.10.** — [[Zeitgeist/Raul Krauthausen — Teilgabe statt Teilhabe|Raúl Krauthausen — Teilgabe statt Teilhabe]]
+>
+> Wer schenkt, kann zurücknehmen, und wer beschenkt wird, schuldet Dank. Raúl Krauthausen fragt, wie eine Gesellschaft aussähe, in der Behinderte selbst großzügig sein können.
+
+> **08.10.** — [[Zeitgeist/Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]]
+>
+> Was sich nicht rechnet, wird gestrichen: der lange Artikel, der ungeprüfte Beweis, die Gabe ohne Gegengabe. Dietmar Dath verteidigt die Verschwendung und fragt, welche Ordnung Großzügigkeit wirklich macht.
+
+> **08.10.** — [[Zeitgeist/Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]]
+>
+> Ist Pazifismus Passivität oder die mühsamere Arbeit? Zwei Schriftstellerinnen und zwei Gastgeber streiten über Aufrüstung, Deserteure und darüber, was eine Stadt sicher macht.
+
+> **08.10.** — [[Zeitgeist/Roger de Weck — Was ist konservativ|Roger de Weck — Was ist konservativ, was reaktionär?]]
+>
+> Konservativ ist demokratisch, reaktionär ist es nicht: Roger de Weck zieht eine Grenze mitten durch das rechte Lager und fragt, warum Konservative in Krisen so oft hinüberkippen.
+
+> **08.10.** — [[Zeitgeist/Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]]
+>
+> Ein Transformationsforscher gesteht, seine Hoffnung sei nie so klein gewesen, und sammelt trotzdem Utopien im Alltag. Barbara Bleisch fragt ihn, wo er Großzügigkeit selbst lebt.
+
+> → *13 weitere in* [[Zeitgeist]]
+
+### Denker
+
+> **08.10.** — [[Denker/Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen und der vierfache Souveränitätsverlust]]
+>
+> Wer sich das Schreiben abnehmen lässt, verliert die Übung und die Anerkennung — und überhört den Akzent, mit dem die Maschine ihm die Welt erzählt.
+
+> **08.10.** — [[Denker/Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit|Simone Weil — Aufmerksamkeit, die seltenste Großzügigkeit]]
+>
+> Eine Stunde Zeit kann man verlangen, Zuhören nicht. Simone Weil machte aus der Aufmerksamkeit eine Übung im Leerwerden und eine Antwort auf die Gewalt, die Menschen zu Dingen macht.
+
+> **08.10.** — [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
+>
+> Misstrauen verbindet stärker als jeder gemeinsame Glaube. Und wo Recht das Vertrauen ersetzt, wird es zur Prothese, schwächer als der Muskel, den es ersetzt.
+
+> **08.10.** — [[Denker/Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
+>
+> Wer verzeiht, wischt die Tafel nicht ab. Er lässt stehen, was geschah, und gibt dem anderen das Einzige zurück, das nur er geben kann: den ruhigen Schlaf.
+
+> **07.10.** — [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems (Jung & Naiv 855)]]
+>
+> Wenn die Krise einen Schuldigen sucht, findet sie ihn unten. Ein Kritischer Theoretiker über Faschisierung als Prozess, und warum Hoffnung keine Stimmung ist.
+
 ### Geistesblitz
 
 > **08.10.** — [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
@@ -81,44 +127,6 @@ Die Gedankenwelten (luc)
 > **03.07.** — [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
 >
 > Keine Machtergreifung, nur Milliarden kleiner Abgaben: Wie Verantwortung entsorgt wird, Macht herrenlos wird — und warum das Urteil das Einzige ist, was man nie delegieren darf.
-
-### Denker
-
-> **07.10.** — [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems (Jung & Naiv 855)]]
->
-> Wenn die Krise einen Schuldigen sucht, findet sie ihn unten. Ein Kritischer Theoretiker über Faschisierung als Prozess, und warum Hoffnung keine Stimmung ist.
-
-> **28.09.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
->
-> Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar: Klees Credo von 1920 — und der Tag 1937, an dem man den Sichtbarmacher unsichtbar machen wollte.
-
-> **27.09.** — [[Denker/Philipp Blom — Die Unterwerfung|Philipp Blom — Die Unterwerfung]]
->
-> Ein Satz aus der Bronzezeit regiert noch den Weltmarkt: Philipp Blom über die Idee, der Mensch stehe über der Natur, und warum Siegen dumm macht.
-
-### Zeitgeist
-
-> **05.10.** — [[Zeitgeist/Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts|Christoph Safferling — Nürnberg und die Ohnmacht des Völkerrechts (Jung & Naiv 826)]]
->
-> Nürnberg schrieb sieben Sätze, die für alle gelten sollten. Achtzig Jahre später fragt ein Völkerrechtler, wer sie noch ernst nimmt, und wo Berlin wegsieht.
-
-> **04.10.** — [[Zeitgeist/Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
->
-> Kinder waren immer Außenseiter, aber früher waren sie die Mehrheit. Eine Verfassungsjuristin will ihnen Gehör verschaffen, das nicht von der Großzügigkeit der Alten abhängt.
-
-> **04.10.** — [[Zeitgeist/Presseclub — Brandmauer nach links|Presseclub — Wer regiert die Hauptstadt? Kommt die Brandmauer nach links?]]
->
-> Vier Berliner Journalisten fragen zwei Wochen nach dem Wahlsieg der Linken, ob man mit einer Partei regieren kann, deren Erfolg an den Leuten hängt, von denen sie sich trennen müsste.
-
-> **04.10.** — [[Zeitgeist/BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]]
->
-> Die 40 Prozent stimmen, und der Satz darüber täuscht trotzdem. Fünf Behauptungen über Ausländerkriminalität, gegen die Statistik gelesen, aus der sie stammen.
-
-> **04.10.** — [[Zeitgeist/Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
->
-> Beginnt Großzügigkeit dort, wo die Gerechtigkeit endet, oder ist sie nur ihr freundlicherer Name? Vier Stimmen streiten über die Gabe, den Backlash und einen Kuchen, der nicht mehr wächst.
-
-> → *5 weitere in* [[Zeitgeist]]
 
 ### Spuren
 

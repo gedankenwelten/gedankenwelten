@@ -96,9 +96,12 @@ Stilistisch wird er als „Marxismus im Maßanzug" beschrieben — rhetorisch ve
 - [[DenkerVita/Maurice Hoefgen]] — Gemeinsame Sache in der ökonomischen Aufklärung; Höfgen liefert die MMT-Grundlagen, Schmitt die kulturelle Einbettung
 
 ---
+- [[DenkerVita/Dietmar Dath|Dietmar Dath]] — marxistischer Romancier und Gesprächspartner auf der Utopie-Konferenz 2026, Autor in Schmitts Sammelband *Selbst Schuld!*; Dath verteidigt die Verschwendung als Überschuss, Schmitt hält ihm das emanzipatorische Potenzial der KI entgegen.
 
 ## Gedankenwelten-Notes
 
+- [[Roger de Weck — Was ist konservativ|Roger de Weck — Was ist konservativ, was reaktionär?]] — als Gastgeber des Konservatismus-Abends, Leuphana 2026; drängt bei Merkel und fragt: Warum nicht Rot-Rot-Grün?
+- [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]] — als Gesprächspartner Daths, Leuphana 2026; verteidigt das emanzipatorische Potenzial der KI als Produktivkraft
 - [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
 - [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun]]
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]]

@@ -326,6 +326,14 @@ Die Gegenrechnung zum Titel. Selbst wenn Geld genug da ist, liegt für Herrmann 
 
 Kaczmarczyks Koautor macht aus der Netzrechnung dieses Abends ein Programm: öffentliches Eigentum überall, wo privates Kapital Rendite kostet, ohne Innovation zu bringen. Sigl-Glöckners Einwand vom Staat als Monopolisten trifft ihn am härtesten, und Krebs räumt selbst ein, dass auch Stadtwerke sich wie Blackrock benehmen können.
 
+### → [[Adam Tooze — Krise und demokratische Gelegenheit]]
+
+Tooze nennt die Schuldenbremse die offensichtlichste Form von Nichthandeln als Macht — zwei Jahre vor ihrer Lockerung.
+
+### → [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]]
+
+Am Tag danach streiten Göpel und Mithu Sanyal, ob ein Sondervermögen ein „Kriegskredit“ ist; die Rheinmetall-Anekdote kehrt wieder.
+
 ---
 
 ## Weiterdenken

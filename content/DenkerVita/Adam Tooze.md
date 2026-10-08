@@ -97,5 +97,6 @@ Toozes Frage „Wer kontrolliert die KI — Staat oder Konzern?" (Pentagon vs. A
 
 ## Gedankenwelten-Notes
 
+- [[Adam Tooze — Krise und demokratische Gelegenheit]] — Utopie-Konferenz Leuphana 2024: Mehrheit statt Konsens, Freund und Feind von links, Nostalgie vergangener Zukünfte; offener Streit mit Maja Göpel
 - [[Adam Tooze — Pentagon vs. Anthropic]] — KI-Kontrolle als Machtfrage zwischen Staat und Konzernen (Surplus-Interview)
 - [[Zeitgeist/Adam Tooze und Maja Goepel — Die Polykrise|Adam Tooze und Maja Göpel — Die Polykrise]] — Tooze zur Herkunft des Polykrise-Begriffs (Morin, Juncker) und zu seinem Zweifel, ob grüne Modernisierung als Antwort noch trägt

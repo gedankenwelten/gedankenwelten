@@ -220,3 +220,7 @@ Der hoffnungsvolle Gegenschnitt: Gegen Redeckers Diagnose vom Sog zur Härte set
 
 Münklers stärkste Entdeckung — dass der russische Dekadenzvorwurf und die eigene hybride Kriegführung dieselbe Struktur haben, die Auflösung einer binären Ordnung — bleibt bei ihm eine Beobachtung über intellektuelle Inkonsistenz. Redecker erklärt, warum es keine ist: Phantombesitz und Ausnahmezustandslogik machen die verlorene Ordnung zu einem Anspruch, dessen Verteidigung Gewalt legitimiert. Ihre „Souveränität durch Verwüstung“ ist die dritte Lesart Putins neben Münklers Drehbuch und Baberowskis Blackbox.
 
+### → [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]]
+
+In Lüneburg 2024 definiert Redecker Vertrauen als Kooperationserwartung, leitet den „öffentlichen Luxus“ aus dem Wunsch mancher Wähler nach einem „Stärkebeweis vom Staat“ her und sagt: „Es gibt kein Exil mehr.“
+
