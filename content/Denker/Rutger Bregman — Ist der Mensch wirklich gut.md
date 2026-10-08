@@ -292,6 +292,10 @@ Das literarische Experiment, das Bregmans Optimismus herausfordert: kein Notstan
 - [[Hans Maggi — Kurdistan im Nordirak]] — Bregmans These im Alltagsformat: zwei Wochen lang schenken Menschen mit wenig Geld zwei Fremden so beharrlich, dass diese am Tag nur noch drei Euro ausgeben. Das unspektakulärste Beweisstück ist ein geschenkter Müllsack
 - [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]] — Bregmans „gewählte Aristokratie“ und sein „Macht korrumpiert“ sind die Gründungsidee einer Partei geworden: Ardalan Ibrahim baut darauf seine Losdemokratie und führt sie ausdrücklich als „Fürst“.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

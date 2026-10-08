@@ -265,6 +265,10 @@ Ein Ex-Neonazi hängt in der Zelle ein Jahr lang den Spiegel ab, weil er sich ni
 
 Marks unterscheidet Scham, die von innen kommt, von Beschämung, die von außen nachgießt, und will die Scham weder nehmen noch vergrößern. Sein Raum der Würde ist Brählers Selbstmitgefühl, von einem anderen Menschen gehalten.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Wann wird Großzügigkeit zu viel?“.
+
 ---
 
 ## Weiterdenken

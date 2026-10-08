@@ -109,6 +109,10 @@ Auch die Utopie trägt ihr Gegenteil in sich: Im Überfluss lauert die Abhängig
 ### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
 Die Rehabilitierung des Genres selbst: Sarr rettet die Utopie als „Prozess der sozialen Transformation, kein süßer Traum" — gegen den Dystopie-Verwaltungsmodus des Westens. Diese Note führt genau so eine bewusst durchgespielte, realistische Utopie vor.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Muss man sich Großzügigkeit leisten können?“.
+
 ---
 
 ## Weiterdenken

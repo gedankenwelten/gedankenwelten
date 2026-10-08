@@ -258,6 +258,10 @@ Wilkersons „Rasse ist die brillante Ablenkung" und Mbembes Auflösung der Rass
 
 Kave Bulambos Befund, die Tech-Industrie operiere auf kolonialen Rahmenwerken, ist Mbembes Denkfigur in der Betriebstemperatur des Alltags: vom Kobalt aus dem Kongo über die Datenarbeit in Kenia bis zu einem Anteil von einem Prozent in der deutschen Tech-Branche. Die Reibung lohnt sich — Mbembe denkt planetarisch und stellt Zugehörigkeit selbst zur Debatte, das Panel rechnet in Budgetzeilen und benennt, was diese Arbeit an psychischer Gesundheit kostet.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

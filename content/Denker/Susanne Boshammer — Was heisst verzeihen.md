@@ -213,6 +213,38 @@ Verweigert sie es, kann der Täter nicht zu einer Dritten gehen und dort um Erla
 
 ---
 
+## Nachbesprechung
+
+*Zwei Fragen hat Boshammer an diesem Abend angestoßen und offen gelassen: ob ein Vorwurf verjähren kann, und ob man sich selbst verzeihen kann. Was man darüber hinaus weiß.*
+
+### Gibt es eine moralische Verjährung?
+
+Boshammer arbeitet an dem Gedanken, wie sie sagt, gerade erst [▶ 44:56](https://www.youtube.com/watch?v=4UZQSlGoHyY&t=2696): Gibt es eine Zeit, nach der Vorwurf und Abstand nicht mehr gerechtfertigt sind? Ihr Grund ist, dass Menschen sich ändern, und ihre Formel heißt *„ich erlaube dir, eine andere zu werden“* [▶ 45:43](https://www.youtube.com/watch?v=4UZQSlGoHyY&t=2743). Eine halbe Stunde später, gegen Jankélévitch, zieht sie die Grenze: Die heutige Generation hat nichts zu verzeihen, sie hat Grund zu erinnern, und Erinnerung ist Information über die Möglichkeiten menschlicher Grausamkeit [▶ 76:08](https://www.youtube.com/watch?v=4UZQSlGoHyY&t=4568). Beide Sätze passen zusammen, wenn man sie trennt wie sie: Verjähren kann der Vorwurf gegen die Person, das Gedächtnis der Tat nie.
+
+Der Bundestag hat über die rechtliche Seite derselben Frage viermal gestritten. Am 10. März 1965 sollten NS-Morde nach zwanzig Jahren verjähren; ohne Fraktionszwang verschob das Parlament den Beginn der Frist, und Justizminister Bucher, der die Verjährung wollte, trat zurück. 1969 wurde Völkermord unverjährbar, die Frist für Mord stieg auf dreißig Jahre, und am 3. Juli 1979 hob der Bundestag sie für Mord ganz auf, mit 255 zu 222 Stimmen ([bpb: Das Ende der Verjährungsdebatte](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/293285/das-ende-der-verjaehrungsdebatte-warum-mord-nicht-verjaehrt/)). Dort ging es um den Anspruch des Staates, nicht um den des Opfers.
+
+Wer genauer hinsieht, findet im Recht mehr moralische Verjährung, als die Eigene Einschätzung oben zugesteht. Nach Ablauf der Tilgungsfristen des Bundeszentralregisters, fünf bis zwanzig Jahre, dürfen Tat und Verurteilung *„dem Betroffenen im Rechtsverkehr nicht mehr vorgehalten“* werden ([§ 51 BZRG](https://www.gesetze-im-internet.de/bzrg/__51.html)); nur lebenslange Strafen werden nie getilgt. Und das Bundesverfassungsgericht schrieb 2019 im Fall eines 1982 verurteilten Mörders, dessen Name über das Spiegel-Archiv auffindbar blieb: *„Zur Zeitlichkeit der Freiheit gehört die Möglichkeit des Vergessens“*; erst das Zurücktreten vergangener Sachverhalte eröffne die Chance zum Neubeginn ([BVerfG, Recht auf Vergessen I, 1 BvR 16/13](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/11/rs20191106_1bvr001613.html)). Gelöscht wurde dabei nichts. Der Artikel blieb im Archiv, er sollte nur nicht mehr beim Namen obenauf liegen. Das ist Boshammers Trennung als Urteil: Die Tafel bleibt beschrieben, aber niemand hält sie dem Mann jeden Morgen vor.
+
+Auch die Kriminologie kennt eine Verjährung, eine statistische. In einer amerikanischen Geburtskohorte glich sich das Risiko früher Verurteilter nach etwa sieben straffreien Jahren dem von Menschen ohne Vorstrafe an ([Kurlychek, Brame & Bushway 2006, doi:10.1111/j.1745-9133.2006.00397.x](https://doi.org/10.1111/j.1745-9133.2006.00397.x)); bei 88.000 Erstverhafteten in New York lag dieser Punkt je nach Delikt und Alter zwischen knapp vier und gut acht Jahren ([Blumstein & Nakamura 2009, doi:10.1111/j.1745-9125.2009.00155.x](https://doi.org/10.1111/j.1745-9125.2009.00155.x)). Das trägt Boshammers Grund: Menschen werden tatsächlich andere. Es misst aber nur das Risiko, nicht die Schuld, und Jankélévitchs Einwand bleibt stehen. Die Desistance-Forschung fügt hinzu, dass das Anderswerden die Erlaubnis braucht. Shadd Maruna beschreibt, wie ohne Rituale, in denen andere den Wandel anerkennen, die Rückkehr misslingt ([Maruna 2011, doi:10.1177/1462474510385641](https://doi.org/10.1177/1462474510385641)); wer sich geändert hat und nicht als geändert gilt, vereinsamt (Nugent & Schinkel 2016). „Ich erlaube dir“ ist also mehr als eine Gnade, es gehört zum Wandel selbst.
+
+Wo Nachbarn nach einem Massenverbrechen weiterleben müssen, hat diese Erlaubnis einen Preis, und ihn zahlen oft die Opfer. Ruandas Gacaca-Gerichte verhandelten von 2002 bis 2012 knapp zwei Millionen Fälle, Geständnisse senkten die Strafen; wer dort als Zeuge aussagte, litt danach häufiger an Depression und posttraumatischen Symptomen als andere ([Brounéus 2010, doi:10.1177/0022002709360322](https://doi.org/10.1177/0022002709360322)). In Sierra Leone verglich ein Feldexperiment Dörfer mit und ohne Versöhnungsforen: Dort wurde mehr verziehen, das Vertrauen wuchs, und zugleich nahmen Angst, Depression und Traumasymptome zu ([Cilliers, Dube & Siddiqi 2016, doi:10.1126/science.aad9682](https://doi.org/10.1126/science.aad9682)). Das Dorf gewinnt, was der Einzelne bezahlt. Boshammers Erlaubnis ist darum eine Gabe, die man niemandem abverlangen darf, wie sie es vom Verzeihen selbst sagt.
+
+→ Weiter im Panorama: **[[Panorama/Wie handelt eine Demokratie#Mit wem fängt eine Demokratie neu an?|Mit wem fängt eine Demokratie neu an?]]**, mit Safferling, Aly und Bude.
+
+### Kann man sich selbst verzeihen?
+
+Der Zuhörer, der nach Ruanda fragt, will eigentlich wissen, wie man mit eigener Schuld lebt [▶ 70:05](https://www.youtube.com/watch?v=4UZQSlGoHyY&t=4205). Boshammer meidet das Wort „Selbstverzeihen“ aus „technischen Gründen“ [▶ 71:36](https://www.youtube.com/watch?v=4UZQSlGoHyY&t=4296): Verzeihen ist der Verzicht des Verletzten, und auf einen Anspruch gegen sich selbst kann man nicht verzichten. Was sie stattdessen anbietet, ist eine dritte Haltung zwischen Freispruch und Verdammung: *„Ich verdamme nicht mich als Person, sondern ich bleibe einfach unversöhnt mit dem, was ich damals getan habe“* [▶ 72:22](https://www.youtube.com/watch?v=4UZQSlGoHyY&t=4342). Was die Psychologie über echte und Pseudo-Selbstvergebung und über Schuld und Scham weiß, steht in der [[Philip Schlaffer — Kann man sich aendern#Darf sich ein Täter selbst vergeben?|Nachbesprechung zu Philip Schlaffer]]; hier geht es um die Frage, ob Boshammers Ausweg trägt.
+
+In der Philosophie steht sie mit dem Zweifel nicht allein. Charles Griswold hält Selbstvergebung für möglich, aber für eine abgeleitete, unvollkommene Form, legitim erst, wenn der Täter alles getan hat, was das Opfer verlangen dürfte (*Forgiveness. A Philosophical Exploration*, 2007). Paul Vitz und Jennifer Meade halten den Begriff in der Therapie für schief und schlagen vor, was Boshammer beschreibt: sich selbst anzunehmen und die Vergebung bei denen zu suchen, die verletzt wurden ([Vitz & Meade 2011, doi:10.1007/s10943-010-9343-x](https://doi.org/10.1007/s10943-010-9343-x)). Robin Dillon kommt von der anderen Seite zum selben Punkt. Selbstvergebung heißt bei ihr, dass der Selbstvorwurf aufhört, das Leben zu beherrschen; das Urteil über die Tat wird dabei nicht milder ([Dillon 2001, doi:10.1086/339140](https://doi.org/10.1086/339140)). Das ist Boshammers „unversöhnt“ unter anderem Namen.
+
+Die empirische Seite gibt ihr in einem Punkt recht, der überrascht. Wer nach einem eigenen moralischen Fehltritt angeleitet wurde, freundlich statt verurteilend über sich zu schreiben, wollte danach *eher* wiedergutmachen und den Fehler nicht wiederholen ([Breines & Chen 2012, doi:10.1177/0146167212445599](https://doi.org/10.1177/0146167212445599), Experimente). Die Person nicht zu verdammen macht also nicht bequem, es macht handlungsfähig. Echte Selbstvergebung geht mit Reue und übernommener Verantwortung einher, das bloße Entschuldigen nicht ([Fisher & Exline 2006, doi:10.1080/15298860600586123](https://doi.org/10.1080/15298860600586123)), und über viele Studien hängt sie mit besserer psychischer und körperlicher Gesundheit zusammen, korrelativ ([Davis et al. 2015, Meta-Analyse, doi:10.1037/cou0000063](https://doi.org/10.1037/cou0000063)).
+
+Die Grenze zeigt sich dort, wo „unversöhnt“ kippt. Soldaten, die im Krieg gegen ihr eigenes Gewissen gehandelt haben, tragen oft eine *moralische Verletzung*: Schuld und Scham, die sich zur Selbstverurteilung verhärten, mit Rückzug und Suizidgedanken. Die Behandlung, die Brett Litz und Kollegen vorschlagen, arbeitet gezielt an einer Form von Selbstvergebung ([Litz et al. 2009, doi:10.1016/j.cpr.2009.07.003](https://doi.org/10.1016/j.cpr.2009.07.003)). Boshammers Satz hat zwei Hälften, und die zweite ist die schwere. Mit der Tat unversöhnt zu bleiben, gelingt fast jedem, der Gewissen hat. Die Person dabei nicht zu verdammen, gelingt vielen nicht allein, und dann braucht es jemanden, der hilft, beides auseinanderzuhalten.
+
+→ Weiter im Panorama: **[[Panorama/Wie kommt man aus der rechten Szene wieder heraus#Was hält einen draußen?|Was hält einen draußen?]]**, mit Schlaffer und seiner Zuhörerin, Bernhardt und Eichi.
+
+---
+
 ## Faktencheck
 
 > [!warning] Vereinfacht — „Alle empirischen Studien zeigen: Prävention funktioniert nicht“
@@ -318,6 +350,10 @@ Zwei Menschen, die auf Rache verzichten, ohne dass die Täter um Verzeihung gebe
 ### → [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]]
 
 Welzer verweigert die Linie zwischen Anspruch und Großzügigkeit, die Boshammer am Abend sofort zieht, und erreicht sie erst über die Lehrerinnen seiner Kindheit.
+
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“ und „Kann eine Gesellschaft großzügig sein?“.
 
 ---
 

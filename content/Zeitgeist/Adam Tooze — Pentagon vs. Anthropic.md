@@ -189,6 +189,10 @@ Nosthoff liefert den historischen Hintergrund zu Toozes Gegenwartsbefund: Kybern
 
 Beide beschreiben KI als Machtinstrument — Tooze geopolitisch-realistisch (Pentagon vs. Anthropic), die Loosh-Note als kosmische Kontrollmatrix der Administratoren. Die Gegenüberstellung macht sichtbar, wie dasselbe reale Phänomen (KI-Macht) einmal analytisch und einmal paranoid-mythologisch verarbeitet werden kann.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wer trägt Verantwortung, wenn die Maschine handelt?“.
+
 ---
 
 ## Weiterführend

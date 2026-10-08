@@ -112,6 +112,11 @@ Misselhorns Meta-Reflexion zur Verantwortungslücke antwortet auf den leeren Tur
 ---
 
 - [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]] — Der Beleg ohne Maschine. Fünf Meldungen eines Augusttages, in denen Verantwortung auf dem Weg zwischen Zuständigkeit und Antwort verdunstet: Dublin schiebt sie an die Außengrenze, das Versorgungswerk lässt die Presseanfrage liegen, der Regierungssprecher sagt „der Bundeskanzler äußert sich dann, wenn er sich äußert“. Nichts davon ist illegal, und keine der Instanzen hat entschieden, sich zu entziehen — genau die These dieser Note, dass KI nur die reibungsloseste in einer alten Reihe ist. Hier ohne jede Technik, nur Bürokratie und Sprache.
+
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

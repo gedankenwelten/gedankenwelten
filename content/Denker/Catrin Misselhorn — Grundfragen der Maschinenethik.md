@@ -245,6 +245,10 @@ Scobel zeigt an der Wendung „den Geist aufgeben“, wie Sprache Maschinen bese
 
 Simanowski kommt durch eine andere Tür zu Hegel: Herr und Knecht als Bild der Delegation an die KI, die zweimal kostet — die Kompetenz und die Anerkennung.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Maschine widersprechen oder schmeicheln?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
+
 ---
 
 ## Weiterdenken

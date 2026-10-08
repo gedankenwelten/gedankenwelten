@@ -193,6 +193,36 @@ El-Mafaalanis Einwand ist damit nicht ganz erledigt. Die Badewanne für das Alle
 
 ---
 
+## Nachbesprechung
+
+*Zwei Fragen nahm man aus dem Hörsaal mit, auf die der Abend nur die halbe Antwort hatte: was die gemeinsame Schule mit Kindern macht, mit und ohne Behinderung, und was eine Quote außer Zahlen bewirkt.*
+
+### Gehören alle Kinder in dieselbe Klasse?
+
+El-Mafaalanis Befund, dass die meisten Kinder in Deutschland nie neben einem behinderten Mitschüler sitzen [▶ 34:30](https://www.youtube.com/watch?v=P9H5BeqWTGw&t=2070), hat sich seit der Behindertenrechtskonvention kaum bewegt. Im Schuljahr 2022/23 hatten 7,6 Prozent aller Schülerinnen und Schüler einen festgestellten Förderbedarf, 4,2 Prozent lernten an einer Förderschule, 2008/09 waren es 4,8 ([Bertelsmann Stiftung / Klemm, Mai 2024](https://www.bertelsmann-stiftung.de/de/unsere-projekte/schulische-bildung/projektnachrichten/auf-dem-weg-zum-inklusiven-schulsystem-aktuelle-zahlen-zur-inklusion-an-schulen)). Gut die Hälfte der Kinder mit Förderbedarf, 55,6 Prozent, besucht also weiter eine eigene Schule. Gewachsen ist die Inklusion vor allem dadurch, dass mehr Förderbedarf festgestellt wird. Leerer sind die Förderschulen kaum geworden.
+
+Was die Förderschule ihren eigenen Kindern bringt, ist besser untersucht, als die Debatte vermuten lässt, und der Befund ist für beide Lager unbequem. Im IQB-Ländervergleich 2011 schnitten Grundschulkinder mit Förderbedarf an Regelschulen im Lesen, Zuhören und in Mathematik deutlich besser ab als vergleichbare Kinder an Förderschulen, am stärksten im Förderschwerpunkt Lernen ([Kocaj et al. 2014, doi:10.1007/s11577-014-0253-x](https://doi.org/10.1007/s11577-014-0253-x), Matching-Studie). In sechs Ländern erreichten sie an allgemeinen Schulen häufiger einen qualifizierten Abschluss ([Kemper & Goldan 2020, doi:10.25656/01:15803](https://doi.org/10.25656/01:15803), amtliche Statistik). Eine internationale Campbell-Übersicht findet dagegen im Mittel weder Gewinn noch Schaden, bei durchweg schwachen Studien ohne Zufallszuteilung ([Dalgaard et al. 2022, doi:10.1002/cl2.1291](https://doi.org/10.1002/cl2.1291)). Und dieselbe IQB-Gruppe hat den Preis gemessen, den Krauthausen Niederlage nennt: Kinder mit Förderbedarf trauen sich in Regelklassen weniger zu und lernen mit weniger Freude, weil sie sich mit Stärkeren vergleichen; rechnet man das heraus, verschwindet der Unterschied ([Kocaj et al. 2018, doi:10.1016/j.cedpsych.2018.09.004](https://doi.org/10.1016/j.cedpsych.2018.09.004)). Die Förderschule schont das Selbstbild und kostet Abschlüsse. Sein Satz, die eigene Grenze lerne man besser mit drei als mit dreißig [▶ 40:36](https://www.youtube.com/watch?v=P9H5BeqWTGw&t=2436), ist eine Wette auf den längeren Atem, und die deutschen Daten sprechen eher für ihn. In der Behindertenbewegung heißt dieses Recht seit Robert Perske (1972) *dignity of risk*, die Würde des Risikos.
+
+Seine Schicksalsgemeinschaft [▶ 36:00](https://www.youtube.com/watch?v=P9H5BeqWTGw&t=2160) verspricht vor allem den anderen Kindern etwas. In 22 von 35 Beobachtungsstudien ging Kontakt mit freundlicheren Einstellungen zu Behinderung einher, in zwei mit schlechteren ([MacMillan et al. 2014, doi:10.1111/dmcn.12326](https://doi.org/10.1111/dmcn.12326), Review); angeleitete Begegnungen verbessern sie nachweislich ([Armstrong et al. 2017, doi:10.1016/j.dhjo.2016.10.003](https://doi.org/10.1016/j.dhjo.2016.10.003), Meta-Analyse). Den saubersten Beleg für das Zusammenwürfeln liefert ein Fall ohne Behinderung. Als Delhi 2007 Privatschulen verpflichtete, arme Kinder aufzunehmen, wurden ihre reichen Mitschüler großzügiger und gerechter und diskriminierten weniger, getragen von persönlichen Begegnungen ([Rao 2019, doi:10.1257/aer.20180044](https://doi.org/10.1257/aer.20180044), natürliches Experiment). Das ist Großzügigkeit, die von unten wächst: Die Klasse bringt bei, was der Abend sonst als Haltung verlangt.
+
+Nebeneinander sitzen ist aber noch nicht dazugehören. Kinder mit Förderbedarf haben in Regelklassen im Schnitt weniger Freunde, mehr Kontakt zur Lehrerin als zu Mitschülern und werden seltener angenommen ([Koster et al. 2010, doi:10.1080/10349120903537905](https://doi.org/10.1080/10349120903537905), Einzelstudie, Niederlande). Wie auf dem Fußballplatz von [[Marcant und Eichi — Ausstieg aus der Neonazi-Szene#Wirkt Begegnung, wenn man zusammen spielt?|Eichis FC Pio]] hilft die Begegnung, wenn man etwas zusammen tut, auf gleicher Höhe, und wenig, wenn man nur denselben Raum teilt. Die Rampe allein macht noch keine Klasse.
+
+→ Weiter im Panorama: **[[Panorama/Was macht Schule mit uns#Wozu ist Schule da?|Wozu ist Schule da?]]**, mit Zimpel, Spitzer und Malala Yousafzai.
+
+### Wirken Quoten?
+
+Krauthausen will nicht „der Quotenbehinderte“ sein und kennt trotzdem kein besseres Mittel [▶ 13:05](https://www.youtube.com/watch?v=P9H5BeqWTGw&t=785). Ob Beschäftigungsquoten Stellen schaffen, prüft der Faktencheck: ja, mit Nebenwirkungen. Offen bleibt, was sie in Betrieben und Köpfen tut, und ob der Preis, den er fürchtet, tatsächlich anfällt.
+
+Zuerst die Betriebe. Von der deutschen Quote kann man sich freikaufen, und der Preis ist gerade gestiegen. Seit 2024 gibt es eine vierte Stufe für Arbeitgeber, die keinen einzigen schwerbehinderten Menschen beschäftigen, seit 2025 sind das 815 Euro im Monat je unbesetztem Pflichtplatz ([§ 160 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__160.html)). Betroffen war nach Angaben der Bundesagentur 2024 rund ein Viertel der pflichtigen Betriebe, etwa 40.000 ([BA, November 2024](https://arbeitsagentur.de/vor-ort/datei/topthemen-woche_ba220437.pdf)). Ob die teure Stufe wirkt, zeigen erst die Anzeigen für 2025, fällig im März 2026; ausgewertet ist das noch nicht. Österreich mit demselben Modell gibt einen Vorgeschmack: Betriebe knapp über der Pflichtschwelle beschäftigten rund zwölf Prozent mehr behinderte Menschen, je höher die Abgabe, desto mehr, und manche hielten sich knapp unter der Schwelle ([Lalive, Wuellrich & Zweimüller 2013, doi:10.1111/j.1542-4774.2012.01109.x](https://doi.org/10.1111/j.1542-4774.2012.01109.x), Regressionsdiskontinuität). Eine Quote mit Preisschild wirkt, und zwar im Maß ihres Preises.
+
+Dann die Köpfe. Das beste Experiment stammt aus Indien, wo in Westbengalen ein Drittel der Dorfratsvorsitze per Los Frauen vorbehalten wurde. Wo zweimal eine Frau regiert hatte, wurden danach auch ohne Quote häufiger Frauen gewählt, und die Leute beurteilten die Leistung von Frauen weniger voreingenommen, während die Vorliebe für Männer blieb ([Beaman et al. 2009, doi:10.1162/qjec.2009.124.4.1497](https://doi.org/10.1162/qjec.2009.124.4.1497), natürliches Experiment). Bei den Töchtern schrumpfte die Lücke in Berufswünschen und Schulbildung, ohne dass sich ihr Arbeitsmarkt verändert hatte, ein reiner Vorbild-Effekt ([Beaman et al. 2012, doi:10.1126/science.1212382](https://doi.org/10.1126/science.1212382)). Das ist Krauthausens Bühne statt Zuschauerplatz, gemessen. Die einarmige Busfahrerin, die er im Fernsehen vermisst, entsteht dort, wo jemand sie einmal in der Rolle gesehen hat. Die Grenze zeigt Norwegen (Bertrand et al., oben im Inhalt): Vorbilder wirken auf die, die ihnen begegnen, und kaum auf die Etagen darunter.
+
+Und der Preis, den er fürchtet. Eine Meta-Analyse über 78 Studien bestätigt ihn, aber kleiner als befürchtet. Bevorzugung löst kleine bis mittlere Abwehr aus, am stärksten beim Urteil über Fairness und bei denen, die nicht profitieren, und in neueren Studien schwächer. Entscheidet eine Regel nur bei gleicher Eignung, zeigte sich kein Nachteil ([Greig et al. 2023, doi:10.1002/ejsp.2991](https://doi.org/10.1002/ejsp.2991)). Genau so steht es in vielen Stellenanzeigen des öffentlichen Dienstes: Schwerbehinderte werden bei gleicher Eignung bevorzugt. Der Quotenbehinderte, dem man vorhält, er sei nur wegen der Regel da, ist vor allem eine Figur der harten Quote. Für Krauthausens eigentliches Feld, Besetzungslisten und Bühnen, fehlt vergleichbare Forschung; dort bleibt seine Forderung eine Wette.
+
+Im Bestand berührt die Frage [[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Hartmanns Quote nach Herkunft]], die reservierten Sitze in [[Suraj Yengde — Annihilation of Caste#Der Harlem-Moment der Dalits|Yengdes Kastenkritik]], [[Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung#Vorbilder und der Tisch, an dem entschieden wird|Malalas Tisch, an dem entschieden wird]] und die französische Aufsichtsratsquote in den [[Good News - Gute Nachrichten Mai 2026 Teil 2#Frankreich Geschlechterquote zeigt Wirkung|Good News vom Mai 2026]]; ein eigenes Panorama hat sie noch nicht.
+
+---
+
 ## Faktencheck
 
 > [!success] Bestätigt — „10 % unserer Gesellschaft sind Menschen mit Behinderungen“
@@ -312,6 +342,10 @@ Maus Gleichbehandlungs-Trigger beschreibt die Angst, andere drängelten sich vor
 ### → [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
 
 Im Abschnitt *Wozu ist Schule da?* stehen die Meta-Analysen, auf die Krauthausens „das ist einfach Mathematik“ sich stützen kann. Seine Stimme fehlte dort bisher: eine, die Inklusion von innen kennt und trotzdem sagt, dass sie das Scheitern einschließen muss.
+
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“ und „Kann eine Gesellschaft großzügig sein?“.
 
 ---
 

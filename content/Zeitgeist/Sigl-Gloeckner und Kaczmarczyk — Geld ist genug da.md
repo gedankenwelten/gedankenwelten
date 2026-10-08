@@ -334,6 +334,10 @@ Tooze nennt die Schuldenbremse die offensichtlichste Form von Nichthandeln als M
 
 Am Tag danach streiten Göpel und Mithu Sanyal, ob ein Sondervermögen ein „Kriegskredit“ ist; die Rheinmetall-Anekdote kehrt wieder.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“ und „Muss man sich Großzügigkeit leisten können?“.
+
 ---
 
 ## Weiterdenken

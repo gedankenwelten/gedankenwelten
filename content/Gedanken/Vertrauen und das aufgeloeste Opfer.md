@@ -95,6 +95,10 @@ Eines fehlt in diesem Text, und es fehlt mit Absicht: das *Wie*. Mit welchen Han
 
 Michel Friedman entscheidet sich, Menschen zu vertrauen, obwohl seine Familie ermordet wurde — die härteste Probe des bewussten Vertrauensvorschusses.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“ und „Wann wird Großzügigkeit zu viel?“.
+
 ---
 
 ## Weiterdenken

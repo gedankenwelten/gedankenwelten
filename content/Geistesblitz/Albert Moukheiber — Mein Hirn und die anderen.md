@@ -362,6 +362,10 @@ Wilholt führt die Mitteilung anderer als eigene Wissensquelle ein und nennt das
 
 Die erfundenen Referenzen, die Scobel in der Medizinforschung zählt, sind Moukheibers Ende des kalibrierten Vertrauens in Zahlen: Ein Werkzeug, das nur mit Wahrscheinlichkeiten antwortet, kommt durchs Nadelöhr, weil niemand nachsieht.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Maschine widersprechen oder schmeicheln?“.
+
 ## Verwandte Notes
 
 - [[Christof Johnen — Sudan Humanitaere Lage und DRK-Einsatz]] — Das Versagen internationaler Institutionen in Sudan zeigt, was passiert wenn kollektive Intelligenz (Bürgerkonvente, kooperative Entscheidungsstrukturen) durch Machtinteressen ersetzt wird.

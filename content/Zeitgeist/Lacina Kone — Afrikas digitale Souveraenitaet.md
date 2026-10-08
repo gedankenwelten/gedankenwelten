@@ -268,6 +268,10 @@ Konés Warnung, Daten dürften nicht zum neuen Rohstoff werden, geht in diesem P
 
 Was Koné von innen als Sprachlücke beschreibt, beschreibt Simanowski von außen als „Epistemizid“ und Wertexport: vertreten werden gegen sich selbst vertreten.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“.
+
 ---
 
 ## Weiterdenken

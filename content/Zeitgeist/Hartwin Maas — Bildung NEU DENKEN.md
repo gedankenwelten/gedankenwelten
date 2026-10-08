@@ -230,3 +230,7 @@ Tianas US-Schulanalyse ist der internationale Vergleichsfall zu Maas' Diagnose: 
 
 Kognitives Auslagern als Hegels Herr, der die Dinge verlernt; Simanowskis praktische Antwort für die Schule: Aufsätze schreiben, um herauszufinden, was man denkt, und die Prüfung als Gespräch über den eigenen Text.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“.
+

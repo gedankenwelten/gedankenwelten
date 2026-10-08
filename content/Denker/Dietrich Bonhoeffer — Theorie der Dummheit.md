@@ -402,6 +402,10 @@ Dürr zeigt die physikalische Konsequenz von Bonhoeffers Diagnose: *„Wir könn
 - [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]] — Der Ausstiegsbegleiter Fabian Wichmann sagt, Argumente perlen ab wie an Teflon: Bonhoeffers Gespräch mit den Schlagworten statt mit dem Menschen; Befreiung statt Belehrung ist heute die Arbeit der Ausstiegshilfe.
 - [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]] — Befreiung statt Belehrung in einer Biografie: Erst die Zelle trennt einen Kameradschaftsführer von seiner Gruppe; seine Selbstvergebung muss sich an der „billigen Gnade, die wir mit uns selbst haben“, messen lassen — und die Wende kam von einer Gefängnispastorin.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Wann wird Großzügigkeit zu viel?“.
+
 ---
 
 ## Weiterdenken

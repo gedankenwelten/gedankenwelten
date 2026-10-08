@@ -32,6 +32,8 @@ Jedes Panorama folgt diesem Aufbau:
 
 | Thema | Datei | Notes |
 |---|---|---|
+| Was ist Großzügigkeit? *(wachsend)* | [[Was ist Grosszuegigkeit]] | ~25 |
+| Was macht die KI aus unserem Denken? *(wachsend)* | [[Was macht die KI aus unserem Denken]] | ~28 |
 | Das Glück des Schmieds *(wachsend)* | [[Das Glueck des Schmieds]] | ~30 |
 | Schöner Wohnen *(wachsend)* | [[Schoener Wohnen]] | ~25 |
 | Wie kann Demokratie funktionieren? *(wachsend)* | [[Wie kann Demokratie funktionieren]] | ~50 |

@@ -264,6 +264,10 @@ Budes Diagnose der ausbleibenden Solidarisierung — eine Gesellschaft, in der k
 
 Sanyal fordert Solidarität mit den Deserteuren und stellt den Staatsbefehl gegen die Selbstverteidigung — Mawick ist der Freiwillige, den ihr Satz nicht beschreibt.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Wann wird Großzügigkeit zu viel?“.
+
 ---
 
 ## Weiterdenken

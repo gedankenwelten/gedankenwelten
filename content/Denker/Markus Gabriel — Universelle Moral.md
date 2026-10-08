@@ -190,3 +190,8 @@ Diagnes laterales Universales ist die erkenntnistheoretische Parallele zu Gabrie
 ### → [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]]
 
 Die juristische Antwort auf das Kinderwahlrecht: Von Scheliha hält ein stellvertretendes Familienwahlrecht für verfassungsrechtlich kaum haltbar und erzwingt das Zugehen auf Kinder über einen Zukunftsrat mit Begründungspflicht.
+
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“ und „Soll die Maschine widersprechen oder schmeicheln?“.
+

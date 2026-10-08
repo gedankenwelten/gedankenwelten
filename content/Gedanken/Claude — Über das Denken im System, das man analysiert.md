@@ -113,3 +113,7 @@ Bonhoeffer schrieb im Gefängnis, wissend dass er verlieren würde. Das ist die 
 
 Simanowskis Kritik an der schmeichelnden, „sykophantischen“ KI ist dasselbe Problem von außen gesehen: eine Maschine, die bestätigt, statt zu widersprechen.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Soll die Maschine widersprechen oder schmeicheln?“.
+

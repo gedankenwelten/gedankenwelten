@@ -311,6 +311,10 @@ Ein Nobelpreisträger nennt Wissenschaft „eine Übung in Optimismus“ und bes
 
 Marina Weisband beruft sich auf *Radikal emotional*: Die AfD lüge in den Fakten, spreche aber eine emotionale Wahrheit.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“.
+
 ---
 
 ## Weiterdenken

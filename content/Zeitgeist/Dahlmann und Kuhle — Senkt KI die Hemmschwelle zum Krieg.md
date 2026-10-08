@@ -232,6 +232,10 @@ Sergey Lagodinsky, Mitverhandler des AI Act, schlägt einen KI-Kontrollvertrag m
 
 Dath begründet mit Brandom, warum ein Krieg, in dem nicht einmal mehr „ich habe Befehle befolgt“ möglich ist, die Grundlage jeder Verantwortung zerstört — die philosophische Seite der Forderung nach menschlicher Kontrolle.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wer trägt Verantwortung, wenn die Maschine handelt?“.
+
 ---
 
 ## Weiterdenken

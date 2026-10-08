@@ -305,6 +305,10 @@ Das Hamburger Kinderkulturmanifest mit seinem Steuerungsrat aus Jugendlichen ist
 
 Welzer nennt die Bildungspolitik der Siebziger großzügig; Bleisch und von Scheliha würden darin einen eingelösten Anspruch sehen.
 
+### → [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+
+Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“ und „Kann eine Gesellschaft großzügig sein?“.
+
 ---
 
 ## Weiterdenken

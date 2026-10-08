@@ -2,7 +2,7 @@
 title: "Was kann das Völkerrecht?"
 date: 2026-10-05
 erstellt: 2026-10-05
-aktualisiert: 2026-10-05
+aktualisiert: 2026-10-08
 description: "Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?"
 raetsel: "Der Platz ist leer. Die Waage steht. Nur die Schatten bewegen sich."
 panorama-art: wachsend
@@ -95,20 +95,23 @@ Der Internationale Strafgerichtshof erbte den Vorwurf in neuer Gestalt. Seine er
 
 Das Völkerrecht hat keine Polizei. Durchgesetzt wird es durch Staaten, die mitmachen, oder durch den UN-Sicherheitsrat, in dem fünf Mächte ein Veto haben. Zwei Reformen gibt es schon: Seit 2022 muss die Generalversammlung binnen zehn Arbeitstagen über jedes Veto debattieren; der Vetostaat ist eingeladen zu sprechen, verpflichtet ist er nicht ([Res. 76/262](https://www.securitycouncilreport.org/un-documents/document/a-res-76-262.php)). Und seit 1950 kann die Generalversammlung nach der Resolution „Uniting for Peace“ tätig werden, wenn der Rat blockiert ist (Res. 377 A), mit Empfehlungen, nicht mit bindenden Beschlüssen.
 
-Wer sich dem Gericht unterwirft, bindet sich selbst: Am ehesten treten die Staaten bei, die am wenigsten zu befürchten haben, und die, die eine glaubwürdige Selbstbindung am dringendsten brauchen ([Simmons & Danner 2010, doi:10.1017/s0020818310000044](https://doi.org/10.1017/s0020818310000044)). Umgekehrt wird die Durchsetzung inzwischen aktiv bekämpft. Die USA haben seit Februar 2025 Richter, Ankläger und die Präsidentin des Gerichts mit Sanktionen belegt ([Executive Order 14203](https://en.wikipedia.org/wiki/Executive_Order_14203)); fünf Staaten haben 2026 ihren Austritt notifiziert (→ [[Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Spur Israel-Gaza]]), Ungarn hat seinen zurückgenommen. Die Forschung zur Wirksamkeit von Reformvorschlägen — EU-Sitz, Veto-Verzicht, Stärkung der Generalversammlung — fehlt hier noch; es gibt Vorschläge und Gründe, kaum Evidenz.
+Wer sich dem Gericht unterwirft, bindet sich selbst: Am ehesten treten die Staaten bei, die am wenigsten zu befürchten haben, und die, die eine glaubwürdige Selbstbindung am dringendsten brauchen ([Simmons & Danner 2010, doi:10.1017/s0020818310000044](https://doi.org/10.1017/s0020818310000044)). Umgekehrt wird die Durchsetzung inzwischen aktiv bekämpft. Die USA haben seit Februar 2025 Richter, Ankläger und die Präsidentin des Gerichts mit Sanktionen belegt ([Executive Order 14203](https://en.wikipedia.org/wiki/Executive_Order_14203)); fünf Staaten haben 2026 ihren Austritt notifiziert (→ [[Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Spur Israel-Gaza]]), Ungarn hat seinen zurückgenommen. Wie weit solche Sanktionen reichen, zeigt ein Detail: Im Mai 2025 berichtete AP, Microsoft habe das E-Mail-Konto des damaligen Chefanklägers Karim Khan abgeschaltet; Microsoft bestreitet, die Dienste für das Gericht eingestellt zu haben, spricht aber selbst davon, den sanktionierten Beamten „getrennt“ zu haben ([heise](https://heise.de/-10387383), [Dementi](https://heise.de/-10429628); → [[Roberto Simanowski — Sprachmaschinen#Wertexport|Simanowski]]). Ein Gericht, dessen Post über amerikanische Server läuft, ist für Washington erreichbar, ohne dass sich ein Soldat bewegt. Die Forschung zur Wirksamkeit von Reformvorschlägen — EU-Sitz, Veto-Verzicht, Stärkung der Generalversammlung — fehlt hier noch; es gibt Vorschläge und Gründe, kaum Evidenz.
 
 **Die Stimmen**
 
 - **[[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts#Fiktion oder Recht Carney und der Sicherheitsrat|Christoph Safferling]]:** Großbritannien und Frankreich sollen ihre Sitze für einen EU-Sitz räumen, und die Generalversammlung soll schon handeln, wenn ein Veto blockiert.
-- **[[Helen Keller — Voelkerrecht zahnloser Tiger#Der UN-Sicherheitsrat Machtarchitektur von 1945|Helen Keller]]:** Die Vetomächte blockieren jede Reform; dass der Globale Süden nicht vertreten ist, senkt dort die Bereitschaft, sich an das Recht zu halten.
 - **[[WDR Europaforum — Out of order Voelkerrecht#Reform Wer soll anfangen, wenn nicht Europa?|Kai Ambos]]:** Der Sicherheitsrat ist ein „postkoloniales Produkt“; Europa soll Sitze abgeben, was fehlt, ist der Wille.
 - **[[StreitClub — Europa allein zu Haus#Völkerrecht — Anspruch ohne Durchsetzung|Nicole Deitelhoff]]:** Mittelmächte haben das Recht oft am Sicherheitsrat vorbei durchgesetzt; gefährlich wird es, wenn sie Brüche nicht mehr benennen.
-- **[[Elmar Thevessen - Die neue Weltunordnung#Die Chance der Mittelmächte|Elmar Theveßen]]:** Renovieren statt zerstören, mit Europa und den Mittelmächten von Südafrika bis Indien.
 - **[[Herfried Münkler — Europas Platz in der neuen Weltordnung#Was folgen soll|Herfried Münkler]]:** Europa braucht eine Führungsgruppe statt Einstimmigkeit, um in der neuen Weltordnung handlungsfähig zu werden.
 - **[[Vijay Prashad — Marxismus als Methode#Gegen die Multipolarität|Vijay Prashad]]:** Wer mit „multipolar“ antwortet, übernimmt die Machtprämisse; nötig sind Multilateralismus und Respekt vor der Charta.
 - **[[WDR Europaforum — Out of order Voelkerrecht#Hoffnung, konkret|Wolfgang Kaleck]]:** Durchgesetzt wird es von Menschen, nicht von Institutionen, von den Demonstranten in Buenos Aires bis zu den Anwälten der Opfer.
+- **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Den Gegner verstehen|Mithu Sanyal]]:** Mehr Recht statt mehr Militär: zurück zum Völkerrecht und dasselbe Verhalten bei Verbündeten verurteilen wie bei Gegnern.
+- **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Den Gegner verstehen|Maja Göpel]]:** Wenn eine Großmacht die Institutionen bewusst zerstört, zuletzt den Strafgerichtshof, bleibt die Frage „Wie setzen wir es durch?“ — und dafür sei die eigene Stärke nicht irrelevant.
 
-<details><summary>Weitere Stimmen (3)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
+
+- **[[Helen Keller — Voelkerrecht zahnloser Tiger#Der UN-Sicherheitsrat Machtarchitektur von 1945|Helen Keller]]:** Die Vetomächte blockieren jede Reform; dass der Globale Süden nicht vertreten ist, senkt dort die Bereitschaft, sich an das Recht zu halten.
+- **[[Elmar Thevessen - Die neue Weltunordnung#Die Chance der Mittelmächte|Elmar Theveßen]]:** Renovieren statt zerstören, mit Europa und den Mittelmächten von Südafrika bis Indien.
 
 - **[[Gilda con Arne 20 — Humanitäre Intervention im Iran & Boris Palmer#Ist der UN-Sicherheitsrat noch etwas wert?|Kai Ambos]]:** Der Weg über die Generalversammlung existiert, ist aber durch die Polarisierung über Gaza selbst blockiert.
 - **[[MONITOR — Irankrieg und das Ende des Völkerrechts#Erosion des Völkerrechts — oder nur eine schwierige Phase?|Kai Ambos]]:** Neu ist der „komplette Disregard“, und den können sich nur die USA und China leisten.
@@ -117,7 +120,7 @@ Wer sich dem Gericht unterwirft, bindet sich selbst: Am ehesten treten die Staat
 </details>
 
 > [!question] Die Reibung
-> Safferling und Ambos setzen auf Europa, das Sitze abgibt, Kaleck auf Menschen statt Institutionen, Prashad auf den Süden, der die Charta ernster nimmt als ihre Gründer. Alle Reformvorschläge brauchen die Zustimmung derer, deren Macht sie beschneiden. *Kann sich ein Recht selbst von seinen Gründern befreien — oder braucht es dafür jedes Mal eine Katastrophe wie 1945?*
+> Safferling und Ambos setzen auf Europa, das Sitze abgibt, Kaleck auf Menschen statt Institutionen, Prashad auf den Süden, der die Charta ernster nimmt als ihre Gründer. Sanyal will mehr Recht statt mehr Militär, Göpel hält dagegen, dass ein Gericht, das man mit Sanktionen lahmlegen kann, Stärke hinter sich braucht. Alle Reformvorschläge brauchen die Zustimmung derer, deren Macht sie beschneiden. *Kann sich ein Recht selbst von seinen Gründern befreien — oder braucht es dafür jedes Mal eine Katastrophe wie 1945? Und wenn es Stärke braucht: wessen Stärke, und wer hält sie an dasselbe Recht?*
 
 ---
 

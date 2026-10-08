@@ -217,6 +217,10 @@ Das erste „Ja, aber", das die Verdopplungskurve nicht einholt — weil es nich
 
 Die Rechnung zu Bauckhages Größenordnungen, ausgestellt an Menschen, die nie gefragt wurden: 4,4 Prozent des US-Landesstroms 2023, projiziert 6,7 bis 12 Prozent bis 2028, über 1.500 geplante Anlagen, zwei Drittel davon auf dem Land. Sein Gegenprogramm der hybriden KI — kleine, spezialisierte Modelle ohne Rechenzentrum — bekommt dort sein stärkstes Argument, und es ist kein technisches.
 
+### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+
+Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“.
+
 ---
 
 ## Weiterdenken
