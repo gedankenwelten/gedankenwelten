@@ -315,6 +315,11 @@ Das Panorama fragt zum Osten: Prägung aus der Diktatur oder Kränkung aus der E
 ### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 Walburgs „Das Einzige, was man dann zu verlieren hat, ist eben Respekt auf der Straße“ ist Marks' Anerkennungsscham in der Kriminologie junger Männer. Die Sammelunterkunft ohne Rückzugsraum ist das Gegenteil eines Raums der Würde.
 
+### → [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
+
+Die Frage aus dem Publikum, ob unser Schulsystem überhaupt zulässig ist, wird dort zum Streit zweier Lehrer: Meidinger erinnert sich an Lehrkräfte, die die schlechteste Arbeit zuerst zurückgaben, und Nölte nennt die Ziffer eine „Aburteilung“. Marks' „Scham zumuten, ohne zu beschämen“ ist genau die Aufgabe, an der Nölte zugibt, dass seine Lerndialoge beim Misserfolg am schwersten tragen.
+
+
 ---
 
 ## Weiterdenken

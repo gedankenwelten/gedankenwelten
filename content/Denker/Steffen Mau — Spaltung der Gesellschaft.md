@@ -286,3 +286,8 @@ Er beantwortet damit auch Maus offene Frage, warum die Verteilungsfrage keinen T
 ### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
 
 Das algorithmische Stück zur gefühlten Spaltung: „Der Feed ist keine Volkszählung". Beim Klima würden 69 Prozent ein Prozent ihres Einkommens geben, geschätzt werden 43 Prozent, weil Zustimmung keine Kommentare erzeugt und der Feed nach Reaktion sortiert.
+
+### → [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
+
+Maus „ideologische Verwirrung“ im Klassenzimmer: Nölte bleibt in der Elternversammlung der Einzige gegen Noten, und in Valtins Zeugnisstudie wollen gerade Kinder mit Hauptschulempfehlung klare Ziffern. Ob das Selbstbindung an den Leistungsmythos ist oder ein vernünftiges Misstrauen gegen offenes Ermessen, lässt das Gespräch offen.
+

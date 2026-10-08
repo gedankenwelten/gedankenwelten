@@ -351,6 +351,11 @@ Ardalan Ibrahim zieht aus Hartmanns Befund die radikalere Konsequenz: Statt eine
 
 Bülow teilt die Oligarchie-Diagnose und zeigt den umgekehrten Weg in dieselbe Nähe zur Macht: den Aufsteiger aus Dortmund, den man mit Podium, Kontakten und Aufstieg gewinnt.
 
+### → [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
+
+Das Prinzip der Ähnlichkeit, eine Stufe früher: Nölte will Noten durch Portfolios und den Eindruck der Auswählenden ersetzen, Meidinger warnt, dann zählten die informellen Maßstäbe der Herkunft. Die Forschung in der Nachbesprechung gibt Hartmanns Mechanismus recht, denn erst ein festes Kriterium, eine Fehlertabelle, nahm dem Namen „Murat“ seinen Nachteil.
+
+
 ---
 
 ## Weiterdenken

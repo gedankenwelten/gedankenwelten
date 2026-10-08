@@ -2,8 +2,8 @@
 title: "Was macht Schule mit uns?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-10-04
-description: "Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, ein Handy in der Tasche: Vier offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben."
+aktualisiert: 2026-10-08
+description: "Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 raetsel: "Die Ecke ist leer. Der Schemel darin steht noch."
 tags:
@@ -31,12 +31,12 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Jeder war dort, und jeder trägt etwas davon mit sich: einen Lehrer, der einen gesehen hat, eine Stunde, in der man an der Tafel stand und nicht weiterwusste, eine Empfehlung nach der vierten Klasse, die den Weg vorgab. Dieses Panorama fragt, was Schule aus Kindern macht, als Ort der Scham und der Würde, der Macht über Kinder, der Sortierung nach Herkunft und als Antwort auf die Frage, wozu wir überhaupt lernen. Vier offene Fragen, zu jeder das, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen, jede mit einem Klick an der Stelle, an der sie es sagt.
+> Jeder war dort, und jeder trägt etwas davon mit sich: einen Lehrer, der einen gesehen hat, eine Stunde, in der man an der Tafel stand und nicht weiterwusste, eine Empfehlung nach der vierten Klasse, die den Weg vorgab. Dieses Panorama fragt, was Schule aus Kindern macht, als Ort der Scham und der Würde, der Macht über Kinder, der Sortierung nach Herkunft, als Ort, an dem bewertet wird, und als Antwort auf die Frage, wozu wir überhaupt lernen. Fünf offene Fragen, zu jeder das, was man darüber weiß, und die Stimmen aus den Gedankenwelten, die einander widersprechen, jede mit einem Klick an der Stelle, an der sie es sagt.
 
 > [!info] Ein wachsendes Panorama
 > Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Die erste war [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani]] im Oktober 2026. Unten steht, welche Notes seither dazukamen.
 >
-> **Offen vermerkt:** Dem Bestand fehlt fast ganz eine leistungsbetonte, konservative Stimme zur Pädagogik der Nähe. Münkler ist die einzige, Maas zum Teil. Auch zum Lehrkräftemangel gibt es bisher kaum mehr als einen Nebensatz.
+> **Offen vermerkt:** Dem Bestand fehlte fast ganz eine leistungsbetonte, konservative Stimme zur Pädagogik der Nähe; Münkler war die einzige, Maas zum Teil. Seit Oktober 2026 spricht [[DenkerVita/Heinz-Peter Meidinger|Heinz-Peter Meidinger]] für die Note, eine Stimme bleibt dünn. Auch zum Lehrkräftemangel gibt es bisher kaum mehr als einen Nebensatz.
 
 ---
 
@@ -121,18 +121,23 @@ Die Weichen fallen früh. Kinder der oberen Dienstklasse brauchen nach IGLU 2021
 
 Was Lehrkräfte erwarten, spielt mit, aber weniger, als man denkt. Selbsterfüllende Prophezeiungen gibt es, sie sind klein und summieren sich kaum, außer bei stigmatisierten Gruppen ([Jussim & Harber 2005, doi:10.1207/s15327957pspr0902_3](https://doi.org/10.1207/s15327957pspr0902_3)). Und ob die Bildungsexpansion Ungleichheit abbaut oder nur verschiebt, ist strittig. Privilegierte weichen auf die nächsthöhere oder bessere Stufe aus ([Lucas 2001, doi:10.1086/321300](https://doi.org/10.1086/321300)), in acht europäischen Ländern ist die Herkunftsungleichheit im 20. Jahrhundert trotzdem breit gesunken ([Breen et al. 2009, doi:10.1086/595951](https://doi.org/10.1086/595951)). Ob das 2024 gestartete Startchancen-Programm (4.000 Schulen, 20 Milliarden Euro über zehn Jahre) wirkt, weiß noch niemand.
 
+Auch die Note selbst sortiert mit. Lehramtsstudierende bewerteten ein identisches Diktat schlechter, wenn es von „Murat“ statt von „Max“ stammte ([Bonefeld & Dickhäuser 2018, doi:10.3389/fpsyg.2018.00481](https://doi.org/10.3389/fpsyg.2018.00481)), und Lehrkräfte bewerteten dieselbe Arbeit schlechter, wenn sie sie einem ärmeren Kind zuschrieben ([Doyle, Easterbrook & Harris 2022, doi:10.1111/bjep.12541](https://doi.org/10.1111/bjep.12541), präregistriert). Gleiche Noten stehen an verschiedenen Schulen für deutlich verschiedenes Können ([Hübner et al. 2024, doi:10.1007/s11618-024-01216-9](https://doi.org/10.1007/s11618-024-01216-9)). Was die Benachteiligung im Experiment verschwinden ließ, war allerdings kein Verzicht auf Noten, sondern eine Fehlertabelle, ein klares Kriterium ([Peter, Karst & Bonefeld 2024, doi:10.3389/feduc.2024.1386016](https://doi.org/10.3389/feduc.2024.1386016)); offene, verbale Urteile lassen dem Ermessen mehr Raum. Das Bundesverfassungsgericht hielt 2017 die Abiturnote für ein sachgerechtes Kriterium, verbot aber, nach ihr allein auszuwählen ([1 BvL 3/14](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2017/bvg17-112.html)).
+
 **Die Stimmen**
 
-- **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Die Zahl, an der alles hängt|Michael Hartmann]]:** Herkunft schlägt sogar das Parteiprogramm; Großbürgerkinder stellen ein Viertel der Elite.
 - **[[Hartwin Maas — Bildung NEU DENKEN#Bildungsstruktur Selektion, Chancengerechtigkeit & Systemreform|Hartwin Maas]]:** Aufteilung nach Klasse sechs statt vier; Gesamtschulen scheitern am Bildungsbürgertum, das das exklusive System für sich nutzt.
 - **[[Lukas Baerfuss — Die Fesseln der eigenen Herkunft#Das Glück, das kein Verdienst ist|Lukas Bärfuss]]:** Kein Gymnasium, Obdachlosigkeit, Büchner-Preis — und er verweigert die Aufstiegsmoral: Gesundheit und Glück entschieden, nicht der Wille.
 - **[[Herfried Muenkler — Die Sehnsucht nach Ordnung#Der Aufzug und der Schmied|Herfried Münkler]]:** Aufstieg ist kein Aufzug mehr, man muss seines Glückes Schmied sein, und die Bereitschaft dazu laufe auseinander.
 - **[[Akala — Warum Shakespeare gerappt gehoert#Wer das Recht hat, klug zu sein|Akala]]:** Wer nie jemanden wie sich als Hüter von Wissen sieht, wird nicht vom Ort ausgeschlossen, sondern von der Rolle.
 - **[[Liya Yu — Der neuropolitische Gesellschaftsvertrag#Blatante Dehumanisierung — Bruneau und die Zivilisationshierarchie|Liya Yu]]:** Ungarische Lehrer, die Roma-Schüler entmenschlichten, schickten sie signifikant häufiger auf niedrigere Schulformen.
 - **[[Manfred Spitzer — Hirnforscher Feldbach#4. Sprache und Wissen — der Matthäus-Effekt|Manfred Spitzer]]:** Dreißig Millionen gehörte Wörter Rückstand bei Schuleintritt: Wer hat, dem wird gegeben.
-- **[[Andreas Zimpel — Neurodiversität#3. Selbsteinschätzung — der stärkste Bildungsfaktor|André Zimpel]]:** Gegen den Determinismus: Nicht Herkunft, nicht Intelligenz, die Selbsteinschätzung entscheidet.
+- **[[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Der Vergleich und der Bücherschrank|Björn Nölte]]:** Der Notenvergleich bevorzugt, wer den „heimischen Bücherschrank“ hat, und ist darum „wahnsinnig ungerecht“.
+- **[[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Der Vergleich und der Bücherschrank|Heinz-Peter Meidinger]]:** Die Note spiegelt die Herkunft, aber ohne Noten verschwindet die Kopplung nicht; wie wollte eine notenfreie Schule sie lösen?
 
-<details><summary>Weitere Stimmen (8)</summary>
+<details><summary>Weitere Stimmen (10)</summary>
+
+- **[[Michael Hartmann — Herkunft schlaegt Parteibuch#Die Zahl, an der alles hängt|Michael Hartmann]]:** Herkunft schlägt sogar das Parteiprogramm; Großbürgerkinder stellen ein Viertel der Elite.
+- **[[Andreas Zimpel — Neurodiversität#3. Selbsteinschätzung — der stärkste Bildungsfaktor|André Zimpel]]:** Gegen den Determinismus: Nicht Herkunft, nicht Intelligenz, die Selbsteinschätzung entscheidet.
 
 - **[[Manfred Spitzer — KI, Gehirn und Lernen#8. Armut — das unterschätzte Hirnproblem|Manfred Spitzer]]** (zweiter Befund): Armut in den ersten tausend Tagen prägt das Gehirn, und das ist kaum mehr auszugleichen.
 - **[[Lukas Baerfuss — Die Fesseln der eigenen Herkunft#Der Habitus und der Ehrendoktor|Lukas Bärfuss]]** (zweiter Befund): Der Ehrendoktor liegt in seiner Hand, aber er weiß nicht, ob er ihn auf die Visitenkarte drucken darf.
@@ -147,6 +152,37 @@ Was Lehrkräfte erwarten, spielt mit, aber weniger, als man denkt. Selbsterfüll
 
 > [!question] Die Reibung
 > Liegt der Abgrund schon vor der Schule (Spitzers dreißig Millionen Wörter, die Kita), entsteht er in der Schule (Maas' vierte Klasse, Yus Lehrer) oder erst im Kopf des Kindes (Zimpels Selbsteinschätzung, Akalas Recht, klug zu sein)? *Und wenn selbst Bärfuss seinen Aufstieg Glück nennt, was misst dann Münklers „Bereitschaft“?*
+
+---
+
+## Braucht Lernen eine Note?
+
+Seit über hundert Jahren weiß man, dass Noten wackeln. Schon 1912 gaben amerikanische Lehrkräfte demselben Aufsatz Werte über fast die ganze Skala; in Deutschland machte Karlheinz Ingenkamps *Die Fragwürdigkeit der Zensurengebung* (1971) daraus einen Klassiker. Dieselbe Leistung ist in einer starken Klasse weniger wert als in einer schwachen, und wer unter Starken lernt, hält sich für schwächer, in allen 26 Ländern einer großen Vergleichsstudie ([Marsh & Hau 2003, doi:10.1037/0003-066X.58.5.364](https://doi.org/10.1037/0003-066X.58.5.364)). Wertlos sind Noten trotzdem nicht. Sie messen ein Gemisch aus Leistung und Arbeitsverhalten und sagen spätere Bildungswege voraus ([Brookhart et al. 2016, doi:10.3102/0034654316672069](https://doi.org/10.3102/0034654316672069), Review); Lehrerurteil und Testleistung hängen mit r ≈ 0,63 zusammen ([Südkamp, Kaiser & Möller 2012, doi:10.1037/a0027627](https://doi.org/10.1037/a0027627), Meta-Analyse), und die deutsche Abiturnote sagt den Studienerfolg besser voraus als jedes andere einzelne Kriterium ([Trapmann et al. 2007, doi:10.1024/1010-0652.21.1.11](https://doi.org/10.1024/1010-0652.21.1.11), Meta-Analyse).
+
+Als Rückmeldung im Lernen schneidet die Ziffer schlechter ab als das Wort. Seit Ruth Butlers Experiment weiß man, dass ein Kommentar verpufft, wenn eine Note danebensteht ([Butler 1988, doi:10.1111/j.2044-8279.1988.tb00874.x](https://doi.org/10.1111/j.2044-8279.1988.tb00874.x)); eine Meta-Analyse findet Noten gegenüber Kommentaren bei Leistung und Motivation unterlegen, gegenüber gar keiner Rückmeldung bei der Leistung überlegen ([Koenka et al. 2021, doi:10.1080/01443410.2019.1659939](https://doi.org/10.1080/01443410.2019.1659939)). Aber auch Feedback kann schaden: Über ein Drittel aller Feedback-Interventionen verschlechterte die Leistung, wenn es auf die Person zielte ([Kluger & DeNisi 1996, doi:10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254)). Und Prüfen selbst lehrt; Übungstests mit wenig auf dem Spiel senken sogar die Angst ([Yang et al. 2023, doi:10.1007/s10648-023-09801-w](https://doi.org/10.1007/s10648-023-09801-w)). Wird die Ziffer durch *bestanden / nicht bestanden* ersetzt, wie im Medizinstudium, steigt das Wohlbefinden bei gleicher Leistung ([Spring et al. 2011, doi:10.1111/j.1365-2923.2011.03989.x](https://doi.org/10.1111/j.1365-2923.2011.03989.x), Review).
+
+Der bisher beste Test an Kindern ernüchtert beide Lager. In einem Feldversuch mit 35 notenfreien und 40 Vergleichsgrundschulen unterschieden sich rund 2.300 Kinder bis zum Ende der dritten Klasse weder in Leistung noch in Angst, Lernfreude oder Wohlbefinden, nur im Interesse an Mathematik ([Hübner et al. 2026, doi:10.1007/s10648-026-10156-1](https://doi.org/10.1007/s10648-026-10156-1)). Renate Valtins Zeugnisstudie deutet an, warum: Wie es Kindern geht, hängt mehr am Selektionsdruck hinter der Note und an der einzelnen Lehrkraft als an der Form des Urteils (*Was ist ein gutes Zeugnis?*, 2002). Langzeitstudien über die Grundschule hinaus fehlen.
+
+**Die Stimmen**
+
+- **[[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Das Zweier-Kind|Björn Nölte]]:** Sobald die Note dasteht, ist der Lernprozess beendet; kein Schüler überarbeitet eine benotete Klausur.
+- **[[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Master or Die|Heinz-Peter Meidinger]]:** Wenn alle Meister werden, bekommt die Findige denselben Stempel wie der Langsame, und was ist mit denen, die es nicht schaffen? Eine Schule, die Abschlüsse vergibt, muss unterscheiden.
+- **[[Gerald Huether — Lebendigkeit und das Ende der Hierarchien#Subjekt und Objekt — der schmerzhafteste Satz des Gesprächs|Gerald Hüther]]:** Wer bewertet, macht den anderen zum Objekt seiner Bewertungen, auch der Vater den Sohn.
+- **[[Hartwin Maas — Bildung NEU DENKEN#Erlernte Hilflosigkeit — das Seligman-Experiment|Hartwin Maas]]:** Kinder, denen niemand das Scheitern zumutet, brechen später daran zusammen.
+- **[[Andreas Zimpel — Neurodiversität#3. Selbsteinschätzung — der stärkste Bildungsfaktor|André Zimpel]]:** Den eigenen Lernweg findet ein Kind im Dialog, nicht in der Bewertung.
+- **[[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun#Vertrauensvorschuss in der vermessenen Gesellschaft|Barbara Bleisch]]:** Die Lehrerin traut dem Kind etwas zu, bevor es etwas bewiesen hat, und genau dieser Vorschuss verschwindet im vermessenen Leben.
+- **[[Albert Moukheiber — Mein Hirn und die anderen#5. Sozialer Stress — das Raubtier sitzt im Publikum|Jacques Barck (bei Moukheiber)]]:** Wer sich bewertet fühlt, erstarrt; selbst Promovierte verstummen bei Fragen, deren Antwort sie kennen.
+
+<details><summary>Weitere Stimmen (3)</summary>
+
+- **[[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Publikumsfragen|Heinz-Peter Meidinger]]** (zweiter Befund): Jede Lehrkraft, die den Hauptzweck ihrer Arbeit in der Notenvergabe sieht, hat ihren Beruf verfehlt; die Note ist „nur ein Nebenprodukt“.
+- **[[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham#Publikumsfragen|Stephan Marks]]:** Kinder werden den ganzen Schultag mit dem konfrontiert, was sie nicht können.
+- **[[Erich Fromm — Haben oder Sein#2. Die Haben-Sein-Unterscheidung|Erich Fromm, weitergedacht]]:** Lernen in der Schule wird leblos, wenn es auf das Besitzen von Noten zusammenschrumpft.
+
+</details>
+
+> [!question] Die Reibung
+> Nölte sagt, die Note beende das Lernen; Maas, wer nie scheitern darf, zerbricht später; Bleisch, Vertrauen müsse vor dem Beweis kommen. Und an 75 Grundschulen merkte man am Ende kaum, ob es Noten gab. *Wenn die Ziffer so wenig ändert, was hat dann so viel Angst gemacht — die Zahl, oder die Weiche, die an ihr hängt?*
 
 ---
 
@@ -194,6 +230,7 @@ Bleibt die alte Frage, ob Schule bildet oder brauchbar macht. Inklusion schadet 
 | Datum | Note | Vertieft |
 |---|---|---|
 | 04.10.2026 | [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham#Nachbesprechung|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]] | Gründungsnote · Beschämen oder schonen: Kim et al. 2011, Leach & Cidam 2015 (reparierbares Versagen), Pinquart 2017, Brummelman 2014, Dresel 2024, INTAKT, Oser/Spychiger; Cyrulniks „kleine Gefäße“ gegen Pluess/Belsky |
+| 08.10.2026 | [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten#Nachbesprechung|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]] | Neue Frage *Braucht Lernen eine Note?*: Butler 1987/1988, Koenka 2021, Kluger & DeNisi 1996, Testing-Effekt, Pass/Fail (Bloodgood, Reed, Spring), Feldversuch Hübner et al. 2026, Valtin 2002 · Sortiert die Schule nach Herkunft: Notenbias (Bonefeld, Doyle), Fehlertabelle (Peter et al. 2024), BVerfG 2017, Hübner et al. 2024 |
 | 04.10.2026 | [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder#Nachbesprechung|Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz für Kinder?]] | Wer bestimmt über Kinder: Mitbestimmung Familie vs. Schule (Fatke & Schneider 2005, World Vision 2018, Kinderrechte-Index 2025), Wirkung (Mager & Nowak 2012, Bureau et al. 2022), Lundys vier Bedingungen; von Scheliha mit der ganzen Begründung, El-Mafaalanis Grundschul-Satz geprüft |
 
 ---

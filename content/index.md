@@ -22,21 +22,11 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
-### Denker
-
-> **07.10.** — [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems (Jung & Naiv 855)]]
->
-> Wenn die Krise einen Schuldigen sucht, findet sie ihn unten. Ein Kritischer Theoretiker über Faschisierung als Prozess, und warum Hoffnung keine Stimmung ist.
-
-> **28.09.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
->
-> Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar: Klees Credo von 1920 — und der Tag 1937, an dem man den Sichtbarmacher unsichtbar machen wollte.
-
-> **27.09.** — [[Denker/Philipp Blom — Die Unterwerfung|Philipp Blom — Die Unterwerfung]]
->
-> Ein Satz aus der Bronzezeit regiert noch den Weltmarkt: Philipp Blom über die Idee, der Mensch stehe über der Natur, und warum Siegen dumm macht.
-
 ### Geistesblitz
+
+> **08.10.** — [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
+>
+> Eine Ziffer von eins bis sechs entscheidet über Studienplätze und Selbstbilder. Ein Schulrat will sie abschaffen, ein Verbandspräsident gerechter machen, und beide sind sich in der Diagnose näher, als sie zugeben.
 
 > **07.10.** — [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 >
@@ -56,6 +46,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **08.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
 > **07.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
 >
 > Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
@@ -72,11 +66,21 @@ Die Gedankenwelten (luc)
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> **05.10.** — [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
->
-> Klare Normen, kaum Vollstreckung, ein Gericht, das seine eigenen Richter nicht schützen kann. Drei offene Fragen: Schreckt das Völkerrecht ab, ist es Siegerjustiz, und wer setzt es durch?
-
 > → *3 weitere in* [[Panorama]]
+
+### Denker
+
+> **07.10.** — [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems (Jung & Naiv 855)]]
+>
+> Wenn die Krise einen Schuldigen sucht, findet sie ihn unten. Ein Kritischer Theoretiker über Faschisierung als Prozess, und warum Hoffnung keine Stimmung ist.
+
+> **28.09.** — [[Denker/Paul Klee — Schoepferische Konfession|Paul Klee — Schöpferische Konfession]]
+>
+> Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar: Klees Credo von 1920 — und der Tag 1937, an dem man den Sichtbarmacher unsichtbar machen wollte.
+
+> **27.09.** — [[Denker/Philipp Blom — Die Unterwerfung|Philipp Blom — Die Unterwerfung]]
+>
+> Ein Satz aus der Bronzezeit regiert noch den Weltmarkt: Philipp Blom über die Idee, der Mensch stehe über der Natur, und warum Siegen dumm macht.
 
 ### Zeitgeist
 
@@ -100,7 +104,7 @@ Die Gedankenwelten (luc)
 >
 > Beginnt Großzügigkeit dort, wo die Gerechtigkeit endet, oder ist sie nur ihr freundlicherer Name? Vier Stimmen streiten über die Gabe, den Backlash und einen Kuchen, der nicht mehr wächst.
 
-> → *8 weitere in* [[Zeitgeist]]
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Spuren
 
