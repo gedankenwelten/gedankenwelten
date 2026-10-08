@@ -6,6 +6,128 @@ tags:
   - links
 ---
 
+## Carsten Brosda, Maja Göpel & Aladin El-Mafaalani — Nächste Demokratie? (Leuphana, Utopie-Konferenz 2026)
+
+| | |
+|---|---|
+| **Video** | [Carsten Brosda, Maja Göpel & Aladin El-Mafaalani: Nächste Demokratie?](https://www.youtube.com/watch?v=HTsey6f3zJk) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), veröffentlicht 11.09.2026 (57 Min.) |
+| **Notiz** | [[Zeitgeist/Carsten Brosda — Naechste Demokratie]] |
+| **DenkerVita** | [[DenkerVita/Carsten Brosda]] · [[DenkerVita/Maja Goepel]] · [[DenkerVita/Aladin El-Mafaalani]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Brosda_Demokratie_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Raúl Krauthausen & Aladin El-Mafaalani — Wie inklusiv ist Großzügigkeit? (Leuphana, Utopie-Konferenz 2026)
+
+| | |
+|---|---|
+| **Video** | [Raúl Krauthausen & Aladin El-Mafaalani: Wie inklusiv ist Großzügigkeit?](https://www.youtube.com/watch?v=P9H5BeqWTGw) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), veröffentlicht 11.09.2026 (50 Min.) |
+| **Notiz** | [[Zeitgeist/Raul Krauthausen — Teilgabe statt Teilhabe]] |
+| **DenkerVita** | [[DenkerVita/Raul Krauthausen]] · [[DenkerVita/Aladin El-Mafaalani]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Krauthausen_Inklusiv_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Harald Welzer & Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit (Leuphana, Utopie-Konferenz 2026)
+
+| | |
+|---|---|
+| **Video** | [Harald Welzer & Barbara Bleisch: Großzügigkeit und Gegenwärtigkeit](https://www.youtube.com/watch?v=IpCeL_f7BIk) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), veröffentlicht 11.09.2026 (60 Min.) |
+| **Notiz** | [[Zeitgeist/Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit]] |
+| **DenkerVita** | [[DenkerVita/Harald Welzer]] · [[DenkerVita/Barbara Bleisch]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Welzer_Gegenwaertigkeit_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Aladin El-Mafaalani — Misstrauen und Populismus (Leuphana, Utopie-Konferenz 2026)
+
+| | |
+|---|---|
+| **Video** | [Aladin El-Mafaalani: Misstrauen und Populismus](https://www.youtube.com/watch?v=HmbSPqhej-o) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), veröffentlicht 11.09.2026 (52 Min., Nachtrag in bestehender Note) |
+| **Notiz** | [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)]] |
+| **DenkerVita** | [[DenkerVita/Aladin El-Mafaalani]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_ElMafaalani_Misstrauen_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Adam Tooze, Maja Göpel & Jagoda Marinić — Krise und demokratische Gelegenheit (Leuphana, Utopie-Konferenz 2024)
+
+| | |
+|---|---|
+| **Video** | [Krise und demokratische Gelegenheit | Adam Tooze, Maja Göpel und Jagoda Marinić](https://www.youtube.com/watch?v=5uxLG_MBt2Y) — Utopie-Konferenz 2024 „Vertrauen“, Leuphana Universität Lüneburg (29.–31.08.2024), veröffentlicht 09.09.2025 (62 Min.) |
+| **Notiz** | [[Zeitgeist/Adam Tooze — Krise und demokratische Gelegenheit]] |
+| **DenkerVita** | [[DenkerVita/Adam Tooze]] · [[DenkerVita/Maja Goepel]] · [[DenkerVita/Jagoda Marinic]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana24_Tooze_Krise_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Vertrauen — drei Panels der Utopie-Konferenz 2024 (Friedman/Redecker · Yu/Weisband · Bude/Gaub)
+
+| | |
+|---|---|
+| **Video** | [Vertrauen – utopisch? Michel Friedman, Eva Redecker, Maja Göpel, Jagoda Marinić](https://www.youtube.com/watch?v=iMTJSv2D9gA) — Utopie-Konferenz 2024, Leuphana (29.–31.08.2024), veröffentlicht 09.09.2025 (69 Min.) · [Vertrauen, das auch noch? Yu, Weisband](https://www.youtube.com/watch?v=stisy_Illi4) (70 Min.) · [Vertrauen & Fortschritt? Bude, Gaub](https://www.youtube.com/watch?v=Bv5uNEDvr2s) (68 Min.) |
+| **Notiz** | [[Zeitgeist/Maja Goepel und Jagoda Marinic — Vertrauen, utopisch]] |
+| **DenkerVita** | [[DenkerVita/Maja Goepel]] · [[DenkerVita/Jagoda Marinic]] · [[DenkerVita/Michel Friedman]] · [[DenkerVita/Eva von Redecker]] · [[DenkerVita/Liya Yu]] · [[DenkerVita/Marina Weisband]] · [[DenkerVita/Heinz Bude]] · [[DenkerVita/Florence Gaub]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana24_Friedman_Redecker_Vertrauen_Transkript.txt` · `…Yu_Weisband_Vertrauen…` · `…Bude_Gaub_Fortschritt…` (YouTube-Automatikuntertitel, deutsch) |
+
+## Mithu Sanyal, Şeyda Kurt, Maja Göpel & Aladin El-Mafaalani — Entgegenkommen, wenn es feindlich wird? (Leuphana, Utopie-Konferenz 2026)
+
+| | |
+|---|---|
+| **Video** | [Mithu Sanyal & Şeyda Kurt mit M. Göpel & Aladin El-Mafaalani: Entgegenkommen, wenn es feindlich wird?](https://www.youtube.com/watch?v=VANXw_QeMfE) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana (26.–28.08.2026), veröffentlicht 11.09.2026 (60 Min.) · dazu [Şeyda Kurt, Maja Göpel & Barbara Bleisch: Herantasten an Großzügigkeit](https://www.youtube.com/watch?v=4vujOdoh618) (22 Min.) |
+| **Notiz** | [[Zeitgeist/Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird]] |
+| **DenkerVita** | [[DenkerVita/Mithu Sanyal]] · [[DenkerVita/Seyda Kurt]] · [[DenkerVita/Maja Goepel]] · [[DenkerVita/Aladin El-Mafaalani]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Sanyal_Kurt_Entgegenkommen_Transkript.txt` · `Leuphana_Kurt_Grosszuegigkeit_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Roger de Weck & Wolfgang M. Schmitt — Freiheit zurückholen? (Leuphana, Utopie-Konferenz 2026)
+
+| | |
+|---|---|
+| **Video** | [Roger de Weck & Wolfgang M. Schmitt: Freiheit zurückholen?](https://www.youtube.com/watch?v=j8H1u9LmAuI) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana (26.–28.08.2026), veröffentlicht 11.09.2026 (89 Min.) |
+| **Notiz** | [[Zeitgeist/Roger de Weck — Was ist konservativ]] |
+| **DenkerVita** | [[DenkerVita/Roger de Weck]] · [[DenkerVita/Wolfgang M. Schmitt]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_deWeck_Schmitt_Freiheit_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Susanne Boshammer & Barbara Bleisch — Verzeihen? (Leuphana, Utopie-Konferenz 2026)
+
+| | |
+|---|---|
+| **Video** | [Susanne Boshammer & Barbara Bleisch: Verzeihen?](https://www.youtube.com/watch?v=4UZQSlGoHyY) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), veröffentlicht 11.09.2026 (88 Min.) |
+| **Notiz** | [[Denker/Susanne Boshammer — Was heisst verzeihen]] |
+| **DenkerVita** | [[DenkerVita/Susanne Boshammer]] · [[DenkerVita/Barbara Bleisch]] |
+| **Buch** | *Die zweite Chance. Warum wir (nicht alles) verzeihen sollten* (Rowohlt 2020) — [genialokal](https://www.genialokal.de/Suche/?q=Boshammer+Die+zweite+Chance) |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Boshammer_Verzeihen_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Mae Bengert & Barbara Bleisch — Aufmerksamkeit, die erste Großzügigkeit? (Leuphana, Utopie-Konferenz 2026)
+
+| | |
+|---|---|
+| **Video** | [Mae Bengert & Barbara Bleisch: Aufmerksamkeit, die erste Großzügigkeit?](https://www.youtube.com/watch?v=dTb9OnPLyKg) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), veröffentlicht 11.09.2026 (83 Min.) |
+| **Notiz** | [[Denker/Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]] |
+| **DenkerVita** | [[DenkerVita/Simone Weil]] · [[DenkerVita/Mae Bengert]] · [[DenkerVita/Barbara Bleisch]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Bengert_Aufmerksamkeit_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Roberto Simanowski & Simon Roloff — Wenn Maschinen sprechen (Leuphana, Utopie-Konferenz 2026)
+
+| | |
+|---|---|
+| **Video** | [Roberto Simanowski & Simon Roloff: Wenn Maschinen sprechen](https://www.youtube.com/watch?v=BtKAXMtIO84) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), veröffentlicht 11.09.2026 (84 Min.) |
+| **Notiz** | [[Denker/Roberto Simanowski — Sprachmaschinen]] |
+| **DenkerVita** | [[DenkerVita/Roberto Simanowski]] |
+| **Buch** | *Sprachmaschinen. Eine Philosophie der künstlichen Intelligenz* (C.H. Beck 2025) — [genialokal](https://www.genialokal.de/Suche/?q=Simanowski+Sprachmaschinen) |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Simanowski_Roloff_Maschinen_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Dietmar Dath & Wolfgang M. Schmitt — Verschwendung als Möglichkeit? (Leuphana, Utopie-Konferenz 2026)
+
+| | |
+|---|---|
+| **Video** | [Dietmar Dath & Wolfgang M. Schmitt: Verschwendung als Möglichkeit?](https://www.youtube.com/watch?v=rCCCemCNLvw) — Utopie-Konferenz 2026 „Großzügigkeit, eine Utopie?“, Leuphana Universität Lüneburg (26.–28.08.2026), veröffentlicht 11.09.2026 (90 Min.) |
+| **Notiz** | [[Zeitgeist/Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit]] |
+| **DenkerVita** | [[DenkerVita/Dietmar Dath]] · [[DenkerVita/Wolfgang M. Schmitt]] |
+| **Konferenz** | [leuphana.de/utopie](https://www.leuphana.de/utopie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Leuphana_Dath_Schmitt_Verschwendung_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
 ## Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten? (Körber-Stiftung, 2022)
 
 | | |

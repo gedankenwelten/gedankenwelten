@@ -259,6 +259,10 @@ Ein Prüfstein für Mode D: Eine Belegschaft übernimmt ihre Spinnerei und über
 
 Tauschform A und D im Streit: Bleisch zeigt mit Mauss die beschämende Seite der Gabe, Schmitt will mit Marx' „jedem nach seinen Bedürfnissen“ ihre Wiederkehr auf höherer Stufe. El-Mafaalanis Einwand, verallgemeinerte Großzügigkeit sei keine mehr, trifft D dort, wo Karatani es zur regulativen Idee erklärt.
 
+### → [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]]
+
+Daths „kein Zurück zur Gabe, nur eine nächste Stufe“ ist Karatanis Tauschform D — gedacht als Frage der Produktion statt als regulative Idee.
+
 ---
 
 ## Weiterdenken

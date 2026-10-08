@@ -214,3 +214,7 @@ Dieselbe analytische Bewegung an anderem Gegenstand: Zeigen liest die Mordwelle 
 
 Der Extremfall der hier beschriebenen Struktur. Wenn Kinder keine Artikulationsmacht haben und Adultismus keinen Namen, dann sieht das unter Traumabedingungen so aus: Kinder, die ihren Müttern die Behörden erklären, und ein Jugendlicher, der sein Studium aufgibt, um Geld für die Ausreise seiner freigekommenen Schwester zu verdienen. Parentifizierung als unbezahlte Sozialarbeit von Minderjährigen.
 
+### → [[Raul Krauthausen — Teilgabe statt Teilhabe|Raúl Krauthausen — Teilgabe statt Teilhabe]]
+
+Krauthausen nennt die Kindheit die Zeit, in der wir alle behindert waren — Adultismus von der anderen Seite gesehen.
+

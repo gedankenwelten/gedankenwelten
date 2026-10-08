@@ -26,7 +26,7 @@ Quelle: [GCA #30: Wie rechte Milliardäre weltweit Medien unter ihre Kontrolle b
 >
 > **Arne Semsrott** (*1988, Hamburg*) — Journalist, Aktivist und Projektleiter von **FragDenStaat**, der zentralen Plattform für Informationsfreiheitsanfragen in Deutschland. Vorstandsmitglied von LobbyControl. Provozierte bewusst Strafverfahren, um §353d StGB verfassungsrechtlich anzufechten — ein Präzedenzfall für Pressefreiheit. → [[DenkerVita/Arne Semsrott|DenkerVita]]
 >
-> **Gast: Raul Krauthausen** — Aktivist für Inklusion und Behindertenrechte, Gründer der Sozialhelden.
+> **Gast: Raúl Krauthausen** — Aktivist für Inklusion und Behindertenrechte, Gründer der Sozialhelden. → [[DenkerVita/Raul Krauthausen|DenkerVita]] · ausführlich: [[Raul Krauthausen — Teilgabe statt Teilhabe]]
 >
 > Co-Hosts des wöchentlichen Politik-Podcasts *Gilda con Arne*.
 
@@ -42,7 +42,7 @@ Quelle: [GCA #30: Wie rechte Milliardäre weltweit Medien unter ihre Kontrolle b
 
 [▶ 21:16](https://www.youtube.com/watch?v=Xx5pX9KTlg4&t=1276) — Kaum diskutiert wird dagegen die Vermögensteuer, die laut DIW 15–25 Milliarden Euro jährlich bringen könnte, oder das Schließen von Erbschaftssteuer-Schlupflöchern (ab 2 Milliarden Euro).
 
-### Raul Krauthausen zum Widerstand gegen die Kürzungen
+### Raúl Krauthausen zum Widerstand gegen die Kürzungen
 
 [▶ 24:19](https://www.youtube.com/watch?v=Xx5pX9KTlg4&t=1459) — Krauthausen berichtet, dass die Regierung die erste Lesung des Behindertengleichstellungsgesetzes von der Tagesordnung genommen hat — möglicherweise wegen der Proteste, wahrscheinlicher aber durch einen „Kuhhandel hinter den Kulissen". Er fragt sich, wofür das S in SPD eigentlich steht, da die Partei schon seit der Ampelkoalition keine sozialen Akzente setze.
 

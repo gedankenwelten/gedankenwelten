@@ -264,6 +264,10 @@ Dieselbe Titelfrage, einmal aus der Persönlichkeitsforschung, einmal als Täter
 
 Ein Junge, der gestohlen hat, schämt sich vor dem Spiegel, und Marks würde ihm gratulieren: Du bist ein Mensch. Gegen Tangneys Befund gelesen, ist das die Scham über verratene Werte, die dicht bei der Schuld liegt. Gefährlich wird die andere, die auf andere abgeladen wird.
 
+### → [[Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
+
+Boshammer gibt der Zuhörerin begrifflich recht — verzeihen kann nur das Opfer, darum spricht sie nicht von „Selbstverzeihen“ — und beschreibt doch, was hier geraten wird: die Person nicht verdammen, mit der Tat unversöhnt bleiben.
+
 ---
 
 ## Weiterdenken

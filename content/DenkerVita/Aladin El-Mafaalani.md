@@ -99,6 +99,9 @@ Butterwegges lebenslange Armutsforschung liefert die materielle Unterfütterung 
 
 ## Gedankenwelten-Notes
 
+- [[Carsten Brosda — Naechste Demokratie|Carsten Brosda — Nächste Demokratie?]] — Gastgeber mit Göpel, Leuphana 2026; Demografie und Nassehis zweite Verdopplung der Welt
+- [[Raul Krauthausen — Teilgabe statt Teilhabe|Raúl Krauthausen — Teilgabe statt Teilhabe]] — als Fragender, Leuphana 2026: „Ist das nicht großzügig?“ gegen Krauthausens Quote
+- [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]] — Leuphana 2026, in einer neuen Rolle als Sicherheitsrealist: „Aufrüsten verhindert das Schlimmste, Abrüsten ermöglicht das Beste“
 - [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
 - [[Aladin El-Mafaalani — Kinder als diskriminierte Minderheit (taz lab 2025)]]
 - [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — erstmals Host des Utopie-Quartetts (Leuphana 2026): „Wenn alle Superman sind, ist niemand Superman“; mehr Gerechtigkeit führe in der Regel zu mehr Konflikten, und Tocquevilles Übergang habe „nicht geklappt“

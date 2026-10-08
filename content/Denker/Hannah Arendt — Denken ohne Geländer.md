@@ -223,6 +223,10 @@ Arendts *Denken ohne Geländer* ist die politische Version desselben Raums. Wer 
 Arendt fordert Denken ohne das Geländer der Tradition. Ricard zeigt, dass der Buddhismus diese Forderung von Anfang an eingebaut hat: Buddhas eigene Aufforderung war, alles an der eigenen Erfahrung zu prüfen — kein Autoritätsargument, kein Traditionsargument. Beide laufen auf dasselbe hinaus: Urteilen als eigene Verantwortung, nicht delegierbar.
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus|Sternstunde Philosophie — Droht ein neuer Faschismus?]] — Redecker stützt ihre Ursachenerklärung des neuen Faschismus explizit auf Arendt: der Umschlag des latent „wabbernden“ Vorurteils in den politischen Ankerpunkt, der „Durst, jemanden hassen zu dürfen“.
 
+### → [[Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
+
+Arendts „unverzeihliches, radikal Böses“ gegen Boshammers Satz, Verzeihen sei eine Großzügigkeit, die allen zur Verfügung steht — dazwischen Eva Mozes Kor, die das Unverzeihliche verzieh und dafür angefeindet wurde.
+
 ---
 
 ## Weiterdenken

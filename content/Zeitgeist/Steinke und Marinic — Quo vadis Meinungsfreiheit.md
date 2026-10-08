@@ -274,6 +274,10 @@ Semsrott praktiziert das Gegenteil performativer Meinungsfreiheitsdebatten: Tran
 
 Dasselbe Muster im Inneren einer Institution: ÖRR-Insider berichten Schönauer, dass freie Mitarbeiter aus Angst um Folgeaufträge keine Systemkritik üben können — Meinungsfreiheit wird nicht durch Verbote eingeschränkt, sondern durch antizipierte Konsequenzen. Was Steinke und Marinić für den öffentlichen Raum diagnostizieren (Drohung → innere Anpassung), reproduziert ausgerechnet die Institution mit dem Verfassungsauftrag freier Meinungsbildung in ihren eigenen Beschäftigungsverhältnissen.
 
+### → [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]]
+
+Marinić als Gastgeberin der Utopie-Konferenz 2024, die in jedem Panel die Reibung erzeugt.
+
 ---
 
 ## Weiterdenken

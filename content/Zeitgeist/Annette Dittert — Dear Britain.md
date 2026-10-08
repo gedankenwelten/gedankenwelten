@@ -235,6 +235,10 @@ Haidt liefert die psychologisch-evolutionäre Erklärung für Ditterts „archai
 ### → [[Panorama/NoAfD]]
 Dasselbe Drehbuch, anderer Schauplatz: Was Musk in Großbritannien vorführt (rechtsextreme Kräfte finanzieren, über X amplifizieren, Migration als Vehikel, EU als Feindbild), zieht er über seine Nähe zu Weidel auch in Deutschland durch. Großbritannien ist das Frühwarnsystem für das deutsche Schema — die AfD als lokaler Knoten eines transnationalen Netzes.
 
+### → [[Roger de Weck — Was ist konservativ|Roger de Weck — Was ist konservativ, was reaktionär?]]
+
+De Weck nennt Johnsons Ruin der Tories und hält den Niederländer Henri Bontenbal als Gegenbeispiel dagegen.
+
 ---
 
 ## Weiterdenken

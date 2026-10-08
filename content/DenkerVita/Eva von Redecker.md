@@ -71,6 +71,7 @@ Sie lebt bewusst in einer **ländlichen Gemeinschaft in Brandenburg** — nicht 
 
 ## Gedankenwelten-Notes
 
+- [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]] — Leuphana 2024: Vertrauen als Kooperationserwartung, Zukunftsabstinenz quer durch die Lager, „Es gibt kein Exil mehr“
 - [[Denker/Eva von Redecker — Dieser Drang nach Härte]]
 - [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 - [[Zeitgeist/Sternstunde Philosophie — Droht ein neuer Faschismus]]

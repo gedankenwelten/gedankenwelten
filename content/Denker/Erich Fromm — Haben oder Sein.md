@@ -361,6 +361,10 @@ Hans Unterscheidung *Finger vs. Hand* (der Finger wählt und konsumiert, die Han
 Shivas *production boundary* — nur was durch den Markt geht, zählt — ist Fromms Haben-Modus in ökonomischer Form; beide setzen dem Verwerten des Lebendigen das In-Beziehung-Sein entgegen.
 - [[Hans Maggi — Kurdistan im Nordirak]] — die Ratlosigkeit der Beschenkten als Fromm-Lehrstück: Sie suchen den Grund für ein Geschenk, weil sie Großzügigkeit als Transaktion denken. Ihre Gastgeber denken sie als Zustand
 
+### → [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]]
+
+Eine Publikumsfrage verbindet den Seinsmodus mit Weils Aufmerksamkeit. Beide verknüpfen Mystik und Marx — Fromm entfaltet das Selbst, Weil macht es durchlässig.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

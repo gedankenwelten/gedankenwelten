@@ -260,6 +260,10 @@ Die nötige Gegenstimme im Gleichmut-Spiegel: Wo Mawick von der Front her für e
 ### → [[Heinz Bude — Gesellschaft der Angst]]
 Budes Diagnose der ausbleibenden Solidarisierung — eine Gesellschaft, in der keiner mehr für den anderen nach unten einsteht — ist das soziale Negativ zu Mawicks Frage nach dem Füreinander-Einstehen. Mawick fragt, wofür ein Mensch zu sterben bereit ist; Bude erklärt, warum eine angstgetriebene, atomisierte Gesellschaft schon das Füreinander-*Leben* verlernt hat.
 
+### → [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]]
+
+Sanyal fordert Solidarität mit den Deserteuren und stellt den Staatsbefehl gegen die Selbstverteidigung — Mawick ist der Freiwillige, den ihr Satz nicht beschreibt.
+
 ---
 
 ## Weiterdenken

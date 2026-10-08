@@ -208,3 +208,8 @@ Produktivste Gegenperspektive: Benecke beschreibt Bodenkollaps, Hunger und Meere
 ### → [[Frauke Fischer — Kann KI die Natur retten|Frauke Fischer — Kann KI die Natur retten?]]
 
 Der konkrete Gegenvorschlag zu Pöttingers 30×30-Kritik. Wo sie zeigt, dass Naturschutz als Vertreibung funktionieren kann — Tansania, Schusswaffen, Trophäenjagd auf entvölkerten Flächen —, stellt die Tropenökologin Fischer ein Modell vor, das genau umgekehrt gebaut ist: Interspecies Money zahlt für den gemessenen Zustand eines Lebensraums, und das Geld geht an Ranger, indigene Gemeinschaften, die Parkverwaltung, an einen Richter, der illegale Rodung verfolgt hat. Aufgelöst ist Pöttingers Einwand damit nicht, nur verlagert: Wer das Modell trainiert, definiert, wann ein Wald „in Ordnung" ist, und wessen Einkommen an dieser Definition hängt, hat auch ein Interesse an einem gefälligen Messwert. Hartliebs in Milliarden bezifferte Bestäuberleistung ist derselbe Zug wie Fischers ganze Argumentation — die Natur in eine Währung übersetzen, um überhaupt gehört zu werden.
+
+### → [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]]
+
+Welzers „Sedativ der Entpolitisierung“ ist dieselbe Diagnose der schrumpfenden Klimabewegung, von der anderen Seite gestellt.
+

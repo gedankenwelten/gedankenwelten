@@ -60,4 +60,5 @@ Akademischer Philosoph ohne ausgeprägtes parteipolitisches Profil. Sein Zugriff
 - [[Denker/Eva von Redecker — Dieser Drang nach Härte|Eva von Redecker]] — Phantombesitz und Rache als Verteidigung eines verletzten Ordnungsanspruchs.
 
 ## Gedankenwelten-Notes
+- [[Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]] — die Philosophin, von der er sich abgrenzt, antwortet: Verzeihen verzichtet auf den Vorwurf, nicht auf die Strafe
 - [[Denker/Fabian Bernhardt - Ist die Rache der Ursprung der Moral|Ist die Rache der Ursprung der Moral?]]

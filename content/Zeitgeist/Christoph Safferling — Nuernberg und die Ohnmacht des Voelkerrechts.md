@@ -425,6 +425,10 @@ Die Spur verfolgt die Verfahren vor IGH und IStGH. Safferling bringt eine Achse 
 
 Safferling nennt den Irakkrieg einen „unglaublichen Sündenfall“ wie Lagodinsky im Panorama, gibt Carney in der Diagnose der Selektivität recht und setzt auf eine Allianz der Völkerrechtstreuen mit Brasilien, Südafrika, Japan und Kanada. Das ist eine Antwort auf die Frage „Warum hört der Globale Süden zu?“, die die Doppelmoral eingesteht, ohne daraus Whataboutism oder Systemabsage zu machen.
 
+### → [[Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
+
+Was Safferling „wechselseitig verziehen“ nennt, ist in Boshammers Begriffen Schwamm drüber, Nachsicht und Vergessen: Verzeihen kann nur, wer das Unrecht vorher ausspricht. Ihre Antwort auf die Erinnerungskultur: Verzeihen heißt nicht vergessen.
+
 ---
 
 ## Weiterdenken

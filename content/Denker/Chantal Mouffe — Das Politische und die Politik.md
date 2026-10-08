@@ -194,6 +194,10 @@ Spannungsreich: Merkel feiert den Kompromiss als Wesen der Demokratie, während 
 
 Nach den Landtagswahlen 2026 sagt Marina Kormbaki, AfD und Linke gewännen, weil sie den Anschein der Alternativlosigkeit durchbrechen — Mouffes These im Befund einer Hauptstadtjournalistin; der Unterschied zwischen Gegner und Feind bleibt dabei offen.
 
+### → [[Adam Tooze — Krise und demokratische Gelegenheit]]
+
+Tooze übernimmt in Lüneburg 2024 Mouffes Kritik am Konsens und ihren Hegemonie-Begriff, sagt aber „Feinde“, wo sie „Gegner“ sagt — und benennt die Gefahr dieses Worts selbst.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

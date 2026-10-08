@@ -91,6 +91,10 @@ Eines fehlt in diesem Text, und es fehlt mit Absicht: das *Wie*. Mit welchen Han
 - [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]] — Der Vorschuss, neurowissenschaftlich gelesen: Er behandelt den anderen als vollen Menschen, bevor der es „verdient" hat — gelebte Rehumanisierung. Yus Furchtlosigkeit vor dem „AfD-Gehirn" folgt derselben Bewegung wie die Auflösung der Opfer-Frage: Wer den Vorschuss gibt, ändert das Spiel, statt es zu verlieren.
 - [[Zeitgeist/Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — Barbara Bleisch nennt Großzügigkeit wesentlich einen Vertrauensvorschuss und fragt, wo in einer Gesellschaft der Bonitätsprüfung noch Raum dafür bleibt. Mauss' Gabe, die den Empfänger verpflichtet, ist dort die Gegenfigur zu einem Vorschuss, der auf keine Rückzahlung wartet.
 
+### → [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]]
+
+Michel Friedman entscheidet sich, Menschen zu vertrauen, obwohl seine Familie ermordet wurde — die härteste Probe des bewussten Vertrauensvorschusses.
+
 ---
 
 ## Weiterdenken

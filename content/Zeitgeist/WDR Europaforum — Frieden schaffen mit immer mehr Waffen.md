@@ -334,6 +334,10 @@ Van Akens Verteilungsargument trifft hier auf die materielle Gegenrechnung: In U
 
 Bülow hält die Aufrüstung für einen Lobbydeal mit erfundener Begründung. Neben Šešelgytės Schutzraum-Morgen und van Akens Rechnung sieht man, wo seine Kritik an der Beschaffung trägt und wo die Bedrohung aus seinem Bild fällt.
 
+### → [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]]
+
+Die Lüneburger Gegen-Debatte: zwei Pazifistinnen gegen zwei Realisten, mit Bahrs struktureller Nichtangriffsfähigkeit und Kurts Frage „Wer ist wir?“.
+
 ---
 
 ## Weiterdenken

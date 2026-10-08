@@ -101,3 +101,7 @@ Dasselbe Werkzeug, in die andere Richtung gedreht. Hier erfindet ein Boulevardbl
 
 Derselbe Autor, dessen Analyse diese Note stützt, fragt, wem die Maschine gehört, die das Wort druckte — und landet bei Döpfners weitgehend steuerfrei geschenktem Aktienpaket.
 
+### → [[Adam Tooze — Krise und demokratische Gelegenheit]]
+
+Tooze erklärt das Scheitern mit dem schwachen ersten Entwurf, diese Note mit dem Kampfbegriff — zusammen: Wer einen angreifbaren Entwurf vorlegt, liefert dem Kampfbegriff die Munition.
+

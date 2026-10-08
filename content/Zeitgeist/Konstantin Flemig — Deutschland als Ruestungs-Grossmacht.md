@@ -206,6 +206,10 @@ Maja Göpel nennt Rheinmetall in ihrer Keynote nicht beim Namen, meint aber niem
 
 Jan van Akens Verteilungsargument (100 Milliarden fürs Militär = Sozialabbau) trifft hier auf die materielle Gegenrechnung: Das Geld verschwindet nicht, es verlagert sich nach Unterlüß. Zugleich liefert diese Note van Akens stärkstes Argument nach, und zwar aus einer Quelle, die Aufrüstung nicht kritisiert — das Überkapazitäten-Problem: Wenn der Staat Leerkapazitäten mitträgt, entsteht ein Akteur, dessen Geschäftsgrundlage die Dauerhaftigkeit der Bedrohung ist. Das Sicherheitsdilemma hat nicht nur eine geopolitische Spirale, sondern auch eine industrielle.
 
+### → [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]]
+
+Kurts Panzer-Projektsitz in Köln-Mülheim ist das lokale Gesicht dieser Expansion, von der Straße aus gesehen.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

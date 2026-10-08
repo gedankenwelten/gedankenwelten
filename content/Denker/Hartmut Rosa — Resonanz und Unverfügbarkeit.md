@@ -253,6 +253,14 @@ Die Positive Psychologie misst, was Rosa für unverfügbar erklärt. Mangelsdorf
 
 Blom gibt dem Verfügbarmachen eine lange Vorgeschichte, vom Gilgamesch, der den Waldgeist erschlägt und den Wald zur Ressource macht, bis zu den „Externalitäten“ der Ökonomen. Auf Rosa angesprochen, erzählt er, warum *gift* und *Gift* dasselbe Wort sind: Das Geschenk bindet in einen Kreislauf, Geld schneidet ihn ab.
 
+### → [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]]
+
+Bleischs Sprechstunde — die Stunde kann ich verlangen, das Zuhören nicht — ist Unverfügbarkeit im Alltag; Weils „negative Anstrengung“ antwortet auf die Frage, ob sich die Bereitschaft zur Resonanz üben lässt.
+
+### → [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]]
+
+Bleisch hält Welzer Rosas *Situation und Konstellation* vor; er antwortet mit dem ironischen Zugbegleiter — Spielraum gibt es noch.
+
 ## Weiterdenken
 
 > [!question] Was Aristoteles vielleicht gefragt hätte

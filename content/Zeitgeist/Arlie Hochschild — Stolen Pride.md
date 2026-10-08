@@ -253,6 +253,10 @@ Blom nennt dasselbe Entwürdigung: eine Arbeiterklasse, die mit Gewerkschaft und
 
 Ein Freiburger Schamforscher kommt mit Interviews alter Hitler-Anhänger zum selben Mechanismus: gesammelte Scham, als Wut gegen andere gewendet, und er zitiert dafür die Trump-These. Er legt die Kindheit darunter. Für seine Gesprächspartner war Hitlers Blick in ihre Augen das Erlebnis ihres Lebens, *desperately looking to be seen*, achtzig Jahre früher.
 
+### → [[Roger de Weck — Was ist konservativ|Roger de Weck — Was ist konservativ, was reaktionär?]]
+
+De Wecks „Kumulierung der Kontrollverluste“ ist gestohlener Stolz im westlichen Maßstab; sein Lob der Langeweile antwortet auf die Empörungsökonomie.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

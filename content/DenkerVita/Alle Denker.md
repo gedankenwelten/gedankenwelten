@@ -138,6 +138,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Claus-Christian Carbon|Claus-Christian Carbon]]** — Wahrnehmungspsychologe (Universität Bamberg, „CCC“); erforscht, wie das Gehirn Wirklichkeit *herstellt* — Gesichtererkennung, Design, kognitive Landkarten; empirische Ästhetik, Forschungsgruppe EPÆG, über 240 Fachartikel
 
+**[[DenkerVita/Carsten Brosda|Carsten Brosda]]** — Wo Demokraten keine eigenen Bilder haben, kehren die alten Mythen zurück: Carsten Brosda, Hamburgs Kultursenator, denkt Demokratie als kulturelle Aufgabe.
+
 ## D
 
 **[[DenkerVita/Anja Dahlmann|Anja Dahlmann]]** — Rüstungskontrollexpertin (IFSH); autonome Waffensysteme und militärische KI, menschliche Kontrolle über Waffengewalt, feministische Rüstungskontrolle
@@ -161,6 +163,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Dirk von Petersdorff|Dirk von Petersdorff]]** — Literaturwissenschaftler, Lyriker; Freiheitsgewinn durch Wahrheitsverlust, Ironie, Leichtigkeit als historisches Lebensgefühl der 70er-90er
 
 **[[DenkerVita/Dominik Finkelde|Dominik Finkelde]]** — (Vollanalyse vorhanden, Details ausstehend)
+
+**[[DenkerVita/Dietmar Dath|Dietmar Dath]]** — Schriftsteller, Journalist und Übersetzer (*1970; Spex-Chefredakteur, FAZ), marxistischer Science-Fiction-Romancier; Verschwendung als Überschuss, Produktion statt bloßer Verteilung, Science Fiction als Denkmaschine; *Die Abschaffung der Arten*, *Maschinenwinter*, *Niegeschichte*, *Gentzen*
 
 ## E
 
@@ -201,6 +205,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Valentine Fanjeaux|Valentine Fanjeaux]]** — Textilingenieurin, Präsidentin und Generaldirektorin der Bergère de France SCOP (Bar-le-Duc); führt die letzte französische Spinnerei für Strickgarn, die ihre Belegschaft 2024 aus der Liquidation gekauft hat
 
 **[[DenkerVita/Maximilian Fichtner|Maximilian Fichtner]]** — Festkörperchemiker, Professor Universität Ulm, Direktor Helmholtz-Institut Ulm (HIU); Batterieforscher und Mythen-Aufklärer; E-Autos ökobilanzlich überlegen, Rohstoffverfügbarkeit technisch lösbar, europäische Batterieproduktion strategische Notwendigkeit; Sprecher POLiS (Post Lithium Energy Storage), wissenschaftlicher Direktor CELEST; Podcast *Geladen*
+
+**[[DenkerVita/Florence Gaub|Florence Gaub]]** — Zukunft findet jetzt statt, in unseren Köpfen: Florence Gaub, Forschungsdirektorin am NATO Defense College, macht Szenarien zum Werkzeug gegen Angst und fehlende Vorstellungskraft.
 
 ## G
 
@@ -249,6 +255,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]** — Wirtschaftsjournalistin (*taz*), gelernte Bankkauffrau, Historikerin und Philosophin; grünes Schrumpfen statt grünem Wachstum, die britische Kriegswirtschaft 1940 als Modell einer privaten demokratischen Planwirtschaft, technisch machbar ≠ ökonomisch effizient; Keynesianerin gegen Marx *und* Neoliberale, die beide Ausbeutung für das Funktionsprinzip halten; *Das Ende des Kapitalismus* (2022), *Geld als Waffe* (2026)
 
 **[[DenkerVita/Hanna Notte|Hanna Notte]]** — Politikwissenschaftlerin, leitet das Eurasien-Programm des CNS (Berlin), Senior Associate am CSIS; Russlands Außenpolitik, Nahost, Rüstungskontrolle — *We Shall Outlast Them* (2026): wie Moskau nach 2022 den Globalen Süden mobilisierte und die sowjetische Dankbarkeit allein beerbte
+
+**[[DenkerVita/Harald Welzer|Harald Welzer]]** — Vom Täterforscher zum Sammler gelungener Gegenwart: Harald Welzer fragt, wie normale Menschen zu Mördern werden und wie eine Gesellschaft großzügig bleibt.
 
 ## I
 
@@ -430,6 +438,12 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Albert Moukheiber|Albert Moukheiber]]** — Kognitiver Neurowissenschaftler, klinischer Psychologe und Amateurzauberer (*1982, Libanon; Paris); Kritik der „Neuromania“ und der Hirn-Mythen, Mitgründer des Kollektivs Chiasma für kritisches Denken; *Votre cerveau vous joue des tours* (2019), *Neuromania* (2024)
 
+**[[DenkerVita/Mae Bengert|Mae Bengert]]** — Literatur- und Religionswissenschaftlerin (Literatur, Religion und Gender Studies in romanischen Kulturen, HU Berlin), Mitgründerin des Simone Weil denʞkollektiv; Weil als Mystikerin und Lehrerin der Aufmerksamkeit, Blanchot-Forscherin; *Nachtdenken*, *Santa Teresa* (Hrsg.)
+
+**[[DenkerVita/Mithu Sanyal|Mithu Sanyal]]** — Mithu Sanyal schreibt über Vulva, Vergewaltigung und Identität mit Witz und Theorie und sagt seit 2026 laut „Nein“ zu einer Aufrüstung, die viele Linke für alternativlos halten.
+
+**[[DenkerVita/Marina Weisband|Marina Weisband]]** — Demokratie beginnt im Kinderparlament: Marina Weisband, Psychologin und einst Gesicht der Piraten, will Menschen vom Kunden zum Mitbestimmer machen, gegen Angst und Bürokratie.
+
 ## N
 
 **[[DenkerVita/Ngugi wa Thiongo|Ngũgĩ wa Thiong'o]]** — Kenianischer Schriftsteller und Literaturwissenschaftler (1938–2025); Kenias bedeutendster Romancier, Vordenker der Dekolonisierung; verwarf 1970 das Englische für seine Muttersprache Gĩkũyũ, 1977/78 ohne Anklage inhaftiert, Exil bis 2002, zuletzt Distinguished Professor UC Irvine; *Decolonising the Mind* — Sprache als Träger von Kultur und Gedächtnis
@@ -510,6 +524,12 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Ulf Roeller|Ulf Röller]]** — Fernsehjournalist, Leiter des ZDF-Studios Brüssel (zuvor acht Jahre Washington, drei Jahre Peking); Hanns-Joachim-Friedrichs-Preis 2020 für die Berichterstattung aus China und Hongkong — europäische Souveränität, transatlantische Erosion und China als systemischer Rivale, gesehen von jemandem, der beide Pole von innen kennt
 
+**[[DenkerVita/Roberto Simanowski|Roberto Simanowski]]** — Literatur- und Medienwissenschaftler (*1963; Brown, Basel, Hongkong, FU Berlin), Gründer von *dichtung-digital*; vierfacher Souveränitätsverlust durch KI, kognitive Schulden, Wertexport der Sprachmodelle; *Sprachmaschinen*, *Todesalgorithmus*, *Data Love*, *Facebook-Gesellschaft*
+
+**[[DenkerVita/Roger de Weck|Roger de Weck]]** — Konservativ ist demokratisch, reaktionär nicht: Roger de Weck, einst Chef der Zeit und der SRG, verteidigt die Langeweile, die Demokratie und die Konservativen vor sich selbst.
+
+**[[DenkerVita/Raul Krauthausen|Raúl Krauthausen]]** — Rampen allein machen keine Teilhabe: Raúl Krauthausen, Aktivist und Gründer der Sozialhelden, fordert Teilgabe, behinderte Menschen auf der Bühne statt nur im Publikum.
+
 ## S
 
 **[[DenkerVita/Sandra Navidi|Sandra Navidi]]** — Juristin und Finanzexpertin in New York, CEO von BeyondGlobal; liest das Finanzsystem als soziales Netzwerk (*SuperHubs*) — nicht Institutionen regieren, sondern einige hundert Menschen in dessen Knotenpunkten; nüchterne, juristisch geführte Trump-Kritik
@@ -550,6 +570,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Sebastian Puschner|Sebastian Puschner]]** — stellv. Chefredakteur und politischer Korrespondent von *der Freitag*, früher *taz* Berlin; Politik und Ökonomie „von Hartz IV bis Cum-Ex“; Vergesellschaftung nach Artikel 15, Kritik am Verfassungsschutz, die Linke als Partei, die man in die Pflicht nehmen muss
 
 **[[DenkerVita/Sascha Chaimowicz|Sascha Chaimowicz]]** — Chefredakteur des *ZEITmagazins*, geb. 1984 in München, jüdisch und schwarz, lebt in Kreuzberg; jüdischer Alltag in Berlin seit dem 7. Oktober, die Grenze zwischen Palästina-Solidarität und Volksverhetzung, das „Versäumnis der Mitte“
+
+**[[DenkerVita/Susanne Boshammer|Susanne Boshammer]]** — Moralphilosophin (Prof. für Praktische Philosophie, Universität Osnabrück; zuvor Ethik-Zentrum Zürich und Bern); Verzeihen als Verzicht auf einen berechtigten Anspruch, Opferprivileg, Verzeihen ist weder Nachsicht noch Vergessen noch Versöhnung; *Die zweite Chance. Warum wir (nicht alles) verzeihen sollten*, *Gruppen, Rechte, Gerechtigkeit*
+
+**[[DenkerVita/Seyda Kurt|Şeyda Kurt]]** — Zärtlichkeit und Hass als politische Gefühle: Şeyda Kurt aus Köln-Kalk denkt die Liebe gegen den Kapitalismus und verteidigt die Unversöhnlichkeit, wo Gerechtigkeit fehlt.
 
 ## T
 

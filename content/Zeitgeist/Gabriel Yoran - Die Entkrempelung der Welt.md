@@ -246,6 +246,9 @@ Was Yoran am Krempel zeigt, zeigt van Tulleken am Essen: ein Produkt, das der Bi
 
 Die „Erlaubnis zu täuschen" aus Moss' Recherche, Marshmallow-Geschmack ohne Marshmallow, ist Krempel auf dem Teller. Auch Moss findet dahinter keine Schurken, nur Aktionäre, die keinen Bissen weniger dulden.
 
+### → [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]]
+
+Dieselbe Kritik am „das wollen die Kunden“: bei Welzer als Polemik („kein SUV ist kein Verzicht“), bei Yoran als demokratische Bedürfnisdebatte.
 
 ---
 

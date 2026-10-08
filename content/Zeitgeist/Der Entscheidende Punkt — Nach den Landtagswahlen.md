@@ -325,6 +325,10 @@ Drei Tage vor dieser Wahl fürchtet in Torgelow ein früherer Neonazi ein hohes 
 ### → [[Presseclub — Brandmauer nach links]]
 Kormbakis Prognose vom Tag nach der Wahl wird zwei Wochen später im Presseclub fast wörtlich bestätigt. Anke Myrrhe hält Eralp für glaubwürdig und ihre Leute nicht für Ausnahmen, und sie fürchtet die Enttäuschung, wenn die Mieten nicht sinken.
 
+### → [[Carsten Brosda — Naechste Demokratie|Carsten Brosda — Nächste Demokratie?]]
+
+Brosda warnte Ende August vor einer Landesregierung, die keine Staatsverträge mehr schließt, und vermisste bei den Demokraten genau das Zukunftsbild, mit dem die Gegenseite Jubel erntet.
+
 ---
 
 ## Weiterdenken

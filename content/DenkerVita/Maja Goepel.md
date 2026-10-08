@@ -65,6 +65,10 @@ Heute ist sie Professorin, öffentliche Intellektuelle und Gastgeberin von **NEU
 
 ## Gedankenwelten-Notes
 
+- [[Carsten Brosda — Naechste Demokratie|Carsten Brosda — Nächste Demokratie?]] — Gastgeberin mit El-Mafaalani, Leuphana 2026; *Gut leben in Deutschland* als gemeinsames Zielbild, Bürgerräte gegen die Schublade
+- [[Adam Tooze — Krise und demokratische Gelegenheit]] — als Gastgeberin der Utopie-Konferenz 2024; ihr Konsens über Grundgesetz und Nachhaltigkeitsziele gegen Toozes Hegemonie
+- [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]] — als Gastgeberin der drei Vertrauens-Panels 2024 (Friedman/Redecker, Yu/Weisband, Bude/Gaub)
+- [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]] — Leuphana 2026, moderiert und streitet mit: Verteidigungsfähigkeit ohne Eskalationsspirale
 - [[Zeitgeist/Poerksen und Goepel — Debatte neu denken|Pörksen und Göpel — Debatte NEU DENKEN]] — Über Debattenkultur, Konstruktivismus und Zuhören
 - [[Zeitgeist/Gesine Schwan — Macht NEU DENKEN]] — Gespräch über Gestaltungsmacht und demokratische Kultur
 - [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN]] — Gespräch über Vermögensungleichheit und strukturelle Machtkonzentration

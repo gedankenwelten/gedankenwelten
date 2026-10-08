@@ -195,6 +195,10 @@ Maio ergänzt mit dem Begriff der **Gemeinschaftlichkeit**:
 
 - [[Paul Ricoeur — Die zweite Naivitaet]] — Ricœur denkt dieselbe Anthropologie von der Handlung her: Zu jeder Fähigkeit zu handeln (*agir*) gehört eine Fähigkeit zu erleiden (*subir*), und weil jede Handlung ein Handeln *auf* jemanden ist, steht schon das gewöhnlichste Tun am Abhang der Gewalt. Sein schwerster ethischer Fall ist derselbe wie Maios: die Palliativmedizin zwischen Übertherapie und heimlichem Abgleiten. Und seine Antwort ist die Beratungszelle — die Weisheit wird zu mehreren gefunden, mit den Pflegenden, die den Alltag kennen, nicht nur mit denen, die die Regeln kennen.
 
+### → [[Raul Krauthausen — Teilgabe statt Teilhabe|Raúl Krauthausen — Teilgabe statt Teilhabe]]
+
+Krauthausens „Jeder von uns stirbt behindert“ ist ihre geteilte Verletzbarkeit im Alltag — mit dem Zusatz, dass gegen Schmerz kein Aufzug hilft.
+
 ---
 
 ## Weiterführende Quellen

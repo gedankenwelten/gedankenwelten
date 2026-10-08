@@ -355,6 +355,9 @@ Bülow teilt die Oligarchie-Diagnose und zeigt den umgekehrten Weg in dieselbe N
 
 Das Prinzip der Ähnlichkeit, eine Stufe früher: Nölte will Noten durch Portfolios und den Eindruck der Auswählenden ersetzen, Meidinger warnt, dann zählten die informellen Maßstäbe der Herkunft. Die Forschung in der Nachbesprechung gibt Hartmanns Mechanismus recht, denn erst ein festes Kriterium, eine Fehlertabelle, nahm dem Namen „Murat“ seinen Nachteil.
 
+### → [[Raul Krauthausen — Teilgabe statt Teilhabe|Raúl Krauthausen — Teilgabe statt Teilhabe]]
+
+Krauthausen fordert die Quote, „kein besseres Mittel, um Macht zu teilen“; El-Mafaalani hält den freiwilligen Akt dagegen.
 
 ---
 

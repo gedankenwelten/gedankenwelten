@@ -211,6 +211,9 @@ Mit Gettiers stehengebliebener Uhr erklärt Wilholt, warum eine wahre Antwort no
 
 Der Chemiker beschreibt für das Labor, was Ono für die Mathematik erlebt: Wenn Maschinen Tausende Materialien am Tag erzeugen, wird das Auswählen zur eigentlichen Wissenschaft. Und seine Biografie, vom Flüchtlingskind in Amman zum Nobelpreis, ist die eines entdeckten Ramanujan.
 
+### → [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]]
+
+Auch Dath beruft sich auf Terence Tao, sieht die Chance aber von den Arbeitsverhältnissen her: Wem gehört die Prüfzeit, die die Maschine spart?
 
 ---
 

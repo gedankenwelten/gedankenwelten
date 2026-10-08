@@ -249,3 +249,8 @@ Was Bude als liberales Kümmern skizziert, misst Roosen am Essen aus: Nudges, Et
 
 ### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 Walburg zeigt Budes kollektives Misstrauen an einem Fall: Die Sorge um Kriminalität als Problem des Landes ist bei AfD-Anhängern am größten, während die Angst um sich selbst seit den 1990ern sank. Die „Ethnisierung des Sozialen“ gibt der diffusen Negation ein Gesicht.
+
+### → [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]]
+
+Zehn Jahre später erzählt Bude in Lüneburg, er habe 2020 „die Angst der Leute übernommen“ — und Jagoda Marinić hält ihm entgegen, niemand könne die Ängste von 83 Millionen übernehmen. Dazu das Strategiepapier mit seiner „Schockwirkung“.
+

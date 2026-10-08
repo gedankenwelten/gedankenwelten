@@ -3,6 +3,42 @@ title: Known Speakers — DenkerVita Index
 tags: [meta]
 ---
 
+## Carsten Brosda
+**Status:** ✓ Vollanalyse → [[DenkerVita/Carsten Brosda]]
+
+## Raul Krauthausen
+**Status:** ✓ Vollanalyse → [[DenkerVita/Raul Krauthausen]]
+
+## Harald Welzer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Harald Welzer]]
+
+## Mithu Sanyal
+**Status:** ✓ Vollanalyse → [[DenkerVita/Mithu Sanyal]]
+
+## Seyda Kurt
+**Status:** ✓ Vollanalyse → [[DenkerVita/Seyda Kurt]]
+
+## Roger de Weck
+**Status:** ✓ Vollanalyse → [[DenkerVita/Roger de Weck]]
+
+## Marina Weisband
+**Status:** ✓ Vollanalyse → [[DenkerVita/Marina Weisband]]
+
+## Florence Gaub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Florence Gaub]]
+
+## Susanne Boshammer
+**Status:** ✓ Vollanalyse → [[DenkerVita/Susanne Boshammer]]
+
+## Mae Bengert
+**Status:** ✓ Vollanalyse → [[DenkerVita/Mae Bengert]]
+
+## Roberto Simanowski
+**Status:** ✓ Vollanalyse → [[DenkerVita/Roberto Simanowski]]
+
+## Dietmar Dath
+**Status:** ✓ Vollanalyse → [[DenkerVita/Dietmar Dath]]
+
 # DenkerVita Index
 
 Status-Legende:

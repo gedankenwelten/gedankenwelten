@@ -243,6 +243,10 @@ Ein Ex-Neonazi sagt, er habe sich selbst vergeben, und eine Zuhörerin hält ihm
 
 Bleischs These, Großzügigkeit keime dort, wo das Denken in Gerechtigkeit aufhört, ist Bernhardts Vergeben als Verzicht auf den Ausgleich, ins Politische übertragen. Göpels Püttmann-Zitat über die Wut, die nie zufrieden wird, zeigt die andere Hälfte des thymotischen Pols.
 
+### → [[Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
+
+Die Philosophin, von der Bernhardt sich hier abgrenzt, antwortet in Lüneburg: Verzeihen ist der Verzicht auf den Vorwurf, nicht auf die Strafe; Strafverzicht wäre „erwartbar nicht die bessere Idee“, die Großzügigkeit gehöre ins Verfahren, in die Täter-Opfer-Mediation. Wo Bernhardt mit Derrida ein reines Vergeben denkt, knüpft Boshammer das Verzeihen an Bekenntnis.
+
 ---
 
 ## Weiterdenken

@@ -228,6 +228,10 @@ Der philosophische Unterbau der Debatte, am selben Tag entstanden: Misselhorn be
 
 Sergey Lagodinsky, Mitverhandler des AI Act, schlägt einen KI-Kontrollvertrag mit den USA und China nach dem Vorbild der Atomwaffenabkommen vor. Dahlmanns Befund, dass Verbote nur gelingen, wo sie wenig kosten, ist die nüchterne Gegenprobe.
 
+### → [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]]
+
+Dath begründet mit Brandom, warum ein Krieg, in dem nicht einmal mehr „ich habe Befehle befolgt“ möglich ist, die Grundlage jeder Verantwortung zerstört — die philosophische Seite der Forderung nach menschlicher Kontrolle.
+
 ---
 
 ## Weiterdenken
