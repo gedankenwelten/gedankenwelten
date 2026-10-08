@@ -315,3 +315,8 @@ Die ARTE-Reportage zeigt Zimpels Konzepte in der gelebten Praxis: Tilmann Mülle
 ### → [[Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]
 
 Zimpels Befund, dass Selbsteinschätzung der stärkste Bildungsfaktor ist, trifft auf Hagemeyers Kern: Ein fragiles, durch externe Bewertung beschädigtes Selbstbild sabotiert Entwicklung langfristig. Kinder, die lernen, sich für dumm zu halten — weil ihr Bild-Denken im Sprachdenksystem nicht erkannt wird — entwickeln genau die innere Leere, die Hagemeyer beschreibt. Schule als Narzissmus-Generator: nicht durch Grandiosität, sondern durch systematische Entwertung.
+
+### → [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
+
+Zimpels Kritik der Normalverteilung hat dort ihren Schulfall: Nölte nennt es fatal, dass es gute Noten nur gibt, „weil es auch schlechte Noten gibt“, und setzt Lerndialoge an die Stelle der Bewertung. Meidinger widerspricht mit einem Einwand, den sich auch Zimpels Selbsteinschätzung gefallen lassen muss: Jede Selbsteinschätzung braucht einen Maßstab von außen.
+

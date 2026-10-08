@@ -199,3 +199,7 @@ Stefan nutzt im Salon explizit den Luhmann-Begriff der *Autopoiesis*, um die Inc
 
 Markovits’ Meritokratie-Falle und Daritys Regenschirm-Bild sagen dasselbe über Bildung, von entgegengesetzten Enden: Markovits zeigt die Drehung vom Aufstiegsmechanismus zur Kastenreproduktion, Darity zeigt, dass sie am unteren Ende nie Aufstieg war. Sein entlassener Manager, der bei 300 gleichzeitigen Kündigungen an sein persönliches Versagen glaubt, ist die Falle nach innen gewendet.
 
+### → [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
+
+Die meritokratische Falle beginnt bei der Ziffer im Zeugnis: Nölte findet es fatal, dass es gute Noten nur gibt, weil es schlechte gibt, und Meidinger verteidigt die Abiturnote als besten Prädiktor des Studienerfolgs. Die Nachbesprechung liefert Markovits' erschöpfte Gewinner im Kleinen, denn abgestufte Noten verdoppeln im Medizinstudium das Burnout-Risiko.
+

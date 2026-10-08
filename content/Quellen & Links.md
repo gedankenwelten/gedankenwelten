@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten? (Körber-Stiftung, 2022)
+
+| | |
+|---|---|
+| **Streitgespräch** | [Besser lernen ohne Noten? (2022)](https://www.youtube.com/watch?v=tJ5QrUUZexo) — KörberForum, 27.01.2022, Moderation Johanna Schoener (DIE ZEIT) |
+| **Buch** | Björn Nölte und Philippe Wampfler (Hg.): *Eine Schule ohne Noten* (hep 2021) · Heinz-Peter Meidinger: *Die 10 Todsünden der Schulpolitik* (2021) |
+| **Notiz** | [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten]] · [[DenkerVita/Bjoern Noelte]] · [[DenkerVita/Heinz-Peter Meidinger]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Noelte_Meidinger_Noten_Transkript.txt` |
+
 ## Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems (Jung & Naiv 855, 2026)
 
 | | |

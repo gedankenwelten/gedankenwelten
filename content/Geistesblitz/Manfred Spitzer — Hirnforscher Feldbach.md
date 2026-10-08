@@ -301,6 +301,11 @@ Spitzers "Lernturbo" (Dopamin geht an, wenn Realität die Erwartung übertrifft)
 
 Spitzers „hedonische Tretmühle" trifft bei Rüther die klinische Realität der Sucht: Wenn das Außergewöhnliche zum neuen Nullpunkt wird, verblasst das Gewöhnliche — Spitzer beschreibt den Lernmechanismus, Rüther die Patienten, bei denen er gekapert ist und das ganze Leben „unwichtig" werden lässt.
 
+### → [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
+
+Spitzers Lisa an der Tafel hat dort eine Schwester: Meidingers Klasse, die in angstvoller Stille wartet, wer die Fünf zurückbekommt. Ein deutscher Feldversuch an 75 Grundschulen fand allerdings ohne Noten nicht weniger Angst, ein Hinweis, dass die Angst eher am Selbstbild hängt, wie es Spitzers Werte-Schreibübung bearbeitet.
+
+
 ---
 
 ## Weiterführend

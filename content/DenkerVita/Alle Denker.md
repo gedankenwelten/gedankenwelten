@@ -364,6 +364,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]]** — Makroökonom, seit 2013 Präsident des DIW Berlin und Professor an der HU Berlin; elf Jahre EZB; Exportüberschuss als Symptom einer Investitionslücke, Schuldenbremse als Investitionsbremse, Vermögensungleichheit als makroökonomisches Problem — *Die Deutschland-Illusion*, *Verteilungskampf*
 
+**[[DenkerVita/Heinz-Peter Meidinger|Heinz-Peter Meidinger]]** — Gymnasiallehrer und Verbandspolitiker; 2004–2017 Vorsitzender des Philologenverbands, 2017–2023 Präsident (seither Ehrenpräsident) des Deutschen Lehrerverbands; verteidigt Noten, G9 und Zentralabitur gegen Noteninflation — *Die 10 Todsünden der Schulpolitik*
+
 **[[DenkerVita/Margarita Seselgyte|Margarita Šešelgytė]]** — Litauische Politikwissenschaftlerin, seit 2019 Direktorin des Instituts für Internationale Beziehungen und Politikwissenschaft der Universität Vilnius; Abschreckung als psychologisches wie militärisches Problem, strategische Empathie und operative Solidarität, Total Defence als gesamtgesellschaftliche Resilienz
 
 **[[DenkerVita/Achille Mbembe|Achille Mbembe]]** — Kamerunischer Historiker und Politiktheoretiker; Necropolitics, Postkolonialtheorie, Planetare Ethik; Holberg Prize 2024 für *The Earthly Community*
@@ -443,6 +445,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Nicole Deitelhoff|Nicole Deitelhoff]]** — Politikwissenschaftlerin, Professorin für Internationale Beziehungen, Goethe-Universität Frankfurt; Geschäftsführende Direktorin PRIF/HSFK, Co-Moderatorin StreitClub
 
 **[[DenkerVita/Niklas Luhmann|Niklas Luhmann]]** — Soziologe, Systemtheoretiker; Komplexitätsreduktion als Aufgabe der Aufklärung, Kontingenz, Systemdifferenzierung, Zettelkasten-Pionier
+
+**[[DenkerVita/Bjoern Noelte|Björn Nölte]]** — Lehrer, Lehrerbildner und Schulaufsicht der Evangelischen Schulstiftung in der EKBO; Mitgründer des Instituts für zeitgemäße Prüfungskultur, mit Philippe Wampfler *Eine Schule ohne Noten* (2021): Lerndialoge, Portfolios und Feedforward statt Ziffern
 
 ## O
 

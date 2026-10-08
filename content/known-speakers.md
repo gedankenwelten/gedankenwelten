@@ -1100,3 +1100,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Christian Walburg
 **Status:** ✓ Vollanalyse → [[DenkerVita/Christian Walburg]]
+
+## Heinz-Peter Meidinger
+**Status:** ✓ Vollanalyse → [[DenkerVita/Heinz-Peter Meidinger]]
+
+## Björn Nölte
+**Status:** ✓ Vollanalyse — [[DenkerVita/Bjoern Noelte]]
