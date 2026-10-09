@@ -329,6 +329,10 @@ Laschyks stärkster Hebel ist die Erbschaftsteuer mit ihren Verschonungsregeln, 
 
 Fricke prüft das schwächste Glied in Laschyks Kette: dass mehr Steuergeld Menschen weniger anfällig für Fake News macht. Die Forschung, die er heranzieht, findet den Treiber in Kontrollverlust, Austerität und unberechenbarem Stress. Zugleich sagt er, Steuern auf Reiche machten Arme nicht reicher; nötig seien Befähigung und ein Staat, der rechtzeitig handelt. Fricke stützt damit den Mechanismus und widerspricht Laschyks Hoffnung, Umverteilung allein reiche aus.
 
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Derselbe Doppelgänger von der anderen Seite: Hier wird Reichweite gekauft, bei Wienand vorgetäuscht, und sie verpufft. Der Zahlmeister ist dort die russische Präsidialverwaltung, die Kennzahl im Projektbericht dieselbe Aufmerksamkeit.
+
 ---
 
 ## Weiterdenken

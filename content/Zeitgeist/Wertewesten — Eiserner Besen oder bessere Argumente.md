@@ -251,6 +251,9 @@ Dieselbe Stimme, ausführlich: Heinrichs Methodik der Quellenkritik, sein Neutra
 
 Püttmann liefert die Theorie zu dem Streit, der hier ausgefochten wird. Er zitiert Poppers Toleranzparadoxon und die wehrhafte Demokratie als Verfahren — Heinrichs „eiserner Besen" und Reichers Vertrauen auf die besseren Argumente sind die zwei Antworten, die sich daraus ziehen lassen.
 
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Die böswillige Tarnung, belegt: Fake-Portale wie „Wanderfalke“ sammeln deutsche Interviewpartner, manche freiwillig, manche hereingelegt. Wienands Antwort liegt zwischen Besen und Argument, nämlich Recherche, die Namen nennt und Fälschungen markiert.
 
 ---
 

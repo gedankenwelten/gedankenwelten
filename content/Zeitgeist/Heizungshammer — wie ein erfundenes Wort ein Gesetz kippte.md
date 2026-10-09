@@ -105,3 +105,6 @@ Derselbe Autor, dessen Analyse diese Note stützt, fragt, wem die Maschine gehö
 
 Tooze erklärt das Scheitern mit dem schwachen ersten Entwurf, diese Note mit dem Kampfbegriff — zusammen: Wer einen angreifbaren Entwurf vorlegt, liefert dem Kampfbegriff die Munition.
 
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Die Gegenprobe: Russische Bot-Fakes verpuffen meist, solange keine Redaktion sie aufnimmt. Der „Heizungshammer“ zeigt, dass der stärkste Verstärker in Redaktionen sitzt, die ungeprüft nachdrucken.

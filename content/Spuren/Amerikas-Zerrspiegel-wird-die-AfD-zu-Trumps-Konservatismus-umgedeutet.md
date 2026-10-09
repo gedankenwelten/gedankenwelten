@@ -464,6 +464,11 @@ und hält nicht. Die Note hatte Staiys Adresse korrigiert (Trump 2020 statt Proj
 aber stehen lassen. Wer beide liest, sieht den Fehler zweimal in derselben Woche: einmal beim Sprecher,
 einmal beim Faktencheck, der ihn nur zur Hälfte prüfte.
 
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Der dritte Absender von innen: wie Storm-1516 Medienmarken klont, Wegwerf-Zeitungen gründet und Journalisten in die eigenen Fakes einbaut, darunter Wienand selbst mit einer erfundenen CDU-Wahlverschiebung in Sachsen-Anhalt.
+
+
 ## Quellen
 
 - [Fox News — Tens of thousands protest AfD party conference in Erfurt (mit dem „far-left riots"-Frame)](https://www.foxnews.com/world/tens-thousands-far-left-protesters-clash-police-anti-conservative-party-riots)

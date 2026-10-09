@@ -623,6 +623,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Christian Walburg|Christian Walburg]]** — Kriminologe und Jurist (Münster, zuletzt Professurvertretung an der Deutschen Hochschule der Polizei); erforscht seit der Duisburger Längsschnittstudie Migration und Jugenddelinquenz, gegen Alarmismus und Abwiegeln zugleich
 
+**[[DenkerVita/Lars Wienand|Lars Wienand]]** — Investigativjournalist (t-online), deckte 2022 die russische Desinformationskampagne „Doppelgänger“ auf und wertete 2026 als Erster ein Leak der Moskauer Social Design Agency aus
+
 **[[DenkerVita/Walther Ziegler|Walther Ziegler]]** — Philosoph, Autor der Reihe *„Große Denker in 60 Minuten"* (25+ Titel); Originalzitate + Alltagsbeispiele + Aktualitätsfrage
 
 **[[DenkerVita/Simone Weil|Simone Weil]]** — Philosophin, Mystikerin, Fabrikarbeiterin (1909–1943); ENS-Absolventin, die 1934 an die Fräsmaschine ging, um zu erfahren, was Industriearbeit mit einem Menschen macht; *attention* als reinste Form der Großzügigkeit, *malheur*, Entwurzelung, Kraft als das, was Menschen zu Dingen macht; zu Lebzeiten kein Buch — *Schwerkraft und Gnade* (1947), *Die Einwurzelung* (1949, hg. von Camus) erschienen posthum; gestorben mit 34

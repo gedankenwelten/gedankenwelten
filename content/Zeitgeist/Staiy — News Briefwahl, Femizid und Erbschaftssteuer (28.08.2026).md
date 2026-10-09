@@ -380,6 +380,10 @@ Dieselben Verschonungsregeln, von der Medienseite gesehen: Laschyk zeigt, wie ei
 
 Dieselbe Hestermann-Zahl prüft [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Das Bild im Kopf|BissenBlaBla]] genauer: Die Verzerrung hält, ihre Größe hängt an der Vergleichszahl, und der Kanal wählt dabei die günstigere.
 
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Das Schredder-Video war kein Einzelstück: Gefälschte Stimmzettel-Vernichtungen kommen inzwischen zu jeder Wahl. Wienand zeigt die nächste Stufe, Trolle, die Journalisten um die Prüfung dieser Videos bitten.
+
 ---
 
 ## Weiterdenken

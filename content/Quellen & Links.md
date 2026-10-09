@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Lars Wienand — Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformation (Datenspuren 2026)
+
+| | |
+|---|---|
+| **Video** | [Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformation](https://www.youtube.com/watch?v=A3YBJOcdO8I) — Datenspuren 2026, Dresden, 08.10.2026 (47 Min.), CC BY 4.0 · [media.ccc.de](https://media.ccc.de/v/ds26-701-russentrolle-auf-tuchfuhlung-mit-russischer-desinformation) |
+| **Notiz** | [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation]] |
+| **DenkerVita** | [[DenkerVita/Lars Wienand]] |
+| **Programm** | [talks.datenspuren.de](https://talks.datenspuren.de/ds26/talk/T8DPBR/) |
+| **Transkript** | `Gedankenwelten/Transkripte/Wienand_Russentrolle_ds26_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+| **Standbilder** | `Gedankenwelten/assets/Wienand_Russentrolle_*.jpg` — aus der HD-Fassung von media.ccc.de, CC BY 4.0 |
+
 ## Carsten Brosda, Maja Göpel & Aladin El-Mafaalani — Nächste Demokratie? (Leuphana, Utopie-Konferenz 2026)
 
 | | |

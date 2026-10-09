@@ -136,6 +136,10 @@ Die Gegenrichtung in Reinform: Sterner erobert „Patriotismus“ und „Heimat�
 
 Akala liefert die koloniale Vorgeschichte der Zeichen-Kaperung: abgeschlagene Statuennasen, weiß übermalte Madonnen, weiß besetzte Pharaonen — Aneignung von Zeichen als Enteignung von Geschichte, Jahrhunderte bevor Codes und Flaggen umkämpft waren.
 
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Was bei „Operation O-KKK“ ein Trollstreich war, ist bei der Moskauer Social Design Agency ein Geschäftsmodell: Journalisten werden angeschrieben, damit sie den Fake entlarven, und der Bericht darüber landet als Erfolg im Projektbericht.
+
 ---
 
 ## Weiterdenken

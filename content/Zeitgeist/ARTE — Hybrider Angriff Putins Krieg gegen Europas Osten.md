@@ -222,6 +222,11 @@ Was die Doku im EU-Osten als eingespieltes Verfahren zeigt, ist in Leipzig zum e
 
 Was der Film in Bulgarien als „dankbare Nation“ zeigt, findet Hanna Notte in Afrika wieder: eine gepflegte Dankbarkeit, die Moskau nur aktivieren muss. Sergey Lagodinskys „Wir müssen Propaganda lernen“ stellt die Frage des Deepfake-Schlusses neu — wo endet das Zeugnis, wo beginnt die Gegen-Manipulation?
 
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Wo der Film nur das Echo beweisen kann, zeigt Wienand für einen Ausschnitt den Knopf: geleakte Chats und Projektberichte der Social Design Agency mit Anweisungen aus der Präsidialverwaltung. Und die Gegenmethode zum Schluss-Deepfake: Fälschungen nur mit Stempel zeigen.
+
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

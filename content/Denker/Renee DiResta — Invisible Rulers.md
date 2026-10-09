@@ -445,3 +445,7 @@ Im Minecraft-Experiment Project Sid folgten die Stimmen simulierter Bürger den 
 ### → [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung|Morpheus und Molly Crockett — Ragebait und moralische Empörung]]
 
 „Rewarding Extremity" von der anderen Seite: Mössner zeigt, wie schon ein harmloses Rezept in die Empörungsmechanik gerät, und Crockett erklärt, warum moralisch-emotionale Wörter Reichweite bringen (rund 20 Prozent mehr Retweets je Wort, Brady et al. 2017).
+
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Die deutsche Feldstudie zu Propaganda, die Gruppen gegeneinander aufbringt: Schweinekopf vor der Moschee, Bauschaum mit Grünen-Aufkleber, Ukrainerinnen als Familienzerstörerinnen. Und Bot-Posts, die ohne Resonanz verpuffen.
