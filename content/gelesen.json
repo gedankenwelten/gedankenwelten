@@ -284,19 +284,15 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "aufrufe": 4
     },
     {
@@ -329,6 +325,10 @@
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Hans-Maggi",
      "aufrufe": 3
     },
     {

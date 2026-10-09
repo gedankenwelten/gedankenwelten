@@ -70,6 +70,16 @@ Die Gedankenwelten (luc)
 
 > → *7 weitere in* [[Panorama]]
 
+### Spuren
+
+> **09.10.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
+>
+> Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
+
+> **04.10.** — [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]]
+>
+> Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin.
+
 ### Denker
 
 > **08.10.** — [[Denker/Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen und der vierfache Souveränitätsverlust]]
@@ -127,12 +137,6 @@ Die Gedankenwelten (luc)
 > **03.07.** — [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
 >
 > Keine Machtergreifung, nur Milliarden kleiner Abgaben: Wie Verantwortung entsorgt wird, Macht herrenlos wird — und warum das Urteil das Einzige ist, was man nie delegieren darf.
-
-### Spuren
-
-> **04.10.** — [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]]
->
-> Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin.
 
 ### GoodNews
 
