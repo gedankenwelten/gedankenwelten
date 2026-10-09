@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*334 Notes — automatisch generiert · nach Thema sortiert*
+*335 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -298,6 +298,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Konstantin Flemig — Russlands Katastrophen-Monat|Konstantin Flemig — Russlands Katastrophen-Monat]] — Drohnen über Moskau und St. Petersburg, abgeschnürte Krim, rationiertes Benzin: wie der Mythos der russischen Unbesiegbarkeit in einem einzigen Monat zerfällt.
 - [[Zeitgeist/Konstantin Flemig — Ukraine Gebietsgewinne 2026|Konstantin Flemig — Ukraine Gebietsgewinne 2026]]
 - [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]] — Digitale Souveränität ist nicht Abschottung, sondern das Recht, die Systeme mitzugestalten, die uns gestalten — und Afrika wartet nicht länger auf eine Einladung in die Zukunft.
+- [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformation]] — Ein Reporter folgt Moskaus Fälscherwerkstatt seit 2022 und findet dabei sich selbst, samt einem ermordeten Bruder, den es nie gab. Vieles davon erreicht kaum jemanden. Gezählt wird trotzdem.
 - [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (5▸6) Alle Industrieländer setzen auf Kernenergie|Mario Buchinger — Lügen der Kernenergie (5/6): Alle Industrieländer setzen auf Kernenergie]]
 - [[Zeitgeist/Martin Sonneborn — Endloser Krieg|Martin Sonneborn — Endloser Krieg]]
 - [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus|Michael Sterner — Energiewende ist gelebter Patriotismus]] — Ein Energieprofessor erobert ein Wort zurück: Wer sein Land liebt, macht es unabhängig — von Öl, Gas und den Kriegen, die an ihnen hängen.
