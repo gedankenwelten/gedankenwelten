@@ -2,7 +2,7 @@
 title: "Wie umgehen mit Russland?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-10-08
+aktualisiert: 2026-10-09
 description: "Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben."
 raetsel: "Zwei Stühle, ein Tisch. Einer ist aufgestanden. Wer klopft zuerst?"
 panorama-art: wachsend
@@ -186,6 +186,8 @@ Die Bevölkerungen sind kühler als ihre Regierungen. In 38 afrikanischen Lände
 
 Was russische Desinformation tatsächlich bewirkt, ist schwächer belegt, als die Sorge vermuten lässt. Die bislang gründlichste Messung, die Kampagne der Internet Research Agency im US-Wahlkampf 2016, fand die Kontakte stark gebündelt — rund ein Prozent der Nutzer vereinte 70 Prozent davon, meist ohnehin stark republikanisch Eingestellte — und keinen messbaren Effekt auf Einstellungen, Polarisierung oder Wahlverhalten ([Eady u. a., *Nature Communications* 2023](https://doi.org/10.1038/s41467-022-35576-9), robuste Einzelstudie). Das spricht für „verstärken statt umstimmen“: Am anfälligsten macht die Passung zur eigenen politischen Identität, analytisches Denken schützt ([Sultan u. a., *PNAS* 2024](https://doi.org/10.1073/pnas.2409329121), Meta-Analyse aus 31 Studien). Über Sabotage, Drohnen oder langfristigen Vertrauensverlust sagt diese Forschung nichts.
 
+Groß macht den Fake oft erst die seriöse Presse. Fake-News-Seiten erreichen wenige, ihre Geschichten kennen viele, und zwar meist aus der Berichterstattung etablierter Medien ([Tsfati u. a. 2020](https://doi.org/10.1080/23808985.2020.1759443), Literaturübersicht); US-Redaktionen zitierten Tweets der Moskauer Trollfabrik arglos als Volksstimme ([Lukito u. a. 2020](https://doi.org/10.1177/1940161219895215)). Die geleakten Unterlagen der Social Design Agency zeigen, dass die Agentur genau das abrechnet: „Western media attention is a metric of success“; die über 350 internationalen Berichte über Doppelgänger nennt eine Lunder Auswertung „eine der wahren Erfolgsgeschichten für den Kreml“ ([Pamment & Tsurtsumia 2025](https://www.psychologicaldefence.lu.se/sites/psychologicaldefence.lu.se/files/2025-05/Beyond%20Operation%20Doppelg%C3%A4nger.pdf), Bericht auf Leak-Basis). Auch der Alarm hat Kosten: Pauschale Warnungen vor Desinformation steigern in einem präregistrierten Experiment den Ruf nach harter Regulierung der Rede, ausgewogene Berichte nicht ([Jungherr & Rauchfleisch 2024](https://doi.org/10.1007/s11109-024-09911-3)).
+
 Was hilft, wirkt kleiner als sein Ruf. *Prebunking* — die Erzählung kennen, bevor sie kommt — zeigt in einer Meta-Analyse konsistente Effekte ([Lu u. a. 2023](https://doi.org/10.2196/49255), methodisch kritisiert) und lässt sich als kurzes Video auf YouTube skalieren ([Roozenbeek u. a. 2022](https://doi.org/10.1126/sciadv.abo6254)); ein Teil davon ist aber nur allgemein erhöhte Skepsis, und die Wirkung verblasst ohne Auffrischung ([Simchon, Lewandowsky & van der Linden 2025](https://doi.org/10.1016/j.copsyc.2025.102194)). Skepsis-Tipps senken auch das Vertrauen in wahre Nachrichten; Tipps, die auf verlässliche Quellen verweisen, verbessern die Unterscheidung ([Altay, De Angelis & Hoes 2024](https://doi.org/10.1038/s44271-024-00121-5), präregistriert). Und Widerstandskraft ist eine Eigenschaft von Gesellschaften: Unter 18 westlichen Demokratien sind die nordeuropäischen — Finnland voran — am robustesten, mit hohem Medienvertrauen, starkem öffentlich-rechtlichem Rundfunk und wenig Polarisierung ([Humprecht, Esser & Van Aelst 2020](https://doi.org/10.1177/1940161219900126), korrelativ). Zur Wirkung von Sabotageabwehr fehlt belastbare Forschung; die Lage misst sich vorerst an BKA-Zahlen.
 
 Was eine Gesellschaft von unten trägt, ist besser untersucht, allerdings an Katastrophen, nicht an Angriffen. Nach dem Tsunami 2011 starben in den 133 Gemeinden an Tōhokus Pazifikküste zwischen null und fast zehn Prozent der Bewohner; neben Wellenhöhe und Altersstruktur entschied die Stärke der örtlichen Bindungen mit, wie viele überlebten ([Aldrich & Sawada 2015](https://doi.org/10.1016/j.socscimed.2014.11.025), Einzelstudie). Eine Übersicht über viele Katastrophen nennt das Sozialkapital den Kern lokaler Widerstandskraft ([Aldrich & Meyer 2015](https://doi.org/10.1177/0002764214550299)). Der Gedanke hat seit 1994 einen Namen, *Human Security*, Sicherheit vom Menschen her gedacht, als Freiheit von Furcht und von Not ([UNDP, *Human Development Report 1994*](https://hdr.undp.org/content/human-development-report-1994)), und einen frühen Einwand: Ein Begriff, der alles umfasst, gibt keiner Politik eine Reihenfolge vor ([Paris 2001](https://doi.org/10.1162/016228801753191141)). Finnland und Polen unterscheiden zwei Rollen der Bürger, die kämpfende und die „aktive nicht kämpfende“, an der hybrider Druck abprallen soll; wer Bürgern Aufgaben gibt, ohne Rahmen und Wissen mitzugeben, macht die Gesellschaft allerdings verwundbarer ([Mazurkiewicz & Ossa 2026](https://doi.org/10.1111/1758-5899.70178), qualitative Analyse von Strategiepapieren, keine Wirkungsmessung).
@@ -201,10 +203,11 @@ Wie viel Raum die zweite Rolle hat, zeigen Umfragen, die man nicht direkt nebene
 - **[[Gerald Knaus — Ceuta und die Erpressbarkeit Europas#Der wahre Kern der Desinformation|Gerald Knaus]]:** Desinformation ist stark, weil sie einen wahren Kern hat — Europas Handlungsunfähigkeit; der beste Schutz ist, die Lücke zu schließen.
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Was macht euch sicher?|Şeyda Kurt]]:** Gefragt, was sie sicher macht, nennen ihre Nachbarinnen in Köln-Kalk bezahlbare Mieten, Ärzte, Hilfe in der Krise und Beziehungen, kaum Polizei — und was man mit eigenen Händen aufgebaut hat, gibt man nicht preis.
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ich verteidige nicht mich, ich verteidige einen Staat|Mithu Sanyal]]:** Statt Wehrdienst die Wahl zwischen Bundeswehr und „sozialer Selbstverteidigung“, also lernen, beim Stromausfall solidarisch zu bleiben und die Müllabfuhr am Laufen zu halten — wer Soldat wird, verteidigt nicht sich, sondern wartet auf den Befehl eines Offiziers.
+- **[[Lars Wienand — Russentrolle und russische Desinformation#Wer macht den Fake groß?|Lars Wienand]]:** Viel Troll-Aufwand verpufft ungesehen, groß wird ein Fake erst, wenn echte Presse ihn trägt — und jeder Bericht darüber landet als Arbeitsnachweis im Projektbericht der Moskauer Agentur; darum erst über gebündelte Wellen schreiben, Vorwürfe nicht wiederholen, Fälschungen nur mit FAKE-Stempel zeigen.
+
+<details><summary>Weitere Stimmen (15)</summary>
+
 - **[[WDR Europaforum — Frieden schaffen mit immer mehr Waffen#Was Aufrüstung kostet|Jan van Aken]]:** Landesverteidigung ja, mit dem Etat von vor zwei Jahren und besser abgestimmt in Europa — aber: „Wenn dieses Land nicht bereit ist, was für mich zu tun — warum soll ich bereit sein, was für das Land zu tun?“
-
-<details><summary>Weitere Stimmen (14)</summary>
-
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ich verteidige nicht mich, ich verteidige einen Staat|Aladin El-Mafaalani]]** (Finnland): Dort lerne jeder, was an Tag eins eines Krieges zu tun ist, in Deutschland seien alle sofort gegen Krisenunterricht — dabei helfe im echten Krisenfall auch das Smartphone nicht *(Faktencheck: einen schulweiten Verteidigungsunterricht gibt es auch in Finnland nicht)*.
 - **[[Ruben Mawick — Als Sanitaeter an der Ukraine-Front#Die Wehrpflicht — und der ehrliche Widerspruch im Raum|Ruben Mawick]]:** Für die Wehrpflicht, weil eine Verteidigung Soldaten braucht, und zugleich gegen die Zwangsrekrutierung in der Ukraine — mit der bitteren Beobachtung, dass fliehen kann, wer Geld hat.
 - **[[Presseclub — Drohnen, Sprengstoff, Sabotage#„Hybride Kriegsführung" — ein Wort, das beruhigt|Marina Kormbaki]]:** „Hybrid“ ist ein Wort, das beruhigt; Leipzig trägt die Züge eines staatlich geförderten Terroranschlags, und unscharfes Vokabular hält auch die Antwort unscharf.
@@ -224,7 +227,7 @@ Wie viel Raum die zweite Rolle hat, zeigen Umfragen, die man nicht direkt nebene
 </details>
 
 > [!question] Die Reibung
-> Notte, Sauerbrey und Lagodinsky wollen eine Gesellschaft, die Angst aushält — Vorräte, Geschichten, die ans Herz gehen, ein Staat, der zuschreibt, bevor ein Gericht urteilt. El-Mafaalani, Reicher und Knaus warnen, dass genau diese Mittel das Misstrauen nähren, von dem der hybride Krieg lebt. *Wie viel von den Waffen des Gegners darf eine offene Gesellschaft zu ihrem Schutz übernehmen, bevor der Schutz selbst zum Erfolg des Angreifers wird?*
+> Notte, Sauerbrey und Lagodinsky wollen eine Gesellschaft, die Angst aushält — Vorräte, Geschichten, die ans Herz gehen, ein Staat, der zuschreibt, bevor ein Gericht urteilt. El-Mafaalani, Reicher und Knaus warnen, dass genau diese Mittel das Misstrauen nähren, von dem der hybride Krieg lebt; Wienand zeigt, dass in Moskau schon der Bericht über den Angriff als Treffer abgerechnet wird. *Wie viel von den Waffen des Gegners darf eine offene Gesellschaft zu ihrem Schutz übernehmen — und wie laut darf sie über den Angriff sprechen —, bevor der Schutz selbst zum Erfolg des Angreifers wird?*
 
 ---
 
@@ -234,6 +237,7 @@ Wie viel Raum die zweite Rolle hat, zeigen Umfragen, die man nicht direkt nebene
 |---|---|---|
 | 04.10.2026 | [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen#Nachbesprechung|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]] | Gründungsnote · Wem gehört die sowjetische Dankbarkeit? (Odessa, Perewalne, Afrobarometer, UN-Voten) → *Globaler Süden* · Wirken die Sanktionen? (Pape, GSDB, BOFIT, eingefrorene Vermögen) → *Isolieren oder reden* |
 | 08.10.2026 | [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Nachbesprechung|Sanyal und Kurt — Entgegenkommen, wenn es feindlich wird?]] | Schreckt Stärke ab? → neue Frage · Was macht sicher? → Hybrider Krieg |
+| 09.10.2026 | [[Lars Wienand — Russentrolle und russische Desinformation#Nachbesprechung|Lars Wienand — Привет, Russentrolle!]] | Wer macht den Fake groß? (Tsfati, Lukito, Budak, SDA-Leak/Lund, Jungherr & Rauchfleisch) → *Hybrider Krieg* · Bleibt das Original hängen? (Continued Influence, Implied Truth) → Waise |
 
 ---
 
@@ -258,6 +262,10 @@ Ein Völkerrechtler, der die westliche Doppelmoral voll eingesteht, den Irakkrie
 ### → [[Panorama/Was kann das Voelkerrecht|Was kann das Völkerrecht?]]
 
 Das Schwester-Panorama zum Recht zwischen den Staaten: ob Haftbefehle abschrecken, ob die Selektivität des Westens den Siegerjustiz-Vorwurf nährt, den Moskau so gern erhebt, und wer durchsetzt, wenn der Sicherheitsrat blockiert ist.
+
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Der Rechercheur, der die Agenturen von innen kennt: Doppelgänger, Matrjoschka und Storm-1516, belegt durch Leaks aus der Moskauer Social Design Agency. Seine leiseste These gehört zur Frage nach dem Schutz: Die meisten Fakes verpuffen, und erst der Bericht über sie macht sie groß.
 
 ---
 

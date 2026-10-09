@@ -1142,3 +1142,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Björn Nölte
 **Status:** ✓ Vollanalyse — [[DenkerVita/Bjoern Noelte]]
+
+## Lars Wienand
+**Status:** ✓ Vollanalyse → [[DenkerVita/Lars Wienand]]

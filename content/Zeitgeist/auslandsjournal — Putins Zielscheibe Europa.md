@@ -347,6 +347,10 @@ Derselbe Fall, fünf Tage später und mit umgekehrtem Vorzeichen. Was hier als j
 
 Hanna Notte ordnet „Wegwerfagenten“, die Schließung des Russischen Hauses und die Schattenflotte in zwei Wege ein — Resilienz und Abschreckung durch Bestrafung — und nennt die Hausschließung Symbolpolitik. Ihr Befund, dass Russland außerhalb des Krieges an Einfluss verliert, stützt Eigendorfs Einwand gegen das geschlossene Autokraten-Foto.
 
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Die Desinformations-Schwester der Wegwerf-Agenten: Bauschaum mit Habeck-Aufkleber, Schweineköpfe vor Pariser Moscheen, jeweils so angelegt, dass die Tat einer anderen Gruppe zugeschrieben wird, und im Leak als Projekterfolg abgerechnet.
+
 ---
 
 ## Weiterdenken

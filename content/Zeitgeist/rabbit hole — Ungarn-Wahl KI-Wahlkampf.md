@@ -193,3 +193,7 @@ Kendi analysiert, wie eine Demokratie zur Wahlautokratie umgebaut wird. Ungarn i
 ### → [[Andreas Kemper — Technofaschismus und die AfD]]
 
 KI-Deepfakes als Wahlkampfwaffe sind das praktische Fallbeispiel zu Kempers theoretischem Rahmen des Technofaschismus. Die Note liefert den Beweis: keine Zukunftsszenarien mehr, sondern laufende Operationen mitten in Europa.
+
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Wer hinter Storm-1516 steht: ein nach Moskau geflohener Ex-Hilfssheriff aus Florida, ein Thinktank aus dem Dugin-Umfeld, Zeitungsnamen, die drei Tage vor dem Fake registriert werden. Die Werkstatt hinter den ungarischen Fakes, und eine Erinnerung, dass Reichweite noch keine Wirkung ist.

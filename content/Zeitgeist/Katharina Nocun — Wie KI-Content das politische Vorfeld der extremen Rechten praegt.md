@@ -309,6 +309,10 @@ Die zweite Hälfte der KI-Bildpolitik: Wo Nocun das *Erschaffen* idealisierter F
 
 Die Fortsetzung des Algorithmus-Arguments in der Kommentarspalte: Wenn selbst das Entlarven eines Codes seine Reichweite erhöht, hat der Algorithmus strukturell die Seite gewechselt.
 
+### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
+
+Die staatliche Variante der Fake-Unterstützer: geklonte Stimmen echter Autorinnen, erfundene Interviewpartner, echte Experten unter falschem Vorwand. Wienand ergänzt, dass auch das Entlarven eingeplant ist, denn der Bericht darüber dient als Arbeitsnachweis.
+
 ---
 ## Weiterdenken
 
