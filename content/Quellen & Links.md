@@ -5072,3 +5072,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Buch** | Isabella M. Weber: *Antifaschistische Wirtschaftspolitik* (Suhrkamp 2026) |
 | **Notiz** | [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Weber_Antifaschistische_Wirtschaftspolitik_Transkript.txt` (YouTube-Automatikuntertitel, deutsch; Sprecher aus dem Inhalt zugeordnet) |
+
+
+## Oschmann und Kowalczuk — Kränkung oder Freiheitsschock (Doppelnote)
+
+| | |
+|---|---|
+| **Gespräch** | [Der Osten: Eine westdeutsche Erfindung? Juli Zeh & Dirk Oschmann im Gespräch](https://www.youtube.com/watch?v=QpMSpo3k5-k) (Brandenburgisches Literaturbüro, Nikolaisaal Potsdam, 14.11.2024, Moderation Knut Elstermann) |
+| **Vortrag** | [„Freiheitsschock? Wie weiter?“ mit Ilko-Sascha Kowalczuk](https://www.youtube.com/watch?v=OJKyJyCn5x4) (Hochschule Harz, Campus Halberstadt, 26.05.2025) |
+| **Notiz** | [[Zeitgeist/Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Oschmann_Zeh_Osten_Transkript.txt` · `Gedankenwelten/Transkripte/Kowalczuk_Freiheitsschock_Halberstadt_Transkript.txt` (YouTube-Automatikuntertitel; Sprecher aus dem Inhalt zugeordnet) |

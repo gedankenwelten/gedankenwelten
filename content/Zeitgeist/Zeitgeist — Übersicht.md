@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*338 Notes — automatisch generiert · nach Thema sortiert*
+*339 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -168,6 +168,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung|NANO Talk — Eliten: Zwischen Machtmissbrauch und Verantwortung]]
 - [[Zeitgeist/Nicholas Potter — Die neue autoritäre Linke (taz Talk)|Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]
 - [[Zeitgeist/Nico Semsrott — Bruessel sehen und sterben|Nico Semsrott — Brüssel sehen und sterben]]
+- [[Zeitgeist/Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]] — Zwei Ostdeutsche, beide Jahrgang 1967, lesen dieselben dreißig Jahre gegensätzlich: Der eine sieht einen Osten, den der Westen erfunden hat, der andere einen, der in der Freiheit nie ankam.
 - [[Zeitgeist/Paul Lance — Amerikaner fragt Deutsche ueber Trump|Paul Lance — Amerikaner fragt Deutsche über Trump]]
 - [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler|Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 - [[Zeitgeist/Philip Schlaffer — Kann man sich aendern|Philip Schlaffer — Kann man sich ändern?]] — Zwanzig Jahre Täter, ein abgehängter Spiegel in der Zelle, ein Sportverein, der heimlich abstimmt — und eine Zuhörerin, die sagt: Vergeben dürfen nur die Opfer.
