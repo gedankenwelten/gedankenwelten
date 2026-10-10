@@ -280,15 +280,15 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Marina-Klimchuk",
      "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "aufrufe": 5
     },
     {
@@ -308,19 +308,15 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Adam-Johnson-How-to-Sell-a-Genocide",
-     "aufrufe": 3
+     "pfad": "/DenkerVita/Hans-Maggi",
+     "aufrufe": 4
     },
     {
-     "pfad": "/Kultur/Hans-Maggi-Sokotra",
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "aufrufe": 3
     },
     {
@@ -328,12 +324,12 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "pfad": "/Kultur/Hans-Maggi-Sokotra",
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Andreas-Bartels",
-     "aufrufe": 2
+     "pfad": "/Zeitgeist/Adam-Johnson-How-to-Sell-a-Genocide",
+     "aufrufe": 3
     },
     {
      "pfad": "/DenkerVita/Arnd-Henze",
@@ -360,11 +356,11 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
+     "pfad": "/DenkerVita/Joan-Kinyua",
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Joan-Kinyua",
+     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
      "aufrufe": 2
     },
     {
@@ -376,11 +372,15 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Judith-Mangelsdorf",
+     "pfad": "/DenkerVita/Freddy-Leppin",
      "aufrufe": 2
     },
     {
      "pfad": "/Zeitgeist/Ami-Ayalon-Wir-haben-den-Krieg-gewonnen",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Judith-Mangelsdorf",
      "aufrufe": 2
     },
     {
@@ -392,12 +392,8 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Freddy-Leppin",
+     "pfad": "/DenkerVita/Andreas-Bartels",
      "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "aufrufe": 1
     },
     {
      "pfad": "/Zeitgeist/Der-Dara-Merz-72-Stunden-Arbeitswoche",
@@ -485,6 +481,10 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Christine-Braehler",
      "aufrufe": 1
     }
    ]
