@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **10.10.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Drei offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
 > **10.10.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
 >
 > Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
 
-> **09.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> → *8 weitere in* [[Panorama]]
+> → *9 weitere in* [[Panorama]]
 
 ### Gedanken
 
