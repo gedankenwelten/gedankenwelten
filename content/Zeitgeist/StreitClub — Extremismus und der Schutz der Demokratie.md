@@ -399,6 +399,11 @@ Kazims Misstrauen gegen den Verfassungsschutz als Kronzeugen kehrt im Presseclub
 
 Quents voller Kühlschrank heißt bei Kowalczuk der Grundirrtum der Einheit: Wer Demokratie über Wohlstand verspricht, hat nichts in der Hand, wenn der Wohlstand ausbleibt oder nicht ankommt.
 
+### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
+
+Im selben Jahr, in dem Sachsen-Anhalt sich die Antifaschismus-Klausel gab, erklärte im selben Landtag ein AfD-Abgeordneter den Anschlag von Halle zum unpolitischen Amoklauf. Sechs Jahre später ist er Vizepräsident des Landtags.
+
+
 ---
 
 ## Weiterdenken

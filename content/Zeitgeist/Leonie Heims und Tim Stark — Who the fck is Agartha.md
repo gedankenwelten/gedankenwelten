@@ -219,6 +219,11 @@ Beide Notes ringen mit der Medienverantwortung von zwei Seiten: Staiy prangert d
 
 Das Panorama zieht die lange Linie hinter dem Agartha-Fall: Vom OK-Zeichen über die Swastika bis zum Rosa Winkel zeigt es, wie Zeichen gekapert — und zurückerobert — werden. Agarthas „plausible deniability" und die Ironie als Schutzschild sind der aktuelle Meme-Fall desselben Musters, das „Gekaperte Zeichen" beschreibt: Sichtbarkeit durch Provokation kippt die öffentliche Lesart, und die Last tragen die Arglosen.
 
+### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
+
+Dass eine Tat wie ein Spiel aussieht, macht sie nicht unpolitisch. Genau dieses Argument benutzte Tillschneider 2020, als er den Anschlag von Halle zur „Ego-Shooter“-Sequenz eines Verwirrten erklärte — die Verpackung als Beweis, dass kein Inhalt drin war.
+
+
 ---
 
 ## Weiterdenken

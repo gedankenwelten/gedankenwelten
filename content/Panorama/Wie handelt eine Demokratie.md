@@ -327,6 +327,9 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 
 ## Verbindungen
 
+### → [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
+„Mit wem fängt eine Demokratie neu an?“ fragt nach dem Beschweigen nach 1945; das Schwester-Panorama fragt, was eine gewählte Mehrheit heute an der Erinnerung ändern darf.
+
 ### → [[Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 
 Der Stamm. Er fragt, wer entscheiden darf, Gewählte, Geloste oder alle, und wer zum Demos gehört. Dieser Ast fragt, wie aus der Entscheidung eine Tat wird. Das Los und die Bürgerräte stehen in beiden, dort als Frage der Legitimität, hier als Frage der Wirkung.

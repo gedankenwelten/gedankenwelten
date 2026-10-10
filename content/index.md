@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
-> → *10 weitere in* [[Panorama]]
+> → *11 weitere in* [[Panorama]]
 
 ### Gedanken
 
