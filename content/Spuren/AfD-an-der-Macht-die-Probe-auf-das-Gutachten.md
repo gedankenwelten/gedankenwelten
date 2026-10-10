@@ -411,6 +411,10 @@ Das Gegenstück in derselben Bauweise: eine Partei, gemessen am Vorwurf gegen si
 
 Die Wahlnachlese vom 21.09.2026 hält das Magdeburger Patt fest: Siegmund braucht das BSW, und Jana Hensel sieht Wagenknecht als „heimliche Ministerpräsidentin“. Der Moment, bevor die Spur womöglich die Ebene der Landesregierung erreicht.
 
+### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
+
+Am 09.10.2026 drohte ein AfD-Lokalpolitiker mit gestrichenen Fördergeldern und einer „geänderten Gedenkkultur“, nachdem jüdische Studierende dem Landtagsvizepräsidenten Tillschneider den Zutritt zum Halle-Gedenken verwehrt hatten; am selben Tag ging die Opfer-Erzählung als amtliche Landtags-Pressemitteilung hinaus. Eine Ankündigung und ein Amtsgebrauch, noch keine Maßnahme.
+
 ## Quellen
 
 - [GFF — Pressemitteilung zum Gutachten, 25.06.2026](https://freiheitsrechte.org/ueber-die-gff/presse/pressemitteilungen-der-gesellschaft-fur-freiheitsrechte/afd-ist-nachweislich-verfassungswidrig-gesellschaft-fuer-freiheitsrechte-stellt-nach-einem-jahr-arbeit-umfassendes-wissenschaftliches-gutachten-vor) · [afd-gutachten.de (Volltext)](https://afd-gutachten.de/)

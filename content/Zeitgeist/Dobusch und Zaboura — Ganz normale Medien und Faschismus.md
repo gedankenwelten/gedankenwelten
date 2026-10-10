@@ -194,6 +194,11 @@ Was Dobusch/Zaboura strukturell als „Performing Balance by Practicing Bias“ 
 
 Laschyk zieht aus der Kritik an falscher Balance die offene Parteinahme. Der Faktencheck dort zeigt den Preis: Belege, die der eigenen Geschichte widersprechen, fallen leichter heraus.
 
+### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
+
+Wie ein Wort die Bewertung verschiebt, zeigt die Pressemitteilung zum Halle-Gedenken 2026, die bis heute von „Amoklauf“ spricht — und die der Landtag mit Landeswappen verschickte.
+
+
 ---
 
 ## Weiterdenken

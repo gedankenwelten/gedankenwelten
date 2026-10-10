@@ -42,6 +42,8 @@ Arendt sah in Eichmann einen Mann ohne Tiefe, der nicht hasste, sondern funktion
 
 Ob damit auch der Begriff fällt, ist offen. Richard Wolin hält ihn für erledigt ([Jewish Review of Books, 2014](https://jewishreviewofbooks.com/articles/1106/the-banality-of-evil-the-demise-of-a-legend/)). Seyla Benhabib und Richard Bernstein lesen Arendt genauer: Gedankenlosigkeit meine nicht fehlende Überzeugung, sondern die Unfähigkeit, vom Standpunkt eines anderen aus zu denken, und die sei mit Fanatismus vereinbar ([Benhabib, NYT 2014](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2014/09/21/whos-on-trial-eichmann-or-anrendt/); [Bernstein 2010, doi:10.5422/fso/9780823230754.003.0012](https://doi.org/10.5422/fso/9780823230754.003.0012)). Christopher Browning fasst den verbreiteten Kompromiss so: Arendt habe ein wichtiges Konzept erfasst, aber am falschen Beispiel. Wie viel Überzeugung in der Masse der Täter steckte, ist bis heute umstritten: Michael Mann fand unter 1.581 Täterbiografien zwei Drittel langjährige Nationalsozialisten, die Überzeugtesten auf den höheren Rängen ([Mann 2000, doi:10.1093/hgs/14.3.331](https://doi.org/10.1093/hgs/14.3.331)), und Felix Römer in amerikanischen Gefangenenakten von 1944 über sechzig Prozent Hitlergläubige quer durch alle Milieus ([Römer 2013, doi:10.1177/0022009412461815](https://doi.org/10.1177/0022009412461815)); Browning hält dagegen, dass sein Bataillon 101 aus kaum geschulten Eingezogenen bestand und trotzdem eines der mörderischsten wurde ([Browning, NYRB 2025](https://www.nybooks.com/articles/2025/06/26/they-were-ordinary-men/)). Die Täterforschung seit Brownings *Ganz normale Männer* (1992), Harald Welzers *Täter* (2005) und Stefan Kühls *Ganz normale Organisationen* (2014) findet bei den vielen meist weder reines Funktionieren noch reine Ideologie, sondern einen neuen moralischen Rahmen, in dem das Töten als notwendig oder sogar anständig galt.
 
+Für Täter der Gegenwart, die allein handeln, wird die Frage oft mit „krank“ beantwortet. Lone Actors sind tatsächlich häufiger psychisch krank als Gruppentäter, 31,9 gegen 3,4 Prozent ([Corner & Gill 2015, doi:10.1037/lhb0000102](https://doi.org/10.1037/lhb0000102)). Über alle Terroristen hinweg liegt die Rate aber nicht über der der Bevölkerung ([Sarma, Carthy & Cox 2022, Meta-Analyse, doi:10.1002/cl2.1268](https://doi.org/10.1002/cl2.1268)), und Krankheit und Überzeugung schließen sich nicht aus. Fast immer hatten diese Täter Kontakt zu einem Milieu, offline oder online ([Schuurman u. a. 2017, doi:10.1080/1057610X.2017.1419554](https://doi.org/10.1080/1057610X.2017.1419554)). Seit Christchurch, Poway, El Paso und Halle zitieren sie einander in Manifesten und Livestreams wie in einem eigenen Genre ([Kupper u. a. 2022](https://curis.ku.dk/ws/portalfiles/portal/336131815/kupper_et_al.pdf)). Wer einen solchen Täter „geistig verwirrt“ nennt, beantwortet die Frage dieses Abschnitts darum nicht nur — er entscheidet damit auch, ob eine Ideologie mitverhandelt wird.
+
 **Die Stimmen**
 
 - **[[Hannah Arendt — Die Banalität des Bösen#Die Banalität des Bösen — das Kernkonzept|Hannah Arendt]]:** Das Böse braucht keinen bösen Willen; es genügt, nicht mehr vom Standpunkt eines anderen aus zu denken, und dann wird ein pflichtbewusster Beamter zum Verwaltungsmassenmörder.
@@ -53,8 +55,9 @@ Ob damit auch der Begriff fällt, ist offen. Richard Wolin hält ihn für erledi
 - **[[Götz Aly — Wie konnte das geschehen#Die Kernfrage — und warum sie uns heute betrifft|Götz Aly]]:** Die Mehrheit der Deutschen glaubte Hitler weder die Weltanschauung noch den Fanatismus; sie wurde durch Interessen und gezielte Einbeziehung gewonnen.
 - **[[Marcant und Eichi — Ausstieg aus der Neonazi-Szene#Bomberjacke statt Weltbild|Eichi]]:** Die politische Richtung habe ihn gar nicht interessiert, nur die Jungs nicht zu enttäuschen — und doch besteht er darauf, selbst gewählt zu haben.
 
-<details><summary>Weitere Stimmen (5)</summary>
+<details><summary>Weitere Stimmen (6)</summary>
 
+- **[[Bartunek — Tillschneider vor der Synagoge in Halle#Einzeltäter oder Netzwerk?|Hans-Thomas Tillschneider]]:** Der Attentäter von Halle sei ein „geistig verwirrter Einzeltäter“ ohne politische Tat gewesen, ein gescheiterter junger Mann im Ego-Shooter-Modus — obwohl er im selben Satz das Motiv nennt, das er ihm abspricht, und der Gutachter keinen Wahn fand.
 - **[[Hannah Arendt — Denken ohne Geländer#2. Das radikal Böse — und die Banalität des Bösen|Hannah Arendt]]:** Der Weg vom „radikal Bösen“ der Totalitarismus-Studie zur Banalität verschärft die These: Es braucht keine Monster.
 - **[[Erich Fromm — Psychoanalyse des Faschismus#Der autoritäre Charakter Sadismus und Masochismus|Erich Fromm]]:** Der Wunsch, zu beherrschen und sich zu unterwerfen, ist eine Charakterstruktur, die erst bestimmte Umstände wecken.
 - **[[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung#Die Täter Rädchen, nicht Bestien|Jens-Christian Wagner]]:** Die meisten Lager-Täter waren funktionierende Rädchen, die Brutalen die Ausnahme — und doch hielten sie sich mit Himmler für „anständig geblieben“.
@@ -149,10 +152,14 @@ Auch das kollektive Nein hat zwei Gesichter. Im März 1943 hielten Abgeordnete u
 |---|---|---|
 | 10.10.2026 | [[Hannah Arendt — Die Banalität des Bösen#Nachbesprechung|Hannah Arendt — Die Banalität des Bösen]] | Gründungsnote. Gedankenlos oder überzeugt: Stangneth, Cesarani, Lozowick, Wolin, Benhabib, Bernstein, Browning, Welzer, Kühl · Gehorsam oder Gruppe: Burger 2009, Doliński 2017, Meta-Milgram 2014, Haslam/Reicher, Perry, Caspar 2016 |
 | 10.10.2026 | [[Harald Welzer — Toetungsarbeit#Nachbesprechung|Harald Welzer — Tötungsarbeit]] | Gedankenlos oder überzeugt: Römer 2013, Mann 2000, Knox, Neitzel 2013, Browning 2025, Westermann 2016, Leader Maynard 2014 · Welzer als Kernstimme in „Gehorsam, Gruppe oder Gelegenheit?“ |
+| 10.10.2026 | [[Bartunek — Tillschneider vor der Synagoge in Halle#Nachbesprechung|Bartunek — Tillschneider vor der Synagoge in Halle]] | Gedankenlos oder überzeugt, für Täter der Gegenwart: Corner & Gill 2015, Gill/Horgan/Deckert 2014, Schuurman 2017, Sarma 2022 (Meta-Analyse), Kupper/Cotti/Meloy 2023 (Hanau), Kupper u. a. 2022, Macklin 2019, Koehler 2019, Leygraf-Gutachten und Urteil OLG Naumburg · Tillschneider als Gegenstimme: wem die Diagnose „verwirrt“ nützt |
 
 ---
 
 ## Verbindungen
+
+### → [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
+Hier die Frage, wie Menschen zu Tätern werden, dort, wie ein Land sich an Täter und Opfer erinnert — und wer darüber bestimmt. Welzers Familiengedächtnis steht in beiden.
 
 ### → [[Panorama/Wie kommt man aus der rechten Szene wieder heraus|Wie kommt man aus der rechten Szene wieder heraus?]]
 Das Nachbar-Panorama fragt, wie man hineingerät und wieder herauskommt; seine Aussteiger stehen hier als Zeugen dafür, wie wenig Weltbild es zum Mitmachen braucht.

@@ -274,3 +274,7 @@ Blom liefert das historische Muster zu Wagners Arbeit: Vermeidungshaltungen wie 
 ### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
 
 Wagners Entlastungserzählungen haben bei Safferling ihre Akten: Spruchkammern, die sich „wechselseitig unglaublich viel verziehen“, ein Justizministerium mit 77 Prozent ehemaligen NSDAP-Mitgliedern in der Führung und die kalte Verjährung von 1968.
+
+### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
+
+Wagners leiseres Szenario hat in Halle einen ersten Wortlaut: Ein AfD-Lokalpolitiker kündigt gestrichene Fördergelder und eine „geänderte Gedenkkultur“ an, nachdem jüdische Studierende Tillschneider das Gedenken verwehrt hatten — und das Regierungsprogramm nennt die Erinnerungskultur eine „Verewigung eines Schuldkomplexes“.

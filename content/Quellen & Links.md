@@ -5092,3 +5092,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Gespräch** | [Gregor Gysi und Harald Welzer — „Missverstehen Sie mich richtig“](https://www.youtube.com/watch?v=4132YpLiF-Q) (Berliner Distel, 16.10.2022; verwendet: Minute 32–58) |
 | **Notiz** | [[Denker/Harald Welzer — Toetungsarbeit]] |
 | **Transkripte** | `Gedankenwelten/Transkripte/Welzer_Toetungsarbeit_VWI_2007_Transkript.txt` · `Gedankenwelten/Transkripte/Welzer_Gysi_Missverstehen_Transkript.txt` (YouTube-Automatikuntertitel) |
+
+
+## Stephan Bartunek — Tillschneider vor der Synagoge in Halle
+
+| | |
+|---|---|
+| **Video** | [Ulrich Siegmunds AfD-Mann Tillschneider wird abgewiesen — jetzt drohen sie der jüdischen Gemeinde!](https://www.youtube.com/watch?v=uj0JJU0XOIQ) (Oida, Bartunek!, 10.10.2026) |
+| **Primärdokument** | [Dr. H.-Th. Tillschneider: Der Amoklauf von Halle — Eine Wahnsinnstat, keine politische Tat!](https://www.youtube.com/watch?v=WYjHrmbeFBo) (Landtagsrede 15.10.2020, AfD-Fraktion Sachsen-Anhalt) |
+| **Notiz** | [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Bartunek_Tillschneider_Synagoge_Halle_Transkript.txt` · `Gedankenwelten/Transkripte/Tillschneider_Landtagsrede_Halle_2020_Transkript.txt` (YouTube-Automatikuntertitel) |

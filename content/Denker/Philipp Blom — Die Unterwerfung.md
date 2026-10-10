@@ -438,6 +438,11 @@ Drei Jahre später sitzt Blom beim STANDARD und hat sich entschieden: Social Med
 
 ### → [[DenkerVita/Philipp Blom|Philipp Blom — DenkerVita]]
 
+### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
+
+Wenn die Prägung den Träger wechselt, wird der Ritus zum Kampfplatz. In Halle stritten 2026 Studierende und ein AfD-Landtagsvize um den Zutritt zum Gedenken, und ein AfD-Politiker drohte, die Gedenkkultur über Fördergelder zu „ändern“.
+
+
 ---
 
 ## Weiterdenken

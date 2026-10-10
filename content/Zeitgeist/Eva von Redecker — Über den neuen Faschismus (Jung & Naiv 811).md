@@ -377,3 +377,6 @@ Ein halbes Jahr später auf derselben Bank: Celikates übernimmt Redeckers Phant
 
 Dath kritisiert mit Sophia Rosenfeld die Freiheit als Auswahl zwischen Waren — eine Stufe vor Redeckers gekapertem Eigentumsbegriff.
 
+### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
+
+Was Redecker aus dem Bekenntnis des Halle-Attentäters herausliest, erklärte ein AfD-Abgeordneter ein Jahr später im Landtag zum unpolitischen „Amoklauf“ — und nannte dabei die Prämissen selbst: Juden, Geburtenrate, Masseneinwanderung. Sieben Jahre nach der Tat verwehrten ihm jüdische Studierende das Gedenken.

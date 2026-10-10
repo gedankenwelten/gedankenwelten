@@ -267,3 +267,7 @@ Dobusch/Zaboura erklären den journalistischen Transmissionsriemen, durch den GR
 ### → [[Zeitgeist/Cathryn Cluever Ashbrook - Der amerikanische Weckruf]]
 
 Von der Ideologie zur Mechanik: Clüver Ashbrook zeigt, wie die von Kendi beschriebene Wahlautokratie handwerklich vollzogen wird — Wahlkreiszuschnitte in Texas, Druck auf Briefwahl und Poststempel, ein mitspielender Supreme Court.
+
+### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
+
+Kendis Reihe hat in Deutschland ein Glied, das eine Partei ausdrücklich aus ihr herauslösen will: Halle 2019, im Landtag zum „Amoklauf“ eines „Einzeltäters“ erklärt, obwohl der Redner das Austausch-Motiv im selben Atemzug benennt.

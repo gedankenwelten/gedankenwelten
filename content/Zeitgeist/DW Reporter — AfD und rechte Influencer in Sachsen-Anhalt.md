@@ -336,6 +336,11 @@ Nach der Wahl berichtet Marina Kormbaki, Siegmunds Reden in Merseburg und Schwer
 
 Was Cedrick erbt, ist der Streitpunkt beider Bücher: für Oschmann eine Kränkung, die weitererzählt wird, weil sie andauert, für Kowalczuk eine Erzählung vom Nicht-gefragt-Werden, gegen die schon der 18. März 1990 spricht.
 
+### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
+
+Zwei Zungen gibt es auch im Umgang mit Toten. Derselbe Tillschneider nennt den Anschlag von Halle seit dem Tattag einen „Amoklauf“; als er 2026 als Landtagsvize zum Gedenken will und abgewiesen wird, macht eine Pressemitteilung mit Landeswappen ihn zum Opfer.
+
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
