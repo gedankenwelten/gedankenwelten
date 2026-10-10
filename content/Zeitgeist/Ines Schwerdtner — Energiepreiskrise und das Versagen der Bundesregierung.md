@@ -23,6 +23,8 @@ Quelle: [Ines Schwerdtner Entlarvt Merz & Die Heuchelei Der Politik!](https://ww
 
 > [!info] Wer spricht?
 > **Ines Schwerdtner** — Co-Vorsitzende der Partei Die Linke (seit Oktober 2024, gemeinsam mit Jan van Aken), seit 2025 direkt gewähltes Mitglied des Bundestags für Berlin-Lichtenberg. Zuvor Chefredakteurin der deutschen Ausgabe des sozialistischen Magazins *Jacobin* (2019–2023). Demokratische Sozialistin, Fokus auf soziale Ungleichheit, Umverteilung und Klassenpolitik. Steht für eine Linke, die sich klar von Ampel-Sozialdemokratie und CDU-Establishment abgrenzt.
+>
+> → [[DenkerVita/Ines Schwerdtner|DenkerVita]]
 
 > [!quote] Kernthese
 > *„Die Bundesregierung kann den Krieg nicht als völkerrechtswidrig anerkennen — und kann deswegen auch nicht die wirtschaftlichen Folgen in ihrem realen Ausmaß benennen. Diese Realitätsverleugnung ist das eigentliche Problem."*
@@ -216,3 +218,7 @@ Felix zeigt konkret, welche Technologie-Entscheidungen falsch getroffen werden (
 ### → [[Zeitgeist/Andreas Loeschel — Strom NEU DENKEN]]
 
 Löschel diagnostiziert dasselbe Muster — reaktive Einzelmaßnahmen destabilisieren Erwartungen —, zieht aber die marktwirtschaftliche Gegenkonsequenz: verlässliche Preissignale statt Übergewinnsteuer und Preisbremse. Der produktivste Widerspruch zu Schwerdtners Interventionslogik.
+
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Auf Webers Buchpremiere erzählt Schwerdtner, woher diese Forderungen kommen: Weber schlug den Gaspreisdeckel vor, bevor der Schock kam, und wurde von der eigenen Zunft dafür verspottet. Was hier als Programm der Linken steht, ist dort als Theorie ausgearbeitet: Der Deckel kauft die Zeit für den Umbau.

@@ -422,6 +422,10 @@ Die Forschung zu Celikates' Behauptungen: dass man am Ende gleich das Original w
 
 Şeyda Kurts „Militarisierung nach innen“ ist seine These von der Gewalt, die nach innen zurückkehrt — verlegt nach Köln-Kalk.
 
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Celikates beschreibt, wie soziale Konflikte kulturell umcodiert werden; Weber erzählt den Mechanismus von innen. Wem man jahrzehntelang sagte, sein Wert bemesse sich am Markt, dem bietet die Rechte einen Wert ohne Markt: weiß und deutsch zu sein. Beide wollen dort anfangen, wo Kapitalismuskritik konkret wird, bei der Daseinsvorsorge.
+
 ---
 
 ## Weiterdenken

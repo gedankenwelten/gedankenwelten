@@ -243,6 +243,9 @@ Butterwegge dokumentiert empirisch, was Brown theoretisiert: Die Prekarisierung 
 
 Konträre Antworten auf dieselbe Diagnose: Gabriel glaubt, der Kapitalismus sei durch Ethikpflichten und "true profit" reformierbar — die Demokratie könne sich den Markt durch moralische Regulation zurückerobern. Brown würde das als kategorischen Irrtum lesen: Wenn das Marktmodell bereits die Vernunftform selbst durchdrungen hat, kann Ethik den Schaden nicht begrenzen, weil auch "Ethik" in Marktsprache übersetzt wird (ESG, Impact Investing).
 
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Brown beschreibt die stille Revolution der Neoliberalen der Vierzigerjahre; Weber geht zu ihrem Gründungstext zurück, Hayeks *Weg zur Knechtschaft*, der nur die Wahl ließ, sich dem Markt oder anderen Menschen unterzuordnen. Brown zeigt die Spirale des kaputtgesparten Staates, Weber setzt den Gegenbeweis im Kleinen dagegen: einen Staat, der wieder sichtbar handelt.
 
 ---
 

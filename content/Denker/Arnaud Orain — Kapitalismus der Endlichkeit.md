@@ -330,6 +330,10 @@ Zwei Fünfhundert-Jahre-Bögen mit derselben niederländischen Fallhöhe und unv
 
 Die materielle Unterfütterung des Pendels und zugleich sein Gegenprogramm. Orains Endlichkeit ist eine Weltanschauung, die den Griff auslöst; Herrmanns ist eine Energiebilanz, die unabhängig davon gilt — und sie zieht daraus das gerechte Verteilen des Knappen nach britischem Vorbild 1940 statt der Landnahme. Zwischen beiden liegt die unangenehmste Frage der Debatte: Warum sollten Akteure, die die Grenzen längst begriffen haben, sich für die Rationierung entscheiden?
 
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Orain sieht die Welt in eine Epoche der Nullsumme kippen, in der Monopole und Zölle den Wettbewerb ersetzen. Weber beschreibt dieselbe Konzentration, vier Händler mit bis zu neun Zehnteln des Agrarhandels, und sucht einen dritten Weg zwischen Freihandel und Trumps Zöllen: öffentliche, multilaterale Pufferlager. Ob dieser Weg in einer Welt der Endlichkeit noch offensteht, fragen sich die beiden Notes gegenseitig.
+
 ---
 
 ## Weiterdenken

@@ -314,3 +314,6 @@ Krebs erzählt Frickes Befund als deutsche Chronologie: drei AfD-Schübe nach dr
 
 Tooze feiert das US-Paket von 2021 als vergessenen Erfolg; die Inflation, die er „eingepreist“ nennt, ist Frickes Ohnmachtserfahrung.
 
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Fricke beruft sich für den Inflationsschock auf Weber, in ihrem Buch wird aus der Diagnose ein Programm. Wo Fricke fragt, was Menschen erleben müssen, um Kontrolle zurückzugewinnen, antwortet sie mit Handlungsfähigkeit, die man sehen kann, vom geräumten Gehweg bis zum Preisdeckel im Schock.

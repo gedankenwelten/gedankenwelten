@@ -342,6 +342,10 @@ Chaimowicz erkennt eine Denkfigur wieder: Die Wähler hätten nur wegen einer Sa
 ### → [[Gedanken/Die elastische Brandmauer — Was sein Dogma abgelegt hat, darf rein|Die elastische Brandmauer]]
 Eine schmale, aber echte Reibung. Myrrhe hängt an ihre Fairness-Regel den Satz „Die Rechten werden es ausschlachten“, und genau dieses Kriterium, *könnte die andere Seite es missbrauchen?*, weist die Gedanken-Note als Maßstab für ein Urteil ausdrücklich zurück.
 
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Hier fürchtet man, was eine enttäuschte Hoffnung mit Berlin macht. Auf Webers Podium sagt Schwerdtner denselben Satz von der anderen Seite: Versagen wir, werden die Rechten in fünf Jahren stärker. Darum sei die Vergesellschaftung auch eine Frage der Selbstwirksamkeit, nicht nur der Miete.
+
 ---
 
 ## Weiterdenken

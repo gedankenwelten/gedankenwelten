@@ -1148,3 +1148,15 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Lars Wienand
 **Status:** ✓ Vollanalyse → [[DenkerVita/Lars Wienand]]
+
+## Isabella Weber
+**Status:** ✓ Vollanalyse → [[DenkerVita/Isabella Weber]]
+
+## Andreas Audretsch
+**Status:** ✓ Vollanalyse → [[DenkerVita/Andreas Audretsch]]
+
+## Tim Klüssendorf
+**Status:** ✓ Vollanalyse → [[DenkerVita/Tim Kluessendorf]]
+
+## Ines Schwerdtner
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ines Schwerdtner]]

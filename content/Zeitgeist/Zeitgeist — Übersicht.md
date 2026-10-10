@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*336 Notes — automatisch generiert · nach Thema sortiert*
+*337 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -287,6 +287,7 @@ Jede Note folgt einer eigenen Struktur:
 ### Geopolitik & Krieg
 
 - [[Zeitgeist/Die Neuen Zwanziger — Salon Lektueren Januar 2026|Die Neuen Zwanziger — Salon Lektüren Januar 2026]]
+- [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]] — Hormus schließt, und Asien verbietet und ermöglicht zugleich, China füllt die Tanks, Deutschland zahlt einen Tankrabatt. Ein Ökonom sieht die Wende kommen, auch gegen die eigene Regierung.
 - [[Zeitgeist/Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv|Elif Eralp — Berlin-Wahl 2026 bei Jung & Naiv]] — Siebzehn Tage vor dem Wahlsieg sagt Elif Eralp bei Tilo Jung, was sie will, und verweigert die eine Zahl, an der man sie messen könnte. Ein Protokoll des Versprechens, bevor es Macht wird.
 - [[Zeitgeist/Konstantin Flemig — Reaktion auf Precht, Russland und die Grenzen der Expertise|Flemig reagiert auf Precht — Russland, „nichts zu holen“ und die Grenzen der Expertise]] — Ein Kriegsreporter widerlegt einen Philosophen — und führt dabei unfreiwillig vor, dass die eigentliche Frage nicht lautet, wer recht hat, sondern wann man über etwas schweigen sollte.
 - [[Zeitgeist/WDR Europaforum — Frieden schaffen mit immer mehr Waffen|Frieden schaffen mit immer mehr Waffen?]] — Drei Menschen streiten über Aufrüstung — und der Streit dreht sich nicht um Zahlen, sondern darum, wie weit man in die Zukunft rechnen darf, wenn heute Morgen die Sirenen gingen.

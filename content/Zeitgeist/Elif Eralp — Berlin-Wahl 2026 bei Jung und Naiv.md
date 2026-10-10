@@ -456,6 +456,10 @@ Wenige Tage nach der Wahl stellt Krebs der Rechnung des Landesrechnungshofs eine
 ### → [[Presseclub — Brandmauer nach links]]
 Zwei Wochen nach dem Wahlsieg: Im ARD-Presseclub geht es um das, was hier noch Versprechen war. Anke Myrrhe nimmt Eralp die Abgrenzung persönlich ab, bezweifelt aber ihre Macht in der Partei, weil die Linke gewonnen habe, *weil* die radikalen Kräfte da sind. Dazu ihre Mitgliedschaft in der Roten Hilfe und die Vergesellschaftung, die man in Verhandlungen „abräumen“ könne.
 
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Weber leitet Artikel 15 aus dem antifaschistischen Gründungskonsens her und stützt sich auf die IMK-Studie mit 13,5 Milliarden; auf demselben Podium räumt Audretsch ein, was Eralp selbst sagt: Es wird lange dauern und bis nach Karlsruhe gehen. Der Abend liefert den Plan B dazu, einen Mietendeckel für die Landeseigenen und harte Auflagen für Konzerne über ein Wohnungswirtschaftsgesetz.
+
 ---
 
 ## Weiterdenken

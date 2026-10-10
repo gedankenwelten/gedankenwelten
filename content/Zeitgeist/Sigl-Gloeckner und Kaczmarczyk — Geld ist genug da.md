@@ -338,6 +338,10 @@ Am Tag danach streiten Göpel und Mithu Sanyal, ob ein Sondervermögen ein „Kr
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“ und „Muss man sich Großzügigkeit leisten können?“.
 
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Kaczmarczyk erinnert an die Pufferlager, die der Globale Süden einst forderte; Weber führt sie auf Henry Wallace und Bretton Woods zurück und hat sie für die G20 neu durchgerechnet. An der Rüstungsausnahme der Schuldenbremse fürchten alle drei dieselbe Sparpolitik, die damit schon programmiert sei.
+
 ---
 
 ## Weiterdenken
