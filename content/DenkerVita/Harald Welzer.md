@@ -123,10 +123,15 @@ Zwei Antworten auf dieselbe Frage, wie gewöhnliche Deutsche zu Mittätern wurde
 
 Zur selben Zeit befragten beide Zeitzeugen des Nationalsozialismus: Welzer mit Moller und Tschuggnall drei Generationen deutscher Familien, Marks die Anhänger Hitlers selbst. Welzer fand, wie die Familien ihre Großeltern zu Opfern und Helden umerzählen, Marks die Scham, die unter ihrer Begeisterung lag.
 
+### → [[DenkerVita/Hannah Arendt|Hannah Arendt]]
+
+Die Täterforschung beginnt mit Arendts Eichmann und arbeitet sich an ihr ab. Wo Arendt Gedankenlosigkeit fand, fand Welzer Täter, die über ihre Moral nachdachten und ihr Gewissen am eigenen Leiden maßen; einig sind beide darin, dass die Täter keine Ungeheuer waren und die Arbeitsteilung die Verantwortung zerstreute.
+
 ---
 
 ## Cortex-Notes
 
+- [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]] — Vortrag am Wiener Wiesenthal Institut 2007 mit Diskussion, dazu das Gespräch mit Gregor Gysi 2022: Töten als Arbeit, Józefów, das Leiden als Alibi, *Opa war kein Nazi*, *Soldaten* und die Shifting Baselines
 - [[Zeitgeist/Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit]] — im Gespräch mit Barbara Bleisch, Leuphana Universität Lüneburg, Utopie-Konferenz 2026; Gegenwartsutopien, Großzügigkeit gegen die Verwertungslogik, die geschwundene Hoffnung
 - [[Zeitgeist/Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory|Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — ein Ausschnitt aus Welzers Gespräch bei *Hotel Matze* zur Wehrpflichtdebatte („in den Köpfen geht gar nichts vor“) und zu Trump als Diktator
 - [[Denker/Philipp Blom — Die Unterwerfung|Philipp Blom — Die Unterwerfung]] — Welzers *Opa war kein Nazi* als Beleg, dass das Familiengedächtnis die NS-Zeit falsch überliefert

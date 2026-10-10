@@ -340,6 +340,9 @@ Blom trägt also beim Befund und beim Zusammenhang, den er am Ende zieht: Wer Pl
 
 ## Verbindungen
 
+### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+Bloms Kette der Unterschriften ist Welzers Tötungsarbeit im Büroformat: Jeder Beteiligte kann sich seinen Anteil zurechtlegen — „ich habe ja nur den Lastwagen gefahren“.
+
 ### → [[Philipp Blom — Die Unterwerfung]]
 
 Das Gespräch von 2023 bei Jung & Naiv ist der Vorläufer, und neben ihm sieht man, wohin Blom sich bewegt hat. Beim Satz über Social Media und Demokratie wird aus „ich weiß echt nicht“ ein Nein. Aus dem „neuen Adel“ wird eine Grenze, 100 Millionen pro Kopf. Das Böckenförde-Diktum bekommt ein Bild, Schach gegen die Pistole. Die Kohle-Öl-Mechanik, mit der er dort die Entkopplung der Löhne erklärt, setzt er hier bei der Entwürdigung der Arbeiterklasse an. Bürgerräte und die Frist des „Nie wieder“ sind dort in der Nachbesprechung schon durchgearbeitet.

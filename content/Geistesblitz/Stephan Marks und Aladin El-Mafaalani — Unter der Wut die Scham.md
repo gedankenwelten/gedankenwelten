@@ -280,6 +280,9 @@ Zwei von Marks' Stützen tragen weniger. Cyrulniks „jedes fünfte oder sechste
 
 ## Verbindungen
 
+### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+In denselben Jahren wie Marks befragte Welzer drei Generationen deutscher Familien; wo Marks unter der Begeisterung die Scham findet, findet Welzer Situation, Kameradschaft und das Zurechtdenken — und beide eine Mehrheit, die kippt, ohne zu glauben.
+
 ### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
 
 Am Morgen des dritten Konferenztags erzählt El-Mafaalani dem Quartett von diesem Gespräch: ein Bildungssystem, das auf Großzügigkeit gebaut ist, würde Beschämungen verhindern, die ein Leben lang nachwirken. Dort fällt auch sein Satz von der „längsten Emotion“, den er hier selbst sagt und den Marks mit der Trauerarbeit beantwortet.

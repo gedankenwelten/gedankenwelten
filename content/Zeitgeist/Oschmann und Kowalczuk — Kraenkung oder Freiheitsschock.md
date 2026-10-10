@@ -295,7 +295,9 @@ Oschmanns „2 statt 20 Prozent“ bei den Stipendien [▶ 73:09](https://www.yo
 
 ## Faktencheck
 
-*Potsdam: Oschmann, Zeh und die Moderation*
+### Faktencheck Potsdam
+
+*Oschmann, Zeh und die Moderation*
 
 > [!success] Bestätigt, mit Einschränkung — Leipziger Autoritarismus-Studie 2024
 > **Oschmann** und **Elstermann** · [▶ 3:59](https://www.youtube.com/watch?v=QpMSpo3k5-k&t=239), [▶ 6:14](https://www.youtube.com/watch?v=QpMSpo3k5-k&t=374): Die Studie wurde am 13.11.2024 vorgestellt, einen Tag vor dem Gespräch, und die Kernzahlen stimmen. Der Idee der Demokratie stimmen 90,4 Prozent zu, ohne nennenswerten Ost-West-Unterschied, mit der Demokratie, wie sie funktioniert, sind 42,3 Prozent zufrieden. Im Westen stieg der Anteil mit geschlossen ausländerfeindlichem Weltbild von 12,6 auf 19,3 Prozent. Geglättet ist Oschmanns „im Osten nach wie vor etwas höher“: Mit dem Funktionieren der Demokratie sind im Osten 29,7 Prozent zufrieden, im Westen 46, im Osten der tiefste Wert seit 2006.
@@ -357,7 +359,9 @@ Oschmanns „2 statt 20 Prozent“ bei den Stipendien [▶ 73:09](https://www.yo
 > **Oschmann** und **Zeh**: Die Wahlbeteiligung lag 2024 in Sachsen, Thüringen und Brandenburg über 70 Prozent. Irland änderte das Abtreibungsrecht 2018 per Volksentscheid. Thatchers „There is no such thing as society“ stammt von 1987 (sie fügte an: *and there are families*). Großbritannien schuf 2018 ein Ministeramt gegen Einsamkeit, „Ich-AG“ war Unwort des Jahres 2002. Dass weniger Jüngere in Paaren leben, ist als Trend belegt (Deutschland: 60 Prozent der Erwachsenen leben als Paar zusammen, 1996 waren es 66).
 > Quelle: [Goerres zu den Landtagswahlen 2024](https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00082535/Goerres_Kommentar_Landtagswahlen_2024.pdf) · [Destatis, Paare 2023](https://www.destatis.de/DE/Presse/Pressemitteilungen/2023/12/PD23_464_12.html)
 
-*Halberstadt: Kowalczuk*
+### Faktencheck Halberstadt
+
+*Kowalczuk*
 
 > [!success] Bestätigt — AfD-Zahlen im Harz und bundesweit
 > **Kowalczuk** · [▶ 45:29](https://www.youtube.com/watch?v=OJKyJyCn5x4&t=2729): Im Wahlkreis Harz kam die AfD bei der Bundestagswahl 2025 auf 37,0, das BSW auf 11,8 Prozent, Christina Baum gewann das Direktmandat. Bundesweit erhielt die AfD rund 10,3 Millionen Zweitstimmen, Trump 77,3 Millionen, Harris 75,0. Kleinigkeit: In Presseauswertungen des Verfassungsschutz-Gutachtens ist Baum die am dritthäufigsten genannte Person, nach Höcke und Krah. Die absolute Mehrheit, die Tillschneider ankündigte, hat die AfD bei der Landtagswahl am 6.9.2026 mit 43,8 Prozent und 39 von 83 Sitzen knapp verfehlt.
