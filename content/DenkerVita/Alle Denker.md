@@ -68,6 +68,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Anke Myrrhe|Anke Myrrhe]]** — stellv. Chefredakteurin des *Tagesspiegels*, Autorin des Berlin-Newsletters *Checkpoint*; Chronistin der Berliner Landespolitik; nach der Berlin-Wahl 2026: Antisemitismus in Teilen der Linken, „gleiche Maßstäbe nach links und rechts“, die Angst vor der Enttäuschung eines unhaltbaren Mietversprechens
 
+**[[DenkerVita/Andreas Audretsch|Andreas Audretsch]]** — Grünen-Politiker und Fraktionsvize für Wirtschaft und Soziales, setzt der rechten Erzählung vom Kontrollverlust sichtbare Handlungsfähigkeit entgegen, von der Gaspreisbremse bis zur Mietenkrise in Neukölln
+
 ## B
 
 **[[DenkerVita/Lukas Baerfuss|Lukas Bärfuss]]** — Schweizer Schriftsteller, Dramatiker und Essayist (Georg-Büchner-Preis 2019); Autodidakt ohne Schulabschluss, als Jugendlicher obdachlos, schlug das Schulden-Erbe des Vaters aus — schreibt über Herkunft als Fessel, Erben als politischen Skandal und die Selbstgerechtigkeit der Schweiz
@@ -344,6 +346,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Claudia Kemfert|Claudia Kemfert]]** — Deutschlands bekannteste Energieökonomin (*1968; DIW Berlin, Leuphana Universität); rechnet vor, dass die Energiewende ökonomisch die vernünftigere Wahl ist — und zahlt dafür den Preis der öffentlichen Wissenschaftlerin: Beifall hier, organisierte Anfeindung dort
 
+**[[DenkerVita/Tim Kluessendorf|Tim Klüssendorf]]** — SPD-Generalsekretär und Volkswirt aus Lübeck, Parteilinker mit Vermögensabgabe, der Märkte per Ordnungspolitik statt Transfers zurückholen will
+
 ## L
 
 **[[DenkerVita/Thomas Laschyk|Thomas Laschyk]]** — Gründer, Chefredakteur und Geschäftsführer des Anti-Fake-News-Blogs Volksverpetzer (*1992, Augsburg; Literaturwissenschaftler); *Werbung für die Wahrheit* (2024), Petition „Prüft ein AfD-Verbot!“; These: Fake News siegen als Geschichten, darum braucht die Wahrheit Werbung, und weil Reichweite käuflich ist, wird Steuerpolitik zur Medienpolitik
@@ -577,6 +581,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Seyda Kurt|Şeyda Kurt]]** — Zärtlichkeit und Hass als politische Gefühle: Şeyda Kurt aus Köln-Kalk denkt die Liebe gegen den Kapitalismus und verteidigt die Unversöhnlichkeit, wo Gerechtigkeit fehlt.
 
+**[[DenkerVita/Ines Schwerdtner|Ines Schwerdtner]]** — Linken-Vorsitzende und frühere Jacobin-Chefredakteurin, die Antifaschismus als Wirtschaftspolitik für bezahlbares Leben buchstabiert
+
 ## T
 
 **[[DenkerVita/Tim Stark|Tim Stark]]** — Referent (kognitive Einflussnahme) im re:publica-26-Talk „Who the f#ck is Agartha?“; wie ironische Meme-Kulturen extremistische Inhalte kognitiv anschlussfähig machen
@@ -644,6 +650,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Wolfgang M. Schmitt|Wolfgang M. Schmitt]]** — Filmkritiker, YouTuber, Marxist; Die Filmanalyse, Wohlstand für Alle, Die Neuen Zwanziger; Ideologiekritische Filmanalyse, Kulturindustrie 2.0
 
 **[[DenkerVita/Wolfram Schultz|Wolfram Schultz]]** — Neurowissenschaftler, Professor Cambridge; Dopamin-Forschung, Reward Prediction Error als fundamentaler Lernmechanismus, Neuroökonomie; Brain Prize 2017, FRS
+
+**[[DenkerVita/Isabella Weber|Isabella Weber]]** — Ökonomin (UMass Amherst), Theoretikerin der Verkäuferinflation und strategischer Preiskontrollen, die Wirtschaftspolitik als Schutz der Demokratie gegen den Rechtsextremismus denkt
 
 ## X
 

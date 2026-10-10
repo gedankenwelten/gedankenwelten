@@ -348,6 +348,10 @@ Tooze erklärt das Scheitern des Heizungsgesetzes mit der Unzulänglichkeit des 
 
 Toozes Liste der Blockaden, von der Schuldenbremse bis zum Kohlekompromiss, ist ein Beitrag zur Frage des Panoramas, warum die Sachfrage stecken bleibt. Er fügt den Vetospielern der Politikwissenschaft einen Gedanken hinzu, der dort noch fehlt: Aufschieben ist Macht, und Progressive sollten sie als Sperrminorität ebenso nutzen. Die Forschung zur Konsensdemokratie, die dort steht, ist die stärkste empirische Antwort auf seine Kampfansage an den Konsens.
 
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Tooze verteidigt das Paket von 2021 und nennt die Inflation eingepreist; für Weber ist genau das der Preis, mit dem Trump zurückkam, weil niemand die Grundgüter schützte. Zwei Ökonomen, die dieselben Preisschocks gleich lesen und sich an einer Frage trennen: Nimmt man den Preis einer Mehrheitspolitik hin, oder deckelt man ihn?
+
 ---
 
 ## Weiterdenken

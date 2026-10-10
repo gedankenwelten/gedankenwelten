@@ -305,3 +305,7 @@ Krebs will die EZB nicht demokratisieren, aber ihre Unabhängigkeit „ein bissc
 ### → [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]]
 
 Wolfgang M. Schmitt nennt Schuldenregeln eine „Politik der Engherzigkeit“, die den Souverän einhegt, und wendet die These dann gegen das eigene Lager: Hält man es aus, wenn die Gegenseite ihre Ziele ebenso in die Verfassung schreibt wie man selbst den Klimaschutz?
+
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Weber nennt Hayeks *Weg zur Knechtschaft* eine antifaschistische Wirtschaftspolitik, die gescheitert ist; Mattei zeigt Liberale, die Mussolini applaudierten. War der Marktliberalismus je ein Bollwerk gegen den Faschismus? Darüber streiten die beiden Notes. Einig sind sie bei der Zinswaffe: Wer auf jeden Schock mit höheren Zinsen antwortet, verteuert die Investitionen, die aus der Krise führen.

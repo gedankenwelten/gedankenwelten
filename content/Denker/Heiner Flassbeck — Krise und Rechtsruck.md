@@ -308,6 +308,10 @@ Geteilte Diagnose, unvereinbare Therapie. Herrmann teilt Flassbecks Keynes und s
 
 Krebs teilt die Diagnose, dass der Rechtsruck eine Reaktion auf realen Verlust ist, nennt sich aber ausdrücklich keinen Keynesianer. Mehr Kredit allein ende in Krediten für Panzer, der Hebel liege beim Eigentum an Netzen, Wohnungen und Grundstoffen.
 
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Flassbeck führt den Rechtsruck auf Löhne und Sparauflagen zurück, Weber auf die Preise der Dinge, ohne die niemand leben kann, und auf die Macht derer, die sie setzen. Beiden hält man denselben Einwand entgegen, auf Webers Podium mit Thomas Mann: Wahlen seien nie rein wirtschaftlich zu erklären. Weber antwortet, sie behaupte keine Monokausalität, nur eine Verantwortung ihres Fachs.
+
 ---
 
 ## Weiterführend

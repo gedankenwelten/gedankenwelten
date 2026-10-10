@@ -32,6 +32,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Gutachten in zwei Fassungen, ein Plan wie ein Konzernpapier, eine Ministerin aus dem Gasnetz. Greenpeace liest die Akten von Reiches erstem Jahr, und die Akten widersprechen ihr.
 
+> **10.10.** — [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik|Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+>
+> Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht.
+
 > **09.10.** — [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformation]]
 >
 > Ein Reporter folgt Moskaus Fälscherwerkstatt seit 2022 und findet dabei sich selbst, samt einem ermordeten Bruder, den es nie gab. Vieles davon erreicht kaum jemanden. Gezählt wird trotzdem.
@@ -40,17 +44,21 @@ Die Gedankenwelten (luc)
 >
 > Wer schenkt, kann zurücknehmen, und wer beschenkt wird, schuldet Dank. Raúl Krauthausen fragt, wie eine Gesellschaft aussähe, in der Behinderte selbst großzügig sein können.
 
-> **08.10.** — [[Zeitgeist/Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Möglichkeit?]]
->
-> Was sich nicht rechnet, wird gestrichen: der lange Artikel, der ungeprüfte Beweis, die Gabe ohne Gegengabe. Dietmar Dath verteidigt die Verschwendung und fragt, welche Ordnung Großzügigkeit wirklich macht.
-
-> → *16 weitere in* [[Zeitgeist]]
+> → *17 weitere in* [[Zeitgeist]]
 
 ### Panorama
+
+> **10.10.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
+>
+> Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
 
 > **10.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **10.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
 
 > **10.10.** — [[Panorama/Forschung|Forschung]]
 >
@@ -60,15 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
 
-> **08.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
->
-> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
-
-> **08.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Vier offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, und die Stimmen, die sich an ihnen reiben.
-
-> → *7 weitere in* [[Panorama]]
+> → *8 weitere in* [[Panorama]]
 
 ### Spuren
 

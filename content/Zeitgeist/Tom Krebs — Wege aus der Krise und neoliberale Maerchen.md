@@ -424,6 +424,10 @@ Krebs vertritt den materiellen Kern zugespitzter als Hensel oder Flassbeck, er d
 
 Krebs fragt, wem die Netze gehören sollen; die Nachbesprechung dort fragt weiter, wem ein Netz dient, dessen Rendite eine Ministerin aus dem Netzgeschäft mitbestimmt. Und sie zeigt, dass auch der Verband *kommunaler* Unternehmen am Gas-Strang zog: Eigentum allein schützt nicht vor dem Eigeninteresse.
 
+### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
+
+Weber und Krebs haben gemeinsam gefragt, ob Preiskontrollen optimal sein können. Auf ihrer Buchpremiere stellt sie dieselbe Polanyi-Diagnose in einen älteren Rahmen, den antifaschistischen Gründungskonsens der Vierzigerjahre, und nennt den Weg radikalen Gradualismus statt geplanter Marktwirtschaft. Ihr Satz, nach der Gaspreisbremse habe die AfD stagniert, ist die Gegenprobe zu Krebs' erstem Schub, und die Nachbesprechung hier zeigt, warum sie noch offen ist.
+
 ---
 
 ## Weiterdenken

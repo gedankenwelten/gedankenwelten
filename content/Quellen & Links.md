@@ -5062,3 +5062,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Anlass** | [Mark Benecke & Ines — Eifersüchtige und täuschende KI](https://www.youtube.com/watch?v=EypeFFG4eNU) (04.10.2026, 37 min): nicht verwendet, ohne Quellen und in mehreren Punkten ungenau |
 | **Notiz** | [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]] |
 
+
+
+## Isabella Weber — Antifaschistische Wirtschaftspolitik (Buchpremiere)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Antifaschistische Wirtschaftspolitik — Buchpremiere und Diskussion mit Isabella M. Weber](https://www.youtube.com/watch?v=vdgvOei1em0) (Urania Berlin, 05.10.2026; Böll-, Ebert- und Rosa-Luxemburg-Stiftung mit Suhrkamp; mit Andreas Audretsch, Tim Klüssendorf, Ines Schwerdtner, Moderation Natascha Freundel) |
+| **Buch** | Isabella M. Weber: *Antifaschistische Wirtschaftspolitik* (Suhrkamp 2026) |
+| **Notiz** | [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Weber_Antifaschistische_Wirtschaftspolitik_Transkript.txt` (YouTube-Automatikuntertitel, deutsch; Sprecher aus dem Inhalt zugeordnet) |
