@@ -41,7 +41,7 @@ Im November 2024, eine Woche nach Trumps Wahl und dem Bruch der Ampel, saß er i
 | Titel | Jahr | Beschreibung |
 |---|---|---|
 | [Der Osten: eine westdeutsche Erfindung — Wie die Konstruktion des Ostens unsere Gesellschaft spaltet](https://www.genialokal.de/Suche/?q=oschmann+der+osten+eine+westdeutsche+erfindung) | 2023 | Ullstein, 224 S.; Taschenbuch 2024 mit neuem Vorwort. Die Streitschrift: Der Westen definiert sich seit über dreißig Jahren als Norm und den Osten als Abweichung, Medien, Politik, Wirtschaft und Wissenschaft sprechen aus westdeutscher Perspektive über ihn. *Spiegel*-Bestseller Platz 1. |
-| [Freiheit und Fremdheit: Kafkas Romane](https://www.genialokal.de/Suche/?q=oschmann+freiheit+und+fremdheit+kafka) | 2021 | Schwabe. Die drei Romane Kafkas, gelesen über das Spannungsfeld von Freiheit und Fremdheit, zwei Jahre vor dem Buch, das Oschmann bekannt machte. |
+| [Freiheit und Fremdheit: Kafkas Romane](https://www.genialokal.de/Suche/?q=oschmann+freiheit+und+fremdheit+kafka) | 2021 | Schwabe. Die drei Romane Kafkas, gelesen zwischen Freiheit und Fremdheit, zwei Jahre vor dem Buch, das Oschmann bekannt machte. |
 | [Friedrich Schiller](https://www.genialokal.de/Suche/?q=oschmann+friedrich+schiller) | 2009 | Böhlau/UTB. Einführung in Leben und Werk. |
 | [Bewegliche Dichtung — Sprachtheorie und Poetik bei Lessing, Schiller und Kleist](https://www.genialokal.de/Suche/?q=oschmann+bewegliche+dichtung) | 2007 | Fink. Die Habilitationsschrift. |
 | [Auszug aus der Innerlichkeit — Das literarische Werk Siegfried Kracauers](https://www.genialokal.de/Suche/?q=oschmann+auszug+aus+der+innerlichkeit) | 1999 | Winter. Die Dissertation, ausgezeichnet mit dem Promotionspreis der Universität Jena. |
