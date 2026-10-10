@@ -430,6 +430,10 @@ Celikates beschreibt, wie soziale Konflikte kulturell umcodiert werden; Weber er
 
 Neiman teilt Celikates' Befund vom instrumentalisierten Antisemitismus-Vorwurf und begründet ihn als Jüdin und israelische Staatsbürgerin. Auch bei ihr fehlen die Hamas und der 7. Oktober; die taz-Chefredakteurin widerspricht ihr dort, wo sie die Institutionen gegen Antisemitismus für wirkungslos hält.
 
+### → [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
+
+Den Weg, auf dem die Gewalt gegen die Rechtlosen nach innen wandert, beschrieb Arendt an den Staatenlosen der Zwischenkriegszeit.
+
 ---
 
 ## Weiterdenken

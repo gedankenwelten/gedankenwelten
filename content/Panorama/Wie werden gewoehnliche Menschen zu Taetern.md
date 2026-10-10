@@ -176,6 +176,10 @@ Die Frage, mit wem eine Demokratie neu anfängt, führt zu denselben Juristen un
 ### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 Die Herrschaft des Niemand in ihrer jüngsten Form: Wer trägt Verantwortung, wenn zwischen Beschluss und Folge ein Programm steht?
 
+### → [[Hannah Arendt — Zur Person]]
+
+Arendt verortet das Erschreckende von 1933 bei den Freunden, die sich aus eigenem Antrieb gleichschalteten: Zu Hitler fiel ihnen „was ein“.
+
 ---
 
 ## Weiterdenken

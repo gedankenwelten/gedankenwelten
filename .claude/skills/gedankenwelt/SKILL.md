@@ -778,7 +778,7 @@ Nach Faktencheck und Stimme, **vor** Cross-Linking — so kann Montaigne die Pan
      hinaus, wo trägt es, wo nicht (Yin-Yang — die Forschung darf ihm auch recht geben)
    - Quellen **inline** im Satz (MCP/RAG findet sie dort), nicht doppelt in `## Weiterführende Quellen`
    - endet je Thema mit `→ Weiter im Panorama: **[[<Panorama>#<Abschnitt>|<Frage>]]**, mit …`
-   - Umfang: die Note wächst um höchstens ein Drittel, nicht auf das Doppelte
+   - Umfang: keine feste Grenze (seit 10.10.2026) — so lang, wie die Themen tragen; was nur verwandt ist, wird verlinkt statt ausgebreitet
    - **Abgrenzung Faktencheck:** der prüft, *ob stimmt, was gesagt wurde*; die Nachbesprechung fragt, *was
      man darüber hinaus wissen kann*. Nichts doppelt — auf den Faktencheck verweisen statt ihn zu wiederholen.
 4. **Panorama speisen:** Die Stimme der neuen Note (ein Satz, Sprung auf den Abschnitt) in den passenden

@@ -384,6 +384,10 @@ Nach seiner gelebten Großzügigkeit gefragt, nennt Welzer sein Interesse an abg
 
 Krauthausens Recht auf Niederlagen ist eine Form der Aufmerksamkeit: dem anderen das Scheitern zutrauen, statt ihm das Glas zu halten.
 
+### → [[Hannah Arendt — Zur Person]]
+
+Gegen Weils „Einwurzelung“ steht Arendts „Was bleibt? Es bleibt die Muttersprache“: ein Halt, der ohne Boden auskommt.
+
 ---
 
 ## Weiterdenken

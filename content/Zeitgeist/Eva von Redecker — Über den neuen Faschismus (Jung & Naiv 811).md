@@ -380,3 +380,7 @@ Dath kritisiert mit Sophia Rosenfeld die Freiheit als Auswahl zwischen Waren —
 ### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
 
 Was Redecker aus dem Bekenntnis des Halle-Attentäters herausliest, erklärte ein AfD-Abgeordneter ein Jahr später im Landtag zum unpolitischen „Amoklauf“ — und nannte dabei die Prämissen selbst: Juden, Geburtenrate, Masseneinwanderung. Sieben Jahre nach der Tat verwehrten ihm jüdische Studierende das Gedenken.
+
+### → [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
+
+Warum Totalitarismus mehr ist als Faschismus, steht bei Arendt selbst: Bewegung statt Staat, ein Gesetz der Natur oder Geschichte, Terror als Wesen.

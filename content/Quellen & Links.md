@@ -5121,3 +5121,22 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Buch** | Susan Neiman: *Nennen wir es böse. Die Politik unserer Zeit verstehen* (Hanser 2026) |
 | **Notiz** | [[Zeitgeist/Susan Neiman — Nennen wir es boese]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Neiman_Boese_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+
+## Hannah Arendt — Zur Person (Günter Gaus, 1964)
+
+| | |
+|---|---|
+| **Gespräch** | [Zur Person: Hannah Arendt, die politische Denkerin (ZDF-Mediathek)](https://www.zdf.de/dokumentation/zur-person/hannah-arendt-zeitgeschichte-archiv-zur-person-gaus-100.html) (gesendet 28.10.1964) · [YouTube-Upload „ArendtKanal“](https://www.youtube.com/watch?v=J9SyTEUi6Kw) |
+| **Abschrift** | [rbb — Zur Person, Interview-Archiv](https://www.rbb-online.de/zurperson/interview_archiv/arendt_hannah.html) |
+| **Notiz** | [[Denker/Hannah Arendt — Zur Person]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Arendt_Gaus_Zur_Person_Transkript.txt` (YouTube-Untertitel, ab Min. 3 automatisch; Zitate nach rbb) |
+
+
+## Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft (Dresden 2018)
+
+| | |
+|---|---|
+| **Gespräch** | [Philosophisches Gespräch: Hannah Arendt und der Ursprung totalitärer Herrschaft](https://www.youtube.com/watch?v=xfcaWStWnhs) (Deutsches Hygiene-Museum Dresden, 27.03.2018) |
+| **Notiz** | [[Denker/Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Felsch_Geulen_Arendt_Totalitarismus_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

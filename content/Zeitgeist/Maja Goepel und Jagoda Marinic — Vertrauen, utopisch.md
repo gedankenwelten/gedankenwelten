@@ -480,6 +480,10 @@ Die Schwester-Note desselben Wochenendes. Wo die drei Runden hier nach dem Vertr
 ### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
 Warum es nicht die anderthalb Zimmer wurden, erzählt die Ko-Vorsitzende der Gaskommission: Der Versorger sieht nur den Anschluss, nicht ob dahinter hundert Mietparteien wohnen oder eine Villa mit Pool. Gerechtigkeit pro Kopf hätte Daten, Kontrollen und eine Verwaltung gebraucht, die im Herbst 2022 nicht da war.
 
+### → [[Hannah Arendt — Zur Person]]
+
+Was Göpel und Marinić Vertrauen nennen, heißt bei Arendt „Wagnis der Öffentlichkeit“: ein Vertrauen ins Menschliche, das den Verrat der eigenen Freunde schon kennt.
+
 ---
 
 ## Weiterdenken

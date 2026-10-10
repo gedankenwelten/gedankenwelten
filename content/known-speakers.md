@@ -1184,3 +1184,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Ulrike Winkelmann
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ulrike Winkelmann]]
+
+## Günter Gaus
+**Status:** ✓ Vollanalyse → [[DenkerVita/Günter Gaus]]
+
+## Philipp Felsch
+**Status:** ✓ Vollanalyse → [[DenkerVita/Philipp Felsch]]
+
+## Eva Geulen
+**Status:** ✓ Vollanalyse → [[DenkerVita/Eva Geulen]]

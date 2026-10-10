@@ -52,23 +52,23 @@ Die Gedankenwelten (luc)
 >
 > Das Böse braucht keine Dämonen, nur Menschen, die aufhören, vom Standpunkt anderer zu denken: Arendts Befund aus Jerusalem, und was die Forschung seither davon übrig ließ.
 
+> **10.10.** — [[Denker/Hannah Arendt — Zur Person|Hannah Arendt — Zur Person (im Gespräch mit Günter Gaus, 1964)]]
+>
+> „Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann.
+
 > **10.10.** — [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
 >
 > Während die Opfer arbeiteten, um zu überleben, nannten die Täter ihr Morden Arbeit: Welzer zeigt, wie gewöhnliche Männer das Töten als Drecksarbeit erträglich machten.
+
+> **10.10.** — [[Denker/Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft|Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
+>
+> Ein Tisch, an dem alle sitzen und jeder anderes sieht: Arendts Begriff des Politischen, und was geschieht, wenn Masse, Ideologie und Terror ihn zerstören. Dresden 2018.
 
 > **08.10.** — [[Denker/Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen und der vierfache Souveränitätsverlust]]
 >
 > Wer sich das Schreiben abnehmen lässt, verliert die Übung und die Anerkennung — und überhört den Akzent, mit dem die Maschine ihm die Welt erzählt.
 
-> **08.10.** — [[Denker/Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit|Simone Weil — Aufmerksamkeit, die seltenste Großzügigkeit]]
->
-> Eine Stunde Zeit kann man verlangen, Zuhören nicht. Simone Weil machte aus der Aufmerksamkeit eine Übung im Leerwerden und eine Antwort auf die Gewalt, die Menschen zu Dingen macht.
-
-> **08.10.** — [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
->
-> Misstrauen verbindet stärker als jeder gemeinsame Glaube. Und wo Recht das Vertrauen ersetzt, wird es zur Prothese, schwächer als der Muskel, den es ersetzt.
-
-> → *2 weitere in* [[Denker]]
+> → *4 weitere in* [[Denker]]
 
 ### Panorama
 

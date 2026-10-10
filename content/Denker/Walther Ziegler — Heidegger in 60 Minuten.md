@@ -201,3 +201,6 @@ Quelle: [Heidegger in 60 Minuten](https://www.youtube.com/watch?v=cG3ol6AYAWI)
 
 Sein Schüler Ernst Tugendhat widerspricht dem Vorlaufen in den Tod: Das „Irgendwann" macht keine Angst und ist keine Verdrängung, gefürchtet wird nur das Bald — und die Angst liegt für ihn in der Biologie, nicht im Nichts.
 
+### → [[Hannah Arendt — Zur Person]]
+
+Arendt erklärt bei Gaus, warum sie sich „politische Theoretikerin“ nennt: Die Erfahrung von 1933 mit den Intellektuellen hat ihr die Philosophie verleidet.

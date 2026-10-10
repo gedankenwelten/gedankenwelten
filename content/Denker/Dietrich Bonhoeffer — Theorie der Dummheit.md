@@ -409,6 +409,10 @@ Dürr zeigt die physikalische Konsequenz von Bonhoeffers Diagnose: *„Wir könn
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Wann wird Großzügigkeit zu viel?“.
 
+### → [[Hannah Arendt — Zur Person]]
+
+Bei Gaus zeigt Arendt die Kehrseite von Bonhoeffers Befund: Urteilslos wurden 1933 gerade die Klugen, aus ihren eigenen Einfällen heraus.
+
 ---
 
 ## Weiterdenken
