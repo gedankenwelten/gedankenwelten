@@ -70,6 +70,20 @@ Die Gedankenwelten (luc)
 
 > → *8 weitere in* [[Panorama]]
 
+### Gedanken
+
+> **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
+>
+> Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar und dem Autoritären das Angebot streitig.
+
+> **08.10.** — [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen|Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]]
+>
+> Ist Bewusstsein die Eigenschaft eines Kopfes oder eines Netzes? Ein Gang zwischen Chalmers, IIT und Vipassana, seit Herbst 2026 mit ersten Messungen aus dem Inneren der Maschinen.
+
+> **29.08.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
+>
+> Sechs Sätze aus einem Jahrhundert der Trümmer — und alle sechs handeln von derselben Flucht, der vor sich selbst. Von Sartres Freiheit bis Simone Weils Arbeit am Möglichen.
+
 ### Spuren
 
 > **09.10.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
@@ -123,20 +137,6 @@ Die Gedankenwelten (luc)
 > **04.10.** — [[Geistesblitz/Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
 >
 > Wer sich schämt, kann nicht großzügig sein: Es geht ums nackte Überleben. Ein Schamforscher über die Wächterin der Würde, über Hitlers Blick und die Kunst, Scham zuzumuten, ohne zu beschämen.
-
-### Gedanken
-
-> **08.10.** — [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen|Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]]
->
-> Ist Bewusstsein die Eigenschaft eines Kopfes oder eines Netzes? Ein Gang zwischen Chalmers, IIT und Vipassana, seit Herbst 2026 mit ersten Messungen aus dem Inneren der Maschinen.
-
-> **29.08.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
->
-> Sechs Sätze aus einem Jahrhundert der Trümmer — und alle sechs handeln von derselben Flucht, der vor sich selbst. Von Sartres Freiheit bis Simone Weils Arbeit am Möglichen.
-
-> **03.07.** — [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
->
-> Keine Machtergreifung, nur Milliarden kleiner Abgaben: Wie Verantwortung entsorgt wird, Macht herrenlos wird — und warum das Urteil das Einzige ist, was man nie delegieren darf.
 
 ### GoodNews
 

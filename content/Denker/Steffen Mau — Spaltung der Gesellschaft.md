@@ -295,3 +295,6 @@ Maus „ideologische Verwirrung“ im Klassenzimmer: Nölte bleibt in der Eltern
 
 Weisbands These „wir sind nicht gespaltener, wir sehen einander nur“ gegen Marinićs jugoslawische Erinnerung: Erst schweigt der Esstisch, dann bilden sich Lager.
 
+### → [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
+
+Wenn gerade die Arbeiter an Leistungsgerechtigkeit glauben, wird das Scheitern zur eigenen Schuld. Der Gedanke fragt, wohin diese Kränkung geht, und antwortet mit einer Politik, die den Alltag trägt.

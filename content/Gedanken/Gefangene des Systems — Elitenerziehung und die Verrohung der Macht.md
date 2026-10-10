@@ -528,3 +528,7 @@ Derselbe Habitus, vom anderen Ende der Leiter. Wo Eliteschulen jungen Menschen b
 ### → [[Akala — Warum Shakespeare gerappt gehoert|Akala — Warum Shakespeare gerappt gehört]]
 
 Die Gegenprobe von unten: Was an den Eliteschulen als Selbstverständlichkeit vergeben wird — die Vermutung, denkfähig und zum Wissen berufen zu sein —, wird in Akalas Vierteln stillschweigend entzogen. Beide Seiten zahlen, aber verschieden: hier exzellente Schafe ohne Vorstellung vom Leben jenseits der Prüfung, dort Kinder, die Klugheit gar nicht erst für sich reklamieren.
+
+### → [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
+
+Dasselbe Klassendenken von unten gesehen: Wer am Markt verliert, sucht sich eine Skala, auf der er wieder oben steht.

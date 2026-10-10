@@ -419,6 +419,10 @@ Das wachsende Panorama, in das Webers Satz vom Selbstwert am Markt führt (→ [
 
 Die Berliner Debatte des Abends in drei Stimmen: Weber will Mietendeckel und Vergesellschaftung statt Wohngeld, Klüssendorf den Deckel ohne Vergesellschaftung, Audretsch beides plus Auflagen für die Konzerne.
 
+### → [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
+
+Ein Gedanke von Luc, entstanden an Webers Satz vom Selbstwert am Markt: Einen Wert zu haben ist gut, gefährlich wird das *nur noch*. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar, und das Wohngeld zeigt, wie das Geld stattdessen zum Kapital wandert.
+
 ---
 
 ## Weiterdenken
