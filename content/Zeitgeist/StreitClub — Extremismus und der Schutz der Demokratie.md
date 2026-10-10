@@ -395,6 +395,10 @@ Quent sagt, bei ihm sei es Zufall gewesen, welche CD er bekam. Der Ex-Neonazi Fe
 ### → [[Presseclub — Brandmauer nach links]]
 Kazims Misstrauen gegen den Verfassungsschutz als Kronzeugen kehrt im Presseclub nach der Berlin-Wahl wieder, gegen links gewendet: Sebastian Puschner relativiert mit dem NSU die Einstufung der Roten Hilfe, Anke Myrrhe hält ihm die Regel „Nimm links, setze rechts“ entgegen, wer der Behörde hier misstraue, könne sich beim AfD-Verbot nicht auf sie berufen.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Quents voller Kühlschrank heißt bei Kowalczuk der Grundirrtum der Einheit: Wer Demokratie über Wohlstand verspricht, hat nichts in der Hand, wenn der Wohlstand ausbleibt oder nicht ankommt.
+
 ---
 
 ## Weiterdenken

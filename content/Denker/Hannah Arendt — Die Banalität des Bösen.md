@@ -64,7 +64,8 @@ Video: [Walther Ziegler — Hannah Arendt: Die Banalität des Bösen (Große Den
 Sie fand einen **erschreckend gewöhnlichen Mann**.
 
 > [!quote]
-> „Das Problem mit Eichmann war gerade, dass so viele wie er waren — weder pervers noch sadistisch, sondern schrecklich und erschreckend normal."
+> „Das Beunruhigende an der Person Eichmanns war doch gerade, dass er war wie viele und dass diese vielen weder pervers noch sadistisch, sondern schrecklich und erschreckend normal waren und sind.“
+> — *Eichmann in Jerusalem*, Epilog
 
 So jedenfalls sah ihn Arendt: kein Ideologe, kein fanatischer Judenhasser, sondern **pflichtbewusst, karriereorientiert und gedankenlos** — im wörtlichsten Sinne. *(Faktencheck: Dieses Porträt gilt heute als widerlegt, → [[#War Eichmann wirklich gedankenlos?|Nachbesprechung]].)* Einen Ausdruck aus der Geschichte des britischen Imperialismus aufgreifend, sprach sie von **Verwaltungsmassenmord**: Eichmann war ein Schreibtischtäter, der keinen einzigen Menschen mit eigener Hand tötete, aber die Deportationen aus weiten Teilen Europas organisierte — allein aus Ungarn 1944 rund 437.000 Menschen in acht Wochen nach Auschwitz. Als im Juli 1942 ein Zug aus Bordeaux ausfiel, weil dort nur 150 Juden „verfügbar“ waren, reagierte er wütend.
 
@@ -131,7 +132,7 @@ Totalitarismus zerstört genau das: Er eliminiert den Plural, macht alle gleich,
 Arendts Gegenpol zu allem Pessimismus: **Natalität**. Jeder Mensch ist ein Neuanfang. Das Handeln enthält immer die Möglichkeit, etwas zu beginnen, das es vorher nicht gab.
 
 > [!quote]
-> „Auf dass ein Anfang sei, wurde der Mensch geschaffen."
+> „Damit ein Anfang sei, wurde der Mensch geschaffen.“
 > — Augustinus, von Arendt zitiert
 
 Das ist ihr Prinzip der Hoffnung: Weil jeder Mensch ein Neuanfang ist, ist Geschichte niemals determiniert. Das Unvorhergesehene ist immer möglich.
@@ -150,7 +151,7 @@ Das ist ihr Prinzip der Hoffnung: Weil jeder Mensch ein Neuanfang ist, ist Gesch
 - **Terror als Herrschaftsprinzip**: Nicht Strafe, sondern permanente Bedrohung — lähmt das Denken
 
 > [!quote]
-> [▶ 9:23](https://www.youtube.com/watch?v=_22F0gfZz30&t=563) — „Man könnte wohl sagen, dass die lebendige Menschlichkeit eines Menschen in dem Maße abnimmt, in dem er auf das Denken verzichtet …"
+> [▶ 9:23](https://www.youtube.com/watch?v=_22F0gfZz30&t=563) — „Man könnte wohl sagen, daß die lebendige Menschlichkeit eines Menschen in dem Maße abnimmt, in dem er auf das Denken verzichtet und sich den Resultaten, den bekannten oder auch unbekannten Wahrheiten anvertraut und sie ausspielt, als seien sie Münzen, mit denen man alle Erfahrungen begleichen kann.“
 > — aus der Lessing-Rede, Hamburg 1959
 
 > [!danger] Zeitlos relevant
@@ -169,10 +170,10 @@ Arendt dokumentiert: In Amsterdam, Warschau, Berlin, Budapest konnten sich die N
 
 [▶ 35:15](https://www.youtube.com/watch?v=_22F0gfZz30&t=2115) — Im Gerichtssaal brach es auf: Pinchas Freudiger, Judenrat von Budapest und als Belastungszeuge gegen Eichmann geladen, wurde während seiner Aussage von Zuhörern auf Ungarisch und Jiddisch angeschrien; das Gericht musste die Sitzung unterbrechen. Er hatte den Juden nicht gesagt, dass die Züge in Vernichtungslager fuhren — obwohl er es wusste. Seine Verteidigung: 50% der Fliehenden wurden wieder eingefangen. Arendt lässt das nicht gelten: *„Dagegen stehen 99 Prozent Todesopfer unter denen, die nicht zu fliehen versuchten."*
 
-Arendts Fazit — und ihr härtestes Urteil: Die Judenräte zeigen *„die Totalität des moralischen Zusammenbruchs"*, den die Nazis in der achtbaren Gesellschaft Europas angerichtet hatten — nicht allein unter den Verfolgern, sondern auch unter den Verfolgten.
+Arendts Fazit — und ihr härtestes Urteil: Das Kapitel gewähre, schreibt Arendt, *„den tiefsten Einblick in die Totalität des moralischen Zusammenbruchs, den die Nazis in allen, vor allem auch den höheren Schichten der Gesellschaft ganz Europas verursacht haben – nicht allein in Deutschland, sondern in fast allen Ländern, nicht allein unter den Verfolgern, sondern auch unter den Verfolgten.“*
 
 > [!note] Eigene Einschätzung
-> Das ist der Punkt, an dem Arendt ihre eigene Gemeinschaft nicht schont — und dafür beinahe vernichtet wird. Morddrohungen, ein Jahrzehnt Isolation, selbst enge Freunde wandten sich ab. Die Kritik ging weit über eine Zahl hinaus. Scholem warf ihr einen herzlosen, oft höhnischen Ton vor; Jacob Robinson schrieb eine Gegenschrift in Buchlänge; Isaiah Trunks Studie *Judenrat* (1972) fand zwischen den Räten so große Unterschiede, dass Arendts Pauschalurteil die Zwangslage vieler Räte verfehlt. Die „Hälfte“, die hätte überleben können, übernahm sie von Freudiger selbst. Ihr Kernpunkt bleibt dennoch bestehen: Wer die Banalität des Bösen nur bei den Tätern sucht, versteht sie nicht. Der Zusammenbruch reichte bis in die achtbare Gesellschaft — das ist ja gerade das Banale daran.
+> Das ist der Punkt, an dem Arendt ihre eigene Gemeinschaft nicht schont — und dafür beinahe vernichtet wird. Morddrohungen, ein Jahrzehnt Isolation, selbst enge Freunde wandten sich ab. Die Kritik ging weit über eine Zahl hinaus. Scholem warf ihr einen herzlosen, oft höhnischen Ton vor; Jacob Robinson schrieb eine Gegenschrift in Buchlänge; Isaiah Trunks Studie *Judenrat* (1972) fand zwischen den Räten so große Unterschiede, dass Arendts Pauschalurteil die Zwangslage vieler Räte verfehlt. Die „Hälfte“, die hätte überleben können, übernahm sie von Freudiger selbst. Ihr Kernpunkt bleibt dennoch bestehen: Wer die Banalität des Bösen nur bei den Tätern sucht, versteht sie nicht. Der Zusammenbruch reichte bis in die höheren Schichten — das ist ja gerade das Banale daran.
 
 > [!question] Weitergedacht
 > Arendt urteilte über Menschen in einer Lage, in der sie selbst nie war, und genau das warf Scholem ihr vor. *Darf man über die Verfolgten urteilen — und was ginge verloren, wenn man es nie täte?*
@@ -188,8 +189,8 @@ Das Problem ist nicht die Bürokratie an sich — sondern dass sie Verantwortung
 [▶ 52:07](https://www.youtube.com/watch?v=_22F0gfZz30&t=3127) — Ziegler bringt das Beispiel der Lokführer der Reichsbahn: *„Ich bin Lokführer. Dienstgebäude, Dienstplan — 8:30, sieben Waggons, Auschwitz. Fahr ich. Ich bin Lokführer."* Das ist die Banalität des Bösen in einem Satz.
 
 > [!important] Kernformel
-> „Das größte Böse ist das Böse, das von Niemanden begangen wird — von menschlichen Wesen, die sich weigern, Personen zu sein."
-> — *Über das Böse* (Vorlesung 1965). Im Englischen: *„the evil committed by nobodies“* — es gibt Täter, aber sie weigern sich, jemand zu sein.
+> „Das größte begangene Böse ist das Böse, das von Niemandem getan wurde, das heißt, von menschlichen Wesen, die sich weigern, Personen zu sein.“
+> — *Über das Böse* (Vorlesung 1965). Das große N trägt den Sinn: Im Englischen heißt es *„the evil committed by nobodies“* — es gibt Täter, aber sie weigern sich, jemand zu sein.
 
 > [!question] Weitergedacht
 > Wenn die Täter keine Niemande sind, sondern sich weigern, jemand zu sein — *ist diese Weigerung eine Tat, für die man einstehen muss, oder ein Zustand, in den man hineinrutscht, ohne es zu merken?*
@@ -205,7 +206,7 @@ Die Testpersonen wussten, was sie taten. Bereits bei 105 Volt stöhnte der Schü
 Hinterher sagten viele Teilnehmer dasselbe wie Eichmann: Das hätten sie mit ihrem privaten Gewissen nicht vereinbaren können — sie hätten es nur wegen des Wissenschaftlers gemacht. Die Verantwortung war delegiert. *(Wie die Forschung das heute liest, → [[#Gehorsam oder Gefolgschaft?|Nachbesprechung]].)*
 
 > [!quote]
-> Arthur Greiser, NS-Gauleiter des Warthegaus, vor Gericht: Seine *„offizielle Seele"* habe die Verbrechen ausgeführt, seine *„Privatseele"* sei stets dagegen gewesen. Arendt führt das als gescheitertes Alibi an: Vor dem polnischen Gericht verfing es nicht, Greiser wurde 1946 gehängt.
+> Arthur Greiser, NS-Gauleiter des Warthegaus, vor Gericht: Seine *„offizielle Seele"* habe die Verbrechen ausgeführt, seine *„private Seele"* sei stets dagegen gewesen. Arendt führt das als gescheitertes Alibi an: Vor dem polnischen Gericht verfing es nicht, Greiser wurde 1946 gehängt.
 
 > [!note] Eigene Einschätzung
 > Die Aufspaltung in offizielle und private Seele ist vielleicht die präziseste Selbstdiagnose, die je ein Täter geliefert hat — und zugleich die gefährlichste Entschuldigung. Milgram zeigt: Das ist kein deutsches Problem. Es ist ein menschliches. Arendts Antwort bleibt die einzige, die zählt: Es gibt kein Recht, die beiden Seelen zu trennen. Wer sein Gewissen an der Bürotür abgibt, ist schuldig — egal, was die Privatseele sagt.
@@ -227,18 +228,18 @@ Im selben Gespräch benennt sie die besondere deutsche Dimension: *„Das zweite
 
 ## Zitate zum Vertiefen
 
-*Wo kein deutscher Wortlaut vorlag, übersetzt nach dem englischen Original.*
+*Im Wortlaut der deutschen Ausgaben, wo nicht anders vermerkt.*
 
 > „Das ideale Subjekt totaler Herrschaft ist nicht der überzeugte Nazi oder der überzeugte Kommunist, sondern Menschen, für die der Unterschied zwischen Tatsache und Fiktion und zwischen wahr und falsch nicht mehr existiert."
-> — *Elemente und Ursprünge totaler Herrschaft* (1951), Schlusskapitel „Ideologie und Terror“
+> — *The Origins of Totalitarianism*, Schlusskapitel „Ideology and Terror“ (1951/58), übersetzt nach dem Englischen; die deutsche Fassung in *Elemente und Ursprünge totaler Herrschaft* steht noch nicht geprüft
 
-> „Denn Politik ist keine Kinderstube; in der Politik sind Gehorsam und Unterstützung dasselbe."
+> „… dass die Politik ja nicht in der Kinderstube vor sich geht und dass im politischen Bereich der Erwachsenen das Wort Gehorsam nur ein anderes Wort ist für Zustimmung und Unterstützung.“
 > — *Eichmann in Jerusalem* (1963), Epilog
 
-> „Denken und Erinnern sind die menschliche Art, Wurzeln zu schlagen und seinen Platz in der Welt einzunehmen, in die wir alle als Fremde kommen."
+> „Denken und Erinnern, sagten wir, sind die menschliche Art und Weise, Wurzeln zu schlagen, den eigenen Platz in der Welt, in der wir alle als Fremde ankommen, einzunehmen.“
 > — *Über das Böse* (1965)
 
-> „Ein Leben, das ausschließlich in der Öffentlichkeit, in Gegenwart anderer verbracht wird, wird, wie wir sagen würden, seicht."
+> „Wir kennen alle die eigentümliche Verflachung, die ein nur in der Öffentlichkeit verbrachtes Leben unweigerlich mit sich führt.“
 > — *Vita activa* (1958), §8
 
 ---
@@ -309,11 +310,11 @@ In allen drei Fällen fanden die Untersuchungen Menschen, die wussten, was sie t
 > Quelle: [Haslam & Reicher 2012, doi:10.1371/journal.pbio.1001426](https://doi.org/10.1371/journal.pbio.1001426) · [Haslam, Loughnan & Perry 2014, doi:10.1371/journal.pone.0093927](https://doi.org/10.1371/journal.pone.0093927)
 
 > [!warning] Korrigiert — Vier „Zitate zum Vertiefen“ stammten nicht von Arendt
-> „Die gefährlichste Knechtschaft …“ paraphrasiert Goethe (*Die Wahlverwandtschaften*: „Niemand ist mehr Sklave, als der sich für frei hält, ohne es zu sein“). Für „Verantwortung und Urteilsvermögen sind untrennbar“ und „Das Private ohne das Öffentliche ist leer …“ gibt es keinen Beleg; „Denken und Erinnern … in der Zeit zu wohnen“ verzerrt einen Satz über das Wurzelschlagen. Alle vier sind durch belegte Zitate ersetzt. Auch die Kernformel war falsch übersetzt: Arendt spricht vom Bösen der *Niemande*, nicht von einem Bösen, das niemand getan hat.
+> „Die gefährlichste Knechtschaft …“ paraphrasiert Goethe (*Die Wahlverwandtschaften*: „Niemand ist mehr Sklave, als der sich für frei hält, ohne es zu sein“). Für „Verantwortung und Urteilsvermögen sind untrennbar“ und „Das Private ohne das Öffentliche ist leer …“ gibt es keinen Beleg; „Denken und Erinnern … in der Zeit zu wohnen“ verzerrt einen Satz über das Wurzelschlagen. Alle vier sind durch belegte Zitate ersetzt. Bei der Kernformel stand „von niemandem getan“ klein geschrieben; die deutsche Ausgabe schreibt *Niemandem* groß und meint die *Niemande* („nobodies“), nicht ein Böses ohne Täter. Alle Zitate stehen jetzt im Wortlaut der deutschen Ausgaben (Piper), soweit auffindbar.
 > Quelle: [WIST Zitatforschung — Goethe](https://wist.info/goethe-johann/1667/) · [WIST — Arendt, „nobodies“](https://wist.info/arendt-hannah/42933/)
 
 > [!success] Bestätigt — Greiser, Freudiger, Biografie
-> Arendt zitiert Greisers „offizielle Seele“ und „Privatseele“ in *Eichmann in Jerusalem*, Kapitel 7, als gescheitertes Alibi. Freudigers 50 Prozent und ihre Antwort mit 99 Prozent sind korrekt wiedergegeben. Königsberg, Kant mit vierzehn, Marburg mit achtzehn, acht Tage Gestapo-Haft 1933, Gurs 1940, Lissabon 1941 — stimmt.
+> Arendt zitiert Greisers „offizielle Seele“ und „private Seele“ in *Eichmann in Jerusalem*, Kapitel 7, als gescheitertes Alibi. Freudigers 50 Prozent und ihre Antwort mit 99 Prozent sind korrekt wiedergegeben. Königsberg, Kant mit vierzehn, Marburg mit achtzehn, acht Tage Gestapo-Haft 1933, Gurs 1940, Lissabon 1941 — stimmt.
 > Quelle: [Wikipedia — Hannah Arendt](https://de.wikipedia.org/wiki/Hannah_Arendt)
 
 ---

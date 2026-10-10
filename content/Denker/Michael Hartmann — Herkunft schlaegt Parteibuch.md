@@ -359,6 +359,10 @@ Das Prinzip der Ähnlichkeit, eine Stufe früher: Nölte will Noten durch Portfo
 
 Krauthausen fordert die Quote, „kein besseres Mittel, um Macht zu teilen“; El-Mafaalani hält den freiwilligen Akt dagegen.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Bei der Elite sind sich die beiden Kontrahenten einig: Wer 1990 kam, brachte sein Netzwerk mit, und das Prinzip der Ähnlichkeit hielt die Ostdeutschen draußen, bei Oschmann als Kränkung erzählt, bei Kowalczuk als Strukturfehler, den er damals selbst unterschätzt hat.
+
 ---
 
 ## Weiterdenken

@@ -365,6 +365,10 @@ Manows „Das Wichtigste ist die Abwahl“ bekommt hier seinen härtesten Prüff
 
 Die Gegenposition zu Manows Skepsis gegenüber dem Autoritarismus-Diskurs: Celikates hält „Extremismus der Mitte“ für richtiger als die Rede von den Rändern und bestätigt damit ungewollt Manows Warnung vor der akademischen Deutungsklasse. Beim Los sind sich beide einig.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Den gebrochenen Verfassungsauftrag nennt Oschmann mit Habermas den ersten Ausschluss des Ostens. Kowalczuk, der 1990 selbst für Artikel 146 stimmte, hält dagegen: Drei Viertel wählten den schnellen Beitritt, und das „uns hat keiner gefragt“ sei erst später entstanden.
+
 ## Weiterführend
 
 - **Philip Manow**: *Unter Beobachtung. Die Bestimmung der liberalen Demokratie und ihrer Freunde* (Suhrkamp, 2023)

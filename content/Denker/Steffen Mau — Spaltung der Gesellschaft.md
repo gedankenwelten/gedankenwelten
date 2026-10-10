@@ -298,3 +298,7 @@ Weisbands These „wir sind nicht gespaltener, wir sehen einander nur“ gegen M
 ### → [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
 
 Wenn gerade die Arbeiter an Leistungsgerechtigkeit glauben, wird das Scheitern zur eigenen Schuld. Der Gedanke fragt, wohin diese Kränkung geht, und antwortet mit einer Politik, die den Alltag trägt.
+
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Maus Satz, die Ostdeutschen hätten keine eigenen Fehler machen dürfen, steht genau zwischen Oschmann und Kowalczuk. Für den einen ist das die Kränkung, für den anderen der Ursprung einer Erzählung, die jede Verantwortung nach außen schiebt.

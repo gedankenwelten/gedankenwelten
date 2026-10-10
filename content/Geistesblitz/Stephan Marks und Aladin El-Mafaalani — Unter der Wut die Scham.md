@@ -319,6 +319,9 @@ Walburgs „Das Einzige, was man dann zu verlieren hat, ist eben Respekt auf der
 
 Die Frage aus dem Publikum, ob unser Schulsystem überhaupt zulässig ist, wird dort zum Streit zweier Lehrer: Meidinger erinnert sich an Lehrkräfte, die die schlechteste Arbeit zuerst zurückgaben, und Nölte nennt die Ziffer eine „Aburteilung“. Marks' „Scham zumuten, ohne zu beschämen“ ist genau die Aufgabe, an der Nölte zugibt, dass seine Lerndialoge beim Misserfolg am schwersten tragen.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Was Marks als zwei Formen der Scham beschreibt, verteilt sich dort auf zwei Bücher: Kowalczuk sucht die verratene Integrität der Diktatur, Oschmann die Beschämung durch eine Einheit, die als Abwicklung erlebt wurde.
 
 ---
 
