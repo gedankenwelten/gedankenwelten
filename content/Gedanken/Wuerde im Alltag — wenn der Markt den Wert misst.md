@@ -31,7 +31,7 @@ aliases:
 </details>
 
 > [!abstract] Worum es geht
-> Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Ein Gedanke aus dem Gespräch über Isabella Webers Buchpremiere, an der Stelle, an der sie erklärt, warum Menschen, die am Markt scheitern, nach einem anderen Wert greifen. Daraus folgt eine Politik, die schlichter ist, als man denkt: den Alltag tragen, damit die Menschen wieder sehen, dass sie handeln können.
+> Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Ein Gedanke aus dem Gespräch über Isabella Webers Buchpremiere, an der Stelle, an der sie erklärt, warum Menschen, die am Markt scheitern, nach einem anderen Wert greifen. Daraus folgt eine Politik, die schlichter ist, als man denkt: den Alltag tragen, damit die Menschen wieder sehen, dass sie handeln können. Am deutlichsten zeigt sich das im Osten, wo der Wert der Menschen nach der Einheit Stück für Stück kleiner wurde.
 
 > Entstanden am 10.10.2026. Aus einem Gespräch über [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik#Die Dramatik, die Freundel nicht sieht|Isabella Weber — Antifaschistische Wirtschaftspolitik]], bei ▶ 1:11.
 
@@ -79,6 +79,30 @@ Für diese Politik sollten Politiker einstehen.
 Für die Menschen. Nicht fürs Kapital.
 
 Denn wo sich Kapital konzentriert, schrumpft der Spielraum. Für den Wettbewerb, den selbst die Marktfreunde wollen. Und für die Menschen, die in diesem Markt ihren Platz suchen.
+
+## Der Osten
+
+Am deutlichsten sehe ich das im Osten.
+
+Die Menschen dort sind stolz, so nehme ich sie wahr. Und sie hatten vieles, worauf man stolz sein kann. Der Zusammenhalt untereinander war groß. Frauen hatten einen höheren Stellenwert als im Westen: 1989 arbeiteten oder lernten rund neun von zehn Frauen zwischen 15 und 60 ([bpb, APuZ](https://www.bpb.de/shop/zeitschriften/apuz/archiv/536829/wandel-und-brueche-in-lebensentwuerfen-von-frauen-in-den-neuen-bundeslaendern/)).
+
+Dann kam die Einheit, mitten in der neoliberalen Zeit, und dieser Wert wurde Stück für Stück kleiner.
+
+Die Betriebe wurden verkauft, die meisten an Westdeutsche ([[Steffen Mau — Spaltung der Gesellschaft#Veränderungsmüdigkeit und der konservative Trigger|Mau]]). Mit ihnen ging die wirtschaftliche Handlungsfähigkeit. Die Jungen gingen hinterher, und zuerst gingen die Frauen, die gut ausgebildeten. Bis Mitte der Nullerjahre zogen 866.000 Frauen und 735.000 Männer in den Westen. Unter den 18- bis 29-Jährigen kamen auf hundert Männer bald nur noch neunzig Frauen, in den Krisenregionen weniger als achtzig ([Kröhnert & Klingholz, *Not am Mann*, Berlin-Institut](https://www.ssoar.info/ssoar/bitstream/handle/document/32094/ssoar-2006-krohnert_et_al-Not_am_Mann_von_Helden.pdf)).
+
+Familien wurden auseinandergerissen.
+Dörfer wurden dünner.
+Wer blieb, blieb mit weniger.
+
+Und dann wundert man sich, dass gerade dort die andere Skala verfängt.
+
+Mir fällt auf, dass es nicht die Alten sind, die am stärksten zur AfD gehen. In Sachsen-Anhalt wählten 2026 die über 70-Jährigen zu 31 Prozent AfD, die 35- bis 59-Jährigen zu gut der Hälfte ([[Warum waehlen Menschen Autoritaere#Warum im Osten doppelt so viel?|Panorama]]). Das sind die, die die Wende als Kinder oder junge Erwachsene erlebt haben. Die zugesehen haben, wie die Eltern ihre Arbeit verloren, und die Achtung, die daran hing.
+
+Vielleicht wird im Osten weniger die Diktatur vererbt.
+Eher die Kränkung.
+
+> [!question] Weitergedacht
+> Ein Teil des Zusammenhalts entstand aus dem Mangel und in der Nische, gegen einen Staat, der überwachte. *Kann ein Zusammenhalt, der sich gegen „die da oben“ gebildet hat, sich leichter gegen „die da draußen“ wenden?* Und Ilko-Sascha Kowalczuk würde fragen: *Wie viel davon ist Kränkung durch den Westen, und wie viel ein Schock der Freiheit, in der viele nie ganz angekommen sind?*
 
 ---
 
