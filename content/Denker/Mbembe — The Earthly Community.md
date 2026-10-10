@@ -262,6 +262,11 @@ Kave Bulambos Befund, die Tech-Industrie operiere auf kolonialen Rahmenwerken, i
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“.
 
+### → [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
+
+Dass der Kolonialismus nach Europa zurückkehrt, sah schon Arendt 1951, und mit ihr ein Afrika-Bild, gegen das Mbembe anschreibt.
+
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

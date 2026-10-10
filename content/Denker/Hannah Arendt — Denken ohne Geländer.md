@@ -231,6 +231,14 @@ Arendts „unverzeihliches, radikal Böses“ gegen Boshammers Satz, Verzeihen s
 
 Arendt fand das radikal Böse jenseits von Eigennutz und Machtgier. Neiman fragt, was geschieht, wenn eine Gesellschaft nur noch Eigennutz als Motiv kennt: Dann kann sie nichts mehr böse nennen. Ihr Satz, eine Ideologie sei das Maß an Banalitäten, die wir annehmen, ohne sie zu prüfen, ist bei Arendt in die Schule gegangen.
 
+### → [[Hannah Arendt — Zur Person]]
+
+Die Begriffe dieser Note mit Biografie: Arendt bei Gaus über die Mutter, die Freunde von 1933, die Muttersprache und das Vertrauen auf das Menschliche.
+
+### → [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
+
+Was Pluralität zerstört, bevor man sie denken kann, zeigt das Frühwerk: Felsch und Geulen über den Tisch, an dem alle sitzen, und über die totale Verlassenheit.
+
 ---
 
 ## Weiterdenken

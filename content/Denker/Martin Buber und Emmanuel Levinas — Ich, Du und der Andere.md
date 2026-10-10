@@ -258,6 +258,10 @@ Bubers politische Konsequenz aus dem Ich–Du war der Binationalismus — ein La
 
 Mouffes Agonismus, den Gegner als legitim anerkennen, ohne seine Position zu teilen, ist die politische Fassung von „Bestätigung ist keine Billigung". Beide misstrauen der Harmonie. Und Levinas liefert die Stelle, an der Mouffes Frage beginnt: Erst mit dem Dritten kommen Abwägung und Gerechtigkeit ins Spiel, also die Politik.
 
+### → [[Hannah Arendt — Zur Person]]
+
+Arendts Satz, sie liebe Personen und keine Völker, ist Bubers Ich-Du als politische Haltung, gesagt gegen Scholems Liebe zum jüdischen Volk.
+
 ---
 
 ## Weiterdenken

@@ -71,6 +71,8 @@ Arendt lehrt an der New School, in Princeton, in Chicago. Sie stirbt 1975 in New
 - [Zur Person: Hannah Arendt, die politische Denkerin (1964)](https://www.youtube.com/watch?v=AKtiNuYn4l0) — Alternative Fassung desselben Gesprächs, teils mit Untertiteln.
 - [Vita Activa: The Spirit of Hannah Arendt (2015)](https://www.youtube.com/watch?v=-Bd6JqZmQbw) — Ada Ushpiz' vielgelobte Dokumentation über Leben, Werk und die Stürme um das Eichmann-Buch. Reich an Archivmaterial und Originalstimmen.
 - [Hannah Arendt — Die Pflicht zum Ungehorsam (2015)](https://www.youtube.com/watch?v=d7AnpetmA0c) — Porträt, das ihr Denken über zivilen Ungehorsam und persönliche Verantwortung in den Mittelpunkt stellt.
+- [Philosophisches Gespräch: Hannah Arendt und der Ursprung totalitärer Herrschaft (2018)](https://www.youtube.com/watch?v=xfcaWStWnhs) — Eva Geulen und Philipp Felsch im Deutschen Hygiene-Museum Dresden über *Elemente und Ursprünge*, den Tisch der Pluralität und die Gegenwart.
+- [Zur Person: Hannah Arendt, die politische Denkerin (ZDF-Mediathek)](https://www.zdf.de/dokumentation/zur-person/hannah-arendt-zeitgeschichte-archiv-zur-person-gaus-100.html) — die offizielle Fassung des Gaus-Gesprächs.
 
 ---
 
@@ -125,3 +127,5 @@ Derselbe Jahrgang 1906, dieselbe Leerstelle — und ein Streit über das Gegenmi
 
 - [[Hannah Arendt — Denken ohne Geländer]]
 - [[Hannah Arendt — Die Banalität des Bösen]]
+- [[Hannah Arendt — Zur Person]] — im Gespräch mit Günter Gaus, 1964 (zum 120. Geburtstag)
+- [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]] — das Hauptwerk, Dresden 2018 (zum 120. Geburtstag)

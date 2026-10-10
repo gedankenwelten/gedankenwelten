@@ -212,6 +212,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Florence Gaub|Florence Gaub]]** — Zukunft findet jetzt statt, in unseren Köpfen: Florence Gaub, Forschungsdirektorin am NATO Defense College, macht Szenarien zum Werkzeug gegen Angst und fehlende Vorstellungskraft.
 
+**[[DenkerVita/Philipp Felsch|Philipp Felsch]]** — Kultur- und Wissenschaftshistoriker (HU Berlin); erzählt die Geschichte der Theorie, vom Merve-Verlag über Nietzsches Rettung bis Habermas
+
 ## G
 
 **[[DenkerVita/Georg Wilhelm Friedrich Hegel|Georg Wilhelm Friedrich Hegel]]** — Philosoph, Deutscher Idealismus; Dialektik, Weltgeist, Aufhebung, Geschichte als Fortschritt im Bewusstsein der Freiheit, Staat als Verwirklichung der Freiheit
@@ -229,6 +231,10 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Gert Scobel|Gert Scobel]]** — Philosoph, Moderator (3sat *scobel*); Meditationsforschung, Bewusstsein, Neurophilosophie, epistemische Demut, 40 Jahre Meditationserfahrung
 
 **[[DenkerVita/Götz Aly|Götz Aly]]** — Historiker, Journalist; NS-Forschung; "Hitlers Volksstaat"; Täterforschung
+
+**[[DenkerVita/Günter Gaus|Günter Gaus]]** — Journalismus und Deutschlandpolitik: Erfinder des Fernsehgesprächs „Zur Person“, Spiegel-Chef und erster Ständiger Vertreter der Bundesrepublik in der DDR, der sich einen „linken Konservativen“ nannte
+
+**[[DenkerVita/Eva Geulen|Eva Geulen]]** — Literaturwissenschaftlerin, Direktorin des ZfL Berlin und Mitherausgeberin der Arendt-Gesamtausgabe; liest Theorie historisch (Goethes Morphologie, Agamben, das „Ende der Kunst“)
 
 **[[DenkerVita/Veronika Grimm|Veronika Grimm]]** — Ökonomin und Wirtschaftsweise (*1971), Professorin für Energiesysteme und Marktdesign an der TU Nürnberg; Spieltheorie, Auktionen, Wasserstoff; 2022 Ko-Vorsitzende der Gaskommission (Gaspreisbremse), seit 2024 im Streit mit dem eigenen Rat über ihr Siemens-Energy-Mandat; setzt auf Spielregeln, CO2-Preis und Schuldendisziplin
 

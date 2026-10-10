@@ -271,3 +271,7 @@ Von der Ideologie zur Mechanik: Clüver Ashbrook zeigt, wie die von Kendi beschr
 ### → [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]]
 
 Kendis Reihe hat in Deutschland ein Glied, das eine Partei ausdrücklich aus ihr herauslösen will: Halle 2019, im Landtag zum „Amoklauf“ eines „Einzeltäters“ erklärt, obwohl der Redner das Austausch-Motiv im selben Atemzug benennt.
+
+### → [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
+
+Rasse als politische Waffe statt als Vorurteil: Diese Linie zog Arendt 1951 vom Imperialismus zum Totalitarismus.

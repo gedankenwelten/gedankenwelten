@@ -376,6 +376,14 @@ Blom überträgt die Banalität des Bösen auf die ICE-Festnahmen in den USA: Di
 
 Safferling findet Arendts Verwaltungsmenschen in der Bonner Justiz wieder: Ein selbst verfolgter Staatssekretär holte NS-Juristen ins Ministerium, weil sie Vorgaben „perfekt umsetzen“. Das Nürnberger Prinzip „Befehl entlastet nicht“ ist ihr Satz, dass Gehorsam unter Erwachsenen Zustimmung ist, als Rechtssatz.
 
+### → [[Hannah Arendt — Zur Person]]
+
+Arendt selbst verteidigt 1964 bei Günter Gaus den Ton ihres Eichmann-Buchs: Sie habe über das Verhör „laut“ gelacht, Eichmann sei ein „Hanswurst“. Der Ton sei „wirklich der Mensch“.
+
+### → [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
+
+Den Weg zum Totalitarismus, Masse, Ideologie, Terror, Verlassenheit, zeichnen Felsch und Geulen im Gespräch über *Elemente und Ursprünge* nach.
+
 ---
 
 ## Weiterdenken

@@ -429,6 +429,10 @@ Safferling nennt den Irakkrieg einen „unglaublichen Sündenfall“ wie Lagodin
 
 Was Safferling „wechselseitig verziehen“ nennt, ist in Boshammers Begriffen Schwamm drüber, Nachsicht und Vergessen: Verzeihen kann nur, wer das Unrecht vorher ausspricht. Ihre Antwort auf die Erinnerungskultur: Verzeihen heißt nicht vergessen.
 
+### → [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
+
+Dass Menschenrechte ohne eine Gemeinschaft, die sie garantiert, leer bleiben, ist Arendts These von 1951, das „Recht, Rechte zu haben“.
+
 ---
 
 ## Weiterdenken
