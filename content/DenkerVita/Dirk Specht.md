@@ -2,7 +2,7 @@
 title: Dirk Specht — DenkerVita
 description: "Dirk Specht hält die Merit Order für eine EU-Konstruktion, kein Naturgesetz, und rechnet in Blog und Newsletter vor, warum Großbatterien dem Gaskraftwerk längst Konkurrenz machen."
 date: 2026-05-10
-aktualisiert: 2026-05-10
+aktualisiert: 2026-10-10
 tags: [denker-vita, energiewende, strommarkt, batterie, deutschland, wirtschaft]
 ---
 
@@ -65,6 +65,12 @@ Karrierestationen:
 - China macht dasselbe wie wir (Elektromobilität, EE-Ausbau, Kernenergie), nur schneller — nicht besser, aber schneller
 - Elektrifizierung von Hochtemperaturprozessen = nächste disruptive Industrietechnologie (Stahl, Chemie, Zement)
 
+### Geopolitik & Planung
+
+- Wer keine eigenen fossilen Rohstoffe hat, muss von ihnen herunter; seit Hormus 2026 ist die physische Versorgung selbst eine Waffe.
+- Ein System mit bis zu 80 Prozent Erneuerbaren werde mit jedem Prozentpunkt billiger, erst die letzten 20 Prozent teurer (Faustregel; die Forschung bestätigt den steilen Anstieg am Ende, nicht den festen Knick).
+- Bewundert an China die Verbindlichkeit der Pläne („hervorragend aufgestellte Technokratie“), sagt aber, er möge das System nicht und es könne unter Xi kippen. Seine Lesart von Chinas Kapazitätsmarkt 2026 geht über das Dokument hinaus (→ [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt#Faktencheck|Faktencheck]]).
+
 ### Datenjournalismus & Faktencheck
 - **Daten vor Narrativen** — deutsche Debatten vergiftet durch Kraftwerksbetreiber-Interessen
 - "Aber China"-Debatte ist emotional, nicht faktengeleitet — Chinas CO₂/BIP sinkt bereits (Dekarbonisierung im wachsenden System)
@@ -98,11 +104,30 @@ Karrierestationen:
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+### → [[DenkerVita/Tim Meyer|Tim Meyer]]
+
+Liest China wie Specht als strategischen Rahmen mit brutalem Wettbewerb darin, betont aber die Industrielogik, wo Specht die Sicherheitslogik von Malakka und Hormus sieht.
+
+### → [[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]
+
+Der Gegenpol: Wo Specht in China eine übererfüllende Technokratie sieht, sieht Herrmann Überinvestition und geschönte Zahlen; und aus den teuren letzten Prozenten folgert sie Schrumpfen, Specht nur die Reihenfolge.
+
+### → [[DenkerVita/Andreas Loeschel|Andreas Löschel]]
+
+Teilt Spechts Kritik am Zickzack der deutschen Politik und liefert die Begründung: Erwartungen sind das Kapital der Transformation, darum muss der CO₂-Preis halten.
+
+### → [[DenkerVita/Michael Sterner|Michael Sterner]]
+
+Der zweite große Kritiker von Reiches „Systemkosten“ im Bestand: Sterner rechnet die Kosten durch, Specht bestreitet ihre Definition.
+
+### → [[DenkerVita/Susanne Weigelin-Schwiedrzik|Susanne Weigelin-Schwiedrzik]]
+
+Die Sinologin hält gegen Spechts Bild einer Maschine, die tut, was sie schreibt: Chinas große Strategie sei hinterher erkannt worden, und hinter dem Plan stehe die Angst der Partei.
 
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Dirk Specht — Strom, Merit Order und Grossbatterien]]
+- [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt]]
 
 ---
 

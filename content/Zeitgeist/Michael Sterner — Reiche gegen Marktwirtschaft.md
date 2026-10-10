@@ -214,3 +214,7 @@ Der Spiegel-Befund über ministerielle Anti-Batterie-Lobbypapiere findet hier se
 
 Das Systemkosten-Argument, das Sterner nachrechnet, verfolgt Greenpeace zurück bis zum Altmaier-Knick 2012, als Reiche die Solarkürzungen im Bundestag verteidigte. Dasselbe Argument, zweimal, mit demselben Ergebnis.
 
+### → [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
+
+Specht greift das Systemkosten-Mantra von der anderen Seite an: Was Reiche Kosten nennt, sind für ihn regulierte Entgelte und genehmigte Renditen.
+

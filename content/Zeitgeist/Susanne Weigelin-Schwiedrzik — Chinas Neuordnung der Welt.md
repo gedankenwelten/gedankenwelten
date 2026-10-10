@@ -297,6 +297,10 @@ Die zweite Brücke ist die eigentliche. Jene Note fragt am Ende, wann jemand üb
 
 Hanna Notte beziffert Russlands Abhängigkeit von China (40 Prozent der Importe, 35 Prozent der Exporterlöse) und zeigt BRICS als Moskaus Bühne. Sergey Lagodinsky setzt gegen Multialignment eine „hirngeleitete“ Außenpolitik, die Prinzipien nicht preisgibt — ein Streitgespräch über Europas Rolle zwischen den Mächten.
 
+### → [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
+
+Dasselbe Malakka-Dilemma beantwortet China bei Specht mit vollen Öllagern, eigenen Raffinerien und Strom aus Sonne und Wind, und er liest dahinter eine Planung, die tut, was sie schreibt. Der Satz, die Strategie sei hinten erkannt und nicht vorne entworfen worden, ist der Einwand dagegen.
+
 ---
 
 ## Weiterführende Quellen

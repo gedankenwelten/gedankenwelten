@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **10.10.** — [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
+>
+> Hormus schließt, und Asien verbietet und ermöglicht zugleich, China füllt die Tanks, Deutschland zahlt einen Tankrabatt. Ein Ökonom sieht die Wende kommen, auch gegen die eigene Regierung.
+
 > **10.10.** — [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
 >
 > Ein Gutachten in zwei Fassungen, ein Plan wie ein Konzernpapier, eine Ministerin aus dem Gasnetz. Greenpeace liest die Akten von Reiches erstem Jahr, und die Akten widersprechen ihr.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Was sich nicht rechnet, wird gestrichen: der lange Artikel, der ungeprüfte Beweis, die Gabe ohne Gegengabe. Dietmar Dath verteidigt die Verschwendung und fragt, welche Ordnung Großzügigkeit wirklich macht.
 
-> **08.10.** — [[Zeitgeist/Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird|Mithu Sanyal und Şeyda Kurt — Entgegenkommen, wenn es feindlich wird?]]
->
-> Ist Pazifismus Passivität oder die mühsamere Arbeit? Zwei Schriftstellerinnen und zwei Gastgeber streiten über Aufrüstung, Deserteure und darüber, was eine Stadt sicher macht.
-
-> → *15 weitere in* [[Zeitgeist]]
+> → *16 weitere in* [[Zeitgeist]]
 
 ### Panorama
 

@@ -275,6 +275,10 @@ Fichtner und Specht sind konzeptuelle Zwillinge im *Geladen*-Podcast: Fichtner d
 
 Spechts Netz, das lieber gemolken als ausgebaut wird, bekommt dort ein Gesicht: Die Ministerin führte fünf Jahre einen Netzkonzern, und ihr Haus setzt auf Gaskraftwerke statt auf Speicher, während intern der Netzausbau hinterherhinkt.
 
+### → [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
+
+Die Fortsetzung nach der Hormus-Krise: Specht führt das chinesische Modell bis zum Kapazitätsmarkt vom Januar 2026 und aus dem Strommarkt hinaus in die Geopolitik von Malakka und Hormus. Der Faktencheck dort zeigt, dass der Kapazitätsmarkt die Kohle eher stützt als verdrängt.
+
 ---
 
 ## Weiterdenken

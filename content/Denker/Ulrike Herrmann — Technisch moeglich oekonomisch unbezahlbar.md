@@ -374,6 +374,10 @@ Ein Nobelpreisträger bietet genau das Werkzeug an, das in Herrmanns Kerosin-Ket
 
 Bleisch beruft sich auf Herrmann gegen El-Mafaalanis These vom stehenden Kuchen, der den Backlash nährt. Herrmanns gleiche Rationierung ist die Bedingung, unter der ein schrumpfender Kuchen keinen Verteilungskampf auslösen müsste.
 
+### → [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
+
+Gegen dieses China steht Spechts: Wo Herrmann Überinvestition und geschönte Zahlen sieht, sieht er eine Technokratie, die ihre Pläne übererfüllt. Bei den synthetischen Kraftstoffen sind sich beide einig, dass es teuer wird; Specht folgert daraus nur, erst die billigen achtzig Prozent zu machen.
+
 ---
 
 ## Weiterdenken
