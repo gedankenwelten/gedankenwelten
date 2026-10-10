@@ -377,6 +377,9 @@ Dieselbe Methode, anderes Ziel: einen viralen Clip nehmen und Zahlen dagegenstel
 
 Der dritte Fall im selben Format, und der klarste Beleg, dass Höfgen die Framing-Frage praktisch stellt. Dort lehnt eine Lobbyistin einen Krisenbonus als „Belastung" ab, der ihren eigenen Mitgliedern Spielraum gegeben hätte: eine Wertung, die gegen das eigene Interesse arbeitet, weil sie im Vokabular der Gegenseite denkt. Genau diesen Vorgang hält Höfgen hier Fratzscher vor, nur eine Etage höher — bei einem Ökonomen, der dasselbe will wie er.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Höfgens Rechnung, es gebe schlicht zu wenig Stellen, hat er Grimm schon 2022 bei Jung & Naiv vorgelegt; sie antwortete mit Lohnabstand und Matching.
+
 ---
 
 ## Weiterdenken

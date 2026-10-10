@@ -78,6 +78,7 @@ Dezidiert links, marxistisch geprägt in der Kapitalismuskritik. Geht offen dami
 - [[DenkerVita/Stefan Schulz]] — Aktueller Podcast-Partner (Aufwachen!, Die Neuen Zwanziger); Schulz liefert soziologische Analyse, Jung politische Praxis
 - [[DenkerVita/Maurice Hoefgen]] — Beide fordern radikale Wirtschaftsreform, aber Höfgen aus MMT-Perspektive (Staatsausgaben), Jung aus marxistischer (Enteignung)
 - [[DenkerVita/Heiner Flassbeck]] — Teilt die Diagnose der Nachfragekrise und Vermögensungleichheit; Flassbeck ist keynesianischer Ökonom, Jung politischer Journalist
+- [[DenkerVita/Veronika Grimm|Veronika Grimm]] — Gast in Folge 612 (2022), dreieinhalb Stunden Streit über Wachstum, Suffizienz, Fracking und die reichsten Familien; Jung hält ihr die Erbschaftsteuer vor, die sie am Ende selbst erhöhen würde.
 
 ---
 
@@ -86,3 +87,4 @@ Dezidiert links, marxistisch geprägt in der Kapitalismuskritik. Geht offen dami
 - [[Tilo Jung — Erben Wirtschaft AfD-Strategie]] — Streitgespräch bei Tim Gabel (April 2026)
 - [[Der Entscheidende Punkt — Nach den Landtagswahlen]] — moderiert die Wahlnachlese mit Hensel, Kormbaki und Jessen (September 2026)
 - [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]] — drei Stunden mit dem Gründer der Losdemokratie, hartnäckig bei Eigentum und Grundgesetz (Jung & Naiv 850, September 2026)
+- [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]

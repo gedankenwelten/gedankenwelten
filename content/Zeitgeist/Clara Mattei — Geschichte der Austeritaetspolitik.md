@@ -309,3 +309,6 @@ Wolfgang M. Schmitt nennt Schuldenregeln eine „Politik der Engherzigkeit“, d
 ### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
 
 Weber nennt Hayeks *Weg zur Knechtschaft* eine antifaschistische Wirtschaftspolitik, die gescheitert ist; Mattei zeigt Liberale, die Mussolini applaudierten. War der Marktliberalismus je ein Bollwerk gegen den Faschismus? Darüber streiten die beiden Notes. Einig sind sie bei der Zinswaffe: Wer auf jeden Schock mit höheren Zinsen antwortet, verteuert die Investitionen, die aus der Krise führen.
+
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Was Mattei als Trinität der Austerität beschreibt, verteidigt Grimm Ende 2022 als Vernunft: höhere Zinsen trotz schwacher Nachfrage, eine Konzertierte Aktion, die die Löhne zurückhält, Fiskalregeln, die in guten Zeiten tilgen. Den Kurs der EZB nennt sie alternativlos.

@@ -24,6 +24,14 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **10.10.** — [[Zeitgeist/Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)|Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+>
+> Eine Wirtschaftsweise verteidigt den Preis als das Signal, das eine Gesellschaft durch die Knappheit lenkt. Dreieinhalb Stunden lang will der Interviewer wissen, für wen es arbeitet.
+
+> **10.10.** — [[Zeitgeist/Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+>
+> Wer Moral für etwas hält, das nur Idioten glauben, hat schon verloren, bevor er streitet — Susan Neiman über die Ideologie hinter Trump und eine Linke, die sich vor dem Wort Gerechtigkeit fürchtet.
+
 > **10.10.** — [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
 >
 > Hormus schließt, und Asien verbietet und ermöglicht zugleich, China füllt die Tanks, Deutschland zahlt einen Tankrabatt. Ein Ökonom sieht die Wende kommen, auch gegen die eigene Regierung.
@@ -36,15 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Zwei Ostdeutsche, beide Jahrgang 1967, lesen dieselben dreißig Jahre gegensätzlich: Der eine sieht einen Osten, den der Westen erfunden hat, der andere einen, der in der Freiheit nie ankam.
 
-> **10.10.** — [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
->
-> Ein Gutachten in zwei Fassungen, ein Plan wie ein Konzernpapier, eine Ministerin aus dem Gasnetz. Greenpeace liest die Akten von Reiches erstem Jahr, und die Akten widersprechen ihr.
-
-> **10.10.** — [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik|Isabella Weber — Antifaschistische Wirtschaftspolitik]]
->
-> Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht.
-
-> → *19 weitere in* [[Zeitgeist]]
+> → *21 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -76,6 +76,10 @@ Die Gedankenwelten (luc)
 >
 > Gedankenlos, überzeugt oder nur dabei: Drei offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
 
+> **10.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+>
+> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+
 > **10.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 >
 > Verlernen wir, was wir der Maschine überlassen? Vier offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, und die Stimmen, die sich an ihnen reiben.
@@ -88,11 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
 
-> **10.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> → *11 weitere in* [[Panorama]]
+> → *12 weitere in* [[Panorama]]
 
 ### Gedanken
 

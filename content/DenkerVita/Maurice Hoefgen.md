@@ -115,6 +115,7 @@ Kritiker werfen ihm Vereinfachung vor — was teilweise stimmt (YouTube-Format b
 - [[DenkerVita/Heiner Flassbeck|Heiner Flassbeck]] — die vorangehende Generation derselben Argumentation, postkeynesianisch statt MMT. Flassbeck rechnet die Sektorbilanzen vor, aus denen Höfgens Formel vom Ersparnisberg folgt, und liefert die Exportkritik, die Höfgen bei Fratzscher vermisst.
 - [[DenkerVita/Clara Mattei|Clara Mattei]] — der Einwand gegen seine Methode. Höfgen behandelt Wirtschaftsmythen als Denkfehler, die mit besseren Begriffen zu heilen sind; für Mattei ist die Sparlogik ein Werkzeug, das Marktabhängigkeit herstellt und deshalb jede Widerlegung überlebt. Wo er die Preisstabilität von der Notenbank zu den Regierungen verschieben will, ist Zentralbankunabhängigkeit bei ihr von Anfang an der liberale Weg zur Austerität.
 - [[DenkerVita/Achim Truger|Achim Truger]] — die institutionelle Variante seiner Ziele: Sachverständigenrat statt YouTube, Ausgabenregel statt Systemkritik. Wer beide liest, sieht die Kosten und den Nutzen der Anschlussfähigkeit.
+- [[DenkerVita/Veronika Grimm|Veronika Grimm]] — In [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)#Publikumsfragen|Jung & Naiv 612]] stellte er ihr die Zuschauerfragen: Zinsen als Fingerzeig an die Gewerkschaften, Fiskalregeln, die Personal als Konsum zählen, zu wenige Stellen für zu viele Suchende. Sie antwortete mit Glaubwürdigkeit der Notenbank, Lohnabstand und Matching.
 
 ---
 

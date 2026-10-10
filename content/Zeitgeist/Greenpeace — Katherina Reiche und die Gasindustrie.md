@@ -310,6 +310,9 @@ Das Panorama zur Energiewende hat Drehtür-Lobbyismus und Batteriespeicher als e
 
 Wo Greenpeace die Akten liest, rechnet Specht nach: Die 36 Milliarden, mit denen Reiche die Systemkosten der Erneuerbaren beziffert, sind für ihn Zahlungen und genehmigte Renditen, keine Kosten. Und er teilt die Klage über ein Land, das alle paar Jahre die Richtung wechselt.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Wie eine Wirtschaftsweise 2022 noch „nur die Diskussion“ über heimisches Fracking wollte und dabei ausschließlich die Argumente dafür vortrug. 2026 sitzt sie in Reiches Beraterkreis, der Fracking ernsthaft prüfen will.
+
 ---
 
 ## Weiterdenken

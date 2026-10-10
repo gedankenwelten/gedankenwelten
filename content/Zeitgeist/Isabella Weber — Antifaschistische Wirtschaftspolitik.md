@@ -228,7 +228,7 @@ Dem Zuhörer, der nach der Menge fragte, gab Weber halb recht. Die Geschichte gi
 > [!question] Die Reibung
 > Andreas Löschel warnt, wer erwarte, im Ernstfall vom Staat „rausgeboxt“ zu werden, baue nicht um. Weber sagt, der Deckel kaufe die Zeit für den Umbau. *Wird gekaufte Zeit zum Umbau genutzt, oder lehrt sie, auf den nächsten Deckel zu warten?*
 
-*Noch führt diese Frage in kein Panorama. Für den Deckel stehen im Bestand [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Die geplante Marktwirtschaft|Tom Krebs]] und [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung#Markteingriffe|Ines Schwerdtner]], dagegen oder für andere Wege [[Andreas Loeschel — Strom NEU DENKEN#Die Tankrabatt-Falle — Erwartungen sind das eigentliche Kapital der Transformation|Andreas Löschel]] (Erwartungen statt Rettung), [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)#Spritpreise drücken ist ökonomisch und ökologisch falsch|Claudia Kemfert]] (Klimageld statt Spritdeckel), [[Jung und Naiv — 1 Jahr Kanzler Merz#Wirtschaftspolitik Die Logik der Umverteilung nach oben|Ulrike Herrmann]] (300 Euro pauschal statt Rabatt), [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Höhere Gewalt und Zwischenräume|Eva von Redecker]] (anderthalb geheizte Zimmer umsonst) und [[Dirk Specht — Das Ende des Erdoels beginnt jetzt#Tankrabatt und Abregelung|Dirk Specht]] (der Rabatt landet beim Oligopol). Das wäre genug für ein Panorama „Wann darf der Staat Preise setzen?“; es fehlt noch eine Stimme, die den freien Preis als Zuteilung verteidigt.*
+→ Weiter im Panorama: **[[Wann darf der Staat Preise setzen#Muss der Preis sprechen, wenn es knapp wird?|Wann darf der Staat Preise setzen?]]** Dort steht die Stimme, die hier fehlte: Veronika Grimm, die mit Weber in derselben Kommission saß und den Preis als Sparsignal verteidigt, dazu die Forschung zur Sparwirkung, zur Entlastung und zu den Versorgern, die am Deckel verdienten.
 
 ### Markt und Selbstwert
 
@@ -426,6 +426,9 @@ Ein Gedanke von Luc, entstanden an Webers Satz vom Selbstwert am Markt: Einen We
 ### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
 
 Webers These, Wirtschaftspolitik sei Demokratieschutz, trifft dort auf ihren stärksten Einwand: Kowalczuk nennt das Wohlstandsversprechen der Einheit einen Grundirrtum, Demokratie habe mit Wohlstand nur im besten Fall zu tun. Juli Zeh steht näher bei Weber, wenn sie erklärt, wie moralisch abgewertete Interessen zu Wut werden.
+
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Die Stimme, die der Nachbesprechung fehlte. Grimm saß mit Weber in derselben Gaskommission und beschreibt dieselbe Bremse als Einmalzahlung, die den Preis der letzten Kilowattstunde unberührt lässt; einen Deckel pro Kopf hält sie für nicht umsetzbar, Rationierung für den Weg in den Schwarzmarkt.
 
 ---
 

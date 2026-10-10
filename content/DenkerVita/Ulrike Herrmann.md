@@ -89,7 +89,7 @@ Post-keynesianisch orientiert; kritisch gegenüber:
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier leer lassen)*
+- [[DenkerVita/Veronika Grimm|Veronika Grimm]] — Entwirft Wasserstoff aus dem Süden als Wachstumspfad, der sich vom CO2 löst; Herrmann rechnet dieselbe Kette als sinkende Effizienz und damit als Schrumpfen.
 
 ## Auszeichnungen & Anerkennung
 

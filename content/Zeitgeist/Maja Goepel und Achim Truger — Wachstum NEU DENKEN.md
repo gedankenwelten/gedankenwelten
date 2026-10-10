@@ -405,6 +405,9 @@ Krebs baut aus Trugers „planvoll“ ein Programm, die geplante Marktwirtschaft
 
 Roosens Zuckersteuer ist Trugers Pigou-Steuer auf dem Teller. Wo die Abgabe ab einer Zuckerschwelle greift, wirkt sie vor allem über den Hersteller, der sein Rezept darunter senkt: Die Kasse leert sich, weil die Lenkung gelingt.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Zwei Weise, ein Gremium: Truger beschreibt, wie eines der vier gesetzlichen Ziele die anderen frisst, Grimm verteidigt 2022 genau dieses Wachstum als vereinbar mit dem Klima, wenn die Emissionen teuer genug sind.
+
 
 ---
 

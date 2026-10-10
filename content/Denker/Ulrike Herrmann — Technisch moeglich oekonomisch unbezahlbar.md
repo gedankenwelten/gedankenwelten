@@ -378,6 +378,9 @@ Bleisch beruft sich auf Herrmann gegen El-Mafaalanis These vom stehenden Kuchen,
 
 Gegen dieses China steht Spechts: Wo Herrmann Überinvestition und geschönte Zahlen sieht, sieht er eine Technokratie, die ihre Pläne übererfüllt. Bei den synthetischen Kraftstoffen sind sich beide einig, dass es teuer wird; Specht folgert daraus nur, erst die billigen achtzig Prozent zu machen.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Grimm entwirft genau die Kette, die Herrmann durchrechnet: Sonnenstrom im Süden, Entsalzung, Elektrolyse, Import. Bei ihr wird daraus Wachstum, das sich vom CO2 löst, bei Herrmann sinkende Effizienz und damit Schrumpfen.
+
 ---
 
 ## Weiterdenken

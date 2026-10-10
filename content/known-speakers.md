@@ -1175,3 +1175,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Hans-Thomas Tillschneider
 **Status:** ✓ Vollanalyse → [[DenkerVita/Hans-Thomas Tillschneider]]
+
+## Veronika Grimm
+**Status:** ✓ Vollanalyse → [[DenkerVita/Veronika Grimm]]
