@@ -329,6 +329,10 @@ Kormbakis Prognose vom Tag nach der Wahl wird zwei Wochen später im Presseclub 
 
 Brosda warnte Ende August vor einer Landesregierung, die keine Staatsverträge mehr schließt, und vermisste bei den Demokraten genau das Zukunftsbild, mit dem die Gegenseite Jubel erntet.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Hensels lange Abschiedsbewegung lässt sich zweimal erzählen: als Antwort auf eine Politik, die nicht zuhörte (Oschmann), oder als Fortsetzung des Abduckens, das schon die Diktatur verlangte (Kowalczuk).
+
 ---
 
 ## Weiterdenken

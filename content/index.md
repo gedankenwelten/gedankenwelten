@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Hormus schließt, und Asien verbietet und ermöglicht zugleich, China füllt die Tanks, Deutschland zahlt einen Tankrabatt. Ein Ökonom sieht die Wende kommen, auch gegen die eigene Regierung.
 
+> **10.10.** — [[Zeitgeist/Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]]
+>
+> Zwei Ostdeutsche, beide Jahrgang 1967, lesen dieselben dreißig Jahre gegensätzlich: Der eine sieht einen Osten, den der Westen erfunden hat, der andere einen, der in der Freiheit nie ankam.
+
 > **10.10.** — [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
 >
 > Ein Gutachten in zwei Fassungen, ein Plan wie ein Konzernpapier, eine Ministerin aus dem Gasnetz. Greenpeace liest die Akten von Reiches erstem Jahr, und die Akten widersprechen ihr.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Reporter folgt Moskaus Fälscherwerkstatt seit 2022 und findet dabei sich selbst, samt einem ermordeten Bruder, den es nie gab. Vieles davon erreicht kaum jemanden. Gezählt wird trotzdem.
 
-> **08.10.** — [[Zeitgeist/Raul Krauthausen — Teilgabe statt Teilhabe|Raúl Krauthausen — Teilgabe statt Teilhabe]]
->
-> Wer schenkt, kann zurücknehmen, und wer beschenkt wird, schuldet Dank. Raúl Krauthausen fragt, wie eine Gesellschaft aussähe, in der Behinderte selbst großzügig sein können.
-
-> → *17 weitere in* [[Zeitgeist]]
+> → *18 weitere in* [[Zeitgeist]]
 
 ### Denker
 

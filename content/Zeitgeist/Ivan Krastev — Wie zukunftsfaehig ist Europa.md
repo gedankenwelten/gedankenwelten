@@ -313,6 +313,10 @@ Krastevs Beobachtung, dass kleine Nationen unter der Frage leben, ob es sie in h
 
 Blom greift den demografischen Kollaps und die Abwanderung der Jungen aus Osteuropa auf („Wenn man kaum noch Kinder auf der Straße sieht …“) und landet mit Morins „entschlossen“ bei der Haltung, die Krastev mit Havel beschreibt. Seine Konsequenz geht weiter: eine direkt gewählte, föderale europäische Regierung.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Kowalczuk sieht den Fehler darin, dass Kohl den Osten nach München statt nach Krakau blicken ließ. Krastev zeigt, warum ein solcher Maßstab demütigt: Wer nachahmen soll, akzeptiert die Regeln, aber nicht die Rangordnung.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

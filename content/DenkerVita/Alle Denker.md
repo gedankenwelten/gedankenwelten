@@ -348,6 +348,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Tim Kluessendorf|Tim Klüssendorf]]** — SPD-Generalsekretär und Volkswirt aus Lübeck, Parteilinker mit Vermögensabgabe, der Märkte per Ordnungspolitik statt Transfers zurückholen will
 
+**[[DenkerVita/Ilko-Sascha Kowalczuk|Ilko-Sascha Kowalczuk]]** — Historiker der SED-Diktatur (Stasi-Unterlagen-Behörde, Ulbricht-Biograf), der den Rechtsruck im Osten als Freiheitsschock statt als Kränkung durch den Westen deutet
+
 ## L
 
 **[[DenkerVita/Thomas Laschyk|Thomas Laschyk]]** — Gründer, Chefredakteur und Geschäftsführer des Anti-Fake-News-Blogs Volksverpetzer (*1992, Augsburg; Literaturwissenschaftler); *Werbung für die Wahrheit* (2024), Petition „Prüft ein AfD-Verbot!“; These: Fake News siegen als Geschichten, darum braucht die Wahrheit Werbung, und weil Reichweite käuflich ist, wird Steuerpolitik zur Medienpolitik
@@ -475,6 +477,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Martin Oetting|Martin Oetting]]** — Marktforscher & politischer Essayist; Postwachstums-Ökonomie, ökonomische Sackgasse als Nährboden des Faschismus, Initiative System Delta
 
 **[[DenkerVita/Arnaud Orain|Arnaud Orain]]** — Wirtschaftshistoriker & Ökonom (EHESS Paris); der Kapitalismus pendelt zwischen liberalen Phasen und einem „Kapitalismus der Endlichkeit“ aus Monopolen, militarisierten Meeren und Landnahme — seit 2010 wieder letzterer
+
+**[[DenkerVita/Dirk Oschmann|Dirk Oschmann]]** — Literaturwissenschaftler (Leipzig), liest „den Osten“ als westdeutsche Zuschreibung und die Ost-West-Ungleichheit als materielle Frage; Gegenspieler von Kowalczuks „Freiheitsschock“
 
 ## P
 
@@ -666,6 +670,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 ## Z
 
 **[[DenkerVita/Zhao Tingyang|Zhao Tingyang]]** — Politischer Philosoph (CASS Peking); Tianxia-System als Weltordnung, Ontologie der Koexistenz, Verbdenken, Smart Democracy, Neo-Universalismus jenseits westfälischem Staatensystem
+
+**[[DenkerVita/Juli Zeh|Juli Zeh]]** — Schriftstellerin und Brandenburger Verfassungsrichterin, erzählt das Dorf zwischen Stadt und Land und verteidigt Demokratie als Verfahren, nicht als Gesinnung
 
 ---
 

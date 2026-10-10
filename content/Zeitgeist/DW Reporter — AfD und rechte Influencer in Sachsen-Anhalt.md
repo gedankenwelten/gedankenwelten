@@ -332,6 +332,10 @@ Der Abend danach — und der Einwand gegen die eigene Fragestellung. Quent hält
 
 Nach der Wahl berichtet Marina Kormbaki, Siegmunds Reden in Merseburg und Schwerin seien voller „Zukunft“ gewesen, und Jana Hensel besteht auf einem materiellen Kern des Rechtsrucks. Querfurt zeigt, dass dieser Kern eher Infrastruktur und Anerkennung ist als Lohn.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Was Cedrick erbt, ist der Streitpunkt beider Bücher: für Oschmann eine Kränkung, die weitererzählt wird, weil sie andauert, für Kowalczuk eine Erzählung vom Nicht-gefragt-Werden, gegen die schon der 18. März 1990 spricht.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

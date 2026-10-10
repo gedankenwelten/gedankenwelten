@@ -1160,3 +1160,12 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Ines Schwerdtner
 **Status:** ✓ Vollanalyse → [[DenkerVita/Ines Schwerdtner]]
+
+## Dirk Oschmann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Dirk Oschmann]]
+
+## Ilko-Sascha Kowalczuk
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ilko-Sascha Kowalczuk]]
+
+## Juli Zeh
+**Status:** ✓ Vollanalyse → [[DenkerVita/Juli Zeh]]

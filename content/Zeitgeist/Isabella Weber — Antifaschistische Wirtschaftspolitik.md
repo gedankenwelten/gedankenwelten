@@ -423,6 +423,10 @@ Die Berliner Debatte des Abends in drei Stimmen: Weber will Mietendeckel und Ver
 
 Ein Gedanke von Luc, entstanden an Webers Satz vom Selbstwert am Markt: Einen Wert zu haben ist gut, gefährlich wird das *nur noch*. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar, und das Wohngeld zeigt, wie das Geld stattdessen zum Kapital wandert.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Webers These, Wirtschaftspolitik sei Demokratieschutz, trifft dort auf ihren stärksten Einwand: Kowalczuk nennt das Wohlstandsversprechen der Einheit einen Grundirrtum, Demokratie habe mit Wohlstand nur im besten Fall zu tun. Juli Zeh steht näher bei Weber, wenn sie erklärt, wie moralisch abgewertete Interessen zu Wut werden.
+
 ---
 
 ## Weiterdenken

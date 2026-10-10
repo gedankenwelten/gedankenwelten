@@ -2,7 +2,7 @@
 title: "Wie kann Demokratie funktionieren?"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-10-08
+aktualisiert: 2026-10-10
 description: "Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -257,6 +257,8 @@ Was „gleiche Maßstäbe“ verlangen, lässt sich prüfen, und die Prüfung f�
 
 Was an die Stelle der Parteien tritt, beschreiben die Stimmen unterschiedlich: Plattformen, die niemanden Kompromisse üben lassen (Marina Münkler), eine „Hyperpolitik“ voller Erregung ohne Apparat, der sie in Macht übersetzt (Anton Jäger), ein Bürger, der sich als Kunde versteht (Gesine Schwan) und zu dem ihn Schulklingel, Smartphone und Innenstadt erziehen (Marina Weisband). Umstritten ist die Antwort. Die einen setzen auf Bildung, die anderen halten genau das für herablassend oder wirkungslos. Und eine dritte Gruppe dreht die Frage um: Nicht der Bürger schulde der Demokratie etwas, sondern der Staat dem Bürger, zuerst einmal, dass er liefert.
 
+Ob der Wohlstand die Demokratie trägt, hat die Forschung zweigeteilt. Reicher zu werden macht Länder kaum demokratischer ([Acemoglu et al. 2008, doi:10.1257/aer.98.3.808](https://doi.org/10.1257/aer.98.3.808)), bestehende Demokratien in reichen Ländern sind aber noch nie gefallen ([Przeworski & Limongi 1997, doi:10.1353/wp.1997.0004](https://doi.org/10.1353/wp.1997.0004)), und junge Demokratien fallen vor allem in der Rezession zurück ([Svolik 2008, doi:10.1017/S0003055408080143](https://doi.org/10.1017/S0003055408080143)). Die Zufriedenheit mit dem, was eine Regierung leistet, folgt dem Wachstum, die Bindung an die Ordnung kaum ([Claassen & Magalhães 2021, doi:10.1177/00104140211036042](https://doi.org/10.1177/00104140211036042)), und die Bindung lässt Demokratien überleben ([Claassen 2020, doi:10.1111/ajps.12452](https://doi.org/10.1111/ajps.12452)). Was der Staat liefern muss, ist eher Funktionieren als Geld: Die Wirksamkeit der Regierung sagt die Unterstützung der Demokratie im Ländervergleich am besten vorher ([Magalhães 2014, doi:10.1111/1475-6765.12024](https://doi.org/10.1111/1475-6765.12024)). Und Beteiligung erzeugt Legitimität ([Esaiasson, Gilljam & Persson 2012, doi:10.1111/j.1475-6765.2011.02052.x](https://doi.org/10.1111/j.1475-6765.2011.02052.x)); die Bindung wächst mit jedem Jahr, das man in einer Demokratie lebt ([Fuchs-Schündeln & Schündeln 2015, doi:10.1126/science.aaa0880](https://doi.org/10.1126/science.aaa0880)).
+
 **Die Stimmen**
 
 - **[[Herfried Muenkler — Die Sehnsucht nach Ordnung#Die Schule der Urteilsfähigkeit|Herfried Münkler]]:** Die Parteien waren Orte der Schulung von Urteilsfähigkeit; an ihre Stelle trat das Dauerplebiszit am Bildschirm.
@@ -264,12 +266,14 @@ Was an die Stelle der Parteien tritt, beschreiben die Stimmen unterschiedlich: P
 - **[[Gesine Schwan — Macht NEU DENKEN#Bürger sind keine Käufer|Gesine Schwan]]:** Der Staat ist kein Serviceunternehmen, sondern Gegenstand unser aller Verantwortung.
 - **[[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Papa Staat oder meine Institution|Marina Weisband]]:** Wer zum Kunden und Besucher erzogen wird, trägt keine Demokratie; Kern ist das Selbstverständnis, für sich und andere verantwortlich zu sein, und das entsteht erst, wenn man handfest einwirken kann: „Ja, was haben wir denn bestellt?“
 - **[[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#„Sie werden es wagen“|Michel Friedman]]:** Das Schlimmste für die Zukunft sind die Gleichgültigen; Demokratie ist institutionalisiertes Misstrauen gegen die Macht, ein „Vertrauen im Misstrauen“, und es braucht Bürger, die es wach halten.
-- **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Bildung als Erklärung — und seine Grenzen|Philip Manow]]:** Wer „mehr politische Bildung“ fordert, meint oft, die anderen seien zu doof; was fehlt, ist nicht Wissen, sondern Übung im Debattieren.
+- **[[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Lasst uns mal machen|Ilko-Sascha Kowalczuk]]:** Dass Wohlstand Demokraten macht, sei der Grundirrtum der Generation Kohl; Demokratie ist keine Dienstleistung, sie funktioniert nur, wenn man sich in die eigenen Angelegenheiten einmischt.
 - **[[Dietrich Bonhoeffer — Theorie der Dummheit#3. Der Weg heraus — Befreiung, nicht Bildung|Dietrich Bonhoeffer]]:** „Nicht ein Akt der Belehrung, sondern allein ein Akt der Befreiung könnte die Dummheit überwinden.“
 - **[[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Was helfen könnte|Aladin El-Mafaalani]]:** Vertrauen ist eine Vorleistung; die Bringschuld liegt beim Staat, der seine Kernaufgaben nicht schafft und dafür nervt, wo er nicht müsste.
 
-<details><summary>Weitere Stimmen (9)</summary>
+<details><summary>Weitere Stimmen (11)</summary>
 
+- **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Bildung als Erklärung — und seine Grenzen|Philip Manow]]:** Wer „mehr politische Bildung“ fordert, meint oft, die anderen seien zu doof; was fehlt, ist nicht Wissen, sondern Übung im Debattieren.
+- **[[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Publikumsfragen|Ein Zuhörer in Halberstadt]]:** 1989 mit der Kerze auf dem Domplatz, heute anderthalb Jahre für eine Baugenehmigung statt sechs Wochen; die Jungen spürten, dass sie ihre Zukunft so nicht selbst gestalten können.
 - **[[Alexander Thiele — Rechtspopulismus und der demokratische Verfassungsstaat#Wer verteidigen will, muss aufstehen|Alexander Thiele]]:** Unter der Demokratie zu leben ist leicht; sie zu verteidigen „setzt voraus, dass man das nicht im Sitzen macht“ — gerade die Abgesicherten schweigen.
 - **[[StreitClub — Extremismus und der Schutz der Demokratie#Ein Fundament, das nie eines war|Matthias Quent]]:** Die Zustimmung zur Demokratie hing am vollen Kühlschrank, nicht an Überzeugung; jetzt kommt die erste echte Belastungsprobe.
 - **[[Andreas Puettmann — Werte NEU DENKEN#Ortega y Gasset und die Stimmungsdemokratie|Andreas Püttmann]]:** Mit Böckenförde lebt der Verfassungsstaat von einem Ethos, das er nicht selbst erzeugen kann; ohne Herzensbildung quer durch alle Schichten verfällt die Demokratie zur Stimmungsdemokratie.
@@ -335,6 +339,7 @@ Als Hebel wird die Obergrenze für Vermögen diskutiert. Ingrid Robeyns begründ
 | 08.10.2026 | [[Carsten Brosda — Naechste Demokratie#Nachbesprechung|Carsten Brosda — Nächste Demokratie?]] | Wer soll entscheiden: soziale Schieflage offener Beteiligung (Schäfer & Schoen, Merkel & Ritzi), Selbstauswahl auch beim Los (Bürgerrat Ernährung, Flanigan 2021), Gegenbefund Neblo 2010 |
 | 08.10.2026 | [[Roger de Weck — Was ist konservativ#Nachbesprechung|Roger de Weck — Was ist konservativ, was reaktionär?]] | Lernt ein Volk durch Abstimmen? Wissen ja (Benz & Stutzer, Fenger), Bildungseffekt umstritten, breite Teilnahme (Sciarini), Frauenstimmrecht als langsamste Lernkurve |
 | 08.10.2026 | Léa Steinacker, Utopie-Konferenz Lüneburg 2026 ([Video](https://www.youtube.com/watch?v=ztH_D-UV0TY&t=733), ohne eigene Note) | Wer soll entscheiden: vTaiwan und Pol.is (Small et al. 2021), KI als Moderator gemeinsamer Nenner (Tessler et al. 2024) |
+| 10.10.2026 | [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Nachbesprechung|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]] | Was braucht Demokratie von ihren Bürgern? Macht Wohlstand demokratisch? Modernisierungsthese (Acemoglu, Przeworski & Limongi, Svolik), Leistung gegen Bindung (Easton, Claassen), Staatsqualität (Magalhães), Beteiligung (Esaiasson); Kowalczuk und ein Zuhörer aus Halberstadt als Stimmen |
 
 ---
 

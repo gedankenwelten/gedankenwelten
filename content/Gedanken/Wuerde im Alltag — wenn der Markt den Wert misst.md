@@ -137,6 +137,10 @@ Gerade die Arbeiter glauben am stärksten an Leistungsgerechtigkeit. Darum wird 
 
 Das Panorama, in dem dieser Gedanke weitergeht, mit Weber, Fromm, Hochschild und den Stimmen, die den materiellen Kern bezweifeln.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Die Frage aus diesem Abschnitt hat zwei Antworten bekommen: Oschmann sieht die Kränkung durch einen Westen, der den Osten bis heute beschreibt, Kowalczuk einen Freiheitsschock, der an alte obrigkeitsstaatliche Gewohnheiten anknüpfte. Beide glauben, dass am Abendbrottisch etwas weitergegeben wird, nur nicht dasselbe. Und Juli Zeh erzählt, wie sie sich im Osten bereichert fühlte, in einer Welt, in der der Marktwert nicht das Höchste war.
+
 ---
 
 ## Weiterdenken

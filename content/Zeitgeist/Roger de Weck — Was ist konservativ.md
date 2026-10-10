@@ -387,6 +387,10 @@ Das wachsende Panorama sammelt die Forschung, an der sich de Wecks Thesen messen
 
 Am selben Konferenzwochenende biegt Brosda den Deliverism vom Inhalt auf die Frist um: Die Lücke zwischen Versprechen und Erfüllung sei kein Scheitern, sondern der Ansporn.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Kowalczuk geht gegen den Deliverism von der Bürgerseite an: Kretschmers „wenn das System nicht liefert“ hält er für das Problem selbst, denn Demokratie sei keine Dienstleistung. Hawes' tausendjährigen Osten brauchen weder er noch Oschmann.
+
 ---
 
 ## Weiterdenken

@@ -22,6 +22,13 @@ Als letzter Fallback oder für einfache API-Abfragen.
 
 ## Jina Reader starten (falls nicht läuft)
 
+> [!important] Immer starten, nie ausweichen (seit 10.10.2026, Andreas' Richtlinie)
+> Ist Jina offline, wird er **ohne Rückfrage** per Docker hochgefahren — von der Hauptinstanz wie von
+> jedem Sub-Agenten. Nicht stattdessen auf den echten Chrome (Claude in Chrome, Andreas' Browser mit
+> seinen Anmeldungen) ausweichen: Der ist für Aufgaben da, die Andreas ausdrücklich im Browser will.
+> Anlass: Am 10.10. war Jina aus, und ein Recherche-Agent las Google-Books-Vorschauen in Andreas' Chrome.
+> Wer Agenten mit Web-Recherche losschickt, gibt ihnen diesen Absatz mit.
+
 ```bash
 # Prüfen
 curl -sf http://localhost:3033/https://example.com > /dev/null 2>&1 && echo "OK" || echo "OFFLINE"

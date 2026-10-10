@@ -439,6 +439,10 @@ Wie weit Zahlen gegen Angst tragen, prüft [[BissenBlaBla — AfD-Behauptungen z
 
 Tooze will Ängste mit Vernunft prüfen und vorbeugend löschen; Münklers These, dass Angst sich ihre Gegenstände selbst sucht, ist die Gegenrede — beide berufen sich auf Koselleck.
 
+### → [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]
+
+Die Altersdaten der Zuhörerin sind Oschmanns stärkstes Argument gegen die Diktaturthese. Kowalczuk teilt Münklers Richtung, legt den Grund aber tiefer und jünger zugleich: in die Gewohnheit, „die da oben“ machen zu lassen, an die 1990 unbewusst angeknüpft wurde.
+
 ---
 
 ## Weiterdenken
