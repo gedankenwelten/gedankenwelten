@@ -477,6 +477,9 @@ Der Gedanke beschreibt einen bewussten Vertrauensvorschuss, der die Möglichkeit
 
 Die Schwester-Note desselben Wochenendes. Wo die drei Runden hier nach dem Vertrauen zwischen Menschen und Institutionen fragen, fragt Tooze nach der Krise als Gelegenheit für demokratisches Handeln, also nach dem, was Bude „riskanten Vorgriff“ und Göpel „Vertrauen in die Handlungsfähigkeit“ nennt.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Warum es nicht die anderthalb Zimmer wurden, erzählt die Ko-Vorsitzende der Gaskommission: Der Versorger sieht nur den Anschluss, nicht ob dahinter hundert Mietparteien wohnen oder eine Villa mit Pool. Gerechtigkeit pro Kopf hätte Daten, Kontrollen und eine Verwaltung gebraucht, die im Herbst 2022 nicht da war.
+
 ---
 
 ## Weiterdenken

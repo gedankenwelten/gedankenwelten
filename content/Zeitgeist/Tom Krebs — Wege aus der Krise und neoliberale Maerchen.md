@@ -428,6 +428,9 @@ Krebs fragt, wem die Netze gehören sollen; die Nachbesprechung dort fragt weite
 
 Weber und Krebs haben gemeinsam gefragt, ob Preiskontrollen optimal sein können. Auf ihrer Buchpremiere stellt sie dieselbe Polanyi-Diagnose in einen älteren Rahmen, den antifaschistischen Gründungskonsens der Vierzigerjahre, und nennt den Weg radikalen Gradualismus statt geplanter Marktwirtschaft. Ihr Satz, nach der Gaspreisbremse habe die AfD stagniert, ist die Gegenprobe zu Krebs' erstem Schub, und die Nachbesprechung hier zeigt, warum sie noch offen ist.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Die Gegenrechnung zu den umfassenden Preisbremsen: Grimm will den Kosten-Tsunami nur bis zu einer neuen, höheren Normalität dämpfen, weil der Preisschock den Strukturwandel beschleunigen soll. Beim Netz vertraut sie den Gasnetzbetreibern und will ihnen den Umbau zum Wasserstoff über die Regulierung schmackhaft machen.
+
 ---
 
 ## Weiterdenken

@@ -339,3 +339,6 @@ Ein halbes Jahr nach dem Gespräch zeigt Spanien Kemferts Friedenstechnologie in
 
 Wie andere Länder dieselbe Krise beantworteten, zeigt Specht aus Asien: Rationierung nach Sektoren, Einschränkung mit Angebot, und ein Tankrabatt, der auch 2026 zum Teil bei den Konzernen landete.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Beim Preissignal sind sich Kemfert und Grimm einig, beide wollen es halten und als Klimageld zurückgeben. Bei der Kernkraft und der Übergewinnsteuer stehen sie gegeneinander.
+

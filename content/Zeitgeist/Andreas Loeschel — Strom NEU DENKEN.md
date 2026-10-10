@@ -270,6 +270,9 @@ Löschels Ideal einer Wissenschaft, die Abwägungen offenlegt und das Entscheide
 
 Spechts Rat ist die private Antwort auf die Tankrabatt-Falle: elektrifizieren und nicht darauf wetten, dass der CO₂-Preis politisch kippt. Und die Nachbesprechung dort zeigt, warum der verlässliche CO₂-Preis umso wichtiger wird, je billiger Öl in der Nische wird.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Grimm denkt die Tankrabatt-Falle von der Investorenseite: Wer in der Krise Zufallsgewinne abschöpft, lehrt, dass auch der nächste Gewinn nicht bleibt, und die Branche wartet ab. Wie schnell eine Ökonomin, die Abwägungen offenlegt, einem Lager zugeschlagen wird, zeigt ihr Abend bei Jung & Naiv.
+
 ---
 
 ## Weiterdenken

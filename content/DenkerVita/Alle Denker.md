@@ -230,6 +230,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Götz Aly|Götz Aly]]** — Historiker, Journalist; NS-Forschung; "Hitlers Volksstaat"; Täterforschung
 
+**[[DenkerVita/Veronika Grimm|Veronika Grimm]]** — Ökonomin und Wirtschaftsweise (*1971), Professorin für Energiesysteme und Marktdesign an der TU Nürnberg; Spieltheorie, Auktionen, Wasserstoff; 2022 Ko-Vorsitzende der Gaskommission (Gaspreisbremse), seit 2024 im Streit mit dem eigenen Rat über ihr Siemens-Energy-Mandat; setzt auf Spielregeln, CO2-Preis und Schuldendisziplin
+
 ## H
 
 **[[DenkerVita/Yuval Noah Harari|Yuval Noah Harari]]** — Israelischer Historiker (Hebräische Universität Jerusalem), Autor von *Sapiens*, *Homo Deus*, *Nexus*; geteilte Fiktionen als Motor der Menschheitsgeschichte, KI als erste Geschichten erzählende Technologie, „Dataismus“; langjähriger Vipassana-Praktiker (Goenka-Tradition)

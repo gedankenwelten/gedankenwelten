@@ -222,3 +222,6 @@ Löschel diagnostiziert dasselbe Muster — reaktive Einzelmaßnahmen destabilis
 ### → [[Isabella Weber — Antifaschistische Wirtschaftspolitik]]
 
 Auf Webers Buchpremiere erzählt Schwerdtner, woher diese Forderungen kommen: Weber schlug den Gaspreisdeckel vor, bevor der Schock kam, und wurde von der eigenen Zunft dafür verspottet. Was hier als Programm der Linken steht, ist dort als Theorie ausgearbeitet: Der Deckel kauft die Zeit für den Umbau.
+
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Die ökonomische Gegenrede zu dieser Liste, Jahre früher gehalten: Grimm will Zufallsgewinne nicht abschöpfen, weil die Branche, die jetzt schnell sein soll, sonst abwartet, und sie hält einen Staat, der Mengen zuteilt, für unkontrollierbar.

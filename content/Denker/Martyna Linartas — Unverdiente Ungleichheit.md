@@ -259,3 +259,6 @@ Linartas' Optimismus mit Piketty hat einen Gegenspieler bekommen: Ardalan Ibrahi
 
 Blom beschreibt denselben Rückfall von der Demokratie zur Dynastie als „neuen Adel“, der weniger Steuern zahlt und sich Staatsbürgerschaften kauft, und liefert das Bild dazu: das Mädchen, das sagt, die anderen hätten sich ihr Pony „nicht genug gewünscht“. Seine Kulissen der Demokratie sind das Gegenstück zu Linartas' Theaterstück Neoliberalismus.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Tilo Jung nennt es bei Grimm „Geldvorteilsgesellschaft“, früher habe man das Adel genannt. Die Wirtschaftsweise spricht von einem Spannungsfeld und würde am Ende die Erbschaftsteuer erhöhen.
+

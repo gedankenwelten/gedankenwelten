@@ -324,3 +324,6 @@ Studio Bonn bringt Engelhorn ins Gespräch — eine Erbin, die freiwillig umvert
 ### → [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]
 
 Ein Fall zu Gabels Gründungsproblem: Bei Bergère de France tragen die Beschäftigten das Kapitalrisiko selbst, mit ihren Abfindungen. Der regionale Solidarfonds des Genossenschaftsverbands ist ein kleines Mondragón-Bankmodell, und Sitek zeigt, was passiert, wenn er nicht reicht.
+
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Jung als Interviewer gegen eine Wirtschaftsweise: Wachstum, Suffizienz, Fracking, die reichsten Familien, und am Ende die Erbschaftsteuer, die Grimm dann doch erhöhen würde.

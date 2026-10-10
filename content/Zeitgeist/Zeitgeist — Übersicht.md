@@ -382,6 +382,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da|Sigl-Glöckner & Kaczmarczyk — Geld ist genug da?]] — Die 60-Prozent-Grenze stammt aus einer Fußnote, die sich selbst Zufall nennt. Vier Stimmen fragen, ob Knappheit eine Tatsache ist oder eine Entscheidung — und wem sie dient.
 - [[Zeitgeist/Stremlau und Goepel — Investieren NEU DENKEN|Silke Stremlau & Maja Göpel — Investieren NEU DENKEN]]
 - [[Zeitgeist/Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)|Staiy — News: Reiche EXPOSED, Kerosinmangel und Haushaltskürzungen (16.04.2026)]]
+- [[Zeitgeist/Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)|Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]] — Eine Wirtschaftsweise verteidigt den Preis als das Signal, das eine Gesellschaft durch die Knappheit lenkt. Dreieinhalb Stunden lang will der Interviewer wissen, für wen es arbeitet.
 - [[Zeitgeist/Yanis Varoufakis — Technofeudalism|Yanis Varoufakis — Technofeudalism]]
 - [[Zeitgeist/Maurice Hoefgen — Marcel Fratzscher entlarvt 10 Wirtschaftsmythen|Zehn Wirtschaftsmythen, zwei Widerlegungen]] — Zwei progressive Ökonomen räumen dieselben Denkfehler ab — und geraten sich über die Bilder in die Haare, mit denen man sie abräumt.
 

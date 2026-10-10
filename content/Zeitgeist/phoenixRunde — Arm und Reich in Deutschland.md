@@ -371,6 +371,9 @@ Die Anstalt zeigt denselben Mechanismus als geschlossene Kette: Weil öffentlich
 
 Das Gegenstück zu Deißners „Diskursindustrie“: Laschyk sieht die Industrie auf der Seite der Vermögenden, deren Geld Reichweite kauft — und bittet am Ende selbst um Spenden. Beide sprechen als interessierte Partei.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Grimm teilt die Sorge ums Betriebsvermögen, zieht aber einen anderen Schluss: gegen die Vermögensteuer, für eine Erbschaftsteuer, die mehr einbringt als zwei Prozent der vererbten Summe. Die Stundung über Jahre legte ihr Tilo Jung schon 2022 hin.
+
 ---
 
 ## Weiterdenken

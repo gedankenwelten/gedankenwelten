@@ -5102,3 +5102,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Primärdokument** | [Dr. H.-Th. Tillschneider: Der Amoklauf von Halle — Eine Wahnsinnstat, keine politische Tat!](https://www.youtube.com/watch?v=WYjHrmbeFBo) (Landtagsrede 15.10.2020, AfD-Fraktion Sachsen-Anhalt) |
 | **Notiz** | [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle]] |
 | **Transkripte** | `Gedankenwelten/Transkripte/Bartunek_Tillschneider_Synagoge_Halle_Transkript.txt` · `Gedankenwelten/Transkripte/Tillschneider_Landtagsrede_Halle_2020_Transkript.txt` (YouTube-Automatikuntertitel) |
+
+
+## Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)
+
+| | |
+|---|---|
+| **Interview** | [Ökonomin & „Wirtschaftsweise“ Veronika Grimm — Jung & Naiv: Folge 612](https://www.youtube.com/watch?v=2i4lzizD9m4) (28.11.2022; Interview Tilo Jung, Zuschauerfragen Maurice Höfgen) |
+| **Notiz** | [[Zeitgeist/Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Grimm_JungNaiv612_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

@@ -84,6 +84,8 @@ Stremlau bringt die Finanzierungsseite: Wie lenkt man Kapital in die nachhaltige
 
 ### → [[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]
 Der schärfste Gegenpol im eigenen Lager: Beide wollen die fossile Wirtschaft überwinden, aber Kemfert glaubt an grünes Wachstum durch Erneuerbare, während Herrmann bezweifelt, dass eine vollständig regenerative Vollversorgung den heutigen Wohlstand tragen kann, und für Schrumpfung plädiert. Die Reibung verläuft an der Machbarkeitsfrage der Energiewende selbst.
+### → [[DenkerVita/Veronika Grimm|Veronika Grimm]]
+Einig beim Preissignal und beim Klimageld, gegeneinander bei der Kernkraft (Grimm rechnete 2022 mit 40 Millionen Tonnen CO2, die der Weiterbetrieb gespart hätte) und bei der Übergewinnsteuer.
 
 ## Gedankenwelten-Notes
 

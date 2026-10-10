@@ -167,6 +167,9 @@ Die Denker-Note liefert die politische Konsequenzkette, die der „Lohn-Irrsinn"
 
 Empirisches Komplement: MONITOR zeigt den institutionellen Mechanismus, durch den Lohndumping im Klein-Klein der Arbeitsmarktpolitik organisiert wird — Minijobs als Hartz-Erbe, 500.000 verdrängte Sozialversicherungsjobs. Flassbeck analysiert dasselbe von der makroökonomischen Höhe: Nicht die Arbeitnehmer sind zu teuer, sondern das System produziert systematisch Prekarität. MONITOR liefert die Gesichter, Flassbeck die Logik dahinter.
 
+### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
+Höfgen stellte Grimm genau Flassbecks Frage, ob der deutsche Lohndruck nach der Agenda 2010 die Nachbarn in die Krise getrieben habe. Sie sah Verschiebungen, aber keinen klar zu trennenden Effekt.
+
 ---
 
 ## Weiterdenken

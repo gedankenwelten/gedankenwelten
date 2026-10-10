@@ -79,6 +79,7 @@ Er wird von der Forschungscommunity respektiert und von der Politik gehört — 
 - **[[DenkerVita/Maja Goepel|Maja Göpel]]** — Gesprächspartnerin und komplementäre Perspektive: Göpel denkt normativ-systemisch (Transformationsforschung), Löschel verhaltensökonomisch-empirisch. Beide treffen sich in der Diagnose, dass Erwartungsstabilität das eigentliche Kapital der Energiewende ist.
 - **[[DenkerVita/Gesine Schwan|Gesine Schwan]]** — Schwans Begriff der *Gestaltungsmacht* liefert den politiktheoretischen Rahmen für Löschels Akzeptanzforschung: Das von ihm begleitete Bürgerenergiegesetz NRW ist institutionalisierte Gestaltungsmacht gegen die „laute Minderheit".
 - **[[DenkerVita/Silke Stremlau|Silke Stremlau]]** — Beide argumentieren über Erwartungen und Kapitalflüsse: Stremlau von der Finanzseite (Kapitalallokation formt Transformation), Löschel von der Politikseite (Tankrabatt zerstört Investitionssignale).
+- **[[DenkerVita/Veronika Grimm|Veronika Grimm]]** — Denkt die Tankrabatt-Falle von der Investorenseite weiter: Wer Zufallsgewinne abschöpft, lehrt, dass auch der nächste Gewinn nicht bleibt. Beide setzen auf Erwartungsstabilität und Emissionshandel.
 
 ## Gedankenwelten-Notes
 

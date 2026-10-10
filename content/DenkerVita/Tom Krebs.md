@@ -80,6 +80,7 @@ Widerspruch kommt aus der eigenen Zunft. Rüdiger Bachmann und Christian Bayer n
 - [[DenkerVita/Karl Marx|Karl Marx]] — Für Krebs „einfach ein klassischer Ökonom“, der sich für langfristige Strukturen interessierte; seine Ausbeutungsdefinition übersetzt er in die Aufteilung eines Überschusses zwischen Kapital und Arbeit.
 - [[DenkerVita/Tilo Jung|Tilo Jung]] — Gastgeber von Folge 853, der ihn von links drängt; Krebs folgt ihm beim öffentlichen Eigentum und widerspricht beim Wachstum, bei Verboten und beim Patentrecht.
 - [[DenkerVita/Isabella Weber|Isabella Weber]] — Koautorin von *Can Price Controls Be Optimal?* (2024); dieselbe Polanyi-Diagnose, sie verankert sie im antifaschistischen Gründungskonsens der Vierziger und stützt sich in Berlin auf dieselbe IMK-Rechnung.
+- [[DenkerVita/Veronika Grimm|Veronika Grimm]] — Die Gegenrechnung zu seinen Preisbremsen: den Schock nur bis zur neuen Normalität dämpfen, damit der Preis den Strukturwandel treibt; beim Netz Vertrauen in die bisherigen Betreiber statt öffentliches Eigentum.
 
 ## Cortex-Notes
 
