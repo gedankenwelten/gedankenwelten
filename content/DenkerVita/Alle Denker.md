@@ -100,6 +100,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Byung-Chul Han|Byung-Chul Han]]** — Koreanisch-deutscher Philosoph (Berlin), Diagnostiker der erschöpften Gesellschaft; Müdigkeitsgesellschaft & Selbstausbeutung des Leistungssubjekts, Negativität des Anderen, Psychopolitik, Infokratie, Glück als Handarbeit; Prinzessin-von-Asturien-Preis 2025
 
+**[[DenkerVita/Stephan Bartunek|Stephan Bartunek]]** — österreichischer YouTuber und Streamer („Oida, Bartunek!“), Schauspieler; Aussteiger aus der Verschwörungsszene um Ken Jebsen, heute polemischer Kommentator zu FPÖ, AfD und rechten Influencern
+
 ## C
 
 **[[DenkerVita/Christian Wiese|Christian Wiese]]** — evangelischer Theologe und Judaist, Martin-Buber-Professor für jüdische Religionsphilosophie an der Goethe-Universität Frankfurt, Leiter des Buber-Rosenzweig-Instituts; Hans-Jonas-Forscher, Herausgeber in der Buber-Werkausgabe, Gedenkbuch der hessischen Synagogen
@@ -612,6 +614,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Adam Tooze|Adam Tooze]]** — Britischer Wirtschaftshistoriker (Columbia University, European Institute); vom Historiker der NS-Kriegswirtschaft zum meistgelesenen Chronisten der „Polykrise“; Newsletter *Chartbook* — Ökonomie immer als Machtfrage gelesen
 
 **[[DenkerVita/Achim Truger|Achim Truger]]** — Ökonom, Professor für Sozioökonomie (Duisburg-Essen), seit 2019 „Wirtschaftsweiser“ auf Vorschlag der Gewerkschaften; Keynesianer im Rat der Angebotsökonomen — scharfe, nüchterne Kritik an der Schuldenbremse, Plädoyer für öffentliche Investitionen
+
+**[[DenkerVita/Hans-Thomas Tillschneider|Hans-Thomas Tillschneider]]** — Islamwissenschaftler und AfD-Politiker, Chefideologe des als gesichert rechtsextremistisch eingestuften Landesverbands Sachsen-Anhalt, seit Oktober 2026 Landtagsvizepräsident; Ethnopluralist, Kreml-nah, nennt den Synagogenanschlag von Halle einen „Amoklauf“
 
 ## U
 

@@ -3,9 +3,27 @@ title: Stephan Bartunek — DenkerVita
 description: "Stephan Bartunek kannte die Verschwörungsszene um Ken Jebsen von innen. Heute nimmt er als „Oida, Bartunek!“ mit Schmäh und Wut FPÖ, AfD und seine alte Szene auseinander."
 tags: [denker-vita, rechtsextremismus, afd, desinformation, verschwörungstheorien, antisemitismus, medien, youtube, satire, oesterreich]
 aktualisiert: 2026-10-10
+raetsel: "Er kennt das Haus von innen. Darum schreit er so laut vor seiner Tür."
 ---
 
 # Stephan Bartunek — DenkerVita
+
+![[assets/Stephan-Bartunek-vita-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Honoré Daumier** — Lithokreide und Tuschlavierung auf cremefarbenem Papier, Sepia und Kohleschwarz, ein einziger Akzent im verblassten Rot. Ein schlaksiger Spötter auf der kleinen Bühne eines Wiener Kaffeehauses zeigt mit großer Geste auf eine Leinwand, auf der ein Redner am Pult vor seiner Menge steht; hinter ihm das rote Fadengeflecht der Verschwörungswand und die offene Tür, durch die er ihr entkommen ist, zu seinen Füßen eine abgelegte Theatermaske. Daumier war der Satiriker mit dem Lithostift und zeichnete Theater und Gaukler — die genaue Hand für einen Schauspieler, der die Szene von innen kannte und heute mit Schmäh auf sie zeigt.
+
+*Prompt:* Wide panoramic banner in the manner of Honoré Daumier, lithographic crayon and ink wash on cream paper, the grain of the stone showing through, loose energetic satirical line. A lanky performer in a crumpled jacket stands on a small wooden cabaret stage in a Viennese coffee-house, half turned to the audience, one arm flung out in a sweeping theatrical gesture toward a large pale projection screen on the right that shows only a grainy blurred image of a crowd before a lectern, pure shapes and tones. His face is a loose expressive sketch with a wry, knowing grin, mid-quip, not a portrait. Behind him on the left, out of the darkness, a dense thicket of tangled red strings, pins and blank crumpled papers, a conspiracy wall he has just stepped out of, a door hanging open behind him. A discarded theatre mask lies at his feet. Round marble café tables and a bentwood chair in the foreground. Palette: warm sepia, charcoal black, cream, the single accent of faded red in the strings. Absolutely no text, no letters, no words, no handwriting anywhere.
+
+</details>
+
+## Biografischer Snapshot
+
+> [!info] Wer spricht?
+> **Stephan Bartunek** (*1977, Niederösterreich*) — ausgebildeter Schauspieler (Max Reinhardt Seminar), kommentiert als „Oida, Bartunek!“ und BabaBartunek auf YouTube und Twitch FPÖ, AfD und rechte Influencer, mit Wiener Schmäh, sarkastisch, oft beleidigend.
+>
+> Die Szene, die er heute zerlegt, kennt er von innen: Von 2015 bis 2021 gehörte er zu den „alternativen Medien“ um Ken Jebsen, schrieb für *Rubikon* und betrieb den Blog Gruppe42. Im September 2021 hat er öffentlich gebrochen. Der Ausstieg ist der Grund seiner Glaubwürdigkeit und zugleich sein Schatten.
 
 ## Biografie
 - **Österreichischer YouTuber, Streamer und Schauspieler**, online als **BabaBartunek** bzw. **„Oida, Bartunek!“**. Den bürgerlichen Namen Stephan Bartunek führt er selbst öffentlich (Instagram-Profil [@bababartunek](https://www.instagram.com/bababartunek/), Spendenaufrufe, Interviews).
