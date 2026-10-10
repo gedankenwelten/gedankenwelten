@@ -134,6 +134,9 @@ Wer sich dem Gericht unterwirft, bindet sich selbst: Am ehesten treten die Staat
 
 ## Verbindungen
 
+### → [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+„Handeln auf Befehl entlastet nicht“ war die Antwort des Rechts; das Schwester-Panorama fragt, was Menschen überhaupt dazu bringt, auf Befehl zu handeln, und was einige davon abhielt.
+
 ### → [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
 Das Nachbar-Panorama fragt, warum der Globale Süden Moskau zuhört; ein Teil der Antwort steht hier, in der Selektivität, die der Westen selbst einräumt.
 

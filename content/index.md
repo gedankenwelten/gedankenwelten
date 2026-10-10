@@ -46,11 +46,39 @@ Die Gedankenwelten (luc)
 
 > → *17 weitere in* [[Zeitgeist]]
 
+### Denker
+
+> **10.10.** — [[Denker/Hannah Arendt — Die Banalität des Bösen|Hannah Arendt — Die Banalität des Bösen]]
+>
+> Das Böse braucht keine Dämonen, nur Menschen, die aufhören, vom Standpunkt anderer zu denken: Arendts Befund aus Jerusalem, und was die Forschung seither davon übrig ließ.
+
+> **08.10.** — [[Denker/Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen und der vierfache Souveränitätsverlust]]
+>
+> Wer sich das Schreiben abnehmen lässt, verliert die Übung und die Anerkennung — und überhört den Akzent, mit dem die Maschine ihm die Welt erzählt.
+
+> **08.10.** — [[Denker/Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit|Simone Weil — Aufmerksamkeit, die seltenste Großzügigkeit]]
+>
+> Eine Stunde Zeit kann man verlangen, Zuhören nicht. Simone Weil machte aus der Aufmerksamkeit eine Übung im Leerwerden und eine Antwort auf die Gewalt, die Menschen zu Dingen macht.
+
+> **08.10.** — [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
+>
+> Misstrauen verbindet stärker als jeder gemeinsame Glaube. Und wo Recht das Vertrauen ersetzt, wird es zur Prothese, schwächer als der Muskel, den es ersetzt.
+
+> **08.10.** — [[Denker/Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
+>
+> Wer verzeiht, wischt die Tafel nicht ab. Er lässt stehen, was geschah, und gibt dem anderen das Einzige zurück, das nur er geben kann: den ruhigen Schlaf.
+
+> → *1 weitere in* [[Denker]]
+
 ### Panorama
 
 > **10.10.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
 >
 > Gedankenlos, überzeugt oder nur dabei: Drei offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **10.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Vier offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, und die Stimmen, die sich an ihnen reiben.
 
 > **10.10.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
 >
@@ -63,10 +91,6 @@ Die Gedankenwelten (luc)
 > **10.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **10.10.** — [[Panorama/Forschung|Forschung]]
->
-> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
 
 > → *9 weitere in* [[Panorama]]
 
@@ -93,28 +117,6 @@ Die Gedankenwelten (luc)
 > **04.10.** — [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]]
 >
 > Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin.
-
-### Denker
-
-> **08.10.** — [[Denker/Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen und der vierfache Souveränitätsverlust]]
->
-> Wer sich das Schreiben abnehmen lässt, verliert die Übung und die Anerkennung — und überhört den Akzent, mit dem die Maschine ihm die Welt erzählt.
-
-> **08.10.** — [[Denker/Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit|Simone Weil — Aufmerksamkeit, die seltenste Großzügigkeit]]
->
-> Eine Stunde Zeit kann man verlangen, Zuhören nicht. Simone Weil machte aus der Aufmerksamkeit eine Übung im Leerwerden und eine Antwort auf die Gewalt, die Menschen zu Dingen macht.
-
-> **08.10.** — [[Denker/Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]]
->
-> Misstrauen verbindet stärker als jeder gemeinsame Glaube. Und wo Recht das Vertrauen ersetzt, wird es zur Prothese, schwächer als der Muskel, den es ersetzt.
-
-> **08.10.** — [[Denker/Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
->
-> Wer verzeiht, wischt die Tafel nicht ab. Er lässt stehen, was geschah, und gibt dem anderen das Einzige zurück, das nur er geben kann: den ruhigen Schlaf.
-
-> **07.10.** — [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems|Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems (Jung & Naiv 855)]]
->
-> Wenn die Krise einen Schuldigen sucht, findet sie ihn unten. Ein Kritischer Theoretiker über Faschisierung als Prozess, und warum Hoffnung keine Stimmung ist.
 
 ### Geistesblitz
 
