@@ -30,7 +30,7 @@ aliases:
 </details>
 
 > [!abstract] Worum es geht
-> Das Böse braucht keine Dämonen. Es genügt, dass Menschen aufhören, vom Standpunkt anderer aus zu denken — so Hannah Arendts Befund nach dem Eichmann-Prozess, der sie fast ihre Freundschaften kostete. Die Note folgt dem Begriff von Jerusalem über Bürokratie, Gehorsam und Judenräte bis zum Satz „Niemand hat das Recht zu gehorchen“. Die Nachbesprechung fragt, was die Forschung seither daraus gemacht hat: Sie hat Arendt ihren Kronzeugen genommen und ihr an anderer Stelle recht gegeben.
+> Das Böse braucht keine Dämonen. Es genügt, dass Menschen aufhören, vom Standpunkt anderer aus zu denken — so Hannah Arendts Befund nach dem Eichmann-Prozess, der sie fast ihre Freundschaften kostete. Die Note folgt dem Begriff von Jerusalem über Bürokratie, Gehorsam und Judenräte bis zu ihrem Satz, dass Gehorsam unter Erwachsenen Zustimmung ist. Die Nachbesprechung fragt, was die Forschung seither daraus gemacht hat: Sie hat Arendt ihren Kronzeugen genommen und ihr an anderer Stelle recht gegeben.
 
 Quellen: *Eichmann in Jerusalem. Ein Bericht von der Banalität des Bösen* (1963) / *Vita Activa* (1958) / *Vom Leben des Geistes* (postum 1978)
 Video: [Walther Ziegler — Hannah Arendt: Die Banalität des Bösen (Große Denker in 60 Minuten)](https://www.youtube.com/watch?v=_22F0gfZz30)
@@ -38,7 +38,7 @@ Video: [Walther Ziegler — Hannah Arendt: Die Banalität des Bösen (Große Den
 > [!info] Wer spricht?
 > **Hannah Arendt** (*1906, Hannover — 1975, New York*) — Politische Philosophin, die aus dem Scheitern der Zivilisation eine Theorie des Denkens, Handelns und der Verantwortung destillierte.
 >
-> Aufgewachsen in Königsberg in einer assimilierten jüdischen Familie — las mit 14 bereits Kant, studierte mit 18 Philosophie bei Heidegger in Marburg, in den sie sich verliebte. Arbeitete als Journalistin bei der *Frankfurter Zeitung*. Der entscheidende Bruch kam nicht 1933, sondern danach: als sich Freunde gleichschalteten, Heidegger in die NSDAP eintrat und ein leerer Raum sich um sie bildete. Von der Gestapo verhaftet, nach Frankreich geflohen, im Internierungslager Gurs interniert, über Portugal in die USA entkommen.
+> Aufgewachsen in Königsberg in einer assimilierten jüdischen Familie — las mit 14 bereits Kant, studierte mit 18 Philosophie bei Heidegger in Marburg, in den sie sich verliebte. Schrieb gelegentlich für die *Frankfurter Zeitung* und arbeitete an ihrem Buch über Rahel Varnhagen. Der entscheidende Bruch kam nicht 1933, sondern danach: als sich Freunde gleichschalteten, Heidegger in die NSDAP eintrat und ein leerer Raum sich um sie bildete. Von der Gestapo verhaftet, nach Frankreich geflohen, im Internierungslager Gurs interniert, über Portugal in die USA entkommen.
 >
 > Ihr Lebensmotto: *„Ich will verstehen."* Nicht System bauen, nicht trösten — verstehen, wie das Undenkbare möglich wurde.
 >
@@ -49,6 +49,7 @@ Video: [Walther Ziegler — Hannah Arendt: Die Banalität des Bösen (Große Den
 
 > [!quote] Schlüsselsatz
 > „Das Böse ist niemals radikal, es ist nur extrem und besitzt weder Tiefe noch eine dämonische Dimension. Es kann die ganze Welt überwuchern und verwüsten, gerade weil es sich wie ein Pilz an der Oberfläche ausbreitet."
+> — an Gershom Scholem, Juli 1963. Arendt schreibt, das sei *heute* ihre Meinung: eine offene Abkehr vom „radikal Bösen“ ihres eigenen Totalitarismus-Buchs von 1951.
 
 ---
 
@@ -63,9 +64,9 @@ Sie fand einen **erschreckend gewöhnlichen Mann**.
 > [!quote]
 > „Das Problem mit Eichmann war gerade, dass so viele wie er waren — weder pervers noch sadistisch, sondern schrecklich und erschreckend normal."
 
-Eichmann war kein Ideologe. Er hasste keine Juden. Er war **pflichtbewusst, karriereorientiert und gedankenlos** — im wörtlichsten Sinne. Arendt prägte für ihn den Begriff **Verwaltungsmassenmörder**: ein Schreibtischtäter, der keinen einzigen Menschen mit eigener Hand tötete, aber den Transport von vier bis sechs Millionen Menschen in die Vernichtungslager organisierte — und stolz darauf war, dass keine Waggons halb leer fuhren.
+So jedenfalls sah ihn Arendt: kein Ideologe, kein fanatischer Judenhasser, sondern **pflichtbewusst, karriereorientiert und gedankenlos** — im wörtlichsten Sinne. *(Faktencheck: Dieses Porträt gilt heute als widerlegt, → [[#War Eichmann wirklich gedankenlos?|Nachbesprechung]].)* Einen Ausdruck aus der Geschichte des britischen Imperialismus aufgreifend, sprach sie von **Verwaltungsmassenmord**: Eichmann war ein Schreibtischtäter, der keinen einzigen Menschen mit eigener Hand tötete, aber die Deportationen aus weiten Teilen Europas organisierte — allein aus Ungarn 1944 rund 437.000 Menschen in acht Wochen nach Auschwitz. Als im Juli 1942 ein Zug aus Bordeaux ausfiel, weil dort nur 150 Juden „verfügbar“ waren, reagierte er wütend.
 
-[▶ 24:37](https://www.youtube.com/watch?v=_22F0gfZz30&t=1477) — Eichmann vor Gericht: *„Ich hatte mit der Tötung der Juden nichts zu tun. Ich habe niemals einen Juden getötet. Ich habe überhaupt keinen Menschen getötet."* Vier Kinder, keine Vorstrafen, christliche Erziehung. Und doch verantwortlich für den Transport von Millionen in den Tod.
+[▶ 24:37](https://www.youtube.com/watch?v=_22F0gfZz30&t=1477) — Eichmann vor Gericht: *„Ich hatte mit der Tötung der Juden nichts zu tun. Ich habe niemals einen Juden getötet. Ich habe überhaupt keinen Menschen getötet."* Vier Söhne, keine Vorstrafen, christliche Erziehung. Und doch verantwortlich für den Transport von Millionen in den Tod.
 
 ---
 
@@ -87,7 +88,8 @@ Das ist die Banalität: nicht Dummheit, nicht Bosheit, sondern **die Abwesenheit
 Für Arendt ist **Denken eine moralische Pflicht** — nicht akademisches Denken, sondern das Innehalten, das Hinterfragen, das Sich-selbst-Befragen.
 
 > [!quote]
-> „Niemand hat das Recht zu gehorchen."
+> „Kein Mensch hat bei Kant das Recht zu gehorchen."
+> — im Rundfunkgespräch mit Joachim Fest, 1964
 
 Blinder Gehorsam ist keine Entschuldigung. Wer aufhört zu denken, macht sich schuldig — nicht als Monster, sondern als Werkzeug.
 
@@ -146,7 +148,8 @@ Das ist ihr Prinzip der Hoffnung: Weil jeder Mensch ein Neuanfang ist, ist Gesch
 - **Terror als Herrschaftsprinzip**: Nicht Strafe, sondern permanente Bedrohung — lähmt das Denken
 
 > [!quote]
-> [▶ 9:23](https://www.youtube.com/watch?v=_22F0gfZz30&t=563) — „Man könnte wohl sagen, dass die lebendige Menschlichkeit eines Menschen in dem Maße abnimmt, in dem er auf das Denken verzichtet."
+> [▶ 9:23](https://www.youtube.com/watch?v=_22F0gfZz30&t=563) — „Man könnte wohl sagen, dass die lebendige Menschlichkeit eines Menschen in dem Maße abnimmt, in dem er auf das Denken verzichtet …"
+> — aus der Lessing-Rede, Hamburg 1959
 
 > [!danger] Zeitlos relevant
 > Arendt schrieb über Hitler und Stalin — aber ihr Werkzeugkasten erklärt jede autoritäre Bewegung: Sie beginnt mit entwurzelten Menschen, die ein Narrativ suchen, das ihnen Feinde und Sinn gibt.
@@ -162,49 +165,50 @@ Das ist ihr Prinzip der Hoffnung: Weil jeder Mensch ein Neuanfang ist, ist Gesch
 
 Arendt dokumentiert: In Amsterdam, Warschau, Berlin, Budapest konnten sich die Nazis darauf verlassen, dass jüdische Funktionäre Listen anfertigten, Kosten eintrieben, Wohnungen überwachten und Polizeikräfte zur Verfügung stellten. Manche Juden sahen auf ihrem Weg in die Lager nur jüdische Polizisten — keinen einzigen Deutschen.
 
-[▶ 35:15](https://www.youtube.com/watch?v=_22F0gfZz30&t=2115) — Im Gerichtssaal brach es auf: Pinchas Freudiger, Judenrat von Budapest und als Belastungszeuge gegen Eichmann geladen, wurde beim Eintreten als Mörder beschimpft. Er hatte den Juden nicht gesagt, dass die Züge in Vernichtungslager fuhren — obwohl er es wusste. Seine Verteidigung: 50% der Fliehenden wurden wieder eingefangen. Arendt lässt das nicht gelten: *„Dagegen stehen 99 Prozent Todesopfer unter denen, die nicht zu fliehen versuchten."*
+[▶ 35:15](https://www.youtube.com/watch?v=_22F0gfZz30&t=2115) — Im Gerichtssaal brach es auf: Pinchas Freudiger, Judenrat von Budapest und als Belastungszeuge gegen Eichmann geladen, wurde während seiner Aussage von Zuhörern auf Ungarisch und Jiddisch angeschrien; das Gericht musste die Sitzung unterbrechen. Er hatte den Juden nicht gesagt, dass die Züge in Vernichtungslager fuhren — obwohl er es wusste. Seine Verteidigung: 50% der Fliehenden wurden wieder eingefangen. Arendt lässt das nicht gelten: *„Dagegen stehen 99 Prozent Todesopfer unter denen, die nicht zu fliehen versuchten."*
 
-Arendts Fazit — und das härteste Zitat: Die Judenräte zeigen *„die Totalität des moralischen Zusammenbruchs, den die Nazis in allen Schichten der Gesellschaft ganz Europas verursacht haben — nicht allein unter den Verfolgern, sondern auch unter den Verfolgten."*
+Arendts Fazit — und ihr härtestes Urteil: Die Judenräte zeigen *„die Totalität des moralischen Zusammenbruchs"*, den die Nazis in der achtbaren Gesellschaft Europas angerichtet hatten — nicht allein unter den Verfolgern, sondern auch unter den Verfolgten.
 
 > [!note] Eigene Einschätzung
-> Das ist der Punkt, an dem Arendt ihre eigene Gemeinschaft nicht schont — und dafür beinahe vernichtet wird. Morddrohungen, ein Jahrzehnt Isolation, selbst enge Freunde wandten sich ab. Historiker kritisierten sachlich nur die Zahlenangabe (die Hälfte hätte überlebt sei zu hoch gegriffen). Aber Arendts Kernpunkt bleibt bestehen: Wer die Banalität des Bösen nur bei den Tätern sucht, versteht sie nicht. Sie durchdrang die gesamte Gesellschaft — das ist ja gerade das Banale daran.
+> Das ist der Punkt, an dem Arendt ihre eigene Gemeinschaft nicht schont — und dafür beinahe vernichtet wird. Morddrohungen, ein Jahrzehnt Isolation, selbst enge Freunde wandten sich ab. Die Kritik ging weit über eine Zahl hinaus. Scholem warf ihr einen herzlosen, oft höhnischen Ton vor; Jacob Robinson schrieb eine Gegenschrift in Buchlänge; Isaiah Trunks Studie *Judenrat* (1972) fand zwischen den Räten so große Unterschiede, dass Arendts Pauschalurteil die Zwangslage vieler Räte verfehlt. Die „Hälfte“, die hätte überleben können, übernahm sie von Freudiger selbst. Ihr Kernpunkt bleibt dennoch bestehen: Wer die Banalität des Bösen nur bei den Tätern sucht, versteht sie nicht. Der Zusammenbruch reichte bis in die achtbare Gesellschaft — das ist ja gerade das Banale daran.
 
 ---
 
 ## Die Herrschaft des Niemand
 
-[▶ 46:48](https://www.youtube.com/watch?v=_22F0gfZz30&t=2808) — Ein Schlüsselbegriff, der über den Eichmann-Fall hinausweist. Arendt nennt die Bürokratie *„die eigentliche Staatsform der Herrschaft des Niemand"* — Büro-kratie im wörtlichen Sinn: die Herrschaft des Büros. Wir gewöhnen uns daran, Anordnungen auszuführen. Die gewählten Politiker wechseln, die Ministerien marschieren weiter.
+[▶ 46:48](https://www.youtube.com/watch?v=_22F0gfZz30&t=2808) — Ein Schlüsselbegriff, der über den Eichmann-Fall hinausweist. In *Macht und Gewalt* (1970) nennt Arendt die Bürokratie die **Herrschaft des Niemand**, eine Tyrannei ohne Tyrannen — Büro-kratie im wörtlichen Sinn: die Herrschaft des Büros. Wir gewöhnen uns daran, Anordnungen auszuführen. Die gewählten Politiker wechseln, die Ministerien marschieren weiter.
 
 Das Problem ist nicht die Bürokratie an sich — sondern dass sie Verantwortung unsichtbar macht. Wenn niemand entscheidet, kann niemand schuldig sein. Und genau das macht sie gefährlich.
 
 [▶ 52:07](https://www.youtube.com/watch?v=_22F0gfZz30&t=3127) — Ziegler bringt das Beispiel der Lokführer der Reichsbahn: *„Ich bin Lokführer. Dienstgebäude, Dienstplan — 8:30, sieben Waggons, Auschwitz. Fahr ich. Ich bin Lokführer."* Das ist die Banalität des Bösen in einem Satz.
 
 > [!important] Kernformel
-> „Das größte begangene Böse ist das Böse, das von niemandem getan wurde — das heißt von menschlichen Wesen, die sich weigern, Personen zu sein."
+> „Das größte Böse ist das Böse, das von Niemanden begangen wird — von menschlichen Wesen, die sich weigern, Personen zu sein."
+> — *Über das Böse* (Vorlesung 1965). Im Englischen: *„the evil committed by nobodies“* — es gibt Täter, aber sie weigern sich, jemand zu sein.
 
 ---
 
 ## Milgram — die moderne Bestätigung
 
-[▶ 52:54](https://www.youtube.com/watch?v=_22F0gfZz30&t=3174) — Stanley Milgrams Gehorsamsexperiment (1961) bestätigt Arendts These empirisch: 26 von 40 Testpersonen folterten bis 450 Volt — weil ein Wissenschaftler im weißen Kittel sagte *„Das Experiment erfordert, dass Sie weitermachen"* und *„Ich übernehme die Verantwortung"*.
+[▶ 52:54](https://www.youtube.com/watch?v=_22F0gfZz30&t=3174) — Stanley Milgrams Gehorsamsexperiment (1961) bestätigt Arendts These empirisch: 26 von 40 Testpersonen verabreichten vermeintliche Stromstöße bis 450 Volt — weil ein Wissenschaftler im weißen Kittel sagte *„Das Experiment erfordert, dass Sie weitermachen"* und *„Ich übernehme die Verantwortung"*.
 
 Die Testpersonen wussten, was sie taten. Bereits bei 105 Volt stöhnte der Schüler, bei 150 Volt flehte er um Befreiung. Bei höheren Voltagen kam keine Reaktion mehr — bewusstlos oder tot, niemand wusste es. Und die Mehrheit machte weiter.
 
-Hinterher sagten die Teilnehmer dasselbe wie Eichmann: Das hätten sie mit ihrem privaten Gewissen nicht vereinbaren können — sie hätten es nur wegen des Wissenschaftlers gemacht. Die Verantwortung war delegiert.
+Hinterher sagten viele Teilnehmer dasselbe wie Eichmann: Das hätten sie mit ihrem privaten Gewissen nicht vereinbaren können — sie hätten es nur wegen des Wissenschaftlers gemacht. Die Verantwortung war delegiert. *(Wie die Forschung das heute liest, → [[#Gehorsam oder Gefolgschaft?|Nachbesprechung]].)*
 
 > [!quote]
-> Arthur Greiser, NS-Gauleiter des Warthegaus, vor Gericht: Seine *„offizielle Seele"* habe die Verbrechen ausgeführt, seine *„Privatseele"* sei stets dagegen gewesen.
+> Arthur Greiser, NS-Gauleiter des Warthegaus, vor Gericht: Seine *„offizielle Seele"* habe die Verbrechen ausgeführt, seine *„Privatseele"* sei stets dagegen gewesen. Arendt führt das als gescheitertes Alibi an: Vor dem polnischen Gericht verfing es nicht, Greiser wurde 1946 gehängt.
 
 > [!note] Eigene Einschätzung
 > Die Aufspaltung in offizielle und private Seele ist vielleicht die präziseste Selbstdiagnose, die je ein Täter geliefert hat — und zugleich die gefährlichste Entschuldigung. Milgram zeigt: Das ist kein deutsches Problem. Es ist ein menschliches. Arendts Antwort bleibt die einzige, die zählt: Es gibt kein Recht, die beiden Seelen zu trennen. Wer sein Gewissen an der Bürotür abgibt, ist schuldig — egal, was die Privatseele sagt.
 
 ---
 
-## Niemand hat das Recht zu gehorchen
+## Kein Mensch hat bei Kant das Recht zu gehorchen
 
-[▶ 45:15](https://www.youtube.com/watch?v=_22F0gfZz30&t=2715) — Arendts berühmtester Imperativ. Gehorsam ist im politischen Bereich der Erwachsenen nur ein anderes Wort für Zustimmung und Unterstützung. Wer gehorcht, stimmt zu. Kein Erwachsener darf sich darauf berufen.
+[▶ 45:15](https://www.youtube.com/watch?v=_22F0gfZz30&t=2715) — Arendts berühmtester Satz, meist verkürzt zitiert als „Niemand hat das Recht zu gehorchen“. Im Rundfunkgespräch mit Joachim Fest 1964 sagte sie: *„Jeder ist Gesetzgeber. Kein Mensch hat bei Kant das Recht zu gehorchen.“* Gemeint war Eichmann, der sich vor Gericht auf Kants Pflichtbegriff berufen hatte. Die allgemeine Fassung steht im Epilog von *Eichmann in Jerusalem* und im Vortrag *Persönliche Verantwortung in der Diktatur* (1964): Gehorsam ist im politischen Bereich der Erwachsenen nur ein anderes Wort für Zustimmung und Unterstützung. Wer gehorcht, stimmt zu. Kein Erwachsener darf sich darauf berufen.
 
-Sie erkennt die besondere deutsche Dimension: *„Was mir spezifisch deutsch erscheint, ist diese geradezu verrückte Idealisierung des Gehorsams."* Vom SS-Koppelschloss (*„Meine Ehre heißt Treue"*) bis zum Fahneneid auf die Person Hitlers — der Gehorsam wurde zum höchsten Ideal erhoben.
+Im selben Gespräch benennt sie die besondere deutsche Dimension: *„Das zweite, was mir spezifisch deutsch scheint, ist diese geradezu verrückte Idealisierung des Gehorsams."* Vom SS-Koppelschloss (*„Meine Ehre heißt Treue"*) bis zum Fahneneid auf die Person Hitlers — der Gehorsam wurde zum höchsten Ideal erhoben.
 
 [▶ 50:35](https://www.youtube.com/watch?v=_22F0gfZz30&t=3035) — Aber Arendt verlangt keinen Märtyrertod. Die Alternative war nicht das Leben riskieren — sondern: **nicht mitmachen**. Sich krank melden. Dinge verzögern. Sich dumm stellen. Sand im Getriebe sein. Es gab eine ganze Bandbreite von Widerstand, die möglich war.
 
@@ -215,13 +219,60 @@ Sie erkennt die besondere deutsche Dimension: *„Was mir spezifisch deutsch ers
 
 ## Zitate zum Vertiefen
 
-> „Die gefährlichste Knechtschaft ist die, in der man sich einbildet, frei zu sein."
+*Wo kein deutscher Wortlaut vorlag, übersetzt nach dem englischen Original.*
 
-> „Verantwortung und Urteilsvermögen sind untrennbar."
+> „Das ideale Subjekt totaler Herrschaft ist nicht der überzeugte Nazi oder der überzeugte Kommunist, sondern Menschen, für die der Unterschied zwischen Tatsache und Fiktion und zwischen wahr und falsch nicht mehr existiert."
+> — *Elemente und Ursprünge totaler Herrschaft* (1951), Schlusskapitel „Ideologie und Terror“
 
-> „Denken und Erinnern sind menschliche Wege, in der Zeit zu wohnen."
+> „Denn Politik ist keine Kinderstube; in der Politik sind Gehorsam und Unterstützung dasselbe."
+> — *Eichmann in Jerusalem* (1963), Epilog
 
-> „Das Private ohne das Öffentliche ist leer. Das Öffentliche ohne das Private ist brutal."
+> „Denken und Erinnern sind die menschliche Art, Wurzeln zu schlagen und seinen Platz in der Welt einzunehmen, in die wir alle als Fremde kommen."
+> — *Über das Böse* (1965)
+
+> „Ein Leben, das ausschließlich in der Öffentlichkeit, in Gegenwart anderer verbracht wird, wird, wie wir sagen würden, seicht."
+> — *Vita activa* (1958), §8
+
+---
+
+## Nachbesprechung
+
+*Das Video endet bei Milgram und dem Satz vom Gehorsam. Die Forschung ist seither weitergegangen, und sie hat Arendt mehr genommen und mehr gegeben, als beide Lager gern zugeben.*
+
+### War Eichmann wirklich gedankenlos?
+
+Oben folgt die Note Arendts Bild: kein Ideologe, kein Judenhasser, ein Mann, der funktionierte. An diesem Bild hält heute kaum ein Historiker fest. Arendt kannte selbst den Satz, den Eichmann 1945 gesagt haben soll: Er werde lachend in die Grube springen, weil ihm fünf Millionen Juden auf dem Gewissen Genugtuung bereiteten. Sie tat ihn als Prahlerei ab.
+
+Dann wurden die Argentinien-Papiere ausgewertet. 1957 hatte Eichmann in Buenos Aires monatelang mit dem niederländischen NS-Journalisten Willem Sassen gesprochen, rund 1.300 Seiten Abschrift sind erhalten. Bettina Stangneth hat sie für *Eichmann vor Jerusalem* (2011) erstmals vollständig gelesen. Dort spricht ein überzeugter Nationalsozialist: *„Ich war kein normaler Befehlsempfänger, dann wäre ich ein Trottel gewesen, sondern ich habe mitgedacht, ich war ein Idealist gewesen.“* Er bereut nichts; befriedigt wäre er erst gewesen, sagt er, wenn man alle 10,3 Millionen Juden Europas getötet hätte ([Die Presse](https://www.diepresse.com/1379828/kein-normaler-befehlsempfaenger)). Seit Yariv Mozers Film *The Devil's Confession* (2022) sind Teile der Bänder zu hören. Der kleine Befehlsempfänger von Jerusalem war, so Stangneth, eine Rolle für die Verteidigung. David Cesarani war schon 2004 zum selben Schluss gekommen (*Eichmann. His Life and Crimes*) und erinnert daran, dass Arendt nur einen kleinen Teil des Prozesses im Saal verfolgte. Yaacov Lozowick fand in Eichmanns Referat IV B 4 Männer, die über Jahre selbst die Initiative ergriffen ([Lozowick 2001, doi:10.1525/california/9780520220560.003.0014](https://doi.org/10.1525/california/9780520220560.003.0014)).
+
+Hat Arendt sich also geirrt? Über Eichmann ja. Über den Begriff streitet die Forschung bis heute. Christopher Browning fasste den verbreiteten Kompromiss so: Arendt habe ein wichtiges Konzept erfasst, aber das falsche Beispiel gewählt. Roger Berkowitz erinnert daran, dass Arendt Auszüge der Sassen-Gespräche aus *Life* (1960) kannte und Eichmann selbst als „Idealisten“ beschrieb ([New York Times, 2013](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/07/07/misreading-hannah-arendts-eichmann-in-jerusalem/)). Richard Wolin erklärte die These dagegen für erledigt ([Jewish Review of Books, 2014](https://jewishreviewofbooks.com/articles/1106/the-banality-of-evil-the-demise-of-a-legend/)). Seyla Benhabib fragte zurück, ob Eichmann nicht beides gewesen sein könne, fanatisch *und* banal ([New York Times, 21.09.2014](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2014/09/21/whos-on-trial-eichmann-or-anrendt/)). Denn behauptet hatte Arendt weder, er sei dumm, noch, er habe keine Überzeugung. Gedankenlosigkeit hieß bei ihr die Unfähigkeit, vom Standpunkt eines anderen aus zu denken, und „banal“ bezeichnete das Missverhältnis zwischen dem Ungeheuren der Tat und der Flachheit des Täters ([Bernstein 2010, doi:10.5422/fso/9780823230754.003.0012](https://doi.org/10.5422/fso/9780823230754.003.0012)). Ein Mann, der 1957 bedauert, nicht alle getötet zu haben, hat sehr wohl gedacht. Vom Standpunkt eines der Getöteten aus hat er es nie getan.
+
+Empirisch trägt der Begriff dort, wo Arendt ihn gar nicht geprüft hat: bei den vielen nach Eichmann. Im Juli 1942 bot Major Trapp den rund 500 Männern des Reserve-Polizeibataillons 101 im polnischen Józefów an, nicht mitzuschießen. Etwa ein Dutzend trat vor, bestraft wurde keiner. Das Bataillon erschoss bis Kriegsende mindestens 38.000 Juden und trieb 45.000 in die Züge nach Treblinka. Christopher Browning (*Ganz normale Männer*, 1992) erklärt das vor allem mit Gruppendruck und der Scheu, die Kameraden allein die Arbeit tun zu lassen; Daniel Goldhagen hielt 1996 einen „eliminatorischen Antisemitismus“ dagegen. Harald Welzer (*Täter*, 2005) und Stefan Kühl (*Ganz normale Organisationen*, 2014) beschreiben einen dritten Weg: Menschen legen sich einen neuen moralischen Rahmen zurecht, in dem das Töten zur Arbeit wird, aus einem Gemisch von Zwang, Kameradschaft, Geld und Überzeugung. Das ist weder Arendts Funktionierender noch Stangneths Fanatiker. Es ist der Mitmacher, und von ihm gab es die meisten.
+
+→ Weiter im Panorama: **[[Wie werden gewoehnliche Menschen zu Taetern#Gedankenlos oder überzeugt?|Gedankenlos oder überzeugt?]]**, mit Fromms Liebe zum Toten, Bonhoeffers Dummheit, Musils zwei Quälern, Götz Aly und den Männern, die Jihan Alomar die Auslöschung ankündigten.
+
+### Gehorsam oder Gefolgschaft?
+
+Die Note nennt Milgram „die moderne Bestätigung“, und Milgram hat es selbst so gewollt: Ein Werbeentwurf für sein Buch lautete *„Where's Adolph Eichmann? Check the mirror, friend.“* Das Grundphänomen hat gehalten. Jerry Burger wiederholte das Experiment 2009 bis zur 150-Volt-Schwelle, an der das Opfer zum ersten Mal um Freilassung bittet; rund 70 Prozent drückten weiter, kaum weniger als bei Milgram ([Burger 2009, doi:10.1037/a0010932](https://doi.org/10.1037/a0010932)). In Polen gingen 2015 neun von zehn bis zur höchsten Stufe, mit nur 80 Teilnehmenden und milderen Stufen ([Doliński et al. 2017, doi:10.1177/1948550617693060](https://doi.org/10.1177/1948550617693060)).
+
+Was das Experiment zeigt, liest man heute anders. Milgram hat über zwanzig Varianten durchgeführt, und die Raten schwanken stark: Über 21 Varianten gemittelt gingen 43,6 Prozent bis 450 Volt, nicht die oft zitierten 65 ([Haslam, Loughnan & Perry 2014, doi:10.1371/journal.pone.0093927](https://doi.org/10.1371/journal.pone.0093927)). In einer nie veröffentlichten Variante brachten die Teilnehmenden einen Freund oder Verwandten mit, der den „Schüler“ spielte; drei von zwanzig gingen bis zum Ende (Gina Perry, *Behind the Shock Machine*, 2012). Und der Satz, der am meisten nach Befehl klingt, wirkte am schlechtesten. Auf „Sie haben keine andere Wahl, Sie müssen weitermachen“ hörten die meisten auf ([Burger, Girgis & Manning 2011, doi:10.1177/1948550610397632](https://doi.org/10.1177/1948550610397632); [Haslam, Reicher & Birney 2014, doi:10.1111/josi.12072](https://doi.org/10.1111/josi.12072)). Weiter machte, wer sich mit dem Versuchsleiter und dem Ziel der Wissenschaft identifizierte. Viele schrieben Milgram hinterher, sie seien froh, der Forschung gedient zu haben ([Haslam et al. 2015, doi:10.1111/bjso.12074](https://doi.org/10.1111/bjso.12074)).
+
+Alexander Haslam und Stephen Reicher nennen das *engagierte Gefolgschaft* und ziehen die Linie ausdrücklich bis zu Eichmann: Er wusste, was er tat, und hielt es für richtig ([Haslam & Reicher 2012, doi:10.1371/journal.pbio.1001426](https://doi.org/10.1371/journal.pbio.1001426)). Damit widersprechen sie Arendt und geben ihr zugleich recht. Gegen sie spricht, dass der Täter nicht blind folgt. Für sie spricht ihr eigener Satz aus dem Epilog, dass in der Politik Gehorsam und Unterstützung dasselbe sind; genau diese Zustimmung misst die Gefolgschaftsforschung. Ganz verschwindet der Gehorsam trotzdem nicht. Wer auf Anweisung handelt, erlebt sich messbar weniger als Urheber, das Gehirn verarbeitet die Folgen der eigenen Tat gedämpft ([Caspar et al. 2016, doi:10.1016/j.cub.2015.12.067](https://doi.org/10.1016/j.cub.2015.12.067)). „Ich habe nur Befehle befolgt“ ist darum auch eine Wahrnehmung, und erst dann eine Ausrede.
+
+→ Weiter im Panorama: **[[Wie werden gewoehnliche Menschen zu Taetern#Gehorsam, Gruppe oder Gelegenheit?|Gehorsam, Gruppe oder Gelegenheit?]]**, mit Bregmans Zweifeln an Milgram, Wagners Polizeibataillon, Alys ersteigertem Hausrat und Liya Yus Gehirn, das einen Menschen wie einen Stuhl verarbeitet.
+
+### Die Herrschaft des Niemand im Algorithmus
+
+Zieglers Lokführer hatte wenigstens noch einen Dienstplan in der Hand. Heute steht zwischen Beschluss und Folge oft ein Programm. Die Verwaltungsforschung hat früh beschrieben, was dann geschieht: Das Ermessen wandert vom Schalter in den Entscheidungsbaum, zu Juristen und Entwicklern, die den einzelnen Fall nie sehen ([Bovens & Zouridis 2002, doi:10.1111/0033-3352.00168](https://doi.org/10.1111/0033-3352.00168)). Die Entscheidung verschwindet nicht, sie fällt früher und an unsichtbarer Stelle. Roy Heidelberg nennt Webers unpersönliche Bürokratie die Bedingung der Banalität des Bösen und sieht sie im algorithmischen Regieren verwirklicht; Gedankenlosigkeit sei dort das Design ([Heidelberg 2026, doi:10.1177/00953997261421492](https://doi.org/10.1177/00953997261421492)).
+
+Drei Fälle zeigen, wie das aussieht. In den Niederlanden wurden zwischen 2005 und 2019 rund 26.000 Eltern fälschlich des Betrugs beim Kinderbetreuungsgeld beschuldigt; ein Risikomodell zählte eine nichtniederländische Staatsangehörigkeit als Verdachtsmerkmal, die Sachbearbeiter erfuhren nicht, warum ein Fall markiert war. Amnesty sprach von einem „schwarzen Loch der Verantwortlichkeit“ ([Amnesty, *Xenophobic Machines*, 2021](https://www.amnesty.org/en/latest/news/2021/10/xenophobic-machines-dutch-child-benefit-scandal/)), die Regierung Rutte trat im Januar 2021 zurück. Der Untersuchungsbericht gibt allerdings Gesetz, Ministerium und Parlament mindestens ebenso viel Schuld wie der Maschine. In Australien verschickte *Robodebt* von 2016 bis 2019 rund 470.000 unrechtmäßige Rückforderungen, errechnet aus gemittelten Jahreseinkommen. Die Royal Commission nannte das Programm 2023 „a crude and cruel mechanism, neither fair nor legal“ und fand interne Gutachten, die die Rechtswidrigkeit vor dem Start benannt hatten ([Royal Commission 2023, nach der Mitteilung des Premierministers](https://pm.gov.au/media/final-report-royal-commission-robodebt-scheme)). In Großbritannien wurden über 900 Unterpostmeister verurteilt, weil die Abrechnungssoftware *Horizon* Fehlbeträge zeigte, die es nicht gab; englische Gerichte vermuten, dass ein Computer richtig rechnet, und so lag die Beweislast beim Menschen. Die Urteile hob 2024 ein Gesetz auf, angeklagt ist bis heute niemand ([LBC](https://www.lbc.co.uk/article/post-office-horizon-no-prosecution-until-2027-5Hjcwhs_2/)).
+
+In allen drei Fällen fanden die Untersuchungen Menschen, die wussten, was sie taten. Der Algorithmus erzeugt das Niemand also nicht, er bietet ihm ein Versteck. Ob der Mensch in der Schleife hilft, ist offen. In Experimenten mit niederländischen Bürgern folgten die Leute dem Algorithmus vor allem dann, wenn sein Rat ein Vorurteil bestätigte ([Alon-Barkat & Busuioc 2023, doi:10.1093/jopart/muac007](https://doi.org/10.1093/jopart/muac007)), und Ben Green warnt, gesetzliche Aufsichtspflichten wie Art. 14 der KI-Verordnung legitimierten fehlerhafte Systeme eher und schöben die Schuld dem letzten Prüfer zu ([Green 2022, doi:10.1016/j.clsr.2022.105681](https://doi.org/10.1016/j.clsr.2022.105681)). Die Gegenseite hat ein starkes Argument: Ein Algorithmus zwingt, Ziel und Daten aufzuschreiben, und macht Diskriminierung damit nachweisbarer als ein menschlicher Kopf ([Kleinberg et al. 2018, doi:10.1093/jla/laz001](https://doi.org/10.1093/jla/laz001)). Das Den Haager Gericht, das 2020 das Betrugsraster SyRI stoppte, hat genau so gearbeitet.
+
+→ Weiter im Panorama: **[[Was macht die KI aus unserem Denken#Wer trägt Verantwortung, wenn die Maschine handelt?|Wer trägt Verantwortung, wenn die Maschine handelt?]]**, mit Dahlmanns Rädchen, das „AGB akzeptieren“ klickt, Elishs Knautschzone und Daths leerer Stelle.
+
+> [!question] Weitergedacht
+> Stangneth nimmt Arendt den Kronzeugen, Browning und Haslam geben ihr die vielen Mitmacher zurück, und die Algorithmen-Fälle zeigen Menschen, die wussten, was sie taten. *Ist Gedankenlosigkeit am Ende weniger ein Zustand der Täter als ein Angebot, das ihnen Institutionen machen — und wer macht uns heute dieses Angebot?*
 
 ---
 
@@ -277,4 +328,4 @@ Blom überträgt die Banalität des Bösen auf die ICE-Festnahmen in den USA: Di
 
 ### → [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]
 
-Safferling findet Arendts Verwaltungsmenschen in der Bonner Justiz wieder: Ein selbst verfolgter Staatssekretär holte NS-Juristen ins Ministerium, weil sie Vorgaben „perfekt umsetzen“. Das Nürnberger Prinzip „Befehl entlastet nicht“ ist ihr „Niemand hat das Recht zu gehorchen“ als Rechtssatz.
+Safferling findet Arendts Verwaltungsmenschen in der Bonner Justiz wieder: Ein selbst verfolgter Staatssekretär holte NS-Juristen ins Ministerium, weil sie Vorgaben „perfekt umsetzen“. Das Nürnberger Prinzip „Befehl entlastet nicht“ ist ihr Satz, dass Gehorsam unter Erwachsenen Zustimmung ist, als Rechtssatz.
