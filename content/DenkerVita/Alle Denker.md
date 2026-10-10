@@ -470,6 +470,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Niklas Luhmann|Niklas Luhmann]]** — Soziologe, Systemtheoretiker; Komplexitätsreduktion als Aufgabe der Aufklärung, Kontingenz, Systemdifferenzierung, Zettelkasten-Pionier
 
+**[[DenkerVita/Susan Neiman|Susan Neiman]]** — Moralphilosophin (US-amerikanisch-deutsch-israelisch, geb. 1955 Atlanta), Rawls-Schülerin, 2000–2026 Direktorin des Einstein Forums Potsdam, SPD-Grundwertekommission; das Böse als Prüfstein der Philosophie, moralische Klarheit für die Linke, Universalismus gegen Stammesdenken; *Das Böse denken*, *Von den Deutschen lernen*, *Links ≠ woke*, *Nennen wir es böse* (2026); streitbare Kritikerin der deutschen Israel- und Erinnerungspolitik
+
 **[[DenkerVita/Bjoern Noelte|Björn Nölte]]** — Lehrer, Lehrerbildner und Schulaufsicht der Evangelischen Schulstiftung in der EKBO; Mitgründer des Instituts für zeitgemäße Prüfungskultur, mit Philippe Wampfler *Eine Schule ohne Noten* (2021): Lerndialoge, Portfolios und Feedforward statt Ziffern
 
 ## O
@@ -654,6 +656,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Torsten Wilholt|Torsten Wilholt]]** — Wissenschaftsphilosoph (Leibniz Universität Hannover), Erkenntnistheorie und soziale Erkenntnistheorie; fragt, wann Vertrauen in die Wissenschaft berechtigt ist, und zeigt, dass es geteilte Werturteile über induktive Risiken voraussetzt; *Die Freiheit der Forschung* (2012), Ko-Direktor der DFG-Gruppe SOCRATES
 
 **[[DenkerVita/William Darity Jr.|William Darity Jr.]]** — Ökonom (Duke), Begründer der *Stratification Economics* und führender Reparations-Ökonom der USA; Diskriminierung als rationale Verteidigung von Gruppenpositionen; Vermögen statt Einkommen; *From Here to Equality* (2020) mit A. Kirsten Mullen; Baby Bonds mit Darrick Hamilton
+
+**[[DenkerVita/Ulrike Winkelmann|Ulrike Winkelmann]]** — Journalistin (geb. 1971 Wiesbaden), seit 2020 Chefredakteurin der *taz* (mit Barbara Junge, seit 2025 im Trio mit Katrin Gottschalk), vorher Parlamentskorrespondentin, Politikchefin beim *Freitag*, Deutschlandfunk-Redakteurin; sozialpolitischer Blick, Kolumne „Ernsthaft?“, Podcast „Bundestalk“, Moderatorin der taz Talks
 
 **[[DenkerVita/Wolfgang Kaleck|Wolfgang Kaleck]]** — Menschenrechtsanwalt, Gründer und Generalsekretär des ECCHR, Anwalt Edward Snowdens; transnationale Prozessführung gegen Straflosigkeit (Abu Ghraib, Argentiniens Militärs), Menschenrechte als „konkrete Utopie“, Kritik am „zweierlei Maß“ des westlichen Völkerstrafrechts
 

@@ -328,3 +328,7 @@ Die religiöse Parallelkonstruktion zu Schwans säkularem Fundament. Beide sagen
 
 Ihr früherer Pressesprecher Brosda macht aus „Bürger ist nicht Käufer“ die Pointe vom Liefertermin der Bundesregierung.
 
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Neiman sitzt in Schwans Grundwertekommission und hat ihr gesagt, dass sie diesmal die Linke wählt. Inhaltlich liegt Schwans Gestaltungsmacht quer zu dem „alles ist Macht“, das Neiman zu den drei Quellen einer Ideologie zählt, die das Böse unaussprechlich macht. Beide stehen dafür auf Kant und Rawls.
+

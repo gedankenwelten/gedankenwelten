@@ -346,6 +346,10 @@ Eine schmale, aber echte Reibung. Myrrhe hängt an ihre Fairness-Regel den Satz 
 
 Hier fürchtet man, was eine enttäuschte Hoffnung mit Berlin macht. Auf Webers Podium sagt Schwerdtner denselben Satz von der anderen Seite: Versagen wir, werden die Rechten in fünf Jahren stärker. Darum sei die Vergesellschaftung auch eine Frage der Selbstwirksamkeit, nicht nur der Miete.
 
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Sechs Tage später antwortet Susan Neiman auf die Frage nach zweierlei Maß mit Aiwanger und den Stolpersteinen. Was Chaimowicz und Myrrhe hier an Fällen aus Neukölln nennen, kommt bei ihr nur als „ein paar berüchtigte Menschen“ auf einer Wahlparty vor.
+
 ---
 
 ## Weiterdenken

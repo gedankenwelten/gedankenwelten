@@ -88,6 +88,7 @@ Hier beginnt der Streit, und er ist ernst zu nehmen. Der offene Brief Berliner L
 - [[DenkerVita/Damir Skenderovic]] — Beide sprechen lieber von Faschisierung als vom Etikett und verwerfen die Hufeisentheorie. Sie trennen sich bei der Kontinuität: Skenderovic sieht eine durchgehende rechtsextreme Linie seit 1945, Celikates bezweifelt einen „inneren Kern“ des alten Denkens.
 - [[DenkerVita/Tilo Wesche]] — Mitherausgeber von *Transformations of Democracy* (2015) und ebenfalls aus der Adorno-Linie. Wesches Hambacher Forst, wo Aktivistinnen Eigentumsrecht brechen, um ein höheres Recht zu schützen, ist Celikates' „illegal, aber legitim“; sein „Gebrauchseigentum“ steht nah an der Daseinsvorsorge.
 - [[DenkerVita/Theodor W. Adorno]] — Celikates zitiert Adornos *Aufarbeitung der Vergangenheit* und stellt sich zugleich gegen die spätere Abwendung der Frankfurter Schule von der Praxis. Adorno ließ 1969 das besetzte Institut räumen; Celikates hat Uni-Besetzungen in Frankfurt begleitet.
+- [[DenkerVita/Susan Neiman|Susan Neiman]] — teilt seinen Befund vom staatlichen Anti-Antisemitismus und begründet ihn als Jüdin und israelische Staatsbürgerin
 
 ## Cortex-Notes
 

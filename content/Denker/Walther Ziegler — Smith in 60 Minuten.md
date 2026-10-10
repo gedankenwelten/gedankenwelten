@@ -240,3 +240,7 @@ Der Einspruch aus dem Süden gegen Smiths Menschenbild: Sarrs *homo africanus* i
 ### → [[Zeitgeist/Gabriel Yoran - Die Entkrempelung der Welt|Gabriel Yoran — Die Entkrempelung der Welt]]
 
 Yorans „Warum der Markt das nicht richtet“ (BSH-Konzentration, wertlose Reviews, Mindestvorgabe als Zielvorgabe) ist die empirische Anfrage an Smiths unsichtbare Hand — am Beispiel Duschschlauch.
+
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Neiman nimmt Smiths Metzger-Satz als Ausgangsfall: Gegen ihn sei nichts zu sagen, wohl aber gegen den Schluss, alles menschliche Handeln sei Eigennutz. Der verkürzte Smith, den sie meint, ist der ohne die *Theorie der ethischen Gefühle*.

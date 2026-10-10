@@ -227,6 +227,10 @@ Arendt fordert Denken ohne das Geländer der Tradition. Ricard zeigt, dass der B
 
 Arendts „unverzeihliches, radikal Böses“ gegen Boshammers Satz, Verzeihen sei eine Großzügigkeit, die allen zur Verfügung steht — dazwischen Eva Mozes Kor, die das Unverzeihliche verzieh und dafür angefeindet wurde.
 
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Arendt fand das radikal Böse jenseits von Eigennutz und Machtgier. Neiman fragt, was geschieht, wenn eine Gesellschaft nur noch Eigennutz als Motiv kennt: Dann kann sie nichts mehr böse nennen. Ihr Satz, eine Ideologie sei das Maß an Banalitäten, die wir annehmen, ohne sie zu prüfen, ist bei Arendt in die Schule gegangen.
+
 ---
 
 ## Weiterdenken

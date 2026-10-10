@@ -202,6 +202,10 @@ Am Tag nach der Berlin-Wahl erwartet Marina Kormbaki (SPIEGEL), ein Linksbündni
 ### → [[Presseclub — Brandmauer nach links]]
 Zwei Wochen nach der Wahl streiten vier Berliner Journalisten im ARD-Presseclub über die Vorsondierungen. Anke Myrrhe formuliert fast wörtlich Stufe B: Die Mehrheit sei nicht antisemitisch, aber antisemitische Positionen dürften in einer Regierungspartei nicht folgenlos bleiben. Die Sendung war Anlass des Sweeps vom 4. Oktober.
 
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Auf der Buchmesse nennt Susan Neiman die Asymmetrie, die diese Spur zählt: Aiwanger blieb im Amt, Berlin wird zum Fall. Den Befund zu den Berliner Gliederungen spricht sie nicht an, und die IHRA-Definition verwirft sie ganz. Eine Stimme für den nächsten Sweep.
+
 ## Quellen
 
 - [EHRC: Investigation into antisemitism in the Labour Party (2020)](https://www.equalityhumanrights.com/sites/default/files/investigation-into-antisemitism-in-the-labour-party.pdf) — der übernommene Maßstab

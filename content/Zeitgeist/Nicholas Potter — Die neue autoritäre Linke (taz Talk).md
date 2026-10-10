@@ -284,3 +284,7 @@ Was Potter als Milieu beschreibt, sitzt nach der Berlin-Wahl mit einer Eintritts
 ### → [[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]]
 
 Die Gegenperspektive von der FU Berlin: Celikates beschreibt einen „repressiven Anti-Antisemitismus“, der palästinasolidarischen Protest einschränkt. Den 7. Oktober erwähnt er dabei nicht. Nebeneinander gelesen zeigen beide Notes, was jede für sich ausblendet.
+
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Dasselbe Format, die Gegenstimme. Neiman will, dass die Linke wieder „böse“ sagt, über Taten und Ideen, nie über Menschen. Potter beschreibt eine Linke, bei der aus diesem Wort ein manichäisches Weltbild geworden ist.

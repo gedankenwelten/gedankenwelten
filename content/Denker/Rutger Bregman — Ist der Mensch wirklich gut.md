@@ -299,6 +299,10 @@ Das literarische Experiment, das Bregmans Optimismus herausfordert: kein Notstan
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“.
 
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Bregman und Neiman greifen dasselbe Menschenbild an, von gegenüberliegenden Seiten. Bregman antwortet der Evolutionspsychologie mit besserer Biologie. Neiman bezweifelt, dass die Biologie unserer Vorfahren hier überhaupt etwas entscheiden kann.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

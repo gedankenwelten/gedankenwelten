@@ -1178,3 +1178,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Veronika Grimm
 **Status:** ✓ Vollanalyse → [[DenkerVita/Veronika Grimm]]
+
+## Susan Neiman
+**Status:** ✓ Vollanalyse → [[DenkerVita/Susan Neiman]]
+
+## Ulrike Winkelmann
+**Status:** ✓ Vollanalyse → [[DenkerVita/Ulrike Winkelmann]]

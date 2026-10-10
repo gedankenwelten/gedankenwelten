@@ -5111,3 +5111,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Interview** | [Ökonomin & „Wirtschaftsweise“ Veronika Grimm — Jung & Naiv: Folge 612](https://www.youtube.com/watch?v=2i4lzizD9m4) (28.11.2022; Interview Tilo Jung, Zuschauerfragen Maurice Höfgen) |
 | **Notiz** | [[Zeitgeist/Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Grimm_JungNaiv612_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+
+## Susan Neiman — Nennen wir es böse (taz Talk, Buchmesse 2026)
+
+| | |
+|---|---|
+| **Gespräch** | [Nennen wir es böse – ein taz Talk mit Susan Neiman auf der Frankfurter Buchmesse](https://www.youtube.com/watch?v=_HsRqNILPMM) (10.10.2026; Moderation Ulrike Winkelmann) |
+| **Buch** | Susan Neiman: *Nennen wir es böse. Die Politik unserer Zeit verstehen* (Hanser 2026) |
+| **Notiz** | [[Zeitgeist/Susan Neiman — Nennen wir es boese]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Neiman_Boese_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

@@ -205,3 +205,7 @@ Foucaults Macht-Wissen-Kopplung in religionsphilosophischer Übersetzung: Sorous
 
 Aufklärung als Haltung statt als Epoche — Tekkal macht dieselbe Bewegung mit der Integration und kann darum die Menge von Clausnitz „nicht integriert" nennen. Dazu die dunkle Ergänzung: Ihr Gegner ist der Rezipient, der sich für den Vollstrecker des Göttlichen hält — selbstverschuldete Unmündigkeit in ihrer tödlichen Form. Und Tausi Melek, der Engel, der Gott widersprach, ist bei ihr das *sapere aude* als Gründungsmythos.
 
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Neiman zählt Foucault zu den drei Vätern einer Ideologie, die Moral für naiv hält, und räumt selbst ein, ihn zu vereinfachen. Diese Note zeigt den späten Foucault als Erben Kants. Dann ginge der Streit um seine Rezeption, nicht um ihn.
+

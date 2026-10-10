@@ -268,6 +268,10 @@ Der "Korrumpierungseffekt" (äußere Belohnung zerstört intrinsische Motivation
 
 Der Dopamin-Befund dieser Note — Belohnung nicht nur beim Empfangen, sondern beim Geben selbst — ist der körperliche Beleg für die Kernthese des Vertrauensvorschusses: „Das Geben wirkt im Gebenden." Was die Gedanken-Note als gelebte Erfahrung beschreibt, findet hier sein biologisches Fundament.
 
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Neiman erzählt die Herkunft desselben Menschenbilds anders, über einen verkürzten Smith, einen verzerrten Darwin und Foucault, und kommt zum selben Befund: Güte gilt als Dummheit. Ob man das mit Spiegelneuronen widerlegen kann, bezweifelt sie.
+
 ---
 
 ## Weiterführend
