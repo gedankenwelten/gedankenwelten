@@ -306,6 +306,10 @@ Löschel saß der Expertenkommission vor, deren Bericht Reiche widerspricht. Sei
 
 Das Panorama zur Energiewende hat Drehtür-Lobbyismus und Batteriespeicher als eigene Abschnitte. Die Greenpeace-Akten liefern dafür den Beleg aus dem Ministerium selbst.
 
+### → [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
+
+Wo Greenpeace die Akten liest, rechnet Specht nach: Die 36 Milliarden, mit denen Reiche die Systemkosten der Erneuerbaren beziffert, sind für ihn Zahlungen und genehmigte Renditen, keine Kosten. Und er teilt die Klage über ein Land, das alle paar Jahre die Richtung wechselt.
+
 ---
 
 ## Weiterdenken

@@ -277,3 +277,8 @@ Follow This stellt die Gegenfrage: Was passiert mit der Ölmacht, wenn die Nachf
 ### → [[taz Reingehen — ICE-Razzia Hyundai und ein Jahr Schwarz-Rot]]
 
 Gleicher Podcast, andere Perspektive: Beide Reingehen-Episoden zeigen wie globale Machtstrukturen auf das Leben Einzelner durchschlagen — Öl als geopolitisches Instrument, ICE als innenpolitisches. Und wie lokale Bevölkerungen das schweigend normalisieren.
+
+### → [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
+
+Dass die Wende in der akuten Krise nicht hilft, bestreitet Specht mit Beispielen aus Asien. Der Faktencheck dort zeigt: Schnell reagiert haben die Länder mit Rationierung, die Umstellung selbst braucht Jahre.
+

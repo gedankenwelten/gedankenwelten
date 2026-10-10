@@ -266,6 +266,10 @@ Schwans Gestaltungsmacht liefert den konzeptuellen Rahmen für Löschels Co-Bene
 
 Löschels Ideal einer Wissenschaft, die Abwägungen offenlegt und das Entscheiden der Politik überlässt, im Härtetest: Dort schreibt das Ministerium am Gutachten mit, und die Expertenkommission, der Löschel vorsaß, wird zur Gegenstimme.
 
+### → [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
+
+Spechts Rat ist die private Antwort auf die Tankrabatt-Falle: elektrifizieren und nicht darauf wetten, dass der CO₂-Preis politisch kippt. Und die Nachbesprechung dort zeigt, warum der verlässliche CO₂-Preis umso wichtiger wird, je billiger Öl in der Nische wird.
+
 ---
 
 ## Weiterdenken

@@ -223,3 +223,8 @@ Good News Juni liefert die globale Schlagzeile zu dieser Analyse: 2025 deckten E
 ### → [[Good News - Gute Nachrichten August 2026]]
 
 Die August-Ausgabe liefert die Gesundheits-Dividende zu dieser Analyse: Chinas E-Auto-Umstieg verhinderte laut *Nature Health* 262.000 vorzeitige Todesfälle — die menschliche Seite der Industriepolitik, deren Unterbau Meyer und Hegenberg zeigen.
+
+### → [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
+
+Neben die Industrielogik setzt Specht die Sicherheitslogik: Malakka, volle Öllager, Autarkie. Seine Lesart des neuen Kapazitätsmarkts geht allerdings zu weit; die Batterie bekommt einen Platz neben der Kohle, nicht ihren.
+

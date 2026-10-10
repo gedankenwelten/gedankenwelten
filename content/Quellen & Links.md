@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Dirk Specht — Das Ende des Erdöls beginnt jetzt (Geladen Podcast)
+
+| | |
+|---|---|
+| **Video / Podcast** | [Das Ende des Erdöls beginnt jetzt — Dirk Specht](https://www.youtube.com/watch?v=YIaSTmiFCQM) |
+| **Notiz** | [[Dirk Specht — Das Ende des Erdoels beginnt jetzt]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Specht_Ende_Erdoel_Transkript.txt` |
+
 ## Greenpeace / Karsten Smid — Katherina Reiche und die Gasindustrie
 
 | | |
