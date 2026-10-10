@@ -360,6 +360,10 @@ Die Frage „Was kostet ein Versprechen, das nicht gehalten wird?“ sammelt die
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“ und „Kann eine Gesellschaft großzügig sein?“.
 
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Neiman vermisst wie Brosda das Bild von einem gerechteren Morgen und spottet über „mehr Netto vom Brutto“. Sie setzt aber genau auf das Wort, das Brosda zu transaktional ist: Gerechtigkeit, für Neiman der Moralbegriff überhaupt und das Gegenteil des Bösen.
+
 ---
 
 ## Weiterdenken

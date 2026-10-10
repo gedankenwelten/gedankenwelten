@@ -280,10 +280,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "aufrufe": 5
     },
@@ -296,7 +292,15 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "aufrufe": 4
     },
     {
@@ -312,10 +316,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "aufrufe": 4
-    },
-    {
      "pfad": "/DenkerVita/Bernhard-Poerksen",
      "aufrufe": 4
     },
@@ -324,55 +324,19 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Adam-Johnson-How-to-Sell-a-Genocide",
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
-     "aufrufe": 2
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "aufrufe": 3
     },
     {
      "pfad": "/Zeitgeist/Poerksen-und-Goepel-Debatte-neu-denken",
      "aufrufe": 2
     },
     {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Der-Dara",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Freddy-Leppin",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Ami-Ayalon-Wir-haben-den-Krieg-gewonnen",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Arnd-Henze",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
      "aufrufe": 2
     },
     {
@@ -388,52 +352,44 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Der-Dara",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Freddy-Leppin",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Ami-Ayalon-Wir-haben-den-Krieg-gewonnen",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Arnd-Henze",
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Andreas-Bartels",
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Katrin-Eigendorf",
-     "aufrufe": 1
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Steffen-Mau",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Judith-Mangelsdorf",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Renee-DiResta",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Valentina-Chiofalo",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Eva-von-Redecker.html",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Maja-Goepel",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "aufrufe": 1
+     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
+     "aufrufe": 2
     },
     {
      "pfad": "/Zeitgeist/Der-Dara-Merz-72-Stunden-Arbeitswoche",
@@ -468,10 +424,6 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Zeitgeist/Goepel,-Bleisch,-El-Mafaalani,-Schmitt-Verhaerten-ueberall,-und-nun",
-     "aufrufe": 1
-    },
-    {
      "pfad": "/Zeitgeist/Heizungshammer-wie-ein-erfundenes-Wort-ein-Gesetz-kippte",
      "aufrufe": 1
     },
@@ -484,7 +436,55 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Zeitgeist/Staiy-News-Leipzig-Medienschweigen-und-Rechte-Mediabubble-(10.05.2026)",
+     "pfad": "/Zeitgeist/Gilda-Sahebi-und-Arne-Semsrott-GCA-33-Liegenddemos,-Schwarz-Rot,-Sea-Watch",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Herfried-Münkler-Europas-Platz-in-der-neuen-Weltordnung",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Leonie-Heims.html",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Geistesblitz/Christine-Braehler-Selbstmitgefuehl,-Scham-und-reife-Liebe",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Inon-und-Abu-Sarah-The-Future-is-Peace",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Geistesblitz/ARTE-Forschung-Fake-und-faule-Tricks",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Hannah-Arendt",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Kalayo",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Christine-Braehler",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Michael-Hartmann",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Shi-Heng-Yi",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Rutger-Bregman",
      "aufrufe": 1
     }
    ]

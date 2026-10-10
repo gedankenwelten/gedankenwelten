@@ -426,6 +426,10 @@ Die Forschung zu Celikates' Behauptungen: dass man am Ende gleich das Original w
 
 Celikates beschreibt, wie soziale Konflikte kulturell umcodiert werden; Weber erzählt den Mechanismus von innen. Wem man jahrzehntelang sagte, sein Wert bemesse sich am Markt, dem bietet die Rechte einen Wert ohne Markt: weiß und deutsch zu sein. Beide wollen dort anfangen, wo Kapitalismuskritik konkret wird, bei der Daseinsvorsorge.
 
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Neiman teilt Celikates' Befund vom instrumentalisierten Antisemitismus-Vorwurf und begründet ihn als Jüdin und israelische Staatsbürgerin. Auch bei ihr fehlen die Hamas und der 7. Oktober; die taz-Chefredakteurin widerspricht ihr dort, wo sie die Institutionen gegen Antisemitismus für wirkungslos hält.
+
 ---
 
 ## Weiterdenken

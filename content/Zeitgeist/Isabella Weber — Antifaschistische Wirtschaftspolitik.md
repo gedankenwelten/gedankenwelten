@@ -430,6 +430,10 @@ Webers These, Wirtschaftspolitik sei Demokratieschutz, trifft dort auf ihren st�
 ### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
 Die Stimme, die der Nachbesprechung fehlte. Grimm saß mit Weber in derselben Gaskommission und beschreibt dieselbe Bremse als Einmalzahlung, die den Preis der letzten Kilowattstunde unberührt lässt; einen Deckel pro Kopf hält sie für nicht umsetzbar, Rationierung für den Weg in den Schwarzmarkt.
 
+### → [[Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
+
+Beide berufen sich auf Mamdani, auf verschiedene Seiten von ihm: Weber auf das geflickte Schlagloch, Neiman auf das Gerechtigkeitsargument, das die Krankenschwester in der Stadt wohnen lassen will, die sie am Leben hält.
+
 ---
 
 ## Weiterdenken

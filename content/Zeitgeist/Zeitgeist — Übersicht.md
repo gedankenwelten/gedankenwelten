@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*340 Notes — automatisch generiert · nach Thema sortiert*
+*342 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -198,6 +198,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/StreitClub — Europa allein zu Haus|StreitClub #17 — Europa allein zu Haus]] — Vier Stimmen streiten über ein verlassenes Haus: Ist die Gefahr der abgereiste Bruder, der Aggressor vor der Tür — oder die eigene Unfähigkeit, sie zu schließen?
 - [[Zeitgeist/StreitClub — Extremismus und der Schutz der Demokratie|StreitClub #19 — Extremismus und der Schutz der Demokratie]] — Drei Instrumente sollen die Demokratie schützen — Verbot, Brandmauer, Entzauberung. An einem Abend nach der Wahl wird jedes einzelne geprüft, und keines hält.
 - [[Zeitgeist/Studio Bonn — Extremer Reichtum|Studio Bonn — Extremer Reichtum]]
+- [[Zeitgeist/Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]] — Wer Moral für etwas hält, das nur Idioten glauben, hat schon verloren, bevor er streitet — Susan Neiman über die Ideologie hinter Trump und eine Linke, die sich vor dem Wort Gerechtigkeit fürchtet.
 - [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]]
 - [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)|Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]]
 - [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Tillschneider vor der Synagoge in Halle]] — Wer einen Anschlag zum Amoklauf erklärt, muss den Täter nicht verstehen — und hat beim Gedenken trotzdem einen Platz in der ersten Reihe verlangt.
