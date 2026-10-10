@@ -271,6 +271,10 @@ V2G ist der dezentrale Speicher in Spechts Kraftwerk-vs.-Speicher-These — das 
 ### → [[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
 Fichtner und Specht sind konzeptuelle Zwillinge im *Geladen*-Podcast: Fichtner dekonstruiert zehn Batterie-Mythen, Specht den Primärenergieirrtum — beide kommen zur selben Kernthese, dass Merit Order + Batteriespeicher + Erneuerbare die einzige kohärente Antwort auf fossile Preissetzung sind.
 
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Spechts Netz, das lieber gemolken als ausgebaut wird, bekommt dort ein Gesicht: Die Ministerin führte fünf Jahre einen Netzkonzern, und ihr Haus setzt auf Gaskraftwerke statt auf Speicher, während intern der Netzausbau hinterherhinkt.
+
 ---
 
 ## Weiterdenken

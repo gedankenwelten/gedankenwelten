@@ -6,6 +6,17 @@ tags:
   - links
 ---
 
+## Greenpeace / Karsten Smid — Katherina Reiche und die Gasindustrie
+
+| | |
+|---|---|
+| **Video** | [Reiches geheime Arbeit für RWE, E.ON und die Gasindustrie](https://www.youtube.com/watch?v=ESFNc5uYFOM) |
+| **Gespräch** | [Frisierter Bericht? Wie Reiches Ministerium die Energiewende schlechtrechnet](https://www.youtube.com/watch?v=oOLY19iSt9I) |
+| **Dossier** | [Greenpeace: Kritische Bilanz nach einem Jahr Wirtschaftsministerium](https://presseportal.greenpeace.de/264998-greenpeace-zieht-nach-einem-jahr-kritische-bilanz-zur-energiepolitik-des-wirtschaftsministeriums) |
+| **Notiz** | [[Greenpeace — Katherina Reiche und die Gasindustrie]] |
+| **Vita** | [[DenkerVita/Katherina Reiche]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Greenpeace_Reiche_Gas_Transkript.txt` · `Gedankenwelten/Transkripte/Greenpeace_Smid_Interview_Transkript.txt` |
+
 ## Lars Wienand — Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformation (Datenspuren 2026)
 
 | | |

@@ -360,6 +360,7 @@ Verbundene Notes: [[Follow This — Die grüne Horzel in Big Oil]] · [[Kai Sch�
 | [[Michael Sterner — Reiche gegen Marktwirtschaft]] | Problem · StromVKG · Lösung · Speicher |
 | [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] | Problem · Lobbyismus |
 | [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]] | Problem · Lobbyismus |
+| [[Greenpeace — Katherina Reiche und die Gasindustrie]] | Problem · Lobbyismus · Akten (UIG) |
 | [[Staiy — News Orbán-Wahl, Katharina Reiche und Iran (12.04.2026)]] | Kontext · CDU-Konflikt |
 | [[Felix Goldbach (MoneyForFuture) — Batteriespeicher und die ignorierte Lösung der Energiewende]] | Lösung · Speicher |
 | [[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]] | Grundlage · Mythen · Lobbyismus · Batterien |

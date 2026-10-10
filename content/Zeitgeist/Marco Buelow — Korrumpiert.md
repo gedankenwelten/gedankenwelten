@@ -321,6 +321,10 @@ Bülow gehört als Stimme in die Frage, wer entscheiden soll: der Insider, der d
 
 ### → [[DenkerVita/Marco Buelow|Marco Bülow — DenkerVita]]
 
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Die Drehtür, die Bülow beschreibt, dreht sich dort in die Richtung, die kein Gesetz bremst: Die Karenzzeit gilt nur beim Verlassen des Amtes, nicht beim Wechsel aus dem Energiekonzern ins Ministerium, das ihn regulieren soll.
+
 ---
 
 ## Weiterdenken

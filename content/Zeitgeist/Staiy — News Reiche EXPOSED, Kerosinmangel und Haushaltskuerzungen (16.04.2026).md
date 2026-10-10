@@ -179,3 +179,8 @@ Die laut Spiegel angeforderten Anti-Batterie-Argumente manifestieren sich im Str
 ### → [[Zeitgeist/SPIEGEL TV — Spahns Maskendeal und das Spendendinner|SPIEGEL TV — Spahns Maskendeal]]
 
 Katharina Reiche und Jens Spahn: zwei Varianten desselben CDU-Drehtür-Musters. Dort EnBW und Gaskraftwerke-Lobby, hier Maskenhersteller und Pandemieprofite. Das verbindende Prinzip: die systematische Privatisierung staatlicher Entscheidungsmacht durch Parteinetzwerke — reproduzierbar, nicht zufällig.
+
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Die bestellten Kriterien gegen Batteriespeicher stehen inzwischen im Gesetzentwurf. Greenpeace ordnet sie in ein Jahresbild ein, und EnBW hat schriftlich bestätigt, dass das Ministerium um sie gebeten hatte.
+

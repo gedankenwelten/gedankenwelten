@@ -209,3 +209,8 @@ MONITOR dokumentiert den Drehtür-Mechanismus (E.ON-Vorstand → Ministerin), St
 ### → [[Staiy — News Reiche EXPOSED, Kerosinmangel und Haushaltskuerzungen (16.04.2026)]]
 
 Der Spiegel-Befund über ministerielle Anti-Batterie-Lobbypapiere findet hier seine juristische Entsprechung: Die 10+1-Stunden-Regel und die Resilienz-Klausel sind exakt die Instrumente, die laut Spiegel auf Anregung von Energiekonzernen entstanden. Sterner liefert die technische Analyse, Staiy die investigative Enthüllung.
+
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Das Systemkosten-Argument, das Sterner nachrechnet, verfolgt Greenpeace zurück bis zum Altmaier-Knick 2012, als Reiche die Solarkürzungen im Bundestag verteidigte. Dasselbe Argument, zweimal, mit demselben Ergebnis.
+

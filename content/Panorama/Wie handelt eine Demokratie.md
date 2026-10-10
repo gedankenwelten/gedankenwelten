@@ -2,7 +2,7 @@
 title: "Wie handelt eine Demokratie?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-10-08
+aktualisiert: 2026-10-10
 description: "Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -223,19 +223,23 @@ Die härteste Evidenz kommt aus der US-Notenbank, die 1993 beschloss, ihre Sitzu
 
 Der am besten gestützte Mittelweg: die Beratung schützen, die Gründe offenlegen. Legitimität entsteht in Experimenten auch dann, wenn hinter verschlossenen Türen entschieden und danach sorgfältig begründet wird ([de Fine Licht et al. 2014, doi:10.1111/gove.12021](https://doi.org/10.1111/gove.12021)). Kaum erforscht ist, was passiert, wenn Laien mit echter Macht geheim beraten und Lobbyisten an die Tür klopfen. Dort wäre die Gefahr der Vereinnahmung am größten ([Stasavage 2007, doi:10.1111/j.1468-2508.2007.00494.x](https://doi.org/10.1111/j.1468-2508.2007.00494.x)).
 
+Wer die Handelnden bewacht, muss auch fragen, woher sie kommen. Athen prüfte jeden vor dem Amtsantritt; das deutsche Recht kennt seit 2015 eine Karenzzeit nur für den Weg *aus* dem Amt, für den Weg aus einem Konzern auf einen Ministerstuhl gibt es weder Offenlegungspflicht noch öffentliche Befangenheitsliste. Die OECD verlangt seit 2024 Regeln für beide Richtungen, weniger als ein Drittel ihrer Mitglieder hat sie ([OECD/LEGAL/0379](https://legalinstruments.oecd.org/public/doc/256/256.en.pdf)). Gut erforscht ist die Drehtür hinaus: Lobbyisten verkaufen vor allem Kontakte ([Blanes i Vidal et al. 2012, doi:10.1257/aer.102.7.3731](https://doi.org/10.1257/aer.102.7.3731)), Firmen mit ehemaligen Regulierern bekommen teurere Staatsaufträge ([Emery & Faccio 2025, doi:10.1017/s0022109024000589](https://doi.org/10.1017/s0022109024000589)); Vereinnahmung muss man allerdings belegen, nicht unterstellen ([Carpenter & Moss 2014, doi:10.1017/cbo9781139565875](https://doi.org/10.1017/cbo9781139565875)). Das Werkzeug der Öffentlichkeit dagegen ist die Informationsfreiheit. Stärkere Gesetze bringen zuerst mehr Korruption ans Licht und schrecken dann ab ([Cordis & Warren 2014, doi:10.1016/j.jpubeco.2014.03.010](https://doi.org/10.1016/j.jpubeco.2014.03.010)), und wo Korruption droht, verzögern Behörden Anfragen gezielt vor Wahlen ([Fisman et al. 2026, doi:10.3386/w35248](https://doi.org/10.3386/w35248), Arbeitspapier). Wer kontrolliert wird, steuert die Transparenz am liebsten selbst.
+
 **Die Stimmen**
 
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Die Pyramide im Kreis|Ardalan Ibrahim]]:** Minister sollen sich alle drei bis sechs Monate vor einem neu gelosten Gremium verantworten, dessen Beratung aber geheim bleibt, die „Inflationierung der Hinterzimmer“.
 - **[[Nico Semsrott — Bruessel sehen und sterben#Transparenz als Verhaltenssteuerung — die Kernthese|Nico Semsrott]]:** Erst Sichtbarkeit ändert Verhalten, und wer über Kontrolle entscheidet, muss selbst kontrolliert werden.
 - **[[scobel — Luhmann Abklaerung der Aufklaerung#Die Überforderungsmaschine|Niklas Luhmann]]:** Eine Dauerentlarvungsmaschine erzeugt Anklagen, keine Handlungsfähigkeit; Aufklärung ist das Optimum an Handlungsfähigkeit, nicht das Maximum an Transparenz.
 - **[[Ardalan Ibrahim — Die Partei fuer Losdemokratie#Publikumsfragen|Hans Jessen]]:** Minister kann man schon heute entlassen; wer unter Loskontrolle zwanzig Jahre bleibt, bedeutet mehr Machtkonzentration, nicht weniger.
-- **[[phoenix — Orbán abgewählt#Warum ist Orbán so deutlich gescheitert?|Gawrich zu Ungarn]]:** Trotz gekaperter Institutionen scheiterte Orbán an Schulen, Krankenhäusern und Korruption. Die Abwahl blieb die letzte Rechenschaft.
+- **[[Greenpeace — Katherina Reiche und die Gasindustrie#Wer bewacht die Drehtür nach innen?|Greenpeace (Karsten Smid)]]:** Die Akten über eine Ministerin, die direkt aus dem Konzern kam, den ihr Haus reguliert, gab es erst nach Widerspruch und Klagedrohung, mit 283 geschwärzten Seiten, und das Gesetz, das sie öffnete, soll nun eingeschränkt werden.
 - **[[Semsrott — Zur Gegenmacht#Transparenz als politische Waffe — FragDenStaat in der Offensive|Arne Semsrott]]:** Informationsfreiheitsanfragen machten die Berliner Fördergeldaffäre öffentlich; die Antwort der Politik war, das Gesetz einzuschränken.
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ich sehe beides|Aladin El-Mafaalani]]:** Um von Washington unabhängig zu werden, sollen die eigenen Dienste aufgerüstet werden, und weil der Verfassungsschutz auch Ländersache ist, könnten Populisten bald einen Geheimdienst erben, der alles kann. *„Ich sehe beides.“*
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Ich sehe beides|Şeyda Kurt]]:** Die Militarisierung nach innen geschieht unter der jetzigen Regierung, mit Befugnissen für Geheimdienste in historischem Ausmaß, und sie wird sich, wenn die AfD regiert, gegen Leute wie sie richten.
 
-<details><summary>Weitere Stimmen (8)</summary>
+<details><summary>Weitere Stimmen (10)</summary>
 
+- **[[phoenix — Orbán abgewählt#Warum ist Orbán so deutlich gescheitert?|Gawrich zu Ungarn]]:** Trotz gekaperter Institutionen scheiterte Orbán an Schulen, Krankenhäusern und Korruption. Die Abwahl blieb die letzte Rechenschaft.
+- **[[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch#Wenn die Grenzen zwischen den Sektoren verschwimmen|Michael Hartmann]]:** Der direkte Wechsel aus der Wirtschaft in ein Ministeramt war in Deutschland siebzig Jahre lang fast unbekannt, jetzt sitzen zwei solche Fälle im Kabinett.
 - **[[Walther Ziegler — Popper in 60 Minuten#Die offene Gesellschaft — Falsifikation als politisches Prinzip|Karl Popper]]:** Demokratie heißt, eine Regierung ohne Blutvergießen loswerden zu können.
 - **[[Martin Andree - Monopole zerstoeren unsere Demokratie#Medien sind die Grundlage der Demokratie — und 60 % davon gehören zwei Konzernen|Martin Andree]]:** Über 60 Prozent der Öffentlichkeit laufen über zwei Konzerne, und die Kontrolle von Meinungsmacht fehlt ihnen.
 
@@ -306,6 +310,7 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 | 08.10.2026 | [[Carsten Brosda — Naechste Demokratie#Nachbesprechung|Carsten Brosda — Nächste Demokratie?]] | Woher „Deliverism“ kommt; Ende statt Ganzes (Healy & Lenz), Dank verfällt (Bechtel & Hainmueller), Vorsorge unbelohnt, Gegenbefund Richtung (Stiers, Prior & Andrews) |
 | 08.10.2026 | [[Adam Tooze — Krise und demokratische Gelegenheit#Nachbesprechung|Adam Tooze — Krise und demokratische Gelegenheit]] | Gegner oder Konsens: Konvergenz treibt an die Ränder (Spoon & Klüver), Polarisierung schwächt den Check (Graham & Svolik), Affekt allein nicht (Broockman, Voelkel), Verlierer in Konsensdemokratien zufriedener |
 | 08.10.2026 | [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Nachbesprechung|Göpel und Marinić — Vertrauen, utopisch?]] | Beraten oder entscheiden: Bürger wollen Bindung, Gewählte nicht (Garry 2021), Niederlagen zersetzen Legitimität (Kern 2024), begründete Abweichung (Goovaerts 2024), Irland 2024 |
+| 10.10.2026 | [[Greenpeace — Katherina Reiche und die Gasindustrie#Wer bewacht die Drehtür nach innen?|Greenpeace — Katherina Reiche und die Gasindustrie]] | Wer bewacht die Handelnden: Drehtür nach innen (Karenzzeit nur hinaus, OECD 2024, Müller/Tacke 2002, Blanes i Vidal, Emery & Faccio, Carpenter & Moss); Informationsfreiheit (Cordis & Warren, Fisman et al.), IFG-Pläne vom Juli 2026 |
 
 ---
 

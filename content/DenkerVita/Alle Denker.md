@@ -500,6 +500,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Kultursoziologe an der Humboldt-Universität zu Berlin, Leibniz-Preisträger; Chronist der Spätmoderne — Singularisierung, Kulturalisierung des Sozialen, Kreativitätsdispositiv, Verlust als Grundproblem der Moderne; *Die Gesellschaft der Singularitäten* (2017), *Das Ende der Illusionen* (2019), *Verlust* (2024)
 
+**[[DenkerVita/Katherina Reiche|Katherina Reiche]]** — Energie- und Wirtschaftspolitikerin (CDU), Bundeswirtschaftsministerin seit 2025; zweimal durch die Drehtür zwischen Politik und Energiewirtschaft (VKU, E.ON/Westenergie), heute oberste Regulatorin der Branche, aus der sie kam
+
 **[[DenkerVita/Tobias Rüther|Tobias Rüther]]** — Suchtmediziner, Leiter der Tabakambulanz am LMU Klinikum München; Sucht als Krankheit nicht Willensschwäche, „das Problem dahinter", Motivation statt Abschreckung, Warnung vor designten Vape-Einsteigerprodukten
 
 **[[DenkerVita/Rebecca Boehme|Rebecca Böhme]]** — Neurowissenschaftlerin, Assistenzprofessorin Universität Linköping; Gehirn als bayesianische Vorhersagemaschine, Sprache als neuronaler Schalter, Freiheit trainierbar

@@ -312,3 +312,7 @@ Löschel liefert den theoretischen Rahmen zum MONITOR-Befund: Antizipierte Polit
 
 Der Mechanismus hinter dem Fall, erzählt von einem, der jahrelang im Umweltausschuss mit der Energielobby zu tun hatte: Die Lobby sitze längst in den Ministerien, weil der Bundestag ohnehin abnicke.
 
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Ein Jahr später, aus den Akten des Ministeriums: Aus dem Verdacht wird ein Muster. Ein bestellter Monitoringbericht wurde zwischen Entwurf und Veröffentlichung an 28 Stellen geändert, der Zehn-Punkte-Plan liest sich wie das Papier von RWE und E.ON, und intern hinkt ausgerechnet der Netzausbau hinterher.
+

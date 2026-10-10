@@ -544,6 +544,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 ## Julie Pagis
 **Status:** ✓ Vollanalyse → [[DenkerVita/Julie Pagis]]
 
+## Katherina Reiche
+**Status:** ✓ Vollanalyse — [[DenkerVita/Katherina Reiche]]
+
 ## Kai Michel
 **Status:** ✓ Vollanalyse → [[DenkerVita/Kai Michel]]
 
