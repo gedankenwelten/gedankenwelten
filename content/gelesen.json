@@ -256,11 +256,11 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/DenkerVita/Benjamin-Biersky",
      "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "pfad": "/DenkerVita/Mark-Reicher",
      "aufrufe": 10
     },
     {
@@ -268,11 +268,11 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "aufrufe": 8
     },
     {
@@ -280,7 +280,7 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "aufrufe": 5
     },
     {
@@ -292,7 +292,7 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "aufrufe": 5
     },
     {
@@ -316,15 +316,7 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Zeitgeist/Adam-Johnson-How-to-Sell-a-Genocide",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "aufrufe": 3
     },
     {
@@ -332,23 +324,23 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Ami-Ayalon-Wir-haben-den-Krieg-gewonnen",
-     "aufrufe": 2
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "aufrufe": 3
     },
     {
-     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
-     "aufrufe": 2
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "aufrufe": 3
     },
     {
      "pfad": "/DenkerVita/Andreas-Bartels",
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Joan-Kinyua",
+     "pfad": "/DenkerVita/Arnd-Henze",
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Yisrael-Medad-Der-Siedler-und-sein-Recht",
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "aufrufe": 2
     },
     {
@@ -356,7 +348,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "pfad": "/Zeitgeist/Poerksen-und-Goepel-Debatte-neu-denken",
      "aufrufe": 2
     },
     {
@@ -368,19 +360,11 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Walther-Ziegler-Nietzsche-in-60-Minuten",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Poerksen-und-Goepel-Debatte-neu-denken",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Arnd-Henze",
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Joan-Kinyua",
      "aufrufe": 2
     },
     {
@@ -388,7 +372,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Freddy-Leppin",
+     "pfad": "/DenkerVita/Ralf-Stockmann",
      "aufrufe": 2
     },
     {
@@ -396,8 +380,28 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
+     "pfad": "/Zeitgeist/Ami-Ayalon-Wir-haben-den-Krieg-gewonnen",
      "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Yisrael-Medad-Der-Siedler-und-sein-Recht",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Walther-Ziegler-Nietzsche-in-60-Minuten",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Freddy-Leppin",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Der-Dara-Merz-72-Stunden-Arbeitswoche",
+     "aufrufe": 1
     },
     {
      "pfad": "/DenkerVita/Anja-Dahlmann",
@@ -481,10 +485,6 @@
     },
     {
      "pfad": "/DenkerVita/Kalayo",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Christine-Braehler",
      "aufrufe": 1
     }
    ]

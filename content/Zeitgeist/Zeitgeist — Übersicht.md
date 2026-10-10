@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*335 Notes — automatisch generiert · nach Thema sortiert*
+*336 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -118,6 +118,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Wie rechte Milliardäre weltweit Medien aufkaufen]]
 - [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 33 Liegenddemos, Schwarz-Rot, Sea-Watch|Gilda Sahebi und Arne Semsrott — GCA #33: Liegenddemos, Schwarz-Rot, Sea-Watch]]
 - [[Zeitgeist/Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie|Gilda Sahebi und Arne Semsrott — GCA #35: Die Selbstzerstörung der Sozialdemokratie]]
+- [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]] — Ein Gutachten in zwei Fassungen, ein Plan wie ein Konzernpapier, eine Ministerin aus dem Gasnetz. Greenpeace liest die Akten von Reiches erstem Jahr, und die Akten widersprechen ihr.
 - [[Zeitgeist/Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will|Grenzgänger Studios — Wie Peter Thiel den Westen umbauen will]]
 - [[Zeitgeist/Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — Beginnt Großzügigkeit dort, wo die Gerechtigkeit endet, oder ist sie nur ihr freundlicherer Name? Vier Stimmen streiten über die Gabe, den Backlash und einen Kuchen, der nicht mehr wächst.
 - [[Zeitgeist/Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]] — Ein Transformationsforscher gesteht, seine Hoffnung sei nie so klein gewesen, und sammelt trotzdem Utopien im Alltag. Barbara Bleisch fragt ihn, wo er Großzügigkeit selbst lebt.
