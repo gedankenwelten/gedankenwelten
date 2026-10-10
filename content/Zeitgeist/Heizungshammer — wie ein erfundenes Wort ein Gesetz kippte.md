@@ -108,3 +108,8 @@ Tooze erklärt das Scheitern mit dem schwachen ersten Entwurf, diese Note mit de
 ### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
 
 Die Gegenprobe: Russische Bot-Fakes verpuffen meist, solange keine Redaktion sie aufnimmt. Der „Heizungshammer“ zeigt, dass der stärkste Verstärker in Redaktionen sitzt, die ungeprüft nachdrucken.
+
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Hier endet das erfundene Wort: Die Ministerin wiederholt den „Zwang zur Wärmepumpe“, den es nie gab, die 65-Prozent-Pflicht fällt, und auf der Gewinnerseite stehen die Gasnetze. Das Öko-Institut rechnet mit bis zu 172 Millionen Tonnen CO₂ zusätzlich bis 2040.
+

@@ -262,6 +262,10 @@ Göpel nennt den CO₂-Preis dort das „marktwirtschaftlichste Instrument ever"
 
 Schwans Gestaltungsmacht liefert den konzeptuellen Rahmen für Löschels Co-Benefits-Befund: Das Bürgerenergiegesetz NRW ist kein technisches Instrument, sondern institutionalisierte Gestaltungsmacht — strukturierte Partizipation, die die „laute Minderheit" entmachtet, indem sie die stille Mehrheit handlungsfähig macht.
 
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Löschels Ideal einer Wissenschaft, die Abwägungen offenlegt und das Entscheiden der Politik überlässt, im Härtetest: Dort schreibt das Ministerium am Gutachten mit, und die Expertenkommission, der Löschel vorsaß, wird zur Gegenstimme.
+
 ---
 
 ## Weiterdenken

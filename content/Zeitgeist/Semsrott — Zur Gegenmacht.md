@@ -281,6 +281,10 @@ Geschwister-Perspektive: Nico zeigt die EU als demokratisch entleerte Bürokrati
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“.
 
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Transparenz als Waffe, im Wirtschaftsministerium: Erst Widerspruch und Klagedrohung machten ein nachgeschärftes Gutachten sichtbar. Das Gesetz, das es möglich machte, will die Koalition nun einschränken, wie zuvor Berlin.
+
 ---
 
 ## Weiterdenken

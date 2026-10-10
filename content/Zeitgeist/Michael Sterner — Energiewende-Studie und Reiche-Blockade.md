@@ -198,3 +198,8 @@ Großmann setzt Sterners wissenschaftliche These — 2/3 Wertschöpfung lokal m�
 ### → [[Good News - Gute Nachrichten August 2026]]
 
 Das US-Gegenstück zur Reiche-Blockade: Solar und Speicher stellen 91 % der neuen US-Kapazität, obwohl die Trump-Regierung die Förderung kappte. Beide Notes zeigen dieselbe Lage — die Erneuerbaren gewinnen über den Preis, die Politik kann verzögern, aber nicht mehr stoppen.
+
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Was Sterner als verschwiegene Studie beschreibt, findet Greenpeace per Umweltinformationsgesetz eine Stufe weiter: Ein Gutachten wird zwischen Entwurf und Veröffentlichung in Richtung Gas nachgeschärft, und dem Parlament heißt es, es sei „unverändert“ erschienen.
+

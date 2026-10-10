@@ -326,3 +326,8 @@ Der Tabak-Blueprint in der Ernährung: Van Tulleken zeichnet nach, wie von Coca-
 ### → [[Zeitgeist/Michael Moss — Salz Zucker Fett]]
 
 Moss zeigt die zweite Karriere des Tabak-Blueprints: Philip Morris wurde über Kraft und General Foods zum größten Lebensmittelhersteller Nordamerikas und reichte seine Marketingmethoden an die Lebensmittelmanager weiter.
+
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Ein aktueller Fall, wie Zweifel hergestellt wird, diesmal durch den staatlichen Auftraggeber: Zwischen Entwurf und Veröffentlichung eines Energiewende-Gutachtens wird aus „unwahrscheinlich“ „fraglich“.
+

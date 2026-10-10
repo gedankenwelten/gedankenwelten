@@ -225,3 +225,8 @@ Sterner liefert den wissenschaftlichen Faktencheck zu Söders Position — die d
 ### → [[Zeitgeist/Kontrovers BR24 - Energiewende Solarabschaltung Mittelstand]]
 
 Die ~580 Mio. Euro Entschädigungen für abgeregelte Anlagen aus dem Bericht sind ein konkreter Datenpunkt im größeren Redispatch-Kostenbild (bis zu 3 Mrd. € jährlich). Beide Notes zeigen: Die Kosten landen beim Bürger.
+
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Was hier als Streitfrage im Raum steht, belegt Greenpeace ein Jahr später mit Akten. Der Einwand dieser Runde bleibt dort stehen: Gaskraftwerke als Reserve plante schon Habeck, gestritten wird über Maß und Zuschnitt, am Ende wurden es rund elf statt zwanzig Gigawatt.
+

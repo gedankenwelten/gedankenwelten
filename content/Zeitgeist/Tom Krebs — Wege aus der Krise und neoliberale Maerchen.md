@@ -420,6 +420,10 @@ Krebs vertritt den materiellen Kern zugespitzter als Hensel oder Flassbeck, er d
 
 ### → [[DenkerVita/Tom Krebs|Tom Krebs — DenkerVita]]
 
+### → [[Zeitgeist/Greenpeace — Katherina Reiche und die Gasindustrie|Greenpeace — Katherina Reiche und die Gasindustrie]]
+
+Krebs fragt, wem die Netze gehören sollen; die Nachbesprechung dort fragt weiter, wem ein Netz dient, dessen Rendite eine Ministerin aus dem Netzgeschäft mitbestimmt. Und sie zeigt, dass auch der Verband *kommunaler* Unternehmen am Gas-Strang zog: Eigentum allein schützt nicht vor dem Eigeninteresse.
+
 ---
 
 ## Weiterdenken
