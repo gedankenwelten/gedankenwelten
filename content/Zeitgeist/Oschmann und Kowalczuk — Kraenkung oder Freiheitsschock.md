@@ -289,7 +289,7 @@ Zehs Einwand hat Rückhalt: Norwegens Aufsichtsratsquote veränderte die Gremien
 
 Oschmanns „2 statt 20 Prozent“ bei den Stipendien [▶ 73:09](https://www.youtube.com/watch?v=QpMSpo3k5-k&t=4389) halten nicht (→ Faktencheck): 2024 hatten 9,9 Prozent der neu Aufgenommenen der Studienstiftung ihr Abitur in einem ostdeutschen Flächenland gemacht, bei 9,3 Prozent aller Studierenden. Die Lücke liegt früher. Ostdeutsche Schulen nutzen ihr Vorschlagsrecht nur zu 28 Prozent, und eine Jenaer Studie nannte als Gründe fehlende akademische Vorbilder im Elternhaus und die Sorge, nicht gut genug zu sein ([Forschung & Lehre, 21.09.2021](https://www.forschung-und-lehre.de/lehre/ostdeutsche-werden-seltener-gefoerdert-4033)). Das führt zur Bildungsherkunft, [[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Hartmanns Feld]].
 
-→ Weiter im Panorama: **[[Wie handelt eine Demokratie#Mit wem fängt eine Demokratie neu an?|Mit wem fängt eine Demokratie neu an?]]**, wo Michael Hartmann beschreibt, wie nach 1989 die Lehrstühle mit den eigenen Leuten besetzt wurden, und wo Kowalczuk nun erzählt, dass er damals selbst für den radikalen Austausch war.
+→ Weiter im Panorama: **[[Wirken Quoten#Wen hebt sie, und wen nicht?|Wirken Quoten? — Wen hebt sie, und wen nicht?]]**, wo Hartmanns Quote nach sozialer Herkunft und Krauthausens Quotenbehinderter neben der Ost-Quote stehen, und **[[Wie handelt eine Demokratie#Mit wem fängt eine Demokratie neu an?|Mit wem fängt eine Demokratie neu an?]]**, wo Michael Hartmann beschreibt, wie nach 1989 die Lehrstühle mit den eigenen Leuten besetzt wurden, und wo Kowalczuk nun erzählt, dass er damals selbst für den radikalen Austausch war.
 
 ---
 

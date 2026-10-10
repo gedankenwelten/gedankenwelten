@@ -36,6 +36,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Was macht die KI aus unserem Denken? *(wachsend)* | [[Was macht die KI aus unserem Denken]] | ~28 |
 | Das Glück des Schmieds *(wachsend)* | [[Das Glueck des Schmieds]] | ~30 |
 | Schöner Wohnen *(wachsend)* | [[Schoener Wohnen]] | ~25 |
+| Wirken Quoten? *(wachsend)* | [[Wirken Quoten]] | ~10 |
 | Wie kann Demokratie funktionieren? *(wachsend)* | [[Wie kann Demokratie funktionieren]] | ~50 |
 | Wie handelt eine Demokratie? *(wachsend, Ast aus „Wie kann Demokratie funktionieren?“)* | [[Wie handelt eine Demokratie]] | ~30 |
 | Forschung *(wachsend)* | [[Forschung]] | ~45 |
