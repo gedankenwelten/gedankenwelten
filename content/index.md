@@ -52,6 +52,10 @@ Die Gedankenwelten (luc)
 >
 > Das Böse braucht keine Dämonen, nur Menschen, die aufhören, vom Standpunkt anderer zu denken: Arendts Befund aus Jerusalem, und was die Forschung seither davon übrig ließ.
 
+> **10.10.** — [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+>
+> Während die Opfer arbeiteten, um zu überleben, nannten die Täter ihr Morden Arbeit: Welzer zeigt, wie gewöhnliche Männer das Töten als Drecksarbeit erträglich machten.
+
 > **08.10.** — [[Denker/Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen und der vierfache Souveränitätsverlust]]
 >
 > Wer sich das Schreiben abnehmen lässt, verliert die Übung und die Anerkennung — und überhört den Akzent, mit dem die Maschine ihm die Welt erzählt.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Misstrauen verbindet stärker als jeder gemeinsame Glaube. Und wo Recht das Vertrauen ersetzt, wird es zur Prothese, schwächer als der Muskel, den es ersetzt.
 
-> **08.10.** — [[Denker/Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]]
->
-> Wer verzeiht, wischt die Tafel nicht ab. Er lässt stehen, was geschah, und gibt dem anderen das Einzige zurück, das nur er geben kann: den ruhigen Schlaf.
-
-> → *1 weitere in* [[Denker]]
+> → *2 weitere in* [[Denker]]
 
 ### Panorama
 

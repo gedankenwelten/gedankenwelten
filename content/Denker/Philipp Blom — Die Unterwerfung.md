@@ -393,6 +393,9 @@ Bloms Frist trägt also für die gelebte Erinnerung. Was danach kommt, entscheid
 
 ## Verbindungen
 
+### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+Welzer zeigt, warum das „Nie wieder“ nicht nur ausläuft, sondern sich verbiegt: Die Enkel ordnen die Partikel der Familiengeschichte neu, bis aus der antisemitischen Großmutter eine Widerständlerin wird.
+
 ### → [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]]
 
 Ibrahim nennt dieses Gespräch als letzten Anstoß zu seiner Partei, und wer die Linie zurückverfolgt, sieht, wie weit die Idee in drei Jahren gewandert ist. Blom wollte geloste Bürgerversammlungen, die wie Geschworene beraten und das Parlament *ergänzen*. Ibrahim will geheim tagende Losgremien, die entscheiden, und nennt die gewählte Ordnung im Ganzen eine Aristokratie. Bloms „neuer Adel“ sitzt im Vermögen und im Steuerrecht, Ibrahims Aristokratie im Wahlverfahren selbst. Aus einem Reformvorschlag ist eine Systemfrage geworden.

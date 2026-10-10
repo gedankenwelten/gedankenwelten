@@ -286,8 +286,9 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 - **[[Felwine Sarr - Gehoert Afrika die Zukunft#Ubuntu — Mandela und die Rehabilitierung der Utopie|Felwine Sarr]]:** Südafrika integrierte durch Amnestie und Wahrheitskommission und vermied einen Krieg; den Preis bezahlten die Opfer.
 - **[[Susanne Boshammer — Was heisst verzeihen#Strafe, Mediation und die moralische Verjährung|Susanne Boshammer]]:** Weil Menschen sich ändern, darf man sagen *„ich erlaube dir, eine andere zu werden“*; verjähren kann der Vorwurf gegen die Person, das Gedächtnis der Tat nie, und die [[Susanne Boshammer — Was heisst verzeihen#Bekennen, nicht rechtfertigen|Wahrheitskommission]] verlangte Bekenntnis, keine Reue.
 
-<details><summary>Weitere Stimmen (7)</summary>
+<details><summary>Weitere Stimmen (8)</summary>
 
+- **[[Harald Welzer — Toetungsarbeit#Opa war kein Nazi — die Erfindung der Großeltern|Harald Welzer]]:** Das Beschweigen der Gründergeneration füllten die Enkel mit Helden; in zwei Dritteln der befragten Familien wurde Opa im Weitererzählen besser, und die Urenkel wissen heute oft gar nichts mehr.
 - **[[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Eine Nacht statt fünfundzwanzig Jahre|Ilko-Sascha Kowalczuk]]:** War 1990 selbst für den radikalen personellen Neuanfang und unterschätzte, dass die neuen Eliten als „Kapitäne von Booten und von Netzwerken“ kamen, in die man nicht hineinkommt.
 - **[[Steffen Mau — Spaltung der Gesellschaft#Trauma-Weitergabe — Warum hatte Ostdeutschland kein 68er?|Steffen Mau]]:** Im Osten waren die NS-Eliten schon abgeräumt, darum gab es keinen Generationenkonflikt, nur Mitgefühl mit den Eltern und Schweigen.
 - **[[WDR Europaforum — Out of order Voelkerrecht#Reform Wer soll anfangen, wenn nicht Europa?|Sham Jaff]]:** Nach dem Genozid fand Ruanda mit den Gacaca-Gemeinschaftsgerichten einen eigenen Weg zu Recht; *„man kann auch einfach mal außerhalb Europas nach Lösungen suchen“*.
@@ -320,6 +321,7 @@ Wo Täter und Opfer Nachbarn bleiben, zahlen den Neuanfang oft die Einzelnen. We
 | 10.10.2026 | [[Greenpeace — Katherina Reiche und die Gasindustrie#Wer bewacht die Drehtür nach innen?|Greenpeace — Katherina Reiche und die Gasindustrie]] | Wer bewacht die Handelnden: Drehtür nach innen (Karenzzeit nur hinaus, OECD 2024, Müller/Tacke 2002, Blanes i Vidal, Emery & Faccio, Carpenter & Moss); Informationsfreiheit (Cordis & Warren, Fisman et al.), IFG-Pläne vom Juli 2026; die EU als vierte Kontrollebene (Beihilfe-Einigung 20 → 12 GW, Kelemen 2020, Follesdal & Hix 2006) |
 | 10.10.2026 | [[Dirk Specht — Das Ende des Erdoels beginnt jetzt#Kann eine Demokratie planen wie China?|Dirk Specht — Das Ende des Erdöls beginnt jetzt]] | Gründlich oder schnell: wie China seine Pläne erfüllt (Wallace, Chen et al., Kostka, Ansar et al., Mertha) und Verbindlichkeit ohne Autokratie (Fabrizio, UK Climate Change Act, Lockwood, Dänemark 2012) |
 | 10.10.2026 | [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Nachbesprechung|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]] | Eine Ost-Quote? Elitenmonitor 12,1 % (2024), Unterrepräsentation kostet Unterstützung (Vogel 2022), Quoten-Evidenz (Bertrand 2019, Besley 2017), Art. 36 GG; Kowalczuk als Stimme |
+| 10.10.2026 | [[Harald Welzer — Toetungsarbeit#Nachbesprechung|Harald Welzer — Tötungsarbeit]] | Familiengedächtnis: *Opa war kein Nazi* in Zahlen, MEMO 2019–2025, MEMO Jugend 2023, NSDAP-Kartei online 2026 |
 
 ---
 

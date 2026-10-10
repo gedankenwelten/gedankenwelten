@@ -94,6 +94,9 @@ Was gegen die Herrenlosigkeit hilft, ist deshalb keine große Geste und kein Mas
 
 ## Verbindungen
 
+### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+Welzers Tötungsarbeit ist der dunkelste Fall der ältesten Maschine: eine Arbeitsteilung, in der jeder seinen Anteil als bloßen Job verbuchen konnte — und die Verantwortung bis zu den Opfern durchsackte.
+
 - [[Gedanken/Die goldenen Tuerme — eine Dystopie der Maschinen-Aera]] — Der Endzustand, zu dem dieser Mechanismus führen kann. Der leere Turm ist die letzte Steigerung der „Macht ohne Gesicht": nicht einmal mehr ein Gesicht *hinter* dem Turm, nur aufsummierte Delegation.
 - [[Gedanken/Die geteilte Fuelle — eine Utopie der Maschinen-Aera]] — Die Gegenwette: Dieselbe Maschine, die Verantwortung entsorgen kann, kann Reserven freilegen — Menschen übernehmen wieder Verantwortung, wenn ihnen jemand die Last abnimmt. Vorausgesetzt, das Urteil bleibt.
 - [[Gedanken/Der Zauberlehrling — Vibe Coding und die Eigendynamik der Magie]] — Derselbe Befund im Kleinen: Der Besen hat keine Agenda, die Verantwortung liegt beim Lehrling. Der leere Turm ist der Zauberlehrling als Gesellschaftsform.

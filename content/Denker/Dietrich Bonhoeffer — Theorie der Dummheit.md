@@ -320,6 +320,9 @@ Um Bonhoeffer hat sich eine Legende gelegt, und sie rundet stets in dieselbe Ric
 
 ## Verbindungen in der Gedankenwelt
 
+### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+Welzer zeigt Bonhoeffers Pflichtmenschen bei der Arbeit: Männer, die eine furchtbare Aufgabe „so gut wie möglich“ machen wollten und ihr Gewissen am eigenen Unbehagen statt am Opfer maßen.
+
 ### → [[Rutger Bregman — Ist der Mensch wirklich gut]]
 
 Der theologische Spiegel zu Bregmans Konformismus-Befund: Beide verorten das Übel nicht in böser Natur, sondern in der sozialen Entmündigung des Urteils — Bonhoeffers „Dummheit ist gefährlicher als Bosheit" und Bregmans Welpe, der „unbedingt gemocht werden will", beschreiben denselben Mechanismus. Bonhoeffers christliches Erbe trifft zudem Bregmans Motiv vom heilsamen Selbstzweifel.

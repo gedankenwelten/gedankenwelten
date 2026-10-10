@@ -321,6 +321,9 @@ In allen drei Fällen fanden die Untersuchungen Menschen, die wussten, was sie t
 
 ## Verbindungen
 
+### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+Das Gegenstück aus der Täterforschung: Welzer findet keine Gedankenlosigkeit, sondern ein Gewissen, das sich am eigenen Unbehagen misst statt am Opfer, und gerade dadurch das Töten möglich machte.
+
 ### → [[Jok Madut Jok — Elitenpakt ist kein Frieden]]
 Joks „Sind wir die Hüter unseres Bruders?" ist die Weigerung, im Angesicht der Gräuel nicht zu denken — die Instanz, deren Fehlen Arendt als Banalität des Bösen beschreibt; der zermürbte Bürger und der gedankenlose Täter teilen dieselbe Abwesenheit von Urteilskraft.
 

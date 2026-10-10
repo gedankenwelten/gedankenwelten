@@ -232,6 +232,9 @@ Und er nimmt sich selbst nicht aus. [▶ 46:03](https://www.youtube.com/watch?v=
 
 ## Verbindungen
 
+### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+Welzer belegt Bregmans Tötungshemmung von der Täterseite: Die Massenerschießungen wurden technisch so optimiert, dass jeder Schritt zugleich effizienter und für die Schützen distanzierter wurde — die Hemmung wurde umgangen, nicht überwunden.
+
 ### → [[Dalai Lama — Die saekulare Ethik]]
 
 Der Dalai Lama zieht aus derselben prosozialen Natur eine praktische Konsequenz: Wenn der Mensch gut angelegt ist, muss man das Gute nur bilden wie Lesen und Rechnen.

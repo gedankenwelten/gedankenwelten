@@ -125,6 +125,9 @@ Kein Gericht, keine Einsicht, keine Katharsis. Die Täter bleiben im System und 
 
 ## Verbindungen
 
+### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+Beinebergs Satz, das Quälen falle ihm schwer und gerade darin liege sein Wert, findet Welzer in den Selbstzeugnissen der Einsatzgruppen wieder: das eigene Leiden als Beweis, dass die Moral intakt geblieben sei.
+
 ### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
 
 Die Note, aus deren Gespräch diese Lektüre entstand — und die unheimlichste Entsprechung im Bestand: Yus Hirnscan-Befund (der dehumanisierte Mensch wird prozessiert wie ein Stuhl) steht bei Musil als Gleichnis der imaginären Zahlen („stellen wir ihm also auch heute einen Stuhl hin") und als Beinebergs Programm („das bloße Menschsein bedeutet gar nichts — eine bloße äffende Ähnlichkeit"). Der Roman ist die Innenansicht dessen, was Yu von außen misst; ihre Rehumanisierungs-Strategien sind die Antwort auf eine Frage, die Törleß nicht einmal stellen kann.

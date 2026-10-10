@@ -220,6 +220,9 @@ Und falls die AfD in Thüringen regiert? Wagner erwartet keine Schließung über
 
 ## Verbindungen
 
+### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+Welzer liefert die Sozialpsychologie zu Wagners Rädchen: wie Arbeitsteilung und das Selbstbild des leidenden Täters das Morden erträglich machten — und warum die Enkel, auf die Wagner setzt, ihre Großeltern eher verklären als befragen.
+
 ### → [[Mats Appreciated — Fluchtgeschichten am Mauerweg]]
 
 Das helle Gegenstück am selben Gedenktag: Wo hier die Bevölkerung der wirksamste Lagerzaun war, ziehen am Mauerweg eine Generation später Fremde Flüchtende aus der Spree, graben Studenten Tunnel für Unbekannte. Dieselbe Menschennatur, eine andere Erzählung über die Fliehenden.

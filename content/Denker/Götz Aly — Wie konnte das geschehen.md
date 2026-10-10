@@ -226,6 +226,9 @@ Die Niederlage, von der sich die meisten Deutschen nicht befreit *fühlten* (sie
 
 ## Verbindungen
 
+### → [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+Welzer beantwortet Alys Frage von der anderen Seite: über den Deutungsrahmen, in dem das Töten zur „Drecksarbeit“ wurde, statt über das Interesse am Geraubten — zwei Wege, auf denen Ideologie weniger erklärt, als man glaubt.
+
 ### → [[Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
 
 Der Buchenwald-Direktor bestätigt Alys Diagnose vom Ort des Verbrechens aus: öffentliche Verbrechen vor der Haustür, die Gesellschaft als wirksamster Zaun gegen fliehende Häftlinge, die Entlastungserzählungen beider deutscher Staaten.

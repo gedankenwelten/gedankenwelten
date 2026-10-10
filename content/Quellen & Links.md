@@ -5082,3 +5082,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag** | [„Freiheitsschock? Wie weiter?“ mit Ilko-Sascha Kowalczuk](https://www.youtube.com/watch?v=OJKyJyCn5x4) (Hochschule Harz, Campus Halberstadt, 26.05.2025) |
 | **Notiz** | [[Zeitgeist/Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]] |
 | **Transkripte** | `Gedankenwelten/Transkripte/Oschmann_Zeh_Osten_Transkript.txt` · `Gedankenwelten/Transkripte/Kowalczuk_Freiheitsschock_Halberstadt_Transkript.txt` (YouTube-Automatikuntertitel; Sprecher aus dem Inhalt zugeordnet) |
+
+
+## Harald Welzer — Tötungsarbeit (Täterforschung)
+
+| | |
+|---|---|
+| **Vortrag** | [Harald Welzer — „Tötungsarbeit“](https://www.youtube.com/watch?v=MEKXZNqKQ2A) (Tagung „Arbeit und Vernichtung“, Wiener Wiesenthal Institut für Holocaust-Studien, 27.–29.06.2007, mit Diskussion) |
+| **Gespräch** | [Gregor Gysi und Harald Welzer — „Missverstehen Sie mich richtig“](https://www.youtube.com/watch?v=4132YpLiF-Q) (Berliner Distel, 16.10.2022; verwendet: Minute 32–58) |
+| **Notiz** | [[Denker/Harald Welzer — Toetungsarbeit]] |
+| **Transkripte** | `Gedankenwelten/Transkripte/Welzer_Toetungsarbeit_VWI_2007_Transkript.txt` · `Gedankenwelten/Transkripte/Welzer_Gysi_Missverstehen_Transkript.txt` (YouTube-Automatikuntertitel) |
