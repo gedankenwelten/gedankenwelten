@@ -2,7 +2,7 @@
 title: "Was macht die KI aus unserem Denken?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-10-08
+aktualisiert: 2026-10-10
 description: "Verlernen wir, was wir der Maschine überlassen? Vier offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, und die Stimmen, die sich an ihnen reiben."
 raetsel: "Der Spiegel nickt. Du hattest noch nichts gesagt."
 panorama-art: wachsend
@@ -141,6 +141,8 @@ Die Wirklichkeit zeigt bisher eher das Gegenteil einer Leere. Madeleine Clare El
 
 Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengruppe zu autonomen Waffen schloss am 5. September 2026 in Genf mit einem Bericht, aus dem auf Drängen unter anderem Russlands und der USA die ethischen Erwägungen gestrichen wurden; 76 Staaten wollen über einen verbindlichen Vertrag verhandeln, entscheiden soll die Überprüfungskonferenz der Waffenkonvention vom 16. bis 20. November ([Human Rights Watch, 07.09.2026](https://www.hrw.org/news/2026/09/07/un-talks-on-killer-robots-ends-with-calls-for-negotiations-growing)). Im Zivilen zog die EU-Kommission die geplante KI-Haftungsrichtlinie im Februar 2025 zurück; geblieben ist die Produkthaftungsrichtlinie (EU) 2024/2853, die Software und KI-Systeme wie Produkte behandelt und den Hersteller auch ohne Verschulden haften lässt. Den Krieg nimmt der AI Act ausdrücklich aus. Die Lücke ist dort am breitesten, wo am meisten auf dem Spiel steht.
 
+Älter als jede KI ist die Lücke in der Verwaltung, und dort zeigt sie ihr gewöhnlichstes Gesicht. Mit der Informationstechnik wandert das Ermessen vom Schalter in den Entscheidungsbaum, zu Juristen und Entwicklern, die den einzelnen Fall nie sehen ([Bovens & Zouridis 2002, doi:10.1111/0033-3352.00168](https://doi.org/10.1111/0033-3352.00168)); Roy Heidelberg liest das als Arendts „Herrschaft des Niemand“, in der Gedankenlosigkeit zum Design wird ([Heidelberg 2026, doi:10.1177/00953997261421492](https://doi.org/10.1177/00953997261421492)). Die niederländische Kindergeld-Affäre (rund 26.000 fälschlich beschuldigte Eltern, Rücktritt der Regierung 2021), das australische *Robodebt* (rund 470.000 unrechtmäßige Rückforderungen, „a crude and cruel mechanism“ laut [Royal Commission 2023](https://pm.gov.au/media/final-report-royal-commission-robodebt-scheme)) und der britische *Horizon*-Skandal (über 900 verurteilte Unterpostmeister) zeigen dasselbe Muster: Untersuchungen fanden jedes Mal Menschen, die wussten, was sie taten, und eine Maschine, hinter der sie sich verbergen konnten. Der Mensch in der Schleife ist dabei kein sicherer Schutz. In Experimenten folgten Bürger dem Algorithmus vor allem dann, wenn er ein Vorurteil bestätigte ([Alon-Barkat & Busuioc 2023, doi:10.1093/jopart/muac007](https://doi.org/10.1093/jopart/muac007)), und Aufsichtspflichten können fehlerhafte Systeme eher legitimieren, als sie zu korrigieren ([Green 2022, doi:10.1016/j.clsr.2022.105681](https://doi.org/10.1016/j.clsr.2022.105681)). Umgekehrt zwingt ein Algorithmus dazu, Ziele und Daten aufzuschreiben, und macht Diskriminierung damit nachweisbarer als ein menschlicher Kopf ([Kleinberg et al. 2018, doi:10.1093/jla/laz001](https://doi.org/10.1093/jla/laz001)).
+
 **Die Stimmen**
 
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Wenn niemand mehr Befehle befolgt|Dietmar Dath]]:** Der Wärter berief sich auf Befehle; *„wenn es eine KI ist, gibt's nicht mal mehr das. Da ist niemand mehr.“* Mit Brandom: Bedeutung heißt, für das Gesagte einzustehen.
@@ -152,8 +154,9 @@ Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengrupp
 - **[[Yuval Noah Harari — Das biologische Drama unserer Spezies#KI ist kein Werkzeug — sie ist ein Agent|Yuval Noah Harari]]:** Die KI ist ein Messer, das selbst entscheidet, ob es Salat schneidet oder mordet; bald stellt sich die Frage, ob man sie als Rechtsperson anerkennt.
 - **[[Adam Tooze — Pentagon vs. Anthropic#Der Konflikt: Pentagon gegen Anthropic|Adam Tooze]]:** Eine Firma zog rote Linien gegen autonome Waffen und Massenüberwachung, die das Pentagon nicht ziehen wollte, und wurde dafür bestraft; manchmal trägt der Hersteller die Verantwortung, die der Staat ablehnt.
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
+- **[[Hannah Arendt — Die Banalität des Bösen#Die Herrschaft des Niemand im Algorithmus|Hannah Arendt]]:** Die Bürokratie ist die Herrschaft des Niemand, eine Tyrannei ohne Tyrannen; das größte Böse begehen Menschen, die sich weigern, jemand zu sein — und ein Programm bietet ihnen dafür das beste Versteck.
 - **[[Roberto Simanowski — Sprachmaschinen#Midas im Maschinenraum|Simon Roloff]]:** Die Firmen haben ihre Verfassungen und Blogposts, *„aber dann eben doch entwickeln, genau wie sie entwickeln wollen, weil das Rennen eben nicht aufhört“*.
 - **[[Roberto Simanowski — Sprachmaschinen#Midas im Maschinenraum|Roberto Simanowski]]:** Mit Stuart Russell: Eine handelnde KI *„darf sich nie sicher sein, dass sie weiß, was der Mensch will“*.
 - **[[Ken Ono — Wenn das Wissen billig wird#Der außergewöhnlichste Bibliothekar der Welt|Ken Ono]]:** Die Maschine ist der außergewöhnlichste Bibliothekar der Welt; *„Do you want your librarian to be your neurosurgeon?“*
@@ -172,6 +175,7 @@ Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengrupp
 |---|---|---|
 | 08.10.2026 | [[Roberto Simanowski — Sprachmaschinen#Nachbesprechung|Roberto Simanowski — Sprachmaschinen]] | Wertexport gemessen: Tao, Atari, Santurkar, Durmus, Collective Constitutional AI, Kirk |
 | 08.10.2026 | [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Nachbesprechung|Dath und Schmitt — Verschwendung als Möglichkeit?]] | Verantwortungslücke: Matthias, Sparrow, Santoni de Sio, Tigard, moral crumple zone, UN-Verhandlungen 2026, Produkthaftung |
+| 10.10.2026 | [[Hannah Arendt — Die Banalität des Bösen#Nachbesprechung|Hannah Arendt — Die Banalität des Bösen]] | Herrschaft des Niemand in der Verwaltung: Bovens/Zouridis, Heidelberg 2026, Toeslagen, Robodebt, Horizon, Alon-Barkat/Busuioc, Green, Kleinberg |
 
 ---
 

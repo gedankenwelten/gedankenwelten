@@ -304,6 +304,9 @@ Damit ist auch die Frage nach dem Kuchen berührt. Nullsummendenken, also das Ge
 
 ## Verbindungen
 
+### → [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+Dort nicht die Wähler, sondern die Mitmacher: wie Polizisten, Beamte und Nachbarn zu Tätern wurden, mit Aly und Fromm, die in beiden Panoramen stehen.
+
 ### → [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
 
 Die Tat hinter dem Bild: Was man über den Abstand in der Kriminalstatistik weiß, woher er kommt und was ihn kleiner macht. Dieses Panorama fragt nach dem Echo in der Wahlkabine, das Schwester-Panorama nach der Sache selbst.

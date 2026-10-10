@@ -45,6 +45,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Was macht Schule mit uns? *(wachsend)* | [[Was macht Schule mit uns]] | ~70 |
 | Macht Migration kriminell? *(wachsend)* | [[Macht Migration kriminell]] | ~12 |
 | Was kann das Völkerrecht? *(wachsend)* | [[Was kann das Voelkerrecht]] | ~30 |
+| Wie werden gewöhnliche Menschen zu Tätern? *(wachsend)* | [[Wie werden gewoehnliche Menschen zu Taetern]] | ~45 |
 | Fortschritt | [[Fortschritt]] | 29 |
 | Neoliberalismus — Was zählt | [[Neoliberalismus — Was zaehlt]] | 13 |
 | Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |

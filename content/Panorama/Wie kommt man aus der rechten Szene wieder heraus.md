@@ -190,6 +190,9 @@ Ob ein Täter sich selbst vergeben darf, trennt die Psychologie genauer als die 
 
 ## Verbindungen
 
+### → [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+Das Schwester-Panorama fragt, wie aus gewöhnlichen Menschen Täter werden — Gedankenlosigkeit, Gruppe, Gelegenheit. Viele der Aussteiger, die hier vom Hineingeraten erzählen, stehen dort als Zeugen dafür, wie wenig Weltbild es zum Mitmachen braucht.
+
 ### → [[Zeitgeist/Philip Schlaffer — Kann man sich aendern|Philip Schlaffer — Kann man sich ändern?]]
 Ein Ausstieg aus Enttäuschung und Ausbrennen, ein halbes Jahr „Hauptsache raus“ vor jeder Arbeit am Weltbild — und im Saal eine Zuhörerin, die auf die letzte Reibung dieses Panoramas antwortet: Vergeben dürfen nur die Opfer.
 
