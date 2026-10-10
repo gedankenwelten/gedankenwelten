@@ -221,6 +221,8 @@ Und der Preis, den er fürchtet. Eine Meta-Analyse über 78 Studien bestätigt i
 
 Im Bestand berührt die Frage [[Michael Hartmann — Herkunft schlaegt Parteibuch#Was man tun könnte — und was der Gastgeber nicht hören wollte|Hartmanns Quote nach Herkunft]], die reservierten Sitze in [[Suraj Yengde — Annihilation of Caste#Der Harlem-Moment der Dalits|Yengdes Kastenkritik]], [[Malala Yousafzai — Ein optimistischer Blick auf die Zukunft der Maedchenbildung#Vorbilder und der Tisch, an dem entschieden wird|Malalas Tisch, an dem entschieden wird]] und die französische Aufsichtsratsquote in den [[Good News - Gute Nachrichten Mai 2026 Teil 2#Frankreich Geschlechterquote zeigt Wirkung|Good News vom Mai 2026]]; ein eigenes Panorama hat sie noch nicht.
 
+→ Weiter im Panorama: **[[Wirken Quoten#Stigma oder Vorbild?|Stigma oder Vorbild?]]**, wo Krauthausens Quotenbehinderter neben Hartmanns Quote nach Herkunft und dem Streit über eine Ost-Quote steht.
+
 ---
 
 ## Faktencheck
