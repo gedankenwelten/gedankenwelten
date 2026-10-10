@@ -19,11 +19,11 @@
    "aufrufe": 31
   },
   {
-   "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "aufrufe": 27
+   "pfad": "/DenkerVita/Mark-Reicher",
+   "aufrufe": 28
   },
   {
-   "pfad": "/DenkerVita/Mark-Reicher",
+   "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "aufrufe": 27
   },
   {
@@ -36,7 +36,7 @@
   },
   {
    "pfad": "/DenkerVita/Mark-Reicher.html",
-   "aufrufe": 20
+   "aufrufe": 19
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -256,11 +256,11 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/DenkerVita/Benjamin-Biersky",
      "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "pfad": "/DenkerVita/Mark-Reicher",
      "aufrufe": 10
     },
     {
@@ -268,27 +268,15 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "aufrufe": 8
-    },
-    {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 5
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "aufrufe": 8
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "aufrufe": 5
     },
     {
@@ -296,11 +284,23 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Hans-Maggi",
      "aufrufe": 4
     },
     {
@@ -312,11 +312,11 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
+     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "aufrufe": 3
     },
     {
@@ -328,11 +328,11 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Poerksen-und-Goepel-Debatte-neu-denken",
+     "pfad": "/Zeitgeist/Yisrael-Medad-Der-Siedler-und-sein-Recht",
      "aufrufe": 2
     },
     {
@@ -340,7 +340,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
+     "pfad": "/Zeitgeist/Poerksen-und-Goepel-Debatte-neu-denken",
      "aufrufe": 2
     },
     {
@@ -352,15 +352,15 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Yisrael-Medad-Der-Siedler-und-sein-Recht",
+     "pfad": "/DenkerVita/Arnd-Henze",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
      "aufrufe": 2
     },
     {
      "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Arnd-Henze",
      "aufrufe": 2
     },
     {
@@ -380,7 +380,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Freddy-Leppin",
+     "pfad": "/DenkerVita/Joan-Kinyua",
      "aufrufe": 2
     },
     {
@@ -388,7 +388,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Joan-Kinyua",
+     "pfad": "/DenkerVita/Freddy-Leppin",
      "aufrufe": 2
     },
     {
@@ -429,10 +429,6 @@
     },
     {
      "pfad": "/DenkerVita/Yonatan-Zeigen.html",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Stefan-Schulz",
      "aufrufe": 1
     },
     {
@@ -486,6 +482,10 @@
     {
      "pfad": "/DenkerVita/Hannah-Arendt",
      "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Kalayo",
+     "aufrufe": 1
     }
    ]
   },
@@ -509,11 +509,11 @@
      "aufrufe": 31
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 27
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "aufrufe": 28
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "aufrufe": 27
     },
     {
@@ -526,7 +526,7 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher.html",
-     "aufrufe": 20
+     "aufrufe": 19
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
@@ -763,7 +763,7 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "aufrufe": 41
+     "aufrufe": 42
     },
     {
      "pfad": "/Zeitgeist/Tilo-Wesche-Rechte-der-Natur-Eigentum-Kolonialismus",
@@ -1008,7 +1008,7 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "aufrufe": 41
+     "aufrufe": 42
     },
     {
      "pfad": "/Zeitgeist/Tilo-Wesche-Rechte-der-Natur-Eigentum-Kolonialismus",

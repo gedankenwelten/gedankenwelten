@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*337 Notes — automatisch generiert · nach Thema sortiert*
+*338 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -132,6 +132,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Horst Evers — Kostenloser Nahverkehr als Utopie|Horst Evers — Kostenloser Nahverkehr als Utopie]] — Wenn das größte Problem an einer Idee wäre, dass sie funktioniert — wie Comedy die Utopie des kostenlosen Nahverkehrs ernster nimmt als jede Talkshow.
 - [[Zeitgeist/ARTE — Hybrider Angriff Putins Krieg gegen Europas Osten|Hybrider Angriff — Wie Putin Europas Osten destabilisiert]] — Ein stiller Krieg ohne Panzer — Sabotage, Gift und Desinformation ziehen durch vier EU-Länder. Wo endet der Befund, wo beginnt die Erzählung, die selbst mit Angst arbeitet?
 - [[Zeitgeist/Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie|Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
+- [[Zeitgeist/Isabella Weber — Antifaschistische Wirtschaftspolitik|Isabella Weber — Antifaschistische Wirtschaftspolitik]] — Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht.
 - [[Zeitgeist/IT Mario - 40.000 Bundestagsreden analysiert|IT Mario — 40.000 Bundestagsreden analysiert: Welche Partei ist wirklich gefährlich?]]
 - [[Zeitgeist/Ivan Krastev — Wie zukunftsfaehig ist Europa|Ivan Krastev — Wie zukunftsfähig ist Europa?]]
 - [[Zeitgeist/Jens-Christian Wagner — Buchenwald und deutsche Erinnerung|Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]] — Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist.

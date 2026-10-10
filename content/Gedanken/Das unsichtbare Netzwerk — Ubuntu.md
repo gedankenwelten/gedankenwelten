@@ -157,3 +157,7 @@ Die Brücke von der Matte in den Alltag: Beobachten heißt bei ihm handeln könn
 ### → [[Felwine Sarr - Gehoert Afrika die Zukunft|Felwine Sarr — Gehört Afrika die Zukunft?]]
 
 Die philosophisch-historische Fassung dessen, was diese Note im Alltag sucht: Sarr erzählt, wie Mandela mit „Ich bin, weil wir sind" einen Krieg verhinderte — Ubuntu als Versöhnungsjustiz, die weiter ging als das Völkerrecht. Die große Politik zum selben Wort, das hier im Zimmer nebenan wohnt.
+
+### → [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
+
+Ein Wert, der aus der Beziehung kommt, gegen einen, den nur der Markt vergibt. Der Gedanke fragt, was mit Menschen geschieht, die nur noch gemessen werden: Sie suchen sich eine andere Skala, und die Rechte bietet ihnen Herkunft an.
