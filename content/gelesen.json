@@ -16,7 +16,7 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "aufrufe": 31
+   "aufrufe": 30
   },
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
@@ -256,11 +256,11 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/DenkerVita/Benjamin-Biersky",
      "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
+     "pfad": "/DenkerVita/Mark-Reicher",
      "aufrufe": 10
     },
     {
@@ -268,24 +268,16 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "aufrufe": 8
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "aufrufe": 6
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Marina-Klimchuk",
-     "aufrufe": 5
     },
     {
      "pfad": "/DenkerVita/Hans-Jürgen-Völz",
@@ -296,19 +288,15 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Hans-Maggi",
-     "aufrufe": 4
+     "pfad": "/DenkerVita/Marina-Klimchuk",
+     "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "aufrufe": 4
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
+     "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
      "aufrufe": 4
     },
     {
@@ -316,7 +304,19 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "pfad": "/DenkerVita/Hans-Maggi",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
      "aufrufe": 4
     },
     {
@@ -324,27 +324,27 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Adam-Johnson-How-to-Sell-a-Genocide",
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
      "aufrufe": 3
     },
     {
-     "pfad": "/Zeitgeist/Ami-Ayalon-Wir-haben-den-Krieg-gewonnen",
-     "aufrufe": 2
+     "pfad": "/Zeitgeist/Adam-Johnson-How-to-Sell-a-Genocide",
+     "aufrufe": 3
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Yisrael-Medad-Der-Siedler-und-sein-Recht",
+     "pfad": "/Zeitgeist/Poerksen-und-Goepel-Debatte-neu-denken",
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Arnd-Henze",
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "aufrufe": 2
     },
     {
@@ -360,11 +360,7 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Poerksen-und-Goepel-Debatte-neu-denken",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "pfad": "/DenkerVita/Freddy-Leppin",
      "aufrufe": 2
     },
     {
@@ -372,11 +368,11 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Andreas-Bartels",
+     "pfad": "/Zeitgeist/Ami-Ayalon-Wir-haben-den-Krieg-gewonnen",
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "pfad": "/DenkerVita/Arnd-Henze",
      "aufrufe": 2
     },
     {
@@ -388,8 +384,52 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Freddy-Leppin",
+     "pfad": "/Zeitgeist/Yisrael-Medad-Der-Siedler-und-sein-Recht",
      "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Andreas-Bartels",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Katrin-Eigendorf",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Steffen-Mau",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Judith-Mangelsdorf",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Renee-DiResta",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Valentina-Chiofalo",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/DenkerVita/Eva-von-Redecker.html",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
+     "aufrufe": 1
     },
     {
      "pfad": "/DenkerVita/Maja-Goepel",
@@ -432,7 +472,7 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Geistesblitz/Omar-Yaghi-Die-Welt-retten-mit-Chemie",
+     "pfad": "/Zeitgeist/Goepel,-Bleisch,-El-Mafaalani,-Schmitt-Verhaerten-ueberall,-und-nun",
      "aufrufe": 1
     },
     {
@@ -444,47 +484,7 @@
      "aufrufe": 1
     },
     {
-     "pfad": "/Zeitgeist/Gilda-Sahebi-und-Arne-Semsrott-GCA-33-Liegenddemos,-Schwarz-Rot,-Sea-Watch",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Staiy-News-Leipzig-Medienschweigen-und-Rechte-Mediabubble-(10.05.2026)",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Herfried-Münkler-Europas-Platz-in-der-neuen-Weltordnung",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Leonie-Heims.html",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Geistesblitz/Christine-Braehler-Selbstmitgefuehl,-Scham-und-reife-Liebe",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Inon-und-Abu-Sarah-The-Future-is-Peace",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Geistesblitz/ARTE-Forschung-Fake-und-faule-Tricks",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Hannah-Arendt",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Kalayo",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Christine-Braehler",
+     "pfad": "/Denker/Carel-van-Schaik-und-Kai-Michel-Die-drei-Naturen-des-Menschen",
      "aufrufe": 1
     }
    ]
@@ -506,7 +506,7 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "aufrufe": 31
+     "aufrufe": 30
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
