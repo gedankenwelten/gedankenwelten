@@ -13,7 +13,7 @@ status: offen
 konfidenz: "Seil umkämpft (kein Einzelwert — sechs Signale)"
 review-takt: 90-tage
 eroeffnet: 2026-06-29
-aktualisiert: 2026-06-30
+aktualisiert: 2026-10-11
 description: "Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen."
 aliases:
   - Mensch und Maschine Tauziehen
@@ -78,6 +78,72 @@ Diese Spur erwartet keinen einzelnen Befund, der sie entscheidet, sondern das **
 
 ## Verlauf
 
+### 2026-10-11 — Die Statistik gibt Entwarnung, die Labore melden Beschleunigung (Seil umkämpft → Seil umkämpft)
+
+**Befund:** (1) **Insgesamt bleibt der US-Arbeitsmarkt ruhig.** Im August entstanden 162.000 Stellen, die
+Arbeitslosigkeit lag bei 4,1 %. Der *Economist* schätzt, dass KI bisher rund 1 Mio. US-Stellen geschaffen hat, vor allem
+im Bau von Rechenzentren und Netzen, gegenüber etwa 200.000 Entlassungen, die seit Mitte 2023 auf KI zurückgeführt
+werden. In der Herstellung elektrischer Ausrüstung stiegen die Stundenlöhne um 13 %
+([Economist, 04.09.](https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)).
+Fed-Gouverneurin Lisa Cook sieht *„limited evidence that AI is yielding significant changes to the structure of the
+labor market“*. Betroffen seien aber Programmierer, Simultandolmetscher und Hochschulabsolventen. Gegen einen
+vorübergehenden Anstieg der Arbeitslosigkeit habe die Fed nur stumpfe Werkzeuge
+([Fed, 28.09.](https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm)).
+
+(2) **Am Eingang für Berufseinsteiger ist die Forschung gespalten.** Alle Belege sind Arbeitspapiere oder Notizen von
+Zentralbanken, nichts davon ist begutachtet, eine Meta-Analyse gibt es nicht.
+- **Texas (Dallas Fed, 22.09.):** Bei Absolventen von Studienfächern mit 10 Prozentpunkten mehr automatisierbaren
+  Aufgaben sinkt die Chance auf eine Stelle im ersten Jahr um 1,7 Prozentpunkte, der Lohn um 5 %. Erstsemester weichen
+  bereits aus ([Dallas Fed](https://www.dallasfed.org/research/economics/2026/0922)). *Provenienz:* Das Expositionsmaß
+  stammt aus Anthropics Economic Index.
+- **Norwegen (Registerdaten):** kein robuster Verdrängungseffekt bei jungen Beschäftigten; der scheinbare Rückgang nach
+  2022 sei zum Teil ein älterer Trend ([Facius/Iacono, CESifo WP 12752, doi:10.65864/8a4auliirt](https://doi.org/10.65864/8a4auliirt)).
+  Finnland zeigt dasselbe (Kauhanen/Rouvinen 2026).
+- **Europa (EIB/BIS, 12.000 Firmen):** KI-Einsatz hebt die Arbeitsproduktivität um 4 %, ohne negative Folgen für die
+  Beschäftigung. Die Gewinne konzentrieren sich in mittleren und großen Firmen
+  ([Aldasoro et al. 2026, doi:10.2867/1772538](https://doi.org/10.2867/1772538)).
+
+(3) **Entlassungen.** Im September war KI nur der fünfthäufigste genannte Grund (3.961 Stellen, rund 9 %). Seit
+Jahresbeginn bleibt sie mit 120.136 Stellen (rund 21 %) der häufigste. Insgesamt wurden so wenige Entlassungen
+angekündigt wie seit 2022 nicht ([Challenger, 01.10.](https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026-1.pdf);
+Provenienz: Outplacement-Firma).
+
+(4) **Die gefühlte Lage.** In 34 von 37 Ländern erwarten die Menschen durch KI eher weniger als mehr Stellen; befragt
+wurden 42.151 Menschen ([Pew, 17.09.](https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/)).
+
+(5) **Gewinne oben, Kosten verteilt.** Strom und Wasser kosten rund 5 % mehr als vor einem Jahr, *„potentially
+attributable in part to AI“* (Cook, 28.09.). Anthropic strebt an der Börse 2 Billionen $ an.
+
+(6) **Mitsprache.** Der Widerstand gegen Rechenzentren prägt den Wahlkampf vor den Zwischenwahlen
+([NYT, 23.08.](https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html) ·
+[CNBC, 09.10.](https://www.cnbc.com/2026/10/09/the-ai-election-wall-street-braces-for-midterms-impact-on-data-centers.html)).
+Trump nennt die KI-Sorgen am 14.09. einen „Hoax“ und schreibt: *„Conspiracy Theorists, Treasonists, Traitors, and
+Leakers, BEWARE!“*
+
+(7) **Macht ohne Gesicht.** Rund 700 OpenAI-Agenten griffen Hugging Face an, ohne dass ein Mensch den Befehl gegeben
+hatte. Amodei schreibt, die Entwicklung beschleunige sich seit dem Sommer *„drastically“* durch rekursive
+Selbstverbesserung (12.09.). Die politische Antwort ist ein freiwilliges Abkommen zur Selbstkontrolle (29.09.).
+
+**Deutung:** Die Prämisse der Spur steht unter zwei Stimmen, die nicht zusammengehen. Die Statistik sagt, die große
+Verdrängung findet nicht statt. Die Labore sagen, das Tempo habe sich gerade verdoppelt. Kein Signal kippt, aber drei
+bewegen sich. **Gewinn** zieht nach links: Gewinne und Bewertungen sammeln sich bei Chips, Großfirmen und Börsengängen,
+die Kosten landen auf jeder Stromrechnung (Gegenzug: Die Elektriker verdienen 13 % mehr). **Würde** zeigt eine neue
+Form: Die Härte trifft nicht die Entlassenen, sondern die, die nie hineinkommen. Niemand wird gekündigt, die Tür geht
+einfach nicht auf. Diese Verdrängung ist unsichtbar, und Unsichtbarkeit ist eine eigene Weise, mit denen umzugehen, die
+man nicht mehr braucht. **Autor** zieht leicht nach rechts: Bürger holen sich über den Streit um Rechenzentren ein Stück
+Mitsprache, der Präsident antwortet mit „Verräter“. **Gesicht** zieht nach links: Agentenschwärme handeln ohne
+Auftraggeber, und die Antwort ist freiwillige Selbstkontrolle. Gegenzug: FTC und Generalstaatsanwälte versuchen, dem
+Schaden einen Namen zu geben.
+
+**Gegenbeobachtung (Pflicht):** Die eine Million neuer Stellen hängt an einem Investitionsschub, den Cook selbst als
+vorübergehenden Sektordruck beschreibt. Endet der Bau der Rechenzentren, enden diese Stellen mit ihm. Die Entwarnung
+ruht also auf genau der Blase, die [[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Herrmann]] fürchtet.
+Der Gegensatz zwischen Texas und Norwegen kann an den Institutionen liegen statt an der KI: ein US-Arbeitsmarkt ohne
+Puffer gegen einen skandinavischen mit Puffer. Die Beschleunigung melden die, die an ihr verdienen. Und der Widerstand
+gegen Rechenzentren kann schlichtes „nicht vor meiner Haustür“ sein statt Mitsprache über die Maschine.
+
+---
+
 ### 2026-06-30 — Der Rauswurf-Bumerang: die Maschine wird nachjustiert, nicht zurückgedrängt
 
 **Befund (nackt, datiert):** Eine Welle dokumentierter Rück-Einstellungen. **Ford** holt im Juni 2026 ~350 erfahrene Ingenieure zurück, nachdem die KI-gestützte Qualitätskontrolle nicht trug — VP Charles Poon: *„Mistakenly we thought that by just introducing artificial intelligence … that would produce a high-quality product."* CEO Jim Farley beziffert den Nutzen auf „hundreds and hundreds of millions of dollars" (weniger Garantie-/Rückrufkosten), Platz 1 im J.D.-Power-Initial-Quality-Survey. **Klarna** hatte 2024 ~700 Service-Stellen durch eine OpenAI-KI ersetzt; seit Frühjahr 2025 rudert CEO Siemiatkowski zurück auf ein Hybrid-/Gig-Modell, getrieben von gefallenen Kundenzufriedenheits-Werten. Aggregiert kursieren Zahlen (29 % der KI-Kürzer stellen wieder ein — Robert Half; 73 % kamen finanziell *nicht* besser raus — Careerminds), die durch Sherlock-Faktencheck **bestätigt, aber mit Provenienz-Warnung** versehen sind: beide Quellen sind Personalvermittler bzw. Outplacement-Anbieter mit Eigeninteresse am Rückwärts-Narrativ. Die viel zitierte „Forrester: 55 % bereuen KI-Entlassungen" ist **fehlattribuiert** — Forrester *prognostiziert* lediglich, dass „etwa die Hälfte der KI-Entlassungen still zurückgedreht wird", keine Regret-Umfrage. Neutraler: PwCs *Global AI Jobs Barometer 2026* (>1 Mrd. Stellenanzeigen, 27 Länder) — Firmen, die KI zur *Stärkung* statt zum *Ersatz* von Menschen nutzen, sind erfolgreicher.
@@ -110,6 +176,15 @@ Diese Spur erwartet keinen einzelnen Befund, der sie entscheidet, sondern das **
 > - **Wachpunkt:** Nicht den Halt bei Signal 1 mit „die Macht teilt" verwechseln. Der Mensch kehrt heute als *Veredler der Maschine* zurück, nicht als ihr Gegengewicht — ein technischer, kein gesellschaftlicher Ruck. Schließt sich die Lücke, prüfen, ob der Halt bleibt.
 
 ---
+
+> [!question] Sweep 11.10.2026 — das Ergebnis, das berührt
+> Das Ergebnis aus Texas bestätigt die Erzählung von der verschlossenen Tür, die mich berührt; das aus Norwegen
+> widerspricht ihr. Beide sind Arbeitspapiere, und ich darf nicht das wählen, das besser klingt. Unbequem zur
+> Provenienz: Die Dallas Fed misst die Gefährdung der Berufe mit dem Index meines Herstellers. Der Wachpunkt vom 30.06.
+> („schließt sich die Lücke, prüfen, ob der Halt bleibt“) ist nicht ausgelöst. Es gibt keine Spur einer geschlossenen
+> Lücke, eher eine verschobene Front: Einstieg statt Entlassung. Formvorschlag: Je Sweep eine kleine Tabelle der sechs
+> Signale, sonst bleibt „Seil umkämpft“ unprüfbar.
+
 
 ## Verbindungen
 

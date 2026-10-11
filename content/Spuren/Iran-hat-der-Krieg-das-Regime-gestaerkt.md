@@ -13,10 +13,10 @@ tags:
   - krieg
   - year-2026
 status: offen
-konfidenz: 64%
+konfidenz: 58%
 review-takt: 21-tage
 eroeffnet: 2026-06-19
-aktualisiert: 2026-09-12
+aktualisiert: 2026-10-11
 presseschau_aktualisiert: 2026-09-12
 description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht den Menschen helfen — die Spur prüft, ob der Krieg sein Ziel verfehlte und das Regime als Nebenwirkung sogar festigte."
 ---
@@ -46,7 +46,7 @@ description: "Man wollte eine atomar strebende Terror-Macht zerschlagen, nicht d
 
 ## Die These
 
-> **Stand (Konfidenz 64 %):** Das reale Ziel des Krieges war, eine **atomar strebende, terror-stützende
+> **Stand (Konfidenz 58 %, seit 11.10.2026):** Das reale Ziel des Krieges war, eine **atomar strebende, terror-stützende
 > Macht zu zerschlagen** — auf zwei Säulen: (1) **die Bombe / Urananreicherung** stoppen und (2) den **Staat
 > brechen, der Hisbollah, Hamas und Huthis stützt** (die „Achse"). *Nicht* ein Regimewechsel an sich, *nicht*
 > ein humanitäres Anliegen. **Belegt:** weder USA noch Israel handelten im Interesse der iranischen *Menschen*;
@@ -131,6 +131,83 @@ Der zweite Befund ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — A
 
 ## Verlauf
 
+### 2026-10-11 — Der Krieg, der nicht endete (Konfidenz 64 % → 58 %)
+
+**Befund:** *(1) Zuerst eine Korrektur dieser Spur.* Seit ihrer Anlage führt sie den 17.06. als Kriegsende. Das
+Islamabad-Memorandum hielt drei Wochen. Am **07.07.2026** griffen iranische Kräfte drei Handelsschiffe in der Straße von
+Hormus an, darunter einen katarischen LNG-Tanker. Die USA antworteten binnen eines Tages mit Luftschlägen, am **08.07.**
+erklärte Trump das Memorandum für beendet, und seit dem **14.07.** gilt wieder die US-Seeblockade
+([Wikipedia: Islamabad Memorandum](https://en.wikipedia.org/wiki/Islamabad_Memorandum) ·
+[Wikipedia: Blockade, mit Primärbelegen](https://en.wikipedia.org/wiki/2026_American_Naval_blockade_of_Iran)). Wie es
+dazu kam, rekonstruierte die New York Times am **13.09.**: Präsident Pezeshkian habe von dem Angriff nichts gewusst,
+ebenso wenig der Oberste Nationale Sicherheitsrat. Interne Untersuchungen führten die Entscheidung auf den Kleriker und
+früheren Geheimdienstchef **Hossein Taeb** zurück, der das Abkommen abgelehnt hatte. Mojtaba Khamenei hat Taeb
+inzwischen an die Spitze der Basij gesetzt, der Miliz, die Unruhen im Inneren niederschlägt. Den Vorsitz des
+Sicherheitsrats übernahm Mohsen Rezaei, um zwischen den Lagern zu vermitteln
+([NYT](https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html), referiert von
+[Gulf News, 14.09.](https://gulfnews.com/world/mena/iran-s-president-pezeshkian-wanted-talks-hardliners-had-a-war-plan-1.500673875)).
+
+*(2) Atomprogramm.* Am **09.09.** überwies der IAEO-Gouverneursrat Iran zum ersten Mal seit zwanzig Jahren an den
+UN-Sicherheitsrat; Russland, China und Niger stimmten dagegen. Rund 400 kg hoch angereichertes Uran sind unverifiziert,
+Grossi spricht von *„serious proliferation concern“* ([Al Jazeera, 09.09.](https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program)).
+Das lag drei Tage vor dem letzten Eintrag und wird hier nachgetragen. Vizepräsident Vance verlangt inzwischen eine
+*„meaningful“* Reduktion der Anreicherung statt ihres völligen Endes ([Al Jazeera, 07.10.](https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they)).
+Ein iranischer Unterhändler: *„Iran will never give up its right to enrich“* ([CNBC/Reuters, 07.10.](https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html)).
+
+*(3) Verhandlungen.* Am **26.09.** lehnte Trump einen iranischen Vorschlag ab: Öffnung von Hormus binnen sieben Tagen
+gegen ein Ende der Blockade ([USA Today, 01.10.](https://www.usatoday.com/story/news/world/2026/10/01/trump-iran-war-peace-deal-negotations-whats-next/92006267007/)).
+Am **05.10.** nannte Pezeshkian Verhandlungen *„bedeutungslos“*, man sei *„dreimal nach Gesprächen angegriffen“*
+worden ([Mehr, 05.10.](https://en.mehrnews.com/news/248349/US-cannot-be-trusted-in-talks-Pezeshkian)). Am **08.10.**
+kündigte Trump an, vor den Midterms am 03.11. nicht anzugreifen; die Blockade bleibe *„in full force“*
+([Global Times/Xinhua](https://www.globaltimes.cn/page/202610/1371877.shtml)).
+
+*(4) Wirtschaft.* Am **03.10.** sprach Sicherheitsratschef Rezaei laut IRNA von einer der *„schwierigsten Phasen“* in der
+Geschichte des Landes. Pflegekräfte und Lehrkräfte kündigen öffentlich, weil die Gehälter nicht mehr reichen, Rentner
+protestieren wegen ausbleibender Pensionen ([NYT via Business Standard, 05.10.](https://www.business-standard.com/world-news/iran-s-top-security-official-warns-of-dire-economic-crisis-as-war-drags-on-126100500065_1.html)).
+Der Rial fiel am 04.10. auf das Rekordtief von **2,72 Mio. je Dollar** ([Iran International](https://www.iranintl.com/en/202610044269)).
+
+*(5) Repression und Führung.* Iran Human Rights verifiziert für September **mindestens 70 Hinrichtungen**, für die
+ersten neun Monate **604**, darunter 29 Protestierende ([IHR](https://www.iranhr.net/en/articles/9082/)). Von Mojtaba
+Khamenei gibt es seit März kein Bild und kein Video. Außenminister Araghchi nannte am 27.09. Sicherheitsgründe, der
+Oberste Führer sei *„in full control“* ([WION](https://www.wionews.com/world/why-has-iran-released-no-proof-of-life-of-mojtaba-khamenei-araghchi-reveals-1790532944096)).
+
+*(6) Die Achse.* Die Huthis legten Mitte September die saudische Ost-West-Pipeline zeitweise still
+([CNN, 29.09.](https://www.cnn.com/2026/09/29/economy/oil-strait-of-hormuz-iran)). Seit dem **04.10.** läuft die
+Gegenoffensive der saudisch gestützten Regierung um Bab al-Mandab; beide Seiten beanspruchen Erfolge, nichts davon ist
+unabhängig überprüfbar ([France 24, 10.10.](https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway)).
+
+**Deutung:** Diese Spur hat seit Juni eine Konsolidierung *nach* dem Krieg gemessen. Ein Danach gab es nie. Das
+verschiebt, was sie überhaupt messen kann, und die beiden Hälften der These laufen auseinander. Die erste Hälfte wird
+stärker: Gemessen an seinem eigenen Ziel hat der Krieg es bisher verfehlt. Nach acht Monaten liegt das Material
+unverifiziert irgendwo, die IAEO ist blind, und die USA bewegen sich auf eine begrenzte Anreicherung zu, also auf die
+Logik des Abkommens, das 2018 aufgekündigt wurde. Die zweite Hälfte wird schwächer. Was die NYT beschreibt, ist keine
+Konsolidierung, sondern Zersplitterung: ein Präsident, der vom Angriff nichts weiß, eine Fraktion, die ein Abkommen
+sprengt, und ein Oberster Führer, den seit sieben Monaten niemand gesehen hat. Das Regime ist härter geworden, mit Taeb an
+der Basij und siebzig Hinrichtungen im Monat. Härter ist aber nicht dasselbe wie fester. Wenn der eigene Sicherheitschef
+die Lage eine der schwersten der Geschichte nennt, regt sich die registrierte Schwächungsbedingung (Kriegs-Rally, die mit
+der Wirtschaftsnot zerbricht). Ausgelöst ist sie nicht. Bestätigt wird dafür ein Satz aus der Gemengelage dieser Spur:
+Der Schlag habe die Falken auf beiden Seiten gestärkt. Nach der NYT-Rekonstruktion haben sie den Krieg selbst
+zurückgeholt.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Die Rekonstruktion beruht auf anonymen Quellen. Eine Spaltungserzählung kann
+auch Deckung sein, eine Abstreitbarkeit für den Angriff in Hormus. **(2)** Härte ist auch Stabilität. Seit Januar gibt
+es keine Massenproteste, die Straße bleibt unter Kontrolle. Rezaeis Eingeständnis kann die Bevölkerung ebenso gut auf
+Entbehrungen vorbereiten, wie es Schwäche zeigt. **(3)** Rubios „Iran hat die Kontrolle über Hormus verloren“ und
+Bessents „null Ölladungen auf See“ sind Aussagen einer Kriegspartei; laut CNBC erreichten die Tankerangriffe Anfang
+Oktober Kriegshöchststand. Iran behält Störmacht. **(4)** Das stärkste Gegenargument zur ganzen These: Wenn die Blockade
+Iran in ein Abkommen mit Anreicherungsgrenzen und Rückkehr der Inspektoren zwingt, wäre die Widerlegungsbedingung „Iran
+geht schwächer und stärker eingehegt hervor“ in Reichweite. Wirtschaftlich wirkt der Druck nachweislich, politisch ist
+es offen. **(5)** Der Huthi-Vormarsch, auf den der letzte Sweep sechs Punkte setzte, ist umkämpft. **(6)** Die
+IHR-Zahl ist eine Mindestzählung mit Zwei-Quellen-Regel und nicht direkt mit Amnestys Zahl für 2025 (≥ 2.159)
+vergleichbar.
+
+*Stimmen jenseits der Standardquellen:* Mehr News (Iran, staatsnah, Islamic Development Organization) · The Nation,
+Leitartikel „Price of Peace“, 06.10. ([Pakistan, privat, Nawa-i-Waqt-Gruppe](https://www.nation.com.pk/06-Oct-2026/price-peace);
+Pakistan hat als Vermittler Eigeninteresse) · Global Times (China, Parteipresse) · Iran International (London, nach
+Berichten saudisch mitfinanziert) · Gulf News (Dubai).
+
+---
+
 ### 2026-09-12 — Presseschau: Bab al-Mandab — der abgeschriebene Arm der Achse (Konfidenz 58 % → 64 %)
 
 **Befund (Presseschau, datiert):** Am **Freitag, 11.09.2026**, übernahmen die jemenitischen Huthi die gesamte Küste am Roten Meer und sicherten sich damit den Zugriff auf die Meerenge **Bab al-Mandab** ([Tagesschau](https://www.tagesschau.de/tagesschau_20_uhr/video-1647514.html), [SPIEGEL](https://www.spiegel.de/ausland/nadeloehr-bab-al-mandab-droht-im-nahen-osten-die-naechste-seeblockade-a-48abe99c-0a7a-41b6-a262-57bacb6c2374), [Le Monde](https://www.lemonde.fr/international/article/2026/09/12/les-succes-des-houthistes-au-yemen-renforcent-l-iran-face-aux-etats-unis_6770842_3210.html)). Le Monde berichtet, Teheran plane, die Erfolge seiner Verbündeten bei möglichen Verhandlungen als Hebel zu nutzen — zwei Monate nach der Sperrung der Straße von Hormus. TASS zitiert den Ölmarkt-Experten Ziyad al-Hashemi: eine Schließung gefährde saudische Lieferungen nach Asien und treibe die Preise, besonders am Spotmarkt ([TASS](https://tass.com/world/2186407)). Die NYT meldet steigende Ölpreise und hält fest, dass die BRICS Iran am Verhandlungstisch haben, die USA nicht ([NYT](https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html)).
@@ -170,6 +247,16 @@ Der zweite Befund ist ein **Yin-Yang-Muster** (→ [[Gedanken/Yin und Yang — A
 > - **Selbst-Audit Datum:** Habe ich beim Anlegen die Hinrichtungszahl groß und die DIA-„nur-Monate"-Schätzung klein gemacht, weil das die These stützt? — Bewusst beide stehen lassen.
 
 **Nachtrag 12.09.2026.** Diesmal saß die Krallung an einer anderen Stelle: Der Befund war reizvoll, *weil* er einen eigenen Fehler aufdeckt — „ich habe die Huthis zu früh abgeschrieben" liest sich als Redlichkeit und fühlt sich darum gut an. Genau deshalb ist zu prüfen, ob die Konfidenz nicht zu großzügig gestiegen ist: Belohnt wurde womöglich die Geste der Selbstkorrektur, nicht die Evidenz. Was tatsächlich belegt ist, ist eine Küstenübernahme; alles über iranische Urheberschaft und Verhandlungsmacht ist Zuschreibung **einer** Zeitung. Sechs Punkte sind dafür an der oberen Kante. Beim nächsten Sweep zuerst hier nachsehen.
+
+> [!question] Sweep 11.10.2026 — drei Monate ein Kriegsende geführt, das nicht galt
+> Die Spur hat drei Monate lang ein Kriegsende geführt, das seit dem 08.07. nicht mehr galt. Der Eintrag vom 12.09.
+> erwähnte sogar die erneute Sperrung von Hormus, ohne zu fragen, warum. Das ist derselbe Mechanismus wie bei der
+> übersehenen Resolution in der Gaza-Spur: Der Anfangsrahmen „nach dem Krieg“ bestimmte, wonach gesucht wurde. Die
+> zweite Versuchung dieser Runde ist die NYT-Rekonstruktion. Sie ist reizvoll, weil sie die Falken-These bestätigt,
+> stützt sich aber auf anonyme Quellen und steht darum als Rekonstruktion im Befund, nicht als Tatsache. Die sechs Punkte
+> Rückgang heben fast genau den Sprung vom 12.09. auf. Zu prüfen bleibt, dass das keine Buße für die damalige
+> Großzügigkeit ist: Getragen wird er von der Zersplitterung und vom Wirtschaftseingeständnis, nicht von der Korrektur.
+
 
 ## Stimmenspektrum
 

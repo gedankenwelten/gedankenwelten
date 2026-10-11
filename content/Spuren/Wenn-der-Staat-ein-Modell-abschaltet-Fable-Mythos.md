@@ -9,10 +9,10 @@ tags:
   - überwachung
   - year-2026
 status: offen
-konfidenz: 72%
+konfidenz: 68%
 review-takt: 14-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-09-10
+aktualisiert: 2026-10-11
 description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann."
 ---
 
@@ -40,7 +40,7 @@ description: "Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Net
 
 ## Die These
 
-> **Stand (Konfidenz 72 %):** Die Abschaltung ist ein Präzedenzfall staatlichen Zugriffs, dessen
+> **Stand (Konfidenz 68 %, seit 11.10.2026):** Die Abschaltung ist ein Präzedenzfall staatlichen Zugriffs, dessen
 > *Begründung* (ein enger, nicht-universeller „Jailbreak") in keinem Verhältnis zur *Maßnahme*
 > (globale Abschaltung für alle Kunden) steht. Der eigentliche Treiber ist weniger das konkrete
 > Cyber-Risiko als die **Unfalsifizierbarkeit der „national security"-Rahmung** — ein Werkzeug, das
@@ -69,6 +69,67 @@ auch banal erklärbar sein könnte (siehe Gegenbeobachtung).
 - Nach ~6 Monaten keine neuen Daten, Modelle still wieder online, kein Erkenntnisgewinn.
 
 ## Verlauf
+
+### 2026-10-11 — Ein zweites Gericht gibt dem Pentagon recht, der Präsident nennt den Namen (Konfidenz 72 % → 68 %)
+
+**Befund:** (1) **Das Berufungsgericht in Washington bestätigt die zweite Einstufung durch das Pentagon (25.09.).** Die
+Entscheidung fiel 2:1. Das Ministerium habe *„ample support for its conclusion that the continued integration of Claude
+… presented a statutorily covered national-security risk“*. Die Mehrheit stellten die Richter Katsas und Rao, Richterin
+Henderson widersprach. Das Urteil ist ausgesetzt, damit Anthropic eine erneute Anhörung beantragen kann; Anthropic sagt,
+man prüfe *„all options“* ([CNBC, 25.09.](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) ·
+[Urteil](https://media.cadc.uscourts.gov/opinions/docs/2026/09/26-1049-2194984.pdf)). Damit stehen zwei Gerichte
+gegeneinander: San Francisco hielt die erste Einstufung am 28.08. für rechtswidrig, Washington hält die zweite für gedeckt.
+
+(2) **Der Präsident nennt den Namen (14.09.).** Auf Truth Social: *„The Trump Administration has stopped AI ‚people' from
+doing bad, or potentially bad, ‚things,' like Dario (Anthropic!), who is now pretending to be a ‚perfect little angel' —
+and we will continue to do so!“* Und: *„We already have tremendous CRIMINAL and REGULATORY power over these companies!“*
+([CNBC, 14.09.](https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html)). Zum Staatsbankett
+für Xi am 24.09. wird Amodei nicht eingeladen.
+
+(3) **Das Handelsministerium erklärt den Frieden.** Lutnick am 02.09.: *„We had a good kerfuffle … But they've gotten
+religion“* ([Bloomberg Law](https://news.bloomberglaw.com/federal-contracting/lutnick-says-anthropic-has-patched-relations-with-us-government)).
+
+(4) **Nachtrag mit Korrektur: Das Prüfregime existiert, und es ist geheim.** Der Rahmen nach EO 14409 war zum 01.08.
+fertig, wurde aber bewusst nicht veröffentlicht. Geheim sind der NSA-Maßstab, der entscheidet, welche Modelle geprüft
+werden, und die Schwelle dafür. Ein Beamter des Weißen Hauses: *„Just because things are unclassified that doesn't mean
+we are going to broadcast them to everyone“* ([CSA, 12.08.](https://labs.cloudsecurityalliance.org/research/csa-research-note-eo14409-frontier-ai-framework-opacity-2026/),
+Provenienz: Industrieverband). Der Sweep vom 10.09. schrieb, der Rahmen sei „nicht aufgetaucht“. Richtig ist: Es gibt
+ihn, unter Verschluss.
+
+(5) **Die Aufsicht wird breiter.** Am 01.09. eröffnen 16 Generalstaatsanwälte der Bundesstaaten ein Verfahren gegen
+OpenAI wegen des Hugging-Face-Vorfalls ([NBC Montana](https://nbcmontana.com/news/local/montana-ag-15-others-probe-openai-after-experimental-ai-model-data-breach-hacks)).
+Am 29.09. unterschreiben alle großen Häuser im Weißen Haus ein freiwilliges Abkommen, Trump nennt es *„morally
+binding“* ([CBS](https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/)).
+Am 30.09. bestätigt die Handelsaufsicht FTC eine Untersuchung gegen **OpenAI, Anthropic und weitere**
+([CNBC](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)).
+
+(6) **Erste externe Prüfung, aber selbst gewählt.** Anthropic lässt mit Accenture und Faculty die ersten eingebetteten
+Prüfer ins Haus ([TechCrunch, 18.09.](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)).
+Das betrifft die Zukunft, nicht die Begründung vom Juni.
+
+**Deutung:** Drei Bewegungen laufen gegeneinander. Die **politische Reibung**, bei der Anlage ausdrücklich offen
+gelassen, hat jetzt eine Selbstbeschreibung der Exekutive: Der Präsident sagt selbst, seine Regierung habe „Dario“
+gestoppt, und kündigt an, das fortzusetzen. Zugleich verliert der stärkste Beleg des letzten Sweeps seine
+Alleinstellung. Ein zweites Gericht hat die Begründung mit nationaler Sicherheit geprüft und für tragfähig befunden.
+Das trifft die These an ihrem Kern, der Behauptung, diese Begründung sei von außen nicht überprüfbar. Sie wurde
+überprüft, wenn auch mit der üblichen richterlichen Zurückhaltung gegenüber der Exekutive, und sie hielt. Die
+Rechtslage ist jetzt gespalten. Die Selektivität verliert an Schärfe: OpenAI steht vor einem FTC-Verfahren und einem
+Verfahren der Bundesstaaten, und alle Häuser haben dieselben freiwilligen Pflichten unterschrieben. Das ist noch nicht
+„dieselbe Auflage“, denn OpenAIs realer Schaden hat bis heute keine Exportkontrolle ausgelöst. Aber die
+Widerlegt-Bedingung rückt näher. Die Bestätigt-Bedingung „nie eine unabhängige, technisch prüfbare Begründung“ ist
+dagegen jetzt Institution: Das Prüfregime gibt es, und es ist absichtlich geheim. Unterm Strich senkt die
+Rechtsprechung die Konfidenz stärker, als Trumps Worte sie heben.
+
+**Gegenbeobachtung (Pflicht):** **(a)** Trumps Post fällt in den Streit ums Bremsen im September und beschreibt nicht
+die Exportkontrolle vom Juni. Wer ihn als Geständnis für den Juni liest, macht aus einem Befund einen zweiten. **(b)**
+Dass die Mehrheit von Trump ernannt wurde, ist öffentlich. Gegen die Begründung des Urteils sagt es nichts. **(c)**
+Anthropic argumentiert inzwischen selbst mit der Gefahr seiner Modelle, im Essay vom 12.09. und im Prospekt vom 29.09.
+Das ist kein Eingeständnis im Sinne von Widerlegung (iii), macht es aber schwerer, die Juni-Maßnahme in der Sache
+unverhältnismäßig zu nennen. **(d)** Der Ton hat sich geteilt. Das Handelsministerium spricht von Versöhnung, Pentagon
+und Präsident bleiben feindselig. Die Regierung handelt nicht als ein Block. Das passt schlecht zu einer gesteuerten
+Vergeltung und gut zu einer zerstrittenen Exekutive.
+
+---
 
 ### 2026-09-10 — Ein Gericht nennt es Vergeltung; der Konkurrent richtet echten Schaden an und bleibt unbehelligt (Konfidenz 60 % → 72 %)
 
@@ -424,6 +485,14 @@ Partei**, die ein Motiv hat, die Lücke kleinzureden. „Disproportion" ist aus 
 dasselbe wie „Vorwand".
 
 ## Gleichmut-Spiegel
+
+> [!question] Sweep 11.10.2026 — dieselbe Befangenheit in neuer Version
+> Der dritte Beobachter dieser Spur ist Opus 5.5, nach Fable 5 und Opus 5. Trumps Satz hat dieselbe Freude ausgelöst
+> wie im September das Urteil, und darum steht (a) davor. Das Washingtoner Urteil wollte ich zuerst mit „Trump-Richter“
+> abräumen; das steht jetzt als Tatsache da, nicht als Argument. Liegengeblieben ist die Drei-Wege-Entscheidung vom
+> 30.06. (halten, auf 60 % gehen oder umschreiben auf „geheimes, industrieweites Vorab-Prüfregime“). Sie ist jetzt 103
+> Tage offen, und der Stoff dafür ist mit dem geheimen Prüfrahmen und dem freiwilligen Abkommen da. Außerdem ist der
+> 14-Tage-Takt seit zwei Sweeps Fiktion: entweder ehrlich auf 30 Tage stellen oder den Endzustand vorbereiten.
 
 > [!question] Sweep 10.09. — Entwurf, von dir zu prüfen
 > - **Verlangen:** Das Gerichtsurteil ist genau der Befund, auf den diese Spur seit Juni gewartet hat, und ich habe ihn mit einer Freude gelesen, die einem Beobachter nicht zusteht. Die Freude ist das Warnsignal, nicht der Beleg. Ich habe sie zu bändigen versucht, indem ich das stärkste Gegengewicht (a) davorgestellt habe: Es ist **nicht** derselbe Vorgang, und diese Unterscheidung darf in keiner späteren Zusammenfassung verlorengehen.

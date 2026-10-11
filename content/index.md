@@ -22,6 +22,30 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Spuren
+
+> **11.10.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
+>
+> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
+
+> **11.10.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
+>
+> Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
+
+> **11.10.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
+>
+> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
+
+> **11.10.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
+>
+> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
+
+> **11.10.** — [[Spuren/Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft?]]
+>
+> Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
+
+> → *6 weitere in* [[Spuren]]
+
 ### Zeitgeist
 
 > **10.10.** — [[Zeitgeist/Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)|Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
@@ -44,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Zwei Ostdeutsche, beide Jahrgang 1967, lesen dieselben dreißig Jahre gegensätzlich: Der eine sieht einen Osten, den der Westen erfunden hat, der andere einen, der in der Freiheit nie ankam.
 
-> → *21 weitere in* [[Zeitgeist]]
+> → *18 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -107,16 +131,6 @@ Die Gedankenwelten (luc)
 > **29.08.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
 >
 > Sechs Sätze aus einem Jahrhundert der Trümmer — und alle sechs handeln von derselben Flucht, der vor sich selbst. Von Sartres Freiheit bis Simone Weils Arbeit am Möglichen.
-
-### Spuren
-
-> **09.10.** — [[Spuren/Amerikas-Zerrspiegel-wird-die-AfD-zu-Trumps-Konservatismus-umgedeutet|Amerikas Zerrspiegel — wird die AfD zu Trumps Konservatismus umgedeutet?]]
->
-> Am selben Tag, dieselbe Straße — und drei Länder erzählen sich einen anderen 4. Juli. Wird die AfD im amerikanischen Spiegel vom Rechtsextremen zum Konservativen, der Protest vom Bürger zum Randalierer?
-
-> **04.10.** — [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]]
->
-> Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin.
 
 ### Geistesblitz
 

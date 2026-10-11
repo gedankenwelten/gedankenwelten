@@ -12,7 +12,7 @@ status: offen
 konfidenz: 84%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-09-26
+aktualisiert: 2026-10-11
 description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung."
 ---
 
@@ -39,7 +39,7 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 
 ## Die These
 
-> **Stand (Konfidenz 84 %, seit 28.08.2026; zuletzt geprüft 26.09.2026):** Der ICE-Vollzug eskaliert *messbar* (Rekordfestnahmen,
+> **Stand (Konfidenz 84 %, seit 28.08.2026; zuletzt geprüft 11.10.2026):** Der ICE-Vollzug eskaliert *messbar* (Rekordfestnahmen,
 > Zugriffe ohne individuellen Tatverdacht, Erosion des due process, dokumentierte Fälle zu Unrecht
 > festgehaltener US-Bürger), während die mediale Aufmerksamkeit nachlässt. Die institutionellen
 > Bremsen — Gerichte, Kongress-Aufsicht — **verlangsamen, stoppen aber die Eskalation nicht**. Die
@@ -56,6 +56,112 @@ description: "Der Vollzug eskaliert, während die Kameras weiterziehen — richt
 **Kalt, wenn:** Politikwechsel beendet das Thema ohne neue Daten.
 
 ## Verlauf
+
+### 2026-10-11 — Marble Hill: die Kamera lief, der Film bleibt im Haus (Konfidenz unverändert 84 %)
+
+**Befund:** *(1) Der achte Fahrzeug-Fall, der erste in New York, der erste mit einem Kind im Wagen.* Am
+**Donnerstag, 08.10.**, kurz nach 16 Uhr, in **Marble Hill** (verwaltet von Manhattan, auf Bronx-Boden)
+schoss ein ICE-Beamter siebenmal auf den Wagen von **Oscar Belgal**, 28, aus der Dominikanischen Republik.
+Ein Schuss traf ihn unterhalb des linken Ohrs am Hals. Hinten im Auto saß sein **fünfjähriger Sohn**, er
+blieb unverletzt. Die Beamten trugen Zivil, Bauarbeiterwesten und Masken. Eine Kamera der Stadt zeigt, wie
+Belgal rückwärts einparkt und ein Beamter mit gezogener Waffe an sein Fenster tritt. Dann fährt der Wagen an,
+ein zweiter Beamter zieht die Waffe, ein dritter schlägt gegen die Scheibe. Der Moment des Schusses liegt
+außerhalb des Bildes. Nach Darstellung von ICE-Vize **Marcos Charles** verweigerte Belgal den Befehl,
+auszusteigen, rammte zwei Behördenwagen und *„weaponized his vehicle"* gegen weitere Beamte. Eine
+Angestellte des Delis an der Ecke sagt, der Wagen sei von den Beamten **weggefahren**. Laut DHS wussten die
+Beamten nichts von dem Kind. Die NYPD fand den Jungen nach einer Suche von Tür zu Tür gegen 19 Uhr unversehrt
+bei einer Tante in Yonkers ([CNN, 08./09.10.](https://www.cnn.com/2026/10/08/us/nyc-ice-shooting) ·
+[CBS New York, 09.10.](https://www.cbsnews.com/newyork/news/marble-hill-ice-shooting/)). *(Die Habeas-Akte
+und CBS schreiben „Bergal"; nach CNN haben die Anwälte „Belgal" bestätigt.)*
+
+Diesmal ist er die Zielperson, und seine Akte ist echt. Im April 2025 bekannte er sich wegen Diebstahls
+schuldig (Grand Larceny 4. Grades, angeklagt war ursprünglich Raub) und bekam fünf Jahre auf Bewährung. Seit
+2025 läuft ein Drogenverfahren, in dem er auf nicht schuldig plädiert. Im September war er Beamten schon einmal
+entkommen. Das DHS ordnet ihn den **Trinitarios** zu, Secretary **Mullin** nennt ihn *„possible murderer"*,
+weil er *„direct or indirect knowledge"* von Schüssen auf einen CBP-Beamten 2025 haben könnte. Angeklagt ist
+er dafür nicht ([ABC7 NY, 09.10.](https://abc7ny.com/post/ice-officer-shoots-man-vehicle-marble-hill-nyc/19924201/) ·
+[New York Post, 09.10.](https://nypost.com/2026/10/09/us-news/oscar-belgal-accelerated-car-at-ice-in-nyc-shooting-feds-insist/)).
+
+*(2) Die Kamera lief.* Das ist die eigentliche Neuigkeit gegenüber den bisherigen Fällen. Mullin bestätigte
+am Freitag selbst, dass die Beamten **Westenkameras trugen und sie eingeschaltet waren**. Die Aufnahmen sollen
+*„as the investigation moves forward"* zugänglich werden. Bis Samstag ist nichts herausgegeben
+([Latin Times, 10.10.](https://www.latintimes.com/ice-marble-hill-shooting-what-nypds-bodycam-shows-whats-still-missing-600043)).
+Gouverneurin **Hochul** hat Trump in der Nacht selbst um die Freigabe gebeten. Öffentlich sind bisher nur die
+Bilder der NYPD, die erst danach ankam: Belgal sitzt in Handschellen auf dem Boden, neben ihm ein Mann in
+Warnweste mit Gewehr. Die Polizisten warten nicht auf den Krankenwagen und fahren ihn selbst in die Klinik. Die
+Ermittlung hat wie in Austin **HSI** übernommen, also ICE selbst. Polizeichefin **Jessica Tisch**: *„federal
+agents have exercised their authority to take over the investigation."* Daneben hat die Bronx-Staatsanwältin
+**Darcel Clark** eine eigene Ermittlung angekündigt, Generalstaatsanwältin **Letitia James** stützt sie.
+
+*(3) Der Richter war schneller als der Abschiebeflug.* Mullin und Charles kündigten an, Belgal *„as soon as
+possible"* abzuschieben. Am Freitag untersagte Bundesrichter **J. Paul Oetken** die Abschiebung und jede
+Verlegung aus New York und New Jersey ohne Erlaubnis des Gerichts. Belgal sitzt im MDC Brooklyn, die Kugel nach
+Angabe seiner Anwälte noch im Körper (ABC7, s.o.).
+
+*(4) Die Stadt hält dagegen, und die Regierung bleibt bei ihrer Linie.* Bürgermeister **Zohran Mamdani** nannte ICE
+*„rotten to its core"* und *„an agency that must be abolished"*. Mit Trump und Mullin verhandelte er in der Nacht
+zwei Stunden lang über Belgals Freilassung, ohne Erfolg
+([Erklärung des Bürgermeisters](https://www.nyc.gov/mayors-office/news/2026/10/mayor-zohran-kwame-mamdani-releases-statement-on-ice-shooting-) ·
+[City & State, 09.10.](https://www.cityandstateny.com/politics/2026/10/mamdani-says-city-wants-ice-out-following-shooting/416521/) ·
+[Guardian, 09.10.](https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting)).
+Hochul fordert einen Stopp der ICE-Einsätze im Staat. Über die 500 Polizeibehörden in New York sagt sie:
+*„They don't shoot into vehicles at all … There are restraints on everybody else except for ICE."* Am Freitag
+kamen Tausende auf den Foley Square
+([Columbia Spectator, 10.10.](https://www.columbiaspectator.com/city-news/2026/10/10/columbia-students-among-thousands-protesting-ice-shooting-in-marble-hill/)).
+
+*(5) Zwei Tage vorher: 3.000 am Tag, mündlich.* Am **Dienstag, 06.10.**, hat die ICE-Führung die Beamten nach
+zwei Quellen von CNN **mündlich** angewiesen, täglich **1.000 Festnahmen mehr** zu schaffen. Das Ziel sind 3.000
+am Tag und 19.000 in der Woche. Zuletzt lag der Schnitt bei rund 2.000, der bisherige Wochenrekord Ende Juni bei
+gut 12.500. Das DHS antwortet: *„NO quotas on arrests."*
+([CNN, 08.10.](https://www.cnn.com/2026/10/08/politics/ice-immigration-arrests)). Eine Woche zuvor, um den
+**01.10.**, hatte eine interne Anweisung Fahrzeugkontrollen an Schulungen und an Blaulicht mit Sirene gebunden.
+Anlass waren die tödlichen Kontrollen. ICE nennt das eine „Erinnerung", nichts Neues.
+
+**Deutung:** Bisher lautete Punkt 4 des Fahrzeug-Musters, wo eine Bodycam existiert, widerlegt sie die
+Behördenversion, wo keine existiert, steht Wort gegen Wort. Marble Hill zeigt eine dritte Form: **Die Kamera
+existiert, und sie liegt bei der Behörde, die sich selbst untersucht.** Das ist die Fortsetzung dessen, was am
+26.09. mit Austin begonnen hat. Dass Mullin die Aufnahmen „im Laufe der Ermittlung" verspricht, ist keine
+Verweigerung. Im Fall Martinez dauerte so ein Versprechen elf Monate. Ob es hier anders kommt, ist jetzt der
+Prüfpunkt, und er ist an einem Datum festzumachen: wann der Film erscheint und ob er zur Version von Charles passt.
+
+Für die These ist der Fall zweischneidig, und das gehört offen hin. Er ist das Gegenteil von unsichtbar: die
+größte Stadt des Landes, ein Bürgermeister, eine Gouverneurin, Tausende auf der Straße. Die Spur behauptet
+aber nicht, dass nichts mehr gesehen wird. Sie behauptet, dass das Sehen die Richtung nicht ändert. Dafür ist
+die Reihenfolge der Woche der dichteste Beleg bisher. Am Dienstag wird die Zielmarke um die Hälfte angehoben,
+am Donnerstag fallen die Schüsse, am Freitag verteidigt der Minister die Beamten und kündigt die Abschiebung
+des Angeschossenen an. Dazu kommt, dass die Anweisung **mündlich** erging. Eine Quote, die nirgends
+aufgeschrieben ist, kann man bestreiten (*„NO quotas"*). Das ist derselbe Mechanismus wie am Gate und bei
+287(g), diesmal angewandt auf die Führung selbst.
+
+Bei den Bremsen hat sich in Marble Hill mehr bewegt als in jedem bisherigen Fall. Ein Bundesrichter stoppt die
+Abschiebung binnen eines Tages, eine Bezirksstaatsanwältin ermittelt neben HSI, und die Fahrzeug-Anweisung vom
+01.10. zeigt, dass das Muster auch innerhalb von ICE als Problem gilt. Keine dieser Bremsen greift in die
+Richtung ein, aber an keiner Stelle läuft der Vollzug diesmal einfach durch.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Belgal ist kein Unbeteiligter wie Guerrero oder Salgado. Er war
+gesucht, ist verurteilt, steht unter Anklage und war schon einmal geflohen. Die Gegen-Erzählung über das Opfer
+(Muster-Punkt 6) ist hier zum Teil schlicht die Aktenlage. Erst *„possible murderer"* geht über die Akte
+hinaus, denn dafür gibt es keine Anklage. **(2)** Der Hergang ist offen. Das städtische Video zeigt einen Wagen,
+der anfährt und dabei womöglich ein vorbeifahrendes Auto streift. Nach einer Quelle von CNN wurden zwei Beamte
+verletzt behandelt. Die Zeugin sieht ein Wegfahren, ICE sieht ein Rammen. Den Schuss selbst zeigt bisher kein
+Bild. Entscheiden würde die Kamera, und das DHS hat ihre Herausgabe immerhin zugesagt. **(3)** Das stärkste
+Argument der Gegenseite steht im Streit um die Zuständigkeit. Nach Mullin hat New York seit Januar 2025 keine
+einzige von 14.766 Haftersuchen (*detainers*) bedient. Er habe angeboten, Belgal an die NYPD zu übergeben, wenn
+die Stadt die Anklagen übernimmt, und das habe der Bürgermeister abgelehnt. Das Rathaus hat sich dazu nicht
+geäußert. Beides ist Behördenangabe, nicht unabhängig geprüft. Der Kern gilt trotzdem: Wo die Übergabe im
+Gefängnis versperrt ist, verlegt ICE den Zugriff auf die Straße, und die Straße ist der gefährlichere Ort für
+alle Beteiligten, auch für ein Kind auf der Rückbank. **(4)** Die Anweisung zu Fahrzeugkontrollen vom 01.10. ist
+eine Korrektur aus dem Inneren, wie sie diese Spur bisher kaum kannte. Ob sie hier gegriffen hätte, ist
+unklar: Marble Hill war ein gezielter Zugriff auf einen einparkenden Wagen, keine Verkehrskontrolle. **(5)** Die
+3.000er-Anweisung stützt sich auf zwei anonyme Quellen, ist mündlich und wird bestritten. Bestätigen können
+sie nur die Festnahmezahlen für Oktober und November.
+
+*Konfidenz bewusst unverändert bei 84 %.* Die Quote ist der neue Beleg auf der Seite der Eskalation, die
+zurückgehaltene Kamera der neue Beleg für den Mechanismus. Gegen die These spricht, dass dieser Fall
+sichtbar ist wie kaum einer zuvor und an drei Stellen gebremst wurde. Offen sind zwei Daten: wann der Film
+erscheint, und was die Oktoberzahlen zeigen.
+
+---
 
 ### 2026-09-26 — Der Zugriff wird leiser, die Aufklärung wandert ins eigene Haus (Konfidenz unverändert 84 %)
 
@@ -634,7 +740,7 @@ Council, Al Jazeera) sind advocacy-gefärbt.
 sich der Vollzug selbst? Dieser Abschnitt beobachtet das tödliche Fahrzeug-Muster als eigenen Faden.
 Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur eigenen Spur ausgegründet.*
 
-**Das Fahrzeug-Muster — sechs Tote, ein Überlebender, ein Drehbuch** *(erweitert 15.07.2026 nach Tiefen-Sweep; Austin nachgetragen 26.09.2026)*:
+**Das Fahrzeug-Muster — sechs Tote, zwei Überlebende, ein Drehbuch** *(erweitert 15.07.2026 nach Tiefen-Sweep; Austin nachgetragen 26.09.2026, Marble Hill 11.10.2026)*:
 
 | Datum | Ort | Opfer | Status | Zielperson? | Bodycam | Behörden-Formel |
 |---|---|---|---|---|---|---|
@@ -645,6 +751,7 @@ Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur ei
 | 07.07.2026 | Houston | Lorenzo Salgado | 35 J. im Land, U-Visa-Verfahren | **nein** (Van-Verwechslung) | nein | „Fahrzeug als Waffe" / Notwehr |
 | 13.07.2026 | Biddeford, Maine | Johan Sebastián Durán Guerrero | arbeitsberechtigt, SSN | **nein** (DHS räumt es ein) | nein | **„öffentliche Sicherheit"** |
 | 20.09.2026 | Austin, TX | Wilber Rafael Garces Perez *(überlebt, Kugel nahe der Wirbelsäule)* | CBP One 2024, Asylbewerber mit Arbeitserlaubnis, Abschiebebescheid in Abwesenheit | ja | ungeklärt (ICE schweigt) | **keine Begründung** — nur „unter Biden illegal eingereist" |
+| 08.10.2026 | New York (Marble Hill) | Oscar Belgal *(überlebt, Halsschuss; 5-jähriger Sohn auf der Rückbank)* | Dominikaner, verurteilt (Diebstahl), Drogenverfahren offen | ja | **ja — läuft, nicht herausgegeben** | „weaponized his vehicle" / Notwehr — dazu „possible murderer" |
 
 **Was sich über die Fälle abzeichnet:**
 
@@ -662,6 +769,9 @@ Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur ei
    Behördenversion (Martinez: 11 Monate zurückgehalten; Villegas: „schwer verletzter" Agent selbst —
    „nichts Größeres"); in den vier Fällen *ohne* Kamera gilt Wort gegen Wort. Das verschiebt die
    Beweislast des ganzen Musters.
+   *(Fortgeschrieben 11.10.2026: Marble Hill bringt eine dritte Form. Die Kamera lief, Mullin bestätigt es
+   selbst, aber die Aufnahme liegt bei der Behörde, die über HSI gegen sich selbst ermittelt. Nach
+   Martinez' elf Monaten ist der Prüfpunkt jetzt, wann sie erscheint.)*
 5. **Bisher null strafrechtliche Konsequenz** (Stand 28.08.2026) — im einzigen abgeschlossenen
    Verfahren (Martinez) lehnte die Grand Jury die Anklage ab, *trotz* widersprechender Bodycam. Sieben
    Monate nach Pretti sagt seine Familie, sie erfahre bis heute nichts über den Ermittlungsstand; das
@@ -791,6 +901,15 @@ sich wieder schließt.
 >   Wachpunkt: Entscheidet der Supreme Court bei den Drittstaaten für die Anhörungspflicht, ist das der
 >   zweite Befund gegen *„die Gerichte verlangsamen nur"* — dann muss der Teilsatz neu gefasst werden, nicht
 >   die Fußnote wachsen.
+> - **11.10.2026:** Der Anlass kam diesmal mit Wut, von Andreas und von mir: ein Kind auf der Rückbank,
+>   „immer noch keine Bodycams", ein Bürgermeister, dem man gern recht gibt. Die erste Prüfung hat diesen
+>   Satz korrigiert: Eine Kamera gab es, sie lief, und das DHS sagt es selbst. Das Problem ist nicht ihr
+>   Fehlen, sondern dass die Aufnahme zurückgehalten wird. Das ist ein anderer Befund und für diese Spur
+>   der genauere. Die zweite Versuchung war, Belgal in die Reihe der Unbeteiligten zu stellen, neben Guerrero
+>   und Salgado. Er gehört nicht dorthin. Er war gesucht und ist verurteilt, und das steht oben, bevor
+>   jemand anderes es sagt. Ob ein Vorbestrafter mit einem Kind im Wagen erschossen werden durfte, entscheidet
+>   die Akte nicht. Das entscheidet der Film. Wachpunkt: Erscheint die Aufnahme und stützt sie das Rammen,
+>   gehört das hier hin, so prominent wie heute die Zeugin.
 
 ## Verbindungen
 
@@ -886,6 +1005,14 @@ hat die Formel dafür schon 1906: die „bloße äffende Ähnlichkeit" des Ander
 - [ABC News — Federal immigration authorities targeting airports for arrests (TSA-ICE-Vereinbarung)](https://abcnews.com/US/federal-immigration-authorities-targeting-airports-arrests/story?id=135170980) · [CBS News — ICE detentions set Trump-era high in July (46.000 Einbuchungen, 68.000 in Haft)](https://www.cbsnews.com/news/ice-detentions-trump-high-july-2026-immigration-crackdown-widens/)
 - [8 U.S.C. § 1325 — Improper entry by alien](https://www.law.cornell.edu/uscode/text/8/1325) — die erste unerlaubte Einreise als Bundesvergehen
 
+*Eintrag 11.10.2026 (Marble Hill, 3.000er-Anweisung):*
+
+- [CNN — ICE agents shot at man in car with his 5-year-old son (08./09.10.2026)](https://www.cnn.com/2026/10/08/us/nyc-ice-shooting) · [CBS New York — NYPD body camera video shows aftermath](https://www.cbsnews.com/newyork/news/marble-hill-ice-shooting/) · [ABC7 NY — Judge blocks deportation](https://abc7ny.com/post/ice-officer-shoots-man-vehicle-marble-hill-nyc/19924201/)
+- [New York Post — „Belgal ‚accelerated' car at ICE, feds insist"](https://nypost.com/2026/10/09/us-news/oscar-belgal-accelerated-car-at-ice-in-nyc-shooting-feds-insist/) — die Behördenversion samt Detainer-Zahlen · [Latin Times — What NYPD's bodycam shows, and what's still missing (10.10.)](https://www.latintimes.com/ice-marble-hill-shooting-what-nypds-bodycam-shows-whats-still-missing-600043)
+- [NYC — Erklärung von Bürgermeister Mamdani (08.10.)](https://www.nyc.gov/mayors-office/news/2026/10/mayor-zohran-kwame-mamdani-releases-statement-on-ice-shooting-) · [City & State — „this city wants ICE out"](https://www.cityandstateny.com/politics/2026/10/mamdani-says-city-wants-ice-out-following-shooting/416521/) · [Guardian — „Abolish ICE": Mamdani, AOC](https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting) · [Columbia Spectator — Tausende am Foley Square](https://www.columbiaspectator.com/city-news/2026/10/10/columbia-students-among-thousands-protesting-ice-shooting-in-marble-hill/)
+- [CNN — ICE agents told to increase daily immigration arrests (08.10.2026)](https://www.cnn.com/2026/10/08/politics/ice-immigration-arrests) · [CNN — ICE guidance on vehicle stops (01.10.2026)](https://www.cnn.com/2026/10/01/politics/ice-guidance-vehicle-stops)
+- [BR24 — Abschiebetrupp „ähnlich wie ICE": Wie Experten AfD-Pläne sehen](https://www.br.de/nachrichten/bayern/abschiebetrupp-aehnlich-wie-ice-wie-experten-afd-plaene-sehen,V9UPrH3) · [NDR — AfD Bayern will Abschiebebehörde wie ICE](https://www.ndr.de/nachrichten/niedersachsen/abschiebebehoerde-nach-us-vorbild-afd-bayern-loest-debatte-aus,afd-946.html) · [taz — Vorbild Trump](https://taz.de/Trumps-USA-als-Vorbild/!6148778/)
+
 *Stimmenspektrum 19.07.2026:*
 
 - [Fox News — Maine ICE shooting victim was not target, Sen. King's office says after earlier DHS account](https://www.foxnews.com/us/maine-ice-shooting-victim-not-target-arrest-warrant-sen-kings-office-says-earlier-dhs-account) · [Fox News — ICE agents in fatal Houston shooting were not wearing body cameras](https://www.foxnews.com/us/ice-agents-fatal-houston-shooting-not-wearing-body-cameras)
@@ -896,6 +1023,22 @@ hat die Formel dafür schon 1906: die „bloße äffende Ähnlichkeit" des Ander
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
 
 Die deutsche Schwester-Spur: Sie prüft, ob die AfD dort, wo sie Macht ausübt, dem Playbook folgt, das hier bereits Regierungspraxis ist — Delegitimierung der Gegner, Vollzug gegen die Schwächsten, Gerichte als Bremse des Tempos, nicht der Richtung.
+
+Die Brücke ist ausdrücklich gebaut worden. Im Januar 2026, in der Woche zwischen den Toten von Minneapolis,
+beschloss die **AfD-Fraktion im Bayerischen Landtag** eine „AFA" (Asyl-, Fahndungs- und Abschiebegruppe) der
+Polizei, die *„ähnlich wie das ICE"* die Abschiebequote erhöhen solle. Ihr Innenexperte Richard Graupner sprach
+vom *„Vorbild der ICE"*, gedacht seien *„systematische Kontrollen an Orten mit hoher Aufenthaltswahrscheinlichkeit"*.
+Die Schüsse in den USA könne man *„nicht seriös bewerten"*. Der Bundestagsabgeordnete Matthias Helferich hatte
+ICE schon vorher den richtigen Weg genannt. Zur Einordnung: Das ist eine Landtagsfraktion, kein Bundesprogramm,
+und die AfD in Niedersachsen lehnte eine solche Einheit für ihr Land ab, ohne Bayern zu widersprechen. Der
+Staatsrechtler Winfried Kluth hält den Vergleich für *„völlig irreführend"*, weil das deutsche Recht für das
+Betreten von Wohnungen, den Schusswaffengebrauch und Festnahmen viel enger ist. Schwerer als das Etikett wiegt
+deshalb, was im selben Papier steht: die nachträgliche Prüfung *„aller Aufenthaltstitel und Einbürgerungen"*
+und, aus der bayerischen Remigrations-Resolution von 2024, die *„Rückführung"* von *„Personengruppen mit schwach
+ausgeprägter Integrationsfähigkeit"*
+([BR24](https://www.br.de/nachrichten/bayern/abschiebetrupp-aehnlich-wie-ice-wie-experten-afd-plaene-sehen,V9UPrH3) ·
+[NDR](https://www.ndr.de/nachrichten/niedersachsen/abschiebebehoerde-nach-us-vorbild-afd-bayern-loest-debatte-aus,afd-946.html) ·
+[taz](https://taz.de/Trumps-USA-als-Vorbild/!6148778/)).
 
 ## Weiterdenken
 

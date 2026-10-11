@@ -13,7 +13,7 @@ status: offen
 konfidenz: 63%
 review-takt: 30-tage
 eroeffnet: 2026-07-06
-aktualisiert: 2026-09-08
+aktualisiert: 2026-10-11
 description: "Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat."
 ---
 
@@ -44,7 +44,7 @@ description: "Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Die
 
 ## Die These
 
-> **Stand (Konfidenz 63 %, zuletzt geprüft 08.09.2026):** Wo die AfD reale Macht ausübt, nutzt sie diese, um die Mechanismen zu
+> **Stand (Konfidenz 63 %, zuletzt geprüft 11.10.2026):** Wo die AfD reale Macht ausübt, nutzt sie diese, um die Mechanismen zu
 > schwächen, die Macht einhegen — und beginnt, das zu realisieren, was das GFF-Gutachten ihr als Ziel
 > nachweist: Ausschluss politischer Gegner aus der Willensbildung, Aufteilung von Menschen in Klassen,
 > Aushöhlung der Institutionen (Justiz, Verfassungsschutz, Rundfunk, Verwaltung), die sie kontrollieren
@@ -104,6 +104,39 @@ Die Ebenen sind zugleich eine Eskalationsleiter: Die Spur kann beobachten, ob si
 wenn eine Ebene aufsteigt — ob die Sperrminoritäts-Härte in Regierungspraxis übergeht oder ob (wie bislang
 auf Ebene 1) die Praxis banaler bleibt als das Programm.
 
+### Dimension D, angelegt: der Maßstab der Schwester-Spur *(11.10.2026)*
+
+*Übernommen aus [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]] (vorregistriert
+27.09.2026): dieselben sechs Kriterien, dieselben Stufen A–D, für Stufe A zählt nur der gemeinsame Kern von IHRA und JDA.
+Eine Lesart neben der These, wie die Querachse in der Linke-Spur: Sie bewegt die Konfidenz nicht, die Maßnahmen-Schwelle
+der Dimension D bleibt unberührt.*
+
+| Nr. | Kriterium | Befund AfD | Einordnung |
+|---|---|---|---|
+| 1 | Beschlusslage | Formal proisraelisch: Antrag „BDS-Bewegung verurteilen – Existenz des Staates Israel schützen“ (2019, [DIP](https://dip.bundestag.de/vorgang/bds-bewegung-verurteilen-existenz-des-staates-israel-sch%C3%BCtzen/247584)). Antrag auf ein ausnahmsloses Schächtverbot ([BT-Drs. 20/5365](https://dserver.bundestag.de/btd/20/053/2005365.pdf)). Das Regierungsprogramm Sachsen-Anhalt 2026 nennt die Erinnerungskultur eine „Verewigung eines Schuldkomplexes“ ([Gedenkstättenforum](https://www.gedenkstaettenforum.de/aktivitaeten/gedenkstaettenrundbrief/detail/heil-dir-im-siegerkranz-wie-die-afd-in-sachsen-anhalt-den-bruch-mit-der-demokratischen-erinnerungskultur-vorbereitet)). | Kern: nein. Grauzone: Schächtverbot (die Definitionen schweigen, es trifft jüdische Praxis materiell); Erinnerungsabwehr |
+| 2 | Führung | Gauland 2018: die NS-Zeit ein „Vogelschiss“ ([ZEIT/dpa](https://www.zeit.de/news/2018-06/02/gauland-ns-zeit-nur-ein-vogelschiss-in-der-geschichte-180601-99-549766)). Höcke 2017: „Denkmal der Schande“, „erinnerungspolitische Wende um 180 Grad“ ([Tagesspiegel](https://www.tagesspiegel.de/politik/gemutszustand-eines-total-besiegten-volkes-5488489.html)). Rausch, 09.10.2026: „Amoklauf von Halle“ in einem amtlichen Dokument. Entlastend: Meuthen 2020, „kein Platz für Antisemiten“. | Kern: nein (keine Leugnung von Fakten, keine klassischen Bilder). Grauzone: Erinnerungsabwehr, Entnennung |
+| 3 | Amtsträger und Gliederungen | Gedeon (MdL), antisemitische Schriften. Tillschneider: seit 2019 „Amoklauf“, jetzt Landtagsvize. | Gedeon: im Kern. Die übrigen: Grauzone |
+| 4 | Verfahren | Die Führung stößt Verfahren an: Gedeon, Höcke 2017, Helferich (NRW). | vorhanden, von oben angestoßen |
+| 5 | Konsequenz | Gedeon 2020 ausgeschlossen, nach rund vier Jahren ([beck-aktuell](https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/afd-schiedsgericht-wirft-abgeordneten-gedeon-aus-der-partei-2020-03-23)). Höckes Ausschluss scheiterte 2018. Helferich bleibt mit sechs Monaten Ämtersperre ([beck-aktuell, 03.07.2026](https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/mathias-helferich-afd-nrw-parteiausschlussverfahren-bundesschiedsgericht-2026-07-03)). Tillschneider wird befördert. | im Kernfall ja; in der Grauzone Aufstieg statt Sanktion |
+| 6 | Wählerschaft | Leipziger Autoritarismus-Studie 2024, Tab. 5: höchste Werte auf allen Dimensionen. Tradiert 15,0 %, israelbezogen 22,4 %, Schuldabwehr 50,2 %, postkolonial 14,5 %, antisemitischer Antizionismus 15,0 % (Linke: –, 1,3, 18,7, 6,7, 16,0) ([Studie, S. 146](https://www.boell.de/sites/default/files/2024-11/leipziger-autoritarismus-studie-2024-vereint-im-ressentiment-autoritaere-dynamiken-und-rechtsextreme-einstellungen.pdf)) | Kulturindikator: weit über dem Schnitt |
+
+**Ergebnis, in zwei Rechnungen offen ausgewiesen.** Nach dem gemeinsamen Kern: Stufe **C**, denn der eine Kernfall
+(Gedeon) führte zum Ausschluss, und die Verfahren werden von oben angestoßen. Mit Erinnerungsabwehr (Schuldabwehr,
+Entnennung antisemitischer Taten): Kriterien 1 und 2 positiv, also Stufe **A**.
+
+Die Spiegelung zur Linke-Spur ist der eigentliche Befund. Dort springt der Landesverband Niedersachsen nach IHRA allein
+auf A und bleibt im Kern Grauzone. Hier springt die AfD mit Erinnerungsabwehr auf A und landet im Kern auf C. Der Kern
+aus IHRA und JDA ist am Streit um Israel geschnitten, an der Form, die links verbreitet ist. Die Form, die rechts
+verbreitet ist, die Abwehr der Erinnerung, fällt durch dasselbe Raster, obwohl die Leipziger Forschung sie als eigene
+Dimension des Antisemitismus zählt.
+
+> [!todo] Vorschlag zur Registrierung, von Andreas zu entscheiden
+> Erinnerungsabwehr wird in **beiden** Spuren eine eigene, offen ausgewiesene Grauzone, so wie Boykott und
+> Einstaatenlösung bei der Linken. Sie zählt nie zu Stufe A, wird aber immer mit der Angabe geführt, wie das Urteil mit
+> ihr ausfiele. Registriert wird das *vor* der nächsten Anwendung und für beide Spuren gleich, damit eine nachträgliche
+> Änderung nicht das gewünschte Ergebnis herstellt.
+
+
 ## Falsifikation
 
 *Vorab registriert am 06.07.2026 — nicht aufweichen.*
@@ -137,6 +170,79 @@ nimmt (Gesetz, Antrag, Verwaltungsakt, Haushaltstitel) — Reden und Codes bleib
 nicht als Bestätigung gewertet. Dieselbe Strenge, die das Gutachten glaubwürdig macht, gilt auch hier.
 
 ## Verlauf
+
+### 2026-10-11 — Ein Präsidium, ein Kreisausschuss, eine Pressemitteilung (Konfidenz 63 % → 63 %)
+
+**Befund (Dim. C, Landtagspräsidium Sachsen-Anhalt):** Am 6. Oktober wählte der neue Landtag Tobias Rausch,
+Generalsekretär der Landes-AfD, mit 48 von 82 Stimmen zum ersten AfD-Landtagspräsidenten in Deutschland. Neun Stimmen
+kamen von außerhalb der AfD-Fraktion: fünf vom BSW, das seine Unterstützung angekündigt hatte, mindestens vier aus CDU,
+SPD, Grünen oder Linken. Die CDU-Fraktion hatte Enthaltung empfohlen, es gab nur fünf
+([tagesschau, 06.10.](https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html)).
+Hans-Thomas Tillschneider wurde mit 44 zu 38 Stimmen Vizepräsident, der SPD-Kandidat fiel durch
+([ZDF](https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-afd-landtag-praesident-tobias-rausch-100.html)). Mit
+dem Amt kommen Hausrecht, Polizeigewalt im Landtag und die Personalhoheit über die Landtagsverwaltung. Schon vorher
+hatte die AfD Ausschüsse mit zwölf statt elf Mitgliedern verlangt, was ihr in jedem Ausschuss ein Patt von 6 zu 6
+gesichert hätte ([beck-aktuell, 25.09.](https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/magdeburger-landtag-sachsen-anhalt-ausschussgroesse-afd-wahlsieg-2026-09-25));
+am 30. September lenkte sie ein, es bleibt bei elf ([MDR, 30.09.](https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtag-regeln-ausschuesse-sitzordnung-102,vor-aeltestenrat-100.html)).
+
+Drei Tage nach der Wahl, am 9. Oktober, ging eine amtliche Pressemitteilung des Landtags hinaus, eingeleitet mit
+*„Dazu erklärt Landtagspräsident Tobias Rausch“*. Darin heißt der rechtsterroristische, antisemitische Anschlag von 2019
+*„Amoklauf von Halle“*. Die Studierenden, die Tillschneider vor der Synagoge den Weg versperrten, werden zur *„Gruppe
+linker Studenten“*, und Ordnungsbehörde und Polizei hätten *„trotz mehrfacher Bitte nichts unternommen“*
+([Pressemitteilung, PDF](https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Pressemitteilungen_2026/20261009_PM_Demonstranten_verhindern_Teilnahme_AfD-Landtagsvize_Gedenkveranstaltung.pdf)).
+Fast derselbe Text kam auch von der AfD-Fraktion. Die CDU-Fraktion wirft Rausch einen *„gravierenden“* Verstoß gegen
+die Neutralitätspflicht vor ([MZ, 09.10.](https://www.mz.de/mitteldeutschland/sachsen-anhalt/cdu-fraktion-wirft-landtagsprasident-rausch-afd-gravierenden-verstoss-vor-4336354)).
+Ein Verfahren gibt es bisher nicht.
+
+**Befund (Ebene 4, Sachsen-Anhalt):** Ulrich Siegmund will sich im Dezember zum Ministerpräsidenten wählen lassen, in
+einem einzigen Wahlgang. Gewählt, will er Vorhaben in Bildung, Gesundheit und Asyl auch ohne Landtagsbeschluss über die
+Ministerien umsetzen ([MDR](https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/ministerpraesident-wahl-dezember-100,afd-siegmund-106.html)).
+Das ist eine Ankündigung, noch keine Exekutive.
+
+**Befund (Dim. A + C, Ebene 1, Sonneberg), mit Korrektur des letzten Eintrags:** Der Eintrag vom 08.09. nannte den
+Kreistag vom 26. August „nur negativ bekannt (vertagt)“. Das Amtsblatt vom 30. September (06/2026) zeigt mehr: Mit
+Beschluss 303/16/2026 übertrug der Kreistag die Entscheidung über den Antrag 2027 im Bundesprogramm „Demokratie leben!“
+an den Kreisausschuss, der *„abschließend“* entscheidet und nach [§ 105 ThürKO](https://www.landesrecht.online/TH/Th%C3%BCrKO/105)
+vom Landrat geleitet wird. Ein CDU-Antrag, den Punkt abzusetzen (292/16/2026), und ein Antrag, ihn in den
+Jugendhilfeausschuss zurückzuverweisen (302/16/2026), scheiterten ([Amtsblatt 06/2026, S. 11](https://epaper.wittich.de/frontend/mvc/catalog/by-name/pdf/1782)).
+Laut [inSüdthüringen, 28.08.](https://www.insuedthueringen.de/inhalt.streit-um-zustaendigkeiten-kreisausschuss-entscheidet-kuenftig-ueber-demokratie-leben.4ee20dcb-51ee-475e-aab7-173c2a8416d0.html)
+geschah das *„trotz Bedenken der CDU und des Landesverwaltungsamtes“*. In derselben Sitzung zog Sesselmann selbst
+zwei Vorlagen zurück (290 und 291/16/2026), darunter die Übertragung von Teilen der Jugendhilfeplanung vom
+Jugendhilfeausschuss auf den Kreistag. Die Aufhebung der Satzung über den Behindertenbeauftragten (301/16/2026) ist nach
+Aktenlage kein Abbau; zum 1. Juli wurde eine neue Beauftragte bestellt.
+
+**Befund (Ebene 3):** In Thüringen läuft die Blockade des Richterwahlausschusses weiter; an Arbeits- und Finanzgerichten
+sind keine Ernennungen auf Lebenszeit möglich ([MDR, 16.09.](https://www.mdr.de/nachrichten/thueringen/richter-wahl-ausschuss-lebenszeit-ernennung-nachwuchs,richterwahlausschuss-100.html)).
+Der AfD-Antrag auf Auflösung des Landtags scheiterte am 7. Oktober an der Zweidrittelhürde, ein ordentliches Instrument.
+In Mecklenburg-Vorpommern hat die AfD seit der Wahl vom 20. September 32 von 71 Sitzen und damit eine zweite
+Sperrminorität ([Landtag MV](https://www.landtag-mv.de/aktuelles/artikel/landtagswahl-2026-endgueltiges-amtliches-wahlergebnis-steht-fest)).
+Das ist Gelegenheit, noch kein Befund.
+
+**Deutung:** Zum ersten Mal hält die AfD ein Amt, dessen Kern Unparteilichkeit ist. Drei Tage später sprach dieses Amt in
+ihrer Sprache: Ein antisemitischer Anschlag heißt in einem Dokument des Parlaments „Amoklauf“, und der Text wirft Polizei
+und Ordnungsbehörde Untätigkeit vor. Ein Eingriff im Sinne der Falsifikation ist das nicht, denn eine Pressemitteilung ist
+weder Weisung noch Gesetz. Es ist aber der erste Gebrauch einer einhegenden Institution als Sprachrohr, und darum gehört
+er in Dimension C. Sonneberg setzt fort, was der letzte Sweep beschrieben hat: Die Entscheidung über die
+Demokratieförderung wandert vom Fachgremium in ein Gremium unter Vorsitz des Landrats, gegen die Bedenken der
+Rechtsaufsicht. Beide Male zeigt sich dieselbe Form: Das Ziel wird nicht angegriffen, umgangen wird die Instanz, die es
+schützt. Die Konfidenz bleibt trotzdem bei 63 %, weil dieselben Wochen das Gegenbild liefern. Die AfD gab beim
+Ausschuss-Patt nach, Sesselmann zog die weiterreichende Vorlage selbst zurück, und das Macht-Muster „Gegner über Geld
+und Gemeinnützigkeit“ arbeitet weiter ohne sie.
+
+**Gegenbeobachtung (Pflicht):** **Erstens, das Macht-Muster.** Die Extremismusklausel wurde tatsächlich in einem
+Förderbescheid angewandt, bei der Partnerschaft für Demokratie Cottbus, samt Genehmigungspflicht für Veröffentlichungen.
+Nach einem Widerspruch mit Unterstützung der GFF hob die Behörde beides auf ([Kanzlei Leonhardt, 30.09.](https://leonhardt-kanzlei.de/erfolgreich-gegen-extremismusklausel/)).
+Das Finanzamt Göttingen stellt die Gemeinnützigkeit eines Jugendzentrums wegen Verweisen auf „Antifa“ infrage
+([Juzi, 10/2026](https://juzi.de/2026/10/finanzamt-goettingen-attackiert-das-juzi-wir-wehren-uns-gegen-die-infragestellung-der-gemeinnuetzigkeit/)),
+das Verfahren gegen die VVN-BdA ist offen. Keiner dieser Vorgänge braucht AfD-Macht. **Zweitens, die Grenzen halten,
+und manchmal halten andere sie.** Im Kreistag Mecklenburgische Seenplatte fiel die Fortführung von „Demokratie leben!“
+im Juni mit 24 zu 24 durch; am 5. Oktober kippte ein BSW-Antrag den Ausstieg
+([Strelitzius, 07.10.](https://strelitzius.com/2026/10/07/demokratie-leben-geht-in-der-seenplatte-weiter-buendnis-sieht-erfolg-seiner-petition/)).
+**Drittens:** Sonneberg schiebt nach einem Bericht vom 8. Oktober auffällig wenig ab, obwohl Sesselmann „Remigration“ als
+Ziel ausgegeben hat (inSüdthüringen, nur Anriss). In Dimension B bleibt die Praxis banaler als das Programm.
+**Viertens:** Rausch kam nur mit Stimmen von außerhalb ins Amt. Die AfD ist in Magdeburg nicht allein dorthin gekommen.
+
+---
 
 ### 2026-09-08 — Zwei Monate Gelegenheit, ein Landkreis, ein fremdes Finanzamt (Konfidenz 65 % → 63 %)
 
@@ -322,6 +428,16 @@ Sie nutzt den Rechtsweg, den sie laut These aushöhlen will — solange er ihr d
 >   Pflegeeltern-Richtlinie und die dezentrale Unterbringung gehören in denselben Eintrag wie die
 >   Organisationsverfügung. Wenn künftige Einträge aus diesem Landkreis nur noch die Eingriffe
 >   protokollieren und die Lieferungen weglassen, krallt der Beobachter.
+
+> [!question] Sweep 11.10.2026 — die Versuchung hieß Halle
+> Ein „Amoklauf“ im Briefkopf des Landtags fühlt sich an wie der Beweis, auf den die Spur gewartet hat. Es ist eine
+> Pressemitteilung und keine Weisung, und genau deshalb bleibt die Konfidenz bei 63 %. Unbequemer war der Gegenbefund in
+> Dimension D: Nach dem eigenen symmetrischen Maßstab landet die AfD beim Antisemitismus im Kern auf C, besser als der
+> Berliner Landesverband der Linken. Er bleibt so stehen. Er sagt ebenso viel über die blinde Stelle des Maßstabs wie
+> über die Partei, und diese Stelle wird offen benannt statt rückwirkend geflickt. Dazu ein eigener Fehler: Der letzte
+> Sweep hielt den Kreistag vom 26.08. für „nur negativ bekannt“, obwohl das Amtsblatt den Beschluss vier Wochen später
+> druckte. Das Amtsblatt gehört bei jedem Sweep an den Anfang, vor die Presse.
+
 
 ## Muster — der Vergleich mit dem autoritären Playbook
 

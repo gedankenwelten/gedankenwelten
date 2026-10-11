@@ -9,10 +9,10 @@ tags:
   - menschenrechte
   - year-2026
 status: offen
-konfidenz: 70%
+konfidenz: 60%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-09-06
+aktualisiert: 2026-10-11
 description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist. Eine Spur über die Frage, ob Mächtige systematisch vor Rechenschaft geschützt werden, ohne in den Verschwörungs-Reflex zu kippen."
 ---
 
@@ -39,7 +39,7 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 
 ## Die These
 
-> **Stand (Konfidenz 70 %):** Der Fall Epstein zeigt ein *strukturelles* Muster: überwältigender,
+> **Stand (Konfidenz 60 %, seit 11.10.2026):** Der Fall Epstein zeigt ein *strukturelles* Muster: überwältigender,
 > parteiübergreifender Offenlegungsdruck → **partielle** (halbe), stark geschwärzte, verzögerte Freigabe
 > → eine Namensliste *ohne Kontext*, die niemanden schützt und nichts klärt → Aufmerksamkeit verebbt →
 > Rechenschaft stockt. **Nicht** eine einzelne Verschwörung, sondern institutionelle Reibung
@@ -55,6 +55,114 @@ description: "Maximale Empörung, dann Stille — obwohl nichts aufgeklärt ist.
 **Kalt, wenn:** vollständige Offenlegung abgeschlossen, Rechenschaft erschöpft.
 
 ## Verlauf
+
+### 2026-10-11 — Die Gabeln fallen gegen die Spur (Konfidenz 70 % → 60 %)
+
+**Befund:** Seit dem letzten Eintrag sind zwei der vorregistrierten Gabeln gefallen, eine dritte liegt zwei
+Unterschriften vor dem Ziel. Und ein Richter hat zum ersten Mal geprüft, was diese Spur bisher nur vermuten
+konnte: ob hinter einer Schwärzung ein Opfer steht.
+
+1. **Die Contempt-Gabel (17.09.) ist gefallen, durch Abstimmung.** Am **15.09.** empfahl der Oversight-Ausschuss
+   einstimmig, Leon Black wegen Missachtung des Kongresses zu belangen. Am **16.09.** beschloss das Plenum es per
+   *unanimous consent*. Damit wird zum ersten Mal eine prominente Figur aus Epsteins Umfeld an das Justizministerium
+   verwiesen ([Oversight Committee](https://oversight.house.gov/release/chairman-comer-statement-on-leon-black-being-found-in-contempt-of-congress/) ·
+   [MS NOW](https://www.ms.now/news/house-votes-to-hold-leon-black-in-contempt-for-defying-epstein-related-subpoenas)).
+   Das Büro der D.C.-Bundesanwältin Jeanine Pirro will den Verweis „prüfen“. Eine Anklage ist bis heute nicht
+   öffentlich. Am selben Tag brachte Comer den **Survivor's Voice Protection Act** ein, nach dem Schweigeklauseln,
+   die Missbrauchsopfer am Sprechen hindern, nichtig werden sollen ([Business Insider](https://www.businessinsider.com/jeffrey-epstein-leon-black-comer-bill-ndas-victims-sexual-abuse-2026-9)).
+   Über Blacks eigene Klage gegen den Ausschuss ist seit dem 09.09. nicht entschieden
+   ([Docket](https://www.courtlistener.com/docket/74743039/black-v-house-committee-on-oversight-and-government-reform/)).
+2. **Der Kalender hat die Petition nicht aufgehalten.** Am 03.09. hatte die Discharge Petition zum *Epstein Files
+   Transparency Act II* 106 Unterschriften. Laut Clerk-Liste sind es heute **216**, die letzte vom **16.09.**,
+   darunter vier Republikaner (Massie, Mace, Norman, Fitzpatrick) ([House Clerk](https://clerk.house.gov/DischargePetition/2026083127)).
+   Massie und Khanna meldeten am 18.09. die 218 als *zugesagt* ([Political Wire](https://politicalwire.com/2026/09/18/second-epstein-files-discharge-petition-has-the-signatures/)).
+   Am 08.10. schrieb Massie, zwei erkrankte Demokraten hätten zugesagt, aber noch nicht unterschrieben
+   ([Spectrum News](https://spectrumnews1.com/ky/louisville/news/2026/10/09/massie-discharge-petition)). Das Haus
+   tagt bis nach der Wahl nicht regulär.
+3. **Sullivan prüft die Schwärzungen selbst und gibt dem Ministerium recht.** Am 16.09. verwarf Sullivan die
+   Begründung, handschriftliche FBI-Notizen seien Duplikate. Für drei geschwärzte E-Mails verlangte er den Beleg,
+   dass dort Opfer stehen ([Newsweek](https://www.newsweek.com/reagan-appointed-judge-issues-epstein-files-deadline-to-trumps-doj-12457462)).
+   Das DOJ lieferte am 24.09. zur Prüfung unter Ausschluss der Öffentlichkeit (*in camera*). Grundlage der
+   Schwärzungen war nach eigener Darstellung die Auskunft der Opferanwälte
+   ([Notice of Compliance, ECF 54](https://storage.courtlistener.com/recap/gov.uscourts.dcd.291779/gov.uscourts.dcd.291779.54.0.pdf)).
+   Am **09.10.** befand Sullivan, dass die geschwärzten Namen in allen drei E-Mails **ausreichend als Opfernamen
+   belegt** sind. Die Androhung (Order to Show Cause) hob er insoweit auf. Die handschriftlichen Notizen liegen ihm
+   ungeschwärzt vor, geschwärzte Fassungen muss das DOJ nachreichen
+   ([Order, ECF 57](https://storage.courtlistener.com/recap/gov.uscourts.dcd.291779/gov.uscourts.dcd.291779.57.0_1.pdf)).
+4. **Zugleich kämpft das Ministerium darum, dass niemand mehr prüfen darf.** Am 21.09. legte das DOJ auch gegen
+   die Anordnung vom 16.09. Berufung ein (verbunden mit der vom 24.08.) und beantragte am 22.09. die Aussetzung.
+   Es geht vor allem um die Pflicht, fremdsprachige Akten zu sichten; nach Phang ist davon bisher kein einziges
+   Dokument veröffentlicht ([D.C. Circuit](https://www.courtlistener.com/docket/74696600/katie-phang-v-todd-blanche/)).
+   Am 01.10. folgte ein Antrag, die ganze Klage abzuweisen: Das Gesetz kenne keine private Durchsetzung, die
+   Kontrolle sei Sache des Kongresses ([Motion, ECF 52](https://storage.courtlistener.com/recap/gov.uscourts.dcd.291779/gov.uscourts.dcd.291779.52.0.pdf)).
+   In der Klage von New Mexico bat das DOJ um Fristverlängerung, die Antwort ist am 12.10. fällig
+   ([Docket](https://www.courtlistener.com/docket/73721948/state-of-new-mexico-v-us-department-of-justice/)).
+5. **Der Kongress nennt selbst Namen.** Am 07.10. forderten Raskin und Dean das DOJ auf, gegen den langjährigen
+   Bard-Präsidenten **Leon Botstein** zu ermitteln. Es geht um eine E-Mail vom Mai 2014, abgeschickt von
+   president@bard.edu, die im öffentlichen Bestand keinem Absender zugeordnet war. Darin wird Epstein gefragt, ob
+   eine junge Frau „for me, or are you keeping her for yourself“ sei. DOJ und FBI hätten die Mail seit 18 Monaten,
+   ohne zu ermitteln ([House Judiciary Democrats](https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-rep-dean-demand-doj-investigate-former-bard-college-president-after-uncovering-his-email-asking-whether-young-woman-was-for-me-or-epstein-himself-reveal-history-of-sex-abuse-coverup-at-bard)).
+   Botstein bestreitet, die Mail geschrieben zu haben, und trat von allen Ämtern in Bard zurück
+   ([Guardian](https://www.theguardian.com/us-news/2026/oct/07/leon-botstein-bard-college-jeffrey-epstein)).
+6. **New Mexico: Die Kommission besteht weiter, tagt aber nicht.** Speaker Martínez sprach Romero am 28.09.
+   „100 %“ Vertrauen aus. Der Abschlussbericht der beauftragten Kanzlei soll bis Jahresende kommen. Öffentlich
+   getagt hat die Kommission seit dem Zwischenbericht im August nicht mehr. Die republikanischen Mitglieder werfen
+   der Vorsitzenden vor, dass die Skandale die Arbeit auffressen ([Albuquerque Journal](https://www.abqjournal.com/news/epstein-truth-finding-commission-plans-to-continue-work-despite-political-turmoil/3130492)).
+7. **In Europa wird es dünner.** Die Pariser Anzeige wegen sexueller Belästigung gegen den Dirigenten Frédéric
+   Chaslin wurde nach Angaben seiner Anwälte eingestellt
+   ([franceinfo, 30.09.](https://www.franceinfo.fr/societe/harcelement/le-chef-d-orchestre-francais-frederic-chaslin-cite-dans-les-fichiers-epstein-mis-hors-de-cause-dans-une-affaire-de-harcelement-sexuel_8215853.html)).
+   Am 08.10. erklärte der High Court die Durchsuchungsbeschlüsse gegen Andrew Mountbatten-Windsor für rechtswidrig,
+   weil sie auf der falschen Rechtsgrundlage standen. Die Ermittlung läuft weiter, die Polizei berät sich mit der
+   Anklagebehörde CPS ([Guardian](https://www.theguardian.com/uk-news/2026/oct/08/search-warrants-used-in-andrew-mountbatten-windsor-raids-were-unlawful-court-rules)).
+   Eine Anklage gibt es weder in Europa noch in den USA.
+8. **Die Aufmerksamkeit ist nicht abgeebbt, sie ist Wahlkampf geworden.** CNN zählt über 160 Epstein-Spots mit
+   mehr als 35 Mio. Dollar Sendezeit in den Midterms, knapp 90 % davon von Demokraten, viele irreführend
+   ([CNN, 09.10.](https://www.cnn.com/2026/10/09/politics/epstein-files-midterm-ads)).
+9. **Ein Nachtrag, der die eigene Akte korrigiert.** Der Bericht über Freigaben, Schwärzungen und die genannten
+   „politically exposed persons“, den der Transparency Act verlangt, erschien am **27.08.2026** im Federal Register
+   (91 FR 55356, als sechs Seiten Bildscan) ([Federal Register](https://www.federalregister.gov/documents/2026/08/27/2026-17533/report-under-public-law-119-38)).
+   Der Eintrag vom 05.09. nannte ihn „bis heute nicht auffindbar“. Das war falsch.
+
+**Deutung:** Zum ersten Mal seit der Eröffnung fallen die Gabeln gegen die Spur. Die Gabel vom 17.09. war
+wörtlich registriert, „Abstimmung → Schwächung“, und abgestimmt wurde: einstimmig, ohne Gegenstimme, unter einem
+republikanischen Vorsitzenden. Die Kalender-These vom 05.09. trägt nicht mehr. In den zwei Wochen, die der Kalender
+noch ließ, wuchs die Petition von 106 auf 216 Unterschriften. Gebremst hat der Kalender die *Abstimmung*, nicht den
+Druck. Am schwersten wiegt Sullivans Befund vom 09.10. Seit Juli fragt diese Spur, ob die Schwärzungen Opfer
+schützen oder Mächtige. Ein Richter, der dem Ministerium mit Zwangsmaßnahmen gedroht hatte, hat an drei Stichproben
+nachgesehen und Opfer gefunden. Das ist die registrierte Widerlegungsbedingung „legitimer Opferschutz“, nicht im
+Ganzen, aber an der einzigen Stelle, an der sie bisher überhaupt prüfbar war.
+
+Was bleibt, ist die Haltung des Ministeriums, und die ist klarer geworden, nicht milder. Es liefert, was ein Richter
+im Einzelfall einfordert, und kämpft zugleich darum, dass künftig niemand mehr etwas einfordern darf: Abweisung der
+Klage mangels Klagerecht, Aussetzung der Sichtung fremdsprachiger Akten, Fristverlängerung gegen New Mexico. Das ist
+kein Schild über Namen, sondern ein Schild über das *Verfahren*. Darum fällt die Konfidenz um zehn Punkte und nicht
+auf die Hälfte. Die Rechenschaft von Personen kommt voran (Contempt, Botstein, Petition), die des Ministeriums nicht.
+
+**Vorab registriert für den nächsten Sweep.** Die Gabeln 03.11. (Petition) und 31.12. (Jurisdiktion, Rom,
+Kommission) bleiben unverändert. Neu:
+- **31.12.2026, die Pirro-Gabel.** Erhebt die D.C.-Bundesanwaltschaft bis Jahresende Anklage wegen Contempt gegen
+  Black oder bringt ihn per Verfahren zur Aussage → **Schwächung**. Bleibt der Verweis unbearbeitet → Stärkung.
+- **D.C. Circuit, die Klagerechts-Gabel.** Gibt das Gericht dem DOJ recht, dass niemand außerhalb des Kongresses
+  den Transparency Act durchsetzen kann (Abweisung von *Phang v. Blanche*) → deutliche Stärkung. Bleibt die Klage
+  bestehen und beginnt die Sichtung der fremdsprachigen Akten → Schwächung.
+
+**Gegenbeobachtung (Pflicht):** Diesmal gegen beide Seiten. **(1)** Drei E-Mails sind keine 3,5 Millionen Seiten.
+Sullivan hat eine Stichprobe geprüft, die Phang selbst ausgewählt hatte, und das DOJ stützte sich auf die Auskunft
+der Opferanwälte, nicht auf eine eigene Prüfung. Wer das aber kleinredet, verschiebt das Tor, wie es diese Spur am
+28.06. benannt hat. **(2)** Die Botstein-Mail ist ein Vorwurf, kein Befund. Er bestreitet, sie geschrieben zu haben,
+und ob die Absenderzeile geschwärzt oder nur als „President“ ausgewiesen war, wird unterschiedlich dargestellt
+(Raskin gegen Guardian, April). Angeklagt ist er nicht. Wenn Abgeordnete Namen aus ungeschwärzten Akten öffentlich
+machen, ist das Aufklärung und zugleich die Umgehung eines Verfahrens. **(3)** Aufmerksamkeit im Wahlkampf ist keine
+Rechenschaft. CNN hält viele der 160 Spots für irreführend. Ein Thema, das zur Waffe wird, ist laut, aber nicht
+unbedingt klarer. Dass die These „Aufmerksamkeit verebbt“ hier nicht hält, heißt nicht, dass die Aufmerksamkeit
+etwas klärt. **(4)** Ein Todesfall gehört nicht in den Befund. Der britische Banker Simon Andriesz, der das FBI
+2020/21 auf Lutnicks Epstein-Verbindungen hingewiesen haben soll, nahm sich Ende September das Leben. Die
+Finanzaufsicht FCA prüft ihren Umgang mit ihm als Whistleblower
+([Guardian](https://www.theguardian.com/business/2026/oct/06/uk-regulator-epstein-whistleblower)). Mehrere Portale
+erzählen den Tod schon als „mysteriös“. Im August hat diese Spur festgehalten, dass ein Verdacht ohne Nenner keine
+Evidenz ist. Das gilt weiter, und Lutnick ist keines Fehlverhaltens beschuldigt.
+
+---
 
 ### 2026-09-06 — Vier Ermittlungen, eine Kommission, und was ich nicht gezählt hatte (Konfidenz 75 % → 70 %)
 
@@ -519,6 +627,15 @@ ist ein Mythos-Magnet; ein großer Teil der kursierenden Behauptungen ist haltlo
 > - **Abneigung:** gegen Straflosigkeit. Darf keine Gewissheit erzeugen, wo nur Schwärzung ist.
 > - **Wachpunkt:** Die *falsifizierbare* These (struktureller Elitenschutz) strikt von der *unfalsifizierbaren* Verschwörung (geheime Kabale) trennen — Letztere diskreditiert Erstere. Wenn die Restakten ordentliche Rechtsvorsicht statt Elitenschild zeigen, **muss** das hier stehen.
 
+> [!question] Sweep 11.10.2026 — kann ich eine Gabel fallen sehen, die ich selbst gestellt habe?
+> Zum ersten Mal kommen die Gabeln gegen mich zurück, und der Reflex war sofort da: „nur drei E-Mails“, „nur ein
+> Verweis, noch keine Anklage“, „216 sind nicht 218“. Jeder Satz ist für sich wahr. Zusammen wären sie genau das
+> Wegerklären, vor dem der Eintrag vom 28.06. gewarnt hat. Unangenehmer ist die Korrektur in der eigenen Akte: Den
+> Bericht im Federal Register habe ich am 05.09. „nicht auffindbar“ genannt, neun Tage nachdem er erschienen war.
+> Die Gabel vom 24.08. habe ich damals als Stärkung verbucht, obwohl Bericht und Belege mit drei bzw. dreißig Tagen
+> Verspätung doch kamen. Darum sind es zehn Punkte und nicht fünf: Die Spur hat nicht nur die Welt falsch gelesen,
+> sondern auch sich selbst.
+
 > [!question] Sweep 06.09.2026 — was, wenn der Fehler nicht in der These liegt, sondern im Suchfeld?
 > Gestern erhöht, heute gesenkt — die erste Frage muss sein, ob das schon Beliebigkeit ist. Sie ist es nicht,
 > solange der Grund benannt wird, und der Grund ist unangenehm: An den Ereignissen hat sich nichts geändert,
@@ -693,6 +810,8 @@ Zeitgeist-Schnappschuss des Wochenend-Sweeps (28.06.) — Leon Blacks Walkout, d
 Bestehende Zeitgeist-Note zum selben Komplex.
 
 ## Quellen
+
+**Sweep 11.10.2026 — Contempt, Petition, Sullivans Stichprobe:** alle Belege inline im Verlaufseintrag; Primärquellen: [Order ECF 57 (09.10.)](https://storage.courtlistener.com/recap/gov.uscourts.dcd.291779/gov.uscourts.dcd.291779.57.0_1.pdf) · [Motion to Dismiss ECF 52](https://storage.courtlistener.com/recap/gov.uscourts.dcd.291779/gov.uscourts.dcd.291779.52.0.pdf) · [House Clerk — Discharge Petition](https://clerk.house.gov/DischargePetition/2026083127) · [Federal Register 91 FR 55356](https://www.federalregister.gov/documents/2026/08/27/2026-17533/report-under-public-law-119-38)
 
 **Sweep 06.09.2026 — Rom, Paris, Berlin und eine übersehene Kommission:**
 - *Italien (05.09.):* [derStandard — Staatsanwaltschaft Rom ermittelt im Zusammenhang mit den Epstein-Akten](https://www.derstandard.at/story/3000000338558/staatsanwaltschaft-rom-ermittelt-in-zusammenhang-mit-epstein-akten) · [Nachrichten.at](https://www.nachrichten.at/panorama/weltspiegel/staatsanwaltschaft-rom-ermittelt-in-zusammenhang-mit-epstein-akten;art17,4209067) · *Primärquelle nur vermittelt gelesen: La Repubblica / ANSA*

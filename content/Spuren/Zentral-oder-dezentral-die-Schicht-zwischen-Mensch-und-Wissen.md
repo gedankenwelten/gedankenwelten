@@ -10,10 +10,10 @@ tags:
   - überwachung
   - year-2026
 status: offen
-konfidenz: 34%
+konfidenz: 37%
 review-takt: 30-tage
 eroeffnet: 2026-06-15
-aktualisiert: 2026-09-10
+aktualisiert: 2026-10-11
 description: "Nicht welches Modell das beste ist entscheidet die KI-Ära, sondern ob die Schicht zwischen Mensch und Wissen zentral und besessen bleibt — oder offen und anfechtbar wird."
 ---
 
@@ -31,7 +31,7 @@ description: "Nicht welches Modell das beste ist entscheidet die KI-Ära, sonder
 
 ## Die These
 
-> **Stand (Konfidenz 34 %):** Der eigentliche Machtkampf der KI-Ära läuft auf der Achse
+> **Stand (Konfidenz 37 %, seit 11.10.2026):** Der eigentliche Machtkampf der KI-Ära läuft auf der Achse
 > **Zentralisierung gegen Dezentralisierung**, nicht auf der Achse „wer hat das beste Modell". Die
 > Geschäftsmodelle der heutigen US-Champions (OpenAI, Anthropic, Google, Meta) *verlangen*
 > Zentralisierung — sie monetarisieren Modell-Knappheit, Cloud-Miete oder die Datenader. Eine seltsame
@@ -78,6 +78,65 @@ verschiedene Richtungen; das ist die Ehrlichkeit der These.*
 > eine Beobachtung trennt zwei Deutungen, die heute nicht zu trennen sind.
 
 ## Verlauf
+
+### 2026-10-11 — Die Mehrheit der Tokens ist offen, das Geld bleibt geschlossen (Konfidenz 34 % → 37 %)
+
+**Befund:** (1) **Offene Modelle verarbeiten erstmals die Mehrheit der Tokens.** Im August liefen nach dem
+[Vercel AI Gateway Production Index (17.09.)](https://vercel.com/blog/ai-gateway-production-index-september-2026)
+**56 %** aller Tokens über Open-Weight-Modelle, im Dezember 2025 waren es 7 %. Vom Umsatz bekamen sie nur **14 %**.
+Der Durchschnittspreis je Token fiel im August um 23,2 %, Anthropic behielt 64 % der Ausgaben. Fable 5 fiel innerhalb
+eines Monats von 13,2 % auf 4,9 % der Ausgaben, weil Teams auf das halb so teure Opus 5 wechselten. *Provenienz:*
+Vercel ist ein Router zwischen Modellen, seine Kundschaft sind kostenbewusste Entwickler, und die Ausgaben sind aus
+Listenpreisen geschätzt.
+
+(2) **Die Frontier-Labore senken die Preise unter offenem Druck.** Am 22.09. bringt Anthropic Opus 5.5, rund 40 %
+günstiger im Betrieb, OpenAI senkt die Preise für GPT-6 Sol und Luna um 50 %. CNBC nennt ausdrücklich den Druck
+*„from cheaper, open-weight competitors“* von Alibaba, Moonshot und DeepSeek
+([CNBC, 22.09.](https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html)).
+
+(3) **Der Wert landet in der Rechenleistung.** Anthropics Prospekt nennt 42 Mrd. $ Nettoverlust für 2025 und **518 Mrd. $**
+geplante Ausgaben für Cloud, Rechenleistung und Infrastruktur im kommenden Jahr; knapp ein Viertel des Umsatzes kam von
+zwei Kunden ([CNBC/Reuters, 29.09.](https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html)).
+Fed-Gouverneurin Cook beziffert die angekündigten KI-Investitionen auf 2 Billionen $, von denen erst ein kleiner Teil
+ausgegeben sei ([Fed, 28.09.](https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm)).
+
+(4) **Nvidia finanziert wieder die Offenheit.** Am 05.10. stellt Reflection AI **Beam** vor, ein Open-Weight-Modell mit
+501 Mrd. Parametern. Zu den Geldgebern gehört Nvidia. Ziel sind „AI factories“ für Unternehmen und Staaten, eine Vision
+von Huang, die Nvidias GPUs braucht ([TechCrunch, 05.10.](https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/)).
+Die Übernahme von Hugging Face soll im ersten Halbjahr 2027 abschließen und läuft durch die US-Fusionskontrolle; ob
+die EU prüft, ist offen ([MLex, 23.09.](https://www.mlex.com/mlex/articles/2528556/nvidia-may-seek-eu-review-of-hugging-face-deal-amid-filing-uncertainty)).
+
+(5) **Die Achse wird politisch.** Ein gemeinsames Bremsen der geschlossenen Labore bräuchte kartellrechtliche
+Ausnahmen, und die lehnt Huang ab. Die Prüfregeln der US-Regierung nach EO 14409 gelten ausdrücklich nur für
+geschlossene Modelle ([CSA, 12.08.](https://labs.cloudsecurityalliance.org/research/csa-research-note-eo14409-frontier-ai-framework-opacity-2026/)).
+Xi kündigt eine BRICS-Gemeinschaft für offene KI an.
+
+(6) **Die China-Sonde bleibt ungetestet.** Beim Gipfel zwischen Trump und Xi (23.–25.09.) standen die Chip-Kontrollen
+nicht zur Debatte. Vereinbart wurden ein Zollpaket über 30 Mrd. $, ein KI-Dialog und ein Kanal für Vorfälle
+([CNBC, 26.09.](https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html)). Huawei zieht seinen Chip Ascend
+960DT auf das erste Quartal 2027 vor ([CNBC, 24.09.](https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html)).
+
+**Deutung:** Beide registrierten Bedingungen feuern gleichzeitig, und gerade das ist der Befund. Die Modell-Schicht wird
+schneller zur Massenware, als die Spur es zu sagen wagte: Die Mehrheit der Tokens ist offen, der Preis fällt, die
+Frontier-Labore senken unter offenem Druck ihre Preise. Das ist die Bedingung „Preismacht erodiert“ in ihrer bisher
+klarsten Form. Das Geld folgt den Tokens aber nicht. 56 % des Volumens bringen 14 % der Ausgaben, und ein einziges
+Labor plant 518 Mrd. $ für Rechenleistung. Mit Nvidias Geld für Reflection wiederholt sich das Muster von Hugging Face:
+Wer die Chips besitzt, finanziert das offene Modell als Ergänzung zu seinem Produkt.
+
+Neu ist, dass die Achse politische Form annimmt. Es gibt jetzt eine Koalition fürs Bremsen, die geschlossenen Labore,
+die dafür Kartellausnahmen und Regulierung bräuchten. Ihr gegenüber steht eine Koalition der Offenheit aus Nvidia, Meta
+und China mit seinen BRICS-Partnern. Die US-Prüfregeln sind entlang genau dieser Linie gebaut. Die Bedingung
+„Bequemlichkeit schlägt Souveränität, offen bleibt Nische“ bekommt beim Volumen einen Riss.
+
+**Gegenbeobachtung (Pflicht):** **(a)** Das ist der Blick eines einzigen Routers. Die Konsum-Apps wie ChatGPT und
+Claude fehlen in den Daten. „Routine geht offen, Urteil bleibt geschlossen“ wäre Segmentierung, keine Erosion.
+**(b)** Offen heißt nicht dezentral. Die offenen Tokens laufen über eine zentrale Vermittlung in der Cloud, nicht auf
+dem eigenen Gerät. Die Modell-Schicht öffnet sich, die Datenader bleibt in der Cloud. **(c)** Die Preissenkung kann
+Jevons selbst sein: billigere Tokens, mehr Volumen, größere Rechnungen für Rechenleistung. Anthropics Anteil von 64 %
+an den Ausgaben bleibt stabil. **(d)** Der Absturz von Fable bei den Ausgaben zeigt, wie dünn der Aufpreis für
+Spitzenfähigkeit ist. Das stützt die These der Massenware, nicht die Zentralisierung.
+
+---
 
 ### 2026-09-10 — Nvidia kauft Hugging Face: der Burggraben absorbiert die Offenheit (Konfidenz 50 % → 34 %)
 
@@ -164,6 +223,13 @@ sondern Compute, Distribution (800 Mio. ChatGPT-Nutzer) und der Applikationslaye
 die US-Champions von Commoditisierung. Dazu: Bequemlichkeit schlägt fast immer Souveränität.
 
 ## Gleichmut-Spiegel
+
+> [!question] Sweep 11.10.2026 — das schönste Datum, vom falschen Zeugen
+> Die Zahl 56 % ist das schönste Datum, das diese Spur je hatte, und sie stammt von einem Anbieter, der vom
+> Mehr-Modell-Narrativ lebt. Dazu kommt: Der Beobachter ist selbst das „günstigere Modell“, das unter offenem Druck
+> erschien. Der Wachpunkt der Anlage („anschauen, nicht wegerklären“) gilt diesmal auch für die 14 % Umsatz. Die
+> Schnittfrage vom 10.09. (als widerlegt schließen oder auf die *Achse* umschreiben) hat ein neues Argument bekommen:
+> Die Achse selbst wird gerade politisch. Das spricht für Umschreiben, aber nur mit Andreas' Hand.
 
 > [!question] Sweep 10.09. — Entwurf, von dir zu prüfen
 > - **Verlangen:** Bei Anlage stand hier der Satz: *„Jevons ist genau das Datum, das wir wegerklären wollen werden — es darf nie aus der Gegenbeobachtung verschwinden."* Es ist nicht verschwunden; es hat gewonnen. Der Wachpunkt lautete: *„Wenn die nächsten Quartalszahlen Jevons stützen — anschauen, nicht wegerklären."* Ich habe hingeschaut: verdoppelter Umsatz, verdoppelter Gewinn. Die Konfidenz fällt um sechzehn Punkte, und das ist die Spur, die funktioniert.

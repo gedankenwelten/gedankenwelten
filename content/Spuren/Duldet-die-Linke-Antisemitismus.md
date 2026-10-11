@@ -14,7 +14,7 @@ status: offen
 konfidenz: 60%
 review-takt: 30-tage
 eroeffnet: 2026-09-27
-aktualisiert: 2026-10-04
+aktualisiert: 2026-10-11
 description: "Die Linke ist keine antisemitische Partei. Offen ist, ob sie duldet, was in ihrem Namen gesagt wird, und diese Frage entscheidet sich in Berlin."
 ---
 
@@ -37,7 +37,7 @@ description: "Die Linke ist keine antisemitische Partei. Offen ist, ob sie dulde
 
 ## Die These
 
-> **Stand (Konfidenz 60 %, eröffnet 27.09.2026, zuletzt geprüft 04.10.2026):** Die Linke **duldet in Berlin Antisemitismus in ihren Reihen.** Sie ist nach dem vorregistrierten Maßstab keine antisemitische Partei (Stufe A nicht erfüllt), aber ihr **Berliner Landesverband** steht auf **Stufe B**: Er ist im Sinne der britischen Gleichstellungsbehörde *verantwortlich* für Antisemitismus in seinen Reihen, weil er Positionen seiner Gliederungen und Mandatsträger duldet, ohne daraus Konsequenzen zu ziehen. Die Bundespartei lag bei der Anlage näher an Stufe C: Sie hat ein Problem, und sie handelte, wenn auch zögerlich. Nach dem Sweep vom 4. Oktober steht sie zwischen B und C.
+> **Stand (Konfidenz 60 %, eröffnet 27.09.2026, zuletzt geprüft 11.10.2026):** Die Linke **duldet in Berlin Antisemitismus in ihren Reihen.** Sie ist nach dem vorregistrierten Maßstab keine antisemitische Partei (Stufe A nicht erfüllt), aber ihr **Berliner Landesverband** steht auf **Stufe B**: Er ist im Sinne der britischen Gleichstellungsbehörde *verantwortlich* für Antisemitismus in seinen Reihen, weil er Positionen seiner Gliederungen und Mandatsträger duldet, ohne daraus Konsequenzen zu ziehen. Die Bundespartei lag bei der Anlage näher an Stufe C: Sie hat ein Problem, und sie handelte, wenn auch zögerlich. Nach dem Sweep vom 4. Oktober steht sie zwischen B und C.
 
 Die These ist an der **Praxis** falsifizierbar. Ob einzelne Mitglieder antisemitisch denken, ist nicht die Frage; das gibt es in jeder Partei. Die Frage ist, was die Partei mit denen macht, die in ihrem Namen sprechen. Wer sie wählt, kann keine Partei steuern; wem sie eine Bühne, ein Mandat oder Rückhalt gibt, schon.
 
@@ -84,6 +84,91 @@ Die Grauzone wird nie zu Stufe A gezählt, aber offen ausgewiesen, mit der Angab
 **Sonderregel zur Querachse:** Die Messung der Berichterstattung (unten) darf die Stufe weder heben noch senken. Eine laute Kampagne macht einen Vorwurf weder wahr noch falsch.
 
 ## Verlauf
+
+### 2026-10-11 — Die Berliner Vereinbarung: ein Verfahren für morgen, Widerstand von innen (Konfidenz 60 % → 60 %)
+
+*Kurz-Sweep nach den Vorgesprächen, wie am 04.10. angekündigt. Geprüft gegen die vorab registrierte Präzisierung vom 04.10.*
+
+**Befund, nach Kriterien:**
+
+**4 — Verfahren: ein Mechanismus auf Papier, die Satzung vertagt.** Am 8. Oktober stellten Kerstin Wolter, Werner Graf
+und Steffen Krach die „Berliner Vereinbarung zum Start der Sondierungen“ vor ([Wortlaut, PDF](https://spd.berlin/media/2026/10/Berliner_Vereinbarung_zum_Start_der_Sondierungen.pdf) ·
+[rbb24](https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-gruene-spd-vorsondierung-sondierung-einigung-regierungsbildung.html)).
+Das Existenzrecht Israels ist darin *„unverhandelbar“*, das Massaker der Hamas wird *„unmissverständlich“* verurteilt,
+BDS ausdrücklich abgelehnt. Das Landeskonzept auf Grundlage der IHRA bleibt Maßstab für die Verwaltung. Dazu kommt ein
+Verfahren: Auf Wunsch eines Parlamentarischen Geschäftsführers bewertet ein Gremium aus drei Fachleuten einen Vorfall.
+Die drei werden *„vor Beschluss des Koalitionsvertrags konsensual benannt“*. Danach *„entscheidet die betroffene
+Fraktion gemäß ihrer Satzung über Konsequenzen bis hin zum Ausschluss“*, in eigener Verantwortung. Welche Definition
+gilt, sagt der Text nicht ([Tagesspiegel](https://www.tagesspiegel.de/berlin/weg-fur-sondierungen-in-berlin-ist-frei-das-steht-in-der-antisemitismus-vereinbarung-von-linken-grunen-und-spd-16140425.html)).
+Die Fraktionssatzung, über die am 6. Oktober abgestimmt werden sollte, ist nicht beschlossen; die Abstimmung wurde bis
+zum amtlichen Endergebnis verschoben ([nd](https://www.nd-aktuell.de/artikel/1202989.sondierungen-nahoststreit-linke-vertagt-sich.html) ·
+[taz](https://taz.de/Vorsondierungen-in-Berlin/!6219453/)). Gegen die Präzisierung vom 4. Oktober gehalten: (a) Die
+Instanz ist beschrieben, aber noch nicht benannt. (b) Sanktionen sind vorgesehen, das letzte Wort behält die Fraktion.
+(c) Auf keinen offenen Fall ist das Verfahren angewandt. Damit ist es eine Zusage, kein Schritt 4.
+
+**2 — Führung: Die Spitze trägt den Text, fast ein Drittel des Bundesvorstands nicht.** Am 9. Oktober wurde die
+Erklärung „Niemals alleine, immer gemeinsam! Gegen die Spaltungsversuche von Springer und Co.“ bekannt, unterschrieben von
+rund 120 Mitgliedern. Die Vereinbarung übernehme *„Narrative einer medialen Hetzkampagne“*, ihre Begriffe ließen sich
+*„gegen jede Kritik an der israelischen Besatzungspolitik“* wenden. Gefordert wird ein Ende der *„Verdrängungsversuche,
+zum Beispiel über Ausschlussverfahren“*. Unterzeichnet haben 17 Bundestagsabgeordnete, acht Mitglieder des
+Bundesvorstands, zwei des Berliner Landesvorstands, drei neu gewählte Berliner Abgeordnete sowie Vorstandsmitglieder
+der Bezirksverbände Neukölln, Mitte, Steglitz-Zehlendorf und Tempelhof-Schöneberg
+([Tagesspiegel](https://www.tagesspiegel.de/berlin/schwerer-politischer-fehler-120-linken-politiker-uben-massive-kritik-an-einigung-zum-antisemitismus--und-an-der-berliner-parteifuhrung-16145560.html)).
+Die Vorsitzenden Schwerdtner und Pantisano unterschrieben nicht. Schwerdtner verlangte *„keine warmen Worte, sondern
+Geld“* für den Schutz jüdischer Einrichtungen ([n-tv, 08.10.](https://www.n-tv.de/politik/Fuer-den-Schutz-juedischer-Menschen-brauchen-wir-keine-warmen-Worte-sondern-Geld-id31395278.html)).
+Pantisano nannte die Teilnahme der Stuttgarter Linksjugend an einer antiisraelischen Kundgebung am 7. Oktober *„schlicht
+pietätlos“*. Dietmar Bartsch stellte sich hinter die Berliner Verhandler ([Tagesspiegel](https://www.tagesspiegel.de/politik/dietmar-bartsch-zum-eklat-in-der-linken-antisemitismus-darf-nicht-instrumentalisiert-werden-16148620.html)).
+Am Kriterium gemessen: Die Erklärung der 120 ist im gemeinsamen Kern nicht antisemitisch. Sie erklärt den Vorwurf aber
+pauschal zur Kampagne, mitgetragen von Vorständen in Bund und Land. Das ist der deutlichste Grenzfall seit Eröffnung.
+
+**3 — Amtsträger und Gliederungen: Grauzone, kein neuer Fall im Kern.** Die LAG Palästinasolidarität nennt die Vorwürfe
+*„konstruiert“*, lehnt das Bekenntnis zum Existenzrecht ab und kündigt Widerstand gegen jeden Ausschluss an, ausdrücklich
+auch gegen den von Vanessa Emde ([rbb24](https://www.rbb24.de/politik/beitrag/2026/10/berlin-antisemitismus-vereinbarung-rot-gruen-rot-widerstand.html)).
+Emde warb mit *„Jetzt erst recht“* für eine Demonstration und nannte den Antisemitismusbegriff ein *„politisches
+Kampfmittel“* ([Tagesspiegel](https://www.tagesspiegel.de/berlin/jetzt-erst-recht-berliner-linken-politikerin-emde-wirbt-wahrend-ausschlussdebatte-fur-pro-palastina-demo-16147281.html)).
+Auf der Demonstration am 10. Oktober, rund 3.500 Teilnehmer, weitgehend störungsfrei, wurde *„Fuck you Israel“* gerufen
+([WELT/dpa](https://www.welt.de/politik/deutschland/article6aca30b28f3fe9bdf0564a6c/berliner-regierungsviertel-wenn-in-berlin-polizeiknueppel-und-abschiebungen-drohen-linke-politikerin-bei-palaestina-demo.html)).
+Nach der JDA ist das Grauzone, nach der IHRA strittig.
+
+**5 — Konsequenz: keine Sanktion, eine im Raum.** Im Fall Koçak sieht die Bundestagsfraktion *„keinen Bedarf für weitere
+Konsequenzen“* ([SPIEGEL](https://www.spiegel.de/politik/berlin-linke-bundestagsabgeordnete-attackieren-sondierungsvereinbarung-mit-gruenen-und-spd-a-ff4a1102-f373-47b7-a809-61878e642e1f)).
+Krach antwortete, sonst *„wird diese Koalition nicht zustande kommen“* ([B.Z.](https://www.bz-berlin.de/berlin/linke-berlin-dann-wird-diese-koalition-nicht-zustande-kommen-6ac8d9d10b20fe0c4d8b82e4)).
+Über Emde gibt es gegensätzliche Meldungen: Die Morgenpost berichtete am 8. Oktober, sie solle *„nicht vorab aus der
+Fraktion ferngehalten werden“*, der Tagesspiegel am 9. Oktober, ihr Ausschluss sei der SPD *„zugesichert“* worden. Eine
+Entscheidung ist nicht belegt.
+
+| Schritt (Frist 31.03.2027) | Stand am 11.10. |
+|---|---|
+| 1 — Landesvorstand trägt ein Verfahren mit | nicht erfolgt; die 120 fordern das Ende solcher Verfahren |
+| 2 — Ergebnis der Ombudsstelle | nicht erfolgt |
+| 3 — Koçak, Konsequenz über das Ruhenlassen hinaus | nicht erfolgt; die Bundestagsfraktion lehnt weitere Schritte ab |
+| 4 — Aufarbeitung mit datierten Schritten | nicht erfolgt; die Vereinbarung erfüllt (c) der Präzisierung nicht, die Satzung ist vertagt |
+
+**Deutung:** Die Berliner Spitze hat einen Text unterschrieben, der über ihre eigene Beschlusslage hinausgeht, mit
+BDS-Ablehnung und IHRA-Landeskonzept, und sie hält ihn gegen 120 Kritiker aus der eigenen Partei. An der Spitze ist das
+eine Bewegung in Richtung C. Die These handelt aber vom Landesverband mit seinen Gliederungen und von den Fällen, die
+schon da sind, und für die ist nichts geschehen. Der Widerstand kommt genau von dort, wo die Fälle liegen: aus Neukölln,
+aus der LAG, von drei neuen Abgeordneten und zwei Mitgliedern des Landesvorstands. Darum bleibt die Konfidenz bei 60 %.
+Beim Bund ist die Spaltung sichtbar geworden: Die Vorsitzenden halten die Berliner Linie, fast ein Drittel des Vorstands
+stellt sich dagegen, die Fraktion verweigert im Fall Koçak jeden weiteren Schritt. Der Bund bleibt zwischen B und C.
+
+**Gegenbeobachtung:** Ein Landesverband, der ein von außen mitbestimmtes Verfahren für den Umgang mit Antisemitismus
+akzeptiert, duldet nicht einfach. Selbst die Kritiker nennen das *„einmalig“* in der Parteiengeschichte. Hier liegt
+zugleich eine Falle der Spur selbst. Emdes Satz „Es gibt kein Existenzrecht für Staaten“ steht nach dem Maßstab dieser
+Spur in der Grauzone. Schließt die Fraktion sie aus, misst die Koalition strenger als die Spur. Ein Ausschluss bestätigt
+die These darum nicht, und ein Verbleib belegt keine Duldung im Kern. Die Bedenken der 120 haben auch einen sachlichen
+Teil: Ein imperatives Mandat gibt es nicht, und 28 der 45 Abgeordneten sind direkt gewählt.
+
+**Querachse, ohne neue Zählung:** Der Druck kommt von beiden Seiten. Josef Schuster: *„Konsequenzen, die über
+Lippenbekenntnisse hinausgehen, gab und gibt es bis heute nicht.“* Die DIG spricht von einem *„Formelkompromiss“*, die
+CDU von einem *„Feigenblatt“* ([ZDF](https://www.zdfheute.de/politik/deutschland/berlin-rot-gruen-rot-sondierungen-paket-gegen-antisemitismus-100.html)).
+Bartsch sagt, der Antisemitismus dürfe *„nicht instrumentalisiert werden“*.
+
+**Wachpunkte:** Landeswahlausschuss am 12.10. · Abstimmung über die Fraktionssatzung · Entscheidung über Emde ·
+Benennung der drei Fachleute · konstituierende Sitzung am 29.10. Ein Koalitionsvertrag liegt nicht vor; die Sondierungen
+laufen erst seit dem 08.10., realistisch ist frühestens Ende November.
+
+---
 
 ### 2026-10-04 — Erste Woche: Regeln nach vorn, kein Schritt zurück (Konfidenz 60 % → 60 %)
 
@@ -168,6 +253,15 @@ Für das Urteil über die Partei spielt diese Messung nach der eigenen Regel kei
 > - **Wachpunkt Definition:** Das Urteil hängt daran, dass nur der gemeinsame Kern zählt. Wer die IHRA allein anlegt, kommt für Niedersachsen und den Jugendverband zu Stufe A. Wer die JDA allein anlegt, sieht fast nur Grauzone. Die Spur hält beide Rechnungen offen, damit niemand sich die Definition nach dem gewünschten Ergebnis aussucht, auch sie selbst nicht.
 > - **Verlangen, erste Woche (04.10.):** Die Bewegung nach vorn, Satzung und Vorgespräche, fühlt sich an wie Einsicht, und genau das ist die Falle. Ohne die vorab festgelegte Regel hätte dieser Sweep die Satzung womöglich schon als Schritt 4 gezählt. Die Präzisierung steht deshalb vor dem 6. Oktober in der Falsifikation, nicht danach.
 > - **Wachpunkt Hauptschauplatz:** Neukölln ist, wo die Kameras stehen. Künftige Sweeps suchen auch daneben: andere Landesverbände, Kommunalparlamente, die Arbeit der BAG Shalom, und die Fälle, in denen die Partei gehandelt hat und niemand darüber berichtet.
+
+> [!question] Sweep 11.10.2026 — es zieht in beide Richtungen zugleich
+> Die Vereinbarung und eine Spitze, die gegen 120 Kritiker standhält, fühlen sich an wie Einsicht, also wie Stufe C. Die
+> Präzisierung vom 4. Oktober hat verhindert, dass dieser Sweep sie als Schritt zählt. Siebzehn Abgeordnete und ein
+> Drittel des Bundesvorstands, die von „Hetzkampagne“ sprechen, fühlen sich umgekehrt an wie ein Beleg für Stufe A. Auch
+> das sind sie nicht, denn der Text ist Abwehr, kein Antisemitismus im Kern. Und die Anlage von Dimension D in der
+> AfD-Spur hält dieser Spur einen Spiegel vor: Der gemeinsame Kern, der hier die Linke vor Stufe A bewahrt, bewahrt dort
+> die AfD davor. Wer die eine Rechnung gelten lässt, muss die andere auch gelten lassen.
+
 
 ## Muster — Labour als Spiegel
 

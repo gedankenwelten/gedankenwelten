@@ -10,10 +10,10 @@ tags:
   - geopolitik
   - year-2026
 status: offen
-konfidenz: 50%
+konfidenz: 48%
 review-takt: 21-tage
 eroeffnet: 2026-06-14
-aktualisiert: 2026-09-17
+aktualisiert: 2026-10-11
 presseschau_aktualisiert: 2026-08-24
 description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr hinsieht. Eine Spur über das Versanden der Rechenschaft, wenn die Kameras weiterziehen."
 ---
@@ -41,7 +41,7 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 
 ## Die These
 
-> **Stand (Konfidenz 63 %):** Während die Aufmerksamkeit abebbt, läuft die humanitäre Krise trotz
+> **Stand (Konfidenz 48 %, seit 11.10.2026):** Während die Aufmerksamkeit abebbt, läuft die humanitäre Krise trotz
 > „Waffenstillstand" weiter, und die völkerrechtlichen Verfahren bewegen sich in extremer Langsamkeit.
 > **Recht wird nicht verweigert, sondern vertagt** — Fristen bis 2027/2029, Haftbefehle ohne Vollzug —
 > bis der öffentliche Druck versandet. Die nachlassende Aufmerksamkeit korreliert mit nachlassender
@@ -61,6 +61,88 @@ description: "Recht wird nicht verweigert, sondern vertagt — bis niemand mehr 
 **Kalt, wenn:** dauerhafte politische Lösung, Thema legitim abgeschlossen.
 
 ## Verlauf
+
+### 2026-10-11 — Das Ultimatum hat ein Datum (Konfidenz 50 % → 48 %)
+
+**Befund:** *(1) Die Haftbefehle haben jetzt einen Preis.* Am **09.10.2026** setzte das US-Finanzministerium den
+Internationalen Strafgerichtshof als Institution auf die Sanktionsliste. Der Gerichtshof selbst nennt den Schritt
+*„unprecedented“*. Vorausgegangen waren Listungen gegen **dreizehn** Richterinnen, Richter und Ankläger
+([ICC, 09.10.](https://www.icc-cpi.int/news/icc-strongly-rejects-us-sanctions-against-institution)). Rubio: *„Either the
+ICC will end its threats, or we will end the ICC“* ([JURIST](https://www.jurist.org/news/2026/10/us-imposes-full-sanctions-on-icc-over-arrest-warrants-and-jurisdiction-disputes/)).
+Die Sanktionen greifen erst ab dem **09.04.2027**, außer der Gerichtshof erfüllt bis dahin drei Forderungen: Er hebt
+die Haftbefehle gegen Netanjahu und Gallant vom 21.11.2024 auf, stellt die Afghanistan-Ermittlungen ein, und das Statut
+wird so geändert, dass Staatsangehörige von Nichtvertragsstaaten nicht mehr verfolgt werden können
+([Le Monde, 10.10.](https://www.lemonde.fr/en/international/article/2026/10/10/us-announces-icc-sanctions-and-issues-ultimatum-to-member-states_6758453_4.html)).
+Am selben Vormittag hatte das Nobelkomitee den Friedenspreis an **Navi Pillay** vergeben. Sie war Richterin am IStGH
+und leitete die UN-Untersuchungskommission zu Palästina
+([Daily Maverick/Reuters](https://www.dailymaverick.co.za/article/2026-10-09-us-imposes-sanctions-on-icc-hours-after-former-judge-wins-nobel-peace-prize/)).
+
+*(2) Der Weg dorthin, in drei Wochen.* Am **22.09.** rief Trump vor der Generalversammlung alle Mitgliedstaaten auf, den
+Gerichtshof *„immediately“* zu verlassen ([Independent](https://www.independent.co.uk/news/world/americas/us-politics/trump-icc-un-general-assembly-new-york-b3054421.html)).
+Am selben Tag zog **Kolumbien** unter dem neuen Präsidenten De la Espriella seine Intervention im ICJ-Verfahren zurück
+([ICJ Case 192](https://www.icj-cij.org/case/192)). Am **24.09.** flog Netanjahu zur Generalversammlung wieder durch den
+Luftraum Griechenlands, Italiens und Frankreichs, alles Vertragsstaaten; im September 2025 war er noch über Gibraltar
+ausgewichen ([Anadolu, 24.09.](https://www.aa.com.tr/en/middle-east/netanyahus-plane-flies-through-greek-italian-french-airspace-en-route-to-us-despite-icc-warrant/4067960)).
+Am **30.09.** nahm das Präsidium der Vertragsstaatenversammlung „mit Sorge“ die Austrittsschritte **Naurus** zur
+Kenntnis, des sechsten Staats in diesem Jahr ([ASP](https://asp.icc-cpi.int/press-releases/PR-20260930)).
+
+*(3) Die Antwort.* Am **28.09.** besuchte Außenminister Wadephul den Gerichtshof: Deutschland werde *„seinen Beitrag dazu
+leisten, dass der IStGH auch unter Druck handlungsfähig bleibt“* ([DW](https://www.dw.com/de/wadephul-internationaler-strafgerichtshof-istgh-den-haag-rueckendeckung-usa-donald-trump/a-79460064)).
+Sein niederländischer Kollege Berendsen bat die Kommission, das **Blocking Statute** vorzubereiten, die *„nuclear
+option“* ([Politico](https://www.politico.eu/article/block-us-sanctions-on-the-icc-eu-lawmakers-tell-commission/)). Die
+Erklärung des Hohen Vertreters im Namen der EU vom **10.10.** „bedauert zutiefst“, fordert die Rücknahme und begrüßt
+zugleich die Gesprächsbereitschaft: *„This creates space for diplomacy“*
+([Consilium](https://www.consilium.europa.eu/en/press/press-releases/2026/10/10/international-criminal-court-statement-by-the-high-representative-on-behalf-of-the-eu-following-the-announcement-of-us-sanctions/)).
+Das Blocking Statute kommt darin nicht vor. Pillay nannte die Sanktionen in Oslo *„unheard of, unacceptable“*
+([Straits Times](https://www.straitstimes.com/world/nobel-peace-laureate-pillay-calls-us-sanctions-on-icc-unacceptable)).
+
+*(4) Die Verfahren selbst.* Beim ICJ hat sich außer Kolumbiens Rückzug nichts bewegt. Beim IStGH gibt es im Fenster weder
+eine Festnahme noch einen öffentlich bekannten Kammerschritt in der Palästina-Situation.
+
+*(5) Die Lage der Menschen, im zwölften Monat der Waffenruhe.* OCHA zählt nach Angaben des Gesundheitsministeriums seit
+dem 10.10.2025 **1.431 Getötete und 5.026 Verletzte**, davon 29 Tote allein zwischen dem 23. und 30.09.
+([OCHA, 02.10.](https://www.ochaopt.org/content/humanitarian-situation-report-2-october-2026)). Ab Oktober schrumpfen
+warme Mahlzeiten und Paketverteilungen, weil Geld fehlt; rund 279.000 Menschen leben vor dem Winter in
+überflutungsgefährdeten Lagern. Nach AFP kontrolliert Israel ein Jahr nach der Waffenruhe **rund 70 %** des Streifens,
+vereinbart waren 53 %. Der Wiederaufbau hat nicht begonnen, Hamas hat ihre Entwaffnung angekündigt, aber nicht
+vollzogen, und für Israel war es ein Jahr ohne Raketen aus Gaza ([AFP via Al-Monitor](https://www.al-monitor.com/originals/2026/10/year-later-gaza-ceasefire-promises-mostly-unfulfilled) ·
+[HRW, 10.10.](https://www.hrw.org/news/2026/10/10/gaza-ceasefire-anniversary-marks-year-of-failed-promises)).
+
+**Deutung:** Am 17.09. hat diese Spur eine Lesart zur Seite gelegt: dass der Gebrauch des Rechtswegs mit staatlichen
+Mitteln bestraft wird. Wenn sie trägt, so hieß es, trägt sie auch über drei Sweeps. Dies ist der erste davon, und sie
+trägt stärker als vorher. Sie hat jetzt eine Preisliste mit Datum, und der erste Posten sind genau die beiden
+Haftbefehle, die diese Spur seit Juni als zweite Säule führt. Recht wird hier nicht mehr vertagt, es wird verhandelt. In
+die These gehört das trotzdem erst nach zwei weiteren Sweeps.
+
+Für die registrierte These bleibt ein unbequemeres Ergebnis. Die Haftbefehle bleiben folgenlos, und ihre letzte
+sichtbare Wirkung, der Umweg über Gibraltar, verschwindet. Doch der Prüfschritt vom 17.09. (andere Fälle zum Vergleich)
+gilt auch hier. Gegen Putin besteht seit März 2023 ein Haftbefehl, und die Mongolei verhaftete ihn 2024 nicht. Duterte
+wurde 2025 erst festgenommen, nachdem sich die Politik im eigenen Land gewendet hatte. Nicht vollstreckte Haftbefehle
+gegen amtierende Regierungschefs mit mächtigen Fürsprechern sind beim IStGH der Normalfall, mit Aufmerksamkeit hat das
+wenig zu tun. Als Beleg für die behauptete Korrelation trägt diese Säule darum weniger, als sie aussah.
+
+Eine Spiegelung, als Deutung markiert: Auch die Sanktion selbst ist um 180 Tage aufgeschoben, und die EU begrüßt den
+Aufschub als Raum für Diplomatie. Beide Seiten antworten mit Zeit.
+
+**Gegenbeobachtung (Pflicht):** **(1)** Die Institution steht, und ihre Verteidiger sind lauter geworden: ein deutscher
+Außenminister in Den Haag, ein Mitgliedstaat, der das Blocking Statute vorbereiten will, ein Nobelkomitee, das seine
+Wahl als Erinnerung an angegriffene Gerichte begründet. Der Gerichtshof hat seit über einem Jahr Ausweichlösungen
+gebaut, von Open-Source-Software bis zu neuen Bankverträgen ([Al Jazeera, 10.10.](https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court)).
+**(2)** Die Überflüge verletzen keine Pflicht. Das Statut verlangt nicht, Flugzeuge abzufangen; das schreibt selbst
+Anadolu dazu. Belegt ist ein politisches Signal, kein Rechtsbruch. **(3)** Das Ultimatum ist auch ein Gesprächsangebot:
+Die Sanktionen sind nicht in Kraft, es gibt Lizenzen. Ob es Zerschlagung ist oder Druck in einer Verhandlung, entscheidet
+sich erst im April 2027. **(4)** Zur humanitären Lage gehört auch das andere. Der UN-Koordinator Alakbarov nannte am
+28.09. *„increased supplies of food and sanitary items in recent months“*. Die Geiseln sind frei, und das Sterben liegt
+um Größenordnungen unter dem Kriegsniveau. Die Opferzahlen stammen vom Ministerium unter der De-facto-Behörde; die UN
+hält sie für belastbar. **(5)** Kolumbiens Rückzug ist ein Regierungswechsel, keine Bewegung des Gerichts. **(6)**
+Jahrestag und Nobelpreis haben die Aufmerksamkeit sichtbar zurückgeholt. Sie ist ereignisgetrieben, aber vorhanden, und
+das berührt erneut die registrierte Schwächungsbedingung.
+
+*Stimmen jenseits der Standardquellen:* Anadolu (staatliche türkische Agentur; die Türkei ist kein IStGH-Mitglied, die
+Regierung offen israelkritisch) · Navi Pillay über die Straits Times (Singapur, SPH Media Trust, staatsnah finanziert) ·
+Al Jazeera (vom Staat Katar finanziert).
+
+---
 
 ### 2026-09-17 — Die Uhr, die wir für eine Strategie hielten (Konfidenz 63 % → 50 %)
 
@@ -299,6 +381,15 @@ sind **nicht per se** Beweis strategischer Vertagung. Der Waffenstillstand brach
 > - **24.08.2026:** Der unbequemste Sweep bisher, weil der Fehler bei mir lag. *Erstens:* Diese Spur hat **neun Monate lang eine bindende Sicherheitsratsresolution übersehen** — und zwar nicht irgendeine, sondern die, die der Lage ihre Verwaltungsstruktur gab. Der Grund ist diagnostisch: Ich habe nach Belegen für *Vertagung* gesucht und deshalb nur dort hingesehen, wo vertagt wurde (ICJ, ICC). Ein Gremium, das schnell handelte, passte nicht ins Suchmuster und fiel darum durch das Raster. Das ist Verlangen nach Bestätigung in seiner wirksamsten Form: nicht als Verzerrung eines Befundes, sondern als **Auswahl des Blickfelds**. *Zweitens:* Die Opferzahl. Die Spur trug seit Anfang Juli die höhere Zahl einer Hamas-nahen Stelle, obwohl die niedrigere von OCHA und Gesundheitsministerium verfügbar war — Übernahme in der Richtung, in die die eigene Neigung zieht. Beide Punkte sprechen dafür, die Konfidenz *trotz* stützender Befunde nur um einen Punkt zu bewegen: Wer neun Monate lang das halbe Feld nicht gesehen hat, hat kein Recht auf mehr Sicherheit. *Drittens:* Fünf frisch verarbeitete Interviews ziehen stark — vier davon israelkritisch. Zeugenschaft ist lebendiger als ein Ratsdokument und wiegt deshalb schwerer, als sie sollte. Deshalb steht Ayalon in dieser Runde nicht als Beleg, sondern als Stimme, und die Konfidenzbewegung stützt sich allein auf die Institutionenlage.
 > - **30.08.2026:** Zwei Prüfpunkte. *Erstens:* Die Sanktionen gegen die Gerichtspräsidentin rasteten beim Lesen sofort als Bestätigung ein — „genau das sagt die Spur doch". Das ist Verlangen. Beim zweiten Hinsehen trägt der Vorgang die These nur zur Hälfte: Er stützt die Auswahlentscheidungs-Lesart und liefert zugleich das **beste Gegenbeispiel gegen die Aufmerksamkeits-Lesart**, das diese Spur bisher hat — 79 Staaten, eine geschlossene EU-Spitze, Ungarns zurückgenommener Austritt. Deshalb steht die Konfidenz still, obwohl sich der Eintrag nach Aufwärtsbewegung anfühlte. *Zweitens:* Die Spur führte seit dem 03.07. Ungarns ICC-Austritt als Erosionsbeleg. Er ist nie eingetreten — Ungarn widerrief im Mai 2026 mit 133:37. Ein Fehler in genau der Richtung, in die die Neigung zieht, und der zweite dieser Art binnen einer Woche (nach der Opferzahl am 24.08.). Das Muster ist inzwischen benennbar: **Diese Spur nimmt Belege für Verfall schneller an als Belege für Standfestigkeit.** Der nächste Sweep beginnt deshalb ausdrücklich mit der Gegenfrage — was hat gehalten?
 > - **17.09.2026:** Der Sweep, in dem der eigene Kernbeleg fiel — und die Diagnose ist unangenehmer als der Verlust. *Erstens:* Die Fristen 2027/2029 standen seit dem 14.06. als Vertagungsbeleg in dieser Note. Der Beschluss, der sie erklärt, ist drei Absätze lang, öffentlich, und protokolliert wörtlich, dass **Südafrika selbst** die achtzehn Monate beantragte und **Israel die zweite Schriftsatzrunde ganz vermeiden wollte**. Niemand hat je hineingesehen. Der Grund ist nicht Nachlässigkeit, sondern dass die Zahl 2029 *für sich* schon überzeugend aussah — eine Zahl, die die eigene These trägt, wird nicht nachgeprüft, sie wird zitiert. Das ist derselbe Mechanismus wie bei der übersehenen Resolution 2803 am 24.08., nur eine Ebene tiefer: dort das falsche Blickfeld, hier die ungeprüfte Zahl im richtigen. *Zweitens:* Auch der Vergleich mit Gambia/Myanmar und Ukraine/Russland war in zwanzig Minuten zu haben und wurde in drei Monaten nicht gemacht. Diese Spur prüft ihre eigenen Zahlenbehauptungen nicht gegen Vergleichsfälle — das ist ab jetzt ein fester Prüfschritt jedes Sweeps. *Drittens:* Der 30.08. hatte sich vorgenommen, mit der Gegenfrage zu beginnen — was hat gehalten? Dabei fielen die **fünf notifizierten Austritte** durch das Raster, ein Verfallsbeleg diesmal, nicht ein Standfestigkeitsbeleg. Das korrigiert die Musterdiagnose vom 30.08.: Es ist keine Schlagseite in *eine* Richtung. Es ist, dass die Belegprüfung in *beide* Richtungen zu flach war. *Viertens, und das ist die eigentliche Versuchung dieser Runde:* Der Sweep liefert mit der Visa-Begründung und dem Whitaker-Papier einen Befund, der stärker ist als alles, was diese Spur je hatte — und er passt nicht in die registrierte These. Der Reflex, sie darauf umzuschreiben, war sofort da, und er wäre als Schärfung durchgegangen. Genau deshalb steht er in der Deutung und **nicht** in der These. Eine Spur, die beim Fallen ihres Belegs den Zuschnitt wechselt, kann nicht fallen. *Konfidenz 63 % → 50 %:* eine von zwei Säulen weg, drei eigene Korrekturen, die zweite Säule (null Festnahmen) unberührt.
+
+> [!question] Sweep 11.10.2026 — die Lesart, die draußen bleibt
+> Das Ultimatum las sich wie die Bestätigung der Lesart, die am 17.09. ausdrücklich draußen blieb. Genau deshalb bleibt
+> sie draußen: Dies ist der erste von drei Sweeps, nicht der dritte. Unbequemer war der Prüfschritt, den die Spur sich
+> selbst verordnet hat. Auf die verbliebene Säule angewandt, schwächt er sie, denn ohne Vollzug sind auch die
+> Haftbefehle gegen Putin geblieben. Er steht darum in der Deutung und nicht in einer Fußnote. Der Überflug fühlte sich
+> beim Fund wie ein Beleg an. Tatsächlich ist er ein Signal ohne Rechtsbruch, und dass die Quelle das selbst einräumt,
+> gehört dazu.
+
 
 ## Stimmenspektrum
 
