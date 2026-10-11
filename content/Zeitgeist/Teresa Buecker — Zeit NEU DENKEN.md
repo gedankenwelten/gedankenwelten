@@ -1,6 +1,6 @@
 ---
 title: "Teresa Bücker — Zeit NEU DENKEN"
-aktualisiert: 2026-04-21
+aktualisiert: 2026-10-11
 date: 2026-04-21
 tags:
   - zeitgeist
@@ -63,7 +63,7 @@ Bückers Ausgangsthese ist radikal einfach: Freiheit ist ohne Zeitwohlstand nich
 
 [▶ 8:26](https://www.youtube.com/watch?v=Ahr4jy3olCI&t=506)
 
-Bücker demontiert einen der meistzitierten Wirtschaftsmythen der aktuellen Debatte: Deutschland werde immer fauler. Die entscheidende Kennzahl ist das **Jahresarbeitszeitvolumen** — die Gesamtstunden aller Erwerbstätigen zusammen. Das ist seit der Wiedervereinigung kontinuierlich gestiegen. Deutschland ist so fleißig wie nie zuvor.
+Bücker demontiert einen der meistzitierten Wirtschaftsmythen der aktuellen Debatte: Deutschland werde immer fauler. Die entscheidende Kennzahl ist das **Jahresarbeitszeitvolumen** — die Gesamtstunden aller Erwerbstätigen zusammen. Das ist seit der Wiedervereinigung kontinuierlich gestiegen, Deutschland so fleißig wie nie zuvor, sagt Bücker. *(Faktencheck: vereinfacht — der Höchststand war 2019, seither stagniert das Volumen)*
 
 Was gesunken ist, ist die *durchschnittliche Wochenarbeitszeit* — und das hat einen statistischen Grund: Mit der stark wachsenden Erwerbsquote der Frauen (die mehrheitlich in Teilzeit arbeiten) sinkt der mathematische Durchschnitt, obwohl insgesamt mehr gearbeitet wird.
 
@@ -170,8 +170,9 @@ Dabei zeigen Umfragen: Menschen in Deutschland teilen grundlegende Wünsche — 
 
 ## Faktencheck
 
-> [!success] Bestätigt — Jahresarbeitszeitvolumen seit Wiedervereinigung gestiegen
-> Das Jahresarbeitszeitvolumen (Gesamtarbeitsstunden aller Erwerbstätigen) ist laut Institut für Arbeitsmarkt- und Berufsforschung (IAB) seit 1991 trotz kurzer Pandemiedelle kontinuierlich gestiegen. Bückers Kernthese ist korrekt. Quelle: [IAB-Kurzbericht](https://www.iab.de/de/informationsservice/presse/presseinformationen/kb2024_13.aspx)
+> [!warning] Vereinfacht — Jahresarbeitszeitvolumen seit Wiedervereinigung gestiegen
+> Die Kernthese trägt, die Steigerung nicht. Nach der IAB-Arbeitszeitrechnung arbeiteten 1991 38,9 Millionen Erwerbstätige zusammen **60,4 Milliarden** Stunden, 2025 46,0 Millionen zusammen **61,3 Milliarden** — fast dieselbe Arbeit, verteilt auf sieben Millionen Menschen mehr, darum sinkt die Stundenzahl pro Kopf (Teilzeit), nicht der Fleiß. „Kontinuierlich gestiegen“ und „so fleißig wie nie“ stimmen aber nicht: Zwischendurch lag das Volumen unter dem Wert von 1991, der **Höchststand war 2019 mit 62,1 Milliarden**, seither stagniert es; das IAB selbst schreibt, „die Zeit der Rekorde ist vorbei“. Das Faulheits-Narrativ widerlegt die Zahl trotzdem. *(Korrigiert am 11.10.2026, vorher „Bestätigt“; → [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]], dort die Reihe.)*
+> Quelle: [IAB — Arbeitszeitrechnung 2025](https://iab.de/presseinfo/ergebnisse-der-iab-arbeitszeitrechnung-fuer-das-jahr-2025-teilzeitbeschaeftigte-arbeiteten-132-millionen-stunden/) · [IAB-Kurzbericht 13/2024](https://www.iab.de/de/informationsservice/presse/presseinformationen/kb2024_13.aspx)
 
 > [!success] Bestätigt — Durchschnittliche Vollzeitstunden bei ~42–43 Stunden/Woche
 > Laut Statistischem Bundesamt liegt die tatsächlich geleistete Wochenarbeitszeit von Vollzeitbeschäftigten in Deutschland konstant bei 41–43 Stunden — inklusive Überstunden. Keine Veränderung seit Jahren. Quelle: [Destatis Arbeitszeit](https://www.destatis.de/DE/Themen/Arbeit/Arbeitsmarkt/Qualitaet-Arbeit/Dimension-4/arbeitszeit-vollzeit.html)

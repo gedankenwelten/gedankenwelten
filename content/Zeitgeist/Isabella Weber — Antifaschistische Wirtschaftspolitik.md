@@ -1,7 +1,7 @@
 ---
 title: "Isabella Weber — Antifaschistische Wirtschaftspolitik"
 date: 10.10.2026
-aktualisiert: 2026-10-10
+aktualisiert: 2026-10-11
 raetsel: "Erst verkaufte die Stadt das Schulhaus. Dann mietete sie es zurück."
 description: "Eine Ökonomin holt den Gründungskonsens von 1945 zurück: Wer die Grundbedürfnisse dem Markt überlässt, überlässt die Wut den Rechten. Drei Parteien nicken, die Moderatorin widerspricht."
 tags:
@@ -299,7 +299,7 @@ Reißen kann die Kette an ihrem Anfang. Am stärksten zieht es offenbar die nach
 > Quelle: [taz: Viel Geld für ein Jawort](https://taz.de/Viel-Geld-fuer-ein-Jawort/!459790/) · [MieterEcho: 15 Jahre GSW-Verkauf](https://bmgev.de/mieterecho/artikel/15-jahre-gsw-verkauf) · [berlin.de: amtliches Ergebnis des Volksentscheids](https://www.berlin.de/wahlen/historie/volksbegehren-und-volksentscheide/deutsche-wohnen-und-co-enteignen/amtliche-mitteilungen__ve.pdf)
 
 > [!warning] Vereinfacht — Vergesellschaftung „gut finanzierbar“ für 13,5 Milliarden
-> **Weber** [▶ 84:18](https://www.youtube.com/watch?v=vdgvOei1em0&t=5058): Die IMK-Zahl stimmt, die Studie vom September 2026 setzt rund 13,5 Milliarden für etwa 210.000 Wohnungen an, ein Ertragswert bei leistbaren Mieten; Autoren sind Dullien, Kaczmarczyk, Krebs und Truger, die Nähe benennt Weber offen. Unerwähnt bleibt die Spanne der Studie von rund 10 bis 36 Milliarden je nach Bewertungsmethode, und der Landesrechnungshof hält Entschädigungen über 11 Milliarden für zwangsläufig defizitär. „Gut finanzierbar“ gilt am günstigen Ende einer umstrittenen Spanne; das Gerichtsrisiko, das Audretsch benennt, kommt hinzu.
+> **Weber** [▶ 84:18](https://www.youtube.com/watch?v=vdgvOei1em0&t=5058): Die IMK-Zahl stimmt, die Studie vom September 2026 setzt rund 13,5 Milliarden für etwa 210.000 Wohnungen an, ein Ertragswert bei leistbaren Mieten; Autoren sind Dullien, Kaczmarczyk, Krebs und Truger, die Nähe benennt Weber offen. Unerwähnt bleibt die Spanne der Studie von rund 10 bis 36 Milliarden je nach Bewertungsmethode, und der Landesrechnungshof erwartet schon bei 8 bis 11 Milliarden „unweigerlich“ Defizite in der Bewirtschaftung, die höhere Mieten oder Landeszuschüsse ausgleichen müssten ([taz](https://taz.de/Neues-Gutachten-zu-Enteignung/!5993681/)). „Gut finanzierbar“ gilt am günstigen Ende einer umstrittenen Spanne; das Gerichtsrisiko, das Audretsch benennt, kommt hinzu.
 > Quelle: [Böckler: Vergesellschaftung von Wohnbeständen](https://www.boeckler.de/de/pressemitteilungen-2675-vergesellschaftung-von-wohnbestaenden-79118.htm) · [Böckler Impuls 16/2026](https://www.boeckler.de/data/Impuls_2026_16_S4-5.pdf)
 
 > [!success] Bestätigt — 2030 fließen rund 40 Prozent des Bundeshaushalts in Rüstung und Zinsen

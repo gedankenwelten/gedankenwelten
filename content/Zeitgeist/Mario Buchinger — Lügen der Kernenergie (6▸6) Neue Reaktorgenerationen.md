@@ -1,7 +1,7 @@
 ---
 date: 2026-03-27
 title: "Mario Buchinger — Lügen der Kernenergie (6/6): Neue Reaktorgenerationen lösen alle Probleme"
-aktualisiert: 2026-04-05
+aktualisiert: 2026-10-11
 tags:
   - zeitgeist
   - kernenergie
@@ -114,7 +114,7 @@ Das Grundproblem all dieser Technologien:
 **Buchinger nennt SMR konsequent „PowerPoint-Reaktoren".**
 
 **Wirtschaftlichkeitsproblem:**
-- Für Wirtschaftlichkeit müssten optimistisch gerechnet **~5.000 Einheiten** gebaut werden
+- Für Wirtschaftlichkeit müssten optimistisch gerechnet **~5.000 Einheiten** gebaut werden *(Faktencheck: vereinfacht — die Schätzungen reichen von rund 17 bis in die Tausende, je nach Lernrate)*
 - Weltweit gibt es aktuell ~400 Reaktoren — eine SMR-Welt würde eine **Verzehnfachung** bedeuten
 - Schwedens Plan für 5–10 neue AKW schrumpfte bereits auf maximal 5 SMRs — und fand **keine privaten Investoren**
 
@@ -189,8 +189,9 @@ Die sechs behandelten Lügen im Überblick:
 > [!success] Bestätigt: NuScale-Insolvenz 2023
 > Das US-amerikanische SMR-Startup NuScale Power scheiterte 2023: Das geplante UAMPS-Projekt in Idaho wurde abgebrochen, die Aktie kollabierte. NuScale meldete zwar nicht formell Insolvenz an, stellte aber sein einziges kommerzielles Projekt ein und entließ einen Großteil der Belegschaft. Der faktische Zusammenbruch des Hoffnungsträgers ist belegt.
 
-> [!success] Bestätigt: ~5.000 SMRs für Wirtschaftlichkeit
-> Diverse Studien (u.a. University of British Columbia 2022, OECD/NEA) kommen zu ähnlichen Schlüssen: Skaleneffekte bei SMRs erfordern eine sehr große Stückzahl — Schätzungen zwischen 1.000 und 5.000 Einheiten — um die Kosten gegenüber konventionellen AKW zu senken. Die ~400-Reaktoren-Weltflotte als Ausgangspunkt für eine Verzehnfachung ist korrekt.
+> [!warning] Vereinfacht: ~5.000 SMRs für Wirtschaftlichkeit
+> Dass SMR nur über große Stückzahlen billiger werden können, ist Konsens — *wie* groß, ist es nicht, und die Spanne ist riesig. Die britische Studie für das Energieministerium DECC (2016) sieht Kostenparität mit großen Reaktoren schon bei rund 5 GWe kumulierter Leistung und 8 % Lernrate, bei 300 MW also etwa **17 Einheiten** (Spanne von 2 GWe bei 10 % bis über 15 GWe bei 5 % Lernrate). Das BASE nennt „im Mittel **3000** SMR“. Der Abstand entsteht fast nur aus der angenommenen Lernrate — und die war bei Kernkraft historisch oft sogar negativ (Frankreichs Ausbau wurde mit jedem Reaktor teurer, Grubler 2010). „1.000 bis 5.000“ ist also die pessimistische Lesart, nicht der Befund; Buchingers Skepsis trägt, die Zahl als Gewissheit nicht. Dass ~400 Reaktoren die heutige Weltflotte sind, stimmt. *(Korrigiert am 11.10.2026, vorher „Bestätigt“; → [[Zeitgeist/Akkudoktor — SMR und drei Versprechen|Akkudoktor — SMR und drei Versprechen]], dort die Rechnung.)*
+> Quelle: [DECC/EY — Small modular reactors: Can building nuclear power become more cost-effective? (2016)](https://assets.publishing.service.gov.uk/media/5a8244b8ed915d74e6236aef/TEA_Projects_5-7_-_SMR_Cost_Reduction_Study.pdf) · [BASE — Small Modular Reactors](https://www.base.bund.de/de/nukleare-sicherheit/kerntechnik/small-modular-reactors/small-modular-reactors_inhalt.html) · [Grubler 2010, *Energy Policy* — doi:10.1016/j.enpol.2010.05.003](https://doi.org/10.1016/j.enpol.2010.05.003)
 
 > [!success] Bestätigt: Schwedens SMR-Pläne fanden keine Investoren
 > Schwedens konservative Regierung plante 2–10 neue Kernkraftwerke; die Pläne wurden auf maximal 2–3 SMRs zurückgestuft. Private Investoren fehlen; staatliche Finanzierung ist umstritten. Stand 2024: kein einziger SMR-Bau begonnen.

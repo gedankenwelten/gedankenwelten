@@ -1,7 +1,7 @@
 ---
 title: "Jens-Christian Wagner — Buchenwald und deutsche Erinnerung"
 date: 20.07.2026
-aktualisiert: 2026-08-03
+aktualisiert: 2026-10-11
 description: "Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist."
 tags:
   - zeitgeist
@@ -58,7 +58,7 @@ Diese Erkenntnis ist auch Wagners eigene Ursprungsgeschichte: 1987 begann er in 
 
 [▶ 13:42](https://www.youtube.com/watch?v=cj3_gPxifPk&t=822) — Warum tat sich Deutschland vier Jahrzehnte so schwer? Wagner seziert die Entlastungserzählungen beider deutscher Staaten. Die DDR erzählte den Faschismus als „Herrschaft der aggressivsten Kreise des Monopolkapitals" — und die Monopolkapitalisten waren ja alle in den Westen gegangen: „Die Blutspur führt nach Bonn", hieß die erste Buchenwald-Ausstellung. Der Westen erzählte von der „kleinen Clique" von Hardcore-Verbrechern, vom Befehlsnotstand — und pflegte parallel den eigenen Opferdiskurs: Luftkrieg, Flucht, Vertreibung, Teilung.
 
-Den Befehlsnotstand zerlegt Wagner mit Christopher Brownings Studie über das Hamburger Reserve-Polizeibataillon 101: Vor den Massenerschießungen in Polen stellte der Kommandeur die Teilnahme frei. Etwa zehn Prozent traten weg — und ihnen geschah nichts, außer dass sie nicht befördert wurden. Am nächsten Tag wieder zehn Prozent, obwohl nun alle wussten, dass die Verweigerung folgenlos blieb. Die anderen neunzig mordeten. [▶ 15:59](https://www.youtube.com/watch?v=cj3_gPxifPk&t=959)
+Den Befehlsnotstand zerlegt Wagner mit Christopher Brownings Studie über das Hamburger Reserve-Polizeibataillon 101: Vor den Massenerschießungen in Polen stellte der Kommandeur die Teilnahme frei. Etwa zehn Prozent traten weg — und ihnen geschah nichts, außer dass sie nicht befördert wurden. Am nächsten Tag wieder zehn Prozent, obwohl nun alle wussten, dass die Verweigerung folgenlos blieb. Die anderen neunzig mordeten. *(Faktencheck: vereinfacht — es traten etwa ein Dutzend von rund 500 heraus, weitere entzogen sich erst während der Erschießung)* [▶ 15:59](https://www.youtube.com/watch?v=cj3_gPxifPk&t=959)
 
 > *„Sehr, sehr viele, die sich an den NS-Verbrechen beteiligt haben, haben das gar nicht auf Befehl getan, sondern eigeninitiativ. Es gab damals einen Spruch: dem Führer entgegenarbeiten — etwas tun, von dem man ahnt, dass es dem Führer gefallen könnte, ohne dass er es überhaupt befehlen muss."* [▶ 17:29](https://www.youtube.com/watch?v=cj3_gPxifPk&t=1049)
 
@@ -144,8 +144,9 @@ Und falls die AfD in Thüringen regiert? Wagner erwartet keine Schließung über
 > [!success] Bestätigt — Buchenwald: Verschleppte und Tote
 > Etwa 280.000 Menschen (davon ~30.000 Frauen) wurden nach Buchenwald verschleppt, rund 56.000 starben. Die Gedenkstätte dokumentiert 277.800 Häftlinge, davon 28.230 Frauen und über 56.000 Tote — Wagners gerundete Zahlen treffen den offiziellen Bestand präzise. Quelle: [Fakten und Zahlen zum KZ Buchenwald — Gedenkstätte Buchenwald](https://www.buchenwald.de/geschichte/chronologie/konzentrationslager/Zahlen-und-Fakten)
 
-> [!success] Bestätigt — Browning und der Mythos vom Befehlsnotstand
-> Christopher Brownings Studie zum Reserve-Polizeibataillon 101 zeigt: Vor den Erschießungen (Józefów, Juli 1942) stellte der Kommandeur die Teilnahme frei, ein kleiner Teil trat weg — ohne Sanktion außer ausbleibender Beförderung. Wagners „~10 %, keine Strafe" ist die etablierte Kernaussage des Standardwerks *Ganz normale Männer*. Der Befehlsnotstand gilt in der Forschung als Nachkriegs-Entlastungslegende. Quelle: [Ordinary Men — Reserve Police Battalion 101 (Wikipedia)](https://en.wikipedia.org/wiki/Ordinary_Men)
+> [!warning] Vereinfacht — Browning und der Mythos vom Befehlsnotstand
+> Der Kern trägt: Vor der Erschießung in Józefów (13. Juli 1942) stellte Major Trapp den rund 500 Männern des Reserve-Polizeibataillons 101 die Teilnahme frei, und wer heraustrat, wurde nicht bestraft — der Befehlsnotstand gilt in der Forschung als Nachkriegs-Entlastungslegende. Die Zahlen aber nicht: Am Morgen trat bei Browning **einer** vor, danach **zehn oder zwölf** weitere — rund 2–3 %, nicht zehn Prozent. Erst *während* der Aktion baten weitere um Ablösung oder entzogen sich, nach Brownings Schätzung zehn bis zwanzig Prozent der Schützen. „Die anderen neunzig mordeten“ verschmilzt beides und lässt die Zwischenzone weg. *(Korrigiert am 11.10.2026, vorher „Bestätigt“; → [[Denker/Harald Welzer — Toetungsarbeit|Welzer — Tötungsarbeit]], dort die genaue Rechnung.)*
+> Quelle: Browning, *Ganz normale Männer* (1992/93), Kap. 7 · [Józefów Massacre (Wikipedia)](https://en.wikipedia.org/wiki/J%C3%B3zef%C3%B3w_Massacre)
 
 > [!success] Bestätigt — Umbenennung Ettersberg → Buchenwald (Juli 1937)
 > Nach Protest der Weimarer NS-Kulturgemeinde — der Ettersberg sei mit Goethe und der Weimarer Klassik verbunden — wurde „K.L. Ettersberg" am 28. Juli 1937 in „K.L. Buchenwald" geändert. Der Protest richtete sich ausdrücklich nur gegen den Namen, nicht gegen das Lager. Quelle: [KZ Buchenwald (Wikipedia)](https://de.wikipedia.org/wiki/KZ_Buchenwald) · [Weimar im Nationalsozialismus](https://www.weimar-im-ns.de/weimar-und-buchenwald/konzentrationslager-buchenwald)

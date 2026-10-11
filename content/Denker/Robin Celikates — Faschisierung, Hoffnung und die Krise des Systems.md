@@ -386,6 +386,10 @@ Bei der Gewalt wird es eng für ihn. Omar Wasow hat für die Bürgerrechtsjahre 
 
 ## Verbindungen
 
+### → [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
+
+Woher die Zahl kommt, die Celikates hier als Tatsache nimmt: Linartas hat die Erbengesellschaft zu ihrem Thema gemacht, und an ihr hängt der Streit um „über die Hälfte“ gegen „etwa ein Drittel“. Beide Notes führen ihn jetzt mit denselben Studien.
+
 ### → [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)|Eva von Redecker — Über den neuen Faschismus]]
 
 Dieselbe Bank bei Tilo Jung, ein halbes Jahr früher, und der Begriff, den Tilo hier einwirft: Phantombesitz. Redecker erklärt den neuen Faschismus aus einer entfesselten Eigentumslogik, Celikates aus einer Krise, deren Schuld nach unten verschoben wird. Beide greifen zum Doppelstaat. Am schärfsten reiben sie sich bei der Hoffnung: Redecker „kommt ganz gut aus ohne den Hoffnungsbegriff“ und setzt auf Sinn, Celikates macht Hoffnung zur Pflicht derer, die sich Verzweiflung leisten könnten.

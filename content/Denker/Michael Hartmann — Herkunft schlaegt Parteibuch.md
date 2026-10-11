@@ -290,7 +290,7 @@ Der Streit liegt in der Zeitachse. Crouch datiert die Entleerung auf den Neolibe
 
 ### → [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
 
-Linartas zitiert Hartmann bereits, aber die Verbindung trägt weiter als das Zitat. Sie erklärt, was materiell weitergegeben wird — über die Hälfte aller Vermögen aus Erbschaft. Hartmanns Befragung zeigt, dass die Prägung das Geld überlebt: Arbeiterkinder auf Spitzengehältern stimmten mit drei zu zwei für höhere Vermögenssteuern, gegen ihr eigenes Interesse.
+Linartas zitiert Hartmann bereits, aber die Verbindung trägt weiter als das Zitat. Sie erklärt, was materiell weitergegeben wird — nach Piketty-Lesart über die Hälfte aller Vermögen, nach den Bundesbank-Daten eher ein Drittel, in jedem Fall höchst ungleich verteilt. Hartmanns Befragung zeigt, dass die Prägung das Geld überlebt: Arbeiterkinder auf Spitzengehältern stimmten mit drei zu zwei für höhere Vermögenssteuern, gegen ihr eigenes Interesse.
 
 Die eigentliche Reibung ist politisch. Linartas' Grunderbe müsste von genau den Leuten beschlossen werden, unter denen Hartmann in der Wirtschaftselite ein Verhältnis von neun zu zwei dagegen gemessen hat — und unter den Spitzenpolitikern kein einziges Bürgerkind dafür. Er liefert damit die Erklärung, warum ihr Vorschlag empirisch überzeugt und parlamentarisch nicht ankommt.
 

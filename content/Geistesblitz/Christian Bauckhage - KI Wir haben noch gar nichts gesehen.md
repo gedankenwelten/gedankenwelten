@@ -177,6 +177,10 @@ Dass eine utopische Auflösung wahrscheinlich sei, glaubt er nicht — *„weil 
 
 ## Verbindungen
 
+### → [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
+
+Derselbe Durchbruch aus der Sicht des Hirnforschers: Spitzer erzählt AlphaFold als Beispiel dafür, was eine KI kann, die anders als ein Computer lernt. Seine Ausgangszahl (50 Strukturen in 50 Jahren) ist falsch, die Pointe nicht.
+
 ### → [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]
 
 Die stärkste Brücke: Zwei Spitzenwissenschaftler, deren eigenes Fach von der Maschine eingeholt wird — Bauckhages AlphaFold und die widerlegte Erdős-Vermutung sind das, was Ono als „Wissen wird billig" erlebt. Beide ziehen dieselbe Bildungs-Konsequenz: Der 17-Minuten-Prompt und die China-Studie sind der empirische Beleg für Onos „Urteil wird teuer" — Tiefenexpertise wandert an die KI, dem Menschen bleibt das Prüfen und die gute Frage.

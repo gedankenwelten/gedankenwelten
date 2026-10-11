@@ -197,7 +197,7 @@ Göpel/Truger fragen: Wie kann ökonomisches Wachstum innerhalb planetarer Grenz
 
 ### → [[Mark Benecke — Umwelt-Messungen Sommer 2026]]
 
-Benecke kontrastiert nationale Fortschritte mit der globalen Realität: Auch massive Aufforstungen ändern nichts daran, dass wir weltweit im Worst-Case-Szenario der IPCC-Modelle liegen.
+Benecke kontrastiert nationale Fortschritte mit der globalen Realität: Auch massive Aufforstungen ändern nichts daran, dass die Erwärmung schneller läuft als erwartet — „im Worst Case“, sagt Benecke; der Faktencheck dort präzisiert: die Emissionen liegen unter SSP5-8.5.
 
 ### → [[erneuerbare tv — Sommerwaerme im Erdreich]]
 

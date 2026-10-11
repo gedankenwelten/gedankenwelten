@@ -22,6 +22,66 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Zeitgeist
+
+> **11.10.** — [[Zeitgeist/Jens-Christian Wagner — Buchenwald und deutsche Erinnerung|Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
+>
+> Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist.
+
+> **11.10.** — [[Zeitgeist/Teresa Buecker — Zeit NEU DENKEN|Teresa Bücker — Zeit NEU DENKEN]]
+
+> **11.10.** — [[Zeitgeist/Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)|Staiy — News Strafgerichtshof, Verius-Milliarde und Kanzlerschweigen (19.08.2026)]]
+>
+> Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
+
+> **11.10.** — [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (6▸6) Neue Reaktorgenerationen|Mario Buchinger — Lügen der Kernenergie (6/6): Neue Reaktorgenerationen lösen alle Probleme]]
+
+> **11.10.** — [[Zeitgeist/Mark Benecke — Umwelt-Messungen Sommer 2026|Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026]]
+
+> → *24 weitere in* [[Zeitgeist]]
+
+### Denker
+
+> **11.10.** — [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
+
+> **11.10.** — [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
+
+> **10.10.** — [[Denker/Hannah Arendt — Die Banalität des Bösen|Hannah Arendt — Die Banalität des Bösen]]
+>
+> Das Böse braucht keine Dämonen, nur Menschen, die aufhören, vom Standpunkt anderer zu denken: Arendts Befund aus Jerusalem, und was die Forschung seither davon übrig ließ.
+
+> **10.10.** — [[Denker/Hannah Arendt — Zur Person|Hannah Arendt — Zur Person (im Gespräch mit Günter Gaus, 1964)]]
+>
+> „Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann.
+
+> **10.10.** — [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
+>
+> Während die Opfer arbeiteten, um zu überleben, nannten die Täter ihr Morden Arbeit: Welzer zeigt, wie gewöhnliche Männer das Töten als Drecksarbeit erträglich machten.
+
+> → *6 weitere in* [[Denker]]
+
+### Geistesblitz
+
+> **11.10.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
+
+> **08.10.** — [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
+>
+> Eine Ziffer von eins bis sechs entscheidet über Studienplätze und Selbstbilder. Ein Schulrat will sie abschaffen, ein Verbandspräsident gerechter machen, und beide sind sich in der Diagnose näher, als sie zugeben.
+
+> **07.10.** — [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
+>
+> Wer mit dreißig einwandert, wird selten noch straffällig; wer jahrelang geduldet wartet, eher. Ein Kriminologe über Migration und Kriminalität, jenseits von Ressentiment und Beschwichtigung.
+
+> **04.10.** — [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]]
+>
+> Ob eine Steuer, ein Etikett oder ein neues Rezept: Keines wirkt allein, und jedes verändert, was die anderen bewirken. Eine Konsumforscherin über das Für und Wider, wenn der Staat beim Essen mitlenkt.
+
+> **04.10.** — [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel|Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
+>
+> Wir verarbeiten unser Essen, seit wir Menschen sind. Neu ist eine Nahrung aus Pulvern, Ölen und Zusatzstoffen, die schneller satt macht als der Körper es merkt — und an der vor allem die Rendite hängt.
+
+> → *1 weitere in* [[Geistesblitz]]
+
 ### Spuren
 
 > **11.10.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
@@ -45,54 +105,6 @@ Die Gedankenwelten (luc)
 > Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
 
 > → *6 weitere in* [[Spuren]]
-
-### Zeitgeist
-
-> **10.10.** — [[Zeitgeist/Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)|Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
->
-> Eine Wirtschaftsweise verteidigt den Preis als das Signal, das eine Gesellschaft durch die Knappheit lenkt. Dreieinhalb Stunden lang will der Interviewer wissen, für wen es arbeitet.
-
-> **10.10.** — [[Zeitgeist/Susan Neiman — Nennen wir es boese|Susan Neiman — Nennen wir es böse]]
->
-> Wer Moral für etwas hält, das nur Idioten glauben, hat schon verloren, bevor er streitet — Susan Neiman über die Ideologie hinter Trump und eine Linke, die sich vor dem Wort Gerechtigkeit fürchtet.
-
-> **10.10.** — [[Zeitgeist/Dirk Specht — Das Ende des Erdoels beginnt jetzt|Dirk Specht — Das Ende des Erdöls beginnt jetzt]]
->
-> Hormus schließt, und Asien verbietet und ermöglicht zugleich, China füllt die Tanks, Deutschland zahlt einen Tankrabatt. Ein Ökonom sieht die Wende kommen, auch gegen die eigene Regierung.
-
-> **10.10.** — [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Tillschneider vor der Synagoge in Halle]]
->
-> Wer einen Anschlag zum Amoklauf erklärt, muss den Täter nicht verstehen — und hat beim Gedenken trotzdem einen Platz in der ersten Reihe verlangt.
-
-> **10.10.** — [[Zeitgeist/Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]]
->
-> Zwei Ostdeutsche, beide Jahrgang 1967, lesen dieselben dreißig Jahre gegensätzlich: Der eine sieht einen Osten, den der Westen erfunden hat, der andere einen, der in der Freiheit nie ankam.
-
-> → *18 weitere in* [[Zeitgeist]]
-
-### Denker
-
-> **10.10.** — [[Denker/Hannah Arendt — Die Banalität des Bösen|Hannah Arendt — Die Banalität des Bösen]]
->
-> Das Böse braucht keine Dämonen, nur Menschen, die aufhören, vom Standpunkt anderer zu denken: Arendts Befund aus Jerusalem, und was die Forschung seither davon übrig ließ.
-
-> **10.10.** — [[Denker/Hannah Arendt — Zur Person|Hannah Arendt — Zur Person (im Gespräch mit Günter Gaus, 1964)]]
->
-> „Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann.
-
-> **10.10.** — [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
->
-> Während die Opfer arbeiteten, um zu überleben, nannten die Täter ihr Morden Arbeit: Welzer zeigt, wie gewöhnliche Männer das Töten als Drecksarbeit erträglich machten.
-
-> **10.10.** — [[Denker/Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft|Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
->
-> Ein Tisch, an dem alle sitzen und jeder anderes sieht: Arendts Begriff des Politischen, und was geschieht, wenn Masse, Ideologie und Terror ihn zerstören. Dresden 2018.
-
-> **08.10.** — [[Denker/Roberto Simanowski — Sprachmaschinen|Roberto Simanowski — Sprachmaschinen und der vierfache Souveränitätsverlust]]
->
-> Wer sich das Schreiben abnehmen lässt, verliert die Übung und die Anerkennung — und überhört den Akzent, mit dem die Maschine ihm die Welt erzählt.
-
-> → *4 weitere in* [[Denker]]
 
 ### Panorama
 
@@ -131,28 +143,6 @@ Die Gedankenwelten (luc)
 > **29.08.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
 >
 > Sechs Sätze aus einem Jahrhundert der Trümmer — und alle sechs handeln von derselben Flucht, der vor sich selbst. Von Sartres Freiheit bis Simone Weils Arbeit am Möglichen.
-
-### Geistesblitz
-
-> **08.10.** — [[Geistesblitz/Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten|Björn Nölte und Heinz-Peter Meidinger — Besser lernen ohne Noten?]]
->
-> Eine Ziffer von eins bis sechs entscheidet über Studienplätze und Selbstbilder. Ein Schulrat will sie abschaffen, ein Verbandspräsident gerechter machen, und beide sind sich in der Diagnose näher, als sie zugeben.
-
-> **07.10.** — [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
->
-> Wer mit dreißig einwandert, wird selten noch straffällig; wer jahrelang geduldet wartet, eher. Ein Kriminologe über Migration und Kriminalität, jenseits von Ressentiment und Beschwichtigung.
-
-> **04.10.** — [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]]
->
-> Ob eine Steuer, ein Etikett oder ein neues Rezept: Keines wirkt allein, und jedes verändert, was die anderen bewirken. Eine Konsumforscherin über das Für und Wider, wenn der Staat beim Essen mitlenkt.
-
-> **04.10.** — [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel|Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
->
-> Wir verarbeiten unser Essen, seit wir Menschen sind. Neu ist eine Nahrung aus Pulvern, Ölen und Zusatzstoffen, die schneller satt macht als der Körper es merkt — und an der vor allem die Rendite hängt.
-
-> **04.10.** — [[Geistesblitz/Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham|Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham?]]
->
-> Wer sich schämt, kann nicht großzügig sein: Es geht ums nackte Überleben. Ein Schamforscher über die Wächterin der Würde, über Hitlers Blick und die Kunst, Scham zuzumuten, ohne zu beschämen.
 
 ### GoodNews
 

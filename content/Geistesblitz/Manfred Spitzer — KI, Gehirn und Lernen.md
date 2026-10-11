@@ -1,7 +1,7 @@
 ---
 title: Manfred Spitzer — KI, Gehirn und Lernen
 date: 2026-03-22
-aktualisiert: 2026-03-22
+aktualisiert: 2026-10-11
 tags:
   - geistesblitz
   - neurowissenschaften
@@ -136,7 +136,11 @@ Go-Experten studieren seitdem, was die Maschine macht. *Wir lernen jetzt von der
 
 **Proteinfaltung:** Alle Lebensprocesse werden von Eiweißmolekülen erledigt. Deren Form bestimmt ihre Funktion. Ein mittleres Protein hat 300 Aminosäuren → $20^{300}$ mögliche Faltungsweisen (mehr als Atome im Universum). Unmöglich zu berechnen.
 
-In 50 Jahren mühsamer Experimentalarbeit: 50 bekannte Proteinstrukturen.
+In 50 Jahren mühsamer Experimentalarbeit: 50 bekannte Proteinstrukturen, sagt Spitzer [▶ 94:28](https://www.youtube.com/watch?v=QoERJOhA5jg&t=5668). *(Faktencheck: falsch)*
+
+> [!danger] Falsch — „50 Eiweiße in 50 Jahren“
+> Vor AlphaFold lagen nach Jahrzehnten experimenteller Arbeit (Röntgenkristallographie, NMR, Kryo-EM) rund **200.000** Proteinstrukturen in der Protein Data Bank — das Viertausendfache. Spitzers Pointe trägt trotzdem, nur mit der richtigen Zahl: Die AlphaFold-Datenbank stellt inzwischen über **200 Millionen** vorhergesagte Strukturen bereit, also nahezu jedes bekannte Protein. *(Ergänzt am 11.10.2026; → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Bauckhage]], dort derselbe Durchbruch aus dem Fach.)*
+> Quelle: [RCSB Protein Data Bank — Statistik](https://www.rcsb.org/stats/growth/growth-released-structures) · [Nobelprize.org — Chemie 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 
 Demis Hassabis (DeepMind, 2014 für 400 Mio. £ an Google verkauft):
 - 2020: **24 von 43** bei Wettbewerb richtig (zweitbester: 14)
@@ -212,6 +216,10 @@ Antidepressiva wirken unter anderem, indem sie die Neurogenese im Hippocampus f�
 ---
 
 ## Verbindungen in der Gedankenwelt
+
+### → [[Geistesblitz/Christian Bauckhage - KI Wir haben noch gar nichts gesehen|Christian Bauckhage — KI: Wir haben noch gar nichts gesehen]]
+
+AlphaFold zweimal erzählt: Spitzer als Hirnforscher, der staunt, Bauckhage als KI-Forscher, der den Durchbruch einordnet. Bei Bauckhage stimmt auch die Ausgangszahl — rund 200.000 Strukturen vor der KI, nicht 50.
 
 ### → [[Erich Fromm — Haben oder Sein]]
 

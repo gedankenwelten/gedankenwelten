@@ -306,7 +306,7 @@ Hochschilds Stolz-Paradox ist die Kehrseite von Bärfuss' Ehrlichkeit. Wer seine
 
 ### → [[Martyna Linartas — Unverdiente Ungleichheit]]
 
-Linartas beziffert, was Bärfuss erzählt: über die Hälfte der Vermögen in Deutschland ist ererbt, sechs Generationen dauert ein Aufstieg aus der Armut in die Mitte. Sein ausgeschlagenes Erbe — Schulden und eine Bananenkiste — ist der Negativabdruck der Erbengesellschaft. In der Konsequenz gehen beide auseinander: Linartas will das Erbe fiskalisch umverteilen (Grunderbe), Bärfuss verschiebt die Frage auf das, was niemandem gehört und darum von keiner Erbschaftsteuer erfasst wird.
+Linartas beziffert, was Bärfuss erzählt: ein großer Teil der Vermögen ist ererbt (nach Piketty-Lesart über die Hälfte, nach den Bundesbank-Daten eher ein Drittel), sechs Generationen dauert ein Aufstieg aus der Armut in die Mitte. Sein ausgeschlagenes Erbe — Schulden und eine Bananenkiste — ist der Negativabdruck der Erbengesellschaft. In der Konsequenz gehen beide auseinander: Linartas will das Erbe fiskalisch umverteilen (Grunderbe), Bärfuss verschiebt die Frage auf das, was niemandem gehört und darum von keiner Erbschaftsteuer erfasst wird.
 
 ### → [[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
 

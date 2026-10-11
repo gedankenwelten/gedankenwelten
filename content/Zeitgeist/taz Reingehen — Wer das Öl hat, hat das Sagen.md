@@ -1,7 +1,7 @@
 ---
 date: 2026-03-31
 title: "taz Reingehen — Wer das Öl hat, hat das Sagen"
-aktualisiert: 2026-04-05
+aktualisiert: 2026-10-11
 tags:
   - zeitgeist
   - geopolitik
@@ -162,9 +162,9 @@ Ein Boykott von Bangladesch-Produkten hilft nicht — er würde nur Arbeitsplät
 > Deutschland ist tatsächlich der **größte europäische Abnehmer** bangladeschischer Bekleidung. Allerdings lagen die Importe allein Jan–Sep 2023 bei ~5,6 Mrd. Euro — das Gesamtjahresvolumen liegt eher bei **7+ Mrd. Euro**. „Über 4 Mrd." ist zu konservativ; die Marktposition stimmt, der Betrag ist deutlich unterschätzt.
 > Quelle: [Destatis: Importe von Bekleidung Jan–Sep 2023](https://www.destatis.de/DE/Presse/Pressemitteilungen/2023/11/PD23_434_51.html)
 
-> [!danger] Falsch — Erneuerbare Energien decken nur 10% des deutschen Endenergieverbrauchs
-> Laut Umweltbundesamt lag der Anteil erneuerbarer Energien am **Bruttoendenergieverbrauch** 2023 bei **22%** (2022: 20,8%). Im Stromsektor allein: über 51%. Herrmanns 10%-Claim liegt fast doppelt unter dem realen Wert — selbst wenn man Wärme und Verkehr isoliert betrachtet, ist 10% eine starke Unterschätzung. Der Grundgedanke (Transformation ist früh) bleibt richtig, die Zahl ist falsch.
-> Quelle: [Umweltbundesamt: Erneuerbare Energien 2023 (22%)](https://www.umweltbundesamt.de/themen/erneuerbare-energien-nehmen-2023-weiter-fahrt-auf)
+> [!success] Bestätigt — Wind und Sonne decken nur rund 10 % des deutschen Endenergiebedarfs
+> Die Zahl stimmt, sie wird nur oft gegen die falsche Größe gehalten. 2025 lieferten Windkraft 134 TWh und Photovoltaik 91,6 TWh, zusammen **225,6 TWh**, bei einem Endenergieverbrauch von rund 2.150–2.300 TWh: **9,4–10,5 %**. Die geläufigen Gegenzahlen meinen anderes: **alle** Erneuerbaren zusammen (mit Biomasse, Wasserkraft, Wärme) kamen 2025 auf 23,8 % des Bruttoendenergieverbrauchs, und „über 55 % Ökostrom“ bezieht sich nur auf die Bruttostromerzeugung — Strom ist rund ein Fünftel der Endenergie. Herrmanns Grundgedanke, dass die Transformation erst am Anfang steht, trägt also mit genau dieser Zahl. *(Korrigiert am 11.10.2026: Hier stand vorher „Falsch“, gerechnet gegen alle Erneuerbaren statt gegen Wind und Sonne. → [[Denker/Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Herrmann — Technisch möglich, ökonomisch unbezahlbar]])*
+> Quelle: [Umweltbundesamt, Erneuerbare Energien 2025](https://www.umweltbundesamt.de/themen/erneuerbare-energien-in-deutschland-wachstum-2025) · [AG Energiebilanzen, Jahresschätzung 2025](https://ag-energiebilanzen.de/energieverbrauch-wird-2025-stagnieren/)
 
 > [!success] Bestätigt — BAFA ist zuständig für das Lieferkettengesetz
 > Gemäß LkSG ist das BAFA die zuständige Vollzugsbehörde. Bestätigt durch BAFA-Website und Bundeswirtschaftsministerium.
@@ -188,7 +188,7 @@ Ein Boykott von Bangladesch-Produkten hilft nicht — er würde nur Arbeitsplät
 
 - [EIA: Strait of Hormuz is chokepoint for 20% of world's oil](https://www.eia.gov/todayinenergy/detail.php?id=7830) — Primärquelle für die Hormus-Zahlen
 - [EIA: One-fifth of global LNG trade flows through the Strait of Hormuz (2024)](https://www.eia.gov/todayinenergy/detail.php?id=65584) — LNG-Dimension
-- [Umweltbundesamt: Erneuerbare Energien nehmen 2023 weiter Fahrt auf](https://www.umweltbundesamt.de/themen/erneuerbare-energien-nehmen-2023-weiter-fahrt-auf) — Korrektur zu Herrmanns 10%-Claim (tatsächlich 22%)
+- [Umweltbundesamt: Erneuerbare Energien nehmen 2023 weiter Fahrt auf](https://www.umweltbundesamt.de/themen/erneuerbare-energien-nehmen-2023-weiter-fahrt-auf) — alle Erneuerbaren 2023: 22 % des Bruttoendenergieverbrauchs; Wind und Sonne allein ≈ 10 % (→ Faktencheck)
 - [FragDenStaat: Ein bisschen Kinderarbeit ist okay (Oktober 2025)](https://fragdenstaat.de/artikel/exklusiv/2025/10/ein-bisschen-kinderarbeit-ist-okay/) — BAFA-Weisung zur Untätigkeit
 - [BAFA: Überblick Lieferkettensorgfaltspflichtengesetz](https://www.bafa.de/DE/Lieferketten/Ueberblick/ueberblick_node.html) — offizielle Zuständigkeitsseite
 - [taz: Test fürs Lieferkettengesetz — Ein Fehler in der Kette](https://taz.de/Test-fuers-Lieferkettengesetz/!6162831/) — Originalartikel zum Nazma-Begum-Fall
@@ -282,3 +282,6 @@ Gleicher Podcast, andere Perspektive: Beide Reingehen-Episoden zeigen wie global
 
 Dass die Wende in der akuten Krise nicht hilft, bestreitet Specht mit Beispielen aus Asien. Der Faktencheck dort zeigt: Schnell reagiert haben die Länder mit Rationierung, die Umstellung selbst braucht Jahre.
 
+### → [[Denker/Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar|Ulrike Herrmann — Technisch möglich, ökonomisch unbezahlbar]]
+
+Dieselbe Stimme, ausführlich: Hier sagt Herrmann den 10-%-Satz im Vorbeigehen, dort baut sie ihn zur Begründung aus, warum grünes Wachstum an der Physik der Umwandlungsketten scheitert. Dort steht auch die Rechnung, die den 10 % recht gibt.

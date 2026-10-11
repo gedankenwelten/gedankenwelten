@@ -326,6 +326,10 @@ Es ist bemerkenswert, dass eine Frau, die neunzig Minuten lang Interessen und Me
 
 ## Verbindungen
 
+### → [[Zeitgeist/taz Reingehen — Wer das Öl hat, hat das Sagen|taz Reingehen — Wer das Öl hat, hat das Sagen]]
+
+Herrmann früher im Jahr, in der Tagesschau-Form: Öl, Gas und die Abhängigkeit von Autokraten, *Geld als Waffe*, die Russland- und die China-Falle. Der 10-%-Satz fällt dort beiläufig — und wurde lange gegen alle Erneuerbaren statt gegen Wind und Sonne gerechnet, bis der Faktencheck am 11.10. auf diese Rechnung umgestellt wurde.
+
 ### → [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
 
 Das Gegenstück aus der Haushaltsdebatte: Sigl-Glöckner und Kaczmarczyk halten Knappheit oft für eine Entscheidung. Herrmann erinnert an die Knappheit, die sich nicht wegbeschließen lässt — und Sigl-Glöckners „zwei statt drei Autos exportieren, dafür genug Pflege“ liegt näher an Herrmanns Planungsdenken, als beide Lager vermuten würden.

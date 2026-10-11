@@ -1,7 +1,7 @@
 ---
 title: "Martyna Linartas — Unverdiente Ungleichheit"
 date: 2026-04-20
-aktualisiert: 2026-04-20
+aktualisiert: 2026-10-11
 tags:
   - denker
   - wirtschaft
@@ -137,8 +137,9 @@ Quelle: [Ungleichheitsforscherin Martyna Linartas über Umverteilung von Reichtu
 > [!success] Bestätigt — Deutschland unter den ungleichsten Demokratien
 > Deutschland gehört zu den Ländern mit der höchsten Vermögensungleichheit unter reichen Demokratien. Quelle: [DIW Berlin — Vermögensverteilung in Deutschland](https://www.diw.de/de/diw_01.c.412115.de/themen_nachrichten/vermoegensverteilung_in_deutschland.html), [Alvaredo et al., World Inequality Report 2022](https://wir2022.wid.world/)
 
-> [!success] Bestätigt — Erbschaften >50% des Privatvermögens
-> Studien von Piketty, Alvaredo und anderen belegen, dass der Erbschaftsanteil am Gesamtvermögen in westlichen Ländern wieder auf über 50% gestiegen ist. Quelle: [Piketty — Capital in the 21st Century](https://www.genialokal.de/Suche/?q=piketty+capital+twenty-first+century), [World Inequality Database](https://wid.world/)
+> [!warning] Vereinfacht — Erbschaften >50% des Privatvermögens
+> Die Zahl hängt an der Methode. Nach der Piketty-Schule ist der Erbanteil am privaten Gesamtvermögen in Europa seit etwa 2010 wieder auf **50–60 %** gestiegen (Alvaredo/Garbinti/Piketty 2017). Für **Deutschland** kommen Bönke, Corneo und Westermeier auf Basis der Bundesbank-Daten auf **etwa ein Drittel**, auch bei reicheren Haushalten nicht systematisch höher — allerdings bilden diese Daten nur die unteren 99 % ab, gerade die großen Vermögen fehlen. Unbestritten ist die ungleiche Verteilung des Erbens: Im reichsten Zehntel haben rund 65 % der Haushalte geerbt, in der unteren Hälfte unter 20 %. „Über die Hälfte“ ist also die eine von zwei Lesarten, nicht der Befund. *(Korrigiert am 11.10.2026, vorher „Bestätigt“ ohne DOI; → [[Denker/Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems|Celikates]], dort derselbe Streit.)*
+> Quelle: [Alvaredo, Garbinti & Piketty 2017 — doi:10.1111/ecca.12233](https://doi.org/10.1111/ecca.12233) · [Bönke, Corneo & Westermeier 2016 — doi:10.1515/pwp-2016-0003](https://doi.org/10.1515/pwp-2016-0003) · [World Inequality Database](https://wid.world/)
 
 > [!success] Bestätigt — 80% Erbschaftsanteil bei Milliardenvermögen
 > Elitenforscher Michael Hartmann belegt dies für Deutschland. Quelle: [Hartmann — Die Abgehobenen (Campus Verlag)](https://www.genialokal.de/Suche/?q=michael+hartmann+abgehobenen)

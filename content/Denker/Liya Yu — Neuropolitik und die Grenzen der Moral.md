@@ -1,6 +1,6 @@
 ---
 title: "Liya Yu — Neuropolitik und die Grenzen der Moral"
-aktualisiert: 2026-04-29
+aktualisiert: 2026-10-11
 date: 2026-04-29
 tags:
   - denker
@@ -58,7 +58,7 @@ Ihr akademischer Weg führte von Hannah Arendt, Carl Schmitt und Leo Strauss üb
 [▶ 14:32](https://www.youtube.com/watch?v=8E-LtCSPon0&t=872) — Ob man mit einem liberalen oder konservativen Gehirn geboren wird, ist die „Million Dollar Question" — noch nicht abschließend beantwortet. Die Forschung ist primär korrelativ (Hirnscans), nicht kausal. Aber die Daten zeigen messbare Unterschiede:
 
 - **Liberales Gehirn:** Der *Anteriore Cinguläre Cortex* (zuständig für Ambiguität) weist mehr graue Gehirnmasse auf
-- **Konservatives Gehirn:** *Amygdala* und *Insula* (zuständig für Gefahrenwahrnehmung, Angst, Ekelreaktion) sind aktiver
+- **Konservatives Gehirn:** *Amygdala* und *Insula* (zuständig für Gefahrenwahrnehmung, Angst, Ekelreaktion) sind aktiver *(Faktencheck: vereinfacht — der Amygdala-Befund ist in großen Replikationen stark geschrumpft)*
 
 [▶ 16:47](https://www.youtube.com/watch?v=8E-LtCSPon0&t=1007) — Es geht nicht darum, ob man „als liberal" oder „als konservativ" geboren wird. Es ist vermutlich ein Mix aus genetischer Veranlagung und Erfahrung. Der entscheidende Punkt: Diese neuronalen Unterschiede beeinflussen, wie wir Realität *wahrnehmen* — und daraus politische Konsequenzen ziehen.
 
@@ -122,8 +122,9 @@ Yu plädiert dafür, diese Grenze nicht durch Moralisierung zu verschieben, sond
 
 ## Faktencheck
 
-> [!success] Bestätigt — Physiologische Unterschiede liberal/konservativ
-> Studien zeigen tatsächlich Unterschiede in Gehirnstruktur und -aktivität zwischen Personen mit liberalen vs. konservativen politischen Einstellungen. Der anteriore cinguläre Cortex (ACC) ist bei Liberalen typischerweise größer, die Amygdala bei Konservativen. Quelle: [Kanai et al. (2011), Current Biology](https://doi.org/10.1016/j.cub.2011.03.017)
+> [!warning] Vereinfacht — Physiologische Unterschiede liberal/konservativ
+> Der Ausgangsbefund steht: Kanai et al. (2011) fanden bei rund 90 Londoner Studierenden einen größeren anterioren cingulären Cortex bei Liberalen und eine größere rechte Amygdala bei Konservativen. Er hat sich aber nicht gehalten, wie er erzählt wird. Eine große MRT-Replikation mit rund 900 Teilnehmenden fand den Amygdala-Zusammenhang nur noch winzig (Petropoulos Petalas et al. 2024), und eine präregistrierte Studie in vier Ländern fand keine unterschiedlichen physiologischen Reaktionen auf Bedrohung (Bakker et al. 2020). Unterschiede gibt es, aber sie sind klein, korrelativ und taugen nicht für „das konservative Gehirn“. *(Korrigiert am 11.10.2026, vorher „Bestätigt“ mit Kanai allein; dieselbe Einordnung steht in [[Zeitgeist/Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Göpel/Marinić — Vertrauen]] und [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung|Yu — Dehumanisierung]].)*
+> Quelle: [Kanai et al. 2011, *Current Biology* — doi:10.1016/j.cub.2011.03.017](https://doi.org/10.1016/j.cub.2011.03.017) · [Petropoulos Petalas et al. 2024, *iScience* — doi:10.1016/j.isci.2024.110532](https://doi.org/10.1016/j.isci.2024.110532) · [Bakker et al. 2020, *Nature Human Behaviour* — doi:10.1038/s41562-020-0823-z](https://doi.org/10.1038/s41562-020-0823-z)
 
 > [!success] Bestätigt — Medialer präfrontaler Cortex und Dehumanisierung
 > Lasana Harris und Susan Fiske zeigten 2006, dass bei der Wahrnehmung stark dehumanisierter Gruppen (z.B. Obdachlose) der mediale präfrontale Cortex tatsächlich weniger Aktivität zeigt — die neuronale Signatur von Objektwahrnehmung. Quelle: [Harris & Fiske (2006), Psychological Science](https://doi.org/10.1111/j.1467-9280.2006.01793.x)

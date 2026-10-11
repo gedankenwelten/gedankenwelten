@@ -1,6 +1,6 @@
 ---
 title: "Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026"
-aktualisiert: 2026-05-11
+aktualisiert: 2026-10-11
 date: 11.05.2026
 tags:
   - zeitgeist
@@ -67,7 +67,7 @@ Ein beunruhigendes Detail: Am Tag des Vortrags (9. Mai 2026) waren die Mauna-Loa
 
 ## Worst Case ist Realität — IPCC und der diplomatische Weichzeichner
 
-[▶ 20:32](https://www.youtube.com/watch?v=W27dbdQlyNA&t=1232) — Mit einer detaillierten Visualisierung von Peter Carter zeigt Benecke, wo wir im Spektrum der IPCC-Szenarien stehen: im Worst Case (SSP5-8.5). Die Modelle haben sich noch nicht weit aufgespalten, aber der Trend ist eindeutig.
+[▶ 20:32](https://www.youtube.com/watch?v=W27dbdQlyNA&t=1232) — Mit einer detaillierten Visualisierung von Peter Carter zeigt Benecke, wo wir im Spektrum der IPCC-Szenarien stehen: im Worst Case (SSP5-8.5) *(Faktencheck: vereinfacht — schneller als erwartet, die Emissionen aber unter SSP5-8.5)*. Die Modelle haben sich noch nicht weit aufgespalten, aber der Trend ist eindeutig.
 
 > *„Alle ölfördernden Länder haben gesagt: Wir werden jeden Tropfen Öl fördern bis zum letzten Tropfen. Das haben nicht nur die arabischen gesagt, sondern auch die nordischen Länder in Europa."* [▶ 22:49](https://www.youtube.com/watch?v=W27dbdQlyNA&t=1369)
 
@@ -147,8 +147,9 @@ Gleichzeitig werden Chemikalien freigesetzt, die bis zu 10.000-fach stärker sin
 > [!success] Bestätigt — Bayerische Wiesen eintönigste Insektenhabitate
 > Studie der Universität Würzburg in Nature Communications, Januar 2026, belegt massive Homogenisierung der Insektenfauna im deutschen Grünland. [Nature Communications, 2026](https://www.nature.com/ncomms/)
 
-> [!success] Bestätigt — Wir befinden uns im Worst-Case-Szenario
-> Aktuelle Emissionstrends entsprechen dem IPCC-Szenario SSP5-8.5. Ölfördernde Staaten haben öffentlich erklärt, ihre Reserven vollständig ausbeuten zu wollen. [IPCC AR6, 2023](https://www.ipcc.ch/assessment-report/ar6/)
+> [!warning] Vereinfacht — Wir befinden uns im Worst-Case-Szenario
+> Der Kern stimmt, das Etikett nicht. Die Erwärmung läuft schneller als erwartet: 1,5 °C wurden 2024 **3–7 Jahre früher** überschritten als in den CMIP6-Projektionen, die Beobachtungen liegen am oberen Rand der AR6-Bandbreite. Die *Emissionen* aber liegen **unter** SSP5-8.5, das der IPCC selbst als unwahrscheinlich einstuft; die neue Szenarien-Generation für CMIP7 hat es im April 2026 formell ausgemustert, weil die realen Emissionen seinen Annahmen nie folgten — das höchste neue Szenario endet um ~3,5 °C statt ~5 °C. Dass Förderstaaten „jeden Tropfen“ fördern wollen, ist eine Absicht, kein Emissionspfad. *(Korrigiert am 11.10.2026, vorher „Bestätigt“ mit Pauschalverweis auf AR6.)*
+> Quelle: [Forster et al. 2025, *Earth Syst. Sci. Data* — doi:10.5194/essd-17-2641-2025](https://doi.org/10.5194/essd-17-2641-2025) · [van Vuuren et al. 2026, *Geosci. Model Dev.* — doi:10.5194/gmd-19-2627-2026](https://doi.org/10.5194/gmd-19-2627-2026) · [IPCC AR6](https://www.ipcc.ch/assessment-report/ar6/)
 
 > [!success] Bestätigt — 12 Hiroshima-Bomben pro Sekunde
 > Die Erwärmungsrate der Erde wird regelmäßig in dieser Einheit kommuniziert (ca. 400.000 Hiroshima-Bomben pro Tag). [Skeptical Science](https://skepticalscience.com/4-Hiroshima-bombs-worth-of-heat-per-second.html)
