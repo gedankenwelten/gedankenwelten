@@ -345,6 +345,10 @@ Beide berufen sich auf Mamdani, auf verschiedene Seiten von ihm. Webers Mamdani 
 
 Ein anderer Stammbaum desselben Menschenbilds, über Hobbes, Friedman und Hayek, aber derselbe Befund: Güte gilt als Dummheit. Die Note antwortet mit Spiegelneuronen und Oxytocin, also mit der Naturkunde, die Neiman für den falschen Gerichtshof hält.
 
+### → [[Gedanken/Der weitergereichte Stein — warum aus Opfern Taeter werden|Der weitergereichte Stein — warum aus Opfern Täter werden]]
+
+Lucs Gedanke über das Lehrgeld zeigt den Homo oeconomicus im Alltag: Wer seinen Vorteil aus der Ahnungslosigkeit des anderen zieht, erzieht den Übervorteilten zum Nächsten, der es so macht. Mit Axelrods Befund, dass in wiederholten Begegnungen nicht der Ausbeuter gewinnt, sondern wer freundlich anfängt, sich wehrt und vergibt.
+
 ---
 
 ## Weiterdenken

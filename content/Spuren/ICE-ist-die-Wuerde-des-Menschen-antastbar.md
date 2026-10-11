@@ -780,6 +780,10 @@ Wahrnehmungsoperation, die Yu beschreibt: Dehumanisierung, sprachlich vorbereite
 Wie wächst ein Mensch in den Satz „You're only getting out deported or dead“ hinein? Das Panorama fragt nach dem
 Mechanismus, nicht nach dem Ausmaß. Nichts hier ist mit dem verglichen, wovon Arendt und Welzer handeln.
 
+### → [[Gedanken/Der weitergereichte Stein — warum aus Opfern Taeter werden|Der weitergereichte Stein — warum aus Opfern Täter werden]]
+
+Der Gedanke, der aus dieser Spur wuchs: Derselbe Mechanismus wie bei der Gewalt, die die nächste rechtfertigt, wirkt leise auch im Markt, beim Preis, den man einem Ahnungslosen abnimmt. „Primitiv“ zeigt dort auf uns alle, den Schreibenden eingeschlossen, und Vipassana steht als Übung, nicht als Urteil.
+
 ## Quellen
 
 **Maßstab**

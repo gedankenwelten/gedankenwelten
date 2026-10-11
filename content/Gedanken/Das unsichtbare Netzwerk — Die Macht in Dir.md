@@ -361,3 +361,7 @@ Die Gegenprobe im Großen: Was hier für die kleine Geste gilt, gilt dort für e
 ### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
 
 Die neurowissenschaftliche Unterfütterung der Gravitations-These: Yu zeigt den Mechanismus, warum die kleine Begegnung nicht klein ist — wer einen Menschen in mehreren Kategorien sieht und mentalisiert, schaltet in dessen Gehirn buchstäblich die Menschwahrnehmung wieder ein. Rehumanisierung geschieht im Maßstab 1:1 und wirkt unsichtbar weiter, wie die Fäden der Weber.
+
+### → [[Gedanken/Der weitergereichte Stein — warum aus Opfern Taeter werden|Der weitergereichte Stein — warum aus Opfern Täter werden]]
+
+Die Frage *Was für einen Stein werfe ich gerade?*, gewendet: Jeden Stein, den ich weiterreiche, hat vor mir schon jemand geworfen. Im Markt wie in der Gewalt wird aus dem Opfer der nächste Werfer, und die Kette kann nur in der Hand reißen, die ihn gerade hält.

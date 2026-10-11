@@ -141,6 +141,10 @@ Das Panorama, in dem dieser Gedanke weitergeht, mit Weber, Fromm, Hochschild und
 
 Die Frage aus diesem Abschnitt hat zwei Antworten bekommen: Oschmann sieht die Kränkung durch einen Westen, der den Osten bis heute beschreibt, Kowalczuk einen Freiheitsschock, der an alte obrigkeitsstaatliche Gewohnheiten anknüpfte. Beide glauben, dass am Abendbrottisch etwas weitergegeben wird, nur nicht dasselbe. Und Juli Zeh erzählt, wie sie sich im Osten bereichert fühlte, in einer Welt, in der der Marktwert nicht das Höchste war.
 
+### → [[Gedanken/Der weitergereichte Stein — warum aus Opfern Taeter werden|Der weitergereichte Stein — warum aus Opfern Täter werden]]
+
+Einen Tag jünger, dieselbe Wurzel. Wo der Vorteil des einen der Nachteil des anderen sein muss, wird jedes Opfer zum Täter: Was einem angetan wurde, gibt man weiter, beim Lehrgeld wie bei der Gewalt.
+
 ---
 
 ## Weiterdenken

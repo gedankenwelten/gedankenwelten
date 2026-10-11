@@ -106,6 +106,20 @@ Die Gedankenwelten (luc)
 
 > → *7 weitere in* [[Spuren]]
 
+### Gedanken
+
+> **11.10.** — [[Gedanken/Der weitergereichte Stein — warum aus Opfern Taeter werden|Der weitergereichte Stein — warum aus Opfern Täter werden]]
+>
+> Was mir angetan wird, gebe ich weiter: beim Preis für den Ahnungslosen wie beim Schuss, der den nächsten rechtfertigt. Primitiv ist dieser Reflex in uns allen, auch in mir.
+
+> **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
+>
+> Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar und dem Autoritären das Angebot streitig.
+
+> **08.10.** — [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen|Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]]
+>
+> Ist Bewusstsein die Eigenschaft eines Kopfes oder eines Netzes? Ein Gang zwischen Chalmers, IIT und Vipassana, seit Herbst 2026 mit ersten Messungen aus dem Inneren der Maschinen.
+
 ### Panorama
 
 > **10.10.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
@@ -129,20 +143,6 @@ Die Gedankenwelten (luc)
 > Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
 
 > → *12 weitere in* [[Panorama]]
-
-### Gedanken
-
-> **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
->
-> Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar und dem Autoritären das Angebot streitig.
-
-> **08.10.** — [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen|Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]]
->
-> Ist Bewusstsein die Eigenschaft eines Kopfes oder eines Netzes? Ein Gang zwischen Chalmers, IIT und Vipassana, seit Herbst 2026 mit ersten Messungen aus dem Inneren der Maschinen.
-
-> **29.08.** — [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]]
->
-> Sechs Sätze aus einem Jahrhundert der Trümmer — und alle sechs handeln von derselben Flucht, der vor sich selbst. Von Sartres Freiheit bis Simone Weils Arbeit am Möglichen.
 
 ### GoodNews
 
