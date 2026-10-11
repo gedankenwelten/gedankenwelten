@@ -326,7 +326,7 @@ Die Doku erzählt die Vorgeschichte zu Felix' Satz vom gesäten Zweifel: Proctor
 
 ### → [[Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte|Der Heizungshammer]]
 
-Was Robin „die fiese Umgebung“ nennt, hat eine Oxford-Studie an einem einzigen Wort ausgezählt: Über 1.100 Artikel außerhalb der BILD übernahmen den Heizungshammer. Hier setzt die seriöse Presse den Metzger nicht bloß neben den Arzt, sie übernimmt gleich seine Sprache. Am Ende der Folge schließt sich der Kreis: Das Gesetz, das der Kampfbegriff zu Fall brachte, kehrt als Gebäudemodernisierungsgesetz zurück, mit einer Bio-Treppe, deren Preise niemand vorhersagen kann.
+Was Robin „die fiese Umgebung“ nennt, hat eine Oxford-Studie an einem einzigen Wort ausgezählt: Über 1.100 Artikel außerhalb der BILD übernahmen den Heizungshammer. Hier setzt die seriöse Presse den Metzger neben den Arzt und übernimmt gleich seine Sprache. Am Ende der Folge schließt sich der Kreis: Das Gesetz, das der Kampfbegriff zu Fall brachte, kehrt als Gebäudemodernisierungsgesetz zurück, mit einer Bio-Treppe, deren Preise niemand vorhersagen kann.
 
 ### → [[Akkudoktor — Lanz und die Energiewende]]
 
