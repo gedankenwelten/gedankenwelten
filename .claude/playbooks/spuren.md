@@ -151,6 +151,10 @@ Nach dem Routing-Prinzip (`routing.md`): das Stumpfe an die Maschine, das Urteil
   Kandidaten-Verlaufseintrag **inkl. Gegenbeobachtung** und schlägt Alarm, wenn eine Falsifikations-
   Bedingung getriggert wurde.
 - **Sherlock** ist der Adversary jedes Sweeps (Faktencheck + Gegenbeobachtung).
+- **Agenten-Haushalt (seit 11.10.2026):** Sweeps und Chronik-Recherchen mit höchstens 4 Agenten,
+  gebündelt (mehrere Spuren je Agent), keine Forks, Recherche auf Sonnet. Die Eröffnung der ICE-Spur
+  am 11.10. lief mit 21 Agenten (davon 11 Forks) und kostete ~31 M gewichtete Tokens.
+  → `rules/routing.md`, „Agenten-Haushalt“.
 - Der Mensch macht nur, was Mensch sein muss: den **Gleichmut-Spiegel** und die **Konfidenz**.
 
 > Stufe 1 (Pilot): Sweeps von Hand, um Format und Takt am echten Fall zu lernen.

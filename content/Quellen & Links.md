@@ -5140,3 +5140,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Gespräch** | [Philosophisches Gespräch: Hannah Arendt und der Ursprung totalitärer Herrschaft](https://www.youtube.com/watch?v=xfcaWStWnhs) (Deutsches Hygiene-Museum Dresden, 27.03.2018) |
 | **Notiz** | [[Denker/Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Felsch_Geulen_Arendt_Totalitarismus_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Spur: ICE — ist die Würde des Menschen antastbar? (eröffnet 11.10.2026)
+
+| | |
+|---|---|
+| **Maßstab** | [BVerfG 1 BvL 10/10, Rn. 95](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2012/07/ls20120718_1bvl001010.html) · [BVerfG NPD, Rn. 541/635](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/01/bs20170117_2bvb000113.html) · [Römisches Statut Art. 7](https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40034727/NOR40034727.html) · [Elements of Crimes](https://www.icc-cpi.int/sites/default/files/Publications/Elements-of-Crimes.pdf) · [IStGH-Anklagebehörde zu Australien, 12.02.2020](https://uploads.guim.co.uk/2020/02/14/200213-Andrew-Wilkie-Response-from-International-Criminal-Court-Australian-Government-treatment-of-asylum-seekers_(1).pdf) |
+| **Berichte** | [DHS-OIG-26-22 (Alligator Alcatraz)](https://www.oig.dhs.gov/sites/default/files/assets/2026-09/OIG-26-22-Sep26.pdf) · [Amnesty „We Had Whistles, They Had Guns“](https://www.amnestyusa.org/reports/we-had-whistles-they-had-guns-human-rights-violations-in-u-s-immigration-enforcement-operations-and-the-case-to-abolish-ice/) · [HRW/Cristosal „You Have Arrived in Hell“](https://www.hrw.org/report/2025/11/12/you-have-arrived-in-hell/torture-and-other-abuses-against-venezuelans-in-el) |
+| **Register** | [ICE Detainee Death Reporting](https://www.ice.gov/detain/detainee-death-reporting) · [The Trace, Schussregister](https://datahub.thetrace.org/dataset/federal-immigration-agent-shootings/) · [Third Country Deportation Watch](https://www.thirdcountrydeportationwatch.org/) · [ProPublica, US-Bürger in Gewahrsam](https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/) |
+| **Forschung** | [Basu et al., JAMA 2026](https://doi.org/10.1001/jama.2026.3719) · [Parmar et al. 2021](https://doi.org/10.1016/j.lana.2021.100040) · [Priestley et al. 2025](https://doi.org/10.1192/bjp.2025.29) |
+| **Note** | [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar]] |

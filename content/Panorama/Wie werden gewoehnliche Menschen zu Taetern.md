@@ -176,6 +176,9 @@ Die Frage, mit wem eine Demokratie neu anfängt, führt zu denselben Juristen un
 ### → [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 Die Herrschaft des Niemand in ihrer jüngsten Form: Wer trägt Verantwortung, wenn zwischen Beschluss und Folge ein Programm steht?
 
+### → [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
+Der Wärter, der „You're only getting out deported or dead“ sagt, und die Formel „weaponized vehicle“ nach jedem Schuss: gewöhnliche Beamte in einem Apparat, der Härte als Botschaft einsetzt.
+
 ### → [[Hannah Arendt — Zur Person]]
 
 Arendt verortet das Erschreckende von 1933 bei den Freunden, die sich aus eigenem Antrieb gleichschalteten: Zu Hitler fiel ihnen „was ein“.

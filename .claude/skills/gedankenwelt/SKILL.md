@@ -14,13 +14,14 @@ Nutze immer sämtliche Agenten. Dies sind folgende:
 
 Zusätzlich: RAG ist jetzt produktiv und wird in dieser Pipeline aktiv genutzt.
 
-> [!important] Seit 08.10.2026: Die Hauptinstanz ist Managerin, die Agenten laufen im Fächer
-> Humboldt, Sherlock und Montaigne brauchen nur das **Transkript**, nicht die fertige Note. Darum
-> starten sie **gleichzeitig im Hintergrund**, sobald das Transkript steht (→ **Schritt 4b — Der
-> Fächer**), und die Hauptinstanz schreibt währenddessen die Note. Sie behält alles im Blick: liest
-> jeden Agenten-Bericht mit Urteil, baut ein, was trägt, und verwirft, was nicht trägt. Die Note
-> schreibt **immer die Hauptinstanz selbst**, im Gespräch mit Andreas — delegiert wird Recherche,
-> nie die Hand. Alter, rein sequenzieller Stand: Git-Tag `gedankenwelt-skill-vor-faecher`.
+> [!important] Seit 11.10.2026: Agenten wieder nacheinander, die Hauptinstanz schreibt und urteilt
+> Vom 08. bis 10.10. liefen Humboldt, Sherlock und Montaigne parallel im Hintergrund („Fächer“), dazu je
+> Nachbesprechungs-Thema ein Recherche-Agent und ein Banner-Agent. Eine Note kostete damit gut 40 % mehr
+> (Median ~7 M → ~10–11 M gewichtete Tokens), und parallele Agenten leeren das 5-Stunden-Fenster
+> schneller. Darum gilt wieder: **ein Agent nach dem anderen, im Vordergrund** (→ **Schritt 4b —
+> Agenten-Haushalt**). Geblieben ist die Rollenteilung: Die Note schreibt **immer die Hauptinstanz
+> selbst**, im Gespräch mit Andreas, und sie liest jeden Agenten-Bericht mit Urteil — delegiert wird
+> Recherche, nie die Hand. Fächer-Stand im Git-Verlauf (`e3f0abd4`).
 
 ---
 
@@ -135,8 +136,6 @@ ls "content/DenkerVita/<Vorname Nachname>.md" 2>/dev/null
 ---
 
 ### 0b — Humboldt: Recherche (nur wenn keine DenkerVita)
-
-> Läuft seit 08.10.2026 im **Fächer** (Schritt 4b) im Hintergrund, parallel zum Schreiben.
 
 ```
 /agent humboldt
@@ -379,41 +378,33 @@ python3 .claude/scripts/vtt_to_txt.py \
 
 ---
 
-## Schritt 4b — Der Fächer: Agenten parallel starten (seit 08.10.2026)
+## Schritt 4b — Agenten-Haushalt (seit 11.10.2026)
 
-Sobald `_Transkript.txt` und die Video-Beschreibung da sind **und** Quellen-Check (Schritt -1) und
-Rubrik (Schritt -0.5) entschieden sind, startet die Hauptinstanz **in einer einzigen Nachricht** die
-Hintergrund-Agenten (`run_in_background: true`, Modell Opus). Danach liest sie selbst das Transkript
-und beginnt mit Schritt 5 — sie wartet nicht.
+Die Agenten laufen **nacheinander, im Vordergrund**, jeder an seiner Stelle der Pipeline — nie mehrere
+gleichzeitig, nie im Hintergrund:
 
-**Erster Fächer — sofort, braucht nur das Transkript:**
-
-| Agent | Auftrag | Liefert | Wird eingebaut in |
+| Agent | Wann | Modell | Liefert |
 |---|---|---|---|
-| **Humboldt** | nur wenn keine DenkerVita existiert (Schritt 0a prüfen) | fertige Vita-Datei + Index-Zeilen | Schritt 0c |
-| **Sherlock** | Faktencheck **am Transkript**: Pfad, Video-URL, bekannte heikle Claims mitgeben | `## Faktencheck`-Block + „Still korrigieren“-Liste | Schritt 5b |
-| **Montaigne** | Verbindungs-Kandidaten aus Transkript + Thema (RAG `"answer": false`) | 8–12 Kandidaten mit Begründung, Rückverweis-Sätze | Schritt 6 |
+| **Humboldt** | Schritt 0, nur wenn keine DenkerVita existiert | Opus (öffentlicher Text) | Vita-Datei + Index-Zeilen |
+| **Sherlock** | Schritt 5b, am Transkript und am Notenentwurf | Opus | `## Faktencheck`-Block + „Still korrigieren“-Liste |
+| **Nachbesprechungs-Recherche** | Schritt 5d.2 — **ein** Agent für alle gewählten Themen zusammen | Sonnet | je Thema Forschung (DOI), Fälle, Stimmen mit Abschnitt-Anker |
+| **Montaigne** | Schritt 6, gegen die fertige Note | Opus | Verbindungs-Kandidaten mit Begründung |
 
-**Zweiter Fächer — sobald Andreas die Nachbesprechungs-Themen gewählt hat (Schritt 5d.1):**
-je Thema ein Recherche-Agent (Forschung mit DOI via `wiss_search.py`, Fälle, Stimmen im Bestand mit
-exaktem Abschnitt-Anker) — und, sobald der Kern der Note feststeht, das **Banner** (Schritt 10c) als
-eigener Hintergrund-Agent. Die Hauptinstanz schreibt derweil weiter.
+**Das Banner (Schritt 10c) macht die Hauptinstanz selbst** — es ist im Kern ein Skript-Aufruf
+(`gen_banner.py`); ein eigener Agent kostete dafür jedes Mal den ganzen Cortex-Kontext.
 
-**Regeln für den Fächer:**
-- **Agenten schreiben nur eigene neue Dateien** (Humboldt die Vita, Banner-Agent die JPEGs) oder
-  liefern Text. Gemeinsam genutzte Dateien — die Note selbst, Altnotes, Panoramen, Log, Journal,
-  `index.md`, Kataloge, `known-speakers.md`, `Alle Denker.md` — fasst **nur die Hauptinstanz** an.
-  Humboldt bekommt darum den Zusatz: *Index-Dateien nicht bearbeiten, Zeilen im Bericht liefern.*
+**Regeln:**
+- **Agenten schreiben nur eigene neue Dateien** (Humboldt die Vita) oder liefern Text. Gemeinsam
+  genutzte Dateien — die Note selbst, Altnotes, Panoramen, Log, Journal, `index.md`, Kataloge,
+  `known-speakers.md`, `Alle Denker.md` — fasst **nur die Hauptinstanz** an. Humboldt bekommt darum den
+  Zusatz: *Index-Dateien nicht bearbeiten, Zeilen im Bericht liefern.*
 - **Kein Agent ingestiert, committet oder deployt.** Der Embed-Server ist single-threaded; RAG-Ingest
   läuft am Ende nacheinander durch die Hauptinstanz (Schritt 6b/6c).
-- **Sherlocks Befunde fließen schon beim Schreiben ein:** Was falsch ist, wird im Text nicht
-  wiederholt, sondern eingeordnet; „Still korrigieren“ wird still korrigiert. Der Callout-Block kommt
-  in Schritt 5b dazu.
-- **Urteil bleibt oben:** Jeder Bericht wird gelesen und gewogen — Montaignes Kandidaten werden gegen
-  die fertige Note geprüft (passt die Brücke wirklich?), Sherlocks Verdikte gegen das Transkript
-  gegengelesen, Banner angesehen. Was nicht trägt, fällt raus.
-- **Ankündigen** im Routing-Format, z. B.:
-  `→ [FÄCHER] Humboldt · Sherlock · Montaigne im Hintergrund | ich schreibe die Note`
+- **Knapp beauftragen:** Pfade statt eingefügter Texte, klare Lieferform, kein „recherchiere alles“.
+  Jeder Agent lädt beim Start den ganzen Cortex-Kontext — jeder zusätzliche kostet spürbar.
+- **Urteil bleibt oben:** Jeder Bericht wird gelesen und gewogen — Montaignes Kandidaten gegen die
+  Note (passt die Brücke wirklich?), Sherlocks Verdikte gegen das Transkript. Was nicht trägt, fällt raus.
+- Obergrenze und Stapelmodus → `rules/routing.md`, „Agenten-Haushalt“.
 
 ---
 
@@ -716,8 +707,6 @@ Jeden inhaltlichen Abschnitt mit einem klickbaren Zeitstempel-Link einleiten —
 
 ## Schritt 5b — Sherlock: Faktencheck (nur Zeitgeist-Notes)
 
-> Sherlock arbeitet seit 08.10.2026 im **Fächer** (Schritt 4b) am Transkript; hier wird sein Block nur noch geprüft und eingesetzt.
-
 Den Sherlock-Agenten aufrufen:
 
 ```
@@ -768,7 +757,7 @@ Nach Faktencheck und Stimme, **vor** Cross-Linking — so kann Montaigne die Pan
    Das eine führt nach [Panorama X], das andere wäre eine neue Frage."* Andreas entscheidet. Das
    Auswählen ist das eigentliche Urteil — die Themen, bei denen echte Neugier entsteht oder der Sprecher
    etwas Wichtiges offen lässt, nicht alle.
-2. **Recherche** (parallel, Subagenten): Forschung mit DOI über `wiss_search.py` (Solidität markieren:
+2. **Recherche** (**ein** Subagent für alle gewählten Themen zusammen, Sonnet — nicht einer je Thema): Forschung mit DOI über `wiss_search.py` (Solidität markieren:
    Review > Einzelstudie), Fälle und aktueller Stand (Jina/DuckDuckGo), Funfacts nur belegt. Dazu eine
    **Stimmensuche im Bestand** (grep + RAG `"answer": false`): wer bezieht zur Frage echte Position, mit
    exaktem Abschnitt für den Anker. Heiße Fakten (Tagesaktuelles, Zahlen) vor dem Schreiben selbst gegenprüfen.
@@ -798,8 +787,6 @@ Nach Faktencheck und Stimme, **vor** Cross-Linking — so kann Montaigne die Pan
 ---
 
 ## Schritt 6 — Montaigne: Cross-Linking (RAG-gestützt)
-
-> Montaignes Kandidaten kommen seit 08.10.2026 aus dem **Fächer** (Schritt 4b); hier werden sie gegen die fertige Note geprüft und bidirektional eingebaut.
 
 Montaigne nutzt jetzt RAG direkt — der separate Step 6a entfällt. Montaigne hat einen eingebauten RAG-Query als ersten Schritt und findet relevante Notes semantisch statt über Glob.
 
@@ -1257,7 +1244,6 @@ erste überlas; ein dritter ist Übertreibung (Glätten ist der Tod der Stimme).
 - [ ] DenkerVita geprüft: existiert → lesen; existiert nicht → Humboldt-Recherche + DenkerVita anlegen (Schritt 0)
 - [ ] DenkerVita in RAG ingestiert (wenn neu angelegt)
 - [ ] Download / Transkription abgeschlossen
-- [ ] **Fächer gestartet (Schritt 4b):** Humboldt (falls nötig) · Sherlock am Transkript · Montaigne — parallel im Hintergrund, Hauptinstanz schreibt; zweiter Fächer (Nachbesprechungs-Recherche, Banner) nach Themenwahl
 - [ ] Video-Beschreibung auf Quellen geprüft (Schritt 2b) — ggf. `## Weiterführende Quellen` in Note ergänzt
 - [ ] VTT → TXT konvertiert
 - [ ] Obsidian-Note erstellt — Callout aus DenkerVita, Link `→ [[content/DenkerVita/<Name>|DenkerVita]]` am Ende des Callouts

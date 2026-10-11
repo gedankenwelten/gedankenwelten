@@ -71,6 +71,11 @@ eine Rubrik. Jede Note bekommt einen Modus-A-Durchlauf.
 > Zeitfenster), **im Report explizit sagen, was *nicht* geprüft wurde.** Eine Abdeckungslücke, die wie
 > Vollständigkeit aussieht, ist schlimmer als eine offen benannte.
 
+> [!important] Agenten-Haushalt (seit 11.10.2026)
+> Der Sweep vom 11.10. lief in 8 parallelen Opus-Tranchen und kostete ~25 M gewichtete Tokens. Seitdem:
+> **höchstens 4 Prüf-Agenten**, auf **Sonnet** (`model: sonnet`), in Runden nacheinander. Die Prüfer
+> sammeln Kandidaten; ob ein Widerspruch echt ist, urteilt die Hauptinstanz (Opus). → `rules/routing.md`, „Agenten-Haushalt“.
+
 ---
 
 ## Routing

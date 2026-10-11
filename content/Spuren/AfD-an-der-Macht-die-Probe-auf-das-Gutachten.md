@@ -501,6 +501,11 @@ die dort diskutierten Schwachstellen sind die konkreten Beobachtungspunkte für 
 Warum Skandale der Partei nicht schaden — der Grund, weshalb diese Spur auf Maßnahmen statt Skandale
 zielt: Empörung ist als Messgröße verbraucht.
 
+### → [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
+
+Das Vorbild, auf das sich die bayerische AfD-Fraktion mit ihrer „AFA“ *„ähnlich wie das ICE“* beruft (Januar 2026),
+dokumentiert und an der Würde gemessen, samt der Frage, was das in Deutschland anrichten würde.
+
 ### → [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
 
 Die Schwester-Spur: Dort ist die Frage, was eine Regierung *tut*, wenn die Aufmerksamkeit weiterzieht,

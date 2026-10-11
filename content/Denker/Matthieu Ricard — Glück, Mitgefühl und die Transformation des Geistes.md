@@ -506,6 +506,10 @@ Marquardt im christlichen Aschram Kurishumala, Ricard im himalayischen Kloster S
 
 Ricard aus tibetisch-buddhistischer Tradition, Brähler aus westlicher Psychotherapie — beide landen an derselben Stelle: Mitgefühl ist keine sentimentale Haltung, sondern eine trainierbare Kapazität, die das Erleben grundlegend transformiert. Brählers MSC-Ansatz integriert buddhistische Metta-Praxis explizit; ihre klinische Arbeit ist gewissermaßen die westliche Übersetzung von Ricards Befund.
 
+### → [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
+
+Ricards Stein trägt dort einen ganzen Abschnitt: Die USA schoben 1996 Gangmitglieder nach El Salvador ab, und die Bande, die daraus wuchs, begründet heute die Härte, die neue Steine wirft. Die Spur liest Karma so, wie Ricard es meint, als Folge von Absichten, nicht als „verdient“, und fragt, wer den Kreislauf unterbricht.
+
 ### → [[Byung-Chul Han — Das Glueck kommt durch die Haende|Byung-Chul Han — Das Glück kommt durch die Hände]]
 
 Der schärfste Kontrapunkt zu Ricards trainierbarem Glück: Für Han fährt Glück von außen in den Leib — durch den Widerstand der Gartenerde, der Klaviertasten, des Anderen —, nie durch Introspektion allein. Die produktive Reibung: Ist Glücks-*Training* nicht schon die Selbstoptimierung, die Han als Selbstausbeutung entlarvt? Und entgeht Ricard mit dem Weg nach innen nicht gerade dem Gegenüber, das Han für unverzichtbar hält?

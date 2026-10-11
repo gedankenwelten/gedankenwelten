@@ -96,15 +96,15 @@ Die Gedankenwelten (luc)
 >
 > Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
 
+> **11.10.** — [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
+>
+> Ein Kind als Köder an der Haustür, ein Mann im Käfig, Menschen in Länder geflogen, die nicht ihre sind. Wer Menschen zum Mittel macht, erntet, was er sät, und nennt es dann Beweis.
+
 > **11.10.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
 >
 > Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
 
-> **11.10.** — [[Spuren/Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft|Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft?]]
->
-> Nicht ob die Maschine die Arbeit nimmt entscheidet die Zukunft, sondern was die Gesellschaft daraus macht — ein Tauziehen zwischen geteilter Fülle und goldenen Türmen, gemessen an dem, was Menschen fühlen.
-
-> → *6 weitere in* [[Spuren]]
+> → *7 weitere in* [[Spuren]]
 
 ### Panorama
 

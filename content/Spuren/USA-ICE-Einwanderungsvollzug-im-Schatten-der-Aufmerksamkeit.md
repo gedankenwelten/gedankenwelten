@@ -740,6 +740,11 @@ Council, Al Jazeera) sind advocacy-gefärbt.
 sich der Vollzug selbst? Dieser Abschnitt beobachtet das tödliche Fahrzeug-Muster als eigenen Faden.
 Trägt er irgendwann eine eigene These mit eigener Falsifikation, wird er zur eigenen Spur ausgegründet.*
 
+> [!info] Ausgegründet am 11.10.2026
+> Dieser Abschnitt hat jetzt eine eigene Spur: [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
+> Sie führt das Register aller Menschen (Schüsse, Tote in Haft, Drittstaaten, Kinder und Bürger), misst den Vollzug
+> an der Würde des Menschen und prüft, was er an Trauma und Gewalt sät. Die Tabelle hier bleibt als Teil der Geschichte dieser Spur stehen.
+
 **Das Fahrzeug-Muster — sechs Tote, zwei Überlebende, ein Drehbuch** *(erweitert 15.07.2026 nach Tiefen-Sweep; Austin nachgetragen 26.09.2026, Marble Hill 11.10.2026)*:
 
 | Datum | Ort | Opfer | Status | Zielperson? | Bodycam | Behörden-Formel |
@@ -912,6 +917,11 @@ sich wieder schließt.
 >   gehört das hier hin, so prominent wie heute die Zeugin.
 
 ## Verbindungen
+
+### → [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
+
+Die Tochter-Spur, ausgegründet aus dem Abschnitt „Muster“: Diese Spur fragt, ob Sichtbarkeit bremst; jene, was der
+Vollzug den Menschen antut, Mensch für Mensch, gemessen an der Würde, und was daraus wächst.
 
 ### → [[Spuren/Israel-Gaza-Voelkerrecht-im-Schatten-der-Aufmerksamkeit|Israel & Gaza — Völkerrecht im Schatten der Aufmerksamkeit]] · [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]
 

@@ -354,6 +354,10 @@ Die Gegenseite derselben Rechnung: Wenn der herrenlose Souverän aus Milliarden 
 
 Teil drei der Reihe: Das Netzwerk bekommt seinen alten Namen. Ubuntu — ich bin, weil wir sind — ist das Wort für das bewusste Bewohnen dessen, was hier beschrieben wird, samt der Haftung in beide Richtungen und der Warnung, was aus schönen Worten werden kann.
 
+### → [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
+
+Die Gegenprobe im Großen: Was hier für die kleine Geste gilt, gilt dort für einen Staat, der Menschen zum Mittel macht. Die Spur richtet die Frage dieses Gedankens an alle Seiten, auch an die, die sie schreiben: *Was für einen Stein werfe ich gerade?*
+
 ### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
 
 Die neurowissenschaftliche Unterfütterung der Gravitations-These: Yu zeigt den Mechanismus, warum die kleine Begegnung nicht klein ist — wer einen Menschen in mehreren Kategorien sieht und mentalisiert, schaltet in dessen Gehirn buchstäblich die Menschwahrnehmung wieder ein. Rehumanisierung geschieht im Maßstab 1:1 und wirkt unsichtbar weiter, wie die Fäden der Weber.
