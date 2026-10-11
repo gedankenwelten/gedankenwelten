@@ -244,3 +244,8 @@ Der Gegenpol aus derselben Woche, und an einem Punkt berühren sich beide: dem U
 ### → [[GoodNews/Good News - Gute Nachrichten September 2026|Good News — Gute Nachrichten September 2026]]
 
 Die Große Grüne Mauer bestätigt Beneckes Einwand gegen die Aufforstung von beiden Seiten: Sie wirkt, und sie hat fünfzig Jahre dafür gebraucht. Auch die Arran-Zahl misst ihren Erfolg an den geschleppten Nachbarflächen, also an einer verschobenen Basislinie.
+
+### → [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]]
+
+Felix Goldbach und Robin Schmid erklären das lange Wegsehen mit gesätem Zweifel und einer „fiesen Umgebung“. Beneckes Befund, dass die Daten seit 1975 offen lagen, ist die Gegenprobe dazu.
+

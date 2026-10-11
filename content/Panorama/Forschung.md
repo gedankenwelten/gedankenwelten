@@ -2,7 +2,7 @@
 title: "Forschung"
 date: 2026-09-28
 erstellt: 2026-09-28
-aktualisiert: 2026-10-10
+aktualisiert: 2026-10-11
 description: "Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -117,6 +117,8 @@ Dagegen steht, was die Forschung über sich selbst herausfand. Als 270 Psycholog
 
 Wie viel es kostet, diese Unsicherheit offen auszusprechen, ist gemessen, und es ist wenig. Wer zu einer Zahl die Spanne nennt, in der sie liegen kann, verliert dabei nur geringfügig an Vertrauen ([van der Bles et al. 2020, doi:10.1073/pnas.1913678117](https://doi.org/10.1073/pnas.1913678117)). In Experimenten aus Dänemark und den USA machte Offenheit über die Nachteile eines Impfstoffs die Menschen etwas weniger impfbereit, aber sie vertrauten den Behörden mehr und glaubten seltener an Verschwörungen ([Petersen et al. 2021, doi:10.1073/pnas.2024597118](https://doi.org/10.1073/pnas.2024597118)). Die Gegenstrategie, in der Krise mit Angst zu arbeiten, verfolgt die Nachbesprechung zu [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Darf ein Staat in der Krise Angst machen?|Vertrauen, utopisch?]]; ein eigenes Panorama hat diese Frage noch nicht.
 
+Was das Vertrauen von außen angreift, ist ebenfalls vermessen. Die Tabak-, die Zucker- und die Ölindustrie wollten niemanden vom Gegenteil überzeugen, sie wollten Zweifel säen (*„Doubt is our product“*, Brown & Williamson 1969; [Supran, Rahmstorf & Oreskes 2023, doi:10.1126/science.abk0063](https://doi.org/10.1126/science.abk0063)). Wie stark der wahrgenommene Konsens Haltungen trägt, zeigt das *Gateway Belief Model*: Wer von der Einigkeit der Klimaforschung erfährt, schätzt sie höher ein und unterstützt eher Klimapolitik ([van der Linden et al. 2015, doi:10.1371/journal.pone.0118489](https://doi.org/10.1371/journal.pone.0118489); Bündelung von neun Studien: [Rode et al. 2025, doi:10.1016/j.cobeha.2025.101521](https://doi.org/10.1016/j.cobeha.2025.101521)) — die Effekte sind umstritten. Gegen die Hoffnung, mehr Wissen löse den Streit, steht Kahans Befund, dass gerade die Kundigsten am stärksten nach politischem Lager polarisiert sind ([Kahan et al. 2012, doi:10.1038/nclimate1547](https://doi.org/10.1038/nclimate1547)); spätere Studien finden die Identität wirksam, aber keinen klaren Verstärker durch Bildung ([Tappin, Pennycook & Rand 2021, doi:10.1037/xge0000974](https://doi.org/10.1037/xge0000974)). Was nachweislich hilft, ist die Impfung vorher: Kurze Clips über Manipulationstechniken verbesserten in einem YouTube-Feldversuch mit gut 22.000 Menschen das Erkennen, über die Lager hinweg ([Roozenbeek et al. 2022, doi:10.1126/sciadv.abo6254](https://doi.org/10.1126/sciadv.abo6254)); Meta-Analysen finden kleine bis mittlere Effekte ohne allgemeinen Zynismus ([Simchon et al. 2026, doi:10.1016/j.copsyc.2025.102194](https://doi.org/10.1016/j.copsyc.2025.102194)). Wie lange sie hält, ist offen.
+
 **Die Stimmen**
 
 - **[[Torsten Wilholt — Wahrheit und Wissen#Der Skeptiker als Anfänger — Wissen ist keine Gewissheit|Torsten Wilholt]]:** Aus „ich kann mich immer irren“ folgt nicht „ich irre mich immer“; Fallibilismus ist vernünftig, Skeptizismus ein Fehlschluss.
@@ -128,7 +130,12 @@ Wie viel es kostet, diese Unsicherheit offen auszusprechen, ist gemessen, und es
 - **[[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)#Vertrauen und Misstrauen: Soziologische Grundlagen|Aladin El-Mafaalani]]:** Konstruktives Misstrauen will verbessern, destruktives lehnt das System ab; verlorenes Vertrauen kommt kaum zurück.
 - **[[Mark Benecke — Umwelt-Messungen Sommer 2026#1975 — Die Vorhersage, die niemand hören wollte|Mark Benecke]]:** Die Klimaprognose von 1975 stimmte fast genau; am Wissen lag es nie, die Gesellschaft hat weggeschaut.
 
-<details><summary>Weitere Stimmen (7)</summary>
+<details><summary>Weitere Stimmen (11)</summary>
+
+- **[[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben#Warum Millionen es glauben|Robin Schmid und Felix Goldbach]]:** Niemand, der Mythen teilt, ist doof, die Umgebung ist fies; die Taktik war nie, vom Gegenteil zu überzeugen, sondern Zweifel zu säen.
+- **[[Alena Buyx — Gesellschaft NEU DENKEN#Der Verachtungsmarker|Alena Buyx]]:** Wer vorher weiß, welche Masche gleich kommt, kann ihr widerstehen; sie nennt das Inokulation und verbindet es mit Umgangsformen und Fehlerkultur.
+- **[[Renee DiResta — Invisible Rulers#Lösungsansätze Was tatsächlich helfen kann|Renée DiResta]]:** Faktenchecks lösen das Problem nicht, weil es eines von Identität und Vertrauen ist; helfen können Reichweitenregeln und Brückenbau.
+- **[[Andreas Loeschel — Strom NEU DENKEN#Co-Benefits und die laute Minderheit — Akzeptanz neu gedacht|Andreas Löschel]]:** Die Mehrheit stimmt der Windkraft zu und hält die Nachbarn für dagegen; nicht der Zweifel ist das Problem, sondern die laute Minderheit.
 
 - **[[Juergen Kornmeier — Grenzgebiete der Psychologie#Der Rosenduft|Jürgen Kornmeier]]:** Über einen Befund entscheidet, ob er wiederkommt, wenn ein anderer ihn ruft, nicht seine Wucht.
 - **[[Rutger Bregman — Ist der Mensch wirklich gut#Der Widerlegungsapparat — wenn berühmte Experimente Schwindel waren|Rutger Bregman]]:** Das Stanford-Prison-Experiment war inszeniert und wurde trotzdem zum Lehrbuchwissen über den Menschen.
@@ -187,6 +194,7 @@ Was die KI mit den Forschenden macht, ist inzwischen gemessen. Wer sie nutzt, ve
 | 28.09.2026 | [[Omar Yaghi — Die Welt retten mit Chemie#Wasser aus der Luft — was es an Zahlen gibt|Omar Yaghi — Die Welt retten mit Chemie?]] | Was vom Wasserversprechen greifbar ist: Kapazitäten ohne Messung, Preis im Vergleich, Jordaniens Entsalzung |
 | 08.10.2026 | [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Darf ein Staat in der Krise Angst machen?|Göpel und Marinić — Vertrauen, utopisch?]] | Vertrauen in die Wissenschaft vor, in und nach der Pandemie; was offen benannte Unsicherheit kostet (van der Bles 2020, Petersen 2021) · die Angst-Frage selbst bleibt ohne Panorama |
 | 10.10.2026 | [[Greenpeace — Katherina Reiche und die Gasindustrie#Wer bestellt, schreibt mit?|Greenpeace — Katherina Reiche und die Gasindustrie]] | Der Staat als Auftraggeber, der mitschreibt: EWI-Monitoringbericht, Cooney 2005, LSE GV314 2013, Yazahmeidi & Holman 2007, McCrabb 2021; deutsche Fälle über Parteigrenzen (Gorleben, EWI 2010, Prüfvermerk 2022, Glyphosat); BBAW-Leitlinien, UK-Publikationsprotokoll |
+| 11.10.2026 | [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben#Hilft Erklären gegen gesäten Zweifel?|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]] | Gesäter Zweifel und was dagegen hilft: Gateway Belief Model (van der Linden 2015, Rode 2025) gegen Kahan 2012 und Tappin 2021, Backfire selten (Wood & Porter), Prebunking im Feld (Roozenbeek 2022, Lu 2023, Simchon 2026), Löschels laute Minderheit |
 
 ---
 

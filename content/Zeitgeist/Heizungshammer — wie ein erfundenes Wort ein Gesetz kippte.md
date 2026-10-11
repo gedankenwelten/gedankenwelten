@@ -113,3 +113,7 @@ Die Gegenprobe: Russische Bot-Fakes verpuffen meist, solange keine Redaktion sie
 
 Hier endet das erfundene Wort: Die Ministerin wiederholt den „Zwang zur Wärmepumpe“, den es nie gab, die 65-Prozent-Pflicht fällt, und auf der Gewinnerseite stehen die Gasnetze. Das Öko-Institut rechnet mit bis zu 172 Millionen Tonnen CO₂ zusätzlich bis 2040.
 
+### → [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]]
+
+Am Ende ihrer Mythen-Folge landen Felix Goldbach und Robin Schmid beim Nachfolgegesetz, dessen Bio-Treppen-Preise laut Bundestagsdrucksache „nicht vorhergesagt werden“ können. Die Note zeigt auch, warum ein gesäter Zweifel genügt, um Menschen bei der Gasheizung zu halten.
+

@@ -1193,3 +1193,9 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Eva Geulen
 **Status:** ✓ Vollanalyse → [[DenkerVita/Eva Geulen]]
+
+## Felix Goldbach
+**Status:** ✓ Vollanalyse → [[DenkerVita/Felix Goldbach]]
+
+## Robin Schmid
+**Status:** ✓ Vollanalyse → [[DenkerVita/Robin Schmid]]

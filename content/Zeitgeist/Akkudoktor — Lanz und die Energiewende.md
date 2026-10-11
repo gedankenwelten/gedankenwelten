@@ -169,3 +169,8 @@ D/Z liefern den akademischen Rahmen für das, was Akkudoktor mit seiner Programm
 ### → [[Akkudoktor — SMR und drei Versprechen]]
 
 Die zweite Note über den Kanal: drei SMR-Versprechen auf dem Taschenrechner, und wieder trifft der Spott einen Unionspolitiker, diesmal Söder.
+
+### → [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]]
+
+Die Wirkungsgrad-Leiter von der Kerze bis zur Wärmepumpe ist die Kehrseite der Primärenergie-Falle. Dazu kommt das Bild vom Metzger, der in der Talkshow neben dem Klimaforscher sitzt.
+

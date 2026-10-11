@@ -313,6 +313,10 @@ Wo Greenpeace die Akten liest, rechnet Specht nach: Die 36 Milliarden, mit denen
 ### → [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]]
 Wie eine Wirtschaftsweise 2022 noch „nur die Diskussion“ über heimisches Fracking wollte und dabei ausschließlich die Argumente dafür vortrug. 2026 sitzt sie in Reiches Beraterkreis, der Fracking ernsthaft prüfen will.
 
+### → [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]]
+
+Felix Goldbach rechnet Reiches Zahl vom „weggeworfenen Strom“ mit den Daten der Bundesnetzagentur nach: Die Summe stimmt, die Zuordnung nicht. Das Systemkosten-Argument im Kleinen.
+
 ---
 
 ## Weiterdenken

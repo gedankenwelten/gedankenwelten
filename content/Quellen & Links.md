@@ -5150,3 +5150,11 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Register** | [ICE Detainee Death Reporting](https://www.ice.gov/detain/detainee-death-reporting) · [The Trace, Schussregister](https://datahub.thetrace.org/dataset/federal-immigration-agent-shootings/) · [Third Country Deportation Watch](https://www.thirdcountrydeportationwatch.org/) · [ProPublica, US-Bürger in Gewahrsam](https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/) |
 | **Forschung** | [Basu et al., JAMA 2026](https://doi.org/10.1001/jama.2026.3719) · [Parmar et al. 2021](https://doi.org/10.1016/j.lana.2021.100040) · [Priestley et al. 2025](https://doi.org/10.1192/bjp.2025.29) |
 | **Note** | [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar]] |
+
+## Alles wird Strom — Energiewende-Mythen (Felix Goldbach, Robin Schmid)
+
+| | |
+|---|---|
+| **Podcast / Video** | [Die dümmsten Aussagen zur Energiewende – und warum sie Millionen Menschen glauben](https://www.youtube.com/watch?v=KVApsK1jLCM) (28.07.2026) |
+| **Notiz** | [[Zeitgeist/Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]] |
+| **Transkript** | `Gedankenwelten/Transkripte/AllesWirdStrom_Energiewende_Mythen_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

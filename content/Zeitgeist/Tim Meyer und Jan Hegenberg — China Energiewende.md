@@ -228,3 +228,7 @@ Die August-Ausgabe liefert die Gesundheits-Dividende zu dieser Analyse: Chinas E
 
 Neben die Industrielogik setzt Specht die Sicherheitslogik: Malakka, volle Öllager, Autarkie. Seine Lesart des neuen Kapazitätsmarkts geht allerdings zu weit; die Batterie bekommt einen Platz neben der Kohle, nicht ihren.
 
+### → [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]]
+
+Felix Goldbach übernimmt Tim Meyers Lesart der Energiewende als Modernisierungsprogramm und erzählt sie als Wirkungsgrad-Geschichte von der Kerze bis zur Wärmepumpe. Die Note fragt, warum dieselbe Technik in Deutschland als Gesinnung gelesen wird.
+

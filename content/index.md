@@ -82,6 +82,30 @@ Die Gedankenwelten (luc)
 
 > → *1 weitere in* [[Geistesblitz]]
 
+### Panorama
+
+> **11.10.** — [[Panorama/Forschung|Forschung]]
+>
+> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
+
+> **10.10.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Drei offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **10.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+>
+> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+
+> **10.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Vier offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, und die Stimmen, die sich an ihnen reiben.
+
+> **10.10.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
+>
+> Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
+
+> → *12 weitere in* [[Panorama]]
+
 ### Spuren
 
 > **11.10.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
@@ -119,30 +143,6 @@ Die Gedankenwelten (luc)
 > **08.10.** — [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen|Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]]
 >
 > Ist Bewusstsein die Eigenschaft eines Kopfes oder eines Netzes? Ein Gang zwischen Chalmers, IIT und Vipassana, seit Herbst 2026 mit ersten Messungen aus dem Inneren der Maschinen.
-
-### Panorama
-
-> **10.10.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Drei offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> **10.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
->
-> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
-
-> **10.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Vier offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, und die Stimmen, die sich an ihnen reiben.
-
-> **10.10.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
->
-> Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
-
-> **10.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> → *12 weitere in* [[Panorama]]
 
 ### GoodNews
 

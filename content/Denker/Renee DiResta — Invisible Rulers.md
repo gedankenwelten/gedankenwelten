@@ -449,3 +449,8 @@ Im Minecraft-Experiment Project Sid folgten die Stimmen simulierter Bürger den 
 ### → [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle!]]
 
 Die deutsche Feldstudie zu Propaganda, die Gruppen gegeneinander aufbringt: Schweinekopf vor der Moschee, Bauschaum mit Grünen-Aufkleber, Ukrainerinnen als Familienzerstörerinnen. Und Bot-Posts, die ohne Resonanz verpuffen.
+
+### → [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]]
+
+Felix Goldbach bringt DiRestas Befund auf die Energiewende: Ziel war nie, die Leute vom Gegenteil zu überzeugen, sondern Zweifel zu säen, damit sie beim Bekannten bleiben. Die Nachbesprechung ergänzt die Prebunking-Forschung dazu.
+

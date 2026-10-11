@@ -24,7 +24,9 @@ aliases:
 Quelle: [Warum ignoriert Frau Reiche diese Lösung für die Energiewende?](https://www.youtube.com/watch?v=VlLWLXub7WU)
 
 > [!info] Wer spricht?
-> **Felix Goldbach** (Hannover) — Betriebswirt und ausgebildeter Bankkaufmann, Gründer des YouTube-Kanals *"Verbrennen ist vorbei"* / *Money for Future* (@MoneyForFuture20, >800 Videos). Kein Wissenschaftler, sondern Energie-Kommunikator und bezahlter Speaker mit Branchennetzwerk (u.a. Kooperation mit enerix-Solarfranchise). Hintergrundarbeit: Bachelorarbeit über Kostendegression in der Photovoltaik, davor im Vertrieb von Batteriespeichern tätig.
+> **Felix Goldbach** (Hannover) — gelernter Banker und Betriebswirt, betreibt den YouTube-Kanal *Felix Goldbach* (über 900 Videos) und den Zweitkanal *„Verbrennen ist vorbei“*; über seine Plattform *Money for Future* vermittelt er Kundenanfragen an zahlende Installateure. Kein Wissenschaftler, sondern Energie-Kommunikator und bezahlter Speaker mit Branchennetzwerk. Hintergrund: Bachelorarbeit über die Photovoltaik-Industrie, danach sechs Jahre beim Speicherhersteller FENECON.
+>
+> → [[DenkerVita/Felix Goldbach|DenkerVita]]
 >
 > **Kontext**: Der Vortrag fand vor Investoren der *WIRSOL Aufdach GmbH* (Waghäusel) in der PreZero Arena (ehemals Hoffenheim) statt — WIRSOL ist ein Partnerunternehmen, das gewerbliche PV-Beteiligungsmodelle anbietet. Felix spricht also nicht als neutraler Experte, sondern vor einem wirtschaftlich interessierten Publikum eines Kooperationspartners. Das prägt den Optimismus-Bias des Vortrags.
 
@@ -202,3 +204,8 @@ Ein Unternehmer in Burgbernheim hat bereits einen 220-kWh-Speicher installiert �
 
 ### → [[Zeitgeist/Fichtner - Zehn Batteriemythen die uns Milliarden kosten|Fichtner — Zehn Batteriemythen]]
 Fichtner liefert die wissenschaftliche Grundlage für Goldbachs Investorenthesen: Die LCOS-Parität (Batteriespeicher günstiger als Gaskraftwerk-Regelenergie) und das Markt-Wachstum von 70 % werden von Fichtner datengestützt bestätigt. Goldbach adressiert die politische Blockade (Reiche), Fichtner die epistemische (Mythen und Lobbyinteressen).
+
+### → [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]]
+
+Ein halbes Jahr später nimmt Felix dieselben DWD-Zahlen wieder auf, diesmal mit Robin Schmid und zur Frage, warum Mythen verfangen. Die Note legt daneben, wie viel Langzeitspeicher die Forschung für gehäufte Winterflauten ansetzt.
+

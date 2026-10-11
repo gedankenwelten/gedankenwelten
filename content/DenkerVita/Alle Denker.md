@@ -238,6 +238,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Veronika Grimm|Veronika Grimm]]** — Ökonomin und Wirtschaftsweise (*1971), Professorin für Energiesysteme und Marktdesign an der TU Nürnberg; Spieltheorie, Auktionen, Wasserstoff; 2022 Ko-Vorsitzende der Gaskommission (Gaspreisbremse), seit 2024 im Streit mit dem eigenen Rat über ihr Siemens-Energy-Mandat; setzt auf Spielregeln, CO2-Preis und Schuldendisziplin
 
+**[[DenkerVita/Felix Goldbach|Felix Goldbach]]** — Energiewende-YouTuber und Speaker aus Hannover, Banker und Betriebswirt mit Vergangenheit in der Speicherbranche (FENECON); rechnet Photovoltaik, Speicher und Wärmepumpe als Investition vor, Co-Host von *Alles wird Strom* — mit Geschäftsinteresse (Vermittlungsplattform Money for Future)
+
 ## H
 
 **[[DenkerVita/Yuval Noah Harari|Yuval Noah Harari]]** — Israelischer Historiker (Hebräische Universität Jerusalem), Autor von *Sapiens*, *Homo Deus*, *Nexus*; geteilte Fiktionen als Motor der Menschheitsgeschichte, KI als erste Geschichten erzählende Technologie, „Dataismus“; langjähriger Vipassana-Praktiker (Goenka-Tradition)
@@ -598,6 +600,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 **[[DenkerVita/Seyda Kurt|Şeyda Kurt]]** — Zärtlichkeit und Hass als politische Gefühle: Şeyda Kurt aus Köln-Kalk denkt die Liebe gegen den Kapitalismus und verteidigt die Unversöhnlichkeit, wo Gerechtigkeit fehlt.
 
 **[[DenkerVita/Ines Schwerdtner|Ines Schwerdtner]]** — Linken-Vorsitzende und frühere Jacobin-Chefredakteurin, die Antifaschismus als Wirtschaftspolitik für bezahlbares Leben buchstabiert
+
+**[[DenkerVita/Robin Schmid|Robin Schmid]]** — Berliner YouTuber und Moderator (*Robin TV*, *Robin PV*), früher Radiomoderator und Sänger; erklärt Elektromobilität und Balkonkraftwerke als Infotainment („Spaß und Überzeugung“ statt Verzicht), Co-Host von *Alles wird Strom* — eng mit Branchenpartnern verbunden
 
 ## T
 

@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*342 Notes — automatisch generiert · nach Thema sortiert*
+*343 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -325,6 +325,7 @@ Jede Note folgt einer eigenen Struktur:
 ### Energie & Klima
 
 - [[Zeitgeist/Akkudoktor — SMR und drei Versprechen|Akkudoktor — Mini-Atomkraftwerke und drei Versprechen]] — Ein Ingenieur legt drei Versprechen der Mini-Atomkraftwerke auf den Taschenrechner. Für die Dunkelflaute taugen sie nicht, beim Rest ist die ehrlichste Antwort: Das weiß heute niemand.
+- [[Zeitgeist/Alles wird Strom — Warum Millionen Energiewende-Mythen glauben|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]] — Man muss niemanden vom Gegenteil überzeugen, es genügt ein Zweifel — zwei Solar-Erklärer über die Mythen der Energiewende und die Frage, warum sie verfangen.
 - [[Zeitgeist/ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)|ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]]
 - [[Zeitgeist/Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)|Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 - [[Zeitgeist/Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien|Energiesubventionen Deutschland — Atomkraft vs. Erneuerbare Energien]]

@@ -331,3 +331,7 @@ Moss zeigt die zweite Karriere des Tabak-Blueprints: Philip Morris wurde über K
 
 Ein aktueller Fall, wie Zweifel hergestellt wird, diesmal durch den staatlichen Auftraggeber: Zwischen Entwurf und Veröffentlichung eines Energiewende-Gutachtens wird aus „unwahrscheinlich“ „fraglich“.
 
+### → [[Alles wird Strom — Warum Millionen Energiewende-Mythen glauben|Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]]
+
+Zwei Solar-Erklärer übertragen „Doubt is our product“ auf die Energiewende und verfolgen es bis zu Heartland und EIKE; der Faktencheck korrigiert, wie viel davon tatsächlich an Koch hängt. Die Nachbesprechung trägt nach, was die Forschung über Prebunking gegen diesen Zweifel weiß.
+
