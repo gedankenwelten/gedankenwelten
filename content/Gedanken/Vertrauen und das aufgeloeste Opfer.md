@@ -99,9 +99,9 @@ Michel Friedman entscheidet sich, Menschen zu vertrauen, obwohl seine Familie er
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Kann eine Gesellschaft großzügig sein?“ und „Wann wird Großzügigkeit zu viel?“.
 
-### → [[Gedanken/Der weitergereichte Stein — warum aus Opfern Taeter werden|Der weitergereichte Stein — warum aus Opfern Täter werden]]
+### → [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
 
-Die Opfer-Frage dieses Gedankens, drei Monate später im Großen gestellt: beim Preis, den man einem Ahnungslosen abnimmt, wie bei der Gewalt, die die nächste rechtfertigt. Wer übervorteilt wurde, reicht weiter, und der Reflex ist in uns allen. Der Vorschuss von hier ist dort die Hand, in der die Kette reißen kann.
+Die Opfer-Frage dieses Gedankens, drei Monate später weitergedacht: Wer genauso wird, um nicht Opfer zu sein, wirft einen Stein in die Luft, der spät, auf Umwegen und verwandelt zurückfällt, und den ersten trifft er schon beim Werfen. Der Vorschuss von hier ist dort die Hand, bevor sie loslässt.
 
 ---
 

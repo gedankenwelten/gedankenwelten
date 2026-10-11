@@ -38,7 +38,7 @@ Die Gedankenwelten (luc)
 
 > **11.10.** — [[Zeitgeist/Mark Benecke — Umwelt-Messungen Sommer 2026|Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026]]
 
-> → *24 weitere in* [[Zeitgeist]]
+> → *25 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -108,9 +108,9 @@ Die Gedankenwelten (luc)
 
 ### Gedanken
 
-> **11.10.** — [[Gedanken/Der weitergereichte Stein — warum aus Opfern Taeter werden|Der weitergereichte Stein — warum aus Opfern Täter werden]]
+> **11.10.** — [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
 >
-> Was mir angetan wird, gebe ich weiter: beim Preis für den Ahnungslosen wie beim Schuss, der den nächsten rechtfertigt. Primitiv ist dieser Reflex in uns allen, auch in mir.
+> Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später, auf Umwegen und verwandelt, und keiner erkennt ihn als seinen.
 
 > **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
 >

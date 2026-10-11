@@ -514,6 +514,10 @@ Ricards Stein trägt dort einen ganzen Abschnitt: Die USA schoben 1996 Gangmitgl
 
 Der schärfste Kontrapunkt zu Ricards trainierbarem Glück: Für Han fährt Glück von außen in den Leib — durch den Widerstand der Gartenerde, der Klaviertasten, des Anderen —, nie durch Introspektion allein. Die produktive Reibung: Ist Glücks-*Training* nicht schon die Selbstoptimierung, die Han als Selbstausbeutung entlarvt? Und entgeht Ricard mit dem Weg nach innen nicht gerade dem Gegenüber, das Han für unverzichtbar hält?
 
+### → [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
+
+Lucs Gedanke nimmt Ricards Stein beim Wort und verlängert den Bogen: Wir sehen nur den Vorteil im Wurf, der Stein fällt spät, auf Umwegen und verwandelt zurück. Dazu der Stein, der schon beim Werfen trifft, weil Karma an der Absicht hängt, und die Goldene Regel als Erfahrungswissen über die Flugbahn.
+
 ---
 
 ## Weiterdenken

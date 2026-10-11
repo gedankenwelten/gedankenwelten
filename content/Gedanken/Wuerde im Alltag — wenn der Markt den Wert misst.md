@@ -141,9 +141,9 @@ Das Panorama, in dem dieser Gedanke weitergeht, mit Weber, Fromm, Hochschild und
 
 Die Frage aus diesem Abschnitt hat zwei Antworten bekommen: Oschmann sieht die Kränkung durch einen Westen, der den Osten bis heute beschreibt, Kowalczuk einen Freiheitsschock, der an alte obrigkeitsstaatliche Gewohnheiten anknüpfte. Beide glauben, dass am Abendbrottisch etwas weitergegeben wird, nur nicht dasselbe. Und Juli Zeh erzählt, wie sie sich im Osten bereichert fühlte, in einer Welt, in der der Marktwert nicht das Höchste war.
 
-### → [[Gedanken/Der weitergereichte Stein — warum aus Opfern Taeter werden|Der weitergereichte Stein — warum aus Opfern Täter werden]]
+### → [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
 
-Einen Tag jünger, dieselbe Wurzel. Wo der Vorteil des einen der Nachteil des anderen sein muss, wird jedes Opfer zum Täter: Was einem angetan wurde, gibt man weiter, beim Lehrgeld wie bei der Gewalt.
+Einen Tag jünger, dieselbe Wurzel. Wo nur der Vorteil im Moment zählt, sieht keiner den Bogen des Steins: Das Lehrgeld, das ich heute kassiere, kommt Jahre später als Misstrauen zurück, in dem ich selbst leben muss.
 
 ---
 

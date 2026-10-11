@@ -362,6 +362,6 @@ Die Gegenprobe im Großen: Was hier für die kleine Geste gilt, gilt dort für e
 
 Die neurowissenschaftliche Unterfütterung der Gravitations-These: Yu zeigt den Mechanismus, warum die kleine Begegnung nicht klein ist — wer einen Menschen in mehreren Kategorien sieht und mentalisiert, schaltet in dessen Gehirn buchstäblich die Menschwahrnehmung wieder ein. Rehumanisierung geschieht im Maßstab 1:1 und wirkt unsichtbar weiter, wie die Fäden der Weber.
 
-### → [[Gedanken/Der weitergereichte Stein — warum aus Opfern Taeter werden|Der weitergereichte Stein — warum aus Opfern Täter werden]]
+### → [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
 
-Die Frage *Was für einen Stein werfe ich gerade?*, gewendet: Jeden Stein, den ich weiterreiche, hat vor mir schon jemand geworfen. Im Markt wie in der Gewalt wird aus dem Opfer der nächste Werfer, und die Kette kann nur in der Hand reißen, die ihn gerade hält.
+Die dunkle Schwester dieses Gedankens. Hier trägt das unsichtbare Netz die Samen, dort die Steine: Millionen kleiner Würfe, jeder mit einem kleinen Vorteil, die spät, auf Umwegen und verwandelt zurückfallen. Dieselben Fäden, dieselben Hände, und dieselbe Frage: *Was für einen Stein werfe ich gerade?*
