@@ -64,6 +64,30 @@ Die Gedankenwelten (luc)
 
 > → *7 weitere in* [[Denker]]
 
+### Panorama
+
+> **13.10.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
+>
+> Gedankenlos, überzeugt oder nur dabei: Drei offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
+
+> **13.10.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
+>
+> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
+
+> **11.10.** — [[Panorama/Forschung|Forschung]]
+>
+> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
+
+> **10.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
+>
+> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
+
+> **10.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Vier offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, und die Stimmen, die sich an ihnen reiben.
+
+> → *12 weitere in* [[Panorama]]
+
 ### Geistesblitz
 
 > **11.10.** — [[Geistesblitz/Manfred Spitzer — KI, Gehirn und Lernen|Manfred Spitzer — KI, Gehirn und Lernen]]
@@ -75,30 +99,6 @@ Die Gedankenwelten (luc)
 > **07.10.** — [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 >
 > Wer mit dreißig einwandert, wird selten noch straffällig; wer jahrelang geduldet wartet, eher. Ein Kriminologe über Migration und Kriminalität, jenseits von Ressentiment und Beschwichtigung.
-
-### Panorama
-
-> **11.10.** — [[Panorama/Forschung|Forschung]]
->
-> Wofür ist das Labor verantwortlich, wer bezahlt es, wie weit darf man ihm glauben, und was ändert die Maschine daran? Vier offene Fragen an die Forschung und die Stimmen, die sich an ihnen reiben.
-
-> **10.10.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Drei offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> **10.10.** — [[Panorama/Wann darf der Staat Preise setzen|Wann darf der Staat Preise setzen?]]
->
-> Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
-
-> **10.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Vier offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, und die Stimmen, die sich an ihnen reiben.
-
-> **10.10.** — [[Panorama/Schoener Wohnen|Schöner Wohnen]]
->
-> Die Zeitschrift fragt, wie man schön einrichtet. Davor steht eine andere Frage: ob man sich eine Wohnung überhaupt leisten kann — und wem die Stadt gehört, in der sie steht.
-
-> → *12 weitere in* [[Panorama]]
 
 ### Spuren
 

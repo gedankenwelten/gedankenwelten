@@ -287,6 +287,32 @@ Cipolla hat das Pamphlet selbst *in humorous mood* geschrieben — und diese Ehr
 
 ---
 
+## Nachbesprechung
+
+*Zwei Fragen, die Cipollas Scherz offenlässt, und was man heute darüber weiß.*
+
+### Wann wird Helfen zum Selbstschaden?
+
+Cipollas Hilfloser nützt anderen und schadet sich selbst. Das allein wäre seine Privatsache; gefährlich wird er bei Cipolla erst dadurch, dass er den Banditen Spielraum verschafft. Genau diesen zweiten Teil kann man im Labor beobachten. In öffentlichen Gütern, bei denen alle einzahlen und alle profitieren, finden sich immer Trittbrettfahrer. Dürfen die Kooperierenden sie auf eigene Kosten bestrafen, blüht die Zusammenarbeit auf; ist das ausgeschlossen, bricht sie Runde um Runde zusammen ([Fehr & Gächter 2002, *Altruistic punishment in humans*, Nature, doi:10.1038/415137a](https://doi.org/10.1038/415137a), vielfach repliziert). Wer alles hinnimmt, nimmt der Gruppe also ihre Korrektur. Und es geht nicht ewig gut: Wer merkt, dass andere auf seine Kosten mitfahren, lässt in der eigenen Anstrengung nach ([Kerr 1983, doi:10.1037/0022-3514.45.4.819](https://doi.org/10.1037/0022-3514.45.4.819)). Der Hilflose bleibt nicht hilflos, er hört irgendwann auf zu geben.
+
+Auch der Preis für den Helfer selbst ist gemessen. In einer Tagebuchstudie zehrte Helfen am Arbeitsplatz über den Tag an der Selbststeuerung, und am stärksten bei den besonders prosozial Motivierten; wieder aufgefüllt wurde der Vorrat dort, wo die Helfenden sahen, dass ihre Hilfe etwas bewirkte ([Lanaj, Johnson & Wang 2016, doi:10.1037/apl0000118](https://doi.org/10.1037/apl0000118), Einzelstudie). Tierpfleger, die ihre Arbeit als Berufung erleben, nehmen geringeren Lohn und weniger Freizeit als moralische Pflicht hin, und ihr Arbeitgeber profitiert davon ([Bunderson & Thompson 2009, doi:10.2189/asqu.2009.54.1.32](https://doi.org/10.2189/asqu.2009.54.1.32)) — Cipollas Idealist, „der sich für Prinzipien opfert“, in einer Zoo-Verwaltung.
+
+Wo die Forschung ihm nicht folgt: Sie findet keinen *Typ* des Hilflosen, sondern Lagen, in die man gerät, durch Überlast, fehlende Gegenseitigkeit, unsichtbare Wirkung. Und das Mitfühlen selbst ist nicht der Feind; in einer Übersicht über zehn Studien an medizinischem Personal ging mehr Empathie eher mit *weniger* Burnout einher ([Wilkinson u. a. 2017, doi:10.1016/j.burn.2017.06.003](https://doi.org/10.1016/j.burn.2017.06.003), systematisches Review, korrelativ). Was erschöpft, ist das Geben ohne Grenze und ohne Antwort. Der Dalai Lama zieht daraus den Schluss, den Cipolla nicht zieht: Mitgefühl heißt nicht Hinnehmen, wer Unrecht akzeptiert, macht sich [[Dalai Lama — Die saekulare Ethik#Ist Mitgefühl naiv?|ein Stück weit mitschuldig]]. Rutger Bregman sieht dieselbe Mechanik eine Ebene höher: Die meisten Menschen sind anständig, aber [[Rutger Bregman — Ist der Mensch wirklich gut#Macht korrumpiert — warum die Schamlosen nach oben fallen|die Schamlosen fallen nach oben]], solange die Anständigen sie lassen.
+
+→ Weiter im Panorama: **[[Was ist Grosszuegigkeit#Wann wird Großzügigkeit zu viel?|Wann wird Großzügigkeit zu viel?]]**, mit Aristoteles, Simone Weil, Susanne Boshammer, Christine Brähler und Ruben Mawick, und mit der Forschung zur Fürsorge, die sich selbst vergisst.
+
+### Dumm oder gedankenlos?
+
+Cipolla behandelt Dummheit wie eine Naturkonstante: ein fester Anteil in jeder Gruppe, zu jeder Zeit. Bonhoeffer hält dagegen, [[Dietrich Bonhoeffer — Theorie der Dummheit#2. Dummheit als soziales Phänomen — das eigentliche Zentrum|Dummheit sei kein intellektueller, sondern ein menschlicher Defekt]], der unter dem Eindruck der Macht entsteht, wenn jemand sein Urteil abgibt. Und Arendt fand in Eichmann weder Dummheit noch Bosheit, sondern [[Hannah Arendt — Die Banalität des Bösen#Die Banalität des Bösen — das Kernkonzept|die Unfähigkeit, vom Standpunkt eines anderen aus zu denken]].
+
+Für Cipollas Seite spricht, dass Intelligenz tatsächlich wenig schützt. Viele klassische Denkfehler hängen nicht mit der kognitiven Fähigkeit zusammen (→ Faktencheck), und den blinden Fleck für die eigenen Fehler — die anderen sind voreingenommen, ich nicht — haben die kognitiv Versierten genauso, eher noch etwas stärker ([West, Meserve & Stanovich 2012, doi:10.1037/a0028857](https://doi.org/10.1037/a0028857)). Für Bonhoeffer und Arendt zugleich spricht ein Befund, der beide verbindet: Menschen, die man sich mächtig fühlen ließ, übernahmen seltener die Sicht eines anderen. Sie bedachten weniger, dass andere ihr Wissen nicht teilen, und lasen Gesichter schlechter ([Galinsky u. a. 2006, *Power and Perspectives Not Taken*, doi:10.1111/j.1467-9280.2006.01824.x](https://doi.org/10.1111/j.1467-9280.2006.01824.x), vier Experimente; wie viele Priming-Studien jener Jahre unter Replikationsvorbehalt). Macht macht demnach nicht dumm im Sinne des IQ, aber blind auf genau dem Auge, das Arendt meinte. Ana Guinote liest dieselben Daten milder: Macht verstärke vor allem das Streben nach dem eigenen Ziel, sie mache entschlossener und dabei enger ([Guinote 2017, doi:10.1146/annurev-psych-010416-044153](https://doi.org/10.1146/annurev-psych-010416-044153), Übersichtsarbeit).
+
+Gegen Cipollas Pessimismus spricht, dass sich der Denkstil verändern lässt, der vor solchen Fehlern schützt. Intellektuelle Bescheidenheit, das Wissen, dass die eigene Überzeugung falsch sein könnte, ist messbar, und wer sie hat, lässt sich stärker von der Güte eines Arguments leiten als von seiner Herkunft ([Leary u. a. 2017, doi:10.1177/0146167217697695](https://doi.org/10.1177/0146167217697695)). Das ist näher an Bonhoeffers „Befreiung“ als an einer Konstante. Und auch die kollektive Kraft der Dummen, die das Erklärvideo beschwört, ist kein Naturgesetz: Albert Moukheiber erinnert an Galton, der die Dummheit der Menge beweisen wollte und dabei fand, dass [[Albert Moukheiber — Mein Hirn und die anderen#9. Weisheit der Vielen — Galtons fehlgeschlagener Beweis der Dummheit|ihre mittlere Schätzung das Gewicht des Ochsen fast genau traf]]. Ob „dumm“, „gedankenlos“ und „urteilslos unter Macht“ am Ende drei Namen für dasselbe sind oder drei verschiedene Dinge, hat bisher niemand sauber getrennt.
+
+→ Weiter im Panorama: **[[Wie werden gewoehnliche Menschen zu Taetern#Gedankenlos oder überzeugt?|Gedankenlos oder überzeugt?]]**, mit Arendt, Bonhoeffer, Welzer, Fromm und der Täterforschung von Browning bis Stangneth.
+
+---
+
 ## Faktencheck
 
 > [!warning] Teilweise gestützt — Dummheit ist unabhängig von Intelligenz (2. Gesetz)
