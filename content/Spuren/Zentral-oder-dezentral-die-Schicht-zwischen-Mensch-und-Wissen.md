@@ -19,6 +19,16 @@ description: "Nicht welches Modell das beste ist entscheidet die KI-Ära, sonder
 
 # Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?
 
+![[assets/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Pieter Bruegel d. Ä.** — Öl auf Eichenholz, nach dem *Turmbau zu Babel*: erdiges Ocker, Oliv, Ziegelrot, Gewimmel kleiner Figuren. Links der gewaltige Turm, die oberen Stockwerke leuchten kühl wie Maschinensäle, am Hafen werden Goldkisten hineingetragen, die Menschen bringen ihre Bücher hinauf. Rechts das offene Land mit verstreuten Höfen, jeder mit eigenem Licht im Fenster, Leute lesen draußen. Babel ist das älteste Bild für ein zentrales Sprachprojekt, an dem alle mitbauen. Dass die Kabel des Turms schon die Hügel zum Dorf hinaufkriechen, ist der Verlauf dieser Spur: Der Burggraben schluckt die Offenheit.
+
+*Prompt:* Pieter Bruegel the Elder oil painting on oak panel, wide 1200x500 banner, in the manner of The Tower of Babel, fine glazes, crowded with tiny figures. Left and centre: a colossal spiralling tower of arches rising into the clouds, its unfinished upper floors glowing from within with a cold bluish light like rows of humming machines; thick dark cables run from its base across the land like roads. Long lines of tiny peasants carry books, scrolls and questions up the ramps into the tower, and come back down holding small mirrors. At the harbour below, ships unload crates and great chests of gold into the tower's gates. Right third: open green countryside with a scattered village, each little farmhouse with its own small warm lantern in the window, people reading and talking around their own fires, a few paths leading away from the tower. Bruegel's earthy palette of ochre, olive green, brick red, pale blue sky. No text, no signature, no monogram.
+
+</details>
+
 > [!abstract] Worum es geht
 > Die entscheidende Frage der KI-Ära ist nicht, *welches* Modell das beste ist, sondern ob die Schicht
 > zwischen Mensch und Wissen **zentral** bleibt (Cloud, geschlossen, im Datenfluss sitzend,
