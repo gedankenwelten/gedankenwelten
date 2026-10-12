@@ -15,6 +15,16 @@ aliases:
 
 # Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026
 
+![[assets/Mark-Benecke-Umwelt-Messungen-Sommer-2026-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Albrecht Dürer** — naturalistische Studie in Aquarell und Deckfarbe, nach dem *Großen Rasenstück*. Links die dichte Wiese voller Falter, Eintagsfliegen und Bienen, zur Mitte hin dünnt sie aus, rechts rissige, leere Erde und alte Grabsteine; mittendrin ein einziger Käfer. Dürers Rasenstück ist das berühmteste Bildnis einer Wiese voller Leben, hier wird es zum *Baseline Shift*: Man sieht, was fehlt, nur weil man noch weiß, wie es war — wie Benecke auf dem Berliner Friedhof.
+
+*Prompt:* Albrecht Dürer naturalist study in watercolor and gouache on aged cream paper, wide 1200x500 banner, in the manner of his Great Piece of Turf. Left third: a dense, meticulously painted clump of meadow grasses, dandelion, plantain and yarrow, alive with tiny butterflies, mayflies and bees. Toward the centre the grasses thin out, the colours drain to pale ochre and grey, the insects vanish. Right half: bare, dry, cracked pale earth and a few weathered old cemetery gravestones, empty and silent under a hazy, overheated white sky. On the bare ground in the centre-right, one single small dark beetle, painted with loving precision, alone. Muted greens, earth browns, chalky whites. Delicate brushwork, the paper grain visible. No text, no signature, no monogram.
+
+</details>
+
 Quelle: [Time is up: Die neuen Umwelt-Messungen für Sommer 2026](https://www.youtube.com/watch?v=W27dbdQlyNA)
 
 > [!info] Wer spricht?

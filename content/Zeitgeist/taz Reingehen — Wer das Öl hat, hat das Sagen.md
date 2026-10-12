@@ -20,6 +20,16 @@ aliases:
 
 # taz Reingehen — Wer das Öl hat, hat das Sagen
 
+![[assets/taz-Reingehen-Wer-das-Oel-hat-hat-das-Sagen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Diego Rivera** — Wandbild in Freskomanier, Erdrot, Ocker, Petrol und Ölschwarz, monumentale runde Figuren. Eine einzige Kette von links nach rechts: der Tanker in der Meerenge, Kriegsschiffe am Horizont, die Raffinerie, dann die Näherinnen unter nackten Glühbirnen vor einem gerissenen Betonpfeiler, am Ende der Container und das saubere Schaufenster. Rivera hat Industrie als Kette von Händen gemalt — genau die beiden Hälften dieser Folge, Öl als Waffe und das Lieferkettengesetz, sind hier ein Bild.
+
+*Prompt:* Diego Rivera fresco mural, wide 1200x500 banner, mineral pigments on plaster with a matte, slightly grainy fresco surface. One continuous chain from left to right. Left: a narrow sea strait between brown rocky mountains, a huge black oil tanker squeezed through it, warships small on the horizon. A thick black pipeline runs out of the tanker across the whole picture like a river. Centre: heavy-set workers in a refinery of pipes and flames, then the pipeline feeds into a crowded garment factory where rows of South Asian women in bright saris bend over sewing machines under bare bulbs, a cracked concrete pillar behind them. Right: piles of finished shirts loaded into shipping containers, and beyond them a faceless European shop window with clean mannequins. Rivera's rounded monumental figures, warm earth reds, ochre, deep teal and oil black. No text, no signature.
+
+</details>
+
 Quelle: [Wer das Öl hat, hat das Sagen — Podcast Reingehen](https://www.youtube.com/watch?v=m2ktiuohK_s)
 
 > [!tip] Redaktion unterstützen

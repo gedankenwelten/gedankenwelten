@@ -20,6 +20,16 @@ aliases:
 
 # Mario Buchinger — Lügen der Kernenergie (6/6): Neue Generationen von Reaktoren lösen alle Probleme
 
+![[assets/Mario-Buchinger-Luegen-der-Kernenergie-6-6-Neue-Reaktorgenerationen-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Spätmittelalterliche Millefleurs-Tapisserie**, nach *The Unicorn in Captivity* — Wolle und Seide, Tausendblumengrund. Buchingers „pinke Einhörner“ werden wörtlich: ein rosa Einhorn im runden Gatter, angekettet an einen kleinen Reaktor statt an den Granatapfelbaum; links zeigen zwei Gelehrte begeistert auf ihre Baupläne, rechts weitere Fabeltiere im Laub und ein einsamer Kühlturm. Die Tapisserie ist die Bildform für Wesen, an die man glaubt, ohne sie je gesehen zu haben.
+
+*Prompt:* Late medieval millefleurs tapestry in the style of The Unicorn in Captivity, woven wool and silk with visible thread texture, wide 1200x500 banner. Centre: a pink unicorn lying inside a small round wooden fence on a dark green field densely strewn with tiny flowers. Instead of a pomegranate tree, a small squat cylindrical nuclear reactor vessel stands inside the fence, the unicorn chained to it with a golden chain. Left: two medieval scholars in robes unroll long blueprints and point excitedly at the unicorn. Right, small in the background: a lone grey cooling tower among the flowers and a few more pink unicorns half-hidden in the foliage, fabulous and unreal. Rich tapestry palette of deep green, madder red, ochre, faded blue, with the soft pink of the unicorns. Flat medieval perspective. No text.
+
+</details>
+
 Quelle: [Lügen der Kernenergie — Folge 6/6](https://www.youtube.com/watch?v=bY5bK82_vzU) (#RestartThinking)
 Serie: [[Zeitgeist/Mario Buchinger — Es gibt keine Renaissance der Kernenergie]]
 
