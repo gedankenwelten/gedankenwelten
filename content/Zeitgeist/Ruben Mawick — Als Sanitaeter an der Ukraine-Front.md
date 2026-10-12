@@ -52,7 +52,7 @@ Quelle: [So ist es WIRKLICH an der FRONT — MARCANT PODCAST #11](https://www.yo
 
 Bemerkenswert ist seine Selbsteinordnung. Auf die Frage, warum Menschen so etwas tun, weigert er sich, sich zu erhöhen — und legt zugleich offen, wie sehr ihn die ständige Rechtfertigung zermürbt.
 
-> [▶ 18:25](https://www.youtube.com/watch?v=kNvsH_JB70Y&t=1105) — *„Sorry, dass ich mein Leben nicht als Mehrwert ansehe als das von dem ukrainischen Kind.“*
+> [▶ 18:47](https://www.youtube.com/watch?v=kNvsH_JB70Y&t=1127) — *„Sorry, dass ich mein Leben nicht als mehr wert ansehe als das von dem ukrainischen Kind.“*
 
 Das „Helfersyndrom“ werde ihm wie eine Krankheit vorgeworfen, sagt er, und man höre die Gereiztheit. Hier steckt der Kern einer Haltung, die das ganze Gespräch trägt: Er will nicht reden, er will *machen* — und er erwartet von niemandem dasselbe. Wer aus Deutschland helfen will, soll das tun; wer wegen einer Knieverletzung zu Hause bleibt, soll sich nicht rechtfertigen müssen. Die Konsequenz daraus ist sperrig: Derselbe Mann, der freiwillig an die Front fährt, ist gegen das Verheizen von Bundeswehrsoldaten dort — und wird trotzdem als „Kriegstreiber“ beschimpft.
 
