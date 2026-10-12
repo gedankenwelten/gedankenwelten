@@ -40,7 +40,7 @@ Die Gedankenwelten (luc)
 
 > **11.10.** — [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (6▸6) Neue Reaktorgenerationen|Mario Buchinger — Lügen der Kernenergie (6/6): Neue Reaktorgenerationen lösen alle Probleme]]
 
-> → *19 weitere in* [[Zeitgeist]]
+> → *18 weitere in* [[Zeitgeist]]
 
 ### Denker
 
