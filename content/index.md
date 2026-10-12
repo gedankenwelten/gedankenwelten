@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **13.10.** — [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]]
+>
+> Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter in der Ukraine, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
+
 > **12.10.** — [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Tillschneider vor der Synagoge in Halle]]
 >
 > Wer einen Anschlag zum Amoklauf erklärt, muss den Täter nicht verstehen — und hat beim Gedenken trotzdem einen Platz in der ersten Reihe verlangt.
@@ -38,9 +42,7 @@ Die Gedankenwelten (luc)
 >
 > Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
 
-> **11.10.** — [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (6▸6) Neue Reaktorgenerationen|Mario Buchinger — Lügen der Kernenergie (6/6): Neue Reaktorgenerationen lösen alle Probleme]]
-
-> → *18 weitere in* [[Zeitgeist]]
+> → *19 weitere in* [[Zeitgeist]]
 
 ### Denker
 
