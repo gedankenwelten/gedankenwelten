@@ -81,6 +81,8 @@ Die Grauzone wird nie zu Stufe A gezählt, aber offen ausgewiesen, mit der Angab
 
 **Präzisierung, vorab registriert am 04.10.2026**, vor dem Satzungsbeschluss vom 6. Oktober und vor dem Ergebnis der Vorgespräche: Eine Satzungsklausel oder eine Vereinbarung mit SPD und Grünen zählt als Schritt 4 nur, wenn sie (a) eine benannte Instanz, (b) Sanktionen und (c) die Anwendung auf mindestens einen der offenen Fälle enthält. Sonst ist sie eine Zusage, kein Schritt. Die Präzisierung verschärft den Maßstab, sie weicht ihn nicht auf.
 
+**Zweite Grauzone: Erinnerungsabwehr, vorab registriert am 12.10.2026**, auf Andreas' Entscheidung, gleichlautend in dieser Spur und in [[AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht]], vor der nächsten Anwendung in beiden. Der gemeinsame Kern von IHRA und JDA ist am Streit um Israel geschnitten. Durch ihn fällt die Form, die rechts verbreitet ist: Schuldabwehr, die Relativierung der NS-Verbrechen und die Entnennung antisemitischer Taten (der „Amoklauf von Halle“). Die Leipziger Autoritarismus-Studie zählt Schuldabwehr als eigene Dimension des Antisemitismus. Sie läuft darum als zweite Grauzone neben der ersten (Boykott, Einstaatenlösung, Apartheid- und Kolonialvergleich) und nach denselben Regeln: nie zu Stufe A gezählt, in jeder Anwendung offen ausgewiesen, mit der Angabe, wie das Urteil mit ihr ausfiele. Die Leugnung des Holocaust gehört nicht hierher, sie steht in beiden Definitionen und zählt im Kern. Die Registrierung erweitert nur, was ausgewiesen wird. Stufen und Schwellen bleiben, wie sie sind.
+
 **Sonderregel zur Querachse:** Die Messung der Berichterstattung (unten) darf die Stufe weder heben noch senken. Eine laute Kampagne macht einen Vorwurf weder wahr noch falsch.
 
 ## Verlauf

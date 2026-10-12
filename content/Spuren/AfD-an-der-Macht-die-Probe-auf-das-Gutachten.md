@@ -130,11 +130,17 @@ aus IHRA und JDA ist am Streit um Israel geschnitten, an der Form, die links ver
 verbreitet ist, die Abwehr der Erinnerung, fällt durch dasselbe Raster, obwohl die Leipziger Forschung sie als eigene
 Dimension des Antisemitismus zählt.
 
-> [!todo] Vorschlag zur Registrierung, von Andreas zu entscheiden
-> Erinnerungsabwehr wird in **beiden** Spuren eine eigene, offen ausgewiesene Grauzone, so wie Boykott und
-> Einstaatenlösung bei der Linken. Sie zählt nie zu Stufe A, wird aber immer mit der Angabe geführt, wie das Urteil mit
-> ihr ausfiele. Registriert wird das *vor* der nächsten Anwendung und für beide Spuren gleich, damit eine nachträgliche
-> Änderung nicht das gewünschte Ergebnis herstellt.
+> [!note] Registriert am 12.10.2026: Erinnerungsabwehr als zweite Grauzone
+> Auf Andreas' Entscheidung, gleichlautend hier und in [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismus?]],
+> vor der nächsten Anwendung in beiden. Der gemeinsame Kern von IHRA und JDA ist am Streit um Israel geschnitten. Durch
+> ihn fällt die Form, die rechts verbreitet ist: Schuldabwehr, die Relativierung der NS-Verbrechen und die Entnennung
+> antisemitischer Taten (der „Amoklauf von Halle“). Die Leipziger Autoritarismus-Studie zählt Schuldabwehr als eigene
+> Dimension des Antisemitismus. Sie läuft darum als zweite Grauzone neben der ersten (Boykott, Einstaatenlösung,
+> Apartheid- und Kolonialvergleich) und nach denselben Regeln: nie zu Stufe A gezählt, in jeder Anwendung offen
+> ausgewiesen, mit der Angabe, wie das Urteil mit ihr ausfiele. Die Leugnung des Holocaust gehört nicht hierher, sie
+> steht in beiden Definitionen und zählt im Kern. Die Registrierung erweitert nur, was ausgewiesen wird. Stufen und
+> Schwellen bleiben, wie sie sind. Für die Dimension D heißt das: Die beiden Rechnungen oben (Kern C, mit
+> Erinnerungsabwehr A) sind ab jetzt die Pflichtform.
 
 
 ## Falsifikation
