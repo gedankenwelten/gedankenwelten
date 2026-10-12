@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **12.10.** — [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Tillschneider vor der Synagoge in Halle]]
+>
+> Wer einen Anschlag zum Amoklauf erklärt, muss den Täter nicht verstehen — und hat beim Gedenken trotzdem einen Platz in der ersten Reihe verlangt.
+
 > **11.10.** — [[Zeitgeist/Jens-Christian Wagner — Buchenwald und deutsche Erinnerung|Jens-Christian Wagner — Buchenwald und deutsche Erinnerung]]
 >
 > Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist.
@@ -36,9 +40,7 @@ Die Gedankenwelten (luc)
 
 > **11.10.** — [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (6▸6) Neue Reaktorgenerationen|Mario Buchinger — Lügen der Kernenergie (6/6): Neue Reaktorgenerationen lösen alle Probleme]]
 
-> **11.10.** — [[Zeitgeist/Mark Benecke — Umwelt-Messungen Sommer 2026|Mark Benecke — Die neuen Umwelt-Messungen für Sommer 2026]]
-
-> → *25 weitere in* [[Zeitgeist]]
+> → *19 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -71,16 +73,6 @@ Die Gedankenwelten (luc)
 > **07.10.** — [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 >
 > Wer mit dreißig einwandert, wird selten noch straffällig; wer jahrelang geduldet wartet, eher. Ein Kriminologe über Migration und Kriminalität, jenseits von Ressentiment und Beschwichtigung.
-
-> **04.10.** — [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]]
->
-> Ob eine Steuer, ein Etikett oder ein neues Rezept: Keines wirkt allein, und jedes verändert, was die anderen bewirken. Eine Konsumforscherin über das Für und Wider, wenn der Staat beim Essen mitlenkt.
-
-> **04.10.** — [[Geistesblitz/Chris van Tulleken — Ultra-verarbeitete Lebensmittel|Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]
->
-> Wir verarbeiten unser Essen, seit wir Menschen sind. Neu ist eine Nahrung aus Pulvern, Ölen und Zusatzstoffen, die schneller satt macht als der Körper es merkt — und an der vor allem die Rendite hängt.
-
-> → *1 weitere in* [[Geistesblitz]]
 
 ### Panorama
 
