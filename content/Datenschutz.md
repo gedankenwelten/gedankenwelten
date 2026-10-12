@@ -8,7 +8,7 @@ aliases:
 
 # Datenschutzerklärung
 
-Stand: 19. September 2026
+Stand: 13. Oktober 2026
 
 ## 1. Verantwortlicher
 
@@ -36,6 +36,8 @@ Auf den Textseiten zählen wir zusätzlich, **wie lange und wie weit ein Text ge
 Wird auf einer Textseite der eingebettete Videoplayer benutzt, zählen wir außerdem, **wie lange das Video lief** und wodurch es gestartet wurde (ein Zitat, eine Zeitmarke oder der Player selbst), sowie ob der Player blockiert war. Auch das sind nur Zahlen, übertragen beim Verlassen der Seite nach denselben Regeln. Wer den Player nicht benutzt, sendet nichts davon.
 
 Klickt jemand auf einer Textseite einen Link zu einer anderen Website an (etwa zu einem Video, einem Buch oder einer Studie), zählen wir **nur den Namen dieser Website**, zum Beispiel „youtube.com“, nicht die vollständige Adresse. So sehen wir, ob jemand weitergegangen ist, statt die Seite zu verlassen. Auch das wird nach denselben Regeln übertragen; die andere Website erfährt dadurch nichts von uns.
+
+Auf der **Startseite** zählen wir, **wie lange und wie weit gestöbert wurde**: die Sekunden, in denen die Seite sichtbar ist und bewegt wird, wie viele Notes-Karten dabei im Bild waren, und welche Hilfen benutzt wurden (etwa die Rubrikwahl, die Suche oder ein Thema) — nur deren Namen, **nie das Suchwort** und nicht, welche Karten es waren. Übertragen beim Verlassen der Seite nach denselben Regeln. So sehen wir, ob die Startseite zum Stöbern einlädt.
 
 **Nicht gezählt werden:** Wer [diesen Link](/?nicht-zaehlen) einmal antippt (oder eine beliebige Adresse dieser Website mit dem Zusatz `?nicht-zaehlen` aufruft), wird in diesem Browser nicht mehr erfasst. Die Einstellung liegt nur im eigenen Browser; eine als App auf dem Home-Bildschirm abgelegte Seite hat ihren eigenen Speicher und braucht den Link dort noch einmal. [Wieder zählen lassen](/?wieder-zaehlen) hebt sie auf.
 
