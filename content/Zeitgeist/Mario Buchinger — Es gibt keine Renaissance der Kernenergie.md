@@ -145,7 +145,7 @@ Buchinger verwendet explizit die „Dummheits"-Rhetorik: Wer 2026 noch die Kerne
 
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Die Frustration über Menschen, die trotz klarer Datenlage immer wieder die gleichen falschen Argumente vorbringen, ist ein Paradefall für Cipollas viertes Gesetz: Dumme schaden anderen und sich selbst ohne erkennbaren Eigennutzen.
+Die Frustration über Menschen, die trotz klarer Datenlage immer wieder die gleichen falschen Argumente vorbringen, ist ein Paradefall für Cipollas drittes Gesetz: Dumme schaden anderen und sich selbst ohne erkennbaren Eigennutzen.
 
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 

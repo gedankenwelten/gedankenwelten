@@ -46,6 +46,10 @@ Die Gedankenwelten (luc)
 
 ### Denker
 
+> **13.10.** — [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit|Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+>
+> Ein Wirtschaftshistoriker schreibt als Scherz die Gesetze der Dummheit auf: Wer anderen schadet, ohne selbst etwas davon zu haben, ist gefährlicher als jeder Bandit.
+
 > **11.10.** — [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
 
 > **11.10.** — [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
@@ -58,11 +62,7 @@ Die Gedankenwelten (luc)
 >
 > „Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann.
 
-> **10.10.** — [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]]
->
-> Während die Opfer arbeiteten, um zu überleben, nannten die Täter ihr Morden Arbeit: Welzer zeigt, wie gewöhnliche Männer das Töten als Drecksarbeit erträglich machten.
-
-> → *6 weitere in* [[Denker]]
+> → *7 weitere in* [[Denker]]
 
 ### Geistesblitz
 

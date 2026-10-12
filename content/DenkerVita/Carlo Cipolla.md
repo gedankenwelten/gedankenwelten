@@ -55,14 +55,14 @@ Cipolla starb 2000 in seiner Geburtsstadt Pavia — dort, wo alles begann.
 | [Cristofano and the Plague: A Study of the History of Public Health in the Age of Galileo](https://www.genialokal.de/Suche/?q=Cristofano+Plague+Cipolla) | 1973 | Wirtschaftsgeschichte einer Epidemie: Wie die Pest Medizin, öffentliche Verwaltung und ökonomische Rationalität herausfordert. |
 | [The Economic History of World Population](https://www.genialokal.de/Suche/?q=Economic+History+World+Population+Cipolla) | 1962 | Einer seiner meistgelesenen Essays; wurde in 13 Sprachen übersetzt. Globale Perspektive auf Bevölkerung und Wirtschaftskraft. |
 | [Before the Industrial Revolution: European Society and Economy, 1000–1700](https://www.genialokal.de/Suche/?q=Before+Industrial+Revolution+Cipolla) | 1976 | Standardwerk der Vormodern-Geschichtsschreibung. Zeigt, wie Wirtschaft vor Dampf und Elektrizität funktionierte. |
-| [Allegro ma non troppo](https://www.genialokal.de/Suche/?q=Allegro+ma+non+troppo+Cipolla) | 1988 | Sammlung Essays; enthält die erste autorisierte Veröffentlichung von *The Basic Laws of Human Stupidity*. Wurde zum Bestseller (350.000 Exemplare in Italien, 13 Sprachen). |
+| [Allegro ma non troppo](https://www.genialokal.de/Suche/?q=Allegro+ma+non+troppo+Cipolla) | 1988 | Sammlung Essays; enthält die erste autorisierte Veröffentlichung von *The Basic Laws of Human Stupidity*. Wurde zum Bestseller (laut Verlag über eine halbe Million Exemplare in mehr als zehn Sprachen). Deutsch bei Wagenbach, dort als „Die Prinzipien der menschlichen Dummheit“. |
 | [The Basic Laws of Human Stupidity](https://www.genialokal.de/Suche/?q=Basic+Laws+Human+Stupidity+Cipolla) | 1976 (original); 2019 (erweiterte englische Edition mit Vorwort von Nassim Nicholas Taleb) | Das epochale Pamphlet, das als privater Witz begann. Verkauft über 500.000 Exemplare weltweit. Taleb schrieb: *"Ein meisterhaftes Buch über eine mächtige dunkle Kraft."* |
 
 ---
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [Die 5 Gesetze der Dummheit — Wahre Worte](https://www.youtube.com/watch?v=5VNHIxbAz6Q) — Deutschsprachiges Erklärvideo, das Cipollas Vier-Quadranten-Modell und die fünf Gesetze in 20 Minuten präzise darstellt.
+- [Die 5 Gesetze der Dummheit — Wahre Worte](https://www.youtube.com/watch?v=5VNHIxbAz6Q) — Deutschsprachiges Erklärvideo, das Cipollas Vier-Quadranten-Modell in 20 Minuten anschaulich erklärt und um eigene Gedanken ergänzt (die Zählung der Gesetze 4 und 5 weicht von Cipolla ab).
 
 ---
 
@@ -110,7 +110,7 @@ Der Theologe von 1942 und der Ökonom von 1976 treffen sich im schärfsten Satz:
 
 Alle Notes im Vault, die Carlo Cipolla behandeln oder seine Konzepte verwenden:
 
-- [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit|Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Tiefenanalyse des Dummheits-Essays mit vollständiger Exegese aller fünf Gesetze, des Asymmetrie-Problems, des Kommpositions-Theorems und der Grenzen des Modells.
+- [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit|Carlo Cipolla — Die fünf Gesetze der Dummheit]] — Tiefenanalyse des Dummheits-Essays mit vollständiger Exegese aller fünf Gesetze, des Asymmetrie-Problems, der Kompositions-These und der Grenzen des Modells.
 
 ---
 
@@ -118,11 +118,11 @@ Alle Notes im Vault, die Carlo Cipolla behandeln oder seine Konzepte verwenden:
 
 Cipollas Werk wurde 1976 geschrieben — in einer Zeit ohne Internet, ohne soziale Medien, ohne Algorithmen-getriebene Aufmerksamkeit. Und doch: Jedes Gesetz gilt heute *stärker* als damals.
 
-Das erste Gesetz — *Die Zahl der Dummen wird immer unterschätzt* — ist im Zeitalter von TikTok und X viraler geworden. Der Anteil der Bevölkerung, die in einem beliebigen Moment irrational handelt, war vielleicht 1976 schon 15–20%. Heute? Mit Algorithmen, die Wut belohnen und Differenzierung bestraft? Vermutlich höher.
+Das erste Gesetz — *Die Zahl der Dummen wird immer unterschätzt* — ist im Zeitalter von TikTok und X sichtbarer geworden. Bei Cipolla ist der Anteil der Dummen eine Konstante, zu allen Zeiten und an allen Orten gleich. Was sich geändert hat, ist die Reichweite: Mit Algorithmen, die Wut belohnen und Differenzierung bestrafen, erreicht derselbe Anteil heute weit mehr Menschen.
 
-Das fünfte Gesetz — *Die Welt leidet unter der kollektiven Kraft der Dummen* — ist zur unmittelbar sichtbaren Realität geworden. Dumme verstärken sich nicht mehr nur in Dorfkneipen, sondern über Millionen hinweg, in Echtzeit, in organisierten Netzwerken, die niemand dirigiert. Sie folgen denselben vier Hashtags, lesen dieselben sechs Mythen, ohne je abgesprochen zu haben.
+Was das bekannte Erklärvideo als fünftes Gesetz zählt — *die kollektive Kraft der Dummen*, bei Cipolla so nicht formuliert (sein fünftes lautet: Der Dumme ist der gefährlichste Mensch) —, ist zur unmittelbar sichtbaren Realität geworden. Dumme verstärken sich nicht mehr nur in Dorfkneipen, sondern über Millionen hinweg, in Echtzeit, in organisierten Netzwerken, die niemand dirigiert. Sie folgen denselben vier Hashtags, lesen dieselben sechs Mythen, ohne je abgesprochen zu haben.
 
-Die **bittersüße Einsicht** ist aber auch diese: Cipolla sagt nicht, dass die Welt verloren ist. Er sagt nur, dass Intelligente ausgebrannt werden, während Dumme Energie verlieren. Die Frage ist, ob genug Intelligente übrig bleiben, um die Komposition wieder zu verschieben.
+Die **bittersüße Einsicht** ist aber auch diese: Cipolla sagt nicht, dass die Welt verloren ist. Er sagt nur, dass es auf die Mischung ankommt: Wo die Hilflosen zunehmen und die Banditen dümmer werden, kippt eine Gesellschaft. Die Frage ist, ob genug Intelligente übrig bleiben, um die Komposition wieder zu verschieben.
 
 Das ist nicht hoffnungsvoll. Aber es ist nicht hoffnungslos. Es ist eine *Aufgabe*.
 
