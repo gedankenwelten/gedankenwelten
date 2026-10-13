@@ -39,6 +39,8 @@ Klickt jemand auf einer Textseite einen Link zu einer anderen Website an (etwa z
 
 Auf der **Startseite** zählen wir, **wie lange und wie weit gestöbert wurde**: die Sekunden, in denen die Seite sichtbar ist und bewegt wird, wie viele Notes-Karten dabei im Bild waren, und welche Hilfen benutzt wurden (etwa die Rubrikwahl, die Suche oder ein Thema) — nur deren Namen, **nie das Suchwort** und nicht, welche Karten es waren. Übertragen beim Verlassen der Seite nach denselben Regeln. So sehen wir, ob die Startseite zum Stöbern einlädt.
 
+Im **Gedankenraum** wird eine Note schon im Hintergrund geladen, wenn man sich ihrem Bild zuwendet. Diesen Aufruf kennzeichnen wir als „im Raum“, damit er nicht als gelesen zählt; die Lesezeit läuft dort erst, wenn man in die Note eintaucht. Weitere Angaben entstehen dadurch nicht.
+
 **Nicht gezählt werden:** Wer [diesen Link](/?nicht-zaehlen) einmal antippt (oder eine beliebige Adresse dieser Website mit dem Zusatz `?nicht-zaehlen` aufruft), wird in diesem Browser nicht mehr erfasst. Die Einstellung liegt nur im eigenen Browser; eine als App auf dem Home-Bildschirm abgelegte Seite hat ihren eigenen Speicher und braucht den Link dort noch einmal. [Wieder zählen lassen](/?wieder-zaehlen) hebt sie auf.
 
 Um Besuche zählen zu können, bildet Umami aus IP-Adresse, Browser-Kennung und einem monatlich wechselnden Zufallswert eine Kennung, die sich nicht auf die IP-Adresse zurückrechnen lässt. Ein Profil über den Monat hinaus entsteht nicht; eine Weitergabe an Dritte findet nicht statt. Rechtsgrundlage ist unser berechtigtes Interesse, zu verstehen, welche Inhalte gelesen werden (Art. 6 Abs. 1 lit. f DSGVO).

@@ -3,8 +3,12 @@
  "tage": 30,
  "pfade": [
   {
+   "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+   "aufrufe": 399
+  },
+  {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-   "aufrufe": 154
+   "aufrufe": 250
   },
   {
    "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
@@ -19,16 +23,12 @@
    "aufrufe": 65
   },
   {
-   "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "aufrufe": 43
+   "pfad": "/DenkerVita/Mark-Reicher",
+   "aufrufe": 32
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
    "aufrufe": 29
-  },
-  {
-   "pfad": "/DenkerVita/Mark-Reicher",
-   "aufrufe": 28
   },
   {
    "pfad": "/DenkerVita/Christine-Dankbar",
@@ -43,8 +43,12 @@
    "aufrufe": 19
   },
   {
+   "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+   "aufrufe": 19
+  },
+  {
    "pfad": "/DenkerVita/Benjamin-Biersky",
-   "aufrufe": 18
+   "aufrufe": 16
   },
   {
    "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -63,12 +67,24 @@
    "aufrufe": 11
   },
   {
+   "pfad": "/DenkerVita/Marc-Felix-Serrao",
+   "aufrufe": 10
+  },
+  {
+   "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+   "aufrufe": 10
+  },
+  {
    "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
    "aufrufe": 10
   },
   {
-   "pfad": "/DenkerVita/Marc-Felix-Serrao",
+   "pfad": "/DenkerVita/Cordula-Tutt",
    "aufrufe": 10
+  },
+  {
+   "pfad": "/DenkerVita/Torsten-Heinrich",
+   "aufrufe": 9
   },
   {
    "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
@@ -79,11 +95,7 @@
    "aufrufe": 9
   },
   {
-   "pfad": "/DenkerVita/Torsten-Heinrich",
-   "aufrufe": 9
-  },
-  {
-   "pfad": "/DenkerVita/Udo-Marquardt",
+   "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
    "aufrufe": 8
   },
   {
@@ -95,31 +107,35 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/DenkerVita/Juergen-Kornmeier",
+   "pfad": "/DenkerVita/Carlo-Cipolla",
    "aufrufe": 8
   },
   {
-   "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
-   "aufrufe": 7
+   "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+   "aufrufe": 8
+  },
+  {
+   "pfad": "/DenkerVita/Udo-Marquardt",
+   "aufrufe": 8
+  },
+  {
+   "pfad": "/DenkerVita/Juergen-Kornmeier",
+   "aufrufe": 8
   },
   {
    "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
    "aufrufe": 7
   },
   {
-   "pfad": "/DenkerVita/Martin-Oetting",
-   "aufrufe": 6
+   "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
+   "aufrufe": 7
   },
   {
-   "pfad": "/DenkerVita/Hans-Jürgen-Völz",
-   "aufrufe": 6
+   "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+   "aufrufe": 7
   },
   {
    "pfad": "/DenkerVita/Byung-Chul-Han",
-   "aufrufe": 6
-  },
-  {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
    "aufrufe": 6
   },
   {
@@ -127,51 +143,27 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
-   "aufrufe": 6
-  },
-  {
-   "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-   "aufrufe": 6
-  },
-  {
    "pfad": "/DenkerVita/Jihan-Alomar",
    "aufrufe": 6
   },
   {
-   "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+   "pfad": "/DenkerVita/Hans-Jürgen-Völz",
    "aufrufe": 6
   },
   {
-   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-   "aufrufe": 5
+   "pfad": "/DenkerVita/Martin-Oetting",
+   "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Kalayo",
-   "aufrufe": 5
+   "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
+   "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Bernhard-Poerksen",
-   "aufrufe": 5
+   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+   "aufrufe": 6
   },
   {
-   "pfad": "/Kultur/Hans-Maggi-Sokotra",
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/DenkerVita/Cordula-Tutt",
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/DenkerVita/Damir-Skenderovic",
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/DenkerVita/Giulia-Enders",
+   "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
    "aufrufe": 5
   },
   {
@@ -179,43 +171,39 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Andreas-Bartels",
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/DenkerVita/Eva-von-Redecker.html",
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/DenkerVita/Freddy-Leppin",
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/DenkerVita/Der-Dara",
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Spuren/Trumps-Wille-geschehe",
-   "aufrufe": 4
+   "pfad": "/DenkerVita/Bernhard-Poerksen",
+   "aufrufe": 5
   },
   {
    "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
-   "aufrufe": 4
+   "aufrufe": 5
   },
   {
-   "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
-   "aufrufe": 4
+   "pfad": "/Kultur/Hans-Maggi-Sokotra",
+   "aufrufe": 5
   },
   {
-   "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-   "aufrufe": 4
+   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+   "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Martyna-Linartas",
+   "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/DenkerVita/Giulia-Enders",
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/DenkerVita/Damir-Skenderovic",
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/DenkerVita/Kalayo",
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
    "aufrufe": 4
   },
   {
@@ -227,20 +215,32 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/Denker/Martyna-Linartas-Unverdiente-Ungleichheit",
-   "aufrufe": 3
+   "pfad": "/DenkerVita/Eva-von-Redecker.html",
+   "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Dirk-Specht",
-   "aufrufe": 3
+   "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
+   "aufrufe": 4
   },
   {
-   "pfad": "/Zeitgeist/Adam-Johnson-How-to-Sell-a-Genocide",
-   "aufrufe": 3
+   "pfad": "/DenkerVita/Der-Dara",
+   "aufrufe": 4
   },
   {
-   "pfad": "/DenkerVita/Christine-Braehler",
-   "aufrufe": 3
+   "pfad": "/DenkerVita/Freddy-Leppin",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/DenkerVita/Andreas-Bartels",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Spuren/Trumps-Wille-geschehe",
+   "aufrufe": 4
   }
  ],
  "zeitraeume": {
@@ -248,31 +248,47 @@
    "tage": 7,
    "pfade": [
     {
-     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 154
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+     "aufrufe": 379
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 23
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "aufrufe": 250
+    },
+    {
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "aufrufe": 14
+    },
+    {
+     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "aufrufe": 9
     },
     {
-     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
+     "pfad": "/DenkerVita/Mark-Reicher",
      "aufrufe": 9
+    },
+    {
+     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
+     "aufrufe": 8
+    },
+    {
+     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "aufrufe": 8
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
-     "aufrufe": 6
+     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "aufrufe": 7
     },
     {
-     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "aufrufe": 6
     },
     {
@@ -280,15 +296,15 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Marina-Klimchuk",
-     "aufrufe": 5
+     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "aufrufe": 6
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-     "aufrufe": 5
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "pfad": "/DenkerVita/Cordula-Tutt",
      "aufrufe": 5
     },
     {
@@ -296,19 +312,23 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
      "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "aufrufe": 4
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
+     "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
+     "pfad": "/DenkerVita/Marina-Klimchuk",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
      "aufrufe": 4
     },
     {
@@ -316,7 +336,7 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "aufrufe": 4
     },
     {
@@ -324,19 +344,7 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Diba-Mirzaei-Irankrieg-and-Geschichte-(Jung-and-Naiv-815)",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Joan-Kinyua",
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "aufrufe": 2
     },
     {
@@ -344,63 +352,11 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Achim-Truger",
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Poerksen-und-Goepel-Debatte-neu-denken",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Andreas-Bartels",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Torsten-Heinrich",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Freddy-Leppin",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Maurice-Hoefgen.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Damir-Skenderovic",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Christine-Braehler",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Arnd-Henze",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
+     "pfad": "/DenkerVita/Steffen-Mau",
      "aufrufe": 2
     },
     {
@@ -408,7 +364,35 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Christine-Braehler",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Achim-Truger",
+     "aufrufe": 2
+    },
+    {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "aufrufe": 2
     },
     {
@@ -416,75 +400,91 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Energiesubventionen-Deutschland-Atomkraft-vs.-Erneuerbare-Energien",
-     "aufrufe": 1
+     "pfad": "/Zeitgeist/Gilda-Sahebi-und-Arne-Semsrott-GCA-33-Liegenddemos,-Schwarz-Rot,-Sea-Watch",
+     "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Tilo-Wesche",
-     "aufrufe": 1
+     "pfad": "/Denker/S.N.-Goenka-Vipassana",
+     "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Alexander-Thiele",
-     "aufrufe": 1
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
+     "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Harald-Welzer-und-Barbara-Bleisch-Grosszuegigkeit-und-Gegenwaertigkeit",
-     "aufrufe": 1
+     "pfad": "/DenkerVita/Joan-Kinyua",
+     "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Kerstin-Paschke",
-     "aufrufe": 1
+     "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
+     "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Grenzgaenger-Studios-Wie-Peter-Thiel-den-Westen-umbauen-will",
-     "aufrufe": 1
+     "pfad": "/DenkerVita/Freddy-Leppin",
+     "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Sudan-Massaker-el-Fashir-und-die-VAE",
-     "aufrufe": 1
+     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
+     "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Laura-Zoeckler-Buergerenergie-und-die-Demokratisierung-der-Energiewende",
-     "aufrufe": 1
+     "pfad": "/DenkerVita/Damir-Skenderovic",
+     "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise",
-     "aufrufe": 1
+     "pfad": "/Zeitgeist/Poerksen-und-Goepel-Debatte-neu-denken",
+     "aufrufe": 2
     },
     {
      "pfad": "/DenkerVita/Ivan-Krastev",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Torsten-Heinrich",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Maurice-Hoefgen.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Arnd-Henze",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Gedanken/Der-Stein-in-der-Luft-was-wir-werfen,-faellt-zurueck",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Diba-Mirzaei-Irankrieg-and-Geschichte-(Jung-and-Naiv-815)",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Walther-Ziegler",
      "aufrufe": 1
     },
     {
-     "pfad": "/DenkerVita/Steffen-Mau",
+     "pfad": "/Denker/scobel-Foucault-Aufklaerung-als-Haltung",
      "aufrufe": 1
     },
     {
-     "pfad": "/DenkerVita/Lena-Kotre",
+     "pfad": "/Zeitgeist/Mithu-Sanyal-und-Seyda-Kurt-Entgegenkommen,-wenn-es-feindlich-wird",
      "aufrufe": 1
     },
     {
-     "pfad": "/DenkerVita/Hartmut-Rosa",
+     "pfad": "/DenkerVita/Shi-Heng-Yi",
      "aufrufe": 1
     },
     {
-     "pfad": "/Zeitgeist/DW-Reporter-Widerstand-gegen-die-KI-Rechenzentren-in-den-USA",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Der-Dara-Merz-72-Stunden-Arbeitswoche",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/DenkerVita/Anja-Dahlmann",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Geistesblitz/Christian-Bauckhage-KI-Wir-haben-noch-gar-nichts-gesehen",
-     "aufrufe": 1
-    },
-    {
-     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+     "pfad": "/DenkerVita/Markus-Reisner",
      "aufrufe": 1
     }
    ]
@@ -493,8 +493,12 @@
    "tage": 30,
    "pfade": [
     {
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+     "aufrufe": 399
+    },
+    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 154
+     "aufrufe": 250
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
@@ -509,16 +513,12 @@
      "aufrufe": 65
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 43
+     "pfad": "/DenkerVita/Mark-Reicher",
+     "aufrufe": 32
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
      "aufrufe": 29
-    },
-    {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "aufrufe": 28
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",
@@ -533,8 +533,12 @@
      "aufrufe": 19
     },
     {
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "aufrufe": 19
+    },
+    {
      "pfad": "/DenkerVita/Benjamin-Biersky",
-     "aufrufe": 18
+     "aufrufe": 16
     },
     {
      "pfad": "/DenkerVita/Manuel-Koschi-Politik",
@@ -553,12 +557,24 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+     "aufrufe": 10
+    },
+    {
      "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
      "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "pfad": "/DenkerVita/Cordula-Tutt",
      "aufrufe": 10
+    },
+    {
+     "pfad": "/DenkerVita/Torsten-Heinrich",
+     "aufrufe": 9
     },
     {
      "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
@@ -569,11 +585,7 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Torsten-Heinrich",
-     "aufrufe": 9
-    },
-    {
-     "pfad": "/DenkerVita/Udo-Marquardt",
+     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
      "aufrufe": 8
     },
     {
@@ -585,31 +597,35 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "pfad": "/DenkerVita/Carlo-Cipolla",
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
-     "aufrufe": 7
+     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "aufrufe": 8
+    },
+    {
+     "pfad": "/DenkerVita/Udo-Marquardt",
+     "aufrufe": 8
+    },
+    {
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
+     "aufrufe": 8
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
      "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Martin-Oetting",
-     "aufrufe": 6
+     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
+     "aufrufe": 7
     },
     {
-     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
-     "aufrufe": 6
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "aufrufe": 7
     },
     {
      "pfad": "/DenkerVita/Byung-Chul-Han",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
      "aufrufe": 6
     },
     {
@@ -617,51 +633,27 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "aufrufe": 6
-    },
-    {
      "pfad": "/DenkerVita/Jihan-Alomar",
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
      "aufrufe": 6
     },
     {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "aufrufe": 5
+     "pfad": "/DenkerVita/Martin-Oetting",
+     "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Kalayo",
-     "aufrufe": 5
+     "pfad": "/Zeitgeist/Konstantin-Flemig-Reaktion-auf-Precht,-Russland-und-die-Grenzen-der-Expertise.html",
+     "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
-     "aufrufe": 5
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "aufrufe": 6
     },
     {
-     "pfad": "/Kultur/Hans-Maggi-Sokotra",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Cordula-Tutt",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Damir-Skenderovic",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Giulia-Enders",
+     "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
      "aufrufe": 5
     },
     {
@@ -669,43 +661,39 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Andreas-Bartels",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Eva-von-Redecker.html",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Freddy-Leppin",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/DenkerVita/Der-Dara",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Spuren/Trumps-Wille-geschehe",
-     "aufrufe": 4
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "aufrufe": 5
     },
     {
      "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
-     "aufrufe": 4
+     "aufrufe": 5
     },
     {
-     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
-     "aufrufe": 4
+     "pfad": "/Kultur/Hans-Maggi-Sokotra",
+     "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
-     "aufrufe": 4
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Martyna-Linartas",
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Giulia-Enders",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Damir-Skenderovic",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Kalayo",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "aufrufe": 4
     },
     {
@@ -717,20 +705,32 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Martyna-Linartas-Unverdiente-Ungleichheit",
-     "aufrufe": 3
+     "pfad": "/DenkerVita/Eva-von-Redecker.html",
+     "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Dirk-Specht",
-     "aufrufe": 3
+     "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
+     "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Adam-Johnson-How-to-Sell-a-Genocide",
-     "aufrufe": 3
+     "pfad": "/DenkerVita/Der-Dara",
+     "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Christine-Braehler",
-     "aufrufe": 3
+     "pfad": "/DenkerVita/Freddy-Leppin",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/DenkerVita/Andreas-Bartels",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Spuren/Trumps-Wille-geschehe",
+     "aufrufe": 4
     }
    ]
   },
@@ -738,8 +738,12 @@
    "tage": 365,
    "pfade": [
     {
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+     "aufrufe": 425
+    },
+    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 154
+     "aufrufe": 250
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
@@ -748,10 +752,6 @@
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "aufrufe": 121
-    },
-    {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 69
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
@@ -767,7 +767,7 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "aufrufe": 44
+     "aufrufe": 49
     },
     {
      "pfad": "/Zeitgeist/Tilo-Wesche-Rechte-der-Natur-Eigentum-Kolonialismus",
@@ -778,11 +778,11 @@
      "aufrufe": 28
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "pfad": "/DenkerVita/Christine-Dankbar",
      "aufrufe": 23
     },
     {
-     "pfad": "/DenkerVita/Christine-Dankbar",
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 23
     },
     {
@@ -790,19 +790,23 @@
      "aufrufe": 22
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
-     "aufrufe": 20
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "aufrufe": 20
     },
     {
-     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
-     "aufrufe": 17
+     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "aufrufe": 20
     },
     {
      "pfad": "/Denker/Vipassana-Vedana",
+     "aufrufe": 17
+    },
+    {
+     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
      "aufrufe": 17
     },
     {
@@ -810,43 +814,47 @@
      "aufrufe": 15
     },
     {
-     "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
-     "aufrufe": 14
+     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "aufrufe": 15
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
      "aufrufe": 14
     },
     {
-     "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
-     "aufrufe": 13
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-     "aufrufe": 12
+     "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
+     "aufrufe": 14
     },
     {
      "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
-     "aufrufe": 12
+     "aufrufe": 13
+    },
+    {
+     "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
+     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
      "aufrufe": 12
     },
     {
-     "pfad": "/Spuren/Trumps-Wille-geschehe",
-     "aufrufe": 11
-    },
-    {
-     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
-     "aufrufe": 11
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "aufrufe": 12
     },
     {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "aufrufe": 11
     },
     {
+     "pfad": "/Spuren/Trumps-Wille-geschehe",
+     "aufrufe": 11
+    },
+    {
      "pfad": "/Zeitgeist/Constanze-Kurz-Stochastischer-Papagei,-Chatkontrolle-und-Palantir",
+     "aufrufe": 11
+    },
+    {
+     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
      "aufrufe": 11
     },
     {
@@ -856,6 +864,14 @@
     {
      "pfad": "/DenkerVita/Torsten-Heinrich",
      "aufrufe": 11
+    },
+    {
+     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
+     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Udo-Marquardt",
@@ -870,11 +886,7 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
-     "aufrufe": 10
-    },
-    {
-     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "aufrufe": 10
     },
     {
@@ -882,15 +894,31 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/DenkerVita/Cordula-Tutt",
+     "aufrufe": 10
+    },
+    {
      "pfad": "/Kultur/Hans-Maggi-Sokotra",
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Vipassana-Anicca",
+     "pfad": "/DenkerVita/Marcant",
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/Denker/Vipassana-Anicca",
      "aufrufe": 9
     },
     {
@@ -902,15 +930,11 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "aufrufe": 9
-    },
-    {
-     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Zeitgeist/Gilda-Sahebi-und-Arne-Semsrott-GCA-35-Selbstzerstörung-der-Sozialdemokratie",
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "aufrufe": 9
     },
     {
@@ -918,15 +942,15 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
      "aufrufe": 9
     },
     {
-     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
-     "aufrufe": 9
+     "pfad": "/DenkerVita/Freddy-Leppin",
+     "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "pfad": "/DenkerVita/Carlo-Cipolla",
      "aufrufe": 8
     },
     {
@@ -934,19 +958,15 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
+     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Marina-Klimchuk",
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Martin-Oetting",
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "aufrufe": 8
     },
     {
@@ -954,28 +974,8 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Freddy-Leppin",
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
      "aufrufe": 8
-    },
-    {
-     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Mai-2026-Teil-3",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/Denker/Vipassana-Ānāpāna",
-     "aufrufe": 7
     }
    ]
   },
@@ -983,8 +983,12 @@
    "tage": null,
    "pfade": [
     {
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+     "aufrufe": 425
+    },
+    {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 154
+     "aufrufe": 250
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
@@ -993,10 +997,6 @@
     {
      "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "aufrufe": 121
-    },
-    {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 69
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
@@ -1012,7 +1012,7 @@
     },
     {
      "pfad": "/DenkerVita/Mark-Reicher",
-     "aufrufe": 44
+     "aufrufe": 49
     },
     {
      "pfad": "/Zeitgeist/Tilo-Wesche-Rechte-der-Natur-Eigentum-Kolonialismus",
@@ -1023,11 +1023,11 @@
      "aufrufe": 28
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "pfad": "/DenkerVita/Christine-Dankbar",
      "aufrufe": 23
     },
     {
-     "pfad": "/DenkerVita/Christine-Dankbar",
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 23
     },
     {
@@ -1035,19 +1035,23 @@
      "aufrufe": 22
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher.html",
-     "aufrufe": 20
+     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
+     "aufrufe": 22
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
      "aufrufe": 20
     },
     {
-     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
-     "aufrufe": 17
+     "pfad": "/DenkerVita/Mark-Reicher.html",
+     "aufrufe": 20
     },
     {
      "pfad": "/Denker/Vipassana-Vedana",
+     "aufrufe": 17
+    },
+    {
+     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
      "aufrufe": 17
     },
     {
@@ -1055,43 +1059,47 @@
      "aufrufe": 15
     },
     {
-     "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
-     "aufrufe": 14
+     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "aufrufe": 15
     },
     {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
      "aufrufe": 14
     },
     {
-     "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
-     "aufrufe": 13
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
-     "aufrufe": 12
+     "pfad": "/Zeitgeist/Katharina-Nocun-Wie-KI-Content-das-politische-Vorfeld-der-extremen-Rechten-praegt",
+     "aufrufe": 14
     },
     {
      "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
-     "aufrufe": 12
+     "aufrufe": 13
+    },
+    {
+     "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
+     "aufrufe": 13
     },
     {
      "pfad": "/Zeitgeist/Koschi-Politik-Hochmut-vor-dem-Fall:-Iran-trifft-Trump",
      "aufrufe": 12
     },
     {
-     "pfad": "/Spuren/Trumps-Wille-geschehe",
-     "aufrufe": 11
-    },
-    {
-     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
-     "aufrufe": 11
+     "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
+     "aufrufe": 12
     },
     {
      "pfad": "/Zeitgeist/Koshi-Politik-MAGA-2.0:-Die-Geburt-der-desillusionisierten-Basis",
      "aufrufe": 11
     },
     {
+     "pfad": "/Spuren/Trumps-Wille-geschehe",
+     "aufrufe": 11
+    },
+    {
      "pfad": "/Zeitgeist/Constanze-Kurz-Stochastischer-Papagei,-Chatkontrolle-und-Palantir",
+     "aufrufe": 11
+    },
+    {
+     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
      "aufrufe": 11
     },
     {
@@ -1101,6 +1109,14 @@
     {
      "pfad": "/DenkerVita/Torsten-Heinrich",
      "aufrufe": 11
+    },
+    {
+     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
+     "aufrufe": 10
     },
     {
      "pfad": "/DenkerVita/Udo-Marquardt",
@@ -1115,11 +1131,7 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
-     "aufrufe": 10
-    },
-    {
-     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
      "aufrufe": 10
     },
     {
@@ -1127,15 +1139,31 @@
      "aufrufe": 10
     },
     {
+     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "aufrufe": 10
+    },
+    {
+     "pfad": "/DenkerVita/Cordula-Tutt",
+     "aufrufe": 10
+    },
+    {
      "pfad": "/Kultur/Hans-Maggi-Sokotra",
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Vipassana-Anicca",
+     "pfad": "/DenkerVita/Marcant",
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Marcant",
+     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/Denker/Vipassana-Anicca",
      "aufrufe": 9
     },
     {
@@ -1147,15 +1175,11 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Juergen-Kornmeier",
-     "aufrufe": 9
-    },
-    {
-     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
-     "aufrufe": 9
-    },
-    {
      "pfad": "/Zeitgeist/Gilda-Sahebi-und-Arne-Semsrott-GCA-35-Selbstzerstörung-der-Sozialdemokratie",
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
      "aufrufe": 9
     },
     {
@@ -1163,15 +1187,15 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
+     "pfad": "/DenkerVita/Juergen-Kornmeier",
      "aufrufe": 9
     },
     {
-     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
-     "aufrufe": 9
+     "pfad": "/DenkerVita/Freddy-Leppin",
+     "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "pfad": "/DenkerVita/Carlo-Cipolla",
      "aufrufe": 8
     },
     {
@@ -1179,19 +1203,15 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
+     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Marina-Klimchuk",
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "aufrufe": 8
     },
     {
-     "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/DenkerVita/Martin-Oetting",
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "aufrufe": 8
     },
     {
@@ -1199,28 +1219,8 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Freddy-Leppin",
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
      "aufrufe": 8
-    },
-    {
-     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
-     "aufrufe": 8
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Mai-2026-Teil-3",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/Denker/Vipassana-Ānāpāna",
-     "aufrufe": 7
     }
    ]
   }
