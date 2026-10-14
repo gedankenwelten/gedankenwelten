@@ -316,6 +316,9 @@ Die katholische Spiegelung. Was Henze am Fall Bonhoeffer zeigt, typologisiert P�
 
 Der Gegenfall zur Bonhoeffer-Vereinnahmung: Carlotta Voß holt Leo Strauss aus dem Giftschrank zurück, in den Peter Thiels Berufung ihn gestellt hat — Strauss habe den Historismus kritisiert, nicht die Demokratie. Und wie Henze richtet sie die unbequeme Frage gegen die eigene Seite: Wenn Ideologie vor allem Ablenkung vom Staatsumbau ist, war der Leseabend dann Aufklärung oder Mitwirkung?
 
+### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+Bonhoeffers eigener Maßstab gegen die Vereinnahmung: Lüge ist für ihn die wissentliche Zerstörung der Wirklichkeit durch Worte und durch Schweigen. Wer ihm Zitate andichtet und sein Leben zum Wahlkampfmittel macht, tut genau das. Huber, Mitherausgeber seiner Werke, legt den Tegeler Essay über die Wahrheit aus.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte

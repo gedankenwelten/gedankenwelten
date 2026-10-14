@@ -237,6 +237,12 @@ Huber schließt mit einer Warnung, die man jedem Bonhoeffer-Zitat im Netz anheft
 
 ## Verbindungen
 
+### → [[Dietrich Bonhoeffer — Theorie der Dummheit]]
+Dieselbe Rechenschaft *Nach zehn Jahren*, aus der Huber die Frage „Sind wir noch brauchbar?“ vorliest, enthält auch Bonhoeffers Sätze über die Dummheit. Der Dumme spricht nicht selbst, aus ihm sprechen Parolen; die erste Prüfung des Wahrheitsessays lautet, zu erkennen, wer mich zum Sprechen veranlasst. Die Dummheit-Note erzählt das Leben, aus dem beide Texte kommen, und trägt in Abschnitt 6 Hubers Auslegung und Christine Schliessers Deutung der Schuldübernahme.
+
+### → [[Arnd Henze — Bonhoeffer und die Neue Rechte]]
+Ein Essay über die Wahrheit von einem Mann, dem heute Worte in den Mund gelegt werden, die er nie geschrieben hat. Henze zeigt, wie aus Bonhoeffer eine Verfügungsmasse wurde, von Metaxas bis zum „Bonhoeffer-Moment“. Mit Bonhoeffers eigenem Maßstab gemessen ist das eine Lüge im strengen Sinn: Sie zerstört die Wirklichkeit eines Lebens und benutzt dafür seinen Namen.
+
 ### → [[Hannah Arendt — Zur Person]]
 Arendt stellt im Gespräch mit Gaus die Gegenfrage zu Bonhoeffers Essay: Darf man eine erkannte Wahrheit verschweigen? Sie verteidigt die Tatsachenwahrheit, die verletzlicher ist als jede Meinung, und lässt das Interesse, sich reinzuwaschen, nicht als legitim gelten. Beide misstrauen dem, der sich selbst rein halten will: Arendt dem, der Tatsachen verschweigt, um gut dazustehen, Bonhoeffer dem, der dem Mörder die Wahrheit sagt, um ein reines Gewissen zu behalten.
 
