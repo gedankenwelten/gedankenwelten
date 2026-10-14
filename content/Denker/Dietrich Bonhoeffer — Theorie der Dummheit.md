@@ -268,7 +268,7 @@ Hier liegt das Gegenstück zur Dummheit. Sie gibt die Verantwortung ab; standhal
 
 ## 6. Was der Verantwortliche auf sich nimmt — Schuld und Wahrheit
 
-Die Doku, aus der die Biografie oben stammt, erzählt den Mut. Was er gekostet hat, sagt sie kaum. Bonhoeffer hat es selbst aufgeschrieben, in der *Ethik* und in den Texten aus der Haft, und zwei Stimmen haben es in den letzten Jahren gut ausgelegt: die Theologin Christine Schliesser, die über Bonhoeffers Begriff der Schuldübernahme geforscht hat, und Wolfgang Huber, Mitherausgeber der Bonhoeffer-Werke. Der Verantwortliche, der am Ende von *Wer hält stand?* steht, nimmt zweierlei auf sich: Schuld und die Last der Lüge.
+Die Doku, aus der die Biografie oben stammt, erzählt den Mut. Was er gekostet hat, sagt sie kaum. Bonhoeffer hat es selbst aufgeschrieben, in der *Ethik* und in den Texten aus der Haft, und zwei Stimmen haben es in den letzten Jahren gut ausgelegt: die Theologin [[DenkerVita/Christine Schliesser|Christine Schliesser]], die über Bonhoeffers Begriff der Schuldübernahme geforscht hat, und [[DenkerVita/Wolfgang Huber|Wolfgang Huber]], Mitherausgeber der Bonhoeffer-Werke. Der Verantwortliche, der am Ende von *Wer hält stand?* steht, nimmt zweierlei auf sich: Schuld und die Last der Lüge.
 
 ### Wer verantwortlich handelt, wird schuldig
 

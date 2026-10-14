@@ -168,6 +168,14 @@ Henze arbeitet an dem, was nach Bonhoeffer mit Bonhoeffer geschah. Er verfolgt, 
 
 Das katholische Gegenstück zu Henze und dieselbe Bewegung: Kritik an der eigenen Kirche, von innen und mit Zahlen. Püttmann typologisiert, was der Neuen Rechten gegenüber der Religion gelingt — keine Unterdrückung, sondern Unterwanderung, das Kapern der Zeichen statt ihres Verbots. Seine Verwunderung über die „politische Dummheit bestimmter Teile des Großbürgertums" trifft dabei genau Bonhoeffers Herkunft: Der Vater war Ordinarius an der Charité, das Haus national gesinnt und gebildet, und es war eben diese Schicht, die 1933 das Urteil abgab, das Bonhoeffer neun Jahre später zu beschreiben versuchte.
 
+### → [[DenkerVita/Wolfgang Huber|Wolfgang Huber]]
+
+Mitherausgeber der *Dietrich Bonhoeffer Werke* und sein sorgfältigster Ausleger. Huber rückt den Tegeler Essay *Was heißt: die Wahrheit sagen?* ins Zentrum, den die Rezeption meist übergeht, und hält Bonhoeffers Verantwortungsethik für die wichtigste Ethik der Gegenwart.
+
+### → [[DenkerVita/Christine Schliesser|Christine Schliesser]]
+
+Hat Bonhoeffers Begriff der Schuldübernahme rekonstruiert und kritisch geprüft (*Everyone Who Acts Responsibly Becomes Guilty*). Sie nimmt den Satz ernst und spricht im Alltag doch lieber von Verantwortung: Schuld lähmt, Verantwortung lässt handeln.
+
 ---
 
 ## Cortex-Notes

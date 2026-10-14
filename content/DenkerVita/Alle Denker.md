@@ -558,6 +558,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 ## S
 
+**[[DenkerVita/Christine Schliesser|Christine Schliesser]]** — Theologie/Ethik, Zürcher Bonhoeffer-Forscherin („Wer verantwortlich handelt, wird schuldig“), die nach dem Genozid in Ruanda fragt, wie Versöhnung wächst
+
 **[[DenkerVita/Sandra Navidi|Sandra Navidi]]** — Juristin und Finanzexpertin in New York, CEO von BeyondGlobal; liest das Finanzsystem als soziales Netzwerk (*SuperHubs*) — nicht Institutionen regieren, sondern einige hundert Menschen in dessen Knotenpunkten; nüchterne, juristisch geführte Trump-Kritik
 
 **[[DenkerVita/Sanya Lehmann|Sanya Lehmann]]** — Mitglied mabb-Jugendrat (gegründet 2023, erster Jugendrat einer dt. Medienanstalt); Jugend-Partizipation in Medienpolitik; Expertenkommission Bundesbildungsministerium; re:publica 26; evidenzbasiert statt Verbotslogik

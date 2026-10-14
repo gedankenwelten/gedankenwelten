@@ -1202,3 +1202,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Wolfgang Huber
 **Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Huber]]
+
+## Christine Schliesser
+**Status:** ✓ Vollanalyse → [[DenkerVita/Christine Schliesser]]
