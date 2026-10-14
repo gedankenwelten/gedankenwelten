@@ -5158,3 +5158,11 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Podcast / Video** | [Die dümmsten Aussagen zur Energiewende – und warum sie Millionen Menschen glauben](https://www.youtube.com/watch?v=KVApsK1jLCM) (28.07.2026) |
 | **Notiz** | [[Zeitgeist/Alles wird Strom — Warum Millionen Energiewende-Mythen glauben]] |
 | **Transkript** | `Gedankenwelten/Transkripte/AllesWirdStrom_Energiewende_Mythen_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Sinan Yurttadur — KI-Vortrag (Beispiel im Gedanken „Der Stein in der Luft“)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [In 48 Minuten verstehst du die nächsten 5 Jahre (kompletter KI-Vortrag)](https://www.youtube.com/watch?v=hsvSN-KW4QE) (16.09.2026) |
+| **Notiz** | [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Yurttadur_KI_Vortrag_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |

@@ -22,6 +22,20 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Gedanken
+
+> **14.10.** — [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
+>
+> Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später, auf Umwegen und verwandelt, und keiner erkennt ihn als seinen.
+
+> **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
+>
+> Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar und dem Autoritären das Angebot streitig.
+
+> **08.10.** — [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen|Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]]
+>
+> Ist Bewusstsein die Eigenschaft eines Kopfes oder eines Netzes? Ein Gang zwischen Chalmers, IIT und Vipassana, seit Herbst 2026 mit ersten Messungen aus dem Inneren der Maschinen.
+
 ### Zeitgeist
 
 > **13.10.** — [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]]
@@ -123,20 +137,6 @@ Die Gedankenwelten (luc)
 > Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
 
 > → *7 weitere in* [[Spuren]]
-
-### Gedanken
-
-> **11.10.** — [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
->
-> Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später, auf Umwegen und verwandelt, und keiner erkennt ihn als seinen.
-
-> **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
->
-> Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar und dem Autoritären das Angebot streitig.
-
-> **08.10.** — [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen|Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]]
->
-> Ist Bewusstsein die Eigenschaft eines Kopfes oder eines Netzes? Ein Gang zwischen Chalmers, IIT und Vipassana, seit Herbst 2026 mit ersten Messungen aus dem Inneren der Maschinen.
 
 ### GoodNews
 

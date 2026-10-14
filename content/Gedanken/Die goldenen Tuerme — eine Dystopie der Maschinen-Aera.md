@@ -105,6 +105,11 @@ Die 3sat-Doku dokumentiert, was diese Note vorausdenkt: Yarvins Stadtstaat als A
 
 Die Dystopie beantwortet seine Frage, indem sie zeigt, dass es die falsche ist. Ronnie Vuine hält eine Superintelligenz für ungefährlich, weil sie keinen Grund hätte, sich Skynet in die Belohnungsfunktion zu schreiben — es gebe sie ja auch bei Menschen nicht, die Leute im Vulkan. Hier steht, dass Gefahr keine Absicht braucht: Wer die Maschinen besitzt, nimmt beide Hebel zugleich, den des Produzenten und den des Käufers. Die Umkehrung seines Optimismus steht in der grausamen Wendung — Macht braucht den Untertan, weil der Roboter keinen Widerstand bietet.
 
+### → [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
+
+Der Weg in die Türme, Wurf für Wurf. Ein KI-Vortrag rät gewöhnlichen Unternehmern, niemanden mehr einzustellen, und beschreibt dabei selbst die Flugbahn bis zum Zusammenbruch. Der Werfer vergisst den Stein nicht, er glaubt, woanders zu sein, wenn er fällt.
+
+
 ---
 
 ## Weiterdenken

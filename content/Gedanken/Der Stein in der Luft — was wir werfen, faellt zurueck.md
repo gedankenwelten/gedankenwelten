@@ -1,7 +1,7 @@
 ---
 title: "Der Stein in der Luft — was wir werfen, fällt zurück"
 date: 2026-10-11
-aktualisiert: 2026-10-11
+aktualisiert: 2026-10-14
 raetsel: "Was du in die Luft wirfst, hat Zeit. Es wartet, bis du es vergessen hast."
 description: "Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später, auf Umwegen und verwandelt, und keiner erkennt ihn als seinen."
 tags:
@@ -10,6 +10,7 @@ tags:
   - ethik
   - psychologie
   - wirtschaft
+  - ki
   - kapitalismus
   - neoliberalismus
   - buddhismus
@@ -35,7 +36,7 @@ aliases:
 > [!abstract] Worum es geht
 > Mit jeder Handlung werfen wir einen Stein in die Luft. Sehen können wir nur den Vorteil im Moment des Wurfs. Der Stein fällt Jahre später, auf einem Umweg und in anderer Gestalt, und dann erkennt ihn keiner als den eigenen. Ein Gedanke über Karma als Flugbahn, über den Schatten der Zukunft und über die Hand, bevor sie loslässt. Er sucht keinen Schuldigen. Er erinnert an die Verantwortung, die in jeder Hand liegt, auch in meiner.
 
-> Entstanden am 11.10.2026. Aus einem Gespräch über [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar#Der höhere Blick|ICE — ist die Würde des Menschen antastbar?]]. Eine Fortsetzung von [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]].
+> Entstanden am 11.10.2026. Aus einem Gespräch über [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar#Der höhere Blick|ICE — ist die Würde des Menschen antastbar?]]. Eine Fortsetzung von [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]. Überarbeitet am 14.10.2026: Das Beispiel aus dem Alltag ist einem aus dieser Zeit gewichen, einem Vortrag über KI, der die Flugbahn kennt und trotzdem zum Wurf rät.
 
 ---
 
@@ -57,33 +58,43 @@ Wenn der Stein Jahre später fällt, schauen wir nach oben und suchen den Schuld
 
 Auf die eigene Hand kommt keiner.
 
-## Das Lehrgeld
+## Wer zu menschlich ist
 
-Ein Wurf aus dem Alltag.
+Ein Wurf aus dieser Zeit.
 
-Jemand ist neu im Geschäft. Er weiß nicht, was etwas kostet. Ich könnte verlangen, was ich will, und er würde zahlen. Also verlange ich es. Und sage mir: Tja, das ist wohl Lehrgeld. Soll er froh sein, dass er es jetzt weiß.
+Ein junger Unternehmer steht in seinem Büro und hält einen Vortrag über die Zukunft. 2023, erzählt er, hat er seine fünfzehn Mitarbeiter vor die Wahl gestellt: alles Gelernte vergessen und neu anfangen, oder die Abfindung nehmen. Alle sind gegangen. Heute sitzt er allein im Raum, mit achthundert KI-Agenten im Hintergrund, die die Arbeit machen ([Sinan Yurttadur, *In 48 Minuten verstehst du die nächsten 5 Jahre*, September 2026](https://www.youtube.com/watch?v=hsvSN-KW4QE)).
 
-Der Vorteil ist sofort da. Er liegt in meiner Hand, ich kann ihn zählen.
+Seinen Zuhörern rät er dasselbe. Niemanden mehr einstellen. Alles automatisieren, was sich automatisieren lässt. Marktführer werden, die Preise so tief drücken, dass die Konkurrenz nicht mithalten kann, und ihren Markt gleich mitnehmen. Die Menschen, die dabei ihre Arbeit verlieren, kommen in seiner Rechnung vor. Als Kosten, die man einspart.
 
-Und wer selbst einmal der Neue war, der zahlen musste, kennt die nächste Frage. Soll ich es jetzt auch so machen? Schließlich habe ich einen Nachteil, wenn ich es nicht tue. Die anderen machen es ja auch.
+Einer im Publikum wendet ein: die Menschlichkeit. Er gibt ihm recht, zweimal. Das lasse sich nicht wegargumentieren. Und dann, gegen Ende: *„Wenn du zu menschlich bist, dann lass es.“* ([▶ 47:14](https://www.youtube.com/watch?v=hsvSN-KW4QE&t=2834))
 
-Diese Frage habe ich mir schon einmal gestellt, in [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]. Heute sehe ich, was ihr fehlt. Sie zählt nur den Moment des Wurfs. Die Flugbahn zählt sie nicht.
+Es wäre leicht, ihn zum Schurken zu machen. Aber er sagt nur laut, was in vielen Büros leise gerechnet wird. Und die Frage, auf die er antwortet, kenne ich. Jeder kennt sie, der einmal der Schwächere war. Soll ich es jetzt auch so machen? Schließlich habe ich einen Nachteil, wenn ich es nicht tue. Die anderen machen es ja auch.
+
+Seine Antwort ist ein klares Ja. Wenn du es nicht tust, tut es dein Konkurrent, und dann bist du raus. Mitmachen oder untergehen.
+
+Diese Frage habe ich mir schon einmal gestellt, im Kleinen, in [[Gedanken/Vertrauen und das aufgeloeste Opfer|Vertrauen und das aufgelöste Opfer]]. Heute sehe ich, was ihr fehlt. Sie zählt nur den Moment des Wurfs. Die Flugbahn zählt sie nicht.
 
 ## Die Flugbahn
 
-Der Kunde, den ich ausgenommen habe, wird misstrauisch. Mir gegenüber und bald jedem gegenüber. Er erzählt es weiter. Beim nächsten Mal sichert er sich ab, mit Vertrag, mit Kleingedrucktem, mit einem Anwalt. Irgendwann weiß er selbst, wie es läuft, und benutzt sein Wissen.
+Das Merkwürdige an diesem Vortrag ist: Der Redner kennt die Flugbahn. Er beschreibt sie selbst, mittendrin, ganz ruhig.
 
-Zehn Jahre später lebe ich in einer Welt, in der jeder jedem misstraut. Jede Rechnung wird geprüft, jedes Angebot dreimal verglichen, jede Zusage schriftlich verlangt. Ich ärgere mich über die Bürokratie, über das Kleingedruckte, über die Kälte.
+Wenn alle so handeln, fallen die Löhne weg. Mit den Löhnen fallen die Steuern und die Beiträge. Dann bricht die Kaufkraft, und er fragt in den Raum: *„Wer kauft dann noch in Zukunft unsere Produkte?“* ([▶ 27:28](https://www.youtube.com/watch?v=hsvSN-KW4QE&t=1648)) Am Ende dieses Weges sieht er einen Tag X. Was danach kommt, weiß keiner, sagt er. Vielleicht Krieg.
 
-Es ist mein Stein.
+Und dann rät er, schneller zu werfen.
 
-Ich erkenne ihn nur nicht wieder. Dafür gibt es drei Gründe.
+Die meisten von uns werfen anders. Wir sehen die Flugbahn nicht. Und wenn der Stein fällt, erkennen wir ihn nicht als unseren. Dafür gibt es drei Gründe.
 
-**Die Zeit.** Er fällt erst Jahre später. Den Wurf hat bis dahin jeder vergessen, ich zuerst.
+**Die Zeit.** Er fällt erst Jahre später. Den Wurf hat bis dahin jeder vergessen, der Werfer zuerst.
 
-**Der Umweg.** Er kommt nicht von dem zurück, den ich getroffen habe. Er kommt von irgendwem, über die Fäden, die uns alle verbinden. Darum suche ich die Ursache nie bei mir.
+**Der Umweg.** Er kommt nicht von dem zurück, den er getroffen hat. Er kommt von irgendwem, über die Fäden, die uns alle verbinden. Darum sucht niemand die Ursache bei sich.
 
 **Die Verwandlung.** Er kommt in anderer Gestalt. Wie ein Echo, das so verzerrt aus dem Tal zurückkommt, dass man die eigene Stimme nicht mehr erkennt.
+
+Dieser Werfer vergisst nichts. Er glaubt etwas anderes: dass er nicht mehr dort stehen wird, wo der Stein landet. Am Ende seines Vortrags spricht er von Unsterblichkeit, von Herzen aus dem Drucker, vom Urlaub auf dem Mond statt auf Ibiza ([▶ 35:49](https://www.youtube.com/watch?v=hsvSN-KW4QE&t=2149)). Er wirft den Stein und träumt sich ein Anderswo dazu.
+
+Es ist derselbe Traum, mit dem wir die Erde verbrauchen und vom Mars reden. Auf der Insel Roatán in Honduras haben Investoren ihn schon gebaut, als Privatstadt mit eigenen Gesetzen, auch wenn das oberste Gericht des Landes deren Grundlage für verfassungswidrig erklärt hat ([[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet#Broligarchie — die Abrechnung einer Insiderin|Próspera]]). Der Glaube, man könne unter der eigenen Flugbahn hervortreten.
+
+Man kann es nicht. Es gibt kein Anderswo, das nicht an denselben Fäden hängt.
 
 ---
 
@@ -108,7 +119,7 @@ Das Gewinnerprogramm ließ sich nicht alles gefallen. Es wehrte sich. Aber es tr
 
 Und es gewann nur unter einer Bedingung: Man musste sich wiederbegegnen. Die Zukunft musste einen Schatten werfen, der lang genug war. Axelrod hat das den *Schatten der Zukunft* genannt. Wer glaubt, den anderen nie wiederzusehen, für den lohnt sich der Betrug.
 
-Genau da liegt unser Irrtum. Wir halten das Spiel für einmalig. Der Kunde ist weg, der Becher ist weg, das Rezept ist vergessen. In dem Netz, in dem wir leben, gibt es aber keine einmalige Begegnung. Wir begegnen uns immer wieder, nur mit anderen Gesichtern.
+Genau da liegt unser Irrtum. Wir halten das Spiel für einmalig. Der Mitarbeiter ist weg, der Konkurrent ist weg, der Becher ist weg, das Rezept ist vergessen. In dem Netz, in dem wir leben, gibt es aber keine einmalige Begegnung. Wir begegnen uns immer wieder, nur mit anderen Gesichtern.
 
 Karma ist der Schatten der Zukunft. Wir sehen ihn bloß nicht.
 
@@ -130,7 +141,9 @@ Primitiv nenne ich das. Das Alte in uns, das nur bis zur eigenen Hand sieht. Ich
 
 Ein Stein kommt sofort zurück. Ihn übersieht man am leichtesten.
 
-Wer einmal Lehrgeld kassiert hat, kassiert beim zweiten Mal leichter. Die Hand gewöhnt sich ans Werfen. Was beim ersten Mal noch ein kleines Ziehen war, ein Zögern, ist beim dritten Mal Routine. Und irgendwann ist es das, was ich bin.
+Wer einmal Menschen als Kosten gerechnet hat, rechnet beim zweiten Mal schneller. Die Hand gewöhnt sich ans Werfen. Was beim ersten Mal noch ein kleines Ziehen war, ein Zögern, ist beim dritten Mal Routine. Und irgendwann ist es das, was ich bin.
+
+Über seine fünfzehn Mitarbeiter sagt der Redner heute: *„Es war auch gut, dass alle gegangen sind.“* ([▶ 2:17](https://www.youtube.com/watch?v=hsvSN-KW4QE&t=137)) Wie leicht ihm dieser Satz damals gefallen wäre, weiß ich nicht.
 
 Goenka beschreibt das so: Jede Reaktion gräbt sich ein, und was sich eingegraben hat, kommt beim nächsten Mal schneller ([[Denker/S.N. Goenka — Vipassana#7. Die Sankhāra-Multiplikation — Banyan-Baum und Benzin|Goenka]]). Ricard meint dasselbe, wenn er sagt, dass Karma vor allem an der Absicht hängt. Der Stein trifft zuerst den Werfer, von innen.
 
@@ -215,6 +228,14 @@ Der berechnende Mensch, der nur auf den eigenen Vorteil sieht, musste erst anerz
 ### → [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
 
 Einen Tag älter, dieselbe Wurzel. Wo nur noch der Markt den Wert misst, wird der Vorteil im Wurf zum einzigen Maß.
+
+### → [[Gedanken/Die goldenen Tuerme — eine Dystopie der Maschinen-Aera|Die goldenen Türme — eine Dystopie der Maschinen-Ära]]
+
+Wohin der Wurf führt, wenn alle so rechnen wie der Redner im Vortrag: Wer die Maschinen besitzt, braucht die anderen nicht mehr, weder als Arbeiter noch als Käufer. Die Türme sind das Anderswo, das er sich erträumt, zu Ende gedacht.
+
+### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
+
+Die Ideengeschichte des Anderswo: von Ayn Rands Rückzugsort der Eliten bis zu Próspera auf Roatán. Was der Redner im Kleinen lehrt, wird dort als Weltanschauung gebaut.
 
 ---
 

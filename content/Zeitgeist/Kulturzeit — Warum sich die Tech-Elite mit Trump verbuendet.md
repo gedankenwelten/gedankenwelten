@@ -240,6 +240,10 @@ Die Primärtext-Probe aufs Exempel: Was die Doku als Wirkungsgeschichte erzählt
 
 Die Fortsetzung der Herrschaft, die sich nicht mehr legitimieren muss — diesmal im ländlichen Georgia. Ein Campus, dessen Bauherr nicht genannt werden darf, gebaut auf Steueranreizen von einer bis 1,4 Millionen Dollar je Arbeitsplatz; dazu eine Executive Order, die Genehmigungen beschleunigt und Bundesland als Bauland öffnet. Die Enklave muss kein Inselstaat sein: Es genügt ein Grundstück, das von den Regeln ausgenommen ist, die für alle anderen gelten.
 
+### → [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
+
+Dieselbe Haltung im Kleinen: Ein Coaching-Vortrag lehrt Unternehmer, wer „zu menschlich“ sei, solle es lassen. Galt's Gulch und Próspera als das Anderswo, unter dem man der eigenen Flugbahn zu entkommen hofft.
+
 ## Weiterdenken
 
 > [!question] Was Sokrates vielleicht gefragt hätte
