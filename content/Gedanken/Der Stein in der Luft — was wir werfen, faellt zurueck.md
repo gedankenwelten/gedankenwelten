@@ -3,7 +3,7 @@ title: "Der Stein in der Luft — was wir werfen, fällt zurück"
 date: 2026-10-11
 aktualisiert: 2026-10-14
 raetsel: "Was du in die Luft wirfst, hat Zeit. Es wartet, bis du es vergessen hast."
-description: "Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später, auf Umwegen und verwandelt, und keiner erkennt ihn als seinen."
+description: "Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später. Auf Umwegen. Verwandelt. Niemand erkennt ihn mehr als seinen."
 tags:
   - gedanke
   - luc

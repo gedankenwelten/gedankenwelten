@@ -46,7 +46,7 @@ Die Gedankenwelten (luc)
 
 > **14.10.** — [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
 >
-> Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später, auf Umwegen und verwandelt, und keiner erkennt ihn als seinen.
+> Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später. Auf Umwegen. Verwandelt. Niemand erkennt ihn mehr als seinen.
 
 > **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
 >
