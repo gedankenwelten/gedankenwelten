@@ -135,7 +135,7 @@ Er ist dumm. Er weiß es nur noch nicht.
 
 Und eine Gesellschaft, in der jeder zum Banditen wird, weil die anderen es auch sind, landet als Ganze dort. Alle schaden allen, sich selbst eingeschlossen.
 
-Primitiv nenne ich das. Das Alte in uns, das nur bis zur eigenen Hand sieht. Ich meine damit nicht die anderen. Ich meine uns Menschen, alle, mich eingeschlossen. Ich bin Teil davon.
+Das ist das Alte in uns, das nur bis zur eigenen Hand sieht. Ich meine damit nicht die anderen. Ich meine uns alle, mich eingeschlossen.
 
 ## Der erste Stein trifft beim Werfen
 
@@ -156,13 +156,27 @@ Und ich gehöre dazu.
 > [!question] Weitergedacht
 > Wenn der Stein oft die trifft, die nie geworfen haben: *Reicht es als Grund, dass er auch mich treffen könnte? Oder braucht es einen anderen?*
 
-## Keine Mächtigen, nur Hände
+## Die Mächtigen und die Hände
 
-Wenn etwas schiefläuft in der Welt, suchen wir den einen, der es war. Den Konzernchef, den Präsidenten, die bekannte Figur. Manchmal gibt es ihn.
+Wenn etwas schiefläuft in der Welt, suchen wir den einen, der es war. Den Konzernchef, den Präsidenten, die bekannte Figur. Und es gibt sie. Menschen, deren Wurf weiter reicht, weil sie mehr in der Hand halten.
 
 Die meisten Steine, die heute fallen, hat aber nicht einer geworfen. Es waren Millionen kleiner Würfe, jeder für sich harmlos, jeder mit einem kleinen Vorteil. Meiner ist dabei.
 
+Beides ist wahr, zur selben Zeit. Das ist das Paradox. Jeder von uns kann mit seinem Handeln die Wurzel eines Symptoms mitlegen, das er später verachtet.
+
+Das ist kein Urteil. Es geht nicht um Schuld, auch wenn viele es so hören werden. Wer nach Schuld fragt, geht am Entscheidenden vorbei. Mir geht es darum, Verantwortung und Macht zurück in unser Handeln und Denken zu holen.
+
+Das Dilemma bleibt. Ich habe Macht, und ich habe Verantwortung. Aber was ich allein tue, wirkt erst, wenn es sich vervielfacht. Und das habe ich nicht in der Hand.
+
+Es deshalb sein zu lassen und die Verantwortung bei ein paar Wenigen abzuladen, kann nicht die Lösung sein. Auch die Wenigen sind [[Gedanken/Gefangene des Systems — Elitenerziehung und die Verrohung der Macht|Gefangene des Systems]], das sie hervorgebracht hat.
+
 Das ist die unsichtbare Macht, von der ich in [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk]] geschrieben habe. Dort trägt das Netz die Samen: ein Gespräch, das trifft, eine Begegnung, die weiterwirkt, ohne dass einer es merkt. Hier trägt dasselbe Netz die Steine.
+
+Eine Gesellschaft hat Macht, auch wenn jeder Einzelne darin nur ein Tropfen ist.
+
+Aus Haltung wird Bildung.
+Aus Bildung wird Handeln.
+Aus Handeln wird Macht, wenn die Hände einander stärken.
 
 Dieselben Fäden.
 Dieselben Hände.
@@ -242,7 +256,7 @@ Die Ideengeschichte des Anderswo: von Ayn Rands Rückzugsort der Eliten bis zu P
 ## Weiterdenken
 
 > [!question] Was übersehe ich?
-> - Im Dorf sah man den Stein noch zurückkommen, man kannte jeden. *Ist das Alte in uns wirklich primitiv, oder war es einmal klug, und nur die Flugbahnen sind zu lang geworden, seit die Welt kein Dorf mehr ist?*
+> - Im Dorf sah man den Stein noch zurückkommen, man kannte jeden. *Ist das Alte in uns nur kurzsichtig, oder war es einmal klug, und nur die Flugbahnen sind zu lang geworden, seit die Welt kein Dorf mehr ist?*
 > - Axelrods Gewinner wehrte sich auch. *Wo endet die Grenze, die ich ziehe, und wo beginnt der Wurf?*
 > - Wettbewerb hat auch Gutes hervorgebracht, bessere Dinge und niedrigere Preise. *Gibt es einen Vorteil, der keinen Stein wirft, und wie sähe eine Wirtschaft aus, die auf ihm aufbaut?*
 > - Manchmal reicht ein Leben nicht, um den eigenen Stein zurückkommen zu sehen. *Warum ihn dann trotzdem nicht werfen?*

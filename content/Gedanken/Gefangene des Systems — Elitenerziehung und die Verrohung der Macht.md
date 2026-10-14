@@ -442,6 +442,9 @@ Die Verrohung an der Basis: Ein Vollzugsapparat, der einen Erschossenen als „J
 ### → [[Gedanken/Der leere Turm - wie Macht herrenlos wird|Der leere Turm — wie Macht herrenlos wird]]
 Denkt die Entpersonalisierung zu Ende, die diese Note beginnt: Wenn auch die Mächtigen Gefangene sind und zusätzlich ihr Urteil an Prozesse auslagern, bleibt oben niemand mehr — Herrschaft ohne Herrn statt Mastermind.
 
+### → [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
+Die Kehrseite: Es gibt die Mächtigen, und es gibt die Millionen kleiner Würfe — Verantwortung bei den Wenigen abzuladen greift zu kurz, weil auch sie Gefangene sind. Der Gedanke holt Verantwortung und Macht zurück in das eigene Handeln.
+
 ### → [[Die goldenen Tuerme — eine Dystopie der Maschinen-Aera]] · [[Wenn die Maschine die Arbeit nimmt — wohin kippt die Gesellschaft]]
 Die Dystopie der Maschinen-Ära führt dieses Paradox weiter — die Mächtigen als Gefangene ihrer selbstgebauten Türme; die Spur verfolgt, ob die Wirklichkeit tatsächlich dorthin kippt.
 
