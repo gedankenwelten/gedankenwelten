@@ -4,7 +4,7 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "aufrufe": 741
+   "aufrufe": 744
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -59,11 +59,11 @@
    "aufrufe": 14
   },
   {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
-   "aufrufe": 13
+   "pfad": "/DenkerVita/Carlo-Cipolla",
+   "aufrufe": 14
   },
   {
-   "pfad": "/DenkerVita/Carlo-Cipolla",
+   "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
    "aufrufe": 13
   },
   {
@@ -249,7 +249,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 724
+     "aufrufe": 727
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -260,11 +260,11 @@
      "aufrufe": 37
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
-     "aufrufe": 13
+     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "aufrufe": 14
     },
     {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "pfad": "/DenkerVita/Mark-Reicher",
      "aufrufe": 13
     },
     {
@@ -276,11 +276,11 @@
      "aufrufe": 11
     },
     {
-     "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
      "aufrufe": 8
     },
     {
@@ -494,7 +494,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 741
+     "aufrufe": 744
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -549,11 +549,11 @@
      "aufrufe": 14
     },
     {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
-     "aufrufe": 13
+     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "aufrufe": 14
     },
     {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "pfad": "/Denker/Aladin-El-Mafaalani-Misstrauensgemeinschaften-und-was-die-AfD-wirklich-stoppt-(taz-FUTURZWEI-Talk)",
      "aufrufe": 13
     },
     {
@@ -739,7 +739,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 770
+     "aufrufe": 773
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -782,11 +782,11 @@
      "aufrufe": 29
     },
     {
-     "pfad": "/DenkerVita/Christine-Dankbar",
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 23
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "pfad": "/DenkerVita/Christine-Dankbar",
      "aufrufe": 23
     },
     {
@@ -806,11 +806,11 @@
      "aufrufe": 20
     },
     {
-     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
+     "pfad": "/Denker/Vipassana-Vedana",
      "aufrufe": 17
     },
     {
-     "pfad": "/Denker/Vipassana-Vedana",
+     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
      "aufrufe": 17
     },
     {
@@ -822,6 +822,10 @@
      "aufrufe": 15
     },
     {
+     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "aufrufe": 14
+    },
+    {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
      "aufrufe": 14
     },
@@ -831,10 +835,6 @@
     },
     {
      "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
-     "aufrufe": 13
-    },
-    {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
      "aufrufe": 13
     },
     {
@@ -984,7 +984,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 770
+     "aufrufe": 773
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1027,11 +1027,11 @@
      "aufrufe": 29
     },
     {
-     "pfad": "/DenkerVita/Christine-Dankbar",
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 23
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "pfad": "/DenkerVita/Christine-Dankbar",
      "aufrufe": 23
     },
     {
@@ -1051,11 +1051,11 @@
      "aufrufe": 20
     },
     {
-     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
+     "pfad": "/Denker/Vipassana-Vedana",
      "aufrufe": 17
     },
     {
-     "pfad": "/Denker/Vipassana-Vedana",
+     "pfad": "/Gedanken/Das-unsichtbare-Netzwerk-Die-Macht-in-Dir",
      "aufrufe": 17
     },
     {
@@ -1067,6 +1067,10 @@
      "aufrufe": 15
     },
     {
+     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "aufrufe": 14
+    },
+    {
      "pfad": "/DenkerVita/Valentina-Chiofalo",
      "aufrufe": 14
     },
@@ -1076,10 +1080,6 @@
     },
     {
      "pfad": "/Zeitgeist/auslandsjournal-Putins-Zielscheibe-Europa",
-     "aufrufe": 13
-    },
-    {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
      "aufrufe": 13
     },
     {

@@ -377,3 +377,6 @@ Die neurowissenschaftliche Unterfütterung der Gravitations-These: Yu zeigt den 
 ### → [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
 
 Die dunkle Schwester dieses Gedankens. Hier trägt das unsichtbare Netz die Samen, dort die Steine: Millionen kleiner Würfe, jeder mit einem kleinen Vorteil, die spät, auf Umwegen und verwandelt zurückfallen. Dieselben Fäden, dieselben Hände, und dieselbe Frage: *Was für einen Stein werfe ich gerade?*
+
+### → [[Dietrich Bonhoeffer — Theorie der Dummheit#Wer verantwortlich handelt, wird schuldig|Bonhoeffer — Wer verantwortlich handelt, wird schuldig]]
+Bonhoeffer wusste, dass er schuldig wird, ob er handelt oder zusieht. Schliesser, die über seine Schuldübernahme geforscht hat, spricht darum lieber von Verantwortung: Schuld bei Wenigen abzuladen oder ganz bei sich zu suchen, lähmt; Verantwortung gibt die Hände zurück.

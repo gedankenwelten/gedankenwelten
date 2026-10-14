@@ -243,6 +243,9 @@ Dieselbe Rechenschaft *Nach zehn Jahren*, aus der Huber die Frage „Sind wir no
 ### → [[Arnd Henze — Bonhoeffer und die Neue Rechte]]
 Ein Essay über die Wahrheit von einem Mann, dem heute Worte in den Mund gelegt werden, die er nie geschrieben hat. Henze zeigt, wie aus Bonhoeffer eine Verfügungsmasse wurde, von Metaxas bis zum „Bonhoeffer-Moment“. Mit Bonhoeffers eigenem Maßstab gemessen ist das eine Lüge im strengen Sinn: Sie zerstört die Wirklichkeit eines Lebens und benutzt dafür seinen Namen.
 
+### → [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
+Hubers sechste These steht dort als Stimme in der Frage „Schützt Erinnerung, oder nutzt sie sich ab?“. Wo die Studien streiten, ob Erinnern messbar schützt, gibt Bonhoeffer einen Grund, der an keiner Messung hängt: Ohne Erinnerung keine Wahrheit, ohne Wahrheit keine Versöhnung.
+
 ### → [[Hannah Arendt — Zur Person]]
 Arendt stellt im Gespräch mit Gaus die Gegenfrage zu Bonhoeffers Essay: Darf man eine erkannte Wahrheit verschweigen? Sie verteidigt die Tatsachenwahrheit, die verletzlicher ist als jede Meinung, und lässt das Interesse, sich reinzuwaschen, nicht als legitim gelten. Beide misstrauen dem, der sich selbst rein halten will: Arendt dem, der Tatsachen verschweigt, um gut dazustehen, Bonhoeffer dem, der dem Mörder die Wahrheit sagt, um ein reines Gewissen zu behalten.
 

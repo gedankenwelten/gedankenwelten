@@ -2,7 +2,7 @@
 title: "Wer bestimmt, wie erinnert wird?"
 date: 2026-10-10
 erstellt: 2026-10-10
-aktualisiert: 2026-10-10
+aktualisiert: 2026-10-14
 description: "Eine Gemeinde, ein Amt, eine Regierung: Drei offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann und ob Erinnerung überhaupt schützt."
 raetsel: "Ein Kranz kostet wenig. Teuer ist, wer ihn niederlegen darf."
 panorama-art: wachsend
@@ -99,6 +99,7 @@ Die räumlichen Studien widersprechen einander. Wo früher ein Konzentrationslag
 - **[[Susanne Boshammer — Was heisst verzeihen#Publikumsfragen|Susanne Boshammer]]:** Die heutige Generation hat nichts zu verzeihen, aber Grund zu erinnern — Erinnerung ist Wissen über die Möglichkeiten menschlicher Grausamkeit.
 - **[[Paul Lance — Amerikaner fragt Deutsche ueber Trump#Holocaust-Gedenkstätten in Berlin Mahnung in Stein|Paul Lance]]:** Den Amerikaner erschüttert, dass Berlin seine Mahnmale mitten in die Stadt stellt — ein Land, das beschlossen hat, nicht wegzusehen.
 - **[[Duezen Tekkal — Deutschland ist bedroht#Der 72. Firman|Düzen Tekkal]]:** Ihre Generation hielt sich für die erste außerhalb der Reihe, bis der IS kam; in ihrer Gemeinschaft spricht niemand von „Vergangenheit“.
+- **[[Wolfgang Huber — Bonhoeffer und die Wahrheit#Privat, öffentlich und das Erinnern|Wolfgang Huber]]:** Mit Bonhoeffer gehört das Erinnern zum Wesen der Wahrheit selbst: Vergessene Wahrheit kann nicht versöhnen — ein dritter Grund neben Wirkung und Toten.
 
 > [!question] Die Reibung
 > Hoerner findet Sättigung, Lüssenheide Schutz, Pepinsky nichts Messbares; Blom gibt dem „Nie wieder“ eine Frist, Tekkal kennt keine. *Wenn sich nicht zeigen lässt, ob Erinnerung schützt — erinnert ein Land dann um der Wirkung willen oder um der Toten willen, und genügt das zweite als Grund für Steuergeld?*
