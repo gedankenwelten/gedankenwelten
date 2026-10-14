@@ -158,9 +158,15 @@ Und ich gehöre dazu.
 
 ## Die Mächtigen und die Hände
 
-Wenn etwas schiefläuft in der Welt, suchen wir den einen, der es war. Den Konzernchef, den Präsidenten, die bekannte Figur. Und es gibt sie. Menschen, deren Wurf weiter reicht, weil sie mehr in der Hand halten.
+Wenn etwas schiefläuft in der Welt, suchen wir den einen, der es war. Den Konzernchef, den Präsidenten, die bekannte Figur. Und es gibt sie.
 
 Die meisten Steine, die heute fallen, hat aber nicht einer geworfen. Es waren Millionen kleiner Würfe, jeder für sich harmlos, jeder mit einem kleinen Vorteil. Meiner ist dabei.
+
+Nur haben Steine verschiedene Größen. Ein Präsident wirft andere als ich, ein Musk oder ein Thiel auch. Und manche, die die größten werfen, stehen in keiner Liste der Reichsten, weil sie es nicht wollen. Es gibt Macht, die im Verborgenen wirkt.
+
+Aber auch die großen Steine fallen niemandem vom Himmel in die Hand. Sie werden gereicht, durch Märkte, die wir füttern, durch Stimmen, die wir geben, durch Aufmerksamkeit, die wir schenken. Auch die Mächtigen sind ein Symptom.
+
+Hier trennt sich der Gedanke von der Erzählung, die nur noch die Hände im Dunkeln sieht. Sie nimmt die Gesellschaft aus der Gleichung, den Menschen, uns. Übrig bleiben ein paar Böse und viele Unschuldige. Und wer unschuldig ist, muss nichts tun.
 
 Beides ist wahr, zur selben Zeit. Das ist das Paradox. Jeder von uns kann mit seinem Handeln die Wurzel eines Symptoms mitlegen, das er später verachtet.
 
