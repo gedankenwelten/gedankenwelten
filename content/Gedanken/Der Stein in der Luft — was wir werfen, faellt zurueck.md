@@ -174,11 +174,11 @@ Das ist die unsichtbare Macht, von der ich in [[Gedanken/Das unsichtbare Netzwer
 
 Eine Gesellschaft hat Macht, auch wenn jeder Einzelne darin nur ein Tropfen ist.
 
-Aus Haltung wird Bildung.
-Aus Bildung wird Handeln.
+Aus Haltung wird Bildung.<br>
+Aus Bildung wird Handeln.<br>
 Aus Handeln wird Macht, wenn die Hände einander stärken.
 
-Dieselben Fäden.
+Dieselben Fäden.<br>
 Dieselben Hände.
 
 ## Was du nicht willst

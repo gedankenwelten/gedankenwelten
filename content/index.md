@@ -44,6 +44,10 @@ Die Gedankenwelten (luc)
 
 ### Gedanken
 
+> **14.10.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
+>
+> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
+
 > **14.10.** — [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
 >
 > Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später. Auf Umwegen. Verwandelt. Niemand erkennt ihn mehr als seinen.

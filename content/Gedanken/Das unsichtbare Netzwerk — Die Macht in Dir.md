@@ -1,6 +1,6 @@
 ---
 title: "Das unsichtbare Netzwerk — Die Macht in Dir"
-aktualisiert: 2026-06-20
+aktualisiert: 2026-10-14
 description: "Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an."
 date: 2026-05-02
 tags:
@@ -254,6 +254,18 @@ Diese Note trägt einen Titel, der nicht neu ist. Vor fünfundzwanzig Jahren hab
 > Und klage ich, die Welt sei schlecht, fang ich bei mir als erstes an.
 
 Der Faden kehrt zurück. Ohne Herkunftsadresse. Und doch erkenne ich ihn.
+
+Das Gedicht spricht aus der Nähe. Damals ging es um mein eigenes Leben, um die Menschen um mich herum, und dort gilt es bis heute.
+
+Im Großen klingt derselbe Gedanke anders. Schuld zu geben heißt dort, sie bei ein paar Wenigen abzuladen. Wer sie aber ganz bei sich sucht, verliert sich darin, weil die Welt so verwickelt ist, dass niemand jeden Faden prüfen kann. Wer alles richtig machen muss, macht am Ende nichts. Die Schuld lähmt. Was trägt, ist Verantwortung: Macht zurück in unser Handeln und Denken holen.
+
+Und im Großen kennt Macht manchmal doch Namen. Es gibt die Mächtigen, deren Wurf weiter reicht als meiner. Beides ist wahr, zur selben Zeit (→ [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft]]).
+
+Das Dilemma bleibt. Was ich allein tue, wirkt erst, wenn es sich vervielfacht, und das habe ich nicht in der Hand. Aber es deshalb sein zu lassen, kann nicht die Lösung sein. Wir sind ein Tropfen im Meer, ja. Aber das Meer besteht aus nichts anderem.
+
+Aus Haltung wird Bildung.<br>
+Aus Bildung wird Handeln.<br>
+Aus Handeln wird Macht, wenn die Hände einander stärken.
 
 ---
 
