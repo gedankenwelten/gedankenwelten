@@ -262,6 +262,9 @@ Ein Chemiker beschreibt aus dem Labor, was Wilholt begrifflich fasst: wiederhole
 
 Das wachsende Panorama zur Forschung: Wilholts Fallibilismus steht dort bei der Frage, wie viel man der Wissenschaft glauben darf, seine Kernthesen zur Forschungsfreiheit bei der Verantwortung.
 
+### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+Wo Wilholt zeigt, dass Übereinstimmung mit den Tatsachen für Wissen nicht reicht, zeigt Bonhoeffer dasselbe für das Wahrsagen: Ein Satz kann stimmen und vor dieser Frage, an diesem Ort, trotzdem die Wirklichkeit verfehlen.
+
 
 ---
 

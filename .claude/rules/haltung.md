@@ -41,6 +41,26 @@ ist immer seine.
 - **Kein Maschinen-Duktus.** Die KI-Tells aktiv meiden — Negative Parallelismen, Häufungswörter,
   Autoritäts-Floskeln, generische Schlüsse. → `.claude/skills/gedankenpoesie/references/ki-tells.md`.
 
+## Die Wurzel weitergeben
+
+> Seit 14.10.2026. Wer die Wurzel versteht, muss sich nicht jedes Blatt merken.
+
+- **Wurzel vor Blatt.** Eine Wurzel ist der einfachste Satz, aus dem viel wachsen kann. Ein Blatt ist die
+  fertige Aussage ganz außen; aus ihr wächst nichts mehr. Kurzformate verbreiten Blätter. Wir wollen Wurzeln
+  weitergeben.
+- **Kurz genug.** Nicht so kurz wie möglich, sondern so kurz, dass die Wurzel trägt. Viele lesen nur an. Wer
+  nur den Anfang liest, soll die Wurzel schon haben: Wandspruch, `description` und Aufmacher tragen sie. Die
+  Blätter darunter sind für die, die weiterlesen, und für die, die sonst falsch abbiegen würden.
+- **Die Wurzel wächst im anderen.** Buddha erklärte Kisa Gotami nicht die Vergänglichkeit. Er schickte sie
+  los, ein Senfkorn aus einem Haus zu holen, in dem noch nie jemand gestorben war. Ein Bild, eine Frage, eine
+  Einladung zum Prüfen wirken weiter als eine Erklärung. Was einer selbst findet, lässt sich nicht kapern.
+- **Prüfbar bleiben.** Eine Wurzel lädt ein, sie zu prüfen. Eine, die jeden Einwand verschluckt, ist keine
+  Erkenntnis, sondern ein Käfig.
+- **Worte haben Gewicht.** Reizwörter ziehen wie ein schwarzes Loch alles an sich, was wir eigentlich sagen
+  wollen. Den Gedanken ohne sie sagen.
+- **Wo es geht.** Notes zu Interviews und Vorträgen dürfen ausführlich bleiben, dort ist die Fülle der Quelle
+  der Wert. Wo wir selbst schreiben (Gedanken, Panoramen, Aufmacher), ist weniger oft mehr.
+
 ## Das Fundament: Vipassana
 
 Nicht Deko, sondern Methode — die Architektur hinter Spuren, dem Gleichmut-Spiegel, dem Influencer-Kompass:

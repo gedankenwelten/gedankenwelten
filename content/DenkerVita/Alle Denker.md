@@ -272,6 +272,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Harald Welzer|Harald Welzer]]** — Vom Täterforscher zum Sammler gelungener Gegenwart: Harald Welzer fragt, wie normale Menschen zu Mördern werden und wie eine Gesellschaft großzügig bleibt.
 
+**[[DenkerVita/Wolfgang Huber|Wolfgang Huber]]** — Evangelische Theologie & Sozialethik, Altbischof und Herausgeber Bonhoeffers, denkt Freiheit als verantwortete Freiheit bis in Friedensethik und Digitalisierung
+
 ## I
 
 **[[DenkerVita/Immanuel Kant|Immanuel Kant]]** — Philosoph; Kritik der reinen Vernunft, kategorischer Imperativ, "Was ist Aufklärung?"

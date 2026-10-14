@@ -242,6 +242,10 @@ Die Smallville-Agenten erzählen sich aus ihren Handlungen eine Identität, per 
 
 Ricœurs Dreiklang aus Selbst, Nächstem und Drittem liest sich wie die Vermittlung eines Streits, den Buber und Levinas nie geführt haben: das Du auf Augenhöhe, der Andere als Anspruch, die Gerechtigkeit für den Fernen — auf einer Achse.
 
+### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+Bonhoeffer verortet die Wahrheit in Beziehungen und nennt die Lüge eine Zerstörung der Wirklichkeit durch Worte und durch Schweigen. Ricœur sagt, der Lügner verrate sich, den anderen und die Sprache. Beide kennen die Wahl zwischen dem Übel und dem Schlimmeren, die man nicht mit leichtem Herzen trifft.
+
+
 ---
 
 ## Weiterdenken

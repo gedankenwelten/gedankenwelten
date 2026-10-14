@@ -355,6 +355,10 @@ Welzer verweigert die Linie zwischen Anspruch und Großzügigkeit, die Boshammer
 
 Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter „Beginnt Großzügigkeit, wo der Anspruch endet?“ und „Kann eine Gesellschaft großzügig sein?“.
 
+### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+Huber legt Bonhoeffers Wahrheitsbegriff in sechs Thesen aus. Die letzten beiden führen nach Südafrika: Die Wahrheit sagen heißt Konflikte aufklären, um Versöhnung zu bahnen, und vergessene Wahrheit kann nicht versöhnen. Boshammers Bekenntnis ohne Rechtfertigung ist die Form, in der diese Wahrheit zwischen Tätern und Opfern gesagt wird.
+
+
 ---
 
 ## Weiterdenken

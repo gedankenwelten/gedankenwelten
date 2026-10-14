@@ -3135,6 +3135,8 @@ tags:
 | **Abschnitt** | „Nach zehn Jahren: Rechenschaft an der Wende zum Jahr 1943" — vollständiger Text: [jochenteuffel.com/bonhoeffer-nach-zehn-jahren.pdf](https://jochenteuffel.com/wp-content/uploads/2018/06/bonhoeffer-nach-zehn-jahren.pdf) |
 | **Erklärvideo** | [Die Theorie der DUMMHEIT — MindMoneyFusion](https://www.youtube.com/watch?v=OrfrhK5IJRY) |
 | **Biografie-Dokumentation** | [Dietrich Bonhoeffer: A Story of Courage and Faith — The Incredible Journey](https://www.youtube.com/watch?v=bCqk-vG31wI) |
+| **Deutung: Wahrheit** | [Wolfgang Huber: Die Wahrheit sagen – Dietrich Bonhoeffer](https://www.youtube.com/watch?v=WIcmbOrWkvU) (Theologische Kurse Wien, 2024) |
+| **Deutung: Schuld** | [Macht man sich durch Nichtstun schuldig? mit Christine Schliesser](https://www.youtube.com/watch?v=THjRs1-YnaE) (Glaube & Gesellschaft im Gespräch, 2021) — Transkript `Gedankenwelten/Transkripte/Schliesser_Schuld_Bonhoeffer_Transkript.txt` |
 | **Notiz** | [[Dietrich Bonhoeffer — Theorie der Dummheit]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Bonhoeffer_Theorie_der_Dummheit_Transkript.txt` |
 | **Transkript Biografie** | `Gedankenwelten/Transkripte/Bonhoeffer_Biografie_Transkript.txt` |
@@ -5166,3 +5168,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [In 48 Minuten verstehst du die nächsten 5 Jahre (kompletter KI-Vortrag)](https://www.youtube.com/watch?v=hsvSN-KW4QE) (16.09.2026) |
 | **Notiz** | [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Yurttadur_KI_Vortrag_Transkript.txt` (YouTube-Automatikuntertitel, deutsch) |
+
+## Wolfgang Huber — Bonhoeffer und die Wahrheit
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Wolfgang Huber: Die Wahrheit sagen – Dietrich Bonhoeffer](https://www.youtube.com/watch?v=WIcmbOrWkvU) (Theologische Kurse Wien, Akademie am Dom, 27.05.2024) |
+| **Primärtext** | Dietrich Bonhoeffer: *Was heißt: die Wahrheit sagen?* (Tegel 1943), DBW 16 |
+| **Notiz** | [[Denker/Wolfgang Huber — Bonhoeffer und die Wahrheit]] |
+| **DenkerVita** | [[DenkerVita/Wolfgang Huber]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Huber_Wahrheit_Bonhoeffer_Transkript.txt` |

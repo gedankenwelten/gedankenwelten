@@ -1199,3 +1199,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Robin Schmid
 **Status:** ✓ Vollanalyse → [[DenkerVita/Robin Schmid]]
+
+## Wolfgang Huber
+**Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Huber]]

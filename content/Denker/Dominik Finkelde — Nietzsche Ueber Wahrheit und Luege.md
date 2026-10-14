@@ -183,3 +183,7 @@ Lyotard ist einer der Züge, die von Finkeldes "Drehscheibe Nietzsche" abfahren.
 ### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]
 
 Bärfuss' Satz „Die Wahrheit hat etwas Totalitäres“ ist die praktische Kurzfassung dessen, was Finkelde an Nietzsche entfaltet: Wahrheit als gesellschaftlicher Friedensschluss, als erstarrte Metapher. Und Bärfuss bleibt genau an der Gabelung stehen, die Finkelde markiert — Habermas' Geltungsanspruch oder Nietzsches raffiniertere Täuschung.
+
+### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+Siebzig Jahre nach Nietzsche denkt auch Bonhoeffer Wahrheit als Relation zwischen Fragendem, Antwortendem und Lage. Er verankert sie aber in einer Wirklichkeit, die eine Lüge zerstören kann.
+

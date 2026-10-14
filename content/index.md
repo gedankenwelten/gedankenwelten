@@ -28,6 +28,14 @@ Die Gedankenwelten (luc)
 >
 > „Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann.
 
+> **14.10.** — [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]]
+>
+> Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung.
+
+> **14.10.** — [[Denker/Wolfgang Huber — Bonhoeffer und die Wahrheit|Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+>
+> Wer im Verhör lügen muss, um Freunde zu schützen, fragt neu, was Wahrheit ist. Bonhoeffers Antwort aus Tegel: Sie lebt zwischen Menschen, nicht im Satz allein.
+
 > **14.10.** — [[Denker/Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft|Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
 >
 > Ein Tisch, an dem alle sitzen und jeder anderes sieht: Arendts Begriff des Politischen, und was geschieht, wenn Masse, Ideologie und Terror ihn zerstören. Dresden 2018.
@@ -36,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Wirtschaftshistoriker schreibt als Scherz die Gesetze der Dummheit auf: Wer anderen schadet, ohne selbst etwas davon zu haben, ist gefährlicher als jeder Bandit.
 
-> **11.10.** — [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
-
-> **11.10.** — [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
-
-> → *7 weitere in* [[Denker]]
+> → *9 weitere in* [[Denker]]
 
 ### Gedanken
 

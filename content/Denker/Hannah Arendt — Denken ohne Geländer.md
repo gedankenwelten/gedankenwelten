@@ -239,6 +239,10 @@ Die Begriffe dieser Note mit Biografie: Arendt bei Gaus über die Mutter, die Fr
 
 Was Pluralität zerstört, bevor man sie denken kann, zeigt das Frühwerk: Felsch und Geulen über den Tisch, an dem alle sitzen, und über die totale Verlassenheit.
 
+### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+Bonhoeffer begrenzt die Schuld, die man für andere auf sich nimmt, durch den „Ruf zur Einheit mit mir selbst“. Das ist dieselbe Probe, die Arendt bei denen fand, die nicht mitmachten, geschrieben 1943 in Tegel von einem, der lügen musste, um seine Freunde zu schützen.
+
+
 ---
 
 ## Weiterdenken

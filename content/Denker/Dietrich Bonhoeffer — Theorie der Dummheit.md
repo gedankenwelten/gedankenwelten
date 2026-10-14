@@ -1,7 +1,7 @@
 ---
 title: Dietrich Bonhoeffer — Theorie der Dummheit
 description: "Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung."
-aktualisiert: 2026-09-20
+aktualisiert: 2026-10-14
 tags:
   - denker
   - philosophie
@@ -41,6 +41,7 @@ aliases:
 
 Quelle: *Widerstand und Ergebung — Briefe und Aufzeichnungen aus der Haft* (1951), Abschnitt „Nach zehn Jahren: Rechenschaft an der Wende zum Jahr 1943"
 Ergänzende Quelle: [Dietrich Bonhoeffer: A Story of Courage and Faith](https://www.youtube.com/watch?v=bCqk-vG31wI) (The Incredible Journey, Gary Kent)
+Deutungen: [Wolfgang Huber: Die Wahrheit sagen – Dietrich Bonhoeffer](https://www.youtube.com/watch?v=WIcmbOrWkvU) (Theologische Kurse Wien, 2024) · [Macht man sich durch Nichtstun schuldig? mit Christine Schliesser](https://www.youtube.com/watch?v=THjRs1-YnaE) (Glaube & Gesellschaft im Gespräch, 2021)
 
 > [!info] Wer spricht?
 > **Dietrich Bonhoeffer** (*4. Februar 1906, Breslau — 9. April 1945, KZ Flossenbürg*) — lutherischer Theologe, Pastor, Seminarleiter und aktiver Widerstandskämpfer gegen den Nationalsozialismus.
@@ -265,7 +266,42 @@ Hier liegt das Gegenstück zur Dummheit. Sie gibt die Verantwortung ab; standhal
 
 ---
 
-## 6. Bonhoeffer selbst — gelebte Antwort
+## 6. Was der Verantwortliche auf sich nimmt — Schuld und Wahrheit
+
+Die Doku, aus der die Biografie oben stammt, erzählt den Mut. Was er gekostet hat, sagt sie kaum. Bonhoeffer hat es selbst aufgeschrieben, in der *Ethik* und in den Texten aus der Haft, und zwei Stimmen haben es in den letzten Jahren gut ausgelegt: die Theologin Christine Schliesser, die über Bonhoeffers Begriff der Schuldübernahme geforscht hat, und Wolfgang Huber, Mitherausgeber der Bonhoeffer-Werke. Der Verantwortliche, der am Ende von *Wer hält stand?* steht, nimmt zweierlei auf sich: Schuld und die Last der Lüge.
+
+### Wer verantwortlich handelt, wird schuldig
+
+[▶ 4:39](https://www.youtube.com/watch?v=THjRs1-YnaE&t=279)
+
+Bonhoeffer war kein geborener Verschwörer. In New York lernte er durch den französischen Theologen Jean Lasserre den christlichen Pazifismus schätzen und begann, die Bergpredigt wörtlich zu nehmen. Dann fragte ihn sein Schwager Hans von Dohnanyi, ob er bei einem Komplott mitmache, an dessen Ende ein Mord stehen sollte. Schliesser beschreibt, wie er mit diesem Widerspruch rang und ihn bis zum Schluss nicht auflöste. Was er fand, war keine Lösung, eher eine Klarheit über die Lage:
+
+> *„Ich stehe ja nicht vor der Alternative, mich schuldig zu machen oder mich nicht schuldig zu machen, sondern egal was ich mache, ich werde schuldig.“* — Christine Schliesser über Bonhoeffers Gedankengang [▶ 6:57](https://www.youtube.com/watch?v=THjRs1-YnaE&t=417)
+
+Wer zusieht, wie Menschen ins Verderben gehen, wird schuldig. Wer eingreift, auch. In *Nach zehn Jahren* steht dazu der knappe Satz: *„Tatenloses Abwarten und stumpfes Zuschauen sind keine christlichen Haltungen.“* In der *Ethik* wird daraus eine These: *„Weil Jesus die Schuld aller Menschen auf sich nahm, darum wird jeder verantwortlich Handelnde schuldig.“* (DBW 6, 275 f.) Schliesser hat über diesen Satz ein ganzes Buch geschrieben (*Everyone Who Acts Responsibly Becomes Guilty*, 2006/2008).
+
+Neben die Theorie der Dummheit gelegt, ergibt das ein genaues Spiegelbild. Der Dumme ist *„restlos mit sich selbst zufrieden“*; er hat sein Urteil abgegeben und fühlt sich darum unschuldig. Der Verantwortliche behält sein Urteil und weiß darum, dass er schuldig wird. Das gute Gewissen ist bei Bonhoeffer verdächtig. Es kann das Zeichen dafür sein, dass einer gar nicht mehr selbst urteilt.
+
+Schliesser zieht zwei Linien weiter, die die Doku nicht kennt. Die erste betrifft das Wissen [▶ 11:31](https://www.youtube.com/watch?v=THjRs1-YnaE&t=691). Die Familie Bonhoeffer wusste über Dohnanyi in der Abwehr weit mehr als die meisten Deutschen, und mehr Wissen hieß mehr Verantwortung. Daraus folgt nicht, dass man sich durch Nichtwissen schützen kann. *„Auch Nicht-Handeln ist eine Handlung“* [▶ 13:02](https://www.youtube.com/watch?v=THjRs1-YnaE&t=782), und wer die Zeitung bewusst ungelesen lässt, um kein schlechtes Gewissen zu bekommen, hat schon gehandelt. Bonhoeffers Dummheit hat hier eine stille Verwandte: der Urteilsverzicht, der nicht unter dem Druck der Macht entsteht, sondern aus dem Wunsch, nicht zu wissen.
+
+Die zweite Linie betrifft die Grenze [▶ 15:17](https://www.youtube.com/watch?v=THjRs1-YnaE&t=917). Bonhoeffer hat seine Entscheidung nie zur Pflicht aller Christen erklärt. Sie war seine. Jeder Mensch habe eine eigene Grenze der Tragkraft, sagt Schliesser, und erzählt von ihrer Forschung zum Genozid in Ruanda, nach der sie sich zurücknehmen musste, um nicht zusammenzubrechen. Die Gratwanderung liegt darin, sich zu schützen, ohne daraus die Ausrede zu machen, man könne ja sowieso nichts tun [▶ 16:48](https://www.youtube.com/watch?v=THjRs1-YnaE&t=1008). Mit Karl Jaspers' vier Arten der Schuld (*Die Schuldfrage*, 1946: kriminell, moralisch, politisch, metaphysisch) führt sie das bis zur Näherin in Bangladesch, mit der uns der Einkauf verbindet [▶ 19:08](https://www.youtube.com/watch?v=THjRs1-YnaE&t=1148), und sagt am Ende lieber *Verantwortung* als *Schuld*: Schuld erdrückt und lähmt, Verantwortung lässt einen handeln [▶ 22:59](https://www.youtube.com/watch?v=THjRs1-YnaE&t=1379).
+
+> [!question] Weitergedacht
+> Bonhoeffer sagt: Wer verantwortlich handelt, wird schuldig. *Wenn das stimmt — ist dann ein Mensch mit dauerhaft gutem Gewissen eher dumm als gut? Und wie unterscheidet man die Schuld, die man auf sich nehmen muss, von der, die man sich nur einredet?*
+
+### Was heißt: die Wahrheit sagen?
+
+[▶ 10:01](https://www.youtube.com/watch?v=WIcmbOrWkvU&t=601)
+
+Die zweite Last trug Bonhoeffer in Tegel. Er wusste, dass er in den Verhören über die Verschwörung lügen würde, um die Freunde zu schützen, und schrieb in der Zelle einen Essay mit dem Titel *Was heißt: die Wahrheit sagen?* Huber liest ihn als einen der wichtigsten und am wenigsten beachteten Texte Bonhoeffers. Sein Kern: Wahrheit lebt in Beziehungen. Ein Lehrer, der ein Kind vor der Klasse fragt, ob sein Vater oft betrunken nach Hause komme, hat kein Recht auf diese Antwort, und das Nein des Kindes ist nach Bonhoeffer der Wirklichkeit treuer als ein Ja. Gegen Kants Verbot jeder Lüge setzt Bonhoeffer die Verantwortung; gegen die bequeme Notlüge setzt er die *„Einheit mit mir selbst“* [▶ 16:57](https://www.youtube.com/watch?v=WIcmbOrWkvU&t=1017).
+
+Der Essay gehört zur Theorie der Dummheit, enger als es scheint. Der Dumme, heißt es oben, spricht nicht selbst, aus ihm sprechen *„über ihn mächtig gewordene Schlagworte“*. Bonhoeffers erste Prüfung für ein wahres Wort lautet: erkennen, *wer mich zum Sprechen veranlasst* [▶ 23:06](https://www.youtube.com/watch?v=WIcmbOrWkvU&t=1386). Das ist das Gegengift in einem Satz. Und in derselben Rechenschaft *Nach zehn Jahren*, in der die Dummheit steht, fragt er die Mitverschwörer, ob sie nach Jahren der Verstellung und der mehrdeutigen Rede noch *„brauchbar“* seien [▶ 13:07](https://www.youtube.com/watch?v=WIcmbOrWkvU&t=787). Die Verschwörer waren gegen die Dummheit gefeit. Gegen die Lüge, die sie selbst sprechen mussten, waren sie es nicht.
+
+→ Ausführlich, mit Hubers sechs Thesen und seiner Übertragung auf das digitale Zeitalter: [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+
+---
+
+## 7. Bonhoeffer selbst — gelebte Antwort
 
 Die Theorie ist eine Rechenschaft vor dem Tod, und ihr Verfasser hat nach ihr gelebt.
 
@@ -412,6 +448,10 @@ Das wachsende Panorama zur Großzügigkeit führt diese Note als Stimme unter �
 ### → [[Hannah Arendt — Zur Person]]
 
 Bei Gaus zeigt Arendt die Kehrseite von Bonhoeffers Befund: Urteilslos wurden 1933 gerade die Klugen, aus ihren eigenen Einfällen heraus.
+
+### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+
+Das Gegenstück aus derselben Zeit: Wer der Dummheit widersteht, muss in der Verschwörung lügen. Huber legt Bonhoeffers Tegeler Essay über die Wahrheit aus, und dessen erste Prüfung, *wer mich zum Sprechen veranlasst*, ist das Gegengift zur Parole.
 
 ---
 

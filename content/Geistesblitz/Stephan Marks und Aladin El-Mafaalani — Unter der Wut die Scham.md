@@ -326,6 +326,10 @@ Die Frage aus dem Publikum, ob unser Schulsystem überhaupt zulässig ist, wird 
 
 Was Marks als zwei Formen der Scham beschreibt, verteilt sich dort auf zwei Bücher: Kowalczuk sucht die verratene Integrität der Diktatur, Oschmann die Beschämung durch eine Einheit, die als Abwicklung erlebt wurde.
 
+### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+Bonhoeffers Beispiel aus dem Gefängnis: Ein Lehrer fragt ein Kind vor der Klasse, ob sein Vater oft betrunken heimkomme, und das Kind lügt. Die Schuld dieser Lüge fällt für Bonhoeffer auf den Lehrer zurück. In Marks' Begriffen hat das Kind seine Schutz-Scham gegen eine Beschämung verteidigt.
+
+
 ---
 
 ## Weiterdenken

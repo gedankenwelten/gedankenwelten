@@ -312,6 +312,10 @@ Heidegger steht ungenannt im Raum, wenn Arendt über die Gleichschaltung der Int
 
 Göpel und Marinić beschreiben Vertrauen als die Hand, die man reicht, ohne zu wissen, ob man über den Tisch gezogen wird. Arendt schließt das Gaus-Gespräch mit derselben Figur, als jemand, der den Verrat der eigenen Freunde schon kennt. Ihr Vertrauen kommt nach der Enttäuschung.
 
+### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+Arendt fragt, ob man eine erkannte Wahrheit verschweigen darf. Bonhoeffer fragte 1943 in der Zelle, wann man sie verweigern muss, und prüfte dafür das Recht dessen, der fragt. Beide halten das Reinhalten der eigenen Person für kein legitimes Motiv.
+
+
 ---
 
 ## Weiterdenken

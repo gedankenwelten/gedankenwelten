@@ -238,6 +238,9 @@ Simone Weil als Probe aufs Exempel. Han findet das Glück im Widerstand — die 
 
 Empirische Bestätigung von Hans Leistungssubjekt — aus einer Disziplin, die Han selbst als Teil des Problems lesen würde. Mangelsdorf beziffert, was Erfolg kostet — Schlaf, Bindung, Zeit —, also genau die Güter, aus denen Wohlergehen entsteht. Das ist Selbstausbeutung in Kennzahlen. (Ihre Zuspitzung, Erfolg sei geradezu ein *Negativprädiktor*, hält der Prüfung allerdings nicht stand.) Und wie Han hält sie das Glück für ein Nebenprodukt, das sich dem direkten Zugriff entzieht — nur kommt es bei ihm durch die Hände und bei ihr durch tragende Beziehungen und Sinn.
 
+### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+Huber vermisst in den Ethiken der Digitalisierung das Stichwort Wahrheit und holt es mit Bonhoeffer zurück: Wahrheit lebt in Beziehungen und muss erinnert werden. Das ergänzt Hans Satz, Wahrheit habe Dauer und Information keine.
+
 
 ## Weiterdenken
 
