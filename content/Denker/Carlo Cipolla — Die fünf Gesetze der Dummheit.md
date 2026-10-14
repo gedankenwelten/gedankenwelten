@@ -181,7 +181,7 @@ Bildung, Intelligenz, Status, Reichtum — nichts davon schützt vor Dummheit. E
 
 Dummheit ist nicht prognostizierbar aus äußeren Merkmalen. Das macht Cipollas zweites Gesetz so wichtig: Es verbietet das mentale Modell, in dem bestimmte Gruppen — politisch, religiös, sozial — per Definition dumm oder per Definition klug sind.
 
-Wie ernst Cipolla das meint, zeigt seine gespielte Feldforschung. Er habe an Universitäten in aller Welt gezählt: bei den Arbeitern, den Angestellten, den Studenten, der Verwaltung. Überall derselbe Anteil σ. Bei den Professoren auch. Schließlich prüfte er eine „echte Elite“, die Nobelpreisträger, und fand: σ von ihnen sind dumm. Und er lässt keine Gruppe aus, die sich gern ausnehmen würde: Die Frauenbewegung werde das Gesetz begrüßen, weil es die Dummen unter Männern und Frauen gleich verteilt, die Dritte Welt, weil es zeigt, dass die Entwickelten so entwickelt nicht sind.
+Wie ernst Cipolla das meint, zeigt seine gespielte Feldforschung. Er habe an Universitäten in aller Welt gezählt: bei den Arbeitern, den Angestellten, den Studenten, der Verwaltung. Überall derselbe Anteil σ (Sigma, der griechische Buchstabe, mit dem Cipolla den Anteil der Dummen bezeichnet; eine Zahl nennt er nicht, denn nach dem ersten Gesetz wäre jede zu niedrig). Bei den Professoren auch. Schließlich prüfte er eine „echte Elite“, die Nobelpreisträger, und fand: Auch unter ihnen ist der Anteil σ (Sigma) dumm. Und er lässt keine Gruppe aus, die sich gern ausnehmen würde: Die Frauenbewegung werde das Gesetz begrüßen, weil es die Dummen unter Männern und Frauen gleich verteilt, die Dritte Welt, weil es zeigt, dass die Entwickelten so entwickelt nicht sind.
 
 [▶ 3:04](https://www.youtube.com/watch?v=Yw04lEddNUY&t=184) Dabei spielt er bewusst den Reaktionär. Die Gleichheitslehre seiner Zeit sei ihm fremd, die Menschen seien nicht gleich: *„Man ist dumm, wie man rothaarig ist; man gehört zu den Dummen wie zu einer Blutgruppe.“* Im nächsten Satz kippt er es um. Er wolle keine Klassen- oder Rassenunterscheidung einschmuggeln, denn die Dummheit sei *„ein unterschiedsloses Privileg aller menschlichen Gruppen“*, in gleichem Anteil. Der Witz hat eine Spitze: Wer sich auf Cipolla beruft, um eine Gruppe für dumm zu erklären, hat das zweite Gesetz schon gebrochen.
 
@@ -218,7 +218,7 @@ An der Jahreswende 1942/43 hatte Dietrich Bonhoeffer denselben Satz für seine M
 
 #### Was Cipolla nicht sagt — die Masse der Dummen
 
-Viele Nacherzählungen, auch das Erklärvideo, dem diese Note früher folgte, hängen ein Gesetz an, das bei Cipolla nicht steht: Intelligente Menschen handelten vereinzelt und kooperierten selten koordiniert, Dumme verstärkten sich *unbewusst gegenseitig*, folgten denselben einfachen Erzählungen und wüchsen durch pure Masse. Bei Cipolla wächst gar nichts. Der Anteil σ bleibt in jeder Gruppe und zu jeder Zeit gleich; was sich ändert, ist, wie viel die anderen den Dummen durchgehen lassen. Dass Menschen sich gegenseitig in dieselben Parolen ziehen, beschreibt eher [[Dietrich Bonhoeffer — Theorie der Dummheit#2. Dummheit als soziales Phänomen — das eigentliche Zentrum|Bonhoeffer]], für den Dummheit ein soziales Phänomen ist, und heute [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani]] mit seinen Misstrauensgemeinschaften.
+Viele Nacherzählungen, auch das Erklärvideo, dem diese Note früher folgte, hängen ein Gesetz an, das bei Cipolla nicht steht: Intelligente Menschen handelten vereinzelt und kooperierten selten koordiniert, Dumme verstärkten sich *unbewusst gegenseitig*, folgten denselben einfachen Erzählungen und wüchsen durch pure Masse. Bei Cipolla wächst gar nichts. Der Anteil σ (Sigma) bleibt in jeder Gruppe und zu jeder Zeit gleich; was sich ändert, ist, wie viel die anderen den Dummen durchgehen lassen. Dass Menschen sich gegenseitig in dieselben Parolen ziehen, beschreibt eher [[Dietrich Bonhoeffer — Theorie der Dummheit#2. Dummheit als soziales Phänomen — das eigentliche Zentrum|Bonhoeffer]], für den Dummheit ein soziales Phänomen ist, und heute [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani]] mit seinen Misstrauensgemeinschaften.
 
 Das Bild hat eine Falle. Wer es liest, stellt sich fast immer zu den Vereinzelten, die es durchschauen, und sieht die Masse draußen. Genau so fühlt es sich auch von innen an, wenn man selbst einer einfachen Erzählung folgt: Man glaubt, das Richtige zu tun, und hält die anderen für die Herde. Die Probe, die diese Nacherzählungen auslassen, ist, die Masse der Dummen auch dort zu suchen, wo man selbst dazugehört.
 
@@ -232,7 +232,7 @@ Cipolla stellt eine scheinbar paradoxe Frage: Wenn Dummheit in allen Gesellschaf
 
 Seine Antwort: *Nicht die absolute Zahl der Dummen entscheidet, sondern die Komposition der Nicht-Dummen.*
 
-In aufsteigenden Gesellschaften gibt es eine ungewöhnlich hohe Dichte an *Intelligenten*, die den Anteil σ *„in Schach halten“* und dabei genug für sich und die anderen erwirtschaften, dass der Fortschritt sicher ist.
+In aufsteigenden Gesellschaften gibt es eine ungewöhnlich hohe Dichte an *Intelligenten*, die den Anteil σ (Sigma) *„in Schach halten“* und dabei genug für sich und die anderen erwirtschaften, dass der Fortschritt sicher ist.
 
 In verfallenden Gesellschaften ändert sich zweierlei:
 1. **Die Dummen dürfen mehr.** Sie werden *„von den anderen Mitgliedern“* gelassen, aktiver zu werden und mehr zu tun.
@@ -276,7 +276,7 @@ Was diese Arbeiten tragen und was nicht: Es sind Spielmodelle, keine Messungen a
 
 ### Was hilft
 
-Cipolla gibt nur einen Rat, und er steckt im vierten Gesetz: Abwehr aufbauen statt Verachtung, und sich nie mit einem Dummen verbünden, um ihn zu benutzen. Der Rest folgt aus seiner Rechnung. Den Anteil σ kann niemand ändern. Ändern lässt sich der Rest der Gesellschaft: ob die Klugen klug handeln, ob die Hilflosen alles hinnehmen, ob die Mächtigen zu Banditen werden. Die Simulationen zeigen dasselbe von der anderen Seite: Entscheidend ist, was die Übrigen nachahmen.
+Cipolla gibt nur einen Rat, und er steckt im vierten Gesetz: Abwehr aufbauen statt Verachtung, und sich nie mit einem Dummen verbünden, um ihn zu benutzen. Der Rest folgt aus seiner Rechnung. Den Anteil σ (Sigma) kann niemand ändern. Ändern lässt sich der Rest der Gesellschaft: ob die Klugen klug handeln, ob die Hilflosen alles hinnehmen, ob die Mächtigen zu Banditen werden. Die Simulationen zeigen dasselbe von der anderen Seite: Entscheidend ist, was die Übrigen nachahmen.
 
 Und weil jeder Mensch in jedem Quadranten handeln kann (→ Ausgangspunkt), beginnt der Schutz bei der eigenen Handlung. Unter Druck, Angst oder Gruppenzwang rutscht man am leichtesten in den unteren linken Quadranten. Die Pause zwischen Reiz und Handlung ist der Moment, in dem man noch wählen kann. *(Eigene Folgerung; bei Cipolla steht sie nicht.)*
 

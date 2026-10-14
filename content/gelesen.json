@@ -4,11 +4,11 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "aufrufe": 790
+   "aufrufe": 793
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-   "aufrufe": 308
+   "aufrufe": 309
   },
   {
    "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
@@ -249,11 +249,11 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 773
+     "aufrufe": 776
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 308
+     "aufrufe": 309
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -284,6 +284,10 @@
      "aufrufe": 8
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
+     "aufrufe": 7
+    },
+    {
      "pfad": "/DenkerVita/Hans-Maggi",
      "aufrufe": 7
     },
@@ -292,8 +296,8 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
-     "aufrufe": 7
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "aufrufe": 6
     },
     {
      "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
@@ -301,10 +305,6 @@
     },
     {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "aufrufe": 6
     },
     {
@@ -320,7 +320,11 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Marina-Klimchuk",
+     "pfad": "/DenkerVita/Der-Dara",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "aufrufe": 4
     },
     {
@@ -332,10 +336,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "aufrufe": 4
     },
@@ -344,8 +344,12 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
-     "aufrufe": 4
+     "pfad": "/Panorama/Wie-werden-gewoehnliche-Menschen-zu-Taetern",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "aufrufe": 3
     },
     {
      "pfad": "/Denker/Erich-Fromm-Haben-oder-Sein",
@@ -356,7 +360,11 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Robin-Celikates-Faschisierung,-Hoffnung-und-die-Krise-des-Systems",
      "aufrufe": 3
     },
     {
@@ -372,60 +380,20 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Robin-Celikates-Faschisierung,-Hoffnung-und-die-Krise-des-Systems",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
      "aufrufe": 3
     },
     {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
      "aufrufe": 3
-    },
-    {
-     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Panorama/Wie-werden-gewoehnliche-Menschen-zu-Taetern",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Maurice-Hoefgen.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Mark-Benecke-Umwelt-Messungen-Sommer-2026",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Diba-Mirzaei-Irankrieg-and-Geschichte-(Jung-and-Naiv-815)",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Carsten-Brosda-Naechste-Demokratie",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Joan-Kinyua",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
-     "aufrufe": 2
     },
     {
      "pfad": "/Denker/Catrin-Misselhorn-Grundfragen-der-Maschinenethik",
@@ -436,35 +404,11 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Panorama/Was-ist-Grosszuegigkeit",
+     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Wolfgang-M.-Schmitt",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Damir-Skenderovic",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Christine-Braehler",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory.html",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Freddy-Leppin",
+     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
      "aufrufe": 2
     },
     {
@@ -472,7 +416,27 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/Zeitgeist/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Maurice-Hoefgen.html",
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Achim-Truger",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Joan-Kinyua",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Ivan-Krastev",
      "aufrufe": 2
     },
     {
@@ -484,7 +448,43 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Ivan-Krastev",
+     "pfad": "/DenkerVita/Christine-Braehler",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Wolfgang-M.-Schmitt",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/S.N.-Goenka-Vipassana",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Panorama/Was-ist-Grosszuegigkeit",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Mark-Benecke-Umwelt-Messungen-Sommer-2026",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Damir-Skenderovic",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Marina-Klimchuk",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Diba-Mirzaei-Irankrieg-and-Geschichte-(Jung-and-Naiv-815)",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
      "aufrufe": 2
     }
    ]
@@ -494,11 +494,11 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 790
+     "aufrufe": 793
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 308
+     "aufrufe": 309
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
@@ -739,11 +739,11 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 819
+     "aufrufe": 822
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 308
+     "aufrufe": 309
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
@@ -984,11 +984,11 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 819
+     "aufrufe": 822
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 308
+     "aufrufe": 309
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
