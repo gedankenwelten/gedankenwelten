@@ -215,6 +215,8 @@ Das Erklärvideo zählt als fünftes Gesetz etwas, das so bei Cipolla nicht steh
 
 Die Pointe des Videos: Die Tragödie ist nicht Böswilligkeit. Es ist, dass sie dabei glauben, das Richtige zu tun.
 
+Das Bild hat eine Falle. Wer es liest, stellt sich fast immer zu den Vereinzelten, die es durchschauen, und sieht die Masse draußen. Genau so fühlt es sich auch von innen an, wenn man selbst einer einfachen Erzählung folgt: Man glaubt, das Richtige zu tun, und hält die anderen für die Herde. Die Probe, die das Video auslässt, ist, die Masse der Dummen auch dort zu suchen, wo man selbst dazugehört.
+
 ---
 
 ### Der gesellschaftliche Niedergang — Cipollas historische These
