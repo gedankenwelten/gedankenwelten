@@ -2,7 +2,7 @@
 title: "Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft"
 description: "Ein Tisch, an dem alle sitzen und jeder anderes sieht: Arendts Begriff des Politischen, und was geschieht, wenn Masse, Ideologie und Terror ihn zerstören. Dresden 2018."
 date: 10.10.2026
-aktualisiert: 2026-10-10
+aktualisiert: 2026-10-14
 tags:
   - denker
   - kalender

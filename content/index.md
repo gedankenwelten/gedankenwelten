@@ -22,6 +22,26 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **14.10.** — [[Denker/Hannah Arendt — Zur Person|Hannah Arendt — Zur Person (im Gespräch mit Günter Gaus, 1964)]]
+>
+> „Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann.
+
+> **14.10.** — [[Denker/Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft|Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
+>
+> Ein Tisch, an dem alle sitzen und jeder anderes sieht: Arendts Begriff des Politischen, und was geschieht, wenn Masse, Ideologie und Terror ihn zerstören. Dresden 2018.
+
+> **13.10.** — [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit|Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+>
+> Ein Wirtschaftshistoriker schreibt als Scherz die Gesetze der Dummheit auf: Wer anderen schadet, ohne selbst etwas davon zu haben, ist gefährlicher als jeder Bandit.
+
+> **11.10.** — [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
+
+> **11.10.** — [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
+
+> → *7 weitere in* [[Denker]]
+
 ### Gedanken
 
 > **14.10.** — [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
@@ -57,26 +77,6 @@ Die Gedankenwelten (luc)
 > Fünf Meldungen eines Sommertages, in denen überall jemand die Antwort verweigert, der antworten müsste — und die Sprache das Schweigen als Aufmerksamkeit ausgibt.
 
 > → *19 weitere in* [[Zeitgeist]]
-
-### Denker
-
-> **13.10.** — [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit|Carlo Cipolla — Die fünf Gesetze der Dummheit]]
->
-> Ein Wirtschaftshistoriker schreibt als Scherz die Gesetze der Dummheit auf: Wer anderen schadet, ohne selbst etwas davon zu haben, ist gefährlicher als jeder Bandit.
-
-> **11.10.** — [[Denker/Martyna Linartas — Unverdiente Ungleichheit|Martyna Linartas — Unverdiente Ungleichheit]]
-
-> **11.10.** — [[Denker/Liya Yu — Neuropolitik und die Grenzen der Moral|Liya Yu — Neuropolitik und die Grenzen der Moral]]
-
-> **10.10.** — [[Denker/Hannah Arendt — Die Banalität des Bösen|Hannah Arendt — Die Banalität des Bösen]]
->
-> Das Böse braucht keine Dämonen, nur Menschen, die aufhören, vom Standpunkt anderer zu denken: Arendts Befund aus Jerusalem, und was die Forschung seither davon übrig ließ.
-
-> **10.10.** — [[Denker/Hannah Arendt — Zur Person|Hannah Arendt — Zur Person (im Gespräch mit Günter Gaus, 1964)]]
->
-> „Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann.
-
-> → *7 weitere in* [[Denker]]
 
 ### Panorama
 

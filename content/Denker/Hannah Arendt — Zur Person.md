@@ -2,7 +2,7 @@
 title: "Hannah Arendt — Zur Person (im Gespräch mit Günter Gaus, 1964)"
 description: "„Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann."
 date: 10.10.2026
-aktualisiert: 2026-10-10
+aktualisiert: 2026-10-14
 tags:
   - denker
   - kalender
