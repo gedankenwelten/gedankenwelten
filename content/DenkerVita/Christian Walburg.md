@@ -72,7 +72,7 @@ Walburg ist kein Parteigänger, er argumentiert als Empiriker gegen zwei Verzerr
 - **[[DenkerVita/Heinz Bude|Heinz Bude]]** — Budes Gesellschaft des Misstrauens erklärt, warum die Sorge um Kriminalität im Land hoch bleibt, während die eigene Furcht sinkt — der Befund, mit dem Walburg seinen Freiburger Vortrag eröffnet.
 - **[[DenkerVita/Michel Foucault|Michel Foucault]]** — Foucault zeigte, wie das Gefängnis die Delinquenz miterzeugt, die es bekämpfen soll. Walburg macht dieselbe Rechnung für die Kettenduldung auf und warnt 2024 vor der Jugendstrafe als entwicklungsfeindlichem Umfeld.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet]] — der Freiburger Vortrag von 2021: Alter, Status und Lebenslage statt Herkunft, das Paradox der ersten Generation, die Kettenduldung als Kriminalitätsrisiko
 - [[Zeitgeist/BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet]] — zieht sein Gutachten von 2014 und seinen bpb-Überblick als Quellen heran

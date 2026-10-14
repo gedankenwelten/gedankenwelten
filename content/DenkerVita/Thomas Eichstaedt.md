@@ -68,6 +68,6 @@ Heute klar gegen rechts: Er fürchtet ein hohes AfD-Ergebnis in Mecklenburg-Vorp
 - [[DenkerVita/Marcant|Marcant]] — führte das Podcast-Gespräch; seine Methode (reden statt verachten) und Eichis Weg (begegnen statt belehrt werden) sind zwei Seiten derselben Erfahrung.
 - [[DenkerVita/Der Dara|Der Dara]] — sah den Film und machte mit einer Spendenaktion aus Eichis Ehrenamt eine bezahlte Stelle.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Marcant und Eichi — Ausstieg aus der Neonazi-Szene]] — Bierkasten, Bomberjacke, FC Pio: vom Neonazi der Neunziger zum Trainer Geflüchteter (03.10.2026)

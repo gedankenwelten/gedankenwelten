@@ -82,6 +82,6 @@ Crockett hat bislang kein eigenes Buch veröffentlicht. Das Werk lebt in Fachauf
 - [[DenkerVita/Steffen Mau|Steffen Mau]] — Crockett zeigt, dass Empörung online vor allem im eigenen Lager kreist. Mau misst, dass die Gesellschaft weit weniger gespalten ist, als sie sich fühlt. Zusammen erklären sie die Lücke zwischen der Lautstärke und der Verteilung der Meinungen.
 - [[DenkerVita/Morpheus|Cedric Mössner (Morpheus)]] — Gesprächspartner in derselben Note: Mössner sucht die Ursache im Code, der Reaktion misst, Crockett im alten Gefühl, das der Code bedient, und widerspricht dem Schluss, Empörung einfach herauszurechnen, weil gemeinsame Empörung gerade Gruppen ohne Stimme Gehör verschafft.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Geistesblitz/Morpheus und Molly Crockett — Ragebait und moralische Empoerung]]

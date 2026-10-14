@@ -127,6 +127,6 @@ Wilholt ist kein politischer Autor im Sinn einer Parteinahme, doch seine Philoso
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Torsten Wilholt — Wahrheit und Wissen]]

@@ -77,6 +77,6 @@ Keine parteipolitische Haltung erkennbar; zu Palästina äußert er sich öffent
 - **[[DenkerVita/Maren Urner|Maren Urner]]** — was Yaghi „eine Übung in Optimismus“ nennt, heißt bei Urner Hoffnung: Willenskraft und Wegkraft nach dem Rückschlag.
 - **[[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Yaghis Materialepochen als ungebrochener Fortschrittsglaube aus dem Labor, dem Reckwitz die fehlende Sprache für Verlust entgegenhält.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Geistesblitz/Omar Yaghi — Die Welt retten mit Chemie|Omar Yaghi — Die Welt retten mit Chemie?]]

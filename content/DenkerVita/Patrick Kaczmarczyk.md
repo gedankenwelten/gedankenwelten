@@ -81,7 +81,7 @@ Ungewöhnlich für einen Ökonomen dieser Schule ist sein normativer Anker. In *
 - [[DenkerVita/Arnaud Orain|Arnaud Orain]] — Beide beschreiben das Ende der liberalen Weltordnung; Orain liest die liberale Phase als historische Ausnahme vor der Rückkehr der Endlichkeit, für Kaczmarczyk war sie im Globalen Süden nie liberal — dort hieß sie Sparpolitik per IWF.
 - [[DenkerVita/Maurice Hoefgen|Maurice Höfgen]] — Höfgens Kanal ist eine seiner Bühnen; Kaczmarczyk teilt aber die Skepsis gegenüber der Jobgarantie und will Vollbeschäftigung über Fiskal-, Lohn- und Geldpolitik erreichen.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]
 - [[Die Neuen Zwanziger — Salon Lektueren Januar 2026]] — *Zerfall der Weltordnung* als Haupttext des Salons

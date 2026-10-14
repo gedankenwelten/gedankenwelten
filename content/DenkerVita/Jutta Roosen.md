@@ -94,6 +94,6 @@ Er führt Roosens Befunde von 2021 in die deutsche Softdrink-Abgabe von 2026 wei
 ### → [[DenkerVita/Achim Truger|Achim Truger]]
 Seine Lenkungssteuer, die bei Erfolg ihre Einnahmen verliert und nach sozialer Kompensation verlangt, ist Roosens Zuckersteuer im größeren fiskalischen Rahmen.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Jutta Roosen — Wie wirksam sind Zuckersteuer und Co]]

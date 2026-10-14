@@ -113,7 +113,7 @@ Zwei Philosophinnen, die das Fach aus dem Seminar holen. Callard will das Leben 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit|Harald Welzer und Barbara Bleisch — Großzügigkeit und Gegenwärtigkeit]] — Gastgeberin, Leuphana 2026; hält Welzer ihre Definition vor und zieht die Grenze: Wo ein Recht besteht, hat Großzügigkeit nichts zu suchen
 - [[Susanne Boshammer — Was heisst verzeihen|Susanne Boshammer — Was heißt verzeihen?]] — als Gastgeberin des Abendgesprächs, Leuphana 2026; vertritt beim *Philomena*-Streit die Selbstachtung gegen Boshammers Souveränität

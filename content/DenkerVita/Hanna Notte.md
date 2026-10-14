@@ -96,6 +96,6 @@ Notte ist eine Analystin aus dem transatlantischen Sicherheitsmilieu: Ihre Insti
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]]

@@ -127,7 +127,7 @@ ls "content/DenkerVita/<Vorname Nachname>.md" 2>/dev/null
 - DenkerVita lesen → Biographischen Snapshot (`> [!info] Wer spricht?`-Sektion) als Grundlage für den Callout verwenden
 - Humboldt-Recherche (0b) **überspringen**
 - Note erhält am Ende des Callouts: `→ [[content/DenkerVita/<Name>|DenkerVita]]`
-- **⚠️ Pflicht — Vita mit der neuen Note füllen:** Die DenkerVita ist die Sammelstelle *aller* Notes zu einer Person. Darum nach der Note-Erstellung die neue Note in die `## Cortex-Notes`-Sektion der bestehenden Vita eintragen (`- [[<Note-Titel>]]`) **und die Vita re-ingestieren** (RAG, wie Schritt 6c). Das gilt jedes Mal, wenn eine Note zu einer Person mit bestehender Vita bearbeitet wird — nicht nur bei neu angelegten Vitas. So wächst die Vita mit jeder Note mit, statt auf dem Stand ihrer Erstellung einzufrieren.
+- **⚠️ Pflicht — Vita mit der neuen Note füllen:** Die DenkerVita ist die Sammelstelle *aller* Notes zu einer Person. Darum nach der Note-Erstellung die neue Note in die `## Gedankenwelten-Notes`-Sektion der bestehenden Vita eintragen (`- [[<Note-Titel>]]`) **und die Vita re-ingestieren** (RAG, wie Schritt 6c). Das gilt jedes Mal, wenn eine Note zu einer Person mit bestehender Vita bearbeitet wird — nicht nur bei neu angelegten Vitas. So wächst die Vita mit jeder Note mit, statt auf dem Stand ihrer Erstellung einzufrieren.
 
 **Wenn keine DenkerVita existiert:**
 - Humboldt-Recherche durchführen (0b)
@@ -176,7 +176,7 @@ tags: [denker-vita, <thema>, <herkunft>]
 5. `## Kernthesen` — 3–5 nummerierte Kernaussagen
 6. `## Politische Einordnung` — wenn relevant
 7. `## Verbindungen zu anderen Denkern` — Montaigne befüllt das
-8. `## Cortex-Notes` — Backlinks zu allen Notes über diese Person
+8. `## Gedankenwelten-Notes` — Backlinks zu allen Notes über diese Person
 
 **Anschließend aktualisieren:**
 - `content/known-speakers.md` — Eintrag mit `**Status:** ✓ Vollanalyse → [[content/DenkerVita/<Name>]]`

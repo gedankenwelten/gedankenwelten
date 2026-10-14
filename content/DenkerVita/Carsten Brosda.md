@@ -108,6 +108,6 @@ In Lüneburg verweist Brosda auf ihn als den, der Modelle zur Entflechtung der P
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Carsten Brosda — Naechste Demokratie]] — im Gespräch mit Maja Göpel und Aladin El-Mafaalani, Leuphana Universität Lüneburg, Utopie-Konferenz 2026; Cassirer, Zuversicht, Solidarität statt Caritas und die Plattformmacht

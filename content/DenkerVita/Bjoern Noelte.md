@@ -73,6 +73,6 @@ Nölte steht in der Tradition der Reformpädagogik und der neueren Debatte um di
 - [[DenkerVita/André Zimpel]] — Zimpels Feedback als Dialog statt Bewertung und seine Kritik der Normalverteilung stützen Nöltes Lerndialoge und seine Ablehnung der Glockenkurve, nach der gute Noten schlechte brauchen.
 - [[DenkerVita/Stephan Marks]] — Marks' „Scham zumuten, ohne zu beschämen“ beschreibt die Aufgabe, an der Nöltes Lerndialoge nach seinem eigenen Eingeständnis am schwersten tragen: einen Misserfolg mitzuteilen, ohne ihn mit der Ziffer „abzuurteilen“.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Bjoern Noelte und Heinz-Peter Meidinger — Besser lernen ohne Noten]]

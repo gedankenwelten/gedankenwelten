@@ -129,7 +129,7 @@ Die Täterforschung beginnt mit Arendts Eichmann und arbeitet sich an ihr ab. Wo
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Harald Welzer — Toetungsarbeit|Harald Welzer — Tötungsarbeit]] — Vortrag am Wiener Wiesenthal Institut 2007 mit Diskussion, dazu das Gespräch mit Gregor Gysi 2022: Töten als Arbeit, Józefów, das Leiden als Alibi, *Opa war kein Nazi*, *Soldaten* und die Shifting Baselines
 - [[Zeitgeist/Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit]] — im Gespräch mit Barbara Bleisch, Leuphana Universität Lüneburg, Utopie-Konferenz 2026; Gegenwartsutopien, Großzügigkeit gegen die Verwertungslogik, die geschwundene Hoffnung

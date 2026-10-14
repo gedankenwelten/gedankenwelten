@@ -88,6 +88,6 @@ Sein Rückgriff auf die Ordoliberalen ist klüger, als er im Saal klingt, und an
 - [[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]] — Wird auf dem Podium gegen die Vergesellschaftung zitiert, keine einzige neue Wohnung entstehe dadurch; Klüssendorfs Vorsicht in Berlin liegt näher an Fratzscher als an Weber.
 - [[DenkerVita/Tom Krebs|Tom Krebs]] — Der Ökonom, der die SPD seit der Investitionsagenda von 2018 berät und Vergesellschaftung offensiver vertritt als der Generalsekretär.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Isabella Weber — Antifaschistische Wirtschaftspolitik]] — Buchpremiere in der Berliner Urania (05.10.2026): Ordnung statt Transfer, die Stufenleiter vom Tankrabatt bis zur Konzernzerschlagung, Boden in öffentlicher Hand und der Berliner Mietendeckel

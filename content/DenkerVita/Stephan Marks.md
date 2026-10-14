@@ -121,7 +121,7 @@ Der Aussteiger, der in der Zelle den Spiegel verhängte, ist der Fall zu Marks' 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham]] — das Gespräch auf der Utopie-Konferenz, Leuphana 2026
 - [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — von El-Mafaalani zitiert: Scham, Kindheit und ein großzügiges Bildungssystem

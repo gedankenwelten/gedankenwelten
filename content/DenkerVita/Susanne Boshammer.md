@@ -102,7 +102,7 @@ Für das Schauspielhaus Zürich schrieb sie den Programmtext zu *Die schmutzigen
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Susanne Boshammer — Was heisst verzeihen]] — das Gespräch mit Barbara Bleisch, Utopie-Konferenz Leuphana 2026
 - [[Fabian Bernhardt - Ist die Rache der Ursprung der Moral]] — im Einspieler zitiert, Bernhardt grenzt sich beim Strafverzicht von ihr ab

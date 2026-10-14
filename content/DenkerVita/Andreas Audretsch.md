@@ -81,6 +81,6 @@ Die Kritik setzt an derselben Stelle an. Er erzählt die Preisbremse von 2022 al
 - [[DenkerVita/Elif Eralp|Elif Eralp]] — Auf sie beruft er sich, wenn er sagt, die Berliner Vergesellschaftung werde lange dauern und bis nach Karlsruhe gehen.
 - [[DenkerVita/Tom Krebs|Tom Krebs]] — Datiert einen der AfD-Schübe auf den Streit ums Heizungsgesetz und die späte Preisbremse der Ampel, also auf die Regierung, an der Audretsch beteiligt war.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Isabella Weber — Antifaschistische Wirtschaftspolitik]] — Buchpremiere in der Berliner Urania (05.10.2026): Audretsch über Kontrollverlust, die Nächte der Gaspreiskommission, Energie als Machtfrage und die Mietenkrise in Neukölln

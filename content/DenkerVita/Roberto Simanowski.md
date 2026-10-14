@@ -105,6 +105,6 @@ Simanowskis geopolitischer Souveränitätsverlust ist Brias Ausgangspunkt. Er be
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Roberto Simanowski — Sprachmaschinen]] — das Gespräch mit Simon Roloff, Utopie-Konferenz Leuphana 2026

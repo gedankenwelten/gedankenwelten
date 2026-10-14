@@ -68,7 +68,7 @@ Bezeichnet sich heute als liberal und parteilos, „Demokrat“, wechselnd zwisc
 - [[DenkerVita/Thomas Eichstaedt|Thomas „Eichi“ Eichstädt]] — Mitläufer statt Kader, ebenfalls aus Mecklenburg-Vorpommern; beide fanden über Menschen hinaus, die ihnen die Hand reichten.
 - [[DenkerVita/Fabian Wichmann|Fabian Wichmann]] — der Ausstiegsbegleiter, der wie Schlaffer sagt: zuerst Beziehungsarbeit, dann das Weltbild.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Philip Schlaffer — Kann man sich aendern]] — DENKRAUM Hannover 2023: Enttäuschung, Zelle, Sportverein, Selbstvergebung (03.10.2026)
 - [[Panorama/Wie kommt man aus der rechten Szene wieder heraus]] — Stimme im wachsenden Panorama

@@ -178,7 +178,7 @@ Hat Bonhoeffers Begriff der Schuldübernahme rekonstruiert und kritisch geprüft
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]] — Tiefenanalyse von „Von der Dummheit" aus *Nach zehn Jahren* (Silvester 1942): der vollständige Originaltext, die Biografie, aus der er kommt, und der Faktencheck zu vier Stellen, an denen die Legende gerundet hat.
 - [[Zeitgeist/Arnd Henze — Bonhoeffer und die Neue Rechte]] — Wie aus dem Widerstandskämpfer eine Verfügungsmasse wurde: Metaxas, der „Bonhoeffer-Moment", die AfD-Doppelkontinuität — und die Mitschuld der eigenen Seite an der Entkernung.

@@ -83,6 +83,6 @@ Zwei Einwände gehören ebenfalls zum Bild. Das Dezernat Zukunft finanziert sich
 - [[DenkerVita/Maja Goepel|Maja Göpel]] — Göpel legte das Gerüst von *Gutes Geld* (Pettit, Sen) auf der Leuphana-Bühne frei; beide denken vom Wozu des Geldes her und trennen sich an der Rüstung: für Göpel bedauerliche Ausgabe, für Sigl-Glöckner notwendig und schlecht eingekauft.
 - [[DenkerVita/Marcel Fratzscher|Marcel Fratzscher]] — Nächster Verwandter im Werkzeug (Ausgabenregel statt Schuldenquote); Fratzscher behält die Logik der Schuldentragfähigkeit, Sigl-Glöckner fordert mit Isabella Weber Vollbeschäftigung als gleichrangiges Verfassungsziel.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]]

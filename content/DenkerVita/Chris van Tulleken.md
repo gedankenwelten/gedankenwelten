@@ -107,6 +107,6 @@ Enders hat den Darm und sein Mikrobiom als mitdenkendes Organ ins Gespräch gebr
 ### → [[DenkerVita/Jutta Roosen|Jutta Roosen]]
 Dieselben Forderungen — Kennzeichnung, Werbegrenzen, echtes Essen in Schulen — aus der Konsumökonomie geprüft: klein, aber gerichtet.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Chris van Tulleken — Ultra-verarbeitete Lebensmittel]]

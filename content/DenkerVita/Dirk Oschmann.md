@@ -104,6 +104,6 @@ Ein Widerspruch steckt im Potsdamer Gespräch selbst. Wo Kowalczuk Wahlverhalten
 - [[DenkerVita/Herfried Münkler|Herfried Münkler]] — die Gegenposition: Münklers Erklärung über die DDR-Prägung ist das, was Oschmann Pathologisierung nennt.
 - [[DenkerVita/Ivan Krastev|Ivan Krastev]] — „Imitation als Demütigung“, die europäische Fassung des westlichen Blicks auf den Osten.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]]

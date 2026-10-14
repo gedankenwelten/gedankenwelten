@@ -101,7 +101,7 @@ Die Spur [[Spuren/Duldet-die-Linke-Antisemitismus|Duldet die Linke Antisemitismu
 - [[DenkerVita/Andreas Audretsch|Andreas Audretsch]] — Beide wollen unterschiedliche Ansprachen, die sich ergänzen, und kein Einheitsbündnis gegen die AfD.
 - [[DenkerVita/Jan van Aken|Jan van Aken]] — Ihr früherer Co-Vorsitzender, mit dem sie die Linke 2025 über Haustürgespräche und die Mietenfrage zurück in den Bundestag führte.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Isabella Weber — Antifaschistische Wirtschaftspolitik]] — Buchpremiere in der Berliner Urania (05.10.2026): Schwerdtner neben Audretsch und Klüssendorf über Preisdeckel, Schuldenbremse, Vergesellschaftung und progressive Bündnisse
 - [[Ines Schwerdtner — Energiepreiskrise und das Versagen der Bundesregierung]] — Hyperpolitik (März 2026): Postpolitik, Übergewinnsteuer, Energiekrisengeld, Katharina Reiche als „sicherheitspolitisches Problem“

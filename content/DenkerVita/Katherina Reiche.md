@@ -157,7 +157,7 @@ Er saß der Expertenkommission vor, deren Bericht Reiches Kurs in Teilen widersp
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Greenpeace — Katherina Reiche und die Gasindustrie]] — das Dossier aus Ministeriumsakten: Gutachten, 10-Punkte-Plan, Heizungsgesetz, Mailkonten
 - [[MONITOR — Energiewende rückwärts? Katharina Reiche und der E.ON-Lobbyismus]] — Netzpaket und Drehtür: was die Westenergie-Chefin forderte, setzt die Ministerin um

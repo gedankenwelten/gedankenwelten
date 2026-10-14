@@ -118,7 +118,7 @@ Daths „Massengrab der Arbeit“ und Schaupps „kybernetische Proletarisierung
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit]] — das Gespräch mit Wolfgang M. Schmitt, Utopie-Konferenz Leuphana 2026
 - [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — von Schmitt am Ende des Utopie-Quartetts angekündigt

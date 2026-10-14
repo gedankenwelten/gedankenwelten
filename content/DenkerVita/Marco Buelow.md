@@ -82,6 +82,6 @@ Die Kritik an ihm ist ebenso belegt. Die Zeit sah 2018 einen Mann, der ein Grund
 - [[DenkerVita/Albert Camus|Albert Camus]] — Bülows Leitstern der „permanenten Revolte“: das Nein, das nicht aufhört, „bis hierher und nicht weiter“.
 - [[DenkerVita/Jan van Aken|Jan van Aken]] — Die Gegenstimme in der Rüstungsfrage: teilt Bülows Zweifel an der Aufrüstung, erkennt aber die Bedrohung durch Russland an, die Bülow ausblendet.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Marco Buelow — Korrumpiert]]

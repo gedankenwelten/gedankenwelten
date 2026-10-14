@@ -79,6 +79,6 @@ Seit 2015 leitet sie das ZfL, eines der Berliner Geisteswissenschaftlichen Zentr
 - **[[DenkerVita/Martin Heidegger|Martin Heidegger]]** — Gegen Felschs Gegenüberstellung von Hammer und Tisch hält Geulen fest, dass das Mitsein schon in *Sein und Zeit* steht; der Unterschied zu Arendt liege im Verfahren, nicht im Begriff: „die Hütte in Todtnauberg und Riverside Drive in Manhattan“.
 - **[[DenkerVita/Theodor W. Adorno|Theodor W. Adorno]]** — In *Das Ende der Kunst* und Aufsätzen zur *Ästhetischen Theorie* liest Geulen Adorno als letzte Station einer Rede vom Ende, die nie ankommt.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]

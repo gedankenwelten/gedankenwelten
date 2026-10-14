@@ -111,6 +111,6 @@ Für seinen und Ann-Kristin Tlustys Sammelband *Selbst Schuld!* schrieb Kurt üb
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird]] — mit Mithu Sanyal, Maja Göpel und Aladin El-Mafaalani, Utopie-Konferenz Leuphana 2026; dazu das Eröffnungsgespräch mit Maja Göpel und Barbara Bleisch

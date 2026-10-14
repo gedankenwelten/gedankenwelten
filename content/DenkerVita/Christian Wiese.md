@@ -106,6 +106,6 @@ Zu Robert Weltsch, dem Prager Zionisten und Herausgeber der *Jüdischen Rundscha
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]

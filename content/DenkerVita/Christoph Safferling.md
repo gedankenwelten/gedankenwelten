@@ -97,6 +97,6 @@ Liberal-rechtsstaatlich, universalistisch und institutionenfreundlich; er argume
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Christoph Safferling — Nuernberg und die Ohnmacht des Voelkerrechts]]

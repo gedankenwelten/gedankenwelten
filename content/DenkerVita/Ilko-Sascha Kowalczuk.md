@@ -98,7 +98,7 @@ Widerspruch kommt von mehreren Seiten. Dirk Oschmann und die Kränkungsdeutung s
 - [[DenkerVita/Steffen Mau|Steffen Mau]] — Freiheitsschock und Veränderungsmüdigkeit sind Geschwister; Mau bestätigt das Beschweigen in den Familien.
 - [[DenkerVita/Isabella Weber|Isabella Weber]] — die Gegenthese: Wirtschaftspolitik als Demokratieschutz, wo Kowalczuk das Wohlstandsversprechen einen Grundirrtum nennt.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]] — Doppelnote: Oschmanns Kränkungsthese und Kowalczuks Freiheitsschock, Halberstadt 2025
 - [[Wuerde im Alltag — wenn der Markt den Wert misst]] — als Fragender in einer Sokrates-Frage: Kränkung durch den Westen oder Schock der Freiheit?

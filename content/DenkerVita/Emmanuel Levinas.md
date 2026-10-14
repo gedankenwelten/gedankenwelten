@@ -175,7 +175,7 @@ Die Passage, auf Englisch als *Ethics and Politics* im *Levinas Reader* (1989) b
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]] — die Hauptnote: Buber und Levinas im Gespräch, Ich-Du gegen das Antlitz, Symmetrie gegen Asymmetrie.
 - [[Denker/Souleymane Bachir Diagne — Der Philosoph als Uebersetzer]] — Diagne nimmt sich Levinas' Eurozentrismus vor und rettet die Ethik des Antlitzes vor ihrem eigenen Urteil über die Kulturen.

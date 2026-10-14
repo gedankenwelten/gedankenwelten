@@ -78,6 +78,6 @@ Zu den **Geistern hinter MAGA** spricht er entsprechend nicht als Betroffener ei
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Carlotta Voss und Moritz Rudolph — Die Geister hinter MAGA|Die Geister hinter MAGA — Ideengeschichtliche Linien neoreaktionären Denkens]] — Gespräch mit Carlotta Voß im Deutschen Hygiene-Museum Dresden (19.08.2026): sechs Texte von Ayn Rand bis Volker Weiß, gelesen als Bibliothek des Trumpismus.

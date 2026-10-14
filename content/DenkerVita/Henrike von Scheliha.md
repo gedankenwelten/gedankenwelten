@@ -122,7 +122,7 @@ Auf derselben Utopie-Konferenz nennt Bleisch es Etikettenschwindel, wenn „gro�
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder]] — das Gespräch auf der Utopie-Konferenz, Leuphana 2026: Recht auf Zukunft, Zukunftsrat, der Streit um die Großzügigkeit
 - [[Goepel, Bleisch, El-Mafaalani, Schmitt — Verhaerten ueberall, und nun|Göpel, Bleisch, El-Mafaalani, Schmitt — Verhärten. Überall. Und nun?]] — von El-Mafaalani zitiert: Kinder haben mehr Recht auf Beteiligung, als ihnen gewährt wird, und „Großzügigkeit“ macht einen Anspruch zur Gnade

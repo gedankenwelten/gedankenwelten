@@ -139,7 +139,7 @@ Die DW hat ihn vor der Kamera gefilmt, wo er sich zum Rechtsstaat bekennt, und d
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Bartunek — Tillschneider vor der Synagoge in Halle]] — der 9. Oktober 2026 und die Rede von 2020
 - [[Zeitgeist/DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt|DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt]] — „Zwei Zungen“: seine Definition von Rechtsextremismus vor der Kamera, das Vorfeld, der Sellner-Satz

@@ -124,6 +124,6 @@ Wirtschaftlich lässt sich der Rückzug aus San Francisco als Positionierung les
 
 *(wird von Montaigne befüllt)*
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Ronnie Vuine — Warum Roboter keine Beine brauchen]]

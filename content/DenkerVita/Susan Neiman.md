@@ -98,6 +98,6 @@ Auch *Links ≠ woke* fand neben viel Zustimmung (Fintan O'Toole) scharfe Kritik
 - [[DenkerVita/Elif Eralp]] — die Spitzenkandidatin der Berliner Linken, die Neiman 2026 gewählt hat
 - [[DenkerVita/Ulrike Winkelmann]] — Gesprächspartnerin und Widerpart im taz Talk 2026
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Susan Neiman — Nennen wir es boese]]

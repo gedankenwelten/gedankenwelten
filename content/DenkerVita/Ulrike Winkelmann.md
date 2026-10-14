@@ -82,7 +82,7 @@ Naheliegend:
 - [[DenkerVita/Tilo Jung]] — interviewte sie 2013 bei Jung & Naiv über Nichtwähler
 - [[DenkerVita/Elif Eralp]] — die Linke, deren Berliner Wahlsieg Winkelmann als „linken Sieg, der sich nicht so anfühlt“ kommentierte
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Susan Neiman — Nennen wir es boese]]
 - [[Eva von Redecker — Dieser Drang nach Härte]]

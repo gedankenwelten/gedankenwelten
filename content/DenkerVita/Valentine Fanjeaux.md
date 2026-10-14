@@ -82,6 +82,6 @@ Die Zeichen sprechen für eine Genossenschaft, die lebt und sich umbaut. Ob sie 
 - [[Denker/Erich Fromm — Die Welt lieben, SRF 1979|Erich Fromm]] — Fromms These, das Interesse an der Arbeit wachse mit der Mitbestimmung über die eigenen Arbeitsbedingungen, ist Valentines Alltag, samt dem Preis, den Fromm nicht nennt: die Müdigkeit.
 - [[Zeitgeist/NANO Talk — Arbeiten wir zu wenig oder voellig falsch|NANO Talk — Arbeiten wir zu wenig oder völlig falsch?]] — Simon Schaupps „halbe Demokratie" (die Regierung wählen, den Chef nicht) ist in Bar-le-Duc aufgehoben: Die Belegschaft hat ihre Produktionsleiterin zur Vorsitzenden gewählt.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]

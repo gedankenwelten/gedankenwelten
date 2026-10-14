@@ -78,7 +78,7 @@ Zwei Einwände bleiben, auch wenn man ihm fachlich folgt. Der erste betrifft die
 - [[DenkerVita/Michael Sterner]] — Beide Ingenieure treten öffentlich gegen Söders Energiepolitik an, Sterner gegen den Satz „ohne Kernkraft geht es nicht“, Schmitz gegen die Transmutations-Idee. Sterners Speicherthese (Power-to-Gas als Langzeitspeicher) deckt sich mit Schmitz' Grundsatz, dass jedes Werkzeug seinen Zeitraum hat. Über die Kernkraft urteilt Sterner abschließender („die Renaissance findet nicht statt“), Schmitz lässt die Lernkurve der SMR offen.
 - [[DenkerVita/Claudia Kemfert]] — Kemfert nennt ein Atom-Comeback eine teure Ablenkung, die den Ausbau der Erneuerbaren bremst; Schmitz kommt bei Kosten und Dunkelflaute zu ähnlichen Zahlen und verweigert trotzdem das abschließende Urteil. Die Ökonomin argumentiert über Interessen und organisierte Desinformation, der Ingenieur über Kostenkurven. Mit seiner Programmbeschwerde gegen Lanz teilt er Kemferts Befund zur Desinformation allerdings in der Praxis.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Akkudoktor — Lanz und die Energiewende]] — Programmbeschwerde gegen *Markus Lanz* vom 01.04.2026: der 8-%-Trick, die Primärenergie-Falle, die Altmaier-Delle
 - [[Akkudoktor — SMR und drei Versprechen]] — Small Modular Reactors: drei Versprechen auf dem Taschenrechner (Kosten, Dunkelflaute, Sicherheit, Atommüll)

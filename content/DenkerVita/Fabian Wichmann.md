@@ -52,7 +52,7 @@ Er studierte Erziehungswissenschaft und arbeitet seit 2006 zum Thema, zunächst 
 - [[DenkerVita/Felix Benneckenstein|Felix Benneckenstein]] — den er bei EXIT aus der Szene begleitete und mit dem er heute als Kollege spricht.
 - [[DenkerVita/Marcant|Marcant]] — setzt auf das Gespräch, wo Wichmann vor zu viel Hoffnung auf Argumente warnt.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]] — Mauerecho: Ausstiegsbegleitung von innen (03.10.2026)
 - [[Panorama/Wie kommt man aus der rechten Szene wieder heraus]] — Stimme im wachsenden Panorama

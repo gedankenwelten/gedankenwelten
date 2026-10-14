@@ -108,6 +108,6 @@ Felsch ist Historiker der Theorie, kein Parteigänger einer ihrer Schulen. Er sc
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]

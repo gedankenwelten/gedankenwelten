@@ -111,7 +111,7 @@ Die Kritik an *Die Unterwerfung* ([Perlentaucher](https://www.perlentaucher.de/b
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Philipp Blom — Die Unterwerfung]]
 - [[Philipp Blom — Die strauchelnde Welt]] — STANDARD-Podcast *Thema des Tages* (2026) zum Buch *Die strauchelnde Welt*: Entwürdigung, gesichtslose Gegner, der falsche Liberalismus, Europas Lehre, wie Diktaturen anfangen

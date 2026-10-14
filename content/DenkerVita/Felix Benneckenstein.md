@@ -63,7 +63,7 @@ Heute klar gegen Rechtsextremismus, ohne Parteibindung. Seine Haltung zum Staat 
 - [[DenkerVita/Thomas Eichstaedt|Thomas „Eichi“ Eichstädt]] — der Mitläufer aus Neubrandenburg neben dem Kader aus Bayern; beide bestehen darauf, gewählt zu haben.
 - [[DenkerVita/Marcant|Marcant]] — redet auf den Demos mit denen, die Benneckenstein später begleitet.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Benneckenstein und Wichmann — Zwischen Hass und Ausstieg]] — Mauerecho: Einstieg, das Straßenfest in Erding, Argumente wie Teflon, Ausstiegsbegleitung (03.10.2026)
 - [[Panorama/Wie kommt man aus der rechten Szene wieder heraus]] — Stimme im wachsenden Panorama

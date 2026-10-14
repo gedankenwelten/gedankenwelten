@@ -82,7 +82,7 @@ Widerspruch kommt aus der eigenen Zunft. Rüdiger Bachmann und Christian Bayer n
 - [[DenkerVita/Isabella Weber|Isabella Weber]] — Koautorin von *Can Price Controls Be Optimal?* (2024); dieselbe Polanyi-Diagnose, sie verankert sie im antifaschistischen Gründungskonsens der Vierziger und stützt sich in Berlin auf dieselbe IMK-Rechnung.
 - [[DenkerVita/Veronika Grimm|Veronika Grimm]] — Die Gegenrechnung zu seinen Preisbremsen: den Schock nur bis zur neuen Normalität dämpfen, damit der Preis den Strukturwandel treibt; beim Netz Vertrauen in die bisherigen Betreiber statt öffentliches Eigentum.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Tom Krebs — Wege aus der Krise und neoliberale Maerchen]] — Jung & Naiv 853: Referenzmodell, Polanyi, geplante Marktwirtschaft, Berlin, drei AfD-Schübe
 - [[Sigl-Gloeckner und Kaczmarczyk — Geld ist genug da]] — seine Studien mit Kaczmarczyk im Hintergrund

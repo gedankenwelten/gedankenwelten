@@ -173,6 +173,6 @@ Beobachtungen ernst nimmt, sollte auch fragen, wem die Verallgemeinerung vom hom
   Teske dehnt Diversität ausdrücklich auf Ostdeutsche, Migranten und Schwerbehinderte aus — dieselbe
   Bewegung, aus einer Ecke, in der man sie selten erwartet.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Michael Hartmann — Herkunft schlaegt Parteibuch|Michael Hartmann — Herkunft schlägt Parteibuch]] — das Gespräch vom 11.08.2026, in dem Teske dem Elitenforscher offen widerspricht und dessen Verteidigung des Rundfunkbeitrags als Schlusswort stehen lässt

@@ -96,7 +96,7 @@ Die Kritik setzt an drei Stellen an. Die erste betrifft die Unabhängigkeit: Ihr
 - [[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]] — Rechnet die Kette aus Sonnenstrom, Entsalzung und Elektrolyse durch, die Grimm als Partnerschaft mit dem Süden entwirft, und kommt zum Gegenteil: grünes Schrumpfen statt grünes Wachstum.
 - [[DenkerVita/Claudia Kemfert|Claudia Kemfert]] — Einig beim CO2-Preis mit Klimageld, gegeneinander bei der Kernkraft und der Übergewinnsteuer.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Veronika Grimm — Der Preis als Signal (Jung & Naiv 612)]] — Jung & Naiv 612: Auktionstheorie, Gaspreisbremse, Wachstum und Klima, Fracking und Atomkraft, Umverteilung, Zuschauerfragen mit Maurice Höfgen
 - [[Isabella Weber — Antifaschistische Wirtschaftspolitik]] — als fehlende Gegenstimme zu Preisdeckeln erwähnt, Kolleginnen in der Gaskommission 2022

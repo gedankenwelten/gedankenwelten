@@ -83,6 +83,6 @@ Wienand arbeitet als Rechercheur, nicht als Kommentator; eine Parteinähe ist ni
 - [[DenkerVita/Ingrid Brodnig|Ingrid Brodnig]] — Sie schreibt über Gegenstrategien gegen Hass und Desinformation im Netz. Wienands Stempel- und Verklausulierungspraxis ist ein solches Handwerk aus der Redaktion.
 - [[DenkerVita/Mark Reicher|Mark Reicher]] und [[DenkerVita/Torsten Heinrich|Torsten Heinrich]] — Sie streiten, ob man böswillige Tarnung verbieten oder mit Argumenten bekämpfen soll. Wienand wählt einen dritten Weg, nämlich Recherche, die Namen nennt.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Lars Wienand — Russentrolle und russische Desinformation]]

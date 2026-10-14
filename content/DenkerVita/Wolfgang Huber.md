@@ -95,7 +95,7 @@ Widerspruch gab es reichlich, von mehreren Seiten:
 - [[DenkerVita/Paul Ricoeur]] — Zwei protestantische Ethiker der Verantwortung: Ricœurs praktische Weisheit zwischen dem Übel und dem Schlimmeren steht nahe an der relationalen Wahrheit, die Huber bei Bonhoeffer auslegt.
 - [[DenkerVita/Hartmut Rosa]] — Huber stützt seine zweite These auf Rosas Resonanz: Weltbeziehung ohne Verfügungsmacht, gegen ein Menschenbild, das den Menschen auf einen informationellen Organismus verkürzt.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
 - [[Dietrich Bonhoeffer — Theorie der Dummheit]]

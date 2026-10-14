@@ -99,6 +99,6 @@ Ihre Stärke ist dieselbe wie ihre Schwäche. Wo andere ein Lager verteidigen, b
 - [[DenkerVita/Isabella Weber|Isabella Weber]] — Thatcher, Ich-AG und die Entfesselung des Liberalismus als Nährboden des Populismus.
 - [[DenkerVita/Roger de Weck|Roger de Weck]] — ihr Ruf nach analogen Räumen, in denen Werte entstehen, trifft seine Sorge um das verlorene Gemeinschaftsgefühl.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock]] — Gespräch mit Dirk Oschmann im Nikolaisaal Potsdam (2024): Demokratie ohne Angst, die soziale Frage hinter dem Rechtspopulismus, Grundgesetz und verpasste Verfassung

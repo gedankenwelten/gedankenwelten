@@ -106,7 +106,7 @@ Im Podcast *Gilda con Arne* war Krauthausen 2026 zu Gast, als ein geleaktes Kür
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Raul Krauthausen — Teilgabe statt Teilhabe]] — im Gespräch mit Aladin El-Mafaalani, Leuphana Universität Lüneburg, Utopie-Konferenz 2026; Teilgabe, Quoten, Medienbilder, Schule als Schicksalsgemeinschaft
 - [[Zeitgeist/Gilda con Arne — Rechte Milliardaere kaufen Medien|Gilda con Arne — Wie rechte Milliardäre weltweit Medien aufkaufen]] — als Gast zum Widerstand gegen die Sozialkürzungen und das verschobene Behindertengleichstellungsgesetz

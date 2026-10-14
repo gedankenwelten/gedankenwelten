@@ -196,7 +196,7 @@ dass er dort verstummt, wo die Analyse ans eigene Geschäft rührt.
 - **[[DenkerVita/Vijay Prashad|Vijay Prashad]]** — liest Dalios Abstiegsreihenfolge von unten: Militärmacht als ökonomisches Instrument, gerade weil die ökonomische Konkurrenz verloren ist. Prashads Kritik am naturalisierenden Vokabular („Konjunkturzyklus", „Markt") trifft Dalios „Mechanik" ins Zentrum.
 - **Platon** — Dalio beruft sich in *How Countries Go Broke* ausdrücklich auf die *Politeia*, wenn er beschreibt, wie Demokratien über Demagogen in Autokratien kippen. Dazu stellt er das chinesische Bild vom verlorenen Mandat des Himmels — zwei Traditionen, ein Befund.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Ray Dalio — Der grosse Zyklus und die Rechnung Amerikas]] — der große Schuldenzyklus, die acht Machtgrößen und der Riss zwischen einem Modell, das Behandlung verspricht, und einem Urheber, der die Heilung für unwahrscheinlich hält
 - [[Dalios Fenster — Amerikas Schuldenlast bis November 2028]] — die Spur, die Dalios datierte Warnung vom Juni 2026 an fünf öffentlichen Zeitreihen prüfbar macht

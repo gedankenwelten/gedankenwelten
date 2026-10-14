@@ -112,6 +112,6 @@ Der Gegenpol im bürgerlichen Lager. Poschardt führt als Herausgeber der *Welt*
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Roger de Weck — Was ist konservativ]] — im Gespräch mit Wolfgang M. Schmitt, Utopie-Konferenz Leuphana 2026

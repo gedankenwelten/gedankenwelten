@@ -93,7 +93,7 @@ Wer seine Texte liest, liest also beides: sorgfältig recherchierte Belege und e
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Thomas Laschyk — Vermoegenssteuer gegen Fake News]] — Reichweite ist käuflich: warum Laschyk die Vermögensteuer für das wirksamste Mittel gegen Desinformation hält
 - [[Heizungshammer — wie ein erfundenes Wort ein Gesetz kippte]] — Laschyks Volksverpetzer-Analyse zur Studie über BILDs „Heizungshammer“ als Quelle

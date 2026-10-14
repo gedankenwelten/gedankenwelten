@@ -158,6 +158,6 @@ Tugendhat stand politisch links und hat seine Ethik öffentlich angewendet, oft 
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Ernst Tugendhat — Unsere Angst vor dem Tod]] — der Vortrag von 2003 in der Siemens-Stiftung: drei Perspektiven auf den Tod, die biologische Hypothese, Kierkegaard, Rilke und die Selbstrelativierung.

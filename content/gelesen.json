@@ -4,7 +4,7 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "aufrufe": 747
+   "aufrufe": 748
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -32,7 +32,7 @@
   },
   {
    "pfad": "/DenkerVita/Hans-Maggi",
-   "aufrufe": 31
+   "aufrufe": 32
   },
   {
    "pfad": "/DenkerVita/Christine-Dankbar",
@@ -249,7 +249,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 730
+     "aufrufe": 731
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -260,11 +260,11 @@
      "aufrufe": 37
     },
     {
-     "pfad": "/DenkerVita/Mark-Reicher",
+     "pfad": "/DenkerVita/Carlo-Cipolla",
      "aufrufe": 14
     },
     {
-     "pfad": "/DenkerVita/Carlo-Cipolla",
+     "pfad": "/DenkerVita/Mark-Reicher",
      "aufrufe": 14
     },
     {
@@ -276,11 +276,15 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "aufrufe": 8
+    },
+    {
      "pfad": "/Zeitgeist/Alles-wird-Strom-Warum-Millionen-Energiewende-Mythen-glauben",
      "aufrufe": 8
     },
     {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "pfad": "/DenkerVita/Hans-Maggi",
      "aufrufe": 8
     },
     {
@@ -289,10 +293,6 @@
     },
     {
      "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Hans-Maggi",
      "aufrufe": 7
     },
     {
@@ -308,7 +308,7 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Cordula-Tutt",
+     "pfad": "/DenkerVita/Der-Dara",
      "aufrufe": 5
     },
     {
@@ -320,19 +320,19 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Cordula-Tutt",
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Marina-Klimchuk",
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit.html",
      "aufrufe": 4
     },
     {
@@ -494,7 +494,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 747
+     "aufrufe": 748
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -522,7 +522,7 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "aufrufe": 31
+     "aufrufe": 32
     },
     {
      "pfad": "/DenkerVita/Christine-Dankbar",
@@ -739,7 +739,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 776
+     "aufrufe": 777
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -759,7 +759,7 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "aufrufe": 63
+     "aufrufe": 64
     },
     {
      "pfad": "/Zeitgeist/Wendy-Brown-Wie-Neoliberalismus-die-Demokratie-bedroht",
@@ -984,7 +984,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 776
+     "aufrufe": 777
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1004,7 +1004,7 @@
     },
     {
      "pfad": "/DenkerVita/Hans-Maggi",
-     "aufrufe": 63
+     "aufrufe": 64
     },
     {
      "pfad": "/Zeitgeist/Wendy-Brown-Wie-Neoliberalismus-die-Demokratie-bedroht",

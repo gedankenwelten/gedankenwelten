@@ -112,6 +112,6 @@ Das brachte ihm Respekt und Vorwürfe zugleich. Konservative Kritiker hielten ih
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Hannah Arendt — Zur Person]]

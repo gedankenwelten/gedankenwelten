@@ -68,6 +68,6 @@ Maucourt ist Verbandsfunktionärin, keine Parteipolitikerin; eine Parteizugehör
 - [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler]] — Dieselbe Antwort auf die Schwäche des Einzelbetriebs aus der Energiewende: Dachgenossenschaften wie die Bürgerwerke tun für Bürgerenergie, was Maucourts Verband für übernommene Industriebetriebe tut.
 - [[Panorama/Demokratische Wertschoepfung|Demokratische Wertschöpfung]] — Das Panorama liefert den Rahmen von Raiffeisen bis Mondragón, Maucourts Arbeit den Alltag in einer Region, deren Scop sich in zehn Jahren verdoppelt haben.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[GoodNews/ARTE Re — Wenn Arbeiter Chefs werden|ARTE Re — Wenn Arbeiter Chefs werden]]

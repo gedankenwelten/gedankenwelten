@@ -106,6 +106,6 @@ Dazu Bände über Esoterik im Raum Freiburg (*Heilssuche und Erlösungssehnsucht
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Martin Buber und Emmanuel Levinas — Ich, Du und der Andere]]

@@ -117,7 +117,7 @@ tags: [denker-vita, <thema>, <herkunft>]
 
 **Struktur:** Biografie · Bücher & Publikationen (mit Kauflinks) · Empfehlenswerte Videos & Vorträge · Kernthesen · Politische Einordnung (wenn relevant) · Verbindungen zu anderen Denkern (via Montaigne) · Gedankenwelten-Notes
 
-**Struktur anpassen, wenn kein klassisches Werk vorliegt** (Augenzeuge/Aktivist/Praktiker): „Bücher & Publikationen" durch **„Öffentliche Arbeit, Kanäle & Engagement"** ersetzen (Organisationen, YouTube/Instagram, Website/Spenden, Vorträge — mit Links). Biografie, Kernthesen, Politische Einordnung, Verbindungen, Cortex-Notes bleiben. Keine genialokal-Links erfinden, wo es keine Bücher gibt.
+**Struktur anpassen, wenn kein klassisches Werk vorliegt** (Augenzeuge/Aktivist/Praktiker): „Bücher & Publikationen" durch **„Öffentliche Arbeit, Kanäle & Engagement"** ersetzen (Organisationen, YouTube/Instagram, Website/Spenden, Vorträge — mit Links). Biografie, Kernthesen, Politische Einordnung, Verbindungen, Gedankenwelten-Notes bleiben. Keine genialokal-Links erfinden, wo es keine Bücher gibt.
 
 **Link in Notes:** Jede Note die eine Person behandelt, bekommt am Ende des Speaker-Abschnitts:
 ```

@@ -155,7 +155,7 @@ Man kann sagen, dass sie das ganze Alte Testament ihrer eigenen Kraft-Kritik unt
 ---
 - [[DenkerVita/Mae Bengert|Mae Bengert]] — Literatur- und Religionswissenschaftlerin an der HU Berlin, Mitgründerin des Simone Weil denʞkollektiv. Sie liest Weil zuerst als Mystikerin und hält die Dekreation gegen ihre gefährlichste Lesart fest: porös werden, nicht verschwinden. Großzügigkeit wächst für sie aus Verwurzelung, nicht aus Mangel — Weils *L'Enracinement* als Antwort auf ihren Satz über die Aufmerksamkeit.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]] — die erste Note, die Weil ins Zentrum stellt: Mae Bengert und Barbara Bleisch über Aufmerksamkeit, Dekreation (porös werden, nicht verschwinden) und die Kraft, die Menschen zu Dingen macht, Leuphana 2026
 - [[Gedanken/Diese 6 Gedanken koennten dein Leben neu ordnen — Folge 2|Diese 6 Gedanken könnten dein Leben neu ordnen — Folge 2]] — schließt mit ihrem Satz *„Il faut accomplir le possible pour toucher l'impossible"*

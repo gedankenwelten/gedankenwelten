@@ -99,6 +99,6 @@ Aus dem Publikum kam der Vergleich mit *Haben oder Sein*. Bengert räumte ein, F
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Simone Weil — Aufmerksamkeit, die seltenste Grosszuegigkeit]] — das Gespräch mit Barbara Bleisch, Utopie-Konferenz Leuphana 2026

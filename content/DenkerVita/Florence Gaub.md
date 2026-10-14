@@ -110,7 +110,7 @@ Am Morgen desselben Konferenztages sprach Weisband über Vertrauen durch Beteili
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Maja Goepel und Jagoda Marinic — Vertrauen, utopisch]] — mit Heinz Bude, Utopie-Konferenz Leuphana 2024
 - [[Zeitgeist/Henrike von Scheliha und Aladin El-Mafaalani — Minderheitenschutz fuer Kinder]] — ein Zuhörer erinnert an Gaubs Auftritt zwei Jahre zuvor

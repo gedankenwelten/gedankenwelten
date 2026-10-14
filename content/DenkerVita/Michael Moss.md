@@ -102,6 +102,6 @@ Bloms Beobachtung, dass Menschen sich an Verordnetes wie das Rauchverbot gewöhn
 ### → [[DenkerVita/Jutta Roosen|Jutta Roosen]]
 Die Konsumökonomin vermisst, was ein Staat gegen die Kronjuwelen der Industrie ausrichten kann — und gibt Moss' Wende zur Zuckersteuer die Zahlen.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Michael Moss — Salz Zucker Fett]]

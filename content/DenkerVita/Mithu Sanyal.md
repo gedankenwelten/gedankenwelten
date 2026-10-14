@@ -117,6 +117,6 @@ Mit ihm sprach sie 2026 im Brecht-Haus über Emily Brontës *Sturmhöhe*. In Lü
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird]] — mit Şeyda Kurt, Maja Göpel und Aladin El-Mafaalani, Utopie-Konferenz Leuphana 2026

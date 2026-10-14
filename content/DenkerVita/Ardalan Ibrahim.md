@@ -81,6 +81,6 @@ Ibrahim lässt sich nicht auf der Links-rechts-Achse verorten, und er will es au
 - [[DenkerVita/Marlene Engelhorn]] — Ihr Guter Rat ist das einzige Losgremium im Bestand, das tatsächlich über Vermögen entschied, und damit die gelebte Antwort auf die Frage, die Ibrahim bei Jung & Naiv „idiotisch“ nennt.
 - [[DenkerVita/Kojin Karatani]] — Beide lesen Platon als Beginn des antidemokratischen Rückschlags; Karatanis ionische *isonomia*, Gleichheit ohne Herrschaft, klingt in Ibrahims „Wo Politik, da keine Herrschaft“ nach. Karatanis eigene Frage, ob das über Versammlungsgröße hinaus trägt, trifft Ibrahims Million Gremien im Jahr.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Ardalan Ibrahim — Die Partei fuer Losdemokratie]] — Jung & Naiv 850 (08.09.2026): vier Stunden über Aristokratie, Hinterzimmer und die Pyramide im Kreis

@@ -79,7 +79,7 @@ Schliesser spricht in der universitären und landeskirchlichen Theologie ebenso 
 - [[DenkerVita/Hannah Arendt]] — Arendt unterschied nach 1945 Schuld von politischer Verantwortung und warnte, dass Kollektivschuld am Ende niemanden schuldig macht; Schliessers „lieber Verantwortung als Schuld“ geht in dieselbe Richtung.
 - [[DenkerVita/Susanne Boshammer]] — Die Moralphilosophin denkt Verzeihen als Verzicht des Verletzten; Schliesser trennt Vergebung, die einseitig sein kann, von Versöhnung, die beide braucht. Beide stoßen dabei auf Ruanda.
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]] — Im Abschnitt „Was der Verantwortliche auf sich nimmt“ trägt ihr Gespräch die Schuldfrage: die Unausweichlichkeit der Schuld als Spiegelbild der Dummheit, Wissen und Nichtwissen, die eigene Tragkraft.
 - [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck]] — kommt am selben Punkt an: lieber Verantwortung als Schuld.

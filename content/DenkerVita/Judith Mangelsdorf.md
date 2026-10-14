@@ -129,6 +129,6 @@ Mangelsdorf ist keine parteipolitisch positionierte Stimme; ihre Einordnung lieg
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Judith Mangelsdorf — Flourishing und Mattering]] — *Geistesblitz, 08.09.2026.* Die beiden Leitbegriffe im Gespräch: Aufblühen gegenüber bloßem Funktionieren, und das Gefühl, dass die Welt eine andere ist, weil ich da bin. Endet bei der Gerechtigkeitsfrage — *no wellness without fairness*.

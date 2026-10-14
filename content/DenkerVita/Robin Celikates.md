@@ -90,6 +90,6 @@ Hier beginnt der Streit, und er ist ernst zu nehmen. Der offene Brief Berliner L
 - [[DenkerVita/Theodor W. Adorno]] — Celikates zitiert Adornos *Aufarbeitung der Vergangenheit* und stellt sich zugleich gegen die spätere Abwendung der Frankfurter Schule von der Praxis. Adorno ließ 1969 das besetzte Institut räumen; Celikates hat Uni-Besetzungen in Frankfurt begleitet.
 - [[DenkerVita/Susan Neiman|Susan Neiman]] — teilt seinen Befund vom staatlichen Anti-Antisemitismus und begründet ihn als Jüdin und israelische Staatsbürgerin
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Robin Celikates — Faschisierung, Hoffnung und die Krise des Systems]] — Jung & Naiv 855 (Oktober 2026): Faschisierung als Prozess, die Brandmauer, Repression gegen Proteste, ziviler Ungehorsam zwischen Legalität und Legitimität, die Biografie eines Gastarbeitersohns

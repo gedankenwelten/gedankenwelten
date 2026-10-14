@@ -110,6 +110,6 @@ Der Gegenpol in der Kriegsfrage. Weisband, deren Familie in der Ukraine lebt, ve
 
 ---
 
-## Cortex-Notes
+## Gedankenwelten-Notes
 
 - [[Zeitgeist/Maja Goepel und Jagoda Marinic — Vertrauen, utopisch]] — mit Liya Yu, Utopie-Konferenz Leuphana 2024
