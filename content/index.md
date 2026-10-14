@@ -40,7 +40,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Tisch, an dem alle sitzen und jeder anderes sieht: Arendts Begriff des Politischen, und was geschieht, wenn Masse, Ideologie und Terror ihn zerstören. Dresden 2018.
 
-> **13.10.** — [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit|Carlo Cipolla — Die fünf Gesetze der Dummheit]]
+> **14.10.** — [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit|Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 >
 > Ein Wirtschaftshistoriker schreibt als Scherz die Gesetze der Dummheit auf: Wer anderen schadet, ohne selbst etwas davon zu haben, ist gefährlicher als jeder Bandit.
 

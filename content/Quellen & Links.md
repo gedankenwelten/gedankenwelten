@@ -3147,9 +3147,11 @@ tags:
 
 | | |
 |---|---|
-| **Primärquelle** | *The Basic Laws of Human Stupidity* (1976, in: *Allegro ma non troppo*, Il Mulino 1988) |
-| **Erklärvideo** | [Die 5 Gesetze der Dummheit — Wahre Worte](https://www.youtube.com/watch?v=5VNHIxbAz6Q) |
+| **Primärquelle** | *The Basic Laws of Human Stupidity* (1976, in: *Allegro ma non troppo*, Il Mulino 1988) · [englischer Text](https://web.archive.org/web/20130216132858/http://www.cantrip.org/stupidity.html) |
+| **Erklärvideo** | [Cipollas 5 Gesetze der Dummheit — Sprouts](https://www.youtube.com/watch?v=Yw04lEddNUY) (CC BY; ersetzt seit 14.10.2026 „Wahre Worte“, 5VNHIxbAz6Q — namenloser Content-Kanal) |
+| **Forschung** | [Marcelo Kuperman — The destructive effect of human stupidity (Kolloquium IFT 2022)](https://www.youtube.com/watch?v=XB48CH7fxNs) · [PRE 2020](https://doi.org/10.1103/PhysRevE.101.052307) · [EPJ B 2020](https://doi.org/10.1140/epjb/e2020-10339-3) |
 | **Notiz** | [[Carlo Cipolla — Die fünf Gesetze der Dummheit]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Cipolla_Sprouts_Fuenf_Gesetze_Transkript.txt` |
 
 ---
 
@@ -3358,7 +3360,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 
 | | |
 |---|---|
-| **Beitrag / Video** | [Die 5 Gesetze der Dummheit — Carlo Cipolla (Wahre Worte)](https://www.youtube.com/watch?v=5VNHIxbAz6Q) |
+| **Beitrag / Video** | [Cipollas 5 Gesetze der Dummheit — Sprouts](https://www.youtube.com/watch?v=Yw04lEddNUY) · früher: [Wahre Worte](https://www.youtube.com/watch?v=5VNHIxbAz6Q) (ersetzt 14.10.2026) |
 | **Primärquelle** | *The Basic Laws of Human Stupidity* (Essay, 1976/1988) |
 | **Notiz** | [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Cipolla_Fuenf_Gesetze_der_Dummheit_Transkript.txt` |
