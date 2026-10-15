@@ -180,8 +180,12 @@ Bei der Frage, ob Russland Deutschland angreift, wird er differenzierter. Er hä
 
 ## Faktencheck
 
-> [!note] Korrigiert am 13.10.2026 — dank Ruben Mawick
-> Ruben hat diese Note am 12.10.2026 selbst auf Instagram geteilt und dazu geschrieben, „1, 2 kleinere Sachen“ seien falsch. Er hatte recht. Wir haben ihm eine Position des Gastgebers zugeschrieben: Die Kritik an der ukrainischen Zwangsrekrutierung stammt von Marcant, Ruben hält dagegen. Und unser Faktencheck hatte seine Aussage zu Indien als „falsch“ markiert, obwohl sie im Kern stimmt. Beides ist berichtigt, dazu Kleineres (Sitzplatz, Zahl der Einsätze, „Combat Medic“) und in der DenkerVita Emma Igual, die dort unter den Toten fehlte. Danke, Ruben.
+> [!note] Ruben hat mitgelesen — korrigiert am 13.10.2026
+> Am 12.10.2026 hat Ruben Mawick diese Note in seiner Instagram-Story geteilt, mit der Weiterdenken-Frage, ob es Mitgefühl ist oder Selbstverlust, das eigene Leben nicht höher zu gewichten als das eines Fremden. Dazu schrieb er:
+>
+> *„Hab diesen Artikel random gefunden, über mein Gespräch mit @vollmarcant. Es ist unglaublich gut geschrieben und erkennt meinen inneren Konflikt, meine Art der Kommunikation und meine moralischen Standpunkte. 1,2 kleinere Sachen sind aber falsch. Nicht so schlimm.“*
+>
+> Mit den kleineren Sachen hatte er recht. Wir haben ihm eine Position des Gastgebers zugeschrieben: Die Kritik an der ukrainischen Zwangsrekrutierung stammt von Marcant, Ruben hält dagegen. Und unser Faktencheck hatte seine Aussage zu Indien als „falsch“ markiert, obwohl sie im Kern stimmt. Beides ist berichtigt, dazu Kleineres (Sitzplatz, Zahl der Einsätze, „Combat Medic“) und in der DenkerVita Emma Igual, die dort unter den Toten fehlte. Danke, Ruben.
 
 > [!success] Bestätigt — Gezielte Angriffe auf medizinisches Personal
 > Russische Kräfte greifen medizinisches Personal und Einrichtungen in der Ukraine an — die WHO dokumentiert das in nie dagewesenem Ausmaß. Bis Mai 2023 verifizierte sie über 1.000 Angriffe auf das Gesundheitswesen (101 Tote), bis April 2024 1.682 Angriffe (128 Tote), bis Mai 2026 über 3.000. Sanitäts- und Transportpersonal trägt ein dreifach erhöhtes Risiko. Mawicks Schilderung von Cherson als gefährlichster Zone deckt sich mit dem Muster; die exakte Formel „alles vogelfrei“ ist seine Frontperspektive, nicht eine völkerrechtliche Kategorie — der Kern (systematische, völkerrechtswidrige Gefährdung von Sanitätern) ist belegt.
