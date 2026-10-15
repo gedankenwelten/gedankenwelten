@@ -55,7 +55,7 @@ Restart Claude Desktop after saving.
 1. Go to [claude.ai](https://claude.ai) → Settings → Connectors
 2. Click "Add Connector"
 3. Enter URL: `https://mcp.gedankenwelten.org/mcp`
-4. Follow the OAuth authorization flow (auto-approved)
+4. Done. No login or authorization is needed.
 
 ### Other MCP Clients
 
@@ -63,7 +63,7 @@ Any client supporting the **Streamable HTTP** transport can connect:
 
 ```
 URL: https://mcp.gedankenwelten.org/mcp
-Auth: OAuth 2.1 (auto-approved, no account needed)
+Auth: none (public, read-only)
 ```
 
 ---
@@ -124,7 +124,7 @@ or ask for the sources of one particular note.
 | Component | Details |
 |---|---|
 | **Transport** | Streamable HTTP |
-| **Auth** | OAuth 2.1 with PKCE (auto-approved) |
+| **Auth** | None, the knowledge base is public and read-only |
 | **Embeddings** | BAAI/bge-m3 (1024-dim) |
 | **Vector DB** | Qdrant (12,500+ chunks) |
 | **Content** | ~500 notes, updated regularly |
@@ -134,7 +134,7 @@ or ask for the sources of one particular note.
 
 ## Privacy
 
-The MCP server does not store queries, track users, or collect personal data. OAuth tokens are held in memory only. See [[Datenschutz|Privacy Policy]] for details.
+The MCP server requires no login and issues no tokens. It does not store or log queries, keeps no access log, and does not track users. To protect the server from overload, it counts requests per IP address for at most 60 seconds in memory; nothing is written to disk. See [[Datenschutz|Privacy Policy]] for details.
 
 ---
 

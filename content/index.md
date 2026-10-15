@@ -44,7 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist.
 
-> → *21 weitere in* [[Zeitgeist]]
+> → *13 weitere in* [[Zeitgeist]]
 
 ### Denker
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Tisch, an dem alle sitzen und jeder anderes sieht: Arendts Begriff des Politischen, und was geschieht, wenn Masse, Ideologie und Terror ihn zerstören. Dresden 2018.
 
-> → *9 weitere in* [[Denker]]
+> → *5 weitere in* [[Denker]]
 
 ### Panorama
 
@@ -92,7 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
-> → *13 weitere in* [[Panorama]]
+> → *10 weitere in* [[Panorama]]
 
 ### Gedanken
 
@@ -107,10 +107,6 @@ Die Gedankenwelten (luc)
 > **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
 >
 > Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar und dem Autoritären das Angebot streitig.
-
-> **08.10.** — [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen|Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen]]
->
-> Ist Bewusstsein die Eigenschaft eines Kopfes oder eines Netzes? Ein Gang zwischen Chalmers, IIT und Vipassana, seit Herbst 2026 mit ersten Messungen aus dem Inneren der Maschinen.
 
 ### Geistesblitz
 

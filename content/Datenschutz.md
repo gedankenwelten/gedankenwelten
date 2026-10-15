@@ -8,7 +8,7 @@ aliases:
 
 # Datenschutzerklärung
 
-Stand: 13. Oktober 2026
+Stand: 16. Oktober 2026
 
 ## 1. Verantwortlicher
 
@@ -78,9 +78,9 @@ Der MCP-Server (Model Context Protocol) ermöglicht die semantische Suche über 
 | Datenkategorie | Verarbeitung |
 |---|---|
 | **Suchanfragen** | Werden zur Verarbeitung in Vektor-Embeddings umgewandelt. **Nicht gespeichert, nicht geloggt.** |
-| **OAuth-Tokens** | Nur im Arbeitsspeicher (in-memory). Gehen bei Server-Neustart verloren. **Keine persistente Speicherung.** |
-| **Client-Registrierungen** | Nur im Arbeitsspeicher. Client-Name und Redirect-URI werden für die OAuth-Sitzung gehalten. **Keine persistente Speicherung.** |
-| **IP-Adressen** | Werden durch Cloudflare verarbeitet (Proxy). Der MCP-Server selbst loggt **keine IP-Adressen**. |
+| **Anmeldung** | Keine. Der MCP-Server verlangt keine Anmeldung und vergibt keine Zugangsschlüssel (Tokens). |
+| **IP-Adressen** | Die Verbindung läuft über Cloudflare (Proxy). Damit niemand den Server überlastet, zählt er die Anfragen je IP-Adresse; die Adresse bleibt dafür **höchstens 60 Sekunden im Arbeitsspeicher** und wird **nicht gespeichert und nicht geloggt**. Wer über einen KI-Dienst wie Claude verbunden ist, erscheint dabei mit einer Adresse dieses Dienstes, nicht mit der eigenen. |
+| **Server-Protokoll** | Es gibt **kein Zugriffsprotokoll**. Das technische Protokoll enthält nur Betriebsmeldungen des Servers (Start, interne Datenbankabfragen, Fehler), keine Adressen und keine Suchanfragen, und wird fortlaufend überschrieben. |
 | **Inhalte der Wissensbasis** | Alle durchsuchbaren Inhalte sind öffentlich auf [gedankenwelten.org](https://gedankenwelten.org) verfügbar. |
 
 ### Keine Nutzerverfolgung
