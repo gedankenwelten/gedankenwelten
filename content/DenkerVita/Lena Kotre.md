@@ -151,4 +151,4 @@ Sie betreibt außerdem einen eigenen YouTube-Kanal.
 
 - [[Hannah Arendt — Die Banalität des Bösen]] — Arendts Befund, dass das Ungeheure durch Verwaltungsroutine entsteht und nicht durch Ungeheuer. Kotrés Vokabular ist der Beleg: Ausschreibung, Ressourcenmanagement, Zugriff, entfernen.
 - [[Andreas Kemper — Technofaschismus und die AfD]] — die strukturelle Verfassungsfeindlichkeit der Partei; Kotré ist ihr konkretester Fall.
-- [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] — wie Misstrauen zwischen Gruppen erzeugt wird; die Unterscheidung „assimiliert / nicht assimiliert" ist das Werkzeug dafür.
+- [[Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt (taz FUTURZWEI-Talk)|Aladin El-Mafaalani — Misstrauensgemeinschaften und was die AfD wirklich stoppt]] — wie Misstrauen zwischen Gruppen erzeugt wird; die Unterscheidung „assimiliert / nicht assimiliert" ist das Werkzeug dafür.

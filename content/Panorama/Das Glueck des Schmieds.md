@@ -2,7 +2,7 @@
 title: "Das Glück des Schmieds"
 date: 2026-09-26
 erstellt: 2026-09-26
-aktualisiert: 2026-10-08
+aktualisiert: 2026-10-15
 description: "Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft."
 panorama-art: wachsend
 tags:
@@ -43,6 +43,8 @@ Wer weniger Stunden arbeitet, sind vor allem Frauen. 49,5 Prozent der erwerbstä
 
 Die Gegenforderung, weniger zu arbeiten, ist mit der Arbeitslosigkeit verknotet. In Westdeutschland stieg die Zahl der Arbeitslosen von rund 270.000 im Jahr 1973 auf über eine Million 1975 und über zwei Millionen 1983. Darauf antwortete die IG Metall mit der 35-Stunden-Woche: Die vorhandene Arbeit sollte gerechter verteilt werden. 1984 streikte sie dafür sieben Wochen, seit 1995 gilt die 35-Stunden-Woche in der westdeutschen Metallindustrie. Stellen hat sie nicht geschaffen. Für die westdeutschen Branchen von 1984 bis 1994 fand Jennifer Hunt keinen Beschäftigungsgewinn, eher einen Verlust ([Hunt 1999, doi:10.1162/003355399555963](https://doi.org/10.1162/003355399555963)), für Frankreichs 35-Stunden-Gesetz fanden Matthieu Chemin und Étienne Wasmer keinen messbaren Effekt ([Chemin & Wasmer 2009, doi:10.1086/605426](https://doi.org/10.1086/605426)). Als Wunsch der Beschäftigten wurde die kürzere Woche trotzdem erfüllt, mit vollem Lohn. Älter ist die Wette von John Maynard Keynes, der 1930 vorhersagte, seine Enkel kämen mit fünfzehn Wochenstunden aus. Der Wohlstand ist eingetroffen, die freie Zeit nicht, und warum, ist bis heute umstritten ([Pecchi & Piga 2008, doi:10.7551/mitpress/9780262162494.001.0001](https://doi.org/10.7551/mitpress/9780262162494.001.0001), Sammelband); eine Antwort lautet, die Menschen hätten den Zuwachs lieber in Gütern genommen als in Zeit ([Cowen 2017, doi:10.1017/s0265052517000267](https://doi.org/10.1017/s0265052517000267)). Zur Vier-Tage-Woche gibt es inzwischen einen großen Versuch mit Vergleichsgruppe: 141 Organisationen in sechs Ländern stellten bei gleichem Lohn um, und ihre Beschäftigten berichteten weniger Burnout und mehr Zufriedenheit ([Fan et al. 2025, doi:10.1038/s41562-025-02259-6](https://doi.org/10.1038/s41562-025-02259-6)). Ein Pilot der Universität Münster mit 45 Organisationen fand Ähnliches ([idw 2024](https://idw-online.de/de/news841502)). Belastbar ist das nur zum Teil, denn die Firmen hatten sich selbst beworben, und gemessen wurde vor allem, was die Beschäftigten über sich angaben.
 
+Eine ökologische Seite hat die Frage auch. In den OECD-Ländern von 1970 bis 2007 gingen kürzere Arbeitszeiten mit kleinerem Fußabdruck und weniger Emissionen einher, zum Teil, weil weniger produziert wurde, zum Teil, weil Menschen mit mehr Zeit anders leben ([Knight, Rosa & Schor 2013, doi:10.1016/j.gloenvcha.2013.02.017](https://doi.org/10.1016/j.gloenvcha.2013.02.017)); eine Modellrechnung bestätigt den Effekt für Verkürzungen aus Produktivitätsgewinnen und zeigt, wie sehr er am Wachstum hängt ([Cieplinski, D'Alessandro & Guarnieri 2021, doi:10.1016/j.ecolecon.2020.106822](https://doi.org/10.1016/j.ecolecon.2020.106822)). Weniger Arbeit entlastet also den Planeten, und ein Teil dieser Entlastung ist genau das kleinere BIP, vor dem Merz warnt.
+
 **Die Stimmen**
 
 - **[[Herfried Muenkler — Die Sehnsucht nach Ordnung#Der Aufzug und der Schmied|Herfried Münkler]]:** Merz habe mit „ihr arbeitet zu wenig“ und der 40-Stunden-Woche die Realität gut beschrieben und es nur miserabel kommuniziert.
@@ -54,12 +56,13 @@ Die Gegenforderung, weniger zu arbeiten, ist mit der Arbeitslosigkeit verknotet.
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Der Köder|Dietmar Dath]]:** Als man nach 1968 weniger arbeiten wollte, antwortete der Markt mit *„der nächsten Wirtschaftskrise. Sehr viele Arbeitslose“*; Wünsche erfüllt er *„vor allen Dingen als Köder“*.
 - **[[DenkerVita/Moritz Rudolph|Moritz Rudolph]]** ([Leuphana 2026](https://www.youtube.com/watch?v=Ne_NPwRpUa4)): Lying Flat in China [▶ 10:43](https://www.youtube.com/watch?v=Ne_NPwRpUa4&t=643) und seine Geschwister in den USA und Indien sind für ihn ein Desengagement, das dem System Energie entzieht, *„systemübergreifend“* [▶ 11:30](https://www.youtube.com/watch?v=Ne_NPwRpUa4&t=690); macht eines Tages die KI die Arbeit, bleibt mit Kojève das Häuserbauen *„zum Zeitvertreib als Form höheren Spiels“* [▶ 39:41](https://www.youtube.com/watch?v=Ne_NPwRpUa4&t=2381).
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
 - **[[Maurice Hoefgen — Heute Show entlarvt Kanzler Merz#Arbeitszeit: Der Durchschnitt lügt|Maurice Höfgen]]:** Die Jahresarbeitszeit pro Kopf sank von 1.554 auf rund 1.343 Stunden, die Teilzeitquote stieg von 18,5 auf fast 40 Prozent, die Erwerbstätigenquote auf 77,2 Prozent.
 - **[[Teresa Buecker — Zeit NEU DENKEN#Arbeitsverdichtung und der Technologie-Rebound|Teresa Bücker]]:** Mit der Waschmaschine stiegen die Ansprüche an saubere Wäsche, mit der KI steigt, was an einem Tag herauszuholen ist; gewonnene Zeit wird als Erwartung wieder aufgezehrt.
 - **[[Der Dara — Merz 72-Stunden-Arbeitswoche#Merz beim DGB-Bundeskongress — Buhrufe und Gelächter|Der Dara]]:** Merz fordert vor dem DGB-Bundeskongress Einschnitte und „Eigenverantwortung“ und erntet Buhrufe und Gelächter.
 - **[[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory|Die Neuen Zwanziger]]:** Der Sezession-Herausgeber Erik Lehnert sagt offen, was weniger Einwanderung bedeutet: länger arbeiten, weniger Urlaub.
+- **[[Martin Oetting — Happy Planet Index 2026#Mehr arbeiten? Die Gegenrechnung|Saamah Abdallah]]** (bei Martin Oetting): Eine Gesellschaft, die ihre Arbeitszeit verkürzt, verbraucht weniger und lebt gesünder und zufriedener; diskutiert werde stattdessen die „Lifestyle-Teilzeit“.
 
 </details>
 
@@ -148,6 +151,7 @@ Wo man anfängt, entscheidet trotzdem viel. Nach einer unsicheren Schätzung der
 | 26.09.2026 | Gespräch (Luc) | Handlungsmacht als Abfolge: erst der Entschluss, dann die Werkzeuge |
 | 28.09.2026 | [[Omar Yaghi — Die Welt retten mit Chemie#Trauben und Käse am Zoll|Omar Yaghi — Die Welt retten mit Chemie?]] | Der amerikanische Traum aus Gewinnersicht, als Gegenstimme zu Bärfuss |
 | 08.10.2026 | [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Nachbesprechung|Dath und Schmitt — Verschwendung als Möglichkeit?]] | Weniger Arbeit als Köder? Arbeitslosigkeit nach 1973, Work-Sharing (Hunt, Chemin & Wasmer), Keynes, Vier-Tage-Woche (Fan et al. 2025) |
+| 15.10.2026 | [[Martin Oetting — Happy Planet Index 2026#Nachbesprechung|Martin Oetting — Happy Planet Index 2026]] | Arbeiten wir zu wenig? Die ökologische Seite: kürzere Arbeitszeit, kleinerer Fußabdruck (Knight, Rosa & Schor 2013), Modell Cieplinski et al. 2021; Abdallahs Gegenrechnung zur „Lifestyle-Teilzeit“ |
 
 ---
 

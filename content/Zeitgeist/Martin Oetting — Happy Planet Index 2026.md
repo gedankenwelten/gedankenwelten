@@ -2,7 +2,8 @@
 title: "Martin Oetting — Happy Planet Index 2026: Was ist echter Wohlstand?"
 date: 14.07.2026
 description: Costa Rica vorn, die USA auf Platz 105 — der Happy Planet Index misst, wer aus wenig Welt viel Leben macht. Und stellt der deutschen Wachstumsdebatte eine unbequeme Frage.
-aktualisiert: 14.07.2026
+aktualisiert: 15.10.2026
+raetsel: "Das kleinste Land trägt die leichtesten Schuhe und kommt am weitesten."
 tags:
   - zeitgeist
   - wirtschaft
@@ -47,7 +48,7 @@ Quelle: [Neues Länderranking zu ECHTEM Wohlstand](https://www.youtube.com/watch
 
 > *„Es ist irgendwie, wem am besten gelingt, ökologische Ressourcen in Wohlergehen zu verwandeln. Also diese Balance zwischen diesen drei Komponenten."* — Saamah Abdallah, [▶ 1:30](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=90)
 
-Bemerkenswert ist die Buchhaltung: Der Fußabdruck folgt dem **Konsum**, nicht der Produktion. Das in China gefertigte Handy zählt zum deutschen Fußabdruck, nicht zum chinesischen ([▶ 2:15](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=135)). Damit entzieht der Index einem beliebten Selbstbetrug der Industrieländer den Boden — der Erzählung, man habe die eigenen Emissionen gesenkt, während man sie in Wahrheit nur ausgelagert hat. Der Index wurde 2006 von der New Economics Foundation erstmals veröffentlicht; die neue, siebte Ausgabe erscheint beim Berliner Thinktank Hot or Cool und umfasst 134 Länder mit Daten bis einschließlich 2025.
+Wichtig ist die Buchhaltung: Der Fußabdruck folgt dem **Konsum**, nicht der Produktion. Das in China gefertigte Handy zählt zum deutschen Fußabdruck, nicht zum chinesischen ([▶ 2:15](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=135)). Damit entzieht der Index einem beliebten Selbstbetrug der Industrieländer den Boden — der Erzählung, man habe die eigenen Emissionen gesenkt, während man sie in Wahrheit nur ausgelagert hat. Der Index wurde 2006 von der New Economics Foundation erstmals veröffentlicht; die neue, siebte Ausgabe erscheint beim Berliner Thinktank Hot or Cool und umfasst 134 Länder mit Daten bis einschließlich 2025.
 
 ### Kein Land schafft es — aber manche kommen nah heran
 
@@ -55,48 +56,54 @@ Bemerkenswert ist die Buchhaltung: Der Fußabdruck folgt dem **Konsum**, nicht d
 
 > *„Die Länder, die die beste Platzierung haben, sind nicht Europa, ist nicht immer Schweden oder Finnland oder sowas, sondern eher Länder im Mitteleinkommensbereich."* — Saamah Abdallah, [▶ 4:32](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=272)
 
-Sechs der Top-Ten-Länder liegen in Lateinamerika. Die reichsten Länder der Welt — USA, Luxemburg, Singapur — landen dagegen weit hinten. Abdallahs Diagnose: Ab einem gewissen Reichtum kippt das Verhältnis. Mehr Ressourcenverbrauch bringt kein besseres Leben mehr, manchmal ein schlechteres — die Lebenserwartung in den USA liegt unter der der meisten europäischen Länder.
+Neben Costa Rica liegen sechs weitere Länder der Top Ten in Lateinamerika. Die reichsten Länder der Welt — USA, Luxemburg, Singapur — landen dagegen weit hinten. Abdallahs Diagnose: Ab einem gewissen Reichtum kippt das Verhältnis. Mehr Ressourcenverbrauch bringt kein besseres Leben mehr, manchmal ein schlechteres — die Lebenserwartung in den USA liegt unter der der meisten europäischen Länder.
 
 ### Costa Rica: Sieger ohne Zufall
 
-[▶ 4:19](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=259) — Zum fünften Mal in sieben Ausgaben steht Costa Rica an der Spitze. Die Lebenserwartung des kleinen mittelamerikanischen Landes übertrifft die der USA, das Wohlbefinden ist das dritthöchste weltweit — bei moderatem Fußabdruck. Oetting betont, was daran am wichtigsten ist: Es ist **Politik**, nicht Glück.
+[▶ 4:32](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=272) — Zum fünften Mal in sieben Ausgaben steht Costa Rica an der Spitze. Die Lebenserwartung des kleinen mittelamerikanischen Landes übertrifft die der USA, das Wohlbefinden ist das dritthöchste weltweit — bei moderatem Fußabdruck. Oetting betont, was daran am wichtigsten ist: Dahinter steht seit Jahrzehnten **Politik**.
 
 > *„Es ist kein Zufall, dass Costa Rica so gut platziert ist im Happy Planet Index."* — Saamah Abdallah, [▶ 5:17](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=317)
 
-Die Zutaten sind seit Jahrzehnten bekannt: Strom fast vollständig aus erneuerbaren Energien, die Armee 1948/49 abgeschafft und das Geld in Bildung und Gesundheit umgelenkt, weite Landesteile unter Naturschutz, betreut in Zusammenarbeit mit indigenen Gemeinschaften. Katherine Trebeck ergänzt die politökonomische Lesart: Costa Rica schneidet gut ab, **weil** es den Vorgaben des wohlhabenden globalen Nordens bewusst nicht gefolgt ist. Das ist die stillste und vielleicht stärkste Provokation des Videos — das Land, das im Wirtschaftsdiskurs praktisch nie vorkommt, führt die Liste an, die misst, worauf es eigentlich ankommt.
+Die Zutaten sind seit Jahrzehnten bekannt: Strom fast vollständig aus erneuerbaren Energien, die Armee 1948/49 abgeschafft und das Geld in Bildung und Gesundheit umgelenkt, weite Landesteile unter Naturschutz, betreut in Zusammenarbeit mit indigenen Gemeinschaften. Katherine Trebeck ergänzt die politökonomische Lesart: Costa Rica schneidet gut ab, **weil** es den Vorgaben des wohlhabenden globalen Nordens bewusst nicht gefolgt ist. Das Land, das im Wirtschaftsdiskurs praktisch nie vorkommt, führt die Liste an, die misst, worauf es ankommt. Eine leisere Provokation hat das Video nicht.
 
 > [!question] Weitergedacht
 > Costa Rica hat 1948 die Armee abgeschafft und das Geld in Bildung und Gesundheit gesteckt — eine Entscheidung, die 78 Jahre später Weltranglisten gewinnt. *Welche heutige Entscheidung Deutschlands wird man 2100 als ähnlich weitsichtig oder ähnlich verpasst erzählen?*
 
 ### Spanien: Europas leiser Spitzenreiter
 
-[▶ 6:55](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=415) — Die europäische Überraschung heißt nicht Skandinavien, sondern Spanien: Platz 4 weltweit, bestes Land unter den Hocheinkommensländern, niedrigster Pro-Kopf-Fußabdruck Westeuropas. Ein Teil davon ist geschenkt — das warme Klima spart Heizenergie. Aber Oetting zerlegt das Glücks-Argument sorgfältig: Der Anteil erneuerbaren Stroms stieg von 15–20 % Anfang der Nullerjahre auf über 55 % im Jahr 2025 — das ist Entscheidung, nicht Wetter. Dazu ein soziales Gesundheitssystem, mediterrane Ernährung, ein Alltag mit mehr Fußwegen und vergleichsweise starke soziale Bindungen, die sich direkt im subjektiven Wohlbefinden niederschlagen. Spanien ist damit das Gegenbeispiel zur These, nur arme Länder könnten in diesem Index glänzen: Auch mit hohem Einkommen lässt sich der Fußabdruck klein halten — wenn die Struktur stimmt.
+[▶ 6:55](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=415) — Die europäische Überraschung heißt Spanien: Platz 4 weltweit, bestes Land unter den Hocheinkommensländern, niedrigster Pro-Kopf-Fußabdruck Westeuropas. Ein Teil davon ist geschenkt — das warme Klima spart Heizenergie. Aber Oetting zerlegt das Glücks-Argument sorgfältig: Der Anteil erneuerbaren Stroms stieg von 15–20 % Anfang der Nullerjahre auf über 55 % im Jahr 2025. Das hat Spanien entschieden, das Wetter nicht. Dazu ein soziales Gesundheitssystem, mediterrane Ernährung, ein Alltag mit mehr Fußwegen und vergleichsweise starke soziale Bindungen, die sich direkt im subjektiven Wohlbefinden niederschlagen. Spanien ist damit das Gegenbeispiel zur These, nur arme Länder könnten in diesem Index glänzen: Auch mit hohem Einkommen lässt sich der Fußabdruck klein halten — wenn die Struktur stimmt.
 
 ### Deutschland auf Platz 16 — das beste Ergebnis kommt aus der „schlimmen" Zeit
 
-[▶ 7:40](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=460) — Die deutsche Pointe des Videos: Platz 16 von 134, mit 58 von 100 Punkten das beste deutsche Ergebnis seit Bestehen des Index. 2007 waren es 47 Punkte und Platz 46. Alle drei Indikatoren zeigen über die Jahre nach oben — die Lebenserwartung liegt zwei Jahre über 2007, die Lebenszufriedenheit bei 7 von 10, und der Fußabdruck ist von 5,5 Globalhektar (um 2007–2010) auf 3,8 gesunken.
+[▶ 7:40](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=460) — Die deutsche Pointe des Videos: Platz 16 von 134, mit 58 von 100 Punkten das beste deutsche Ergebnis seit Bestehen des Index und die zweitbeste Platzierung. 2007 waren es 47 Punkte und Platz 46. Alle drei Indikatoren zeigen über die Jahre nach oben — die Lebenserwartung liegt zwei Jahre über 2007, die Lebenszufriedenheit bei 7 von 10, und der Fußabdruck ist von 5,5 Globalhektar (um 2007–2010) auf 3,8 gesunken.
 
 > *„Wir hören ständig, dass alles schiefgeht in Deutschland, dass Deutschland also der kranke Mann Europas ist […] aber wenn man diese drei wichtigen Indikatoren anguckt, also Lebenserwartung, Wohlbefinden und ökologischer Fußabdruck, sieht man positive Trends bei jedem."* — Saamah Abdallah, [▶ 8:27](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=507)
 
-Abdallah bleibt dabei ehrlich: Nachhaltig ist das nicht — fairer Konsum läge bei 1,5 Globalhektar, Deutschland verbraucht das Zweieinhalbfache. Aber die Richtung stimmte. Oettings Zuspitzung: Diese Verbesserung fällt exakt in die Jahre, die Friedrich Merz heute als wirtschaftliches Elend erzählt, weil das BIP kaum wuchs — die Merkel- und Ampel-Jahre. Gemessen an dem, was Menschen tatsächlich erleben (länger leben, zufriedener leben, weniger Welt verbrauchen), waren die angeblich verlorenen Jahre die erfolgreichsten der Bundesrepublik.
+Abdallah bleibt dabei ehrlich: Nachhaltig ist das nicht — fairer Konsum läge bei 1,5 Globalhektar, Deutschland verbraucht das Zweieinhalbfache. Aber die Richtung stimmte. Oettings Zuspitzung: Diese Verbesserung fällt exakt in die Jahre, die Friedrich Merz heute als wirtschaftliches Elend erzählt, weil das BIP kaum wuchs — die Merkel- und Ampel-Jahre. Gemessen an dem, was Menschen tatsächlich erleben (länger leben, zufriedener leben, weniger Welt verbrauchen), waren die angeblich verlorenen Jahre die besten, die der Index für Deutschland je gemessen hat.
 
 > [!question] Weitergedacht
 > Wenn dieselben Jahre je nach Messlatte als Stagnation *oder* als Bestleistung erscheinen — *sagt ein Ranking dann mehr über das Land aus oder über den, der die Messlatte gewählt hat?*
 
 ### Die Kehrtwende: Merz steuert erstmals in die Gegenrichtung
 
-[▶ 10:15](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=615) — Und hier wird aus der Statistik Gegenwartspolitik. Oettings Vorwurf: Die aktuelle Bundesregierung sei die erste in langer Zeit, die in der Umweltpolitik Rückschritte macht — beim Klimaschutz und darüber hinaus. Ein mögliches erstes Signal steht schon in den Daten: Der deutsche Fußabdruck stieg von 3,77 Globalhektar (2024) auf 3,87 (2025) — nach anderthalb Jahrzehnten des Sinkens ([▶ 10:45](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=645)). Ob das schon Merz ist oder statistisches Rauschen, lässt sich seriös noch nicht sagen — Abdallah formuliert vorsichtig, Oetting deutet schärfer. Die Stoßrichtung aber ist klar: Während die Daten zeigen, dass Wohlstand im relevanten Sinn ohne BIP-Fixierung wuchs, verordnet die Regierung dem Land genau diese Fixierung als Therapie.
+[▶ 10:15](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=615) — Und hier wird aus der Statistik Gegenwartspolitik. Oettings Vorwurf: Die aktuelle Bundesregierung sei die erste in langer Zeit, die in der Umweltpolitik Rückschritte macht — beim Klimaschutz und darüber hinaus. Ein mögliches erstes Signal steht schon in den Daten: Nach anderthalb Jahrzehnten des Sinkens ist der deutsche Fußabdruck nicht weiter gefallen. Abdallah nennt im Gespräch 3,77 Globalhektar für 2024 und 3,87 für 2025 ([▶ 10:45](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=645)), das Länderprofil des Index weist 3,78 aus; so oder so ist das Sinken zum Stillstand gekommen. Ob das schon Merz ist oder statistisches Rauschen, lässt sich seriös noch nicht sagen — Abdallah formuliert vorsichtig, Oetting deutet schärfer. Die Stoßrichtung aber ist klar: Während die Daten zeigen, dass Wohlstand im relevanten Sinn ohne BIP-Fixierung wuchs, verordnet die Regierung dem Land genau diese Fixierung als Therapie.
 
 ### Das BIP-Paradox: 85.800 Dollar für Platz 105
 
-[▶ 10:51](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=651) — Die vielleicht eindrücklichste Gegenüberstellung des Videos ist eine simple Dreierreihe. BIP pro Kopf 2024: USA 85.800 Dollar, Deutschland 73.500 Dollar, Costa Rica 31.000 Dollar. Happy-Planet-Rang: Costa Rica 1, Deutschland 16, USA **105 von 134**.
+[▶ 10:51](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=651) — Dann eine simple Dreierreihe. BIP pro Kopf 2024: USA 85.800 Dollar, Deutschland 73.500 Dollar, Costa Rica 31.000 Dollar. Happy-Planet-Rang: Costa Rica 1, Deutschland 16, USA **105 von 134**.
 
 > *„Wenn die USA weltweit das große Wort zur Wirtschaft führen, kann man hier sehen, dass sie ziemlich beschissen darin sind, Ressourcen bzw. Geld in langes, zufriedenes Leben für alle zu verwandeln."* — Martin Oetting, [▶ 11:30](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=690)
 
-Das fast Dreifache an Geld, hundert Plätze weiter hinten — wenn Wohlstand heißt, dass es Menschen gut geht, sind die USA kein Vorbild, sondern ein Warnschild. An einer Stelle überzieht Oetting allerdings: Seine Rahmung, „grünes Wachstum" funktioniere nicht, es gebe *keinen Nachweis, dass das jemals irgendwo geklappt hätte* ([▶ 3:47](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=227)), widerlegt seine eigene Deutschland-Zahl — sinkender Fußabdruck bei wachsendem BIP ist genau absolute Entkopplung *(Faktencheck: falsch — belegbar ist nur: viel zu langsam für die Klimaziele)*. Die begleitende Befragung im Rahmen des Index (bislang rund 40.000 Teilnehmende) stützt den Befund auf individueller Ebene: keine positive Korrelation zwischen Fußabdruck und Wohlbefinden, eher eine leicht negative — wer mehr konsumiert, ist tendenziell *weniger* zufrieden ([▶ 13:01](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=781)). Abdallahs Schluss: Nachhaltiger leben heißt nicht verzichten — auf nichts Wichtiges jedenfalls. Das „Verzichtsgerede", mit dem jede Wachstumskritik reflexhaft abgewehrt wird, findet in den Daten keine Stütze.
+Das fast Dreifache an Geld, hundert Plätze weiter hinten. Wenn Wohlstand heißt, dass es Menschen gut geht, taugen die USA eher als Warnschild. An einer Stelle überzieht Oetting allerdings: Seine Rahmung, „grünes Wachstum" funktioniere nicht, es gebe *keinen Nachweis, dass das jemals irgendwo geklappt hätte* ([▶ 3:47](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=227)), widerlegt seine eigene Deutschland-Zahl — sinkender Fußabdruck bei wachsendem BIP ist genau absolute Entkopplung *(Faktencheck: falsch — belegbar ist nur: viel zu langsam für die Klimaziele)*. Die begleitende Befragung im Rahmen des Index (bislang rund 40.000 Teilnehmende) stützt den Befund auf individueller Ebene: keine positive Korrelation zwischen Fußabdruck und Wohlbefinden, eher eine leicht negative — wer mehr konsumiert, ist tendenziell *weniger* zufrieden ([▶ 13:01](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=781)). Abdallahs Schluss: Wer nachhaltiger lebt, verzichtet auf nichts Wichtiges. Das „Verzichtsgerede", mit dem jede Wachstumskritik reflexhaft abgewehrt wird, findet in den Daten keine Stütze.
 
 > [!question] Weitergedacht
 > Wenn mehr Konsum nicht zufriedener macht und die Daten das seit Jahren zeigen — *warum fühlt sich Verzicht trotzdem wie Verlust an? Wer oder was hat uns dieses Gefühl beigebracht?*
+
+### Mehr arbeiten? Die Gegenrechnung
+
+[▶ 13:01](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=781) — Wenn das Verzichtsgerede falsch ist und mehr Geld nicht zu mehr Wohlstand führt, fragt Oetting, wie man Politik und Gesellschaft von diesem Irrweg wegbekommt. Merz schlage gerade überall den falschen Weg ein, „gerade auch durch sein Gerede davon, dass wir alle mehr arbeiten müssen“.
+
+[▶ 13:47](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=827) — Abdallah antwortet mit einer Gegenrechnung, die in der deutschen Debatte kaum vorkommt. Es gebe Analysen, nach denen eine Gesellschaft, die ihre Arbeitszeit verkürzt, weniger Ressourcen verbraucht und dabei gesünder und zufriedener lebt. Dann fügt er trocken an, das sei gerade nicht das Thema; das Thema sei, wie schlecht „Lifestyle-Teilzeit“ für die Gesellschaft sei. Er sagt es beiläufig und geht weiter. Dabei steht der Satz quer zur ganzen Arbeitszeit-Debatte: Wer nur auf Stunden und BIP schaut, rechnet mehr Arbeit als Gewinn. Wer auf Lebenserwartung, Zufriedenheit und Fußabdruck schaut, könnte bei weniger Arbeit auf ein Plus kommen. Was die Forschung dazu sagt, steht in der Nachbesprechung.
 
 ### Frauen als Maßstab: der übersehene Unterschied im Inneren
 
@@ -104,11 +111,31 @@ Das fast Dreifache an Geld, hundert Plätze weiter hinten — wenn Wohlstand hei
 
 > *„Also dieser Autokultur hier, ich glaube, es hat ein bisschen mehr mit Männern zu tun als mit Frauen. […] Und das sieht man in den Daten."* — Saamah Abdallah, [▶ 14:33](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=873)
 
-Oettings trockene Folgerung: Die Männer könnten von den Frauen lernen. Hinter der Pointe steckt ein ernster Befund — der Fußabdruck ist keine anonyme Systemgröße, sondern hat Kultur und Geschlecht; die Autokultur ist messbar männlich. Ein Durchschnittswert pro Land verdeckt, dass innerhalb der Länder längst zwei verschiedene Lebensweisen nebeneinander existieren, von denen eine dem Ziel deutlich näher ist.
+Oettings trockene Folgerung: Die Männer könnten von den Frauen lernen. Hinter der Pointe steckt ein ernster Befund: Der Fußabdruck hat Kultur und Geschlecht, die Autokultur ist messbar männlich. Ein Durchschnittswert pro Land verdeckt, dass innerhalb der Länder längst zwei verschiedene Lebensweisen nebeneinander existieren, von denen eine dem Ziel deutlich näher ist.
 
 ### Was der Index sein will — und was nicht
 
 [▶ 14:59](https://www.youtube.com/watch?v=jKvJP0hPxZs&t=899) — Oetting endet mit einer Selbstbegrenzung, die dem Video gut steht: Der Happy Planet Index soll das BIP nicht ersetzen, das war nie die Idee. Er ist ein Korrektiv — eine einfache Erinnerung daran, was am Ende zählt: langes, zufriedenes Leben bei niedrigem Weltverbrauch, und die Frage, welche Länder das beachten. Merz, so Oettings Schlussurteil, mache „eine Kehrtwende zurück tief ins 20. Jahrhundert" und versuche, neue Probleme mit alten Rezepten zu lösen. Das Video mündet in den Aufruf, sich über den Newsletter Wirtschaft21 an der neu entstehenden Organisation **System Delta** zu beteiligen — Oettings Versuch, aus der Analyse Bewegung zu machen.
+
+---
+
+## Nachbesprechung
+
+*Zwei Sätze aus dem Gespräch tragen weiter, als das Video sie trägt: dass mehr Konsum nicht zufriedener macht, und dass weniger Arbeit dem Planeten und den Menschen guttun könnte.*
+
+### Macht mehr Geld zufriedener?
+
+Der Index rechnet mit dem Fußabdruck, nicht mit dem Einkommen, und für ihn ist die Aussage klar: Jenseits von etwa vier Globalhektar bringt mehr Verbrauch im Ländervergleich keine zusätzlichen glücklichen Lebensjahre ([HPI 2026 Report](https://hotorcool.org/publications/the-2026-happy-planet-index-report/)). Abdallahs Befragung findet sogar einen leicht negativen Zusammenhang. Beim Geld ist die Forschung weniger eindeutig, und hier darf sie dem Video widersprechen. Richard Easterlin beobachtete in den 1970ern, dass reicher werdende Länder nicht glücklicher wurden; Betsey Stevenson und Justin Wolfers fanden dagegen über viele Länder hinweg, dass reichere Länder zufriedener sind, ohne erkennbaren Sättigungspunkt ([Stevenson & Wolfers 2008, doi:10.1353/eca.0.0001](https://doi.org/10.1353/eca.0.0001)). Für Einzelne hat Matthew Killingsworth 1,7 Millionen Momentaufnahmen von über 33.000 amerikanischen Beschäftigten ausgewertet: Das Wohlbefinden steigt mit dem Einkommen weiter, auch über die berühmten 75.000 Dollar hinaus, nur jeder weitere Dollar bringt weniger ([Killingsworth 2021, doi:10.1073/pnas.2016976118](https://doi.org/10.1073/pnas.2016976118)). In einer gemeinsamen Nachrechnung mit Daniel Kahneman, der das Plateau einst selbst behauptet hatte, blieb davon nur ein Rest: Es gibt die Sättigung, aber nur bei den unglücklichsten Menschen ([Killingsworth, Kahneman & Mellers 2023, doi:10.1073/pnas.2208661120](https://doi.org/10.1073/pnas.2208661120)). Für Europa findet eine Studie auf Länderebene eine Schwelle um 30.000 Euro Nettohaushaltseinkommen im Jahr, über die hinaus die Zufriedenheit nicht weiter steigt ([Röck, Tappeiner & Walde 2025, doi:10.1002/jae.70013](https://doi.org/10.1002/jae.70013)).
+
+Die beiden Befunde passen besser zusammen, als es scheint. Geld kann Wohlbefinden kaufen, das kaum Welt verbraucht: Zeit, Pflege, Bildung, Sicherheit. Mehr Geld macht also durchaus zufriedener, mehr *Verbrauch* weniger. Das ist genau die Lücke, in der Costa Rica und Spanien liegen. Und auch das Maß selbst ist umstritten. Kritiker halten den Fußabdruck für irreführend, weil der Überverbrauch fast ganz aus CO₂ besteht, das in eine gedachte Waldfläche umgerechnet wird ([Blomqvist, Brook, Ellis & Kareiva 2013, doi:10.1371/journal.pbio.1001700](https://doi.org/10.1371/journal.pbio.1001700)); dessen Erfinder halten dagegen ([Rees & Wackernagel 2013, doi:10.1371/journal.pbio.1001701](https://doi.org/10.1371/journal.pbio.1001701)).
+
+→ Eine eigene Panorama-Frage dafür gibt es noch nicht. Am nächsten liegt **[[Fortschritt#Der Maßstab ist umstritten — und wird von den Falschen gesetzt|Fortschritt — Der Maßstab ist umstritten]]**: Wer bestimmt, woran eine Gesellschaft ihren Wohlstand misst?
+
+### Weniger arbeiten fürs Klima?
+
+Abdallahs beiläufiger Satz hat eine Forschungslinie hinter sich. Für die OECD-Länder von 1970 bis 2007 fanden Kyle Knight, Eugene Rosa und Juliet Schor: Wo kürzer gearbeitet wird, sind Fußabdruck und Emissionen kleiner, zum Teil, weil weniger produziert wird, zum Teil, weil Menschen mit mehr Zeit anders leben ([Knight, Rosa & Schor 2013, doi:10.1016/j.gloenvcha.2013.02.017](https://doi.org/10.1016/j.gloenvcha.2013.02.017)). Eine Modellrechnung zeigt, dass Arbeitszeitverkürzung aus Produktivitätsgewinnen die Emissionen spürbar senkt, aber auch, dass der Effekt am Wachstum hängt ([Cieplinski, D'Alessandro & Guarnieri 2021, doi:10.1016/j.ecolecon.2020.106822](https://doi.org/10.1016/j.ecolecon.2020.106822)). Hier liegt der Haken, den Merz meint: Ein Teil der Entlastung kommt daher, dass die Wirtschaft kleiner bleibt. Ob die Menschen dafür gesünder und zufriedener leben, wie Abdallah sagt, zeigen bisher vor allem die Versuche mit der Vier-Tage-Woche, und deren Teilnehmer hatten sich selbst beworben. Unbelegt ist auch der Gegeneinwand, freie Zeit fließe einfach in neuen Konsum.
+
+→ Weiter im Panorama: **[[Das Glueck des Schmieds#Arbeiten wir zu wenig?|Arbeiten wir zu wenig?]]**, mit Bücker gegen die These vom faulen Land, Schaupps ökologischer Arbeitszeitverkürzung, Kehnels Mittelalter mit 1.600 Stunden im Jahr und Münkler, der Merz in der Sache recht gibt.
 
 ---
 

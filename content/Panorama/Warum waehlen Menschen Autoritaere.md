@@ -2,7 +2,7 @@
 title: "Warum wählen Menschen Autoritäre?"
 date: 2026-09-27
 erstellt: 2026-09-27
-aktualisiert: 2026-10-10
+aktualisiert: 2026-10-15
 description: "Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 tags:
@@ -45,6 +45,8 @@ Beim einzelnen Menschen trägt die materielle Erklärung schlechter. Das eigene 
 
 Die Nachwahlzahlen aus Sachsen-Anhalt 2026 zeigen beides zugleich. 61 Prozent der AfD-Wähler nennen ihre eigene wirtschaftliche Lage gut; 89 Prozent fürchten, ihre Rechnungen bald nicht mehr zahlen zu können, 91 Prozent sorgen sich, dass zu viele fremde Menschen kommen, 66 Prozent meinen, sie bekämen weniger als ihren gerechten Anteil ([KAS-Wahlanalyse](https://www.kas.de/documents/252038/40211523/Wahlanalyse+der+Landtagswahl+in+Sachsen-Anhalt+am+6+September+2026.pdf)).
 
+Wie das Gefühl in die Wahl kommt, hat die Emotionsforschung genauer angesehen, und die Antwort ist eindeutiger als bei der Frage nach dem Geld: Es ist die Wut, nicht die Angst. Wer in der spanischen Krise wütend war, wurde populistischer, wer Angst hatte, nicht ([Rico, Guinjoan & Anduiza 2017, doi:10.1111/spsr.12261](https://doi.org/10.1111/spsr.12261)); nach den Pariser Anschlägen 2015 trieb Wut zum Front National, Angst hielt davon ab ([Vasilopoulos et al. 2018, doi:10.1111/pops.12513](https://doi.org/10.1111/pops.12513)). Die Wut richtet sich dabei meist nach oben, und sie kommt nicht nur aus Ohnmacht: Wer sich politisch kompetent fühlt, ist eher wütend und eher populistisch ([Rico, Guinjoan & Anduiza 2019, doi:10.1111/1475-6765.12374](https://doi.org/10.1111/1475-6765.12374)). Dass Ärger nach unten weitergereicht wird, ist im Labor belegt, als verschobene Aggression ([Marcus-Newhall et al. 2000, Meta-Analyse, doi:10.1037/0022-3514.78.4.670](https://doi.org/10.1037/0022-3514.78.4.670)) und als Strafe, die nach erlittenem Unrecht doppelt so hart auf eine Minderheit fällt ([Bauer et al. 2023, doi:10.1093/ej/uead005](https://doi.org/10.1093/ej/uead005)). An Wählern gemessen ist der ganze Weg von der Angst über die Wut zum Sündenbock noch nicht.
+
 **Die Stimmen**
 
 - **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Der materielle Kern|Jana Hensel]]:** Der Rechtsruck im Osten hat einen materiellen Kern, den die Öffentlichkeit über dem Reden von Einstellungen vernachlässigt hat; die soziale Frage wird inzwischen rechts beantwortet.
@@ -56,7 +58,7 @@ Die Nachwahlzahlen aus Sachsen-Anhalt 2026 zeigen beides zugleich. 61 Prozent de
 - **[[Arlie Hochschild — Stolen Pride#Das Stolz-Paradox|Arlie Hochschild]]:** Wer seinen Stolz auf Eigenleistung baut, erlebt Jobverlust als Scham, und Trump fördert diese Scham „wie Bergleute Kohle“.
 - **[[DW Reporter — AfD und rechte Influencer in Sachsen-Anhalt#Was fehlt, ist nicht das Brot|Querfurt]]:** Die Clique hat Arbeit, die Arbeitslosigkeit hat sich mehr als halbiert; was fehlt, sind Jugendclub, Arzt und Anerkennung.
 
-<details><summary>Weitere Stimmen (11)</summary>
+<details><summary>Weitere Stimmen (12)</summary>
 
 - **[[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch#Höhere Gewalt und Zwischenräume|Eva von Redecker]]:** Manche AfD-Wähler, früher Sozialdemokraten, wollen „irgendeine Art von Stärkebeweis vom Staat“; die Kraftmeierei an den Grenzen kommt, wenn innen die Handlungsfähigkeit verloren ist, darum setzt sie auf Daseinsvorsorge statt Preisbremse.
 - **[[Erich Fromm — Die Welt lieben, SRF 1979#Identitätskrise "Wer bin ich?"|Erich Fromm]]** (1979): In der Marktgesellschaft existiert nur, was verkäuflich ist; wer keinen Profit macht, hat versagt, „und das ist das, wovor jeder Angst hat“.
@@ -69,6 +71,7 @@ Die Nachwahlzahlen aus Sachsen-Anhalt 2026 zeigen beides zugleich. 61 Prozent de
 - **[[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler#Rechtspopulisten als neue Arbeiterparteien|Philip Manow]]:** Rechtspopulisten sind die neuen Arbeiterparteien; der stärkste Prädiktor ist die Bildung.
 - **[[Colin Crouch — Postdemokratie nach den Krisen#5. Xenophober Populismus — das "Left Behind"-Gefühl|Colin Crouch]]:** Die Verlustgefühle sind real und vielfältig und nicht auf Ökonomie reduzierbar.
 - **[[Jonathan Haidt — Kann ein gespaltenes Amerika heilen#Claim 2 Karen Stenner — Autoritäre Prädisposition|Jonathan Haidt]]** (mit Karen Stenner): Eine autoritäre Neigung schläft, bis eine Bedrohung der Ordnung sie weckt.
+- **[[Martin Oetting — Faschismus stoppen mit der Wahrheit#Der Taschenspielertrick aus Angst wird Wut|Martin Oetting]]:** Die AfD nimmt die hilflose Angst vor den Übermächtigen und verwandelt sie in zupackende Wut auf die Schwachen, ein „Taschenspielertrick erster Güteklasse“.
 
 </details>
 
@@ -203,6 +206,8 @@ Kaum untersucht ist, was das Gespräch mit den Wählern selbst bewirkt, also die
 
 Zwei Fälle aus dem Jahr 2026 stehen quer zu jeder Regel. In Ungarn verlor Orbán nach sechzehn Jahren, entschieden über Schulen, Krankenhäuser und Korruption, gegen einen Überläufer aus dem eigenen Lager, der in der Migration dieselbe Linie fährt. In Mecklenburg-Vorpommern holte Manuela Schwesig mit einem sozialdemokratischen Wahlkampf der Nähe fast zur AfD auf, und zwar vor allem aus den anderen demokratischen Parteien.
 
+Ob man mit unbequemer Wahrheit zurückgewinnt, ist schwerer zu sagen als oft behauptet. Brandts Sieg von 1972 gilt als Beleg, doch für die Ostverträge waren laut Allensbach schon im Januar 1972 58 Prozent ([Welt](https://www.welt.de/print/welt_kompakt/article137223934/Ostvertraege.html)); er gewann mit einer Mehrheit, die er sich in drei Jahren erarbeitet hatte. Unpopuläre Reformen werden seltener bestraft als befürchtet, in 21 OECD-Ländern senkten sie die Wiederwahlchancen insgesamt nicht ([Buti et al. 2009, doi:10.1111/j.1468-0327.2009.00237.x](https://doi.org/10.1111/j.1468-0327.2009.00237.x)), weltweit kosteten sie vor allem kurz vor Wahlen und im Abschwung ([Alesina et al. 2023, doi:10.1093/jeea/jvad075](https://doi.org/10.1093/jeea/jvad075)). Wo Lasten aber auf wenige fallen, wird vor Ort bestraft: nach dem Heizungsgesetz 2023 in Bayern und Hessen, wo viele Haushalte Kosten fürchteten, mit Gewinnen für Rechtsaußen ([Kistinger et al. 2026, doi:10.1007/s10640-026-01092-3](https://doi.org/10.1007/s10640-026-01092-3)), in Ontario bei neuen Windrädern ([Stokes 2016, doi:10.1111/ajps.12220](https://doi.org/10.1111/ajps.12220)). Ob ehrlich ausgesprochene Krisenwahrheit Vertrauen stärkt, ist kaum untersucht.
+
 **Die Stimmen**
 
 - **[[StreitClub — Extremismus und der Schutz der Demokratie#Zweites Instrument die Brandmauer|Mely Kazim]]:** Die Brandmauer reißt einen Graben; man müsse das Feuer auf der anderen Seite löschen. Die FPÖ liegt trotz Ibiza bei rund 40 Prozent.
@@ -214,7 +219,7 @@ Zwei Fälle aus dem Jahr 2026 stehen quer zu jeder Regel. In Ungarn verlor Orbá
 - **[[Tom Krebs — Wege aus der Krise und neoliberale Maerchen#Drei Schübe für die AfD|Tom Krebs]]:** Die AfD wuchs in drei Schüben, jeder nach einem wirtschaftspolitischen Versäumnis; wer sie klein machen will, muss Strom und Mieten billiger machen, notfalls über öffentliches Eigentum.
 - **[[Susan Neiman — Nennen wir es boese#Was in New York anders läuft|Susan Neiman]]:** „Mehr Netto vom Brutto“ feuert niemanden an; Mamdani gewann, weil er Bezahlbarkeit als Gerechtigkeit erzählte und bei Gaza nicht nachgab, und wer einem Prinzip gegen den eigenen Vorteil treu bleibt, dem traut man auch die anderen zu.
 
-<details><summary>Weitere Stimmen (24)</summary>
+<details><summary>Weitere Stimmen (25)</summary>
 
 - **[[phoenix — Orbán abgewählt#Warum ist Orbán so deutlich gescheitert?|Gawrich zu Ungarn]]:** Orbáns Feindbilder zogen nicht mehr, entschieden haben Bildung, Gesundheit, Korruption und ein Graswurzel-Wahlkampf in 700 Orten.
 - **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Schwesig, die Ausnahme von der Regel|Jana Hensel]]:** Schwesig ist keine Ausnahme, sondern prototypisch sozialdemokratisch; Kormbaki hält dagegen, ihr Playbook tauge nicht als Blaupause.
@@ -242,6 +247,7 @@ Zwei Fälle aus dem Jahr 2026 stehen quer zu jeder Regel. In Ungarn verlor Orbá
 - **[[Carsten Brosda — Naechste Demokratie#Concordia mit dem Hobel|Carsten Brosda]]** (zum Wort): Gerechtigkeit hat etwas Transaktionales; er setzt auf Solidarität, „manche Dinge gehören sich“.
 - **[[Gilda Sahebi und Arne Semsrott — GCA 35 Selbstzerstörung der Sozialdemokratie#Das Erbe des Dritten Weges Ideologie als Schimpfwort|Tarik Abou-Chadi]]:** Seit Blair und Schröder betreiben Sozialdemokraten Valenzpolitik statt Vision; die Sprache der Klasse haben die Rechten übernommen.
 - **[[Der Entscheidende Punkt — Nach den Landtagswahlen#Die Hoffnungspartei|Marina Kormbaki]]:** Die AfD ist zur „Hoffnungspartei“ geworden; bei Siegmunds „Zukunft“ jubelt der Platz, die Regierenden klingen verzagt.
+- **[[Martin Oetting — Faschismus stoppen mit der Wahrheit#Gewinnt man mit der Wahrheit?|Martin Oetting]]:** Mit Ehrlichkeit und Mut kann man Wahlen gewinnen, wie Brandt 1972; Habeck habe nur schlecht vermittelt, und für die, die Wahrheit suchen, gründet er System Delta.
 
 </details>
 
@@ -314,6 +320,7 @@ Damit ist auch die Frage nach dem Kuchen berührt. Nullsummendenken, also das Ge
 | 10.10.2026 | [[Isabella Weber — Antifaschistische Wirtschaftspolitik#Nachbesprechung|Isabella Weber — Antifaschistische Wirtschaftspolitik]] | Materieller Kern: Marktmiete und AfD-Neigung (Abou-Chadi, Cohen & Kurer 2025; Held & Patana 2023), Daseinsvorsorge (FES/ILS 2025), Selbstwert und Gruppe (Gidron & Hall 2020, Golec de Zavala 2019), Fallhöhe (Engler & Weisstanner 2021); Weber und Fromm als Stimmen |
 | 10.10.2026 | [[Oschmann und Kowalczuk — Kraenkung oder Freiheitsschock#Nachbesprechung|Oschmann und Kowalczuk — Kränkung oder Freiheitsschock]] | Warum im Osten doppelt so viel? Familiäre Weitergabe (Avdeenko & Siedler 2017), Arbeitslosigkeit der Eltern (Siedler 2011), DDR-Prägung bei den Älteren (Stallbaum 2024); Oschmann und Kowalczuk als Stimmen |
 | 10.10.2026 | [[Susan Neiman — Nennen wir es boese#Nachbesprechung\|Susan Neiman — Nennen wir es böse]] | Was holt Wähler zurück? Die Ebene der Sprache: moralische Rhetorik mobilisiert die Eigenen (Jung 2020), verbreitet sich, rechts stärker (Brady 2019/2025), überzeugt andere nur in deren Werten (Feinberg & Willer 2019), Ermahnung schwächt (Xu 2026); Heuchelei gegen Authentizität (Jordan 2017, Hahl 2018), Konsistenz kaum belohnt (Doherty 2016); neue Reibung Neiman/Winkelmann/Brosda |
+| 15.10.2026 | [[Martin Oetting — Faschismus stoppen mit der Wahrheit#Nachbesprechung|Martin Oetting — Faschismus stoppen mit der Wahrheit]] | Materieller Kern: Wut statt Angst (Rico et al. 2017/2019, Vasilopoulos et al. 2018), verschobene Aggression (Marcus-Newhall et al. 2000, Bauer et al. 2023) · Was holt Wähler zurück? Brandt 1972 schon mehrheitsfähig (Allensbach 58 %), Reformstrafe bedingt (Buti 2009, Alesina 2023), Heizungsgesetz (Kistinger et al. 2026), Stokes 2016 |
 
 ---
 
