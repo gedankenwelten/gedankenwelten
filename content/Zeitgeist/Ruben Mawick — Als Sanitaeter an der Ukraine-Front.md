@@ -178,14 +178,20 @@ Bei der Frage, ob Russland Deutschland angreift, wird er differenzierter. Er hä
 
 ---
 
-## Faktencheck
+## Ruben hat mitgelesen
 
-> [!note] Ruben hat mitgelesen — korrigiert am 13.10.2026
-> Am 12.10.2026 hat Ruben Mawick diese Note in seiner Instagram-Story geteilt. Gezeigt hat er das Titelbild und eine der Fragen aus dem Text: *„Wenn jemand sein eigenes Leben ehrlich nicht höher gewichtet als das eines Fremden — ist das die höchste Form von Mitgefühl, oder eine Form, sich selbst zu verlieren?“* Dazu schrieb er:
->
+Am 12.10.2026 hat Ruben Mawick diese Note in seiner Instagram-Story geteilt. Gezeigt hat er das Titelbild und eine der Fragen aus dem Text: *„Wenn jemand sein eigenes Leben ehrlich nicht höher gewichtet als das eines Fremden — ist das die höchste Form von Mitgefühl, oder eine Form, sich selbst zu verlieren?“* Dazu schrieb er:
+
 > *„Hab diesen Artikel random gefunden, über mein Gespräch mit @vollmarcant. Es ist unglaublich gut geschrieben und erkennt meinen inneren Konflikt, meine Art der Kommunikation und meine moralischen Standpunkte. 1,2 kleinere Sachen sind aber falsch. Nicht so schlimm.“*
->
-> Mit den kleineren Sachen hatte er recht. Wir haben ihm eine Position des Gastgebers zugeschrieben: Die Kritik an der ukrainischen Zwangsrekrutierung stammt von Marcant, Ruben hält dagegen. Und unser Faktencheck hatte seine Aussage zu Indien als „falsch“ markiert, obwohl sie im Kern stimmt. Beides ist berichtigt, dazu Kleineres (Sitzplatz, Zahl der Einsätze, „Combat Medic“) und in der DenkerVita Emma Igual, die dort unter den Toten fehlte. Danke, Ruben, fürs Lesen, fürs Teilen und fürs indirekte Korrigieren. Dass du dich in dieser Note wiedererkennst, hat uns sehr gefreut.
+
+> [!note] Korrigiert am 13.10.2026
+> Mit den kleineren Sachen hatte er recht. Wir haben ihm eine Position des Gastgebers zugeschrieben: Die Kritik an der ukrainischen Zwangsrekrutierung stammt von Marcant, Ruben hält dagegen. Und unser Faktencheck hatte seine Aussage zu Indien als „falsch“ markiert, obwohl sie im Kern stimmt. Beides ist berichtigt, dazu Kleineres (Sitzplatz, Zahl der Einsätze, „Combat Medic“) und in der DenkerVita Emma Igual, die dort unter den Toten fehlte.
+
+Danke, Ruben, fürs Lesen, fürs Teilen und fürs indirekte Korrigieren. Dass du dich in dieser Note wiedererkennst, hat uns sehr gefreut.
+
+---
+
+## Faktencheck
 
 > [!success] Bestätigt — Gezielte Angriffe auf medizinisches Personal
 > Russische Kräfte greifen medizinisches Personal und Einrichtungen in der Ukraine an — die WHO dokumentiert das in nie dagewesenem Ausmaß. Bis Mai 2023 verifizierte sie über 1.000 Angriffe auf das Gesundheitswesen (101 Tote), bis April 2024 1.682 Angriffe (128 Tote), bis Mai 2026 über 3.000. Sanitäts- und Transportpersonal trägt ein dreifach erhöhtes Risiko. Mawicks Schilderung von Cherson als gefährlichster Zone deckt sich mit dem Muster; die exakte Formel „alles vogelfrei“ ist seine Frontperspektive, nicht eine völkerrechtliche Kategorie — der Kern (systematische, völkerrechtswidrige Gefährdung von Sanitätern) ist belegt.
