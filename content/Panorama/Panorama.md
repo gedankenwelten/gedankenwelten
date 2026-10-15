@@ -50,6 +50,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Wie werden gewöhnliche Menschen zu Tätern? *(wachsend)* | [[Wie werden gewoehnliche Menschen zu Taetern]] | ~45 |
 | Wer bestimmt, wie erinnert wird? *(wachsend)* | [[Wer bestimmt wie erinnert wird]] | ~20 |
 | Was ist Wohlstand? *(wachsend)* | [[Was ist Wohlstand]] | ~46 |
+| Wer macht die Meinung? *(wachsend)* | [[Wer macht die Meinung]] | ~44 |
 | Fortschritt | [[Fortschritt]] | 29 |
 | Neoliberalismus — Was zählt | [[Neoliberalismus — Was zaehlt]] | 13 |
 | Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |

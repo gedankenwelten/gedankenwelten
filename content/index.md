@@ -80,6 +80,10 @@ Die Gedankenwelten (luc)
 >
 > Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
 
+> **15.10.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
+>
+> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Vier offene Fragen zu Redaktionen, Besitzern, Plattformen und Staaten, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
 > **15.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
@@ -88,11 +92,7 @@ Die Gedankenwelten (luc)
 >
 > Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
 
-> **15.10.** — [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
->
-> Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
-
-> → *12 weitere in* [[Panorama]]
+> → *13 weitere in* [[Panorama]]
 
 ### Gedanken
 

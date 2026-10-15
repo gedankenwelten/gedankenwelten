@@ -276,7 +276,7 @@ Auch für den Punkt, an dem sich eine solche Kritik abdichtet, hat die Forschung
 
 Und die Leser? In der Mainzer Langzeitstudie vertrauten Ende 2024 47 Prozent der Deutschen den Medien, wenn es um wichtige Dinge geht, 20 Prozent misstrauten ihnen. Jeder Fünfte meinte, die Bevölkerung werde systematisch belogen; zwei Jahre zuvor waren es 14 Prozent ([Mainzer Langzeitstudie Medienvertrauen 2024](https://medienvertrauen.uni-mainz.de/files/2025/05/Langzeitstudie-MV-2024.pdf)). Eine allgemeine Vertrauenskrise sehen die Autoren nicht, wohl aber einen wachsenden harten Kern. Dort hinein wirken Mausfelds Vorträge, mit Millionen Abrufen. Seine Frage „Wer will mich wozu verpflichten?“ ist dort gut aufgehoben, sein Satz, die Gefährlichkeit einer Gefahr spiele keine Rolle, weniger.
 
-→ Verwandt: **[[Rechte Medien — Das Geschaeft mit der Luege#Der Gleichmut-Spiegel|Rechte Medien — der Gleichmut-Spiegel]]**, mit der Trennlinie zwischen Fehler und Methode.
+→ Weiter im Panorama: **[[Wer macht die Meinung#Lenkt jemand, oder lenkt die Routine?|Lenkt jemand, oder lenkt die Routine?]]** und **[[Wer macht die Meinung#Wann wird Misstrauen blind?|Wann wird Misstrauen blind?]]**, mit Besitz und Plattformen, der Wirkung staatlicher Propaganda und der Frage, wer sich korrigiert.
 
 ---
 
