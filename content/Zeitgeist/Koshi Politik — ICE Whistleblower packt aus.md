@@ -100,11 +100,11 @@ Koshi: Klassische Trump-Wähler auf dem Land — die jetzt zwei Stunden zum näc
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Buffalo — Tod eines Flüchtlings]]
+### → [[Zeitgeist/Koshi Politik — ICE Buffalo — Tod eines Flüchtlings]]
 
 zwei Tage später: konkreter Fall, der zeigt, wohin fehlende Ausbildung führt
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]]
+### → [[Zeitgeist/Koshi Politik — ICE-Anhörung im Kongress]]
 
 dieselbe Anhörungsperiode: Todd Lines' Aussagen
 

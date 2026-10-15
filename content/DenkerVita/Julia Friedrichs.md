@@ -105,14 +105,13 @@ Ihre zentrale Kritik ist **nicht anti-kapitalistisch**, sondern **kapitalismusko
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier placeholder für Struktur)*
-
-- **Marlene Engelhorn** — Erbin, die die freiwillige Alternative zu Friedrichs' Kritik verkörpert; relationale Kritik: "Geld arbeitet nicht, Menschen arbeiten für Geld"
-- **Kevin Kühnert** — Progressive Gegenstimme zur Vermögenskonzentration aus SPD-Perspektive; Forderung nach Vermögensbesteurung analog Einkommen
-- **Fabian Pfeffer** — Soziologe, der die Forschungsgrundlagen zu Vermögensungleichheit und ihrer demokratischen Erosion liefert
-- **Evan Osnos** — Amerikani­scher Journalist, der die Psychologie der Ultrareichen von außen seziert; Friedrichs tut es von innen
-- **Martyna Linartas** — Politikwissenschaftlerin, die Friedrichs' empirische Beobachtungen in akademische Theorie (Erbengesellschaft, Grunderbe) übersetzt
-- **Heiner Flassbeck** — Ökonom, der die makroökonomische Mechanik erklärt, warum Vermögen automatisch schneller wächst als Arbeitseinkommen
+- [[DenkerVita/Marlene Engelhorn]] — Mit ihr saß Friedrichs im Studio Bonn auf dem Podium: die Erbin, die ihr Vermögen abgibt und sagt, Geld arbeite nicht, Menschen arbeiteten für das Geld anderer. Friedrichs warnt davor, „die Reichen" als einen Block zu sehen, und Engelhorn ist der lebende Beleg dafür, auch wenn sie selbst sagt, sie sitze nur ihres Reichtums wegen auf dem Podium.
+- [[DenkerVita/Fabian Pfeffer]] — Pfeffer zeigt, dass in Regionen mit stark konzentriertem Vermögen das Engagement der breiten Bevölkerung sinkt; Friedrichs ergänzt die Abschottung oben, ein Umfeld, in dem niemand mehr widerspricht. Zusammen ergibt das eine doppelte Abkopplung, die Spitze von der Gesellschaft und die Breite vom Gemeinsinn.
+- [[DenkerVita/Kevin Kuehnert]] — Beide sehen, dass die Debatte Einkommen und Vermögen verwechselt, und Kühnert will Großvermögen eine Rendite unterstellen und sie wie Einkommen besteuern. Die Reibung liegt im Optimismus: Kühnert meint, es fehle nur der politische Wille, Friedrichs hat erlebt, wie fest Reiche in ihrer Weltsicht der Alternativlosigkeit sitzen.
+- [[DenkerVita/Martyna Linartas]] — Linartas liefert die politikwissenschaftliche Grundlage zu dem, was Friedrichs als Reporterin sieht: Vermögen statt Einkommen als eigentliche Ungleichheit, Erbschaften als Hauptquelle großer Vermögen, Dynastien als Demokratieproblem. Wo Friedrichs beschreibt, schlägt Linartas mit dem Grunderbe eine Antwort vor.
+- [[DenkerVita/Michael Hartmann]] — Hartmann dämpft die Hoffnung auf die Einsicht der Vermögenden mit einer Zahl: In der Wirtschaftselite lehnten Großbürgerkinder höhere Steuern auf Vermögen und Erbschaften im Verhältnis neun zu zwei ab. Das stützt Friedrichs' Bild einer abgeschotteten Welt und spricht gegen die Erwartung, Engelhorns Weg könne Schule machen.
+- [[DenkerVita/Daniel Markovits]] — Markovits' „Income Defense Industry" aus Kanzleien und Beratern ist die Maschine, die Friedrichs auf Konferenzen für 900 Dollar die Stunde arbeiten sah. Er beschreibt aber eine amerikanische Elite, die ihr Privileg über teure Bildung weitergibt; in Deutschland, wo drei Viertel der Milliardäre Erben sind, genügt das Erbe. Im Salon der Neuen Zwanziger stand ihr frühes Buch *Gestatten: Elite* als deutsche Perspektive neben seinem.
+- [[DenkerVita/Evan Osnos]] — Osnos beschreibt bei den amerikanischen Ultrareichen die „principal"-Struktur, ein Umfeld, das jeden Stein aus dem Weg räumt und nur noch bestätigt. Friedrichs findet dieselbe Dynamik in Deutschland und besteht darauf, dass sie aus der Lage folgt und nicht aus dem Charakter.
 
 ---
 

@@ -68,7 +68,7 @@ Der Kanal hat über 1,5 Millionen Abonnenten und verdeutlicht, dass Infrastruktu
 | Titel | Kanal | Beschreibung |
 |---|---|---|
 | [Your Monthly Dose of Good News \| April](https://www.youtube.com/watch?v=o-HCL_toDGc) | Good News | Eisbären-Anpassung in Svalbard, Nordsee-Windkraft, Medicaid-Schuldenabbau (North Carolina), Blei-Reduktion in der US-Bevölkerung, Ocean Cleanup |
-| [Good News \| May](https://www.youtube.com/watch?v=...) | Good News | Monatliche aktuelle Zusammenfassung |
+| [Your Monthly Dose of Good News \| May](https://www.youtube.com/watch?v=EV-_E8_DI68) | Good News | Monatliche aktuelle Zusammenfassung |
 | [MegaBuilds Playlist](https://www.youtube.com/@MegaBuildsYT) | MegaBuilds | Dokumentationen von Infrastruktur-Megaprojekten weltweit |
 
 *(YouTube-Links für aktuelle Videos direkt auf den Kanälen prüfen)*
@@ -90,7 +90,13 @@ Nicht: Ideologische Schärfe, sondern pragmatische Problemorientierung.
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Maren Urner]] — Urner liefert das Fundament des Formats: Negativitätsbias, Angst-Journalismus, konstruktiver Journalismus als Gegenentwurf. Ihr Kernbeispiel, ein Erfolg, der aus einem Nicht-Ereignis besteht und darum in keiner Nachricht auftaucht, kehrt in Leppins HPV-Meldung wieder. Die unbequeme Frage teilen beide: ob ein Kanal, der nur Gutes zeigt, dasselbe Auswahlproblem hat wie einer, der nur Schlechtes zeigt.
+- [[DenkerVita/Mark Benecke]] — Das Gegengewicht, das in fast jeder Ausgabe mitläuft. Benecke trägt die ungeschönten Messreihen zusammen, Leppin die Lichtblicke; zusammen gelesen sagen beide, dass die Lage auf Handeln reagiert und darum weder Panik noch Entwarnung ehrlich ist. An der Großen Grünen Mauer treffen sie sich genau: Aufforstung wirkt, und sie braucht Jahrzehnte.
+- [[DenkerVita/Claudia Kemfert]] — Kemfert rechnet die fossile Abhängigkeit als Sicherheitsfrage durch und nennt die Erneuerbaren Friedenstechnologien. Leppins Meldungen liefern ihr die Belege aus dem Kalender: das Nordsee-Netz als Antwort auf Russlands Überfall, ein spanischer Strompreis, der dem Gaspreis nicht mehr folgt.
+- [[DenkerVita/Jan Hegenberg]] und [[DenkerVita/Tim Meyer]] — Ihr Blick auf Chinas Energiewende ist die Vertiefung zu Leppins China-Meldungen, vom Pekinger Feinstaub bis zu den Erneuerbaren, die erstmals das ganze Nachfragewachstum decken. Er trägt einen unbequemen Kern mit hinein: Der größte Klimafortschritt der Gegenwart entsteht aus Marktmacht und Standortpolitik, die Tugend ist Beifang. Eine gute Nachricht braucht keine gute Absicht.
+- [[DenkerVita/Frauke Fischer]] — Fischers „Rechnung, die nie gestellt wird" bekommt in Leppins Ausgaben ihre Fälle, etwa ein Pilznetz unter dem Grasland, das den Gegenwert von elf Prozent der jährlichen fossilen Emissionen bindet, in keiner Bilanz steht und beim Pflügen zerreißt. Zugleich bringt sie die Warnung mit, die zur Freude über neue Umweltdaten gehört: Dieselben Messnetze lassen sich gegen die Natur wenden.
+- [[Zeitgeist/Annette Kehnel — Vom Mittelalter für die Zukunft lernen|Annette Kehnel]] (Note, keine DenkerVita) — Mehrere Ausgaben bestätigen ihre Commons-These. Der Guineawurm verschwindet ohne Medikament und Impfstoff, allein durch Wasserfilter und Aufklärung in den Dörfern, und Waldschutz gelingt dort, wo er mit Gesundheitsversorgung und Schule für die Menschen vor Ort verbunden ist. Gemeinsam rehabilitieren beide einen Fortschritt, der ohne Hightech auskommt.
+- [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer]] (Note, keine DenkerVita) — Die Gegenkurve. Wo Leppin die sinkende US-Mordrate meldet, legt Heitmeyer für Deutschland Kurven aus siebzehn Bereichen vor, die nach oben zeigen, und nennt den Verweis auf gestiegene Anzeigebereitschaft eine „Beruhigungsformel". Zwischen beiden steht die Frage, die jede Statistik begleitet: Zeigt die Kurve die Welt oder das Zählen?
 
 ## Gedankenwelten-Notes
 

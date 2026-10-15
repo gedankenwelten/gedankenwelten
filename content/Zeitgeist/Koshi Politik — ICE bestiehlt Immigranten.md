@@ -78,15 +78,15 @@ Koshi beschreibt die Konsequenz: Wer seine Green Card verloren hat, traut sich n
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — DHS-Shutdown: Keine Einigung]]
+### → [[Zeitgeist/Koshi Politik — DHS-Shutdown: Keine Einigung]]
 
 der Shutdown im Kontext, der dieses Video produziert
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Whistleblower packt aus]]
+### → [[Zeitgeist/Koshi Politik — ICE Whistleblower packt aus]]
 
 strukturelle Grundlage: Behörde ohne Rechenschaftspflicht
 
-- [[Zeitgeist/Trump DHS-Shutdown und ICE an Flughäfen]] → [[Zeitgeist/Koshi Politik/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]] — Endpunkt der Serie: Trump schickt ICE an Flughäfen
+- [[Zeitgeist/Trump DHS-Shutdown und ICE an Flughäfen]] → [[Zeitgeist/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]] — Endpunkt der Serie: Trump schickt ICE an Flughäfen
 
 ### → [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 

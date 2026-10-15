@@ -121,7 +121,7 @@ Das ist keine moralische Warnung, sondern eine neurologische: Gehirnschäden sin
 
 > *„Tiere wollen einen positiven Dopamin-Belohnungsfehler haben."*
 
-Das System ist auf Maximierung ausgelegt, nicht auf Sättigung. Evolutionär macht das Sinn: In einer Welt der Knappheit sollte man nie aufhören, nach mehr zu suchen. „Vor zwei Jahren war die Mehrheit der Menschheit hungrig", sagt Schultz — die Individuen, die den Mechanismus *nicht* hatten, sind gestorben. Was als Konsumismus kritisiert wird, ist in Wahrheit ein steinzeitliches Überlebensprogramm, das im Wohlstand nicht abschaltet.
+Das System ist auf Maximierung ausgelegt, nicht auf Sättigung. Evolutionär macht das Sinn: In einer Welt der Knappheit sollte man nie aufhören, nach mehr zu suchen. „Vor zweihundert Jahren war die Mehrheit der Menschheit hungrig", sagt Schultz — die Individuen, die den Mechanismus *nicht* hatten, sind gestorben. Was als Konsumismus kritisiert wird, ist in Wahrheit ein steinzeitliches Überlebensprogramm, das im Wohlstand nicht abschaltet.
 
 Die Konsequenz: Kein Konsum kann dauerhaft befriedigen, weil Befriedigung nicht das Ziel des Systems ist. Das Ziel ist die *Erwartung der Überraschung* — nicht die Belohnung selbst.
 

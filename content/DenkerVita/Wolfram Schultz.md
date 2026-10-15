@@ -90,16 +90,16 @@ Schultz ist außerdem Mitglied zahlreicher wissenschaftlicher Gesellschaften und
 
 ## Akademisches Gewicht
 
-- **h-Index: 107** (Stand Mai 2026, Google Scholar) — eine der höchsten Zitationsraten in den Neurowissenschaften
+- **h-Index: über 100** (Google Scholar) — eine der höchsten Zitationsraten in den Neurowissenschaften
 - **Über 600 Publikationen** — konsistente, hochzitierte Forschungskarriere über vier Jahrzehnte
 
 ## Kernthesen
 
 1. **Dopamin signalisiert Überraschung, nicht Vergnügen** — Das Gehirn nutzt Dopamin als Trainingssignal für Vorhersagemodelle, nicht als Glücksbotenstoff
 
-2. **Der Reward Prediction Error ist der stärkste Lernmechanismus der Evolution** — Lernen ist nicht linear, sondern exponentiell beschleunigt durch Diskrepanzen zwischen Erwartung und Realität
+2. **Der Reward Prediction Error ist der stärkste Lernmechanismus der Evolution** — gelernt wird aus der Abweichung zwischen Erwartung und Ergebnis, nicht aus der Belohnung selbst
 
-3. **Belohnung wird relativ zu Erwartung berechnet** — Ein Euro ist *unerwarteterweise* befriedigender als tausend Euro, die man erwartet hat
+3. **Belohnung wird relativ zu Erwartung berechnet** — eine kleine *unerwartete* Belohnung löst eine stärkere Dopamin-Antwort aus als eine große, die fest erwartet wurde
 
 4. **Dieses Prinzip gilt universell** — Von Primaten über Ratten bis zu Computersimulationen (Temporal Difference Learning); ein evolutionär konserviertes System
 
@@ -115,22 +115,14 @@ Schultz ist Naturwissenschaftler ohne explizite politische Positionierung. Seine
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Tobias Rüther|Tobias Rüther]] — Die Klinik zum Mechanismus. Was Schultz als Vorhersagefehler am einzelnen Neuron misst, behandelt der Suchtmediziner am Krankenbett: Seine Bilanz „Faktor 2 gegen Faktor 1000“ und die Toleranzspirale sind Schultz' verschobene Referenzachse, nach der die normale Welt flach wirkt.
+- [[DenkerVita/Chris van Tulleken|Chris van Tulleken]] — Van Tulleken nennt das Gehirn eine Vorhersagemaschine: Süßstoff kündigt Zucker an, der nie kommt, ein Signal ohne die Sache. Dazwischen liegt eine fruchtbare Reibung. Schultz beschreibt ein System, das auf Maximierung gebaut ist und nicht auf Sättigung; van Tulleken einen Körper, der seine Aufnahme so genau regelt wie Temperatur oder Blutdruck, solange er echtes Essen bekommt.
+- [[DenkerVita/Michael Moss|Michael Moss]] — Moss zeigt, wie die Industrie das Belohnungssystem vermisst: Howard Moskowitz berechnet aus Tausenden Verkostungen den *bliss point*. Schultz erklärt, warum sie dort so zuverlässig landet, denn ein System, das in der Knappheit entstand, schaltet im Überfluss nicht ab. Moss' unheimlichster Befund, dass es für Fett keinen Glückspunkt gibt, passt zu dieser Maximierungslogik.
+- [[DenkerVita/Giulia Enders|Giulia Enders]] — Beide landen beim selben Rat: nicht das Dopamin fasten, sondern die Reize. Schultz sagt nüchtern, den Dopaminspiegel könne man nicht verändern; Enders beschreibt Lockzellen, die bei Überreizung ihre Schwelle heben wie Hornhaut, und empfiehlt Langeweile, damit ein Apfel wieder belohnt. Wo Schultz den Mechanismus zeigt, fragt sie, wie man mit ihm lebt.
+- [[DenkerVita/Kerstin Paschke|Kerstin Paschke]] — Die Jugendpsychiaterin beschreibt, wie Plattformen mit variabler Belohnung binden: Das nächste Video könnte das sein, das alle teilen. Schultz liefert die Grammatik, unvorhersagbare Belohnung erzeugt die stärksten Vorhersagefehler; Paschke den Befund, dass Jugendliche dafür besonders empfänglich sind, weil ihr Belohnungssystem früher reift als die Kontrolle darüber.
+- [[DenkerVita/Alena Buyx|Alena Buyx]] — Buyx erklärt die Aufregungsökonomie über das dopaminerge System, „bei der Suche angetriggert, nicht durch das Ergebnis“, und markiert das selbst als Holzhammer. Schultz präzisiert und verschärft: Es ist der Vorhersagefehler, und ein positiver Fehler hebt die Erwartung, sodass jede Empörungsspirale eskalieren oder erlöschen muss. Buyx' Hoffnung auf eine kollektive Erschöpfung bekommt damit einen neurobiologischen Boden.
+- [[DenkerVita/Erich Fromm|Erich Fromm]] — Derselbe Befund, zwei Schuldige. Für Schultz ist das Immer-mehr-Wollen ein steinzeitliches Überlebensprogramm, das im Wohlstand nicht abschaltet. Fromm sah in *Überdruss und Überfluss* den Menschen als Gefangenen seiner Gier, gemacht von einer Industrielogik, die neue Bedürfnisse erfindet. Ist es die Evolution, oder die Ökonomie, die sie bewirtschaftet?
 
 ## Gedankenwelten-Notes
 
-Diese DenkerVita sollte verlinkt sein von:
-- Notes zum Thema Dopamin und Belohnungssystem
-- Notes zu Lernmechanismen (besonders Prediction Error)
-- Notes zu Neurowissenschaft und Verhaltensökonomie
-- "Neue Akropolis — Der Mensch ist besser als sein Ruf" (erwähnt Dopamin als Lernturbo)
-- "Albert Moukheiber — Mein Hirn und ich" (Predictive Processing Framework)
-- "Rebecca Boehme — So trickst du dein Gehirn aus" (Neurowissenschaftliche Interventionen)
-
----
-
-## Persönlicher Kontext zum Podcast
-
-Wolfram Schultz ist die weltführende Autorität zum Verständnis, wie Dopamin *wirklich* funktioniert — nicht als Glückshormon, sondern als Überraschungs- und Lernmechanismus. Ein Podcast "Mehr als ein Glückshormon" von ihm wird deshalb sofort zu einer Dekonstruktion des populären Mythos: Schultz wird zeigen, *warum* die vereinfachte Vorstellung vom "Glückshormon" neurobiologisch falsch ist und was die Realität des Systems so viel interessanter macht.
-
-Seine Art, komplexe Neurowissenschaft in Konzepten wie "Prediction Error" zu vermitteln, ist präzise, theoriengeleitet und empirisch fundiert — ideal für ein wissenschaftliches Podcast-Format.
+- [[Geistesblitz/Wolfram Schultz — Dopamin mehr als ein Glueckshormon|Wolfram Schultz — Dopamin: Mehr als ein Glückshormon]] — Geistesblitz-Note aus dem Podcast von *bild der wissenschaft*: Dopamin als Lernsignal statt Glückshormon, Dopamin-Fasten, Sucht als Kurzschluss, das evolutionäre Immer-mehr-Wollen

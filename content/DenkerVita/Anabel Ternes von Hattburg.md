@@ -82,8 +82,16 @@ Ternès lässt sich nicht einfach auf dem klassischen Links-Rechts-Spektrum vero
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+**[[DenkerVita/Michael Hartmann|Michael Hartmann]]** — Die direkte Gegenstimme im NANO Talk. Für Ternès ist Elite Können im Dienst des Gemeinwohls, für Hartmann ist Elite immer Macht, reproduziert über Herkunft, nicht Vernetzung und nicht Verantwortung. Ternès hat eine Antwort darauf, wie Elite sein sollte, Hartmann eine darauf, wie Macht ist. Ohne die zweite, so die Note, wird die erste zur Selbsttäuschung.
+
+**[[DenkerVita/Kolja Moeller|Kolja Möller]]** — Der dritte Elitebegriff am Tisch: Vernetzung über die Sektoren hinweg und gesamtgesellschaftlicher Führungsanspruch. Mit Ternès teilt er den Glauben an Gegenmodelle, Narrative und europäische Regeln gegen die Tech-Oligarchie; beide sind selbst Alumni der Studienstiftung, deren Anspruch Hartmann von außen ernüchtert.
+
+**[[DenkerVita/Alena Buyx|Alena Buyx]]** — Die Moderatorin, die den wunden Punkt benennt. Ternès' normative Definition sei eher Wunsch als Beschreibung der Wirklichkeit, und Ternès räumt das ein. Ein Jahr später liefert Buyx selbst ein Argument, das Ternès' Gemeinwohl-Bindung von unten stützt: Niemand, auch keine Elite, kann eine eigene Luftversorgung haben.
+
+**[[DenkerVita/Jok Madut Jok|Jok Madut Jok]]** — Was im deutschen Talk als Begriffsstreit verhandelt wird, seziert Jok am Südsudan als Staatskatastrophe. Der Elitenpakt von 2018 ist Macht, die sich selbst befriedet, ohne Verantwortung für die Beherrschten. Ternès' Gegenentwurf markiert genau die Leerstelle, an der dieser Staat zerfällt.
+
+**[[DenkerVita/Evan Osnos|Evan Osnos]]** — Zwei psychologische Blicke auf die Mächtigen mit entgegengesetzter Hoffnung. Ternès erklärt den Sog der Elite als Suche nach einem sicheren Hafen und setzt auf Vorbilder wie den Patagonia-Gründer. Osnos zeigt, wie die Struktur des Extremreichtums Unterwürfigkeit im Umfeld erzeugt und Verantwortungslosigkeit zum Normalzustand macht. Bei ihm ist sie Systemlogik, keine Charakterfrage, und dagegen hilft ein gutes Vorbild wenig.
 
 ## Gedankenwelten-Notes
 
-- [[Zeitgeist/NANO Talk — Eliten Machtmissbrauch und Verantwortung]] — Podiumsdiskussion mit Ternès zu Elite, Ethik und Systemverantwortung
+- [[Zeitgeist/NANO Talk - Eliten Machtmissbrauch und Verantwortung|NANO Talk — Eliten zwischen Machtmissbrauch und Verantwortung]] — Podiumsdiskussion mit Ternès zu Elite, Ethik und Systemverantwortung

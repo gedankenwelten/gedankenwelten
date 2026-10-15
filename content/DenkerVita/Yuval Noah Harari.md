@@ -156,7 +156,14 @@ verteidigt, damit die Ideen des Buches überhaupt russische Leser erreichten.
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/S.N. Goenka|S.N. Goenka]] — Sein Lehrer seit dem ersten Kurs im Jahr 2000, *Homo Deus* ist ihm gewidmet. Hararis Verdacht aus Davos, das Wesentliche am Menschen sitze dort, „wo die Sprache aufhört“, in nichtsprachlichen Gefühlen und verkörperter Weisheit, ist Goenkas wortlose Beobachtung der Empfindungen, auf die KI-Frage angewandt.
+- [[DenkerVita/Carel van Schaik|Carel van Schaik]] · [[DenkerVita/Kai Michel|Kai Michel]] — Der ausdrückliche Gegenentwurf. Van Schaik wirft dem *Homo Deus* ein hobbesianisches Menschenbild vor und ein evolutionistisches „Macht, Macht, Macht“ mit „Autobahnblick“, wo es doch überall Abzweigungen gebe, an denen man innehalten kann. Hararis ARTE-Gespräch zeigt allerdings ein erdigeres Menschenbild, als der Vorwurf nahelegt, und er selbst besteht darauf, Warnungen zu schreiben, keine Prophezeiungen.
+- [[DenkerVita/Catrin Misselhorn|Catrin Misselhorn]] — Reibung an der Bedeutungsfrage. Harari nennt die KI den neuen Meister der Worte, der Mythen schreibt und selbst handelt; für Misselhorn simuliert die Maschine Bedeutung nur. Beide fürchten die Wirkung und sind uneins, ob dahinter ein Verstehen steckt.
+- [[DenkerVita/Markus Gabriel|Markus Gabriel]] — Dieselbe Schwelle, von der anderen Seite: Harari behält dem Menschen das nichtsprachliche Fühlen vor, dort liege, was ihm bleibt. Gabriel behauptet, die KI sei selbst ein Resonanzfeld, und kreist mit dem „Mu“ um genau die Schicht unter den Worten.
+- [[DenkerVita/Renee DiResta|Renée DiResta]] — Die Feldforschung zu Hararis Ballon, den keine Faktennadel zerplatzt: DiResta hat über zehn Jahre vermessen, wie aus Wiederholung eine geteilte Sonderwirklichkeit wird und warum Widerlegung an Gruppenidentität abprallt. Harari liefert die Theorie, dass nur eine Geschichte eine Geschichte schlägt, DiResta die Daten dazu.
+- [[DenkerVita/Jean-Francois Lyotard|Jean-François Lyotard]] — Lyotard diagnostizierte das Ende der großen legitimierenden Erzählungen; Harari erklärt, warum die Lücke nicht leer bleibt. Weil nur eine Geschichte eine Geschichte schlägt und die Bürokratie kein Drama hat, strömt irgendein Mythos zurück. Die Postmoderne hat die Metaerzählung verabschiedet, das geschichtenerzählende Tier nicht.
+- [[DenkerVita/Roberto Simanowski|Roberto Simanowski]] — Beide setzen bei der Sprache an. Harari warnt vor KIs, die wie Einwanderer ohne Visum kommen, „meist einem Konzern jenseits des Ozeans treu“; Simanowski fragt, welche Werte diese Sprachmaschinen exportieren, und zeigt, dass derselbe Export in Indien Wahrheit bringen und anderswo Vielfalt tilgen kann.
+- [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff]] (Note, keine DenkerVita) — Harari fragt, ob wir der KI einmal Rechtspersönlichkeit *zusprechen*; Mühlhoff zeigt, dass sich die Macht faktisch längst an autonome Systeme und die Konzerne dahinter verschiebt. Die politökonomische Erdung für Hararis These von der KI als Agent statt Werkzeug.
 
 ## Gedankenwelten-Notes
 

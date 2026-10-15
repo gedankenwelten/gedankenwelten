@@ -59,7 +59,12 @@ Bendsens Arbeit ist wirtschaftsnah und pragmatisch, nicht ideologisch: Sie argum
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Gabriel Yoran]] — Die Schwesterstimme zum Plastiktütenfreien Tag: Yoran zeigt an den Dingen selbst, dass die Einweg-Logik Krempel produziert und der Markt es nicht richtet; Bendsen setzt eine Ebene tiefer an, bei der Bewertung, die dieses Verhalten belohnt. Sein „Kostenwahrheit erzwingen“ und ihr Sichtbarmachen versteckter Kosten sind derselbe Hebel, einmal als Forderung an die Politik, einmal als Werkzeug für Unternehmen und Banken.
+- [[DenkerVita/Silke Stremlau]] — Ihre engste Verbündete im Bestand: Stremlaus „Geld ist niemals neutral“ ist die Finanzmarkt-Fassung von Bendsens Kostenwahrheit. Beide beschreiben denselben Weg nachhaltigen Wirtschaftens, von der ethischen Nische zur Risikorechnung, die eine Bank ohnehin anstellen müsste.
+- [[DenkerVita/Maja Goepel]] — Dieselbe Bewertungsblindheit auf zwei Ebenen: Göpel zeigt am BIP, dass die Volkswirtschaft Umweltschäden, Ungleichheit und Sorgearbeit nicht misst, Bendsen findet das gleiche Muster in Unternehmens-KPIs, die belohnen, wer Schäden aus der eigenen Bilanz schiebt. Was Göpel für das Land fragt, fragt Bendsen für die einzelne Firma und ihre Bank.
+- [[DenkerVita/Frauke Fischer]] — Beide haben aufgehört, ans Gewissen zu appellieren, und rechnen. Bendsens Beobachtung, dass „Externalität“ harmlos klingt, obwohl die Kosten nur wandern, findet in Fischers 150.000 Litern Wasser pro Auto ihren saubersten Fall; Bendsen dreht die Rechnung innerhalb der Wirtschaft, Fischer steht an deren Außengrenze, wo die Natur keine Rechnung stellen kann.
+- [[DenkerVita/Markus Gabriel]] — Spannung über die Moral: Gabriel will Profit als Folge des moralisch Richtigen begründen, Bendsen dreht die Achse bewusst davon weg, Zirkularität sei „weder moralisch noch ideologisch, sondern finanziell nachvollziehbar“. Offen bleibt, ob in ihrer Risikorechnung nicht doch eine Moral steckt, die nur in der Form einer Tabelle auftritt.
+- [[DenkerVita/Klaus Doerre]] — Der schärfere Gegenpol: Bendsen hält schon das Wort „Externalität“ für verharmlosend, Dörre nennt den Vorgang „Landnahme“, die fortlaufende Aneignung unbezahlter Natur und Zukunft durch das Kapital. Wo sie auf die Vernunft der Bilanz setzt, verortet er den Konflikt in Klassen und Macht; ihr eigenes Eingeständnis, dass es ohne politischen Rahmen „natürlich nicht alleine“ geht, kommt ihm ein Stück entgegen.
 
 ## Gedankenwelten-Notes
 

@@ -126,10 +126,10 @@ Sein Szenario: Trump verliert Senat und Repräsentantenhaus. Im März nächsten 
 ### → [[Zeitgeist/auslandsjournal — Trump allein zu Haus]]
 Die NATO-Verweigerung ist die Konkretion der auslandsjournal-These vom verbrauchten Vertrauen als strategischer Ressource: Wenn es aufgebraucht ist, bleibt man im Ernstfall allein — Artikel-5-Bündnis hin oder her.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]]
+### → [[Zeitgeist/Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]]
 Vorgänger-Note: Hegseths Inkompetenz-Behauptungen vs. Trumps eigene Aussage „keiner hat damit gerechnet".
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
+### → [[Zeitgeist/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
 Direkte zeitliche Parallele: Während Trump um NATO-Hilfe bettelt, bröckelt die eigene Basis weiter.
 
 ### → [[Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]

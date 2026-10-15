@@ -101,7 +101,7 @@ Flassbecks Sparparadoxon ist der schärfste makroökonomische Einwand gegen das 
 
 ### → [[Zeitgeist/Kevin Kuehnert — Lobbyist fuer die Zivilgesellschaft]]
 
-Flassbecks Makro-Mechanik (r > g, Saldenmechanik) erklärt, *warum* Kühnerts Diagnose vom Kapital, das schneller wächst als Arbeit, strukturell stimmt. Zugleich ein produktiver Gegenpol: Flassbecks Warnung vor der „naiven Ungleichheits-Forderung" erdet Kühnerts moralisch grundierte Reichtums-These kritisch.
+Flassbecks Makro-Mechanik (r > g, Saldenmechanik) erklärt, *warum* Kühnerts Diagnose vom Kapital, das schneller wächst als Arbeit, strukturell stimmt. Zugleich ein Maßstab: Flassbecks Warnung vor der „naiven Ungleichheits-Forderung" galt einem Antrag der Linken zur globalen Ungleichheit, nicht Kühnert. Sie lässt sich aber auch an seine moralisch grundierte Reichtums-These anlegen.
 
 ### → [[Zeitgeist/phoenixRunde — Arm und Reich in Deutschland]]
 

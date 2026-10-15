@@ -286,13 +286,13 @@ Redecker zitiert Heitmeyer explizit als Grundlage. Ihre Phantombesitz-Theorie er
 ### → [[Denker/Jonathan Haidt — Die moralischen Wurzeln von Liberalen und Konservativen]]
 Haidt erklärt, warum In-Group-Loyalität, Autorität und Reinheit als moralische Grundlagen tief verankert sind — und warum rechte Mobilisierung so effektiv auf sie zugreifen kann. Das ist die moralpsychologische Erklärungsebene unterhalb von Heitmeyers struktursoziologischer: Wo Heitmeyer fragt, welche Strukturen Verrohung ermöglichen, fragt Haidt, welche Psychologie sie verankert.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 15: Töten als Ehrensache]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 15: Töten als Ehrensache]]
 Heitmeyer: Wenn institutionelle Verrohung den Punkt erreicht, wo ein Staatsoberhaupt öffentlich über Töten als Ehrensache schreibt — dann ist das Ende der Zivilisierungsnorm erreicht. Trumps Post „Was für eine große Ehre dies tun zu dürfen" ist der dokumentierte Höhepunkt dieser Dynamik.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union]]
 Minnesota-Medicaid-Kürzung als institutionelle Verrohung: Trump setzt staatliche Ressourcen als Waffe in einer persönlichen politischen Fehde ein. Das ist Heitmeyers „politischer Raum" — Interessendurchsetzung durch Kontrollverlust und institutionelle Aggression — in Echtzeit.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
+### → [[Zeitgeist/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
 NFL/Iran-Propagandavideo und der Moment, wo Fox News Trump konfrontiert: Hasan nennt ihn „inkompetenten Autoritären". Heitmeyer: Verrohungsprozesse laufen auch in den Institutionen der Gegenöffentlichkeit — und der Widerstand kommt oft erst, wenn die Kosten der Gefolgschaft sichtbar werden.
 
 ### → [[Zeitgeist/Nicholas Potter — Die neue autoritäre Linke (taz Talk)]]

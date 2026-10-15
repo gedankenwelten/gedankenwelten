@@ -67,9 +67,18 @@ Oetting steht in der Tradition der **Wellbeing-Economy- / Postwachstums-Bewegung
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Maja Goepel]] — Beide halten das BIP für eine blinde Messlatte und setzen auf eine Wellbeing-Ökonomie. Göpels Satz „Aus Zumutung entsteht Selbstwirksamkeit“ ist dieselbe Wette wie Oettings Willy-Brandt-Beispiel: Man kann Menschen die unbequeme Lage zumuten, und man muss es.
+- [[DenkerVita/Achim Truger]] — Reibung im eigenen Lager: Oetting nennt „kein nennenswertes Wachstum mehr“ eine Wahrheit, die ausgesprochen werden muss. Truger hält den Streit um Wachstum oder Degrowth für einen Graben, der nichts bringt; wenn Wohlstand, Verteilung und Beschäftigung stimmen, sei zweitrangig, ob noch etwas wächst.
+- [[DenkerVita/Ulrike Herrmann]] — Dieselbe Diagnose, härter gezogen. Für Herrmann steckt der Wachstumszwang im Kapitalismus selbst, darum bleibe nur grünes Schrumpfen in einer demokratisch gelenkten Wirtschaft nach britischem Kriegsvorbild. Oetting will die Wirtschaftslogik mit den Unternehmen umlenken. Beide brauchen dafür eine breite Mehrheit, die Herrmann nirgends sieht und Oetting mit Ehrlichkeit gewinnen will.
+- [[DenkerVita/Veronika Grimm]] — Die marktliberale Gegenstimme, mit einem unerwarteten gemeinsamen Boden: Auch für Grimm machen die Regeln das Ergebnis, Wirtschaft ist also gestaltbar. Doch sie setzt auf den CO₂-Preis als Signal und auf grünes Wachstum, und ihr Befund, dass Deutschland seit 1990 gewachsen ist und zugleich weniger ausstößt, trifft genau Oettings zu absoluten Satz, absolute Entkopplung habe es nie gegeben. Strittig bleibt zwischen beiden das Tempo.
+- [[DenkerVita/Arnaud Orain]] — Orain zeigt, dass die Einsicht in eine endliche Welt keine Ethik mitbringt: Dieselbe Erkenntnis, die Oetting zur Wellbeing-Ökonomie führt, führt die „zügellosesten Kapitalisten“ zum Griff nach dem Rest. Sein Kapitalismus der Endlichkeit, der die Demokratie nicht mehr braucht, ist die Theorie zu Oettings Warnung vor faschistisch gesinnten Milliardären mit fossilem Rückenwind.
+- [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)|Thomas Fricke]] (Note, keine DenkerVita) — Fricke trägt die Forschung zusammen, nach der Umbruch, Austerität und Inflation jenes Gefühl des Kontrollverlusts erzeugen, das Autoritären die Stimmen bringt. Oetting zeigt, wie die AfD genau diese hilflose Angst in Wut auf die Schwächeren umlenkt.
+- [[DenkerVita/Aladin El-Mafaalani]] — Für beide lässt der halbgare Kurs einer Regierung, die das eine sagt und das andere tut, Vertrauen in Misstrauen kippen. El-Mafaalanis Kuchen-Bild stellt Oetting aber eine scharfe Frage: Hört der Kuchen auf zu wachsen, werden die Argumente der Autoritären überzeugender. Wie sagt man „kein Wachstum mehr“, ohne den Verteilungskampf anzufachen, den man verhindern will?
+- [[DenkerVita/Marina Weisband]] — Weisband sagt, die AfD lüge in den Fakten, spreche aber eine emotionale Wahrheit aus: Ihr fühlt euch klein und nicht gesehen. Beide werfen der Regierung vor, mit Gesetzen und Statistiken statt mit Ernsthaftigkeit zu antworten; wo Oetting im Angebot der AfD eine Betäubung sieht, sieht Weisband ein echtes Gefühl, das falsch beantwortet wird.
+- [[DenkerVita/Anton Jaeger]] — Jägers Hyperpolitik, viel Empörung bei kaum noch Organisation, beschreibt die Lücke, die System Delta füllen will. Seine illusionslose Analyse ist zugleich der Prüfstein, ob zivilgesellschaftlicher Druck ohne Partei auf Dauer trägt.
+- [[DenkerVita/Thomas Laschyk]] — Beide kommen vom Handwerk der Überzeugung, Oetting als Forscher zur Mundpropaganda, Laschyk mit einer Arbeit über Storytelling in Fake News, und beide folgern, dass die Wahrheit besser erzählt werden muss als die Lüge. Und beide landen bei großen Vermögen: Laschyk bei der käuflichen Reichweite, Oetting bei den Milliardären an der Macht.
 
 ## Gedankenwelten-Notes
 
-- [[Martin Oetting — Faschismus stoppen, mit der Wahrheit arbeiten]]
+- [[Martin Oetting — Faschismus stoppen mit der Wahrheit]]
 - [[Martin Oetting — Happy Planet Index 2026]]

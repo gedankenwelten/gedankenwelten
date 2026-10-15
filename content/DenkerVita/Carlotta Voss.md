@@ -100,7 +100,14 @@ Voß steht klar im **liberal-demokratischen, republikanisch grundierten** Lager 
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Moritz Rudolph|Moritz Rudolph]] — Ihr Gegenüber im Dresdner Leseclub über die Geister hinter MAGA, der Linkshegelianer neben der Theologin: Einig in der Methode, Texte statt Personen zu lesen, geraten sie über Asma Mhallas Schlusskapitel aneinander, in dem Rudolph eine „Bewegung der Spaziergänger“ keimen sieht und Voß lieber etwas über eine Reform der EU gelesen hätte als über mehr Lachen im Café.
+- [[DenkerVita/Eva von Redecker|Eva von Redecker]] — Zweimal derselbe Curtis Yarvin, zwei Lesarten: Redecker sieht in ihm die entfesselte Eigentumslogik, Voß das Gottesgnadentum ohne Gott, bei dem die Fürsorgepflicht wegfällt und der Monarch zum CEO wird, und beide Wege enden bei derselben nackten Verfügungsgewalt.
+- [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff]] — Voß empfiehlt sein Buch selbst, und gerade daran wird die offene Frage ihres Abends scharf: Für Mühlhoff hält die KI-Ideologie den Staatsumbau zusammen, während Voß Mhallas Gegenthese „heilsam“ findet, die Ideologie sei vor allem Ablenkung von ihm.
+- [[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]] — Er erklärt den Befund, den Voß in allen sechs Texten findet, die Gleichzeitigkeit von Zukunftssturm und Vergangenheitsverklärung: Mit Karl Löwith ist der Fortschrittsglaube säkularisierte Heilserwartung, und Akzeleration und Katechon erscheinen als ihre zwei Reste, einmal beschleunigt, einmal auf Dauer gestellt im Aufhalten.
+- [[DenkerVita/Pankaj Mishra|Pankaj Mishra]] — Girard von der anderen Seite: Wo Thiel aus dem mimetischen Begehren die Notwendigkeit einer Geheimelite ableitet, erklärt Mishra damit die Wut derer, denen das Versprechen nie eingelöst wird; Voß liest die Ideologie von oben, aus den Texten der Unternehmer, Mishra von unten, aus dem Ressentiment.
+- [[DenkerVita/Arnd Henze|Arnd Henze]] — Zwei Fälle derselben Operation: Voß holt Leo Strauss aus der Vereinnahmung durch Thiel zurück, Henze zeigt an Bonhoeffer, was geschieht, wenn diese Verteidigung ausbleibt, und beide richten die unbequeme Frage am Ende gegen die eigene Seite.
+- [[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe]] — Beide sehen die Rechte dort gewinnen, wo die liberale Mitte etwas offen lässt, Mouffe den echten Streit, Voß die Frage nach dem gelingenden Leben; den agonalen Politikbegriff teilen sie (Voß kommt über Plessner dorthin), doch Mouffes Antwort ist ein linker Populismus, die von Voß eine personale Demokratie als Lebensform.
+- [[DenkerVita/Francesca Bria|Francesca Bria]] — Ihre Karte des „Authoritarian Stack“ vermisst genau den Staatsumbau aus Regierung und Big Tech, den Voß hinter dem ideologischen Brimborium aus dem Blick geraten sieht, und ihr EuroStack ist die Art institutioneller Antwort, die Voß in Mhallas Schlusskapitel vermisst hat.
 
 ## Gedankenwelten-Notes
 

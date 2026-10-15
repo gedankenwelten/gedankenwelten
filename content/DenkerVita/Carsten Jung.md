@@ -92,11 +92,17 @@ Durch Procurement-Standards können Regierungen Märkte formen: Was der Staat ka
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Frederike Kaltheuner|Frederike Kaltheuner]] — Seine Partnerin auf der re:publica-Bühne und sein schärfster Einwand zugleich: Jung will den Anwendungslayer lenken und Missionen setzen wie bei der Prävention im Gesundheitswesen, Kaltheuner hält dagegen, dass ohne Eingriff in die Marktkonzentration am Ende „OpenAI im Krankenhaus“ steht.
+- [[DenkerVita/Achim Truger|Achim Truger]] — Beide denken Investitionspolitik empirisch und nah an den Institutionen, und Jungs Gedankenexperiment, aus hundert Milliarden Sondervermögen fünf in souveräne KI und fünfzehn in die Anwendung zu lenken, setzt die kreditfinanzierte Investitionslogik voraus, die Truger gegen eine starre Schuldenbremse verteidigt.
+- [[DenkerVita/Adam Tooze|Adam Tooze]] — Am Streit zwischen Pentagon und Anthropic zeigt Tooze, wie der US-Staat KI-Kapital in die Militarisierung drängt, und erinnert damit Jungs Directionism daran, dass „der Staat lenkt“ noch nicht sagt, wohin: Gemeinwohl wird daraus erst, wenn die Missionen demokratisch gesetzt sind.
+- [[DenkerVita/Francesca Bria|Francesca Bria]] — Dieselbe Schule der missionsorientierten Industriepolitik (Bria lehrt an Mariana Mazzucatos Institut am UCL), aber ein anderer Ansatzpunkt: Bria will den eigenen digitalen Stack bauen, Jung hält Souveränität ohne Vision für leer und setzt bei den Anwendungen an, zusammen ergeben sie Infrastruktur und Richtung.
+- [[DenkerVita/Yanis Varoufakis|Yanis Varoufakis]] — Die Gegenstimme zu Jungs Vertrauen in gelenkte Märkte: Wenn Cloud-Kapital den Markt nicht mehr bedient, sondern ersetzt und Tribut statt Profit erhebt, dann reicht es nicht, Bürger zu Anteilseignern zu machen oder Anreize nach dem Muster des Inflation Reduction Act zu setzen.
+- [[DenkerVita/Lacina Kone|Lacina Koné]] — Seine „nützlichste, nicht mächtigste KI“ für Afrika ist Directionism unter anderen Vorzeichen und berührt die offene Frage an Jung, ob Lenkung über Beschaffung nur Staaten mit großen Budgets offensteht oder auch jenen, die ihre Infrastruktur einkaufen müssen.
+- [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff]] — Mühlhoffs Desouveränisierung, die an private Plattformen ausgelagerte Verwaltung, ist das Szenario, gegen das Jungs Industriepolitik anschreibt: Wo Mühlhoff die Übernahme diagnostiziert, verlangt Jung, dass der Staat als Käufer und Investor die Richtung behält.
 
 ## Gedankenwelten-Notes
 
-- [[Zeitgeist/re:publica 26 — KI-Industriepolitik und europäische Souveränität]] — re:publica 26 Session
+- [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht|rp26 — KI-Industriepolitik richtig gemacht]] — re:publica 26 Session mit Frederike Kaltheuner
 
 ---
 

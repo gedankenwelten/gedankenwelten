@@ -74,7 +74,14 @@ Hinzu kommt die Frage, die jede Zyklentheorie einholt: Wie viel erklärt ein Mus
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- **[[DenkerVita/Yanis Varoufakis|Yanis Varoufakis]]** — Zwei Diagnosen desselben Bruchs, die einander ausschließen: Für Varoufakis ist der Kapitalismus 2008 gestorben und vom Technofeudalismus abgelöst, für Orain hat er nur in einen Modus gewechselt, den er seit dem 16. Jahrhundert kennt. Sie treffen sich bei Waren, die nie einen Markt berühren — Amazon digital, emiratisches Ackerland in Afrika territorial.
+- **[[DenkerVita/Martin Andree|Martin Andree]]** — Der schärfste Einwand im Bestand: Für Andree stehen Monopole auf Rechtsprivilegien, die man abschaffen kann, die entflochtene Telekom ist sein Beweis. Orains Pendel kennt diesen Hebel nicht, bei ihm entscheidet eine Weltanschauung über Monopole, keine Kartellbehörde — beide können nicht zugleich recht haben.
+- **[[DenkerVita/Zhao Tingyang|Zhao Tingyang]]** — Das dritte Wort, das Orain fehlt: Wo er beide Ausschläge seines Pendels verwirft und keine Alternative anbietet, setzt Zhao auf relationale Rationalität, die Minimierung gegenseitiger Feindseligkeit, und auf eine Welt ohne Außen, in das man greifen kann. Ein unerprobter Entwurf aus genau dem Machtzentrum, dessen Aufstieg für Orain die westliche Wende auslöst.
+- **[[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]** — Zwei Endlichkeiten, die nicht dieselbe sind: Bei Orain ist die Knappheit eine Überzeugung, die den Griff auslöst, bei Herrmann eine Energiebilanz, die unabhängig davon gilt und gerechte Rationierung nach britischem Vorbild von 1940 verlangt. Offen bleibt, warum Akteure, die die Grenzen begriffen haben, verteilen statt greifen sollten.
+- **[[DenkerVita/Ray Dalio|Ray Dalio]]** — Derselbe Fünfhundert-Jahre-Bogen mit derselben niederländischen Fallhöhe, aber unvereinbarer Geometrie: Dalios Zyklus hat eine Reihenfolge und damit eine Prognose, Orains Pendel nur zwei Zustände. Trumps Griff nach Grönland ist für Dalio Phasensymptom, für Orain Schwäche.
+- **[[DenkerVita/Patrick Kaczmarczyk|Patrick Kaczmarczyk]]** — Der Einwand aus dem Süden: Orain liest die liberale Phase als Ausnahme vor der Rückkehr der Endlichkeit, für Kaczmarczyk war sie im Globalen Süden nie liberal, dort hieß sie Sparpolitik per IWF. Das schärft den Eurozentrismus-Vorwurf der Rezensenten.
+- **[[DenkerVita/Susanne Weigelin-Schwiedrzik|Susanne Weigelin-Schwiedrzik]]** — Die Endlichkeitsthese in chinesischer Buchführung: Die Seidenstraße als Versicherung gegen verknappte Seewege bestätigt Orains militarisierte Meere. Beim Ursprung widerspricht sie scharf — Chinas Innenpolitik treibt die Wende, nicht die Weltlage, und 2013 kannte selbst Peking die eigene Strategie noch nicht.
+- **[[DenkerVita/Felwine Sarr|Felwine Sarr]]** — Dasselbe Ackerland von der anderen Seite: Orain beschreibt, wie Staatsbetriebe aus den Emiraten und China in Afrika Land kaufen und die Ernte abtransportieren, Sarr einen Kontinent, der aufhören will, Objekt fremder Projekte zu sein. Seine Ökonomie der Beziehung statt der Akkumulation ist ein zweiter Kandidat für Orains fehlende Alternative.
 
 ## Gedankenwelten-Notes
 

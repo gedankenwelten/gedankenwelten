@@ -109,7 +109,7 @@ Elon Musk in Grünheide: Die Ampel feiert ihn, ohne ein Wort zu seinem Gewerksch
 
 Der Begriff von Arlie Hochschild beschreibt eine emotionale Brücke: Ich bin nicht gesehen, nicht gehört, in öffentlichen Räumen unsichtbar. Im Arbeitermilieu Sachsens findet Dörre etwas Überraschendes: Menschen, die aus Bayern zurückkehren und 1.000 Euro weniger verdienen — nur um bei Familie und in vertrauter Umgebung zu sein. Das ist **Sehnsucht nach nicht entfremdeten Sozialbeziehungen**.
 
-Outlaw-Stolz ist zunächst politisch leer. Wer ihn besetzt, gewinnt. 38% der Arbeiter wählen AfD — aber 62% nicht. Der Heimat- und Rebellions-Gestus ist umkämpft: Marlene Engelhardt (Die Linke) sagt "Ich bin Ossi" mit demselben Gestus wie ein AfD-Wähler — nur in eine andere Richtung. Die Linke hat verlernt, diese emotionale Struktur zu besetzten.
+Outlaw-Stolz ist zunächst politisch leer. Wer ihn besetzt, gewinnt. 38% der Arbeiter wählen AfD — aber 62% nicht. Der Heimat- und Rebellions-Gestus ist umkämpft: Marlen Borchardt, die den Leipziger Direktmandats-Wahlkampf von Nam Duy Nguyen (Die Linke) organisierte, sagt "Ich bin Ossi" mit demselben Gestus wie ein AfD-Wähler — nur in eine andere Richtung. Die Linke hat verlernt, diese emotionale Struktur zu besetzten.
 
 ### 7. Klasse und Klima sind eigenständige Konfliktachsen
 
@@ -143,7 +143,14 @@ Seine Kritik an der **Boomer-Gerontokratie-These** ist charakteristisch: Sie gre
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Ernesto Laclau]] — Die Gegenstimme in der Theorie. Dörre hält am Klasseninteresse fest, genau dort, wo Laclau mit dem Marxismus bricht, und würde ihm vorwerfen, die materielle Basis des Deutungskampfs zu übersehen. Offen bleibt, ob eine Hegemonietheorie ohne Klassenanalyse erklären kann, warum Wörter wie „Freiheit“ und „Volk“ so beständig von rechts besetzt werden, und umgekehrt, ob Dörres Outlaw-Stolz, „zunächst heimatlos“ und erst noch zu besetzen, nicht selbst wie ein leerer Signifikant im Sinne Laclaus funktioniert.
+- [[DenkerVita/Steffen Mau]] — Mau übernimmt Dörres Formel von der demobilisierten Klassengesellschaft: Die Klassenlage prägt die Lebenschancen, erzeugt aber keinen Konflikt mehr, die Oben-unten-Arena ist „gesättigt“. Dörres VW-Forschung liefert die Betriebsebene dazu. Bei der Ursache gehen sie auseinander: Dörre sucht sie im Eigentum, Mau sieht die Erregung an Triggerpunkten der Zugehörigkeit in anderen Arenen.
+- [[DenkerVita/Arlie Russell Hochschild]] — Bei ihr leiht sich Dörre den Begriff, mit dem er den Rechtsruck in Südwestsachsen liest. Hochschild beschreibt in Appalachia eine Stolz-Ökonomie, in der Verluste als Scham verinnerlicht und von rechts in Schuldzuweisung verwandelt werden. Dörre betont die Offenheit dieses Gefühls: Der Outlaw-Stolz ist politisch umkämpft, 38 Prozent der Arbeiter wählen AfD, 62 Prozent nicht.
+- [[DenkerVita/Oliver Nachtwey]] und [[DenkerVita/Carolin Amlinger]] — Dörres These, der Faschismus wachse in der liberalen Demokratie von innen, ist das strukturelle Gegenstück zu ihrem „demokratischen Faschismus“. Wo Dörre die Verbindung von Kapitalismus und autoritärem Liberalismus beschreibt, arbeiten sie die Gefühlslage heraus, die sie trägt; Outlaw-Stolz und Zerstörungslust sind verwandte Namen für eine Kränkung, die sich ein Ziel sucht.
+- [[DenkerVita/Sven Beckert]] — Dörres Landnahme ist Beckerts Kriegskapitalismus in die Gegenwart verlängert: dieselbe Aneignung des noch nicht Verwerteten, heute gerichtet auf Natur, Zeit und Zukunft statt auf Zuckerinseln. Am Schluss reiben sie sich: Beckert zieht aus der Geschichte Zuversicht, Ordnungen seien gestaltbar; Dörre hält dagegen, eine formale Demokratie ohne Wirtschaftsdemokratie bleibe unvollständig, solange das Kapital der eigentliche Souverän ist.
+- [[DenkerVita/Yanis Varoufakis]] — Beide sehen in 2008 den Wendepunkt zum autoritären Kapitalismus, aber sie verorten den Motor verschieden: Dörre in der Klassenstruktur und der aufgekündigten Konfliktpartnerschaft, Varoufakis im Konstruktionsfehler einer Währungsunion ohne Fiskalunion. Offen bleibt, ob Dörres polarisierte Klassen Folge dieses Designs sind oder seine tiefere Ursache.
+- [[DenkerVita/Clara Mattei]] — Hermann Hellers autoritärer Liberalismus, den Dörre wieder aufgreift, hat bei Mattei seine empirische Geschichte: Liberale Ökonomen und Regierungen begrüßten den Faschismus, um die Arbeiterklasse zu disziplinieren. Dörre zeigt, dass die Verbindung aus Freiheit für das Kapital und Repression der Folgen wiederkehrt, statt historische Ausnahme zu bleiben.
+- [[DenkerVita/Jana Hensel]] — Beide finden die Basis der AfD im ostdeutschen Arbeitermilieu. Hensel betont den materiellen Kern, dessen erste Abbruchkante Hartz IV war; Dörre ergänzt die emotionale Ökonomie, Menschen, die aus Bayern zurückkehren und tausend Euro weniger verdienen, nur um bei ihrer Familie zu sein. Zusammen eine mögliche Antwort darauf, wie die soziale Frage nach rechts wanderte.
 
 ---
 

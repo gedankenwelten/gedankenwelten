@@ -105,7 +105,7 @@ Kemper beschreibt die Verbindung von Thiel/Musk/Tech-Kapital mit faschistischen 
 
 Derselbe Thiel-Vance-Nexus: Tech-Kapital greift nach staatlicher Macht. Tooze beschreibt es für KI und Pentagon; hier zeigt sich dasselbe Muster bei Immigration Enforcement.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]]
+### → [[Zeitgeist/Koshi Politik — ICE-Anhörung im Kongress]]
 
 Folgevideo: Was in der Anhörung ans Licht kommt über ICE-Verhaltensweisen.
 

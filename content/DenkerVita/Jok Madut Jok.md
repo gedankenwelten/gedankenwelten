@@ -61,7 +61,14 @@ Jok gilt als unabhängiger Intellektueller, der weder der Regierung noch der Opp
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Ernesto Laclau]] — Laclau liefert die Theorie zu Joks Befund, dass Ethnizität geschmiedet und nicht vorgefunden wird: Die Führer artikulieren ihre Basis erst zum Kampfkollektiv. Unbequem wird es für Joks eigene Antwort, denn auch sein „Wir jenseits der Stammeslinie" wäre in Laclaus Begriffen ein hegemonialer Akt, ein Volk, das erst gebaut werden muss.
+- [[DenkerVita/Achille Mbembe]] — Mbembes Nekropolitik, Macht als Verfügung darüber, wer leben darf, ist die Grammatik zu dem, was Jok aus Upper Nile berichtet: die Bombardierung der Nuer, der Hunger, der den Protest verstummen lässt. Joks Frage „Sind wir die Hüter unseres Bruders?" fordert im Kleinsten ein, was Mbembe als Erdgemeinschaft denkt.
+- [[DenkerVita/Ngugi wa Thiongo]] — Ngũgĩ fragt, was eigentlich frei wird, wenn ein Land frei wird. Jok antwortet vom Südsudan aus bitter: 2011 wurde das Territorium frei, doch der neue Staat übernahm die Herrschaftslogik, von der er sich gelöst hatte.
+- [[DenkerVita/Felwine Sarr]] — Sarrs Afrotopia entwirft eine afrikanische Zukunft aus eigenen Quellen und teilt mit Joks gewähltem Wir dasselbe Menschenbild, das von der Beziehung her denkt. Joks Überlebensmodus ist der Belastungstest dieser Hoffnung: Wer jeden Tag ums Brot ringt, entwirft keine Utopie.
+- [[DenkerVita/Michael Hartmann]] — Hartmanns Satz, Elite sei Macht und nicht Verantwortung, wird bei Jok zur Staatskatastrophe: ein Pakt, in dem die Mächtigen einander befrieden, ohne für die Beherrschten einzustehen. [[DenkerVita/Anabel Ternes von Hattburg|Anabel Ternès]] hält im selben Gespräch dagegen, Elite müsse ans Gemeinwohl gebunden sein; der Südsudan zeigt, was geschieht, wenn diese Bindung fehlt.
+- [[DenkerVita/Maoz Inon]] — Dieselbe Frage, was Frieden ist, von beiden Enden her. Inon und [[DenkerVita/Aziz Abu Sarah|Aziz Abu Sarah]] bauen ihn von unten als gewählte Beziehung zwischen Feinden, Jok zeigt den Frieden von oben, der das Leben der Menschen nie erreicht; sein Ruf an die Dinka, nicht zu schweigen, während die Nuer bombardiert werden, ist bei ihm Klage, was bei den beiden Praxis ist.
+- [[DenkerVita/Hannah Arendt]] — Jok weigert sich, angesichts der Gräuel das Denken einzustellen, und rührt damit an Arendts Frage nach der Urteilskraft. Sein zermürbter Bürger, zu erschöpft, um noch Machtfragen zu stellen, ist die Kehrseite des mobilisierten Menschen, den Arendt im Totalitarismus beschrieb, und entlastet die Macht auf seine Weise ebenso.
+- [[DenkerVita/Konstantin Flemig]] — Flemig berichtet über den Krieg im Sudan, weil das Wegsehen der Welt selbst Folgen hat. Jok beschreibt diese Folgen von innen: Seit die Welt ihre Hände vom Südsudan gewaschen hat und nur noch Botschafter schickt, fehlt den Machthabern in Juba jeder Druck von außen, und der Krieg nebenan hat den Markt zerstört, von dem der Südsudan lebte.
 
 ## Gedankenwelten-Notes
 

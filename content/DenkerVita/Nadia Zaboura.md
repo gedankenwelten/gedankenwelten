@@ -90,11 +90,18 @@ Sie ist nicht anti-technologisch, sondern nennt klare strukturelle Probleme: Alg
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Leonhard Dobusch]] — Ihr Partner auf der re:publica 26, mit dem sie Christopher Brownings *Ordinary Men* auf den Journalismus überträgt: Nicht böse Absicht, sondern gewöhnliche Berufslogik bereitet dem Neofaschismus den Weg, in der Formel „Performing balance by practicing bias“, die beide von Ayala Panievsky übernehmen. Dobusch bringt den Blick aus den Gremien des öffentlich-rechtlichen Rundfunks mit; Zaboura macht am Ende den normativen Schritt, dass Grundgesetz und Pressekodex den Journalismus zur Haltung gegen den Faschismus verpflichten.
+- [[DenkerVita/Elmar Thevessen]] — Er beschreibt aus der Praxis, was sie strukturell durchleuchtet: Theveßens „Normalisierungsfalle“, in der aus einer Trump-Tirade eine „breit gefächerte politische Rede“ wird, ist der Einzelfall zu ihrer Diagnose. Sein Gebot des „zweiten Satzes“, der einordnet, ist der handwerkliche Gegenentwurf zur falschen Balance.
+- [[DenkerVita/Alexander Teske]] — Der schärfste Widerspruch im Feld, aus derselben Denkfigur: Auch Teske sucht die Verzerrung vor dem Text, in der strukturellen Vorentscheidung der Redaktion. Bei ihm sichert sie ein westdeutsch-akademisches Weltbild ab, bei Zaboura begünstigt sie den Faschismus; ob mehr Milieuvielfalt in den Redaktionen und klare Kante gegen rechts dieselbe Reform sind oder zwei gegenläufige, bleibt zwischen ihnen offen.
+- [[DenkerVita/Torsten Heinrich]] — Beide halten die vorgebliche Neutralität für die eigentliche Täuschung: Heinrich will die eigene Position offenlegen und dann maximale Objektivität anstreben, Zaboura und Dobusch berufen sich auf Jay Rosens „here is where I'm coming from“ gegen den „view from nowhere“. Und beide finden Doppelstandards in der Nahost-Berichterstattung, nur in entgegengesetzter Richtung: Zaboura in Formulierungen, die Israels Blockade von Hilfsgütern für Gaza glätten, Heinrich in einer Wortwahl, die Israel die Schuld zuschiebt.
+- [[DenkerVita/Rainer Mausfeld]] — Beide analysieren, wie Öffentlichkeit hergestellt statt gespiegelt wird. Zaboura bleibt nah am Handwerk und erklärt die Verzerrung mit Dobusch aus Ethos, imaginiertem Publikum und wahrgenommenen Machtverhältnissen, ganz ohne Dirigenten; Mausfeld denkt sie als Lenkung von oben. An dieser Grenze entscheidet sich, ob Medienkritik Struktur beschreibt oder Steuerung unterstellt.
+- [[DenkerVita/Mats Schoenauer]] — Er zeigt NIUS in der Fabrikation, sie erklärt, warum das Muster bis in die Qualitätsmedien reicht: Die Angst vor dem Aktivismus-Vorwurf treibt Redaktionen in noch mehr Bewertungsverweigerung. Schönauers ÖRR-Insider bestätigen den Teufelskreis von innen, mit Nachrichtenredakteuren, die „beinahe ängstlich“ vor zutreffender, aber politisierbarer Wortwahl zurückschrecken.
+- [[DenkerVita/Maren Urner]] — Zwei, die aus der Hirnforschung zur Medienkritik kamen: Zaboura schrieb über Spiegelneurone und das empathische Gehirn, Urner über ein Steinzeithirn, das die Nachrichtenflut überfordert. Auf derselben re:publica benennt Urner mit dem „Angst-Journalismus“ die ökonomische Triebkraft hinter dem, was Zaboura als Berufslogik beschreibt; Zaboura fordert Einordnung und Haltung, Urner darüber hinaus den Blick auf Lösungen.
+- [[DenkerVita/Adam Johnson]] — Dieselbe These über ein anderes Mediensystem: Wo Zaboura und Dobusch zeigen, wie Ausgewogenheit und „umstritten“ den Faschismus normalisieren, misst Johnson, wie dieselbe Routine in US-Redaktionen den Krieg in Gaza vertretbar erscheinen ließ. Kein Lügner nötig, nur die Norm, die entscheidet, wessen Tod „bestätigt“ und wessen bloß „behauptet“ wird.
 
 ---
 
 ## Gedankenwelten-Notes
 
-*(wird später befüllt: alle Notes im Vault, die diese Person behandeln)*
+- [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus|Dobusch und Zaboura — Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus]] — re:publica 26 (Mai 2026), mit Leonhard Dobusch: wie Bewertungsverlagerung, falsche Balance und Doppelstandards in Tagesschau und *New York Times* autoritäre Positionen normalisieren.
 

@@ -89,7 +89,14 @@ Butterwegge ist ideologisch der **Linken zuzuordnen**, partizipiert aber in der 
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Martyna Linartas|Martyna Linartas]] — Sie ergänzt seine Armutsanalyse um die Vermögensseite: Wo Butterwegge das Matthäus-Prinzip in der Steuerpolitik zeigt, beschreibt Linartas die Erbengesellschaft, in der nicht das Einkommen, sondern geerbter Besitz die Schere treibt.
+- [[DenkerVita/Michael Hartmann|Michael Hartmann]] — Die Oberseite derselben Ungleichheit: Hartmann untersucht, wie Macht und Herkunft sich in den Eliten vererben, Butterwegge, wer unten ausgeschlossen bleibt.
+- [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer]] — Beide verbinden Rechtsextremismus und soziale Desintegration: Heitmeyers Langzeitbefund zur gruppenbezogenen Menschenfeindlichkeit und zur Verrohung ist das, wofür Butterwegge die materielle Ursache benennt.
+- [[DenkerVita/Damir Skenderovic|Damir Skenderovic]] — Auch er kommt von der Erforschung der radikalen Rechten und bestreitet wie Butterwegge, dass rechte Haltungen ein naturgegebener Bodensatz seien („Sie werden dazu gemacht“), sucht das Gemachtwerden aber bei Parteien und Medien, die das Fremde politisieren, nicht im Boden der Ungleichheit.
+- [[DenkerVita/Steffen Mau|Steffen Mau]] — Die unbequemste Frage an Butterwegges Materialismus: Bei Mau ist die Oben-unten-Arena „gesättigt“, die Ungleichheit wächst ohne Mobilisierung, und gerade die Arbeiterschaft stimmt der Meritokratie zu, die Struktur bringt das erwartete Bewusstsein also nicht von selbst hervor.
+- [[DenkerVita/Hans-Jürgen Völz|Hans-Jürgen Völz]] — Sein direkter Gegenspieler in der phoenixRunde: Für Völz leidet der Sozialstaat an Ineffizienz und Lohnzusatzkosten, für Butterwegge an Demontage, und dieselbe Zahl, die obersten zehn Prozent tragen 55 Prozent der Einkommensteuer, lesen beide genau umgekehrt.
+- [[DenkerVita/Cordula Tutt|Cordula Tutt]] — Sie hält den Demografiefaktor für biologische Realität, er nennt genau diese Rahmung „biologistisch“; nahe kommen sie sich im Ärger über Leistungen, die an der Not vorbeigehen, bei Tutt das Pflegegeld ohne Pflege, bei Butterwegge die Beamtenpension, die er Rentnern nach 45 Arbeitsjahren nicht erklären kann.
+- [[DenkerVita/Christine Dankbar|Christine Dankbar]] — Am selben Tisch verbündet in der Sorge, dass Abstiegsangst die AfD nährt und der Sozialstaat darum nicht angetastet werden darf, aber getrennt im Mittel: Sie will ihn schlanker und zugänglicher machen, er die Eigentumsverhältnisse und das Steuersystem ändern.
 
 ---
 

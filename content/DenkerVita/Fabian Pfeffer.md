@@ -123,7 +123,13 @@ Er nutzt **marxistische Relationsanalyse** (Brecht), ohne sich ideologisch zu ve
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Martyna Linartas]] — Die engste Verwandte im Bestand. Linartas beschreibt Deutschland als Erbengesellschaft, in der mehr als die Hälfte aller Privatvermögen aus Erbschaft und Schenkung stammt; Pfeffers Reichenlisten, die ein Jahrhundert und zwei Weltkriege überdauern, sind der historische Beleg dazu. Linartas geht weiter in die Lösung, mit einem Grunderbe für alle jungen Erwachsenen.
+- [[DenkerVita/Marlene Engelhorn]] — Neben ihm auf dem Podium in Bonn. Ihr Satz „Geld arbeitet nicht, Menschen arbeiten für Geld" ist dieselbe relationale Sicht, die Pfeffer mit Brecht aufruft: „Wär ich nicht arm, wärst du nicht reich." Sie spricht als Erbin aus dem Inneren des Problems, er vermisst es von außen.
+- [[DenkerVita/Kevin Kuehnert|Kevin Kühnert]] — Zwei Wege, auf denen Vermögen die Demokratie beschädigt, vom selben Podium. Kühnert zeigt den direkten: Medienbeteiligungen und Zugang verschaffen Einzelnen mehr Einfluss, als einem Bürger zusteht. Pfeffer zeigt den leiseren, der die Breite erfasst: Wo sich Vermögen ballt, sinkt das Engagement, weil man nicht mehr einsieht, warum man sich an Regeln halten soll, wenn es oben niemand tut.
+- [[DenkerVita/Julia Friedrichs]] — Friedrichs greift Pfeffers Befund zum schwindenden Engagement auf und ergänzt ihn von oben: Die Überreichen leben in einer sozialen Abschottung, in der ihnen niemand mehr widerspricht. Zusammen ergibt das eine doppelte Abkopplung, die Spitze von der Gesellschaft und die Breite vom Gemeinsinn.
+- [[DenkerVita/Michael Hartmann]] — Hartmann zeigt, dass sich die deutsche Elite überwiegend aus den oberen drei bis fünf Prozent rekrutiert und dass Großbürgerkinder in der Wirtschaftselite neun zu zwei gegen höhere Steuern auf Vermögen und Erbschaften stimmten. Das ist die Seite der Entscheider zu Pfeffers Befund, dass wir Ungleichheit von der eigenen Lage aus unterschätzen: Wer oben aufwächst, hält sie für weniger problematisch.
+- [[DenkerVita/Veronika Grimm]] — Die marktliberale Gegenstimme. Grimm interessiert, wofür Kapital eingesetzt wird, nicht wo es liegt, und ihre Einwände gegen Vermögen- und Erbschaftsteuer haben Gewicht: Abwanderung, gefährdete Unternehmensnachfolge. Pfeffers Dynastien stellen ihr die Gegenfrage, denn wer erbt, entscheidet mit, ob ein Vermögen weiter wächst. Lässt sich das eine vom anderen trennen?
+- [[DenkerVita/Daniel Markovits]] — Beide nehmen der Leistungsgesellschaft ihr Versprechen. Markovits beschreibt eine amerikanische Elite, die ihren Vorsprung über teure Bildung an die Kinder weitergibt und sich dabei selbst zu Tode arbeitet. Pfeffers deutsche Zahlen erzählen die ältere Geschichte: Drei Viertel der Milliardärsvermögen sind geerbt. Ob die neue Ungleichheit eher in Arbeit oder in Besitz steckt, bleibt zwischen beiden offen.
 
 ---
 

@@ -45,7 +45,7 @@ tags: [denker-vita, energiepolitik, deutschland, wirtschaft, geopolitik]
 
 ## Empfehlenswerte Videos & Vorträge
 
-- [In China lachen sie über unsere Energiewende — Tim Meyer & Jan Hegenberg](https://www.youtube.com/watch?v=VIDEO_ID) — **Geladen Podcast** (2025/2026) — Live aus China: CO₂-Emissionen, E-Mobilität, Technologietrends
+- [In China lachen sie über unsere Energiewende — Tim Meyer & Jan Hegenberg](https://www.youtube.com/watch?v=7L_pDKVaMVE) — **Geladen Podcast** (2025/2026) — Live aus China: CO₂-Emissionen, E-Mobilität, Technologietrends
 - *Hinweis: Weitere Video-Links konnten nicht verifiziert werden (WebSearch nicht verfügbar)*
 
 ## Kernthesen
@@ -68,7 +68,7 @@ tags: [denker-vita, energiepolitik, deutschland, wirtschaft, geopolitik]
 - Chinesische Straßen sind leise, abgasfrei, elektrisch — "hat was von Zeitreise"
 - Zweitakter gibt es in chinesischen Städten schlicht nicht mehr
 
-### Flowbatterien als europäische Chance
+### Flowbatterien als europäische Chance (These von Tim Meyer)
 - China hat weniger Bedarf an Langzeitspeicherung (keine dunklen Winter, Pumpspeicher vorhanden)
 - Europa könnte bei Flowbatterien eine **eigenständige Technologieführerschaft** aufbauen — eine der wenigen verbliebenen Nischen
 
@@ -81,8 +81,14 @@ tags: [denker-vita, energiepolitik, deutschland, wirtschaft, geopolitik]
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Tim Meyer]] — Sein Reisegefährte durch Chinas Greentech-Fabriken im Geladen-Podcast. Meyer liefert das Modell, einen staatlichen Rahmen mit brutalem Wettbewerb darin, und die Hoffnung auf Flowbatterien als europäische Nische; Hegenberg die Zahlen zu Chinas sinkenden Emissionen und die Pro-Kopf-Rechnung dahinter.
+- [[DenkerVita/Volker Quaschning]] — Beide bekämpfen dieselben Verzögerungs-Erzählungen mit Zahlen, Quaschning lehrbuchhaft aus der Ingenieursperspektive, Hegenberg polemisch und datengetrieben. Quaschning erklärt die Systemtechnik, auf die sich Hegenbergs Optimismus stützt.
+- [[DenkerVita/Felix Goldbach]] — Mit Robin Schmid nimmt Goldbach in *Alles wird Strom* die Mythen auseinander, die Hegenberg im *Klima-Bullshit-Bingo* entkräftet, und fragt, warum eine Technik in Deutschland als Gesinnung gelesen wird. Hegenbergs Erfahrung in China, wo die Einordnung der Erneuerbaren als „grün“ oder „links“ nur Staunen auslöste, ist dazu der Ländervergleich.
+- [[DenkerVita/Ulrike Herrmann]] — Die grundsätzliche Gegenposition: Für Herrmann ist Entkopplung eine Illusion und grünes Schrumpfen die einzige ehrliche Antwort. Hegenbergs China-Befund, Wachstum bei sinkenden Emissionen im Energiesektor, steht genau dagegen, ebenso gegen die Wachstumskritik von [[DenkerVita/Maja Goepel|Maja Göpel]]. Ob zwölf Monate Rückgang schon eine Wende sind, lässt er selbst offen: Die Richtung stimme, die Frage sei das Tempo.
+- [[DenkerVita/Veronika Grimm]] — Unerwartete Nähe von der marktliberalen Seite: Grimm zeigt, dass Deutschland seit 1990 gewachsen ist und zugleich weniger ausstößt, Hegenberg dasselbe für China. Der Weg dorthin trennt sie: Grimm setzt auf den CO₂-Preis als Signal, Hegenberg und Meyer sehen den Motor in staatlich gerahmter Industriepolitik.
+- [[DenkerVita/Mark Benecke]] — Beide behandeln Klimaleugnung wie eine Falschaussage, die man mit Daten widerlegt. Im Ausblick gehen sie auseinander: Benecke spricht vom Zeitfenster, das sich schließt, und hält fest, dass auch Chinas Fortschritte die globale Erwärmung nicht aufhalten; Hegenberg schreibt „Weltuntergang fällt aus“.
+- [[DenkerVita/Jacob Beautemps]] — Beide halten Panik für so falsch wie Verharmlosung und zeigen lieber, was schon funktioniert. Beautemps tut es mit offen benannter Unsicherheit, Hegenberg mit Spott über „Dieter Diesel“.
 
 ## Gedankenwelten-Notes
 
-*(Noch keine eigenständige Note zum Meyer/Hegenberg-Podcast vorhanden — Transkript liegt unter `Transkripte/Meyer_Hegenberg_Energiewende_China_[...].de.vtt`)*
+- [[Zeitgeist/Tim Meyer und Jan Hegenberg — China Energiewende|Tim Meyer und Jan Hegenberg — In China lachen sie über unsere Energiewende]] — Geladen-Podcast aus China: Emissionen, E-Mobilität, Industrielogik

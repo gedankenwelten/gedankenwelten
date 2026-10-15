@@ -149,7 +149,7 @@ CNN erklärt:
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 MONITOR analysiert den Rechtsrahmen; Koshi zeigt die Akteure und ihre Widersprüche.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]]
+### → [[Zeitgeist/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]]
 Direkte Fortsetzung: Was passiert, wenn Hormuz nicht geöffnet werden kann und die NATO nicht hilft?
 
 ### → [[Koschi Politik — Weißes Haus löscht Trumps Privatvideo]]

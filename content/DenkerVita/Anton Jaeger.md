@@ -63,7 +63,14 @@ Jäger schreibt aus dem Umfeld der demokratischen, marxistisch informierten Link
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- **[[DenkerVita/Ines Schwerdtner|Ines Schwerdtner]]** — Aus derselben Werkstatt: Sie leitete die deutsche Ausgabe von *Jacobin*, für das Jäger schreibt, ihr Podcast trägt den Titel seines Buches. Mit dem Vorsitz der Linken hat sie den Schritt getan, den Jäger vermisst, von der Erregung in die Organisation — ob er trägt, ist eine Probe auf seine These.
+- **[[DenkerVita/Hannah Arendt|Hannah Arendt]]** — Politisiert, aber an keine Partei und keinen Verband gebunden: Das waren schon Arendts Massen. Jägers Hyperpolitik ist ihre Unterscheidung von Klassen und Massen in neuer Gestalt, mit der unbequemen Erinnerung, wohin solche Massen damals gezogen wurden.
+- **[[DenkerVita/Pankaj Mishra|Pankaj Mishra]]** — Mishra liefert die affektive Vorgeschichte: das Ressentiment der Ausgeschlossenen, dem Demagogen eine „fake community“ anbieten, genau in die institutionelle Leerstelle hinein. Jäger erklärt die Leere, Mishra den Zorn, der sie füllt.
+- **[[DenkerVita/Eva von Redecker|Eva von Redecker]]** — Das Gegenstück auf der anderen Seite: Redeckers These, das faschistische „Wir“ entstehe erst durch die Beschwörung des Diebstahls, zeigt, dass die Rechte genau die Organisierung leistet, die Jäger auf der zivilgesellschaftlichen Seite vermisst. Hyperpolitik ist kein Zustand aller Lager.
+- **[[DenkerVita/Steffen Mau|Steffen Mau]]** — Mau stützt Jägers Einwand gegen das Verdrossenheits-Lamento: Die Menschen sind nicht apathisch, sondern erregt, und der Streit entzündet sich an wenigen Triggerpunkten. Zurück an Jäger geht die Frage, ob die Hyperpolitik auch die Wahrnehmung von Konflikt selbst aufbläht.
+- **[[DenkerVita/Kevin Kuehnert|Kevin Kühnert]]** — Die Innenansicht zur Außendiagnose: Kühnerts „Snippet-Politik“ ist die gelebte Trennung von Politics und Policy, und seine ins Kulturelle verschobene soziale Frage bestätigt Jägers Flucht ins Symbolische, von einem, der drinnen war.
+- **[[DenkerVita/Martin Oetting|Martin Oetting]]** — Oetting verschreibt die Reinstitutionalisierung, die Jäger als fehlend diagnostiziert, eine neue Organisation für kollektiven Druck. Die Reibung liegt im Ton: Oetting appelliert, Jäger bleibt illusionslos gegenüber jeder Hoffnung, Mobilisierung ersetze den mühsamen Aufbau.
+- **[[DenkerVita/Michel Friedman|Michel Friedman]]** — Die Gegenstimme in der Schuldfrage: Für Friedman sind die Gleichgültigen das Schlimmste für die Demokratie, es braucht Bürger, die das Misstrauen gegen die Macht wach halten. Jäger hält die Bürger für überpolitisiert statt gleichgültig und sieht die Bringschuld beim System, das keinen Ort mehr bietet, an dem Engagement einrastet.
 
 ## Gedankenwelten-Notes
 

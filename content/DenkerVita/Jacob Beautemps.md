@@ -91,10 +91,16 @@ ein Maßstab, an dem sich auch Breaking Lab messen lassen muss.
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Mark Benecke]] — Zwei Erklärer, die Klimadaten für ein großes Publikum lesen und vor demselben Fehler warnen: Ein Rekordjahr ist noch kein geänderter Trend, und wer den Bezugsrahmen vergisst, liest das Signal falsch. Benecke spricht dabei lauter vom Zeitfenster, das sich schließt, Beautemps hält die Unsicherheit sichtbarer.
+- [[DenkerVita/Maren Urner]] — Beide arbeiten gegen die falsche Wahl zwischen Weltuntergang und Verharmlosung: Urner setzt die Hoffnung als Drittes neben Optimismus und Verzweiflung, Beautemps die ehrliche Mitte des „wird wahrscheinlicher“. Beide verschieben die Frage von dem, was passiert, zu dem, wie wir darüber denken.
+- [[DenkerVita/Juergen Kornmeier]] — Dieselbe Tugend aus entgegengesetzter Richtung: Beautemps dämpft eine Prognose, die wahrscheinlich eintrifft, Kornmeier dämpft Befunde, die wahrscheinlich nicht überzeugen. Beide fragen zuerst, was das Messgerät überhaupt erfassen kann.
+- [[DenkerVita/Andreas Schmitz]] — Der Akkudoktor, ebenfalls promoviert und auf YouTube, sagt beim Atommüll kleiner Reaktoren an der entscheidenden Stelle „ich weiß es nicht“ und trennt wie Beautemps die heutige Lage von der Wette auf die Zukunft. Die Reibung liegt in der Verpackung: Seine Titel bleiben laut, wo das Video zurückhaltend ist.
+- [[DenkerVita/Georgina Neitzel]] und [[DenkerVita/Raphael Iltisberger]] — Ihr Hype-Modell beschreibt, wie aus Zukunftsaussagen Gewissheiten werden. Beautemps' Trennung von „läuft zu 100 Prozent“ und „kommt zu 81 Prozent“ ist die Gegenübung im Klimafeld, und an demselben Maßstab muss sich sein eigener Anspruch messen lassen, Lösungen zu zeigen.
+- [[DenkerVita/Jutta Roosen]] — Roosen sortierte 2021, was eine Zuckersteuer leisten kann und warum Simulation und Beobachtung auseinanderliegen; Beautemps trägt die Frage 2026 weiter, als Befürworter einer zweckgebundenen Abgabe. Hier zeigt sich auch die Grenze seiner Zurückhaltung: Von drei kursierenden Zahlen zum Zuckerrückgang nimmt er die kleinste, die seiner Position nützt, so wie Ministerium und Industrie die größte nehmen.
+- [[DenkerVita/Jan Hegenberg]] — Beide halten Panik für so falsch wie Verharmlosung und zeigen lieber, was schon funktioniert. Im Ton liegen sie weit auseinander: Hegenberg spottet über „Dieter Diesel“, Beautemps benennt die Unsicherheit, bevor er eine These stark macht.
 
 ## Gedankenwelten-Notes
 
-- [[Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
+- [[Breaking Lab — CO2-Geothermie und Factor 2 Energy|Breaking Lab — CO₂-Geothermie und Factor 2 Energy]]
 - [[Jacob Beautemps — Der Super-El-Nino 2026 und die Kunst der Zurueckhaltung|Der Super-El-Niño 2026 — und die Kunst der Zurückhaltung]]
 - [[Geistesblitz/Jutta Roosen — Wie wirksam sind Zuckersteuer und Co|Jutta Roosen — Wie wirksam sind Zuckersteuer & Co.?]] — sein Breaking-Lab-Video zur deutschen Zuckerabgabe 2026 als Brücke von 2021 nach heute

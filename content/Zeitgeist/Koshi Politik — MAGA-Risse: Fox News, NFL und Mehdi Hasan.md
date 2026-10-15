@@ -109,10 +109,10 @@ Hasan: *„They know they're in trouble at the midterms — rather than change c
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
+### → [[Zeitgeist/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
 Direkte Vorgänger-Note: Am Tag zuvor hatte Koshi die Fragmentierung theoretisch beschrieben. Hier sieht man sie live — Fox News stellt Trump in Frage.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]]
+### → [[Zeitgeist/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]]
 Nächste Eskalationsstufe: Acht Tage später verlassen Nick Fuentes und Joe Kent öffentlich den Kult.
 
 ### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]

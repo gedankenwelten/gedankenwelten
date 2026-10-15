@@ -69,7 +69,14 @@ Yoran ist kein Parteipolitiker, sondern Konsum- und Technikkritiker aus unterneh
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Michael Moss]] — Moss findet in der Lebensmittelindustrie keine Schurken, nur Techniker, die ein Problem lösen, und Aktionäre, die keinen Bissen weniger dulden. Yoran findet hinter dem Duschschlauch ohne Drehwirbel dasselbe: ein Produkt, das dem Hersteller besser dient als dem Käufer, und niemanden, der Böses wollte.
+- [[DenkerVita/Chris van Tulleken]] — Zwei Kritiker, die im Spiegel sich selbst als Anleger finden, Yoran mit seinen ETFs, van Tulleken mit seiner Rente bei BlackRock. Bei beiden wird die Mindestvorgabe zur Zielvorgabe: 65 Prozent Fisch im Fischstäbchen, weil das Lebensmittelbuch es verlangt, und fünf Prozent Erdbeere im Müsliriegel, weil keine Vorschrift mehr verlangt.
+- [[DenkerVita/Veronika Grimm]] — Die deutlichste Reibung. Für Grimm ist der Preis das Signal, das eine Gesellschaft durch die Knappheit lenkt, der CO₂-Preis also das Werkzeug der Wahl. Yoran nennt ihn „eine Marktsimulation“, deren Preis die Politik beliebig herunterdrehen könne, und zieht Singapurs Autozertifikate vor, bei denen die Menge feststeht und der Preis brutal hoch wird.
+- [[DenkerVita/Markus Gabriel]] — Gabriel will die Lücke zwischen dem Interesse des Herstellers und dem des Kunden durch die moralische Selbstbindung der Unternehmen schließen. Yoran, selbst Gründer, verlangt Zwang von außen: Kostenwahrheit, längere Gewährleistung, Produktmanager, die geschützt Nein sagen dürfen. Moral von innen gegen Regel von außen.
+- [[DenkerVita/Harald Welzer]] — Beide halten das Argument „das wollen die Kunden“ für eine Ausrede der Anbieter. Welzer erklärt die Bedürfnisse für erfunden und wird polemisch; Yoran will eine demokratische Bedürfnisdebatte, die den Einzelnen entlastet. Dieselbe Diagnose in zwei Temperaturen.
+- [[DenkerVita/Erich Fromm]] — Yorans Vorschlag, saubere Wäsche zu kaufen statt einer Waschmaschine, klingt nach Fromms Ausstieg aus dem Haben. Doch Yoran sieht im Nicht-Besitzen zugleich die nächste Falle, das Abo, aus dem man so schwer herauskommt wie aus WhatsApp.
+- [[DenkerVita/Hartmut Rosa]] — Eine Zuhörerin brachte Rosas Unverfügbarkeit in den Saal: nicht bei Bedürfnissen anfangen, sondern bei Grundrechten wie Teilhabe und sauberer Luft, und Yoran stimmte zu. Seine Geräte mit „Befassungsbedürfnis“, die unsere Aufmerksamkeit „frittieren“, sind die Produktseite dessen, was Rosa als Beschleunigung beschreibt.
+- [[DenkerVita/Maja Goepel]] — Yorans „Kostenwahrheit erzwingen“ ist Göpels Argument von den nicht eingepreisten Folgekosten, heruntergebrochen auf das Fünf-Euro-Shirt. Beide nehmen die moralische Last aus dem Einkaufskorb und legen sie in die Preisstruktur.
 
 ## Gedankenwelten-Notes
 

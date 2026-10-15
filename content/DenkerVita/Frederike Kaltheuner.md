@@ -83,11 +83,17 @@ Ungerechtigkeiten durch KI sind nicht zufällig oder nachträglich behebbar — 
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Carsten Jung]] — Ihr Bühnenpartner auf der re:publica 26 und ihr nächster Verbündeter, mit eigenem Akzent. Jung hält Souveränität ohne Vision für leer und will über Missionen lenken, welche Anwendungen entstehen; Kaltheuner stimmt zu und warnt, ohne Eingriff in die Marktkonzentration lande man mit jeder Mission bei OpenAI im Krankenhaus.
+- [[DenkerVita/Francesca Bria]] — Beide halten Souveränität ohne Umbau der Machtverhältnisse für Rhetorik. Bria setzt beim Eigentum an, beim öffentlich gebauten Stack; Kaltheuner bei den Regeln für einen Markt, den Europa nicht besitzt und trotzdem gestalten könnte.
+- [[DenkerVita/Nicole Buettner]] — Die Gegenstimme von derselben re:publica. Die Gründerin und Techoptimistin sucht Souveränität bei europäischen Champions und schrieb, wer keine Techmilliardäre im Land wolle, habe das Thema nicht verstanden. Kaltheuners dritter „fataler Fehler“ Europas ist genau diese Gleichsetzung von Firmeninteresse und europäischem Interesse.
+- [[DenkerVita/Georgina Neitzel]] — Neitzel und Raphael Iltisberger beschreiben das Dilemma der Gegenstimmen: Wer das Aufmerksamkeitsspiel verweigert, wird nicht gehört, wer mitspielt, nährt es. Kaltheuners Eingeständnis, sie habe ihre Sprache den Politikerräumen angepasst und darin eine Selbstzensur erkannt, ist dieses Dilemma in der ersten Person.
+- [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff]] (Note, keine DenkerVita) — Mühlhoff beschreibt die Desouveränisierung: Staaten geraten in die Abhängigkeit privater KI-Plattformen und geben Funktionen an sie ab. Kaltheuner sucht den politischen Gegenzug, Souveränität durch Marktgestaltung abzusichern. Diagnose und Gegenmittel, mit der offenen Frage, wie weit die Abhängigkeit schon reicht, wenn das Gegenmittel kommt.
+- [[DenkerVita/Christian Bauckhage]] — Der Ingenieursblick auf denselben Standortnachteil. Bauckhage sagt, Europas Rechenkapazität stehe herum, es fehle an Willen, Datenrecht und Geld, und setzt auf kleine Spezialmodelle mit Industriedaten; Kaltheuner fragt, wem die Infrastruktur darunter gehört. Das Wettrennen um immer größere Modelle halten beide für keine europäische Strategie.
+- [[DenkerVita/Adam Tooze]] — Am Streit zwischen Pentagon und Anthropic beschreibt Tooze die amerikanische Variante: Der Staat zwingt das KI-Kapital in seine Dienste, hier zur Militarisierung. Kaltheuner und Jung entwerfen dagegen eine demokratisch legitimierte Lenkung. Dieselbe Machtfrage, wer KI wohin steuert, mit entgegengesetzter Antwort.
 
 ## Gedankenwelten-Notes
 
-- [[Zeitgeist/re:publica 26 — KI-Industriepolitik und europäische Souveränität]] — re:publica 26 Session
+- [[Zeitgeist/rp26 — KI-Industriepolitik richtig gemacht]] — re:publica 26 Session
 
 ---
 

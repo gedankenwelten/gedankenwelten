@@ -66,7 +66,14 @@ Was bleibt, ist das Bild einer Frau, die Macht nüchtern ausübte und sie freiwi
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- **[[DenkerVita/Herfried Münkler|Herfried Münkler]]** — Münkler liefert die Theorie zu Merkels „zweiter Seite der Medaille“, Abschreckung und Diplomatie als untrennbares Paar. Doch wo sie mehr Gespräch anmahnt, setzt er auf eine „Produktivität von Feindschaft“: Verhandlungen entstünden aus militärischen Rückschlägen, nicht aus Appellen.
+- **[[DenkerVita/Andrey Gurkov|Andrey Gurkov]]** — Der russische Gasjournalist hält die Rückkehr zu den alten Beziehungen für eine Illusion, weil nicht nur der Kreml, sondern die Gesellschaft mit Europa gebrochen habe. Gegen Merkels Diplomatie-Appell setzt er eine Ostpolitik, die sich von Moskau nach Kiew dreht.
+- **[[DenkerVita/Christoph Hein|Christoph Hein]]** — In der Note zu Heins Geoökonomie wird seine nüchterne Analyse zur Bilanz der Merkel-Ära: Russland liefert zuverlässig, China kauft unbegrenzt, Amerika schützt kostenlos — drei Annahmen, die gleichzeitig brachen.
+- **[[DenkerVita/Torsten Heinrich|Torsten Heinrich]]** — Heinrich trifft eine konkrete Entscheidung: Mit Sarkozy bremste Merkel 2008 in Bukarest den NATO-Beitritt der Ukraine und ließ das Land in einem Limbo aus Hoffnung ohne Schutz. Für ihn liegt dort der eigentliche Fehler des Westens, nicht in der Erweiterung.
+- **[[DenkerVita/Alexander Thiele|Alexander Thiele]]** — Thiele zieht die Linie von Merkels „alternativlos“ zur Gründung der AfD 2013: Ein Wort, das eine politische Frage für entschieden erklärt, produziert die Partei, die sich Alternative nennt. Die Kehrseite des Regierens vom Ende her.
+- **[[DenkerVita/Adam Tooze|Adam Tooze]]** — Für Tooze ist Krise ein Deutungskampf, und die Eurorettung sein Lehrstück: Die Alternativlosigkeit erzeugte Zwänge, und Berlin hatte stets Zeit für Lösungen, die Athen, Madrid und Lissabon nicht hatten. Die Schattenseite dessen, was ihre Vita als Zusammenhalt Europas verbucht.
+- **[[DenkerVita/Roger de Weck|Roger de Weck]]** — Für de Weck der Inbegriff der aufgeklärten Konservativen, die die Union defensiv modernisierte und dabei Wählerinnen gewann, auch wenn sie gegen die Ehe für alle stimmte. Wolfgang M. Schmitt hielt ihm ihre asymmetrische Demobilisierung entgegen, eine Politik ohne Vision.
+- **[[DenkerVita/Jana Hensel|Jana Hensel]]** — Der ostdeutsche Blick auf die erste Ostdeutsche im Kanzleramt: Merkel habe den Glauben an die Demokratie im Osten noch einmal belebt, bevor er brach. Die Abbruchkante setzt Hensel bei Hartz IV an; die Union treffe es erst zehn Jahre später.
 
 ## Gedankenwelten-Notes
 

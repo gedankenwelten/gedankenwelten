@@ -93,7 +93,13 @@ Kein agitatorischer Ton, aber keine Naivität — das macht Janssen für Publiku
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — technik-kritische Philosophen, KI-Sicherheitsforscher)*
+- [[DenkerVita/Frederike Kaltheuner]] — Kaltheuner beschreibt strukturell, was Janssen auf der Computex von innen sieht: einen KI-Markt, der kein freier Markt ist, mit einem einzigen Hardware-Anbieter am Flaschenhals. Beide entziehen sich der Frage „Hype oder nicht“: Kaltheuner nennt KI über- und unterschätzt zugleich, Janssen arbeitet täglich mit ihr und verdreifacht seine Produktivität trotzdem nicht.
+- [[DenkerVita/Georgina Neitzel]] und [[DenkerVita/Raphael Iltisberger]] — Huangs Token-Mantra erfüllt ihr Hype-Modell Punkt für Punkt: Vision als Gewissheit, gehobene Sprache, ausgeblendete Risiken, Aufforderung zum Kauf. Ihre Warnung, Kritik verstärke oft den Hype, den sie bekämpft, gilt vor allem der Untergangskritik, die KI allmächtig erscheinen lässt; Janssen geht den anderen Weg und rechnet die Versprechen klein.
+- [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff]] (Note, keine DenkerVita) — Mühlhoff beschreibt KI-Profit als Umverteilung von unten nach oben zu wenigen Oligopolisten; der Tokenextremismus ist die Mechanik dazu, eine Kennzahl, die Umsatz vom Nutzen trennt. Mühlhoff zieht daraus eine politische Linie bis zur Desouveränisierung des Staates, Janssen bleibt beim Menschen, der nicht mehr Kunde sein soll.
+- [[DenkerVita/Markus Gabriel]] — Gabriel beschreibt philosophisch, wie KI den Menschen als Datenpunkt statt als Gegenüber modelliert. Bei Huang ist daraus Produktstrategie geworden: CPUs nicht mehr für Menschen, sondern für Agenten.
+- [[DenkerVita/Maja Goepel]] — Göpel sieht dieselbe Zirkularität der KI-Ökonomie von der Finanzierung her, Systeme, die auf Schulden und sich gegenseitig stützenden Krediten voranrasen. Ihre Frage schließt, was Janssens Rechnung offenlässt: Wenn möglichst viele Menschen ersetzt werden, wer kauft dann das Produzierte?
+- [[DenkerVita/Adam Tooze]] — Tooze zeigt am Streit zwischen Pentagon und Anthropic, wie staatliche Macht KI für Zwecke einspannt, die niemand demokratisch beschlossen hat. Janssens „von Milliardären für Milliardäre“ ist die Marktseite desselben Bildes: Die Mehrheit ist weder Subjekt noch Adressat der Technik.
+- [[DenkerVita/Nicole Buettner]] und [[DenkerVita/Pascal Kaufmann]] — Janssen beschreibt das Problem, Büttner und Kaufmann die europäische Antwort: Souveränität als Wahlfreiheit, eigene Infrastruktur gegen eine Abhängigkeit von US-Technik, die sie auf 90 Prozent beziffern. Offen bleibt, wie eine europäische Infrastruktur an dem Hardware-Flaschenhals vorbeikommt, den Janssen beschreibt.
 
 ## Gedankenwelten-Notes
 
@@ -107,4 +113,4 @@ Kein agitatorischer Ton, aber keine Naivität — das macht Janssen für Publiku
 > - Wenn Token = Umsatz ist, wessen Realität beschreibt diese Formel? Gilt sie auch für die Billig-Arbeitskräfte, die Trainings­daten beschaffen, oder nur für die Kapitaleigner?
 > - Janssen sagt, Nvidias Strategie sei „abgekoppelt von der Realität". Aber ist es nicht auch realistisch, dass ein Konzern seine eigenen Profitinteressen maximiert — und die Frage „profitabel für wen?" einfach ignoriert?
 > - Wenn Code-Commits keine echte Produktivität messen können — wie würde man sie messen? Und wer entscheidet darüber?
-> - Nvidia baut ein System, in dem Amazon-Angestellte bestraft werden, wenn sie keine Tokens konsumieren. Ist das System-Fehler oder System-Feature — also: war es geplant oder fahrlässig?
+> - Bei Amazon spielten Angestellte ein Token-Ranking selbst nach oben, mit sinnlosen Anfragen, bis das Leaderboard abgeschaltet wurde. Niemand hat sie bestraft. Wenn eine Metrik genügt, damit Menschen freiwillig Unsinn produzieren: Wer trägt dann die Verantwortung, wer die Metrik setzt oder wer ihr folgt?

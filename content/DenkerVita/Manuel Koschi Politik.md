@@ -90,7 +90,13 @@ Manuel ist kein Buchautor — sein Medium ist YouTube. Kernformate des Kanals:
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Annika Brockschmidt|Annika Brockschmidt]] — Dieselbe Figur aus zwei Blickwinkeln. Brockschmidt liest Pete Hegseths Jerusalemkreuz und „Deus vult“ als offenes Codebuch des christlichen Nationalismus, Koschi verfolgt von Buffalo aus, wie der Verteidigungsminister das Militär in diesem Sinn umbaut.
+- [[DenkerVita/Benjamin Biersky|Benjamin Biersky]] — Beide erklären Trumps Amerika einem deutschen Publikum, von entgegengesetzten Standorten aus: Koschi als Augenzeuge in den USA, Biersky aus dem Oberbergischen. Bierskys Pyramide von Trumps Machtbasis ist das Gerüst, Koschis Folgen zu Nick Fuentes, Joe Kent und „MAGA 2.0“ zeigen die Risse darin von innen.
+- [[DenkerVita/Kalayo|Kalayo]] — Der nächste Nachbar im Format, beide verfolgen den Epstein-Komplex als laufende Chronik. Der Unterschied liegt im Ton. Koschi kennzeichnet seine Zuspitzung offen als „überspitzt und ironisch“ und trennt Beleg von Vermutung; Kalayo fährt das Empörungsregister, zeigt dafür aber Originaldokumente.
+- [[DenkerVita/Sandra Navidi|Sandra Navidi]] — Gleicher Befund, verschiedene Lesart. Pam Bondis Entlassung war für Koschi eine gute Nachricht, für Navidi ein Symptom: gefeuert, weil nicht korrupt genug, wie sie sagt, und ersetzt durch Trumps früheren Strafverteidiger. Beim Iran-Krieg ergänzen sie sich: Koschi fragt, wer militärisch und politisch profitiert, Navidi folgt dem Geld.
+- [[DenkerVita/Liya Yu|Liya Yu]] — Koschis Folge über die neuen ICE-Rekorde liefert Yus These einen Fall: Die Familie des erschossenen US-Bürgers Alex Pretti bittet vor allem darum, dass Regierungsposts gelöscht werden, die ihn *assassin* und *domestic terrorist* nennen. Die Sprache hat das Mitdenken des anderen abgeschaltet, bevor ein Verfahren beginnen konnte.
+- [[DenkerVita/Eva von Redecker|Eva von Redecker]] — Redeckers „Drang nach Härte“ bekommt in Koschis Truth-Social-Chronik seine Belege in Echtzeit, von der ICE-Rhetorik während des DHS-Shutdowns bis zum Töten als „Ehrensache“. Seine Folgen über die enttäuschte MAGA-Basis zeigen die andere Seite: Wenn die inszenierte Härte keine Probleme löst, beginnt die Ablösung.
+- [[DenkerVita/Leon Black|Leon Black]] — Koschi hat den Tag dokumentiert, an dem der Milliardär die Epstein-Anhörung nach weniger als einer Stunde verließ; die Note zu diesem Video ist der Schnappschuss, die Spur über den Schutz von Eliten die lange Blende. Dass Black alle Missbrauchsvorwürfe bestreitet, hält die Note ausdrücklich fest.
 
 ---
 
@@ -104,7 +110,7 @@ Manuel ist kein Buchautor — sein Medium ist YouTube. Kernformate des Kanals:
 - [[Koschi Politik — Trump GAGA auf FOX und Hormuz-Blockade (15.04.2026)]]
 - [[Koschi Politik — Trump gegen Papst Leo]]
 - [[Koschi Politik — Weißes Haus löscht Trumps Privatvideo]]
-- [[Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedrängt]]
+- [[Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedraengt|Koschi Politik — Trump von FOX und Netanyahu in die Ecke gedrängt]]
 - [[Koschi Politik — ICE erschiesst Lorenzo Salgado]]
 - [[Koschi Politik — ICE erschiesst Joan Sebastian Guerrero]]
 - [[Koschi Politik — ICE setzt neue Rekorde]]

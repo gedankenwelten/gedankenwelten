@@ -318,22 +318,22 @@ Direkte Verbindung: Dieselbe Körper-Stiftung kündigt unmittelbar danach eine V
 ### → [[Denker/Hannah Arendt — Denken ohne Geländer]]
 Arendt reflektiert, wie politisches Urteilen möglich ist, wenn Institutionen versagen. Manow stellt eine analoge Frage: Wenn Wahlen keine echte Alternative bieten und Gerichte das Politische überwuchern — wie soll dann demokratische Selbstregierung funktionieren?
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 13: Supreme Court und Zölle]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 13: Supreme Court und Zölle]]
 Trump kündigt an, aus „Respektlosigkeit" gegenüber dem Supreme Court Kleinschreibung zu verwenden. Manow beschreibt, wie Populismus Institutionen schrittweise untergräbt — dieser Post ist das buchstäblichste Beispiel: ein Buchstabe als Geste der institutionellen Erosion.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 10: Super Bowl und Bad Bunny]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 10: Super Bowl und Bad Bunny]]
 Trumps Post gegen die Super Bowl Halftime Show — Spanisch als „unverständlich", Bad Bunny als Angriff auf Amerika — ist Manows Kulturkampf-Mechanismus in Reinform: Kulturelle Abgrenzung als Machtinstrument, nicht als ästhetische Kritik.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
+### → [[Zeitgeist/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
 Die MAGA-Risse beim Iran-Krieg sind ein Prüfstein für Manows Analyse: Wenn der Populismus konkrete Probleme produziert (Benzinpreise, tote Soldaten) statt nur Symbolpolitik, beginnt die Wahlkalkül-Logik zu kippen. Hasan nennt ihn „inkompetenten Autoritären" — die Kosten der Öffnungs/Schließungs-Agenda werden sichtbar.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]]
+### → [[Zeitgeist/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]]
 Nick Fuentes und Joe Kent verlassen den Trump-Kult aus gegensätzlichen Gründen (Fuentes: nicht hart genug; Kent: Iran-Krieg widerspricht Versprechen). Das illustriert Manows These über die innere Zerrissenheit populistischer Koalitionen, wenn Symbolpolitik gegen konkrete Interessen stößt.
 
 ### → [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
 Manows Analyse des populistischen Reflexes gegen Globalisierung erklärt Trumps innenpolitische Falle: Der Iran-Krieg ist schwer zu verkaufen an eine Wählerschaft, die sich gegen offene Systeme und Auslandsabenteuer wendet — Tankstellenpreise als konkrete Folge der Schließungspolitik.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will]]
+### → [[Zeitgeist/Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will]]
 Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblöcke zu mobilisieren, passt exakt auf Trumps Kalkül beim DHS-Shutdown: Das Flughafen-Chaos ist kein Fehler, sondern Mittel zum Zweck — der Save America Act als Wahlkampf mit staatlichen Mitteln.
 
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Lehnerts „länger arbeiten, weniger Urlaub" illustriert Manows Öffnung/Schließung-Modell konkret

@@ -140,10 +140,10 @@ Heinisch analysiert Trumps innenpolitische Schwächung durch den Iran-Krieg. Kos
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 MONITOR analysiert die völkerrechtliche Dimension des Krieges. Koshi ergänzt die Korruptionsebene: Wem nutzt dieser Rechtsbruch?
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund]]
+### → [[Zeitgeist/Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund]]
 Direkte Fortsetzung: Was passiert innenpolitisch, nachdem die MAGA-Basis merkt, dass sie für fremde Interessen in den Krieg geschickt wird?
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
+### → [[Zeitgeist/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
 Die finanzielle Entblößung des Iran-Krieges ist der Auslöser für MAGA 2.0 — Ex-MAGA die sich vom Personenkult lösen.
 
 ### → [[Geistesblitz/Dr. Pablo Hagemeyer — Narzissmus, innere Leere und das Selbst]]

@@ -53,7 +53,15 @@ tags: [denker-vita, philosophie, psychologie, evolution, religion]
 - Keine parteipolitische Verortung; der Ansatz ist wissenschaftlich-humanistisch, mit kulturkritischer Stoßrichtung gegen die Selbstverständlichkeiten der modernen (Wachstums-)Gesellschaft.
 
 ## Verbindungen zu anderen Denkern
-*(wird von Montaigne befüllt)*
+
+- **[[DenkerVita/Kai Michel|Kai Michel]]** — Der Ko-Autor aller vier Bücher seit 2016: Der Historiker bringt die Texte, der Evolutionsbiologe die Naturgeschichte. Aus dieser Arbeitsteilung entstanden die Bibel als „Tagebuch der Menschheit“ und die drei Naturen.
+- **[[DenkerVita/Yuval Noah Harari|Yuval Noah Harari]]** — Der erklärte Gegenspieler: *Mensch sein* setzt die neuen Lagerfeuer gegen Hararis *Homo Deus*, das biologische Erbe als Maß gegen die technische Selbstüberschreitung. Hararis ARTE-Fassung zeigt allerdings ein erdigeres Menschenbild, als der Vorwurf des „Autobahnblicks“ nahelegt.
+- **[[DenkerVita/Rutger Bregman|Rutger Bregman]]** — Der Zwilling aus anderer Disziplin: Bregmans *survival of the friendliest* ist van Schaiks erste Natur, beide schreiben gegen Hobbes. Van Schaik liefert aber den Mechanismus, den Bregman offenlässt — warum aus dem freundlichen Tier trotzdem Herrschaft und Krieg wurden: die Sesshaftigkeit.
+- **[[DenkerVita/Liya Yu|Liya Yu]]** — Die produktivste Gegenstimme: Wo van Schaik die Feindschaft gegen Fremde als späte Kulturfolge liest, hält Yu die Grenze zwischen Eigen- und Fremdgruppe für ein hartnäckiges Hirnfaktum. Einig sind sie, dass der Mensch evolutionär fehl am Platz ist und man das Erbe steuern muss, statt es zu leugnen.
+- **[[DenkerVita/Jonathan Haidt|Jonathan Haidt]]** — Beide lesen Moral als gewachsenes Werkzeug aus dem Bauch, nicht als Vernunftkonstrukt: Haidts Elefant ist van Schaiks erste Natur, sein Reiter die schwache dritte. Doch Haidt betont die Stammesnatur, die Gräben zieht, van Schaik die egalitäre Fairness der Jäger und Sammler, die erst die Sesshaftigkeit verbog.
+- **[[DenkerVita/Kojin Karatani|Kojin Karatani]]** — Dieselbe Sündenfall-Erzählung, ökonomisch statt anthropologisch: Karatanis Tauschweise der Gegenseitigkeit ist van Schaiks egalitäre Jäger-und-Sammler-Welt, und bei beiden entsteht der Staat aus Plünderung und Herrschaft, im Bruch mit der Reziprozität.
+- **[[DenkerVita/Hartmut Rosa|Hartmut Rosa]]** — Im Gespräch selbst mehrfach genannt: Rosas „aggressives Weltverhältnis“ und die Vereinzelung der Spätmoderne sind das Leiden, gegen das van Schaik neue Lagerfeuer und die dritte Natur setzt. Zwei Wege zur selben Entwurzelung, der eine soziologisch, der andere evolutionär.
+- **[[DenkerVita/Susan Neiman|Susan Neiman]]** — Eine unerwartete Verbündete: Neiman misstraut der Evolutionspsychologie als Rechtfertigung des Eigennutzes, doch van Schaiks aus Ethnografie und Archäologie gelesenes kooperatives Menschenbild teilt ihren Verdacht gegen den Homo oeconomicus eher, als dass es ihn bestreitet. Gestritten wird über die Methode, kaum über das Ergebnis.
 
 ## Gedankenwelten-Notes
 - [[Carel van Schaik und Kai Michel — Die drei Naturen des Menschen]]

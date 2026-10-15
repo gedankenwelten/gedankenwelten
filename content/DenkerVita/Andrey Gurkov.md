@@ -76,7 +76,13 @@ Gurkov ist ein **klarer, unversöhnlicher Kreml-Kritiker mit russischer Biografi
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- **[[DenkerVita/Sergey Lagodinsky|Sergey Lagodinsky]]** — Zwei Kreml-Kritiker mit russischer Biografie, die die Gesellschaft nicht freisprechen: Lagodinskys „sehr viele haben sich arrangiert“ ist die leisere Fassung von Gurkovs gebrochener Gesellschaft, und beide lassen offen, wie viel davon Zustimmung ist und wie viel Anpassung unter Druck.
+- **[[DenkerVita/Marina Kormbaki|Marina Kormbaki]]** — Am selben Presseclub-Tisch teilen sie den Befund eines aggressiven Russlands, beim Nord-Stream-Fall gehen sie auseinander: Für Kormbaki ist der nie adressierte Bruch der Grund für das heutige Misstrauen gegen die Regierung, Gurkov macht aus demselben Fall eine Nutznießer-Rechnung und verlangt ein Urteil statt einer Anklage.
+- **[[DenkerVita/Hanna Notte|Hanna Notte]]** — Beide halten die Feindschaft zum Westen für einen Dauerzustand, nicht für eine Episode. Notte verortet sie als Ordnungsprinzip eines Regimes, das keine Zukunft anzubieten hat, Gurkov tiefer, in einer Gesellschaft, die das Feindbild mitträgt — und davon hängt ab, ob nach Putin etwas anderes kommen kann.
+- **[[DenkerVita/Katrin Eigendorf|Katrin Eigendorf]]** — Die schärfste Gegenstimme im Bestand: Eigendorf nennt Russland ein „Auslaufmodell“, das um sich schlägt, Gurkov den Putinismus ein „sehr stabiles und sehr erfolgreiches“ System. Zwei Kenner aus drei Jahrzehnten Anschauung, mit entgegengesetzter Planungsgrundlage.
+- **[[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]** — Wie Gurkov liest Herrmann Russland über Haushalt und Kriegskosten statt über Ideologie und kommt auf eigenem Weg zum selben ernüchternden Schluss: Frieden wäre für Putin teurer als Krieg, auf ein baldiges Einlenken ist nicht zu bauen.
+- **[[DenkerVita/Christoph Hein|Christoph Hein]]** — Heins Befund, „Wandel durch Handel“ sei an seiner Asymmetrie gescheitert, ist die Außenseite dessen, was Gurkov als Gasjournalist dreißig Jahre von innen beobachtet hat: Lieferverträge, die Abhängigkeit für Partnerschaft hielten.
+- **[[DenkerVita/Angela Merkel|Angela Merkel]]** — Die Reibung mit der Politik, die Nord Stream 2 baute: Merkel hält ihre Russlandpolitik bis heute für richtig und mahnt mehr europäische Diplomatie an, Gurkov hält die Rückkehr zu den alten Beziehungen für eine Illusion und will die deutsche Ostpolitik von Moskau nach Kiew drehen.
 
 ## Gedankenwelten-Notes
 

@@ -53,7 +53,19 @@ tags: [denker-vita, neurowissenschaft, neuroimaging, liebe, deutschland]
 Bartels gehört zur Tradition der **funktionellen Bildgebung** in der Nachfolge von Semir Zeki, der das Sehen in spezialisierte Verarbeitungszentren zerlegte. Die Liebes-Studien waren methodisch Pionierarbeit und medial ein Welterfolg — zugleich stehen frühe fMRT-Emotionsstudien heute unter dem Vorbehalt kleiner Stichproben und der allgemeinen Reproduzierbarkeitsdebatte der Neurobildgebung. Bartels' anhaltender, weniger schlagzeilenträchtiger Beitrag liegt in der visuellen Neurowissenschaft: dem präzisen Studium, wie aus dem flüchtigen Reizstrom eine stabile, bewegte Welt wird.
 
 ## Verbindungen zu anderen Denkern
-*(wird von Montaigne befüllt)*
+**[[DenkerVita/Semir Zeki|Semir Zeki]]** — Der Doktorvater und Ko-Autor beider Liebes-Studien. Zeki zerlegte das Sehen in spezialisierte Areale (Farbe in V4, Bewegung in V5) und wandte dieselbe Methode dann den Gefühlen zu. Bartels blieb bei dem, womit die Schule begann: beim Sehen.
+
+**[[DenkerVita/Helen Fisher|Helen Fisher]]** — Die Gruppe um Fisher bestätigte 2005 das Bild, das Bartels und Zeki fünf Jahre zuvor gezeichnet hatten, und verlegte den Schwerpunkt ins ventrale Tegmentum. Sie machte daraus eine weitreichende Deutung: Liebe als Trieb, nicht als Emotion. Der Befund stammt aus dem Labor, die große Erzählung von Fisher. Bei ihr markiert die Note auch den Interessenkonflikt als Beraterin von Match.com.
+
+**[[DenkerVita/Arthur Aron|Arthur Aron]]** — Der Sozialpsychologe in Fishers Team, der die Momentaufnahme in die Zeit verlängert. Bartels und Zeki scannten frisch Verliebte und Mütter. Aron und Kollegen fanden 2012 dieselbe Aktivität im Belohnungssystem bei Paaren nach gut zwanzig Ehejahren, verbunden mit Bindungsregionen. Das stützt Bartels' Befund von 2004, dass romantische Liebe und Bindung ein Fundament teilen.
+
+**[[DenkerVita/Donatella Marazziti|Donatella Marazziti]]** — Eine andere Linse auf denselben Ausnahmezustand. Bartels zeigt im Scanner, wie beim Anblick des Geliebten die kritisch bewertenden Areale leiser werden („Liebe macht blind"). Marazziti misst im Blut einen Serotoninwert, der bei Verliebten dem von Zwangskranken gleicht. Blindheit und Obsession, Bild und Biochemie, beide mit kleinen Stichproben und unter demselben Vorbehalt.
+
+**[[DenkerVita/Erich Fromm|Erich Fromm]]** — Die Gegenstimme auf der Ebene der Bedeutung. Wo die Bildgebung Liebe als Muster zeigt, das einem widerfährt, besteht Fromm darauf, dass reife Liebe eine Kunst ist, die man übt und wählt. Sie beginnt genau dort, wo der messbare Rausch endet.
+
+**[[DenkerVita/Juergen Kornmeier|Jürgen Kornmeier]]** — Die Verbindung zu Bartels' eigentlichem Lebensthema. Beide erforschen, wie das Gehirn aus dem Reizstrom eine Welt baut. Kornmeier zeigt am kippenden Necker-Würfel, dass dasselbe Bild zwei Erlebnisse erzeugt. Bartels fragt umgekehrt, wie aus ständig wechselnden Netzhautbildern eine stabile Welt wird. Für beide ist Wahrnehmung Konstruktion, kein Empfang.
+
+**[[DenkerVita/Rebecca Boehme|Rebecca Böhme]]** — Das Gehirn als Vorhersagemaschine, die Eigenbewegung und Erwartung einrechnet: Darin treffen sich Böhme und Bartels' Forschung zur visuellen Stabilität. Böhme zieht zugleich die Grenze, die auch für sein Feld gilt. Konstruiert heißt nicht halluziniert, denn die Sinne sind mit der wirklichen Welt gewachsen.
 
 ## Gedankenwelten-Notes
 - [[Die Neurobiologie der Liebe]]

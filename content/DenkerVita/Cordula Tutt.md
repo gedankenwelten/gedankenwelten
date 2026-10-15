@@ -67,7 +67,12 @@ Sie kritisiert Links-Pazifismus bei Reformen (zu viel Angst vor Veränderung) eb
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Christoph Butterwegge|Christoph Butterwegge]] — Ihr schärfster Gegenpol in der phoenixRunde: Wo Tutt bei der Rente zwei Drittel der gewonnenen Lebenszeit dem Arbeiten zuschlägt, nennt Butterwegge die demografische Begründung „sozialpolitische Demagogie“ und fragt nach der Verteilung des wachsenden Reichtums statt nach der Biologie.
+- [[DenkerVita/Christine Dankbar|Christine Dankbar]] — Beide sagen, Reform sei nicht Kürzung, doch ihre Wege kreuzen sich: Tutts doppelte Bedürftigkeit braucht Prüfung und Nachweis, Dankbar hält das wachsende Antragsformular selbst für eine Armutsfalle, und genau dort liegt der Preis der Zielgenauigkeit.
+- [[DenkerVita/Hans-Jürgen Völz|Hans-Jürgen Völz]] — Der Mittelstandsökonom teilt ihren Blick auf die Ineffizienz, ein teures Gesundheitssystem mit mittelmäßigen Ergebnissen, zieht aber den Schluss, den sie ausdrücklich nicht zieht: Ausgaben senken und Unternehmen entlasten, wo sie umbauen und gezielter verteilen will.
+- [[DenkerVita/Achim Truger|Achim Truger]] — Seinen Vorschlag, Beamte in die gesetzliche Krankenversicherung zu holen, hält Tutt im Grundsatz für richtig, rechnet aber die Übergangskosten dagegen: Eine Weile zahlt der Staat doppelt, und keine Generation gewinnt sofort.
+- [[Zeitgeist/phoenix-Runde — Rentenreform Wer gewinnt wer verliert#Das längere Leben und die Frage, wer es bezahlt|Florian Dorn]] — Der CSU-Ökonom trägt ihr Argument der Zielgenauigkeit in die Rentenkommission, individuelle Gesundheitsprüfung statt pauschaler Ausnahmen, und muss sich fragen lassen, ob damit Sozialpolitik in die Arztpraxen wandert: die Kehrseite, die das Prinzip mitbringt.
+- [[DenkerVita/Veronika Grimm|Veronika Grimm]] — Nah im wirtschaftsliberalen Lager und bei der Frage, die Tutt eine Gerechtigkeitsfrage nennt: Auch Grimm hält die Erbschaftsteuer für sinnvoller als eine Vermögensteuer und räumt offen ein, für die Schonung des Betriebsvermögens keine fertige Lösung zu haben.
 
 ## Gedankenwelten-Notes
 

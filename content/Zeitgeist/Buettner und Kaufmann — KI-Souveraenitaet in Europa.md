@@ -201,7 +201,7 @@ Das technische Fundament unter der Souveränitätsdebatte: Bauckhage begründet 
 
 ### → [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]]
 
-Die Süd-Perspektive zur selben Umkehrung: Souveränität als Gestaltungsmacht statt Abschottung. Konés 80-%-Importquote Afrikas und die europäische US-Abhängigkeit sind „zwei Seiten desselben strukturellen Problems".
+Die Süd-Perspektive zur selben Umkehrung: Souveränität als Gestaltungsmacht statt Abschottung. Konés Gefälle (Afrika liefert 2 % der KI-Trainingsdaten, Europa importiert rund 80 % seiner digitalen Technologien) und die europäische US-Abhängigkeit sind „zwei Seiten desselben strukturellen Problems".
 
 ### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic|Adam Tooze — Pentagon vs. Anthropic]]
 Büttner und Kaufmann beschreiben Europa als passiven Empfänger amerikanischer KI-Abhängigkeit — Tooze zeigt die operative Seite: Anthropic weigert sich, der militärischen Logik zu folgen, und wird dafür bestraft. Die europäische Souveränitätsfrage bekommt durch Tooze eine konkrete Antwort auf das Warum: Kapital folgt nicht Rechtsstaatlichkeit, sondern Gewinnaussichten — genau das Dilemma, das Büttner zu lösen versucht.

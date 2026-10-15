@@ -90,7 +90,19 @@ Du musst nicht fertig sein, um zu helfen. Adriaan beschreibt seine eigene Überf
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+**[[DenkerVita/Thich Nhat Hanh|Thich Nhat Hanh]]** — Der Lehrer. Van Wagensveld war Novize in Plum Village. Was Thay „deep looking into ill-being" nennt, wird bei ihm zur Praxis, die Wunde als Schatz zu begreifen. Und Thays engagierter Buddhismus ist das Fundament für sein „Wie kannst du *nicht* engagiert sein?".
+
+**[[DenkerVita/S.N. Goenka|S.N. Goenka]]** — Die nächste Verwandtschaft und die deutlichste Abweichung im Vipassana-Bestand. Goenka setzt auf das strenge Zehn-Tage-Retreat, auf „die Technik, nicht der Lehrer" und auf das Theravada-Ziel. Van Wagensveld setzt auf Alltagspraxis, auf einen Lehrer, der die eigene Überforderung zeigt, und auf das Bodhisattva-Gelübde. Bei Goenka ist Metta die Frucht der Reinigung, bei ihm ein Versprechen, das schon vor der Befreiung gilt.
+
+**[[DenkerVita/Matthieu Ricard|Matthieu Ricard]]** — Dasselbe Bodhisattva-Verständnis: Mitgefühl als Abstieg in fremdes Leiden, Wohlbefinden und Altruismus als eine Bewegung statt als Tausch. Die Reibung liegt im Weg dorthin. Ricard betont die unverzichtbare Nähe zum lebenden Meister, van Wagensveld die eigenständige Sitzpraxis.
+
+**[[DenkerVita/Shi Heng Yi|Shi Heng Yi]]** — Die direkte Gegenposition. „Die Welt kann man nicht heilen, nur sich selbst" gegen „Vipassana ins Handeln". Gerade Shi Heng Yis eigener Fall stützt eher van Wagensveld: Den missbrauchenden Abt brachte erst das aktive Nachforschen zu Fall, Innenschau allein hätte ihn gedeckt.
+
+**[[DenkerVita/Arthur Schopenhauer|Arthur Schopenhauer]]** — Der westliche Gegenpol aus denselben Prämissen. Schopenhauer las im Buddhismus die Verneinung des Willens und zog sich zurück. Van Wagensveld liest dieselbe Einsicht ins Leiden als Auftrag zurückzukehren, und das Theravada-Ideal des Austritts nennt er „unstimmig".
+
+**[[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Reckwitz diagnostiziert, der Moderne fehlten die kulturellen Werkzeuge für den Verlust. Van Wagensveld führt eines in Gebrauch vor: Ksitigarbha, der in die Hölle hinabsteigt, statt sie zu überwinden. Das prüft Reckwitz an seiner Schwachstelle, denn er denkt den Umgang mit Verlust als Innovationsaufgabe. Vielleicht müsste die Antwort aber nicht erfunden, sondern zurückgeholt werden.
+
+**[[Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke|Giovanni Maio]]** — Dieselbe These aus der säkularen Medizinethik: Verletzlichkeit als Ort der Begegnung, nicht als Schwäche, und Selbstsorge als Gegenteil eines Autonomieprojekts. Maios Kritik am Autonomiemythos fragt van Wagensveld allerdings auch zurück, ob der „Urlaub aus den Rollen" nicht selbst ein Autonomiemythos in spiritueller Sprache ist.
 
 ---
 
@@ -98,3 +110,4 @@ Du musst nicht fertig sein, um zu helfen. Adriaan beschreibt seine eigene Überf
 
 - [[Adriaan van Wagensveld — Ksitigarbha die Wunden als Schatz]] — Retreat-Vortrag: Bodhisattva-Ideal, Ksitigarbha, Wunden als Schatz, Befreiungspragmatismus
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Impuls-Vortrag: Engagierter Buddhismus, Vipassana als Laienpraxis, Alltagspraxis statt Kissenpraxis
+- [[Adriaan van Wagensveld — Fuer dich sorgen heisst fuer andere sorgen]] — Vortrag: Selbstfürsorge als Bedingung der Fürsorge, das Recht-Haben-Spiel in Familien, der Körper als Kommunikationskanal

@@ -89,13 +89,19 @@ Er wird in Diskursen um Faschismus und Mediendemokratie mit [[DenkerVita/Götz A
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Nadia Zaboura|Nadia Zaboura]] — Mit ihr hielt er auf der re:publica 26 den Vortrag „Ganz normale Medien und ihr Beitrag zum Comeback des Faschismus“. Die Arbeitsteilung ist sichtbar: Dobusch beschreibt den Teufelskreis, in dem die Angst vor dem Aktivismus-Vorwurf zu noch mehr falscher Balance führt, Zaboura zieht den normativen Schluss aus Grundgesetz und Pressekodex, antifaschistischer Journalismus sei rechtliche Mindestanforderung und keine Parteinahme.
+- [[DenkerVita/Elmar Thevessen|Elmar Theveßen]] — Der Praktiker zur Strukturanalyse. Theveßens „Normalisierungsfalle“ (bei NPR wird aus Trumps Milwaukee-Tirade eine „breit gefächerte politische Rede“) ist der Einzelfall zu „Performing Balance by Practicing Bias“, sein Gebot des „zweiten Satzes“ der handwerkliche Ausweg. Die beiden setzen auf verschiedenen Ebenen an: Theveßen beim Handwerk des einzelnen Korrespondenten, Dobusch bei der Organisation, die es belohnt oder bestraft.
+- [[DenkerVita/Thomas Laschyk|Thomas Laschyk]] — Laschyk zieht aus der Kritik an falscher Balance die offene Parteinahme: „Wir sind nicht neutral.“ Der Faktencheck seiner Note zeigt den Preis, den Dobuschs Formel vom offen benannten Standpunkt mitbedenken muss. Belege, die der eigenen Geschichte widersprechen, fallen dort leichter heraus.
+- [[DenkerVita/Alexander Teske|Alexander Teske]] — Dieselbe Anstalt aus zwei Richtungen, Dobusch aus den ZDF-Gremien, Teske aus der Planung von ARD-aktuell. Beide wollen den öffentlich-rechtlichen Rundfunk reformieren, nicht abschaffen, und benennen verschiedene Fehler: Dobusch die Weichheit gegenüber autoritären Narrativen, Teske die Milieu-Enge derer, die die Themenliste machen. Ob mehr Milieuvielfalt und klare Kante gegen rechts dieselbe Reform sind oder zwei gegenläufige, bleibt zwischen ihnen offen.
+- [[DenkerVita/Mats Schoenauer|Mats Schönauer]] — Schönauers Gespräche mit Mitarbeitenden von ARD und ZDF sind die Innenansicht des Teufelskreises: Redakteure meiden zutreffende, aber politisierbare Wörter und weichen auf „sichere Wahrheiten“ aus. Mit NIUS im Mordfall Stade zeigt er außerdem das Extrem dessen, was Dobusch als Berufslogik ganz normaler Medien beschreibt, die Empörung als Kalkül.
+- [[DenkerVita/Maren Urner|Maren Urner]] — Urner benennt mit dem „Angst-Journalismus“ die ökonomische Triebkraft hinter dem, was Dobusch als Berufslogik fasst: Klickoptimierung erzeugt Katastrophenrahmen, Katastrophenrahmen erzeugen Ohnmacht. Ihr konstruktiver Journalismus ist ein institutioneller Gegenentwurf; er antwortet allerdings auf die Stimmung der Berichterstattung, Dobusch auf ihre fehlende Bewertung.
+- [[DenkerVita/Adam Johnson|Adam Johnson]] — Dieselbe These über ein anderes Mediensystem. Johnson zeigt an US-Medien, wie Routinen, die die Norm über den Befund stellen, einen Krieg verkäuflich machen, den er einen Völkermord nennt, ganz ohne Lügner. Im Vortrag mit Zaboura taucht der Fall selbst auf: Die New York Times nennt Russlands Aushungern eine Kriegswaffe und schreibt über Israels Blockade, es „stoppt alle Hilfsmittel“.
 
 ---
 
 ## Gedankenwelten-Notes
 
-- (wird später befüllt)
+- [[Zeitgeist/Dobusch und Zaboura — Ganz normale Medien und Faschismus|Dobusch und Zaboura — Ganz normale Medien und Faschismus]] — re:publica 26, gemeinsamer Vortrag mit Nadia Zaboura
 
 ---
 

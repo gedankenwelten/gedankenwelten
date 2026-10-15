@@ -44,7 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Wirtschaftshistoriker schreibt als Scherz die Gesetze der Dummheit auf: Wer anderen schadet, ohne selbst etwas davon zu haben, ist gefährlicher als jeder Bandit.
 
-> → *9 weitere in* [[Denker]]
+> → *8 weitere in* [[Denker]]
 
 ### Panorama
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Zwei Ökonominnen bauten 2022 dieselbe Gaspreisbremse und erzählen sie verschieden, als Signal und als Schutz. Drei offene Fragen: Muss der Preis in der Knappheit sprechen, wer bekommt die Entlastung, und wer verdient am Deckel?
 
-> → *12 weitere in* [[Panorama]]
+> → *11 weitere in* [[Panorama]]
 
 ### Gedanken
 

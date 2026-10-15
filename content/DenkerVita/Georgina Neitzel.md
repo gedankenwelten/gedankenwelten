@@ -64,7 +64,13 @@ Komplexe Systeme erlauben keine zuverlässige Punkt-Prognose. Jede Prognose redu
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Raphael Iltisberger]] — Ihr Ko-Autor beim Modell des Hype-Systems. Er bringt Wirtschaftspsychologie und Zukunftsforschung mit, sie den Blick aus dem Innovation Lab eines Versicherers, also aus einer der Akteursgruppen, die das Modell beschreibt: der Industrie, in der sich Hype in Budgets und Prioritäten übersetzt.
+- [[DenkerVita/Frederike Kaltheuner]] — Kaltheuner erzählte auf derselben re:publica, sie habe ihre Sprache den Politikerräumen angepasst, um gehört zu werden, und nannte das Selbstzensur. Das ist das Dilemma der Gegenstimmen aus Neitzels Modell, ausgesprochen von einer Betroffenen. Ihre Diagnose, KI sei depolitisiert worden, beschreibt eine Bremse, die nicht greift.
+- [[DenkerVita/Constanze Kurz]] — Die Stimme, die das Modell vorhersagt und das System überhört: eine Informatikerin mit dreißig Jahren Erfahrung, die Sprachmodelle nüchtern stochastische Papageien nennt, ohne Panik und ohne Heilsversprechen. Nüchternheit erzeugt keine Schleife, die sich selbst verstärkt.
+- [[DenkerVita/Ronnie Vuine]] — Der Gegenfall zu Kurz: ein Fachmann, der die Grenzen der Technik kennt und sich durch Zuspitzung Gehör verschafft, worauf der Kanal ihn als „brutale Wahrheit“ verkauft. Sein Einwand gegen die Alignment-Debatte kommt unabhängig beim Skynet-Effekt an: Wer festlegt, was „die Menschheit“ will, herrscht über dieses Wir.
+- [[DenkerVita/Jan-Keno Janssen]] — Janssen beschreibt Jensen Huangs Token-Mantra aus der Nähe, und es erfüllt alle vier Merkmale, die Neitzel für Hype nennt: Vision als Gewissheit, überhöhte Sprache, ausgeblendete Risiken, Aufforderung zum Handeln. Ein Lehrstück für die Mitläufer-Schleife im Kapitalsystem.
+- [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff]] (Note, keine DenkerVita) — Mühlhoff beschreibt ein „Orchester“ aus Industrie, Investoren, Politik und Medien, das technische Wirklichkeit und öffentlichen Glauben auseinandertreibt. Neitzel liefert die Struktur dazu, Mühlhoff die Machtfrage, die ihr Modell offenlässt: wer am Ende gewinnt.
+- [[DenkerVita/Jacob Beautemps]] — Dieselbe Disziplin im Klimafeld. Beautemps trennt sauber, was zu hundert Prozent läuft, von dem, was zu 81 Prozent kommen könnte, bevor die Schlagzeile den Monster-El-Niño daraus macht; Neitzels Skepsis gegen Punktprognosen ist dieselbe Weigerung, eine Wahrscheinlichkeit als Gewissheit zu verkaufen.
 
 ## Gedankenwelten-Notes
 

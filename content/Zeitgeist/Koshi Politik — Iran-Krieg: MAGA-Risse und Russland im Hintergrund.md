@@ -123,10 +123,10 @@ Trump postet in dieser Periode massiv über den **SAFE Act** (Voter ID + Citizen
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Wer profitiert vom Iran-Krieg]]
+### → [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg]]
 Vorgänger-Note: Wer hat finanziell hinter dem Krieg gestanden? Hier zeigt sich die politische Quittung.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
+### → [[Zeitgeist/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
 Die Risse, die hier sichtbar werden (77% → sinkend, rechte Medien kritisch), sind der Nährboden für MAGA 2.0.
 
 ### → [[Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]

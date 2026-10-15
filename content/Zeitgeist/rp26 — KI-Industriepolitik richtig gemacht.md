@@ -209,11 +209,11 @@ Die Ingenieursperspektive zur hier geforderten Industriepolitik: Europas Rechenp
 
 Konés „nützlichste, nicht mächtigste KI" ist praktisch Jungs AI Directionism; sein institutioneller Optimismus (Smart Africa) trifft auf Kaltheuners Skepsis, ob Souveränitätsrhetorik ohne Marktumbau trägt.
 
-### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet (rp26)]]
+### → [[Zeitgeist/Gehring und Giessmann — Digitale Unabhaengigkeit und monetaere Souveraenitaet]]
 
 Beide Sessions kreisen um denselben strukturellen Befund: Digitale Souveränität ist ohne aktive Marktgestaltung nicht erreichbar. Gehring/Gießmann kommen von der Geldseite (Bitcoin, Zentralbanken), Kaltheuner/Jung von der KI-Infrastruktur — aber der Kern ist derselbe: Abhängigkeit von US-Strukturen ist kein neutrales Schicksal, sondern politische Entscheidung.
 
-### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa (rp26)]]
+### → [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa]]
 
 Büttner und Kaufmann diskutieren europäische KI-Souveränität aus Unternehmer-Perspektive. Kaltheuners schärfster Einwand dagegen: Firmeninteressen sind nicht identisch mit europäischen Interessen — europäische KI-Firmen können dieselben Abhängigkeiten reproduzieren wie amerikanische.
 

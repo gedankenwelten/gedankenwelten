@@ -1332,7 +1332,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [re:publica 26 — Writing Our Own History: The Path to Africa's Digital Sovereignty](https://www.youtube.com/watch?v=j4xfSWZ6EM8) (CC BY-SA 4.0) |
-| **Notiz** | [[Lacina Koné — Afrikas digitale Souveränität]] |
+| **Notiz** | [[Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]] |
 | **DenkerVita** | [[DenkerVita/Lacina Kone]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Kone_Digital_Sovereignty_Transkript.txt` |
 
@@ -3660,7 +3660,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [ICE, Palantir & Gesichtsscans – welche Überwachung mit Milliarden möglich wird](https://www.youtube.com/watch?v=SuEpbWL7FFU) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — ICE, Palantir und der Überwachungsstaat]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — ICE, Palantir und der Überwachungsstaat]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Palantir_Transkript.txt` |
 
 ### Koshi Politik — ICE-Anhörung im Kongress
@@ -3668,7 +3668,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [ICE Bosse werden GEGRILLT! Anhörung gerät völlig aus den Fugen!](https://www.youtube.com/watch?v=RTU_TeCoT9M) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — ICE-Anhörung im Kongress]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Anhoerung_Transkript.txt` |
 
 ### Koshi Politik — DHS-Shutdown: Keine Einigung
@@ -3676,7 +3676,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Keine Einigung! DHS Finanzierung endet HEUTE – Was passiert mit ICE?](https://www.youtube.com/watch?v=4CC9uNRCP_M) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — DHS-Shutdown: Keine Einigung]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — DHS-Shutdown: Keine Einigung]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_DHS_Finanzierung_Transkript.txt` |
 
 ### Koshi Politik — ICE Whistleblower packt aus
@@ -3684,7 +3684,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Das kann Sie doch UNMÖGLICH überstehen oder? ICE Whistleblower packt aus!](https://www.youtube.com/watch?v=IuXL4daZAOo) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Whistleblower packt aus]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — ICE Whistleblower packt aus]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Whistleblower_Transkript.txt` |
 
 ### Koshi Politik — ICE Buffalo — Tod eines Flüchtlings
@@ -3692,7 +3692,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [ICE Tragödie in MEINER Wahlheimat, Buffalo NY!](https://www.youtube.com/watch?v=gO4CqnTIMZk) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Buffalo — Tod eines Flüchtlings]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — ICE Buffalo — Tod eines Flüchtlings]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Buffalo_Transkript.txt` |
 
 ### Koshi Politik — ICE bestiehlt Immigranten
@@ -3700,7 +3700,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [ICE Agents bestehlen systematisch Immigranten?](https://www.youtube.com/watch?v=6PwIPqiFXeg) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — ICE bestiehlt Immigranten]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — ICE bestiehlt Immigranten]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Bestehlen_Transkript.txt` |
 
 ### Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen
@@ -3708,7 +3708,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [110% PSYCHOPATH! Trumps totaler Online AUSRASTER am Wochenende! Teil 2](https://www.youtube.com/watch?v=raV4Loqu4hg) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_Trump_Ausraster2_Transkript.txt` |
 
 ### Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will
@@ -3716,7 +3716,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [ICE- Flughafenterror: Was Trump wirklich erreichen will!](https://www.youtube.com/watch?v=wXaW37yu7Hk) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_ICE_Flughafenterror_Transkript.txt` |
 
 ---
@@ -3726,7 +3726,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Wer profitiert wirklich vom Iran-Krieg?](https://www.youtube.com/watch?v=AVma8mzPm7A) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Wer profitiert vom Iran-Krieg]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_Iran_Geld_Transkript.txt` |
 
 ### Koshi Politik — Iran-Krieg: MAGA-Risse und Russland
@@ -3734,7 +3734,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Neue Führung, neue Tote, MAGA bricht weg](https://www.youtube.com/watch?v=HcM8Iso48-c) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_Iran_MAGA_Revolte_Transkript.txt` |
 
 ### Koshi Politik — Die drei Musketiere: Miller, Hegseth, Trump
@@ -3742,7 +3742,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Die drei Musketiere des Iran-Krieges](https://www.youtube.com/watch?v=fHcBSoruMow) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_Iran_Kriegstreiber_Transkript.txt` |
 
 ### Koshi Politik — Iran-Krieg: NATO verweigert
@@ -3750,7 +3750,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [NATO sagt Nein — Was kann Trump jetzt noch gewinnen?](https://www.youtube.com/watch?v=Aq5iO6nDbuQ) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_Iran_NATO_Transkript.txt` |
 
 ---
@@ -3760,7 +3760,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [MAGA 2.0 — Die Geburt einer neuen Bewegung?](https://www.youtube.com/watch?v=pn8fJV_k3JA) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_MAGA_Neues_Transkript.txt` |
 
 ### Koshi Politik — MAGA-Risse: Fox News und NFL
@@ -3768,7 +3768,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [The wheels are coming off — Fox News stellt Trump in Frage](https://www.youtube.com/watch?v=BaSQeevMZGc) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_MAGA_Risse_Transkript.txt` |
 
 ### Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult
@@ -3776,7 +3776,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Nick Fuentes, Joe Kent — und das Ende des Personenkults](https://www.youtube.com/watch?v=eAgxjKZ4W3g) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_MAGA_Civilwar_Transkript.txt` |
 
 ---
@@ -3795,7 +3795,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Epstein-Akten: Was das DOJ veröffentlicht hat](https://www.youtube.com/watch?v=Meq7PnMy80o) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_Epstein_Dokumente_Transkript.txt` |
 
 ### Koshi Politik — Epstein-Akten (Teil 2): Musk, Lutnick, Überlebende
@@ -3803,7 +3803,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Epstein-Akten Tag 2: Musk, Lutnick und die Überlebenden](https://www.youtube.com/watch?v=wIanoMg6wmg) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein-Akten: Was wir jetzt wissen]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Epstein-Akten: Was wir jetzt wissen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_Epstein_Wissen_Transkript.txt` |
 
 ### Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11
@@ -3811,7 +3811,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Truth Social Folge 11: Trump und die Epstein-Anhörung](https://www.youtube.com/watch?v=qdoC-Vsv-KA) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_Epstein_Bondi_TS11_Transkript.txt` |
 
 ---
@@ -3821,7 +3821,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Truth Social Folge 10: Trump über die Super Bowl Halftime Show](https://www.youtube.com/watch?v=YsQ31mFgM_g) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 10: Super Bowl und Bad Bunny]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Truth Social 10: Super Bowl und Bad Bunny]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_TS10_SuperBowl_Transkript.txt` |
 
 ### Koshi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen
@@ -3829,7 +3829,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Truth Social Folge 12: Diego Garcia und das Zeichen für den Iran-Krieg](https://www.youtube.com/watch?v=-Z7t_s04vWo) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_TS12_Iran_Transkript.txt` |
 
 ### Koshi Politik — Truth Social 13: Supreme Court und Zölle
@@ -3837,7 +3837,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Truth Social Folge 13: Trump vs. Supreme Court](https://www.youtube.com/watch?v=S4RBO7tVxbA) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 13: Supreme Court und Zölle]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Truth Social 13: Supreme Court und Zölle]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_TS13_Gericht_Transkript.txt` |
 
 ### Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union
@@ -3845,7 +3845,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Truth Social Folge 14: Trump nach der State of the Union](https://www.youtube.com/watch?v=8tdgkj5Q83g) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_TS14_Handy_Transkript.txt` |
 
 ### Koshi Politik — Truth Social 15: Töten als Ehrensache
@@ -3853,7 +3853,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Vortrag / Video** | [Truth Social Folge 15: „Jetzt töte ich sie als der 47. Präsident"](https://www.youtube.com/watch?v=YPsDSTd0Fl8) |
-| **Notiz** | [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 15: Töten als Ehrensache]] |
+| **Notiz** | [[Zeitgeist/Koshi Politik — Truth Social 15: Töten als Ehrensache]] |
 | **Transkript** | `Gedankenwelten/Transkripte/KoshiPolitik_TS15_Toeten_Transkript.txt` |
 
 ### Koshi Politik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika

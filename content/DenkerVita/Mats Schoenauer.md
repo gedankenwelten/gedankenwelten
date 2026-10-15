@@ -80,7 +80,13 @@ Schoenauer arbeitet als freier Journalist für Publikationen wie **Die Zeit** un
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Thomas Laschyk]] — Beide nehmen BILD und NIUS auseinander und behandeln Desinformation als Geschäftsmodell, nicht als Ausrutscher. Schönauer widerlegt mit Akten, Urteilen und den Betroffenen selbst, fast trocken; Laschyk setzt bewusst auf Zuspitzung und Erzählung, damit die Wahrheit so gut läuft wie die Lüge.
+- [[DenkerVita/Nadia Zaboura]] — Sie verlängert seinen Befund ins Unbequeme: Die Empörungslogik, die er an NIUS seziert, steckt in milderer Form auch in der Berufslogik „ganz normaler Medien“, in falscher Balance und im Wort „umstritten“. Seine ÖRR-Insider liefern ihr die Innenansicht dazu, Redakteure, die aus Angst vor dem nächsten Shitstorm in „sichere Wahrheiten“ flüchten.
+- [[DenkerVita/Steffen Mau]] — Mau nennt BILD ein „Triggermedium“ und beschreibt Polarisierungsunternehmer, die Konflikte gezielt aufladen. Schönauer dokumentiert die Werkstatt dazu, Fall für Fall, von der erfundenen Shopping-Geschichte über Afghanen bis zum Ramadan-Buffet, dessen Skandalisierung das Landgericht Köln „sämtlich unwahr“ nannte.
+- [[DenkerVita/Katharina Nocun]] — Bei Schönauer ist die Fälschung noch Handarbeit: eine erfundene Geschichte bei BILD, von AfD-Politikern weitergetragen, mit KI-Bildern aufgehübscht. Nocun beschreibt die industrielle Fassung, in der der Fake per Prompt entsteht und Sockenpuppen-Netzwerke ihn verteilen; ob das Handwerk der Einzelwiderlegung dagegen noch ankommt, ist die offene Frage zwischen beiden.
+- [[DenkerVita/Renee DiResta]] — DiRestas „Rewired Legitimacy“ erklärt, warum NIUS den öffentlich-rechtlichen Rundfunk trotz handwerklicher Unterlegenheit vor sich hertreiben kann: Wer ein Publikum bindet, hat Autorität, ob er recht hat oder nicht. Gegen eine Aufmerksamkeitsökonomie, die das Extreme belohnt, setzt Schönauer das langsamste Mittel, die belegte Korrektur, und zeigt selbst, wie wenig sie reist, wenn BILD eine Lüge acht Tage stehen lässt.
+- [[DenkerVita/Michael Hartmann]] — Dieselbe Anstalt von innen und von oben. Schönauers Insider beschreiben die Schere im Kopf als Angst vor dem Hass von außen, Hartmann dieselbe Enge als Karrierephysik einer sozial schmal rekrutierten Führung; beide enden als scharfe Kritiker, die den öffentlich-rechtlichen Rundfunk trotzdem verteidigen.
+- [[DenkerVita/Rainer Mausfeld]] — Reibung über einen Mechanismus, den beide sehen: Angst vor Migration als Hebel, der Zustimmung organisiert. Mausfeld liest darin eine Technik, mit der formale Demokratien Zustimmung von oben herstellen; Schönauer findet konkrete Akteure und schlichte Anreizökonomie, Empörung bringt Klicks, Klicks bringen Reichweite, und keine geheime Absprache. Wo der eine ein System der Meinungslenkung beschreibt, zeigt der andere ein Geschäft, das man vor Gericht widerlegen kann.
 
 ---
 

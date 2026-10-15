@@ -82,7 +82,7 @@ Charlie Kirkes Organisation organisierte eine **alternative Super Bowl Halftime 
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]]
+### → [[Zeitgeist/Koshi Politik — ICE-Anhörung im Kongress]]
 Liam Ramos — der Fünfjährige — erscheint hier in der Super Bowl Show als Symbol. Die ICE-Deportation ist in der früheren Note dokumentiert.
 
 ### → [[Denker/Eva von Redecker — Dieser Drang nach Härte]]

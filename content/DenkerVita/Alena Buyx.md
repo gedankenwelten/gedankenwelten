@@ -85,7 +85,19 @@ Sie ist eine ihrer Träger Stimme Deutschlands für **evidenzbasierte, pragmatis
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier leer lassen)*
+**[[DenkerVita/Maja Goepel|Maja Göpel]]** — Die Gesprächspartnerin bei NEU DENKEN und eine Verwandte im Ansatz. Beide fragen, warum Gesellschaften so spät auf das reagieren, was sie längst wissen. Buyx antwortet mit Homöostase und dem „Klick", Göpel legt am Ende fünf Bruchstellen der westlichen Zivilisation daneben. Die Erklärung, warum die Wende ausbleibt, und die Liste dessen, was sich wenden müsste.
+
+**[[DenkerVita/Steffen Mau|Steffen Mau]]** — Dasselbe Wasser, eine andere Adresse. Beide sehen eine stille Mitte, die weniger gespalten ist, als die Debatte vorführt. Mau lokalisiert die Erregung bei Polarisierungsunternehmern, die Triggerpunkte bewirtschaften, Buyx eine Ebene tiefer in den Nachrichtenfaktoren selbst. Aus Mau folgt, dass man Akteure benennen muss, aus Buyx, dass man Formate ändern müsste.
+
+**[[DenkerVita/Andreas Reckwitz|Andreas Reckwitz]]** — Zwei Gespräche derselben Reihe, dieselbe Leerstelle in zwei Vokabularen. Der Moderne fehlen die Werkzeuge für den Verlust, sagt Reckwitz. Einem anpassungsfähigen System fehlt ein Organ für den Fall, dass die Grundlage wegbricht, sagt Buyx. Bei Reckwitz ruft der Verlust nach einem Schuldigen und wird politisch, bei Buyx bleibt die Trägheit unschuldig. Ihr Ton kommt ohne Verachtung aus und verliert dafür die Erklärung, warum der Verlust brennt.
+
+**[[DenkerVita/Aladin El-Mafaalani|Aladin El-Mafaalani]]** — Einig im Ziel, im Streit über das Werkzeug. Beide verlegen den entscheidenden Ort von den Rändern in die Mitte. Buyx setzt auf Prebunking und die Beziehungsebene, El-Mafaalani hält ausgefeilte Kommunikation für kontraproduktiv, weil sie dem Misstrauenden beweist, dass man ihn bearbeiten will. Der härteste Einwand gegen die Inokulationstheorie kommt hier von jemandem, der dasselbe will.
+
+**[[DenkerVita/Michael Hartmann|Michael Hartmann]]** — Im NANO Talk moderiert Buyx seinen Satz, Elite sei immer Macht und nie Verantwortung. Ein Jahr später setzt sie ihm eine Grenze: Wer früh gelernt hat, dass die Regeln für ihn nicht ganz gelten, baut Bunker und Inseln, „kann aber keine eigene Luftversorgung haben". Die Selbstausnahme hält sozial Jahrzehnte, in der Atmosphäre keinen Tag.
+
+**[[DenkerVita/Heinz Bude|Heinz Bude]]** — Zwei Bilanzen der Pandemie. Bude saß 2020 in der Expertenrunde des Innenministeriums. Er erzählt, die Folgebereitschaft sei ausgerechnet mit dem Impfstoff zerbrochen. Buyx' Solidaritätsforschung findet dagegen zwei Drittel bis drei Viertel, die die ganze Pandemie über solidarisch blieben. Jagoda Marinić hält beiden das Trauma entgegen, das danach „weggemacht" wurde.
+
+**[[Barbara Schmitz und Giovanni Maio — Verletzlichkeit als Stärke|Giovanni Maio]]** — Der Medizinethiker, der neben ihr am selben Fundament rüttelt. Beide bestreiten, dass Autonomie allein trägt. Buyx stellt ihr die Solidarität zur Seite, Maio die Sorge: „Autonomie durch Sorge, nicht statt Sorge." Sie argumentiert von der Gemeinschaft her, die Gesundheit als geteiltes Gut trägt. Er argumentiert von der Verletzlichkeit des Einzelnen her, die erst durch Beziehung handlungsfähig wird.
 
 ## Gedankenwelten-Notes
 

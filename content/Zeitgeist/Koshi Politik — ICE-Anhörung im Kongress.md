@@ -87,11 +87,11 @@ Ein Kongressmitglied fordert Lines auf zurückzutreten: Er habe eine ehrenvolle 
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE, Palantir und der Überwachungsstaat]]
+### → [[Zeitgeist/Koshi Politik — ICE, Palantir und der Überwachungsstaat]]
 
 technologische Ausstattung derselben Behörde
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — DHS-Shutdown: Keine Einigung]]
+### → [[Zeitgeist/Koshi Politik — DHS-Shutdown: Keine Einigung]]
 
 tags darauf läuft das DHS-Budget aus
 

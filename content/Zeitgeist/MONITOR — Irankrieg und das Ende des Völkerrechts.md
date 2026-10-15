@@ -231,19 +231,19 @@ Sudan/El Fashir und Iran zeigen zwei Gesichter derselben Erosion internationaler
 ### → [[Zeitgeist/Adam Tooze — Pentagon vs. Anthropic]]
 Derselbe Akteur — das Pentagon unter Hegseth — tritt im Iran-Krieg als militärische Gewalt auf und im Tooze-Fall als Erzwinger militärischer KI-Nutzung. Ambos beklagt den „Disregard" gegenüber internationalem Recht; Tooze zeigt, dass dieselbe Logik innenpolitisch gegen privatwirtschaftliche Akteure angewandt wird. Kein Recht, keine Verträge, keine Bedingungen — nur Macht.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]]
+### → [[Zeitgeist/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]]
 Koshi dokumentiert, wie Trump den Iran-Krieg innenpolitisch instrumentalisiert: Nach Iran-Posts bezeichnet er die Demokraten als „größten verbliebenen Feind Amerikas". Die außenpolitische Eskalation (Irankrieg) und die innenpolitische Eskalation (Demokraten als Staatsfeinde) verlaufen parallel.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen]]
 Koshi erkannte die öffentlich sichtbaren Vorbereitungen des Iran-Kriegs: Trumps Diego-Garcia-Post vom 19. Februar ist das dokumentierte Vorzeichen — zwei Wochen vor „Operation Epic Fury". MONITOR analysiert den Krieg selbst; dieser Post zeigt die öffentliche Vorbereitung in Echtzeit.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Wer profitiert vom Iran-Krieg]]
+### → [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg]]
 Gulf States-Finanzierungsanalyse: Koshi legt dar, wer von dem Krieg profitiert, den MONITOR als Völkerrechtsbruch einordnet. Dieselben Akteure (Qatar, UAE, Saudi/Kushner) erklärt MONITOR rechtlich-politisch, Koshi ökonomisch.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]]
+### → [[Zeitgeist/Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]]
 Hegseth — von MONITOR als Frontmann des Krieges beschrieben — erscheint hier als Teil des internen Trio, das den Krieg treibt. Hegseths widersprüchliche Aussagen und seine Allison-Medienübernahmepläne ergänzen MONITORs völkerrechtliche Analyse um die innenpolitische Machtkonstruktion.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 15: Töten als Ehrensache]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 15: Töten als Ehrensache]]
 Trump schreibt mitten im Krieg, den MONITOR als Völkerrechtsbruch einordnet: „Jetzt töte ich sie als der 47. Präsident — was für eine große Ehre." Ambos' Analyse des „Disregard" gegenüber internationalem Recht findet hier seinen rhetorischen Ausdruck: kein Versuch einer Rechtfertigung, nur Lust.
 
 ### → [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]

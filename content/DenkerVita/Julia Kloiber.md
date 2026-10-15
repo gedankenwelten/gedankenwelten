@@ -87,7 +87,13 @@ Sie ist nicht "gegen KI" oder "gegen Technologie" — sie ist für eine Technolo
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Joan Kinyua]] — Die engste Verbindung: Mit der Datenarbeiterin aus Nairobi stand Kloiber auf der re:publica 26 und im Fachgespräch des Bundestags. Kloiber erklärt die Kette der Subunternehmer, Kinyua erzählt, was es heißt, darin achtzehn Stunden am Tag zu arbeiten; erst zusammen bekommt die gemachte Unsichtbarkeit ein Gesicht.
+- [[DenkerVita/Francesca Bria]] — Bria kartiert die Machtarchitektur der Tech-Konzerne von oben, Kloiber zeigt, wen die Subunternehmerkette unten trifft. Für beide entscheidet die politische Architektur über die Technik, und Brias Daten-Commons in der demokratischen Stadt liegen nahe bei Kloibers Vortrag über die Rückeroberung der Datenstädte.
+- [[DenkerVita/Yanis Varoufakis]] — Varoufakis nennt die Erträge der Plattformherren Cloud-Rente. Die Datenarbeiterinnen in Kenia, die für rund zwanzig Dollar die Woche Daten beschriften, sind die Stelle, an der dieser Tribut ganz unten eingesammelt wird; Kloiber liefert die Lieferkette zu seiner Theorie.
+- [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus|Rainer Mühlhoff]] (Note, keine DenkerVita) — Mühlhoffs Kolonialismus-These, Extraktion ohne Ausgleich von Süd nach Nord, ist der theoretische Rahmen zu dem, was Kloiber mit Zahlen belegt: 150 bis 430 Millionen Datenarbeiter als Rohstoffbasis der KI.
+- [[DenkerVita/Achille Mbembe]] — Mbembe beschreibt, wie koloniale Logiken in neue Technik wandern. Kloibers re:publica-Vortrag begann mit dem Beleg: Dem kenianischen Datenarbeiter Ephantus Kanyugi wurde das Visum verweigert; seine Arbeit ist in Europa willkommen, seine Stimme nicht.
+- [[DenkerVita/Dietmar Dath]] — Dath nennt die KI ein „Massengrab der Arbeit", dessen Namen niemand kennt. Kloibers Arbeit ist die Antwort darauf: Die Unsichtbarkeit ist gemacht, also lässt sie sich rückgängig machen, und die Datenarbeiterinnen in Nairobi treten mit Namen auf. Daths Pessimismus wird dadurch kleiner, widerlegt ist er nicht.
+- [[DenkerVita/Pascal Kaufmann]] — Die Gegenstimme von derselben re:publica: Für Kaufmann ist KI eine normale Technologie, „wie ein Mixer oder ein Hammer", und der EU AI Act der Versuch von Staaten, ein Rennen zu bremsen, das sie nicht gewinnen können. Für Kloiber ist kein Code neutral, und auf ihrem Podium wurde gefordert, den AI Act nicht zugunsten der Konzerne abzuschwächen; dass die Regulierung ihr Ziel verfehlt, sehen beide, aus entgegengesetzten Richtungen.
 
 ## Gedankenwelten-Notes
 

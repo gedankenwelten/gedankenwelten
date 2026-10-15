@@ -17,7 +17,7 @@ aliases:
 Quelle: [In China lachen sie über unsere Energiewende - Tim Meyer & Jan Hegenberg](https://www.youtube.com/watch?v=7L_pDKVaMVE)
 
 > [!info] Wer spricht?
-> **Dr. Tim Meyer** — Unabhängiger Energieexperte, ehemaliger Geschäftsführer der Deutschen Energie-Agentur (dena), Gründer von NEON Neue Energieökonomik GmbH. Autor von *Strom — Über Nostalgie, Zukunft und warum der Markt längst entschieden hat*. Stammgast im Geladen-Podcast.
+> **Dr. Tim Meyer** — Energieexperte und Berater, promoviert am Fraunhofer ISE, früher Manager in der Solarindustrie und bis 2021 Vorstand der Naturstrom AG, heute im Vorstand des Bundesverbands Neue Energiewirtschaft (bne). Autor von *Strom — Über Nostalgie, Zukunft und warum der Markt längst entschieden hat*. Stammgast im Geladen-Podcast.
 >
 > **Jan Hegenberg** — Blogger ("Der Graslutscher"), Wissenschaftskommunikator und Autor. Betreibt seit 2014 einen der reichweitenstärksten deutschsprachigen Klima-Blogs. Bücher: *Weltuntergang fällt aus!* (2022), *Klima-Bullshit-Bingo* (2024). Entkräftet Klima- und Energiewendemythen mit Daten.
 >

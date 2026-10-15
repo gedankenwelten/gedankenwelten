@@ -265,7 +265,7 @@ Bonhoeffer begrenzt die Schuld, die man für andere auf sich nimmt, durch den �
 - Arendt: *Persönliche Verantwortung in der Diktatur* (Vortrag, 1964)
 - Interview mit Günter Gaus (1964) — das bekannteste Arendt-Interview auf Deutsch
 - [[Rainer Mausfeld — Warum schweigen die Lämmer]]
-- [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will]] — Arendts Banalität des Bösen trifft auf die ICE-Beamten am SFO: keine Ausweise gezeigt, Kind getrennt — Gewalt im institutionellen Vollzug ohne persönliches Nachdenken.
+- [[Zeitgeist/Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will]] — Arendts Banalität des Bösen trifft auf die ICE-Beamten am SFO: keine Ausweise gezeigt, Kind getrennt — Gewalt im institutionellen Vollzug ohne persönliches Nachdenken.
 - [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Commons-Wirtschaft als gelebte politische Pluralität; Bodensee-Fischer als lokale Gemeinschaft, die durch gemeinsames Handeln (nicht Herrschaft) nachhaltige Ordnung schafft — Arendts Handeln als Grundlage von Politik
 - [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]] — Diaspora-Erfahrung und institutionelles Versagen (Auswärtiges Amt); verbindet Arendts Staatenlosigkeits-Denken mit persönlicher Migrationsrealität
 - [[Zeitgeist/Ece Temelkuran — So beginnt Faschismus in Amerika]] — Temelkurans „unhomed" und Arendts *rootlessness* als Bedingung totaler Herrschaft resonieren direkt; beide beschreiben die Entwurzelung als politisch hergestellten Zustand

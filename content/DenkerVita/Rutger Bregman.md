@@ -56,7 +56,7 @@ Bregman ist Mitglied von *Giving What We Can* (Verpflichtung, mindestens 10 % de
 
 - [Davos 2019 — Bregman berates billionaires over tax avoidance](https://www.youtube.com/watch?v=r5LtFnmPruU) — der virale Auftritt: *„Taxes, taxes, taxes. All the rest is bullshit."*
 - [TED: Poverty Isn't a Lack of Character; It's a Lack of Cash](https://www.ted.com/talks/rutger_bregman_poverty_isn_t_a_lack_of_character_it_s_a_lack_of_cash) — der Talk, der ihn international bekannt machte (2017).
-- [Sternstunde Philosophie (SRF, 2022): „Ist der Mensch wirklich gut?"](https://www.youtube.com/results?search_query=Rutger+Bregman+Sternstunde+Philosophie+ist+der+Mensch+wirklich+gut) — Gespräch mit Barbara Bleisch über sein Menschenbild aus *Im Grunde gut*.
+- [Sternstunde Philosophie (SRF, 2022): „Ist der Mensch wirklich gut?"](https://www.youtube.com/watch?v=ODyjjZTxyKU) — Gespräch mit Barbara Bleisch über sein Menschenbild aus *Im Grunde gut*.
 
 ## Kernthesen
 
@@ -72,9 +72,17 @@ Bregman steht klar im progressiven Spektrum, lässt sich aber keinem Parteilager
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Barbara Bleisch]] — In der Sternstunde Philosophie hielt sie seinem Optimismus Arendt und den Holocaust entgegen. Sein Befund, dass ein misstrauisches Menschenbild sich selbst erfüllt und Hierarchie rechtfertigt, trägt ihren späteren Gedanken der Großzügigkeit als Vertrauensvorschuss. Beide sehen, dass eine Gesellschaft, die alles vermisst, dafür wenig Raum lässt.
+- [[DenkerVita/Carel van Schaik]] und [[DenkerVita/Kai Michel]] — Die Zwillinge aus der Evolutionsforschung. Auch sie schreiben gegen Hobbes und für einen von Natur aus kooperativen Menschen, und sie liefern den Mechanismus, den Bregman offenlässt: warum aus dem freundlichen Tier trotzdem Herrschaft und Krieg wurden. Ihre Antwort ist die Sesshaftigkeit mit vererbbarem Eigentum.
+- [[DenkerVita/Liya Yu]] — Der produktivste Widerspruch. Yu hält das gute Menschenbild für eine rationalistische Illusion: Der Mensch sei weder gut noch böse, er könne beides, und Politik müsse für den zweiten Fall gebaut sein. Die Differenz ist kleiner, als sie klingt, denn Bregmans *homo puppy* ist freundlich zur eigenen Gruppe und gerade darum anfällig für Ausgrenzung. Dort beginnt Yus Forschung zur Entmenschlichung.
+- [[DenkerVita/Erich Fromm]] — Der Gegenpol im eigenen Lager. Fromm teilt den Glauben an eine kooperative Natur, die das System verschüttet, nimmt aber die Destruktivität als reale Macht ernst und macht die Liebe zum Lebendigen zur Errungenschaft, die misslingen kann. Bei Bregman ist die Güte der Normalfall. Fromm würde ihm vorhalten, er unterschätze den Hass auf das Lebendige, Bregman ihm, sein düsteres Bild erfülle sich selbst.
+- [[DenkerVita/Susan Neiman]] — Dasselbe Ziel, ein anderer Weg. Beide greifen das Menschenbild des Eigennutzes an; Bregman antwortet der Evolutionspsychologie mit besserer Biologie, Neiman misstraut dem ganzen Feld, weil man über unsere Vorfahren so gut wie nichts wisse. Sie braucht keinen von Natur aus guten Menschen, ihr reicht der Mut, das Böse beim Namen zu nennen.
+- [[DenkerVita/Michael Hartmann]] — Beide halten die Gewählten für eine Aristokratie, die sich selbst ähnlich sieht. Bregman folgert daraus das Los, Hartmann die Quote, und der Bürgerrat Ernährung zeigt, wie nah die Kuren beieinanderliegen: Zum Abbild der Bevölkerung wurde das Los erst durch Quoten. Aus Bregmans Diagnose hat [[DenkerVita/Ardalan Ibrahim|Ardalan Ibrahim]] eine Partei gemacht, die das Los ins Grundgesetz bringen will und die er ausdrücklich als „Fürst“ führt.
+- [[DenkerVita/Marlene Engelhorn]] — Engelhorn spricht Bregmans Davos-Satz von der anderen Seite des Tisches: Mit „Tax Me Now“ verlangt eine Erbin, besteuert zu werden. Ihre 25 Millionen ließ sie von einem gelosten Bürgerrat verteilen, ohne sich ein Veto vorzubehalten, und brachte damit Bregmans zwei Forderungen, Steuern und das Los, in einer Handlung zusammen. Die Verteilung sollte zeigen, dass Umverteilung eine Frage des politischen Willens ist; die eigentliche Antwort bleibt für beide die Steuer.
+- [[DenkerVita/Robert Musil]] — Das literarische Gegenexperiment. Bregman entlarvt *Herr der Fliegen* als Fiktion, die der reale Schiffbruch von ʻAta widerlegt. Musils *Törless* braucht weder Notstand noch eine Erlaubnis von oben, nur Langeweile, Distanz und einen toten Winkel, und das wohlerzogene Internat kippt in die Folter. Auch diese Fiktion hatte ein reales Vorbild, und die Täter blieben im System.
 
 ## Gedankenwelten-Notes
 
+- [[Rutger Bregman — Ist der Mensch wirklich gut]] — Sternstunde Philosophie mit Barbara Bleisch: *survival of the friendliest*, das Paradox des Welpen und das Menschenbild als selbsterfüllende Prophezeiung.
 - [[Neue Akropolis — Der Mensch ist besser als sein Ruf]] — führt Bregmans *Im Grunde gut* als populäre Gesamtdarstellung der Forschungslage zum guten Menschen an.
 - [[Horst Evers — Kostenloser Nahverkehr als Utopie]] — *Fun Facts Utopia* (kostenloser ÖPNV) wendet Bregmans Methode aus *Utopien für Realisten* praktisch an: eine scheinbar „unmögliche" Idee empirisch erden, bis sie machbar wird.

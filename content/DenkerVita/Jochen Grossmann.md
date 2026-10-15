@@ -126,7 +126,14 @@ Was sich aber ablesen lässt:
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier als Platzhalter)*
+- [[DenkerVita/Michael Sterner]] — Sterner macht eine kaum beworbene Studie des Wirtschaftsministeriums bekannt: Die regionale Wertschöpfung aus Wind und Sonne kann sich bis 2033 auf 21 Milliarden Euro verdoppeln, mehr als die Hälfte bleibt vor Ort. Großmann baut diesen Gedanken in die Konstruktion ein: Die Gitterbauweise lässt rund zwei Drittel der Aufträge an regionale Stahlbauer gehen.
+- [[Zeitgeist/Laura Zoeckler — Buergerenergie und die Demokratisierung der Energiewende|Laura Zöckler]] (Note, keine DenkerVita) — Beide beantworten die Frage, wer an der Windkraft verdient, mit den Menschen vor Ort, auf verschiedenen Wegen: Zöckler über Genossenschaften mit Einlage und Mitgliedschaft, das Klettwitzer Modell am Standort des Turms über eine direkte Ausschüttung von 80 Euro je Einwohner und Jahr ohne jede Hürde.
+- [[DenkerVita/Gesine Schwan]] — Schwans Gestaltungsmacht, Macht aus dem Zusammenwirken statt aus Herrschaft, hat in Großmanns Geschichte eine Behörde: Bei der Agentur für Sprunginnovationen reicht ein schlanker Fragebogen statt hundert Seiten Antrag. Großmanns Klage, dass der Mittelstand sonst an den Kosten der Pilotanlage scheitert, zeigt die Kehrseite: SPRIND ist die Ausnahme.
+- [[DenkerVita/Katherina Reiche]] — Reibung am Netz: Reiche will den langsamen Netzausbau zum Taktgeber der Erneuerbaren machen. Großmann dreht die Rechnung um und will die Erzeugung dorthin bringen, wo der Strom gebraucht wird, mit Höhenwind, der auch im Süden Offshore-ähnliche Erträge liefern soll.
+- [[DenkerVita/Tim Meyer]] — Meyer beschreibt Chinas „Gelinghaltung“, in der Engpässe gemanagt und nicht als Argument gegen den Ausbau benutzt werden, und verlangt von Europa viel mehr Industriepolitik. Großmanns „Valley of Death“ ist die deutsche Gegenprobe: gute Ingenieure, gute Ideen, und dann fehlt das Geld für die Pilotanlage.
+- [[DenkerVita/Jacob Beautemps]] — Beautemps stellt mit Factor 2 Energy ein Duisburger Start-up vor, das sein erstes CO₂-Geothermie-Kraftwerk im Ausland bauen muss, weil die Speicherung im Untergrund in Deutschland lange verboten war; dasselbe Muster wie beim Höhenwindturm. Beide Notes tragen zudem ein „Aber“: bei Beautemps im Video selbst, bei Großmann im Faktencheck, der 55 Prozent Volllast und 40 Gigawatt als Projektionen einordnet, die der erste Turm erst bestätigen muss.
+
+*Weggefährten aus der Projektarbeit (Humboldt-Recherche, ohne Note im Bestand):*
 
 - **Horst Bendix** — Co-Initiator des GICON-Höhenwindturms (ehem. Kirow/Leipzig, Schwermaschinenbau-Know-how)
 - **Prof. Martin Kaltschmitt** (TU Hamburg) — Energiesystem-Modellierung, Biomasse
@@ -135,9 +142,7 @@ Was sich aber ablesen lässt:
 
 ## Gedankenwelten-Notes
 
-*(alle Notes im Vault die diese Person behandeln)*
-
-→ Recherche durchführen nach Veröffentlichung dieser DenkerVita
+- [[Zeitgeist/Norio — GICON Hoehenwindturm revolutioniert Windkraft|Norio — GICON Höhenwindturm: Ostdeutscher Ingenieur revolutioniert Windkraft]] — der 365-Meter-Turm in der Lausitz, das Valley of Death und SPRIND
 
 ## Besonderheiten & Notizen
 

@@ -99,8 +99,11 @@ einer Steuerkonstruktion, die einem verurteilten Sexualstraftäter 170 Mio. einb
 wahr.
 
 ## Verbindungen zu anderen Denkern
-*(wird von Montaigne befüllt — thematisch nahe: das Netzwerk um Epstein, die Mechanik des
-Elite-Schutzes)*
+- [[DenkerVita/Sandra Navidi|Sandra Navidi]] — Die Anwältin nennt Black in einem Atemzug mit Wexner und Lutnick und beschreibt die Kongressanhörungen als Waschanlage: Elf von vierzehn Epstein-Befragungen liefen ohne Eid und ohne Kamera, ein US-Strafverfahren gegen einen der Genannten gibt es nach ihrem Wissen nicht. An einer Stelle geht sie weiter, als der Bestand trägt. Jay Clayton sei Blacks Mann bei Apollo gewesen, sagt sie; der Faktencheck kehrt das um: Clayton kam 2021 als unabhängiger Aufsichtsrat, *weil* Blacks Zahlungen an Epstein bekannt geworden waren.
+- [[DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]] — Koschi hat den 26. Juni 2026 festgehalten, an dem Black die Anhörung nach weniger als einer Stunde verließ, weil er zu den Geheimhaltungsvereinbarungen nicht aussagen wollte. Die Note zu seinem Video hält die Frage bewusst nach beiden Seiten offen: Warum lässt jemand Frauen Schweigen unterschreiben und weicht dann der Frage nach diesen Verträgen aus? Und macht dieses Schweigen schon schuldig oder nur verdächtig?
+- [[DenkerVita/Kalayo|Kalayo]] — Kalayo verfolgt dieselbe Chronik mit einem anderen Werkzeug, an Originaldokumenten, Schwärzungen und Subpoenas entlang. Black ist in seinen Videos kein Gesprächspartner, sondern einer der Namen, an denen sich die Frage der Spur entscheidet: Wie weit reicht der Schutz einer Elite, und wo bricht er?
+- [[DenkerVita/Evan Osnos|Evan Osnos]] — Osnos sagt, die Habgier sei nicht neu, neu seien die Maschinen, die sie verstärken: Finanzsysteme, Technologie, Steuerrecht. Blacks Weg von Drexel über Apollo bis zur Nachlassberatung bei Epstein liest sich wie ein Beleg dafür. Und der Dechert-Bericht, der kein Fehlverhalten fand, zeigt die unbequemere Hälfte von Osnos' These: Vieles daran war legal.
+- [[DenkerVita/Marlene Engelhorn|Marlene Engelhorn]] — Das Gegenbild beim selben Gegenstand, dem Erbe. Laut Senate Finance Committee zahlte Black rund 170 Millionen Dollar für Steuer- und Nachlassplanung, die ihm über eine Milliarde Dollar an Steuern erspart haben soll. Engelhorn erzählt von dem Beraterapparat, den man mit einem großen Vermögen gleich miterbt, und gründete „Tax Me Now“, um höher besteuert zu werden.
 
 ## Gedankenwelten-Notes
 - [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]]

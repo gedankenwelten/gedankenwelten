@@ -69,7 +69,13 @@ Dara ist auf mehreren Plattformen aktiv (YouTube, Instagram, TikTok, Discord) un
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Thomas Eichstaedt|Thomas Eichstädt]] — Die handfesteste Verbindung im Bestand. Dara sah den Film über Eichis FC Pio in Torgelow und startete eine Spendenaktion; statt der angepeilten 20.000 kamen über 86.000 Euro zusammen, und die AWO machte aus dem Ehrenamt eines Aussteigers aus der Neonazi-Szene eine bezahlte Stelle. Aus Reichweite wurde ein Arbeitsplatz.
+- [[DenkerVita/Marcant]] — Über Eichi verbunden, im Ton verschieden. Dara arbeitet mit Entlarvung und Einordnung, oft scharf zugespitzt. Marcant geht auf rechte Demos und redet mit jungen Leuten, ohne sie zu verachten, weil respektvolle Neugier beim Ausstieg mehr bewirke als moralische Überlegenheit. Beide suchen ihr junges Publikum dort, wo es ist: auf YouTube und TikTok.
+- [[DenkerVita/Thomas Laschyk]] — Laschyk sagt, die Wahrheit brauche Werbung: Zuspitzung, Emotion, klare Wertung. Daras Reaction-Format ist diese Methode in Reinform, mit derselben Versuchung. Der Titel „Merz plant 72-Stunden-Arbeitswoche" nennt ein theoretisches Maximum, das der Faktencheck als vereinfacht einordnet; die Zuspitzung trägt weiter, als die Belege reichen. Beide machen zudem aus Reichweite Geld für Menschen, Laschyk für Flutopfer, Dara für Eichis Stelle.
+- [[DenkerVita/Maurice Hoefgen|Maurice Höfgen]] — Dieselbe Merz-Regierung, zwei Blickwinkel. Höfgen rechnet vor, dass Deutschland kein Faulheitsproblem hat und die sinkende Durchschnittsarbeitszeit aus mehr Teilzeit kommt; Dara zeigt die Gegenwehr der Gewerkschaften im Saal. Beide halten die Forderung nach mehr Arbeit für ideologisch statt ökonomisch begründet, und beide machen Gegenöffentlichkeit auf YouTube.
+- [[DenkerVita/Christoph Butterwegge]] — Butterwegge liefert den Unterbau zu Daras Argument, Sozialabbau sei Umverteilung nach oben. Daras Exkurs zum Bürgergeld als Verhandlungsmacht, ohne Sicherungsnetz sinkt der Lohn, den man noch ausschlagen kann, ist Butterwegges strukturelle Armutsanalyse im Alltag.
+- [[DenkerVita/Eva von Redecker]] — Im NANO-Talk halten sie und Simon Schaupp dagegen, dass wir nicht zu wenig arbeiten, sondern falsch, und dass die unsichtbare Sorgearbeit in keiner Stundenrechnung vorkommt. Dara dokumentiert, wie die Regierung das Gegenteil verlangt. Für Jasmin Fahimis Satz von der „organisierten politischen Kriminalität im Kapitalismus", den Dara hervorhebt, liefert von Redecker den Rahmen: den Staat als Eigentum im neuen Faschismus.
+- [[DenkerVita/Ulrike Herrmann]] — Herrmanns Bilanz nach einem Jahr Merz, „oben wird gegeben, unten wird genommen", ist die Totale, der DGB-Eklat die Szene darin. Sie zieht die Rechnung noch tiefer: Wohlstand entsteht für sie aus Technik und Investition, investiert wird nur, wo Nachfrage ist. Wer unten spart und länger arbeiten lässt, bekommt so kein Wachstum.
 
 ---
 

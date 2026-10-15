@@ -129,7 +129,7 @@ Joan steht in Tradition / Dialog mit:
 
 - **[[Constanze Kurz|Constanze Kurz]]** — CCC-Sprecherin, Technologie-Kritikerin; ähnliche Sorge um Überwachung und Asymmetrie-Machtströme, aber von deutschem Pol aus. Joan's African Data Labor Perspective ergänzt Constanzes Digital-Rights-Fokus.
 
-- **[[Klaus Dörre|Klaus Dörre]]** — Industriesoziologe; Prekarisierung, kapitalistische Landnahme als analytisches Zentrum. Joan würde Dörres Klassenkritik als direktes Werkzeug nutzen.
+- **[[Klaus Doerre|Klaus Dörre]]** — Industriesoziologe; Prekarisierung, kapitalistische Landnahme als analytisches Zentrum. Joan würde Dörres Klassenkritik als direktes Werkzeug nutzen.
 
 - **[[Simon Schaupp|Simon Schaupp]]** — Arbeitsforscher; kybernetische Proletarisierung, algorithmische Arbeitssteuerung. Joan's Data Annotation ist Prototyp dessen, was Schaupp "digitale Proletarisierung" nennt.
 
@@ -141,7 +141,7 @@ Joan steht in Tradition / Dialog mit:
 
 ## Gedankenwelten-Notes
 
-- [[Zeitgeist/rp26 - KIs unsichtbare Arbeitskafte|rp26 — KIs unsichtbare Arbeitskrefte]] — Joan Kinyua & Julia Kloiber, re:publica 26 (Mai 2026)
+- [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte|rp26 — KIs unsichtbare Arbeitskräfte]] — Joan Kinyua & Julia Kloiber, re:publica 26 (Mai 2026)
 
 ---
 

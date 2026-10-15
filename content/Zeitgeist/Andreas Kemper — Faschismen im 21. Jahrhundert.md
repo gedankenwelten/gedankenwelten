@@ -217,9 +217,9 @@ Ditterts „zwei Stammeslogiken: archaisch + Tech" decken sich mit Kempers Diagn
 
 **Faschismus-Definition bei Redecker:** [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Redecker definiert Faschismus als *„verschobenen Eigentumsrausch / Phantombesitzverteidigung"*. Griffins palingenetischer Ultranationalismus und Redeckers Phantombesitz-Konzept sind unterschiedliche Zugänge zum selben Phänomen — bei Redecker liegt der Akzent auf dem Verlustgefühl als psychologischem Treiber.
 
-**Faschismus als Performance:** [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 15: Töten als Ehrensache]] — Trump schreibt „Jetzt töte ich sie als der 47. Präsident — was für eine große Ehre." Das ist Kempers These in seiner reinsten Form: Faschismus als performative Selbstermächtigung durch Gewalt. Der postfordistische Faschismus zeigt sich nicht im Marschieren, sondern im Truth-Social-Post.
+**Faschismus als Performance:** [[Zeitgeist/Koshi Politik — Truth Social 15: Töten als Ehrensache]] — Trump schreibt „Jetzt töte ich sie als der 47. Präsident — was für eine große Ehre." Das ist Kempers These in seiner reinsten Form: Faschismus als performative Selbstermächtigung durch Gewalt. Der postfordistische Faschismus zeigt sich nicht im Marschieren, sondern im Truth-Social-Post.
 
-**Kult-Zerfall:** [[Zeitgeist/Koshi Politik/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]] — Kemper: Die drei Faschismus-Typen (völkisch, klerikalfaschistisch, technofaschistisch) bilden fragile Koalitionen. Fuentes (Klerikalfaschismus) und Kent (anti-imperialistischer MAGA-Flügel) verlassen die Koalition aus gegensätzlichen Gründen — genau der Widerspruch, den Kemper in seiner Typ-Analyse beschreibt.
+**Kult-Zerfall:** [[Zeitgeist/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]] — Kemper: Die drei Faschismus-Typen (völkisch, klerikalfaschistisch, technofaschistisch) bilden fragile Koalitionen. Fuentes (Klerikalfaschismus) und Kent (anti-imperialistischer MAGA-Flügel) verlassen die Koalition aus gegensätzlichen Gründen — genau der Widerspruch, den Kemper in seiner Typ-Analyse beschreibt.
 
 **Härte als faschistisches Prinzip:** [[Denker/Eva von Redecker — Dieser Drang nach Härte]] — Redeckers taz-Talk liefert den emotionalen/affektiven Rahmen, den Kempers theoretische Faschismusanalyse voraussetzt.
 

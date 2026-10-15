@@ -389,15 +389,15 @@ Mausfeld beschreibt, wie gesellschaftliche Strukturen narzisstisch organisierte 
 
 Ricard beschreibt das Nicht-Ich (*Anātman*) als Befreiung: Wer aufhört, ein festes Ich zu verteidigen, braucht keine narzisstischen Kompensationsmechanismen mehr. Was Hagemeyer als pathologische Struktur beschreibt, ist nach Ricard das Ergebnis einer falschen Grundprämisse — der Glaube an ein stabiles, unabhängiges Selbst. Beide Perspektiven zusammen ergeben ein vollständiges Bild: Hagemeyer beschreibt die Pathologie; Ricard zeigt die ontologische Wurzel.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 15: Töten als Ehrensache]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 15: Töten als Ehrensache]]
 
 Hagemeyers Narzissmus-Analyse erhält hier ihr drastischstes politisches Beispiel: „Was für eine große Ehre dies tun zu dürfen" — die Tötung anderer als narzisstische Selbstbestätigung. Keine strategische Begründung, keine Empathie für Opfer, nur das Bedürfnis nach Größe durch die Vernichtung des anderen.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union]]
 
 Trumps Post über Omar und Tlaib — Feindmarkierung, Abwertung, Forderung nach Abschiebung von US-Staatsbürgerinnen — ist ein Lehrstück in narzisstischer Dynamik: Ich werde groß durch die Vernichtung des anderen. Hagemeyer hätte an diesem Post analytische Freude.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien]]
+### → [[Zeitgeist/Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien]]
 
 Das verschwundene und wieder aufgetauchte Dokument mit dem Trump-Vorwurf, die selektive Akten-Veröffentlichung, der Pressesprecher-Auftritt: Hagemeyers Paranoia-Dynamik — wer nur Ja-Sager um sich hat, verliert den Realitätsbezug — zeigt sich im institutionellen Umgang mit Epstein-Belastungsmaterial.
 

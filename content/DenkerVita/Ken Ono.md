@@ -73,8 +73,14 @@ Ono ist kein politischer Denker, sondern Wissenschaftler und Bildungsstimme. Sei
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Christian Bauckhage]] — Zwei Naturwissenschaftler an dem Punkt, an dem die Maschine den Kern ihres Fachs erreicht, Ono an FrontierMath, Bauckhage an AlphaFold und der widerlegten Erdős-Vermutung. Beide ziehen dieselbe Konsequenz für die Bildung, weg vom Abrufbaren, hin zu Urteil und guter Frage. Bauckhage bringt aber den Befund mit, der Onos optimistischsten Satz bremst: In einer chinesischen Studie an 20.000 Schülern wurden die Hausaufgaben mit KI besser und die Prüfungsleistung schlechter. Wer den Stoff eines Studienjahrs vom Sprachmodell lernt, lernt womöglich nur, ihn abzurufen.
+- [[DenkerVita/Markus Gabriel]] — Ein produktiver Widerspruch: Gabriel sagt, KI *sei* Kreativität, Ono verortet das Schöpferische gerade im Menschen. Sie treffen sich bei der naiven Frage: Gabriels geistige Freiheit, „die an Dummheit grenzt“, ist Onos gute Frage, die niemand herunterladen kann.
+- [[DenkerVita/Dietmar Dath]] — Beide lieben die Mathematik, beide landen bei Terence Taos Satz, der Beruf verändere sich. Ono legt das Gewicht auf das Staunen, Dath auf die Arbeitsverhältnisse, und damit stellt er die Frage, die Onos Optimismus offen lässt: Wird die gesparte Prüfzeit ein Überschuss für die Mathematiker oder eine Stelle weniger?
+- [[DenkerVita/André Zimpel]] — Zimpels Förderschüler, der 60 durch 4 als „sechs Männer mit zehn Fingern“ rechnet, ist ein unentdeckter Ramanujan der Neurodiversitätsforschung. Beide sehen Begabung verteilt und anders geformt, und beide klagen ein Schulsystem an, das sie am falschen Maß misst.
+- [[DenkerVita/Akala]] — Akala gibt Onos unentdeckten Ramanujans eine soziale Ursache: Sein Publikum hält Zeilen von GZA zu 99 Prozent für Shakespeare, das Urteil über Qualität hängt an der zugeschriebenen Herkunft. Sein Satz über Wu-Tang, sie hätten es sexy gemacht, intelligent zu sein, antwortet auf Onos Frage nach dem Staunen: Es braucht jemanden aus demselben Treppenhaus, der es vormacht.
+- [[DenkerVita/Omar M. Yaghi]] — Dieselbe Wende von zwei Seiten: Bei Ono wird das Wissen billig, beim Chemiker Yaghi das Herstellen, seit Maschinen Tausende Materialien am Tag erzeugen; bei beiden wird das Auswählen zur eigentlichen Arbeit. Yaghis Weg vom Flüchtlingskind in Amman zum Nobelpreis ist der eines entdeckten Ramanujan.
+- [[DenkerVita/Torsten Wilholt]] — Mit Gettiers stehengebliebener Uhr erklärt Wilholt, warum eine wahre Antwort noch kein Wissen ist, wenn der Weg zu ihr nicht verlässlich war. Das ist die erkenntnistheoretische Begründung für Onos Satz, dass das Wissen billig und die Verifikation teuer wird.
 
 ## Gedankenwelten-Notes
 
-- [[Ken Ono — Intelligenz im Zeitalter der KI]]
+- [[Geistesblitz/Ken Ono — Wenn das Wissen billig wird|Ken Ono — Wenn das Wissen billig wird]]

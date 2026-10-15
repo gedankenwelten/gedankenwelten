@@ -74,11 +74,18 @@ In ihren neueren Werken konzentriert sie sich auf die **Dekonstruktion rechtsext
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier leer lassen)*
+- [[DenkerVita/Annika Brockschmidt]] — Ihre Partnerin auf der re:publica-26-Bühne und die zweite Hälfte desselben Befunds. Brockschmidt entschlüsselt die Codes, Dog Whistles und die religiöse Tiefenschicht der US-Rechten, Nocun die Produktionswege, über die Esoterik und KI-Bilder diese Botschaften ins Vorfeld tragen.
+- [[DenkerVita/Ingrid Brodnig]] — Derselbe Bildgenerator, von entgegengesetzten Enden: Nocun zeigt, wie idealisierte Fake-Frauen für Antifeminismus und Beschützernarrativ *erschaffen* werden, Brodnig, wie reale Frauen mit denselben Werkzeugen digital ausgezogen werden. Beide sezieren die Plattformmechanik, nicht den einzelnen Täter.
+- [[DenkerVita/Lars Wienand]] — Fake-Unterstützer, die es nie gab, auf zwei Märkten: Nocun verfolgt den privaten rechten Markt mit seinen Sockenpuppen-Netzwerken, Wienand die russische Auftragsarbeit mit geklonten Stimmen und erfundenen Interviewpartnern. Beide recherchieren mit eigenen Konten von innen, und Wienand ergänzt, was bei Nocun als Empörungs-Boost anklingt: Auch das Entlarven ist eingeplant, der Bericht darüber dient als Arbeitsnachweis.
+- [[DenkerVita/Constanze Kurz]] — Zwei Herkünfte aus der Netzpolitik, die Piratenpartei hier, der Chaos Computer Club dort, und dieselbe Überzeugung, dass Datenschutz ein Grundrecht ist und keine Privatsache. Kurz liefert die technische Seite zu Nocuns politischer: Was auf der Ebene der Sprachmodelle wahrscheinlichkeitsbasierte Muster-Fortsetzung ist, wird im rechten Vorfeld zur Erschöpfung der Faktizität.
+- [[DenkerVita/Hannah Arendt]] — Nocuns „Erschöpfung der Faktizität“ greift auf Arendt zurück: Wo niemand mehr weiß, ob das Straßeninterview echt ist, zerfällt die geteilte Wirklichkeit, auf der jedes Urteilen ruht. Und der Admin, der „mach sie hübscher“ in ein Promptfeld tippt, ist Arendts Banalität in Workflow-Form, kein Fanatiker, sondern jemand, der eine Aufgabe erledigt.
+- [[DenkerVita/Leonie Heims]] — Heims zeigt an der Agartha-Szene, wie Esoterik, Ironie und Hyperpop-Edits menschenfeindliche Inhalte anschlussfähig machen; Nocun findet dieselbe Tarnung in der Esoterik-Bubble mit KI-Content. Beim Gegenmittel liegen sie auseinander: Heims setzt auf Humor und die Mittel der Meme-Kultur, Nocun erinnert daran, dass jede Reaktion, auch die empörte, den Post nach oben spielt.
+- [[DenkerVita/Rainer Mausfeld]] — Reibung an der Frage, die Nocuns eigene Arbeit offen hält: Wo endet berechtigte Machtkritik, wo beginnt Verschwörungsglaube? Nocun sieht Verschwörungsmythen dort wuchern, wo echte Intransparenz und Ohnmacht herrschen, und seziert die Erzählung. Mausfeld, dem Kritiker wie Michael Butter verschwörungstheoretische Züge bescheinigen, hält das Etikett „Verschwörungstheorie“ selbst für einen Kampfbegriff gegen unbequeme Kritik. Beide setzen bei realer Machtasymmetrie an und ziehen die Grenze an verschiedenen Stellen.
 
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Katharina Nocun — Wie KI-Content das politische Vorfeld der extremen Rechten praegt|Nocun — Jung, blond, rechts & KI-generiert (re:publica 26)]]
+- [[Zeitgeist/Brockschmidt Nocun — Codes der extremen US-Rechten|Brockschmidt & Nocun — Codes der extremen US-Rechten (re:publica 26)]]
 
 ---
 

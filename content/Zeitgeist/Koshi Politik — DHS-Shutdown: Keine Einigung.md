@@ -79,11 +79,11 @@ Neue ICE-Agents bekommen einen **\$50.000 Signing Bonus** — aber im Kleingedru
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE-Anhörung im Kongress]]
+### → [[Zeitgeist/Koshi Politik — ICE-Anhörung im Kongress]]
 
 tags zuvor: was in der Anhörung ans Licht kam
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — ICE Whistleblower packt aus]]
+### → [[Zeitgeist/Koshi Politik — ICE Whistleblower packt aus]]
 
 12 Tage später: interne Details zur Ausbildung
 

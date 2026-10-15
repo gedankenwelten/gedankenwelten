@@ -72,15 +72,12 @@ Im taz Talk mit Susan Neiman wird ihre Haltung zur Nahost- und Antisemitismusdeb
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
-
-Naheliegend:
-- [[DenkerVita/Susan Neiman]] — Gesprächspartnerin im taz Talk auf der Frankfurter Buchmesse 2026, mit zwei offenen Widersprüchen
-- [[DenkerVita/Ulrike Herrmann]] — Kollegin aus der taz-Wirtschaftsredaktion, gemeinsame taz Talks (Ampel 2021, taz lab 2022)
-- [[DenkerVita/Eva von Redecker]] — Gästin im taz Talk zur Leipziger Buchmesse 2026
-- [[DenkerVita/Claudia Kemfert]] — Gästin der Reihe „Chefinnensache“ 2022
-- [[DenkerVita/Tilo Jung]] — interviewte sie 2013 bei Jung & Naiv über Nichtwähler
-- [[DenkerVita/Elif Eralp]] — die Linke, deren Berliner Wahlsieg Winkelmann als „linken Sieg, der sich nicht so anfühlt“ kommentierte
+- [[DenkerVita/Susan Neiman]] — Im taz Talk auf der Frankfurter Buchmesse 2026 stellt Winkelmann Neimans Buch vor und widerspricht ihr zweimal offen. Neiman hält Israelkritik in Deutschland für ein Tabu, Winkelmann für längst universell; Neiman hält die Institutionen gegen Antisemitismus für wirkungslos, Winkelmann besteht darauf, dass es sie braucht, und beide einigen sich auf „vielleicht bessere“. Darunter liegt ein Streit ums Wort Moral: Winkelmann fürchtet die Moral, die den Einzelnen ermahnt, Neiman vermisst die Moral, die Unrecht beim Namen nennt.
+- [[DenkerVita/Carsten Brosda]] — Im Panorama über die Frage, warum Menschen Autoritäre wählen, stehen die drei nebeneinander: Neiman will die Linke mit dem Wort Gerechtigkeit zurück in die Offensive holen, Winkelmann hält moralisches Reden meist für konservative Ermahnung des Einzelnen, Brosda findet Gerechtigkeit zu transaktional und setzt auf Solidarität, „manche Dinge gehören sich“. Mit Brosda teilt Winkelmann den Blick auf Strukturen statt Appelle; er will den Sozialstaat auf Solidarität bauen, nicht auf die Großzügigkeit der Besitzenden.
+- [[DenkerVita/Elif Eralp]] — Den Berliner Wahlsieg von Eralps Linker mit 25,7 Prozent nennt Winkelmann „einen linken Sieg, der sich nicht so anfühlt“, weil er die Ergebnisse der AfD im Osten nicht aufwiegt. Die Antisemitismus-Debatte, die nach dem Sieg über die Partei hereinbrach, ist auch der Anlass ihres Streits mit Neiman. Ihr Satz dort, man müsse Antisemitismus bekämpfen können, ohne in ein Lager geworfen zu werden, liegt nah an Eralps Linie, Rassismus und Antisemitismus dürfe man nicht gegeneinander ausspielen.
+- [[DenkerVita/Ulrike Herrmann]] — Kollegin aus derselben Redaktion, 2021 saßen beide im taz Talk zur neuen Ampel. Herrmann argumentiert vom System her, mit dem Wachstumszwang des Kapitalismus und einem grünen Schrumpfen nach britischem Kriegsvorbild. Winkelmann befragt eine Koalition nach ihrer Wirkung auf Familien, Beschäftigte und Kommunen und hat Sinn für das Machbare. In derselben Zeitung stehen damit zwei Maßstäbe nebeneinander: die Frage nach der Ordnung und die nach dem nächsten Gesetz.
+- [[DenkerVita/Michael Hartmann]] — „Integriert euch!“ (2010) richtete die Forderung der Sarrazin-Debatte an die oberen Einkommensgruppen, die sich selbst vom Rest der Gesellschaft abschotten. Hartmanns Elitenforschung gibt der satirischen Wendung die Daten: Deutsche Eliten rekrutieren sich überproportional aus den oberen drei bis fünf Prozent, und je höher die Herkunft, desto weniger problematisch erscheint die Ungleichheit.
+- [[DenkerVita/Eva von Redecker]] — Im taz Talk zur Leipziger Buchmesse 2026 sprach Winkelmann mit ihr über den neuen Faschismus. Redeckers Phantombesitz, die zur Gewalt bereite Angst, einem werde genommen, was man nie besaß, ist eine Erklärung für den Befund, den Winkelmann nach den Septemberwahlen festhält. Offen bleibt zwischen beiden, ob Sozialpolitik, an der Winkelmann Politik misst, eine Angst erreicht, die sich an Phantomen festmacht.
 
 ## Gedankenwelten-Notes
 

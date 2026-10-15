@@ -92,7 +92,14 @@ Völz veröffentlicht primär über die **BVMW-Plattform**, nicht als Autor eige
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Christoph Butterwegge]] — Sein direkter Gegenspieler in der phoenixRunde, bis in die Formel: „Sozial ist, was Arbeit schafft“ gegen „Sozial ist, was Armut abschafft“. Völz gibt Merz recht, Mathematik und Demografie entschieden über die Sozialversicherung; Butterwegge nennt genau diesen Satz Demagogie, denn die Rentenhöhe sei eine Frage der Verteilung, nicht der Biologie.
+- [[DenkerVita/Cordula Tutt]] — In der Diagnose überraschend nah: Auch Tutt hält das System für schlecht gezielt und nennt 900.000 Menschen mit Pflegegeld ohne pflegerische Leistung. Ihr Schluss heißt aber nicht weniger, sondern gezielter, und das ist die Lesart, mit der Kritiker Völz' Ineffizienz-Befund beantworten: die Gießkanne umbauen statt kürzen.
+- [[DenkerVita/Christine Dankbar]] — Beim Bürokratieabbau sind sich beide einig, Dankbar verweist sogar auf Landesgesetze, nach denen Berichtspflichten für Firmen auslaufen. Den Sozialstaat liest sie aber als Legitimationsproblem: Wer die Abstiegsangst ernst nehme, müsse sagen, dass er nicht angetastet wird. Wo Völz Kosten sieht, sieht sie Vertrauen.
+- [[DenkerVita/Heiner Flassbeck]] — Völz will die kapitalgedeckte Altersvorsorge „nicht tabuisiert“ sehen, weil sie in anderen Ländern funktioniere. Flassbecks Sparparadoxon ist der makroökonomische Einwand dagegen: Wer spart, braucht einen Schuldner, und Kapitaldeckung verschiebt das Rentenproblem in den Kapitalmarkt, statt es zu lösen.
+- [[DenkerVita/Martyna Linartas]] — Völz verteidigt hohe Einkommen mit der Leistung, bei höheren Sätzen lohne sich die Arbeit nicht mehr, und verweist auf Länder ohne Erbschaft- und Vermögensteuer. Linartas zeigt, dass die großen Vermögen in Deutschland überwiegend geerbt sind: Das Leistungsargument trifft die Arbeitseinkommen, die schon heute höher besteuert werden als Kapitalerträge, und lässt die Erbengesellschaft unberührt.
+- [[DenkerVita/Christoph Moellers]] — „Es gibt nichts Leereres als Bürokratiekritik“, sagt Möllers, solange niemand sagt, was genau weg soll und wen das kostet. Völz liefert immerhin eine Zahl, 77 Milliarden Euro jährlicher Bürokratielast laut Normenkontrollrat, und ein Gesetz, das Arbeitszeitgesetz. Ob die Flexibilisierung jemanden etwas kostet, etwa die Beschäftigten, ist die andere Hälfte von Möllers' Frage.
+- [[DenkerVita/Ulf Poschardt]] — Die nächste Stimme im Bestand. Für Poschardt ist der große Staat das Problem, eine Staatsquote von 51,6 Prozent sein Beleg; Völz beschreibt dieselbe Sorge als Abwärtsspirale aus steigenden Lohnzusatzkosten und schwindendem Standortvorteil.
+- [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)|Thomas Fricke]] (Note, keine DenkerVita) — Fricke trägt die Forschung zusammen, nach der Austerität und als ungerecht empfundene Lasten jenes Gefühl des Kontrollverlusts erzeugen, das Autoritären Stimmen bringt. Für die „ausgabensenkende Strukturreform“, auf die Völz sich beruft, ist das der Prüfstein: Eine Reform, die als Kürzung erlebt wird, kann dieses Gefühl nähren, auch wenn sie effizient ist.
 
 ---
 
@@ -103,4 +110,4 @@ Alle Notes die Völz oder seine Positionen behandeln:
 - [[Zeitgeist/phoenixRunde — Streit um Reformen, wer zahlt wie viel|phoenixRunde: Streit um Reformen]] — Zentrale Debatte zwischen Völz und Christoph Butterwegge
 - [[Zeitgeist/Christoph Butterwegge — Armut NEU DENKEN|Butterwegge — Armut NEU DENKEN]] — Direkte Gegenperspektive auf die Frage, was Sozialpolitik ist
 - [[Panorama/Rente|Panorama: Rente]] — Systemische Rahmung der Rentendebatten, in die Völz mit seiner Kapitaldeckungs-Forderung eingreift
-- [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit|Heiner Flassbeck — Merz Rentenluege]] — Makroökonomische Kritik von Kapitaldeckungs-Modellen (Sparparadoxon), auf die sich Völz stützt
+- [[Zeitgeist/Heiner Flassbeck — Merz Rentenluege und globale Ungleichheit|Heiner Flassbeck — Merz Rentenluege]] — Makroökonomische Kritik an der Kapitaldeckung (Sparparadoxon), die Völz fordert: die Gegenposition

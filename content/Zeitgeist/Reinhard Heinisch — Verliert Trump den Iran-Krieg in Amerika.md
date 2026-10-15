@@ -171,22 +171,22 @@ Mausfeld beschreibt, wie Meinungskorridore gesetzt werden. Heinischs „Stammesd
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 Kemper beschreibt den Zerfall demokratischer Normen in Europa durch Tech-Kapital und Rechtspopulismus. Heinisch beschreibt denselben Prozess in den USA — selektiver Interventionalismus als Ersatz für regelbasierte Ordnung, Stammesdenken als politisches Fundament.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]]
+### → [[Zeitgeist/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]]
 Koshi dokumentiert Trumps Truth-Social-Rhetorik während des DHS-Shutdowns — ICE-Drohungen, Demokraten als „größter Feind Amerikas". Ergänzt Heinisch: Hier zeigt sich die innenpolitische Eskalation in Echtzeit, die Heinisch strukturell beschreibt.
 
 ### → [[Koschi Politik — Pete Hegseth und das christlich-nationalistische Militär]]
 Hegseth als konkretes Fallbeispiel für Heinischs These: Als Frontmann und potentieller Sündenbock exponiert, damit Trump sich bei innenpolitischem Scheitern distanzieren kann.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund]]
+### → [[Zeitgeist/Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund]]
 Koshi dokumentiert, was Heinisch analysiert: Die ~77% MAGA-Zustimmung beginnt zu bröckeln, MAGA 2.0 entsteht. Russland fütter Iran mit US-Positionsdaten — während die USA Russland indirekt beim Ukraine-Krieg helfen. Das ist Heinischs Paradox der Trump-Koalition in konkreten Zahlen.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
+### → [[Zeitgeist/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
 Fox News konfrontiert Trump durch Peter Doocy. „Schrödinger's War" — kein Krieg, solange es kein War Powers Resolution gibt. Mehdi Hasan nennt ihn „inkompetenten Autoritären". Das ist Heinischs Einschätzung — kein Rally-around-the-flag-Effekt — als gelebter Mediendiskurs.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Wer profitiert vom Iran-Krieg]]
+### → [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg]]
 Heinisch erklärt den Plan (Gulf States als Motivation, Öl-Preissenkung durch Iran-Öl zurück auf den Markt). Koshi benennt die konkreten Akteure: Qatar-Flugzeug, UAE-Crypto, Saudi/Kushner, Board of Peace. Beide Analysen zusammen ergeben das vollständige Bild der Interessen hinter dem Krieg.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]]
+### → [[Zeitgeist/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]]
 Heinisch analysiert die brüchige MAGA-Koalition; Koshi dokumentiert ihren öffentlichen Zerfall: Joe Kent — ein Veteran und Ehemaliger — sagt „impeach him", Nick Fuentes nennt es „bullshit". Das ist Heinischs innenpolitisches Scheitern des Iran-Plans als Personenbewegung.
 
 ### → [[Zeitgeist/Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]

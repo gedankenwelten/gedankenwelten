@@ -199,10 +199,10 @@ Kempers Sarazin-Medienprodukt-These und Mausfelds Analyse von Elite-Meinungskorr
 ### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 Mühlhoff analysiert denselben Technofaschismus von der Silicon-Valley-Seite: während Kemper AfD-Netzwerke und Tech-Milliardäre verbindet, beschreibt Mühlhoff die strukturelle Logik — warum exponentielles KI-Wachstum zwingend antidemokratisch wird. Longtermismus, Desouveränisierung, Authoritarian Stack (Francesca Bria) als Gegenstücke zu Kempers Akteursanalyse.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 15: Töten als Ehrensache]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 15: Töten als Ehrensache]]
 Kemper: Faschismus ist nicht nur ideologisch — er ist performativ. Trumps Post „Jetzt töte ich sie als der 47. Präsident" ist Performance in Reinform: Ich töte, also bin ich. Der postfordistische Faschismus braucht keine Massenaufmärsche — er hat Social-Media-Posts als Bühne.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]]
+### → [[Zeitgeist/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]]
 Nick Fuentes verlässt Trump, weil er nicht hart genug vorgeht — ein Paradefall von Kempers Dynamik: Der Klerikalfaschismus (Fuentes) und der Technofaschismus (MAGA) sind unterschiedliche Faschismus-Typen, die gemeinsam die Koalition bildeten und nun auseinanderbrechen.
 
 ### → [[Denker/Hannah Arendt — Denken ohne Geländer]]

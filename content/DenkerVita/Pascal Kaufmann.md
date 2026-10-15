@@ -76,7 +76,7 @@ Kaufmann publiziert primär über Reden (WEF, re:publica, Konferenzen), Intervie
 
 **Pragmatisch-technokratisch mit sozialer Komponente** — Kaufmann ist kein Libertärer (wie manche KI-CEOs in USA), aber auch kein Regulierungs-Pessimist. Seine Position:
 
-- **Pro:** Technologie-Optimismus, europäische Autokratie, Open-Source-Ökosysteme, Vertrauen statt Verbot
+- **Pro:** Technologie-Optimismus, europäische Autonomie, Open-Source-Ökosysteme, Vertrauen statt Verbot
 - **Skeptisch:** US-Tech-Hegemonie, China-Abhängigkeit, Overregulation, Tech-Paternalismus
 - **Selbstbild:** "Europäischer KI-Praktiker" — nicht Anti-USA, aber Pro-Autonomie
 
@@ -84,8 +84,14 @@ Unterschied zu Büttner: Sie denkt **wirtschaftspolitisch** (FDP-Agenda: Gründe
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Nicole Buettner]] — Sein Gegenüber auf der re:publica 26: Beide wollen europäische KI-Souveränität und halten den AI Act für verfehlt, sie denkt dabei über Gründer, Kapital und Wettbewerb, er über Vertrauen als das Einzige, was Modelle noch unterscheidet. Auf ihr Plädoyer für Techmilliardäre setzt er spielerisch noch eins drauf: Man könne auch Billionär werden.
+- [[DenkerVita/Christian Bauckhage]] — Zwei neurowissenschaftlich denkende KI-Köpfe, die auf kleine, souveräne europäische Modelle setzen statt auf den einen Giganten nach Silicon-Valley-Art. Bauckhage begründet es technisch, mit dem 24-Watt-Gehirn gegen das 10-Megawatt-Rechenzentrum und hybrider KI für einzelne Branchen, Kaufmann mit Vertrauen als Marke: verwandtes Ziel, andere Fundierung.
+- [[DenkerVita/Julia Kloiber]] — Die Gegenstimme von derselben re:publica: Für Kaufmann ist KI eine normale Technologie, „wie ein Mixer oder ein Hammer“, und der AI Act der Versuch von Staaten, ein Rennen zu bremsen, das sie nicht gewinnen können. Für Kloiber ist kein Code neutral, und auf ihrem Podium wurde gefordert, den AI Act nicht zugunsten der Konzerne abzuschwächen; dass die Regulierung ihr Ziel verfehlt, sehen beide, aus entgegengesetzten Richtungen.
+- [[DenkerVita/Yuval Noah Harari]] — Der Widerspruch zur „langweiligen Statistik“: Für Kaufmann ist die AGI-Hysterie amerikanisches Marketing, für Harari ist KI die erste Technologie, die selbst Geschichten erzählt und damit Vertrauen, Intimität und politische Wirklichkeit fabrizieren kann, ausgerechnet das Vertrauen, das Kaufmann zur wichtigsten KI-Währung erklärt. Dass er mit Lab42 selbst einen „Giant Leap in Human-Level AI“ sucht, macht die Frage, wie normal diese Technik ist, auch zu einer an ihn.
+- [[DenkerVita/Frederike Kaltheuner]] — Zustimmung und Einwand zugleich: Wie Kaufmann hält Kaltheuner es für einen Fehler, dass Europa das amerikanische Scaling-Paradigma kopiert, in einem Rennen, das es so nicht gewinnen kann. Ihr dritter „fataler Fehler“ trifft aber auch Alpine AI: Die Interessen europäischer Firmen sind nicht automatisch die Europas, und ein europäischer Anbieter kann dieselben Abhängigkeiten reproduzieren wie ein amerikanischer.
+- [[DenkerVita/Sebastian Giessmann]] — Die Eurocard ist die Warnung an jedes europäische Champion-Modell: privatwirtschaftlich aufgebaut, europäisch gedacht, 2003 von Mastercard übernommen. Mit Gießmann gelesen braucht Kaufmanns Vertrauen in Schweizer Herkunft einen politischen Schutz, der über die Gründung hinaus hält.
+- [[DenkerVita/Jan-Keno Janssen]] — Janssen beschreibt das Problem unter der Souveränitätsdebatte, einen KI-Markt mit einem Hardware-Flaschenhals, an dem Nvidia sitzt. Kaufmanns Bergbunker beantworten die Frage, wo die Daten liegen; offen bleibt, auf wessen Chips sie gerechnet werden.
 
 ## Gedankenwelten-Notes
 
-- [[Zeitgeist/re:publica 26 - Buettner und Kaufmann - Europas KI-Zukunft|re:publica 26 — Büttner und Kaufmann — Europas KI-Zukunft]]
+- [[Zeitgeist/Buettner und Kaufmann — KI-Souveraenitaet in Europa|Büttner & Kaufmann — KI-Souveränität in Europa]]

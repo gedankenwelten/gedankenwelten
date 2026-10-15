@@ -125,7 +125,14 @@ Mangelsdorf ist keine parteipolitisch positionierte Stimme; ihre Einordnung lieg
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Hartmut Rosa]] — Mattering und Resonanz sind beinahe dasselbe Wort in zwei Fächern: Bei Rosa berührt die Welt mich, bei Mangelsdorf berühre ich die Welt, und sie zitiert ihn im Gespräch selbst. Die Reibung liegt in der Methode. Wenn Gelingen dort geschieht, wo wir es nicht verfügbar machen, bleibt offen, was ein Fragebogen erfasst, der es misst.
+- [[DenkerVita/Byung-Chul Han]] — Was bei Mangelsdorf der Preis des Erfolgs ist, Schlaf, Bindung, Zeit, beschreibt Han als Leistungssubjekt, das sich selbst ausbeutet, und beide halten das Glück für ein Nebenprodukt. Han liefert zugleich den härtesten Einwand gegen ihr Fach: Coaching und Selbstakzeptanzübung wären bei ihm Betriebsmittel derselben Maschine.
+- [[DenkerVita/Gerald Hüther]] — Hüthers Bild vom Kuchen, der nicht erfolgreich sein kann, sondern gelingt, trägt bei ihr ein ganzes Gespräch. Kohärenz und Flourishing beschreiben denselben Zustand, einmal neurobiologisch, einmal in sechs Säulen gemessen; die Ursache sucht Hüther in Kindheit und Hierarchien, Mangelsdorf zuletzt in der Verteilung.
+- [[DenkerVita/Jonathan Haidt]] — Sie hat in Pennsylvania bei ihm studiert, und ihr Satz „Zugehörigkeit schlägt Algorithmus" trifft seine These von der Smartphone-Kindheit. Das Experiment, das sie anführt, zwei Wochen ohne mobiles Netz und danach weniger depressive Symptome, ist die Art Beleg, die Haidts Kritiker bei ihm vermissen; ob hinter der abgeflachten Glückskurve der Jüngsten ein Alters- oder ein Generationeneffekt steht, ist bei beiden offen.
+- [[DenkerVita/Oliver Nachtwey]] — Die schärfste Reibung im Bestand. Nachtweys Befund, Trump sei bei Vollbeschäftigung ohne Würde aufgestiegen, ist Anti-Mattering in soziologischer Sprache; doch was er mit [[DenkerVita/Carolin Amlinger|Carolin Amlinger]] als Nullsummendenken beschreibt, den Reichtum als begrenzten Topf, aus dem andere nehmen, sagt Mangelsdorf zustimmend über das Glück.
+- [[DenkerVita/Stephan Marks]] — Mangelsdorfs Anti-Mattering ist Marks' Anerkennungsscham, die früheste seiner vier Formen. Er liefert die Stufe, die bei ihr fehlt: wie aus dem Nichtgesehenwerden eine Scham wird, die sich politisch einsammeln lässt, so wie es [[DenkerVita/Arlie Russell Hochschild|Arlie Hochschild]] in Pikeville beobachtet hat („They're desperately looking to be seen").
+- [[DenkerVita/Christoph Butterwegge]] — Mangelsdorf endet bei *no wellness without fairness* und beim Ehrenamt, Butterwegge beginnt dort und rechnet weiter, mit Armutszahlen und Umverteilung als politischer Frage. Zusammen ergibt sich eine Kette, in der schon die Verteilung des Gesehenwerdens ein politisches Produkt ist.
+- [[DenkerVita/Anton Jaeger]] — Jägers Hyperpolitik, Politisierung so hoch und Organisation so schwach wie nie, ist ihr härtester Satz auf Gesellschaftsgröße: gefragt werden, ohne dass die Antwort einen Unterschied macht. Zugleich ein Einwand gegen ihre Lösung, denn wo die Institutionen fehlen, in die Wut einrasten konnte, ist der Rat zum Schwimmverein zu klein.
 
 ---
 

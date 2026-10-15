@@ -84,14 +84,21 @@ Ihre Botschaft zur Meinungsfreiheit auf der re:publica 26: Freiheit ist nicht a 
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier leer lassen)*
+- [[DenkerVita/Ronen Steinke]] — Ihr Gegenüber auf der re:publica 26; beide sehen hinter dem Streit um die Meinungsfreiheit ein Ohnmachtsgefühl. Steinke sucht die Gefahr bei einer Justiz, die aus guten Absichten zu oft zugreift, Marinić bei performativen Debatten, die Wohnen und Mitbestimmung aus dem Blick drängen. Sein Einwand trifft sie: Wer die Debatte weiter intellektualisiert, verliert die Menschen, um die es geht.
+- [[DenkerVita/Maja Goepel]] — Die Mitgastgeberin der Lüneburger Utopie-Konferenz 2024; gemeinsam beschreiben sie Vertrauen als die Hand, die man reicht, ohne zu wissen, ob man über den Tisch gezogen wird. Wo Göpel zu den Lösungen will, zieht Marinić die Bremse: Erst müsse man das Ohnmachtsgefühl ernst nehmen.
+- [[DenkerVita/Heinz Bude]] — Die schärfste Reibung der Konferenz. Bude sagt, er habe 2020 die Angst der Leute übernommen; Marinić hält dagegen, niemand könne die Ängste von 83 Millionen übernehmen, und erinnert ihn an sein eigenes „ängstliches Ich“ aus der *Gesellschaft der Angst*.
+- [[DenkerVita/Marina Weisband]] — Weisband meint, die Gesellschaft sei kaum gespaltener als früher, wir sähen einander nur deutlicher. Marinić antwortet aus der jugoslawischen Familiengeschichte: Erst schweigt der Esstisch, dann bilden sich Lager. Und sie fragt, ob sich nicht auch die Stürmer des Kapitols selbstwirksam fühlten.
+- [[DenkerVita/Alena Buyx]] — Gegenstimme in der Pandemie-Bilanz: Für Marinić wurde Corona „weggemacht“, und dort beginnt für sie das Gefühl, Politik sei ein Projekt „von denen da oben“. Buyx hält dagegen, kaum etwas sei so gründlich aufgearbeitet worden, und belegt, dass zwei Drittel bis drei Viertel die ganze Pandemie über solidarisch blieben.
+- [[DenkerVita/Florence Gaub]] — An Gaub und Bude richtete Marinić die unbequemste Frage ihres Panels: Warum sollten Menschen Beratern vertrauen, die in Räumen sitzen, zu denen andere keinen Zugang haben? Die eine sagt, sie zweifle, der andere, er wisse; jede Antwort schafft bei den einen Vertrauen und bei den anderen Misstrauen. Gaub antwortete, erzwingen lasse sich Vertrauen nicht, nur verdienen.
+- [[DenkerVita/Adam Tooze]] — Marinić nimmt als Erste Anstoß an Toozes Freund-Feind-Vokabular und bietet ihm die Demokratie als Marktplatz der Ideen an; er lehnt ab. Sein Programm gegenseitiger Blockaden nennt sie *Dirty Politics*: „Es ist nice, aber in dieser Welt möchte ich utopisch gesehen auch nicht leben.“
+- [[DenkerVita/Annette Dittert]] — In *Freiheit Deluxe* legen beide die Stammes- und die Plattformlogik unter dem Brexit frei; von Marinić stammt das Bild des Silicon-Valley-Aussteigers, der begriff, dass er „den Bürgerkrieg programmiere“. Am Ende hofft Marinić auf die Heimkehr des verlorenen Sohnes, Dittert bleibt nüchtern: Die Briten führten noch immer Selbstgespräche.
 
 ## Gedankenwelten-Notes
 
 - [[Maja Goepel und Jagoda Marinic — Vertrauen, utopisch|Maja Göpel und Jagoda Marinić — Vertrauen, utopisch?]] — als Gastgeberin der Utopie-Konferenz 2024; erzeugt in jedem Panel die Reibung, von der jugoslawischen Erfahrung bis zu Budes Angst-Erzählung
 - [[Adam Tooze — Krise und demokratische Gelegenheit]] — als Gastgeberin, gegen Freund-Feind-Denken
-- [[Zeitgeist/re:publica 26 — Jagoda Marinić & Ronen Steinke - Meinungsfreiheit]]
-- [[Denker/Jagoda Marinić — Sanfte Radikalität und Gesellschaftsgestaltung]]
+- [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]] — re:publica 26, mit Ronen Steinke
+- [[Zeitgeist/Annette Dittert — Dear Britain|Annette Dittert — Dear Britain]] — als Gastgeberin von *Freiheit Deluxe*
 
 ---
 

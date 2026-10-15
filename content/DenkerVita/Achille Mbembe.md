@@ -84,7 +84,7 @@ Seit 2000 ist Mbembe **Research Professor am Wits Institute for Social and Econo
 
 - **Für**: Afrikanische Autonomie, Entkolo­nialisierung (auch der Gedanken), Transzendenz des Western-Centric, planetare Gerechtigkeit, Ende des CFA-Franc (französische monetäre Kolonialität in Afrika), Ende französischer Militärbasis in Afrika, akademische Freiheit
 
-- **Kritisch gegenüber**: Westlichem Universalismus, Imperialismus (besonders französischem), zionistischem Siedlerkolonialismus (unterstützt BDS — Boycott, Divestment, Sanctions; **Kontroverse 2020**: Ruhrtriennale-Rede in Deutschland storniert, weil Bundestagsbeschluss BDS als „antisemitisch" einstuft; Mbembe konterte, dass Deutschland sich damit in kolonialen Diskurs verstrickt)
+- **Kritisch gegenüber**: Westlichem Universalismus, Imperialismus (besonders französischem), israelischer Besatzungspolitik (unterzeichnete 2010 einen akademischen Boykottaufruf gegen die Ben-Gurion-Universität, bestreitet aber, Teil der BDS-Bewegung zu sein; **Kontroverse 2020**: Seine Eröffnungsrede bei der Ruhrtriennale löste Forderungen nach Ausladung aus, gestützt auf den BDS-Beschluss des Bundestags von 2019. Die Rede fand nicht statt, weil das Festival wegen der Pandemie ganz abgesagt wurde; der Streit lief trotzdem weiter. Mbembe konterte, Deutschland verstricke sich damit in einen kolonialen Diskurs)
 
 - **Ökologie**: Menschliche Überlegenheit über andere Arten ist keine afrikanische Tradition — westlich konstruierte Episteme; lösen wir das Problem durch Rückkehr zu afrikanischen Archiven und relationalen Cosmologies
 
@@ -94,7 +94,21 @@ Seit 2000 ist Mbembe **Research Professor am Wits Institute for Social and Econo
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+**[[DenkerVita/Michel Foucault|Michel Foucault]]** — Der Ausgangspunkt, den Mbembe umdreht: Foucaults Biopolitik fragt, wie Macht das Leben verwaltet, Mbembes Nekropolitik, wer sterben muss. Und er verlegt den Ursprung dieser Macht aus der europäischen Klinik in die Plantage und die Kolonie.
+
+**[[DenkerVita/Hannah Arendt|Hannah Arendt]]** — Die fruchtbarste Reibung. Mbembe baut auf Arendts Bumerang-These, nach der die Techniken totaler Herrschaft zuerst in den Kolonien erprobt wurden. Zugleich ist er der Maßstab, an dem ihr Afrika-Bild in denselben Kapiteln scheitert: Afrikaner als „Wilde ohne Welt", nach Conrad.
+
+**[[DenkerVita/Felwine Sarr|Felwine Sarr]]** — Der Weggefährte. 2016 gründeten beide die *Ateliers de la Pensée* in Dakar. Sarr entwirft die Utopie kontinental (*Afrotopia*), Mbembe weitet sie zur planetaren Erdgemeinschaft; dieselbe Bewegung, Afrika vom Objekt fremder Entwürfe zum Subjekt eigener zu machen.
+
+**[[DenkerVita/Souleymane Bachir Diagne|Souleymane Bachir Diagne]]** — Der zweite große afrikanische Universalist im Bestand. Diagnes „laterales Universales", das aus Übersetzung entsteht, und Mbembes Erdgemeinschaft suchen dasselbe Ganze ohne Thron. Diagne kommt dabei über Sprache und Islam, Mbembe über Kosmogonie und Erde.
+
+**[[DenkerVita/Silvia Rivera Cusicanqui|Silvia Rivera Cusicanqui]]** — Dieselbe Wunde, ein anderer Maßstab der Heilung. Beide sehen die Kolonialität alle erfassen, nicht nur die Kolonisierten. Cusicanqui misstraut aber gerade der großen planetaren Synthese, auf die Mbembe zuläuft, und setzt auf kleine, vorläufige Gemeinschaften jenseits von Markt und Staat.
+
+**[[DenkerVita/Tsitsi Dangarembga|Tsitsi Dangarembga]]** — Ubuntu als gemeinsames Zentrum, aber Entwurf gegen Übung. Mbembe nennt die Erdgemeinschaft ausdrücklich „die letzte Utopie", Dangarembga sagt: „Ich glaube nicht an Utopien." Sie setzt auf das Wohlsein im Hier und Jetzt.
+
+**[[DenkerVita/Liya Yu|Liya Yu]]** — Zwei Erklärungen dafür, wie Menschen aus der Moral herausfallen. Yu zeigt den neurobiologischen Mechanismus der Dehumanisierung, Mbembe die politische Architektur, die ihn seit Kolonialkrieg und Sklaverei auf Dauer stellt. Die Frage bleibt offen, ob Gehirn oder Geschichte die tiefere Schicht ist.
+
+**[[DenkerVita/Susan Neiman|Susan Neiman]]** — Die deutsche Seite des Mbembe-Streits von 2020. Neiman lobte 2019 die deutsche Vergangenheitsaufarbeitung als Vorbild. Ein Jahr später kritisierte sie mit der Initiative GG 5.3 Weltoffenheit den BDS-Beschluss des Bundestags, der den Streit um Mbembe gerahmt hatte. Seither sieht sie dieselbe Erinnerungskultur kippen. Mbembe hielt Deutschland vor, sich damit in kolonialen Diskurs zu verstricken. Beide fragen, ob das Erinnern an ein Verbrechen das Hinsehen auf andere verstellen darf, und ihre Kritiker antworten mit der Singularität der Shoah.
 
 ---
 

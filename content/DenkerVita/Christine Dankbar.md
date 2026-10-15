@@ -81,7 +81,14 @@ Sie argumentiert für:
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier leer lassen)*
+- [[DenkerVita/Anke Myrrhe|Anke Myrrhe]] — Ihre Gegenspielerin am Presseclub-Tisch in der Frage der Maßstäbe: Myrrhe will das Etikett tauschen („Nimm links, setze rechts“), Dankbar hält Linke und AfD für verschiedene Gegenstände und den Verfassungsschutz für einen Maßstab des Diskurses, nicht der Entscheidung.
+- [[DenkerVita/Sascha Chaimowicz|Sascha Chaimowicz]] — Einig mit ihr, dass sich die beiden Brandmauern nicht gleichsetzen lassen, und doch skeptischer: Wo Dankbar Elif Eralp als „fast schon überpingelige“ Juristin verbürgt, erkennt Chaimowicz in der Verteidigung der Linken-Wähler dieselbe Rechtfertigungsfigur, die man von der AfD kennt.
+- [[DenkerVita/Sebastian Puschner|Sebastian Puschner]] — Beide wenden sich gegen die Hexenjagd auf die Linke, aber Dankbar zielt schärfer nach innen: Den demonstrativen Eintritt Sören Pellmanns in die Rote Hilfe, den Puschner erwähnt, nennt sie Wagenburgmentalität, und der Bundesspitze bescheinigt sie Führungsschwäche.
+- [[DenkerVita/Matthias Quent|Matthias Quent]] — Was Dankbar als Journalistin knapp sagt, zwei Parteien, die man nicht gleichsetzen kann, begründet Quent sozialwissenschaftlich: Eine übersteigerte Gleichheitsidee ist mit der Demokratie verwandt, eine Ideologie der Ungleichwertigkeit nicht.
+- [[DenkerVita/Christoph Butterwegge|Christoph Butterwegge]] — Am selben phoenix-Tisch teilen beide die Sorge, dass ein angetasteter Sozialstaat die Demokratie beschädigt, doch Butterwegge sieht in den Reformen planvolle „Deformen“ und will an Eigentum und Steuern, Dankbar sucht den Hebel in Verwaltung, Zugang und Transparenz.
+- [[DenkerVita/Cordula Tutt|Cordula Tutt]] — Beide sagen, Reform sei nicht Kürzung, und meinen Verschiedenes: Tutts Zielgenauigkeit verlangt die Prüfung doppelter Bedürftigkeit, also Anträge und Nachweise, während Dankbar gerade das anschwellende Formular für eine Armutsfalle hält.
+- [[DenkerVita/Robin Celikates|Robin Celikates]] — Dankbars These, dass Abstiegsangst die AfD trägt, hat bei ihm die Forschung im Rücken (gefühlter relativer Abstieg wiegt oft schwerer als tatsächliche Verarmung), doch er zieht den radikaleren Schluss: Wo sie den Sozialstaat verlässlich halten will, sieht er eine Mitte, die reale Krisen auf markierte Minderheiten abwälzt.
+- [[Zeitgeist/Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)|Thomas Fricke]] — Er liefert den ökonomischen Mechanismus zu ihrer Beobachtung am Reformtisch: Kontrollverlust durch Sparpolitik und ungleich verteilte Lasten nähren den Rechtspopulismus, darum ist der Sozialstaat für beide eine Frage der Demokratie, nicht nur der Kasse.
 
 ## Gedankenwelten-Notes
 

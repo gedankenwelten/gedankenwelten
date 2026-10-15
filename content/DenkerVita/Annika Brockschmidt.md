@@ -25,7 +25,7 @@ tags: [denker-vita, usa, rechtsextremismus, religion, journalismus, deutschland]
 
 ## Biografie
 
-Annika Brockschmidt wurde am 24. August 1992 in Berlin geboren. Sie besuchte das Canisius-Kolleg in Berlin und studierte anschließend Geschichte und Germanistik an der Universität Heidelberg. Ein Erasmus-Semester absolvierte sie an der Durham University in England (2013–2014). 2017–2019 completing sie ihren Master in „War and Conflicts Studies" an der Universität Potsdam — eine Ausbildung, die ihre Forschung bis heute prägt: nicht nur was passiert, sondern *wie* Konflikte eskaliert werden.
+Annika Brockschmidt wurde am 24. August 1992 in Berlin geboren. Sie besuchte das Canisius-Kolleg in Berlin und studierte anschließend Geschichte und Germanistik an der Universität Heidelberg. Ein Erasmus-Semester absolvierte sie an der Durham University in England (2013–2014). 2017–2019 absolvierte sie ihren Master in „War and Conflicts Studies" an der Universität Potsdam — eine Ausbildung, die ihre Forschung bis heute prägt: nicht nur was passiert, sondern *wie* Konflikte eskaliert werden.
 
 Ab 2014 arbeitete Brockschmidt als freie Journalistin für namhafte deutsche Outlets wie *Die Zeit*, *Der Tagesspiegel*, *Frankfurter Rundschau*. Sie war Senior Correspondent für *Religion Dispatches*, ein englischsprachiges Fachmagazin des politischen Think-Tanks *Political Research Associates* in den USA. Der Wendepunkt kam 2020, als sie bemerkte, dass die Religiöse Rechte in den USA nicht nur eine kirchliche Bewegung ist, sondern ein totalitäres politisches Phänomen, das die Republikanische Partei von innen übernahm.
 
@@ -79,7 +79,14 @@ Sie gilt in Deutschland als wichtige Stimme auf der Seite von Mediendemokratie u
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- **[[DenkerVita/Katharina Nocun|Katharina Nocun]]** — Ihre Partnerin auf der re:publica-Bühne und die zweite Hälfte desselben Befunds: Brockschmidt entschlüsselt Codes, Symbole und die religiöse Tiefenschicht, Nocun die Produktionswege, über die Esoterik und KI-Bilder Menschen ins Vorfeld der extremen Rechten ziehen.
+- **[[DenkerVita/Arnd Henze|Arnd Henze]]** — Derselbe Gegenstand aus der Theologie: Henze liest den Schulterschluss weißer Evangelikaler mit Trump als Rachebewegung gegen ein Jahrhundert Emanzipation. Stärker als Brockschmidt besteht er darauf, dass Religion auch Ressource des Widerstands sein kann, von der Bürgerrechtsbewegung bis Bonhoeffer.
+- **[[DenkerVita/Erich Fromm|Erich Fromm]]** — Fromm beschreibt den Empfänger, den ihre Hundepfeifen voraussetzen: Der autoritäre Charakter hört den Code nicht als Argument, sondern als Wiedererkennungsritual einer Gemeinschaft, die ihm das eigene Urteil abnimmt.
+- **[[DenkerVita/Carolin Amlinger|Carolin Amlinger]]** und **[[DenkerVita/Oliver Nachtwey|Oliver Nachtwey]]** — Reibung in der Diagnose: Brockschmidt beschreibt eine organisierte, theokratische Totalitätsbewegung, Amlinger und Nachtwey einen gekränkten, libertären Freiheitsbegriff, der aus Zerstörungslust handelt. Zwei Antriebe in derselben Koalition, die sich im Ziel widersprechen, Gottesordnung gegen grenzenlose Freiheit.
+- **[[DenkerVita/Bijan Moini|Bijan Moini]]** — Im GFF-Gutachten zur AfD wird ihre Code-Analyse zum Rechtsproblem: Die plausible deniability, die Dog Whistles politisch wirksam macht, macht sie juristisch schwer fassbar, und die ethnische Bedeutung hinter nominell neutralen Wörtern wie „Remigration“ muss erst nachgewiesen werden.
+- **[[DenkerVita/Gina Wiedemann|Gina Wiedemann]]** — Ihr offenes „Dilemma der Entlarvung“, aus der Praxis beantwortet: Wiedemann moderiert für die Arolsen Archives täglich Kommentarspalten voller rechter Codes und zeigt, wie man einen Code entwaffnet, ohne seine Reichweite zu füttern.
+- **[[DenkerVita/Leonie Heims|Leonie Heims]]** und **[[DenkerVita/Tim Stark|Tim Stark]]** — Agartha führt das Dog-Whistle-Prinzip in die Meme-Endstufe, in der die Tarnung der Witz selbst ist („It's not that deep“). Heims setzt gegen solche Mythen Fakten und Humor, eine zweite Antwort neben Brockschmidts Entschlüsselung.
+- **[[DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]]** — Dieselbe Figur aus der Nähe: Brockschmidt liest Pete Hegseths Jerusalemkreuz und „Deus vult“ als offenes Codebuch, Koschi verfolgt aus Buffalo, wie der Verteidigungsminister das Militär christlich-nationalistisch umbaut.
 
 ## Gedankenwelten-Notes
 

@@ -86,8 +86,15 @@ Die zweiten Moskauer Jahre (2015–2018) und die frühe Arbeit über die russisc
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Andrey Gurkov]] — Die schärfste Gegenstimme im Bestand. Beide kennen Russland aus drei Jahrzehnten Anschauung; Eigendorf nennt es ein „Auslaufmodell“, das aus Schwäche um sich schlägt, Gurkov den Putinismus ein „sehr stabiles und sehr erfolgreiches“ System, und er sieht nicht nur den Kreml, sondern die Gesellschaft mit Europa gebrochen. Wer recht behält, entscheidet über die Planungsgrundlage.
+- [[DenkerVita/Konstantin Flemig]] — Dieselbe Diagnose zweieinhalb Monate früher und mit Zahlen: Ölverarbeitung auf dem tiefsten Stand seit 2009, Rationierung an über tausend Tankstellen. Aus seinem Material folgt zugleich der Einwand gegen die steilste Fassung: Ein Regime, das sich das Kriegsende wirtschaftlich nicht leisten kann, ist keine auslaufende Maschine, sondern eine ohne Bremse.
+- [[DenkerVita/Elmar Thevessen|Elmar Theveßen]] — Kollege am selben Tisch, mit offenem Dissens: Theveßen sieht im Gipfel von Bischkek die geschlossene Autokratenfront und China als lachenden Dritten, Eigendorf hält dagegen, Peking habe kein Interesse, eine untergehende russische Wirtschaft am Laufen zu halten. Dieselben Fakten, verschieden gewichtet, und keiner überredet den anderen.
+- [[DenkerVita/Susanne Weigelin-Schwiedrzik]] — Die Sinologin gibt Eigendorfs China-Einwand das Fundament: Von Peking aus sieht wenig nach Masterplan aus, eher nach einer Führung, die den Kontrollverlust im eigenen Land fürchtet und Russland stützt, solange es billig ist. Ihre unbequemste Empfehlung, Europa solle aufhören, Großmacht spielen zu wollen, reibt sich mit Eigendorfs Schlagzeile „Die Europäer finden ihr Rückgrat“.
+- [[DenkerVita/Hanna Notte]] — Nottes Befund, dass Russland außerhalb des Krieges an Einfluss verliert, stützt Eigendorfs Zweifel am geschlossenen Autokratenfoto. Bei den Gegenmaßnahmen urteilt sie kühler: Die Schließung des Russischen Hauses, das Eigendorf seit langem ein Dorn im Auge war, nennt sie Symbolpolitik; was wirklich koste, sei der Druck auf die Schattenflotte.
+- [[DenkerVita/Herfried Münkler]] — Münkler liefert den Begriff zu Eigendorfs These, dass Sabotage, Desinformation und Drohnen über Flughäfen zum selben Krieg gehören: Die saubere Trennung von Krieg und Frieden sei aufgelöst, dazwischen liege der hybride Krieg. Eigendorf zieht daraus die härtere Konsequenz, wer das für Rhetorik halte, habe den Krieg noch nicht erkannt.
+- [[DenkerVita/Adam Johnson]] — Die grundsätzlichste Reibung am journalistischen Selbstverständnis. Beide halten „ausgewogene“ Berichterstattung für keine neutrale Mitte: Für Eigendorf heißt Ausgewogenheit nicht Symmetrie zwischen Angreifer und Angegriffenem, für Johnson ist der Objektivitätsanspruch selbst parteiisch. Johnson misst aber auch, wie Empathie journalistisch rationiert wird, wessen Trauer erzählt wird und wessen nicht. Wer Empathie wie Eigendorf zum Erkenntnisinstrument erklärt, muss sich dieser Frage stellen.
 
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/auslandsjournal — Putins Zielscheibe Europa|Putins Zielscheibe Europa — Der Tag, an dem Berlin es beim Namen nannte]]
+- [[Zeitgeist/auslandsjournal — Trump allein zu Haus|Trump allein zu Haus — Das One-and-Done-Syndrom]]

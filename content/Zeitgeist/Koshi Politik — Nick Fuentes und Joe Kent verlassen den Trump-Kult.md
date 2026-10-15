@@ -107,10 +107,10 @@ Schlussmontage bei Koshi:
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Wer profitiert vom Iran-Krieg]]
+### → [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg]]
 Qatar-Angriff schließt den Kreis: Trump ließ sich von Qatar schmieren — und Qatar wurde trotzdem angegriffen.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
+### → [[Zeitgeist/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
 Nick Fuentes und Joe Kent verkörpern exakt das MAGA 2.0-Phänomen, das Koshi neun Tage zuvor beschrieben hatte.
 
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]

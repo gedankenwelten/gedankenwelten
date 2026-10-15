@@ -62,7 +62,13 @@ Skenderovic ist Wissenschaftler, kein Aktivist — sein Anliegen ist historische
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[DenkerVita/Eva von Redecker|Eva von Redecker]] — Seine Gesprächspartnerin in der Sternstunde und sein Gegenpol im Begriff: Er spricht von Faschisierung als Prozess und nennt keine der europäischen Rechtsparteien faschistisch, sie nennt Trump einen Faschisten; am Ende fordert ausgerechnet der Historiker staatliche Härte gegen rechts, während die Autorin des Härte-Buchs das Wort für sich ablehnt.
+- [[DenkerVita/Barbara Bleisch|Barbara Bleisch]] — Die Moderatorin legt ihm die Gegenproben vor, Habermas’ „Linksfaschismus“ und die Statistik des Nachrichtendienstes, und widerspricht offen, als er den Bogen von den Active Clubs zum allgemeinen Körperkult schlägt; dort verläuft die Grenze zwischen Diagnose und Überdehnung.
+- [[DenkerVita/Robin Celikates|Robin Celikates]] — Er baut den Faschisierungsbegriff weiter aus, verwirft wie Skenderovic die Hufeisentheorie und lässt den Prozess schon in der Mitte beginnen, womit er an die Stelle rückt, an der Skenderovics Forderung nach historischer Präzision greift: Heißt jeder Schritt der Mitte schon Faschisierung, verliert das Wort seine Schärfe.
+- [[DenkerVita/Matthias Quent|Matthias Quent]] — Derselbe Befund aus der deutschen Forschung: Quent zerlegt den symmetrischen Extremismusbegriff wie Skenderovic die Schweizer Gewaltstatistik, und sein Satz über die Böhse-Onkelz-CD, die ihn als Jugendlichen hätte kippen können, ist die biografische Probe auf „Sie werden dazu gemacht“.
+- [[DenkerVita/Anke Myrrhe|Anke Myrrhe]] — Die Gegenregel: Myrrhe verlangt, das Etikett zu tauschen und zu prüfen, ob das Urteil gleich bleibt, Skenderovic steht für die Antwort, die Gegenstände seien verschieden, und die Forschung gibt beiden ein Stück recht, weil fast niemand die Probe besteht.
+- [[DenkerVita/Carolin Amlinger|Carolin Amlinger]] und [[DenkerVita/Oliver Nachtwey|Oliver Nachtwey]] — Ihr „demokratischer Faschismus“, der aus der Demokratie herauswächst statt gegen sie, ist das soziologische Gegenstück zu seiner historischen Kontinuitätsthese: Beide suchen das Neue nicht im Bruch, sondern im Innern des Bestehenden.
+- [[DenkerVita/Christoph Butterwegge|Christoph Butterwegge]] — Auch er kam über die Rechtsextremismusforschung zu seiner Lebensfrage und bestreitet wie Skenderovic, dass rechte Haltungen ein naturgegebener Bodensatz seien; doch Butterwegge sucht die Ursache in der Ungleichheit, Skenderovic in Parteien und Medien, die das Fremde politisieren.
 
 ## Gedankenwelten-Notes
 

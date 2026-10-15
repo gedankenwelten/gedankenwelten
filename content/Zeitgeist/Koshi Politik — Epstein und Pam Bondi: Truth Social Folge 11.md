@@ -81,10 +81,10 @@ Koshi zeigt einen Comedy-Clip, der Bondi als rüde Kellnerin darstellt — ihre 
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien]]
+### → [[Zeitgeist/Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien]]
 Direkte Verbindung: Trump reagiert auf die Epstein-Veröffentlichung, die Bondi zu verantworten hat.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein-Akten: Was wir jetzt wissen]]
+### → [[Zeitgeist/Koshi Politik — Epstein-Akten: Was wir jetzt wissen]]
 Inhaltliche Grundlage: Was ist in den Akten, über das Bondi nicht sprechen wollte?
 
 ### → [[Koschi Politik — Gute Nachrichten: Bondi raus, Supreme Court & Meinungswandel Immigration]]

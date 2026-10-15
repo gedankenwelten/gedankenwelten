@@ -94,13 +94,19 @@ Er war nie ein Kommunist, sondern intellectual leftist, der radikale demokratisc
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt)*
+- [[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe]] (Note, keine DenkerVita) — Seine Partnerin und Ko-Autorin von *Hegemonie und radikale Demokratie* (1985). Laclau zerlegt die Sprache des Politischen, Signifikant, Leerstelle, Repräsentation; Mouffe zieht daraus die demokratische Folgerung, den Agonismus, in dem Gegner einander bekämpfen, ohne einander vernichten zu wollen. Zwei Hälften eines Projekts.
+- [[DenkerVita/Kolja Moeller|Kolja Möller]] — Der direkteste deutschsprachige Anschluss. Möller übernimmt die These, Populismus sei ein Strukturmerkmal der Demokratie und keine Krankheit, teilt aber Laclaus Ausschließlichkeit des Diskurses nicht. Er verbindet die radikaldemokratische Einsicht mit Luhmanns Systemtheorie und fragt, wie eine Verfassung mit dieser Kraft leben kann, ohne sie zu unterdrücken.
+- [[DenkerVita/Herfried Münkler]] — Beide gehen von Gramsci aus, und beide sagen, dass es „das Volk" vor seiner Führung nicht gibt. Münkler folgert daraus Misstrauen: Wer Volk sagt, meint Führung. Laclau folgert den Kampf um das Wort. Münkler erzählt zudem, wie die Neue Rechte Gramsci gründlicher las als die Linke der Achtziger, für die Laclau und Mouffe stehen; aus Laclaus Sicht überlässt Münklers Rückzug das Wort denen, die es besetzen.
+- [[DenkerVita/Klaus Doerre|Klaus Dörre]] — Die Gegenstimme von links. Dörre hält am Klasseninteresse fest, genau dort, wo Laclau mit dem Marxismus bricht, und würde ihm vorwerfen, die materielle Basis des Deutungskampfs zu übersehen. Die offene Frage zwischen beiden: Kann eine Hegemonietheorie ohne Klassenanalyse erklären, warum Wörter wie „Freiheit" und „Volk" so beständig von rechts besetzt werden?
+- [[DenkerVita/Wendy Brown]] — Laclau zeigt, dass „Demokratie" und „Freiheit" umkämpft werden müssen. Brown zeigt, wie der Neoliberalismus diesen Kampf stillstellt, indem er demokratische Vernunft durch Marktvernunft ersetzt und den *demos* in Humankapital verwandelt. Ihre Diagnose erklärt, warum ein linker Populismus nach Laclaus Bauplan heute so schwer zu mobilisieren ist.
+- [[DenkerVita/Michel Foucault]] — Verwandt und grundverschieden. Foucault beschreibt Diskurse als Machtnetze, die Subjekte hervorbringen und normalisieren. Laclau beharrt darauf, dass kein Diskurs sich je schließt: Die Leerstelle verhindert die totale Normalisierung und hält jede Ordnung anfechtbar. Macht als diffuses Netz gegen Macht als umkämpfte, vorläufige Fixierung.
+- [[DenkerVita/Jok Madut Jok]] — Jok zeigt Laclaus Theorie im Südsudan. Die Führer schmieden ihre ethnische Basis erst zum Kampfkollektiv, Ethnizität ist ihr Werkzeug und nicht die Ursache des Krieges. Auch Joks Gegenentwurf, ein „Wir jenseits der Stammeslinie", wäre in Laclaus Begriffen ein hegemonialer Akt: ein anderes Volk konstruieren.
 
 ---
 
 ## Gedankenwelten-Notes
 
-- [[Ernesto Laclau — Macht und Repräsentation]]
+- [[Denker/Ernesto Laclau — Macht und Repraesentation|Ernesto Laclau — Macht und Repräsentation]]
 
 ---
 

@@ -120,13 +120,13 @@ Koshi erklärt: Trump nennt es „Spezialoperation" oder „excursion" — nicht
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
+### → [[Zeitgeist/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
 Direkte Fortsetzung: Am nächsten Tag dokumentiert Koshi weitere Erosion — Fox News stellt Trump in Frage.
 
 ### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 Manow erklärt die MAGA-Basis strukturell-ökonomisch. Koshi zeigt, wie dieselbe Basis anfängt, Personenkult von Botschaft zu trennen — genau der Moment, den Manow als strukturell möglich beschreibt.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Wer profitiert vom Iran-Krieg]]
+### → [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg]]
 Die Korruptions-Enthüllung (Qatar, Kushner, Witkoff) ist der inhaltliche Kern dessen, was MAGA als Verrat wahrnimmt.
 
 ### → [[Koschi Politik — Trump gegen Papst Leo]]

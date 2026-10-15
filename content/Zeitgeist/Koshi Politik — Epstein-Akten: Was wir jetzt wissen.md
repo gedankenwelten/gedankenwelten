@@ -97,10 +97,10 @@ Todd Blanches Reaktion auf Massenkündigungen: **Keine Antwort.** Er wollte das 
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien]]
+### → [[Zeitgeist/Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien]]
 Vorgänger-Note: Tag 1 der Veröffentlichung.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11]]
+### → [[Zeitgeist/Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11]]
 Trump verteidigt Pam Bondi gegen Kongress-Anhörung — die genau um diese Epstein-Fragen geht.
 
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]

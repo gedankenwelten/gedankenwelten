@@ -19,7 +19,7 @@ aliases:
 Quelle: [Wahnsinn: Ostdeutscher Ingenieur revolutioniert Windkraft!](https://www.youtube.com/watch?v=kKoYDAMzd4o)
 
 > [!info] Wer spricht?
-> **Prof. Dr.-Ing. Jochen Großmann** (*1958, Dresden*) — DDR-sozialisierter Ingenieur, Gründer und Geschäftsführer der GICON-Gruppe (~700 Mitarbeiter, führendes Ingenieurbüro Ostdeutschlands). Studium an der TU Dresden (1978–1982), Promotion 1985 über Automatisierung von Kernkraftwerken, Habilitation 1989. GICON-Gründung 1989 — legendär: direkt aus dem Krankenhaus nach einer Krebsdiagnose heraus, während Konzerne das Interesse verloren.
+> **Prof. Dr.-Ing. Jochen Großmann** (*1958, Dresden*) — DDR-sozialisierter Ingenieur, Gründer und Geschäftsführer der GICON-Gruppe (~700 Mitarbeiter, führendes Ingenieurbüro Ostdeutschlands). Studium an der TU Dresden (1978–1982), Promotion 1985 über Automatisierung von Kernkraftwerken, Habilitation 1989. Erste Firmengründung 1989/90, GICON folgte 1994 — legendär: die erste direkt aus dem Krankenhaus nach einer Krebsdiagnose heraus, während Konzerne das Interesse verloren.
 >
 > Sein zentrales Lebenswerk: der **GICON-Höhenwindturm** — eine 365m hohe Windkraftanlage, die mit einem Teleskop-Gitterturm das jahrzehntelange ingenieurtechnische Hindernis der Krantechnik umgeht und Offshore-Erträge an Land ermöglicht.
 >

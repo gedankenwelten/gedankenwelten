@@ -94,8 +94,8 @@ Koshi am Ende: *„Ich hoffe, ich liege falsch. Aber ich kann es mir ehrlich ges
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 MONITOR analysiert den Iran-Krieg. Dieses Video zeigt die öffentlich sichtbaren Vorbereitungen — ein US-Präsident sichert sich Militärbasis-Zugang, zwei Wochen vor dem Angriff.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Wer profitiert vom Iran-Krieg]]
+### → [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg]]
 Hier sieht man die Logik: Diego Garcia als Infrastruktur, die Gulf States als Motivation.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 13: Supreme Court und Zölle]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 13: Supreme Court und Zölle]]
 Nächste Folge: Trump greift den Supreme Court an.

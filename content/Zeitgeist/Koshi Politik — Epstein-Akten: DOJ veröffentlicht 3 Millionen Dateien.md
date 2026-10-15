@@ -105,13 +105,13 @@ Koshi: Diese Antwort verwirrte ihn — denn das klingt danach, dass Trump eben *
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein-Akten: Was wir jetzt wissen]]
+### → [[Zeitgeist/Koshi Politik — Epstein-Akten: Was wir jetzt wissen]]
 Direkte Fortsetzung vom nächsten Tag: Elon Musk, Howard Lutnick, Überlebenden-Aussagen.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — DHS-Shutdown & ICE an Flughäfen]]
+### → [[Zeitgeist/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]]
 Koshi im Trump-DHS-Video: „Wer weiß, was Israel bezüglich Epstein noch gegen Donald Trump in der Hand hat." — Die Epstein-Frage ist mit dem Iran-Krieg verknüpft.
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11]]
+### → [[Zeitgeist/Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11]]
 TS11: Trump verteidigt Pam Bondi, die die Epstein-Anhörung im Kongress leitete.
 
 ### → [[KALAYO — Epstein-Zensur nachgewiesen, Blanche vor dem Senat]]

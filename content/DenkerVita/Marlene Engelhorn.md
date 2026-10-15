@@ -114,14 +114,21 @@ Ihre Radikalität liegt in der **konzeptuellen Kohärenz**: Sie nimmt die bürge
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier leer lassen)*
+- [[DenkerVita/Kevin Kuehnert|Kevin Kühnert]] — Neben ihr im Panel „Extremer Reichtum“, mit der Reform innerhalb des Systems: Großen Vermögen eine Rendite von sechs Prozent unterstellen und diese progressiv besteuern. Engelhorn geht weiter und fragt, ob Privateigentum in dieser Konzentration überhaupt zu rechtfertigen ist. Wo Kühnerts Reform endet und ihre Systemkritik beginnt, ist der Streitpunkt zwischen beiden.
+- [[DenkerVita/Fabian Pfeffer|Fabian Pfeffer]] — Der Forscher zu ihrer Formel „Geld arbeitet nicht, Menschen arbeiten für das Geld anderer“. Pfeffer antwortet mit Brecht („Wärst du nicht reich, wär ich nicht arm“) und sieht wie sie Arm und Reich als Beziehung, nicht als getrennte Lagen. Seine Befunde zu Dynastien, die zwei Weltkriege auf den Reichenlisten überdauert haben, sind der empirische Grund für ihr Ziel, das Glück der Geburt „abzuschaffen“.
+- [[DenkerVita/Julia Friedrichs|Julia Friedrichs]] — Friedrichs hat die Konferenzen besucht, auf denen Berater für bis zu 900 Dollar die Stunde steuerpflichtiges in steuerfreies Vermögen verwandeln; Engelhorn erzählt von der anderen Seite, dem Beraterapparat, den man mit dem Vermögen miterbt. Friedrichs warnt davor, „die Reichen“ als eine Masse zu sehen. Engelhorn ist ein solcher Fall und zugleich der Beleg für Friedrichs' Einschränkung: Die Struktur bleibt, auch wenn einzelne anders handeln.
+- [[DenkerVita/Martyna Linartas|Martyna Linartas]] — Linartas nennt Engelhorns Bürgerrat als ihr Beispiel dafür, wie ein großes Vermögen anders verteilt werden kann als durch die Erbin allein, und hält zugleich fest, dass strukturelle Probleme sich nicht durch individuelle Entscheidungen lösen lassen. Darin sind die beiden einig. Engelhorn sagt selbst, der Staat müsse über Steuern dauerhaft leisten, was ihr Rat einmal getan hat.
+- [[DenkerVita/Michael Hartmann|Michael Hartmann]] — Die nüchternste Gegenstimme. In seiner Befragung der Wirtschaftselite lehnten Großbürgerkinder höhere Steuern auf Vermögen und Erbschaften im Verhältnis neun zu zwei ab, Engelhorn ist damit eine statistisch dünn besetzte Ausnahme und keine Vorhut. Hartmann verlässt sich deshalb nicht auf das Gewissen der Erben, sondern auf Eigentumsfragen und darauf, wer entscheidet.
+- [[DenkerVita/Ardalan Ibrahim|Ardalan Ibrahim]] — Ibrahim will die Macht im Staat dem Los anvertrauen und das Eigentum lassen, wo es ist. Ihr Guter Rat ist das Gegenstück: das einzige Losgremium im Bestand, das wirklich entschied, und es entschied ausgerechnet über Vermögen. Ob Bürgerräte ohne die Eigentumsfrage mehr sind als Beratung, entscheidet sich zwischen diesen beiden Fällen.
+- [[DenkerVita/Lukas Baerfuss|Lukas Bärfuss]] — Zwei, die ihr Erbe nicht behalten wollten, von den entgegengesetzten Enden: Sie gab Millionen an einen Bürgerrat ab, er schlug ein Erbe aus, das nur aus Schulden bestand. Beide halten das Erben für eine politische Frage. Engelhorn fordert höhere Erbschafts- und Vermögensteuern, Bärfuss eine Neubestimmung dessen, was überhaupt vererbbar sein darf.
+- [[DenkerVita/Leon Black|Leon Black]] — Das Gegenbild beim selben Gegenstand. Black zahlte laut Senate Finance Committee rund 170 Millionen Dollar für Steuer- und Nachlassplanung, die ihm über eine Milliarde an Steuern erspart haben soll, und ein von Apollo beauftragter Bericht fand daran kein Fehlverhalten. Engelhorn gründete „Tax Me Now“, damit Vermögen wie ihres höher besteuert wird.
 
 ---
 
 ## Gedankenwelten-Notes
 
 - [[Zeitgeist/Studio Bonn — Extremer Reichtum]] — Panel mit Engelhorn, Kühnert, Friedrichs, Pfeffer; zentrale Quelle ihrer Kernthesen
-- [[Panorama/Wie kann Demokratie funktionieren#Das Los: Bürgerräte in den Kommunen|Wie kann Demokratie funktionieren]] — ihr Guter Rat als Stimme zum Los: das einzige Losgremium im Bestand, das wirklich entschied
+- [[Panorama/Wie kann Demokratie funktionieren#Das Los Bürgerräte in den Kommunen|Wie kann Demokratie funktionieren]] — ihr Guter Rat als Stimme zum Los: das einzige Losgremium im Bestand, das wirklich entschied
 - [[DenkerVita/Martyna Linartas]] — Forschung zu Erbengesellschaft und unverdientes Vermögen; strukturelle Parallele zu Engelhorn
 - [[DenkerVita/Clara Mattei]] — Geschichte der Austeritätspolitik; zeigt wie Klassenpolitik die Umverteilung verhindert
 - [[DenkerVita/Evan Osnos]] — Megayachten und Oligarchie; Gegenperspektive auf Ultrareiche

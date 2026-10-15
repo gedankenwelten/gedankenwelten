@@ -199,7 +199,7 @@ Ulrike Herrmann macht das ökonomische Grundproblem scharf: Bundesrepublikanisch
 
 ## Verbindungen
 
-### → [[Julia Friedrichs — Extremer Reichtum]]
+### → [[Studio Bonn — Extremer Reichtum|Julia Friedrichs — Extremer Reichtum]]
 
 Friedrichs' Analyse der deutschen Vermögenskonzentration und Erbschaftsdynamik ergänzt Herrmanns Wirtschaftsdiagnose direkt: Die 48 Milliarden Steuerentlastungen für Reiche sind kein Zufall, sondern Ausdruck einer Klassenstruktur, in der das vererbte Kapital politisch geschützt wird.
 
@@ -207,7 +207,7 @@ Friedrichs' Analyse der deutschen Vermögenskonzentration und Erbschaftsdynamik 
 
 Direkte thematische Fortsetzung: Jung analysiert im Gespräch mit Tim Gabel dieselbe Verteilungsfrage, die hier im Zentrum steht — aber aus einer marxistischen Perspektive auf Erbschaft und KI-Vergesellschaftung.
 
-### → [[Kevin Kühnert — Verteilungspolitik und soziale Demokratie]]
+### → [[DenkerVita/Kevin Kuehnert|Kevin Kühnert — Verteilungspolitik und soziale Demokratie]]
 
 Kühnerts Diagnose der SPD-Schwäche — Partei hat ihre eigene Basis verloren, weil sie keine glaubwürdige Verteilungsposition mehr hat — wird in dieser Sendung von außen bestätigt: Die SPD schmiedet, so von Lucke, die Nägel zu ihrem eigenen Sarg.
 

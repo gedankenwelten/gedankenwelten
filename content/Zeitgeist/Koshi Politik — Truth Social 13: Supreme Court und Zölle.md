@@ -73,7 +73,7 @@ Deutsche Übersetzung des Posts:
 
 ## Verbindungen
 
-### → [[Zeitgeist/Koshi Politik/Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union]]
+### → [[Zeitgeist/Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union]]
 Drei Tage später: Trump nach der State of the Union Rede — Angriffe auf Demokraten, Minnesota-Kürzungen.
 
 ### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]

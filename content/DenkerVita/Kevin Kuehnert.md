@@ -38,7 +38,7 @@ Bei einem SPD-Parteitag 2019 wurde er als einer der fünf Stellvertreter der dam
 
 Im Dezember 2021 berief ihn SPD-Kanzler Olaf Scholz zum Generalsekretär der SPD. Diese Position erfordert permanente öffentliche Präsenz, Krisenmanagement bei Skandalen und Parteiinterne Konflikte. Kühnert stand unter ständigem öffentlichem Druck — von rechts wurde er wiederholt bedroht, von links oft als zu gemäßigt kritisiert. Diese Phase trug zu einem erheblichen Burnout bei.
 
-Im Herbst 2024, nach etwa dreijähriger Amtszeit, trat Kühnert offiziell von allen politischen Ämtern zurück. Er benötigte einen längeren Ruhestand und unternahm anschließend im Sommer 2024 eine 1200-Kilometer-Wanderung auf der Alpenpässe-Route, um sich von den Jahren der Daueranspannung zu regenerieren.
+Im Herbst 2024, nach etwa dreijähriger Amtszeit, trat Kühnert offiziell von allen politischen Ämtern zurück. Er benötigte einen längeren Ruhestand und unternahm anschließend eine 1200-Kilometer-Wanderung auf der Alpenpässe-Route, um sich von den Jahren der Daueranspannung zu regenerieren.
 
 **Neuanfang: Finanzwende**
 
@@ -119,13 +119,14 @@ In seiner neuen Rolle bei Finanzwende kritisiert Kühnert die Steuervermeidungsi
 
 ## Verbindungen zu anderen Denkern
 
-*(wird von Montaigne befüllt — hier Placeholder für strukturelle Verbindungen)*
-
-- **Clara Mattei** — Beide diagnostizieren Austerität/Vermögensprivilegierung als bewusste Klassenpolitik, nicht als Naturgesetz
-- **Martyna Linartas** — Beide zeigen Erbschaft als Kategorienfehler in der Leistungsnarrative auf
-- **Evan Osnos** — Beide sezieren die Parallelgesellschaft der Ultrareichen und ihre Demokratiegefahr
-- **Heiner Flassbeck** — Beide kritizieren die Ordoliberalismus-Dominanz in Deutschland und plädieren für Keynesianische Perspektiven
-- **Markus Gabriel** — Beide fordern ethischen Kapitalismus (nicht Abschaffung), unterscheiden sich aber: Gabriel betont Bildung, Kühnert betont Umverteilung
+- [[DenkerVita/Marlene Engelhorn]] — Vom selben Podium in Bonn, eine Stufe radikaler. Kühnert will große Vermögen im bestehenden System erfassen, über eine unterstellte Rendite von sechs Prozent; Engelhorn fragt, ob Eigentum in dieser Konzentration überhaupt zu rechtfertigen ist, denn Geld arbeite nicht, es arbeiten Menschen für das Geld anderer. Gemeinsam ist beiden der Ausgangspunkt, dass ein großes Erbe kein Verdienst ist.
+- [[DenkerVita/Fabian Pfeffer]] — Zwei Wege, auf denen Vermögen die Demokratie beschädigt, vom selben Podium. Kühnert zeigt den direkten: Medienbeteiligungen und Zugang verschaffen Einzelnen mehr Einfluss, als einem Bürger zusteht. Pfeffer zeigt den leiseren, der die Breite erfasst: Wo sich Vermögen ballt, sinkt das Engagement, weil man nicht mehr einsieht, sich an Regeln zu halten, wenn es oben niemand tut.
+- [[DenkerVita/Martyna Linartas]] — Kühnerts „leistungsloses Einkommen“ ist Linartas' „unverdiente Ungleichheit“ als Politiker-Formel. Was sie als Forschungsbefund belegt, die Rückkehr zur Erbengesellschaft, trägt er als Kampagne in die Öffentlichkeit. Mit dem Grunderbe für alle jungen Erwachsenen geht sie über seine Steuerreform hinaus: Sie will das Erben nicht nur besteuern, sondern verteilen.
+- [[DenkerVita/Marco Buelow|Marco Bülow]] — Der zweite SPD-Aussteiger, wie Kühnert nah an Finanzwende und Anne Brorhilker, mit derselben Diagnose der Schieflage zwischen Lobby und Gemeinwohl. Im Urteil über die eigene Partei trennen sie sich: Kühnert verteidigt das Abschleifen im Kompromiss als normal, Bülow sieht dort die Korrumpierung beginnen.
+- [[DenkerVita/Tim Kluessendorf|Tim Klüssendorf]] — Sein Nachfolger im Amt des Generalsekretärs, aus demselben linken Flügel und mit derselben Doppelrolle, die Kühnert zermürbt hat: Wahlkämpfe vorbereiten und zugleich eine Regierungspolitik vertreten, die man nur teilweise geschrieben hat. In der Sache liegen sie nah beieinander, Klüssendorf mit Vermögensabgabe und Lebensfreibetrag bei der Erbschaftsteuer, Kühnert mit der unterstellten Rendite; der eine muss es im Apparat durchsetzen, der andere fordert es von außen.
+- [[DenkerVita/Anton Jaeger|Anton Jäger]] — Jägers Außendiagnose, Kühnerts Innenansicht: Die Parlamentsrede, die zuerst dem Clip dient, ist die gelebte Trennung von Politics und Policy, und die ins Kulturelle verschobene soziale Frage ist Jägers Flucht ins Symbolische, bestätigt von einem, der drinnen war.
+- [[DenkerVita/Heiner Flassbeck]] — Flassbecks Makromechanik, Kapitalerträge, die schneller wachsen als die Wirtschaft, erklärt, warum Kühnerts Unterstellung einer Rendite auf große Vermögen trägt. Zugleich setzt er einen strengeren Maßstab: Gut gemeinte Ungleichheitsforderungen der Linken nimmt er auseinander, wenn ihnen die ökonomische Mechanik fehlt, und daran muss sich auch Kühnerts eher moralisch vorgetragene Reichtumsthese messen lassen.
+- [[DenkerVita/Dana-Sophia Valentiner]] — Reibung beim AfD-Verbot. Kühnert knüpft das Verfahren an eine realistische Erfolgsaussicht und warnt, ein Scheitern verschaffe der AfD „einen heiligen Schein“. Das GFF-Gutachten, das Valentiner mitverfasst hat, entkräftet das Scheiter-Argument juristisch; die politischen Risiken, Märtyrererzählung und Nachfolgepartei, bleiben sein Thema, und zu ihnen schweigt das Gutachten bewusst.
 
 ---
 
@@ -146,7 +147,7 @@ Vollständig analysierte Zeitgeist-Notes, in denen Kühnert eine zentrale Rolle 
 
 > [!question] Was Aristoteles vielleicht gefragt hätte
 > - Wenn Kühnert selbst nach wenigen Jahren Generalsekretär-Burnout zusammenbricht — was sagt das über die strukturellen Anforderungen moderner Demokratie, die er reformieren will? Ist sein Burnout eine persönliche Schwachstelle oder ein Systemversagen?
-> - Kühnert fordert innerhalb des Systems Reform (6%-Rendite-Besteuerung). Marlene Engelhorn im gleichen Panel geht weiter und fragt: Ist Privateigentum in dieser Konzentration überhaupt legitimierbar? Wo endet Kühner ts Reformoptimismus, wo beginnt Engelhorns Systemkritik?
+> - Kühnert fordert innerhalb des Systems Reform (6%-Rendite-Besteuerung). Marlene Engelhorn im gleichen Panel geht weiter und fragt: Ist Privateigentum in dieser Konzentration überhaupt legitimierbar? Wo endet Kühnerts Reformoptimismus, wo beginnt Engelhorns Systemkritik?
 > - Ein großes Vermögen "arbeitet aus sich selbst heraus" — aber braucht es nicht Staat, Infrastruktur, Arbeitskräfte? Ist Kühnerts Kritik letztlich eine Kritik am *Nicht-Teilen* dieser Grundlagen, nicht am Besitz selbst?
 > - Warum findet Kühnerts klare Forderung nach Vermögensbesteuerung in der SPD, seiner eigenen Partei, keine Mehrheit? Ist das ein Versagen der Partei oder der Forderung?
 > - Wie verändert ein Burnout die politische Glaubwürdigkeit eines Denkers? Steht Kühnert jetzt freier da (außerhalb des Parteiapparats), oder ist er beschädigter?
