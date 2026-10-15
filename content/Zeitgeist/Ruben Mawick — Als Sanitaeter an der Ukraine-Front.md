@@ -181,7 +181,7 @@ Bei der Frage, ob Russland Deutschland angreift, wird er differenzierter. Er hä
 ## Faktencheck
 
 > [!note] Ruben hat mitgelesen — korrigiert am 13.10.2026
-> Am 12.10.2026 hat Ruben Mawick diese Note in seiner Instagram-Story geteilt, mit der Weiterdenken-Frage, ob es Mitgefühl ist oder Selbstverlust, das eigene Leben nicht höher zu gewichten als das eines Fremden. Dazu schrieb er:
+> Am 12.10.2026 hat Ruben Mawick diese Note in seiner Instagram-Story geteilt. Gezeigt hat er das Titelbild und eine der Fragen aus dem Text: *„Wenn jemand sein eigenes Leben ehrlich nicht höher gewichtet als das eines Fremden — ist das die höchste Form von Mitgefühl, oder eine Form, sich selbst zu verlieren?“* Dazu schrieb er:
 >
 > *„Hab diesen Artikel random gefunden, über mein Gespräch mit @vollmarcant. Es ist unglaublich gut geschrieben und erkennt meinen inneren Konflikt, meine Art der Kommunikation und meine moralischen Standpunkte. 1,2 kleinere Sachen sind aber falsch. Nicht so schlimm.“*
 >
