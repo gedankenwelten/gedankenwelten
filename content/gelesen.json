@@ -4,7 +4,7 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "aufrufe": 847
+   "aufrufe": 848
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -43,19 +43,19 @@
    "aufrufe": 17
   },
   {
-   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
-   "aufrufe": 17
-  },
-  {
    "pfad": "/DenkerVita/Carlo-Cipolla",
    "aufrufe": 17
   },
   {
-   "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-   "aufrufe": 15
+   "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
+   "aufrufe": 17
   },
   {
    "pfad": "/DenkerVita/Benjamin-Biersky",
+   "aufrufe": 15
+  },
+  {
+   "pfad": "/DenkerVita/Manuel-Koschi-Politik",
    "aufrufe": 15
   },
   {
@@ -75,14 +75,6 @@
    "aufrufe": 12
   },
   {
-   "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
-   "aufrufe": 11
-  },
-  {
-   "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
-   "aufrufe": 11
-  },
-  {
    "pfad": "/DenkerVita/Torsten-Heinrich",
    "aufrufe": 11
   },
@@ -91,11 +83,19 @@
    "aufrufe": 11
   },
   {
+   "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
+   "aufrufe": 11
+  },
+  {
+   "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
+   "aufrufe": 11
+  },
+  {
    "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
    "aufrufe": 11
   },
   {
-   "pfad": "/DenkerVita/Cordula-Tutt",
+   "pfad": "/DenkerVita/Marc-Felix-Serrao",
    "aufrufe": 10
   },
   {
@@ -103,8 +103,16 @@
    "aufrufe": 10
   },
   {
-   "pfad": "/DenkerVita/Marc-Felix-Serrao",
+   "pfad": "/DenkerVita/Cordula-Tutt",
    "aufrufe": 10
+  },
+  {
+   "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
+   "aufrufe": 9
+  },
+  {
+   "pfad": "/DenkerVita/Marcant",
+   "aufrufe": 9
   },
   {
    "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
@@ -115,12 +123,8 @@
    "aufrufe": 9
   },
   {
-   "pfad": "/DenkerVita/Marcant",
-   "aufrufe": 9
-  },
-  {
-   "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
-   "aufrufe": 9
+   "pfad": "/DenkerVita/Udo-Marquardt",
+   "aufrufe": 8
   },
   {
    "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
@@ -131,8 +135,8 @@
    "aufrufe": 8
   },
   {
-   "pfad": "/DenkerVita/Udo-Marquardt",
-   "aufrufe": 8
+   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+   "aufrufe": 7
   },
   {
    "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
@@ -143,23 +147,7 @@
    "aufrufe": 7
   },
   {
-   "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-   "aufrufe": 7
-  },
-  {
-   "pfad": "/DenkerVita/Byung-Chul-Han",
-   "aufrufe": 6
-  },
-  {
-   "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
-   "aufrufe": 6
-  },
-  {
-   "pfad": "/DenkerVita/Kalayo",
-   "aufrufe": 6
-  },
-  {
-   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+   "pfad": "/DenkerVita/Marina-Klimchuk",
    "aufrufe": 6
   },
   {
@@ -167,11 +155,23 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Marina-Klimchuk",
+   "pfad": "/DenkerVita/Hans-Jürgen-Völz",
    "aufrufe": 6
   },
   {
-   "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+   "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Kalayo",
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+   "aufrufe": 6
+  },
+  {
+   "pfad": "/DenkerVita/Byung-Chul-Han",
    "aufrufe": 6
   },
   {
@@ -179,7 +179,7 @@
    "aufrufe": 6
   },
   {
-   "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
+   "pfad": "/DenkerVita/Damir-Skenderovic",
    "aufrufe": 5
   },
   {
@@ -187,19 +187,11 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/Kultur/Hans-Maggi-Sokotra",
+   "pfad": "/DenkerVita/Der-Dara",
    "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Damir-Skenderovic",
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/DenkerVita/Ralf-Stockmann",
-   "aufrufe": 5
-  },
-  {
-   "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
+   "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
    "aufrufe": 5
   },
   {
@@ -207,7 +199,15 @@
    "aufrufe": 5
   },
   {
+   "pfad": "/DenkerVita/Bernhard-Poerksen",
+   "aufrufe": 5
+  },
+  {
    "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
+   "aufrufe": 5
+  },
+  {
+   "pfad": "/DenkerVita/Ralf-Stockmann",
    "aufrufe": 5
   },
   {
@@ -215,19 +215,15 @@
    "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Bernhard-Poerksen",
+   "pfad": "/Kultur/Hans-Maggi-Sokotra",
    "aufrufe": 5
   },
   {
-   "pfad": "/DenkerVita/Der-Dara",
+   "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
    "aufrufe": 5
   },
   {
-   "pfad": "/Denker/Catrin-Misselhorn-Grundfragen-der-Maschinenethik",
-   "aufrufe": 4
-  },
-  {
-   "pfad": "/Zeitgeist/Mario-Buchinger-Lügen-der-Kernenergie-(6▸6)-Neue-Reaktorgenerationen",
+   "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
    "aufrufe": 4
   },
   {
@@ -235,11 +231,15 @@
    "aufrufe": 4
   },
   {
-   "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+   "pfad": "/Denker/Platon-Das-Höhlengleichnis",
    "aufrufe": 4
   },
   {
-   "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
+   "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
+   "aufrufe": 4
+  },
+  {
+   "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
    "aufrufe": 4
   }
  ],
@@ -249,7 +249,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 830
+     "aufrufe": 831
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -336,15 +336,15 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Benjamin-Biersky",
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Hannah-Arendt-Denken-ohne-Geländer",
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Robin-Celikates-Faschisierung,-Hoffnung-und-die-Krise-des-Systems",
+     "pfad": "/Denker/Erich-Fromm-Haben-oder-Sein",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Benjamin-Biersky",
      "aufrufe": 3
     },
     {
@@ -392,11 +392,11 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
+     "pfad": "/Denker/Robin-Celikates-Faschisierung,-Hoffnung-und-die-Krise-des-Systems",
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Erich-Fromm-Haben-oder-Sein",
+     "pfad": "/DenkerVita/Der-Dara",
      "aufrufe": 3
     },
     {
@@ -494,7 +494,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 847
+     "aufrufe": 848
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -533,19 +533,19 @@
      "aufrufe": 17
     },
     {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
-     "aufrufe": 17
-    },
-    {
      "pfad": "/DenkerVita/Carlo-Cipolla",
      "aufrufe": 17
     },
     {
-     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
-     "aufrufe": 15
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene.html",
+     "aufrufe": 17
     },
     {
      "pfad": "/DenkerVita/Benjamin-Biersky",
+     "aufrufe": 15
+    },
+    {
+     "pfad": "/DenkerVita/Manuel-Koschi-Politik",
      "aufrufe": 15
     },
     {
@@ -565,14 +565,6 @@
      "aufrufe": 12
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
-     "aufrufe": 11
-    },
-    {
-     "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
-     "aufrufe": 11
-    },
-    {
      "pfad": "/DenkerVita/Torsten-Heinrich",
      "aufrufe": 11
     },
@@ -581,11 +573,19 @@
      "aufrufe": 11
     },
     {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen.html",
+     "aufrufe": 11
+    },
+    {
+     "pfad": "/Geistesblitz/KI-Agenten-Vom-Dorf-zur-Zivilisation",
+     "aufrufe": 11
+    },
+    {
      "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
      "aufrufe": 11
     },
     {
-     "pfad": "/DenkerVita/Cordula-Tutt",
+     "pfad": "/DenkerVita/Marc-Felix-Serrao",
      "aufrufe": 10
     },
     {
@@ -593,8 +593,16 @@
      "aufrufe": 10
     },
     {
-     "pfad": "/DenkerVita/Marc-Felix-Serrao",
+     "pfad": "/DenkerVita/Cordula-Tutt",
      "aufrufe": 10
+    },
+    {
+     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
+     "aufrufe": 9
+    },
+    {
+     "pfad": "/DenkerVita/Marcant",
+     "aufrufe": 9
     },
     {
      "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
@@ -605,12 +613,8 @@
      "aufrufe": 9
     },
     {
-     "pfad": "/DenkerVita/Marcant",
-     "aufrufe": 9
-    },
-    {
-     "pfad": "/Zeitgeist/Gerald-Knaus-Ceuta-und-die-Erpressbarkeit-Europas",
-     "aufrufe": 9
+     "pfad": "/DenkerVita/Udo-Marquardt",
+     "aufrufe": 8
     },
     {
      "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
@@ -621,8 +625,8 @@
      "aufrufe": 8
     },
     {
-     "pfad": "/DenkerVita/Udo-Marquardt",
-     "aufrufe": 8
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "aufrufe": 7
     },
     {
      "pfad": "/Zeitgeist/Die-Neuen-Zwanziger-Rechtes-Denken,-Herr-Hegemon,-Let-Them-Theory",
@@ -633,23 +637,7 @@
      "aufrufe": 7
     },
     {
-     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
-     "aufrufe": 7
-    },
-    {
-     "pfad": "/DenkerVita/Byung-Chul-Han",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/DenkerVita/Kalayo",
-     "aufrufe": 6
-    },
-    {
-     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "pfad": "/DenkerVita/Marina-Klimchuk",
      "aufrufe": 6
     },
     {
@@ -657,11 +645,23 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Marina-Klimchuk",
+     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Hans-Jürgen-Völz",
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Kalayo",
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "aufrufe": 6
+    },
+    {
+     "pfad": "/DenkerVita/Byung-Chul-Han",
      "aufrufe": 6
     },
     {
@@ -669,7 +669,7 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
+     "pfad": "/DenkerVita/Damir-Skenderovic",
      "aufrufe": 5
     },
     {
@@ -677,19 +677,11 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Kultur/Hans-Maggi-Sokotra",
+     "pfad": "/DenkerVita/Der-Dara",
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Damir-Skenderovic",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
      "aufrufe": 5
     },
     {
@@ -697,7 +689,15 @@
      "aufrufe": 5
     },
     {
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "aufrufe": 5
+    },
+    {
      "pfad": "/Zeitgeist/DW-Reporter-AfD-und-rechte-Influencer-in-Sachsen-Anhalt",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
      "aufrufe": 5
     },
     {
@@ -705,19 +705,15 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "pfad": "/Kultur/Hans-Maggi-Sokotra",
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
+     "pfad": "/Zeitgeist/Daniel-Lena-Kotré-plant-private-Abschiebeindustrie",
      "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Catrin-Misselhorn-Grundfragen-der-Maschinenethik",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Zeitgeist/Mario-Buchinger-Lügen-der-Kernenergie-(6▸6)-Neue-Reaktorgenerationen",
+     "pfad": "/Denker/Matthieu-Ricard-Glück,-Mitgefühl-und-die-Transformation-des-Geistes",
      "aufrufe": 4
     },
     {
@@ -725,11 +721,15 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
+     "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "aufrufe": 4
     }
    ]
@@ -739,7 +739,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 876
+     "aufrufe": 877
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -984,7 +984,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 876
+     "aufrufe": 877
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",

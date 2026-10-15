@@ -46,31 +46,11 @@ Die Gedankenwelten (luc)
 
 > → *21 weitere in* [[Zeitgeist]]
 
-### Panorama
-
-> **15.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
->
-> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
-
-> **15.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **15.10.** — [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
->
-> Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
-
-> **14.10.** — [[Panorama/Wer bestimmt wie erinnert wird|Wer bestimmt, wie erinnert wird?]]
->
-> Eine Gemeinde, ein Amt, eine Regierung: Drei offene Fragen danach, wem ein Gedenken gehört, was Macht an der Erinnerung ändern kann und ob Erinnerung überhaupt schützt.
-
-> **13.10.** — [[Panorama/Wie werden gewoehnliche Menschen zu Taetern|Wie werden gewöhnliche Menschen zu Tätern?]]
->
-> Gedankenlos, überzeugt oder nur dabei: Drei offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
-
-> → *12 weitere in* [[Panorama]]
-
 ### Denker
+
+> **15.10.** — [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Rainer Mausfeld — Warum schweigen die Lämmer?]]
+>
+> Wer über viele herrschen will, braucht ihre Angst: Mausfeld zeigt, wie aus Furcht vor etwas eine Angst ohne Gegenstand wird. Wo seine Analyse trägt und wo sie sich gegen jeden Einwand schließt.
 
 > **14.10.** — [[Denker/Hannah Arendt — Zur Person|Hannah Arendt — Zur Person (im Gespräch mit Günter Gaus, 1964)]]
 >
@@ -88,11 +68,31 @@ Die Gedankenwelten (luc)
 >
 > Ein Tisch, an dem alle sitzen und jeder anderes sieht: Arendts Begriff des Politischen, und was geschieht, wenn Masse, Ideologie und Terror ihn zerstören. Dresden 2018.
 
-> **14.10.** — [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit|Carlo Cipolla — Die fünf Gesetze der Dummheit]]
->
-> Ein Wirtschaftshistoriker schreibt als Scherz die Gesetze der Dummheit auf: Wer anderen schadet, ohne selbst etwas davon zu haben, ist gefährlicher als jeder Bandit.
+> → *9 weitere in* [[Denker]]
 
-> → *8 weitere in* [[Denker]]
+### Panorama
+
+> **15.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **15.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
+>
+> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
+
+> **15.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
+> **15.10.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
+>
+> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
+
+> **15.10.** — [[Panorama/Das Glueck des Schmieds|Das Glück des Schmieds]]
+>
+> Jeder ist seines Glückes Schmied, sagt das Sprichwort. Aber wer hat den Hammer, wer den Amboss, wer die Kohle? Vier Fragen zu Fleiß, Wohlstand, Sicherheit und Herkunft.
+
+> → *12 weitere in* [[Panorama]]
 
 ### Gedanken
 
