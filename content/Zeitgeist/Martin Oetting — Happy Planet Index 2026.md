@@ -129,7 +129,7 @@ Der Index rechnet mit dem Fußabdruck, nicht mit dem Einkommen, und für ihn ist
 
 Die beiden Befunde passen besser zusammen, als es scheint. Geld kann Wohlbefinden kaufen, das kaum Welt verbraucht: Zeit, Pflege, Bildung, Sicherheit. Mehr Geld macht also durchaus zufriedener, mehr *Verbrauch* weniger. Das ist genau die Lücke, in der Costa Rica und Spanien liegen. Und auch das Maß selbst ist umstritten. Kritiker halten den Fußabdruck für irreführend, weil der Überverbrauch fast ganz aus CO₂ besteht, das in eine gedachte Waldfläche umgerechnet wird ([Blomqvist, Brook, Ellis & Kareiva 2013, doi:10.1371/journal.pbio.1001700](https://doi.org/10.1371/journal.pbio.1001700)); dessen Erfinder halten dagegen ([Rees & Wackernagel 2013, doi:10.1371/journal.pbio.1001701](https://doi.org/10.1371/journal.pbio.1001701)).
 
-→ Eine eigene Panorama-Frage dafür gibt es noch nicht. Am nächsten liegt **[[Fortschritt#Der Maßstab ist umstritten — und wird von den Falschen gesetzt|Fortschritt — Der Maßstab ist umstritten]]**: Wer bestimmt, woran eine Gesellschaft ihren Wohlstand misst?
+→ Weiter im Panorama: **[[Was ist Wohlstand#Macht mehr Geld zufriedener?|Was ist Wohlstand? — Macht mehr Geld zufriedener?]]**, mit Homm und seinen Jets, Butterwegges sieben Jahren Lebenszeit, Heins Fischer in Bangladesch und Fromms Haben oder Sein.
 
 ### Weniger arbeiten fürs Klima?
 

@@ -48,6 +48,10 @@ Die Gedankenwelten (luc)
 
 ### Panorama
 
+> **15.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
+>
+> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
+
 > **15.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
 >
 > Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Gedankenlos, überzeugt oder nur dabei: Drei offene Fragen danach, wie Nachbarn, Beamte und Familienväter zu Mittätern werden und was manche von ihnen davon abhielt.
 
-> **13.10.** — [[Panorama/Was ist Grosszuegigkeit|Was ist Großzügigkeit?]]
->
-> Beginnt Großzügigkeit, wo der Anspruch endet, und wer kann sie sich leisten? Vier offene Fragen nach der Lüneburger Utopie-Konferenz 2026, und die Stimmen, die sich an ihnen reiben.
-
-> → *11 weitere in* [[Panorama]]
+> → *12 weitere in* [[Panorama]]
 
 ### Denker
 
