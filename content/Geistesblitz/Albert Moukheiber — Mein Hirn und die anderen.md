@@ -295,7 +295,7 @@ Die Konsequenz: Wer aufgeklärtes Denken will, kann das nicht als individuelles 
 > Das Ochsen-Experiment fand 1907 auf der West of England Fat Stock Exhibition statt. Galton publizierte es in *Nature* (1907). Galtons eugenischer Hintergrund ist historisch gut dokumentiert. Quelle: [Galton (1907), „Vox Populi", Nature](https://www.nature.com/articles/075450a0)
 
 > [!success] Bestätigt — Tronick Still-Face-Experiment
-> Edward Tronick entwickelte das Still-Face-Paradigma in den 1970er Jahren. Es ist eines der meistzitierten Experimente der Entwicklungspsychologie. Quelle: [Tronick et al. (1978), Journal of the American Academy of Child Psychiatry](https://doi.org/10.1016/S0002-7138(09)62379-X)
+> Edward Tronick entwickelte das Still-Face-Paradigma in den 1970er Jahren. Es ist eines der meistzitierten Experimente der Entwicklungspsychologie. Quelle: [Tronick et al. (1978), Journal of the American Academy of Child Psychiatry](https://doi.org/10.1016/S0002-7138(09)62273-1)
 
 > [!warning] Vereinfacht — Bestätigungsfehler als „positiv"
 > Hugo Merciers These, dass der Bestätigungsfehler in Zwei-Personen-Gesprächen konstruktiv wirkt, basiert auf seiner Argumentationstheorie (*The Enigma of Reason*, 2017, mit Dan Sperber). Diskutiert — andere Studien zeigen auch im Gespräch hartnäckige Meinungsresistenz. Quelle: [Mercier & Sperber (2011), Behavioral and Brain Sciences](https://doi.org/10.1017/S0140525X10000968)
@@ -315,7 +315,7 @@ Die Konsequenz: Wer aufgeklärtes Denken will, kann das nicht als individuelles 
 - [Steele & Aronson (1995): Stereotype Threat](https://psycnet.apa.org/record/1996-00437-001) — Begründer der Stereotypenbedrohungsforschung
 - [Galton (1907): Vox Populi — Nature](https://www.nature.com/articles/075450a0) — Ursprung des „Weisheit der Vielen"-Konzepts
 - [Mercier & Sperber (2011): Why do humans reason?](https://doi.org/10.1017/S0140525X10000968) — Argumentationstheorie und Bestätigungsfehler
-- [Tronick et al. (1978): Still-Face-Paradigma](https://doi.org/10.1016/S0002-7138(09)62379-X) — Grundlagenexperiment zur Mutter-Kind-Bindung
+- [Tronick et al. (1978): Still-Face-Paradigma](https://doi.org/10.1016/S0002-7138(09)62273-1) — Grundlagenexperiment zur Mutter-Kind-Bindung
 - [Laurence Devillers — LIMSI/LISN](https://perso.limsi.fr/devillers/) — Forscherin für Mensch-Maschine-Interaktion und soziale Robotik
 
 ---

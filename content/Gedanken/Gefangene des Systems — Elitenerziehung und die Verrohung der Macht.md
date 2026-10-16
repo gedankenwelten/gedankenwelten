@@ -424,7 +424,7 @@ Hannah Arendts *Banalität des Bösen* gilt hier in einem erweiterten Sinne: Man
 - Yu, Liya: *Hirn statt Moral: Warum nur Neuropolitik den gesellschaftlichen Zusammenhalt sichert*. Econ/Ullstein, 2026.
 - Harris, Lasana T. & Fiske, Susan T. (2006): Dehumanizing the Lowest of the Low: Neuroimaging Responses to Extreme Out-Groups. *Psychological Science*. DOI: 10.1111/j.1467-9280.2006.01793.x
 - Kanai, Ryota et al. (2011): Political Orientations Are Correlated with Brain Structure in Young Adults. *Current Biology*. DOI: 10.1016/j.cub.2011.03.017
-- Leyens, Jacques-Philippe et al. (2000): The Emotional Side of Prejudice: The Attribution of Secondary Emotions to Ingroups and Outgroups. *European Journal of Social Psychology*. DOI: 10.1002/1099-0992
+- Leyens, Jacques-Philippe et al. (2000): The Emotional Side of Prejudice: The Attribution of Secondary Emotions to Ingroups and Outgroups. *Personality and Social Psychology Review* 4(2). DOI: 10.1207/s15327957pspr0402_06
 
 ### Thiel — Primärquellen
 

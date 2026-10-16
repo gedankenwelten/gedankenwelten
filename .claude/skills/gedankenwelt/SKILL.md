@@ -1049,6 +1049,12 @@ Ohne Satz ist der Saal stumm — kein Fehler, aber die Note gilt als unvollstän
 
 ## Schritt 11 — Commit, Push, Sync & Deploy
 
+**Zuerst die DOIs der neuen Note prüfen** (kostet nichts, Sekunden). Exit 1 heißt: ein DOI existiert nicht oder das Paper ist zurückgezogen. Dann erst korrigieren, nicht deployen:
+
+```bash
+python3 .claude/scripts/doi_pruefung.py --note "Gedankenwelten/<Rubrik>/<Note>.md"
+```
+
 Änderungen committen und pushen. Pfad je nach Gerät:
 
 ```bash
@@ -1265,6 +1271,7 @@ erste überlas; ein dritter ist Übertreibung (Glätten ist der Tod der Stimme).
 - [ ] Eintrag in `Cortex-Log.md`
 - [ ] **Frontmatter-YAML-Check bestanden** (`python3 .claude/scripts/check_frontmatter.py` → Exit 0, Schritt 10b) — sonst bricht der ganze Quartz-Build ab
 - [ ] **Banner generiert & eingebettet (Schritt 10c):** Note immer; DenkerVita zugleich, wenn sie noch keins hat (`gen_banner.py` via fal.ai; verschiedene Künstlerhände für Note und Vita)
+- [ ] **DOI-Prüfung** (`doi_pruefung.py --note`) → Exit 0 — kein Phantom-DOI, nichts Zurückgezogenes als Beleg
 - [ ] Commit, Push & Deploy — Note im Browser geöffnet
 - [ ] **Floskel-Review (Schritt 12):** jede neue Note gegen `ki-tells.md` gelesen — max. **eine** negative Parallele pro Note (Zitate/Faktencheck ausgenommen), keine Häufungswort-Cluster, kein generischer Schluss; bei Änderungen re-ingestiert + neu deployed
 - [ ] Gedankenwelten GitHub-Repo synchronisiert (`cgsync` / `<vault>/.claude/scripts/sync-from-cortex.sh`)

@@ -261,7 +261,7 @@ Und: Mit **Wertschätzung** beginnen, nicht mit Argument. „Eine Sache schätze
 | Putnam Diversität | Putnam, R.D. (2007). *E Pluribus Unum.* Scandinavian Political Studies 30(2) | [JSTOR](https://doi.org/10.1111/j.1467-9477.2007.00176.x) |
 | Stenner Autoritarismus | Stenner, K. (2005). *The Authoritarian Dynamic.* Cambridge UP | Buch / [Wikipedia](https://en.wikipedia.org/wiki/Karen_Stenner) |
 | Gottman Verachtung | Gottman & Levenson (1992). *Marital processes predictive of later dissolution.* JPSP 63(2) | [APA PsycNet](https://doi.org/10.1037/0022-3514.63.2.221) |
-| Gottman-Kritik | Heyman, R.E. (2001). *Observation of couple conflicts.* CCFPR 4(3) | [Springer](https://doi.org/10.1023/A:1017900707208) |
+| Gottman-Kritik | Heyman, R.E. (2001). *Observation of couple conflicts: Clinical assessment applications, stubborn truths, and shaky foundations.* Psychological Assessment 13(1) | [APA PsycNet](https://doi.org/10.1037/1040-3590.13.1.5) |
 | Krieg & Kooperation | Bauer et al. (2016). *Can War Foster Cooperation?* JEP 30(3) | [AEA (Open Access)](https://www.aeaweb.org/articles?id=10.1257/jep.30.3.249) |
 | Negative Partisanship | Abramowitz & Webster (2016). *Rise of negative partisanship.* Electoral Studies 41 | [ScienceDirect](https://doi.org/10.1016/j.electstud.2015.11.001) |
 | Pew Polarisierung | Pew Research (2016). *Partisanship and Political Animosity in 2016* | [pewresearch.org](https://www.pewresearch.org/politics/2016/06/22/partisanship-and-political-animosity-in-2016/) |

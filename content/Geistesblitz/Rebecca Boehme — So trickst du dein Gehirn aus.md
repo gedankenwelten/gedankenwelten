@@ -164,7 +164,7 @@ Gleichzeitig vorsichtiger Optimismus: Böhme beobachtet auf Reisen Menschen die 
 > Die *Predictive Processing*-Theorie (Karl Friston, Andy Clark) ist ein dominantes Paradigma in den Neurowissenschaften. Die Grundidee — das Gehirn minimiert Vorhersagefehler durch probabilistische Modelle — ist breit belegt. Quelle: [Clark, A. (2013). Whatever next? Predictive brains, situated agents](https://doi.org/10.1017/S0140525X12000477)
 
 > [!success] Bestätigt — Reappraisal bei chronischen Schmerzen
-> Die Boulder Back Pain Trial (Ashar et al., 2022) zeigte: 66% der Teilnehmer mit Pain Reprocessing Therapy waren nach Behandlung schmerzfrei oder nahezu schmerzfrei, vs. 20% Placebo. Effekt hielt nach einem Jahr an. Quelle: [Ashar et al. (2022), JAMA Psychiatry](https://doi.org/10.1001/jamapsychiatry.2021.3917)
+> Die Boulder Back Pain Trial (Ashar et al., 2022) zeigte: 66% der Teilnehmer mit Pain Reprocessing Therapy waren nach Behandlung schmerzfrei oder nahezu schmerzfrei, vs. 20% Placebo. Effekt hielt nach einem Jahr an. Quelle: [Ashar et al. (2022), JAMA Psychiatry](https://doi.org/10.1001/jamapsychiatry.2021.2669)
 
 > [!success] Bestätigt — Emotionale Ansteckung auf Facebook
 > Die Studie von Coviello et al. (2014) analysierte Millionen von Facebook-Posts und fand tatsächlich, dass negative Posts sich wellenförmig durch Freundesnetzwerke verbreiten — unabhängig vom lokalen Wetter der Freunde. Quelle: [Coviello et al. (2014), PLOS ONE](https://doi.org/10.1371/journal.pone.0090315)

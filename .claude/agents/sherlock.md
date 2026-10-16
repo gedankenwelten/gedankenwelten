@@ -91,7 +91,9 @@ die Regel stolpert gern über Stichworte im Journal-Namen. Tiermodell oder Zells
 Jeder Treffer trägt **`soliditaet`** (meta-analyse · review · primär · preprint), Zitationszahl und
 OA-Volltext. Das ist der **Gleichmut-Spiegel der Wissenschaft**: eine Studie ist ein Datenpunkt, kein
 Stempel — eine Meta-Analyse wiegt schwerer als eine frische Einzelstudie, ein Preprint ist noch nicht
-begutachtet. Steht **`⚠ ZURÜCKGEZOGEN`** an einem Treffer, ist er kein Beleg mehr, höchstens ein Fall, über den
+begutachtet. **Nie einen DOI aus dem Gedächtnis schreiben.** Jeder DOI, der in eine Note geht, stammt aus `wiss_search.py` oder ist vorher bei doi.org geprüft. Am 16.10.2026 fanden sich zwölf erfundene oder falsche DOIs im Bestand, fünf davon in einer Note, über deren Liste „geprüft und verifiziert durch Sherlock“ stand. Vor der Übergabe: `python3 .claude/scripts/doi_pruefung.py --note "<pfad>"` → Exit 0.
+
+Steht **`⚠ ZURÜCKGEZOGEN`** an einem Treffer, ist er kein Beleg mehr, höchstens ein Fall, über den
 man schreibt. Der **Verlag** steht zur Information dabei, nicht als Wertung. Belegt ein solides Paper den Claim, gehört der **DOI in den `[!success]`-Callout** (statt
 nur ein Web-Link). Widerspricht die Forschung dem Claim oder ist sie uneins, sag genau das — bei einem
 empirischen Claim ist das der wertvollste Befund. *Rate-Limit der Schicht: 1 Anfrage/Sekunde — Läufe

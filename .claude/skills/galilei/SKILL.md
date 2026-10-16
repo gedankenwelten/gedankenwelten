@@ -65,7 +65,10 @@ python3 .claude/scripts/wiss_search.py "..." --top 5 --sieb
 entscheidet das Abstract (→ `.claude/scripts/systemone.py`).
 Jeder Treffer trägt: `title`, `authors`, `year`, `venue`, `doi`, `abstract`/`tldr`, `citation_count`,
 `is_oa`+`oa_url`, **`soliditaet`** (meta-analyse · review · primär · preprint), `verlag` (Angabe, keine
-Wertung) und `zurueckgezogen` — ein zurückgezogenes Paper ist nie Beleg, höchstens Fall. Die Schicht sortiert
+Wertung) und `zurueckgezogen` — ein zurückgezogenes Paper ist nie Beleg, höchstens Fall.
+
+**Nie einen DOI aus dem Gedächtnis schreiben.** Jeder DOI, der in eine Note geht, stammt aus `wiss_search.py` oder ist vorher bei doi.org geprüft. Am 16.10.2026 fanden sich zwölf erfundene oder falsche DOIs im Bestand, fünf davon in einer Note, über deren Liste „geprüft und verifiziert durch Sherlock“ stand. Vor der Übergabe: `python3 .claude/scripts/doi_pruefung.py --note "<pfad>"` → Exit 0.
+ Die Schicht sortiert
 schon grob nach Solidität — aber das ist nur ein Vorschlag, **das Urteil ist deins**.
 
 > Quellen: OpenAlex (trägt allein), Semantic Scholar (TLDR — braucht `SEMANTIC_SCHOLAR_API_KEY` in

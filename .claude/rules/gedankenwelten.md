@@ -247,6 +247,8 @@ Klare Ungenauigkeiten werden auch im Fließtext mit `*(Faktencheck: vereinfacht)
 > er gegen die **Forschung** geprüft, nicht nur gegen die Presse. Standard-Werkzeug ist
 > `.claude/scripts/wiss_search.py` (OpenAlex · Semantic Scholar · Europe PMC; auch der Skill `/galilei` und
 > der Agent Sherlock nutzen es). Ein belegtes Paper gehört mit **DOI** in den `[!success]`-/`[!warning]`-Callout,
-> samt Solidität (Meta-Analyse > Einzelstudie > Preprint) — nicht nur ein Web-Link. Das gilt rubrik-übergreifend
+> samt Solidität (Meta-Analyse > Einzelstudie > Preprint) — nicht nur ein Web-Link. **Nie einen DOI aus dem
+> Gedächtnis schreiben:** nur aus `wiss_search.py` oder vorher bei doi.org geprüft; vor dem Deploy
+> `python3 .claude/scripts/doi_pruefung.py --note "<pfad>"` (Exit 1 = Phantom-DOI oder zurückgezogenes Paper). Das gilt rubrik-übergreifend
 > (Zeitgeist, Denker, Geistesblitz), überall wo empirische Ansprüche im Spiel sind. Andreas ist Fan der
 > Wissenschaft — sie ist die zweite Säule neben Vipassana und im Core immer mitzudenken.
