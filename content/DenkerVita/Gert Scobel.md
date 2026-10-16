@@ -91,6 +91,7 @@ Politisch ist er schwer einzuordnen — er macht keine parteipolitischen Aussage
 ## Verbindungen zu anderen Denkern
 
 - [[Edgar Morin — Das komplexe Denken]] — Scobel ist der lebende Praktiker von Morins Programm: Interdisziplinarität als Beruf, gepaart mit der epistemischen Demut, die die Grenzen des Messbaren markiert. Wo Morin das transdisziplinäre Denken entwirft, führt Scobel es öffentlich vor.
+- [[DenkerVita/Michael Hampe|Michael Hampe]] — Freund und METIS-Partner an der ETH; Hampes *Wozu?* trägt Scobels Essay über die gefährlichste Frage, Hampes Loopingeffekt widerspricht Scobels Gefühl, die Maschine denke.
 
 ---
 
@@ -111,3 +112,4 @@ Politisch ist er schwer einzuordnen — er macht keine parteipolitischen Aussage
 - [[Denker/scobel — Lyotard das Ende der Wahrheit]]
 - [[Denker/Markus Gabriel — Ethische Intelligenz (scobel)]]
 - [[Denker/Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]]
+- [[Denker/Michael Hampe — Warum Debatten ueber KI und Willen truegen]] — Hackings Loopingeffekt, die KI als Spiegel unseres Vokabulars, Freiheit als Macht

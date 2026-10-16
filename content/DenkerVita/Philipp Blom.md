@@ -108,6 +108,7 @@ Die Kritik an *Die Unterwerfung* ([Perlentaucher](https://www.perlentaucher.de/b
 - **Baruch de Spinoza** — *Deus sive natura* ist Bloms Gegenformel zur Unterwerfung → [[Gert Scobel - Die gefaehrlichste Frage unseres Lebens]]
 - **[[DenkerVita/Martyna Linartas|Martyna Linartas]]** — die Erbengesellschaft als Befund hinter Bloms „neuem Adel“; beide mit Piketty.
 - **Tilo Wesche** — gibt der Natur rechtlich zurück, was ihr der Bibelsatz nahm → [[Tilo Wesche - Rechte der Natur Eigentum Kolonialismus]]
+- **[[DenkerVita/Michael Hampe|Michael Hampe]]** — Spinozist wie Blom; liest den freien Willen als Erbe der Theologie, wie Blom den Fortschritt.
 
 ---
 

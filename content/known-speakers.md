@@ -1205,3 +1205,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Christine Schliesser
 **Status:** ✓ Vollanalyse → [[DenkerVita/Christine Schliesser]]
+
+## Michael Hampe
+**Status:** ✓ Vollanalyse → [[DenkerVita/Michael Hampe]]

@@ -191,6 +191,11 @@ Wie Zhao entwirft Cusicanqui eine eigenständige nicht-westliche Episteme statt 
 
 Dasselbe Misstrauen gegen die erstarrte Kategorie: Zhaos „in der Substantivform eingefrorenes" Denken trifft Diagnes Nietzsche-/Sapir-Argument, dass Grammatik die heimliche Metaphysik ist (das Cogito, unübersetzbar ins Kinyarwanda). Zhao sucht die Verb-Bewegung, Diagne die Übersetzungs-Bewegung.
 
+### → [[Michael Hampe — Warum Debatten ueber KI und Willen truegen]]
+
+Hampe liefert Zhaos Nomen-Problem ein Beispiel aus dem Inneren: Wille, Bewusstsein und Denken werden zu Dingen, weil wir Substantive für sie haben, und der Buddhismus erscheint bei ihm als Projekt gegen diese Verdinglichung. Zhao würde einwenden, dass der Fehler älter ist als Augustinus und in jeder Sprache steckt.
+
+
 ---
 
 ## Weiterdenken

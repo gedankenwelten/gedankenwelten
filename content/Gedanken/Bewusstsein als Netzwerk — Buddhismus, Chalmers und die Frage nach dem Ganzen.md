@@ -460,3 +460,8 @@ Hararis Davos-Frage — kann die KI *fühlen* oder ordnet sie nur Wörter? — i
 ### → [[Geistesblitz/Gert Scobel — Die Geister in der Maschine|Gert Scobel — Die Geister in der Maschine]]
 
 Seths „Halluzination, die von der Realität in Schach gehalten wird“, ist die Messlatte, an der Scobel die Sprachmodelle scheitern sieht. Sie füllen Lücken wie das Gehirn, nur ohne Rückbindung an eine Welt.
+
+### → [[Michael Hampe — Warum Debatten ueber KI und Willen truegen]]
+
+Der schärfste Einwand gegen die Komplexitäts-These: Für Hampe ist der Schluss „ab genug Verschaltung emergiert Bewusstsein“ eine platonistische Lesart unseres psychologischen Vokabulars, und ein Sprachmodell, das „ich denke“ sagt, gibt nur zurück, womit es gefüttert wurde. Der J-Space ist ein Befund, an dem sich sein Einwand messen lassen muss.
+

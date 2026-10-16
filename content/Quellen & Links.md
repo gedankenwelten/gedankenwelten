@@ -6,6 +6,15 @@ tags:
   - links
 ---
 
+## Michael Hampe — Bewusstsein, freier Wille, Denken, KI (scobel im Gespräch)
+
+| | |
+|---|---|
+| **Video** | [Bewusstsein, freier Wille, Denken, KI: Warum Debatten oft trügen – scobel im Gespräch: Michael Hampe](https://www.youtube.com/watch?v=aQ99dDlNp4o) |
+| **Notiz** | [[Michael Hampe — Warum Debatten ueber KI und Willen truegen]] |
+| **Vita** | [[DenkerVita/Michael Hampe]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Hampe_Bewusstsein_Transkript.txt` |
+
 ## Dirk Specht — Das Ende des Erdöls beginnt jetzt (Geladen Podcast)
 
 | | |

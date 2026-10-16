@@ -206,6 +206,11 @@ Ergänzung mit produktiver Reibung: Ricard teilt das Bild vom Selbst als fließe
 
 Blom liest Spinozas *Deus sive natura* politisch: Wenn nichts außerhalb der Natur steht, gibt es keinen Platz, von dem aus man sie beherrschen könnte. Scobels Spinoza erlöst von den Zwecken, Bloms Spinoza von der Herrschaftsformel. Offen bleibt, ob Bloms Hoffnung auf einen neuen „Metabolismus“ nicht selbst wieder ein Zweck ist.
 
+### → [[Michael Hampe — Warum Debatten ueber KI und Willen truegen]]
+
+Hampe selbst, zwei Jahre nach *Wozu?*, im Gespräch mit Scobel. Dort ist Freiheit die Macht, das Gewollte zu verwirklichen, und damit eine Antwort auf den Einwand dieser Note, Zwecklosigkeit sei ein Privileg der Gesicherten.
+
+
 ---
 
 ## Weiterdenken

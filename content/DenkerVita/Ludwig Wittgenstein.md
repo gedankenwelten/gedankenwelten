@@ -99,7 +99,7 @@ Die politische Wirkung kam nach ihm: Die Kritische Theorie (Adorno, Marcuse, Hab
 
 ## Verbindungen zu anderen Denkern
 
-*(Montaigne befüllt diesen Abschnitt)*
+- [[DenkerVita/Michael Hampe|Michael Hampe]] — führt Wittgensteins Therapie der Sprachverhexung als nicht-doktrinäre Philosophie fort und wendet sie auf Willen, Bewusstsein und KI an.
 
 ---
 

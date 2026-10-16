@@ -201,6 +201,11 @@ Das laterale Universale als akustischer Fall: Ein Physiker in Brown stellt die S
 
 Diagnes Einwand gegen Levinas bekommt einen Gegenpol in der Frankfurter Soirée: Dort wirft Levinas Buber gerade die Gegenseitigkeit vor, die Diagne als Bedingung jedes Universalen einfordert.
 
+### → [[Michael Hampe — Warum Debatten ueber KI und Willen truegen]]
+
+Hampe macht mit dem freien Willen, was Kagame mit dem Cogito tat: Er schickt einen Grundbegriff durch eine fremde Sprache, das klassische Chinesisch, und findet dort kein Problem der Willensfreiheit. Wo Diagne in der Übersetzung das laterale Universale entstehen sieht, nennt Hampe den abstrakten Gegenstand ein „Produkt einer Übersetzungsnot“.
+
+
 ---
 
 ## Weiterdenken

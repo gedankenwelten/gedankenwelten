@@ -226,6 +226,11 @@ Die Brücke zu Simone Weil, und eine, die kracht. Han findet das Glück im *Wide
 
 Die Weiterdenken-Frage dieser Note — wer prägt eigentlich die Begriffe, in denen wir über Migration, KI und Sicherheit nachdenken? — ist dort schon ausgeführt: Das Nomen friert ein, das Verb fließt, und Höcke macht Wittgensteins Sprachgrenzen zur Machtformel. Damit wandert die Verhexung aus dem Kopf ins politische Feld. Bei Wittgenstein täuscht die Grammatik uns über die Zeit und das Ich; dort täuscht sie uns mit Absicht, von interessierter Hand gesetzt. Beide teilen die Therapie — genauer hinsehen, wie ein Wort benutzt wird —, aber nur eine hat einen Gegner.
 
+### → [[Michael Hampe — Warum Debatten ueber KI und Willen truegen]]
+
+Hampe steht zwischen zwei der sechs Sätze. Mit Wittgensteins § 109 behandelt er Wille und Bewusstsein als grammatische Verhexung. Sartres unverlierbare Freiheit hält er für eine Metaphysik, in der die eigentliche Frage gar nicht vorkommt: ob einer die Macht hat, das Gewollte zu verwirklichen.
+
+
 ---
 
 ## Weiterdenken

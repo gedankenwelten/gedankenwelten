@@ -112,6 +112,7 @@ Kant ist kein Parteipolitiker, aber seine Philosophie hat tiefgreifende politisc
 - [[DenkerVita/Erich Fromm]] — Der Haben-Modus macht kantianisches Handeln unmöglich; Fromms „kategorischer Imperativ der Technik" als dystopisches Echo
 - [[DenkerVita/Niklas Luhmann]] — Luhmanns Systemtheorie als Radikalisierung von Kants Konstruktivismus: Nicht nur der Einzelne konstruiert — Systeme tun es
 - [[DenkerVita/S.N. Goenka]] — Vipassana als östliches Pendant zu Kants epistemischer Demut: Beide erkennen die Grenzen menschlicher Wahrnehmung
+- [[DenkerVita/Michael Hampe|Michael Hampe]] — bestreitet Kants Willen, der von der Lebensgeschichte zurücktreten kann, und damit das Fundament des Schuldstrafrechts; verteidigt die Aufklärung als Lebensform.
 
 ---
 

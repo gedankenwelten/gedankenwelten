@@ -442,6 +442,11 @@ Drei Jahre später sitzt Blom beim STANDARD und hat sich entschieden: Social Med
 
 Wenn die Prägung den Träger wechselt, wird der Ritus zum Kampfplatz. In Halle stritten 2026 Studierende und ein AfD-Landtagsvize um den Zutritt zum Gedenken, und ein AfD-Politiker drohte, die Gedenkkultur über Fördergelder zu „ändern“.
 
+### → [[Michael Hampe — Warum Debatten ueber KI und Willen truegen]]
+
+Hampes Genealogie des freien Willens ist umetikettierte Theologie im Sinne Bloms: Augustinus' Antwort auf die Frage nach dem Bösen lebt über Kant im Schuldstrafrecht fort. Bloms Satz, dass wir lernen, so zu reden, dass Maschinen uns verstehen, ist Hampes Loopingeffekt in umgekehrter Richtung.
+
+
 
 ---
 

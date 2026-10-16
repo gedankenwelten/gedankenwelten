@@ -244,6 +244,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Yuval Noah Harari|Yuval Noah Harari]]** — Israelischer Historiker (Hebräische Universität Jerusalem), Autor von *Sapiens*, *Homo Deus*, *Nexus*; geteilte Fiktionen als Motor der Menschheitsgeschichte, KI als erste Geschichten erzählende Technologie, „Dataismus“; langjähriger Vipassana-Praktiker (Goenka-Tradition)
 
+**[[DenkerVita/Michael Hampe|Michael Hampe]]** — Philosophie (ETH Zürich, emer.), Kritiker der doktrinären Philosophie, der Erzählung, Weisheitspraxis und Zwecklosigkeit gegen die Großbegriffe von Willen, Bewusstsein und Vernunft stellt
+
 **[[DenkerVita/Hans Jessen|Hans Jessen]]** — Fernsehjournalist (* 1949), langjähriger ARD-Hauptstadtkorrespondent für Tagesschau/Tagesthemen und CvD *Bericht aus Berlin*, zuvor Radio Bremen (*buten un binnen*); heute „Alterspräsident“ bei Jung & Naiv (Bundespressekonferenz, Publikumsfragen, „Der entscheidende Punkt“, Aufwachen!); Agenda 2010 als Folge neoliberaler Vorjahrzehnte, Frust statt „Denkzettel“, Demut und Dienen als Maß politischer Macht
 
 **[[DenkerVita/Hans Maggi|Hans Maggi]]** — Reise-YouTuber und Fahrrad-Weltreisender; Projekt *Rückenwind* (~800 Tage um die Welt auf Bambusrädern), Begegnung vor Landschaft, Langsamkeit als Methode

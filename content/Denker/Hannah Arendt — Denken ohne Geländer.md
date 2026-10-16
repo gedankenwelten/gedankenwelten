@@ -242,6 +242,11 @@ Was Pluralität zerstört, bevor man sie denken kann, zeigt das Frühwerk: Felsc
 ### → [[Wolfgang Huber — Bonhoeffer und die Wahrheit]]
 Bonhoeffer begrenzt die Schuld, die man für andere auf sich nimmt, durch den „Ruf zur Einheit mit mir selbst“. Das ist dieselbe Probe, die Arendt bei denen fand, die nicht mitmachten, geschrieben 1943 in Tegel von einem, der lügen musste, um seine Freunde zu schützen.
 
+### → [[Michael Hampe — Warum Debatten ueber KI und Willen truegen]]
+
+Hampe nennt die Urteilskraft das Loch in unserem psychologischen Vokabular und beruft sich auf das Bauchgefühl. Arendts Urteil, das den Standpunkt der anderen mitdenkt, ist die Form, die dieses Bauchgefühl gegen das eigene Vorurteil braucht; sein Nicht-Anhaften an Moralsystemen ist ihr verlässlicher Zweifler.
+
+
 
 ---
 

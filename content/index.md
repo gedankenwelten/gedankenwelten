@@ -22,6 +22,54 @@ Die Gedankenwelten (luc)
 
 *Alles fließt — auch eine Gedankenwelt. Hier sammelt sich, was zuletzt entstanden ist.*
 
+### Denker
+
+> **16.10.** — [[Denker/Michael Hampe — Warum Debatten ueber KI und Willen truegen|Michael Hampe — Warum Debatten über KI und Willen trügen]]
+>
+> Der freie Wille lässt sich nicht glatt ins Chinesische übersetzen. Für Hampe ein Hinweis: Unsere Wörter für das Innere entdecken nichts, sie machen uns erst zu dem, was sie beschreiben.
+
+> **15.10.** — [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Rainer Mausfeld — Warum schweigen die Lämmer?]]
+>
+> Wer über viele herrschen will, braucht ihre Angst: Mausfeld zeigt, wie aus Furcht vor etwas eine Angst ohne Gegenstand wird. Wo seine Analyse trägt und wo sie sich gegen jeden Einwand schließt.
+
+> **14.10.** — [[Denker/Hannah Arendt — Zur Person|Hannah Arendt — Zur Person (im Gespräch mit Günter Gaus, 1964)]]
+>
+> „Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann.
+
+> **14.10.** — [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]]
+>
+> Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung.
+
+> **14.10.** — [[Denker/Wolfgang Huber — Bonhoeffer und die Wahrheit|Wolfgang Huber — Bonhoeffer und die Wahrheit]]
+>
+> Wer im Verhör lügen muss, um Freunde zu schützen, fragt neu, was Wahrheit ist. Bonhoeffers Antwort aus Tegel: Sie lebt zwischen Menschen, nicht im Satz allein.
+
+> → *6 weitere in* [[Denker]]
+
+### Panorama
+
+> **16.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben.
+
+> **15.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
+>
+> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
+
+> **15.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
+>
+> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
+
+> **15.10.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
+>
+> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Vier offene Fragen zu Redaktionen, Besitzern, Plattformen und Staaten, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
+> **15.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
+>
+> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
+
+> → *10 weitere in* [[Panorama]]
+
 ### Zeitgeist
 
 > **15.10.** — [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]]
@@ -45,54 +93,6 @@ Die Gedankenwelten (luc)
 > Der Buchenwald-Direktor über Verbrechen vor der eigenen Haustür, die Mythen der Entlastung — und warum Geschichtsrevisionismus ein Angriff auf die Demokratie selbst ist.
 
 > → *13 weitere in* [[Zeitgeist]]
-
-### Denker
-
-> **15.10.** — [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer|Rainer Mausfeld — Warum schweigen die Lämmer?]]
->
-> Wer über viele herrschen will, braucht ihre Angst: Mausfeld zeigt, wie aus Furcht vor etwas eine Angst ohne Gegenstand wird. Wo seine Analyse trägt und wo sie sich gegen jeden Einwand schließt.
-
-> **14.10.** — [[Denker/Hannah Arendt — Zur Person|Hannah Arendt — Zur Person (im Gespräch mit Günter Gaus, 1964)]]
->
-> „Ich will verstehen.“ Hannah Arendt 1964 in ihrer eigenen Stimme: über die Freunde, die sich gleichschalteten, die Sprache, die nicht verrückt wurde, und das Lachen über Eichmann.
-
-> **14.10.** — [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit|Dietrich Bonhoeffer — Theorie der Dummheit]]
->
-> Silvester 1942 schreibt Bonhoeffer seinen Mitverschwörern auf, was zehn Jahre sie gelehrt haben: Dumm wird, wer unter dem Eindruck der Macht sein Urteil abgibt. Dagegen hilft Befreiung, keine Belehrung.
-
-> **14.10.** — [[Denker/Wolfgang Huber — Bonhoeffer und die Wahrheit|Wolfgang Huber — Bonhoeffer und die Wahrheit]]
->
-> Wer im Verhör lügen muss, um Freunde zu schützen, fragt neu, was Wahrheit ist. Bonhoeffers Antwort aus Tegel: Sie lebt zwischen Menschen, nicht im Satz allein.
-
-> **14.10.** — [[Denker/Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft|Philipp Felsch und Eva Geulen — Arendt und die Ursprünge totaler Herrschaft]]
->
-> Ein Tisch, an dem alle sitzen und jeder anderes sieht: Arendts Begriff des Politischen, und was geschieht, wenn Masse, Ideologie und Terror ihn zerstören. Dresden 2018.
-
-> → *5 weitere in* [[Denker]]
-
-### Panorama
-
-> **15.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **15.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
->
-> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
-
-> **15.10.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
->
-> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Vier offene Fragen zu Redaktionen, Besitzern, Plattformen und Staaten, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
-
-> **15.10.** — [[Panorama/Warum waehlen Menschen Autoritaere|Warum wählen Menschen Autoritäre?]]
->
-> Aus Not oder aus Überzeugung, aus Kränkung oder aus Kalkül? Sechs offene Fragen dazu, warum Menschen autoritär wählen, von Weimar bis Schwerin, und die Stimmen, die sich an ihnen reiben.
-
-> **15.10.** — [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
->
-> Wer entscheidet — Gewählte, Geloste oder alle? Und was hält die Mehrheit in Schranken? Sieben offene Fragen zur Bauweise der Demokratie, und die Stimmen, die sich an ihnen reiben.
-
-> → *10 weitere in* [[Panorama]]
 
 ### Gedanken
 

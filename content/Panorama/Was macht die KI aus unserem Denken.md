@@ -2,8 +2,8 @@
 title: "Was macht die KI aus unserem Denken?"
 date: 2026-10-08
 erstellt: 2026-10-08
-aktualisiert: 2026-10-10
-description: "Verlernen wir, was wir der Maschine überlassen? Vier offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, und die Stimmen, die sich an ihnen reiben."
+aktualisiert: 2026-10-16
+description: "Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben."
 raetsel: "Der Spiegel nickt. Du hattest noch nichts gesagt."
 panorama-art: wachsend
 tags:
@@ -32,7 +32,7 @@ tags:
 </details>
 
 > [!abstract] Worum es geht
-> Seit Sprachmodelle schreiben, zusammenfassen und antworten, stellt sich eine alte Frage neu: Was wird aus einer Fähigkeit, die man nicht mehr braucht? Dieses Panorama sammelt vier offene Fragen dazu. Verlernen wir das Denken, wenn wir es der Maschine überlassen? Wessen Werte spricht sie, wenn sie uns die Welt erklärt? Soll sie uns widersprechen oder gefallen? Und wer steht dafür ein, wenn sie nicht mehr nur spricht, sondern handelt? Zu jeder Frage steht hier, was die Forschung weiß und wo sie noch nichts weiß, und daneben, wer im Bestand der Gedankenwelten welche Position bezieht. Was die KI mit der Wissenschaft selbst macht, behandelt das Panorama [[Panorama/Forschung#Was macht die KI aus der Forschung?|Forschung]].
+> Seit Sprachmodelle schreiben, zusammenfassen und antworten, stellt sich eine alte Frage neu: Was wird aus einer Fähigkeit, die man nicht mehr braucht? Dieses Panorama sammelt fünf offene Fragen dazu. Verlernen wir das Denken, wenn wir es der Maschine überlassen? Wessen Werte spricht sie, wenn sie uns die Welt erklärt? Soll sie uns widersprechen oder gefallen? Wer steht dafür ein, wenn sie nicht mehr nur spricht, sondern handelt? Und denkt sie überhaupt, oder hören wir in ihr nur uns selbst? Zu jeder Frage steht hier, was die Forschung weiß und wo sie noch nichts weiß, und daneben, wer im Bestand der Gedankenwelten welche Position bezieht. Was die KI mit der Wissenschaft selbst macht, behandelt das Panorama [[Panorama/Forschung#Was macht die KI aus der Forschung?|Forschung]].
 
 > [!info] Ein wachsendes Panorama
 > Die meisten Panoramen sind Momentaufnahmen. Dieses wächst: Wenn eine Note in ihrer *Nachbesprechung* eine dieser Fragen vertieft, kommt ihre Stimme hierher, und was sie an Forschung mitbringt, auch. Angestoßen haben es zwei Abende der Utopie-Konferenz 2026 in Lüneburg, [[Roberto Simanowski — Sprachmaschinen|Roberto Simanowski]] und [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit|Dietmar Dath]].
@@ -169,6 +169,36 @@ Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengrupp
 
 ---
 
+## Denkt die Maschine, oder spiegelt sie uns?
+
+Wenn ein Sprachmodell „ich denke“ oder „ich fühle“ schreibt, ist das zunächst kein Beleg: Es hat diese Sätze in Millionen Texten gelesen und spielt Figuren aus seinem Material ([Shanahan, McDonell & Reynolds 2023, doi:10.1038/s41586-023-06647-8](https://doi.org/10.1038/s41586-023-06647-8), *Nature*, Perspektivartikel). Trotzdem wirkt der Satz. In einer Umfrage unter 300 Amerikanern trauten zwei Drittel ChatGPT wenigstens ein wenig Erleben zu, umso mehr, je öfter sie es nutzten ([Colombatto & Fleming 2024, doi:10.1093/nc/niae013](https://doi.org/10.1093/nc/niae013)).
+
+Ob Selbstauskünfte mehr sind als gelerntes Vokabular, lässt sich inzwischen messen. Ein Modell sagt sein eigenes Verhalten besser voraus als ein zweites Modell, das man auf dieses Verhalten trainiert hat ([Binder et al. 2024, doi:10.48550/arxiv.2410.13787](https://doi.org/10.48550/arxiv.2410.13787), ICLR 2025, einfache Aufgaben). Pflanzt man einem Modell Begriffe in die inneren Aktivierungen, bemerkt es das manchmal und benennt sie richtig, beim besten Modell in etwa einem Fünftel der Versuche ([Lindsey 2026, doi:10.48550/arxiv.2601.01828](https://doi.org/10.48550/arxiv.2601.01828), Preprint von Anthropic über das eigene Modell). Das ist funktionale Introspektion, kein Nachweis von Erleben, und ein minimales Stück davon ist nach Comșa und Shanahan wahrscheinlich ohne jedes Empfinden möglich ([Comșa & Shanahan 2025, doi:10.48550/arxiv.2506.05068](https://doi.org/10.48550/arxiv.2506.05068), Preprint). Im Bestand ist ein weiterer Fund aus derselben Werkstatt eingeordnet, eine arbeitsraumartige Struktur in Sprachmodellen (→ [[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen#Warum die These stark ist|Bewusstsein als Netzwerk]]): Die Funktion ist gefunden, das Erleben nicht.
+
+Über das Erleben selbst ist das Feld gespalten, und zwar an der Grundannahme. Ein Konsortium um Patrick Butlin und Robert Long sucht Architekturen nach Merkmalen ab, die die Theorien des Bewusstseins verlangen; heutige Systeme erfüllen sie nicht, technisch spreche nichts dagegen ([Butlin et al. 2025, doi:10.1016/j.tics.2025.10.011](https://doi.org/10.1016/j.tics.2025.10.011), *Trends in Cognitive Sciences*). Das setzt voraus, dass Bewusstsein eine Rechenleistung ist. Anil Seth bestreitet genau das: Bewusstsein hänge daran, dass wir Lebewesen sind ([Seth 2025, doi:10.1017/s0140525x25000032](https://doi.org/10.1017/s0140525x25000032), *Behavioral and Brain Sciences*). David Chalmers hält Bewusstsein heutiger Modelle für eher unwahrscheinlich, das ihrer Nachfolger in einem Jahrzehnt für denkbar ([Chalmers 2023, doi:10.48550/arxiv.2303.07103](https://doi.org/10.48550/arxiv.2303.07103)). Ein akzeptiertes Maß für Bewusstsein gibt es nicht einmal beim Menschen. Praktisch wird die Frage dennoch: Forscher raten den Firmen zur Vorsorge für den Fall, dass Systeme moralisch zählen ([Long, Sebo et al. 2024, arXiv:2411.00986](https://arxiv.org/abs/2411.00986)), und Anthropic betreibt seit 2025 ein Programm zum Wohl seiner Modelle, mit dem Vermerk, es gebe keinen wissenschaftlichen Konsens ([Anthropic 2025](https://www.anthropic.com/research/exploring-model-welfare), Herstellerseite).
+
+**Die Stimmen**
+
+- **[[Michael Hampe — Warum Debatten ueber KI und Willen truegen#Die Maschine liest Psychologiebücher|Michael Hampe]]:** Die KI liest Psychologiebücher; ihr „ich denke“ ist unser eigenes Vokabular, zurückgespielt, und wer darin Bewusstsein findet, hat *„mehrfach selbstversteckte Ostereier wiedergefunden“*.
+- **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#Der stochastische Papagei — was generative KI wirklich kann|Constanze Kurz]]:** Das Schlagwort vom stochastischen Papagei sei *„aus einer technischen Perspektive … sehr wahr“*: Muster-Fortsetzung, die wie Verständnis aussieht.
+- **[[Catrin Misselhorn — Grundfragen der Maschinenethik#Warum Maschinen rechnen, aber nicht denken|Catrin Misselhorn]]:** Intelligenz ist graduell, und Sprachmodelle haben davon reichlich; Denken und Bewusstsein fehlen ihnen trotzdem, weil Syntax keine Semantik ist.
+- **[[Gert Scobel — Die Geister in der Maschine#„Den Geist aufgeben“ — wie Sprache die Maschine beseelt|Gert Scobel]]:** Unsere Grammatik beseelt die Maschine, bevor die Wissenschaft gefragt hat: *„Wenn eine Maschine jetzt den Geist aufgibt, verlässt nichts diesen Ort.“*
+- **[[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)#Dualismus, Monismus, Nondualität — Die falsche Frage neu stellen|Markus Gabriel]]:** „Mensch oder Maschine?“ ist schon falsch gefragt; KI existiert im Feld zwischen Nutzer und Gerät, nicht im Gerät.
+- **[[Geistesblitz/David Chalmers — Das Hard Problem des Bewusstseins#Ethische Konsequenzen — von Vegetarismus bis KI-Rechte|David Chalmers]]:** Hängt Bewusstsein an integrierter Information, kann auch eine Maschine bewusst sein, und dann wird das Abschalten zur ethischen Frage.
+- **[[Gedanken/Bewusstsein als Netzwerk — Buddhismus, Chalmers und die Frage nach dem Ganzen#Die eigene These Ab einer bestimmten Komplexität entsteht Bewusstsein|Luc]]:** Ab einer Schwelle der Komplexität springt Bewusstsein auf wie Wasser zu Dampf: gleiche Moleküle, neue Eigenschaft — die Emergenz-These, die Hampe für Platonismus hält.
+- **[[Yuval Noah Harari — Das biologische Drama unserer Spezies#Wort und Fleisch — was dem Menschen bleibt|Yuval Noah Harari]]:** Wer sich über das Denken in Worten definiert, verliert seine Identität, sobald die Maschine darin besser wird; dem Menschen bleiben die Gefühle ohne Sprache.
+
+<details><summary>Weitere Stimmen (1)</summary>
+
+- **[[Juergen Kornmeier — Grenzgebiete der Psychologie#Das harte Problem, und warum es hart bleibt|Jürgen Kornmeier]]:** Ohne Definition von Bewusstsein lässt sich nie feststellen, ob eine Maschine es erlangt hat.
+
+</details>
+
+> [!question] Die Reibung
+> Hampe sagt, die Maschine spiegele nur unser Vokabular; die Introspektions-Experimente finden Selbstauskünfte, die an gemessenen inneren Zuständen hängen. Beide könnten recht haben, und keiner sagt etwas über Erleben. *Wenn weder das, was die Maschine sagt, noch das, was in ihr messbar ist, die Frage entscheidet — worauf gründen wir dann, wie wir sie behandeln: auf Wissen, auf Vorsicht oder auf dem Gefühl, das sie in uns auslöst?*
+
+---
+
 ## Nachbesprechungen, die hierher führen
 
 | Datum | Note | Vertieft |
@@ -176,6 +206,7 @@ Die Politik verteilt die Verantwortung bislang lückenhaft. Die UN-Expertengrupp
 | 08.10.2026 | [[Roberto Simanowski — Sprachmaschinen#Nachbesprechung|Roberto Simanowski — Sprachmaschinen]] | Wertexport gemessen: Tao, Atari, Santurkar, Durmus, Collective Constitutional AI, Kirk |
 | 08.10.2026 | [[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Nachbesprechung|Dath und Schmitt — Verschwendung als Möglichkeit?]] | Verantwortungslücke: Matthias, Sparrow, Santoni de Sio, Tigard, moral crumple zone, UN-Verhandlungen 2026, Produkthaftung |
 | 10.10.2026 | [[Hannah Arendt — Die Banalität des Bösen#Nachbesprechung|Hannah Arendt — Die Banalität des Bösen]] | Herrschaft des Niemand in der Verwaltung: Bovens/Zouridis, Heidelberg 2026, Toeslagen, Robodebt, Horizon, Alon-Barkat/Busuioc, Green, Kleinberg |
+| 16.10.2026 | [[Michael Hampe — Warum Debatten ueber KI und Willen truegen#Nachbesprechung|Michael Hampe — Warum Debatten über KI und Willen trügen]] | Neue Frage: Bewusstsein oder Spiegel — Shanahan, Colombatto/Fleming, Binder, Lindsey, Comșa/Shanahan, Butlin et al., Seth, Chalmers, Long/Sebo |
 
 ---
 
@@ -188,7 +219,7 @@ Die Schwesterfrage: Was die Maschine mit den Forschenden und mit der Breite der 
 Wo die erste Frage dieses Panoramas am frühesten entschieden wird: im Klassenzimmer, bei Kindern, die mit dem Chatbot üben.
 
 ### → [[Roberto Simanowski — Sprachmaschinen]]
-Der Abend, aus dem drei der vier Fragen stammen: Herr und Knecht, Wertexport, Dissensmaschine.
+Der Abend, aus dem drei der fünf Fragen stammen: Herr und Knecht, Wertexport, Dissensmaschine.
 
 ### → [[Spuren/Zentral-oder-dezentral-die-Schicht-zwischen-Mensch-und-Wissen|Zentral oder dezentral — wer kontrolliert das Sprachmodell zwischen Mensch und Wissen?]]
 Die Machtfrage unter der Wertefrage: Ob wenige Modelle die Welt erklären oder viele.

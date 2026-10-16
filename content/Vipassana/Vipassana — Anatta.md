@@ -103,3 +103,8 @@ Adriaan übersetzt Anattā in Retreatsprache: "Ich bin wütend" vs. "Wut wird wa
 - [[Walther Ziegler — Buddha in 60 Minuten]] — Buddhas Lehre vom Bedingten Entstehen als philosophische Grundlage der Anattā-Erfahrung: Wenn das synthetisierende Ichbewusstsein die Bedingung des Begehrens ist, muss es überschritten werden. Ziegler zeigt die erkenntnistheoretische Kausalkette, die Goenka als Praxis lehrt
 - [[Geistesblitz/Barbara Tversky — Denken beginnt nicht im Kopf]] — Tversky beschreibt den Körper als Anker des Bewusstseins (Deprivationsexperiment: ohne Körpersignale wandert der Geist). Goenka kehrt das um: Was wir für den Anker halten, ist selbst vergänglich — Anattā. Kein festes Ich, nur Geist-Materie im Fluss. Komplementäre Beobachtungen desselben Körper-Geist-Nexus — empirisch vs. kontemplativen Ursprungs.
 - [[Markus Gabriel — KI als Resonanzfeld und Mu (scobel)]] — Gabriel überträgt Anattā-Logik auf KI: KI existiert nicht *im* Gerät, sondern im Beziehungsraum zwischen Mensch und Gerät. Das ist Anattā auf technologischer Ebene — kein festes Subjekt, sondern ein Prozessphänomen. Gabriels Mu (buddhistisches Non-Sein als wechselseitige Abhängigkeit) ist die Mahāyāna-Entsprechung zu Theravāda-Anattā.
+
+### → [[Michael Hampe — Warum Debatten ueber KI und Willen truegen]]
+
+Hampe liest den Buddhismus als Dekonstruktion gegen die Verdinglichung des psychischen Apparates und das Ich als Selbstbeschreibung, die uns erst zu dem macht, was sie beschreibt. Er warnt aber, Meditation liefere nicht von selbst Evidenz darüber, was Bewusstsein ist. Damit fragt er nach, wo Goenka sagt: Erfahre es.
+

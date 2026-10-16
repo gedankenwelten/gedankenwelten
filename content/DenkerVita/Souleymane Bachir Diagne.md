@@ -125,6 +125,7 @@ Kunst, um Dekolonisierung des Wissens und um die Rolle des Islam in der Moderne 
 - [[DenkerVita/Felwine Sarr|Felwine Sarr]] — senegalesischer Nächster aus dem Milieu der Ateliers de la Pensée; endogenes Denken plus Gastfreundschaft der Übersetzung.
 - [[DenkerVita/Achille Mbembe|Achille Mbembe]] — afrikanischer Universalismus der Verflechtung; Diagnes laterales Universales und Mbembes Erdgemeinschaft suchen dasselbe Ganze ohne Thron.
 - [[DenkerVita/Markus Gabriel|Markus Gabriel]] — moralischer Universalismus „von unten" als ethische Parallele und produktiver Widerspruch (Realismus vs. Übersetzungs-Prozess).
+- [[DenkerVita/Michael Hampe|Michael Hampe]] — prüft den freien Willen am klassischen Chinesisch, wie Kagame das Cogito am Kinyarwanda; skeptischer gegenüber dem Universalen, das aus der Übersetzung entsteht.
 
 ## Gedankenwelten-Notes
 
