@@ -226,6 +226,10 @@ Mau zeigt das Paradox der meritokratischen Selbstbindung: Die Arbeiterklasse ver
 
 Von unten und von oben auf denselben Nährboden: Wo Hochschild die emotionale Chemie der Scham freilegt, datiert Clüver Ashbrook die Strukturdaten derselben Verzweiflungswahl — Finanzkrise, Opioidkrise, der ausgeträumte amerikanische Traum.
 
+### → [[Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]]
+
+Der Medienforscher Uwe Krüger führt Trumps Sieg 2016 auch darauf zurück, dass Journalisten die „Flyover States“ nur überflogen; Hochschilds Zweisprachigkeit ist die Gegenprobe aus der Feldforschung.
+
 ---
 
 ### → [[Denker/Lukas Baerfuss — Die Fesseln der eigenen Herkunft|Lukas Bärfuss — Die Fesseln der eigenen Herkunft]]

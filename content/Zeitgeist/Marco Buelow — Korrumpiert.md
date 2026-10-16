@@ -325,6 +325,10 @@ Bülow gehört als Stimme in die Frage, wer entscheiden soll: der Insider, der d
 
 Die Drehtür, die Bülow beschreibt, dreht sich dort in die Richtung, die kein Gesetz bremst: Die Karenzzeit gilt nur beim Verlassen des Amtes, nicht beim Wechsel aus dem Energiekonzern ins Ministerium, das ihn regulieren soll.
 
+### → [[Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]]
+
+Uwe Krüger fand dasselbe Muster bei Leitjournalisten in Atlantik-Brücke, Bilderberg und Davos und gibt offen zu, dass sich nicht beweisen lässt, ob das Netz prägt oder nur auswählt; Bülows Erfahrung liefert die Innenansicht dazu.
+
 ---
 
 ## Weiterdenken

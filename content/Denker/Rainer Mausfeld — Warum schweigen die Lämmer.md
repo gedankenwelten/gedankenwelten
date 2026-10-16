@@ -404,6 +404,10 @@ Die empirische Fallstudie zu Mausfelds Meinungskorridor: zwei Jahre US-Gaza-Beri
 
 Uwe Krüger beschreibt denselben Gleichklang ohne Lenker: einen Fischschwarm aus Nachrichtenfaktoren, gemeinsamen Quellen und Elitendiskurs, der nach Köln auch die Richtung wechseln kann.
 
+### → [[Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]]
+
+Uwe Krüger erzählt 2017 selbst, was seine Netzwerkstudie nicht beweisen kann, und wie die Öffentlichkeit sie trotzdem zum Beweis machte (Anstalt, Ulfkotte).
+
 ---
 
 ## Sokrates im Verhör

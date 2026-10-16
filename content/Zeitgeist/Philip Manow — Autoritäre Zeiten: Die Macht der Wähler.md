@@ -341,7 +341,7 @@ Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblö
 
 ### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
 
-Uwe Krüger misst, was Manow als Deutungsklasse beschreibt: Journalisten kommen überproportional aus dem liberal-intellektuellen Milieu, und bei Einwanderung und Auslandseinsätzen liegt der Elitendiskurs weit von der Bevölkerung entfernt.
+Uwe Krüger misst, was Manow als Deutungsklasse beschreibt: Journalisten kommen überproportional aus dem liberal-intellektuellen Milieu, und bei Einwanderung und Auslandseinsätzen liegt der Elitendiskurs weit von der Bevölkerung entfernt. Im Jung-&-Naiv-Gespräch von 2017 nennt Krüger die Milieus, über die Redaktionen hinwegsehen, „virtuelle Flyover States“ → [[Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]].
 
 ---
 

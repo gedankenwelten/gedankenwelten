@@ -103,5 +103,6 @@ Krüger arbeitet als empirischer Medienforscher, steht aber erkennbar in einer h
 ## Gedankenwelten-Notes
 
 - [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]] — der Hamburger Vortrag von 2017, neun Jahre später nachgeprüft
+- [[Uwe Krueger — Netzwerke der Meinungsmacht]] — Jung & Naiv 338 (2017): Netzwerke, Sozialkapital, die Anstalt und warum sich Einfluss nicht beweisen lässt
 - [[Rainer Mausfeld — Warum schweigen die Lämmer]] — erwähnt *Meinungsmacht* im Faktencheck zur Medienkritik
 - [[Panorama/Wer macht die Meinung]] — Krügers Befund als eine Stimme zur Frage, woher Einseitigkeit kommt

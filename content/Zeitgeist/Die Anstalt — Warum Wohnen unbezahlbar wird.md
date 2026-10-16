@@ -306,6 +306,10 @@ Linartas' Unterscheidung von Einkommen und Vermögen legt offen, was diese Note 
 
 Der positive Pol dieser Note — Wiener Gemeindebau und gemeinnützige Bauvereinigungen — ist genau das, was dieses Panorama als Prinzip beschreibt: Eigentum in gemeinwohlgebundener Hand, wo keine Rendite abfließt, weil es keine Aktionäre gibt, an die sie abfließen könnte. Das entzieht der Debatte ihre falsche Alternative. Die Frage ist, wem der Bestand gehört. Wien beruht auf einer Rechtsform, die es auch hier gibt — sie wird bloß nicht gebaut.
 
+### → [[Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]]
+
+Die Anstalt-Nummer zu Uwe Krügers *Meinungsmacht* (2014) ging bis zum Bundesgerichtshof, der die Kernbotschaft für wahr hielt, auch wenn nicht jede Linie stimmte: dieselbe Handschrift der Zuspitzung, hier mit Urteil.
+
 ---
 
 ## Weiterdenken

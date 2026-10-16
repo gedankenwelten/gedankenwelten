@@ -363,6 +363,10 @@ Krauthausen fordert die Quote, „kein besseres Mittel, um Macht zu teilen“; E
 
 Bei der Elite sind sich die beiden Kontrahenten einig: Wer 1990 kam, brachte sein Netzwerk mit, und das Prinzip der Ähnlichkeit hielt die Ostdeutschen draußen, bei Oschmann als Kränkung erzählt, bei Kowalczuk als Strukturfehler, den er damals selbst unterschätzt hat.
 
+### → [[Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]]
+
+Uwe Krüger beschreibt dasselbe Prinzip für Redaktionen: Das liberal-intellektuelle Milieu ist überrepräsentiert, man sucht sich Leute, „die zu uns passen“, und ganze Milieus fallen aus dem Blick.
+
 ---
 
 ## Weiterdenken

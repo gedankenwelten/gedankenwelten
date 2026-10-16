@@ -5196,6 +5196,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 |---|---|
 | **Vortrag / Video** | [Aufgaben einer kritischen Journalistik — Dr. Uwe Krüger](https://www.youtube.com/watch?v=9Cnk7xj_4u0) (Ringvorlesung „Lügenpresse“, Universität Hamburg, Januar 2017, TIDE.tv) |
 | **Gespräch** | [Jung & Naiv, Folge 338](https://www.youtube.com/watch?v=GWJ802aghzY) (November 2017) |
+| **Notiz (Gespräch)** | [[Zeitgeist/Uwe Krueger — Netzwerke der Meinungsmacht]] |
 | **Kontroverse** | [Neuberger: Meinungsmache statt Macht](https://de.ejo-online.eu/13262/ethik-qualitat/meinungsmache-statt-macht) · [Krügers Antwort](https://de.ejo-online.eu/qualitaet-ethik/13256) |
 | **Notiz** | [[Zeitgeist/Uwe Krueger — Mainstream und kritische Journalistik]] |
 | **DenkerVita** | [[DenkerVita/Uwe Krüger]] |

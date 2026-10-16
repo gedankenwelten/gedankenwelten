@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Fischschwarm braucht keinen Dirigenten: Uwe Krüger zeigt 2017, wie Leitmedien gleich klingen, ohne dass jemand lenkt — und neun Jahre später wird nachgeprüft, was davon trägt.
 
+> **16.10.** — [[Zeitgeist/Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]]
+>
+> Ein Chefredakteur im Vorstand der Atlantik-Brücke, ein Foto, aus dem er herausgeschnitten wurde: Uwe Krüger über Nähe zwischen Journalisten und Eliten, und warum sich ihr Einfluss nicht beweisen lässt.
+
 > **15.10.** — [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]]
 >
 > Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter in der Ukraine, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
 
-> **12.10.** — [[Zeitgeist/Bartunek — Tillschneider vor der Synagoge in Halle|Tillschneider vor der Synagoge in Halle]]
->
-> Wer einen Anschlag zum Amoklauf erklärt, muss den Täter nicht verstehen — und hat beim Gedenken trotzdem einen Platz in der ersten Reihe verlangt.
-
-> → *14 weitere in* [[Zeitgeist]]
+> → *15 weitere in* [[Zeitgeist]]
 
 ### Denker
 

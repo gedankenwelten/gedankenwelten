@@ -484,6 +484,10 @@ Warum es nicht die anderthalb Zimmer wurden, erzählt die Ko-Vorsitzende der Gas
 
 Was Göpel und Marinić Vertrauen nennen, heißt bei Arendt „Wagnis der Öffentlichkeit“: ein Vertrauen ins Menschliche, das den Verrat der eigenen Freunde schon kennt.
 
+### → [[Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]]
+
+Uwe Krüger und Juliane Schreiber streiten 2017 über dieselbe Frage: Kann man ein unberechtigtes Gefühl mit Argumenten ausräumen, oder gilt „Angst ist Angst“?
+
 ---
 
 ## Weiterdenken
