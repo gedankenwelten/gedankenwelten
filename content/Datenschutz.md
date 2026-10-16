@@ -65,9 +65,9 @@ Diese Website verwendet **keine Cookies**.
 
 Kein Cookie, kein Profil, keine Weitergabe an Dritte. Die Nachrichten liegen auf unserer eigenen Infrastruktur. Rechtsgrundlage ist die mit dem Absenden erteilte Einwilligung (Art. 6 Abs. 1 lit. a DSGVO); sie kann jederzeit widerrufen werden. Wer seine Nachricht gelöscht haben möchte, schreibt an [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org).
 
-### Verbessern
+### Anfassen erlaubt
 
-Unter jeder Note (außer den persönlichen Gedanken) steht der Satz **„Jeden Abschnitt kannst du verbessern"**. Wer ihn nutzt, schlägt für einen Abschnitt eine eigene Fassung vor. Gespeichert werden:
+Unter jeder Note (außer den persönlichen Gedanken) steht der Satz **„Anfassen erlaubt: Jeden Abschnitt kannst du neu fassen"**. Wer ihn nutzt, schlägt für einen Abschnitt eine eigene Fassung vor. Gespeichert werden:
 
 | Datenkategorie | Verarbeitung |
 |---|---|
