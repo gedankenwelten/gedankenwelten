@@ -2,7 +2,7 @@
 title: "Wer macht die Meinung?"
 date: 2026-10-15
 erstellt: 2026-10-15
-aktualisiert: 2026-10-15
+aktualisiert: 2026-10-16
 description: "Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Vier offene Fragen zu Redaktionen, Besitzern, Plattformen und Staaten, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht."
 raetsel: "Das Band läuft aus der Presse in tausend Hände. Wo fängt der Satz an?"
 panorama-art: wachsend
@@ -44,6 +44,8 @@ Die Forschung zur Nachrichtenproduktion beschreibt Journalismus als Ergebnis vie
 
 Aus dem Material ergibt sich, dass die Frage selbst eine falsche Alternative stellt. Routine und Ökonomie erklären vieles ohne Absicht. Besitzer können die Routine an einzelnen Stellen biegen. Und was beim Publikum ankommt, ist meist weniger eine neue Meinung als ein Rahmen: welche Themen gelten, welche Wörter, welche Gäste.
 
+Uwe Krüger hat 2017 dafür ein Bild gefunden, das beide Seiten der Frage hält: einen Fischschwarm, der gleichförmig schwimmt, ohne dass ihn jemand dirigiert, und der nach der Kölner Silvesternacht binnen Wochen die Richtung wechselte ([[Uwe Krueger — Mainstream und kritische Journalistik#Refugees Welcome und die Wende nach Köln|Krüger, Hamburg 2017]]). Er hielt einen Mainstream auch für nützlich, wo er etwas endlich bearbeitbar macht, wie den Klimawandel. Daraus lässt sich eine Probe gewinnen: Das Ideal darf Mainstream sein, solange man es noch anzweifeln darf, der einzelne Einsatz nie. Für die Ukraine 2022 fanden Maurer, Haßler und Jost beides: Einigkeit über die Tatsache des Angriffs, und bei der Frage nach Waffen oder Verhandlungen einen Schwarm, der der Regierung vorausschwamm statt ihr zu folgen ([doi:10.31205/UA.289.01](https://doi.org/10.31205/UA.289.01)).
+
 **Die Stimmen**
 
 - **[[Rainer Mausfeld — Warum schweigen die Lämmer#Wo trägt die Medienkritik?|Rainer Mausfeld]]:** Medien sind Teil des Meinungsmanagements, das die Wut auf Ablenkziele lenkt; seine Leitfrage: „Wer will mich eigentlich mit welchem Zweck zu was verpflichten?“
@@ -53,10 +55,11 @@ Aus dem Material ergibt sich, dass die Frage selbst eine falsche Alternative ste
 - **[[Der leere Turm - wie Macht herrenlos wird#Das Mastermind-Missverständnis — eine andere Sicht im Raum der Möglichkeiten|Der leere Turm]]:** Macht ist eher ein Symptom unseres gemeinsamen Handelns als das Werk von Drahtziehern; der Glaube an Drahtzieher entsorgt den eigenen Anteil.
 - **[[Torsten Heinrich — Was die Tagesschau verschweigt#Neutralität vs. Objektivität — Warum echte Neutralität eine Lüge ist|Torsten Heinrich]]:** „Wirkliche Neutralität gibt es nur bei Dingen, die dich überhaupt nicht interessieren“; die Wortwahl verrät die Position, also soll man sie offenlegen.
 - **[[Staiy — News Leipzig Medienschweigen und Rechte Mediabubble (10.05.2026)#Der Mechanismus Nachrichtenfaktoren als Teufelskreis|Staiy]]:** Verzerrung entsteht aus ökonomischem Druck, nicht aus böser Absicht, und gerade das macht sie schwer zu durchbrechen.
+- **[[Uwe Krueger — Mainstream und kritische Journalistik#Mainstream ohne Verschwörung|Uwe Krüger]]:** Gleichklang braucht keinen Dirigenten, nur dieselben Nachrichtenfaktoren, Agenturen und Eliten als Quellen; gefährlich wird er, wo die Debatte der Eliten Argumente auslässt, die in der Bevölkerung längst da sind.
+
+<details><summary>Weitere Stimmen (5)</summary>
+
 - **[[Holy Koolaid — Amerikanische Propaganda 7 Formen#Propaganda von innen — ein Amerikaner sieht hin|Holy Koolaid]]:** Die wirksamste Propaganda bemerkt man nicht; sie steckt in Liedern, Schulbüchern und Gelöbnissen, „we think that propaganda is something that happens in North Korea“.
-
-<details><summary>Weitere Stimmen (4)</summary>
-
 - **[[scobel — Luhmann Abklaerung der Aufklaerung#Die Überforderungsmaschine|Niklas Luhmann]]:** Eine Öffentlichkeit, die nur noch entlarvt, wird zur Dauerentlarvungsmaschine; er rät zur Abgeklärtheit.
 - **[[Walther Ziegler — Adorno in 60 Minuten#Kulturindustrie — Lachen als Betrug am Glück|Theodor W. Adorno]]:** Die Kulturindustrie gleicht den Geschmack aus Kassenlogik an, Struktur ohne Verschwörer, aber mit Folgen.
 - **[[Walther Ziegler — Heidegger in 60 Minuten#Das Man — Die Diktatur des Anonymen|Martin Heidegger]]:** „Das Man“ urteilt, wie man urteilt; die Meinung hat keinen Urheber.
@@ -145,8 +148,9 @@ Dass sich jemand von den Medien benachteiligt fühlt, beweist allein noch nichts
 - **[[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren#Keine Korrektur — und politische Konsequenzen|Topfvollgold zu BILD und NIUS]]:** BILD korrigiert nach fast acht Tagen, und die Korrektur geht nicht viral; NIUS korrigiert gar nicht.
 - **[[Poerksen und Goepel — Debatte neu denken#Medienbildung und öffentlich-rechtlicher Rundfunk|Bernhard Pörksen]]:** Engagierte Objektivität statt Beliebigkeit, und Medienbildung nach finnischem Vorbild.
 
-<details><summary>Weitere Stimmen (3)</summary>
+<details><summary>Weitere Stimmen (4)</summary>
 
+- **[[Uwe Krueger — Mainstream und kritische Journalistik#Sachverhalt oder Deutung was die Kritik von 2014 über 2022 sagt|Uwe Krüger, neun Jahre später]]:** Seine Kritik an den Deutungen von 2014 hat Rückhalt bekommen, seine Sätze über Odessa und die Maidan-Schützen haben die Gerichte nur zum Teil bestätigt; wer daraus 2022 an den Tatsachen zweifelt, hat die Ebene gewechselt.
 - **[[Dobusch und Zaboura — Ganz normale Medien und Faschismus#Der strukturelle Teufelskreis|Leonhard Dobusch und Nadia Zaboura]]:** Rechtsextreme Medien nennen Qualitätsjournalisten „Aktivisten“, und die Angst davor führt zu noch mehr Bewertungsverweigerung.
 - **[[Lars Wienand — Russentrolle und russische Desinformation#Bleibt das Original hängen?|Lars Wienand]]:** Pauschale Warnungen vor Desinformation senken auch das Vertrauen in echte Nachrichten.
 - **[[Der leere Turm - wie Macht herrenlos wird#Das Mastermind-Missverständnis — eine andere Sicht im Raum der Möglichkeiten|Der leere Turm]]:** Der Glaube an Drahtzieher ist psychologisch billiger als die Einsicht, dass niemand am Steuer sitzt.
@@ -163,6 +167,7 @@ Dass sich jemand von den Medien benachteiligt fühlt, beweist allein noch nichts
 | Datum | Note | Vertieft |
 |---|---|---|
 | 15.10.2026 | [[Rainer Mausfeld — Warum schweigen die Lämmer#Nachbesprechung|Rainer Mausfeld — Warum schweigen die Lämmer?]] | Gründungsnote: Wo trägt die Medienkritik? Krüger 2013, Bennett 1990, Hayes & Guardino 2010, Maurer et al. 2021, Fengler et al. 2018, Imhoff & Bruder 2014, Sunstein & Vermeule 2009, Butter 2018, Mainzer Langzeitstudie 2024 · beim Anlegen ergänzt: Reese 2001, DellaVigna & Kaplan 2007, Kalla & Broockman 2018, Guess et al. 2023, Huszár et al. 2022, Medienvielfaltsmonitor 2024, Eady et al. 2023, Peisakhin & Rozenas 2018, Enikolopov et al. 2011, Uscinski et al. 2022, Hansen & Kim 2011, Curry & Stroud 2021, Freitag et al. 2023 |
+| 16.10.2026 | [[Uwe Krueger — Mainstream und kritische Journalistik#Nachbesprechung|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]] | Sachverhalt oder Deutung (Maidan-Urteil 2023, EGMR Odessa 2025, Khan 2022, Fengler et al. 2018, Maurer/Haßler/Jost 2023) → *Wann wird Misstrauen blind?* · Fischschwarm und Klimawandel-Mainstream → *Lenkt jemand, oder lenkt die Routine?* |
 
 ---
 

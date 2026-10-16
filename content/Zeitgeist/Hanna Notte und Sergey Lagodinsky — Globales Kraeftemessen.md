@@ -350,6 +350,10 @@ Das wachsende Panorama, das aus dieser Note entstand: vier offene Fragen — Was
 
 ### → [[DenkerVita/Sergey Lagodinsky|Sergey Lagodinsky — DenkerVita]]
 
+### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
+
+Uwe Krügers Zählung von 2014 kannte nur prowestliche und prorussische O-Töne; die Nachbesprechung dort nimmt Nottes Forderung auf, den Ukrainern einen eigenen Topf zu geben.
+
 ---
 
 ## Weiterdenken

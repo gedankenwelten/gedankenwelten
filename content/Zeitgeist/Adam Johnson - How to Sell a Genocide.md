@@ -251,6 +251,10 @@ Die produktive Gegenthese: Sahebi/Semsrott erklären Medien-Bias über *Eigentum
 
 Die Gegenprobe zur Verkaufslogik des Genozids: zwei Hinterbliebene, die dieselbe Medien-Asymmetrie benennen („what bleeds leads"), aber statt Empörung eine Bewegung mit Termin (2030) dagegensetzen. Wo Johnson die Nachfrage nach dem Schatten seziert, modellieren sie das Angebot an Gleichheit.
 
+### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
+
+Krüger zählte 2014 die O-Töne zum Maidan in Tagesschau und heute nach derselben Methode, aber nur in zwei Töpfen, prowestlich und prorussisch, sodass die Ukrainer selbst darin genauso fehlen wie hier die Palästinenser.
+
 ---
 
 ### → [[Jihan Alomar — Gefangen vom Islamischen Staat]]

@@ -1208,3 +1208,6 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 
 ## Michael Hampe
 **Status:** ✓ Vollanalyse → [[DenkerVita/Michael Hampe]]
+
+## Uwe Krüger
+**Status:** ✓ Vollanalyse → [[DenkerVita/Uwe Krüger]]

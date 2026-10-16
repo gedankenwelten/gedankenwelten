@@ -336,6 +336,9 @@ Die Abhilfen ziehen auseinander. Thiele setzt auf Erzählung und Institution —
 
 Dieselbe Diagnose, die umgekehrte Therapie. Püttmann und Thiele sind sich einig, dass die AfD den Verfassungsstaat bekämpft — Thiele hält das Abarbeiten an ihr für kontraproduktiv und setzt auf Leistungsfähigkeit, Püttmann verlangt genau dieses Gegenhalten als „primär nicht-neutrale Positionierung um der Neutralisierung willen".
 
+### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
+
+Uwe Krüger zeigt die mediale Seite desselben Teilhabedefizits: Nach Bennetts Indexing bildeten die Leitmedien im Herbst 2015 den Konsens des Parlaments ab, bis der „Fischschwarm“ nach Köln in die Gegenrichtung kippte.
 
 ---
 

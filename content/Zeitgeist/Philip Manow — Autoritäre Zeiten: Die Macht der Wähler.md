@@ -339,6 +339,10 @@ Manows These, dass Populisten institutionelle Krisen inszenieren, um Wählerblö
 - [[Die Neuen Zwanziger — Rechtes Denken, Herr Hegemon, Let Them Theory]] — Lehnerts „länger arbeiten, weniger Urlaub" illustriert Manows Öffnung/Schließung-Modell konkret
 - [[Clara Mattei — Geschichte der Austeritaetspolitik]] — Mattei erklärt die systematische Entmachtung der Arbeiterklasse durch industrielle Austerität
 
+### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
+
+Uwe Krüger misst, was Manow als Deutungsklasse beschreibt: Journalisten kommen überproportional aus dem liberal-intellektuellen Milieu, und bei Einwanderung und Auslandseinsätzen liegt der Elitendiskurs weit von der Bevölkerung entfernt.
+
 ---
 
 ### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit|Steinke und Marinić — Quo vadis Meinungsfreiheit?]]

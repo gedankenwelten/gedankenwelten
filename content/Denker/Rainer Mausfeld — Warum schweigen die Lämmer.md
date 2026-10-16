@@ -400,6 +400,10 @@ Und die Leser? In der Mainzer Langzeitstudie vertrauten Ende 2024 47 Prozent der
 
 Die empirische Fallstudie zu Mausfelds Meinungskorridor: zwei Jahre US-Gaza-Berichterstattung quantitativ vermessen (Wortfrequenzen, Gästelisten, Quellen-Anonymität). Wo Mausfeld die Technik der Bewusstseinskontrolle beschreibt, zeigt Johnson, dass sie oft keine Steuerung braucht — journalistische *Norm* genügt.
 
+### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
+
+Uwe Krüger beschreibt denselben Gleichklang ohne Lenker: einen Fischschwarm aus Nachrichtenfaktoren, gemeinsamen Quellen und Elitendiskurs, der nach Köln auch die Richtung wechseln kann.
+
 ---
 
 ## Sokrates im Verhör

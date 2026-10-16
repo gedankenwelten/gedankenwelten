@@ -2,7 +2,7 @@
 title: "Wie umgehen mit Russland?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-10-09
+aktualisiert: 2026-10-16
 description: "Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben."
 raetsel: "Zwei Stühle, ein Tisch. Einer ist aufgestanden. Wer klopft zuerst?"
 panorama-art: wachsend
@@ -80,6 +80,8 @@ Russland ist das meistsanktionierte Land der Welt, mit rund 26.600 Einträgen me
 
 Gegen Russland verteuern sie den Krieg, beenden ihn aber nicht. Die EU-Exporte sanktionierter Güter brachen um rund 80 Prozent stärker ein als andere, dieselben Güter gingen dafür um 30 Prozent mehr nach Armenien, Kasachstan und Kirgistan ([Chupilkin, Javorcik & Plekhanov 2026](https://doi.org/10.1016/j.euroecorev.2026.105340), peer-reviewed); besser abgestimmte Exportverbote hätten Russland rund 80 Prozent mehr gekostet ([Hausmann u. a. 2024](https://doi.org/10.1093/epolic/eiad043)). Die Handelseffekte insgesamt sind signifikant, aber „relativ klein“, weil die Handelskosten mit Indien, China und der Türkei zugleich sinken ([Felbermayr u. a. 2025](https://doi.org/10.1111/twec.13732)). Den humanitären Preis kennt man aus ärmeren Ländern: 30 von 31 Studien finden negative Folgen für Einkommen, Armut und Sterblichkeit der Bevölkerung ([Rodríguez 2023](https://doi.org/10.1108/jes-06-2023-0299)). Mehr in der Nachbesprechung [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen#Wirken die Sanktionen|Wirken die Sanktionen?]].
 
+Was an einem Verhandlungstisch nachgegeben würde, wäre ukrainisches Land, und darum gehört auch die Frage hierher, was die Ukrainer selbst tragen wollen. Ende 2025 lehnten 53 Prozent jede Gebietsabtretung ab, 33 Prozent waren für einen Frieden zu manchen Zugeständnissen bereit, ein Einfrieren der Front ohne Anerkennung der Besetzung würden 39 Prozent hinnehmen ([KIIS via Rubryka](https://rubryka.com/en/?p=817054)). Im September 2026 wollten 75 Prozent Verhandlungen, und 69 Prozent würden einen Waffenstillstand entlang der Front mittragen, solange die Besetzung nicht anerkannt wird, offen für Kompromiss, nicht für Kapitulation ([DW, 08.10.2026](https://www.dw.com/de/ukraine-was-aufrufe-nach-gesprächen-mit-russland-bezwecken/a-79582865)). Gefragt wird per Telefon und nur in den Gebieten, die Kiew kontrolliert, und Wahlen ruhen unter Kriegsrecht, was eine Mehrheit mitträgt; die Antwort kommt also durchs Schlüsselloch ([[Uwe Krueger — Mainstream und kritische Journalistik#Wer im eigenen Krieg spricht|Nachbesprechung Krüger]]).
+
 Für die andere Seite der Frage — wann Verhandlungen tragen, wie haltbar Waffenstillstände sind — fehlt dem Bestand die Forschung noch. Sie gehört als Nächstes hierher.
 
 **Die Stimmen**
@@ -91,10 +93,11 @@ Für die andere Seite der Frage — wann Verhandlungen tragen, wie haltbar Waffe
 - **[[WDR Europaforum — Frieden schaffen mit immer mehr Waffen#Der Morgen, an dem die Sirenen gingen|Margarita Šešelgytė]]:** „Der Casus Belli für Russland ist Schwäche“ — Rüstung ist für die Litauerin Deeskalation.
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Nichts ist alternativlos|Mithu Sanyal]]:** Solidarisch sein mit den Menschen statt mit den Regierungen — russische Deserteure aufnehmen, „dann können die weniger kämpfen“, über Schulabschlüsse und Krankenhäuser quer zur Front verhandeln, denn Kriege müssen für beide Seiten gut enden, sonst schwelen sie weiter.
 - **[[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Den Gegner verstehen|Maja Göpel]]:** Mit Claudia Major fragt sie nach dem Punkt, an dem der Gegner aussteigen würde, und findet ihn bei Putin nicht: Nach jedem Anruf aus Berlin, jeder Sitzung des Sicherheitsrats habe er am nächsten Tag härter angegriffen.
+- **[[Uwe Krueger — Mainstream und kritische Journalistik#Der Euromaidan in Tagesschau und heute|Uwe Krüger]]** (2017): In Tagesschau und heute sprachen 2014 prowestliche Stimmen viermal so lang wie prorussische, die Rollen waren „gut gegen böse“ verteilt; die Note fragt nach, wo in diesen beiden Töpfen die Ukrainer selbst blieben.
+
+<details><summary>Weitere Stimmen (12)</summary>
+
 - **[[Torsten Heinrich — Was die Tagesschau verschweigt#„Wären nicht weniger Menschen gestorben" — Die Appeasement-Falle|Torsten Heinrich]]:** Putin zeige „die klassische Krankheit eines Spielers“ — Georgien, Krim, 2022; wer ihn nicht stoppt, bestärkt ihn.
-
-<details><summary>Weitere Stimmen (11)</summary>
-
 - **[[Ulrike Herrmann — Technisch moeglich oekonomisch unbezahlbar#Putin kann nicht aufhören|Ulrike Herrmann]]:** Für Putin ist Frieden teurer als Krieg — Inflation und heimkehrende Soldaten könnten ihn stürzen; ein Verhandlungsangebot trifft auf einen, der „im Kreml als Präsident sterben“ will.
 - **[[Martin Sonneborn — Endloser Krieg#Die Kernthese Krieg als Geschäftsmodell|Martin Sonneborn]]:** „Das Ziel ist ein endloser Krieg, nicht ein erfolgreicher Krieg“ — die Milliarden nähren den Rüstungskomplex; einen Friedensplan legt er nicht vor.
 
@@ -238,6 +241,7 @@ Wie viel Raum die zweite Rolle hat, zeigen Umfragen, die man nicht direkt nebene
 | 04.10.2026 | [[Hanna Notte und Sergey Lagodinsky — Globales Kraeftemessen#Nachbesprechung|Hanna Notte und Sergey Lagodinsky — Globales Kräftemessen]] | Gründungsnote · Wem gehört die sowjetische Dankbarkeit? (Odessa, Perewalne, Afrobarometer, UN-Voten) → *Globaler Süden* · Wirken die Sanktionen? (Pape, GSDB, BOFIT, eingefrorene Vermögen) → *Isolieren oder reden* |
 | 08.10.2026 | [[Mithu Sanyal und Seyda Kurt — Entgegenkommen, wenn es feindlich wird#Nachbesprechung|Sanyal und Kurt — Entgegenkommen, wenn es feindlich wird?]] | Schreckt Stärke ab? → neue Frage · Was macht sicher? → Hybrider Krieg |
 | 09.10.2026 | [[Lars Wienand — Russentrolle und russische Desinformation#Nachbesprechung|Lars Wienand — Привет, Russentrolle!]] | Wer macht den Fake groß? (Tsfati, Lukito, Budak, SDA-Leak/Lund, Jungherr & Rauchfleisch) → *Hybrider Krieg* · Bleibt das Original hängen? (Continued Influence, Implied Truth) → Waise |
+| 16.10.2026 | [[Uwe Krueger — Mainstream und kritische Journalistik#Nachbesprechung|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]] | Wer im eigenen Krieg spricht (Rating 2013, KIIS 2023/2025, Wahlen unter Kriegsrecht, Pleines 2023, Fengler et al. 2018) → *Isolieren oder reden?* |
 
 ---
 

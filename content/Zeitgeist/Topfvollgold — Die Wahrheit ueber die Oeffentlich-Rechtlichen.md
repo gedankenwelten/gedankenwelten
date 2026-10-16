@@ -175,6 +175,10 @@ Dieselbe Institution von innen und von oben. Die Insider hier beschreiben die Sc
 
 Beide Notes enden mit derselben Bewegung: schärfste Kritiker, die die Institution trotzdem verteidigen. Hartmann formuliert den Grund als übertragbares Prinzip und hält Frankreich unter Bolloré daneben, damit sichtbar wird, was das Alternativangebot wäre.
 
+### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
+
+Uwe Krüger beschreibt von außen, was die ÖRR-Insider von innen erleben: Gleichklang ohne Anweisung, aus Routine, Milieu und der Orientierung am Elitendiskurs.
+
 ---
 
 ## Weiterdenken

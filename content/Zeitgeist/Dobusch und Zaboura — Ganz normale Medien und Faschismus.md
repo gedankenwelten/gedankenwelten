@@ -198,6 +198,9 @@ Laschyk zieht aus der Kritik an falscher Balance die offene Parteinahme. Der Fak
 
 Wie ein Wort die Bewertung verschiebt, zeigt die Pressemitteilung zum Halle-Gedenken 2026, die bis heute von „Amoklauf“ spricht — und die der Landtag mit Landeswappen verschickte.
 
+### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
+
+Uwe Krüger kritisiert dieselben Berufsnormen von der anderen Seite her: einen Meinungskorridor, der zu eng geworden ist und nur noch den Elitendiskurs abbildet.
 
 ---
 

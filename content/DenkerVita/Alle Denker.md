@@ -330,6 +330,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Kai Ambos|Kai Ambos]]** — Völker- und Strafrechtler (Uni Göttingen), Richter am Kosovo-Sondertribunal in Den Haag; Standardwerke zum Völkerstrafrecht (*Treatise on International Criminal Law*); These: Nicht das Völkerrecht ist das Problem, sondern seine selektive Durchsetzung — westliche Doppelmoral (*Doppelmoral — Der Westen und die Ukraine*, 2022)
 
+**[[DenkerVita/Uwe Krüger|Uwe Krüger]]** — Journalismusforscher (Uni Leipzig); untersucht, wie in freien Medien Gleichklang entsteht: Elitennähe, Indexing, Milieus der Redaktionen, Medienvertrauen in Sachsen; *Meinungsmacht* (2013), *Mainstream* (2016)
+
 **[[DenkerVita/Kai Michel|Kai Michel]]** — Historiker und Literaturwissenschaftler; mit Carel van Schaik die evolutionäre Bibel-Trilogie (*Tagebuch der Menschheit*, *Wahrheit über Eva*, *Mensch sein*); die drei Naturen des Menschen, Religion als Bewältigungs- und Normalisierungsmaschine, egalitärer Normalzustand des Homo sapiens
 
 **[[DenkerVita/Kalayo|Kalayo]]** — Pseudonymer deutscher Politik-YouTuber (KALAYO OFFICIAL, ~124.000 Abonnenten); deutschsprachige Einordnung der US-Politik mit Fokus auf Epstein-Akten, Trump-Kritik und Elite-Korruption; Empörungsformat mit Clickbait-Titeln, aber ehrlich progressiv; betreibt das Spendenprojekt „KALAYO hilft“ (betterplace.org); Name = Cebuano für „Feuer“

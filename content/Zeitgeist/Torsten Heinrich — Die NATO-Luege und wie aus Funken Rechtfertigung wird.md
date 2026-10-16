@@ -276,6 +276,10 @@ Die Leseanleitung, an der sich Heinrichs Methode messen lässt, mit dem Völkerr
 
 Dieselbe Mechanik, anderer Schauplatz: Wie aus einem Funken eine Rechtfertigung wird, beschreibt Ayalon aus dem Inneren des Apparats — die Regierung brauche den Krieg, um im Amt zu bleiben, und ein gerechter Krieg habe ein Verfallsdatum.
 
+### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
+
+Uwe Krüger nannte 2017 den Machtwechsel in Kiew vorsichtig einen „Umsturz“ und kritisierte die Berichterstattung darüber; die Nachbesprechung dort zieht dieselbe Linie zwischen der Deutung von 2014 und der Tatsache von 2022.
+
 ---
 
 ## Weiterdenken

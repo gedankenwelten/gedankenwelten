@@ -5189,3 +5189,14 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Denker/Wolfgang Huber — Bonhoeffer und die Wahrheit]] |
 | **DenkerVita** | [[DenkerVita/Wolfgang Huber]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Huber_Wahrheit_Bonhoeffer_Transkript.txt` |
+
+## Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Aufgaben einer kritischen Journalistik — Dr. Uwe Krüger](https://www.youtube.com/watch?v=9Cnk7xj_4u0) (Ringvorlesung „Lügenpresse“, Universität Hamburg, Januar 2017, TIDE.tv) |
+| **Gespräch** | [Jung & Naiv, Folge 338](https://www.youtube.com/watch?v=GWJ802aghzY) (November 2017) |
+| **Kontroverse** | [Neuberger: Meinungsmache statt Macht](https://de.ejo-online.eu/13262/ethik-qualitat/meinungsmache-statt-macht) · [Krügers Antwort](https://de.ejo-online.eu/qualitaet-ethik/13256) |
+| **Notiz** | [[Zeitgeist/Uwe Krueger — Mainstream und kritische Journalistik]] |
+| **DenkerVita** | [[DenkerVita/Uwe Krüger]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Krueger_Mainstream_Hamburg_2017_Transkript.txt` (mlx-whisper large-v3-turbo, YouTube hat keine Untertitel) · `Krueger_JungNaiv338_Transkript.txt` |

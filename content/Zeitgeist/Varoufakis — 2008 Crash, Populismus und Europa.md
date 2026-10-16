@@ -250,6 +250,10 @@ Direkteste wirtschaftspolitische Parallelanalyse: Varoufakis prognostiziert 2026
 
 Varoufakis nennt Mainstream-Ökonomie "eine Religion mit Gleichungen" — Höfgen, als MMT-Ökonom, operiert auf demselben Terrain der heterodoxen Gegenöffentlichkeit. Beide kritisieren, dass Frames wie "Schuldenbremse" und "Haushaltsdisziplin" nie selbst zur Debatte stehen.
 
+### → [[Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
+
+Wie die deutschen Leitmedien 2015 über Varoufakis sprachen, ohne ihn sprechen zu lassen, zeigt Uwe Krüger an den Studien von Otto und Köhler und an einer Programmbeschwerde gegen das heute-journal.
+
 ---
 
 ## Weiterdenken
