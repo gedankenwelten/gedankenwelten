@@ -47,7 +47,7 @@ Jede Note folgt einer eigenen Struktur:
 
 <!-- ZEITGEIST:START -->
 
-*343 Notes — automatisch generiert · nach Thema sortiert*
+*344 Notes — automatisch generiert · nach Thema sortiert*
 
 
 ### Demokratie & Faschismus
@@ -211,6 +211,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal|Topfvollgold — NiUS erfindet Islam-Skandal]]
 - [[Zeitgeist/auslandsjournal — Trump allein zu Haus|Trump allein zu Haus — Das One-and-Done-Syndrom]]
 - [[Zeitgeist/Nachtsitzung - Trumps Machtbasis bricht zusammen|Trumps Machtbasis bricht zusammen]]
+- [[Zeitgeist/Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]] — Ein Fischschwarm braucht keinen Dirigenten: Uwe Krüger zeigt 2017, wie Leitmedien gleich klingen, ohne dass jemand lenkt — und neun Jahre später wird nachgeprüft, was davon trägt.
 - [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa|Varoufakis — 2008 Crash, Populismus und Europa]]
 - [[Zeitgeist/Thomas Laschyk — Vermoegenssteuer gegen Fake News|Vermögenssteuer gegen Fake News]] — Reichweite hat einen Preis, und ihn zahlen wenige: Thomas Laschyk führt Desinformation auf große Vermögen zurück — mit gut belegtem Kern und kuratierten Belegen.
 - [[Zeitgeist/Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit|Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]

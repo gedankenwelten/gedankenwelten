@@ -65,6 +65,20 @@ Diese Website verwendet **keine Cookies**.
 
 Kein Cookie, kein Profil, keine Weitergabe an Dritte. Die Nachrichten liegen auf unserer eigenen Infrastruktur. Rechtsgrundlage ist die mit dem Absenden erteilte Einwilligung (Art. 6 Abs. 1 lit. a DSGVO); sie kann jederzeit widerrufen werden. Wer seine Nachricht gelöscht haben möchte, schreibt an [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org).
 
+### Verbessern
+
+Unter jeder Note (außer den persönlichen Gedanken) steht der Satz **„Jeden Abschnitt kannst du verbessern"**. Wer ihn nutzt, schlägt für einen Abschnitt eine eigene Fassung vor. Gespeichert werden:
+
+| Datenkategorie | Verarbeitung |
+|---|---|
+| **Abschnitt im Original und deine Fassung** | Werden gespeichert, um den Vorschlag zu prüfen und gegebenenfalls zu übernehmen. Auch abgelehnte Vorschläge bewahren wir auf, ohne Bezug zu einer Person, um auszuwerten, was an den Notes verbessert wird. |
+| **Begründung oder Quelle** | Nur wenn freiwillig angegeben. |
+| **Seite, Abschnitt, Zeitpunkt** | Werden gespeichert, damit der Vorschlag seiner Stelle zugeordnet werden kann. |
+| **E-Mail-Adresse** | **Nur wenn freiwillig angegeben**, nur um mitzuteilen, ob und warum der Vorschlag übernommen wurde. Sie wird **gelöscht, sobald wir geantwortet haben**. |
+| **IP-Adresse** | **Wird nicht gespeichert.** Wie beim Feedback nur kurz als nicht rückrechenbarer Hashwert im Arbeitsspeicher, gegen Massensendungen. |
+
+Kein Cookie, kein Profil, keine Weitergabe an Dritte. Ob ein Vorschlag übernommen wird, entscheiden wir nach Prüfung; ein Anspruch darauf besteht nicht. Was übernommen wird, steht unter derselben Lizenz wie die Notes (CC BY-SA 4.0). Rechtsgrundlage ist die mit dem Absenden erteilte Einwilligung (Art. 6 Abs. 1 lit. a DSGVO); wer einen Vorschlag gelöscht haben möchte, schreibt an [luc@gedankenwelten.org](mailto:luc@gedankenwelten.org).
+
 ---
 
 ## 3. MCP-Server (mcp.gedankenwelten.org)

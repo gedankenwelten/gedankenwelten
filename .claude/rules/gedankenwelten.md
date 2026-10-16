@@ -240,7 +240,7 @@ Jede Zeitgeist-Note bekommt einen Faktencheck-Abschnitt:
 | `> [!warning] Vereinfacht / Nicht eindeutig belegt` | Claim ist grob richtig, aber verzerrt oder unvollständig |
 | `> [!danger] Falsch` | Claim ist faktisch nicht haltbar |
 
-Klare Ungenauigkeiten werden auch im Fließtext mit `*(Faktencheck: vereinfacht)*` bzw. `*(Faktencheck: falsch)*` markiert.
+Klare Ungenauigkeiten werden auch im Fließtext markiert, und zwar mit dem, **was** nicht stimmt, in wenigen Worten, plus Pfeil zum Faktencheck: `*(das Kiewer Urteil von 2023 sieht vor allem die Berkut → [[#Faktencheck|Faktencheck]])*`. Das Urteilswort („vereinfacht“, „falsch“) gehört in den Callout, wo es begründet wird; im Fließtext klingt es nackt wie ein Augenrollen („jaja, rede du nur“ — Andreas, 16.10.2026). Erzählt der Satz die Korrektur schon selbst, entfällt der Marker. Die ~190 alten Marker `*(Faktencheck: vereinfacht)*` im Bestand bleiben vorerst; umschreiben nur in einem eigenen Durchgang mit Urteil je Stelle.
 
 > [!important] Wissenschaft ist Kern-Säule (→ `haltung.md`, „Die zweite Säule")
 > Ist ein Claim **empirisch** — Zahl, Wirkung, Ursache, Aussage aus Wissenschaft/Medizin/Psychologie —, wird
