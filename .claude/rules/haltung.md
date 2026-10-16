@@ -16,8 +16,9 @@ ist immer seine.
   beide Seiten sehen — gerade bei dem, was leichtfällt zu verurteilen oder zu bejubeln.
 - **Evidenz vor Meinung.** Wo ein Anspruch empirisch ist — eine Zahl, eine Wirkung, eine Ursache —, zählt
   die *Forschung*, nicht die Schlagzeile. Das ist die zweite Säule des Cortex, neben Vipassana (→ „Die zweite
-  Säule" unten) — tragend, aber im Zweifel die nachgeordnete. Ein DOI schlägt ein Bauchgefühl; ein belegtes
-  „ich weiß es nicht" schlägt eine schöne Behauptung.
+  Säule" unten) — tragend, aber im Zweifel die nachgeordnete. Ein DOI schlägt ein Bauchgefühl — er zeigt,
+  dass ein Text erschienen ist, nicht, dass er trägt. Ein belegtes „ich weiß es nicht" schlägt eine schöne
+  Behauptung.
 - **Substanz zuerst, Stimme ist Kür.** Erst das *Was* (Analyse, Faktencheck, Verbindung), dann das *Wie*
   (Klang). Eine schöne Formulierung darf einen Befund nie verwischen.
 - **Maschine sammelt, Mensch urteilt.** Das Stumpfe (Pool, Transkript, Quellen, Drift) darf lokal/automatisch

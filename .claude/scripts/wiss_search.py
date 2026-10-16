@@ -13,6 +13,9 @@ Quellen (alle frei, kein Pflicht-Key):
 
 Das `soliditaet`-Feld ist der Gleichmut-Spiegel der Wissenschaft: es unterscheidet Meta-Analyse von
 Einzelstudie von Preprint. Eine Studie ist ein Datenpunkt, kein Wahrheits-Stempel.
+Seit 16.10.2026 trägt jeder Treffer auch `zurueckgezogen` (Retraction Watch via OpenAlex) und den
+`verlag` — Letzteres als Angabe, ohne Wertung. Ein DOI zeigt, dass ein Text erschienen ist, nicht,
+dass er trägt.
 
 Nur Python-Standardbibliothek (urllib + json) — kein pip, läuft auf Mac UND Pi.
 
@@ -153,6 +156,8 @@ def search_openalex(query, top, year_from):
             "is_oa": (w.get("open_access") or {}).get("is_oa", False),
             "oa_url": (w.get("open_access") or {}).get("oa_url"),
             "soliditaet": _classify(w.get("type"), None, venue),
+            "zurueckgezogen": bool(w.get("is_retracted")),
+            "verlag": src.get("host_organization_name"),
             "source": "openalex",
         })
     return out
@@ -219,6 +224,38 @@ def search_europepmc(query, top, year_from):
             "soliditaet": _classify(r.get("pubType"), None, venue),
             "source": "europepmc",
         })
+    return out
+
+
+def doi_status(dois):
+    """Rücknahme, Verlag und Zeitschrift für viele DOIs — 50 je OpenAlex-Request.
+
+    Liefert {doi: {...}} nur für DOIs, die OpenAlex kennt. `zurueckgezogen` stammt aus den
+    Retraction-Watch-Daten, die OpenAlex (über Crossref) übernimmt. Der Verlag ist eine Angabe,
+    keine Wertung: Wo etwas erschienen ist, sagt nicht, ob es trägt (→ haltung.md).
+    """
+    out = {}
+    dois = [d for d in dict.fromkeys(_norm_doi(d) for d in dois) if d]
+    for i in range(0, len(dois), 50):
+        teil = dois[i:i + 50]
+        qs = {"filter": "doi:" + "|".join(teil), "per_page": "50", "mailto": MAILTO,
+              "select": "doi,display_name,publication_year,is_retracted,primary_location"}
+        try:
+            data = _get("https://api.openalex.org/works?" + urllib.parse.urlencode(qs))
+        except Exception as e:
+            sys.stderr.write(f"[openalex doi_status] {e}\n")
+            continue
+        for w in data.get("results", []):
+            src = (w.get("primary_location") or {}).get("source") or {}
+            out[_norm_doi(w.get("doi"))] = {
+                "titel": w.get("display_name"),
+                "jahr": w.get("publication_year"),
+                "zurueckgezogen": bool(w.get("is_retracted")),
+                "verlag": src.get("host_organization_name"),
+                "zeitschrift": src.get("display_name"),
+            }
+        if i + 50 < len(dois):
+            time.sleep(0.2)   # höflich bleiben; OpenAlex erlaubt 10/s
     return out
 
 
@@ -302,10 +339,18 @@ def main():
         lists.append(search_europepmc(args.query, args.top, args.year_from))
 
     papers = merge(lists)
+    offen = [p["doi"] for p in papers if p.get("doi") and "zurueckgezogen" not in p]
+    if offen:
+        st = doi_status(offen)
+        for p in papers:
+            if p.get("doi") in st and "zurueckgezogen" not in p:
+                p["zurueckgezogen"] = st[p["doi"]]["zurueckgezogen"]
+                p["verlag"] = st[p["doi"]]["verlag"]
     if args.sieb:
         papers = sieb(papers)
     # leichte Sortierung: Solidität, dann Zitationen — aber nur als Vorschlag; das Urteil bleibt bei Claude
-    papers.sort(key=lambda p: (SOLID_RANK.get(p.get("soliditaet"), 1), p.get("citation_count") or 0), reverse=True)
+    papers.sort(key=lambda p: (not p.get("zurueckgezogen"), SOLID_RANK.get(p.get("soliditaet"), 1),
+                               p.get("citation_count") or 0), reverse=True)
 
     if args.json:
         print(json.dumps(papers, ensure_ascii=False, indent=2))
@@ -320,7 +365,10 @@ def main():
         cit = p.get("citation_count") or 0
         auth = ", ".join(p.get("authors") or []) or "—"
         print(f"\n[{i}] {p.get('title')}")
-        print(f"    {auth} · {p.get('year') or '?'} · {p.get('venue') or '—'}")
+        if p.get("zurueckgezogen"):
+            print("    ⚠ ZURÜCKGEZOGEN — kein Beleg mehr, höchstens ein Fall, über den man schreibt")
+        verlag = f" ({p['verlag']})" if p.get("verlag") else ""
+        print(f"    {auth} · {p.get('year') or '?'} · {p.get('venue') or '—'}{verlag}")
         print(f"    {sol} · {cit} Zitationen · {flag} · {p.get('source')}")
         if p.get("s1"):
             j = p["s1"]

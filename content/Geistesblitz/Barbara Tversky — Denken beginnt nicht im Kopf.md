@@ -154,7 +154,7 @@ Das Kleinkind, das mit der Hand wiegt, ob etwas fair ist — noch bevor es das W
 
 > *„We know that babies respond to unjust actions viscerally. So if they watch puppets and one is grabbing something from another, these are kids that don't yet conceptualize in language, they will react viscerally."*
 
-Das ist der stärkste empirische Punkt für Tverskeys Position: Abstrakte Konzepte sind nicht primär sprachliche Konstrukte, sondern haben emotionale und körperliche Wurzeln, aus denen sie sich entwickeln. Gerechtigkeit beginnt nicht als Idee — sie beginnt als Unbehagen.
+Hier setzt Tversky ihren stärksten Punkt: Abstrakte Konzepte sind nicht primär sprachliche Konstrukte, sondern haben emotionale und körperliche Wurzeln, aus denen sie sich entwickeln. Gerechtigkeit beginnt nicht als Idee — sie beginnt als Unbehagen. Empirisch steht gerade dieser Punkt auf dünnem Eis: Die Puppenstudie, auf die er sich stützt, hielt der bisher größten Wiederholung mit 567 Säuglingen nicht stand. *(Faktencheck: vereinfacht)* Der Gedanke kann trotzdem richtig sein — nur bewiesen ist er damit nicht.
 
 > [!question] Weitergedacht
 > Wenn Gerechtigkeit eine visceral-körperliche Basis hat, die universell und vorsprachlich ist — wie erklärt man dann die radikale Verschiedenheit dessen, was verschiedene Kulturen als gerecht empfinden? Ist das universelle Unbehagen (das Baby) dasselbe wie der kulturell geformte Begriff? Oder handelt es sich um zwei verschiedene Phänomene, die nur zufällig denselben Namen tragen?
@@ -188,19 +188,19 @@ Philosophie als Begriffsklärungsapparat vor dem Experiment. Nicht als eigenstä
 
 > [!warning] Vereinfacht — Räumliches Denken und Kortex-Anteil
 > Tversky behauptet, räumliches Denken nehme „mehr als die Hälfte des Kortex" ein. Raumverarbeitung ist tatsächlich außerordentlich weit verteilt — okzipitale, parietale, temporale und frontale Areale enthalten räumlich organisierte Repräsentationen. Neurowissenschaftler bestätigen die qualitative These (Raum dominiert gegenüber Sprache). Den präzisen Zahlenwert „~50%" findet man in der Primärliteratur jedoch nicht — er ist eine rhetorische Verdichtung, kein gemessener Befund.
-> Quelle: [Tversky (2019), Annual Review of Psychology](https://www.annualreviews.org/doi/10.1146/annurev-psych-010418-103417)
+> Quelle: Tversky (2019), *Mind in Motion*, Basic Books — dort steht die Zahl; eine Messung, die sie stützt, fehlt.
 
 > [!success] Bestätigt — Gesten gehen Worten voraus
 > Susan Goldin-Meadow und Kollegen haben in Jahrzehnten Forschung belegt, dass Säuglinge deiktische und symbolische Gesten produzieren, bevor sie dieselben Inhalte sprachlich ausdrücken können. Gestik-Sprach-Kombinationen sagen spätere Wortschatz- und Syntaxentwicklung vorher. Der Befund gilt sprach- und kulturübergreifend und ist vielfach repliziert.
-> Quelle: [Goldin-Meadow (2015), Trends in Cognitive Sciences](https://doi.org/10.1016/j.tics.2015.01.006)
+> Quelle: [Iverson & Goldin-Meadow (2005), Psychological Science](https://doi.org/10.1111/j.0956-7976.2005.01542.x) · [Rowe & Goldin-Meadow (2009), Science](https://doi.org/10.1126/science.1167025)
 
 > [!warning] Vereinfacht — Babies und Ungerechtigkeit
-> Jahr und Institution (Yale, Hamlin/Wynn/Bloom 2007, *Nature*) sind korrekt. Was die Studie zeigt: Säuglinge bevorzugen hilfsbereite Figuren — das ist *soziale Bewertung*, nicht Reaktion auf „Ungerechtigkeit" im Sinne von Fairness. Wichtig: Mehrere Replikationsversuche (Multilab-Studien) konnten den ursprünglich großen Effekt nicht reproduzieren. Die Framing-Beschreibung als „visceral response to injustice" ist eine Überinterpretation des Originaldesigns.
-> Quelle: [Hamlin, Wynn & Bloom (2007), Nature](https://doi.org/10.1038/nature06288) · [Schuwerk et al. (2023), Nature Human Behaviour — Replikationskrise](https://doi.org/10.1038/s41562-022-01473-6)
+> Jahr und Institution (Yale, Hamlin/Wynn/Bloom 2007, *Nature*) sind korrekt. Was die Studie zeigt: Säuglinge bevorzugen hilfsbereite Figuren — das ist *soziale Bewertung*, nicht Reaktion auf „Ungerechtigkeit" im Sinne von Fairness. Wichtig: Die große Multilab-Replikation (ManyBabies 4: 37 Labore, 567 Säuglinge) fand den Effekt nicht. 49 Prozent wählten den Helfer — Zufallsniveau. Die Framing-Beschreibung als „visceral response to injustice" ist eine Überinterpretation des Originaldesigns.
+> Quelle: [Hamlin, Wynn & Bloom (2007), Nature](https://doi.org/10.1038/nature06288) · [Lucca et al. (2025), Developmental Science — ManyBabies 4](https://doi.org/10.1111/desc.13581)
 
 > [!success] Bestätigt — Okzipitallappen bei Blinden übernimmt taktile Verarbeitung
 > Konvergente Befunde aus Neuroimaging, TMS-Studien und Läsionsdaten zeigen eindeutig: Bei früh erblindeten Menschen verarbeitet der visuelle Kortex (V1 und höhere okzipitale Areale) taktile Reize, darunter Braille-Lesen. Die kortikale Reorganisation betrifft auch strukturelle Konnektivität.
-> Quelle: [Sadato et al. (1996), Nature](https://doi.org/10.1038/380526a0) · [Ricciardi & Pietrini (2011), Progress in Brain Research](https://doi.org/10.1016/B978-0-444-53752-2.00010-0)
+> Quelle: [Sadato et al. (1996), Nature](https://doi.org/10.1038/380526a0) · [Ricciardi & Pietrini (2011), Current Opinion in Neurology](https://doi.org/10.1097/WCO.0b013e328348bdbf)
 
 > [!warning] Vereinfacht — Sprache ist linkslateralisiert
 > Die Grundaussage ist korrekt: Bei ca. 94–99% der Rechtshänder ist Sprache linkslateralisiert. Wichtige Einschränkung: Die rechte Hemisphäre ist nicht sprachfrei — sie verarbeitet Prosodie, Pragmatik, figurative Sprache und Satzintegration. „Sprache ist links" ist eine statistische Regularität in einem bilateral verteilten Netzwerk, kein anatomisches Gesetz.
@@ -208,7 +208,7 @@ Philosophie als Begriffsklärungsapparat vor dem Experiment. Nicht als eigenstä
 
 > [!success] Bestätigt — Hirnregion spezifisch für Lesen / Spiegelbildunterscheidung
 > Das Visual Word Form Area (VWFA) im linken ventral-okzipito-temporalen Kortex ist gut dokumentiert. Beim Lesenlernen verliert das Gehirn die angeborene Spiegelbildinvarianz aktiv durch Restrukturierung dieser Region. fMRI, TMS und EEG-Studien bestätigen, dass das VWFA buchstabenspezifische Orientierung kodiert.
-> Quelle: [Dehaene et al. (2010), Science](https://doi.org/10.1126/science.1184473) · [Pegado et al. (2014), PNAS](https://doi.org/10.1073/pnas.1319937111)
+> Quelle: [Dehaene et al. (2010), Science](https://doi.org/10.1126/science.1194140) · [Pegado et al. (2014), PNAS](https://doi.org/10.1073/pnas.1417347111)
 
 ---
 
@@ -220,12 +220,15 @@ Philosophie als Begriffsklärungsapparat vor dem Experiment. Nicht als eigenstä
 - Maurice Merleau-Ponty: *Phänomenologie der Wahrnehmung* (1945) — philosophischer Ursprung der verkörperten Kognition
 - Stanislas Dehaene: *Reading in the Brain* (2009) — VWFA und Spiegelbildunterscheidung
 
-*Studien (geprüft und verifiziert durch Sherlock):*
-- [Goldin-Meadow (2015), Trends in Cognitive Sciences — Gesture as a window onto mind and brain](https://doi.org/10.1016/j.tics.2015.01.006)
+*Studien (am 16.10.2026 gegen OpenAlex und doi.org nachgeprüft — fünf DOIs der ersten Fassung gab es nicht, eine zeigte auf ein fremdes Paper):*
+- [Iverson & Goldin-Meadow (2005), Psychological Science — Gesture paves the way for language development](https://doi.org/10.1111/j.0956-7976.2005.01542.x)
+- [Rowe & Goldin-Meadow (2009), Science — Differences in early gesture explain SES disparities in child vocabulary size](https://doi.org/10.1126/science.1167025)
 - [Hamlin, Wynn & Bloom (2007), Nature — Social evaluation by preverbal infants](https://doi.org/10.1038/nature06288)
-- [Schuwerk et al. (2023), Nature Human Behaviour — ManyBabies Replikation (Einschränkung der Hamlin-Effektgröße)](https://doi.org/10.1038/s41562-022-01473-6)
+- [Lucca et al. (2025), Developmental Science — ManyBabies 4: keine Präferenz für den Helfer, Zufallsniveau](https://doi.org/10.1111/desc.13581)
 - [Sadato et al. (1996), Nature — Aktivierung des visuellen Kortex bei Blinden](https://doi.org/10.1038/380526a0)
-- [Dehaene et al. (2010), Science — Reading in the Brain](https://doi.org/10.1126/science.1184473)
+- [Dehaene et al. (2010), Science — How learning to read changes the cortical networks for vision and language](https://doi.org/10.1126/science.1194140)
+- [Pegado et al. (2014), PNAS — Timing the impact of literacy on visual processing](https://doi.org/10.1073/pnas.1417347111)
+- [Ricciardi & Pietrini (2011), Current Opinion in Neurology — New light from the dark](https://doi.org/10.1097/WCO.0b013e328348bdbf)
 - [Knecht et al. (2000), Brain — Handedness and language lateralization](https://doi.org/10.1093/brain/123.1.74)
 
 ---

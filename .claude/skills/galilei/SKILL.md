@@ -64,7 +64,8 @@ python3 .claude/scripts/wiss_search.py "..." --top 5 --sieb
 `--sieb` ist eine zweite Stimme neben `soliditaet` — nie das Urteil. Widersprechen sich Regel und Jev,
 entscheidet das Abstract (→ `.claude/scripts/systemone.py`).
 Jeder Treffer trägt: `title`, `authors`, `year`, `venue`, `doi`, `abstract`/`tldr`, `citation_count`,
-`is_oa`+`oa_url`, **`soliditaet`** (meta-analyse · review · primär · preprint). Die Schicht sortiert
+`is_oa`+`oa_url`, **`soliditaet`** (meta-analyse · review · primär · preprint), `verlag` (Angabe, keine
+Wertung) und `zurueckgezogen` — ein zurückgezogenes Paper ist nie Beleg, höchstens Fall. Die Schicht sortiert
 schon grob nach Solidität — aber das ist nur ein Vorschlag, **das Urteil ist deins**.
 
 > Quellen: OpenAlex (trägt allein), Semantic Scholar (TLDR — braucht `SEMANTIC_SCHOLAR_API_KEY` in
