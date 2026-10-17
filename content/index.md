@@ -56,6 +56,10 @@ Die Gedankenwelten (luc)
 >
 > Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
 
+> **17.10.** — [[Panorama/NoAfD|NoAfD]]
+>
+> Was will die AfD, wenn sie vor vielen leise spricht? Fünf offene Fragen, gemessen an Wortlaut, Programm und Praxis, mit dem Mann, der in Sachsen-Anhalt ihr erster Ministerpräsident werden will.
+
 > **16.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
 >
 > Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
 
-> **16.10.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
->
-> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Vier offene Fragen zu Redaktionen, Besitzern, Plattformen und Staaten, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
-
-> → *12 weitere in* [[Panorama]]
+> → *13 weitere in* [[Panorama]]
 
 ### Gedanken
 

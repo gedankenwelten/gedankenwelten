@@ -786,6 +786,58 @@ Nach Faktencheck und Stimme, **vor** Cross-Linking — so kann Montaigne die Pan
 
 ---
 
+## Schritt 5e — Statistik-Grafik (Angebot, nur wenn es wirklich passt)
+
+Seit 17.10.2026. Eine eigene Grafik aus fremden Zahlen, die Quelle steht im Bild. Ein Bild zeigt
+manchmal mehr als ein Absatz, und es belebt die Seite. **Sparsam, aber ohne feste Zahl:** so viele,
+wie die Note wirklich braucht — eine Grafik je Gedanke, nie zwei für dieselbe Aussage. Kein Schritt,
+der abgehakt wird, sondern ein Angebot an Andreas, wenn eine der Bedingungen trifft.
+
+**Häufigster Fall: die Folie, die wir nicht zeigen dürfen.** Zeigt ein Vortrag unter Standardlizenz
+eine Grafik, die das Argument trägt, wird sie nachgebaut statt als Standbild übernommen: Zahlen aus der
+Quelle, die der Sprecher nennt (am Original geprüft), eigene Gestaltung, Bildunterschrift „nach einer
+Folie von <Sprecher>, <Vortrag>" mit Zeitstempel-Link.
+
+**Passt, wenn:**
+- eine Zahl das Argument der Note trägt und das Bild ein **Verhältnis** zeigt, das ein Satz schwer
+  trägt: Vergleich, vorher/nachher, Teil vom Ganzen, Abstand und Mehrheit zugleich;
+- die Zahlen öffentlich sind und am **Original** geprüft werden können (PDF, xlsx, Amt, Paper mit DOI) —
+  nach Sherlock, nie aus dem Gedächtnis.
+
+**Passt nicht, wenn:** eine einzelne Zahl im Satz schon reicht · die Note ein Gedanke oder eine
+Kultur-Note ist (dort tragen Bild und Wort) · nur eine Seite einer Streitfrage gezeigt würde.
+
+**Haltung im Bild:** Balken beginnen bei null. Die Grafik zeigt auch die Spalte, die dem eigenen
+Argument nicht passt (Upekkhā — im Panorama zu Migration steht die Überrepräsentation neben den
+Millionen Nicht-Verdächtigen). Kein Alarmrot, keine Dramatik: Die Grafik soll einladen nachzudenken,
+nicht eine Stimmung erzeugen. Die **Bildunterschrift** sagt in zwei, drei Sätzen, was das Bild zeigt
+*und was nicht* (verdächtigt ≠ verurteilt, nicht nach Alter bereinigt …), dann Quelle mit Link und
+„Grafik: Gedankenwelten, CC BY-SA 4.0".
+
+**Fremde Grafiken:** nur unter freier Lizenz (Wikimedia Commons, CC BY / CC BY-SA, mit Urheber und Link).
+YouTube-Standardlizenz oder Zeitungsgrafik: die *Idee* nachbauen, das Bild nie übernehmen, die
+Anregung nennen.
+
+**Werkzeug:** `.claude/scripts/statistik_grafik.py` — drei Formen (`balken`, `hantel` für
+vorher/nachher, `tabelle` mit Balkenspalten), Inter, Farben geprüft, PNG direkt nach
+`content/assets/`. Die Beschreibung der JSON-Datei steht im Kopf des Skripts.
+
+```bash
+python3 .claude/scripts/statistik_grafik.py /tmp/…/spec.json --out <Note-Slug>-<Thema>
+```
+
+Bild ansehen (Read), Beschriftungen auf Kollisionen prüfen. Einbetten **vor** dem Absatz, den es
+zeigt: `![[content/assets/<Datei>.png|700]]` + kursive Bildunterschrift. Quelle zusätzlich in
+`Quellen & Links.md`. Vorbild: [[Panorama/Macht Migration kriminell]] (fünf Grafiken, eine von Commons).
+
+**Generierte Bilder (fal.ai) neben dem Text — nur mit Andreas' ausdrücklichem Ja.** Eine Statistik
+lässt sich prüfen, ein generiertes Bild nicht; es wirkt über das Gefühl und kann so eine Behauptung
+stimmungsvoll stützen, die es nicht belegt. Darum nur als Veranschaulichung eines Begriffs, wenn ein
+Bild es wirklich klarer macht, erkennbar künstlerisch wie die Banner (Künstlerhand und Prompt im
+`🎨`-Block) — **nie** Menschen, Gruppen oder Ereignisse, die es wirklich gibt, nie als Beleg.
+
+---
+
 ## Schritt 6 — Montaigne: Cross-Linking (RAG-gestützt)
 
 Montaigne nutzt jetzt RAG direkt — der separate Step 6a entfällt. Montaigne hat einen eingebauten RAG-Query als ersten Schritt und findet relevante Notes semantisch statt über Glob.

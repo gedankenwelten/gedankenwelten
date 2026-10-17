@@ -143,6 +143,29 @@ Dimension des Antisemitismus zählt.
 > Erinnerungsabwehr A) sind ab jetzt die Pflichtform.
 
 
+### Messlatte Sachsen-Anhalt, angelegt: Siegmunds Ankündigungen *(17.10.2026)*
+
+*Vor einem möglichen Amtsantritt registriert, damit die Praxis an dem gemessen wird, was vorher angekündigt war. Quellen:
+Siegmund bei [{ungeskriptet} by Ben](https://www.youtube.com/watch?v=9J-oOOLwba4) (15.08.2026, Transkript gelesen), das
+[100-Tage-Sofortprogramm](https://afd-lsa.de/wp-content/uploads/2026/07/100-Tage-Sofortprogramm.pdf) und das
+[Regierungsprogramm](https://afd-lsa.de/wp-content/uploads/2026/07/AfD_Sachsen-Anhalt_Regierungsprogramm_2026_230726-web.pdf).
+Eine Ankündigung ist kein Befund; gezählt wird erst, was die Maßnahmen-Schwelle nimmt. Einordnung im Panorama:
+[[Panorama/NoAfD#Was tut sie, wo sie Macht hat?|NoAfD]].*
+
+| Ankündigung | Wortlaut / Fundstelle | Dim. |
+|---|---|---|
+| Förderung für „Demokratie leben!“, Miteinander e. V., „Schule ohne Rassismus“, Evangelische Akademie streichen, Gemeinnützigkeit prüfen | „in den ersten Tagen … öffentlichkeitswirksam unterschreiben … Ich freue mich schon richtig“ ([▶ 3:29:08](https://www.youtube.com/watch?v=9J-oOOLwba4&t=12548)); 100-Tage-Programm Pkt. 4 | A |
+| Einstufung der eigenen Partei durch den Landesverfassungsschutz „überprüfen“, Abschaffung „ergebnisoffen“ | [▶ 3:26:06](https://www.youtube.com/watch?v=9J-oOOLwba4&t=12366); Programm S. 131 f. | C |
+| Rundfunkstaatsverträge kündigen (braucht seit 23.04.2026 einen Landtagsbeschluss, wirksam frühestens Ende 2028) | [▶ 2:58:51](https://www.youtube.com/watch?v=9J-oOOLwba4&t=10731); 100-Tage-Programm Pkt. 1 | C |
+| Taskforce, die „Spielräume“ des Rechts für Abschiebungen nutzt; Erstaufnahme zur Abschiebehaftanstalt; Stellen für „Remigration“ | [▶ 3:17:48](https://www.youtube.com/watch?v=9J-oOOLwba4&t=11868), [▶ 3:15:32](https://www.youtube.com/watch?v=9J-oOOLwba4&t=11732), [▶ 3:06:26](https://www.youtube.com/watch?v=9J-oOOLwba4&t=11186); Programm S. 44–47 | B |
+| Sonderklassen für alle Kinder von Geflüchteten; Inklusion „unverzüglich beenden“ | Programm S. 87, S. 74 | B |
+| Verwaltung: 150–200 politische Stellen; Beamte, die „torpedieren“, beamtenrechtlich belangen | [▶ 3:04:55](https://www.youtube.com/watch?v=9J-oOOLwba4&t=11095), [▶ 3:07:12](https://www.youtube.com/watch?v=9J-oOOLwba4&t=11232) | C |
+| Arbeitspflicht für Asylbewerber per Erlass | [▶ 3:03:24](https://www.youtube.com/watch?v=9J-oOOLwba4&t=11004); 100-Tage-Programm Pkt. 3 | E (für wen?) |
+
+Was ausdrücklich **nicht** angekündigt ist und darum besonders schwer wöge: Weisungen an Staatsanwaltschaften, Eingriffe in
+Gerichte, eine Ausweisung von Staatsbürgern. Siegmund betont, das Beamtenrecht erlaube keine Entlassungen „einfach so“
+([▶ 3:04:10](https://www.youtube.com/watch?v=9J-oOOLwba4&t=11050)) — auch das ist Messlatte, in die andere Richtung.
+
 ## Falsifikation
 
 *Vorab registriert am 06.07.2026 — nicht aufweichen.*

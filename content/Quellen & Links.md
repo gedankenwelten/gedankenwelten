@@ -5222,3 +5222,12 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Daten** | [BKA, PKS 2025, T62](https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/PKS2025/pksTabellen_Interpretationshilfen/BundTVNationalitaet/bundTVNationalitaet.html) · [Destatis, AZR 2025](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Publikationen/Downloads-Migration/statistischer-bericht-auslaend-bevoelkerung-2010200257005.html) · [Brå 2021:9](https://bra.se/download/18.45e4b8e192705389a34c2b/1729515966490/2021_9_Registered_offending_among_persons.pdf) · [KFN FB 171](https://kfn.de/wp-content/uploads/2025/10/FB_171.pdf) · [Hestermann 2025](https://mediendienst-integration.de/fileadmin/user_upload/Expertisen/Mediendienst_Integration_Expertise_Kriminalitaet_und_Migration_in_deutschen_Medien_Thomas_Hestermann.pdf) |
 | **Commons** | [Share of 15yo+ immigrant and descendant crime suspects by region 2015–2018 (Brå)](https://commons.wikimedia.org/wiki/File:Share_of_15yo%2B_immigrant_and_descendant_crime_suspects_by_region_2015-2018_-_BR%C3%85.png) — 1Kwords, CC BY-SA 4.0 |
 | **Grafiken** | `Gedankenwelten/assets/Macht-Migration-kriminell-*.png` — eigene als CC BY-SA 4.0 |
+
+## Ulrich Siegmund — {ungeskriptet} by Ben
+
+| | |
+|---|---|
+| **Podcast** | [Der gefährlichste Mann Deutschlands: Ulrich Siegmund](https://www.youtube.com/watch?v=9J-oOOLwba4) — {ungeskriptet} by Ben, 15.08.2026 (3:58 h) |
+| **Programm** | [Regierungsprogramm AfD Sachsen-Anhalt 2026](https://afd-lsa.de/wp-content/uploads/2026/07/AfD_Sachsen-Anhalt_Regierungsprogramm_2026_230726-web.pdf) · [100-Tage-Sofortprogramm](https://afd-lsa.de/wp-content/uploads/2026/07/100-Tage-Sofortprogramm.pdf) |
+| **Notiz** | [[Panorama/NoAfD]] · [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Siegmund_Ungeskriptet_Transkript.txt` (+ VTT) |

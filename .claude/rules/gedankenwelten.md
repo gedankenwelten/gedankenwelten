@@ -166,6 +166,11 @@ Ohne diese Schritte gilt die Note als unvollständig.
 > Poesie zurück), Angebot für die analytischen Rubriken. Stimme ändert nur das *Wie*, nie das *Was*; schon
 > gestimmte Notes (Luc-Texte, Pascal-Gedanken) bleiben unangetastet. → `.claude/skills/gedankenpoesie/`.
 
+> [!tip] Kür, wenn es wirklich passt: eine Statistik-Grafik
+> Eigene Grafik, fremde Zahlen, Quelle im Bild — sparsam, ohne feste Zahl, wenn ein Verhältnis zu zeigen
+> ist, das ein Satz schwer trägt; oft die Vortragsfolie, die wir aus Lizenzgründen nachbauen. Zahlen am Original geprüft, beide Seiten im Bild, keine Dramatik.
+> Gilt auch beim Vertiefen (heraklit) und im Panorama. → `gedankenwelt`-Skill, Schritt 5e.
+
 ## Startseiten-Journal (gedankenwelten.org)
 
 Die öffentliche Startseite zeigt unter „Was zuletzt gedacht wurde" automatisch die jüngsten Notes — gruppiert nach Rubrik (frischeste oben), sämtliche der letzten 7 Tage, mindestens 10. Erzeugt von `.claude/scripts/build_journal.py` (läuft im Sync), das zwischen den HTML-Kommentar-Markern `JOURNAL:START` … `JOURNAL:END` in `content/index.md` schreibt.
