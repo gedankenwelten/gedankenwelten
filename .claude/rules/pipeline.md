@@ -83,7 +83,9 @@ Für Vorträge mit visuell starken Slides oder gezeigten Beispielen. Nur sinnvol
 ### Schritt 1 — Video herunterladen
 
 ```bash
-/opt/homebrew/bin/yt-dlp -f "best[height<=720]" \
+# Nur Bild genügt für Standbilder. YouTube liefert seit 2026 kaum noch kombinierte
+# Bild+Ton-Dateien, „best[height<=720]“ greift dann ins Leere („format not available“).
+/opt/homebrew/bin/yt-dlp -f "bv[height<=720][ext=mp4][vcodec^=avc1]/bv[height<=720]" \
   --output "content/Transkripte/DATEINAME.%(ext)s" "URL"
 ```
 
