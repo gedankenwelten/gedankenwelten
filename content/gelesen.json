@@ -4,7 +4,7 @@
  "pfade": [
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-   "aufrufe": 895
+   "aufrufe": 897
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -249,7 +249,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 877
+     "aufrufe": 878
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -300,6 +300,14 @@
      "aufrufe": 6
     },
     {
+     "pfad": "/Zeitgeist/Martin-Sonneborn-Endloser-Krieg",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/DenkerVita/Der-Dara",
+     "aufrufe": 5
+    },
+    {
      "pfad": "/DenkerVita/Cordula-Tutt",
      "aufrufe": 5
     },
@@ -308,19 +316,7 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "aufrufe": 5
-    },
-    {
-     "pfad": "/Zeitgeist/Martin-Sonneborn-Endloser-Krieg",
-     "aufrufe": 5
-    },
-    {
      "pfad": "/Zeitgeist/Mario-Buchinger-Lügen-der-Kernenergie-(6▸6)-Neue-Reaktorgenerationen",
-     "aufrufe": 4
-    },
-    {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
      "aufrufe": 4
     },
     {
@@ -328,11 +324,55 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Catrin-Misselhorn-Grundfragen-der-Maschinenethik",
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Panorama/Wie-werden-gewoehnliche-Menschen-zu-Taetern",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Udo-Marquardt",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Gedanken/Architekten-des-Lebendigen-Systeme-die-dem-Leben-dienen",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Dietmar-Dath-und-Wolfgang-M.-Schmitt-Verschwendung-als-Moeglichkeit",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Koschi-Politik-Pete-Hegseth-und-das-christlich-nationalistische-Militär",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
      "aufrufe": 3
     },
     {
      "pfad": "/Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Harald-Welzer-Toetungsarbeit",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Catrin-Misselhorn-Grundfragen-der-Maschinenethik",
      "aufrufe": 3
     },
     {
@@ -356,47 +396,7 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Dietmar-Dath-und-Wolfgang-M.-Schmitt-Verschwendung-als-Moeglichkeit",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Gedanken/Architekten-des-Lebendigen-Systeme-die-dem-Leben-dienen",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/DenkerVita/Udo-Marquardt",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-Pete-Hegseth-und-das-christlich-nationalistische-Militär",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Harald-Welzer-Toetungsarbeit",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Panorama/Wie-werden-gewoehnliche-Menschen-zu-Taetern",
      "aufrufe": 3
     },
     {
@@ -420,11 +420,11 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
+     "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Alena-Buyx-Gesellschaft-NEU-DENKEN",
+     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "aufrufe": 2
     },
     {
@@ -456,11 +456,11 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
+     "pfad": "/Zeitgeist/Diba-Mirzaei-Irankrieg-and-Geschichte-(Jung-and-Naiv-815)",
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Diba-Mirzaei-Irankrieg-and-Geschichte-(Jung-and-Naiv-815)",
+     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
      "aufrufe": 2
     },
     {
@@ -468,15 +468,11 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden",
-     "aufrufe": 2
-    },
-    {
      "pfad": "/Zeitgeist/Mark-Benecke-Umwelt-Messungen-Sommer-2026",
      "aufrufe": 2
     },
     {
-     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
+     "pfad": "/Zeitgeist/Heiner-Flassbeck-Die-Wahrheit-ueber-Staatsschulden",
      "aufrufe": 2
     },
     {
@@ -486,6 +482,10 @@
     {
      "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
      "aufrufe": 2
+    },
+    {
+     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen",
+     "aufrufe": 2
     }
    ]
   },
@@ -494,7 +494,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 895
+     "aufrufe": 897
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -739,7 +739,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 924
+     "aufrufe": 926
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -984,7 +984,7 @@
    "pfade": [
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "aufrufe": 924
+     "aufrufe": 926
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",

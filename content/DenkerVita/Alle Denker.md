@@ -402,7 +402,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Achille Mbembe|Achille Mbembe]]** — Kamerunischer Historiker und Politiktheoretiker; Necropolitics, Postkolonialtheorie, Planetare Ethik; Holberg Prize 2024 für *The Earthly Community*
 
-**[[DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]]** — Deutschsprachiger YouTube-Kommentator für US-Politik; lebt in Buffalo, New York; anti-Trump, faktenorientiert, unabhängig; erklärt Amerika von innen für deutschsprachiges Publikum
+**[[DenkerVita/Manuel Koschi Politik|Manuel (Koschi Politik)]]** — Deutschsprachiger YouTube-Kommentator für US-Politik (Kanal seit Herbst 2025); lebt seit rund neun Jahren in Buffalo, New York; offen gegen Trump, unabhängig; stark in Fallrekonstruktionen zu ICE
 
 **[[DenkerVita/Donatella Marazziti|Donatella Marazziti]]** — Italienische Psychiaterin (Univ. Pisa); Neurobiologie der Liebe, Serotonin & Zwangsstörung; zeigte ~40 % niedrigere Serotonin-Transporter bei frisch Verliebten; Ig-Nobelpreis Chemie 2000
 
