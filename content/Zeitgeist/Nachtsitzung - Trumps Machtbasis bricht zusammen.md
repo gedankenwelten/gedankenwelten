@@ -114,7 +114,7 @@ Drei Schlüsselfiguren, die sich aktiv gegen Trump stellen:
 
 > [!success] Bestätigt — Alex Jones und Nick Fuentes haben sich gegen Trump gestellt
 > Beide haben öffentlich gegen Trump und die aktuellen Republikaner Stellung bezogen. Nick Fuentes Abkehr ist gut dokumentiert — er macht aktiv Werbung für demokratische Alternativen.
-> Quelle: [Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult](https://www.youtube.com/watch?v=rDhu7VJf4Bs) (interne Cross-Reference)
+> Quelle: [Koschi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult](https://www.youtube.com/watch?v=rDhu7VJf4Bs) (interne Cross-Reference)
 
 > [!warning] Vereinfacht — Tucker Carlson gegen Trump
 > Tucker Carlson hat sich zunehmend kritisch gegenüber Teilen der Trump-Politik geäußert (besonders Iran-Krieg), ist aber kein klarer Gegner im Sinne eines vollständigen Bruchs. Die Formulierung "macht massiv Stimmung gegen Trump" beschreibt die Entwicklung stärker als belegt. *(Faktencheck: vereinfacht)*
@@ -150,11 +150,11 @@ Direkte Fortsetzung: Während die CPAC-Note zeigt, wie Benjamins Machtblase (Her
 
 ### → [[Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
 
-Selbes Phänomen, andere Linse: Beide Notes beschreiben den Zerfall der MAGA-Basis — Koshi analytisch von innen, Benjamin strukturell von außen als Pyramide
+Selbes Phänomen, andere Linse: Beide Notes beschreiben den Zerfall der MAGA-Basis — Koschi analytisch von innen, Benjamin strukturell von außen als Pyramide
 
 ### → [[Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]]
 
-Nick Fuentes' Abkehr ist in dieser Note ein zentrales Beispiel — die Koshi-Note liefert die Hintergrundgeschichte dazu
+Nick Fuentes' Abkehr ist in dieser Note ein zentrales Beispiel — die Koschi-Note liefert die Hintergrundgeschichte dazu
 
 ### → [[Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund]]
 

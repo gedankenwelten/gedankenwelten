@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — ICE Buffalo — Tod eines Flüchtlings"
+title: "Koschi Politik — ICE Buffalo — Tod eines Flüchtlings"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,17 +13,17 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi ICE Buffalo
+  - Koschi ICE Buffalo
   - Nurul Alam Buffalo
 ---
 
-# Koshi Politik — ICE Buffalo — Tod eines Flüchtlings
+# Koschi Politik — ICE Buffalo — Tod eines Flüchtlings
 
 Datum: 27.02.2026
 Quelle: [ICE Tragödie in MEINER Wahlheimat, Buffalo NY!](https://www.youtube.com/watch?v=gO4CqnTIMZk)
 
 > [!note] Persönliche Note
-> Koshi lebt seit über 8 Jahren mit seiner Familie in Buffalo, New York. Dieses Video unterscheidet sich im Ton von seinen anderen Videos — kein sachliches Intro, direkte Betroffenheit. Buffalo, "The City of Good Neighbors", war für ihn eine unpolitische Gemeinschaft. Seit Ende der Biden-Amtszeit hat sich das verändert.
+> Koschi lebt seit über 8 Jahren mit seiner Familie in Buffalo, New York. Dieses Video unterscheidet sich im Ton von seinen anderen Videos — kein sachliches Intro, direkte Betroffenheit. Buffalo, "The City of Good Neighbors", war für ihn eine unpolitische Gemeinschaft. Seit Ende der Biden-Amtszeit hat sich das verändert.
 
 ---
 
@@ -67,7 +67,7 @@ Journalist **Nikolaj Christoph** widerlegt das öffentlich mit 6 Fragen:
 3. Was sollte er tun, nachdem das Café geschlossen hatte?
 4. Wie konnten sie feststellen, dass ein blinder Mann mit Gehstock keine Mobilitätseinschränkung hatte?
 5. Warum wurde die Familie nicht benachrichtigt?
-6. Haben Sie Ihre Informationen besser geprüft als bei Alex Pti und René Good, die Sie als "inländische Terroristen" bezeichnet haben?
+6. Haben Sie Ihre Informationen besser geprüft als bei Alex Pretti und Renée Good, die Sie als "inländische Terroristen" bezeichnet haben?
 
 ---
 
@@ -80,13 +80,13 @@ Journalist **Nikolaj Christoph** widerlegt das öffentlich mit 6 Fragen:
 > **CBP setzte ihn 8 km von Zuhause ab, keine Familienbenachrichtigung** — Laut Medienberichten und DHS-eigener Stellungnahme bestätigt. DHS bestreitet nicht die Tatsache, sondern bewertet sie anders.
 
 > [!warning] Vereinfacht
-> **"Erfrieren als Todesursache"** — Koshi impliziert Erfrieren. Offizielle Todesursache laut Coroner war "medizinischer Notfall". Ob Exposition zu Kälte den Ausschlag gab, ist medizinisch wahrscheinlich, aber offiziell nicht als alleinige Ursache bestätigt.
+> **"Erfrieren als Todesursache"** — Koschi impliziert Erfrieren. Offizielle Todesursache laut Coroner war "medizinischer Notfall". Ob Exposition zu Kälte den Ausschlag gab, ist medizinisch wahrscheinlich, aber offiziell nicht als alleinige Ursache bestätigt.
 
 > [!warning] Vereinfacht
 > **CBP handelte entgegen der rechtlichen Einigung** — Die Einigung sah keine ICE/CBP-Übergabe vor. Ob CBP rechtlich handelte oder nicht, ist Gegenstand laufender rechtlicher Auseinandersetzungen.
 
-> [!danger] Nicht verifizierbar
-> **"Alex Pti und René Good als inländische Terroristen bezeichnet"** — Diese Formulierung stammt aus dem Transkript (Spracherkennung). Korrekte Namen und genaue Umstände konnten nicht unabhängig verifiziert werden. Fälle von ICE-Tötungen amerikanischer Staatsbürger existieren, aber die spezifischen Namen sind im Transkript verzerrt.
+> [!success] Bestätigt
+> **"Alex Pretti und Renée Good als inländische Terroristen bezeichnet"** — Stimmt. Renée Good wurde am 7. Januar 2026 von einem ICE-Agenten erschossen; DHS-Sprecherin Tricia McLaughlin nannte ihr Verhalten „an act of domestic terrorism“. Alex Pretti wurde am 24. Januar 2026 von zwei CBP-Beamten erschossen; Stephen Miller nannte ihn noch am selben Tag, vor jeder Ermittlung, einen „domestic terrorist“, Kristi Noem sprach von einem Akt des inländischen Terrorismus. *(Korrigiert am 17.10.2026: Hier stand zuvor „nicht verifizierbar“, weil die Namen im Transkript verzerrt waren.)* Quellen: [Wikipedia — Killing of Renée Good](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good) · [Wikipedia — Killing of Alex Pretti](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti)
 
 ---
 

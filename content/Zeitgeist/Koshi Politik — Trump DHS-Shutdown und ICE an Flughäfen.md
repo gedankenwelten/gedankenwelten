@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen"
+title: "Koschi Politik — Trump DHS-Shutdown und ICE an Flughäfen"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,11 +13,11 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi Trump DHS Shutdown
-  - Koshi ICE Flughäfen
+  - Koschi Trump DHS Shutdown
+  - Koschi ICE Flughäfen
 ---
 
-# Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen
+# Koschi Politik — Trump DHS-Shutdown und ICE an Flughäfen
 
 ![[assets/Koshi-Politik-Trump-DHS-Shutdown-und-ICE-an-Flughaefen-banner.jpg|1200]]
 
@@ -29,10 +29,10 @@ aliases:
 
 </details>
 
-Quelle: YouTube-Kanal **Koshi Politik**, Teil 2 eines zweiteiligen Videos vom März 2026
+Quelle: YouTube-Kanal **Koschi Politik**, Teil 2 eines zweiteiligen Videos vom März 2026
 Quelle: [110% PSYCHOPATH! Trumps totaler Online AUSRASTER am Wochenende! Teil 2](https://www.youtube.com/watch?v=raV4Loqu4hg)
 
-> [!info] Wer ist Koshi Politik?
+> [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, US-Innenpolitik, Kongress-Geschehen. Erklärt US-Politikprozesse für deutsches Publikum; produziert schnell und nah am Tagesgeschehen. Eigene Einschätzung: politisch tendenziell links-liberal, aber mit faktenbasiertem Ansatz — **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.
 
 ---
@@ -86,12 +86,12 @@ Homan erklärt, ICE könne niedrigschwellige Aufgaben übernehmen (Ausgänge bew
 
 ---
 
-## Koshis Einordnung vs. Fakten
+## Koschis Einordnung vs. Fakten
 
 > [!note] Methodik bei dieser Quelle
-> Koshi Politik arbeitet sachlich, hat aber eine klar erkennbare Haltung. Im Video werden **Trumps eigene Posts direkt zitiert** — das ist verifizierbar. Die Einordnung enthält aber auch Wertungen, die als solche gekennzeichnet werden müssen.
+> Koschi Politik arbeitet sachlich, hat aber eine klar erkennbare Haltung. Im Video werden **Trumps eigene Posts direkt zitiert** — das ist verifizierbar. Die Einordnung enthält aber auch Wertungen, die als solche gekennzeichnet werden müssen.
 
-**Was Koshi sagt** vs. **was faktisch belegbar ist:**
+**Was Koschi sagt** vs. **was faktisch belegbar ist:**
 
 | Aussage | Einordnung |
 |---|---|
@@ -117,13 +117,13 @@ Homan erklärt, ICE könne niedrigschwellige Aufgaben übernehmen (Ausgänge bew
 > **„One Big Beautiful Bill"** — Trumps großes Haushaltsprojekt, das im Sommer 2025 verabschiedet wurde und Mittel für Grenzschutz enthält. Der Begriff ist korrekt.
 
 > [!warning] Vereinfacht / nicht vollständig belegt
-> **„28 Milliarden Dollar zusätzlich für ICE und CBP"** — Koshi nennt diese Zahl als Forderung der Republikaner. Die genaue Zahl für das laufende Haushaltsjahr 2026 konnte nicht unabhängig verifiziert werden. Die Größenordnung ist plausibel, aber die genaue Summe sollte mit Vorsicht behandelt werden.
+> **„28 Milliarden Dollar zusätzlich für ICE und CBP"** — Koschi nennt diese Zahl als Forderung der Republikaner. Die genaue Zahl für das laufende Haushaltsjahr 2026 konnte nicht unabhängig verifiziert werden. Die Größenordnung ist plausibel, aber die genaue Summe sollte mit Vorsicht behandelt werden.
 
 > [!warning] Vereinfacht / nicht vollständig belegt
-> **ICE-Einsatz an Flughäfen als illegal** — Koshi impliziert, es sei illegal, ICE an Flughäfen einzusetzen. ICE hat tatsächlich bereits Präsenz an einigen Flughäfen für Ermittlungen. Die Rechtslage bei der Übernahme von TSA-Sicherheitsaufgaben ist komplex — Tom Homan selbst schließt das aus, nicht das Gesetz direkt.
+> **ICE-Einsatz an Flughäfen als illegal** — Koschi impliziert, es sei illegal, ICE an Flughäfen einzusetzen. ICE hat tatsächlich bereits Präsenz an einigen Flughäfen für Ermittlungen. Die Rechtslage bei der Übernahme von TSA-Sicherheitsaufgaben ist komplex — Tom Homan selbst schließt das aus, nicht das Gesetz direkt.
 
 > [!warning] Vereinfacht / nicht vollständig belegt
-> **Steigende Flugkosten durch Trumps Iran-Krieg** — Koshi verbindet steigende Spritkosten mit dem Iran-Krieg. Der Zusammenhang ist plausibel (Ölpreisanstieg durch Konflikt), aber im Video ohne Quellenbelege erwähnt.
+> **Steigende Flugkosten durch Trumps Iran-Krieg** — Koschi verbindet steigende Spritkosten mit dem Iran-Krieg. Der Zusammenhang ist plausibel (Ölpreisanstieg durch Konflikt), aber im Video ohne Quellenbelege erwähnt.
 
 ---
 
@@ -164,9 +164,9 @@ Hagemeyer beschreibt narzisstische Persönlichkeitsstrukturen: Größenfantasien
 
 ---
 
-## Serie: Koshi Politik — Trump-Dokumentation
+## Serie: Koschi Politik — Trump-Dokumentation
 
-Diese Note ist Teil einer laufenden Dokumentation der Trump-Administration über den Kanal Koshi Politik:
+Diese Note ist Teil einer laufenden Dokumentation der Trump-Administration über den Kanal Koschi Politik:
 
 | # | Thema | Datum | Note |
 |---|---|---|---|

@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis"
+title: "Koschi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,16 +13,16 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi MAGA Neues
+  - Koschi MAGA Neues
   - MAGA 2.0 Personenkult
 ---
 
-# Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis
+# Koschi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis
 
 Datum: 11.03.2026
 Quelle: [MAGA 2.0 — Die Geburt einer neuen Bewegung?](https://www.youtube.com/watch?v=pn8fJV_k3JA)
 
-> [!info] Wer ist Koshi Politik?
+> [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.
 
 ---
@@ -31,12 +31,12 @@ Quelle: [MAGA 2.0 — Die Geburt einer neuen Bewegung?](https://www.youtube.com/
 
 ### Die Kern-These: MAGA 2.0
 
-Koshi definiert **MAGA 2.0**: Menschen, die sich **der Botschaft treu** fühlen (America First, keine Kriege im Nahen Osten, Wirtschaft für die Arbeiterklasse), aber den **Personenkult Trump verlassen**, weil sie sich betrogen fühlen.
+Koschi definiert **MAGA 2.0**: Menschen, die sich **der Botschaft treu** fühlen (America First, keine Kriege im Nahen Osten, Wirtschaft für die Arbeiterklasse), aber den **Personenkult Trump verlassen**, weil sie sich betrogen fühlen.
 
-**Koshis Kalkulation:**
+**Koschis Kalkulation:**
 - Trump erhielt 2024 ca. 70 Millionen Stimmen
 - 90% MAGA-Support = ca. 63 Millionen
-- Aber: Koshi unterscheidet zwischen Trump-Wähler und echten MAGA
+- Aber: Koschi unterscheidet zwischen Trump-Wähler und echten MAGA
 - Owen Shroyer (ehemaliger Alex-Jones-Mitarbeiter, Hardcore-MAGA) schätzt: **~40% der früheren MAGA sind nicht mehr im Personenkult**
 
 ### Was ist MAGA-Personenkult?
@@ -44,7 +44,7 @@ Koshi definiert **MAGA 2.0**: Menschen, die sich **der Botschaft treu** fühlen 
 [▶ 10:51](https://www.youtube.com/watch?v=pn8fJV_k3JA&t=651)
 
 
-Koshi charakterisiert Hardcore-MAGA durch fehlende Prinzipienreue:
+Koschi charakterisiert Hardcore-MAGA durch fehlende Prinzipienreue:
 - „Wir hassen Kommunismus" → Trump fordert Zölle und staatliche Intel-Beteiligung
 - „Wir sind für Recht und Ordnung" → January 6, Überfall auf Polizisten, Trump begnadigt Verurteilte
 - „Wir wollen keine Kriege im Nahen Osten" → Trump führt Krieg im Iran
@@ -82,7 +82,7 @@ Trendender Hashtag: **#SendBaron** — Schick deinen eigenen Sohn.
 [▶ 20:06](https://www.youtube.com/watch?v=pn8fJV_k3JA&t=1206)
 
 
-Koshi erklärt: Trump nennt es „Spezialoperation" oder „excursion" — nicht „Krieg" — weil:
+Koschi erklärt: Trump nennt es „Spezialoperation" oder „excursion" — nicht „Krieg" — weil:
 1. Krieg offiziell Kongress-Genehmigung erfordert (die Trump nicht will)
 2. Hardcore-MAGA glaubt dann, das Versprechen „keine Kriege" wurde gehalten
 
@@ -105,7 +105,7 @@ Koshi erklärt: Trump nennt es „Spezialoperation" oder „excursion" — nicht
 > **„40% der MAGA nicht mehr im Personenkult"** — Owen Shroeyers Schätzung, nicht empirisch belegt. Umfragen dazu existieren, aber messen MAGA-Identifikation schwer.
 
 > [!warning] Vereinfacht
-> **Iran = Vietnam** — Koshis Analogie ist emotional nachvollziehbar, aber historisch vereinfacht. Die geopolitischen Kontexte sind sehr verschieden.
+> **Iran = Vietnam** — Koschis Analogie ist emotional nachvollziehbar, aber historisch vereinfacht. Die geopolitischen Kontexte sind sehr verschieden.
 
 ---
 
@@ -114,17 +114,17 @@ Koshi erklärt: Trump nennt es „Spezialoperation" oder „excursion" — nicht
 > [!abstract] Was diese Quelle liefert
 > - Erste systematische Analyse der **MAGA-Fragmentierung** durch den Iran-Krieg
 > - Dokumentation der rhetorischen Selbstwidersprüche Trumps in Echtzeit
-> - **Wertung**: Koshi hofft auf demokratische Stärke — das ist erkennbar. Trotzdem sachlich fundierter Kern.
+> - **Wertung**: Koschi hofft auf demokratische Stärke — das ist erkennbar. Trotzdem sachlich fundierter Kern.
 
 ---
 
 ## Verbindungen
 
 ### → [[Zeitgeist/Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan]]
-Direkte Fortsetzung: Am nächsten Tag dokumentiert Koshi weitere Erosion — Fox News stellt Trump in Frage.
+Direkte Fortsetzung: Am nächsten Tag dokumentiert Koschi weitere Erosion — Fox News stellt Trump in Frage.
 
 ### → [[Zeitgeist/Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
-Manow erklärt die MAGA-Basis strukturell-ökonomisch. Koshi zeigt, wie dieselbe Basis anfängt, Personenkult von Botschaft zu trennen — genau der Moment, den Manow als strukturell möglich beschreibt.
+Manow erklärt die MAGA-Basis strukturell-ökonomisch. Koschi zeigt, wie dieselbe Basis anfängt, Personenkult von Botschaft zu trennen — genau der Moment, den Manow als strukturell möglich beschreibt.
 
 ### → [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg]]
 Die Korruptions-Enthüllung (Qatar, Kushner, Witkoff) ist der inhaltliche Kern dessen, was MAGA als Verrat wahrnimmt.

@@ -1,6 +1,6 @@
 ---
 date: 2026-03-24
-title: "Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will"
+title: "Koschi Politik — ICE-Flughafenterror: Was Trump wirklich will"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -16,18 +16,18 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi ICE Flughafenterror
-  - Koshi Save America Act
-  - Koshi DHS Flughafen
+  - Koschi ICE Flughafenterror
+  - Koschi Save America Act
+  - Koschi DHS Flughafen
 ---
 
-# Koshi Politik — ICE-Flughafenterror: Was Trump wirklich will
+# Koschi Politik — ICE-Flughafenterror: Was Trump wirklich will
 
 Datum: ca. März 2026
 Quelle: [ICE- Flughafenterror: Was Trump wirklich erreichen will!](https://www.youtube.com/watch?v=wXaW37yu7Hk)
 
 > [!info] Wer spricht?
-> **Koshi Politik** — deutschsprachiger YouTube-Kanal eines in den USA lebenden Kommentators (New York / Buffalo-Raum). Erklärt US-Politik für ein deutsches Publikum, das mit dem amerikanischen System weniger vertraut ist. Schwerpunkte: Trump-Administration, ICE, MAGA-Bewegung. Klar linksliberal positioniert; kein Anspruch auf Neutralität, aber sachlich nachvollziehbar eingeordnet. Green-Card-Inhaber — selbst direkt von ICE-Politik betroffen.
+> **Koschi Politik** — deutschsprachiger YouTube-Kanal eines in den USA lebenden Kommentators (New York / Buffalo-Raum). Erklärt US-Politik für ein deutsches Publikum, das mit dem amerikanischen System weniger vertraut ist. Schwerpunkte: Trump-Administration, ICE, MAGA-Bewegung. Klar linksliberal positioniert; kein Anspruch auf Neutralität, aber sachlich nachvollziehbar eingeordnet. Green-Card-Inhaber — selbst direkt von ICE-Politik betroffen.
 
 ---
 
@@ -35,7 +35,7 @@ Quelle: [ICE- Flughafenterror: Was Trump wirklich erreichen will!](https://www.y
 
 Auf dem LaGuardia Airport in New York kollidiert eine Air Canada Maschine auf der **Landebahn (Runway 4)** bei der Landung mit einem Feuerwehrwagen. **Zwei Tote — beide Piloten der Air Canada-Maschine.** Die Feuerwehrkrew wurde hospitalisiert, alle 72 Passagiere überlebten. Der Feuerwehrwagen war unterwegs zu einer anderen Maschine, die einen verdächtigen Geruch gemeldet hatte; der Tower gab die Freigabe zu spät zurück, als die Maschine schon zu nah war.
 
-FBI und Polizei erklären: kein Zusammenhang mit dem DHS-Shutdown. Koshi lässt die Frage offen — ob das gesagt wird, um das Shutdown-Debakel zu verdecken, sei dahingestellt.
+FBI und Polizei erklären: kein Zusammenhang mit dem DHS-Shutdown. Koschi lässt die Frage offen — ob das gesagt wird, um das Shutdown-Debakel zu verdecken, sei dahingestellt.
 
 ---
 
@@ -44,7 +44,7 @@ FBI und Polizei erklären: kein Zusammenhang mit dem DHS-Shutdown. Koshi lässt 
 [▶ 14:37](https://www.youtube.com/watch?v=wXaW37yu7Hk&t=877)
 
 
-> [!quote] Koshis Kernthese
+> [!quote] Koschis Kernthese
 > *Der Donald geht's nicht um die Sicherheit am Flughäfen, dem geht's um den Save America Act. Er versucht bei der Wahl zu betrügen.*
 
 ### Die Ausgangslage
@@ -58,11 +58,11 @@ Direkt betroffen: die **TSA** (Traffic Security Administration). Die Agents werd
 
 ### Trump schickt ICE auf die Flughäfen
 
-Trump kündigt per Post an: ICE-Agents übernehmen die Sicherheit an Flughäfen. Die Entsendung erfolgt exekutiv *(Faktencheck: die von Koshi genannte „Big Beautiful Bill" als Finanzierungsquelle ist nicht belegt)*, während TSA-Agents leer ausgehen.
+Trump kündigt per Post an: ICE-Agents übernehmen die Sicherheit an Flughäfen. Die Entsendung erfolgt exekutiv *(Faktencheck: die von Koschi genannte „Big Beautiful Bill" als Finanzierungsquelle ist nicht belegt)*, während TSA-Agents leer ausgehen.
 
 Das Problem: **ICE ist für TSA-Arbeit weder ausgebildet noch rechtlich befugt.** Die Agents stehen neben den TSA-Agents und können keine Passagierkontrollen durchführen — während die TSA-Agents unentlohnt ihren Job machen.
 
-Koshis Kommentar: Eine frustrierende Situation für alle Beteiligten — und eine, die die Spannungen erhöht, weil viele Reisende ICE für das gesamte DHS-Chaos verantwortlich machen.
+Koschis Kommentar: Eine frustrierende Situation für alle Beteiligten — und eine, die die Spannungen erhöht, weil viele Reisende ICE für das gesamte DHS-Chaos verantwortlich machen.
 
 ### SFO: Verhaftung ohne Ausweis, Kind getrennt
 
@@ -70,7 +70,7 @@ Am San Francisco International Airport (SFO) verhaften ICE-Agents eine Frau, die
 
 > Woher wissen wir, dass das eine legitime Verhaftung ist? Das könnten zwei Dahergelaufene sein, die hier eine Frau entführen.
 
-Im Hintergrund: 20–30 Polizisten stehen daneben, keiner greift ein. Koshi erklärt: Gavin Newsom, Gouverneur von Kalifornien, hat lokalen Behörden signalisiert, dass sie **nicht zur Kooperation mit ICE verpflichtet** sind. Für die Polizisten könnte das noch Nachspiel haben.
+Im Hintergrund: 20–30 Polizisten stehen daneben, keiner greift ein. Koschi erklärt: Gavin Newsom, Gouverneur von Kalifornien, hat lokalen Behörden signalisiert, dass sie **nicht zur Kooperation mit ICE verpflichtet** sind. Für die Polizisten könnte das noch Nachspiel haben.
 
 ### Trumps eigentliche Strategie: Der Save America Act
 
@@ -88,15 +88,15 @@ Sein Gegenargument: Er werde keine Legislation unterzeichnen, ohne den **Save Am
 Was ist der Save America Act (Kern)?
 - **Pflicht zur Wähler-ID** bei Wahlen
 - **Staatsbürgerschaftsnachweis** bei der Wählerregistrierung
-- *(Faktencheck: Verbot von Briefwahl, Trans-Sport-Verbot, Verbot von Geschlechtsangleichungen — von Trump per Amendment nachgefordert, vom Senat 49–41 blockiert. Koshi beschreibt Trumps Forderungsliste, nicht den eigentlichen Gesetzestext.)*
+- *(Faktencheck: Verbot von Briefwahl, Trans-Sport-Verbot, Verbot von Geschlechtsangleichungen — von Trump per Amendment nachgefordert, vom Senat 49–41 blockiert. Koschi beschreibt Trumps Forderungsliste, nicht den eigentlichen Gesetzestext.)*
 
-Koshis Einordnung:
+Koschis Einordnung:
 
 > Der Save America Act wird nicht durchgehen. Die Republikaner haben 53 Senatsstimmen von 100. Für die Filibuster-Hürde braucht man 60. Das wird nicht passieren.
 
 Trump weiß das. Sein Kalkül: **Chaos erzeugen** → Öffentlichkeit macht die Demokraten verantwortlich → Demokraten knicken ein → Wähler-ID-Gesetz kommt durch → Midterms manipulierbar.
 
-Koshi glaubt nicht, dass das aufgeht: Je mehr in den Medien durchdringt, dass die Demokraten einen Kompromiss angeboten haben und Trump ihn abgelehnt hat, desto wahrscheinlicher dreht sich die öffentliche Meinung gegen Trump.
+Koschi glaubt nicht, dass das aufgeht: Je mehr in den Medien durchdringt, dass die Demokraten einen Kompromiss angeboten haben und Trump ihn abgelehnt hat, desto wahrscheinlicher dreht sich die öffentliche Meinung gegen Trump.
 
 ---
 
@@ -123,7 +123,7 @@ Bemerkenswert ist, wie offen das passiert: Trump lehnt öffentlich einen Komprom
 > Quelle: [ATL Airport Chamber](https://airportchamber.com/hartsfield-jackson-serves-108m-passengers-in-2024/)
 
 > [!warning] Vereinfacht — Save America Act: Inhalt
-> Der ursprüngliche Act enthält nur **Staatsbürgerschaftsnachweis** und **Wähler-ID**. Kein Briefwahl-Bann, kein Trans-Sport-Verbot, kein Verbot von Geschlechtsangleichungen — diese Provisions wurden von Trump per Amendment nachgefordert, vom Senat aber **49–41 blockiert**. Koshi beschreibt Trumps Forderungsliste, nicht den verabschiedeten Gesetzestext.
+> Der ursprüngliche Act enthält nur **Staatsbürgerschaftsnachweis** und **Wähler-ID**. Kein Briefwahl-Bann, kein Trans-Sport-Verbot, kein Verbot von Geschlechtsangleichungen — diese Provisions wurden von Trump per Amendment nachgefordert, vom Senat aber **49–41 blockiert**. Koschi beschreibt Trumps Forderungsliste, nicht den verabschiedeten Gesetzestext.
 > Quelle: [Snopes](https://www.snopes.com/news/2026/03/13/save-america-act-trans-issues/) · [19th News](https://19thnews.org/2026/03/save-america-act-explained/) · [The Hill](https://thehill.com/homenews/senate/5794738-save-america-act-amendment-transgender-athletes/)
 
 > [!success] Bestätigt — Filibuster-Hürde: 60 Stimmen, Republikaner haben 53

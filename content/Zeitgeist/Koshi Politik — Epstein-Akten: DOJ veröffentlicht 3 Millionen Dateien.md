@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien"
+title: "Koschi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -12,17 +12,17 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi Epstein Dokumente
+  - Koschi Epstein Dokumente
   - Epstein DOJ Veröffentlichung
 ---
 
-# Koshi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien
+# Koschi Politik — Epstein-Akten: DOJ veröffentlicht 3 Millionen Dateien
 
 Datum: 31.01.2026
 Quelle: [Epstein-Akten: Was das DOJ veröffentlicht hat](https://www.youtube.com/watch?v=Meq7PnMy80o)
 
-> [!info] Wer ist Koshi Politik?
-> Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Koshi ist in diesem Video erkennbar vorsichtig mit Aussagen über unverifizierten Inhalt — verweist auf Links statt selbst zu zitieren. **Meinungen von Fakten trennen** bleibt zentral.
+> [!info] Wer ist Koschi Politik?
+> Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Koschi ist in diesem Video erkennbar vorsichtig mit Aussagen über unverifizierten Inhalt — verweist auf Links statt selbst zu zitieren. **Meinungen von Fakten trennen** bleibt zentral.
 
 ---
 
@@ -48,7 +48,7 @@ Das **Department of Justice (DOJ)** veröffentlicht über **3 Millionen Epstein-
 
 **Veröffentlichtes Material:** Über 2.000 Videos, 180.000 Bilder — ein Großteil laut DOJ kommerzielles Pornomaterial von Epsteins Geräten, das nicht von ihm erstellt wurde.
 
-Koshi kritisiert: Das DOJ hat keine Klienten — *warum* beruft man sich auf anwaltliche Schweigepflicht?
+Koschi kritisiert: Das DOJ hat keine Klienten — *warum* beruft man sich auf anwaltliche Schweigepflicht?
 
 ### Das verschwundene Dokument
 
@@ -57,11 +57,11 @@ Koshi kritisiert: Das DOJ hat keine Klienten — *warum* beruft man sich auf anw
 
 Eine **PDF-Datei** mit Zusammenfassung von Anklagepunkten erschien auf der DOJ-Website — verschwand kurz danach — und tauchte dann durch Meidas Touch (die es heruntergeladen hatten) wieder auf.
 
-Inhalt der Datei (Koshi zitiert nur einen Ausschnitt, verweist für Rest auf Link):
+Inhalt der Datei (Koschi zitiert nur einen Ausschnitt, verweist für Rest auf Link):
 
 > *„XX hat berichtet, dass eine ihrer Freundinnen vor ca. 35 Jahren dazu gezwungen wurde, an dem jetzigen Präsidenten Donald Trump Oralsex durchzuführen. Die Freundin war zu dem Zeitpunkt 13-14 Jahre alt."*
 
-Koshi: Diese Aussagen sind — wie Todd Blanche sagte — unverifiziert und secondhand. Er verlinkt stattdessen auf die Datei. Kein Urteil.
+Koschi: Diese Aussagen sind — wie Todd Blanche sagte — unverifiziert und secondhand. Er verlinkt stattdessen auf die Datei. Kein Urteil.
 
 ### Todds Aussage zu Trump
 
@@ -69,7 +69,7 @@ Direkte Frage auf der Pressekonferenz: „Können Sie versichern, dass Sie Donal
 
 Todds Antwort: *„I can assure you we complied with the statute. There is a hunger for information that I do not think will be satisfied by the review of these documents."*
 
-Koshi: Diese Antwort verwirrte ihn — denn das klingt danach, dass Trump eben **nicht** in den Dateien prominent vorkommt. Aber dann war das Dokument oben drin, das Trump belastet.
+Koschi: Diese Antwort verwirrte ihn — denn das klingt danach, dass Trump eben **nicht** in den Dateien prominent vorkommt. Aber dann war das Dokument oben drin, das Trump belastet.
 
 ---
 
@@ -82,10 +82,10 @@ Koshi: Diese Antwort verwirrte ihn — denn das klingt danach, dass Trump eben *
 > **Epstein Transparency Act** — Gesetz verpflichtet zur Veröffentlichung. DOJ räumt ein, nur 50% freigegeben zu haben.
 
 > [!warning] Vereinfacht
-> **„Das DOJ hat keine Klienten"** — Koshi kritisiert das anwaltliche Privileg-Argument. Es ist jedoch möglich, dass das DOJ sich auf attorney-client privilege zwischen Epstein und seinen Anwälten bezieht (Drittschutz). Rechtlich komplex.
+> **„Das DOJ hat keine Klienten"** — Koschi kritisiert das anwaltliche Privileg-Argument. Es ist jedoch möglich, dass das DOJ sich auf attorney-client privilege zwischen Epstein und seinen Anwälten bezieht (Drittschutz). Rechtlich komplex.
 
 > [!danger] Nicht verifizierbar
-> **Inhalt der PDF-Datei mit Aussagen zu Trump** — Koshi verlinkt auf Meidas Touch. Die Datei selbst ist eine interne DOJ-Zusammenfassung aus August 2025, enthält teils unverifizierten Secondhand-Content. Weder bestätigt noch widerlegt.
+> **Inhalt der PDF-Datei mit Aussagen zu Trump** — Koschi verlinkt auf Meidas Touch. Die Datei selbst ist eine interne DOJ-Zusammenfassung aus August 2025, enthält teils unverifizierten Secondhand-Content. Weder bestätigt noch widerlegt.
 
 ---
 
@@ -94,7 +94,7 @@ Koshi: Diese Antwort verwirrte ihn — denn das klingt danach, dass Trump eben *
 > [!abstract] Was diese Quelle liefert
 > - Erste Zusammenfassung der DOJ-Pressekonferenz für deutsches Publikum
 > - Verweis auf wichtige Primärquellen (Meidas Touch Download-Link)
-> - **Limitation**: Koshi zieht bewusst eine Linie bei unverifizierten Anschuldigungen — das ist seriös, bedeutet aber, dass das Video inhaltlich dünn bleibt
+> - **Limitation**: Koschi zieht bewusst eine Linie bei unverifizierten Anschuldigungen — das ist seriös, bedeutet aber, dass das Video inhaltlich dünn bleibt
 
 > [!question] Offene Fragen
 > - Was steht in den zurückgehaltenen 50% der Dateien?
@@ -109,7 +109,7 @@ Koshi: Diese Antwort verwirrte ihn — denn das klingt danach, dass Trump eben *
 Direkte Fortsetzung vom nächsten Tag: Elon Musk, Howard Lutnick, Überlebenden-Aussagen.
 
 ### → [[Zeitgeist/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]]
-Koshi im Trump-DHS-Video: „Wer weiß, was Israel bezüglich Epstein noch gegen Donald Trump in der Hand hat." — Die Epstein-Frage ist mit dem Iran-Krieg verknüpft.
+Koschi im Trump-DHS-Video: „Wer weiß, was Israel bezüglich Epstein noch gegen Donald Trump in der Hand hat." — Die Epstein-Frage ist mit dem Iran-Krieg verknüpft.
 
 ### → [[Zeitgeist/Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11]]
 TS11: Trump verteidigt Pam Bondi, die die Epstein-Anhörung im Kongress leitete.
@@ -120,7 +120,7 @@ Was aus Blanches „maximaler Transparenz“ wurde: FBI-Schulungsvideos zur name
 
 ---
 
-## Serie: Koshi Politik — Epstein-Dokumentation
+## Serie: Koschi Politik — Epstein-Dokumentation
 
 | # | Thema | Datum | Note |
 |---|---|---|---|

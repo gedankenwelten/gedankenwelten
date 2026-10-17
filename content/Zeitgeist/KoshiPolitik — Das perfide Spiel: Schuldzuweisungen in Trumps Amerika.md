@@ -1,6 +1,6 @@
 ---
 date: 2026-04-01
-title: "KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika"
+title: "Koschi Politik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -16,10 +16,10 @@ tags:
   - year-2026
 aliases:
   - Das perfide Spiel
-  - KoshiPolitik Schuldzuweisungen
+  - Koschi Politik Schuldzuweisungen
 ---
 
-# KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika
+# Koschi Politik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika
 
 Quelle: [Das perfide Spiel! Wer schiebt die Schuld wem in die Schuhe?](https://www.youtube.com/watch?v=qcXEpzzsjy4) (März 2026)
 
@@ -105,7 +105,7 @@ Das "perfide Spiel" im Titel ist präzise: Es geht nicht nur um Fehler, sondern 
 
 ### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
 
-Völkerrechtlicher Rahmen des Iran-Krieges; Ergänzung zu Koshis Innenperspektive
+Völkerrechtlicher Rahmen des Iran-Krieges; Ergänzung zu Koschis Innenperspektive
 
 ### → [[Nico Lange — Hat Trump die Kontrolle über den Iran-Krieg verloren]]
 
@@ -113,7 +113,7 @@ Strategische Analyse: Trump verliert Kontrolle; deckt sich mit Hegseth-Debakel
 
 ### → [[Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]
 
-Innenpolitische Erosion der Trump-Unterstützung; direkte Parallele zu Koshis Beobachtungen
+Innenpolitische Erosion der Trump-Unterstützung; direkte Parallele zu Koschis Beobachtungen
 
 ### → [[Diba Mirzaei — Irankrieg & Geschichte (Jung & Naiv 815)]]
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan"
+title: "Koschi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,16 +13,16 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi MAGA Risse
+  - Koschi MAGA Risse
   - Fox News NFL Iran
 ---
 
-# Koshi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan
+# Koschi Politik — MAGA-Risse: Fox News, NFL und Mehdi Hasan
 
 Datum: 12.03.2026
 Quelle: [The wheels are coming off — Fox News stellt Trump in Frage](https://www.youtube.com/watch?v=BaSQeevMZGc)
 
-> [!info] Wer ist Koshi Politik?
+> [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Eigene Einschätzung: links-liberal, faktenbasiert. **Meinungen von Fakten trennen** bleibt wichtig.
 
 ---
@@ -37,7 +37,7 @@ Das Weiße Haus postete ein Video, das **Iran-Bombenangriffe mit NFL-Highlights 
 - Lewis selbst: „I did not approve my image or football highlights being used to compare football to war."
 - Video verschwand, nachdem Spieler und Fans protestierten
 
-Koshi: Das Weiße Haus dachte, Amerikaner lieben NFL und Videospiele — lass uns den Krieg damit kombinieren.
+Koschi: Das Weiße Haus dachte, Amerikaner lieben NFL und Videospiele — lass uns den Krieg damit kombinieren.
 
 ### Peter Doocy (Fox News!) stellt Trump in Frage
 
@@ -51,12 +51,12 @@ Peter Doocy, Fox-News-Korrespondent, konfrontiert Trump direkt:
 
 Trumps Antwort: *„Ist beides."*
 
-Koshi: Schrödinger's War. Und: Doocy von Fox News anzuschauen, wie er Trump in aller Öffentlichkeit auf seine Widersprüche hinweist, hatte er nicht erwartet.
+Koschi: Schrödinger's War. Und: Doocy von Fox News anzuschauen, wie er Trump in aller Öffentlichkeit auf seine Widersprüche hinweist, hatte er nicht erwartet.
 
 **Trump über den gestiegenen Ölpreis:**
 > *„Das passiert natürlich im Krieg — aber die sind nicht so weit gestiegen, wie wir gedacht haben, dass sie steigen würden."*
 
-Koshi: MAGA weiß jetzt: ihr habt **erwartet**, dass die Preise steigen. Das ist ein Skandal.
+Koschi: MAGA weiß jetzt: ihr habt **erwartet**, dass die Preise steigen. Das ist ein Skandal.
 
 ### Mehdi Hasan vs. Pierce Morgan
 
@@ -100,7 +100,7 @@ Hasan: *„They know they're in trouble at the midterms — rather than change c
 > **Peter Doocy stellte Trump auf Widersprüche „Ausflug vs. Krieg" an** — Im Video direkt zu sehen. Fox-News-Pressekonferenz.
 
 > [!warning] Vereinfacht
-> **„Unpopulärster Krieg seit dem Zweiten Weltkrieg"** — Koshis Formulierung. Die Vergleichbarkeit über Jahrzehnte ist schwierig. Vietnam und Korea hatten ebenfalls massive Unpopularität. Aber für die aktuelle Periode plausibel.
+> **„Unpopulärster Krieg seit dem Zweiten Weltkrieg"** — Koschis Formulierung. Die Vergleichbarkeit über Jahrzehnte ist schwierig. Vietnam und Korea hatten ebenfalls massive Unpopularität. Aber für die aktuelle Periode plausibel.
 
 > [!warning] Vereinfacht
 > **Trump „wusste", dass Ölpreise steigen würden** — Trumps Aussage impliziert Kalkulation. Ebenso plausibel: Er wusste es nicht und redet es jetzt schön.
@@ -110,7 +110,7 @@ Hasan: *„They know they're in trouble at the midterms — rather than change c
 ## Verbindungen
 
 ### → [[Zeitgeist/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
-Direkte Vorgänger-Note: Am Tag zuvor hatte Koshi die Fragmentierung theoretisch beschrieben. Hier sieht man sie live — Fox News stellt Trump in Frage.
+Direkte Vorgänger-Note: Am Tag zuvor hatte Koschi die Fragmentierung theoretisch beschrieben. Hier sieht man sie live — Fox News stellt Trump in Frage.
 
 ### → [[Zeitgeist/Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult]]
 Nächste Eskalationsstufe: Acht Tage später verlassen Nick Fuentes und Joe Kent öffentlich den Kult.

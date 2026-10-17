@@ -408,7 +408,7 @@ Rosa beschreibt Resonanz als echte Verbindung — als ein Berührt-werden von de
 ---
 
 ### → [[KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika]]
-Trumps systematisches Verschieben von Verantwortung auf Demokraten, Hegseth, oder "schlechte Berater" ist ein klassisches narzisstisches Abwehrmuster: keine Fehlerübernahme, stattdessen Externalisierung. Koshis Fallstudie illustriert Hagemeyers Diagnose im politischen Kontext.
+Trumps systematisches Verschieben von Verantwortung auf Demokraten, Hegseth, oder "schlechte Berater" ist ein klassisches narzisstisches Abwehrmuster: keine Fehlerübernahme, stattdessen Externalisierung. Koschis Fallstudie illustriert Hagemeyers Diagnose im politischen Kontext.
 
 ### → [[Spuren/Loosh-und-Solar-Flash-was-aus-einer-datierten-Prophezeiung-wird|Loosh & Solar-Flash]]
 

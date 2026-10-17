@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen"
+title: "Koschi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,17 +13,17 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi TS12 Iran
+  - Koschi TS12 Iran
   - Truth Social 12 Diego Garcia
 ---
 
-# Koshi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen
+# Koschi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen
 
 Datum: 19.02.2026
 Quelle: [Truth Social Folge 12: Diego Garcia und das Zeichen für den Iran-Krieg](https://www.youtube.com/watch?v=-Z7t_s04vWo)
 
-> [!info] Wer ist Koshi Politik?
-> Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Dieses Video wurde vor dem Iran-Krieg produziert — Koshi erkannte früh die Vorzeichen.
+> [!info] Wer ist Koschi Politik?
+> Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Dieses Video wurde vor dem Iran-Krieg produziert — Koschi erkannte früh die Vorzeichen.
 
 ---
 
@@ -39,7 +39,7 @@ Trump postet erneut Behauptungen über Dominion Voting Machines (Wahlautomaten):
 - 2,7 Millionen Trump-Stimmen gelöscht
 - Behauptung: Maschinen waren doch ans Internet angeschlossen
 
-**Koshi:** Er zeigt das, weil er hofft, dass **Dominion wieder klagt**. Hintergrund:
+**Koschi:** Er zeigt das, weil er hofft, dass **Dominion wieder klagt**. Hintergrund:
 
 - Fox News hat Dominion verklagt wegen Verleumdung, da Fox unbelegte Betrugsvorwürfe ausstrahlte
 - Interne Fox-Nachrichten zeigten, dass Moderatoren die Anschuldigungen selbst für fragwürdig hielten
@@ -58,13 +58,13 @@ Jetzt verbreitet Trump denselben Schwachsinn erneut.
 Trump's Post:
 > *„Ich habe PM Starmer gesagt, dass er einen großen Fehler macht. Diego Garcia liegt strategisch im Indischen Ozean. Sollte sich der Iran entscheiden, kein Abkommen zu schließen, könnte es notwendig werden, dass die Vereinigten Staaten Diego Garcia sowie den Luftwaffenstützpunkt in Fort nutzen, um einen möglichen Angriff eines äußerst instabilen und gefährlichen Regimes zu verhindern. [...] GIBT DIEGO GARCIA NICHT AUF."*
 
-**Koshis Analyse:**
+**Koschis Analyse:**
 - Trump macht sich öffentlich Sorgen, den Zugang zu Diego Garcia zu verlieren
 - Die Insel wird für Bombardierungsflüge im Nahen Osten und Indischen Ozean genutzt
 - Ein Post wie dieser — kurz vor einem Iran-Angriff — ist kein Zufall
 - **Fazit:** Das war das öffentliche Vorzeichen für den Beginn des Iran-Krieges
 
-Koshi am Ende: *„Ich hoffe, ich liege falsch. Aber ich kann es mir ehrlich gesagt nicht vorstellen."*
+Koschi am Ende: *„Ich hoffe, ich liege falsch. Aber ich kann es mir ehrlich gesagt nicht vorstellen."*
 
 *Er lag nicht falsch. Der Krieg begann kurz danach.*
 
@@ -82,10 +82,10 @@ Koshi am Ende: *„Ich hoffe, ich liege falsch. Aber ich kann es mir ehrlich ges
 > **Diego Garcia als Abschussbasis für Bombenangriffe** — Die Insel wurde u.a. für Angriffe in Afghanistan und Irak genutzt. Strategisch bedeutend für den Indischen Ozean.
 
 > [!warning] Vereinfacht
-> **Trumps Post als Beweis für geplanten Iran-Krieg** — Koshi interpretiert das als Vorzeichen. Es könnte auch Verhandlungsdruck gegenüber UK sein.
+> **Trumps Post als Beweis für geplanten Iran-Krieg** — Koschi interpretiert das als Vorzeichen. Es könnte auch Verhandlungsdruck gegenüber UK sein.
 
 > [!danger] Falsch
-> **Dominion-Behauptungen** — Wurden durch Gerichtsverfahren widerlegt. Fox News musste 787 Millionen zahlen, weil die Behauptungen unwahr waren. Koshi stellt das klar.
+> **Dominion-Behauptungen** — Wurden durch Gerichtsverfahren widerlegt. Fox News musste 787 Millionen zahlen, weil die Behauptungen unwahr waren. Koschi stellt das klar.
 
 ---
 

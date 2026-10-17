@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest"
+title: "Koschi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,16 +13,16 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi Iran NATO
+  - Koschi Iran NATO
   - Iran Hormuz NATO Verweigerung
 ---
 
-# Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest
+# Koschi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest
 
 Datum: 17.03.2026
 Quelle: [NATO sagt Nein — Was kann Trump jetzt noch gewinnen?](https://www.youtube.com/watch?v=Aq5iO6nDbuQ)
 
-> [!info] Wer ist Koshi Politik?
+> [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.
 
 ---
@@ -63,7 +63,7 @@ Alles in einer einzigen Pressekonferenz.
 - **Sprecher von Bundeskanzler Friedrich Merz:** *„Das ist nicht der Krieg der NATO."*
 - **UK-Premier Keir Starmer:** Einziger, der sich zumindest symbolisch solidarisch zeigt — verweist auf gemeinsames Interesse an offener Seefahrt, aber ohne Commitment
 
-**Koshi:** Artikel 5 greift nicht — die USA haben **proaktiv** angegriffen, nicht reagiert. Wer Hilfe will, muss vorher konsultieren.
+**Koschi:** Artikel 5 greift nicht — die USA haben **proaktiv** angegriffen, nicht reagiert. Wer Hilfe will, muss vorher konsultieren.
 
 ### Was kann jetzt noch gewonnen werden?
 
@@ -79,7 +79,7 @@ MSNow-Experte nennt drei realistische Ziele:
 
 ### Wirtschaftliche Folgen kommen verzögert
 
-Koshi: Die Bevölkerung merkt den Krieg bisher hauptsächlich am Spritpreis. Wenn aber Lebensmittelpreise steigen (Transportkosten), wird das für die Midterms im November zum Problem.
+Koschi: Die Bevölkerung merkt den Krieg bisher hauptsächlich am Spritpreis. Wenn aber Lebensmittelpreise steigen (Transportkosten), wird das für die Midterms im November zum Problem.
 
 Sein Szenario: Trump verliert Senat und Repräsentantenhaus. Im März nächsten Jahres sagt er: „Ich bin 80, hab keine Lust mehr" und geht.
 
@@ -97,13 +97,13 @@ Sein Szenario: Trump verliert Senat und Repräsentantenhaus. Im März nächsten 
 > **Super-Tanker-Problem** — General Kanes Einschätzung ist militärisch unstrittig und von Experten bestätigt. Quelle: US-Marineanalysen, diverse MSNow/CNN-Berichte
 
 > [!warning] Vereinfacht
-> **„21 Milliarden Dollar ausgegeben"** — Koshi nennt diese Zahl. Je nach Quelle und Zeitpunkt wurden verschiedene Zahlen (13–25 Mrd.) genannt. Genaue Summe nicht verifiziert.
+> **„21 Milliarden Dollar ausgegeben"** — Koschi nennt diese Zahl. Je nach Quelle und Zeitpunkt wurden verschiedene Zahlen (13–25 Mrd.) genannt. Genaue Summe nicht verifiziert.
 
 > [!warning] Vereinfacht
 > **„Bodentruppen als einzige Option für Hormuz-Sicherung"** — Das ist die Einschätzung des MSNow-Experten, aber militärische Szenarien sind vielfältig. Alternative: internationale Koalition für Seebegleitung.
 
 > [!warning] Vereinfacht
-> **Koshis Trump-Rücktritts-Prognose** — reine Spekulation, die als plausibles Szenario dargestellt wird. Kein Faktencheck möglich.
+> **Koschis Trump-Rücktritts-Prognose** — reine Spekulation, die als plausibles Szenario dargestellt wird. Kein Faktencheck möglich.
 
 ---
 
@@ -136,7 +136,7 @@ Direkte zeitliche Parallele: Während Trump um NATO-Hilfe bettelt, bröckelt die
 Heinisch analysiert denselben Verlauf: Trump verliert innenpolitisch, weil der Krieg strukturell nicht gewinnbar ist und die wirtschaftlichen Kosten sichtbar werden.
 
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
-MONITOR liefert den rechtlichen Rahmen: Trumps Verweigerung, den Kongress einzubeziehen. Koshi zeigt die politische Konsequenz: keine Alliierten, keine Legitimität.
+MONITOR liefert den rechtlichen Rahmen: Trumps Verweigerung, den Kongress einzubeziehen. Koschi zeigt die politische Konsequenz: keine Alliierten, keine Legitimität.
 
 ### → [[Koschi Politik — Weißes Haus löscht Trumps Privatvideo]]
 Trumps Privataussage bestätigt die Verweigerungsanalyse: Er sagt offen, seine Beziehungen zu Russland und China seien besser als die zur NATO — und die NATO wäre bei Konflikten mit „The Big Ones" sowieso nicht da.

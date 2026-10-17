@@ -164,7 +164,7 @@ Bria kartiert exakt die Machtarchitektur, die Klarsprech in vier Kapiteln nacher
 
 ### → [[Koshi Politik — ICE, Palantir und der Überwachungsstaat]]
 
-Direkte thematische Überlappung: Koshi dokumentiert die konkreten Auswirkungen von Palantirs ICE-Software auf Immigranten — die menschliche Seite dessen, was Klarsprech als Systemarchitektur beschreibt. Zusammen: Klarsprech zeigt den Architekten (Thiel), Koshi die Opfer.
+Direkte thematische Überlappung: Koschi dokumentiert die konkreten Auswirkungen von Palantirs ICE-Software auf Immigranten — die menschliche Seite dessen, was Klarsprech als Systemarchitektur beschreibt. Zusammen: Klarsprech zeigt den Architekten (Thiel), Koschi die Opfer.
 
 ### → [[Andreas Kemper — Technofaschismus und die AfD]]
 

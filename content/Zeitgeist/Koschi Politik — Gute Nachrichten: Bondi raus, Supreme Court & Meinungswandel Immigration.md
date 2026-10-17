@@ -91,9 +91,9 @@ Umfragedaten zeigen eine dramatische Verschiebung der öffentlichen Meinung:
 
 Trumps Zustimmung zur Immigrationspolitik insgesamt: **−20 Punkte** gegenüber Januar 2025.
 
-Koschi führt den Wandel auf die verstörenden Bilder von ICE-Einsätzen zurück: Pfefferspray in Augen aus nächster Nähe, die Erschießung von **Alexy** und **René Good** auf offener Straße, stundenlange Schlangen am Flughafen. Das hat auch Menschen aufgeweckt, die vorher Trumps Migrationskurs unterstützt hatten.
+Koschi führt den Wandel auf die verstörenden Bilder von ICE-Einsätzen zurück: Pfefferspray in Augen aus nächster Nähe, die Erschießung von **Alex Pretti** und **Renée Good** auf offener Straße, stundenlange Schlangen am Flughafen. Das hat auch Menschen aufgeweckt, die vorher Trumps Migrationskurs unterstützt hatten.
 
-> *„Man könnte sagen, vielleicht war der Tod von Alexy und René Good doch zu etwas gut und hat zu einem Aufwachen bei den Leuten geführt."*
+> *„Man könnte sagen, vielleicht war der Tod von Alex Pretti und Renée Good doch zu etwas gut und hat zu einem Aufwachen bei den Leuten geführt."*
 
 ---
 
@@ -130,7 +130,7 @@ Kontext zu den 3 Millionen Dokumenten, bei deren Veröffentlichung Bondi Opfer u
 
 ### → [[Koshi Politik — ICE Buffalo — Tod eines Flüchtlings]]
 
-Alexy und René Good: die konkreten Todesfälle, die Koschi als Auslöser des Meinungswandels benennt
+Alex Pretti und Renée Good: die konkreten Todesfälle, die Koschi als Auslöser des Meinungswandels benennt
 
 ### → [[Koshi Politik — ICE bestiehlt Immigranten]]
 

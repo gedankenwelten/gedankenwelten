@@ -182,7 +182,7 @@ Die Eskalationsspirale ist nicht theoretisch — sie läuft gerade.
 
 ### → [[Koshi Politik — ICE, Palantir und der Überwachungsstaat]]
 
-Direkte thematische Parallele: Während Koshi Politik die ICE-Kooperation und die US-Dimension beleuchtet, zeigen Kurz und Görlitz die deutsche Seite derselben Software-Infrastruktur. Zusammen ergibt sich das vollständige Bild — transnationaler Konzern, nationale Strafverfolgungsbehörden, dieselbe Logik.
+Direkte thematische Parallele: Während Koschi Politik die ICE-Kooperation und die US-Dimension beleuchtet, zeigen Kurz und Görlitz die deutsche Seite derselben Software-Infrastruktur. Zusammen ergibt sich das vollständige Bild — transnationaler Konzern, nationale Strafverfolgungsbehörden, dieselbe Logik.
 
 ### → [[Denker/Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus]]
 

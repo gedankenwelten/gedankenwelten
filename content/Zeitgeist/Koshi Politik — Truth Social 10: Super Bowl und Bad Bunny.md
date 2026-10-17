@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Truth Social 10: Super Bowl und Bad Bunny"
+title: "Koschi Politik — Truth Social 10: Super Bowl und Bad Bunny"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -12,17 +12,17 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi TS10 SuperBowl
+  - Koschi TS10 SuperBowl
   - Truth Social 10 Bad Bunny
 ---
 
-# Koshi Politik — Truth Social 10: Super Bowl und Bad Bunny
+# Koschi Politik — Truth Social 10: Super Bowl und Bad Bunny
 
 Datum: 09.02.2026
 Quelle: [Truth Social Folge 10: Trump über die Super Bowl Halftime Show](https://www.youtube.com/watch?v=YsQ31mFgM_g)
 
-> [!info] Wer ist Koshi Politik?
-> Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Format: Originalpost im Bild, deutsche Übersetzung vorgelesen. Koshi wohnt in Buffalo, NY.
+> [!info] Wer ist Koschi Politik?
+> Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Format: Originalpost im Bild, deutsche Übersetzung vorgelesen. Koschi wohnt in Buffalo, NY.
 
 ---
 
@@ -52,7 +52,7 @@ Bad Bunny trägt **zwei Botschaften** in die Show:
 Deutsche Übersetzung:
 > *„Die Super Bowl Halftime Show ist absolut schrecklich, einer der schlechtesten überhaupt. Sie ergibt keinen Sinn, ist eine Beleidigung für die Größe Amerikas. Niemand versteht ein Wort von dem, was dieser Typ sagt, und der Tanz ist widerwertig, besonders für junge Kinder [...]. Diese Show ist ein Schlag ins Gesicht für unser Land. Und übrigens, die NFL sollte sofort die lächerliche neue Kickoff-Regel ersetzen. Make America great again."*
 
-Koshi: Trump sagt, **kein Mensch** versteht Bad Bunny — in einem Land mit 50 Millionen Spanisch-Muttersprachlern.
+Koschi: Trump sagt, **kein Mensch** versteht Bad Bunny — in einem Land mit 50 Millionen Spanisch-Muttersprachlern.
 
 ### Turning Point USA — die Gegensendung
 
@@ -60,7 +60,7 @@ Charlie Kirkes Organisation organisierte eine **alternative Super Bowl Halftime 
 
 - Musste auf X abbrechen wegen **Lizenzproblemen** für die verwendete Musik
 - Vor ca. 50 geladenen Gästen
-- Koshi: „Die kriegen nicht mal das vernünftig hin."
+- Koschi: „Die kriegen nicht mal das vernünftig hin."
 
 ---
 
@@ -70,13 +70,13 @@ Charlie Kirkes Organisation organisierte eine **alternative Super Bowl Halftime 
 > **Bad Bunny Spotify-Zahlen** — ca. 25 Milliarden Streams 2025, einer der meistgestreamten Künstler weltweit. Quelle: Spotify Year in Review
 
 > [!success] Bestätigt
-> **Liam Ramos** — der Fünfjährige aus Minnesota, von ICE deportiert. Koshi hatte darüber berichtet. Bad Bunnys Widmung an Liam ist von mehreren Medien dokumentiert worden.
+> **Liam Ramos** — der Fünfjährige aus Minnesota, von ICE deportiert. Koschi hatte darüber berichtet. Bad Bunnys Widmung an Liam ist von mehreren Medien dokumentiert worden.
 
 > [!success] Bestätigt
 > **Bad Bunny hat amerikanische Staatsbürgerschaft** — Er ist Puerto-Ricaner, Puerto Rico ist US-Territorium.
 
 > [!warning] Vereinfacht
-> **Turning Point USA-Event auf X abgebrochen** — Koshi sagt Lizenzprobleme. Die genaue Ursache wurde offiziell nicht bestätigt.
+> **Turning Point USA-Event auf X abgebrochen** — Koschi sagt Lizenzprobleme. Die genaue Ursache wurde offiziell nicht bestätigt.
 
 ---
 
@@ -93,7 +93,7 @@ Manow: Kulturelle Abgrenzung als Machtinstrument. Trumps Post zeigt genau das: S
 
 ---
 
-## Serie: Koshi Politik — Truth Social
+## Serie: Koschi Politik — Truth Social
 
 | # | Thema | Datum | Note |
 |---|---|---|---|

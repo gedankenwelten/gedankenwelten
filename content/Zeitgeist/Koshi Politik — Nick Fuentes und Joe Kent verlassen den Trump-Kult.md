@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult"
+title: "Koschi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,17 +13,17 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi MAGA Civilwar
+  - Koschi MAGA Civilwar
   - Fuentes Kent Trump-Kult
 ---
 
-# Koshi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult
+# Koschi Politik — Nick Fuentes und Joe Kent verlassen den Trump-Kult
 
 Datum: 20.03.2026
 Quelle: [Nick Fuentes, Joe Kent — und das Ende des Personenkults](https://www.youtube.com/watch?v=eAgxjKZ4W3g)
 
-> [!info] Wer ist Koshi Politik?
-> Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Eigene Einschätzung: links-liberal, faktenbasiert. Koshi ist hier explizit gut gelaunt — das ist erkennbar in der Wortwahl.
+> [!info] Wer ist Koschi Politik?
+> Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Eigene Einschätzung: links-liberal, faktenbasiert. Koschi ist hier explizit gut gelaunt — das ist erkennbar in der Wortwahl.
 
 ---
 
@@ -42,7 +42,7 @@ Quelle: [Nick Fuentes, Joe Kent — und das Ende des Personenkults](https://www.
 Und zur logischen Konsequenz:
 > *„Either you lied or you genuinely hired someone incompetent to protect the homeland — so you should be impeached either way."*
 
-Koshi: Nick Fuentes ist kein Freund von ihm und wird es nie sein. Aber wenn jemand, der bisher Trump auf Händen getragen hat, jetzt sagt „er muss weg" — das ist bedeutsam.
+Koschi: Nick Fuentes ist kein Freund von ihm und wird es nie sein. Aber wenn jemand, der bisher Trump auf Händen getragen hat, jetzt sagt „er muss weg" — das ist bedeutsam.
 
 ### Das Fatwa-Argument: Iran hatte nie Atombombe
 
@@ -53,7 +53,7 @@ Joe Kent bei Tucker Carlson:
 - Hätten sie Atommaterial gewollt, hätten sie tonnenweise Öl nach Pakistan schicken können
 - Es gibt keinerlei Intelligence, dass der Iran eine Atombombe entwickelt hat oder kurz davor war
 
-**Koshi:** Das ist die Kernlüge des Krieges. Der Iran stellte keine existenzielle Bedrohung dar.
+**Koschi:** Das ist die Kernlüge des Krieges. Der Iran stellte keine existenzielle Bedrohung dar.
 
 ### Israel-Qatar-Konflikt: USA vs. eigene Verbündete
 
@@ -66,7 +66,7 @@ Joe Kent bei Tucker Carlson:
 
 **Trump's Post auf Truth Social** (Großbuchstaben): „Die Vereinigten Staaten WUSSTEN NICHTS von diesem Angriff. Qatar war NICHT beteiligt. KEINE WEITEREN ANGRIFFE von Israel." — Widerspricht dem, was der eigene Verteidigungsbeamte gesagt hatte.
 
-Koshi: Amerika und Israel beschuldigen sich gegenseitig in der Öffentlichkeit.
+Koschi: Amerika und Israel beschuldigen sich gegenseitig in der Öffentlichkeit.
 
 ### Gaddafi-Lektion: Warum Atomwaffen nie aufgegeben werden
 
@@ -78,7 +78,7 @@ Joe Kent über die strategische Rationalität des Irans:
 
 ### Wirtschaftliche Bilanz: Das „Goldene Zeitalter"
 
-Schlussmontage bei Koshi:
+Schlussmontage bei Koschi:
 - BIP-Wachstum weit unter Erwartungen
 - Ölpreis +40% seit Kriegsbeginn
 - Inflation steigt — und das kommt noch von den Zöllen, **vor dem Iran-Krieg**
@@ -101,7 +101,7 @@ Schlussmontage bei Koshi:
 > **„Iran hatte NIE Atombombe"** — Streng genommen richtig zum Zeitpunkt. Aber: Iran **hatte** Anreicherungskapazitäten und war nach verschiedenen Schätzungen 6 Monate bis 2 Jahre von weaponizable Material entfernt. Die Fatwa macht die Entwicklung weniger wahrscheinlich, schließt sie nicht aus.
 
 > [!warning] Vereinfacht
-> **Trump-Post widerspricht eigenem Verteidigungsbeamten** — Koshi stellt das als klaren Widerspruch dar. Möglicherweise gab es unterschiedliche Informationsstände oder taktische Kommunikation.
+> **Trump-Post widerspricht eigenem Verteidigungsbeamten** — Koschi stellt das als klaren Widerspruch dar. Möglicherweise gab es unterschiedliche Informationsstände oder taktische Kommunikation.
 
 ---
 
@@ -111,7 +111,7 @@ Schlussmontage bei Koshi:
 Qatar-Angriff schließt den Kreis: Trump ließ sich von Qatar schmieren — und Qatar wurde trotzdem angegriffen.
 
 ### → [[Zeitgeist/Koshi Politik — MAGA 2.0: Die Geburt der desillusionisierten Basis]]
-Nick Fuentes und Joe Kent verkörpern exakt das MAGA 2.0-Phänomen, das Koshi neun Tage zuvor beschrieben hatte.
+Nick Fuentes und Joe Kent verkörpern exakt das MAGA 2.0-Phänomen, das Koschi neun Tage zuvor beschrieben hatte.
 
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
 Die Fatwa-Information war bekannt. Der Krieg wurde trotzdem geführt. Das ist das Völkerrechtsproblem, das MONITOR beschreibt: ein Angriffskrieg ohne tatsächliche Bedrohung.

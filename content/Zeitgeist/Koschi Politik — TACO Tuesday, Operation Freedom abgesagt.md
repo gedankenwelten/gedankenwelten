@@ -145,7 +145,7 @@ Flemig lieferte die militärtechnische Analyse der Seeblockade — Area Denial, 
 
 ### → [[Bundestalk — Iran USA und die Strasse von Hormus]]
 
-Der Bundestalk diskutiert die geopolitische Dimension der Hormus-Krise. Koshis Analyse ergänzt die innenpolitische Perspektive: Trump sabotiert seine eigene Hormus-Operation aus taktischen Gründen.
+Der Bundestalk diskutiert die geopolitische Dimension der Hormus-Krise. Koschis Analyse ergänzt die innenpolitische Perspektive: Trump sabotiert seine eigene Hormus-Operation aus taktischen Gründen.
 
 ### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
 

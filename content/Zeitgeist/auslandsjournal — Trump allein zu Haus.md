@@ -206,7 +206,7 @@ Trumps geleaktes Privatgespräch belegt die These vom Vertrauensverlust gegenüb
 
 ### → [[Zeitgeist/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]]
 
-Die Konkretion der These vom verbrauchten Vertrauen: Wenn die Ressource aufgebraucht ist, bleibt man im Ernstfall allein — Artikel-5-Bündnis hin oder her. Koshi dokumentiert den Fall, das auslandsjournal liefert die strukturelle Erklärung.
+Die Konkretion der These vom verbrauchten Vertrauen: Wenn die Ressource aufgebraucht ist, bleibt man im Ernstfall allein — Artikel-5-Bündnis hin oder her. Koschi dokumentiert den Fall, das auslandsjournal liefert die strukturelle Erklärung.
 
 ### → [[Zeitgeist/PhoenixRunde — Trumps Iran-Krieg: Chaos oder Strategie?]]
 

@@ -82,7 +82,7 @@ Selbst hartgesottene MAGA-Anhänger wie Michael Nis und Wiley Gaines (bekannte R
 
 > *„Egal wie man es auslegt — ein bisschen Selbstachtung könnte ihm gut tun."*
 
-Koshi: Das ist für Trump ungewohnt. Widerspruch aus den eigenen Reihen kennt er normalerweise nicht.
+Koschi: Das ist für Trump ungewohnt. Widerspruch aus den eigenen Reihen kennt er normalerweise nicht.
 
 ---
 
@@ -133,7 +133,7 @@ Der Iran-Krieg war nicht genug. Jetzt der Krieg mit dem Papst — und der kathol
 > Trump behauptet, Leo wurde nur gewählt, weil er Amerikaner ist und die Kirche damit Trump managen wollte. Das ist Narzissmus als Weltbild — keine belegbare Kausalbeziehung. Weder die Kardinäle noch der Vatikan haben diese Interpretation bestätigt.
 
 > [!warning] Vereinfacht — Mager-Logik: Leo kritisiert Trump → Leo will Atombombe für Iran
-> Koshi beschreibt Trumps Logik korrekt: Wer Trump kritisiert, wird automatisch auf die Seite des Feindes gestellt. Das ist keine sachliche Analyse — es ist binäres Denken als politisches Werkzeug. Nicht falsch als Beschreibung des Musters, aber keine inhaltliche Verknüpfung.
+> Koschi beschreibt Trumps Logik korrekt: Wer Trump kritisiert, wird automatisch auf die Seite des Feindes gestellt. Das ist keine sachliche Analyse — es ist binäres Denken als politisches Werkzeug. Nicht falsch als Beschreibung des Musters, aber keine inhaltliche Verknüpfung.
 
 > [!success] Bestätigt — KI-Bild Trumps als Jesus wurde auf Truth Social gelöscht
 > Das Bild kursierte nach seiner Veröffentlichung in sozialen Netzwerken und wurde dokumentiert, bevor es gelöscht wurde. Selbst konservative Kommentatoren und MAGA-affine Figuren äußerten sich kritisch. [Mediaite, April 2026]

@@ -313,7 +313,7 @@ Sirus Schyek (Historiker, Genf) und Kamran Safiarian (ZDF-Journalist) — beide 
 Vier Experten (Fathollah-Nejad, Reinicke, Jäger, Kormbaki) bestätigen Langes These: USA wissen was sie *im* Krieg wollen, nicht was sie *mit* dem Krieg wollen. Zusatz: Asymmetrischer Krieg Irans via Hormuz-Blockade, Bodentruppen-Szenarien, Ghalibaf als möglicher Verhandlungspartner. Iran sieht sich als strategischer Sieger.
 
 ### → [[KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika]]
-Koshi dokumentiert live, was Lange strategisch analysiert: Hegseth als Sündenbock, konservative Stimmen für den 25. Zusatzartikel, MAGA-Influencer die Trump "korruptesten Präsidenten aller Zeiten" nennen — Langes These vom Kontrollverlust in konkreten Ereignissen.
+Koschi dokumentiert live, was Lange strategisch analysiert: Hegseth als Sündenbock, konservative Stimmen für den 25. Zusatzartikel, MAGA-Influencer die Trump "korruptesten Präsidenten aller Zeiten" nennen — Langes These vom Kontrollverlust in konkreten Ereignissen.
 
 ### → [[Staiy — News Machtmissbrauch CDU CSU (25.03.2026)]]
 STAIY berichtet über dieselbe Eskalationsspirale: 82. Luftlandedivision in den Nahen Osten, Bodentruppen-Szenarien, iranischer Spott auf Trumps Verhandlungsbehauptungen. STAIYs Fazit deckt sich mit Langes Analyse: Trump hat die Kontrolle verloren — Bodentruppen wären sein politisches Ende.

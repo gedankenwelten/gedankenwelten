@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Wer profitiert vom Iran-Krieg?"
+title: "Koschi Politik — Wer profitiert vom Iran-Krieg?"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,16 +13,16 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi Iran Geld
+  - Koschi Iran Geld
   - Iran-Krieg Profiteure
 ---
 
-# Koshi Politik — Wer profitiert vom Iran-Krieg?
+# Koschi Politik — Wer profitiert vom Iran-Krieg?
 
 Datum: 01.03.2026
 Quelle: [Wer profitiert wirklich vom Iran-Krieg?](https://www.youtube.com/watch?v=AVma8mzPm7A)
 
-> [!info] Wer ist Koshi Politik?
+> [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, US-Innenpolitik, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, aber faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.
 
 ---
@@ -31,7 +31,7 @@ Quelle: [Wer profitiert wirklich vom Iran-Krieg?](https://www.youtube.com/watch?
 
 ### Schock und erste Frage: Warum?
 
-Der Iran-Krieg hat begonnen. Koshi greift einen MS Now-Clip auf, der die klassische Frage erweitert: nicht nur **warum** — sondern **wer profitiert davon?**
+Der Iran-Krieg hat begonnen. Koschi greift einen MS Now-Clip auf, der die klassische Frage erweitert: nicht nur **warum** — sondern **wer profitiert davon?**
 
 ### Das Narrativ des Wahlkampfs 2024
 
@@ -44,7 +44,7 @@ Knappe 15 Monate später bombardieren die USA den Iran.
 
 ### Iranische Führung getötet
 
-Während Koshi das Video aufnimmt, kommt die Breaking News: Der **Oberste Führer des Iran wurde bei israelischen Angriffen getötet** (CNN, Quellen aus dem israelischen Sicherheitsapparat). CNN-Analyse: Das iranische System ist mehrschichtig — das Regime bricht nicht automatisch zusammen.
+Während Koschi das Video aufnimmt, kommt die Breaking News: Der **Oberste Führer des Iran wurde bei israelischen Angriffen getötet** (CNN, Quellen aus dem israelischen Sicherheitsapparat). CNN-Analyse: Das iranische System ist mehrschichtig — das Regime bricht nicht automatisch zusammen.
 
 ### Der MSNow-Clip: Wer profitiert?
 
@@ -70,7 +70,7 @@ Rachel Maddow (MSNow-Analystin) stellt die Profiteur-Frage:
 - Führt direkte Verhandlungen mit dem Iran
 - Hat Verbindungen zu Saudi-Arabien und Hunderte Millionen Dollar in Trumps Kryptoschema
 
-**Koshi:** Das US-Militär, finanziert vom US-Steuerzahler, wird wie ein **Timeshare-Modell** genutzt: Jeder kann beim Board of Peace einzahlen und Zugang zur US-Militärmacht erhalten.
+**Koschi:** Das US-Militär, finanziert vom US-Steuerzahler, wird wie ein **Timeshare-Modell** genutzt: Jeder kann beim Board of Peace einzahlen und Zugang zur US-Militärmacht erhalten.
 
 ### Widersprüche zur Kriegsbegründung
 
@@ -83,7 +83,7 @@ Rachel Maddow (MSNow-Analystin) stellt die Profiteur-Frage:
 
 ---
 
-## Koshis Einordnung vs. Fakten
+## Koschis Einordnung vs. Fakten
 
 | Aussage | Einordnung |
 |---|---|
@@ -110,10 +110,10 @@ Rachel Maddow (MSNow-Analystin) stellt die Profiteur-Frage:
 > **Marco Rubio und Witkoff-Widersprüche** zur nuklearen Bedrohung sind vielfach dokumentiert. Rubios Aussage vom 25.02.2026 war öffentlich zugänglich.
 
 > [!warning] Vereinfacht
-> **„Iran wurde schon immer von Golfstaaten-Geld für Kriege bezahlt"** — Die Korrelation zwischen Zahlungen und Kriegsentscheidung ist plausibel, aber der kausale Beweis fehlt. Koshi stellt das als Faktum dar, was eine Wertung bleibt.
+> **„Iran wurde schon immer von Golfstaaten-Geld für Kriege bezahlt"** — Die Korrelation zwischen Zahlungen und Kriegsentscheidung ist plausibel, aber der kausale Beweis fehlt. Koschi stellt das als Faktum dar, was eine Wertung bleibt.
 
 > [!warning] Vereinfacht
-> **„Kein Plan für die Zeit nach dem Krieg"** — Koshi impliziert dies. Es gab Pläne (Board of Peace, Regime-Change-Agenda), nur keine öffentlich kommunizierte Strategie.
+> **„Kein Plan für die Zeit nach dem Krieg"** — Koschi impliziert dies. Es gab Pläne (Board of Peace, Regime-Change-Agenda), nur keine öffentlich kommunizierte Strategie.
 
 ---
 
@@ -135,10 +135,10 @@ Rachel Maddow (MSNow-Analystin) stellt die Profiteur-Frage:
 ## Verbindungen
 
 ### → [[Zeitgeist/Reinhard Heinisch — Verliert Trump den Iran-Krieg in Amerika]]
-Heinisch analysiert Trumps innenpolitische Schwächung durch den Iran-Krieg. Koshi liefert die konkrete Finanzierungsebene: Wer hat dafür bezahlt, dass Trump in diesen Krieg gezogen ist?
+Heinisch analysiert Trumps innenpolitische Schwächung durch den Iran-Krieg. Koschi liefert die konkrete Finanzierungsebene: Wer hat dafür bezahlt, dass Trump in diesen Krieg gezogen ist?
 
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
-MONITOR analysiert die völkerrechtliche Dimension des Krieges. Koshi ergänzt die Korruptionsebene: Wem nutzt dieser Rechtsbruch?
+MONITOR analysiert die völkerrechtliche Dimension des Krieges. Koschi ergänzt die Korruptionsebene: Wem nutzt dieser Rechtsbruch?
 
 ### → [[Zeitgeist/Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund]]
 Direkte Fortsetzung: Was passiert innenpolitisch, nachdem die MAGA-Basis merkt, dass sie für fremde Interessen in den Krieg geschickt wird?
@@ -150,15 +150,15 @@ Die finanzielle Entblößung des Iran-Krieges ist der Auslöser für MAGA 2.0 �
 Hagemeyer: Narzissten brauchen externe Bestätigung und sind manipulierbar durch Schmeichelei und Geld. Die Golfstaaten haben genau das ausgenutzt.
 
 ### → [[Zeitgeist/Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
-Navidi ergänzt Koshis Profiteurs-Analyse um die Finanzebene: Insider-Trading auf Polymarket und Kalshi vor dem Iran-Angriff, Pete Hegseths Broker bei BlackRock, siebenstellige Wetten aus dem Trump-Umfeld. Dieselbe Kriegsentscheidung — Koschi: wer strategisch profitiert; Navidi: wer finanziell profitiert.
+Navidi ergänzt Koschis Profiteurs-Analyse um die Finanzebene: Insider-Trading auf Polymarket und Kalshi vor dem Iran-Angriff, Pete Hegseths Broker bei BlackRock, siebenstellige Wetten aus dem Trump-Umfeld. Dieselbe Kriegsentscheidung — Koschi: wer strategisch profitiert; Navidi: wer finanziell profitiert.
 
 ### → [[MONITOR — Trumps Milliarden mit der Praesidentschaft]]
 
-MONITOR ergänzt Koshis Profiteurs-Analyse um die direkte familiäre Bereicherung: Die Trump-Söhne als Investoren bei Drohnen-Firmen, World Liberty Financial als Krypto-Korruptionsvehikel, die 950-Millionen-Ölwette am Tag der Eskalation. Koshi fragt *wer* profitiert; MONITOR zeigt: die Familie des Präsidenten selbst.
+MONITOR ergänzt Koschis Profiteurs-Analyse um die direkte familiäre Bereicherung: Die Trump-Söhne als Investoren bei Drohnen-Firmen, World Liberty Financial als Krypto-Korruptionsvehikel, die 950-Millionen-Ölwette am Tag der Eskalation. Koschi fragt *wer* profitiert; MONITOR zeigt: die Familie des Präsidenten selbst.
 
 ---
 
-## Serie: Koshi Politik — Iran-Krieg
+## Serie: Koschi Politik — Iran-Krieg
 
 | # | Thema | Datum | Note |
 |---|---|---|---|
@@ -168,9 +168,9 @@ MONITOR ergänzt Koshis Profiteurs-Analyse um die direkte familiäre Bereicherun
 | 4 | NATO verweigert, Trump steckt fest | 17.03.2026 | [[Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]] |
 - [[Kai Schöneberg — Ölkrise lohnt sich für BP (taz)]] — BP als Energie-Profiteur des Irankriegs — dasselbe Muster der Krisengewinnler auf Konzernebene.
 - [[Follow This — Die grüne Horzel in Big Oil]] — Follow This stellt die Systemfrage an die Krisengewinnler: Wie lange noch profitabel, wenn Ölnachfrage sinkt?
-- [[Martin Sonneborn — Endloser Krieg]] — Sonneborn stellt dieselbe Cui-bono-Frage für den Ukraine-Krieg: 290 Milliarden EU-Gelder als Kriegsgewinngeschäft. Dasselbe Muster wie Koshis Iran-Analyse, aber ohne die konkrete Belegführung — eher rhetorische Empörung als investigative Recherche.
+- [[Martin Sonneborn — Endloser Krieg]] — Sonneborn stellt dieselbe Cui-bono-Frage für den Ukraine-Krieg: 290 Milliarden EU-Gelder als Kriegsgewinngeschäft. Dasselbe Muster wie Koschis Iran-Analyse, aber ohne die konkrete Belegführung — eher rhetorische Empörung als investigative Recherche.
 - [[Koschi Politik — TACO Tuesday, Operation Freedom abgesagt]] — Reuters bestätigt: Der Krieg hat den Atomzeitrahmen nicht verändert. Die Frage „wer profitiert?" wird damit umso dringlicher — der Krieg verfehlt sein erklärtes Ziel.
 
 ### → [[Zeitgeist/Nachtsitzung — TheTrumpWeek Oelkrise, KI-Staatsfonds, Thiel|TheTrumpWeek — Ölkrise, KI-Staatsfonds, Thiels Abgang]]
 
-Dieselbe *cui bono*-Frage, jetzt für die erschöpften strategischen Ölreserven: Der Iran-Krieg hat die Straße von Hormus blockiert, die Reserven wurden zur Preisdämpfung freigegeben — und gehen jetzt zur Neige. Koshi fragt wer profitiert; TheTrumpWeek zeigt die Rechnung, die die Bevölkerung zahlt.
+Dieselbe *cui bono*-Frage, jetzt für die erschöpften strategischen Ölreserven: Der Iran-Krieg hat die Straße von Hormus blockiert, die Reserven wurden zur Preisdämpfung freigegeben — und gehen jetzt zur Neige. Koschi fragt wer profitiert; TheTrumpWeek zeigt die Rechnung, die die Bevölkerung zahlt.

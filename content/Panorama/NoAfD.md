@@ -220,14 +220,12 @@ Was das Feuer löscht, ist weniger umstritten, als die Debatte vermuten lässt. 
 
 | Quelle | Beschreibung |
 |---|---|
-| [{ungeskriptet} by Ben — Ulrich Siegmund](https://www.youtube.com/watch?v=9J-oOOLwba4) | Podcast, 15.08.2026, 3:58 h; Transkript `Gedankenwelten/Transkripte/Siegmund_Ungeskriptet_Transkript.txt` |
+| [{ungeskriptet} by Ben — Ulrich Siegmund](https://www.youtube.com/watch?v=9J-oOOLwba4) | Podcast, 15.08.2026, 3:58 h; Zitate mit Zeitstempel, geprüft am vollständigen Wortlaut |
 | [Regierungsprogramm AfD Sachsen-Anhalt 2026](https://afd-lsa.de/wp-content/uploads/2026/07/AfD_Sachsen-Anhalt_Regierungsprogramm_2026_230726-web.pdf) | beschlossen 11.04.2026, Fassung 23.07.2026, 258 Seiten; Seitenzahlen im Text |
 | [100-Tage-Sofortprogramm](https://afd-lsa.de/wp-content/uploads/2026/07/100-Tage-Sofortprogramm.pdf) | zehn Punkte, gezeichnet „Ihr Ulrich Siegmund“ |
 | [Correctiv — Geheimplan gegen Deutschland](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/) | Recherche zum Potsdamer Treffen (Nov. 2023) |
 | [Correctiv — Siegmund und Potsdam](https://correctiv.org/aktuelles/afd/2026/06/30/afd-ulrich-siegmund-potsdam-sachsen-anhalt/) · [Remigration als Leitmotiv](https://correctiv.org/aktuelles/afd/2026/04/13/remigration-als-leitmotiv-was-die-afd-in-sachsen-anhalt-plant/) · [Rüstung und Remigration](https://correctiv.org/aktuelles/afd/2026/09/11/siegmund-afd-ruestung-remigration-ueberblick/) | Siegmunds „Methode“, Programmanalyse, Pressekonferenz vom 09.09.2026 |
 | [MDR — Regierungsbildung Sachsen-Anhalt](https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/update-regierungsbildung-wirtschaft,fakt-ist-siegmund-mueller-macht-landesregierung-100.html) | Stand 15.10.2026 |
-| [FES — Mitte-Studie 2022/23](https://www.fes.de/referat-demokratie-gesellschaft-und-innovation/gegen-rechtsextremismus/mitte-studie-2023) | 8 % rechtsextremes Weltbild, 33 % populistisch |
-| [bpb — AfD](https://www.bpb.de/themen/parteien/parteien-in-deutschland/afd/) | Überblick zur Parteigeschichte |
 
 ---
 

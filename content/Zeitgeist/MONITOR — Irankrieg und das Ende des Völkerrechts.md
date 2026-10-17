@@ -232,13 +232,13 @@ Sudan/El Fashir und Iran zeigen zwei Gesichter derselben Erosion internationaler
 Derselbe Akteur — das Pentagon unter Hegseth — tritt im Iran-Krieg als militärische Gewalt auf und im Tooze-Fall als Erzwinger militärischer KI-Nutzung. Ambos beklagt den „Disregard" gegenüber internationalem Recht; Tooze zeigt, dass dieselbe Logik innenpolitisch gegen privatwirtschaftliche Akteure angewandt wird. Kein Recht, keine Verträge, keine Bedingungen — nur Macht.
 
 ### → [[Zeitgeist/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]]
-Koshi dokumentiert, wie Trump den Iran-Krieg innenpolitisch instrumentalisiert: Nach Iran-Posts bezeichnet er die Demokraten als „größten verbliebenen Feind Amerikas". Die außenpolitische Eskalation (Irankrieg) und die innenpolitische Eskalation (Demokraten als Staatsfeinde) verlaufen parallel.
+Koschi dokumentiert, wie Trump den Iran-Krieg innenpolitisch instrumentalisiert: Nach Iran-Posts bezeichnet er die Demokraten als „größten verbliebenen Feind Amerikas". Die außenpolitische Eskalation (Irankrieg) und die innenpolitische Eskalation (Demokraten als Staatsfeinde) verlaufen parallel.
 
 ### → [[Zeitgeist/Koshi Politik — Truth Social 12: Diego Garcia und Iran-Vorzeichen]]
-Koshi erkannte die öffentlich sichtbaren Vorbereitungen des Iran-Kriegs: Trumps Diego-Garcia-Post vom 19. Februar ist das dokumentierte Vorzeichen — zwei Wochen vor „Operation Epic Fury". MONITOR analysiert den Krieg selbst; dieser Post zeigt die öffentliche Vorbereitung in Echtzeit.
+Koschi erkannte die öffentlich sichtbaren Vorbereitungen des Iran-Kriegs: Trumps Diego-Garcia-Post vom 19. Februar ist das dokumentierte Vorzeichen — zwei Wochen vor „Operation Epic Fury". MONITOR analysiert den Krieg selbst; dieser Post zeigt die öffentliche Vorbereitung in Echtzeit.
 
 ### → [[Zeitgeist/Koshi Politik — Wer profitiert vom Iran-Krieg]]
-Gulf States-Finanzierungsanalyse: Koshi legt dar, wer von dem Krieg profitiert, den MONITOR als Völkerrechtsbruch einordnet. Dieselben Akteure (Qatar, UAE, Saudi/Kushner) erklärt MONITOR rechtlich-politisch, Koshi ökonomisch.
+Gulf States-Finanzierungsanalyse: Koschi legt dar, wer von dem Krieg profitiert, den MONITOR als Völkerrechtsbruch einordnet. Dieselben Akteure (Qatar, UAE, Saudi/Kushner) erklärt MONITOR rechtlich-politisch, Koschi ökonomisch.
 
 ### → [[Zeitgeist/Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]]
 Hegseth — von MONITOR als Frontmann des Krieges beschrieben — erscheint hier als Teil des internen Trio, das den Krieg treibt. Hegseths widersprüchliche Aussagen und seine Allison-Medienübernahmepläne ergänzen MONITORs völkerrechtliche Analyse um die innenpolitische Machtkonstruktion.
@@ -267,7 +267,7 @@ Ambos beschreibt, wie das Völkerrecht im Zentrum der Macht erodiert; die Chlorb
 Sirus Schyek (Historiker, Genf) und Kamran Safiarian (ZDF-Journalist) — beide mit iranischen Wurzeln — analysieren denselben Konflikt aus persönlicher und historischer Perspektive: das ethisch-moralische Dilemma (böses Regime vs. Völkerrechtsbruch), die Sicherheitsdilemma-Spirale seit 2003, humanitäre Lage und Szenarien.
 
 ### → [[KoshiPolitik — Das perfide Spiel: Schuldzuweisungen in Trumps Amerika]]
-Koshi liefert die innenpolitische Nahaufnahme: Insider Trading-Vorwürfe, Hegseth als Sündenbock, DHS-Shutdown-Chaos und erste konservative Stimmen für den 25. Verfassungszusatz. Ergänzt MONITORs völkerrechtliche Analyse um die chaotische US-Innendimension.
+Koschi liefert die innenpolitische Nahaufnahme: Insider Trading-Vorwürfe, Hegseth als Sündenbock, DHS-Shutdown-Chaos und erste konservative Stimmen für den 25. Verfassungszusatz. Ergänzt MONITORs völkerrechtliche Analyse um die chaotische US-Innendimension.
 
 ### → [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]]
 Quaschning zeigt die wirtschaftliche Konsequenz des Iran-Kriegs für Deutsche: Straße von Hormus blockiert → Spritpreise explodieren trotz 6,1% Nahostöl. Ergänzt MONITORs völkerrechtliche Dimension um die ökonomische Alltagsebene.

@@ -175,7 +175,7 @@ Navidi und MONITOR analysieren dasselbe Phänomen aus verschiedenen Winkeln: Nav
 
 ### → [[Koshi Politik — Wer profitiert vom Iran-Krieg]]
 
-Koshi fragt *cui bono?* auf der geopolitischen Ebene — Golfstaaten, Kushner, strategische Allianzen. MONITOR beantwortet dieselbe Frage auf der familiären Ebene: Die Trumps selbst profitieren direkt durch Drohnen-Investments und Krypto-Deals. Koshi analysiert, wer Trump *in* den Krieg getrieben hat; MONITOR zeigt, dass Trump selbst *am* Krieg verdient.
+Koschi fragt *cui bono?* auf der geopolitischen Ebene — Golfstaaten, Kushner, strategische Allianzen. MONITOR beantwortet dieselbe Frage auf der familiären Ebene: Die Trumps selbst profitieren direkt durch Drohnen-Investments und Krypto-Deals. Koschi analysiert, wer Trump *in* den Krieg getrieben hat; MONITOR zeigt, dass Trump selbst *am* Krieg verdient.
 
 ### → [[MONITOR — Irankrieg und das Ende des Völkerrechts]]
 
@@ -183,7 +183,7 @@ Zwei MONITOR-Beiträge, die sich wie zwei Seiten einer Medaille verhalten: Der f
 
 ### → [[Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump]]
 
-Hegseth erscheint bei MONITOR als Kriegsminister, der 1,1 Milliarden Dollar für Drohnen ausgibt — an Firmen, bei denen die Trump-Söhne investiert sind. Koshi analysiert Hegseths Rolle im Trio Miller-Hegseth-Trump als innenpolitischen Machtfaktor. MONITOR ergänzt die finanzielle Dimension: Hegseth ist nicht nur ideologischer Krieger, sondern — bewusst oder unbewusst — Türöffner für die Kriegsprofite der Trump-Familie.
+Hegseth erscheint bei MONITOR als Kriegsminister, der 1,1 Milliarden Dollar für Drohnen ausgibt — an Firmen, bei denen die Trump-Söhne investiert sind. Koschi analysiert Hegseths Rolle im Trio Miller-Hegseth-Trump als innenpolitischen Machtfaktor. MONITOR ergänzt die finanzielle Dimension: Hegseth ist nicht nur ideologischer Krieger, sondern — bewusst oder unbewusst — Türöffner für die Kriegsprofite der Trump-Familie.
 
 ### → [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 

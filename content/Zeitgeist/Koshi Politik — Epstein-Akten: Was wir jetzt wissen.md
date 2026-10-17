@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Epstein-Akten: Was wir jetzt wissen"
+title: "Koschi Politik — Epstein-Akten: Was wir jetzt wissen"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,17 +13,17 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi Epstein Wissen
+  - Koschi Epstein Wissen
   - Epstein Musk Lutnick
 ---
 
-# Koshi Politik — Epstein-Akten: Was wir jetzt wissen
+# Koschi Politik — Epstein-Akten: Was wir jetzt wissen
 
 Datum: 01.02.2026
 Quelle: [Epstein-Akten Tag 2: Musk, Lutnick und die Überlebenden](https://www.youtube.com/watch?v=wIanoMg6wmg)
 
-> [!info] Wer ist Koshi Politik?
-> Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Koshi betont Unparteilichkeit — „Wenn die Leute schuldig sind, sollen die zur Rechenschaft gezogen werden" — gilt für alle politischen Lager.
+> [!info] Wer ist Koschi Politik?
+> Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Koschi betont Unparteilichkeit — „Wenn die Leute schuldig sind, sollen die zur Rechenschaft gezogen werden" — gilt für alle politischen Lager.
 
 ---
 
@@ -37,7 +37,7 @@ Quelle: [Epstein-Akten Tag 2: Musk, Lutnick und die Überlebenden](https://www.y
 **Elon Musk:**
 - E-Mails zeigen, dass Musk **mehrfach versucht hat, Besuche auf Epsteins Privatinsel zu koordinieren**
 - 2013 fragte Musk Epstein: *„When should we head to your island? What day would be the wild party on your island?"*
-- Koshi: Es gibt keine direkten Anklagen gegen Musk wegen illegaler Handlungen. Aber: Er hatte Kontakt zu Epstein und fragte nach der Insel.
+- Koschi: Es gibt keine direkten Anklagen gegen Musk wegen illegaler Handlungen. Aber: Er hatte Kontakt zu Epstein und fragte nach der Insel.
 
 > [!note] Kontext
 > Musk hatte zuvor selbst behauptet, Trump komme in den Epstein-Dateien vor und das sei der wahre Grund für die Nicht-Veröffentlichung.
@@ -88,10 +88,10 @@ Todd Blanches Reaktion auf Massenkündigungen: **Keine Antwort.** Er wollte das 
 > **Mindestens 12 ungeschwärzte Opfernamen** — Überlebende und Anwälte haben das dokumentiert und öffentlich beklagt.
 
 > [!warning] Vereinfacht
-> **„Elon Musk fragte nach der Insel"** — Die E-Mail existiert. Ob dahinter illegales Handeln steckt, ist unklar. Koshi sagt explizit: keine direkten Anschuldigungen.
+> **„Elon Musk fragte nach der Insel"** — Die E-Mail existiert. Ob dahinter illegales Handeln steckt, ist unklar. Koschi sagt explizit: keine direkten Anschuldigungen.
 
 > [!warning] Vereinfacht
-> **Epstein Transparency Act verpflichtet zu 100% Veröffentlichung** — Das ist Koshis Interpretation. Das Gesetz enthält Ausnahmen (Opferschutz, nationale Sicherheit, aktive Ermittlungen). Die 50%-Frage ist juristisch komplex.
+> **Epstein Transparency Act verpflichtet zu 100% Veröffentlichung** — Das ist Koschis Interpretation. Das Gesetz enthält Ausnahmen (Opferschutz, nationale Sicherheit, aktive Ermittlungen). Die 50%-Frage ist juristisch komplex.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump"
+title: "Koschi Politik — Die drei Musketiere: Miller, Hegseth und Trump"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -14,16 +14,16 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi Iran Kriegstreiber
+  - Koschi Iran Kriegstreiber
   - Miller Hegseth Trump Musketiere
 ---
 
-# Koshi Politik — Die drei Musketiere: Miller, Hegseth und Trump
+# Koschi Politik — Die drei Musketiere: Miller, Hegseth und Trump
 
 Datum: 14.03.2026
 Quelle: [Die drei Musketiere des Iran-Krieges](https://www.youtube.com/watch?v=fHcBSoruMow)
 
-> [!info] Wer ist Koshi Politik?
+> [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.
 
 ---
@@ -52,7 +52,7 @@ Das FBI hatte die Bevölkerung zuvor gewarnt, der Iran könne Racheanschläge mi
 - „Das Department of Homeland Security missbraucht werden, um Bürger als Terroristen zu betiteln" *(was dann tatsächlich Miller selbst tat)*
 - „Donald Trump wird den Dritten Weltkrieg verhindern"
 
-Koshi: *„Immer die Quittungen behalten."*
+Koschi: *„Immer die Quittungen behalten."*
 
 ### Trump: „Ich spüre es in meinen Knochen"
 
@@ -70,7 +70,7 @@ Auf die Frage nach dem Team:
 Trump auf einer Pressekonferenz:
 > *„Die Leute, die reinkommen, die sind einfach schlecht. Deren Gene sind einfach nicht das, was deine Gene z.B. sind oder meine Gene."*
 
-Koshi: Trump hat jetzt laut ausgesprochen, was längst klar war — es geht nicht um Kriminalität, nicht um illegalen Status, sondern um **Gene**. Das ist biologischer Rassismus.
+Koschi: Trump hat jetzt laut ausgesprochen, was längst klar war — es geht nicht um Kriminalität, nicht um illegalen Status, sondern um **Gene**. Das ist biologischer Rassismus.
 
 ### Pete Hegseth: Medienkritik und Kontrolle
 
@@ -82,7 +82,7 @@ Hegseth bei der Pentagon-Pressekonferenz:
 - Sagt, je eher CNN unter der **Kontrolle der Allison-Familie** steht, desto besser
 - Nennt „War widening" eine Fake-News-Überschrift — Gegenvorschlag: „Iran increasingly desperate"
 
-**Die Allison-Familie (Koshi):**
+**Die Allison-Familie (Koschi):**
 - Larry Ellison, Gründer von Oracle — Pro-Trump-Milliardär
 - Sein Sohn David Ellison leitet Skydance Media
 - Skydance fusionierte mit Paramount → Kontrolle über **CBS, CBS News**
@@ -96,7 +96,7 @@ Hegseth bei der Pentagon-Pressekonferenz:
 Auf die Frage, warum die USA trotz militärischer Überlegenheit die Schiffe nicht eskortieren:
 > *„We plan for it. We recognize it. Because ultimately we want to do it sequentially [...] shaping operations and setting conditions. Foolish political leaders will hang an exact deadline on it."*
 
-Koshi: *„Diese Antwort wird in zwei Jahren im Duden unter ‚Wortsalat' stehen."*
+Koschi: *„Diese Antwort wird in zwei Jahren im Duden unter ‚Wortsalat' stehen."*
 
 ### Die tatsächliche Lage an der Straße von Hormuz
 
@@ -124,13 +124,13 @@ CNN erklärt:
 > **Iran-Seeminen in der Straße von Hormuz** — vielfach berichtet. Moderne Einfluss-Minen erhöhen das Risiko massiv. Quelle: US-Marineberichte, CNN
 
 > [!warning] Vereinfacht
-> **Trump: „In my bones"** — Koshi stellt das als Inkompetenz dar. Es ist auch eine bewusste Kommunikationsstrategie: Unklarheit als Verhandlungsmacht (Madman Theory).
+> **Trump: „In my bones"** — Koschi stellt das als Inkompetenz dar. Es ist auch eine bewusste Kommunikationsstrategie: Unklarheit als Verhandlungsmacht (Madman Theory).
 
 > [!warning] Vereinfacht
 > **Allison-Familie kontrolliert bald alles** — Die Liste ist korrekt für CBS, aber CNN-Übernahme und Comedy Central waren zum Zeitpunkt noch nicht abgeschlossen. Als Tendenz plausibel, als Faktum übertrieben.
 
 > [!danger] Nicht haltbar
-> **„18 Milliarden Dollar ausgegeben"** — Diese Zahl nennt Koshi. Andere Quellen nannten zum gleichen Zeitpunkt unterschiedliche Zahlen (13-21 Mrd. je nach Quelle). Nicht verifizierbar.
+> **„18 Milliarden Dollar ausgegeben"** — Diese Zahl nennt Koschi. Andere Quellen nannten zum gleichen Zeitpunkt unterschiedliche Zahlen (13-21 Mrd. je nach Quelle). Nicht verifizierbar.
 
 ---
 
@@ -140,14 +140,14 @@ CNN erklärt:
 > - Direkte Dokumentation der **Inkonsistenz der Kriegsbegründung**
 > - Kontext zur **Medienmachtstrategie** der Trump-Administration
 > - Erstmals explizit: Trumps biologistisch-rassistischer Subtext zu Migration
-> - **Limitation**: Koshi analysiert Tagesgeschehen; fehlt strategische Tiefe über Hormuz-Bedeutung
+> - **Limitation**: Koschi analysiert Tagesgeschehen; fehlt strategische Tiefe über Hormuz-Bedeutung
 
 ---
 
 ## Verbindungen
 
 ### → [[Zeitgeist/MONITOR — Irankrieg und das Ende des Völkerrechts]]
-MONITOR analysiert den Rechtsrahmen; Koshi zeigt die Akteure und ihre Widersprüche.
+MONITOR analysiert den Rechtsrahmen; Koschi zeigt die Akteure und ihre Widersprüche.
 
 ### → [[Zeitgeist/Koshi Politik — Iran-Krieg: NATO verweigert, Trump steckt fest]]
 Direkte Fortsetzung: Was passiert, wenn Hormuz nicht geöffnet werden kann und die NATO nicht hilft?

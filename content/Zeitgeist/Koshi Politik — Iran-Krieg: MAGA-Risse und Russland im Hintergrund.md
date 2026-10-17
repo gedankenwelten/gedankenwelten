@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund"
+title: "Koschi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,16 +13,16 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi Iran MAGA Revolte
+  - Koschi Iran MAGA Revolte
   - Iran MAGA Risse Russland
 ---
 
-# Koshi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund
+# Koschi Politik — Iran-Krieg: MAGA-Risse und Russland im Hintergrund
 
 Datum: 09.03.2026
 Quelle: [Neue Führung, neue Tote, MAGA bricht weg](https://www.youtube.com/watch?v=HcM8Iso48-c)
 
-> [!info] Wer ist Koshi Politik?
+> [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.
 
 ---
@@ -31,7 +31,7 @@ Quelle: [Neue Führung, neue Tote, MAGA bricht weg](https://www.youtube.com/watc
 
 ### Neuer Oberster Führer des Iran
 
-**Mojtaba Khamenei** — 56-jähriger zweiter Sohn des getöteten Ali Khamenei — wird als neuer Oberster Führer eingesetzt. Iranische Staatsmedien bestätigen. Koshi: Er soll noch extremer sein als sein Vater. Die Frage, ob die USA sich damit einen Gefallen getan haben, bleibt offen.
+**Mojtaba Khamenei** — 56-jähriger zweiter Sohn des getöteten Ali Khamenei — wird als neuer Oberster Führer eingesetzt. Iranische Staatsmedien bestätigen. Koschi: Er soll noch extremer sein als sein Vater. Die Frage, ob die USA sich damit einen Gefallen getan haben, bleibt offen.
 
 ### Weitere amerikanische Tote
 
@@ -46,7 +46,7 @@ Quelle: [Neue Führung, neue Tote, MAGA bricht weg](https://www.youtube.com/watc
 
 ### Umfragewerte und Risse in der Basis
 
-**NBC-Umfrage:** 77% der Republikaner unterstützen Trumps Iran-Angriffe — aber: diese Zahlen stammen vom 27. Februar (früh im Krieg). Koshi erwartet weiteren Rückgang. Risse sichtbar auch in rechten Medien: Stimmen, die 2024 für Trump waren, sprechen sich jetzt gegen den Krieg aus.
+**NBC-Umfrage:** 77% der Republikaner unterstützen Trumps Iran-Angriffe — aber: diese Zahlen stammen vom 27. Februar (früh im Krieg). Koschi erwartet weiteren Rückgang. Risse sichtbar auch in rechten Medien: Stimmen, die 2024 für Trump waren, sprechen sich jetzt gegen den Krieg aus.
 
 ### Inkonsistente Kriegsbotschaft
 
@@ -65,7 +65,7 @@ Das Panel bei MSNow diskutiert: 2003/Iraq hatte man zumindest eine **konsistente
 
 Pete Hegseth bei 60 Minutes: „Wir sind uns allem bewusst, wir haben die beste Intelligence. Der Präsident hat einen einzigartigen Umgang mit Weltführern."
 
-**Die zynische Ironie (Koshi):**
+**Die zynische Ironie (Koschi):**
 - Ukraine half den USA mit Information über iranische Drohnen im Ukrainekrieg
 - USA unterstützen quasi die Russen im Ukrainekonflikt (Sanktionen aufgehoben)
 - Russland hilft dem Iran dabei, Amerikaner zu töten
@@ -81,7 +81,7 @@ Das MSNow-Panel kritisiert: Demokraten (Schumer, Jeffries) bringen nur **prozedu
 
 ### Trump, der Safe Act und Wahlen
 
-Trump postet in dieser Periode massiv über den **SAFE Act** (Voter ID + Citizenship Proof + kein Mail-In-Voting). Koshi: Trump weiß, dass der Krieg unpopulär ist und bereitet Wahlunterdrückung für die Midterms vor.
+Trump postet in dieser Periode massiv über den **SAFE Act** (Voter ID + Citizenship Proof + kein Mail-In-Voting). Koschi: Trump weiß, dass der Krieg unpopulär ist und bereitet Wahlunterdrückung für die Midterms vor.
 
 ---
 
@@ -100,10 +100,10 @@ Trump postet in dieser Periode massiv über den **SAFE Act** (Voter ID + Citizen
 > **Trump: „Not at all"** auf die Frage, ob die Dignified Transfer ihn erschüttert habe — In der Presseberichterstattung dokumentiert.
 
 > [!warning] Vereinfacht
-> **„77% der Republikaner" sinkt weiter** — Koshis Erwartung ist plausibel, aber zum Zeitpunkt des Videos lag keine neuere Zahl vor. Das ist Spekulation auf Basis von Trends.
+> **„77% der Republikaner" sinkt weiter** — Koschis Erwartung ist plausibel, aber zum Zeitpunkt des Videos lag keine neuere Zahl vor. Das ist Spekulation auf Basis von Trends.
 
 > [!warning] Vereinfacht
-> **Demokraten „zu dumm"** — Koshis Charakterisierung der Demokraten als politisch inkompetent ist eine Wertung. Die strukturellen Gründe für die demokratische Zurückhaltung (moderate Wähler, Geopolitik-Komplexität) werden nicht thematisiert.
+> **Demokraten „zu dumm"** — Koschis Charakterisierung der Demokraten als politisch inkompetent ist eine Wertung. Die strukturellen Gründe für die demokratische Zurückhaltung (moderate Wähler, Geopolitik-Komplexität) werden nicht thematisiert.
 
 ---
 
@@ -112,7 +112,7 @@ Trump postet in dieser Periode massiv über den **SAFE Act** (Voter ID + Citizen
 > [!abstract] Was diese Quelle liefert
 > - Dokumentation des Augenblicks, in dem MAGA-interne Risse sichtbar werden
 > - Russland-Iran-Ukraine Verbindung als strategischer Kontext
-> - **Limitation**: Koshi konzentriert sich auf das Tagesgeschehen; strukturelle Analyse der Russland-Strategie fehlt
+> - **Limitation**: Koschi konzentriert sich auf das Tagesgeschehen; strukturelle Analyse der Russland-Strategie fehlt
 
 > [!question] Offene Fragen
 > - Wie weit geht Russlands aktive Unterstützung für den Iran wirklich?

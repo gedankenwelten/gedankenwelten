@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11"
+title: "Koschi Politik — Epstein und Pam Bondi: Truth Social Folge 11"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -12,17 +12,17 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi Epstein Bondi TS11
+  - Koschi Epstein Bondi TS11
   - Truth Social 11 Bondi
 ---
 
-# Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11
+# Koschi Politik — Epstein und Pam Bondi: Truth Social Folge 11
 
 Datum: 13.02.2026
 Quelle: [Truth Social Folge 11: Trump und die Epstein-Anhörung](https://www.youtube.com/watch?v=qdoC-Vsv-KA)
 
-> [!info] Wer ist Koshi Politik?
-> Deutschsprachiger YouTube-Kanal — Truth-Social-Segment: Trump-Posts im Original auf Deutsch gelesen und eingeordnet. Koshi bleibt auch hier ironisch-sachlich.
+> [!info] Wer ist Koschi Politik?
+> Deutschsprachiger YouTube-Kanal — Truth-Social-Segment: Trump-Posts im Original auf Deutsch gelesen und eingeordnet. Koschi bleibt auch hier ironisch-sachlich.
 
 ---
 
@@ -35,7 +35,7 @@ Quelle: [Truth Social Folge 11: Trump und die Epstein-Anhörung](https://www.you
 
 **Pam Bondi** (Attorney General der USA) sagte vor dem **House Judiciary Committee** aus — über die Epstein-Akten-Veröffentlichung und DOJ-Handhabung. Die Anhörung war politisch hitzig.
 
-Koshi: Bondi hat ihre Rolle nicht als Attorney General ausgefüllt, sondern als „Stiefellecker von Donald Trump" — sie verteidigte Trump statt aufzuklären.
+Koschi: Bondi hat ihre Rolle nicht als Attorney General ausgefüllt, sondern als „Stiefellecker von Donald Trump" — sie verteidigte Trump statt aufzuklären.
 
 **Thomas Massey** (republikanischer Abgeordneter aus Kentucky, als „RINO" von Trump bezeichnet) stellte kritische Fragen.
 
@@ -52,14 +52,14 @@ Trump's Truth Social-Post über die Anhörung (deutsche Übersetzung):
 >
 > *„Niemand hat sich für Epstein interessiert, als er noch lebte. Sie interessierten sich erst für ihn, als sie dachten, er könne einem sehr populären Präsidenten politisch schaden."*
 
-Koshi analysiert:
+Koschi analysiert:
 - Trump nennt **Jeffrey Stein** statt Epstein — das ist kein Tippfehler, das ist eine Distanzierungsstrategie
 - Der Post vermeidet den Namen Epstein vollständig
 - Trump erklärt sich selbst für entlastet — auf Basis einer Anhörung, bei der die eigene Attorney General als Zeugin auftrat
 
 ### Das Restaurant-Satire-Clip am Ende
 
-Koshi zeigt einen Comedy-Clip, der Bondi als rüde Kellnerin darstellt — ihre Anhörungs-Aussagen werden mit Restaurantbestellungen kombiniert. *„Ich bin bereit, die Frage zu beantworten, wenn ich gut und bereit bin. Ihre Theatralik ist lächerlich."*
+Koschi zeigt einen Comedy-Clip, der Bondi als rüde Kellnerin darstellt — ihre Anhörungs-Aussagen werden mit Restaurantbestellungen kombiniert. *„Ich bin bereit, die Frage zu beantworten, wenn ich gut und bereit bin. Ihre Theatralik ist lächerlich."*
 
 ---
 
@@ -72,10 +72,10 @@ Koshi zeigt einen Comedy-Clip, der Bondi als rüde Kellnerin darstellt — ihre 
 > **Thomas Massey ist Kongressabgeordneter aus Kentucky** — Korrekt. Massey gilt als unabhängig, stimmte mehrfach gegen Parteilinie.
 
 > [!warning] Vereinfacht
-> **„Jeffrey Stein" als Distanzierungsstrategie** — Koshis Interpretation. Könnte auch ein Transkriptionsfehler im Video sein (Spracherkennung). Nicht eindeutig zu klären.
+> **„Jeffrey Stein" als Distanzierungsstrategie** — Koschis Interpretation. Könnte auch ein Transkriptionsfehler im Video sein (Spracherkennung). Nicht eindeutig zu klären.
 
 > [!warning] Vereinfacht
-> **Trump „entlastet"** — Trump erklärt sich selbst für entlastet. Das ist keine rechtliche Entlastung. Koshi stellt das klar, aber die Post-Rhetorik ist irreführend.
+> **Trump „entlastet"** — Trump erklärt sich selbst für entlastet. Das ist keine rechtliche Entlastung. Koschi stellt das klar, aber die Post-Rhetorik ist irreführend.
 
 ---
 

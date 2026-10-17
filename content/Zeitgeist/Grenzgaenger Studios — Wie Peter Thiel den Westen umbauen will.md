@@ -209,7 +209,7 @@ Direkte Ergänzung: Klarsprech analysiert Thiels ObjectionAI als KI-Waffe gegen 
 
 ### → [[Koshi Politik — ICE, Palantir und der Überwachungsstaat]]
 
-Palantir in der Praxis: Koshi dokumentiert, wie Palantir bei ICE für Einwanderungskontrolle eingesetzt wird — die innenpolitische Dimension dessen, was Grenzgänger Studios geopolitisch analysieren. Dasselbe Tool, das in Gaza Ziele identifiziert, kartiert in den USA undokumentierte Migranten.
+Palantir in der Praxis: Koschi dokumentiert, wie Palantir bei ICE für Einwanderungskontrolle eingesetzt wird — die innenpolitische Dimension dessen, was Grenzgänger Studios geopolitisch analysieren. Dasselbe Tool, das in Gaza Ziele identifiziert, kartiert in den USA undokumentierte Migranten.
 
 ### → [[Francesca Bria — The Authoritarian Stack]]
 

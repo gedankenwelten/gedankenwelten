@@ -276,7 +276,7 @@ Sonneborn greift Mausfelds Kernmechanismus auf — mediale Herstellung von Zusti
 
 ### → [[Koshi Politik — Wer profitiert vom Iran-Krieg]]
 
-Strukturell dasselbe Muster, anderer Schauplatz. Koshi fragt beim Iran-Krieg, was Sonneborn beim Ukraine-Krieg fragt: Cui bono? Golfstaaten-Finanzierung bei Koshi, EU-Rüstungssubventionen bei Sonneborn — beide beschreiben den Mechanismus, in dem Kriege Kapitalflüsse erzeugen, die wiederum die Fortsetzung des Krieges begünstigen. Der Vergleich macht das Muster sichtbarer als jede Einzelanalyse.
+Strukturell dasselbe Muster, anderer Schauplatz. Koschi fragt beim Iran-Krieg, was Sonneborn beim Ukraine-Krieg fragt: Cui bono? Golfstaaten-Finanzierung bei Koschi, EU-Rüstungssubventionen bei Sonneborn — beide beschreiben den Mechanismus, in dem Kriege Kapitalflüsse erzeugen, die wiederum die Fortsetzung des Krieges begünstigen. Der Vergleich macht das Muster sichtbarer als jede Einzelanalyse.
 
 ### → [[Herfried Münkler — Muss es Kriege geben]]
 

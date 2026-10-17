@@ -297,9 +297,9 @@ Mühlhoff warnt, die verwaltende Seite des Staates, also Polizei, Gesundheit und
 
 Die Vorgeschichte zum Erlass, den Kurz als Erschütterung beschreibt: Anthropic hatte sich geweigert, seine Modelle für automatisierte Massenüberwachung freizugeben, und Washington antwortete mit der Huawei-Drohung. Ausgerechnet dieses Nein steht am Anfang der Kette, die im Juni zur Exportkontrolle führte. Deutsche Länder bauen dieselbe Massenauswertung inzwischen unter eigenem Recht. Toozes „Recht als Ausblutungsstrategie“ passt zu Kurz' Sorge, dass die Dauerbeobachtung weiterläuft, bis Karlsruhe nach Jahren entscheidet.
 
-### → [[Zeitgeist/Koshi Politik — ICE, Palantir und der Überwachungsstaat|Koshi Politik — ICE, Palantir und der Überwachungsstaat]]
+### → [[Zeitgeist/Koshi Politik — ICE, Palantir und der Überwachungsstaat|Koschi Politik — ICE, Palantir und der Überwachungsstaat]]
 
-Was Kurz mit der Herkunft des Werkzeugs nur andeutet, zeigt Koshi am amerikanischen Fall: Dieselbe Zusammenführung getrennter Behördendaten wird bei ICE zur Infrastruktur für Abschiebungen. Darin liegt die Probe auf die Zweckbindung. Ist der Raum einmal gebaut, entscheidet eine neue Regierung, wofür er genutzt wird, und das Gesetz, das ihn beschränkt hat, ist dann bloß noch Geschichte.
+Was Kurz mit der Herkunft des Werkzeugs nur andeutet, zeigt Koschi am amerikanischen Fall: Dieselbe Zusammenführung getrennter Behördendaten wird bei ICE zur Infrastruktur für Abschiebungen. Darin liegt die Probe auf die Zweckbindung. Ist der Raum einmal gebaut, entscheidet eine neue Regierung, wofür er genutzt wird, und das Gesetz, das ihn beschränkt hat, ist dann bloß noch Geschichte.
 
 ### → [[Denker/Hannah Arendt — Die Banalität des Bösen#Die Herrschaft des Niemand im Algorithmus|Hannah Arendt — Die Herrschaft des Niemand im Algorithmus]]
 

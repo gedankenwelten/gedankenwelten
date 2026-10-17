@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union"
+title: "Koschi Politik — Truth Social 14: Ilhan Omar und State of the Union"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,11 +13,11 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi TS14 Handy
+  - Koschi TS14 Handy
   - Truth Social 14 Ilhan Omar
 ---
 
-# Koshi Politik — Truth Social 14: Ilhan Omar und State of the Union
+# Koschi Politik — Truth Social 14: Ilhan Omar und State of the Union
 
 ![[assets/Koshi-Politik-Truth-Social-14-Ilhan-Omar-und-State-of-the-Union-banner.jpg|1200]]
 
@@ -32,8 +32,8 @@ aliases:
 Datum: 26.02.2026
 Quelle: [Truth Social Folge 14: Trump nach der State of the Union](https://www.youtube.com/watch?v=8tdgkj5Q83g)
 
-> [!info] Wer ist Koshi Politik?
-> Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Koshi wohnt in Buffalo, das an den Bundesstaat Minnesota angrenzt — Trumps Privatfehde mit Minnesota hat für ihn persönlichen Kontext.
+> [!info] Wer ist Koschi Politik?
+> Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Koschi wohnt in Buffalo, das an den Bundesstaat Minnesota angrenzt — Trumps Privatfehde mit Minnesota hat für ihn persönlichen Kontext.
 
 ---
 
@@ -59,13 +59,13 @@ Nach seiner **State of the Union Rede**, bei der Trump:
 Deutsche Übersetzung:
 > *„Wenn ihr gestern Abend die niedrig-IQ Ilhan Omar und Rashida Tlaib gesehen hast, wie sie bei der eleganten Rede zur Lage der Nation unkontrolliert schrienen, hatten sie blut-unterlaufene Augen, verrückter Menschen, wahnsinniger, geistig verwirrter und kranker, die ehrlich gesagt so aussehen, als gehörten sie in eine Anstalt eingewiesen. Wenn Menschen sich so verhalten [...] dann sollten wir sie so schnell wie möglich dorthin zurückschicken, wo sie hergekommen sind."*
 
-**Koshi dazu:**
+**Koschi dazu:**
 - **Ilhan Omar** — amerikanische Staatsbürgerin, Abgeordnete aus Minnesota, ursprünglich aus Somalia
 - **Rashida Tlaib** — in den USA geboren, Abgeordnete aus Detroit
 - Beide sind US-amerikanische Staatsbürgerinnen und gewählte Repräsentantinnen
 - „Zurückschicken" ist verfassungsrechtlich nicht möglich
 
-Koshi: Trump fordert die Abschiebung von US-Staatsbürgerinnen.
+Koschi: Trump fordert die Abschiebung von US-Staatsbürgerinnen.
 
 ### Minnesota: Medicaid-Entzug als Privatfehde
 
@@ -76,7 +76,7 @@ Trump kürzt dem Staat Minnesota die **Medicaid-Mittel** — Gesundheitsversorgu
 
 Minnesota-Gouverneur: Diese Mittel versorgen die Ärmsten der Ärmsten mit medizinischer Versorgung.
 
-**Koshis Vergleich:** Die Trump-Regierung wirft Minnesota vor, Steuergelder zu verschwenden —
+**Koschis Vergleich:** Die Trump-Regierung wirft Minnesota vor, Steuergelder zu verschwenden —
 - während der FBI-Direktor **400.000 Dollar** ausgab, um mit dem US-Eishockeyteam zu trinken
 - während Wahlautomaten in Georgia beschlagnahmt wurden (Kosten für Georgia: **25 Millionen Dollar** für Neuanschaffung)
 - während 20 Milliarden Dollar für eine Rinderfarm in Argentinien ausgegeben wurden
@@ -97,10 +97,10 @@ Minnesota-Gouverneur: Diese Mittel versorgen die Ärmsten der Ärmsten mit mediz
 > **Minnesota-Medicaid-Kürzungen** — Vielfach berichtet. Minnesota gehörte zu den Staaten, denen die Trump-Administration Bundesmittel kürzte.
 
 > [!warning] Vereinfacht
-> **FBI-Direktor $400.000 für Alkohol mit Eishockeyteam** — Koshi zitiert das als bekannte Geschichte. Die genaue Summe und der Kontext konnten nicht unabhängig verifiziert werden.
+> **FBI-Direktor $400.000 für Alkohol mit Eishockeyteam** — Koschi zitiert das als bekannte Geschichte. Die genaue Summe und der Kontext konnten nicht unabhängig verifiziert werden.
 
 > [!warning] Vereinfacht
-> **$20 Milliarden für Argentiniens Rinderfarm** — Koshi nennt diese Zahl ohne Quellenangabe. Möglicherweise bezieht er sich auf USDA-Subventionen oder internationale Handelsprogramme. Nicht verifiziert.
+> **$20 Milliarden für Argentiniens Rinderfarm** — Koschi nennt diese Zahl ohne Quellenangabe. Möglicherweise bezieht er sich auf USDA-Subventionen oder internationale Handelsprogramme. Nicht verifiziert.
 
 ---
 

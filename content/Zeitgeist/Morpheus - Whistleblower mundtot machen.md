@@ -255,7 +255,7 @@ Kempers postfordistischer Faschismus braucht keine Massenaufmärsche — er hat 
 
 ### → [[Zeitgeist/Koshi Politik — ICE Whistleblower packt aus]]
 
-Dieselbe Logik auf institutioneller Ebene: Während Objection.ai Whistleblower über externe KI-Tribunale mundtot macht, zeigt die Koshi-Note, wie es innerhalb des Staatsapparats funktioniert — mündliche Befehle statt Schriftstücke, keine Dokumentationsspur. In beiden Fällen: Wer aufdeckt, soll keine Möglichkeit haben, sich zu verteidigen.
+Dieselbe Logik auf institutioneller Ebene: Während Objection.ai Whistleblower über externe KI-Tribunale mundtot macht, zeigt die Koschi-Note, wie es innerhalb des Staatsapparats funktioniert — mündliche Befehle statt Schriftstücke, keine Dokumentationsspur. In beiden Fällen: Wer aufdeckt, soll keine Möglichkeit haben, sich zu verteidigen.
 
 ### → [[Denker/Rainer Mausfeld — Warum schweigen die Lämmer]]
 

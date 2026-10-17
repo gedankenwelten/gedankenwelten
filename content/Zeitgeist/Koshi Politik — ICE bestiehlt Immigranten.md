@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — ICE bestiehlt Immigranten"
+title: "Koschi Politik — ICE bestiehlt Immigranten"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,11 +13,11 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi ICE Bestehlen
+  - Koschi ICE Bestehlen
   - ICE Eigentumsdiebstahl
 ---
 
-# Koshi Politik — ICE bestiehlt Immigranten
+# Koschi Politik — ICE bestiehlt Immigranten
 
 Datum: 10.03.2026
 Quelle: [ICE Agents bestehlen systematisch Immigranten?](https://www.youtube.com/watch?v=6PwIPqiFXeg)
@@ -30,7 +30,7 @@ Quelle: [ICE Agents bestehlen systematisch Immigranten?](https://www.youtube.com
 
 Der DHS-Shutdown dauert inzwischen fast einen Monat. TSA-Mitarbeiter verpassen ihren ersten **vollen** Gehaltsscheck — folge: Krankmeldungen, Personalengpässe, **stundenlange Schlangen** an US-Flughäfen zum Spring Break. Bilder von 5-Stunden-Warteschlangen kursieren in den Medien.
 
-Die Republikaner schieben die Verantwortung den Demokraten zu. Koshi hält dagegen: Die Demokraten blockieren, weil ICE während des Shutdowns neue Vorwürfe produziert.
+Die Republikaner schieben die Verantwortung den Demokraten zu. Koschi hält dagegen: Die Demokraten blockieren, weil ICE während des Shutdowns neue Vorwürfe produziert.
 
 ### Das Muster: Persönliche Gegenstände verschwinden
 
@@ -53,7 +53,7 @@ Das Muster bei ICE ist ähnlich: Festnahme am Zahltag, kein Geld zurück. Vance 
 
 ### Die Abwärtsspirale
 
-Koshi beschreibt die Konsequenz: Wer seine Green Card verloren hat, traut sich nicht mehr vor die Tür. Ohne Green Card kein Bank-Zugang, kein Nachweis des legalen Status. Green-Card-Neuausstellung: 16 Monate Wartezeit, 400 Dollar Gebühr.
+Koschi beschreibt die Konsequenz: Wer seine Green Card verloren hat, traut sich nicht mehr vor die Tür. Ohne Green Card kein Bank-Zugang, kein Nachweis des legalen Status. Green-Card-Neuausstellung: 16 Monate Wartezeit, 400 Dollar Gebühr.
 
 ---
 
@@ -72,7 +72,7 @@ Koshi beschreibt die Konsequenz: Wer seine Green Card verloren hat, traut sich n
 > **Joyce Vance — ehemalige US-Staatsanwältin (North Alabama)** — Korrekt. Joyce Vance war US Attorney für den Northern District of Alabama 2009–2017. Quelle: DOJ-Archiv
 
 > [!warning] Vereinfacht
-> **Green Card Neuausstellung: 16 Monate, 400 Dollar** — Koshi nennt eigene Erfahrung. Bearbeitungszeiten variieren stark (6 Monate bis über 2 Jahre je nach Lage). Die Gebühr für die I-90 (Green Card Renewal) liegt bei ca. $455. Plausibel, aber nicht pauschal.
+> **Green Card Neuausstellung: 16 Monate, 400 Dollar** — Koschi nennt eigene Erfahrung. Bearbeitungszeiten variieren stark (6 Monate bis über 2 Jahre je nach Lage). Die Gebühr für die I-90 (Green Card Renewal) liegt bei ca. $455. Plausibel, aber nicht pauschal.
 
 ---
 

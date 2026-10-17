@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — Truth Social 15: Töten als Ehrensache"
+title: "Koschi Politik — Truth Social 15: Töten als Ehrensache"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -13,17 +13,17 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi TS15 Toeten
+  - Koschi TS15 Toeten
   - Truth Social 15 Töten
 ---
 
-# Koshi Politik — Truth Social 15: Töten als Ehrensache
+# Koschi Politik — Truth Social 15: Töten als Ehrensache
 
 Datum: 13.03.2026
 Quelle: [Truth Social Folge 15: „Jetzt töte ich sie als der 47. Präsident"](https://www.youtube.com/watch?v=YPsDSTd0Fl8)
 
-> [!info] Wer ist Koshi Politik?
-> Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Dieses Video ist erkennbar verstört im Ton — Koshi nennt den zweiten Post das „Verstörendste", was er auf Truth Social gesehen hat.
+> [!info] Wer ist Koschi Politik?
+> Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Dieses Video ist erkennbar verstört im Ton — Koschi nennt den zweiten Post das „Verstörendste", was er auf Truth Social gesehen hat.
 
 ---
 
@@ -38,7 +38,7 @@ Trump über die Benzinpreise (die wegen des Iran-Krieges angestiegen sind):
 
 > *„Die Vereinigten Staaten sind mit großem Abstand der größte Ölproduzent der Welt. Daher verdienen wir viel Geld, wenn die Ölpreise steigen. Aber von weit größerem Interesse und größerer Bedeutung für mich als Präsident ist es, ein böses Imperium daran zu hindern, Atomwaffen zu besitzen."*
 
-**Koshis Analyse:**
+**Koschis Analyse:**
 - „Wir" verdienen Geld = **die Regierung**, nicht der Konsument
 - Benzinpreise steigen in den USA um 40-50 Cent pro Gallone
 - In einer Autonation, die überall fährt
@@ -54,7 +54,7 @@ Deutscher Text des Posts:
 
 > *„Wir zerstören das Terrorregime im Iran vollständig, militärisch, wirtschaftlich und auf jede andere Weise. [...] Die iranische Marine ist verschwunden. Ihre Luftwaffe existiert praktisch nicht mehr. Raketen, Drohnen und alles andere werden vernichtet und ihre Anführer wurden vom Angesicht der Erde getilgt. Wir verfügen über eine beispiellose Feuerkraft, unbegrenzte Munition und jede Menge Zeit. Beobachten Sie, was heute mit diesen wahnsinnigen Dreckskerlen passieren wird. Sie haben 47 Jahre lang unschuldige Menschen auf der ganzen Welt getötet und **jetzt töte ich sie als der 47. Präsident der Vereinigten Staaten von Amerika. Was für eine große Ehre dies tun zu dürfen.**"*
 
-**Koshis Reaktion:**
+**Koschis Reaktion:**
 - Der Präsident der Vereinigten Staaten schreibt darüber, Menschen zu töten als „große Ehre"
 - Keine Aussage über Diplomatie, keine Aussage über strategische Ziele, keine Aussage über die Befreiung der Bevölkerung
 - Aktueller Stand zum Zeitpunkt des Posts:
@@ -62,7 +62,7 @@ Deutscher Text des Posts:
   - Weiteres amerikanisches Flugzeug verloren
   - 140+ Verwundete
   - Ca. 1.300 zivile Opfer
-- Koshi: *„Sehr sehr fragwürdig und sehr sehr traurig."*
+- Koschi: *„Sehr sehr fragwürdig und sehr sehr traurig."*
 
 ---
 
@@ -72,13 +72,13 @@ Deutscher Text des Posts:
 > **USA sind größter Öl-Produzent der Welt** — Korrekt seit ca. 2018. Quelle: EIA (Energy Information Administration)
 
 > [!warning] Vereinfacht
-> **„Die USA verdienen, wenn Öl steigt"** — Technisch: US-Ölfirmen profitieren. Die Regierung profitiert indirekt durch Steuern, Royalties auf Bundesland. Aber der Konsument zahlt höhere Preise. Koshis Kritik ist inhaltlich korrekt, auch wenn es vereinfacht ist.
+> **„Die USA verdienen, wenn Öl steigt"** — Technisch: US-Ölfirmen profitieren. Die Regierung profitiert indirekt durch Steuern, Royalties auf Bundesland. Aber der Konsument zahlt höhere Preise. Koschis Kritik ist inhaltlich korrekt, auch wenn es vereinfacht ist.
 
 > [!success] Bestätigt
 > **Kriegskosten ~13 Milliarden Dollar** — Eine der realistischeren Zahlen aus dieser Periode. Andere Quellen nannten 10–21 Mrd. je nach Zeitpunkt.
 
 > [!danger] Dokumentierter Inhalt
-> **Trump-Post: „jetzt töte ich sie als der 47. Präsident"** — Koshi liest den Post wörtlich vor. Der Originalpost ist auf Truth Social. Der Inhalt spricht für sich.
+> **Trump-Post: „jetzt töte ich sie als der 47. Präsident"** — Koschi liest den Post wörtlich vor. Der Originalpost ist auf Truth Social. Der Inhalt spricht für sich.
 
 ---
 

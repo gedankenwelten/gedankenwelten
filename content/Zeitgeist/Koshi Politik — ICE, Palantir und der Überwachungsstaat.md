@@ -1,6 +1,6 @@
 ---
 date: 2026-03-23
-title: "Koshi Politik — ICE, Palantir und der Überwachungsstaat"
+title: "Koschi Politik — ICE, Palantir und der Überwachungsstaat"
 aktualisiert: 2026-04-05
 tags:
   - zeitgeist
@@ -14,11 +14,11 @@ tags:
   - koshi-politik
   - year-2026
 aliases:
-  - Koshi ICE Palantir
-  - Koshi Überwachungsstaat
+  - Koschi ICE Palantir
+  - Koschi Überwachungsstaat
 ---
 
-# Koshi Politik — ICE, Palantir und der Überwachungsstaat
+# Koschi Politik — ICE, Palantir und der Überwachungsstaat
 
 Datum: 03.02.2026
 Quelle: [ICE, Palantir & Gesichtsscans – welche Überwachung mit Milliarden möglich wird](https://www.youtube.com/watch?v=SuEpbWL7FFU)
@@ -32,7 +32,7 @@ Quelle: [ICE, Palantir & Gesichtsscans – welche Überwachung mit Milliarden m�
 [▶ 0:02](https://www.youtube.com/watch?v=SuEpbWL7FFU&t=2)
 
 
-ICE hat laut Koshi ein Budget von **85 Milliarden Dollar über mehrere Jahre** — mehr als die Polizei, mehr als das FBI, mehr als die CIA. Der größte Teil davon fließt nicht nur in Personal, sondern in Technologie.
+ICE hat laut Koschi ein Budget von **85 Milliarden Dollar über mehrere Jahre** — mehr als die Polizei, mehr als das FBI, mehr als die CIA. Der größte Teil davon fließt nicht nur in Personal, sondern in Technologie.
 
 ### Mobile Fortify — Gesichtserkennung per Handy
 
@@ -45,7 +45,7 @@ ICE nutzt die App **"Mobile Fortify"**: Ein Agent fotografiert ein Gesicht mit d
 - Weiße Männer: ~1%
 - Dunkelhäutige Frauen: ~34%
 
-ICE-Agents tragen Masken — laut Koshi nicht primär aus Angst vor Vergeltung, sondern weil sie wissen, dass sie Technologie einsetzen, die öffentlich nicht bekannt ist.
+ICE-Agents tragen Masken — laut Koschi nicht primär aus Angst vor Vergeltung, sondern weil sie wissen, dass sie Technologie einsetzen, die öffentlich nicht bekannt ist.
 
 ### Stingrays — Gefälschte Handymasten
 
@@ -64,7 +64,7 @@ Richterlicher Beschluss ist formal vorgeschrieben — mit zahlreichen "Notfall-A
 
 **Palantir** wurde 2003 von **Peter Thiel** gegründet — mit Startfinanzierung der CIA. Das Unternehmen verbindet isolierte Datenbanken (DHS, Gesundheit, Verkehrsamt, Social Security, Überwachungskameras, Mobile Fortify) zu einem Gesamtbild — einschließlich KI-Analyse für **Vorhersage von Verhalten**.
 
-Die Trump-Administration plant laut Koshi eine **nationale Datenbank aller Amerikaner**, die diese Quellen zusammenführt.
+Die Trump-Administration plant laut Koschi eine **nationale Datenbank aller Amerikaner**, die diese Quellen zusammenführt.
 
 **Politische Verbindung:** Peter Thiel hat **JD Vances** politischen Aufstieg finanziert. Thiel gründete Palantir — Vance ist jetzt Vizepräsident.
 
@@ -85,13 +85,13 @@ Die Trump-Administration plant laut Koshi eine **nationale Datenbank aller Ameri
 > **ICE App "Mobile Fortify" / Gesichtserkennung** — Bestätigt durch investigative Berichte. Quelle: Washington Post, The Intercept
 
 > [!warning] Vereinfacht
-> **"85 Milliarden Dollar über mehrere Jahre"** — Koshi nennt diese Zahl, aber das ICE-Budget liegt üblicherweise bei ca. 8–9 Mrd. Dollar/Jahr. Möglicherweise meint er das gesamte DHS-Budget oder eine Mehrjahresperspektive inkl. One Big Beautiful Bill. Die genaue Zahl sollte verifiziert werden.
+> **"85 Milliarden Dollar über mehrere Jahre"** — Koschi nennt diese Zahl, aber das ICE-Budget liegt üblicherweise bei ca. 8–9 Mrd. Dollar/Jahr. Möglicherweise meint er das gesamte DHS-Budget oder eine Mehrjahresperspektive inkl. One Big Beautiful Bill. Die genaue Zahl sollte verifiziert werden.
 
 > [!warning] Vereinfacht
 > **Fehlerquote Gesichtserkennung: 34% bei dunkelhäutigen Frauen** — Diese Zahl stammt aus MIT-Studie von 2018 (Joy Buolamwini). Neuere Systeme haben deutlich bessere Werte — aber strukturelle Bias bleibt bestätigt. Quelle: [Gender Shades Studie](http://gendershades.org)
 
 > [!warning] Vereinfacht / Spekulation
-> **ICE-Agents tragen Masken wegen der Technologie** — Koshis Interpretation. Die offizielle Begründung ist Schutz vor Vergeltungsaktionen. Beides kann zutreffen.
+> **ICE-Agents tragen Masken wegen der Technologie** — Koschis Interpretation. Die offizielle Begründung ist Schutz vor Vergeltungsaktionen. Beides kann zutreffen.
 
 ---
 
@@ -111,19 +111,19 @@ Folgevideo: Was in der Anhörung ans Licht kommt über ICE-Verhaltensweisen.
 
 ### → [[Klarsprech — Peter Thiel und ObjectionAI]]
 
-Klarsprech zeigt den Architekten hinter Palantir: Peter Thiel und sein Gesamtsystem aus Politik (Vance), Überwachung (Palantir), Justiz und jetzt Wahrheitskontrolle (ObjectionAI). Während Koshi die Opfer von Palantirs ICE-Software dokumentiert, zeigt Klarsprech die strategische Absicht dahinter.
+Klarsprech zeigt den Architekten hinter Palantir: Peter Thiel und sein Gesamtsystem aus Politik (Vance), Überwachung (Palantir), Justiz und jetzt Wahrheitskontrolle (ObjectionAI). Während Koschi die Opfer von Palantirs ICE-Software dokumentiert, zeigt Klarsprech die strategische Absicht dahinter.
 
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 
-Grenzgänger Studios liefert den historisch-investigativen Rahmen zu Palantirs ICE-Einsatz: Thiels CIA-Startfinanzierung, die PayPal-Mafia als politisches Netzwerk und die These, dass Palantir kein Überwachungs-Startup war, sondern von Anfang an als staatliche Kontrollinfrastruktur konzipiert wurde. Koshi zeigt die Opfer — Grenzgänger Studios den Architekten und seine Biografie.
+Grenzgänger Studios liefert den historisch-investigativen Rahmen zu Palantirs ICE-Einsatz: Thiels CIA-Startfinanzierung, die PayPal-Mafia als politisches Netzwerk und die These, dass Palantir kein Überwachungs-Startup war, sondern von Anfang an als staatliche Kontrollinfrastruktur konzipiert wurde. Koschi zeigt die Opfer — Grenzgänger Studios den Architekten und seine Biografie.
 
 ### → [[Zeitgeist/Kurz und Goerlitz — Palantir und die deutsche Polizei]]
 
-Während Koshi die ICE-Kooperation und die US-Dimension beleuchtet, zeigen Kurz und Görlitz die deutsche Seite derselben Software-Infrastruktur — vier Bundesländer, gescheiterte Verfassungsschutzstandards, denselben Konzern. Zusammen ergibt sich das vollständige transnationale Bild.
+Während Koschi die ICE-Kooperation und die US-Dimension beleuchtet, zeigen Kurz und Görlitz die deutsche Seite derselben Software-Infrastruktur — vier Bundesländer, gescheiterte Verfassungsschutzstandards, denselben Konzern. Zusammen ergibt sich das vollständige transnationale Bild.
 
 ### → [[Zeitgeist/Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir]]
 
-Kurz ergänzt die US-Perspektive um die deutsche Innenperspektive: Während Koshi zeigt, wie ICE Palantir zur Migrantenverfolgung einsetzt, dokumentiert Kurz denselben Zweckbindungsbruch bei deutschen Polizeibehörden (15.000 Zugriffe in Hessen, Alltags-Kriminalität statt Terrorabwehr) — und analysiert, warum der Vendor Lock-in so stark ist, dass Polizisten erklären, ohne Palantir nicht mehr arbeiten zu können.
+Kurz ergänzt die US-Perspektive um die deutsche Innenperspektive: Während Koschi zeigt, wie ICE Palantir zur Migrantenverfolgung einsetzt, dokumentiert Kurz denselben Zweckbindungsbruch bei deutschen Polizeibehörden (15.000 Zugriffe in Hessen, Alltags-Kriminalität statt Terrorabwehr) — und analysiert, warum der Vendor Lock-in so stark ist, dass Polizisten erklären, ohne Palantir nicht mehr arbeiten zu können.
 
 ### → [[Dahlmann und Kuhle — Senkt KI die Hemmschwelle zum Krieg]]
 

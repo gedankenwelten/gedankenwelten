@@ -55,7 +55,7 @@ Für die deutschen Plattformen, die vorhandene Akten verknüpfen — hessenDATA,
 - **[[Constanze Kurz — Palantir als Tueroeffner#Echte Bürgerdaten als Trainingsmaterial|Constanze Kurz]]:** Unverhältnismäßig, unkontrollierbar, riskant; es ist „eine dauerhafte Zusammenführung, die aus gutem Grund immer verboten war", und statt Evaluation gibt es fiktive Fälle.
 - **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#Palantir Gotham 15.000 Zugriffe, Alltag statt Terror|Constanze Kurz bei Jung & Naiv]]:** In Hessen gibt es rund 15.000 Zugriffe im Jahr, die meisten im Polizeialltag, nicht in der Terrorabwehr, für die das System verkauft wurde.
 - **[[Kurz und Goerlitz — Palantir und die deutsche Polizei#Wer landet eigentlich in der Polizeidatenbank?|Franziska Görlitz]]:** „Die Software denkt nicht, die stellt eine Wahrscheinlichkeit fest", und so wird der Sozialarbeiter der Fanhilfe, der bei jedem Spiel am Ort der Vorfälle ist, zum Muster.
-- **[[Koshi Politik — ICE, Palantir und der Überwachungsstaat#Palantir — Die Datenmaschine|Koshi Politik]]:** In den USA verbindet dieselbe Technik Gesundheits-, Verkehrs- und Sozialdaten zu einem Gesamtbild, das Abschiebungen dient.
+- **[[Koshi Politik — ICE, Palantir und der Überwachungsstaat#Palantir — Die Datenmaschine|Koschi Politik]]:** In den USA verbindet dieselbe Technik Gesundheits-, Verkehrs- und Sozialdaten zu einem Gesamtbild, das Abschiebungen dient.
 - **[[Rainer Mühlhoff — Künstliche Intelligenz und der neue Faschismus#Die Desouveränisierung des Staates|Rainer Mühlhoff]]:** Die Tech-Industrie will das „Betriebssystem von Staatsmacht" werden, und die Verwaltung wird „still und leise reprivatisiert".
 
 > [!question] Die Reibung
@@ -99,7 +99,7 @@ Der Unterschied zwischen beiden Ländern liegt nicht in der Technik. Er liegt da
 - **[[Constanze Kurz — Palantir als Tueroeffner#London, Bern, Bonn — wenn Institutionen deutlich werden|Constanze Kurz]]:** In Großbritannien ist die Debatte gekippt, bis in einen Ausschuss des Unterhauses; bewegt haben die Institutionen am Ende Souveränitätssorgen, weniger die Grundrechte.
 - **[[Constanze Kurz — Stochastischer Papagei, Chatkontrolle und Palantir#Biometrische Gesichtserkennung Was sich verändert hat — und was fehlt|Constanze Kurz bei Jung & Naiv]]:** Die Gesichtserkennung ist seit dem gescheiterten Test am Berliner Südkreuz viel besser geworden, aber das Innenministerium veröffentlicht keine Evaluation mehr.
 - **[[Francesca Bria — The Authoritarian Stack#Europa Die Abhängigkeitsfalle|Francesca Bria]]:** Die NHS-Daten von über 50 Millionen Patienten liegen auf einer Palantir-Plattform, ohne dass die Patienten gefragt wurden.
-- **[[Koshi Politik — ICE, Palantir und der Überwachungsstaat#Palantir — Die Datenmaschine|Koshi Politik]]:** In den USA wächst aus verknüpften Behördendaten das Werkzeug einer Abschiebepolitik.
+- **[[Koshi Politik — ICE, Palantir und der Überwachungsstaat#Palantir — Die Datenmaschine|Koschi Politik]]:** In den USA wächst aus verknüpften Behördendaten das Werkzeug einer Abschiebepolitik.
 
 > [!question] Die Reibung
 > China begründet seine Überwachung mit Sicherheit und erntet in Umfragen Zustimmung. Großbritannien überwacht dicht und lässt sich von Gerichten bremsen, die das Prinzip billigen und die Ausgestaltung rügen. *Wenn der Unterschied in den Gerichten liegt und nicht in der Technik: Was bleibt von ihm an dem Tag, an dem eine Regierung die Gerichte nicht mehr fürchtet?*
