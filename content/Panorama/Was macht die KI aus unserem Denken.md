@@ -60,8 +60,9 @@ Solider als alles über KI ist die ältere Lernforschung. Was man selbst hervorb
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Der Beweis, der vier Jahre wartete|Dietmar Dath]]:** Er fragt die Maschine selten, nicht aus Moral, sondern *„weil ich sonst vergesse, was ich weiß“*.
 - **[[Der leere Turm - wie Macht herrenlos wird#Das Scharnier: Last oder Urteil|Luc]]:** Entscheidend ist, was man abgibt, die Last oder das Urteil; die eigentliche Gefahr ist, dass Menschen nicht arbeitslos werden, sondern urteilslos.
 
-<details><summary>Weitere Stimmen (4)</summary>
+<details><summary>Weitere Stimmen (5)</summary>
 
+- **[[Wir sind keine Propheten — nicht einmal fuer uns selbst#Der Riss|Luc]]:** Beim Programmieren so viel abgegeben, dass er ein Feature nicht mehr erklären konnte; beim Denken nimmt er Impulse statt Antworten — und wer über die Zukunft der KI spricht, beschreibt oft sich selbst.
 - **[[Dietmar Dath und Wolfgang M. Schmitt — Verschwendung als Moeglichkeit#Der Beweis, der vier Jahre wartete|Wolfgang M. Schmitt]]:** So leicht war es nie, sich Zusammenhänge erklären zu lassen, von der Austeritätspolitik bis zu den eigenen Rechten als Arbeitnehmer.
 - **[[Maren Urner — Radikal hoffnungsvoll#Das KI-Paradox: Menschen, die wie Maschinen denken|Maren Urner]]:** Gefährlich ist nicht, dass die KI wie Menschen denkt, sondern dass Menschen beginnen, wie die KI zu denken.
 - **[[Andreas Reckwitz — Fortschritt NEU DENKEN#KI ist kein Naturereignis|Andreas Reckwitz]]:** Die Sorge vor dem Deskilling hält er für Vernunft: Eine Gesellschaft fällt nicht mehr auf jedes Heilsversprechen herein.

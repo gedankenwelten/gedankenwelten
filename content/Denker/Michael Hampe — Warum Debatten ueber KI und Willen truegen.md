@@ -348,6 +348,10 @@ Blom nennt viele aufgeklärte Ideen „umetikettierte Theologie“. Hampes Genea
 
 Die Frage, in die die Nachbesprechung führt: Hampe neben Gabriel, Misselhorn, Chalmers, Kurz, Scobel, Harari und Luc, dazu der Forschungsstand zur Introspektion von Sprachmodellen.
 
+### → [[Gedanken/Wir sind keine Propheten — nicht einmal fuer uns selbst|Wir sind keine Propheten — nicht einmal für uns selbst]]
+
+Hackings Loopingeffekt im Persönlichen: Wer eine Haltung zur KI laut vertritt, wird von ihr geformt — und verteidigt sie dann wie ein Stück von sich.
+
 ---
 
 ## Weiterdenken

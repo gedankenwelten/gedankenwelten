@@ -5212,3 +5212,13 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Notiz** | [[Zeitgeist/Uwe Krueger — Mainstream und kritische Journalistik]] |
 | **DenkerVita** | [[DenkerVita/Uwe Krüger]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Krueger_Mainstream_Hamburg_2017_Transkript.txt` (mlx-whisper large-v3-turbo, YouTube hat keine Untertitel) · `Krueger_JungNaiv338_Transkript.txt` |
+
+## Macht Migration kriminell? — Statistik-Grafiken
+
+| | |
+|---|---|
+| **Notiz** | [[Panorama/Macht Migration kriminell]] |
+| **Anregung** | [RationalPopulist: AfD In ERKLÄRUNGSNOT! Diese Zahlen ZERSTÖREN Ihr Narrativ Endgültig!](https://www.youtube.com/watch?v=3WUVeWVA80Q) (02.09.2026, Standard-Lizenz) — seine Grafik zeigt neben den syrischen Tatverdächtigen bei Vergewaltigung (2024: 647) auch die 971.813 Syrer, die es nicht waren. Idee übernommen, Bild nicht; nachgebaut mit den Belastungszahlen der PKS 2025. |
+| **Daten** | [BKA, IMK-Bericht PKS 2025](https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/PolizeilicheKriminalstatistik/2025/FachlicheBroschueren/IMK-Bericht.pdf?__blob=publicationFile&v=4) · [Brå 2021:9](https://bra.se/download/18.45e4b8e192705389a34c2b/1729515966490/2021_9_Registered_offending_among_persons.pdf) · [KFN FB 171](https://kfn.de/wp-content/uploads/2025/10/FB_171.pdf) · [Hestermann 2025](https://mediendienst-integration.de/fileadmin/user_upload/Expertisen/Mediendienst_Integration_Expertise_Kriminalitaet_und_Migration_in_deutschen_Medien_Thomas_Hestermann.pdf) |
+| **Commons** | [Share of 15yo+ immigrant and descendant crime suspects by region 2015–2018 (Brå)](https://commons.wikimedia.org/wiki/File:Share_of_15yo%2B_immigrant_and_descendant_crime_suspects_by_region_2015-2018_-_BR%C3%85.png) — 1Kwords, CC BY-SA 4.0 |
+| **Grafiken** | `Gedankenwelten/assets/Macht-Migration-kriminell-*.png` — eigene als CC BY-SA 4.0 |

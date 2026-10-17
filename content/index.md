@@ -70,6 +70,24 @@ Die Gedankenwelten (luc)
 
 > → *12 weitere in* [[Panorama]]
 
+### Gedanken
+
+> **17.10.** — [[Gedanken/Wir sind keine Propheten — nicht einmal fuer uns selbst|Wir sind keine Propheten — nicht einmal für uns selbst]]
+>
+> Wenn wir über die Zukunft sprechen, beschreiben wir oft uns selbst. Eine Prophezeiung ist ein Selbstporträt, in die Zukunft gehängt — und wer sich über seine Haltung definiert, verteidigt mit ihr sich selbst.
+
+> **14.10.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
+>
+> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
+
+> **14.10.** — [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
+>
+> Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später. Auf Umwegen. Verwandelt. Niemand erkennt ihn mehr als seinen.
+
+> **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
+>
+> Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar und dem Autoritären das Angebot streitig.
+
 ### Denker
 
 > **16.10.** — [[Denker/Michael Hampe — Warum Debatten ueber KI und Willen truegen|Michael Hampe — Warum Debatten über KI und Willen trügen]]
@@ -93,20 +111,6 @@ Die Gedankenwelten (luc)
 > Wer im Verhör lügen muss, um Freunde zu schützen, fragt neu, was Wahrheit ist. Bonhoeffers Antwort aus Tegel: Sie lebt zwischen Menschen, nicht im Satz allein.
 
 > → *6 weitere in* [[Denker]]
-
-### Gedanken
-
-> **14.10.** — [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir|Das unsichtbare Netzwerk — Die Macht in Dir]]
->
-> Wir messen Wirkung an Sichtbarkeit und halten uns für einen Tropfen im Meer. Das ist die Illusion — sie legt das falsche Maß an die eigene Macht an.
-
-> **14.10.** — [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
->
-> Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später. Auf Umwegen. Verwandelt. Niemand erkennt ihn mehr als seinen.
-
-> **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
->
-> Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar und dem Autoritären das Angebot streitig.
 
 ### Geistesblitz
 

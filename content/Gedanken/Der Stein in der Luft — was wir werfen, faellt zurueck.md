@@ -260,6 +260,10 @@ Die Ideengeschichte des Anderswo: von Ayn Rands Rückzugsort der Eliten bis zu P
 ### → [[Dietrich Bonhoeffer — Theorie der Dummheit#Wer verantwortlich handelt, wird schuldig|Bonhoeffer — Wer verantwortlich handelt, wird schuldig]]
 Die Theologin Christine Schliesser erklärt Bonhoeffers Satz, dass jeder verantwortlich Handelnde schuldig wird, und landet am Ende dort, wo dieser Gedanke angekommen ist: lieber Verantwortung als Schuld, weil Schuld lähmt und Verantwortung handeln lässt.
 
+### → [[Gedanken/Wir sind keine Propheten — nicht einmal fuer uns selbst|Wir sind keine Propheten — nicht einmal für uns selbst]]
+
+Der andere Gedanke über die Zukunft: Hier die Flugbahn dessen, was wir werfen, dort das Bild, das wir in die Zukunft hängen und für eine Vorhersage halten.
+
 ---
 
 ## Weiterdenken

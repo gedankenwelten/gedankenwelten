@@ -219,6 +219,10 @@ Auch Dath beruft sich auf Terence Tao, sieht die Chance aber von den Arbeitsverh
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Verlernen wir das Denken, wenn wir es auslagern?“ und „Wer trägt Verantwortung, wenn die Maschine handelt?“.
 
+### → [[Gedanken/Wir sind keine Propheten — nicht einmal fuer uns selbst|Wir sind keine Propheten — nicht einmal für uns selbst]]
+
+Ein Gedanke von Luc über Prophezeiungen als Selbstporträts: Ono ist das Beispiel eines Menschen, dessen erste Vorhersage über die KI („devastated“) von der eigenen Erfahrung überholt wurde.
+
 ---
 
 ## Weiterdenken
