@@ -152,7 +152,7 @@ Hararis „gemeinsame Fiktionen“ haben hier ihre erkenntnistheoretische Wurzel
 
 Ziegler bietet den breiten Nietzsche-Überblick (Übermensch, Wille zur Macht, ewige Wiederkehr, Umwertung aller Werte); Finkelde bohrt tief in einen einzigen Frühtext und entfaltet die *epistemologische* Dimension: Wahrheit als Metaphernkette, Sprache als Sozialvertrag. Ziegler zeigt, *was* Nietzsche denkt — Finkelde zeigt, *wie* die poststrukturalistische Rezeption daraus entsteht.
 
-### → [[Immanuel Kant — Was ist Aufklaerung?]]
+### → [[Immanuel Kant — Was ist Aufklärung?]]
 
 Finkelde positioniert Nietzsche explizit als Bruch *mit* der kantischen Tradition: Kant fragt „wo liegen die Grenzen der Vernunft?" — Nietzsche fragt „warum glauben wir überhaupt an sie?" Die Aufklärungs-Note zeigt Kants Projekt; Finkelde zeigt dessen radikale Infragestellung.
 

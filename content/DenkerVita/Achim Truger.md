@@ -68,7 +68,7 @@ Gemeinsamer Gesprächspartner in „Wachstum NEU DENKEN" — Truger liefert die 
 ### → [[DenkerVita/Ulrike Herrmann|Ulrike Herrmann]]
 Beide stellen die deutsche Sparlogik infrage, aber sie ziehen daraus gegensätzliche Konsequenzen. Truger will über kreditfinanzierte Investitionen den Kapitalstock mehren — Herrmann bezweifelt, dass grünes Wachstum überhaupt möglich ist, und plädiert für eine geplante Schrumpfung. Der Riss verläuft an der Wachstumsfrage selbst.
 
-### → [[DenkerVita/Maurice Höfgen|Maurice Höfgen]]
+### → [[DenkerVita/Maurice Hoefgen|Maurice Höfgen]]
 Höfgen popularisiert für ein junges Publikum, was Truger im Gutachten formuliert: dass fiskalische Spielräume meist politisch gesetzt sind, nicht ökonomisch erzwungen. Höfgen argumentiert näher an der Modern Monetary Theory, Truger bleibt in der vorsichtigeren „goldenen Regel" der Investitionsfinanzierung — dieselbe Stoßrichtung, verschiedene Radikalität.
 
 ### → [[DenkerVita/Carsten Jung|Carsten Jung]]

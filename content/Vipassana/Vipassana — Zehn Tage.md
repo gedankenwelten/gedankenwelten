@@ -338,7 +338,7 @@ Die Parallelen sind tief:
 
 Wie Goenka den Atem als Brücke zwischen Bekanntem und Unbekanntem beschreibt — so ist auch Breathe eine Brücke: zwischen dem Impuls der Angst und der Möglichkeit der Menschlichkeit.
 
-Vgl. auch [[Matthieu Ricard — Weisheiten 1]] zu Mitgefühl als trainierbarer Qualität.
+Vgl. auch [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] zu Mitgefühl als trainierbarer Qualität.
 
 ---
 

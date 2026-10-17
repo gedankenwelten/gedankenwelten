@@ -131,6 +131,6 @@ Abschiebung als Werkzeug — politisch wie privat; Kotré denkt es systemisch, i
 
 Trumps Netzwerk als Selbstbedienungsmentalität: Zampoli nutzt Regierungsverbindungen für den eigenen Sorgerechtsstreit
 
-### → [[Nachtsitzung — Trumps Machtbasis bricht zusammen]]
+### → [[Nachtsitzung - Trumps Machtbasis bricht zusammen]]
 
 Wenn ehemalige Verbündete anfangen auszupacken, ist das ein klassisches Zeichen für bröckelnde Loyalität — Ungaro ist ein weiteres Beispiel

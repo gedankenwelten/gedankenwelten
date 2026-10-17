@@ -269,7 +269,7 @@ Quents "Hoffnung kommt vom Machen" und seine Kämpfer-These sind das Substrat vo
 
 MONITOR diagnostiziert exakt das Problem, das Semsrott "Mehrheitslüge" nennt: Die Bevölkerung wählt nicht das, was ihr nützt, weil verzerrte Machtverhältnisse das Mögliche verdecken. Semsrott geht weiter — er zeigt, dass versteckte progressive Mehrheiten (Vermögenssteuer, Klimaschutz) existieren und sichtbar gemacht werden können.
 
-### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit?]]
+### → [[Zeitgeist/Steinke und Marinic — Quo vadis Meinungsfreiheit]]
 
 Steinke/Marinić analysieren, wie Staat und Justiz in den Meinungsraum eingreifen. Semsrott praktiziert das Gegenteil performativer Meinungsfreiheitsdebatten: Transparenz als Tat — Dokumente veröffentlichen, IFG-Anfragen stellen, Gerichtsentscheidungen trotz §353d publizieren. Die IFG-Einschränkung als direkte Staatsreaktion ist das beste Argument für die Dringlichkeit echter Handlungsräume.
 

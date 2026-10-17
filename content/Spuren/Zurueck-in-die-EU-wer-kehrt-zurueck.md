@@ -331,7 +331,7 @@ hätte.
 - [[Angela Merkel — Trotz allem Hoffnung Europa]] — der Vergleichsfall für das Muster: ein Satz, der
   eine Kanzlerschaft länger gebunden hat als jedes Programm.
 - [[Gesine Schwan — Macht NEU DENKEN]] — was Macht bindet, wenn kein Gesetz sie bindet.
-- [[Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]] — die Gegenprobe: Herrschaft,
+- [[Joerg Baberowski — Putin Herrschaft und liberale Demokratie]] — die Gegenprobe: Herrschaft,
   die sich gerade dadurch auszeichnet, dass ausgesprochene Maßstäbe folgenlos bleiben.
 
 ---

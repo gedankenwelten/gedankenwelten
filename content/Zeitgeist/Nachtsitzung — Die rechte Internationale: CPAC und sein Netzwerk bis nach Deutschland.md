@@ -214,7 +214,7 @@ Heitmeyers "Roheit von oben durch Autoritarismus" — Benjamins Eliten-These erg
 
 NIUS als Teil desselben rechten Medienökosystems, das CPAC institutionell koordiniert — Boulevard-Aktivismus und Think-Tank-Netzwerk als zwei Seiten derselben Infrastruktur
 
-### → [[Nachtsitzung — Trumps Machtbasis bricht zusammen]]
+### → [[Nachtsitzung - Trumps Machtbasis bricht zusammen]]
 
 Direkte Fortsetzung: Was die CPAC-Note als Infrastruktur beschreibt, zeigt Biersky hier in der Auflösung — Heritage Foundation zieht sich zurück, die Milliardäre distanzieren sich, das Netzwerk wendet sich vom scheiternden Instrument ab
 

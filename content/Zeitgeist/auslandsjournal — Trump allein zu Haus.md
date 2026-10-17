@@ -108,7 +108,7 @@ Die Antwort der Runde ist differenziert und gerade darin überzeugend. [▶ 46:3
 Die soziale Schere — in den USA wie in Europa — sei „der Dünger, aus dem die Rechtspopulisten ihre Argumente füttern". [▶ 54:07](https://www.youtube.com/watch?v=xSsh85eRvOE&t=3247) Daraus die staatspolitische Mahnung für die Zeit *nach* Trump: Eine Opposition, die bei Machtübernahme „gnadenlos ihre Politik" durchdrückt und alles zurückdreht, bestätige die Enttäuschten nur — nötig sei „eine Art nationaler Versöhnung", eine Politik, die auch die Abgehängten mitnimmt.
 
 > [!note] Eigene Einschätzung
-> Hier liegt die produktivste Einsicht für den europäischen Kontext: Der Trumpismus ist Symptom, nicht Ursache. Wer ihn nur als Charakterfehler eines Mannes liest, übersieht den sozialen Boden — und wird überrascht sein, dass das Phänomen seinen Protagonisten überlebt. Das deckt sich mit dem [[Yin-Yang-Prinzip]]: Auch eine berechtigte Empörung über Trump kann blind machen für die realen Verletzungen, aus denen seine Bewegung Kraft zieht.
+> Hier liegt die produktivste Einsicht für den europäischen Kontext: Der Trumpismus ist Symptom, nicht Ursache. Wer ihn nur als Charakterfehler eines Mannes liest, übersieht den sozialen Boden — und wird überrascht sein, dass das Phänomen seinen Protagonisten überlebt. Das deckt sich mit dem [[Yin und Yang — Alles trägt sein Gegenteil in sich|Yin-Yang-Prinzip]]: Auch eine berechtigte Empörung über Trump kann blind machen für die realen Verletzungen, aus denen seine Bewegung Kraft zieht.
 
 ---
 

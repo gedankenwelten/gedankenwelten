@@ -119,7 +119,7 @@ Wenn der Mensch im Grunde gut ist — warum sitzen dann so oft die Schlimmsten a
 > *„The puppy just desperately wants to be liked, wants to be part of a group — and this is sometimes exactly the problem. If I look at the people in history that I truly admire, they were more like the wolves: willing to go against the group. It's one of the paradoxes in this book — many of the people who really tried to do things differently had the courage to be unfriendly sometimes."*
 
 > [!note] Eigene Einschätzung
-> Dieser Moment rettet die ganze These vor der Naivität. Bregman gibt zu, dass seine schönste Eigenschaft des Menschen — die Geselligkeit — zugleich das Einfallstor des Bösen ist. Damit verschiebt sich die eigentliche Tugend: nicht „gut sein" im Sinne von freundlich, sondern *Rückgrat* — die Fähigkeit, der eigenen Herde zu widersprechen. Das ist eine fast tragische Pointe: Eine Welt aus lauter Welpen wäre nicht das Paradies, sondern ein perfekt manipulierbarer Mob. Das Gute braucht den Wolf in sich. Hier berührt Bregman, ohne es so zu nennen, den [[Yin-Yang-Grundsatz]] — keine Eigenschaft ist rein gut.
+> Dieser Moment rettet die ganze These vor der Naivität. Bregman gibt zu, dass seine schönste Eigenschaft des Menschen — die Geselligkeit — zugleich das Einfallstor des Bösen ist. Damit verschiebt sich die eigentliche Tugend: nicht „gut sein" im Sinne von freundlich, sondern *Rückgrat* — die Fähigkeit, der eigenen Herde zu widersprechen. Das ist eine fast tragische Pointe: Eine Welt aus lauter Welpen wäre nicht das Paradies, sondern ein perfekt manipulierbarer Mob. Das Gute braucht den Wolf in sich. Hier berührt Bregman, ohne es so zu nennen, den [[Yin und Yang — Alles trägt sein Gegenteil in sich|Yin-Yang-Grundsatz]] — keine Eigenschaft ist rein gut.
 
 ### Die selbsterfüllende Prophezeiung — Menschenbild als politische Waffe
 
@@ -247,7 +247,7 @@ Der Zwilling aus der Evolutionsbiologie. Van Schaik und Michel teilen Bregmans G
 
 Direkte thematische Schwester: Dort wird Bregmans *Im Grunde gut* bereits als populäre Gesamtdarstellung der Forschungslage geführt. Diese Note liefert die Stimme dahinter — das Denken, aus dem jene Synthese schöpft.
 
-### → [[Yin-Yang-Grundsatz]]
+### → [[Yin und Yang — Alles trägt sein Gegenteil in sich|Yin-Yang-Grundsatz]]
 
 Bregmans Paradox des Welpen ist gelebter Yin-Yang: Die schönste menschliche Eigenschaft (Geselligkeit) ist zugleich das Einfallstor des Bösen (Konformismus). Keine Eigenschaft ist rein gut — das Gute braucht den Wolf in sich.
 

@@ -120,7 +120,7 @@ Die dritte Reaktion ist die seltenste. Aber sie ist die einzige, die funktionier
 
 Aber es gibt noch eine vierte Reaktion — eine, die *vor* dem Bauen kommt und es erst ermöglicht:
 
-| **Begegnen** | Die Einzelnen — aufrichtige Begegnung, Samen pflanzen | [[Das unsichtbare Netzwerk — Gravitation statt Revolution\|Das unsichtbare Netzwerk]] |
+| **Begegnen** | Die Einzelnen — aufrichtige Begegnung, Samen pflanzen | [[Das unsichtbare Netzwerk — Die Macht in Dir\|Das unsichtbare Netzwerk]] |
 
 Die Architekten bauen Systeme. Aber wer baut die Architekten? Die Antwort: andere Menschen. Durch die Art, wie sie ihnen begegnen. Durch Samen, die sie pflanzen — unsichtbar, unterirdisch, vernetzt wie Myzel. Das Netzwerk ist die Voraussetzung für das Bauen. Ohne Menschen, die einander Mut machen und Selbstwirksamkeit erfahren lassen, gibt es keine Architekten.
 
@@ -284,7 +284,7 @@ Schulz ergänzt die KI-Dimension: Die Instrumentell-Funktionen — AGBs lesen, j
 ### 8. Weitere Bausteine (zu entwickeln)
 
 - [[Gesine Schwan — Macht NEU DENKEN]] — Kommunale Entwicklungsbeiräte als demokratisches Systemdesign
-- [[Matthieu Ricard — Altruismus als rationale Strategie]] — TODO: Wie wird Altruismus zum Designprinzip?
+- [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Altruismus als rationale Strategie]] — TODO: Wie wird Altruismus zum Designprinzip?
 - [[ARTE — Woher bekommen wir saubere Energie? (Gute Nachrichten vom Planeten)]] — Großbardorf als gelebtes Gegenmodell
 - **Vipassana** — Die innere Architektur: Bevor man Systeme baut, die dem Leben dienen, muss man lernen, das Leben in sich selbst wahrzunehmen. TODO: Verbindung zu Goenka/Ricard.
 - **Commons-Bewegung** — TODO: Recherchieren — Elinor Ostrom, Gemeingüter als Gegenmodell zum Privatbesitz-Paradigma
@@ -420,7 +420,7 @@ Yus Keynote liefert drei Ergänzungen: (1) den Hobbes-Rahmen — liberale System
 
 Drei Andockpunkte: (1) Seydacks Appell für öffentliche Räume ohne Konsumzwang ist die Nachfrage-Seite von Yus Spatial-Awe-Prinzip — erst Räume schaffen, dann richtig gestalten; (2) Petersdorffs „kleine Wirs" beschreibt exakt die Architektur der Bausteine (Genossenschaften, Bürgerenergie, Follow This); (3) Petersdorffs Plädoyer, Kunst dürfe auch „gelingendes Leben" darstellen, mappt auf Hüthers Gelingen ≠ Erfolg.
 
-### → [[Das unsichtbare Netzwerk — Gravitation statt Revolution]]
+### → [[Das unsichtbare Netzwerk — Die Macht in Dir]]
 
 Architekten denkt in Systemen (top-down: Genossenschaften, Bürgerenergie, Bildung). Das Netzwerk denkt in Begegnungen (bottom-up: jede einzelne Interaktion). Gleiche Richtung, andere Ebene — Architektur braucht Menschen, die sie bewohnen wollen.
 

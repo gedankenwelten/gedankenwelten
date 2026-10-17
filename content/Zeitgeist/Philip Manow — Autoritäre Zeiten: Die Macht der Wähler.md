@@ -263,7 +263,7 @@ Das ist der Gegenpunkt zur rein formal-bildungsbürgerlichen Lösung. Das Proble
 >
 > Der Effekt: Eine Analyse, die sich als differenziert versteht, wird zur impliziten Apologie — nicht weil Manow das will, sondern weil das Modell strukturell keine Akteure braucht. Strukturen allein erklären nicht, warum der Populismus in manchen Ländern explodiert und in anderen nicht, obwohl die ökonomischen Bedingungen ähnlich sind. Dort, wo er explodiert, ist oft auch massiv in rechte Infrastruktur investiert worden.
 >
-> Vgl. → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] und → [[Zeitgeist/Eva von Redecker — Der Drang nach Härte]] für die Angebotsseite.
+> Vgl. → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]] und → [[Denker/Eva von Redecker — Dieser Drang nach Härte]] für die Angebotsseite.
 
 ---
 

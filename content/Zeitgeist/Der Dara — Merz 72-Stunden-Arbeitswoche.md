@@ -140,7 +140,7 @@ Während Merz mehr Arbeitsstunden fordert, verteidigt seine Partei das Minijob-S
 
 Butterwegges Analyse der strukturellen Armut liefert den theoretischen Unterbau zu Der Daras Argument: Sozialabbau ist kein Kollateralschaden, sondern bewusste Umverteilung nach oben.
 
-### → [[Eva von Redecker — Ueber den neuen Faschismus (Jung und Naiv 811)]]
+### → [[Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]]
 
 Die von Fahimi benannte „organisierte politische Kriminalität im Kapitalismus" findet bei von Redecker die theoretische Einordnung: Der Staat als Eigentum (Yarvin-Theorie) und MAGA als neofaschistisches Projekt.
 

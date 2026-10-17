@@ -96,7 +96,7 @@ Was das Verbot bemerkenswert macht: Es kommt von einem Schwellenland mit massive
 [▶ 9:56](https://www.youtube.com/watch?v=EV-_E8_DI68&t=596) — Regierungschefs aus Südostasien, Europa und Afrika ziehen dieselbe Schlussfolgerung: Energieunabhängigkeit ist eine Frage der nationalen Sicherheit. Der UN-Klimachef bringt es auf den Punkt — Solar und Wind hängen nicht von Schifffahrtsrouten ab, die blockiert werden können.
 
 > [!note] Eigene Einschätzung
-> Die bittere Wahrheit: Erneuerbare gewinnen nicht primär wegen des Klimaschutzes, sondern weil Kriege fossile Abhängigkeiten schmerzhaft sichtbar machen. Das ist pragmatisch effektiv, aber intellektuell unbefriedigend — es brauchte den Tod von Menschen, um ökonomische Vernunft durchzusetzen. Trotzdem: Wenn das Ergebnis stimmt, ist die Motivation zweitrangig. [[Claudia Kemfert — Ist die Abhaengigkeit vom Oel unser Untergang? (Der Standard)]] analysiert genau dieses Muster der Ölabhängigkeit als Sicherheitsrisiko.
+> Die bittere Wahrheit: Erneuerbare gewinnen nicht primär wegen des Klimaschutzes, sondern weil Kriege fossile Abhängigkeiten schmerzhaft sichtbar machen. Das ist pragmatisch effektiv, aber intellektuell unbefriedigend — es brauchte den Tod von Menschen, um ökonomische Vernunft durchzusetzen. Trotzdem: Wenn das Ergebnis stimmt, ist die Motivation zweitrangig. [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] analysiert genau dieses Muster der Ölabhängigkeit als Sicherheitsrisiko.
 
 ---
 
@@ -207,7 +207,7 @@ Start der Serie im Vault — der Vergleich über drei Monate zeigt die wiederkeh
 
 Pekings 50-%-Feinstaubreduktion (diese Note) ist das empirische Resultat der von Meyer/Hegenberg beschriebenen chinesischen Industrielogik: Wenn China entscheidet, Kohle auszulaufen und Fahrzeuge zu elektrifizieren, passiert es in einem Jahrzehnt. Die Luftdaten bestätigen, was Hegenberg vor Ort sah.
 
-### → [[Claudia Kemfert — Ist die Abhaengigkeit vom Oel unser Untergang? (Der Standard)]]
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 
 Kemferts Kernthese — Ölabhängigkeit als Sicherheitsrisiko — wird in dieser Note durch den IEA-Befund empirisch bestätigt: Jede Energiekrise beschleunigt den Ausbau Erneuerbarer, weil Regierungen Verwundbarkeit durch fossile Lieferketten nicht mehr tolerieren.
 

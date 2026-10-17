@@ -99,7 +99,7 @@ Der Prompt beschreibt was im Bild ist — nicht was es bedeutet. Das Modell malt
 >   showing through"* → das Papier wird als Papier lesbar.
 >
 > **Kein Pflichtfeld — nur wo die Körperlichkeit der Note dient.** Sonst wird daraus eine Tapete: jedes
-> Banner plötzlich spachtelrauh, und die Regel frisst die Stilvielfalt (→ `feedback_gedankenart_stilvielfalt`).
+> Banner plötzlich spachtelrauh, und die Regel frisst die Stilvielfalt (→ Memory `feedback_note_stimme`, Abschnitt Gedankenart-Stilvielfalt).
 > Die Gegenprobe steht im gleichen Lauf: Der Lawrence für die GfbV-Note wollte ausdrücklich *„flat opaque
 > tempera", „matte surface"* — flache Plakatflächen, weil das Bild eine erzählende Tafel ist und kein Objekt.
 > Klees Aquarell wollte dünne Waschungen. Beiden hätte Impasto den Gedanken kaputtgemacht.

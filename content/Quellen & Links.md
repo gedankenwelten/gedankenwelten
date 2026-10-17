@@ -2360,7 +2360,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [AISSR Lecture Renée DiResta \| From Post to Policy: The New Architecture of Influence](https://www.youtube.com/watch?v=NshbWW3UogU) |
-| **Notiz** | [[Renee DiResta — AISSR Panel From Posts to Policy]] |
+| **Notiz** | [[Renee DiResta — Invisible Rulers]] |
 | **Transkript** | `Gedankenwelten/Transkripte/DiResta_AISSR_Panel_Transkript.txt` |
 
 ## Maja Göpel — Mut zur Zukunft
@@ -2835,7 +2835,7 @@ tags:
 | | |
 |---|---|
 | **Vortrag / Video** | [Trump verliert alle – sein System bricht zusammen](https://www.youtube.com/watch?v=_-HD9axQooI) |
-| **Notiz** | [[Nachtsitzung — Trumps Machtbasis bricht zusammen]] |
+| **Notiz** | [[Nachtsitzung - Trumps Machtbasis bricht zusammen]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Nachtsitzung_Trump_Transkript.txt` |
 
 ---
@@ -3251,7 +3251,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | | |
 |---|---|
 | **Interview** | [Sternstunde Philosophie — Mathieu Ricard (SRF/WDR 2021)](https://youtu.be/CGlHR9hcb5A?is=Zxn2_bw6lQBc4Pao) |
-| **Notiz** | [[Denker/Matthieu Ricard — Weisheiten 1]] |
+| **Notiz** | [[Denker/Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes]] |
 
 ---
 
@@ -4511,6 +4511,9 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 | **Vortrag / Video** | [Endloser Krieg](https://www.youtube.com/watch?v=PkOmgoyDTps) |
 | **Notiz** | [[Martin Sonneborn — Endloser Krieg]] |
 | **Transkript** | `Gedankenwelten/Transkripte/Sonneborn_Ukraine_Endloser Krieg_Transkript.txt` |
+| **Zitiert** | [Julian Assange, Interview Stop-the-War-Kundgebung London, 08.10.2011](https://www.youtube.com/watch?v=4j4Q6e_wbwM) |
+| **Primärquelle** | [Verordnung (EU) 2026/467 — 90-Mrd-Kredit an die Ukraine](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600467) |
+| **Banner** | `Gedankenwelten/assets/Martin-Sonneborn-Endloser-Krieg-banner.jpg` (George Grosz) |
 
 ## MONITOR — Trumps Milliarden mit der Präsidentschaft
 
@@ -4817,7 +4820,7 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 |---|---|
 | **Video / Gespräch** | [The Economic Legacy of Racism](https://www.youtube.com/watch?v=j2RgwVHS1Wc) — Institute for New Economic Thinking (2016, 22 Min., mit Rob Johnson) |
 | **Notiz** | [[Denker/William Darity Jr — Das oekonomische Erbe des Rassismus]] |
-| **DenkerVita** | [[DenkerVita/William Darity Jr.]] |
+| **DenkerVita** | [[DenkerVita/William Darity Jr]] |
 | **Bericht** | [*Umbrellas Don't Make It Rain* (Cook Center, PDF)](https://socialequity.duke.edu/wp-content/uploads/2019/10/Umbrellas_Dont_Make_It_Rain_Final.pdf) — die Zahlen des Gesprächs |
 | **Buch** | [*From Here to Equality*](https://www.genialokal.de/Suche/?q=darity+from+here+to+equality) (2020, mit A. Kirsten Mullen) |
 | **Transkript** | `Gedankenwelten/Transkripte/Darity_Economic_Legacy_of_Racism_Transkript.txt` |

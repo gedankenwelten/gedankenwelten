@@ -132,7 +132,11 @@ EOF
 
 ---
 
-## Schritt 4 — Commit (nur wenn Fixes gemacht)
+## Schritt 4 — Log und Commit
+
+Jeder Lauf über den ganzen Bestand bekommt einen Eintrag oben in `Cortex-Log.md`, auch wenn nichts
+gefixt wurde: `## [DD.MM.YYYY] wikilink-audit | <N> Links gefixt, <M> offen`. `/moin` rechnet den
+30-Tage-Takt aus diesem Typ.
 
 Wenn Schritt 2 oder 3 Fixes produziert haben:
 

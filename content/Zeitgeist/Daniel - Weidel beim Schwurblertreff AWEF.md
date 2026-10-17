@@ -103,7 +103,7 @@ das AWEF-Milieu (Sellner, Bhakdi, Jebsen) als praktische Illustration von Kemper
 
 Weidels Falschbehauptungen zur CO2-Bepreisung folgen klassischen Agnotologie-Mustern: strategische Unwissenheit produzieren
 
-### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang?]]
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 
 Energieökonomin Kemfert widerlegt systematisch die Fossil-zuerst-Agenda, die Weidel beim AWEF vertritt
 

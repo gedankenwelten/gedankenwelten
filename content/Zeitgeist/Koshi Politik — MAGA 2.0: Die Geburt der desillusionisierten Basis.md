@@ -135,5 +135,5 @@ Nächste Eskalation: Trump posiert als Jesus auf Truth Social — und selbst die
 ### → [[Denker/Dietrich Bonhoeffer — Theorie der Dummheit]]
 Bonhoeffer: Dummheit als gesellschaftliche Entmündigung — Personenkult ist ihre reinste Form. MAGA 2.0 wäre dann der Moment der Befreiung von dieser Entmündigung.
 
-### → [[Nachtsitzung — Trumps Machtbasis bricht zusammen]]
+### → [[Nachtsitzung - Trumps Machtbasis bricht zusammen]]
 Biersky liefert die Strukturanalyse dazu: MAGA 2.0 ist nicht nur ein Stimmungsumschwung, sondern ein systematisches Wegbrechen auf allen Ebenen der Machtpyramide — von der Basis bis zu den Influencern.

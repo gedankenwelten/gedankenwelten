@@ -215,7 +215,7 @@ Buchinger zeigt, dass Kernenergie und Erneuerbare strukturell inkompatibel sind;
 
 Arendts Kern: wenn institutionelle Strukturen das Denken ersetzen, verschwindet politische Verantwortung. Reiche verkörpert das: Ministerin und Ex-Lobbyistin im selben Amt, ohne dass die Öffentlichkeit das als Skandal erkennt.
 
-### → [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bits nach Deutschland]]
+### → [[Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
 Das Prometheus Institut (FDP, Atlas-Netzwerk) und der E.ON-Lobbyismus sind strukturelle Geschwister: Think Tanks und NGOs als Scharniere zwischen Industrieinteressen und politischer Agenda — einmal Energie, einmal Kulturkampf
 

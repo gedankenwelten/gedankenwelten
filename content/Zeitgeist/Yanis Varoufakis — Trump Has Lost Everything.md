@@ -205,7 +205,7 @@ Mirzaei liefert die iranische Innenperspektive zu dem, was Varoufakis geopolitis
 
 Beide kommen zum selben Schluss — Trump hat die Kontrolle verloren — aber aus verschiedenen analytischen Traditionen: Lange als Sicherheitspolitiker (Eskalationslogik, militärische Dynamik, Hegseths Inkompetenz), Varoufakis als Ökonom (Benzinpreise als MAGA-Killer, KI-Investitionswelle abgeebbt, Stagflationsrisiko). Zusammen: das vollständige Bild, warum der Iran-Krieg Trumps politisches Projekt beendet.
 
-### → [[Philip Manow — Autoritäre Zeiten]]
+### → [[Philip Manow — Autoritäre Zeiten: Die Macht der Wähler]]
 
 Manow erklärt empirisch, was Varoufakis historisch herleitet: Warum Wähler autoritäre Parteien wählen — nicht aus Irrationalität, sondern als rationale Reaktion auf Globalisierungsverlierer-Erfahrungen. Varoufakis' Faschismus-Sequenz (Bankenkollaps → Austerität → populistische Mimikry) ist der Mechanismus hinter Manows Daten. Manow liefert die Empirie, Varoufakis die Genealogie.
 

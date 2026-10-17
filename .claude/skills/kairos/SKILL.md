@@ -88,7 +88,7 @@ Alle Gedankenwelten-Playlisten aus der `.env` durchsuchen — **über die API** 
 `.claude/scripts/yt_playlist.py list`, **nicht** über yt-dlp+Browser-Cookies. Grund: Andreas wechselt
 oft, welches Konto in welchem Browser eingeloggt ist; Cookie-basiertes Lesen ist dadurch unzuverlässig
 (leere/falsche Listen). Das OAuth-Token ist **kontogebunden und stabil**, egal welcher Browser gerade
-wo eingeloggt ist. → Details: [[project_youtube_mac_native_oauth]].
+wo eingeloggt ist. → Details: Memory `project_pi_infrastruktur` (Abschnitt YouTube Mac-OAuth).
 
 > [!important] Konto = Präfix der Env-Variable
 > `<konto-1>_*`-Listen → Konto **`<konto-1>`**, `<konto-2>_*`-Listen → Konto **`<konto-2>`**. Beide sind

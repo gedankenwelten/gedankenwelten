@@ -203,11 +203,11 @@ Verbundene Notes: [[Gesine Schwan — Macht NEU DENKEN]] · [[Ece Temelkuran —
 
 [[S.N. Goenka — Vipassana]] liefert den präzisesten Mechanismus: **Sankhāra** (konditionierte Reaktionsmuster) sind exakt das, was autoritäre Systeme installieren — Angst → blinder Gehorsam, Gier → Unterwerfung unter Macht. **Vedanā** (Körperempfindungen) ist der Punkt, an dem die Kette bricht: Zwischen Reiz und Reaktion liegt ein Moment der Wahrnehmung, der trainierbar ist. **Upekkhā** (Gleichmut) ist nicht Passivität, sondern die Fähigkeit, mit voller Kraft zu handeln, ohne von Angst oder Hass getrieben zu werden. Goenka selbst warnt vor spiritueller Passivität: *Handle mit voller Kraft — aber aus Gleichmut, nicht aus Reaktivität.*
 
-[[Matthieu Ricard — Altruismus als Vernunft]] ergänzt die entscheidende Einschränkung: Achtsamkeit ohne ethische Ausrichtung ist wertlos — *„ein achtsamer Söldner tötet alle"*. Mindfulness allein stoppt keine Heritage Foundation. Aber Ricard zeigt auch: Mitgefühl ist **trainierbar** — neurowissenschaftlich nachweisbar (Davidson-Studie). Das ist relevant, weil Schaverians ABCD-Modell zeigt, dass Empathie-Fähigkeit durch Erziehung *zerstört* werden kann — Ricard zeigt, dass sie *wiederherstellbar* ist.
+[[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Altruismus als Vernunft]] ergänzt die entscheidende Einschränkung: Achtsamkeit ohne ethische Ausrichtung ist wertlos — *„ein achtsamer Söldner tötet alle"*. Mindfulness allein stoppt keine Heritage Foundation. Aber Ricard zeigt auch: Mitgefühl ist **trainierbar** — neurowissenschaftlich nachweisbar (Davidson-Studie). Das ist relevant, weil Schaverians ABCD-Modell zeigt, dass Empathie-Fähigkeit durch Erziehung *zerstört* werden kann — Ricard zeigt, dass sie *wiederherstellbar* ist.
 
 **Worin liegt die Relevanz für den autoritären Internationalismus?** Nicht darin, dass Meditation Faschismus stoppt — das wäre naiv. Sondern darin, dass *ohne* innere Resilienz alle strukturellen Lösungen (Regulierung, Bildung, Journalismus) auf dem gleichen psychologischen Substrat aufbauen, das sie bekämpfen: konditionierte Angstreaktionen. Viktor Frankls Lücke zwischen Reiz und Reaktion — *„In dieser Lücke liegt unsere Freiheit"* — ist die philosophische Brücke zwischen Fromms Diagnose und einer Antwort, die tiefer greift als Institutionen.
 
-Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruismus als Vernunft]] · [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
+Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Altruismus als Vernunft]] · [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]]
 
 ---
 
@@ -281,7 +281,7 @@ Verbundene Notes: [[S.N. Goenka — Vipassana]] · [[Matthieu Ricard — Altruis
 | [[Gefangene des Systems — Elitenerziehung und die Verrohung der Macht]] | Ursache · Psychologische Produktion |
 | [[scobel — Luhmann Abklaerung der Aufklaerung|scobel — Luhmann: Abklärung der Aufklärung]] | Theorie · Autopoiesis |
 | [[S.N. Goenka — Vipassana]] | Resilienz · Sankhāra/Vedanā |
-| [[Matthieu Ricard — Altruismus als Vernunft]] | Resilienz · Trainierbares Mitgefühl |
+| [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Matthieu Ricard — Altruismus als Vernunft]] | Resilienz · Trainierbares Mitgefühl |
 | [[Yanis Varoufakis — Trump Has Lost Everything]] | Empirie · Faschismus-Sequenz |
 | [[Zeitgeist/Varoufakis — 2008 Crash, Populismus und Europa]] | Ursache · 2008 als ökonomischer Nährboden des Autoritarismus |
 | [[Zeitgeist/Zhao Tingyang, Forst und Williams — Tianxia und die Bedeutungen der Demokratie|Zhao Tingyang & Forst — Tianxia und die Bedeutungen der Demokratie]] | Gegentheorie · Tianxia als systemische Antwort auf Westfalia |

@@ -187,7 +187,7 @@ Goenkas Warnung vor erzwungener Unterdrückung (der "schlafende Vulkan") ist das
 
 Adriaan stammt aus der Plum Village-Linie — sein Begriff von Selbstfürsorge als Bedingung echter Fürsorge ist direkt Thich-Nhat-Hanh-isch: Interbeing als Hintergrund bedeutet, dass wer nicht bei sich ist, nicht wirklich beim anderen sein kann. Thays Konzept des "tiefen Schauens in das eigene Leiden" als Voraussetzung für Mitgefühl ist Adriaans Paradox der leeren Fürsorge in der kanonischen Form.
 
-### → [[Gedanken/Das unsichtbare Netzwerk — Gravitation statt Revolution]]
+### → [[Gedanken/Das unsichtbare Netzwerk — Die Macht in Dir]]
 
 Das Netzwerk-Essay beantwortet die Kollektivfrage, die Adriaans Vortrag am Ende aufwirft: Wenn ein Mensch in einem System diesen Weg geht, erscheint ein anderes Licht — aber wie? Das Netzwerk liefert den Mechanismus (Myzel, Gravitation, Prediction Error). Adriaan gibt das *Warum* der inneren Arbeit, das Netzwerk das *Wie* seiner kollektiven Wirkung.
 

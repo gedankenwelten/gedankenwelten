@@ -42,7 +42,7 @@ Abgrenzung zu den Nachbarn:
 Erst der ganze Bestand, dann die Wahl. Kein Video darf durchrutschen, nur weil eine Liste
 ungelesen blieb. Über die **kontogebundene API** (`yt_playlist.py list`), **nicht** über
 yt-dlp+Browser-Cookies — das OAuth-Token ist stabil, egal welcher Browser gerade wo eingeloggt ist.
-→ [[project_youtube_mac_native_oauth]].
+→ Memory `project_pi_infrastruktur` (Abschnitt YouTube Mac-OAuth).
 
 > [!important] Konto = Präfix der Env-Variable
 > `<konto-1>_*` → Konto **`<konto-1>`**, `<konto-2>_*` → Konto **`<konto-2>`**. Beide autorisiert

@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **17.10.** — [[Zeitgeist/Martin Sonneborn — Endloser Krieg|Martin Sonneborn — Endloser Krieg]]
+>
+> Ein Satiriker sieht im Ukraine-Krieg ein Geschäft, das nie enden soll. Seine Rechnung stimmt öfter, als man denkt — nur fehlt in ihr der, der angefangen hat.
+
 > **16.10.** — [[Zeitgeist/Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
 >
 > Ein Fischschwarm braucht keinen Dirigenten: Uwe Krüger zeigt 2017, wie Leitmedien gleich klingen, ohne dass jemand lenkt — und neun Jahre später wird nachgeprüft, was davon trägt.
@@ -39,10 +43,6 @@ Die Gedankenwelten (luc)
 > **15.10.** — [[Zeitgeist/Martin Oetting — Happy Planet Index 2026|Martin Oetting — Happy Planet Index 2026: Was ist echter Wohlstand?]]
 >
 > Costa Rica vorn, die USA auf Platz 105 — der Happy Planet Index misst, wer aus wenig Welt viel Leben macht. Und stellt der deutschen Wachstumsdebatte eine unbequeme Frage.
-
-> **13.10.** — [[Zeitgeist/Ruben Mawick — Als Sanitaeter an der Ukraine-Front|Ruben Mawick — Als Sanitäter an der Ukraine-Front]]
->
-> Ein 22-jähriger Deutscher, achtmal freiwillig als Sanitäter in der Ukraine, überlebt einen Raketeneinschlag, der zwei Freunde tötet — und kehrt zurück. Ein Augenzeugnis über Krieg, Trauma und die Frage, wofür man sterben würde.
 
 > → *15 weitere in* [[Zeitgeist]]
 
@@ -142,7 +142,7 @@ Die Gedankenwelten (luc)
 >
 > Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
 
-> → *7 weitere in* [[Spuren]]
+> → *6 weitere in* [[Spuren]]
 
 ### GoodNews
 

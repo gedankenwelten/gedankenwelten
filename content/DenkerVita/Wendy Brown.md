@@ -95,8 +95,8 @@ Sie lehrt, dass ehrliche intellektuelle Arbeit wichtiger ist als politische Gesc
 - [[Denker/Joerg Baberowski — Putin Herrschaft und liberale Demokratie|Jörg Baberowski — Putin, Herrschaft und die liberale Demokratie]] — teilt Browns Befund, dass der Neoliberalismus die Solidaritätsbeziehungen auflöst (Baberowski erlebt es im Russland der 90er), entlarvt aber die liberale Demokratie selbst als oligarchisch, statt das demokratische Versprechen zu verteidigen
 - [[Denker/Michel Foucault]] — Browns Hauptreferenz: *Die Geburt der Biopolitik* als Werkzeug zur Neoliberalismus-Analyse
 - [[Denker/Karl Marx]] — Kapitalismuskritik als Grundlage; Browns Neoliberalismus-These radikalisiert Marx auf die Subjektseite
-- [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalität]] — Deutsche Parallele zu Browns Foucault-Lektüre (Gouvernementalität als Regierungstechnik)
-- [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus]] — Redeckers Phantombesitz-These ist eine psychologische Kehrseite von Browns Analyse der neoliberalen Subjektivität
+- [[Zeitgeist/Demirovic und Lorey — Foucaults Gouvernementalitaet]] — Deutsche Parallele zu Browns Foucault-Lektüre (Gouvernementalität als Regierungstechnik)
+- [[Zeitgeist/Eva von Redecker — Über den neuen Faschismus (Jung & Naiv 811)]] — Redeckers Phantombesitz-These ist eine psychologische Kehrseite von Browns Analyse der neoliberalen Subjektivität
 - [[Denker/Hannah Arendt]] — Arendts Analyse von Totalitarismus und Banalität des Bösen; Browns Sicht auf die demokratische Krise ist post-Arendtianisch
 - [[Denker/Max Weber]] — Browns jünstes Werk (*Nihilistic Times*) dialogisiert direkt mit Webers Ethik-Vorlesungen
 

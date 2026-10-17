@@ -86,7 +86,7 @@ der Shutdown im Kontext, der dieses Video produziert
 
 strukturelle Grundlage: Behörde ohne Rechenschaftspflicht
 
-- [[Zeitgeist/Trump DHS-Shutdown und ICE an Flughäfen]] → [[Zeitgeist/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]] — Endpunkt der Serie: Trump schickt ICE an Flughäfen
+- [[Zeitgeist/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]] → [[Zeitgeist/Koshi Politik — Trump DHS-Shutdown und ICE an Flughäfen]] — Endpunkt der Serie: Trump schickt ICE an Flughäfen
 
 ### → [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 

@@ -289,11 +289,11 @@ Das ist keine Frage, die man beantwortet — sondern eine, nach der man lebt. Si
 
 Rosa ist das explizite Gegenstück: Marquardt beschreibt phänomenologisch, was Rosa soziologisch analysiert. „Sich anrufen lassen" (Marquardt) ist dasselbe wie Resonanz (Rosa) — nur aus der subjektiven statt der systemischen Perspektive.
 
-### → [[Zeitgeist/Goenka — Vipassana und die Kunst des Sterbens]]
+### → [[Denker/S.N. Goenka — Vipassana]]
 
 Die Frage „Wer möchte ich gewesen sein?" und der Augustinus'sche Zeitbegriff (Zeit entsteht in mir) berühren den Kern der Vipassana-Praxis: Vergänglichkeit (Anicha) und die Qualität der Gegenwärtigkeit. Marquardt kommt von der christlichen Philosophie, Goenka von der buddhistischen Praxis — beide landen beim selben Ort: Bewusstsein als Gegenwart.
 
-### → [[Gedanken/Blaise Pascal — Wette und Unruhe]]
+### → [[DenkerVita/Blaise Pascal|Gedankenwelten/Gedanken/Blaise Pascal — Wette und Unruhe]]
 
 Marquardt zitiert explizit die pascalsche Wette als persönliche Lebenshaltung: auf Ewigkeit setzen nimmt den Druck aus dem Kessel. Pascal selbst diagnostizierte die *divertissement*-Falle — die Beschleunigung als Flucht vor dem Sein. Marquardt wiederholt diese Diagnose 400 Jahre später.
 ### → [[Denker/Wolfram Eilenberger — Die größte Lüge der Philosophie]]

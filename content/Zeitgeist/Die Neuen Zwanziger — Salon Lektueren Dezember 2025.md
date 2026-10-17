@@ -171,7 +171,7 @@ Musk als DOGE-Chef, der USAID zerschlägt und 600.000 Tote in Kauf nimmt, ist f�
 
 Osnos' Bunker-Kultur der Ultrareichen ist die Endstation von Markovits' Separatismus. Wenn die Elite sich geographisch, kulturell und lebensweltlich abgetrennt hat, ist der Bunker nur noch die physische Manifestation einer psychischen Realität. Beide Texte konvergieren im selben Befund: Die Superreichen leben bereits in einer anderen Welt — die Frage ist, ob sie das freiwillig tun oder ob das System sie dorthin zwingt. Markovits sagt: beides.
 
-### → [[Clara Mattei — Capital Order]]
+### → [[Clara Mattei|Clara Mattei — Capital Order]]
 
 Mattei beschreibt die *politische* Konstruktion ökonomischer Austerität — wie Sparmaßnahmen bewusst eingesetzt werden, um Arbeitermacht zu brechen. Markovits zeigt die *meritokratische* Variante desselben Mechanismus: Die Aufstiegsillusion ersetzt die offene Repressionspolitik durch ein System, in dem sich die Ausgeschlossenen selbst die Schuld geben. Matteis „Capital Order" und Markovits' „Meritocracy Trap" sind komplementäre Beschreibungen derselben Machtarchitektur.
 

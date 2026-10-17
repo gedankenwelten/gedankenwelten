@@ -160,7 +160,7 @@ China sichert seine südamerikanischen Lieferketten parallel ab — über Invest
 
 ## Verbindungen
 
-[[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang?]] — Öl wie Soja sind geopolitische Hebel: wer die Produktion kontrolliert, kontrolliert Politik — strukturell dasselbe Abhängigkeitsmuster in zwei Rohstoffsektoren.
+[[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]] — Öl wie Soja sind geopolitische Hebel: wer die Produktion kontrolliert, kontrolliert Politik — strukturell dasselbe Abhängigkeitsmuster in zwei Rohstoffsektoren.
 
 [[Heiner Flassbeck — Krise und Rechtsruck]] — Flassbeck zeigt, wie globale Wirtschaftsungleichgewichte politische Radikalisierung befeuern; der Soja-Handelskrieg und der Einnahmeneinbruch bei Trumps Farmerwählerschaft ist ein Lehrstück dieser Dynamik.
 

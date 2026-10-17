@@ -481,7 +481,7 @@ zeigt dann auf den, der die Eimer trug. Das *Verhindern* ist beobachtbar; das *W
 
 ## Verbindungen
 
-### → [[Zeitgeist/Nachtsitzung-Die-rechte-Internationale-CPAC-und-sein-Netzwerk-bis-nach-Deutschland|Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
+### → [[Zeitgeist/Nachtsitzung — Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland|Die rechte Internationale: CPAC und sein Netzwerk bis nach Deutschland]]
 
 Die Institutionen-Ebene unter dieser Spur: Wo CPAC/Atlas/Heritage das *Netz* spannen, ist Fox-Erfurt das
 Netz in Aktion — die mediale Ausleitung desselben transatlantischen Projekts.
@@ -491,7 +491,7 @@ Netz in Aktion — die mediale Ausleitung desselben transatlantischen Projekts.
 Der Panorama-Anker: „was die AfD lokal verkörpert, ist der deutsche Knoten eines internationalen Netzes."
 Diese Spur beobachtet, wie dieser Knoten im US-Spiegel umgedeutet und zurückgestrahlt wird.
 
-### → [[Zeitgeist/Topfvollgold-BILD-und-NIUS-Wie-erfundene-Geschichten-Hass-schüren|Topfvollgold — BILD und NIUS]] · [[Zeitgeist/MONITOR-AfD-Erfolg-trotz-Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]]
+### → [[Zeitgeist/Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren|Topfvollgold — BILD und NIUS]] · [[Zeitgeist/MONITOR — AfD-Erfolg trotz Skandalen|MONITOR — AfD-Erfolg trotz Skandalen]]
 
 Die deutsche Seite derselben Mechanik: Normalisierung durch Rahmung und Wiederholung. Der Echo-Test der
 Spur (fließt der Fox-Rahmen zu NIUS/BILD zurück?) läuft genau über diese Kanäle.

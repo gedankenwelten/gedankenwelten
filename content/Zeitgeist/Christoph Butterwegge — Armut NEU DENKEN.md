@@ -189,7 +189,7 @@ Historisches Echo: Horowski zeigt, wie Klassenstrukturen sich reproduzieren; But
 
 Direkter Bezug: Die SPD-Debatte um Agenda 2010 und ihre sozialpolitischen Folgen, die Butterwegge als zentrale Ursache der Spaltung benennt
 
-### → [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt]]
+### → [[Sandra Navidi — Verbrecher getarnt als Regierung: Wie Trump die USA ausraubt (Der Standard)]]
 
 Navidi beschreibt dieselbe Dynamik der Oligarchisierung auf US-Ebene; Butterwegges Finanzmarktkapitalismus-Analyse trifft sich mit Navidis Befund zur Vermachtung der Demokratie
 

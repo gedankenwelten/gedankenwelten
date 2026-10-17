@@ -188,7 +188,7 @@ Rosas Resonanzbegriff erklärt, warum passives Konsumieren (Social Media, KI) ni
 
 Fromms Unterscheidung trifft Maas' Kern: Das Haben-Modus (KI gibt mir Antworten, ich habe Wissen) vs. der Sein-Modus (ich erarbeite mir etwas, es wird Teil meiner selbst). Bildung als Sein ist das, was Maas fordert. Bildung als Haben ist das, was gerade passiert.
 
-### → [[Immanuel Kant — Was ist Aufklärung]]
+### → [[Immanuel Kant — Was ist Aufklärung?]]
 
 "Sapere aude" — habe Mut, dich deines eigenen Verstandes zu bedienen. Maas beschreibt das genaue Gegenteil: Kognition wird delegiert, das eigene Urteil wird ersetzt. Kants Aufklärungsprogramm und Maas' Bildungsreform sind dieselbe Sache, 250 Jahre auseinander.
 

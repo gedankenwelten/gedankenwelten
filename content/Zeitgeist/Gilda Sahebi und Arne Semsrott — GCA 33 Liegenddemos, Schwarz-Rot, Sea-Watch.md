@@ -198,11 +198,11 @@ Was beide beschäftigt: die Normalisierung. Wo einst Schiffsunglücke die Titels
 
 ## Verbindungen
 
-### → [[Zeitgeist/Gilda Sahebi - Polarisierung, Herrschaft, Spaltung]]
+### → [[DenkerVita/Gilda Sahebi|Gedankenwelten/Zeitgeist/Gilda Sahebi - Polarisierung, Herrschaft, Spaltung]]
 
 Gilda's Kernthese — Polarisierung als Herrschaftsinstrument — steht im Hintergrund jeder Schwarz-Rot-Analyse dieser Folge: Bürgergeld-Gegner und Grundsicherungs-Empfänger sind dieselbe Gruppe, werden aber gegeneinander ausgespielt.
 
-### → [[Zeitgeist/Gilda Sahebi - Verbinden statt spalten (Elevate 2026)]]
+### → [[DenkerVita/Gilda Sahebi|Gedankenwelten/Zeitgeist/Gilda Sahebi - Verbinden statt spalten (Elevate 2026)]]
 
 Die Forderung nach "Verbinden statt Spalten" findet in "Peter aus Köln" ihr konkretes Bild: Wer versteht, was Menschen emotional durchmachen, kann verbinden — wer nur Fakten korrigiert, verliert sie an die AfD.
 

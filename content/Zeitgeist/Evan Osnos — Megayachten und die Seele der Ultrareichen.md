@@ -218,7 +218,7 @@ Osnos: Geschichte zeigt, dass Privilegien fast nie freiwillig aufgegeben werden.
 
 [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] — Heitmeyer beschreibt die gesellschaftliche Normalisierung von Kälte von unten; Osnos dokumentiert dasselbe Phänomen von oben. Die Billionäre setzen Normen — und wenn Andreessen Introspektion für obsolet erklärt, tut das seine Wirkung in der ganzen Tech-Kultur.
 
-[[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten]] — Nosthoffs Analyse der kybernetischen Macht-Logik ergänzt Osnos' journalistischen Zugang: Die "principal"-Struktur ist eine kybernetische Feedbackschleife, die Störsignale ausfiltert und den Mächtigen in seiner eigenen Weltwahrnehmung bestärkt.
+[[Anna-Verena Nosthoff — Kybernetik und die Macht der Tech-Eliten (scobel)]] — Nosthoffs Analyse der kybernetischen Macht-Logik ergänzt Osnos' journalistischen Zugang: Die "principal"-Struktur ist eine kybernetische Feedbackschleife, die Störsignale ausfiltert und den Mächtigen in seiner eigenen Weltwahrnehmung bestärkt.
 
 [[Hannah Arendt — Die Banalität des Bösen]] — *"People are rarely the villain in their own story."* Osnos sagt das über Yacht-Besitzer; Arendt würde nicken. Niemand im Bunker glaubt, er sei das Problem. Deshalb ist der Bunker keine Reaktion auf Schuld — er ist eine Reaktion auf Angst.
 

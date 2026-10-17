@@ -246,7 +246,7 @@ Huber vermisst in den Ethiken der Digitalisierung das Stichwort Wahrheit und hol
 
 > [!question] Was Sokrates vielleicht gefragt hätte
 > - Han fand sein Glück, indem er log und floh — Eltern, Freunde, Professoren. Kann eine Philosophie des Glücks ehrlich sein, die ihre eigene Gründungslüge nie problematisiert: Wie viel Rücksichtslosigkeit steckt im gelungenen Leben?
-> - Wenn Glück Widerstand braucht: Trainiert man es dann wie [[Matthieu Ricard — Die Gewohnheiten des Gluecks|Ricard]] behauptet — oder ist gerade das Trainieren-Wollen schon die Selbstoptimierung, die Han als Selbstausbeutung entlarvt? Können beide recht haben?
+> - Wenn Glück Widerstand braucht: Trainiert man es dann wie [[Matthieu Ricard — Glück, Mitgefühl und die Transformation des Geistes|Ricard]] behauptet — oder ist gerade das Trainieren-Wollen schon die Selbstoptimierung, die Han als Selbstausbeutung entlarvt? Können beide recht haben?
 > - Hans Lösung heißt Erziehung ab dem Kindergarten: analoge Zeit, Garten, Instrumente. Aber wer erzieht die Erzieher — und ist eine Pädagogik, die Kinder vor der Welt ihrer Eltern schützt, Befreiung oder nur ein schönerer Zaun?
 > - Der Sklave rebelliert, das Vieh frisst. Gibt es eine dritte Figur, die Han nicht denkt — jemanden, der den Zaun sieht, bleibt und *innerhalb* des Geheges anders lebt? Und wäre das Weisheit oder Kapitulation?
 > - Wenn Denken Gänsehaut voraussetzt, Liebe, einen Körper: Was genau tue ich dann gerade, wenn ich diese Note lese — denke ich mit, oder konsumiere ich Information über das Denken?

@@ -280,6 +280,10 @@ Dieselbe Mechanik, anderer Schauplatz: Wie aus einem Funken eine Rechtfertigung 
 
 Uwe Krüger nannte 2017 den Machtwechsel in Kiew vorsichtig einen „Umsturz“ und kritisierte die Berichterstattung darüber; die Nachbesprechung dort zieht dieselbe Linie zwischen der Deutung von 2014 und der Tatsache von 2022.
 
+### → [[Martin Sonneborn — Endloser Krieg]]
+
+Dieselbe Bauweise mit einem anderen Funken: Bei Sonneborn ist er ebenfalls wahr — Rüstungsfirmen verdienen am Krieg, und für den 90-Milliarden-Kredit haften am Ende die Bürger. Darauf baut er ein Gebäude, in dem Russland nicht mehr vorkommt und ein abgeschnittenes Verordnungszitat als Beweis dient.
+
 ---
 
 ## Weiterdenken

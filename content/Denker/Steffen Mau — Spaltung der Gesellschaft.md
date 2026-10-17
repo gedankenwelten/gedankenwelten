@@ -244,8 +244,8 @@ Grenzen verschwinden nicht — sie werden zu *Sortiermaschinen*: Smart Borders f
 
 Eine Clique im Querfurter Stadtbad, die sich über die AfD uneinig ist, das ausspricht und befreundet bleibt — der Befund gegen die gespaltene Gesellschaft, mitten in der Hochburg. Zugleich ein Gegentest zu den Polarisierungsunternehmern: Der erfolgreichste Satz des AfD-Spitzenkandidaten ist eine zutreffende Beschreibung, kein Trigger.
 
-- [[Aladin El-Mafaalani — Mythos Bildung]] — El-Mafaalani analysiert die Meritokratie-Illusion von der Bildungsseite; Mau zeigt empirisch, dass die Arbeiterklasse dieser Illusion stärker aufsitzt als die Privilegierten
-- [[Christoph Butterwegge — Armut in Deutschland]] — Butterwegge liefert die sozialpolitische Detailanalyse zur Ungleichheit, die Mau als „folgenloses Bewusstsein" beschreibt
+- [[Aladin El-Mafaalani|Aladin El-Mafaalani — Mythos Bildung]] — El-Mafaalani analysiert die Meritokratie-Illusion von der Bildungsseite; Mau zeigt empirisch, dass die Arbeiterklasse dieser Illusion stärker aufsitzt als die Privilegierten
+- [[Christoph Butterwegge — Armut NEU DENKEN]] — Butterwegge liefert die sozialpolitische Detailanalyse zur Ungleichheit, die Mau als „folgenloses Bewusstsein" beschreibt
 - [[Rainer Mausfeld — Warum schweigen die Lämmer]] — Maus „folgenloses Bewusstsein" ist die empirische Bestätigung von Mausfelds These: 80% erkennen Ungleichheit, aber asymmetrisches Agenda Setting und kognitive Managementtechniken verhindern politische Konsequenzen
 - [[Jonathan Haidt — Kann ein gespaltenes Amerika heilen]] — Haidt diagnostiziert tribale Polarisierung als Naturgesetz; Mau widerspricht empirisch: Deutschland ist nicht gespalten, sondern gezielte Triggerpunkte erzeugen den Eindruck von Spaltung
 - [[Erich Fromm — Psychoanalyse des Faschismus]] — Mau referenziert Fromms „Flucht vor der Freiheit" explizit; die Arbeiterklasse, die Meritokratie verteidigt, zeigt Fromms autoritäre Selbstbindung als psychischen Schutzmechanismus

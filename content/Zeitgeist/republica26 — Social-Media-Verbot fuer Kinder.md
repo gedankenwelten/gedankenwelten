@@ -207,7 +207,7 @@ Das Ziel ist das, was Kunow "altersgerechte Versionen der Plattformen" nennt —
 
 ## Verbindungen
 
-### → [[Zeitgeist/Markus Gabriel — Was die sozialen Netzwerke mit uns machen]]
+### → [[Denker/Markus Gabriel — Soziale Netzwerke Neue Theorie|Gedankenwelten/Zeitgeist/Markus Gabriel — Was die sozialen Netzwerke mit uns machen]]
 
 Gabriel analysiert Social Media als Aufmerksamkeitsfalle und philosophisches Problem. Paschkes neurobiologisches Argument über Belohnungslernen ergänzt Gabriels medienphilosophische Kritik: Was Gabriel als kulturelles Problem beschreibt (die Verflachung von Realität), ist bei Paschke ein klinisch messbares Symptom mit Suchwert.
 
@@ -219,7 +219,7 @@ El-Mafaalani argumentiert, Kinder seien strukturell die am wenigsten gehörte Gr
 
 Maas' Kritik am Bildungssystem berührt denselben neurobiologischen Grundsatz: Lernen funktioniert anders als institutionell angenommen. Paschkes "Schutz als Voraussetzung für Befähigung" ist eine bildungstheoretische Aussage — ohne sicheren Entwicklungsraum keine echte Lernfähigkeit.
 
-### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskräfte]]
+### → [[Zeitgeist/rp26 — KIs unsichtbare Arbeitskraefte]]
 
 Beide Panels diskutieren Nebenwirkungen technologischer Systeme auf vulnerable Gruppen. Die KI-Personalisierung, die Paschke als Verstärker von Suchtmechanismen beschreibt, ist dieselbe KI, die in der anderen rp26-Session unsichtbare Arbeit unsichtbar macht.
 

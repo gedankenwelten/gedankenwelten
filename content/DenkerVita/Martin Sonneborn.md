@@ -21,19 +21,19 @@ tags: [denker-vita, satire, eu, geopolitik]
 ## Biographischer Snapshot
 
 > [!info] Wer spricht?
-> **Martin Sonneborn** (*1965, Göttingen*) — Satiriker, Ex-Chefredakteur der *Titanic*, Gründer von Die PARTEI. 2014–2024 fraktionsloses Mitglied des Europäischen Parlaments. Nutzt Satire als politisches Instrument, kritisiert EU-Intransparenz, Rüstungslobbyismus und westliche Kriegspolitik. Unterstützer von Julian Assange. Umstritten wegen ablehnender Haltung zu Ukraine-Waffenlieferungen.
+> **Martin Sonneborn** (*1965, Göttingen*) — Satiriker, Ex-Chefredakteur der *Titanic*, Gründer von Die PARTEI. Seit 2014 fraktionsloses Mitglied des Europäischen Parlaments, 2024 wiedergewählt. Nutzt Satire als politisches Instrument, kritisiert EU-Intransparenz, Rüstungslobbyismus und westliche Kriegspolitik. Unterstützer von Julian Assange. Umstritten wegen ablehnender Haltung zu Ukraine-Waffenlieferungen.
 
 ---
 
 ## Biografie
 
-Martin Sonneborn wächst in Göttingen auf und studiert Publizistik, Geschichte und Germanistik. Der entscheidende Wendepunkt kommt mit dem *Titanic*-Satiremagazin: Von 2000 bis 2005 ist er Chefredakteur und verwandelt das Heft in eine politische Waffe. Legendäre Aktionen — der gefälschte Varoufakis-Stinkefinger, die CDU-Spendenaffäre-Parodie — machen ihn bekannt.
+Martin Sonneborn wächst in Göttingen auf und studiert Publizistik, Geschichte und Germanistik. Der entscheidende Wendepunkt kommt mit dem *Titanic*-Satiremagazin: Von 2000 bis 2005 ist er Chefredakteur und verwandelt das Heft in eine politische Waffe. Legendär wird das Bestechungsfax, mit dem die *Titanic* im Jahr 2000 FIFA-Delegierte vor der Vergabe der Fußball-WM 2006 „bestechen“ wollte.
 
 2004 gründet er mit *Titanic*-Kollegen Die PARTEI (Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative). Was als Satire beginnt, wird zur realen politischen Kraft: 2014 zieht Sonneborn mit 0,6% ins EU-Parlament ein. 2019 folgt die Wiederwahl mit 2,4% — fast 900.000 Stimmen.
 
-Im EU-Parlament entwickelt Sonneborn einen einzigartigen Stil: Er stimmt abwechselnd Ja und Nein, um das „sinnlose Durchwinken" zu karikieren — aber seine Parlamentsanfragen zu Rüstungslobbyismus, Frontex und Transparenz haben oft mehr Substanz als die seiner „seriösen" Kollegen. Die Zusammenarbeit mit Nico Semsrott (2019–2021) endet im Bruch über politische Differenzen.
+Im EU-Parlament entwickelt Sonneborn einen einzigartigen Stil: Er stimmt abwechselnd Ja und Nein, um das „sinnlose Durchwinken" zu karikieren — aber seine Parlamentsanfragen zu Rüstungslobbyismus, Frontex und Transparenz haben oft mehr Substanz als die seiner „seriösen" Kollegen. Nico Semsrott zieht 2019 als zweiter PARTEI-Abgeordneter mit ins Parlament; 2021 tritt er nach einem Zerwürfnis mit Sonneborn aus der Partei aus.
 
-2024 wird Sonneborn nicht wiedergewählt. Er bleibt als YouTube-Kommentator aktiv — seine Parlamentsreden erreichen Millionen Views.
+2024 wird Sonneborn wiedergewählt (Die PARTEI 1,9 %, zwei Sitze). Er sitzt weiter fraktionslos im Parlament, Mitglied im Innenausschuss (LIBE), und erreicht mit seinen Parlamentsreden und Videos auf YouTube Millionen.
 
 ---
 

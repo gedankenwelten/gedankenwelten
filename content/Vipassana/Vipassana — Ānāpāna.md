@@ -79,7 +79,7 @@ Jeden Tag passieren Dinge, die man nicht will. Erwünschtes trifft selten ein. J
 
 Drei Tage Ānāpāna schärfen den Geist. Goenka vergleicht es mit einem Skalpell: Ein stumpfes Messer kann nicht präzise schneiden. Ein konzentrierter Geist kann die Wirklichkeit im Inneren scharf sehen.
 
-Erst wenn diese Schärfe erreicht ist — beginnt Vipassana. Erst dann kann man systematisch durch den Körper gehen, jede Empfindung bemerken, ohne zu reagieren. Die Konzentration ist das Brennglas. Das Licht ist [[Paññā — Weisheit|Paññā]].
+Erst wenn diese Schärfe erreicht ist — beginnt Vipassana. Erst dann kann man systematisch durch den Körper gehen, jede Empfindung bemerken, ohne zu reagieren. Die Konzentration ist das Brennglas. Das Licht ist [[Vipassana — Sila Samadhi Panna|Paññā]].
 
 ---
 
@@ -95,7 +95,7 @@ Der Haben-Modus will den Atem kontrollieren, optimieren, verlängern — Atemüb
 
 ### → [[S.N. Goenka — Vipassana]]
 
-Ānāpāna ist der Eingang. Ohne diese drei Tage kein Vipassana. Ohne Vipassana keine direkte Erfahrung von [[Anicca — Vergänglichkeit|Anicca]].
+Ānāpāna ist der Eingang. Ohne diese drei Tage kein Vipassana. Ohne Vipassana keine direkte Erfahrung von [[Vipassana — Anicca|Anicca]].
 
 - [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis
 - [[Adriaan van Wagensveld — Weniger Drama Vipassana ins Handeln]] — Ānāpāna als Fundament von Adriaans Stufenmodell der Vipassana-Praxis

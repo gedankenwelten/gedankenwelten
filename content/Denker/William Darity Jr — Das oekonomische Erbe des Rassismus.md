@@ -44,7 +44,7 @@ Quelle: [The Economic Legacy of Racism](https://www.youtube.com/watch?v=j2RgwVHS
 > Wichtigste Werke: *From Here to Equality* (2020, mit A. Kirsten Mullen), *Umbrellas Don't Make It Rain* (2018, mit Darrick Hamilton u.a.)
 > Kernkonzepte: Stratifikationsökonomie, rationale Diskriminierung, Vermögen statt Einkommen, Reparationen, Baby Bonds
 >
-> → [[DenkerVita/William Darity Jr.|DenkerVita]]
+> → [[DenkerVita/William Darity Jr|DenkerVita]]
 
 ---
 

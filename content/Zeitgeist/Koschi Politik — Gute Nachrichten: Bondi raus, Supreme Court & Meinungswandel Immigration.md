@@ -120,19 +120,19 @@ Gute-Nachrichten-Verwandte mit tieferer Verbindung: Der Mauerweg zeigt historisc
 
 Das dunkle Gegenstück: Während hier die Bremsen greifen (Gerichte, öffentliche Meinung), zeigt der Fall Salgado, was der Apparat anrichtet, solange Sichtbarkeit noch keine Konsequenzen erzeugt.
 
-### → [[Koschi Politik — Epstein und Pam Bondi: Truth Social Folge 11]]
+### → [[Koshi Politik — Epstein und Pam Bondi: Truth Social Folge 11]]
 
 Vorgeschichte: Bondis Umgang mit den Epstein-Akten und Sonderbehandlung von Maxwell; die Entlassung ist die direkte Konsequenz dieser Dokumentation
 
-### → [[Koschi Politik — Epstein-Akten: Was wir jetzt wissen]]
+### → [[Koshi Politik — Epstein-Akten: Was wir jetzt wissen]]
 
 Kontext zu den 3 Millionen Dokumenten, bei deren Veröffentlichung Bondi Opfer ungeschützt ließ
 
-### → [[Koschi Politik — ICE Buffalo — Tod eines Flüchtlings]]
+### → [[Koshi Politik — ICE Buffalo — Tod eines Flüchtlings]]
 
 Alexy und René Good: die konkreten Todesfälle, die Koschi als Auslöser des Meinungswandels benennt
 
-### → [[Koschi Politik — ICE bestiehlt Immigranten]]
+### → [[Koshi Politik — ICE bestiehlt Immigranten]]
 
 Teil des ICE-Bildes, das die öffentliche Meinung kippte
 

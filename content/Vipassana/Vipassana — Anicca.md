@@ -72,7 +72,7 @@ Vipassana geht zur Wurzel. Nicht durch Unterdrückung — das drückt nur tiefer
 
 Tag 5 enthält eine der präzisesten psychologischen Beobachtungen des Kurses:
 
-Der bewusste Geist beschäftigt sich mit Denken, Planen, Reden. Das Unbewusste schläft nie. Es ist *ständig* mit dem Körper verbunden — durch [[Vedanā — Körperempfindungen|Vedanā]], durch Empfindungen. Jucken, Druck, Schmerz — der bewusste Geist merkt nichts. Das Unbewusste reagiert sofort: wegrücken, kratzen, umdrehen.
+Der bewusste Geist beschäftigt sich mit Denken, Planen, Reden. Das Unbewusste schläft nie. Es ist *ständig* mit dem Körper verbunden — durch [[Vipassana — Vedana|Vedanā]], durch Empfindungen. Jucken, Druck, Schmerz — der bewusste Geist merkt nichts. Das Unbewusste reagiert sofort: wegrücken, kratzen, umdrehen.
 
 Goenka illustriert es mit dem Schlaf: Man liegt tief schlafend, die Temperatur sinkt — man zieht die Decke höher, ohne aufzuwachen. Eine Mücke sticht — man verjagt sie, ohne es zu wissen. Am nächsten Morgen: keine Erinnerung.
 
@@ -100,9 +100,9 @@ Und dann passiert etwas: Man bemerkt, dass *jede* Empfindung vergeht. Die angene
 
 ## 5. Gleichmut — die einzige richtige Antwort
 
-Wenn alles vergänglich ist, gibt es nur eine sinnvolle Haltung: *[[Upekkha — Gleichmut|Upekkha]]* — Gleichmut. Nicht Gleichgültigkeit. Nicht Passivität. Sondern das Wissen, das sich im Körper verankert hat: *Das wird auch vergehen.*
+Wenn alles vergänglich ist, gibt es nur eine sinnvolle Haltung: *[[Vipassana — Upekkha|Upekkha]]* — Gleichmut. Nicht Gleichgültigkeit. Nicht Passivität. Sondern das Wissen, das sich im Körper verankert hat: *Das wird auch vergehen.*
 
-Angenehmes Verlängern wollen — sinnlos. Unangenehmes Wegwünschen — sinnlos. Beides erzeugt Reaktion, Reaktion erzeugt [[Sankhāra — Mentale Konditionierungen|Sankhāra]], Sankhāra erzeugt Leiden.
+Angenehmes Verlängern wollen — sinnlos. Unangenehmes Wegwünschen — sinnlos. Beides erzeugt Reaktion, Reaktion erzeugt [[Vipassana — Sankara|Sankhāra]], Sankhāra erzeugt Leiden.
 
 Anicca erfahren *ist* die Praxis des Gleichmuts. Beides ist dasselbe — nur aus verschiedenen Perspektiven beschrieben.
 
@@ -132,6 +132,6 @@ Eine persönliche Gedanken-Note, die Heraklits *panta rhei* ausdrücklich als *a
 
 ### → [[S.N. Goenka — Vipassana]]
 
-Anicca ist das Herzstück. Alle anderen Konzepte — [[Vedanā — Körperempfindungen|Vedanā]], [[Sankhāra — Mentale Konditionierungen|Sankhāra]], [[Dukkha — Das Leiden|Dukkha]] — bauen auf der direkten Erfahrung der Vergänglichkeit auf.
+Anicca ist das Herzstück. Alle anderen Konzepte — [[Vipassana — Vedana|Vedanā]], [[Vipassana — Sankara|Sankhāra]], [[Vipassana — Dukkha|Dukkha]] — bauen auf der direkten Erfahrung der Vergänglichkeit auf.
 
 - [[DenkerVita/S.N. Goenka|S.N. Goenka — DenkerVita]] — Biografie, Lehrer-Linie, Kursstruktur und Vermächtnis

@@ -221,11 +221,11 @@ Beide Notes drehen sich um Flemigs Methode, geschichtsvergessene Erzählungen mi
 
 Die unverzichtbare Gegenposition. Sonneborn liest den Krieg als Rüstungs-Geschäftsmodell und blendet Putin als Aggressor weitgehend aus — exakt die monokausale Lesart („es geht ums Geschäft/die Rohstoffe"), die Flemig mit „Krieg ist nicht nur Rohstoffe" zurückweist. Wer beide nebeneinanderlegt, sieht das volle Spektrum der deutschen Russland-Debatte: ökonomischer Reduktionismus gegen imperiale Motivlehre.
 
-### → [[Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?]]
+### → [[Torsten Heinrich — Ukraine bewusst geopfert|Torsten Heinrich — Wird die Ukraine bewusst geopfert, um Russland zu schwächen?]]
 
 Heinrich teilt mit Flemig den Habitus des *positionierten* Fachmanns, der Parteilichkeit und Sachlichkeit trennt — und liefert die geopolitische Gegenstimme zur „nichts zu holen"-These: der Krieg als strategisch kalkulierte Schwächung Russlands, nicht als Rohstoffraub. Eine dritte Motivebene neben Prechts Ökonomie und Flemigs Imperialismus.
 
-### → [[Wer die Begriffe prägt — Sprache, Macht und die Haltung des Lernenden]]
+### → [[Wer die Begriffe praegt — Sprache, Macht und die Haltung des Lernenden]]
 
 Das Meta-Thema im Kern: Wer darf mit welcher Selbstgewissheit den Deutungsrahmen setzen? Prechts Prominenz prägt einen Begriff („nichts zu holen"), den Flemig als Begriffsmacht entlarvt — während er selbst in dieselbe Allzuständigkeit kippt. Die *Haltung des Lernenden* ist das Gegengift gegen beide.
 

@@ -5,7 +5,7 @@ systemone — die gemeinsame Schnittstelle zu System-One-Modellen (Jev) für Cor
 Ein System-One-Modell schreibt keinen Text, es *ordnet ein*: Es liest einen Text (`state`) und
 beantwortet typisierte Fragen mit einer Wahrscheinlichkeit — `noul` (ja/nein), `choice` (eine aus
 einer Liste), `score` (auf einer Skala). Schnell (~0,3 s), billig (~0,00005 $ je Abschnitt).
-→ Ideenschmiede „System-One-Modelle", Memory `project_jev_system_one`.
+→ Ideenschmiede „System-One-Modelle", Memory `project_rag_mcp` (JEV System One).
 
 Eine Schnittstelle statt verstreuter API-Aufrufe: Fällt der Anbieter weg, tritt hier ein anderes
 Modell ein (Laya lokal, Gemma), ohne dass Sherlock, Galilei oder Diogenes etwas merken.

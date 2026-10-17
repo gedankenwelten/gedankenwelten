@@ -69,7 +69,7 @@ yt-dlp --get-description "VIDEO_URL"
 Für Notes *ohne* belastbare Quellen bzw. mit unbelegten zentralen Claims:
 
 1. Pro Note 1–3 Kandidaten recherchieren — **Stufen-Eskalation** aus `.claude/rules/web-recherche.md`:
-   - Bücher → **genialokal.de** Suchlink (`feedback_buchlinks_genialokal`), nie Amazon
+   - Bücher → **genialokal.de** Suchlink (Memory `feedback_faktencheck_quellen`), nie Amazon
    - Artikel/Studien/Daten → **Jina Reader / Ecosia** (nie Firecrawl)
 2. Kandidaten **vorschlagen** — Tabelle:
 
@@ -77,7 +77,7 @@ Für Notes *ohne* belastbare Quellen bzw. mit unbelegten zentralen Claims:
    |---|---|---|---|
 
 3. **Nach Andreas' Freigabe**: Quelle in die Note schreiben (`## Weiterführende Quellen` anlegen/ergänzen),
-   passend zum Inhaltsabschnitt platzieren (`feedback_quellen_inline`).
+   passend zum Inhaltsabschnitt platzieren (Memory `feedback_faktencheck_quellen`).
 4. Geänderte Notes in die **bestehende** `gedankenwelten`-Collection re-ingestieren:
    ```bash
    bash .claude/scripts/ingest_notes.sh "content/Zeitgeist/Geänderte Note.md"

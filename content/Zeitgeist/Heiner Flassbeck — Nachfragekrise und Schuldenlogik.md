@@ -122,7 +122,7 @@ Butterwegge analysiert die sozialen Folgen der Sparpolitik, Flassbeck die makro�
 
 Direkte Überschneidung: Energiepreise als Nachfrageentzug, Versagen der Fiskalpolitik. Schwerdtner argumentiert politisch, Flassbeck volkswirtschaftlich.
 
-### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang?]]
+### → [[Claudia Kemfert — Ist die Abhängigkeit vom Öl unser Untergang? (Der Standard)]]
 
 Flassbeck analysiert Ölpreise als Nachfrageproblem, Kemfert die strukturelle Abhängigkeit. Beide fordern staatliches Handeln, aus verschiedenen Perspektiven.
 

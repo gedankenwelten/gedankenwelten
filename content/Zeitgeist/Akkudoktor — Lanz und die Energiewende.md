@@ -124,7 +124,7 @@ Wichtig: Schmitz betont, dass dies kein genereller Angriff auf den öffentlich-r
 
 Der 8%-Trick und die Primärenergie-Falle sind exakte Anwendungsfälle der Agnotologie-Methoden: gezielt Unwissen durch statistische Verzerrung produzieren — hier nicht von Tabak- oder Öllobby, sondern im öffentlich-rechtlichen Talkshow-Format normalisiert.
 
-### → [[Bernhard Poerksen — Die große Gereiztheit]]
+### → [[Bernhard Poerksen|Bernhard Poerksen — Die große Gereiztheit]]
 
 Pörksens Erregungsökonomie erklärt theoretisch, warum das Lanz-Format populistische Narrative bevorzugt: Die Medienlogik belohnt Zuspitzung und bestraft differenzierte Statistik — genau das Strukturproblem, das der Akkudoktor mit seiner Programmbeschwerde adressiert.
 

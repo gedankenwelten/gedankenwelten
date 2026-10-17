@@ -233,7 +233,7 @@ Böhmes predictive coding erklärt neurobiologisch, warum Bourdieus Habitus so h
 
 Reappraisal als Schlüssel zum Verlassen der Schockstarre: Die Architekten können erst bauen, wenn sie den Raum zwischen Reiz und Reaktion geöffnet haben. Böhme liefert das neurowissenschaftliche Werkzeug für die vierte Reaktion — Begegnen statt Erstarren, Fliehen oder Bauen.
 
-### → [[Das unsichtbare Netzwerk — Gravitation statt Revolution]]
+### → [[Das unsichtbare Netzwerk — Die Macht in Dir]]
 
 Das Netzwerk-Essay als Praxisform von Böhmes Theorie: Jede aufrichtige Begegnung aktualisiert die Vorhersage des Gegenübers positiv (Prediction Error). Das ist Reappraisal im Sozialen — nicht am Kissen trainiert, sondern in der Begegnung. Die Myzel-Metapher als Bild für das, was neurowissenschaftlich messbar ist.
 
