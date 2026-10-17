@@ -213,3 +213,7 @@ Andree liefert die demokratietheoretische Einordnung zu Thiels Programm: Die „
 ### → [[Zeitgeist/Kulturzeit — Warum sich die Tech-Elite mit Trump verbuendet|Kulturzeit — Warum sich die Tech-Elite mit Trump verbündet]]
 
 Die 3sat-Doku rahmt die hier erzählte Biografie ideengeschichtlich: Rands CEO-als-Held-Mythos, Girards Mimesis als Manipulations-Werkzeug, die Antichrist-Theologie — die Ideen, aus denen die hier entzauberte Selbsterzählung gebaut ist.
+
+### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
+
+Die Gegenprobe zur Kritik über Personen: Kurz zeigt, dass die Empörung über Thiel und Karp das Image des Konzerns gekippt hat, aber die Methode legitimieren könnte. Ist der „böse Anbieter“ weg, scheint das Problem gelöst.

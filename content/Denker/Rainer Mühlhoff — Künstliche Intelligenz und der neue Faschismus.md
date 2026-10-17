@@ -446,3 +446,6 @@ Desouveränisierung als Verwaltungsvorgang: Amtsträger unterschreiben Geheimhal
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wessen Werte trägt die Maschine?“.
 
+### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
+
+Die Kehrseite der stillen Reprivatisierung: Auch wenn der Staat den Konzern hinauswirft, behält er dessen Denkweise. Die Länder wollen die automatisierte Datenanalyse, nur ohne Palantir-Logo.

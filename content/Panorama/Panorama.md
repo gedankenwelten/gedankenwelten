@@ -51,6 +51,7 @@ Jedes Panorama folgt diesem Aufbau:
 | Wer bestimmt, wie erinnert wird? *(wachsend)* | [[Wer bestimmt wie erinnert wird]] | ~20 |
 | Was ist Wohlstand? *(wachsend)* | [[Was ist Wohlstand]] | ~46 |
 | Wer macht die Meinung? *(wachsend)* | [[Wer macht die Meinung]] | ~44 |
+| Wie viel Überwachung verträgt die Freiheit? *(wachsend)* | [[Wie viel Ueberwachung vertraegt die Freiheit]] | ~20 |
 | Fortschritt | [[Fortschritt]] | 29 |
 | Neoliberalismus — Was zählt | [[Neoliberalismus — Was zaehlt]] | 13 |
 | Gekaperte Zeichen | [[Gekaperte Zeichen]] | 3 + Fälle aus der Welt |

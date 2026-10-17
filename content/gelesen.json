@@ -8,7 +8,7 @@
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-   "aufrufe": 321
+   "aufrufe": 322
   },
   {
    "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
@@ -253,7 +253,7 @@
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 321
+     "aufrufe": 322
     },
     {
      "pfad": "/Denker/Dietrich-Bonhoeffer-Theorie-der-Dummheit",
@@ -300,10 +300,6 @@
      "aufrufe": 6
     },
     {
-     "pfad": "/DenkerVita/Der-Dara",
-     "aufrufe": 5
-    },
-    {
      "pfad": "/DenkerVita/Cordula-Tutt",
      "aufrufe": 5
     },
@@ -312,7 +308,11 @@
      "aufrufe": 5
     },
     {
-     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "pfad": "/DenkerVita/Der-Dara",
+     "aufrufe": 5
+    },
+    {
+     "pfad": "/Zeitgeist/Mario-Buchinger-Lügen-der-Kernenergie-(6▸6)-Neue-Reaktorgenerationen",
      "aufrufe": 4
     },
     {
@@ -320,51 +320,15 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Mario-Buchinger-Lügen-der-Kernenergie-(6▸6)-Neue-Reaktorgenerationen",
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Edgar-Morin-Das-komplexe-Denken",
      "aufrufe": 4
     },
     {
-     "pfad": "/Zeitgeist/Martin-Sonneborn-Endloser-Krieg",
-     "aufrufe": 3
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "aufrufe": 4
     },
     {
-     "pfad": "/Denker/Catrin-Misselhorn-Grundfragen-der-Maschinenethik",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Koschi-Politik-Pete-Hegseth-und-das-christlich-nationalistische-Militär",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Panorama/Wie-werden-gewoehnliche-Menschen-zu-Taetern",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Erich-Fromm-Haben-oder-Sein",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Dietmar-Dath-und-Wolfgang-M.-Schmitt-Verschwendung-als-Moeglichkeit",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
-     "aufrufe": 3
-    },
-    {
-     "pfad": "/Denker/Harald-Welzer-Toetungsarbeit",
+     "pfad": "/DenkerVita/Udo-Marquardt",
      "aufrufe": 3
     },
     {
@@ -372,7 +336,23 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Harald-Welzer-Toetungsarbeit",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Erich-Fromm-Haben-oder-Sein",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Koschi-Politik-Pete-Hegseth-und-das-christlich-nationalistische-Militär",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Torsten-Heinrich-Ukraine-bewusst-geopfert",
      "aufrufe": 3
     },
     {
@@ -380,15 +360,15 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/Denker/Robin-Celikates-Faschisierung,-Hoffnung-und-die-Krise-des-Systems",
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer.html",
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Ralf-Stockmann",
+     "pfad": "/Spuren/Epstein-und-der-Schutz-von-Eliten",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Martin-Sonneborn-Endloser-Krieg",
      "aufrufe": 3
     },
     {
@@ -396,15 +376,31 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Udo-Marquardt",
+     "pfad": "/Denker/Catrin-Misselhorn-Grundfragen-der-Maschinenethik",
      "aufrufe": 3
     },
     {
-     "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
+     "pfad": "/Panorama/Wie-werden-gewoehnliche-Menschen-zu-Taetern",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Dietmar-Dath-und-Wolfgang-M.-Schmitt-Verschwendung-als-Moeglichkeit",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Robin-Celikates-Faschisierung,-Hoffnung-und-die-Krise-des-Systems",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Denker/Platon-Das-Höhlengleichnis",
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
      "aufrufe": 2
     },
     {
-     "pfad": "/DenkerVita/Maurice-Hoefgen.html",
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
      "aufrufe": 2
     },
     {
@@ -412,7 +408,59 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Ralf-Stockmann",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Maurice-Hoefgen.html",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Panorama/Gekaperte-Zeichen",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Geistesblitz/Tobias-Ruether-Wie-Sucht-im-Gehirn-entsteht",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Gedanken/Diese-6-Gedanken-koennten-dein-Leben-neu-ordnen-Folge-2",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Carsten-Brosda-Naechste-Demokratie",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Denker/S.N.-Goenka-Vipassana",
+     "aufrufe": 2
+    },
+    {
      "pfad": "/DenkerVita/Wolfgang-M.-Schmitt",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
      "aufrufe": 2
     },
     {
@@ -420,7 +468,11 @@
      "aufrufe": 2
     },
     {
-     "pfad": "/Zeitgeist/Jan-Keno-Janssen-Nvidia-Tokenextremismus",
+     "pfad": "/Zeitgeist/Klarsprech-Peter-Thiel-und-ObjectionAI",
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Achim-Truger",
      "aufrufe": 2
     },
     {
@@ -429,58 +481,6 @@
     },
     {
      "pfad": "/Zeitgeist/MONITOR-Abschiebungen-vs.-Fachkräfte",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Klarsprech-Peter-Thiel-und-ObjectionAI",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Carsten-Brosda-Naechste-Demokratie",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Achim-Truger",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/S.N.-Goenka-Vipassana",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/GoodNews/Good-News-Gute-Nachrichten-Juni-2026",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/DenkerVita/Damir-Skenderovic",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Patrick-Legun-Die-Ziegelsklaven-von-Lahore",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Diba-Mirzaei-Irankrieg-and-Geschichte-(Jung-and-Naiv-815)",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Panorama/Was-ist-Grosszuegigkeit",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Denker/Jonathan-Haidt-Die-moralischen-Wurzeln-von-Liberalen-und-Konservativen",
-     "aufrufe": 2
-    },
-    {
-     "pfad": "/Zeitgeist/Mark-Benecke-Umwelt-Messungen-Sommer-2026",
      "aufrufe": 2
     },
     {
@@ -498,7 +498,7 @@
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 321
+     "aufrufe": 322
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
@@ -743,7 +743,7 @@
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 321
+     "aufrufe": 322
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",
@@ -988,7 +988,7 @@
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
-     "aufrufe": 321
+     "aufrufe": 322
     },
     {
      "pfad": "/Denker/Abdolkarim-Soroush-Reformation-des-Glaubens-von-innen",

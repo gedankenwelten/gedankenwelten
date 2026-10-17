@@ -384,6 +384,10 @@ Arendt selbst verteidigt 1964 bei Günter Gaus den Ton ihres Eichmann-Buchs: Sie
 
 Den Weg zum Totalitarismus, Masse, Ideologie, Terror, Verlassenheit, zeichnen Felsch und Geulen im Gespräch über *Elemente und Ursprünge* nach.
 
+### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
+
+Die Herrschaft des Niemand bei der deutschen Polizei: eine Analyse, die Zeugen und Opfer dauerhaft mit allen Akten verknüpft, ohne öffentliche Prüfung und ohne Evaluation. Die drei Risiken aus dem Karlsruher Urteil (Fehler, Diskriminierung, fehlende Transparenz) sind dieselben wie in der Kindergeld-Affäre.
+
 ---
 
 ## Weiterdenken

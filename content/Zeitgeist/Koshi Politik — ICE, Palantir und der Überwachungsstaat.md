@@ -134,3 +134,7 @@ Palantir im Krieg statt in der Abschiebebehörde: Die re:publica-Debatte zeigt d
 Die Wirkung des hier beschriebenen Aufbaus, in Zahlen. Eine ehemalige hochrangige ICE-Beamtin
 resümiert der New York Times: mehr Beamte, mehr Geld, mehr Haftplätze, mehr lokale Partner — und
 *„bessere Systeme"*. Die Technik aus dieser Note ist der letzte Teil dieser Aufzählung.
+
+### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
+
+Dieselbe Datenzusammenführung in Europa: Kurz nennt Palantir einen Pfeiler der ICE-Politik und warnt, dass die deutschen Länder die Methode behalten wollen, auch wenn sie den Anbieter wechseln.

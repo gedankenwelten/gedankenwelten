@@ -6,6 +6,14 @@ tags:
   - links
 ---
 
+## Constanze Kurz — Automatisierte Datenanalysen mit Palantir (re:publica Vienna 2026)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Constanze Kurz: Automatisierte Datenanalysen mit Palantir – re:publica Vienna 2026](https://www.youtube.com/watch?v=XbX6jtPSncY) |
+| **Notiz** | [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner]] |
+| **Transkript** | `Gedankenwelten/Transkripte/Kurz_Palantir_Vienna_2026_Transkript.txt` |
+
 ## Michael Hampe — Bewusstsein, freier Wille, Denken, KI (scobel im Gespräch)
 
 | | |

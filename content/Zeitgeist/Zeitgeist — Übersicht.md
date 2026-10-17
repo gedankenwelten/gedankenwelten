@@ -308,7 +308,7 @@ Jede Note folgt einer eigenen Struktur:
 - [[Zeitgeist/Lacina Kone — Afrikas digitale Souveraenitaet|Lacina Koné — Afrikas digitale Souveränität]] — Digitale Souveränität ist nicht Abschottung, sondern das Recht, die Systeme mitzugestalten, die uns gestalten — und Afrika wartet nicht länger auf eine Einladung in die Zukunft.
 - [[Zeitgeist/Lars Wienand — Russentrolle und russische Desinformation|Lars Wienand — Привет, Russentrolle! Auf Tuchfühlung mit russischer Desinformation]] — Ein Reporter folgt Moskaus Fälscherwerkstatt seit 2022 und findet dabei sich selbst, samt einem ermordeten Bruder, den es nie gab. Vieles davon erreicht kaum jemanden. Gezählt wird trotzdem.
 - [[Zeitgeist/Mario Buchinger — Lügen der Kernenergie (5▸6) Alle Industrieländer setzen auf Kernenergie|Mario Buchinger — Lügen der Kernenergie (5/6): Alle Industrieländer setzen auf Kernenergie]]
-- [[Zeitgeist/Martin Sonneborn — Endloser Krieg|Martin Sonneborn — Endloser Krieg]]
+- [[Zeitgeist/Martin Sonneborn — Endloser Krieg|Martin Sonneborn — Endloser Krieg]] — Ein Satiriker sieht im Ukraine-Krieg ein Geschäft, das nie enden soll. Seine Rechnung stimmt öfter, als man denkt — nur fehlt in ihr der, der angefangen hat.
 - [[Zeitgeist/Michael Sterner — Energiewende ist gelebter Patriotismus|Michael Sterner — Energiewende ist gelebter Patriotismus]] — Ein Energieprofessor erobert ein Wort zurück: Wer sein Land liebt, macht es unabhängig — von Öl, Gas und den Kriegen, die an ihnen hängen.
 - [[Zeitgeist/MONITOR — Abschiebungen vs. Fachkräfte|MONITOR — Abschiebungen vs. Fachkräfte]]
 - [[Zeitgeist/MONITOR — Fleischindustrie Menschen als Ware|MONITOR — Wie die Fleischindustrie Menschen zur Ware macht]]

@@ -2,7 +2,7 @@
 title: "Macht Migration kriminell?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-10-07
+aktualisiert: 2026-10-17
 description: "Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird."
 raetsel: "Zwei Jungen, eine Straße, ein Laternenlicht. Nur einer wird gefragt, wohin."
 panorama-art: wachsend
@@ -64,7 +64,7 @@ Was ist dann Kultur? Als Wesen einer Herkunft trägt sie nicht: In Stockholmer K
 
 Die Polizeiliche Kriminalstatistik zählt, was der Polizei bekannt wird, und das geschieht zu rund 90 Prozent durch eine Anzeige. Wer angezeigt wird, hängt auch davon ab, wer der Täter ist. Im Niedersachsensurvey 2024 wurden bei Jugendgewalt 7,9 Prozent der Taten angezeigt, wenn Opfer und Täter keine Migrationsgeschichte hatten, und 22,4 Prozent, wenn nur der Täter eine hatte ([KFN, Forschungsbericht 171](https://kfn.de/wp-content/uploads/2025/10/FB_171.pdf)). Der Befund ist beschreibend und nicht nach der Schwere der Tat bereinigt. Dass ethnisch fremde Täter häufiger angezeigt werden, zeigt die Forschung schon seit zwanzig Jahren (Mansel & Albrecht 2003, *Soziale Welt* 54); das Gutachten von Pfeiffer, Baier und Kliem schätzt den Faktor auf etwa zwei und ergänzt, dass Geflüchtete als Opfer seltener anzeigen. Die Verzerrung läuft in beide Richtungen. Hinweise auf Über-Anzeige finden auch Lange und Sommerfeld in ihren Kreisdaten (2024, oben).
 
-Die Grenze des Arguments liegt bei den schwersten Taten. Ein Tötungsdelikt wird kaum je nicht angezeigt, und dort bleibt die Überrepräsentation bestehen (Brå 2021, oben). Die Dunkelfeldbefragung des BKA zeigt außerdem, dass nicht nur die Furcht gestiegen ist: Die Betroffenheit von Körperverletzung stieg von 2,0 auf 2,6 Prozent, bei 16- und 17-Jährigen von 3,1 auf 8,5 ([BKA, SKiD 2024](https://skid.bka.de/assets/files/SKiD2024_Ergebnisbericht.pdf)). Eine zweite Tür ins Hellfeld ist die Kontrolle: Drogenbesitz kennt die Statistik nur, wo kontrolliert wird. Wie stark beides die Zahlen verzerrt, ist nicht gemessen; die Kriminologin Gina Wollinger spricht von „keinen gesicherten Zahlen“ ([Mediendienst Integration](https://mediendienst-integration.de/news/die-wichtigsten-fragen-zur-auslaenderkriminalitaet/)).
+Die Grenze des Arguments liegt bei den schwersten Taten. Ein Tötungsdelikt wird kaum je nicht angezeigt, und dort bleibt die Überrepräsentation bestehen (Brå 2021, oben). Die Dunkelfeldbefragung des BKA zeigt außerdem, dass nicht nur die Furcht gestiegen ist: Die Betroffenheit von Körperverletzung stieg von 2,0 auf 2,6 Prozent, bei 16- und 17-Jährigen von 3,1 auf 8,5 ([BKA, SKiD 2024](https://skid.bka.de/assets/files/SKiD2024_Ergebnisbericht.pdf)). Eine zweite Tür ins Hellfeld ist die Kontrolle: Drogenbesitz kennt die Statistik nur, wo kontrolliert wird. Wie stark beides die Zahlen verzerrt, ist nicht gemessen; die Kriminologin Gina Wollinger spricht von „keinen gesicherten Zahlen“ ([Mediendienst Integration](https://mediendienst-integration.de/news/die-wichtigsten-fragen-zur-auslaenderkriminalitaet/)). Wo Software aus solchen Daten lernt, kann die Kontrolle sich selbst bestätigen: Eine Simulation mit Daten aus Oakland schickte die Streifen in die Viertel zurück, in denen schon kontrolliert worden war, unabhängig davon, wo Befragungen den Drogenkonsum fanden ([Lum & Isaac 2016, doi:10.1111/j.1740-9713.2016.00960.x](https://doi.org/10.1111/j.1740-9713.2016.00960.x)), und Verwaltungsdaten verbergen, wen die Polizei sah und nicht anhielt ([Knox, Lowe & Mummolo 2020, doi:10.1017/s0003055420000039](https://doi.org/10.1017/s0003055420000039)). Im Feldversuch von Los Angeles führte die Prognose allerdings nicht zu mehr Festnahmen von Minderheiten ([Brantingham, Valasik & Mohler 2018, doi:10.1080/2330443x.2018.1438940](https://doi.org/10.1080/2330443x.2018.1438940)). Für die deutschen Polizeidatenbanken gibt es keine solche Untersuchung.
 
 Wie viel des Abstands bleibt, wenn man die Zusammensetzung herausrechnet? Alter und Geschlecht verringern ihn, über alle Delikte, um „vorsichtig geschätzt 25 bis 30 Prozent – nicht (viel) mehr, aber auch nicht weniger“ ([Walburg 2025, doi:10.59704/21504e48ce1752a4](https://doi.org/10.59704/21504e48ce1752a4), gestützt auf [Glaubitz & Bliesener 2018, KFN FB 137](https://kfn.de/wp-content/uploads/Forschungsberichte/FB_137.pdf)). Der Rest teilt sich zwischen Anzeige, Kontrolle, Lage und dem, was keine Statistik misst.
 
@@ -74,6 +74,7 @@ Wie viel des Abstands bleibt, wenn man die Zusammensetzung herausrechnet? Alter 
 - **[[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft#Die Sensibilisierungsthese|Wilhelm Heitmeyer]]:** Die These, es werde nur mehr angezeigt, münde „in einer Art von Beruhigungsformeln“; das Dunkelfeld zeige, dass die Gewalt wirklich zunimmt.
 - **[[Elif Eralp — Berlin-Wahl 2026 bei Jung und Naiv#Die Polizei, die sich kontrollieren lässt|Elif Eralp]]:** An den „kriminalitätsbelasteten Orten“ darf ohne Anlass kontrolliert werden; die Kontrollquittung soll sichtbar machen, nach welchem Bild ausgewählt wird.
 - **[[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet#Anzeige, Kontrolle, Untersuchungshaft — der Anteil des Blicks|Christian Walburg]]:** Anzeige, Kontrolle und die häufigere Untersuchungshaft für Ausländer sind „ein Teil der Wahrheit“, aber sie erklären nicht alles.
+- **[[Constanze Kurz — Palantir als Tueroeffner#Zweckbindung — ein Prinzip aus den Achtzigern|Constanze Kurz]]:** „Polizeidaten sind alles andere als fair und balanced“; wertet eine Black Box sie aus, deren Anbieter niemanden hineinsehen lässt, steigt das Risiko, dass Benachteiligte weiter benachteiligt werden.
 
 > [!question] Die Reibung
 > BissenBlaBla erklärt einen Teil des Abstands mit dem Blick derer, die anzeigen, und Heitmeyer hält genau dieses Argument für eine Beruhigung. *Wie ließe sich messen, wie viel die Anzeige erzeugt — und würde die Seite, der das Ergebnis nicht passt, es glauben?*
@@ -127,6 +128,7 @@ Was sich messen lässt, spricht gegen ein Schweigen der Institutionen. Das BKA v
 |---|---|---|
 | 04.10.2026 | [[BissenBlaBla — AfD-Behauptungen zur Auslaenderkriminalitaet#Nachbesprechung|BissenBlaBla — AfD-Behauptungen zur Ausländerkriminalität]] | Gründungsnote. Kultur oder Lage: Ousey & Kubrin 2018, Gehrsitz & Ungerer 2022, Lange & Sommerfeld 2024, Brå 2021, Khoshnood et al. 2025, Hällsten et al. 2013, Pfeiffer/Baier/Kliem 2018, Couttenier et al. 2019 · Legalstatus: Pinotti 2017 · Anzeigeverhalten: KFN FB 171 |
 | 07.10.2026 | [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet#Nachbesprechung|Christian Walburg — Migration, Flucht und Kriminalität]] | Kriminologen-Stimme in allen drei Fragen; Abstand kleiner: Nagin 2013, Miles & Cox 2014, Kang & Song 2021, BKA-Lagebild 2024, KFN FB 137/161, Freedman et al. 2018, Marbach et al. 2018 · **neue Frage „Wird verschwiegen?“**: Hoven/Rostalski 2025/26, Walburg 2025, Singelnstein 2025, Dittrich & Klimmt 2021, Klimmt et al. 2022, Riaz et al. 2023, Keita et al. 2024 |
+| 17.10.2026 | [[Constanze Kurz — Palantir als Tueroeffner#Wen trifft sie?|Constanze Kurz — Palantir als Türöffner]] | Rückkopplung aus Daten und Kontrolle → *Wie viel ist Anzeige, wie viel Tat?*: Lum & Isaac 2016, Ensign et al. 2018, Knox/Lowe/Mummolo 2020, Brantingham et al. 2018 |
 
 ---
 
@@ -140,6 +142,10 @@ Wie aus Einzelfällen eine Serie wird: die Medienmaschine, die von der Frage die
 
 ### → [[Panorama/NoAfD|NoAfD]]
 Die Partei, für die „Ausländerkriminalität“ ein Gründungsthema ist; dort ihre Programmatik, hier die Daten dazu.
+
+### → [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
+
+Das Nachbarpanorama zur Polizei, die ihre Akten dauerhaft verknüpft: ob die Datenanalyse wirkt, was Beobachtung mit Menschen macht, und warum ein Anbieterwechsel die Rückkopplung zwischen Kontrolle und Daten nicht berührt.
 
 ---
 

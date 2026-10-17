@@ -238,6 +238,10 @@ Der Papagei im Dorf: Wenn KI-Agenten aus unseren Texten eine Gesellschaft nachsp
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wer trägt Verantwortung, wenn die Maschine handelt?“.
 
+### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
+
+Das Palantir-Kapitel, ein halbes Jahr weitergedacht: Für Kurz ist der Konzern nur der Türöffner, die Länder behalten die Methode. Anthropic, dessen Nein sie hier noch für wenig belastbar hielt, wird in Wien zum Beleg dafür, wie kurz die Leine aus Washington ist.
+
 ---
 
 ## Weiterdenken

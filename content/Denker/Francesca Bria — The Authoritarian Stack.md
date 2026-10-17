@@ -235,3 +235,6 @@ Die 3sat-Doku liefert die Ideengeschichte zu Brias Struktur-Diagnose: *Privatize
 
 Geraldine de Bastion beschreibt denselben Stack von unten — Seekabel, Betriebssysteme, Internetzugänge und Rechenzentren in einer Hand, bis hinein in die Innovationszentren afrikanischer Länder. Brias Kingmaker-Netzwerk erscheint dort aus der Empfängerperspektive: als Abhängigkeit von philanthropischen Geldgebern, die ihr Geld mit denselben Daten machen und digitale Pluralität eher unterdrücken. Die Machtkarte bekommt so ihre Handlungsseite — und die Praxis ihr Bild vom Ganzen.
 
+### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
+
+Bestätigt die Abhängigkeitsfalle (NHS, Unterhaus-Bericht, Schweizer Nein) und widerspricht dem Heilmittel: Ein europäischer Anbieter mit derselben Ontologie rastert dieselben Menschen.

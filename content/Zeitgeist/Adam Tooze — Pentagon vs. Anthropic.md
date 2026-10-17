@@ -193,6 +193,10 @@ Beide beschreiben KI als Machtinstrument — Tooze geopolitisch-realistisch (Pen
 
 Das wachsende Panorama zur KI führt diese Note als Stimme unter „Wer trägt Verantwortung, wenn die Maschine handelt?“.
 
+### → [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner]]
+
+Wie es weiterging: Für Kurz ist die Exportkontrolle über Fable und Mythos vom Juni der Beweis, dass Abhängigkeit von US-Anbietern Erpressungspotenzial bedeutet. Gleichzeitig bauen deutsche Länder genau die automatisierte Massenauswertung, die Anthropic dem Pentagon verweigert hatte.
+
 ---
 
 ## Weiterführend

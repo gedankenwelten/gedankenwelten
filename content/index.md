@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Ein Satiriker sieht im Ukraine-Krieg ein Geschäft, das nie enden soll. Seine Rechnung stimmt öfter, als man denkt — nur fehlt in ihr der, der angefangen hat.
 
+> **17.10.** — [[Zeitgeist/Constanze Kurz — Palantir als Tueroeffner|Constanze Kurz — Palantir als Türöffner (re:publica Vienna)]]
+>
+> Europa kehrt Palantir den Rücken und behält, was der Konzern mitgebracht hat: die Dauer-Rasterung aller Polizeidaten, nur mit anderem Logo.
+
 > **16.10.** — [[Zeitgeist/Uwe Krueger — Mainstream und kritische Journalistik|Uwe Krüger — Mainstream und die Aufgaben einer kritischen Journalistik]]
 >
 > Ein Fischschwarm braucht keinen Dirigenten: Uwe Krüger zeigt 2017, wie Leitmedien gleich klingen, ohne dass jemand lenkt — und neun Jahre später wird nachgeprüft, was davon trägt.
@@ -40,11 +44,31 @@ Die Gedankenwelten (luc)
 >
 > Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
 
-> **15.10.** — [[Zeitgeist/Martin Oetting — Happy Planet Index 2026|Martin Oetting — Happy Planet Index 2026: Was ist echter Wohlstand?]]
->
-> Costa Rica vorn, die USA auf Platz 105 — der Happy Planet Index misst, wer aus wenig Welt viel Leben macht. Und stellt der deutschen Wachstumsdebatte eine unbequeme Frage.
+> → *16 weitere in* [[Zeitgeist]]
 
-> → *15 weitere in* [[Zeitgeist]]
+### Panorama
+
+> **17.10.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
+>
+> Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
+
+> **17.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
+>
+> Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
+
+> **16.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
+>
+> Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben.
+
+> **16.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
+>
+> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
+
+> **16.10.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
+>
+> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Vier offene Fragen zu Redaktionen, Besitzern, Plattformen und Staaten, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
+
+> → *12 weitere in* [[Panorama]]
 
 ### Denker
 
@@ -69,30 +93,6 @@ Die Gedankenwelten (luc)
 > Wer im Verhör lügen muss, um Freunde zu schützen, fragt neu, was Wahrheit ist. Bonhoeffers Antwort aus Tegel: Sie lebt zwischen Menschen, nicht im Satz allein.
 
 > → *6 weitere in* [[Denker]]
-
-### Panorama
-
-> **16.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben.
-
-> **16.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> **16.10.** — [[Panorama/Wer macht die Meinung|Wer macht die Meinung?]]
->
-> Lenkt jemand die öffentliche Meinung, oder lenkt die Routine? Vier offene Fragen zu Redaktionen, Besitzern, Plattformen und Staaten, und dazu, wann Misstrauen gegen Medien wach hält und wann es blind macht.
-
-> **15.10.** — [[Panorama/Wie handelt eine Demokratie|Wie handelt eine Demokratie?]]
->
-> Vom Willen zur Tat: Woran bleibt eine Demokratie hängen, wer berät und wer entscheidet, muss sie langsam sein, was kostet ein gebrochenes Versprechen, wer bewacht die Handelnden, und mit wem fängt sie nach einer Diktatur neu an? Sechs offene Fragen und die Stimmen, die sich an ihnen reiben.
-
-> **15.10.** — [[Panorama/Was ist Wohlstand|Was ist Wohlstand?]]
->
-> Costa Rica ist ärmer als die USA und lebt länger; seit 1991 ist Deutschlands BIP doppelt so stark gewachsen wie sein Wohlfahrtsindex. Drei Fragen dazu, was Wohlstand ist: Geld, Zufriedenheit oder ein Maß, auf das man sich erst einigen muss.
-
-> → *10 weitere in* [[Panorama]]
 
 ### Gedanken
 
