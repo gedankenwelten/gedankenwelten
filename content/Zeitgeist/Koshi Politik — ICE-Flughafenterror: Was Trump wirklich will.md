@@ -28,6 +28,8 @@ Quelle: [ICE- Flughafenterror: Was Trump wirklich erreichen will!](https://www.y
 
 > [!info] Wer spricht?
 > **Koschi Politik** — deutschsprachiger YouTube-Kanal eines in den USA lebenden Kommentators (New York / Buffalo-Raum). Erklärt US-Politik für ein deutsches Publikum, das mit dem amerikanischen System weniger vertraut ist. Schwerpunkte: Trump-Administration, ICE, MAGA-Bewegung. Klar linksliberal positioniert; kein Anspruch auf Neutralität, aber sachlich nachvollziehbar eingeordnet. Green-Card-Inhaber — selbst direkt von ICE-Politik betroffen.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

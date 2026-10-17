@@ -21,6 +21,8 @@ Quelle: [Züchtet Pete Hegseth ein weißes, christlich-nationalistisches Militä
 
 > [!info] Wer spricht?
 > **Manuel (Koschi Politik – USA Aktuell)** — Deutscher Auswanderer, lebt seit ~8 Jahren in Buffalo, New York. Betreibt den YouTube-Kanal "Koschi Politik" mit ~31.800 Abonnenten und erklärt US-Politik aus Insider-Perspektive auf Deutsch. Kein akademischer Hintergrund, aber gelebte Alltagserfahrung vor Ort — besonders stark bei der Einordnung von MAGA-Dynamiken und Trumps Innenpolitik.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

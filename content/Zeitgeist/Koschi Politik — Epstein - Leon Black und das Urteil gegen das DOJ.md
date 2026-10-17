@@ -43,6 +43,8 @@ Quelle: [Epstein Bombe! Trump beschießt wieder den Iran um vom Epstein Paukensc
 > **Manuel (Koschi Politik)** lebt seit Jahren in Buffalo, New York, und ordnet US-Innenpolitik für ein
 > deutschsprachiges Publikum ein — kritisch, verständlich, aus erster Hand. Er kennzeichnet seine eigene
 > Zuspitzung offen als solche („überspitzt und ironisch") und trennt belegte Fakten von Vermutung.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 Diese Note gehört zur lebenden **Spur** [[Spuren/Epstein-und-der-Schutz-von-Eliten|Epstein und der Schutz von Eliten]], die das Phänomen über die Zeit verfolgt — die Note hier ist der Schnappschuss eines Wochenendes, die Spur die lange Blende.
 

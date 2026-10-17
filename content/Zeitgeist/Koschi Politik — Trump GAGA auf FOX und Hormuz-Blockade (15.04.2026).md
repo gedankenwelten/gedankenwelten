@@ -21,6 +21,8 @@ Quelle: [Das sollte für Trump eigentlich ein positives Interview werden!](https
 
 > [!info] Wer spricht?
 > **Manuel (Koschi Politik)** lebt seit rund 8 Jahren in Buffalo, New York, und berichtet für ein deutschsprachiges Publikum über US-amerikanische Innenpolitik — kritisch, verständlich, aus erster Hand. Kein Mainstream-Medium, sondern unabhängiger Journalismus mit Vor-Ort-Perspektive. Der Kanal zählt ca. 24.900 Abonnenten und 4 Mio. Gesamtaufrufe.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

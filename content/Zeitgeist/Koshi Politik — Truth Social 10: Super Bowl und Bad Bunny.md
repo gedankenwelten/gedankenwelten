@@ -23,6 +23,8 @@ Quelle: [Truth Social Folge 10: Trump über die Super Bowl Halftime Show](https:
 
 > [!info] Wer ist Koschi Politik?
 > Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Format: Originalpost im Bild, deutsche Übersetzung vorgelesen. Koschi wohnt in Buffalo, NY.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

@@ -25,6 +25,8 @@ Quelle: [Das perfide Spiel! Wer schiebt die Schuld wem in die Schuhe?](https://w
 
 > [!info] Wer spricht?
 > **Koschi** (Vorname: Manuel, Nachname nicht öffentlich) ist ein aus Deutschland nach **Buffalo, New York** ausgewanderter politischer Kommentator — seit 8 Jahren mitten im amerikanischen Alltag. Auf *Koschi Politik – USA Aktuell* erklärt er mehrmals wöchentlich das US-Politikgeschehen für deutschsprachige Zuschauer: Analysen, Reaktionsvideos, Einordnungen zu Trump, MAGA, ICE und dem täglichen Wahnsinn amerikanischer Politik. Kein journalistisch-institutioneller Hintergrund — Stärke liegt im gelebten Insiderwissen als Deutschamerikaner in einer Swing-State-Region (Western New York). Politisch klar links-liberal positioniert, scharfe Kritik an der republikanischen Rechten, kein Bothsidesism.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

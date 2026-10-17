@@ -34,6 +34,8 @@ Quelle: [Truth Social Folge 14: Trump nach der State of the Union](https://www.y
 
 > [!info] Wer ist Koschi Politik?
 > Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Koschi wohnt in Buffalo, das an den Bundesstaat Minnesota angrenzt — Trumps Privatfehde mit Minnesota hat für ihn persönlichen Kontext.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

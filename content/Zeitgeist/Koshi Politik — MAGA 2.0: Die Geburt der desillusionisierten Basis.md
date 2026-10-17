@@ -24,6 +24,8 @@ Quelle: [MAGA 2.0 — Die Geburt einer neuen Bewegung?](https://www.youtube.com/
 
 > [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, Iran-Krieg. Eigene Einschätzung: politisch tendenziell links-liberal, faktenbasiert. **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

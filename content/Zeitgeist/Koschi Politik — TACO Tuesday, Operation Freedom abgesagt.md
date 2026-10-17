@@ -19,6 +19,8 @@ Quelle: [TACO Tuesday! Trump fällt Hegseth und Rubio in den Rücken!](https://w
 
 > [!info] Wer spricht?
 > **Manuel (Koschi Politik – USA Aktuell)** — Deutscher Auswanderer, lebt seit ~9 Jahren in Buffalo, New York. Betreibt den YouTube-Kanal "Koschi Politik" und erklärt US-Politik aus Insider-Perspektive auf Deutsch. Kein akademischer Hintergrund, aber gelebte Alltagserfahrung vor Ort — besonders stark bei der Einordnung von MAGA-Dynamiken und Trumps Innenpolitik.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

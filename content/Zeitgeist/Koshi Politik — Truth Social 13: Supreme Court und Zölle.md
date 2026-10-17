@@ -24,6 +24,8 @@ Quelle: [Truth Social Folge 13: Trump vs. Supreme Court](https://www.youtube.com
 
 > [!info] Wer ist Koschi Politik?
 > Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Koschi erklärt auch den rechtlichen Kontext des Birthright Citizenship-Streits.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

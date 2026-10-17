@@ -24,6 +24,8 @@ Quelle: [Truth Social Folge 15: „Jetzt töte ich sie als der 47. Präsident"](
 
 > [!info] Wer ist Koschi Politik?
 > Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Dieses Video ist erkennbar verstört im Ton — Koschi nennt den zweiten Post das „Verstörendste", was er auf Truth Social gesehen hat.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

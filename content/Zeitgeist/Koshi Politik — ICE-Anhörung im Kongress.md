@@ -22,6 +22,11 @@ aliases:
 Datum: 12.02.2026
 Quelle: [ICE Bosse werden GEGRILLT! Anhörung gerät völlig aus den Fugen!](https://www.youtube.com/watch?v=RTU_TeCoT9M)
 
+> [!info] Wer spricht?
+> **Manuel (Koschi Politik)** ist 2017 aus Deutschland in den Raum Buffalo, New York, gezogen und erklärt auf seinem YouTube-Kanal *Koschi Politik – USA Aktuell* deutschsprachigen Zuschauern die US-Politik, aus der Nähe und offen gegen Trump.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
+
 ---
 
 ## Sachlicher Kern

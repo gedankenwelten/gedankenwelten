@@ -24,6 +24,8 @@ Quelle: [Epstein-Akten Tag 2: Musk, Lutnick und die Überlebenden](https://www.y
 
 > [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Koschi betont Unparteilichkeit — „Wenn die Leute schuldig sind, sollen die zur Rechenschaft gezogen werden" — gilt für alle politischen Lager.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

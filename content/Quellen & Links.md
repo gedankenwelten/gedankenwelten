@@ -3672,6 +3672,22 @@ Wertvolle externe Quellen — Videos, Websites, Texte — die zu den Gedankenwel
 
 ## Koschi Politik — Trump-Dokumentation
 
+### Koschi Politik — Ausgewandert: Die Geschichte hinter dem Kanal (Privat)
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Ausgewandert: Die Geschichte hinter Koschi Politik (Privat)](https://www.youtube.com/watch?v=7_m7-36QTG4) (28.02.2026) |
+| **Notiz** | [[DenkerVita/Manuel Koschi Politik]] (Biografie) |
+| **Transkript** | `Gedankenwelten/Transkripte/Koschi_Ausgewandert_Privat_Transkript.txt` |
+
+### Koschi Politik — Private Einblicke: Der MAGA-Effekt auf Familien, Freunde & Nachbarschaften
+
+| | |
+|---|---|
+| **Vortrag / Video** | [Private Einblicke: Der MAGA Effekt auf Familien, Freunde & Nachbarschaften](https://www.youtube.com/watch?v=vhBt2qz_oNs) (27.12.2025) |
+| **Notiz** | [[DenkerVita/Manuel Koschi Politik]] (Biografie, Einordnung) |
+| **Transkript** | `Gedankenwelten/Transkripte/Koschi_MAGA_Effekt_Familien_Privat_Transkript.txt` |
+
 ### Koschi Politik — ICE, Palantir und der Überwachungsstaat
 
 | | |

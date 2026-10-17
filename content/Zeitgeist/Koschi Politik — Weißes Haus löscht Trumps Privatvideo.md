@@ -21,6 +21,8 @@ Quelle: [Mega Panne! Weißes Haus veröffentlicht versehentlich PRIVAT Video!](h
 
 > [!info] Wer spricht?
 > **Manuel (Koschi Politik)** lebt seit 8 Jahren in Buffalo, New York, und berichtet für ein deutschsprachiges Publikum über US-amerikanische Innenpolitik — kritisch, verständlich, aus erster Hand. Kein Mainstream-Medium, sondern unabhängiger Journalismus mit Vor-Ort-Perspektive.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

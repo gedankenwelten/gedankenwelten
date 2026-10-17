@@ -23,6 +23,8 @@ Quelle: [Epstein-Akten: Was das DOJ veröffentlicht hat](https://www.youtube.com
 
 > [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Koschi ist in diesem Video erkennbar vorsichtig mit Aussagen über unverifizierten Inhalt — verweist auf Links statt selbst zu zitieren. **Meinungen von Fakten trennen** bleibt zentral.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

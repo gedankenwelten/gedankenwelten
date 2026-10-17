@@ -22,6 +22,8 @@ Quelle: [Jawoll! Reihenweise GUTE Nachrichten aus den USA!](https://www.youtube.
 
 > [!info] Wer spricht?
 > **Manuel (Koschi Politik – USA Aktuell)** — Deutscher Auswanderer, lebt seit ~8 Jahren in Buffalo, New York. Erklärt US-Politik auf Deutsch aus Insider-Perspektive — analytisch-kritisch, klar links-liberal, ohne Übersetzungsfilter.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

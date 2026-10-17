@@ -31,6 +31,8 @@ Quelle: [Das hat selbst HARDCORE MAGA gar nicht gefallen!](https://www.youtube.c
 
 > [!info] Wer spricht?
 > **Manuel (Koschi Politik – USA Aktuell)** — Deutscher Auswanderer, lebt seit ~8 Jahren in Buffalo, New York. Betreibt den YouTube-Kanal "Koschi Politik" mit sachlicher Einordnung von US-Politik auf Deutsch. Kein akademischer Hintergrund, aber gelebte Insider-Perspektive — besonders stark bei MAGA-Dynamiken und der Einordnung von Trumps innenpolitischen Eskalationen.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

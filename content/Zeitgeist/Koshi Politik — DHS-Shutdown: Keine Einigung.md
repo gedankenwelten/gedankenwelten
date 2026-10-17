@@ -22,6 +22,11 @@ aliases:
 Datum: 13.02.2026
 Quelle: [Keine Einigung! DHS Finanzierung endet HEUTE – Was passiert mit ICE?](https://www.youtube.com/watch?v=4CC9uNRCP_M)
 
+> [!info] Wer spricht?
+> **Manuel (Koschi Politik)** ist 2017 aus Deutschland in den Raum Buffalo, New York, gezogen und erklärt auf seinem YouTube-Kanal *Koschi Politik – USA Aktuell* deutschsprachigen Zuschauern die US-Politik, aus der Nähe und offen gegen Trump.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
+
 ---
 
 ## Sachlicher Kern

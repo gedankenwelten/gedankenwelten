@@ -22,6 +22,11 @@ aliases:
 Datum: 10.03.2026
 Quelle: [ICE Agents bestehlen systematisch Immigranten?](https://www.youtube.com/watch?v=6PwIPqiFXeg)
 
+> [!info] Wer spricht?
+> **Manuel (Koschi Politik)** ist 2017 aus Deutschland in den Raum Buffalo, New York, gezogen und erklärt auf seinem YouTube-Kanal *Koschi Politik – USA Aktuell* deutschsprachigen Zuschauern die US-Politik, aus der Nähe und offen gegen Trump.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
+
 ---
 
 ## Sachlicher Kern

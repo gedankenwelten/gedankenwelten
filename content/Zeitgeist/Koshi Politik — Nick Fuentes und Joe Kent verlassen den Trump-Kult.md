@@ -24,6 +24,8 @@ Quelle: [Nick Fuentes, Joe Kent — und das Ende des Personenkults](https://www.
 
 > [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Eigene Einschätzung: links-liberal, faktenbasiert. Koschi ist hier explizit gut gelaunt — das ist erkennbar in der Wortwahl.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

@@ -23,6 +23,11 @@ aliases:
 Datum: 25.02.2026
 Quelle: [Das kann Sie doch UNMÖGLICH überstehen oder? ICE Whistleblower packt aus!](https://www.youtube.com/watch?v=IuXL4daZAOo)
 
+> [!info] Wer spricht?
+> **Manuel (Koschi Politik)** ist 2017 aus Deutschland in den Raum Buffalo, New York, gezogen und erklärt auf seinem YouTube-Kanal *Koschi Politik – USA Aktuell* deutschsprachigen Zuschauern die US-Politik, aus der Nähe und offen gegen Trump.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
+
 ---
 
 ## Sachlicher Kern

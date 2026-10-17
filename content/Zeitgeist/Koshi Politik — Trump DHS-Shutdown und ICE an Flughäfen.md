@@ -34,6 +34,8 @@ Quelle: [110% PSYCHOPATH! Trumps totaler Online AUSRASTER am Wochenende! Teil 2]
 
 > [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik — Fokus auf Trump-Administration, US-Innenpolitik, Kongress-Geschehen. Erklärt US-Politikprozesse für deutsches Publikum; produziert schnell und nah am Tagesgeschehen. Eigene Einschätzung: politisch tendenziell links-liberal, aber mit faktenbasiertem Ansatz — **Meinungen von Fakten trennen** ist bei dieser Quelle besonders wichtig.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

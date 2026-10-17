@@ -24,6 +24,8 @@ Quelle: [The wheels are coming off — Fox News stellt Trump in Frage](https://w
 
 > [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal zur sachlichen Einordnung amerikanischer Politik. Eigene Einschätzung: links-liberal, faktenbasiert. **Meinungen von Fakten trennen** bleibt wichtig.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

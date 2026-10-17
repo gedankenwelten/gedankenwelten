@@ -23,6 +23,8 @@ Quelle: [Truth Social Folge 11: Trump und die Epstein-Anhörung](https://www.you
 
 > [!info] Wer ist Koschi Politik?
 > Deutschsprachiger YouTube-Kanal — Truth-Social-Segment: Trump-Posts im Original auf Deutsch gelesen und eingeordnet. Koschi bleibt auch hier ironisch-sachlich.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 

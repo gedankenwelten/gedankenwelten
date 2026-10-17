@@ -24,6 +24,8 @@ Quelle: [Truth Social Folge 12: Diego Garcia und das Zeichen für den Iran-Krieg
 
 > [!info] Wer ist Koschi Politik?
 > Zusatzsegment: Trump Truth-Social-Posts auf Deutsch gelesen und eingeordnet. Dieses Video wurde vor dem Iran-Krieg produziert — Koschi erkannte früh die Vorzeichen.
+>
+> → [[DenkerVita/Manuel Koschi Politik|DenkerVita]]
 
 ---
 
