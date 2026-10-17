@@ -6,6 +6,16 @@ tags:
   - links
 ---
 
+
+## Wer bringt das Falsche in Umlauf? (Panorama, eigene Recherche, 17.10.2026)
+
+| | |
+|---|---|
+| **Studien** | [Nenno 2025, Talkshows (ICS)](https://doi.org/10.1080/1369118X.2025.2561030) · [Nenno u. a. 2025, Preprint](https://doi.org/10.31235/osf.io/p6yh9_v1) · [Nenno, HIIG-Blog](https://doi.org/10.5281/zenodo.17572615) · [Lasser u. a. 2022](https://doi.org/10.1093/pnasnexus/pgac186) · [Törnberg & Chueri 2025](https://doi.org/10.1177/19401612241311886) · [Osmundsen u. a. 2021](https://doi.org/10.1017/s0003055421000290) · [Lasser u. a. 2023](https://doi.org/10.1038/s41562-023-01691-w) · [Huttunen & Lewandowsky 2026](https://doi.org/10.1038/s44271-026-00407-w) · [Budak u. a. 2024](https://doi.org/10.1038/s41586-024-07417-w) · [Greene u. a. 2024](https://doi.org/10.1093/pnasnexus/pgae567) · [Chuai u. a. 2025](https://doi.org/10.1609/icwsm.v19i1.35823) |
+| **Dokumente** | [AfD „Strategie 2017“ (PDF)](https://afdwatchafd.files.wordpress.com/2017/02/afd-strategie-2017.pdf) · [Tagesspiegel 20.01.2017](https://www.tagesspiegel.de/politik/afd-macht-geplante-provokationen-zur-medienstrategie-5488894.html) · [Weser-Kurier 24.01.2017](https://www.weser-kurier.de/politik/provokation-als-programm-doc7e4471x98sze4oywayk) |
+| **Recherchen** | [CORRECTIV: Kampf um die Fakten](https://correctiv.org/faktencheck/bundestagswahl-2025/2025/02/22/kampf-um-die-fakten-diese-fakes-praegten-die-wochen-vor-der-bundestagswahl/) · [CORRECTIV: Die Propaganda-KI der AfD](https://correctiv.org/aktuelles/geschaefte-der-afd/2026/07/02/die-propaganda-ki-der-afd/) · [CORRECTIV: Storm-1516-Sanktionen](https://correctiv.org/faktencheck/hintergrund/2025/07/16/russland-sanktionen-eu-straft-nach-einmischung-in-die-bundestagswahl-storm-1516-aussie-cossack-cge-und-andere/) · [ZDFheute: MV-Stimmzettel-Videos](https://www.zdfheute.de/politik/deutschland/faktencheck-manipulierte-stimmzettel-wahl-mecklenburg-vorpommern-100.html) |
+| **Notiz** | [[Panorama/Wer bringt das Falsche in Umlauf]] |
+
 ## Constanze Kurz — Automatisierte Datenanalysen mit Palantir (re:publica Vienna 2026)
 
 | | |

@@ -178,6 +178,10 @@ Wie aus einem Befund eine Waffe wird, lässt sich an Krügers Dissertation verfo
 
 ## Verbindungen
 
+### → [[Panorama/Wer bringt das Falsche in Umlauf|Wer bringt das Falsche in Umlauf?]]
+
+Nennos Talkshow-Studie gehört auch hierher: In fast zwölf Prozent der Folgen fiel eine schon geprüfte Falschbehauptung, und in der Hälfte der Fälle widersprach niemand. Wer einlädt, entscheidet mit, was unwidersprochen bleibt.
+
 ### → [[Panorama/Wie kann Demokratie funktionieren|Wie kann Demokratie funktionieren?]]
 
 [[Wie kann Demokratie funktionieren#Wiegt jede Stimme gleich?|Wiegt jede Stimme gleich?]] trägt die Studien zu Sinclair, zum X-Algorithmus und zu Großspenden. Hier geht es um die Öffentlichkeit selbst, dort um das Gewicht der Stimmen.

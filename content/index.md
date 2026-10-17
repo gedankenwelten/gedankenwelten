@@ -52,6 +52,10 @@ Die Gedankenwelten (luc)
 >
 > Orwells Teleschirm brauchte einen Beobachter. Die Überwachung von heute braucht nur ein Archiv, das alles verknüpft. Vier offene Fragen: ob sie wirkt, was sie mit Menschen macht, wo sie kippt, und ob ein anderer Anbieter etwas ändert.
 
+> **17.10.** — [[Panorama/Wer bringt das Falsche in Umlauf|Wer bringt das Falsche in Umlauf?]]
+>
+> Alle Parteien sagen Falsches, aber nicht alle gleich oft und nicht zum selben Zweck. Vier offene Fragen dazu, was gemessen ist, was gewollt ist und wer die Prüfer prüft.
+
 > **17.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
 >
 > Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
@@ -64,11 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben.
 
-> **16.10.** — [[Panorama/Wie umgehen mit Russland|Wie umgehen mit Russland?]]
->
-> Ein Nachbar, der in fünfzig Jahren noch da ist, und ein Krieg, der jetzt geführt wird. Fünf offene Fragen zum Umgang mit Russland — und die Stimmen, die sich an ihnen reiben.
-
-> → *13 weitere in* [[Panorama]]
+> → *14 weitere in* [[Panorama]]
 
 ### Gedanken
 

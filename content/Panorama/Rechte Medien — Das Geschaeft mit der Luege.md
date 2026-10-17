@@ -103,6 +103,7 @@ Anklage ohne Lösung wäre nur Empörung mit anderen Vorzeichen. Drei Gegenmitte
 
 | Note | Rubrik | Beitrag zum Panorama |
 |---|---|---|
+| [[Panorama/Wer bringt das Falsche in Umlauf\|Wer bringt das Falsche in Umlauf?]] | Panorama | Dasselbe für die Parteien: wie oft Politiker Falsches sagen, ob es gewollt ist, und wer die Prüfer prüft |
 | [[Topfvollgold — NiUS erfindet Islam-Skandal]] | Zeitgeist | Der gerichtlich festgestellte Fake („sämtlich unwahr") |
 | [[Topfvollgold — Mordfall Stade und das Versagen von NiUS]] | Zeitgeist | Falsche Mord-Komplizin per Namensverwechslung, Hetzjagd, Asymmetrie der Korrektur |
 | [[Topfvollgold — BILD und NIUS: Wie erfundene Geschichten Hass schüren]] | Zeitgeist | Das Muster über mehrere Fälle: Desinformation als Geschäftsmodell |

@@ -303,6 +303,10 @@ Was das Feuer löscht, ist weniger umstritten, als die Debatte vermuten lässt. 
 
 ## Verbindungen
 
+### → [[Panorama/Wer bringt das Falsche in Umlauf|Wer bringt das Falsche in Umlauf?]]
+
+Die Frage nach dem Wollen, an Zahlen gemessen: Die AfD verbreitet nach jeder Methode am meisten Falsches, die Union nach der Textmethode nicht weit dahinter. Unterscheiden lassen sich beide am Ziel, die AfD greift Institutionen an, die Union Gegner.
+
 ### → [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|Spur: AfD an der Macht — die Probe auf das Gutachten]]
 
 Die Zeit-Dimension zu diesem Panorama: Was hier als Frage steht, verfolgt die Spur als Verlauf, gemessen am GFF-Gutachten, mit Konfidenz und Gegenbeobachtung. Siegmunds Ankündigungen für die ersten hundert Tage sind dort als Messlatte eingetragen.
