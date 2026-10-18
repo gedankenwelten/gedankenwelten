@@ -6,7 +6,7 @@
   {
    "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
    "leser": 817,
-   "aufrufe": 975
+   "aufrufe": 977
   },
   {
    "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -311,7 +311,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 764,
-     "aufrufe": 903
+     "aufrufe": 905
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -404,11 +404,6 @@
      "aufrufe": 4
     },
     {
-     "pfad": "/DenkerVita/Torsten-Heinrich",
-     "leser": 3,
-     "aufrufe": 4
-    },
-    {
      "pfad": "/Denker/Platon-Das-Höhlengleichnis",
      "leser": 3,
      "aufrufe": 3
@@ -420,6 +415,11 @@
     },
     {
      "pfad": "/DenkerVita/Eva-von-Redecker",
+     "leser": 3,
+     "aufrufe": 3
+    },
+    {
+     "pfad": "/DenkerVita/Torsten-Heinrich",
      "leser": 3,
      "aufrufe": 3
     },
@@ -616,7 +616,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 817,
-     "aufrufe": 975
+     "aufrufe": 977
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -921,7 +921,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 839,
-     "aufrufe": 1002
+     "aufrufe": 1004
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1226,7 +1226,7 @@
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
      "leser": 839,
-     "aufrufe": 1002
+     "aufrufe": 1004
     },
     {
      "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
@@ -1759,6 +1759,11 @@
      "aufrufe": 2
     },
     {
+     "pfad": "/DenkerVita/Bernhard-Poerksen",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
      "pfad": "/GoodNews/Good-News-Gute-Nachrichten-April-2026",
      "leser": 2,
      "aufrufe": 2
@@ -1822,11 +1827,167 @@
      "pfad": "/Denker/Walther-Ziegler-Sartre-in-60-Minuten",
      "leser": 2,
      "aufrufe": 2
+    }
+   ]
+  },
+  "aussenwelt": {
+   "tage": null,
+   "pfade": [
+    {
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "leser": 214,
+     "aufrufe": 214
     },
     {
-     "pfad": "/DenkerVita/Torsten-Heinrich",
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+     "leser": 184,
+     "aufrufe": 184
+    },
+    {
+     "pfad": "/DenkerVita/Kalayo",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Die-Anstalt-Warum-Wohnen-unbezahlbar-wird",
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Bartunek-Tillschneider-vor-der-Synagoge-in-Halle",
+     "leser": 1,
+     "aufrufe": 1
+    }
+   ]
+  },
+  "gehoert": {
+   "tage": null,
+   "pfade": [
+    {
+     "pfad": "/Zeitgeist/Studio-Bonn-Extremer-Reichtum",
+     "wert": 256,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Tilo-Jung-Erben-Wirtschaft-AfD-Strategie",
+     "wert": 113,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Ruben-Mawick-Als-Sanitaeter-an-der-Ukraine-Front",
+     "wert": 88,
+     "leser": 4,
+     "aufrufe": 4
+    },
+    {
+     "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
+     "wert": 61,
+     "leser": 28,
+     "aufrufe": 28
+    },
+    {
+     "pfad": "/Geistesblitz/Christine-Braehler-Selbstmitgefuehl,-Scham-und-reife-Liebe",
+     "wert": 60,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Sandra-Navidi-Verbrecher-getarnt-als-Regierung:-Wie-Trump-die-USA-ausraubt-(Der-Standard)",
+     "wert": 52,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Adam-Tooze-und-Maja-Goepel-Die-Polykrise",
+     "wert": 49,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Walther-Ziegler-Sartre-in-60-Minuten",
+     "wert": 34,
      "leser": 2,
      "aufrufe": 2
+    },
+    {
+     "pfad": "/Zeitgeist/Adam-Tooze-Pentagon-vs.-Anthropic",
+     "wert": 17,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Hannah-Arendt-Die-Banalität-des-Bösen",
+     "wert": 10,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Joerg-Baberowski-Putin-Herrschaft-und-liberale-Demokratie",
+     "wert": 5,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Weniger-Drama-Vipassana-ins-Handeln",
+     "wert": 2,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Marcant-Ausstieg-aus-der-rechten-Szene",
+     "wert": 1,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Rainer-Mausfeld-Warum-schweigen-die-Lämmer",
+     "wert": 0,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Die-Anstalt-Warum-Wohnen-unbezahlbar-wird",
+     "wert": 0,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Shi-Heng-Yi-Aufloesung-der-Identitaet",
+     "wert": 0,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Zeitgeist/Adriaan-van-Wagensveld-Fuer-dich-sorgen-heisst-fuer-andere-sorgen",
+     "wert": 0,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Walther-Ziegler-Kafka-in-60-Minuten",
+     "wert": 0,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Juergen-Kornmeier-Grenzgebiete-der-Psychologie",
+     "wert": 0,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Geistesblitz/Andreas-Zimpel-Neurodiversität",
+     "wert": 0,
+     "leser": 1,
+     "aufrufe": 1
+    },
+    {
+     "pfad": "/Denker/Aladin-El-Mafaalani-Kinder-als-diskriminierte-Minderheit-(taz-lab-2025)",
+     "wert": 0,
+     "leser": 1,
+     "aufrufe": 1
     }
    ]
   }
