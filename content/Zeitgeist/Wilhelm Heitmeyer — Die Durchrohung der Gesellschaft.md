@@ -1,7 +1,9 @@
 ---
 date: 2026-03-31
 title: "Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft"
-aktualisiert: 2026-04-05
+aktualisiert: 2026-10-18
+description: "Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen."
+raetsel: "Beim Braten fiel der Satz. Alle kauten weiter. Es ging ja ums Erbe."
 tags:
   - zeitgeist
   - demokratie
@@ -11,6 +13,8 @@ tags:
   - individualisierung
   - digitalisierung
   - empathie
+  - medien
+  - afd
   - year-2026
 aliases:
   - Heitmeyer Durchrohung
@@ -19,19 +23,33 @@ aliases:
 
 # Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft
 
-Quelle: Stiftung Demokratie Saarland, Kooperationsveranstaltung mit Gegenvergessen für Demokratie e.V., 16. März 2026
+![[assets/Wilhelm-Heitmeyer-Die-Durchrohung-der-Gesellschaft-banner.jpg|1200]]
+
+<details><summary>🎨</summary>
+
+**Frans Masereel** — Holzschnitt, schwarze Kerben auf warmem Papier, ein einziger gedämpfter Ziegelton auf dem Tischtuch. Ein Mietshaus, aufgeschnitten wie eine Puppenstube: der Sonntagstisch, an dem einer zeigt und alle weiteressen, das Büro, der Bahnsteig, das Klassenzimmer, das Wartezimmer, oben das Parlament. Durch alle Stockwerke läuft ein roh geschnitzter Riss. Masereel, weil er die Stadt als Zusammenhang vieler Räume gezeigt hat und weil im Holzschnitt das Rohe stofflich wird: Die Durchrohung ist keine Szene, sie ist die Maserung, die durch alle geht.
+
+*Prompt:* A wide woodcut print in the manner of Frans Masereel: bold black carved lines on warm cream paper, visible wood grain and gouge marks. A tall city apartment building cut open like a dollhouse, its rooms side by side and stacked: a family at a Sunday dinner table where one man points and talks while the others keep eating with lowered heads; an office where a small figure bends under a looming boss; a crowded train platform with a figure shouting at a conductor; a classroom where a teacher stands cornered; a hospital waiting room with clenched fists; at the top a parliament hall with tiny shouting figures. Several figures hold glowing phones. One single jagged crack, carved rough like split wood, runs diagonally through every floor and wall from the roof to the cellar, connecting all rooms. One muted brick-red accent only on the tablecloth of the dinner table. Stylized figures, no realistic faces, no text, no letters, no signature.
+
+</details>
+
+> [!abstract] Worum es geht
+> Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer setzt dagegen einen neuen Begriff, die *Durchrohung*: einen Prozess, der durch Familie, Betrieb, Bahnsteig, Schule und Parlament zieht, gespeist von Markt, Vereinzelung, Netz und Krisen. Er legt Zahlen aus siebzehn Bereichen vor, wehrt die beruhigende Erklärung ab, es werde heute nur mehr angezeigt, und endet bei einer Frage, die niemanden auslässt: ob wir am eigenen Tisch widersprechen, wenn dort ein Spruch fällt.
+
+Quelle: [Die Durchrohung der Gesellschaft — Vortrag von Wilhelm Heitmeyer](https://www.youtube.com/watch?v=XGMlZmBjrlM), Stiftung Demokratie Saarland in Kooperation mit Gegen Vergessen – Für Demokratie e.V., Saarbrücken, 16. März 2026
 
 > [!info] Wer spricht?
-> **Wilhelm Heitmeyer** — Seniorprofessor an der Universität Bielefeld; bis 2013 Gründungsdirektor des Instituts für interdisziplinäre Konflikt- und Gewaltforschung (IKG). Größte Langzeitstudie zur gruppenbezogenen Menschenfeindlichkeit in Deutschland: *Deutsche Zustände* (10 Bände, Suhrkamp). Forschungsschwerpunkte: Gewalt, Rechtsextremismus, soziale Desintegration. Bundesverdienstkreuz erster Klasse. Bekannt für strukturelle, nicht attitüdinale Analyse gesellschaftlicher Verrohung.
+> **Wilhelm Heitmeyer** — Seniorprofessor an der Universität Bielefeld; dort gründete und leitete er fast zwei Jahrzehnte das Institut für interdisziplinäre Konflikt- und Gewaltforschung (IKG). Seit 1985 untersucht er die schleichende Normalisierung autoritärer und nationalradikaler Einstellungen; seine Langzeitstudie zur gruppenbezogenen Menschenfeindlichkeit erschien als *Deutsche Zustände* (10 Bände, Suhrkamp). Forschungsschwerpunkte: Gewalt, Rechtsextremismus, soziale Desintegration. Bundesverdienstkreuz erster Klasse. Er blickt auf Strukturen, nicht nur auf Einstellungen.
+> → [[DenkerVita/Wilhelm Heitmeyer|DenkerVita]]
 
 > [!quote] Kernthese
-> *„Es reicht nicht, auf das Verhalten allein zu blicken — man muss sich die Wechselwirkung von Strukturen und Verhalten ansehen."*
+> *„Es reicht nicht, auf das Verhalten allein zu blicken — man muss sich die Wechselwirkung von Strukturen und Verhalten ansehen."* [▶ 7:00](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=420)
 
 ---
 
 ## Kontext
 
-Die Stiftung Demokratie Saarland lädt Heitmeyer im März 2026 zu einem Abendvortrag ein — ein Jahr nach seinem Vortrag über den autoritären Nationalradikalismus der AfD. Der Anlass: ein neues Buch, ein neuer Begriff, eine neue These. Die Veranstaltung findet einen Tag nach dem Tod von Jürgen Habermas statt (gestorben 15. März 2026, 96 Jahre alt), auf den Heitmeyer explizit eingeht.
+Die Stiftung Demokratie Saarland lädt Heitmeyer im März 2026 zu einem Abendvortrag ein, ziemlich genau ein Jahr nach seinem [Vortrag über den autoritären Nationalradikalismus der AfD](https://www.youtube.com/watch?v=JbF0kInzEno). Der Abend ist eine Vorschau: Das Buch dazu, *Die Durchrohung der Gesellschaft* (edition suhrkamp, dritter Band seiner Reihe *Signaturen der Bedrohung*), erscheint am 27. Oktober 2026. Der Vortrag findet zwei Tage nach dem Tod von Jürgen Habermas statt (gestorben 14. März 2026 in Starnberg, 96 Jahre alt), auf den Heitmeyer eingeht. Sein erklärtes Ziel für den Abend: Irritation. *„Wahrscheinlich alle Klarheiten restlos beseitigt"*, sagt er am Ende [▶ 72:13](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4333).
 
 ---
 
@@ -43,59 +61,84 @@ Heitmeyer führt bewusst einen neuen Begriff ein:
 
 **Durchrohung** meint etwas anderes: einen gesellschaftlichen **Prozess**, der durch alle Räume hindurchgeht und in dem Strukturen selbst brutalisierendes Verhalten ermöglichen, stimulieren oder sogar einfordern.
 
-> *„Gelegentlich muss man für bestimmte Sichtweisen auch andere Begriffe einführen, damit die Aufmerksamkeit möglicherweise etwas anders gelenkt wird."*
+> *„Gelegentlich muss man für bestimmte Sichtweisen auch andere Begriffe einführen, damit die Aufmerksamkeit möglicherweise etwas anders gelenkt wird."* [▶ 3:50](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=230)
+
+Strukturen, sagt er, sind Maßregeln und Verhaltensimperative. Sie schreiben vor, sie ermöglichen, sie schaffen Abhängigkeiten, und sie sind „immer gefüllt von Machtverhältnissen" [▶ 7:45](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=465). Darum ermöglichen sie auch verrohendes Verhalten, manchmal stimulieren sie es.
 
 Der Kernfehler, den Heitmeyer bekämpft: **Psychologisierung schützt Strukturen.** Wenn man verrohendes Verhalten allein mit der Persönlichkeit des Täters erklärt, nimmt man die Strukturen, die es ermöglichen oder provozieren, aus der Kritik.
 
-Gegenbeispiel: der sexuelle Missbrauch in der Kirche. Jeder 20. Pfarrer im Erzbistum Paderborn — erklärbar mit den Persönlichkeiten der Täter? Oder mit der Institutsstruktur, die aktiven Schutz durch die Bischöfe Jäger und Degenhart ermöglichte?
+Sein Beispiel kommt aus der eigenen Heimat. Zwei Tage vor dem Vortrag war die Missbrauchsstudie des Erzbistums Paderborn erschienen; Heitmeyer, der aus Ostwestfalen stammt, fasst sie so zusammen, dass jeder zwanzigste Pfarrer Missbrauch begangen habe *(gut vier Prozent der Geistlichen beschuldigt, nicht verurteilt → [[#Faktencheck|Faktencheck]])* und die Erzbischöfe Jaeger und Degenhardt die Täter aktiv geschützt hätten [▶ 10:05](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=605). Mit dem Charakter einzelner Priester ist das nicht zu erklären. Es ist eine Struktur, in die das Verhalten „hineinläuft".
 
 **Zwei Fehler zu vermeiden:**
 1. Psychologisierung, die Strukturen schützt
-2. Täter nur als Opfer von Strukturen sehen — sie bleiben in der Verantwortung
+2. Täter nur als Opfer von Strukturen sehen — sie bleiben in der Verantwortung [▶ 10:50](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=650)
+
+---
+
+## Die Kernformel: negative Emotionen und Macht
+
+Was Heitmeyer meint, reicht weit: Demütigung, Cybermobbing, psychische und physische Bedrohung, sexualisierte Gewalt. Vieles davon liegt unter der Schwelle, ab der das Strafrecht greift, und verändert trotzdem das Klima, in dem alle leben [▶ 13:56](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=836). Unter dieser Bandbreite liegt eine einzige Verbindung, auf die er immer wieder zurückkommt:
+
+> *„Es geht immer um diese Verbindung von negativen Emotionen und Machtausübung."* [▶ 20:56](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=1256)
+
+Demütigung, Hass und Wut sind die Emotionen; die Machtdemonstration ist das, was aus ihnen folgt, sobald vereinbarte Regeln sie nicht mehr einhegen. Am Ende des Vortrags fächert er die Macht auf [▶ 68:33](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4113): sexuell stimulierte Macht; Macht, die eigene Attraktivität und vor allem männliche Dominanz darstellt; instrumentelle Macht, die Vorrang durchsetzt, im Straßenverkehr oder in der Notaufnahme; regressive Macht, die die soziale und politische Ordnung umbauen will. Daraus ergeben sich drei Formen der Gewalt:
+
+| Typ | Beschreibung |
+|---|---|
+| **Expressive Gewalt** | Lust an der Gewalt; wen man trifft, ist sekundär |
+| **Instrumentelle Gewalt** | Durchsetzung materieller Interessen (Vorrang im Straßenverkehr, in der Notaufnahme) |
+| **Regressive Gewalt** | Politisch — autoritäre Veränderung der sozialen und politischen Ordnung |
+
+Die Formel ist schlicht und genau darum brauchbar. Sie erklärt nicht, warum einer wütend ist, sondern fragt, welche Struktur der Wut erlaubt, zur Macht über andere zu werden.
 
 ---
 
 ## Fünf Räume — fünf Strukturlogiken
 
-Heitmeyer untersucht Verrohung in 17 Bereichen, gruppiert nach Raumtyp:
+Heitmeyer hat 17 Bereiche nach Daten und Forschung durchsucht und nach Räumen geordnet. Jeder Raum hat sein eigenes Strukturprinzip, also eine Erwartung, die dort gilt [▶ 18:38](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=1118):
 
-| Raum | Strukturprinzip | Typische Trigger |
-|---|---|---|
-| **Privat** (Familie, Partnerschaft) | Liebe, Fürsorge, Intimität | Kontrollverlust, Machtkonflikte |
-| **Betrieblich** | Nützlichkeit, Verwertbarkeit, Effizienz | Leistungsdruck, Entwertung |
-| **Öffentlich** | Sicherheit, Pünktlichkeit, Rettung | Wartestress, Erwartungsenttäuschung |
-| **Institutionell** (Schule, Krankenhaus, Jobcenter) | Leistung, Versorgung, Existenzsicherung | Überforderung, Ohnmacht |
-| **Politisch** | Interessendurchsetzung | Kontrollverlust, Entfremdung |
+| Raum | Was dort erwartet wird |
+|---|---|
+| **Privat** (Familie, Partnerschaft) | Liebe, Fürsorge, Intimität |
+| **Betrieblich** | Nützlichkeit, Verwertbarkeit, Effizienz |
+| **Öffentlich** (Bus, Bahn, Rettung) | Sicherheit, pünktliche Beförderung, Rettung bei Unfall und Feuer |
+| **Institutionell** (Notaufnahme, Schule, Jobcenter) | sofortige Versorgung; Leistung und die Verteilung von Lebenschancen; Existenzsicherung |
+| **Politisch** | Durchsetzung von Interessen |
 
-In jedem Raum gelten unterschiedliche Trigger und Strukturbedingungen. Deshalb gibt es **keine Einheitsursache** für Verrohung — man muss die Kontexte einzeln analysieren.
+Wo eine solche Erwartung enttäuscht wird, sitzt der Auslöser. Heitmeyer sagt es so: *„Die Strukturen formen gewissermaßen dann die Trigger"* [▶ 20:10](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=1210). Wer in der Notaufnahme sofort versorgt werden will, wird anders wütend als jemand, dessen Zug ausfällt; Heitmeyer selbst war an diesem Tag „mit erheblichen Problemen" Bahn gefahren. Deshalb gibt es **keine Einheitsursache** für Verrohung. Man muss jeden Raum für sich ansehen.
 
 ---
 
 ## Empirische Basis: Steigende Fallzahlen
 
-Heitmeyer belegt die These mit Daten aus 17 Bereichen:
+Ein Prozess lässt sich nicht an einem einzelnen Ereignis zeigen, nur an Daten über lange Zeiträume [▶ 11:38](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=698). Heitmeyer mahnt selbst zur Vorsicht mit der Kriminalstatistik, die Tatverdächtige zählt und keine Verurteilten. Dann zeigt er Beispiele:
 
-- Messerangriffe (Schwerverletzten-Register der Deutschen Gesellschaft für Orthopädie und Unfallchirurgie)
-- Häusliche Gewalt — steigende Zahlen über die Jahre
-- Angriffe auf Polizisten — letzten 10 Jahre deutlich gestiegen *(mit Vorbehalt: Gewaltbegriff wurde ausgeweitet)*
-- Rettungsdienst: +6,8% Angriffe
-- Feuerwehr und Bahn: ebenfalls steigend
-- Obdachlose als Opfer: 602 (2011) → 2.194 (2024) — trotz extrem niedriger Anzeigequote
-- Lehrkräfte: 48% berichteten 2018 von Übergriffen, 2024 waren es 65%
-- Journalisten: ebenfalls deutlich
-- Sexueller Missbrauch bei Kindern: +20% gegenüber 5 Jahren zuvor
-- Hasskriminalität: Kurve von 2001–2024 klar aufwärts (mit Zacken)
-- Fremdenfeindlichkeit, Antisemitismus, Rassismus: alle steigend
+- **Messerangriffe:** die Zahl der Schwerverletzten aus dem TraumaRegister der Deutschen Gesellschaft für Unfallchirurgie. Das sei „kein Wahrnehmungsproblem", sondern ein faktisches [▶ 21:41](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=1301).
+- **Häusliche Gewalt:** steigende Zahlen über die Jahre.
+- **Angriffe auf Polizisten:** gestiegen in den letzten zehn Jahren. Hier bremst er selbst: Die Polizei bestimmt ihren Gewaltbegriff selbst, und inzwischen fallen auch Widerstandshandlungen darunter, etwa wenn sich jemand an ein Geländer klammert [▶ 23:16](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=1396).
+- **Rettungsdienst:** +6,8 % Angriffe *(2024 gegenüber dem Vorjahr konstant → [[#Faktencheck|Faktencheck]])*; Feuerwehr und Bahn ebenfalls steigend.
+- **Obdachlose als Opfer:** 602 (2011) → 2.194 (2024) *(Zählweise 2014 geändert → [[#Faktencheck|Faktencheck]])*, obwohl gerade sie kaum anzeigen. Sie misstrauen Polizei und Behörden und fürchten Rache [▶ 24:47](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=1487).
+- **Lehrkräfte:** An 48 % der Schulen berichteten Schulleitungen 2018 von Beschimpfung, Bedrohung oder Mobbing gegen Lehrkräfte in den letzten fünf Jahren, 2024 an 65 % [▶ 25:36](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=1536). Gewalt in der Schule heißt inzwischen nicht mehr nur Schüler gegen Schüler, sondern auch Schüler und Eltern gegen Lehrkräfte.
+- **Journalisten:** ähnliches Bild.
+- **Sexueller Missbrauch von Kindern:** 20 % mehr als fünf Jahre zuvor *(Behörden sehen darin auch aufgehelltes Dunkelfeld → [[#Faktencheck|Faktencheck]])*. Dazu ein Befund, den er „völlig irritierend" nennt: Kinder und Jugendliche verbreiten selbst kinderpornografische Bilder.
+- **Hasskriminalität 2001–2024**, dazu Fremdenfeindlichkeit, Antisemitismus, Rassismus, jeweils auch in Verbindung mit Gewalt: Die Kurven steigen, mit Zacken.
+
+Die Zacken nimmt er als Argument. Eine gerade Linie wäre „verdächtig", denn die Gesellschaft verändert sich pausenlos. Und dass die Gewalt zurückgehen kann und wieder steigt, zeigt ihm etwas Tröstliches:
+
+> *„… dass die gesellschaftlichen Strukturen und die gesellschaftlichen Themen gesellschaftlich gemacht sind und nicht einfach nur vom Himmel fallen. Und wenn sie gesellschaftlich gemacht sind, kann man natürlich auch sagen, man kann sie beeinflussen."* [▶ 28:43](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=1723)
 
 ### Die Sensibilisierungsthese
 
-Ein verbreitetes Gegenargument: Die Fallzahlen steigen nicht, weil Verrohung zunimmt — sondern weil die Bevölkerung sensibilisierter ist und mehr anzeigt.
+Ein verbreitetes Gegenargument, oft von Medienvertretern: Die Fallzahlen steigen nicht, weil Verrohung zunimmt, sondern weil die Bevölkerung sensibler geworden ist und mehr anzeigt. Dann wäre die Gesellschaft sogar auf dem Weg zu größerer Humanität.
 
-Heitmeyer ist skeptisch:
+Heitmeyer hat „große Zweifel":
 
-> *„Diese These mündet an vielen Stellen in einer Art von Beruhigungsformeln."*
+> *„… weil sie an vielen Stellen in einer Art von Beruhigungsformeln dann einmündet."* [▶ 13:08](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=788)
 
-Das Gegenargument: Eine **Dunkelfeldstudie** (Befragungsdaten, keine Anzeigedaten) mit 15.000 Befragten ergab, dass bis zu 80% negative Erfahrungen gemacht hatten — aber nur 3% diese zur Anzeige brachten. Die Zunahme der Fallzahlen ist damit **nicht** auf gestiegene Anzeigebereitschaft zurückzuführen.
+Er hält zwei Dinge dagegen. Die Anzeigebereitschaft ist vielerorts niedrig, bei Lehrkräften etwa, weil sie an der Verfolgung durch die Staatsanwaltschaften zweifeln. Und eine jüngst veröffentlichte **Dunkelfeldstudie** (Befragung statt Anzeigen) mit 15.000 Befragten ergab: Bis zu 80 % hatten negative Erfahrungen gemacht *(die 80 % stehen in der Studie nicht → [[#Faktencheck|Faktencheck]])*, nur 3 % brachten sie zur Anzeige [▶ 30:20](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=1820). Für Heitmeyer ist die Zunahme damit nicht durch Anzeigeverhalten erzeugt *(eine Einmalbefragung, sie zeigt keinen Trend → [[#Faktencheck|Faktencheck]])*.
+
+> [!question] Weitergedacht
+> Heitmeyer nennt die Sensibilisierungsthese eine Beruhigungsformel. Könnte man die Durchrohungsthese dann nicht ebenso eine Beunruhigungsformel nennen, die zu jeder steigenden Kurve passt? *Welche Kurve müsste er sehen, um seine These aufzugeben?*
 
 ---
 
@@ -107,59 +150,61 @@ Der Begriff stammt vom Industriesoziologen **Klaus Dörre** (Jena): Der Kapitali
 
 Problem: Wenn sich seine Prinzipien — Nützlichkeit, Verwertbarkeit, Effizienz — auf die Lebensweisen von Menschen ausbreiten, entsteht eine **Ökonomisierung des Sozialen**. Menschen werden durch die Brille der Warenproduktion betrachtet. Das gefährdet grundlegende Prinzipien der Würde, der psychischen und physischen Unversehrtheit, der Gleichwertigkeit.
 
-Die Folge zeigt sich in einer Langzeitstudie (30 Jahre, USA, Metaanalyse):
+Die Folge sieht er an der Empathie, die zum zivilen Umgang „notwendigerweise" gehört. Eine Metaanalyse über dreißig Jahre, gemessen an US-College-Studierenden, fand: Die affektive Empathie, das Einfühlen, sank um **48 %**, die kognitive, das Verstehenwollen, um 34 %, am stärksten nach dem Jahr 2000 [▶ 38:48](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=2328) *(seit 2009 steigt sie wieder → [[#Faktencheck|Faktencheck]])*.
 
-> Affektive Empathie (das Einfühlen in andere) hat um **48%** abgenommen.
-> Kognitive Empathie (den anderen verstehen wollen) ebenfalls rückläufig — mit der stärksten Abnahme seit dem Jahr 2000.
+Über die Ursachen, sagt Heitmeyer, sind die Forscher nicht einig, „im Wissenschaftsbereich gehört das dazu" [▶ 39:34](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=2374). Genannt werden vor allem drei: die exzessive Nutzung digitaler Netze, die Ausbreitung des Kapitalismus *(den nennt die Studie nicht → [[#Faktencheck|Faktencheck]])* und die Auflösung kohäsiver Milieus, in denen man sich noch von Angesicht zu Angesicht begegnete und die darum bremsten.
 
-Ursachen laut Wissenschaft: exzessive Nutzung digitaler Netze, Ausbreitung des Kapitalismus, Auflösung kohäsiver Milieunetzwerke.
+Dazu kommt eine Wende Ende der Neunzigerjahre: Im Zuge neoliberaler Wirtschaftspolitik entstand für Heitmeyer ein *autoritärer Kapitalismus*, der selbst entscheiden konnte, was, wo und nach welchen Standards er produziert. Die Nationalstaaten hatten „entweder keinen Willen oder schon keine Kraft mehr", gegen die steigende Ungleichheit vorzugehen [▶ 41:51](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=2511). Eine britische Vergleichsstudie zeigt: **Je größer die soziale Ungleichheit, desto höher die Gewaltraten** *(der Zusammenhang ist belegt, die Ursache umstritten → [[#Faktencheck|Faktencheck]])*. Verglichen wurden nicht Einzelpersonen, sondern Gesellschaften.
 
-Eine britische Vergleichsstudie zeigt: **Je größer die soziale Ungleichheit, desto höher die Gewaltraten** — nicht bei Einzelpersonen, sondern im Gesellschaftsvergleich.
-
-Helmut Dahme (Anomietheorie): Je dominanter die kapitalistische Ökonomie in alle Lebensbereiche hineinragt, desto mehr verlieren soziale Normen ihre Bindungskraft.
+Der Soziologe Helmut Thome ergänzt aus der Anomietheorie: Je dominanter die kapitalistische Ökonomie in alle Lebensbereiche hineinragt, desto mehr verlieren soziale Normen ihre Bindungskraft [▶ 42:40](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=2560). Was die Normen nicht mehr binden, wird frei.
 
 ---
 
 ### 2. Individualisierung und Singularisierung
 
-**Ulrich Beck** (Risikogesellschaft): Die Biographien der Menschen wurden aus den vorgegebenen Fixierungen — Familie, Milieu, Dorf, Klasse — herausgelöst. Das Individuum muss sein Leben zum eigenen Planungsbüro machen. Freiheit als Zwang.
+Moderne Gesellschaften, darin sind sich die Soziologen weitgehend einig, sind voller **Ambivalenzen** (Widersprüche, die sich nicht auflösen lassen) und **Ambiguitäten** (Unklarheit, wohin es weitergeht), auch weil religiöse Gewissheiten verloren gehen [▶ 43:26](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=2606).
 
-Das Problem: Diese Selbstverantwortung findet statt unter den Bedingungen des kapitalistischen **Durchsetzungszwangs**. Die Chancen auf Lebensplanung öffnen sich formal — aber die Verlässlichkeit von Lebenwegen nimmt ab. Das Aufstiegsversprechen für die nächste Generation erodiert.
+**Ulrich Beck** hat gezeigt, wie die Biografien aus den vorgegebenen Fixierungen gelöst wurden, aus den „sozialen Schraubstöcken" von Familie, Milieu, Dorf und Klasse. Heitmeyer fügt hinzu: *„Ich komme vom Dorf, also ich weiß, wovon ich rede"* [▶ 44:56](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=2696). Jeder muss sein Leben zum eigenen Planungsbüro machen und hat keine Ausrede mehr, es liege an der Klassenlage. Er muss das aber unter dem **Durchsetzungszwang** einer kapitalistischen Gesellschaft tun. Die Optionen nehmen zu, die Verlässlichkeit der Lebenswege nimmt ab; das Versprechen „unsere Kinder sollen es mal besser haben" erodiert.
 
-**Andreas Reckwitz** (Singularisierung): Nicht nur Individuation, sondern der gesellschaftliche Drang zur Einzigartigkeit. Einzigartigkeit ist zur sozialen Erwartung geworden. Das erzeugt:
-- Bewertung, Abwertung, Entwertung anderer zur Sicherung der eigenen Einzigartigkeit
-- **Subjektivierung von Werten**: Was als Wert gilt, bestimme ich
+Eigentlich müsste man erwarten, dass Menschen unter diesen Bedingungen lernen, Widersprüche und Unklarheit auszuhalten. Der Islamwissenschaftler **Thomas Bauer** zeigt das Gegenteil: Ambivalenz- und Ambiguitätstoleranz nehmen ab [▶ 48:11](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=2891). Daraus entsteht, so Heitmeyer, *„die Suche nach unbedingter Klarheit und die Suche nach Durchsetzung und Überlegenheit"* [▶ 48:56](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=2936). Wer die Welt nicht mehr aushält, wie sie ist, will sie eindeutig machen, notfalls gegen andere.
+
+**Andreas Reckwitz** führt das mit dem Begriff der *Singularisierung* weiter: Einzigartigkeit ist zur gesellschaftlichen Erwartung geworden. Wer einzigartig sein muss, vergleicht, und der Vergleich arbeitet mit Umwertung, Abwertung und Entwertung anderer [▶ 50:33](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3033). Die Folgen nach Heitmeyer:
+- **Subjektivierung von Werten**: Was als Wert gilt, bestimme ich, nicht eine Übereinkunft
 - **Erosion von Normen**: Woran ich mich halte, bestimme ich
+- eine dramatische Zunahme negativer Affekte, die Reckwitz beschreibt
 
-Was als Freiheitsgewinn begann, verbindet sich unter diesen Bedingungen zu neuen Freiheiten — der **Freiheit zur Demütigung, zum Hass und zur Gewalt**.
+Was als Freiheitsgewinn begann, verbindet sich unter diesen Bedingungen zu neuen Freiheiten — der **Freiheit zur Demütigung, zum Hass und zur Gewalt** [▶ 52:06](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3126).
 
-Dazu kommt ein gesellschaftlicher Backlash: die Propagierung **neuer harter Männlichkeit** durch autoritäre Bewegungen und Parteien. Heitmeyer sieht diesen Backlash als politisch wirksam.
+Dazu kommt ein Backlash, den autoritäre Bewegungen und Parteien gezielt anschieben: die Präsentation einer **neuen harten Männlichkeit**. Für Heitmeyer ist er unübersehbar und politisch erfolgreich [▶ 52:55](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3175).
 
 ---
 
 ### 3. Veränderungen der Kommunikationsstruktur
 
-**Jürgen Habermas** (gest. 15. März 2026, 96 Jahre) hat früh den **Strukturwandel von Öffentlichkeit** thematisiert. In seinen letzten Jahren wurde er immer ratloser: Statt einer milieu- und parteiübergreifenden Öffentlichkeit, in der Normen verhandelt werden, gibt es heute eine Vielzahl von Öffentlichkeiten — und niemand weiß mehr, wo eigentlich noch Übereinkunft über geltende Normen erzielt werden kann.
+**Jürgen Habermas** (gest. 14. März 2026, 96 Jahre) hat früh den **Strukturwandel von Öffentlichkeit** thematisiert. In seinen letzten Jahren wurde er immer ratloser: Statt einer milieu- und parteiübergreifenden Öffentlichkeit, in der Normen verhandelt werden, gibt es heute eine Vielzahl von Öffentlichkeiten — und niemand weiß mehr, wo eigentlich noch Übereinkunft über geltende Normen erzielt werden kann.
 
-Heitmeyer nennt die digitalen Plattformen (Facebook, X/Twitter) **Verrohungsmaschinen**:
+Was dagegen klar sei, ist, wo Normen heute zerstört werden, „Disruption" heißt das neue Wort dafür. Heitmeyer nennt die Plattformen **Verrohungsmaschinen**, die eine *„Entsicherung durch kapitalbefeuerte Hassnetzwerke"* ermöglichen [▶ 56:08](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3368):
 
-> *„Diese Plattformen bieten Entsicherung und Entbettung normorientierten Verhaltens auf mehrfacher Weise an."*
+> *„Facebook und X … die bieten solche Entsicherung und Entbettung normorientierten Verhaltens auf mehrfacher Weise an."* [▶ 57:02](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3422)
 
-Mechanismen:
-- **Abwertung anderer = Selbstaufwertung** — das Geschäftsmodell
-- **Rage Bait** (Matthias Morstedt): Wut ist der Treibsatz der digitalen Öffentlichkeit; kalkuliertes Eskalieren erzeugt maximale Resonanz
-- **Eskalationszwang**: Mehr vom Gleichen erzeugt keine Aufmerksamkeit — die Schraube muss ständig weitergedreht werden
-- **Enthemmungseffekt**: In den letzten 20 Jahren sind Hemmschwellen kontinuierlich gesunken
+Die Mechanismen:
+- **Abwertung anderer = Selbstaufwertung.** Hass, Demütigung und Gewaltaufrufe sind dort die geeigneten Mittel zum maximalen Erfolg: *„Die neue Währung, das sind Likes, und je brutaler, desto erfolgreicher in der Resonanz"* [▶ 57:47](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3467). Hierher gehört für ihn auch, dass Kinder und Jugendliche kinderpornografische Bilder weiterreichen.
+- **Eskalationszwang:** Die Aufmerksamkeitsspanne etwa auf X ist kurz; mehr vom Gleichen erzeugt keine Aufmerksamkeit, also muss die Schraube weitergedreht werden. Das Netz belohnt das.
+- **Rage Bait:** *„Wut ist der Treibsatz der digitalen Öffentlichkeit"*, zitiert Heitmeyer einen Autor, dessen Namen der Mitschnitt nicht sicher hergibt [▶ 59:20](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3560). Inhalte werden so gebaut, dass sie empören, die Eskalation ist kalkuliert. Psychologische Untersuchungen zeigen, dass negative Nachrichten und Gefühle stärker wahrgenommen werden als Freude oder Empathie.
+- **Enthemmung:** In den letzten zwanzig Jahren sind die Hemmschwellen ständig weiter weggeschmolzen. Ein britischer Forscher, Cohen, datiert eine neue Eskalationsstufe auf das Jahr 2016, die Zeit nach der großen Fluchtbewegung, als die Strukturen durch die digitalen Medien schon bereitstanden [▶ 60:53](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3653).
 
-45% der Amerikaner beziehen ihre Informationen ausschließlich von diesen Plattformen.
+45 % der Amerikaner, sagt Heitmeyer, beziehen ihre Informationen ausschließlich aus Facebook *(Pew: 38 % holen sich dort regelmäßig auch Nachrichten → [[#Faktencheck|Faktencheck]])*.
 
 **Jaron Lanier** (Informatiker): Digitale Medien sind in erster Linie *Empathievernichter*; sie erzeugen gesellschaftliche Abstumpfung.
 
-**Zuckerberg**: Hat intern Studien zur psychischen Gesundheit junger Nutzer durchführen lassen — mit so katastrophalen Ergebnissen, dass er sie nicht veröffentlichte. Propagiert stattdessen eine Kultur, „die Aggression feiert".
+**Zuckerberg**, mit Facebook, WhatsApp und Instagram rund drei Milliarden Nutzer, hat in den USA die Faktenchecker abgeschafft und den Zusammenhang zwischen Netzwerknutzung und der psychischen Gesundheit junger Menschen stets bestritten. Zugleich ließ er dazu intern forschen, und die Ergebnisse waren so katastrophal, dass er sie nicht veröffentlichte [▶ 62:24](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3744) *(kleine Stichproben, Mädchen mit Vorbelastung → [[#Faktencheck|Faktencheck]])*. Heute propagiert er eine neue „maskuline Energie" in seinem Konzern: Eine Kultur, die die Aggression „ein bisschen mehr" feiert, habe Vorteile.
 
-Die AfD ist zur erfolgreichsten Partei auf TikTok geworden — folgerichtig für Heitmeyer: aggressiv-emotionalisierende Strategien passen exakt auf die Plattformlogik.
+Dass die AfD mit ihren aggressiv emotionalisierenden Strategien zur erfolgreichsten Partei auf TikTok geworden ist *(knapper Vorsprung, die Linke holte stark auf → [[#Faktencheck|Faktencheck]])*, überrascht ihn darum nicht [▶ 61:39](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3699).
 
-> *„Wenn der Kampf gegen die Algorithmen und deren Besitzer nicht gewonnen wird, kann man einpacken mit der Ambition einer humanen Gesellschaft."*
+> *„Wenn der Kampf gegen die Algorithmen und deren Besitzer nicht gewonnen wird, kann man meines Erachtens einpacken mit der Ambition einer humanen Gesellschaft."* [▶ 61:39](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=3699)
+
+> [!question] Weitergedacht
+> Wäre eine Gesellschaft ohne diese Algorithmen weniger roh — oder sucht sich die Wut, die aus Kontrollverlust und Ungleichheit kommt, nur einen anderen Kanal? *Wer heute die Plattformen zähmt, behandelt er die Ursache oder den Verstärker?*
 
 ---
 
@@ -178,19 +223,23 @@ Definition einer Krise bei Heitmeyer: Zwei Kriterien:
 1. Die politischen Routinen und Instrumente zur Bewältigung funktionieren nicht mehr — zumindest nicht schnell und nicht kostenlos
 2. Die Zustände **vor** der Krise, in denen man sich sicher fühlte, sind nicht mehr herstellbar
 
-Das Ergebnis: **Kontrollverlust** — der Verlust von Selbstwirksamkeit in der eigenen Lebensbiographie. Und als Reaktion: aggressive Durchsetzung. Negative Emotionen + Machtansprüche im öffentlichen und privaten Raum.
+Das Ergebnis: **Kontrollverlust** — der Verlust von Selbstwirksamkeit in der eigenen Lebensbiographie [▶ 67:02](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4022). Und als Reaktion: aggressive Durchsetzung. Hier schließt sich der Kreis zur Kernformel: Die Strukturen haben die Lage mitgeschaffen, und gegen sie werden negative Emotionen mit Machtansprüchen aktiviert, im öffentlichen wie im privaten Raum.
 
 ---
 
-## Typen von Gewalt
+## Die Selbsttäuschung
 
-Heitmeyer unterscheidet analytisch:
+Am Ende des Vortrags steht nicht eine fünfte Ursache, sondern ein Vorwurf an alle, die es besser wissen könnten. Was ihn beunruhige, sei *„die ständige Anwendung selbsttäuschender"* Formeln, und die seien bequem [▶ 69:21](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4161). Er zählt auf, wer sie benutzt:
 
-| Typ | Beschreibung |
-|---|---|
-| **Expressive Gewalt** | Lust an der Gewalt; wen man trifft, ist sekundär |
-| **Instrumentelle Gewalt** | Durchsetzung materieller Interessen (Vorrang im Straßenverkehr, in der Notaufnahme) |
-| **Regressive Gewalt** | Politisch motiviert — autoritäre Veränderung der sozialen und politischen Ordnung |
+- **Wissenschaftler**, die nur die begrenzte Aussagekraft von Kriminalitätsstatistiken im Auge haben,
+- **ökonomisch Verantwortliche**, die die kapitalistische Landnahme für irrelevant halten,
+- **die Politik**, die ihre Verantwortung für ökonomische Strukturen nicht thematisieren will,
+- **die Medien**, die die Mechanismen nicht mit der nötigen Vehemenz verbreiten.
+
+Bei den Medien wird er konkret. Die Daten aus den einzelnen Bereichen erscheinen zu verschiedenen Zeitpunkten, und jedes Mal gibt es kurz ein Aufflackern: *„Oh Gott, Gott, was ist da denn los? Und dann verschwimmt es."* Ein Gesamtbild aller Räume werde „in den Medien nirgendwo verbreitet" [▶ 70:52](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4252). Seine Prognose: Wenn diese Selbsttäuschung nicht endet und keine „produktiv radikale Debatte über die gesellschaftliche Produktion der Durchrohung" beginnt, werden die Zahlen weiter steigen.
+
+> [!question] Weitergedacht
+> Heitmeyer rechnet auch Forscher, die auf die Grenzen der Kriminalstatistik pochen, zu den Selbsttäuschern — obwohl er selbst vor denselben Grenzen warnt (Tatverdächtige statt Verurteilte, der ausgeweitete Gewaltbegriff der Polizei). *Wo endet methodische Vorsicht, und wo beginnt die Beruhigung?*
 
 ---
 
@@ -200,19 +249,44 @@ Heitmeyer unterscheidet analytisch:
 
 Ein Zuschauer fragt: Sie haben Politiker ausgelassen. Korruption, fehlende Toleranz im Diskurs, Aggression im Bundestag.
 
-Heitmeyer stimmt zu — und fügt Daten hinzu: Die **Ordnungsrufe durch das Bundestagspräsidium** seit 2017 sind statistisch eindeutig. Die AfD hat das Klima im Bundestag massiv in Richtung Verrohung verschoben.
-
-Gleichzeitig: Auch Linksextreme haben sich auf diesem antidemokratischen Weg eingeboten — das gibt es nicht.
+Heitmeyer gibt ihm recht, beim Kurzschluss von Frust zu Aggression nur mit Vorbehalt, und legt eine Statistik nach: Die Verrohung der Sprache wird „auf einer prominenten Bühne vorgeführt, und das ist der Bundestag". Seit 2017 zeigen die **Ordnungsrufe durch das Bundestagspräsidium** eine „super eindeutige" Entwicklung; die AfD habe das Klima dort massiv verschoben [▶ 74:31](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4471). Auch die Angriffe auf Politiker steigen, vor allem auf Kommunalpolitiker, die als Erste greifbar sind. Opfer seien auch AfD-Leute geworden: *„Idiotischerweise sind dann Linksextreme auch auf diesen demokratiegefährdenden Weg mit eingebogen"* [▶ 76:01](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4561). Dann wendet er die Frage um. Man lande schnell bei den Politikern, „und wir müssen wahrscheinlich selbst zusehen, dass wir nicht unseren Beitrag dazu leisten".
 
 ### Nahe soziale Bezugsgruppen — die eigentliche Frage
 
-Heitmeyers Antwort auf die „Was tun?"-Frage konzentriert sich nicht auf die Politik, sondern auf das **nahe soziale Umfeld**: Familie, Freundeskreis, Sportmannschaft, Kirchengemeinde.
+Das Klima der Verrohung „wird ja auch unten erzeugt, also bei uns" [▶ 77:32](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4652). Die Strukturen zu ändern bleibt Aufgabe der Politik, aber „mit unserem kurzen Arm" kann jeder etwas tun: in der Verwandtschaft, im Freundeskreis, in der Sportmannschaft, in der Kirchengemeinde, wenn dort Sprüche gegen Minderheiten fallen.
 
-> *„Bei Großdemonstrationen tragen wir in Westdeutschland bisher überhaupt keine sozialen Kosten. Aber in den nahen sozialen Bezugsgruppen — da können harte soziale Kosten des Ausschlusses mitgeliefert werden."*
+> *„Bei Großdemonstrationen, die unbedingt wichtig sind, tragen wir in Westdeutschland bisher überhaupt keine sozialen Kosten. In Ostdeutschland ist das schon anders, aber in den nahen sozialen Bezugsgruppen … können harte soziale Kosten des Ausschlusses mitgeliefert werden."* [▶ 79:04](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4744)
 
-Die entscheidende Frage: Bin ich **konfliktfähig** genug, dort die Stimme zu erheben, wenn rassistische Sprüche fallen? Oder schweige ich, weil ich noch etwas erben möchte, oder weil ich nicht aus der Gruppe ausgeschlossen werden will?
+Die entscheidende Frage: Bin ich **konfliktfähig** genug, dort die Stimme zu erheben? Oder schweige ich in der Verwandtschaft, weil ich noch etwas erben möchte, und im Freundeskreis, weil ich gern mit ihnen koche und esse und nicht ausgeschlossen werden will?
 
-> *„Ich habe die Befürchtung, dass wir einfach zu harmoniesüchtig sind."*
+> *„Ich habe leider die Befürchtung, und ich rede gar nicht von Ihnen oder so, ich rede von mir, dass wir einfach zu harmoniesüchtig sind."* [▶ 79:50](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=4790)
+
+### Musik, Justiz und das Lernen am Erfolg
+
+Ein ehemaliger Lehrer aus dem rheinland-pfälzischen Schuldienst, Christian Jenal, erzählt von dreißig Jahren Briefen und Strafanzeigen gegen Bands wie Cannibal Corpse, deren Texte sexualisierte Gewalt feiern und die heute in großen Hallen auftreten. Alles sei eingestellt worden. Er fragt, welche Hoffnung Heitmeyer in die Justiz setze.
+
+Heitmeyer nennt es eine „100.000-Dollar-Frage". Die Politik rufe bei solchen Ereignissen ritualisiert nach Strafverschärfung, doch die sei *„völlig nutzlos, wenn ich gleichzeitig die Anwendung der bestehenden Gesetze schon ausbleibt"* [▶ 85:24](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=5124). Staatsanwaltschaften und Gerichte seien so schlecht ausgestattet, dass sie nicht hinterherkommen. Und wer weiß, dass nichts folgt, lernt daraus, „lernpsychologisch gesehen Lernen am Erfolg". Auch das ist Struktur und Verhalten. Zuversicht kann er an dieser Stelle nicht bieten [▶ 86:56](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=5216).
+
+### Was versagt hat — und warum Belehrung nicht hilft
+
+Welches Regulativ hat versagt, Medien, Politik, Recht? Heitmeyer verweigert die eine Antwort. Jeder Raum hat seine eigenen Mechanismen, *„der Bundeskanzler kann nicht sowas anordnen"* [▶ 88:26](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=5306). Auf den Zuruf „Ethikunterricht!" antwortet er zögernd:
+
+> *„Belehrung kommt gegen Erfahrung nicht an."* [▶ 90:00](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=5400)
+
+Es komme darauf an, welche Erfahrungen Kinder in der Schule und im Netz machen. Schule sei organisiert, „Schwächen zu suchen, statt nach Stärken zu fahnden". Und Kinder wollen dazugehören. Wenn in der Clique Gewalt das Kriterium der Zugehörigkeit ist, geht etwas schief:
+
+> *„Denn niemand kann auf Dauer ohne Anerkennung leben. Und dann ist Gewalt eine exzellente Quelle für Anerkennung. Da weiß ich nämlich dann, wer hinter mir steht."* [▶ 93:06](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=5586)
+
+Was ist mit den Kindern, die den Pythagoras nicht „rauf und runter beten" können? Die Bildungspolitik sei in ihrem „Rankingwahn" besessen, und jede Vermessung schaffe Verlierer [▶ 93:54](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=5634). Eine Zuhörerin schlägt ein Pflichtfach Streitkultur vor. Heitmeyer schließt mit dem, was er „radikales Denken" nennt: eigene Konfliktfähigkeit, „mehr Mut wagen" [▶ 94:40](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=5680).
+
+> [!question] Weitergedacht
+> Wenn Gewalt Anerkennung verschafft, weil Schule nach Schwächen sucht: *Woher bekommt ein Jugendlicher Anerkennung, der nirgends glänzt — und wer ersetzt ihm die Gruppe, die in der Schlägerei hinter ihm steht?*
+
+### Warum nur deutsche Zahlen?
+
+Seine Datenreihen stammen fast alle aus Deutschland, mit Absicht. Bringe man internationale Ergebnisse, werde das sofort als Entlastung genutzt: *„Ja, wir sind ja nicht alleine … Alle haben die Probleme, also warum ich?"* [▶ 97:00](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=5820). Ein deutsches Problem allein sei die Durchrohung nicht. Die Empathie-Forschung kommt aus den USA, und die Besitzer der Algorithmen schaffen weltweit Strukturen.
+
+Die letzte Frage kommt von einer Zuhörerin, die das Wort *Femizid* vermisst hat und den Missbrauch in Familien, nicht nur in Kirche und Sport. Heitmeyer verweist auf das kleine Zeitfenster: In seiner Untersuchung komme das alles vor, auch die evangelische Kirche, deren „positives Selbstbild" in sich zusammengebrochen sei [▶ 99:15](https://www.youtube.com/watch?v=XGMlZmBjrlM&t=5955).
 
 ---
 
@@ -220,35 +294,106 @@ Die entscheidende Frage: Bin ich **konfliktfähig** genug, dort die Stimme zu er
 
 > [!abstract] Was diese Perspektive bietet
 > - Begriffsrahmen: Durchrohung (Prozess + Struktur) statt Verrohung (Verhalten + Person) — öffnet den Blick auf das Systemische
-> - Empirisch unterfüttert: keine Einzelfälle, sondern 17 Bereiche über lange Zeiträume
+> - Empirisch breit angelegt: keine Einzelfälle, sondern 17 Bereiche über lange Zeiträume
 > - Strukturelle Erklärung statt Moralisierung: die Frage ist nicht „Wer ist schuld?" sondern „Welche Strukturen machen das möglich?"
 
-> [!question] Offene Fragen
-> - Heitmeyer nennt den Empathierückgang als Kernproblem — aber ist Empathie wirklich messpflichtiger Kausalfaktor oder eher Symptom einer anderen Störung?
-> - Das Konfliktfähigkeits-Argument ist überzeugend, aber sehr individualistisch. Stimmt das mit dem eigenen Anspruch zusammen, Strukturen zu kritisieren und nicht zu individualisieren?
-> - Die Digitalisierungs-Diagnose ist breit geteilt (Habermas, Lanier, Spitzer). Aber was genau ist der Kausalweg zu physischer Gewalt — nicht nur zu Hass-Kommunikation?
+> [!note] Einschätzung
+> Die Stärke des Vortrags ist die Verbindung, die er erzwingt: Er lässt weder den Täter noch die Struktur aus der Verantwortung. Die Schwäche liegt im selben Ort. Die vier Erklärungen (Markt, Vereinzelung, Netz, Krisen) sind so weit gefasst, dass sie fast jede steigende Kurve erklären könnten. Was der Vortrag zeigt, sind gleichzeitige Entwicklungen; den Weg von einer Struktur zu einer konkreten Tat zeigt er selten. Am stärksten tragen die Daten, die nicht vom Anzeigeverhalten abhängen: die Schwerverletzten aus den Kliniken und die Dunkelfeld-Zeitreihe des BKA, die erst nach dem Vortrag erschien. Ausgerechnet sein Argument gegen die Sensibilisierungsthese, den Haupteinwand, ist sein schwächstes (→ Faktencheck).
+>
+> Der Vorwurf, sein Rat zur Konfliktfähigkeit widerspreche der Strukturkritik, greift dagegen zu kurz. Heitmeyer beantwortet ihn selbst: Das Klima werde „auch unten erzeugt", und der nahe Kreis ist genau der Raum, in dem der Einzelne Struktur ist — für die anderen am Tisch.
+
+---
+
+## Nachbesprechung
+
+*Zwei Fragen des Abends, noch einmal aufgenommen: ob die Kurven eine Verrohung messen oder unser Zählen, und warum Gewalt für manche die verlässlichste Anerkennung ist.*
+
+### Verrohen wir, oder zählen wir nur genauer?
+
+Heitmeyers Antwort auf die Sensibilisierungsthese ist die schwächste Stelle des Vortrags, denn die Dunkelfeldstudie, auf die er sich beruft, ist eine Momentaufnahme (→ [[#Faktencheck|Faktencheck]]). Recht bekommt er trotzdem, von einer Studie, die es erst seit Kurzem gibt. Die Dunkelfeldbefragung des BKA hat 2020 und 2024 dieselben Fragen gestellt. Der Anteil der Befragten, die Opfer einer Körperverletzung wurden, stieg von 2,0 auf 2,6 %, bei 16- und 17-Jährigen von 3,1 auf 8,5 %. Die Anzeigequote stieg dabei nicht, sie sank sogar leicht, von 33,5 auf 29,1 % (nicht signifikant) ([BKA, SKiD 2024](https://skid.bka.de/assets/files/SKiD2024_Ergebnisbericht.pdf)). Mehr Betroffene bei gleich vielen oder weniger Anzeigen: Für dieses Delikt ist der Anstieg kein Effekt der Aufmerksamkeit.
+
+Bei Jugendlichen ist das Bild gemischter. Der Niedersachsensurvey 2024 befragte 9.202 Neuntklässler: Die Opferquote liegt seit 2022 konstant bei 20,1 %, höher als in den Wellen davor, die Täterquote eher sinkend bei 6,7 %. Zugleich zeigt er „einen Anstieg im Anzeigeverhalten zwischen 2022 und 2024", also zum Teil genau die Verschiebung ins Hellfeld, die Heitmeyer für eine Beruhigungsformel hält. Und im Vergleich mit der bundesweiten Befragung von 2007/08 sieht das KFN „einen tatsächlichen Rückgang der Jugendkriminalität in der längerfristigen Perspektive" ([KFN, Forschungsbericht 171](https://kfn.de/wp-content/uploads/2025/10/FB_171.pdf)).
+
+Die lange Linie spricht ohnehin gegen das Bild einer Gesellschaft, die immer roher wird. In Europa fallen die Tötungsraten seit dem späten Mittelalter ([Eisner 2003, doi:10.1086/652229](https://doi.org/10.1086/652229)); wie belastbar die mittelalterlichen Zahlen sind, ist umstritten ([Schwerhoff et al. 2021, doi:10.1017/s0268416021000096](https://doi.org/10.1017/s0268416021000096)). Ausgerechnet Helmut Thome, den Heitmeyer zitiert, beschreibt den Verlauf als U-Kurve: Rückgang bis zur Mitte des 20. Jahrhunderts, dann ein Anstieg ([Thome 2001, doi:10.4000/chs.738](https://doi.org/10.4000/chs.738)). In Deutschland liegen die schwersten Taten, die kaum je unangezeigt bleiben, weit unter dem Niveau der Neunzigerjahre, Raub und vollendete Tötung. Gestiegen ist seit 2021 die Gewaltkriminalität insgesamt, um rund ein Drittel, also gerade die Delikte, bei denen Anzeige und Definition mitspielen ([[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet#Ein Thema, das nie tabu war|Walburg]]).
+
+Beides kann wahr sein: Über Jahrhunderte und Jahrzehnte ist die schwere Gewalt seltener geworden, und seit einigen Jahren werden mehr Menschen geschlagen. Heitmeyers „Zacken" passen zu dieser Lage besser als jede gerade Linie, seine wie die seiner Gegner. Was er Durchrohung nennt, wäre dann kein Absturz, sondern eine Umkehr auf einem Weg, der lange nach unten führte.
+
+→ Weiter im Panorama: **[[Panorama/Macht Migration kriminell#Wie viel ist Anzeige, wie viel Tat?|Wie viel ist Anzeige, wie viel Tat?]]**, mit BissenBlaBla, Walburg, Eralp und Kurz.
+
+### Gewalt als Anerkennung
+
+*„Niemand kann auf Dauer ohne Anerkennung leben. Und dann ist Gewalt eine exzellente Quelle für Anerkennung."* Der Satz klingt wie ein Einfall aus der Fragerunde, ist aber Heitmeyers eigene Theorie in einem Satz. Mit Reimund Anhut beschreibt er drei Arten von Anerkennung: einen Platz in der Gesellschaft (Arbeit, Position), Teilhabe an ihren Institutionen und emotionale Zugehörigkeit in Familie und Freundeskreis. Fehlen sie, kann Gewalt ein Weg sein, sich Status auf andere Weise zu holen ([Heitmeyer & Anhut 2008, doi:10.1002/yd.271](https://doi.org/10.1002/yd.271), Theorie).
+
+Die Forschung gibt ihm recht, mit einem genauen Zusatz. Eine Metaanalyse über 148 Stichproben mit mehr als 164.000 Jugendlichen findet: Wer Status sucht, also „vorankommen" will, mobbt und schlägt eher. Aggression bringt Ansehen, kostet aber Zuneigung; sie macht populär, nicht beliebt ([Social Goals and Gains Model 2023, doi:10.1016/j.dr.2023.101073](https://doi.org/10.1016/j.dr.2023.101073)). Die Anerkennung, die Gewalt verschafft, ist also die brüchige. An 39 deutschen Schulen zeigte sich außerdem, dass ein gewaltfreundliches Schulklima nicht auf alle wirkt, sondern nur auf die Schüler, die den „Code der Straße" schon verinnerlicht haben ([Kriminologisches Journal 2020, doi:10.18716/ojs/krimoj/2020.1.4](https://doi.org/10.18716/ojs/krimoj/2020.1.4), Einzelstudie). Die Schule ist kein Schicksal, aber sie entscheidet mit, welche Währung gilt.
+
+„Belehrung kommt gegen Erfahrung nicht an" lässt sich so nicht direkt prüfen, weil keine Studie Belehrung gegen Erfahrung antreten lässt. Die Präventionsforschung zeigt aber, worauf es ankommt. Programme für soziales und emotionales Lernen wirken über 213 Studien hinweg, auf Verhalten wie auf Leistung, aber nur, wo sie aktiv geübt und sauber umgesetzt werden ([Durlak et al. 2011, doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x); bestätigt über 424 Studien in 53 Ländern, [doi:10.1111/cdev.13968](https://doi.org/10.1111/cdev.13968)). Anti-Mobbing-Programme senken Täterschaft und Opfererfahrung, in moderatem Maß ([Gaffney, Ttofi & Farrington 2019, doi:10.1016/j.avb.2018.07.001](https://doi.org/10.1016/j.avb.2018.07.001), Metaanalyse über 100 Evaluationen). Das Olweus-Programm wirkte an deutschen Schulen nur dort, wo sie die achtzehn Monate durchhielten ([doi:10.1007/s00787-020-01647-9](https://doi.org/10.1007/s00787-020-01647-9)); in einer US-Studie fand sich gar kein Gesamteffekt ([Bauer et al. 2007, doi:10.1016/j.jadohealth.2006.10.005](https://doi.org/10.1016/j.jadohealth.2006.10.005)). Ein Programm, das gezielt Empathie üben lässt, verbesserte das Verhalten ein wenig, aber nicht über mehr Empathie ([Roots of Empathy, doi:10.3310/phr06040](https://doi.org/10.3310/phr06040)). Und wo Schulen Strafen durch Wiedergutmachung ersetzten, sanken die Schulverweise und das Klima wurde besser, die Leistungen aber nicht ([RAND 2018, doi:10.7249/rr2840](https://doi.org/10.7249/rr2840)).
+
+Am Ende bleibt Heitmeyers Frage offener, als sein Satz klingt. Dass Gewalt Anerkennung verschafft, ist gut belegt. Wie eine Schule eine andere Anerkennung verteilt, an das Kind, das den Pythagoras nicht aufsagen kann, dafür gibt es Ansätze, die wirken, wenn man sie lange genug durchhält, und keinen, der Gewalt nachweislich durch eine bessere Währung ersetzt hätte.
+
+→ Weiter im Panorama: **[[Panorama/Was macht Schule mit uns#Beschämen oder schonen?|Beschämen oder schonen?]]**, mit Marks, El-Mafaalani, Spitzer, Lengwenus und Musil.
 
 ---
 
 ## Faktencheck
 
-> [!success] Bestätigt
-> **Jürgen Habermas, gestorben 15. März 2026, 96 Jahre** — Bestätigt. Habermas (geb. 18. Juni 1929) starb am 15. März 2026. Sein Hauptwerk *Strukturwandel der Öffentlichkeit* (1962) ist der Referenzpunkt, den Heitmeyer zitiert.
+Bei der Polizeistatistik warnt Heitmeyer selbst, dass eine geänderte Zählweise die Kurve treibt. Bei den Obdachlosen, beim Kindesmissbrauch und bei der Empathie, wo die Zahl seine These trägt, fehlt diese Vorsicht. Sein schwächstes Glied ist ausgerechnet die Antwort auf den Haupteinwand: Die Sensibilisierungsthese widerlegt er mit einer einmaligen Befragung, die keinen Trend zeigen kann. Die Richtung bestätigt erst eine Zeitreihe, die nach dem Vortrag erschien.
 
 > [!success] Bestätigt
-> **Klaus Dörre: Kapitalistischer Landnahme-Begriff** — Korrekt. Dörre, Industriesoziologe und Professor in Jena, hat den Begriff der kapitalistischen Landnahme in die deutschsprachige Soziologie eingeführt. Quelle: *Kapitalistischer Landnahmeprozess und Arbeitnehmerrechte* und spätere Werke.
+> **Jürgen Habermas ist kurz vor dem Vortrag gestorben** — Er starb am 14. März 2026 in Starnberg mit 96 Jahren, zwei Tage vor dem Vortrag; Heitmeyers „am Sonntag" ist ein Versprecher. Quelle: [Max-Planck-Gesellschaft](https://www.mpg.de/26269576/juergen-habermas?c=2191), [evangelisch.de](https://www.evangelisch.de/inhalte/253670/14-03-2026/jurgen-habermas-gestorben)
+
+> [!success] Bestätigt, mit einer Unschärfe
+> **Missbrauch im Erzbistum Paderborn: „jeder 20. Pfarrer", von Jaeger und Degenhardt geschützt** — Die Studie der Universität Paderborn erschien am 12. März 2026 und nennt für 1941–2002 210 Beschuldigte und 489 Betroffene. Bezogen auf 4.825 Welt- und Ordensgeistliche sind das 4,35 %, gut jeder dreiundzwanzigste. Gemeint sind Beschuldigte, nicht Verurteilte; Heitmeyers „betrieben hat" macht aus Vorwürfen Gewissheit. Der Befund zum Schutz der Täter hält: „große Milde" gegenüber Beschuldigten, Versetzungen, gegenüber Rom das Argument Priestermangel. Die Quote liegt fast genau beim bundesweiten Wert der MHG-Studie (4,4 %). Paderborn ist kein Ausreißer, und das stützt das Strukturargument eher noch. Quelle: Priesching/Hartig, *Sexuelle Gewalt an Minderjährigen im Erzbistum Paderborn* (Brill Schöningh 2026), [doi:10.30965/9783657796625](https://doi.org/10.30965/9783657796625) · [Volltext](https://www.uni-paderborn.de/fileadmin/thema/MBS-Volltext.pdf) · [Correctiv](https://correctiv.org/aktuelles/missbrauch-in-der-katholischen-kirche/2026/04/02/missbrauch-kirche-paderborn-studie-zeigt-auch-der-vatikan-war-informiert/)
 
 > [!success] Bestätigt
-> **Jaron Lanier: Digitale Medien als Empathievernichter** — Korrekt dem Sinn nach. Lanier ist Informatiker und früher Pionier der Virtual Reality; bekannt für seine Medienkritik (*Ten Arguments for Deleting Your Social Media Accounts Right Now*, 2018). Er argumentiert, dass algorithmische Feeds systematisch auf negative Affekte optimieren.
+> **Mehr Schwerverletzte durch Messerangriffe, „kein Wahrnehmungsproblem"** — Das TraumaRegister DGU zählt Schwerverletzte nach Gewalttaten mit Stichwaffen: 212 (2013), 382 (2023, Höchstwert), 336 (2024), 1,28 % aller erfassten Schwerverletzten. Klinikdaten hängen nicht vom Anzeigeverhalten ab, insofern hat Heitmeyer recht. Die absoluten Zahlen sind klein, 2024 sank der Wert wieder, erfasst sind nur lebensbedrohliche Fälle. Quelle: Störmann et al., *Dtsch Arztebl Int* 2026, [doi:10.3238/arztebl.m2026.0079](https://doi.org/10.3238/arztebl.m2026.0079) (Registerdaten)
 
 > [!success] Bestätigt
-> **Rage Bait als Begriff** — Korrekt. Heitmeyer schreibt das Matthias Morstedt zu. Der Begriff *Rage Bait* bezeichnet kalkuliert empörungsauslösende Inhalte, die Engagement (Teilen, Kommentieren) maximieren.
+> **Mehr Gewalt gegen die Polizei, aber mit Vorsicht zu lesen** — Das BKA-Bundeslagebild 2024 zählt 46.367 Gewalttaten gegen Vollzugsbeamte, +38,5 % seit 2015, +0,3 % gegenüber 2023. Heitmeyers eigene Einschränkung stimmt: 87 % sind Widerstandshandlungen und tätliche Angriffe, und seit dem eigenen Tatbestand des tätlichen Angriffs (§ 114 StGB, 2017) zählt mehr als „Gewalt" als früher. Gefährliche und schwere Körperverletzungen stagnieren. Quelle: [beck-aktuell zum Bundeslagebild 2024](https://www.beck-aktuell.de/heute-im-recht/rechtspolitik-gesetzgebung/hoechststand-gewalt-polizei-einsatzkraefte-bundeslagebild-2025-12-29)
 
-> [!warning] Vereinfacht / nicht vollständig belegt
-> **48% Rückgang affektiver Empathie (30-Jahres-Metastudie USA)** — Korrekt dem Kern nach, aber mit Vorsicht zu behandeln. Heitmeyer bezieht sich wahrscheinlich auf Sara Konraths Meta-Analyse (2011, University of Michigan), die über 72 Studien von 1979–2009 ausgewertet hat und einen deutlichen Empathierückgang bei US-Studierenden zeigt. Die genaue Zahl 48% bezieht sich auf affektive Empathie-Skalen. Diese Studie wird breit zitiert, aber auch kritisiert (Selektionsbias durch Studierenden-Sample, methodische Heterogenität der ausgewerteten Studien). Die Grundaussage — sinkende Empathie — ist wissenschaftlicher Konsens; die Präzision der Zahl ist mit Vorsicht zu behandeln.
+> [!warning] Nicht verifizierbar
+> **Rettungsdienst: Angriffe +6,8 %** — Die Zahl ließ sich keinem BKA-Lagebild zuordnen. Das Lagebild 2024 meldet 2.916 angegriffene Rettungskräfte, den höchsten Wert seit 2018, gegenüber dem Vorjahr aber konstant. Über mehrere Jahre stimmt die Richtung, der jüngste Jahresvergleich zeigt keinen Anstieg. Quelle: [beck-aktuell](https://www.beck-aktuell.de/heute-im-recht/rechtspolitik-gesetzgebung/hoechststand-gewalt-polizei-einsatzkraefte-bundeslagebild-2025-12-29), [evangelisch.de](https://www.evangelisch.de/inhalte/251062/29-12-2025/erneut-mehr-angriffe-auf-polizei-und-rettungskraefte)
 
 > [!warning] Vereinfacht
-> **„45% der Amerikaner beziehen Informationen ausschließlich von sozialen Medien"** — Heitmeyer nennt die Zahl ohne Quelle. Der Anteil derer, die Social Media als primäre Nachrichtenquelle nutzen, liegt je nach Studie bei 20–35% (Pew Research). „Ausschließlich" wäre eine erhebliche Übertreibung. Die Grundaussage — Social Media als dominierende Informationsquelle — ist korrekt; die genaue Zahl ist nicht belegt.
+> **Obdachlose als Opfer: 602 (2011) → 2.194 (2024)** — Der Wert für 2024 ist amtlich (PKS, Opferspezifik „Obdachlosigkeit"), den für 2011 haben wir nicht gefunden. Wichtiger: Die Reihe hat einen Bruch. Zum 1. Januar 2014 änderten sich die PKS-Richtlinien für Opfermerkmale, und NRW erklärte den Sprung 2014 ausdrücklich mit der neuen Erfassung. Von 2023 auf 2024 blieb der Wert fast gleich (2.180 → 2.194). Bei der Polizei warnt Heitmeyer vor solchen Zählweisen, hier nicht, obwohl gerade diese lange Kurve seine These trägt. Quelle: [BT-Drs. 21/2183](https://dserver.bundestag.de/btd/21/021/2102183.pdf) · [Landtag NRW, Drs. 16/8316](https://fraktion2012.piratenpartei-nrw.de/wp-content/uploads/2015/09/M8316.pdf)
+
+> [!success] Bestätigt
+> **Gewalt gegen Lehrkräfte: 48 % (2018) → 65 % (2024)** — Die Zahlen stammen aus der forsa-Befragung von Schulleitungen für den VBE (2024: 1.311 Schulleitungen). Gemeint ist der Anteil der Schulen, an denen Lehrkräfte in den letzten fünf Jahren beschimpft, bedroht, gemobbt oder belästigt wurden; körperliche Angriffe stiegen von 26 auf 35 %. Es ist kein Anteil betroffener Lehrkräfte, seit 2020 ist die Kurve fast flach (61 → 62 → 65), und der Auftraggeber ist eine Gewerkschaft. Quelle: [forsa-Bericht für den VBE (2024)](https://vbe-nrw.de/wp-content/uploads/2025/01/Gewalt-an-der-Schule-und-gegen-Lehrkraefte_Bericht.pdf)
+
+> [!warning] Vereinfacht
+> **Sexueller Kindesmissbrauch: +20 % gegenüber fünf Jahren zuvor** — Die Zahl stimmt: 13.670 Fälle (PKS 2019), 16.354 (Bundeslagebild 2024), +19,6 %; gegenüber 2023 blieb sie fast gleich. Schon 2020 erklärte das Bundesinnenministerium einen Teil des Anstiegs damit, dass mehr Fälle aus dem Dunkelfeld ins Hellfeld gelangen. Das ist der Sensibilisierungseffekt, den Heitmeyer abwehrt; die Hellfeldzahl allein kann mehr Taten nicht von mehr Aufdeckung trennen. Quelle: [beck-aktuell zum Bundeslagebild 2024](https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/sexuelle-gewalt-kinder-jugendliche-bundeslagebild-2024-bka-bmi-2025-08-21) · [evangelisch.de zur PKS 2019](https://www.evangelisch.de/inhalte/167639/24-03-2020/starke-zunahme-bei-kinderpornografie-und-missbrauch)
+
+> [!warning] Vereinfacht
+> **Dunkelfeldstudie: 15.000 Befragte, bis zu 80 % negative Erfahrungen, nur 3 % angezeigt, also keine Sensibilisierung** — Gemeint ist sehr wahrscheinlich **LeSuBiA** (BKA mit BMI und BMBFSFJ, 10. Februar 2026): 15.479 Befragte aus der Bevölkerung zwischen 16 und 85, zu Partnerschaftsgewalt, sexualisierter Gewalt, Stalking und digitaler Gewalt. Die Anzeigequoten liegen meist unter 10 %, in Partnerschaften unter 5 %, bei digitaler Gewalt gegen Frauen bei 2,4 %; „3 %" passt ungefähr, „bis zu 80 %" steht dort nirgends. Der Schluss trägt nicht: LeSuBiA ist eine erste Welle und kann keinen Trend zeigen. Eine niedrige Anzeigequote macht Hellfeldzahlen sogar besonders empfindlich, schon kleine Änderungen der Anzeigebereitschaft verschieben sie stark. Die Richtung stützt erst der Viktimisierungssurvey SKiD (→ [[#Verrohen wir, oder zählen wir nur genauer?|Nachbesprechung]]). Quelle: [BKA zu LeSuBiA](https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260210_LeSuBiA.html) · [beck-aktuell](https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/dunkelfeldstudie-bka-gewalterfahrungen-deutschland-2026-02-10) · [netzpolitik.org](https://netzpolitik.org/2026/deepfakes-stalking-drohungen-wie-verbreitet-digitale-gewalt-wirklich-ist/)
+
+> [!warning] Veraltet
+> **Empathie um 48 % gesunken (30-Jahres-Metaanalyse, USA)** — Die Zahl stammt aus der Metaanalyse von Konrath, O'Brien und Hsing: 72 Stichproben von US-College-Studierenden 1979–2009, N = 13.737, Selbstauskunft. Empathische Anteilnahme sank um 48 %, Perspektivübernahme um 34 %, am stärksten nach 2000 ([doi:10.1177/1088868310377395](https://doi.org/10.1177/1088868310377395), Metaanalyse). Dieselbe Erstautorin hat die Reihe 2023 bis 2018 fortgeschrieben, an drei Datensätzen, zwei davon national repräsentativ: Perspektivübernahme und Anteilnahme **steigen seit 2009 wieder** ([Konrath et al. 2023, doi:10.1177/19485506231218360](https://doi.org/10.1177/19485506231218360)). 2026 als Gegenwartsbefund vorgetragen, trägt die alte Zahl die Erzählung, die neue widerspricht ihr. Ursachen hat die Studie von 2011 nicht getestet, nur vermutet (Narzissmus, Medien); den Kapitalismus nennt keine der beiden.
+
+> [!success] Zusammenhang bestätigt, Ursache umstritten
+> **„Je größer die Ungleichheit, desto höher die Gewaltraten"** — Eine Metaanalyse von 34 Studien fand 74 von 76 Korrelationen positiv, am deutlichsten bei Tötung und Körperverletzung ([Hsieh & Pugh 1993, doi:10.1177/073401689301800203](https://doi.org/10.1177/073401689301800203)). Die „britische Vergleichsuntersuchung" ist Wilkinson und Pickett ([Review, doi:10.1146/annurev-soc-070308-115926](https://doi.org/10.1146/annurev-soc-070308-115926)). Ob Ungleichheit die Ursache ist, bleibt umstritten: Wer die Armut mitkontrolliert, sieht den Effekt in zwei von drei Modellen verschwinden ([Pridemore 2011, doi:10.1093/bjc/azr019](https://doi.org/10.1093/bjc/azr019)). „Nicht wegzudenken" ist zu fest. Für Deutschland passt die Richtung: Der Gini-Koeffizient stieg von 0,282 (2010) auf 0,310 (2022) ([WSI-Verteilungsbericht 2025](https://www.wsi.de/data/pm_wsi_2025_11_20.pdf)).
+
+> [!success] Bestätigt
+> **Helmut Thome und Klaus Dörre** — Thome arbeitet seit Jahren über Anomie und Gewaltkriminalität im Anschluss an Durkheim ([*Zeitschrift für Soziologie* 2016, doi:10.1515/zfsoz-2015-1015](https://doi.org/10.1515/zfsoz-2015-1015)). Dörre hat das Landnahme-Theorem für den Finanzmarktkapitalismus erneuert; der Gedanke ist älter (Rosa Luxemburg 1913, Burkart Lutz 1984), Heitmeyers „vor allem ins Spiel gebracht" passt ([*Berliner Journal für Soziologie* 2012, doi:10.1007/s11609-012-0176-1](https://doi.org/10.1007/s11609-012-0176-1)).
+
+> [!success] Bestätigt
+> **Jaron Lanier: digitale Medien als Empathievernichter** — Das sechste seiner *Ten Arguments for Deleting Your Social Media Accounts Right Now* (2018) lautet sinngemäß: Social Media zerstört die Fähigkeit zur Empathie, weil wir andere nur noch ohne Kontext sehen. Quelle: [Kapitelübersicht](https://anaulin.org/blog/book-ten-arguments-for-deleting-your-social-media-right-now/)
+
+> [!warning] Urheber nicht auffindbar
+> **„Wut ist der Treibsatz der digitalen Öffentlichkeit", Rage Bait** — Der Begriff ist etabliert (Oxford Word of the Year 2025, Jugendwort 2026). Den Namen, den der Mitschnitt hergibt („Matthias Morstedt"), und den zitierten Satz haben wir nicht gefunden; vermutlich verhört. Quelle: [sonntagsblatt](https://www.sonntagsblatt.de/artikel/medien/wort-des-jahres-2025-was-hinter-dem-phaenomen-rage-bait-steckt) · [Deutschlandfunk](https://www.deutschlandfunk.de/ragebait-ist-das-jugendwort-des-jahres-102.html)
+
+> [!danger] Falsch
+> **„45 % der Amerikaner beziehen ihre Informationen ausschließlich aus Facebook"** — Laut Pew (August 2025) holen sich 38 % der US-Erwachsenen regelmäßig *auch* Nachrichten auf Facebook und 53 % zumindest manchmal über soziale Medien überhaupt. Wie viele sich *ausschließlich* über eine Plattform informieren, misst keine Erhebung. Das „ausschließlich" macht aus „auch" ein „nur". Quelle: [Pew Research, Social Media and News Fact Sheet (2025)](https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/)
+
+> [!warning] Vereinfacht
+> **Zuckerbergs unveröffentlichte Studien** — Der Kern hält: Interne Instagram-Forschung wurde 2020 auch Zuckerberg vorgestellt und erst durch die „Facebook Files" des *Wall Street Journal* (September 2021, Frances Haugen) öffentlich; eine Folie: „We make body image issues worse for one in three teen girls". Das bezog sich auf Mädchen, die schon Probleme mit ihrem Körperbild hatten, die Stichproben waren klein; „katastrophal" ist Heitmeyers Zuspitzung. In der Forschung ist der Zusammenhang zwischen Social-Media-Nutzung und Depression bei Jugendlichen klein, aber signifikant (r = .11, sehr heterogen; [Ivie et al. 2020, doi:10.1016/j.jad.2020.06.014](https://doi.org/10.1016/j.jad.2020.06.014), Metaanalyse). Die Faktenchecker schaffte Meta 2025 nur in den USA ab. Quelle: [ABC7 zur WSJ-Recherche](https://abc7news.com/facebook-knows-instagram-is-toxic-for-teen-girls-mental-health-teenage-body-image-issues/11022272/)
+
+> [!success] Bestätigt
+> **Zuckerberg: „maskuline Energie", eine Kultur, die Aggression feiert** — Bei Joe Rogan sagte er im Januar 2025, Unternehmen seien „culturally neutered", und eine Kultur, die „celebrates the aggression a bit more", habe Vorzüge. Es ging um Unternehmenskultur; Heitmeyer lässt nur das „ein bisschen mehr" weg. Quelle: [Fortune, 13.01.2025](https://www.fortune.com/2025/01/13/zuckerberg-says-companies-need-more-masculine-energy)
+
+> [!success] Bestätigt, knapp
+> **Die AfD ist die erfolgreichste Partei auf TikTok** — Im Bundestagswahlkampf 2025 lag sie bei den Aufrufen vorn: 98 Mio., vor SPD (73 Mio.) und FDP (69 Mio.). Die Linke legte stark zu (54 Mio.), und am weitesten reichten laut IW persönliche Themen. Die Plattform belohnt Emotion, nicht nur aggressive. Quelle: [IW Köln](https://www.iwkoeln.de/studien/hendrik-boehmer-jan-felix-engler-zwischen-selbstdarstellung-und-politischer-botschaft.html) · [FES, „Swipe, Like, Vote"](https://www.fes.de/news/analyse-des-bundestagswahlkampfs-2025-auf-tiktok)
+
+> [!success] Bestätigt
+> **Ordnungsrufe im Bundestag seit 2017, vor allem gegen die AfD** — In der 18. Wahlperiode (2013–2017) gab es zwei Ordnungsrufe, in der 19. (2017–2021) 47 bis 49, in der 20. (2021–2025) 135; die meisten gingen an die AfD, danach an die Linke. Die AfD hält das Präsidium für parteiisch; Ordnungsrufe messen also auch, wie das Präsidium urteilt. Der Sprung von zwei auf rund fünfzig fällt aber genau mit ihrem Einzug zusammen. Quelle: [dpa via inFranken (21.01.2024)](https://www.infranken.de/deutschland/gereizte-stimmung-im-bundestag-art-5820918)
 
 ---
 
@@ -316,16 +461,27 @@ Die Sensibilisierungsthese, die Heitmeyer abwehrt, kehrt bei [[BissenBlaBla — 
 ### → [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 Wie Heitmeyer hält Walburg die Anzeigebereitschaft für einen Teil der Erklärung, nicht für die ganze, und erklärt die Kriminalität von Zugewanderten aus Alter, Status und Lebenslage statt aus Herkunft.
 
----
+### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
+Konkreter Fallbeleg für institutionalisierte Enthemmung: Zwei Tage nach dem NiUS-Artikel erhält Kantinenpächterin Frau A Morddrohungen. Nicht einzelne Schreiber sind das Problem — NiUS ist die Struktur, die Heitmeyers "Durchrohung" betreibt: Gewaltfantasien werden systematisch stimuliert, nicht trotz, sondern durch das Medienformat.
 
-## Weiterführend
+### → [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
 
-- **Wilhelm Heitmeyer**: *Deutsche Zustände* (10 Bände, Suhrkamp, 2002–2011) — Langzeitstudie zur gruppenbezogenen Menschenfeindlichkeit
-- **Ulrich Beck**: *Risikogesellschaft* (Suhrkamp, 1986) — Individualisierungsthese
-- **Andreas Reckwitz**: *Die Gesellschaft der Singularitäten* (Suhrkamp, 2017) — Singularisierung und Wertesubjektivierung
-- **Jaron Lanier**: *Ten Arguments for Deleting Your Social Media Accounts Right Now* (2018) — Plattformkritik
-- **Sara Konrath et al.**: *Changes in Dispositional Empathy in American College Students Over Time: A Meta-Analysis* (2011) — Empathie-Metaanalyse
-- **Jürgen Habermas**: *Strukturwandel der Öffentlichkeit* (1962, Neuauflage Suhrkamp) — Öffentlichkeitstheorie
+Tianas Analyse ist der US-Kontext zu Heitmeyers Empathieverlust-These: Wenn Schulessen-Schulden als "individuelle Verantwortung" gelten und medizinische Insolvenz als "normaler Dienstag" — dann ist Enthemmung gegenüber anderen nicht Einzelfall, sondern strukturelle Konsequenz eines Systems, das Schwäche als persönliches Versagen rahmt.
+
+### → [[MONITOR — Sparhammer gegen Jugendliche]]
+
+Heitmeyers strukturelle Brutalität trifft auf die Jugendhilfe-Kürzungen mit besonderer Schärfe: Wer Einzelfallhilfen durch Gruppenangebote ersetzt und §41a streicht, folgt der Logik der Durchrohung — Sparentscheid als Haushaltszwang kaschiert eine politische Priorisierung, die Schwächste systematisch ausblendet.
+
+### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+
+Das neuronale Substrat der Durchrohung: Was Heitmeyer soziologisch als schichtweise Normalisierung gruppenbezogener Menschenfeindlichkeit beschreibt, beginnt bei Yu als mPFC-Abschaltung im Einzelhirn — und ihre Rehumanisierungs-Strategien sind der Versuch, den Prozess an der Wurzel umzukehren.
+
+### → [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]
+
+Die Durchrohung im Zeitraffer eines Schuljahres, erzählt 1906: Vom Diebstahl über die Erpressung zur Folter, von drei Tätern zur halben Klasse — jede Stufe normalisiert die nächste, und die Institution registriert erst die Störung, nie den Prozess.
+
+### Weitere Brücken
+
 - [[Annette Kehnel — Vom Mittelalter für die Zukunft lernen]] — Kehnel zeigt mittelalterliche Gemeinschaftsformen und kollektive Rituale als positiven Kontrastpunkt zu Heitmeyers Diagnose des Verlusts von Gemeinschaft und sozialer Bindung
 - [[Volker Quaschning — Sprit-Abzocke und Ölabhängigkeit]] — Quaschning macht sichtbar, wie Menschen ohne Auto in der Spritpreisdebatte politisch unsichtbar sind — ein konkretes Beispiel für Heitmeyers "institutionelle Diskriminierung": soziale Gruppen, die systematisch aus dem Diskurs fallen.
 - [[Thomas Fricke — Wie die Wirtschaftskrise den Rechten nützt (Surplus)]] — Frickes Kontrollverlust-These und Heitmeyers Verrohungsdiagnose ergänzen sich: Wer das Gefühl verliert, Herr der eigenen Lage zu sein, verliert auch die Grundlage für Empathie und soziale Bindung
@@ -352,21 +508,28 @@ Wie Heitmeyer hält Walburg die Anzeigebereitschaft für einen Teil der Erkläru
 - [[Ronen Steinke — Meinungsfreiheit Voelkermord und Verfassungsschutz]] — Steinke beschreibt die rechtliche Seite der Verrohung: wie eine Paragraphenflut und selektive Strafverfolgung den gesellschaftlichen Diskursraum einschränken — Heitmeyers Empathieverlust als institutionalisierte Praxis
 - [[Markus Gabriel — Soziale Netzwerke Neue Theorie]] — Gabriel zeigt die ontologische Ursache dessen, was Heitmeyer empirisch als digitale Verrohung misst: Sozialen Netzwerken fehlt die Triangulation — der korrigierende Gegenstand. Wo nichts korrigieren kann, erodiert Empathie strukturell.
 
-### → [[Zeitgeist/Topfvollgold — NiUS erfindet Islam-Skandal]]
-Konkreter Fallbeleg für institutionalisierte Enthemmung: Zwei Tage nach dem NiUS-Artikel erhält Kantinenpächterin Frau A Morddrohungen. Nicht einzelne Schreiber sind das Problem — NiUS ist die Struktur, die Heitmeyers "Durchrohung" betreibt: Gewaltfantasien werden systematisch stimuliert, nicht trotz, sondern durch das Medienformat.
+---
 
-### → [[Zeitgeist/Tiana Travels — Das amerikanische Betriebssystem]]
+## Weiterführend
 
-Tianas Analyse ist der US-Kontext zu Heitmeyers Empathieverlust-These: Wenn Schulessen-Schulden als "individuelle Verantwortung" gelten und medizinische Insolvenz als "normaler Dienstag" — dann ist Enthemmung gegenüber anderen nicht Einzelfall, sondern strukturelle Konsequenz eines Systems, das Schwäche als persönliches Versagen rahmt.
+- **Wilhelm Heitmeyer**: [*Die Durchrohung der Gesellschaft*](https://www.genialokal.de/Suche/?q=9783518127933) (edition suhrkamp, erscheint 27.10.2026) — das Buch zum Vortrag
+- **Wilhelm Heitmeyer**: *Deutsche Zustände* (10 Bände, Suhrkamp, 2002–2011) — Langzeitstudie zur gruppenbezogenen Menschenfeindlichkeit
+- **Ulrich Beck**: *Risikogesellschaft* (Suhrkamp, 1986) — Individualisierungsthese
+- **Andreas Reckwitz**: *Die Gesellschaft der Singularitäten* (Suhrkamp, 2017) — Singularisierung und Wertesubjektivierung
+- **Jaron Lanier**: *Ten Arguments for Deleting Your Social Media Accounts Right Now* (2018) — Plattformkritik
+- **Sara Konrath et al.**: *Changes in Dispositional Empathy in American College Students Over Time: A Meta-Analysis* (2011), [doi:10.1177/1088868310377395](https://doi.org/10.1177/1088868310377395) — und die Fortschreibung von 2023, die seit 2009 wieder steigende Empathie findet: [doi:10.1177/19485506231218360](https://doi.org/10.1177/19485506231218360)
+- **Jürgen Habermas**: *Strukturwandel der Öffentlichkeit* (1962, Neuauflage Suhrkamp) — Öffentlichkeitstheorie
+- **Thomas Bauer**: *Die Vereindeutigung der Welt. Über den Verlust an Mehrdeutigkeit und Vielfalt* (Reclam, 2018) — die schwindende Ambiguitätstoleranz
+- **Klaus Dörre, Stephan Lessenich, Hartmut Rosa**: *Soziologie – Kapitalismus – Kritik. Eine Debatte* (Suhrkamp, 2009) — darin Dörres Begriff der kapitalistischen Landnahme
 
-### → [[MONITOR — Sparhammer gegen Jugendliche]]
+---
 
-Heitmeyers strukturelle Brutalität trifft auf die Jugendhilfe-Kürzungen mit besonderer Schärfe: Wer Einzelfallhilfen durch Gruppenangebote ersetzt und §41a streicht, folgt der Logik der Durchrohung — Sparentscheid als Haushaltszwang kaschiert eine politische Priorisierung, die Schwächste systematisch ausblendet.
+## Weiterdenken
 
-### → [[Denker/Liya Yu — Dehumanisierung und Rehumanisierung]]
+> [!question] Was Sokrates vielleicht gefragt hätte
+> - Heitmeyer will die Psychologisierung vermeiden, weil sie Strukturen schützt. Aber schützt die Strukturerklärung nicht ebenso — den Einzelnen, der sagen kann, *das System habe ihn so gemacht*? Wie hält man beides fest, ohne dass eines das andere verschluckt?
+> - Wenn Gewalt eine Quelle von Anerkennung ist, wo es keine andere gibt: *Welche Anerkennung kann eine Gesellschaft verteilen, die nicht über Rang, Ranking und Sieg läuft?*
+> - Er hält die Zahlen bewusst national, damit niemand sagt: „Alle haben das Problem." Was verliert man dabei — etwa den Blick auf Länder, in denen dieselben Plattformen, aber andere Strukturen andere Kurven erzeugen?
+> - [[Zeitgeist/Alena Buyx — Gesellschaft NEU DENKEN|Buyx]] liest die Verachtung im Ton als Frühwarnzeichen, Heitmeyer den Prozess dahinter. *Wann hast du zuletzt am eigenen Tisch geschwiegen — und was hätte es dich gekostet, es nicht zu tun?*
+> - Wenn Belehrung gegen Erfahrung nicht ankommt: Was ist dann diese Note, was ist dieser Vortrag — und welche Erfahrung müsste folgen, damit er etwas ändert?
 
-Das neuronale Substrat der Durchrohung: Was Heitmeyer soziologisch als schichtweise Normalisierung gruppenbezogener Menschenfeindlichkeit beschreibt, beginnt bei Yu als mPFC-Abschaltung im Einzelhirn — und ihre Rehumanisierungs-Strategien sind der Versuch, den Prozess an der Wurzel umzukehren.
-
-### → [[Denker/Robert Musil — Die Verwirrungen des Zoeglings Toerless]]
-
-Die Durchrohung im Zeitraffer eines Schuljahres, erzählt 1906: Vom Diebstahl über die Erpressung zur Folter, von drei Tätern zur halben Klasse — jede Stufe normalisiert die nächste, und die Institution registriert erst die Störung, nie den Prozess.

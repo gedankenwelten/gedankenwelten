@@ -850,7 +850,7 @@ Humboldt aktualisiert diesen Index automatisch nach jeder Tiefenanalyse.
 **Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang Kaleck]]
 
 ## Wilhelm Heitmeyer
-**Status:** Stub
+**Status:** ✓ Vollanalyse → [[DenkerVita/Wilhelm Heitmeyer]]
 
 ## Wolfgang M. Schmitt
 **Status:** ✓ Vollanalyse → [[DenkerVita/Wolfgang M. Schmitt]]

@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-18",
+ "stand": "2026-10-19",
  "tage": 30,
  "zaehlt": "leser-sitzungen",
  "pfade": [
@@ -419,11 +419,6 @@
      "aufrufe": 3
     },
     {
-     "pfad": "/DenkerVita/Torsten-Heinrich",
-     "leser": 3,
-     "aufrufe": 3
-    },
-    {
      "pfad": "/Gedanken/Der-Stein-in-der-Luft-was-wir-werfen,-faellt-zurueck",
      "leser": 3,
      "aufrufe": 3
@@ -540,6 +535,11 @@
     },
     {
      "pfad": "/DenkerVita/Ruben-Mawick",
+     "leser": 2,
+     "aufrufe": 2
+    },
+    {
+     "pfad": "/DenkerVita/Torsten-Heinrich",
      "leser": 2,
      "aufrufe": 2
     },
@@ -1883,7 +1883,7 @@
     },
     {
      "pfad": "/Denker/Carlo-Cipolla-Die-fünf-Gesetze-der-Dummheit",
-     "wert": 61,
+     "wert": 66,
      "leser": 28,
      "aufrufe": 28
     },

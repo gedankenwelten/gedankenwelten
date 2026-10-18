@@ -2,7 +2,7 @@
 title: "Was macht Schule mit uns?"
 date: 2026-10-04
 erstellt: 2026-10-04
-aktualisiert: 2026-10-08
+aktualisiert: 2026-10-18
 description: "Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben."
 panorama-art: wachsend
 raetsel: "Die Ecke ist leer. Der Schemel darin steht noch."
@@ -50,6 +50,8 @@ Was sie anrichtet, ist gut untersucht. Über 108 Studien hängt Scham stärker m
 
 Das Schonen ist keine Antwort. Überhöhtes Lob bringt gerade Kinder mit niedrigem Selbstwert dazu, Herausforderungen zu meiden ([Brummelman et al. 2014, doi:10.1177/0956797613514251](https://doi.org/10.1177/0956797613514251)). Die Schweizer Fehlerforscher Fritz Oser und Maria Spychiger beschreiben das „Bermuda-Dreieck“: Die Lehrkraft übergeht den Fehler, ruft ein anderes Kind auf, und der Fehler verschwindet ungenutzt (*Lernen ist schmerzhaft*, 2005). Den dritten Weg trifft eine Meta-Analyse am genauesten: Scham führt zu Wiedergutmachung und Selbstverbesserung, wenn das Versagen *reparierbar* erscheint, und zu Rückzug, wenn nicht ([Leach & Cidam 2015, doi:10.1037/pspa0000037](https://doi.org/10.1037/pspa0000037)). Im Mathematikunterricht lässt sich das als *Fehlerklima* messen; die Bereitschaft, aus Fehlern zu lernen, sinkt in der fünften und sechsten Klasse, ein gutes Fehlerklima bremst den Abfall ([Dresel et al. 2024, doi:10.1111/bjep.12697](https://doi.org/10.1111/bjep.12697)).
 
+Was geschieht mit dem Kind, das in der Schule keine Anerkennung findet? Es sucht sie woanders, und Gewalt ist eine verlässliche Quelle: Wer Status sucht, mobbt und schlägt eher, gewinnt damit Ansehen und verliert Zuneigung ([Social Goals and Gains Model 2023, doi:10.1016/j.dr.2023.101073](https://doi.org/10.1016/j.dr.2023.101073), Metaanalyse über 148 Stichproben). Ein gewaltfreundliches Schulklima wirkt dabei vor allem auf die, die den „Code der Straße" schon verinnerlicht haben ([Kriminologisches Journal 2020, doi:10.18716/ojs/krimoj/2020.1.4](https://doi.org/10.18716/ojs/krimoj/2020.1.4)). Prävention wirkt, wo sie geübt statt gepredigt und lange genug durchgehalten wird ([Durlak et al. 2011, doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x); [Gaffney, Ttofi & Farrington 2019, doi:10.1016/j.avb.2018.07.001](https://doi.org/10.1016/j.avb.2018.07.001)).
+
 **Die Stimmen**
 
 - **[[Stephan Marks und Aladin El-Mafaalani — Unter der Wut die Scham#Scham zumuten, ohne zu beschämen|Stephan Marks]]:** Die alte Härte ist falsch, aber auch die Lehrkraft, die zu Fehlern schweigt, lässt das Kind allein; nötig ist die Zumutung ohne Demütigung.
@@ -58,11 +60,12 @@ Das Schonen ist keine Antwort. Überhöhtes Lob bringt gerade Kinder mit niedrig
 - **[[Raul Krauthausen — Teilgabe statt Teilhabe#Schicksalsgemeinschaft und das Recht auf Niederlagen|Raúl Krauthausen]]:** Auch behinderte Kinder haben ein Recht auf Niederlagen. Dass man das Glas nicht allein heben kann, lernt man besser mit drei als mit dreißig, nachdem einem bis dahin immer jemand das Glas gehalten hat; die Niederlage, die andere einem bereiten, ist eine andere.
 - **Björn Lengwenus** ([▶ 15:17](https://www.youtube.com/watch?v=baoJB6HrpWo&t=917), *Schule von unten*): Sein Vater flog mit fünfzehn von der Schule und trägt es sechzig Jahre später noch im Herzen. Beschämung sei Tagesordnung, „indem wir Noten geben, indem wir meckern, indem wir Menschen vorführen“; der Sohn leitet heute die Schule, von der der Vater flog ([▶ 16:02](https://www.youtube.com/watch?v=baoJB6HrpWo&t=962)).
 - **[[Marcant — Ausstieg aus der rechten Szene#Das virale Interview als Konfrontation mit sich selbst|Felix]]:** Erst die öffentliche Bloßstellung hat ihm die Augen geöffnet, „zwar auf die schlimmste Weise“.
-- **[[Tiana Travels — Das amerikanische Betriebssystem#Kinder in der Schulden-Spirale|Tiana]]:** In den USA ist Beschämung Verwaltung: Dem Kind mit leerem Essenskonto wird das Tablett weggenommen.
+- **[[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft#Was versagt hat — und warum Belehrung nicht hilft|Wilhelm Heitmeyer]]:** Schule sucht Schwächen statt Stärken, und wer nirgends glänzt, findet Anerkennung in der Gruppe: „Dann ist Gewalt eine exzellente Quelle für Anerkennung.“
 - **[[Andreas Zimpel — Neurodiversität#3. Selbsteinschätzung — der stärkste Bildungsfaktor|André Zimpel]]:** Dialog statt Bewertung: Ein Kind, das sich als „Bild-Denker“ statt als „dumm“ erkennt, findet seinen Lernweg.
 
-<details><summary>Weitere Stimmen (9)</summary>
+<details><summary>Weitere Stimmen (10)</summary>
 
+- **[[Tiana Travels — Das amerikanische Betriebssystem#Kinder in der Schulden-Spirale|Tiana]]:** In den USA ist Beschämung Verwaltung: Dem Kind mit leerem Essenskonto wird das Tablett weggenommen.
 - **[[Hartwin Maas — Bildung NEU DENKEN#Erlernte Hilflosigkeit — das Seligman-Experiment|Hartwin Maas]]:** Die Gegenkante: Helikoptereltern räumen jeden Konflikt weg, und Kinder ohne Übung im Scheitern brechen später zusammen.
 - **Bianca Freudenberg-Rehage** ([▶ 46:53](https://www.youtube.com/watch?v=baoJB6HrpWo&t=2813), *Schule von unten*): Mentoren sagen ihren Referendaren „ich habe gelitten im Ref, jetzt musst du auch mal leiden“, und wer das durchzieht, gibt es an die nächste Generation weiter. Ihr eigener Weg in der Schule „begann früh mit Beschämung und Vorführung“ ([▶ 3:04](https://www.youtube.com/watch?v=baoJB6HrpWo&t=184)).
 - **Stefan Ruppaner** ([▶ 59:15](https://www.youtube.com/watch?v=baoJB6HrpWo&t=3555), *Schule von unten*): „Du sollst das ruhig auch schlecht in der Schule haben. Das härtet ab“ — das hält er für grundfalsch.
@@ -262,6 +265,7 @@ Was Schule darüber hinaus leistet, ist schwer zu messen. Ob politische Bildung 
 | 08.10.2026 | [[Roberto Simanowski — Sprachmaschinen#Nachbesprechung|Roberto Simanowski — Sprachmaschinen]] | Auslagern an die KI: Risko & Gilbert, Kosmyna (Preprint), Lee et al., Generierungs- und Testing-Effekt → mündliche Prüfung |
 | 08.10.2026 | [[Raul Krauthausen — Teilgabe statt Teilhabe#Nachbesprechung|Raúl Krauthausen — Teilgabe statt Teilhabe]] | Gehören alle Kinder in dieselbe Klasse? Exklusionsquote, Kocaj 2014/2018, Dalgaard 2022, Kontakt, Koster 2010 |
 | 08.10.2026 | [[Harald Welzer und Barbara Bleisch — Grosszuegigkeit und Gegenwaertigkeit#Nachbesprechung|Welzer und Bleisch — Großzügigkeit und Gegenwärtigkeit]] | Sortiert die Schule nach Herkunft? PISA 2025, Scharf 2020, Mentoring-RCTs, Startchancen |
+| 18.10.2026 | [[Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft#Gewalt als Anerkennung|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]] | Beschämen oder schonen → Gewalt als Anerkennung: Heitmeyer & Anhut 2008, Social Goals and Gains 2023, Street-Code-Studie 2020 · Prävention: Durlak 2011, SEL 2023, Gaffney 2019, Olweus DE 2020 / Bauer 2007, Roots of Empathy 2018, RAND 2018 |
 
 ---
 

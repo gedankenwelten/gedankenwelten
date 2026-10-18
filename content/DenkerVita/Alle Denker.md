@@ -256,6 +256,8 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Heiner Flassbeck|Heiner Flassbeck]]** — Ökonom, ehem. Staatssekretär BMF unter Lafontaine, Chefökonom UNCTAD; Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden; Keynesianischer Einzelkämpfer im ordoliberalen Deutschland
 
+**[[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]** — Soziologe und Gewaltforscher (Bielefeld, Gründungsdirektor IKG); prägte die gruppenbezogene Menschenfeindlichkeit (*Deutsche Zustände*), den autoritären Nationalradikalismus und die „Durchrohung“ als strukturelle Verrohung
+
 **[[DenkerVita/Helen Fisher|Helen Fisher]]** — Biologische Anthropologin (Rutgers, Kinsey Institute, 1945–2024); Neurobiologie der romantischen Liebe, Drei-Systeme-Modell (Lust / Anziehung / Bindung), Liebe als „drive state“; fMRT-Pionierin mit Aron & Brown, Chief Science Advisor Match.com, TED-All-Star
 
 **[[DenkerVita/Helen Keller|Helen Keller]]** — Völkerrechtlerin, Professorin an der Uni Zürich, neun Jahre Richterin am EGMR

@@ -387,7 +387,7 @@ gleichzeitig, nie im Hintergrund:
 |---|---|---|---|
 | **Humboldt** | Schritt 0, nur wenn keine DenkerVita existiert | Opus (öffentlicher Text) | Vita-Datei + Index-Zeilen |
 | **Sherlock** | Schritt 5b, am Transkript und am Notenentwurf | Opus | `## Faktencheck`-Block + „Still korrigieren“-Liste |
-| **Nachbesprechungs-Recherche** | Schritt 5d.2 — **ein** Agent für alle gewählten Themen zusammen | Sonnet | je Thema Forschung (DOI), Fälle, Stimmen mit Abschnitt-Anker |
+| **Nachbesprechungs-Recherche** | Schritt 5d.2 — **ein** Agent für alle gewählten Themen zusammen | Opus | je Thema Forschung (DOI), Fälle, Stimmen mit Abschnitt-Anker |
 | **Montaigne** | Schritt 6, gegen die fertige Note | Opus | Verbindungs-Kandidaten mit Begründung |
 
 **Das Banner (Schritt 10c) macht die Hauptinstanz selbst** — es ist im Kern ein Skript-Aufruf
@@ -757,7 +757,7 @@ Nach Faktencheck und Stimme, **vor** Cross-Linking — so kann Montaigne die Pan
    Das eine führt nach [Panorama X], das andere wäre eine neue Frage."* Andreas entscheidet. Das
    Auswählen ist das eigentliche Urteil — die Themen, bei denen echte Neugier entsteht oder der Sprecher
    etwas Wichtiges offen lässt, nicht alle.
-2. **Recherche** (**ein** Subagent für alle gewählten Themen zusammen, Sonnet — nicht einer je Thema): Forschung mit DOI über `wiss_search.py` (Solidität markieren:
+2. **Recherche** (**ein** Subagent für alle gewählten Themen zusammen, Opus — nicht einer je Thema): Forschung mit DOI über `wiss_search.py` (Solidität markieren:
    Review > Einzelstudie), Fälle und aktueller Stand (Jina/DuckDuckGo), Funfacts nur belegt. Dazu eine
    **Stimmensuche im Bestand** (grep + RAG `"answer": false`): wer bezieht zur Frage echte Position, mit
    exaktem Abschnitt für den Anker. Heiße Fakten (Tagesaktuelles, Zahlen) vor dem Schreiben selbst gegenprüfen.

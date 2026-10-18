@@ -28,6 +28,10 @@ Die Gedankenwelten (luc)
 >
 > Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
 
+> **18.10.** — [[Zeitgeist/Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft|Wilhelm Heitmeyer — Die Durchrohung der Gesellschaft]]
+>
+> Wer Verrohung nur am Täter erklärt, schützt die Strukturen, die sie hervorbringen. Heitmeyer fragt, was Markt, Vereinzelung, Netz und Krisen aus uns machen.
+
 > **17.10.** — [[Zeitgeist/Martin Sonneborn — Endloser Krieg|Martin Sonneborn — Endloser Krieg]]
 >
 > Ein Satiriker sieht im Ukraine-Krieg ein Geschäft, das nie enden soll. Seine Rechnung stimmt öfter, als man denkt — nur fehlt in ihr der, der angefangen hat.
@@ -40,13 +44,17 @@ Die Gedankenwelten (luc)
 >
 > Ein Fischschwarm braucht keinen Dirigenten: Uwe Krüger zeigt 2017, wie Leitmedien gleich klingen, ohne dass jemand lenkt — und neun Jahre später wird nachgeprüft, was davon trägt.
 
-> **16.10.** — [[Zeitgeist/Uwe Krueger — Netzwerke der Meinungsmacht|Uwe Krüger — Netzwerke der Meinungsmacht]]
->
-> Ein Chefredakteur im Vorstand der Atlantik-Brücke, ein Foto, aus dem er herausgeschnitten wurde: Uwe Krüger über Nähe zwischen Journalisten und Eliten, und warum sich ihr Einfluss nicht beweisen lässt.
-
-> → *12 weitere in* [[Zeitgeist]]
+> → *5 weitere in* [[Zeitgeist]]
 
 ### Panorama
+
+> **18.10.** — [[Panorama/Was macht Schule mit uns|Was macht Schule mit uns?]]
+>
+> Ein Schemel in der Ecke, eine Empfehlung nach der vierten Klasse, eine Ziffer unter der Klassenarbeit, ein Handy in der Tasche: Fünf offene Fragen dazu, was Schule aus Kindern macht, und die Stimmen, die sich an ihnen reiben.
+
+> **18.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
+>
+> Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
 
 > **17.10.** — [[Panorama/Wie viel Ueberwachung vertraegt die Freiheit|Wie viel Überwachung verträgt die Freiheit?]]
 >
@@ -56,17 +64,9 @@ Die Gedankenwelten (luc)
 >
 > Alle Parteien sagen Falsches, aber nicht alle gleich oft und nicht zum selben Zweck. Vier offene Fragen dazu, was gemessen ist, was gewollt ist und wer die Prüfer prüft.
 
-> **17.10.** — [[Panorama/Macht Migration kriminell|Macht Migration kriminell?]]
->
-> Der Abstand in der Statistik ist echt, sein Grund umstritten. Vier offene Fragen zu Migration und Kriminalität — Kultur oder Lage, Anzeige oder Tat, was ihn kleiner macht, und ob darüber geschwiegen wird.
-
 > **17.10.** — [[Panorama/NoAfD|NoAfD]]
 >
 > Was will die AfD, wenn sie vor vielen leise spricht? Fünf offene Fragen, gemessen an Wortlaut, Programm und Praxis, mit dem Mann, der in Sachsen-Anhalt ihr erster Ministerpräsident werden will.
-
-> **16.10.** — [[Panorama/Was macht die KI aus unserem Denken|Was macht die KI aus unserem Denken?]]
->
-> Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben.
 
 > → *11 weitere in* [[Panorama]]
 
@@ -106,7 +106,7 @@ Die Gedankenwelten (luc)
 >
 > Wer im Verhör lügen muss, um Freunde zu schützen, fragt neu, was Wahrheit ist. Bonhoeffers Antwort aus Tegel: Sie lebt zwischen Menschen, nicht im Satz allein.
 
-> → *4 weitere in* [[Denker]]
+> → *2 weitere in* [[Denker]]
 
 ### Geistesblitz
 
@@ -119,30 +119,6 @@ Die Gedankenwelten (luc)
 > **07.10.** — [[Geistesblitz/Christian Walburg — Migration, Flucht und Kriminalitaet|Christian Walburg — Migration, Flucht und Kriminalität]]
 >
 > Wer mit dreißig einwandert, wird selten noch straffällig; wer jahrelang geduldet wartet, eher. Ein Kriminologe über Migration und Kriminalität, jenseits von Ressentiment und Beschwichtigung.
-
-### Spuren
-
-> **11.10.** — [[Spuren/Wenn-der-Staat-ein-Modell-abschaltet-Fable-Mythos|Wenn der Staat ein Modell abschaltet — Fable 5 & Mythos 5]]
->
-> Erstmals nimmt eine Regierung ein ausgeliefertes KI-Modell vom Netz — und die Begründung ist genau so vage, dass niemand sie von außen prüfen kann.
-
-> **11.10.** — [[Spuren/Gefahr-als-Marketing-KI-Wettlauf|Gefahr als Marketing — der globale Wettlauf um KI-Vorherrschaft]]
->
-> Die Gefahrenwarnung und die Leistungsbroschüre sind in der KI dasselbe Dokument — jeder Spieler bewaffnet das Narrativ, das zu seiner Position im Rennen passt.
-
-> **11.10.** — [[Spuren/AfD-an-der-Macht-die-Probe-auf-das-Gutachten|AfD an der Macht — die Probe auf das Gutachten]]
->
-> Das GFF-Gutachten weist der AfD verfassungswidrige Ziele nach. Diese Spur beobachtet über Jahre, ob ihre Praxis das Urteil einlöst — dort, wo sie wirklich Macht hat.
-
-> **11.10.** — [[Spuren/ICE-ist-die-Wuerde-des-Menschen-antastbar|ICE — ist die Würde des Menschen antastbar?]]
->
-> Ein Kind als Köder an der Haustür, ein Mann im Käfig, Menschen in Länder geflogen, die nicht ihre sind. Wer Menschen zum Mittel macht, erntet, was er sät, und nennt es dann Beweis.
-
-> **11.10.** — [[Spuren/USA-ICE-Einwanderungsvollzug-im-Schatten-der-Aufmerksamkeit|USA und ICE — Einwanderungsvollzug im Schatten der Aufmerksamkeit]]
->
-> Der Vollzug eskaliert, während die Kameras weiterziehen — richterliche Bremsen dämpfen das Tempo, aber nicht die Richtung. Unsichtbarkeit als Bedingung, nicht als Begleiterscheinung.
-
-> → *6 weitere in* [[Spuren]]
 
 ### GoodNews
 
