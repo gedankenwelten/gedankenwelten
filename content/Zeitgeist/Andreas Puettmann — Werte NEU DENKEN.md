@@ -422,7 +422,7 @@ Die protestantische Spiegelung von Püttmanns Typologie. Was er abstrakt als zwe
 
 ### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
 
-Poppers Toleranzparadoxon, das Püttmann hier als Theorie zitiert, wird dort live und ohne Einigung ausgefochten. Heinrichs „eiserner Besen" ist die Militanz der Mitte in ihrer unbequemsten Form, Reichers Vertrauen auf die besseren Argumente die liberale Gegenprobe. Die Note zeigt, was Püttmann offenlässt: Die Grenze der Wehrhaftigkeit bleibt auch unter Leuten strittig, die auf derselben Seite stehen.
+Poppers Toleranzparadoxon, das Püttmann hier als Theorie zitiert, wird dort live und ohne Einigung ausgefochten. Reichers „eiserner Besen" ist die Militanz der Mitte in ihrer unbequemsten Form, Heinrichs Vertrauen auf die besseren Argumente die liberale Gegenprobe. Die Note zeigt, was Püttmann offenlässt: Die Grenze der Wehrhaftigkeit bleibt auch unter Leuten strittig, die auf derselben Seite stehen.
 
 ### → [[Grenzgaenger Studios — Wie Peter Thiel den Westen umbauen will]]
 

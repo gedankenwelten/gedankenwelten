@@ -151,7 +151,7 @@ Das deutsche Produkt der hier analysierten Eigentümerstruktur in Aktion: Gottha
 
 ### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
 
-Die Mikro- zur Makro-Ebene: Wertewesten streitet über einzelne „Einflussagenten" in Talkshows und um die öffentlich-rechtliche Bühne — diese Note zeigt die strukturelle Dimension dahinter, den Aufkauf ganzer Medienlandschaften. Heinrichs Sorge um einzelne Gäste wirkt klein neben der Frage, wem die privaten Bühnen überhaupt gehören.
+Die Mikro- zur Makro-Ebene: Wertewesten streitet über einzelne „Einflussagenten" in Talkshows und um die öffentlich-rechtliche Bühne — diese Note zeigt die strukturelle Dimension dahinter, den Aufkauf ganzer Medienlandschaften. Reichers Sorge um einzelne Gäste wirkt klein neben der Frage, wem die privaten Bühnen überhaupt gehören.
 
 ### → [[Evan Osnos — Megayachten und die Seele der Ultrareichen]]
 

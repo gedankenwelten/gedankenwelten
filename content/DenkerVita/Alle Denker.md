@@ -430,7 +430,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Maren Urner|Maren Urner]]** — Neurowissenschaftlerin, Professorin für Nachhaltige Transformation (Münster UAS); Gründerin *Perspective Daily* (konstruktiver Journalismus); Hope Theory, Angst vs. Hoffnung, dynamisches Denken; SPIEGEL-Bestsellerautorin *Schluss mit dem täglichen Weltuntergang*, *Raus aus der ewigen Dauerkrise*, *Radikal emotional*
 
-**[[DenkerVita/Mark Reicher|Mark Reicher]]** — Informatiker und Geopolitik-YouTuber (VisualPolitik DE, eigener Kanal, Podcast *Wertewesten*); lebt in Prag; Meinungsfreiheit als Selbstzweck, „die besseren Argumente setzen sich durch", Analyse statt Journalismus; brach 2024 mit VisualPolitik wegen Russland-Propaganda-Vorwurf
+**[[DenkerVita/Mark Reicher|Mark Reicher]]** — Informatiker und Geopolitik-YouTuber (VisualPolitik DE, eigener Kanal, Podcast *Wertewesten*); lebt in Prag; Moderator von VisualPolitik DE 2020–2024, nach der Trennung Vorwurf an dessen Autoren, Kreml-Propaganda nicht mehr von der Wirklichkeit zu unterscheiden; im Streit mit Heinrich der Strengere („eiserner Besen" gegen Kreml-nahe Stimmen im öffentlich finanzierten Raum); Differenzierung statt Objektivität
 
 **[[DenkerVita/Martin Andree|Martin Andree]]** — Medienwissenschaftler, apl. Professor Universität zu Köln; BigTech-Monopole als Demokratiegefahr, „Machtverklumpung" aus Tech-Oligarchen und Trump-Regierung, Entflechtung nach Telekom-Vorbild; *Atlas der digitalen Welt* (2020), *Big Tech muss weg!* (2023, Günter-Wallraff-Sonderpreis)
 

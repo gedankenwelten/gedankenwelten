@@ -24,6 +24,10 @@ Die Gedankenwelten (luc)
 
 ### Zeitgeist
 
+> **18.10.** — [[Zeitgeist/Wertewesten — Eiserner Besen oder bessere Argumente|Eiserner Besen oder bessere Argumente — Darf man Propaganda verbieten?]]
+>
+> Zwei erklärt pro-westliche Publizisten streiten über die Grenze der Toleranz: Muss eine Demokratie Propaganda aus dem öffentlichen Raum kehren — oder besiegt man sie nur mit den besseren Argumenten?
+
 > **17.10.** — [[Zeitgeist/Martin Sonneborn — Endloser Krieg|Martin Sonneborn — Endloser Krieg]]
 >
 > Ein Satiriker sieht im Ukraine-Krieg ein Geschäft, das nie enden soll. Seine Rechnung stimmt öfter, als man denkt — nur fehlt in ihr der, der angefangen hat.
@@ -40,11 +44,7 @@ Die Gedankenwelten (luc)
 >
 > Ein Chefredakteur im Vorstand der Atlantik-Brücke, ein Foto, aus dem er herausgeschnitten wurde: Uwe Krüger über Nähe zwischen Journalisten und Eliten, und warum sich ihr Einfluss nicht beweisen lässt.
 
-> **15.10.** — [[Zeitgeist/Martin Oetting — Faschismus stoppen mit der Wahrheit|Martin Oetting — Den Faschismus stoppen, indem man die Wahrheit sagt]]
->
-> Die AfD wirkt wie eine Droge, weil sie hilflose Angst in zupackende Wut verwandelt — wer sie stoppen will, muss den schmerzhaften Weg der Wahrheit gehen, so wie Willy Brandt.
-
-> → *16 weitere in* [[Zeitgeist]]
+> → *12 weitere in* [[Zeitgeist]]
 
 ### Panorama
 
@@ -68,7 +68,7 @@ Die Gedankenwelten (luc)
 >
 > Verlernen wir, was wir der Maschine überlassen? Fünf offene Fragen zum Denken mit Sprachmodellen: zu ihren Werten, ihrer Gefälligkeit, ihrer Verantwortung, ob sie denkt, und die Stimmen, die sich an ihnen reiben.
 
-> → *14 weitere in* [[Panorama]]
+> → *11 weitere in* [[Panorama]]
 
 ### Gedanken
 
@@ -83,10 +83,6 @@ Die Gedankenwelten (luc)
 > **14.10.** — [[Gedanken/Der Stein in der Luft — was wir werfen, faellt zurueck|Der Stein in der Luft — was wir werfen, fällt zurück]]
 >
 > Mit jeder Handlung werfen wir einen Stein in die Luft. Wir sehen den Vorteil im Wurf, den Bogen sehen wir nicht. Der Stein fällt später. Auf Umwegen. Verwandelt. Niemand erkennt ihn mehr als seinen.
-
-> **10.10.** — [[Gedanken/Wuerde im Alltag — wenn der Markt den Wert misst|Würde im Alltag — wenn der Markt den Wert misst]]
->
-> Einen Wert zu haben ist gut. Gefährlich wird es, wenn nur noch der Markt ihn misst. Wer den Alltag der Menschen trägt, macht ihre Handlungsmacht sichtbar und dem Autoritären das Angebot streitig.
 
 ### Denker
 
@@ -110,7 +106,7 @@ Die Gedankenwelten (luc)
 >
 > Wer im Verhör lügen muss, um Freunde zu schützen, fragt neu, was Wahrheit ist. Bonhoeffers Antwort aus Tegel: Sie lebt zwischen Menschen, nicht im Satz allein.
 
-> → *6 weitere in* [[Denker]]
+> → *4 weitere in* [[Denker]]
 
 ### Geistesblitz
 

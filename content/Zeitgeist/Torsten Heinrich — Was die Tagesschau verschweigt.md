@@ -214,7 +214,7 @@ Heinrich zieht den Appeasement-Vergleich bewusst vorsichtig: *„Man sollte nich
 
 ### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
 
-Dieselbe Stimme im Streit mit ihrem Podcast-Partner. Heinrichs hier entwickelte Methodik — Position transparent machen, Belegpflicht, „Neutralität ist eine Lüge" — wird im Wertewesten-Gespräch zum Maßstab, an dem er seinen eigenen Ruf nach dem „eisernen Besen" gegen Kreml-nahe Stimmen messen lassen muss. Bemerkenswert: Der Quellenkritiker nimmt dort die restriktivere Position ein, sein Partner Reicher die kompromisslos freiheitliche.
+Dieselbe Stimme im Streit mit ihrem Podcast-Partner. Heinrichs hier entwickelte Methodik — Position transparent machen, Belegpflicht, „Neutralität ist eine Lüge" — trägt ihn im Wertewesten-Gespräch gegen Mark Reichers Ruf nach dem „eisernen Besen": Wer seine Position offenlegt und belegt, muss die Gegenseite nicht fürchten. Selbst mit dem Oberst, der ihn im MDR-Studio vorgeführt hat, will er wieder auftreten, nur besser vorbereitet.
 
 **Geopolitik & Völkerrecht:**
 

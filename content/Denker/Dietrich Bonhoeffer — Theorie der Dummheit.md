@@ -365,7 +365,7 @@ Der theologische Spiegel zu Bregmans Konformismus-Befund: Beide verorten das Üb
 
 ### → [[Wertewesten — Eiserner Besen oder bessere Argumente]]
 
-Bonhoeffers These ist der härteste Einwand gegen Mark Reichers Credo „die besseren Argumente setzen sich durch". Wenn Dummheit ein Zustand sozialer Entmächtigung ist, gegen den Fakten machtlos abprallen, verliert der freie Markt der Ideen seinen Schiedsrichter — genau das Problem, an dem sich die beiden Wertewesten-Hosts im Streit über Meinungsfreiheit vs. „eisernen Besen" abarbeiten.
+Bonhoeffers These ist der härteste Einwand gegen Torsten Heinrichs Credo „die besseren Argumente setzen sich durch". Wenn Dummheit ein Zustand sozialer Entmächtigung ist, gegen den Fakten machtlos abprallen, verliert der freie Markt der Ideen seinen Schiedsrichter — genau das Problem, an dem sich die beiden Wertewesten-Hosts im Streit über Meinungsfreiheit vs. „eisernen Besen" abarbeiten.
 
 ### → [[Hannah Arendt — Denken ohne Geländer]]
 
