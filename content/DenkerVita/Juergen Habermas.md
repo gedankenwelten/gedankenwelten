@@ -100,6 +100,8 @@ Im *Historikerstreit* (1986) verteidigt er die kritische Auseinandersetzung mit 
 
 *Montaigne befüllt diesen Abschnitt.*
 
+- [[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]] — Zwei Tage nach Habermas' Tod setzte Heitmeyer seine Plattform-Kritik bei dessen später Ratlosigkeit über den Zerfall der einen Öffentlichkeit an. Die Kolonialisierung der Lebenswelt ist die ältere Gestalt dessen, was er Ökonomisierung des Sozialen nennt.
+
 ---
 
 ## Gedankenwelten-Notes

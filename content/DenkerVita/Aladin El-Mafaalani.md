@@ -95,6 +95,9 @@ Hartmanns Elitensoziologie und El-Mafaalanis *Mythos Bildung* demontieren gemein
 ### → [[DenkerVita/Christoph Butterwegge|Christoph Butterwegge]]
 Butterwegges lebenslange Armutsforschung liefert die materielle Unterfütterung für El-Mafaalanis Befund, dass Kinder die armutsgefährdetste Gruppe des Landes sind — doch die beiden reiben sich im Erklärungsrahmen: Butterwegge denkt klassenanalytisch (Kinderarmut als Kapitalismusfolge), El-Mafaalani demografisch-strukturell (Kinder als schrumpfende, politisch stimmlose Minderheit, *Adultismus* jenseits der reinen Ökonomie). Zusammen ergibt sich das vollständigere Bild: arm *und* übersehen.
 
+### → [[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]
+Heitmeyer liest steigende Kurven als Durchrohung; El-Mafaalani hält dagegen, dass sich die Einstellungen in zwanzig Jahren kaum verändert haben; gewachsen sei vor allem die Vernetzung der Misstrauenden. Sein Integrationsparadox stellt neben die Diagnose des Zerfalls die Lesart, dass Reibung auch gelingende Teilhabe anzeigen kann.
+
 ---
 
 ## Gedankenwelten-Notes

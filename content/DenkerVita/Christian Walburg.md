@@ -71,6 +71,7 @@ Walburg ist kein Parteigänger, er argumentiert als Empiriker gegen zwei Verzerr
 - **[[DenkerVita/Stephan Marks|Stephan Marks]]** — Marks' verletzte Anerkennung, die als Wut nach außen geht, ist die psychologische Innenseite dessen, was Walburg mit Elijah Andersons „Code of the Street“ als Respekt auf der Straße beschreibt.
 - **[[DenkerVita/Heinz Bude|Heinz Bude]]** — Budes Gesellschaft des Misstrauens erklärt, warum die Sorge um Kriminalität im Land hoch bleibt, während die eigene Furcht sinkt — der Befund, mit dem Walburg seinen Freiburger Vortrag eröffnet.
 - **[[DenkerVita/Michel Foucault|Michel Foucault]]** — Foucault zeigte, wie das Gefängnis die Delinquenz miterzeugt, die es bekämpfen soll. Walburg macht dieselbe Rechnung für die Kettenduldung auf und warnt 2024 vor der Jugendstrafe als entwicklungsfeindlichem Umfeld.
+- **[[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]** — Heitmeyer nennt den Verweis auf gestiegene Anzeigebereitschaft eine Beruhigungsformel; Walburg wägt genau diese Frage ab und findet bei der Kriminalität Eingewanderter beides, echte Unterschiede und einen Anteil des Anzeigens. Einig sind sie sich darin, Kriminalität aus der Lebenslage zu erklären.
 
 ## Gedankenwelten-Notes
 

@@ -79,6 +79,7 @@ Mau versteht sich als empirischer Soziologe, nicht als politischer Aktivist. Er 
 
 - [[DenkerVita/Aladin El-Mafaalani]] — Meritokratie-Kritik aus Bildungsperspektive, ergänzt Maus empirische Befunde zur ideologischen Verwirrung der Arbeiterklasse
 - [[DenkerVita/Hartmut Rosa]] — Resonanztheorie als mögliche Antwort auf Maus Veränderungsmüdigkeit: Wer resonante Beziehungen zur Welt hat, kann Wandel besser ertragen
+- [[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]] — Mau findet eine in der Breite wenig gespaltene Gesellschaft mit einzelnen Triggerpunkten, Heitmeyer eine Abwertung, die längst in der Mitte sitzt. Einig sind sie sich über die Polarisierungsunternehmer, die bei Heitmeyer Mobilisierungsprofis heißen.
 
 ---
 

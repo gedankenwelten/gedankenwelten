@@ -85,6 +85,7 @@ Prägend wird sein Jahr als Doktorand im zerfallenden Russland 1991/92 — leere
 - **Martin Heidegger** — „Sein zum Tode" und „Geworfenheit" prägen Baberowskis Sinn-Denken („Wir sind Gäste des Lebens"); Foucault liefert das Gegenmotiv: kein Anfang, kein Ende, kein teleologischer Sinn der Geschichte.
 - **[[Denker/Chantal Mouffe — Das Politische und die Politik|Chantal Mouffe]]** — teilt die scharfe Trennung von Liberalismus und Demokratie, zieht daraus aber den agonistischen statt den konservativ-skeptischen Schluss.
 - **[[DenkerVita/Ruben Mawick|Ruben Mawick]]** — Theorie der Gewalt trifft Erfahrung der Gewalt: Baberowskis „Wir sind Gäste des Lebens“ und die ideologiefreie Eigendynamik der Tat finden in Mawicks Nahtoderfahrung und Frontalltag ihre Anschauung.
+- **[[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]** — Der Gegenpol in der Gewaltforschung: Heitmeyer sucht die Ursachen in Desintegration, fehlender Anerkennung und durchrohten Strukturen, Baberowski versteht Gewalt aus ihrem Vollzug und misstraut solchen Ableitungen.
 
 ## Gedankenwelten-Notes
 

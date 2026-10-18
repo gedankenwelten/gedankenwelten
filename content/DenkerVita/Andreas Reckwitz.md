@@ -124,6 +124,8 @@ Genau darin liegt aber auch seine Stärke: Er liefert Vokabular für Erfahrungen
 
 **[[DenkerVita/Maja Goepel|Maja Göpel]]** — Die Gesprächspartnerin, und keine bloße Interviewerin. Sie kommt von der politischen Ökonomie, er von der Kultursoziologie; sie verhandelt den Maßstab, er das Gegenteil des Maßstabs. Zweimal widerspricht sie ihm hart — Resilienz sei politisch schon als Ausrede fürs Nichtstun benutzt worden, und wer Verluste zumutet, während sich oben jemand freikauft, bekomme keine Zustimmung. Am Ende bietet sie ihm das Wort an, das er annimmt: ein *geerdeter* Fortschrittsbegriff.
 
+**[[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]** — Heitmeyer stützt seine Diagnose der Durchrohung auf die Singularisierung: Wo Einzigartigkeit erwartet wird, wird die Abwertung anderer zum Mittel der eigenen Geltung. Seine rohe Bürgerlichkeit, die Abwertung von Langzeitarbeitslosen und Obdachlosen durch die Mitte, ist die gemessene Seite dessen, was Reckwitz über die abgewertete neue Unterklasse schreibt.
+
 ---
 
 ## Gedankenwelten-Notes

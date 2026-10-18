@@ -127,6 +127,10 @@ Zur selben Zeit befragten beide Zeitzeugen des Nationalsozialismus: Welzer mit M
 
 Die Täterforschung beginnt mit Arendts Eichmann und arbeitet sich an ihr ab. Wo Arendt Gedankenlosigkeit fand, fand Welzer Täter, die über ihre Moral nachdachten und ihr Gewissen am eigenen Leiden maßen; einig sind beide darin, dass die Täter keine Ungeheuer waren und die Arbeitsteilung die Verantwortung zerstreute.
 
+### → [[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]]
+
+Welzer fragt, welche Deutungsrahmen das Töten zur Arbeit machten; Heitmeyer fragt mit der Durchrohung nach den Strukturen, die Rohheit heute ermöglichen oder verlangen, von Jobcentern bis zu Plattformen. Beide wenden sich gegen die Erklärung aus dem Charakter des einzelnen Täters.
+
 ---
 
 ## Gedankenwelten-Notes

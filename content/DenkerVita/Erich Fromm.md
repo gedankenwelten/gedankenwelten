@@ -92,6 +92,7 @@ Seine politische Vision: eine Gesellschaft, in der **Mitbestimmung** in Arbeit u
 
 - [[DenkerVita/Dietrich Bonhoeffer|Dietrich Bonhoeffer]] — dasselbe Rätsel, von beiden Seiten des Atlantiks gestellt. Fromm schreibt 1941 im New Yorker Exil *Die Furcht vor der Freiheit* und fragt, warum Menschen eine Last abgeben, die sie eben erst erkämpft haben; Bonhoeffer schreibt anderthalb Jahre später mitten in Deutschland auf, was der Abgabe folgt — „die Macht der einen braucht die Dummheit der anderen“. Fromm findet eine Charakterstruktur, die sich in der Unterwerfung erleichtert fühlt, Bonhoeffer ein soziologisches Gesetz. Der Bruch liegt im Ausweg: Fromms Antwort ist ein Ich, das die Einsamkeit der Freiheit trägt, Bonhoeffers ein Ich, das sich an ein Gegenüber bindet, um vor Menschen nicht einzuknicken.
 - [[DenkerVita/Michael Hampe|Michael Hampe]] — Philosophie als Befreiung statt Lehre; Hampes Zwecklosigkeit ist die Schwester des Sein-Modus, seine Warnung vor der Haltlosigkeit beim Loslassen von Selbstbeschreibungen berührt die Furcht vor der Freiheit.
+- [[DenkerVita/Wilhelm Heitmeyer|Wilhelm Heitmeyer]] — Fromms Befragung von Arbeitern und Angestellten am Ende der Weimarer Republik ist ein Vorläufer von Heitmeyers zehnjähriger Messung der gruppenbezogenen Menschenfeindlichkeit. Der Gesellschafts-Charakter, den eine Gesellschaft hervorbringt, weil sie ihn braucht, kehrt bei Heitmeyer als Frage nach Strukturen wieder, die rohes Verhalten verlangen.
 
 ## Gedankenwelten-Notes
 
