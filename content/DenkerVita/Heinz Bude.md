@@ -1,6 +1,6 @@
 ---
 title: Heinz Bude — DenkerVita
-description: "Der Schreinersohn aus Wuppertal liest Deutschland an seinen Stimmungen ab: Heinz Bude beschrieb die Angst der Mitte und saß 2020 selbst dort, wo man sie lenken wollte."
+description: "Der Schreinersohn aus Wuppertal liest Deutschland an seinen Stimmungen ab: Heinz Bude beschrieb die Angst der Mitte und beriet 2020 eine Regierung, die mit dieser Angst rechnen musste."
 date: 2026-05-05
 aktualisiert: 2026-10-19
 raetsel: "Der Vater hobelte Bretter. Der Sohn horcht, wie ein Land knarrt."

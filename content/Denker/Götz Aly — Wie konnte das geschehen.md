@@ -254,7 +254,7 @@ Mausfeld beschreibt moderne Techniken der Bewusstseinskontrolle — wie Bevölke
 
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Der Erbhofbauer, der auf geraubtem polnischem Land träumen will und sagt: „Wir müssen ihn gewinnen" — das ist Cipollas Quadrant. Er schadet anderen (massiv) und sich selbst (letztlich: Niederlage, Zerstörung, Flucht). Weder Bandit noch Intelligent. Das kollektive Handeln von Millionen im Verbund des Nationalsozialismus fällt in Cipollas fünftes Gesetz: Die unbewusste kollektive Verstärkung.
+Der Erbhofbauer, der auf geraubtem polnischem Land träumen will und sagt: „Wir müssen ihn gewinnen" — das ist Cipollas Quadrant. Er schadet anderen (massiv) und sich selbst (letztlich: Niederlage, Zerstörung, Flucht). Weder Bandit noch Intelligent. Wie Millionen im Verbund des Nationalsozialismus zusammen handelten, erklärt Cipolla allerdings nicht: Seine Dummen handeln einzeln, ein Gesetz der kollektiven Verstärkung kennt er nicht. Er sagt nur, dass Macht den Schaden vergrößert und dass eine Gesellschaft verfällt, wenn die Übrigen den Dummen mehr durchgehen lassen.
 
 ### → [[Zeitgeist/Andreas Kemper — Faschismen im 21. Jahrhundert]]
 

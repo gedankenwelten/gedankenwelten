@@ -55,7 +55,7 @@ Forschung: [Marcelo Kuperman — The destructive effect of human stupidity](http
 >
 > Sein ernsthaftes Werk umfasst Bücher über Schießpulver und Segelschiffe als Triebkräfte europäischer Expansion (*Guns, Sails, and Empires*, 1965), über mechanische Uhren als kulturelle Revolution (*Clocks and Culture*, 1967) und über Pest als Prüfung öffentlicher Institutionen (*Cristofano and the Plague*, 1973). Kurzum: ein Denker, dem es immer darum ging, wie Gesellschaften aufsteigen — und warum sie fallen.
 >
-> 1976 verschickte er 100 nummerierte Exemplare eines privat gedruckten Bändchens an Freunde. Fiktiver Verlag: „Mad Millers“. Titel: *The Basic Laws of Human Stupidity*. Gedacht als Witz. Erschienen in der Wirklichkeit als das schärfste Modell, das je über menschliches Versagen geschrieben wurde.
+> 1976 ließ sein Verlag Il Mulino ein Bändchen in wenigen hundert Exemplaren für Freunde drucken, auf Englisch und unter dem scherzhaften Impressum „The Mad Millers“ (*il mulino* ist die Mühle). Titel: *The Basic Laws of Human Stupidity*. Gedacht als Witz. Erschienen in der Wirklichkeit als das schärfste Modell, das je über menschliches Versagen geschrieben wurde.
 >
 > Die erste autorisierte Veröffentlichung in Buchform erfolgte 1988 im Rahmen von *Allegro ma non troppo* — ein Bestseller, laut Verlag über eine halbe Million Exemplare in mehr als zehn Sprachen. 2019 schrieb Nassim Nicholas Taleb das Vorwort zur neuen englischen Ausgabe: *„Ein meisterhaftes Buch.“*
 >

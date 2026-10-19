@@ -116,7 +116,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Christoph Butterwegge|Christoph Butterwegge]]** — Politikwissenschaftler, Armutsforscher; Relative Armut als strukturell konstruiert, Matthäus-Prinzip in der Steuerpolitik, Finanzmarktkapitalismus als Oligarchie, Demografie als politisches Problem; 2017 Bundespräsidentschaftskandidat Die Linke; em. Professor Universität Köln; Werke: *Armut in einem reichen Land*, *Hartz IV und die Folgen*, *Kinder der Ungleichheit*
 
-**[[DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (UC Berkeley); Vier-Quadranten-Modell (Intelligent/Bandit/Hilflos/Dumm), Asymmetrie-Problem, Dummheit als strukturelle Handlungslogik, Zivilisationsverfall durch Kompositionsverschiebung, *The Basic Laws of Human Stupidity* (1976)
+**[[DenkerVita/Carlo Cipolla|Carlo Cipolla]]** — Wirtschaftshistoriker (Pavia, Berkeley, Balzan-Preis 1995): Geld, Bevölkerung, Uhren, Kanonen und Segel, die Pest als Verwaltungsleistung; im Scherz *The Basic Laws of Human Stupidity* (1976), vier Quadranten, ein Anteil der Dummen, der keine Gruppe ausnimmt
 
 **[[DenkerVita/Christoph Safferling|Christoph Safferling]]** — Strafrechtler und Völkerrechtler (FAU Erlangen-Nürnberg), Direktor der Internationalen Akademie Nürnberger Prinzipien; *Die Akte Rosenburg* (NS-Juristen im BMJ), *Ohnmacht des Völkerrechts* (2025); Nürnberger Prinzipien, kalte Verjährung, Selektivität des Völkerrechts
 
