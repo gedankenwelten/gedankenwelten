@@ -855,8 +855,8 @@ Muster von Loosh-Communities: Isolation, Gruppenidentität, Immunisierung gegen 
 
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Die Selbstimmunisierung des Weltbilds gegen Widerlegung (alles Gegenteilige = Administratoren-Propaganda)
-und der soziale Schaden ohne erkennbaren Nutzen sind Cipollas „Dummheitsmuster" in Reinkultur.
+Cipollas Raster trennt hier zwei Rollen. Wer mit Loosh und Solar-Flash Kurse, Bücher und Reichweite verkauft, handelt als Bandit. Wer daran glaubt, verliert Geld, Zeit und Beziehungen und nützt dabei vor allem dem Verkäufer: Das ist Cipollas Hilfloser, nicht sein Dummer. Die Selbstimmunisierung gegen jede Widerlegung (alles Gegenteilige = Administratoren-Propaganda)
+beschreibt Cipolla nicht; sie erklärt eher, warum Gründe den Hilflosen so schwer erreichen.
 
 ### → [[Hannah Arendt — Denken ohne Geländer]]
 

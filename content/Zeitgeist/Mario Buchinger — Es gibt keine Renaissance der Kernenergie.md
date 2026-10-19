@@ -145,7 +145,7 @@ Buchinger verwendet explizit die „Dummheits"-Rhetorik: Wer 2026 noch die Kerne
 
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Die Frustration über Menschen, die trotz klarer Datenlage immer wieder die gleichen falschen Argumente vorbringen, ist ein Paradefall für Cipollas drittes Gesetz: Dumme schaden anderen und sich selbst ohne erkennbaren Eigennutzen.
+Cipolla macht hier vorsichtig. Wer trotz klarer Datenlage dieselben Argumente wiederholt, hat oft einen Gewinn, den man nicht gleich sieht: Zugehörigkeit, Recht behalten, ein Geschäft. Nach seinem Raster wäre das eher ein Bandit als ein Dummer. Und sein zweites Gesetz gilt für beide Seiten der Energiedebatte: Die Wahrscheinlichkeit, dumm zu handeln, hängt an keiner Position.
 
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 

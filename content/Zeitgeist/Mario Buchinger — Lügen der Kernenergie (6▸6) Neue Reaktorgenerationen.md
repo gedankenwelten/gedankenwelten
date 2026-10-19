@@ -232,7 +232,7 @@ Buchinger beschreibt die Kernenergie-Fans als eine Art Sekte: *„Es ist schwier
 
 ### → [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Die Fossil-Lobby, die Kernenergie propagiert obwohl sie selbst davon nicht profitiert, sondern nur Zeit gewinnt, ist ein Paradefall für Cipollas Analyse strategischer Schadensmuster: man schadet der Gesellschaft (verhinderte Energiewende) und gibt vor, ihr zu nützen.
+Die Fossil-Lobby, die Kernenergie propagiert, um Zeit für das eigene Geschäft zu gewinnen, ist in Cipollas Raster ein Bandit: eigener Nutzen gegen Schaden für die Gesellschaft, die ihre Energiewende verzögert. Cipolla fügt den Satz hinzu, der hier passt: Mit der Macht wächst der Schaden, den einer für einen kleinen Gewinn anrichten kann.
 
 ### → [[Zeitgeist/Andreas Kemper — Technofaschismus und die AfD]]
 

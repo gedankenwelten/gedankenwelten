@@ -95,4 +95,4 @@ strukturelle Grundlage: Behörde ohne Rechenschaftspflicht
 
 ### → [[Denker/Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Cipolla: Der Böse schadet anderen zum eigenen Vorteil. Dieses Muster — Wegnehmen von Besitz ohne Konsequenzen — ist genau das: nicht Dummheit, sondern kalkulierter Schaden.
+Cipolla: Der Bandit schadet anderen zum eigenen Vorteil. Dieses Muster — Wegnehmen von Besitz ohne Konsequenzen — ist genau das: nicht Dummheit, sondern kalkulierter Schaden.

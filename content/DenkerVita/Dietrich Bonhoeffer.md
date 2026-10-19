@@ -150,7 +150,7 @@ Musil hielt im März 1937 in Wien seine Rede *Über die Dummheit*, fünf Jahre v
 
 ### → [[DenkerVita/Carlo Cipolla|Carlo Cipolla]]
 
-Der Ökonom von 1976 und der Theologe von 1942 kommen im schärfsten Satz überein: Der Dumme ist gefährlicher als der Böse, weil kein rationaler Zugriff auf ihn greift, und Bildung schützt nicht. Von da an laufen sie auseinander. Cipollas Dummer ist eine Naturkonstante — ein fester Anteil jeder Population, unabhängig von Epoche und Milieu, definiert allein über den Schaden, den er ohne eigenen Nutzen anrichtet. Bonhoeffers Dummer ist ein historisches Produkt: hergestellt von einer Machtentfaltung, und darum mit ihr auch wieder auflösbar. Der eine beschreibt kühl eine Struktur, der andere sieht ein Opfer und fragt nach der Schuld derer, die es gemacht haben.
+Der Wirtschaftshistoriker von 1976 und der Theologe von 1942 kommen im schärfsten Satz überein: Der Dumme ist gefährlicher als der Böse, weil kein rationaler Zugriff auf ihn greift, und Bildung schützt nicht. Von da an laufen sie auseinander. Cipollas Dummer ist eine Konstante, ein fester Anteil jeder Population, unabhängig von Epoche und Milieu, definiert allein über den Schaden, den er ohne eigenen Nutzen anrichtet. Bonhoeffers Dummer ist ein historisches Produkt: hergestellt von einer Machtentfaltung, und darum mit ihr auch wieder auflösbar. Der eine beschreibt kühl eine Struktur, der andere sieht ein Opfer und fragt nach der Schuld derer, die es gemacht haben.
 
 ### → [[DenkerVita/Götz Aly|Götz Aly]]
 

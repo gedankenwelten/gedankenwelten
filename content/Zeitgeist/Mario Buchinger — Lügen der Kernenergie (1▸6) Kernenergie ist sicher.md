@@ -150,4 +150,4 @@ Die Differenz zwischen offiziellen 4.000 und realistisch 30.000–1.400.000 Tsch
 
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Die Strategie der AKW-Fans, offiziell gezählte Todesopfer durch erzeugte kWh zu teilen und daraus „Sicherheit" zu konstruieren, ist eine methodisch unehrliche Metrik — die schadet der gesellschaftlichen Debatte, ohne irgendjemanden zu nützen. Cipollas dritter Typus.
+Wem nützt die Metrik? Wer offiziell gezählte Todesopfer durch erzeugte kWh teilt, um daraus „Sicherheit" vorzurechnen, verfolgt ein Interesse. In Cipollas Raster ist das ein Bandit: Schaden für die Debatte, Nutzen für die eigene Sache. Dumm im Sinne Cipollas wäre erst, wer die Rechnung ohne jeden eigenen Vorteil weiterträgt, und das kann jedem passieren, der eine Zahl teilt, ohne sie zu prüfen.

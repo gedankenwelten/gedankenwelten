@@ -309,7 +309,7 @@ Bonhoeffers Kerndiagnose: Fakten verfangen nicht bei Menschen, die sie schlicht 
 
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Cipollas drittes Gesetz: Dumme schaden anderen und sich selbst ohne erkennbaren Eigennutzen. Der Kommentar von Friedolin Roh — „ich bin dann tot, kann strahlen, solange es will" — ist ein extremes Beispiel: aktiver Schaden an zukünftigen Generationen ohne jeden persönlichen Nutzen.
+Cipolla misst Handlungen, nicht Menschen. Ein Satz wie „ich bin dann tot, kann strahlen, solange es will" beschreibt eine Haltung, die künftigen Generationen schadet, ohne dem Sprechenden etwas zu bringen außer Gleichgültigkeit. Nach Cipolla ist das die gefährlichste Form, weil Argumente sie nicht erreichen. Sein viertes Gesetz warnt zugleich die, die darüber den Kopf schütteln: Der Fehler der Klugen ist die Verachtung.
 
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 

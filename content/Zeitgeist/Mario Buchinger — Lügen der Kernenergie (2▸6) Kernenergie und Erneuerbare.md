@@ -146,7 +146,7 @@ Der LinkedIn-„Energieexperte", der manipulierte Grafiken verbreitet und Schlus
 
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Wer bewusst irreführende Grafiken verbreitet, um eine Position zu stützen, die selbst die eigene Industrie längst aufgegeben hat, schadet anderen (durch schlechte Energiepolitik) und letztlich auch sich selbst — Cipollas Definition des Dummen trifft hier präzise.
+Wer bewusst irreführende Grafiken verbreitet, um eine Position zu stützen, handelt nach Cipolla als Bandit: Er will damit etwas gewinnen. Gefährlicher ist nach Cipollas Logik, wer dieselbe Grafik ohne jeden Vorteil weiterteilt und damit auch sich selbst schadet. Das ist keine Gruppe, sondern eine Handlung, die jedem unterlaufen kann, auch auf der Seite, die gerade recht hat.
 
 ### → [[Rainer Mausfeld — Warum schweigen die Lämmer]]
 

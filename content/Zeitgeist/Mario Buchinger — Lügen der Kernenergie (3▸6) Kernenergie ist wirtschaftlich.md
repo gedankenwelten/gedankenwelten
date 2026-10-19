@@ -127,7 +127,7 @@ Die anhaltende öffentliche Wahrnehmung, Kernenergie sei wirtschaftlich, obwohl 
 
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Buchangers wiederkehrende Frustration über das Ignorieren klarer ökonomischer Daten durch AKW-Befürworter entspricht Cipollas Diagnose: Handeln, das den Anderen (Steuerzahlern) schadet, ohne dem Handelnden zu nützen — außer ideologisch.
+Cipolla gibt hier eine nützliche Frage mit: Nützt das Ignorieren der Kosten dem, der es tut? Wenn ja, als Zugehörigkeit, Weltbild oder Recht behalten, ist es nach seinem Raster kein dummes Handeln, sondern ein Tausch: ein kleiner eigener Gewinn gegen einen großen Schaden für die Steuerzahler. Das macht es nicht harmloser, aber verständlicher, und was verständlich ist, lässt sich ansprechen.
 
 ### → [[Heiner Flassbeck — Krise und Rechtsruck]]
 

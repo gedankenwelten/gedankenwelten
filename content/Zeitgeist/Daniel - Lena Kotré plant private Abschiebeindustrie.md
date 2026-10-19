@@ -208,7 +208,7 @@ Bonhoeffer: Dummheit ist gesellschaftlich bedingt und entsteht durch Machtzugewi
 
 ### → [[Carlo Cipolla — Die fünf Gesetze der Dummheit]]
 
-Cipolla's Definition: dumm ist, wer anderen und sich selbst schadet. Kotrés Pläne verstoßen gegen Verfassung und Menschenrecht — und beschädigen auch die AfD selbst langfristig
+Nach Cipolla ist ein Plan, der anderen schadet und dem Planenden nützt, das Handeln eines Banditen; dumm würde er erst, wenn er auch den eigenen Leuten schadet. Ob Kotrés Pläne der AfD langfristig schaden, ist offen. Sicher ist der Schaden für die, die abgeschoben werden sollen, und für die Verfassung, an der die Pläne sich reiben.
 
 ### → [[Ibram X. Kendi — Great Replacement Theory und der Weg zur Wahlautokratie]]
 
