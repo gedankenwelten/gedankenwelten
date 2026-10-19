@@ -28,7 +28,7 @@ aliases:
 Quelle: [„Brauchen wir eine Boomer-Soziologie?" — Vortrag an der Humboldt-Universität Berlin](https://www.youtube.com/watch?v=pl848sxbTjU)
 
 > [!info] Wer spricht?
-> **Heinz Bude** (*1954, Wuppertal*) — Soziologe, emeritierter Professor für Makrosoziologie an der Universität Kassel, Gründungsdirektor des documenta-Instituts. Selbst Boomer und Bildungsaufsteiger aus einer Arbeiterfamilie.
+> **Heinz Bude** (*1954, Wuppertal*) — Soziologe, emeritierter Professor für Makrosoziologie an der Universität Kassel, Gründungsdirektor des documenta-Instituts. Selbst Boomer und Bildungsaufsteiger, Sohn eines selbstständigen Schreiners.
 >
 > Bude ist einer der profiliertesten öffentlichen Soziologen Deutschlands — ausgezeichnet 2016 mit dem DGS-Preis für öffentliche Wirksamkeit der Soziologie. Seine Arbeit kreist seit der Dissertation über die Flakhelfer-Generation (1987) um die Frage, wie Generationen die deutsche Gesellschaft formen. Er promovierte und habilitierte an der FU Berlin, leitete bis 2014 den Arbeitsbereich „Die Gesellschaft der Bundesrepublik" am Hamburger Institut für Sozialforschung.
 >

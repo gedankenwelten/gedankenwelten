@@ -252,7 +252,7 @@ Ausführlich analysierte Personen aus Gedankenwelten — mit vollständigem Prof
 
 **[[DenkerVita/Hasnain Kazim|Hasnain Kazim]]** — Journalist und Autor, ehem. *Spiegel*-Korrespondent (Islamabad, Istanbul, Wien), zuvor Marineoffizier; *Post von Karlheinz*, *Auf sie mit Gebrüll!*, *Deutschlandtour* — Antworten statt Blockieren, Streit als demokratische Kulturtechnik
 
-**[[DenkerVita/Heinz Bude|Heinz Bude]]** — Soziologe, em. Professor Kassel, Gründungsdirektor documenta-Institut; Generationssoziologie als Schlüssel zur Bundesrepublik, kommunikatives Beschweigen
+**[[DenkerVita/Heinz Bude|Heinz Bude]]** — Soziologe, em. Professor Kassel, Gründungsdirektor documenta Institut; die Bundesrepublik erzählt über ihre Generationen, die Statusangst der Mitte, Stimmungen als soziale Tatsache; umstritten als Corona-Berater
 
 **[[DenkerVita/Heiner Flassbeck|Heiner Flassbeck]]** — Ökonom, ehem. Staatssekretär BMF unter Lafontaine, Chefökonom UNCTAD; Sparparadoxon, Lohnstückkostenregel, sektorale Finanzierungssalden; Keynesianischer Einzelkämpfer im ordoliberalen Deutschland
 
